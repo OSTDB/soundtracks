@@ -5592,6 +5592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wuthering Waves: Lightly We Toss the Crown | 346182 | [346182-wuthering-waves-lightly-we-toss-the-crown.json](./346182-wuthering-waves-lightly-we-toss-the-crown.json) |
 | Wuthering Waves: Resolution to Illuminate the Shadows | 394857 | [394857-wuthering-waves-resolution-to-illuminate-the-shadows.json](./394857-wuthering-waves-resolution-to-illuminate-the-shadows.json) |
 | Wuthering Waves: Thaw of Eons | 311653 | [311653-wuthering-waves-thaw-of-eons.json](./311653-wuthering-waves-thaw-of-eons.json) |
+| Wuthering Waves: To the City Set in Amber | 377973 | [377973-wuthering-waves-to-the-city-set-in-amber.json](./377973-wuthering-waves-to-the-city-set-in-amber.json) |
 | Wuthering Waves: To the Shore's End | 317337 | [317337-wuthering-waves-to-the-shores-end.json](./317337-wuthering-waves-to-the-shores-end.json) |
 | Wuthering Waves: Unfading Melody of Life | 355745 | [355745-wuthering-waves-unfading-melody-of-life.json](./355745-wuthering-waves-unfading-melody-of-life.json) |
 | Wuthering Waves: We Who See the Stars | 381238 | [381238-wuthering-waves-we-who-see-the-stars.json](./381238-wuthering-waves-we-who-see-the-stars.json) |
