@@ -3332,6 +3332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beautiful Dangerous | 343371 | [343371-beautiful-dangerous.json](./343371-beautiful-dangerous.json) |
 | Beautiful Defenders | 364031 | [364031-beautiful-defenders.json](./364031-beautiful-defenders.json) |
 | Beautiful Desolation | 56914 | [56914-beautiful-desolation.json](./56914-beautiful-desolation.json) |
+| Beautiful Escape Dolls | 351566 | [351566-beautiful-escape-dolls.json](./351566-beautiful-escape-dolls.json) |
 | Beautiful Escape: Dungeoneer | 214574 | [214574-beautiful-escape-dungeoneer.json](./214574-beautiful-escape-dungeoneer.json) |
 | Beautiful Girl | 368619 | [368619-beautiful-girl.json](./368619-beautiful-girl.json) |
 | Beautiful Girl Fight School | 130207 | [130207-beautiful-girl-fight-school.json](./130207-beautiful-girl-fight-school.json) |
@@ -8608,6 +8609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brainrot Survivors | 391041 | [391041-brainrot-survivors.json](./391041-brainrot-survivors.json) |
 | Brainrot Wars | 344965 | [344965-brainrot-wars.json](./344965-brainrot-wars.json) |
 | Brainrot: Animal Quizzes | 343259 | [343259-brainrot-animal-quizzes.json](./343259-brainrot-animal-quizzes.json) |
+| Brainrot: Story of Glorbo Frutodrillo & Ballerino Cappuccino | 351591 | [351591-brainrot-story-of-glorbo-frutodrillo-and-ballerino-cappuccino.json](./351591-brainrot-story-of-glorbo-frutodrillo-and-ballerino-cappuccino.json) |
 | Brains & Hearts | 330163 | [330163-brains-and-hearts.json](./330163-brains-and-hearts.json) |
 | Brains Diamonds | 246435 | [246435-brains-diamonds.json](./246435-brains-diamonds.json) |
 | Brains: Denshinou Kougeki Shirei | 66054 | [66054-brains-denshinou-kougeki-shirei.json](./66054-brains-denshinou-kougeki-shirei.json) |
