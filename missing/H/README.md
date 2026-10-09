@@ -2714,6 +2714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello, Goodbye, Summer Girl | 151721 | [151721-hello-goodbye-summer-girl.json](./151721-hello-goodbye-summer-girl.json) |
 | Hello, Kami-sama Worker | 379354 | [379354-hello-kami-sama-worker.json](./379354-hello-kami-sama-worker.json) |
 | Hello, Lucia | 235818 | [235818-hello-lucia.json](./235818-hello-lucia.json) |
+| Hello, Mario! | 363807 | [363807-hello-mario.json](./363807-hello-mario.json) |
 | Hello, This Is Bear | 272344 | [272344-hello-this-is-bear.json](./272344-hello-this-is-bear.json) |
 | Hello, Vic | 258543 | [258543-hello-vic.json](./258543-hello-vic.json) |
 | Hello, World! | 182322 | [182322-hello-world.json](./182322-hello-world.json) |
