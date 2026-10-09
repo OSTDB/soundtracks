@@ -689,6 +689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jeremy McGrath's Offroad | 20828 | [20828-jeremy-mcgraths-offroad.json](./20828-jeremy-mcgraths-offroad.json) |
 | Jericho Mirage | 210133 | [210133-jericho-mirage.json](./210133-jericho-mirage.json) |
 | Jericho's Rose | 173246 | [173246-jerichos-rose.json](./173246-jerichos-rose.json) |
+| Jerking Off in Class Simulator | 367843 | [367843-jerking-off-in-class-simulator.json](./367843-jerking-off-in-class-simulator.json) |
 | Jerma Rancher | 329939 | [329939-jerma-rancher.json](./329939-jerma-rancher.json) |
 | JermaSlots | 138008 | [138008-jermaslots.json](./138008-jermaslots.json) |
 | Jerod Kart 64 | 300263 | [300263-jerod-kart-64.json](./300263-jerod-kart-64.json) |
@@ -2171,6 +2172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jungle Jim | 340781 | [340781-jungle-jim.json](./340781-jungle-jim.json) |
 | Jungle Jinx | 355563 | [355563-jungle-jinx.json](./355563-jungle-jinx.json) |
 | Jungle Jumperz | 336754 | [336754-jungle-jumperz.json](./336754-jungle-jumperz.json) |
+| Jungle Kong | 367844 | [367844-jungle-kong.json](./367844-jungle-kong.json) |
 | Jungle Maths | 319585 | [319585-jungle-maths.json](./319585-jungle-maths.json) |
 | Jungle Max | 291568 | [291568-jungle-max.json](./291568-jungle-max.json) |
 | Jungle Monk | 78627 | [78627-jungle-monk.json](./78627-jungle-monk.json) |
