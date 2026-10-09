@@ -3298,6 +3298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defense of the Sodomites | 336679 | [336679-defense-of-the-sodomites.json](./336679-defense-of-the-sodomites.json) |
 | Defense Technica | 10178 | [10178-defense-technica.json](./10178-defense-technica.json) |
 | Defense Tower Simulator | 152775 | [152775-defense-tower-simulator.json](./152775-defense-tower-simulator.json) |
+| Defense X | 366130 | [366130-defense-x.json](./366130-defense-x.json) |
 | Defense Zone | 17611 | [17611-defense-zone.json](./17611-defense-zone.json) |
 | Defense Zone 2 | 17303 | [17303-defense-zone-2.json](./17303-defense-zone-2.json) |
 | Defense Zone 3 Ultra HD | 36205 | [36205-defense-zone-3-ultra-hd.json](./36205-defense-zone-3-ultra-hd.json) |
@@ -8122,6 +8123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doubutsujima no Chubi Gurumi 2: Tama-chan Monogatari | 49263 | [49263-doubutsujima-no-chubi-gurumi-2-tama-chan-monogatari.json](./49263-doubutsujima-no-chubi-gurumi-2-tama-chan-monogatari.json) |
 | Douche Bag | 51735 | [51735-douche-bag.json](./51735-douche-bag.json) |
 | Douche Defender | 63362 | [63362-douche-defender.json](./63362-douche-defender.json) |
+| Douchebag: Ultimate Bro Pack | 366107 | [366107-douchebag-ultimate-bro-pack.json](./366107-douchebag-ultimate-bro-pack.json) |
 | DoudingMan | 264015 | [264015-doudingman.json](./264015-doudingman.json) |
 | DoudingMan: Expansion Packs | 288899 | [288899-doudingman-expansion-packs.json](./288899-doudingman-expansion-packs.json) |
 | Dòudìzhǔ VR | 89423 | [89423-doudizhu-vr.json](./89423-doudizhu-vr.json) |
