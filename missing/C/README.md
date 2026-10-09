@@ -35,6 +35,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | C.L.A.S.H: Colonial Life Advancing Self-sustained Hemisphere - Chapter 1 | 406245 | [406245-c-l-a-s-h-colonial-life-advancing-self-sustained-hemisphere-chapter-1.json](./406245-c-l-a-s-h-colonial-life-advancing-self-sustained-hemisphere-chapter-1.json) |
 | C.L.A.Y.: The Last Redemption | 193289 | [193289-c-l-a-y-the-last-redemption.json](./193289-c-l-a-y-the-last-redemption.json) |
 | C.L.T.: Cheguei Louco no Trabalho | 255390 | [255390-c-l-t-cheguei-louco-no-trabalho.json](./255390-c-l-t-cheguei-louco-no-trabalho.json) |
+| C.L.U.C.K. | 350374 | [350374-c-l-u-c-k.json](./350374-c-l-u-c-k.json) |
 | C.M.Y.K | 135046 | [135046-c-m-y-k.json](./135046-c-m-y-k.json) |
 | C.O.D.E.R.E.D | 191034 | [191034-c-o-d-e-r-e-d.json](./191034-c-o-d-e-r-e-d.json) |
 | C.O.R.E. | 20977 | [20977-c-o-r-e.json](./20977-c-o-r-e.json) |
@@ -228,6 +229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cahier de Vacances pour Adultes 2 | 269674 | [269674-cahier-de-vacances-pour-adultes-2.json](./269674-cahier-de-vacances-pour-adultes-2.json) |
 | Cahoots | 250305 | [250305-cahoots.json](./250305-cahoots.json) |
 | Cahors Sunset | 35956 | [35956-cahors-sunset.json](./35956-cahors-sunset.json) |
+| Câi & Darren: Code Calamity | 350385 | [350385-cai-and-darren-code-calamity.json](./350385-cai-and-darren-code-calamity.json) |
 | Cai Cai Balão | 147296 | [147296-cai-cai-balao.json](./147296-cai-cai-balao.json) |
 | Caiaque | 305264 | [305264-caiaque.json](./305264-caiaque.json) |
 | Caila Raven And The Draco | 315570 | [315570-caila-raven-and-the-draco.json](./315570-caila-raven-and-the-draco.json) |
@@ -5957,6 +5959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clifftop Games Bundle I Kathy Rain: Director's Cut + Whispers of a Machine | 226788 | [226788-clifftop-games-bundle-i-kathy-rain-directors-cut-whispers-of-a-machine.json](./226788-clifftop-games-bundle-i-kathy-rain-directors-cut-whispers-of-a-machine.json) |
 | Clik Flip | 194964 | [194964-clik-flip.json](./194964-clik-flip.json) |
 | Clim Snail | 379017 | [379017-clim-snail.json](./379017-clim-snail.json) |
+| Climate Station | 350384 | [350384-climate-station.json](./350384-climate-station.json) |
 | Climatic Survival: Northern Storm | 121485 | [121485-climatic-survival-northern-storm.json](./121485-climatic-survival-northern-storm.json) |
 | Climb | 362343 | [362343-climb.json](./362343-climb.json) |
 | Climb and Cry | 405627 | [405627-climb-and-cry.json](./405627-climb-and-cry.json) |
@@ -10394,6 +10397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cross The World | 383627 | [383627-cross-the-world.json](./383627-cross-the-world.json) |
 | Cross Word | 89514 | [89514-cross-word.json](./89514-cross-word.json) |
 | Cross Words | 417427 | [417427-cross-words.json](./417427-cross-words.json) |
+| Cross World: Mishiranu Sora no Etatia | 350459 | [350459-cross-world-mishiranu-sora-no-etatia.json](./350459-cross-world-mishiranu-sora-no-etatia.json) |
 | Cross X Carrot | 111608 | [111608-cross-x-carrot.json](./111608-cross-x-carrot.json) |
 | Cross-Stitch Puzzle | 90822 | [90822-cross-stitch-puzzle.json](./90822-cross-stitch-puzzle.json) |
 | Crossbar Kevin | 246961 | [246961-crossbar-kevin.json](./246961-crossbar-kevin.json) |
@@ -10924,6 +10928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystal Clear, Mail's Here | 390156 | [390156-crystal-clear-mails-here.json](./390156-crystal-clear-mails-here.json) |
 | Crystal Compulsion | 208834 | [208834-crystal-compulsion.json](./208834-crystal-compulsion.json) |
 | Crystal Confines | 69319 | [69319-crystal-confines.json](./69319-crystal-confines.json) |
+| Crystal Conflict | 350463 | [350463-crystal-conflict.json](./350463-crystal-conflict.json) |
 | Crystal Control | 140923 | [140923-crystal-control.json](./140923-crystal-control.json) |
 | Crystal core | 124212 | [124212-crystal-core.json](./124212-crystal-core.json) |
 | Crystal Cosmos | 32244 | [32244-crystal-cosmos.json](./32244-crystal-cosmos.json) |
