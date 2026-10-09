@@ -604,6 +604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hammer Away | 40181 | [40181-hammer-away.json](./40181-hammer-away.json) |
 | Hammer Boy | 70460 | [70460-hammer-boy.json](./70460-hammer-boy.json) |
 | Hammer Bros | 264666 | [264666-hammer-bros.json](./264666-hammer-bros.json) |
+| Hammer Champ | 337564 | [337564-hammer-champ.json](./337564-hammer-champ.json) |
 | Hammer climber - Hard Get Over | 105944 | [105944-hammer-climber-hard-get-over.json](./105944-hammer-climber-hard-get-over.json) |
 | Hammer Dongers | 140483 | [140483-hammer-dongers.json](./140483-hammer-dongers.json) |
 | Hammer Hero | 299398 | [299398-hammer-hero.json](./299398-hammer-hero.json) |
