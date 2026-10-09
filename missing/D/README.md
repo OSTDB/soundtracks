@@ -10830,6 +10830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeonoid 2: Awakening | 282152 | [282152-dungeonoid-2-awakening.json](./282152-dungeonoid-2-awakening.json) |
 | Dungeonpreneur | 274033 | [274033-dungeonpreneur.json](./274033-dungeonpreneur.json) |
 | Dungeonrite | 203941 | [203941-dungeonrite.json](./203941-dungeonrite.json) |
+| DungeonRoute | 369924 | [369924-dungeonroute.json](./369924-dungeonroute.json) |
 | Dungeons | 8849 | [8849-dungeons.json](./8849-dungeons.json) |
 | Dungeons & Bombs | 143488 | [143488-dungeons-and-bombs.json](./143488-dungeons-and-bombs.json) |
 | Dungeons & Brooms | 183447 | [183447-dungeons-and-brooms.json](./183447-dungeons-and-brooms.json) |
@@ -11238,6 +11239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dynasty Origins: Conquest | 216128 | [216128-dynasty-origins-conquest.json](./216128-dynasty-origins-conquest.json) |
 | Dynasty Warriors | 100279 | [100279-dynasty-warriors.json](./100279-dynasty-warriors.json) |
 | Dynasty Warriors | 2982 | [2982-dynasty-warriors.json](./2982-dynasty-warriors.json) |
+| Dynasty Warriors 3: Complete Edition Remastered | 369991 | [369991-dynasty-warriors-3-complete-edition-remastered.json](./369991-dynasty-warriors-3-complete-edition-remastered.json) |
 | Dynasty Warriors 3: Xtreme Legends | 45014 | [45014-dynasty-warriors-3-xtreme-legends.json](./45014-dynasty-warriors-3-xtreme-legends.json) |
 | Dynasty Warriors 4 | 3007 | [3007-dynasty-warriors-4.json](./3007-dynasty-warriors-4.json) |
 | Dynasty Warriors 4: Empires | 19620 | [19620-dynasty-warriors-4-empires.json](./19620-dynasty-warriors-4-empires.json) |
