@@ -1075,6 +1075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2weistein: The Curse of the Red Dragon 3 - Ronger Pirates | 214561 | [214561-2weistein-the-curse-of-the-red-dragon-3-ronger-pirates.json](./214561-2weistein-the-curse-of-the-red-dragon-3-ronger-pirates.json) |
 | 2win Ghost | 92619 | [92619-2win-ghost.json](./92619-2win-ghost.json) |
 | 2X | 208984 | [208984-2x.json](./208984-2x.json) |
+| 2x0ng | 342039 | [342039-2x0ng.json](./342039-2x0ng.json) |
 | 2x4 Nails | 258003 | [258003-2x4-nails.json](./258003-2x4-nails.json) |
 | 2XKO: PS+ Benefit Bundle Y1S1 | 386485 | [386485-2xko-ps-benefit-bundle-y1s1.json](./386485-2xko-ps-benefit-bundle-y1s1.json) |
 | 2XKO: Starter Edition Standard | 386484 | [386484-2xko-starter-edition-standard.json](./386484-2xko-starter-edition-standard.json) |
