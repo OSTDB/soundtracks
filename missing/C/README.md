@@ -1238,6 +1238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Wars | 42214 | [42214-car-wars.json](./42214-car-wars.json) |
 | Car Wash | 295261 | [295261-car-wash.json](./295261-car-wash.json) |
 | Car Wash | 323503 | [323503-car-wash.json](./323503-car-wash.json) |
+| Car Wash Simulator | 343750 | [343750-car-wash-simulator.json](./343750-car-wash-simulator.json) |
 | Car-Toon Chaos | 298170 | [298170-car-toon-chaos.json](./298170-car-toon-chaos.json) |
 | Car! | 314670 | [314670-car.json](./314670-car.json) |
 | Cara Night | 46618 | [46618-cara-night.json](./46618-cara-night.json) |
@@ -3367,6 +3368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chaos Chain: Supporter Cosmetic Pack 3 | 302592 | [302592-chaos-chain-supporter-cosmetic-pack-3.json](./302592-chaos-chain-supporter-cosmetic-pack-3.json) |
 | Chaos Chronicle | 57893 | [57893-chaos-chronicle.json](./57893-chaos-chronicle.json) |
 | Chaos Chronicles | 63923 | [63923-chaos-chronicles.json](./63923-chaos-chronicles.json) |
+| Chaos Classroom | 343752 | [343752-chaos-classroom.json](./343752-chaos-classroom.json) |
 | Chaos Claw | 382409 | [382409-chaos-claw.json](./382409-chaos-claw.json) |
 | Chaos Code | 78605 | [78605-chaos-code.json](./78605-chaos-code.json) |
 | Chaos Code: Exact Xeno Attack | 348232 | [348232-chaos-code-exact-xeno-attack.json](./348232-chaos-code-exact-xeno-attack.json) |
@@ -6059,6 +6061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clockwork Knight: Pepperouchau no Fukubukuro | 137541 | [137541-clockwork-knight-pepperouchau-no-fukubukuro.json](./137541-clockwork-knight-pepperouchau-no-fukubukuro.json) |
 | Clockwork Manor | 240914 | [240914-clockwork-manor.json](./240914-clockwork-manor.json) |
 | Clockwork Owl | 224767 | [224767-clockwork-owl.json](./224767-clockwork-owl.json) |
+| Clockwork Palace: Mysteries of the Mughal Mechanicum | 343751 | [343751-clockwork-palace-mysteries-of-the-mughal-mechanicum.json](./343751-clockwork-palace-mysteries-of-the-mughal-mechanicum.json) |
 | Clockwork Pussy | 158218 | [158218-clockwork-pussy.json](./158218-clockwork-pussy.json) |
 | Clockwork Rabbit | 319814 | [319814-clockwork-rabbit.json](./319814-clockwork-rabbit.json) |
 | Clockwork Revolution | 252840 | [252840-clockwork-revolution.json](./252840-clockwork-revolution.json) |
@@ -7207,6 +7210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colossal Citadels | 217343 | [217343-colossal-citadels.json](./217343-colossal-citadels.json) |
 | Colossal Crisis | 338880 | [338880-colossal-crisis.json](./338880-colossal-crisis.json) |
 | Colossal Kaiju Combat: Kaijuland Battles | 36353 | [36353-colossal-kaiju-combat-kaijuland-battles.json](./36353-colossal-kaiju-combat-kaijuland-battles.json) |
+| Colossal Kickoff | 343767 | [343767-colossal-kickoff.json](./343767-colossal-kickoff.json) |
 | Colossal Saga | 126663 | [126663-colossal-saga.json](./126663-colossal-saga.json) |
 | Colossatron: Cosmic Crisis | 317377 | [317377-colossatron-cosmic-crisis.json](./317377-colossatron-cosmic-crisis.json) |
 | Colossatron: Massive World Threat | 62546 | [62546-colossatron-massive-world-threat.json](./62546-colossatron-massive-world-threat.json) |
