@@ -1579,6 +1579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Party Hard: High Crimes | 171630 | [171630-party-hard-high-crimes.json](./171630-party-hard-high-crimes.json) |
 | Party Harvest | 365751 | [365751-party-harvest.json](./365751-party-harvest.json) |
 | Party Host 85 | 153009 | [153009-party-host-85.json](./153009-party-host-85.json) |
+| Party House | 357735 | [357735-party-house.json](./357735-party-house.json) |
 | Party Jousting | 33608 | [33608-party-jousting.json](./33608-party-jousting.json) |
 | Party Madness | 370323 | [370323-party-madness.json](./370323-party-madness.json) |
 | Party Makeover Salon | 87923 | [87923-party-makeover-salon.json](./87923-party-makeover-salon.json) |
@@ -10763,6 +10764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Star Sweep | 44744 | [44744-puzzle-star-sweep.json](./44744-puzzle-star-sweep.json) |
 | Puzzle Sudoku | 304171 | [304171-puzzle-sudoku.json](./304171-puzzle-sudoku.json) |
 | Puzzle Tales: Arcane Voyager | 358451 | [358451-puzzle-tales-arcane-voyager.json](./358451-puzzle-tales-arcane-voyager.json) |
+| Puzzle Temptation: Anime Reveal | 357764 | [357764-puzzle-temptation-anime-reveal.json](./357764-puzzle-temptation-anime-reveal.json) |
 | Puzzle Time | 209369 | [209369-puzzle-time.json](./209369-puzzle-time.json) |
 | Puzzle Time: Seasons | 254043 | [254043-puzzle-time-seasons.json](./254043-puzzle-time-seasons.json) |
 | Puzzle to Go Baby Animals | 84794 | [84794-puzzle-to-go-baby-animals.json](./84794-puzzle-to-go-baby-animals.json) |
