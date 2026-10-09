@@ -257,6 +257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nano Assault Neo | 21385 | [21385-nano-assault-neo.json](./21385-nano-assault-neo.json) |
 | Nano Code:X | 410908 | [410908-nano-code-x.json](./410908-nano-code-x.json) |
 | Nano Dash | 103163 | [103163-nano-dash.json](./103163-nano-dash.json) |
+| Nano Dash | 385377 | [385377-nano-dash.json](./385377-nano-dash.json) |
 | Nano Driller | 115587 | [115587-nano-driller.json](./115587-nano-driller.json) |
 | Nano Fighter Anti Disease | 149191 | [149191-nano-fighter-anti-disease.json](./149191-nano-fighter-anti-disease.json) |
 | Nano Flat Owner | 391032 | [391032-nano-flat-owner.json](./391032-nano-flat-owner.json) |
@@ -2123,6 +2124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NewPark Simon XL | 101507 | [101507-newpark-simon-xl.json](./101507-newpark-simon-xl.json) |
 | News Agency Simulator | 127852 | [127852-news-agency-simulator.json](./127852-news-agency-simulator.json) |
 | News Reacts | 197127 | [197127-news-reacts.json](./197127-news-reacts.json) |
+| News Roll | 385361 | [385361-news-roll.json](./385361-news-roll.json) |
 | Newspaper Puzzle Challenge: Sudoku Edition | 210035 | [210035-newspaper-puzzle-challenge-sudoku-edition.json](./210035-newspaper-puzzle-challenge-sudoku-edition.json) |
 | Newsun | 324519 | [324519-newsun.json](./324519-newsun.json) |
 | Newt One | 98145 | [98145-newt-one.json](./98145-newt-one.json) |
@@ -2549,6 +2551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Gunner: Final Mission | 55843 | [55843-night-gunner-final-mission.json](./55843-night-gunner-final-mission.json) |
 | Night Hazard | 329110 | [329110-night-hazard.json](./329110-night-hazard.json) |
 | Night Head: The Labyrinth | 123475 | [123475-night-head-the-labyrinth.json](./123475-night-head-the-labyrinth.json) |
+| Night Hike | 385376 | [385376-night-hike.json](./385376-night-hike.json) |
 | Night House | 57503 | [57503-night-house.json](./57503-night-house.json) |
 | Night in the Unpleasant House | 227837 | [227837-night-in-the-unpleasant-house.json](./227837-night-in-the-unpleasant-house.json) |
 | Night in the Woods: Longest Night | 55865 | [55865-night-in-the-woods-longest-night.json](./55865-night-in-the-woods-longest-night.json) |
