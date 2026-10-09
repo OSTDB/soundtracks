@@ -2965,6 +2965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beachcomber | 333945 | [333945-beachcomber.json](./333945-beachcomber.json) |
 | Beachcomber | 388924 | [388924-beachcomber.json](./388924-beachcomber.json) |
 | Beached | 174101 | [174101-beached.json](./174101-beached.json) |
+| Beachfront | 334227 | [334227-beachfront.json](./334227-beachfront.json) |
 | Beachgirl Dreams | 337159 | [337159-beachgirl-dreams.json](./337159-beachgirl-dreams.json) |
 | Beachside Blitz | 353315 | [353315-beachside-blitz.json](./353315-beachside-blitz.json) |
 | Beachside Bloodbath | 337127 | [337127-beachside-bloodbath.json](./337127-beachside-bloodbath.json) |
@@ -4151,6 +4152,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond Columns | 70450 | [70450-beyond-columns.json](./70450-beyond-columns.json) |
 | Beyond Crimson Stars | 128966 | [128966-beyond-crimson-stars.json](./128966-beyond-crimson-stars.json) |
 | Beyond Dark | 54916 | [54916-beyond-dark.json](./54916-beyond-dark.json) |
+| Beyond Dark Castle | 334220 | [334220-beyond-dark-castle.json](./334220-beyond-dark-castle.json) |
+| Beyond Dark Castle | 334221 | [334221-beyond-dark-castle.json](./334221-beyond-dark-castle.json) |
 | Beyond Dawn | 158531 | [158531-beyond-dawn.json](./158531-beyond-dawn.json) |
 | Beyond Despair | 26724 | [26724-beyond-despair.json](./26724-beyond-despair.json) |
 | Beyond Divinity | 9781 | [9781-beyond-divinity.json](./9781-beyond-divinity.json) |
@@ -7302,6 +7305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BodyRecords | 340943 | [340943-bodyrecords.json](./340943-bodyrecords.json) |
 | BodySlam! | 180705 | [180705-bodyslam.json](./180705-bodyslam.json) |
 | Bodyworks Voyager: Mission in Anatomy | 74084 | [74084-bodyworks-voyager-mission-in-anatomy.json](./74084-bodyworks-voyager-mission-in-anatomy.json) |
+| Boeboeks: De Tocht Naar Opa Kakadoris | 334233 | [334233-boeboeks-de-tocht-naar-opa-kakadoris.json](./334233-boeboeks-de-tocht-naar-opa-kakadoris.json) |
 | Boeckham's Football Manager | 337456 | [337456-boeckhams-football-manager.json](./337456-boeckhams-football-manager.json) |
 | Boffin | 15682 | [15682-boffin.json](./15682-boffin.json) |
 | Boffin 2 | 261891 | [261891-boffin-2.json](./261891-boffin-2.json) |
@@ -10514,6 +10518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burger Shop Simulator 2024 | 326584 | [326584-burger-shop-simulator-2024.json](./326584-burger-shop-simulator-2024.json) |
 | Burger Shot | 362186 | [362186-burger-shot.json](./362186-burger-shot.json) |
 | Burger Story Beach Edition | 97150 | [97150-burger-story-beach-edition.json](./97150-burger-story-beach-edition.json) |
+| Burger Truck Trump | 334056 | [334056-burger-truck-trump.json](./334056-burger-truck-trump.json) |
 | Burger Typer | 369713 | [369713-burger-typer.json](./369713-burger-typer.json) |
 | Burger Up | 121037 | [121037-burger-up.json](./121037-burger-up.json) |
 | Burger Wars | 66112 | [66112-burger-wars.json](./66112-burger-wars.json) |
