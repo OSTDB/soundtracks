@@ -4312,6 +4312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meditation Journey: VR Zen Garden | 167785 | [167785-meditation-journey-vr-zen-garden.json](./167785-meditation-journey-vr-zen-garden.json) |
 | Meditation VR | 168651 | [168651-meditation-vr.json](./168651-meditation-vr.json) |
 | Medium Rare | 128356 | [128356-medium-rare.json](./128356-medium-rare.json) |
+| Medium Rare | 383136 | [383136-medium-rare.json](./383136-medium-rare.json) |
 | Medium-naut | 151559 | [151559-medium-naut.json](./151559-medium-naut.json) |
 | Medium: The Psychic Party Game | 161158 | [161158-medium-the-psychic-party-game.json](./161158-medium-the-psychic-party-game.json) |
 | Medival Hustle | 304578 | [304578-medival-hustle.json](./304578-medival-hustle.json) |
@@ -6656,7 +6657,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Might & Magic Heroes VII - Trial by Fire | 33474 | [33474-might-and-magic-heroes-vii-trial-by-fire.json](./33474-might-and-magic-heroes-vii-trial-by-fire.json) |
 | Might & Magic Heroes VII: Deluxe Edition | 53355 | [53355-might-and-magic-heroes-vii-deluxe-edition.json](./53355-might-and-magic-heroes-vii-deluxe-edition.json) |
 | Might & Magic: Clash of Heroes | 1889 | [1889-might-and-magic-clash-of-heroes.json](./1889-might-and-magic-clash-of-heroes.json) |
+| Might & Magic: Duel of Champions - Five Towers | 383112 | [383112-might-and-magic-duel-of-champions-five-towers.json](./383112-might-and-magic-duel-of-champions-five-towers.json) |
+| Might & Magic: Duel of Champions - Forgotten Wars | 383111 | [383111-might-and-magic-duel-of-champions-forgotten-wars.json](./383111-might-and-magic-duel-of-champions-forgotten-wars.json) |
 | Might & Magic: Duel of Champions - Forgotten Wars | 52586 | [52586-might-and-magic-duel-of-champions-forgotten-wars.json](./52586-might-and-magic-duel-of-champions-forgotten-wars.json) |
+| Might & Magic: Duel of Champions - Griffin Bane | 383115 | [383115-might-and-magic-duel-of-champions-griffin-bane.json](./383115-might-and-magic-duel-of-champions-griffin-bane.json) |
+| Might & Magic: Duel of Champions - Heart of Nightmares | 383114 | [383114-might-and-magic-duel-of-champions-heart-of-nightmares.json](./383114-might-and-magic-duel-of-champions-heart-of-nightmares.json) |
+| Might & Magic: Duel of Champions - Herald of the Void | 383110 | [383110-might-and-magic-duel-of-champions-herald-of-the-void.json](./383110-might-and-magic-duel-of-champions-herald-of-the-void.json) |
+| Might & Magic: Duel of Champions - Sins of Betrayal | 383116 | [383116-might-and-magic-duel-of-champions-sins-of-betrayal.json](./383116-might-and-magic-duel-of-champions-sins-of-betrayal.json) |
+| Might & Magic: Duel of Champions - Time of Renewal | 383117 | [383117-might-and-magic-duel-of-champions-time-of-renewal.json](./383117-might-and-magic-duel-of-champions-time-of-renewal.json) |
+| Might & Magic: Duel of Champions - Void Rising | 383109 | [383109-might-and-magic-duel-of-champions-void-rising.json](./383109-might-and-magic-duel-of-champions-void-rising.json) |
 | Might & Magic: Elemental Guardians | 70707 | [70707-might-and-magic-elemental-guardians.json](./70707-might-and-magic-elemental-guardians.json) |
 | Might & Magic: Heroes Kingdoms | 66416 | [66416-might-and-magic-heroes-kingdoms.json](./66416-might-and-magic-heroes-kingdoms.json) |
 | Might & Magic: Heroes Online | 20177 | [20177-might-and-magic-heroes-online.json](./20177-might-and-magic-heroes-online.json) |
@@ -7238,6 +7247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft: Moana Character Pack | 254491 | [254491-minecraft-moana-character-pack.json](./254491-minecraft-moana-character-pack.json) |
 | Minecraft: Mob Vote 2022 Skin Pack | 303029 | [303029-minecraft-mob-vote-2022-skin-pack.json](./303029-minecraft-mob-vote-2022-skin-pack.json) |
 | Minecraft: Mob Weapons | 333584 | [333584-minecraft-mob-weapons.json](./333584-minecraft-mob-weapons.json) |
+| Minecraft: Mounts of Mayhem | 383126 | [383126-minecraft-mounts-of-mayhem.json](./383126-minecraft-mounts-of-mayhem.json) |
 | Minecraft: Nightmare Skin Pack | 333235 | [333235-minecraft-nightmare-skin-pack.json](./333235-minecraft-nightmare-skin-pack.json) |
 | Minecraft: Nintendo Switch Edition | 85614 | [85614-minecraft-nintendo-switch-edition.json](./85614-minecraft-nintendo-switch-edition.json) |
 | Minecraft: Norse Mythology Bonus Skins | 322957 | [322957-minecraft-norse-mythology-bonus-skins.json](./322957-minecraft-norse-mythology-bonus-skins.json) |
@@ -12982,6 +12992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mythvale | 419967 | [419967-mythvale.json](./419967-mythvale.json) |
 | MythWalker | 322747 | [322747-mythwalker.json](./322747-mythwalker.json) |
 | myTicTacToe | 93823 | [93823-mytictactoe.json](./93823-mytictactoe.json) |
+| Mytosis | 383140 | [383140-mytosis.json](./383140-mytosis.json) |
 | MyTP 3: Snowboard, Freeski and Skateboard | 99993 | [99993-mytp-3-snowboard-freeski-and-skateboard.json](./99993-mytp-3-snowboard-freeski-and-skateboard.json) |
 | MyTP Skateboarding | 197754 | [197754-mytp-skateboarding.json](./197754-mytp-skateboarding.json) |
 | Mytran Wars | 19202 | [19202-mytran-wars.json](./19202-mytran-wars.json) |
