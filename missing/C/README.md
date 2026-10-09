@@ -2715,6 +2715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cave Runner | 278638 | [278638-cave-runner.json](./278638-cave-runner.json) |
 | Cave Shooter | 167275 | [167275-cave-shooter.json](./167275-cave-shooter.json) |
 | Cave Shooting Collection | 159258 | [159258-cave-shooting-collection.json](./159258-cave-shooting-collection.json) |
+| Cave Story | 366623 | [366623-cave-story.json](./366623-cave-story.json) |
 | Cave Story 3D | 11783 | [11783-cave-story-3d.json](./11783-cave-story-3d.json) |
 | Cave Story Sex RPG 2007 | 145470 | [145470-cave-story-sex-rpg-2007.json](./145470-cave-story-sex-rpg-2007.json) |
 | Cave Story with a Fourth Ending | 384657 | [384657-cave-story-with-a-fourth-ending.json](./384657-cave-story-with-a-fourth-ending.json) |
@@ -3185,6 +3186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chameleon Run | 58656 | [58656-chameleon-run.json](./58656-chameleon-run.json) |
 | Chameleon Run+ | 174202 | [174202-chameleon-run.json](./174202-chameleon-run.json) |
 | Chameleon Twist | 3427 | [3427-chameleon-twist.json](./3427-chameleon-twist.json) |
+| Chameleon Twist | 366631 | [366631-chameleon-twist.json](./366631-chameleon-twist.json) |
 | Chameleon: DYH | 203401 | [203401-chameleon-dyh.json](./203401-chameleon-dyh.json) |
 | Chameleon: DYH - Chapter 2 | 243613 | [243613-chameleon-dyh-chapter-2.json](./243613-chameleon-dyh-chapter-2.json) |
 | Chameleon: To Dye For! | 72713 | [72713-chameleon-to-dye-for.json](./72713-chameleon-to-dye-for.json) |
@@ -8205,6 +8207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Convrgence | 269281 | [269281-convrgence.json](./269281-convrgence.json) |
 | Conway | 282112 | [282112-conway.json](./282112-conway.json) |
 | CoogyLoop | 242567 | [242567-coogyloop.json](./242567-coogyloop.json) |
+| Cook and Play: Animal Friends | 366735 | [366735-cook-and-play-animal-friends.json](./366735-cook-and-play-animal-friends.json) |
 | Cook Baker Match | 175425 | [175425-cook-baker-match.json](./175425-cook-baker-match.json) |
 | Cook Dungeon | 127174 | [127174-cook-dungeon.json](./127174-cook-dungeon.json) |
 | Cook Fest | 236392 | [236392-cook-fest.json](./236392-cook-fest.json) |
