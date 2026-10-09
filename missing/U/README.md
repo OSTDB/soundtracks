@@ -42,6 +42,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | U.S.S. Stinger | 93177 | [93177-u-s-s-stinger.json](./93177-u-s-s-stinger.json) |
 | U.S.Z.I.O.K. | 376061 | [376061-u-s-z-i-o-k.json](./376061-u-s-z-i-o-k.json) |
 | U.V.S. Nirmana | 400475 | [400475-u-v-s-nirmana.json](./400475-u-v-s-nirmana.json) |
+| U1f439 | 371132 | [371132-u1f439.json](./371132-u1f439.json) |
 | U27RA R3Z0NANC3 | 143334 | [143334-u27ra-r3z0nanc3.json](./143334-u27ra-r3z0nanc3.json) |
 | U96 | 207513 | [207513-u96.json](./207513-u96.json) |
 | UAC Invasion: The Supply Depot | 256868 | [256868-uac-invasion-the-supply-depot.json](./256868-uac-invasion-the-supply-depot.json) |
@@ -936,6 +937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uncursed | 331985 | [331985-uncursed.json](./331985-uncursed.json) |
 | Undake 30 UraGame Daisakusen | 341155 | [341155-undake-30-uragame-daisakusen.json](./341155-undake-30-uragame-daisakusen.json) |
 | Undawn: Desert Fury | 262700 | [262700-undawn-desert-fury.json](./262700-undawn-desert-fury.json) |
+| Undawning: The New Moon | 371047 | [371047-undawning-the-new-moon.json](./371047-undawning-the-new-moon.json) |
 | Undead & Beyond | 96889 | [96889-undead-and-beyond.json](./96889-undead-and-beyond.json) |
 | Undead Air | 378554 | [378554-undead-air.json](./378554-undead-air.json) |
 | Undead Arena VR | 241493 | [241493-undead-arena-vr.json](./241493-undead-arena-vr.json) |
