@@ -1428,6 +1428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Achievement Hunter: Thief | 334762 | [334762-achievement-hunter-thief.json](./334762-achievement-hunter-thief.json) |
 | Achievement Hunter: Witch | 334780 | [334780-achievement-hunter-witch.json](./334780-achievement-hunter-witch.json) |
 | Achievement Hunter: Wizard | 368633 | [368633-achievement-hunter-wizard.json](./368633-achievement-hunter-wizard.json) |
+| Achievement Hunter: Zombie 2 | 369471 | [369471-achievement-hunter-zombie-2.json](./369471-achievement-hunter-zombie-2.json) |
 | Achievement Idler Black | 95124 | [95124-achievement-idler-black.json](./95124-achievement-idler-black.json) |
 | Achievement Idler: Red | 97229 | [97229-achievement-idler-red.json](./97229-achievement-idler-red.json) |
 | Achievement Lurker: Ballad of the Shimapan Warrior - King of Panties | 102133 | [102133-achievement-lurker-ballad-of-the-shimapan-warrior-king-of-panties.json](./102133-achievement-lurker-ballad-of-the-shimapan-warrior-king-of-panties.json) |
@@ -3113,6 +3114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airwolf | 8848 | [8848-airwolf.json](./8848-airwolf.json) |
 | Airxonix | 15827 | [15827-airxonix.json](./15827-airxonix.json) |
 | Aisai Nikki | 82968 | [82968-aisai-nikki.json](./82968-aisai-nikki.json) |
+| Aishi & Reimu | 369468 | [369468-aishi-and-reimu.json](./369468-aishi-and-reimu.json) |
 | Aisle | 130832 | [130832-aisle.json](./130832-aisle.json) |
 | Aisle Survive | 410432 | [410432-aisle-survive.json](./410432-aisle-survive.json) |
 | AisleRiot Solitaire | 63236 | [63236-aisleriot-solitaire.json](./63236-aisleriot-solitaire.json) |
@@ -3509,6 +3511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alex's Caves | 316145 | [316145-alexs-caves.json](./316145-alexs-caves.json) |
 | Alex's Journey to the Grave | 319226 | [319226-alexs-journey-to-the-grave.json](./319226-alexs-journey-to-the-grave.json) |
 | Alex's Sketchbook World | 359618 | [359618-alexs-sketchbook-world.json](./359618-alexs-sketchbook-world.json) |
+| Alex's Tunnel | 369372 | [369372-alexs-tunnel.json](./369372-alexs-tunnel.json) |
 | Alexa, Destroy Me | 398487 | [398487-alexa-destroy-me.json](./398487-alexa-destroy-me.json) |
 | Alexander | 376852 | [376852-alexander.json](./376852-alexander.json) |
 | Alexander | 398509 | [398509-alexander.json](./398509-alexander.json) |
@@ -3677,6 +3680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien 3 | 273018 | [273018-alien-3.json](./273018-alien-3.json) |
 | Alien 3 | 8908 | [8908-alien-3.json](./8908-alien-3.json) |
 | Alien 911 | 117523 | [117523-alien-911.json](./117523-alien-911.json) |
+| Alien Abduction Experience | 369371 | [369371-alien-abduction-experience.json](./369371-alien-abduction-experience.json) |
 | Alien Accident | 192744 | [192744-alien-accident.json](./192744-alien-accident.json) |
 | Alien Afteflife | 182807 | [182807-alien-afteflife.json](./182807-alien-afteflife.json) |
 | Alien Animals: Sandbox | 154463 | [154463-alien-animals-sandbox.json](./154463-alien-animals-sandbox.json) |
@@ -7517,6 +7521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Architecture Zeitgeist | 249770 | [249770-architecture-zeitgeist.json](./249770-architecture-zeitgeist.json) |
 | Architectus | 160270 | [160270-architectus.json](./160270-architectus.json) |
 | Archive 1985 | 276249 | [276249-archive-1985.json](./276249-archive-1985.json) |
+| Archive Fever | 369449 | [369449-archive-fever.json](./369449-archive-fever.json) |
 | Archiver | 362909 | [362909-archiver.json](./362909-archiver.json) |
 | Archivist: Tidy Up & Sort | 403093 | [403093-archivist-tidy-up-and-sort.json](./403093-archivist-tidy-up-and-sort.json) |
 | ArchLord | 20598 | [20598-archlord.json](./20598-archlord.json) |
