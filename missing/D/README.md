@@ -3805,6 +3805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demons and Altar | 208832 | [208832-demons-and-altar.json](./208832-demons-and-altar.json) |
 | Demons and Doobins | 291760 | [291760-demons-and-doobins.json](./291760-demons-and-doobins.json) |
 | Demons are coming! | 278160 | [278160-demons-are-coming.json](./278160-demons-are-coming.json) |
+| Demons Are Coming!: Forged in Battle | 362220 | [362220-demons-are-coming-forged-in-battle.json](./362220-demons-are-coming-forged-in-battle.json) |
 | Demons Ate My Neighbors! | 138676 | [138676-demons-ate-my-neighbors.json](./138676-demons-ate-my-neighbors.json) |
 | Demons Gate | 131425 | [131425-demons-gate.json](./131425-demons-gate.json) |
 | Demons Infernalize | 243376 | [243376-demons-infernalize.json](./243376-demons-infernalize.json) |
@@ -8945,6 +8946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon's Bane | 148541 | [148541-dragons-bane.json](./148541-dragons-bane.json) |
 | Dragon's Blade: Heroes of Larkwood | 181656 | [181656-dragons-blade-heroes-of-larkwood.json](./181656-dragons-blade-heroes-of-larkwood.json) |
 | Dragon's Blade: HoL | 197723 | [197723-dragons-blade-hol.json](./197723-dragons-blade-hol.json) |
+| Dragon's Chronicles: Ankoku Daimaou to Hokuto no Tsurugi | 362167 | [362167-dragons-chronicles-ankoku-daimaou-to-hokuto-no-tsurugi.json](./362167-dragons-chronicles-ankoku-daimaou-to-hokuto-no-tsurugi.json) |
 | Dragon's Crown | 3002 | [3002-dragons-crown.json](./3002-dragons-crown.json) |
 | Dragon's Crown Pro | 68283 | [68283-dragons-crown-pro.json](./68283-dragons-crown-pro.json) |
 | Dragon's Crown Pro: Royal Package | 167136 | [167136-dragons-crown-pro-royal-package.json](./167136-dragons-crown-pro-royal-package.json) |
