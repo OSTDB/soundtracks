@@ -2196,6 +2196,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Opus | 181873 | [181873-opus.json](./181873-opus.json) |
 | Opus 1 - Social Justice War | 81691 | [81691-opus-1-social-justice-war.json](./81691-opus-1-social-justice-war.json) |
 | Opus Castle: Chapter II | 196107 | [196107-opus-castle-chapter-ii.json](./196107-opus-castle-chapter-ii.json) |
+| Opus Castle: Chapter III | 357187 | [357187-opus-castle-chapter-iii.json](./357187-opus-castle-chapter-iii.json) |
+| Opus Castle: Chapter IV | 357191 | [357191-opus-castle-chapter-iv.json](./357191-opus-castle-chapter-iv.json) |
+| Opus Castle: Chapter V | 357192 | [357192-opus-castle-chapter-v.json](./357192-opus-castle-chapter-v.json) |
+| Opus Castle: Chapter VI | 357194 | [357194-opus-castle-chapter-vi.json](./357194-opus-castle-chapter-vi.json) |
 | Opus Collection: The Day We Found Earth + Rocket of Whispers | 111912 | [111912-opus-collection-the-day-we-found-earth-rocket-of-whispers.json](./111912-opus-collection-the-day-we-found-earth-rocket-of-whispers.json) |
 | Opus Ludum | 169379 | [169379-opus-ludum.json](./169379-opus-ludum.json) |
 | Opus Magnum | 74545 | [74545-opus-magnum.json](./74545-opus-magnum.json) |
