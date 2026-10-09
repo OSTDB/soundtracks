@@ -2675,6 +2675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello Kitty Kruisers with Sanrio Friends | 62781 | [62781-hello-kitty-kruisers-with-sanrio-friends.json](./62781-hello-kitty-kruisers-with-sanrio-friends.json) |
 | Hello Kitty Lunchbox | 225660 | [225660-hello-kitty-lunchbox.json](./225660-hello-kitty-lunchbox.json) |
 | Hello Kitty Mahjong | 292106 | [292106-hello-kitty-mahjong.json](./292106-hello-kitty-mahjong.json) |
+| Hello Kitty My Dream Store | 334062 | [334062-hello-kitty-my-dream-store.json](./334062-hello-kitty-my-dream-store.json) |
 | Hello Kitty no 'Otonaru' Mail | 279598 | [279598-hello-kitty-no-otonaru-mail.json](./279598-hello-kitty-no-otonaru-mail.json) |
 | Hello Kitty no Beads Koubou | 228559 | [228559-hello-kitty-no-beads-koubou.json](./228559-hello-kitty-no-beads-koubou.json) |
 | Hello Kitty no Gotouchi Collection: Koi no Doki-doki Travel | 269832 | [269832-hello-kitty-no-gotouchi-collection-koi-no-doki-doki-travel.json](./269832-hello-kitty-no-gotouchi-collection-koi-no-doki-doki-travel.json) |
