@@ -1755,6 +1755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tax-Force | 265631 | [265631-tax-force.json](./265631-tax-force.json) |
 | Taxer Inc. | 144211 | [144211-taxer-inc.json](./144211-taxer-inc.json) |
 | Taxi | 36490 | [36490-taxi.json](./36490-taxi.json) |
+| Taxi 2 | 372840 | [372840-taxi-2.json](./372840-taxi-2.json) |
 | Taxi 2 | 50041 | [50041-taxi-2.json](./50041-taxi-2.json) |
 | Taxi 3 | 138156 | [138156-taxi-3.json](./138156-taxi-3.json) |
 | Taxi 3 | 282673 | [282673-taxi-3.json](./282673-taxi-3.json) |
@@ -3613,6 +3614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Architects of the Universe: The Orbital Wars | 402294 | [402294-the-architects-of-the-universe-the-orbital-wars.json](./402294-the-architects-of-the-universe-the-orbital-wars.json) |
 | The Archive | 387637 | [387637-the-archive.json](./387637-the-archive.json) |
 | The Archives of Evil Dr BA | 135702 | [135702-the-archives-of-evil-dr-ba.json](./135702-the-archives-of-evil-dr-ba.json) |
+| The Archivist | 372814 | [372814-the-archivist.json](./372814-the-archivist.json) |
 | The Archotek Project | 29092 | [29092-the-archotek-project.json](./29092-the-archotek-project.json) |
 | The Arcslinger | 95557 | [95557-the-arcslinger.json](./95557-the-arcslinger.json) |
 | The Area 51 Secret: Boombox Killer | 127024 | [127024-the-area-51-secret-boombox-killer.json](./127024-the-area-51-secret-boombox-killer.json) |
@@ -3695,6 +3697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Awakened Avenger | 372467 | [372467-the-awakened-avenger.json](./372467-the-awakened-avenger.json) |
 | The Awakened Blade | 417454 | [417454-the-awakened-blade.json](./417454-the-awakened-blade.json) |
 | The Awakened Fate: Ultimatum | 19119 | [19119-the-awakened-fate-ultimatum.json](./19119-the-awakened-fate-ultimatum.json) |
+| The Awakener: Battle Tendency | 372813 | [372813-the-awakener-battle-tendency.json](./372813-the-awakener-battle-tendency.json) |
 | The Awakener: Risen | 172702 | [172702-the-awakener-risen.json](./172702-the-awakener-risen.json) |
 | The Awakening of a Villainous Lady: A Crimson and Pure White Romance | 310208 | [310208-the-awakening-of-a-villainous-lady-a-crimson-and-pure-white-romance.json](./310208-the-awakening-of-a-villainous-lady-a-crimson-and-pure-white-romance.json) |
 | The Awakening of Mummies | 147323 | [147323-the-awakening-of-mummies.json](./147323-the-awakening-of-mummies.json) |
@@ -5372,6 +5375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The End: Inari's Quest | 77737 | [77737-the-end-inaris-quest.json](./77737-the-end-inaris-quest.json) |
 | The End: Pronton | 240749 | [240749-the-end-pronton.json](./240749-the-end-pronton.json) |
 | The Endless Adventure | 165686 | [165686-the-endless-adventure.json](./165686-the-endless-adventure.json) |
+| The Endless Backgate | 372807 | [372807-the-endless-backgate.json](./372807-the-endless-backgate.json) |
 | The Endless Elegy at the Flowercape | 366936 | [366936-the-endless-elegy-at-the-flowercape.json](./366936-the-endless-elegy-at-the-flowercape.json) |
 | The Endless Express | 26669 | [26669-the-endless-express.json](./26669-the-endless-express.json) |
 | The Endless Forest | 13585 | [13585-the-endless-forest.json](./13585-the-endless-forest.json) |
@@ -6391,6 +6395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hero | 19181 | [19181-the-hero.json](./19181-the-hero.json) |
 | The Hero Business | 180656 | [180656-the-hero-business.json](./180656-the-hero-business.json) |
 | The Hero gives up!... Wait, What!? | 265582 | [265582-the-hero-gives-up-wait-what.json](./265582-the-hero-gives-up-wait-what.json) |
+| The Hero Is Too Powerful so Let's Pleeeease Settle This Peacefully! | 372806 | [372806-the-hero-is-too-powerful-so-lets-pleeeease-settle-this-peacefully.json](./372806-the-hero-is-too-powerful-so-lets-pleeeease-settle-this-peacefully.json) |
 | The Hero of Bangaona | 173067 | [173067-the-hero-of-bangaona.json](./173067-the-hero-of-bangaona.json) |
 | The Hero of Destiny Was Killed by the Final Boss | 386940 | [386940-the-hero-of-destiny-was-killed-by-the-final-boss.json](./386940-the-hero-of-destiny-was-killed-by-the-final-boss.json) |
 | The Hero Of Pixel Spire | 370912 | [370912-the-hero-of-pixel-spire.json](./370912-the-hero-of-pixel-spire.json) |
@@ -6537,6 +6542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hunger Games Adventures | 57708 | [57708-the-hunger-games-adventures.json](./57708-the-hunger-games-adventures.json) |
 | The Hunger Games: Catching Fire - Panem Run | 62600 | [62600-the-hunger-games-catching-fire-panem-run.json](./62600-the-hunger-games-catching-fire-panem-run.json) |
 | The Hunger: Games Ensemble | 164914 | [164914-the-hunger-games-ensemble.json](./164914-the-hunger-games-ensemble.json) |
+| The Hungry Horde: Holiday Hijinx | 372821 | [372821-the-hungry-horde-holiday-hijinx.json](./372821-the-hungry-horde-holiday-hijinx.json) |
 | The Hungry House | 179502 | [179502-the-hungry-house.json](./179502-the-hungry-house.json) |
 | The Hungry Witch and the Gourmet Dish | 185157 | [185157-the-hungry-witch-and-the-gourmet-dish.json](./185157-the-hungry-witch-and-the-gourmet-dish.json) |
 | The Hunsa Magic | 199366 | [199366-the-hunsa-magic.json](./199366-the-hunsa-magic.json) |
@@ -10134,6 +10140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Solitary Existence of a Little Universe | 370226 | [370226-the-solitary-existence-of-a-little-universe.json](./370226-the-solitary-existence-of-a-little-universe.json) |
 | The Song of Awakening | 311178 | [311178-the-song-of-awakening.json](./311178-the-song-of-awakening.json) |
 | The Song of Calirum | 182890 | [182890-the-song-of-calirum.json](./182890-the-song-of-calirum.json) |
+| The Song of Invermere | 372825 | [372825-the-song-of-invermere.json](./372825-the-song-of-invermere.json) |
 | The Song of Seven : Overture (Chapter One) | 26529 | [26529-the-song-of-seven-overture-chapter-one.json](./26529-the-song-of-seven-overture-chapter-one.json) |
 | The song of Star night | 150486 | [150486-the-song-of-star-night.json](./150486-the-song-of-star-night.json) |
 | The Song of Survivors | 165015 | [165015-the-song-of-survivors.json](./165015-the-song-of-survivors.json) |
