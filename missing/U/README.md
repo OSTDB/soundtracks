@@ -2080,6 +2080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Urban Trial Pocket | 213642 | [213642-urban-trial-pocket.json](./213642-urban-trial-pocket.json) |
 | Urban Trial Tricky | 134783 | [134783-urban-trial-tricky.json](./134783-urban-trial-tricky.json) |
 | Urban Trial Tricky: Deluxe Edition | 152345 | [152345-urban-trial-tricky-deluxe-edition.json](./152345-urban-trial-tricky-deluxe-edition.json) |
+| Urban Undergrounds | 366131 | [366131-urban-undergrounds.json](./366131-urban-undergrounds.json) |
 | Urban War Defense | 46591 | [46591-urban-war-defense.json](./46591-urban-war-defense.json) |
 | Urban Warfare: Assault | 308489 | [308489-urban-warfare-assault.json](./308489-urban-warfare-assault.json) |
 | Urban Witch Story | 133862 | [133862-urban-witch-story.json](./133862-urban-witch-story.json) |
