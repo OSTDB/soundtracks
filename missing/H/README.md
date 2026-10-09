@@ -50,6 +50,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Habitat | 181243 | [181243-habitat.json](./181243-habitat.json) |
 | Habitat | 28717 | [28717-habitat.json](./28717-habitat.json) |
 | Habitat Complex | 312896 | [312896-habitat-complex.json](./312896-habitat-complex.json) |
+| Habitat Shapes | 379161 | [379161-habitat-shapes.json](./379161-habitat-shapes.json) |
 | Habitat Shapes: The Tropical Journey | 401127 | [401127-habitat-shapes-the-tropical-journey.json](./401127-habitat-shapes-the-tropical-journey.json) |
 | Habitatrix | 292242 | [292242-habitatrix.json](./292242-habitatrix.json) |
 | Habitica | 395187 | [395187-habitica.json](./395187-habitica.json) |
@@ -7059,6 +7060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunter of the Disowned | 156088 | [156088-hunter-of-the-disowned.json](./156088-hunter-of-the-disowned.json) |
 | Hunter Patrol | 13883 | [13883-hunter-patrol.json](./13883-hunter-patrol.json) |
 | Hunter Simulator VR: Wild Hunting | 391345 | [391345-hunter-simulator-vr-wild-hunting.json](./391345-hunter-simulator-vr-wild-hunting.json) |
+| Hunter Survive Zero | 379165 | [379165-hunter-survive-zero.json](./379165-hunter-survive-zero.json) |
 | Hunter X Hunter: Hunter no Keifu | 65245 | [65245-hunter-x-hunter-hunter-no-keifu.json](./65245-hunter-x-hunter-hunter-no-keifu.json) |
 | Hunter X Hunter: Maboroshi no Greed Island | 60607 | [60607-hunter-x-hunter-maboroshi-no-greed-island.json](./60607-hunter-x-hunter-maboroshi-no-greed-island.json) |
 | Hunter x Hunter: Nen x Impact | 281740 | [281740-hunter-x-hunter-nen-x-impact.json](./281740-hunter-x-hunter-nen-x-impact.json) |
