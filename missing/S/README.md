@@ -1065,6 +1065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sanguo Qunyingzhuan VII | 81260 | [81260-sanguo-qunyingzhuan-vii.json](./81260-sanguo-qunyingzhuan-vii.json) |
 | Sanguo Warriors VR | 99017 | [99017-sanguo-warriors-vr.json](./99017-sanguo-warriors-vr.json) |
 | Sanguo Warriors VR2 | 110534 | [110534-sanguo-warriors-vr2.json](./110534-sanguo-warriors-vr2.json) |
+| Sānguó Yǎnyì: Huǒshāo Chìbì | 356018 | [356018-sanguo-yanyi-huoshao-chibi.json](./356018-sanguo-yanyi-huoshao-chibi.json) |
 | Sānguó Yōngbīng Chuánqí | 114316 | [114316-sanguo-yongbing-chuanqi.json](./114316-sanguo-yongbing-chuanqi.json) |
 | Sānguó Yóuxiá Zhì | 83569 | [83569-sanguo-youxia-zhi.json](./83569-sanguo-youxia-zhi.json) |
 | Sānguó Zhì: Qúnxióng Zhēngbà | 350017 | [350017-sanguo-zhi-qunxiong-zhengba.json](./350017-sanguo-zhi-qunxiong-zhengba.json) |
@@ -5416,6 +5417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shogun: Total War - Warlord Edition | 206025 | [206025-shogun-total-war-warlord-edition.json](./206025-shogun-total-war-warlord-edition.json) |
 | Shogun's Blade | 43293 | [43293-shoguns-blade.json](./43293-shoguns-blade.json) |
 | Shogun's Empire: Hex Commander | 119739 | [119739-shoguns-empire-hex-commander.json](./119739-shoguns-empire-hex-commander.json) |
+| Shogunate | 356031 | [356031-shogunate.json](./356031-shogunate.json) |
 | Shohei's Adult Streaming Channel | 161357 | [161357-shoheis-adult-streaming-channel.json](./161357-shoheis-adult-streaming-channel.json) |
 | Shojo Calibur.io | 188390 | [188390-shojo-calibur-io.json](./188390-shojo-calibur-io.json) |
 | Shojo Warriors | 340375 | [340375-shojo-warriors.json](./340375-shojo-warriors.json) |
@@ -11591,6 +11593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Detective: The Case of the Rebel Robot | 276971 | [276971-space-detective-the-case-of-the-rebel-robot.json](./276971-space-detective-the-case-of-the-rebel-robot.json) |
 | Space Dezinsector | 263046 | [263046-space-dezinsector.json](./263046-space-dezinsector.json) |
 | Space Digger | 263743 | [263743-space-digger.json](./263743-space-digger.json) |
+| Space Diner Simulator | 356048 | [356048-space-diner-simulator.json](./356048-space-diner-simulator.json) |
 | Space Dodger 2019: Arcade Wars | 249730 | [249730-space-dodger-2019-arcade-wars.json](./249730-space-dodger-2019-arcade-wars.json) |
 | Space Dog Run | 201093 | [201093-space-dog-run.json](./201093-space-dog-run.json) |
 | Space Dogo | 264628 | [264628-space-dogo.json](./264628-space-dogo.json) |
@@ -12039,6 +12042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Strike | 24912 | [24912-space-strike.json](./24912-space-strike.json) |
 | Space Struck Run | 113158 | [113158-space-struck-run.json](./113158-space-struck-run.json) |
 | Space Subtraction | 310971 | [310971-space-subtraction.json](./310971-space-subtraction.json) |
+| Space Supermarket Simulator | 356041 | [356041-space-supermarket-simulator.json](./356041-space-supermarket-simulator.json) |
 | Space Survival | 171402 | [171402-space-survival.json](./171402-space-survival.json) |
 | Space Survival | 183863 | [183863-space-survival.json](./183863-space-survival.json) |
 | Space Survival | 200512 | [200512-space-survival.json](./200512-space-survival.json) |
@@ -12236,6 +12240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpaceRoads | 75420 | [75420-spaceroads.json](./75420-spaceroads.json) |
 | Spaceruler | 227493 | [227493-spaceruler.json](./227493-spaceruler.json) |
 | SpacerX: Dome Survivals | 55101 | [55101-spacerx-dome-survivals.json](./55101-spacerx-dome-survivals.json) |
+| Spacesheep | 356047 | [356047-spacesheep.json](./356047-spacesheep.json) |
 | SpaceShift | 393610 | [393610-spaceshift.json](./393610-spaceshift.json) |
 | Spaceship Commander | 124694 | [124694-spaceship-commander.json](./124694-spaceship-commander.json) |
 | Spaceship Curse | 147634 | [147634-spaceship-curse.json](./147634-spaceship-curse.json) |
@@ -12260,6 +12265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spacetron | 258469 | [258469-spacetron.json](./258469-spacetron.json) |
 | Spacetronic | 270683 | [270683-spacetronic.json](./270683-spacetronic.json) |
 | Spacetug | 179028 | [179028-spacetug.json](./179028-spacetug.json) |
+| Spaceum | 356050 | [356050-spaceum.json](./356050-spaceum.json) |
 | SpaceVenture | 63497 | [63497-spaceventure.json](./63497-spaceventure.json) |
 | SpaceVibes | 129120 | [129120-spacevibes.json](./129120-spacevibes.json) |
 | Spacewar | 181938 | [181938-spacewar.json](./181938-spacewar.json) |
@@ -14908,6 +14914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starcom: Nexus | 107854 | [107854-starcom-nexus.json](./107854-starcom-nexus.json) |
 | Starcom: Unknown Space | 211207 | [211207-starcom-unknown-space.json](./211207-starcom-unknown-space.json) |
 | Starcraft | 417642 | [417642-starcraft.json](./417642-starcraft.json) |
+| StarCraft II: Campaign Collection | 356059 | [356059-starcraft-ii-campaign-collection.json](./356059-starcraft-ii-campaign-collection.json) |
 | StarCraft II: Legacy of the Void - Collector's Edition | 51293 | [51293-starcraft-ii-legacy-of-the-void-collectors-edition.json](./51293-starcraft-ii-legacy-of-the-void-collectors-edition.json) |
 | StarCraft: Evolution Complete | 305329 | [305329-starcraft-evolution-complete.json](./305329-starcraft-evolution-complete.json) |
 | Starcraft: Ghost | 11355 | [11355-starcraft-ghost.json](./11355-starcraft-ghost.json) |
@@ -16269,6 +16276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stolen Recovery | 133373 | [133373-stolen-recovery.json](./133373-stolen-recovery.json) |
 | Stolen Steel VR | 29568 | [29568-stolen-steel-vr.json](./29568-stolen-steel-vr.json) |
 | Stomp | 91539 | [91539-stomp.json](./91539-stomp.json) |
+| Stomp and the Sword of Miracles | 356053 | [356053-stomp-and-the-sword-of-miracles.json](./356053-stomp-and-the-sword-of-miracles.json) |
 | Stomper | 182990 | [182990-stomper.json](./182990-stomper.json) |
 | Stomper | 313867 | [313867-stomper.json](./313867-stomper.json) |
 | Stomping Grounds | 275711 | [275711-stomping-grounds.json](./275711-stomping-grounds.json) |
@@ -19882,6 +19890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Sonic Speed Course | 321115 | [321115-super-sonic-speed-course.json](./321115-super-sonic-speed-course.json) |
 | Super Sonic Surge | 39786 | [39786-super-sonic-surge.json](./39786-super-sonic-surge.json) |
 | Super Space Arcade | 260229 | [260229-super-space-arcade.json](./260229-super-space-arcade.json) |
+| Super Space Frogs | 356049 | [356049-super-space-frogs.json](./356049-super-space-frogs.json) |
 | Super Space Invaders | 12859 | [12859-super-space-invaders.json](./12859-super-space-invaders.json) |
 | Super Space Jump Man | 115628 | [115628-super-space-jump-man.json](./115628-super-space-jump-man.json) |
 | Super Space Meltdown | 34805 | [34805-super-space-meltdown.json](./34805-super-space-meltdown.json) |
@@ -21336,6 +21345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword of Jade: Parallel Dreams | 285149 | [285149-sword-of-jade-parallel-dreams.json](./285149-sword-of-jade-parallel-dreams.json) |
 | Sword of Justice | 283391 | [283391-sword-of-justice.json](./283391-sword-of-justice.json) |
 | Sword of Mana | 6630 | [6630-sword-of-mana.json](./6630-sword-of-mana.json) |
+| Sword of Mejor | 356052 | [356052-sword-of-mejor.json](./356052-sword-of-mejor.json) |
 | Sword of Mine | 414825 | [414825-sword-of-mine.json](./414825-sword-of-mine.json) |
 | Sword of Power | 176273 | [176273-sword-of-power.json](./176273-sword-of-power.json) |
 | Sword of Rapier | 64509 | [64509-sword-of-rapier.json](./64509-sword-of-rapier.json) |
@@ -21379,6 +21389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword's Soul Duel | 159636 | [159636-swords-soul-duel.json](./159636-swords-soul-duel.json) |
 | Sword&Magic | 226153 | [226153-sword-and-magic.json](./226153-sword-and-magic.json) |
 | Swordash | 259564 | [259564-swordash.json](./259564-swordash.json) |
+| SwordBorn | 356051 | [356051-swordborn.json](./356051-swordborn.json) |
 | Swordbreaker the Game | 34192 | [34192-swordbreaker-the-game.json](./34192-swordbreaker-the-game.json) |
 | Swordbreaker: Back to the Castle | 113751 | [113751-swordbreaker-back-to-the-castle.json](./113751-swordbreaker-back-to-the-castle.json) |
 | Swordbreaker: The Game - Deluxe Edition | 53698 | [53698-swordbreaker-the-game-deluxe-edition.json](./53698-swordbreaker-the-game-deluxe-edition.json) |
