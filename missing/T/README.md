@@ -400,6 +400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taiko no Tatsujin: Tobikkiri! Anime Special | 123426 | [123426-taiko-no-tatsujin-tobikkiri-anime-special.json](./123426-taiko-no-tatsujin-tobikkiri-anime-special.json) |
 | Taiko no Tatsujin: Tokumori! | 78347 | [78347-taiko-no-tatsujin-tokumori.json](./78347-taiko-no-tatsujin-tokumori.json) |
 | Taiko no Tatsujin: V Version | 60366 | [60366-taiko-no-tatsujin-v-version.json](./60366-taiko-no-tatsujin-v-version.json) |
+| Taiko no Tatsujin: VR Festival! | 381920 | [381920-taiko-no-tatsujin-vr-festival.json](./381920-taiko-no-tatsujin-vr-festival.json) |
 | Taiko no Tatsujin: Wai Wai Happy! Rokudaime | 123417 | [123417-taiko-no-tatsujin-wai-wai-happy-rokudaime.json](./123417-taiko-no-tatsujin-wai-wai-happy-rokudaime.json) |
 | Taiko no Tatsujin: Wii U Version | 78345 | [78345-taiko-no-tatsujin-wii-u-version.json](./78345-taiko-no-tatsujin-wii-u-version.json) |
 | Taiko on the Web | 337101 | [337101-taiko-on-the-web.json](./337101-taiko-on-the-web.json) |
@@ -7052,6 +7053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Kotchei | 298718 | [298718-the-kotchei.json](./298718-the-kotchei.json) |
 | The Kraken Wakes | 213425 | [213425-the-kraken-wakes.json](./213425-the-kraken-wakes.json) |
 | The Krampus | 289995 | [289995-the-krampus.json](./289995-the-krampus.json) |
+| The Krampus Game | 381965 | [381965-the-krampus-game.json](./381965-the-krampus-game.json) |
 | The Kreator | 199976 | [199976-the-kreator.json](./199976-the-kreator.json) |
 | The Kremer Collection VR Museum | 104563 | [104563-the-kremer-collection-vr-museum.json](./104563-the-kremer-collection-vr-museum.json) |
 | The Krilling: Scare Feast! | 298146 | [298146-the-krilling-scare-feast.json](./298146-the-krilling-scare-feast.json) |
@@ -18238,6 +18240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tribond | 206075 | [206075-tribond.json](./206075-tribond.json) |
 | Triboo | 85455 | [85455-triboo.json](./85455-triboo.json) |
 | Tribulum | 410983 | [410983-tribulum.json](./410983-tribulum.json) |
+| Tribunal 45 | 381978 | [381978-tribunal-45.json](./381978-tribunal-45.json) |
 | Tribute | 293387 | [293387-tribute.json](./293387-tribute.json) |
 | Tribute to Shadow of the Colossus | 310656 | [310656-tribute-to-shadow-of-the-colossus.json](./310656-tribute-to-shadow-of-the-colossus.json) |
 | Trick DS Ban: Kakushigami no Sumu Yakata | 329949 | [329949-trick-ds-ban-kakushigami-no-sumu-yakata.json](./329949-trick-ds-ban-kakushigami-no-sumu-yakata.json) |
