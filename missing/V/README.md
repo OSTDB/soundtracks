@@ -1029,6 +1029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Very Very Valet | 141680 | [141680-very-very-valet.json](./141680-very-very-valet.json) |
 | VeryVeryHouse | 356637 | [356637-veryveryhouse.json](./356637-veryveryhouse.json) |
 | Verzerk | 46508 | [46508-verzerk.json](./46508-verzerk.json) |
+| Vesnith Tapes | 350942 | [350942-vesnith-tapes.json](./350942-vesnith-tapes.json) |
 | Vespa's Test | 211655 | [211655-vespas-test.json](./211655-vespas-test.json) |
 | Vesper | 137046 | [137046-vesper.json](./137046-vesper.json) |
 | Vesper | 377291 | [377291-vesper.json](./377291-vesper.json) |
