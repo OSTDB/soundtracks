@@ -669,6 +669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oh My Goat | 51172 | [51172-oh-my-goat.json](./51172-oh-my-goat.json) |
 | Oh My God, Look At This Knight | 76640 | [76640-oh-my-god-look-at-this-knight.json](./76640-oh-my-god-look-at-this-knight.json) |
 | Oh My God! | 64130 | [64130-oh-my-god.json](./64130-oh-my-god.json) |
+| Oh My Goddess! | 385903 | [385903-oh-my-goddess.json](./385903-oh-my-goddess.json) |
 | Oh My Godheads: Party Edition | 110799 | [110799-oh-my-godheads-party-edition.json](./110799-oh-my-godheads-party-edition.json) |
 | Oh My Gore! | 36231 | [36231-oh-my-gore.json](./36231-oh-my-gore.json) |
 | Oh My Hero | 174653 | [174653-oh-my-hero.json](./174653-oh-my-hero.json) |
