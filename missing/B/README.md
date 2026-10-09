@@ -669,6 +669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bake it Till' You Make it! | 210544 | [210544-bake-it-till-you-make-it.json](./210544-bake-it-till-you-make-it.json) |
 | Bake it! Pizza Master | 378781 | [378781-bake-it-pizza-master.json](./378781-bake-it-pizza-master.json) |
 | Bake Jack | 382216 | [382216-bake-jack.json](./382216-bake-jack.json) |
+| Bake Until Done | 347744 | [347744-bake-until-done.json](./347744-bake-until-done.json) |
 | Bakeborough | 211085 | [211085-bakeborough.json](./211085-bakeborough.json) |
 | Bakechu Relay | 366917 | [366917-bakechu-relay.json](./366917-bakechu-relay.json) |
 | Baked With Love | 412906 | [412906-baked-with-love.json](./412906-baked-with-love.json) |
@@ -5607,6 +5608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blade | 14312 | [14312-blade.json](./14312-blade.json) |
 | Blade | 8719 | [8719-blade.json](./8719-blade.json) |
 | Blade & Sorcery | 111474 | [111474-blade-and-sorcery.json](./111474-blade-and-sorcery.json) |
+| Blade & Soul Heroes | 347649 | [347649-blade-and-soul-heroes.json](./347649-blade-and-soul-heroes.json) |
 | Blade & Soul Neo | 333270 | [333270-blade-and-soul-neo.json](./333270-blade-and-soul-neo.json) |
 | Blade & Soul: Revolution | 143626 | [143626-blade-and-soul-revolution.json](./143626-blade-and-soul-revolution.json) |
 | Blade and Burden | 253315 | [253315-blade-and-burden.json](./253315-blade-and-burden.json) |
@@ -5999,6 +6001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blight Night | 343404 | [343404-blight-night.json](./343404-blight-night.json) |
 | Blightborn | 338714 | [338714-blightborn.json](./338714-blightborn.json) |
 | Blightbound | 133932 | [133932-blightbound.json](./133932-blightbound.json) |
+| Blighted | 347662 | [347662-blighted.json](./347662-blighted.json) |
 | Blightened | 347800 | [347800-blightened.json](./347800-blightened.json) |
 | Blightfall | 414415 | [414415-blightfall.json](./414415-blightfall.json) |
 | Blightfell | 375311 | [375311-blightfell.json](./375311-blightfell.json) |
@@ -10191,6 +10194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bullship! | 375297 | [375297-bullship.json](./375297-bullship.json) |
 | BullTales | 393568 | [393568-bulltales.json](./393568-bulltales.json) |
 | Bullwagon Business | 278554 | [278554-bullwagon-business.json](./278554-bullwagon-business.json) |
+| Bully Ball Brigade | 347727 | [347727-bully-ball-brigade.json](./347727-bully-ball-brigade.json) |
 | Bully Ball Soccer | 296653 | [296653-bully-ball-soccer.json](./296653-bully-ball-soccer.json) |
 | Bully Breaker | 377738 | [377738-bully-breaker.json](./377738-bully-breaker.json) |
 | Bully: Anniversary Edition | 88952 | [88952-bully-anniversary-edition.json](./88952-bully-anniversary-edition.json) |
