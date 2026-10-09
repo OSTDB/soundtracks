@@ -727,6 +727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warborne: Above Ashes | 333102 | [333102-warborne-above-ashes.json](./333102-warborne-above-ashes.json) |
 | Warbot | 86523 | [86523-warbot.json](./86523-warbot.json) |
 | Warbot Engineer | 337458 | [337458-warbot-engineer.json](./337458-warbot-engineer.json) |
+| Warbound | 347724 | [347724-warbound.json](./347724-warbound.json) |
 | Warbound | 372627 | [372627-warbound.json](./372627-warbound.json) |
 | Warbound Storm | 220161 | [220161-warbound-storm.json](./220161-warbound-storm.json) |
 | Warbox | 168647 | [168647-warbox.json](./168647-warbox.json) |
@@ -5593,6 +5594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wu Confucian Painting Volume: Apocalypse | 369722 | [369722-wu-confucian-painting-volume-apocalypse.json](./369722-wu-confucian-painting-volume-apocalypse.json) |
 | Wu Shi Hun | 223020 | [223020-wu-shi-hun.json](./223020-wu-shi-hun.json) |
 | Wu Xing Chess | 364591 | [364591-wu-xing-chess.json](./364591-wu-xing-chess.json) |
+| Wu-Tang: Rise of the Deceiver | 347666 | [347666-wu-tang-rise-of-the-deceiver.json](./347666-wu-tang-rise-of-the-deceiver.json) |
 | Wub-Wub Wescue | 330162 | [330162-wub-wub-wescue.json](./330162-wub-wub-wescue.json) |
 | Wubble Bubbles | 94975 | [94975-wubble-bubbles.json](./94975-wubble-bubbles.json) |
 | Wubbo: PuterPal | 390687 | [390687-wubbo-puterpal.json](./390687-wubbo-puterpal.json) |
