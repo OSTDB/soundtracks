@@ -4049,6 +4049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mecha Royale Online | 104212 | [104212-mecha-royale-online.json](./104212-mecha-royale-online.json) |
 | Mecha Snake | 148130 | [148130-mecha-snake.json](./148130-mecha-snake.json) |
 | Mecha Storm | 102747 | [102747-mecha-storm.json](./102747-mecha-storm.json) |
+| Mecha Survivors | 359921 | [359921-mecha-survivors.json](./359921-mecha-survivors.json) |
 | Mecha Tactics | 154392 | [154392-mecha-tactics.json](./154392-mecha-tactics.json) |
 | Mecha Taisen on Planet Oldskool | 73497 | [73497-mecha-taisen-on-planet-oldskool.json](./73497-mecha-taisen-on-planet-oldskool.json) |
 | Mecha's Negotiations | 363915 | [363915-mechas-negotiations.json](./363915-mechas-negotiations.json) |
@@ -5620,6 +5621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meso | 319350 | [319350-meso.json](./319350-meso.json) |
 | Mesonoxian | 201630 | [201630-mesonoxian.json](./201630-mesonoxian.json) |
 | Mesopotamia | 42042 | [42042-mesopotamia.json](./42042-mesopotamia.json) |
+| Mesopotamia: The Game | 359928 | [359928-mesopotamia-the-game.json](./359928-mesopotamia-the-game.json) |
 | Mesorift Survival | 350403 | [350403-mesorift-survival.json](./350403-mesorift-survival.json) |
 | Mess Adventures | 153329 | [153329-mess-adventures.json](./153329-mess-adventures.json) |
 | Mess Adventures 2 | 187819 | [187819-mess-adventures-2.json](./187819-mess-adventures-2.json) |
