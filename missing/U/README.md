@@ -698,6 +698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Umbra Lumen | 177841 | [177841-umbra-lumen.json](./177841-umbra-lumen.json) |
 | Umbra Lumen | 337284 | [337284-umbra-lumen.json](./337284-umbra-lumen.json) |
 | Umbra Mortis | 233134 | [233134-umbra-mortis.json](./233134-umbra-mortis.json) |
+| Umbra Mortis | 347202 | [347202-umbra-mortis.json](./347202-umbra-mortis.json) |
 | Umbra of Fate | 256873 | [256873-umbra-of-fate.json](./256873-umbra-of-fate.json) |
 | Umbra Sepulcri | 215678 | [215678-umbra-sepulcri.json](./215678-umbra-sepulcri.json) |
 | Umbra Survivors | 379956 | [379956-umbra-survivors.json](./379956-umbra-survivors.json) |
@@ -1369,6 +1370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UnHumanize | 319011 | [319011-unhumanize.json](./319011-unhumanize.json) |
 | Uni | 145684 | [145684-uni.json](./145684-uni.json) |
 | Uni Ver Se | 185635 | [185635-uni-ver-se.json](./185635-uni-ver-se.json) |
+| Uni-Code | 347197 | [347197-uni-code.json](./347197-uni-code.json) |
 | UniBall | 34331 | [34331-uniball.json](./34331-uniball.json) |
 | Unibat | 252225 | [252225-unibat.json](./252225-unibat.json) |
 | Uniboom: War of Unicorns | 164921 | [164921-uniboom-war-of-unicorns.json](./164921-uniboom-war-of-unicorns.json) |
