@@ -1735,6 +1735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Administrators | 196569 | [196569-administrators.json](./196569-administrators.json) |
 | Admiral: Battle for Uranium | 261859 | [261859-admiral-battle-for-uranium.json](./261859-admiral-battle-for-uranium.json) |
 | Admirals of Ophiuchus | 379559 | [379559-admirals-of-ophiuchus.json](./379559-admirals-of-ophiuchus.json) |
+| Adohiinage | 345439 | [345439-adohiinage.json](./345439-adohiinage.json) |
 | Adolfish | 185014 | [185014-adolfish.json](./185014-adolfish.json) |
 | ADOM: Ancient Domains of Mystery | 36159 | [36159-adom-ancient-domains-of-mystery.json](./36159-adom-ancient-domains-of-mystery.json) |
 | Adonis | 200708 | [200708-adonis.json](./200708-adonis.json) |
@@ -3374,6 +3375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alaloth: Champions of the Four Kingdoms | 27406 | [27406-alaloth-champions-of-the-four-kingdoms.json](./27406-alaloth-champions-of-the-four-kingdoms.json) |
 | Alan Probe: Amateur Surgeon | 70415 | [70415-alan-probe-amateur-surgeon.json](./70415-alan-probe-amateur-surgeon.json) |
 | Alan Sharp | 134486 | [134486-alan-sharp.json](./134486-alan-sharp.json) |
+| Alan Wake 3 | 345449 | [345449-alan-wake-3.json](./345449-alan-wake-3.json) |
 | Alan Wake II: Deluxe Edition | 311975 | [311975-alan-wake-ii-deluxe-edition.json](./311975-alan-wake-ii-deluxe-edition.json) |
 | Alan Wake II: Night Springs | 273996 | [273996-alan-wake-ii-night-springs.json](./273996-alan-wake-ii-night-springs.json) |
 | Alan Wake II: The Final Draft | 298842 | [298842-alan-wake-ii-the-final-draft.json](./298842-alan-wake-ii-the-final-draft.json) |
@@ -6822,6 +6824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | April 7th | 58863 | [58863-april-7th.json](./58863-april-7th.json) |
 | April Grove | 339401 | [339401-april-grove.json](./339401-april-grove.json) |
 | April Was A Fool | 199052 | [199052-april-was-a-fool.json](./199052-april-was-a-fool.json) |
+| Apt. 407 | 345437 | [345437-apt-407.json](./345437-apt-407.json) |
 | Aptly Rolling | 165661 | [165661-aptly-rolling.json](./165661-aptly-rolling.json) |
 | Apu's Journey | 276854 | [276854-apus-journey.json](./276854-apus-journey.json) |
 | Aqi 155 | 222369 | [222369-aqi-155.json](./222369-aqi-155.json) |
