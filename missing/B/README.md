@@ -5416,6 +5416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Powder | 101590 | [101590-black-powder.json](./101590-black-powder.json) |
 | Black Prophecy | 280361 | [280361-black-prophecy.json](./280361-black-prophecy.json) |
 | Black Queen | 13697 | [13697-black-queen.json](./13697-black-queen.json) |
+| Black Rain | 345445 | [345445-black-rain.json](./345445-black-rain.json) |
 | Black Rainbow | 370780 | [370780-black-rainbow.json](./370780-black-rainbow.json) |
 | Black Raven | 330354 | [330354-black-raven.json](./330354-black-raven.json) |
 | Black Relic | 227909 | [227909-black-relic.json](./227909-black-relic.json) |
@@ -7053,6 +7054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BMX Backflip King | 255173 | [255173-bmx-backflip-king.json](./255173-bmx-backflip-king.json) |
 | BMX Burner | 349261 | [349261-bmx-burner.json](./349261-bmx-burner.json) |
 | BMX Challenge | 220189 | [220189-bmx-challenge.json](./220189-bmx-challenge.json) |
+| BMX City Run | 345464 | [345464-bmx-city-run.json](./345464-bmx-city-run.json) |
 | BMX Freestyle | 323850 | [323850-bmx-freestyle.json](./323850-bmx-freestyle.json) |
 | BMX on the Moon | 15680 | [15680-bmx-on-the-moon.json](./15680-bmx-on-the-moon.json) |
 | BMX Pipe | 102770 | [102770-bmx-pipe.json](./102770-bmx-pipe.json) |
@@ -10353,6 +10355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bunny Pop 2: Beat the Wolf | 103890 | [103890-bunny-pop-2-beat-the-wolf.json](./103890-bunny-pop-2-beat-the-wolf.json) |
 | Bunny Prison Break | 250010 | [250010-bunny-prison-break.json](./250010-bunny-prison-break.json) |
 | Bunny Quest | 143942 | [143942-bunny-quest.json](./143942-bunny-quest.json) |
+| Bunny Rampage: History of Revenge | 345461 | [345461-bunny-rampage-history-of-revenge.json](./345461-bunny-rampage-history-of-revenge.json) |
 | Bunny Reversi | 119535 | [119535-bunny-reversi.json](./119535-bunny-reversi.json) |
 | Bunny Roulette | 335518 | [335518-bunny-roulette.json](./335518-bunny-roulette.json) |
 | Bunny Sword Master | 109043 | [109043-bunny-sword-master.json](./109043-bunny-sword-master.json) |
