@@ -4463,6 +4463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fleeting Iris: Alansya Chronicles Ren'Py Edition | 302042 | [302042-fleeting-iris-alansya-chronicles-renpy-edition.json](./302042-fleeting-iris-alansya-chronicles-renpy-edition.json) |
 | Fleeting JKT | 183048 | [183048-fleeting-jkt.json](./183048-fleeting-jkt.json) |
 | Fleeting Shores | 392220 | [392220-fleeting-shores.json](./392220-fleeting-shores.json) |
+| Fleeting Summer's End | 371121 | [371121-fleeting-summers-end.json](./371121-fleeting-summers-end.json) |
 | FleetMaster | 234060 | [234060-fleetmaster.json](./234060-fleetmaster.json) |
 | Fleetoad Mac | 184928 | [184928-fleetoad-mac.json](./184928-fleetoad-mac.json) |
 | Flekkia | 415300 | [415300-flekkia.json](./415300-flekkia.json) |
@@ -5396,7 +5397,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football League 2023 | 223933 | [223933-football-league-2023.json](./223933-football-league-2023.json) |
 | Football Legacy | 394539 | [394539-football-legacy.json](./394539-football-legacy.json) |
 | Football Legend | 59080 | [59080-football-legend.json](./59080-football-legend.json) |
-| Football Legends 2025: Complete Edition | 404277 | [404277-football-legends-2025-complete-edition.json](./404277-football-legends-2025-complete-edition.json) |
 | Football Legends 2025: Diamond Edition | 399818 | [399818-football-legends-2025-diamond-edition.json](./399818-football-legends-2025-diamond-edition.json) |
 | Football Legends 2025: Gold Edition | 396917 | [396917-football-legends-2025-gold-edition.json](./396917-football-legends-2025-gold-edition.json) |
 | Football Life 2023 | 225767 | [225767-football-life-2023.json](./225767-football-life-2023.json) |
