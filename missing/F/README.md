@@ -7423,6 +7423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frontier: Elite II | 2953 | [2953-frontier-elite-ii.json](./2953-frontier-elite-ii.json) |
 | Frontier: First Encounters | 2954 | [2954-frontier-first-encounters.json](./2954-frontier-first-encounters.json) |
 | Frontiers | 14081 | [14081-frontiers.json](./14081-frontiers.json) |
+| Frontiers | 357731 | [357731-frontiers.json](./357731-frontiers.json) |
 | Frontiers | 63353 | [63353-frontiers.json](./63353-frontiers.json) |
 | Frontiers of the Mind | 315519 | [315519-frontiers-of-the-mind.json](./315519-frontiers-of-the-mind.json) |
 | Frontiers Reborn | 329056 | [329056-frontiers-reborn.json](./329056-frontiers-reborn.json) |
