@@ -3300,6 +3300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phenocore | 194308 | [194308-phenocore.json](./194308-phenocore.json) |
 | Phenomenal Car Park Simulator | 124220 | [124220-phenomenal-car-park-simulator.json](./124220-phenomenal-car-park-simulator.json) |
 | Pheonix II | 411746 | [411746-pheonix-ii.json](./411746-pheonix-ii.json) |
+| Phero | 348817 | [348817-phero.json](./348817-phero.json) |
 | Phi: The Broken Strings | 332599 | [332599-phi-the-broken-strings.json](./332599-phi-the-broken-strings.json) |
 | Phi's Star Challenge | 393099 | [393099-phis-star-challenge.json](./393099-phis-star-challenge.json) |
 | Phibos | 243394 | [243394-phibos.json](./243394-phibos.json) |
@@ -5330,6 +5331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pizza Run | 200582 | [200582-pizza-run.json](./200582-pizza-run.json) |
 | Pizza Rush Race: Fighting Boss | 320925 | [320925-pizza-rush-race-fighting-boss.json](./320925-pizza-rush-race-fighting-boss.json) |
 | Pizza Shop Manager | 165557 | [165557-pizza-shop-manager.json](./165557-pizza-shop-manager.json) |
+| Pizza Shop Simulator | 348821 | [348821-pizza-shop-simulator.json](./348821-pizza-shop-simulator.json) |
 | Pizza Simulator Together | 326382 | [326382-pizza-simulator-together.json](./326382-pizza-simulator-together.json) |
 | Pizza Spy | 273438 | [273438-pizza-spy.json](./273438-pizza-spy.json) |
 | Pizza Syndicate | 373071 | [373071-pizza-syndicate.json](./373071-pizza-syndicate.json) |
@@ -8781,6 +8783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prison Empire Tycoon: Idle Game | 231907 | [231907-prison-empire-tycoon-idle-game.json](./231907-prison-empire-tycoon-idle-game.json) |
 | Prison Escape io | 347147 | [347147-prison-escape-io.json](./347147-prison-escape-io.json) |
 | Prison Escape Puzzle | 100151 | [100151-prison-escape-puzzle.json](./100151-prison-escape-puzzle.json) |
+| Prison Escape Puzzle Adventure | 348749 | [348749-prison-escape-puzzle-adventure.json](./348749-prison-escape-puzzle-adventure.json) |
 | Prison Escape Simulator | 345684 | [345684-prison-escape-simulator.json](./345684-prison-escape-simulator.json) |
 | Prison Escape Simulator | 392868 | [392868-prison-escape-simulator.json](./392868-prison-escape-simulator.json) |
 | Prison Escape Simulator 2026 | 411738 | [411738-prison-escape-simulator-2026.json](./411738-prison-escape-simulator-2026.json) |
