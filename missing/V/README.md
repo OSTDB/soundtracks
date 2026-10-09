@@ -365,6 +365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vamp: Lord of Blood | 174759 | [174759-vamp-lord-of-blood.json](./174759-vamp-lord-of-blood.json) |
 | Vampir | 387578 | [387578-vampir.json](./387578-vampir.json) |
 | Vampir Kyuuketsuki Densetsu | 201080 | [201080-vampir-kyuuketsuki-densetsu.json](./201080-vampir-kyuuketsuki-densetsu.json) |
+| Vampir Nymph | 362720 | [362720-vampir-nymph.json](./362720-vampir-nymph.json) |
 | Vampirates | 344457 | [344457-vampirates.json](./344457-vampirates.json) |
 | Vampirdzhija Vjedogonia | 130309 | [130309-vampirdzhija-vjedogonia.json](./130309-vampirdzhija-vjedogonia.json) |
 | Vampire Awakening: Elven Sword Chronicles Survival | 373020 | [373020-vampire-awakening-elven-sword-chronicles-survival.json](./373020-vampire-awakening-elven-sword-chronicles-survival.json) |
@@ -804,6 +805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Velocity Vector | 158085 | [158085-velocity-vector.json](./158085-velocity-vector.json) |
 | Velocity Ventures | 269198 | [269198-velocity-ventures.json](./269198-velocity-ventures.json) |
 | Velocity Vortex | 251693 | [251693-velocity-vortex.json](./251693-velocity-vortex.json) |
+| Velocity Wings | 362722 | [362722-velocity-wings.json](./362722-velocity-wings.json) |
 | Velocity: The Race Begins | 408903 | [408903-velocity-the-race-begins.json](./408903-velocity-the-race-begins.json) |
 | Velocity.io | 256350 | [256350-velocity-io.json](./256350-velocity-io.json) |
 | Velocrash | 414618 | [414618-velocrash.json](./414618-velocrash.json) |
