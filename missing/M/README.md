@@ -1576,6 +1576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maledictum | 382295 | [382295-maledictum.json](./382295-maledictum.json) |
 | Maleficent Free Fall | 61680 | [61680-maleficent-free-fall.json](./61680-maleficent-free-fall.json) |
 | Malek | 226710 | [226710-malek.json](./226710-malek.json) |
+| Malevilent | 366737 | [366737-malevilent.json](./366737-malevilent.json) |
 | Malevolence | 115635 | [115635-malevolence.json](./115635-malevolence.json) |
 | Malevolence: The Sword of Ahkranox | 16908 | [16908-malevolence-the-sword-of-ahkranox.json](./16908-malevolence-the-sword-of-ahkranox.json) |
 | Malfortune | 105382 | [105382-malfortune.json](./105382-malfortune.json) |
@@ -6950,6 +6951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Million Lords | 124637 | [124637-million-lords.json](./124637-million-lords.json) |
 | Million on Mars: Land Rush | 182494 | [182494-million-on-mars-land-rush.json](./182494-million-on-mars-land-rush.json) |
 | Million Onion Hotel | 62068 | [62068-million-onion-hotel.json](./62068-million-onion-hotel.json) |
+| Million to One | 366711 | [366711-million-to-one.json](./366711-million-to-one.json) |
 | Million to One Hero | 109609 | [109609-million-to-one-hero.json](./109609-million-to-one-hero.json) |
 | Millionaire City | 115543 | [115543-millionaire-city.json](./115543-millionaire-city.json) |
 | Millionaire Dancer | 117098 | [117098-millionaire-dancer.json](./117098-millionaire-dancer.json) |
@@ -10606,6 +10608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motorbikes Pro 2025: Superior Edition | 410857 | [410857-motorbikes-pro-2025-superior-edition.json](./410857-motorbikes-pro-2025-superior-edition.json) |
 | Motorbikes Pro 2025: Value Edition | 396921 | [396921-motorbikes-pro-2025-value-edition.json](./396921-motorbikes-pro-2025-value-edition.json) |
 | Motorcross Mania 2 | 200477 | [200477-motorcross-mania-2.json](./200477-motorcross-mania-2.json) |
+| Motorcycle Boy | 366743 | [366743-motorcycle-boy.json](./366743-motorcycle-boy.json) |
 | Motorcycle Combat | 326197 | [326197-motorcycle-combat.json](./326197-motorcycle-combat.json) |
 | Motorcycle Extreme Driver: Moto Racing Simulator | 294836 | [294836-motorcycle-extreme-driver-moto-racing-simulator.json](./294836-motorcycle-extreme-driver-moto-racing-simulator.json) |
 | Motorcycle Girl | 402984 | [402984-motorcycle-girl.json](./402984-motorcycle-girl.json) |
