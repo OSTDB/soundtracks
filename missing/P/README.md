@@ -1410,6 +1410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Park Beyond: Complete Edition | 331856 | [331856-park-beyond-complete-edition.json](./331856-park-beyond-complete-edition.json) |
 | Park Beyond: Visioneer Edition | 254055 | [254055-park-beyond-visioneer-edition.json](./254055-park-beyond-visioneer-edition.json) |
 | Park Bound | 40524 | [40524-park-bound.json](./40524-park-bound.json) |
+| Park Escape | 362740 | [362740-park-escape.json](./362740-park-escape.json) |
 | Park Inc | 146878 | [146878-park-inc.json](./146878-park-inc.json) |
 | Park It at All Costs! | 373125 | [373125-park-it-at-all-costs.json](./373125-park-it-at-all-costs.json) |
 | Park It! | 310740 | [310740-park-it.json](./310740-park-it.json) |
