@@ -4242,6 +4242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flag N Frag | 33157 | [33157-flag-n-frag.json](./33157-flag-n-frag.json) |
 | Flag Solitaire + Quiz - A Brain Game | 101051 | [101051-flag-solitaire-quiz-a-brain-game.json](./101051-flag-solitaire-quiz-a-brain-game.json) |
 | Flag Trivia Quiz: Four Choices! | 378803 | [378803-flag-trivia-quiz-four-choices.json](./378803-flag-trivia-quiz-four-choices.json) |
+| Flag-O-Tron | 366624 | [366624-flag-o-tron.json](./366624-flag-o-tron.json) |
 | Flagdashers | 289871 | [289871-flagdashers.json](./289871-flagdashers.json) |
 | Flagdle | 280456 | [280456-flagdle.json](./280456-flagdle.json) |
 | Flagdoku | 333550 | [333550-flagdoku.json](./333550-flagdoku.json) |
@@ -6508,6 +6509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fractured Dreams | 229646 | [229646-fractured-dreams.json](./229646-fractured-dreams.json) |
 | Fractured Fury | 244216 | [244216-fractured-fury.json](./244216-fractured-fury.json) |
 | Fractured Lands | 102871 | [102871-fractured-lands.json](./102871-fractured-lands.json) |
+| Fractured Library | 366699 | [366699-fractured-library.json](./366699-fractured-library.json) |
 | Fractured Mind | 294273 | [294273-fractured-mind.json](./294273-fractured-mind.json) |
 | Fractured Perception | 336149 | [336149-fractured-perception.json](./336149-fractured-perception.json) |
 | Fractured Skyline | 116426 | [116426-fractured-skyline.json](./116426-fractured-skyline.json) |
@@ -6775,6 +6777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Free Fall | 321756 | [321756-free-fall.json](./321756-free-fall.json) |
 | Free for All | 262920 | [262920-free-for-all.json](./262920-free-for-all.json) |
 | Free for Fall | 192970 | [192970-free-for-fall.json](./192970-free-for-fall.json) |
+| Free for Fall | 366627 | [366627-free-for-fall.json](./366627-free-for-fall.json) |
 | Free Heroes of Might and Magic II: Resurrection | 186606 | [186606-free-heroes-of-might-and-magic-ii-resurrection.json](./186606-free-heroes-of-might-and-magic-ii-resurrection.json) |
 | Free Hugs Inc. | 178566 | [178566-free-hugs-inc.json](./178566-free-hugs-inc.json) |
 | Free Lives Collection | 300781 | [300781-free-lives-collection.json](./300781-free-lives-collection.json) |
