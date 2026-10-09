@@ -1502,6 +1502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CargoRun | 237328 | [237328-cargorun.json](./237328-cargorun.json) |
 | Caribbean Disaster | 74056 | [74056-caribbean-disaster.json](./74056-caribbean-disaster.json) |
 | Caribbean Jigsaw | 102892 | [102892-caribbean-jigsaw.json](./102892-caribbean-jigsaw.json) |
+| Caribbean Legend: Vile Little God | 337043 | [337043-caribbean-legend-vile-little-god.json](./337043-caribbean-legend-vile-little-god.json) |
 | Caribbean Odyssey | 34132 | [34132-caribbean-odyssey.json](./34132-caribbean-odyssey.json) |
 | Caribbean Rhythms Lite | 232151 | [232151-caribbean-rhythms-lite.json](./232151-caribbean-rhythms-lite.json) |
 | Caribbean Stud | 246378 | [246378-caribbean-stud.json](./246378-caribbean-stud.json) |
@@ -6675,6 +6676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coin Rush | 336594 | [336594-coin-rush.json](./336594-coin-rush.json) |
 | Coin Slot | 355181 | [355181-coin-slot.json](./355181-coin-slot.json) |
 | Coin Slots Live | 386856 | [386856-coin-slots-live.json](./386856-coin-slots-live.json) |
+| Coin Smith | 337067 | [337067-coin-smith.json](./337067-coin-smith.json) |
 | Coin Toss Rainbow Simulator | 272871 | [272871-coin-toss-rainbow-simulator.json](./272871-coin-toss-rainbow-simulator.json) |
 | Coin World | 94347 | [94347-coin-world.json](./94347-coin-world.json) |
 | Coin X Union | 339312 | [339312-coin-x-union.json](./339312-coin-x-union.json) |
@@ -8861,6 +8863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmo Flight | 346052 | [346052-cosmo-flight.json](./346052-cosmo-flight.json) |
 | Cosmo Gang the Puzzle | 18382 | [18382-cosmo-gang-the-puzzle.json](./18382-cosmo-gang-the-puzzle.json) |
 | Cosmo Gang the Video | 39644 | [39644-cosmo-gang-the-video.json](./39644-cosmo-gang-the-video.json) |
+| Cosmo Magnat | 337058 | [337058-cosmo-magnat.json](./337058-cosmo-magnat.json) |
 | Cosmo Nash: Culinary Courier | 290990 | [290990-cosmo-nash-culinary-courier.json](./290990-cosmo-nash-culinary-courier.json) |
 | Cosmo Odyssey 2: Comeback to Origin | 238550 | [238550-cosmo-odyssey-2-comeback-to-origin.json](./238550-cosmo-odyssey-2-comeback-to-origin.json) |
 | Cosmo Police Galivan | 28825 | [28825-cosmo-police-galivan.json](./28825-cosmo-police-galivan.json) |
@@ -11610,6 +11613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursed Clouds 64 | 415299 | [415299-cursed-clouds-64.json](./415299-cursed-clouds-64.json) |
 | Cursed Conundrum | 320910 | [320910-cursed-conundrum.json](./320910-cursed-conundrum.json) |
 | Cursed Core | 398045 | [398045-cursed-core.json](./398045-cursed-core.json) |
+| Cursed Cove | 337056 | [337056-cursed-cove.json](./337056-cursed-cove.json) |
 | Cursed Covenant: The Demonic Pursuit | 338712 | [338712-cursed-covenant-the-demonic-pursuit.json](./338712-cursed-covenant-the-demonic-pursuit.json) |
 | Cursed Crew | 217018 | [217018-cursed-crew.json](./217018-cursed-crew.json) |
 | Cursed Demons of Wallachia | 365767 | [365767-cursed-demons-of-wallachia.json](./365767-cursed-demons-of-wallachia.json) |
