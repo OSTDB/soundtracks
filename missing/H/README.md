@@ -1598,6 +1598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted House | 276244 | [276244-haunted-house.json](./276244-haunted-house.json) |
 | Haunted House | 4909 | [4909-haunted-house.json](./4909-haunted-house.json) |
 | Haunted House 2 | 340419 | [340419-haunted-house-2.json](./340419-haunted-house-2.json) |
+| Haunted House of Rock | 338149 | [338149-haunted-house-of-rock.json](./338149-haunted-house-of-rock.json) |
 | Haunted House Renovator | 211941 | [211941-haunted-house-renovator.json](./211941-haunted-house-renovator.json) |
 | Haunted House Renovator: Prologue | 316421 | [316421-haunted-house-renovator-prologue.json](./316421-haunted-house-renovator-prologue.json) |
 | Haunted House: The Murder | 171419 | [171419-haunted-house-the-murder.json](./171419-haunted-house-the-murder.json) |
