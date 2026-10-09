@@ -1554,6 +1554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dating and Dragons: A Love Quest | 351272 | [351272-dating-and-dragons-a-love-quest.json](./351272-dating-and-dragons-a-love-quest.json) |
 | Dating Maze | 401694 | [401694-dating-maze.json](./401694-dating-maze.json) |
 | Dating My High School Bully | 205817 | [205817-dating-my-high-school-bully.json](./205817-dating-my-high-school-bully.json) |
+| Dating of the Future | 349276 | [349276-dating-of-the-future.json](./349276-dating-of-the-future.json) |
 | Dating Sim | 329168 | [329168-dating-sim.json](./329168-dating-sim.json) |
 | Dating Sim! Luna's Lovely Summer | 329171 | [329171-dating-sim-lunas-lovely-summer.json](./329171-dating-sim-lunas-lovely-summer.json) |
 | Dating Sim! Re:Mastered | 329170 | [329170-dating-sim-re-mastered.json](./329170-dating-sim-re-mastered.json) |
@@ -1802,6 +1803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dayshift at Freddy's 3 | 216206 | [216206-dayshift-at-freddys-3.json](./216206-dayshift-at-freddys-3.json) |
 | Daytona Championship USA | 57333 | [57333-daytona-championship-usa.json](./57333-daytona-championship-usa.json) |
 | Daytona Racing | 92623 | [92623-daytona-racing.json](./92623-daytona-racing.json) |
+| Daytona USA 2: Power Edition | 349356 | [349356-daytona-usa-2-power-edition.json](./349356-daytona-usa-2-power-edition.json) |
 | Daytona USA Deluxe | 73482 | [73482-daytona-usa-deluxe.json](./73482-daytona-usa-deluxe.json) |
 | DayZ | 2117 | [2117-dayz.json](./2117-dayz.json) |
 | DayZ: Frostline | 311724 | [311724-dayz-frostline.json](./311724-dayz-frostline.json) |
