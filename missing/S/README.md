@@ -2230,6 +2230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Screw Master 3D: Pin Puzzle | 328582 | [328582-screw-master-3d-pin-puzzle.json](./328582-screw-master-3d-pin-puzzle.json) |
 | Screw You, Bear Dad | 57495 | [57495-screw-you-bear-dad.json](./57495-screw-you-bear-dad.json) |
 | Screw-Nut | 87970 | [87970-screw-nut.json](./87970-screw-nut.json) |
+| Screwball | 356589 | [356589-screwball.json](./356589-screwball.json) |
 | Screwdom 3D | 332430 | [332430-screwdom-3d.json](./332430-screwdom-3d.json) |
 | Scriball | 286684 | [286684-scriball.json](./286684-scriball.json) |
 | Scribble | 262675 | [262675-scribble.json](./262675-scribble.json) |
@@ -8754,6 +8755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snack Attack and Friends | 74750 | [74750-snack-attack-and-friends.json](./74750-snack-attack-and-friends.json) |
 | Snack Attack II | 25151 | [25151-snack-attack-ii.json](./25151-snack-attack-ii.json) |
 | Snack Invaders | 392275 | [392275-snack-invaders.json](./392275-snack-invaders.json) |
+| Snack Machine Change | 356576 | [356576-snack-machine-change.json](./356576-snack-machine-change.json) |
 | Snack Pack 3: Trick or Treat | 275317 | [275317-snack-pack-3-trick-or-treat.json](./275317-snack-pack-3-trick-or-treat.json) |
 | Snack Scoffer | 198515 | [198515-snack-scoffer.json](./198515-snack-scoffer.json) |
 | Snack Time for Caterpillar | 239622 | [239622-snack-time-for-caterpillar.json](./239622-snack-time-for-caterpillar.json) |
