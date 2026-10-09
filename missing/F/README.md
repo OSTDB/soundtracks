@@ -251,6 +251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Facteroids | 173306 | [173306-facteroids.json](./173306-facteroids.json) |
 | Faction Reticent | 366125 | [366125-faction-reticent.json](./366125-faction-reticent.json) |
 | Faction Wars | 168317 | [168317-faction-wars.json](./168317-faction-wars.json) |
+| Factions | 335375 | [335375-factions.json](./335375-factions.json) |
 | Factor D | 200171 | [200171-factor-d.json](./200171-factor-d.json) |
 | Factor Find | 243637 | [243637-factor-find.json](./243637-factor-find.json) |
 | Factor Zoo | 413187 | [413187-factor-zoo.json](./413187-factor-zoo.json) |
@@ -3990,6 +3991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fishing Sim World: Pro Tour - Lake Nelson | 170482 | [170482-fishing-sim-world-pro-tour-lake-nelson.json](./170482-fishing-sim-world-pro-tour-lake-nelson.json) |
 | Fishing Sim World: Pro Tour - Lake Williams | 170470 | [170470-fishing-sim-world-pro-tour-lake-williams.json](./170470-fishing-sim-world-pro-tour-lake-williams.json) |
 | Fishing Sim World: Pro Tour - Lough Kerr | 170471 | [170471-fishing-sim-world-pro-tour-lough-kerr.json](./170471-fishing-sim-world-pro-tour-lough-kerr.json) |
+| Fishing Sim World: Pro Tour - Quad Lake Pass | 335316 | [335316-fishing-sim-world-pro-tour-quad-lake-pass.json](./335316-fishing-sim-world-pro-tour-quad-lake-pass.json) |
 | Fishing Sim World: Pro Tour - Tackle Box Equipment Pack | 170478 | [170478-fishing-sim-world-pro-tour-tackle-box-equipment-pack.json](./170478-fishing-sim-world-pro-tour-tackle-box-equipment-pack.json) |
 | Fishing Sim World: Pro Tour - Talon Fishery | 170475 | [170475-fishing-sim-world-pro-tour-talon-fishery.json](./170475-fishing-sim-world-pro-tour-talon-fishery.json) |
 | Fishing Sim World: Pro Tour - Tournament Bass Pack | 156156 | [156156-fishing-sim-world-pro-tour-tournament-bass-pack.json](./156156-fishing-sim-world-pro-tour-tournament-bass-pack.json) |
