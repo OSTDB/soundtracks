@@ -173,6 +173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gahkthun of the Golden Lightning: Steam Edition | 33106 | [33106-gahkthun-of-the-golden-lightning-steam-edition.json](./33106-gahkthun-of-the-golden-lightning-steam-edition.json) |
 | GAI Stops Auto: Right Version Simulator | 157125 | [157125-gai-stops-auto-right-version-simulator.json](./157125-gai-stops-auto-right-version-simulator.json) |
 | Gaia | 298270 | [298270-gaia.json](./298270-gaia.json) |
+| Gaia | 385392 | [385392-gaia.json](./385392-gaia.json) |
 | Gaia 2200 | 50530 | [50530-gaia-2200.json](./50530-gaia-2200.json) |
 | Gaia Attack 4 | 64962 | [64962-gaia-attack-4.json](./64962-gaia-attack-4.json) |
 | Gaia Aura | 327266 | [327266-gaia-aura.json](./327266-gaia-aura.json) |
@@ -1175,6 +1176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garfield's Scary Scavenger Hunt | 124418 | [124418-garfields-scary-scavenger-hunt.json](./124418-garfields-scary-scavenger-hunt.json) |
 | Garfield's Wild Ride | 25163 | [25163-garfields-wild-ride.json](./25163-garfields-wild-ride.json) |
 | Gargadusa's Tower | 392361 | [392361-gargadusas-tower.json](./392361-gargadusas-tower.json) |
+| Gargantua | 385387 | [385387-gargantua.json](./385387-gargantua.json) |
 | Gargantua | 80241 | [80241-gargantua.json](./80241-gargantua.json) |
 | Gargolite | 183507 | [183507-gargolite.json](./183507-gargolite.json) |
 | Gargouti Simulator | 351775 | [351775-gargouti-simulator.json](./351775-gargouti-simulator.json) |
@@ -5437,6 +5439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grimdoria | 278135 | [278135-grimdoria.json](./278135-grimdoria.json) |
 | Grime | 260887 | [260887-grime.json](./260887-grime.json) |
 | Grime House | 198452 | [198452-grime-house.json](./198452-grime-house.json) |
+| Grime Reapers | 385362 | [385362-grime-reapers.json](./385362-grime-reapers.json) |
 | Grime: Colors of Rot | 222950 | [222950-grime-colors-of-rot.json](./222950-grime-colors-of-rot.json) |
 | Grime: Definitive Edition | 284491 | [284491-grime-definitive-edition.json](./284491-grime-definitive-edition.json) |
 | Grime: Tinge of Terror | 252363 | [252363-grime-tinge-of-terror.json](./252363-grime-tinge-of-terror.json) |
