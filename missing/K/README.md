@@ -225,6 +225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kakka to Ma no Tsuku Present!? | 97507 | [97507-kakka-to-ma-no-tsuku-present.json](./97507-kakka-to-ma-no-tsuku-present.json) |
 | Kakkouke | 284341 | [284341-kakkouke.json](./284341-kakkouke.json) |
 | Kako Yatai | 283807 | [283807-kako-yatai.json](./283807-kako-yatai.json) |
+| Kakoi | 334071 | [334071-kakoi.json](./334071-kakoi.json) |
 | Kakosatsu | 109181 | [109181-kakosatsu.json](./109181-kakosatsu.json) |
 | Kaku-San-Sei Million Arthur | 44073 | [44073-kaku-san-sei-million-arthur.json](./44073-kaku-san-sei-million-arthur.json) |
 | Kakuchou Shoujo-kei Trinary | 346771 | [346771-kakuchou-shoujo-kei-trinary.json](./346771-kakuchou-shoujo-kei-trinary.json) |
@@ -663,6 +664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kasane Teto and Hatsune Miku are Lesbians | 333537 | [333537-kasane-teto-and-hatsune-miku-are-lesbians.json](./333537-kasane-teto-and-hatsune-miku-are-lesbians.json) |
 | Kasei Monogatari | 122942 | [122942-kasei-monogatari.json](./122942-kasei-monogatari.json) |
 | Kaseifu Koi wa Keiyaku Kara | 238408 | [238408-kaseifu-koi-wa-keiyaku-kara.json](./238408-kaseifu-koi-wa-keiyaku-kara.json) |
+| Kaseki no Uta | 334235 | [334235-kaseki-no-uta.json](./334235-kaseki-no-uta.json) |
 | Kaseki Sousei Reborn | 228578 | [228578-kaseki-sousei-reborn.json](./228578-kaseki-sousei-reborn.json) |
 | Kaseki Sousei Reborn II: Monster Digger | 228579 | [228579-kaseki-sousei-reborn-ii-monster-digger.json](./228579-kaseki-sousei-reborn-ii-monster-digger.json) |
 | Kasha vs. Kritters | 382302 | [382302-kasha-vs-kritters.json](./382302-kasha-vs-kritters.json) |
