@@ -1782,6 +1782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baseball Mogul 2021 | 144946 | [144946-baseball-mogul-2021.json](./144946-baseball-mogul-2021.json) |
 | Baseball Mogul Diamond | 31952 | [31952-baseball-mogul-diamond.json](./31952-baseball-mogul-diamond.json) |
 | Baseball Pro's | 279700 | [279700-baseball-pros.json](./279700-baseball-pros.json) |
+| Baseball Scouter | 379699 | [379699-baseball-scouter.json](./379699-baseball-scouter.json) |
 | Baseball Star | 46753 | [46753-baseball-star.json](./46753-baseball-star.json) |
 | Baseball Stars | 273094 | [273094-baseball-stars.json](./273094-baseball-stars.json) |
 | Baseball Stars II | 48296 | [48296-baseball-stars-ii.json](./48296-baseball-stars-ii.json) |
@@ -4960,6 +4961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bishoujo Hanafuda Club Vol.2: Koikoi Bakappana-hen | 41279 | [41279-bishoujo-hanafuda-club-vol-2-koikoi-bakappana-hen.json](./41279-bishoujo-hanafuda-club-vol-2-koikoi-bakappana-hen.json) |
 | Bishoujo Hanafuda Kikou Michinoku Hitou Koi Monogatari Special | 45417 | [45417-bishoujo-hanafuda-kikou-michinoku-hitou-koi-monogatari-special.json](./45417-bishoujo-hanafuda-kikou-michinoku-hitou-koi-monogatari-special.json) |
 | Bishoujo Janshi Suchie-Pai | 44442 | [44442-bishoujo-janshi-suchie-pai.json](./44442-bishoujo-janshi-suchie-pai.json) |
+| Bishoujo Mangekyou Ibun: Yuki Onna | 379665 | [379665-bishoujo-mangekyou-ibun-yuki-onna.json](./379665-bishoujo-mangekyou-ibun-yuki-onna.json) |
 | Bishoujo Mangekyou: Kami ga Tsukuritamouta Shoujo-tachi | 115725 | [115725-bishoujo-mangekyou-kami-ga-tsukuritamouta-shoujo-tachi.json](./115725-bishoujo-mangekyou-kami-ga-tsukuritamouta-shoujo-tachi.json) |
 | Bishoujo Mangekyou: Katsute Shoujo Datta Kimi he | 115724 | [115724-bishoujo-mangekyou-katsute-shoujo-datta-kimi-he.json](./115724-bishoujo-mangekyou-katsute-shoujo-datta-kimi-he.json) |
 | Bishoujo Mangekyou: Kotowari to Meikyuu no Shoujo | 128419 | [128419-bishoujo-mangekyou-kotowari-to-meikyuu-no-shoujo.json](./128419-bishoujo-mangekyou-kotowari-to-meikyuu-no-shoujo.json) |
@@ -8957,6 +8959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brian the Brain | 151606 | [151606-brian-the-brain.json](./151606-brian-the-brain.json) |
 | Brian: The Novice Barbarian | 58825 | [58825-brian-the-novice-barbarian.json](./58825-brian-the-novice-barbarian.json) |
 | Brian's Redemption | 350450 | [350450-brians-redemption.json](./350450-brians-redemption.json) |
+| Briar Flame | 379707 | [379707-briar-flame.json](./379707-briar-flame.json) |
 | Bric | 31124 | [31124-bric.json](./31124-bric.json) |
 | Bric-a-Brac Shop | 178513 | [178513-bric-a-brac-shop.json](./178513-bric-a-brac-shop.json) |
 | Brichi Quest | 217258 | [217258-brichi-quest.json](./217258-brichi-quest.json) |
