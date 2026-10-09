@@ -2999,6 +2999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Out of Time | 356712 | [356712-out-of-time.json](./356712-out-of-time.json) |
 | Out of Time | 388932 | [388932-out-of-time.json](./388932-out-of-time.json) |
 | Out Of Water | 359925 | [359925-out-of-water.json](./359925-out-of-water.json) |
+| Out of Words | 347645 | [347645-out-of-words.json](./347645-out-of-words.json) |
 | Out on a Liminal | 178940 | [178940-out-on-a-liminal.json](./178940-out-on-a-liminal.json) |
 | Out Racing: Arcade Memory | 294835 | [294835-out-racing-arcade-memory.json](./294835-out-racing-arcade-memory.json) |
 | Out the Window: a car trip sim | 134691 | [134691-out-the-window-a-car-trip-sim.json](./134691-out-the-window-a-car-trip-sim.json) |
@@ -3499,6 +3500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Owl Country | 71729 | [71729-owl-country.json](./71729-owl-country.json) |
 | Owl Force | 319661 | [319661-owl-force.json](./319661-owl-force.json) |
 | Owl Glider Adventure | 359432 | [359432-owl-glider-adventure.json](./359432-owl-glider-adventure.json) |
+| Owl Lights | 347653 | [347653-owl-lights.json](./347653-owl-lights.json) |
 | Owl Observatory | 278717 | [278717-owl-observatory.json](./278717-owl-observatory.json) |
 | Owl Rescue | 221081 | [221081-owl-rescue.json](./221081-owl-rescue.json) |
 | Owl Simulator | 90086 | [90086-owl-simulator.json](./90086-owl-simulator.json) |
