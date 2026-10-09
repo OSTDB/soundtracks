@@ -3149,6 +3149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ajax | 39324 | [39324-ajax.json](./39324-ajax.json) |
 | AJAX Club Football 2005 | 47305 | [47305-ajax-club-football-2005.json](./47305-ajax-club-football-2005.json) |
 | Ajedrez una tarde de Otoño | 391292 | [391292-ajedrez-una-tarde-de-otono.json](./391292-ajedrez-una-tarde-de-otono.json) |
+| Ajgal | 360521 | [360521-ajgal.json](./360521-ajgal.json) |
 | Ajisai Shiyou ka! | 394134 | [394134-ajisai-shiyou-ka.json](./394134-ajisai-shiyou-ka.json) |
 | Ajnabee: The Unknown | 389975 | [389975-ajnabee-the-unknown.json](./389975-ajnabee-the-unknown.json) |
 | AK-xolotl | 143004 | [143004-ak-xolotl.json](./143004-ak-xolotl.json) |
@@ -8800,7 +8801,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Creed Mirage: Deluxe Pack | 271290 | [271290-assassins-creed-mirage-deluxe-pack.json](./271290-assassins-creed-mirage-deluxe-pack.json) |
 | Assassin's Creed Mirage: Desert Scorpion Pack | 409031 | [409031-assassins-creed-mirage-desert-scorpion-pack.json](./409031-assassins-creed-mirage-desert-scorpion-pack.json) |
 | Assassin's Creed Mirage: Fire Demon Pack | 271291 | [271291-assassins-creed-mirage-fire-demon-pack.json](./271291-assassins-creed-mirage-fire-demon-pack.json) |
+| Assassin's Creed Mirage: Jinn Pack | 360514 | [360514-assassins-creed-mirage-jinn-pack.json](./360514-assassins-creed-mirage-jinn-pack.json) |
+| Assassin's Creed Mirage: Lightning Pack | 360515 | [360515-assassins-creed-mirage-lightning-pack.json](./360515-assassins-creed-mirage-lightning-pack.json) |
 | Assassin’s Creed Mirage: Master Assassin Edition | 276451 | [276451-assassin-s-creed-mirage-master-assassin-edition.json](./276451-assassin-s-creed-mirage-master-assassin-edition.json) |
+| Assassin's Creed Mirage: Master Assassin Pack | 360516 | [360516-assassins-creed-mirage-master-assassin-pack.json](./360516-assassins-creed-mirage-master-assassin-pack.json) |
 | Assassin's Creed Mirage: Master Assassin Upgrade Bundle 1 | 360572 | [360572-assassins-creed-mirage-master-assassin-upgrade-bundle-1.json](./360572-assassins-creed-mirage-master-assassin-upgrade-bundle-1.json) |
 | Assassin's Creed Mythology Pack | 218994 | [218994-assassins-creed-mythology-pack.json](./218994-assassins-creed-mythology-pack.json) |
 | Assassin's Creed Odyssey: Legacy of the First Blade | 112732 | [112732-assassins-creed-odyssey-legacy-of-the-first-blade.json](./112732-assassins-creed-odyssey-legacy-of-the-first-blade.json) |
