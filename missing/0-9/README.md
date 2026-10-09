@@ -284,20 +284,26 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Cats Lost in Birthday Bash | 359031 | [359031-100-cats-lost-in-birthday-bash.json](./359031-100-cats-lost-in-birthday-bash.json) |
 | 100 Cats Lost in Canada 2 | 359033 | [359033-100-cats-lost-in-canada-2.json](./359033-100-cats-lost-in-canada-2.json) |
 | 100 Cats Lost In Canada: Extra Content | 376890 | [376890-100-cats-lost-in-canada-extra-content.json](./376890-100-cats-lost-in-canada-extra-content.json) |
+| 100 Cats Lost in China | 349285 | [349285-100-cats-lost-in-china.json](./349285-100-cats-lost-in-china.json) |
 | 100 Cats Lost in Circus Escape | 359030 | [359030-100-cats-lost-in-circus-escape.json](./359030-100-cats-lost-in-circus-escape.json) |
 | 100 Cats Lost in Da Vinci’s Workshop | 359052 | [359052-100-cats-lost-in-da-vinci-s-workshop.json](./359052-100-cats-lost-in-da-vinci-s-workshop.json) |
 | 100 Cats Lost in Funfair Frenzy | 359027 | [359027-100-cats-lost-in-funfair-frenzy.json](./359027-100-cats-lost-in-funfair-frenzy.json) |
 | 100 Cats Lost in Halloween Havoc | 359035 | [359035-100-cats-lost-in-halloween-havoc.json](./359035-100-cats-lost-in-halloween-havoc.json) |
+| 100 Cats Lost in Italy | 349282 | [349282-100-cats-lost-in-italy.json](./349282-100-cats-lost-in-italy.json) |
 | 100 Cats Lost In Japan: Extra Content | 376889 | [376889-100-cats-lost-in-japan-extra-content.json](./376889-100-cats-lost-in-japan-extra-content.json) |
 | 100 Cats Lost in Modern Art Mayhem | 359029 | [359029-100-cats-lost-in-modern-art-mayhem.json](./359029-100-cats-lost-in-modern-art-mayhem.json) |
 | 100 Cats Lost in Picasso’s Cubic World | 359026 | [359026-100-cats-lost-in-picasso-s-cubic-world.json](./359026-100-cats-lost-in-picasso-s-cubic-world.json) |
 | 100 Cats Lost In Poland: Extra Content | 359562 | [359562-100-cats-lost-in-poland-extra-content.json](./359562-100-cats-lost-in-poland-extra-content.json) |
+| 100 Cats Lost in Russia | 349283 | [349283-100-cats-lost-in-russia.json](./349283-100-cats-lost-in-russia.json) |
+| 100 Cats Lost in South Africa | 349286 | [349286-100-cats-lost-in-south-africa.json](./349286-100-cats-lost-in-south-africa.json) |
 | 100 Cats Lost in Surreal Dreamscape | 359032 | [359032-100-cats-lost-in-surreal-dreamscape.json](./359032-100-cats-lost-in-surreal-dreamscape.json) |
+| 100 Cats Lost in Thailand | 349284 | [349284-100-cats-lost-in-thailand.json](./349284-100-cats-lost-in-thailand.json) |
 | 100 Cats Lost In Thailand: Extra Content | 376888 | [376888-100-cats-lost-in-thailand-extra-content.json](./376888-100-cats-lost-in-thailand-extra-content.json) |
 | 100 Cats Lost in the 19th Century Find & Color | 359050 | [359050-100-cats-lost-in-the-19th-century-find-and-color.json](./359050-100-cats-lost-in-the-19th-century-find-and-color.json) |
 | 100 Cats Lost in the Future Find & Color | 359034 | [359034-100-cats-lost-in-the-future-find-and-color.json](./359034-100-cats-lost-in-the-future-find-and-color.json) |
 | 100 Cats Lost in the Stone Age Find & Color | 359053 | [359053-100-cats-lost-in-the-stone-age-find-and-color.json](./359053-100-cats-lost-in-the-stone-age-find-and-color.json) |
 | 100 Cats Lost in Toyland Trouble | 359028 | [359028-100-cats-lost-in-toyland-trouble.json](./359028-100-cats-lost-in-toyland-trouble.json) |
+| 100 Cats Lost in Turkey | 349280 | [349280-100-cats-lost-in-turkey.json](./349280-100-cats-lost-in-turkey.json) |
 | 100 Cats Lost In Turkey: Extra Content | 376887 | [376887-100-cats-lost-in-turkey-extra-content.json](./376887-100-cats-lost-in-turkey-extra-content.json) |
 | 100 Cats Lost in Undersea Wonders | 376891 | [376891-100-cats-lost-in-undersea-wonders.json](./376891-100-cats-lost-in-undersea-wonders.json) |
 | 100 Cats Lost in Van Gogh’s Brushstrokes | 376892 | [376892-100-cats-lost-in-van-gogh-s-brushstrokes.json](./376892-100-cats-lost-in-van-gogh-s-brushstrokes.json) |
@@ -563,6 +569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 11gatsu no Arcadia | 98426 | [98426-11gatsu-no-arcadia.json](./98426-11gatsu-no-arcadia.json) |
 | 11x11: Soccer Club Manager | 104716 | [104716-11x11-soccer-club-manager.json](./104716-11x11-soccer-club-manager.json) |
 | 12 | 97108 | [97108-12.json](./97108-12.json) |
+| 12 Bullets to Midnight | 349287 | [349287-12-bullets-to-midnight.json](./349287-12-bullets-to-midnight.json) |
 | 12 Hours Before Christmas | 113483 | [113483-12-hours-before-christmas.json](./113483-12-hours-before-christmas.json) |
 | 12 Hours Museum | 308938 | [308938-12-hours-museum.json](./308938-12-hours-museum.json) |
 | 12 Hours to Die | 146790 | [146790-12-hours-to-die.json](./146790-12-hours-to-die.json) |
@@ -1485,6 +1492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 4RC4N01D! 4: KOHBEEP edition | 334262 | [334262-4rc4n01d-4-kohbeep-edition.json](./334262-4rc4n01d-4-kohbeep-edition.json) |
 | 4Spaces | 259550 | [259550-4spaces.json](./259550-4spaces.json) |
 | 4Story: Summoner Armor Package | 377384 | [377384-4story-summoner-armor-package.json](./377384-4story-summoner-armor-package.json) |
+| 4Story: The Original | 349289 | [349289-4story-the-original.json](./349289-4story-the-original.json) |
 | 4Story: Warrior Armor Package | 377385 | [377385-4story-warrior-armor-package.json](./377385-4story-warrior-armor-package.json) |
 | 4Tacos | 276274 | [276274-4tacos.json](./276274-4tacos.json) |
 | 4Team | 31104 | [31104-4team.json](./31104-4team.json) |
@@ -1907,6 +1915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 99% Sky Car Racing | 108858 | [108858-99-sky-car-racing.json](./108858-99-sky-car-racing.json) |
 | 994 W 24th | 31147 | [31147-994-w-24th.json](./31147-994-w-24th.json) |
 | 999 | 104675 | [104675-999.json](./104675-999.json) |
+| 999 Hidden Cats: Brazil Together | 349281 | [349281-999-hidden-cats-brazil-together.json](./349281-999-hidden-cats-brazil-together.json) |
 | 9999 in 1 | 279737 | [279737-9999-in-1.json](./279737-9999-in-1.json) |
 | 999Seconds!Survivors | 400259 | [400259-999seconds-survivors.json](./400259-999seconds-survivors.json) |
 | 99Vidas | 26678 | [26678-99vidas.json](./26678-99vidas.json) |
