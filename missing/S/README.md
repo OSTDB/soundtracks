@@ -16324,6 +16324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stoneheart Archive | 409697 | [409697-stoneheart-archive.json](./409697-stoneheart-archive.json) |
 | Stonehearth | 5447 | [5447-stonehearth.json](./5447-stonehearth.json) |
 | Stonehenge VR | 33137 | [33137-stonehenge-vr.json](./33137-stonehenge-vr.json) |
+| Stonehold | 354950 | [354950-stonehold.json](./354950-stonehold.json) |
 | Stonekeep | 253 | [253-stonekeep.json](./253-stonekeep.json) |
 | Stonemachia | 300028 | [300028-stonemachia.json](./300028-stonemachia.json) |
 | Stones Keeper: King Aurelius | 212863 | [212863-stones-keeper-king-aurelius.json](./212863-stones-keeper-king-aurelius.json) |
