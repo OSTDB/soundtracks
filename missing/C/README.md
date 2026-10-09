@@ -1169,6 +1169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Game | 176820 | [176820-car-game.json](./176820-car-game.json) |
 | Car Go Fast | 206121 | [206121-car-go-fast.json](./206121-car-go-fast.json) |
 | Car Guy Soundboard | 323375 | [323375-car-guy-soundboard.json](./323375-car-guy-soundboard.json) |
+| Car Guys | 345423 | [345423-car-guys.json](./345423-car-guys.json) |
 | Car Heist Simulator: Thief Mechanic | 328564 | [328564-car-heist-simulator-thief-mechanic.json](./328564-car-heist-simulator-thief-mechanic.json) |
 | Car II: Grandprix | 239570 | [239570-car-ii-grandprix.json](./239570-car-ii-grandprix.json) |
 | Car Jack Streets | 44498 | [44498-car-jack-streets.json](./44498-car-jack-streets.json) |
