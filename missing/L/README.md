@@ -2086,6 +2086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Len'en Ten'eisenki: Brilliant Pagoda or Haze Castle | 125794 | [125794-lenen-teneisenki-brilliant-pagoda-or-haze-castle.json](./125794-lenen-teneisenki-brilliant-pagoda-or-haze-castle.json) |
 | Lenin - The Lion | 99626 | [99626-lenin-the-lion.json](./99626-lenin-the-lion.json) |
 | Lenin Simulator | 195180 | [195180-lenin-simulator.json](./195180-lenin-simulator.json) |
+| Lenin Street Geek Shop | 338685 | [338685-lenin-street-geek-shop.json](./338685-lenin-street-geek-shop.json) |
 | Leningrad | 188430 | [188430-leningrad.json](./188430-leningrad.json) |
 | Lennod Jump Game | 384542 | [384542-lennod-jump-game.json](./384542-lennod-jump-game.json) |
 | Lennus II: Fuuin no Shito | 38376 | [38376-lennus-ii-fuuin-no-shito.json](./38376-lennus-ii-fuuin-no-shito.json) |
@@ -4309,6 +4310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lone Elven Wanderer | 200575 | [200575-lone-elven-wanderer.json](./200575-lone-elven-wanderer.json) |
 | Lone Fungus | 146568 | [146568-lone-fungus.json](./146568-lone-fungus.json) |
 | Lone Fungus: Melody of Spores | 264139 | [264139-lone-fungus-melody-of-spores.json](./264139-lone-fungus-melody-of-spores.json) |
+| Lone Fury | 338684 | [338684-lone-fury.json](./338684-lone-fury.json) |
 | Lone King | 151046 | [151046-lone-king.json](./151046-lone-king.json) |
 | Lone Labyrinth: Burden of the Just | 352246 | [352246-lone-labyrinth-burden-of-the-just.json](./352246-lone-labyrinth-burden-of-the-just.json) |
 | Lone McLonegan : A Western Adventure | 153926 | [153926-lone-mclonegan-a-western-adventure.json](./153926-lone-mclonegan-a-western-adventure.json) |
