@@ -8247,6 +8247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Matrix Online | 1005 | [1005-the-matrix-online.json](./1005-the-matrix-online.json) |
 | The Matrix: Path of Neo | 1004 | [1004-the-matrix-path-of-neo.json](./1004-the-matrix-path-of-neo.json) |
 | The Matter at Hand | 183476 | [183476-the-matter-at-hand.json](./183476-the-matter-at-hand.json) |
+| The Matter of Being | 354402 | [354402-the-matter-of-being.json](./354402-the-matter-of-being.json) |
 | The Mauve Zone | 261443 | [261443-the-mauve-zone.json](./261443-the-mauve-zone.json) |
 | The Maverick Hunter Chronicles | 363810 | [363810-the-maverick-hunter-chronicles.json](./363810-the-maverick-hunter-chronicles.json) |
 | The Maw | 3976 | [3976-the-maw.json](./3976-the-maw.json) |
@@ -17390,6 +17391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trainz Plus: Amtrak P42DC - Phase IV | 205493 | [205493-trainz-plus-amtrak-p42dc-phase-iv.json](./205493-trainz-plus-amtrak-p42dc-phase-iv.json) |
 | Trainz Plus: Andrushivka - Vinnitsa UZ | 205533 | [205533-trainz-plus-andrushivka-vinnitsa-uz.json](./205533-trainz-plus-andrushivka-vinnitsa-uz.json) |
 | Trainz Plus: Appen | 205510 | [205510-trainz-plus-appen.json](./205510-trainz-plus-appen.json) |
+| Trainz Plus: ATSF B40-8W 500-559 | 354381 | [354381-trainz-plus-atsf-b40-8w-500-559.json](./354381-trainz-plus-atsf-b40-8w-500-559.json) |
 | Trainz Plus: ATSF GP38-2 Santa FE | 205534 | [205534-trainz-plus-atsf-gp38-2-santa-fe.json](./205534-trainz-plus-atsf-gp38-2-santa-fe.json) |
 | Trainz Plus: Avery - Drexel Route | 205544 | [205544-trainz-plus-avery-drexel-route.json](./205544-trainz-plus-avery-drexel-route.json) |
 | Trainz Plus: Avmz Intercity 71 | 205448 | [205448-trainz-plus-avmz-intercity-71.json](./205448-trainz-plus-avmz-intercity-71.json) |
@@ -17660,6 +17662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trainz Railroad Simulator 2019: VR Healesville 1913-1920 TRS19 | 190707 | [190707-trainz-railroad-simulator-2019-vr-healesville-1913-1920-trs19.json](./190707-trainz-railroad-simulator-2019-vr-healesville-1913-1920-trs19.json) |
 | Trainz Railroad Simulator 2019: ZecRail V499 Blue & Gold and Christmas 2019 | 153248 | [153248-trainz-railroad-simulator-2019-zecrail-v499-blue-and-gold-and-christmas-2019.json](./153248-trainz-railroad-simulator-2019-zecrail-v499-blue-and-gold-and-christmas-2019.json) |
 | Trainz Railroad Simulator 2022 | 195792 | [195792-trainz-railroad-simulator-2022.json](./195792-trainz-railroad-simulator-2022.json) |
+| Trainz Railroad Simulator 2022: ATSF B40-8W 500-559 | 354380 | [354380-trainz-railroad-simulator-2022-atsf-b40-8w-500-559.json](./354380-trainz-railroad-simulator-2022-atsf-b40-8w-500-559.json) |
 | Trainz Railroad Simulator 2022: CD Bmto292 109 | 276320 | [276320-trainz-railroad-simulator-2022-cd-bmto292-109.json](./276320-trainz-railroad-simulator-2022-cd-bmto292-109.json) |
 | Trainz Railroad Simulator 2022: CD Doubledecker Pack No. 2 | 276313 | [276313-trainz-railroad-simulator-2022-cd-doubledecker-pack-no-2.json](./276313-trainz-railroad-simulator-2022-cd-doubledecker-pack-no-2.json) |
 | Trainz Railroad Simulator 2022: CFR B 26-26 098 | 205039 | [205039-trainz-railroad-simulator-2022-cfr-b-26-26-098.json](./205039-trainz-railroad-simulator-2022-cfr-b-26-26-098.json) |
@@ -19303,6 +19306,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tuda:Kuda | 244225 | [244225-tuda-kuda.json](./244225-tuda-kuda.json) |
 | Tuff E Nuff | 46006 | [46006-tuff-e-nuff.json](./46006-tuff-e-nuff.json) |
 | Tuff Stuff | 317614 | [317614-tuff-stuff.json](./317614-tuff-stuff.json) |
+| Tug of War A | 354371 | [354371-tug-of-war-a.json](./354371-tug-of-war-a.json) |
+| Tug of War B | 354375 | [354375-tug-of-war-b.json](./354375-tug-of-war-b.json) |
 | Tug of Words | 198947 | [198947-tug-of-words.json](./198947-tug-of-words.json) |
 | Tug Team Tractor Multiplication | 312639 | [312639-tug-team-tractor-multiplication.json](./312639-tug-team-tractor-multiplication.json) |
 | Tuggowar | 187225 | [187225-tuggowar.json](./187225-tuggowar.json) |
