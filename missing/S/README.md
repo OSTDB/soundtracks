@@ -2534,6 +2534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seaquest DSV | 45591 | [45591-seaquest-dsv.json](./45591-seaquest-dsv.json) |
 | SeaQuest DSV | 138802 | [138802-seaquest-dsv.json](./138802-seaquest-dsv.json) |
 | SeaQuest Dungeon | 379346 | [379346-seaquest-dungeon.json](./379346-seaquest-dungeon.json) |
+| Seaquest Find the Difference | 344414 | [344414-seaquest-find-the-difference.json](./344414-seaquest-find-the-difference.json) |
 | Search | 231877 | [231877-search.json](./231877-search.json) |
 | Search | 233771 | [233771-search.json](./233771-search.json) |
 | Search | 250425 | [250425-search.json](./250425-search.json) |
@@ -2970,6 +2971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seeking for Puppies | 359415 | [359415-seeking-for-puppies.json](./359415-seeking-for-puppies.json) |
 | Seeking Light | 210698 | [210698-seeking-light.json](./210698-seeking-light.json) |
 | Seeking Revenge | 158225 | [158225-seeking-revenge.json](./158225-seeking-revenge.json) |
+| Seeking the Guardian | 344400 | [344400-seeking-the-guardian.json](./344400-seeking-the-guardian.json) |
 | SeekIt: Max Dublin's Treasure | 306021 | [306021-seekit-max-dublins-treasure.json](./306021-seekit-max-dublins-treasure.json) |
 | SeekIt: The Isle of Mem | 306011 | [306011-seekit-the-isle-of-mem.json](./306011-seekit-the-isle-of-mem.json) |
 | Seekl | 301111 | [301111-seekl.json](./301111-seekl.json) |
@@ -7866,6 +7868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slaughterfest 2012 | 140891 | [140891-slaughterfest-2012.json](./140891-slaughterfest-2012.json) |
 | Slaughterfest 3 | 140892 | [140892-slaughterfest-3.json](./140892-slaughterfest-3.json) |
 | Slaughterhouse | 149596 | [149596-slaughterhouse.json](./149596-slaughterhouse.json) |
+| Slaughtra | 344408 | [344408-slaughtra.json](./344408-slaughtra.json) |
 | Slav Tiles | 198505 | [198505-slav-tiles.json](./198505-slav-tiles.json) |
 | Slava Ukraini! | 201582 | [201582-slava-ukraini.json](./201582-slava-ukraini.json) |
 | Slave Ghost | 112760 | [112760-slave-ghost.json](./112760-slave-ghost.json) |
@@ -11554,6 +11557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Break 2 Head to Head | 214059 | [214059-space-break-2-head-to-head.json](./214059-space-break-2-head-to-head.json) |
 | Space Bross | 348832 | [348832-space-bross.json](./348832-space-bross.json) |
 | Space Bubble Cat | 145476 | [145476-space-bubble-cat.json](./145476-space-bubble-cat.json) |
+| Space Bubbles Must Die! | 344399 | [344399-space-bubbles-must-die.json](./344399-space-bubbles-must-die.json) |
 | Space Bucks | 71731 | [71731-space-bucks.json](./71731-space-bucks.json) |
 | Space Bugger | 281028 | [281028-space-bugger.json](./281028-space-bugger.json) |
 | Space Bugs | 110544 | [110544-space-bugs.json](./110544-space-bugs.json) |
@@ -12930,6 +12934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sphere: Flying Cities - Save the World Edition | 186905 | [186905-sphere-flying-cities-save-the-world-edition.json](./186905-sphere-flying-cities-save-the-world-edition.json) |
 | Sphere: The Knight of Elf | 191096 | [191096-sphere-the-knight-of-elf.json](./191096-sphere-the-knight-of-elf.json) |
 | Spherebuddie 64 | 319063 | [319063-spherebuddie-64.json](./319063-spherebuddie-64.json) |
+| SphereCore Survival | 344402 | [344402-spherecore-survival.json](./344402-spherecore-survival.json) |
 | Spherecraft | 118387 | [118387-spherecraft.json](./118387-spherecraft.json) |
 | SphereFace | 28749 | [28749-sphereface.json](./28749-sphereface.json) |
 | SphereKnight | 109484 | [109484-sphereknight.json](./109484-sphereknight.json) |
