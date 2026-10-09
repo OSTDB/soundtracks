@@ -1796,6 +1796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cash Wash Simulator | 351092 | [351092-cash-wash-simulator.json](./351092-cash-wash-simulator.json) |
 | Cash_Out | 35167 | [35167-cash-out.json](./35167-cash-out.json) |
 | CashGrab | 368686 | [368686-cashgrab.json](./368686-cashgrab.json) |
+| CashGrab: Refunded | 350952 | [350952-cashgrab-refunded.json](./350952-cashgrab-refunded.json) |
 | Cashier of Grocery Shop: Profession | 102772 | [102772-cashier-of-grocery-shop-profession.json](./102772-cashier-of-grocery-shop-profession.json) |
 | Cashier Sim | 296450 | [296450-cashier-sim.json](./296450-cashier-sim.json) |
 | Cashtronauts | 34834 | [34834-cashtronauts.json](./34834-cashtronauts.json) |
@@ -3158,6 +3159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chakana | 377193 | [377193-chakana.json](./377193-chakana.json) |
 | Chakravyuh | 133981 | [133981-chakravyuh.json](./133981-chakravyuh.json) |
 | Chakusin Melody Damon | 283823 | [283823-chakusin-melody-damon.json](./283823-chakusin-melody-damon.json) |
+| Chalet | 350943 | [350943-chalet.json](./350943-chalet.json) |
 | Chalice | 151274 | [151274-chalice.json](./151274-chalice.json) |
 | Chalicebound | 300985 | [300985-chalicebound.json](./300985-chalicebound.json) |
 | Chalk Up! | 175184 | [175184-chalk-up.json](./175184-chalk-up.json) |
