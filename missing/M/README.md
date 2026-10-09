@@ -210,6 +210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mad Experiments 2: Escape Room | 195600 | [195600-mad-experiments-2-escape-room.json](./195600-mad-experiments-2-escape-room.json) |
 | Mad Experiments 2: Premium Pack | 263048 | [263048-mad-experiments-2-premium-pack.json](./263048-mad-experiments-2-premium-pack.json) |
 | Mad Experiments: Escape Room | 127216 | [127216-mad-experiments-escape-room.json](./127216-mad-experiments-escape-room.json) |
+| Mad Experiments: Escape Room - Sanctuary | 345436 | [345436-mad-experiments-escape-room-sanctuary.json](./345436-mad-experiments-escape-room-sanctuary.json) |
 | Mad Factory | 107405 | [107405-mad-factory.json](./107405-mad-factory.json) |
 | Mad Fighter | 133199 | [133199-mad-fighter.json](./133199-mad-fighter.json) |
 | Mad Finger Marathon | 233209 | [233209-mad-finger-marathon.json](./233209-mad-finger-marathon.json) |
@@ -7481,6 +7482,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miner 2019er | 416659 | [416659-miner-2019er.json](./416659-miner-2019er.json) |
 | Miner 2049er | 198821 | [198821-miner-2049er.json](./198821-miner-2049er.json) |
 | Miner 2049er | 293746 | [293746-miner-2049er.json](./293746-miner-2049er.json) |
+| Miner 2049er | 345462 | [345462-miner-2049er.json](./345462-miner-2049er.json) |
+| Miner 2049er | 345465 | [345465-miner-2049er.json](./345465-miner-2049er.json) |
+| Miner 2049er | 345467 | [345467-miner-2049er.json](./345467-miner-2049er.json) |
 | Miner 2049er | 345471 | [345471-miner-2049er.json](./345471-miner-2049er.json) |
 | Miner 2049er | 345472 | [345472-miner-2049er.json](./345472-miner-2049er.json) |
 | Miner 2049er | 345474 | [345474-miner-2049er.json](./345474-miner-2049er.json) |
@@ -8477,6 +8481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mizu no Senritsu: Kyousoukyoku | 220578 | [220578-mizu-no-senritsu-kyousoukyoku.json](./220578-mizu-no-senritsu-kyousoukyoku.json) |
 | Mizu-iro Converge | 376879 | [376879-mizu-iro-converge.json](./376879-mizu-iro-converge.json) |
 | Mizuchi | 121406 | [121406-mizuchi.json](./121406-mizuchi.json) |
+| Mizuiro | 345428 | [345428-mizuiro.json](./345428-mizuiro.json) |
 | Mizuiro no Chizu | 77680 | [77680-mizuiro-no-chizu.json](./77680-mizuiro-no-chizu.json) |
 | Mizuki and the Crimson Moon | 307212 | [307212-mizuki-and-the-crimson-moon.json](./307212-mizuki-and-the-crimson-moon.json) |
 | Mizuki Shigeru no Shin Youkai-den | 282235 | [282235-mizuki-shigeru-no-shin-youkai-den.json](./282235-mizuki-shigeru-no-shin-youkai-den.json) |
@@ -10851,6 +10856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mountain Taxi Driver | 119745 | [119745-mountain-taxi-driver.json](./119745-mountain-taxi-driver.json) |
 | Mountain Trap 2: Under the Cloak of Fear | 30309 | [30309-mountain-trap-2-under-the-cloak-of-fear.json](./30309-mountain-trap-2-under-the-cloak-of-fear.json) |
 | Mountain Trap: The Manor of Memories | 26576 | [26576-mountain-trap-the-manor-of-memories.json](./26576-mountain-trap-the-manor-of-memories.json) |
+| Mountain's Secret | 345440 | [345440-mountains-secret.json](./345440-mountains-secret.json) |
 | Mountaincore | 245932 | [245932-mountaincore.json](./245932-mountaincore.json) |
 | Mountaineer | 55712 | [55712-mountaineer.json](./55712-mountaineer.json) |
 | Mountains and Rivers scroll | 158100 | [158100-mountains-and-rivers-scroll.json](./158100-mountains-and-rivers-scroll.json) |
@@ -11085,6 +11091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Donovan | 28769 | [28769-mr-donovan.json](./28769-mr-donovan.json) |
 | Mr. Douchebag Breaks Rocks | 234714 | [234714-mr-douchebag-breaks-rocks.json](./234714-mr-douchebag-breaks-rocks.json) |
 | Mr. Driller | 254519 | [254519-mr-driller.json](./254519-mr-driller.json) |
+| Mr. Driller | 345468 | [345468-mr-driller.json](./345468-mr-driller.json) |
 | Mr. Driller | 370220 | [370220-mr-driller.json](./370220-mr-driller.json) |
 | Mr. Driller A: Fushigi na Pacteria | 92644 | [92644-mr-driller-a-fushigi-na-pacteria.json](./92644-mr-driller-a-fushigi-na-pacteria.json) |
 | Mr. Driller Online | 21356 | [21356-mr-driller-online.json](./21356-mr-driller-online.json) |
@@ -13215,6 +13222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Myths of the World: Spirit Wolf - Collector's Edition | 83555 | [83555-myths-of-the-world-spirit-wolf-collectors-edition.json](./83555-myths-of-the-world-spirit-wolf-collectors-edition.json) |
 | Myths of the World: Stolen Spring - Collector's Edition | 28742 | [28742-myths-of-the-world-stolen-spring-collectors-edition.json](./28742-myths-of-the-world-stolen-spring-collectors-edition.json) |
 | Myths of the World: The Black Sun | 74308 | [74308-myths-of-the-world-the-black-sun.json](./74308-myths-of-the-world-the-black-sun.json) |
+| Myths of the World: Under the Surface - Collector's Edition | 345418 | [345418-myths-of-the-world-under-the-surface-collectors-edition.json](./345418-myths-of-the-world-under-the-surface-collectors-edition.json) |
 | Mythscroll | 342041 | [342041-mythscroll.json](./342041-mythscroll.json) |
 | Mythsfall | 419973 | [419973-mythsfall.json](./419973-mythsfall.json) |
 | Mythstal: Shadow of the Sun | 268996 | [268996-mythstal-shadow-of-the-sun.json](./268996-mythstal-shadow-of-the-sun.json) |
