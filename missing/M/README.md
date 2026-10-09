@@ -2651,6 +2651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marsel: The Alien Clown | 245920 | [245920-marsel-the-alien-clown.json](./245920-marsel-the-alien-clown.json) |
 | Marsh | 270151 | [270151-marsh.json](./270151-marsh.json) |
 | Marsh Into the New Dimension | 396227 | [396227-marsh-into-the-new-dimension.json](./396227-marsh-into-the-new-dimension.json) |
+| Marsh's Mellow Flower Shop | 380220 | [380220-marshs-mellow-flower-shop.json](./380220-marshs-mellow-flower-shop.json) |
 | Marshals of War: Orcblood | 408044 | [408044-marshals-of-war-orcblood.json](./408044-marshals-of-war-orcblood.json) |
 | Marshawn Lynch Blocky Football | 267328 | [267328-marshawn-lynch-blocky-football.json](./267328-marshawn-lynch-blocky-football.json) |
 | Marshawn Lynch Pro Football | 86858 | [86858-marshawn-lynch-pro-football.json](./86858-marshawn-lynch-pro-football.json) |
@@ -7032,6 +7033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mind Echoes: Remnants of the Past | 416705 | [416705-mind-echoes-remnants-of-the-past.json](./416705-mind-echoes-remnants-of-the-past.json) |
 | Mind Echoes: Remnants of the Past - Collector's Edition | 349977 | [349977-mind-echoes-remnants-of-the-past-collectors-edition.json](./349977-mind-echoes-remnants-of-the-past-collectors-edition.json) |
 | Mind Echoes: The Lost Mysteries - Collector's Edition | 338696 | [338696-mind-echoes-the-lost-mysteries-collectors-edition.json](./338696-mind-echoes-the-lost-mysteries-collectors-edition.json) |
+| Mind Flowers | 380221 | [380221-mind-flowers.json](./380221-mind-flowers.json) |
 | Mind Games | 33393 | [33393-mind-games.json](./33393-mind-games.json) |
 | Mind Games | 81416 | [81416-mind-games.json](./81416-mind-games.json) |
 | Mind Her Manor | 312325 | [312325-mind-her-manor.json](./312325-mind-her-manor.json) |
@@ -9551,6 +9553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monsters 'til Midnight | 236220 | [236220-monsters-til-midnight.json](./236220-monsters-til-midnight.json) |
 | Monsters & Munitions | 16720 | [16720-monsters-and-munitions.json](./16720-monsters-and-munitions.json) |
 | Monsters and Magic | 356671 | [356671-monsters-and-magic.json](./356671-monsters-and-magic.json) |
+| Monsters and Mazes | 380178 | [380178-monsters-and-mazes.json](./380178-monsters-and-mazes.json) |
 | Monsters and Sprites | 388264 | [388264-monsters-and-sprites.json](./388264-monsters-and-sprites.json) |
 | Monsters Ate My Birthday Cake | 17344 | [17344-monsters-ate-my-birthday-cake.json](./17344-monsters-ate-my-birthday-cake.json) |
 | Monsters Everywhere | 256358 | [256358-monsters-everywhere.json](./256358-monsters-everywhere.json) |
@@ -12871,6 +12874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystical Conquests | 215639 | [215639-mystical-conquests.json](./215639-mystical-conquests.json) |
 | Mystical Crash in Magical Middle Ages: Adventure of Valkyrie | 313273 | [313273-mystical-crash-in-magical-middle-ages-adventure-of-valkyrie.json](./313273-mystical-crash-in-magical-middle-ages-adventure-of-valkyrie.json) |
 | Mystical Echoes | 149083 | [149083-mystical-echoes.json](./149083-mystical-echoes.json) |
+| Mystical Herbalists | 380195 | [380195-mystical-herbalists.json](./380195-mystical-herbalists.json) |
 | Mystical Map | 204939 | [204939-mystical-map.json](./204939-mystical-map.json) |
 | Mystical Mayhem | 156038 | [156038-mystical-mayhem.json](./156038-mystical-mayhem.json) |
 | Mystical Mixing | 224011 | [224011-mystical-mixing.json](./224011-mystical-mixing.json) |
