@@ -3032,6 +3032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pew Pew Pod | 65252 | [65252-pew-pew-pod.json](./65252-pew-pew-pod.json) |
 | Pew Pew Squad | 273440 | [273440-pew-pew-squad.json](./273440-pew-pew-squad.json) |
 | Pew Pew Zombies | 88300 | [88300-pew-pew-zombies.json](./88300-pew-pew-zombies.json) |
+| Pew-casso | 369387 | [369387-pew-casso.json](./369387-pew-casso.json) |
 | PewDiePie: Legend of the Brofist | 15182 | [15182-pewdiepie-legend-of-the-brofist.json](./15182-pewdiepie-legend-of-the-brofist.json) |
 | PewDiePie's Paradise Island | 200637 | [200637-pewdiepies-paradise-island.json](./200637-pewdiepies-paradise-island.json) |
 | PewDiePie's Pixelings | 130817 | [130817-pewdiepies-pixelings.json](./130817-pewdiepies-pixelings.json) |
@@ -3248,6 +3249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phase D | 42762 | [42762-phase-d.json](./42762-phase-d.json) |
 | Phase Edge | 53458 | [53458-phase-edge.json](./53458-phase-edge.json) |
 | Phase Line: Raider Assault | 239667 | [239667-phase-line-raider-assault.json](./239667-phase-line-raider-assault.json) |
+| Phase Nexus | 369379 | [369379-phase-nexus.json](./369379-phase-nexus.json) |
 | Phase Paradox | 43436 | [43436-phase-paradox.json](./43436-phase-paradox.json) |
 | Phase Runner | 92490 | [92490-phase-runner.json](./92490-phase-runner.json) |
 | Phase Shift | 50165 | [50165-phase-shift.json](./50165-phase-shift.json) |
@@ -3429,6 +3431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phucker in the Gulag | 117474 | [117474-phucker-in-the-gulag.json](./117474-phucker-in-the-gulag.json) |
 | Phy Lab | 410210 | [410210-phy-lab.json](./410210-phy-lab.json) |
 | Phyakh | 221168 | [221168-phyakh.json](./221168-phyakh.json) |
+| Phyllis, The Receptionist of The Guild | 369384 | [369384-phyllis-the-receptionist-of-the-guild.json](./369384-phyllis-the-receptionist-of-the-guild.json) |
 | Phyllosoma | 384763 | [384763-phyllosoma.json](./384763-phyllosoma.json) |
 | Phylomortis: Avant-Garde | 356636 | [356636-phylomortis-avant-garde.json](./356636-phylomortis-avant-garde.json) |
 | Phyrexia | 208055 | [208055-phyrexia.json](./208055-phyrexia.json) |
@@ -8562,6 +8565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prison Ball: Full Blown - Vast Shadows | 167217 | [167217-prison-ball-full-blown-vast-shadows.json](./167217-prison-ball-full-blown-vast-shadows.json) |
 | Prison Boss VR | 55474 | [55474-prison-boss-vr.json](./55474-prison-boss-vr.json) |
 | Prison Boss: Prohibition - Plucked Pack | 362488 | [362488-prison-boss-prohibition-plucked-pack.json](./362488-prison-boss-prohibition-plucked-pack.json) |
+| Prison Boss: Prohibition - Stitchin' Rich | 369385 | [369385-prison-boss-prohibition-stitchin-rich.json](./369385-prison-boss-prohibition-stitchin-rich.json) |
 | Prison Break | 110781 | [110781-prison-break.json](./110781-prison-break.json) |
 | Prison Break | 353368 | [353368-prison-break.json](./353368-prison-break.json) |
 | Prison Break: The Conspiracy | 557 | [557-prison-break-the-conspiracy.json](./557-prison-break-the-conspiracy.json) |
@@ -9071,6 +9075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Chameleon | 279584 | [279584-project-chameleon.json](./279584-project-chameleon.json) |
 | Project Chemistry | 132116 | [132116-project-chemistry.json](./132116-project-chemistry.json) |
 | Project Chernaya | 406246 | [406246-project-chernaya.json](./406246-project-chernaya.json) |
+| Project Chromata | 369469 | [369469-project-chromata.json](./369469-project-chromata.json) |
 | Project Circle | 294382 | [294382-project-circle.json](./294382-project-circle.json) |
 | Project Cobalt | 366310 | [366310-project-cobalt.json](./366310-project-cobalt.json) |
 | Project Code: Shift | 75412 | [75412-project-code-shift.json](./75412-project-code-shift.json) |
