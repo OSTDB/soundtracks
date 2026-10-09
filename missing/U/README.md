@@ -2236,6 +2236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UtuRoom | 416648 | [416648-uturoom.json](./416648-uturoom.json) |
 | Uuno Turhapuro muuttaa maalle | 9074 | [9074-uuno-turhapuro-muuttaa-maalle.json](./9074-uuno-turhapuro-muuttaa-maalle.json) |
 | Uuu so Smislom | 116096 | [116096-uuu-so-smislom.json](./116096-uuu-so-smislom.json) |
+| UVAO Forever | 349903 | [349903-uvao-forever.json](./349903-uvao-forever.json) |
 | Uvirith's Legacy | 388322 | [388322-uviriths-legacy.json](./388322-uviriths-legacy.json) |
 | UviUvi | 403634 | [403634-uviuvi.json](./403634-uviuvi.json) |
 | uVolley | 149921 | [149921-uvolley.json](./149921-uvolley.json) |
