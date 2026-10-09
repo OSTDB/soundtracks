@@ -1068,6 +1068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garden Eternal | 406903 | [406903-garden-eternal.json](./406903-garden-eternal.json) |
 | Garden for Glory: Collector's Edition | 337241 | [337241-garden-for-glory-collectors-edition.json](./337241-garden-for-glory-collectors-edition.json) |
 | Garden Gingdom | 386993 | [386993-garden-gingdom.json](./386993-garden-gingdom.json) |
+| Garden Gnome Beatmaker | 380199 | [380199-garden-gnome-beatmaker.json](./380199-garden-gnome-beatmaker.json) |
 | Garden Golf | 64736 | [64736-garden-golf.json](./64736-garden-golf.json) |
 | Garden Grower | 25553 | [25553-garden-grower.json](./25553-garden-grower.json) |
 | Garden Guardian | 211109 | [211109-garden-guardian.json](./211109-garden-guardian.json) |
@@ -6141,6 +6142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gumnaam | 215353 | [215353-gumnaam.json](./215353-gumnaam.json) |
 | Gump Jump | 209647 | [209647-gump-jump.json](./209647-gump-jump.json) |
 | Gump Runner | 29183 | [29183-gump-runner.json](./29183-gump-runner.json) |
+| GumPop! | 380196 | [380196-gumpop.json](./380196-gumpop.json) |
 | Gumshoe | 18834 | [18834-gumshoe.json](./18834-gumshoe.json) |
 | Gumslinger | 138594 | [138594-gumslinger.json](./138594-gumslinger.json) |
 | Gumtrix | 60761 | [60761-gumtrix.json](./60761-gumtrix.json) |
