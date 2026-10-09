@@ -3567,6 +3567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Godfist | 235356 | [235356-godfist.json](./235356-godfist.json) |
 | Godforged: Origins of Ozgalor | 313473 | [313473-godforged-origins-of-ozgalor.json](./313473-godforged-origins-of-ozgalor.json) |
 | Godforsaken | 258085 | [258085-godforsaken.json](./258085-godforsaken.json) |
+| Godfuck | 343756 | [343756-godfuck.json](./343756-godfuck.json) |
 | Godkiller | 161172 | [161172-godkiller.json](./161172-godkiller.json) |
 | Godland: The Fire Quest | 202666 | [202666-godland-the-fire-quest.json](./202666-godland-the-fire-quest.json) |
 | Godland: The Fire Quest 2 | 219662 | [219662-godland-the-fire-quest-2.json](./219662-godland-the-fire-quest-2.json) |
@@ -5181,6 +5182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Greatest Dungeon | 295546 | [295546-greatest-dungeon.json](./295546-greatest-dungeon.json) |
 | Greatlandia Election Simulator | 413195 | [413195-greatlandia-election-simulator.json](./413195-greatlandia-election-simulator.json) |
 | Greats of the Gridiron | 153514 | [153514-greats-of-the-gridiron.json](./153514-greats-of-the-gridiron.json) |
+| Greatsword Point! | 343748 | [343748-greatsword-point.json](./343748-greatsword-point.json) |
 | Grederys | 201226 | [201226-grederys.json](./201226-grederys.json) |
 | Greeblings | 351110 | [351110-greeblings.json](./351110-greeblings.json) |
 | Greebly Gambit | 407336 | [407336-greebly-gambit.json](./407336-greebly-gambit.json) |
