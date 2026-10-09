@@ -594,6 +594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Sexy Tour With Marie | 368576 | [368576-a-sexy-tour-with-marie.json](./368576-a-sexy-tour-with-marie.json) |
 | A Sexy Tour With Riley | 379550 | [379550-a-sexy-tour-with-riley.json](./379550-a-sexy-tour-with-riley.json) |
 | A Sexy Tour With Stella | 368573 | [368573-a-sexy-tour-with-stella.json](./368573-a-sexy-tour-with-stella.json) |
+| A Sexy Tour With: Akiko | 367290 | [367290-a-sexy-tour-with-akiko.json](./367290-a-sexy-tour-with-akiko.json) |
 | A Shadow in Space | 383719 | [383719-a-shadow-in-space.json](./383719-a-shadow-in-space.json) |
 | A Shard of Mine | 243418 | [243418-a-shard-of-mine.json](./243418-a-shard-of-mine.json) |
 | A Shiver in Time | 177853 | [177853-a-shiver-in-time.json](./177853-a-shiver-in-time.json) |
@@ -6625,6 +6626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apocalypter | 378318 | [378318-apocalypter.json](./378318-apocalypter.json) |
 | Apocalyptic | 205656 | [205656-apocalyptic.json](./205656-apocalyptic.json) |
 | Apocalyptic Cars War | 334830 | [334830-apocalyptic-cars-war.json](./334830-apocalyptic-cars-war.json) |
+| Apocalyptic Pussy | 367291 | [367291-apocalyptic-pussy.json](./367291-apocalyptic-pussy.json) |
 | Apocalyptic Slant | 192754 | [192754-apocalyptic-slant.json](./192754-apocalyptic-slant.json) |
 | Apocalyptic Vibes | 189189 | [189189-apocalyptic-vibes.json](./189189-apocalyptic-vibes.json) |
 | Apocalyptic World | 155976 | [155976-apocalyptic-world.json](./155976-apocalyptic-world.json) |
