@@ -924,6 +924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rally del Casentino: The Game | 133194 | [133194-rally-del-casentino-the-game.json](./133194-rally-del-casentino-the-game.json) |
 | Rally Drift Cars | 123558 | [123558-rally-drift-cars.json](./123558-rally-drift-cars.json) |
 | Rally Drifters Racing Cars 3D: Ultimate Fast Car Gang Challange | 232164 | [232164-rally-drifters-racing-cars-3d-ultimate-fast-car-gang-challange.json](./232164-rally-drifters-racing-cars-3d-ultimate-fast-car-gang-challange.json) |
+| Rally Evolution 2025 | 384823 | [384823-rally-evolution-2025.json](./384823-rally-evolution-2025.json) |
 | Rally Fury: Extreme Racing | 174848 | [174848-rally-fury-extreme-racing.json](./174848-rally-fury-extreme-racing.json) |
 | Rally Fusion: Race of Champions | 5998 | [5998-rally-fusion-race-of-champions.json](./5998-rally-fusion-race-of-champions.json) |
 | Rally King | 408922 | [408922-rally-king.json](./408922-rally-king.json) |
@@ -1057,9 +1058,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rana Neida | 303070 | [303070-rana-neida.json](./303070-rana-neida.json) |
 | Rana Rama | 30805 | [30805-rana-rama.json](./30805-rana-rama.json) |
 | Ranbu: Sangokushi Rumble | 231989 | [231989-ranbu-sangokushi-rumble.json](./231989-ranbu-sangokushi-rumble.json) |
+| Rance 01 + 02 | 384828 | [384828-rance-01-02.json](./384828-rance-01-02.json) |
 | Rance 01: Quest for Hikari | 132708 | [132708-rance-01-quest-for-hikari.json](./132708-rance-01-quest-for-hikari.json) |
 | Rance 02 | 390095 | [390095-rance-02.json](./390095-rance-02.json) |
 | Rance 02: The Rebellious Maidens | 132709 | [132709-rance-02-the-rebellious-maidens.json](./132709-rance-02-the-rebellious-maidens.json) |
+| Rance 03 | 384829 | [384829-rance-03.json](./384829-rance-03.json) |
 | Rance 03: The Fall of Leazas | 132710 | [132710-rance-03-the-fall-of-leazas.json](./132710-rance-03-the-fall-of-leazas.json) |
 | Rance 4.1: Okusuri Koujou wo Sukue! | 132638 | [132638-rance-4-1-okusuri-koujou-wo-sukue.json](./132638-rance-4-1-okusuri-koujou-wo-sukue.json) |
 | Rance 4.2: Angel-gumi | 132639 | [132639-rance-4-2-angel-gumi.json](./132639-rance-4-2-angel-gumi.json) |
@@ -1068,8 +1071,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rance II: Hangyaku no Shoujo-tachi | 57642 | [57642-rance-ii-hangyaku-no-shoujo-tachi.json](./57642-rance-ii-hangyaku-no-shoujo-tachi.json) |
 | Rance III: Leazas Kanraku | 41406 | [41406-rance-iii-leazas-kanraku.json](./41406-rance-iii-leazas-kanraku.json) |
 | Rance IV: Kyoudan no Isan | 41405 | [41405-rance-iv-kyoudan-no-isan.json](./41405-rance-iv-kyoudan-no-isan.json) |
+| Rance IX | 384827 | [384827-rance-ix.json](./384827-rance-ix.json) |
 | Rance Quest | 132689 | [132689-rance-quest.json](./132689-rance-quest.json) |
 | Rance Quest Magnum | 137669 | [137669-rance-quest-magnum.json](./137669-rance-quest-magnum.json) |
+| Rance Quest Magnum | 384830 | [384830-rance-quest-magnum.json](./384830-rance-quest-magnum.json) |
 | Rance VI Sonogo | 329187 | [329187-rance-vi-sonogo.json](./329187-rance-vi-sonogo.json) |
 | Rance VI: Collapse of Zeth | 132656 | [132656-rance-vi-collapse-of-zeth.json](./132656-rance-vi-collapse-of-zeth.json) |
 | Ranch Mayhem | 298049 | [298049-ranch-mayhem.json](./298049-ranch-mayhem.json) |
