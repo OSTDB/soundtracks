@@ -950,6 +950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Late for Love | 176517 | [176517-late-for-love.json](./176517-late-for-love.json) |
 | Late Homework | 313188 | [313188-late-homework.json](./313188-late-homework.json) |
 | Late Hours | 383559 | [383559-late-hours.json](./383559-late-hours.json) |
+| Late Metro Drive | 374965 | [374965-late-metro-drive.json](./374965-late-metro-drive.json) |
 | Late Ming Fly Guy | 339904 | [339904-late-ming-fly-guy.json](./339904-late-ming-fly-guy.json) |
 | Late Night 1320 | 115654 | [115654-late-night-1320.json](./115654-late-night-1320.json) |
 | Late Night Breakfast | 178991 | [178991-late-night-breakfast.json](./178991-late-night-breakfast.json) |
@@ -2517,6 +2518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liar Liar | 124675 | [124675-liar-liar.json](./124675-liar-liar.json) |
 | Liar Liar 2 | 124677 | [124677-liar-liar-2.json](./124677-liar-liar-2.json) |
 | Liar Liar 2 | 303246 | [303246-liar-liar-2.json](./303246-liar-liar-2.json) |
+| Liar Masks | 374947 | [374947-liar-masks.json](./374947-liar-masks.json) |
 | Liar Moon Shangri-La | 209478 | [209478-liar-moon-shangri-la.json](./209478-liar-moon-shangri-la.json) |
 | Liar Notes | 376634 | [376634-liar-notes.json](./376634-liar-notes.json) |
 | Liar Trick: Psychological Crime Mystery | 163961 | [163961-liar-trick-psychological-crime-mystery.json](./163961-liar-trick-psychological-crime-mystery.json) |
@@ -4260,6 +4262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lonely Astronaut | 76303 | [76303-lonely-astronaut.json](./76303-lonely-astronaut.json) |
 | Lonely Catgirl is the Purrfect Pussy | 156629 | [156629-lonely-catgirl-is-the-purrfect-pussy.json](./156629-lonely-catgirl-is-the-purrfect-pussy.json) |
 | Lonely Christmas | 326140 | [326140-lonely-christmas.json](./326140-lonely-christmas.json) |
+| Lonely Guardian | 374966 | [374966-lonely-guardian.json](./374966-lonely-guardian.json) |
 | Lonely Hero & Non-Fight Party | 191677 | [191677-lonely-hero-and-non-fight-party.json](./191677-lonely-hero-and-non-fight-party.json) |
 | Lonely House | 342286 | [342286-lonely-house.json](./342286-lonely-house.json) |
 | Lonely in the Winter | 86338 | [86338-lonely-in-the-winter.json](./86338-lonely-in-the-winter.json) |
@@ -4482,6 +4485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loot Legends: Robots vs Aliens | 174868 | [174868-loot-legends-robots-vs-aliens.json](./174868-loot-legends-robots-vs-aliens.json) |
 | Loot Loop | 391204 | [391204-loot-loop.json](./391204-loot-loop.json) |
 | Loot Loot Goblin | 316778 | [316778-loot-loot-goblin.json](./316778-loot-loot-goblin.json) |
+| Loot of Idle | 374942 | [374942-loot-of-idle.json](./374942-loot-of-idle.json) |
 | Loot or Die | 31403 | [31403-loot-or-die.json](./31403-loot-or-die.json) |
 | Loot Profit | 346643 | [346643-loot-profit.json](./346643-loot-profit.json) |
 | Loot Rascals | 27511 | [27511-loot-rascals.json](./27511-loot-rascals.json) |
