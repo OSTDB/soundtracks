@@ -1290,6 +1290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KickUp King | 245325 | [245325-kickup-king.json](./245325-kickup-king.json) |
 | Kid 4 $29.99 | 141871 | [141871-kid-4-29-99.json](./141871-kid-4-29-99.json) |
 | Kid Ball Adventure | 212274 | [212274-kid-ball-adventure.json](./212274-kid-ball-adventure.json) |
+| Kid Blocks | 340971 | [340971-kid-blocks.json](./340971-kid-blocks.json) |
 | Kid Bubblegum | 251747 | [251747-kid-bubblegum.json](./251747-kid-bubblegum.json) |
 | Kid Chameleon | 16035 | [16035-kid-chameleon.json](./16035-kid-chameleon.json) |
 | Kid Dracula | 1125 | [1125-kid-dracula.json](./1125-kid-dracula.json) |
@@ -1879,6 +1880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King of the Hill Classic | 256234 | [256234-king-of-the-hill-classic.json](./256234-king-of-the-hill-classic.json) |
 | King of the Monsters | 6800 | [6800-king-of-the-monsters.json](./6800-king-of-the-monsters.json) |
 | King of the Mountain: Premium | 174324 | [174324-king-of-the-mountain-premium.json](./174324-king-of-the-mountain-premium.json) |
+| King of the Pirates | 340883 | [340883-king-of-the-pirates.json](./340883-king-of-the-pirates.json) |
 | King of the Pit | 165647 | [165647-king-of-the-pit.json](./165647-king-of-the-pit.json) |
 | King of the Raft | 196108 | [196108-king-of-the-raft.json](./196108-king-of-the-raft.json) |
 | King of the Road | 19792 | [19792-king-of-the-road.json](./19792-king-of-the-road.json) |
@@ -1923,9 +1925,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King's Devotion | 381146 | [381146-kings-devotion.json](./381146-kings-devotion.json) |
 | King's Dungeon | 228691 | [228691-kings-dungeon.json](./228691-kings-dungeon.json) |
 | King's Empire | 344002 | [344002-kings-empire.json](./344002-kings-empire.json) |
+| King's Field | 340963 | [340963-kings-field.json](./340963-kings-field.json) |
 | King's Field | 7422 | [7422-kings-field.json](./7422-kings-field.json) |
 | King's Field | 7423 | [7423-kings-field.json](./7423-kings-field.json) |
+| King's Field EX | 340964 | [340964-kings-field-ex.json](./340964-kings-field-ex.json) |
 | King's Field II | 9500 | [9500-kings-field-ii.json](./9500-kings-field-ii.json) |
+| King's Field Mobile II | 340965 | [340965-kings-field-mobile-ii.json](./340965-kings-field-mobile-ii.json) |
 | King's Field: The Ancient City | 9501 | [9501-kings-field-the-ancient-city.json](./9501-kings-field-the-ancient-city.json) |
 | King's Guard | 345539 | [345539-kings-guard.json](./345539-kings-guard.json) |
 | King's Guard TD | 32750 | [32750-kings-guard-td.json](./32750-kings-guard-td.json) |
@@ -2051,6 +2056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom of Paradise | 259656 | [259656-kingdom-of-paradise.json](./259656-kingdom-of-paradise.json) |
 | Kingdom of Paradise | 42878 | [42878-kingdom-of-paradise.json](./42878-kingdom-of-paradise.json) |
 | Kingdom Of Peace | 295775 | [295775-kingdom-of-peace.json](./295775-kingdom-of-peace.json) |
+| Kingdom of Piss | 340882 | [340882-kingdom-of-piss.json](./340882-kingdom-of-piss.json) |
 | Kingdom of Rhea | 119026 | [119026-kingdom-of-rhea.json](./119026-kingdom-of-rhea.json) |
 | Kingdom of Secrets | 222963 | [222963-kingdom-of-secrets.json](./222963-kingdom-of-secrets.json) |
 | Kingdom of the Dragon | 54866 | [54866-kingdom-of-the-dragon.json](./54866-kingdom-of-the-dragon.json) |
@@ -2700,6 +2706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knight's move | 112357 | [112357-knights-move.json](./112357-knights-move.json) |
 | Knight's Night! | 327829 | [327829-knights-night.json](./327829-knights-night.json) |
 | Knight's Path: The Tournament | 278138 | [278138-knights-path-the-tournament.json](./278138-knights-path-the-tournament.json) |
+| Knight's Pride | 340885 | [340885-knights-pride.json](./340885-knights-pride.json) |
 | Knight's Quest | 356665 | [356665-knights-quest.json](./356665-knights-quest.json) |
 | Knight's Quest | 356666 | [356666-knights-quest.json](./356666-knights-quest.json) |
 | Knight's Redemption: War for Freedom | 298577 | [298577-knights-redemption-war-for-freedom.json](./298577-knights-redemption-war-for-freedom.json) |
@@ -2866,6 +2873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knockout League | 32859 | [32859-knockout-league.json](./32859-knockout-league.json) |
 | Knockout Party | 51161 | [51161-knockout-party.json](./51161-knockout-party.json) |
 | Knockout Peoples: Chotto Zankoku na Hakurankai | 260745 | [260745-knockout-peoples-chotto-zankoku-na-hakurankai.json](./260745-knockout-peoples-chotto-zankoku-na-hakurankai.json) |
+| Knockturne | 340886 | [340886-knockturne.json](./340886-knockturne.json) |
 | Knocky Balls | 54894 | [54894-knocky-balls.json](./54894-knocky-balls.json) |
 | Knorrig the Gifted Troublemaker | 229609 | [229609-knorrig-the-gifted-troublemaker.json](./229609-knorrig-the-gifted-troublemaker.json) |
 | Knossos | 55497 | [55497-knossos.json](./55497-knossos.json) |
@@ -2893,6 +2901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knuckle Heads | 39588 | [39588-knuckle-heads.json](./39588-knuckle-heads.json) |
 | Knuckle Jet | 336521 | [336521-knuckle-jet.json](./336521-knuckle-jet.json) |
 | Knuckle Joe | 39874 | [39874-knuckle-joe.json](./39874-knuckle-joe.json) |
+| Knuckle Knockout | 340887 | [340887-knuckle-knockout.json](./340887-knuckle-knockout.json) |
 | Knuckle Paradise | 399286 | [399286-knuckle-paradise.json](./399286-knuckle-paradise.json) |
 | Knucklebones Neon | 420539 | [420539-knucklebones-neon.json](./420539-knucklebones-neon.json) |
 | KnuckleFighter-Alpha | 172692 | [172692-knucklefighter-alpha.json](./172692-knucklefighter-alpha.json) |
@@ -3070,6 +3079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kombat Hamster | 309880 | [309880-kombat-hamster.json](./309880-kombat-hamster.json) |
 | Kombat Kars | 70446 | [70446-kombat-kars.json](./70446-kombat-kars.json) |
 | Kombate Mexicano Elexiones | 261555 | [261555-kombate-mexicano-elexiones.json](./261555-kombate-mexicano-elexiones.json) |
+| Kombi | 340888 | [340888-kombi.json](./340888-kombi.json) |
 | Kombinera | 194249 | [194249-kombinera.json](./194249-kombinera.json) |
 | Kombo King | 188993 | [188993-kombo-king.json](./188993-kombo-king.json) |
 | Komeiji Satori no Jousou Kyouiku | 187240 | [187240-komeiji-satori-no-jousou-kyouiku.json](./187240-komeiji-satori-no-jousou-kyouiku.json) |
@@ -3104,6 +3114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Konami's Ping Pong | 46832 | [46832-konamis-ping-pong.json](./46832-konamis-ping-pong.json) |
 | Konamic Tennis | 41322 | [41322-konamic-tennis.json](./41322-konamic-tennis.json) |
 | Konbini Baito to Stalker | 322117 | [322117-konbini-baito-to-stalker.json](./322117-konbini-baito-to-stalker.json) |
+| Konchi | 340889 | [340889-konchi.json](./340889-konchi.json) |
 | Konchuu Fighters | 65191 | [65191-konchuu-fighters.json](./65191-konchuu-fighters.json) |
 | Konchuu Hakase | 228602 | [228602-konchuu-hakase.json](./228602-konchuu-hakase.json) |
 | Konchuu Hakase 2 | 228603 | [228603-konchuu-hakase-2.json](./228603-konchuu-hakase-2.json) |
@@ -3262,6 +3273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kosmo Spin | 6208 | [6208-kosmo-spin.json](./6208-kosmo-spin.json) |
 | Kosmobreak | 285518 | [285518-kosmobreak.json](./285518-kosmobreak.json) |
 | Kosmocean: The Endless Sea | 266985 | [266985-kosmocean-the-endless-sea.json](./266985-kosmocean-the-endless-sea.json) |
+| Kosmolaris | 340890 | [340890-kosmolaris.json](./340890-kosmolaris.json) |
 | Kosmonavtes: Academy Escape | 163752 | [163752-kosmonavtes-academy-escape.json](./163752-kosmonavtes-academy-escape.json) |
 | Kosmonavtes: Escape Reality | 155983 | [155983-kosmonavtes-escape-reality.json](./155983-kosmonavtes-escape-reality.json) |
 | Kosmopolska | 92100 | [92100-kosmopolska.json](./92100-kosmopolska.json) |
@@ -3394,6 +3406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kräutermännchen | 91585 | [91585-krautermannchen.json](./91585-krautermannchen.json) |
 | Krautscape | 16903 | [16903-krautscape.json](./16903-krautscape.json) |
 | Kraven Manor | 17326 | [17326-kraven-manor.json](./17326-kraven-manor.json) |
+| Krax Ca-caw's Concoction Chaos | 340891 | [340891-krax-ca-caws-concoction-chaos.json](./340891-krax-ca-caws-concoction-chaos.json) |
 | Krazy Bowl | 40339 | [40339-krazy-bowl.json](./40339-krazy-bowl.json) |
 | Krazy Ivan | 20604 | [20604-krazy-ivan.json](./20604-krazy-ivan.json) |
 | Krazy Kart Racing | 67688 | [67688-krazy-kart-racing.json](./67688-krazy-kart-racing.json) |
@@ -3438,6 +3451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kroniki Elevena | 236807 | [236807-kroniki-elevena.json](./236807-kroniki-elevena.json) |
 | Kronno Zomber | 240271 | [240271-kronno-zomber.json](./240271-kronno-zomber.json) |
 | Kronolog: The Nazi Paradox | 50481 | [50481-kronolog-the-nazi-paradox.json](./50481-kronolog-the-nazi-paradox.json) |
+| Kronos | 340892 | [340892-kronos.json](./340892-kronos.json) |
 | Kronos: Wisdom Trials | 170870 | [170870-kronos-wisdom-trials.json](./170870-kronos-wisdom-trials.json) |
 | Kronville: Stolen Dreams | 53262 | [53262-kronville-stolen-dreams.json](./53262-kronville-stolen-dreams.json) |
 | Krosfighter | 275844 | [275844-krosfighter.json](./275844-krosfighter.json) |
