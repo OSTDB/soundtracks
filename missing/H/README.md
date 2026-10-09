@@ -2536,6 +2536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Helldivers | 14523 | [14523-helldivers.json](./14523-helldivers.json) |
 | Helldivers 2: Devoid of Liberty | 412429 | [412429-helldivers-2-devoid-of-liberty.json](./412429-helldivers-2-devoid-of-liberty.json) |
 | Helldivers 2: Escalation of Freedom | 309615 | [309615-helldivers-2-escalation-of-freedom.json](./309615-helldivers-2-escalation-of-freedom.json) |
+| Helldivers 2: Heart of Democracy | 344330 | [344330-helldivers-2-heart-of-democracy.json](./344330-helldivers-2-heart-of-democracy.json) |
 | Helldivers 2: Omens of Tyranny | 325601 | [325601-helldivers-2-omens-of-tyranny.json](./325601-helldivers-2-omens-of-tyranny.json) |
 | Helldivers 2: TR-117 Alpha Commander Armor Set | 325558 | [325558-helldivers-2-tr-117-alpha-commander-armor-set.json](./325558-helldivers-2-tr-117-alpha-commander-armor-set.json) |
 | Helldivers II: Super Citizen Edition | 267925 | [267925-helldivers-ii-super-citizen-edition.json](./267925-helldivers-ii-super-citizen-edition.json) |
@@ -5192,6 +5193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holiday Haywire | 236233 | [236233-holiday-haywire.json](./236233-holiday-haywire.json) |
 | Holiday Hits | 279774 | [279774-holiday-hits.json](./279774-holiday-hits.json) |
 | Holiday Holocaust | 273139 | [273139-holiday-holocaust.json](./273139-holiday-holocaust.json) |
+| Holiday in Europe: Czech Adventure - Collector's Edition | 344413 | [344413-holiday-in-europe-czech-adventure-collectors-edition.json](./344413-holiday-in-europe-czech-adventure-collectors-edition.json) |
 | Holiday in Europe: Netherlands Dreams - Collector's Edition | 362852 | [362852-holiday-in-europe-netherlands-dreams-collectors-edition.json](./362852-holiday-in-europe-netherlands-dreams-collectors-edition.json) |
 | Holiday in Europe: Wonders of Germany - Collector's Edition | 340477 | [340477-holiday-in-europe-wonders-of-germany-collectors-edition.json](./340477-holiday-in-europe-wonders-of-germany-collectors-edition.json) |
 | Holiday Jigsaw Valentines Day | 54087 | [54087-holiday-jigsaw-valentines-day.json](./54087-holiday-jigsaw-valentines-day.json) |
