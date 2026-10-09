@@ -2729,6 +2729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whispering Willows: Deluxe Edition | 53915 | [53915-whispering-willows-deluxe-edition.json](./53915-whispering-willows-deluxe-edition.json) |
 | Whispers | 25335 | [25335-whispers.json](./25335-whispers.json) |
 | Whispers | 299154 | [299154-whispers.json](./299154-whispers.json) |
+| Whispers Between Worlds | 384869 | [384869-whispers-between-worlds.json](./384869-whispers-between-worlds.json) |
 | Whispers From the Rift | 123479 | [123479-whispers-from-the-rift.json](./123479-whispers-from-the-rift.json) |
 | Whispers from Within: Moving On | 159832 | [159832-whispers-from-within-moving-on.json](./159832-whispers-from-within-moving-on.json) |
 | Whispers in Akarra | 180208 | [180208-whispers-in-akarra.json](./180208-whispers-in-akarra.json) |
