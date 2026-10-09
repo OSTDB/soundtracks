@@ -2821,6 +2821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Light Of Chaos | 304361 | [304361-light-of-chaos.json](./304361-light-of-chaos.json) |
 | Light of Darkness | 186087 | [186087-light-of-darkness.json](./186087-light-of-darkness.json) |
 | Light of Gallery | 115596 | [115596-light-of-gallery.json](./115596-light-of-gallery.json) |
+| Light of Hope 1: Fungi Spirulina | 367853 | [367853-light-of-hope-1-fungi-spirulina.json](./367853-light-of-hope-1-fungi-spirulina.json) |
 | Light of Hope: The Redeemer | 265337 | [265337-light-of-hope-the-redeemer.json](./265337-light-of-hope-the-redeemer.json) |
 | Light of Life | 211818 | [211818-light-of-life.json](./211818-light-of-life.json) |
 | Light of Motiram | 323536 | [323536-light-of-motiram.json](./323536-light-of-motiram.json) |
@@ -5328,6 +5329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lovely Anime Puzzle: Valentine | 329163 | [329163-lovely-anime-puzzle-valentine.json](./329163-lovely-anime-puzzle-valentine.json) |
 | Lovely Anime Puzzle: Winter | 403191 | [403191-lovely-anime-puzzle-winter.json](./403191-lovely-anime-puzzle-winter.json) |
 | Lovely Anna | 382310 | [382310-lovely-anna.json](./382310-lovely-anna.json) |
+| Lovely Archeologists | 367831 | [367831-lovely-archeologists.json](./367831-lovely-archeologists.json) |
 | Lovely Brides | 259025 | [259025-lovely-brides.json](./259025-lovely-brides.json) |
 | Lovely Bunny Girl! | 97934 | [97934-lovely-bunny-girl.json](./97934-lovely-bunny-girl.json) |
 | Lovely Cat: Dream Party | 247520 | [247520-lovely-cat-dream-party.json](./247520-lovely-cat-dream-party.json) |
@@ -5447,6 +5449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luca: The Dreamer | 105766 | [105766-luca-the-dreamer.json](./105766-luca-the-dreamer.json) |
 | Lucah: Born of a Dream | 99120 | [99120-lucah-born-of-a-dream.json](./99120-lucah-born-of-a-dream.json) |
 | Lucas Mendoza: Amateur Detective | 323880 | [323880-lucas-mendoza-amateur-detective.json](./323880-lucas-mendoza-amateur-detective.json) |
+| Lucas the Game | 367761 | [367761-lucas-the-game.json](./367761-lucas-the-game.json) |
 | Lucas y el Caso del Cuadro Robado | 323933 | [323933-lucas-y-el-caso-del-cuadro-robado.json](./323933-lucas-y-el-caso-del-cuadro-robado.json) |
 | Lucas's Problem | 72095 | [72095-lucass-problem.json](./72095-lucass-problem.json) |
 | LucasArts Adventure Pack | 27848 | [27848-lucasarts-adventure-pack.json](./27848-lucasarts-adventure-pack.json) |
