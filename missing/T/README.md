@@ -8937,6 +8937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Plague: Kingdom Wars - Dead Rising | 171356 | [171356-the-plague-kingdom-wars-dead-rising.json](./171356-the-plague-kingdom-wars-dead-rising.json) |
 | The Plane Game | 185483 | [185483-the-plane-game.json](./185483-the-plane-game.json) |
 | The Planet Crafter: Planet Humble | 317867 | [317867-the-planet-crafter-planet-humble.json](./317867-the-planet-crafter-planet-humble.json) |
+| The Planet Crafter: Toxicity | 373883 | [373883-the-planet-crafter-toxicity.json](./373883-the-planet-crafter-toxicity.json) |
 | The Planetary Archive | 406744 | [406744-the-planetary-archive.json](./406744-the-planetary-archive.json) |
 | The Plant | 105135 | [105135-the-plant.json](./105135-the-plant.json) |
 | The Play's the Thing | 154017 | [154017-the-plays-the-thing.json](./154017-the-plays-the-thing.json) |
@@ -9172,6 +9173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Rack | 207808 | [207808-the-rack.json](./207808-the-rack.json) |
 | The Radiants | 144138 | [144138-the-radiants.json](./144138-the-radiants.json) |
 | The Radio Chaser | 292074 | [292074-the-radio-chaser.json](./292074-the-radio-chaser.json) |
+| The Radio Tower | 373894 | [373894-the-radio-tower.json](./373894-the-radio-tower.json) |
 | The Radio Wave Bureau | 280433 | [280433-the-radio-wave-bureau.json](./280433-the-radio-wave-bureau.json) |
 | The Ragdoll | 108272 | [108272-the-ragdoll.json](./108272-the-ragdoll.json) |
 | The Raid of Brunswick | 397919 | [397919-the-raid-of-brunswick.json](./397919-the-raid-of-brunswick.json) |
@@ -14151,6 +14153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Survivors | 413902 | [413902-tiny-survivors.json](./413902-tiny-survivors.json) |
 | Tiny T | 171445 | [171445-tiny-t.json](./171445-tiny-t.json) |
 | Tiny Tactics | 210879 | [210879-tiny-tactics.json](./210879-tiny-tactics.json) |
+| Tiny Tactics Go! | 373854 | [373854-tiny-tactics-go.json](./373854-tiny-tactics-go.json) |
 | Tiny Tales: Hidden Objects | 285523 | [285523-tiny-tales-hidden-objects.json](./285523-tiny-tales-hidden-objects.json) |
 | Tiny Tank | 189962 | [189962-tiny-tank.json](./189962-tiny-tank.json) |
 | Tiny Tank Showdown | 420658 | [420658-tiny-tank-showdown.json](./420658-tiny-tank-showdown.json) |
@@ -18230,6 +18233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trials of Topaq | 99582 | [99582-trials-of-topaq.json](./99582-trials-of-topaq.json) |
 | Trials of Yarbil | 325835 | [325835-trials-of-yarbil.json](./325835-trials-of-yarbil.json) |
 | Trials Rising | 103316 | [103316-trials-rising.json](./103316-trials-rising.json) |
+| Trials Survivors | 373890 | [373890-trials-survivors.json](./373890-trials-survivors.json) |
 | Trials: Gold Pack | 219004 | [219004-trials-gold-pack.json](./219004-trials-gold-pack.json) |
 | Trialspire | 397782 | [397782-trialspire.json](./397782-trialspire.json) |
 | Trialtime Reborn | 192793 | [192793-trialtime-reborn.json](./192793-trialtime-reborn.json) |
@@ -18618,6 +18622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tromaball | 93143 | [93143-tromaball.json](./93143-tromaball.json) |
 | Trombone Champ | 149821 | [149821-trombone-champ.json](./149821-trombone-champ.json) |
 | Trombone Champ: Unflattened! | 313775 | [313775-trombone-champ-unflattened.json](./313775-trombone-champ-unflattened.json) |
+| Trombone Champ: Unflattened! - Halloween Pack | 373879 | [373879-trombone-champ-unflattened-halloween-pack.json](./373879-trombone-champ-unflattened-halloween-pack.json) |
 | Trombone Champ: Unflattened! - Undertale + Deltarune Song Pack | 360779 | [360779-trombone-champ-unflattened-undertale-deltarune-song-pack.json](./360779-trombone-champ-unflattened-undertale-deltarune-song-pack.json) |
 | Tron | 297488 | [297488-tron.json](./297488-tron.json) |
 | Tron | 5247 | [5247-tron.json](./5247-tron.json) |
@@ -19815,6 +19820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Type da Puyo Puyo | 63839 | [63839-type-da-puyo-puyo.json](./63839-type-da-puyo-puyo.json) |
 | Type Defense | 105660 | [105660-type-defense.json](./105660-type-defense.json) |
 | Type Dreams | 116969 | [116969-type-dreams.json](./116969-type-dreams.json) |
+| Type Drivers | 373895 | [373895-type-drivers.json](./373895-type-drivers.json) |
 | Type Galaxy | 310065 | [310065-type-galaxy.json](./310065-type-galaxy.json) |
 | Type II | 124273 | [124273-type-ii.json](./124273-type-ii.json) |
 | Type King | 250477 | [250477-type-king.json](./250477-type-king.json) |
