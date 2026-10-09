@@ -5401,6 +5401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Men Are From Mars, Women Are From Venus: The CD-ROM Game | 60351 | [60351-men-are-from-mars-women-are-from-venus-the-cd-rom-game.json](./60351-men-are-from-mars-women-are-from-venus-the-cd-rom-game.json) |
 | Men at Work! 2: Hunter Academy he Youkoso | 112298 | [112298-men-at-work-2-hunter-academy-he-youkoso.json](./112298-men-at-work-2-hunter-academy-he-youkoso.json) |
 | Men in Black | 270678 | [270678-men-in-black.json](./270678-men-in-black.json) |
+| Men In Black | 342604 | [342604-men-in-black.json](./342604-men-in-black.json) |
 | Men in Black 2: The Series | 49912 | [49912-men-in-black-2-the-series.json](./49912-men-in-black-2-the-series.json) |
 | Men in Black 3 | 65003 | [65003-men-in-black-3.json](./65003-men-in-black-3.json) |
 | Men in Black II: Alien Escape | 4003 | [4003-men-in-black-ii-alien-escape.json](./4003-men-in-black-ii-alien-escape.json) |
@@ -6089,6 +6090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metro.Siberia | 283743 | [283743-metro-siberia.json](./283743-metro-siberia.json) |
 | Metrogether | 326385 | [326385-metrogether.json](./326385-metrogether.json) |
 | Metroid | 1101 | [1101-metroid.json](./1101-metroid.json) |
+| Metroid | 342602 | [342602-metroid.json](./342602-metroid.json) |
 | Metroid Confrontation 2: Return to SR388 | 274984 | [274984-metroid-confrontation-2-return-to-sr388.json](./274984-metroid-confrontation-2-return-to-sr388.json) |
 | Metroid Defense | 323283 | [323283-metroid-defense.json](./323283-metroid-defense.json) |
 | Metroid Dread | 15698 | [15698-metroid-dread.json](./15698-metroid-dread.json) |
@@ -7956,6 +7958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MinuteFrontier | 144221 | [144221-minutefrontier.json](./144221-minutefrontier.json) |
 | MinuteQues‪t‬ | 144218 | [144218-minuteques-t.json](./144218-minuteques-t.json) |
 | Minutescape | 327969 | [327969-minutescape.json](./327969-minutescape.json) |
+| Minuto: Galactic Deliveries | 342706 | [342706-minuto-galactic-deliveries.json](./342706-minuto-galactic-deliveries.json) |
 | Mio Garden | 107422 | [107422-mio-garden.json](./107422-mio-garden.json) |
 | Mio no Mystery Adventure | 137627 | [137627-mio-no-mystery-adventure.json](./137627-mio-no-mystery-adventure.json) |
 | Miodesopsia: Whispering Stories | 282846 | [282846-miodesopsia-whispering-stories.json](./282846-miodesopsia-whispering-stories.json) |
@@ -9591,6 +9594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Mingle | 23222 | [23222-monster-mingle.json](./23222-monster-mingle.json) |
 | Monster Minis Extreme Off-Road | 108292 | [108292-monster-minis-extreme-off-road.json](./108292-monster-minis-extreme-off-road.json) |
 | Monster MIX | 108394 | [108394-monster-mix.json](./108394-monster-mix.json) |
+| Monster Munch | 342607 | [342607-monster-munch.json](./342607-monster-munch.json) |
 | Monster Museum | 245826 | [245826-monster-museum.json](./245826-monster-museum.json) |
 | Monster Museum: Tidy Up the Collection! | 413484 | [413484-monster-museum-tidy-up-the-collection.json](./413484-monster-museum-tidy-up-the-collection.json) |
 | Monster Mystery | 224789 | [224789-monster-mystery.json](./224789-monster-mystery.json) |
