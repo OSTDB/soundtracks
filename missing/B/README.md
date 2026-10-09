@@ -5403,6 +5403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Tides: The Curse of Blackbeard | 406869 | [406869-black-tides-the-curse-of-blackbeard.json](./406869-black-tides-the-curse-of-blackbeard.json) |
 | Black Touch '96 | 267981 | [267981-black-touch-96.json](./267981-black-touch-96.json) |
 | Black Tower | 58824 | [58824-black-tower.json](./58824-black-tower.json) |
+| Black Tower Enigma | 359918 | [359918-black-tower-enigma.json](./359918-black-tower-enigma.json) |
 | Black Trail | 205018 | [205018-black-trail.json](./205018-black-trail.json) |
 | Black Turn: Operation Barbarossa 1941 | 22647 | [22647-black-turn-operation-barbarossa-1941.json](./22647-black-turn-operation-barbarossa-1941.json) |
 | Black Viper | 14311 | [14311-black-viper.json](./14311-black-viper.json) |
