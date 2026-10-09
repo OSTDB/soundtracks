@@ -243,6 +243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sad Virus Shitcoin | 387494 | [387494-sad-virus-shitcoin.json](./387494-sad-virus-shitcoin.json) |
 | Sad Virus Town | 365877 | [365877-sad-virus-town.json](./365877-sad-virus-town.json) |
 | Sad Virus Waterland | 408021 | [408021-sad-virus-waterland.json](./408021-sad-virus-waterland.json) |
+| Sad Virus Western | 368286 | [368286-sad-virus-western.json](./368286-sad-virus-western.json) |
 | Sadakichi Seven | 37656 | [37656-sadakichi-seven.json](./37656-sadakichi-seven.json) |
 | Sadame | 19980 | [19980-sadame.json](./19980-sadame.json) |
 | Sadboy | 113682 | [113682-sadboy.json](./113682-sadboy.json) |
@@ -3441,6 +3442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Serenity | 392294 | [392294-serenity.json](./392294-serenity.json) |
 | Serenity | 418862 | [418862-serenity.json](./418862-serenity.json) |
 | Serenity at Dusk | 179056 | [179056-serenity-at-dusk.json](./179056-serenity-at-dusk.json) |
+| Sereno | 368367 | [368367-sereno.json](./368367-sereno.json) |
 | Seres | 207382 | [207382-seres.json](./207382-seres.json) |
 | Seres Universalis: Three Kingdoms | 372109 | [372109-seres-universalis-three-kingdoms.json](./372109-seres-universalis-three-kingdoms.json) |
 | Serflings | 210632 | [210632-serflings.json](./210632-serflings.json) |
@@ -7480,6 +7482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Patrol | 40793 | [40793-sky-patrol.json](./40793-sky-patrol.json) |
 | Sky Pirates of Actorius | 129101 | [129101-sky-pirates-of-actorius.json](./129101-sky-pirates-of-actorius.json) |
 | Sky Plankers | 28195 | [28195-sky-plankers.json](./28195-sky-plankers.json) |
+| Sky Prison | 368278 | [368278-sky-prison.json](./368278-sky-prison.json) |
 | Sky Puzzle | 220703 | [220703-sky-puzzle.json](./220703-sky-puzzle.json) |
 | Sky Racerz | 96297 | [96297-sky-racerz.json](./96297-sky-racerz.json) |
 | Sky Races | 186909 | [186909-sky-races.json](./186909-sky-races.json) |
@@ -7823,6 +7826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slayin | 59671 | [59671-slayin.json](./59671-slayin.json) |
 | Slayin 2 | 134021 | [134021-slayin-2.json](./134021-slayin-2.json) |
 | Slayin DX | 266754 | [266754-slayin-dx.json](./266754-slayin-dx.json) |
+| Slays Demons in the DaTang | 368369 | [368369-slays-demons-in-the-datang.json](./368369-slays-demons-in-the-datang.json) |
 | Slayser | 238760 | [238760-slayser.json](./238760-slayser.json) |
 | SlaytheCube Remake | 133898 | [133898-slaythecube-remake.json](./133898-slaythecube-remake.json) |
 | Sled Bandit | 255731 | [255731-sled-bandit.json](./255731-sled-bandit.json) |
