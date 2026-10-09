@@ -3446,6 +3446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Photogeist Albums: Case 1 | 307337 | [307337-photogeist-albums-case-1.json](./307337-photogeist-albums-case-1.json) |
 | Photographer's Life Simulator | 346716 | [346716-photographers-life-simulator.json](./346716-photographers-life-simulator.json) |
 | Photographic Memory Test | 308506 | [308506-photographic-memory-test.json](./308506-photographic-memory-test.json) |
+| Photography | 342104 | [342104-photography.json](./342104-photography.json) |
 | Photography Simulator | 193309 | [193309-photography-simulator.json](./193309-photography-simulator.json) |
 | PhotoLoop | 361811 | [361811-photoloop.json](./361811-photoloop.json) |
 | Photomount | 384653 | [384653-photomount.json](./384653-photomount.json) |
