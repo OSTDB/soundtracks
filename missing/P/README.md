@@ -7992,6 +7992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prank'd: Prank Your Way Around the World | 209928 | [209928-prankd-prank-your-way-around-the-world.json](./209928-prankd-prank-your-way-around-the-world.json) |
 | Pranksters: Treasure of the Indians | 322570 | [322570-pranksters-treasure-of-the-indians.json](./322570-pranksters-treasure-of-the-indians.json) |
 | Pranksterz: From Russia With Love | 23195 | [23195-pranksterz-from-russia-with-love.json](./23195-pranksterz-from-russia-with-love.json) |
+| Pratfall | 382522 | [382522-pratfall.json](./382522-pratfall.json) |
 | Prawngeon | 266234 | [266234-prawngeon.json](./266234-prawngeon.json) |
 | Pray Game | 167306 | [167306-pray-game.json](./167306-pray-game.json) |
 | Pray or Die: Tactical Defense | 373114 | [373114-pray-or-die-tactical-defense.json](./373114-pray-or-die-tactical-defense.json) |
