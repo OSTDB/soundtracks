@@ -1652,6 +1652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend Online | 23619 | [23619-legend-online.json](./23619-legend-online.json) |
 | Legend Pirates | 316729 | [316729-legend-pirates.json](./316729-legend-pirates.json) |
 | Legend Sang 1 | 374264 | [374264-legend-sang-1.json](./374264-legend-sang-1.json) |
+| Legend Sang 5 | 339870 | [339870-legend-sang-5.json](./339870-legend-sang-5.json) |
 | Legend: Ashita he no Tsubasa | 334883 | [334883-legend-ashita-he-no-tsubasa.json](./334883-legend-ashita-he-no-tsubasa.json) |
 | Legend: Legacy of the Dragons | 71187 | [71187-legend-legacy-of-the-dragons.json](./71187-legend-legacy-of-the-dragons.json) |
 | Legend's Duty: The Rifted World | 397265 | [397265-legends-duty-the-rifted-world.json](./397265-legends-duty-the-rifted-world.json) |
