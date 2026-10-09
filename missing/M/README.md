@@ -1047,6 +1047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magnat | 365757 | [365757-magnat.json](./365757-magnat.json) |
 | Magnate: Robot Idle Tycoon | 268449 | [268449-magnate-robot-idle-tycoon.json](./268449-magnate-robot-idle-tycoon.json) |
 | Magnavale: Eternal Soul | 385270 | [385270-magnavale-eternal-soul.json](./385270-magnavale-eternal-soul.json) |
+| Magnavis | 356600 | [356600-magnavis.json](./356600-magnavis.json) |
 | Magnavody | 277610 | [277610-magnavody.json](./277610-magnavody.json) |
 | Magneboy | 299834 | [299834-magneboy.json](./299834-magneboy.json) |
 | Magnecube | 367757 | [367757-magnecube.json](./367757-magnecube.json) |
