@@ -4845,6 +4845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chronicles of Vinland | 81008 | [81008-chronicles-of-vinland.json](./81008-chronicles-of-vinland.json) |
 | Chronicles of Vipers | 253321 | [253321-chronicles-of-vipers.json](./253321-chronicles-of-vipers.json) |
 | Chronicles of Witches & Warlocks | 52738 | [52738-chronicles-of-witches-and-warlocks.json](./52738-chronicles-of-witches-and-warlocks.json) |
+| Chronicles: Medieval | 347635 | [347635-chronicles-medieval.json](./347635-chronicles-medieval.json) |
 | Chronicon | 35130 | [35130-chronicon.json](./35130-chronicon.json) |
 | Chronicon Apocalyptica | 114302 | [114302-chronicon-apocalyptica.json](./114302-chronicon-apocalyptica.json) |
 | Chronicon Complete | 242676 | [242676-chronicon-complete.json](./242676-chronicon-complete.json) |
@@ -6741,6 +6742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ColdSide: Retro Edition | 410206 | [410206-coldside-retro-edition.json](./410206-coldside-retro-edition.json) |
 | Coldsweat and Tears | 316073 | [316073-coldsweat-and-tears.json](./316073-coldsweat-and-tears.json) |
 | ColdTrace | 414316 | [414316-coldtrace.json](./414316-coldtrace.json) |
+| Coldwake | 347654 | [347654-coldwake.json](./347654-coldwake.json) |
 | ColdWire | 328000 | [328000-coldwire.json](./328000-coldwire.json) |
 | Coldy Drinkeria | 316077 | [316077-coldy-drinkeria.json](./316077-coldy-drinkeria.json) |
 | Cole Hunter: Payback | 383730 | [383730-cole-hunter-payback.json](./383730-cole-hunter-payback.json) |
