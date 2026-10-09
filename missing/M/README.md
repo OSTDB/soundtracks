@@ -8945,6 +8945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mole Story: games for kids | 91108 | [91108-mole-story-games-for-kids.json](./91108-mole-story-games-for-kids.json) |
 | Mole: Great Adventure | 333389 | [333389-mole-great-adventure.json](./333389-mole-great-adventure.json) |
 | Mole's Quest | 329728 | [329728-moles-quest.json](./329728-moles-quest.json) |
+| Mole's Quest | 343208 | [343208-moles-quest.json](./343208-moles-quest.json) |
 | Mole's World | 245050 | [245050-moles-world.json](./245050-moles-world.json) |
 | Molecule - a chemistry challenge | 98265 | [98265-molecule-a-chemistry-challenge.json](./98265-molecule-a-chemistry-challenge.json) |
 | Molecule Make Lab | 201133 | [201133-molecule-make-lab.json](./201133-molecule-make-lab.json) |
@@ -10965,6 +10966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moving Corpse | 258030 | [258030-moving-corpse.json](./258030-moving-corpse.json) |
 | Moving Day | 75793 | [75793-moving-day.json](./75793-moving-day.json) |
 | Moving Day: Make It Home | 389417 | [389417-moving-day-make-it-home.json](./389417-moving-day-make-it-home.json) |
+| Moving Forward with Cat | 343221 | [343221-moving-forward-with-cat.json](./343221-moving-forward-with-cat.json) |
 | Moving Letters | 157512 | [157512-moving-letters.json](./157512-moving-letters.json) |
 | Moving On | 202712 | [202712-moving-on.json](./202712-moving-on.json) |
 | Moving On | 303075 | [303075-moving-on.json](./303075-moving-on.json) |
