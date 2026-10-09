@@ -3917,6 +3917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nomad of Time | 12957 | [12957-nomad-of-time.json](./12957-nomad-of-time.json) |
 | Nomad Station | 247608 | [247608-nomad-station.json](./247608-nomad-station.json) |
 | Nomad Survival | 197874 | [197874-nomad-survival.json](./197874-nomad-survival.json) |
+| Nomad: Steppeborn Saga | 340957 | [340957-nomad-steppeborn-saga.json](./340957-nomad-steppeborn-saga.json) |
 | Nomads in the Dust | 296479 | [296479-nomads-in-the-dust.json](./296479-nomads-in-the-dust.json) |
 | NoMaKo | 139261 | [139261-nomako.json](./139261-nomako.json) |
 | Noman's Dungeon | 181177 | [181177-nomans-dungeon.json](./181177-nomans-dungeon.json) |
@@ -4228,6 +4229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Not Meow Purroblem | 247539 | [247539-not-meow-purroblem.json](./247539-not-meow-purroblem.json) |
 | Not Monsters | 412784 | [412784-not-monsters.json](./412784-not-monsters.json) |
 | Not my day | 111170 | [111170-not-my-day.json](./111170-not-my-day.json) |
+| Not My Floor | 340966 | [340966-not-my-floor.json](./340966-not-my-floor.json) |
 | Not My Hand | 391744 | [391744-not-my-hand.json](./391744-not-my-hand.json) |
 | Not My President: Level 1 | 174096 | [174096-not-my-president-level-1.json](./174096-not-my-president-level-1.json) |
 | Not My Son | 405693 | [405693-not-my-son.json](./405693-not-my-son.json) |
