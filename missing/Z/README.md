@@ -1055,9 +1055,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Survivor | 360682 | [360682-zombie-survivor.json](./360682-zombie-survivor.json) |
 | Zombie Survivor: Undead City Attack | 262002 | [262002-zombie-survivor-undead-city-attack.json](./262002-zombie-survivor-undead-city-attack.json) |
 | Zombie Survivors | 316679 | [316679-zombie-survivors.json](./316679-zombie-survivors.json) |
+| Zombie Survivors | 367823 | [367823-zombie-survivors.json](./367823-zombie-survivors.json) |
 | Zombie Sweeper | 99580 | [99580-zombie-sweeper.json](./99580-zombie-sweeper.json) |
 | Zombie Swipeout | 254555 | [254555-zombie-swipeout.json](./254555-zombie-swipeout.json) |
 | Zombie Tactics | 314671 | [314671-zombie-tactics.json](./314671-zombie-tactics.json) |
+| Zombie Tag Royale | 367833 | [367833-zombie-tag-royale.json](./367833-zombie-tag-royale.json) |
 | Zombie Teacher | 99608 | [99608-zombie-teacher.json](./99608-zombie-teacher.json) |
 | Zombie Tide Incoming Final Defense | 329596 | [329596-zombie-tide-incoming-final-defense.json](./329596-zombie-tide-incoming-final-defense.json) |
 | Zombie Tornado Game | 235230 | [235230-zombie-tornado-game.json](./235230-zombie-tornado-game.json) |
