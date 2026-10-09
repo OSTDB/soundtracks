@@ -8624,6 +8624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Norwood Suite | 68369 | [68369-the-norwood-suite.json](./68369-the-norwood-suite.json) |
 | The Not-Deer Stew | 382797 | [382797-the-not-deer-stew.json](./382797-the-not-deer-stew.json) |
 | The Note | 26518 | [26518-the-note.json](./26518-the-note.json) |
+| The Note of Red Evil | 367834 | [367834-the-note-of-red-evil.json](./367834-the-note-of-red-evil.json) |
 | The Nothing | 44211 | [44211-the-nothing.json](./44211-the-nothing.json) |
 | The Notzing Project | 323555 | [323555-the-notzing-project.json](./323555-the-notzing-project.json) |
 | The Nova Era | 209712 | [209712-the-nova-era.json](./209712-the-nova-era.json) |
@@ -9730,6 +9731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Severed Gods | 370921 | [370921-the-severed-gods.json](./370921-the-severed-gods.json) |
 | The Sewer Goblet: The Wu-Tang Clan and the Wu-Tang Baby | 93504 | [93504-the-sewer-goblet-the-wu-tang-clan-and-the-wu-tang-baby.json](./93504-the-sewer-goblet-the-wu-tang-clan-and-the-wu-tang-baby.json) |
 | The Sewers of D'Sparil | 268467 | [268467-the-sewers-of-dsparil.json](./268467-the-sewers-of-dsparil.json) |
+| The Sex Adventures of a Gladiator | 367766 | [367766-the-sex-adventures-of-a-gladiator.json](./367766-the-sex-adventures-of-a-gladiator.json) |
 | The Sexorcist | 211723 | [211723-the-sexorcist.json](./211723-the-sexorcist.json) |
 | The Sexy Brutale | 22783 | [22783-the-sexy-brutale.json](./22783-the-sexy-brutale.json) |
 | The Shade Forest | 319028 | [319028-the-shade-forest.json](./319028-the-shade-forest.json) |
@@ -13909,6 +13911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Timekeepers | 69586 | [69586-timekeepers.json](./69586-timekeepers.json) |
 | Timekeepers Battleground | 236403 | [236403-timekeepers-battleground.json](./236403-timekeepers-battleground.json) |
 | Timekeepers Expansion | 210702 | [210702-timekeepers-expansion.json](./210702-timekeepers-expansion.json) |
+| TimeL | 367856 | [367856-timel.json](./367856-timel.json) |
 | Timelake: Time Travel Tactics | 327841 | [327841-timelake-time-travel-tactics.json](./327841-timelake-time-travel-tactics.json) |
 | Timeless | 119751 | [119751-timeless.json](./119751-timeless.json) |
 | Timeless | 310093 | [310093-timeless.json](./310093-timeless.json) |
@@ -15043,6 +15046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom Thumb | 206766 | [206766-tom-thumb.json](./206766-tom-thumb.json) |
 | Tom vs. Jerry: The Chase Is On! | 269769 | [269769-tom-vs-jerry-the-chase-is-on.json](./269769-tom-vs-jerry-the-chase-is-on.json) |
 | Tom's Adventure | 202668 | [202668-toms-adventure.json](./202668-toms-adventure.json) |
+| Tom's Adventure | 367838 | [367838-toms-adventure.json](./367838-toms-adventure.json) |
 | TomaDo! | 391137 | [391137-tomado.json](./391137-tomado.json) |
 | Tomahawk | 26474 | [26474-tomahawk.json](./26474-tomahawk.json) |
 | Tomahawk Missile | 277897 | [277897-tomahawk-missile.json](./277897-tomahawk-missile.json) |
@@ -17657,6 +17661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trajes Fatais: Suits of Fate | 124245 | [124245-trajes-fatais-suits-of-fate.json](./124245-trajes-fatais-suits-of-fate.json) |
 | Trakonius | 268220 | [268220-trakonius.json](./268220-trakonius.json) |
 | Tralalero Tralala Elephant Runner | 385069 | [385069-tralalero-tralala-elephant-runner.json](./385069-tralalero-tralala-elephant-runner.json) |
+| Tralalero Tralala Slot Machine Casino Heaven | 367848 | [367848-tralalero-tralala-slot-machine-casino-heaven.json](./367848-tralalero-tralala-slot-machine-casino-heaven.json) |
 | Tralalero Tralala Wars | 351099 | [351099-tralalero-tralala-wars.json](./351099-tralalero-tralala-wars.json) |
 | Tralalero Tralala: Backrooms | 392343 | [392343-tralalero-tralala-backrooms.json](./392343-tralalero-tralala-backrooms.json) |
 | Tralalero Tralala: Escape Backrooms | 367977 | [367977-tralalero-tralala-escape-backrooms.json](./367977-tralalero-tralala-escape-backrooms.json) |
@@ -19464,6 +19469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turtle Invaders | 252138 | [252138-turtle-invaders.json](./252138-turtle-invaders.json) |
 | Turtle Lu | 90133 | [90133-turtle-lu.json](./90133-turtle-lu.json) |
 | Turtle Odyssey | 34157 | [34157-turtle-odyssey.json](./34157-turtle-odyssey.json) |
+| Turtle Racer | 367755 | [367755-turtle-racer.json](./367755-turtle-racer.json) |
 | Turtle Racing | 331872 | [331872-turtle-racing.json](./331872-turtle-racing.json) |
 | Turtle Riders: Adventure Begins | 333796 | [333796-turtle-riders-adventure-begins.json](./333796-turtle-riders-adventure-begins.json) |
 | Turtle River RPG | 304564 | [304564-turtle-river-rpg.json](./304564-turtle-river-rpg.json) |
