@@ -178,6 +178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ugly Americans: Apocalypsegeddon | 20618 | [20618-ugly-americans-apocalypsegeddon.json](./20618-ugly-americans-apocalypsegeddon.json) |
 | Ugmania | 368675 | [368675-ugmania.json](./368675-ugmania.json) |
 | Ugoku Sushi Bar | 395584 | [395584-ugoku-sushi-bar.json](./395584-ugoku-sushi-bar.json) |
+| Uh Oh Airlines | 340986 | [340986-uh-oh-airlines.json](./340986-uh-oh-airlines.json) |
 | Uh Oh Bartender | 122297 | [122297-uh-oh-bartender.json](./122297-uh-oh-bartender.json) |
 | Uh Oh Calico! | 273411 | [273411-uh-oh-calico.json](./273411-uh-oh-calico.json) |
 | Uh Oh, UFO! | 232020 | [232020-uh-oh-ufo.json](./232020-uh-oh-ufo.json) |
