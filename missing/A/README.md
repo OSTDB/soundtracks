@@ -1276,6 +1276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ACA Neo Geo: World Heroes 2 | 99740 | [99740-aca-neo-geo-world-heroes-2.json](./99740-aca-neo-geo-world-heroes-2.json) |
 | ACA NeoGeo Selection Vol. 1 | 319735 | [319735-aca-neogeo-selection-vol-1.json](./319735-aca-neogeo-selection-vol-1.json) |
 | ACA NeoGeo Selection Vol. 2 | 319733 | [319733-aca-neogeo-selection-vol-2.json](./319733-aca-neogeo-selection-vol-2.json) |
+| ACA NeoGeo Selection Vol. 3 | 342070 | [342070-aca-neogeo-selection-vol-3.json](./342070-aca-neogeo-selection-vol-3.json) |
 | ACA NeoGeo Selection Vol. 4 | 342071 | [342071-aca-neogeo-selection-vol-4.json](./342071-aca-neogeo-selection-vol-4.json) |
 | Acacia Project | 188382 | [188382-acacia-project.json](./188382-acacia-project.json) |
 | Academia: School Simulator | 55689 | [55689-academia-school-simulator.json](./55689-academia-school-simulator.json) |
@@ -2657,6 +2658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agility Dogs | 175165 | [175165-agility-dogs.json](./175165-agility-dogs.json) |
 | AGIS | 239647 | [239647-agis.json](./239647-agis.json) |
 | Aglet: The Sneaker Game | 205586 | [205586-aglet-the-sneaker-game.json](./205586-aglet-the-sneaker-game.json) |
+| Aglobo | 342036 | [342036-aglobo.json](./342036-aglobo.json) |
 | Agni | 192786 | [192786-agni.json](./192786-agni.json) |
 | Agnostic Requiem | 273363 | [273363-agnostic-requiem.json](./273363-agnostic-requiem.json) |
 | Agnostiko Origins | 305986 | [305986-agnostiko-origins.json](./305986-agnostiko-origins.json) |
@@ -2924,6 +2926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Fortress | 8791 | [8791-air-fortress.json](./8791-air-fortress.json) |
 | Air Fryer Sim | 200554 | [200554-air-fryer-sim.json](./200554-air-fryer-sim.json) |
 | Air Fury | 251819 | [251819-air-fury.json](./251819-air-fury.json) |
+| Air Gallet: Exa Label | 341999 | [341999-air-gallet-exa-label.json](./341999-air-gallet-exa-label.json) |
 | Air Garden | 305380 | [305380-air-garden.json](./305380-air-garden.json) |
 | Air Glide | 312323 | [312323-air-glide.json](./312323-air-glide.json) |
 | Air Hares | 336684 | [336684-air-hares.json](./336684-air-hares.json) |
