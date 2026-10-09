@@ -1214,6 +1214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rascal Revolt | 153444 | [153444-rascal-revolt.json](./153444-rascal-revolt.json) |
 | Rascals | 110130 | [110130-rascals.json](./110130-rascals.json) |
 | Rasek | 231317 | [231317-rasek.json](./231317-rasek.json) |
+| Rasen | 384245 | [384245-rasen.json](./384245-rasen.json) |
 | Rasen no Sora | 116337 | [116337-rasen-no-sora.json](./116337-rasen-no-sora.json) |
 | Rasen Reijoh Spiral Ojosama: Chohatsu no Makina | 265945 | [265945-rasen-reijoh-spiral-ojosama-chohatsu-no-makina.json](./265945-rasen-reijoh-spiral-ojosama-chohatsu-no-makina.json) |
 | Rasetsu 2 | 374684 | [374684-rasetsu-2.json](./374684-rasetsu-2.json) |
@@ -3060,6 +3061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rento Fortune VR | 111592 | [111592-rento-fortune-vr.json](./111592-rento-fortune-vr.json) |
 | Rento Fortune: Dice Configurator | 298335 | [298335-rento-fortune-dice-configurator.json](./298335-rento-fortune-dice-configurator.json) |
 | RentoFortune | 187545 | [187545-rentofortune.json](./187545-rentofortune.json) |
+| RentPoly | 384250 | [384250-rentpoly.json](./384250-rentpoly.json) |
 | Renxia | 278696 | [278696-renxia.json](./278696-renxia.json) |
 | Reouija Sleepover | 214436 | [214436-reouija-sleepover.json](./214436-reouija-sleepover.json) |
 | Repair Plane | 303790 | [303790-repair-plane.json](./303790-repair-plane.json) |
