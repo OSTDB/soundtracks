@@ -2284,6 +2284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orbb | 68917 | [68917-orbb.json](./68917-orbb.json) |
 | Orbeats | 290995 | [290995-orbeats.json](./290995-orbeats.json) |
 | Orbfall | 403097 | [403097-orbfall.json](./403097-orbfall.json) |
+| Orbi Universo II | 334043 | [334043-orbi-universo-ii.json](./334043-orbi-universo-ii.json) |
 | Orbia | 88028 | [88028-orbia.json](./88028-orbia.json) |
 | Orbifall | 379875 | [379875-orbifall.json](./379875-orbifall.json) |
 | Orbion | 370331 | [370331-orbion.json](./370331-orbion.json) |
