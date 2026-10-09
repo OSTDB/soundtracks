@@ -11877,6 +11877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My DIY Slime PlayTime | 106732 | [106732-my-diy-slime-playtime.json](./106732-my-diy-slime-playtime.json) |
 | My Dog! | 310018 | [310018-my-dog.json](./310018-my-dog.json) |
 | My DoItAll | 92625 | [92625-my-doitall.json](./92625-my-doitall.json) |
+| My Doki Doki SNAFU | 379141 | [379141-my-doki-doki-snafu.json](./379141-my-doki-doki-snafu.json) |
 | My Dolphin | 67254 | [67254-my-dolphin.json](./67254-my-dolphin.json) |
 | My Dolphin Show | 86773 | [86773-my-dolphin-show.json](./86773-my-dolphin-show.json) |
 | My Donut Days | 87717 | [87717-my-donut-days.json](./87717-my-donut-days.json) |
@@ -11921,6 +11922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Fairy Girlfriend | 231424 | [231424-my-fairy-girlfriend.json](./231424-my-fairy-girlfriend.json) |
 | My Faithful and Loyal Wife Would Never Cheat on Me | 278413 | [278413-my-faithful-and-loyal-wife-would-never-cheat-on-me.json](./278413-my-faithful-and-loyal-wife-would-never-cheat-on-me.json) |
 | My Fake Boyfriend | 299457 | [299457-my-fake-boyfriend.json](./299457-my-fake-boyfriend.json) |
+| My Family Tree | 379169 | [379169-my-family-tree.json](./379169-my-family-tree.json) |
 | My Fantasy Wedding | 73354 | [73354-my-fantasy-wedding.json](./73354-my-fantasy-wedding.json) |
 | My Farm | 107900 | [107900-my-farm.json](./107900-my-farm.json) |
 | My Farm | 85610 | [85610-my-farm.json](./85610-my-farm.json) |
