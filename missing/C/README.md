@@ -4165,6 +4165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Childhood | 128444 | [128444-childhood.json](./128444-childhood.json) |
 | Childhood Dreams: Jigsaw Puzzle | 242509 | [242509-childhood-dreams-jigsaw-puzzle.json](./242509-childhood-dreams-jigsaw-puzzle.json) |
 | Childhood Dreams: Jigsaw Puzzle - Expansion Pack 1 | 242510 | [242510-childhood-dreams-jigsaw-puzzle-expansion-pack-1.json](./242510-childhood-dreams-jigsaw-puzzle-expansion-pack-1.json) |
+| Childhood Friends | 364958 | [364958-childhood-friends.json](./364958-childhood-friends.json) |
 | Childhood Gone: Shadowed Wand | 157536 | [157536-childhood-gone-shadowed-wand.json](./157536-childhood-gone-shadowed-wand.json) |
 | Childhood Watermelon | 366311 | [366311-childhood-watermelon.json](./366311-childhood-watermelon.json) |
 | Childhood's End | 365171 | [365171-childhoods-end.json](./365171-childhoods-end.json) |
@@ -8123,6 +8124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Contra: Rogue Corps | 119385 | [119385-contra-rogue-corps.json](./119385-contra-rogue-corps.json) |
 | Contra: The War of the Worlds | 216358 | [216358-contra-the-war-of-the-worlds.json](./216358-contra-the-war-of-the-worlds.json) |
 | Contraband | 152240 | [152240-contraband.json](./152240-contraband.json) |
+| Contraband Patrol Simulator | 364973 | [364973-contraband-patrol-simulator.json](./364973-contraband-patrol-simulator.json) |
 | Contraband Police - Crimson Fall | 381783 | [381783-contraband-police-crimson-fall.json](./381783-contraband-police-crimson-fall.json) |
 | Contract Bridge Solo | 398415 | [398415-contract-bridge-solo.json](./398415-contract-bridge-solo.json) |
 | Contract Cooks | 403578 | [403578-contract-cooks.json](./403578-contract-cooks.json) |
@@ -9135,6 +9137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cozy Christmas Home Jigsaw Puzzles | 228114 | [228114-cozy-christmas-home-jigsaw-puzzles.json](./228114-cozy-christmas-home-jigsaw-puzzles.json) |
 | Cozy Claw Machine | 321513 | [321513-cozy-claw-machine.json](./321513-cozy-claw-machine.json) |
 | Cozy Cleanup | 407203 | [407203-cozy-cleanup.json](./407203-cozy-cleanup.json) |
+| Cozy Climbing Game | 364976 | [364976-cozy-climbing-game.json](./364976-cozy-climbing-game.json) |
 | Cozy Collection | 356848 | [356848-cozy-collection.json](./356848-cozy-collection.json) |
 | Cozy Cooking: Lo-fi Beats | 338205 | [338205-cozy-cooking-lo-fi-beats.json](./338205-cozy-cooking-lo-fi-beats.json) |
 | Cozy Cooking: Tiny Tastes | 356847 | [356847-cozy-cooking-tiny-tastes.json](./356847-cozy-cooking-tiny-tastes.json) |
@@ -10275,6 +10278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cronicas de Landulph | 170432 | [170432-cronicas-de-landulph.json](./170432-cronicas-de-landulph.json) |
 | Crónicas de Nueva Estrella Uno | 339340 | [339340-cronicas-de-nueva-estrella-uno.json](./339340-cronicas-de-nueva-estrella-uno.json) |
 | Cronos: Lazarus | 404917 | [404917-cronos-lazarus.json](./404917-cronos-lazarus.json) |
+| Cronos: The New Dawn - Deluxe Edition | 365002 | [365002-cronos-the-new-dawn-deluxe-edition.json](./365002-cronos-the-new-dawn-deluxe-edition.json) |
 | Cronostase Electric Collection | 225899 | [225899-cronostase-electric-collection.json](./225899-cronostase-electric-collection.json) |
 | Cronous Online | 213028 | [213028-cronous-online.json](./213028-cronous-online.json) |
 | Cronus Monument | 293235 | [293235-cronus-monument.json](./293235-cronus-monument.json) |
