@@ -3266,6 +3266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kota's New Journey | 327999 | [327999-kotas-new-journey.json](./327999-kotas-new-journey.json) |
 | Kotama and Academy Citadel | 368815 | [368815-kotama-and-academy-citadel.json](./368815-kotama-and-academy-citadel.json) |
 | Kotamon: My Sis Found a Super-Rare Card in Her Cereal Box, so I Became a Garbage Man to Find the Entire Collection and Earn $1,000,000 | 387714 | [387714-kotamon-my-sis-found-a-super-rare-card-in-her-cereal-box-so-i-became-a-garbage-man-to-find-the-entire-collection-and-earn-1-000-000.json](./387714-kotamon-my-sis-found-a-super-rare-card-in-her-cereal-box-so-i-became-a-garbage-man-to-find-the-entire-collection-and-earn-1-000-000.json) |
+| Kotaro Survivor | 351584 | [351584-kotaro-survivor.json](./351584-kotaro-survivor.json) |
 | Koten Tsumego Shuu: Shijin no Maki | 384658 | [384658-koten-tsumego-shuu-shijin-no-maki.json](./384658-koten-tsumego-shuu-shijin-no-maki.json) |
 | KóterGame | 111856 | [111856-kotergame.json](./111856-kotergame.json) |
 | Kotoba Dash | 388182 | [388182-kotoba-dash.json](./388182-kotoba-dash.json) |
