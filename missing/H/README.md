@@ -1465,6 +1465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hatsune Miku VR: 5 Songs pack 2 | 223589 | [223589-hatsune-miku-vr-5-songs-pack-2.json](./223589-hatsune-miku-vr-5-songs-pack-2.json) |
 | Hatsune Miku VR: 5 Songs pack 3 | 223588 | [223588-hatsune-miku-vr-5-songs-pack-3.json](./223588-hatsune-miku-vr-5-songs-pack-3.json) |
 | Hatsune Miku VR: Future Live - 1st Stage | 24983 | [24983-hatsune-miku-vr-future-live-1st-stage.json](./24983-hatsune-miku-vr-future-live-1st-stage.json) |
+| Hatsune Miku: Colorful Stage! - Brand New World | 386506 | [386506-hatsune-miku-colorful-stage-brand-new-world.json](./386506-hatsune-miku-colorful-stage-brand-new-world.json) |
 | Hatsune Miku: Dreamy Vocal | 112343 | [112343-hatsune-miku-dreamy-vocal.json](./112343-hatsune-miku-dreamy-vocal.json) |
 | Hatsune Miku: Project Diva | 11754 | [11754-hatsune-miku-project-diva.json](./11754-hatsune-miku-project-diva.json) |
 | Hatsune Miku: Project Diva - Mega Mix Song Pack 12 | 223585 | [223585-hatsune-miku-project-diva-mega-mix-song-pack-12.json](./223585-hatsune-miku-project-diva-mega-mix-song-pack-12.json) |
