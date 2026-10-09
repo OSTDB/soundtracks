@@ -1555,6 +1555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farmieland | 273488 | [273488-farmieland.json](./273488-farmieland.json) |
 | Farming & Supermarket: Clicker | 405610 | [405610-farming-and-supermarket-clicker.json](./405610-farming-and-supermarket-clicker.json) |
 | Farming Adventure Double Pack: Orange Season + Garden Witch Life | 381716 | [381716-farming-adventure-double-pack-orange-season-garden-witch-life.json](./381716-farming-adventure-double-pack-orange-season-garden-witch-life.json) |
+| Farming Camp | 383138 | [383138-farming-camp.json](./383138-farming-camp.json) |
 | Farming Collection | 364100 | [364100-farming-collection.json](./364100-farming-collection.json) |
 | Farming Engine | 151070 | [151070-farming-engine.json](./151070-farming-engine.json) |
 | Farming Fever | 234148 | [234148-farming-fever.json](./234148-farming-fever.json) |
