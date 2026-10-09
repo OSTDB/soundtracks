@@ -683,6 +683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quite a Ride | 336891 | [336891-quite-a-ride.json](./336891-quite-a-ride.json) |
 | Quite Soulless | 216189 | [216189-quite-soulless.json](./216189-quite-soulless.json) |
 | Quiver | 94546 | [94546-quiver.json](./94546-quiver.json) |
+| Quiver & Die | 340336 | [340336-quiver-and-die.json](./340336-quiver-and-die.json) |
 | Quiver Dick's Epic Book of Fairy Fails | 119697 | [119697-quiver-dicks-epic-book-of-fairy-fails.json](./119697-quiver-dicks-epic-book-of-fairy-fails.json) |
 | Quiver Dick's Terrible Tale for Terrible Parents to Read to Their Equally Terrible Children | 110949 | [110949-quiver-dicks-terrible-tale-for-terrible-parents-to-read-to-their-equally-terrible-children.json](./110949-quiver-dicks-terrible-tale-for-terrible-parents-to-read-to-their-equally-terrible-children.json) |
 | Quiver Quarrel | 204942 | [204942-quiver-quarrel.json](./204942-quiver-quarrel.json) |
