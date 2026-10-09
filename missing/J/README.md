@@ -1829,6 +1829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jubeez | 171441 | [171441-jubeez.json](./171441-jubeez.json) |
 | Jubilane | 165696 | [165696-jubilane.json](./165696-jubilane.json) |
 | Jubilee | 366357 | [366357-jubilee.json](./366357-jubilee.json) |
+| JuBox | 334809 | [334809-jubox.json](./334809-jubox.json) |
 | Jubox 2 | 334819 | [334819-jubox-2.json](./334819-jubox-2.json) |
 | Juda | 120780 | [120780-juda.json](./120780-juda.json) |
 | Judas | 228527 | [228527-judas.json](./228527-judas.json) |
@@ -2266,6 +2267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Junkyard Builder Simulator | 174883 | [174883-junkyard-builder-simulator.json](./174883-junkyard-builder-simulator.json) |
 | Junkyard Builder Simulator | 390537 | [390537-junkyard-builder-simulator.json](./390537-junkyard-builder-simulator.json) |
 | Junkyard Builder: King Of Scrap | 414445 | [414445-junkyard-builder-king-of-scrap.json](./414445-junkyard-builder-king-of-scrap.json) |
+| Junkyard Frog | 334742 | [334742-junkyard-frog.json](./334742-junkyard-frog.json) |
 | Junkyard Fury | 173024 | [173024-junkyard-fury.json](./173024-junkyard-fury.json) |
 | Junkyard Jumble | 112308 | [112308-junkyard-jumble.json](./112308-junkyard-jumble.json) |
 | Junkyard Keeper | 208930 | [208930-junkyard-keeper.json](./208930-junkyard-keeper.json) |
