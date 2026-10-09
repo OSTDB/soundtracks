@@ -2334,6 +2334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Man Follows | 243056 | [243056-red-man-follows.json](./243056-red-man-follows.json) |
 | Red Matter 2 | 198227 | [198227-red-matter-2.json](./198227-red-matter-2.json) |
 | Red Max | 49561 | [49561-red-max.json](./49561-red-max.json) |
+| Red Means Evil | 382535 | [382535-red-means-evil.json](./382535-red-means-evil.json) |
 | Red Measures | 148447 | [148447-red-measures.json](./148447-red-measures.json) |
 | Red Meat Radiator | 396575 | [396575-red-meat-radiator.json](./396575-red-meat-radiator.json) |
 | Red Memory | 291682 | [291682-red-memory.json](./291682-red-memory.json) |
