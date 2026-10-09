@@ -307,6 +307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yes, Master! | 118984 | [118984-yes-master.json](./118984-yes-master.json) |
 | Yes, My Demon Queen! | 227982 | [227982-yes-my-demon-queen.json](./227982-yes-my-demon-queen.json) |
 | Yes, my mother is... | 57473 | [57473-yes-my-mother-is.json](./57473-yes-my-mother-is.json) |
+| Yes, My Queen | 356604 | [356604-yes-my-queen.json](./356604-yes-my-queen.json) |
 | Yes, Your Grace | 122729 | [122729-yes-your-grace.json](./122729-yes-your-grace.json) |
 | Yes! PreCure 5 | 168328 | [168328-yes-precure-5.json](./168328-yes-precure-5.json) |
 | Yes! PreCure 5 GoGo! Zenin ShuuGO! Dream Festival | 124149 | [124149-yes-precure-5-gogo-zenin-shuugo-dream-festival.json](./124149-yes-precure-5-gogo-zenin-shuugo-dream-festival.json) |
