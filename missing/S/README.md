@@ -1067,6 +1067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sānguó Yóuxiá Zhì | 83569 | [83569-sanguo-youxia-zhi.json](./83569-sanguo-youxia-zhi.json) |
 | Sānguó Zhì: Qúnxióng Zhēngbà | 350017 | [350017-sanguo-zhi-qunxiong-zhengba.json](./350017-sanguo-zhi-qunxiong-zhengba.json) |
 | Sānguó: 223 | 257678 | [257678-sanguo-223.json](./257678-sanguo-223.json) |
+| Sānguózhì Juéxǐng | 367273 | [367273-sanguozhi-juexing.json](./367273-sanguozhi-juexing.json) |
 | Sānguózhì Měngjiàng Zhuán | 158528 | [158528-sanguozhi-mengjiang-zhuan.json](./158528-sanguozhi-mengjiang-zhuan.json) |
 | Sānguózhì Qúnyīng Zhuàn | 410976 | [410976-sanguozhi-qunying-zhuan.json](./410976-sanguozhi-qunying-zhuan.json) |
 | Sānguózhì Zhī Jiāngwéi Zhuàn | 415514 | [415514-sanguozhi-zhi-jiangwei-zhuan.json](./415514-sanguozhi-zhi-jiangwei-zhuan.json) |
@@ -3684,7 +3685,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex Adventures: Futanari Doctor | 286529 | [286529-sex-adventures-futanari-doctor.json](./286529-sex-adventures-futanari-doctor.json) |
 | Sex Adventures: Futanari Mistress | 384721 | [384721-sex-adventures-futanari-mistress.json](./384721-sex-adventures-futanari-mistress.json) |
 | Sex Adventures: GangBang Surprise | 219598 | [219598-sex-adventures-gangbang-surprise.json](./219598-sex-adventures-gangbang-surprise.json) |
+| Sex Adventures: Hot Sauna | 367271 | [367271-sex-adventures-hot-sauna.json](./367271-sex-adventures-hot-sauna.json) |
 | Sex Adventures: Kinky Bondage | 226145 | [226145-sex-adventures-kinky-bondage.json](./226145-sex-adventures-kinky-bondage.json) |
+| Sex Adventures: Love Yacht | 367275 | [367275-sex-adventures-love-yacht.json](./367275-sex-adventures-love-yacht.json) |
 | Sex Adventures: Mile High Club | 286528 | [286528-sex-adventures-mile-high-club.json](./286528-sex-adventures-mile-high-club.json) |
 | Sex Adventures: Modeling Audition | 219599 | [219599-sex-adventures-modeling-audition.json](./219599-sex-adventures-modeling-audition.json) |
 | Sex Adventures: Office Affairs | 223406 | [223406-sex-adventures-office-affairs.json](./223406-sex-adventures-office-affairs.json) |
@@ -3786,6 +3789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex Simulator: The Beach House | 247607 | [247607-sex-simulator-the-beach-house.json](./247607-sex-simulator-the-beach-house.json) |
 | Sex Simulator: The Cabin | 237282 | [237282-sex-simulator-the-cabin.json](./237282-sex-simulator-the-cabin.json) |
 | Sex Simulator: Yoga Class | 257884 | [257884-sex-simulator-yoga-class.json](./257884-sex-simulator-yoga-class.json) |
+| Sex Story: Cuckold Life - Episode 1 | 367277 | [367277-sex-story-cuckold-life-episode-1.json](./367277-sex-story-cuckold-life-episode-1.json) |
 | Sex Story: Cuckold Life - Episode 4 | 263762 | [263762-sex-story-cuckold-life-episode-4.json](./263762-sex-story-cuckold-life-episode-4.json) |
 | Sex Story: Cuckold Life - Episode 5 | 264635 | [264635-sex-story-cuckold-life-episode-5.json](./264635-sex-story-cuckold-life-episode-5.json) |
 | Sex Story: Cuckold Life - Episode 6 | 265867 | [265867-sex-story-cuckold-life-episode-6.json](./265867-sex-story-cuckold-life-episode-6.json) |
@@ -3818,6 +3822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sexophobia | 417410 | [417410-sexophobia.json](./417410-sexophobia.json) |
 | Sexorcism: Lust Confession | 396404 | [396404-sexorcism-lust-confession.json](./396404-sexorcism-lust-confession.json) |
 | Sexstellar | 379531 | [379531-sexstellar.json](./379531-sexstellar.json) |
+| SexStone | 367206 | [367206-sexstone.json](./367206-sexstone.json) |
 | Sextris | 185629 | [185629-sextris.json](./185629-sextris.json) |
 | Sextris Effect | 385240 | [385240-sextris-effect.json](./385240-sextris-effect.json) |
 | Sexts | 234750 | [234750-sexts.json](./234750-sexts.json) |
@@ -3857,6 +3862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sexy Katana | 379546 | [379546-sexy-katana.json](./379546-sexy-katana.json) |
 | Sexy Ladies | 264633 | [264633-sexy-ladies.json](./264633-sexy-ladies.json) |
 | Sexy Match | 382281 | [382281-sexy-match.json](./382281-sexy-match.json) |
+| Sexy Memory | 367293 | [367293-sexy-memory.json](./367293-sexy-memory.json) |
 | Sexy Memory Puzzle: Gamer Girl | 312685 | [312685-sexy-memory-puzzle-gamer-girl.json](./312685-sexy-memory-puzzle-gamer-girl.json) |
 | Sexy Memory Puzzle: Kawaii | 384873 | [384873-sexy-memory-puzzle-kawaii.json](./384873-sexy-memory-puzzle-kawaii.json) |
 | Sexy Memory Puzzle: Pool Massage | 319238 | [319238-sexy-memory-puzzle-pool-massage.json](./319238-sexy-memory-puzzle-pool-massage.json) |
@@ -3864,7 +3870,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sexy Milfs | 230905 | [230905-sexy-milfs.json](./230905-sexy-milfs.json) |
 | Sexy Miss | 116264 | [116264-sexy-miss.json](./116264-sexy-miss.json) |
 | Sexy Mystic Survivors | 199508 | [199508-sexy-mystic-survivors.json](./199508-sexy-mystic-survivors.json) |
+| Sexy Nurse Puzzle | 367288 | [367288-sexy-nurse-puzzle.json](./367288-sexy-nurse-puzzle.json) |
 | Sexy Puzzle | 335443 | [335443-sexy-puzzle.json](./335443-sexy-puzzle.json) |
+| Sexy Sliders | 367269 | [367269-sexy-sliders.json](./367269-sexy-sliders.json) |
 | Sexy Sniper | 159814 | [159814-sexy-sniper.json](./159814-sexy-sniper.json) |
 | Sexy Space Defender | 389648 | [389648-sexy-space-defender.json](./389648-sexy-space-defender.json) |
 | Sexy Strippers | 275834 | [275834-sexy-strippers.json](./275834-sexy-strippers.json) |
@@ -7058,7 +7066,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skat Stammtisch | 99613 | [99613-skat-stammtisch.json](./99613-skat-stammtisch.json) |
 | Skate | 283373 | [283373-skate.json](./283373-skate.json) |
 | Skate & Date | 116276 | [116276-skate-and-date.json](./116276-skate-and-date.json) |
+| Skate 3: Maloof Money Cup 2010 NYC Pack | 367276 | [367276-skate-3-maloof-money-cup-2010-nyc-pack.json](./367276-skate-3-maloof-money-cup-2010-nyc-pack.json) |
 | Skate 3: Recompiled | 404797 | [404797-skate-3-recompiled.json](./404797-skate-3-recompiled.json) |
+| Skate 3: San Van Party Pack | 367274 | [367274-skate-3-san-van-party-pack.json](./367274-skate-3-san-van-party-pack.json) |
 | Skate Attack | 43524 | [43524-skate-attack.json](./43524-skate-attack.json) |
 | Skate Bums | 387667 | [387667-skate-bums.json](./387667-skate-bums.json) |
 | Skate City | 26944 | [26944-skate-city.json](./26944-skate-city.json) |
@@ -7974,6 +7984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slide Defenders | 334079 | [334079-slide-defenders.json](./334079-slide-defenders.json) |
 | Slide Fall: Don't Stack High | 174719 | [174719-slide-fall-dont-stack-high.json](./174719-slide-fall-dont-stack-high.json) |
 | Slide Faster | 319795 | [319795-slide-faster.json](./319795-slide-faster.json) |
+| Slide Furry | 367207 | [367207-slide-furry.json](./367207-slide-furry.json) |
 | Slide Furry Futanari | 367625 | [367625-slide-furry-futanari.json](./367625-slide-furry-futanari.json) |
 | Slide Golf Mini | 234054 | [234054-slide-golf-mini.json](./234054-slide-golf-mini.json) |
 | Slide Hexagon | 358312 | [358312-slide-hexagon.json](./358312-slide-hexagon.json) |
@@ -20864,6 +20875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Cruise | 339467 | [339467-sweet-cruise.json](./339467-sweet-cruise.json) |
 | Sweet Dance | 182249 | [182249-sweet-dance.json](./182249-sweet-dance.json) |
 | Sweet Delights: The Girl’s Cafe Quest | 339466 | [339466-sweet-delights-the-girl-s-cafe-quest.json](./339466-sweet-delights-the-girl-s-cafe-quest.json) |
+| Sweet Delivery | 367298 | [367298-sweet-delivery.json](./367298-sweet-delivery.json) |
 | Sweet Desire | 147380 | [147380-sweet-desire.json](./147380-sweet-desire.json) |
 | Sweet Dream | 172106 | [172106-sweet-dream.json](./172106-sweet-dream.json) |
 | Sweet Dream | 229597 | [229597-sweet-dream.json](./229597-sweet-dream.json) |
@@ -20910,6 +20922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Idol | 371243 | [371243-sweet-idol.json](./371243-sweet-idol.json) |
 | Sweet Island | 392924 | [392924-sweet-island.json](./392924-sweet-island.json) |
 | Sweet Jewels | 359404 | [359404-sweet-jewels.json](./359404-sweet-jewels.json) |
+| Sweet Kimono | 367311 | [367311-sweet-kimono.json](./367311-sweet-kimono.json) |
 | Sweet Love | 165027 | [165027-sweet-love.json](./165027-sweet-love.json) |
 | Sweet Magic Madness | 99774 | [99774-sweet-magic-madness.json](./99774-sweet-magic-madness.json) |
 | Sweet Massage | 339453 | [339453-sweet-massage.json](./339453-sweet-massage.json) |
