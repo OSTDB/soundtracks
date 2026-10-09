@@ -400,6 +400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Janken Shogi | 216223 | [216223-janken-shogi.json](./216223-janken-shogi.json) |
 | JanKenUP! | 180199 | [180199-jankenup.json](./180199-jankenup.json) |
 | Janko | 306365 | [306365-janko.json](./306365-janko.json) |
+| Janky Golf with Stream | 378012 | [378012-janky-golf-with-stream.json](./378012-janky-golf-with-stream.json) |
 | Janky Tanks | 35877 | [35877-janky-tanks.json](./35877-janky-tanks.json) |
 | Janline R | 65559 | [65559-janline-r.json](./65559-janline-r.json) |
 | Janosik | 64913 | [64913-janosik.json](./64913-janosik.json) |
