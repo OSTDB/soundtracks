@@ -2517,6 +2517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catffee Time! | 303727 | [303727-catffee-time.json](./303727-catffee-time.json) |
 | Catfighter, In the Lands of Sinners | 374059 | [374059-catfighter-in-the-lands-of-sinners.json](./374059-catfighter-in-the-lands-of-sinners.json) |
 | CatFish - gotta fish them all! | 101110 | [101110-catfish-gotta-fish-them-all.json](./101110-catfish-gotta-fish-them-all.json) |
+| Catfishing | 340353 | [340353-catfishing.json](./340353-catfishing.json) |
 | Catfishing Cuties | 181854 | [181854-catfishing-cuties.json](./181854-catfishing-cuties.json) |
 | Catgirl | 344943 | [344943-catgirl.json](./344943-catgirl.json) |
 | Catgirl & Doggirl Cafe | 199057 | [199057-catgirl-and-doggirl-cafe.json](./199057-catgirl-and-doggirl-cafe.json) |
@@ -9388,6 +9389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Craft: The Vicious Vikings | 142982 | [142982-craft-the-vicious-vikings.json](./142982-craft-the-vicious-vikings.json) |
 | Craft. Sell. Goblin. Repeat. | 374665 | [374665-craft-sell-goblin-repeat.json](./374665-craft-sell-goblin-repeat.json) |
 | Craft.io | 176850 | [176850-craft-io.json](./176850-craft-io.json) |
+| Craftae | 340345 | [340345-craftae.json](./340345-craftae.json) |
 | Craftaway | 355032 | [355032-craftaway.json](./355032-craftaway.json) |
 | CraftCraft: Fantasy Merchant Simulator | 249178 | [249178-craftcraft-fantasy-merchant-simulator.json](./249178-craftcraft-fantasy-merchant-simulator.json) |
 | Crafter | 326042 | [326042-crafter.json](./326042-crafter.json) |
