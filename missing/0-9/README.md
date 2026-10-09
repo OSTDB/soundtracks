@@ -1173,6 +1173,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 33 Rounds | 126563 | [126563-33-rounds.json](./126563-33-rounds.json) |
 | 33 Seconds | 208056 | [208056-33-seconds.json](./208056-33-seconds.json) |
 | 34 Sports Games: World Edition | 297041 | [297041-34-sports-games-world-edition.json](./297041-34-sports-games-world-edition.json) |
+| 346469 | 362747 | [362747-346469.json](./362747-346469.json) |
+| 346470 | 362745 | [362745-346470.json](./362745-346470.json) |
+| 346471 | 362746 | [362746-346471.json](./362746-346471.json) |
 | 35 Electric | 382899 | [382899-35-electric.json](./382899-35-electric.json) |
 | 3594e: Sangokushi Eiga | 80633 | [80633-3594e-sangokushi-eiga.json](./80633-3594e-sangokushi-eiga.json) |
 | 35MM | 19396 | [19396-35mm.json](./19396-35mm.json) |
@@ -1524,6 +1527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 5 Nights at Timokha's 4 School | 326230 | [326230-5-nights-at-timokhas-4-school.json](./326230-5-nights-at-timokhas-4-school.json) |
 | 5 O'clock Lock | 308333 | [308333-5-oclock-lock.json](./308333-5-oclock-lock.json) |
 | 5 Points Mall | 276764 | [276764-5-points-mall.json](./276764-5-points-mall.json) |
+| 5 Red Mickeys | 362723 | [362723-5-red-mickeys.json](./362723-5-red-mickeys.json) |
 | 5 Star Fishy | 245937 | [245937-5-star-fishy.json](./245937-5-star-fishy.json) |
 | 5 Star Hawaii Resort | 338906 | [338906-5-star-hawaii-resort.json](./338906-5-star-hawaii-resort.json) |
 | 5 Star Miami Resort | 338907 | [338907-5-star-miami-resort.json](./338907-5-star-miami-resort.json) |
