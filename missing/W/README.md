@@ -3664,6 +3664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winter Magic | 246548 | [246548-winter-magic.json](./246548-winter-magic.json) |
 | Winter Magic Factory | 121389 | [121389-winter-magic-factory.json](./121389-winter-magic-factory.json) |
 | Winter Mahjong | 415978 | [415978-winter-mahjong.json](./415978-winter-mahjong.json) |
+| Winter Makes Me Lonely but at Least I Have You | 364378 | [364378-winter-makes-me-lonely-but-at-least-i-have-you.json](./364378-winter-makes-me-lonely-but-at-least-i-have-you.json) |
 | Winter Mosaics | 415908 | [415908-winter-mosaics.json](./415908-winter-mosaics.json) |
 | Winter Night | 287700 | [287700-winter-night.json](./287700-winter-night.json) |
 | Winter Night: Terrorist Strike | 224086 | [224086-winter-night-terrorist-strike.json](./224086-winter-night-terrorist-strike.json) |
@@ -4396,6 +4397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wonky Ship | 59821 | [59821-wonky-ship.json](./59821-wonky-ship.json) |
 | Wonky Ship: Black Hole Down | 168322 | [168322-wonky-ship-black-hole-down.json](./168322-wonky-ship-black-hole-down.json) |
 | Wonky Works! | 189051 | [189051-wonky-works.json](./189051-wonky-works.json) |
+| Wonscotonach | 364365 | [364365-wonscotonach.json](./364365-wonscotonach.json) |
 | Woo Woo | 388919 | [388919-woo-woo.json](./388919-woo-woo.json) |
 | Woo Wop Da Bam | 160173 | [160173-woo-wop-da-bam.json](./160173-woo-wop-da-bam.json) |
 | Woobies | 294205 | [294205-woobies.json](./294205-woobies.json) |
