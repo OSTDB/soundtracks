@@ -3463,6 +3463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iron Blade: Medieval RPG | 112241 | [112241-iron-blade-medieval-rpg.json](./112241-iron-blade-medieval-rpg.json) |
 | Iron Blood | 68722 | [68722-iron-blood.json](./68722-iron-blood.json) |
 | Iron Bramble | 401010 | [401010-iron-bramble.json](./401010-iron-bramble.json) |
+| Iron Carnage | 368292 | [368292-iron-carnage.json](./368292-iron-carnage.json) |
 | Iron Cauldron: Guess the Colorblock | 340762 | [340762-iron-cauldron-guess-the-colorblock.json](./340762-iron-cauldron-guess-the-colorblock.json) |
 | Iron Chef | 64456 | [64456-iron-chef.json](./64456-iron-chef.json) |
 | Iron Convoy | 330859 | [330859-iron-convoy.json](./330859-iron-convoy.json) |
