@@ -596,6 +596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Rose in the Twilight: Digital Bloodlust Edition | 52564 | [52564-a-rose-in-the-twilight-digital-bloodlust-edition.json](./52564-a-rose-in-the-twilight-digital-bloodlust-edition.json) |
 | A Rum Case in Fogtown | 211806 | [211806-a-rum-case-in-fogtown.json](./211806-a-rum-case-in-fogtown.json) |
 | A Rum Tale | 230384 | [230384-a-rum-tale.json](./230384-a-rum-tale.json) |
+| A Safe Place | 338165 | [338165-a-safe-place.json](./338165-a-safe-place.json) |
 | A Sandwich, A Leash, and A Storm | 337701 | [337701-a-sandwich-a-leash-and-a-storm.json](./337701-a-sandwich-a-leash-and-a-storm.json) |
 | A Sceptic's Guide to Magic | 118127 | [118127-a-sceptics-guide-to-magic.json](./118127-a-sceptics-guide-to-magic.json) |
 | A Sea of Grey & Green | 413864 | [413864-a-sea-of-grey-and-green.json](./413864-a-sea-of-grey-and-green.json) |
@@ -609,6 +610,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Sexy Tour With Riley | 379550 | [379550-a-sexy-tour-with-riley.json](./379550-a-sexy-tour-with-riley.json) |
 | A Sexy Tour With Stella | 368573 | [368573-a-sexy-tour-with-stella.json](./368573-a-sexy-tour-with-stella.json) |
 | A Sexy Tour With: Akiko | 367290 | [367290-a-sexy-tour-with-akiko.json](./367290-a-sexy-tour-with-akiko.json) |
+| A Sexy Tour With: Fiona | 338166 | [338166-a-sexy-tour-with-fiona.json](./338166-a-sexy-tour-with-fiona.json) |
+| A Shade Darker Than Gray | 338167 | [338167-a-shade-darker-than-gray.json](./338167-a-shade-darker-than-gray.json) |
 | A Shadow in Space | 383719 | [383719-a-shadow-in-space.json](./383719-a-shadow-in-space.json) |
 | A Shard of Mine | 243418 | [243418-a-shard-of-mine.json](./243418-a-shard-of-mine.json) |
 | A Shiver in Time | 177853 | [177853-a-shiver-in-time.json](./177853-a-shiver-in-time.json) |
@@ -677,6 +680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Study in Blue | 386249 | [386249-a-study-in-blue.json](./386249-a-study-in-blue.json) |
 | A Study in Steampunk: Choice by Gaslight | 34030 | [34030-a-study-in-steampunk-choice-by-gaslight.json](./34030-a-study-in-steampunk-choice-by-gaslight.json) |
 | A Stupid Game About Pouring Drinks for the P.T.A. | 387502 | [387502-a-stupid-game-about-pouring-drinks-for-the-p-t-a.json](./387502-a-stupid-game-about-pouring-drinks-for-the-p-t-a.json) |
+| A Summer in Our Hearts | 338171 | [338171-a-summer-in-our-hearts.json](./338171-a-summer-in-our-hearts.json) |
 | A Summer's End: Hong Kong 1986 | 131912 | [131912-a-summers-end-hong-kong-1986.json](./131912-a-summers-end-hong-kong-1986.json) |
 | A Sun of Salt | 107784 | [107784-a-sun-of-salt.json](./107784-a-sun-of-salt.json) |
 | A Super Effective Turnabout | 302597 | [302597-a-super-effective-turnabout.json](./302597-a-super-effective-turnabout.json) |
@@ -759,6 +763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Verdant Hue | 32234 | [32234-a-verdant-hue.json](./32234-a-verdant-hue.json) |
 | A Very British Summer | 375941 | [375941-a-very-british-summer.json](./375941-a-very-british-summer.json) |
 | A Very Long Rope to the Top of the Sky | 124616 | [124616-a-very-long-rope-to-the-top-of-the-sky.json](./124616-a-very-long-rope-to-the-top-of-the-sky.json) |
+| A Very Merry Nightmare | 338182 | [338182-a-very-merry-nightmare.json](./338182-a-very-merry-nightmare.json) |
 | A Very Pilkington Christmas | 280752 | [280752-a-very-pilkington-christmas.json](./280752-a-very-pilkington-christmas.json) |
 | A Very Scandalous Proposal | 313852 | [313852-a-very-scandalous-proposal.json](./313852-a-very-scandalous-proposal.json) |
 | A Very Splendid Otome Game | 321555 | [321555-a-very-splendid-otome-game.json](./321555-a-very-splendid-otome-game.json) |
@@ -4852,6 +4857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amentes Online | 401011 | [401011-amentes-online.json](./401011-amentes-online.json) |
 | Ameprod Television Game 10 | 243416 | [243416-ameprod-television-game-10.json](./243416-ameprod-television-game-10.json) |
 | America Adventure | 206111 | [206111-america-adventure.json](./206111-america-adventure.json) |
+| America Against Ants | 338224 | [338224-america-against-ants.json](./338224-america-against-ants.json) |
 | America is Doing Great | 136486 | [136486-america-is-doing-great.json](./136486-america-is-doing-great.json) |
 | America Oudan Ultra Quiz | 268631 | [268631-america-oudan-ultra-quiz.json](./268631-america-oudan-ultra-quiz.json) |
 | America Oudan Ultra Quiz | 282817 | [282817-america-oudan-ultra-quiz.json](./282817-america-oudan-ultra-quiz.json) |
@@ -7683,6 +7689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arctic Tale | 248613 | [248613-arctic-tale.json](./248613-arctic-tale.json) |
 | Arctic Tale | 248614 | [248614-arctic-tale.json](./248614-arctic-tale.json) |
 | Arctic Trucker Simulator | 36396 | [36396-arctic-trucker-simulator.json](./36396-arctic-trucker-simulator.json) |
+| Arctic Wolves | 338153 | [338153-arctic-wolves.json](./338153-arctic-wolves.json) |
 | Arctic Zone | 210639 | [210639-arctic-zone.json](./210639-arctic-zone.json) |
 | Arctic's Adventure | 264704 | [264704-arctics-adventure.json](./264704-arctics-adventure.json) |
 | Arctica | 379712 | [379712-arctica.json](./379712-arctica.json) |
@@ -7725,6 +7732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Are We Thawing | 241984 | [241984-are-we-thawing.json](./241984-are-we-thawing.json) |
 | Are We There Yet? | 73794 | [73794-are-we-there-yet.json](./73794-are-we-there-yet.json) |
 | Are You Afraid of the Dark | 220347 | [220347-are-you-afraid-of-the-dark.json](./220347-are-you-afraid-of-the-dark.json) |
+| Are You Happy | 338154 | [338154-are-you-happy.json](./338154-are-you-happy.json) |
 | Are you human? | 183394 | [183394-are-you-human.json](./183394-are-you-human.json) |
 | Are You Kidding Me? | 324922 | [324922-are-you-kidding-me.json](./324922-are-you-kidding-me.json) |
 | Are You Ok? | 179054 | [179054-are-you-ok.json](./179054-are-you-ok.json) |
@@ -7945,6 +7953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ark and Ade | 157022 | [157022-ark-and-ade.json](./157022-ark-and-ade.json) |
 | Ark Bubble | 242562 | [242562-ark-bubble.json](./242562-ark-bubble.json) |
 | Ark Mobius | 169794 | [169794-ark-mobius.json](./169794-ark-mobius.json) |
+| Ark Nova | 338156 | [338156-ark-nova.json](./338156-ark-nova.json) |
 | Ark Odyssey | 319366 | [319366-ark-odyssey.json](./319366-ark-odyssey.json) |
 | Ark of Artemis | 148564 | [148564-ark-of-artemis.json](./148564-ark-of-artemis.json) |
 | Ark of Isolation | 373550 | [373550-ark-of-isolation.json](./373550-ark-of-isolation.json) |
@@ -7970,6 +7979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ark: Ultimate Survivor Edition | 152344 | [152344-ark-ultimate-survivor-edition.json](./152344-ark-ultimate-survivor-edition.json) |
 | Ark's Wonder Dungeon | 321588 | [321588-arks-wonder-dungeon.json](./321588-arks-wonder-dungeon.json) |
 | Arkadia | 193835 | [193835-arkadia.json](./193835-arkadia.json) |
+| Arkadia | 338155 | [338155-arkadia.json](./338155-arkadia.json) |
 | Arkady Survive | 117658 | [117658-arkady-survive.json](./117658-arkady-survive.json) |
 | Arkagis Revolution | 141025 | [141025-arkagis-revolution.json](./141025-arkagis-revolution.json) |
 | Arkaia: The Enigmatic Isle | 68606 | [68606-arkaia-the-enigmatic-isle.json](./68606-arkaia-the-enigmatic-isle.json) |
@@ -8325,6 +8335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arrowscapes: Arrows Puzzle | 392368 | [392368-arrowscapes-arrows-puzzle.json](./392368-arrowscapes-arrows-puzzle.json) |
 | Arrrrrr! | 72310 | [72310-arrrrrr.json](./72310-arrrrrr.json) |
 | Arruyo | 201561 | [201561-arruyo.json](./201561-arruyo.json) |
+| Ars Goetia | 338157 | [338157-ars-goetia.json](./338157-ars-goetia.json) |
 | Ars Mechanica | 382198 | [382198-ars-mechanica.json](./382198-ars-mechanica.json) |
 | Ars Notoria | 214014 | [214014-ars-notoria.json](./214014-ars-notoria.json) |
 | Ars Vox Arcana | 339941 | [339941-ars-vox-arcana.json](./339941-ars-vox-arcana.json) |
@@ -8438,6 +8449,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arthur and the Revenge of Maltazard | 51155 | [51155-arthur-and-the-revenge-of-maltazard.json](./51155-arthur-and-the-revenge-of-maltazard.json) |
 | Arthur Loves Watermelon | 333132 | [333132-arthur-loves-watermelon.json](./333132-arthur-loves-watermelon.json) |
 | Arthur Owl's Word Block | 337839 | [337839-arthur-owls-word-block.json](./337839-arthur-owls-word-block.json) |
+| Arthur Owl's Word Block: Adult Pack | 338159 | [338159-arthur-owls-word-block-adult-pack.json](./338159-arthur-owls-word-block-adult-pack.json) |
+| Arthur Owl's Word Block: Hard Pack | 338160 | [338160-arthur-owls-word-block-hard-pack.json](./338160-arthur-owls-word-block-hard-pack.json) |
+| Arthur Owl's Word Block: Large Pack | 338158 | [338158-arthur-owls-word-block-large-pack.json](./338158-arthur-owls-word-block-large-pack.json) |
+| Arthur Owl's Word Block: Movies and TV Pack | 338161 | [338161-arthur-owls-word-block-movies-and-tv-pack.json](./338161-arthur-owls-word-block-movies-and-tv-pack.json) |
+| Arthur Owl's Word Block: Music Pack | 338163 | [338163-arthur-owls-word-block-music-pack.json](./338163-arthur-owls-word-block-music-pack.json) |
+| Arthur Owl's Word Block: Unlimited Hints | 338164 | [338164-arthur-owls-word-block-unlimited-hints.json](./338164-arthur-owls-word-block-unlimited-hints.json) |
+| Arthur Owl's Word Block: Video Games Pack | 338162 | [338162-arthur-owls-word-block-video-games-pack.json](./338162-arthur-owls-word-block-video-games-pack.json) |
 | Arthur to Astaroth no Nazomakaimura: Incredible Toons | 45427 | [45427-arthur-to-astaroth-no-nazomakaimura-incredible-toons.json](./45427-arthur-to-astaroth-no-nazomakaimura-incredible-toons.json) |
 | Arthur Yahtzee: The Curse of Hell's Cheesecake | 217857 | [217857-arthur-yahtzee-the-curse-of-hells-cheesecake.json](./217857-arthur-yahtzee-the-curse-of-hells-cheesecake.json) |
 | Arthur: Wizard Academy | 343420 | [343420-arthur-wizard-academy.json](./343420-arthur-wizard-academy.json) |
@@ -9243,6 +9261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astral Green | 184079 | [184079-astral-green.json](./184079-astral-green.json) |
 | Astral Guardians | 303188 | [303188-astral-guardians.json](./303188-astral-guardians.json) |
 | Astral Heroes | 32858 | [32858-astral-heroes.json](./32858-astral-heroes.json) |
+| Astral Hound VR | 338168 | [338168-astral-hound-vr.json](./338168-astral-hound-vr.json) |
 | Astral Masters | 140983 | [140983-astral-masters.json](./140983-astral-masters.json) |
 | Astral Maze: Escape the Horror | 304677 | [304677-astral-maze-escape-the-horror.json](./304677-astral-maze-escape-the-horror.json) |
 | Astral Ooze | 348345 | [348345-astral-ooze.json](./348345-astral-ooze.json) |
@@ -9284,6 +9303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astrid: Reverie | 223493 | [223493-astrid-reverie.json](./223493-astrid-reverie.json) |
 | Astride | 216726 | [216726-astride.json](./216726-astride.json) |
 | Astro & Suzy Go to the Circus | 397071 | [397071-astro-and-suzy-go-to-the-circus.json](./397071-astro-and-suzy-go-to-the-circus.json) |
+| Astro Arena | 338169 | [338169-astro-arena.json](./338169-astro-arena.json) |
 | Astro Assembler | 71506 | [71506-astro-assembler.json](./71506-astro-assembler.json) |
 | Astro Avenger II | 51211 | [51211-astro-avenger-ii.json](./51211-astro-avenger-ii.json) |
 | Astro Bandits | 201662 | [201662-astro-bandits.json](./201662-astro-bandits.json) |
