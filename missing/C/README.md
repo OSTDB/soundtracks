@@ -4524,6 +4524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chou à la Crème Collect | 304665 | [304665-chou-a-la-creme-collect.json](./304665-chou-a-la-creme-collect.json) |
 | Chou Aniki Zero | 42859 | [42859-chou-aniki-zero.json](./42859-chou-aniki-zero.json) |
 | Chou Aniki: Kyuukyoku Muteki Ginga Saikyou Otoko | 95478 | [95478-chou-aniki-kyuukyoku-muteki-ginga-saikyou-otoko.json](./95478-chou-aniki-kyuukyoku-muteki-ginga-saikyou-otoko.json) |
+| Chou Crème Collect Whip | 376875 | [376875-chou-creme-collect-whip.json](./376875-chou-creme-collect-whip.json) |
 | Chou Ga Shin Zangard | 246106 | [246106-chou-ga-shin-zangard.json](./246106-chou-ga-shin-zangard.json) |
 | Chou Gekijouban Keroro Gunsou: Gekishin Dragon Warriors de Arimasu! | 69199 | [69199-chou-gekijouban-keroro-gunsou-gekishin-dragon-warriors-de-arimasu.json](./69199-chou-gekijouban-keroro-gunsou-gekishin-dragon-warriors-de-arimasu.json) |
 | Chou Hakai Keikaku kara no Dasshutsu | 222224 | [222224-chou-hakai-keikaku-kara-no-dasshutsu.json](./222224-chou-hakai-keikaku-kara-no-dasshutsu.json) |
@@ -11128,6 +11129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubic Ninja | 6754 | [6754-cubic-ninja.json](./6754-cubic-ninja.json) |
 | Cubic Odyssey | 329371 | [329371-cubic-odyssey.json](./329371-cubic-odyssey.json) |
 | Cubic Snake | 184388 | [184388-cubic-snake.json](./184388-cubic-snake.json) |
+| Cubic Spree | 376862 | [376862-cubic-spree.json](./376862-cubic-spree.json) |
 | Cubic Survivor | 255962 | [255962-cubic-survivor.json](./255962-cubic-survivor.json) |
 | Cubic Tetris | 302342 | [302342-cubic-tetris.json](./302342-cubic-tetris.json) |
 | Cubic Worlds | 262287 | [262287-cubic-worlds.json](./262287-cubic-worlds.json) |
