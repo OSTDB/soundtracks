@@ -343,6 +343,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taiko Frenzy | 276824 | [276824-taiko-frenzy.json](./276824-taiko-frenzy.json) |
 | Taiko no Tatsujin 10 | 276420 | [276420-taiko-no-tatsujin-10.json](./276420-taiko-no-tatsujin-10.json) |
 | Taiko no Tatsujin 11 | 276422 | [276422-taiko-no-tatsujin-11.json](./276422-taiko-no-tatsujin-11.json) |
+| Taiko no Tatsujin 12 | 342610 | [342610-taiko-no-tatsujin-12.json](./342610-taiko-no-tatsujin-12.json) |
+| Taiko no Tatsujin 12 Don-! to Zoryoban | 342611 | [342611-taiko-no-tatsujin-12-don-to-zoryoban.json](./342611-taiko-no-tatsujin-12-don-to-zoryoban.json) |
 | Taiko no Tatsujin 13 | 294220 | [294220-taiko-no-tatsujin-13.json](./294220-taiko-no-tatsujin-13.json) |
 | Taiko no Tatsujin 4 | 276389 | [276389-taiko-no-tatsujin-4.json](./276389-taiko-no-tatsujin-4.json) |
 | Taiko no Tatsujin 5 | 276395 | [276395-taiko-no-tatsujin-5.json](./276395-taiko-no-tatsujin-5.json) |
@@ -7074,12 +7076,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The King of Fighters XIV | 18814 | [18814-the-king-of-fighters-xiv.json](./18814-the-king-of-fighters-xiv.json) |
 | The King of Fighters XIV Steam Edition | 36636 | [36636-the-king-of-fighters-xiv-steam-edition.json](./36636-the-king-of-fighters-xiv-steam-edition.json) |
 | The King of Fighters XIV: 4 Character Bundle Pack 2 | 320246 | [320246-the-king-of-fighters-xiv-4-character-bundle-pack-2.json](./320246-the-king-of-fighters-xiv-4-character-bundle-pack-2.json) |
+| The King of Fighters XIV: Angel Diabla Costume | 342572 | [342572-the-king-of-fighters-xiv-angel-diabla-costume.json](./342572-the-king-of-fighters-xiv-angel-diabla-costume.json) |
 | The King of Fighters XIV: Athena KOF ‘98 Costume | 342871 | [342871-the-king-of-fighters-xiv-athena-kof-98-costume.json](./342871-the-king-of-fighters-xiv-athena-kof-98-costume.json) |
 | The King of Fighters XIV: Blue Mary | 321571 | [321571-the-king-of-fighters-xiv-blue-mary.json](./321571-the-king-of-fighters-xiv-blue-mary.json) |
 | The King of Fighters XIV: Classic Iori Costume | 322961 | [322961-the-king-of-fighters-xiv-classic-iori-costume.json](./322961-the-king-of-fighters-xiv-classic-iori-costume.json) |
 | The King of Fighters XIV: Galaxy Edition | 132080 | [132080-the-king-of-fighters-xiv-galaxy-edition.json](./132080-the-king-of-fighters-xiv-galaxy-edition.json) |
 | The King of Fighters XIV: Heidern | 321570 | [321570-the-king-of-fighters-xiv-heidern.json](./321570-the-king-of-fighters-xiv-heidern.json) |
+| The King Of Fighters XIV: Kula Sundress Costume | 342574 | [342574-the-king-of-fighters-xiv-kula-sundress-costume.json](./342574-the-king-of-fighters-xiv-kula-sundress-costume.json) |
 | The King of Fighters XIV: Kyo Classic Costume | 342872 | [342872-the-king-of-fighters-xiv-kyo-classic-costume.json](./342872-the-king-of-fighters-xiv-kyo-classic-costume.json) |
+| The King Of Fighters XIV: Meitenkun Pajamas Costume | 342575 | [342575-the-king-of-fighters-xiv-meitenkun-pajamas-costume.json](./342575-the-king-of-fighters-xiv-meitenkun-pajamas-costume.json) |
 | The King of Fighters XIV: Najd | 321572 | [321572-the-king-of-fighters-xiv-najd.json](./321572-the-king-of-fighters-xiv-najd.json) |
 | The King Of Fighters XIV: Nakoruru School Costume | 342869 | [342869-the-king-of-fighters-xiv-nakoruru-school-costume.json](./342869-the-king-of-fighters-xiv-nakoruru-school-costume.json) |
 | The King Of FIghters XIV: Nightmare Geese Costume | 338177 | [338177-the-king-of-fighters-xiv-nightmare-geese-costume.json](./338177-the-king-of-fighters-xiv-nightmare-geese-costume.json) |
@@ -8696,6 +8701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The No Button Game | 225293 | [225293-the-no-button-game.json](./225293-the-no-button-game.json) |
 | The No Goblin Complete Collection | 53767 | [53767-the-no-goblin-complete-collection.json](./53767-the-no-goblin-complete-collection.json) |
 | The No No Man | 316412 | [316412-the-no-no-man.json](./316412-the-no-no-man.json) |
+| The Noid's Super Pizza Shootout | 342587 | [342587-the-noids-super-pizza-shootout.json](./342587-the-noids-super-pizza-shootout.json) |
 | The Noog Network | 345430 | [345430-the-noog-network.json](./345430-the-noog-network.json) |
 | The Normal Day | 38997 | [38997-the-normal-day.json](./38997-the-normal-day.json) |
 | The Normal Turnabout | 310410 | [310410-the-normal-turnabout.json](./310410-the-normal-turnabout.json) |
@@ -19030,6 +19036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Truck Racing 2 | 43540 | [43540-truck-racing-2.json](./43540-truck-racing-2.json) |
 | Truck Racing Simulator | 391348 | [391348-truck-racing-simulator.json](./391348-truck-racing-simulator.json) |
 | Truck Raid | 252816 | [252816-truck-raid.json](./252816-truck-raid.json) |
+| Truck Rally | 342608 | [342608-truck-rally.json](./342608-truck-rally.json) |
 | Truck Rally Hyper Hardcore | 383158 | [383158-truck-rally-hyper-hardcore.json](./383158-truck-rally-hyper-hardcore.json) |
 | Truck Sim 2024 | 287159 | [287159-truck-sim-2024.json](./287159-truck-sim-2024.json) |
 | Truck Simulation 19 | 111747 | [111747-truck-simulation-19.json](./111747-truck-simulation-19.json) |
@@ -19387,6 +19394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tuggowar: Arsenal Management | 358260 | [358260-tuggowar-arsenal-management.json](./358260-tuggowar-arsenal-management.json) |
 | Tui Shou: Sokoban | 372023 | [372023-tui-shou-sokoban.json](./372023-tui-shou-sokoban.json) |
 | Tuin | 213904 | [213904-tuin.json](./213904-tuin.json) |
+| Tuiterland 5: El Fin de las Redes Sociales | 342704 | [342704-tuiterland-5-el-fin-de-las-redes-sociales.json](./342704-tuiterland-5-el-fin-de-las-redes-sociales.json) |
 | Tuk Tuk Extreme Simulator | 199367 | [199367-tuk-tuk-extreme-simulator.json](./199367-tuk-tuk-extreme-simulator.json) |
 | Tuk Tuk Go! | 416172 | [416172-tuk-tuk-go.json](./416172-tuk-tuk-go.json) |
 | Tuk Tuk Taxi | 272573 | [272573-tuk-tuk-taxi.json](./272573-tuk-tuk-taxi.json) |
