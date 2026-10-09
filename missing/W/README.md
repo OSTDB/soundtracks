@@ -1301,6 +1301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wart's Turn-Based Revenge | 256794 | [256794-warts-turn-based-revenge.json](./256794-warts-turn-based-revenge.json) |
 | Wartale | 55864 | [55864-wartale.json](./55864-wartale.json) |
 | Wartales: Contract - Fires in the Capital | 395803 | [395803-wartales-contract-fires-in-the-capital.json](./395803-wartales-contract-fires-in-the-capital.json) |
+| Wartales: Contract - The Fief | 362769 | [362769-wartales-contract-the-fief.json](./362769-wartales-contract-the-fief.json) |
 | Wartales: The Pits | 322789 | [322789-wartales-the-pits.json](./322789-wartales-the-pits.json) |
 | Wartales: The Skelmar Invasion | 322788 | [322788-wartales-the-skelmar-invasion.json](./322788-wartales-the-skelmar-invasion.json) |
 | Wartales: The Tavern Opens! | 296870 | [296870-wartales-the-tavern-opens.json](./296870-wartales-the-tavern-opens.json) |
@@ -2603,6 +2604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where Winds Meet: Hidden Mountain | 405087 | [405087-where-winds-meet-hidden-mountain.json](./405087-where-winds-meet-hidden-mountain.json) |
 | Where Winds Meet: Spring's Bliss | 388906 | [388906-where-winds-meet-springs-bliss.json](./388906-where-winds-meet-springs-bliss.json) |
 | Where Winds Meet: The Imperial Palace | 381243 | [381243-where-winds-meet-the-imperial-palace.json](./381243-where-winds-meet-the-imperial-palace.json) |
+| Where's Ami Do | 362741 | [362741-wheres-ami-do.json](./362741-wheres-ami-do.json) |
 | Where's an Egg? | 135870 | [135870-wheres-an-egg.json](./135870-wheres-an-egg.json) |
 | Where's Baby | 107932 | [107932-wheres-baby.json](./107932-wheres-baby.json) |
 | Where's Fido? | 278995 | [278995-wheres-fido.json](./278995-wheres-fido.json) |
