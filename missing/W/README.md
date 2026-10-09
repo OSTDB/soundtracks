@@ -3095,6 +3095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wigged Out | 126584 | [126584-wigged-out.json](./126584-wigged-out.json) |
 | Wiggly Boy | 139424 | [139424-wiggly-boy.json](./139424-wiggly-boy.json) |
 | Wiggly Pig | 181757 | [181757-wiggly-pig.json](./181757-wiggly-pig.json) |
+| Wigmaker | 335985 | [335985-wigmaker.json](./335985-wigmaker.json) |
 | Wigmund | 123970 | [123970-wigmund.json](./123970-wigmund.json) |
 | Wii Chess | 5280 | [5280-wii-chess.json](./5280-wii-chess.json) |
 | Wii Fit | 2186 | [2186-wii-fit.json](./2186-wii-fit.json) |
