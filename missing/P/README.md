@@ -5913,6 +5913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Please Answer Carefully | 176488 | [176488-please-answer-carefully.json](./176488-please-answer-carefully.json) |
 | Please Be Kind to the Chickens | 258080 | [258080-please-be-kind-to-the-chickens.json](./258080-please-be-kind-to-the-chickens.json) |
 | Please close the doors | 81639 | [81639-please-close-the-doors.json](./81639-please-close-the-doors.json) |
+| Please Come to The Castle | 349906 | [349906-please-come-to-the-castle.json](./349906-please-come-to-the-castle.json) |
 | Please Do Not Climb on the Dinosaurs | 383970 | [383970-please-do-not-climb-on-the-dinosaurs.json](./383970-please-do-not-climb-on-the-dinosaurs.json) |
 | Please Don't Feed the Creatures of the Deep | 323272 | [323272-please-dont-feed-the-creatures-of-the-deep.json](./323272-please-dont-feed-the-creatures-of-the-deep.json) |
 | Please Don't Understand Me | 394861 | [394861-please-dont-understand-me.json](./394861-please-dont-understand-me.json) |
@@ -7779,6 +7780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PossiblyAxolotl's PlayPack | 349873 | [349873-possiblyaxolotls-playpack.json](./349873-possiblyaxolotls-playpack.json) |
 | Possum Boy!: The Ballad of Joey Virginia | 361241 | [361241-possum-boy-the-ballad-of-joey-virginia.json](./361241-possum-boy-the-ballad-of-joey-virginia.json) |
 | Possum Dating Simulator | 179042 | [179042-possum-dating-simulator.json](./179042-possum-dating-simulator.json) |
+| Possum is Hungry | 349816 | [349816-possum-is-hungry.json](./349816-possum-is-hungry.json) |
 | Post | 274208 | [274208-post.json](./274208-post.json) |
 | Post Apo Tycoon | 347883 | [347883-post-apo-tycoon.json](./347883-post-apo-tycoon.json) |
 | Post Apocalypse | 130355 | [130355-post-apocalypse.json](./130355-post-apocalypse.json) |
