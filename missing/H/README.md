@@ -1561,6 +1561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted Girls | 212999 | [212999-haunted-girls.json](./212999-haunted-girls.json) |
 | Haunted Halls: Fears from Childhood - Collector's Edition | 86437 | [86437-haunted-halls-fears-from-childhood-collectors-edition.json](./86437-haunted-halls-fears-from-childhood-collectors-edition.json) |
 | Haunted Halls: Green Hills Sanitarium - Collector's Edition | 37011 | [37011-haunted-halls-green-hills-sanitarium-collectors-edition.json](./37011-haunted-halls-green-hills-sanitarium-collectors-edition.json) |
+| Haunted Hearts Hotel | 340418 | [340418-haunted-hearts-hotel.json](./340418-haunted-hearts-hotel.json) |
 | Haunted Heye Apartment | 245811 | [245811-haunted-heye-apartment.json](./245811-haunted-heye-apartment.json) |
 | Haunted Hill | 276390 | [276390-haunted-hill.json](./276390-haunted-hill.json) |
 | Haunted Hotel | 146857 | [146857-haunted-hotel.json](./146857-haunted-hotel.json) |
@@ -1596,6 +1597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted House | 258483 | [258483-haunted-house.json](./258483-haunted-house.json) |
 | Haunted House | 276244 | [276244-haunted-house.json](./276244-haunted-house.json) |
 | Haunted House | 4909 | [4909-haunted-house.json](./4909-haunted-house.json) |
+| Haunted House 2 | 340419 | [340419-haunted-house-2.json](./340419-haunted-house-2.json) |
 | Haunted House Renovator | 211941 | [211941-haunted-house-renovator.json](./211941-haunted-house-renovator.json) |
 | Haunted House Renovator: Prologue | 316421 | [316421-haunted-house-renovator-prologue.json](./316421-haunted-house-renovator-prologue.json) |
 | Haunted House: The Murder | 171419 | [171419-haunted-house-the-murder.json](./171419-haunted-house-the-murder.json) |
@@ -1657,6 +1659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hauntii | 217008 | [217008-hauntii.json](./217008-hauntii.json) |
 | Haunting At Cliffhouse | 158552 | [158552-haunting-at-cliffhouse.json](./158552-haunting-at-cliffhouse.json) |
 | Haunting Ground | 14605 | [14605-haunting-ground.json](./14605-haunting-ground.json) |
+| Haunting Hijinx | 340420 | [340420-haunting-hijinx.json](./340420-haunting-hijinx.json) |
 | Haunting Hollow | 269758 | [269758-haunting-hollow.json](./269758-haunting-hollow.json) |
 | Haunting Invitation | 388977 | [388977-haunting-invitation.json](./388977-haunting-invitation.json) |
 | Haunting Memories | 337671 | [337671-haunting-memories.json](./337671-haunting-memories.json) |
@@ -1831,6 +1834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Head over Heels | 322797 | [322797-head-over-heels.json](./322797-head-over-heels.json) |
 | Head Over Heels | 121632 | [121632-head-over-heels.json](./121632-head-over-heels.json) |
 | Head Over Heels | 208281 | [208281-head-over-heels.json](./208281-head-over-heels.json) |
+| Head Over Heels: Deluxe | 340421 | [340421-head-over-heels-deluxe.json](./340421-head-over-heels-deluxe.json) |
 | Head Over Heels: Monster Girl Dating Sim | 271397 | [271397-head-over-heels-monster-girl-dating-sim.json](./271397-head-over-heels-monster-girl-dating-sim.json) |
 | Head Panic | 39683 | [39683-head-panic.json](./39683-head-panic.json) |
 | Head Reattachment Trauma | 271249 | [271249-head-reattachment-trauma.json](./271249-head-reattachment-trauma.json) |
@@ -1898,6 +1902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Healing Hearts | 337702 | [337702-healing-hearts.json](./337702-healing-hearts.json) |
 | Healslut | 217999 | [217999-healslut.json](./217999-healslut.json) |
 | Health & Fitness Club Tycoon | 146200 | [146200-health-and-fitness-club-tycoon.json](./146200-health-and-fitness-club-tycoon.json) |
+| Health Insurance Claim Denier | 340422 | [340422-health-insurance-claim-denier.json](./340422-health-insurance-claim-denier.json) |
 | Health Ninja | 365760 | [365760-health-ninja.json](./365760-health-ninja.json) |
 | Healthy Breakfast | 117674 | [117674-healthy-breakfast.json](./117674-healthy-breakfast.json) |
 | Healthy Hero: Tower Defense | 284921 | [284921-healthy-hero-tower-defense.json](./284921-healthy-hero-tower-defense.json) |
@@ -2101,6 +2106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heathcliff: Fun with Spelling | 325097 | [325097-heathcliff-fun-with-spelling.json](./325097-heathcliff-fun-with-spelling.json) |
 | Heathcliff: Spot On | 84526 | [84526-heathcliff-spot-on.json](./84526-heathcliff-spot-on.json) |
 | Heathen | 401473 | [401473-heathen.json](./401473-heathen.json) |
+| Heather Wreath: The Reporter | 340423 | [340423-heather-wreath-the-reporter.json](./340423-heather-wreath-the-reporter.json) |
 | Heathkit DND | 2881 | [2881-heathkit-dnd.json](./2881-heathkit-dnd.json) |
 | Heathrow International Air Traffic Control | 133440 | [133440-heathrow-international-air-traffic-control.json](./133440-heathrow-international-air-traffic-control.json) |
 | Heatos | 57748 | [57748-heatos.json](./57748-heatos.json) |
@@ -2139,6 +2145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heaven's Glaive | 387362 | [387362-heavens-glaive.json](./387362-heavens-glaive.json) |
 | Heaven's Grave | 121473 | [121473-heavens-grave.json](./121473-heavens-grave.json) |
 | Heaven's Hope | 17992 | [17992-heavens-hope.json](./17992-heavens-hope.json) |
+| Heaven's Ladder | 340424 | [340424-heavens-ladder.json](./340424-heavens-ladder.json) |
 | Heaven's Machine | 181296 | [181296-heavens-machine.json](./181296-heavens-machine.json) |
 | Heaven's Palace | 362725 | [362725-heavens-palace.json](./362725-heavens-palace.json) |
 | Heavenhells | 393771 | [393771-heavenhells.json](./393771-heavenhells.json) |
@@ -2245,6 +2252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hedrox 2 | 274180 | [274180-hedrox-2.json](./274180-hedrox-2.json) |
 | Heed | 169984 | [169984-heed.json](./169984-heed.json) |
 | Heeey! Park-Boy | 142096 | [142096-heeey-park-boy.json](./142096-heeey-park-boy.json) |
+| Heffelfinger | 340425 | [340425-heffelfinger.json](./340425-heffelfinger.json) |
 | Hegemony III: Isle of Giants | 142896 | [142896-hegemony-iii-isle-of-giants.json](./142896-hegemony-iii-isle-of-giants.json) |
 | Hegemony III: The Eagle King | 142895 | [142895-hegemony-iii-the-eagle-king.json](./142895-hegemony-iii-the-eagle-king.json) |
 | Hegemony Rome: Rise of Caesar | 54099 | [54099-hegemony-rome-rise-of-caesar.json](./54099-hegemony-rome-rise-of-caesar.json) |
@@ -2722,6 +2730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello Space | 348342 | [348342-hello-space.json](./348342-hello-space.json) |
 | Hello Squidward. Sponge Bob's Neighbor 3D | 99189 | [99189-hello-squidward-sponge-bobs-neighbor-3d.json](./99189-hello-squidward-sponge-bobs-neighbor-3d.json) |
 | Hello Stars | 103166 | [103166-hello-stars.json](./103166-hello-stars.json) |
+| Hello Stranger | 340426 | [340426-hello-stranger.json](./340426-hello-stranger.json) |
 | Hello Sunshine | 335658 | [335658-hello-sunshine.json](./335658-hello-sunshine.json) |
 | Hello Tale | 224103 | [224103-hello-tale.json](./224103-hello-tale.json) |
 | Hello Teacher | 154367 | [154367-hello-teacher.json](./154367-hello-teacher.json) |
@@ -2863,6 +2872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Age Vacation | 384706 | [384706-hentai-age-vacation.json](./384706-hentai-age-vacation.json) |
 | Hentai Ahegao | 111270 | [111270-hentai-ahegao.json](./111270-hentai-ahegao.json) |
 | Hentai Aim Practice | 219832 | [219832-hentai-aim-practice.json](./219832-hentai-aim-practice.json) |
+| Hentai Aina | 340427 | [340427-hentai-aina.json](./340427-hentai-aina.json) |
 | Hentai Akari | 312719 | [312719-hentai-akari.json](./312719-hentai-akari.json) |
 | Hentai Akira | 411069 | [411069-hentai-akira.json](./411069-hentai-akira.json) |
 | Hentai Amazon Girls | 368011 | [368011-hentai-amazon-girls.json](./368011-hentai-amazon-girls.json) |
@@ -2893,6 +2903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Celestia | 369376 | [369376-hentai-celestia.json](./369376-hentai-celestia.json) |
 | Hentai Cheerleader | 239749 | [239749-hentai-cheerleader.json](./239749-hentai-cheerleader.json) |
 | Hentai Chicks 2 | 149415 | [149415-hentai-chicks-2.json](./149415-hentai-chicks-2.json) |
+| Hentai Cho | 340428 | [340428-hentai-cho.json](./340428-hentai-cho.json) |
 | Hentai Cleopatra | 370009 | [370009-hentai-cleopatra.json](./370009-hentai-cleopatra.json) |
 | Hentai Clicker: Alerinna Is Streaming | 371383 | [371383-hentai-clicker-alerinna-is-streaming.json](./371383-hentai-clicker-alerinna-is-streaming.json) |
 | Hentai Clicker: Bethy Is Streaming | 389609 | [389609-hentai-clicker-bethy-is-streaming.json](./389609-hentai-clicker-bethy-is-streaming.json) |
@@ -2900,6 +2911,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Clicker: Emy Is Streaming | 371384 | [371384-hentai-clicker-emy-is-streaming.json](./371384-hentai-clicker-emy-is-streaming.json) |
 | Hentai Clicker: Eva Is Streaming | 389610 | [389610-hentai-clicker-eva-is-streaming.json](./389610-hentai-clicker-eva-is-streaming.json) |
 | Hentai Clicker: Hanma Is Streaming | 370768 | [370768-hentai-clicker-hanma-is-streaming.json](./370768-hentai-clicker-hanma-is-streaming.json) |
+| Hentai Clicker: Kristina is streaming | 340429 | [340429-hentai-clicker-kristina-is-streaming.json](./340429-hentai-clicker-kristina-is-streaming.json) |
+| Hentai Clicker: Lily is streaming | 340430 | [340430-hentai-clicker-lily-is-streaming.json](./340430-hentai-clicker-lily-is-streaming.json) |
+| Hentai Clicker: Maria is streaming | 340431 | [340431-hentai-clicker-maria-is-streaming.json](./340431-hentai-clicker-maria-is-streaming.json) |
 | Hentai Clicker: Midori is Streaming | 371385 | [371385-hentai-clicker-midori-is-streaming.json](./371385-hentai-clicker-midori-is-streaming.json) |
 | Hentai Clicker: Nina is Streaming | 371389 | [371389-hentai-clicker-nina-is-streaming.json](./371389-hentai-clicker-nina-is-streaming.json) |
 | Hentai Clicker: Reika is Streaming | 371391 | [371391-hentai-clicker-reika-is-streaming.json](./371391-hentai-clicker-reika-is-streaming.json) |
@@ -2932,6 +2946,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Direct-Her | 263192 | [263192-hentai-direct-her.json](./263192-hentai-direct-her.json) |
 | Hentai Dream | 208371 | [208371-hentai-dream.json](./208371-hentai-dream.json) |
 | Hentai Elf | 296686 | [296686-hentai-elf.json](./296686-hentai-elf.json) |
+| Hentai Elizabeth | 340432 | [340432-hentai-elizabeth.json](./340432-hentai-elizabeth.json) |
+| Hentai Emiko | 340433 | [340433-hentai-emiko.json](./340433-hentai-emiko.json) |
 | Hentai EroCum | 235891 | [235891-hentai-erocum.json](./235891-hentai-erocum.json) |
 | Hentai EroElf | 233091 | [233091-hentai-eroelf.json](./233091-hentai-eroelf.json) |
 | Hentai Evangeline | 372486 | [372486-hentai-evangeline.json](./372486-hentai-evangeline.json) |
@@ -2945,6 +2961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Forever | 149425 | [149425-hentai-forever.json](./149425-hentai-forever.json) |
 | Hentai Fox | 310938 | [310938-hentai-fox.json](./310938-hentai-fox.json) |
 | Hentai Frames | 381801 | [381801-hentai-frames.json](./381801-hentai-frames.json) |
+| Hentai Furry | 340434 | [340434-hentai-furry.json](./340434-hentai-furry.json) |
 | Hentai Furry Bunny | 347768 | [347768-hentai-furry-bunny.json](./347768-hentai-furry-bunny.json) |
 | Hentai Furry Goat | 411126 | [411126-hentai-furry-goat.json](./411126-hentai-furry-goat.json) |
 | Hentai Furry Milf | 384701 | [384701-hentai-furry-milf.json](./384701-hentai-furry-milf.json) |
@@ -2965,7 +2982,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Girl Linda | 136428 | [136428-hentai-girl-linda.json](./136428-hentai-girl-linda.json) |
 | Hentai Girls | 251548 | [251548-hentai-girls.json](./251548-hentai-girls.json) |
 | Hentai Girls | 294164 | [294164-hentai-girls.json](./294164-hentai-girls.json) |
+| Hentai Girls Gallery | 340435 | [340435-hentai-girls-gallery.json](./340435-hentai-girls-gallery.json) |
+| Hentai Girls Maid | 340436 | [340436-hentai-girls-maid.json](./340436-hentai-girls-maid.json) |
 | Hentai Girls Nature | 311810 | [311810-hentai-girls-nature.json](./311810-hentai-girls-nature.json) |
+| Hentai Girls Nurse | 340437 | [340437-hentai-girls-nurse.json](./340437-hentai-girls-nurse.json) |
 | Hentai Girls Slide | 277596 | [277596-hentai-girls-slide.json](./277596-hentai-girls-slide.json) |
 | Hentai Girls Special Edition | 263557 | [263557-hentai-girls-special-edition.json](./263557-hentai-girls-special-edition.json) |
 | Hentai Girls: Adorable Angel | 328522 | [328522-hentai-girls-adorable-angel.json](./328522-hentai-girls-adorable-angel.json) |
@@ -3039,6 +3059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Killer: Girls & Chess | 151622 | [151622-hentai-killer-girls-and-chess.json](./151622-hentai-killer-girls-and-chess.json) |
 | Hentai Lady | 110742 | [110742-hentai-lady.json](./110742-hentai-lady.json) |
 | Hentai Ladyboy Ren | 367051 | [367051-hentai-ladyboy-ren.json](./367051-hentai-ladyboy-ren.json) |
+| Hentai Link | 340438 | [340438-hentai-link.json](./340438-hentai-link.json) |
 | Hentai Lucia | 339914 | [339914-hentai-lucia.json](./339914-hentai-lucia.json) |
 | Hentai Lunara | 376108 | [376108-hentai-lunara.json](./376108-hentai-lunara.json) |
 | Hentai Lust | 256923 | [256923-hentai-lust.json](./256923-hentai-lust.json) |
@@ -3050,9 +3071,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Mature Milf | 371368 | [371368-hentai-mature-milf.json](./371368-hentai-mature-milf.json) |
 | Hentai MatureCat | 243162 | [243162-hentai-maturecat.json](./243162-hentai-maturecat.json) |
 | Hentai Maya | 265572 | [265572-hentai-maya.json](./265572-hentai-maya.json) |
+| Hentai Mei | 340439 | [340439-hentai-mei.json](./340439-hentai-mei.json) |
 | Hentai Memorama | 112775 | [112775-hentai-memorama.json](./112775-hentai-memorama.json) |
 | Hentai Memory | 105200 | [105200-hentai-memory.json](./105200-hentai-memory.json) |
 | Hentai Mermaid Sirena | 370469 | [370469-hentai-mermaid-sirena.json](./370469-hentai-mermaid-sirena.json) |
+| Hentai Mia | 340440 | [340440-hentai-mia.json](./340440-hentai-mia.json) |
 | Hentai Midori | 271911 | [271911-hentai-midori.json](./271911-hentai-midori.json) |
 | Hentai Miko | 343754 | [343754-hentai-miko.json](./343754-hentai-miko.json) |
 | Hentai Milf | 296908 | [296908-hentai-milf.json](./296908-hentai-milf.json) |
@@ -3067,6 +3090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Mosaique Fix-IT Shoppe | 139429 | [139429-hentai-mosaique-fix-it-shoppe.json](./139429-hentai-mosaique-fix-it-shoppe.json) |
 | Hentai Mosaique Neko Waifus | 167807 | [167807-hentai-mosaique-neko-waifus.json](./167807-hentai-mosaique-neko-waifus.json) |
 | Hentai Nana | 296947 | [296947-hentai-nana.json](./296947-hentai-nana.json) |
+| Hentai Natsuki | 340441 | [340441-hentai-natsuki.json](./340441-hentai-natsuki.json) |
 | Hentai Nazi | 141506 | [141506-hentai-nazi.json](./141506-hentai-nazi.json) |
 | Hentai Nefiris | 411073 | [411073-hentai-nefiris.json](./411073-hentai-nefiris.json) |
 | Hentai Neko | 223403 | [223403-hentai-neko.json](./223403-hentai-neko.json) |
