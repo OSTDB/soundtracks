@@ -1228,6 +1228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yúnduān zhī Yuē | 164280 | [164280-yunduan-zhi-yue.json](./164280-yunduan-zhi-yue.json) |
 | Yunhanzhi | 366115 | [366115-yunhanzhi.json](./366115-yunhanzhi.json) |
 | Yúnhuāng Xiāoyáozhuàn | 399741 | [399741-yunhuang-xiaoyaozhuan.json](./399741-yunhuang-xiaoyaozhuan.json) |
+| Yunodream | 349800 | [349800-yunodream.json](./349800-yunodream.json) |
 | Yunoha na Spring!: Cherishing Time | 135855 | [135855-yunoha-na-spring-cherishing-time.json](./135855-yunoha-na-spring-cherishing-time.json) |
 | Yunoha na Spring!: Mellow Times for Nintendo Switch | 136836 | [136836-yunoha-na-spring-mellow-times-for-nintendo-switch.json](./136836-yunoha-na-spring-mellow-times-for-nintendo-switch.json) |
 | Yunoha na Spring!: Welcome to Fukujuro | 13019 | [13019-yunoha-na-spring-welcome-to-fukujuro.json](./13019-yunoha-na-spring-welcome-to-fukujuro.json) |
