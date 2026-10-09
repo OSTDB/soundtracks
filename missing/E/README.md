@@ -1288,6 +1288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ElektraGlide | 13632 | [13632-elektraglide.json](./13632-elektraglide.json) |
 | Elektrik | 76153 | [76153-elektrik.json](./76153-elektrik.json) |
 | Elektrosoul | 207197 | [207197-elektrosoul.json](./207197-elektrosoul.json) |
+| Elemasta | 342021 | [342021-elemasta.json](./342021-elemasta.json) |
 | Elemates | 207525 | [207525-elemates.json](./207525-elemates.json) |
 | Elemencraft | 194012 | [194012-elemencraft.json](./194012-elemencraft.json) |
 | Elemency Island | 379130 | [379130-elemency-island.json](./379130-elemency-island.json) |
@@ -3521,6 +3522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal of Swordsman | 194033 | [194033-eternal-of-swordsman.json](./194033-eternal-of-swordsman.json) |
 | Eternal One | 369096 | [369096-eternal-one.json](./369096-eternal-one.json) |
 | Eternal One: Memories of Kumo Island | 369760 | [369760-eternal-one-memories-of-kumo-island.json](./369760-eternal-one-memories-of-kumo-island.json) |
+| Eternal Palace Sakura | 342002 | [342002-eternal-palace-sakura.json](./342002-eternal-palace-sakura.json) |
 | Eternal Perk | 142133 | [142133-eternal-perk.json](./142133-eternal-perk.json) |
 | Eternal Poison | 21334 | [21334-eternal-poison.json](./21334-eternal-poison.json) |
 | Eternal Quest | 43353 | [43353-eternal-quest.json](./43353-eternal-quest.json) |
