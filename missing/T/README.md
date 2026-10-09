@@ -2404,6 +2404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Temple Roll | 256231 | [256231-temple-roll.json](./256231-temple-roll.json) |
 | Temple Run 2 | 336388 | [336388-temple-run-2.json](./336388-temple-run-2.json) |
 | Temple Run 3 | 380808 | [380808-temple-run-3.json](./380808-temple-run-3.json) |
+| Temple Run VR | 358824 | [358824-temple-run-vr.json](./358824-temple-run-vr.json) |
 | Temple Run: Oz | 63613 | [63613-temple-run-oz.json](./63613-temple-run-oz.json) |
 | Temple Run: Treasure Hunters | 233503 | [233503-temple-run-treasure-hunters.json](./233503-temple-run-treasure-hunters.json) |
 | Temple with Traps | 167166 | [167166-temple-with-traps.json](./167166-temple-with-traps.json) |
@@ -4648,6 +4649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Crafting Dead | 97133 | [97133-the-crafting-dead.json](./97133-the-crafting-dead.json) |
 | The Crane Rider's Tale | 400355 | [400355-the-crane-riders-tale.json](./400355-the-crane-riders-tale.json) |
 | The Crawler | 304159 | [304159-the-crawler.json](./304159-the-crawler.json) |
+| The Crawling Dead | 358799 | [358799-the-crawling-dead.json](./358799-the-crawling-dead.json) |
 | The Crayon Factory | 66962 | [66962-the-crayon-factory.json](./66962-the-crayon-factory.json) |
 | The Crazed Chicken | 71000 | [71000-the-crazed-chicken.json](./71000-the-crazed-chicken.json) |
 | The Crazy Cookies! | 112869 | [112869-the-crazy-cookies.json](./112869-the-crazy-cookies.json) |
@@ -12368,6 +12370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Throne and Crown | 193277 | [193277-throne-and-crown.json](./193277-throne-and-crown.json) |
 | Throne and Liberty | 117294 | [117294-throne-and-liberty.json](./117294-throne-and-liberty.json) |
 | Throne of Belial | 299851 | [299851-throne-of-belial.json](./299851-throne-of-belial.json) |
+| Throne of Blood | 358823 | [358823-throne-of-blood.json](./358823-throne-of-blood.json) |
 | Throne of Bone | 207355 | [207355-throne-of-bone.json](./207355-throne-of-bone.json) |
 | Throne of Darkness | 9913 | [9913-throne-of-darkness.json](./9913-throne-of-darkness.json) |
 | Throne of Egypt | 356707 | [356707-throne-of-egypt.json](./356707-throne-of-egypt.json) |
@@ -14353,6 +14356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tire Boy | 347680 | [347680-tire-boy.json](./347680-tire-boy.json) |
 | Tire Fire Rally | 400553 | [400553-tire-fire-rally.json](./400553-tire-fire-rally.json) |
 | Tire Friend | 129100 | [129100-tire-friend.json](./129100-tire-friend.json) |
+| Tired | 358813 | [358813-tired.json](./358813-tired.json) |
 | Tired of Being the Hero | 353294 | [353294-tired-of-being-the-hero.json](./353294-tired-of-being-the-hero.json) |
 | Tired to Fall | 329225 | [329225-tired-to-fall.json](./329225-tired-to-fall.json) |
 | Tiredspace | 225717 | [225717-tiredspace.json](./225717-tiredspace.json) |
