@@ -108,8 +108,17 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Collection of Bad Moments | 68618 | [68618-a-collection-of-bad-moments.json](./68618-a-collection-of-bad-moments.json) |
 | A Collection of Intellivision Classic Games | 65901 | [65901-a-collection-of-intellivision-classic-games.json](./65901-a-collection-of-intellivision-classic-games.json) |
 | A Coloring Break | 326233 | [326233-a-coloring-break.json](./326233-a-coloring-break.json) |
+| A Coloring Break: Expansion pack 1 | 357765 | [357765-a-coloring-break-expansion-pack-1.json](./357765-a-coloring-break-expansion-pack-1.json) |
+| A Coloring Break: Expansion pack 10 | 357766 | [357766-a-coloring-break-expansion-pack-10.json](./357766-a-coloring-break-expansion-pack-10.json) |
+| A Coloring Break: Expansion pack 11 | 357767 | [357767-a-coloring-break-expansion-pack-11.json](./357767-a-coloring-break-expansion-pack-11.json) |
+| A Coloring Break: Expansion pack 2 | 357768 | [357768-a-coloring-break-expansion-pack-2.json](./357768-a-coloring-break-expansion-pack-2.json) |
+| A Coloring Break: Expansion pack 3 | 357769 | [357769-a-coloring-break-expansion-pack-3.json](./357769-a-coloring-break-expansion-pack-3.json) |
+| A Coloring Break: Expansion pack 4 | 357770 | [357770-a-coloring-break-expansion-pack-4.json](./357770-a-coloring-break-expansion-pack-4.json) |
+| A Coloring Break: Expansion pack 5 | 357771 | [357771-a-coloring-break-expansion-pack-5.json](./357771-a-coloring-break-expansion-pack-5.json) |
 | A Coloring Break: Expansion pack 6 | 357772 | [357772-a-coloring-break-expansion-pack-6.json](./357772-a-coloring-break-expansion-pack-6.json) |
+| A Coloring Break: Expansion pack 7 | 357773 | [357773-a-coloring-break-expansion-pack-7.json](./357773-a-coloring-break-expansion-pack-7.json) |
 | A Coloring Break: Expansion pack 8 | 357774 | [357774-a-coloring-break-expansion-pack-8.json](./357774-a-coloring-break-expansion-pack-8.json) |
+| A Coloring Break: Expansion pack 9 | 357775 | [357775-a-coloring-break-expansion-pack-9.json](./357775-a-coloring-break-expansion-pack-9.json) |
 | A Colour Like No Other | 177351 | [177351-a-colour-like-no-other.json](./177351-a-colour-like-no-other.json) |
 | A Comfy Place | 342271 | [342271-a-comfy-place.json](./342271-a-comfy-place.json) |
 | A Compendium of Ghosts | 102155 | [102155-a-compendium-of-ghosts.json](./102155-a-compendium-of-ghosts.json) |
@@ -1508,6 +1517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Across the Obelisk | 143000 | [143000-across-the-obelisk.json](./143000-across-the-obelisk.json) |
 | Across the Obelisk: Bernard, the Alchemist | 357777 | [357777-across-the-obelisk-bernard-the-alchemist.json](./357777-across-the-obelisk-bernard-the-alchemist.json) |
 | Across the Obelisk: Necropolis Of The Damned | 378904 | [378904-across-the-obelisk-necropolis-of-the-damned.json](./378904-across-the-obelisk-necropolis-of-the-damned.json) |
+| Across the Obelisk: Shores of Sahti | 357778 | [357778-across-the-obelisk-shores-of-sahti.json](./357778-across-the-obelisk-shores-of-sahti.json) |
 | Across the Obelisk: Sigrun, the Valkyrie | 357779 | [357779-across-the-obelisk-sigrun-the-valkyrie.json](./357779-across-the-obelisk-sigrun-the-valkyrie.json) |
 | Across the Obelisk: The Wolf Wars | 240895 | [240895-across-the-obelisk-the-wolf-wars.json](./240895-across-the-obelisk-the-wolf-wars.json) |
 | Across the River | 334487 | [334487-across-the-river.json](./334487-across-the-river.json) |
@@ -2006,6 +2016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures in the Galaxy of Fantabulous Wonderment | 23739 | [23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json](./23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json) |
 | Adventures in the Light & Dark | 102316 | [102316-adventures-in-the-light-and-dark.json](./102316-adventures-in-the-light-and-dark.json) |
 | Adventures in the Magic Kingdom | 8130 | [8130-adventures-in-the-magic-kingdom.json](./8130-adventures-in-the-magic-kingdom.json) |
+| Adventures In Time & Space | 342233 | [342233-adventures-in-time-and-space.json](./342233-adventures-in-time-and-space.json) |
 | Adventures of a Radish | 134695 | [134695-adventures-of-a-radish.json](./134695-adventures-of-a-radish.json) |
 | Adventures of Abrix | 29918 | [29918-adventures-of-abrix.json](./29918-adventures-of-abrix.json) |
 | Adventures of Beetlejuice: Skeletons in the Closet | 50826 | [50826-adventures-of-beetlejuice-skeletons-in-the-closet.json](./50826-adventures-of-beetlejuice-skeletons-in-the-closet.json) |
