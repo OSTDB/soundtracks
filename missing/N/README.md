@@ -4625,6 +4625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nurujiru | 97671 | [97671-nurujiru.json](./97671-nurujiru.json) |
 | Nusakana | 34496 | [34496-nusakana.json](./34496-nusakana.json) |
 | Nusantara | 240772 | [240772-nusantara.json](./240772-nusantara.json) |
+| Nusantara: Bermuda | 361034 | [361034-nusantara-bermuda.json](./361034-nusantara-bermuda.json) |
 | Nusantara: Bermuda Triangle | 177329 | [177329-nusantara-bermuda-triangle.json](./177329-nusantara-bermuda-triangle.json) |
 | Nushi Tsuri Adventure: Kite no Bouken | 50560 | [50560-nushi-tsuri-adventure-kite-no-bouken.json](./50560-nushi-tsuri-adventure-kite-no-bouken.json) |
 | Nusnur | 330248 | [330248-nusnur.json](./330248-nusnur.json) |
