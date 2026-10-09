@@ -1100,6 +1100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Papo World Playground | 299239 | [299239-papo-world-playground.json](./299239-papo-world-playground.json) |
 | Papper Balls | 110539 | [110539-papper-balls.json](./110539-papper-balls.json) |
 | Paprika Trainer | 280263 | [280263-paprika-trainer.json](./280263-paprika-trainer.json) |
+| Paprika x Persona False God Reincarnation | 386466 | [386466-paprika-x-persona-false-god-reincarnation.json](./386466-paprika-x-persona-false-god-reincarnation.json) |
 | Paprium | 55107 | [55107-paprium.json](./55107-paprium.json) |
 | Papuan Dominatrixes Are the Best | 385704 | [385704-papuan-dominatrixes-are-the-best.json](./385704-papuan-dominatrixes-are-the-best.json) |
 | Papy Panic | 391263 | [391263-papy-panic.json](./391263-papy-panic.json) |
@@ -3461,6 +3462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Piàozhě! Xiǎohuì de Dǎgōng Dàzuòzhàn | 156626 | [156626-piaozhe-xiaohui-de-dagong-dazuozhan.json](./156626-piaozhe-xiaohui-de-dagong-dazuozhan.json) |
 | Pibby: Apocalypse | 266182 | [266182-pibby-apocalypse.json](./266182-pibby-apocalypse.json) |
 | Pic Guesser | 28736 | [28736-pic-guesser.json](./28736-pic-guesser.json) |
+| Pic Happens! | 386471 | [386471-pic-happens.json](./386471-pic-happens.json) |
 | Pic-a-Pix Color 2 | 120799 | [120799-pic-a-pix-color-2.json](./120799-pic-a-pix-color-2.json) |
 | Pic-a-Pix Pieces: 15x15 Pieces Pack 1 | 404289 | [404289-pic-a-pix-pieces-15x15-pieces-pack-1.json](./404289-pic-a-pix-pieces-15x15-pieces-pack-1.json) |
 | Pic-a-Pix Pieces: 15x15 Pieces Pack 10 | 404290 | [404290-pic-a-pix-pieces-15x15-pieces-pack-10.json](./404290-pic-a-pix-pieces-15x15-pieces-pack-10.json) |
@@ -7757,6 +7759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Hour | 11054 | [11054-power-hour.json](./11054-power-hour.json) |
 | Power in a Name | 185502 | [185502-power-in-a-name.json](./185502-power-in-a-name.json) |
 | Power Inc | 265747 | [265747-power-inc.json](./265747-power-inc.json) |
+| Power Inherited | 386495 | [386495-power-inherited.json](./386495-power-inherited.json) |
 | Power Instinct | 4476 | [4476-power-instinct.json](./4476-power-instinct.json) |
 | Power Instinct Legends | 39548 | [39548-power-instinct-legends.json](./39548-power-instinct-legends.json) |
 | Power Instinct Matrimelee | 39543 | [39543-power-instinct-matrimelee.json](./39543-power-instinct-matrimelee.json) |
