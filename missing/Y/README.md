@@ -1088,6 +1088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yuki Nime | 229730 | [229730-yuki-nime.json](./229730-yuki-nime.json) |
 | Yuki Onna | 126993 | [126993-yuki-onna.json](./126993-yuki-onna.json) |
 | Yuki: Space Ranger | 159032 | [159032-yuki-space-ranger.json](./159032-yuki-space-ranger.json) |
+| Yuki's Symphony | 362751 | [362751-yukis-symphony.json](./362751-yukis-symphony.json) |
 | Yukigatari | 268662 | [268662-yukigatari.json](./268662-yukigatari.json) |
 | Yukigatari | 268663 | [268663-yukigatari.json](./268663-yukigatari.json) |
 | Yukigatari Renewal | 268664 | [268664-yukigatari-renewal.json](./268664-yukigatari-renewal.json) |
