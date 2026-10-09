@@ -5150,6 +5150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Colors: Everyday Pixels | 195230 | [195230-love-colors-everyday-pixels.json](./195230-love-colors-everyday-pixels.json) |
 | Love Colors: Pixel Seasons | 195229 | [195229-love-colors-pixel-seasons.json](./195229-love-colors-pixel-seasons.json) |
 | Love Com: Punch de Konto | 61443 | [61443-love-com-punch-de-konto.json](./61443-love-com-punch-de-konto.json) |
+| Love Confessions on the Adventure | 349271 | [349271-love-confessions-on-the-adventure.json](./349271-love-confessions-on-the-adventure.json) |
 | Love Connect | 268992 | [268992-love-connect.json](./268992-love-connect.json) |
 | Love Connection! | 242789 | [242789-love-connection.json](./242789-love-connection.json) |
 | Love Cooking at Home? Turn your Hobby into a Business! | 156122 | [156122-love-cooking-at-home-turn-your-hobby-into-a-business.json](./156122-love-cooking-at-home-turn-your-hobby-into-a-business.json) |
