@@ -445,6 +445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echo of Migration | 258617 | [258617-echo-of-migration.json](./258617-echo-of-migration.json) |
 | Echo of Mobius | 303509 | [303509-echo-of-mobius.json](./303509-echo-of-mobius.json) |
 | Echo of Prypiat | 303508 | [303508-echo-of-prypiat.json](./303508-echo-of-prypiat.json) |
+| Echo of the DarkZone | 374949 | [374949-echo-of-the-darkzone.json](./374949-echo-of-the-darkzone.json) |
 | Echo of the Last Light | 226812 | [226812-echo-of-the-last-light.json](./226812-echo-of-the-last-light.json) |
 | Echo of the Wilds | 17514 | [17514-echo-of-the-wilds.json](./17514-echo-of-the-wilds.json) |
 | Echo Pandemic | 404333 | [404333-echo-pandemic.json](./404333-echo-pandemic.json) |
@@ -501,6 +502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echoes of Formosa: Agent Reborn | 325059 | [325059-echoes-of-formosa-agent-reborn.json](./325059-echoes-of-formosa-agent-reborn.json) |
 | Echoes of Karma | 259622 | [259622-echoes-of-karma.json](./259622-echoes-of-karma.json) |
 | Echoes of Kyria | 414564 | [414564-echoes-of-kyria.json](./414564-echoes-of-kyria.json) |
+| Echoes of Light | 374939 | [374939-echoes-of-light.json](./374939-echoes-of-light.json) |
 | Echoes of Light: Child of the Balance | 351795 | [351795-echoes-of-light-child-of-the-balance.json](./351795-echoes-of-light-child-of-the-balance.json) |
 | Echoes of Lyra | 418541 | [418541-echoes-of-lyra.json](./418541-echoes-of-lyra.json) |
 | Echoes of Magic | 194024 | [194024-echoes-of-magic.json](./194024-echoes-of-magic.json) |
