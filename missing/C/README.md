@@ -1260,6 +1260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Card & Digital | 385324 | [385324-card-and-digital.json](./385324-card-and-digital.json) |
 | Card & Puzzle Collection Ginga | 365679 | [365679-card-and-puzzle-collection-ginga.json](./365679-card-and-puzzle-collection-ginga.json) |
 | Card Adventure | 187271 | [187271-card-adventure.json](./187271-card-adventure.json) |
+| Card Artisan | 366129 | [366129-card-artisan.json](./366129-card-artisan.json) |
 | Card Battle Spirit Link | 107742 | [107742-card-battle-spirit-link.json](./107742-card-battle-spirit-link.json) |
 | Card Blast | 204966 | [204966-card-blast.json](./204966-card-blast.json) |
 | Card Blitz: WWII | 133235 | [133235-card-blitz-wwii.json](./133235-card-blitz-wwii.json) |
@@ -2875,6 +2876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Celeste Classic | 215762 | [215762-celeste-classic.json](./215762-celeste-classic.json) |
 | Celeste Classic | 86148 | [86148-celeste-classic.json](./86148-celeste-classic.json) |
 | Celeste Classic 2: Lani's Trek | 142841 | [142841-celeste-classic-2-lanis-trek.json](./142841-celeste-classic-2-lanis-trek.json) |
+| Celeste Classic 2: Lani's Trek | 366101 | [366101-celeste-classic-2-lanis-trek.json](./366101-celeste-classic-2-lanis-trek.json) |
 | Celeste Fusion Collab | 358282 | [358282-celeste-fusion-collab.json](./358282-celeste-fusion-collab.json) |
 | Celeste: Farewell | 122556 | [122556-celeste-farewell.json](./122556-celeste-farewell.json) |
 | Celestia | 183432 | [183432-celestia.json](./183432-celestia.json) |
@@ -3596,6 +3598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Check vs. Mate: Dark Desert DLC | 142983 | [142983-check-vs-mate-dark-desert-dlc.json](./142983-check-vs-mate-dark-desert-dlc.json) |
 | Check vs. Mate: Floating Island DLC | 142984 | [142984-check-vs-mate-floating-island-dlc.json](./142984-check-vs-mate-floating-island-dlc.json) |
 | Check-In Chaos | 410448 | [410448-check-in-chaos.json](./410448-check-in-chaos.json) |
+| Checked Out | 366136 | [366136-checked-out.json](./366136-checked-out.json) |
 | Checker Connector | 116952 | [116952-checker-connector.json](./116952-checker-connector.json) |
 | Checkered Flag | 40815 | [40815-checkered-flag.json](./40815-checkered-flag.json) |
 | Checkers | 11151 | [11151-checkers.json](./11151-checkers.json) |
@@ -8751,6 +8754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Survivor | 261980 | [261980-cosmic-survivor.json](./261980-cosmic-survivor.json) |
 | Cosmic Swarm | 18535 | [18535-cosmic-swarm.json](./18535-cosmic-swarm.json) |
 | Cosmic Swarm | 380090 | [380090-cosmic-swarm.json](./380090-cosmic-swarm.json) |
+| Cosmic Tails | 366034 | [366034-cosmic-tails.json](./366034-cosmic-tails.json) |
 | Cosmic Tank | 141200 | [141200-cosmic-tank.json](./141200-cosmic-tank.json) |
 | Cosmic Tankinator | 292548 | [292548-cosmic-tankinator.json](./292548-cosmic-tankinator.json) |
 | Cosmic Tempest | 368603 | [368603-cosmic-tempest.json](./368603-cosmic-tempest.json) |
