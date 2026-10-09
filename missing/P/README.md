@@ -2903,6 +2903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pet Shop Snacks: Expansion Pack 2 | 237982 | [237982-pet-shop-snacks-expansion-pack-2.json](./237982-pet-shop-snacks-expansion-pack-2.json) |
 | Pet Shop Snacks: Extended Edition | 222233 | [222233-pet-shop-snacks-extended-edition.json](./222233-pet-shop-snacks-extended-edition.json) |
 | Pet Show Craze | 177041 | [177041-pet-show-craze.json](./177041-pet-show-craze.json) |
+| Pet Show: Wild Edition | 362216 | [362216-pet-show-wild-edition.json](./362216-pet-show-wild-edition.json) |
 | Pet Shows | 9736 | [9736-pet-shows.json](./9736-pet-shows.json) |
 | Pet Store Panic | 32789 | [32789-pet-store-panic.json](./32789-pet-store-panic.json) |
 | Pet Street Story | 373691 | [373691-pet-street-story.json](./373691-pet-street-story.json) |
@@ -3704,6 +3705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Picture Perfect: Hair Salon | 209965 | [209965-picture-perfect-hair-salon.json](./209965-picture-perfect-hair-salon.json) |
 | Picture Puzzle | 269636 | [269636-picture-puzzle.json](./269636-picture-puzzle.json) |
 | Picture Puzzle Collection: The Dutch Masters | 209964 | [209964-picture-puzzle-collection-the-dutch-masters.json](./209964-picture-puzzle-collection-the-dutch-masters.json) |
+| Picture the Difference! 2 | 362207 | [362207-picture-the-difference-2.json](./362207-picture-the-difference-2.json) |
 | Picture the Link | 26828 | [26828-picture-the-link.json](./26828-picture-the-link.json) |
 | Picture Toys | 392894 | [392894-picture-toys.json](./392894-picture-toys.json) |
 | Pictureka! Museum Mayhem | 59969 | [59969-pictureka-museum-mayhem.json](./59969-pictureka-museum-mayhem.json) |
@@ -7312,6 +7314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pooliminal | 412202 | [412202-pooliminal.json](./412202-pooliminal.json) |
 | Pools | 274791 | [274791-pools.json](./274791-pools.json) |
 | Pools of Darkness | 12761 | [12761-pools-of-darkness.json](./12761-pools-of-darkness.json) |
+| Poolside Boys Kiss: Passion Fruits Hotel Dating Sim | 362196 | [362196-poolside-boys-kiss-passion-fruits-hotel-dating-sim.json](./362196-poolside-boys-kiss-passion-fruits-hotel-dating-sim.json) |
 | Poolside Girls Kiss: Passion Fruits Hotel Dating Sim | 362364 | [362364-poolside-girls-kiss-passion-fruits-hotel-dating-sim.json](./362364-poolside-girls-kiss-passion-fruits-hotel-dating-sim.json) |
 | Poolside Vigil | 384180 | [384180-poolside-vigil.json](./384180-poolside-vigil.json) |
 | Poom: Miasma Massacre | 229757 | [229757-poom-miasma-massacre.json](./229757-poom-miasma-massacre.json) |
