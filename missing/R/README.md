@@ -1120,6 +1120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Randoville | 244214 | [244214-randoville.json](./244214-randoville.json) |
 | Randungeon | 326073 | [326073-randungeon.json](./326073-randungeon.json) |
 | RanDungeon | 338856 | [338856-randungeon.json](./338856-randungeon.json) |
+| Randy in Sokobanland | 364357 | [364357-randy-in-sokobanland.json](./364357-randy-in-sokobanland.json) |
 | Randy the Racoon | 345061 | [345061-randy-the-racoon.json](./345061-randy-the-racoon.json) |
 | Rangarok End Girls | 309357 | [309357-rangarok-end-girls.json](./309357-rangarok-end-girls.json) |
 | RangBi | 297720 | [297720-rangbi.json](./297720-rangbi.json) |
@@ -2941,6 +2942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Remedy | 150516 | [150516-remedy.json](./150516-remedy.json) |
 | Remedy | 202325 | [202325-remedy.json](./202325-remedy.json) |
 | Remember | 128320 | [128320-remember.json](./128320-remember.json) |
+| Remember Me Before Andromeda | 364366 | [364366-remember-me-before-andromeda.json](./364366-remember-me-before-andromeda.json) |
 | Remember Places? | 177346 | [177346-remember-places.json](./177346-remember-places.json) |
 | Remember Saint Patrick | 335079 | [335079-remember-saint-patrick.json](./335079-remember-saint-patrick.json) |
 | Remember the Flowers | 181297 | [181297-remember-the-flowers.json](./181297-remember-the-flowers.json) |
@@ -4201,6 +4203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ricochet Raven | 370668 | [370668-ricochet-raven.json](./370668-ricochet-raven.json) |
 | Ricochet Riders | 404995 | [404995-ricochet-riders.json](./404995-ricochet-riders.json) |
 | Ricochet Rodeo | 223419 | [223419-ricochet-rodeo.json](./223419-ricochet-rodeo.json) |
+| Ricochet Squad | 364403 | [364403-ricochet-squad.json](./364403-ricochet-squad.json) |
 | Ricochet Theory | 57736 | [57736-ricochet-theory.json](./57736-ricochet-theory.json) |
 | Ricochet Theory 2 | 57733 | [57733-ricochet-theory-2.json](./57733-ricochet-theory-2.json) |
 | Ricochet Xtreme | 70421 | [70421-ricochet-xtreme.json](./70421-ricochet-xtreme.json) |
