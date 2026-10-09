@@ -1045,6 +1045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eizoku | 134519 | [134519-eizoku.json](./134519-eizoku.json) |
 | EJ Puzzles: Hooked | 85106 | [85106-ej-puzzles-hooked.json](./85106-ej-puzzles-hooked.json) |
 | Eject Bombin' | 182923 | [182923-eject-bombin.json](./182923-eject-bombin.json) |
+| Ekholux | 374399 | [374399-ekholux.json](./374399-ekholux.json) |
 | Eklips | 174180 | [174180-eklips.json](./174180-eklips.json) |
 | Eko | 223673 | [223673-eko.json](./223673-eko.json) |
 | Eko Eko Azarak: Wizard of Darkness | 376543 | [376543-eko-eko-azarak-wizard-of-darkness.json](./376543-eko-eko-azarak-wizard-of-darkness.json) |
