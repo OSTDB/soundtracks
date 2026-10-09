@@ -5148,6 +5148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hole io & Helix Jump | 315836 | [315836-hole-io-and-helix-jump.json](./315836-hole-io-and-helix-jump.json) |
 | Hole io: Ancient DLC | 309081 | [309081-hole-io-ancient-dlc.json](./309081-hole-io-ancient-dlc.json) |
 | Hole io: Animals DLC | 263554 | [263554-hole-io-animals-dlc.json](./263554-hole-io-animals-dlc.json) |
+| Hole io: Apocalypse DLC | 346005 | [346005-hole-io-apocalypse-dlc.json](./346005-hole-io-apocalypse-dlc.json) |
 | Hole io: Blossom Edition | 378958 | [378958-hole-io-blossom-edition.json](./378958-hole-io-blossom-edition.json) |
 | Hole io: Complete Edition | 268563 | [268563-hole-io-complete-edition.json](./268563-hole-io-complete-edition.json) |
 | Hole io: Construction DLC | 380392 | [380392-hole-io-construction-dlc.json](./380392-hole-io-construction-dlc.json) |
@@ -5309,10 +5310,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hololive Holo's Hanafuda | 339960 | [339960-hololive-holos-hanafuda.json](./339960-hololive-holos-hanafuda.json) |
 | Hololive Horror | 210581 | [210581-hololive-horror.json](./210581-hololive-horror.json) |
 | Hololive Treasure Mountain | 311821 | [311821-hololive-treasure-mountain.json](./311821-hololive-treasure-mountain.json) |
+| Hololive Treasure Mountain MegaPack | 346007 | [346007-hololive-treasure-mountain-megapack.json](./346007-hololive-treasure-mountain-megapack.json) |
 | Hololore: Amethyst | 266868 | [266868-hololore-amethyst.json](./266868-hololore-amethyst.json) |
 | Holonglide | 106611 | [106611-holonglide.json](./106611-holonglide.json) |
 | Holonomy | 310570 | [310570-holonomy.json](./310570-holonomy.json) |
 | HoloParade | 276842 | [276842-holoparade.json](./276842-holoparade.json) |
+| HoloParade: Deluxe Edition | 346003 | [346003-holoparade-deluxe-edition.json](./346003-holoparade-deluxe-edition.json) |
 | HoloParade: DLC with BGM and Costume - Shirakami Fubuki | 302580 | [302580-holoparade-dlc-with-bgm-and-costume-shirakami-fubuki.json](./302580-holoparade-dlc-with-bgm-and-costume-shirakami-fubuki.json) |
 | Holopoint | 33147 | [33147-holopoint.json](./33147-holopoint.json) |
 | Holopoint: Chronicle | 112808 | [112808-holopoint-chronicle.json](./112808-holopoint-chronicle.json) |
