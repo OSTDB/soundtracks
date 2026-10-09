@@ -796,6 +796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Velocity 2X: Daily Sprint | 250380 | [250380-velocity-2x-daily-sprint.json](./250380-velocity-2x-daily-sprint.json) |
 | Velocity 2X: Dual Core DLC Pack | 250377 | [250377-velocity-2x-dual-core-dlc-pack.json](./250377-velocity-2x-dual-core-dlc-pack.json) |
 | Velocity Classics: Volume 1 | 84252 | [84252-velocity-classics-volume-1.json](./84252-velocity-classics-volume-1.json) |
+| Velocity One | 357199 | [357199-velocity-one.json](./357199-velocity-one.json) |
 | Velocity Racing: 1000 | 359572 | [359572-velocity-racing-1000.json](./359572-velocity-racing-1000.json) |
 | Velocity Redux | 413229 | [413229-velocity-redux.json](./413229-velocity-redux.json) |
 | Velocity Rift | 377299 | [377299-velocity-rift.json](./377299-velocity-rift.json) |
