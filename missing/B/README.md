@@ -7515,6 +7515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bone Warper | 323777 | [323777-bone-warper.json](./323777-bone-warper.json) |
 | Bone's Cafe | 188921 | [188921-bones-cafe.json](./188921-bones-cafe.json) |
 | BoneBone | 19752 | [19752-bonebone.json](./19752-bonebone.json) |
+| Boned Again: Survivors | 362185 | [362185-boned-again-survivors.json](./362185-boned-again-survivors.json) |
 | Bonedle | 379170 | [379170-bonedle.json](./379170-bonedle.json) |
 | Bonehearts | 395147 | [395147-bonehearts.json](./395147-bonehearts.json) |
 | Bonehold | 366910 | [366910-bonehold.json](./366910-bonehold.json) |
@@ -10334,6 +10335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burger Shift: Team Rush | 391583 | [391583-burger-shift-team-rush.json](./391583-burger-shift-team-rush.json) |
 | Burger Shop 3 | 265102 | [265102-burger-shop-3.json](./265102-burger-shop-3.json) |
 | Burger Shop Simulator 2024 | 326584 | [326584-burger-shop-simulator-2024.json](./326584-burger-shop-simulator-2024.json) |
+| Burger Shot | 362186 | [362186-burger-shot.json](./362186-burger-shot.json) |
 | Burger Story Beach Edition | 97150 | [97150-burger-story-beach-edition.json](./97150-burger-story-beach-edition.json) |
 | Burger Typer | 369713 | [369713-burger-typer.json](./369713-burger-typer.json) |
 | Burger Up | 121037 | [121037-burger-up.json](./121037-burger-up.json) |
