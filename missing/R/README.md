@@ -3011,6 +3011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Remote Life Simulator | 391352 | [391352-remote-life-simulator.json](./391352-remote-life-simulator.json) |
 | Remote Miner Co. | 364028 | [364028-remote-miner-co.json](./364028-remote-miner-co.json) |
 | Remote Planets | 224766 | [224766-remote-planets.json](./224766-remote-planets.json) |
+| Remote Position | 346543 | [346543-remote-position.json](./346543-remote-position.json) |
 | Remote Presence | 275634 | [275634-remote-presence.json](./275634-remote-presence.json) |
 | Remote Racers | 84830 | [84830-remote-racers.json](./84830-remote-racers.json) |
 | Remote Union | 410941 | [410941-remote-union.json](./410941-remote-union.json) |
