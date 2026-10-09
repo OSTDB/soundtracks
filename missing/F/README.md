@@ -6025,9 +6025,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortnight: Elite Commando Action 2 | 103396 | [103396-fortnight-elite-commando-action-2.json](./103396-fortnight-elite-commando-action-2.json) |
 | Fortnite | 231090 | [231090-fortnite.json](./231090-fortnite.json) |
 | Fortnite Ballistic | 325281 | [325281-fortnite-ballistic.json](./325281-fortnite-ballistic.json) |
+| Fortnite Festival: Aaahh Men! | 372794 | [372794-fortnite-festival-aaahh-men.json](./372794-fortnite-festival-aaahh-men.json) |
 | Fortnite Festival: Ain't No Rest For The Wicked | 366340 | [366340-fortnite-festival-aint-no-rest-for-the-wicked.json](./366340-fortnite-festival-aint-no-rest-for-the-wicked.json) |
 | Fortnite Festival: Better Off Alone | 372011 | [372011-fortnite-festival-better-off-alone.json](./372011-fortnite-festival-better-off-alone.json) |
 | Fortnite Festival: Beyond the Flame | 377256 | [377256-fortnite-festival-beyond-the-flame.json](./377256-fortnite-festival-beyond-the-flame.json) |
+| Fortnite Festival: Bling-Bang-Bang-Born | 372800 | [372800-fortnite-festival-bling-bang-bang-born.json](./372800-fortnite-festival-bling-bang-bang-born.json) |
 | Fortnite Festival: Born This Way | 372008 | [372008-fortnite-festival-born-this-way.json](./372008-fortnite-festival-born-this-way.json) |
 | Fortnite Festival: Bum Bum | 367583 | [367583-fortnite-festival-bum-bum.json](./367583-fortnite-festival-bum-bum.json) |
 | Fortnite Festival: Carry on Wayward Son | 366342 | [366342-fortnite-festival-carry-on-wayward-son.json](./366342-fortnite-festival-carry-on-wayward-son.json) |
@@ -6038,9 +6040,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortnite Festival: Fade to Black | 367589 | [367589-fortnite-festival-fade-to-black.json](./367589-fortnite-festival-fade-to-black.json) |
 | Fortnite Festival: Givenchy | 367580 | [367580-fortnite-festival-givenchy.json](./367580-fortnite-festival-givenchy.json) |
 | Fortnite Festival: Locked & Loaded | 366402 | [366402-fortnite-festival-locked-and-loaded.json](./366402-fortnite-festival-locked-and-loaded.json) |
+| Fortnite Festival: Mi Gente | 372796 | [372796-fortnite-festival-mi-gente.json](./372796-fortnite-festival-mi-gente.json) |
 | Fortnite Festival: Mr. Brightside | 367586 | [367586-fortnite-festival-mr-brightside.json](./367586-fortnite-festival-mr-brightside.json) |
 | Fortnite Festival: Oiia Oiia (Spinning Cat) | 375400 | [375400-fortnite-festival-oiia-oiia-spinning-cat.json](./375400-fortnite-festival-oiia-oiia-spinning-cat.json) |
 | Fortnite Festival: One | 367587 | [367587-fortnite-festival-one.json](./367587-fortnite-festival-one.json) |
+| Fortnite Festival: Paint The Town Red | 372795 | [372795-fortnite-festival-paint-the-town-red.json](./372795-fortnite-festival-paint-the-town-red.json) |
+| Fortnite Festival: PPAP (Pen Pineapple Apple Pen) [Long Version] | 372802 | [372802-fortnite-festival-ppap-pen-pineapple-apple-pen-long-version.json](./372802-fortnite-festival-ppap-pen-pineapple-apple-pen-long-version.json) |
 | Fortnite Festival: Radioactive | 372009 | [372009-fortnite-festival-radioactive.json](./372009-fortnite-festival-radioactive.json) |
 | Fortnite Festival: Right Round | 366429 | [366429-fortnite-festival-right-round.json](./366429-fortnite-festival-right-round.json) |
 | Fortnite Festival: Sandstorm | 372126 | [372126-fortnite-festival-sandstorm.json](./372126-fortnite-festival-sandstorm.json) |
@@ -6057,6 +6062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortnite Festival: The Monorail Song | 378002 | [378002-fortnite-festival-the-monorail-song.json](./378002-fortnite-festival-the-monorail-song.json) |
 | Fortnite Festival: Uptown Funk | 372010 | [372010-fortnite-festival-uptown-funk.json](./372010-fortnite-festival-uptown-funk.json) |
 | Fortnite Festival: Welcome Home | 366400 | [366400-fortnite-festival-welcome-home.json](./366400-fortnite-festival-welcome-home.json) |
+| Fortnite Festival: What's New Scooby-Doo? | 372797 | [372797-fortnite-festival-whats-new-scooby-doo.json](./372797-fortnite-festival-whats-new-scooby-doo.json) |
 | Fortnite Festival: Zombie | 366397 | [366397-fortnite-festival-zombie.json](./366397-fortnite-festival-zombie.json) |
 | Fortnite OG | 324915 | [324915-fortnite-og.json](./324915-fortnite-og.json) |
 | Fortnite OG: Chapter 1 Season 2 | 330838 | [330838-fortnite-og-chapter-1-season-2.json](./330838-fortnite-og-chapter-1-season-2.json) |
@@ -6535,6 +6541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fragments | 381037 | [381037-fragments.json](./381037-fragments.json) |
 | Fragments | 74490 | [74490-fragments.json](./74490-fragments.json) |
 | Fragments Blue | 380603 | [380603-fragments-blue.json](./380603-fragments-blue.json) |
+| Fragments of Dread: Fale Haven | 372827 | [372827-fragments-of-dread-fale-haven.json](./372827-fragments-of-dread-fale-haven.json) |
 | Fragments of Dread: Late Lines FM | 390228 | [390228-fragments-of-dread-late-lines-fm.json](./390228-fragments-of-dread-late-lines-fm.json) |
 | Fragments of Euclid | 133851 | [133851-fragments-of-euclid.json](./133851-fragments-of-euclid.json) |
 | Fragments of Fear | 406703 | [406703-fragments-of-fear.json](./406703-fragments-of-fear.json) |
