@@ -7016,6 +7016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bob: A thousand lives | 209488 | [209488-bob-a-thousand-lives.json](./209488-bob-a-thousand-lives.json) |
 | Bob.exe | 230870 | [230870-bob-exe.json](./230870-bob-exe.json) |
 | Bob's Bad Day | 14329 | [14329-bobs-bad-day.json](./14329-bobs-bad-day.json) |
+| Bob's Beaker Blobs | 383144 | [383144-bobs-beaker-blobs.json](./383144-bobs-beaker-blobs.json) |
 | Bob's Cat Challenge | 115441 | [115441-bobs-cat-challenge.json](./115441-bobs-cat-challenge.json) |
 | Bob's Fears | 381283 | [381283-bobs-fears.json](./381283-bobs-fears.json) |
 | Boba | 177569 | [177569-boba.json](./177569-boba.json) |
