@@ -3052,6 +3052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airport Master | 208904 | [208904-airport-master.json](./208904-airport-master.json) |
 | Airport Master | 29649 | [29649-airport-master.json](./29649-airport-master.json) |
 | Airport Police Contraband Simulator: Border Patrol | 324982 | [324982-airport-police-contraband-simulator-border-patrol.json](./324982-airport-police-contraband-simulator-border-patrol.json) |
+| Airport Police Simulator | 374416 | [374416-airport-police-simulator.json](./374416-airport-police-simulator.json) |
 | Airport Run | 268016 | [268016-airport-run.json](./268016-airport-run.json) |
 | Airport Scanner | 91172 | [91172-airport-scanner.json](./91172-airport-scanner.json) |
 | Airport Security Sucks! | 397694 | [397694-airport-security-sucks.json](./397694-airport-security-sucks.json) |
