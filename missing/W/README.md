@@ -1519,6 +1519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waterpark Simulator | 151019 | [151019-waterpark-simulator.json](./151019-waterpark-simulator.json) |
 | Waterpark Simulator | 348648 | [348648-waterpark-simulator.json](./348648-waterpark-simulator.json) |
 | Waterpark Simulator 2025 | 391857 | [391857-waterpark-simulator-2025.json](./391857-waterpark-simulator-2025.json) |
+| Waterpark Simulator 25 | 371604 | [371604-waterpark-simulator-25.json](./371604-waterpark-simulator-25.json) |
 | Waterpunk | 385852 | [385852-waterpunk.json](./385852-waterpunk.json) |
 | Waters & Fields Adventure Bundle | 271829 | [271829-waters-and-fields-adventure-bundle.json](./271829-waters-and-fields-adventure-bundle.json) |
 | Waters of Ragnarok | 403653 | [403653-waters-of-ragnarok.json](./403653-waters-of-ragnarok.json) |
@@ -2405,6 +2406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wheel World | 255091 | [255091-wheel-world.json](./255091-wheel-world.json) |
 | Wheelbarrow Warrior | 107365 | [107365-wheelbarrow-warrior.json](./107365-wheelbarrow-warrior.json) |
 | Wheelborn | 282222 | [282222-wheelborn.json](./282222-wheelborn.json) |
+| Wheelchair for Two | 406738 | [406738-wheelchair-for-two.json](./406738-wheelchair-for-two.json) |
 | Wheelchair Simulator | 103157 | [103157-wheelchair-simulator.json](./103157-wheelchair-simulator.json) |
 | Wheelchair Simulator VR | 100463 | [100463-wheelchair-simulator-vr.json](./100463-wheelchair-simulator-vr.json) |
 | Wheeled Warriors: Ultimate Destruction | 216832 | [216832-wheeled-warriors-ultimate-destruction.json](./216832-wheeled-warriors-ultimate-destruction.json) |
@@ -3024,6 +3026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wicked Monsters Blast! HD Plus | 85482 | [85482-wicked-monsters-blast-hd-plus.json](./85482-wicked-monsters-blast-hd-plus.json) |
 | Wicked Plague | 324691 | [324691-wicked-plague.json](./324691-wicked-plague.json) |
 | Wicked Rails VR | 158567 | [158567-wicked-rails-vr.json](./158567-wicked-rails-vr.json) |
+| Wicked Subway | 371615 | [371615-wicked-subway.json](./371615-wicked-subway.json) |
 | Wicked Surfing | 200674 | [200674-wicked-surfing.json](./200674-wicked-surfing.json) |
 | Wicked Willow | 137647 | [137647-wicked-willow.json](./137647-wicked-willow.json) |
 | Wicked World #1 | 197780 | [197780-wicked-world-1.json](./197780-wicked-world-1.json) |
