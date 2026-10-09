@@ -483,6 +483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dance with Devils My Carol | 132089 | [132089-dance-with-devils-my-carol.json](./132089-dance-with-devils-my-carol.json) |
 | Dance With Memes | 102952 | [102952-dance-with-memes.json](./102952-dance-with-memes.json) |
 | Dance with the Devil | 181766 | [181766-dance-with-the-devil.json](./181766-dance-with-the-devil.json) |
+| Dance with the Moon | 370564 | [370564-dance-with-the-moon.json](./370564-dance-with-the-moon.json) |
 | Dance With Zombies | 127319 | [127319-dance-with-zombies.json](./127319-dance-with-zombies.json) |
 | Dance: UK | 95455 | [95455-dance-uk.json](./95455-dance-uk.json) |
 | Dance: UK eXtra TraX | 62840 | [62840-dance-uk-extra-trax.json](./62840-dance-uk-extra-trax.json) |
@@ -4541,6 +4542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detectives United II: The Darkest Shrine - Collector's Edition | 252685 | [252685-detectives-united-ii-the-darkest-shrine-collectors-edition.json](./252685-detectives-united-ii-the-darkest-shrine-collectors-edition.json) |
 | Detectives United III: Timeless Voyage - Collector's Edition | 129708 | [129708-detectives-united-iii-timeless-voyage-collectors-edition.json](./129708-detectives-united-iii-timeless-voyage-collectors-edition.json) |
 | Detectives United: Origins - Collector's Edition | 248337 | [248337-detectives-united-origins-collectors-edition.json](./248337-detectives-united-origins-collectors-edition.json) |
+| Detectives United: Phantoms of the Past - Collector's Edition | 370561 | [370561-detectives-united-phantoms-of-the-past-collectors-edition.json](./370561-detectives-united-phantoms-of-the-past-collectors-edition.json) |
 | Detectives United: Vengeance from the Past | 416702 | [416702-detectives-united-vengeance-from-the-past.json](./416702-detectives-united-vengeance-from-the-past.json) |
 | Detectives United: Vengeance from the Past - Collector's Edition | 409718 | [409718-detectives-united-vengeance-from-the-past-collectors-edition.json](./409718-detectives-united-vengeance-from-the-past-collectors-edition.json) |
 | Detectivez | 113683 | [113683-detectivez.json](./113683-detectivez.json) |
@@ -9905,6 +9907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drop Dead: The Cabin | 238999 | [238999-drop-dead-the-cabin.json](./238999-drop-dead-the-cabin.json) |
 | Drop Duchy | 317865 | [317865-drop-duchy.json](./317865-drop-duchy.json) |
 | Drop Duchy: The North | 383572 | [383572-drop-duchy-the-north.json](./383572-drop-duchy-the-north.json) |
+| Drop Duchy: The Tribe | 370473 | [370473-drop-duchy-the-tribe.json](./370473-drop-duchy-the-tribe.json) |
 | Drop Flip | 96538 | [96538-drop-flip.json](./96538-drop-flip.json) |
 | Drop Flip Seasons | 96284 | [96284-drop-flip-seasons.json](./96284-drop-flip-seasons.json) |
 | Drop It | 285127 | [285127-drop-it.json](./285127-drop-it.json) |
