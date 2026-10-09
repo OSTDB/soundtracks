@@ -699,6 +699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War: The Savior's Order | 221796 | [221796-war-the-saviors-order.json](./221796-war-the-saviors-order.json) |
 | War! Age of Imperialism | 73520 | [73520-war-age-of-imperialism.json](./73520-war-age-of-imperialism.json) |
 | War7 | 31137 | [31137-war7.json](./31137-war7.json) |
+| Warag | 348741 | [348741-warag.json](./348741-warag.json) |
 | Warage | 155500 | [155500-warage.json](./155500-warage.json) |
 | Warage: Necromancer Campaign | 155501 | [155501-warage-necromancer-campaign.json](./155501-warage-necromancer-campaign.json) |
 | Waratte Iitomo! Tamorinpic | 37768 | [37768-waratte-iitomo-tamorinpic.json](./37768-waratte-iitomo-tamorinpic.json) |
@@ -3941,6 +3942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witching Tower | 90121 | [90121-witching-tower.json](./90121-witching-tower.json) |
 | Witching Tower: Heroes | 132252 | [132252-witching-tower-heroes.json](./132252-witching-tower-heroes.json) |
 | Witching Well | 304010 | [304010-witching-well.json](./304010-witching-well.json) |
+| Witchlight | 348808 | [348808-witchlight.json](./348808-witchlight.json) |
 | Witchling Grove | 384088 | [384088-witchling-grove.json](./384088-witchling-grove.json) |
 | Witchmore | 241653 | [241653-witchmore.json](./241653-witchmore.json) |
 | Witchpop | 390142 | [390142-witchpop.json](./390142-witchpop.json) |
@@ -4166,6 +4168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizwag | 304014 | [304014-wizwag.json](./304014-wizwag.json) |
 | WizzBall | 81221 | [81221-wizzball.json](./81221-wizzball.json) |
 | Wizzerd Quest 2 | 296455 | [296455-wizzerd-quest-2.json](./296455-wizzerd-quest-2.json) |
+| Wizzo PopOut | 348824 | [348824-wizzo-popout.json](./348824-wizzo-popout.json) |
 | Włatcy Móch Wrzód na Dópie | 94964 | [94964-w-atcy-moch-wrzod-na-dopie.json](./94964-w-atcy-moch-wrzod-na-dopie.json) |
 | Wloku | 307617 | [307617-wloku.json](./307617-wloku.json) |
 | WN RPG Hoshi no Kuzure | 294242 | [294242-wn-rpg-hoshi-no-kuzure.json](./294242-wn-rpg-hoshi-no-kuzure.json) |
