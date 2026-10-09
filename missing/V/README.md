@@ -1854,6 +1854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vivat Slovakia | 216496 | [216496-vivat-slovakia.json](./216496-vivat-slovakia.json) |
 | Vive le Roi | 31789 | [31789-vive-le-roi.json](./31789-vive-le-roi.json) |
 | Vive le Roi 2 | 101356 | [101356-vive-le-roi-2.json](./101356-vive-le-roi-2.json) |
+| Vive le Roi 3 | 339865 | [339865-vive-le-roi-3.json](./339865-vive-le-roi-3.json) |
 | Vivecraft | 370146 | [370146-vivecraft.json](./370146-vivecraft.json) |
 | Vivere Retro | 388422 | [388422-vivere-retro.json](./388422-vivere-retro.json) |
 | ViveSpray | 32282 | [32282-vivespray.json](./32282-vivespray.json) |
