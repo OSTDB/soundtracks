@@ -3300,7 +3300,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beauty and the Beast | 211430 | [211430-beauty-and-the-beast.json](./211430-beauty-and-the-beast.json) |
 | Beauty and the Beast | 292649 | [292649-beauty-and-the-beast.json](./292649-beauty-and-the-beast.json) |
 | Beauty and the Beast | 63376 | [63376-beauty-and-the-beast.json](./63376-beauty-and-the-beast.json) |
+| Beauty and the Thug | 371621 | [371621-beauty-and-the-thug.json](./371621-beauty-and-the-thug.json) |
 | Beauty and Violence: Valkyries | 122299 | [122299-beauty-and-violence-valkyries.json](./122299-beauty-and-violence-valkyries.json) |
+| Beauty Clicker | 371612 | [371612-beauty-clicker.json](./371612-beauty-clicker.json) |
 | Beauty Clicker 2 | 389646 | [389646-beauty-clicker-2.json](./389646-beauty-clicker-2.json) |
 | Beauty Factory | 52447 | [52447-beauty-factory.json](./52447-beauty-factory.json) |
 | Beauty from Wisdom | 236372 | [236372-beauty-from-wisdom.json](./236372-beauty-from-wisdom.json) |
