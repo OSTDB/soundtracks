@@ -4408,6 +4408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destiny Fantasia | 197756 | [197756-destiny-fantasia.json](./197756-destiny-fantasia.json) |
 | Destiny Is Dice | 368043 | [368043-destiny-is-dice.json](./368043-destiny-is-dice.json) |
 | Destiny Island | 158686 | [158686-destiny-island.json](./158686-destiny-island.json) |
+| Destiny Isle | 348203 | [348203-destiny-isle.json](./348203-destiny-isle.json) |
 | Destiny Maiden | 270649 | [270649-destiny-maiden.json](./270649-destiny-maiden.json) |
 | Destiny of a Wizard 2: Beyond the Vale | 102390 | [102390-destiny-of-a-wizard-2-beyond-the-vale.json](./102390-destiny-of-a-wizard-2-beyond-the-vale.json) |
 | Destiny of a Wizard 3: Beyond the World | 239217 | [239217-destiny-of-a-wizard-3-beyond-the-world.json](./239217-destiny-of-a-wizard-3-beyond-the-world.json) |
@@ -7664,6 +7665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doodle Jump Journey | 85571 | [85571-doodle-jump-journey.json](./85571-doodle-jump-journey.json) |
 | Doodle Kingdom | 27243 | [27243-doodle-kingdom.json](./27243-doodle-kingdom.json) |
 | Doodle Kingdom: Medieval | 338335 | [338335-doodle-kingdom-medieval.json](./338335-doodle-kingdom-medieval.json) |
+| Doodle Knight | 348194 | [348194-doodle-knight.json](./348194-doodle-knight.json) |
 | Doodle Mafia: Crime City | 146741 | [146741-doodle-mafia-crime-city.json](./146741-doodle-mafia-crime-city.json) |
 | Doodle Movie Quiz | 232504 | [232504-doodle-movie-quiz.json](./232504-doodle-movie-quiz.json) |
 | Doodle or Die | 252291 | [252291-doodle-or-die.json](./252291-doodle-or-die.json) |
