@@ -5596,6 +5596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | For Runner Night | 195720 | [195720-for-runner-night.json](./195720-for-runner-night.json) |
 | For Sale | 328269 | [328269-for-sale.json](./328269-for-sale.json) |
 | For Sparta | 144127 | [144127-for-sparta.json](./144127-for-sparta.json) |
+| For Sparta | 343740 | [343740-for-sparta.json](./343740-for-sparta.json) |
 | For Stella | 392276 | [392276-for-stella.json](./392276-for-stella.json) |
 | For The Fatherland | 408123 | [408123-for-the-fatherland.json](./408123-for-the-fatherland.json) |
 | For the Fish in the Bottle | 402919 | [402919-for-the-fish-in-the-bottle.json](./402919-for-the-fish-in-the-bottle.json) |
@@ -6723,6 +6724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frantic Freddy | 40894 | [40894-frantic-freddy.json](./40894-frantic-freddy.json) |
 | Frantic Freighter | 32022 | [32022-frantic-freighter.json](./32022-frantic-freighter.json) |
 | Frantic Frigates | 388194 | [388194-frantic-frigates.json](./388194-frantic-frigates.json) |
+| Frantic Oceans | 343780 | [343780-frantic-oceans.json](./343780-frantic-oceans.json) |
 | Franz | 250301 | [250301-franz.json](./250301-franz.json) |
 | Franzen | 263443 | [263443-franzen.json](./263443-franzen.json) |
 | Fraud Camp: Survival Escape | 372455 | [372455-fraud-camp-survival-escape.json](./372455-fraud-camp-survival-escape.json) |
