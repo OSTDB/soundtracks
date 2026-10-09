@@ -231,6 +231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kakugo no Susume | 43830 | [43830-kakugo-no-susume.json](./43830-kakugo-no-susume.json) |
 | Kakure-oni | 376874 | [376874-kakure-oni.json](./376874-kakure-oni.json) |
 | Kakurenbo no Oto: Hidden Notes | 172741 | [172741-kakurenbo-no-oto-hidden-notes.json](./172741-kakurenbo-no-oto-hidden-notes.json) |
+| Kakurenbo: Hide and Seek | 350963 | [350963-kakurenbo-hide-and-seek.json](./350963-kakurenbo-hide-and-seek.json) |
 | Kakuriyo Village: Moratorium of Adolescence | 240730 | [240730-kakuriyo-village-moratorium-of-adolescence.json](./240730-kakuriyo-village-moratorium-of-adolescence.json) |
 | Kakuro | 120959 | [120959-kakuro.json](./120959-kakuro.json) |
 | Kakusankibou | 80899 | [80899-kakusankibou.json](./80899-kakusankibou.json) |
@@ -956,6 +957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keiba Yosou Baken Renkinjutsu | 37970 | [37970-keiba-yosou-baken-renkinjutsu.json](./37970-keiba-yosou-baken-renkinjutsu.json) |
 | Keibatsuu Portable | 56767 | [56767-keibatsuu-portable.json](./56767-keibatsuu-portable.json) |
 | Keibatsuu Portable 2 | 56769 | [56769-keibatsuu-portable-2.json](./56769-keibatsuu-portable-2.json) |
+| Keiji J.B. Harold no Jikenbo: Kiss of Murder | 350980 | [350980-keiji-j-b-harold-no-jikenbo-kiss-of-murder.json](./350980-keiji-j-b-harold-no-jikenbo-kiss-of-murder.json) |
 | Keiji J.B. Harold no Jikenbo: Manhattan Requiem | 350562 | [350562-keiji-j-b-harold-no-jikenbo-manhattan-requiem.json](./350562-keiji-j-b-harold-no-jikenbo-manhattan-requiem.json) |
 | Keiji J.B. Harold no Jikenbo: Murder Club | 272022 | [272022-keiji-j-b-harold-no-jikenbo-murder-club.json](./272022-keiji-j-b-harold-no-jikenbo-murder-club.json) |
 | Keiji J.B. Harold no Jikenbo: Murder Club | 320848 | [320848-keiji-j-b-harold-no-jikenbo-murder-club.json](./320848-keiji-j-b-harold-no-jikenbo-murder-club.json) |
