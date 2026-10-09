@@ -484,6 +484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jarinko Chie | 346029 | [346029-jarinko-chie.json](./346029-jarinko-chie.json) |
 | Jarnasmal | 405569 | [405569-jarnasmal.json](./405569-jarnasmal.json) |
 | Jaro Adventures | 305927 | [305927-jaro-adventures.json](./305927-jaro-adventures.json) |
+| Jaro TCG | 339874 | [339874-jaro-tcg.json](./339874-jaro-tcg.json) |
 | Jarokn Cricket | 78255 | [78255-jarokn-cricket.json](./78255-jarokn-cricket.json) |
 | Jarokn Cricket 2 | 62176 | [62176-jarokn-cricket-2.json](./62176-jarokn-cricket-2.json) |
 | Jarpug | 259012 | [259012-jarpug.json](./259012-jarpug.json) |
