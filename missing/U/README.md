@@ -1279,6 +1279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unexpected Consequences | 268218 | [268218-unexpected-consequences.json](./268218-unexpected-consequences.json) |
 | Unexpected Day | 29553 | [29553-unexpected-day.json](./29553-unexpected-day.json) |
 | Unexpected End | 75807 | [75807-unexpected-end.json](./75807-unexpected-end.json) |
+| Unexpected Journey | 361585 | [361585-unexpected-journey.json](./361585-unexpected-journey.json) |
 | Unexpected Visitors | 265128 | [265128-unexpected-visitors.json](./265128-unexpected-visitors.json) |
 | Unexplored 2: The Wayfarer's Legacy | 119343 | [119343-unexplored-2-the-wayfarers-legacy.json](./119343-unexplored-2-the-wayfarers-legacy.json) |
 | Unexplored: Mithril Run | 155020 | [155020-unexplored-mithril-run.json](./155020-unexplored-mithril-run.json) |
