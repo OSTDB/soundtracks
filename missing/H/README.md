@@ -3058,6 +3058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Photo: Kaneshon | 362368 | [362368-hentai-photo-kaneshon.json](./362368-hentai-photo-kaneshon.json) |
 | Hentai Photo: Kuchinashi | 364089 | [364089-hentai-photo-kuchinashi.json](./364089-hentai-photo-kuchinashi.json) |
 | Hentai Photo: Sakura | 356820 | [356820-hentai-photo-sakura.json](./356820-hentai-photo-sakura.json) |
+| Hentai Photo: Yuri | 365539 | [365539-hentai-photo-yuri.json](./365539-hentai-photo-yuri.json) |
 | Hentai Plus Girl | 111487 | [111487-hentai-plus-girl.json](./111487-hentai-plus-girl.json) |
 | Hentai Police Girl | 411068 | [411068-hentai-police-girl.json](./411068-hentai-police-girl.json) |
 | Hentai Polka | 294139 | [294139-hentai-polka.json](./294139-hentai-polka.json) |
