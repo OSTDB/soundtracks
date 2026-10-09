@@ -682,6 +682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Tale of Synapse: The Chaos Theories | 146823 | [146823-a-tale-of-synapse-the-chaos-theories.json](./146823-a-tale-of-synapse-the-chaos-theories.json) |
 | A Tale of Synapse: The Chaos Theories - Collector's Edition | 152341 | [152341-a-tale-of-synapse-the-chaos-theories-collectors-edition.json](./152341-a-tale-of-synapse-the-chaos-theories-collectors-edition.json) |
 | A Taste for Murder | 90881 | [90881-a-taste-for-murder.json](./90881-a-taste-for-murder.json) |
+| A Taste of Home | 380772 | [380772-a-taste-of-home.json](./380772-a-taste-of-home.json) |
 | A Tasting Flight of Names | 315625 | [315625-a-tasting-flight-of-names.json](./315625-a-tasting-flight-of-names.json) |
 | A Tempting Life with My Neighbor | 420679 | [420679-a-tempting-life-with-my-neighbor.json](./420679-a-tempting-life-with-my-neighbor.json) |
 | A Test Before Jianghu | 235278 | [235278-a-test-before-jianghu.json](./235278-a-test-before-jianghu.json) |
@@ -6244,6 +6245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anti-TuringTest | 371914 | [371914-anti-turingtest.json](./371914-anti-turingtest.json) |
 | ANti: Virus Destroyer | 105265 | [105265-anti-virus-destroyer.json](./105265-anti-virus-destroyer.json) |
 | AntiAir | 304199 | [304199-antiair.json](./304199-antiair.json) |
+| AntiAir Mini | 380795 | [380795-antiair-mini.json](./380795-antiair-mini.json) |
 | Antiban | 302664 | [302664-antiban.json](./302664-antiban.json) |
 | Antibiotic Adventures | 413792 | [413792-antibiotic-adventures.json](./413792-antibiotic-adventures.json) |
 | Antibody | 151081 | [151081-antibody.json](./151081-antibody.json) |
@@ -7299,6 +7301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcane Legends | 60078 | [60078-arcane-legends.json](./60078-arcane-legends.json) |
 | Arcane Maelstrom | 29765 | [29765-arcane-maelstrom.json](./29765-arcane-maelstrom.json) |
 | Arcane Mayhem | 388424 | [388424-arcane-mayhem.json](./388424-arcane-mayhem.json) |
+| Arcane Merchant | 380788 | [380788-arcane-merchant.json](./380788-arcane-merchant.json) |
 | Arcane Overdrive | 370895 | [370895-arcane-overdrive.json](./370895-arcane-overdrive.json) |
 | Arcane Path | 339643 | [339643-arcane-path.json](./339643-arcane-path.json) |
 | Arcane Pets: Plushie Empire | 256545 | [256545-arcane-pets-plushie-empire.json](./256545-arcane-pets-plushie-empire.json) |
@@ -8298,6 +8301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Artillerists | 26687 | [26687-artillerists.json](./26687-artillerists.json) |
 | ArtilleRoyalty | 374681 | [374681-artilleroyalty.json](./374681-artilleroyalty.json) |
 | Artillery | 93527 | [93527-artillery.json](./93527-artillery.json) |
+| ARtillery | 380794 | [380794-artillery.json](./380794-artillery.json) |
 | Artillery Cats | 102926 | [102926-artillery-cats.json](./102926-artillery-cats.json) |
 | Artillery Duel | 12241 | [12241-artillery-duel.json](./12241-artillery-duel.json) |
 | Artillery Live | 234693 | [234693-artillery-live.json](./234693-artillery-live.json) |
