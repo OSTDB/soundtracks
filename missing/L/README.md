@@ -3697,6 +3697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Warlings | 181763 | [181763-little-warlings.json](./181763-little-warlings.json) |
 | Little Weasel | 309485 | [309485-little-weasel.json](./309485-little-weasel.json) |
 | Little Wheel | 80829 | [80829-little-wheel.json](./80829-little-wheel.json) |
+| Little White Man | 381959 | [381959-little-white-man.json](./381959-little-white-man.json) |
 | Little White Man vs. X | 252221 | [252221-little-white-man-vs-x.json](./252221-little-white-man-vs-x.json) |
 | Little Wing | 264234 | [264234-little-wing.json](./264234-little-wing.json) |
 | Little Wing | 79591 | [79591-little-wing.json](./79591-little-wing.json) |
@@ -5256,6 +5257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love's Hella Punk | 239868 | [239868-loves-hella-punk.json](./239868-loves-hella-punk.json) |
 | Love's Power Mahjong | 192312 | [192312-loves-power-mahjong.json](./192312-loves-power-mahjong.json) |
 | Love’s Sweet Garnish 2 | 335495 | [335495-love-s-sweet-garnish-2.json](./335495-love-s-sweet-garnish-2.json) |
+| Love(Battle)Doll | 381914 | [381914-love-battle-doll.json](./381914-love-battle-doll.json) |
 | Love+ | 80609 | [80609-love.json](./80609-love.json) |
 | LoveAndComplex | 311276 | [311276-loveandcomplex.json](./311276-loveandcomplex.json) |
 | LoveArena | 385051 | [385051-lovearena.json](./385051-lovearena.json) |
@@ -5359,6 +5361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Low Grav Racer | 63231 | [63231-low-grav-racer.json](./63231-low-grav-racer.json) |
 | Low Mem Sky | 181253 | [181253-low-mem-sky.json](./181253-low-mem-sky.json) |
 | Low Poly Flight Simulator | 411572 | [411572-low-poly-flight-simulator.json](./411572-low-poly-flight-simulator.json) |
+| Low Poly Mouse Game | 381961 | [381961-low-poly-mouse-game.json](./381961-low-poly-mouse-game.json) |
 | Low Taper Fade 3D | 382534 | [382534-low-taper-fade-3d.json](./382534-low-taper-fade-3d.json) |
 | Low Tide | 377252 | [377252-low-tide.json](./377252-low-tide.json) |
 | Low Value Job | 385354 | [385354-low-value-job.json](./385354-low-value-job.json) |
@@ -5694,6 +5697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lumines: Puzzle Fusion | 78329 | [78329-lumines-puzzle-fusion.json](./78329-lumines-puzzle-fusion.json) |
 | Luminesce | 159302 | [159302-luminesce.json](./159302-luminesce.json) |
 | Luminex Quartet | 384502 | [384502-luminex-quartet.json](./384502-luminex-quartet.json) |
+| Luminids | 381925 | [381925-luminids.json](./381925-luminids.json) |
 | Luminis: Heal Them All | 270133 | [270133-luminis-heal-them-all.json](./270133-luminis-heal-them-all.json) |
 | Luminite Era: Expedition | 245990 | [245990-luminite-era-expedition.json](./245990-luminite-era-expedition.json) |
 | Lumino City | 8762 | [8762-lumino-city.json](./8762-lumino-city.json) |
