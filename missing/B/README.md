@@ -2807,6 +2807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BBQ Dad | 137565 | [137565-bbq-dad.json](./137565-bbq-dad.json) |
 | BBQ Eater | 175352 | [175352-bbq-eater.json](./175352-bbq-eater.json) |
 | BBQ Master | 364029 | [364029-bbq-master.json](./364029-bbq-master.json) |
+| BBQ Quest | 360491 | [360491-bbq-quest.json](./360491-bbq-quest.json) |
 | BBQ Simulator: The Squad | 185674 | [185674-bbq-simulator-the-squad.json](./185674-bbq-simulator-the-squad.json) |
 | BBS (Bulletin Board System) Magica | 399740 | [399740-bbs-bulletin-board-system-magica.json](./399740-bbs-bulletin-board-system-magica.json) |
 | Bburago Rally | 362414 | [362414-bburago-rally.json](./362414-bburago-rally.json) |
@@ -10271,6 +10272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bunny's Maze | 150605 | [150605-bunnys-maze.json](./150605-bunnys-maze.json) |
 | Bunny's Pizza Tycoon | 265394 | [265394-bunnys-pizza-tycoon.json](./265394-bunnys-pizza-tycoon.json) |
 | Bunny’s Rent-a-Mom Agency | 392841 | [392841-bunny-s-rent-a-mom-agency.json](./392841-bunny-s-rent-a-mom-agency.json) |
+| BunnyBarTalk | 360494 | [360494-bunnybartalk.json](./360494-bunnybartalk.json) |
 | BunnyFlow | 390514 | [390514-bunnyflow.json](./390514-bunnyflow.json) |
 | Bunnymare: Circus Escape | 120234 | [120234-bunnymare-circus-escape.json](./120234-bunnymare-circus-escape.json) |
 | BunnyOps | 378417 | [378417-bunnyops.json](./378417-bunnyops.json) |
