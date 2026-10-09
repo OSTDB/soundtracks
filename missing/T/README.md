@@ -8216,6 +8216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Many Pieces of Mr. Coo: Coollector Edition | 247195 | [247195-the-many-pieces-of-mr-coo-coollector-edition.json](./247195-the-many-pieces-of-mr-coo-coollector-edition.json) |
 | The Many Pieces of Mr. Coo: Fantabulous Edition | 247194 | [247194-the-many-pieces-of-mr-coo-fantabulous-edition.json](./247194-the-many-pieces-of-mr-coo-fantabulous-edition.json) |
 | The Many Sins of House Ocampo | 251651 | [251651-the-many-sins-of-house-ocampo.json](./251651-the-many-sins-of-house-ocampo.json) |
+| The Map Is the Thing | 348204 | [348204-the-map-is-the-thing.json](./348204-the-map-is-the-thing.json) |
 | The Marauder Chronicles: Curse over Valdria | 161901 | [161901-the-marauder-chronicles-curse-over-valdria.json](./161901-the-marauder-chronicles-curse-over-valdria.json) |
 | The Marbians | 336387 | [336387-the-marbians.json](./336387-the-marbians.json) |
 | The Marionette | 124595 | [124595-the-marionette.json](./124595-the-marionette.json) |
@@ -12427,6 +12428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Through Abandoned: The Underground City | 34780 | [34780-through-abandoned-the-underground-city.json](./34780-through-abandoned-the-underground-city.json) |
 | Through Death's Door | 391852 | [391852-through-deaths-door.json](./391852-through-deaths-door.json) |
 | Through Hell and Back | 372541 | [372541-through-hell-and-back.json](./372541-through-hell-and-back.json) |
+| Through His Eyes | 348188 | [348188-through-his-eyes.json](./348188-through-his-eyes.json) |
 | Through Rust We Are Returned | 147360 | [147360-through-rust-we-are-returned.json](./147360-through-rust-we-are-returned.json) |
 | Through Space | 414297 | [414297-through-space.json](./414297-through-space.json) |
 | Through the Abyss | 217314 | [217314-through-the-abyss.json](./217314-through-the-abyss.json) |
