@@ -2305,6 +2305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heliborne: Enhanced Edition | 248802 | [248802-heliborne-enhanced-edition.json](./248802-heliborne-enhanced-edition.json) |
 | Helichapter X | 287110 | [287110-helichapter-x.json](./287110-helichapter-x.json) |
 | Helichopper | 80156 | [80156-helichopper.json](./80156-helichopper.json) |
+| Helichoppy | 383698 | [383698-helichoppy.json](./383698-helichoppy.json) |
 | Heliconian: Starship Crew Control | 133403 | [133403-heliconian-starship-crew-control.json](./133403-heliconian-starship-crew-control.json) |
 | Helicops | 78924 | [78924-helicops.json](./78924-helicops.json) |
 | Helicopter 2015: Natural Disasters | 53184 | [53184-helicopter-2015-natural-disasters.json](./53184-helicopter-2015-natural-disasters.json) |
@@ -4231,6 +4232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Raccoons in Asia | 403185 | [403185-hidden-raccoons-in-asia.json](./403185-hidden-raccoons-in-asia.json) |
 | Hidden Raccoons in Summer | 403186 | [403186-hidden-raccoons-in-summer.json](./403186-hidden-raccoons-in-summer.json) |
 | Hidden Realm of the Enchantress | 369162 | [369162-hidden-realm-of-the-enchantress.json](./369162-hidden-realm-of-the-enchantress.json) |
+| Hidden Riddles: Glaciers Mysteries | 383726 | [383726-hidden-riddles-glaciers-mysteries.json](./383726-hidden-riddles-glaciers-mysteries.json) |
 | Hidden Riddles: The Amazon Mystery | 295867 | [295867-hidden-riddles-the-amazon-mystery.json](./295867-hidden-riddles-the-amazon-mystery.json) |
 | Hidden Robo Cats | 287074 | [287074-hidden-robo-cats.json](./287074-hidden-robo-cats.json) |
 | Hidden Robo Cats: Bonus Level | 289453 | [289453-hidden-robo-cats-bonus-level.json](./289453-hidden-robo-cats-bonus-level.json) |
@@ -4312,6 +4314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hide N Seek : Mini Games | 104724 | [104724-hide-n-seek-mini-games.json](./104724-hide-n-seek-mini-games.json) |
 | Hide or Die | 74910 | [74910-hide-or-die.json](./74910-hide-or-die.json) |
 | Hide Seek Survive | 170358 | [170358-hide-seek-survive.json](./170358-hide-seek-survive.json) |
+| Hide the Baby | 383700 | [383700-hide-the-baby.json](./383700-hide-the-baby.json) |
 | Hide The Corpse | 306936 | [306936-hide-the-corpse.json](./306936-hide-the-corpse.json) |
 | Hide The Corpse: Gusimir Mansion | 380564 | [380564-hide-the-corpse-gusimir-mansion.json](./380564-hide-the-corpse-gusimir-mansion.json) |
 | Hide Time | 235713 | [235713-hide-time.json](./235713-hide-time.json) |
