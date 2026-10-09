@@ -1666,6 +1666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farmyard Pals Jigsaw Puzzles | 357881 | [357881-farmyard-pals-jigsaw-puzzles.json](./357881-farmyard-pals-jigsaw-puzzles.json) |
 | FarmZone | 159738 | [159738-farmzone.json](./159738-farmzone.json) |
 | Farocar | 92980 | [92980-farocar.json](./92980-farocar.json) |
+| Faroda | 362765 | [362765-faroda.json](./362765-faroda.json) |
 | Farol del Diablo (Devil's Lantern) | 347136 | [347136-farol-del-diablo-devils-lantern.json](./347136-farol-del-diablo-devils-lantern.json) |
 | Farplane Relic | 110768 | [110768-farplane-relic.json](./110768-farplane-relic.json) |
 | Farpoint | 19575 | [19575-farpoint.json](./19575-farpoint.json) |
@@ -7267,6 +7268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frogs Also Struggle | 258202 | [258202-frogs-also-struggle.json](./258202-frogs-also-struggle.json) |
 | Frogshot Adventure | 380559 | [380559-frogshot-adventure.json](./380559-frogshot-adventure.json) |
 | Frogsong | 132630 | [132630-frogsong.json](./132630-frogsong.json) |
+| FrogSpin | 362730 | [362730-frogspin.json](./362730-frogspin.json) |
 | FrogStatue | 104046 | [104046-frogstatue.json](./104046-frogstatue.json) |
 | Frogstool | 337479 | [337479-frogstool.json](./337479-frogstool.json) |
 | Froguelike | 244836 | [244836-froguelike.json](./244836-froguelike.json) |
@@ -7427,6 +7429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frontline Defense 2 | 234935 | [234935-frontline-defense-2.json](./234935-frontline-defense-2.json) |
 | Frontline Heroes VR | 41914 | [41914-frontline-heroes-vr.json](./41914-frontline-heroes-vr.json) |
 | Frontline Heroes VR: 2017 Edition | 170878 | [170878-frontline-heroes-vr-2017-edition.json](./170878-frontline-heroes-vr-2017-edition.json) |
+| Frontline Logistics: Isarian Warfare | 362762 | [362762-frontline-logistics-isarian-warfare.json](./362762-frontline-logistics-isarian-warfare.json) |
 | Frontline Protocol | 352361 | [352361-frontline-protocol.json](./352361-frontline-protocol.json) |
 | Frontline Steel | 363921 | [363921-frontline-steel.json](./363921-frontline-steel.json) |
 | Frontline Survivors | 239777 | [239777-frontline-survivors.json](./239777-frontline-survivors.json) |
