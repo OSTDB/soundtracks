@@ -696,6 +696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Buzz | 417440 | [417440-last-buzz.json](./417440-last-buzz.json) |
 | Last Call | 175890 | [175890-last-call.json](./175890-last-call.json) |
 | Last Call BBS | 205064 | [205064-last-call-bbs.json](./205064-last-call-bbs.json) |
+| Last Call: RE | 378552 | [378552-last-call-re.json](./378552-last-call-re.json) |
 | Last Call! | 71565 | [71565-last-call.json](./71565-last-call.json) |
 | Last Call's Dance | 389004 | [389004-last-calls-dance.json](./389004-last-calls-dance.json) |
 | Last Card Dungeon | 370139 | [370139-last-card-dungeon.json](./370139-last-card-dungeon.json) |
@@ -921,6 +922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Words | 215024 | [215024-last-words.json](./215024-last-words.json) |
 | Last Words. | 389127 | [389127-last-words.json](./389127-last-words.json) |
 | Last Year | 19819 | [19819-last-year.json](./19819-last-year.json) |
+| Last Year's Snow Was Falling 2 | 378568 | [378568-last-years-snow-was-falling-2.json](./378568-last-years-snow-was-falling-2.json) |
 | Last You Standing | 364656 | [364656-last-you-standing.json](./364656-last-you-standing.json) |
 | Last Z: Survival Shooter | 375192 | [375192-last-z-survival-shooter.json](./375192-last-z-survival-shooter.json) |
 | Last-Hit Defense | 224027 | [224027-last-hit-defense.json](./224027-last-hit-defense.json) |
