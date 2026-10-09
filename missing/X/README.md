@@ -464,6 +464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xeyyex | 288458 | [288458-xeyyex.json](./288458-xeyyex.json) |
 | Xezi: Story Mode | 23861 | [23861-xezi-story-mode.json](./23861-xezi-story-mode.json) |
 | XF: Football Arena | 193869 | [193869-xf-football-arena.json](./193869-xf-football-arena.json) |
+| XFlight | 343307 | [343307-xflight.json](./343307-xflight.json) |
 | XG Blast! | 21254 | [21254-xg-blast.json](./21254-xg-blast.json) |
 | XGA | 316695 | [316695-xga.json](./316695-xga.json) |
 | XGun-Weapon Evolution | 31178 | [31178-xgun-weapon-evolution.json](./31178-xgun-weapon-evolution.json) |
