@@ -6570,6 +6570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Horus Heresy: Legions - Titandeath | 203298 | [203298-the-horus-heresy-legions-titandeath.json](./203298-the-horus-heresy-legions-titandeath.json) |
 | The Hospital | 231534 | [231534-the-hospital.json](./231534-the-hospital.json) |
 | The Hospital of Fear | 274505 | [274505-the-hospital-of-fear.json](./274505-the-hospital-of-fear.json) |
+| The Host | 334057 | [334057-the-host.json](./334057-the-host.json) |
 | The Hostel: Night Terrors | 249842 | [249842-the-hostel-night-terrors.json](./249842-the-hostel-night-terrors.json) |
 | The Hot Dog would Explode | 109750 | [109750-the-hot-dog-would-explode.json](./109750-the-hot-dog-would-explode.json) |
 | The Hotel | 220675 | [220675-the-hotel.json](./220675-the-hotel.json) |
@@ -9042,6 +9043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Phantom Thief Stina and 30 Jewels | 85438 | [85438-the-phantom-thief-stina-and-30-jewels.json](./85438-the-phantom-thief-stina-and-30-jewels.json) |
 | The Phantom's Call | 383696 | [383696-the-phantoms-call.json](./383696-the-phantoms-call.json) |
 | The Phantom's Revenge | 25135 | [25135-the-phantoms-revenge.json](./25135-the-phantoms-revenge.json) |
+| The Pharody | 334222 | [334222-the-pharody.json](./334222-the-pharody.json) |
 | The Phenomenon of Edgar Allan Poe 1/2 | 155465 | [155465-the-phenomenon-of-edgar-allan-poe-1-2.json](./155465-the-phenomenon-of-edgar-allan-poe-1-2.json) |
 | The Philistine Ploy | 293705 | [293705-the-philistine-ploy.json](./293705-the-philistine-ploy.json) |
 | The Phoenix | 188414 | [188414-the-phoenix.json](./188414-the-phoenix.json) |
@@ -17420,6 +17422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Simulator: UK Military Wagon Pack | 162338 | [162338-train-simulator-uk-military-wagon-pack.json](./162338-train-simulator-uk-military-wagon-pack.json) |
 | Train Simulator: Union Pacific Heavy Challenger Steam Loco | 212227 | [212227-train-simulator-union-pacific-heavy-challenger-steam-loco.json](./212227-train-simulator-union-pacific-heavy-challenger-steam-loco.json) |
 | Train Simulator: WCML South: London Euston - Birmingham Route Add-On | 156474 | [156474-train-simulator-wcml-south-london-euston-birmingham-route-add-on.json](./156474-train-simulator-wcml-south-london-euston-birmingham-route-add-on.json) |
+| Train Station Project | 334234 | [334234-train-station-project.json](./334234-train-station-project.json) |
 | Train Station Renovation | 108347 | [108347-train-station-renovation.json](./108347-train-station-renovation.json) |
 | Train Station Renovation: Germany | 195217 | [195217-train-station-renovation-germany.json](./195217-train-station-renovation-germany.json) |
 | Train Station Simulator: Together in Japan | 374747 | [374747-train-station-simulator-together-in-japan.json](./374747-train-station-simulator-together-in-japan.json) |
@@ -18615,6 +18618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trickshot Tactics | 382753 | [382753-trickshot-tactics.json](./382753-trickshot-tactics.json) |
 | TrickShot VR | 133457 | [133457-trickshot-vr.json](./133457-trickshot-vr.json) |
 | Trickster | 57935 | [57935-trickster.json](./57935-trickster.json) |
+| Trickster Cards: Euchre | 334065 | [334065-trickster-cards-euchre.json](./334065-trickster-cards-euchre.json) |
 | Trickster Chaos | 280247 | [280247-trickster-chaos.json](./280247-trickster-chaos.json) |
 | Trickster Online | 79551 | [79551-trickster-online.json](./79551-trickster-online.json) |
 | Trickster Trove | 314642 | [314642-trickster-trove.json](./314642-trickster-trove.json) |
