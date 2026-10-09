@@ -3629,6 +3629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winning Post 2 | 37767 | [37767-winning-post-2.json](./37767-winning-post-2.json) |
 | Winning Post 2: Program '96 | 79807 | [79807-winning-post-2-program-96.json](./79807-winning-post-2-program-96.json) |
 | Winning Post 4 | 78744 | [78744-winning-post-4.json](./78744-winning-post-4.json) |
+| Winning Post 5 Maximum 2003 | 354943 | [354943-winning-post-5-maximum-2003.json](./354943-winning-post-5-maximum-2003.json) |
 | Winning Post 6 | 65013 | [65013-winning-post-6.json](./65013-winning-post-6.json) |
 | Winning Post 7 2010 | 194007 | [194007-winning-post-7-2010.json](./194007-winning-post-7-2010.json) |
 | Winning Post 7 Maximum 2007 | 7484 | [7484-winning-post-7-maximum-2007.json](./7484-winning-post-7-maximum-2007.json) |
