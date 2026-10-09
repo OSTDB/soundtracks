@@ -277,6 +277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Cats Berlin | 283866 | [283866-100-cats-berlin.json](./283866-100-cats-berlin.json) |
 | 100 Cats Istanbul | 334173 | [334173-100-cats-istanbul.json](./334173-100-cats-istanbul.json) |
 | 100 Cats London: Extra Content | 308930 | [308930-100-cats-london-extra-content.json](./308930-100-cats-london-extra-content.json) |
+| 100 Cats Lost in Argentina Find & Color | 361057 | [361057-100-cats-lost-in-argentina-find-and-color.json](./361057-100-cats-lost-in-argentina-find-and-color.json) |
 | 100 Cats Lost in Australia Find & Color | 359556 | [359556-100-cats-lost-in-australia-find-and-color.json](./359556-100-cats-lost-in-australia-find-and-color.json) |
 | 100 Cats Lost in Birthday Bash | 359031 | [359031-100-cats-lost-in-birthday-bash.json](./359031-100-cats-lost-in-birthday-bash.json) |
 | 100 Cats Lost in Canada 2 | 359033 | [359033-100-cats-lost-in-canada-2.json](./359033-100-cats-lost-in-canada-2.json) |
