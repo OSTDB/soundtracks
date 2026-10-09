@@ -1763,6 +1763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emi-chan no Moero Yakyuuken | 41373 | [41373-emi-chan-no-moero-yakyuuken.json](./41373-emi-chan-no-moero-yakyuuken.json) |
 | Emi: New Beginning | 225600 | [225600-emi-new-beginning.json](./225600-emi-new-beginning.json) |
 | Emi's Country Store and Farm | 218582 | [218582-emis-country-store-and-farm.json](./218582-emis-country-store-and-farm.json) |
+| Emi's Solo Ghost Hunting | 350954 | [350954-emis-solo-ghost-hunting.json](./350954-emis-solo-ghost-hunting.json) |
 | Emi's Solo Ghost Hunting 2 | 408020 | [408020-emis-solo-ghost-hunting-2.json](./408020-emis-solo-ghost-hunting-2.json) |
 | Emiko's Pledge 3 | 211635 | [211635-emikos-pledge-3.json](./211635-emikos-pledge-3.json) |
 | Emil Chronicle Online | 263690 | [263690-emil-chronicle-online.json](./263690-emil-chronicle-online.json) |
