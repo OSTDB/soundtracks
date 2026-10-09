@@ -2410,6 +2410,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fetch & Match | 395168 | [395168-fetch-and-match.json](./395168-fetch-and-match.json) |
 | Fetch Quest | 140552 | [140552-fetch-quest.json](./140552-fetch-quest.json) |
 | Fetch Quest | 179617 | [179617-fetch-quest.json](./179617-fetch-quest.json) |
+| Fetch Quest Remastered | 361063 | [361063-fetch-quest-remastered.json](./361063-fetch-quest-remastered.json) |
+| Fetch Re;Quest | 361060 | [361060-fetch-re-quest.json](./361060-fetch-re-quest.json) |
 | Fetish Club | 298320 | [298320-fetish-club.json](./298320-fetish-club.json) |
 | Fetish Locator | 255686 | [255686-fetish-locator.json](./255686-fetish-locator.json) |
 | Fetty Wap: Nitro Nation Stories | 76553 | [76553-fetty-wap-nitro-nation-stories.json](./76553-fetty-wap-nitro-nation-stories.json) |
@@ -3228,6 +3230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find All | 151614 | [151614-find-all.json](./151614-find-all.json) |
 | Find All 4: Magic | 226805 | [226805-find-all-4-magic.json](./226805-find-all-4-magic.json) |
 | Find All 5: Vikings | 317026 | [317026-find-all-5-vikings.json](./317026-find-all-5-vikings.json) |
+| Find All Things: Christmas | 361059 | [361059-find-all-things-christmas.json](./361059-find-all-things-christmas.json) |
 | Find All: Bunker - Extra Level | 345512 | [345512-find-all-bunker-extra-level.json](./345512-find-all-bunker-extra-level.json) |
 | Find All: Valentine's Day | 388766 | [388766-find-all-valentines-day.json](./388766-find-all-valentines-day.json) |
 | Find Brains | 304704 | [304704-find-brains.json](./304704-find-brains.json) |
@@ -6200,6 +6203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortune Paradox | 405083 | [405083-fortune-paradox.json](./405083-fortune-paradox.json) |
 | Fortune Quest: Dice wo Korogase | 42242 | [42242-fortune-quest-dice-wo-korogase.json](./42242-fortune-quest-dice-wo-korogase.json) |
 | Fortune Rewritten: Costume Pack 1 | 277939 | [277939-fortune-rewritten-costume-pack-1.json](./277939-fortune-rewritten-costume-pack-1.json) |
+| Fortune Seller | 361069 | [361069-fortune-seller.json](./361069-fortune-seller.json) |
 | Fortune Street | 19930 | [19930-fortune-street.json](./19930-fortune-street.json) |
 | Fortune Street 2: Rolling Again | 283405 | [283405-fortune-street-2-rolling-again.json](./283405-fortune-street-2-rolling-again.json) |
 | Fortune Street Smart | 64398 | [64398-fortune-street-smart.json](./64398-fortune-street-smart.json) |
