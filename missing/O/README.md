@@ -3340,6 +3340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overkill | 95402 | [95402-overkill.json](./95402-overkill.json) |
 | Overkill 3 | 69373 | [69373-overkill-3.json](./69373-overkill-3.json) |
 | Overkill Mafia | 22138 | [22138-overkill-mafia.json](./22138-overkill-mafia.json) |
+| Overkill Squad | 374932 | [374932-overkill-squad.json](./374932-overkill-squad.json) |
 | Overkill VR | 25946 | [25946-overkill-vr.json](./25946-overkill-vr.json) |
 | Overkill's The Walking Dead | 7631 | [7631-overkills-the-walking-dead.json](./7631-overkills-the-walking-dead.json) |
 | Overkings | 218398 | [218398-overkings.json](./218398-overkings.json) |
