@@ -3502,6 +3502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iron Dawn | 286033 | [286033-iron-dawn.json](./286033-iron-dawn.json) |
 | Iron Decree | 326205 | [326205-iron-decree.json](./326205-iron-decree.json) |
 | Iron Diamond | 236300 | [236300-iron-diamond.json](./236300-iron-diamond.json) |
+| Iron Dice | 352145 | [352145-iron-dice.json](./352145-iron-dice.json) |
 | Iron Dusk Path of Honor | 366135 | [366135-iron-dusk-path-of-honor.json](./366135-iron-dusk-path-of-honor.json) |
 | Iron Emblem | 215765 | [215765-iron-emblem.json](./215765-iron-emblem.json) |
 | Iron Emblem: Gaiden | 353819 | [353819-iron-emblem-gaiden.json](./353819-iron-emblem-gaiden.json) |
@@ -3560,6 +3561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iron Soldier | 22460 | [22460-iron-soldier.json](./22460-iron-soldier.json) |
 | Iron Soldier 3 | 51182 | [51182-iron-soldier-3.json](./51182-iron-soldier-3.json) |
 | Iron Soul | 10460 | [10460-iron-soul.json](./10460-iron-soul.json) |
+| Iron Tangle Breakout | 352233 | [352233-iron-tangle-breakout.json](./352233-iron-tangle-breakout.json) |
 | Iron Tank: The Invasion of Normandy | 19956 | [19956-iron-tank-the-invasion-of-normandy.json](./19956-iron-tank-the-invasion-of-normandy.json) |
 | Iron Throne: Kingdoms | 101518 | [101518-iron-throne-kingdoms.json](./101518-iron-throne-kingdoms.json) |
 | Iron Tides | 51561 | [51561-iron-tides.json](./51561-iron-tides.json) |
@@ -3957,6 +3959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It Was Not A Suicide | 414576 | [414576-it-was-not-a-suicide.json](./414576-it-was-not-a-suicide.json) |
 | It Was You | 333019 | [333019-it-was-you.json](./333019-it-was-you.json) |
 | It Will Find You | 124207 | [124207-it-will-find-you.json](./124207-it-will-find-you.json) |
+| It Works: Electronics Repair Simulator | 352231 | [352231-it-works-electronics-repair-simulator.json](./352231-it-works-electronics-repair-simulator.json) |
 | It: Unstoppable | 364059 | [364059-it-unstoppable.json](./364059-it-unstoppable.json) |
 | It's a Beautiful Day | 177526 | [177526-its-a-beautiful-day.json](./177526-its-a-beautiful-day.json) |
 | It's a Funny Old Game | 73790 | [73790-its-a-funny-old-game.json](./73790-its-a-funny-old-game.json) |
