@@ -5138,6 +5138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memo Blox | 304373 | [304373-memo-blox.json](./304373-memo-blox.json) |
 | Memo Box - Memory Challenges | 108625 | [108625-memo-box-memory-challenges.json](./108625-memo-box-memory-challenges.json) |
 | Memo R.I.P. | 400411 | [400411-memo-r-i-p.json](./400411-memo-r-i-p.json) |
+| Memo to the Underlord | 364374 | [364374-memo-to-the-underlord.json](./364374-memo-to-the-underlord.json) |
 | Memoir '44 Online | 28724 | [28724-memoir-44-online.json](./28724-memoir-44-online.json) |
 | Memoir En Code | 18990 | [18990-memoir-en-code.json](./18990-memoir-en-code.json) |
 | Memoirium | 365108 | [365108-memoirium.json](./365108-memoirium.json) |
@@ -6503,6 +6504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Microtrip | 344909 | [344909-microtrip.json](./344909-microtrip.json) |
 | MicroVolts Surge | 16263 | [16263-microvolts-surge.json](./16263-microvolts-surge.json) |
 | Microwave Story | 311060 | [311060-microwave-story.json](./311060-microwave-story.json) |
+| Microwave Yourself | 364401 | [364401-microwave-yourself.json](./364401-microwave-yourself.json) |
 | MicroWorks | 132893 | [132893-microworks.json](./132893-microworks.json) |
 | Mid-Death Crisis | 295495 | [295495-mid-death-crisis.json](./295495-mid-death-crisis.json) |
 | Midair | 55115 | [55115-midair.json](./55115-midair.json) |
@@ -8945,6 +8947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monark: Deluxe Edition | 153017 | [153017-monark-deluxe-edition.json](./153017-monark-deluxe-edition.json) |
 | Monark: Limited Edition Box | 152340 | [152340-monark-limited-edition-box.json](./152340-monark-limited-edition-box.json) |
 | Monastery | 342174 | [342174-monastery.json](./342174-monastery.json) |
+| Monastery: Ora et Labora | 364402 | [364402-monastery-ora-et-labora.json](./364402-monastery-ora-et-labora.json) |
 | Monativity Surveillance | 359542 | [359542-monativity-surveillance.json](./359542-monativity-surveillance.json) |
 | Monato Esprit | 68047 | [68047-monato-esprit.json](./68047-monato-esprit.json) |
 | Moncage | 116578 | [116578-moncage.json](./116578-moncage.json) |
@@ -11516,6 +11519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MuseSwipr | 229604 | [229604-museswipr.json](./229604-museswipr.json) |
 | Museum | 109891 | [109891-museum.json](./109891-museum.json) |
 | Museum | 185437 | [185437-museum.json](./185437-museum.json) |
+| Museum Multiverse | 364368 | [364368-museum-multiverse.json](./364368-museum-multiverse.json) |
 | Museum Mystery | 291700 | [291700-museum-mystery.json](./291700-museum-mystery.json) |
 | Museum of All Things | 333238 | [333238-museum-of-all-things.json](./333238-museum-of-all-things.json) |
 | Museum of Extravagance | 169860 | [169860-museum-of-extravagance.json](./169860-museum-of-extravagance.json) |
