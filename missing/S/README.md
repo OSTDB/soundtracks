@@ -11439,6 +11439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spac Cop, Sereth | 97843 | [97843-spac-cop-sereth.json](./97843-spac-cop-sereth.json) |
 | Space | 213452 | [213452-space.json](./213452-space.json) |
 | Space - The Return Of The Pixxelfrazzer | 34883 | [34883-space-the-return-of-the-pixxelfrazzer.json](./34883-space-the-return-of-the-pixxelfrazzer.json) |
+| Space #2: The Gallery of Unfulfilled Dreams | 352762 | [352762-space-2-the-gallery-of-unfulfilled-dreams.json](./352762-space-2-the-gallery-of-unfulfilled-dreams.json) |
 | Space 1889 | 73866 | [73866-space-1889.json](./73866-space-1889.json) |
 | Space 2: Breakthrough Gaming Arcade | 145669 | [145669-space-2-breakthrough-gaming-arcade.json](./145669-space-2-breakthrough-gaming-arcade.json) |
 | Space Abyss | 159642 | [159642-space-abyss.json](./159642-space-abyss.json) |
