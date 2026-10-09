@@ -4550,6 +4550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amato | 391273 | [391273-amato.json](./391273-amato.json) |
 | Amatsu Misora ni! Kumo no Hatate ni | 62263 | [62263-amatsu-misora-ni-kumo-no-hatate-ni.json](./62263-amatsu-misora-ni-kumo-no-hatate-ni.json) |
 | Amatsu Sora ni Saku | 309672 | [309672-amatsu-sora-ni-saku.json](./309672-amatsu-sora-ni-saku.json) |
+| Amatsuko | 383153 | [383153-amatsuko.json](./383153-amatsuko.json) |
 | Amaya's Lost Soul | 213982 | [213982-amayas-lost-soul.json](./213982-amayas-lost-soul.json) |
 | Amayakashi na Kanojo: Boseiteki na Ayakashi Musume to Ama Ero Seikatsu Hajimemasu | 194578 | [194578-amayakashi-na-kanojo-boseiteki-na-ayakashi-musume-to-ama-ero-seikatsu-hajimemasu.json](./194578-amayakashi-na-kanojo-boseiteki-na-ayakashi-musume-to-ama-ero-seikatsu-hajimemasu.json) |
 | Amaze | 29235 | [29235-amaze.json](./29235-amaze.json) |
@@ -8373,6 +8374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | As We Know It | 99094 | [99094-as-we-know-it.json](./99094-as-we-know-it.json) |
 | As We Unite | 365081 | [365081-as-we-unite.json](./365081-as-we-unite.json) |
 | As You Wish | 301961 | [301961-as-you-wish.json](./301961-as-you-wish.json) |
+| As:9-nine- Arteisia | 383122 | [383122-as-9-nine-arteisia.json](./383122-as-9-nine-arteisia.json) |
 | AS+CEND | 69521 | [69521-as-cend.json](./69521-as-cend.json) |
 | Asa-Chan Wants to Go Home! | 272283 | [272283-asa-chan-wants-to-go-home.json](./272283-asa-chan-wants-to-go-home.json) |
 | Asagao Academy: Normal Boots Club | 46579 | [46579-asagao-academy-normal-boots-club.json](./46579-asagao-academy-normal-boots-club.json) |
@@ -9160,6 +9162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astroburrow | 358375 | [358375-astroburrow.json](./358375-astroburrow.json) |
 | Astrocat: Milky Way Journey | 196264 | [196264-astrocat-milky-way-journey.json](./196264-astrocat-milky-way-journey.json) |
 | Astrochibbi | 377677 | [377677-astrochibbi.json](./377677-astrochibbi.json) |
+| Astrocode | 383119 | [383119-astrocode.json](./383119-astrocode.json) |
 | Astrocop | 295848 | [295848-astrocop.json](./295848-astrocop.json) |
 | AstroDiner Manager | 387097 | [387097-astrodiner-manager.json](./387097-astrodiner-manager.json) |
 | Astrodition | 149583 | [149583-astrodition.json](./149583-astrodition.json) |
@@ -9289,6 +9292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | At Dead of Night | 141235 | [141235-at-dead-of-night.json](./141235-at-dead-of-night.json) |
 | At Dead Of Night: The Great Hugo | 413525 | [413525-at-dead-of-night-the-great-hugo.json](./413525-at-dead-of-night-the-great-hugo.json) |
 | At Eternity's Hatch | 398548 | [398548-at-eternitys-hatch.json](./398548-at-eternitys-hatch.json) |
+| At Hell's Gate | 383148 | [383148-at-hells-gate.json](./383148-at-hells-gate.json) |
 | At Home | 116270 | [116270-at-home.json](./116270-at-home.json) |
 | At Home | 230234 | [230234-at-home.json](./230234-at-home.json) |
 | At Home Alone | 111237 | [111237-at-home-alone.json](./111237-at-home-alone.json) |
