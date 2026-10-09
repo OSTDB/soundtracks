@@ -1773,6 +1773,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Path to Etinway | 161405 | [161405-path-to-etinway.json](./161405-path-to-etinway.json) |
 | Path to Light | 150280 | [150280-path-to-light.json](./150280-path-to-light.json) |
 | Path to Nowhere: Ditty Nightsong | 329175 | [329175-path-to-nowhere-ditty-nightsong.json](./329175-path-to-nowhere-ditty-nightsong.json) |
+| Path to Nowhere: Dreamy Bubble | 377968 | [377968-path-to-nowhere-dreamy-bubble.json](./377968-path-to-nowhere-dreamy-bubble.json) |
+| Path to Nowhere: Raging Sands | 377967 | [377967-path-to-nowhere-raging-sands.json](./377967-path-to-nowhere-raging-sands.json) |
 | Path to Octavius | 243815 | [243815-path-to-octavius.json](./243815-path-to-octavius.json) |
 | Path to Prosperity | 150738 | [150738-path-to-prosperity.json](./150738-path-to-prosperity.json) |
 | Path to Serenity | 350497 | [350497-path-to-serenity.json](./350497-path-to-serenity.json) |
@@ -3714,6 +3716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pieces of Eight | 96677 | [96677-pieces-of-eight.json](./96677-pieces-of-eight.json) |
 | Pieces of Me | 318759 | [318759-pieces-of-me.json](./318759-pieces-of-me.json) |
 | Pieces of My Heart | 246635 | [246635-pieces-of-my-heart.json](./246635-pieces-of-my-heart.json) |
+| Pieces of the Kingdom | 377965 | [377965-pieces-of-the-kingdom.json](./377965-pieces-of-the-kingdom.json) |
 | Piecrust | 311699 | [311699-piecrust.json](./311699-piecrust.json) |
 | Pieklo | 274135 | [274135-pieklo.json](./274135-pieklo.json) |
 | Pien | 144144 | [144144-pien.json](./144144-pien.json) |
@@ -6010,6 +6013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Legends Adventures | 77609 | [77609-pocket-legends-adventures.json](./77609-pocket-legends-adventures.json) |
 | Pocket Lights | 239924 | [239924-pocket-lights.json](./239924-pocket-lights.json) |
 | Pocket Lint Zero | 387645 | [387645-pocket-lint-zero.json](./387645-pocket-lint-zero.json) |
+| Pocket Lord | 377987 | [377987-pocket-lord.json](./377987-pocket-lord.json) |
 | Pocket Love | 63334 | [63334-pocket-love.json](./63334-pocket-love.json) |
 | Pocket Love: If | 43973 | [43973-pocket-love-if.json](./43973-pocket-love-if.json) |
 | Pocket Ludo | 401098 | [401098-pocket-ludo.json](./401098-pocket-ludo.json) |
@@ -9646,6 +9650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prototype-Cube | 118330 | [118330-prototype-cube.json](./118330-prototype-cube.json) |
 | Prototype: Biohazard Bundle | 19611 | [19611-prototype-biohazard-bundle.json](./19611-prototype-biohazard-bundle.json) |
 | ProtoViolence | 271174 | [271174-protoviolence.json](./271174-protoviolence.json) |
+| Protox.io | 377988 | [377988-protox-io.json](./377988-protox-io.json) |
 | Protozed | 244350 | [244350-protozed.json](./244350-protozed.json) |
 | Protozoa | 211728 | [211728-protozoa.json](./211728-protozoa.json) |
 | Proud Dinosaurs | 109540 | [109540-proud-dinosaurs.json](./109540-proud-dinosaurs.json) |
