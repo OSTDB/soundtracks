@@ -2425,6 +2425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Conan: Unchained - Hyborian Conqueror Collection | 171936 | [171936-age-of-conan-unchained-hyborian-conqueror-collection.json](./171936-age-of-conan-unchained-hyborian-conqueror-collection.json) |
 | Age of Conquest III | 9949 | [9949-age-of-conquest-iii.json](./9949-age-of-conquest-iii.json) |
 | Age of Conquest IV | 36268 | [36268-age-of-conquest-iv.json](./36268-age-of-conquest-iv.json) |
+| Age of Damnation | 374943 | [374943-age-of-damnation.json](./374943-age-of-damnation.json) |
 | Age of Darkness: Die Suche nach Relict | 118291 | [118291-age-of-darkness-die-suche-nach-relict.json](./118291-age-of-darkness-die-suche-nach-relict.json) |
 | Age of Darkness: Final Stand | 159424 | [159424-age-of-darkness-final-stand.json](./159424-age-of-darkness-final-stand.json) |
 | Age of Defense | 29247 | [29247-age-of-defense.json](./29247-age-of-defense.json) |
@@ -4421,6 +4422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alter Ego: DreamWalker | 63535 | [63535-alter-ego-dreamwalker.json](./63535-alter-ego-dreamwalker.json) |
 | Alter Psycho | 346740 | [346740-alter-psycho.json](./346740-alter-psycho.json) |
 | Alter World | 35588 | [35588-alter-world.json](./35588-alter-world.json) |
+| Alteratio | 374986 | [374986-alteratio.json](./374986-alteratio.json) |
 | Alteration | 180803 | [180803-alteration.json](./180803-alteration.json) |
 | Alteration | 379368 | [379368-alteration.json](./379368-alteration.json) |
 | Altered | 117645 | [117645-altered.json](./117645-altered.json) |
