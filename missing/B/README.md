@@ -5680,6 +5680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blank Relish | 292016 | [292016-blank-relish.json](./292016-blank-relish.json) |
 | Blank Relish: Remastered | 298828 | [298828-blank-relish-remastered.json](./298828-blank-relish-remastered.json) |
 | Blank Room Soup.exe | 378545 | [378545-blank-room-soup-exe.json](./378545-blank-room-soup-exe.json) |
+| Blank_01 | 361627 | [361627-blank-01.json](./361627-blank-01.json) |
 | Blanka in Shura no Kuni | 267575 | [267575-blanka-in-shura-no-kuni.json](./267575-blanka-in-shura-no-kuni.json) |
 | Blanket Cat | 395179 | [395179-blanket-cat.json](./395179-blanket-cat.json) |
 | Blanket Fort | 355539 | [355539-blanket-fort.json](./355539-blanket-fort.json) |
