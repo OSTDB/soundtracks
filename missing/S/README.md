@@ -2736,6 +2736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret Savings | 114383 | [114383-secret-savings.json](./114383-secret-savings.json) |
 | Secret School | 290498 | [290498-secret-school.json](./290498-secret-school.json) |
 | Secret Scout in the Temple of Demise | 48200 | [48200-secret-scout-in-the-temple-of-demise.json](./48200-secret-scout-in-the-temple-of-demise.json) |
+| Secret Sealing Travel | 371595 | [371595-secret-sealing-travel.json](./371595-secret-sealing-travel.json) |
 | Secret Service: In Harm's Way | 73800 | [73800-secret-service-in-harms-way.json](./73800-secret-service-in-harms-way.json) |
 | Secret Service: Security Breach | 73350 | [73350-secret-service-security-breach.json](./73350-secret-service-security-breach.json) |
 | Secret Spy: Operation Love | 240249 | [240249-secret-spy-operation-love.json](./240249-secret-spy-operation-love.json) |
@@ -3330,6 +3331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sentient | 227966 | [227966-sentient.json](./227966-sentient.json) |
 | Sentient Noir | 219618 | [219618-sentient-noir.json](./219618-sentient-noir.json) |
 | Sentient: Arena Mech Royale | 130758 | [130758-sentient-arena-mech-royale.json](./130758-sentient-arena-mech-royale.json) |
+| Sentiment Laundromat | 371603 | [371603-sentiment-laundromat.json](./371603-sentiment-laundromat.json) |
 | Sentimental Garden | 334863 | [334863-sentimental-garden.json](./334863-sentimental-garden.json) |
 | Sentimental Gensoukyou | 306568 | [306568-sentimental-gensoukyou.json](./306568-sentimental-gensoukyou.json) |
 | Sentimental Graffiti | 124264 | [124264-sentimental-graffiti.json](./124264-sentimental-graffiti.json) |
@@ -5163,6 +5165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shinzen Hollow | 292512 | [292512-shinzen-hollow.json](./292512-shinzen-hollow.json) |
 | Shio | 31393 | [31393-shio.json](./31393-shio.json) |
 | Shion no Ou: The Flowers of Hard Blood | 122896 | [122896-shion-no-ou-the-flowers-of-hard-blood.json](./122896-shion-no-ou-the-flowers-of-hard-blood.json) |
+| Shion to One Room: Kizuna Kirameku Koi Iroha SS | 371592 | [371592-shion-to-one-room-kizuna-kirameku-koi-iroha-ss.json](./371592-shion-to-one-room-kizuna-kirameku-koi-iroha-ss.json) |
 | Shiori no Kotoha: Dark Reflections | 186841 | [186841-shiori-no-kotoha-dark-reflections.json](./186841-shiori-no-kotoha-dark-reflections.json) |
 | Shiosai no Serenade: Episode 1 | 396561 | [396561-shiosai-no-serenade-episode-1.json](./396561-shiosai-no-serenade-episode-1.json) |
 | Shiosai no Serenade: Episode 2 | 396562 | [396562-shiosai-no-serenade-episode-2.json](./396562-shiosai-no-serenade-episode-2.json) |
@@ -6574,6 +6577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simple 500 Series Vol. 2: The Misshitsu kara no Dasshutsu | 79351 | [79351-simple-500-series-vol-2-the-misshitsu-kara-no-dasshutsu.json](./79351-simple-500-series-vol-2-the-misshitsu-kara-no-dasshutsu.json) |
 | Simple 500 Series Vol. 3: The Misshitsu kara no Dasshutsu Tsukiyo no Mansion-hen | 65475 | [65475-simple-500-series-vol-3-the-misshitsu-kara-no-dasshutsu-tsukiyo-no-mansion-hen.json](./65475-simple-500-series-vol-3-the-misshitsu-kara-no-dasshutsu-tsukiyo-no-mansion-hen.json) |
 | Simple Arena Robots | 374959 | [374959-simple-arena-robots.json](./374959-simple-arena-robots.json) |
+| Simple Boxing Drills VR | 371587 | [371587-simple-boxing-drills-vr.json](./371587-simple-boxing-drills-vr.json) |
 | Simple Characters 2000 Series Vol. 03: Kamen Rider - The Bike Race | 43812 | [43812-simple-characters-2000-series-vol-03-kamen-rider-the-bike-race.json](./43812-simple-characters-2000-series-vol-03-kamen-rider-the-bike-race.json) |
 | Simple Characters 2000 Series Vol. 10: Sakigake! Otokojuku - The Dodge Ball | 64117 | [64117-simple-characters-2000-series-vol-10-sakigake-otokojuku-the-dodge-ball.json](./64117-simple-characters-2000-series-vol-10-sakigake-otokojuku-the-dodge-ball.json) |
 | Simple Characters 2000 Series Vol. 11: Detective Conan - The Board Game | 78706 | [78706-simple-characters-2000-series-vol-11-detective-conan-the-board-game.json](./78706-simple-characters-2000-series-vol-11-detective-conan-the-board-game.json) |
@@ -8674,6 +8678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snack World: Reloaded | 397927 | [397927-snack-world-reloaded.json](./397927-snack-world-reloaded.json) |
 | Snack World: The Dungeon Crawl - Gold | 28830 | [28830-snack-world-the-dungeon-crawl-gold.json](./28830-snack-world-the-dungeon-crawl-gold.json) |
 | Snackjack | 54378 | [54378-snackjack.json](./54378-snackjack.json) |
+| SnackTimeActionGame | 371593 | [371593-snacktimeactiongame.json](./371593-snacktimeactiongame.json) |
 | Snafu | 5697 | [5697-snafu.json](./5697-snafu.json) |
 | Snafubar | 386438 | [386438-snafubar.json](./386438-snafubar.json) |
 | Snägäri Pinball | 388765 | [388765-snagari-pinball.json](./388765-snagari-pinball.json) |
@@ -11113,6 +11118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soulframe | 209643 | [209643-soulframe.json](./209643-soulframe.json) |
 | SoulFrost | 90653 | [90653-soulfrost.json](./90653-soulfrost.json) |
 | SoulfulLand | 126604 | [126604-soulfulland.json](./126604-soulfulland.json) |
+| Soulfused | 371744 | [371744-soulfused.json](./371744-soulfused.json) |
 | SoulGatherer | 367539 | [367539-soulgatherer.json](./367539-soulgatherer.json) |
 | Soulgrave | 412294 | [412294-soulgrave.json](./412294-soulgrave.json) |
 | SoulHunt | 32121 | [32121-soulhunt.json](./32121-soulhunt.json) |
@@ -14769,7 +14775,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stardew Valley: Collector's Edition | 42895 | [42895-stardew-valley-collectors-edition.json](./42895-stardew-valley-collectors-edition.json) |
 | Stardiver | 150279 | [150279-stardiver.json](./150279-stardiver.json) |
 | Stardoll Dress Up Blog Stars | 357220 | [357220-stardoll-dress-up-blog-stars.json](./357220-stardoll-dress-up-blog-stars.json) |
+| Stardom | 371625 | [371625-stardom.json](./371625-stardom.json) |
+| Stardom 2 | 371626 | [371626-stardom-2.json](./371626-stardom-2.json) |
 | Stardom 2000 | 380431 | [380431-stardom-2000.json](./380431-stardom-2000.json) |
+| Stardom 3 | 371627 | [371627-stardom-3.json](./371627-stardom-3.json) |
 | Stardom Warriors: LaSalle Ishii's Childs Quest | 340027 | [340027-stardom-warriors-lasalle-ishiis-childs-quest.json](./340027-stardom-warriors-lasalle-ishiis-childs-quest.json) |
 | Stardream | 349984 | [349984-stardream.json](./349984-stardream.json) |
 | StarDrive 2 | 13660 | [13660-stardrive-2.json](./13660-stardrive-2.json) |
@@ -15349,6 +15358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stay Home It Rains Outside | 316406 | [316406-stay-home-it-rains-outside.json](./316406-stay-home-it-rains-outside.json) |
 | Stay in | 237056 | [237056-stay-in.json](./237056-stay-in.json) |
 | Stay in the Light | 118641 | [118641-stay-in-the-light.json](./118641-stay-in-the-light.json) |
+| Stay in the Moment | 371622 | [371622-stay-in-the-moment.json](./371622-stay-in-the-moment.json) |
 | Stay in the White Line: Level Version | 232051 | [232051-stay-in-the-white-line-level-version.json](./232051-stay-in-the-white-line-level-version.json) |
 | Stay Lit, Find Radio | 151042 | [151042-stay-lit-find-radio.json](./151042-stay-lit-find-radio.json) |
 | Stay Mayor | 60756 | [60756-stay-mayor.json](./60756-stay-mayor.json) |
@@ -20593,6 +20603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suvarnabhumi Mahayuth | 214752 | [214752-suvarnabhumi-mahayuth.json](./214752-suvarnabhumi-mahayuth.json) |
 | Suwako no Danmaku Pyon-pyon Daisansaku | 375567 | [375567-suwako-no-danmaku-pyon-pyon-daisansaku.json](./375567-suwako-no-danmaku-pyon-pyon-daisansaku.json) |
 | Suwako-chan Cubic | 261202 | [261202-suwako-chan-cubic.json](./261202-suwako-chan-cubic.json) |
+| Suzaku Shijuusou: "Saikyou" no Katana Hime | 371586 | [371586-suzaku-shijuusou-saikyou-no-katana-hime.json](./371586-suzaku-shijuusou-saikyou-no-katana-hime.json) |
 | Suze Orman's Money Game | 208352 | [208352-suze-ormans-money-game.json](./208352-suze-ormans-money-game.json) |
 | Suzu Monogatari | 66075 | [66075-suzu-monogatari.json](./66075-suzu-monogatari.json) |
 | Suzu to Mari no Bouken 2: Lost Colors and Golden Bells | 206177 | [206177-suzu-to-mari-no-bouken-2-lost-colors-and-golden-bells.json](./206177-suzu-to-mari-no-bouken-2-lost-colors-and-golden-bells.json) |
