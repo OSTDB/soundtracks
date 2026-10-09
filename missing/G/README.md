@@ -2240,6 +2240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost in the Shell: Stand Alone Complex - First Assault Online | 35255 | [35255-ghost-in-the-shell-stand-alone-complex-first-assault-online.json](./35255-ghost-in-the-shell-stand-alone-complex-first-assault-online.json) |
 | Ghost in the SQL Data | 414822 | [414822-ghost-in-the-sql-data.json](./414822-ghost-in-the-sql-data.json) |
 | Ghost Infinite Labyrinth | 353767 | [353767-ghost-infinite-labyrinth.json](./353767-ghost-infinite-labyrinth.json) |
+| Ghost Invasion: Idle Hunter | 340343 | [340343-ghost-invasion-idle-hunter.json](./340343-ghost-invasion-idle-hunter.json) |
 | Ghost Jukebox | 357189 | [357189-ghost-jukebox.json](./357189-ghost-jukebox.json) |
 | Ghost Jumper: Red Hoodie | 315280 | [315280-ghost-jumper-red-hoodie.json](./315280-ghost-jumper-red-hoodie.json) |
 | Ghost Keeper | 312187 | [312187-ghost-keeper.json](./312187-ghost-keeper.json) |
