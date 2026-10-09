@@ -588,6 +588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Varyznex | 329154 | [329154-varyznex.json](./329154-varyznex.json) |
 | Vasilis | 113489 | [113489-vasilis.json](./113489-vasilis.json) |
 | Vasilisa the Beautiful | 360566 | [360566-vasilisa-the-beautiful.json](./360566-vasilisa-the-beautiful.json) |
+| Vassoul | 384251 | [384251-vassoul.json](./384251-vassoul.json) |
 | Vast | 116103 | [116103-vast.json](./116103-vast.json) |
 | Vast Haven-1 VR | 350495 | [350495-vast-haven-1-vr.json](./350495-vast-haven-1-vr.json) |
 | Vasteel | 92701 | [92701-vasteel.json](./92701-vasteel.json) |
@@ -947,6 +948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Versailles Mysteries: Oscar and the Athanor | 11034 | [11034-versailles-mysteries-oscar-and-the-athanor.json](./11034-versailles-mysteries-oscar-and-the-athanor.json) |
 | Versalis | 365095 | [365095-versalis.json](./365095-versalis.json) |
 | Verse Hopper | 312910 | [312910-verse-hopper.json](./312910-verse-hopper.json) |
+| Verse of the Hollow Oath | 384269 | [384269-verse-of-the-hollow-oath.json](./384269-verse-of-the-hollow-oath.json) |
 | Verse Project | 378312 | [378312-verse-project.json](./378312-verse-project.json) |
 | Verse Roll | 263564 | [263564-verse-roll.json](./263564-verse-roll.json) |
 | Verse Surf | 141800 | [141800-verse-surf.json](./141800-verse-surf.json) |
