@@ -1037,6 +1037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Words | 117051 | [117051-happy-words.json](./117051-happy-words.json) |
 | Happy World | 118445 | [118445-happy-world.json](./118445-happy-world.json) |
 | Happy World | 273979 | [273979-happy-world.json](./273979-happy-world.json) |
+| Happy World 2 | 336487 | [336487-happy-world-2.json](./336487-happy-world-2.json) |
 | Happy Z-Day | 153341 | [153341-happy-z-day.json](./153341-happy-z-day.json) |
 | Happy Zone | 193937 | [193937-happy-zone.json](./193937-happy-zone.json) |
 | Happy! Happy!! Boarders in Hokkaido | 61708 | [61708-happy-happy-boarders-in-hokkaido.json](./61708-happy-happy-boarders-in-hokkaido.json) |
