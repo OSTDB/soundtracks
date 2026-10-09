@@ -233,6 +233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earthless | 252866 | [252866-earthless.json](./252866-earthless.json) |
 | Earthling of Gaia | 294367 | [294367-earthling-of-gaia.json](./294367-earthling-of-gaia.json) |
 | Earthling Priorities | 229154 | [229154-earthling-priorities.json](./229154-earthling-priorities.json) |
+| Earthling's Undertaking | 371631 | [371631-earthlings-undertaking.json](./371631-earthlings-undertaking.json) |
 | EarthNight | 27742 | [27742-earthnight.json](./27742-earthnight.json) |
 | Earthquake | 349482 | [349482-earthquake.json](./349482-earthquake.json) |
 | Earthquake Escape | 193229 | [193229-earthquake-escape.json](./193229-earthquake-escape.json) |
