@@ -2318,6 +2318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aftermoor | 121650 | [121650-aftermoor.json](./121650-aftermoor.json) |
 | AfterMove | 412481 | [412481-aftermove.json](./412481-aftermove.json) |
 | Afternoon in the House of Secrets | 221820 | [221820-afternoon-in-the-house-of-secrets.json](./221820-afternoon-in-the-house-of-secrets.json) |
+| Afternoon Paralysis | 381330 | [381330-afternoon-paralysis.json](./381330-afternoon-paralysis.json) |
 | Afterplace | 232032 | [232032-afterplace.json](./232032-afterplace.json) |
 | Afterpulse | 58625 | [58625-afterpulse.json](./58625-afterpulse.json) |
 | AfterQuest | 394314 | [394314-afterquest.json](./394314-afterquest.json) |
