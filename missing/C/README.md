@@ -1412,6 +1412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cardmare: Descent | 398444 | [398444-cardmare-descent.json](./398444-cardmare-descent.json) |
 | CardMatch | 116951 | [116951-cardmatch.json](./116951-cardmatch.json) |
 | Cardnarok: Raid with Gods | 132232 | [132232-cardnarok-raid-with-gods.json](./132232-cardnarok-raid-with-gods.json) |
+| Cardness | 338688 | [338688-cardness.json](./338688-cardness.json) |
 | Cardoom | 386985 | [386985-cardoom.json](./386985-cardoom.json) |
 | Cardpocalypse: Out of Time | 154597 | [154597-cardpocalypse-out-of-time.json](./154597-cardpocalypse-out-of-time.json) |
 | Cardpocalypse: Time Warp Edition | 154554 | [154554-cardpocalypse-time-warp-edition.json](./154554-cardpocalypse-time-warp-edition.json) |
@@ -6455,6 +6456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cocoto Magic Circus 2 | 61861 | [61861-cocoto-magic-circus-2.json](./61861-cocoto-magic-circus-2.json) |
 | Cocoto Tennis Master | 80476 | [80476-cocoto-tennis-master.json](./80476-cocoto-tennis-master.json) |
 | Coda | 252211 | [252211-coda.json](./252211-coda.json) |
+| Coda | 338681 | [338681-coda.json](./338681-coda.json) |
 | Coda | 358349 | [358349-coda.json](./358349-coda.json) |
 | Code 3: Police Response | 149713 | [149713-code-3-police-response.json](./149713-code-3-police-response.json) |
 | Code 51: Mecha Arena | 99297 | [99297-code-51-mecha-arena.json](./99297-code-51-mecha-arena.json) |
@@ -7367,6 +7369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Combo Quest 2 | 102768 | [102768-combo-quest-2.json](./102768-combo-quest-2.json) |
 | Combo! | 184405 | [184405-combo.json](./184405-combo.json) |
 | ComboChain Pulse | 408712 | [408712-combochain-pulse.json](./408712-combochain-pulse.json) |
+| Combolite | 338675 | [338675-combolite.json](./338675-combolite.json) |
 | Combos | 37290 | [37290-combos.json](./37290-combos.json) |
 | Combotronica | 373093 | [373093-combotronica.json](./373093-combotronica.json) |
 | Come Again, Chachii? | 396005 | [396005-come-again-chachii.json](./396005-come-again-chachii.json) |
