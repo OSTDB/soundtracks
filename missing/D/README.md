@@ -6258,6 +6258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney's Hercules: Animated Storybook | 139313 | [139313-disneys-hercules-animated-storybook.json](./139313-disneys-hercules-animated-storybook.json) |
 | Disney's Hide and Sneak | 3885 | [3885-disneys-hide-and-sneak.json](./3885-disneys-hide-and-sneak.json) |
 | Disney's Hot Shots: Timon and Pumbaa's Jungle Pinball | 109480 | [109480-disneys-hot-shots-timon-and-pumbaas-jungle-pinball.json](./109480-disneys-hot-shots-timon-and-pumbaas-jungle-pinball.json) |
+| Disney's House of Mouse: Pack the House | 337139 | [337139-disneys-house-of-mouse-pack-the-house.json](./337139-disneys-house-of-mouse-pack-the-house.json) |
 | Disney's Kim Possible | 339884 | [339884-disneys-kim-possible.json](./339884-disneys-kim-possible.json) |
 | Disney's Kim Possible: Kimmunicator | 47728 | [47728-disneys-kim-possible-kimmunicator.json](./47728-disneys-kim-possible-kimmunicator.json) |
 | Disney's Kim Possible: Revenge of Monkey Fist | 49275 | [49275-disneys-kim-possible-revenge-of-monkey-fist.json](./49275-disneys-kim-possible-revenge-of-monkey-fist.json) |
@@ -10420,6 +10421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DUD Detective Ulysses Day | 379049 | [379049-dud-detective-ulysses-day.json](./379049-dud-detective-ulysses-day.json) |
 | Dude Called Barry | 352352 | [352352-dude-called-barry.json](./352352-dude-called-barry.json) |
 | Dude Cops | 107195 | [107195-dude-cops.json](./107195-dude-cops.json) |
+| Dude Fighter | 337060 | [337060-dude-fighter.json](./337060-dude-fighter.json) |
 | Dude in the Dark | 392863 | [392863-dude-in-the-dark.json](./392863-dude-in-the-dark.json) |
 | Dude My House Is Haunted | 362354 | [362354-dude-my-house-is-haunted.json](./362354-dude-my-house-is-haunted.json) |
 | Dude Perfect HD | 86892 | [86892-dude-perfect-hd.json](./86892-dude-perfect-hd.json) |
