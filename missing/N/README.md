@@ -1579,6 +1579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Spaceboard | 99597 | [99597-neon-spaceboard.json](./99597-neon-spaceboard.json) |
 | Neon Spellstorm | 329750 | [329750-neon-spellstorm.json](./329750-neon-spellstorm.json) |
 | Neon Spin | 359382 | [359382-neon-spin.json](./359382-neon-spin.json) |
+| Neon Striker | 348305 | [348305-neon-striker.json](./348305-neon-striker.json) |
 | Neon Struct: Carrion Carrier | 158211 | [158211-neon-struct-carrion-carrier.json](./158211-neon-struct-carrion-carrier.json) |
 | Neon Struct: Desperation Column | 187444 | [187444-neon-struct-desperation-column.json](./187444-neon-struct-desperation-column.json) |
 | Neon Struct: Die Augen der Welt | 17571 | [17571-neon-struct-die-augen-der-welt.json](./17571-neon-struct-die-augen-der-welt.json) |
@@ -2276,6 +2277,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NFL Quarterback 15 | 74417 | [74417-nfl-quarterback-15.json](./74417-nfl-quarterback-15.json) |
 | NFL Quarterback Club | 114754 | [114754-nfl-quarterback-club.json](./114754-nfl-quarterback-club.json) |
 | NFL Quarterback Club 2000 | 3559 | [3559-nfl-quarterback-club-2000.json](./3559-nfl-quarterback-club-2000.json) |
+| NFL Quarterback Club 96 | 348201 | [348201-nfl-quarterback-club-96.json](./348201-nfl-quarterback-club-96.json) |
+| NFL Quarterback Club 96 | 348206 | [348206-nfl-quarterback-club-96.json](./348206-nfl-quarterback-club-96.json) |
 | NFL Rivals | 249177 | [249177-nfl-rivals.json](./249177-nfl-rivals.json) |
 | NFL Rush Zone | 230392 | [230392-nfl-rush-zone.json](./230392-nfl-rush-zone.json) |
 | NFL Sports Talk Football '93 Starring Joe Montana | 72117 | [72117-nfl-sports-talk-football-93-starring-joe-montana.json](./72117-nfl-sports-talk-football-93-starring-joe-montana.json) |
