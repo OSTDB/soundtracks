@@ -11,6 +11,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Y.A.S.G | 84935 | [84935-y-a-s-g.json](./84935-y-a-s-g.json) |
 | Y.A.W: You Are Weaponized | 140939 | [140939-y-a-w-you-are-weaponized.json](./140939-y-a-w-you-are-weaponized.json) |
 | Y.M.C.A. | 333632 | [333632-y-m-c-a.json](./333632-y-m-c-a.json) |
+| Y2K II: Benevolent Psychosis | 348292 | [348292-y2k-ii-benevolent-psychosis.json](./348292-y2k-ii-benevolent-psychosis.json) |
 | Y2K: The Game | 84208 | [84208-y2k-the-game.json](./84208-y2k-the-game.json) |
 | Y2Kthulhu | 185072 | [185072-y2kthulhu.json](./185072-y2kthulhu.json) |
 | Y2Roll | 329783 | [329783-y2roll.json](./329783-y2roll.json) |
@@ -1202,6 +1203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | YumeSD | 202345 | [202345-yumesd.json](./202345-yumesd.json) |
 | Yumeutsutsu Re:Master | 109602 | [109602-yumeutsutsu-re-master.json](./109602-yumeutsutsu-re-master.json) |
 | Yumeutsutsu Re:Master Bundle Pack | 144205 | [144205-yumeutsutsu-re-master-bundle-pack.json](./144205-yumeutsutsu-re-master-bundle-pack.json) |
+| Yumi's Adventure | 348211 | [348211-yumis-adventure.json](./348211-yumis-adventure.json) |
 | Yumm Monsters | 256244 | [256244-yumm-monsters.json](./256244-yumm-monsters.json) |
 | Yummimons | 363015 | [363015-yummimons.json](./363015-yummimons.json) |
 | Yummy | 156590 | [156590-yummy.json](./156590-yummy.json) |
