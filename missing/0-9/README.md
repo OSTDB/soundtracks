@@ -1798,6 +1798,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 81-tris | 289576 | [289576-81-tris.json](./289576-81-tris.json) |
 | 814 | 262347 | [262347-814.json](./262347-814.json) |
 | 81diver | 269321 | [269321-81diver.json](./269321-81diver.json) |
+| 81diver DS Naruzou-kun Hasami Shogi | 344311 | [344311-81diver-ds-naruzou-kun-hasami-shogi.json](./344311-81diver-ds-naruzou-kun-hasami-shogi.json) |
+| 81diver DS Story | 344312 | [344312-81diver-ds-story.json](./344312-81diver-ds-story.json) |
+| 81diver Wii | 344309 | [344309-81diver-wii.json](./344309-81diver-wii.json) |
 | 82-0 | 407398 | [407398-82-0.json](./407398-82-0.json) |
 | 86 | 170894 | [170894-86.json](./170894-86.json) |
 | 86 Daily Drift Simulator JDM | 223929 | [223929-86-daily-drift-simulator-jdm.json](./223929-86-daily-drift-simulator-jdm.json) |
