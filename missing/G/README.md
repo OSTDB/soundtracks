@@ -1093,6 +1093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garden Life: Garden Party Pack | 286203 | [286203-garden-life-garden-party-pack.json](./286203-garden-life-garden-party-pack.json) |
 | Garden Life: Supporter Pack | 289321 | [289321-garden-life-supporter-pack.json](./289321-garden-life-supporter-pack.json) |
 | Garden Madness | 192330 | [192330-garden-madness.json](./192330-garden-madness.json) |
+| Garden Masters | 343295 | [343295-garden-masters.json](./343295-garden-masters.json) |
 | Garden Maze | 246539 | [246539-garden-maze.json](./246539-garden-maze.json) |
 | Garden of Aiden | 295843 | [295843-garden-of-aiden.json](./295843-garden-of-aiden.json) |
 | Garden of Butterflies | 353283 | [353283-garden-of-butterflies.json](./353283-garden-of-butterflies.json) |
@@ -5847,6 +5848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gru Dash Play | 384538 | [384538-gru-dash-play.json](./384538-gru-dash-play.json) |
 | Grub Guardian | 395883 | [395883-grub-guardian.json](./395883-grub-guardian.json) |
 | Grub Truck | 295859 | [295859-grub-truck.json](./295859-grub-truck.json) |
+| Grubby Fingers | 343305 | [343305-grubby-fingers.json](./343305-grubby-fingers.json) |
 | Grudge | 278516 | [278516-grudge.json](./278516-grudge.json) |
 | Grudge Murder: Flight | 298685 | [298685-grudge-murder-flight.json](./298685-grudge-murder-flight.json) |
 | Grudge Warriors | 19269 | [19269-grudge-warriors.json](./19269-grudge-warriors.json) |
