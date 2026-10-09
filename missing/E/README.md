@@ -3291,6 +3291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escapepion | 221079 | [221079-escapepion.json](./221079-escapepion.json) |
 | Escapers | 210853 | [210853-escapers.json](./210853-escapers.json) |
 | EscapeTrick: 35 Fateful Enigmas | 85120 | [85120-escapetrick-35-fateful-enigmas.json](./85120-escapetrick-35-fateful-enigmas.json) |
+| EscapeVr | 343762 | [343762-escapevr.json](./343762-escapevr.json) |
 | Escapeworld Dilemma | 150526 | [150526-escapeworld-dilemma.json](./150526-escapeworld-dilemma.json) |
 | Escaping | 180577 | [180577-escaping.json](./180577-escaping.json) |
 | Escaping a Fireworks Factory: Nyanzou & Kumakichi - Escape Game | 240225 | [240225-escaping-a-fireworks-factory-nyanzou-and-kumakichi-escape-game.json](./240225-escaping-a-fireworks-factory-nyanzou-and-kumakichi-escape-game.json) |
@@ -4555,6 +4556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Expand & Exterminate: Terrytorial Disputes - Endless Base Defense | 367935 | [367935-expand-and-exterminate-terrytorial-disputes-endless-base-defense.json](./367935-expand-and-exterminate-terrytorial-disputes-endless-base-defense.json) |
 | Expandaball | 394809 | [394809-expandaball.json](./394809-expandaball.json) |
 | Expander | 34256 | [34256-expander.json](./34256-expander.json) |
+| Expanse | 343772 | [343772-expanse.json](./343772-expanse.json) |
 | ExpanSim | 117640 | [117640-expansim.json](./117640-expansim.json) |
 | Expansion | 120397 | [120397-expansion.json](./120397-expansion.json) |
 | Expedia Cenote Experience | 109626 | [109626-expedia-cenote-experience.json](./109626-expedia-cenote-experience.json) |
