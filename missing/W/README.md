@@ -2626,6 +2626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where's Baby | 107932 | [107932-wheres-baby.json](./107932-wheres-baby.json) |
 | Where's Fido? | 278995 | [278995-wheres-fido.json](./278995-wheres-fido.json) |
 | Where's My Avocado? | 112240 | [112240-wheres-my-avocado.json](./112240-wheres-my-avocado.json) |
+| Where's my Bara Deck? | 342006 | [342006-wheres-my-bara-deck.json](./342006-wheres-my-bara-deck.json) |
 | Where's My Bara Deck? Hardcastle | 393834 | [393834-wheres-my-bara-deck-hardcastle.json](./393834-wheres-my-bara-deck-hardcastle.json) |
 | Where's My Chicken? | 181699 | [181699-wheres-my-chicken.json](./181699-wheres-my-chicken.json) |
 | Where's My Drink...? | 365863 | [365863-wheres-my-drink.json](./365863-wheres-my-drink.json) |
