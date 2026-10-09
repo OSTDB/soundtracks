@@ -862,6 +862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uncharted 3: Drake's Deception - Explorer Edition | 41881 | [41881-uncharted-3-drakes-deception-explorer-edition.json](./41881-uncharted-3-drakes-deception-explorer-edition.json) |
 | Uncharted 3: Drake's Deception - Special Edition | 139922 | [139922-uncharted-3-drakes-deception-special-edition.json](./139922-uncharted-3-drakes-deception-special-edition.json) |
 | Uncharted 3: Multiplayer | 252195 | [252195-uncharted-3-multiplayer.json](./252195-uncharted-3-multiplayer.json) |
+| Uncharted 4: A Thief's End - Patch 1.18 | 382528 | [382528-uncharted-4-a-thiefs-end-patch-1-18.json](./382528-uncharted-4-a-thiefs-end-patch-1-18.json) |
 | Uncharted 4: A Thief's End - Remastered | 168668 | [168668-uncharted-4-a-thiefs-end-remastered.json](./168668-uncharted-4-a-thiefs-end-remastered.json) |
 | Uncharted 4: A Thief's End Libertalia Collector's Edition | 41879 | [41879-uncharted-4-a-thiefs-end-libertalia-collectors-edition.json](./41879-uncharted-4-a-thiefs-end-libertalia-collectors-edition.json) |
 | Uncharted 4: A Thief's End Special Edition | 41874 | [41874-uncharted-4-a-thiefs-end-special-edition.json](./41874-uncharted-4-a-thiefs-end-special-edition.json) |
