@@ -1672,6 +1672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fart Hotel | 243967 | [243967-fart-hotel.json](./243967-fart-hotel.json) |
 | Fart King | 338558 | [338558-fart-king.json](./338558-fart-king.json) |
 | Fart Up | 299455 | [299455-fart-up.json](./299455-fart-up.json) |
+| Fartcore | 374946 | [374946-fartcore.json](./374946-fartcore.json) |
 | Farthest Frontier | 142688 | [142688-farthest-frontier.json](./142688-farthest-frontier.json) |
 | Farting Simulator | 315285 | [315285-farting-simulator.json](./315285-farting-simulator.json) |
 | Fartonauts | 348358 | [348358-fartonauts.json](./348358-fartonauts.json) |
@@ -3289,6 +3290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find with Seoul: Story Puzzle | 253385 | [253385-find-with-seoul-story-puzzle.json](./253385-find-with-seoul-story-puzzle.json) |
 | Find X | 310038 | [310038-find-x.json](./310038-find-x.json) |
 | Find Yer Treasure! | 176454 | [176454-find-yer-treasure.json](./176454-find-yer-treasure.json) |
+| Find Your Friends | 374948 | [374948-find-your-friends.json](./374948-find-your-friends.json) |
 | Find Your IF | 305349 | [305349-find-your-if.json](./305349-find-your-if.json) |
 | Find Your Way | 98709 | [98709-find-your-way.json](./98709-find-your-way.json) |
 | Find Your Way: Episode 1 | 171925 | [171925-find-your-way-episode-1.json](./171925-find-your-way-episode-1.json) |
@@ -4136,6 +4138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Nights At Jerpig's | 206010 | [206010-five-nights-at-jerpigs.json](./206010-five-nights-at-jerpigs.json) |
 | Five Nights at Kyle's 2 | 179724 | [179724-five-nights-at-kyles-2.json](./179724-five-nights-at-kyles-2.json) |
 | Five Nights At Maggies | 301498 | [301498-five-nights-at-maggies.json](./301498-five-nights-at-maggies.json) |
+| Five Nights At Monkeys | 374968 | [374968-five-nights-at-monkeys.json](./374968-five-nights-at-monkeys.json) |
 | Five Nights at Pikachu's | 360770 | [360770-five-nights-at-pikachus.json](./360770-five-nights-at-pikachus.json) |
 | Five Nights At Pingas | 403829 | [403829-five-nights-at-pingas.json](./403829-five-nights-at-pingas.json) |
 | Five Nights At PT's II | 412393 | [412393-five-nights-at-pts-ii.json](./412393-five-nights-at-pts-ii.json) |
@@ -5186,6 +5189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foddia | 332436 | [332436-foddia.json](./332436-foddia.json) |
 | Foe Frenzy | 126564 | [126564-foe-frenzy.json](./126564-foe-frenzy.json) |
 | Foes of Ali | 4295 | [4295-foes-of-ali.json](./4295-foes-of-ali.json) |
+| Foes of Legacy: Survivors | 374940 | [374940-foes-of-legacy-survivors.json](./374940-foes-of-legacy-survivors.json) |
 | Foes.io | 75135 | [75135-foes-io.json](./75135-foes-io.json) |
 | FOF: Fear Of Failure | 372496 | [372496-fof-fear-of-failure.json](./372496-fof-fear-of-failure.json) |
 | Fog | 201837 | [201837-fog.json](./201837-fog.json) |
@@ -5535,6 +5539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | For the Hive | 190704 | [190704-for-the-hive.json](./190704-for-the-hive.json) |
 | For the Honor | 134646 | [134646-for-the-honor.json](./134646-for-the-honor.json) |
 | For the King | 20331 | [20331-for-the-king.json](./20331-for-the-king.json) |
+| For the King: Deluxe Edition | 374979 | [374979-for-the-king-deluxe-edition.json](./374979-for-the-king-deluxe-edition.json) |
 | For the Motherland | 235371 | [235371-for-the-motherland.json](./235371-for-the-motherland.json) |
 | For the Night | 123486 | [123486-for-the-night.json](./123486-for-the-night.json) |
 | For the People | 135844 | [135844-for-the-people.json](./135844-for-the-people.json) |
@@ -6006,6 +6011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortified Zone | 85637 | [85637-fortified-zone.json](./85637-fortified-zone.json) |
 | Fortify | 35030 | [35030-fortify.json](./35030-fortify.json) |
 | Fortify: Special Edition | 25055 | [25055-fortify-special-edition.json](./25055-fortify-special-edition.json) |
+| Fortiori | 374937 | [374937-fortiori.json](./374937-fortiori.json) |
 | Fortissimo FA Intl. Ver | 105750 | [105750-fortissimo-fa-intl-ver.json](./105750-fortissimo-fa-intl-ver.json) |
 | Fortissimo FA//Akkord:Nachsten Phase | 101597 | [101597-fortissimo-fa-akkord-nachsten-phase.json](./101597-fortissimo-fa-akkord-nachsten-phase.json) |
 | Fortitude Invasion | 208273 | [208273-fortitude-invasion.json](./208273-fortitude-invasion.json) |
