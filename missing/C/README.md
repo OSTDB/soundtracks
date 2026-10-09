@@ -2854,6 +2854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ceiling Zero | 282105 | [282105-ceiling-zero.json](./282105-ceiling-zero.json) |
 | Ceke Ceke | 208227 | [208227-ceke-ceke.json](./208227-ceke-ceke.json) |
 | Cel Damage 2 | 143110 | [143110-cel-damage-2.json](./143110-cel-damage-2.json) |
+| Cel Story | 364350 | [364350-cel-story.json](./364350-cel-story.json) |
 | Celebrate | 80178 | [80178-celebrate.json](./80178-celebrate.json) |
 | Celebrating Lake Xochimilco | 250299 | [250299-celebrating-lake-xochimilco.json](./250299-celebrating-lake-xochimilco.json) |
 | Celebrating Lotería! | 375816 | [375816-celebrating-loteria.json](./375816-celebrating-loteria.json) |
@@ -2891,6 +2892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Celestial Drift | 391244 | [391244-celestial-drift.json](./391244-celestial-drift.json) |
 | Celestial Force: Magical Mayhem | 238495 | [238495-celestial-force-magical-mayhem.json](./238495-celestial-force-magical-mayhem.json) |
 | Celestial Fragments | 396219 | [396219-celestial-fragments.json](./396219-celestial-fragments.json) |
+| Celestial Golf | 364373 | [364373-celestial-golf.json](./364373-celestial-golf.json) |
 | Celestial Green | 181706 | [181706-celestial-green.json](./181706-celestial-green.json) |
 | Celestial Hearts | 141817 | [141817-celestial-hearts.json](./141817-celestial-hearts.json) |
 | Celestial Heights | 180820 | [180820-celestial-heights.json](./180820-celestial-heights.json) |
@@ -10977,6 +10979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CSR Classics | 58238 | [58238-csr-classics.json](./58238-csr-classics.json) |
 | CSR Racing 2 | 55169 | [55169-csr-racing-2.json](./55169-csr-racing-2.json) |
 | CSS Room Escape | 252121 | [252121-css-room-escape.json](./252121-css-room-escape.json) |
+| CSS Traffic Regulation | 364351 | [364351-css-traffic-regulation.json](./364351-css-traffic-regulation.json) |
 | CT Special Forces 3: BioTerror | 43898 | [43898-ct-special-forces-3-bioterror.json](./43898-ct-special-forces-3-bioterror.json) |
 | CT Special Forces 3: BioTerror | 49253 | [49253-ct-special-forces-3-bioterror.json](./49253-ct-special-forces-3-bioterror.json) |
 | CTcity | 174088 | [174088-ctcity.json](./174088-ctcity.json) |
@@ -11503,6 +11506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursed Castilla | 197635 | [197635-cursed-castilla.json](./197635-cursed-castilla.json) |
 | Cursed Castilla | 288182 | [288182-cursed-castilla.json](./288182-cursed-castilla.json) |
 | Cursed Castle DX | 365765 | [365765-cursed-castle-dx.json](./365765-cursed-castle-dx.json) |
+| Cursed Castle II | 364352 | [364352-cursed-castle-ii.json](./364352-cursed-castle-ii.json) |
 | Cursed Caves | 89663 | [89663-cursed-caves.json](./89663-cursed-caves.json) |
 | Cursed Ciddy | 414620 | [414620-cursed-ciddy.json](./414620-cursed-ciddy.json) |
 | Cursed Clouds 64 | 415299 | [415299-cursed-clouds-64.json](./415299-cursed-clouds-64.json) |
