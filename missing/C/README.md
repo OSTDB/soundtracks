@@ -3843,6 +3843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess Master | 247054 | [247054-chess-master.json](./247054-chess-master.json) |
 | Chess Master | 346114 | [346114-chess-master.json](./346114-chess-master.json) |
 | Chess Mega Bundle | 152872 | [152872-chess-mega-bundle.json](./152872-chess-mega-bundle.json) |
+| Chess Mess | 353772 | [353772-chess-mess.json](./353772-chess-mess.json) |
 | Chess Minimal | 147955 | [147955-chess-minimal.json](./147955-chess-minimal.json) |
 | Chess Minis | 232378 | [232378-chess-minis.json](./232378-chess-minis.json) |
 | Chess Mix | 135240 | [135240-chess-mix.json](./135240-chess-mix.json) |
@@ -5794,6 +5795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clean Up After Your Dog | 280427 | [280427-clean-up-after-your-dog.json](./280427-clean-up-after-your-dog.json) |
 | Clean Up Crew | 360057 | [360057-clean-up-crew.json](./360057-clean-up-crew.json) |
 | Clean Up Earth | 367820 | [367820-clean-up-earth.json](./367820-clean-up-earth.json) |
+| Clean Your Room | 353775 | [353775-clean-your-room.json](./353775-clean-your-room.json) |
 | Clean-up Squad | 258493 | [258493-clean-up-squad.json](./258493-clean-up-squad.json) |
 | Clean'Em Up | 35709 | [35709-cleanem-up.json](./35709-cleanem-up.json) |
 | Cleanbot 9000 | 329053 | [329053-cleanbot-9000.json](./329053-cleanbot-9000.json) |
@@ -10557,6 +10559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crow Crime: A Murder Mystery | 129534 | [129534-crow-crime-a-murder-mystery.json](./129534-crow-crime-a-murder-mystery.json) |
 | Crow Heist | 401039 | [401039-crow-heist.json](./401039-crow-heist.json) |
 | Crow Story | 189147 | [189147-crow-story.json](./189147-crow-story.json) |
+| Crow Style | 353797 | [353797-crow-style.json](./353797-crow-style.json) |
 | Crow's Cry | 211726 | [211726-crows-cry.json](./211726-crows-cry.json) |
 | Crow's Curated Closet: Shop Simulator | 407481 | [407481-crows-curated-closet-shop-simulator.json](./407481-crows-curated-closet-shop-simulator.json) |
 | Crowbar Climber | 348928 | [348928-crowbar-climber.json](./348928-crowbar-climber.json) |
