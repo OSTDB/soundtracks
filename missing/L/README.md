@@ -1437,6 +1437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Left Right | 347283 | [347283-left-right.json](./347283-left-right.json) |
 | Left Right Dodge Race | 358352 | [358352-left-right-dodge-race.json](./358352-left-right-dodge-race.json) |
 | Left Stranded | 195199 | [195199-left-stranded.json](./195199-left-stranded.json) |
+| Left to Die in Zombhai | 336509 | [336509-left-to-die-in-zombhai.json](./336509-left-to-die-in-zombhai.json) |
 | Left to My Own Devices | 180239 | [180239-left-to-my-own-devices.json](./180239-left-to-my-own-devices.json) |
 | Left to Survive | 106608 | [106608-left-to-survive.json](./106608-left-to-survive.json) |
 | Left-Hand Path | 32901 | [32901-left-hand-path.json](./32901-left-hand-path.json) |
@@ -2678,6 +2679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life by You | 240899 | [240899-life-by-you.json](./240899-life-by-you.json) |
 | Life Code | 287774 | [287774-life-code.json](./287774-life-code.json) |
 | Life Combinations | 117479 | [117479-life-combinations.json](./117479-life-combinations.json) |
+| Life Dash | 336572 | [336572-life-dash.json](./336572-life-dash.json) |
 | Life Dream | 331456 | [331456-life-dream.json](./331456-life-dream.json) |
 | Life Eater | 289431 | [289431-life-eater.json](./289431-life-eater.json) |
 | Life Effect | 236763 | [236763-life-effect.json](./236763-life-effect.json) |
