@@ -6926,6 +6926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Royal Chaos: Enter a Dreamlike Kingdom of Romance | 105883 | [105883-royal-chaos-enter-a-dreamlike-kingdom-of-romance.json](./105883-royal-chaos-enter-a-dreamlike-kingdom-of-romance.json) |
 | Royal Defense | 10784 | [10784-royal-defense.json](./10784-royal-defense.json) |
 | Royal Defense 2 | 10785 | [10785-royal-defense-2.json](./10785-royal-defense-2.json) |
+| Royal Defense: Ancient Menace | 337586 | [337586-royal-defense-ancient-menace.json](./337586-royal-defense-ancient-menace.json) |
 | Royal Detective: Incident at Ashford | 355553 | [355553-royal-detective-incident-at-ashford.json](./355553-royal-detective-incident-at-ashford.json) |
 | Royal Dice: Random Defense | 174810 | [174810-royal-dice-random-defense.json](./174810-royal-dice-random-defense.json) |
 | Royal Dungeon | 205605 | [205605-royal-dungeon.json](./205605-royal-dungeon.json) |
