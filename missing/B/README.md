@@ -3520,6 +3520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beginning Grammer | 42195 | [42195-beginning-grammer.json](./42195-beginning-grammer.json) |
 | Beglov Style | 129060 | [129060-beglov-style.json](./129060-beglov-style.json) |
 | BeGone | 109038 | [109038-begone.json](./109038-begone.json) |
+| Beguile | 373876 | [373876-beguile.json](./373876-beguile.json) |
 | Behemoth | 274122 | [274122-behemoth.json](./274122-behemoth.json) |
 | Behemoth | 320724 | [320724-behemoth.json](./320724-behemoth.json) |
 | Behemoth | 323797 | [323797-behemoth.json](./323797-behemoth.json) |
@@ -6445,6 +6446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood Money | 11968 | [11968-blood-money.json](./11968-blood-money.json) |
 | Blood Money | 411673 | [411673-blood-money.json](./411673-blood-money.json) |
 | Blood Money: Lethal Eden | 388296 | [388296-blood-money-lethal-eden.json](./388296-blood-money-lethal-eden.json) |
+| Blood Moon Massacre | 373904 | [373904-blood-moon-massacre.json](./373904-blood-moon-massacre.json) |
 | Blood Moon: The Last Stand | 90815 | [90815-blood-moon-the-last-stand.json](./90815-blood-moon-the-last-stand.json) |
 | Blood Night | 326976 | [326976-blood-night.json](./326976-blood-night.json) |
 | Blood nor Water | 109503 | [109503-blood-nor-water.json](./109503-blood-nor-water.json) |
@@ -8106,6 +8108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bound Crystal Saga | 388927 | [388927-bound-crystal-saga.json](./388927-bound-crystal-saga.json) |
 | Bound Forest | 234672 | [234672-bound-forest.json](./234672-bound-forest.json) |
 | Bound High | 50596 | [50596-bound-high.json](./50596-bound-high.json) |
+| Bound in a Nutshell in Infinite Space | 373885 | [373885-bound-in-a-nutshell-in-infinite-space.json](./373885-bound-in-a-nutshell-in-infinite-space.json) |
 | Bound in Time | 199602 | [199602-bound-in-time.json](./199602-bound-in-time.json) |
 | Bound of the Skies | 38976 | [38976-bound-of-the-skies.json](./38976-bound-of-the-skies.json) |
 | Bound to Defend | 410267 | [410267-bound-to-defend.json](./410267-bound-to-defend.json) |
