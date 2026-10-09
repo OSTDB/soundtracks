@@ -3299,6 +3299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goal and Crossbones | 178649 | [178649-goal-and-crossbones.json](./178649-goal-and-crossbones.json) |
 | Goal FH | 217879 | [217879-goal-fh.json](./217879-goal-fh.json) |
 | Goal II | 48286 | [48286-goal-ii.json](./48286-goal-ii.json) |
+| Goal IV | 339779 | [339779-goal-iv.json](./339779-goal-iv.json) |
 | Goal Poacher VR: Football Header Simulator | 326415 | [326415-goal-poacher-vr-football-header-simulator.json](./326415-goal-poacher-vr-football-header-simulator.json) |
 | Goal Storm | 20315 | [20315-goal-storm.json](./20315-goal-storm.json) |
 | Goal Storm '97 | 20141 | [20141-goal-storm-97.json](./20141-goal-storm-97.json) |
