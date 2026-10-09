@@ -417,6 +417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halloween | 40790 | [40790-halloween.json](./40790-halloween.json) |
 | Halloween | 80499 | [80499-halloween.json](./80499-halloween.json) |
 | Halloween 1 | 300824 | [300824-halloween-1.json](./300824-halloween-1.json) |
+| Halloween 2: Asylum | 357182 | [357182-halloween-2-asylum.json](./357182-halloween-2-asylum.json) |
 | Halloween 3D | 106514 | [106514-halloween-3d.json](./106514-halloween-3d.json) |
 | Halloween Candy Break 2: Head to Head | 214515 | [214515-halloween-candy-break-2-head-to-head.json](./214515-halloween-candy-break-2-head-to-head.json) |
 | Halloween Candy Break Head to Head | 210084 | [210084-halloween-candy-break-head-to-head.json](./210084-halloween-candy-break-head-to-head.json) |
@@ -2725,6 +2726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello, Kami-sama Worker | 379354 | [379354-hello-kami-sama-worker.json](./379354-hello-kami-sama-worker.json) |
 | Hello, Lucia | 235818 | [235818-hello-lucia.json](./235818-hello-lucia.json) |
 | Hello, Mario! | 363807 | [363807-hello-mario.json](./363807-hello-mario.json) |
+| Hello, Neighbor! Reborn | 357197 | [357197-hello-neighbor-reborn.json](./357197-hello-neighbor-reborn.json) |
 | Hello, This Is Bear | 272344 | [272344-hello-this-is-bear.json](./272344-hello-this-is-bear.json) |
 | Hello, Vic | 258543 | [258543-hello-vic.json](./258543-hello-vic.json) |
 | Hello, World! | 182322 | [182322-hello-world.json](./182322-hello-world.json) |
@@ -4959,6 +4961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hivecraft | 345644 | [345644-hivecraft.json](./345644-hivecraft.json) |
 | HiveFall | 109518 | [109518-hivefall.json](./109518-hivefall.json) |
 | Hivefront TD | 379857 | [379857-hivefront-td.json](./379857-hivefront-td.json) |
+| Hivemind | 357175 | [357175-hivemind.json](./357175-hivemind.json) |
 | Hiversaires | 230239 | [230239-hiversaires.json](./230239-hiversaires.json) |
 | Hiveswap Friendsim | 97012 | [97012-hiveswap-friendsim.json](./97012-hiveswap-friendsim.json) |
 | Hiveswap Friendsim: Volume Eight | 161243 | [161243-hiveswap-friendsim-volume-eight.json](./161243-hiveswap-friendsim-volume-eight.json) |
@@ -7455,6 +7458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hypercharge: Unboxed | 39758 | [39758-hypercharge-unboxed.json](./39758-hypercharge-unboxed.json) |
 | Hyperchase Auto Race | 41990 | [41990-hyperchase-auto-race.json](./41990-hyperchase-auto-race.json) |
 | Hypercide | 156532 | [156532-hypercide.json](./156532-hypercide.json) |
+| Hypercore | 357205 | [357205-hypercore.json](./357205-hypercore.json) |
 | HyperCore: Out of Dimension | 120887 | [120887-hypercore-out-of-dimension.json](./120887-hypercore-out-of-dimension.json) |
 | HyperCore: Rhythm Bullet Hell | 122388 | [122388-hypercore-rhythm-bullet-hell.json](./122388-hypercore-rhythm-bullet-hell.json) |
 | Hypercoven | 256784 | [256784-hypercoven.json](./256784-hypercoven.json) |
@@ -7564,6 +7568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HyperZone | 42608 | [42608-hyperzone.json](./42608-hyperzone.json) |
 | Hyphae | 389636 | [389636-hyphae.json](./389636-hyphae.json) |
 | Hyphen | 24566 | [24566-hyphen.json](./24566-hyphen.json) |
+| Hypixel | 357176 | [357176-hypixel.json](./357176-hypixel.json) |
 | Hypnaborea | 396243 | [396243-hypnaborea.json](./396243-hypnaborea.json) |
 | Hypnagogia | 144747 | [144747-hypnagogia.json](./144747-hypnagogia.json) |
 | Hypnagogia: Boundless Dreams | 159865 | [159865-hypnagogia-boundless-dreams.json](./159865-hypnagogia-boundless-dreams.json) |
