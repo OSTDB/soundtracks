@@ -1572,6 +1572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bardbarian | 8379 | [8379-bardbarian.json](./8379-bardbarian.json) |
 | Bardcard | 214479 | [214479-bardcard.json](./214479-bardcard.json) |
 | Bardella and the Curse of Silence | 399167 | [399167-bardella-and-the-curse-of-silence.json](./399167-bardella-and-the-curse-of-silence.json) |
+| Bardi: Real Viking | 344875 | [344875-bardi-real-viking.json](./344875-bardi-real-viking.json) |
 | Bardic: Quest for Love | 270100 | [270100-bardic-quest-for-love.json](./270100-bardic-quest-for-love.json) |
 | Bardo | 109727 | [109727-bardo.json](./109727-bardo.json) |
 | Bardysh: Kromeford no Juunin | 167075 | [167075-bardysh-kromeford-no-juunin.json](./167075-bardysh-kromeford-no-juunin.json) |
@@ -3036,6 +3037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bearslayer | 33059 | [33059-bearslayer.json](./33059-bearslayer.json) |
 | Bearstone Campsite | 346607 | [346607-bearstone-campsite.json](./346607-bearstone-campsite.json) |
 | Beary the Hatchet | 269679 | [269679-beary-the-hatchet.json](./269679-beary-the-hatchet.json) |
+| Bearzerk | 344983 | [344983-bearzerk.json](./344983-bearzerk.json) |
 | Bearzerkers | 17881 | [17881-bearzerkers.json](./17881-bearzerkers.json) |
 | Beast Agenda 2030 | 106539 | [106539-beast-agenda-2030.json](./106539-beast-agenda-2030.json) |
 | Beast and Cleaver | 345021 | [345021-beast-and-cleaver.json](./345021-beast-and-cleaver.json) |
@@ -4767,6 +4769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bingo Pop | 101516 | [101516-bingo-pop.json](./101516-bingo-pop.json) |
 | Bingo Roulette | 404213 | [404213-bingo-roulette.json](./404213-bingo-roulette.json) |
 | Bingo TV | 276406 | [276406-bingo-tv.json](./276406-bingo-tv.json) |
+| Bingo Tycoon! | 344901 | [344901-bingo-tycoon.json](./344901-bingo-tycoon.json) |
 | Bingo: Pet Rescue | 258965 | [258965-bingo-pet-rescue.json](./258965-bingo-pet-rescue.json) |
 | Bingo!!! | 106757 | [106757-bingo.json](./106757-bingo.json) |
 | Biniax | 93357 | [93357-biniax.json](./93357-biniax.json) |
@@ -5580,6 +5583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BlackSmith HIT | 31917 | [31917-blacksmith-hit.json](./31917-blacksmith-hit.json) |
 | Blacksmith Legends | 159348 | [159348-blacksmith-legends.json](./159348-blacksmith-legends.json) |
 | Blacksmith of the Sand Kingdom | 142258 | [142258-blacksmith-of-the-sand-kingdom.json](./142258-blacksmith-of-the-sand-kingdom.json) |
+| Blacksmith Shop Simulator | 344980 | [344980-blacksmith-shop-simulator.json](./344980-blacksmith-shop-simulator.json) |
 | Blacksmith Simulator | 353951 | [353951-blacksmith-simulator.json](./353951-blacksmith-simulator.json) |
 | Blacksmith Village | 156109 | [156109-blacksmith-village.json](./156109-blacksmith-village.json) |
 | Blacksmith War | 201803 | [201803-blacksmith-war.json](./201803-blacksmith-war.json) |
@@ -6647,6 +6651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloodborne: Limited Hunter Edition | 166180 | [166180-bloodborne-limited-hunter-edition.json](./166180-bloodborne-limited-hunter-edition.json) |
 | Bloodborne: Nightmare Edition | 44651 | [44651-bloodborne-nightmare-edition.json](./44651-bloodborne-nightmare-edition.json) |
 | Bloodborne: The Old Hunters | 14647 | [14647-bloodborne-the-old-hunters.json](./14647-bloodborne-the-old-hunters.json) |
+| BloodBound Knights | 344873 | [344873-bloodbound-knights.json](./344873-bloodbound-knights.json) |
 | Bloodbreaker: Labyrinth of the Witch | 361834 | [361834-bloodbreaker-labyrinth-of-the-witch.json](./361834-bloodbreaker-labyrinth-of-the-witch.json) |
 | BloodDome Classic | 254140 | [254140-blooddome-classic.json](./254140-blooddome-classic.json) |
 | Blooded Fields | 217865 | [217865-blooded-fields.json](./217865-blooded-fields.json) |
@@ -7929,6 +7934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Borderline | 6101 | [6101-borderline.json](./6101-borderline.json) |
 | Borderline Homicide | 245788 | [245788-borderline-homicide.json](./245788-borderline-homicide.json) |
 | Borderline Project: Beta-2 | 184577 | [184577-borderline-project-beta-2.json](./184577-borderline-project-beta-2.json) |
+| Borderline: Life On The Line | 344903 | [344903-borderline-life-on-the-line.json](./344903-borderline-life-on-the-line.json) |
 | BorderStrain | 115037 | [115037-borderstrain.json](./115037-borderstrain.json) |
 | Borderus: Angels & Demons | 150547 | [150547-borderus-angels-and-demons.json](./150547-borderus-angels-and-demons.json) |
 | Bore Blasters | 250809 | [250809-bore-blasters.json](./250809-bore-blasters.json) |
@@ -10866,11 +10872,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Byte Fyte: Multiplayer | 226276 | [226276-byte-fyte-multiplayer.json](./226276-byte-fyte-multiplayer.json) |
 | Byte Hack | 287914 | [287914-byte-hack.json](./287914-byte-hack.json) |
 | Byte Lynx | 203889 | [203889-byte-lynx.json](./203889-byte-lynx.json) |
+| Byte Master | 344977 | [344977-byte-master.json](./344977-byte-master.json) |
 | Byte Rider | 234011 | [234011-byte-rider.json](./234011-byte-rider.json) |
 | Byte Survivor | 303717 | [303717-byte-survivor.json](./303717-byte-survivor.json) |
 | Byte the Bullet | 197213 | [197213-byte-the-bullet.json](./197213-byte-the-bullet.json) |
 | Byte Wars | 360578 | [360578-byte-wars.json](./360578-byte-wars.json) |
 | Byter | 319575 | [319575-byter.json](./319575-byter.json) |
+| ByteRogue | 344990 | [344990-byterogue.json](./344990-byterogue.json) |
 | Bytes and Knights Adventure | 402433 | [402433-bytes-and-knights-adventure.json](./402433-bytes-and-knights-adventure.json) |
 | Bytes: The Reverse Tower Defense | 244707 | [244707-bytes-the-reverse-tower-defense.json](./244707-bytes-the-reverse-tower-defense.json) |
 | Bytesize | 263489 | [263489-bytesize.json](./263489-bytesize.json) |
