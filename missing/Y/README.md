@@ -892,6 +892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Your Train 2 | 267085 | [267085-your-train-2.json](./267085-your-train-2.json) |
 | Your True Nature Test | 399797 | [399797-your-true-nature-test.json](./399797-your-true-nature-test.json) |
 | Your Turn to Die: Death Game by Majority | 120974 | [120974-your-turn-to-die-death-game-by-majority.json](./120974-your-turn-to-die-death-game-by-majority.json) |
+| Your Turn To Die: Final Chapter, Part Two | 359369 | [359369-your-turn-to-die-final-chapter-part-two.json](./359369-your-turn-to-die-final-chapter-part-two.json) |
 | Your Turn to Disembark | 288448 | [288448-your-turn-to-disembark.json](./288448-your-turn-to-disembark.json) |
 | Your Turn To Thrive | 413776 | [413776-your-turn-to-thrive.json](./413776-your-turn-to-thrive.json) |
 | Your Very Last Words | 352760 | [352760-your-very-last-words.json](./352760-your-very-last-words.json) |
