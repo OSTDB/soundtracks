@@ -278,6 +278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zelda3 | 237542 | [237542-zelda3.json](./237542-zelda3.json) |
 | ZeldaBound 64 | 315025 | [315025-zeldabound-64.json](./315025-zeldabound-64.json) |
 | Zeldara's Glitch City | 278629 | [278629-zeldaras-glitch-city.json](./278629-zeldaras-glitch-city.json) |
+| Zeldarius | 383729 | [383729-zeldarius.json](./383729-zeldarius.json) |
 | Zeldo's Challenge Ch. 1: Bingo's Revenge | 243618 | [243618-zeldos-challenge-ch-1-bingos-revenge.json](./243618-zeldos-challenge-ch-1-bingos-revenge.json) |
 | Zeldo's Challenge Ch. 2: The Tower of Memories | 243619 | [243619-zeldos-challenge-ch-2-the-tower-of-memories.json](./243619-zeldos-challenge-ch-2-the-tower-of-memories.json) |
 | Zelene Lux: Spirit Notes | 387548 | [387548-zelene-lux-spirit-notes.json](./387548-zelene-lux-spirit-notes.json) |
