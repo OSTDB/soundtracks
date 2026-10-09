@@ -6051,6 +6051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blind Simulator | 351262 | [351262-blind-simulator.json](./351262-blind-simulator.json) |
 | Blind Sound | 236892 | [236892-blind-sound.json](./236892-blind-sound.json) |
 | Blind Spot | 122153 | [122153-blind-spot.json](./122153-blind-spot.json) |
+| Blind Spot | 343775 | [343775-blind-spot.json](./343775-blind-spot.json) |
 | Blind Spot | 377586 | [377586-blind-spot.json](./377586-blind-spot.json) |
 | Blind Touch | 346760 | [346760-blind-touch.json](./346760-blind-touch.json) |
 | Blind Trust: The City | 357383 | [357383-blind-trust-the-city.json](./357383-blind-trust-the-city.json) |
