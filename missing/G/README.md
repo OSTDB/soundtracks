@@ -3546,6 +3546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goddess Era: Paradise Oath | 259628 | [259628-goddess-era-paradise-oath.json](./259628-goddess-era-paradise-oath.json) |
 | Goddess Husk | 184527 | [184527-goddess-husk.json](./184527-goddess-husk.json) |
 | Goddess Kiss | 57066 | [57066-goddess-kiss.json](./57066-goddess-kiss.json) |
+| Goddess Krypton Gold System | 342023 | [342023-goddess-krypton-gold-system.json](./342023-goddess-krypton-gold-system.json) |
 | Goddess Legion | 347739 | [347739-goddess-legion.json](./347739-goddess-legion.json) |
 | Goddess of Card War | 148995 | [148995-goddess-of-card-war.json](./148995-goddess-of-card-war.json) |
 | Goddess of Card War: DLC-1 | 170420 | [170420-goddess-of-card-war-dlc-1.json](./170420-goddess-of-card-war-dlc-1.json) |
@@ -4099,6 +4100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Good Morning | 381133 | [381133-good-morning.json](./381133-good-morning.json) |
 | Good Morning Cruel City | 278518 | [278518-good-morning-cruel-city.json](./278518-good-morning-cruel-city.json) |
 | Good Morning Is A Social Construct | 231393 | [231393-good-morning-is-a-social-construct.json](./231393-good-morning-is-a-social-construct.json) |
+| Good Morning Is Good Night | 342027 | [342027-good-morning-is-good-night.json](./342027-good-morning-is-good-night.json) |
 | Good Morning, A.I. | 193259 | [193259-good-morning-a-i.json](./193259-good-morning-a-i.json) |
 | Good Morning, Radio | 203365 | [203365-good-morning-radio.json](./203365-good-morning-radio.json) |
 | Good Morningstar | 185488 | [185488-good-morningstar.json](./185488-good-morningstar.json) |
@@ -4892,8 +4894,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravel | 27514 | [27514-gravel.json](./27514-gravel.json) |
 | Gravel Gang | 243791 | [243791-gravel-gang.json](./243791-gravel-gang.json) |
 | Gravel: Armored Operation | 167805 | [167805-gravel-armored-operation.json](./167805-gravel-armored-operation.json) |
+| Gravel: Colorado River | 342111 | [342111-gravel-colorado-river.json](./342111-gravel-colorado-river.json) |
 | Gravel: Free Car Bowler Bulldog | 403760 | [403760-gravel-free-car-bowler-bulldog.json](./403760-gravel-free-car-bowler-bulldog.json) |
 | Gravel: King of Buggies | 172061 | [172061-gravel-king-of-buggies.json](./172061-gravel-king-of-buggies.json) |
+| Gravel: Porsche Rallye pack | 342112 | [342112-gravel-porsche-rallye-pack.json](./342112-gravel-porsche-rallye-pack.json) |
 | Gravel: Special Edition | 164769 | [164769-gravel-special-edition.json](./164769-gravel-special-edition.json) |
 | Gravelbox: The Sandbox | 148422 | [148422-gravelbox-the-sandbox.json](./148422-gravelbox-the-sandbox.json) |
 | Graveless | 218519 | [218519-graveless.json](./218519-graveless.json) |
