@@ -67,6 +67,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | D.N.Age | 32179 | [32179-d-n-age.json](./32179-d-n-age.json) |
 | D.O.A.S.: Department of Applied Science | 184601 | [184601-d-o-a-s-department-of-applied-science.json](./184601-d-o-a-s-department-of-applied-science.json) |
 | D.O.R.F. Real-Time Strategic Conflict | 247998 | [247998-d-o-r-f-real-time-strategic-conflict.json](./247998-d-o-r-f-real-time-strategic-conflict.json) |
+| D.O.T. Defence | 334069 | [334069-d-o-t-defence.json](./334069-d-o-t-defence.json) |
 | D.O.W.N | 229383 | [229383-d-o-w-n.json](./229383-d-o-w-n.json) |
 | D.R.I.F.T. | 394335 | [394335-d-r-i-f-t.json](./394335-d-r-i-f-t.json) |
 | D.R.I.L.L. - Dynamix VR | 81743 | [81743-d-r-i-l-l-dynamix-vr.json](./81743-d-r-i-l-l-dynamix-vr.json) |
@@ -5515,6 +5516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dimension Shift | 323884 | [323884-dimension-shift.json](./323884-dimension-shift.json) |
 | Dimension Summoner: Hero Arena 3D Fantasy RPG | 95873 | [95873-dimension-summoner-hero-arena-3d-fantasy-rpg.json](./95873-dimension-summoner-hero-arena-3d-fantasy-rpg.json) |
 | Dimension Tripper Neptune: TOP NEP | 187445 | [187445-dimension-tripper-neptune-top-nep.json](./187445-dimension-tripper-neptune-top-nep.json) |
+| Dimension Warrior | 334232 | [334232-dimension-warrior.json](./334232-dimension-warrior.json) |
 | Dimension X | 246067 | [246067-dimension-x.json](./246067-dimension-x.json) |
 | Dimensional | 26578 | [26578-dimensional.json](./26578-dimensional.json) |
 | Dimensional Dexterity | 252179 | [252179-dimensional-dexterity.json](./252179-dimensional-dexterity.json) |
@@ -10846,6 +10848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon of Souls | 103900 | [103900-dungeon-of-souls.json](./103900-dungeon-of-souls.json) |
 | Dungeon of Stone | 290628 | [290628-dungeon-of-stone.json](./290628-dungeon-of-stone.json) |
 | Dungeon of the Damned | 200585 | [200585-dungeon-of-the-damned.json](./200585-dungeon-of-the-damned.json) |
+| Dungeon of the Devourer | 334073 | [334073-dungeon-of-the-devourer.json](./334073-dungeon-of-the-devourer.json) |
 | Dungeon of the Endless | 9683 | [9683-dungeon-of-the-endless.json](./9683-dungeon-of-the-endless.json) |
 | Dungeon of the Endless: Deep Freeze | 168244 | [168244-dungeon-of-the-endless-deep-freeze.json](./168244-dungeon-of-the-endless-deep-freeze.json) |
 | Dungeon of the Endless: Rescue Team | 168245 | [168245-dungeon-of-the-endless-rescue-team.json](./168245-dungeon-of-the-endless-rescue-team.json) |
