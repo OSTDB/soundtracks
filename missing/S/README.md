@@ -2152,6 +2152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scrambled | 58163 | [58163-scrambled.json](./58163-scrambled.json) |
 | Scrambled Egg | 40198 | [40198-scrambled-egg.json](./40198-scrambled-egg.json) |
 | Scramblies | 58181 | [58181-scramblies.json](./58181-scramblies.json) |
+| Scrandle | 342592 | [342592-scrandle.json](./342592-scrandle.json) |
 | Scrap Age | 280468 | [280468-scrap-age.json](./280468-scrap-age.json) |
 | Scrap Age Survivors | 306498 | [306498-scrap-age-survivors.json](./306498-scrap-age-survivors.json) |
 | Scrap Attack | 81924 | [81924-scrap-attack.json](./81924-scrap-attack.json) |
@@ -10999,6 +11000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SorcerLand | 212267 | [212267-sorcerland.json](./212267-sorcerland.json) |
 | Sorceror's Apprentice | 94188 | [94188-sorcerors-apprentice.json](./94188-sorcerors-apprentice.json) |
 | Sorcery Blade | 71603 | [71603-sorcery-blade.json](./71603-sorcery-blade.json) |
+| Sorcery Climb | 342692 | [342692-sorcery-climb.json](./342692-sorcery-climb.json) |
 | Sorcery Jokers | 59780 | [59780-sorcery-jokers.json](./59780-sorcery-jokers.json) |
 | Sorcery Saga: Curse of the Great Curry God | 19915 | [19915-sorcery-saga-curse-of-the-great-curry-god.json](./19915-sorcery-saga-curse-of-the-great-curry-god.json) |
 | Sorcery Slam | 333150 | [333150-sorcery-slam.json](./333150-sorcery-slam.json) |
@@ -16997,14 +16999,17 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Fighter V: Cody Travers | 322209 | [322209-street-fighter-v-cody-travers.json](./322209-street-fighter-v-cody-travers.json) |
 | Street Fighter V: Cyber Akuma Skin | 318196 | [318196-street-fighter-v-cyber-akuma-skin.json](./318196-street-fighter-v-cyber-akuma-skin.json) |
 | Street Fighter V: Dan Hibiki | 262471 | [262471-street-fighter-v-dan-hibiki.json](./262471-street-fighter-v-dan-hibiki.json) |
+| Street Fighter V: Extra Battle Capcom Legend Bundle 3 | 342578 | [342578-street-fighter-v-extra-battle-capcom-legend-bundle-3.json](./342578-street-fighter-v-extra-battle-capcom-legend-bundle-3.json) |
 | Street Fighter V: Juri Han | 319227 | [319227-street-fighter-v-juri-han.json](./319227-street-fighter-v-juri-han.json) |
 | Street Fighter V: Laura Costumes Bundle | 350072 | [350072-street-fighter-v-laura-costumes-bundle.json](./350072-street-fighter-v-laura-costumes-bundle.json) |
 | Street Fighter V: Luke | 261310 | [261310-street-fighter-v-luke.json](./261310-street-fighter-v-luke.json) |
+| Street Fighter V: Pro-JP 2022 Saishunkan Sol Kumamoto Costumes Bundle | 342576 | [342576-street-fighter-v-pro-jp-2022-saishunkan-sol-kumamoto-costumes-bundle.json](./342576-street-fighter-v-pro-jp-2022-saishunkan-sol-kumamoto-costumes-bundle.json) |
 | Street Fighter V: Season 1-3 Nostalgia Costume Pack | 343900 | [343900-street-fighter-v-season-1-3-nostalgia-costume-pack.json](./343900-street-fighter-v-season-1-3-nostalgia-costume-pack.json) |
 | Street Fighter V: Season 4 Character Pass | 350071 | [350071-street-fighter-v-season-4-character-pass.json](./350071-street-fighter-v-season-4-character-pass.json) |
 | Street Fighter V: Season 5 Character Pass | 350070 | [350070-street-fighter-v-season-5-character-pass.json](./350070-street-fighter-v-season-5-character-pass.json) |
 | Street Fighter V: SFL2020 NASR Costumes Bundle | 332657 | [332657-street-fighter-v-sfl2020-nasr-costumes-bundle.json](./332657-street-fighter-v-sfl2020-nasr-costumes-bundle.json) |
 | Street Fighter V: SFL2020 UYU Costumes Bundle | 332656 | [332656-street-fighter-v-sfl2020-uyu-costumes-bundle.json](./332656-street-fighter-v-sfl2020-uyu-costumes-bundle.json) |
+| Street Fighter V: Story Costume Pack Season 1-3 | 342577 | [342577-street-fighter-v-story-costume-pack-season-1-3.json](./342577-street-fighter-v-story-costume-pack-season-1-3.json) |
 | Street Fighter VI 12 Peoples | 263664 | [263664-street-fighter-vi-12-peoples.json](./263664-street-fighter-vi-12-peoples.json) |
 | Street Fighter x All Capcom | 55064 | [55064-street-fighter-x-all-capcom.json](./55064-street-fighter-x-all-capcom.json) |
 | Street Fighter X All Capcom | 80847 | [80847-street-fighter-x-all-capcom.json](./80847-street-fighter-x-all-capcom.json) |
@@ -19899,20 +19904,30 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Smash Bros. Deluxe | 230369 | [230369-super-smash-bros-deluxe.json](./230369-super-smash-bros-deluxe.json) |
 | Super Smash Bros. for Nintendo 3DS | 9621 | [9621-super-smash-bros-for-nintendo-3ds.json](./9621-super-smash-bros-for-nintendo-3ds.json) |
 | Super Smash Bros. for Nintendo 3DS: Ashley Hat + Ashley Outfit | 325073 | [325073-super-smash-bros-for-nintendo-3ds-ashley-hat-ashley-outfit.json](./325073-super-smash-bros-for-nintendo-3ds-ashley-hat-ashley-outfit.json) |
+| Super Smash Bros. for Nintendo 3DS: Frozen WarioWare Inc. | 342697 | [342697-super-smash-bros-for-nintendo-3ds-frozen-warioware-inc.json](./342697-super-smash-bros-for-nintendo-3ds-frozen-warioware-inc.json) |
 | Super Smash Bros. for Nintendo 3DS: Geno Hat + Geno Outfit | 325077 | [325077-super-smash-bros-for-nintendo-3ds-geno-hat-geno-outfit.json](./325077-super-smash-bros-for-nintendo-3ds-geno-hat-geno-outfit.json) |
+| Super Smash Bros. for Nintendo 3DS: Meta Crystal | 342695 | [342695-super-smash-bros-for-nintendo-3ds-meta-crystal.json](./342695-super-smash-bros-for-nintendo-3ds-meta-crystal.json) |
 | Super Smash Bros. for Nintendo 3DS: Stage Bundle | 325074 | [325074-super-smash-bros-for-nintendo-3ds-stage-bundle.json](./325074-super-smash-bros-for-nintendo-3ds-stage-bundle.json) |
+| Super Smash Bros. for Nintendo 3DS: Temple | 342696 | [342696-super-smash-bros-for-nintendo-3ds-temple.json](./342696-super-smash-bros-for-nintendo-3ds-temple.json) |
 | Super Smash Bros. for Wii U: Ashley Hat + Ashley Outfit | 325072 | [325072-super-smash-bros-for-wii-u-ashley-hat-ashley-outfit.json](./325072-super-smash-bros-for-wii-u-ashley-hat-ashley-outfit.json) |
+| Super Smash Bros. for Wii U: Better Woolly World | 342694 | [342694-super-smash-bros-for-wii-u-better-woolly-world.json](./342694-super-smash-bros-for-wii-u-better-woolly-world.json) |
 | Super Smash Bros. for Wii U: Geno Hat + Geno Outfit | 325076 | [325076-super-smash-bros-for-wii-u-geno-hat-geno-outfit.json](./325076-super-smash-bros-for-wii-u-geno-hat-geno-outfit.json) |
 | Super Smash Bros. for Wii U: Igglybuff moveset | 343431 | [343431-super-smash-bros-for-wii-u-igglybuff-moveset.json](./343431-super-smash-bros-for-wii-u-igglybuff-moveset.json) |
 | Super Smash Bros. for Wii U: Stage Bundle | 325075 | [325075-super-smash-bros-for-wii-u-stage-bundle.json](./325075-super-smash-bros-for-wii-u-stage-bundle.json) |
 | Super Smash Bros. for Wii U: Wario's Shoulder Bash from Brawl | 343430 | [343430-super-smash-bros-for-wii-u-warios-shoulder-bash-from-brawl.json](./343430-super-smash-bros-for-wii-u-warios-shoulder-bash-from-brawl.json) |
 | Super Smash Bros. Infinite | 234117 | [234117-super-smash-bros-infinite.json](./234117-super-smash-bros-infinite.json) |
+| Super Smash Bros. Melee; Marth with a Massive Sword | 342702 | [342702-super-smash-bros-melee-marth-with-a-massive-sword.json](./342702-super-smash-bros-melee-marth-with-a-massive-sword.json) |
+| Super Smash Bros. Melee: How to Play - N64 | 342700 | [342700-super-smash-bros-melee-how-to-play-n64.json](./342700-super-smash-bros-melee-how-to-play-n64.json) |
+| Super Smash Bros. Melee: Hyrule Temple, but It’s a Half Decent Stage | 342698 | [342698-super-smash-bros-melee-hyrule-temple-but-it-s-a-half-decent-stage.json](./342698-super-smash-bros-melee-hyrule-temple-but-it-s-a-half-decent-stage.json) |
+| Super Smash Bros. Melee: Melee-Style Castle Siege | 342699 | [342699-super-smash-bros-melee-melee-style-castle-siege.json](./342699-super-smash-bros-melee-melee-style-castle-siege.json) |
+| Super Smash Bros. Melee: Tourney Floats | 342701 | [342701-super-smash-bros-melee-tourney-floats.json](./342701-super-smash-bros-melee-tourney-floats.json) |
 | Super Smash Bros. Open | 269059 | [269059-super-smash-bros-open.json](./269059-super-smash-bros-open.json) |
 | Super Smash Bros. Sonic 2 Mod | 173085 | [173085-super-smash-bros-sonic-2-mod.json](./173085-super-smash-bros-sonic-2-mod.json) |
 | Super Smash Bros. Ultimate - Piranha Plant | 136383 | [136383-super-smash-bros-ultimate-piranha-plant.json](./136383-super-smash-bros-ultimate-piranha-plant.json) |
 | Super Smash Bros. Ultimate: Akaza Moveset | 395017 | [395017-super-smash-bros-ultimate-akaza-moveset.json](./395017-super-smash-bros-ultimate-akaza-moveset.json) |
 | Super Smash Bros. Ultimate: Animdude Moveset | 395034 | [395034-super-smash-bros-ultimate-animdude-moveset.json](./395034-super-smash-bros-ultimate-animdude-moveset.json) |
 | Super Smash Bros. Ultimate: Blood Falcon Moveset | 375986 | [375986-super-smash-bros-ultimate-blood-falcon-moveset.json](./375986-super-smash-bros-ultimate-blood-falcon-moveset.json) |
+| Super Smash Bros. Ultimate: Brinstar but Flat | 342693 | [342693-super-smash-bros-ultimate-brinstar-but-flat.json](./342693-super-smash-bros-ultimate-brinstar-but-flat.json) |
 | Super Smash Bros. Ultimate: Challenger Pack 10 | 133840 | [133840-super-smash-bros-ultimate-challenger-pack-10.json](./133840-super-smash-bros-ultimate-challenger-pack-10.json) |
 | Super Smash Bros. Ultimate: Challenger Pack 11 | 133841 | [133841-super-smash-bros-ultimate-challenger-pack-11.json](./133841-super-smash-bros-ultimate-challenger-pack-11.json) |
 | Super Smash Bros. Ultimate: Challenger Pack 3 | 122260 | [122260-super-smash-bros-ultimate-challenger-pack-3.json](./122260-super-smash-bros-ultimate-challenger-pack-3.json) |
@@ -21400,6 +21415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword and Spirit | 158175 | [158175-sword-and-spirit.json](./158175-sword-and-spirit.json) |
 | Sword and Spoon | 101746 | [101746-sword-and-spoon.json](./101746-sword-and-spoon.json) |
 | Sword Art Online Arcade: Deep Explorer | 110791 | [110791-sword-art-online-arcade-deep-explorer.json](./110791-sword-art-online-arcade-deep-explorer.json) |
+| Sword Art Online Eron | 342589 | [342589-sword-art-online-eron.json](./342589-sword-art-online-eron.json) |
 | Sword Art Online VR: Lovely Honey Days | 102088 | [102088-sword-art-online-vr-lovely-honey-days.json](./102088-sword-art-online-vr-lovely-honey-days.json) |
 | Sword Art Online: Alicization Lycoris - Deluxe Edition | 166157 | [166157-sword-art-online-alicization-lycoris-deluxe-edition.json](./166157-sword-art-online-alicization-lycoris-deluxe-edition.json) |
 | Sword Art Online: Alicization Lycoris - Myosotis | 139224 | [139224-sword-art-online-alicization-lycoris-myosotis.json](./139224-sword-art-online-alicization-lycoris-myosotis.json) |
