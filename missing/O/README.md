@@ -3137,6 +3137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outpost Assault | 344021 | [344021-outpost-assault.json](./344021-outpost-assault.json) |
 | Outpost Auriga IV | 282614 | [282614-outpost-auriga-iv.json](./282614-outpost-auriga-iv.json) |
 | Outpost Delta | 123030 | [123030-outpost-delta.json](./123030-outpost-delta.json) |
+| Outpost in the Dragon's Maw | 383701 | [383701-outpost-in-the-dragons-maw.json](./383701-outpost-in-the-dragons-maw.json) |
 | Outpost Kaloki X | 20508 | [20508-outpost-kaloki-x.json](./20508-outpost-kaloki-x.json) |
 | Outpost L5 | 50509 | [50509-outpost-l5.json](./50509-outpost-l5.json) |
 | Outpost Luna | 174363 | [174363-outpost-luna.json](./174363-outpost-luna.json) |
@@ -3226,6 +3227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oven Dodgers | 281395 | [281395-oven-dodgers.json](./281395-oven-dodgers.json) |
 | OvenBreak | 284436 | [284436-ovenbreak.json](./284436-ovenbreak.json) |
 | OvenBreak 2 | 198314 | [198314-ovenbreak-2.json](./198314-ovenbreak-2.json) |
+| OvenBreak: 3baked | 383689 | [383689-ovenbreak-3baked.json](./383689-ovenbreak-3baked.json) |
 | Ovens of Hell | 108377 | [108377-ovens-of-hell.json](./108377-ovens-of-hell.json) |
 | Over & Out! | 422131 | [422131-over-and-out.json](./422131-over-and-out.json) |
 | Over 1000 Jigsaw Puzzles | 228409 | [228409-over-1000-jigsaw-puzzles.json](./228409-over-1000-jigsaw-puzzles.json) |
