@@ -12154,6 +12154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Idle Witch | 395589 | [395589-my-idle-witch.json](./395589-my-idle-witch.json) |
 | My Immortal Sect is Very Powerful | 309673 | [309673-my-immortal-sect-is-very-powerful.json](./309673-my-immortal-sect-is-very-powerful.json) |
 | My Incubi Harem | 235348 | [235348-my-incubi-harem.json](./235348-my-incubi-harem.json) |
+| My Infamous Dungeon | 365537 | [365537-my-infamous-dungeon.json](./365537-my-infamous-dungeon.json) |
 | My Insect Girl Can't Be This Cute | 220683 | [220683-my-insect-girl-cant-be-this-cute.json](./220683-my-insect-girl-cant-be-this-cute.json) |
 | My Interstellar Inn | 285568 | [285568-my-interstellar-inn.json](./285568-my-interstellar-inn.json) |
 | My Isekai After Life is an RPG!? | 153392 | [153392-my-isekai-after-life-is-an-rpg.json](./153392-my-isekai-after-life-is-an-rpg.json) |
