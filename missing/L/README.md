@@ -2729,6 +2729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life: The Game | 332839 | [332839-life-the-game.json](./332839-life-the-game.json) |
 | Life: the game of chance | 135686 | [135686-life-the-game-of-chance.json](./135686-life-the-game-of-chance.json) |
 | Life's 2 Short: Unhooked | 265192 | [265192-lifes-2-short-unhooked.json](./265192-lifes-2-short-unhooked.json) |
+| Life's a Beach | 366126 | [366126-lifes-a-beach.json](./366126-lifes-a-beach.json) |
 | Life's Too Short | 199909 | [199909-lifes-too-short.json](./199909-lifes-too-short.json) |
 | Life's Too Short GB: A Christmas Spirit | 292225 | [292225-lifes-too-short-gb-a-christmas-spirit.json](./292225-lifes-too-short-gb-a-christmas-spirit.json) |
 | Life's Too Short: A Christmas Spirit | 228095 | [228095-lifes-too-short-a-christmas-spirit.json](./228095-lifes-too-short-a-christmas-spirit.json) |
@@ -3073,6 +3074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lily's Epic Quest | 31956 | [31956-lilys-epic-quest.json](./31956-lilys-epic-quest.json) |
 | Lily's Epic Quest for Lost Gems | 118937 | [118937-lilys-epic-quest-for-lost-gems.json](./118937-lilys-epic-quest-for-lost-gems.json) |
 | Lily's Garden | 129160 | [129160-lilys-garden.json](./129160-lilys-garden.json) |
+| Lily's Lil Video Shop! | 366094 | [366094-lilys-lil-video-shop.json](./366094-lilys-lil-video-shop.json) |
 | Lilycle Rainbow Stage!!! | 115310 | [115310-lilycle-rainbow-stage.json](./115310-lilycle-rainbow-stage.json) |
 | LilyDeux: Black Lily Warning | 129698 | [129698-lilydeux-black-lily-warning.json](./129698-lilydeux-black-lily-warning.json) |
 | Lim | 62989 | [62989-lim.json](./62989-lim.json) |
@@ -4539,6 +4541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lootfest Wars | 83945 | [83945-lootfest-wars.json](./83945-lootfest-wars.json) |
 | Lootist | 316735 | [316735-lootist.json](./316735-lootist.json) |
 | LootLite | 144919 | [144919-lootlite.json](./144919-lootlite.json) |
+| LootMage | 366106 | [366106-lootmage.json](./366106-lootmage.json) |
 | LootOnline | 333592 | [333592-lootonline.json](./333592-lootonline.json) |
 | LootSlime | 397710 | [397710-lootslime.json](./397710-lootslime.json) |
 | LooWarVR | 31838 | [31838-loowarvr.json](./31838-loowarvr.json) |
