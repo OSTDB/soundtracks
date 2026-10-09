@@ -4074,6 +4074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Descent | 201122 | [201122-descent.json](./201122-descent.json) |
 | Descent | 242692 | [242692-descent.json](./242692-descent.json) |
 | Descent | 282010 | [282010-descent.json](./282010-descent.json) |
+| Descent | 360504 | [360504-descent.json](./360504-descent.json) |
 | Descent 3 | 667 | [667-descent-3.json](./667-descent-3.json) |
 | Descent 3: Mercenary | 11401 | [11401-descent-3-mercenary.json](./11401-descent-3-mercenary.json) |
 | Descent 3: White Label Edition | 70336 | [70336-descent-3-white-label-edition.json](./70336-descent-3-white-label-edition.json) |
