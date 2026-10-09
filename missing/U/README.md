@@ -517,6 +517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultra Baseball Jitsumei-ban 3 | 37775 | [37775-ultra-baseball-jitsumei-ban-3.json](./37775-ultra-baseball-jitsumei-ban-3.json) |
 | Ultra Boat Game!!! | 154379 | [154379-ultra-boat-game.json](./154379-ultra-boat-game.json) |
 | Ultra Bonk Survivors | 378181 | [378181-ultra-bonk-survivors.json](./378181-ultra-bonk-survivors.json) |
+| Ultra Bravo RPG | 339858 | [339858-ultra-bravo-rpg.json](./339858-ultra-bravo-rpg.json) |
 | Ultra Business Tycoon III | 62974 | [62974-ultra-business-tycoon-iii.json](./62974-ultra-business-tycoon-iii.json) |
 | Ultra Business Tycoon IV: Whitewater Rafting | 290389 | [290389-ultra-business-tycoon-iv-whitewater-rafting.json](./290389-ultra-business-tycoon-iv-whitewater-rafting.json) |
 | Ultra Bust-A-Move | 47317 | [47317-ultra-bust-a-move.json](./47317-ultra-bust-a-move.json) |
@@ -1430,6 +1431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UniqKiller | 307222 | [307222-uniqkiller.json](./307222-uniqkiller.json) |
 | UniqKiller: Urban Shooter | 323514 | [323514-uniqkiller-urban-shooter.json](./323514-uniqkiller-urban-shooter.json) |
 | Uniqlo × Boxboy! | 345414 | [345414-uniqlo-boxboy.json](./345414-uniqlo-boxboy.json) |
+| Unique Ladies | 339873 | [339873-unique-ladies.json](./339873-unique-ladies.json) |
 | Unique Lady | 370345 | [370345-unique-lady.json](./370345-unique-lady.json) |
 | Uniracers | 16743 | [16743-uniracers.json](./16743-uniracers.json) |
 | Uniseas | 131555 | [131555-uniseas.json](./131555-uniseas.json) |
