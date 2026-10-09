@@ -221,6 +221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valhalla Knights 2: Battle Stance | 142322 | [142322-valhalla-knights-2-battle-stance.json](./142322-valhalla-knights-2-battle-stance.json) |
 | Valhalla Knights 3 | 20072 | [20072-valhalla-knights-3.json](./20072-valhalla-knights-3.json) |
 | Valhalla Mountain | 328465 | [328465-valhalla-mountain.json](./328465-valhalla-mountain.json) |
+| Valhalla Path | 382543 | [382543-valhalla-path.json](./382543-valhalla-path.json) |
 | Valhalla Wars | 249370 | [249370-valhalla-wars.json](./249370-valhalla-wars.json) |
 | Valhalla: Awakening of Valkyrie | 214200 | [214200-valhalla-awakening-of-valkyrie.json](./214200-valhalla-awakening-of-valkyrie.json) |
 | Valhalla: Before the War | 12809 | [12809-valhalla-before-the-war.json](./12809-valhalla-before-the-war.json) |
@@ -1224,6 +1225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Videopulp: Super Carty's Dread | 133320 | [133320-videopulp-super-cartys-dread.json](./133320-videopulp-super-cartys-dread.json) |
 | Videoverse | 213618 | [213618-videoverse.json](./213618-videoverse.json) |
 | Vie: Itsuka no Natsu no Hi. | 131377 | [131377-vie-itsuka-no-natsu-no-hi.json](./131377-vie-itsuka-no-natsu-no-hi.json) |
+| Vie: Try Again | 382560 | [382560-vie-try-again.json](./382560-vie-try-again.json) |
 | Vier op een rij | 92991 | [92991-vier-op-een-rij.json](./92991-vier-op-een-rij.json) |
 | Vietcong | 101613 | [101613-vietcong.json](./101613-vietcong.json) |
 | Vietcong 2 | 3179 | [3179-vietcong-2.json](./3179-vietcong-2.json) |
@@ -1564,6 +1566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual Double Yakuman | 355119 | [355119-virtual-double-yakuman.json](./355119-virtual-double-yakuman.json) |
 | Virtual Dream | 312578 | [312578-virtual-dream.json](./312578-virtual-dream.json) |
 | Virtual Driving School | 404840 | [404840-virtual-driving-school.json](./404840-virtual-driving-school.json) |
+| Virtual Duck Hunt | 382521 | [382521-virtual-duck-hunt.json](./382521-virtual-duck-hunt.json) |
 | Virtual Earth Online | 106642 | [106642-virtual-earth-online.json](./106642-virtual-earth-online.json) |
 | Virtual Escape: Digital World | 167838 | [167838-virtual-escape-digital-world.json](./167838-virtual-escape-digital-world.json) |
 | Virtual Expo 2025 Japan | 373170 | [373170-virtual-expo-2025-japan.json](./373170-virtual-expo-2025-japan.json) |
