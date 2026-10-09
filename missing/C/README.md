@@ -3923,6 +3923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chessmaster: The Art of Learning | 20777 | [20777-chessmaster-the-art-of-learning.json](./20777-chessmaster-the-art-of-learning.json) |
 | Chessmate | 413719 | [413719-chessmate.json](./413719-chessmate.json) |
 | Chesst | 400891 | [400891-chesst.json](./400891-chesst.json) |
+| Chesstris | 361633 | [361633-chesstris.json](./361633-chesstris.json) |
 | Chesstro | 403547 | [403547-chesstro.json](./403547-chesstro.json) |
 | ChessVR | 207362 | [207362-chessvr.json](./207362-chessvr.json) |
 | ChessWorlds | 409781 | [409781-chessworlds.json](./409781-chessworlds.json) |
