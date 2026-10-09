@@ -3922,6 +3922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nonogram: Master's Legacy - The Speed Pack | 349415 | [349415-nonogram-masters-legacy-the-speed-pack.json](./349415-nonogram-masters-legacy-the-speed-pack.json) |
 | Nonograms | 233466 | [233466-nonograms.json](./233466-nonograms.json) |
 | Nonograms | 285701 | [285701-nonograms.json](./285701-nonograms.json) |
+| Nonograms 2 | 383721 | [383721-nonograms-2.json](./383721-nonograms-2.json) |
 | Nonograms 22 | 188983 | [188983-nonograms-22.json](./188983-nonograms-22.json) |
 | Nonograms: Ammunition | 297730 | [297730-nonograms-ammunition.json](./297730-nonograms-ammunition.json) |
 | Nonograms: Engineering | 285710 | [285710-nonograms-engineering.json](./285710-nonograms-engineering.json) |
