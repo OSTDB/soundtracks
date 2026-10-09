@@ -1868,6 +1868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Onmyouji Emaki | 335701 | [335701-onmyouji-emaki.json](./335701-onmyouji-emaki.json) |
 | Onna no Ko to Misshitsu ni Itara **shichau Kamoshirenai | 143385 | [143385-onna-no-ko-to-misshitsu-ni-itara-shichau-kamoshirenai.json](./143385-onna-no-ko-to-misshitsu-ni-itara-shichau-kamoshirenai.json) |
 | Onna Sansirou: Typhoon Gal | 40378 | [40378-onna-sansirou-typhoon-gal.json](./40378-onna-sansirou-typhoon-gal.json) |
+| Onna Sennyuu Sousakan no Hentai Chiiku: Shoufu no You ni Midareru Yakumo | 380790 | [380790-onna-sennyuu-sousakan-no-hentai-chiiku-shoufu-no-you-ni-midareru-yakumo.json](./380790-onna-sennyuu-sousakan-no-hentai-chiiku-shoufu-no-you-ni-midareru-yakumo.json) |
 | Onna Senshi Serasu wa Odoriko ni Tenshoku Shita!: Ha, Hazukashikute Shinde Shimaitai … Ecchi na Dance Nante Dare ga Suruka! | 58806 | [58806-onna-senshi-serasu-wa-odoriko-ni-tenshoku-shita-ha-hazukashikute-shinde-shimaitai-ecchi-na-dance-nante-dare-ga-suruka.json](./58806-onna-senshi-serasu-wa-odoriko-ni-tenshoku-shita-ha-hazukashikute-shinde-shimaitai-ecchi-na-dance-nante-dare-ga-suruka.json) |
 | Onnanoko Keeper | 171434 | [171434-onnanoko-keeper.json](./171434-onnanoko-keeper.json) |
 | Onnanoko Keeper 2 | 150494 | [150494-onnanoko-keeper-2.json](./150494-onnanoko-keeper-2.json) |
@@ -2655,6 +2656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Otaku's Adventure: The World Just Keeps Turning | 299119 | [299119-otakus-adventure-the-world-just-keeps-turning.json](./299119-otakus-adventure-the-world-just-keeps-turning.json) |
 | Otaku's Challenge | 367628 | [367628-otakus-challenge.json](./367628-otakus-challenge.json) |
 | Otaku's Rage: Waifu Strikes Back | 144368 | [144368-otakus-rage-waifu-strikes-back.json](./144368-otakus-rage-waifu-strikes-back.json) |
+| Otar Island | 380769 | [380769-otar-island.json](./380769-otar-island.json) |
 | Otenki Kororin: Weather Tales | 299832 | [299832-otenki-kororin-weather-tales.json](./299832-otenki-kororin-weather-tales.json) |
 | Othello | 134419 | [134419-othello.json](./134419-othello.json) |
 | Othello | 25159 | [25159-othello.json](./25159-othello.json) |
