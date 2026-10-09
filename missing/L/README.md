@@ -5751,6 +5751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lumi Master | 410215 | [410215-lumi-master.json](./410215-lumi-master.json) |
 | Lumi: Starbound Adventure | 296523 | [296523-lumi-starbound-adventure.json](./296523-lumi-starbound-adventure.json) |
 | Lumia Saga | 145942 | [145942-lumia-saga.json](./145942-lumia-saga.json) |
+| LumiBus | 350377 | [350377-lumibus.json](./350377-lumibus.json) |
 | Lumiel the Awakening | 260165 | [260165-lumiel-the-awakening.json](./260165-lumiel-the-awakening.json) |
 | Lumien | 236409 | [236409-lumien.json](./236409-lumien.json) |
 | Lumiere | 415100 | [415100-lumiere.json](./415100-lumiere.json) |
