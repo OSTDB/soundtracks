@@ -2780,6 +2780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fighting Fantasy Classics | 102159 | [102159-fighting-fantasy-classics.json](./102159-fighting-fantasy-classics.json) |
 | Fighting Fantasy Classics Vol. 1 | 389081 | [389081-fighting-fantasy-classics-vol-1.json](./389081-fighting-fantasy-classics-vol-1.json) |
 | Fighting Fantasy Classics: Caverns of the Snow Witch | 170851 | [170851-fighting-fantasy-classics-caverns-of-the-snow-witch.json](./170851-fighting-fantasy-classics-caverns-of-the-snow-witch.json) |
+| Fighting Fantasy Classics: The Port of Peril | 353813 | [353813-fighting-fantasy-classics-the-port-of-peril.json](./353813-fighting-fantasy-classics-the-port-of-peril.json) |
 | Fighting Fantasy Legends | 40557 | [40557-fighting-fantasy-legends.json](./40557-fighting-fantasy-legends.json) |
 | Fighting Fantasy: Blood of the Zombies | 63680 | [63680-fighting-fantasy-blood-of-the-zombies.json](./63680-fighting-fantasy-blood-of-the-zombies.json) |
 | Fighting Fantasy: House of Hell | 63678 | [63678-fighting-fantasy-house-of-hell.json](./63678-fighting-fantasy-house-of-hell.json) |
@@ -4308,6 +4309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flan's Mod | 232680 | [232680-flans-mod.json](./232680-flans-mod.json) |
 | Flanker 2.0 | 708 | [708-flanker-2-0.json](./708-flanker-2-0.json) |
 | Flanker 2.5 | 709 | [709-flanker-2-5.json](./709-flanker-2-5.json) |
+| Flanker: Call of the Ghost | 353792 | [353792-flanker-call-of-the-ghost.json](./353792-flanker-call-of-the-ghost.json) |
 | Flap Demon | 158646 | [158646-flap-demon.json](./158646-flap-demon.json) |
 | Flap Happy | 307102 | [307102-flap-happy.json](./307102-flap-happy.json) |
 | Flap Legends | 272447 | [272447-flap-legends.json](./272447-flap-legends.json) |
@@ -4650,6 +4652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flip Out | 79314 | [79314-flip-out.json](./79314-flip-out.json) |
 | Flip Out Rush | 337724 | [337724-flip-out-rush.json](./337724-flip-out-rush.json) |
 | Flip Out! | 40799 | [40799-flip-out.json](./40799-flip-out.json) |
+| Flip Panic! | 353827 | [353827-flip-panic.json](./353827-flip-panic.json) |
 | Flip Range 2 | 220156 | [220156-flip-range-2.json](./220156-flip-range-2.json) |
 | Flip Run: Second Wave | 87128 | [87128-flip-run-second-wave.json](./87128-flip-run-second-wave.json) |
 | Flip Shot | 75463 | [75463-flip-shot.json](./75463-flip-shot.json) |
@@ -6568,6 +6571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fragile Ascent | 292010 | [292010-fragile-ascent.json](./292010-fragile-ascent.json) |
 | Fragile Box | 129681 | [129681-fragile-box.json](./129681-fragile-box.json) |
 | Fragile Equilibrium | 113757 | [113757-fragile-equilibrium.json](./113757-fragile-equilibrium.json) |
+| Fragile Hero and the Immortal Frog | 353830 | [353830-fragile-hero-and-the-immortal-frog.json](./353830-fragile-hero-and-the-immortal-frog.json) |
 | Fragile Peace | 370264 | [370264-fragile-peace.json](./370264-fragile-peace.json) |
 | Fragile Reflection | 309533 | [309533-fragile-reflection.json](./309533-fragile-reflection.json) |
 | Fragile Soft Machines | 139236 | [139236-fragile-soft-machines.json](./139236-fragile-soft-machines.json) |
