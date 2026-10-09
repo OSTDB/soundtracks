@@ -823,6 +823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Egg Hunt 2026: The Grand Eggspress | 412312 | [412312-egg-hunt-2026-the-grand-eggspress.json](./412312-egg-hunt-2026-the-grand-eggspress.json) |
 | Egg Hunt Truck | 97143 | [97143-egg-hunt-truck.json](./97143-egg-hunt-truck.json) |
 | Egg Hunt VR | 28784 | [28784-egg-hunt-vr.json](./28784-egg-hunt-vr.json) |
+| Egg Maiden | 380779 | [380779-egg-maiden.json](./380779-egg-maiden.json) |
 | Egg Maker | 317361 | [317361-egg-maker.json](./317361-egg-maker.json) |
 | Egg Mania: Eggstreme Madness | 3903 | [3903-egg-mania-eggstreme-madness.json](./3903-egg-mania-eggstreme-madness.json) |
 | Egg Meister | 344483 | [344483-egg-meister.json](./344483-egg-meister.json) |
@@ -1108,6 +1109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elastrix | 36087 | [36087-elastrix.json](./36087-elastrix.json) |
 | Elated Sorrow | 184889 | [184889-elated-sorrow.json](./184889-elated-sorrow.json) |
 | Elation for the Wonder Box 6000 | 225567 | [225567-elation-for-the-wonder-box-6000.json](./225567-elation-for-the-wonder-box-6000.json) |
+| ELbab | 380791 | [380791-elbab.json](./380791-elbab.json) |
 | ElbmarKs | 197153 | [197153-elbmarks.json](./197153-elbmarks.json) |
 | Eldabyss | 290707 | [290707-eldabyss.json](./290707-eldabyss.json) |
 | Eldegarde | 304346 | [304346-eldegarde.json](./304346-eldegarde.json) |
@@ -2862,6 +2864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape | 305450 | [305450-escape.json](./305450-escape.json) |
 | Escape | 305451 | [305451-escape.json](./305451-escape.json) |
 | Escape | 356667 | [356667-escape.json](./356667-escape.json) |
+| Escape | 380754 | [380754-escape.json](./380754-escape.json) |
 | Escape | 80938 | [80938-escape.json](./80938-escape.json) |
 | Escape | 98433 | [98433-escape.json](./98433-escape.json) |
 | Escape - Norm's World XL | 76176 | [76176-escape-norms-world-xl.json](./76176-escape-norms-world-xl.json) |
