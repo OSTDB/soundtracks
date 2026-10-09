@@ -83,6 +83,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baba Booey's Adventure | 72118 | [72118-baba-booeys-adventure.json](./72118-baba-booeys-adventure.json) |
 | Baba Is Cool 2 | 301581 | [301581-baba-is-cool-2.json](./301581-baba-is-cool-2.json) |
 | Baba is You Xtreme | 209470 | [209470-baba-is-you-xtreme.json](./209470-baba-is-you-xtreme.json) |
+| Baba Is You: Baba Make Level | 334743 | [334743-baba-is-you-baba-make-level.json](./334743-baba-is-you-baba-make-level.json) |
 | Baba Is You: Jam Build | 383476 | [383476-baba-is-you-jam-build.json](./383476-baba-is-you-jam-build.json) |
 | Baba Yaga | 330347 | [330347-baba-yaga.json](./330347-baba-yaga.json) |
 | Baba-Yaga za tridevyat' zemel'. Nachinaem uchit' nemetskiy | 365290 | [365290-baba-yaga-za-tridevyat-zemel-nachinaem-uchit-nemetskiy.json](./365290-baba-yaga-za-tridevyat-zemel-nachinaem-uchit-nemetskiy.json) |
@@ -1761,6 +1762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Base Defense | 380002 | [380002-base-defense.json](./380002-base-defense.json) |
 | Base Defense VR | 167804 | [167804-base-defense-vr.json](./167804-base-defense-vr.json) |
 | Base Defense! | 208909 | [208909-base-defense.json](./208909-base-defense.json) |
+| Base Dominators | 334815 | [334815-base-dominators.json](./334815-base-dominators.json) |
 | Base Jump | 153323 | [153323-base-jump.json](./153323-base-jump.json) |
 | Base Jump: Wing Suit Flying | 199114 | [199114-base-jump-wing-suit-flying.json](./199114-base-jump-wing-suit-flying.json) |
 | Base Jumpers | 12349 | [12349-base-jumpers.json](./12349-base-jumpers.json) |
@@ -3936,6 +3938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bernie's Nightmare | 105586 | [105586-bernies-nightmare.json](./105586-bernies-nightmare.json) |
 | Berries Challenge | 159830 | [159830-berries-challenge.json](./159830-berries-challenge.json) |
 | Berry Brother | 257662 | [257662-berry-brother.json](./257662-berry-brother.json) |
+| Berry Couple | 334799 | [334799-berry-couple.json](./334799-berry-couple.json) |
 | Berry Hunt Survivors | 247779 | [247779-berry-hunt-survivors.json](./247779-berry-hunt-survivors.json) |
 | Berry Madness | 235180 | [235180-berry-madness.json](./235180-berry-madness.json) |
 | Berry Mayhem | 158546 | [158546-berry-mayhem.json](./158546-berry-mayhem.json) |
@@ -10831,6 +10834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Butterfly Æffect: Papillons à Quatre Mains | 381148 | [381148-butterfly-ffect-papillons-a-quatre-mains.json](./381148-butterfly-ffect-papillons-a-quatre-mains.json) |
 | Butterfly Bundle | 218489 | [218489-butterfly-bundle.json](./218489-butterfly-bundle.json) |
 | Butterfly Collector | 183536 | [183536-butterfly-collector.json](./183536-butterfly-collector.json) |
+| Butterfly Couple | 334800 | [334800-butterfly-couple.json](./334800-butterfly-couple.json) |
 | Butterfly Dream | 322974 | [322974-butterfly-dream.json](./322974-butterfly-dream.json) |
 | Butterfly Effect | 243651 | [243651-butterfly-effect.json](./243651-butterfly-effect.json) |
 | Butterfly Garden | 69285 | [69285-butterfly-garden.json](./69285-butterfly-garden.json) |
