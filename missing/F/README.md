@@ -1440,6 +1440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Faria: Starfall | 59249 | [59249-faria-starfall.json](./59249-faria-starfall.json) |
 | Farjius no Jakoutei: Neo Metal Fantasy | 69862 | [69862-farjius-no-jakoutei-neo-metal-fantasy.json](./69862-farjius-no-jakoutei-neo-metal-fantasy.json) |
 | Farkle King | 243745 | [243745-farkle-king.json](./243745-farkle-king.json) |
+| Farkle with Friends | 338774 | [338774-farkle-with-friends.json](./338774-farkle-with-friends.json) |
 | Farland Saga | 80838 | [80838-farland-saga.json](./80838-farland-saga.json) |
 | Farland Saga I & II: Saturn Tribute | 360013 | [360013-farland-saga-i-and-ii-saturn-tribute.json](./360013-farland-saga-i-and-ii-saturn-tribute.json) |
 | Farland Story | 420580 | [420580-farland-story.json](./420580-farland-story.json) |
@@ -2407,6 +2408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ferrum's Secrets: where is grandpa? | 34729 | [34729-ferrums-secrets-where-is-grandpa.json](./34729-ferrums-secrets-where-is-grandpa.json) |
 | Ferrum's Secrets: Where is grandpa? - Collector's edition | 53047 | [53047-ferrums-secrets-where-is-grandpa-collectors-edition.json](./53047-ferrums-secrets-where-is-grandpa-collectors-edition.json) |
 | Ferry Good Day | 391725 | [391725-ferry-good-day.json](./391725-ferry-good-day.json) |
+| Ferulorum | 338689 | [338689-ferulorum.json](./338689-ferulorum.json) |
 | Ferus: The Dark Abyss | 385829 | [385829-ferus-the-dark-abyss.json](./385829-ferus-the-dark-abyss.json) |
 | Fervent | 310647 | [310647-fervent.json](./310647-fervent.json) |
 | Fesnia | 104448 | [104448-fesnia.json](./104448-fesnia.json) |
@@ -2842,6 +2844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fighty Driver | 411045 | [411045-fighty-driver.json](./411045-fighty-driver.json) |
 | Figment 1 + Figment 2 | 242587 | [242587-figment-1-figment-2.json](./242587-figment-1-figment-2.json) |
 | Figment 2: Creed Valley | 119801 | [119801-figment-2-creed-valley.json](./119801-figment-2-creed-valley.json) |
+| Figments of the Night | 338694 | [338694-figments-of-the-night.json](./338694-figments-of-the-night.json) |
 | Fignermukcre | 128627 | [128627-fignermukcre.json](./128627-fignermukcre.json) |
 | Figurality | 269020 | [269020-figurality.json](./269020-figurality.json) |
 | Figuras y Figuraciones | 284569 | [284569-figuras-y-figuraciones.json](./284569-figuras-y-figuraciones.json) |
@@ -6883,6 +6886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FreeCell Solitaire - Classic Deck Card Games | 88365 | [88365-freecell-solitaire-classic-deck-card-games.json](./88365-freecell-solitaire-classic-deck-card-games.json) |
 | FreeCell Solitaire Classic Card Game | 340247 | [340247-freecell-solitaire-classic-card-game.json](./340247-freecell-solitaire-classic-card-game.json) |
 | FreeCell X | 100993 | [100993-freecell-x.json](./100993-freecell-x.json) |
+| FreeCraft Survival Pocket Edition | 338777 | [338777-freecraft-survival-pocket-edition.json](./338777-freecraft-survival-pocket-edition.json) |
 | Freed Software | 220024 | [220024-freed-software.json](./220024-freed-software.json) |
 | FreeDiver: Triton Down | 117797 | [117797-freediver-triton-down.json](./117797-freediver-triton-down.json) |
 | Freedom | 271995 | [271995-freedom.json](./271995-freedom.json) |
