@@ -727,6 +727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VeggieTales: LarryBoy and the Bad Apple | 49374 | [49374-veggietales-larryboy-and-the-bad-apple.json](./49374-veggietales-larryboy-and-the-bad-apple.json) |
 | Veggy World | 51156 | [51156-veggy-world.json](./51156-veggy-world.json) |
 | Vehicle Cavalier | 64199 | [64199-vehicle-cavalier.json](./64199-vehicle-cavalier.json) |
+| Vehicle Construction Kit | 375588 | [375588-vehicle-construction-kit.json](./375588-vehicle-construction-kit.json) |
 | Vehicular Rampage | 219520 | [219520-vehicular-rampage.json](./219520-vehicular-rampage.json) |
 | Veigues Tactical Gladiator | 37733 | [37733-veigues-tactical-gladiator.json](./37733-veigues-tactical-gladiator.json) |
 | Veil | 399914 | [399914-veil.json](./399914-veil.json) |
