@@ -262,6 +262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Game About Making Mosaics | 379507 | [379507-a-game-about-making-mosaics.json](./379507-a-game-about-making-mosaics.json) |
 | A Game About Media & Warfare | 419131 | [419131-a-game-about-media-and-warfare.json](./419131-a-game-about-media-and-warfare.json) |
 | A Game About Mining an Asteroid | 379508 | [379508-a-game-about-mining-an-asteroid.json](./379508-a-game-about-mining-an-asteroid.json) |
+| A Game About Mowing Your Lawn | 335270 | [335270-a-game-about-mowing-your-lawn.json](./335270-a-game-about-mowing-your-lawn.json) |
 | A Game About My Cat | 303749 | [303749-a-game-about-my-cat.json](./303749-a-game-about-my-cat.json) |
 | A Game About Opening a Chest | 390749 | [390749-a-game-about-opening-a-chest.json](./390749-a-game-about-opening-a-chest.json) |
 | A Game About Plant | 379506 | [379506-a-game-about-plant.json](./379506-a-game-about-plant.json) |
@@ -6224,6 +6225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Another Bible | 78310 | [78310-another-bible.json](./78310-another-bible.json) |
 | Another Big Base Attacked | 270694 | [270694-another-big-base-attacked.json](./270694-another-big-base-attacked.json) |
 | Another Boss Battle Test | 214716 | [214716-another-boss-battle-test.json](./214716-another-boss-battle-test.json) |
+| Another Box of Hotcorn | 335299 | [335299-another-box-of-hotcorn.json](./335299-another-box-of-hotcorn.json) |
 | Another Brick in Space | 95601 | [95601-another-brick-in-space.json](./95601-another-brick-in-space.json) |
 | Another Card Game | 416585 | [416585-another-card-game.json](./416585-another-card-game.json) |
 | Another Case Solved | 38915 | [38915-another-case-solved.json](./38915-another-case-solved.json) |
@@ -6695,6 +6697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apocalypse | 15547 | [15547-apocalypse.json](./15547-apocalypse.json) |
 | Apocalypse | 15598 | [15598-apocalypse.json](./15598-apocalypse.json) |
 | Apocalypse Age: Destruction | 132684 | [132684-apocalypse-age-destruction.json](./132684-apocalypse-age-destruction.json) |
+| Apocalypse Approaches | 335379 | [335379-apocalypse-approaches.json](./335379-apocalypse-approaches.json) |
 | Apocalypse Clash City Free: A Cyberpunk Clan War Death Race game | 351032 | [351032-apocalypse-clash-city-free-a-cyberpunk-clan-war-death-race-game.json](./351032-apocalypse-clash-city-free-a-cyberpunk-clan-war-death-race-game.json) |
 | Apocalypse Delivery Service | 304576 | [304576-apocalypse-delivery-service.json](./304576-apocalypse-delivery-service.json) |
 | Apocalypse Express | 327968 | [327968-apocalypse-express.json](./327968-apocalypse-express.json) |
@@ -6844,6 +6847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Approaches | 185093 | [185093-approaches.json](./185093-approaches.json) |
 | Approaching Cao Army | 254773 | [254773-approaching-cao-army.json](./254773-approaching-cao-army.json) |
 | Approximately Up | 377061 | [377061-approximately-up.json](./377061-approximately-up.json) |
+| Appulse | 335232 | [335232-appulse.json](./335232-appulse.json) |
 | Aprenda Libras | 315615 | [315615-aprenda-libras.json](./315615-aprenda-libras.json) |
 | Aprende con Horacio: La Gran Aventura de las Palabras | 283755 | [283755-aprende-con-horacio-la-gran-aventura-de-las-palabras.json](./283755-aprende-con-horacio-la-gran-aventura-de-las-palabras.json) |
 | Apricity | 322208 | [322208-apricity.json](./322208-apricity.json) |
@@ -7532,6 +7536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcano: The Trickery | 159638 | [159638-arcano-the-trickery.json](./159638-arcano-the-trickery.json) |
 | Arcanoid Breakout | 147468 | [147468-arcanoid-breakout.json](./147468-arcanoid-breakout.json) |
 | Arcanora | 272789 | [272789-arcanora.json](./272789-arcanora.json) |
+| Arcanorum | 335300 | [335300-arcanorum.json](./335300-arcanorum.json) |
 | Arcanorum 231 | 359601 | [359601-arcanorum-231.json](./359601-arcanorum-231.json) |
 | Arcante | 140486 | [140486-arcante.json](./140486-arcante.json) |
 | Arcanum | 258506 | [258506-arcanum.json](./258506-arcanum.json) |
