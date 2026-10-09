@@ -3397,6 +3397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ion Fury: Aftershock | 145471 | [145471-ion-fury-aftershock.json](./145471-ion-fury-aftershock.json) |
 | Ion Shift | 257941 | [257941-ion-shift.json](./257941-ion-shift.json) |
 | Ion.A | 290541 | [290541-ion-a.json](./290541-ion-a.json) |
+| Iona's Toybox | 361041 | [361041-ionas-toybox.json](./361041-ionas-toybox.json) |
 | IonAxxia | 61882 | [61882-ionaxxia.json](./61882-ionaxxia.json) |
 | IonBall 2: Ionstorm | 10443 | [10443-ionball-2-ionstorm.json](./10443-ionball-2-ionstorm.json) |
 | IonballEX | 92515 | [92515-ionballex.json](./92515-ionballex.json) |
