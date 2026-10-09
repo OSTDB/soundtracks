@@ -3848,6 +3848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isles Above | 337082 | [337082-isles-above.json](./337082-isles-above.json) |
 | Isles of Etherion | 187874 | [187874-isles-of-etherion.json](./187874-isles-of-etherion.json) |
 | Isles of Monsters | 286782 | [286782-isles-of-monsters.json](./286782-isles-of-monsters.json) |
+| Isles of Rain | 346554 | [346554-isles-of-rain.json](./346554-isles-of-rain.json) |
 | Isles of Sea and Sky | 133013 | [133013-isles-of-sea-and-sky.json](./133013-isles-of-sea-and-sky.json) |
 | Isles of Silence | 309684 | [309684-isles-of-silence.json](./309684-isles-of-silence.json) |
 | Isles of Wrath | 378286 | [378286-isles-of-wrath.json](./378286-isles-of-wrath.json) |
