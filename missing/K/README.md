@@ -3211,6 +3211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koroshi no Dress | 230235 | [230235-koroshi-no-dress.json](./230235-koroshi-no-dress.json) |
 | Korosuke Roller | 40225 | [40225-korosuke-roller.json](./40225-korosuke-roller.json) |
 | Korpus: Buried over the Black Soil | 129233 | [129233-korpus-buried-over-the-black-soil.json](./129233-korpus-buried-over-the-black-soil.json) |
+| Korridor | 369386 | [369386-korridor.json](./369386-korridor.json) |
 | Korsakovia | 182380 | [182380-korsakovia.json](./182380-korsakovia.json) |
 | Korter 1996 | 320714 | [320714-korter-1996.json](./320714-korter-1996.json) |
 | Koru | 189008 | [189008-koru.json](./189008-koru.json) |
