@@ -3320,6 +3320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Will It Ever End? | 143572 | [143572-will-it-ever-end.json](./143572-will-it-ever-end.json) |
 | Will Not Let Me Go | 138139 | [138139-will-not-let-me-go.json](./138139-will-not-let-me-go.json) |
 | Will O Wing | 412433 | [412433-will-o-wing.json](./412433-will-o-wing.json) |
+| Will of Destiny | 372811 | [372811-will-of-destiny.json](./372811-will-of-destiny.json) |
 | Will of Steel | 23810 | [23810-will-of-steel.json](./23810-will-of-steel.json) |
 | Will There Bee Another? | 225740 | [225740-will-there-bee-another.json](./225740-will-there-bee-another.json) |
 | Will This Bitter Night Bring Change? | 204466 | [204466-will-this-bitter-night-bring-change.json](./204466-will-this-bitter-night-bring-change.json) |
