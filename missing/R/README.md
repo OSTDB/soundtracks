@@ -325,6 +325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Racing Megapack | 317964 | [317964-racing-megapack.json](./317964-racing-megapack.json) |
 | Racing Penguin: Slide and Fly! | 86973 | [86973-racing-penguin-slide-and-fly.json](./86973-racing-penguin-slide-and-fly.json) |
 | Racing Pitch | 70955 | [70955-racing-pitch.json](./70955-racing-pitch.json) |
+| Racing Rebels Mud Clash | 347101 | [347101-racing-rebels-mud-clash.json](./347101-racing-rebels-mud-clash.json) |
 | Racing Rivals | 38904 | [38904-racing-rivals.json](./38904-racing-rivals.json) |
 | Racing Royale | 390012 | [390012-racing-royale.json](./390012-racing-royale.json) |
 | Racing Rush | 234608 | [234608-racing-rush.json](./234608-racing-rush.json) |
@@ -3265,6 +3266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rescue Team: Mineral of Miracles | 264631 | [264631-rescue-team-mineral-of-miracles.json](./264631-rescue-team-mineral-of-miracles.json) |
 | Rescue Team: Phantom Crisis - Collector's Edition | 417512 | [417512-rescue-team-phantom-crisis-collectors-edition.json](./417512-rescue-team-phantom-crisis-collectors-edition.json) |
 | Rescue Terra I | 40699 | [40699-rescue-terra-i.json](./40699-rescue-terra-i.json) |
+| Rescue the Girl | 347086 | [347086-rescue-the-girl.json](./347086-rescue-the-girl.json) |
 | Rescue the Hostages: Cryptic Countdown | 377239 | [377239-rescue-the-hostages-cryptic-countdown.json](./377239-rescue-the-hostages-cryptic-countdown.json) |
 | Rescue the Hostages: Misaligned Fate | 405719 | [405719-rescue-the-hostages-misaligned-fate.json](./405719-rescue-the-hostages-misaligned-fate.json) |
 | Rescue the Hostages: Words of Fear | 396729 | [396729-rescue-the-hostages-words-of-fear.json](./396729-rescue-the-hostages-words-of-fear.json) |
@@ -6045,6 +6047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Rising | 171504 | [171504-rogue-rising.json](./171504-rogue-rising.json) |
 | Rogue Robot: Escape Protocol | 304616 | [304616-rogue-robot-escape-protocol.json](./304616-rogue-robot-escape-protocol.json) |
 | Rogue Robots | 135653 | [135653-rogue-robots.json](./135653-rogue-robots.json) |
+| Rogue Rollers | 347097 | [347097-rogue-rollers.json](./347097-rogue-rollers.json) |
 | Rogue Run | 407304 | [407304-rogue-run.json](./407304-rogue-run.json) |
 | Rogue Samurai | 266278 | [266278-rogue-samurai.json](./266278-rogue-samurai.json) |
 | Rogue Seas | 176830 | [176830-rogue-seas.json](./176830-rogue-seas.json) |
