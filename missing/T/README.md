@@ -2842,6 +2842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terrarium: Garden Idle | 116433 | [116433-terrarium-garden-idle.json](./116433-terrarium-garden-idle.json) |
 | Terrarium.live | 405646 | [405646-terrarium-live.json](./405646-terrarium-live.json) |
 | TerraScape | 239642 | [239642-terrascape.json](./239642-terrascape.json) |
+| Terraspace | 356046 | [356046-terraspace.json](./356046-terraspace.json) |
 | TerraStorm | 289314 | [289314-terrastorm.json](./289314-terrastorm.json) |
 | TerraTech Legion | 348307 | [348307-terratech-legion.json](./348307-terratech-legion.json) |
 | TerraTech Worlds | 252865 | [252865-terratech-worlds.json](./252865-terratech-worlds.json) |
@@ -4507,6 +4508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Codemasters 'Full Tilt' Racing Bundle | 99761 | [99761-the-codemasters-full-tilt-racing-bundle.json](./99761-the-codemasters-full-tilt-racing-bundle.json) |
 | The CodFather | 360658 | [360658-the-codfather.json](./360658-the-codfather.json) |
 | The Coffee Shop Collision | 337699 | [337699-the-coffee-shop-collision.json](./337699-the-coffee-shop-collision.json) |
+| The Coffin of Andrew and Renee | 356043 | [356043-the-coffin-of-andrew-and-renee.json](./356043-the-coffin-of-andrew-and-renee.json) |
 | The Coil of Possibility | 137968 | [137968-the-coil-of-possibility.json](./137968-the-coil-of-possibility.json) |
 | The Coin | 383159 | [383159-the-coin.json](./383159-the-coin.json) |
 | The Cold Case | 302140 | [302140-the-cold-case.json](./302140-the-cold-case.json) |
@@ -5611,6 +5613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fall: Zombie Survival | 365218 | [365218-the-fall-zombie-survival.json](./365218-the-fall-zombie-survival.json) |
 | The Fallen Angels | 39581 | [39581-the-fallen-angels.json](./39581-the-fallen-angels.json) |
 | The Fallen Crypt of the Judgement Concrete | 328031 | [328031-the-fallen-crypt-of-the-judgement-concrete.json](./328031-the-fallen-crypt-of-the-judgement-concrete.json) |
+| The Fallen Eagle | 356032 | [356032-the-fallen-eagle.json](./356032-the-fallen-eagle.json) |
 | The Fallen Kingdom | 31990 | [31990-the-fallen-kingdom.json](./31990-the-fallen-kingdom.json) |
 | The Fallen Kingdom | 324298 | [324298-the-fallen-kingdom.json](./324298-the-fallen-kingdom.json) |
 | The Fallen Priest | 276397 | [276397-the-fallen-priest.json](./276397-the-fallen-priest.json) |
@@ -8191,6 +8194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mangust | 244857 | [244857-the-mangust.json](./244857-the-mangust.json) |
 | The Manhole: New and Enhanced | 73310 | [73310-the-manhole-new-and-enhanced.json](./73310-the-manhole-new-and-enhanced.json) |
 | The Mannequin | 179740 | [179740-the-mannequin.json](./179740-the-mannequin.json) |
+| The Manor | 356029 | [356029-the-manor.json](./356029-the-manor.json) |
 | The Mansion | 106145 | [106145-the-mansion.json](./106145-the-mansion.json) |
 | The Mansion | 159683 | [159683-the-mansion.json](./159683-the-mansion.json) |
 | The Mansion of Hidden Souls | 45522 | [45522-the-mansion-of-hidden-souls.json](./45522-the-mansion-of-hidden-souls.json) |
@@ -15284,6 +15288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tone Sphere | 82740 | [82740-tone-sphere.json](./82740-tone-sphere.json) |
 | Tone's froggy adventure! | 229094 | [229094-tones-froggy-adventure.json](./229094-tones-froggy-adventure.json) |
 | Tonetaker VR | 123510 | [123510-tonetaker-vr.json](./123510-tonetaker-vr.json) |
+| ToneTrek | 356016 | [356016-tonetrek.json](./356016-tonetrek.json) |
 | Tong Create Thorns | 358513 | [358513-tong-create-thorns.json](./358513-tong-create-thorns.json) |
 | Tóng Dāo Yín Jiàn | 373707 | [373707-tong-dao-yin-jian.json](./373707-tong-dao-yin-jian.json) |
 | Tong Jyun | 178488 | [178488-tong-jyun.json](./178488-tong-jyun.json) |
@@ -16126,6 +16131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Rakuryuusei: The Shattered Sky | 280870 | [280870-touhou-rakuryuusei-the-shattered-sky.json](./280870-touhou-rakuryuusei-the-shattered-sky.json) |
 | Touhou Rei'iden: The Highly Responsive to Prayers | 45967 | [45967-touhou-reiiden-the-highly-responsive-to-prayers.json](./45967-touhou-reiiden-the-highly-responsive-to-prayers.json) |
 | Touhou Rekkaden: Rift in a Friendship Game | 204669 | [204669-touhou-rekkaden-rift-in-a-friendship-game.json](./204669-touhou-rekkaden-rift-in-a-friendship-game.json) |
+| Touhou Rinrinki: Crafts of the Lucky Beast | 356040 | [356040-touhou-rinrinki-crafts-of-the-lucky-beast.json](./356040-touhou-rinrinki-crafts-of-the-lucky-beast.json) |
 | Touhou Risouen: Terminus of Unreal Darkside | 360202 | [360202-touhou-risouen-terminus-of-unreal-darkside.json](./360202-touhou-risouen-terminus-of-unreal-darkside.json) |
 | Touhou Rock Maiden 2: Houraisan Kaguya no Nazo | 202934 | [202934-touhou-rock-maiden-2-houraisan-kaguya-no-nazo.json](./202934-touhou-rock-maiden-2-houraisan-kaguya-no-nazo.json) |
 | Touhou Rock Maiden FC | 202936 | [202936-touhou-rock-maiden-fc.json](./202936-touhou-rock-maiden-fc.json) |
