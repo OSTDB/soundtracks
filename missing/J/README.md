@@ -1868,6 +1868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Juicy Retro Style!: Bloodhound | 265203 | [265203-juicy-retro-style-bloodhound.json](./265203-juicy-retro-style-bloodhound.json) |
 | Juicy Theater | 133437 | [133437-juicy-theater.json](./133437-juicy-theater.json) |
 | Juju | 17393 | [17393-juju.json](./17393-juju.json) |
+| JuJu | 385374 | [385374-juju.json](./385374-juju.json) |
 | Jujubos | 170936 | [170936-jujubos.json](./170936-jujubos.json) |
 | JuJuJu Club: Potsunen | 255353 | [255353-jujuju-club-potsunen.json](./255353-jujuju-club-potsunen.json) |
 | Jujutsu Kaisen Rumble: Survivaton | 405441 | [405441-jujutsu-kaisen-rumble-survivaton.json](./405441-jujutsu-kaisen-rumble-survivaton.json) |
