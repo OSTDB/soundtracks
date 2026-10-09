@@ -901,6 +901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Xillia | 1212 | [1212-tales-of-xillia.json](./1212-tales-of-xillia.json) |
 | Tales of Xillia 2 | 1213 | [1213-tales-of-xillia-2.json](./1213-tales-of-xillia-2.json) |
 | Tales of Xillia Remastered | 361791 | [361791-tales-of-xillia-remastered.json](./361791-tales-of-xillia-remastered.json) |
+| Tales of Xillia Remastered: Deluxe Edition | 365550 | [365550-tales-of-xillia-remastered-deluxe-edition.json](./365550-tales-of-xillia-remastered-deluxe-edition.json) |
 | Tales of Xillia Remastered: Super Growth Support Herb Set | 375173 | [375173-tales-of-xillia-remastered-super-growth-support-herb-set.json](./375173-tales-of-xillia-remastered-super-growth-support-herb-set.json) |
 | Tales of Yore | 186162 | [186162-tales-of-yore.json](./186162-tales-of-yore.json) |
 | Tales of Zizada | 379440 | [379440-tales-of-zizada.json](./379440-tales-of-zizada.json) |
@@ -4054,6 +4055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Blockheads Server | 87690 | [87690-the-blockheads-server.json](./87690-the-blockheads-server.json) |
 | The Blocks Cometh | 66103 | [66103-the-blocks-cometh.json](./66103-the-blocks-cometh.json) |
 | The Blocks Returneth | 298826 | [298826-the-blocks-returneth.json](./298826-the-blocks-returneth.json) |
+| The Blogger: Pumpkins and Witches | 365547 | [365547-the-blogger-pumpkins-and-witches.json](./365547-the-blogger-pumpkins-and-witches.json) |
 | The Blood Amulet | 219548 | [219548-the-blood-amulet.json](./219548-the-blood-amulet.json) |
 | The Blood Eclipse | 110826 | [110826-the-blood-eclipse.json](./110826-the-blood-eclipse.json) |
 | The Blood of Dawnwalker: Day 1 Edition | 416088 | [416088-the-blood-of-dawnwalker-day-1-edition.json](./416088-the-blood-of-dawnwalker-day-1-edition.json) |
@@ -8492,6 +8494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mystery of Blackthorn Castle 2 | 289974 | [289974-the-mystery-of-blackthorn-castle-2.json](./289974-the-mystery-of-blackthorn-castle-2.json) |
 | The Mystery of Devils House | 95236 | [95236-the-mystery-of-devils-house.json](./95236-the-mystery-of-devils-house.json) |
 | The Mystery of Doomsday Valley | 398557 | [398557-the-mystery-of-doomsday-valley.json](./398557-the-mystery-of-doomsday-valley.json) |
+| The Mystery of Eldham | 365548 | [365548-the-mystery-of-eldham.json](./365548-the-mystery-of-eldham.json) |
 | The Mystery of Haunted Hollow | 89746 | [89746-the-mystery-of-haunted-hollow.json](./89746-the-mystery-of-haunted-hollow.json) |
 | The Mystery of Mount Fang | 287311 | [287311-the-mystery-of-mount-fang.json](./287311-the-mystery-of-mount-fang.json) |
 | The Mystery of Nile | 59644 | [59644-the-mystery-of-nile.json](./59644-the-mystery-of-nile.json) |
