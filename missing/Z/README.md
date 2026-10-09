@@ -414,6 +414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zenless Zone Zero: Update 1.3 - Virtual Revenge | 320860 | [320860-zenless-zone-zero-update-1-3-virtual-revenge.json](./320860-zenless-zone-zero-update-1-3-virtual-revenge.json) |
 | Zenless Zone Zero: Update 1.5 - Astra-nomical Moment | 327812 | [327812-zenless-zone-zero-update-1-5-astra-nomical-moment.json](./327812-zenless-zone-zero-update-1-5-astra-nomical-moment.json) |
 | Zenless Zone Zero: Update 1.7 - Bury Your Tears With the Past | 339793 | [339793-zenless-zone-zero-update-1-7-bury-your-tears-with-the-past.json](./339793-zenless-zone-zero-update-1-7-bury-your-tears-with-the-past.json) |
+| Zenless Zone Zero: Update 2.3 - Memories of Dreams Bygone | 371753 | [371753-zenless-zone-zero-update-2-3-memories-of-dreams-bygone.json](./371753-zenless-zone-zero-update-2-3-memories-of-dreams-bygone.json) |
 | Zenless Zone Zero: Update 2.4 - On the Precipice of the Abyss | 377975 | [377975-zenless-zone-zero-update-2-4-on-the-precipice-of-the-abyss.json](./377975-zenless-zone-zero-update-2-4-on-the-precipice-of-the-abyss.json) |
 | Zenless Zone Zero: Update 2.5 - To Be Fuel for the Night | 381220 | [381220-zenless-zone-zero-update-2-5-to-be-fuel-for-the-night.json](./381220-zenless-zone-zero-update-2-5-to-be-fuel-for-the-night.json) |
 | Zenless Zone Zero: Update 2.8 - New Eridan Sunset | 400497 | [400497-zenless-zone-zero-update-2-8-new-eridan-sunset.json](./400497-zenless-zone-zero-update-2-8-new-eridan-sunset.json) |
@@ -436,6 +437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zenses: Zen Garden | 75122 | [75122-zenses-zen-garden.json](./75122-zenses-zen-garden.json) |
 | Zenteni | 189100 | [189100-zenteni.json](./189100-zenteni.json) |
 | Zenteni: Create Creatures | 387326 | [387326-zenteni-create-creatures.json](./387326-zenteni-create-creatures.json) |
+| Zentore: Muscle Your Brain | 371596 | [371596-zentore-muscle-your-brain.json](./371596-zentore-muscle-your-brain.json) |
 | Zentris | 229052 | [229052-zentris.json](./229052-zentris.json) |
 | Zenvader | 358316 | [358316-zenvader.json](./358316-zenvader.json) |
 | Zenza | 25949 | [25949-zenza.json](./25949-zenza.json) |
