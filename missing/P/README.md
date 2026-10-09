@@ -1300,6 +1300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paranormal Files: Hook Man's Legend - Collector's Edition | 123967 | [123967-paranormal-files-hook-mans-legend-collectors-edition.json](./123967-paranormal-files-hook-mans-legend-collectors-edition.json) |
 | Paranormal Files: Sacrifice to Shadows - Collector's Edition | 339788 | [339788-paranormal-files-sacrifice-to-shadows-collectors-edition.json](./339788-paranormal-files-sacrifice-to-shadows-collectors-edition.json) |
 | Paranormal Files: Silent Willow - Collector's Edition | 244295 | [244295-paranormal-files-silent-willow-collectors-edition.json](./244295-paranormal-files-silent-willow-collectors-edition.json) |
+| Paranormal Files: The Tall Man - Collector's Edition | 338759 | [338759-paranormal-files-the-tall-man-collectors-edition.json](./338759-paranormal-files-the-tall-man-collectors-edition.json) |
 | Paranormal Files: The Trap of Truth - Collector's Edition | 370900 | [370900-paranormal-files-the-trap-of-truth-collectors-edition.json](./370900-paranormal-files-the-trap-of-truth-collectors-edition.json) |
 | Paranormal Files: Trials of Worth - Collector's Edition | 272950 | [272950-paranormal-files-trials-of-worth-collectors-edition.json](./272950-paranormal-files-trials-of-worth-collectors-edition.json) |
 | Paranormal Girlfriend | 236968 | [236968-paranormal-girlfriend.json](./236968-paranormal-girlfriend.json) |
@@ -4193,7 +4194,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball FX | 185795 | [185795-pinball-fx.json](./185795-pinball-fx.json) |
 | Pinball FX 2: Marvel Pinball - Vengeance and Virtue | 20822 | [20822-pinball-fx-2-marvel-pinball-vengeance-and-virtue.json](./20822-pinball-fx-2-marvel-pinball-vengeance-and-virtue.json) |
 | Pinball FX VR | 332437 | [332437-pinball-fx-vr.json](./332437-pinball-fx-vr.json) |
+| Pinball FX VR: Indiana Jones - The Pinball Adventure | 338670 | [338670-pinball-fx-vr-indiana-jones-the-pinball-adventure.json](./338670-pinball-fx-vr-indiana-jones-the-pinball-adventure.json) |
+| Pinball FX VR: Universal Pinball - TV Classics | 338671 | [338671-pinball-fx-vr-universal-pinball-tv-classics.json](./338671-pinball-fx-vr-universal-pinball-tv-classics.json) |
+| Pinball FX VR: Williams Pinball - Star Trek: The Next Generation | 338677 | [338677-pinball-fx-vr-williams-pinball-star-trek-the-next-generation.json](./338677-pinball-fx-vr-williams-pinball-star-trek-the-next-generation.json) |
+| Pinball FX VR: Williams Pinball - The Addams Family | 338676 | [338676-pinball-fx-vr-williams-pinball-the-addams-family.json](./338676-pinball-fx-vr-williams-pinball-the-addams-family.json) |
+| Pinball FX VR: Williams Pinball - Twilight Zone | 338674 | [338674-pinball-fx-vr-williams-pinball-twilight-zone.json](./338674-pinball-fx-vr-williams-pinball-twilight-zone.json) |
 | Pinball FX VR: Williams Pinball - Volume 9 | 361051 | [361051-pinball-fx-vr-williams-pinball-volume-9.json](./361051-pinball-fx-vr-williams-pinball-volume-9.json) |
+| Pinball FX VR: Williams Pinball - World Cup Soccer | 338672 | [338672-pinball-fx-vr-williams-pinball-world-cup-soccer.json](./338672-pinball-fx-vr-williams-pinball-world-cup-soccer.json) |
 | Pinball FX VR: Williams Pinball Collection 1 | 344339 | [344339-pinball-fx-vr-williams-pinball-collection-1.json](./344339-pinball-fx-vr-williams-pinball-collection-1.json) |
 | Pinball FX: Bethesda Pinball | 386718 | [386718-pinball-fx-bethesda-pinball.json](./386718-pinball-fx-bethesda-pinball.json) |
 | Pinball FX: Buccaneer | 395544 | [395544-pinball-fx-buccaneer.json](./395544-pinball-fx-buccaneer.json) |
@@ -11048,10 +11055,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzling Places: All Puzzles of 2024 Bundle | 353878 | [353878-puzzling-places-all-puzzles-of-2024-bundle.json](./353878-puzzling-places-all-puzzles-of-2024-bundle.json) |
 | Puzzling Places: Ancient Egypt | 353469 | [353469-puzzling-places-ancient-egypt.json](./353469-puzzling-places-ancient-egypt.json) |
 | Puzzling Places: Behind High Walls | 353447 | [353447-puzzling-places-behind-high-walls.json](./353447-puzzling-places-behind-high-walls.json) |
+| Puzzling Places: Cherry Blossom | 338761 | [338761-puzzling-places-cherry-blossom.json](./338761-puzzling-places-cherry-blossom.json) |
 | Puzzling Places: Cityscapes Bundle | 353888 | [353888-puzzling-places-cityscapes-bundle.json](./353888-puzzling-places-cityscapes-bundle.json) |
 | Puzzling Places: Cozy Rooms Bundle | 353889 | [353889-puzzling-places-cozy-rooms-bundle.json](./353889-puzzling-places-cozy-rooms-bundle.json) |
 | Puzzling Places: EuroTrip Bundle | 353885 | [353885-puzzling-places-eurotrip-bundle.json](./353885-puzzling-places-eurotrip-bundle.json) |
+| Puzzling Places: MDRS Pack | 338762 | [338762-puzzling-places-mdrs-pack.json](./338762-puzzling-places-mdrs-pack.json) |
 | Puzzling Places: Monastery of Batalha - Day & Night | 353461 | [353461-puzzling-places-monastery-of-batalha-day-and-night.json](./353461-puzzling-places-monastery-of-batalha-day-and-night.json) |
+| Puzzling Places: Monthly Pack #1 | 338763 | [338763-puzzling-places-monthly-pack-1.json](./338763-puzzling-places-monthly-pack-1.json) |
 | Puzzling Places: Monthly Pack #10 | 353455 | [353455-puzzling-places-monthly-pack-10.json](./353455-puzzling-places-monthly-pack-10.json) |
 | Puzzling Places: Monthly Pack #11 - Skogaholm Manor | 353456 | [353456-puzzling-places-monthly-pack-11-skogaholm-manor.json](./353456-puzzling-places-monthly-pack-11-skogaholm-manor.json) |
 | Puzzling Places: Monthly Pack #12 | 353457 | [353457-puzzling-places-monthly-pack-12.json](./353457-puzzling-places-monthly-pack-12.json) |
