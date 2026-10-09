@@ -2089,6 +2089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Hook | 252209 | [252209-dead-hook.json](./252209-dead-hook.json) |
 | Dead Horizon | 52772 | [52772-dead-horizon.json](./52772-dead-horizon.json) |
 | Dead Hospital | 406174 | [406174-dead-hospital.json](./406174-dead-hospital.json) |
+| Dead Hourz | 342016 | [342016-dead-hourz.json](./342016-dead-hourz.json) |
 | Dead House: Saisei | 218972 | [218972-dead-house-saisei.json](./218972-dead-house-saisei.json) |
 | Dead Humanity | 269034 | [269034-dead-humanity.json](./269034-dead-humanity.json) |
 | Dead Hungry Diner | 8442 | [8442-dead-hungry-diner.json](./8442-dead-hungry-diner.json) |
@@ -2984,6 +2985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dee Dum | 134992 | [134992-dee-dum.json](./134992-dee-dum.json) |
 | Dee-6: Dice Defenders | 145562 | [145562-dee-6-dice-defenders.json](./145562-dee-6-dice-defenders.json) |
 | Deed: Sustainable Business | 240201 | [240201-deed-sustainable-business.json](./240201-deed-sustainable-business.json) |
+| Deedlee Doo! Carkour! | 342090 | [342090-deedlee-doo-carkour.json](./342090-deedlee-doo-carkour.json) |
 | Deeds Were Done 2: Project Ascend | 414425 | [414425-deeds-were-done-2-project-ascend.json](./414425-deeds-were-done-2-project-ascend.json) |
 | Deeeep.io | 79267 | [79267-deeeep-io.json](./79267-deeeep-io.json) |
 | Deeeer Simulator: Shikanoko Dance | 331960 | [331960-deeeer-simulator-shikanoko-dance.json](./331960-deeeer-simulator-shikanoko-dance.json) |
@@ -4535,6 +4537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detective Club: Carnival of Secrets - Collector's Edition | 416774 | [416774-detective-club-carnival-of-secrets-collectors-edition.json](./416774-detective-club-carnival-of-secrets-collectors-edition.json) |
 | Detective Club: Gallery of Shadows | 416699 | [416699-detective-club-gallery-of-shadows.json](./416699-detective-club-gallery-of-shadows.json) |
 | Detective Club: Gallery of Shadows - Collector's Edition | 362848 | [362848-detective-club-gallery-of-shadows-collectors-edition.json](./362848-detective-club-gallery-of-shadows-collectors-edition.json) |
+| Detective Club: Missing in the Fog - Collector's Edition | 342099 | [342099-detective-club-missing-in-the-fog-collectors-edition.json](./342099-detective-club-missing-in-the-fog-collectors-edition.json) |
 | Detective Conan Skateboard Run: Kaitou Kid to Shinpi no Hihou | 115712 | [115712-detective-conan-skateboard-run-kaitou-kid-to-shinpi-no-hihou.json](./115712-detective-conan-skateboard-run-kaitou-kid-to-shinpi-no-hihou.json) |
 | Detective Conan: Aoki Houseki no Rinbukyoku - Rondo | 79556 | [79556-detective-conan-aoki-houseki-no-rinbukyoku-rondo.json](./79556-detective-conan-aoki-houseki-no-rinbukyoku-rondo.json) |
 | Detective Conan: Kieta Hakase to Machigai Sagashi no Tou | 79555 | [79555-detective-conan-kieta-hakase-to-machigai-sagashi-no-tou.json](./79555-detective-conan-kieta-hakase-to-machigai-sagashi-no-tou.json) |
@@ -10820,6 +10823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon of Windaria | 72637 | [72637-dungeon-of-windaria.json](./72637-dungeon-of-windaria.json) |
 | Dungeon of Zaar: Explorer Edition | 238545 | [238545-dungeon-of-zaar-explorer-edition.json](./238545-dungeon-of-zaar-explorer-edition.json) |
 | Dungeon of Zolthan | 32967 | [32967-dungeon-of-zolthan.json](./32967-dungeon-of-zolthan.json) |
+| Dungeon Overdose | 342026 | [342026-dungeon-overdose.json](./342026-dungeon-overdose.json) |
 | Dungeon Overlord | 65261 | [65261-dungeon-overlord.json](./65261-dungeon-overlord.json) |
 | Dungeon Pain Maniac | 117561 | [117561-dungeon-pain-maniac.json](./117561-dungeon-pain-maniac.json) |
 | Dungeon Party | 134613 | [134613-dungeon-party.json](./134613-dungeon-party.json) |
