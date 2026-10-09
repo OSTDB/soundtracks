@@ -2025,6 +2025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Estate: Home Theater | 366968 | [366968-dead-estate-home-theater.json](./366968-dead-estate-home-theater.json) |
 | Dead Event | 177035 | [177035-dead-event.json](./177035-dead-event.json) |
 | Dead Exhale | 357444 | [357444-dead-exhale.json](./357444-dead-exhale.json) |
+| Dead Exposure | 379698 | [379698-dead-exposure.json](./379698-dead-exposure.json) |
 | Dead Eye Deputy | 316056 | [316056-dead-eye-deputy.json](./316056-dead-eye-deputy.json) |
 | Dead Eye Jim | 44639 | [44639-dead-eye-jim.json](./44639-dead-eye-jim.json) |
 | Dead Face | 181919 | [181919-dead-face.json](./181919-dead-face.json) |
