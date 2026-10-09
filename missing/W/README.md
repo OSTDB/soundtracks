@@ -2654,6 +2654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where's Wally? Travel Pack 2 | 85485 | [85485-wheres-wally-travel-pack-2.json](./85485-wheres-wally-travel-pack-2.json) |
 | Where's Wally? Travel Pack 3 | 85484 | [85484-wheres-wally-travel-pack-3.json](./85484-wheres-wally-travel-pack-3.json) |
 | Where's Worldo?! | 229072 | [229072-wheres-worldo.json](./229072-wheres-worldo.json) |
+| Wherein She Completely Cuts Herself From Reality: A Parabolic Emotion from recovery into despair | 350977 | [350977-wherein-she-completely-cuts-herself-from-reality-a-parabolic-emotion-from-recovery-into-despair.json](./350977-wherein-she-completely-cuts-herself-from-reality-a-parabolic-emotion-from-recovery-into-despair.json) |
 | WhereTaken | 323198 | [323198-wheretaken.json](./323198-wheretaken.json) |
 | Wherever You Get Your Podcasts | 397652 | [397652-wherever-you-get-your-podcasts.json](./397652-wherever-you-get-your-podcasts.json) |
 | Which Came First? | 180663 | [180663-which-came-first.json](./180663-which-came-first.json) |
@@ -3756,6 +3757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wipe Factor | 233558 | [233558-wipe-factor.json](./233558-wipe-factor.json) |
 | Wipe Out | 18160 | [18160-wipe-out.json](./18160-wipe-out.json) |
 | Wipe Out VR | 81248 | [81248-wipe-out-vr.json](./81248-wipe-out-vr.json) |
+| Wiped Clean | 350961 | [350961-wiped-clean.json](./350961-wiped-clean.json) |
 | Wipeout | 1083 | [1083-wipeout.json](./1083-wipeout.json) |
 | Wipeout | 109445 | [109445-wipeout.json](./109445-wipeout.json) |
 | Wipeout | 265970 | [265970-wipeout.json](./265970-wipeout.json) |
