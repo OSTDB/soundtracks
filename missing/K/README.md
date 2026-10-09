@@ -581,6 +581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Karga | 296458 | [296458-karga.json](./296458-karga.json) |
 | Kari | 150497 | [150497-kari.json](./150497-kari.json) |
 | Kari Gurashi Ren'ai | 97347 | [97347-kari-gurashi-renai.json](./97347-kari-gurashi-renai.json) |
+| Kari ni A-kun to Shiyou | 380182 | [380182-kari-ni-a-kun-to-shiyou.json](./380182-kari-ni-a-kun-to-shiyou.json) |
 | Karian Cross | 40212 | [40212-karian-cross.json](./40212-karian-cross.json) |
 | Karim and the 60 Thieves | 348905 | [348905-karim-and-the-60-thieves.json](./348905-karim-and-the-60-thieves.json) |
 | Karin's Instruction | 292757 | [292757-karins-instruction.json](./292757-karins-instruction.json) |
@@ -1260,6 +1261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kicking Kittens: Putin Saves the World | 81653 | [81653-kicking-kittens-putin-saves-the-world.json](./81653-kicking-kittens-putin-saves-the-world.json) |
 | Kicking The Ball Over Mountains Of Stuff | 310398 | [310398-kicking-the-ball-over-mountains-of-stuff.json](./310398-kicking-the-ball-over-mountains-of-stuff.json) |
 | Kickle Cubicle | 40238 | [40238-kickle-cubicle.json](./40238-kickle-cubicle.json) |
+| KickNSlap | 380188 | [380188-kicknslap.json](./380188-kicknslap.json) |
 | Kickrexing | 193487 | [193487-kickrexing.json](./193487-kickrexing.json) |
 | Kickshot | 99641 | [99641-kickshot.json](./99641-kickshot.json) |
 | Kickster Online Street Soccer | 72654 | [72654-kickster-online-street-soccer.json](./72654-kickster-online-street-soccer.json) |
