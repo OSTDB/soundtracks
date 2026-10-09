@@ -2505,6 +2505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orixo Hex | 232165 | [232165-orixo-hex.json](./232165-orixo-hex.json) |
 | Orixo Wormhole | 132119 | [132119-orixo-wormhole.json](./132119-orixo-wormhole.json) |
 | Oriza | 119633 | [119633-oriza.json](./119633-oriza.json) |
+| Ork | 385386 | [385386-ork.json](./385386-ork.json) |
 | Ork Manager: Coal & Top hats | 125400 | [125400-ork-manager-coal-and-top-hats.json](./125400-ork-manager-coal-and-top-hats.json) |
 | Orkicidium | 183516 | [183516-orkicidium.json](./183516-orkicidium.json) |
 | Orla Frøsnapper | 172596 | [172596-orla-fr-snapper.json](./172596-orla-fr-snapper.json) |
@@ -2770,6 +2771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oubey VR: Reise der Monaden | 292688 | [292688-oubey-vr-reise-der-monaden.json](./292688-oubey-vr-reise-der-monaden.json) |
 | Oubey VR: Samurai | 292693 | [292693-oubey-vr-samurai.json](./292693-oubey-vr-samurai.json) |
 | Oubliette | 2869 | [2869-oubliette.json](./2869-oubliette.json) |
+| Oubliette | 385369 | [385369-oubliette.json](./385369-oubliette.json) |
 | Oubliette Fatalis | 279078 | [279078-oubliette-fatalis.json](./279078-oubliette-fatalis.json) |
 | Oubliette Gauntlet | 137389 | [137389-oubliette-gauntlet.json](./137389-oubliette-gauntlet.json) |
 | Ouch! Cargo! | 405548 | [405548-ouch-cargo.json](./405548-ouch-cargo.json) |
