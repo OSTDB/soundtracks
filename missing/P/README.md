@@ -138,6 +138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-Man Party | 5089 | [5089-pac-man-party.json](./5089-pac-man-party.json) |
 | Pac-Man Remix | 21853 | [21853-pac-man-remix.json](./21853-pac-man-remix.json) |
 | Pac-Man S | 64683 | [64683-pac-man-s.json](./64683-pac-man-s.json) |
+| Pac-Man SDL | 334737 | [334737-pac-man-sdl.json](./334737-pac-man-sdl.json) |
 | Pac-Man Social | 64682 | [64682-pac-man-social.json](./64682-pac-man-social.json) |
 | Pac-Man VR | 65001 | [65001-pac-man-vr.json](./65001-pac-man-vr.json) |
 | Pac-Man vs. & Pac-Man World 2 | 349360 | [349360-pac-man-vs-and-pac-man-world-2.json](./349360-pac-man-vs-and-pac-man-world-2.json) |
@@ -5313,6 +5314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixture | 97994 | [97994-pixture.json](./97994-pixture.json) |
 | Pixxelverse Online | 243239 | [243239-pixxelverse-online.json](./243239-pixxelverse-online.json) |
 | Pixxle: A Pixel Puzzle Game | 91147 | [91147-pixxle-a-pixel-puzzle-game.json](./91147-pixxle-a-pixel-puzzle-game.json) |
+| PixZomb | 334808 | [334808-pixzomb.json](./334808-pixzomb.json) |
 | Piyo Blocks 2 | 175413 | [175413-piyo-blocks-2.json](./175413-piyo-blocks-2.json) |
 | Piyo Puzz: Piyokoro x Puzzle | 328493 | [328493-piyo-puzz-piyokoro-x-puzzle.json](./328493-piyo-puzz-piyokoro-x-puzzle.json) |
 | Piyopoyon | 394481 | [394481-piyopoyon.json](./394481-piyopoyon.json) |
@@ -9814,6 +9816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pröng | 183003 | [183003-prong.json](./183003-prong.json) |
 | Pronty | 143125 | [143125-pronty.json](./143125-pronty.json) |
 | Proof of Existence | 405467 | [405467-proof-of-existence.json](./405467-proof-of-existence.json) |
+| Proof-O: Super Godotrio | 334739 | [334739-proof-o-super-godotrio.json](./334739-proof-o-super-godotrio.json) |
 | Prop Cycle | 40395 | [40395-prop-cycle.json](./40395-prop-cycle.json) |
 | Prop Game | 256000 | [256000-prop-game.json](./256000-prop-game.json) |
 | Prop Haunt | 330537 | [330537-prop-haunt.json](./330537-prop-haunt.json) |
