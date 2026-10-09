@@ -2927,6 +2927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ourkade | 341521 | [341521-ourkade.json](./341521-ourkade.json) |
 | Ourobolos | 378376 | [378376-ourobolos.json](./378376-ourobolos.json) |
 | Ouroboros | 230408 | [230408-ouroboros.json](./230408-ouroboros.json) |
+| Ouroboros | 340969 | [340969-ouroboros.json](./340969-ouroboros.json) |
 | Ouroboros Saiaku.exe: Crazy for you | 358363 | [358363-ouroboros-saiaku-exe-crazy-for-you.json](./358363-ouroboros-saiaku-exe-crazy-for-you.json) |
 | Ouroboros Solitaire | 405689 | [405689-ouroboros-solitaire.json](./405689-ouroboros-solitaire.json) |
 | Ouroboros: Prelude | 68604 | [68604-ouroboros-prelude.json](./68604-ouroboros-prelude.json) |
@@ -2952,6 +2953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Out of Coverage | 116266 | [116266-out-of-coverage.json](./116266-out-of-coverage.json) |
 | Out of Ctrl | 177519 | [177519-out-of-ctrl.json](./177519-out-of-ctrl.json) |
 | Out of Darkness | 180088 | [180088-out-of-darkness.json](./180088-out-of-darkness.json) |
+| Out of Darkness | 340985 | [340985-out-of-darkness.json](./340985-out-of-darkness.json) |
 | Out of Fix | 184978 | [184978-out-of-fix.json](./184978-out-of-fix.json) |
 | Out of Frame | 141886 | [141886-out-of-frame.json](./141886-out-of-frame.json) |
 | Out of Fuel | 257358 | [257358-out-of-fuel.json](./257358-out-of-fuel.json) |
