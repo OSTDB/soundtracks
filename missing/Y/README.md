@@ -824,6 +824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Your Answers or Your Breakfast! | 181752 | [181752-your-answers-or-your-breakfast.json](./181752-your-answers-or-your-breakfast.json) |
 | Your Average Old School Shmup | 320852 | [320852-your-average-old-school-shmup.json](./320852-your-average-old-school-shmup.json) |
 | Your Best Nightmare | 176909 | [176909-your-best-nightmare.json](./176909-your-best-nightmare.json) |
+| Your Big, Cute Monster Farm | 368810 | [368810-your-big-cute-monster-farm.json](./368810-your-big-cute-monster-farm.json) |
 | Your Blue Room | 185616 | [185616-your-blue-room.json](./185616-your-blue-room.json) |
 | Your Boss is Calling... | 214391 | [214391-your-boss-is-calling.json](./214391-your-boss-is-calling.json) |
 | Your Canvas | 387638 | [387638-your-canvas.json](./387638-your-canvas.json) |
