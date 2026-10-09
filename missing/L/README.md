@@ -1186,6 +1186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Le Avventure di Blue | 228418 | [228418-le-avventure-di-blue.json](./228418-le-avventure-di-blue.json) |
 | Le Avventure di Blue: Lacrima di Cristallo | 257676 | [257676-le-avventure-di-blue-lacrima-di-cristallo.json](./257676-le-avventure-di-blue-lacrima-di-cristallo.json) |
 | Le Barbare Qui Est Un Bourgeois | 97509 | [97509-le-barbare-qui-est-un-bourgeois.json](./97509-le-barbare-qui-est-un-bourgeois.json) |
+| Le Bureau Des Rêves | 343306 | [343306-le-bureau-des-reves.json](./343306-le-bureau-des-reves.json) |
 | Le Château | 244484 | [244484-le-chateau.json](./244484-le-chateau.json) |
 | Le Chevalier Blanc | 39112 | [39112-le-chevalier-blanc.json](./39112-le-chevalier-blanc.json) |
 | Le Concert | 309011 | [309011-le-concert.json](./309011-le-concert.json) |
@@ -1487,6 +1488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legacy of YanHuang | 28755 | [28755-legacy-of-yanhuang.json](./28755-legacy-of-yanhuang.json) |
 | Legacy Online | 23711 | [23711-legacy-online.json](./23711-legacy-online.json) |
 | Legacy Quest 2 | 192446 | [192446-legacy-quest-2.json](./192446-legacy-quest-2.json) |
+| Legacy: Reawakening | 343222 | [343222-legacy-reawakening.json](./343222-legacy-reawakening.json) |
 | Legacy: The Last Pure Heart | 191045 | [191045-legacy-the-last-pure-heart.json](./191045-legacy-the-last-pure-heart.json) |
 | Legacy: Witch Island | 164425 | [164425-legacy-witch-island.json](./164425-legacy-witch-island.json) |
 | Legacy: Witch Island 2 | 159655 | [159655-legacy-witch-island-2.json](./159655-legacy-witch-island-2.json) |
@@ -1883,6 +1885,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Dimensions: Wonder Woman Fun Pack | 172626 | [172626-lego-dimensions-wonder-woman-fun-pack.json](./172626-lego-dimensions-wonder-woman-fun-pack.json) |
 | LEGO Dimensions: Zane Fun Pack | 172610 | [172610-lego-dimensions-zane-fun-pack.json](./172610-lego-dimensions-zane-fun-pack.json) |
 | LEGO Duplo World | 356220 | [356220-lego-duplo-world.json](./356220-lego-duplo-world.json) |
+| LEGO Exo-Force: Deep Jungle | 343214 | [343214-lego-exo-force-deep-jungle.json](./343214-lego-exo-force-deep-jungle.json) |
+| LEGO Exo-Force: Sentai Showdown | 343211 | [343211-lego-exo-force-sentai-showdown.json](./343211-lego-exo-force-sentai-showdown.json) |
 | LEGO Fortnite: Brick Life | 325544 | [325544-lego-fortnite-brick-life.json](./325544-lego-fortnite-brick-life.json) |
 | LEGO Fortnite: Expeditions | 387000 | [387000-lego-fortnite-expeditions.json](./387000-lego-fortnite-expeditions.json) |
 | LEGO Friends | 142951 | [142951-lego-friends.json](./142951-lego-friends.json) |
@@ -2385,6 +2389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lets Beats | 105319 | [105319-lets-beats.json](./105319-lets-beats.json) |
 | Lets Get Loot | 331988 | [331988-lets-get-loot.json](./331988-lets-get-loot.json) |
 | Lets Go Champ | 60539 | [60539-lets-go-champ.json](./60539-lets-go-champ.json) |
+| Lets Nuke Mars | 343224 | [343224-lets-nuke-mars.json](./343224-lets-nuke-mars.json) |
 | Lets Play Bingo | 87271 | [87271-lets-play-bingo.json](./87271-lets-play-bingo.json) |
 | Letsss Play | 373153 | [373153-letsss-play.json](./373153-letsss-play.json) |
 | Letter Bender | 195107 | [195107-letter-bender.json](./195107-letter-bender.json) |
