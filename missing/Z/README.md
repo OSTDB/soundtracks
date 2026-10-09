@@ -521,6 +521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zero Sum Future | 107751 | [107751-zero-sum-future.json](./107751-zero-sum-future.json) |
 | Zero Target | 272797 | [272797-zero-target.json](./272797-zero-target.json) |
 | Zero Team USA | 40207 | [40207-zero-team-usa.json](./40207-zero-team-usa.json) |
+| Zero Tenshi: Blue Sun | 364399 | [364399-zero-tenshi-blue-sun.json](./364399-zero-tenshi-blue-sun.json) |
 | Zero the Kamikaze Squirrel | 38405 | [38405-zero-the-kamikaze-squirrel.json](./38405-zero-the-kamikaze-squirrel.json) |
 | Zero to Army | 391893 | [391893-zero-to-army.json](./391893-zero-to-army.json) |
 | Zero to Death | 297756 | [297756-zero-to-death.json](./297756-zero-to-death.json) |
