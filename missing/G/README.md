@@ -6129,6 +6129,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guilty Gear Xrd Rev 2: Character Colors - Faust | 332584 | [332584-guilty-gear-xrd-rev-2-character-colors-faust.json](./332584-guilty-gear-xrd-rev-2-character-colors-faust.json) |
 | Guilty Gear Xrd Rev 2: Character Colors - Johnny | 332585 | [332585-guilty-gear-xrd-rev-2-character-colors-johnny.json](./332585-guilty-gear-xrd-rev-2-character-colors-johnny.json) |
 | Guilty Gear Xrd: Rev 2 - Character Colors Zato-One | 344378 | [344378-guilty-gear-xrd-rev-2-character-colors-zato-one.json](./344378-guilty-gear-xrd-rev-2-character-colors-zato-one.json) |
+| Guilty Gear Xrd: Rev 2 - Character Colors: Baiken | 338151 | [338151-guilty-gear-xrd-rev-2-character-colors-baiken.json](./338151-guilty-gear-xrd-rev-2-character-colors-baiken.json) |
+| Guilty Gear Xrd: Rev 2 - Character Colors: Bedman | 338152 | [338152-guilty-gear-xrd-rev-2-character-colors-bedman.json](./338152-guilty-gear-xrd-rev-2-character-colors-bedman.json) |
 | Guilty Gear Xrd: Revelator | 13620 | [13620-guilty-gear-xrd-revelator.json](./13620-guilty-gear-xrd-revelator.json) |
 | Guilty Gear Xrd: Revelator - Additional Playable Character Kum Haehyun | 409067 | [409067-guilty-gear-xrd-revelator-additional-playable-character-kum-haehyun.json](./409067-guilty-gear-xrd-revelator-additional-playable-character-kum-haehyun.json) |
 | Guilty Gear Xrd: Revelator - Character Colors Pack | 409068 | [409068-guilty-gear-xrd-revelator-character-colors-pack.json](./409068-guilty-gear-xrd-revelator-character-colors-pack.json) |
