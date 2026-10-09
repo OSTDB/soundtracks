@@ -2286,6 +2286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kirby's Dream Land 2 DX | 248574 | [248574-kirbys-dream-land-2-dx.json](./248574-kirbys-dream-land-2-dx.json) |
 | Kirby's Dream Land 3 | 3720 | [3720-kirbys-dream-land-3.json](./3720-kirbys-dream-land-3.json) |
 | Kirby's Dream Land DX | 173146 | [173146-kirbys-dream-land-dx.json](./173146-kirbys-dream-land-dx.json) |
+| Kirby's Dream Land PIC18F45K22 Edition | 369926 | [369926-kirbys-dream-land-pic18f45k22-edition.json](./369926-kirbys-dream-land-pic18f45k22-edition.json) |
 | Kirby's Dream World | 243927 | [243927-kirbys-dream-world.json](./243927-kirbys-dream-world.json) |
 | Kirby's Dreamland Collision | 323916 | [323916-kirbys-dreamland-collision.json](./323916-kirbys-dreamland-collision.json) |
 | Kirby's Epic Yarn | 2184 | [2184-kirbys-epic-yarn.json](./2184-kirbys-epic-yarn.json) |
