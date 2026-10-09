@@ -3676,6 +3676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No: Worse | 215625 | [215625-no-worse.json](./215625-no-worse.json) |
 | No. 10: Full Confidence | 414178 | [414178-no-10-full-confidence.json](./414178-no-10-full-confidence.json) |
 | No.13 Shelter | 231853 | [231853-no-13-shelter.json](./231853-no-13-shelter.json) |
+| No.8 High School | 333506 | [333506-no-8-high-school.json](./333506-no-8-high-school.json) |
 | No1Left | 34283 | [34283-no1left.json](./34283-no1left.json) |
 | No70: Eye of Basir | 35238 | [35238-no70-eye-of-basir.json](./35238-no70-eye-of-basir.json) |
 | Noa Noa! | 115029 | [115029-noa-noa.json](./115029-noa-noa.json) |
