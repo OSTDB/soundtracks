@@ -654,6 +654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laser Z | 127081 | [127081-laser-z.json](./127081-laser-z.json) |
 | Laser! | 253011 | [253011-laser.json](./253011-laser.json) |
 | Laserade: Sugar Rush | 348452 | [348452-laserade-sugar-rush.json](./348452-laserade-sugar-rush.json) |
+| LaserAge | 342590 | [342590-laserage.json](./342590-laserage.json) |
 | Laserbirds | 217986 | [217986-laserbirds.json](./217986-laserbirds.json) |
 | Laserboy | 182357 | [182357-laserboy.json](./182357-laserboy.json) |
 | Laserbreak | 57732 | [57732-laserbreak.json](./57732-laserbreak.json) |
