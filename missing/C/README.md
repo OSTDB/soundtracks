@@ -2253,6 +2253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Pong! | 243082 | [243082-cat-pong.json](./243082-cat-pong.json) |
 | Cat Powered UFO | 197179 | [197179-cat-powered-ufo.json](./197179-cat-powered-ufo.json) |
 | Cat President 2: Purrlitical Revolution | 148990 | [148990-cat-president-2-purrlitical-revolution.json](./148990-cat-president-2-purrlitical-revolution.json) |
+| Cat President: 3rd-Rate Candidate | 386515 | [386515-cat-president-3rd-rate-candidate.json](./386515-cat-president-3rd-rate-candidate.json) |
 | Cat President: A More Purrfect Union | 23186 | [23186-cat-president-a-more-purrfect-union.json](./23186-cat-president-a-more-purrfect-union.json) |
 | Cat Purrtrol: Find All 100! | 295772 | [295772-cat-purrtrol-find-all-100.json](./295772-cat-purrtrol-find-all-100.json) |
 | Cat Puzzle | 335441 | [335441-cat-puzzle.json](./335441-cat-puzzle.json) |
@@ -2549,6 +2550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cats Games + Say Cheese! + Soko Games | 335105 | [335105-cats-games-say-cheese-soko-games.json](./335105-cats-games-say-cheese-soko-games.json) |
 | Cats Go! | 360150 | [360150-cats-go.json](./360150-cats-go.json) |
 | Cats Hidden Around the World 2 | 306340 | [306340-cats-hidden-around-the-world-2.json](./306340-cats-hidden-around-the-world-2.json) |
+| Cats Hidden in Advent Calendar | 386489 | [386489-cats-hidden-in-advent-calendar.json](./386489-cats-hidden-in-advent-calendar.json) |
 | Cats Hidden in Chang'an | 351716 | [351716-cats-hidden-in-changan.json](./351716-cats-hidden-in-changan.json) |
 | Cats Hidden in China | 272861 | [272861-cats-hidden-in-china.json](./272861-cats-hidden-in-china.json) |
 | Cats Hidden in Italy | 239729 | [239729-cats-hidden-in-italy.json](./239729-cats-hidden-in-italy.json) |
@@ -3079,6 +3081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chained Survive Together | 320375 | [320375-chained-survive-together.json](./320375-chained-survive-together.json) |
 | Chained Through Hell | 324983 | [324983-chained-through-hell.json](./324983-chained-through-hell.json) |
 | Chained Together | 265111 | [265111-chained-together.json](./265111-chained-together.json) |
+| Chained Wheels | 386507 | [386507-chained-wheels.json](./386507-chained-wheels.json) |
 | Chainer | 350062 | [350062-chainer.json](./350062-chainer.json) |
 | Chainers | 393551 | [393551-chainers.json](./393551-chainers.json) |
 | Chainmail Bikini | 235825 | [235825-chainmail-bikini.json](./235825-chainmail-bikini.json) |
@@ -8751,6 +8754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmos Rings | 197752 | [197752-cosmos-rings.json](./197752-cosmos-rings.json) |
 | Cosmosa | 117548 | [117548-cosmosa.json](./117548-cosmosa.json) |
 | Cosmoscope | 158200 | [158200-cosmoscope.json](./158200-cosmoscope.json) |
+| Cosmoswat | 386514 | [386514-cosmoswat.json](./386514-cosmoswat.json) |
 | Cosmotroid | 263041 | [263041-cosmotroid.json](./263041-cosmotroid.json) |
 | Cosmotrons | 130675 | [130675-cosmotrons.json](./130675-cosmotrons.json) |
 | CosmoWarrior Zero | 43875 | [43875-cosmowarrior-zero.json](./43875-cosmowarrior-zero.json) |
