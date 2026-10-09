@@ -1733,6 +1733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bart Bike Fun | 365247 | [365247-bart-bike-fun.json](./365247-bart-bike-fun.json) |
 | Bart Bird | 26935 | [26935-bart-bird.json](./26935-bart-bird.json) |
 | Bart SimpSon Rambo Dwarf | 343927 | [343927-bart-simpson-rambo-dwarf.json](./343927-bart-simpson-rambo-dwarf.json) |
+| Bart Simpson Saw Game | 337137 | [337137-bart-simpson-saw-game.json](./337137-bart-simpson-saw-game.json) |
 | Bart Simpson vs. Dragon Ball | 365245 | [365245-bart-simpson-vs-dragon-ball.json](./365245-bart-simpson-vs-dragon-ball.json) |
 | Bart's Nightmare Redux | 219272 | [219272-barts-nightmare-redux.json](./219272-barts-nightmare-redux.json) |
 | Bart's Quest For TV | 317310 | [317310-barts-quest-for-tv.json](./317310-barts-quest-for-tv.json) |
@@ -2340,6 +2341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Night | 228434 | [228434-battle-night.json](./228434-battle-night.json) |
 | Battle of 2048: Fantasy Edition | 234350 | [234350-battle-of-2048-fantasy-edition.json](./234350-battle-of-2048-fantasy-edition.json) |
 | Battle of Angels | 137681 | [137681-battle-of-angels.json](./137681-battle-of-angels.json) |
+| Battle of Arachnidia | 337048 | [337048-battle-of-arachnidia.json](./337048-battle-of-arachnidia.json) |
 | Battle of Arrow | 82146 | [82146-battle-of-arrow.json](./82146-battle-of-arrow.json) |
 | Battle of Atlantis | 85845 | [85845-battle-of-atlantis.json](./85845-battle-of-atlantis.json) |
 | Battle of BackYard | 276260 | [276260-battle-of-backyard.json](./276260-battle-of-backyard.json) |
@@ -2962,6 +2964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beached | 174101 | [174101-beached.json](./174101-beached.json) |
 | Beachgirl Dreams | 337159 | [337159-beachgirl-dreams.json](./337159-beachgirl-dreams.json) |
 | Beachside Blitz | 353315 | [353315-beachside-blitz.json](./353315-beachside-blitz.json) |
+| Beachside Bloodbath | 337127 | [337127-beachside-bloodbath.json](./337127-beachside-bloodbath.json) |
 | Beacon | 165516 | [165516-beacon.json](./165516-beacon.json) |
 | Beacon | 18200 | [18200-beacon.json](./18200-beacon.json) |
 | Beacon | 242575 | [242575-beacon.json](./242575-beacon.json) |
@@ -4815,6 +4818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bio Fail | 410910 | [410910-bio-fail.json](./410910-bio-fail.json) |
 | Bio Fault | 397052 | [397052-bio-fault.json](./397052-bio-fault.json) |
 | Bio Force Ape | 19378 | [19378-bio-force-ape.json](./19378-bio-force-ape.json) |
+| Bio Goddess: Doomsday Begins | 337038 | [337038-bio-goddess-doomsday-begins.json](./337038-bio-goddess-doomsday-begins.json) |
 | Bio Guardian | 52458 | [52458-bio-guardian.json](./52458-bio-guardian.json) |
 | Bio Hazard | 247453 | [247453-bio-hazard.json](./247453-bio-hazard.json) |
 | Bio Hazard | 356221 | [356221-bio-hazard.json](./356221-bio-hazard.json) |
@@ -7125,6 +7129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Board Game Collection | 100743 | [100743-board-game-collection.json](./100743-board-game-collection.json) |
 | Board Game Online | 60809 | [60809-board-game-online.json](./60809-board-game-online.json) |
 | Board Game Party | 303172 | [303172-board-game-party.json](./303172-board-game-party.json) |
+| Board Game Society | 337063 | [337063-board-game-society.json](./337063-board-game-society.json) |
 | Board Games | 271929 | [271929-board-games.json](./271929-board-games.json) |
 | Board Games Gallery (10 Games) | 100168 | [100168-board-games-gallery-10-games.json](./100168-board-games-gallery-10-games.json) |
 | Board Games Live | 86121 | [86121-board-games-live.json](./86121-board-games-live.json) |
@@ -8200,6 +8205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bounce ASMR: Pentagon | 288912 | [288912-bounce-asmr-pentagon.json](./288912-bounce-asmr-pentagon.json) |
 | Bounce ASMR: Triangle | 288907 | [288907-bounce-asmr-triangle.json](./288907-bounce-asmr-triangle.json) |
 | Bounce Back | 296036 | [296036-bounce-back.json](./296036-bounce-back.json) |
+| Bounce Ball | 337045 | [337045-bounce-ball.json](./337045-bounce-ball.json) |
 | Bounce Ball | 68653 | [68653-bounce-ball.json](./68653-bounce-ball.json) |
 | Bounce Ball Blitz | 272382 | [272382-bounce-ball-blitz.json](./272382-bounce-ball-blitz.json) |
 | Bounce Boing Voyage | 245006 | [245006-bounce-boing-voyage.json](./245006-bounce-boing-voyage.json) |
