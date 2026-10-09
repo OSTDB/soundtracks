@@ -559,6 +559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echoland | 415209 | [415209-echoland.json](./415209-echoland.json) |
 | Echolight | 287712 | [287712-echolight.json](./287712-echolight.json) |
 | Echolink: Recursion | 406946 | [406946-echolink-recursion.json](./406946-echolink-recursion.json) |
+| Echomnesia | 346537 | [346537-echomnesia.json](./346537-echomnesia.json) |
 | Echoplex | 25237 | [25237-echoplex.json](./25237-echoplex.json) |
 | EchoShell | 382434 | [382434-echoshell.json](./382434-echoshell.json) |
 | Echoshift | 251227 | [251227-echoshift.json](./251227-echoshift.json) |
@@ -1315,6 +1316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elemental Gimmick Gear | 45862 | [45862-elemental-gimmick-gear.json](./45862-elemental-gimmick-gear.json) |
 | Elemental Heroes: Blue Fighter 20th Level Set | 170439 | [170439-elemental-heroes-blue-fighter-20th-level-set.json](./170439-elemental-heroes-blue-fighter-20th-level-set.json) |
 | Elemental Knights R: Dark Arthur Premium Pack | 402925 | [402925-elemental-knights-r-dark-arthur-premium-pack.json](./402925-elemental-knights-r-dark-arthur-premium-pack.json) |
+| Elemental Labyrinth | 346622 | [346622-elemental-labyrinth.json](./346622-elemental-labyrinth.json) |
 | Elemental Mage Defense | 269269 | [269269-elemental-mage-defense.json](./269269-elemental-mage-defense.json) |
 | Elemental Magic Wars | 406228 | [406228-elemental-magic-wars.json](./406228-elemental-magic-wars.json) |
 | Elemental Master | 46218 | [46218-elemental-master.json](./46218-elemental-master.json) |
@@ -4665,6 +4667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extermination | 130828 | [130828-extermination.json](./130828-extermination.json) |
 | Extermination | 271997 | [271997-extermination.json](./271997-extermination.json) |
 | Extermination 1 | 304705 | [304705-extermination-1.json](./304705-extermination-1.json) |
+| Extermination Ship | 346546 | [346546-extermination-ship.json](./346546-extermination-ship.json) |
 | Exterminator | 238557 | [238557-exterminator.json](./238557-exterminator.json) |
 | Exterminator | 290522 | [290522-exterminator.json](./290522-exterminator.json) |
 | Exterminators of Saturn | 253580 | [253580-exterminators-of-saturn.json](./253580-exterminators-of-saturn.json) |
