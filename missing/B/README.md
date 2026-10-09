@@ -259,6 +259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Back to the Future: The Game - Episode 2: Get Tannen! | 78253 | [78253-back-to-the-future-the-game-episode-2-get-tannen.json](./78253-back-to-the-future-the-game-episode-2-get-tannen.json) |
 | Back to the Future: The Game - Episode 3: Citizen Brown | 78250 | [78250-back-to-the-future-the-game-episode-3-citizen-brown.json](./78250-back-to-the-future-the-game-episode-3-citizen-brown.json) |
 | Back to the Future: The Game - Episode 4: Double Visions | 78252 | [78252-back-to-the-future-the-game-episode-4-double-visions.json](./78252-back-to-the-future-the-game-episode-4-double-visions.json) |
+| Back to the Heaven | 349257 | [349257-back-to-the-heaven.json](./349257-back-to-the-heaven.json) |
 | Back to the Joseon | 214565 | [214565-back-to-the-joseon.json](./214565-back-to-the-joseon.json) |
 | Back to the Rooms | 320563 | [320563-back-to-the-rooms.json](./320563-back-to-the-rooms.json) |
 | Back to the War | 355225 | [355225-back-to-the-war.json](./355225-back-to-the-war.json) |
@@ -3875,6 +3876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Berenice: Videogame | 344346 | [344346-berenice-videogame.json](./344346-berenice-videogame.json) |
 | Berenstain Bears in Big Paw's Cave | 273082 | [273082-berenstain-bears-in-big-paws-cave.json](./273082-berenstain-bears-in-big-paws-cave.json) |
 | Berenstein Bears: On Their Own, and You on Your Own | 46563 | [46563-berenstein-bears-on-their-own-and-you-on-your-own.json](./46563-berenstein-bears-on-their-own-and-you-on-your-own.json) |
+| Bereshipsis | 349262 | [349262-bereshipsis.json](./349262-bereshipsis.json) |
 | Bergabash | 383607 | [383607-bergabash.json](./383607-bergabash.json) |
 | Bergen Bridge Advanced Play | 101506 | [101506-bergen-bridge-advanced-play.json](./101506-bergen-bridge-advanced-play.json) |
 | Bergen Bridge Beginner 1 | 86721 | [86721-bergen-bridge-beginner-1.json](./86721-bergen-bridge-beginner-1.json) |
@@ -7034,6 +7036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blyx | 272859 | [272859-blyx.json](./272859-blyx.json) |
 | BMP Puzzle | 217997 | [217997-bmp-puzzle.json](./217997-bmp-puzzle.json) |
 | BMX Backflip King | 255173 | [255173-bmx-backflip-king.json](./255173-bmx-backflip-king.json) |
+| BMX Burner | 349261 | [349261-bmx-burner.json](./349261-bmx-burner.json) |
 | BMX Challenge | 220189 | [220189-bmx-challenge.json](./220189-bmx-challenge.json) |
 | BMX Freestyle | 323850 | [323850-bmx-freestyle.json](./323850-bmx-freestyle.json) |
 | BMX on the Moon | 15680 | [15680-bmx-on-the-moon.json](./15680-bmx-on-the-moon.json) |
