@@ -8606,6 +8606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brainrot Battle | 363564 | [363564-brainrot-battle.json](./363564-brainrot-battle.json) |
 | Brainrot Battle Royale | 366730 | [366730-brainrot-battle-royale.json](./366730-brainrot-battle-royale.json) |
 | Brainrot Dash | 338791 | [338791-brainrot-dash.json](./338791-brainrot-dash.json) |
+| Brainrot Kart | 349904 | [349904-brainrot-kart.json](./349904-brainrot-kart.json) |
 | Brainrot Showdown | 408239 | [408239-brainrot-showdown.json](./408239-brainrot-showdown.json) |
 | Brainrot Survivors | 391041 | [391041-brainrot-survivors.json](./391041-brainrot-survivors.json) |
 | Brainrot Wars | 344965 | [344965-brainrot-wars.json](./344965-brainrot-wars.json) |
@@ -9839,6 +9840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bud Tucker in Double Trouble | 19240 | [19240-bud-tucker-in-double-trouble.json](./19240-bud-tucker-in-double-trouble.json) |
 | Buddha Finger | 22188 | [22188-buddha-finger.json](./22188-buddha-finger.json) |
 | Buddi Bot: Your Machine Learning AI Helper With Advanced Neural Networking! | 166720 | [166720-buddi-bot-your-machine-learning-ai-helper-with-advanced-neural-networking.json](./166720-buddi-bot-your-machine-learning-ai-helper-with-advanced-neural-networking.json) |
+| Buddies in a Ball | 349905 | [349905-buddies-in-a-ball.json](./349905-buddies-in-a-ball.json) |
 | Budding Destiny | 316649 | [316649-budding-destiny.json](./316649-budding-destiny.json) |
 | Buddy & Friends: Santa's Workshop Animal Party | 283299 | [283299-buddy-and-friends-santas-workshop-animal-party.json](./283299-buddy-and-friends-santas-workshop-animal-party.json) |
 | Buddy & Me | 61874 | [61874-buddy-and-me.json](./61874-buddy-and-me.json) |
@@ -10579,6 +10581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bus Escape: Traffic Jam | 357384 | [357384-bus-escape-traffic-jam.json](./357384-bus-escape-traffic-jam.json) |
 | Bus Fix 2019 | 120179 | [120179-bus-fix-2019.json](./120179-bus-fix-2019.json) |
 | Bus Racing: Offroad 2018 | 106516 | [106516-bus-racing-offroad-2018.json](./106516-bus-racing-offroad-2018.json) |
+| Bus Sim 25: City Simulator | 349811 | [349811-bus-sim-25-city-simulator.json](./349811-bus-sim-25-city-simulator.json) |
 | Bus Simulator | 130938 | [130938-bus-simulator.json](./130938-bus-simulator.json) |
 | Bus Simulator 16: Man Lion's City CNG Pack | 163355 | [163355-bus-simulator-16-man-lions-city-cng-pack.json](./163355-bus-simulator-16-man-lions-city-cng-pack.json) |
 | Bus Simulator 18: Man Bus Pack 1 | 225061 | [225061-bus-simulator-18-man-bus-pack-1.json](./225061-bus-simulator-18-man-bus-pack-1.json) |
