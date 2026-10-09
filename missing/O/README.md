@@ -476,6 +476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Of Ships & Scoundrels | 110279 | [110279-of-ships-and-scoundrels.json](./110279-of-ships-and-scoundrels.json) |
 | Of the Devil: Episode 0 | 383570 | [383570-of-the-devil-episode-0.json](./383570-of-the-devil-episode-0.json) |
 | Of the Devil: Episode 1 | 330913 | [330913-of-the-devil-episode-1.json](./330913-of-the-devil-episode-1.json) |
+| Of the Devil: Episode 2 | 379672 | [379672-of-the-devil-episode-2.json](./379672-of-the-devil-episode-2.json) |
 | Of the Devil: Episode 3 | 383566 | [383566-of-the-devil-episode-3.json](./383566-of-the-devil-episode-3.json) |
 | Of The Lilies | 341078 | [341078-of-the-lilies.json](./341078-of-the-lilies.json) |
 | Of the Red, the Light, and the Ayakashi Tsuzuri | 62190 | [62190-of-the-red-the-light-and-the-ayakashi-tsuzuri.json](./62190-of-the-red-the-light-and-the-ayakashi-tsuzuri.json) |
@@ -1036,6 +1037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OMG: One More Goal - Basic Campaigns Pack | 226124 | [226124-omg-one-more-goal-basic-campaigns-pack.json](./226124-omg-one-more-goal-basic-campaigns-pack.json) |
 | OMG: One More Goal! | 157072 | [157072-omg-one-more-goal.json](./157072-omg-one-more-goal.json) |
 | OMG: Our Manic Game | 66420 | [66420-omg-our-manic-game.json](./66420-omg-our-manic-game.json) |
+| OMG!: Overhead Micro Game | 379711 | [379711-omg-overhead-micro-game.json](./379711-omg-overhead-micro-game.json) |
 | Omi Oh My AI | 215393 | [215393-omi-oh-my-ai.json](./215393-omi-oh-my-ai.json) |
 | Omicroid | 107675 | [107675-omicroid.json](./107675-omicroid.json) |
 | Omicron: Coronavirus Battlegrounds | 393453 | [393453-omicron-coronavirus-battlegrounds.json](./393453-omicron-coronavirus-battlegrounds.json) |
@@ -2272,6 +2274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orbital Checkpoint | 413803 | [413803-orbital-checkpoint.json](./413803-orbital-checkpoint.json) |
 | Orbital Clash | 226165 | [226165-orbital-clash.json](./226165-orbital-clash.json) |
 | Orbital Crash | 392462 | [392462-orbital-crash.json](./392462-orbital-crash.json) |
+| Orbital Crew | 379696 | [379696-orbital-crew.json](./379696-orbital-crew.json) |
 | Orbital Dance | 319961 | [319961-orbital-dance.json](./319961-orbital-dance.json) |
 | Orbital Decay | 60774 | [60774-orbital-decay.json](./60774-orbital-decay.json) |
 | Orbital Defence Command | 163188 | [163188-orbital-defence-command.json](./163188-orbital-defence-command.json) |
