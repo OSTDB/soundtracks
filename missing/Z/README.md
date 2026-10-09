@@ -947,6 +947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Hobby VR | 41950 | [41950-zombie-hobby-vr.json](./41950-zombie-hobby-vr.json) |
 | Zombie Horde | 167196 | [167196-zombie-horde.json](./167196-zombie-horde.json) |
 | Zombie Horde Dominator | 263144 | [263144-zombie-horde-dominator.json](./263144-zombie-horde-dominator.json) |
+| Zombie HQ | 343749 | [343749-zombie-hq.json](./343749-zombie-hq.json) |
 | Zombie Hunter | 171354 | [171354-zombie-hunter.json](./171354-zombie-hunter.json) |
 | Zombie Hunter | 220741 | [220741-zombie-hunter.json](./220741-zombie-hunter.json) |
 | Zombie Hunter | 377130 | [377130-zombie-hunter.json](./377130-zombie-hunter.json) |
