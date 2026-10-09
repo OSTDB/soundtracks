@@ -116,6 +116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | #womenUp, Super Puzzles Dream | 147437 | [147437-womenup-super-puzzles-dream.json](./147437-womenup-super-puzzles-dream.json) |
 | %100 | 83221 | [83221-100.json](./83221-100.json) |
 | ^_^ | 165499 | [165499-.json](./165499-.json) |
+| + Fence | 347176 | [347176-fence.json](./347176-fence.json) |
 | +1 | 308928 | [308928-1.json](./308928-1.json) |
 | +1% | 320805 | [320805-1.json](./320805-1.json) |
 | +1S | 93755 | [93755-1s.json](./93755-1s.json) |
