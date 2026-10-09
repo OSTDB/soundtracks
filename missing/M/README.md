@@ -642,6 +642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic City Detective: The Carnival Begins - Collector's Edition | 304859 | [304859-magic-city-detective-the-carnival-begins-collectors-edition.json](./304859-magic-city-detective-the-carnival-begins-collectors-edition.json) |
 | Magic City Detective: The Carnival Begins DLC | 361772 | [361772-magic-city-detective-the-carnival-begins-dlc.json](./361772-magic-city-detective-the-carnival-begins-dlc.json) |
 | Magic City Detective: Wings of Revenge - Collector's Edition | 188023 | [188023-magic-city-detective-wings-of-revenge-collectors-edition.json](./188023-magic-city-detective-wings-of-revenge-collectors-edition.json) |
+| Magic Click | 371611 | [371611-magic-click.json](./371611-magic-click.json) |
 | Magic Cliff Escape | 315554 | [315554-magic-cliff-escape.json](./315554-magic-cliff-escape.json) |
 | Magic Clouds | 117057 | [117057-magic-clouds.json](./117057-magic-clouds.json) |
 | Magic Code | 187863 | [187863-magic-code.json](./187863-magic-code.json) |
@@ -1983,6 +1984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marauder | 18488 | [18488-marauder.json](./18488-marauder.json) |
 | Marauder | 55054 | [55054-marauder.json](./55054-marauder.json) |
 | Marauders | 132995 | [132995-marauders.json](./132995-marauders.json) |
+| Marbella Vice | 371620 | [371620-marbella-vice.json](./371620-marbella-vice.json) |
 | Marbellous | 311465 | [311465-marbellous.json](./311465-marbellous.json) |
 | Marbies Party | 344934 | [344934-marbies-party.json](./344934-marbies-party.json) |
 | Marble Abduction! Patti Hattu | 299945 | [299945-marble-abduction-patti-hattu.json](./299945-marble-abduction-patti-hattu.json) |
@@ -8721,6 +8723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MoghVR | 160136 | [160136-moghvr.json](./160136-moghvr.json) |
 | Mogo Invasion | 48004 | [48004-mogo-invasion.json](./48004-mogo-invasion.json) |
 | Mogrimera: Disciple of Order | 249907 | [249907-mogrimera-disciple-of-order.json](./249907-mogrimera-disciple-of-order.json) |
+| Mogu Valley | 371607 | [371607-mogu-valley.json](./371607-mogu-valley.json) |
 | Moguchan | 38584 | [38584-moguchan.json](./38584-moguchan.json) |
 | Mogul Maniac | 40788 | [40788-mogul-maniac.json](./40788-mogul-maniac.json) |
 | Mogura de Pon! | 342739 | [342739-mogura-de-pon.json](./342739-mogura-de-pon.json) |
