@@ -382,6 +382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Made For | 343241 | [343241-made-for.json](./343241-made-for.json) |
 | Made in Abyss: Binary Star Falling into Darkness | 146711 | [146711-made-in-abyss-binary-star-falling-into-darkness.json](./146711-made-in-abyss-binary-star-falling-into-darkness.json) |
 | Made in Abyss: Binary Star Falling into Darkness - Collector's Edition | 150144 | [150144-made-in-abyss-binary-star-falling-into-darkness-collectors-edition.json](./150144-made-in-abyss-binary-star-falling-into-darkness-collectors-edition.json) |
+| Made in Lucifer City | 370012 | [370012-made-in-lucifer-city.json](./370012-made-in-lucifer-city.json) |
 | Made in Melostead | 270092 | [270092-made-in-melostead.json](./270092-made-in-melostead.json) |
 | Made in Ohio | 236880 | [236880-made-in-ohio.json](./236880-made-in-ohio.json) |
 | Made in Physics | 184487 | [184487-made-in-physics.json](./184487-made-in-physics.json) |
@@ -1615,6 +1616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Malon & The Legend of Zelda: Master of Time | 400991 | [400991-malon-and-the-legend-of-zelda-master-of-time.json](./400991-malon-and-the-legend-of-zelda-master-of-time.json) |
 | Malone In Nightmares | 159737 | [159737-malone-in-nightmares.json](./159737-malone-in-nightmares.json) |
 | Maloomify the Ocean | 401770 | [401770-maloomify-the-ocean.json](./401770-maloomify-the-ocean.json) |
+| Malpiot Horror | 369927 | [369927-malpiot-horror.json](./369927-malpiot-horror.json) |
 | Malpraxis | 389124 | [389124-malpraxis.json](./389124-malpraxis.json) |
 | Malstrum's Mansion | 254509 | [254509-malstrums-mansion.json](./254509-malstrums-mansion.json) |
 | Malta Storm | 72083 | [72083-malta-storm.json](./72083-malta-storm.json) |
@@ -3947,6 +3949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meaningless Tragedy | 397046 | [397046-meaningless-tragedy.json](./397046-meaningless-tragedy.json) |
 | Meanings: Hidden in Plain Sight | 317346 | [317346-meanings-hidden-in-plain-sight.json](./317346-meanings-hidden-in-plain-sight.json) |
 | Meanwhile | 22329 | [22329-meanwhile.json](./22329-meanwhile.json) |
+| Meanwhile in Russia | 369919 | [369919-meanwhile-in-russia.json](./369919-meanwhile-in-russia.json) |
 | Mearcair/System Pulse | 252908 | [252908-mearcair-system-pulse.json](./252908-mearcair-system-pulse.json) |
 | Mearth | 197875 | [197875-mearth.json](./197875-mearth.json) |
 | Mearth II | 226722 | [226722-mearth-ii.json](./226722-mearth-ii.json) |
@@ -4181,6 +4184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medal of Honor: Tier 1 Edition | 47463 | [47463-medal-of-honor-tier-1-edition.json](./47463-medal-of-honor-tier-1-edition.json) |
 | Medal of Honor: Underground | 1308 | [1308-medal-of-honor-underground.json](./1308-medal-of-honor-underground.json) |
 | Medal of Honor: Warfighter | 1306 | [1306-medal-of-honor-warfighter.json](./1306-medal-of-honor-warfighter.json) |
+| Medal Tree | 370014 | [370014-medal-tree.json](./370014-medal-tree.json) |
 | Medals of War | 71024 | [71024-medals-of-war.json](./71024-medals-of-war.json) |
 | MedArc | 70391 | [70391-medarc.json](./70391-medarc.json) |
 | Medarot 2 Kabuto/Kuwagata | 91530 | [91530-medarot-2-kabuto-kuwagata.json](./91530-medarot-2-kabuto-kuwagata.json) |
@@ -9360,6 +9364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Hunter Wilds: Erik Outfit - Autumn Therian | 412291 | [412291-monster-hunter-wilds-erik-outfit-autumn-therian.json](./412291-monster-hunter-wilds-erik-outfit-autumn-therian.json) |
 | Monster Hunter Wilds: Erik Outfit - Crestcollar Seikret Suit | 412289 | [412289-monster-hunter-wilds-erik-outfit-crestcollar-seikret-suit.json](./412289-monster-hunter-wilds-erik-outfit-crestcollar-seikret-suit.json) |
 | Monster Hunter Wilds: Premium Deluxe Edition | 334113 | [334113-monster-hunter-wilds-premium-deluxe-edition.json](./334113-monster-hunter-wilds-premium-deluxe-edition.json) |
+| Monster Hunter Wilds: Title Update 4 | 369922 | [369922-monster-hunter-wilds-title-update-4.json](./369922-monster-hunter-wilds-title-update-4.json) |
 | Monster Hunter Wilds: Title Update 5 | 381129 | [381129-monster-hunter-wilds-title-update-5.json](./381129-monster-hunter-wilds-title-update-5.json) |
 | Monster Hunter World: Iceborne - Digital Deluxe Edition | 118278 | [118278-monster-hunter-world-iceborne-digital-deluxe-edition.json](./118278-monster-hunter-world-iceborne-digital-deluxe-edition.json) |
 | Monster Hunter World: Iceborne Master Edition | 118273 | [118273-monster-hunter-world-iceborne-master-edition.json](./118273-monster-hunter-world-iceborne-master-edition.json) |
