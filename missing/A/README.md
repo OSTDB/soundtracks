@@ -2256,6 +2256,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | After a While | 298816 | [298816-after-a-while.json](./298816-after-a-while.json) |
 | After All Enema Masochist Daughter Miki | 82932 | [82932-after-all-enema-masochist-daughter-miki.json](./82932-after-all-enema-masochist-daughter-miki.json) |
 | After Burner | 113199 | [113199-after-burner.json](./113199-after-burner.json) |
+| After Burner | 365007 | [365007-after-burner.json](./365007-after-burner.json) |
+| After Burner | 365008 | [365008-after-burner.json](./365008-after-burner.json) |
 | After Burner | 365088 | [365088-after-burner.json](./365088-after-burner.json) |
 | After Burner | 365100 | [365100-after-burner.json](./365100-after-burner.json) |
 | After Burner | 45347 | [45347-after-burner.json](./45347-after-burner.json) |
@@ -2864,6 +2866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Conflicts: Vietnam Ultimate Edition | 44546 | [44546-air-conflicts-vietnam-ultimate-edition.json](./44546-air-conflicts-vietnam-ultimate-edition.json) |
 | Air Control | 13160 | [13160-air-control.json](./13160-air-control.json) |
 | Air Dash | 76691 | [76691-air-dash.json](./76691-air-dash.json) |
+| Air Dash: Sky Racing Simulator | 365004 | [365004-air-dash-sky-racing-simulator.json](./365004-air-dash-sky-racing-simulator.json) |
 | Air Dasher | 198318 | [198318-air-dasher.json](./198318-air-dasher.json) |
 | Air Defence | 250902 | [250902-air-defence.json](./250902-air-defence.json) |
 | Air Defender | 379164 | [379164-air-defender.json](./379164-air-defender.json) |
@@ -6375,6 +6378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Antistar: Rising | 315680 | [315680-antistar-rising.json](./315680-antistar-rising.json) |
 | Antithesis | 164885 | [164885-antithesis.json](./164885-antithesis.json) |
 | Antivine | 250998 | [250998-antivine.json](./250998-antivine.json) |
+| Antivirus | 365003 | [365003-antivirus.json](./365003-antivirus.json) |
 | Antix | 15597 | [15597-antix.json](./15597-antix.json) |
 | Antixonix | 140493 | [140493-antixonix.json](./140493-antixonix.json) |
 | Antiyoy | 25554 | [25554-antiyoy.json](./25554-antiyoy.json) |
@@ -8510,6 +8514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ascent of the Last Colossus | 393010 | [393010-ascent-of-the-last-colossus.json](./393010-ascent-of-the-last-colossus.json) |
 | Ascent Quest | 264138 | [264138-ascent-quest.json](./264138-ascent-quest.json) |
 | Ascent: Rivals | 288339 | [288339-ascent-rivals.json](./288339-ascent-rivals.json) |
+| Ascention Suvivor | 364960 | [364960-ascention-suvivor.json](./364960-ascention-suvivor.json) |
 | ASCII Game Series: Beginning | 334774 | [334774-ascii-game-series-beginning.json](./334774-ascii-game-series-beginning.json) |
 | ASCII Game Series: Blocks | 334775 | [334775-ascii-game-series-blocks.json](./334775-ascii-game-series-blocks.json) |
 | ASCII Game Series: Pinball | 379539 | [379539-ascii-game-series-pinball.json](./379539-ascii-game-series-pinball.json) |
@@ -8568,6 +8573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ashen | 6259 | [6259-ashen.json](./6259-ashen.json) |
 | Ashen Arrows | 211413 | [211413-ashen-arrows.json](./211413-ashen-arrows.json) |
 | Ashen Daughter | 349929 | [349929-ashen-daughter.json](./349929-ashen-daughter.json) |
+| Ashen Destiny | 364992 | [364992-ashen-destiny.json](./364992-ashen-destiny.json) |
 | Ashen Knights: Foreshadow | 211412 | [211412-ashen-knights-foreshadow.json](./211412-ashen-knights-foreshadow.json) |
 | Ashen Knights: One Passage | 211181 | [211181-ashen-knights-one-passage.json](./211181-ashen-knights-one-passage.json) |
 | Ashen of Thrones | 413886 | [413886-ashen-of-thrones.json](./413886-ashen-of-thrones.json) |
