@@ -1359,6 +1359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gauntlet: The Deeper Dungeons | 37164 | [37164-gauntlet-the-deeper-dungeons.json](./37164-gauntlet-the-deeper-dungeons.json) |
 | Gauntlet: The Third Encounter | 7295 | [7295-gauntlet-the-third-encounter.json](./7295-gauntlet-the-third-encounter.json) |
 | Gauntletak | 372782 | [372782-gauntletak.json](./372782-gauntletak.json) |
+| Gavin Tyler's Game Collection | 337662 | [337662-gavin-tylers-game-collection.json](./337662-gavin-tylers-game-collection.json) |
 | Gavin's Quest | 53085 | [53085-gavins-quest.json](./53085-gavins-quest.json) |
 | Gawr Gura: Quest for Bread | 217217 | [217217-gawr-gura-quest-for-bread.json](./217217-gawr-gura-quest-for-bread.json) |
 | Gay Battlegrounds | 105354 | [105354-gay-battlegrounds.json](./105354-gay-battlegrounds.json) |
@@ -5102,6 +5103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GravityTunnelVR | 52773 | [52773-gravitytunnelvr.json](./52773-gravitytunnelvr.json) |
 | GravPool | 32180 | [32180-gravpool.json](./32180-gravpool.json) |
 | GravSheep | 90904 | [90904-gravsheep.json](./90904-gravsheep.json) |
+| GravShift | 337575 | [337575-gravshift.json](./337575-gravshift.json) |
 | Gravulse | 141882 | [141882-gravulse.json](./141882-gravulse.json) |
 | Gravv: Between Two Worlds | 195725 | [195725-gravv-between-two-worlds.json](./195725-gravv-between-two-worlds.json) |
 | GravytX The Gravytoid | 265734 | [265734-gravytx-the-gravytoid.json](./265734-gravytx-the-gravytoid.json) |
