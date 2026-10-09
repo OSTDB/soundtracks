@@ -8877,6 +8877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breach of Contract Reloaded | 89947 | [89947-breach-of-contract-reloaded.json](./89947-breach-of-contract-reloaded.json) |
 | Breach Point | 118823 | [118823-breach-point.json](./118823-breach-point.json) |
 | Breach Signal | 341065 | [341065-breach-signal.json](./341065-breach-signal.json) |
+| Breach: 83 | 350968 | [350968-breach-83.json](./350968-breach-83.json) |
 | Breach: Veil Demon DLC | 170327 | [170327-breach-veil-demon-dlc.json](./170327-breach-veil-demon-dlc.json) |
 | Breaching Harkon | 382555 | [382555-breaching-harkon.json](./382555-breaching-harkon.json) |
 | Bread | 178027 | [178027-bread.json](./178027-bread.json) |
