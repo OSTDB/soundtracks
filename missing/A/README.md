@@ -2917,6 +2917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Power: Battle in the Skies | 22622 | [22622-air-power-battle-in-the-skies.json](./22622-air-power-battle-in-the-skies.json) |
 | Air Pressure | 65776 | [65776-air-pressure.json](./65776-air-pressure.json) |
 | Air Race | 249506 | [249506-air-race.json](./249506-air-race.json) |
+| Air Race | 359385 | [359385-air-race.json](./359385-air-race.json) |
 | Air Race Championship | 143645 | [143645-air-race-championship.json](./143645-air-race-championship.json) |
 | Air Race Speed | 26663 | [26663-air-race-speed.json](./26663-air-race-speed.json) |
 | Air Racer | 382187 | [382187-air-racer.json](./382187-air-racer.json) |
@@ -5761,6 +5762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Survival | 378364 | [378364-animal-survival.json](./378364-animal-survival.json) |
 | Animal Survival | 379369 | [379369-animal-survival.json](./379369-animal-survival.json) |
 | Animal Tilt-A-Show | 376557 | [376557-animal-tilt-a-show.json](./376557-animal-tilt-a-show.json) |
+| Animal Times | 359341 | [359341-animal-times.json](./359341-animal-times.json) |
 | Animal Tower Battle | 314952 | [314952-animal-tower-battle.json](./314952-animal-tower-battle.json) |
 | Animal Town | 299404 | [299404-animal-town.json](./299404-animal-town.json) |
 | Animal Trail Girlish Square | 212799 | [212799-animal-trail-girlish-square.json](./212799-animal-trail-girlish-square.json) |
@@ -6301,6 +6303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Antegods | 34252 | [34252-antegods.json](./34252-antegods.json) |
 | Antenna | 28342 | [28342-antenna.json](./28342-antenna.json) |
 | Antepenult | 356851 | [356851-antepenult.json](./356851-antepenult.json) |
+| Antero Sudoku | 359363 | [359363-antero-sudoku.json](./359363-antero-sudoku.json) |
 | Antharion | 64446 | [64446-antharion.json](./64446-antharion.json) |
 | AntharioN | 17227 | [17227-antharion.json](./17227-antharion.json) |
 | Anthem of Roses | 55067 | [55067-anthem-of-roses.json](./55067-anthem-of-roses.json) |
