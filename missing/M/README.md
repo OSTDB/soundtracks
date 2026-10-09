@@ -1986,6 +1986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maratón | 268120 | [268120-maraton.json](./268120-maraton.json) |
 | Marauder | 18488 | [18488-marauder.json](./18488-marauder.json) |
 | Marauder | 55054 | [55054-marauder.json](./55054-marauder.json) |
+| Marauder Knight | 367296 | [367296-marauder-knight.json](./367296-marauder-knight.json) |
 | Marauders | 132995 | [132995-marauders.json](./132995-marauders.json) |
 | Marbella Vice | 371620 | [371620-marbella-vice.json](./371620-marbella-vice.json) |
 | Marbellous | 311465 | [311465-marbellous.json](./311465-marbellous.json) |
@@ -3800,6 +3801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze of Doors | 414417 | [414417-maze-of-doors.json](./414417-maze-of-doors.json) |
 | Maze of Infection | 93719 | [93719-maze-of-infection.json](./93719-maze-of-infection.json) |
 | Maze of Mayhem | 329726 | [329726-maze-of-mayhem.json](./329726-maze-of-mayhem.json) |
+| Maze of Memories | 367303 | [367303-maze-of-memories.json](./367303-maze-of-memories.json) |
 | Maze of Moros | 297510 | [297510-maze-of-moros.json](./297510-maze-of-moros.json) |
 | Maze of Pain | 83951 | [83951-maze-of-pain.json](./83951-maze-of-pain.json) |
 | Maze of Realities: Reflection of Light - Collector's Edition | 218702 | [218702-maze-of-realities-reflection-of-light-collectors-edition.json](./218702-maze-of-realities-reflection-of-light-collectors-edition.json) |
@@ -3867,6 +3869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maziacs | 93136 | [93136-maziacs.json](./93136-maziacs.json) |
 | Mazie | 296038 | [296038-mazie.json](./296038-mazie.json) |
 | Mazin Saga: Mutant Fighter | 36947 | [36947-mazin-saga-mutant-fighter.json](./36947-mazin-saga-mutant-fighter.json) |
+| Mazing Mad | 367278 | [367278-mazing-mad.json](./367278-mazing-mad.json) |
 | Mazinger Z | 153841 | [153841-mazinger-z.json](./153841-mazinger-z.json) |
 | MazM: Jekyll and Hyde | 105857 | [105857-mazm-jekyll-and-hyde.json](./105857-mazm-jekyll-and-hyde.json) |
 | MazM: The Phantom of the Opera | 125865 | [125865-mazm-the-phantom-of-the-opera.json](./125865-mazm-the-phantom-of-the-opera.json) |
@@ -5277,6 +5280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memory Wonderland: Bond | 259083 | [259083-memory-wonderland-bond.json](./259083-memory-wonderland-bond.json) |
 | Memory: Match & Catch! | 58485 | [58485-memory-match-and-catch.json](./58485-memory-match-and-catch.json) |
 | Memory: Unlocked | 264124 | [264124-memory-unlocked.json](./264124-memory-unlocked.json) |
+| Memory's Abyss: Chapter Zero | 367301 | [367301-memorys-abyss-chapter-zero.json](./367301-memorys-abyss-chapter-zero.json) |
 | MemoryBombs | 290490 | [290490-memorybombs.json](./290490-memorybombs.json) |
 | Memoryleak | 372601 | [372601-memoryleak.json](./372601-memoryleak.json) |
 | MemoryMaze | 319367 | [319367-memorymaze.json](./319367-memorymaze.json) |
@@ -9661,6 +9665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Montezuma's Revenge featuring Panama Joe | 12297 | [12297-montezumas-revenge-featuring-panama-joe.json](./12297-montezumas-revenge-featuring-panama-joe.json) |
 | Montezuma's Revenge Featuring Panama Joe | 46138 | [46138-montezumas-revenge-featuring-panama-joe.json](./46138-montezumas-revenge-featuring-panama-joe.json) |
 | Montezuma's Revenge: 8-Bit Edition | 234623 | [234623-montezumas-revenge-8-bit-edition.json](./234623-montezumas-revenge-8-bit-edition.json) |
+| Montezuma's Revenge: Director's Cut | 367306 | [367306-montezumas-revenge-directors-cut.json](./367306-montezumas-revenge-directors-cut.json) |
 | Montezuma's Revenge: The 40th Anniversary Edition | 330130 | [330130-montezumas-revenge-the-40th-anniversary-edition.json](./330130-montezumas-revenge-the-40th-anniversary-edition.json) |
 | Montgolfier Brothers' Test Flight | 413027 | [413027-montgolfier-brothers-test-flight.json](./413027-montgolfier-brothers-test-flight.json) |
 | Montgomery Fox and the Case of the Diamond Necklace | 226322 | [226322-montgomery-fox-and-the-case-of-the-diamond-necklace.json](./226322-montgomery-fox-and-the-case-of-the-diamond-necklace.json) |
@@ -12132,6 +12137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Horse Stories: Sunny Edition | 308807 | [308807-my-horse-stories-sunny-edition.json](./308807-my-horse-stories-sunny-edition.json) |
 | My Horse Stories: Winter | 300933 | [300933-my-horse-stories-winter.json](./300933-my-horse-stories-winter.json) |
 | My Hospital Town | 299209 | [299209-my-hospital-town.json](./299209-my-hospital-town.json) |
+| My Hot Beach Vacation | 367208 | [367208-my-hot-beach-vacation.json](./367208-my-hot-beach-vacation.json) |
 | My Hot Neighbor Kayla | 297152 | [297152-my-hot-neighbor-kayla.json](./297152-my-hot-neighbor-kayla.json) |
 | My Hotel | 199122 | [199122-my-hotel.json](./199122-my-hotel.json) |
 | My Hotel Romance | 298900 | [298900-my-hotel-romance.json](./298900-my-hotel-romance.json) |
