@@ -505,6 +505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Calling All Cars! | 20701 | [20701-calling-all-cars.json](./20701-calling-all-cars.json) |
 | Calling All Mixels | 61143 | [61143-calling-all-mixels.json](./61143-calling-all-mixels.json) |
 | Calling Card | 297564 | [297564-calling-card.json](./297564-calling-card.json) |
+| Calling Depths | 372788 | [372788-calling-depths.json](./372788-calling-depths.json) |
 | Calling Home | 245792 | [245792-calling-home.json](./245792-calling-home.json) |
 | Calling of my Nightingales | 229589 | [229589-calling-of-my-nightingales.json](./229589-calling-of-my-nightingales.json) |
 | Callisto | 116934 | [116934-callisto.json](./116934-callisto.json) |
@@ -1796,6 +1797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Casino Chaos | 25541 | [25541-casino-chaos.json](./25541-casino-chaos.json) |
 | Casino Clicker: Vegas Style | 373221 | [373221-casino-clicker-vegas-style.json](./373221-casino-clicker-vegas-style.json) |
 | Casino Conqueror | 273376 | [273376-casino-conqueror.json](./273376-casino-conqueror.json) |
+| Casino Crime | 372784 | [372784-casino-crime.json](./372784-casino-crime.json) |
 | Casino De Pink | 41372 | [41372-casino-de-pink.json](./41372-casino-de-pink.json) |
 | Casino FunPak | 117931 | [117931-casino-funpak.json](./117931-casino-funpak.json) |
 | Casino Heist: Aruba | 327449 | [327449-casino-heist-aruba.json](./327449-casino-heist-aruba.json) |
@@ -2757,6 +2759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cavern Crusader | 73303 | [73303-cavern-crusader.json](./73303-cavern-crusader.json) |
 | Cavern of Dreams | 219095 | [219095-cavern-of-dreams.json](./219095-cavern-of-dreams.json) |
 | Cavern of Mourning | 397254 | [397254-cavern-of-mourning.json](./397254-cavern-of-mourning.json) |
+| Caverna | 372829 | [372829-caverna.json](./372829-caverna.json) |
 | Cavernous Wastes | 55872 | [55872-cavernous-wastes.json](./55872-cavernous-wastes.json) |
 | Caverns | 235753 | [235753-caverns.json](./235753-caverns.json) |
 | Caverns of Callisto | 24990 | [24990-caverns-of-callisto.json](./24990-caverns-of-callisto.json) |
@@ -4657,6 +4660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Christmas Shooter | 213309 | [213309-christmas-shooter.json](./213309-christmas-shooter.json) |
 | Christmas Shopper Simulator | 137466 | [137466-christmas-shopper-simulator.json](./137466-christmas-shopper-simulator.json) |
 | Christmas Smash | 400469 | [400469-christmas-smash.json](./400469-christmas-smash.json) |
+| Christmas Soul | 372805 | [372805-christmas-soul.json](./372805-christmas-soul.json) |
 | Christmas Stories: A Christmas Carol | 139768 | [139768-christmas-stories-a-christmas-carol.json](./139768-christmas-stories-a-christmas-carol.json) |
 | Christmas Stories: A Little Prince | 187911 | [187911-christmas-stories-a-little-prince.json](./187911-christmas-stories-a-little-prince.json) |
 | Christmas Stories: A Little Prince - Collector's Edition | 417587 | [417587-christmas-stories-a-little-prince-collectors-edition.json](./417587-christmas-stories-a-little-prince-collectors-edition.json) |
@@ -6306,6 +6310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coastal World | 325038 | [325038-coastal-world.json](./325038-coastal-world.json) |
 | Coaster | 79883 | [79883-coaster.json](./79883-coaster.json) |
 | Coaster Park Tycoon | 60612 | [60612-coaster-park-tycoon.json](./60612-coaster-park-tycoon.json) |
+| Coasterama | 372830 | [372830-coasterama.json](./372830-coasterama.json) |
 | Coastiality | 96668 | [96668-coastiality.json](./96668-coastiality.json) |
 | Coastline | 209703 | [209703-coastline.json](./209703-coastline.json) |
 | Coastline Flight Simulator | 154006 | [154006-coastline-flight-simulator.json](./154006-coastline-flight-simulator.json) |
