@@ -8797,6 +8797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Other Side | 215087 | [215087-the-other-side.json](./215087-the-other-side.json) |
 | The Other Side | 286264 | [286264-the-other-side.json](./286264-the-other-side.json) |
 | The Other Side | 308545 | [308545-the-other-side.json](./308545-the-other-side.json) |
+| The Other Side | 357744 | [357744-the-other-side.json](./357744-the-other-side.json) |
 | The other side: My own horror | 161402 | [161402-the-other-side-my-own-horror.json](./161402-the-other-side-my-own-horror.json) |
 | The Other Side: Tower of Souls Remaster | 310066 | [310066-the-other-side-tower-of-souls-remaster.json](./310066-the-other-side-tower-of-souls-remaster.json) |
 | The Other: Airi's Adventure | 113614 | [113614-the-other-airis-adventure.json](./113614-the-other-airis-adventure.json) |
@@ -11265,6 +11266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Voices Games 2D Collection | 208590 | [208590-the-voices-games-2d-collection.json](./208590-the-voices-games-2d-collection.json) |
 | The Voices Games 3D Collection | 211776 | [211776-the-voices-games-3d-collection.json](./211776-the-voices-games-3d-collection.json) |
 | The Void | 3273 | [3273-the-void.json](./3273-the-void.json) |
+| The Void | 357725 | [357725-the-void.json](./357725-the-void.json) |
 | The Void Below | 333167 | [333167-the-void-below.json](./333167-the-void-below.json) |
 | The Void Between | 282022 | [282022-the-void-between.json](./282022-the-void-between.json) |
 | The Void Corridors | 337123 | [337123-the-void-corridors.json](./337123-the-void-corridors.json) |
@@ -11404,6 +11406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wavy Tube Man Chronicles | 316737 | [316737-the-wavy-tube-man-chronicles.json](./316737-the-wavy-tube-man-chronicles.json) |
 | The Wavy Tube Man Chronicles | 64172 | [64172-the-wavy-tube-man-chronicles.json](./64172-the-wavy-tube-man-chronicles.json) |
 | The Way | 251177 | [251177-the-way.json](./251177-the-way.json) |
+| The Way Down | 357734 | [357734-the-way-down.json](./357734-the-way-down.json) |
 | The Way Home | 166721 | [166721-the-way-home.json](./166721-the-way-home.json) |
 | The Way Home | 193961 | [193961-the-way-home.json](./193961-the-way-home.json) |
 | The Way Home | 248902 | [248902-the-way-home.json](./248902-the-way-home.json) |
