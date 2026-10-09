@@ -435,6 +435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echo Glass | 58215 | [58215-echo-glass.json](./58215-echo-glass.json) |
 | Echo Harvest | 415160 | [415160-echo-harvest.json](./415160-echo-harvest.json) |
 | Echo in Capistrano | 303510 | [303510-echo-in-capistrano.json](./303510-echo-in-capistrano.json) |
+| Echo Maze | 373356 | [373356-echo-maze.json](./373356-echo-maze.json) |
 | Echo Night | 9514 | [9514-echo-night.json](./9514-echo-night.json) |
 | Echo Night 2: Nemuri no Shihaisha | 43882 | [43882-echo-night-2-nemuri-no-shihaisha.json](./43882-echo-night-2-nemuri-no-shihaisha.json) |
 | Echo Night: Beyond | 9515 | [9515-echo-night-beyond.json](./9515-echo-night-beyond.json) |
@@ -3861,6 +3862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everest Search and Rescue | 149477 | [149477-everest-search-and-rescue.json](./149477-everest-search-and-rescue.json) |
 | Everest Truck Simulator | 367981 | [367981-everest-truck-simulator.json](./367981-everest-truck-simulator.json) |
 | Everest VR | 18971 | [18971-everest-vr.json](./18971-everest-vr.json) |
+| Everest: Real Climbing Simulator | 373352 | [373352-everest-real-climbing-simulator.json](./373352-everest-real-climbing-simulator.json) |
 | Everest: The Ultimate Strategy Game | 85763 | [85763-everest-the-ultimate-strategy-game.json](./85763-everest-the-ultimate-strategy-game.json) |
 | Everfall: Idle Dungeon RPG | 377083 | [377083-everfall-idle-dungeon-rpg.json](./377083-everfall-idle-dungeon-rpg.json) |
 | Everfront | 400550 | [400550-everfront.json](./400550-everfront.json) |
@@ -4308,6 +4310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Excycle | 266864 | [266864-excycle.json](./266864-excycle.json) |
 | EXD: Extra Dimensional | 380540 | [380540-exd-extra-dimensional.json](./380540-exd-extra-dimensional.json) |
 | EXE Clash | 265874 | [265874-exe-clash.json](./265874-exe-clash.json) |
+| Execute | 373337 | [373337-execute.json](./373337-execute.json) |
 | Execute Daddy: Papa ga Nandemo Shinu Game | 215889 | [215889-execute-daddy-papa-ga-nandemo-shinu-game.json](./215889-execute-daddy-papa-ga-nandemo-shinu-game.json) |
 | Execution | 13650 | [13650-execution.json](./13650-execution.json) |
 | Executioner | 88648 | [88648-executioner.json](./88648-executioner.json) |
