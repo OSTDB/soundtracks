@@ -2850,6 +2850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seductive Solitude | 225080 | [225080-seductive-solitude.json](./225080-seductive-solitude.json) |
 | Seductive Tombs: Beach Love | 163767 | [163767-seductive-tombs-beach-love.json](./163767-seductive-tombs-beach-love.json) |
 | See | 141815 | [141815-see.json](./141815-see.json) |
+| See How the Cat Jumps | 379668 | [379668-see-how-the-cat-jumps.json](./379668-see-how-the-cat-jumps.json) |
 | See Light | 29088 | [29088-see-light.json](./29088-see-light.json) |
 | See Me | 97903 | [97903-see-me.json](./97903-see-me.json) |
 | See Thru: Need a Friend? | 305333 | [305333-see-thru-need-a-friend.json](./305333-see-thru-need-a-friend.json) |
@@ -15342,6 +15343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steal the Meal: Unblock Puzzle | 261514 | [261514-steal-the-meal-unblock-puzzle.json](./261514-steal-the-meal-unblock-puzzle.json) |
 | Steal The Pig | 344448 | [344448-steal-the-pig.json](./344448-steal-the-pig.json) |
 | Steal the Spotlight | 185454 | [185454-steal-the-spotlight.json](./185454-steal-the-spotlight.json) |
+| Stealing Them Softly | 379695 | [379695-stealing-them-softly.json](./379695-stealing-them-softly.json) |
 | Stealth | 114888 | [114888-stealth.json](./114888-stealth.json) |
 | Stealth | 147969 | [147969-stealth.json](./147969-stealth.json) |
 | Stealth | 86207 | [86207-stealth.json](./86207-stealth.json) |
