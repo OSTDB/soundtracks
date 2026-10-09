@@ -5040,6 +5040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fly High Runners | 391575 | [391575-fly-high-runners.json](./391575-fly-high-runners.json) |
 | Fly Killer VR | 102222 | [102222-fly-killer-vr.json](./102222-fly-killer-vr.json) |
 | Fly Logic: Fly Fishing - The Green River | 209463 | [209463-fly-logic-fly-fishing-the-green-river.json](./209463-fly-logic-fly-fishing-the-green-river.json) |
+| Fly Me To The Moon | 369462 | [369462-fly-me-to-the-moon.json](./369462-fly-me-to-the-moon.json) |
 | Fly Me to the Stars | 241443 | [241443-fly-me-to-the-stars.json](./241443-fly-me-to-the-stars.json) |
 | Fly Or Die | 367058 | [367058-fly-or-die.json](./367058-fly-or-die.json) |
 | Fly Over! 100KM! Mountains! | 373677 | [373677-fly-over-100km-mountains.json](./373677-fly-over-100km-mountains.json) |
