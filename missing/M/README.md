@@ -7903,6 +7903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MiniWood VR | 118159 | [118159-miniwood-vr.json](./118159-miniwood-vr.json) |
 | MiniWorld | 184032 | [184032-miniworld.json](./184032-miniworld.json) |
 | Miniworld Royale | 208969 | [208969-miniworld-royale.json](./208969-miniworld-royale.json) |
+| Mink | 335980 | [335980-mink.json](./335980-mink.json) |
 | Minkle's Masks of Mayhem | 413142 | [413142-minkles-masks-of-mayhem.json](./413142-minkles-masks-of-mayhem.json) |
 | Minky | 246979 | [246979-minky.json](./246979-minky.json) |
 | Minky Momo no Panic Ball | 310519 | [310519-minky-momo-no-panic-ball.json](./310519-minky-momo-no-panic-ball.json) |
@@ -8216,6 +8217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Missile Command | 245436 | [245436-missile-command.json](./245436-missile-command.json) |
 | Missile Command | 280782 | [280782-missile-command.json](./280782-missile-command.json) |
 | Missile Command 3D | 40810 | [40810-missile-command-3d.json](./40810-missile-command-3d.json) |
+| Missile Command: Delta | 335829 | [335829-missile-command-delta.json](./335829-missile-command-delta.json) |
 | Missile Command: Evolved | 329635 | [329635-missile-command-evolved.json](./329635-missile-command-evolved.json) |
 | Missile Command: Recharged | 132154 | [132154-missile-command-recharged.json](./132154-missile-command-recharged.json) |
 | Missile Command: Sega Version | 398658 | [398658-missile-command-sega-version.json](./398658-missile-command-sega-version.json) |
@@ -12668,6 +12670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Talking Tom 2 | 180604 | [180604-my-talking-tom-2.json](./180604-my-talking-tom-2.json) |
 | My Tamagotchi Forever | 76234 | [76234-my-tamagotchi-forever.json](./76234-my-tamagotchi-forever.json) |
 | My Tasty Husband | 390235 | [390235-my-tasty-husband.json](./390235-my-tasty-husband.json) |
+| My Taxi Company | 335812 | [335812-my-taxi-company.json](./335812-my-taxi-company.json) |
 | My Teacher is an Alien | 148515 | [148515-my-teacher-is-an-alien.json](./148515-my-teacher-is-an-alien.json) |
 | My Thai Boyfriend | 291078 | [291078-my-thai-boyfriend.json](./291078-my-thai-boyfriend.json) |
 | My Therapy | 207540 | [207540-my-therapy.json](./207540-my-therapy.json) |
