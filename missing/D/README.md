@@ -2849,6 +2849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Debtor | 86756 | [86756-debtor.json](./86756-debtor.json) |
 | Debtor: Enhanced Edition | 234685 | [234685-debtor-enhanced-edition.json](./234685-debtor-enhanced-edition.json) |
 | Debug | 190097 | [190097-debug.json](./190097-debug.json) |
+| Debug Life | 339322 | [339322-debug-life.json](./339322-debug-life.json) |
 | Debug Nephemee | 397997 | [397997-debug-nephemee.json](./397997-debug-nephemee.json) |
 | Debugger 3.16: Recoded - Despair of the Developer Edition | 380127 | [380127-debugger-3-16-recoded-despair-of-the-developer-edition.json](./380127-debugger-3-16-recoded-despair-of-the-developer-edition.json) |
 | Debugger 4406 | 187218 | [187218-debugger-4406.json](./187218-debugger-4406.json) |
@@ -3560,6 +3561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delivery Up | 361168 | [361168-delivery-up.json](./361168-delivery-up.json) |
 | Delivoo Delivery Sim | 236330 | [236330-delivoo-delivery-sim.json](./236330-delivoo-delivery-sim.json) |
 | Delores: A Thimbleweed Park Mini-Adventure | 134408 | [134408-delores-a-thimbleweed-park-mini-adventure.json](./134408-delores-a-thimbleweed-park-mini-adventure.json) |
+| Delos: Space Traffic Control | 339299 | [339299-delos-space-traffic-control.json](./339299-delos-space-traffic-control.json) |
 | Delphine's Discovery | 177360 | [177360-delphines-discovery.json](./177360-delphines-discovery.json) |
 | Delta | 319816 | [319816-delta.json](./319816-delta.json) |
 | Delta 4: Terminal Protocol | 416726 | [416726-delta-4-terminal-protocol.json](./416726-delta-4-terminal-protocol.json) |
@@ -7893,6 +7895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doors | 168388 | [168388-doors.json](./168388-doors.json) |
 | Doors | 16987 | [16987-doors.json](./16987-doors.json) |
 | Doors | 223422 | [223422-doors.json](./223422-doors.json) |
+| Doors | 339295 | [339295-doors.json](./339295-doors.json) |
 | Doors & Rooms | 112745 | [112745-doors-and-rooms.json](./112745-doors-and-rooms.json) |
 | Doors and Doors | 244498 | [244498-doors-and-doors.json](./244498-doors-and-doors.json) |
 | Doors Closed | 415070 | [415070-doors-closed.json](./415070-doors-closed.json) |
@@ -10110,6 +10113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drug Lord 2 | 71473 | [71473-drug-lord-2.json](./71473-drug-lord-2.json) |
 | Drug Lords | 193228 | [193228-drug-lords.json](./193228-drug-lords.json) |
 | Drug Prince & Narcotic Girl for Nintendo Switch | 255630 | [255630-drug-prince-and-narcotic-girl-for-nintendo-switch.json](./255630-drug-prince-and-narcotic-girl-for-nintendo-switch.json) |
+| Drug Schedule | 339226 | [339226-drug-schedule.json](./339226-drug-schedule.json) |
 | Drug Trader Simulator | 327439 | [327439-drug-trader-simulator.json](./327439-drug-trader-simulator.json) |
 | Drug Wars | 14945 | [14945-drug-wars.json](./14945-drug-wars.json) |
 | Drug Wars: A Game Based on the New York Drug Market | 72172 | [72172-drug-wars-a-game-based-on-the-new-york-drug-market.json](./72172-drug-wars-a-game-based-on-the-new-york-drug-market.json) |
