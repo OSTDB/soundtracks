@@ -1297,6 +1297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gatekeeper Simulator: Inner Circle | 407484 | [407484-gatekeeper-simulator-inner-circle.json](./407484-gatekeeper-simulator-inner-circle.json) |
 | Gatekeeper: Eclipse | 226801 | [226801-gatekeeper-eclipse.json](./226801-gatekeeper-eclipse.json) |
 | Gatekeeper: Supporter Pack | 310401 | [310401-gatekeeper-supporter-pack.json](./310401-gatekeeper-supporter-pack.json) |
+| Gatekeeper's Week | 349827 | [349827-gatekeepers-week.json](./349827-gatekeepers-week.json) |
 | GatePass | 319987 | [319987-gatepass.json](./319987-gatepass.json) |
 | Gates and Violet | 413029 | [413029-gates-and-violet.json](./413029-gates-and-violet.json) |
 | Gates of a Ruined Empire | 112230 | [112230-gates-of-a-ruined-empire.json](./112230-gates-of-a-ruined-empire.json) |
@@ -2898,6 +2899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glitch Tower | 376453 | [376453-glitch-tower.json](./376453-glitch-tower.json) |
 | Glitch War | 138006 | [138006-glitch-war.json](./138006-glitch-war.json) |
 | Glitch World | 311251 | [311251-glitch-world.json](./311251-glitch-world.json) |
+| Glitch: Dead Loop Horror | 349809 | [349809-glitch-dead-loop-horror.json](./349809-glitch-dead-loop-horror.json) |
 | Glitchbuster | 44221 | [44221-glitchbuster.json](./44221-glitchbuster.json) |
 | Glitched | 57361 | [57361-glitched.json](./57361-glitched.json) |
 | Glitched Lightning | 267463 | [267463-glitched-lightning.json](./267463-glitched-lightning.json) |
