@@ -5710,6 +5710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WWF Superstars 2 | 49054 | [49054-wwf-superstars-2.json](./49054-wwf-superstars-2.json) |
 | WWF War Zone | 206032 | [206032-wwf-war-zone.json](./206032-wwf-war-zone.json) |
 | WWF War Zone | 3645 | [3645-wwf-war-zone.json](./3645-wwf-war-zone.json) |
+| WWF Wrestlemania | 366703 | [366703-wwf-wrestlemania.json](./366703-wwf-wrestlemania.json) |
 | WWF Wrestlemania | 72120 | [72120-wwf-wrestlemania.json](./72120-wwf-wrestlemania.json) |
 | WWF WrestleMania Challenge | 19513 | [19513-wwf-wrestlemania-challenge.json](./19513-wwf-wrestlemania-challenge.json) |
 | WWF WrestleMania: The Arcade Game | 4546 | [4546-wwf-wrestlemania-the-arcade-game.json](./4546-wwf-wrestlemania-the-arcade-game.json) |
