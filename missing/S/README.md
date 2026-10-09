@@ -6571,6 +6571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simple 500 Series Vol. 1: The Mahjong | 66093 | [66093-simple-500-series-vol-1-the-mahjong.json](./66093-simple-500-series-vol-1-the-mahjong.json) |
 | Simple 500 Series Vol. 2: The Misshitsu kara no Dasshutsu | 79351 | [79351-simple-500-series-vol-2-the-misshitsu-kara-no-dasshutsu.json](./79351-simple-500-series-vol-2-the-misshitsu-kara-no-dasshutsu.json) |
 | Simple 500 Series Vol. 3: The Misshitsu kara no Dasshutsu Tsukiyo no Mansion-hen | 65475 | [65475-simple-500-series-vol-3-the-misshitsu-kara-no-dasshutsu-tsukiyo-no-mansion-hen.json](./65475-simple-500-series-vol-3-the-misshitsu-kara-no-dasshutsu-tsukiyo-no-mansion-hen.json) |
+| Simple Arena Robots | 374959 | [374959-simple-arena-robots.json](./374959-simple-arena-robots.json) |
 | Simple Characters 2000 Series Vol. 03: Kamen Rider - The Bike Race | 43812 | [43812-simple-characters-2000-series-vol-03-kamen-rider-the-bike-race.json](./43812-simple-characters-2000-series-vol-03-kamen-rider-the-bike-race.json) |
 | Simple Characters 2000 Series Vol. 10: Sakigake! Otokojuku - The Dodge Ball | 64117 | [64117-simple-characters-2000-series-vol-10-sakigake-otokojuku-the-dodge-ball.json](./64117-simple-characters-2000-series-vol-10-sakigake-otokojuku-the-dodge-ball.json) |
 | Simple Characters 2000 Series Vol. 11: Detective Conan - The Board Game | 78706 | [78706-simple-characters-2000-series-vol-11-detective-conan-the-board-game.json](./78706-simple-characters-2000-series-vol-11-detective-conan-the-board-game.json) |
@@ -7134,6 +7135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skeljump | 257377 | [257377-skeljump.json](./257377-skeljump.json) |
 | Skellboy | 113101 | [113101-skellboy.json](./113101-skellboy.json) |
 | Skellboy Refractured | 140906 | [140906-skellboy-refractured.json](./140906-skellboy-refractured.json) |
+| Skellet | 374963 | [374963-skellet.json](./374963-skellet.json) |
 | Skelli Tower Defense | 101390 | [101390-skelli-tower-defense.json](./101390-skelli-tower-defense.json) |
 | Skellies Ain't Scary | 199390 | [199390-skellies-aint-scary.json](./199390-skellies-aint-scary.json) |
 | Skellington | 224758 | [224758-skellington.json](./224758-skellington.json) |
@@ -8196,6 +8198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slot Car HTR+ : 3D Simulation | 239896 | [239896-slot-car-htr-3d-simulation.json](./239896-slot-car-htr-3d-simulation.json) |
 | Slot Car Rivals | 230579 | [230579-slot-car-rivals.json](./230579-slot-car-rivals.json) |
 | Slot Gun | 311124 | [311124-slot-gun.json](./311124-slot-gun.json) |
+| Slot Heroes: Reels of Fate | 374951 | [374951-slot-heroes-reels-of-fate.json](./374951-slot-heroes-reels-of-fate.json) |
 | Slot Machine | 18421 | [18421-slot-machine.json](./18421-slot-machine.json) |
 | Slot Machine | 246380 | [246380-slot-machine.json](./246380-slot-machine.json) |
 | Slot Machine | 325548 | [325548-slot-machine.json](./325548-slot-machine.json) |
@@ -13101,6 +13104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpiritSphere DX | 78142 | [78142-spiritsphere-dx.json](./78142-spiritsphere-dx.json) |
 | Spiritstead | 366345 | [366345-spiritstead.json](./366345-spiritstead.json) |
 | SpiritSurge | 221639 | [221639-spiritsurge.json](./221639-spiritsurge.json) |
+| Spirittea 2.0 | 374985 | [374985-spirittea-2-0.json](./374985-spirittea-2-0.json) |
 | Spiritual Bond: Breaking the Curse, Intertwining Fates | 316635 | [316635-spiritual-bond-breaking-the-curse-intertwining-fates.json](./316635-spiritual-bond-breaking-the-curse-intertwining-fates.json) |
 | Spiritual Soul | 275632 | [275632-spiritual-soul.json](./275632-spiritual-soul.json) |
 | Spiritual Soul 2 | 275633 | [275633-spiritual-soul-2.json](./275633-spiritual-soul-2.json) |
@@ -13948,6 +13952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stack'em | 206976 | [206976-stackem.json](./206976-stackem.json) |
 | Stack'em HD | 355001 | [355001-stackem-hd.json](./355001-stackem-hd.json) |
 | Stackbound | 351255 | [351255-stackbound.json](./351255-stackbound.json) |
+| Stacked! | 374938 | [374938-stacked.json](./374938-stacked.json) |
 | Stackems | 112501 | [112501-stackems.json](./112501-stackems.json) |
 | Stacker | 75715 | [75715-stacker.json](./75715-stacker.json) |
 | Stackflow | 361687 | [361687-stackflow.json](./361687-stackflow.json) |
@@ -17538,6 +17543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sugar Daddy Crush: Hidden Hotel Love Story | 387674 | [387674-sugar-daddy-crush-hidden-hotel-love-story.json](./387674-sugar-daddy-crush-hidden-hotel-love-story.json) |
 | Sugar Drops | 61048 | [61048-sugar-drops.json](./61048-sugar-drops.json) |
 | Sugar Fever | 26629 | [26629-sugar-fever.json](./26629-sugar-fever.json) |
+| Sugar Ghouls | 374961 | [374961-sugar-ghouls.json](./374961-sugar-ghouls.json) |
 | Sugar High | 233226 | [233226-sugar-high.json](./233226-sugar-high.json) |
 | Sugar Jelly Crush | 199989 | [199989-sugar-jelly-crush.json](./199989-sugar-jelly-crush.json) |
 | Sugar Lies | 415258 | [415258-sugar-lies.json](./415258-sugar-lies.json) |
