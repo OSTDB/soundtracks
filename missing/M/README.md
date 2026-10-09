@@ -11825,6 +11825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Beastly Lovers | 82476 | [82476-my-beastly-lovers.json](./82476-my-beastly-lovers.json) |
 | My Beautiful Faraway, Please Don't Be Cruel to Me | 399059 | [399059-my-beautiful-faraway-please-dont-be-cruel-to-me.json](./399059-my-beautiful-faraway-please-dont-be-cruel-to-me.json) |
 | My Beautiful Misinterpretation of Words | 384229 | [384229-my-beautiful-misinterpretation-of-words.json](./384229-my-beautiful-misinterpretation-of-words.json) |
+| My Beautiful Vacation | 361599 | [361599-my-beautiful-vacation.json](./361599-my-beautiful-vacation.json) |
 | My Best Friend Kouta | 245887 | [245887-my-best-friend-kouta.json](./245887-my-best-friend-kouta.json) |
 | My Best Friends: Cats & Dogs | 17043 | [17043-my-best-friends-cats-and-dogs.json](./17043-my-best-friends-cats-and-dogs.json) |
 | My Best Life My Pest Life | 393118 | [393118-my-best-life-my-pest-life.json](./393118-my-best-life-my-pest-life.json) |
