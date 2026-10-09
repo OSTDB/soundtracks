@@ -1610,6 +1610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 64th Street: A Detective Story | 6735 | [6735-64th-street-a-detective-story.json](./6735-64th-street-a-detective-story.json) |
 | 66 Bricks | 241353 | [241353-66-bricks.json](./241353-66-bricks.json) |
 | 6600: The Park | 410914 | [410914-6600-the-park.json](./410914-6600-the-park.json) |
+| 67 | 372820 | [372820-67.json](./372820-67.json) |
 | 67 | 388231 | [388231-67.json](./388231-67.json) |
 | 67 Game Online | 395009 | [395009-67-game-online.json](./395009-67-game-online.json) |
 | 688 Attack Sub | 5338 | [5338-688-attack-sub.json](./5338-688-attack-sub.json) |
