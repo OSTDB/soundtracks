@@ -3879,6 +3879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fishing Food | 180230 | [180230-fishing-food.json](./180230-fishing-food.json) |
 | Fishing for a Living | 293618 | [293618-fishing-for-a-living.json](./293618-fishing-for-a-living.json) |
 | Fishing For Cats | 309685 | [309685-fishing-for-cats.json](./309685-fishing-for-cats.json) |
+| Fishing for Numbers | 374417 | [374417-fishing-for-numbers.json](./374417-fishing-for-numbers.json) |
 | Fishing Freaks: Bass Rise Plus | 123044 | [123044-fishing-freaks-bass-rise-plus.json](./123044-fishing-freaks-bass-rise-plus.json) |
 | Fishing Hero | 110240 | [110240-fishing-hero.json](./110240-fishing-hero.json) |
 | Fishing Inc | 390614 | [390614-fishing-inc.json](./390614-fishing-inc.json) |
@@ -6413,6 +6414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foxy Jumper 2 | 255647 | [255647-foxy-jumper-2.json](./255647-foxy-jumper-2.json) |
 | Foxy Jumper 2: Winter Adventures | 255648 | [255648-foxy-jumper-2-winter-adventures.json](./255648-foxy-jumper-2-winter-adventures.json) |
 | Foxy the First Steps | 409412 | [409412-foxy-the-first-steps.json](./409412-foxy-the-first-steps.json) |
+| Foxy Trouble | 374444 | [374444-foxy-trouble.json](./374444-foxy-trouble.json) |
 | Foxy's Adventure | 159893 | [159893-foxys-adventure.json](./159893-foxys-adventure.json) |
 | Foxy's Coin Hunt | 235301 | [235301-foxys-coin-hunt.json](./235301-foxys-coin-hunt.json) |
 | FP Racer | 340242 | [340242-fp-racer.json](./340242-fp-racer.json) |
@@ -7271,6 +7273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | From the Psychothread | 278611 | [278611-from-the-psychothread.json](./278611-from-the-psychothread.json) |
 | From the Shadows | 142329 | [142329-from-the-shadows.json](./142329-from-the-shadows.json) |
 | From the Streets to the Script: A Carabanchel Story | 238500 | [238500-from-the-streets-to-the-script-a-carabanchel-story.json](./238500-from-the-streets-to-the-script-a-carabanchel-story.json) |
+| From the Top | 374439 | [374439-from-the-top.json](./374439-from-the-top.json) |
 | From the Town of Gleming | 195630 | [195630-from-the-town-of-gleming.json](./195630-from-the-town-of-gleming.json) |
 | From the Void | 187897 | [187897-from-the-void.json](./187897-from-the-void.json) |
 | From Within | 177830 | [177830-from-within.json](./177830-from-within.json) |
