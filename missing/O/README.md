@@ -3136,6 +3136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outnumbered | 239904 | [239904-outnumbered.json](./239904-outnumbered.json) |
 | Outnumbered | 55869 | [55869-outnumbered.json](./55869-outnumbered.json) |
 | OutOfColors | 96237 | [96237-outofcolors.json](./96237-outofcolors.json) |
+| Outpacked | 377983 | [377983-outpacked.json](./377983-outpacked.json) |
 | Outpath | 229007 | [229007-outpath.json](./229007-outpath.json) |
 | Outpath: First Journey | 236761 | [236761-outpath-first-journey.json](./236761-outpath-first-journey.json) |
 | Outpost | 100123 | [100123-outpost.json](./100123-outpost.json) |
