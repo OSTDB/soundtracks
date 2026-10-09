@@ -1290,6 +1290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantaventura | 129717 | [129717-fantaventura.json](./129717-fantaventura.json) |
 | FantaVision | 376693 | [376693-fantavision.json](./376693-fantavision.json) |
 | Fantavision 202X | 229133 | [229133-fantavision-202x.json](./229133-fantavision-202x.json) |
+| Fanterra: A Fantasy Farming Adventure | 383712 | [383712-fanterra-a-fantasy-farming-adventure.json](./383712-fanterra-a-fantasy-farming-adventure.json) |
 | Fantom Feast | 112928 | [112928-fantom-feast.json](./112928-fantom-feast.json) |
 | Fantomas | 313250 | [313250-fantomas.json](./313250-fantomas.json) |
 | FantômeRapport: Intermezzo | 406101 | [406101-fantomerapport-intermezzo.json](./406101-fantomerapport-intermezzo.json) |
@@ -2144,6 +2145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feed It | 403808 | [403808-feed-it.json](./403808-feed-it.json) |
 | Feed It Souls | 278719 | [278719-feed-it-souls.json](./278719-feed-it-souls.json) |
 | Feed Me | 381015 | [381015-feed-me.json](./381015-feed-me.json) |
+| Feed Me | 383695 | [383695-feed-me.json](./383695-feed-me.json) |
 | Feed Me Billy | 125264 | [125264-feed-me-billy.json](./125264-feed-me-billy.json) |
 | Feed Me Billy | 320267 | [320267-feed-me-billy.json](./320267-feed-me-billy.json) |
 | Feed Me More Brains | 410907 | [410907-feed-me-more-brains.json](./410907-feed-me-more-brains.json) |
@@ -2824,6 +2826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fill Fill | 362399 | [362399-fill-fill.json](./362399-fill-fill.json) |
 | Fill In | 105832 | [105832-fill-in.json](./105832-fill-in.json) |
 | Fill in the Holes | 205027 | [205027-fill-in-the-holes.json](./205027-fill-in-the-holes.json) |
+| Fill Me In! | 383694 | [383694-fill-me-in.json](./383694-fill-me-in.json) |
 | Fill me up | 190050 | [190050-fill-me-up.json](./190050-fill-me-up.json) |
 | Fill Missing Letters | 187977 | [187977-fill-missing-letters.json](./187977-fill-missing-letters.json) |
 | Fill Multicolor | 283380 | [283380-fill-multicolor.json](./283380-fill-multicolor.json) |
