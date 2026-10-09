@@ -11579,6 +11579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Yakyuken: Ojousama | 251084 | [251084-the-yakyuken-ojousama.json](./251084-the-yakyuken-ojousama.json) |
 | The Yakyuu Ken Special: Konya wa 8-kaisen | 74777 | [74777-the-yakyuu-ken-special-konya-wa-8-kaisen.json](./74777-the-yakyuu-ken-special-konya-wa-8-kaisen.json) |
 | The Yakyuuken Special: Konya ha 12-kaisen | 74778 | [74778-the-yakyuuken-special-konya-ha-12-kaisen.json](./74778-the-yakyuuken-special-konya-ha-12-kaisen.json) |
+| The Yamamura Estate | 376857 | [376857-the-yamamura-estate.json](./376857-the-yamamura-estate.json) |
 | The Yard: Escape from Prison | 414610 | [414610-the-yard-escape-from-prison.json](./414610-the-yard-escape-from-prison.json) |
 | The Yawhg | 3031 | [3031-the-yawhg.json](./3031-the-yawhg.json) |
 | The Year of the Carrot | 235758 | [235758-the-year-of-the-carrot.json](./235758-the-year-of-the-carrot.json) |
@@ -15120,6 +15121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomodachi no Haha: Jukujuku Taru Omoi | 409420 | [409420-tomodachi-no-haha-jukujuku-taru-omoi.json](./409420-tomodachi-no-haha-jukujuku-taru-omoi.json) |
 | Tomodachi-kun | 398580 | [398580-tomodachi-kun.json](./398580-tomodachi-kun.json) |
 | Tomodachii | 332803 | [332803-tomodachii.json](./332803-tomodachii.json) |
+| Tomohigara | 376873 | [376873-tomohigara.json](./376873-tomohigara.json) |
 | Tomomi: Denkitomodachi | 130251 | [130251-tomomi-denkitomodachi.json](./130251-tomomi-denkitomodachi.json) |
 | Tomomon Little | 408023 | [408023-tomomon-little.json](./408023-tomomon-little.json) |
 | Tomomon: Legacy of Light | 242514 | [242514-tomomon-legacy-of-light.json](./242514-tomomon-legacy-of-light.json) |
