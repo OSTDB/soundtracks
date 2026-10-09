@@ -1258,6 +1258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Satama Puzzle | 190461 | [190461-satama-puzzle.json](./190461-satama-puzzle.json) |
 | Satan | 311182 | [311182-satan.json](./311182-satan.json) |
 | Satan | 94933 | [94933-satan.json](./94933-satan.json) |
+| Satan 3D | 384293 | [384293-satan-3d.json](./384293-satan-3d.json) |
 | Satan II | 380552 | [380552-satan-ii.json](./380552-satan-ii.json) |
 | Satan Santa | 369743 | [369743-satan-santa.json](./369743-satan-santa.json) |
 | Satan's Dungeon | 329593 | [329593-satans-dungeon.json](./329593-satans-dungeon.json) |
@@ -5132,6 +5133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shinsetsu Mahou Shoujo | 131589 | [131589-shinsetsu-mahou-shoujo.json](./131589-shinsetsu-mahou-shoujo.json) |
 | Shinsetsu Shiawase Usagi F: Yuujou Yori mo Aiyoku | 277859 | [277859-shinsetsu-shiawase-usagi-f-yuujou-yori-mo-aiyoku.json](./277859-shinsetsu-shiawase-usagi-f-yuujou-yori-mo-aiyoku.json) |
 | Shinshou Ikemen Ooku | 239014 | [239014-shinshou-ikemen-ooku.json](./239014-shinshou-ikemen-ooku.json) |
+| Shinshou Sange: Chiru Hana | 384248 | [384248-shinshou-sange-chiru-hana.json](./384248-shinshou-sange-chiru-hana.json) |
 | Shinshuku Taisen: It's a Noni! | 123622 | [123622-shinshuku-taisen-its-a-noni.json](./123622-shinshuku-taisen-its-a-noni.json) |
 | Shinsou Seiki Elementia ~Kutsujoku no Sennou Saimin~ | 133246 | [133246-shinsou-seiki-elementia-kutsujoku-no-sennou-saimin.json](./133246-shinsou-seiki-elementia-kutsujoku-no-sennou-saimin.json) |
 | Shinsouban Mahoutsukai to Goshujin-sama: Wizard and The Master | 60251 | [60251-shinsouban-mahoutsukai-to-goshujin-sama-wizard-and-the-master.json](./60251-shinsouban-mahoutsukai-to-goshujin-sama-wizard-and-the-master.json) |
@@ -12639,6 +12641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spells of Genesis | 57726 | [57726-spells-of-genesis.json](./57726-spells-of-genesis.json) |
 | Spells of Gold | 13785 | [13785-spells-of-gold.json](./13785-spells-of-gold.json) |
 | Spellscribe | 211634 | [211634-spellscribe.json](./211634-spellscribe.json) |
+| Spellseeker | 384261 | [384261-spellseeker.json](./384261-spellseeker.json) |
 | Spellshaper | 213451 | [213451-spellshaper.json](./213451-spellshaper.json) |
 | Spellshard: The Black Crown of Horgoth | 149992 | [149992-spellshard-the-black-crown-of-horgoth.json](./149992-spellshard-the-black-crown-of-horgoth.json) |
 | Spellshot | 243700 | [243700-spellshot.json](./243700-spellshot.json) |
@@ -16226,6 +16229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Story of Love & Food | 392466 | [392466-story-of-love-and-food.json](./392466-story-of-love-and-food.json) |
 | Story of Nararale | 173026 | [173026-story-of-nararale.json](./173026-story-of-nararale.json) |
 | Story of one night | 117581 | [117581-story-of-one-night.json](./117581-story-of-one-night.json) |
+| Story of Sealed Steel | 384291 | [384291-story-of-sealed-steel.json](./384291-story-of-sealed-steel.json) |
 | Story of Seasons | 8608 | [8608-story-of-seasons.json](./8608-story-of-seasons.json) |
 | Story of Seasons (Tentative Title) | 85534 | [85534-story-of-seasons-tentative-title.json](./85534-story-of-seasons-tentative-title.json) |
 | Story of Seasons: A Wonderful Life | 217553 | [217553-story-of-seasons-a-wonderful-life.json](./217553-story-of-seasons-a-wonderful-life.json) |
@@ -18485,6 +18489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Hashigo | 417493 | [417493-super-hashigo.json](./417493-super-hashigo.json) |
 | Super Haste | 363020 | [363020-super-haste.json](./363020-super-haste.json) |
 | Super Haste | 409791 | [409791-super-haste.json](./409791-super-haste.json) |
+| Super Haste: Debris DLC | 384296 | [384296-super-haste-debris-dlc.json](./384296-super-haste-debris-dlc.json) |
 | Super Head Esploder X | 87263 | [87263-super-head-esploder-x.json](./87263-super-head-esploder-x.json) |
 | Super Heavy Sword | 61134 | [61134-super-heavy-sword.json](./61134-super-heavy-sword.json) |
 | Super Helpful Man | 105288 | [105288-super-helpful-man.json](./105288-super-helpful-man.json) |
@@ -20602,6 +20607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swaps and Traps | 72360 | [72360-swaps-and-traps.json](./72360-swaps-and-traps.json) |
 | SwapStar | 252394 | [252394-swapstar.json](./252394-swapstar.json) |
 | SwapTales: Leon! | 116439 | [116439-swaptales-leon.json](./116439-swaptales-leon.json) |
+| Swapwood Quest R | 384253 | [384253-swapwood-quest-r.json](./384253-swapwood-quest-r.json) |
 | Swarm 2 | 280060 | [280060-swarm-2.json](./280060-swarm-2.json) |
 | Swarm Fortress | 294372 | [294372-swarm-fortress.json](./294372-swarm-fortress.json) |
 | Swarm Grinder | 223371 | [223371-swarm-grinder.json](./223371-swarm-grinder.json) |
@@ -21217,6 +21223,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | symeCu8e | 90620 | [90620-symecu8e.json](./90620-symecu8e.json) |
 | Symmetrain | 123074 | [123074-symmetrain.json](./123074-symmetrain.json) |
 | Symmetry - Drawing Puzzles | 101090 | [101090-symmetry-drawing-puzzles.json](./101090-symmetry-drawing-puzzles.json) |
+| Symmetry and Asymmetry | 384262 | [384262-symmetry-and-asymmetry.json](./384262-symmetry-and-asymmetry.json) |
+| Symmetry and Asymmetry | 384263 | [384263-symmetry-and-asymmetry.json](./384263-symmetry-and-asymmetry.json) |
 | Symmetry Lines | 200507 | [200507-symmetry-lines.json](./200507-symmetry-lines.json) |
 | SymmetryPad - Doodle in Relax | 108601 | [108601-symmetrypad-doodle-in-relax.json](./108601-symmetrypad-doodle-in-relax.json) |
 | Symmodance | 263756 | [263756-symmodance.json](./263756-symmodance.json) |
