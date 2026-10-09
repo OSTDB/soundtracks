@@ -1398,6 +1398,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gear Path | 76913 | [76913-gear-path.json](./76913-gear-path.json) |
 | Gear Planet | 266399 | [266399-gear-planet.json](./266399-gear-planet.json) |
 | Gear Puzzle: the inheritance of grandpa | 120943 | [120943-gear-puzzle-the-inheritance-of-grandpa.json](./120943-gear-puzzle-the-inheritance-of-grandpa.json) |
+| Gear Race | 359377 | [359377-gear-race.json](./359377-gear-race.json) |
+| Gear Race | 359379 | [359379-gear-race.json](./359379-gear-race.json) |
 | Gear Senshi Dendoh | 19595 | [19595-gear-senshi-dendoh.json](./19595-gear-senshi-dendoh.json) |
 | Gear Slots | 389972 | [389972-gear-slots.json](./389972-gear-slots.json) |
 | Gear Stadium Heisei-ban | 46605 | [46605-gear-stadium-heisei-ban.json](./46605-gear-stadium-heisei-ban.json) |
@@ -2714,6 +2716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girls' civilization | 113267 | [113267-girls-civilization.json](./113267-girls-civilization.json) |
 | Girls' Civilization 3 | 207398 | [207398-girls-civilization-3.json](./207398-girls-civilization-3.json) |
 | Girls' Day Out | 407327 | [407327-girls-day-out.json](./407327-girls-day-out.json) |
+| Girls' Dorm Wars | 359346 | [359346-girls-dorm-wars.json](./359346-girls-dorm-wars.json) |
 | Girls' Fashion Shoot | 79894 | [79894-girls-fashion-shoot.json](./79894-girls-fashion-shoot.json) |
 | Girls' Film Club! | 410245 | [410245-girls-film-club.json](./410245-girls-film-club.json) |
 | Girls' Frontline | 58075 | [58075-girls-frontline.json](./58075-girls-frontline.json) |
