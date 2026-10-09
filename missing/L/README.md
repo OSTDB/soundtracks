@@ -3873,6 +3873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Living Nightmares: False Familiar | 344531 | [344531-living-nightmares-false-familiar.json](./344531-living-nightmares-false-familiar.json) |
 | Living Puzzles: Triazzle | 72023 | [72023-living-puzzles-triazzle.json](./72023-living-puzzles-triazzle.json) |
 | Living Room | 315586 | [315586-living-room.json](./315586-living-room.json) |
+| Living Room: Wild Style | 354377 | [354377-living-room-wild-style.json](./354377-living-room-wild-style.json) |
 | Living Shadows | 351727 | [351727-living-shadows.json](./351727-living-shadows.json) |
 | Living the Dream | 259763 | [259763-living-the-dream.json](./259763-living-the-dream.json) |
 | Living the Nightmare | 151144 | [151144-living-the-nightmare.json](./151144-living-the-nightmare.json) |
@@ -3935,6 +3936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Llamatron: 2112 | 50117 | [50117-llamatron-2112.json](./50117-llamatron-2112.json) |
 | Llamero | 404407 | [404407-llamero.json](./404407-llamero.json) |
 | Llhore | 122939 | [122939-llhore.json](./122939-llhore.json) |
+| Lllooot! | 354382 | [354382-lllooot.json](./354382-lllooot.json) |
 | LLM x Quiz | 369055 | [369055-llm-x-quiz.json](./369055-llm-x-quiz.json) |
 | LLMxQuiz | 369911 | [369911-llmxquiz.json](./369911-llmxquiz.json) |
 | Llorona | 177313 | [177313-llorona.json](./177313-llorona.json) |
