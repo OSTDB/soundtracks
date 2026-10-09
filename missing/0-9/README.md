@@ -1038,6 +1038,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2win Ghost | 92619 | [92619-2win-ghost.json](./92619-2win-ghost.json) |
 | 2X | 208984 | [208984-2x.json](./208984-2x.json) |
 | 2x4 Nails | 258003 | [258003-2x4-nails.json](./258003-2x4-nails.json) |
+| 2XKO: PS+ Benefit Bundle Y1S1 | 386485 | [386485-2xko-ps-benefit-bundle-y1s1.json](./386485-2xko-ps-benefit-bundle-y1s1.json) |
+| 2XKO: Starter Edition Standard | 386484 | [386484-2xko-starter-edition-standard.json](./386484-2xko-starter-edition-standard.json) |
 | 2XL ATV Offroad | 197676 | [197676-2xl-atv-offroad.json](./197676-2xl-atv-offroad.json) |
 | 2XL Snocross | 95653 | [95653-2xl-snocross.json](./95653-2xl-snocross.json) |
 | 2XL Supercross | 69327 | [69327-2xl-supercross.json](./69327-2xl-supercross.json) |
