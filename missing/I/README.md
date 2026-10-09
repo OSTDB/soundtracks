@@ -352,6 +352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Wanna Lap Around | 329182 | [329182-i-wanna-lap-around.json](./329182-i-wanna-lap-around.json) |
 | I Wanna Make a Dragon Game | 349291 | [349291-i-wanna-make-a-dragon-game.json](./349291-i-wanna-make-a-dragon-game.json) |
 | I Wanna Maker | 125410 | [125410-i-wanna-maker.json](./125410-i-wanna-maker.json) |
+| I Wanna Play That Picture Puzzle with Numbers All Day! | 360520 | [360520-i-wanna-play-that-picture-puzzle-with-numbers-all-day.json](./360520-i-wanna-play-that-picture-puzzle-with-numbers-all-day.json) |
 | I Wanna Ponder | 361758 | [361758-i-wanna-ponder.json](./361758-i-wanna-ponder.json) |
 | I wanna Reach the Top | 201007 | [201007-i-wanna-reach-the-top.json](./201007-i-wanna-reach-the-top.json) |
 | I Wanna Take the Time Machine | 79520 | [79520-i-wanna-take-the-time-machine.json](./79520-i-wanna-take-the-time-machine.json) |
@@ -1910,6 +1911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Incompatible Fusion Machine | 312585 | [312585-incompatible-fusion-machine.json](./312585-incompatible-fusion-machine.json) |
 | Incompatible Species | 55129 | [55129-incompatible-species.json](./55129-incompatible-species.json) |
 | Incorp Inc | 30135 | [30135-incorp-inc.json](./30135-incorp-inc.json) |
+| InCrazyBall | 360490 | [360490-incrazyball.json](./360490-incrazyball.json) |
 | Increase World | 367996 | [367996-increase-world.json](./367996-increase-world.json) |
 | Incredible Crisis | 26637 | [26637-incredible-crisis.json](./26637-incredible-crisis.json) |
 | Incredible Dracula 3: Family Secret | 118765 | [118765-incredible-dracula-3-family-secret.json](./118765-incredible-dracula-3-family-secret.json) |
@@ -2449,6 +2451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Influent Language Learning Game | 17037 | [17037-influent-language-learning-game.json](./17037-influent-language-learning-game.json) |
 | Influenza A | 135775 | [135775-influenza-a.json](./135775-influenza-a.json) |
 | InFlux | 2938 | [2938-influx.json](./2938-influx.json) |
+| Info Fighter | 360510 | [360510-info-fighter.json](./360510-info-fighter.json) |
 | Info Genius Frommer's Travel Guide | 335490 | [335490-info-genius-frommers-travel-guide.json](./335490-info-genius-frommers-travel-guide.json) |
 | Info Player Start: A Dope (Challenge) Map | 282616 | [282616-info-player-start-a-dope-challenge-map.json](./282616-info-player-start-a-dope-challenge-map.json) |
 | Infocus: Extreme Bike | 175294 | [175294-infocus-extreme-bike.json](./175294-infocus-extreme-bike.json) |
@@ -3910,6 +3913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It Feeds | 207220 | [207220-it-feeds.json](./207220-it-feeds.json) |
 | It Girl | 338731 | [338731-it-girl.json](./338731-it-girl.json) |
 | It Goes Away in the End | 312920 | [312920-it-goes-away-in-the-end.json](./312920-it-goes-away-in-the-end.json) |
+| It Goes On | 360495 | [360495-it-goes-on.json](./360495-it-goes-on.json) |
 | It Happened At Night | 310144 | [310144-it-happened-at-night.json](./310144-it-happened-at-night.json) |
 | It Happened Here: A Storm is Brewing - Collector's Edition | 337247 | [337247-it-happened-here-a-storm-is-brewing-collectors-edition.json](./337247-it-happened-here-a-storm-is-brewing-collectors-edition.json) |
 | It Happened Here: Beacon of Truth - Collector's Edition | 270102 | [270102-it-happened-here-beacon-of-truth-collectors-edition.json](./270102-it-happened-here-beacon-of-truth-collectors-edition.json) |
