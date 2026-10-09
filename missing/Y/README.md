@@ -151,6 +151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yandere Goth BDSM 4 | 372257 | [372257-yandere-goth-bdsm-4.json](./372257-yandere-goth-bdsm-4.json) |
 | Yandere Goth BDSM 5 | 372259 | [372259-yandere-goth-bdsm-5.json](./372259-yandere-goth-bdsm-5.json) |
 | Yandere Goth BDSM 6 | 372260 | [372260-yandere-goth-bdsm-6.json](./372260-yandere-goth-bdsm-6.json) |
+| Yandere Goth BDSM 7 | 371613 | [371613-yandere-goth-bdsm-7.json](./371613-yandere-goth-bdsm-7.json) |
 | Yandere Goth BDSM 8 | 372261 | [372261-yandere-goth-bdsm-8.json](./372261-yandere-goth-bdsm-8.json) |
 | Yandere Goth BDSM 9 | 372262 | [372262-yandere-goth-bdsm-9.json](./372262-yandere-goth-bdsm-9.json) |
 | Yandere Goth Boss: Valentine's Day | 338362 | [338362-yandere-goth-boss-valentines-day.json](./338362-yandere-goth-boss-valentines-day.json) |
