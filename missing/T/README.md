@@ -561,6 +561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Take Bomb: The Suit Take Off | 280254 | [280254-take-bomb-the-suit-take-off.json](./280254-take-bomb-the-suit-take-off.json) |
 | Take Care (of Me) | 339422 | [339422-take-care-of-me.json](./339422-take-care-of-me.json) |
 | Take Care of It: Memories | 405443 | [405443-take-care-of-it-memories.json](./405443-take-care-of-it-memories.json) |
+| Take Care of It. | 383121 | [383121-take-care-of-it.json](./383121-take-care-of-it.json) |
 | Take Care of My Heifer | 414421 | [414421-take-care-of-my-heifer.json](./414421-take-care-of-my-heifer.json) |
 | Take Care Of The Dog | 402917 | [402917-take-care-of-the-dog.json](./402917-take-care-of-the-dog.json) |
 | Take Care of the Paperwork | 103455 | [103455-take-care-of-the-paperwork.json](./103455-take-care-of-the-paperwork.json) |
@@ -1290,6 +1291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TankCraft | 31193 | [31193-tankcraft.json](./31193-tankcraft.json) |
 | TankDestruction | 114916 | [114916-tankdestruction.json](./114916-tankdestruction.json) |
 | Tanked Out! | 270107 | [270107-tanked-out.json](./270107-tanked-out.json) |
+| Tankegeddon! | 383147 | [383147-tankegeddon.json](./383147-tankegeddon.json) |
 | Tankette | 207282 | [207282-tankette.json](./207282-tankette.json) |
 | Tankex | 117436 | [117436-tankex.json](./117436-tankex.json) |
 | TankFall Arena | 406845 | [406845-tankfall-arena.json](./406845-tankfall-arena.json) |
@@ -3634,6 +3636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Artifact Protocol | 365775 | [365775-the-artifact-protocol.json](./365775-the-artifact-protocol.json) |
 | The Artifactory | 334179 | [334179-the-artifactory.json](./334179-the-artifactory.json) |
 | The Artifacts of Marvelous Birds | 278627 | [278627-the-artifacts-of-marvelous-birds.json](./278627-the-artifacts-of-marvelous-birds.json) |
+| The Artisan of Glimmith | 383145 | [383145-the-artisan-of-glimmith.json](./383145-the-artisan-of-glimmith.json) |
 | The Asafo Journey | 220672 | [220672-the-asafo-journey.json](./220672-the-asafo-journey.json) |
 | The Ascent of the Gothic Tower | 228967 | [228967-the-ascent-of-the-gothic-tower.json](./228967-the-ascent-of-the-gothic-tower.json) |
 | The Ascent: CyberSec Pack | 276306 | [276306-the-ascent-cybersec-pack.json](./276306-the-ascent-cybersec-pack.json) |
@@ -4457,6 +4460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The CodFather | 360658 | [360658-the-codfather.json](./360658-the-codfather.json) |
 | The Coffee Shop Collision | 337699 | [337699-the-coffee-shop-collision.json](./337699-the-coffee-shop-collision.json) |
 | The Coil of Possibility | 137968 | [137968-the-coil-of-possibility.json](./137968-the-coil-of-possibility.json) |
+| The Coin | 383159 | [383159-the-coin.json](./383159-the-coin.json) |
 | The Cold Case | 302140 | [302140-the-cold-case.json](./302140-the-cold-case.json) |
 | The Cold Forest | 211946 | [211946-the-cold-forest.json](./211946-the-cold-forest.json) |
 | The Cold Hand Reef | 326980 | [326980-the-cold-hand-reef.json](./326980-the-cold-hand-reef.json) |
@@ -5812,6 +5816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Foretold: Exordium | 267675 | [267675-the-foretold-exordium.json](./267675-the-foretold-exordium.json) |
 | The Forever Labyrinth | 285049 | [285049-the-forever-labyrinth.json](./285049-the-forever-labyrinth.json) |
 | The Forever Moon | 165023 | [165023-the-forever-moon.json](./165023-the-forever-moon.json) |
+| The Forever Winter: Holiday Hangover | 383130 | [383130-the-forever-winter-holiday-hangover.json](./383130-the-forever-winter-holiday-hangover.json) |
 | The Foreverlands | 181234 | [181234-the-foreverlands.json](./181234-the-foreverlands.json) |
 | The Forge Arena | 90078 | [90078-the-forge-arena.json](./90078-the-forge-arena.json) |
 | The Forge: Steel Frontier | 414869 | [414869-the-forge-steel-frontier.json](./414869-the-forge-steel-frontier.json) |
@@ -18350,6 +18355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trine 4: The Nightmare Prince | 110846 | [110846-trine-4-the-nightmare-prince.json](./110846-trine-4-the-nightmare-prince.json) |
 | Trine 5: A Clockwork Conspiracy | 245390 | [245390-trine-5-a-clockwork-conspiracy.json](./245390-trine-5-a-clockwork-conspiracy.json) |
 | Trine Bundle | 142369 | [142369-trine-bundle.json](./142369-trine-bundle.json) |
+| Trine Classic Collection | 383137 | [383137-trine-classic-collection.json](./383137-trine-classic-collection.json) |
 | Trine Enchanted Edition | 51800 | [51800-trine-enchanted-edition.json](./51800-trine-enchanted-edition.json) |
 | Trine Series 1-3 | 125319 | [125319-trine-series-1-3.json](./125319-trine-series-1-3.json) |
 | Trine Trilogy | 118939 | [118939-trine-trilogy.json](./118939-trine-trilogy.json) |
@@ -18716,6 +18722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Truck Racing 2 | 43540 | [43540-truck-racing-2.json](./43540-truck-racing-2.json) |
 | Truck Racing Simulator | 391348 | [391348-truck-racing-simulator.json](./391348-truck-racing-simulator.json) |
 | Truck Raid | 252816 | [252816-truck-raid.json](./252816-truck-raid.json) |
+| Truck Rally Hyper Hardcore | 383158 | [383158-truck-rally-hyper-hardcore.json](./383158-truck-rally-hyper-hardcore.json) |
 | Truck Sim 2024 | 287159 | [287159-truck-sim-2024.json](./287159-truck-sim-2024.json) |
 | Truck Simulation 19 | 111747 | [111747-truck-simulation-19.json](./111747-truck-simulation-19.json) |
 | Truck Simulator & World of Machines: Game Bundle Collection | 263562 | [263562-truck-simulator-and-world-of-machines-game-bundle-collection.json](./263562-truck-simulator-and-world-of-machines-game-bundle-collection.json) |
