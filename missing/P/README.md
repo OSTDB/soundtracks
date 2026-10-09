@@ -10243,6 +10243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Push a Block | 221171 | [221171-push-a-block.json](./221171-push-a-block.json) |
 | Push and Pull | 401071 | [401071-push-and-pull.json](./401071-push-and-pull.json) |
 | Push Back | 133445 | [133445-push-back.json](./133445-push-back.json) |
+| Push Battle Royale | 381956 | [381956-push-battle-royale.json](./381956-push-battle-royale.json) |
 | Push Box | 167261 | [167261-push-box.json](./167261-push-box.json) |
 | Push Comes to Shovel | 211783 | [211783-push-comes-to-shovel.json](./211783-push-comes-to-shovel.json) |
 | Push IT: Sokoban Puzzle | 232386 | [232386-push-it-sokoban-puzzle.json](./232386-push-it-sokoban-puzzle.json) |
