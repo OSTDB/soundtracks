@@ -97,6 +97,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Obec | 349397 | [349397-obec.json](./349397-obec.json) |
 | Obedient Servant | 213442 | [213442-obedient-servant.json](./213442-obedient-servant.json) |
 | Obeebok | 266395 | [266395-obeebok.json](./266395-obeebok.json) |
+| Obéissance | 378586 | [378586-obeissance.json](./378586-obeissance.json) |
 | Obelisk | 130194 | [130194-obelisk.json](./130194-obelisk.json) |
 | Obelisk | 391668 | [391668-obelisk.json](./391668-obelisk.json) |
 | Obelix | 71703 | [71703-obelix.json](./71703-obelix.json) |
