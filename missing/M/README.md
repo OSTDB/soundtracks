@@ -5184,6 +5184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memories Unveiled | 262485 | [262485-memories-unveiled.json](./262485-memories-unveiled.json) |
 | Memories With You | 380602 | [380602-memories-with-you.json](./380602-memories-with-you.json) |
 | Memories: Millennium Girl | 263206 | [263206-memories-millennium-girl.json](./263206-memories-millennium-girl.json) |
+| Memories: Remember Me | 378008 | [378008-memories-remember-me.json](./378008-memories-remember-me.json) |
 | Memories: Silenced | 403100 | [403100-memories-silenced.json](./403100-memories-silenced.json) |
 | Memorise: Creation | 112969 | [112969-memorise-creation.json](./112969-memorise-creation.json) |
 | Memorize 2 | 100760 | [100760-memorize-2.json](./100760-memorize-2.json) |
@@ -11161,6 +11162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mugen Souls Double Pack | 262325 | [262325-mugen-souls-double-pack.json](./262325-mugen-souls-double-pack.json) |
 | Mugen Souls Z | 11503 | [11503-mugen-souls-z.json](./11503-mugen-souls-z.json) |
 | Mugen Sweeper | 256910 | [256910-mugen-sweeper.json](./256910-mugen-sweeper.json) |
+| Mugen Yakou | 378004 | [378004-mugen-yakou.json](./378004-mugen-yakou.json) |
 | MugenCards | 200698 | [200698-mugencards.json](./200698-mugencards.json) |
 | Mugengikyou: First Disaster | 301352 | [301352-mugengikyou-first-disaster.json](./301352-mugengikyou-first-disaster.json) |
 | Mugengikyou: Second Departure | 301356 | [301356-mugengikyou-second-departure.json](./301356-mugengikyou-second-departure.json) |
