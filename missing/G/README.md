@@ -2486,6 +2486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GigaBash: Ultraman Zero | 404820 | [404820-gigabash-ultraman-zero.json](./404820-gigabash-ultraman-zero.json) |
 | Gigabit | 194346 | [194346-gigabit.json](./194346-gigabit.json) |
 | Gigablast | 66603 | [66603-gigablast.json](./66603-gigablast.json) |
+| Gigabonk: Mega Survivors | 376243 | [376243-gigabonk-mega-survivors.json](./376243-gigabonk-mega-survivors.json) |
 | Gigabot Run | 365233 | [365233-gigabot-run.json](./365233-gigabot-run.json) |
 | Gigachess: Brilliant Blitz Level Pack | 166224 | [166224-gigachess-brilliant-blitz-level-pack.json](./166224-gigachess-brilliant-blitz-level-pack.json) |
 | Gigadyne Voltraid | 413721 | [413721-gigadyne-voltraid.json](./413721-gigadyne-voltraid.json) |
