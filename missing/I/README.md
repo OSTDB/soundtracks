@@ -1386,6 +1386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Imagination | 13007 | [13007-imagination.json](./13007-imagination.json) |
 | Imaginator | 122419 | [122419-imaginator.json](./122419-imaginator.json) |
 | Imagine Earth | 17111 | [17111-imagine-earth.json](./17111-imagine-earth.json) |
+| Imagine Earth: Galaxies | 365584 | [365584-imagine-earth-galaxies.json](./365584-imagine-earth-galaxies.json) |
 | Imagine Island | 341607 | [341607-imagine-island.json](./341607-imagine-island.json) |
 | Imagine Sisyphus Happy | 366716 | [366716-imagine-sisyphus-happy.json](./366716-imagine-sisyphus-happy.json) |
 | Imagine We Were Human | 419839 | [419839-imagine-we-were-human.json](./419839-imagine-we-were-human.json) |
