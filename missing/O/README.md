@@ -2850,6 +2850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Our Hero! Hyper Sword | 99086 | [99086-our-hero-hyper-sword.json](./99086-our-hero-hyper-sword.json) |
 | Our Hero! Last | 211174 | [211174-our-hero-last.json](./211174-our-hero-last.json) |
 | Our Home | 207806 | [207806-our-home.json](./207806-our-home.json) |
+| Our Home | 357732 | [357732-our-home.json](./357732-our-home.json) |
 | Our House | 72784 | [72784-our-house.json](./72784-our-house.json) |
 | Our Journey | 279267 | [279267-our-journey.json](./279267-our-journey.json) |
 | Our Journeys: A Collection of Visual Novels | 129051 | [129051-our-journeys-a-collection-of-visual-novels.json](./129051-our-journeys-a-collection-of-visual-novels.json) |
@@ -2917,6 +2918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Out of Ammo | 177536 | [177536-out-of-ammo.json](./177536-out-of-ammo.json) |
 | Out of Ammo: Death Drive | 54823 | [54823-out-of-ammo-death-drive.json](./54823-out-of-ammo-death-drive.json) |
 | Out of Body | 377171 | [377171-out-of-body.json](./377171-out-of-body.json) |
+| Out of Bounds | 357728 | [357728-out-of-bounds.json](./357728-out-of-bounds.json) |
 | Out of Brakes: Endless Racer | 232155 | [232155-out-of-brakes-endless-racer.json](./232155-out-of-brakes-endless-racer.json) |
 | Out Of Cash (Sin Blanca) | 379897 | [379897-out-of-cash-sin-blanca.json](./379897-out-of-cash-sin-blanca.json) |
 | Out of Control | 40775 | [40775-out-of-control.json](./40775-out-of-control.json) |
