@@ -1642,6 +1642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | General Chaos | 10149 | [10149-general-chaos.json](./10149-general-chaos.json) |
 | General Coco | 122392 | [122392-general-coco.json](./122392-general-coco.json) |
 | General Conflict | 64463 | [64463-general-conflict.json](./64463-general-conflict.json) |
+| General Idler | 346553 | [346553-general-idler.json](./346553-general-idler.json) |
 | General Knowledge Quiz | 251042 | [251042-general-knowledge-quiz.json](./251042-general-knowledge-quiz.json) |
 | General Mayhem | 179470 | [179470-general-mayhem.json](./179470-general-mayhem.json) |
 | General Population | 169820 | [169820-general-population.json](./169820-general-population.json) |
@@ -6251,6 +6252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gump Runner | 29183 | [29183-gump-runner.json](./29183-gump-runner.json) |
 | GumPop! | 380196 | [380196-gumpop.json](./380196-gumpop.json) |
 | Gumshoe | 18834 | [18834-gumshoe.json](./18834-gumshoe.json) |
+| Gumshoe Detective Agency: The First Case | 346629 | [346629-gumshoe-detective-agency-the-first-case.json](./346629-gumshoe-detective-agency-the-first-case.json) |
 | Gumslinger | 138594 | [138594-gumslinger.json](./138594-gumslinger.json) |
 | Gumtrix | 60761 | [60761-gumtrix.json](./60761-gumtrix.json) |
 | Gun | 248547 | [248547-gun.json](./248547-gun.json) |
