@@ -1181,6 +1181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hardware: Rivals | 15695 | [15695-hardware-rivals.json](./15695-hardware-rivals.json) |
 | Hardway Party | 102197 | [102197-hardway-party.json](./102197-hardway-party.json) |
 | Hardway: Endless Road Builder | 98534 | [98534-hardway-endless-road-builder.json](./98534-hardway-endless-road-builder.json) |
+| Hardwired | 346551 | [346551-hardwired.json](./346551-hardwired.json) |
 | Hardwood Backgammon | 20501 | [20501-hardwood-backgammon.json](./20501-hardwood-backgammon.json) |
 | Hardwood Hearts | 20507 | [20507-hardwood-hearts.json](./20507-hardwood-hearts.json) |
 | Hardy Boyz Stunt Challenge | 261205 | [261205-hardy-boyz-stunt-challenge.json](./261205-hardy-boyz-stunt-challenge.json) |
@@ -3483,6 +3484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero-U: Rogue to Redemption | 64359 | [64359-hero-u-rogue-to-redemption.json](./64359-hero-u-rogue-to-redemption.json) |
 | Hero: Flood Rescue | 118428 | [118428-hero-flood-rescue.json](./118428-hero-flood-rescue.json) |
 | Hero's Advent | 361242 | [361242-heros-advent.json](./361242-heros-advent.json) |
+| Hero's Arms | 346633 | [346633-heros-arms.json](./346633-heros-arms.json) |
 | Hero's Delirium | 266758 | [266758-heros-delirium.json](./266758-heros-delirium.json) |
 | Hero's Descent | 74363 | [74363-heros-descent.json](./74363-heros-descent.json) |
 | Hero's Destiny | 396481 | [396481-heros-destiny.json](./396481-heros-destiny.json) |
