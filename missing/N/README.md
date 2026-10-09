@@ -3181,6 +3181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Revenger | 345993 | [345993-ninja-revenger.json](./345993-ninja-revenger.json) |
 | Ninja Rinseout | 323358 | [323358-ninja-rinseout.json](./323358-ninja-rinseout.json) |
 | Ninja Roquinexu | 118224 | [118224-ninja-roquinexu.json](./118224-ninja-roquinexu.json) |
+| Ninja Ruins | 344890 | [344890-ninja-ruins.json](./344890-ninja-ruins.json) |
 | Ninja Run | 129083 | [129083-ninja-run.json](./129083-ninja-run.json) |
 | Ninja Run | 210750 | [210750-ninja-run.json](./210750-ninja-run.json) |
 | Ninja Runner | 233234 | [233234-ninja-runner.json](./233234-ninja-runner.json) |
@@ -4695,6 +4696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nyakori's Rabbit Doll | 130403 | [130403-nyakoris-rabbit-doll.json](./130403-nyakoris-rabbit-doll.json) |
 | Nyakori's Rabbit Doll: After Story | 157552 | [157552-nyakoris-rabbit-doll-after-story.json](./157552-nyakoris-rabbit-doll-after-story.json) |
 | Nyamo's Adventure | 182513 | [182513-nyamos-adventure.json](./182513-nyamos-adventure.json) |
+| Nyan Cat: The Space Journey | 344905 | [344905-nyan-cat-the-space-journey.json](./344905-nyan-cat-the-space-journey.json) |
 | Nyan Nikki | 229663 | [229663-nyan-nikki.json](./229663-nyan-nikki.json) |
 | Nyan Nyan Parasol | 306578 | [306578-nyan-nyan-parasol.json](./306578-nyan-nyan-parasol.json) |
 | Nyan Nyan Tower | 268446 | [268446-nyan-nyan-tower.json](./268446-nyan-nyan-tower.json) |
