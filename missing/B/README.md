@@ -352,6 +352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backrooms Untold | 409746 | [409746-backrooms-untold.json](./409746-backrooms-untold.json) |
 | Backrooms VS | 250942 | [250942-backrooms-vs.json](./250942-backrooms-vs.json) |
 | Backrooms: Between Lost Dimension | 304101 | [304101-backrooms-between-lost-dimension.json](./304101-backrooms-between-lost-dimension.json) |
+| Backrooms: Blackhole | 404886 | [404886-backrooms-blackhole.json](./404886-backrooms-blackhole.json) |
 | Backrooms: Code Yellow | 416594 | [416594-backrooms-code-yellow.json](./416594-backrooms-code-yellow.json) |
 | Backrooms: Duck Escape | 378180 | [378180-backrooms-duck-escape.json](./378180-backrooms-duck-escape.json) |
 | Backrooms: Escape Together | 220348 | [220348-backrooms-escape-together.json](./220348-backrooms-escape-together.json) |
@@ -558,7 +559,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Piggies | 19902 | [19902-bad-piggies.json](./19902-bad-piggies.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -1012,6 +1012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BallRoll | 189184 | [189184-ballroll.json](./189184-ballroll.json) |
 | Ballroom Banter | 388235 | [388235-ballroom-banter.json](./388235-ballroom-banter.json) |
 | Ballroom Bonanza | 246499 | [246499-ballroom-bonanza.json](./246499-ballroom-bonanza.json) |
+| Ballrun | 358270 | [358270-ballrun.json](./358270-ballrun.json) |
 | Balls | 15657 | [15657-balls.json](./15657-balls.json) |
 | Balls | 379996 | [379996-balls.json](./379996-balls.json) |
 | Balls 'n Ropes | 233507 | [233507-balls-n-ropes.json](./233507-balls-n-ropes.json) |
@@ -2117,6 +2118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Alchemy: Autobattler | 275879 | [275879-battle-alchemy-autobattler.json](./275879-battle-alchemy-autobattler.json) |
 | Battle Alliance | 197788 | [197788-battle-alliance.json](./197788-battle-alliance.json) |
 | Battle Arena | 121647 | [121647-battle-arena.json](./121647-battle-arena.json) |
+| Battle Arena | 358274 | [358274-battle-arena.json](./358274-battle-arena.json) |
 | Battle Arena Nitoushinden | 44773 | [44773-battle-arena-nitoushinden.json](./44773-battle-arena-nitoushinden.json) |
 | Battle Arena Toshinden | 217927 | [217927-battle-arena-toshinden.json](./217927-battle-arena-toshinden.json) |
 | Battle Arena Toshinden | 225275 | [225275-battle-arena-toshinden.json](./225275-battle-arena-toshinden.json) |
@@ -2798,6 +2800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bazzle | 231080 | [231080-bazzle.json](./231080-bazzle.json) |
 | BB Adventure | 368823 | [368823-bb-adventure.json](./368823-bb-adventure.json) |
 | BB Ball | 49485 | [49485-bb-ball.json](./49485-bb-ball.json) |
+| BBA Ghost Story: Ward Edition | 358254 | [358254-bba-ghost-story-ward-edition.json](./358254-bba-ghost-story-ward-edition.json) |
 | BBC-rex | 289573 | [289573-bbc-rex.json](./289573-bbc-rex.json) |
 | BBirthday | 232949 | [232949-bbirthday.json](./232949-bbirthday.json) |
 | BBlocks | 109737 | [109737-bblocks.json](./109737-bblocks.json) |
