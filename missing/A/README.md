@@ -5307,6 +5307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anemoiapolis: Chapter 1 | 168855 | [168855-anemoiapolis-chapter-1.json](./168855-anemoiapolis-chapter-1.json) |
 | Anemone | 326056 | [326056-anemone.json](./326056-anemone.json) |
 | Anesthesia | 216468 | [216468-anesthesia.json](./216468-anesthesia.json) |
+| Anesthesia | 385388 | [385388-anesthesia.json](./385388-anesthesia.json) |
 | Anett Futatabi | 5359 | [5359-anett-futatabi.json](./5359-anett-futatabi.json) |
 | Aneurism IV | 297064 | [297064-aneurism-iv.json](./297064-aneurism-iv.json) |
 | Angel Adventures | 238403 | [238403-angel-adventures.json](./238403-angel-adventures.json) |
@@ -9292,6 +9293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | At Night | 377303 | [377303-at-night.json](./377303-at-night.json) |
 | At Night : Freakshow | 406664 | [406664-at-night-freakshow.json](./406664-at-night-freakshow.json) |
 | At Night: The Nurse | 388279 | [388279-at-night-the-nurse.json](./388279-at-night-the-nurse.json) |
+| At Night: The Student | 385371 | [385371-at-night-the-student.json](./385371-at-night-the-student.json) |
 | At Run Time | 411637 | [411637-at-run-time.json](./411637-at-run-time.json) |
 | At Sixes and Sevens | 342771 | [342771-at-sixes-and-sevens.json](./342771-at-sixes-and-sevens.json) |
 | At Sundown: Shots in the Dark | 27998 | [27998-at-sundown-shots-in-the-dark.json](./27998-at-sundown-shots-in-the-dark.json) |
