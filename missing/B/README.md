@@ -2833,6 +2833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Be Kind Rewind | 411148 | [411148-be-kind-rewind.json](./411148-be-kind-rewind.json) |
 | Be Kind To Yourself | 328241 | [328241-be-kind-to-yourself.json](./328241-be-kind-to-yourself.json) |
 | Be King | 254142 | [254142-be-king.json](./254142-be-king.json) |
+| Be King | 372786 | [372786-be-king.json](./372786-be-king.json) |
 | Be Like Pac-Man and the Ghostly Adventures | 185672 | [185672-be-like-pac-man-and-the-ghostly-adventures.json](./185672-be-like-pac-man-and-the-ghostly-adventures.json) |
 | Be Lost | 369099 | [369099-be-lost.json](./369099-be-lost.json) |
 | Be My Princess | 238419 | [238419-be-my-princess.json](./238419-be-my-princess.json) |
@@ -7510,6 +7511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bonfire Kingdom | 260413 | [260413-bonfire-kingdom.json](./260413-bonfire-kingdom.json) |
 | Bonfire Peaks: Complete Edition | 278648 | [278648-bonfire-peaks-complete-edition.json](./278648-bonfire-peaks-complete-edition.json) |
 | Bonfire Peaks: Lost Memories | 203901 | [203901-bonfire-peaks-lost-memories.json](./203901-bonfire-peaks-lost-memories.json) |
+| Bonfire Simulator | 372790 | [372790-bonfire-simulator.json](./372790-bonfire-simulator.json) |
 | Bonfire Stories: Faceless Gravedigger - Collector's Edition | 381374 | [381374-bonfire-stories-faceless-gravedigger-collectors-edition.json](./381374-bonfire-stories-faceless-gravedigger-collectors-edition.json) |
 | Bonfire Stories: Manifest Horror | 417393 | [417393-bonfire-stories-manifest-horror.json](./417393-bonfire-stories-manifest-horror.json) |
 | Bonfire Stories: Manifest Horror - Collector's Edition | 417394 | [417394-bonfire-stories-manifest-horror-collectors-edition.json](./417394-bonfire-stories-manifest-horror-collectors-edition.json) |
@@ -9364,6 +9366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brother Perro | 96867 | [96867-brother-perro.json](./96867-brother-perro.json) |
 | Brother Wake Up | 149696 | [149696-brother-wake-up.json](./149696-brother-wake-up.json) |
 | Brother Wings | 29912 | [29912-brother-wings.json](./29912-brother-wings.json) |
+| Brother, Get the Oats | 372832 | [372832-brother-get-the-oats.json](./372832-brother-get-the-oats.json) |
 | Brotherhood | 275114 | [275114-brotherhood.json](./275114-brotherhood.json) |
 | Brotherhood of Pain | 388937 | [388937-brotherhood-of-pain.json](./388937-brotherhood-of-pain.json) |
 | Brotherhood of Ruin 2024: Element Temple Research Complex | 311464 | [311464-brotherhood-of-ruin-2024-element-temple-research-complex.json](./311464-brotherhood-of-ruin-2024-element-temple-research-complex.json) |
@@ -10301,6 +10304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burglar Inc | 290923 | [290923-burglar-inc.json](./290923-burglar-inc.json) |
 | Burglar X | 40982 | [40982-burglar-x.json](./40982-burglar-x.json) |
 | Burgle Bros | 75825 | [75825-burgle-bros.json](./75825-burgle-bros.json) |
+| Burgle Supply Company | 372804 | [372804-burgle-supply-company.json](./372804-burgle-supply-company.json) |
 | Burial Ground | 375554 | [375554-burial-ground.json](./375554-burial-ground.json) |
 | BuriBoard | 173256 | [173256-buriboard.json](./173256-buriboard.json) |
 | Buried | 380046 | [380046-buried.json](./380046-buried.json) |
