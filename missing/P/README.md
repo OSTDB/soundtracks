@@ -6513,6 +6513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Card GB2: Great Rocket-Dan Sanjou! | 11720 | [11720-pokemon-card-gb2-great-rocket-dan-sanjou.json](./11720-pokemon-card-gb2-great-rocket-dan-sanjou.json) |
 | Pokémon Castaway | 260097 | [260097-pokemon-castaway.json](./260097-pokemon-castaway.json) |
 | Pokémon CAWPS | 129809 | [129809-pokemon-cawps.json](./129809-pokemon-cawps.json) |
+| Pokémon Celebrations | 354397 | [354397-pokemon-celebrations.json](./354397-pokemon-celebrations.json) |
 | Pokémon Cerulean Aquarium | 384837 | [384837-pokemon-cerulean-aquarium.json](./384837-pokemon-cerulean-aquarium.json) |
 | Pokémon Champions | 333568 | [333568-pokemon-champions.json](./333568-pokemon-champions.json) |
 | Pokémon Channel-e: Line Art Card - Jirachi | 354533 | [354533-pokemon-channel-e-line-art-card-jirachi.json](./354533-pokemon-channel-e-line-art-card-jirachi.json) |
@@ -8656,6 +8657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prism | 391823 | [391823-prism.json](./391823-prism.json) |
 | Prism Ark: Awake | 379153 | [379153-prism-ark-awake.json](./379153-prism-ark-awake.json) |
 | Prism Break | 102171 | [102171-prism-break.json](./102171-prism-break.json) |
+| Prism Cross | 354399 | [354399-prism-cross.json](./354399-prism-cross.json) |
 | Prism Crush | 372131 | [372131-prism-crush.json](./372131-prism-crush.json) |
 | Prism Hotel Murder Case: Super Mystery Wars - Episode Conan | 310012 | [310012-prism-hotel-murder-case-super-mystery-wars-episode-conan.json](./310012-prism-hotel-murder-case-super-mystery-wars-episode-conan.json) |
 | Prism Indigo DX | 298242 | [298242-prism-indigo-dx.json](./298242-prism-indigo-dx.json) |
