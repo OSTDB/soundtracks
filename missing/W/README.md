@@ -5032,6 +5032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Tanks: Independence | 121641 | [121641-world-of-tanks-independence.json](./121641-world-of-tanks-independence.json) |
 | World of Tanks: Modern Armor | 296792 | [296792-world-of-tanks-modern-armor.json](./296792-world-of-tanks-modern-armor.json) |
 | World of Tanks: Modern Armor - Ambush From Afar | 332073 | [332073-world-of-tanks-modern-armor-ambush-from-afar.json](./332073-world-of-tanks-modern-armor-ambush-from-afar.json) |
+| World of Tanks: Modern Armor - American Muscle | 333686 | [333686-world-of-tanks-modern-armor-american-muscle.json](./333686-world-of-tanks-modern-armor-american-muscle.json) |
 | World of Tanks: Modern Armor - Damage Under Cover | 332070 | [332070-world-of-tanks-modern-armor-damage-under-cover.json](./332070-world-of-tanks-modern-armor-damage-under-cover.json) |
 | World of Tanks: Modern Armor - Darkness Rising Starter Pack | 332069 | [332069-world-of-tanks-modern-armor-darkness-rising-starter-pack.json](./332069-world-of-tanks-modern-armor-darkness-rising-starter-pack.json) |
 | World of Tanks: Modern Armor - Enhanced Gains | 332072 | [332072-world-of-tanks-modern-armor-enhanced-gains.json](./332072-world-of-tanks-modern-armor-enhanced-gains.json) |
@@ -5041,6 +5042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Tanks: Modern Armor - Metal Dragon | 336938 | [336938-world-of-tanks-modern-armor-metal-dragon.json](./336938-world-of-tanks-modern-armor-metal-dragon.json) |
 | World of Tanks: Modern Armor - Patricia Laserian | 332063 | [332063-world-of-tanks-modern-armor-patricia-laserian.json](./332063-world-of-tanks-modern-armor-patricia-laserian.json) |
 | World of Tanks: Modern Armor - Quick Start | 332057 | [332057-world-of-tanks-modern-armor-quick-start.json](./332057-world-of-tanks-modern-armor-quick-start.json) |
+| World of Tanks: Modern Armor - Ready at the Command | 333687 | [333687-world-of-tanks-modern-armor-ready-at-the-command.json](./333687-world-of-tanks-modern-armor-ready-at-the-command.json) |
 | World of Tanks: Modern Armor - Ready for Combat | 332058 | [332058-world-of-tanks-modern-armor-ready-for-combat.json](./332058-world-of-tanks-modern-armor-ready-for-combat.json) |
 | World of Tanks: Modern Armor - Scout ‘n' Swarm | 332062 | [332062-world-of-tanks-modern-armor-scout-n-swarm.json](./332062-world-of-tanks-modern-armor-scout-n-swarm.json) |
 | World of Tanks: Modern Armor - Super Heavy Hitter | 332534 | [332534-world-of-tanks-modern-armor-super-heavy-hitter.json](./332534-world-of-tanks-modern-armor-super-heavy-hitter.json) |
@@ -5514,6 +5516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wreckateer | 18052 | [18052-wreckateer.json](./18052-wreckateer.json) |
 | Wreckboy | 229632 | [229632-wreckboy.json](./229632-wreckboy.json) |
 | Wreckdigger | 188922 | [188922-wreckdigger.json](./188922-wreckdigger.json) |
+| Wrecked | 333503 | [333503-wrecked.json](./333503-wrecked.json) |
 | Wrecked | 391312 | [391312-wrecked.json](./391312-wrecked.json) |
 | Wrecked Crash Simulator | 114965 | [114965-wrecked-crash-simulator.json](./114965-wrecked-crash-simulator.json) |
 | Wrecked Shot | 314970 | [314970-wrecked-shot.json](./314970-wrecked-shot.json) |
