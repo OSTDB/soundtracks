@@ -5150,6 +5150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pizza Hunt! How to Hunt Pizza (And Not Die Doing It) | 61886 | [61886-pizza-hunt-how-to-hunt-pizza-and-not-die-doing-it.json](./61886-pizza-hunt-how-to-hunt-pizza-and-not-die-doing-it.json) |
 | Pizza Kidd | 217398 | [217398-pizza-kidd.json](./217398-pizza-kidd.json) |
 | Pizza King Fight | 259713 | [259713-pizza-king-fight.json](./259713-pizza-king-fight.json) |
+| Pizza Knight: Out To Deliver | 380766 | [380766-pizza-knight-out-to-deliver.json](./380766-pizza-knight-out-to-deliver.json) |
 | Pizza Man Simulator | 407375 | [407375-pizza-man-simulator.json](./407375-pizza-man-simulator.json) |
 | Pizza Master VR | 131642 | [131642-pizza-master-vr.json](./131642-pizza-master-vr.json) |
 | Pizza Morgana | 70427 | [70427-pizza-morgana.json](./70427-pizza-morgana.json) |
@@ -5796,6 +5797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pleased Aliens | 281648 | [281648-pleased-aliens.json](./281648-pleased-aliens.json) |
 | Pleasure Airlines | 202209 | [202209-pleasure-airlines.json](./202209-pleasure-airlines.json) |
 | Pleasure Climb | 147873 | [147873-pleasure-climb.json](./147873-pleasure-climb.json) |
+| Pleasure Cruise | 380789 | [380789-pleasure-cruise.json](./380789-pleasure-cruise.json) |
 | Pleasure Kingdom | 190075 | [190075-pleasure-kingdom.json](./190075-pleasure-kingdom.json) |
 | Pleasure Party 2 | 262000 | [262000-pleasure-party-2.json](./262000-pleasure-party-2.json) |
 | Pleasure Puzzle:Workshop - Part 1 | 163468 | [163468-pleasure-puzzle-workshop-part-1.json](./163468-pleasure-puzzle-workshop-part-1.json) |
@@ -7702,6 +7704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Potty Painter | 301529 | [301529-potty-painter.json](./301529-potty-painter.json) |
 | Potty Quest | 225768 | [225768-potty-quest.json](./225768-potty-quest.json) |
 | Potty Racers | 269602 | [269602-potty-racers.json](./269602-potty-racers.json) |
+| Pou 3D | 380799 | [380799-pou-3d.json](./380799-pou-3d.json) |
 | Poubelle City | 381359 | [381359-poubelle-city.json](./381359-poubelle-city.json) |
 | Pouch | 340596 | [340596-pouch.json](./340596-pouch.json) |
 | Poultry Party | 341558 | [341558-poultry-party.json](./341558-poultry-party.json) |
@@ -8460,6 +8463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PriPara: All Idol | 285046 | [285046-pripara-all-idol.json](./285046-pripara-all-idol.json) |
 | PriPara: All Idol Perfect Stage | 133394 | [133394-pripara-all-idol-perfect-stage.json](./133394-pripara-all-idol-perfect-stage.json) |
 | PriPara: Awaken! The Goddess' Dress Design! | 177574 | [177574-pripara-awaken-the-goddess-dress-design.json](./177574-pripara-awaken-the-goddess-dress-design.json) |
+| Pripyat 0 | 380771 | [380771-pripyat-0.json](./380771-pripyat-0.json) |
 | Priscillas Dream | 264681 | [264681-priscillas-dream.json](./264681-priscillas-dream.json) |
 | Prism | 290392 | [290392-prism.json](./290392-prism.json) |
 | Prism | 33514 | [33514-prism.json](./33514-prism.json) |
