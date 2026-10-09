@@ -13167,6 +13167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirit Hunters Inc. | 23587 | [23587-spirit-hunters-inc.json](./23587-spirit-hunters-inc.json) |
 | Spirit Hunters Inc. Shadow/Light | 84895 | [84895-spirit-hunters-inc-shadow-light.json](./84895-spirit-hunters-inc-shadow-light.json) |
 | Spirit Island: Horizons of Spirit Island | 254660 | [254660-spirit-island-horizons-of-spirit-island.json](./254660-spirit-island-horizons-of-spirit-island.json) |
+| Spirit Knight | 358815 | [358815-spirit-knight.json](./358815-spirit-knight.json) |
 | Spirit Latte | 364380 | [364380-spirit-latte.json](./364380-spirit-latte.json) |
 | Spirit Legends: Finding Balance - Collector's Edition | 338707 | [338707-spirit-legends-finding-balance-collectors-edition.json](./338707-spirit-legends-finding-balance-collectors-edition.json) |
 | Spirit Legends: Solar Eclipse - Collector's Edition | 338706 | [338706-spirit-legends-solar-eclipse-collectors-edition.json](./338706-spirit-legends-solar-eclipse-collectors-edition.json) |
@@ -13549,6 +13550,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sport Freaks | 45906 | [45906-sport-freaks.json](./45906-sport-freaks.json) |
 | Sport Games | 45603 | [45603-sport-games.json](./45603-sport-games.json) |
 | Sport Girls | 157187 | [157187-sport-girls.json](./157187-sport-girls.json) |
+| Sport Vii | 358825 | [358825-sport-vii.json](./358825-sport-vii.json) |
+| Sport Vii | 358826 | [358826-sport-vii.json](./358826-sport-vii.json) |
+| Sport Vii | 358827 | [358827-sport-vii.json](./358827-sport-vii.json) |
 | Sportaldislexicartaphobia | 376533 | [376533-sportaldislexicartaphobia.json](./376533-sportaldislexicartaphobia.json) |
 | Sportball Challenge | 54394 | [54394-sportball-challenge.json](./54394-sportball-challenge.json) |
 | Sportfischen Professional | 130851 | [130851-sportfischen-professional.json](./130851-sportfischen-professional.json) |
@@ -14436,6 +14440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Ocean: The Last Hope | 7192 | [7192-star-ocean-the-last-hope.json](./7192-star-ocean-the-last-hope.json) |
 | Star of Lemutia | 76541 | [76541-star-of-lemutia.json](./76541-star-of-lemutia.json) |
 | Star of Lemutia: Reborn | 126419 | [126419-star-of-lemutia-reborn.json](./126419-star-of-lemutia-reborn.json) |
+| Star of Providence: Into Oblivion | 358816 | [358816-star-of-providence-into-oblivion.json](./358816-star-of-providence-into-oblivion.json) |
 | Star of Providence: Relics of the Past | 145647 | [145647-star-of-providence-relics-of-the-past.json](./145647-star-of-providence-relics-of-the-past.json) |
 | Star Overdrive | 314935 | [314935-star-overdrive.json](./314935-star-overdrive.json) |
 | Star Paws | 47175 | [47175-star-paws.json](./47175-star-paws.json) |
@@ -14964,6 +14969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StarFighter R&D HD Edition | 134689 | [134689-starfighter-r-and-d-hd-edition.json](./134689-starfighter-r-and-d-hd-edition.json) |
 | Starfighter Renegade | 149226 | [149226-starfighter-renegade.json](./149226-starfighter-renegade.json) |
 | Starfighter: Eclipse | 142958 | [142958-starfighter-eclipse.json](./142958-starfighter-eclipse.json) |
+| Starfinder: Afterlight | 358807 | [358807-starfinder-afterlight.json](./358807-starfinder-afterlight.json) |
 | Starfleet Encounter | 13763 | [13763-starfleet-encounter.json](./13763-starfleet-encounter.json) |
 | Starflight 1+2 | 154450 | [154450-starflight-1-2.json](./154450-starflight-1-2.json) |
 | Starflight II: Trade Routes of the Cloud Nebula | 12777 | [12777-starflight-ii-trade-routes-of-the-cloud-nebula.json](./12777-starflight-ii-trade-routes-of-the-cloud-nebula.json) |
@@ -15314,6 +15320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starship Crafter | 392237 | [392237-starship-crafter.json](./392237-starship-crafter.json) |
 | Starship Defender | 268022 | [268022-starship-defender.json](./268022-starship-defender.json) |
 | Starship Dice | 373195 | [373195-starship-dice.json](./373195-starship-dice.json) |
+| Starship Eleven | 358805 | [358805-starship-eleven.json](./358805-starship-eleven.json) |
 | Starship Eleven Deluxe | 360605 | [360605-starship-eleven-deluxe.json](./360605-starship-eleven-deluxe.json) |
 | Starship Enterprise | 71224 | [71224-starship-enterprise.json](./71224-starship-enterprise.json) |
 | Starship Escape | 57113 | [57113-starship-escape.json](./57113-starship-escape.json) |
@@ -20284,6 +20291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supersports: The Alternative Olympics | 123008 | [123008-supersports-the-alternative-olympics.json](./123008-supersports-the-alternative-olympics.json) |
 | Superspy Steve | 385296 | [385296-superspy-steve.json](./385296-superspy-steve.json) |
 | SuperSquad.GG | 292002 | [292002-supersquad-gg.json](./292002-supersquad-gg.json) |
+| Superstar Archery | 358829 | [358829-superstar-archery.json](./358829-superstar-archery.json) |
 | Superstar Chefs | 57666 | [57666-superstar-chefs.json](./57666-superstar-chefs.json) |
 | SuperStar Ebidan | 373026 | [373026-superstar-ebidan.json](./373026-superstar-ebidan.json) |
 | Superstar Hero | 118775 | [118775-superstar-hero.json](./118775-superstar-hero.json) |
