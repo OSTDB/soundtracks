@@ -4225,6 +4225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medchess | 240781 | [240781-medchess.json](./240781-medchess.json) |
 | MedCorps | 58758 | [58758-medcorps.json](./58758-medcorps.json) |
 | MedEvil | 262289 | [262289-medevil.json](./262289-medevil.json) |
+| Medi-Cooker | 360489 | [360489-medi-cooker.json](./360489-medi-cooker.json) |
 | Media Basket Manager | 415240 | [415240-media-basket-manager.json](./415240-media-basket-manager.json) |
 | Media Circus | 361829 | [361829-media-circus.json](./361829-media-circus.json) |
 | MediAevi | 383479 | [383479-mediaevi.json](./383479-mediaevi.json) |
@@ -5148,6 +5149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memoirs of Murder: Welcome to Hidden Pines | 322578 | [322578-memoirs-of-murder-welcome-to-hidden-pines.json](./322578-memoirs-of-murder-welcome-to-hidden-pines.json) |
 | Memolith: Forsaken by Light | 399744 | [399744-memolith-forsaken-by-light.json](./399744-memolith-forsaken-by-light.json) |
 | Memology | 375957 | [375957-memology.json](./375957-memology.json) |
+| Memology 2: Old Times | 360484 | [360484-memology-2-old-times.json](./360484-memology-2-old-times.json) |
 | Memology: Goyda | 372583 | [372583-memology-goyda.json](./372583-memology-goyda.json) |
 | Memora Wanderer | 298267 | [298267-memora-wanderer.json](./298267-memora-wanderer.json) |
 | Memorabilia | 177412 | [177412-memorabilia.json](./177412-memorabilia.json) |
@@ -7582,6 +7584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Switcher | 412213 | [412213-mini-switcher.json](./412213-mini-switcher.json) |
 | Mini TD | 358424 | [358424-mini-td.json](./358424-mini-td.json) |
 | Mini TD 2: Relax Tower Defense | 305272 | [305272-mini-td-2-relax-tower-defense.json](./305272-mini-td-2-relax-tower-defense.json) |
+| Mini TD 3 | 360499 | [360499-mini-td-3.json](./360499-mini-td-3.json) |
 | Mini Tekton | 120822 | [120822-mini-tekton.json](./120822-mini-tekton.json) |
 | Mini Tennis | 242560 | [242560-mini-tennis.json](./242560-mini-tennis.json) |
 | Mini Tennis Club | 298308 | [298308-mini-tennis-club.json](./298308-mini-tennis-club.json) |
@@ -12606,6 +12609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MyCoke | 64136 | [64136-mycoke.json](./64136-mycoke.json) |
 | Mycopsychosys | 342662 | [342662-mycopsychosys.json](./342662-mycopsychosys.json) |
 | Mycopsychosys: Project Jupiter | 373683 | [373683-mycopsychosys-project-jupiter.json](./373683-mycopsychosys-project-jupiter.json) |
+| Mycopsychosys: Remastered | 360493 | [360493-mycopsychosys-remastered.json](./360493-mycopsychosys-remastered.json) |
 | Mycopunk | 342011 | [342011-mycopunk.json](./342011-mycopunk.json) |
 | MycoRelic | 274470 | [274470-mycorelic.json](./274470-mycorelic.json) |
 | Mycro | 152858 | [152858-mycro.json](./152858-mycro.json) |
