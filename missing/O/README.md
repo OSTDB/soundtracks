@@ -416,6 +416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oden-ya Ninjou Monogatari 3: Seiya ni Kiseki ga Yattekuru | 356260 | [356260-oden-ya-ninjou-monogatari-3-seiya-ni-kiseki-ga-yattekuru.json](./356260-oden-ya-ninjou-monogatari-3-seiya-ni-kiseki-ga-yattekuru.json) |
 | Odenavirus Online | 158516 | [158516-odenavirus-online.json](./158516-odenavirus-online.json) |
 | Odens öga | 304035 | [304035-odens-oga.json](./304035-odens-oga.json) |
+| Odentodo | 366628 | [366628-odentodo.json](./366628-odentodo.json) |
 | Odessa | 333649 | [333649-odessa.json](./333649-odessa.json) |
 | Odezie | 129753 | [129753-odezie.json](./129753-odezie.json) |
 | Odglos | 178486 | [178486-odglos.json](./178486-odglos.json) |
@@ -746,6 +747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oik Memory 3 | 114976 | [114976-oik-memory-3.json](./114976-oik-memory-3.json) |
 | Oik Reloaded | 115809 | [115809-oik-reloaded.json](./115809-oik-reloaded.json) |
 | Oika | 120848 | [120848-oika.json](./120848-oika.json) |
+| Oikizo | 366734 | [366734-oikizo.json](./366734-oikizo.json) |
 | Oil | 96192 | [96192-oil.json](./96192-oil.json) |
 | Oil and Sand | 311172 | [311172-oil-and-sand.json](./311172-oil-and-sand.json) |
 | Oil Baron | 366254 | [366254-oil-baron.json](./366254-oil-baron.json) |
@@ -2316,6 +2318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orbituous | 339908 | [339908-orbituous.json](./339908-orbituous.json) |
 | Orbiz | 30115 | [30115-orbiz.json](./30115-orbiz.json) |
 | Orblike Madness | 258637 | [258637-orblike-madness.json](./258637-orblike-madness.json) |
+| Orbloom | 366741 | [366741-orbloom.json](./366741-orbloom.json) |
 | Orbo | 292822 | [292822-orbo.json](./292822-orbo.json) |
 | Orbo's Exodus | 314907 | [314907-orbos-exodus.json](./314907-orbos-exodus.json) |
 | Orbo's Odyssey | 260493 | [260493-orbos-odyssey.json](./260493-orbos-odyssey.json) |
