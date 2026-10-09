@@ -194,6 +194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bachelor Party | 11128 | [11128-bachelor-party.json](./11128-bachelor-party.json) |
 | Bachelor Party/Gigolo | 79966 | [79966-bachelor-party-gigolo.json](./79966-bachelor-party-gigolo.json) |
 | Bachelorette Party | 313834 | [313834-bachelorette-party.json](./313834-bachelorette-party.json) |
+| Bachi-bachi Pawer | 376882 | [376882-bachi-bachi-pawer.json](./376882-bachi-bachi-pawer.json) |
 | Back | 309502 | [309502-back.json](./309502-back.json) |
 | Back & Forth 2 | 263586 | [263586-back-and-forth-2.json](./263586-back-and-forth-2.json) |
 | Back 2 School | 192417 | [192417-back-2-school.json](./192417-back-2-school.json) |
@@ -5635,6 +5636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blank | 127800 | [127800-blank.json](./127800-blank.json) |
 | Blank Dream | 47005 | [47005-blank-dream.json](./47005-blank-dream.json) |
 | Blank Frame | 181888 | [181888-blank-frame.json](./181888-blank-frame.json) |
+| Blank Light | 376869 | [376869-blank-light.json](./376869-blank-light.json) |
 | Blank Page | 303266 | [303266-blank-page.json](./303266-blank-page.json) |
 | Blank Relish | 292016 | [292016-blank-relish.json](./292016-blank-relish.json) |
 | Blank Relish: Remastered | 298828 | [298828-blank-relish-remastered.json](./298828-blank-relish-remastered.json) |
@@ -6411,6 +6413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood girl | 177854 | [177854-blood-girl.json](./177854-blood-girl.json) |
 | Blood Golf | 264083 | [264083-blood-golf.json](./264083-blood-golf.json) |
 | Blood Harvest | 29565 | [29565-blood-harvest.json](./29565-blood-harvest.json) |
+| Blood High! | 376865 | [376865-blood-high.json](./376865-blood-high.json) |
 | Blood Hunting | 259726 | [259726-blood-hunting.json](./259726-blood-hunting.json) |
 | Blood Idol Wakabayashi | 124676 | [124676-blood-idol-wakabayashi.json](./124676-blood-idol-wakabayashi.json) |
 | Blood II: Revelations | 127929 | [127929-blood-ii-revelations.json](./127929-blood-ii-revelations.json) |
@@ -7676,6 +7679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boomerang RPG | 297248 | [297248-boomerang-rpg.json](./297248-boomerang-rpg.json) |
 | Boomeraxe | 258522 | [258522-boomeraxe.json](./258522-boomeraxe.json) |
 | Boomies | 307256 | [307256-boomies.json](./307256-boomies.json) |
+| Boomliner | 376866 | [376866-boomliner.json](./376866-boomliner.json) |
 | Boomlings | 61067 | [61067-boomlings.json](./61067-boomlings.json) |
 | Boomlings MatchUp | 61066 | [61066-boomlings-matchup.json](./61066-boomlings-matchup.json) |
 | BoomScroll | 400236 | [400236-boomscroll.json](./400236-boomscroll.json) |
@@ -8132,6 +8136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bounty Drag Racing: Pro Mod Pack 1 | 255970 | [255970-bounty-drag-racing-pro-mod-pack-1.json](./255970-bounty-drag-racing-pro-mod-pack-1.json) |
 | Bounty Drag Racing: Pro Mod Pack 2 | 255969 | [255969-bounty-drag-racing-pro-mod-pack-2.json](./255969-bounty-drag-racing-pro-mod-pack-2.json) |
 | Bounty Drag Racing: Pro Mod Pack 3 | 274742 | [274742-bounty-drag-racing-pro-mod-pack-3.json](./274742-bounty-drag-racing-pro-mod-pack-3.json) |
+| Bounty Fusion | 376858 | [376858-bounty-fusion.json](./376858-bounty-fusion.json) |
 | Bounty Hounds | 38471 | [38471-bounty-hounds.json](./38471-bounty-hounds.json) |
 | Bounty Hounds Online | 92495 | [92495-bounty-hounds-online.json](./92495-bounty-hounds-online.json) |
 | Bounty Hunter | 251009 | [251009-bounty-hunter.json](./251009-bounty-hunter.json) |
