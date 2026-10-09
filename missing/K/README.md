@@ -3324,6 +3324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koziolek Matolek idzie do szkoly | 318492 | [318492-koziolek-matolek-idzie-do-szkoly.json](./318492-koziolek-matolek-idzie-do-szkoly.json) |
 | Koziołek Matołek Wynalazca | 135255 | [135255-kozio-ek-mato-ek-wynalazca.json](./135255-kozio-ek-mato-ek-wynalazca.json) |
 | Kozmik Krooz'r | 245279 | [245279-kozmik-kroozr.json](./245279-kozmik-kroozr.json) |
+| Kozomo: The Smoldering Ember | 367825 | [367825-kozomo-the-smoldering-ember.json](./367825-kozomo-the-smoldering-ember.json) |
 | KPatience | 134532 | [134532-kpatience.json](./134532-kpatience.json) |
 | Kpop idol Dress Up | 420670 | [420670-kpop-idol-dress-up.json](./420670-kpop-idol-dress-up.json) |
 | Kpop Love Idol Maker Manager | 297017 | [297017-kpop-love-idol-maker-manager.json](./297017-kpop-love-idol-maker-manager.json) |
