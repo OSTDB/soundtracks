@@ -829,6 +829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cannibal Cookout: Lines | 238982 | [238982-cannibal-cookout-lines.json](./238982-cannibal-cookout-lines.json) |
 | Cannibal Court | 395205 | [395205-cannibal-court.json](./395205-cannibal-court.json) |
 | Cannibal Crossing | 140364 | [140364-cannibal-crossing.json](./140364-cannibal-crossing.json) |
+| Cannibal Harvest | 334645 | [334645-cannibal-harvest.json](./334645-cannibal-harvest.json) |
 | Cannibal Island: Survival | 266780 | [266780-cannibal-island-survival.json](./266780-cannibal-island-survival.json) |
 | Cannibal Tales | 254001 | [254001-cannibal-tales.json](./254001-cannibal-tales.json) |
 | Cannibals and Missionaries | 355524 | [355524-cannibals-and-missionaries.json](./355524-cannibals-and-missionaries.json) |
@@ -1287,6 +1288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Card Crawl 2 | 404815 | [404815-card-crawl-2.json](./404815-card-crawl-2.json) |
 | Card Crunch | 105954 | [105954-card-crunch.json](./105954-card-crunch.json) |
 | Card Cultivation | 369080 | [369080-card-cultivation.json](./369080-card-cultivation.json) |
+| Card Draw | 334643 | [334643-card-draw.json](./334643-card-draw.json) |
 | Card Eater | 406051 | [406051-card-eater.json](./406051-card-eater.json) |
 | Card Escape: Plane Crash | 188113 | [188113-card-escape-plane-crash.json](./188113-card-escape-plane-crash.json) |
 | Card Fable Quest | 334188 | [334188-card-fable-quest.json](./334188-card-fable-quest.json) |
@@ -2208,6 +2210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Clicker | 337840 | [337840-cat-clicker.json](./337840-cat-clicker.json) |
 | Cat Clinic Simulator: Vet Hospital | 364075 | [364075-cat-clinic-simulator-vet-hospital.json](./364075-cat-clinic-simulator-vet-hospital.json) |
 | Cat Cosmic Puzzle | 347317 | [347317-cat-cosmic-puzzle.json](./347317-cat-cosmic-puzzle.json) |
+| Cat Couple | 334804 | [334804-cat-couple.json](./334804-cat-couple.json) |
 | Cat Craft | 404190 | [404190-cat-craft.json](./404190-cat-craft.json) |
 | Cat Crisis | 412438 | [412438-cat-crisis.json](./412438-cat-crisis.json) |
 | Cat Dance | 178007 | [178007-cat-dance.json](./178007-cat-dance.json) |
@@ -8635,6 +8638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corporate Raider: The Pirate of Wall St. | 65571 | [65571-corporate-raider-the-pirate-of-wall-st.json](./65571-corporate-raider-the-pirate-of-wall-st.json) |
 | Corporate Suck Up | 338888 | [338888-corporate-suck-up.json](./338888-corporate-suck-up.json) |
 | Corporation | 57696 | [57696-corporation.json](./57696-corporation.json) |
+| Corporation Inc. | 334726 | [334726-corporation-inc.json](./334726-corporation-inc.json) |
 | Corporation Liberty | 379030 | [379030-corporation-liberty.json](./379030-corporation-liberty.json) |
 | Corporation Master | 55889 | [55889-corporation-master.json](./55889-corporation-master.json) |
 | Corporeal | 365138 | [365138-corporeal.json](./365138-corporeal.json) |
@@ -10038,6 +10042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creepy Races | 44192 | [44192-creepy-races.json](./44192-creepy-races.json) |
 | Creepy Redneck Dinosaur Mansion 1 Re-Raptored | 356682 | [356682-creepy-redneck-dinosaur-mansion-1-re-raptored.json](./356682-creepy-redneck-dinosaur-mansion-1-re-raptored.json) |
 | Creepy Redneck Dinosaur Mansion 3 | 333174 | [333174-creepy-redneck-dinosaur-mansion-3.json](./333174-creepy-redneck-dinosaur-mansion-3.json) |
+| Creepy Shift: House For Sale | 334639 | [334639-creepy-shift-house-for-sale.json](./334639-creepy-shift-house-for-sale.json) |
 | Creepy Shift: Roadside Diner | 319869 | [319869-creepy-shift-roadside-diner.json](./319869-creepy-shift-roadside-diner.json) |
 | Creepy Slots | 395241 | [395241-creepy-slots.json](./395241-creepy-slots.json) |
 | Creepy Support | 345029 | [345029-creepy-support.json](./345029-creepy-support.json) |
