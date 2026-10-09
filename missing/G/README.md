@@ -2555,6 +2555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gilt | 378214 | [378214-gilt.json](./378214-gilt.json) |
 | Gimbal | 16677 | [16677-gimbal.json](./16677-gimbal.json) |
 | Gimbal Gravity | 82450 | [82450-gimbal-gravity.json](./82450-gimbal-gravity.json) |
+| Gimlé Trials | 335231 | [335231-gimle-trials.json](./335231-gimle-trials.json) |
 | Gimle: The Broken Prophecy | 180020 | [180020-gimle-the-broken-prophecy.json](./180020-gimle-the-broken-prophecy.json) |
 | Gimme a Break: Shijou Saikyou no Quiz-ou Ketteisen | 267651 | [267651-gimme-a-break-shijou-saikyou-no-quiz-ou-ketteisen.json](./267651-gimme-a-break-shijou-saikyou-no-quiz-ou-ketteisen.json) |
 | Gimme a Break: Shijou Saikyou no Quiz-ou Ketteisen 2 | 267652 | [267652-gimme-a-break-shijou-saikyou-no-quiz-ou-ketteisen-2.json](./267652-gimme-a-break-shijou-saikyou-no-quiz-ou-ketteisen-2.json) |
@@ -5986,6 +5987,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guardians of Gold | 90223 | [90223-guardians-of-gold.json](./90223-guardians-of-gold.json) |
 | Guardians of Graxia: Elves & Dwarves | 170320 | [170320-guardians-of-graxia-elves-and-dwarves.json](./170320-guardians-of-graxia-elves-and-dwarves.json) |
 | Guardians of Greyrock | 151034 | [151034-guardians-of-greyrock.json](./151034-guardians-of-greyrock.json) |
+| Guardians of Greyrock: Card Pack - Ancient Necropolis | 335312 | [335312-guardians-of-greyrock-card-pack-ancient-necropolis.json](./335312-guardians-of-greyrock-card-pack-ancient-necropolis.json) |
+| Guardians of Greyrock: Card Pack - Frozen Peak Pass | 335313 | [335313-guardians-of-greyrock-card-pack-frozen-peak-pass.json](./335313-guardians-of-greyrock-card-pack-frozen-peak-pass.json) |
+| Guardians of Greyrock: Card Pack - Illwater Marsh | 335311 | [335311-guardians-of-greyrock-card-pack-illwater-marsh.json](./335311-guardians-of-greyrock-card-pack-illwater-marsh.json) |
+| Guardians of Greyrock: Card Pack - Summoner's Henge | 335315 | [335315-guardians-of-greyrock-card-pack-summoners-henge.json](./335315-guardians-of-greyrock-card-pack-summoners-henge.json) |
+| Guardians of Greyrock: Card Pack - Sunfall Vale | 335309 | [335309-guardians-of-greyrock-card-pack-sunfall-vale.json](./335309-guardians-of-greyrock-card-pack-sunfall-vale.json) |
+| Guardians of Greyrock: Card Pack - The Dying Forest | 335310 | [335310-guardians-of-greyrock-card-pack-the-dying-forest.json](./335310-guardians-of-greyrock-card-pack-the-dying-forest.json) |
+| Guardians of Greyrock: Card Pack - Traps And Treasure | 335314 | [335314-guardians-of-greyrock-card-pack-traps-and-treasure.json](./335314-guardians-of-greyrock-card-pack-traps-and-treasure.json) |
 | Guardians of Lodino Forest | 138672 | [138672-guardians-of-lodino-forest.json](./138672-guardians-of-lodino-forest.json) |
 | Guardians of Magic: Amanda's Awakening | 19315 | [19315-guardians-of-magic-amandas-awakening.json](./19315-guardians-of-magic-amandas-awakening.json) |
 | Guardians of Middle Earth: Mithril Edition | 53068 | [53068-guardians-of-middle-earth-mithril-edition.json](./53068-guardians-of-middle-earth-mithril-edition.json) |
