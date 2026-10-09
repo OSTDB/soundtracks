@@ -1497,6 +1497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Save The Planets: Meteor Storm | 263565 | [263565-save-the-planets-meteor-storm.json](./263565-save-the-planets-meteor-storm.json) |
 | Save the Princess? Save a Fart! | 405464 | [405464-save-the-princess-save-a-fart.json](./405464-save-the-princess-save-a-fart.json) |
 | Save the Puppy: Pet Dog Rescue | 221384 | [221384-save-the-puppy-pet-dog-rescue.json](./221384-save-the-puppy-pet-dog-rescue.json) |
+| Save The Queen | 343783 | [343783-save-the-queen.json](./343783-save-the-queen.json) |
 | Save the Reactor | 190174 | [190174-save-the-reactor.json](./190174-save-the-reactor.json) |
 | Save the Shapes | 380604 | [380604-save-the-shapes.json](./380604-save-the-shapes.json) |
 | Save the Teenies | 256227 | [256227-save-the-teenies.json](./256227-save-the-teenies.json) |
@@ -1651,6 +1652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scaredy Cat | 296348 | [296348-scaredy-cat.json](./296348-scaredy-cat.json) |
 | Scares on Halloween | 123601 | [123601-scares-on-halloween.json](./123601-scares-on-halloween.json) |
 | Scarf | 106836 | [106836-scarf.json](./106836-scarf.json) |
+| Scarf | 343774 | [343774-scarf.json](./343774-scarf.json) |
 | Scarface: The World Is Yours | 5139 | [5139-scarface-the-world-is-yours.json](./5139-scarface-the-world-is-yours.json) |
 | Scarfinger | 41495 | [41495-scarfinger.json](./41495-scarfinger.json) |
 | Scarlet 7: The Mightiest Women | 70930 | [70930-scarlet-7-the-mightiest-women.json](./70930-scarlet-7-the-mightiest-women.json) |
@@ -5193,6 +5195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shinrei Gakkou kara no Dasshutsu | 150130 | [150130-shinrei-gakkou-kara-no-dasshutsu.json](./150130-shinrei-gakkou-kara-no-dasshutsu.json) |
 | Shinrei Jusatsushi Taroumaru | 45456 | [45456-shinrei-jusatsushi-taroumaru.json](./45456-shinrei-jusatsushi-taroumaru.json) |
 | Shinreigari: Ghost Hound DS | 123408 | [123408-shinreigari-ghost-hound-ds.json](./123408-shinreigari-ghost-hound-ds.json) |
+| Shinrin-yoku: Forest Meditation and Relaxation | 343764 | [343764-shinrin-yoku-forest-meditation-and-relaxation.json](./343764-shinrin-yoku-forest-meditation-and-relaxation.json) |
 | Shinsei Project: Collapse | 364658 | [364658-shinsei-project-collapse.json](./364658-shinsei-project-collapse.json) |
 | Shinseiden Megaseed: Fukkatsu-hen | 261299 | [261299-shinseiden-megaseed-fukkatsu-hen.json](./261299-shinseiden-megaseed-fukkatsu-hen.json) |
 | Shinseiki Evangelion Mahjong Hokan Keikaku | 61676 | [61676-shinseiki-evangelion-mahjong-hokan-keikaku.json](./61676-shinseiki-evangelion-mahjong-hokan-keikaku.json) |
@@ -11853,6 +11856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Jelly | 297479 | [297479-space-jelly.json](./297479-space-jelly.json) |
 | Space Jet: War Galaxy Machines | 88633 | [88633-space-jet-war-galaxy-machines.json](./88633-space-jet-war-galaxy-machines.json) |
 | Space Jones VR | 31816 | [31816-space-jones-vr.json](./31816-space-jones-vr.json) |
+| Space Journey | 343777 | [343777-space-journey.json](./343777-space-journey.json) |
 | Space Jump Cat | 111586 | [111586-space-jump-cat.json](./111586-space-jump-cat.json) |
 | Space Junk | 179541 | [179541-space-junk.json](./179541-space-junk.json) |
 | Space Junk Rage | 180041 | [180041-space-junk-rage.json](./180041-space-junk-rage.json) |
@@ -14467,6 +14471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star General | 74087 | [74087-star-general.json](./74087-star-general.json) |
 | Star Ghost | 58873 | [58873-star-ghost.json](./58873-star-ghost.json) |
 | Star Girls | 118075 | [118075-star-girls.json](./118075-star-girls.json) |
+| Star Girls | 343757 | [343757-star-girls.json](./343757-star-girls.json) |
 | Star Gladiator Episode I: Final Crusade | 14680 | [14680-star-gladiator-episode-i-final-crusade.json](./14680-star-gladiator-episode-i-final-crusade.json) |
 | Star Gods | 125417 | [125417-star-gods.json](./125417-star-gods.json) |
 | Star Goose! | 13083 | [13083-star-goose.json](./13083-star-goose.json) |
