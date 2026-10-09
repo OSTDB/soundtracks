@@ -2652,6 +2652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epigraph | 287857 | [287857-epigraph.json](./287857-epigraph.json) |
 | Epikos | 124585 | [124585-epikos.json](./124585-epikos.json) |
 | Epilepson in the Great Meadow | 403552 | [403552-epilepson-in-the-great-meadow.json](./403552-epilepson-in-the-great-meadow.json) |
+| Epilogue | 356027 | [356027-epilogue.json](./356027-epilogue.json) |
 | Epimutation | 338835 | [338835-epimutation.json](./338835-epimutation.json) |
 | Epiphany | 181201 | [181201-epiphany.json](./181201-epiphany.json) |
 | Epiphany in Spaaace! | 66356 | [66356-epiphany-in-spaaace.json](./66356-epiphany-in-spaaace.json) |
