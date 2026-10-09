@@ -2476,6 +2476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nicole | 62592 | [62592-nicole.json](./62592-nicole.json) |
 | Nicotine Merchant Simulator | 415193 | [415193-nicotine-merchant-simulator.json](./415193-nicotine-merchant-simulator.json) |
 | Nictheroy | 154031 | [154031-nictheroy.json](./154031-nictheroy.json) |
+| Nidavelir2 | 362726 | [362726-nidavelir2.json](./362726-nidavelir2.json) |
 | Nidhogg | 5551 | [5551-nidhogg.json](./5551-nidhogg.json) |
 | Nidhogg 2 | 24482 | [24482-nidhogg-2.json](./24482-nidhogg-2.json) |
 | Nidia | 57189 | [57189-nidia.json](./57189-nidia.json) |
@@ -4225,6 +4226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Not Your Eyes | 156660 | [156660-not-your-eyes.json](./156660-not-your-eyes.json) |
 | Not Your Mind | 201104 | [201104-not-your-mind.json](./201104-not-your-mind.json) |
 | Notch: The Innocent LunA - Eclipsed SinnerS | 17877 | [17877-notch-the-innocent-luna-eclipsed-sinners.json](./17877-notch-the-innocent-luna-eclipsed-sinners.json) |
+| NotChess | 362748 | [362748-notchess.json](./362748-notchess.json) |
 | NotCoD | 33686 | [33686-notcod.json](./33686-notcod.json) |
 | Note Fighter | 110252 | [110252-note-fighter.json](./110252-note-fighter.json) |
 | Note of Janus | 211158 | [211158-note-of-janus.json](./211158-note-of-janus.json) |
@@ -4505,6 +4507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Null Vector | 55710 | [55710-null-vector.json](./55710-null-vector.json) |
 | Null.Process | 358844 | [358844-null-process.json](./358844-null-process.json) |
 | Nullis | 391314 | [391314-nullis.json](./391314-nullis.json) |
+| Nullpoint Crisis | 362744 | [362744-nullpoint-crisis.json](./362744-nullpoint-crisis.json) |
 | Nullptr | 158234 | [158234-nullptr.json](./158234-nullptr.json) |
 | Nüllptr | 181675 | [181675-nullptr.json](./181675-nullptr.json) |
 | Nullschwert | 258419 | [258419-nullschwert.json](./258419-nullschwert.json) |
