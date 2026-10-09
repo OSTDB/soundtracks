@@ -535,6 +535,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vanishing Realms | 18694 | [18694-vanishing-realms.json](./18694-vanishing-realms.json) |
 | Vanishing Realms: The Sundered Rift | 167244 | [167244-vanishing-realms-the-sundered-rift.json](./167244-vanishing-realms-the-sundered-rift.json) |
 | Vanity | 273650 | [273650-vanity.json](./273650-vanity.json) |
+| Vanity: Fighter Skin | 380206 | [380206-vanity-fighter-skin.json](./380206-vanity-fighter-skin.json) |
+| Vanity: Military Skin | 380208 | [380208-vanity-military-skin.json](./380208-vanity-military-skin.json) |
+| Vanity: Suit Skin | 380205 | [380205-vanity-suit-skin.json](./380205-vanity-suit-skin.json) |
+| Vanity: Unlock All Characters | 380207 | [380207-vanity-unlock-all-characters.json](./380207-vanity-unlock-all-characters.json) |
 | Vanquish | 220716 | [220716-vanquish.json](./220716-vanquish.json) |
 | Vanquish | 3218 | [3218-vanquish.json](./3218-vanquish.json) |
 | Vanquish Evil | 349317 | [349317-vanquish-evil.json](./349317-vanquish-evil.json) |
