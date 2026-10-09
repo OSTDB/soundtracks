@@ -5771,6 +5771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Platform | 316717 | [316717-platform.json](./316717-platform.json) |
 | Platform 10 | 271384 | [271384-platform-10.json](./271384-platform-10.json) |
 | Platform 4 | 326257 | [326257-platform-4.json](./326257-platform-4.json) |
+| Platform 5 Dungeons | 337128 | [337128-platform-5-dungeons.json](./337128-platform-5-dungeons.json) |
 | Platform 6 Online | 379004 | [379004-platform-6-online.json](./379004-platform-6-online.json) |
 | Platform 8 | 295570 | [295570-platform-8.json](./295570-platform-8.json) |
 | Platform 9: No Way Out | 324129 | [324129-platform-9-no-way-out.json](./324129-platform-9-no-way-out.json) |
@@ -7496,6 +7497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poop Clicker | 195625 | [195625-poop-clicker.json](./195625-poop-clicker.json) |
 | Poop Collector | 196169 | [196169-poop-collector.json](./196169-poop-collector.json) |
 | Poop Collector: Number 2 | 245282 | [245282-poop-collector-number-2.json](./245282-poop-collector-number-2.json) |
+| Poop Deck Draw Down | 337143 | [337143-poop-deck-draw-down.json](./337143-poop-deck-draw-down.json) |
 | Poop Fiction | 302129 | [302129-poop-fiction.json](./302129-poop-fiction.json) |
 | Poop Killer | 222320 | [222320-poop-killer.json](./222320-poop-killer.json) |
 | Poop Killer 4 | 229831 | [229831-poop-killer-4.json](./229831-poop-killer-4.json) |
@@ -9768,6 +9770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project: X Insurrection | 147292 | [147292-project-x-insurrection.json](./147292-project-x-insurrection.json) |
 | Project: XD | 196595 | [196595-project-xd.json](./196595-project-xd.json) |
 | Project: Youtuber | 147301 | [147301-project-youtuber.json](./147301-project-youtuber.json) |
+| Project:; Cold Case.Mirage | 337066 | [337066-project-cold-case-mirage.json](./337066-project-cold-case-mirage.json) |
 | Project:Pong | 149440 | [149440-project-pong.json](./149440-project-pong.json) |
 | Project+ | 131887 | [131887-project.json](./131887-project.json) |
 | Project0 | 297190 | [297190-project0.json](./297190-project0.json) |
