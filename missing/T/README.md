@@ -7370,6 +7370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Premiere | 213422 | [213422-the-last-premiere.json](./213422-the-last-premiere.json) |
 | The Last Prompt | 342179 | [342179-the-last-prompt.json](./342179-the-last-prompt.json) |
 | The Last Purge | 359360 | [359360-the-last-purge.json](./359360-the-last-purge.json) |
+| The Last Pussy: Survival Lesson | 349275 | [349275-the-last-pussy-survival-lesson.json](./349275-the-last-pussy-survival-lesson.json) |
 | The Last Queen in the Wizard Kingdom | 156184 | [156184-the-last-queen-in-the-wizard-kingdom.json](./156184-the-last-queen-in-the-wizard-kingdom.json) |
 | The Last Quest | 185158 | [185158-the-last-quest.json](./185158-the-last-quest.json) |
 | The Last Refuge | 324329 | [324329-the-last-refuge.json](./324329-the-last-refuge.json) |
