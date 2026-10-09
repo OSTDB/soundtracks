@@ -1675,6 +1675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haven: The Leader | 298292 | [298292-haven-the-leader.json](./298292-haven-the-leader.json) |
 | Haven's Compass | 259161 | [259161-havens-compass.json](./259161-havens-compass.json) |
 | Haven's Embers | 190970 | [190970-havens-embers.json](./190970-havens-embers.json) |
+| HavenFlower: Regrets Of | 380219 | [380219-havenflower-regrets-of.json](./380219-havenflower-regrets-of.json) |
 | Havenhold | 204445 | [204445-havenhold.json](./204445-havenhold.json) |
 | Havenview | 219814 | [219814-havenview.json](./219814-havenview.json) |
 | Havoc | 13873 | [13873-havoc.json](./13873-havoc.json) |
@@ -5313,6 +5314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Home Babysitter | 83265 | [83265-home-babysitter.json](./83265-home-babysitter.json) |
 | Home Before Dark | 183360 | [183360-home-before-dark.json](./183360-home-before-dark.json) |
 | Home Construction Sim | 294965 | [294965-home-construction-sim.json](./294965-home-construction-sim.json) |
+| Home Cooked Spaghetti Western | 380200 | [380200-home-cooked-spaghetti-western.json](./380200-home-cooked-spaghetti-western.json) |
 | Home Darkness: Escape | 76710 | [76710-home-darkness-escape.json](./76710-home-darkness-escape.json) |
 | Home Deco Builder | 334096 | [334096-home-deco-builder.json](./334096-home-deco-builder.json) |
 | Home Defender | 158635 | [158635-home-defender.json](./158635-home-defender.json) |
@@ -7278,6 +7280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyper Chess | 353916 | [353916-hyper-chess.json](./353916-hyper-chess.json) |
 | Hyper Danganronpa Melancholy | 304342 | [304342-hyper-danganronpa-melancholy.json](./304342-hyper-danganronpa-melancholy.json) |
 | Hyper Demon | 218183 | [218183-hyper-demon.json](./218183-hyper-demon.json) |
+| Hyper Detonator | 380198 | [380198-hyper-detonator.json](./380198-hyper-detonator.json) |
 | Hyper Dimensional Basement Crawler | 177944 | [177944-hyper-dimensional-basement-crawler.json](./177944-hyper-dimensional-basement-crawler.json) |
 | Hyper Dimensional Dynamo | 183919 | [183919-hyper-dimensional-dynamo.json](./183919-hyper-dimensional-dynamo.json) |
 | Hyper DOS | 183327 | [183327-hyper-dos.json](./183327-hyper-dos.json) |
