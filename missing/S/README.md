@@ -72,6 +72,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | S.O.V.A. | 421327 | [421327-s-o-v-a.json](./421327-s-o-v-a.json) |
 | S.P.I.C.E Arena | 96829 | [96829-s-p-i-c-e-arena.json](./96829-s-p-i-c-e-arena.json) |
 | S.P.L.I.C.E.D. | 255847 | [255847-s-p-l-i-c-e-d.json](./255847-s-p-l-i-c-e-d.json) |
+| S.P.L.O.S.H | 366707 | [366707-s-p-l-o-s-h.json](./366707-s-p-l-o-s-h.json) |
 | S.Q. Sound Qube | 230505 | [230505-s-q-sound-qube.json](./230505-s-q-sound-qube.json) |
 | S.R.A | 369367 | [369367-s-r-a.json](./369367-s-r-a.json) |
 | S.R.D. Mission | 40418 | [40418-s-r-d-mission.json](./40418-s-r-d-mission.json) |
@@ -7256,6 +7257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skibidi | 329090 | [329090-skibidi.json](./329090-skibidi.json) |
 | Skibidi Backrooms | 273427 | [273427-skibidi-backrooms.json](./273427-skibidi-backrooms.json) |
 | Skibidi Battle: Toilets Attack | 257581 | [257581-skibidi-battle-toilets-attack.json](./257581-skibidi-battle-toilets-attack.json) |
+| Skibidi Jeffrey: I Want to Cum Inside Femboy Hitler | 366629 | [366629-skibidi-jeffrey-i-want-to-cum-inside-femboy-hitler.json](./366629-skibidi-jeffrey-i-want-to-cum-inside-femboy-hitler.json) |
 | Skibidi Mahr Simulator 64 | 339822 | [339822-skibidi-mahr-simulator-64.json](./339822-skibidi-mahr-simulator-64.json) |
 | Skibidi Mahrt Kart: TrackMahrnia | 376088 | [376088-skibidi-mahrt-kart-trackmahrnia.json](./376088-skibidi-mahrt-kart-trackmahrnia.json) |
 | Skibidi Revenge | 336601 | [336601-skibidi-revenge.json](./336601-skibidi-revenge.json) |
@@ -8683,6 +8685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smurfs' Village | 234053 | [234053-smurfs-village.json](./234053-smurfs-village.json) |
 | Smush | 119028 | [119028-smush.json](./119028-smush.json) |
 | Smush.TV | 111707 | [111707-smush-tv.json](./111707-smush-tv.json) |
+| Smuta: Zov serdtsa | 366715 | [366715-smuta-zov-serdtsa.json](./366715-smuta-zov-serdtsa.json) |
 | SMW | 250505 | [250505-smw.json](./250505-smw.json) |
 | SMW Quest for Gaming | 267950 | [267950-smw-quest-for-gaming.json](./267950-smw-quest-for-gaming.json) |
 | SMW The Crown Tale | 267957 | [267957-smw-the-crown-tale.json](./267957-smw-the-crown-tale.json) |
@@ -15345,6 +15348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Static | 179570 | [179570-static.json](./179570-static.json) |
 | Static | 333637 | [333637-static.json](./333637-static.json) |
 | Static | 94914 | [94914-static.json](./94914-static.json) |
+| Static Boy | 366745 | [366745-static-boy.json](./366745-static-boy.json) |
 | Static Cling | 182519 | [182519-static-cling.json](./182519-static-cling.json) |
 | Static Condition | 393102 | [393102-static-condition.json](./393102-static-condition.json) |
 | Static Dread: The Lighthouse | 330815 | [330815-static-dread-the-lighthouse.json](./330815-static-dread-the-lighthouse.json) |
