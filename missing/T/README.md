@@ -4165,6 +4165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Box | 289568 | [289568-the-box.json](./289568-the-box.json) |
 | The Box Code | 139188 | [139188-the-box-code.json](./139188-the-box-code.json) |
 | The Box Game | 203550 | [203550-the-box-game.json](./203550-the-box-game.json) |
+| The Box of Horrors | 342100 | [342100-the-box-of-horrors.json](./342100-the-box-of-horrors.json) |
 | The Boy and his Story | 369463 | [369463-the-boy-and-his-story.json](./369463-the-boy-and-his-story.json) |
 | The Boy With Bombs | 61122 | [61122-the-boy-with-bombs.json](./61122-the-boy-with-bombs.json) |
 | The Boyd File | 58826 | [58826-the-boyd-file.json](./58826-the-boyd-file.json) |
@@ -5415,6 +5416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Empress: Awakening | 255851 | [255851-the-empress-awakening.json](./255851-the-empress-awakening.json) |
 | The Emptiness | 139431 | [139431-the-emptiness.json](./139431-the-emptiness.json) |
 | The Empty Desk | 333612 | [333612-the-empty-desk.json](./333612-the-empty-desk.json) |
+| The Empty House: A Dementia Interactive Experience | 342014 | [342014-the-empty-house-a-dementia-interactive-experience.json](./342014-the-empty-house-a-dementia-interactive-experience.json) |
 | The Empty Turnabout | 303252 | [303252-the-empty-turnabout.json](./303252-the-empty-turnabout.json) |
 | The Enchanted Books | 88172 | [88172-the-enchanted-books.json](./88172-the-enchanted-books.json) |
 | The Enchanted Cave | 197696 | [197696-the-enchanted-cave.json](./197696-the-enchanted-cave.json) |
@@ -14891,6 +14893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokachi Detective: The Balloon Case | 342889 | [342889-tokachi-detective-the-balloon-case.json](./342889-tokachi-detective-the-balloon-case.json) |
 | Tokage Metro GB | 349947 | [349947-tokage-metro-gb.json](./349947-tokage-metro-gb.json) |
 | Tokatonton: One-Armed Blacksmith | 368606 | [368606-tokatonton-one-armed-blacksmith.json](./368606-tokatonton-one-armed-blacksmith.json) |
+| Tokei | 342004 | [342004-tokei.json](./342004-tokei.json) |
 | Tokeijikake no Apocalypse | 222204 | [222204-tokeijikake-no-apocalypse.json](./222204-tokeijikake-no-apocalypse.json) |
 | Token Game | 169753 | [169753-token-game.json](./169753-token-game.json) |
 | Tokens | 394444 | [394444-tokens.json](./394444-tokens.json) |
