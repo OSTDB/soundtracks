@@ -4061,6 +4061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Blood of Dawnwalker: Day 1 Edition | 416088 | [416088-the-blood-of-dawnwalker-day-1-edition.json](./416088-the-blood-of-dawnwalker-day-1-edition.json) |
 | The Blood's Way | 364501 | [364501-the-bloods-way.json](./364501-the-bloods-way.json) |
 | The Bloody Cross | 342648 | [342648-the-bloody-cross.json](./342648-the-bloody-cross.json) |
+| The Bloom Between | 364370 | [364370-the-bloom-between.json](./364370-the-bloom-between.json) |
 | The Blue Bedroom | 180847 | [180847-the-blue-bedroom.json](./180847-the-blue-bedroom.json) |
 | The Blue Box | 99686 | [99686-the-blue-box.json](./99686-the-blue-box.json) |
 | The Blue Chamber | 247540 | [247540-the-blue-chamber.json](./247540-the-blue-chamber.json) |
@@ -5715,6 +5716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Final Exam | 318637 | [318637-the-final-exam.json](./318637-the-final-exam.json) |
 | The Final Exhibition | 245862 | [245862-the-final-exhibition.json](./245862-the-final-exhibition.json) |
 | The Final Fantasy Legend | 396 | [396-the-final-fantasy-legend.json](./396-the-final-fantasy-legend.json) |
+| The Final Fantasy Legend DX | 364394 | [364394-the-final-fantasy-legend-dx.json](./364394-the-final-fantasy-legend-dx.json) |
 | The Final Flame | 365808 | [365808-the-final-flame.json](./365808-the-final-flame.json) |
 | The Final Front | 382440 | [382440-the-final-front.json](./382440-the-final-front.json) |
 | The Final Heist | 184640 | [184640-the-final-heist.json](./184640-the-final-heist.json) |
@@ -10214,6 +10216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Space Adventure | 71472 | [71472-the-space-adventure.json](./71472-the-space-adventure.json) |
 | The Space Ark | 78614 | [78614-the-space-ark.json](./78614-the-space-ark.json) |
 | The Space Between | 378418 | [378418-the-space-between.json](./378418-the-space-between.json) |
+| The Space Between Stars | 364379 | [364379-the-space-between-stars.json](./364379-the-space-between-stars.json) |
 | The Space Opera "Dragon Eyes" | 125954 | [125954-the-space-opera-dragon-eyes.json](./125954-the-space-opera-dragon-eyes.json) |
 | The Space Sim | 179057 | [179057-the-space-sim.json](./179057-the-space-sim.json) |
 | The Spark of One | 135064 | [135064-the-spark-of-one.json](./135064-the-spark-of-one.json) |
@@ -11778,6 +11781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TheHunter: Call of the Wild - Weapon Pack 3 | 206800 | [206800-thehunter-call-of-the-wild-weapon-pack-3.json](./206800-thehunter-call-of-the-wild-weapon-pack-3.json) |
 | TheHunter: Call of the Wild - Wild Goose Chase Gear | 206816 | [206816-thehunter-call-of-the-wild-wild-goose-chase-gear.json](./206816-thehunter-call-of-the-wild-wild-goose-chase-gear.json) |
 | TheHunter: Primal | 10347 | [10347-thehunter-primal.json](./10347-thehunter-primal.json) |
+| Their Aftermath | 364386 | [364386-their-aftermath.json](./364386-their-aftermath.json) |
 | Their Eyes | 166000 | [166000-their-eyes.json](./166000-their-eyes.json) |
 | Their Finest Hour: The Battle of Britain | 208 | [208-their-finest-hour-the-battle-of-britain.json](./208-their-finest-hour-the-battle-of-britain.json) |
 | Their Majesties' Pleasure | 250993 | [250993-their-majesties-pleasure.json](./250993-their-majesties-pleasure.json) |
@@ -18739,6 +18743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tropical Trouble | 18589 | [18589-tropical-trouble.json](./18589-tropical-trouble.json) |
 | Tropicalia | 138612 | [138612-tropicalia.json](./138612-tropicalia.json) |
 | Tropicats | 120227 | [120227-tropicats.json](./120227-tropicats.json) |
+| TropicHell | 364371 | [364371-tropichell.json](./364371-tropichell.json) |
 | Tropico | 104248 | [104248-tropico.json](./104248-tropico.json) |
 | Tropico 3: Absolute Power | 8926 | [8926-tropico-3-absolute-power.json](./8926-tropico-3-absolute-power.json) |
 | Tropico 4 Collector's Bundle | 50872 | [50872-tropico-4-collectors-bundle.json](./50872-tropico-4-collectors-bundle.json) |
@@ -19662,6 +19667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TwinBee | 4623 | [4623-twinbee.json](./4623-twinbee.json) |
 | TwinBee Complete Edition | 282653 | [282653-twinbee-complete-edition.json](./282653-twinbee-complete-edition.json) |
 | TwinBee Da!! | 282567 | [282567-twinbee-da.json](./282567-twinbee-da.json) |
+| TwinBee Deluxe Edition | 364393 | [364393-twinbee-deluxe-edition.json](./364393-twinbee-deluxe-edition.json) |
 | TwinBee Portable | 42767 | [42767-twinbee-portable.json](./42767-twinbee-portable.json) |
 | TwinBee RPG | 149977 | [149977-twinbee-rpg.json](./149977-twinbee-rpg.json) |
 | TwinBee Taisen Puzzle-Dama | 71701 | [71701-twinbee-taisen-puzzle-dama.json](./71701-twinbee-taisen-puzzle-dama.json) |
