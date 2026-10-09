@@ -1019,6 +1019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Necromantic | 298651 | [298651-necromantic.json](./298651-necromantic.json) |
 | NecroMarch | 415899 | [415899-necromarch.json](./415899-necromarch.json) |
 | Necromasser | 56311 | [56311-necromasser.json](./56311-necromasser.json) |
+| Necromental | 363318 | [363318-necromental.json](./363318-necromental.json) |
 | NecroMerger | 200549 | [200549-necromerger.json](./200549-necromerger.json) |
 | Necromonads | 34743 | [34743-necromonads.json](./34743-necromonads.json) |
 | Necromunda: Hired Gun - Gang Wars Cosmetics Bundle | 223535 | [223535-necromunda-hired-gun-gang-wars-cosmetics-bundle.json](./223535-necromunda-hired-gun-gang-wars-cosmetics-bundle.json) |
@@ -3762,6 +3763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nocko | 157004 | [157004-nocko.json](./157004-nocko.json) |
 | Nocky el Armadillo | 372048 | [372048-nocky-el-armadillo.json](./372048-nocky-el-armadillo.json) |
 | Noct | 12978 | [12978-noct.json](./12978-noct.json) |
+| Noctambulo | 363279 | [363279-noctambulo.json](./363279-noctambulo.json) |
 | Noctem | 169754 | [169754-noctem.json](./169754-noctem.json) |
 | Noctiria | 409759 | [409759-noctiria.json](./409759-noctiria.json) |
 | Noctropolis | 243766 | [243766-noctropolis.json](./243766-noctropolis.json) |
