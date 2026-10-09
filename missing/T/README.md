@@ -621,6 +621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Takeout | 306368 | [306368-takeout.json](./306368-takeout.json) |
 | Takeout food | 107902 | [107902-takeout-food.json](./107902-takeout-food.json) |
 | Takeover | 304587 | [304587-takeover.json](./304587-takeover.json) |
+| Takeover | 360505 | [360505-takeover.json](./360505-takeover.json) |
 | Takeover | 405600 | [405600-takeover.json](./405600-takeover.json) |
 | Takeover Trail | 395577 | [395577-takeover-trail.json](./395577-takeover-trail.json) |
 | Takepoint.io | 194571 | [194571-takepoint-io.json](./194571-takepoint-io.json) |
@@ -3388,6 +3389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventures of Badgersaw: Chapter 1 | 333061 | [333061-the-adventures-of-badgersaw-chapter-1.json](./333061-the-adventures-of-badgersaw-chapter-1.json) |
 | The Adventures of Basildon Bond | 67700 | [67700-the-adventures-of-basildon-bond.json](./67700-the-adventures-of-basildon-bond.json) |
 | The Adventures of Batman & Robin | 45203 | [45203-the-adventures-of-batman-and-robin.json](./45203-the-adventures-of-batman-and-robin.json) |
+| The Adventures of Batman & Robin: Tiger Barcodzz - 07: Killer Croc | 360486 | [360486-the-adventures-of-batman-and-robin-tiger-barcodzz-07-killer-croc.json](./360486-the-adventures-of-batman-and-robin-tiger-barcodzz-07-killer-croc.json) |
 | The Adventures of Bayou Billy | 8740 | [8740-the-adventures-of-bayou-billy.json](./8740-the-adventures-of-bayou-billy.json) |
 | The Adventures of Bertram Fiddle: Episode 2 - A Bleaker Predicklement | 32834 | [32834-the-adventures-of-bertram-fiddle-episode-2-a-bleaker-predicklement.json](./32834-the-adventures-of-bertram-fiddle-episode-2-a-bleaker-predicklement.json) |
 | The Adventures of Big Faz | 206721 | [206721-the-adventures-of-big-faz.json](./206721-the-adventures-of-big-faz.json) |
@@ -4494,6 +4496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The ClueFinders 6th Grade Adventures: The Empire of the Plant People | 142139 | [142139-the-cluefinders-6th-grade-adventures-the-empire-of-the-plant-people.json](./142139-the-cluefinders-6th-grade-adventures-the-empire-of-the-plant-people.json) |
 | The Clutch: Remastered | 186864 | [186864-the-clutch-remastered.json](./186864-the-clutch-remastered.json) |
 | The Coagula Contest | 271497 | [271497-the-coagula-contest.json](./271497-the-coagula-contest.json) |
+| The Coagulation | 360506 | [360506-the-coagulation.json](./360506-the-coagulation.json) |
 | The Cobalt Palace | 271457 | [271457-the-cobalt-palace.json](./271457-the-cobalt-palace.json) |
 | The Code Zone Retro Pack | 198521 | [198521-the-code-zone-retro-pack.json](./198521-the-code-zone-retro-pack.json) |
 | The Code: Room Escape | 101502 | [101502-the-code-room-escape.json](./101502-the-code-room-escape.json) |
@@ -14392,6 +14395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Titanic Escape Simulator | 411584 | [411584-titanic-escape-simulator.json](./411584-titanic-escape-simulator.json) |
 | Titanic II: Orchestra for Dying at Sea | 204471 | [204471-titanic-ii-orchestra-for-dying-at-sea.json](./204471-titanic-ii-orchestra-for-dying-at-sea.json) |
 | Titanic Mystery: Ao no Senritsu | 41312 | [41312-titanic-mystery-ao-no-senritsu.json](./41312-titanic-mystery-ao-no-senritsu.json) |
+| Titanic Rescue | 360498 | [360498-titanic-rescue.json](./360498-titanic-rescue.json) |
 | Titanic Shipwreck Exploration | 111180 | [111180-titanic-shipwreck-exploration.json](./111180-titanic-shipwreck-exploration.json) |
 | Titanic Survival Simulator | 404369 | [404369-titanic-survival-simulator.json](./404369-titanic-survival-simulator.json) |
 | Titanic Terror | 258961 | [258961-titanic-terror.json](./258961-titanic-terror.json) |
@@ -16966,6 +16970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Sim World 5: Berninalinie: Tirano - Ospizio Bernina Route Add-On | 359492 | [359492-train-sim-world-5-berninalinie-tirano-ospizio-bernina-route-add-on.json](./359492-train-sim-world-5-berninalinie-tirano-ospizio-bernina-route-add-on.json) |
 | Train Sim World 5: Birmingham Cross-City Line: Lichfield - Bromsgrove & Redditch Route Add-On | 359508 | [359508-train-sim-world-5-birmingham-cross-city-line-lichfield-bromsgrove-and-redditch-route-add-on.json](./359508-train-sim-world-5-birmingham-cross-city-line-lichfield-bromsgrove-and-redditch-route-add-on.json) |
 | Train Sim World 5: BNSF SD70ACe | 359505 | [359505-train-sim-world-5-bnsf-sd70ace.json](./359505-train-sim-world-5-bnsf-sd70ace.json) |
+| Train Sim World 5: BR 194 & E94 Railtour Pack | 360525 | [360525-train-sim-world-5-br-194-and-e94-railtour-pack.json](./360525-train-sim-world-5-br-194-and-e94-railtour-pack.json) |
 | Train Sim World 5: BR Class 20 'Chopper' Loco Add-On | 359498 | [359498-train-sim-world-5-br-class-20-chopper-loco-add-on.json](./359498-train-sim-world-5-br-class-20-chopper-loco-add-on.json) |
 | Train Sim World 5: BR Class 33 Add-On | 359971 | [359971-train-sim-world-5-br-class-33-add-on.json](./359971-train-sim-world-5-br-class-33-add-on.json) |
 | Train Sim World 5: BR Class 52 Add-On | 359506 | [359506-train-sim-world-5-br-class-52-add-on.json](./359506-train-sim-world-5-br-class-52-add-on.json) |
@@ -16985,6 +16990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Sim World 5: Dutch Regional Edition | 336939 | [336939-train-sim-world-5-dutch-regional-edition.json](./336939-train-sim-world-5-dutch-regional-edition.json) |
 | Train Sim World 5: East Coastway: Brighton - Eastbourne & Seaford Route Add-On | 359497 | [359497-train-sim-world-5-east-coastway-brighton-eastbourne-and-seaford-route-add-on.json](./359497-train-sim-world-5-east-coastway-brighton-eastbourne-and-seaford-route-add-on.json) |
 | Train Sim World 5: Expert DB BR 101 & IC Steuerwagen Loco Add-On | 359978 | [359978-train-sim-world-5-expert-db-br-101-and-ic-steuerwagen-loco-add-on.json](./359978-train-sim-world-5-expert-db-br-101-and-ic-steuerwagen-loco-add-on.json) |
+| Train Sim World 5: Expert DB BR 101 on Kassel - Würzburg Gameplay Pack | 360524 | [360524-train-sim-world-5-expert-db-br-101-on-kassel-wurzburg-gameplay-pack.json](./360524-train-sim-world-5-expert-db-br-101-on-kassel-wurzburg-gameplay-pack.json) |
 | Train Sim World 5: FlixTrain BR 193 Vectron Loco Add-On | 360157 | [360157-train-sim-world-5-flixtrain-br-193-vectron-loco-add-on.json](./360157-train-sim-world-5-flixtrain-br-193-vectron-loco-add-on.json) |
 | Train Sim World 5: Frankfurt - Fulda: Kinzigtalbahn Route Add-On | 360160 | [360160-train-sim-world-5-frankfurt-fulda-kinzigtalbahn-route-add-on.json](./360160-train-sim-world-5-frankfurt-fulda-kinzigtalbahn-route-add-on.json) |
 | Train Sim World 5: Frankfurt S-Bahn: S1, S8 & S9 Route Add-On | 354560 | [354560-train-sim-world-5-frankfurt-s-bahn-s1-s8-and-s9-route-add-on.json](./354560-train-sim-world-5-frankfurt-s-bahn-s1-s8-and-s9-route-add-on.json) |
