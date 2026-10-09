@@ -1578,6 +1578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of the Amazon Women | 13800 | [13800-legend-of-the-amazon-women.json](./13800-legend-of-the-amazon-women.json) |
 | Legend of the Ancient Dragon | 73249 | [73249-legend-of-the-ancient-dragon.json](./73249-legend-of-the-ancient-dragon.json) |
 | Legend of the Animal Spirits | 206154 | [206154-legend-of-the-animal-spirits.json](./206154-legend-of-the-animal-spirits.json) |
+| Legend of the Corndog(s) | 382551 | [382551-legend-of-the-corndog-s.json](./382551-legend-of-the-corndog-s.json) |
 | Legend of the Dark War God | 340909 | [340909-legend-of-the-dark-war-god.json](./340909-legend-of-the-dark-war-god.json) |
 | Legend of the Five Rings | 80587 | [80587-legend-of-the-five-rings.json](./80587-legend-of-the-five-rings.json) |
 | Legend of the Forest: Bigfoot | 101045 | [101045-legend-of-the-forest-bigfoot.json](./101045-legend-of-the-forest-bigfoot.json) |
@@ -5358,6 +5359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Low Grav Racer | 63231 | [63231-low-grav-racer.json](./63231-low-grav-racer.json) |
 | Low Mem Sky | 181253 | [181253-low-mem-sky.json](./181253-low-mem-sky.json) |
 | Low Poly Flight Simulator | 411572 | [411572-low-poly-flight-simulator.json](./411572-low-poly-flight-simulator.json) |
+| Low Taper Fade 3D | 382534 | [382534-low-taper-fade-3d.json](./382534-low-taper-fade-3d.json) |
 | Low Tide | 377252 | [377252-low-tide.json](./377252-low-tide.json) |
 | Low Value Job | 385354 | [385354-low-value-job.json](./385354-low-value-job.json) |
 | Low_Signal | 353278 | [353278-low-signal.json](./353278-low-signal.json) |
@@ -5745,6 +5747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luna: Shattered Hearts - Episode 1 | 36173 | [36173-luna-shattered-hearts-episode-1.json](./36173-luna-shattered-hearts-episode-1.json) |
 | Luna: Supernatural Hunter | 189103 | [189103-luna-supernatural-hunter.json](./189103-luna-supernatural-hunter.json) |
 | Luna: The Shadow Dust | 56463 | [56463-luna-the-shadow-dust.json](./56463-luna-the-shadow-dust.json) |
+| Luna's Diary | 382532 | [382532-lunas-diary.json](./382532-lunas-diary.json) |
 | Luna's Lab (Earth to Luna!) | 109546 | [109546-lunas-lab-earth-to-luna.json](./109546-lunas-lab-earth-to-luna.json) |
 | Luna's Postcards Around the World | 343381 | [343381-lunas-postcards-around-the-world.json](./343381-lunas-postcards-around-the-world.json) |
 | Luna's Room | 397237 | [397237-lunas-room.json](./397237-lunas-room.json) |
