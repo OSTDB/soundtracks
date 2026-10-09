@@ -2864,6 +2864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Casual Swap 3 | 371402 | [371402-hentai-casual-swap-3.json](./371402-hentai-casual-swap-3.json) |
 | Hentai Cheerleader | 239749 | [239749-hentai-cheerleader.json](./239749-hentai-cheerleader.json) |
 | Hentai Chicks 2 | 149415 | [149415-hentai-chicks-2.json](./149415-hentai-chicks-2.json) |
+| Hentai Cleopatra | 370009 | [370009-hentai-cleopatra.json](./370009-hentai-cleopatra.json) |
 | Hentai Clicker: Alerinna Is Streaming | 371383 | [371383-hentai-clicker-alerinna-is-streaming.json](./371383-hentai-clicker-alerinna-is-streaming.json) |
 | Hentai Clicker: Bethy Is Streaming | 389609 | [389609-hentai-clicker-bethy-is-streaming.json](./389609-hentai-clicker-bethy-is-streaming.json) |
 | Hentai Clicker: Cassandra Is Streaming | 389616 | [389616-hentai-clicker-cassandra-is-streaming.json](./389616-hentai-clicker-cassandra-is-streaming.json) |
@@ -2882,6 +2883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Crazy Girls | 202203 | [202203-hentai-crazy-girls.json](./202203-hentai-crazy-girls.json) |
 | Hentai Crush | 136424 | [136424-hentai-crush.json](./136424-hentai-crush.json) |
 | Hentai Crystals | 257003 | [257003-hentai-crystals.json](./257003-hentai-crystals.json) |
+| Hentai Cut and Nut | 369996 | [369996-hentai-cut-and-nut.json](./369996-hentai-cut-and-nut.json) |
 | Hentai Cyber | 368099 | [368099-hentai-cyber.json](./368099-hentai-cyber.json) |
 | Hentai Darts | 165529 | [165529-hentai-darts.json](./165529-hentai-darts.json) |
 | Hentai Dating Stories: Brazil | 300943 | [300943-hentai-dating-stories-brazil.json](./300943-hentai-dating-stories-brazil.json) |
@@ -3012,6 +3014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai MagicalGirl | 237403 | [237403-hentai-magicalgirl.json](./237403-hentai-magicalgirl.json) |
 | Hentai Maid Club | 149429 | [149429-hentai-maid-club.json](./149429-hentai-maid-club.json) |
 | Hentai Match 3 | 155000 | [155000-hentai-match-3.json](./155000-hentai-match-3.json) |
+| Hentai Math Teacher | 370003 | [370003-hentai-math-teacher.json](./370003-hentai-math-teacher.json) |
 | Hentai Mature Milf | 371368 | [371368-hentai-mature-milf.json](./371368-hentai-mature-milf.json) |
 | Hentai MatureCat | 243162 | [243162-hentai-maturecat.json](./243162-hentai-maturecat.json) |
 | Hentai Maya | 265572 | [265572-hentai-maya.json](./265572-hentai-maya.json) |
@@ -3185,6 +3188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai World Slice | 340462 | [340462-hentai-world-slice.json](./340462-hentai-world-slice.json) |
 | Hentai World Succubus | 340463 | [340463-hentai-world-succubus.json](./340463-hentai-world-succubus.json) |
 | Hentai World Town | 384700 | [384700-hentai-world-town.json](./384700-hentai-world-town.json) |
+| Hentai World West | 369998 | [369998-hentai-world-west.json](./369998-hentai-world-west.json) |
 | Hentai World Winter | 340464 | [340464-hentai-world-winter.json](./340464-hentai-world-winter.json) |
 | Hentai World: Complete + | 324453 | [324453-hentai-world-complete.json](./324453-hentai-world-complete.json) |
 | Hentai World: Complete Edition | 262327 | [262327-hentai-world-complete-edition.json](./262327-hentai-world-complete-edition.json) |
@@ -4583,6 +4587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Higurashi When They Cry Hou+ | 273086 | [273086-higurashi-when-they-cry-hou.json](./273086-higurashi-when-they-cry-hou.json) |
 | Higurashi When They Cry Hou+: Mehagashi Chapter | 273084 | [273084-higurashi-when-they-cry-hou-mehagashi-chapter.json](./273084-higurashi-when-they-cry-hou-mehagashi-chapter.json) |
 | Higurashiki | 229647 | [229647-higurashiki.json](./229647-higurashiki.json) |
+| HiHi | 369913 | [369913-hihi.json](./369913-hihi.json) |
 | Hihou Densetsu Chris no Bouken | 55896 | [55896-hihou-densetsu-chris-no-bouken.json](./55896-hihou-densetsu-chris-no-bouken.json) |
 | Hihou-den: Taiyou wo Motomeru Mono-tachi | 249465 | [249465-hihou-den-taiyou-wo-motomeru-mono-tachi.json](./249465-hihou-den-taiyou-wo-motomeru-mono-tachi.json) |
 | Hiiro | 32922 | [32922-hiiro.json](./32922-hiiro.json) |
