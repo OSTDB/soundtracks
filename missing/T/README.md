@@ -503,6 +503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taisen Tokkae Dama | 283394 | [283394-taisen-tokkae-dama.json](./283394-taisen-tokkae-dama.json) |
 | Taisen! Koori Oni | 227366 | [227366-taisen-koori-oni.json](./227366-taisen-koori-oni.json) |
 | Taisen!! Ka to Chan no Kororonpe! | 72947 | [72947-taisen-ka-to-chan-no-kororonpe.json](./72947-taisen-ka-to-chan-no-kororonpe.json) |
+| Taisho Romance Theater | 366031 | [366031-taisho-romance-theater.json](./366031-taisho-romance-theater.json) |
 | Taisho x Alice Epilogue | 153498 | [153498-taisho-x-alice-epilogue.json](./153498-taisho-x-alice-epilogue.json) |
 | Taisho x Alice: Episode 3 | 150505 | [150505-taisho-x-alice-episode-3.json](./150505-taisho-x-alice-episode-3.json) |
 | Taisho x Alice: Heads & Tails! | 201613 | [201613-taisho-x-alice-heads-and-tails.json](./201613-taisho-x-alice-heads-and-tails.json) |
@@ -11063,6 +11064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Undead | 378155 | [378155-the-undead.json](./378155-the-undead.json) |
 | The Under Presents | 132208 | [132208-the-under-presents.json](./132208-the-under-presents.json) |
 | The Underdog | 373013 | [373013-the-underdog.json](./373013-the-underdog.json) |
+| The Underdog Tycoon | 366121 | [366121-the-underdog-tycoon.json](./366121-the-underdog-tycoon.json) |
 | The Underground King | 118843 | [118843-the-underground-king.json](./118843-the-underground-king.json) |
 | The Underground Man 2 | 215732 | [215732-the-underground-man-2.json](./215732-the-underground-man-2.json) |
 | The Undergrounders | 339847 | [339847-the-undergrounders.json](./339847-the-undergrounders.json) |
@@ -18436,6 +18438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trigger Happy | 174806 | [174806-trigger-happy.json](./174806-trigger-happy.json) |
 | Trigger Heart Exelica Enhanced | 43476 | [43476-trigger-heart-exelica-enhanced.json](./43476-trigger-heart-exelica-enhanced.json) |
 | Trigger Knight | 314452 | [314452-trigger-knight.json](./314452-trigger-knight.json) |
+| Trigger Land | 366111 | [366111-trigger-land.json](./366111-trigger-land.json) |
 | Trigger Path | 378386 | [378386-trigger-path.json](./378386-trigger-path.json) |
 | Trigger Rally | 63239 | [63239-trigger-rally.json](./63239-trigger-rally.json) |
 | Trigger Saint | 35627 | [35627-trigger-saint.json](./35627-trigger-saint.json) |
@@ -18992,6 +18995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Try Dying | 319713 | [319713-try-dying.json](./319713-try-dying.json) |
 | Try Not to Fart | 79371 | [79371-try-not-to-fart.json](./79371-try-not-to-fart.json) |
 | Try Not to Laugh | 102754 | [102754-try-not-to-laugh.json](./102754-try-not-to-laugh.json) |
+| Try to Drive | 366108 | [366108-try-to-drive.json](./366108-try-to-drive.json) |
 | Try to Escape! | 258434 | [258434-try-to-escape.json](./258434-try-to-escape.json) |
 | Try to Reach 10 | 130732 | [130732-try-to-reach-10.json](./130732-try-to-reach-10.json) |
 | Try to Survive | 116552 | [116552-try-to-survive.json](./116552-try-to-survive.json) |
@@ -19892,6 +19896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Type Dreams | 116969 | [116969-type-dreams.json](./116969-type-dreams.json) |
 | Type Drivers | 373895 | [373895-type-drivers.json](./373895-type-drivers.json) |
 | Type Galaxy | 310065 | [310065-type-galaxy.json](./310065-type-galaxy.json) |
+| Type Her to Sleep | 366032 | [366032-type-her-to-sleep.json](./366032-type-her-to-sleep.json) |
 | Type II | 124273 | [124273-type-ii.json](./124273-type-ii.json) |
 | Type King | 250477 | [250477-type-king.json](./250477-type-king.json) |
 | Type the Entire of Ulysses. That's It. That's the Game. | 198526 | [198526-type-the-entire-of-ulysses-thats-it-thats-the-game.json](./198526-type-the-entire-of-ulysses-thats-it-thats-the-game.json) |
