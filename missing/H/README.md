@@ -3422,6 +3422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero Rescue 3 | 233511 | [233511-hero-rescue-3.json](./233511-hero-rescue-3.json) |
 | Hero Rescue Agency | 409661 | [409661-hero-rescue-agency.json](./409661-hero-rescue-agency.json) |
 | Hero Ring | 195602 | [195602-hero-ring.json](./195602-hero-ring.json) |
+| Hero Road Online | 367851 | [367851-hero-road-online.json](./367851-hero-road-online.json) |
 | Hero Royale | 181144 | [181144-hero-royale.json](./181144-hero-royale.json) |
 | Hero Rush: Mad King | 72417 | [72417-hero-rush-mad-king.json](./72417-hero-rush-mad-king.json) |
 | Hero Secret Realm Survivor Roguelike | 366293 | [366293-hero-secret-realm-survivor-roguelike.json](./366293-hero-secret-realm-survivor-roguelike.json) |
@@ -4486,6 +4487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Highscore Processing Unit | 99645 | [99645-highscore-processing-unit.json](./99645-highscore-processing-unit.json) |
 | Highway | 247016 | [247016-highway.json](./247016-highway.json) |
 | Highway | 267410 | [267410-highway.json](./267410-highway.json) |
+| Highway | 367840 | [367840-highway.json](./367840-highway.json) |
 | Highway 11 | 377230 | [377230-highway-11.json](./377230-highway-11.json) |
 | Highway 2000 | 46097 | [46097-highway-2000.json](./46097-highway-2000.json) |
 | Highway Bus Rush | 352316 | [352316-highway-bus-rush.json](./352316-highway-bus-rush.json) |
