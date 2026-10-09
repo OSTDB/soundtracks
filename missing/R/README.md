@@ -1133,6 +1133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ranger Quest: The Elemental Orbs | 236766 | [236766-ranger-quest-the-elemental-orbs.json](./236766-ranger-quest-the-elemental-orbs.json) |
 | Ranger vs. Drones | 154364 | [154364-ranger-vs-drones.json](./154364-ranger-vs-drones.json) |
 | Ranger vs. Space Mutants | 101623 | [101623-ranger-vs-space-mutants.json](./101623-ranger-vs-space-mutants.json) |
+| Ranger’s Path: National Park Simulator | 366709 | [366709-ranger-s-path-national-park-simulator.json](./366709-ranger-s-path-national-park-simulator.json) |
 | Rangerdog | 152160 | [152160-rangerdog.json](./152160-rangerdog.json) |
 | Rangers | 138744 | [138744-rangers.json](./138744-rangers.json) |
 | Rangers Football Coach Season 2001-2002 | 59385 | [59385-rangers-football-coach-season-2001-2002.json](./59385-rangers-football-coach-season-2001-2002.json) |
@@ -2115,6 +2116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reckless Rufus | 39164 | [39164-reckless-rufus.json](./39164-reckless-rufus.json) |
 | Reckon | 74074 | [74074-reckon.json](./74074-reckon.json) |
 | Reckpunk | 32262 | [32262-reckpunk.json](./32262-reckpunk.json) |
+| Reclaim | 366721 | [366721-reclaim.json](./366721-reclaim.json) |
 | Reclaim | 405688 | [405688-reclaim.json](./405688-reclaim.json) |
 | Reclaimer | 404308 | [404308-reclaimer.json](./404308-reclaimer.json) |
 | Reclamation | 268463 | [268463-reclamation.json](./268463-reclamation.json) |
@@ -2434,6 +2436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Triangle Super Collection | 192154 | [192154-red-triangle-super-collection.json](./192154-red-triangle-super-collection.json) |
 | Red Turn: The Road to Berlin 1943-45 | 22646 | [22646-red-turn-the-road-to-berlin-1943-45.json](./22646-red-turn-the-road-to-berlin-1943-45.json) |
 | Red Valley | 199389 | [199389-red-valley.json](./199389-red-valley.json) |
+| Red Vanilla 2 | 366733 | [366733-red-vanilla-2.json](./366733-red-vanilla-2.json) |
 | Red vs. Green | 362395 | [362395-red-vs-green.json](./362395-red-vs-green.json) |
 | Red White Yellow | 152158 | [152158-red-white-yellow.json](./152158-red-white-yellow.json) |
 | Red White Yellow Cruising | 207894 | [207894-red-white-yellow-cruising.json](./207894-red-white-yellow-cruising.json) |
@@ -2738,6 +2741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Regular Toad Game | 135125 | [135125-regular-toad-game.json](./135125-regular-toad-game.json) |
 | Regulus: The Advent | 373720 | [373720-regulus-the-advent.json](./373720-regulus-the-advent.json) |
 | Regxkcd | 182864 | [182864-regxkcd.json](./182864-regxkcd.json) |
+| Rehab Friday: With Henry Huxley | 366625 | [366625-rehab-friday-with-henry-huxley.json](./366625-rehab-friday-with-henry-huxley.json) |
 | RehAIbilitation | 257561 | [257561-rehaibilitation.json](./257561-rehaibilitation.json) |
 | Rehaunted | 410924 | [410924-rehaunted.json](./410924-rehaunted.json) |
 | Rehtona | 113857 | [113857-rehtona.json](./113857-rehtona.json) |
@@ -5717,6 +5721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocklings | 294974 | [294974-rocklings.json](./294974-rocklings.json) |
 | Rockman | 26445 | [26445-rockman.json](./26445-rockman.json) |
 | Rockman | 26446 | [26446-rockman.json](./26446-rockman.json) |
+| Rockman & Crystal | 366622 | [366622-rockman-and-crystal.json](./366622-rockman-and-crystal.json) |
 | Rockman & Forte FC | 320354 | [320354-rockman-and-forte-fc.json](./320354-rockman-and-forte-fc.json) |
 | Rockman 2: Basic Master | 269878 | [269878-rockman-2-basic-master.json](./269878-rockman-2-basic-master.json) |
 | Rockman 2: Gray Zone | 269879 | [269879-rockman-2-gray-zone.json](./269879-rockman-2-gray-zone.json) |
