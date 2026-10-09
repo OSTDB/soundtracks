@@ -3558,6 +3558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goddess Order | 174685 | [174685-goddess-order.json](./174685-goddess-order.json) |
 | Goddess Paradise | 369768 | [369768-goddess-paradise.json](./369768-goddess-paradise.json) |
 | Goddess Scroll: Brave Star | 396211 | [396211-goddess-scroll-brave-star.json](./396211-goddess-scroll-brave-star.json) |
+| Goddess Scroll: The Last Starlight | 344407 | [344407-goddess-scroll-the-last-starlight.json](./344407-goddess-scroll-the-last-starlight.json) |
 | Godfall: Ascended Edition | 139946 | [139946-godfall-ascended-edition.json](./139946-godfall-ascended-edition.json) |
 | Godfall: Challenger Edition | 185638 | [185638-godfall-challenger-edition.json](./185638-godfall-challenger-edition.json) |
 | Godfall: Primal Update | 312371 | [312371-godfall-primal-update.json](./312371-godfall-primal-update.json) |
