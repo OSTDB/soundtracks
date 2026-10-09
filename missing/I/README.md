@@ -1098,6 +1098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idol Tantei You&My | 246105 | [246105-idol-tantei-you-and-my.json](./246105-idol-tantei-you-and-my.json) |
 | Idol Time PriPara | 285041 | [285041-idol-time-pripara.json](./285041-idol-time-pripara.json) |
 | Idol Time PriPara Yume All Star Live! | 136938 | [136938-idol-time-pripara-yume-all-star-live.json](./136938-idol-time-pripara-yume-all-star-live.json) |
+| Idol to Stalker: Tashika ni Kimi ga Suki Deshita | 347734 | [347734-idol-to-stalker-tashika-ni-kimi-ga-suki-deshita.json](./347734-idol-to-stalker-tashika-ni-kimi-ga-suki-deshita.json) |
 | Idol Ura Eigyou: Kegasareta Stage Ishou | 409425 | [409425-idol-ura-eigyou-kegasareta-stage-ishou.json](./409425-idol-ura-eigyou-kegasareta-stage-ishou.json) |
 | Idol vs Furries | 264798 | [264798-idol-vs-furries.json](./264798-idol-vs-furries.json) |
 | Idol Wars Online | 110261 | [110261-idol-wars-online.json](./110261-idol-wars-online.json) |
@@ -1352,6 +1353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Illusion of Gaia: Remake | 181189 | [181189-illusion-of-gaia-remake.json](./181189-illusion-of-gaia-remake.json) |
 | Illusion of Itehari | 242067 | [242067-illusion-of-itehari.json](./242067-illusion-of-itehari.json) |
 | Illusion of L'Phalcia | 39010 | [39010-illusion-of-lphalcia.json](./39010-illusion-of-lphalcia.json) |
+| Illusion Pathology | 347729 | [347729-illusion-pathology.json](./347729-illusion-pathology.json) |
 | Illusion Squares | 255170 | [255170-illusion-squares.json](./255170-illusion-squares.json) |
 | Illusion: Trust Test | 196145 | [196145-illusion-trust-test.json](./196145-illusion-trust-test.json) |
 | Illusions | 40893 | [40893-illusions.json](./40893-illusions.json) |
@@ -3194,6 +3196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Into the Timeverse | 172180 | [172180-into-the-timeverse.json](./172180-into-the-timeverse.json) |
 | Into The Unknown | 288814 | [288814-into-the-unknown.json](./288814-into-the-unknown.json) |
 | Into The Unknown | 358220 | [358220-into-the-unknown.json](./358220-into-the-unknown.json) |
+| Into The Unwell | 347663 | [347663-into-the-unwell.json](./347663-into-the-unwell.json) |
 | Into the V.O.I.D. | 298666 | [298666-into-the-v-o-i-d.json](./298666-into-the-v-o-i-d.json) |
 | Into the Valley | 129056 | [129056-into-the-valley.json](./129056-into-the-valley.json) |
 | Into the War | 35825 | [35825-into-the-war.json](./35825-into-the-war.json) |
