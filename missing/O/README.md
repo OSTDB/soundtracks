@@ -358,6 +358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Odd Bot Out | 58292 | [58292-odd-bot-out.json](./58292-odd-bot-out.json) |
 | Odd Dorable | 341674 | [341674-odd-dorable.json](./341674-odd-dorable.json) |
 | Odd Guy Meets Odd Farmers | 211933 | [211933-odd-guy-meets-odd-farmers.json](./211933-odd-guy-meets-odd-farmers.json) |
+| Odd Mobs Zero: Arrange | 375587 | [375587-odd-mobs-zero-arrange.json](./375587-odd-mobs-zero-arrange.json) |
 | Odd One | 177481 | [177481-odd-one.json](./177481-odd-one.json) |
 | Odd One Out | 380129 | [380129-odd-one-out.json](./380129-odd-one-out.json) |
 | Odd Remedy | 323312 | [323312-odd-remedy.json](./323312-odd-remedy.json) |
