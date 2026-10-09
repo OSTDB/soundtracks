@@ -1439,6 +1439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Watchers: Batter Up Pack | 161186 | [161186-watchers-batter-up-pack.json](./161186-watchers-batter-up-pack.json) |
 | Watchers: Perfectly Calm Pack | 225572 | [225572-watchers-perfectly-calm-pack.json](./225572-watchers-perfectly-calm-pack.json) |
 | Watching Delusion | 105386 | [105386-watching-delusion.json](./105386-watching-delusion.json) |
+| Watching from Afar | 361044 | [361044-watching-from-afar.json](./361044-watching-from-afar.json) |
 | Watching Grass Grow In VR - The Game | 32226 | [32226-watching-grass-grow-in-vr-the-game.json](./32226-watching-grass-grow-in-vr-the-game.json) |
 | Watching Paint Dry: The Game | 341067 | [341067-watching-paint-dry-the-game.json](./341067-watching-paint-dry-the-game.json) |
 | Watching Paint Dry: Too | 303708 | [303708-watching-paint-dry-too.json](./303708-watching-paint-dry-too.json) |
