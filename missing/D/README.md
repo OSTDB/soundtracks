@@ -3304,6 +3304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defender of Freedom | 65734 | [65734-defender-of-freedom.json](./65734-defender-of-freedom.json) |
 | Defender of RON | 71174 | [71174-defender-of-ron.json](./71174-defender-of-ron.json) |
 | Defender of the Crown | 1873 | [1873-defender-of-the-crown.json](./1873-defender-of-the-crown.json) |
+| Defender of the Crown | 335821 | [335821-defender-of-the-crown.json](./335821-defender-of-the-crown.json) |
 | Defender of the Crown: Digitally Remastered Edition | 170339 | [170339-defender-of-the-crown-digitally-remastered-edition.json](./170339-defender-of-the-crown-digitally-remastered-edition.json) |
 | Defender of the Favicon | 201095 | [201095-defender-of-the-favicon.json](./201095-defender-of-the-favicon.json) |
 | Defender of the Turrets: Warp Attack | 171593 | [171593-defender-of-the-turrets-warp-attack.json](./171593-defender-of-the-turrets-warp-attack.json) |
