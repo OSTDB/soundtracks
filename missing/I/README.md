@@ -110,6 +110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Can Gun | 111502 | [111502-i-can-gun.json](./111502-i-can-gun.json) |
 | I Can Hold My Breath Forever | 139813 | [139813-i-can-hold-my-breath-forever.json](./139813-i-can-hold-my-breath-forever.json) |
 | I Can Human | 211827 | [211827-i-can-human.json](./211827-i-can-human.json) |
+| I Can Offer You Flowers | 386477 | [386477-i-can-offer-you-flowers.json](./386477-i-can-offer-you-flowers.json) |
 | I Can Save This! | 326612 | [326612-i-can-save-this.json](./326612-i-can-save-this.json) |
 | I Can Transform | 265740 | [265740-i-can-transform.json](./265740-i-can-transform.json) |
 | I Can't Be Human | 332813 | [332813-i-cant-be-human.json](./332813-i-cant-be-human.json) |
@@ -2246,6 +2247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Crosswords | 385317 | [385317-infinite-crosswords.json](./385317-infinite-crosswords.json) |
 | Infinite Dash | 173800 | [173800-infinite-dash.json](./173800-infinite-dash.json) |
 | Infinite Dunamis | 39013 | [39013-infinite-dunamis.json](./39013-infinite-dunamis.json) |
+| Infinite Dungeon | 386473 | [386473-infinite-dungeon.json](./386473-infinite-dungeon.json) |
 | Infinite Einstein Tiles | 352291 | [352291-infinite-einstein-tiles.json](./352291-infinite-einstein-tiles.json) |
 | Infinite Einstein Tiles2 | 374253 | [374253-infinite-einstein-tiles2.json](./374253-infinite-einstein-tiles2.json) |
 | Infinite Energy | 362908 | [362908-infinite-energy.json](./362908-infinite-energy.json) |
@@ -2273,6 +2275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Mansion | 374816 | [374816-infinite-mansion.json](./374816-infinite-mansion.json) |
 | Infinite Mario 64 | 288851 | [288851-infinite-mario-64.json](./288851-infinite-mario-64.json) |
 | Infinite Mario Bros. | 212694 | [212694-infinite-mario-bros.json](./212694-infinite-mario-bros.json) |
+| Infinite Minefield | 386472 | [386472-infinite-minefield.json](./386472-infinite-minefield.json) |
 | Infinite Minigolf: Hangar 37 | 170835 | [170835-infinite-minigolf-hangar-37.json](./170835-infinite-minigolf-hangar-37.json) |
 | Infinite Minigolf: Tortuga | 170834 | [170834-infinite-minigolf-tortuga.json](./170834-infinite-minigolf-tortuga.json) |
 | Infinite Monkey Autocorrect | 89205 | [89205-infinite-monkey-autocorrect.json](./89205-infinite-monkey-autocorrect.json) |
