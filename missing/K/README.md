@@ -269,6 +269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kalimba: The Dark Void - Solo | 170377 | [170377-kalimba-the-dark-void-solo.json](./170377-kalimba-the-dark-void-solo.json) |
 | Kalin no Tsurugi | 41286 | [41286-kalin-no-tsurugi.json](./41286-kalin-no-tsurugi.json) |
 | Kalis Car Game | 277004 | [277004-kalis-car-game.json](./277004-kalis-car-game.json) |
+| Kalit | 347651 | [347651-kalit.json](./347651-kalit.json) |
 | Kallax | 217284 | [217284-kallax.json](./217284-kallax.json) |
 | Kalling Kingdom | 130731 | [130731-kalling-kingdom.json](./130731-kalling-kingdom.json) |
 | Kalma | 349470 | [349470-kalma.json](./349470-kalma.json) |
