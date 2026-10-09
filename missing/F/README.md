@@ -3248,12 +3248,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find All | 151614 | [151614-find-all.json](./151614-find-all.json) |
 | Find All 4: Magic | 226805 | [226805-find-all-4-magic.json](./226805-find-all-4-magic.json) |
 | Find All 5: Vikings | 317026 | [317026-find-all-5-vikings.json](./317026-find-all-5-vikings.json) |
+| Find All 8: The Road to the Maya | 344979 | [344979-find-all-8-the-road-to-the-maya.json](./344979-find-all-8-the-road-to-the-maya.json) |
 | Find All Things: Christmas | 361059 | [361059-find-all-things-christmas.json](./361059-find-all-things-christmas.json) |
 | Find All: Bunker - Extra Level | 345512 | [345512-find-all-bunker-extra-level.json](./345512-find-all-bunker-extra-level.json) |
 | Find All: Valentine's Day | 388766 | [388766-find-all-valentines-day.json](./388766-find-all-valentines-day.json) |
 | Find Brains | 304704 | [304704-find-brains.json](./304704-find-brains.json) |
 | Find Brooklyn Guy! | 342711 | [342711-find-brooklyn-guy.json](./342711-find-brooklyn-guy.json) |
 | Find Cats | 289895 | [289895-find-cats.json](./289895-find-cats.json) |
+| Find Cats 4 | 344984 | [344984-find-cats-4.json](./344984-find-cats-4.json) |
 | Find Cats 5 | 348425 | [348425-find-cats-5.json](./348425-find-cats-5.json) |
 | Find Cats in the Casino | 400481 | [400481-find-cats-in-the-casino.json](./400481-find-cats-in-the-casino.json) |
 | Find Cats2 | 307687 | [307687-find-cats2.json](./307687-find-cats2.json) |
