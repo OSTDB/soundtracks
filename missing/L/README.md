@@ -607,6 +607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Las Vegas Roulette | 47278 | [47278-las-vegas-roulette.json](./47278-las-vegas-roulette.json) |
 | Las Vegas Video Poker | 79560 | [79560-las-vegas-video-poker.json](./79560-las-vegas-video-poker.json) |
 | Lasagna Boy | 117149 | [117149-lasagna-boy.json](./117149-lasagna-boy.json) |
+| Lasagna Boy Classic | 344332 | [344332-lasagna-boy-classic.json](./344332-lasagna-boy-classic.json) |
 | LaSalle Ishii no Child's Quest | 48792 | [48792-lasalle-ishii-no-childs-quest.json](./48792-lasalle-ishii-no-childs-quest.json) |
 | Laser | 322581 | [322581-laser.json](./322581-laser.json) |
 | Laser 77: Virtual Lab | 280419 | [280419-laser-77-virtual-lab.json](./280419-laser-77-virtual-lab.json) |
