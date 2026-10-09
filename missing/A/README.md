@@ -6824,7 +6824,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arabilis | 197787 | [197787-arabilis.json](./197787-arabilis.json) |
 | Arac | 13804 | [13804-arac.json](./13804-arac.json) |
 | Arachnid | 83489 | [83489-arachnid.json](./83489-arachnid.json) |
+| Arachnid Wars | 385934 | [385934-arachnid-wars.json](./385934-arachnid-wars.json) |
+| Arachnid Wars 1.5 | 385935 | [385935-arachnid-wars-1-5.json](./385935-arachnid-wars-1-5.json) |
 | Arachnoid | 23886 | [23886-arachnoid.json](./23886-arachnoid.json) |
+| Arachnophilia | 385926 | [385926-arachnophilia.json](./385926-arachnophilia.json) |
 | ArachnoSplat | 126406 | [126406-arachnosplat.json](./126406-arachnosplat.json) |
 | Aracnidium | 193462 | [193462-aracnidium.json](./193462-aracnidium.json) |
 | Arae: Requiem of a Lonely Spirit | 133784 | [133784-arae-requiem-of-a-lonely-spirit.json](./133784-arae-requiem-of-a-lonely-spirit.json) |
