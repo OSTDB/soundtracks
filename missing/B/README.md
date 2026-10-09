@@ -211,6 +211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Back Alley Chronicle: Episode Saeki | 397092 | [397092-back-alley-chronicle-episode-saeki.json](./397092-back-alley-chronicle-episode-saeki.json) |
 | Back Alley Inn | 188905 | [188905-back-alley-inn.json](./188905-back-alley-inn.json) |
 | Back at the Barnyard: Slop Bucket Games | 7994 | [7994-back-at-the-barnyard-slop-bucket-games.json](./7994-back-at-the-barnyard-slop-bucket-games.json) |
+| Back From Earth | 379176 | [379176-back-from-earth.json](./379176-back-from-earth.json) |
 | Back From Hell | 24877 | [24877-back-from-hell.json](./24877-back-from-hell.json) |
 | Back from the other world, I missed love | 337707 | [337707-back-from-the-other-world-i-missed-love.json](./337707-back-from-the-other-world-i-missed-love.json) |
 | Back from Void | 275069 | [275069-back-from-void.json](./275069-back-from-void.json) |
@@ -273,6 +274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backfire Brigade | 370137 | [370137-backfire-brigade.json](./370137-backfire-brigade.json) |
 | Backfire! | 37139 | [37139-backfire.json](./37139-backfire.json) |
 | Backflip | 293630 | [293630-backflip.json](./293630-backflip.json) |
+| Backflip Madness 2 | 379175 | [379175-backflip-madness-2.json](./379175-backflip-madness-2.json) |
 | Backgaminion | 244920 | [244920-backgaminion.json](./244920-backgaminion.json) |
 | Backgammon | 131512 | [131512-backgammon.json](./131512-backgammon.json) |
 | Backgammon | 14280 | [14280-backgammon.json](./14280-backgammon.json) |
@@ -3209,6 +3211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beatless | 174641 | [174641-beatless.json](./174641-beatless.json) |
 | BeatLine | 260773 | [260773-beatline.json](./260773-beatline.json) |
 | Beatmania | 20498 | [20498-beatmania.json](./20498-beatmania.json) |
+| Beatmania | 379146 | [379146-beatmania.json](./379146-beatmania.json) |
 | Beatmania 2ndMix | 94746 | [94746-beatmania-2ndmix.json](./94746-beatmania-2ndmix.json) |
 | Beatmania 3rdMix | 94745 | [94745-beatmania-3rdmix.json](./94745-beatmania-3rdmix.json) |
 | Beatmania 4thMix: The Beat Goes On | 70632 | [70632-beatmania-4thmix-the-beat-goes-on.json](./70632-beatmania-4thmix-the-beat-goes-on.json) |
@@ -7457,6 +7460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bone Warper | 323777 | [323777-bone-warper.json](./323777-bone-warper.json) |
 | Bone's Cafe | 188921 | [188921-bones-cafe.json](./188921-bones-cafe.json) |
 | BoneBone | 19752 | [19752-bonebone.json](./19752-bonebone.json) |
+| Bonedle | 379170 | [379170-bonedle.json](./379170-bonedle.json) |
 | Bonehearts | 395147 | [395147-bonehearts.json](./395147-bonehearts.json) |
 | Bonehold | 366910 | [366910-bonehold.json](./366910-bonehold.json) |
 | Bonelab | 198230 | [198230-bonelab.json](./198230-bonelab.json) |
@@ -7504,6 +7508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bonhomme 7 Heures | 151617 | [151617-bonhomme-7-heures.json](./151617-bonhomme-7-heures.json) |
 | Bonito Days | 175817 | [175817-bonito-days.json](./175817-bonito-days.json) |
 | Bonjin: An Ordinary Man | 349869 | [349869-bonjin-an-ordinary-man.json](./349869-bonjin-an-ordinary-man.json) |
+| Bonk 'N Bash | 379122 | [379122-bonk-n-bash.json](./379122-bonk-n-bash.json) |
 | Bonk Voyage | 415112 | [415112-bonk-voyage.json](./415112-bonk-voyage.json) |
 | Bonk! | 328554 | [328554-bonk.json](./328554-bonk.json) |
 | Bonk.io | 57077 | [57077-bonk-io.json](./57077-bonk-io.json) |
