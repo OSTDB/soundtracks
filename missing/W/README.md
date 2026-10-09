@@ -1201,6 +1201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warrior Kings | 17343 | [17343-warrior-kings.json](./17343-warrior-kings.json) |
 | Warrior Maiden | 210861 | [210861-warrior-maiden.json](./210861-warrior-maiden.json) |
 | Warrior Maiden Lecia and the Lost Fortress | 373646 | [373646-warrior-maiden-lecia-and-the-lost-fortress.json](./373646-warrior-maiden-lecia-and-the-lost-fortress.json) |
+| Warrior of Chaos | 367830 | [367830-warrior-of-chaos.json](./367830-warrior-of-chaos.json) |
 | Warrior of Ras: Volume I - Dunzhin | 94578 | [94578-warrior-of-ras-volume-i-dunzhin.json](./94578-warrior-of-ras-volume-i-dunzhin.json) |
 | Warrior Paint: 2005 GOTY Edition | 231309 | [231309-warrior-paint-2005-goty-edition.json](./231309-warrior-paint-2005-goty-edition.json) |
 | Warrior Quest | 412378 | [412378-warrior-quest.json](./412378-warrior-quest.json) |
@@ -2525,6 +2526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where in the U.S.A. Is Carmen Sandiego? | 313289 | [313289-where-in-the-u-s-a-is-carmen-sandiego.json](./313289-where-in-the-u-s-a-is-carmen-sandiego.json) |
 | Where in the USA is Carmen Sandiego? (Enhanced) | 66348 | [66348-where-in-the-usa-is-carmen-sandiego-enhanced.json](./66348-where-in-the-usa-is-carmen-sandiego-enhanced.json) |
 | Where in the World Is Carmen Sandiego? | 251 | [251-where-in-the-world-is-carmen-sandiego.json](./251-where-in-the-world-is-carmen-sandiego.json) |
+| Where in the World Is Carmen Sandiego? | 367754 | [367754-where-in-the-world-is-carmen-sandiego.json](./367754-where-in-the-world-is-carmen-sandiego.json) |
 | Where in the World is Carmen Sandiego? Enhanced Edition | 143640 | [143640-where-in-the-world-is-carmen-sandiego-enhanced-edition.json](./143640-where-in-the-world-is-carmen-sandiego-enhanced-edition.json) |
 | Where in the World Is Carmen Sandiego? Treasures of Knowledge | 58907 | [58907-where-in-the-world-is-carmen-sandiego-treasures-of-knowledge.json](./58907-where-in-the-world-is-carmen-sandiego-treasures-of-knowledge.json) |
 | Where in Time is Carmen Sandiego? | 336633 | [336633-where-in-time-is-carmen-sandiego.json](./336633-where-in-time-is-carmen-sandiego.json) |
