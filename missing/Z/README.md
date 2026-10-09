@@ -366,6 +366,23 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zen Pinball World: Verne's Mysterious Island | 354081 | [354081-zen-pinball-world-vernes-mysterious-island.json](./354081-zen-pinball-world-vernes-mysterious-island.json) |
 | Zen Pinball World: World Cup Soccer | 354082 | [354082-zen-pinball-world-world-cup-soccer.json](./354082-zen-pinball-world-world-cup-soccer.json) |
 | Zen Pinball World: Xena - Warrior Princess Pinball | 354083 | [354083-zen-pinball-world-xena-warrior-princess-pinball.json](./354083-zen-pinball-world-xena-warrior-princess-pinball.json) |
+| Zen Pinball: Alien - Isolation Pinball | 354360 | [354360-zen-pinball-alien-isolation-pinball.json](./354360-zen-pinball-alien-isolation-pinball.json) |
+| Zen Pinball: Aliens Pinball | 354358 | [354358-zen-pinball-aliens-pinball.json](./354358-zen-pinball-aliens-pinball.json) |
+| Zen Pinball: Aliens vs. Predator Pinball | 354359 | [354359-zen-pinball-aliens-vs-predator-pinball.json](./354359-zen-pinball-aliens-vs-predator-pinball.json) |
+| Zen Pinball: Boba Fett | 354357 | [354357-zen-pinball-boba-fett.json](./354357-zen-pinball-boba-fett.json) |
+| Zen Pinball: Doom Pinball | 354362 | [354362-zen-pinball-doom-pinball.json](./354362-zen-pinball-doom-pinball.json) |
+| Zen Pinball: Fallout Pinball | 354361 | [354361-zen-pinball-fallout-pinball.json](./354361-zen-pinball-fallout-pinball.json) |
+| Zen Pinball: Portal | 354364 | [354364-zen-pinball-portal.json](./354364-zen-pinball-portal.json) |
+| Zen Pinball: Star Wars - Darth Vader | 354353 | [354353-zen-pinball-star-wars-darth-vader.json](./354353-zen-pinball-star-wars-darth-vader.json) |
+| Zen Pinball: Star Wars - Episode V | 354355 | [354355-zen-pinball-star-wars-episode-v.json](./354355-zen-pinball-star-wars-episode-v.json) |
+| Zen Pinball: Star Wars - Episode VI Return of the Jedi | 354352 | [354352-zen-pinball-star-wars-episode-vi-return-of-the-jedi.json](./354352-zen-pinball-star-wars-episode-vi-return-of-the-jedi.json) |
+| Zen Pinball: Star Wars - Starfighter Assault | 354354 | [354354-zen-pinball-star-wars-starfighter-assault.json](./354354-zen-pinball-star-wars-starfighter-assault.json) |
+| Zen Pinball: Star Wars - The Clone Wars | 354356 | [354356-zen-pinball-star-wars-the-clone-wars.json](./354356-zen-pinball-star-wars-the-clone-wars.json) |
+| Zen Pinball: Star Wars Pinball - Droids | 354349 | [354349-zen-pinball-star-wars-pinball-droids.json](./354349-zen-pinball-star-wars-pinball-droids.json) |
+| Zen Pinball: Star Wars Pinball - Episode IV A New Hope | 354350 | [354350-zen-pinball-star-wars-pinball-episode-iv-a-new-hope.json](./354350-zen-pinball-star-wars-pinball-episode-iv-a-new-hope.json) |
+| Zen Pinball: Star Wars Pinball - Han Solo | 354351 | [354351-zen-pinball-star-wars-pinball-han-solo.json](./354351-zen-pinball-star-wars-pinball-han-solo.json) |
+| Zen Pinball: The Elder Scrolls V - Skyrim Pinball | 354363 | [354363-zen-pinball-the-elder-scrolls-v-skyrim-pinball.json](./354363-zen-pinball-the-elder-scrolls-v-skyrim-pinball.json) |
+| Zen Pinball: The Walking Dead | 354365 | [354365-zen-pinball-the-walking-dead.json](./354365-zen-pinball-the-walking-dead.json) |
 | Zen Rage | 319223 | [319223-zen-rage.json](./319223-zen-rage.json) |
 | Zen Studios VR Collection | 107642 | [107642-zen-studios-vr-collection.json](./107642-zen-studios-vr-collection.json) |
 | Zen Trails | 173074 | [173074-zen-trails.json](./173074-zen-trails.json) |
