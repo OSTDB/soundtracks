@@ -1149,6 +1149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong Gakuen Touma Soushirou Toujou | 59429 | [59429-mahjong-gakuen-touma-soushirou-toujou.json](./59429-mahjong-gakuen-touma-soushirou-toujou.json) |
 | Mahjong Gakuen Touma Soushirou Toujou Mild | 37679 | [37679-mahjong-gakuen-touma-soushirou-toujou-mild.json](./37679-mahjong-gakuen-touma-soushirou-toujou-mild.json) |
 | Mahjong Garden | 366439 | [366439-mahjong-garden.json](./366439-mahjong-garden.json) |
+| Mahjong Garden HD | 354979 | [354979-mahjong-garden-hd.json](./354979-mahjong-garden-hd.json) |
 | Mahjong Girl Kshity-Gurpa | 379045 | [379045-mahjong-girl-kshity-gurpa.json](./379045-mahjong-girl-kshity-gurpa.json) |
 | Mahjong Gokuu Special | 37677 | [37677-mahjong-gokuu-special.json](./37677-mahjong-gokuu-special.json) |
 | Mahjong Gokuu Tenjiku | 4312 | [4312-mahjong-gokuu-tenjiku.json](./4312-mahjong-gokuu-tenjiku.json) |
@@ -1185,6 +1186,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong Route | 355207 | [355207-mahjong-route.json](./355207-mahjong-route.json) |
 | Mahjong Royal Towers | 63103 | [63103-mahjong-royal-towers.json](./63103-mahjong-royal-towers.json) |
 | Mahjong Safari | 366440 | [366440-mahjong-safari.json](./366440-mahjong-safari.json) |
+| Mahjong Safari HD | 354981 | [354981-mahjong-safari-hd.json](./354981-mahjong-safari-hd.json) |
+| Mahjong Sanctuary | 354982 | [354982-mahjong-sanctuary.json](./354982-mahjong-sanctuary.json) |
 | Mahjong Secrets | 88621 | [88621-mahjong-secrets.json](./88621-mahjong-secrets.json) |
 | Mahjong Sengoku Monogatari | 37743 | [37743-mahjong-sengoku-monogatari.json](./37743-mahjong-sengoku-monogatari.json) |
 | Mahjong Shikaku | 138675 | [138675-mahjong-shikaku.json](./138675-mahjong-shikaku.json) |
@@ -5493,6 +5496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merge | 310137 | [310137-merge.json](./310137-merge.json) |
 | Merge 3 Mania | 234618 | [234618-merge-3-mania.json](./234618-merge-3-mania.json) |
 | Merge 5: 10x10 Color | 233518 | [233518-merge-5-10x10-color.json](./233518-merge-5-10x10-color.json) |
+| Merge Academy | 354983 | [354983-merge-academy.json](./354983-merge-academy.json) |
 | Merge AirPlane | 227501 | [227501-merge-airplane.json](./227501-merge-airplane.json) |
 | Merge Battle | 102592 | [102592-merge-battle.json](./102592-merge-battle.json) |
 | Merge Bistro | 248103 | [248103-merge-bistro.json](./248103-merge-bistro.json) |
@@ -6907,6 +6911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Milk Me Darling | 385061 | [385061-milk-me-darling.json](./385061-milk-me-darling.json) |
 | Milk Me Darling: Busty And The Breast | 301983 | [301983-milk-me-darling-busty-and-the-breast.json](./301983-milk-me-darling-busty-and-the-breast.json) |
 | Milk Pot | 210112 | [210112-milk-pot.json](./210112-milk-pot.json) |
+| Milk Puzzle | 354947 | [354947-milk-puzzle.json](./354947-milk-puzzle.json) |
 | Milk Quest: Repasteurized | 369220 | [369220-milk-quest-repasteurized.json](./369220-milk-quest-repasteurized.json) |
 | Milk Race | 46660 | [46660-milk-race.json](./46660-milk-race.json) |
 | Milk the Cow | 397419 | [397419-milk-the-cow.json](./397419-milk-the-cow.json) |
