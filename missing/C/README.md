@@ -1884,6 +1884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caster's Trap | 130339 | [130339-casters-trap.json](./130339-casters-trap.json) |
 | CasterLords | 120116 | [120116-casterlords.json](./120116-casterlords.json) |
 | Castillon | 332247 | [332247-castillon.json](./332247-castillon.json) |
+| Casting Clicker | 367202 | [367202-casting-clicker.json](./367202-casting-clicker.json) |
 | CastingPlz | 289540 | [289540-castingplz.json](./289540-castingplz.json) |
 | Castle | 166672 | [166672-castle.json](./166672-castle.json) |
 | Castle | 331325 | [331325-castle.json](./331325-castle.json) |
