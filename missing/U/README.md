@@ -1600,6 +1600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unlucky Seven | 29783 | [29783-unlucky-seven.json](./29783-unlucky-seven.json) |
 | Unmanned helicopter | 105365 | [105365-unmanned-helicopter.json](./105365-unmanned-helicopter.json) |
 | UnMarked | 185078 | [185078-unmarked.json](./185078-unmarked.json) |
+| Unmasked Truths: Shattered Dreams | 350458 | [350458-unmasked-truths-shattered-dreams.json](./350458-unmasked-truths-shattered-dreams.json) |
 | Unmasked: An Inner Journey | 286041 | [286041-unmasked-an-inner-journey.json](./286041-unmasked-an-inner-journey.json) |
 | Unmatch | 58805 | [58805-unmatch.json](./58805-unmatch.json) |
 | Unmatched: Digital Edition | 171477 | [171477-unmatched-digital-edition.json](./171477-unmatched-digital-edition.json) |
@@ -1616,6 +1617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UnMetal: UnDeluxe Edition | 173099 | [173099-unmetal-undeluxe-edition.json](./173099-unmetal-undeluxe-edition.json) |
 | Unmixable Syrup | 404404 | [404404-unmixable-syrup.json](./404404-unmixable-syrup.json) |
 | Unmoor | 89341 | [89341-unmoor.json](./89341-unmoor.json) |
+| Unmurk | 350386 | [350386-unmurk.json](./350386-unmurk.json) |
 | Unnamed | 130139 | [130139-unnamed.json](./130139-unnamed.json) |
 | Unnamed Arcade | 338586 | [338586-unnamed-arcade.json](./338586-unnamed-arcade.json) |
 | Unnamed El Shaddai Project | 93535 | [93535-unnamed-el-shaddai-project.json](./93535-unnamed-el-shaddai-project.json) |
