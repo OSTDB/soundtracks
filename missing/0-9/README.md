@@ -39,6 +39,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | .Detuned | 7724 | [7724-detuned.json](./7724-detuned.json) |
 | .ExE | 202236 | [202236-exe.json](./202236-exe.json) |
 | .Fall | 126441 | [126441-fall.json](./126441-fall.json) |
+| .G | 369381 | [369381-g.json](./369381-g.json) |
 | .Hack//G.U. Last Recode | 37134 | [37134-hack-g-u-last-recode.json](./37134-hack-g-u-last-recode.json) |
 | .Hack//G.U. Last Recode: Premium Edition | 166181 | [166181-hack-g-u-last-recode-premium-edition.json](./166181-hack-g-u-last-recode-premium-edition.json) |
 | .Hack//G.U. Vol. 1: Rebirth HD | 182460 | [182460-hack-g-u-vol-1-rebirth-hd.json](./182460-hack-g-u-vol-1-rebirth-hd.json) |
@@ -1828,6 +1829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 9 Years of Dreaming | 337786 | [337786-9-years-of-dreaming.json](./337786-9-years-of-dreaming.json) |
 | 9 Years of Shadows | 143635 | [143635-9-years-of-shadows.json](./143635-9-years-of-shadows.json) |
 | 9-Bit Armies: A Bit Too Far | 273041 | [273041-9-bit-armies-a-bit-too-far.json](./273041-9-bit-armies-a-bit-too-far.json) |
+| 9-Bit Armies: Going Rogue! | 369442 | [369442-9-bit-armies-going-rogue.json](./369442-9-bit-armies-going-rogue.json) |
 | 9-nine-: Episode 1 | 114814 | [114814-9-nine-episode-1.json](./114814-9-nine-episode-1.json) |
 | 9-nine-: Episode 2 | 121587 | [121587-9-nine-episode-2.json](./121587-9-nine-episode-2.json) |
 | 9-nine-: Episode 3 | 143365 | [143365-9-nine-episode-3.json](./143365-9-nine-episode-3.json) |
