@@ -4346,6 +4346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WonderLang French | 312549 | [312549-wonderlang-french.json](./312549-wonderlang-french.json) |
 | WonderLang Japanese | 360710 | [360710-wonderlang-japanese.json](./360710-wonderlang-japanese.json) |
 | Wonderlang Korean | 345031 | [345031-wonderlang-korean.json](./345031-wonderlang-korean.json) |
+| WonderLang Portuguese | 381969 | [381969-wonderlang-portuguese.json](./381969-wonderlang-portuguese.json) |
 | WonderLang Spanish | 381733 | [381733-wonderlang-spanish.json](./381733-wonderlang-spanish.json) |
 | Wondermega Collection | 45870 | [45870-wondermega-collection.json](./45870-wondermega-collection.json) |
 | Wonderputt | 64053 | [64053-wonderputt.json](./64053-wonderputt.json) |
