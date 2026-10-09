@@ -649,6 +649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ice Queen Wedding Salon: Frost Bridal Game | 86832 | [86832-ice-queen-wedding-salon-frost-bridal-game.json](./86832-ice-queen-wedding-salon-frost-bridal-game.json) |
 | Ice Rage | 56929 | [56929-ice-rage.json](./56929-ice-rage.json) |
 | Ice Reverse | 240158 | [240158-ice-reverse.json](./240158-ice-reverse.json) |
+| Ice River | 374442 | [374442-ice-river.json](./374442-ice-river.json) |
 | Ice Run | 309531 | [309531-ice-run.json](./309531-ice-run.json) |
 | Ice Scream 3 | 224040 | [224040-ice-scream-3.json](./224040-ice-scream-3.json) |
 | Ice Scream 4: Rod's Factory | 275007 | [275007-ice-scream-4-rods-factory.json](./275007-ice-scream-4-rods-factory.json) |
@@ -1171,6 +1172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ignited in Cavern | 285690 | [285690-ignited-in-cavern.json](./285690-ignited-in-cavern.json) |
 | Ignitement | 407440 | [407440-ignitement.json](./407440-ignitement.json) |
 | Ignition | 180309 | [180309-ignition.json](./180309-ignition.json) |
+| Ignition 2000: Origins | 374415 | [374415-ignition-2000-origins.json](./374415-ignition-2000-origins.json) |
 | Ignition Arena | 314896 | [314896-ignition-arena.json](./314896-ignition-arena.json) |
 | Ignorance Fighter II: Tour Bus | 181754 | [181754-ignorance-fighter-ii-tour-bus.json](./181754-ignorance-fighter-ii-tour-bus.json) |
 | Ignore the Blackbird | 400951 | [400951-ignore-the-blackbird.json](./400951-ignore-the-blackbird.json) |
@@ -3634,6 +3636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isekai Musume to Konkatsuchuu: Isekai Bride Hunting - Kullulu Edition | 227849 | [227849-isekai-musume-to-konkatsuchuu-isekai-bride-hunting-kullulu-edition.json](./227849-isekai-musume-to-konkatsuchuu-isekai-bride-hunting-kullulu-edition.json) |
 | Isekai Musume to Konkatsuchuu: Isekai Bride Hunting - Kuroro Edition | 225543 | [225543-isekai-musume-to-konkatsuchuu-isekai-bride-hunting-kuroro-edition.json](./225543-isekai-musume-to-konkatsuchuu-isekai-bride-hunting-kuroro-edition.json) |
 | Isekai Neet Engineer Eiyuu ni Naru | 282670 | [282670-isekai-neet-engineer-eiyuu-ni-naru.json](./282670-isekai-neet-engineer-eiyuu-ni-naru.json) |
+| Isekai Revitalizer | 374445 | [374445-isekai-revitalizer.json](./374445-isekai-revitalizer.json) |
 | Isekai Rondo | 237603 | [237603-isekai-rondo.json](./237603-isekai-rondo.json) |
 | Isekai Slowlife | 402894 | [402894-isekai-slowlife.json](./402894-isekai-slowlife.json) |
 | Isekai Survivors | 317972 | [317972-isekai-survivors.json](./317972-isekai-survivors.json) |
