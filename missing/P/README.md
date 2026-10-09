@@ -1846,6 +1846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paths of Valour | 302054 | [302054-paths-of-valour.json](./302054-paths-of-valour.json) |
 | Paths Taken | 119039 | [119039-paths-taken.json](./119039-paths-taken.json) |
 | Pathseeker | 129639 | [129639-pathseeker.json](./129639-pathseeker.json) |
+| PathSketch | 352241 | [352241-pathsketch.json](./352241-pathsketch.json) |
 | Pathstorm | 71512 | [71512-pathstorm.json](./71512-pathstorm.json) |
 | Pathstow Mystery VR | 68753 | [68753-pathstow-mystery-vr.json](./68753-pathstow-mystery-vr.json) |
 | Pathway | 133975 | [133975-pathway.json](./133975-pathway.json) |
