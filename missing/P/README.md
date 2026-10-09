@@ -5168,6 +5168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixicharm: Hallowkinz | 378767 | [378767-pixicharm-hallowkinz.json](./378767-pixicharm-hallowkinz.json) |
 | Pixicharm: Hue Break the Law | 364977 | [364977-pixicharm-hue-break-the-law.json](./364977-pixicharm-hue-break-the-law.json) |
 | Pixicharm: Jack-O-Fall | 340525 | [340525-pixicharm-jack-o-fall.json](./340525-pixicharm-jack-o-fall.json) |
+| Pixicharm: Kunai Zone | 359336 | [359336-pixicharm-kunai-zone.json](./359336-pixicharm-kunai-zone.json) |
 | Pixicharm: Majestreats | 360046 | [360046-pixicharm-majestreats.json](./360046-pixicharm-majestreats.json) |
 | Pixicharm: Mariana Gold | 335081 | [335081-pixicharm-mariana-gold.json](./335081-pixicharm-mariana-gold.json) |
 | Pixicharm: Meowbolt | 337986 | [337986-pixicharm-meowbolt.json](./337986-pixicharm-meowbolt.json) |
@@ -8262,6 +8263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Presidential Beatdown | 361049 | [361049-presidential-beatdown.json](./361049-presidential-beatdown.json) |
 | Presidential Psychologist | 366744 | [366744-presidential-psychologist.json](./366744-presidential-psychologist.json) |
 | Presidential Running Games | 292689 | [292689-presidential-running-games.json](./292689-presidential-running-games.json) |
+| Presidential Social Media Manager | 359345 | [359345-presidential-social-media-manager.json](./359345-presidential-social-media-manager.json) |
 | PreSim | 88242 | [88242-presim.json](./88242-presim.json) |
 | Press a Button Simulator | 369920 | [369920-press-a-button-simulator.json](./369920-press-a-button-simulator.json) |
 | Press Any Button | 143596 | [143596-press-any-button.json](./143596-press-any-button.json) |
@@ -10238,6 +10240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puppet Seed | 349954 | [349954-puppet-seed.json](./349954-puppet-seed.json) |
 | Puppet Tale | 242814 | [242814-puppet-tale.json](./242814-puppet-tale.json) |
 | Puppet Team | 332982 | [332982-puppet-team.json](./332982-puppet-team.json) |
+| Puppet Theater | 359337 | [359337-puppet-theater.json](./359337-puppet-theater.json) |
 | Puppet War | 333153 | [333153-puppet-war.json](./333153-puppet-war.json) |
 | Puppet: Hide And Seek | 302934 | [302934-puppet-hide-and-seek.json](./302934-puppet-hide-and-seek.json) |
 | Puppeteer | 212232 | [212232-puppeteer.json](./212232-puppeteer.json) |
