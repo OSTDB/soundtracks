@@ -1160,6 +1160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IG Arena: Idle RPG | 232054 | [232054-ig-arena-idle-rpg.json](./232054-ig-arena-idle-rpg.json) |
 | Iga Ninden Ga-ou | 55899 | [55899-iga-ninden-ga-ou.json](./55899-iga-ninden-ga-ou.json) |
 | Iga tai Kouga | 385742 | [385742-iga-tai-kouga.json](./385742-iga-tai-kouga.json) |
+| Igano Kabamaru | 349267 | [349267-igano-kabamaru.json](./349267-igano-kabamaru.json) |
 | IGDB | 242599 | [242599-igdb.json](./242599-igdb.json) |
 | Ige Museun Tteusin-ji Moreugesseoyo | 365223 | [365223-ige-museun-tteusin-ji-moreugesseoyo.json](./365223-ige-museun-tteusin-ji-moreugesseoyo.json) |
 | Igeo DX | 136419 | [136419-igeo-dx.json](./136419-igeo-dx.json) |
