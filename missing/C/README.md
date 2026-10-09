@@ -1225,6 +1225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Simulator 2015 | 83216 | [83216-car-simulator-2015.json](./83216-car-simulator-2015.json) |
 | Car Simulator: Car Games 3D | 266260 | [266260-car-simulator-car-games-3d.json](./266260-car-simulator-car-games-3d.json) |
 | Car Soccer World Cup | 120825 | [120825-car-soccer-world-cup.json](./120825-car-soccer-world-cup.json) |
+| Car Street | 349815 | [349815-car-street.json](./349815-car-street.json) |
 | Car Trader Simulator: Welcome to the Business | 171384 | [171384-car-trader-simulator-welcome-to-the-business.json](./171384-car-trader-simulator-welcome-to-the-business.json) |
 | Car Tuner 2020 | 129206 | [129206-car-tuner-2020.json](./129206-car-tuner-2020.json) |
 | Car Tycoon | 362291 | [362291-car-tycoon.json](./362291-car-tycoon.json) |
@@ -5067,6 +5068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cinderella's Spark | 184037 | [184037-cinderellas-spark.json](./184037-cinderellas-spark.json) |
 | Cinderline | 392394 | [392394-cinderline.json](./392394-cinderline.json) |
 | Cinders | 196163 | [196163-cinders.json](./196163-cinders.json) |
+| Cinderscratch | 349820 | [349820-cinderscratch.json](./349820-cinderscratch.json) |
 | Cinderstone Online | 132149 | [132149-cinderstone-online.json](./132149-cinderstone-online.json) |
 | Cindy's Sundaes | 52736 | [52736-cindys-sundaes.json](./52736-cindys-sundaes.json) |
 | Cine Tracer | 112265 | [112265-cine-tracer.json](./112265-cine-tracer.json) |
@@ -7683,6 +7685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ComputerCraft | 232659 | [232659-computercraft.json](./232659-computercraft.json) |
 | Computerfriend | 215231 | [215231-computerfriend.json](./215231-computerfriend.json) |
 | Computergirl888 | 226683 | [226683-computergirl888.json](./226683-computergirl888.json) |
+| ComputerHead: Springloaded | 349817 | [349817-computerhead-springloaded.json](./349817-computerhead-springloaded.json) |
 | Comrade Quack | 195176 | [195176-comrade-quack.json](./195176-comrade-quack.json) |
 | Comrade Trump's Re-election | 286523 | [286523-comrade-trumps-re-election.json](./286523-comrade-trumps-re-election.json) |
 | Comrade-in-Arms | 130169 | [130169-comrade-in-arms.json](./130169-comrade-in-arms.json) |
@@ -9363,6 +9366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CraftCraft: Fantasy Merchant Simulator | 249178 | [249178-craftcraft-fantasy-merchant-simulator.json](./249178-craftcraft-fantasy-merchant-simulator.json) |
 | Crafter | 326042 | [326042-crafter.json](./326042-crafter.json) |
 | Crafter Game - Incremental Puzzle RPG Game | 25737 | [25737-crafter-game-incremental-puzzle-rpg-game.json](./25737-crafter-game-incremental-puzzle-rpg-game.json) |
+| Crafters Heaven | 349826 | [349826-crafters-heaven.json](./349826-crafters-heaven.json) |
 | Craftimals: Build to the Sun | 65250 | [65250-craftimals-build-to-the-sun.json](./65250-craftimals-build-to-the-sun.json) |
 | Crafting and Building: Exploration Craft | 99108 | [99108-crafting-and-building-exploration-craft.json](./99108-crafting-and-building-exploration-craft.json) |
 | Crafting Combat | 272270 | [272270-crafting-combat.json](./272270-crafting-combat.json) |
@@ -9626,6 +9630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crayons | 159297 | [159297-crayons.json](./159297-crayons.json) |
 | Crayta | 133937 | [133937-crayta.json](./133937-crayta.json) |
 | Craz'D: 13th Anniversary Edition | 313296 | [313296-crazd-13th-anniversary-edition.json](./313296-crazd-13th-anniversary-edition.json) |
+| Crazee Rider | 349898 | [349898-crazee-rider.json](./349898-crazee-rider.json) |
 | Crazlipse | 339336 | [339336-crazlipse.json](./339336-crazlipse.json) |
 | Crazy | 261777 | [261777-crazy.json](./261777-crazy.json) |
 | Crazy 8s Revamped | 26649 | [26649-crazy-8s-revamped.json](./26649-crazy-8s-revamped.json) |
