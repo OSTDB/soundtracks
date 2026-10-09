@@ -12784,6 +12784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Trackers: Paxton Creek Avenger | 89134 | [89134-mystery-trackers-paxton-creek-avenger.json](./89134-mystery-trackers-paxton-creek-avenger.json) |
 | Mystery Trackers: Paxton Creek Avenger Collector's Edition | 153456 | [153456-mystery-trackers-paxton-creek-avenger-collectors-edition.json](./153456-mystery-trackers-paxton-creek-avenger-collectors-edition.json) |
 | Mystery Trackers: Raincliff's Phantoms | 201829 | [201829-mystery-trackers-raincliffs-phantoms.json](./201829-mystery-trackers-raincliffs-phantoms.json) |
+| Mystery Trackers: Raincliff's Phantoms - Collector's Edition | 381380 | [381380-mystery-trackers-raincliffs-phantoms-collectors-edition.json](./381380-mystery-trackers-raincliffs-phantoms-collectors-edition.json) |
 | Mystery Trackers: Raincliff's Phantoms & Mystery Trackers: Blackrow's Secret | 201817 | [201817-mystery-trackers-raincliffs-phantoms-and-mystery-trackers-blackrows-secret.json](./201817-mystery-trackers-raincliffs-phantoms-and-mystery-trackers-blackrows-secret.json) |
 | Mystery Trackers: The Fall of Iron Rock | 187935 | [187935-mystery-trackers-the-fall-of-iron-rock.json](./187935-mystery-trackers-the-fall-of-iron-rock.json) |
 | Mystery Trackers: The Secret of Watch Hill | 187957 | [187957-mystery-trackers-the-secret-of-watch-hill.json](./187957-mystery-trackers-the-secret-of-watch-hill.json) |
