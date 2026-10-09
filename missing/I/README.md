@@ -2923,6 +2923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inter Milan Club Football 2005 | 267906 | [267906-inter-milan-club-football-2005.json](./267906-inter-milan-club-football-2005.json) |
 | Inter Solar 83 | 236231 | [236231-inter-solar-83.json](./236231-inter-solar-83.json) |
 | InterAct | 247002 | [247002-interact.json](./247002-interact.json) |
+| Interactive Buddy for Mobile | 356030 | [356030-interactive-buddy-for-mobile.json](./356030-interactive-buddy-for-mobile.json) |
 | Interactive Empathy | 392802 | [392802-interactive-empathy.json](./392802-interactive-empathy.json) |
 | Interactive Manual For Employees of Pippi-integrated Companies | 392442 | [392442-interactive-manual-for-employees-of-pippi-integrated-companies.json](./392442-interactive-manual-for-employees-of-pippi-integrated-companies.json) |
 | Interactive meadow 64 | 178022 | [178022-interactive-meadow-64.json](./178022-interactive-meadow-64.json) |
