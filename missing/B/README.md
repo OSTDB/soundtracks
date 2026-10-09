@@ -1754,6 +1754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baseball | 305278 | [305278-baseball.json](./305278-baseball.json) |
 | Baseball | 305459 | [305459-baseball.json](./305459-baseball.json) |
 | Baseball | 324978 | [324978-baseball.json](./324978-baseball.json) |
+| Baseball | 358833 | [358833-baseball.json](./358833-baseball.json) |
 | Baseball | 7580 | [7580-baseball.json](./7580-baseball.json) |
 | Baseball | 7581 | [7581-baseball.json](./7581-baseball.json) |
 | Baseball 101 | 230839 | [230839-baseball-101.json](./230839-baseball-101.json) |
@@ -3276,6 +3277,30 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beats Runner | 123990 | [123990-beats-runner.json](./123990-beats-runner.json) |
 | Beats Warrior: Nian | 118266 | [118266-beats-warrior-nian.json](./118266-beats-warrior-nian.json) |
 | Beats&Boss | 338202 | [338202-beats-and-boss.json](./338202-beats-and-boss.json) |
+| Beatstar: Beatstar Originals - "Housetop Jingle" | 358785 | [358785-beatstar-beatstar-originals-housetop-jingle.json](./358785-beatstar-beatstar-originals-housetop-jingle.json) |
+| Beatstar: Beatstar Originals - "Level Up!" | 358793 | [358793-beatstar-beatstar-originals-level-up.json](./358793-beatstar-beatstar-originals-level-up.json) |
+| Beatstar: Beatstar Originals - "Persistence" | 358800 | [358800-beatstar-beatstar-originals-persistence.json](./358800-beatstar-beatstar-originals-persistence.json) |
+| Beatstar: Beatstar Originals - "Rattlin' Rhythm" | 358803 | [358803-beatstar-beatstar-originals-rattlin-rhythm.json](./358803-beatstar-beatstar-originals-rattlin-rhythm.json) |
+| Beatstar: Bossa Studios / Black Heron - "Surgeon Simulator (Theme Tune)" | 358809 | [358809-beatstar-bossa-studios-black-heron-surgeon-simulator-theme-tune.json](./358809-beatstar-bossa-studios-black-heron-surgeon-simulator-theme-tune.json) |
+| Beatstar: Doja Cat - "Say So" | 358806 | [358806-beatstar-doja-cat-say-so.json](./358806-beatstar-doja-cat-say-so.json) |
+| Beatstar: Dolly Parton - "Jolene" | 358788 | [358788-beatstar-dolly-parton-jolene.json](./358788-beatstar-dolly-parton-jolene.json) |
+| Beatstar: Eminem, Rihanna - "Love the Way You Lie" | 358795 | [358795-beatstar-eminem-rihanna-love-the-way-you-lie.json](./358795-beatstar-eminem-rihanna-love-the-way-you-lie.json) |
+| Beatstar: Grimes - "Kill V. Maim" | 358791 | [358791-beatstar-grimes-kill-v-maim.json](./358791-beatstar-grimes-kill-v-maim.json) |
+| Beatstar: Harry Shotta - "The Fast Lane: Space Ape Edition" | 358810 | [358810-beatstar-harry-shotta-the-fast-lane-space-ape-edition.json](./358810-beatstar-harry-shotta-the-fast-lane-space-ape-edition.json) |
+| Beatstar: Macklemore, Ryan Lewis, Wanz - "Thrift Shop" | 358812 | [358812-beatstar-macklemore-ryan-lewis-wanz-thrift-shop.json](./358812-beatstar-macklemore-ryan-lewis-wanz-thrift-shop.json) |
+| Beatstar: Miley Cyrus - "Malibu" | 358797 | [358797-beatstar-miley-cyrus-malibu.json](./358797-beatstar-miley-cyrus-malibu.json) |
+| Beatstar: NERO - "Promises" | 358801 | [358801-beatstar-nero-promises.json](./358801-beatstar-nero-promises.json) |
+| Beatstar: Nickelback - "Rockstar" | 358804 | [358804-beatstar-nickelback-rockstar.json](./358804-beatstar-nickelback-rockstar.json) |
+| Beatstar: No Doubt - "Just a Girl" | 358790 | [358790-beatstar-no-doubt-just-a-girl.json](./358790-beatstar-no-doubt-just-a-girl.json) |
+| Beatstar: Papa Roach - "Last Resort" | 358792 | [358792-beatstar-papa-roach-last-resort.json](./358792-beatstar-papa-roach-last-resort.json) |
+| Beatstar: Reel 2 Real, The Mad Stuntman - "I Like to Move It" | 358786 | [358786-beatstar-reel-2-real-the-mad-stuntman-i-like-to-move-it.json](./358786-beatstar-reel-2-real-the-mad-stuntman-i-like-to-move-it.json) |
+| Beatstar: Roberto Bazzoni / Nitrome - "Super Leap Day (Capital Highway)" | 358808 | [358808-beatstar-roberto-bazzoni-nitrome-super-leap-day-capital-highway.json](./358808-beatstar-roberto-bazzoni-nitrome-super-leap-day-capital-highway.json) |
+| Beatstar: Run-D.M.C. - "It's Tricky" | 358787 | [358787-beatstar-run-d-m-c-its-tricky.json](./358787-beatstar-run-d-m-c-its-tricky.json) |
+| Beatstar: Salt-N-Pepa - "Push It" | 358802 | [358802-beatstar-salt-n-pepa-push-it.json](./358802-beatstar-salt-n-pepa-push-it.json) |
+| Beatstar: Stan Bush - "The Touch" | 358811 | [358811-beatstar-stan-bush-the-touch.json](./358811-beatstar-stan-bush-the-touch.json) |
+| Beatstar: Supercell - "Hay Day Theme" | 358782 | [358782-beatstar-supercell-hay-day-theme.json](./358782-beatstar-supercell-hay-day-theme.json) |
+| Beatstar: Ultimate Studio, Tim Spicer, Yahor Milkota - "Hotshot (Hot Lap League Theme)" | 358784 | [358784-beatstar-ultimate-studio-tim-spicer-yahor-milkota-hotshot-hot-lap-league-theme.json](./358784-beatstar-ultimate-studio-tim-spicer-yahor-milkota-hotshot-hot-lap-league-theme.json) |
+| Beatstar: Yeah Yeah Yeahs - "Heads Will Roll" | 358783 | [358783-beatstar-yeah-yeah-yeahs-heads-will-roll.json](./358783-beatstar-yeah-yeah-yeahs-heads-will-roll.json) |
 | Beatus Creation Solitaire | 201004 | [201004-beatus-creation-solitaire.json](./201004-beatus-creation-solitaire.json) |
 | Beatworks Inc. | 386444 | [386444-beatworks-inc.json](./386444-beatworks-inc.json) |
 | Beauties Academy: Spellcraft Tournament | 211429 | [211429-beauties-academy-spellcraft-tournament.json](./211429-beauties-academy-spellcraft-tournament.json) |
@@ -8243,6 +8268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bowling | 291999 | [291999-bowling.json](./291999-bowling.json) |
 | Bowling | 300414 | [300414-bowling.json](./300414-bowling.json) |
 | Bowling | 317634 | [317634-bowling.json](./317634-bowling.json) |
+| Bowling | 358828 | [358828-bowling.json](./358828-bowling.json) |
 | Bowling 2000 | 391790 | [391790-bowling-2000.json](./391790-bowling-2000.json) |
 | Bowling 3D | 42776 | [42776-bowling-3d.json](./42776-bowling-3d.json) |
 | Bowling 3D Extreme | 89226 | [89226-bowling-3d-extreme.json](./89226-bowling-3d-extreme.json) |
