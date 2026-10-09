@@ -728,6 +728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You Need to Summon a Demon | 419868 | [419868-you-need-to-summon-a-demon.json](./419868-you-need-to-summon-a-demon.json) |
 | You Only Live Once | 212697 | [212697-you-only-live-once.json](./212697-you-only-live-once.json) |
 | You Only Livez Twice | 124250 | [124250-you-only-livez-twice.json](./124250-you-only-livez-twice.json) |
+| You Picked the Wrong Castle | 366116 | [366116-you-picked-the-wrong-castle.json](./366116-you-picked-the-wrong-castle.json) |
 | You Played Yourself | 184946 | [184946-you-played-yourself.json](./184946-you-played-yourself.json) |
 | You See a Monster Smoking in the Parking Lot | 377666 | [377666-you-see-a-monster-smoking-in-the-parking-lot.json](./377666-you-see-a-monster-smoking-in-the-parking-lot.json) |
 | You Shall Not Jump: PC Master Race Edition | 41967 | [41967-you-shall-not-jump-pc-master-race-edition.json](./41967-you-shall-not-jump-pc-master-race-edition.json) |
@@ -1215,6 +1216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yunashi no Yume | 330298 | [330298-yunashi-no-yume.json](./330298-yunashi-no-yume.json) |
 | Yúndiān | 129644 | [129644-yundian.json](./129644-yundian.json) |
 | Yúnduān zhī Yuē | 164280 | [164280-yunduan-zhi-yue.json](./164280-yunduan-zhi-yue.json) |
+| Yunhanzhi | 366115 | [366115-yunhanzhi.json](./366115-yunhanzhi.json) |
 | Yúnhuāng Xiāoyáozhuàn | 399741 | [399741-yunhuang-xiaoyaozhuan.json](./399741-yunhuang-xiaoyaozhuan.json) |
 | Yunoha na Spring!: Cherishing Time | 135855 | [135855-yunoha-na-spring-cherishing-time.json](./135855-yunoha-na-spring-cherishing-time.json) |
 | Yunoha na Spring!: Mellow Times for Nintendo Switch | 136836 | [136836-yunoha-na-spring-mellow-times-for-nintendo-switch.json](./136836-yunoha-na-spring-mellow-times-for-nintendo-switch.json) |
