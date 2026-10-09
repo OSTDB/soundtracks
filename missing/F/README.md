@@ -462,6 +462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairy Tower Defense | 107812 | [107812-fairy-tower-defense.json](./107812-fairy-tower-defense.json) |
 | Fairy Treasure - Brick Breaker | 108859 | [108859-fairy-treasure-brick-breaker.json](./108859-fairy-treasure-brick-breaker.json) |
 | Fairy Village | 233625 | [233625-fairy-village.json](./233625-fairy-village.json) |
+| Fairy Whale | 345991 | [345991-fairy-whale.json](./345991-fairy-whale.json) |
 | FairyLand | 413711 | [413711-fairyland.json](./413711-fairyland.json) |
 | Fairyland Melody Magic | 68055 | [68055-fairyland-melody-magic.json](./68055-fairyland-melody-magic.json) |
 | Fairyland: Manuscript | 51431 | [51431-fairyland-manuscript.json](./51431-fairyland-manuscript.json) |
@@ -3262,6 +3263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find HQ: Police Station | 331123 | [331123-find-hq-police-station.json](./331123-find-hq-police-station.json) |
 | Find It - Tap the Different | 55102 | [55102-find-it-tap-the-different.json](./55102-find-it-tap-the-different.json) |
 | Find It! | 366431 | [366431-find-it.json](./366431-find-it.json) |
+| Find It! Brain Training Challenge | 345992 | [345992-find-it-brain-training-challenge.json](./345992-find-it-brain-training-challenge.json) |
 | Find it! Festival in the Hotel | 311629 | [311629-find-it-festival-in-the-hotel.json](./311629-find-it-festival-in-the-hotel.json) |
 | Find it! Mr. Pict of the Emergency Exit | 222229 | [222229-find-it-mr-pict-of-the-emergency-exit.json](./222229-find-it-mr-pict-of-the-emergency-exit.json) |
 | Find It! World Heritage Adventure | 376235 | [376235-find-it-world-heritage-adventure.json](./376235-find-it-world-heritage-adventure.json) |
@@ -5959,6 +5961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Formation Soccer 2002 | 49575 | [49575-formation-soccer-2002.json](./49575-formation-soccer-2002.json) |
 | Formation Soccer 95: della Serie A | 65179 | [65179-formation-soccer-95-della-serie-a.json](./65179-formation-soccer-95-della-serie-a.json) |
 | Formation Soccer: Human Cup '90 | 42046 | [42046-formation-soccer-human-cup-90.json](./42046-formation-soccer-human-cup-90.json) |
+| Formation Z | 346072 | [346072-formation-z.json](./346072-formation-z.json) |
 | Formation Z | 37190 | [37190-formation-z.json](./37190-formation-z.json) |
 | Former Future | 128452 | [128452-former-future.json](./128452-former-future.json) |
 | Formic Fortress | 405590 | [405590-formic-fortress.json](./405590-formic-fortress.json) |
