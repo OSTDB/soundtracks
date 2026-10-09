@@ -225,6 +225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Race Illegal | 240211 | [240211-race-illegal.json](./240211-race-illegal.json) |
 | Race in Desert | 234747 | [234747-race-in-desert.json](./234747-race-in-desert.json) |
 | Race Injection | 10867 | [10867-race-injection.json](./10867-race-injection.json) |
+| Race Jam | 344982 | [344982-race-jam.json](./344982-race-jam.json) |
 | Race Journey: Nitro | 219176 | [219176-race-journey-nitro.json](./219176-race-journey-nitro.json) |
 | Race Manager | 264630 | [264630-race-manager.json](./264630-race-manager.json) |
 | Race Maniacs | 132605 | [132605-race-maniacs.json](./132605-race-maniacs.json) |
@@ -5387,6 +5388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robot Adventure | 285537 | [285537-robot-adventure.json](./285537-robot-adventure.json) |
 | Robot Alchemic Drive | 24083 | [24083-robot-alchemic-drive.json](./24083-robot-alchemic-drive.json) |
 | Robot Anarchy | 328496 | [328496-robot-anarchy.json](./328496-robot-anarchy.json) |
+| Robot Anomaly | 344986 | [344986-robot-anomaly.json](./344986-robot-anomaly.json) |
 | Robot Arena | 9015 | [9015-robot-arena.json](./9015-robot-arena.json) |
 | Robot Arena 2: Design and Destroy | 8854 | [8854-robot-arena-2-design-and-destroy.json](./8854-robot-arena-2-design-and-destroy.json) |
 | Robot Arena: Design & Destroy | 79323 | [79323-robot-arena-design-and-destroy.json](./79323-robot-arena-design-and-destroy.json) |
