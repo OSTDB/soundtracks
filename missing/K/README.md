@@ -2677,6 +2677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knight Throde | 157071 | [157071-knight-throde.json](./157071-knight-throde.json) |
 | Knight Tyme | 12360 | [12360-knight-tyme.json](./12360-knight-tyme.json) |
 | Knight Versus Demon | 277518 | [277518-knight-versus-demon.json](./277518-knight-versus-demon.json) |
+| Knight vs. Monsters | 352234 | [352234-knight-vs-monsters.json](./352234-knight-vs-monsters.json) |
 | Knight Without Sword | 263587 | [263587-knight-without-sword.json](./263587-knight-without-sword.json) |
 | Knight-Blade: Howling of Kerberos | 324886 | [324886-knight-blade-howling-of-kerberos.json](./324886-knight-blade-howling-of-kerberos.json) |
 | Knight's Apprentice, Memorick's Adventures | 70469 | [70469-knights-apprentice-memoricks-adventures.json](./70469-knights-apprentice-memoricks-adventures.json) |
