@@ -2096,6 +2096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Payday 3: Jacket Character Pack | 367398 | [367398-payday-3-jacket-character-pack.json](./367398-payday-3-jacket-character-pack.json) |
 | Payday 3: Silver Edition | 266897 | [266897-payday-3-silver-edition.json](./266897-payday-3-silver-edition.json) |
 | Payday Freecell | 210013 | [210013-payday-freecell.json](./210013-payday-freecell.json) |
+| Payday Freecell HD | 354984 | [354984-payday-freecell-hd.json](./354984-payday-freecell-hd.json) |
 | Payday: Aces High | 395847 | [395847-payday-aces-high.json](./395847-payday-aces-high.json) |
 | Payday: Crime War | 98080 | [98080-payday-crime-war.json](./98080-payday-crime-war.json) |
 | Payday: Don't Be a Hero | 329145 | [329145-payday-dont-be-a-hero.json](./329145-payday-dont-be-a-hero.json) |
@@ -2330,6 +2331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peggle 2: Jimmy Lightning Master Pack | 339484 | [339484-peggle-2-jimmy-lightning-master-pack.json](./339484-peggle-2-jimmy-lightning-master-pack.json) |
 | Peggle 2: Magical Masters Edition | 118895 | [118895-peggle-2-magical-masters-edition.json](./118895-peggle-2-magical-masters-edition.json) |
 | Peggle 2: Windy the Fairy Master Pack | 294409 | [294409-peggle-2-windy-the-fairy-master-pack.json](./294409-peggle-2-windy-the-fairy-master-pack.json) |
+| Peggle Blast HD | 354985 | [354985-peggle-blast-hd.json](./354985-peggle-blast-hd.json) |
 | Peggle Deluxe | 28975 | [28975-peggle-deluxe.json](./28975-peggle-deluxe.json) |
 | Peggle Extreme | 15646 | [15646-peggle-extreme.json](./15646-peggle-extreme.json) |
 | Peggle Nights | 14813 | [14813-peggle-nights.json](./14813-peggle-nights.json) |
@@ -3318,6 +3320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phineas and Ferb: Quest for Cool Stuff | 5318 | [5318-phineas-and-ferb-quest-for-cool-stuff.json](./5318-phineas-and-ferb-quest-for-cool-stuff.json) |
 | Phix: The Adventure | 46086 | [46086-phix-the-adventure.json](./46086-phix-the-adventure.json) |
 | Phlegethon | 187520 | [187520-phlegethon.json](./187520-phlegethon.json) |
+| Phlinx II | 354986 | [354986-phlinx-ii.json](./354986-phlinx-ii.json) |
 | Phlinx to Go | 209971 | [209971-phlinx-to-go.json](./209971-phlinx-to-go.json) |
 | Phmlspd | 223132 | [223132-phmlspd.json](./223132-phmlspd.json) |
 | Pho King My Life | 258423 | [258423-pho-king-my-life.json](./258423-pho-king-my-life.json) |
@@ -6109,6 +6112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Kite | 200183 | [200183-pocket-kite.json](./200183-pocket-kite.json) |
 | Pocket Kitten | 407477 | [407477-pocket-kitten.json](./407477-pocket-kitten.json) |
 | Pocket Knights 2 | 54715 | [54715-pocket-knights-2.json](./54715-pocket-knights-2.json) |
+| Pocket Kyoro-chan | 354959 | [354959-pocket-kyoro-chan.json](./354959-pocket-kyoro-chan.json) |
 | Pocket Lands | 183473 | [183473-pocket-lands.json](./183473-pocket-lands.json) |
 | Pocket Legend | 322144 | [322144-pocket-legend.json](./322144-pocket-legend.json) |
 | Pocket Legends Adventures | 77609 | [77609-pocket-legends-adventures.json](./77609-pocket-legends-adventures.json) |
@@ -6241,17 +6245,21 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pogo | 130837 | [130837-pogo.json](./130837-pogo.json) |
 | Pogo | 45363 | [45363-pogo.json](./45363-pogo.json) |
 | Pogo Addiction Solitaire | 366444 | [366444-pogo-addiction-solitaire.json](./366444-pogo-addiction-solitaire.json) |
+| Pogo Addiction Solitaire HD | 354987 | [354987-pogo-addiction-solitaire-hd.json](./354987-pogo-addiction-solitaire-hd.json) |
 | Pogo Arc | 271695 | [271695-pogo-arc.json](./271695-pogo-arc.json) |
 | Pogo Bowl | 209351 | [209351-pogo-bowl.json](./209351-pogo-bowl.json) |
 | Pogo Chick | 240876 | [240876-pogo-chick.json](./240876-pogo-chick.json) |
+| Pogo Daily Sudoku | 354988 | [354988-pogo-daily-sudoku.json](./354988-pogo-daily-sudoku.json) |
 | Pogo Epoch: Impossible 99% | 329177 | [329177-pogo-epoch-impossible-99.json](./329177-pogo-epoch-impossible-99.json) |
 | Pogo Island | 21401 | [21401-pogo-island.json](./21401-pogo-island.json) |
 | Pogo Joe | 23937 | [23937-pogo-joe.json](./23937-pogo-joe.json) |
 | Pogo Knight | 320566 | [320566-pogo-knight.json](./320566-pogo-knight.json) |
+| Pogo Mini-Golf | 354989 | [354989-pogo-mini-golf.json](./354989-pogo-mini-golf.json) |
 | Pogo Panic | 373341 | [373341-pogo-panic.json](./373341-pogo-panic.json) |
 | Pogo Party | 224587 | [224587-pogo-party.json](./224587-pogo-party.json) |
 | Pogo Postman | 183463 | [183463-pogo-postman.json](./183463-pogo-postman.json) |
 | Pogo Rage: The Awakening | 220649 | [220649-pogo-rage-the-awakening.json](./220649-pogo-rage-the-awakening.json) |
+| Pogo Sudoku | 354990 | [354990-pogo-sudoku.json](./354990-pogo-sudoku.json) |
 | Pogo Swing! | 388176 | [388176-pogo-swing.json](./388176-pogo-swing.json) |
 | Pogo Up! | 365289 | [365289-pogo-up.json](./365289-pogo-up.json) |
 | Pogo-Gogo | 291784 | [291784-pogo-gogo.json](./291784-pogo-gogo.json) |
@@ -7536,6 +7544,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poppie Land | 360133 | [360133-poppie-land.json](./360133-poppie-land.json) |
 | Poppin Bottles | 28099 | [28099-poppin-bottles.json](./28099-poppin-bottles.json) |
 | Poppin' Donuts | 157215 | [157215-poppin-donuts.json](./157215-poppin-donuts.json) |
+| Poppit! Bingo | 354991 | [354991-poppit-bingo.json](./354991-poppit-bingo.json) |
+| Poppit! HD | 354992 | [354992-poppit-hd.json](./354992-poppit-hd.json) |
 | Poppit! Party | 354993 | [354993-poppit-party.json](./354993-poppit-party.json) |
 | Poppit! Sprint | 366445 | [366445-poppit-sprint.json](./366445-poppit-sprint.json) |
 | Poppix | 105535 | [105535-poppix.json](./105535-poppix.json) |
