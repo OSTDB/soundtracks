@@ -253,6 +253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yeli Orog | 104331 | [104331-yeli-orog.json](./104331-yeli-orog.json) |
 | Yelling At Cats: The Game | 395727 | [395727-yelling-at-cats-the-game.json](./395727-yelling-at-cats-the-game.json) |
 | Yello Adventures | 242571 | [242571-yello-adventures.json](./242571-yello-adventures.json) |
+| Yellow | 385396 | [385396-yellow.json](./385396-yellow.json) |
 | Yellow | 83717 | [83717-yellow.json](./83717-yellow.json) |
 | Yellow Ballman | 153920 | [153920-yellow-ballman.json](./153920-yellow-ballman.json) |
 | Yellow Brick Road | 171898 | [171898-yellow-brick-road.json](./171898-yellow-brick-road.json) |
@@ -979,6 +980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yu Suzuki Game Works Vol. 1 | 56453 | [56453-yu-suzuki-game-works-vol-1.json](./56453-yu-suzuki-game-works-vol-1.json) |
 | Yu Yu Hakusho: Dark Martial Arts Club | 208940 | [208940-yu-yu-hakusho-dark-martial-arts-club.json](./208940-yu-yu-hakusho-dark-martial-arts-club.json) |
 | Yu Yu Hakusho: Ghost Files - Dark Tournament | 43525 | [43525-yu-yu-hakusho-ghost-files-dark-tournament.json](./43525-yu-yu-hakusho-ghost-files-dark-tournament.json) |
+| Yu-Gi-Oh 2 | 385357 | [385357-yu-gi-oh-2.json](./385357-yu-gi-oh-2.json) |
 | Yu-Gi-Oh GX: The Beginning of Destiny | 21680 | [21680-yu-gi-oh-gx-the-beginning-of-destiny.json](./21680-yu-gi-oh-gx-the-beginning-of-destiny.json) |
 | Yu-Gi-Oh PokéDuel | 270787 | [270787-yu-gi-oh-pokeduel.json](./270787-yu-gi-oh-pokeduel.json) |
 | Yu-Gi-Oh! 5D's Decade Duels | 66774 | [66774-yu-gi-oh-5ds-decade-duels.json](./66774-yu-gi-oh-5ds-decade-duels.json) |
