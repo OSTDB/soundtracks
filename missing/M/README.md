@@ -3779,6 +3779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze Mart | 208248 | [208248-maze-mart.json](./208248-maze-mart.json) |
 | Maze Master | 94010 | [94010-maze-master.json](./94010-maze-master.json) |
 | Maze Masters | 148913 | [148913-maze-masters.json](./148913-maze-masters.json) |
+| Maze Nightmare: Edge of Darkness | 379710 | [379710-maze-nightmare-edge-of-darkness.json](./379710-maze-nightmare-edge-of-darkness.json) |
 | Maze Ninja | 115141 | [115141-maze-ninja.json](./115141-maze-ninja.json) |
 | Maze of Acheron | 172098 | [172098-maze-of-acheron.json](./172098-maze-of-acheron.json) |
 | Maze of Adventures | 81745 | [81745-maze-of-adventures.json](./81745-maze-of-adventures.json) |
@@ -5196,6 +5197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memory Battle | 138574 | [138574-memory-battle.json](./138574-memory-battle.json) |
 | Memory Challenge! | 89676 | [89676-memory-challenge.json](./89676-memory-challenge.json) |
 | Memory Chase | 243811 | [243811-memory-chase.json](./243811-memory-chase.json) |
+| Memory Chip | 379697 | [379697-memory-chip.json](./379697-memory-chip.json) |
 | Memory Color! | 252145 | [252145-memory-color.json](./252145-memory-color.json) |
 | Memory Data Memory | 331131 | [331131-memory-data-memory.json](./331131-memory-data-memory.json) |
 | Memory Days | 196255 | [196255-memory-days.json](./196255-memory-days.json) |
@@ -6239,6 +6241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MicroLeague Football 2 | 94265 | [94265-microleague-football-2.json](./94265-microleague-football-2.json) |
 | MicroLink Shut the Box | 74063 | [74063-microlink-shut-the-box.json](./74063-microlink-shut-the-box.json) |
 | MicroMachines | 94846 | [94846-micromachines.json](./94846-micromachines.json) |
+| MicroMechanica | 379714 | [379714-micromechanica.json](./379714-micromechanica.json) |
 | Micromon Adventures | 105865 | [105865-micromon-adventures.json](./105865-micromon-adventures.json) |
 | Micron Defense Force | 303062 | [303062-micron-defense-force.json](./303062-micron-defense-force.json) |
 | Micronomicon: Heroes | 116919 | [116919-micronomicon-heroes.json](./116919-micronomicon-heroes.json) |
