@@ -1280,6 +1280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Once Upon A Plague | 184565 | [184565-once-upon-a-plague.json](./184565-once-upon-a-plague.json) |
 | Once Upon a Puppet | 74771 | [74771-once-upon-a-puppet.json](./74771-once-upon-a-puppet.json) |
 | Once Upon A Puppet: Backstage Edition | 342235 | [342235-once-upon-a-puppet-backstage-edition.json](./342235-once-upon-a-puppet-backstage-edition.json) |
+| Once Upon a Shell | 383151 | [383151-once-upon-a-shell.json](./383151-once-upon-a-shell.json) |
 | Once Upon A Siege | 224765 | [224765-once-upon-a-siege.json](./224765-once-upon-a-siege.json) |
 | Once Upon a Spirit | 354000 | [354000-once-upon-a-spirit.json](./354000-once-upon-a-spirit.json) |
 | Once upon a Thai: Learn Thai | 214755 | [214755-once-upon-a-thai-learn-thai.json](./214755-once-upon-a-thai-learn-thai.json) |
@@ -2279,6 +2280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orbital Invaders | 156656 | [156656-orbital-invaders.json](./156656-orbital-invaders.json) |
 | Orbital Money | 223999 | [223999-orbital-money.json](./223999-orbital-money.json) |
 | Orbital Outbreak | 385871 | [385871-orbital-outbreak.json](./385871-orbital-outbreak.json) |
+| Orbital Overdrive | 383113 | [383113-orbital-overdrive.json](./383113-orbital-overdrive.json) |
 | Orbital Patrol | 244783 | [244783-orbital-patrol.json](./244783-orbital-patrol.json) |
 | Orbital Racer | 74130 | [74130-orbital-racer.json](./74130-orbital-racer.json) |
 | Orbital Siege | 365057 | [365057-orbital-siege.json](./365057-orbital-siege.json) |
