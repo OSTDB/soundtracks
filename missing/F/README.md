@@ -1892,6 +1892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fate Hunters | 107693 | [107693-fate-hunters.json](./107693-fate-hunters.json) |
 | Fate in the Darkness | 169385 | [169385-fate-in-the-darkness.json](./169385-fate-in-the-darkness.json) |
 | Fate Is Not A Line | 335255 | [335255-fate-is-not-a-line.json](./335255-fate-is-not-a-line.json) |
+| Fate Machine | 377959 | [377959-fate-machine.json](./377959-fate-machine.json) |
 | Fate of Hellas | 21302 | [21302-fate-of-hellas.json](./21302-fate-of-hellas.json) |
 | Fate of India | 104324 | [104324-fate-of-india.json](./104324-fate-of-india.json) |
 | Fate of Kai | 139314 | [139314-fate-of-kai.json](./139314-fate-of-kai.json) |
@@ -6014,6 +6015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortnite Festival: Born This Way | 372008 | [372008-fortnite-festival-born-this-way.json](./372008-fortnite-festival-born-this-way.json) |
 | Fortnite Festival: Bum Bum | 367583 | [367583-fortnite-festival-bum-bum.json](./367583-fortnite-festival-bum-bum.json) |
 | Fortnite Festival: Carry on Wayward Son | 366342 | [366342-fortnite-festival-carry-on-wayward-son.json](./366342-fortnite-festival-carry-on-wayward-son.json) |
+| Fortnite Festival: Celebrate Happy | 377999 | [377999-fortnite-festival-celebrate-happy.json](./377999-fortnite-festival-celebrate-happy.json) |
 | Fortnite Festival: Changes | 366373 | [366373-fortnite-festival-changes.json](./366373-fortnite-festival-changes.json) |
 | Fortnite Festival: Dare | 366372 | [366372-fortnite-festival-dare.json](./366372-fortnite-festival-dare.json) |
 | Fortnite Festival: Drop It like it's hot | 367588 | [367588-fortnite-festival-drop-it-like-its-hot.json](./367588-fortnite-festival-drop-it-like-its-hot.json) |
@@ -6034,7 +6036,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortnite Festival: Season 15 | 411844 | [411844-fortnite-festival-season-15.json](./411844-fortnite-festival-season-15.json) |
 | Fortnite Festival: Season 3 | 299445 | [299445-fortnite-festival-season-3.json](./299445-fortnite-festival-season-3.json) |
 | Fortnite Festival: Shelter | 375401 | [375401-fortnite-festival-shelter.json](./375401-fortnite-festival-shelter.json) |
+| Fortnite Festival: Sticky | 378001 | [378001-fortnite-festival-sticky.json](./378001-fortnite-festival-sticky.json) |
 | Fortnite Festival: Sunflower - Spider-Man: Into the Spider-Verse | 372127 | [372127-fortnite-festival-sunflower-spider-man-into-the-spider-verse.json](./372127-fortnite-festival-sunflower-spider-man-into-the-spider-verse.json) |
+| Fortnite Festival: The Monorail Song | 378002 | [378002-fortnite-festival-the-monorail-song.json](./378002-fortnite-festival-the-monorail-song.json) |
 | Fortnite Festival: Uptown Funk | 372010 | [372010-fortnite-festival-uptown-funk.json](./372010-fortnite-festival-uptown-funk.json) |
 | Fortnite Festival: Welcome Home | 366400 | [366400-fortnite-festival-welcome-home.json](./366400-fortnite-festival-welcome-home.json) |
 | Fortnite Festival: Zombie | 366397 | [366397-fortnite-festival-zombie.json](./366397-fortnite-festival-zombie.json) |
@@ -7521,6 +7525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fruitalistic! | 258638 | [258638-fruitalistic.json](./258638-fruitalistic.json) |
 | Fruitbearer | 389696 | [389696-fruitbearer.json](./389696-fruitbearer.json) |
 | Fruitcraft | 63140 | [63140-fruitcraft.json](./63140-fruitcraft.json) |
+| Fruitee! | 377949 | [377949-fruitee.json](./377949-fruitee.json) |
 | Fruitimo! | 352216 | [352216-fruitimo.json](./352216-fruitimo.json) |
 | Fruitio | 294288 | [294288-fruitio.json](./294288-fruitio.json) |
 | Fruits | 314413 | [314413-fruits.json](./314413-fruits.json) |
