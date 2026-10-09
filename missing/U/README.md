@@ -937,6 +937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undake 30 UraGame Daisakusen | 341155 | [341155-undake-30-uragame-daisakusen.json](./341155-undake-30-uragame-daisakusen.json) |
 | Undawn: Desert Fury | 262700 | [262700-undawn-desert-fury.json](./262700-undawn-desert-fury.json) |
 | Undead & Beyond | 96889 | [96889-undead-and-beyond.json](./96889-undead-and-beyond.json) |
+| Undead Air | 378554 | [378554-undead-air.json](./378554-undead-air.json) |
 | Undead Arena VR | 241493 | [241493-undead-arena-vr.json](./241493-undead-arena-vr.json) |
 | Undead Awakens | 342897 | [342897-undead-awakens.json](./342897-undead-awakens.json) |
 | Undead Blackout | 34425 | [34425-undead-blackout.json](./34425-undead-blackout.json) |
@@ -1137,6 +1138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Underneath | 177545 | [177545-underneath.json](./177545-underneath.json) |
 | UnderOneRoof | 270095 | [270095-underoneroof.json](./270095-underoneroof.json) |
 | Underpacked! | 347794 | [347794-underpacked.json](./347794-underpacked.json) |
+| UnderPoint | 378541 | [378541-underpoint.json](./378541-underpoint.json) |
 | Underpond | 376444 | [376444-underpond.json](./376444-underpond.json) |
 | Underponder | 151189 | [151189-underponder.json](./151189-underponder.json) |
 | Underquest | 250016 | [250016-underquest.json](./250016-underquest.json) |
