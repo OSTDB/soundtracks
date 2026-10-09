@@ -3515,6 +3515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Before the Moon | 311067 | [311067-before-the-moon.json](./311067-before-the-moon.json) |
 | Before the Needle Lifts | 303754 | [303754-before-the-needle-lifts.json](./303754-before-the-needle-lifts.json) |
 | Before the Night | 189049 | [189049-before-the-night.json](./189049-before-the-night.json) |
+| Before the Silence | 361067 | [361067-before-the-silence.json](./361067-before-the-silence.json) |
 | Before the Sun Sets | 384619 | [384619-before-the-sun-sets.json](./384619-before-the-sun-sets.json) |
 | Before the Tee | 405553 | [405553-before-the-tee.json](./405553-before-the-tee.json) |
 | Before the Walls Break | 388298 | [388298-before-the-walls-break.json](./388298-before-the-walls-break.json) |
