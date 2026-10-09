@@ -13756,6 +13756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Square's Route | 33390 | [33390-squares-route.json](./33390-squares-route.json) |
 | Square's Tom Sawyer | 73518 | [73518-squares-tom-sawyer.json](./73518-squares-tom-sawyer.json) |
 | Squared Adventure | 311262 | [311262-squared-adventure.json](./311262-squared-adventure.json) |
+| Squared Notebook Fight | 377413 | [377413-squared-notebook-fight.json](./377413-squared-notebook-fight.json) |
 | Squared Straight | 374819 | [374819-squared-straight.json](./374819-squared-straight.json) |
 | Squared: Adjacent Stones | 241996 | [241996-squared-adjacent-stones.json](./241996-squared-adjacent-stones.json) |
 | Squaredance | 58308 | [58308-squaredance.json](./58308-squaredance.json) |
