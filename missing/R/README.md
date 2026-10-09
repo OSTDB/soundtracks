@@ -6559,6 +6559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roomba Out! | 302143 | [302143-roomba-out.json](./302143-roomba-out.json) |
 | Roomba Rail Rider | 302144 | [302144-roomba-rail-rider.json](./302144-roomba-rail-rider.json) |
 | Roombo: First Blood | 114015 | [114015-roombo-first-blood.json](./114015-roombo-first-blood.json) |
+| Roomgaze | 347644 | [347644-roomgaze.json](./347644-roomgaze.json) |
 | Roomie Romance | 82094 | [82094-roomie-romance.json](./82094-roomie-romance.json) |
 | Roomka | 292231 | [292231-roomka.json](./292231-roomka.json) |
 | Roomli | 203363 | [203363-roomli.json](./203363-roomli.json) |
