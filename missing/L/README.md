@@ -4063,6 +4063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Locked & Loaded | 121591 | [121591-locked-and-loaded.json](./121591-locked-and-loaded.json) |
 | Locked Arcadia | 261824 | [261824-locked-arcadia.json](./261824-locked-arcadia.json) |
 | Locked Heart | 183441 | [183441-locked-heart.json](./183441-locked-heart.json) |
+| Locked Heart | 347104 | [347104-locked-heart.json](./347104-locked-heart.json) |
 | Locked in a Room While: Visiting an Old Castle | 288922 | [288922-locked-in-a-room-while-visiting-an-old-castle.json](./288922-locked-in-a-room-while-visiting-an-old-castle.json) |
 | Locked in Love: The Office | 407465 | [407465-locked-in-love-the-office.json](./407465-locked-in-love-the-office.json) |
 | Locked In Mind | 234774 | [234774-locked-in-mind.json](./234774-locked-in-mind.json) |
