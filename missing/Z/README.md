@@ -596,6 +596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zgirls II: Last One | 174892 | [174892-zgirls-ii-last-one.json](./174892-zgirls-ii-last-one.json) |
 | Zgr3d | 241657 | [241657-zgr3d.json](./241657-zgr3d.json) |
 | Zhadnost: The People's Party | 4298 | [4298-zhadnost-the-peoples-party.json](./4298-zhadnost-the-peoples-party.json) |
+| Zhàn jiǎ Online | 368360 | [368360-zhan-jia-online.json](./368360-zhan-jia-online.json) |
 | Zhànchǎng Yīngxióng Wùyǔ | 130192 | [130192-zhanchang-yingxiong-wuyu.json](./130192-zhanchang-yingxiong-wuyu.json) |
 | Zhànshén Qīpò | 130915 | [130915-zhanshen-qipo.json](./130915-zhanshen-qipo.json) |
 | Zhèn Xié | 375425 | [375425-zhen-xie.json](./375425-zhen-xie.json) |
