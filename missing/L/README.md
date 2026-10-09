@@ -2103,6 +2103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lep's World 2 | 88293 | [88293-leps-world-2.json](./88293-leps-world-2.json) |
 | Lep's World Plus | 88271 | [88271-leps-world-plus.json](./88271-leps-world-plus.json) |
 | Lep's World Plus - super best platformer games | 90375 | [90375-leps-world-plus-super-best-platformer-games.json](./90375-leps-world-plus-super-best-platformer-games.json) |
+| Lep's World Run | 344899 | [344899-leps-world-run.json](./344899-leps-world-run.json) |
 | Lepidoptera | 257092 | [257092-lepidoptera.json](./257092-lepidoptera.json) |
 | LepozhdianVibe | 325866 | [325866-lepozhdianvibe.json](./325866-lepozhdianvibe.json) |
 | Leprechaun | 229828 | [229828-leprechaun.json](./229828-leprechaun.json) |
@@ -5148,6 +5149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love At First Squeak | 251068 | [251068-love-at-first-squeak.json](./251068-love-at-first-squeak.json) |
 | Love Bakudan | 152390 | [152390-love-bakudan.json](./152390-love-bakudan.json) |
 | Love Ball | 101111 | [101111-love-ball.json](./101111-love-ball.json) |
+| Love Begins with Goodbye | 344975 | [344975-love-begins-with-goodbye.json](./344975-love-begins-with-goodbye.json) |
 | Love Bites | 254451 | [254451-love-bites.json](./254451-love-bites.json) |
 | Love Breakout | 280176 | [280176-love-breakout.json](./280176-love-breakout.json) |
 | Love Change | 217949 | [217949-love-change.json](./217949-love-change.json) |
