@@ -4563,6 +4563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Copper Age | 217913 | [217913-the-copper-age.json](./217913-the-copper-age.json) |
 | The Copper Canyon Dixie Dash | 144884 | [144884-the-copper-canyon-dixie-dash.json](./144884-the-copper-canyon-dixie-dash.json) |
 | The Copperfield Department | 326967 | [326967-the-copperfield-department.json](./326967-the-copperfield-department.json) |
+| The Core | 376279 | [376279-the-core.json](./376279-the-core.json) |
 | The Core Message | 132570 | [132570-the-core-message.json](./132570-the-core-message.json) |
 | The Cork | 137954 | [137954-the-cork.json](./137954-the-cork.json) |
 | The Corn Maze: Rebirth | 362289 | [362289-the-corn-maze-rebirth.json](./362289-the-corn-maze-rebirth.json) |
@@ -6781,6 +6782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Isolated Town | 253594 | [253594-the-isolated-town.json](./253594-the-isolated-town.json) |
 | The Isolation Ward | 177840 | [177840-the-isolation-ward.json](./177840-the-isolation-ward.json) |
 | The Italianeer | 105552 | [105552-the-italianeer.json](./105552-the-italianeer.json) |
+| The Jackbox Big Bang Bundle | 376263 | [376263-the-jackbox-big-bang-bundle.json](./376263-the-jackbox-big-bang-bundle.json) |
 | The Jackbox Naughty Pack | 299591 | [299591-the-jackbox-naughty-pack.json](./299591-the-jackbox-naughty-pack.json) |
 | The Jackbox Party Pack 11 | 338919 | [338919-the-jackbox-party-pack-11.json](./338919-the-jackbox-party-pack-11.json) |
 | The Jackbox Party Pack 3 | 19082 | [19082-the-jackbox-party-pack-3.json](./19082-the-jackbox-party-pack-3.json) |
@@ -7312,6 +7314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Sacrifice: Blood King's Treasure | 225677 | [225677-the-last-sacrifice-blood-kings-treasure.json](./225677-the-last-sacrifice-blood-kings-treasure.json) |
 | The Last Sacrifice: Forbidden Ties | 225680 | [225680-the-last-sacrifice-forbidden-ties.json](./225680-the-last-sacrifice-forbidden-ties.json) |
 | The Last Safe Place | 290000 | [290000-the-last-safe-place.json](./290000-the-last-safe-place.json) |
+| The Last Salvage Squad | 376277 | [376277-the-last-salvage-squad.json](./376277-the-last-salvage-squad.json) |
 | The Last Saviour | 151073 | [151073-the-last-saviour.json](./151073-the-last-saviour.json) |
 | The Last Saviour: Search of Truth | 236367 | [236367-the-last-saviour-search-of-truth.json](./236367-the-last-saviour-search-of-truth.json) |
 | The Last Scaler | 314466 | [314466-the-last-scaler.json](./314466-the-last-scaler.json) |
@@ -10206,6 +10209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Square Game | 130377 | [130377-the-square-game.json](./130377-the-square-game.json) |
 | The Squash P | 227921 | [227921-the-squash-p.json](./227921-the-squash-p.json) |
 | The Squeal of the Pig | 249190 | [249190-the-squeal-of-the-pig.json](./249190-the-squeal-of-the-pig.json) |
+| The Squid Plays | 376269 | [376269-the-squid-plays.json](./376269-the-squid-plays.json) |
 | The Squirrel & Sea | 358305 | [358305-the-squirrel-and-sea.json](./358305-the-squirrel-and-sea.json) |
 | The Ssum | 194973 | [194973-the-ssum.json](./194973-the-ssum.json) |
 | The St Christopher's School Lockdown | 74393 | [74393-the-st-christophers-school-lockdown.json](./74393-the-st-christophers-school-lockdown.json) |
@@ -17760,6 +17764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trap Trek: Ultimate Other Me | 293619 | [293619-trap-trek-ultimate-other-me.json](./293619-trap-trek-ultimate-other-me.json) |
 | Trap Yuri Garden | 289923 | [289923-trap-yuri-garden.json](./289923-trap-yuri-garden.json) |
 | Trap Yuri Tempest | 412443 | [412443-trap-yuri-tempest.json](./412443-trap-yuri-tempest.json) |
+| Trapaze | 376282 | [376282-trapaze.json](./376282-trapaze.json) |
 | TrapBot | 188925 | [188925-trapbot.json](./188925-trapbot.json) |
 | Trapformer | 361310 | [361310-trapformer.json](./361310-trapformer.json) |
 | Trapmania | 151152 | [151152-trapmania.json](./151152-trapmania.json) |
@@ -18801,6 +18806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trucker Transporter 2 - Parking Simulator | 89516 | [89516-trucker-transporter-2-parking-simulator.json](./89516-trucker-transporter-2-parking-simulator.json) |
 | Truckin' It! | 382338 | [382338-truckin-it.json](./382338-truckin-it.json) |
 | Trucking | 114961 | [114961-trucking.json](./114961-trucking.json) |
+| Trucking School: Truck Simulator Driving 2025 | 376239 | [376239-trucking-school-truck-simulator-driving-2025.json](./376239-trucking-school-truck-simulator-driving-2025.json) |
 | Trucks & Trailers | 10290 | [10290-trucks-and-trailers.json](./10290-trucks-and-trailers.json) |
 | Trucks and Things That Go Puzzle Game | 109022 | [109022-trucks-and-things-that-go-puzzle-game.json](./109022-trucks-and-things-that-go-puzzle-game.json) |
 | Trucksform3d Offroad 3D Shooting Bigfoot Endless Racing Truck | 102825 | [102825-trucksform3d-offroad-3d-shooting-bigfoot-endless-racing-truck.json](./102825-trucksform3d-offroad-3d-shooting-bigfoot-endless-racing-truck.json) |
