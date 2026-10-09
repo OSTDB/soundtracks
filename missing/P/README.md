@@ -332,6 +332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paddle Combat | 164441 | [164441-paddle-combat.json](./164441-paddle-combat.json) |
 | Paddle Fall | 115454 | [115454-paddle-fall.json](./115454-paddle-fall.json) |
 | Paddle Flap | 239707 | [239707-paddle-flap.json](./239707-paddle-flap.json) |
+| Paddle Legends | 378542 | [378542-paddle-legends.json](./378542-paddle-legends.json) |
 | Paddle Mania | 40374 | [40374-paddle-mania.json](./40374-paddle-mania.json) |
 | Paddle Master VR | 75202 | [75202-paddle-master-vr.json](./75202-paddle-master-vr.json) |
 | Paddle Momentum | 413904 | [413904-paddle-momentum.json](./413904-paddle-momentum.json) |
@@ -1144,6 +1145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paradise | 288319 | [288319-paradise.json](./288319-paradise.json) |
 | Paradise Angel | 278141 | [278141-paradise-angel.json](./278141-paradise-angel.json) |
 | Paradise Architect | 274464 | [274464-paradise-architect.json](./274464-paradise-architect.json) |
+| Paradise Beach 2: Around the World | 378589 | [378589-paradise-beach-2-around-the-world.json](./378589-paradise-beach-2-around-the-world.json) |
 | Paradise Beach Girls | 202208 | [202208-paradise-beach-girls.json](./202208-paradise-beach-girls.json) |
 | Paradise checkers | 112946 | [112946-paradise-checkers.json](./112946-paradise-checkers.json) |
 | Paradise Checkers VR | 105098 | [105098-paradise-checkers-vr.json](./105098-paradise-checkers-vr.json) |
@@ -7275,6 +7277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pop Moto | 249446 | [249446-pop-moto.json](./249446-pop-moto.json) |
 | Pop Off 2 | 264771 | [264771-pop-off-2.json](./264771-pop-off-2.json) |
 | Pop Pop Pop! | 201135 | [201135-pop-pop-pop.json](./201135-pop-pop-pop.json) |
+| Pop Pop Potato | 378572 | [378572-pop-pop-potato.json](./378572-pop-pop-potato.json) |
 | Pop Quiz logo | 108285 | [108285-pop-quiz-logo.json](./108285-pop-quiz-logo.json) |
 | Pop Some Eyes | 240747 | [240747-pop-some-eyes.json](./240747-pop-some-eyes.json) |
 | Pop Star Academy | 344935 | [344935-pop-star-academy.json](./344935-pop-star-academy.json) |
@@ -8115,6 +8118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Preppie! | 22766 | [22766-preppie.json](./22766-preppie.json) |
 | Preppie! II | 23684 | [23684-preppie-ii.json](./23684-preppie-ii.json) |
 | Prequel | 388971 | [388971-prequel.json](./388971-prequel.json) |
+| Prerolled | 378560 | [378560-prerolled.json](./378560-prerolled.json) |
 | Preschool & Kindergarten 2 | 88279 | [88279-preschool-and-kindergarten-2.json](./88279-preschool-and-kindergarten-2.json) |
 | Preschool & Kindergarten Games | 88268 | [88268-preschool-and-kindergarten-games.json](./88268-preschool-and-kindergarten-games.json) |
 | Preschool ABC Number and Letter Puzzle Game | 88355 | [88355-preschool-abc-number-and-letter-puzzle-game.json](./88355-preschool-abc-number-and-letter-puzzle-game.json) |
