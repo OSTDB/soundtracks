@@ -2117,6 +2117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MareDare | 348962 | [348962-maredare.json](./348962-maredare.json) |
 | Marée Noire | 179012 | [179012-maree-noire.json](./179012-maree-noire.json) |
 | MareQuest | 230240 | [230240-marequest.json](./230240-marequest.json) |
+| Marfa | 337039 | [337039-marfa.json](./337039-marfa.json) |
 | Marfusha: Sentinel Girls | 143638 | [143638-marfusha-sentinel-girls.json](./143638-marfusha-sentinel-girls.json) |
 | Margareta | 182810 | [182810-margareta.json](./182810-margareta.json) |
 | Margery | 388408 | [388408-margery.json](./388408-margery.json) |
@@ -3725,6 +3726,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mayak | 378419 | [378419-mayak.json](./378419-mayak.json) |
 | Mayan Death Robots: Arena | 82444 | [82444-mayan-death-robots-arena.json](./82444-mayan-death-robots-arena.json) |
 | Mayan Mishap | 256820 | [256820-mayan-mishap.json](./256820-mayan-mishap.json) |
+| Mayan Monster Mayhem: Episode 1 - River Rapids Rampage | 337132 | [337132-mayan-monster-mayhem-episode-1-river-rapids-rampage.json](./337132-mayan-monster-mayhem-episode-1-river-rapids-rampage.json) |
+| Mayan Monster Mayhem: Episode 2 - Creepy Cave Cave-In | 337133 | [337133-mayan-monster-mayhem-episode-2-creepy-cave-cave-in.json](./337133-mayan-monster-mayhem-episode-2-creepy-cave-cave-in.json) |
+| Mayan Monster Mayhem: Episode 3 - Terror in Tikal! | 337134 | [337134-mayan-monster-mayhem-episode-3-terror-in-tikal.json](./337134-mayan-monster-mayhem-episode-3-terror-in-tikal.json) |
+| Mayan Monster Mayhem: Episode 4 - The Temple of Lost Souls | 337135 | [337135-mayan-monster-mayhem-episode-4-the-temple-of-lost-souls.json](./337135-mayan-monster-mayhem-episode-4-the-temple-of-lost-souls.json) |
 | Mayan Prophecies Collection | 144872 | [144872-mayan-prophecies-collection.json](./144872-mayan-prophecies-collection.json) |
 | Mayan Prophecies: Blood Moon - Collector's Edition | 88199 | [88199-mayan-prophecies-blood-moon-collectors-edition.json](./88199-mayan-prophecies-blood-moon-collectors-edition.json) |
 | Mayan Reynolds | 260664 | [260664-mayan-reynolds.json](./260664-mayan-reynolds.json) |
