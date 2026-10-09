@@ -5607,6 +5607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merge Gardens | 227368 | [227368-merge-gardens.json](./227368-merge-gardens.json) |
 | Merge Gems! | 97154 | [97154-merge-gems.json](./97154-merge-gems.json) |
 | Merge Girls | 212490 | [212490-merge-girls.json](./212490-merge-girls.json) |
+| Merge Hexa Puzzle | 348742 | [348742-merge-hexa-puzzle.json](./348742-merge-hexa-puzzle.json) |
 | Merge Hidden | 409720 | [409720-merge-hidden.json](./409720-merge-hidden.json) |
 | Merge Jelly | 208935 | [208935-merge-jelly.json](./208935-merge-jelly.json) |
 | Merge Magic! | 139297 | [139297-merge-magic.json](./139297-merge-magic.json) |
@@ -6823,6 +6824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mightreya | 314489 | [314489-mightreya.json](./314489-mightreya.json) |
 | Mighty Aphid | 135156 | [135156-mighty-aphid.json](./135156-mighty-aphid.json) |
 | Mighty Aphid 2 | 231987 | [231987-mighty-aphid-2.json](./231987-mighty-aphid-2.json) |
+| Mighty Arms | 348751 | [348751-mighty-arms.json](./348751-mighty-arms.json) |
 | Mighty Bomb Jack | 40531 | [40531-mighty-bomb-jack.json](./40531-mighty-bomb-jack.json) |
 | Mighty Chameleon Brothers | 155469 | [155469-mighty-chameleon-brothers.json](./155469-mighty-chameleon-brothers.json) |
 | Mighty Doom | 148394 | [148394-mighty-doom.json](./148394-mighty-doom.json) |
