@@ -65,6 +65,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waddle Wars: Roguelike Defense | 266831 | [266831-waddle-wars-roguelike-defense.json](./266831-waddle-wars-roguelike-defense.json) |
 | Wade | 385384 | [385384-wade.json](./385384-wade.json) |
 | Waffle House | 301335 | [301335-waffle-house.json](./301335-waffle-house.json) |
+| Waffle Painter | 383699 | [383699-waffle-painter.json](./383699-waffle-painter.json) |
 | Waffle Spin Ball | 360671 | [360671-waffle-spin-ball.json](./360671-waffle-spin-ball.json) |
 | Wag | 312562 | [312562-wag.json](./312562-wag.json) |
 | Wag Royale | 124613 | [124613-wag-royale.json](./124613-wag-royale.json) |
@@ -420,6 +421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wanderlust: The City of Mists - Collector's Edition | 416137 | [416137-wanderlust-the-city-of-mists-collectors-edition.json](./416137-wanderlust-the-city-of-mists-collectors-edition.json) |
 | Wanderlust: The Magnificent Journey | 346600 | [346600-wanderlust-the-magnificent-journey.json](./346600-wanderlust-the-magnificent-journey.json) |
 | Wanderlust: Transsiberian | 132503 | [132503-wanderlust-transsiberian.json](./132503-wanderlust-transsiberian.json) |
+| Wandersky | 383709 | [383709-wandersky.json](./383709-wandersky.json) |
 | Wandfall | 377247 | [377247-wandfall.json](./377247-wandfall.json) |
 | Wandness | 298158 | [298158-wandness.json](./298158-wandness.json) |
 | Wandrill | 348789 | [348789-wandrill.json](./348789-wandrill.json) |
@@ -1367,6 +1369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wasteland Kings Together | 176330 | [176330-wasteland-kings-together.json](./176330-wasteland-kings-together.json) |
 | Wasteland Kitchen | 344506 | [344506-wasteland-kitchen.json](./344506-wasteland-kitchen.json) |
 | Wasteland Orchard | 387646 | [387646-wasteland-orchard.json](./387646-wasteland-orchard.json) |
+| Wasteland Outpost | 383678 | [383678-wasteland-outpost.json](./383678-wasteland-outpost.json) |
 | Wasteland Punk | 175690 | [175690-wasteland-punk.json](./175690-wasteland-punk.json) |
 | Wasteland Rangers | 338392 | [338392-wasteland-rangers.json](./338392-wasteland-rangers.json) |
 | Wasteland Story | 249179 | [249179-wasteland-story.json](./249179-wasteland-story.json) |
