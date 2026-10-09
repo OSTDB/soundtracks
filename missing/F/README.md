@@ -249,6 +249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Facing Demons: Chara Battle | 305263 | [305263-facing-demons-chara-battle.json](./305263-facing-demons-chara-battle.json) |
 | Facing Zombie,and 4 Walls | 285967 | [285967-facing-zombie-and-4-walls.json](./285967-facing-zombie-and-4-walls.json) |
 | Facteroids | 173306 | [173306-facteroids.json](./173306-facteroids.json) |
+| Faction Reticent | 366125 | [366125-faction-reticent.json](./366125-faction-reticent.json) |
 | Faction Wars | 168317 | [168317-faction-wars.json](./168317-faction-wars.json) |
 | Factor D | 200171 | [200171-factor-d.json](./200171-factor-d.json) |
 | Factor Find | 243637 | [243637-factor-find.json](./243637-factor-find.json) |
@@ -4131,6 +4132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Nights at Freddy's: Help Wanted Plus | 261510 | [261510-five-nights-at-freddys-help-wanted-plus.json](./261510-five-nights-at-freddys-help-wanted-plus.json) |
 | Five Nights at Freddy's: Into the Pit | 283679 | [283679-five-nights-at-freddys-into-the-pit.json](./283679-five-nights-at-freddys-into-the-pit.json) |
 | Five Nights at Freddy's: Killer Night | 240312 | [240312-five-nights-at-freddys-killer-night.json](./240312-five-nights-at-freddys-killer-night.json) |
+| Five Nights at Freddy's: NES | 366102 | [366102-five-nights-at-freddys-nes.json](./366102-five-nights-at-freddys-nes.json) |
 | Five Nights At Freddy's: Nightshift | 275905 | [275905-five-nights-at-freddys-nightshift.json](./275905-five-nights-at-freddys-nightshift.json) |
 | Five Nights at Freddy's: Pocket Horror | 275568 | [275568-five-nights-at-freddys-pocket-horror.json](./275568-five-nights-at-freddys-pocket-horror.json) |
 | Five Nights at Freddy's: Secret of the Mimic | 312859 | [312859-five-nights-at-freddys-secret-of-the-mimic.json](./312859-five-nights-at-freddys-secret-of-the-mimic.json) |
@@ -7373,6 +7375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frontier | 345638 | [345638-frontier.json](./345638-frontier.json) |
 | Frontier Army 1644 | 154060 | [154060-frontier-army-1644.json](./154060-frontier-army-1644.json) |
 | Frontier Brain | 376129 | [376129-frontier-brain.json](./376129-frontier-brain.json) |
+| Frontier Combat: Beginnings | 366120 | [366120-frontier-combat-beginnings.json](./366120-frontier-combat-beginnings.json) |
 | Frontier Days: Founding Pioneers | 85165 | [85165-frontier-days-founding-pioneers.json](./85165-frontier-days-founding-pioneers.json) |
 | Frontier Diver Progenexis | 177342 | [177342-frontier-diver-progenexis.json](./177342-frontier-diver-progenexis.json) |
 | Frontier Force | 345611 | [345611-frontier-force.json](./345611-frontier-force.json) |
@@ -7449,6 +7452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frostborn | 381040 | [381040-frostborn.json](./381040-frostborn.json) |
 | Frostborn: Coop Survival | 141199 | [141199-frostborn-coop-survival.json](./141199-frostborn-coop-survival.json) |
 | Frosted Love | 327402 | [327402-frosted-love.json](./327402-frosted-love.json) |
+| Frosten: Two Realms | 366122 | [366122-frosten-two-realms.json](./366122-frosten-two-realms.json) |
 | Frostfire Planet | 139904 | [139904-frostfire-planet.json](./139904-frostfire-planet.json) |
 | FrostFire: Battle Frenzy | 269023 | [269023-frostfire-battle-frenzy.json](./269023-frostfire-battle-frenzy.json) |
 | Frosthaven | 336152 | [336152-frosthaven.json](./336152-frosthaven.json) |
