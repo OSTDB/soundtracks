@@ -5573,6 +5573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ludus: A Gladiator Story | 411712 | [411712-ludus-a-gladiator-story.json](./411712-ludus-a-gladiator-story.json) |
 | Luduvo | 412303 | [412303-luduvo.json](./412303-luduvo.json) |
 | Ludwig | 9239 | [9239-ludwig.json](./9239-ludwig.json) |
+| Luenna: School of the Magi | 380197 | [380197-luenna-school-of-the-magi.json](./380197-luenna-school-of-the-magi.json) |
 | Lufia: Curse of the Sinistrals | 1181 | [1181-lufia-curse-of-the-sinistrals.json](./1181-lufia-curse-of-the-sinistrals.json) |
 | Lufia: The Legend Returns | 1179 | [1179-lufia-the-legend-returns.json](./1179-lufia-the-legend-returns.json) |
 | Lufia: The Ruins of Lore | 1180 | [1180-lufia-the-ruins-of-lore.json](./1180-lufia-the-ruins-of-lore.json) |
