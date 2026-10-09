@@ -1270,6 +1270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elektrosoul | 207197 | [207197-elektrosoul.json](./207197-elektrosoul.json) |
 | Elemates | 207525 | [207525-elemates.json](./207525-elemates.json) |
 | Elemencraft | 194012 | [194012-elemencraft.json](./194012-elemencraft.json) |
+| Elemency Island | 379130 | [379130-elemency-island.json](./379130-elemency-island.json) |
 | Element Are We | 275348 | [275348-element-are-we.json](./275348-element-are-we.json) |
 | Element Battle Royale | 286793 | [286793-element-battle-royale.json](./286793-element-battle-royale.json) |
 | Element Ensemble: Wind of Moon | 125438 | [125438-element-ensemble-wind-of-moon.json](./125438-element-ensemble-wind-of-moon.json) |
