@@ -2198,6 +2198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aery: Winter Wonderland | 378997 | [378997-aery-winter-wonderland.json](./378997-aery-winter-wonderland.json) |
 | Aeschylus: Death | 379564 | [379564-aeschylus-death.json](./379564-aeschylus-death.json) |
 | Aesculap OrthoPilot Elite VR Palpation | 57031 | [57031-aesculap-orthopilot-elite-vr-palpation.json](./57031-aesculap-orthopilot-elite-vr-palpation.json) |
+| Aesop Rock's Black Hole Superette Experience | 346605 | [346605-aesop-rocks-black-hole-superette-experience.json](./346605-aesop-rocks-black-hole-superette-experience.json) |
 | Aesop's Fables | 14227 | [14227-aesops-fables.json](./14227-aesops-fables.json) |
 | Aesos | 379565 | [379565-aesos.json](./379565-aesos.json) |
 | Aesthetic | 325102 | [325102-aesthetic.json](./325102-aesthetic.json) |
@@ -2310,6 +2311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | After I Met That Catgirl, My Questlist Got Too Long! | 117631 | [117631-after-i-met-that-catgirl-my-questlist-got-too-long.json](./117631-after-i-met-that-catgirl-my-questlist-got-too-long.json) |
 | After Inc: Revival | 344549 | [344549-after-inc-revival.json](./344549-after-inc-revival.json) |
 | After Inc. | 323935 | [323935-after-inc.json](./323935-after-inc.json) |
+| After Juice: Animal Disco Mafia | 346636 | [346636-after-juice-animal-disco-mafia.json](./346636-after-juice-animal-disco-mafia.json) |
 | After Lights Out | 346733 | [346733-after-lights-out.json](./346733-after-lights-out.json) |
 | After Mankind: TD | 367545 | [367545-after-mankind-td.json](./367545-after-mankind-td.json) |
 | After Midnight | 376845 | [376845-after-midnight.json](./376845-after-midnight.json) |
@@ -2609,6 +2611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agent Murphy | 164260 | [164260-agent-murphy.json](./164260-agent-murphy.json) |
 | Agent of Chaos | 157170 | [157170-agent-of-chaos.json](./157170-agent-of-chaos.json) |
 | Agent of Strange | 355023 | [355023-agent-of-strange.json](./355023-agent-of-strange.json) |
+| Agent of Veil | 346595 | [346595-agent-of-veil.json](./346595-agent-of-veil.json) |
 | Agent P Strikes Back | 354954 | [354954-agent-p-strikes-back.json](./354954-agent-p-strikes-back.json) |
 | Agent P: Rebel Spy | 143328 | [143328-agent-p-rebel-spy.json](./143328-agent-p-rebel-spy.json) |
 | Agent Reverb | 235149 | [235149-agent-reverb.json](./235149-agent-reverb.json) |
@@ -7385,6 +7388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcadian Atlas | 18868 | [18868-arcadian-atlas.json](./18868-arcadian-atlas.json) |
 | Arcadian Rift | 162245 | [162245-arcadian-rift.json](./162245-arcadian-rift.json) |
 | Arcadice | 353806 | [353806-arcadice.json](./353806-arcadice.json) |
+| Arcadie II: Cold Lands | 346625 | [346625-arcadie-ii-cold-lands.json](./346625-arcadie-ii-cold-lands.json) |
 | Arcadium | 137562 | [137562-arcadium.json](./137562-arcadium.json) |
 | Arcadium: Space Odyssey | 255971 | [255971-arcadium-space-odyssey.json](./255971-arcadium-space-odyssey.json) |
 | Arcadius | 156126 | [156126-arcadius.json](./156126-arcadius.json) |
