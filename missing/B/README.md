@@ -3444,6 +3444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beer Strip | 367024 | [367024-beer-strip.json](./367024-beer-strip.json) |
 | Beer! | 57091 | [57091-beer.json](./57091-beer.json) |
 | Beer! | 83796 | [83796-beer.json](./83796-beer.json) |
+| Beercrush | 378590 | [378590-beercrush.json](./378590-beercrush.json) |
 | Beerjeweled | 138036 | [138036-beerjeweled.json](./138036-beerjeweled.json) |
 | Beerman | 31904 | [31904-beerman.json](./31904-beerman.json) |
 | Beers and Boomerangs | 172469 | [172469-beers-and-boomerangs.json](./172469-beers-and-boomerangs.json) |
@@ -5635,6 +5636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blank Page | 303266 | [303266-blank-page.json](./303266-blank-page.json) |
 | Blank Relish | 292016 | [292016-blank-relish.json](./292016-blank-relish.json) |
 | Blank Relish: Remastered | 298828 | [298828-blank-relish-remastered.json](./298828-blank-relish-remastered.json) |
+| Blank Room Soup.exe | 378545 | [378545-blank-room-soup-exe.json](./378545-blank-room-soup-exe.json) |
 | Blanka in Shura no Kuni | 267575 | [267575-blanka-in-shura-no-kuni.json](./267575-blanka-in-shura-no-kuni.json) |
 | Blanket Cat | 395179 | [395179-blanket-cat.json](./395179-blanket-cat.json) |
 | Blanket Fort | 355539 | [355539-blanket-fort.json](./355539-blanket-fort.json) |
@@ -7944,6 +7946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bottom of the 9th '99 | 43856 | [43856-bottom-of-the-9th-99.json](./43856-bottom-of-the-9th-99.json) |
 | Bottom of the Ninth | 245547 | [245547-bottom-of-the-ninth.json](./245547-bottom-of-the-ninth.json) |
 | Bottom of the Ninth | 39483 | [39483-bottom-of-the-ninth.json](./39483-bottom-of-the-ninth.json) |
+| Bottom Squad | 378594 | [378594-bottom-squad.json](./378594-bottom-squad.json) |
 | Bottomless | 183596 | [183596-bottomless.json](./183596-bottomless.json) |
 | Bottomless Pitfall | 348879 | [348879-bottomless-pitfall.json](./348879-bottomless-pitfall.json) |
 | Bottop | 329196 | [329196-bottop.json](./329196-bottop.json) |
