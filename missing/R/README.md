@@ -529,6 +529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rage Quest | 75052 | [75052-rage-quest.json](./75052-rage-quest.json) |
 | Rage Quest: The Worst Game | 81254 | [81254-rage-quest-the-worst-game.json](./81254-rage-quest-the-worst-game.json) |
 | Rage Quit | 239165 | [239165-rage-quit.json](./239165-rage-quit.json) |
+| Rage Quit | 367824 | [367824-rage-quit.json](./367824-rage-quit.json) |
 | Rage Quit Bundle | 289373 | [289373-rage-quit-bundle.json](./289373-rage-quit-bundle.json) |
 | Rage Rabbit | 207756 | [207756-rage-rabbit.json](./207756-rage-rabbit.json) |
 | Rage Racer | 18698 | [18698-rage-racer.json](./18698-rage-racer.json) |
@@ -2671,6 +2672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reflectron | 278392 | [278392-reflectron.json](./278392-reflectron.json) |
 | Reflectron | 42048 | [42048-reflectron.json](./42048-reflectron.json) |
 | Reflex | 86345 | [86345-reflex.json](./86345-reflex.json) |
+| Reflex Drop Time Race | 367849 | [367849-reflex-drop-time-race.json](./367849-reflex-drop-time-race.json) |
 | Reflex Master: Sight | 342729 | [342729-reflex-master-sight.json](./342729-reflex-master-sight.json) |
 | Reflex Point | 19707 | [19707-reflex-point.json](./19707-reflex-point.json) |
 | Reflex Run | 390190 | [390190-reflex-run.json](./390190-reflex-run.json) |
@@ -4524,6 +4526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RimFolk | 335323 | [335323-rimfolk.json](./335323-rimfolk.json) |
 | RimPark: A Burning World | 345469 | [345469-rimpark-a-burning-world.json](./345469-rimpark-a-burning-world.json) |
 | RiMS Racing x WRC 10 | 218414 | [218414-rims-racing-x-wrc-10.json](./218414-rims-racing-x-wrc-10.json) |
+| Rimward Basilisk | 367758 | [367758-rimward-basilisk.json](./367758-rimward-basilisk.json) |
 | RimWorld: Anomaly | 291070 | [291070-rimworld-anomaly.json](./291070-rimworld-anomaly.json) |
 | RimWorld: Console Edition | 210525 | [210525-rimworld-console-edition.json](./210525-rimworld-console-edition.json) |
 | RimWorld: Console Edition - Digital Deluxe | 211246 | [211246-rimworld-console-edition-digital-deluxe.json](./211246-rimworld-console-edition-digital-deluxe.json) |
