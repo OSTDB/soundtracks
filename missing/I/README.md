@@ -382,6 +382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Will Be Your Eyes | 126649 | [126649-i-will-be-your-eyes.json](./126649-i-will-be-your-eyes.json) |
 | I Will Become a Swordsman | 284343 | [284343-i-will-become-a-swordsman.json](./284343-i-will-become-a-swordsman.json) |
 | I Will Definitely Be the CEO! | 400969 | [400969-i-will-definitely-be-the-ceo.json](./400969-i-will-definitely-be-the-ceo.json) |
+| I Will Drown A Guy | 385891 | [385891-i-will-drown-a-guy.json](./385891-i-will-drown-a-guy.json) |
 | I will eat you | 126957 | [126957-i-will-eat-you.json](./126957-i-will-eat-you.json) |
 | I Will Never Fall for My Tsundere Classmate, so I Will Just Date a Background Character Instead! | 372598 | [372598-i-will-never-fall-for-my-tsundere-classmate-so-i-will-just-date-a-background-character-instead.json](./372598-i-will-never-fall-for-my-tsundere-classmate-so-i-will-just-date-a-background-character-instead.json) |
 | I Will Never Forget You Because You Have Made Me the Happiest Dog on Earth | 227981 | [227981-i-will-never-forget-you-because-you-have-made-me-the-happiest-dog-on-earth.json](./227981-i-will-never-forget-you-because-you-have-made-me-the-happiest-dog-on-earth.json) |
@@ -808,6 +809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Bubbles Cannon: Aim & Tap | 245336 | [245336-idle-bubbles-cannon-aim-and-tap.json](./245336-idle-bubbles-cannon-aim-and-tap.json) |
 | Idle Build RPG | 260166 | [260166-idle-build-rpg.json](./260166-idle-build-rpg.json) |
 | Idle Business Tycoon: Build Simulator | 197933 | [197933-idle-business-tycoon-build-simulator.json](./197933-idle-business-tycoon-build-simulator.json) |
+| Idle Calibur: Zero | 385905 | [385905-idle-calibur-zero.json](./385905-idle-calibur-zero.json) |
 | Idle Campaign | 210851 | [210851-idle-campaign.json](./210851-idle-campaign.json) |
 | Idle Cat Village | 205585 | [205585-idle-cat-village.json](./205585-idle-cat-village.json) |
 | Idle Catfarmia | 247996 | [247996-idle-catfarmia.json](./247996-idle-catfarmia.json) |
