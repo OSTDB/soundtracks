@@ -419,6 +419,17 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dance Aerobics | 48176 | [48176-dance-aerobics.json](./48176-dance-aerobics.json) |
 | Dance Around | 210279 | [210279-dance-around.json](./210279-dance-around.json) |
 | Dance Assembly | 228504 | [228504-dance-assembly.json](./228504-dance-assembly.json) |
+| Dance Central 2: Flo Rida & T-Pain - "Low" | 353201 | [353201-dance-central-2-flo-rida-and-t-pain-low.json](./353201-dance-central-2-flo-rida-and-t-pain-low.json) |
+| Dance Central 2: LMFAO - "Party Rock Anthem" | 353200 | [353200-dance-central-2-lmfao-party-rock-anthem.json](./353200-dance-central-2-lmfao-party-rock-anthem.json) |
+| Dance Central 2: Nelly - "Hot In Herre" | 353202 | [353202-dance-central-2-nelly-hot-in-herre.json](./353202-dance-central-2-nelly-hot-in-herre.json) |
+| Dance Central 3: Carly Rae Jepsen - "Call Me Maybe" | 353204 | [353204-dance-central-3-carly-rae-jepsen-call-me-maybe.json](./353204-dance-central-3-carly-rae-jepsen-call-me-maybe.json) |
+| Dance Central 3: Lady Gaga - "Paparazzi" | 353205 | [353205-dance-central-3-lady-gaga-paparazzi.json](./353205-dance-central-3-lady-gaga-paparazzi.json) |
+| Dance Central 3: LMFAO - "Sorry for Party Rocking" | 353206 | [353206-dance-central-3-lmfao-sorry-for-party-rocking.json](./353206-dance-central-3-lmfao-sorry-for-party-rocking.json) |
+| Dance Central 3: PSY - "Gangnam Style" | 353203 | [353203-dance-central-3-psy-gangnam-style.json](./353203-dance-central-3-psy-gangnam-style.json) |
+| Dance Central Spotlight: David Guetta ft. Nicki Minaj - "Turn Me On" | 353209 | [353209-dance-central-spotlight-david-guetta-ft-nicki-minaj-turn-me-on.json](./353209-dance-central-spotlight-david-guetta-ft-nicki-minaj-turn-me-on.json) |
+| Dance Central Spotlight: Gotye ft. Kimbra - "Somebody That I Used to Know" | 353208 | [353208-dance-central-spotlight-gotye-ft-kimbra-somebody-that-i-used-to-know.json](./353208-dance-central-spotlight-gotye-ft-kimbra-somebody-that-i-used-to-know.json) |
+| Dance Central Spotlight: Mark Ronson ft. Bruno Mars - "Uptown Funk" | 353210 | [353210-dance-central-spotlight-mark-ronson-ft-bruno-mars-uptown-funk.json](./353210-dance-central-spotlight-mark-ronson-ft-bruno-mars-uptown-funk.json) |
+| Dance Central Spotlight: The Pussycat Dolls ft. Busta Rhymes - "Don't Cha" | 353211 | [353211-dance-central-spotlight-the-pussycat-dolls-ft-busta-rhymes-dont-cha.json](./353211-dance-central-spotlight-the-pussycat-dolls-ft-busta-rhymes-dont-cha.json) |
 | Dance Dance Revolution 2nd Mix: Dreamcast Edition | 268647 | [268647-dance-dance-revolution-2nd-mix-dreamcast-edition.json](./268647-dance-dance-revolution-2nd-mix-dreamcast-edition.json) |
 | Dance Dance Revolution 2ndMix | 77640 | [77640-dance-dance-revolution-2ndmix.json](./77640-dance-dance-revolution-2ndmix.json) |
 | Dance Dance Revolution 2ndReMix: Append Club Version Vol. 1 | 132807 | [132807-dance-dance-revolution-2ndremix-append-club-version-vol-1.json](./132807-dance-dance-revolution-2ndremix-append-club-version-vol-1.json) |
@@ -8162,6 +8173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doubumon | 259169 | [259169-doubumon.json](./259169-doubumon.json) |
 | Doubutsu Banchou | 151836 | [151836-doubutsu-banchou.json](./151836-doubutsu-banchou.json) |
 | Doubutsu no Mori Card e+: Series 1 | 356647 | [356647-doubutsu-no-mori-card-e-series-1.json](./356647-doubutsu-no-mori-card-e-series-1.json) |
+| Doubutsu no Mori+ | 353228 | [353228-doubutsu-no-mori.json](./353228-doubutsu-no-mori.json) |
 | Doubutsu no Mori+ Card-e: Series 1 | 356635 | [356635-doubutsu-no-mori-card-e-series-1.json](./356635-doubutsu-no-mori-card-e-series-1.json) |
 | Doubutsu no Mori+: Super Mario Bros | 360585 | [360585-doubutsu-no-mori-super-mario-bros.json](./360585-doubutsu-no-mori-super-mario-bros.json) |
 | Doubutsu no Shima no Chobi Gurumi | 49264 | [49264-doubutsu-no-shima-no-chobi-gurumi.json](./49264-doubutsu-no-shima-no-chobi-gurumi.json) |
