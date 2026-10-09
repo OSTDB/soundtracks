@@ -2448,6 +2448,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nickelodeon Pixel Town | 128374 | [128374-nickelodeon-pixel-town.json](./128374-nickelodeon-pixel-town.json) |
 | Nickelodeon Rugrats | 198878 | [198878-nickelodeon-rugrats.json](./198878-nickelodeon-rugrats.json) |
 | Nicktoons | 220098 | [220098-nicktoons.json](./220098-nicktoons.json) |
+| Nicktoons & The Dice of Destiny: Deluxe Edition | 365553 | [365553-nicktoons-and-the-dice-of-destiny-deluxe-edition.json](./365553-nicktoons-and-the-dice-of-destiny-deluxe-edition.json) |
+| Nicktoons & The Dice of Destiny: Wardrobe of Wonder Pack | 365583 | [365583-nicktoons-and-the-dice-of-destiny-wardrobe-of-wonder-pack.json](./365583-nicktoons-and-the-dice-of-destiny-wardrobe-of-wonder-pack.json) |
 | Nicktoons Basketball | 7984 | [7984-nicktoons-basketball.json](./7984-nicktoons-basketball.json) |
 | Nicktoons Nick Tunes | 210028 | [210028-nicktoons-nick-tunes.json](./210028-nicktoons-nick-tunes.json) |
 | Nicktoons Nitro | 7981 | [7981-nicktoons-nitro.json](./7981-nicktoons-nitro.json) |
@@ -3838,6 +3840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nohzdyve | 123624 | [123624-nohzdyve.json](./123624-nohzdyve.json) |
 | Noir Crime Bundle: Mafia, Mystery & Investigation | 402297 | [402297-noir-crime-bundle-mafia-mystery-and-investigation.json](./402297-noir-crime-bundle-mafia-mystery-and-investigation.json) |
 | Noir Detective | 185411 | [185411-noir-detective.json](./185411-noir-detective.json) |
+| Noir Mafia Simulator: 1960s American Crime | 365562 | [365562-noir-mafia-simulator-1960s-american-crime.json](./365562-noir-mafia-simulator-1960s-american-crime.json) |
 | Noir Punk | 150240 | [150240-noir-punk.json](./150240-noir-punk.json) |
 | Noir Storm | 216984 | [216984-noir-storm.json](./216984-noir-storm.json) |
 | Noir Total: Deadly Party | 343270 | [343270-noir-total-deadly-party.json](./343270-noir-total-deadly-party.json) |
