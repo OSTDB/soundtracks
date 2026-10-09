@@ -188,6 +188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 10 Amazingly Awful Games Vol 2 | 79939 | [79939-10-amazingly-awful-games-vol-2.json](./79939-10-amazingly-awful-games-vol-2.json) |
 | 10 Blaze Escape | 326084 | [326084-10-blaze-escape.json](./326084-10-blaze-escape.json) |
 | 10 Cent Classics: Shady Pack | 56451 | [56451-10-cent-classics-shady-pack.json](./56451-10-cent-classics-shady-pack.json) |
+| 10 Count Avoidance | 376894 | [376894-10-count-avoidance.json](./376894-10-count-avoidance.json) |
 | 10 Count Boxer | 85719 | [85719-10-count-boxer.json](./85719-10-count-boxer.json) |
 | 10 Crowns | 86424 | [86424-10-crowns.json](./86424-10-crowns.json) |
 | 10 Days to Save the World | 382905 | [382905-10-days-to-save-the-world.json](./382905-10-days-to-save-the-world.json) |
@@ -245,6 +246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 10-Second Ghost | 314855 | [314855-10-second-ghost.json](./314855-10-second-ghost.json) |
 | 10-Yard Fight | 229983 | [229983-10-yard-fight.json](./229983-10-yard-fight.json) |
 | 10-Yard Fight | 2733 | [2733-10-yard-fight.json](./2733-10-yard-fight.json) |
+| 10,000 | 376883 | [376883-10-000.json](./376883-10-000.json) |
 | 10,000 Feet Below | 271729 | [271729-10-000-feet-below.json](./271729-10-000-feet-below.json) |
 | 10,000 Player Chess | 341648 | [341648-10-000-player-chess.json](./341648-10-000-player-chess.json) |
 | 10:59 | 308936 | [308936-10-59.json](./308936-10-59.json) |
@@ -258,8 +260,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Archeology Cats | 393728 | [393728-100-archeology-cats.json](./393728-100-archeology-cats.json) |
 | 100 Astro Cats | 347755 | [347755-100-astro-cats.json](./347755-100-astro-cats.json) |
 | 100 Aztec Cats | 306020 | [306020-100-aztec-cats.json](./306020-100-aztec-cats.json) |
+| 100 Bakery Cats | 376885 | [376885-100-bakery-cats.json](./376885-100-bakery-cats.json) |
 | 100 Balls | 331350 | [331350-100-balls.json](./331350-100-balls.json) |
 | 100 Balls: Tap to Drop in Cup | 100152 | [100152-100-balls-tap-to-drop-in-cup.json](./100152-100-balls-tap-to-drop-in-cup.json) |
+| 100 Blacksmith Cats | 376886 | [376886-100-blacksmith-cats.json](./376886-100-blacksmith-cats.json) |
 | 100 Bullets | 90935 | [90935-100-bullets.json](./90935-100-bullets.json) |
 | 100 Caliber Dash | 334119 | [334119-100-caliber-dash.json](./334119-100-caliber-dash.json) |
 | 100 Camp Cats | 351684 | [351684-100-camp-cats.json](./351684-100-camp-cats.json) |
@@ -274,18 +278,24 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Cats Lost in Australia Find & Color | 359556 | [359556-100-cats-lost-in-australia-find-and-color.json](./359556-100-cats-lost-in-australia-find-and-color.json) |
 | 100 Cats Lost in Birthday Bash | 359031 | [359031-100-cats-lost-in-birthday-bash.json](./359031-100-cats-lost-in-birthday-bash.json) |
 | 100 Cats Lost in Canada 2 | 359033 | [359033-100-cats-lost-in-canada-2.json](./359033-100-cats-lost-in-canada-2.json) |
+| 100 Cats Lost In Canada: Extra Content | 376890 | [376890-100-cats-lost-in-canada-extra-content.json](./376890-100-cats-lost-in-canada-extra-content.json) |
 | 100 Cats Lost in Circus Escape | 359030 | [359030-100-cats-lost-in-circus-escape.json](./359030-100-cats-lost-in-circus-escape.json) |
 | 100 Cats Lost in Da Vinci’s Workshop | 359052 | [359052-100-cats-lost-in-da-vinci-s-workshop.json](./359052-100-cats-lost-in-da-vinci-s-workshop.json) |
 | 100 Cats Lost in Funfair Frenzy | 359027 | [359027-100-cats-lost-in-funfair-frenzy.json](./359027-100-cats-lost-in-funfair-frenzy.json) |
 | 100 Cats Lost in Halloween Havoc | 359035 | [359035-100-cats-lost-in-halloween-havoc.json](./359035-100-cats-lost-in-halloween-havoc.json) |
+| 100 Cats Lost In Japan: Extra Content | 376889 | [376889-100-cats-lost-in-japan-extra-content.json](./376889-100-cats-lost-in-japan-extra-content.json) |
 | 100 Cats Lost in Modern Art Mayhem | 359029 | [359029-100-cats-lost-in-modern-art-mayhem.json](./359029-100-cats-lost-in-modern-art-mayhem.json) |
 | 100 Cats Lost in Picasso’s Cubic World | 359026 | [359026-100-cats-lost-in-picasso-s-cubic-world.json](./359026-100-cats-lost-in-picasso-s-cubic-world.json) |
 | 100 Cats Lost In Poland: Extra Content | 359562 | [359562-100-cats-lost-in-poland-extra-content.json](./359562-100-cats-lost-in-poland-extra-content.json) |
 | 100 Cats Lost in Surreal Dreamscape | 359032 | [359032-100-cats-lost-in-surreal-dreamscape.json](./359032-100-cats-lost-in-surreal-dreamscape.json) |
+| 100 Cats Lost In Thailand: Extra Content | 376888 | [376888-100-cats-lost-in-thailand-extra-content.json](./376888-100-cats-lost-in-thailand-extra-content.json) |
 | 100 Cats Lost in the 19th Century Find & Color | 359050 | [359050-100-cats-lost-in-the-19th-century-find-and-color.json](./359050-100-cats-lost-in-the-19th-century-find-and-color.json) |
 | 100 Cats Lost in the Future Find & Color | 359034 | [359034-100-cats-lost-in-the-future-find-and-color.json](./359034-100-cats-lost-in-the-future-find-and-color.json) |
 | 100 Cats Lost in the Stone Age Find & Color | 359053 | [359053-100-cats-lost-in-the-stone-age-find-and-color.json](./359053-100-cats-lost-in-the-stone-age-find-and-color.json) |
 | 100 Cats Lost in Toyland Trouble | 359028 | [359028-100-cats-lost-in-toyland-trouble.json](./359028-100-cats-lost-in-toyland-trouble.json) |
+| 100 Cats Lost In Turkey: Extra Content | 376887 | [376887-100-cats-lost-in-turkey-extra-content.json](./376887-100-cats-lost-in-turkey-extra-content.json) |
+| 100 Cats Lost in Undersea Wonders | 376891 | [376891-100-cats-lost-in-undersea-wonders.json](./376891-100-cats-lost-in-undersea-wonders.json) |
+| 100 Cats Lost in Van Gogh’s Brushstrokes | 376892 | [376892-100-cats-lost-in-van-gogh-s-brushstrokes.json](./376892-100-cats-lost-in-van-gogh-s-brushstrokes.json) |
 | 100 Cats New York: Extra Content | 325502 | [325502-100-cats-new-york-extra-content.json](./325502-100-cats-new-york-extra-content.json) |
 | 100 Cats Pakistan | 283867 | [283867-100-cats-pakistan.json](./283867-100-cats-pakistan.json) |
 | 100 Cats Singapore | 284618 | [284618-100-cats-singapore.json](./284618-100-cats-singapore.json) |
@@ -332,6 +342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Hidden Frogs | 186155 | [186155-100-hidden-frogs.json](./186155-100-hidden-frogs.json) |
 | 100 Hidden Rams | 163750 | [163750-100-hidden-rams.json](./163750-100-hidden-rams.json) |
 | 100 Hiddensaurs: Egypt | 325503 | [325503-100-hiddensaurs-egypt.json](./325503-100-hiddensaurs-egypt.json) |
+| 100 Hiddensaurs: Eighties | 376893 | [376893-100-hiddensaurs-eighties.json](./376893-100-hiddensaurs-eighties.json) |
 | 100 Hiddensaurs: Greece | 318394 | [318394-100-hiddensaurs-greece.json](./318394-100-hiddensaurs-greece.json) |
 | 100 Hiddensaurs: Medieval | 359558 | [359558-100-hiddensaurs-medieval.json](./359558-100-hiddensaurs-medieval.json) |
 | 100 Hiddensaurs: Renaissance | 359557 | [359557-100-hiddensaurs-renaissance.json](./359557-100-hiddensaurs-renaissance.json) |
@@ -387,6 +398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100-man-nin no Nobunaga no Yabou | 208243 | [208243-100-man-nin-no-nobunaga-no-yabou.json](./208243-100-man-nin-no-nobunaga-no-yabou.json) |
 | 100-oku-hiki no Mona | 297640 | [297640-100-oku-hiki-no-mona.json](./297640-100-oku-hiki-no-mona.json) |
 | 100! | 99089 | [99089-100.json](./99089-100.json) |
+| 100% Accurate Youtuber Simulator | 376884 | [376884-100-accurate-youtuber-simulator.json](./376884-100-accurate-youtuber-simulator.json) |
 | 100% Complete | 413678 | [413678-100-complete.json](./413678-100-complete.json) |
 | 100% Hidden Objects | 88626 | [88626-100-hidden-objects.json](./88626-100-hidden-objects.json) |
 | 100% Hits | 235752 | [235752-100-hits.json](./235752-100-hits.json) |
@@ -483,6 +495,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 101 Dalmatians | 200492 | [200492-101-dalmatians.json](./200492-101-dalmatians.json) |
 | 101 Dogs Hidden in Australia | 382346 | [382346-101-dogs-hidden-in-australia.json](./382346-101-dogs-hidden-in-australia.json) |
 | 101 Dogs Hidden in Bangkok | 407530 | [407530-101-dogs-hidden-in-bangkok.json](./407530-101-dogs-hidden-in-bangkok.json) |
+| 101 Dogs Hidden in India | 376896 | [376896-101-dogs-hidden-in-india.json](./376896-101-dogs-hidden-in-india.json) |
+| 101 Dogs Hidden in Ireland | 376895 | [376895-101-dogs-hidden-in-ireland.json](./376895-101-dogs-hidden-in-ireland.json) |
 | 101 Dogs Hidden in Istanbul | 401547 | [401547-101-dogs-hidden-in-istanbul.json](./401547-101-dogs-hidden-in-istanbul.json) |
 | 101 Dogs Hidden in London | 407532 | [407532-101-dogs-hidden-in-london.json](./407532-101-dogs-hidden-in-london.json) |
 | 101 Dogs Hidden in Los Angeles | 386868 | [386868-101-dogs-hidden-in-los-angeles.json](./386868-101-dogs-hidden-in-los-angeles.json) |
