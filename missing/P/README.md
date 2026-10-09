@@ -2085,6 +2085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Payne Stewart Golf | 210012 | [210012-payne-stewart-golf.json](./210012-payne-stewart-golf.json) |
 | Payout: Shop Simulator | 309336 | [309336-payout-shop-simulator.json](./309336-payout-shop-simulator.json) |
 | Payrates | 405522 | [405522-payrates.json](./405522-payrates.json) |
+| Payroll | 385391 | [385391-payroll.json](./385391-payroll.json) |
 | Paze Knight Ellen and the Dungeon Town Sodom | 244482 | [244482-paze-knight-ellen-and-the-dungeon-town-sodom.json](./244482-paze-knight-ellen-and-the-dungeon-town-sodom.json) |
 | Pazinko! | 369707 | [369707-pazinko.json](./369707-pazinko.json) |
 | PazuDora Gold | 120866 | [120866-pazudora-gold.json](./120866-pazudora-gold.json) |
@@ -2290,6 +2291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pegasus-5: Gone Astray | 104797 | [104797-pegasus-5-gone-astray.json](./104797-pegasus-5-gone-astray.json) |
 | Pegaxy | 188410 | [188410-pegaxy.json](./188410-pegaxy.json) |
 | Pegged | 312228 | [312228-pegged.json](./312228-pegged.json) |
+| Pegged | 385372 | [385372-pegged.json](./385372-pegged.json) |
 | Peggle | 3751 | [3751-peggle.json](./3751-peggle.json) |
 | Peggle | 95409 | [95409-peggle.json](./95409-peggle.json) |
 | Peggle 2 | 3752 | [3752-peggle-2.json](./3752-peggle-2.json) |
@@ -7798,6 +7800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Pointer | 335080 | [335080-power-pointer.json](./335080-power-pointer.json) |
 | Power Politics | 76590 | [76590-power-politics.json](./76590-power-politics.json) |
 | Power Punch | 275121 | [275121-power-punch.json](./275121-power-punch.json) |
+| Power Punch | 385368 | [385368-power-punch.json](./385368-power-punch.json) |
 | Power Punch | 50704 | [50704-power-punch.json](./50704-power-punch.json) |
 | Power Punch II | 48222 | [48222-power-punch-ii.json](./48222-power-punch-ii.json) |
 | Power Quest Survivors | 295558 | [295558-power-quest-survivors.json](./295558-power-quest-survivors.json) |
