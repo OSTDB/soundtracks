@@ -1056,6 +1056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magnet Mania 3D | 262580 | [262580-magnet-mania-3d.json](./262580-magnet-mania-3d.json) |
 | Magneta Box | 190007 | [190007-magneta-box.json](./190007-magneta-box.json) |
 | Magnetic | 136214 | [136214-magnetic.json](./136214-magnetic.json) |
+| Magnetic Action | 364974 | [364974-magnetic-action.json](./364974-magnetic-action.json) |
 | Magnetic Billiards | 47276 | [47276-magnetic-billiards.json](./47276-magnetic-billiards.json) |
 | Magnetic Billiards: Blueprint | 22314 | [22314-magnetic-billiards-blueprint.json](./22314-magnetic-billiards-blueprint.json) |
 | Magnetic By Nature | 17322 | [17322-magnetic-by-nature.json](./17322-magnetic-by-nature.json) |
@@ -10586,6 +10587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motor Mash | 44866 | [44866-motor-mash.json](./44866-motor-mash.json) |
 | Motor Mayhem | 43305 | [43305-motor-mayhem.json](./43305-motor-mayhem.json) |
 | Motor Money Crash! | 185552 | [185552-motor-money-crash.json](./185552-motor-money-crash.json) |
+| Motor Racing Battle | 364981 | [364981-motor-racing-battle.json](./364981-motor-racing-battle.json) |
 | Motor Raid | 39798 | [39798-motor-raid.json](./39798-motor-raid.json) |
 | Motor Rally | 246387 | [246387-motor-rally.json](./246387-motor-rally.json) |
 | Motor Rally 2 | 246352 | [246352-motor-rally-2.json](./246352-motor-rally-2.json) |
@@ -11525,6 +11527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Museums of History | 339921 | [339921-museums-of-history.json](./339921-museums-of-history.json) |
 | Musgro Farm | 303098 | [303098-musgro-farm.json](./303098-musgro-farm.json) |
 | Mush | 92588 | [92588-mush.json](./92588-mush.json) |
+| Mush Dash | 364988 | [364988-mush-dash.json](./364988-mush-dash.json) |
 | Mush Dash | 412392 | [412392-mush-dash.json](./412392-mush-dash.json) |
 | Mush Rush: Stock Market Tycoon | 250389 | [250389-mush-rush-stock-market-tycoon.json](./250389-mush-rush-stock-market-tycoon.json) |
 | Mush Work Together | 183406 | [183406-mush-work-together.json](./183406-mush-work-together.json) |
