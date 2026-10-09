@@ -148,6 +148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cadence of Hyrule: Crypt of the NecroDancer Featuring the Legend of Zelda - Melody Pack | 235331 | [235331-cadence-of-hyrule-crypt-of-the-necrodancer-featuring-the-legend-of-zelda-melody-pack.json](./235331-cadence-of-hyrule-crypt-of-the-necrodancer-featuring-the-legend-of-zelda-melody-pack.json) |
 | Cadence of Hyrule: Crypt of the NecroDancer Featuring the Legend of Zelda - Octavo's Ode | 235330 | [235330-cadence-of-hyrule-crypt-of-the-necrodancer-featuring-the-legend-of-zelda-octavos-ode.json](./235330-cadence-of-hyrule-crypt-of-the-necrodancer-featuring-the-legend-of-zelda-octavos-ode.json) |
 | Cadence of Hyrule: Crypt of the NecroDancer Featuring the Legend of Zelda - Season Pass | 141742 | [141742-cadence-of-hyrule-crypt-of-the-necrodancer-featuring-the-legend-of-zelda-season-pass.json](./141742-cadence-of-hyrule-crypt-of-the-necrodancer-featuring-the-legend-of-zelda-season-pass.json) |
+| Cadentia Farnese | 381955 | [381955-cadentia-farnese.json](./381955-cadentia-farnese.json) |
 | Cadenza: Havana Nights | 188030 | [188030-cadenza-havana-nights.json](./188030-cadenza-havana-nights.json) |
 | Cadenza: Music, Betrayal and Death | 140305 | [140305-cadenza-music-betrayal-and-death.json](./140305-cadenza-music-betrayal-and-death.json) |
 | Cadenza: Music, Betrayal and Death - Collector's Edition | 36465 | [36465-cadenza-music-betrayal-and-death-collectors-edition.json](./36465-cadenza-music-betrayal-and-death-collectors-edition.json) |
@@ -3590,6 +3591,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Checkers RPG: Online Battles | 261829 | [261829-checkers-rpg-online-battles.json](./261829-checkers-rpg-online-battles.json) |
 | Checkers Saga | 58275 | [58275-checkers-saga.json](./58275-checkers-saga.json) |
 | Checkers World | 88663 | [88663-checkers-world.json](./88663-checkers-world.json) |
+| Checkers' Birthday Party | 381936 | [381936-checkers-birthday-party.json](./381936-checkers-birthday-party.json) |
+| Checkers' Hide 'n Seek | 381938 | [381938-checkers-hide-n-seek.json](./381938-checkers-hide-n-seek.json) |
+| Checkers' Playroom | 381935 | [381935-checkers-playroom.json](./381935-checkers-playroom.json) |
+| Checkers' Treasure Hunt | 381937 | [381937-checkers-treasure-hunt.json](./381937-checkers-treasure-hunt.json) |
 | Checkers' Village | 382190 | [382190-checkers-village.json](./382190-checkers-village.json) |
 | Checkmate Heroines | 391068 | [391068-checkmate-heroines.json](./391068-checkmate-heroines.json) |
 | Checkmate in the Wild West: Chess Adventure | 373534 | [373534-checkmate-in-the-wild-west-chess-adventure.json](./373534-checkmate-in-the-wild-west-chess-adventure.json) |
@@ -9589,6 +9594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Dreamz: MagiCats Edition | 55255 | [55255-crazy-dreamz-magicats-edition.json](./55255-crazy-dreamz-magicats-edition.json) |
 | Crazy Driller | 175259 | [175259-crazy-driller.json](./175259-crazy-driller.json) |
 | Crazy Driver | 119479 | [119479-crazy-driver.json](./119479-crazy-driver.json) |
+| Crazy Dungeon | 381962 | [381962-crazy-dungeon.json](./381962-crazy-dungeon.json) |
 | Crazy Dungeon Tavern | 359545 | [359545-crazy-dungeon-tavern.json](./359545-crazy-dungeon-tavern.json) |
 | Crazy Economy Craft | 71047 | [71047-crazy-economy-craft.json](./71047-crazy-economy-craft.json) |
 | Crazy Eights | 70353 | [70353-crazy-eights.json](./70353-crazy-eights.json) |
@@ -10698,6 +10704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crypt Stalker: Extended Edition | 308796 | [308796-crypt-stalker-extended-edition.json](./308796-crypt-stalker-extended-edition.json) |
 | Crypt Stalker: Happy Edition | 306521 | [306521-crypt-stalker-happy-edition.json](./306521-crypt-stalker-happy-edition.json) |
 | Crypt Stalker: Ultimate Edition | 306522 | [306522-crypt-stalker-ultimate-edition.json](./306522-crypt-stalker-ultimate-edition.json) |
+| Crypt Sweeper | 381973 | [381973-crypt-sweeper.json](./381973-crypt-sweeper.json) |
 | Crypt Underworld | 109072 | [109072-crypt-underworld.json](./109072-crypt-underworld.json) |
 | Crypt-Oink Racing Friends | 130823 | [130823-crypt-oink-racing-friends.json](./130823-crypt-oink-racing-friends.json) |
 | Cryptic | 122425 | [122425-cryptic.json](./122425-cryptic.json) |
@@ -11218,6 +11225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cult Master: Ultraman ni Miserarete | 60529 | [60529-cult-master-ultraman-ni-miserarete.json](./60529-cult-master-ultraman-ni-miserarete.json) |
 | Cult Nation | 388360 | [388360-cult-nation.json](./388360-cult-nation.json) |
 | Cult Of Blood | 319965 | [319965-cult-of-blood.json](./319965-cult-of-blood.json) |
+| Cult of Five | 381923 | [381923-cult-of-five.json](./381923-cult-of-five.json) |
 | Cult of Lily | 383586 | [383586-cult-of-lily.json](./383586-cult-of-lily.json) |
 | Cult of Persona | 339354 | [339354-cult-of-persona.json](./339354-cult-of-persona.json) |
 | Cult of Pin | 351132 | [351132-cult-of-pin.json](./351132-cult-of-pin.json) |
