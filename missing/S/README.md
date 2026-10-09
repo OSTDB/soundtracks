@@ -1731,6 +1731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scattered Wings | 398578 | [398578-scattered-wings.json](./398578-scattered-wings.json) |
 | Scattergories Weekly | 376139 | [376139-scattergories-weekly.json](./376139-scattergories-weekly.json) |
 | Scatterhoard | 185097 | [185097-scatterhoard.json](./185097-scatterhoard.json) |
+| Scav | 361079 | [361079-scav.json](./361079-scav.json) |
 | Scavenger | 237648 | [237648-scavenger.json](./237648-scavenger.json) |
 | Scavenger | 241503 | [241503-scavenger.json](./241503-scavenger.json) |
 | Scavenger | 74443 | [74443-scavenger.json](./74443-scavenger.json) |
@@ -4950,6 +4951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shimaise | 109183 | [109183-shimaise.json](./109183-shimaise.json) |
 | Shimajiro no Eigo Activity Ehon: ABC Park de Asobou! | 327617 | [327617-shimajiro-no-eigo-activity-ehon-abc-park-de-asobou.json](./327617-shimajiro-no-eigo-activity-ehon-abc-park-de-asobou.json) |
 | Shime Houmeichou | 415071 | [415071-shime-houmeichou.json](./415071-shime-houmeichou.json) |
+| Shimmer's Quest: Way of the Whoop | 361076 | [361076-shimmers-quest-way-of-the-whoop.json](./361076-shimmers-quest-way-of-the-whoop.json) |
 | Shimono Masaki no Fishing to Bassing | 38253 | [38253-shimono-masaki-no-fishing-to-bassing.json](./38253-shimono-masaki-no-fishing-to-bassing.json) |
 | Shin Egokoro Kyoushitsu | 141122 | [141122-shin-egokoro-kyoushitsu.json](./141122-shin-egokoro-kyoushitsu.json) |
 | Shin Era Tensei | 365818 | [365818-shin-era-tensei.json](./365818-shin-era-tensei.json) |
@@ -6744,6 +6746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sin Slayers: Reign of The 8th | 291758 | [291758-sin-slayers-reign-of-the-8th.json](./291758-sin-slayers-reign-of-the-8th.json) |
 | Sin Survivor | 151138 | [151138-sin-survivor.json](./151138-sin-survivor.json) |
 | Sin VR | 127834 | [127834-sin-vr.json](./127834-sin-vr.json) |
+| Sin Zero | 361054 | [361054-sin-zero.json](./361054-sin-zero.json) |
 | Sin-Cay | 162433 | [162433-sin-cay.json](./162433-sin-cay.json) |
 | Sin; Vengeance | 115135 | [115135-sin-vengeance.json](./115135-sin-vengeance.json) |
 | SiN: Wages of Sin | 8717 | [8717-sin-wages-of-sin.json](./8717-sin-wages-of-sin.json) |
@@ -9995,6 +9998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solstice Chronicles: MIA | 27381 | [27381-solstice-chronicles-mia.json](./27381-solstice-chronicles-mia.json) |
 | Solstice: Digital Collector's Edition | 154447 | [154447-solstice-digital-collectors-edition.json](./154447-solstice-digital-collectors-edition.json) |
 | Solstride | 381210 | [381210-solstride.json](./381210-solstride.json) |
+| Solstrike | 361036 | [361036-solstrike.json](./361036-solstrike.json) |
 | Soltrio Solitaire | 21831 | [21831-soltrio-solitaire.json](./21831-soltrio-solitaire.json) |
 | Soltys | 93179 | [93179-soltys.json](./93179-soltys.json) |
 | Soluble Dream | 259591 | [259591-soluble-dream.json](./259591-soluble-dream.json) |
@@ -12058,6 +12062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Viking Raiders VR | 123485 | [123485-space-viking-raiders-vr.json](./123485-space-viking-raiders-vr.json) |
 | Space Vikings | 261551 | [261551-space-vikings.json](./261551-space-vikings.json) |
 | Space Virus Escape | 363044 | [363044-space-virus-escape.json](./363044-space-virus-escape.json) |
+| Space Vomit | 361058 | [361058-space-vomit.json](./361058-space-vomit.json) |
 | Space Vortex | 297723 | [297723-space-vortex.json](./297723-space-vortex.json) |
 | Space Voyage: The Puzzle Game | 220668 | [220668-space-voyage-the-puzzle-game.json](./220668-space-voyage-the-puzzle-game.json) |
 | Space Voyager | 54515 | [54515-space-voyager.json](./54515-space-voyager.json) |
@@ -16578,6 +16583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strategic Command Classic: WWII | 96683 | [96683-strategic-command-classic-wwii.json](./96683-strategic-command-classic-wwii.json) |
 | Strategic Command WWII: War in the Pacific | 292538 | [292538-strategic-command-wwii-war-in-the-pacific.json](./292538-strategic-command-wwii-war-in-the-pacific.json) |
 | Strategic Command WWII: World at War | 112747 | [112747-strategic-command-wwii-world-at-war.json](./112747-strategic-command-wwii-world-at-war.json) |
+| Strategic Command: American Civil War - Concert of Europe | 361043 | [361043-strategic-command-american-civil-war-concert-of-europe.json](./361043-strategic-command-american-civil-war-concert-of-europe.json) |
 | Strategic Command: American Civil War - Wars in the Americas | 231865 | [231865-strategic-command-american-civil-war-wars-in-the-americas.json](./231865-strategic-command-american-civil-war-wars-in-the-americas.json) |
 | Strategic Command: European Theater | 51892 | [51892-strategic-command-european-theater.json](./51892-strategic-command-european-theater.json) |
 | Strategic Command: World War I | 129592 | [129592-strategic-command-world-war-i.json](./129592-strategic-command-world-war-i.json) |
