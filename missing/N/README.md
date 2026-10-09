@@ -566,6 +566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Natsuiro Recipe | 60240 | [60240-natsuiro-recipe.json](./60240-natsuiro-recipe.json) |
 | Natsuiro Sail Trim: Sail 1 | 395505 | [395505-natsuiro-sail-trim-sail-1.json](./395505-natsuiro-sail-trim-sail-1.json) |
 | Natsuiro Sail Trim: Sail 2 | 395506 | [395506-natsuiro-sail-trim-sail-2.json](./395506-natsuiro-sail-trim-sail-2.json) |
+| Natsuiro: Hoshikuzu no Memory | 379674 | [379674-natsuiro-hoshikuzu-no-memory.json](./379674-natsuiro-hoshikuzu-no-memory.json) |
 | Natsuki And Chill | 354520 | [354520-natsuki-and-chill.json](./354520-natsuki-and-chill.json) |
 | Natsuki Chronicles | 61467 | [61467-natsuki-chronicles.json](./61467-natsuki-chronicles.json) |
 | Natsuki Crisis Battle | 38210 | [38210-natsuki-crisis-battle.json](./38210-natsuki-crisis-battle.json) |
@@ -2560,6 +2561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night in the Woods: Lost Constellation | 60719 | [60719-night-in-the-woods-lost-constellation.json](./60719-night-in-the-woods-lost-constellation.json) |
 | Night Intruders | 184089 | [184089-night-intruders.json](./184089-night-intruders.json) |
 | Night Invasion | 176292 | [176292-night-invasion.json](./176292-night-invasion.json) |
+| Night Invasion | 379663 | [379663-night-invasion.json](./379663-night-invasion.json) |
 | Night is Coming | 115576 | [115576-night-is-coming.json](./115576-night-is-coming.json) |
 | Night is Coming: Wrath of the Woods | 336551 | [336551-night-is-coming-wrath-of-the-woods.json](./336551-night-is-coming-wrath-of-the-woods.json) |
 | Night Island | 120793 | [120793-night-island.json](./120793-night-island.json) |
