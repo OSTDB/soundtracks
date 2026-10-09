@@ -13001,6 +13001,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirit City: Lofi Sessions | 263016 | [263016-spirit-city-lofi-sessions.json](./263016-spirit-city-lofi-sessions.json) |
 | Spirit City: Lofi Sessions - All Aboard! | 363005 | [363005-spirit-city-lofi-sessions-all-aboard.json](./363005-spirit-city-lofi-sessions-all-aboard.json) |
 | Spirit City: Lofi Sessions - Cozy Kitchen | 325655 | [325655-spirit-city-lofi-sessions-cozy-kitchen.json](./325655-spirit-city-lofi-sessions-cozy-kitchen.json) |
+| Spirit City: Lofi Sessions - Supporter Pack | 378592 | [378592-spirit-city-lofi-sessions-supporter-pack.json](./378592-spirit-city-lofi-sessions-supporter-pack.json) |
+| Spirit City: Lofi Sessions - Winter Spirit Cosmetics Pack | 378591 | [378591-spirit-city-lofi-sessions-winter-spirit-cosmetics-pack.json](./378591-spirit-city-lofi-sessions-winter-spirit-cosmetics-pack.json) |
 | Spirit Cleaning | 151717 | [151717-spirit-cleaning.json](./151717-spirit-cleaning.json) |
 | Spirit Drop | 334746 | [334746-spirit-drop.json](./334746-spirit-drop.json) |
 | Spirit Eyes | 211188 | [211188-spirit-eyes.json](./211188-spirit-eyes.json) |
@@ -15921,6 +15923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stickman WW2 | 290479 | [290479-stickman-ww2.json](./290479-stickman-ww2.json) |
 | Stickman Zombie Shooting 3D | 398420 | [398420-stickman-zombie-shooting-3d.json](./398420-stickman-zombie-shooting-3d.json) |
 | Stickman: Kill the Cook | 214056 | [214056-stickman-kill-the-cook.json](./214056-stickman-kill-the-cook.json) |
+| Stickman: Waves Of Doom | 378533 | [378533-stickman-waves-of-doom.json](./378533-stickman-waves-of-doom.json) |
 | Stickman's Arena | 220862 | [220862-stickmans-arena.json](./220862-stickmans-arena.json) |
 | Stickman's Rainbow | 117125 | [117125-stickmans-rainbow.json](./117125-stickmans-rainbow.json) |
 | Stickman's Rainbow | 117127 | [117127-stickmans-rainbow.json](./117127-stickmans-rainbow.json) |
@@ -19058,6 +19061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario World | 150031 | [150031-super-mario-world.json](./150031-super-mario-world.json) |
 | Super Mario World | 270346 | [270346-super-mario-world.json](./270346-super-mario-world.json) |
 | Super Mario World 2021 | 267933 | [267933-super-mario-world-2021.json](./267933-super-mario-world-2021.json) |
+| Super Mario World 2025 | 378564 | [378564-super-mario-world-2025.json](./378564-super-mario-world-2025.json) |
 | Super Mario World 64 | 230538 | [230538-super-mario-world-64.json](./230538-super-mario-world-64.json) |
 | Super Mario World Odyssey | 247185 | [247185-super-mario-world-odyssey.json](./247185-super-mario-world-odyssey.json) |
 | Super Mario World Rumbled | 377736 | [377736-super-mario-world-rumbled.json](./377736-super-mario-world-rumbled.json) |
@@ -19945,6 +19949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SuperLite 1500 Series Angolmois '99 | 382540 | [382540-superlite-1500-series-angolmois-99.json](./382540-superlite-1500-series-angolmois-99.json) |
 | SuperLite 1500 Series Hanafuda II | 382559 | [382559-superlite-1500-series-hanafuda-ii.json](./382559-superlite-1500-series-hanafuda-ii.json) |
 | SuperLite 1500 Series Quiz Master Blue | 382542 | [382542-superlite-1500-series-quiz-master-blue.json](./382542-superlite-1500-series-quiz-master-blue.json) |
+| SuperLite 1500 Series Quiz Master Red | 378567 | [378567-superlite-1500-series-quiz-master-red.json](./378567-superlite-1500-series-quiz-master-red.json) |
 | SuperLite 1500 Series Quiz Master Yellow | 382558 | [382558-superlite-1500-series-quiz-master-yellow.json](./382558-superlite-1500-series-quiz-master-yellow.json) |
 | SuperLite 1500 series: Bomb Boat | 54742 | [54742-superlite-1500-series-bomb-boat.json](./54742-superlite-1500-series-bomb-boat.json) |
 | SuperLite 1500 Series: Crossword | 382566 | [382566-superlite-1500-series-crossword.json](./382566-superlite-1500-series-crossword.json) |
