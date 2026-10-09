@@ -3364,6 +3364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bedrock Snowball Bash Game | 143682 | [143682-bedrock-snowball-bash-game.json](./143682-bedrock-snowball-bash-game.json) |
 | Bedrone | 270713 | [270713-bedrone.json](./270713-bedrone.json) |
 | Bedroom Battlegrounds | 288231 | [288231-bedroom-battlegrounds.json](./288231-bedroom-battlegrounds.json) |
+| Bedroom Brawl | 385916 | [385916-bedroom-brawl.json](./385916-bedroom-brawl.json) |
 | Bedrooms | 342732 | [342732-bedrooms.json](./342732-bedrooms.json) |
 | Bedrotting | 298265 | [298265-bedrotting.json](./298265-bedrotting.json) |
 | Bedtime | 182911 | [182911-bedtime.json](./182911-bedtime.json) |
@@ -4134,6 +4135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bezirk | 109876 | [109876-bezirk.json](./109876-bezirk.json) |
 | BeZombie Anime Invasion | 261825 | [261825-bezombie-anime-invasion.json](./261825-bezombie-anime-invasion.json) |
 | BFDI: Branches | 305909 | [305909-bfdi-branches.json](./305909-bfdi-branches.json) |
+| BFDI: Four's Kitchen | 385942 | [385942-bfdi-fours-kitchen.json](./385942-bfdi-fours-kitchen.json) |
 | BFF or Die | 94044 | [94044-bff-or-die.json](./94044-bff-or-die.json) |
 | BFGE | 114995 | [114995-bfge.json](./114995-bfge.json) |
 | BGPA Missions Liberation | 256849 | [256849-bgpa-missions-liberation.json](./256849-bgpa-missions-liberation.json) |
@@ -4996,6 +4998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bit Boy!! | 122125 | [122125-bit-boy.json](./122125-bit-boy.json) |
 | Bit Boy!! Arcade | 62852 | [62852-bit-boy-arcade.json](./62852-bit-boy-arcade.json) |
 | Bit Brawlers | 61716 | [61716-bit-brawlers.json](./61716-bit-brawlers.json) |
+| Bit Breaker | 385948 | [385948-bit-breaker.json](./385948-bit-breaker.json) |
 | Bit Buddy | 379871 | [379871-bit-buddy.json](./379871-bit-buddy.json) |
 | Bit Bullet | 75014 | [75014-bit-bullet.json](./75014-bit-bullet.json) |
 | Bit City | 174681 | [174681-bit-city.json](./174681-bit-city.json) |
@@ -7418,6 +7421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bond Blues | 293107 | [293107-bond-blues.json](./293107-bond-blues.json) |
 | Bondage Black Jack | 151621 | [151621-bondage-black-jack.json](./151621-bondage-black-jack.json) |
 | Bondage Girl | 156715 | [156715-bondage-girl.json](./156715-bondage-girl.json) |
+| Bondage Nightmare | 385897 | [385897-bondage-nightmare.json](./385897-bondage-nightmare.json) |
 | Bonded in Darkness | 320893 | [320893-bonded-in-darkness.json](./320893-bonded-in-darkness.json) |
 | Bonded Realities | 66109 | [66109-bonded-realities.json](./66109-bonded-realities.json) |
 | Bondee's Barnyard: Safety Violation | 231434 | [231434-bondees-barnyard-safety-violation.json](./231434-bondees-barnyard-safety-violation.json) |
@@ -9640,6 +9644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buck Rogers: Planet of Zoom | 11142 | [11142-buck-rogers-planet-of-zoom.json](./11142-buck-rogers-planet-of-zoom.json) |
 | Buck Trucker in Rowdy Business | 352200 | [352200-buck-trucker-in-rowdy-business.json](./352200-buck-trucker-in-rowdy-business.json) |
 | Buck Up and Drive! | 153515 | [153515-buck-up-and-drive.json](./153515-buck-up-and-drive.json) |
+| Buck Velvet | 385940 | [385940-buck-velvet.json](./385940-buck-velvet.json) |
 | Bucket Balls | 103201 | [103201-bucket-balls.json](./103201-bucket-balls.json) |
 | Bucket Brawl: Ahlman Edition | 253354 | [253354-bucket-brawl-ahlman-edition.json](./253354-bucket-brawl-ahlman-edition.json) |
 | Bucket Crusher | 208911 | [208911-bucket-crusher.json](./208911-bucket-crusher.json) |
