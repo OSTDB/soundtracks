@@ -774,6 +774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balances | 346709 | [346709-balances.json](./346709-balances.json) |
 | Balancing Cats | 330833 | [330833-balancing-cats.json](./330833-balancing-cats.json) |
 | Balathrone | 390720 | [390720-balathrone.json](./390720-balathrone.json) |
+| Balatro Multiplayer Mod | 346539 | [346539-balatro-multiplayer-mod.json](./346539-balatro-multiplayer-mod.json) |
 | Balatro: Cryptid | 331968 | [331968-balatro-cryptid.json](./331968-balatro-cryptid.json) |
 | Balatro: Friends of Jimbo | 314927 | [314927-balatro-friends-of-jimbo.json](./314927-balatro-friends-of-jimbo.json) |
 | Balatro: Special Edition | 323893 | [323893-balatro-special-edition.json](./323893-balatro-special-edition.json) |
@@ -1336,6 +1337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bar Night VR | 319722 | [319722-bar-night-vr.json](./319722-bar-night-vr.json) |
 | Bar Oasis | 63803 | [63803-bar-oasis.json](./63803-bar-oasis.json) |
 | Bar Simulator | 407335 | [407335-bar-simulator.json](./407335-bar-simulator.json) |
+| Bar Soviet | 346544 | [346544-bar-soviet.json](./346544-bar-soviet.json) |
 | Bar Stella Abyss | 277489 | [277489-bar-stella-abyss.json](./277489-bar-stella-abyss.json) |
 | Bar the Gates | 185467 | [185467-bar-the-gates.json](./185467-bar-the-gates.json) |
 | Bara Boarders | 183046 | [183046-bara-boarders.json](./183046-bara-boarders.json) |
@@ -8220,6 +8222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bound Between Desks | 347765 | [347765-bound-between-desks.json](./347765-bound-between-desks.json) |
 | Bound By A Curse | 402365 | [402365-bound-by-a-curse.json](./402365-bound-by-a-curse.json) |
 | Bound By Blood | 140545 | [140545-bound-by-blood.json](./140545-bound-by-blood.json) |
+| Bound by Bones | 346558 | [346558-bound-by-bones.json](./346558-bound-by-bones.json) |
 | Bound By Broadcast | 306432 | [306432-bound-by-broadcast.json](./306432-bound-by-broadcast.json) |
 | Bound by Desire | 367203 | [367203-bound-by-desire.json](./367203-bound-by-desire.json) |
 | Bound By Havoc | 384646 | [384646-bound-by-havoc.json](./384646-bound-by-havoc.json) |
@@ -9980,6 +9983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BugsBoxVR | 111454 | [111454-bugsboxvr.json](./111454-bugsboxvr.json) |
 | Bugscraper | 230797 | [230797-bugscraper.json](./230797-bugscraper.json) |
 | Bugspeed Collider | 34127 | [34127-bugspeed-collider.json](./34127-bugspeed-collider.json) |
+| BugSquash | 346562 | [346562-bugsquash.json](./346562-bugsquash.json) |
 | Bugtris | 130674 | [130674-bugtris.json](./130674-bugtris.json) |
 | BugWorld | 254003 | [254003-bugworld.json](./254003-bugworld.json) |
 | Bugz | 270400 | [270400-bugz.json](./270400-bugz.json) |
