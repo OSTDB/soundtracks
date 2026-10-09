@@ -4326,6 +4326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Fat Battle | 244771 | [244771-big-fat-battle.json](./244771-big-fat-battle.json) |
 | Big Fat Neighbor | 83532 | [83532-big-fat-neighbor.json](./83532-big-fat-neighbor.json) |
 | Big Fight: Big Trouble in the Atlantic Ocean | 40233 | [40233-big-fight-big-trouble-in-the-atlantic-ocean.json](./40233-big-fight-big-trouble-in-the-atlantic-ocean.json) |
+| Big Game Bundle 10-in-1 | 380189 | [380189-big-game-bundle-10-in-1.json](./380189-big-game-bundle-10-in-1.json) |
 | Big Game Fishing | 12403 | [12403-big-game-fishing.json](./12403-big-game-fishing.json) |
 | Big Game Trophy Hunter | 94208 | [94208-big-game-trophy-hunter.json](./94208-big-game-trophy-hunter.json) |
 | Big Golden Rock | 408713 | [408713-big-golden-rock.json](./408713-big-golden-rock.json) |
@@ -10338,6 +10339,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burning Sand 3 | 146742 | [146742-burning-sand-3.json](./146742-burning-sand-3.json) |
 | Burning Secrets: A Bara Visual Novel | 236398 | [236398-burning-secrets-a-bara-visual-novel.json](./236398-burning-secrets-a-bara-visual-novel.json) |
 | Burning Secrets: A Bara Visual Novel | 275891 | [275891-burning-secrets-a-bara-visual-novel.json](./275891-burning-secrets-a-bara-visual-novel.json) |
+| Burning Skies Arcade: Extra Content | 380209 | [380209-burning-skies-arcade-extra-content.json](./380209-burning-skies-arcade-extra-content.json) |
+| Burning Skies Arcade: Supporter Pack | 380210 | [380210-burning-skies-arcade-supporter-pack.json](./380210-burning-skies-arcade-supporter-pack.json) |
 | Burning Sky | 336709 | [336709-burning-sky.json](./336709-burning-sky.json) |
 | Burning Steel: Superschiffe im Atlantik | 92067 | [92067-burning-steel-superschiffe-im-atlantik.json](./92067-burning-steel-superschiffe-im-atlantik.json) |
 | Burning Tail Banquet | 403789 | [403789-burning-tail-banquet.json](./403789-burning-tail-banquet.json) |
