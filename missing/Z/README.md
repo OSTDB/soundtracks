@@ -742,6 +742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | zMahjong Super Solitaire | 88451 | [88451-zmahjong-super-solitaire.json](./88451-zmahjong-super-solitaire.json) |
 | ZMR: Zombies Monsters Robots | 7424 | [7424-zmr-zombies-monsters-robots.json](./7424-zmr-zombies-monsters-robots.json) |
 | Znake | 306038 | [306038-znake.json](./306038-znake.json) |
+| ZOA: The Zone of Avoidance | 339228 | [339228-zoa-the-zone-of-avoidance.json](./339228-zoa-the-zone-of-avoidance.json) |
 | Zoboomafoo: Leapin' Lemurs | 45308 | [45308-zoboomafoo-leapin-lemurs.json](./45308-zoboomafoo-leapin-lemurs.json) |
 | Zobre Zombie | 275011 | [275011-zobre-zombie.json](./275011-zobre-zombie.json) |
 | Zockbox | 91610 | [91610-zockbox.json](./91610-zockbox.json) |
