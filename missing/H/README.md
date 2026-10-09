@@ -4045,6 +4045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Cursed Crypt | 323930 | [323930-hidden-cursed-crypt.json](./323930-hidden-cursed-crypt.json) |
 | Hidden Desire | 220035 | [220035-hidden-desire.json](./220035-hidden-desire.json) |
 | Hidden Dimensions 3 | 31191 | [31191-hidden-dimensions-3.json](./31191-hidden-dimensions-3.json) |
+| Hidden Door | 360519 | [360519-hidden-door.json](./360519-hidden-door.json) |
 | Hidden Dose | 184598 | [184598-hidden-dose.json](./184598-hidden-dose.json) |
 | Hidden Dragon: Legend | 45095 | [45095-hidden-dragon-legend.json](./45095-hidden-dragon-legend.json) |
 | Hidden Dream | 132615 | [132615-hidden-dream.json](./132615-hidden-dream.json) |
