@@ -1046,6 +1046,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sangokushi Taisen DS | 70607 | [70607-sangokushi-taisen-ds.json](./70607-sangokushi-taisen-ds.json) |
 | Sangokushi Taisen Ten | 79368 | [79368-sangokushi-taisen-ten.json](./79368-sangokushi-taisen-ten.json) |
 | Sangokushi Taisen: Battle of Three Kingdoms | 268026 | [268026-sangokushi-taisen-battle-of-three-kingdoms.json](./268026-sangokushi-taisen-battle-of-three-kingdoms.json) |
+| Sangokushi V: Power Up Kit | 350381 | [350381-sangokushi-v-power-up-kit.json](./350381-sangokushi-v-power-up-kit.json) |
+| Sangokushi VIII: Power Up Kit | 350379 | [350379-sangokushi-viii-power-up-kit.json](./350379-sangokushi-viii-power-up-kit.json) |
 | Sangokushi: Chuugen no Hasha | 64448 | [64448-sangokushi-chuugen-no-hasha.json](./64448-sangokushi-chuugen-no-hasha.json) |
 | Sangokushi: Strategy Edition | 188391 | [188391-sangokushi-strategy-edition.json](./188391-sangokushi-strategy-edition.json) |
 | SangRaciner | 244265 | [244265-sangraciner.json](./244265-sangraciner.json) |
@@ -1730,6 +1732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scary Tales | 171587 | [171587-scary-tales.json](./171587-scary-tales.json) |
 | Scary Tales: Horror School | 337122 | [337122-scary-tales-horror-school.json](./337122-scary-tales-horror-school.json) |
 | Scary Teacher 3D | 104228 | [104228-scary-teacher-3d.json](./104228-scary-teacher-3d.json) |
+| Scary Together | 350465 | [350465-scary-together.json](./350465-scary-together.json) |
 | Scary Wife Chapter 2 | 303092 | [303092-scary-wife-chapter-2.json](./303092-scary-wife-chapter-2.json) |
 | Scaryfish III | 71786 | [71786-scaryfish-iii.json](./71786-scaryfish-iii.json) |
 | Scatch 2: The Painter Cat | 278983 | [278983-scatch-2-the-painter-cat.json](./278983-scatch-2-the-painter-cat.json) |
@@ -3473,6 +3476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Serial Cleaner + Official Soundtrack Bundle | 118866 | [118866-serial-cleaner-official-soundtrack-bundle.json](./118866-serial-cleaner-official-soundtrack-bundle.json) |
 | Serial Cleaner: Blood & Confetti | 336529 | [336529-serial-cleaner-blood-and-confetti.json](./336529-serial-cleaner-blood-and-confetti.json) |
 | Serial Cleaners: Dino Park | 249301 | [249301-serial-cleaners-dino-park.json](./249301-serial-cleaners-dino-park.json) |
+| Serial Experiments L-If-e | 350398 | [350398-serial-experiments-l-if-e.json](./350398-serial-experiments-l-if-e.json) |
 | Serial Experiments Lain | 76448 | [76448-serial-experiments-lain.json](./76448-serial-experiments-lain.json) |
 | Serial Experiments Lain Bootleg | 245007 | [245007-serial-experiments-lain-bootleg.json](./245007-serial-experiments-lain-bootleg.json) |
 | Serial Hunter | 191572 | [191572-serial-hunter.json](./191572-serial-hunter.json) |
@@ -4783,6 +4787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shelter in Place | 126537 | [126537-shelter-in-place.json](./126537-shelter-in-place.json) |
 | Shelter Manager | 133219 | [133219-shelter-manager.json](./133219-shelter-manager.json) |
 | Shelter of Exiles | 276821 | [276821-shelter-of-exiles.json](./276821-shelter-of-exiles.json) |
+| Shelter of Sursur | 350367 | [350367-shelter-of-sursur.json](./350367-shelter-of-sursur.json) |
 | Shelter of Sursur 2 | 350606 | [350606-shelter-of-sursur-2.json](./350606-shelter-of-sursur-2.json) |
 | Sheltered 2 | 152285 | [152285-sheltered-2.json](./152285-sheltered-2.json) |
 | Sheltered Double Pack | 186885 | [186885-sheltered-double-pack.json](./186885-sheltered-double-pack.json) |
@@ -5728,6 +5733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Show Jumping | 93178 | [93178-show-jumping.json](./93178-show-jumping.json) |
 | Show Me How To Live | 303064 | [303064-show-me-how-to-live.json](./303064-show-me-how-to-live.json) |
 | Show Me the Way | 113517 | [113517-show-me-the-way.json](./113517-show-me-the-way.json) |
+| Show Yourself | 350372 | [350372-show-yourself.json](./350372-show-yourself.json) |
 | Showa American Story | 186613 | [186613-showa-american-story.json](./186613-showa-american-story.json) |
 | Showa Candy Shop 2 | 90380 | [90380-showa-candy-shop-2.json](./90380-showa-candy-shop-2.json) |
 | Showbiz Tycoon | 189069 | [189069-showbiz-tycoon.json](./189069-showbiz-tycoon.json) |
