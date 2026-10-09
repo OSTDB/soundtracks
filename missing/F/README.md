@@ -2812,6 +2812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Figurality | 269020 | [269020-figurality.json](./269020-figurality.json) |
 | Figuras y Figuraciones | 284569 | [284569-figuras-y-figuraciones.json](./284569-figuras-y-figuraciones.json) |
 | Figure Fantasy | 182491 | [182491-figure-fantasy.json](./182491-figure-fantasy.json) |
+| Figure It Out: The Tantrum Simulator | 376234 | [376234-figure-it-out-the-tantrum-simulator.json](./376234-figure-it-out-the-tantrum-simulator.json) |
 | Figure of Eight | 402927 | [402927-figure-of-eight.json](./402927-figure-of-eight.json) |
 | Figure Shop Simulator | 343263 | [343263-figure-shop-simulator.json](./343263-figure-shop-simulator.json) |
 | Figure Simulator War | 122828 | [122828-figure-simulator-war.json](./122828-figure-simulator-war.json) |
@@ -3229,6 +3230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find It! | 366431 | [366431-find-it.json](./366431-find-it.json) |
 | Find it! Festival in the Hotel | 311629 | [311629-find-it-festival-in-the-hotel.json](./311629-find-it-festival-in-the-hotel.json) |
 | Find it! Mr. Pict of the Emergency Exit | 222229 | [222229-find-it-mr-pict-of-the-emergency-exit.json](./222229-find-it-mr-pict-of-the-emergency-exit.json) |
+| Find It! World Heritage Adventure | 376235 | [376235-find-it-world-heritage-adventure.json](./376235-find-it-world-heritage-adventure.json) |
 | Find Kittens 10: Valentines Day | 389710 | [389710-find-kittens-10-valentines-day.json](./389710-find-kittens-10-valentines-day.json) |
 | Find Kittens 4: Aetherpunk | 358948 | [358948-find-kittens-4-aetherpunk.json](./358948-find-kittens-4-aetherpunk.json) |
 | Find Kittens 7: Cookie Town | 379970 | [379970-find-kittens-7-cookie-town.json](./379970-find-kittens-7-cookie-town.json) |
