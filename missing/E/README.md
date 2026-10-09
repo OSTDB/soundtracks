@@ -3289,6 +3289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Together | 151068 | [151068-escape-together.json](./151068-escape-together.json) |
 | Escape Together | 41898 | [41898-escape-together.json](./41898-escape-together.json) |
 | Escape Trick: Convenience Store | 85121 | [85121-escape-trick-convenience-store.json](./85121-escape-trick-convenience-store.json) |
+| Escape Velocity | 334070 | [334070-escape-velocity.json](./334070-escape-velocity.json) |
 | Escape Velocity | 377579 | [377579-escape-velocity.json](./377579-escape-velocity.json) |
 | Escape Velocity Nova | 50144 | [50144-escape-velocity-nova.json](./50144-escape-velocity-nova.json) |
 | Escape Void | 96245 | [96245-escape-void.json](./96245-escape-void.json) |
