@@ -2056,6 +2056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SCP-087 | 241908 | [241908-scp-087.json](./241908-scp-087.json) |
 | SCP-087 | 336366 | [336366-scp-087.json](./336366-scp-087.json) |
 | SCP-087 | 65288 | [65288-scp-087.json](./65288-scp-087.json) |
+| SCP-087 The Stairwell Horror VR | 362174 | [362174-scp-087-the-stairwell-horror-vr.json](./362174-scp-087-the-stairwell-horror-vr.json) |
 | SCP-087-B | 20204 | [20204-scp-087-b.json](./20204-scp-087-b.json) |
 | SCP-087-B | 242044 | [242044-scp-087-b.json](./242044-scp-087-b.json) |
 | SCP-087-B Extended Edition | 242027 | [242027-scp-087-b-extended-edition.json](./242027-scp-087-b-extended-edition.json) |
@@ -3885,6 +3886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seybul Tech | 264634 | [264634-seybul-tech.json](./264634-seybul-tech.json) |
 | Seymour - Take One! | 142435 | [142435-seymour-take-one.json](./142435-seymour-take-one.json) |
 | Seymour Goes to Hollywood | 18572 | [18572-seymour-goes-to-hollywood.json](./18572-seymour-goes-to-hollywood.json) |
+| Sf3ra | 362193 | [362193-sf3ra.json](./362193-sf3ra.json) |
 | Sfare: Relax your mind | 184130 | [184130-sfare-relax-your-mind.json](./184130-sfare-relax-your-mind.json) |
 | SFCave | 87233 | [87233-sfcave.json](./87233-sfcave.json) |
 | SFD | 105676 | [105676-sfd.json](./105676-sfd.json) |
@@ -6384,6 +6386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silver Blade of Gods' End | 301602 | [301602-silver-blade-of-gods-end.json](./301602-silver-blade-of-gods-end.json) |
 | Silver Blue | 152734 | [152734-silver-blue.json](./152734-silver-blue.json) |
 | Silver Box Classics | 241957 | [241957-silver-box-classics.json](./241957-silver-box-classics.json) |
+| Silver Bullet | 362211 | [362211-silver-bullet.json](./362211-silver-bullet.json) |
 | Silver Bullet: Prometheus | 33437 | [33437-silver-bullet-prometheus.json](./33437-silver-bullet-prometheus.json) |
 | Silver Cats | 150495 | [150495-silver-cats.json](./150495-silver-cats.json) |
 | Silver Chains | 109550 | [109550-silver-chains.json](./109550-silver-chains.json) |
@@ -13741,6 +13744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spy Guy Indonesia Deluxe | 347334 | [347334-spy-guy-indonesia-deluxe.json](./347334-spy-guy-indonesia-deluxe.json) |
 | Spy Guy Memory | 300837 | [300837-spy-guy-memory.json](./300837-spy-guy-memory.json) |
 | Spy Guy Memory Abstraction Bundle | 400204 | [400204-spy-guy-memory-abstraction-bundle.json](./400204-spy-guy-memory-abstraction-bundle.json) |
+| Spy Guy Memory: Fantasy Edition | 362219 | [362219-spy-guy-memory-fantasy-edition.json](./362219-spy-guy-memory-fantasy-edition.json) |
 | Spy Guy Memory: Indonesia | 364102 | [364102-spy-guy-memory-indonesia.json](./364102-spy-guy-memory-indonesia.json) |
 | Spy Guy Memory: Vacation Edition | 404286 | [404286-spy-guy-memory-vacation-edition.json](./404286-spy-guy-memory-vacation-edition.json) |
 | Spy Guy The Circus Mission Edition | 364093 | [364093-spy-guy-the-circus-mission-edition.json](./364093-spy-guy-the-circus-mission-edition.json) |
