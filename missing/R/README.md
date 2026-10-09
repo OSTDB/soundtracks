@@ -5994,6 +5994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Planet | 91355 | [91355-rogue-planet.json](./91355-rogue-planet.json) |
 | Rogue Planet 1 | 233583 | [233583-rogue-planet-1.json](./233583-rogue-planet-1.json) |
 | Rogue Point | 322111 | [322111-rogue-point.json](./322111-rogue-point.json) |
+| Rogue Pong | 366105 | [366105-rogue-pong.json](./366105-rogue-pong.json) |
 | Rogue Port - Red Nightmare | 32758 | [32758-rogue-port-red-nightmare.json](./32758-rogue-port-red-nightmare.json) |
 | Rogue Princess | 211750 | [211750-rogue-princess.json](./211750-rogue-princess.json) |
 | Rogue Prison | 19179 | [19179-rogue-prison.json](./19179-rogue-prison.json) |
