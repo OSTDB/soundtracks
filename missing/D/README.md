@@ -638,6 +638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Danger Street | 304126 | [304126-danger-street.json](./304126-danger-street.json) |
 | Danger Wall! | 52843 | [52843-danger-wall.json](./52843-danger-wall.json) |
 | Danger World | 121616 | [121616-danger-world.json](./121616-danger-world.json) |
+| Danger World | 345965 | [345965-danger-world.json](./345965-danger-world.json) |
 | Danger Zone 2 | 104231 | [104231-danger-zone-2.json](./104231-danger-zone-2.json) |
 | Danger Zone Friends | 135044 | [135044-danger-zone-friends.json](./135044-danger-zone-friends.json) |
 | Danger, Bob-omb! Danger!: Handle with Care | 322377 | [322377-danger-bob-omb-danger-handle-with-care.json](./322377-danger-bob-omb-danger-handle-with-care.json) |
@@ -1540,6 +1541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Date Warp | 17400 | [17400-date-warp.json](./17400-date-warp.json) |
 | Date With a Girl: Mahjong | 368904 | [368904-date-with-a-girl-mahjong.json](./368904-date-with-a-girl-mahjong.json) |
 | Date with Detective Wolf | 303276 | [303276-date-with-detective-wolf.json](./303276-date-with-detective-wolf.json) |
+| Date with Devils | 345988 | [345988-date-with-devils.json](./345988-date-with-devils.json) |
 | Date with Falco | 339267 | [339267-date-with-falco.json](./339267-date-with-falco.json) |
 | Date with Foxgirl | 250007 | [250007-date-with-foxgirl.json](./250007-date-with-foxgirl.json) |
 | Date With the Night | 280293 | [280293-date-with-the-night.json](./280293-date-with-the-night.json) |
@@ -5319,6 +5321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diggin It | 395797 | [395797-diggin-it.json](./395797-diggin-it.json) |
 | Digging & Farming & Parking: Simulator Bundle | 380697 | [380697-digging-and-farming-and-parking-simulator-bundle.json](./380697-digging-and-farming-and-parking-simulator-bundle.json) |
 | Digging a Hole 2025 | 335955 | [335955-digging-a-hole-2025.json](./335955-digging-a-hole-2025.json) |
+| Digging a Hole: Gold Fever | 345989 | [345989-digging-a-hole-gold-fever.json](./345989-digging-a-hole-gold-fever.json) |
 | Digging A Hole: Journey to the Core | 351095 | [351095-digging-a-hole-journey-to-the-core.json](./351095-digging-a-hole-journey-to-the-core.json) |
 | Digging a Hole... with a Spoon... Escape from Alcatraz | 383483 | [383483-digging-a-hole-with-a-spoon-escape-from-alcatraz.json](./383483-digging-a-hole-with-a-spoon-escape-from-alcatraz.json) |
 | Digging Day | 122920 | [122920-digging-day.json](./122920-digging-day.json) |
@@ -5336,6 +5339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digi Fighters | 392428 | [392428-digi-fighters.json](./392428-digi-fighters.json) |
 | Digi Pool | 70341 | [70341-digi-pool.json](./70341-digi-pool.json) |
 | Digi-Dodgy | 336676 | [336676-digi-dodgy.json](./336676-digi-dodgy.json) |
+| Digi-Doll | 345964 | [345964-digi-doll.json](./345964-digi-doll.json) |
 | Digiclimb | 402281 | [402281-digiclimb.json](./402281-digiclimb.json) |
 | Digimon 20th Anniversary Digivice | 270626 | [270626-digimon-20th-anniversary-digivice.json](./270626-digimon-20th-anniversary-digivice.json) |
 | Digimon All-Star Rumble | 9286 | [9286-digimon-all-star-rumble.json](./9286-digimon-all-star-rumble.json) |
@@ -8829,6 +8833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Nest 2 | 193839 | [193839-dragon-nest-2.json](./193839-dragon-nest-2.json) |
 | Dragon Nest Escape | 315645 | [315645-dragon-nest-escape.json](./315645-dragon-nest-escape.json) |
 | Dragon Nest M | 104643 | [104643-dragon-nest-m.json](./104643-dragon-nest-m.json) |
+| Dragon Nest: Rebirth of Legend | 345998 | [345998-dragon-nest-rebirth-of-legend.json](./345998-dragon-nest-rebirth-of-legend.json) |
 | Dragon Oath | 59945 | [59945-dragon-oath.json](./59945-dragon-oath.json) |
 | Dragon of Calon Valley | 323737 | [323737-dragon-of-calon-valley.json](./323737-dragon-of-calon-valley.json) |
 | Dragon of Illusion | 407283 | [407283-dragon-of-illusion.json](./407283-dragon-of-illusion.json) |
