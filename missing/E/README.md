@@ -4557,6 +4557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exploding Babies | 120165 | [120165-exploding-babies.json](./120165-exploding-babies.json) |
 | Exploding Fist | 48584 | [48584-exploding-fist.json](./48584-exploding-fist.json) |
 | Exploding Fist + | 72382 | [72382-exploding-fist.json](./72382-exploding-fist.json) |
+| Exploding Judo Federation | 372240 | [372240-exploding-judo-federation.json](./372240-exploding-judo-federation.json) |
 | Exploding Kittens | 88938 | [88938-exploding-kittens.json](./88938-exploding-kittens.json) |
 | Exploding Kittens 2 | 336644 | [336644-exploding-kittens-2.json](./336644-exploding-kittens-2.json) |
 | Exploding Lips | 92861 | [92861-exploding-lips.json](./92861-exploding-lips.json) |
