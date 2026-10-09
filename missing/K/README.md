@@ -989,6 +989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kekcroc's Pizza Delivery | 233128 | [233128-kekcrocs-pizza-delivery.json](./233128-kekcrocs-pizza-delivery.json) |
 | Keke in the Caves of Peril | 230262 | [230262-keke-in-the-caves-of-peril.json](./230262-keke-in-the-caves-of-peril.json) |
 | Kekkon Marriage | 204397 | [204397-kekkon-marriage.json](./204397-kekkon-marriage.json) |
+| Kekkon Shugi Kokka | 334728 | [334728-kekkon-shugi-kokka.json](./334728-kekkon-shugi-kokka.json) |
 | Kelder | 311185 | [311185-kelder.json](./311185-kelder.json) |
 | Kelime Oyunu | 356692 | [356692-kelime-oyunu.json](./356692-kelime-oyunu.json) |
 | Kellogg's Marvel's Civil War VR | 322365 | [322365-kelloggs-marvels-civil-war-vr.json](./322365-kelloggs-marvels-civil-war-vr.json) |
