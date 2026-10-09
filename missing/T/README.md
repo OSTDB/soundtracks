@@ -458,6 +458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tails of the North | 367480 | [367480-tails-of-the-north.json](./367480-tails-of-the-north.json) |
 | Tails of Trainspot | 149947 | [149947-tails-of-trainspot.json](./149947-tails-of-trainspot.json) |
 | Tails of War | 279261 | [279261-tails-of-war.json](./279261-tails-of-war.json) |
+| Tails on Lost Lands | 334729 | [334729-tails-on-lost-lands.json](./334729-tails-on-lost-lands.json) |
 | Tails to the Rescue | 330308 | [330308-tails-to-the-rescue.json](./330308-tails-to-the-rescue.json) |
 | Tails: The Game | 330706 | [330706-tails-the-game.json](./330706-tails-the-game.json) |
 | Tails' Adventures 2 | 336355 | [336355-tails-adventures-2.json](./336355-tails-adventures-2.json) |
@@ -12105,6 +12106,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TheZone | 146225 | [146225-thezone.json](./146225-thezone.json) |
 | THICC: The Himalayan Ice Climbing Challenge | 190021 | [190021-thicc-the-himalayan-ice-climbing-challenge.json](./190021-thicc-the-himalayan-ice-climbing-challenge.json) |
 | Thick Air | 31392 | [31392-thick-air.json](./31392-thick-air.json) |
+| Thick Light | 334794 | [334794-thick-light.json](./334794-thick-light.json) |
+| Thick Light 2 | 334814 | [334814-thick-light-2.json](./334814-thick-light-2.json) |
 | Thick Light 3 | 334837 | [334837-thick-light-3.json](./334837-thick-light-3.json) |
 | Thickety Creek | 229049 | [229049-thickety-creek.json](./229049-thickety-creek.json) |
 | Thief | 362857 | [362857-thief.json](./362857-thief.json) |
@@ -18989,6 +18992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tropico 6: El Prez Edition | 116131 | [116131-tropico-6-el-prez-edition.json](./116131-tropico-6-el-prez-edition.json) |
 | Tropico 6: Festival | 165412 | [165412-tropico-6-festival.json](./165412-tropico-6-festival.json) |
 | Tropico 6: Lobbyistico | 155171 | [155171-tropico-6-lobbyistico.json](./155171-tropico-6-lobbyistico.json) |
+| Tropico 6: Return to Nature | 334642 | [334642-tropico-6-return-to-nature.json](./334642-tropico-6-return-to-nature.json) |
 | Tropico 6: Spitter | 155172 | [155172-tropico-6-spitter.json](./155172-tropico-6-spitter.json) |
 | Tropico 6: Tropican Shores | 305525 | [305525-tropico-6-tropican-shores.json](./305525-tropico-6-tropican-shores.json) |
 | Tropico Jong: Butterfly Expedition | 416177 | [416177-tropico-jong-butterfly-expedition.json](./416177-tropico-jong-butterfly-expedition.json) |
