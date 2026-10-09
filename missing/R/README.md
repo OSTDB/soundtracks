@@ -2051,6 +2051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ReBoot | 31091 | [31091-reboot.json](./31091-reboot.json) |
 | ReBoot | 51953 | [51953-reboot.json](./51953-reboot.json) |
 | Reboot Heroes | 292020 | [292020-reboot-heroes.json](./292020-reboot-heroes.json) |
+| Reboot My Heart | 368900 | [368900-reboot-my-heart.json](./368900-reboot-my-heart.json) |
 | Reborn | 301985 | [301985-reborn.json](./301985-reborn.json) |
 | Reborn a Zombie! | 246004 | [246004-reborn-a-zombie.json](./246004-reborn-a-zombie.json) |
 | Reborn in Sin | 157000 | [157000-reborn-in-sin.json](./157000-reborn-in-sin.json) |
@@ -4729,6 +4730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise of the Pawn | 321132 | [321132-rise-of-the-pawn.json](./321132-rise-of-the-pawn.json) |
 | Rise of the Phoenix | 42650 | [42650-rise-of-the-phoenix.json](./42650-rise-of-the-phoenix.json) |
 | Rise of the Pirates | 114802 | [114802-rise-of-the-pirates.json](./114802-rise-of-the-pirates.json) |
+| Rise of the Robots | 368887 | [368887-rise-of-the-robots.json](./368887-rise-of-the-robots.json) |
 | Rise of the Robots X | 191127 | [191127-rise-of-the-robots-x.json](./191127-rise-of-the-robots-x.json) |
 | Rise of the Ronin: Digital Deluxe Edition | 284585 | [284585-rise-of-the-ronin-digital-deluxe-edition.json](./284585-rise-of-the-ronin-digital-deluxe-edition.json) |
 | Rise of the Spellbaker | 415293 | [415293-rise-of-the-spellbaker.json](./415293-rise-of-the-spellbaker.json) |
