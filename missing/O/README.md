@@ -45,10 +45,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | O2Jam | 200163 | [200163-o2jam.json](./200163-o2jam.json) |
 | O2Jam | 72126 | [72126-o2jam.json](./72126-o2jam.json) |
 | O2Jam Analog | 337148 | [337148-o2jam-analog.json](./337148-o2jam-analog.json) |
+| O2Jam Battle | 337145 | [337145-o2jam-battle.json](./337145-o2jam-battle.json) |
 | O2Jam Online | 226129 | [226129-o2jam-online.json](./226129-o2jam-online.json) |
 | O2Jam Pop | 337155 | [337155-o2jam-pop.json](./337155-o2jam-pop.json) |
+| O2Jam Remix | 337144 | [337144-o2jam-remix.json](./337144-o2jam-remix.json) |
 | O2Jam S | 337149 | [337149-o2jam-s.json](./337149-o2jam-s.json) |
 | O2Jam x DancingParty | 107799 | [107799-o2jam-x-dancingparty.json](./107799-o2jam-x-dancingparty.json) |
+| O2Jam: Cats | 337147 | [337147-o2jam-cats.json](./337147-o2jam-cats.json) |
+| O2Jam: Fruitland | 337146 | [337146-o2jam-fruitland.json](./337146-o2jam-fruitland.json) |
 | O2Jam: The Beginning | 390546 | [390546-o2jam-the-beginning.json](./390546-o2jam-the-beginning.json) |
 | O3: Hollow Descent | 308927 | [308927-o3-hollow-descent.json](./308927-o3-hollow-descent.json) |
 | O3DX | 26876 | [26876-o3dx.json](./26876-o3dx.json) |
