@@ -7611,6 +7611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Portal: Ambition | 322167 | [322167-portal-ambition.json](./322167-portal-ambition.json) |
 | Portal: Bagley | 259145 | [259145-portal-bagley.json](./259145-portal-bagley.json) |
 | Portal: Companion Collection | 191406 | [191406-portal-companion-collection.json](./191406-portal-companion-collection.json) |
+| Portal: Divinity | 358821 | [358821-portal-divinity.json](./358821-portal-divinity.json) |
 | Portal: Forever Testing | 208407 | [208407-portal-forever-testing.json](./208407-portal-forever-testing.json) |
 | Portal: Google Translate Edition | 313478 | [313478-portal-google-translate-edition.json](./313478-portal-google-translate-edition.json) |
 | Portal: Lost in Aperture | 322171 | [322171-portal-lost-in-aperture.json](./322171-portal-lost-in-aperture.json) |
