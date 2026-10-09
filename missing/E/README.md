@@ -1822,6 +1822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emoji TD | 368671 | [368671-emoji-td.json](./368671-emoji-td.json) |
 | Emoji Wars | 397649 | [397649-emoji-wars.json](./397649-emoji-wars.json) |
 | Emoji-Connect | 291989 | [291989-emoji-connect.json](./291989-emoji-connect.json) |
+| Emolga and the Mail Trials | 340959 | [340959-emolga-and-the-mail-trials.json](./340959-emolga-and-the-mail-trials.json) |
 | Emono | 222981 | [222981-emono.json](./222981-emono.json) |
 | Emorrior | 197876 | [197876-emorrior.json](./197876-emorrior.json) |
 | Emory Cole & The Secret at Greymar Point | 415243 | [415243-emory-cole-and-the-secret-at-greymar-point.json](./415243-emory-cole-and-the-secret-at-greymar-point.json) |
@@ -1928,6 +1929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Empty Gauge | 391131 | [391131-empty-gauge.json](./391131-empty-gauge.json) |
 | Empty Heaven: Liminal Dream | 400318 | [400318-empty-heaven-liminal-dream.json](./400318-empty-heaven-liminal-dream.json) |
 | Empty Horizons | 32247 | [32247-empty-horizons.json](./32247-empty-horizons.json) |
+| Empty Human Beans | 340898 | [340898-empty-human-beans.json](./340898-empty-human-beans.json) |
 | Empty Mind: Blank Fate | 307578 | [307578-empty-mind-blank-fate.json](./307578-empty-mind-blank-fate.json) |
 | Empty Shell 2 | 345148 | [345148-empty-shell-2.json](./345148-empty-shell-2.json) |
 | Empty Shell: The Loop | 302365 | [302365-empty-shell-the-loop.json](./302365-empty-shell-the-loop.json) |
