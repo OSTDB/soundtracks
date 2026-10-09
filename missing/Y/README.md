@@ -19,6 +19,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ya Gotta, Piñata! | 58513 | [58513-ya-gotta-pinata.json](./58513-ya-gotta-pinata.json) |
 | Yaad | 289879 | [289879-yaad.json](./289879-yaad.json) |
 | Yabai Girls: Fairy Love | 395213 | [395213-yabai-girls-fairy-love.json](./395213-yabai-girls-fairy-love.json) |
+| Yabai Girls: Graceful Girlfriend | 345983 | [345983-yabai-girls-graceful-girlfriend.json](./345983-yabai-girls-graceful-girlfriend.json) |
 | Yabai Girls: Heavenly Homemaker | 385065 | [385065-yabai-girls-heavenly-homemaker.json](./385065-yabai-girls-heavenly-homemaker.json) |
 | Yabai Girls: Hot Hiker | 365549 | [365549-yabai-girls-hot-hiker.json](./365549-yabai-girls-hot-hiker.json) |
 | Yabai Girls: Valentine Babe | 390508 | [390508-yabai-girls-valentine-babe.json](./390508-yabai-girls-valentine-babe.json) |
