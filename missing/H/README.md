@@ -2972,6 +2972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Girls: Crazy Cowgirl | 317284 | [317284-hentai-girls-crazy-cowgirl.json](./317284-hentai-girls-crazy-cowgirl.json) |
 | Hentai Girls: Deluxe Edition | 254644 | [254644-hentai-girls-deluxe-edition.json](./254644-hentai-girls-deluxe-edition.json) |
 | Hentai Girls: Director's Cut | 284501 | [284501-hentai-girls-directors-cut.json](./284501-hentai-girls-directors-cut.json) |
+| Hentai Girls: DJ Romance | 347201 | [347201-hentai-girls-dj-romance.json](./347201-hentai-girls-dj-romance.json) |
 | Hentai Girls: Extended Edition | 261348 | [261348-hentai-girls-extended-edition.json](./261348-hentai-girls-extended-edition.json) |
 | Hentai Girls: Fresh Firefighter | 300863 | [300863-hentai-girls-fresh-firefighter.json](./300863-hentai-girls-fresh-firefighter.json) |
 | Hentai Girls: Happy Edition | 290427 | [290427-hentai-girls-happy-edition.json](./290427-hentai-girls-happy-edition.json) |
@@ -4130,6 +4131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Map | 187369 | [187369-hidden-map.json](./187369-hidden-map.json) |
 | Hidden Memories | 345564 | [345564-hidden-memories.json](./345564-hidden-memories.json) |
 | Hidden Memories of a Bright Summer | 100608 | [100608-hidden-memories-of-a-bright-summer.json](./100608-hidden-memories-of-a-bright-summer.json) |
+| Hidden Memories of the Gardens Between | 347107 | [347107-hidden-memories-of-the-gardens-between.json](./347107-hidden-memories-of-the-gardens-between.json) |
 | Hidden Memory Nature | 150780 | [150780-hidden-memory-nature.json](./150780-hidden-memory-nature.json) |
 | Hidden Memory: Neko's Life | 171447 | [171447-hidden-memory-nekos-life.json](./171447-hidden-memory-nekos-life.json) |
 | Hidden Motives: The Diamond Rush - Collector's Edition | 186720 | [186720-hidden-motives-the-diamond-rush-collectors-edition.json](./186720-hidden-motives-the-diamond-rush-collectors-edition.json) |
@@ -6431,6 +6433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Houma Hunter Lime: Special Collection Vol.2 | 166538 | [166538-houma-hunter-lime-special-collection-vol-2.json](./166538-houma-hunter-lime-special-collection-vol-2.json) |
 | Hound | 30316 | [30316-hound.json](./30316-hound.json) |
 | Hound: Automaton | 320145 | [320145-hound-automaton.json](./320145-hound-automaton.json) |
+| Hounded | 347083 | [347083-hounded.json](./347083-hounded.json) |
 | Hour Night | 178083 | [178083-hour-night.json](./178083-hour-night.json) |
 | Hour of the Snake | 117042 | [117042-hour-of-the-snake.json](./117042-hour-of-the-snake.json) |
 | Hour of Victory | 7011 | [7011-hour-of-victory.json](./7011-hour-of-victory.json) |
