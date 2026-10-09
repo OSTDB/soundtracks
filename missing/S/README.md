@@ -6183,6 +6183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Hill 5 | 282697 | [282697-silent-hill-5.json](./282697-silent-hill-5.json) |
 | Silent Hill 64 | 310573 | [310573-silent-hill-64.json](./310573-silent-hill-64.json) |
 | Silent Hill Complete Set | 144966 | [144966-silent-hill-complete-set.json](./144966-silent-hill-complete-set.json) |
+| Silent Hill Demake | 382517 | [382517-silent-hill-demake.json](./382517-silent-hill-demake.json) |
 | Silent Hill DS | 241445 | [241445-silent-hill-ds.json](./241445-silent-hill-ds.json) |
 | Silent Hill f | 222343 | [222343-silent-hill-f.json](./222343-silent-hill-f.json) |
 | Silent Hill f: Day One Edition | 370229 | [370229-silent-hill-f-day-one-edition.json](./370229-silent-hill-f-day-one-edition.json) |
@@ -6992,6 +6993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sixty Jumps to Ceres | 258479 | [258479-sixty-jumps-to-ceres.json](./258479-sixty-jumps-to-ceres.json) |
 | Sixty Second Shooter Prime | 20056 | [20056-sixty-second-shooter-prime.json](./20056-sixty-second-shooter-prime.json) |
 | Sixty Words by Powgi | 206719 | [206719-sixty-words-by-powgi.json](./206719-sixty-words-by-powgi.json) |
+| Siyah: Initiation | 382565 | [382565-siyah-initiation.json](./382565-siyah-initiation.json) |
 | Size Does Matter | 9716 | [9716-size-does-matter.json](./9716-size-does-matter.json) |
 | Size Experiments at Morinomma Tech | 275801 | [275801-size-experiments-at-morinomma-tech.json](./275801-size-experiments-at-morinomma-tech.json) |
 | Size It | 186684 | [186684-size-it.json](./186684-size-it.json) |
@@ -7131,6 +7133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skelter+Heaven | 229003 | [229003-skelter-heaven.json](./229003-skelter-heaven.json) |
 | Skepixel | 75154 | [75154-skepixel.json](./75154-skepixel.json) |
 | Sker Ritual: Bloody Night | 279012 | [279012-sker-ritual-bloody-night.json](./279012-sker-ritual-bloody-night.json) |
+| Sker Ritual: Dead by Nightfall | 382561 | [382561-sker-ritual-dead-by-nightfall.json](./382561-sker-ritual-dead-by-nightfall.json) |
 | Sker Ritual: Draigs Terror | 332040 | [332040-sker-ritual-draigs-terror.json](./332040-sker-ritual-draigs-terror.json) |
 | Sker Ritual: Goon Brenn | 235466 | [235466-sker-ritual-goon-brenn.json](./235466-sker-ritual-goon-brenn.json) |
 | Sker Ritual: Invasion of the Brain Eaters | 332041 | [332041-sker-ritual-invasion-of-the-brain-eaters.json](./332041-sker-ritual-invasion-of-the-brain-eaters.json) |
@@ -11374,6 +11377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Cactus Canyon | 292070 | [292070-space-cactus-canyon.json](./292070-space-cactus-canyon.json) |
 | Space Cadet | 76997 | [76997-space-cadet.json](./76997-space-cadet.json) |
 | Space Cake | 61114 | [61114-space-cake.json](./61114-space-cake.json) |
+| Space Calibur | 382562 | [382562-space-calibur.json](./382562-space-calibur.json) |
 | Space Camp | 208867 | [208867-space-camp.json](./208867-space-camp.json) |
 | Space Camp | 68734 | [68734-space-camp.json](./68734-space-camp.json) |
 | Space Candy | 125398 | [125398-space-candy.json](./125398-space-candy.json) |
@@ -18059,6 +18063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Animal Royale: Season 0.5 | 204698 | [204698-super-animal-royale-season-0-5.json](./204698-super-animal-royale-season-0-5.json) |
 | Super Animal Royale: Starter Pack Bundle - Seasons 0-4 | 375198 | [375198-super-animal-royale-starter-pack-bundle-seasons-0-4.json](./375198-super-animal-royale-starter-pack-bundle-seasons-0-4.json) |
 | Super Animal Royale: Starter Pack Bundle - Seasons 5-9 | 375199 | [375199-super-animal-royale-starter-pack-bundle-seasons-5-9.json](./375199-super-animal-royale-starter-pack-bundle-seasons-5-9.json) |
+| Super Animal Soccer | 382536 | [382536-super-animal-soccer.json](./382536-super-animal-soccer.json) |
 | Super Anime Waifu BBQ Simulator | 216235 | [216235-super-anime-waifu-bbq-simulator.json](./216235-super-anime-waifu-bbq-simulator.json) |
 | Super Ant Art Tycoon | 391603 | [391603-super-ant-art-tycoon.json](./391603-super-ant-art-tycoon.json) |
 | Super Antonio | 313180 | [313180-super-antonio.json](./313180-super-antonio.json) |
@@ -19923,7 +19928,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SuperLandlady | 237657 | [237657-superlandlady.json](./237657-superlandlady.json) |
 | Superleague Formula 2009: The Game | 137402 | [137402-superleague-formula-2009-the-game.json](./137402-superleague-formula-2009-the-game.json) |
 | Superleague Soccer | 13084 | [13084-superleague-soccer.json](./13084-superleague-soccer.json) |
+| SuperLite 1500 Series Angolmois '99 | 382540 | [382540-superlite-1500-series-angolmois-99.json](./382540-superlite-1500-series-angolmois-99.json) |
+| SuperLite 1500 Series Hanafuda II | 382559 | [382559-superlite-1500-series-hanafuda-ii.json](./382559-superlite-1500-series-hanafuda-ii.json) |
+| SuperLite 1500 Series Quiz Master Blue | 382542 | [382542-superlite-1500-series-quiz-master-blue.json](./382542-superlite-1500-series-quiz-master-blue.json) |
+| SuperLite 1500 Series Quiz Master Yellow | 382558 | [382558-superlite-1500-series-quiz-master-yellow.json](./382558-superlite-1500-series-quiz-master-yellow.json) |
 | SuperLite 1500 series: Bomb Boat | 54742 | [54742-superlite-1500-series-bomb-boat.json](./54742-superlite-1500-series-bomb-boat.json) |
+| SuperLite 1500 Series: Crossword | 382566 | [382566-superlite-1500-series-crossword.json](./382566-superlite-1500-series-crossword.json) |
+| SuperLite 1500 Series: Crossword 2 | 382567 | [382567-superlite-1500-series-crossword-2.json](./382567-superlite-1500-series-crossword-2.json) |
+| SuperLite 1500 Series: Crossword 3 | 382568 | [382568-superlite-1500-series-crossword-3.json](./382568-superlite-1500-series-crossword-3.json) |
 | SuperLite 1500 Series: Fishing Club - Boat no Tsuri-hen | 382977 | [382977-superlite-1500-series-fishing-club-boat-no-tsuri-hen.json](./382977-superlite-1500-series-fishing-club-boat-no-tsuri-hen.json) |
 | SuperLite 1500 Series: Fishing Club - Bouhatei no Tsuri-hen | 382971 | [382971-superlite-1500-series-fishing-club-bouhatei-no-tsuri-hen.json](./382971-superlite-1500-series-fishing-club-bouhatei-no-tsuri-hen.json) |
 | SuperLite 1500 Series: Fishing Club - Hama no Tsuri-hen | 382974 | [382974-superlite-1500-series-fishing-club-hama-no-tsuri-hen.json](./382974-superlite-1500-series-fishing-club-hama-no-tsuri-hen.json) |
