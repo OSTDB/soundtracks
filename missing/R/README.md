@@ -1995,6 +1995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rebel Engine | 374272 | [374272-rebel-engine.json](./374272-rebel-engine.json) |
 | Rebel Galaxy | 11719 | [11719-rebel-galaxy.json](./11719-rebel-galaxy.json) |
 | Rebel Inc. | 115206 | [115206-rebel-inc.json](./115206-rebel-inc.json) |
+| Rebel Infernal Path | 380793 | [380793-rebel-infernal-path.json](./380793-rebel-infernal-path.json) |
 | Rebel Kitsune | 177353 | [177353-rebel-kitsune.json](./177353-rebel-kitsune.json) |
 | Rebel Moon | 262644 | [262644-rebel-moon.json](./262644-rebel-moon.json) |
 | Rebel Moon Rising | 57628 | [57628-rebel-moon-rising.json](./57628-rebel-moon-rising.json) |
@@ -4624,6 +4625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise | 32218 | [32218-rise.json](./32218-rise.json) |
 | Rise | 338219 | [338219-rise.json](./338219-rise.json) |
 | Rise & Destroy | 59484 | [59484-rise-and-destroy.json](./59484-rise-and-destroy.json) |
+| Rise & Dine | 380767 | [380767-rise-and-dine.json](./380767-rise-and-dine.json) |
 | Rise & Ironfall: VD-dev Legacy Pack | 351231 | [351231-rise-and-ironfall-vd-dev-legacy-pack.json](./351231-rise-and-ironfall-vd-dev-legacy-pack.json) |
 | Rise & Muse | 298142 | [298142-rise-and-muse.json](./298142-rise-and-muse.json) |
 | Rise & Reign | 277277 | [277277-rise-and-reign.json](./277277-rise-and-reign.json) |
