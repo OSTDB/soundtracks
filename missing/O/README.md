@@ -541,6 +541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Office Escape | 184937 | [184937-office-escape.json](./184937-office-escape.json) |
 | Office Fever | 223993 | [223993-office-fever.json](./223993-office-fever.json) |
 | Office Fight | 270963 | [270963-office-fight.json](./270963-office-fight.json) |
+| Office Hero | 382516 | [382516-office-hero.json](./382516-office-hero.json) |
 | Office Hours | 403076 | [403076-office-hours.json](./403076-office-hours.json) |
 | Office Hurdles | 268019 | [268019-office-hurdles.json](./268019-office-hurdles.json) |
 | Office Hustle | 184954 | [184954-office-hustle.json](./184954-office-hustle.json) |
