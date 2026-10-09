@@ -12460,6 +12460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ThruSpace | 84952 | [84952-thruspace.json](./84952-thruspace.json) |
 | Thrust | 12967 | [12967-thrust.json](./12967-thrust.json) |
 | Thrust & Shoot: Flight School | 51554 | [51554-thrust-and-shoot-flight-school.json](./51554-thrust-and-shoot-flight-school.json) |
+| Thrust Fall | 351577 | [351577-thrust-fall.json](./351577-thrust-fall.json) |
 | Thrust Issues | 382329 | [382329-thrust-issues.json](./382329-thrust-issues.json) |
 | Thrust Legend | 158151 | [158151-thrust-legend.json](./158151-thrust-legend.json) |
 | Thrust Master Deluxe | 258220 | [258220-thrust-master-deluxe.json](./258220-thrust-master-deluxe.json) |
@@ -16797,6 +16798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tradewinds Caravan | 59455 | [59455-tradewinds-caravan.json](./59455-tradewinds-caravan.json) |
 | Tradewinds Legends | 59454 | [59454-tradewinds-legends.json](./59454-tradewinds-legends.json) |
 | Tradewinds Odyssey | 59456 | [59456-tradewinds-odyssey.json](./59456-tradewinds-odyssey.json) |
+| Tradie Tapper | 351569 | [351569-tradie-tapper.json](./351569-tradie-tapper.json) |
 | Trading Card Inspector | 360751 | [360751-trading-card-inspector.json](./360751-trading-card-inspector.json) |
 | Trading Simulator | 274563 | [274563-trading-simulator.json](./274563-trading-simulator.json) |
 | Trading Simulator | 290421 | [290421-trading-simulator.json](./290421-trading-simulator.json) |
