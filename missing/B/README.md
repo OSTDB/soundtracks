@@ -350,7 +350,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backrooms Untold | 409746 | [409746-backrooms-untold.json](./409746-backrooms-untold.json) |
 | Backrooms VS | 250942 | [250942-backrooms-vs.json](./250942-backrooms-vs.json) |
 | Backrooms: Between Lost Dimension | 304101 | [304101-backrooms-between-lost-dimension.json](./304101-backrooms-between-lost-dimension.json) |
-| Backrooms: Blackhole | 404886 | [404886-backrooms-blackhole.json](./404886-backrooms-blackhole.json) |
 | Backrooms: Code Yellow | 416594 | [416594-backrooms-code-yellow.json](./416594-backrooms-code-yellow.json) |
 | Backrooms: Duck Escape | 378180 | [378180-backrooms-duck-escape.json](./378180-backrooms-duck-escape.json) |
 | Backrooms: Escape Together | 220348 | [220348-backrooms-escape-together.json](./220348-backrooms-escape-together.json) |
@@ -557,6 +556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Piggies | 19902 | [19902-bad-piggies.json](./19902-bad-piggies.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -8040,6 +8040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bounce Tales 64 | 135264 | [135264-bounce-tales-64.json](./135264-bounce-tales-64.json) |
 | Bounce Time! | 233240 | [233240-bounce-time.json](./233240-bounce-time.json) |
 | Bounce Touch | 272443 | [272443-bounce-touch.json](./272443-bounce-touch.json) |
+| Bounce Up! | 373328 | [373328-bounce-up.json](./373328-bounce-up.json) |
 | Bounce your Bullets! | 213310 | [213310-bounce-your-bullets.json](./213310-bounce-your-bullets.json) |
 | Bounce Zone | 84241 | [84241-bounce-zone.json](./84241-bounce-zone.json) |
 | Bounce, Swing, Slide!: 3 in 1 Bundle | 347309 | [347309-bounce-swing-slide-3-in-1-bundle.json](./347309-bounce-swing-slide-3-in-1-bundle.json) |
@@ -8767,6 +8768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breaching Harkon | 382555 | [382555-breaching-harkon.json](./382555-breaching-harkon.json) |
 | Bread | 178027 | [178027-bread.json](./178027-bread.json) |
 | Bread & Fred | 204524 | [204524-bread-and-fred.json](./204524-bread-and-fred.json) |
+| Bread Adventure | 373334 | [373334-bread-adventure.json](./373334-bread-adventure.json) |
 | Bread Barbershop Differences | 219819 | [219819-bread-barbershop-differences.json](./219819-bread-barbershop-differences.json) |
 | Bread Bun World | 385261 | [385261-bread-bun-world.json](./385261-bread-bun-world.json) |
 | Bread Fish Clicker | 306637 | [306637-bread-fish-clicker.json](./306637-bread-fish-clicker.json) |
