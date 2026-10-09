@@ -783,9 +783,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NBA 2K19: The Prelude | 110326 | [110326-nba-2k19-the-prelude.json](./110326-nba-2k19-the-prelude.json) |
 | NBA 2K2 | 4029 | [4029-nba-2k2.json](./4029-nba-2k2.json) |
 | NBA 2K20 | 114285 | [114285-nba-2k20.json](./114285-nba-2k20.json) |
+| NBA 2K21: Arcade Edition | 356035 | [356035-nba-2k21-arcade-edition.json](./356035-nba-2k21-arcade-edition.json) |
 | NBA 2K21: Mamba Forever - Legendary Edition | 146184 | [146184-nba-2k21-mamba-forever-legendary-edition.json](./146184-nba-2k21-mamba-forever-legendary-edition.json) |
 | NBA 2K21: Mamba Forever Edition | 136398 | [136398-nba-2k21-mamba-forever-edition.json](./136398-nba-2k21-mamba-forever-edition.json) |
 | NBA 2K22 | 157446 | [157446-nba-2k22.json](./157446-nba-2k22.json) |
+| NBA 2K22: Arcade Edition | 356037 | [356037-nba-2k22-arcade-edition.json](./356037-nba-2k22-arcade-edition.json) |
 | NBA 2K22: Cross-Gen Digital Bundle | 158592 | [158592-nba-2k22-cross-gen-digital-bundle.json](./158592-nba-2k22-cross-gen-digital-bundle.json) |
 | NBA 2K22: NBA 75th Anniversary Edition | 158594 | [158594-nba-2k22-nba-75th-anniversary-edition.json](./158594-nba-2k22-nba-75th-anniversary-edition.json) |
 | NBA 2K22: WNBA 25th Anniversary Edition | 158595 | [158595-nba-2k22-wnba-25th-anniversary-edition.json](./158595-nba-2k22-wnba-25th-anniversary-edition.json) |
@@ -4339,6 +4341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Novivors | 301984 | [301984-novivors.json](./301984-novivors.json) |
 | Novopangea | 277671 | [277671-novopangea.json](./277671-novopangea.json) |
 | Novovu | 130879 | [130879-novovu.json](./130879-novovu.json) |
+| Novum Vexillum | 356058 | [356058-novum-vexillum.json](./356058-novum-vexillum.json) |
 | Novus | 243057 | [243057-novus.json](./243057-novus.json) |
 | Novus Conquest | 248881 | [248881-novus-conquest.json](./248881-novus-conquest.json) |
 | Novus Orbis | 253583 | [253583-novus-orbis.json](./253583-novus-orbis.json) |
