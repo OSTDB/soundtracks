@@ -2084,6 +2084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leo the Amazing Cat | 177422 | [177422-leo-the-amazing-cat.json](./177422-leo-the-amazing-cat.json) |
 | Leo the Lion | 124823 | [124823-leo-the-lion.json](./124823-leo-the-lion.json) |
 | Leo The Lost Kitten | 298807 | [298807-leo-the-lost-kitten.json](./298807-leo-the-lost-kitten.json) |
+| LEO: Low Earth Orbit | 351582 | [351582-leo-low-earth-orbit.json](./351582-leo-low-earth-orbit.json) |
 | Leo: The Square | 303626 | [303626-leo-the-square.json](./303626-leo-the-square.json) |
 | Leo's RC Simulator | 380543 | [380543-leos-rc-simulator.json](./380543-leos-rc-simulator.json) |
 | Leon's Identity | 136992 | [136992-leons-identity.json](./136992-leons-identity.json) |
@@ -5273,6 +5274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Spell: The Starlight Update | 254503 | [254503-love-spell-the-starlight-update.json](./254503-love-spell-the-starlight-update.json) |
 | Love Spell: Written in the Stars | 130172 | [130172-love-spell-written-in-the-stars.json](./130172-love-spell-written-in-the-stars.json) |
 | Love Spell: Written in the Stars - Aslan's Story | 222992 | [222992-love-spell-written-in-the-stars-aslans-story.json](./222992-love-spell-written-in-the-stars-aslans-story.json) |
+| Love Sphere | 351576 | [351576-love-sphere.json](./351576-love-sphere.json) |
 | Love Starts Again | 365879 | [365879-love-starts-again.json](./365879-love-starts-again.json) |
 | Love Stitch | 412297 | [412297-love-stitch.json](./412297-love-stitch.json) |
 | Love Stories: Sex and the Furry Titty | 165031 | [165031-love-stories-sex-and-the-furry-titty.json](./165031-love-stories-sex-and-the-furry-titty.json) |
