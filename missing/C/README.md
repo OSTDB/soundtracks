@@ -2331,6 +2331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Sokoban | 135868 | [135868-cat-sokoban.json](./135868-cat-sokoban.json) |
 | Cat Souls | 244218 | [244218-cat-souls.json](./244218-cat-souls.json) |
 | Cat Spa | 224080 | [224080-cat-spa.json](./224080-cat-spa.json) |
+| Cat Spotting Challenge! | 333518 | [333518-cat-spotting-challenge.json](./333518-cat-spotting-challenge.json) |
 | Cat Stories: New Year | 182223 | [182223-cat-stories-new-year.json](./182223-cat-stories-new-year.json) |
 | Cat Sudoku | 369682 | [369682-cat-sudoku.json](./369682-cat-sudoku.json) |
 | Cat Summoner: Block Puzzle | 357979 | [357979-cat-summoner-block-puzzle.json](./357979-cat-summoner-block-puzzle.json) |
@@ -2835,6 +2836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cavesweeper | 103816 | [103816-cavesweeper.json](./103816-cavesweeper.json) |
 | Caveworks | 383522 | [383522-caveworks.json](./383522-caveworks.json) |
 | CavEX | 293331 | [293331-cavex.json](./293331-cavex.json) |
+| Cavorite | 333523 | [333523-cavorite.json](./333523-cavorite.json) |
 | Cavrncrate | 318513 | [318513-cavrncrate.json](./318513-cavrncrate.json) |
 | Cavy Chronicles | 281984 | [281984-cavy-chronicles.json](./281984-cavy-chronicles.json) |
 | Cavyrn | 114898 | [114898-cavyrn.json](./114898-cavyrn.json) |
@@ -5850,6 +5852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cleaning Time VR | 264682 | [264682-cleaning-time-vr.json](./264682-cleaning-time-vr.json) |
 | Cleaning up the Puzzle Gallery | 412359 | [412359-cleaning-up-the-puzzle-gallery.json](./412359-cleaning-up-the-puzzle-gallery.json) |
 | Cleaning Up! | 360587 | [360587-cleaning-up.json](./360587-cleaning-up.json) |
+| CleanPlay | 333524 | [333524-cleanplay.json](./333524-cleanplay.json) |
 | CleanSheet 2 | 404382 | [404382-cleansheet-2.json](./404382-cleansheet-2.json) |
 | Cleansuit | 74460 | [74460-cleansuit.json](./74460-cleansuit.json) |
 | Cleanup Crew | 169823 | [169823-cleanup-crew.json](./169823-cleanup-crew.json) |
@@ -8743,6 +8746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmi-Cave 64 | 106414 | [106414-cosmi-cave-64.json](./106414-cosmi-cave-64.json) |
 | Cosmi: Forbidden Forest & Beyond | 333789 | [333789-cosmi-forbidden-forest-and-beyond.json](./333789-cosmi-forbidden-forest-and-beyond.json) |
 | CosmiBall 3D | 234124 | [234124-cosmiball-3d.json](./234124-cosmiball-3d.json) |
+| Cosmic Arcade Tycoon | 333497 | [333497-cosmic-arcade-tycoon.json](./333497-cosmic-arcade-tycoon.json) |
 | Cosmic Avenger | 18504 | [18504-cosmic-avenger.json](./18504-cosmic-avenger.json) |
 | Cosmic Badger | 197746 | [197746-cosmic-badger.json](./197746-cosmic-badger.json) |
 | Cosmic Blastards | 275873 | [275873-cosmic-blastards.json](./275873-cosmic-blastards.json) |
@@ -12239,6 +12243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cynthia: Hidden in the Moonshadow - Accessory Pack #3 | 313789 | [313789-cynthia-hidden-in-the-moonshadow-accessory-pack-3.json](./313789-cynthia-hidden-in-the-moonshadow-accessory-pack-3.json) |
 | Cynthia: Hidden in the Moonshadow - Complete Edition | 283152 | [283152-cynthia-hidden-in-the-moonshadow-complete-edition.json](./283152-cynthia-hidden-in-the-moonshadow-complete-edition.json) |
 | Cynthia: Hidden in the Moonshadow - Gold Edition | 324382 | [324382-cynthia-hidden-in-the-moonshadow-gold-edition.json](./324382-cynthia-hidden-in-the-moonshadow-gold-edition.json) |
+| Cynthia: Hidden in the Moonshadow - Silver Edition | 333681 | [333681-cynthia-hidden-in-the-moonshadow-silver-edition.json](./333681-cynthia-hidden-in-the-moonshadow-silver-edition.json) |
 | Cynthia: Hidden in the Moonshadow - Special Edition | 306491 | [306491-cynthia-hidden-in-the-moonshadow-special-edition.json](./306491-cynthia-hidden-in-the-moonshadow-special-edition.json) |
 | Cynthia: Hidden in the Moonshadow - Summer Edition | 317261 | [317261-cynthia-hidden-in-the-moonshadow-summer-edition.json](./317261-cynthia-hidden-in-the-moonshadow-summer-edition.json) |
 | CYOM | 341643 | [341643-cyom.json](./341643-cyom.json) |
