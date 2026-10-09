@@ -139,6 +139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-Man S | 64683 | [64683-pac-man-s.json](./64683-pac-man-s.json) |
 | Pac-Man Social | 64682 | [64682-pac-man-social.json](./64682-pac-man-social.json) |
 | Pac-Man VR | 65001 | [65001-pac-man-vr.json](./65001-pac-man-vr.json) |
+| Pac-Man vs. & Pac-Man World 2 | 349360 | [349360-pac-man-vs-and-pac-man-world-2.json](./349360-pac-man-vs-and-pac-man-world-2.json) |
 | Pac-Man World | 6530 | [6530-pac-man-world.json](./6530-pac-man-world.json) |
 | Pac-Man World | 84190 | [84190-pac-man-world.json](./84190-pac-man-world.json) |
 | Pac-Man World 2 | 134428 | [134428-pac-man-world-2.json](./134428-pac-man-world-2.json) |
@@ -2199,6 +2200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peach Blood | 112239 | [112239-peach-blood.json](./112239-peach-blood.json) |
 | Peach Clicker | 312761 | [312761-peach-clicker.json](./312761-peach-clicker.json) |
 | Peach Hills Division | 297179 | [297179-peach-hills-division.json](./297179-peach-hills-division.json) |
+| Peach Tangle | 349269 | [349269-peach-tangle.json](./349269-peach-tangle.json) |
 | Peach Territory | 378438 | [378438-peach-territory.json](./378438-peach-territory.json) |
 | Peach Up | 338831 | [338831-peach-up.json](./338831-peach-up.json) |
 | Peach Up 2-Gou | 122931 | [122931-peach-up-2-gou.json](./122931-peach-up-2-gou.json) |
@@ -4081,13 +4083,20 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball Arcade: Al’s Garage Band Goes on a World Tour | 353229 | [353229-pinball-arcade-al-s-garage-band-goes-on-a-world-tour.json](./353229-pinball-arcade-al-s-garage-band-goes-on-a-world-tour.json) |
 | Pinball Arcade: Banzai Run | 349342 | [349342-pinball-arcade-banzai-run.json](./349342-pinball-arcade-banzai-run.json) |
 | Pinball Arcade: Big Buck Hunter Pro | 353223 | [353223-pinball-arcade-big-buck-hunter-pro.json](./353223-pinball-arcade-big-buck-hunter-pro.json) |
+| Pinball Arcade: Black Knight 2000 | 349358 | [349358-pinball-arcade-black-knight-2000.json](./349358-pinball-arcade-black-knight-2000.json) |
 | Pinball Arcade: Bone Busters Inc. | 353221 | [353221-pinball-arcade-bone-busters-inc.json](./353221-pinball-arcade-bone-busters-inc.json) |
+| Pinball Arcade: Bram Stoker's Dracula | 349354 | [349354-pinball-arcade-bram-stokers-dracula.json](./349354-pinball-arcade-bram-stokers-dracula.json) |
+| Pinball Arcade: Cactus Canyon | 349361 | [349361-pinball-arcade-cactus-canyon.json](./349361-pinball-arcade-cactus-canyon.json) |
 | Pinball Arcade: Cactus Jack's | 353246 | [353246-pinball-arcade-cactus-jacks.json](./353246-pinball-arcade-cactus-jacks.json) |
 | Pinball Arcade: Centigrade 37 | 353222 | [353222-pinball-arcade-centigrade-37.json](./353222-pinball-arcade-centigrade-37.json) |
+| Pinball Arcade: Cirqus Voltaire | 349364 | [349364-pinball-arcade-cirqus-voltaire.json](./349364-pinball-arcade-cirqus-voltaire.json) |
 | Pinball Arcade: Class of 1812 | 353217 | [353217-pinball-arcade-class-of-1812.json](./353217-pinball-arcade-class-of-1812.json) |
 | Pinball Arcade: Creature from the Black Lagoon | 353212 | [353212-pinball-arcade-creature-from-the-black-lagoon.json](./353212-pinball-arcade-creature-from-the-black-lagoon.json) |
 | Pinball Arcade: Diner | 353266 | [353266-pinball-arcade-diner.json](./353266-pinball-arcade-diner.json) |
+| Pinball Arcade: Doctor Who | 349345 | [349345-pinball-arcade-doctor-who.json](./349345-pinball-arcade-doctor-who.json) |
+| Pinball Arcade: Earthshaker! | 349353 | [349353-pinball-arcade-earthshaker.json](./349353-pinball-arcade-earthshaker.json) |
 | Pinball Arcade: Eight Ball Deluxe | 353240 | [353240-pinball-arcade-eight-ball-deluxe.json](./353240-pinball-arcade-eight-ball-deluxe.json) |
+| Pinball Arcade: F-14 Tomcat | 349350 | [349350-pinball-arcade-f-14-tomcat.json](./349350-pinball-arcade-f-14-tomcat.json) |
 | Pinball Arcade: Fathom | 349962 | [349962-pinball-arcade-fathom.json](./349962-pinball-arcade-fathom.json) |
 | Pinball Arcade: Firepower II | 349961 | [349961-pinball-arcade-firepower-ii.json](./349961-pinball-arcade-firepower-ii.json) |
 | Pinball Arcade: Fish Tales | 353259 | [353259-pinball-arcade-fish-tales.json](./353259-pinball-arcade-fish-tales.json) |
@@ -4098,18 +4107,25 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball Arcade: Gorgar | 353264 | [353264-pinball-arcade-gorgar.json](./353264-pinball-arcade-gorgar.json) |
 | Pinball Arcade: Harley-Davidson / 3rd Edition | 353213 | [353213-pinball-arcade-harley-davidson-3rd-edition.json](./353213-pinball-arcade-harley-davidson-3rd-edition.json) |
 | Pinball Arcade: High Roller Casino | 353226 | [353226-pinball-arcade-high-roller-casino.json](./353226-pinball-arcade-high-roller-casino.json) |
+| Pinball Arcade: High Speed | 349357 | [349357-pinball-arcade-high-speed.json](./349357-pinball-arcade-high-speed.json) |
+| Pinball Arcade: Hurricane | 349347 | [349347-pinball-arcade-hurricane.json](./349347-pinball-arcade-hurricane.json) |
+| Pinball Arcade: Indianapolis 500 | 349346 | [349346-pinball-arcade-indianapolis-500.json](./349346-pinball-arcade-indianapolis-500.json) |
 | Pinball Arcade: Jacks Open | 353242 | [353242-pinball-arcade-jacks-open.json](./353242-pinball-arcade-jacks-open.json) |
+| Pinball Arcade: Judge Dredd | 349348 | [349348-pinball-arcade-judge-dredd.json](./349348-pinball-arcade-judge-dredd.json) |
 | Pinball Arcade: Junk Yard | 353258 | [353258-pinball-arcade-junk-yard.json](./353258-pinball-arcade-junk-yard.json) |
 | Pinball Arcade: Mary Shelley's Frankenstein | 353257 | [353257-pinball-arcade-mary-shelleys-frankenstein.json](./353257-pinball-arcade-mary-shelleys-frankenstein.json) |
 | Pinball Arcade: Monster Bash | 353215 | [353215-pinball-arcade-monster-bash.json](./353215-pinball-arcade-monster-bash.json) |
 | Pinball Arcade: Mustang | 353224 | [353224-pinball-arcade-mustang.json](./353224-pinball-arcade-mustang.json) |
+| Pinball Arcade: No Fear - Dangerous Sports | 349349 | [349349-pinball-arcade-no-fear-dangerous-sports.json](./349349-pinball-arcade-no-fear-dangerous-sports.json) |
 | Pinball Arcade: No Good Gofers | 353214 | [353214-pinball-arcade-no-good-gofers.json](./353214-pinball-arcade-no-good-gofers.json) |
 | Pinball Arcade: Paragon | 349960 | [349960-pinball-arcade-paragon.json](./349960-pinball-arcade-paragon.json) |
 | Pinball Arcade: Pistol Poker | 349971 | [349971-pinball-arcade-pistol-poker.json](./349971-pinball-arcade-pistol-poker.json) |
 | Pinball Arcade: Red & Ted's Road Show | 353219 | [353219-pinball-arcade-red-and-teds-road-show.json](./353219-pinball-arcade-red-and-teds-road-show.json) |
 | Pinball Arcade: Rescue 911 | 353234 | [353234-pinball-arcade-rescue-911.json](./353234-pinball-arcade-rescue-911.json) |
 | Pinball Arcade: Safe Cracker | 353273 | [353273-pinball-arcade-safe-cracker.json](./353273-pinball-arcade-safe-cracker.json) |
+| Pinball Arcade: Scared Stiff | 349363 | [349363-pinball-arcade-scared-stiff.json](./349363-pinball-arcade-scared-stiff.json) |
 | Pinball Arcade: Season Two Bundle | 99556 | [99556-pinball-arcade-season-two-bundle.json](./99556-pinball-arcade-season-two-bundle.json) |
+| Pinball Arcade: Sorcerer | 349343 | [349343-pinball-arcade-sorcerer.json](./349343-pinball-arcade-sorcerer.json) |
 | Pinball Arcade: Space Shuttle | 353272 | [353272-pinball-arcade-space-shuttle.json](./353272-pinball-arcade-space-shuttle.json) |
 | Pinball Arcade: Spanish Eyes | 349963 | [349963-pinball-arcade-spanish-eyes.json](./349963-pinball-arcade-spanish-eyes.json) |
 | Pinball Arcade: Star Trek - The Next Generation | 349340 | [349340-pinball-arcade-star-trek-the-next-generation.json](./349340-pinball-arcade-star-trek-the-next-generation.json) |
@@ -4117,13 +4133,19 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball Arcade: Swords of Fury | 353270 | [353270-pinball-arcade-swords-of-fury.json](./353270-pinball-arcade-swords-of-fury.json) |
 | Pinball Arcade: Taxi | 353268 | [353268-pinball-arcade-taxi.json](./353268-pinball-arcade-taxi.json) |
 | Pinball Arcade: Tee'd Off | 353260 | [353260-pinball-arcade-teed-off.json](./353260-pinball-arcade-teed-off.json) |
+| Pinball Arcade: Terminator 2 - Judgment Day | 349359 | [349359-pinball-arcade-terminator-2-judgment-day.json](./349359-pinball-arcade-terminator-2-judgment-day.json) |
+| Pinball Arcade: The Addams Family | 349352 | [349352-pinball-arcade-the-addams-family.json](./349352-pinball-arcade-the-addams-family.json) |
+| Pinball Arcade: The Getaway - High Speed II | 349351 | [349351-pinball-arcade-the-getaway-high-speed-ii.json](./349351-pinball-arcade-the-getaway-high-speed-ii.json) |
+| Pinball Arcade: Twilight Zone | 349362 | [349362-pinball-arcade-twilight-zone.json](./349362-pinball-arcade-twilight-zone.json) |
 | Pinball Arcade: TX-Sector | 353265 | [353265-pinball-arcade-tx-sector.json](./353265-pinball-arcade-tx-sector.json) |
 | Pinball Arcade: Victory | 353262 | [353262-pinball-arcade-victory.json](./353262-pinball-arcade-victory.json) |
 | Pinball Arcade: Whirlwind | 353269 | [353269-pinball-arcade-whirlwind.json](./353269-pinball-arcade-whirlwind.json) |
 | Pinball Arcade: White Water | 353263 | [353263-pinball-arcade-white-water.json](./353263-pinball-arcade-white-water.json) |
+| Pinball Arcade: Who Dunnit | 349355 | [349355-pinball-arcade-who-dunnit.json](./349355-pinball-arcade-who-dunnit.json) |
 | Pinball Arcade: Whoa Nellie! Big Juicy Melons | 353225 | [353225-pinball-arcade-whoa-nellie-big-juicy-melons.json](./353225-pinball-arcade-whoa-nellie-big-juicy-melons.json) |
 | Pinball Arcade: Wild Card | 349964 | [349964-pinball-arcade-wild-card.json](./349964-pinball-arcade-wild-card.json) |
 | Pinball Arcade: Wipe Out | 349969 | [349969-pinball-arcade-wipe-out.json](./349969-pinball-arcade-wipe-out.json) |
+| Pinball Arcade: World Champion Soccer | 349344 | [349344-pinball-arcade-world-champion-soccer.json](./349344-pinball-arcade-world-champion-soccer.json) |
 | Pinball Arcade: Xenon | 353267 | [353267-pinball-arcade-xenon.json](./353267-pinball-arcade-xenon.json) |
 | Pinball Brain Damage | 69591 | [69591-pinball-brain-damage.json](./69591-pinball-brain-damage.json) |
 | Pinball Breaker 3 | 146686 | [146686-pinball-breaker-3.json](./146686-pinball-breaker-3.json) |
@@ -5241,6 +5263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixie Plates: Royal Edition | 411835 | [411835-pixie-plates-royal-edition.json](./411835-pixie-plates-royal-edition.json) |
 | Pixie Plates: Royal Gardens DLC | 399804 | [399804-pixie-plates-royal-gardens-dlc.json](./399804-pixie-plates-royal-gardens-dlc.json) |
 | Pixie Plates: Shimmering Slopes DLC | 399805 | [399805-pixie-plates-shimmering-slopes-dlc.json](./399805-pixie-plates-shimmering-slopes-dlc.json) |
+| Pixie Pleasures | 349274 | [349274-pixie-pleasures.json](./349274-pixie-pleasures.json) |
 | Pixie the Microdot | 142365 | [142365-pixie-the-microdot.json](./142365-pixie-the-microdot.json) |
 | Pixiel: Dreadwager | 277424 | [277424-pixiel-dreadwager.json](./277424-pixiel-dreadwager.json) |
 | Pixiescape | 217389 | [217389-pixiescape.json](./217389-pixiescape.json) |
@@ -5472,6 +5495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet IX | 348417 | [348417-planet-ix.json](./348417-planet-ix.json) |
 | Planet Joker | 91954 | [91954-planet-joker.json](./91954-planet-joker.json) |
 | Planet Jump 2 | 118441 | [118441-planet-jump-2.json](./118441-planet-jump-2.json) |
+| Planet Keeper Program | 349263 | [349263-planet-keeper-program.json](./349263-planet-keeper-program.json) |
 | Planet Lander | 41577 | [41577-planet-lander.json](./41577-planet-lander.json) |
 | Planet Lust | 333573 | [333573-planet-lust.json](./333573-planet-lust.json) |
 | Planet Miners | 24808 | [24808-planet-miners.json](./24808-planet-miners.json) |
