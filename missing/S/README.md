@@ -4725,6 +4725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sheepdog Simulator | 132658 | [132658-sheepdog-simulator.json](./132658-sheepdog-simulator.json) |
 | Sheepdogs | 244878 | [244878-sheepdogs.json](./244878-sheepdogs.json) |
 | Sheepers | 315287 | [315287-sheepers.json](./315287-sheepers.json) |
+| Sheeperzzz | 348734 | [348734-sheeperzzz.json](./348734-sheeperzzz.json) |
 | Sheepherds! | 334710 | [334710-sheepherds.json](./334710-sheepherds.json) |
 | Sheepish | 263471 | [263471-sheepish.json](./263471-sheepish.json) |
 | Sheepland | 175269 | [175269-sheepland.json](./175269-sheepland.json) |
@@ -8337,6 +8338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slow and Steady | 157486 | [157486-slow-and-steady.json](./157486-slow-and-steady.json) |
 | Slow Burn | 313870 | [313870-slow-burn.json](./313870-slow-burn.json) |
 | Slow Down | 180673 | [180673-slow-down.json](./180673-slow-down.json) |
+| Slow Down | 348743 | [348743-slow-down.json](./348743-slow-down.json) |
 | Slow Fourier Transform | 364637 | [364637-slow-fourier-transform.json](./364637-slow-fourier-transform.json) |
 | Slow Rise | 267066 | [267066-slow-rise.json](./267066-slow-rise.json) |
 | Slow.Bullet VR | 392797 | [392797-slow-bullet-vr.json](./392797-slow-bullet-vr.json) |
@@ -15858,6 +15860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stele | 339664 | [339664-stele.json](./339664-stele.json) |
 | Stell-A-Sketch | 40692 | [40692-stell-a-sketch.json](./40692-stell-a-sketch.json) |
 | Stell-A-Sketch/Okie Dokie | 93217 | [93217-stell-a-sketch-okie-dokie.json](./93217-stell-a-sketch-okie-dokie.json) |
+| Stella | 348818 | [348818-stella.json](./348818-stella.json) |
 | Stella Arcana | 142257 | [142257-stella-arcana.json](./142257-stella-arcana.json) |
 | Stella Astrum | 418729 | [418729-stella-astrum.json](./418729-stella-astrum.json) |
 | Stella Deus: The Gate of Eternity | 13094 | [13094-stella-deus-the-gate-of-eternity.json](./13094-stella-deus-the-gate-of-eternity.json) |
@@ -20516,6 +20519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surge Deluxe | 20062 | [20062-surge-deluxe.json](./20062-surge-deluxe.json) |
 | Surge Generations | 334687 | [334687-surge-generations.json](./334687-surge-generations.json) |
 | Surge Radio | 124172 | [124172-surge-radio.json](./124172-surge-radio.json) |
+| Surge Runner | 348753 | [348753-surge-runner.json](./348753-surge-runner.json) |
 | Surge Unlimited | 417669 | [417669-surge-unlimited.json](./417669-surge-unlimited.json) |
 | Surgeball | 148167 | [148167-surgeball.json](./148167-surgeball.json) |
 | Surgeon Simulator 2 | 127355 | [127355-surgeon-simulator-2.json](./127355-surgeon-simulator-2.json) |
