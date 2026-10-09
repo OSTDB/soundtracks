@@ -174,6 +174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hagia Sophia VR Experience | 150491 | [150491-hagia-sophia-vr-experience.json](./150491-hagia-sophia-vr-experience.json) |
 | Hags Castle | 105824 | [105824-hags-castle.json](./105824-hags-castle.json) |
 | Hagwalla Legend | 283760 | [283760-hagwalla-legend.json](./283760-hagwalla-legend.json) |
+| Hagyo-gil: The Way Home | 376864 | [376864-hagyo-gil-the-way-home.json](./376864-hagyo-gil-the-way-home.json) |
 | Haha Doodle | 194271 | [194271-haha-doodle.json](./194271-haha-doodle.json) |
 | Hahakigami Sweep | 386105 | [386105-hahakigami-sweep.json](./386105-hahakigami-sweep.json) |
 | Hahakigami Sweep | 386106 | [386106-hahakigami-sweep.json](./386106-hahakigami-sweep.json) |
@@ -1731,6 +1732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hayate no Gotoku! Boku ga Romeo de Romeo ga Boku de | 78727 | [78727-hayate-no-gotoku-boku-ga-romeo-de-romeo-ga-boku-de.json](./78727-hayate-no-gotoku-boku-ga-romeo-de-romeo-ga-boku-de.json) |
 | Hayate no Gotoku! Ojousama Produce Daisakusen Boku Iro ni Somare! | 72684 | [72684-hayate-no-gotoku-ojousama-produce-daisakusen-boku-iro-ni-somare.json](./72684-hayate-no-gotoku-ojousama-produce-daisakusen-boku-iro-ni-somare.json) |
 | Hayato's Journey | 310652 | [310652-hayatos-journey.json](./310652-hayatos-journey.json) |
+| Hayatsubasa | 376872 | [376872-hayatsubasa.json](./376872-hayatsubasa.json) |
 | Hayauchi Super Igo | 48329 | [48329-hayauchi-super-igo.json](./48329-hayauchi-super-igo.json) |
 | Haydee 2 | 141257 | [141257-haydee-2.json](./141257-haydee-2.json) |
 | Haydee 3 | 333073 | [333073-haydee-3.json](./333073-haydee-3.json) |
@@ -5231,6 +5233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hololive All-Stars Battle Tiles | 379575 | [379575-hololive-all-stars-battle-tiles.json](./379575-hololive-all-stars-battle-tiles.json) |
 | Hololive Dreams | 384205 | [384205-hololive-dreams.json](./384205-hololive-dreams.json) |
 | Hololive Error | 186622 | [186622-hololive-error.json](./186622-hololive-error.json) |
+| Hololive Fantasy Battle | 376877 | [376877-hololive-fantasy-battle.json](./376877-hololive-fantasy-battle.json) |
 | Hololive Gorogoro Mountain | 348243 | [348243-hololive-gorogoro-mountain.json](./348243-hololive-gorogoro-mountain.json) |
 | Hololive GoroGoro Mountain DX | 384189 | [384189-hololive-gorogoro-mountain-dx.json](./384189-hololive-gorogoro-mountain-dx.json) |
 | Hololive Holo's Hanafuda | 339960 | [339960-hololive-holos-hanafuda.json](./339960-hololive-holos-hanafuda.json) |
