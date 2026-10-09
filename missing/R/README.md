@@ -174,6 +174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raccoon Arrival | 150627 | [150627-raccoon-arrival.json](./150627-raccoon-arrival.json) |
 | Raccoon Bubbles | 208963 | [208963-raccoon-bubbles.json](./208963-raccoon-bubbles.json) |
 | Raccoon City Edition: Z Version | 218545 | [218545-raccoon-city-edition-z-version.json](./218545-raccoon-city-edition-z-version.json) |
+| Raccoon Crime Spree | 359342 | [359342-raccoon-crime-spree.json](./359342-raccoon-crime-spree.json) |
 | Raccoon Hero | 54482 | [54482-raccoon-hero.json](./54482-raccoon-hero.json) |
 | Raccoon Hero: Among the Cacti | 55251 | [55251-raccoon-hero-among-the-cacti.json](./55251-raccoon-hero-among-the-cacti.json) |
 | Raccoon Hero: Starlight | 54480 | [54480-raccoon-hero-starlight.json](./54480-raccoon-hero-starlight.json) |
@@ -1382,6 +1383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rawbots | 62969 | [62969-rawbots.json](./62969-rawbots.json) |
 | Rawisland | 267449 | [267449-rawisland.json](./267449-rawisland.json) |
 | Rawmen: Sakura Gusoku Cosmetic Set | 370316 | [370316-rawmen-sakura-gusoku-cosmetic-set.json](./370316-rawmen-sakura-gusoku-cosmetic-set.json) |
+| Rawring Candies | 359359 | [359359-rawring-candies.json](./359359-rawring-candies.json) |
 | Rawshire the Last Hatchling | 158214 | [158214-rawshire-the-last-hatchling.json](./158214-rawshire-the-last-hatchling.json) |
 | Rawyokan | 334915 | [334915-rawyokan.json](./334915-rawyokan.json) |
 | Rax Runner! | 338288 | [338288-rax-runner.json](./338288-rax-runner.json) |
@@ -1886,6 +1888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Realm of Mecha | 197324 | [197324-realm-of-mecha.json](./197324-realm-of-mecha.json) |
 | Realm of Mystery | 365288 | [365288-realm-of-mystery.json](./365288-realm-of-mystery.json) |
 | Realm of Rulers | 98222 | [98222-realm-of-rulers.json](./98222-realm-of-rulers.json) |
+| Realm of Taiwu | 359343 | [359343-realm-of-taiwu.json](./359343-realm-of-taiwu.json) |
 | Realm of the Dead | 257898 | [257898-realm-of-the-dead.json](./257898-realm-of-the-dead.json) |
 | Realm of the Dead | 43210 | [43210-realm-of-the-dead.json](./43210-realm-of-the-dead.json) |
 | Realm of the Everbound | 292775 | [292775-realm-of-the-everbound.json](./292775-realm-of-the-everbound.json) |
@@ -5078,6 +5081,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road Runner | 282628 | [282628-road-runner.json](./282628-road-runner.json) |
 | Road Runner and Wile E. Coyote | 71438 | [71438-road-runner-and-wile-e-coyote.json](./71438-road-runner-and-wile-e-coyote.json) |
 | Road Spirits | 41998 | [41998-road-spirits.json](./41998-road-spirits.json) |
+| Road Star | 359383 | [359383-road-star.json](./359383-road-star.json) |
+| Road Star | 359384 | [359384-road-star.json](./359384-road-star.json) |
 | Road Stones | 223409 | [223409-road-stones.json](./223409-road-stones.json) |
 | Road Thrills | 74012 | [74012-road-thrills.json](./74012-road-thrills.json) |
 | Road to Adventure! | 143747 | [143747-road-to-adventure.json](./143747-road-to-adventure.json) |
@@ -6816,6 +6821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roving in the Dark | 106602 | [106602-roving-in-the-dark.json](./106602-roving-in-the-dark.json) |
 | Roving Rogue | 19982 | [19982-roving-rogue.json](./19982-roving-rogue.json) |
 | Rovio Classics: Angry Birds | 197792 | [197792-rovio-classics-angry-birds.json](./197792-rovio-classics-angry-birds.json) |
+| RovNav | 359355 | [359355-rovnav.json](./359355-rovnav.json) |
 | Rovonaut Comrade | 128656 | [128656-rovonaut-comrade.json](./128656-rovonaut-comrade.json) |
 | RoVR | 55127 | [55127-rovr.json](./55127-rovr.json) |
 | Row Away | 365743 | [365743-row-away.json](./365743-row-away.json) |
