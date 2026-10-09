@@ -6380,6 +6380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Romance of the Three Kingdoms XIII: Scenario for War Chronicles Mode - 5th Wave: The Battle for Yan Province | 164499 | [164499-romance-of-the-three-kingdoms-xiii-scenario-for-war-chronicles-mode-5th-wave-the-battle-for-yan-province.json](./164499-romance-of-the-three-kingdoms-xiii-scenario-for-war-chronicles-mode-5th-wave-the-battle-for-yan-province.json) |
 | Romance of the Three Kingdoms XIII: Sun Ce Pushing Forward Event Set | 164493 | [164493-romance-of-the-three-kingdoms-xiii-sun-ce-pushing-forward-event-set.json](./164493-romance-of-the-three-kingdoms-xiii-sun-ce-pushing-forward-event-set.json) |
 | Romance of the Three Kingdoms XIII: Zhuge Liang's Northern Campaign Event Set | 164502 | [164502-romance-of-the-three-kingdoms-xiii-zhuge-liangs-northern-campaign-event-set.json](./164502-romance-of-the-three-kingdoms-xiii-zhuge-liangs-northern-campaign-event-set.json) |
+| Romance of the Three Kingdoms XIV Complete Edition | 407202 | [407202-romance-of-the-three-kingdoms-xiv-complete-edition.json](./407202-romance-of-the-three-kingdoms-xiv-complete-edition.json) |
 | Romance of the Three Kingdoms XIV with Power Up Kit: Digital Deluxe Edition | 222265 | [222265-romance-of-the-three-kingdoms-xiv-with-power-up-kit-digital-deluxe-edition.json](./222265-romance-of-the-three-kingdoms-xiv-with-power-up-kit-digital-deluxe-edition.json) |
 | Romance of the Three Kingdoms XIV: Diplomacy and Strategy Expansion Pack | 350638 | [350638-romance-of-the-three-kingdoms-xiv-diplomacy-and-strategy-expansion-pack.json](./350638-romance-of-the-three-kingdoms-xiv-diplomacy-and-strategy-expansion-pack.json) |
 | Romance of the Three Kingdoms XIV: Diplomacy and Strategy Expansion Pack Bundle | 147803 | [147803-romance-of-the-three-kingdoms-xiv-diplomacy-and-strategy-expansion-pack-bundle.json](./147803-romance-of-the-three-kingdoms-xiv-diplomacy-and-strategy-expansion-pack-bundle.json) |
@@ -6730,6 +6731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rotschwert | 333660 | [333660-rotschwert.json](./333660-rotschwert.json) |
 | Rotten Apple: New York Fallen | 211639 | [211639-rotten-apple-new-york-fallen.json](./211639-rotten-apple-new-york-fallen.json) |
 | Rotten Chamber | 399886 | [399886-rotten-chamber.json](./399886-rotten-chamber.json) |
+| Rotten Crop | 357749 | [357749-rotten-crop.json](./357749-rotten-crop.json) |
 | Rotten Escape | 101542 | [101542-rotten-escape.json](./101542-rotten-escape.json) |
 | Rotten Sun | 183948 | [183948-rotten-sun.json](./183948-rotten-sun.json) |
 | Rotten Tide | 157055 | [157055-rotten-tide.json](./157055-rotten-tide.json) |
