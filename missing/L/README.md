@@ -5155,6 +5155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Live! School Idol Festival: After School Activity - Wai-Wai! Home Meeting!! | 141248 | [141248-love-live-school-idol-festival-after-school-activity-wai-wai-home-meeting.json](./141248-love-live-school-idol-festival-after-school-activity-wai-wai-home-meeting.json) |
 | Love Live! School Idol Paradise | 81340 | [81340-love-live-school-idol-paradise.json](./81340-love-live-school-idol-paradise.json) |
 | Love Love Candy | 253902 | [253902-love-love-candy.json](./253902-love-love-candy.json) |
+| Love love demon ji | 385906 | [385906-love-love-demon-ji.json](./385906-love-love-demon-ji.json) |
 | Love Love Diary | 247748 | [247748-love-love-diary.json](./247748-love-love-diary.json) |
 | Love Love Joe Biden: The Joe Biden Dating Simulator | 248819 | [248819-love-love-joe-biden-the-joe-biden-dating-simulator.json](./248819-love-love-joe-biden-the-joe-biden-dating-simulator.json) |
 | Love Love Mystery Club | 386233 | [386233-love-love-mystery-club.json](./386233-love-love-mystery-club.json) |
