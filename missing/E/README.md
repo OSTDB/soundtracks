@@ -1297,6 +1297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Element Z | 120763 | [120763-element-z.json](./120763-element-z.json) |
 | Element147 | 98016 | [98016-element147.json](./98016-element147.json) |
 | Element4l | 8715 | [8715-element4l.json](./8715-element4l.json) |
+| Elementail | 360513 | [360513-elementail.json](./360513-elementail.json) |
 | Elementaire | 297088 | [297088-elementaire.json](./297088-elementaire.json) |
 | Elemental | 290641 | [290641-elemental.json](./290641-elemental.json) |
 | Elemental | 351639 | [351639-elemental.json](./351639-elemental.json) |
@@ -3829,6 +3830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Even the Stars | 136865 | [136865-even-the-stars.json](./136865-even-the-stars.json) |
 | Even20: The Interference of Parallels | 373096 | [373096-even20-the-interference-of-parallels.json](./373096-even20-the-interference-of-parallels.json) |
 | Evenfall | 362328 | [362328-evenfall.json](./362328-evenfall.json) |
+| Evening | 360501 | [360501-evening.json](./360501-evening.json) |
 | Evening Star | 13647 | [13647-evening-star.json](./13647-evening-star.json) |
 | Evening Star 2 | 114296 | [114296-evening-star-2.json](./114296-evening-star-2.json) |
 | Evening Starter | 163765 | [163765-evening-starter.json](./163765-evening-starter.json) |
@@ -4053,6 +4055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evil | 154005 | [154005-evil.json](./154005-evil.json) |
 | Evil | 270322 | [270322-evil.json](./270322-evil.json) |
 | Evil | 34874 | [34874-evil.json](./34874-evil.json) |
+| Evil | 360492 | [360492-evil.json](./360492-evil.json) |
 | Evil Advisor Verdict | 359995 | [359995-evil-advisor-verdict.json](./359995-evil-advisor-verdict.json) |
 | Evil Apples: Dirty as ____. | 86996 | [86996-evil-apples-dirty-as.json](./86996-evil-apples-dirty-as.json) |
 | Evil Awaits | 224596 | [224596-evil-awaits.json](./224596-evil-awaits.json) |
@@ -4232,6 +4235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evotales | 245884 | [245884-evotales.json](./245884-evotales.json) |
 | EvoTown | 136408 | [136408-evotown.json](./136408-evotown.json) |
 | EvoWars.io | 241633 | [241633-evowars-io.json](./241633-evowars-io.json) |
+| EvoWorld.io | 360508 | [360508-evoworld-io.json](./360508-evoworld-io.json) |
 | EVR Race | 100172 | [100172-evr-race.json](./100172-evr-race.json) |
 | Ewe Shall Not Pass | 260391 | [260391-ewe-shall-not-pass.json](./260391-ewe-shall-not-pass.json) |
 | Ewgeebeez | 348941 | [348941-ewgeebeez.json](./348941-ewgeebeez.json) |
