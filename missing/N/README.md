@@ -3177,6 +3177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Remix | 12172 | [12172-ninja-remix.json](./12172-ninja-remix.json) |
 | Ninja Remix 16 | 59986 | [59986-ninja-remix-16.json](./59986-ninja-remix-16.json) |
 | Ninja Resurrection: A tale of Kuro | 276975 | [276975-ninja-resurrection-a-tale-of-kuro.json](./276975-ninja-resurrection-a-tale-of-kuro.json) |
+| Ninja Revenger | 345993 | [345993-ninja-revenger.json](./345993-ninja-revenger.json) |
 | Ninja Rinseout | 323358 | [323358-ninja-rinseout.json](./323358-ninja-rinseout.json) |
 | Ninja Roquinexu | 118224 | [118224-ninja-roquinexu.json](./118224-ninja-roquinexu.json) |
 | Ninja Run | 129083 | [129083-ninja-run.json](./129083-ninja-run.json) |
@@ -3554,6 +3555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No More Shopping | 334867 | [334867-no-more-shopping.json](./334867-no-more-shopping.json) |
 | No More Slimes!! | 414600 | [414600-no-more-slimes.json](./414600-no-more-slimes.json) |
 | No More Surffer | 150768 | [150768-no-more-surffer.json](./150768-no-more-surffer.json) |
+| No Mosaic Girls With Sess-AI 2.0 | 346008 | [346008-no-mosaic-girls-with-sess-ai-2-0.json](./346008-no-mosaic-girls-with-sess-ai-2-0.json) |
 | No Need for Flowers | 334338 | [334338-no-need-for-flowers.json](./334338-no-need-for-flowers.json) |
 | No Offence, But | 126581 | [126581-no-offence-but.json](./126581-no-offence-but.json) |
 | No One But You | 19243 | [19243-no-one-but-you.json](./19243-no-one-but-you.json) |
