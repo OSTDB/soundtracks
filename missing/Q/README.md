@@ -622,6 +622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | QuickMaze | 358400 | [358400-quickmaze.json](./358400-quickmaze.json) |
 | Quicksilver | 92450 | [92450-quicksilver.json](./92450-quicksilver.json) |
 | QuickSolve | 174316 | [174316-quicksolve.json](./174316-quicksolve.json) |
+| Quicksort | 383735 | [383735-quicksort.json](./383735-quicksort.json) |
 | QuickSpot | 20677 | [20677-quickspot.json](./20677-quickspot.json) |
 | QuickSwitch | 341315 | [341315-quickswitch.json](./341315-quickswitch.json) |
 | Quidget the Wonderwiener | 314948 | [314948-quidget-the-wonderwiener.json](./314948-quidget-the-wonderwiener.json) |
