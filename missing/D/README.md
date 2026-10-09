@@ -2741,6 +2741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deathless: The City's Thirst | 34270 | [34270-deathless-the-citys-thirst.json](./34270-deathless-the-citys-thirst.json) |
 | Deathlike: Awakening | 30089 | [30089-deathlike-awakening.json](./30089-deathlike-awakening.json) |
 | Deathloop + Ghostwire: Tokyo Bundle | 281406 | [281406-deathloop-ghostwire-tokyo-bundle.json](./281406-deathloop-ghostwire-tokyo-bundle.json) |
+| Deathloop 4 You | 376863 | [376863-deathloop-4-you.json](./376863-deathloop-4-you.json) |
 | Deathloop: Deluxe Edition | 141033 | [141033-deathloop-deluxe-edition.json](./141033-deathloop-deluxe-edition.json) |
 | Deathloop: Deluxe Pack | 252217 | [252217-deathloop-deluxe-pack.json](./252217-deathloop-deluxe-pack.json) |
 | Deathlord | 13838 | [13838-deathlord.json](./13838-deathlord.json) |
@@ -5146,6 +5147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diesel Punch | 135753 | [135753-diesel-punch.json](./135753-diesel-punch.json) |
 | Diesel the Pug Warrior | 232922 | [232922-diesel-the-pug-warrior.json](./232922-diesel-the-pug-warrior.json) |
 | Dieselpunk Wars | 114168 | [114168-dieselpunk-wars.json](./114168-dieselpunk-wars.json) |
+| Diesuki Dungeon | 376868 | [376868-diesuki-dungeon.json](./376868-diesuki-dungeon.json) |
 | Diet Family | 267649 | [267649-diet-family.json](./267649-diet-family.json) |
 | Diet Go Go | 39872 | [39872-diet-go-go.json](./39872-diet-go-go.json) |
 | Diet GoGo | 145604 | [145604-diet-gogo.json](./145604-diet-gogo.json) |
