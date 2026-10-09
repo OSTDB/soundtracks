@@ -4451,6 +4451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gradually Forward | 119611 | [119611-gradually-forward.json](./119611-gradually-forward.json) |
 | Graduate Battle | 358511 | [358511-graduate-battle.json](./358511-graduate-battle.json) |
 | Graduated | 117617 | [117617-graduated.json](./117617-graduated.json) |
+| Graffism | 354384 | [354384-graffism.json](./354384-graffism.json) |
 | Graffiti Bombing | 126973 | [126973-graffiti-bombing.json](./126973-graffiti-bombing.json) |
 | Graffiti Cozy | 189061 | [189061-graffiti-cozy.json](./189061-graffiti-cozy.json) |
 | Graffiti Eraser | 116246 | [116246-graffiti-eraser.json](./116246-graffiti-eraser.json) |
