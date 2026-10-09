@@ -1454,6 +1454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farm Chores | 304901 | [304901-farm-chores.json](./304901-farm-chores.json) |
 | Farm Day 2023 | 241393 | [241393-farm-day-2023.json](./241393-farm-day-2023.json) |
 | Farm Day Simulator 2024 | 283728 | [283728-farm-day-simulator-2024.json](./283728-farm-day-simulator-2024.json) |
+| Farm Defence | 373862 | [373862-farm-defence.json](./373862-farm-defence.json) |
 | Farm Doggie | 131346 | [131346-farm-doggie.json](./131346-farm-doggie.json) |
 | Farm Dream Village Harvest Sim | 101585 | [101585-farm-dream-village-harvest-sim.json](./101585-farm-dream-village-harvest-sim.json) |
 | Farm Dungeons | 158135 | [158135-farm-dungeons.json](./158135-farm-dungeons.json) |
@@ -3948,6 +3949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fishing: North Atlantic - A.F. Theriault | 261868 | [261868-fishing-north-atlantic-a-f-theriault.json](./261868-fishing-north-atlantic-a-f-theriault.json) |
 | Fishing: North Atlantic - Complete Edition | 207385 | [207385-fishing-north-atlantic-complete-edition.json](./207385-fishing-north-atlantic-complete-edition.json) |
 | Fishing: North Atlantic - Enhanced Edition | 188055 | [188055-fishing-north-atlantic-enhanced-edition.json](./188055-fishing-north-atlantic-enhanced-edition.json) |
+| FishingCard | 373870 | [373870-fishingcard.json](./373870-fishingcard.json) |
 | Fishjong 2 | 239724 | [239724-fishjong-2.json](./239724-fishjong-2.json) |
 | Fishlets | 278522 | [278522-fishlets.json](./278522-fishlets.json) |
 | Fishlets: Natural Decor Pack | 313679 | [313679-fishlets-natural-decor-pack.json](./313679-fishlets-natural-decor-pack.json) |
@@ -7827,6 +7829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Funko Fusion: Bob Ross Pack | 323400 | [323400-funko-fusion-bob-ross-pack.json](./323400-funko-fusion-bob-ross-pack.json) |
 | Funko Fusion: Deluxe Edition | 362964 | [362964-funko-fusion-deluxe-edition.json](./362964-funko-fusion-deluxe-edition.json) |
 | Funko Fusion: Frankenstein | 354049 | [354049-funko-fusion-frankenstein.json](./354049-funko-fusion-frankenstein.json) |
+| Funko Fusion: Happy Funkoween Pack | 373882 | [373882-funko-fusion-happy-funkoween-pack.json](./373882-funko-fusion-happy-funkoween-pack.json) |
 | Funko Fusion: Invincible Pack | 323320 | [323320-funko-fusion-invincible-pack.json](./323320-funko-fusion-invincible-pack.json) |
 | Funko Fusion: Jurassic World Rebirth DLC | 354021 | [354021-funko-fusion-jurassic-world-rebirth-dlc.json](./354021-funko-fusion-jurassic-world-rebirth-dlc.json) |
 | Funko Fusion: Jurassic World Rebirth Pack 1 - Zora Bennett and Spinosaurus | 354015 | [354015-funko-fusion-jurassic-world-rebirth-pack-1-zora-bennett-and-spinosaurus.json](./354015-funko-fusion-jurassic-world-rebirth-pack-1-zora-bennett-and-spinosaurus.json) |
