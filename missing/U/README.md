@@ -1788,6 +1788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unsung Warriors | 113881 | [113881-unsung-warriors.json](./113881-unsung-warriors.json) |
 | Unsupervised | 247658 | [247658-unsupervised.json](./247658-unsupervised.json) |
 | Unsustainable: a god job | 180842 | [180842-unsustainable-a-god-job.json](./180842-unsustainable-a-god-job.json) |
+| Unswappers | 367289 | [367289-unswappers.json](./367289-unswappers.json) |
 | Untameable | 313800 | [313800-untameable.json](./313800-untameable.json) |
 | Untamed | 280233 | [280233-untamed.json](./280233-untamed.json) |
 | Untamed Isle | 395197 | [395197-untamed-isle.json](./395197-untamed-isle.json) |
