@@ -5471,6 +5471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rock Bottom | 141856 | [141856-rock-bottom.json](./141856-rock-bottom.json) |
 | Rock Bottom | 184982 | [184982-rock-bottom.json](./184982-rock-bottom.json) |
 | Rock Bottom | 304339 | [304339-rock-bottom.json](./304339-rock-bottom.json) |
+| Rock Bottom | 385364 | [385364-rock-bottom.json](./385364-rock-bottom.json) |
 | Rock Climber | 40421 | [40421-rock-climber.json](./40421-rock-climber.json) |
 | Rock Climbing? | 288790 | [288790-rock-climbing.json](./288790-rock-climbing.json) |
 | Rock Defender | 26650 | [26650-rock-defender.json](./26650-rock-defender.json) |
