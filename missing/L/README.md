@@ -534,6 +534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lantern Fish | 385561 | [385561-lantern-fish.json](./385561-lantern-fish.json) |
 | Lantern Forge | 36263 | [36263-lantern-forge.json](./36263-lantern-forge.json) |
 | Lantern Lagoon | 221837 | [221837-lantern-lagoon.json](./221837-lantern-lagoon.json) |
+| Lantern Light | 379701 | [379701-lantern-light.json](./379701-lantern-light.json) |
 | Lantern of Worlds - The Story of Layla | 116290 | [116290-lantern-of-worlds-the-story-of-layla.json](./116290-lantern-of-worlds-the-story-of-layla.json) |
 | Lantern Push | 391838 | [391838-lantern-push.json](./391838-lantern-push.json) |
 | Lanternium | 51447 | [51447-lanternium.json](./51447-lanternium.json) |
@@ -5253,6 +5254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love, Peace, and Roseleaf | 417701 | [417701-love-peace-and-roseleaf.json](./417701-love-peace-and-roseleaf.json) |
 | Love, Sam | 118986 | [118986-love-sam.json](./118986-love-sam.json) |
 | Love: A Puzzle Box Filled with Stories | 139280 | [139280-love-a-puzzle-box-filled-with-stories.json](./139280-love-a-puzzle-box-filled-with-stories.json) |
+| Love: Fall in Death | 379670 | [379670-love-fall-in-death.json](./379670-love-fall-in-death.json) |
 | Love: Spice! | 270848 | [270848-love-spice.json](./270848-love-spice.json) |
 | Love! Truth! Puzzle! | 169262 | [169262-love-truth-puzzle.json](./169262-love-truth-puzzle.json) |
 | Love's Eternal Wishes | 298898 | [298898-loves-eternal-wishes.json](./298898-loves-eternal-wishes.json) |
