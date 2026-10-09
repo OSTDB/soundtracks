@@ -9513,6 +9513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Rosebud Condominium | 55505 | [55505-the-rosebud-condominium.json](./55505-the-rosebud-condominium.json) |
 | The Rosefinch Curse: Ning's Wing 1 | 31205 | [31205-the-rosefinch-curse-nings-wing-1.json](./31205-the-rosefinch-curse-nings-wing-1.json) |
 | The Rot Below | 386847 | [386847-the-rot-below.json](./386847-the-rot-below.json) |
+| The Rotting Man | 357208 | [357208-the-rotting-man.json](./357208-the-rotting-man.json) |
 | The Round-about Orchard | 386157 | [386157-the-round-about-orchard.json](./386157-the-round-about-orchard.json) |
 | The Route | 266320 | [266320-the-route.json](./266320-the-route.json) |
 | The Royal Finale | 313687 | [313687-the-royal-finale.json](./313687-the-royal-finale.json) |
@@ -15282,6 +15283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tongari Boushi to Mahou no Machi | 109053 | [109053-tongari-boushi-to-mahou-no-machi.json](./109053-tongari-boushi-to-mahou-no-machi.json) |
 | Tongari Boushi to Mahou no Omise | 109055 | [109055-tongari-boushi-to-mahou-no-omise.json](./109055-tongari-boushi-to-mahou-no-omise.json) |
 | Tongari Boushi to Oshare na Mahou Tsukai | 109054 | [109054-tongari-boushi-to-oshare-na-mahou-tsukai.json](./109054-tongari-boushi-to-oshare-na-mahou-tsukai.json) |
+| Tongits ZingPlay: Card Game | 357183 | [357183-tongits-zingplay-card-game.json](./357183-tongits-zingplay-card-game.json) |
 | TongTong | 340026 | [340026-tongtong.json](./340026-tongtong.json) |
 | Tongue of Dog | 355084 | [355084-tongue-of-dog.json](./355084-tongue-of-dog.json) |
 | Tongueman's Logic | 311704 | [311704-tonguemans-logic.json](./311704-tonguemans-logic.json) |
@@ -19738,6 +19740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twin Stick Heroes | 141875 | [141875-twin-stick-heroes.json](./141875-twin-stick-heroes.json) |
 | Twin Stick Tanks | 157075 | [157075-twin-stick-tanks.json](./157075-twin-stick-tanks.json) |
 | Twin Tornado | 363889 | [363889-twin-tornado.json](./363889-twin-tornado.json) |
+| Twin Trials | 357165 | [357165-twin-trials.json](./357165-twin-trials.json) |
 | Twin Turbo V8 | 13042 | [13042-twin-turbo-v8.json](./13042-twin-turbo-v8.json) |
 | Twin Unconscious | 229657 | [229657-twin-unconscious.json](./229657-twin-unconscious.json) |
 | Twin-Stick Survivors | 319090 | [319090-twin-stick-survivors.json](./319090-twin-stick-survivors.json) |
