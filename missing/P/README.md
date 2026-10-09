@@ -3765,6 +3765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pig Pen | 59881 | [59881-pig-pen.json](./59881-pig-pen.json) |
 | Pig Rush | 311193 | [311193-pig-rush.json](./311193-pig-rush.json) |
 | Pig Skater Simulator | 164990 | [164990-pig-skater-simulator.json](./164990-pig-skater-simulator.json) |
+| Pig vs Box | 368287 | [368287-pig-vs-box.json](./368287-pig-vs-box.json) |
 | Pig vs. Box | 366219 | [366219-pig-vs-box.json](./366219-pig-vs-box.json) |
 | Pigbert | 361766 | [361766-pigbert.json](./361766-pigbert.json) |
 | Pigebomb | 307228 | [307228-pigebomb.json](./307228-pigebomb.json) |
@@ -4189,6 +4190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinballtoon | 289299 | [289299-pinballtoon.json](./289299-pinballtoon.json) |
 | Pinbomb | 417419 | [417419-pinbomb.json](./417419-pinbomb.json) |
 | Pinbot | 295908 | [295908-pinbot.json](./295908-pinbot.json) |
+| PinBuilder | 368363 | [368363-pinbuilder.json](./368363-pinbuilder.json) |
 | Pinch | 66756 | [66756-pinch.json](./66756-pinch.json) |
 | Pinch 2 HD | 63320 | [63320-pinch-2-hd.json](./63320-pinch-2-hd.json) |
 | Pinch 2 HD: Special Edition | 63316 | [63316-pinch-2-hd-special-edition.json](./63316-pinch-2-hd-special-edition.json) |
@@ -5255,6 +5257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Placid Plastic Duck Simulator: Quacking the Ice | 236904 | [236904-placid-plastic-duck-simulator-quacking-the-ice.json](./236904-placid-plastic-duck-simulator-quacking-the-ice.json) |
 | Placid Plastic Duck VR | 338550 | [338550-placid-plastic-duck-vr.json](./338550-placid-plastic-duck-vr.json) |
 | Plague | 185680 | [185680-plague.json](./185680-plague.json) |
+| Plague Alchemist | 368291 | [368291-plague-alchemist.json](./368291-plague-alchemist.json) |
 | Plague Breaker | 155974 | [155974-plague-breaker.json](./155974-plague-breaker.json) |
 | Plague Doctor | 287790 | [287790-plague-doctor.json](./287790-plague-doctor.json) |
 | Plague Doctor and Panacea | 365211 | [365211-plague-doctor-and-panacea.json](./365211-plague-doctor-and-panacea.json) |
@@ -5813,6 +5816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Please Leave a Message | 259577 | [259577-please-leave-a-message.json](./259577-please-leave-a-message.json) |
 | Please Leave Me Alone | 301948 | [301948-please-leave-me-alone.json](./301948-please-leave-me-alone.json) |
 | Please Leave Me Alone, I Need to Poop | 291187 | [291187-please-leave-me-alone-i-need-to-poop.json](./291187-please-leave-me-alone-i-need-to-poop.json) |
+| Please Pay the Rent! | 368276 | [368276-please-pay-the-rent.json](./368276-please-pay-the-rent.json) |
 | Please Praise the SR Girls! | 419937 | [419937-please-praise-the-sr-girls.json](./419937-please-praise-the-sr-girls.json) |
 | Please Protect My Secret | 401890 | [401890-please-protect-my-secret.json](./401890-please-protect-my-secret.json) |
 | Please read me | 229789 | [229789-please-read-me.json](./229789-please-read-me.json) |
@@ -8483,6 +8487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Princess Rescue | 46886 | [46886-princess-rescue.json](./46886-princess-rescue.json) |
 | Princess RPG | 196814 | [196814-princess-rpg.json](./196814-princess-rpg.json) |
 | Princess Sahirah is a Spoiled Brat! | 46490 | [46490-princess-sahirah-is-a-spoiled-brat.json](./46490-princess-sahirah-is-a-spoiled-brat.json) |
+| Princess Shall Prevail | 368375 | [368375-princess-shall-prevail.json](./368375-princess-shall-prevail.json) |
 | Princess Solitaire | 176897 | [176897-princess-solitaire.json](./176897-princess-solitaire.json) |
 | Princess Strike! | 63347 | [63347-princess-strike.json](./63347-princess-strike.json) |
 | Princess Tomato in the Salad Kingdom | 48221 | [48221-princess-tomato-in-the-salad-kingdom.json](./48221-princess-tomato-in-the-salad-kingdom.json) |
@@ -9756,6 +9761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psionic Awake | 235376 | [235376-psionic-awake.json](./235376-psionic-awake.json) |
 | Psionic Sentry: Infinite | 276191 | [276191-psionic-sentry-infinite.json](./276191-psionic-sentry-infinite.json) |
 | Psiplex | 305981 | [305981-psiplex.json](./305981-psiplex.json) |
+| PsiSyn: The Game | 368381 | [368381-psisyn-the-game.json](./368381-psisyn-the-game.json) |
 | PSN Protector | 320978 | [320978-psn-protector.json](./320978-psn-protector.json) |
 | Psps Dream Mart | 394109 | [394109-psps-dream-mart.json](./394109-psps-dream-mart.json) |
 | PSS-61 | 263675 | [263675-pss-61.json](./263675-pss-61.json) |
