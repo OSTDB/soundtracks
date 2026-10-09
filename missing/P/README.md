@@ -1710,6 +1710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pastoral | 228688 | [228688-pastoral.json](./228688-pastoral.json) |
 | Pastoral | 395721 | [395721-pastoral.json](./395721-pastoral.json) |
 | PastoralPainting | 270078 | [270078-pastoralpainting.json](./270078-pastoralpainting.json) |
+| Pastry Cranker | 353788 | [353788-pastry-cranker.json](./353788-pastry-cranker.json) |
 | Pastry Lovers | 30029 | [30029-pastry-lovers.json](./30029-pastry-lovers.json) |
 | Pastry Wars | 91730 | [91730-pastry-wars.json](./91730-pastry-wars.json) |
 | Pasture Palette | 374251 | [374251-pasture-palette.json](./374251-pasture-palette.json) |
@@ -1770,6 +1771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Path of Heaven | 278142 | [278142-path-of-heaven.json](./278142-path-of-heaven.json) |
 | Path of Hero. Story of Dartes | 310216 | [310216-path-of-hero-story-of-dartes.json](./310216-path-of-hero-story-of-dartes.json) |
 | Path of Immortals | 194027 | [194027-path-of-immortals.json](./194027-path-of-immortals.json) |
+| Path of Mystery: A Brush with Death | 353783 | [353783-path-of-mystery-a-brush-with-death.json](./353783-path-of-mystery-a-brush-with-death.json) |
 | Path of Shadows | 184949 | [184949-path-of-shadows.json](./184949-path-of-shadows.json) |
 | Path of Sin: Greed | 107734 | [107734-path-of-sin-greed.json](./107734-path-of-sin-greed.json) |
 | Path of Survival | 412274 | [412274-path-of-survival.json](./412274-path-of-survival.json) |
@@ -4096,6 +4098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball Breakout 2 | 112114 | [112114-pinball-breakout-2.json](./112114-pinball-breakout-2.json) |
 | Pinball Breeze | 354432 | [354432-pinball-breeze.json](./354432-pinball-breeze.json) |
 | Pinball Challenge Deluxe | 49361 | [49361-pinball-challenge-deluxe.json](./49361-pinball-challenge-deluxe.json) |
+| Pinball Crush | 353810 | [353810-pinball-crush.json](./353810-pinball-crush.json) |
 | Pinball Crystal Caliburn II | 103573 | [103573-pinball-crystal-caliburn-ii.json](./103573-pinball-crystal-caliburn-ii.json) |
 | Pinball Deluxe | 209958 | [209958-pinball-deluxe.json](./209958-pinball-deluxe.json) |
 | Pinball Deluxe | 260802 | [260802-pinball-deluxe.json](./260802-pinball-deluxe.json) |
@@ -10428,6 +10431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Purr Bricks | 396012 | [396012-purr-bricks.json](./396012-purr-bricks.json) |
 | Purr Pals Purrfection | 209375 | [209375-purr-pals-purrfection.json](./209375-purr-pals-purrfection.json) |
 | Purranoia | 385218 | [385218-purranoia.json](./385218-purranoia.json) |
+| Purrates | 353799 | [353799-purrates.json](./353799-purrates.json) |
 | Purrdy's Race | 335111 | [335111-purrdys-race.json](./335111-purrdys-race.json) |
 | Purrfect Alchemy | 337808 | [337808-purrfect-alchemy.json](./337808-purrfect-alchemy.json) |
 | Purrfect Apawcalypse: Ideal Finale!!! | 304124 | [304124-purrfect-apawcalypse-ideal-finale.json](./304124-purrfect-apawcalypse-ideal-finale.json) |
