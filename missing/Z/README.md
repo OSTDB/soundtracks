@@ -529,6 +529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zero Zero | 130361 | [130361-zero-zero.json](./130361-zero-zero.json) |
 | Zero Zero: Perfect Stop | 314997 | [314997-zero-zero-perfect-stop.json](./314997-zero-zero-perfect-stop.json) |
 | Zero Zone | 94692 | [94692-zero-zone.json](./94692-zero-zone.json) |
+| Zero-5 | 381933 | [381933-zero-5.json](./381933-zero-5.json) |
 | Zero-G MMO | 396231 | [396231-zero-g-mmo.json](./396231-zero-g-mmo.json) |
 | Zero-G Revolution | 151124 | [151124-zero-g-revolution.json](./151124-zero-g-revolution.json) |
 | Zero: Circle of Flow | 145579 | [145579-zero-circle-of-flow.json](./145579-zero-circle-of-flow.json) |
@@ -1246,6 +1247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zoo Tycoon 2: Arabian Nights | 378442 | [378442-zoo-tycoon-2-arabian-nights.json](./378442-zoo-tycoon-2-arabian-nights.json) |
 | Zoo Tycoon 2: Endangered Species | 79604 | [79604-zoo-tycoon-2-endangered-species.json](./79604-zoo-tycoon-2-endangered-species.json) |
 | Zoo Tycoon 2: Marine Mania | 100132 | [100132-zoo-tycoon-2-marine-mania.json](./100132-zoo-tycoon-2-marine-mania.json) |
+| Zoo Tycoon 2: Paranoia! | 381976 | [381976-zoo-tycoon-2-paranoia.json](./381976-zoo-tycoon-2-paranoia.json) |
 | Zoo Tycoon 2032 | 176848 | [176848-zoo-tycoon-2032.json](./176848-zoo-tycoon-2032.json) |
 | Zoo Tycoon DS | 18598 | [18598-zoo-tycoon-ds.json](./18598-zoo-tycoon-ds.json) |
 | Zoo Tycoon: Dinosaur Digs | 27807 | [27807-zoo-tycoon-dinosaur-digs.json](./27807-zoo-tycoon-dinosaur-digs.json) |
