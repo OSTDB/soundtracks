@@ -611,6 +611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallen Cage | 326055 | [326055-fallen-cage.json](./326055-fallen-cage.json) |
 | Fallen Cube | 48006 | [48006-fallen-cube.json](./48006-fallen-cube.json) |
 | Fallen Deities | 316654 | [316654-fallen-deities.json](./316654-fallen-deities.json) |
+| Fallen Depths | 336501 | [336501-fallen-depths.json](./336501-fallen-depths.json) |
 | Fallen Devotion | 333964 | [333964-fallen-devotion.json](./333964-fallen-devotion.json) |
 | Fallen Echo | 311501 | [311501-fallen-echo.json](./311501-fallen-echo.json) |
 | Fallen Emiya | 106544 | [106544-fallen-emiya.json](./106544-fallen-emiya.json) |
@@ -1142,6 +1143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Cascade: Episode 1 - Overspill | 218166 | [218166-fantasy-cascade-episode-1-overspill.json](./218166-fantasy-cascade-episode-1-overspill.json) |
 | Fantasy Clash | 283847 | [283847-fantasy-clash.json](./283847-fantasy-clash.json) |
 | Fantasy Clash | 54738 | [54738-fantasy-clash.json](./54738-fantasy-clash.json) |
+| Fantasy Clicker | 336642 | [336642-fantasy-clicker.json](./336642-fantasy-clicker.json) |
 | Fantasy Clicker of Cute Cocoa | 197748 | [197748-fantasy-clicker-of-cute-cocoa.json](./197748-fantasy-clicker-of-cute-cocoa.json) |
 | Fantasy Climber: Fun Adventure | 213322 | [213322-fantasy-climber-fun-adventure.json](./213322-fantasy-climber-fun-adventure.json) |
 | Fantasy Conquest Tactics | 25559 | [25559-fantasy-conquest-tactics.json](./25559-fantasy-conquest-tactics.json) |
@@ -6841,6 +6843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Free Bees | 224245 | [224245-free-bees.json](./224245-free-bees.json) |
 | Free Birds: Baby Turkey Trouble | 227825 | [227825-free-birds-baby-turkey-trouble.json](./227825-free-birds-baby-turkey-trouble.json) |
 | Free Bowling 3D | 68507 | [68507-free-bowling-3d.json](./68507-free-bowling-3d.json) |
+| Free Chess: Brutalist Set | 336482 | [336482-free-chess-brutalist-set.json](./336482-free-chess-brutalist-set.json) |
 | Free Chess: Cheese Set | 305534 | [305534-free-chess-cheese-set.json](./305534-free-chess-cheese-set.json) |
 | Free Chess: Lewis Set | 335500 | [335500-free-chess-lewis-set.json](./335500-free-chess-lewis-set.json) |
 | Free Chess: Primitives Set | 310390 | [310390-free-chess-primitives-set.json](./310390-free-chess-primitives-set.json) |
