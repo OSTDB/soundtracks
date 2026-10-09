@@ -2043,6 +2043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle: Daybreak | 166166 | [166166-castle-daybreak.json](./166166-castle-daybreak.json) |
 | Castle: Never Judge a Book by its Cover | 17407 | [17407-castle-never-judge-a-book-by-its-cover.json](./17407-castle-never-judge-a-book-by-its-cover.json) |
 | Castle's Adventure | 245542 | [245542-castles-adventure.json](./245542-castles-adventure.json) |
+| Castlebound | 335841 | [335841-castlebound.json](./335841-castlebound.json) |
 | CastleBoy | 144370 | [144370-castleboy.json](./144370-castleboy.json) |
 | Castleclysm TD | 200066 | [200066-castleclysm-td.json](./200066-castleclysm-td.json) |
 | CastleClysmic | 179153 | [179153-castleclysmic.json](./179153-castleclysmic.json) |
@@ -3147,6 +3148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chained Survive Together | 320375 | [320375-chained-survive-together.json](./320375-chained-survive-together.json) |
 | Chained Through Hell | 324983 | [324983-chained-through-hell.json](./324983-chained-through-hell.json) |
 | Chained Together | 265111 | [265111-chained-together.json](./265111-chained-together.json) |
+| Chained Up Together | 335967 | [335967-chained-up-together.json](./335967-chained-up-together.json) |
 | Chained Wheels | 386507 | [386507-chained-wheels.json](./386507-chained-wheels.json) |
 | Chainer | 350062 | [350062-chainer.json](./350062-chainer.json) |
 | Chainers | 393551 | [393551-chainers.json](./393551-chainers.json) |
@@ -8011,6 +8013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Console Colour: Disney's Planes | 407308 | [407308-console-colour-disneys-planes.json](./407308-console-colour-disneys-planes.json) |
 | Console Info: 2010 Edition | 91399 | [91399-console-info-2010-edition.json](./91399-console-info-2010-edition.json) |
 | Console Store Simulator | 391748 | [391748-console-store-simulator.json](./391748-console-store-simulator.json) |
+| Console Tycoon | 335813 | [335813-console-tycoon.json](./335813-console-tycoon.json) |
 | Console War Giant | 380762 | [380762-console-war-giant.json](./380762-console-war-giant.json) |
 | Console War Giant | 407313 | [407313-console-war-giant.json](./407313-console-war-giant.json) |
 | Consonance | 374596 | [374596-consonance.json](./374596-consonance.json) |
@@ -10498,6 +10501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crossing Acheron | 354427 | [354427-crossing-acheron.json](./354427-crossing-acheron.json) |
 | Crossing Brothel: Tales of an Interspecies Bordello | 82839 | [82839-crossing-brothel-tales-of-an-interspecies-bordello.json](./82839-crossing-brothel-tales-of-an-interspecies-bordello.json) |
 | Crossing Chains | 380635 | [380635-crossing-chains.json](./380635-crossing-chains.json) |
+| Crossing Chaos: Crazy Highway Traffic | 335966 | [335966-crossing-chaos-crazy-highway-traffic.json](./335966-crossing-chaos-crazy-highway-traffic.json) |
 | Crossing Damaged Bridge | 250944 | [250944-crossing-damaged-bridge.json](./250944-crossing-damaged-bridge.json) |
 | Crossing Dungeon | 149930 | [149930-crossing-dungeon.json](./149930-crossing-dungeon.json) |
 | Crossing Frontier: Fate Foretold | 275096 | [275096-crossing-frontier-fate-foretold.json](./275096-crossing-frontier-fate-foretold.json) |
