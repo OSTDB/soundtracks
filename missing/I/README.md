@@ -795,6 +795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Asteroids | 419194 | [419194-idle-asteroids.json](./419194-idle-asteroids.json) |
 | Idle Awakening: Mages Path | 346654 | [346654-idle-awakening-mages-path.json](./346654-idle-awakening-mages-path.json) |
 | Idle Awards 2 | 101701 | [101701-idle-awards-2.json](./101701-idle-awards-2.json) |
+| Idle Badger | 378007 | [378007-idle-badger.json](./378007-idle-badger.json) |
 | Idle Baker Boss | 211163 | [211163-idle-baker-boss.json](./211163-idle-baker-boss.json) |
 | Idle Balls | 87047 | [87047-idle-balls.json](./87047-idle-balls.json) |
 | Idle Bank | 193987 | [193987-idle-bank.json](./193987-idle-bank.json) |
@@ -1576,6 +1577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Imperi | 75791 | [75791-imperi.json](./75791-imperi.json) |
 | Imperi II | 100591 | [100591-imperi-ii.json](./100591-imperi-ii.json) |
 | Imperial Arms: Curse of the Conqueror | 188452 | [188452-imperial-arms-curse-of-the-conqueror.json](./188452-imperial-arms-curse-of-the-conqueror.json) |
+| Imperial Bureaucracy Hero | 377963 | [377963-imperial-bureaucracy-hero.json](./377963-imperial-bureaucracy-hero.json) |
 | Imperial Destiny: Path of Gold | 231939 | [231939-imperial-destiny-path-of-gold.json](./231939-imperial-destiny-path-of-gold.json) |
 | Imperial Glory | 9059 | [9059-imperial-glory.json](./9059-imperial-glory.json) |
 | Imperial Grace | 159717 | [159717-imperial-grace.json](./159717-imperial-grace.json) |
@@ -2037,6 +2039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Indoor Gardening Create Your Own Home Garden | 328515 | [328515-indoor-gardening-create-your-own-home-garden.json](./328515-indoor-gardening-create-your-own-home-garden.json) |
 | Indoor Haul | 311070 | [311070-indoor-haul.json](./311070-indoor-haul.json) |
 | Indoor Rock Climbing VR | 81757 | [81757-indoor-rock-climbing-vr.json](./81757-indoor-rock-climbing-vr.json) |
+| Indoor Soccer | 377951 | [377951-indoor-soccer.json](./377951-indoor-soccer.json) |
 | Indoor Soccer | 39839 | [39839-indoor-soccer.json](./39839-indoor-soccer.json) |
 | Indoor Soccer for the TI 99/4A | 93990 | [93990-indoor-soccer-for-the-ti-99-4a.json](./93990-indoor-soccer-for-the-ti-99-4a.json) |
 | Indoor Sports World | 52246 | [52246-indoor-sports-world.json](./52246-indoor-sports-world.json) |
@@ -2758,6 +2761,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inside: Before Birth | 33645 | [33645-inside-before-birth.json](./33645-inside-before-birth.json) |
 | Insider Tales: The Stolen Venus 2 | 202114 | [202114-insider-tales-the-stolen-venus-2.json](./202114-insider-tales-the-stolen-venus-2.json) |
 | Insiders | 155024 | [155024-insiders.json](./155024-insiders.json) |
+| Insiders | 377952 | [377952-insiders.json](./377952-insiders.json) |
+| Insiders 2: Eve ga Inai | 377953 | [377953-insiders-2-eve-ga-inai.json](./377953-insiders-2-eve-ga-inai.json) |
 | Insight | 302670 | [302670-insight.json](./302670-insight.json) |
 | InSight | 302955 | [302955-insight.json](./302955-insight.json) |
 | Insignia | 152232 | [152232-insignia.json](./152232-insignia.json) |
