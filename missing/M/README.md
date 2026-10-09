@@ -1049,6 +1049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magnavale: Eternal Soul | 385270 | [385270-magnavale-eternal-soul.json](./385270-magnavale-eternal-soul.json) |
 | Magnavody | 277610 | [277610-magnavody.json](./277610-magnavody.json) |
 | Magneboy | 299834 | [299834-magneboy.json](./299834-magneboy.json) |
+| Magnecube | 367757 | [367757-magnecube.json](./367757-magnecube.json) |
 | Magnery Reign | 156580 | [156580-magnery-reign.json](./156580-magnery-reign.json) |
 | Magnet Action: Zi | 147890 | [147890-magnet-action-zi.json](./147890-magnet-action-zi.json) |
 | Magnet Effect | 214010 | [214010-magnet-effect.json](./214010-magnet-effect.json) |
@@ -2221,6 +2222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Bros. | 193281 | [193281-mario-bros.json](./193281-mario-bros.json) |
 | Mario Bros. | 257638 | [257638-mario-bros.json](./257638-mario-bros.json) |
 | Mario Bros. | 3105 | [3105-mario-bros.json](./3105-mario-bros.json) |
+| Mario Bros. | 367845 | [367845-mario-bros.json](./367845-mario-bros.json) |
 | Mario Bros. Mayhem | 413896 | [413896-mario-bros-mayhem.json](./413896-mario-bros-mayhem.json) |
 | Mario Bros. Special | 132049 | [132049-mario-bros-special.json](./132049-mario-bros-special.json) |
 | Mario Bros. VB | 231513 | [231513-mario-bros-vb.json](./231513-mario-bros-vb.json) |
@@ -6552,6 +6554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Crimes | 304142 | [304142-midnight-crimes.json](./304142-midnight-crimes.json) |
 | Midnight Cruise | 296377 | [296377-midnight-cruise.json](./296377-midnight-cruise.json) |
 | Midnight Cycle in Muxi Town | 249734 | [249734-midnight-cycle-in-muxi-town.json](./249734-midnight-cycle-in-muxi-town.json) |
+| Midnight Date Unleashed | 367765 | [367765-midnight-date-unleashed.json](./367765-midnight-date-unleashed.json) |
 | Midnight Dice | 323788 | [323788-midnight-dice.json](./323788-midnight-dice.json) |
 | Midnight Dreams | 255242 | [255242-midnight-dreams.json](./255242-midnight-dreams.json) |
 | Midnight Drifter | 240222 | [240222-midnight-drifter.json](./240222-midnight-drifter.json) |
