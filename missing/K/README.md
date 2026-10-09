@@ -185,6 +185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaitou Saint Tail: Saint Tail to One, Two, Three! | 283817 | [283817-kaitou-saint-tail-saint-tail-to-one-two-three.json](./283817-kaitou-saint-tail-saint-tail-to-one-two-three.json) |
 | Kaitou Tantei Blonde Lady | 236834 | [236834-kaitou-tantei-blonde-lady.json](./236834-kaitou-tantei-blonde-lady.json) |
 | Kaitou Tenshi Twin Angel: Toki to Sekai no Meikyuu | 56774 | [56774-kaitou-tenshi-twin-angel-toki-to-sekai-no-meikyuu.json](./56774-kaitou-tenshi-twin-angel-toki-to-sekai-no-meikyuu.json) |
+| Kaitouranma Miyabi | 339314 | [339314-kaitouranma-miyabi.json](./339314-kaitouranma-miyabi.json) |
 | Kaiv | 23874 | [23874-kaiv.json](./23874-kaiv.json) |
 | Kaiwa | 290681 | [290681-kaiwa.json](./290681-kaiwa.json) |
 | Kaiyo's Castle | 347182 | [347182-kaiyos-castle.json](./347182-kaiyos-castle.json) |
@@ -2665,6 +2666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knight Lolita | 303615 | [303615-knight-lolita.json](./303615-knight-lolita.json) |
 | Knight Lore | 309338 | [309338-knight-lore.json](./309338-knight-lore.json) |
 | Knight Maker | 175741 | [175741-knight-maker.json](./175741-knight-maker.json) |
+| Knight Move | 339229 | [339229-knight-move.json](./339229-knight-move.json) |
 | Knight Move | 41270 | [41270-knight-move.json](./41270-knight-move.json) |
 | Knight of Exile | 171421 | [171421-knight-of-exile.json](./171421-knight-of-exile.json) |
 | Knight of Legends | 199986 | [199986-knight-of-legends.json](./199986-knight-of-legends.json) |
