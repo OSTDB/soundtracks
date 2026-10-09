@@ -1751,6 +1751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We Need an Army | 363952 | [363952-we-need-an-army.json](./363952-we-need-an-army.json) |
 | We Need More Steam! | 282221 | [282221-we-need-more-steam.json](./282221-we-need-more-steam.json) |
 | We Need the Sun | 185610 | [185610-we-need-the-sun.json](./185610-we-need-the-sun.json) |
+| We Need To Go Deeper: Complete Edition | 367309 | [367309-we-need-to-go-deeper-complete-edition.json](./367309-we-need-to-go-deeper-complete-edition.json) |
 | We Need to Go Deeper: The Atomique | 174156 | [174156-we-need-to-go-deeper-the-atomique.json](./174156-we-need-to-go-deeper-the-atomique.json) |
 | We Never Left | 392241 | [392241-we-never-left.json](./392241-we-never-left.json) |
 | We Pretend | 410338 | [410338-we-pretend.json](./410338-we-pretend.json) |
