@@ -1108,6 +1108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Walking: VIP | 95827 | [95827-zombie-walking-vip.json](./95827-zombie-walking-vip.json) |
 | Zombie War | 187378 | [187378-zombie-war.json](./187378-zombie-war.json) |
 | Zombie War | 411138 | [411138-zombie-war.json](./411138-zombie-war.json) |
+| Zombie Warrior Man | 349890 | [349890-zombie-warrior-man.json](./349890-zombie-warrior-man.json) |
 | Zombie Wars | 151263 | [151263-zombie-wars.json](./151263-zombie-wars.json) |
 | Zombie Warz | 238459 | [238459-zombie-warz.json](./238459-zombie-warz.json) |
 | Zombie Watch Part II | 241629 | [241629-zombie-watch-part-ii.json](./241629-zombie-watch-part-ii.json) |
