@@ -597,6 +597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Natural Selection | 23759 | [23759-natural-selection.json](./23759-natural-selection.json) |
 | Natural Selection 2 | 1335 | [1335-natural-selection-2.json](./1335-natural-selection-2.json) |
 | Natural Selection 2 - Deluxe DLC | 93808 | [93808-natural-selection-2-deluxe-dlc.json](./93808-natural-selection-2-deluxe-dlc.json) |
+| Natural Selection University | 335390 | [335390-natural-selection-university.json](./335390-natural-selection-university.json) |
 | Natural Threat 2 | 53401 | [53401-natural-threat-2.json](./53401-natural-threat-2.json) |
 | Natural Threat: Ominous Shores | 54248 | [54248-natural-threat-ominous-shores.json](./54248-natural-threat-ominous-shores.json) |
 | Natural Unintelligence: Zueirama 2 | 345042 | [345042-natural-unintelligence-zueirama-2.json](./345042-natural-unintelligence-zueirama-2.json) |
@@ -1689,6 +1690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nerts!: Online | 142226 | [142226-nerts-online.json](./142226-nerts-online.json) |
 | Nertz Solitaire | 405645 | [405645-nertz-solitaire.json](./405645-nertz-solitaire.json) |
 | Nerus | 141125 | [141125-nerus.json](./141125-nerus.json) |
+| Nerve | 335376 | [335376-nerve.json](./335376-nerve.json) |
 | Nerve - Do You Dare? | 122914 | [122914-nerve-do-you-dare.json](./122914-nerve-do-you-dare.json) |
 | Nerve Me | 125833 | [125833-nerve-me.json](./125833-nerve-me.json) |
 | Nerved | 105226 | [105226-nerved.json](./105226-nerved.json) |
