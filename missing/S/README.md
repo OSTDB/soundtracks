@@ -6494,6 +6494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simon the Sorcerer 4: Chaos Happens | 462 | [462-simon-the-sorcerer-4-chaos-happens.json](./462-simon-the-sorcerer-4-chaos-happens.json) |
 | Simon the Sorcerer 5: Who'd Even Want Contact?! | 463 | [463-simon-the-sorcerer-5-whod-even-want-contact.json](./463-simon-the-sorcerer-5-whod-even-want-contact.json) |
 | Simon the Sorcerer II: The Lion, the Wizard and the Wardrobe | 460 | [460-simon-the-sorcerer-ii-the-lion-the-wizard-and-the-wardrobe.json](./460-simon-the-sorcerer-ii-the-lion-the-wizard-and-the-wardrobe.json) |
+| Simon the Sorcerer: Origins - Digital Deluxe Edition | 365551 | [365551-simon-the-sorcerer-origins-digital-deluxe-edition.json](./365551-simon-the-sorcerer-origins-digital-deluxe-edition.json) |
 | Simon the Sorcerer's Puzzle Pack | 77254 | [77254-simon-the-sorcerers-puzzle-pack.json](./77254-simon-the-sorcerers-puzzle-pack.json) |
 | Simon: The Memory Game | 227848 | [227848-simon-the-memory-game.json](./227848-simon-the-memory-game.json) |
 | Simon's Cat Dash | 87001 | [87001-simons-cat-dash.json](./87001-simons-cat-dash.json) |
