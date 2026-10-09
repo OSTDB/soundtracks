@@ -1740,6 +1740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Path of Exile 2 | 125642 | [125642-path-of-exile-2.json](./125642-path-of-exile-2.json) |
 | Path of Exile 2: Runes of Aldur | 403535 | [403535-path-of-exile-2-runes-of-aldur.json](./403535-path-of-exile-2-runes-of-aldur.json) |
 | Path of Exile 2: The Last of the Druids | 378276 | [378276-path-of-exile-2-the-last-of-the-druids.json](./378276-path-of-exile-2-the-last-of-the-druids.json) |
+| Path of Exile 2: The Third Edict | 380175 | [380175-path-of-exile-2-the-third-edict.json](./380175-path-of-exile-2-the-third-edict.json) |
 | Path of Exile: Echoes of the Atlas | 142400 | [142400-path-of-exile-echoes-of-the-atlas.json](./142400-path-of-exile-echoes-of-the-atlas.json) |
 | Path of Exile: Forbidden Sanctum | 228596 | [228596-path-of-exile-forbidden-sanctum.json](./228596-path-of-exile-forbidden-sanctum.json) |
 | Path of Exile: King of the Faridun Supporter Pack | 332030 | [332030-path-of-exile-king-of-the-faridun-supporter-pack.json](./332030-path-of-exile-king-of-the-faridun-supporter-pack.json) |
@@ -2228,6 +2229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peasant or Rebel? | 390071 | [390071-peasant-or-rebel.json](./390071-peasant-or-rebel.json) |
 | Peasant TD | 195158 | [195158-peasant-td.json](./195158-peasant-td.json) |
 | Peasants | 156594 | [156594-peasants.json](./156594-peasants.json) |
+| Peasants War | 380187 | [380187-peasants-war.json](./380187-peasants-war.json) |
 | Pebble | 188610 | [188610-pebble.json](./188610-pebble.json) |
 | Pebble Beach Golf Links | 4273 | [4273-pebble-beach-golf-links.json](./4273-pebble-beach-golf-links.json) |
 | Pebble Knights | 347758 | [347758-pebble-knights.json](./347758-pebble-knights.json) |
@@ -7970,6 +7972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PP Puncher | 158084 | [158084-pp-puncher.json](./158084-pp-puncher.json) |
 | PP: Pathetic Predator | 364479 | [364479-pp-pathetic-predator.json](./364479-pp-pathetic-predator.json) |
 | PPA Pickleball Tour 2025 | 309005 | [309005-ppa-pickleball-tour-2025.json](./309005-ppa-pickleball-tour-2025.json) |
+| PPD | 380180 | [380180-ppd.json](./380180-ppd.json) |
 | Ppoi: Hitonatsu no Keiken | 203373 | [203373-ppoi-hitonatsu-no-keiken.json](./203373-ppoi-hitonatsu-no-keiken.json) |
 | PPP | 259093 | [259093-ppp.json](./259093-ppp.json) |
 | PQ: Practical Intelligence Quotient | 46019 | [46019-pq-practical-intelligence-quotient.json](./46019-pq-practical-intelligence-quotient.json) |
@@ -8406,6 +8409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Princess Miyumi and The Necro's Dungeon | 183570 | [183570-princess-miyumi-and-the-necros-dungeon.json](./183570-princess-miyumi-and-the-necros-dungeon.json) |
 | Princess Nightmare | 72674 | [72674-princess-nightmare.json](./72674-princess-nightmare.json) |
 | Princess Nom Nom | 261999 | [261999-princess-nom-nom.json](./261999-princess-nom-nom.json) |
+| Princess of Frozen Flowers | 380223 | [380223-princess-of-frozen-flowers.json](./380223-princess-of-frozen-flowers.json) |
 | Princess of Mekana | 245816 | [245816-princess-of-mekana.json](./245816-princess-of-mekana.json) |
 | Princess of Seas | 201702 | [201702-princess-of-seas.json](./201702-princess-of-seas.json) |
 | Princess of Tavern | 140320 | [140320-princess-of-tavern.json](./140320-princess-of-tavern.json) |
@@ -10152,6 +10156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pure Hentai: Gallery | 385082 | [385082-pure-hentai-gallery.json](./385082-pure-hentai-gallery.json) |
 | Pure Hentai: Moments | 385081 | [385081-pure-hentai-moments.json](./385081-pure-hentai-moments.json) |
 | Pure Hentai: Paradise | 380699 | [380699-pure-hentai-paradise.json](./380699-pure-hentai-paradise.json) |
+| Pure Hentai: Vision | 380190 | [380190-pure-hentai-vision.json](./380190-pure-hentai-vision.json) |
 | Pure Hold 'Em World Poker Championships | 201056 | [201056-pure-hold-em-world-poker-championships.json](./201056-pure-hold-em-world-poker-championships.json) |
 | Pure Hold'em | 17840 | [17840-pure-holdem.json](./17840-pure-holdem.json) |
 | Pure Hold'em: Full House Poker Bundle | 90984 | [90984-pure-holdem-full-house-poker-bundle.json](./90984-pure-holdem-full-house-poker-bundle.json) |
