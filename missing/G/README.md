@@ -747,6 +747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game in Game in Game | 259511 | [259511-game-in-game-in-game.json](./259511-game-in-game-in-game.json) |
 | Game Inside a Game | 178475 | [178475-game-inside-a-game.json](./178475-game-inside-a-game.json) |
 | Game Jam Jam Game | 128607 | [128607-game-jam-jam-game.json](./128607-game-jam-jam-game.json) |
+| Game Kids: Baseball Bash | 334631 | [334631-game-kids-baseball-bash.json](./334631-game-kids-baseball-bash.json) |
 | Game Machine 2 | 346762 | [346762-game-machine-2.json](./346762-game-machine-2.json) |
 | Game Machines: Arcade Casino | 74121 | [74121-game-machines-arcade-casino.json](./74121-game-machines-arcade-casino.json) |
 | Game Night | 406175 | [406175-game-night.json](./406175-game-night.json) |
@@ -4764,6 +4765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grandma's Kitchen | 264007 | [264007-grandmas-kitchen.json](./264007-grandmas-kitchen.json) |
 | Grandma's Little Store | 379046 | [379046-grandmas-little-store.json](./379046-grandmas-little-store.json) |
 | Grandma(88) | 260251 | [260251-grandma-88.json](./260251-grandma-88.json) |
+| Grandman's Unbearable Existence | 334730 | [334730-grandmans-unbearable-existence.json](./334730-grandmans-unbearable-existence.json) |
 | Grandmaster Chess | 14493 | [14493-grandmaster-chess.json](./14493-grandmaster-chess.json) |
 | Grandmaster Chess | 166075 | [166075-grandmaster-chess.json](./166075-grandmaster-chess.json) |
 | Grandmaster's Revenge | 215355 | [215355-grandmasters-revenge.json](./215355-grandmasters-revenge.json) |
