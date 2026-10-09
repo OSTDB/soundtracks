@@ -2520,6 +2520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Li'l Red | 272357 | [272357-lil-red.json](./272357-lil-red.json) |
 | Li'l Rumble | 284353 | [284353-lil-rumble.json](./284353-lil-rumble.json) |
 | Li'l Taffer | 323377 | [323377-lil-taffer.json](./323377-lil-taffer.json) |
+| Liam and the Disaster of the Week | 362205 | [362205-liam-and-the-disaster-of-the-week.json](./362205-liam-and-the-disaster-of-the-week.json) |
 | Liam FitzRoy Kills Everyone: The Game Part Zero | 278746 | [278746-liam-fitzroy-kills-everyone-the-game-part-zero.json](./278746-liam-fitzroy-kills-everyone-the-game-part-zero.json) |
 | Liam's Journey | 211686 | [211686-liams-journey.json](./211686-liams-journey.json) |
 | Lián Yīxiē Xiǎo Qīngxīn de Lièqí Gùshì | 128313 | [128313-lian-yixie-xiao-qingxin-de-lieqi-gushi.json](./128313-lian-yixie-xiao-qingxin-de-lieqi-gushi.json) |
