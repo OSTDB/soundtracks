@@ -1206,6 +1206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warrior Paint: 2005 GOTY Edition | 231309 | [231309-warrior-paint-2005-goty-edition.json](./231309-warrior-paint-2005-goty-edition.json) |
 | Warrior Quest | 412378 | [412378-warrior-quest.json](./412378-warrior-quest.json) |
 | Warrior Souls | 211106 | [211106-warrior-souls.json](./211106-warrior-souls.json) |
+| Warrior Survivor | 362190 | [362190-warrior-survivor.json](./362190-warrior-survivor.json) |
 | Warrior's Dilemma | 360636 | [360636-warriors-dilemma.json](./360636-warriors-dilemma.json) |
 | Warrior's Reward | 370710 | [370710-warriors-reward.json](./370710-warriors-reward.json) |
 | Warriorlock | 180093 | [180093-warriorlock.json](./180093-warriorlock.json) |
