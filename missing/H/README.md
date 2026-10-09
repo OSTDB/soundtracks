@@ -1354,6 +1354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harvest Hands | 125419 | [125419-harvest-hands.json](./125419-harvest-hands.json) |
 | Harvest Hustlers | 302363 | [302363-harvest-hustlers.json](./302363-harvest-hustlers.json) |
 | Harvest Island: Beginnings | 159878 | [159878-harvest-island-beginnings.json](./159878-harvest-island-beginnings.json) |
+| Harvest Island: Ending Expansion | 358240 | [358240-harvest-island-ending-expansion.json](./358240-harvest-island-ending-expansion.json) |
 | Harvest Knight | 276840 | [276840-harvest-knight.json](./276840-harvest-knight.json) |
 | Harvest Land | 101485 | [101485-harvest-land.json](./101485-harvest-land.json) |
 | Harvest Life + Castaway Paradise | 247494 | [247494-harvest-life-castaway-paradise.json](./247494-harvest-life-castaway-paradise.json) |
@@ -2507,6 +2508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hellbound | 360769 | [360769-hellbound.json](./360769-hellbound.json) |
 | Hellbound | 385390 | [385390-hellbound.json](./385390-hellbound.json) |
 | Hellbound | 76037 | [76037-hellbound.json](./76037-hellbound.json) |
+| Hellbound, Inc. | 358272 | [358272-hellbound-inc.json](./358272-hellbound-inc.json) |
 | Hellbound: the Awakening | 130118 | [130118-hellbound-the-awakening.json](./130118-hellbound-the-awakening.json) |
 | Hellboy: Dogs of the Night | 51441 | [51441-hellboy-dogs-of-the-night.json](./51441-hellboy-dogs-of-the-night.json) |
 | Hellboy: The Science of Evil | 7007 | [7007-hellboy-the-science-of-evil.json](./7007-hellboy-the-science-of-evil.json) |
@@ -5794,6 +5796,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hope We'll Still be Friends Tomorrow | 410251 | [410251-hope-well-still-be-friends-tomorrow.json](./410251-hope-well-still-be-friends-tomorrow.json) |
 | Hope: A Sky Full of Ghosts | 317312 | [317312-hope-a-sky-full-of-ghosts.json](./317312-hope-a-sky-full-of-ghosts.json) |
 | Hope: The Other Side of Adventure | 192900 | [192900-hope-the-other-side-of-adventure.json](./192900-hope-the-other-side-of-adventure.json) |
+| Hope: Unlived Life | 358246 | [358246-hope-unlived-life.json](./358246-hope-unlived-life.json) |
+| Hope: Winter Tale | 358247 | [358247-hope-winter-tale.json](./358247-hope-winter-tale.json) |
 | Hope's End | 238519 | [238519-hopes-end.json](./238519-hopes-end.json) |
 | Hope's Farm | 127000 | [127000-hopes-farm.json](./127000-hopes-farm.json) |
 | Hope's Journey: A Therapeutic Experience | 158570 | [158570-hopes-journey-a-therapeutic-experience.json](./158570-hopes-journey-a-therapeutic-experience.json) |
