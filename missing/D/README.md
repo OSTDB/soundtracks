@@ -2761,6 +2761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deathrun | 276214 | [276214-deathrun.json](./276214-deathrun.json) |
 | Deathrun Guys | 215176 | [215176-deathrun-guys.json](./215176-deathrun-guys.json) |
 | Deathrun TV | 152284 | [152284-deathrun-tv.json](./152284-deathrun-tv.json) |
+| Deaths Dawn | 380764 | [380764-deaths-dawn.json](./380764-deaths-dawn.json) |
 | Deaths of Peck | 398425 | [398425-deaths-of-peck.json](./398425-deaths-of-peck.json) |
 | Deathsmashers 4 | 185558 | [185558-deathsmashers-4.json](./185558-deathsmashers-4.json) |
 | Deathsmiles | 6963 | [6963-deathsmiles.json](./6963-deathsmiles.json) |
@@ -3052,6 +3053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Sky Derelicts | 54793 | [54793-deep-sky-derelicts.json](./54793-deep-sky-derelicts.json) |
 | Deep Sky Derelicts: Station Life | 154419 | [154419-deep-sky-derelicts-station-life.json](./154419-deep-sky-derelicts-station-life.json) |
 | Deep Sleep | 185125 | [185125-deep-sleep.json](./185125-deep-sleep.json) |
+| Deep Sleep | 380751 | [380751-deep-sleep.json](./380751-deep-sleep.json) |
 | Deep Sleep Trilogy | 123695 | [123695-deep-sleep-trilogy.json](./123695-deep-sleep-trilogy.json) |
 | Deep Snow Delivery | 320396 | [320396-deep-snow-delivery.json](./320396-deep-snow-delivery.json) |
 | Deep Soup | 406707 | [406707-deep-soup.json](./406707-deep-soup.json) |
@@ -10762,6 +10764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeoneer | 76957 | [76957-dungeoneer.json](./76957-dungeoneer.json) |
 | Dungeoneering | 184432 | [184432-dungeoneering.json](./184432-dungeoneering.json) |
 | Dungeonette for Apple Watch | 197751 | [197751-dungeonette-for-apple-watch.json](./197751-dungeonette-for-apple-watch.json) |
+| Dungeonfall | 380753 | [380753-dungeonfall.json](./380753-dungeonfall.json) |
 | Dungeonfell | 325618 | [325618-dungeonfell.json](./325618-dungeonfell.json) |
 | Dungeonfield | 331961 | [331961-dungeonfield.json](./331961-dungeonfield.json) |
 | Dungeonforge | 61737 | [61737-dungeonforge.json](./61737-dungeonforge.json) |
