@@ -4845,6 +4845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Floral Town | 158098 | [158098-floral-town.json](./158098-floral-town.json) |
 | Floralgraphic Memory | 265620 | [265620-floralgraphic-memory.json](./265620-floralgraphic-memory.json) |
 | FloraMancer: Seeds and Spells | 235982 | [235982-floramancer-seeds-and-spells.json](./235982-floramancer-seeds-and-spells.json) |
+| Floramino | 364361 | [364361-floramino.json](./364361-floramino.json) |
 | Florani Match | 392295 | [392295-florani-match.json](./392295-florani-match.json) |
 | Florarium | 258454 | [258454-florarium.json](./258454-florarium.json) |
 | Floratic | 147334 | [147334-floratic.json](./147334-floratic.json) |
