@@ -1318,6 +1318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Card Sim: Chinese Restaurant | 391182 | [391182-card-sim-chinese-restaurant.json](./391182-card-sim-chinese-restaurant.json) |
 | Card Solitaire Z | 88603 | [88603-card-solitaire-z.json](./88603-card-solitaire-z.json) |
 | Card story | 120851 | [120851-card-story.json](./120851-card-story.json) |
+| Card Streamer Simulator | 343218 | [343218-card-streamer-simulator.json](./343218-card-streamer-simulator.json) |
 | Card Summoner | 309445 | [309445-card-summoner.json](./309445-card-summoner.json) |
 | Card Survival: Fantasy Forest | 290925 | [290925-card-survival-fantasy-forest.json](./290925-card-survival-fantasy-forest.json) |
 | Card Thief | 28018 | [28018-card-thief.json](./28018-card-thief.json) |
