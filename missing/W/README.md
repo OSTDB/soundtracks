@@ -1661,6 +1661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ways Unknown | 408278 | [408278-ways-unknown.json](./408278-ways-unknown.json) |
 | Ways&Ball | 116244 | [116244-ways-and-ball.json](./116244-ways-and-ball.json) |
 | Waystones | 341864 | [341864-waystones.json](./341864-waystones.json) |
+| Waystones | 346626 | [346626-waystones.json](./346626-waystones.json) |
 | Wayward | 22099 | [22099-wayward.json](./22099-wayward.json) |
 | Wayward Rose | 248050 | [248050-wayward-rose.json](./248050-wayward-rose.json) |
 | Wayward Shadows | 213416 | [213416-wayward-shadows.json](./213416-wayward-shadows.json) |
@@ -4044,6 +4045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wiz Hunter | 385264 | [385264-wiz-hunter.json](./385264-wiz-hunter.json) |
 | Wiz Khalifa's Weed Farm | 56168 | [56168-wiz-khalifas-weed-farm.json](./56168-wiz-khalifas-weed-farm.json) |
 | Wiz Party | 194294 | [194294-wiz-party.json](./194294-wiz-party.json) |
+| Wiz-herd | 346541 | [346541-wiz-herd.json](./346541-wiz-herd.json) |
 | Wizabeasts | 235792 | [235792-wizabeasts.json](./235792-wizabeasts.json) |
 | Wizadore | 13769 | [13769-wizadore.json](./13769-wizadore.json) |
 | Wizard | 104479 | [104479-wizard.json](./104479-wizard.json) |
