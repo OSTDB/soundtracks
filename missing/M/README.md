@@ -6953,6 +6953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mima's Magical Wardrobe | 325817 | [325817-mimas-magical-wardrobe.json](./325817-mimas-magical-wardrobe.json) |
 | Mimana Iyar Chronicle | 80165 | [80165-mimana-iyar-chronicle.json](./80165-mimana-iyar-chronicle.json) |
 | Mimesis Online | 23453 | [23453-mimesis-online.json](./23453-mimesis-online.json) |
+| Mimetic | 383731 | [383731-mimetic.json](./383731-mimetic.json) |
 | Mimetic Love | 215595 | [215595-mimetic-love.json](./215595-mimetic-love.json) |
 | Mimi | 202315 | [202315-mimi.json](./202315-mimi.json) |
 | Mimi & The Mites | 73870 | [73870-mimi-and-the-mites.json](./73870-mimi-and-the-mites.json) |
