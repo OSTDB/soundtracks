@@ -921,6 +921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Kids Doropie | 48333 | [48333-magical-kids-doropie.json](./48333-magical-kids-doropie.json) |
 | Magical Literary Heroine Natsuki Saves The Literature Club! | 334273 | [334273-magical-literary-heroine-natsuki-saves-the-literature-club.json](./334273-magical-literary-heroine-natsuki-saves-the-literature-club.json) |
 | Magical Makeover | 139311 | [139311-magical-makeover.json](./139311-magical-makeover.json) |
+| Magical Manifest | 382546 | [382546-magical-manifest.json](./382546-magical-manifest.json) |
 | Magical Merge: Fairy Adventure | 309501 | [309501-magical-merge-fairy-adventure.json](./309501-magical-merge-fairy-adventure.json) |
 | Magical MILFs | 136257 | [136257-magical-milfs.json](./136257-magical-milfs.json) |
 | Magical Monstergirls Academy | 276251 | [276251-magical-monstergirls-academy.json](./276251-magical-monstergirls-academy.json) |
@@ -8048,6 +8049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Missileman's Christmas Calamity | 392478 | [392478-missilemans-christmas-calamity.json](./392478-missilemans-christmas-calamity.json) |
 | Missiles Away | 254149 | [254149-missiles-away.json](./254149-missiles-away.json) |
 | Missiles! | 103351 | [103351-missiles.json](./103351-missiles.json) |
+| Missilesaber | 382556 | [382556-missilesaber.json](./382556-missilesaber.json) |
 | Missing | 153537 | [153537-missing.json](./153537-missing.json) |
 | Missing | 207870 | [207870-missing.json](./207870-missing.json) |
 | Missing | 213634 | [213634-missing.json](./213634-missing.json) |
