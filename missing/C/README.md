@@ -7916,6 +7916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Connection Error | 234022 | [234022-connection-error.json](./234022-connection-error.json) |
 | Connection Haunted | 130152 | [130152-connection-haunted.json](./130152-connection-haunted.json) |
 | Connection Lost | 212176 | [212176-connection-lost.json](./212176-connection-lost.json) |
+| Connection Pools | 338150 | [338150-connection-pools.json](./338150-connection-pools.json) |
 | Connection reHaunted | 146822 | [146822-connection-rehaunted.json](./146822-connection-rehaunted.json) |
 | Connection: The Nightmare Within | 258117 | [258117-connection-the-nightmare-within.json](./258117-connection-the-nightmare-within.json) |
 | Connections | 12413 | [12413-connections.json](./12413-connections.json) |
