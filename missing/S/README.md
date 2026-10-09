@@ -5879,6 +5879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shuumatsu no Sugoshikata: The world is drawing to an W/end | 326047 | [326047-shuumatsu-no-sugoshikata-the-world-is-drawing-to-an-w-end.json](./326047-shuumatsu-no-sugoshikata-the-world-is-drawing-to-an-w-end.json) |
 | Shuumatsu no Valkyrie Humanity's Last Hope | 265875 | [265875-shuumatsu-no-valkyrie-humanitys-last-hope.json](./265875-shuumatsu-no-valkyrie-humanitys-last-hope.json) |
 | Shuumatsu Shoujo Gensou Alicematic: Apocalypse | 412800 | [412800-shuumatsu-shoujo-gensou-alicematic-apocalypse.json](./412800-shuumatsu-shoujo-gensou-alicematic-apocalypse.json) |
+| Shuumatsu Shoujo to Saishuukai | 370553 | [370553-shuumatsu-shoujo-to-saishuukai.json](./370553-shuumatsu-shoujo-to-saishuukai.json) |
 | Shuusou Gyoku | 123608 | [123608-shuusou-gyoku.json](./123608-shuusou-gyoku.json) |
 | Shuutai Headless | 150575 | [150575-shuutai-headless.json](./150575-shuutai-headless.json) |
 | Shuwa no Mori | 254483 | [254483-shuwa-no-mori.json](./254483-shuwa-no-mori.json) |
@@ -10623,11 +10624,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic the Hedgehog Revitalized | 326955 | [326955-sonic-the-hedgehog-revitalized.json](./326955-sonic-the-hedgehog-revitalized.json) |
 | Sonic the Hedgehog RPG: Entropy | 317585 | [317585-sonic-the-hedgehog-rpg-entropy.json](./317585-sonic-the-hedgehog-rpg-entropy.json) |
 | Sonic the Hedgehog RPG: In The Belly of The Beast | 317586 | [317586-sonic-the-hedgehog-rpg-in-the-belly-of-the-beast.json](./317586-sonic-the-hedgehog-rpg-in-the-belly-of-the-beast.json) |
+| Sonic the Hedgehog RPG: Past, Present, & Future | 370481 | [370481-sonic-the-hedgehog-rpg-past-present-and-future.json](./370481-sonic-the-hedgehog-rpg-past-present-and-future.json) |
 | Sonic the Hedgehog RPG: Return to Iron Lock | 317587 | [317587-sonic-the-hedgehog-rpg-return-to-iron-lock.json](./317587-sonic-the-hedgehog-rpg-return-to-iron-lock.json) |
 | Sonic the Hedgehog Snowday | 334688 | [334688-sonic-the-hedgehog-snowday.json](./334688-sonic-the-hedgehog-snowday.json) |
 | Sonic the Hedgehog Turbo | 331708 | [331708-sonic-the-hedgehog-turbo.json](./331708-sonic-the-hedgehog-turbo.json) |
 | Sonic the Hedgehog TX | 336381 | [336381-sonic-the-hedgehog-tx.json](./336381-sonic-the-hedgehog-tx.json) |
 | Sonic the Hedgehog Vol.2 | 198533 | [198533-sonic-the-hedgehog-vol-2.json](./198533-sonic-the-hedgehog-vol-2.json) |
+| Sonic the Hedgehog XA | 370482 | [370482-sonic-the-hedgehog-xa.json](./370482-sonic-the-hedgehog-xa.json) |
 | Sonic the Hedgehog: Borderline | 318516 | [318516-sonic-the-hedgehog-borderline.json](./318516-sonic-the-hedgehog-borderline.json) |
 | Sonic the Hedgehog: Chaos Factor | 330963 | [330963-sonic-the-hedgehog-chaos-factor.json](./330963-sonic-the-hedgehog-chaos-factor.json) |
 | Sonic the Hedgehog: Chaos Spirits | 331396 | [331396-sonic-the-hedgehog-chaos-spirits.json](./331396-sonic-the-hedgehog-chaos-spirits.json) |
@@ -10635,6 +10638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic the Hedgehog: Egg on Toast Edition | 129183 | [129183-sonic-the-hedgehog-egg-on-toast-edition.json](./129183-sonic-the-hedgehog-egg-on-toast-edition.json) |
 | Sonic The Hedgehog: Electro Block | 313323 | [313323-sonic-the-hedgehog-electro-block.json](./313323-sonic-the-hedgehog-electro-block.json) |
 | Sonic the Hedgehog: Emerald Chaos | 331702 | [331702-sonic-the-hedgehog-emerald-chaos.json](./331702-sonic-the-hedgehog-emerald-chaos.json) |
+| Sonic The Hedgehog: EVO | 370484 | [370484-sonic-the-hedgehog-evo.json](./370484-sonic-the-hedgehog-evo.json) |
 | Sonic the Hedgehog: Hands of Time | 330707 | [330707-sonic-the-hedgehog-hands-of-time.json](./330707-sonic-the-hedgehog-hands-of-time.json) |
 | Sonic the Hedgehog: Legend of the Blue Blur 2 | 326950 | [326950-sonic-the-hedgehog-legend-of-the-blue-blur-2.json](./326950-sonic-the-hedgehog-legend-of-the-blue-blur-2.json) |
 | Sonic the Hedgehog: Lost Future | 330530 | [330530-sonic-the-hedgehog-lost-future.json](./330530-sonic-the-hedgehog-lost-future.json) |
@@ -10663,6 +10667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Universe Adventure | 326824 | [326824-sonic-universe-adventure.json](./326824-sonic-universe-adventure.json) |
 | Sonic Unleashed | 133942 | [133942-sonic-unleashed.json](./133942-sonic-unleashed.json) |
 | Sonic Unleashed | 133943 | [133943-sonic-unleashed.json](./133943-sonic-unleashed.json) |
+| Sonic Unleashed 3DS | 370488 | [370488-sonic-unleashed-3ds.json](./370488-sonic-unleashed-3ds.json) |
 | Sonic Unleashed: Chun-nan Adventure Pack | 337214 | [337214-sonic-unleashed-chun-nan-adventure-pack.json](./337214-sonic-unleashed-chun-nan-adventure-pack.json) |
 | Sonic Unleashed: Empire City & Adabat Adventure Pack | 337219 | [337219-sonic-unleashed-empire-city-and-adabat-adventure-pack.json](./337219-sonic-unleashed-empire-city-and-adabat-adventure-pack.json) |
 | Sonic Unleashed: Holoska Adventure Pack | 337217 | [337217-sonic-unleashed-holoska-adventure-pack.json](./337217-sonic-unleashed-holoska-adventure-pack.json) |
@@ -12192,6 +12197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spanish Rage | 167802 | [167802-spanish-rage.json](./167802-spanish-rage.json) |
 | Spank The Idle Monkey | 334194 | [334194-spank-the-idle-monkey.json](./334194-spank-the-idle-monkey.json) |
 | Spanking Runners | 62282 | [62282-spanking-runners.json](./62282-spanking-runners.json) |
+| Spanky "Bat-a-Swing" | 370559 | [370559-spanky-bat-a-swing.json](./370559-spanky-bat-a-swing.json) |
 | Spanky! | 254526 | [254526-spanky.json](./254526-spanky.json) |
 | Spanky's Quest | 144149 | [144149-spankys-quest.json](./144149-spankys-quest.json) |
 | Spannerman | 39142 | [39142-spannerman.json](./39142-spannerman.json) |
@@ -15814,6 +15820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stepping Selection | 66741 | [66741-stepping-selection.json](./66741-stepping-selection.json) |
 | Steppy Dungeon | 181726 | [181726-steppy-dungeon.json](./181726-steppy-dungeon.json) |
 | Steppy Pants | 57944 | [57944-steppy-pants.json](./57944-steppy-pants.json) |
+| Steps of Debauchery | 370578 | [370578-steps-of-debauchery.json](./370578-steps-of-debauchery.json) |
 | Stepsister Shock! | 206028 | [206028-stepsister-shock.json](./206028-stepsister-shock.json) |
 | Steptile | 287097 | [287097-steptile.json](./287097-steptile.json) |
 | Stepwell | 416614 | [416614-stepwell.json](./416614-stepwell.json) |
@@ -16620,6 +16627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Streamline | 177552 | [177552-streamline.json](./177552-streamline.json) |
 | Streamline | 20178 | [20178-streamline.json](./20178-streamline.json) |
 | Streamline | 81180 | [81180-streamline.json](./81180-streamline.json) |
+| Streamtubers | 370565 | [370565-streamtubers.json](./370565-streamtubers.json) |
 | StreamWalker Tribes | 180252 | [180252-streamwalker-tribes.json](./180252-streamwalker-tribes.json) |
 | StreamWare | 278631 | [278631-streamware.json](./278631-streamware.json) |
 | Strect | 413725 | [413725-strect.json](./413725-strect.json) |
@@ -18479,6 +18487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Dungeon Muncher | 311602 | [311602-super-dungeon-muncher.json](./311602-super-dungeon-muncher.json) |
 | Super Dungeon Run | 34942 | [34942-super-dungeon-run.json](./34942-super-dungeon-run.json) |
 | Super Dunkman | 134700 | [134700-super-dunkman.json](./134700-super-dunkman.json) |
+| Super Duper Amy Freaking Rose | 370489 | [370489-super-duper-amy-freaking-rose.json](./370489-super-duper-amy-freaking-rose.json) |
 | Super Duper Flying Genocide 2017 | 34004 | [34004-super-duper-flying-genocide-2017.json](./34004-super-duper-flying-genocide-2017.json) |
 | Super Duper Multitasking | 330972 | [330972-super-duper-multitasking.json](./330972-super-duper-multitasking.json) |
 | Super Duper Party Pooper | 19680 | [19680-super-duper-party-pooper.json](./19680-super-duper-party-pooper.json) |
