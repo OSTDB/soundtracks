@@ -2223,6 +2223,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Find Larry! | 279431 | [279431-lets-find-larry.json](./279431-lets-find-larry.json) |
 | Let's Fish! Hooked On | 21022 | [21022-lets-fish-hooked-on.json](./21022-lets-fish-hooked-on.json) |
 | Let's Get Bakin' | 342130 | [342130-lets-get-bakin.json](./342130-lets-get-bakin.json) |
+| Let's Get Cookin' | 342009 | [342009-lets-get-cookin.json](./342009-lets-get-cookin.json) |
+| Let's Get Cookin' for Thanksgivin' | 342022 | [342022-lets-get-cookin-for-thanksgivin.json](./342022-lets-get-cookin-for-thanksgivin.json) |
+| Let's Get Cookin' Some More... | 342020 | [342020-lets-get-cookin-some-more.json](./342020-lets-get-cookin-some-more.json) |
 | Let's Get Fit | 194405 | [194405-lets-get-fit.json](./194405-lets-get-fit.json) |
 | Let's Get Fit at Midnight, Shall We? | 296931 | [296931-lets-get-fit-at-midnight-shall-we.json](./296931-lets-get-fit-at-midnight-shall-we.json) |
 | Let's Get Rich | 112316 | [112316-lets-get-rich.json](./112316-lets-get-rich.json) |
@@ -2258,6 +2261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Mahjong | 388356 | [388356-lets-mahjong.json](./388356-lets-mahjong.json) |
 | Let's Make a Pro Baseball Team! 2 | 138100 | [138100-lets-make-a-pro-baseball-team-2.json](./138100-lets-make-a-pro-baseball-team-2.json) |
 | Let's Meat Adam 2 | 180134 | [180134-lets-meat-adam-2.json](./180134-lets-meat-adam-2.json) |
+| Let's Meet Tomorrow | 342091 | [342091-lets-meet-tomorrow.json](./342091-lets-meet-tomorrow.json) |
 | Let's Minesweeper | 220183 | [220183-lets-minesweeper.json](./220183-lets-minesweeper.json) |
 | Let's Pachinko: Nante Gindama | 134465 | [134465-lets-pachinko-nante-gindama.json](./134465-lets-pachinko-nante-gindama.json) |
 | Let's Paint Toast | 352324 | [352324-lets-paint-toast.json](./352324-lets-paint-toast.json) |
