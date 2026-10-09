@@ -5738,6 +5738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Hunting 3D | 301511 | [301511-animal-hunting-3d.json](./301511-animal-hunting-3d.json) |
 | Animal Inspector | 124753 | [124753-animal-inspector.json](./124753-animal-inspector.json) |
 | Animal Intern | 182823 | [182823-animal-intern.json](./182823-animal-intern.json) |
+| Animal Island | 353227 | [353227-animal-island.json](./353227-animal-island.json) |
 | Animal Island: The Wolf’s Onslaught | 384804 | [384804-animal-island-the-wolf-s-onslaught.json](./384804-animal-island-the-wolf-s-onslaught.json) |
 | Animal Jam | 23658 | [23658-animal-jam.json](./23658-animal-jam.json) |
 | Animal Jam Classic | 316795 | [316795-animal-jam-classic.json](./316795-animal-jam-classic.json) |
@@ -8921,6 +8922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assault Mayhem | 351607 | [351607-assault-mayhem.json](./351607-assault-mayhem.json) |
 | Assault on Arnhem | 33307 | [33307-assault-on-arnhem.json](./33307-assault-on-arnhem.json) |
 | Assault on Everest | 356700 | [356700-assault-on-everest.json](./356700-assault-on-everest.json) |
+| Assault on Hardblood Hotel | 353230 | [353230-assault-on-hardblood-hotel.json](./353230-assault-on-hardblood-hotel.json) |
 | Assault on Hartblood Hotel | 363989 | [363989-assault-on-hartblood-hotel.json](./363989-assault-on-hartblood-hotel.json) |
 | Assault on Hyperion Base | 111618 | [111618-assault-on-hyperion-base.json](./111618-assault-on-hyperion-base.json) |
 | Assault on Metaltron | 115797 | [115797-assault-on-metaltron.json](./115797-assault-on-metaltron.json) |
