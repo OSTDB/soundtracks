@@ -2700,6 +2700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perfume Atelier | 366944 | [366944-perfume-atelier.json](./366944-perfume-atelier.json) |
 | Perhaps When We Dream | 114945 | [114945-perhaps-when-we-dream.json](./114945-perhaps-when-we-dream.json) |
 | Peria Chronicles | 61692 | [61692-peria-chronicles.json](./61692-peria-chronicles.json) |
+| Periapsis: Eclipse | 348215 | [348215-periapsis-eclipse.json](./348215-periapsis-eclipse.json) |
 | Peridium | 54895 | [54895-peridium.json](./54895-peridium.json) |
 | Perigee | 83950 | [83950-perigee.json](./83950-perigee.json) |
 | Perihelion: The Prophecy | 72287 | [72287-perihelion-the-prophecy.json](./72287-perihelion-the-prophecy.json) |
@@ -8394,6 +8395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | President's Choice | 307866 | [307866-presidents-choice.json](./307866-presidents-choice.json) |
 | Presidential Beatdown | 361049 | [361049-presidential-beatdown.json](./361049-presidential-beatdown.json) |
 | Presidential Psychologist | 366744 | [366744-presidential-psychologist.json](./366744-presidential-psychologist.json) |
+| Presidential Rise | 348293 | [348293-presidential-rise.json](./348293-presidential-rise.json) |
 | Presidential Running Games | 292689 | [292689-presidential-running-games.json](./292689-presidential-running-games.json) |
 | Presidential Social Media Manager | 359345 | [359345-presidential-social-media-manager.json](./359345-presidential-social-media-manager.json) |
 | PreSim | 88242 | [88242-presim.json](./88242-presim.json) |
