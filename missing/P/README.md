@@ -357,6 +357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pagans Must Die | 116853 | [116853-pagans-must-die.json](./116853-pagans-must-die.json) |
 | Page Chronica | 64462 | [64462-page-chronica.json](./64462-page-chronica.json) |
 | Pageant | 184045 | [184045-pageant.json](./184045-pageant.json) |
+| Pages of Time | 340879 | [340879-pages-of-time.json](./340879-pages-of-time.json) |
 | Paging Dr. Floppy! | 230793 | [230793-paging-dr-floppy.json](./230793-paging-dr-floppy.json) |
 | Pagodia | 257571 | [257571-pagodia.json](./257571-pagodia.json) |
 | Pagui | 124178 | [124178-pagui.json](./124178-pagui.json) |
@@ -6767,6 +6768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Mystery Dungeon: Explorers of Skies | 294796 | [294796-pokemon-mystery-dungeon-explorers-of-skies.json](./294796-pokemon-mystery-dungeon-explorers-of-skies.json) |
 | Pokémon Mystery Dungeon: Explorers of Sky | 2323 | [2323-pokemon-mystery-dungeon-explorers-of-sky.json](./2323-pokemon-mystery-dungeon-explorers-of-sky.json) |
 | Pokémon Mystery Dungeon: Explorers of the Spirit | 194263 | [194263-pokemon-mystery-dungeon-explorers-of-the-spirit.json](./194263-pokemon-mystery-dungeon-explorers-of-the-spirit.json) |
+| Pokémon Mystery Dungeon: Flames of Bravery | 340960 | [340960-pokemon-mystery-dungeon-flames-of-bravery.json](./340960-pokemon-mystery-dungeon-flames-of-bravery.json) |
 | Pokémon Mystery Dungeon: Gates to Infinity | 4566 | [4566-pokemon-mystery-dungeon-gates-to-infinity.json](./4566-pokemon-mystery-dungeon-gates-to-infinity.json) |
 | Pokémon Mystery Dungeon: Origins | 365792 | [365792-pokemon-mystery-dungeon-origins.json](./365792-pokemon-mystery-dungeon-origins.json) |
 | Pokémon Mystery Dungeon: Outlaw's Paradise | 294718 | [294718-pokemon-mystery-dungeon-outlaws-paradise.json](./294718-pokemon-mystery-dungeon-outlaws-paradise.json) |
