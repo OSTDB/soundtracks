@@ -496,16 +496,19 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 101 Cats in Indonesia | 366304 | [366304-101-cats-in-indonesia.json](./366304-101-cats-in-indonesia.json) |
 | 101 Cats in Kyoto | 383064 | [383064-101-cats-in-kyoto.json](./383064-101-cats-in-kyoto.json) |
 | 101 Cats in Las Vegas | 308931 | [308931-101-cats-in-las-vegas.json](./308931-101-cats-in-las-vegas.json) |
+| 101 Cats in London | 337607 | [337607-101-cats-in-london.json](./337607-101-cats-in-london.json) |
 | 101 Cats in Macau | 366739 | [366739-101-cats-in-macau.json](./366739-101-cats-in-macau.json) |
 | 101 Cats in Madrid | 326082 | [326082-101-cats-in-madrid.json](./326082-101-cats-in-madrid.json) |
 | 101 Cats in Milan | 337608 | [337608-101-cats-in-milan.json](./337608-101-cats-in-milan.json) |
 | 101 Cats in Moscow | 372340 | [372340-101-cats-in-moscow.json](./372340-101-cats-in-moscow.json) |
 | 101 Cats in Munich | 407534 | [407534-101-cats-in-munich.json](./407534-101-cats-in-munich.json) |
+| 101 Cats in New York | 337609 | [337609-101-cats-in-new-york.json](./337609-101-cats-in-new-york.json) |
 | 101 Cats in Paris | 337610 | [337610-101-cats-in-paris.json](./337610-101-cats-in-paris.json) |
 | 101 Cats in Seoul | 374826 | [374826-101-cats-in-seoul.json](./374826-101-cats-in-seoul.json) |
 | 101 Cats in Singapore | 326079 | [326079-101-cats-in-singapore.json](./326079-101-cats-in-singapore.json) |
 | 101 Cats in Sydney | 407533 | [407533-101-cats-in-sydney.json](./407533-101-cats-in-sydney.json) |
 | 101 Cats in Tokyo | 322089 | [322089-101-cats-in-tokyo.json](./322089-101-cats-in-tokyo.json) |
+| 101 Cats in Vienna | 337611 | [337611-101-cats-in-vienna.json](./337611-101-cats-in-vienna.json) |
 | 101 Cute Playland Dogs: Find & Paint | 320328 | [320328-101-cute-playland-dogs-find-and-paint.json](./320328-101-cute-playland-dogs-find-and-paint.json) |
 | 101 Dalmatians | 200492 | [200492-101-dalmatians.json](./200492-101-dalmatians.json) |
 | 101 Dogs Hidden in Amsterdam | 369993 | [369993-101-dogs-hidden-in-amsterdam.json](./369993-101-dogs-hidden-in-amsterdam.json) |
@@ -774,6 +777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1998: The Toll Keeper Story | 343429 | [343429-1998-the-toll-keeper-story.json](./343429-1998-the-toll-keeper-story.json) |
 | 1999 Christmas Eve | 367492 | [367492-1999-christmas-eve.json](./367492-1999-christmas-eve.json) |
 | 1999: Hore, Mita Koto ka! Seikimatsu | 48607 | [48607-1999-hore-mita-koto-ka-seikimatsu.json](./48607-1999-hore-mita-koto-ka-seikimatsu.json) |
+| 19th Century Printing Press Experience VR | 337613 | [337613-19th-century-printing-press-experience-vr.json](./337613-19th-century-printing-press-experience-vr.json) |
 | 19XX: The War Against Destiny | 6078 | [6078-19xx-the-war-against-destiny.json](./6078-19xx-the-war-against-destiny.json) |
 | 1B Spells | 248318 | [248318-1b-spells.json](./248318-1b-spells.json) |
 | 1Bit Castle | 124702 | [124702-1bit-castle.json](./124702-1bit-castle.json) |
@@ -1300,6 +1304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Puyo Puyo 2: Tsuu | 87195 | [87195-3d-puyo-puyo-2-tsuu.json](./87195-3d-puyo-puyo-2-tsuu.json) |
 | 3D Puzzle Dark Fantasy | 357751 | [357751-3d-puzzle-dark-fantasy.json](./357751-3d-puzzle-dark-fantasy.json) |
 | 3D Puzzle: Abandoned Prison | 308949 | [308949-3d-puzzle-abandoned-prison.json](./308949-3d-puzzle-abandoned-prison.json) |
+| 3D Puzzle: Apocalyptic Wasteland | 337612 | [337612-3d-puzzle-apocalyptic-wasteland.json](./337612-3d-puzzle-apocalyptic-wasteland.json) |
 | 3D Puzzle: Battle Royal | 254034 | [254034-3d-puzzle-battle-royal.json](./254034-3d-puzzle-battle-royal.json) |
 | 3D Puzzle: Breaking Bed | 280314 | [280314-3d-puzzle-breaking-bed.json](./280314-3d-puzzle-breaking-bed.json) |
 | 3D Puzzle: Building | 270864 | [270864-3d-puzzle-building.json](./270864-3d-puzzle-building.json) |
@@ -1316,6 +1321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Puzzle: Mountain Life | 357757 | [357757-3d-puzzle-mountain-life.json](./357757-3d-puzzle-mountain-life.json) |
 | 3D Puzzle: OldHospital | 308947 | [308947-3d-puzzle-oldhospital.json](./308947-3d-puzzle-oldhospital.json) |
 | 3D Puzzle: OutPost | 308946 | [308946-3d-puzzle-outpost.json](./308946-3d-puzzle-outpost.json) |
+| 3D Puzzle: Pirate Tavern | 337621 | [337621-3d-puzzle-pirate-tavern.json](./337621-3d-puzzle-pirate-tavern.json) |
 | 3D Puzzle: Pirates | 301037 | [301037-3d-puzzle-pirates.json](./301037-3d-puzzle-pirates.json) |
 | 3D Puzzle: Pizza Shop 2 | 357756 | [357756-3d-puzzle-pizza-shop-2.json](./357756-3d-puzzle-pizza-shop-2.json) |
 | 3D Puzzle: Port | 309618 | [309618-3d-puzzle-port.json](./309618-3d-puzzle-port.json) |
