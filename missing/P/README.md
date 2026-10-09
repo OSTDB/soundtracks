@@ -3783,6 +3783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Piglet's Big Game | 314629 | [314629-piglets-big-game.json](./314629-piglets-big-game.json) |
 | Piglet's Big Game | 4066 | [4066-piglets-big-game.json](./4066-piglets-big-game.json) |
 | PigMan | 93508 | [93508-pigman.json](./93508-pigman.json) |
+| Pigmen's Challenge | 379708 | [379708-pigmens-challenge.json](./379708-pigmens-challenge.json) |
 | Pigment | 377050 | [377050-pigment.json](./377050-pigment.json) |
 | Pigmentone | 32240 | [32240-pigmentone.json](./32240-pigmentone.json) |
 | Pigmentum | 29695 | [29695-pigmentum.json](./29695-pigmentum.json) |
@@ -10718,6 +10719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzline | 224541 | [224541-puzzline.json](./224541-puzzline.json) |
 | Puzzling Peaks EXE | 158690 | [158690-puzzling-peaks-exe.json](./158690-puzzling-peaks-exe.json) |
 | Puzzling Places | 144870 | [144870-puzzling-places.json](./144870-puzzling-places.json) |
+| Puzzling Places: A Painter's Dream | 379661 | [379661-puzzling-places-a-painters-dream.json](./379661-puzzling-places-a-painters-dream.json) |
 | Puzzling Places: A Sunny Stroll in Barcelos | 353486 | [353486-puzzling-places-a-sunny-stroll-in-barcelos.json](./353486-puzzling-places-a-sunny-stroll-in-barcelos.json) |
 | Puzzling Places: All Puzzles of 2024 Bundle | 353878 | [353878-puzzling-places-all-puzzles-of-2024-bundle.json](./353878-puzzling-places-all-puzzles-of-2024-bundle.json) |
 | Puzzling Places: Ancient Egypt | 353469 | [353469-puzzling-places-ancient-egypt.json](./353469-puzzling-places-ancient-egypt.json) |
