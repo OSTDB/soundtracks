@@ -35,6 +35,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | D.C. Girl's Symphony | 72661 | [72661-d-c-girls-symphony.json](./72661-d-c-girls-symphony.json) |
 | D.C. Girl's Symphony Pocket | 221833 | [221833-d-c-girls-symphony-pocket.json](./221833-d-c-girls-symphony-pocket.json) |
 | D.C. II ~Da Capo II~ | 61641 | [61641-d-c-ii-da-capo-ii.json](./61641-d-c-ii-da-capo-ii.json) |
+| D.C. II To You: Da Capo II To You - Side Episodes | 371598 | [371598-d-c-ii-to-you-da-capo-ii-to-you-side-episodes.json](./371598-d-c-ii-to-you-da-capo-ii-to-you-side-episodes.json) |
 | D.C. II: Da Capo II - Dearest Marriage | 60356 | [60356-d-c-ii-da-capo-ii-dearest-marriage.json](./60356-d-c-ii-da-capo-ii-dearest-marriage.json) |
 | D.C. III PS: Da Coda III - Plus Story | 259595 | [259595-d-c-iii-ps-da-coda-iii-plus-story.json](./259595-d-c-iii-ps-da-coda-iii-plus-story.json) |
 | D.C. Re:tune | 327964 | [327964-d-c-re-tune.json](./327964-d-c-re-tune.json) |
@@ -654,6 +655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dangerous Level | 82348 | [82348-dangerous-level.json](./82348-dangerous-level.json) |
 | Dangerous Line | 327827 | [327827-dangerous-line.json](./327827-dangerous-line.json) |
 | Dangerous Plane | 149682 | [149682-dangerous-plane.json](./149682-dangerous-plane.json) |
+| Dangerous Pursuit | 371642 | [371642-dangerous-pursuit.json](./371642-dangerous-pursuit.json) |
 | Dangerous Relationship | 32273 | [32273-dangerous-relationship.json](./32273-dangerous-relationship.json) |
 | Dangerous Roads | 395518 | [395518-dangerous-roads.json](./395518-dangerous-roads.json) |
 | Dangerous Roads Ahead | 194284 | [194284-dangerous-roads-ahead.json](./194284-dangerous-roads-ahead.json) |
@@ -2228,6 +2230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Space 2: Severed | 20440 | [20440-dead-space-2-severed.json](./20440-dead-space-2-severed.json) |
 | Dead Space 3: Awakened | 10173 | [10173-dead-space-3-awakened.json](./10173-dead-space-3-awakened.json) |
 | Dead Space 3: Limited Edition | 44604 | [44604-dead-space-3-limited-edition.json](./44604-dead-space-3-limited-edition.json) |
+| Dead Space Collection | 371743 | [371743-dead-space-collection.json](./371743-dead-space-collection.json) |
 | Dead Space Nokia | 323812 | [323812-dead-space-nokia.json](./323812-dead-space-nokia.json) |
 | Dead Space: Collector's Edition | 229975 | [229975-dead-space-collectors-edition.json](./229975-dead-space-collectors-edition.json) |
 | Dead Space: Deluxe Edition | 222945 | [222945-dead-space-deluxe-edition.json](./222945-dead-space-deluxe-edition.json) |
@@ -5079,6 +5082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Die drei ??? 2 - Bomben in Rocky Beach | 125284 | [125284-die-drei-2-bomben-in-rocky-beach.json](./125284-die-drei-2-bomben-in-rocky-beach.json) |
 | Die drei ??? 3 - Gespensterjagd | 142239 | [142239-die-drei-3-gespensterjagd.json](./142239-die-drei-3-gespensterjagd.json) |
 | Die drei ???: Das Gold der Inkas | 361324 | [361324-die-drei-das-gold-der-inkas.json](./361324-die-drei-das-gold-der-inkas.json) |
+| Die Drei ???: Ruf Der Trolle | 371610 | [371610-die-drei-ruf-der-trolle.json](./371610-die-drei-ruf-der-trolle.json) |
 | Die drei Freunde von der Reitschule | 291073 | [291073-die-drei-freunde-von-der-reitschule.json](./291073-die-drei-freunde-von-der-reitschule.json) |
 | Die Drei??? Kids: Jagd auf Das Phantom | 136371 | [136371-die-drei-kids-jagd-auf-das-phantom.json](./136371-die-drei-kids-jagd-auf-das-phantom.json) |
 | Die drei???: Das verfluchte Schloss | 268126 | [268126-die-drei-das-verfluchte-schloss.json](./268126-die-drei-das-verfluchte-schloss.json) |
