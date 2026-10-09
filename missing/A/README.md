@@ -1328,6 +1328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ace Attorney Turnabout Collection | 146326 | [146326-ace-attorney-turnabout-collection.json](./146326-ace-attorney-turnabout-collection.json) |
 | Ace Attorney: Beyond the Shadows | 308543 | [308543-ace-attorney-beyond-the-shadows.json](./308543-ace-attorney-beyond-the-shadows.json) |
 | Ace Attorney: The Dark Age of Love | 305190 | [305190-ace-attorney-the-dark-age-of-love.json](./305190-ace-attorney-the-dark-age-of-love.json) |
+| Ace Attorney: The Final Trials | 366725 | [366725-ace-attorney-the-final-trials.json](./366725-ace-attorney-the-final-trials.json) |
 | Ace Attorney: The Incomplete Story | 309972 | [309972-ace-attorney-the-incomplete-story.json](./309972-ace-attorney-the-incomplete-story.json) |
 | Ace Attorney: Turnabout Of A Legend | 303001 | [303001-ace-attorney-turnabout-of-a-legend.json](./303001-ace-attorney-turnabout-of-a-legend.json) |
 | Ace Attorney: Ultimate Justice | 304031 | [304031-ace-attorney-ultimate-justice.json](./304031-ace-attorney-ultimate-justice.json) |
