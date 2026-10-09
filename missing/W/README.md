@@ -1602,6 +1602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Way of the Hunter 2 | 383019 | [383019-way-of-the-hunter-2.json](./383019-way-of-the-hunter-2.json) |
 | Way of the Hunter: Free UTV | 403804 | [403804-way-of-the-hunter-free-utv.json](./403804-way-of-the-hunter-free-utv.json) |
 | Way of the Hunter: Hunter's Pack | 325657 | [325657-way-of-the-hunter-hunters-pack.json](./325657-way-of-the-hunter-hunters-pack.json) |
+| Way of the Hunter: Kawasaki UTV Pack | 376283 | [376283-way-of-the-hunter-kawasaki-utv-pack.json](./376283-way-of-the-hunter-kawasaki-utv-pack.json) |
 | Way of the Hunter: Map Pack 1 | 378557 | [378557-way-of-the-hunter-map-pack-1.json](./378557-way-of-the-hunter-map-pack-1.json) |
 | Way of the Hunter: Outfits Pack | 311101 | [311101-way-of-the-hunter-outfits-pack.json](./311101-way-of-the-hunter-outfits-pack.json) |
 | Way of the Hunter: Steyr Arms Pack | 272878 | [272878-way-of-the-hunter-steyr-arms-pack.json](./272878-way-of-the-hunter-steyr-arms-pack.json) |
@@ -3957,6 +3958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Within | 415248 | [415248-within.json](./415248-within.json) |
 | Within a Rose | 72361 | [72361-within-a-rose.json](./72361-within-a-rose.json) |
 | Within His View | 379868 | [379868-within-his-view.json](./379868-within-his-view.json) |
+| Within Lattice | 376278 | [376278-within-lattice.json](./376278-within-lattice.json) |
 | Within of Static: Northgate Mall | 393564 | [393564-within-of-static-northgate-mall.json](./393564-within-of-static-northgate-mall.json) |
 | Within the Backrooms | 220634 | [220634-within-the-backrooms.json](./220634-within-the-backrooms.json) |
 | Within The Experiments | 414492 | [414492-within-the-experiments.json](./414492-within-the-experiments.json) |
