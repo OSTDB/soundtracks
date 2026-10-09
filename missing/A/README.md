@@ -3187,6 +3187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akatsuki no Lily Philia | 83174 | [83174-akatsuki-no-lily-philia.json](./83174-akatsuki-no-lily-philia.json) |
 | Akatsuki no Tenjinroku | 208850 | [208850-akatsuki-no-tenjinroku.json](./208850-akatsuki-no-tenjinroku.json) |
 | Akatsuki Yureru Koi Akari | 238101 | [238101-akatsuki-yureru-koi-akari.json](./238101-akatsuki-yureru-koi-akari.json) |
+| Akatsuki Yureru Koi Akari SS: Asahi to One Room - Toaru Natsu no Ichinichi | 371589 | [371589-akatsuki-yureru-koi-akari-ss-asahi-to-one-room-toaru-natsu-no-ichinichi.json](./371589-akatsuki-yureru-koi-akari-ss-asahi-to-one-room-toaru-natsu-no-ichinichi.json) |
 | Akatsuki Zero | 258127 | [258127-akatsuki-zero.json](./258127-akatsuki-zero.json) |
 | Akatsuki: Shisei Ichi-go | 61628 | [61628-akatsuki-shisei-ichi-go.json](./61628-akatsuki-shisei-ichi-go.json) |
 | Akayashiki | 297794 | [297794-akayashiki.json](./297794-akayashiki.json) |
@@ -6271,6 +6272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anthem of Roses | 55067 | [55067-anthem-of-roses.json](./55067-anthem-of-roses.json) |
 | Anthem: Legion of Dawn Edition | 103276 | [103276-anthem-legion-of-dawn-edition.json](./103276-anthem-legion-of-dawn-edition.json) |
 | Anthem#9 | 276853 | [276853-anthem-9.json](./276853-anthem-9.json) |
+| Anthèse | 371591 | [371591-anthese.json](./371591-anthese.json) |
 | Anthesis | 83146 | [83146-anthesis.json](./83146-anthesis.json) |
 | Anthology of the Killer | 268731 | [268731-anthology-of-the-killer.json](./268731-anthology-of-the-killer.json) |
 | Antholojam 1: Golden Era of Sci-Fi | 141781 | [141781-antholojam-1-golden-era-of-sci-fi.json](./141781-antholojam-1-golden-era-of-sci-fi.json) |
@@ -7731,6 +7733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Argonauts Agency: Glove of Midas - Collector's Edition | 357336 | [357336-argonauts-agency-glove-of-midas-collectors-edition.json](./357336-argonauts-agency-glove-of-midas-collectors-edition.json) |
 | Argonauts Agency: God of the Storm - Collector's Edition | 356771 | [356771-argonauts-agency-god-of-the-storm-collectors-edition.json](./356771-argonauts-agency-god-of-the-storm-collectors-edition.json) |
 | Argonauts Agency: Golden Fleece | 115133 | [115133-argonauts-agency-golden-fleece.json](./115133-argonauts-agency-golden-fleece.json) |
+| Argonauts Agency: Gorgon Medusa | 371608 | [371608-argonauts-agency-gorgon-medusa.json](./371608-argonauts-agency-gorgon-medusa.json) |
 | Argonauts Agency: Gorgon Medusa - Collector's Edition | 337212 | [337212-argonauts-agency-gorgon-medusa-collectors-edition.json](./337212-argonauts-agency-gorgon-medusa-collectors-edition.json) |
 | Argonauts Agency: Missing Daughter | 187206 | [187206-argonauts-agency-missing-daughter.json](./187206-argonauts-agency-missing-daughter.json) |
 | Argonauts Agency: Missing Daughter - Collector's Edition | 357419 | [357419-argonauts-agency-missing-daughter-collectors-edition.json](./357419-argonauts-agency-missing-daughter-collectors-edition.json) |
