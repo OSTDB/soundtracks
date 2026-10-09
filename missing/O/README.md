@@ -2533,6 +2533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Origins of an Empire | 107109 | [107109-origins-of-an-empire.json](./107109-origins-of-an-empire.json) |
 | Origins of Merlin: Muscles and Magic | 166710 | [166710-origins-of-merlin-muscles-and-magic.json](./166710-origins-of-merlin-muscles-and-magic.json) |
 | Origins TCG | 412262 | [412262-origins-tcg.json](./412262-origins-tcg.json) |
+| Orika: Rise From The Crash | 336587 | [336587-orika-rise-from-the-crash.json](./336587-orika-rise-from-the-crash.json) |
 | Orin Gamble | 396901 | [396901-orin-gamble.json](./396901-orin-gamble.json) |
 | Orion | 95180 | [95180-orion.json](./95180-orion.json) |
 | Orion Blue | 386437 | [386437-orion-blue.json](./386437-orion-blue.json) |
