@@ -3380,6 +3380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deficit | 327818 | [327818-deficit.json](./327818-deficit.json) |
 | Defiled | 213032 | [213032-defiled.json](./213032-defiled.json) |
 | Defina | 237334 | [237334-defina.json](./237334-defina.json) |
+| Define | 336573 | [336573-define.json](./336573-define.json) |
 | Definitely Not a Cult | 408807 | [408807-definitely-not-a-cult.json](./408807-definitely-not-a-cult.json) |
 | Definitely Not Fried Chicken | 143078 | [143078-definitely-not-fried-chicken.json](./143078-definitely-not-fried-chicken.json) |
 | Definitely Real Football | 177014 | [177014-definitely-real-football.json](./177014-definitely-real-football.json) |
@@ -7423,6 +7424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Scream Together | 376018 | [376018-dont-scream-together.json](./376018-dont-scream-together.json) |
 | Don't Screw Up! | 233636 | [233636-dont-screw-up.json](./233636-dont-screw-up.json) |
 | Don't Shit on My #!$@& Roof | 216308 | [216308-dont-shit-on-my-and-roof.json](./216308-dont-shit-on-my-and-roof.json) |
+| Don't Shoot First! | 336575 | [336575-dont-shoot-first.json](./336575-dont-shoot-first.json) |
 | Don't Shoot Rabbit | 113165 | [113165-dont-shoot-rabbit.json](./113165-dont-shoot-rabbit.json) |
 | Don't Shoot the Puppy | 136454 | [136454-dont-shoot-the-puppy.json](./136454-dont-shoot-the-puppy.json) |
 | Don't Shoot Yourself! | 36152 | [36152-dont-shoot-yourself.json](./36152-dont-shoot-yourself.json) |
@@ -9299,6 +9301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drawn to Life: The Next Chapter | 240140 | [240140-drawn-to-life-the-next-chapter.json](./240140-drawn-to-life-the-next-chapter.json) |
 | Drawn to Life: The Next Chapter | 4820 | [4820-drawn-to-life-the-next-chapter.json](./4820-drawn-to-life-the-next-chapter.json) |
 | Drawn to Light | 110305 | [110305-drawn-to-light.json](./110305-drawn-to-light.json) |
+| Drawn To You | 336505 | [336505-drawn-to-you.json](./336505-drawn-to-you.json) |
 | Drawn Together | 404311 | [404311-drawn-together.json](./404311-drawn-together.json) |
 | Drawn: Dark Flight - Collector's Edition | 33294 | [33294-drawn-dark-flight-collectors-edition.json](./33294-drawn-dark-flight-collectors-edition.json) |
 | Drawn: The Painted Tower | 11234 | [11234-drawn-the-painted-tower.json](./11234-drawn-the-painted-tower.json) |
@@ -10923,6 +10926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Sweeper Plus | 401058 | [401058-dungeon-sweeper-plus.json](./401058-dungeon-sweeper-plus.json) |
 | Dungeon Synths | 261464 | [261464-dungeon-synths.json](./261464-dungeon-synths.json) |
 | Dungeon Tales: RPG Card Game | 121732 | [121732-dungeon-tales-rpg-card-game.json](./121732-dungeon-tales-rpg-card-game.json) |
+| Dungeon Thrones: Rise of Slimes | 336576 | [336576-dungeon-thrones-rise-of-slimes.json](./336576-dungeon-thrones-rise-of-slimes.json) |
 | Dungeon Tiles | 58235 | [58235-dungeon-tiles.json](./58235-dungeon-tiles.json) |
 | Dungeon Tiny Hunter | 308908 | [308908-dungeon-tiny-hunter.json](./308908-dungeon-tiny-hunter.json) |
 | Dungeon Town | 111719 | [111719-dungeon-town.json](./111719-dungeon-town.json) |
