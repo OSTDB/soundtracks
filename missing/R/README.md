@@ -7707,6 +7707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Russian Village Simulator | 253458 | [253458-russian-village-simulator.json](./253458-russian-village-simulator.json) |
 | Russian VR Coasters | 32005 | [32005-russian-vr-coasters.json](./32005-russian-vr-coasters.json) |
 | Russian Warship | 267444 | [267444-russian-warship.json](./267444-russian-warship.json) |
+| Russian World Cub Battlegrounds | 334807 | [334807-russian-world-cub-battlegrounds.json](./334807-russian-world-cub-battlegrounds.json) |
 | RussianPunk 2007 | 157070 | [157070-russianpunk-2007.json](./157070-russianpunk-2007.json) |
 | Russki Duck | 282102 | [282102-russki-duck.json](./282102-russki-duck.json) |
 | Rust | 299432 | [299432-rust.json](./299432-rust.json) |
