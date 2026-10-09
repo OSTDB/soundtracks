@@ -916,6 +916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Human 2 | 204486 | [204486-idle-human-2.json](./204486-idle-human-2.json) |
 | Idle Human Evolution | 220165 | [220165-idle-human-evolution.json](./220165-idle-human-evolution.json) |
 | Idle Huntress: Adventure | 202250 | [202250-idle-huntress-adventure.json](./202250-idle-huntress-adventure.json) |
+| Idle Idle | 366093 | [366093-idle-idle.json](./366093-idle-idle.json) |
 | Idle Immortal | 409663 | [409663-idle-immortal.json](./409663-idle-immortal.json) |
 | Idle Immortal: Daughter of Fate | 410849 | [410849-idle-immortal-daughter-of-fate.json](./410849-idle-immortal-daughter-of-fate.json) |
 | Idle Immortal: Deluxe Edition | 410846 | [410846-idle-immortal-deluxe-edition.json](./410846-idle-immortal-deluxe-edition.json) |
@@ -3476,6 +3477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iron Dawn | 286033 | [286033-iron-dawn.json](./286033-iron-dawn.json) |
 | Iron Decree | 326205 | [326205-iron-decree.json](./326205-iron-decree.json) |
 | Iron Diamond | 236300 | [236300-iron-diamond.json](./236300-iron-diamond.json) |
+| Iron Dusk Path of Honor | 366135 | [366135-iron-dusk-path-of-honor.json](./366135-iron-dusk-path-of-honor.json) |
 | Iron Emblem | 215765 | [215765-iron-emblem.json](./215765-iron-emblem.json) |
 | Iron Evil | 203970 | [203970-iron-evil.json](./203970-iron-evil.json) |
 | Iron Feather | 71609 | [71609-iron-feather.json](./71609-iron-feather.json) |
