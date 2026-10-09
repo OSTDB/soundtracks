@@ -862,6 +862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eggconsole Crimson PC-8801mkIISR | 328527 | [328527-eggconsole-crimson-pc-8801mkiisr.json](./328527-eggconsole-crimson-pc-8801mkiisr.json) |
 | Eggconsole Crystal Chaser: Overlord's Orb of the Sky - Refined PC-9801 | 378794 | [378794-eggconsole-crystal-chaser-overlords-orb-of-the-sky-refined-pc-9801.json](./378794-eggconsole-crystal-chaser-overlords-orb-of-the-sky-refined-pc-9801.json) |
 | Eggconsole Deep Dungeon II MSX | 420692 | [420692-eggconsole-deep-dungeon-ii-msx.json](./420692-eggconsole-deep-dungeon-ii-msx.json) |
+| Eggconsole Diable de Laplace PC-8801mkIISR | 362200 | [362200-eggconsole-diable-de-laplace-pc-8801mkiisr.json](./362200-eggconsole-diable-de-laplace-pc-8801mkiisr.json) |
 | Eggconsole Dragon Slayer Level 2.0 PC-8801 | 410380 | [410380-eggconsole-dragon-slayer-level-2-0-pc-8801.json](./410380-eggconsole-dragon-slayer-level-2-0-pc-8801.json) |
 | Eggconsole Dragon Slayer: The Legend of Heroes II PC-8801mkIISR | 328526 | [328526-eggconsole-dragon-slayer-the-legend-of-heroes-ii-pc-8801mkiisr.json](./328526-eggconsole-dragon-slayer-the-legend-of-heroes-ii-pc-8801mkiisr.json) |
 | Eggconsole Dragon Slayer: The Legend of Heroes PC-8801mkIISR | 316195 | [316195-eggconsole-dragon-slayer-the-legend-of-heroes-pc-8801mkiisr.json](./316195-eggconsole-dragon-slayer-the-legend-of-heroes-pc-8801mkiisr.json) |
@@ -3093,6 +3094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Gaia: Departure | 311797 | [311797-escape-gaia-departure.json](./311797-escape-gaia-departure.json) |
 | Escape Game | 105753 | [105753-escape-game.json](./105753-escape-game.json) |
 | Escape Game - Prison Break S3 | 88417 | [88417-escape-game-prison-break-s3.json](./88417-escape-game-prison-break-s3.json) |
+| Escape Game R00m 05 | 362201 | [362201-escape-game-r00m-05.json](./362201-escape-game-r00m-05.json) |
 | Escape game R00m 10 | 390491 | [390491-escape-game-r00m-10.json](./390491-escape-game-r00m-10.json) |
 | Escape Game R00m07 | 378800 | [378800-escape-game-r00m07.json](./378800-escape-game-r00m07.json) |
 | Escape game R00m08 | 381797 | [381797-escape-game-r00m08.json](./381797-escape-game-r00m08.json) |
