@@ -636,6 +636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JellyFish | 321429 | [321429-jellyfish.json](./321429-jellyfish.json) |
 | Jellyfish Archipelago | 272019 | [272019-jellyfish-archipelago.json](./272019-jellyfish-archipelago.json) |
 | Jellyfish Blind Box | 365149 | [365149-jellyfish-blind-box.json](./365149-jellyfish-blind-box.json) |
+| Jellyfish Egg | 348740 | [348740-jellyfish-egg.json](./348740-jellyfish-egg.json) |
 | Jellyfish Season | 109726 | [109726-jellyfish-season.json](./109726-jellyfish-season.json) |
 | Jellyfish the Ghost | 108387 | [108387-jellyfish-the-ghost.json](./108387-jellyfish-the-ghost.json) |
 | Jellyfishers | 143088 | [143088-jellyfishers.json](./143088-jellyfishers.json) |
