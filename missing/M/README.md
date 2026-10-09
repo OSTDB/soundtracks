@@ -2692,6 +2692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marshmallow Marvin | 331468 | [331468-marshmallow-marvin.json](./331468-marshmallow-marvin.json) |
 | Marshmallow Marvin: Greenwood | 334287 | [334287-marshmallow-marvin-greenwood.json](./334287-marshmallow-marvin-greenwood.json) |
 | Marshmallow Marvin: Templestone | 336928 | [336928-marshmallow-marvin-templestone.json](./336928-marshmallow-marvin-templestone.json) |
+| Marshmallow Marvin: Timberfall | 349821 | [349821-marshmallow-marvin-timberfall.json](./349821-marshmallow-marvin-timberfall.json) |
 | Marshmallow Melee | 67600 | [67600-marshmallow-melee.json](./67600-marshmallow-melee.json) |
 | Marshmallow Nights | 177833 | [177833-marshmallow-nights.json](./177833-marshmallow-nights.json) |
 | Marshmallow Penguins VR | 185433 | [185433-marshmallow-penguins-vr.json](./185433-marshmallow-penguins-vr.json) |
@@ -3586,6 +3587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maven | 92856 | [92856-maven.json](./92856-maven.json) |
 | Maverick Bird | 62172 | [62172-maverick-bird.json](./62172-maverick-bird.json) |
 | Maverick Gunn and the Eye of Oggun | 170347 | [170347-maverick-gunn-and-the-eye-of-oggun.json](./170347-maverick-gunn-and-the-eye-of-oggun.json) |
+| Mavericks | 349802 | [349802-mavericks.json](./349802-mavericks.json) |
 | Maverta Island | 186844 | [186844-maverta-island.json](./186844-maverta-island.json) |
 | Mavis Beacon Teaches Typing Version 8 | 209541 | [209541-mavis-beacon-teaches-typing-version-8.json](./209541-mavis-beacon-teaches-typing-version-8.json) |
 | Mavis Beacon Teaches Typing! for Kids | 94378 | [94378-mavis-beacon-teaches-typing-for-kids.json](./94378-mavis-beacon-teaches-typing-for-kids.json) |
@@ -7562,6 +7564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minesweeper: Next-Gen | 403630 | [403630-minesweeper-next-gen.json](./403630-minesweeper-next-gen.json) |
 | Minesweeper: The Clean One | 180245 | [180245-minesweeper-the-clean-one.json](./180245-minesweeper-the-clean-one.json) |
 | Mineswifter | 138189 | [138189-mineswifter.json](./138189-mineswifter.json) |
+| Minetic | 349893 | [349893-minetic.json](./349893-minetic.json) |
 | Ming Dynasty: Cards & Court | 390606 | [390606-ming-dynasty-cards-and-court.json](./390606-ming-dynasty-cards-and-court.json) |
 | Míngjiào Fēngyún zhī Jiǔ Yīn Jiǔ Yáng | 155014 | [155014-mingjiao-fengyun-zhi-jiu-yin-jiu-yang.json](./155014-mingjiao-fengyun-zhi-jiu-yin-jiu-yang.json) |
 | Mingle | 214416 | [214416-mingle.json](./214416-mingle.json) |
@@ -11023,6 +11026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr Octopus | 234003 | [234003-mr-octopus.json](./234003-mr-octopus.json) |
 | Mr Rabbit's Alphabet Forest Adventure | 44168 | [44168-mr-rabbits-alphabet-forest-adventure.json](./44168-mr-rabbits-alphabet-forest-adventure.json) |
 | MR Racer | 343459 | [343459-mr-racer.json](./343459-mr-racer.json) |
+| MR Racer Stunt Mania | 349888 | [349888-mr-racer-stunt-mania.json](./349888-mr-racer-stunt-mania.json) |
 | Mr Right Simulator | 348795 | [348795-mr-right-simulator.json](./348795-mr-right-simulator.json) |
 | Mr Snuggles Dungeon Adventure | 310748 | [310748-mr-snuggles-dungeon-adventure.json](./310748-mr-snuggles-dungeon-adventure.json) |
 | Mr Toilet | 369174 | [369174-mr-toilet.json](./369174-mr-toilet.json) |
@@ -11645,6 +11649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Museum of Other Realities | 118168 | [118168-museum-of-other-realities.json](./118168-museum-of-other-realities.json) |
 | Museum of Parallel Art | 182871 | [182871-museum-of-parallel-art.json](./182871-museum-of-parallel-art.json) |
 | Museum of Symmetry | 104076 | [104076-museum-of-symmetry.json](./104076-museum-of-symmetry.json) |
+| Museum Simulator | 349824 | [349824-museum-simulator.json](./349824-museum-simulator.json) |
 | Museums of History | 339921 | [339921-museums-of-history.json](./339921-museums-of-history.json) |
 | Musgro Farm | 303098 | [303098-musgro-farm.json](./303098-musgro-farm.json) |
 | Mush | 92588 | [92588-mush.json](./92588-mush.json) |
