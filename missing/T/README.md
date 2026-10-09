@@ -16670,6 +16670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trace of the past | 121559 | [121559-trace-of-the-past.json](./121559-trace-of-the-past.json) |
 | Trace of Time | 284337 | [284337-trace-of-time.json](./284337-trace-of-time.json) |
 | Trace Vector | 17341 | [17341-trace-vector.json](./17341-trace-vector.json) |
+| Trace: Definitive Edition | 361638 | [361638-trace-definitive-edition.json](./361638-trace-definitive-edition.json) |
 | Tracebound | 381360 | [381360-tracebound.json](./381360-tracebound.json) |
 | Tracer | 186136 | [186136-tracer.json](./186136-tracer.json) |
 | Tracery of Fate VR | 207496 | [207496-tracery-of-fate-vr.json](./207496-tracery-of-fate-vr.json) |
@@ -19532,6 +19533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tutankhamun: Builders of the Eternal | 378360 | [378360-tutankhamun-builders-of-the-eternal.json](./378360-tutankhamun-builders-of-the-eternal.json) |
 | Tutel Quest | 291168 | [291168-tutel-quest.json](./291168-tutel-quest.json) |
 | Tutelary | 246371 | [246371-tutelary.json](./246371-tutelary.json) |
+| Tutien Path | 361596 | [361596-tutien-path.json](./361596-tutien-path.json) |
 | Tutorial | 231092 | [231092-tutorial.json](./231092-tutorial.json) |
 | Tutti Frutti | 54932 | [54932-tutti-frutti.json](./54932-tutti-frutti.json) |
 | Tutututu: Tea party | 120318 | [120318-tutututu-tea-party.json](./120318-tutututu-tea-party.json) |
