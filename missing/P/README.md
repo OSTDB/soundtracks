@@ -2915,6 +2915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Petanque Pro | 92622 | [92622-petanque-pro.json](./92622-petanque-pro.json) |
 | Petdise Tycoon | 242232 | [242232-petdise-tycoon.json](./242232-petdise-tycoon.json) |
 | Pete | 409638 | [409638-pete.json](./409638-pete.json) |
+| Pete Sampras Tennis | 368901 | [368901-pete-sampras-tennis.json](./368901-pete-sampras-tennis.json) |
 | Pete Sampras Tennis 96 | 70943 | [70943-pete-sampras-tennis-96.json](./70943-pete-sampras-tennis-96.json) |
 | Pete Sampras Tennis 97 | 57672 | [57672-pete-sampras-tennis-97.json](./57672-pete-sampras-tennis-97.json) |
 | Pete's Peril | 215697 | [215697-petes-peril.json](./215697-petes-peril.json) |
@@ -3986,6 +3987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pin Tiki Ball | 87552 | [87552-pin-tiki-ball.json](./87552-pin-tiki-ball.json) |
 | Pin To Win | 302351 | [302351-pin-to-win.json](./302351-pin-to-win.json) |
 | Pin Zhi | 304893 | [304893-pin-zhi.json](./304893-pin-zhi.json) |
+| Pin-Bang-Shot! | 368816 | [368816-pin-bang-shot.json](./368816-pin-bang-shot.json) |
 | Pin-Bowler | 92541 | [92541-pin-bowler.json](./92541-pin-bowler.json) |
 | Pin-Crawl | 401697 | [401697-pin-crawl.json](./401697-pin-crawl.json) |
 | Pin-Kod. Poluchi patent pervym! | 347819 | [347819-pin-kod-poluchi-patent-pervym.json](./347819-pin-kod-poluchi-patent-pervym.json) |
@@ -5910,6 +5912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plummet Panic | 317618 | [317618-plummet-panic.json](./317618-plummet-panic.json) |
 | Plumo At The Zoo | 312632 | [312632-plumo-at-the-zoo.json](./312632-plumo-at-the-zoo.json) |
 | Plumo On The Farm | 312635 | [312635-plumo-on-the-farm.json](./312635-plumo-on-the-farm.json) |
+| Plump! Dumb Frog Pond | 368813 | [368813-plump-dumb-frog-pond.json](./368813-plump-dumb-frog-pond.json) |
 | Plunder | 113748 | [113748-plunder.json](./113748-plunder.json) |
 | Plunder & Pillage | 159212 | [159212-plunder-and-pillage.json](./159212-plunder-and-pillage.json) |
 | Plunder Ball | 275838 | [275838-plunder-ball.json](./275838-plunder-ball.json) |
@@ -10170,6 +10173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PuppetShow: Porcelain Smile - Collector's Edition | 115526 | [115526-puppetshow-porcelain-smile-collectors-edition.json](./115526-puppetshow-porcelain-smile-collectors-edition.json) |
 | PuppetShow: The Face of Humanity | 107077 | [107077-puppetshow-the-face-of-humanity.json](./107077-puppetshow-the-face-of-humanity.json) |
 | PuppetShow: The Price of Immortality | 99704 | [99704-puppetshow-the-price-of-immortality.json](./99704-puppetshow-the-price-of-immortality.json) |
+| PuppetShow: The Price of Immortality - Collector's Edition | 368892 | [368892-puppetshow-the-price-of-immortality-collectors-edition.json](./368892-puppetshow-the-price-of-immortality-collectors-edition.json) |
 | PuppetsVR | 56872 | [56872-puppetsvr.json](./56872-puppetsvr.json) |
 | Puppies vs Undead | 86359 | [86359-puppies-vs-undead.json](./86359-puppies-vs-undead.json) |
 | Puppies World 3D | 84800 | [84800-puppies-world-3d.json](./84800-puppies-world-3d.json) |
