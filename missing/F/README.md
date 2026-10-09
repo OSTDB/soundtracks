@@ -3294,6 +3294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find the Cats: Japan Journey | 364077 | [364077-find-the-cats-japan-journey.json](./364077-find-the-cats-japan-journey.json) |
 | Find the Cats: Memory | 195593 | [195593-find-the-cats-memory.json](./195593-find-the-cats-memory.json) |
 | Find the difference - Very difficult Images | 104725 | [104725-find-the-difference-very-difficult-images.json](./104725-find-the-difference-very-difficult-images.json) |
+| Find the Differences 3D | 348809 | [348809-find-the-differences-3d.json](./348809-find-the-differences-3d.json) |
 | Find the Differences Detective | 232174 | [232174-find-the-differences-detective.json](./232174-find-the-differences-detective.json) |
 | Find the Four-Leaf Clover | 389055 | [389055-find-the-four-leaf-clover.json](./389055-find-the-four-leaf-clover.json) |
 | Find the Gnome | 96682 | [96682-find-the-gnome.json](./96682-find-the-gnome.json) |
@@ -3432,6 +3433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Finn's Ascent | 382458 | [382458-finns-ascent.json](./382458-finns-ascent.json) |
 | Finneon Accidentally Causes the End of the World | 339251 | [339251-finneon-accidentally-causes-the-end-of-the-world.json](./339251-finneon-accidentally-causes-the-end-of-the-world.json) |
 | Finnie's Bimbo Fishing | 395207 | [395207-finnies-bimbo-fishing.json](./395207-finnies-bimbo-fishing.json) |
+| Finnigan Fox | 348823 | [348823-finnigan-fox.json](./348823-finnigan-fox.json) |
 | Finnish Cabin Mayhem: Mökkimähinä | 321737 | [321737-finnish-cabin-mayhem-mokkimahina.json](./321737-finnish-cabin-mayhem-mokkimahina.json) |
 | Finnish Cottage 8 | 334484 | [334484-finnish-cottage-8.json](./334484-finnish-cottage-8.json) |
 | Finnish Cottage Simulator | 319559 | [319559-finnish-cottage-simulator.json](./319559-finnish-cottage-simulator.json) |
@@ -4846,6 +4848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Floor44 | 213011 | [213011-floor44.json](./213011-floor44.json) |
 | FloorBreaker | 358990 | [358990-floorbreaker.json](./358990-floorbreaker.json) |
 | Floors | 309374 | [309374-floors.json](./309374-floors.json) |
+| Floors | 348746 | [348746-floors.json](./348746-floors.json) |
 | FLOP | 342168 | [342168-flop.json](./342168-flop.json) |
 | Flop to the Top | 181712 | [181712-flop-to-the-top.json](./181712-flop-to-the-top.json) |
 | Flopfish | 380645 | [380645-flopfish.json](./380645-flopfish.json) |
@@ -8352,6 +8355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fuzoku Frame | 368118 | [368118-fuzoku-frame.json](./368118-fuzoku-frame.json) |
 | Fuzoroi no Lemon | 402552 | [402552-fuzoroi-no-lemon.json](./402552-fuzoroi-no-lemon.json) |
 | Fuzz | 240718 | [240718-fuzz.json](./240718-fuzz.json) |
+| Fuzz & Dizzy: Part-time Heroes | 348826 | [348826-fuzz-and-dizzy-part-time-heroes.json](./348826-fuzz-and-dizzy-part-time-heroes.json) |
 | Fuzzball | 69573 | [69573-fuzzball.json](./69573-fuzzball.json) |
 | FuzzBall | 140938 | [140938-fuzzball.json](./140938-fuzzball.json) |
 | Fuzzee Fever | 72942 | [72942-fuzzee-fever.json](./72942-fuzzee-fever.json) |
