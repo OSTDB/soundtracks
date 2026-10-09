@@ -1941,6 +1941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Team Rise | 258219 | [258219-team-rise.json](./258219-team-rise.json) |
 | Team Six | 255240 | [255240-team-six.json](./255240-team-six.json) |
 | Team Slay-Bells | 279727 | [279727-team-slay-bells.json](./279727-team-slay-bells.json) |
+| Team Sonic Fighters | 333675 | [333675-team-sonic-fighters.json](./333675-team-sonic-fighters.json) |
 | Team Sonic Racing | 103018 | [103018-team-sonic-racing.json](./103018-team-sonic-racing.json) |
 | Team Suzuki | 12792 | [12792-team-suzuki.json](./12792-team-suzuki.json) |
 | Team Troopers | 147625 | [147625-team-troopers.json](./147625-team-troopers.json) |
@@ -12368,6 +12369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thousand Hells: The Underworld Heists | 360177 | [360177-thousand-hells-the-underworld-heists.json](./360177-thousand-hells-the-underworld-heists.json) |
 | Thousand Island Solitaire | 206225 | [206225-thousand-island-solitaire.json](./206225-thousand-island-solitaire.json) |
 | Thousand Island Solitaire HD | 355004 | [355004-thousand-island-solitaire-hd.json](./355004-thousand-island-solitaire-hd.json) |
+| Thousand Lantern Lane | 333508 | [333508-thousand-lantern-lane.json](./333508-thousand-lantern-lane.json) |
 | Thousand N' Thousand: Mimico | 376665 | [376665-thousand-n-thousand-mimico.json](./376665-thousand-n-thousand-mimico.json) |
 | Thousand Week Reich | 256452 | [256452-thousand-week-reich.json](./256452-thousand-week-reich.json) |
 | Thousands | 103354 | [103354-thousands.json](./103354-thousands.json) |
@@ -12406,6 +12408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Three Guys That Paint | 124674 | [124674-three-guys-that-paint.json](./124674-three-guys-that-paint.json) |
 | Three Heroes | 34990 | [34990-three-heroes.json](./34990-three-heroes.json) |
 | Three Hoops | 233076 | [233076-three-hoops.json](./233076-three-hoops.json) |
+| Three in One | 333684 | [333684-three-in-one.json](./333684-three-in-one.json) |
 | Three Kingdom: The Journey | 166618 | [166618-three-kingdom-the-journey.json](./166618-three-kingdom-the-journey.json) |
 | Three Kingdom: Zhang Jiao Revival | 374060 | [374060-three-kingdom-zhang-jiao-revival.json](./374060-three-kingdom-zhang-jiao-revival.json) |
 | Three Kingdoms | 355205 | [355205-three-kingdoms.json](./355205-three-kingdoms.json) |
@@ -12513,6 +12516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Through the Abyss | 217314 | [217314-through-the-abyss.json](./217314-through-the-abyss.json) |
 | Through the Ages | 87726 | [87726-through-the-ages.json](./87726-through-the-ages.json) |
 | Through the Ages: New Leaders & Wonders | 155052 | [155052-through-the-ages-new-leaders-and-wonders.json](./155052-through-the-ages-new-leaders-and-wonders.json) |
+| Through the Edges | 333669 | [333669-through-the-edges.json](./333669-through-the-edges.json) |
 | Through the Fragmentation | 147400 | [147400-through-the-fragmentation.json](./147400-through-the-fragmentation.json) |
 | Through the Frame | 169402 | [169402-through-the-frame.json](./169402-through-the-frame.json) |
 | Through the Galaxy | 312129 | [312129-through-the-galaxy.json](./312129-through-the-galaxy.json) |
