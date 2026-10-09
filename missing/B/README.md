@@ -87,6 +87,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baba Yaga | 330347 | [330347-baba-yaga.json](./330347-baba-yaga.json) |
 | Baba-Yaga za tridevyat' zemel'. Nachinaem uchit' nemetskiy | 365290 | [365290-baba-yaga-za-tridevyat-zemel-nachinaem-uchit-nemetskiy.json](./365290-baba-yaga-za-tridevyat-zemel-nachinaem-uchit-nemetskiy.json) |
 | Baba's Palace | 311985 | [311985-babas-palace.json](./311985-babas-palace.json) |
+| Babala | 338755 | [338755-babala.json](./338755-babala.json) |
 | Babaliba | 45339 | [45339-babaliba.json](./45339-babaliba.json) |
 | Babava's Playspace | 278974 | [278974-babavas-playspace.json](./278974-babavas-playspace.json) |
 | Babbdi | 229631 | [229631-babbdi.json](./229631-babbdi.json) |
@@ -7301,6 +7302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bograts: The Puzzling Misadventure | 14330 | [14330-bograts-the-puzzling-misadventure.json](./14330-bograts-the-puzzling-misadventure.json) |
 | Bogwater | 381727 | [381727-bogwater.json](./381727-bogwater.json) |
 | Bogy Men | 60206 | [60206-bogy-men.json](./60206-bogy-men.json) |
+| Bohemian Cupid | 338666 | [338666-bohemian-cupid.json](./338666-bohemian-cupid.json) |
 | Bohemian Yard | 217866 | [217866-bohemian-yard.json](./217866-bohemian-yard.json) |
 | Bohrdom | 112947 | [112947-bohrdom.json](./112947-bohrdom.json) |
 | Boid | 17646 | [17646-boid.json](./17646-boid.json) |
