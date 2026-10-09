@@ -1178,6 +1178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Parking - Test Drive and Parking Simulator | 88298 | [88298-car-parking-test-drive-and-parking-simulator.json](./88298-car-parking-test-drive-and-parking-simulator.json) |
 | Car Parking & Car Driving Simulator 2023 | 271702 | [271702-car-parking-and-car-driving-simulator-2023.json](./271702-car-parking-and-car-driving-simulator-2023.json) |
 | Car Parking 2 | 232448 | [232448-car-parking-2.json](./232448-car-parking-2.json) |
+| Car Parking Adventure | 384283 | [384283-car-parking-adventure.json](./384283-car-parking-adventure.json) |
 | Car Parking Game 3D - Real City Driving School | 83585 | [83585-car-parking-game-3d-real-city-driving-school.json](./83585-car-parking-game-3d-real-city-driving-school.json) |
 | Car Parking Legends: Drive & Park Adventure | 322661 | [322661-car-parking-legends-drive-and-park-adventure.json](./322661-car-parking-legends-drive-and-park-adventure.json) |
 | Car Parking Multiplayer | 232563 | [232563-car-parking-multiplayer.json](./232563-car-parking-multiplayer.json) |
@@ -6443,6 +6444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Codename: God | 305947 | [305947-codename-god.json](./305947-codename-god.json) |
 | Codename: Gordon | 11749 | [11749-codename-gordon.json](./11749-codename-gordon.json) |
 | Codename: Kids Next Door - Operation: V.I.D.E.O.G.A.M.E. | 2812 | [2812-codename-kids-next-door-operation-v-i-d-e-o-g-a-m-e.json](./2812-codename-kids-next-door-operation-v-i-d-e-o-g-a-m-e.json) |
+| Codename: Lovania | 384246 | [384246-codename-lovania.json](./384246-codename-lovania.json) |
 | Codename: Mystery Babylon | 157154 | [157154-codename-mystery-babylon.json](./157154-codename-mystery-babylon.json) |
 | Codename: Nanxiangzi | 288826 | [288826-codename-nanxiangzi.json](./288826-codename-nanxiangzi.json) |
 | Codename: Panzers - Cold War | 15762 | [15762-codename-panzers-cold-war.json](./15762-codename-panzers-cold-war.json) |
@@ -11362,6 +11364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curse of the Deadwood | 172152 | [172152-curse-of-the-deadwood.json](./172152-curse-of-the-deadwood.json) |
 | Curse of the Draugr Kings | 244767 | [244767-curse-of-the-draugr-kings.json](./244767-curse-of-the-draugr-kings.json) |
 | Curse of the Dungeon | 126580 | [126580-curse-of-the-dungeon.json](./126580-curse-of-the-dungeon.json) |
+| Curse of the Ethereal Dragon | 384301 | [384301-curse-of-the-ethereal-dragon.json](./384301-curse-of-the-ethereal-dragon.json) |
 | Curse of the Forsaken | 373610 | [373610-curse-of-the-forsaken.json](./373610-curse-of-the-forsaken.json) |
 | Curse of the Great Forest | 40704 | [40704-curse-of-the-great-forest.json](./40704-curse-of-the-great-forest.json) |
 | Curse of the Juniper Tree | 301409 | [301409-curse-of-the-juniper-tree.json](./301409-curse-of-the-juniper-tree.json) |
