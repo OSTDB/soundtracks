@@ -6562,6 +6562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gura's Birthday | 161177 | [161177-guras-birthday.json](./161177-guras-birthday.json) |
 | Guragura Oden | 296948 | [296948-guragura-oden.json](./296948-guragura-oden.json) |
 | Guranbo | 49596 | [49596-guranbo.json](./49596-guranbo.json) |
+| GuraQuest | 363320 | [363320-guraquest.json](./363320-guraquest.json) |
 | Gurei | 235913 | [235913-gurei.json](./235913-gurei.json) |
 | Gurgosus Wunderbar | 124718 | [124718-gurgosus-wunderbar.json](./124718-gurgosus-wunderbar.json) |
 | Guri-guri Europe | 151667 | [151667-guri-guri-europe.json](./151667-guri-guri-europe.json) |
