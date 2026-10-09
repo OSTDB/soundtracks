@@ -245,6 +245,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Back to Modern World: Fantasy Hero | 364966 | [364966-back-to-modern-world-fantasy-hero.json](./364966-back-to-modern-world-fantasy-hero.json) |
 | Back to Nature | 84980 | [84980-back-to-nature.json](./84980-back-to-nature.json) |
 | Back to Reality | 267012 | [267012-back-to-reality.json](./267012-back-to-reality.json) |
+| Back to Saturn X Episode 2: Tower in the Fountain of Sparks | 340875 | [340875-back-to-saturn-x-episode-2-tower-in-the-fountain-of-sparks.json](./340875-back-to-saturn-x-episode-2-tower-in-the-fountain-of-sparks.json) |
+| Back to Saturn X Episode 3: Instructions to the Rusty Time Machine | 340877 | [340877-back-to-saturn-x-episode-3-instructions-to-the-rusty-time-machine.json](./340877-back-to-saturn-x-episode-3-instructions-to-the-rusty-time-machine.json) |
 | Back to School | 352237 | [352237-back-to-school.json](./352237-back-to-school.json) |
 | Back To School | 278739 | [278739-back-to-school.json](./278739-back-to-school.json) |
 | Back To School | 379991 | [379991-back-to-school.json](./379991-back-to-school.json) |
@@ -8231,6 +8233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bouncy Chicken | 306529 | [306529-bouncy-chicken.json](./306529-bouncy-chicken.json) |
 | Bouncy Cloud | 156724 | [156724-bouncy-cloud.json](./156724-bouncy-cloud.json) |
 | Bouncy Ducks | 69476 | [69476-bouncy-ducks.json](./69476-bouncy-ducks.json) |
+| Bouncy Egg | 340974 | [340974-bouncy-egg.json](./340974-bouncy-egg.json) |
 | Bouncy Egg | 96287 | [96287-bouncy-egg.json](./96287-bouncy-egg.json) |
 | Bouncy Goal | 242219 | [242219-bouncy-goal.json](./242219-bouncy-goal.json) |
 | Bouncy Goat Climb | 186688 | [186688-bouncy-goat-climb.json](./186688-bouncy-goat-climb.json) |
