@@ -1063,6 +1063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garden | 230201 | [230201-garden.json](./230201-garden.json) |
 | Garden & Bird | 346084 | [346084-garden-and-bird.json](./346084-garden-and-bird.json) |
 | Garden Affairs | 214058 | [214058-garden-affairs.json](./214058-garden-affairs.json) |
+| Garden Blast | 354974 | [354974-garden-blast.json](./354974-garden-blast.json) |
 | Garden Bots | 395900 | [395900-garden-bots.json](./395900-garden-bots.json) |
 | Garden Box | 314675 | [314675-garden-box.json](./314675-garden-box.json) |
 | Garden Business | 215902 | [215902-garden-business.json](./215902-garden-business.json) |
@@ -4311,6 +4312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gotcha Number for Playdate | 276716 | [276716-gotcha-number-for-playdate.json](./276716-gotcha-number-for-playdate.json) |
 | Gotcha! | 27535 | [27535-gotcha.json](./27535-gotcha.json) |
 | Gotcha! The Sport! | 5848 | [5848-gotcha-the-sport.json](./5848-gotcha-the-sport.json) |
+| Gotchi Guardians | 354980 | [354980-gotchi-guardians.json](./354980-gotchi-guardians.json) |
 | Gotha | 92102 | [92102-gotha.json](./92102-gotha.json) |
 | Gotham City Impostors: Pretty Poison | 170876 | [170876-gotham-city-impostors-pretty-poison.json](./170876-gotham-city-impostors-pretty-poison.json) |
 | Gotham Gangsta | 29930 | [29930-gotham-gangsta.json](./29930-gotham-gangsta.json) |
