@@ -2345,6 +2345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red or Blue | 333620 | [333620-red-or-blue.json](./333620-red-or-blue.json) |
 | Red Orchestra: Ostfront 41-45 | 9409 | [9409-red-orchestra-ostfront-41-45.json](./9409-red-orchestra-ostfront-41-45.json) |
 | Red Out Block | 377788 | [377788-red-out-block.json](./377788-red-out-block.json) |
+| Red Out Block Aim! Shooting | 385946 | [385946-red-out-block-aim-shooting.json](./385946-red-out-block-aim-shooting.json) |
 | Red Panda x Cats Bundle | 331512 | [331512-red-panda-x-cats-bundle.json](./331512-red-panda-x-cats-bundle.json) |
 | Red Passport: Ticket to Russia | 373669 | [373669-red-passport-ticket-to-russia.json](./373669-red-passport-ticket-to-russia.json) |
 | Red Pixel | 59925 | [59925-red-pixel.json](./59925-red-pixel.json) |
@@ -3711,6 +3712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reunion | 323776 | [323776-reunion.json](./323776-reunion.json) |
 | Reunion | 388703 | [388703-reunion.json](./388703-reunion.json) |
 | Reunion of Angel | 271706 | [271706-reunion-of-angel.json](./271706-reunion-of-angel.json) |
+| Reunion: Autumn Leaf - Final Release | 385893 | [385893-reunion-autumn-leaf-final-release.json](./385893-reunion-autumn-leaf-final-release.json) |
 | Reunited | 108910 | [108910-reunited.json](./108910-reunited.json) |
 | Reunited in the Mist | 364484 | [364484-reunited-in-the-mist.json](./364484-reunited-in-the-mist.json) |
 | Reunition | 89208 | [89208-reunition.json](./89208-reunition.json) |
