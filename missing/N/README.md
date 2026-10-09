@@ -2638,6 +2638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Seeker | 378911 | [378911-night-seeker.json](./378911-night-seeker.json) |
 | Night Shift | 125262 | [125262-night-shift.json](./125262-night-shift.json) |
 | Night Shift | 311609 | [311609-night-shift.json](./311609-night-shift.json) |
+| Night Shift at the Gym | 373358 | [373358-night-shift-at-the-gym.json](./373358-night-shift-at-the-gym.json) |
 | Night Shift Customer | 372599 | [372599-night-shift-customer.json](./372599-night-shift-customer.json) |
 | Night Shift Nightmare | 395794 | [395794-night-shift-nightmare.json](./395794-night-shift-nightmare.json) |
 | Night Shift Nurses | 320234 | [320234-night-shift-nurses.json](./320234-night-shift-nurses.json) |
@@ -2875,6 +2876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightwalker | 69516 | [69516-nightwalker.json](./69516-nightwalker.json) |
 | Nightwalker 2 | 152854 | [152854-nightwalker-2.json](./152854-nightwalker-2.json) |
 | Nightwatch | 81339 | [81339-nightwatch.json](./81339-nightwatch.json) |
+| Nightwatch at the Hopkins' Cliffside | 371597 | [371597-nightwatch-at-the-hopkins-cliffside.json](./371597-nightwatch-at-the-hopkins-cliffside.json) |
 | Nightwatch at the Museum | 415874 | [415874-nightwatch-at-the-museum.json](./415874-nightwatch-at-the-museum.json) |
 | Nightwater | 386296 | [386296-nightwater.json](./386296-nightwater.json) |
 | Nightwolf: Survive the Megadome | 68995 | [68995-nightwolf-survive-the-megadome.json](./68995-nightwolf-survive-the-megadome.json) |
@@ -3438,6 +3440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Escape Saga | 146540 | [146540-no-escape-saga.json](./146540-no-escape-saga.json) |
 | No Fair Play | 172755 | [172755-no-fair-play.json](./172755-no-fair-play.json) |
 | No Fate! Only the Power of Will | 7123 | [7123-no-fate-only-the-power-of-will.json](./7123-no-fate-only-the-power-of-will.json) |
+| No Fear Downhill Mountain Biking | 372835 | [372835-no-fear-downhill-mountain-biking.json](./372835-no-fear-downhill-mountain-biking.json) |
 | No Fear Downhill Mountain Biking | 4654 | [4654-no-fear-downhill-mountain-biking.json](./4654-no-fear-downhill-mountain-biking.json) |
 | No Final Night: Protect the Sponk Can | 410918 | [410918-no-final-night-protect-the-sponk-can.json](./410918-no-final-night-protect-the-sponk-can.json) |
 | No Food No Drink | 338752 | [338752-no-food-no-drink.json](./338752-no-food-no-drink.json) |
@@ -4624,6 +4627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NutsMania | 401757 | [401757-nutsmania.json](./401757-nutsmania.json) |
 | Nutty | 299170 | [299170-nutty.json](./299170-nutty.json) |
 | Nutty Motorcars | 215626 | [215626-nutty-motorcars.json](./215626-nutty-motorcars.json) |
+| Nutty Nemesis: Nile's Downfall | 371751 | [371751-nutty-nemesis-niles-downfall.json](./371751-nutty-nemesis-niles-downfall.json) |
 | Nutty Noon | 240329 | [240329-nutty-noon.json](./240329-nutty-noon.json) |
 | Nutz Revenge | 302942 | [302942-nutz-revenge.json](./302942-nutz-revenge.json) |
 | Nuvoid | 25906 | [25906-nuvoid.json](./25906-nuvoid.json) |
