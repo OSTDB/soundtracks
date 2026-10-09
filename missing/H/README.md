@@ -232,6 +232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hajwala Of Riyadh | 366215 | [366215-hajwala-of-riyadh.json](./366215-hajwala-of-riyadh.json) |
 | Hakarena Heart: Dare ga Tame ni Kimi ha Aru | 69292 | [69292-hakarena-heart-dare-ga-tame-ni-kimi-ha-aru.json](./69292-hakarena-heart-dare-ga-tame-ni-kimi-ha-aru.json) |
 | Hakkaku Doku | 323707 | [323707-hakkaku-doku.json](./323707-hakkaku-doku.json) |
+| Hakkemii no Uranai SP | 354390 | [354390-hakkemii-no-uranai-sp.json](./354390-hakkemii-no-uranai-sp.json) |
 | Hakkenden | 327200 | [327200-hakkenden.json](./327200-hakkenden.json) |
 | Hakkenkast | 311673 | [311673-hakkenkast.json](./311673-hakkenkast.json) |
 | Hako | 22468 | [22468-hako.json](./22468-hako.json) |
