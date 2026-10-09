@@ -784,6 +784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Falling Up | 134678 | [134678-falling-up.json](./134678-falling-up.json) |
 | Falling with Ice Phoenix!: Cozy Version | 387625 | [387625-falling-with-ice-phoenix-cozy-version.json](./387625-falling-with-ice-phoenix-cozy-version.json) |
 | Falling words | 100483 | [100483-falling-words.json](./100483-falling-words.json) |
+| FallingBattle | 350471 | [350471-fallingbattle.json](./350471-fallingbattle.json) |
 | Fallingstar | 177865 | [177865-fallingstar.json](./177865-fallingstar.json) |
 | FallMan | 60560 | [60560-fallman.json](./60560-fallman.json) |
 | FallNation | 217213 | [217213-fallnation.json](./217213-fallnation.json) |
@@ -1893,6 +1894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fate (Carnivale Card Game) | 132012 | [132012-fate-carnivale-card-game.json](./132012-fate-carnivale-card-game.json) |
 | Fate / Hollow Ataraxia: Limited Edition | 89862 | [89862-fate-hollow-ataraxia-limited-edition.json](./89862-fate-hollow-ataraxia-limited-edition.json) |
 | Fate & Inflation | 391721 | [391721-fate-and-inflation.json](./391721-fate-and-inflation.json) |
+| Fate And Destiny: The Elonia Chronicles | 350388 | [350388-fate-and-destiny-the-elonia-chronicles.json](./350388-fate-and-destiny-the-elonia-chronicles.json) |
 | Fate Architect | 381864 | [381864-fate-architect.json](./381864-fate-architect.json) |
 | Fate Chapter 2: The Beginning | 178414 | [178414-fate-chapter-2-the-beginning.json](./178414-fate-chapter-2-the-beginning.json) |
 | Fate Chessboard | 247677 | [247677-fate-chessboard.json](./247677-fate-chessboard.json) |
@@ -6200,6 +6202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortress Under Siege | 89795 | [89795-fortress-under-siege.json](./89795-fortress-under-siege.json) |
 | Fortress Underground | 49515 | [49515-fortress-underground.json](./49515-fortress-underground.json) |
 | Fortress VR | 239730 | [239730-fortress-vr.json](./239730-fortress-vr.json) |
+| Fortress-Life | 350390 | [350390-fortress-life.json](./350390-fortress-life.json) |
 | FortressCraft Evolved!: Adventures Pack | 168202 | [168202-fortresscraft-evolved-adventures-pack.json](./168202-fortresscraft-evolved-adventures-pack.json) |
 | FortressCraft Evolved!: Frozen Factory | 167319 | [167319-fortresscraft-evolved-frozen-factory.json](./167319-fortresscraft-evolved-frozen-factory.json) |
 | FortressCraft: Chapter 1 | 168834 | [168834-fortresscraft-chapter-1.json](./168834-fortresscraft-chapter-1.json) |
