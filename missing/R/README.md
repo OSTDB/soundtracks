@@ -149,6 +149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rabbit's All-Comers Mapping Project | 260958 | [260958-rabbits-all-comers-mapping-project.json](./260958-rabbits-all-comers-mapping-project.json) |
 | Rabbit's All-Comers Mapping Project 2022 | 260962 | [260962-rabbits-all-comers-mapping-project-2022.json](./260962-rabbits-all-comers-mapping-project-2022.json) |
 | Rabbit's All-Comers Mapping Project 2023 | 260963 | [260963-rabbits-all-comers-mapping-project-2023.json](./260963-rabbits-all-comers-mapping-project-2023.json) |
+| Rabbit's Hop | 373330 | [373330-rabbits-hop.json](./373330-rabbits-hop.json) |
 | Rabbit's Quest | 142342 | [142342-rabbits-quest.json](./142342-rabbits-quest.json) |
 | RabbitJack's Casino | 67960 | [67960-rabbitjacks-casino.json](./67960-rabbitjacks-casino.json) |
 | Rabby in the Land of Sweets | 165646 | [165646-rabby-in-the-land-of-sweets.json](./165646-rabby-in-the-land-of-sweets.json) |
@@ -2363,6 +2364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Out Block | 377788 | [377788-red-out-block.json](./377788-red-out-block.json) |
 | Red Out Block Aim! Shooting | 385946 | [385946-red-out-block-aim-shooting.json](./385946-red-out-block-aim-shooting.json) |
 | Red Panda x Cats Bundle | 331512 | [331512-red-panda-x-cats-bundle.json](./331512-red-panda-x-cats-bundle.json) |
+| Red Panda: The Quiet Path | 373327 | [373327-red-panda-the-quiet-path.json](./373327-red-panda-the-quiet-path.json) |
 | Red Passport: Ticket to Russia | 373669 | [373669-red-passport-ticket-to-russia.json](./373669-red-passport-ticket-to-russia.json) |
 | Red Pixel | 59925 | [59925-red-pixel.json](./59925-red-pixel.json) |
 | Red Planet Rampage | 291178 | [291178-red-planet-rampage.json](./291178-red-planet-rampage.json) |
@@ -3148,6 +3150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | République: Episode 5 - Terminus | 127130 | [127130-republique-episode-5-terminus.json](./127130-republique-episode-5-terminus.json) |
 | Repulsar | 80187 | [80187-repulsar.json](./80187-repulsar.json) |
 | Repulse | 47201 | [47201-repulse.json](./47201-repulse.json) |
+| RePulse-X | 373312 | [373312-repulse-x.json](./373312-repulse-x.json) |
 | Repulse: Galactic Rivals | 75166 | [75166-repulse-galactic-rivals.json](./75166-repulse-galactic-rivals.json) |
 | Repulsor | 199593 | [199593-repulsor.json](./199593-repulsor.json) |
 | Repunk | 255675 | [255675-repunk.json](./255675-repunk.json) |
@@ -5680,6 +5683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rockets | 108514 | [108514-rockets.json](./108514-rockets.json) |
 | Rockets, Planes, Soldiers | 267014 | [267014-rockets-planes-soldiers.json](./267014-rockets-planes-soldiers.json) |
 | Rockets.com | 415449 | [415449-rockets-com.json](./415449-rockets-com.json) |
+| RocketShip Go Up | 373347 | [373347-rocketship-go-up.json](./373347-rocketship-go-up.json) |
 | Rocketship Rescue | 178638 | [178638-rocketship-rescue.json](./178638-rocketship-rescue.json) |
 | RocketsRocketsRockets | 36342 | [36342-rocketsrocketsrockets.json](./36342-rocketsrocketsrockets.json) |
 | RocketStarz | 143344 | [143344-rocketstarz.json](./143344-rocketstarz.json) |
@@ -6337,7 +6341,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Romance of the Three Kingdoms XIII: Scenario for War Chronicles Mode - 5th Wave: The Battle for Yan Province | 164499 | [164499-romance-of-the-three-kingdoms-xiii-scenario-for-war-chronicles-mode-5th-wave-the-battle-for-yan-province.json](./164499-romance-of-the-three-kingdoms-xiii-scenario-for-war-chronicles-mode-5th-wave-the-battle-for-yan-province.json) |
 | Romance of the Three Kingdoms XIII: Sun Ce Pushing Forward Event Set | 164493 | [164493-romance-of-the-three-kingdoms-xiii-sun-ce-pushing-forward-event-set.json](./164493-romance-of-the-three-kingdoms-xiii-sun-ce-pushing-forward-event-set.json) |
 | Romance of the Three Kingdoms XIII: Zhuge Liang's Northern Campaign Event Set | 164502 | [164502-romance-of-the-three-kingdoms-xiii-zhuge-liangs-northern-campaign-event-set.json](./164502-romance-of-the-three-kingdoms-xiii-zhuge-liangs-northern-campaign-event-set.json) |
-| Romance of the Three Kingdoms XIV Complete Edition | 407202 | [407202-romance-of-the-three-kingdoms-xiv-complete-edition.json](./407202-romance-of-the-three-kingdoms-xiv-complete-edition.json) |
 | Romance of the Three Kingdoms XIV with Power Up Kit: Digital Deluxe Edition | 222265 | [222265-romance-of-the-three-kingdoms-xiv-with-power-up-kit-digital-deluxe-edition.json](./222265-romance-of-the-three-kingdoms-xiv-with-power-up-kit-digital-deluxe-edition.json) |
 | Romance of the Three Kingdoms XIV: Diplomacy and Strategy Expansion Pack | 350638 | [350638-romance-of-the-three-kingdoms-xiv-diplomacy-and-strategy-expansion-pack.json](./350638-romance-of-the-three-kingdoms-xiv-diplomacy-and-strategy-expansion-pack.json) |
 | Romance of the Three Kingdoms XIV: Diplomacy and Strategy Expansion Pack Bundle | 147803 | [147803-romance-of-the-three-kingdoms-xiv-diplomacy-and-strategy-expansion-pack-bundle.json](./147803-romance-of-the-three-kingdoms-xiv-diplomacy-and-strategy-expansion-pack-bundle.json) |
