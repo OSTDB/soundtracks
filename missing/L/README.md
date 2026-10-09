@@ -3052,6 +3052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lilith Rising: Season 2 | 296929 | [296929-lilith-rising-season-2.json](./296929-lilith-rising-season-2.json) |
 | Lilith Wants to Buy Your Soul | 244745 | [244745-lilith-wants-to-buy-your-soul.json](./244745-lilith-wants-to-buy-your-soul.json) |
 | Lilith Was Dead | 163839 | [163839-lilith-was-dead.json](./163839-lilith-was-dead.json) |
+| Lilith: Rise of the Fallen | 354939 | [354939-lilith-rise-of-the-fallen.json](./354939-lilith-rise-of-the-fallen.json) |
 | Lilith.pk3 | 227765 | [227765-lilith-pk3.json](./227765-lilith-pk3.json) |
 | Lilith's Game | 339998 | [339998-liliths-game.json](./339998-liliths-game.json) |
 | Lilith's Syndrome | 297037 | [297037-liliths-syndrome.json](./297037-liliths-syndrome.json) |
@@ -5064,6 +5065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lottery Center Simulator | 369723 | [369723-lottery-center-simulator.json](./369723-lottery-center-simulator.json) |
 | Lottie! | 388890 | [388890-lottie.json](./388890-lottie.json) |
 | Lotto Fun | 312352 | [312352-lotto-fun.json](./312352-lotto-fun.json) |
+| Lottso! Express HD | 354977 | [354977-lottso-express-hd.json](./354977-lottso-express-hd.json) |
 | Lotus | 105745 | [105745-lotus.json](./105745-lotus.json) |
 | Lotus | 45249 | [45249-lotus.json](./45249-lotus.json) |
 | Lotus Bloom | 149724 | [149724-lotus-bloom.json](./149724-lotus-bloom.json) |
@@ -5536,6 +5538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luckrot | 351706 | [351706-luckrot.json](./351706-luckrot.json) |
 | Lucky 21 | 241337 | [241337-lucky-21.json](./241337-lucky-21.json) |
 | Lucky Break: Dating in New York | 372684 | [372684-lucky-break-dating-in-new-york.json](./372684-lucky-break-dating-in-new-york.json) |
+| Lucky Cat Bingo | 354978 | [354978-lucky-cat-bingo.json](./354978-lucky-cat-bingo.json) |
 | Lucky Charms | 406862 | [406862-lucky-charms.json](./406862-lucky-charms.json) |
 | Lucky Coins | 175264 | [175264-lucky-coins.json](./175264-lucky-coins.json) |
 | Lucky day | 166750 | [166750-lucky-day.json](./166750-lucky-day.json) |
