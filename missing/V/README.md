@@ -79,6 +79,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vacation Adventures: Park Ranger 12 | 193218 | [193218-vacation-adventures-park-ranger-12.json](./193218-vacation-adventures-park-ranger-12.json) |
 | Vacation Adventures: Park Ranger 14 | 216854 | [216854-vacation-adventures-park-ranger-14.json](./216854-vacation-adventures-park-ranger-14.json) |
 | Vacation Adventures: Park Ranger 16 - Collectors Edition | 311108 | [311108-vacation-adventures-park-ranger-16-collectors-edition.json](./311108-vacation-adventures-park-ranger-16-collectors-edition.json) |
+| Vacation Adventures: Park Ranger 17 | 381372 | [381372-vacation-adventures-park-ranger-17.json](./381372-vacation-adventures-park-ranger-17.json) |
 | Vacation Adventures: Park Ranger 18 - Collectors Edition | 416779 | [416779-vacation-adventures-park-ranger-18-collectors-edition.json](./416779-vacation-adventures-park-ranger-18-collectors-edition.json) |
 | Vacation Adventures: Park Ranger 2 | 85465 | [85465-vacation-adventures-park-ranger-2.json](./85465-vacation-adventures-park-ranger-2.json) |
 | Vacation Adventures: Park Ranger 4 | 88460 | [88460-vacation-adventures-park-ranger-4.json](./88460-vacation-adventures-park-ranger-4.json) |
@@ -856,6 +857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Venova Adventure | 200002 | [200002-venova-adventure.json](./200002-venova-adventure.json) |
 | Ventilate | 337305 | [337305-ventilate.json](./337305-ventilate.json) |
 | Ventilator | 57474 | [57474-ventilator.json](./57474-ventilator.json) |
+| Venturaka | 381327 | [381327-venturaka.json](./381327-venturaka.json) |
 | Venture | 94741 | [94741-venture.json](./94741-venture.json) |
 | Venture Arctic | 66707 | [66707-venture-arctic.json](./66707-venture-arctic.json) |
 | Venture Forth | 32087 | [32087-venture-forth.json](./32087-venture-forth.json) |
