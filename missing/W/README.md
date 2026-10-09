@@ -4043,6 +4043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizard Defenders | 85493 | [85493-wizard-defenders.json](./85493-wizard-defenders.json) |
 | Wizard Duel | 312542 | [312542-wizard-duel.json](./312542-wizard-duel.json) |
 | Wizard Duel | 377144 | [377144-wizard-duel.json](./377144-wizard-duel.json) |
+| Wizard Fight! | 357739 | [357739-wizard-fight.json](./357739-wizard-fight.json) |
 | Wizard Girl Anzu | 190057 | [190057-wizard-girl-anzu.json](./190057-wizard-girl-anzu.json) |
 | Wizard Golf RPG | 243711 | [243711-wizard-golf-rpg.json](./243711-wizard-golf-rpg.json) |
 | Wizard Graph | 185501 | [185501-wizard-graph.json](./185501-wizard-graph.json) |
