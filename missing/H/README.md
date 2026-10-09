@@ -2936,6 +2936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Gallery: Perfect Bodies | 381706 | [381706-hentai-gallery-perfect-bodies.json](./381706-hentai-gallery-perfect-bodies.json) |
 | Hentai Gallery: Secret Beauties | 378806 | [378806-hentai-gallery-secret-beauties.json](./378806-hentai-gallery-secret-beauties.json) |
 | Hentai Games Collection | 305906 | [305906-hentai-games-collection.json](./305906-hentai-games-collection.json) |
+| Hentai Games Collection Vol. 3 | 362202 | [362202-hentai-games-collection-vol-3.json](./362202-hentai-games-collection-vol-3.json) |
 | Hentai Girl Betty | 111252 | [111252-hentai-girl-betty.json](./111252-hentai-girl-betty.json) |
 | Hentai Girl Fantasy | 136425 | [136425-hentai-girl-fantasy.json](./136425-hentai-girl-fantasy.json) |
 | Hentai Girl Hime | 136426 | [136426-hentai-girl-hime.json](./136426-hentai-girl-hime.json) |
@@ -3061,6 +3062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Party: Summer Paradise | 371249 | [371249-hentai-party-summer-paradise.json](./371249-hentai-party-summer-paradise.json) |
 | Hentai Pazu | 219039 | [219039-hentai-pazu.json](./219039-hentai-pazu.json) |
 | Hentai Phoebe | 340443 | [340443-hentai-phoebe.json](./340443-hentai-phoebe.json) |
+| Hentai Photo: Ajisai | 362210 | [362210-hentai-photo-ajisai.json](./362210-hentai-photo-ajisai.json) |
 | Hentai Photo: Kaneshon | 362368 | [362368-hentai-photo-kaneshon.json](./362368-hentai-photo-kaneshon.json) |
 | Hentai Photo: Kuchinashi | 364089 | [364089-hentai-photo-kuchinashi.json](./364089-hentai-photo-kuchinashi.json) |
 | Hentai Photo: Sakura | 356820 | [356820-hentai-photo-sakura.json](./356820-hentai-photo-sakura.json) |
@@ -7340,6 +7342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyper Dimensional Basement Crawler | 177944 | [177944-hyper-dimensional-basement-crawler.json](./177944-hyper-dimensional-basement-crawler.json) |
 | Hyper Dimensional Dynamo | 183919 | [183919-hyper-dimensional-dynamo.json](./183919-hyper-dimensional-dynamo.json) |
 | Hyper DOS | 183327 | [183327-hyper-dos.json](./183327-hyper-dos.json) |
+| Hyper Dots | 362203 | [362203-hyper-dots.json](./362203-hyper-dots.json) |
 | Hyper Drill | 224612 | [224612-hyper-drill.json](./224612-hyper-drill.json) |
 | Hyper Drive Runner | 303554 | [303554-hyper-drive-runner.json](./303554-hyper-drive-runner.json) |
 | Hyper Drive: The Insane Gravity Race | 51598 | [51598-hyper-drive-the-insane-gravity-race.json](./51598-hyper-drive-the-insane-gravity-race.json) |
