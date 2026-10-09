@@ -2588,6 +2588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Market Empire Simulator | 366962 | [366962-market-empire-simulator.json](./366962-market-empire-simulator.json) |
 | Market Hours | 399710 | [399710-market-hours.json](./399710-market-hours.json) |
 | Market Mogul | 59899 | [59899-market-mogul.json](./59899-market-mogul.json) |
+| Market Simulator | 342024 | [342024-market-simulator.json](./342024-market-simulator.json) |
 | Market Trouble | 182541 | [182541-market-trouble.json](./182541-market-trouble.json) |
 | Market Warfare | 252284 | [252284-market-warfare.json](./252284-market-warfare.json) |
 | Markham | 40361 | [40361-markham.json](./40361-markham.json) |
@@ -7824,6 +7825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mining And Achievements | 370179 | [370179-mining-and-achievements.json](./370179-mining-and-achievements.json) |
 | Mining Away! | 408242 | [408242-mining-away.json](./408242-mining-away.json) |
 | Mining Cats | 191156 | [191156-mining-cats.json](./191156-mining-cats.json) |
+| Mining Company | 342103 | [342103-mining-company.json](./342103-mining-company.json) |
 | Mining Copper | 224545 | [224545-mining-copper.json](./224545-mining-copper.json) |
 | Mining Empire: Earth Resources | 112868 | [112868-mining-empire-earth-resources.json](./112868-mining-empire-earth-resources.json) |
 | Mining Factory | 226197 | [226197-mining-factory.json](./226197-mining-factory.json) |
