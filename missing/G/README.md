@@ -3575,6 +3575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Godus | 3115 | [3115-godus.json](./3115-godus.json) |
 | Godwalker | 260240 | [260240-godwalker.json](./260240-godwalker.json) |
 | Godway: Only Up Simulator | 391134 | [391134-godway-only-up-simulator.json](./391134-godway-only-up-simulator.json) |
+| Godwreath: Chapter 1 | 384280 | [384280-godwreath-chapter-1.json](./384280-godwreath-chapter-1.json) |
 | GodWright | 414172 | [414172-godwright.json](./414172-godwright.json) |
 | Godzilla | 75888 | [75888-godzilla.json](./75888-godzilla.json) |
 | Godzilla | 75892 | [75892-godzilla.json](./75892-godzilla.json) |
@@ -3687,6 +3688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gold Miner Challenger | 215360 | [215360-gold-miner-challenger.json](./215360-gold-miner-challenger.json) |
 | Gold Miner Joe | 94580 | [94580-gold-miner-joe.json](./94580-gold-miner-joe.json) |
 | Gold Miner: Classic Edition | 360579 | [360579-gold-miner-classic-edition.json](./360579-gold-miner-classic-edition.json) |
+| Gold Miner: Return to Glory | 384298 | [384298-gold-miner-return-to-glory.json](./384298-gold-miner-return-to-glory.json) |
 | Gold Miner: Vegas | 188566 | [188566-gold-miner-vegas.json](./188566-gold-miner-vegas.json) |
 | Gold Mining Simulator | 39755 | [39755-gold-mining-simulator.json](./39755-gold-mining-simulator.json) |
 | Gold Mining Simulator + Mini Machines DLC | 332017 | [332017-gold-mining-simulator-mini-machines-dlc.json](./332017-gold-mining-simulator-mini-machines-dlc.json) |
@@ -5162,6 +5164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Green Oddities | 239281 | [239281-green-oddities.json](./239281-green-oddities.json) |
 | Green Ogre Gives You Terrible Life Advice and Dies | 309507 | [309507-green-ogre-gives-you-terrible-life-advice-and-dies.json](./309507-green-ogre-gives-you-terrible-life-advice-and-dies.json) |
 | Green Planet | 183405 | [183405-green-planet.json](./183405-green-planet.json) |
+| Green Pond Town | 384294 | [384294-green-pond-town.json](./384294-green-pond-town.json) |
 | Green Project | 133419 | [133419-green-project.json](./133419-green-project.json) |
 | Green Reaper | 246915 | [246915-green-reaper.json](./246915-green-reaper.json) |
 | Green Run | 107197 | [107197-green-run.json](./107197-green-run.json) |
