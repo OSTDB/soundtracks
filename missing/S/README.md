@@ -1589,6 +1589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SBX 5K | 132214 | [132214-sbx-5k.json](./132214-sbx-5k.json) |
 | SC Cat Games Bundle | 331511 | [331511-sc-cat-games-bundle.json](./331511-sc-cat-games-bundle.json) |
 | SC Games Triple Bundle | 331514 | [331514-sc-games-triple-bundle.json](./331514-sc-games-triple-bundle.json) |
+| SC Triple Cat Games Bundle | 333689 | [333689-sc-triple-cat-games-bundle.json](./333689-sc-triple-cat-games-bundle.json) |
 | SC2VN: The eSports Visual Novel | 19076 | [19076-sc2vn-the-esports-visual-novel.json](./19076-sc2vn-the-esports-visual-novel.json) |
 | Scab | 402285 | [402285-scab.json](./402285-scab.json) |
 | Scaffold | 400460 | [400460-scaffold.json](./400460-scaffold.json) |
@@ -9277,6 +9278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snow Bros. Wonderland | 309256 | [309256-snow-bros-wonderland.json](./309256-snow-bros-wonderland.json) |
 | Snow Bros.: Nick & Tom Special | 198126 | [198126-snow-bros-nick-and-tom-special.json](./198126-snow-bros-nick-and-tom-special.json) |
 | Snow Brothers 3: Magical Adventure | 39841 | [39841-snow-brothers-3-magical-adventure.json](./39841-snow-brothers-3-magical-adventure.json) |
+| Snow Buddies: Dog Sled Race | 333499 | [333499-snow-buddies-dog-sled-race.json](./333499-snow-buddies-dog-sled-race.json) |
 | Snow Cone | 341474 | [341474-snow-cone.json](./341474-snow-cone.json) |
 | Snow Cone Tycoon | 240850 | [240850-snow-cone-tycoon.json](./240850-snow-cone-tycoon.json) |
 | Snow Cones: Episode 1 | 182831 | [182831-snow-cones-episode-1.json](./182831-snow-cones-episode-1.json) |
@@ -10334,6 +10336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic & Shadow | 336350 | [336350-sonic-and-shadow.json](./336350-sonic-and-shadow.json) |
 | Sonic 04 | 265224 | [265224-sonic-04.json](./265224-sonic-04.json) |
 | Sonic 1 8-bit Redux | 317353 | [317353-sonic-1-8-bit-redux.json](./317353-sonic-1-8-bit-redux.json) |
+| Sonic 1 Delta | 333683 | [333683-sonic-1-delta.json](./333683-sonic-1-delta.json) |
 | Sonic 1 Easy Mode | 270220 | [270220-sonic-1-easy-mode.json](./270220-sonic-1-easy-mode.json) |
 | Sonic 1 on Bird Hill Island | 360500 | [360500-sonic-1-on-bird-hill-island.json](./360500-sonic-1-on-bird-hill-island.json) |
 | Sonic 1 Pilot | 337708 | [337708-sonic-1-pilot.json](./337708-sonic-1-pilot.json) |
@@ -10413,6 +10416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Arena 3 | 332260 | [332260-sonic-arena-3.json](./332260-sonic-arena-3.json) |
 | Sonic Arena: The Lost Chapters | 332257 | [332257-sonic-arena-the-lost-chapters.json](./332257-sonic-arena-the-lost-chapters.json) |
 | Sonic Ascends | 317611 | [317611-sonic-ascends.json](./317611-sonic-ascends.json) |
+| Sonic Aspect | 333685 | [333685-sonic-aspect.json](./333685-sonic-aspect.json) |
 | Sonic Astral Generations | 370199 | [370199-sonic-astral-generations.json](./370199-sonic-astral-generations.json) |
 | Sonic at the Olympic Games | 56926 | [56926-sonic-at-the-olympic-games.json](./56926-sonic-at-the-olympic-games.json) |
 | Sonic Aural | 326150 | [326150-sonic-aural.json](./326150-sonic-aural.json) |
@@ -10597,6 +10601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Mania Fangame | 326995 | [326995-sonic-mania-fangame.json](./326995-sonic-mania-fangame.json) |
 | Sonic Mania Plus | 94873 | [94873-sonic-mania-plus.json](./94873-sonic-mania-plus.json) |
 | Sonic Mania Randomizer | 386230 | [386230-sonic-mania-randomizer.json](./386230-sonic-mania-randomizer.json) |
+| Sonic Mania: Boss Rush+ | 333678 | [333678-sonic-mania-boss-rush.json](./333678-sonic-mania-boss-rush.json) |
 | Sonic Mania: Collector's Edition | 25684 | [25684-sonic-mania-collectors-edition.json](./25684-sonic-mania-collectors-edition.json) |
 | Sonic Mars Remake | 332576 | [332576-sonic-mars-remake.json](./332576-sonic-mars-remake.json) |
 | Sonic Matrix | 331397 | [331397-sonic-matrix.json](./331397-sonic-matrix.json) |
@@ -10830,6 +10835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic The Hedgehog: Electro Block | 313323 | [313323-sonic-the-hedgehog-electro-block.json](./313323-sonic-the-hedgehog-electro-block.json) |
 | Sonic the Hedgehog: Emerald Chaos | 331702 | [331702-sonic-the-hedgehog-emerald-chaos.json](./331702-sonic-the-hedgehog-emerald-chaos.json) |
 | Sonic The Hedgehog: EVO | 370484 | [370484-sonic-the-hedgehog-evo.json](./370484-sonic-the-hedgehog-evo.json) |
+| Sonic the Hedgehog: Genesis Blast! | 333672 | [333672-sonic-the-hedgehog-genesis-blast.json](./333672-sonic-the-hedgehog-genesis-blast.json) |
 | Sonic the Hedgehog: Hands of Time | 330707 | [330707-sonic-the-hedgehog-hands-of-time.json](./330707-sonic-the-hedgehog-hands-of-time.json) |
 | Sonic the Hedgehog: Legend of the Blue Blur 2 | 326950 | [326950-sonic-the-hedgehog-legend-of-the-blue-blur-2.json](./326950-sonic-the-hedgehog-legend-of-the-blue-blur-2.json) |
 | Sonic the Hedgehog: Lost Future | 330530 | [330530-sonic-the-hedgehog-lost-future.json](./330530-sonic-the-hedgehog-lost-future.json) |
@@ -10929,6 +10935,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic: Rewind | 326804 | [326804-sonic-rewind.json](./326804-sonic-rewind.json) |
 | Sonic: RTFI | 330513 | [330513-sonic-rtfi.json](./330513-sonic-rtfi.json) |
 | Sonic: Scorched Quest | 198565 | [198565-sonic-scorched-quest.json](./198565-sonic-scorched-quest.json) |
+| Sonic: Skyline | 333673 | [333673-sonic-skyline.json](./333673-sonic-skyline.json) |
+| Sonic: StarLight | 333677 | [333677-sonic-starlight.json](./333677-sonic-starlight.json) |
 | Sonic: The Blue Blur | 332611 | [332611-sonic-the-blue-blur.json](./332611-sonic-the-blue-blur.json) |
 | Sonic: The Chaos Effect | 330712 | [330712-sonic-the-chaos-effect.json](./330712-sonic-the-chaos-effect.json) |
 | Sonic: The Exe Game | 417606 | [417606-sonic-the-exe-game.json](./417606-sonic-the-exe-game.json) |
@@ -15514,6 +15522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starship Troopers | 245392 | [245392-starship-troopers.json](./245392-starship-troopers.json) |
 | Starship Troopers TC | 218116 | [218116-starship-troopers-tc.json](./218116-starship-troopers-tc.json) |
 | Starship Troopers: Battlespace | 72724 | [72724-starship-troopers-battlespace.json](./72724-starship-troopers-battlespace.json) |
+| Starship Troopers: Extermination - Galactic Victory Edition | 333690 | [333690-starship-troopers-extermination-galactic-victory-edition.json](./333690-starship-troopers-extermination-galactic-victory-edition.json) |
 | Starship Troopers: Extermination - Warrior Tiger Bundle | 331519 | [331519-starship-troopers-extermination-warrior-tiger-bundle.json](./331519-starship-troopers-extermination-warrior-tiger-bundle.json) |
 | Starship Troopers: Terran Command - Urban Onslaught | 298054 | [298054-starship-troopers-terran-command-urban-onslaught.json](./298054-starship-troopers-terran-command-urban-onslaught.json) |
 | StarShip Wars | 389422 | [389422-starship-wars.json](./389422-starship-wars.json) |
@@ -18028,6 +18037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suika Wan! | 397064 | [397064-suika-wan.json](./397064-suika-wan.json) |
 | Suika World | 280422 | [280422-suika-world.json](./280422-suika-world.json) |
 | Suikaiju | 331520 | [331520-suikaiju.json](./331520-suikaiju.json) |
+| Suikaiju x Red Panda Bundle | 333688 | [333688-suikaiju-x-red-panda-bundle.json](./333688-suikaiju-x-red-panda-bundle.json) |
 | Suikan Quest | 82857 | [82857-suikan-quest.json](./82857-suikan-quest.json) |
 | Suikarad Gold | 280766 | [280766-suikarad-gold.json](./280766-suikarad-gold.json) |
 | Suikawa Lead | 316290 | [316290-suikawa-lead.json](./316290-suikawa-lead.json) |
