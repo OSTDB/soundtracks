@@ -7501,6 +7501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Drift Car | 337460 | [337460-mini-drift-car.json](./337460-mini-drift-car.json) |
 | Mini Drift Car: All Cars Key | 337461 | [337461-mini-drift-car-all-cars-key.json](./337461-mini-drift-car-all-cars-key.json) |
 | Mini Dungeon | 326041 | [326041-mini-dungeon.json](./326041-mini-dungeon.json) |
+| Mini Dungeon | 357746 | [357746-mini-dungeon.json](./357746-mini-dungeon.json) |
 | Mini Fighters: Quest & Battle | 378404 | [378404-mini-fighters-quest-and-battle.json](./378404-mini-fighters-quest-and-battle.json) |
 | Mini Football | 322563 | [322563-mini-football.json](./322563-mini-football.json) |
 | Mini Football Cup | 334101 | [334101-mini-football-cup.json](./334101-mini-football-cup.json) |
@@ -8109,6 +8110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Missing | 213634 | [213634-missing.json](./213634-missing.json) |
 | Missing | 260677 | [260677-missing.json](./260677-missing.json) |
 | Missing | 321584 | [321584-missing.json](./321584-missing.json) |
+| Missing | 357730 | [357730-missing.json](./357730-missing.json) |
 | Missing | 374163 | [374163-missing.json](./374163-missing.json) |
 | Missing Blue | 125405 | [125405-missing-blue.json](./125405-missing-blue.json) |
 | Missing Cat | 208377 | [208377-missing-cat.json](./208377-missing-cat.json) |
