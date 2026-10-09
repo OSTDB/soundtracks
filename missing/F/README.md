@@ -2192,6 +2192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feed the Giants | 403207 | [403207-feed-the-giants.json](./403207-feed-the-giants.json) |
 | Feed the Head | 96185 | [96185-feed-the-head.json](./96185-feed-the-head.json) |
 | Feed the Horsebear | 130236 | [130236-feed-the-horsebear.json](./130236-feed-the-horsebear.json) |
+| Feed the Lie | 372273 | [372273-feed-the-lie.json](./372273-feed-the-lie.json) |
 | Feed the Pets | 109717 | [109717-feed-the-pets.json](./109717-feed-the-pets.json) |
 | Feed the Pets: Fall Animals | 192373 | [192373-feed-the-pets-fall-animals.json](./192373-feed-the-pets-fall-animals.json) |
 | Feed the Pig | 403230 | [403230-feed-the-pig.json](./403230-feed-the-pig.json) |
@@ -5392,6 +5393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football League 2023 | 223933 | [223933-football-league-2023.json](./223933-football-league-2023.json) |
 | Football Legacy | 394539 | [394539-football-legacy.json](./394539-football-legacy.json) |
 | Football Legend | 59080 | [59080-football-legend.json](./59080-football-legend.json) |
+| Football Legends 2025: Complete Edition | 404277 | [404277-football-legends-2025-complete-edition.json](./404277-football-legends-2025-complete-edition.json) |
 | Football Legends 2025: Diamond Edition | 399818 | [399818-football-legends-2025-diamond-edition.json](./399818-football-legends-2025-diamond-edition.json) |
 | Football Legends 2025: Gold Edition | 396917 | [396917-football-legends-2025-gold-edition.json](./396917-football-legends-2025-gold-edition.json) |
 | Football Life 2023 | 225767 | [225767-football-life-2023.json](./225767-football-life-2023.json) |
@@ -5904,6 +5906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Formation Z | 37190 | [37190-formation-z.json](./37190-formation-z.json) |
 | Former Future | 128452 | [128452-former-future.json](./128452-former-future.json) |
 | Formic Fortress | 405590 | [405590-formic-fortress.json](./405590-formic-fortress.json) |
+| Formido | 372243 | [372243-formido.json](./372243-formido.json) |
 | Formidolosa Nocte | 282839 | [282839-formidolosa-nocte.json](./282839-formidolosa-nocte.json) |
 | Formino | 175411 | [175411-formino.json](./175411-formino.json) |
 | Formless Adventure | 44232 | [44232-formless-adventure.json](./44232-formless-adventure.json) |
