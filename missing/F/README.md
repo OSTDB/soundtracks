@@ -2259,6 +2259,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Femboys of the Phalanx | 171068 | [171068-femboys-of-the-phalanx.json](./171068-femboys-of-the-phalanx.json) |
 | Femdom First Timers | 392445 | [392445-femdom-first-timers.json](./392445-femdom-first-timers.json) |
 | Femdom Game World: Stacy | 312709 | [312709-femdom-game-world-stacy.json](./312709-femdom-game-world-stacy.json) |
+| Femdom Girlfriend 5: Sophie's Morning Torment | 384847 | [384847-femdom-girlfriend-5-sophies-morning-torment.json](./384847-femdom-girlfriend-5-sophies-morning-torment.json) |
+| Femdom Girlfriend 7: Big-Breasted Bully | 384848 | [384848-femdom-girlfriend-7-big-breasted-bully.json](./384848-femdom-girlfriend-7-big-breasted-bully.json) |
+| Femdom Girlfriend 8: Sensual Femdom | 384849 | [384849-femdom-girlfriend-8-sensual-femdom.json](./384849-femdom-girlfriend-8-sensual-femdom.json) |
+| Femdom Girlfriend 9: Yuki's Femdom Beatdown | 384850 | [384850-femdom-girlfriend-9-yukis-femdom-beatdown.json](./384850-femdom-girlfriend-9-yukis-femdom-beatdown.json) |
 | Femdom Hero | 382480 | [382480-femdom-hero.json](./382480-femdom-hero.json) |
 | Femdom Lines | 368130 | [368130-femdom-lines.json](./368130-femdom-lines.json) |
 | Femdom Overtime | 400901 | [400901-femdom-overtime.json](./400901-femdom-overtime.json) |
