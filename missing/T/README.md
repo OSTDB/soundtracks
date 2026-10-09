@@ -7901,6 +7901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lonely Miner | 411121 | [411121-the-lonely-miner.json](./411121-the-lonely-miner.json) |
 | The Loner | 29712 | [29712-the-loner.json](./29712-the-loner.json) |
 | The Lonesome Guild | 333042 | [333042-the-lonesome-guild.json](./333042-the-lonesome-guild.json) |
+| The Long Arc | 353787 | [353787-the-long-arc.json](./353787-the-long-arc.json) |
 | The Long August Longing | 319712 | [319712-the-long-august-longing.json](./319712-the-long-august-longing.json) |
 | The Long Dark | 8347 | [8347-the-long-dark.json](./8347-the-long-dark.json) |
 | The Long Dark: Quiet Apocalypse Edition | 401672 | [401672-the-long-dark-quiet-apocalypse-edition.json](./401672-the-long-dark-quiet-apocalypse-edition.json) |
@@ -9291,6 +9292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Raven: Legacy of a Master Thief - Episode 2 | 172592 | [172592-the-raven-legacy-of-a-master-thief-episode-2.json](./172592-the-raven-legacy-of-a-master-thief-episode-2.json) |
 | The Ravendree Oracle | 258090 | [258090-the-ravendree-oracle.json](./258090-the-ravendree-oracle.json) |
 | The Ravine | 176241 | [176241-the-ravine.json](./176241-the-ravine.json) |
+| The Razorform | 353804 | [353804-the-razorform.json](./353804-the-razorform.json) |
 | The Reaction | 89680 | [89680-the-reaction.json](./89680-the-reaction.json) |
 | The Real Academic Challenge High School Level | 401094 | [401094-the-real-academic-challenge-high-school-level.json](./401094-the-real-academic-challenge-high-school-level.json) |
 | The Real Deal 2 | 130849 | [130849-the-real-deal-2.json](./130849-the-real-deal-2.json) |
