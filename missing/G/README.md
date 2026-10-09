@@ -1610,6 +1610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GemWords | 53084 | [53084-gemwords.json](./53084-gemwords.json) |
 | Gen 2.1. No Escape | 239608 | [239608-gen-2-1-no-escape.json](./239608-gen-2-1-no-escape.json) |
 | Gen Atlas | 325593 | [325593-gen-atlas.json](./325593-gen-atlas.json) |
+| Gen-Abyss | 351557 | [351557-gen-abyss.json](./351557-gen-abyss.json) |
 | Gen.loss | 307213 | [307213-gen-loss.json](./307213-gen-loss.json) |
 | Genba no Kizuna | 235738 | [235738-genba-no-kizuna.json](./235738-genba-no-kizuna.json) |
 | Genbu's Favour | 322556 | [322556-genbus-favour.json](./322556-genbus-favour.json) |
@@ -4232,6 +4233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gorb | 29029 | [29029-gorb.json](./29029-gorb.json) |
 | Gorble | 311272 | [311272-gorble.json](./311272-gorble.json) |
 | Gord: Deluxe Edition | 259522 | [259522-gord-deluxe-edition.json](./259522-gord-deluxe-edition.json) |
+| Gordian | 351586 | [351586-gordian.json](./351586-gordian.json) |
 | Gordian Quest | 125048 | [125048-gordian-quest.json](./125048-gordian-quest.json) |
 | Gordian Snake | 139319 | [139319-gordian-snake.json](./139319-gordian-snake.json) |
 | Gordian Tomb | 73850 | [73850-gordian-tomb.json](./73850-gordian-tomb.json) |
