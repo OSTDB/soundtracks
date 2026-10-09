@@ -3739,6 +3739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gold Miner: Vegas | 188566 | [188566-gold-miner-vegas.json](./188566-gold-miner-vegas.json) |
 | Gold Mining Simulator | 39755 | [39755-gold-mining-simulator.json](./39755-gold-mining-simulator.json) |
 | Gold Mining Simulator + Mini Machines DLC | 332017 | [332017-gold-mining-simulator-mini-machines-dlc.json](./332017-gold-mining-simulator-mini-machines-dlc.json) |
+| Gold Mining Simulator 2 | 345408 | [345408-gold-mining-simulator-2.json](./345408-gold-mining-simulator-2.json) |
 | Gold Monkey | 63280 | [63280-gold-monkey.json](./63280-gold-monkey.json) |
 | Gold of Lotusland | 215583 | [215583-gold-of-lotusland.json](./215583-gold-of-lotusland.json) |
 | Gold of Skulls | 303004 | [303004-gold-of-skulls.json](./303004-gold-of-skulls.json) |
