@@ -2770,6 +2770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlot | 404418 | [404418-battlot.json](./404418-battlot.json) |
 | Batty Builders | 293716 | [293716-batty-builders.json](./293716-batty-builders.json) |
 | Batty Shadowless Adventures | 374065 | [374065-batty-shadowless-adventures.json](./374065-batty-shadowless-adventures.json) |
+| Batty Zabella 2 XOXO XMAS | 347084 | [347084-batty-zabella-2-xoxo-xmas.json](./347084-batty-zabella-2-xoxo-xmas.json) |
 | Batya | 126638 | [126638-batya.json](./126638-batya.json) |
 | Bauer | 189133 | [189133-bauer.json](./189133-bauer.json) |
 | Bauhaus | 260788 | [260788-bauhaus.json](./260788-bauhaus.json) |
@@ -5317,6 +5318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Diamond | 213352 | [213352-black-diamond.json](./213352-black-diamond.json) |
 | Black Diamond | 275309 | [275309-black-diamond.json](./275309-black-diamond.json) |
 | Black Dragon | 38590 | [38590-black-dragon.json](./38590-black-dragon.json) |
+| Black Dungeon: Draw A Card | 347195 | [347195-black-dungeon-draw-a-card.json](./347195-black-dungeon-draw-a-card.json) |
 | Black Dust | 318211 | [318211-black-dust.json](./318211-black-dust.json) |
 | Black Eagle 2 | 63690 | [63690-black-eagle-2.json](./63690-black-eagle-2.json) |
 | Black Emperor | 125471 | [125471-black-emperor.json](./125471-black-emperor.json) |
@@ -6241,6 +6243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block In | 390148 | [390148-block-in.json](./390148-block-in.json) |
 | Block Jam: Cute Edition | 332516 | [332516-block-jam-cute-edition.json](./332516-block-jam-cute-edition.json) |
 | Block Jumper | 230961 | [230961-block-jumper.json](./230961-block-jumper.json) |
+| Block King Demands Red Squares | 347088 | [347088-block-king-demands-red-squares.json](./347088-block-king-demands-red-squares.json) |
 | Block Kuzushi | 38269 | [38269-block-kuzushi.json](./38269-block-kuzushi.json) |
 | Block Line Engineer | 188944 | [188944-block-line-engineer.json](./188944-block-line-engineer.json) |
 | Block Magic Puzzle | 290466 | [290466-block-magic-puzzle.json](./290466-block-magic-puzzle.json) |
@@ -9784,6 +9787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubblegum Crash | 43201 | [43201-bubblegum-crash.json](./43201-bubblegum-crash.json) |
 | Bubblegum Galaxy | 204519 | [204519-bubblegum-galaxy.json](./204519-bubblegum-galaxy.json) |
 | Bubbles | 38537 | [38537-bubbles.json](./38537-bubbles.json) |
+| Bubbles in the Air | 347093 | [347093-bubbles-in-the-air.json](./347093-bubbles-in-the-air.json) |
 | Bubbles Master | 230848 | [230848-bubbles-master.json](./230848-bubbles-master.json) |
 | Bubbles Shot | 187430 | [187430-bubbles-shot.json](./187430-bubbles-shot.json) |
 | Bubbles Swimsuit | 225063 | [225063-bubbles-swimsuit.json](./225063-bubbles-swimsuit.json) |
