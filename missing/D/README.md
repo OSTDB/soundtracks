@@ -1711,6 +1711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Day R Survival | 175678 | [175678-day-r-survival.json](./175678-day-r-survival.json) |
 | Day Seven | 125268 | [125268-day-seven.json](./125268-day-seven.json) |
 | Day Trader Tycoon | 386890 | [386890-day-trader-tycoon.json](./386890-day-trader-tycoon.json) |
+| Day Trading Simulator | 357195 | [357195-day-trading-simulator.json](./357195-day-trading-simulator.json) |
 | Day Zero | 330904 | [330904-day-zero.json](./330904-day-zero.json) |
 | Day Zero | 360201 | [360201-day-zero.json](./360201-day-zero.json) |
 | Day_000 | 261981 | [261981-day-000.json](./261981-day-000.json) |
@@ -3483,6 +3484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deliverance & Reign | 239699 | [239699-deliverance-and-reign.json](./239699-deliverance-and-reign.json) |
 | Deliverance Protocol: Ironrot | 371044 | [371044-deliverance-protocol-ironrot.json](./371044-deliverance-protocol-ironrot.json) |
 | Delivered by Friday | 399216 | [399216-delivered-by-friday.json](./399216-delivered-by-friday.json) |
+| Delivered on Time | 357172 | [357172-delivered-on-time.json](./357172-delivered-on-time.json) |
 | Delivering Hope | 260095 | [260095-delivering-hope.json](./260095-delivering-hope.json) |
 | Delivery Boy | 190214 | [190214-delivery-boy.json](./190214-delivery-boy.json) |
 | Delivery Driver Massacre: Definitive Edition | 400554 | [400554-delivery-driver-massacre-definitive-edition.json](./400554-delivery-driver-massacre-definitive-edition.json) |
@@ -10799,6 +10801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Solver | 133338 | [133338-dungeon-solver.json](./133338-dungeon-solver.json) |
 | Dungeon Squad | 225764 | [225764-dungeon-squad.json](./225764-dungeon-squad.json) |
 | Dungeon Square | 197739 | [197739-dungeon-square.json](./197739-dungeon-square.json) |
+| Dungeon Squire | 357188 | [357188-dungeon-squire.json](./357188-dungeon-squire.json) |
 | Dungeon Stalkers | 255912 | [255912-dungeon-stalkers.json](./255912-dungeon-stalkers.json) |
 | Dungeon Striker | 63256 | [63256-dungeon-striker.json](./63256-dungeon-striker.json) |
 | Dungeon Sucker | 373333 | [373333-dungeon-sucker.json](./373333-dungeon-sucker.json) |
