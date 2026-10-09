@@ -471,6 +471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halloween Trouble 5 | 270149 | [270149-halloween-trouble-5.json](./270149-halloween-trouble-5.json) |
 | Halloween Trouble 6: Pumpkin Rampage | 371900 | [371900-halloween-trouble-6-pumpkin-rampage.json](./371900-halloween-trouble-6-pumpkin-rampage.json) |
 | Halloween Trouble 7: The Apprentice | 417521 | [417521-halloween-trouble-7-the-apprentice.json](./417521-halloween-trouble-7-the-apprentice.json) |
+| Halloween Waifu | 378573 | [378573-halloween-waifu.json](./378573-halloween-waifu.json) |
 | Halloween: Global Candy Cup 2015 | 275629 | [275629-halloween-global-candy-cup-2015.json](./275629-halloween-global-candy-cup-2015.json) |
 | Halloween: October 31st | 176786 | [176786-halloween-october-31st.json](./176786-halloween-october-31st.json) |
 | Halloween: October 31st Demake | 218575 | [218575-halloween-october-31st-demake.json](./218575-halloween-october-31st-demake.json) |
@@ -5060,6 +5061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holdfast: Age of Sail | 362286 | [362286-holdfast-age-of-sail.json](./362286-holdfast-age-of-sail.json) |
 | Holdfast: American Revolution | 400489 | [400489-holdfast-american-revolution.json](./400489-holdfast-american-revolution.json) |
 | Holdfast: Nations At War - Napoleon's Rise | 286538 | [286538-holdfast-nations-at-war-napoleons-rise.json](./286538-holdfast-nations-at-war-napoleons-rise.json) |
+| Holding It | 378537 | [378537-holding-it.json](./378537-holding-it.json) |
 | Holding Keys | 255839 | [255839-holding-keys.json](./255839-holding-keys.json) |
 | Holding Pattern | 389591 | [389591-holding-pattern.json](./389591-holding-pattern.json) |
 | Holdover | 125864 | [125864-holdover.json](./125864-holdover.json) |
