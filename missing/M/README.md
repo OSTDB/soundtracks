@@ -1771,6 +1771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mandragora: Whispers of the Witch Tree - Digital Deluxe Edition | 362373 | [362373-mandragora-whispers-of-the-witch-tree-digital-deluxe-edition.json](./362373-mandragora-whispers-of-the-witch-tree-digital-deluxe-edition.json) |
 | Mandragora: Whispers of the Witch Tree - Update 1.6 | 358275 | [358275-mandragora-whispers-of-the-witch-tree-update-1-6.json](./358275-mandragora-whispers-of-the-witch-tree-update-1-6.json) |
 | Mandragore | 13013 | [13013-mandragore.json](./13013-mandragore.json) |
+| Mandrake | 348298 | [348298-mandrake.json](./348298-mandrake.json) |
 | Mandrake Boys | 202398 | [202398-mandrake-boys.json](./202398-mandrake-boys.json) |
 | Mandrake Girls: Garden of Secret | 202399 | [202399-mandrake-girls-garden-of-secret.json](./202399-mandrake-girls-garden-of-secret.json) |
 | Mandy's Room 2: Naughty By Nature | 367014 | [367014-mandys-room-2-naughty-by-nature.json](./367014-mandys-room-2-naughty-by-nature.json) |
@@ -11304,6 +11305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mud Monster Up Hill Madness | 104214 | [104214-mud-monster-up-hill-madness.json](./104214-mud-monster-up-hill-madness.json) |
 | Mud Tyres: Offroad Edition | 90066 | [90066-mud-tyres-offroad-edition.json](./90066-mud-tyres-offroad-edition.json) |
 | MUD: FIM Motocross World Championship | 20848 | [20848-mud-fim-motocross-world-championship.json](./20848-mud-fim-motocross-world-championship.json) |
+| Mudang: Two Hearts | 348199 | [348199-mudang-two-hearts.json](./348199-mudang-two-hearts.json) |
 | Mudbird | 335272 | [335272-mudbird.json](./335272-mudbird.json) |
 | Mudborne | 242538 | [242538-mudborne.json](./242538-mudborne.json) |
 | Muddy Heights | 223678 | [223678-muddy-heights.json](./223678-muddy-heights.json) |
@@ -13041,6 +13043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystic Mayhem | 64647 | [64647-mystic-mayhem.json](./64647-mystic-mayhem.json) |
 | Mystic Mayhem Unleashed | 121398 | [121398-mystic-mayhem-unleashed.json](./121398-mystic-mayhem-unleashed.json) |
 | Mystic Melee | 33218 | [33218-mystic-melee.json](./33218-mystic-melee.json) |
+| Mystic Merchant | 348189 | [348189-mystic-merchant.json](./348189-mystic-merchant.json) |
 | Mystic Messenger | 27259 | [27259-mystic-messenger.json](./27259-mystic-messenger.json) |
 | Mystic Midway: Phantom Express | 45911 | [45911-mystic-midway-phantom-express.json](./45911-mystic-midway-phantom-express.json) |
 | Mystic Midway: Rest in Pieces | 45910 | [45910-mystic-midway-rest-in-pieces.json](./45910-mystic-midway-rest-in-pieces.json) |
