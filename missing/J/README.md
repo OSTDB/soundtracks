@@ -2578,6 +2578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Juuryoku Shisen-shou | 206352 | [206352-juuryoku-shisen-shou.json](./206352-juuryoku-shisen-shou.json) |
 | Juuyoku no Jousai | 134624 | [134624-juuyoku-no-jousai.json](./134624-juuyoku-no-jousai.json) |
 | Juuzaengi: Engetsu Sangoku Den 1 & 2 | 135859 | [135859-juuzaengi-engetsu-sangoku-den-1-and-2.json](./135859-juuzaengi-engetsu-sangoku-den-1-and-2.json) |
+| Juvenate | 366104 | [366104-juvenate.json](./366104-juvenate.json) |
 | Juvenile God | 123562 | [123562-juvenile-god.json](./123562-juvenile-god.json) |
 | Juventus Club Football | 267879 | [267879-juventus-club-football.json](./267879-juventus-club-football.json) |
 | Juventus Club Football 2005 | 267900 | [267900-juventus-club-football-2005.json](./267900-juventus-club-football-2005.json) |
