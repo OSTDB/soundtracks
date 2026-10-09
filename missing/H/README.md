@@ -3048,6 +3048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Milf City | 371375 | [371375-hentai-milf-city.json](./371375-hentai-milf-city.json) |
 | Hentai Milf Syndicate | 368076 | [368076-hentai-milf-syndicate.json](./368076-hentai-milf-syndicate.json) |
 | Hentai Military | 238434 | [238434-hentai-military.json](./238434-hentai-military.json) |
+| Hentai Minesweeper | 353207 | [353207-hentai-minesweeper.json](./353207-hentai-minesweeper.json) |
 | Hentai MineSweeper | 146280 | [146280-hentai-minesweeper.json](./146280-hentai-minesweeper.json) |
 | Hentai MineSweeper: Endless Mode | 146281 | [146281-hentai-minesweeper-endless-mode.json](./146281-hentai-minesweeper-endless-mode.json) |
 | Hentai Misuzu | 296670 | [296670-hentai-misuzu.json](./296670-hentai-misuzu.json) |
