@@ -6130,6 +6130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cloud Grove | 59934 | [59934-cloud-grove.json](./59934-cloud-grove.json) |
 | Cloud Heart | 211822 | [211822-cloud-heart.json](./211822-cloud-heart.json) |
 | Cloud House | 236497 | [236497-cloud-house.json](./236497-cloud-house.json) |
+| Cloud Keeper: Shrine of Dal | 356039 | [356039-cloud-keeper-shrine-of-dal.json](./356039-cloud-keeper-shrine-of-dal.json) |
 | Cloud Master | 386335 | [386335-cloud-master.json](./386335-cloud-master.json) |
 | Cloud Meadow | 137958 | [137958-cloud-meadow.json](./137958-cloud-meadow.json) |
 | Cloud Miners | 132589 | [132589-cloud-miners.json](./132589-cloud-miners.json) |
