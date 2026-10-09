@@ -1883,6 +1883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caste | 155678 | [155678-caste.json](./155678-caste.json) |
 | Caste: The Secret Of Devon | 159777 | [159777-caste-the-secret-of-devon.json](./159777-caste-the-secret-of-devon.json) |
 | Castelian | 295029 | [295029-castelian.json](./295029-castelian.json) |
+| Castella | 361065 | [361065-castella.json](./361065-castella.json) |
 | Castellan | 411700 | [411700-castellan.json](./411700-castellan.json) |
 | Castelo Rá-Tim-Bum | 84302 | [84302-castelo-ra-tim-bum.json](./84302-castelo-ra-tim-bum.json) |
 | Caster's Trap | 130339 | [130339-casters-trap.json](./130339-casters-trap.json) |
@@ -4960,6 +4961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chukcha v Bolshom Gorode | 403576 | [403576-chukcha-v-bolshom-gorode.json](./403576-chukcha-v-bolshom-gorode.json) |
 | Chukgwi | 369102 | [369102-chukgwi.json](./369102-chukgwi.json) |
 | Chulip | 20657 | [20657-chulip.json](./20657-chulip.json) |
+| Chumaky | 361042 | [361042-chumaky.json](./361042-chumaky.json) |
 | Chumbo.Zone | 133899 | [133899-chumbo-zone.json](./133899-chumbo-zone.json) |
 | Chumlee's Adventure: The Quest for Pinky | 142116 | [142116-chumlees-adventure-the-quest-for-pinky.json](./142116-chumlees-adventure-the-quest-for-pinky.json) |
 | Chungo's Gauntlet | 256900 | [256900-chungos-gauntlet.json](./256900-chungos-gauntlet.json) |
@@ -10157,6 +10159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crimson Snow Deluxe | 310030 | [310030-crimson-snow-deluxe.json](./310030-crimson-snow-deluxe.json) |
 | Crimson Souls | 109696 | [109696-crimson-souls.json](./109696-crimson-souls.json) |
 | Crimson Sword Saga: The Peloran Wars | 32183 | [32183-crimson-sword-saga-the-peloran-wars.json](./32183-crimson-sword-saga-the-peloran-wars.json) |
+| Crimson System: VɅΔ Protocol | 361073 | [361073-crimson-system-v-protocol.json](./361073-crimson-system-v-protocol.json) |
 | Crimson Tale | 334656 | [334656-crimson-tale.json](./334656-crimson-tale.json) |
 | Crimson Theory | 339290 | [339290-crimson-theory.json](./339290-crimson-theory.json) |
 | Crimson Thread of Fate | 318769 | [318769-crimson-thread-of-fate.json](./318769-crimson-thread-of-fate.json) |
