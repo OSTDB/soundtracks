@@ -1863,6 +1863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geo Brain Boost! 50 U.S. States Silhouette Quiz | 399640 | [399640-geo-brain-boost-50-u-s-states-silhouette-quiz.json](./399640-geo-brain-boost-50-u-s-states-silhouette-quiz.json) |
 | Geo Challenge | 342252 | [342252-geo-challenge.json](./342252-geo-challenge.json) |
 | Geo Gods | 257471 | [257471-geo-gods.json](./257471-geo-gods.json) |
+| Geo IQ World Master | 381915 | [381915-geo-iq-world-master.json](./381915-geo-iq-world-master.json) |
 | Geo Land: The Dream Traveler Remastered | 382436 | [382436-geo-land-the-dream-traveler-remastered.json](./382436-geo-land-the-dream-traveler-remastered.json) |
 | GEO Master | 33353 | [33353-geo-master.json](./33353-geo-master.json) |
 | Geo Mythica | 264315 | [264315-geo-mythica.json](./264315-geo-mythica.json) |
