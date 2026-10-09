@@ -657,6 +657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quinn's Aquarium | 354994 | [354994-quinns-aquarium.json](./354994-quinns-aquarium.json) |
 | Quintaesencia | 156989 | [156989-quintaesencia.json](./156989-quintaesencia.json) |
 | Quinterra | 145023 | [145023-quinterra.json](./145023-quinterra.json) |
+| Quintillion Quest | 380809 | [380809-quintillion-quest.json](./380809-quintillion-quest.json) |
 | Quintus and the Absent Truth | 140487 | [140487-quintus-and-the-absent-truth.json](./140487-quintus-and-the-absent-truth.json) |
 | Quip Anomaly | 31938 | [31938-quip-anomaly.json](./31938-quip-anomaly.json) |
 | Quiplash | 11588 | [11588-quiplash.json](./11588-quiplash.json) |
