@@ -2961,6 +2961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tester | 397704 | [397704-tester.json](./397704-tester.json) |
 | Tester Phase One | 98809 | [98809-tester-phase-one.json](./98809-tester-phase-one.json) |
 | Testimonies | 370878 | [370878-testimonies.json](./370878-testimonies.json) |
+| Testimonium | 371060 | [371060-testimonium.json](./371060-testimonium.json) |
 | Testimony of Help | 268228 | [268228-testimony-of-help.json](./268228-testimony-of-help.json) |
 | Testing Facility | 274181 | [274181-testing-facility.json](./274181-testing-facility.json) |
 | Testing Pool | 262424 | [262424-testing-pool.json](./262424-testing-pool.json) |
@@ -8491,7 +8492,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mythical City | 264232 | [264232-the-mythical-city.json](./264232-the-mythical-city.json) |
 | The Mythical City 4 | 327828 | [327828-the-mythical-city-4.json](./327828-the-mythical-city-4.json) |
 | The Naked Brothers Band: The Video Game | 47955 | [47955-the-naked-brothers-band-the-video-game.json](./47955-the-naked-brothers-band-the-video-game.json) |
-| The Name I Wear | 408022 | [408022-the-name-i-wear.json](./408022-the-name-i-wear.json) |
 | The Nameless | 178458 | [178458-the-nameless.json](./178458-the-nameless.json) |
 | The Nameless Braves: Heaven | 207749 | [207749-the-nameless-braves-heaven.json](./207749-the-nameless-braves-heaven.json) |
 | The Nanny Affair | 313727 | [313727-the-nanny-affair.json](./313727-the-nanny-affair.json) |
@@ -15917,6 +15917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Eiyashou: Imperishable Night | 27162 | [27162-touhou-eiyashou-imperishable-night.json](./27162-touhou-eiyashou-imperishable-night.json) |
 | Touhou Emblem | 315050 | [315050-touhou-emblem.json](./315050-touhou-emblem.json) |
 | Touhou Emblem 2 | 315051 | [315051-touhou-emblem-2.json](./315051-touhou-emblem-2.json) |
+| Touhou Eternal Frontier | 371124 | [371124-touhou-eternal-frontier.json](./371124-touhou-eternal-frontier.json) |
 | Touhou Eternal Spell Cards | 289936 | [289936-touhou-eternal-spell-cards.json](./289936-touhou-eternal-spell-cards.json) |
 | Touhou Fairy Knockout: One Fairy to Rule Them All | 203849 | [203849-touhou-fairy-knockout-one-fairy-to-rule-them-all.json](./203849-touhou-fairy-knockout-one-fairy-to-rule-them-all.json) |
 | Touhou Fan of Destiny | 109893 | [109893-touhou-fan-of-destiny.json](./109893-touhou-fan-of-destiny.json) |
@@ -16245,6 +16246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower of Minak | 299842 | [299842-tower-of-minak.json](./299842-tower-of-minak.json) |
 | Tower of Modula | 340542 | [340542-tower-of-modula.json](./340542-tower-of-modula.json) |
 | Tower of Myraglen | 57381 | [57381-tower-of-myraglen.json](./57381-tower-of-myraglen.json) |
+| Tower of Mystery | 371140 | [371140-tower-of-mystery.json](./371140-tower-of-mystery.json) |
 | Tower of Nod | 313308 | [313308-tower-of-nod.json](./313308-tower-of-nod.json) |
 | Tower of Osiris | 211621 | [211621-tower-of-osiris.json](./211621-tower-of-osiris.json) |
 | Tower of Pain | 228393 | [228393-tower-of-pain.json](./228393-tower-of-pain.json) |
@@ -18537,6 +18539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trism 2 | 109506 | [109506-trism-2.json](./109506-trism-2.json) |
 | Tristan | 96532 | [96532-tristan.json](./96532-tristan.json) |
 | Tristan: Curse of The Frog | 404964 | [404964-tristan-curse-of-the-frog.json](./404964-tristan-curse-of-the-frog.json) |
+| Triste | 371138 | [371138-triste.json](./371138-triste.json) |
 | Tristia Doki-doki Operation | 408142 | [408142-tristia-doki-doki-operation.json](./408142-tristia-doki-doki-operation.json) |
 | Tristia: Legacy | 231522 | [231522-tristia-legacy.json](./231522-tristia-legacy.json) |
 | Tristone | 112314 | [112314-tristone.json](./112314-tristone.json) |
