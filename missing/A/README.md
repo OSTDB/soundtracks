@@ -8194,6 +8194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Around the World in 80 Days | 88496 | [88496-around-the-world-in-80-days.json](./88496-around-the-world-in-80-days.json) |
 | Around the World in 80 Days: Extended Edition | 52424 | [52424-around-the-world-in-80-days-extended-edition.json](./52424-around-the-world-in-80-days-extended-edition.json) |
 | Around the World in 80d 2019 | 134390 | [134390-around-the-world-in-80d-2019.json](./134390-around-the-world-in-80d-2019.json) |
+| Around the World Puzzle | 362184 | [362184-around-the-world-puzzle.json](./362184-around-the-world-puzzle.json) |
 | Around the World: Travel to Brazil | 269287 | [269287-around-the-world-travel-to-brazil.json](./269287-around-the-world-travel-to-brazil.json) |
 | Around Us | 226230 | [226230-around-us.json](./226230-around-us.json) |
 | Aroya Knight | 389681 | [389681-aroya-knight.json](./389681-aroya-knight.json) |
