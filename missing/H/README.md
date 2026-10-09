@@ -758,6 +758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hands of the Killer | 150096 | [150096-hands-of-the-killer.json](./150096-hands-of-the-killer.json) |
 | Hands of the Sovereign | 372062 | [372062-hands-of-the-sovereign.json](./372062-hands-of-the-sovereign.json) |
 | Hands of Time | 49927 | [49927-hands-of-time.json](./49927-hands-of-time.json) |
+| Hands of Victory | 380801 | [380801-hands-of-victory.json](./380801-hands-of-victory.json) |
 | Hands On! Pattern Blocks | 92156 | [92156-hands-on-pattern-blocks.json](./92156-hands-on-pattern-blocks.json) |
 | Hands On! Tangrams | 48043 | [48043-hands-on-tangrams.json](./48043-hands-on-tangrams.json) |
 | Hands Over | 403826 | [403826-hands-over.json](./403826-hands-over.json) |
@@ -2562,6 +2563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hellino | 134003 | [134003-hellino.json](./134003-hellino.json) |
 | Hellion | 28050 | [28050-hellion.json](./28050-hellion.json) |
 | Hellion: Mystery of the Inquisition | 66397 | [66397-hellion-mystery-of-the-inquisition.json](./66397-hellion-mystery-of-the-inquisition.json) |
+| Hellish Fright & Burgers | 380785 | [380785-hellish-fright-and-burgers.json](./380785-hellish-fright-and-burgers.json) |
 | Hellish Inc. | 77425 | [77425-hellish-inc.json](./77425-hellish-inc.json) |
 | Hellish Quart | 139472 | [139472-hellish-quart.json](./139472-hellish-quart.json) |
 | Hellivery | 364676 | [364676-hellivery.json](./364676-hellivery.json) |
@@ -4968,6 +4970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hobs | 121630 | [121630-hobs.json](./121630-hobs.json) |
 | Hockey | 175898 | [175898-hockey.json](./175898-hockey.json) |
 | Hockey | 18585 | [18585-hockey.json](./18585-hockey.json) |
+| Hockey / Tennis | 380797 | [380797-hockey-tennis.json](./380797-hockey-tennis.json) |
 | Hockey Agent | 244802 | [244802-hockey-agent.json](./244802-hockey-agent.json) |
 | Hockey Allstar Shootout | 85182 | [85182-hockey-allstar-shootout.json](./85182-hockey-allstar-shootout.json) |
 | Hockey Blitz | 244800 | [244800-hockey-blitz.json](./244800-hockey-blitz.json) |
