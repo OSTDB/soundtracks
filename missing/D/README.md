@@ -1957,6 +1957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Alliance: Day One Edition | 103376 | [103376-dead-alliance-day-one-edition.json](./103376-dead-alliance-day-one-edition.json) |
 | Dead and Buried | 57195 | [57195-dead-and-buried.json](./57195-dead-and-buried.json) |
 | Dead as Disco | 341592 | [341592-dead-as-disco.json](./341592-dead-as-disco.json) |
+| Dead Beats Survivors | 333504 | [333504-dead-beats-survivors.json](./333504-dead-beats-survivors.json) |
 | Dead Before Work: The Commute | 399087 | [399087-dead-before-work-the-commute.json](./399087-dead-before-work-the-commute.json) |
 | Dead Bit | 390072 | [390072-dead-bit.json](./390072-dead-bit.json) |
 | Dead Bits | 8429 | [8429-dead-bits.json](./8429-dead-bits.json) |
@@ -2473,6 +2474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadside: "Ghost From The Deep" Skin Set | 296627 | [296627-deadside-ghost-from-the-deep-skin-set.json](./296627-deadside-ghost-from-the-deep-skin-set.json) |
 | Deadside: Beehive Skin Set | 338015 | [338015-deadside-beehive-skin-set.json](./338015-deadside-beehive-skin-set.json) |
 | Deadside: Bushranger Skin Set | 338024 | [338024-deadside-bushranger-skin-set.json](./338024-deadside-bushranger-skin-set.json) |
+| Deadside: Deluxe Pack | 333682 | [333682-deadside-deluxe-pack.json](./333682-deadside-deluxe-pack.json) |
 | Deadside: Dragonfly Skin Set | 338023 | [338023-deadside-dragonfly-skin-set.json](./338023-deadside-dragonfly-skin-set.json) |
 | Deadside: Flags Set | 338022 | [338022-deadside-flags-set.json](./338022-deadside-flags-set.json) |
 | Deadside: Guerilla Skin Set | 338021 | [338021-deadside-guerilla-skin-set.json](./338021-deadside-guerilla-skin-set.json) |
