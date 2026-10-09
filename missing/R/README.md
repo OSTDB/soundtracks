@@ -97,6 +97,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raahi | 379051 | [379051-raahi.json](./379051-raahi.json) |
 | Raanaa: The Shaman Girl | 321137 | [321137-raanaa-the-shaman-girl.json](./321137-raanaa-the-shaman-girl.json) |
 | Raanaa: The Shaman Girl - Helheim | 342145 | [342145-raanaa-the-shaman-girl-helheim.json](./342145-raanaa-the-shaman-girl-helheim.json) |
+| Raanaa: The Shaman Girl - Land of the Birds | 342094 | [342094-raanaa-the-shaman-girl-land-of-the-birds.json](./342094-raanaa-the-shaman-girl-land-of-the-birds.json) |
+| Raanaa: The Shaman Girl - Realm of The Giants | 342105 | [342105-raanaa-the-shaman-girl-realm-of-the-giants.json](./342105-raanaa-the-shaman-girl-realm-of-the-giants.json) |
 | Raanaa: The Shaman Girl - The Frozen World | 335407 | [335407-raanaa-the-shaman-girl-the-frozen-world.json](./335407-raanaa-the-shaman-girl-the-frozen-world.json) |
 | Raanaa: The Shaman Girl - The Windman's Land | 321148 | [321148-raanaa-the-shaman-girl-the-windmans-land.json](./321148-raanaa-the-shaman-girl-the-windmans-land.json) |
 | Raanaa: The Shaman Girl - Valhalla | 342142 | [342142-raanaa-the-shaman-girl-valhalla.json](./342142-raanaa-the-shaman-girl-valhalla.json) |
@@ -2937,6 +2939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Relms | 125992 | [125992-relms.json](./125992-relms.json) |
 | Relo | 295306 | [295306-relo.json](./295306-relo.json) |
 | Reload | 183874 | [183874-reload.json](./183874-reload.json) |
+| Reload | 342109 | [342109-reload.json](./342109-reload.json) |
 | Reload 2 Remember | 227470 | [227470-reload-2-remember.json](./227470-reload-2-remember.json) |
 | Reload Map Jam | 271844 | [271844-reload-map-jam.json](./271844-reload-map-jam.json) |
 | Reloader: test_subject | 168129 | [168129-reloader-test-subject.json](./168129-reloader-test-subject.json) |
@@ -4016,6 +4019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rewind 99 | 374207 | [374207-rewind-99.json](./374207-rewind-99.json) |
 | Rewind Night | 390698 | [390698-rewind-night.json](./390698-rewind-night.json) |
 | Rewind or Die | 244116 | [244116-rewind-or-die.json](./244116-rewind-or-die.json) |
+| Rewind to Fear: The Mansion | 342003 | [342003-rewind-to-fear-the-mansion.json](./342003-rewind-to-fear-the-mansion.json) |
 | Rewind: One Last Chance | 197736 | [197736-rewind-one-last-chance.json](./197736-rewind-one-last-chance.json) |
 | Rewindead | 382756 | [382756-rewindead.json](./382756-rewindead.json) |
 | ReWire | 348839 | [348839-rewire.json](./348839-rewire.json) |
