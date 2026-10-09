@@ -686,6 +686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Umbra | 202338 | [202338-umbra.json](./202338-umbra.json) |
 | Umbra | 219531 | [219531-umbra.json](./219531-umbra.json) |
 | Umbra | 304828 | [304828-umbra.json](./304828-umbra.json) |
+| Umbra | 380750 | [380750-umbra.json](./380750-umbra.json) |
 | Umbra | 95415 | [95415-umbra.json](./95415-umbra.json) |
 | Umbra Fields | 272571 | [272571-umbra-fields.json](./272571-umbra-fields.json) |
 | Umbra Flora | 386886 | [386886-umbra-flora.json](./386886-umbra-flora.json) |
@@ -827,6 +828,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unborne | 86411 | [86411-unborne.json](./86411-unborne.json) |
 | Unbothered | 329033 | [329033-unbothered.json](./329033-unbothered.json) |
 | Unbound | 167249 | [167249-unbound.json](./167249-unbound.json) |
+| Unbound | 380749 | [380749-unbound.json](./380749-unbound.json) |
+| UnBound | 380748 | [380748-unbound.json](./380748-unbound.json) |
 | Unbounded | 396496 | [396496-unbounded.json](./396496-unbounded.json) |
 | Unbox the Room | 304642 | [304642-unbox-the-room.json](./304642-unbox-the-room.json) |
 | Unboxathon | 346186 | [346186-unboxathon.json](./346186-unboxathon.json) |
