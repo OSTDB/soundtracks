@@ -766,6 +766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warehouse 30 | 403013 | [403013-warehouse-30.json](./403013-warehouse-30.json) |
 | Warehouse and Logistics Simulator | 17031 | [17031-warehouse-and-logistics-simulator.json](./17031-warehouse-and-logistics-simulator.json) |
 | Warehouse Bots | 298179 | [298179-warehouse-bots.json](./298179-warehouse-bots.json) |
+| Warehouse Job | 353773 | [353773-warehouse-job.json](./353773-warehouse-job.json) |
 | Warehouse Manager Simulator | 294296 | [294296-warehouse-manager-simulator.json](./294296-warehouse-manager-simulator.json) |
 | Warehouse Simulator | 158597 | [158597-warehouse-simulator.json](./158597-warehouse-simulator.json) |
 | Warehouse Simulator | 377156 | [377156-warehouse-simulator.json](./377156-warehouse-simulator.json) |
@@ -5643,6 +5644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wuxia: Founding Schools | 292165 | [292165-wuxia-founding-schools.json](./292165-wuxia-founding-schools.json) |
 | Wuxian | 236406 | [236406-wuxian.json](./236406-wuxian.json) |
 | WW Fantasy | 98773 | [98773-ww-fantasy.json](./98773-ww-fantasy.json) |
+| WW Furnishing | 353815 | [353815-ww-furnishing.json](./353815-ww-furnishing.json) |
 | WW1 Game Series Bundle | 218465 | [218465-ww1-game-series-bundle.json](./218465-ww1-game-series-bundle.json) |
 | WW2 Rebuilder | 158156 | [158156-ww2-rebuilder.json](./158156-ww2-rebuilder.json) |
 | WW2 Z Range VR | 119712 | [119712-ww2-z-range-vr.json](./119712-ww2-z-range-vr.json) |
