@@ -7173,6 +7173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sketchy Racing | 186148 | [186148-sketchy-racing.json](./186148-sketchy-racing.json) |
 | Sketchy.Academy | 140903 | [140903-sketchy-academy.json](./140903-sketchy-academy.json) |
 | Skew Pong | 190076 | [190076-skew-pong.json](./190076-skew-pong.json) |
+| Skewer Squad | 374413 | [374413-skewer-squad.json](./374413-skewer-squad.json) |
 | SKG Hunt | 392876 | [392876-skg-hunt.json](./392876-skg-hunt.json) |
 | Ski Air Mix | 186129 | [186129-ski-air-mix.json](./186129-ski-air-mix.json) |
 | Ski and Shoot | 9749 | [9749-ski-and-shoot.json](./9749-ski-and-shoot.json) |
@@ -12029,6 +12030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spacebound | 95397 | [95397-spacebound.json](./95397-spacebound.json) |
 | Spacebourne | 105193 | [105193-spacebourne.json](./105193-spacebourne.json) |
 | SpaceBullet | 115807 | [115807-spacebullet.json](./115807-spacebullet.json) |
+| Spaceburgers: Journey to Green Haven | 374414 | [374414-spaceburgers-journey-to-green-haven.json](./374414-spaceburgers-journey-to-green-haven.json) |
 | Spacecats with Lasers | 36531 | [36531-spacecats-with-lasers.json](./36531-spacecats-with-lasers.json) |
 | Spacecats with Lasers VR | 30262 | [30262-spacecats-with-lasers-vr.json](./30262-spacecats-with-lasers-vr.json) |
 | Spacechase | 18503 | [18503-spacechase.json](./18503-spacechase.json) |
@@ -15506,6 +15508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steel Commanders | 323191 | [323191-steel-commanders.json](./323191-steel-commanders.json) |
 | Steel Core | 414134 | [414134-steel-core.json](./414134-steel-core.json) |
 | Steel Covenant | 339665 | [339665-steel-covenant.json](./339665-steel-covenant.json) |
+| Steel Defence | 374431 | [374431-steel-defence.json](./374431-steel-defence.json) |
 | Steel Defier | 211680 | [211680-steel-defier.json](./211680-steel-defier.json) |
 | Steel Diver | 6891 | [6891-steel-diver.json](./6891-steel-diver.json) |
 | Steel Division 2: Nemesis - Battle of Rimini | 143080 | [143080-steel-division-2-nemesis-battle-of-rimini.json](./143080-steel-division-2-nemesis-battle-of-rimini.json) |
