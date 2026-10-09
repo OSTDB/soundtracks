@@ -6213,6 +6213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blobber | 269277 | [269277-blobber.json](./269277-blobber.json) |
 | Blobbers | 41529 | [41529-blobbers.json](./41529-blobbers.json) |
 | Blobbins | 151745 | [151745-blobbins.json](./151745-blobbins.json) |
+| Blobbs Remastered | 335810 | [335810-blobbs-remastered.json](./335810-blobbs-remastered.json) |
 | Blobbton | 315687 | [315687-blobbton.json](./315687-blobbton.json) |
 | Blobby Jump | 194287 | [194287-blobby-jump.json](./194287-blobby-jump.json) |
 | Blobby Online | 58458 | [58458-blobby-online.json](./58458-blobby-online.json) |
@@ -10161,6 +10162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bulb Out | 29135 | [29135-bulb-out.json](./29135-bulb-out.json) |
 | Bulb! | 215384 | [215384-bulb.json](./215384-bulb.json) |
 | Bulbo and the Lizard-King | 58822 | [58822-bulbo-and-the-lizard-king.json](./58822-bulbo-and-the-lizard-king.json) |
+| Bulbo's Belief System | 335970 | [335970-bulbos-belief-system.json](./335970-bulbos-belief-system.json) |
 | Bulbs 2.0 | 306353 | [306353-bulbs-2-0.json](./306353-bulbs-2-0.json) |
 | Bulby: Diamond Course | 33042 | [33042-bulby-diamond-course.json](./33042-bulby-diamond-course.json) |
 | Bule Form | 158224 | [158224-bule-form.json](./158224-bule-form.json) |
