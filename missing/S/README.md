@@ -8062,6 +8062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slice the Ice | 75779 | [75779-slice-the-ice.json](./75779-slice-the-ice.json) |
 | Slice To Meet You | 409583 | [409583-slice-to-meet-you.json](./409583-slice-to-meet-you.json) |
 | Slice Words | 232071 | [232071-slice-words.json](./232071-slice-words.json) |
+| Slice, Suffer, Serve! | 340363 | [340363-slice-suffer-serve.json](./340363-slice-suffer-serve.json) |
 | Slice&Dice | 345526 | [345526-slice-and-dice.json](./345526-slice-and-dice.json) |
 | Slice&Dice | 37010 | [37010-slice-and-dice.json](./37010-slice-and-dice.json) |
 | Sliced | 290617 | [290617-sliced.json](./290617-sliced.json) |
@@ -8203,6 +8204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slime Time! | 106591 | [106591-slime-time.json](./106591-slime-time.json) |
 | Slime Tower | 351600 | [351600-slime-tower.json](./351600-slime-tower.json) |
 | Slime Trials | 280760 | [280760-slime-trials.json](./280760-slime-trials.json) |
+| Slime Trials | 340361 | [340361-slime-trials.json](./340361-slime-trials.json) |
 | Slime Village VR | 187377 | [187377-slime-village-vr.json](./187377-slime-village-vr.json) |
 | Slime Volley | 264001 | [264001-slime-volley.json](./264001-slime-volley.json) |
 | Slime Voyage | 312575 | [312575-slime-voyage.json](./312575-slime-voyage.json) |
@@ -8226,6 +8228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SlimeJumper: Ultimate Jump | 156639 | [156639-slimejumper-ultimate-jump.json](./156639-slimejumper-ultimate-jump.json) |
 | Slimelon | 300786 | [300786-slimelon.json](./300786-slimelon.json) |
 | Slimepatch | 392904 | [392904-slimepatch.json](./392904-slimepatch.json) |
+| Slimepocalypse | 340362 | [340362-slimepocalypse.json](./340362-slimepocalypse.json) |
 | Slimer | 184489 | [184489-slimer.json](./184489-slimer.json) |
 | Slimes RPG | 110782 | [110782-slimes-rpg.json](./110782-slimes-rpg.json) |
 | SlimeSlider | 188453 | [188453-slimeslider.json](./188453-slimeslider.json) |
@@ -8471,6 +8474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Small Bird Forest | 417498 | [417498-small-bird-forest.json](./417498-small-bird-forest.json) |
 | Small Buttons | 96768 | [96768-small-buttons.json](./96768-small-buttons.json) |
 | Small Cell | 224657 | [224657-small-cell.json](./224657-small-cell.json) |
+| Small Dragon Big Appetite | 340360 | [340360-small-dragon-big-appetite.json](./340360-small-dragon-big-appetite.json) |
 | Small Islands | 176339 | [176339-small-islands.json](./176339-small-islands.json) |
 | Small Kingdoms | 262959 | [262959-small-kingdoms.json](./262959-small-kingdoms.json) |
 | Small Living World 2 | 355699 | [355699-small-living-world-2.json](./355699-small-living-world-2.json) |
@@ -8816,6 +8820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snack Time for Caterpillar | 239622 | [239622-snack-time-for-caterpillar.json](./239622-snack-time-for-caterpillar.json) |
 | Snack World: Reloaded | 397927 | [397927-snack-world-reloaded.json](./397927-snack-world-reloaded.json) |
 | Snack World: The Dungeon Crawl - Gold | 28830 | [28830-snack-world-the-dungeon-crawl-gold.json](./28830-snack-world-the-dungeon-crawl-gold.json) |
+| Snackdown | 340359 | [340359-snackdown.json](./340359-snackdown.json) |
 | Snackjack | 54378 | [54378-snackjack.json](./54378-snackjack.json) |
 | SnackTimeActionGame | 371593 | [371593-snacktimeactiongame.json](./371593-snacktimeactiongame.json) |
 | Snafu | 5697 | [5697-snafu.json](./5697-snafu.json) |
@@ -8898,6 +8903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snake It | 94325 | [94325-snake-it.json](./94325-snake-it.json) |
 | Snake It 'Til You Make It | 153833 | [153833-snake-it-til-you-make-it.json](./153833-snake-it-til-you-make-it.json) |
 | Snake Jump | 259579 | [259579-snake-jump.json](./259579-snake-jump.json) |
+| Snake King | 340358 | [340358-snake-king.json](./340358-snake-king.json) |
 | Snake Man's Adventure | 158066 | [158066-snake-mans-adventure.json](./158066-snake-mans-adventure.json) |
 | Snake Neon Online | 209685 | [209685-snake-neon-online.json](./209685-snake-neon-online.json) |
 | Snake of Maths! Cool Education Game | 204973 | [204973-snake-of-maths-cool-education-game.json](./204973-snake-of-maths-cool-education-game.json) |
@@ -9539,6 +9545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soccer Manager 2016 | 34335 | [34335-soccer-manager-2016.json](./34335-soccer-manager-2016.json) |
 | Soccer Manager 2017 | 31824 | [31824-soccer-manager-2017.json](./31824-soccer-manager-2017.json) |
 | Soccer Manager 2021 | 152486 | [152486-soccer-manager-2021.json](./152486-soccer-manager-2021.json) |
+| Soccer Manager 2027 | 340357 | [340357-soccer-manager-2027.json](./340357-soccer-manager-2027.json) |
 | Soccer Manager Crypto | 109908 | [109908-soccer-manager-crypto.json](./109908-soccer-manager-crypto.json) |
 | Soccer Moves | 241059 | [241059-soccer-moves.json](./241059-soccer-moves.json) |
 | Soccer Nations Battle | 100368 | [100368-soccer-nations-battle.json](./100368-soccer-nations-battle.json) |
@@ -9615,6 +9622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soda Pipes | 208900 | [208900-soda-pipes.json](./208900-soda-pipes.json) |
 | Soda Sabotage | 200469 | [200469-soda-sabotage.json](./200469-soda-sabotage.json) |
 | Soda Scuffle | 290117 | [290117-soda-scuffle.json](./290117-soda-scuffle.json) |
+| Soda Splash | 340356 | [340356-soda-splash.json](./340356-soda-splash.json) |
 | Soda Star | 35496 | [35496-soda-star.json](./35496-soda-star.json) |
 | Soda Story: Brewing Tycoon | 119016 | [119016-soda-story-brewing-tycoon.json](./119016-soda-story-brewing-tycoon.json) |
 | Soda-Powered Penguin | 216734 | [216734-soda-powered-penguin.json](./216734-soda-powered-penguin.json) |
@@ -9879,6 +9887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sole Seeker | 266429 | [266429-sole-seeker.json](./266429-sole-seeker.json) |
 | Solebon | 63806 | [63806-solebon.json](./63806-solebon.json) |
 | Solebon Solitaire | 87541 | [87541-solebon-solitaire.json](./87541-solebon-solitaire.json) |
+| Soleil Survivor | 340355 | [340355-soleil-survivor.json](./340355-soleil-survivor.json) |
 | Solemn Knights: Entirely Ours | 254421 | [254421-solemn-knights-entirely-ours.json](./254421-solemn-knights-entirely-ours.json) |
 | Solemn Warriors | 330187 | [330187-solemn-warriors.json](./330187-solemn-warriors.json) |
 | Solenars Edge II: Aurora of The Seventh Dawn | 133182 | [133182-solenars-edge-ii-aurora-of-the-seventh-dawn.json](./133182-solenars-edge-ii-aurora-of-the-seventh-dawn.json) |
@@ -9994,6 +10003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire Plus! | 88613 | [88613-solitaire-plus.json](./88613-solitaire-plus.json) |
 | Solitaire Poker | 19493 | [19493-solitaire-poker.json](./19493-solitaire-poker.json) |
 | Solitaire Quest: Garden Story | 260395 | [260395-solitaire-quest-garden-story.json](./260395-solitaire-quest-garden-story.json) |
+| Solitaire Quest: Love Blossoms | 340354 | [340354-solitaire-quest-love-blossoms.json](./340354-solitaire-quest-love-blossoms.json) |
 | Solitaire Retro | 102598 | [102598-solitaire-retro.json](./102598-solitaire-retro.json) |
 | Solitaire Royale | 400982 | [400982-solitaire-royale.json](./400982-solitaire-royale.json) |
 | Solitaire Royale | 400988 | [400988-solitaire-royale.json](./400988-solitaire-royale.json) |
@@ -19243,6 +19253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Bros: Mythical Mushrooms | 320224 | [320224-super-mario-bros-mythical-mushrooms.json](./320224-super-mario-bros-mythical-mushrooms.json) |
 | Super Mario Bros: Restless Reality | 320223 | [320223-super-mario-bros-restless-reality.json](./320223-super-mario-bros-restless-reality.json) |
 | Super Mario Bros: Revenge of Bowser | 250056 | [250056-super-mario-bros-revenge-of-bowser.json](./250056-super-mario-bros-revenge-of-bowser.json) |
+| Super Mario Bros: Unofficial PC Port | 340337 | [340337-super-mario-bros-unofficial-pc-port.json](./340337-super-mario-bros-unofficial-pc-port.json) |
 | Super Mario Bros: Ztar Turmoil | 320226 | [320226-super-mario-bros-ztar-turmoil.json](./320226-super-mario-bros-ztar-turmoil.json) |
 | Super Mario Bros. | 206934 | [206934-super-mario-bros.json](./206934-super-mario-bros.json) |
 | Super Mario Bros. | 222095 | [222095-super-mario-bros.json](./222095-super-mario-bros.json) |
