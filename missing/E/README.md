@@ -480,6 +480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echoes | 395994 | [395994-echoes.json](./395994-echoes.json) |
 | Echoes | 91392 | [91392-echoes.json](./91392-echoes.json) |
 | Echoes Afterfall | 303513 | [303513-echoes-afterfall.json](./303513-echoes-afterfall.json) |
+| Echoes Below | 348221 | [348221-echoes-below.json](./348221-echoes-below.json) |
 | Echoes Beyond the Stars | 386304 | [386304-echoes-beyond-the-stars.json](./386304-echoes-beyond-the-stars.json) |
 | Echoes From Ciudadela | 387335 | [387335-echoes-from-ciudadela.json](./387335-echoes-from-ciudadela.json) |
 | Echoes from the Abyss | 309135 | [309135-echoes-from-the-abyss.json](./309135-echoes-from-the-abyss.json) |
@@ -3506,6 +3507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal Maze | 65836 | [65836-eternal-maze.json](./65836-eternal-maze.json) |
 | Eternal Night | 192710 | [192710-eternal-night.json](./192710-eternal-night.json) |
 | Eternal Night Glory | 326253 | [326253-eternal-night-glory.json](./326253-eternal-night-glory.json) |
+| Eternal Night Metro | 348222 | [348222-eternal-night-metro.json](./348222-eternal-night-metro.json) |
 | Eternal Night Town | 339802 | [339802-eternal-night-town.json](./339802-eternal-night-town.json) |
 | Eternal of Swordsman | 194033 | [194033-eternal-of-swordsman.json](./194033-eternal-of-swordsman.json) |
 | Eternal One | 369096 | [369096-eternal-one.json](./369096-eternal-one.json) |
@@ -3656,6 +3658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eureka Seven: AO - The Flowers of Jungfrau | 64905 | [64905-eureka-seven-ao-the-flowers-of-jungfrau.json](./64905-eureka-seven-ao-the-flowers-of-jungfrau.json) |
 | Eureka! | 25914 | [25914-eureka.json](./25914-eureka.json) |
 | Eurekas | 374776 | [374776-eurekas.json](./374776-eurekas.json) |
+| Eurgava: Pathforgers | 348290 | [348290-eurgava-pathforgers.json](./348290-eurgava-pathforgers.json) |
 | Eurgava: Tomb of Senza | 116122 | [116122-eurgava-tomb-of-senza.json](./116122-eurgava-tomb-of-senza.json) |
 | Eurit | 42246 | [42246-eurit.json](./42246-eurit.json) |
 | Euro 3v3 | 394119 | [394119-euro-3v3.json](./394119-euro-3v3.json) |
