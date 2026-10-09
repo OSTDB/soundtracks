@@ -168,6 +168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yangshuo Invasion | 321368 | [321368-yangshuo-invasion.json](./321368-yangshuo-invasion.json) |
 | Yánhuáng Dàlù | 130150 | [130150-yanhuang-dalu.json](./130150-yanhuang-dalu.json) |
 | Yankai's Peak. | 43515 | [43515-yankais-peak.json](./43515-yankais-peak.json) |
+| Yankee Rabbits | 367827 | [367827-yankee-rabbits.json](./367827-yankee-rabbits.json) |
 | Yanone: Letter Splatter | 75781 | [75781-yanone-letter-splatter.json](./75781-yanone-letter-splatter.json) |
 | Yanpai Simulator | 113124 | [113124-yanpai-simulator.json](./113124-yanpai-simulator.json) |
 | Yanvania 2022 | 227977 | [227977-yanvania-2022.json](./227977-yanvania-2022.json) |
