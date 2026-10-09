@@ -2652,6 +2652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello Fangaming Collection | 320231 | [320231-hello-fangaming-collection.json](./320231-hello-fangaming-collection.json) |
 | Hello Games Neighbor | 101101 | [101101-hello-games-neighbor.json](./101101-hello-games-neighbor.json) |
 | Hello Girl | 257343 | [257343-hello-girl.json](./257343-hello-girl.json) |
+| Hello Girl | 333668 | [333668-hello-girl.json](./333668-hello-girl.json) |
 | Hello Ground | 185016 | [185016-hello-ground.json](./185016-hello-ground.json) |
 | Hello Guest | 140605 | [140605-hello-guest.json](./140605-hello-guest.json) |
 | Hello Helix | 108494 | [108494-hello-helix.json](./108494-hello-helix.json) |
@@ -4823,6 +4824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hiraeth | 280264 | [280264-hiraeth.json](./280264-hiraeth.json) |
 | Hiraeth | 291584 | [291584-hiraeth.json](./291584-hiraeth.json) |
 | Hiragana Word Challenge | 418325 | [418325-hiragana-word-challenge.json](./418325-hiragana-word-challenge.json) |
+| Hirai Nya | 333507 | [333507-hirai-nya.json](./333507-hirai-nya.json) |
 | Hirata Shougo Interactive Ehon: Aesop Monogatari Vol. 1 | 245530 | [245530-hirata-shougo-interactive-ehon-aesop-monogatari-vol-1.json](./245530-hirata-shougo-interactive-ehon-aesop-monogatari-vol-1.json) |
 | Hirdrih Technologic | 404974 | [404974-hirdrih-technologic.json](./404974-hirdrih-technologic.json) |
 | Hire Me! | 285521 | [285521-hire-me.json](./285521-hire-me.json) |
@@ -5943,6 +5945,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horde Mode -Trial of the Dark Lord | 143493 | [143493-horde-mode-trial-of-the-dark-lord.json](./143493-horde-mode-trial-of-the-dark-lord.json) |
 | Horde of Directors | 178090 | [178090-horde-of-directors.json](./178090-horde-of-directors.json) |
 | Horde Slayer | 355022 | [355022-horde-slayer.json](./355022-horde-slayer.json) |
+| Horde Survival Bundle Xbox: Andromeda Survivors, Beyond Border, Farmer Survivors, Primal Survivors, Shield King | 333692 | [333692-horde-survival-bundle-xbox-andromeda-survivors-beyond-border-farmer-survivors-primal-survivors-shield-king.json](./333692-horde-survival-bundle-xbox-andromeda-survivors-beyond-border-farmer-survivors-primal-survivors-shield-king.json) |
+| Horde Survival Bundle Xbox: Andromeda, Godsvivors and Farmer Survivors | 333691 | [333691-horde-survival-bundle-xbox-andromeda-godsvivors-and-farmer-survivors.json](./333691-horde-survival-bundle-xbox-andromeda-godsvivors-and-farmer-survivors.json) |
+| Horde Survival Bundle Xbox: Beyond Border, Shield King and Primal Survivors | 333693 | [333693-horde-survival-bundle-xbox-beyond-border-shield-king-and-primal-survivors.json](./333693-horde-survival-bundle-xbox-beyond-border-shield-king-and-primal-survivors.json) |
 | Horde: The Citadel | 375850 | [375850-horde-the-citadel.json](./375850-horde-the-citadel.json) |
 | Horde: The Northern Wind | 18879 | [18879-horde-the-northern-wind.json](./18879-horde-the-northern-wind.json) |
 | Horde: Zombie Outbreak | 105576 | [105576-horde-zombie-outbreak.json](./105576-horde-zombie-outbreak.json) |
