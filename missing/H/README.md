@@ -2211,6 +2211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hedgehog Launch | 234939 | [234939-hedgehog-launch.json](./234939-hedgehog-launch.json) |
 | Hedgehog Launch 2 | 234940 | [234940-hedgehog-launch-2.json](./234940-hedgehog-launch-2.json) |
 | Hedgehog's Adventures 2 | 99188 | [99188-hedgehogs-adventures-2.json](./99188-hedgehogs-adventures-2.json) |
+| Hedgehog's Dilemma | 374418 | [374418-hedgehogs-dilemma.json](./374418-hedgehogs-dilemma.json) |
 | Hedgehogs in Space | 54080 | [54080-hedgehogs-in-space.json](./54080-hedgehogs-in-space.json) |
 | Hedgehot: Battle Strike | 217498 | [217498-hedgehot-battle-strike.json](./217498-hedgehot-battle-strike.json) |
 | HedgeWars | 28346 | [28346-hedgewars.json](./28346-hedgewars.json) |
@@ -6841,6 +6842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Human or Not? | 251534 | [251534-human-or-not.json](./251534-human-or-not.json) |
 | Human or Virus | 142263 | [142263-human-or-virus.json](./142263-human-or-virus.json) |
 | Human Parking Simulator | 363063 | [363063-human-parking-simulator.json](./363063-human-parking-simulator.json) |
+| Human Planet | 374395 | [374395-human-planet.json](./374395-human-planet.json) |
 | Human Resource | 295319 | [295319-human-resource.json](./295319-human-resource.json) |
 | Human Resource Machine Deluxe | 136844 | [136844-human-resource-machine-deluxe.json](./136844-human-resource-machine-deluxe.json) |
 | Human Rights | 115792 | [115792-human-rights.json](./115792-human-rights.json) |
@@ -6990,6 +6992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hungry Tea Party | 129756 | [129756-hungry-tea-party.json](./129756-hungry-tea-party.json) |
 | HunieCam Studio | 19847 | [19847-huniecam-studio.json](./19847-huniecam-studio.json) |
 | Hunk Empire | 398363 | [398363-hunk-empire.json](./398363-hunk-empire.json) |
+| Hunkfrat | 374401 | [374401-hunkfrat.json](./374401-hunkfrat.json) |
 | Hunsvotti | 392167 | [392167-hunsvotti.json](./392167-hunsvotti.json) |
 | Hunt | 147908 | [147908-hunt.json](./147908-hunt.json) |
 | Hunt | 95447 | [95447-hunt.json](./95447-hunt.json) |
