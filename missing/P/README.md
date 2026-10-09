@@ -2909,6 +2909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pete Sampras Tennis 96 | 70943 | [70943-pete-sampras-tennis-96.json](./70943-pete-sampras-tennis-96.json) |
 | Pete Sampras Tennis 97 | 57672 | [57672-pete-sampras-tennis-97.json](./57672-pete-sampras-tennis-97.json) |
 | Pete's Peril | 215697 | [215697-petes-peril.json](./215697-petes-peril.json) |
+| Pete's World | 375575 | [375575-petes-world.json](./375575-petes-world.json) |
 | Peter Frankl: Puzzle no Tou | 254499 | [254499-peter-frankl-puzzle-no-tou.json](./254499-peter-frankl-puzzle-no-tou.json) |
 | Peter Griffin Bike | 343930 | [343930-peter-griffin-bike.json](./343930-peter-griffin-bike.json) |
 | Peter Padder Pauleypop | 181167 | [181167-peter-padder-pauleypop.json](./181167-peter-padder-pauleypop.json) |
@@ -3071,6 +3072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantasie Memorial Set | 279038 | [279038-phantasie-memorial-set.json](./279038-phantasie-memorial-set.json) |
 | Phantasm | 12924 | [12924-phantasm.json](./12924-phantasm.json) |
 | Phantasm | 308357 | [308357-phantasm.json](./308357-phantasm.json) |
+| Phantasm Romance: Gensou Rouman Kikou | 375564 | [375564-phantasm-romance-gensou-rouman-kikou.json](./375564-phantasm-romance-gensou-rouman-kikou.json) |
 | Phantasma | 90642 | [90642-phantasma.json](./90642-phantasma.json) |
 | Phantasma Hotel | 407340 | [407340-phantasma-hotel.json](./407340-phantasma-hotel.json) |
 | Phantasma Magic: Deluxe | 28832 | [28832-phantasma-magic-deluxe.json](./28832-phantasma-magic-deluxe.json) |
@@ -4069,6 +4071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball FX: The Machine - Bride of Pin Bot️ | 239023 | [239023-pinball-fx-the-machine-bride-of-pin-bot.json](./239023-pinball-fx-the-machine-bride-of-pin-bot.json) |
 | Pinball FX: The Princess Bride Pinball | 316244 | [316244-pinball-fx-the-princess-bride-pinball.json](./316244-pinball-fx-the-princess-bride-pinball.json) |
 | Pinball FX: Universal Classics Pinball | 239022 | [239022-pinball-fx-universal-classics-pinball.json](./239022-pinball-fx-universal-classics-pinball.json) |
+| Pinball FX: Williams Pinball - Anthology 1 | 375590 | [375590-pinball-fx-williams-pinball-anthology-1.json](./375590-pinball-fx-williams-pinball-anthology-1.json) |
 | Pinball FX: Williams Pinball - Star Trek: The Next Generation | 261330 | [261330-pinball-fx-williams-pinball-star-trek-the-next-generation.json](./261330-pinball-fx-williams-pinball-star-trek-the-next-generation.json) |
 | Pinball FX: Williams Pinball - Swords of Fury | 239019 | [239019-pinball-fx-williams-pinball-swords-of-fury.json](./239019-pinball-fx-williams-pinball-swords-of-fury.json) |
 | Pinball FX: Williams Pinball - The Addams Family | 239018 | [239018-pinball-fx-williams-pinball-the-addams-family.json](./239018-pinball-fx-williams-pinball-the-addams-family.json) |
@@ -5093,6 +5096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixicharm: Mariana Gold | 335081 | [335081-pixicharm-mariana-gold.json](./335081-pixicharm-mariana-gold.json) |
 | Pixicharm: Meowbolt | 337986 | [337986-pixicharm-meowbolt.json](./337986-pixicharm-meowbolt.json) |
 | Pixicharm: Orunex | 380669 | [380669-pixicharm-orunex.json](./380669-pixicharm-orunex.json) |
+| Pixicharm: Ribbiverse | 375565 | [375565-pixicharm-ribbiverse.json](./375565-pixicharm-ribbiverse.json) |
 | Pixicharm: Spartunex | 361698 | [361698-pixicharm-spartunex.json](./361698-pixicharm-spartunex.json) |
 | Pixicharm: Speedy Squire | 335964 | [335964-pixicharm-speedy-squire.json](./335964-pixicharm-speedy-squire.json) |
 | Pixicharm: Starry Blast | 333528 | [333528-pixicharm-starry-blast.json](./333528-pixicharm-starry-blast.json) |
@@ -8661,6 +8665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prixel | 111205 | [111205-prixel.json](./111205-prixel.json) |
 | Prize Denied | 339962 | [339962-prize-denied.json](./339962-prize-denied.json) |
 | Prize Fighter | 5424 | [5424-prize-fighter.json](./5424-prize-fighter.json) |
+| Prize Fighter: Heavyweight Edition | 375599 | [375599-prize-fighter-heavyweight-edition.json](./375599-prize-fighter-heavyweight-edition.json) |
 | Prize Fighter: Remastered | 203790 | [203790-prize-fighter-remastered.json](./203790-prize-fighter-remastered.json) |
 | Prizefight | 68609 | [68609-prizefight.json](./68609-prizefight.json) |
 | Prizefighters | 239914 | [239914-prizefighters.json](./239914-prizefighters.json) |
