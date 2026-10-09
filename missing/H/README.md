@@ -1060,6 +1060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harbour Master | 206089 | [206089-harbour-master.json](./206089-harbour-master.json) |
 | Harca | 340413 | [340413-harca.json](./340413-harca.json) |
 | Hard 'n' Heavy | 47178 | [47178-hard-n-heavy.json](./47178-hard-n-heavy.json) |
+| Hard as Nails | 371636 | [371636-hard-as-nails.json](./371636-hard-as-nails.json) |
 | Hard Ball Wikie | 196890 | [196890-hard-ball-wikie.json](./196890-hard-ball-wikie.json) |
 | Hard Brain | 266882 | [266882-hard-brain.json](./266882-hard-brain.json) |
 | Hard Core Puzzle | 335449 | [335449-hard-core-puzzle.json](./335449-hard-core-puzzle.json) |
@@ -2504,6 +2505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hellcard II | 388355 | [388355-hellcard-ii.json](./388355-hellcard-ii.json) |
 | Hellcat Ace | 25042 | [25042-hellcat-ace.json](./25042-hellcat-ace.json) |
 | Hellcats: Missions at Leyte Gulf | 337196 | [337196-hellcats-missions-at-leyte-gulf.json](./337196-hellcats-missions-at-leyte-gulf.json) |
+| Hellcrackers | 371629 | [371629-hellcrackers.json](./371629-hellcrackers.json) |
 | Hellcrossing | 245797 | [245797-hellcrossing.json](./245797-hellcrossing.json) |
 | Hellcrown | 412367 | [412367-hellcrown.json](./412367-hellcrown.json) |
 | HellCrunch | 89400 | [89400-hellcrunch.json](./89400-hellcrunch.json) |
