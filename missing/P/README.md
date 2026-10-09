@@ -5277,6 +5277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planckman | 359025 | [359025-planckman.json](./359025-planckman.json) |
 | Plandzz | 51737 | [51737-plandzz.json](./51737-plandzz.json) |
 | Plane and Simple | 143108 | [143108-plane-and-simple.json](./143108-plane-and-simple.json) |
+| Plane Balance | 372787 | [372787-plane-balance.json](./372787-plane-balance.json) |
 | Plane Master | 232691 | [232691-plane-master.json](./232691-plane-master.json) |
 | Plane Racer | 230296 | [230296-plane-racer.json](./230296-plane-racer.json) |
 | Plane Starship: Galactic Frontline | 278104 | [278104-plane-starship-galactic-frontline.json](./278104-plane-starship-galactic-frontline.json) |
@@ -9972,6 +9973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pulsator | 39130 | [39130-pulsator.json](./39130-pulsator.json) |
 | Pulse | 177421 | [177421-pulse.json](./177421-pulse.json) |
 | Pulse | 266480 | [266480-pulse.json](./266480-pulse.json) |
+| Pulse | 372810 | [372810-pulse.json](./372810-pulse.json) |
 | Pulse | 392257 | [392257-pulse.json](./392257-pulse.json) |
 | Pulse Cage Episode 1 | 25629 | [25629-pulse-cage-episode-1.json](./25629-pulse-cage-episode-1.json) |
 | Pulse Drive | 415322 | [415322-pulse-drive.json](./415322-pulse-drive.json) |
