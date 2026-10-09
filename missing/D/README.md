@@ -2645,6 +2645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death in the Bunker | 224555 | [224555-death-in-the-bunker.json](./224555-death-in-the-bunker.json) |
 | Death in the Water 2 | 222355 | [222355-death-in-the-water-2.json](./222355-death-in-the-water-2.json) |
 | Death in Unison | 301383 | [301383-death-in-unison.json](./301383-death-in-unison.json) |
+| Death In Your Dice | 334740 | [334740-death-in-your-dice.json](./334740-death-in-your-dice.json) |
 | Death is better than Hell | 51971 | [51971-death-is-better-than-hell.json](./51971-death-is-better-than-hell.json) |
 | Death Jr: Root of Evil | 90656 | [90656-death-jr-root-of-evil.json](./90656-death-jr-root-of-evil.json) |
 | Death Jr. | 45988 | [45988-death-jr.json](./45988-death-jr.json) |
@@ -6885,6 +6886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dog | 314401 | [314401-dog.json](./314401-dog.json) |
 | Dog Cafe Tycoon | 226771 | [226771-dog-cafe-tycoon.json](./226771-dog-cafe-tycoon.json) |
 | Dog Clicker | 190203 | [190203-dog-clicker.json](./190203-dog-clicker.json) |
+| Dog Couple | 334803 | [334803-dog-couple.json](./334803-dog-couple.json) |
 | Dog Daze | 67945 | [67945-dog-daze.json](./67945-dog-daze.json) |
 | Dog Daze Deluxe | 90900 | [90900-dog-daze-deluxe.json](./90900-dog-daze-deluxe.json) |
 | Dog Duty | 45884 | [45884-dog-duty.json](./45884-dog-duty.json) |
@@ -7032,6 +7034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doki Doki Despair | 333918 | [333918-doki-doki-despair.json](./333918-doki-doki-despair.json) |
 | Doki Doki Dollmaker | 246651 | [246651-doki-doki-dollmaker.json](./246651-doki-doki-dollmaker.json) |
 | Doki Doki Don't | 333784 | [333784-doki-doki-dont.json](./333784-doki-doki-dont.json) |
+| Doki Doki Emerald Affection | 334816 | [334816-doki-doki-emerald-affection.json](./334816-doki-doki-emerald-affection.json) |
 | Doki Doki Exit Music Epilogue | 353423 | [353423-doki-doki-exit-music-epilogue.json](./353423-doki-doki-exit-music-epilogue.json) |
 | Doki Doki Exit Music: Redux | 201845 | [201845-doki-doki-exit-music-redux.json](./201845-doki-doki-exit-music-redux.json) |
 | Doki Doki Fiendish | 332852 | [332852-doki-doki-fiendish.json](./332852-doki-doki-fiendish.json) |
@@ -8261,6 +8264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doughlings: Invasion | 116142 | [116142-doughlings-invasion.json](./116142-doughlings-invasion.json) |
 | Douglas Rockmoor | 69305 | [69305-douglas-rockmoor.json](./69305-douglas-rockmoor.json) |
 | Douglas Rockmoor 2 | 69309 | [69309-douglas-rockmoor-2.json](./69309-douglas-rockmoor-2.json) |
+| Doujin Jigsaw Puzzle | 334806 | [334806-doujin-jigsaw-puzzle.json](./334806-doujin-jigsaw-puzzle.json) |
 | Doujins and Dragons | 186158 | [186158-doujins-and-dragons.json](./186158-doujins-and-dragons.json) |
 | Doukeshi Satsujin Jiken | 351082 | [351082-doukeshi-satsujin-jiken.json](./351082-doukeshi-satsujin-jiken.json) |
 | Doukutsu Demake | 183019 | [183019-doukutsu-demake.json](./183019-doukutsu-demake.json) |
