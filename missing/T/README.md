@@ -2172,6 +2172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teenager vs.Tropical Mutants | 108414 | [108414-teenager-vs-tropical-mutants.json](./108414-teenager-vs-tropical-mutants.json) |
 | Teeny Dungeon | 245798 | [245798-teeny-dungeon.json](./245798-teeny-dungeon.json) |
 | Teeny Heist | 83556 | [83556-teeny-heist.json](./83556-teeny-heist.json) |
+| Teeny Tidy | 352152 | [352152-teeny-tidy.json](./352152-teeny-tidy.json) |
 | Teeny Tiny Harbors | 319217 | [319217-teeny-tiny-harbors.json](./319217-teeny-tiny-harbors.json) |
 | Teeny Tiny Tarot | 182878 | [182878-teeny-tiny-tarot.json](./182878-teeny-tiny-tarot.json) |
 | Teeny Tiny Town | 255045 | [255045-teeny-tiny-town.json](./255045-teeny-tiny-town.json) |
@@ -6605,6 +6606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hunt for Red October | 31187 | [31187-the-hunt-for-red-october.json](./31187-the-hunt-for-red-october.json) |
 | The Hunt for Red October | 76577 | [76577-the-hunt-for-red-october.json](./76577-the-hunt-for-red-october.json) |
 | The Hunt for the Chocolate Egg | 215376 | [215376-the-hunt-for-the-chocolate-egg.json](./215376-the-hunt-for-the-chocolate-egg.json) |
+| The Hunt for the Gay Planet | 352150 | [352150-the-hunt-for-the-gay-planet.json](./352150-the-hunt-for-the-gay-planet.json) |
 | The Hunt for the Lost Treasure | 88284 | [88284-the-hunt-for-the-lost-treasure.json](./88284-the-hunt-for-the-lost-treasure.json) |
 | The Hunt for the Lost Treasure 2 | 290007 | [290007-the-hunt-for-the-lost-treasure-2.json](./290007-the-hunt-for-the-lost-treasure-2.json) |
 | The Hunted | 215741 | [215741-the-hunted.json](./215741-the-hunted.json) |
@@ -12507,6 +12509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thunder Jumper | 268219 | [268219-thunder-jumper.json](./268219-thunder-jumper.json) |
 | Thunder League | 59407 | [59407-thunder-league.json](./59407-thunder-league.json) |
 | Thunder League Online | 195169 | [195169-thunder-league-online.json](./195169-thunder-league-online.json) |
+| Thunder of the DemonKing | 352110 | [352110-thunder-of-the-demonking.json](./352110-thunder-of-the-demonking.json) |
 | Thunder Rally | 99083 | [99083-thunder-rally.json](./99083-thunder-rally.json) |
 | Thunder Ray | 201592 | [201592-thunder-ray.json](./201592-thunder-ray.json) |
 | Thunder Ray: Forgotten Duels | 288274 | [288274-thunder-ray-forgotten-duels.json](./288274-thunder-ray-forgotten-duels.json) |
@@ -14803,6 +14806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toilet Farm | 185005 | [185005-toilet-farm.json](./185005-toilet-farm.json) |
 | Toilet Fight: Open World | 273945 | [273945-toilet-fight-open-world.json](./273945-toilet-fight-open-world.json) |
 | Toilet Flushing Simulator | 175710 | [175710-toilet-flushing-simulator.json](./175710-toilet-flushing-simulator.json) |
+| Toilet Hero | 352148 | [352148-toilet-hero.json](./352148-toilet-hero.json) |
 | Toilet in Wonderland | 25015 | [25015-toilet-in-wonderland.json](./25015-toilet-in-wonderland.json) |
 | Toilet Management Simulator | 138586 | [138586-toilet-management-simulator.json](./138586-toilet-management-simulator.json) |
 | Toilet Paper Simulator | 248890 | [248890-toilet-paper-simulator.json](./248890-toilet-paper-simulator.json) |
