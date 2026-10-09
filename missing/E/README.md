@@ -582,6 +582,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eclipse: Edge of Light | 27809 | [27809-eclipse-edge-of-light.json](./27809-eclipse-edge-of-light.json) |
 | Eclipse: Fall - Kami no Danzai | 379353 | [379353-eclipse-fall-kami-no-danzai.json](./379353-eclipse-fall-kami-no-danzai.json) |
 | Eclipse: Special Forces | 345002 | [345002-eclipse-special-forces.json](./345002-eclipse-special-forces.json) |
+| Eclipsed Realms | 385913 | [385913-eclipsed-realms.json](./385913-eclipsed-realms.json) |
+| Eclipsed Remnant | 385912 | [385912-eclipsed-remnant.json](./385912-eclipsed-remnant.json) |
 | Eclipsic | 341111 | [341111-eclipsic.json](./341111-eclipsic.json) |
 | Ecliptic | 337151 | [337151-ecliptic.json](./337151-ecliptic.json) |
 | Ecliptica | 398001 | [398001-ecliptica.json](./398001-ecliptica.json) |
@@ -3870,6 +3872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everise | 388980 | [388980-everise.json](./388980-everise.json) |
 | Everlands | 200130 | [200130-everlands.json](./200130-everlands.json) |
 | Everlasting Guilt | 155084 | [155084-everlasting-guilt.json](./155084-everlasting-guilt.json) |
+| Everlasting Summer 2 | 385888 | [385888-everlasting-summer-2.json](./385888-everlasting-summer-2.json) |
 | Everlasting Tower | 335661 | [335661-everlasting-tower.json](./335661-everlasting-tower.json) |
 | Everlasting: Per Aspera Ad Terra | 112313 | [112313-everlasting-per-aspera-ad-terra.json](./112313-everlasting-per-aspera-ad-terra.json) |
 | Everlasting: Tomorrow | 303086 | [303086-everlasting-tomorrow.json](./303086-everlasting-tomorrow.json) |
