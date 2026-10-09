@@ -2399,6 +2399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinity: HexaDome Tactics | 275699 | [275699-infinity-hexadome-tactics.json](./275699-infinity-hexadome-tactics.json) |
 | Infinium | 311192 | [311192-infinium.json](./311192-infinium.json) |
 | Infinium Strike: Broken Overlord | 171454 | [171454-infinium-strike-broken-overlord.json](./171454-infinium-strike-broken-overlord.json) |
+| InfiniVirus | 381344 | [381344-infinivirus.json](./381344-infinivirus.json) |
 | Infiniwar | 312750 | [312750-infiniwar.json](./312750-infiniwar.json) |
 | Infinos Exa | 316072 | [316072-infinos-exa.json](./316072-infinos-exa.json) |
 | Infinos Gaiden | 81841 | [81841-infinos-gaiden.json](./81841-infinos-gaiden.json) |
@@ -3085,6 +3086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Into the Blue | 109033 | [109033-into-the-blue.json](./109033-into-the-blue.json) |
 | Into the Box | 183001 | [183001-into-the-box.json](./183001-into-the-box.json) |
 | Into the Breach: Advanced Edition | 247511 | [247511-into-the-breach-advanced-edition.json](./247511-into-the-breach-advanced-edition.json) |
+| Into the Cannon, Soldier! | 381366 | [381366-into-the-cannon-soldier.json](./381366-into-the-cannon-soldier.json) |
 | Into the Circle | 128410 | [128410-into-the-circle.json](./128410-into-the-circle.json) |
 | Into the Core | 118429 | [118429-into-the-core.json](./118429-into-the-core.json) |
 | Into The Corner | 339112 | [339112-into-the-corner.json](./339112-into-the-corner.json) |
