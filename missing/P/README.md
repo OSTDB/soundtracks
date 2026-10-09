@@ -1226,6 +1226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parahcuy | 321493 | [321493-parahcuy.json](./321493-parahcuy.json) |
 | Paraido | 265781 | [265781-paraido.json](./265781-paraido.json) |
 | Paraiso | 299390 | [299390-paraiso.json](./299390-paraiso.json) |
+| ParaLegends | 357177 | [357177-paralegends.json](./357177-paralegends.json) |
 | Parallax | 211628 | [211628-parallax.json](./211628-parallax.json) |
 | Parallax | 271743 | [271743-parallax.json](./271743-parallax.json) |
 | Parallax | 28847 | [28847-parallax.json](./28847-parallax.json) |
@@ -1527,6 +1528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parsec | 341593 | [341593-parsec.json](./341593-parsec.json) |
 | Parsec Frontiers | 81196 | [81196-parsec-frontiers.json](./81196-parsec-frontiers.json) |
 | Parsec Lost in Space | 255972 | [255972-parsec-lost-in-space.json](./255972-parsec-lost-in-space.json) |
+| Parsector | 357204 | [357204-parsector.json](./357204-parsector.json) |
 | Parseword | 394540 | [394540-parseword.json](./394540-parseword.json) |
 | Parsnip | 96108 | [96108-parsnip.json](./96108-parsnip.json) |
 | Part of the Flock | 325700 | [325700-part-of-the-flock.json](./325700-part-of-the-flock.json) |
@@ -4195,6 +4197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball HD | 175348 | [175348-pinball-hd.json](./175348-pinball-hd.json) |
 | Pinball HD | 88282 | [88282-pinball-hd.json](./88282-pinball-hd.json) |
 | Pinball HD Collection | 33355 | [33355-pinball-hd-collection.json](./33355-pinball-hd-collection.json) |
+| Pinball Hero | 357210 | [357210-pinball-hero.json](./357210-pinball-hero.json) |
 | Pinball Heroes | 229161 | [229161-pinball-heroes.json](./229161-pinball-heroes.json) |
 | Pinball Heroes Bundle 2 | 99584 | [99584-pinball-heroes-bundle-2.json](./99584-pinball-heroes-bundle-2.json) |
 | Pinball Heroes: Wipeout HD Fury | 52655 | [52655-pinball-heroes-wipeout-hd-fury.json](./52655-pinball-heroes-wipeout-hd-fury.json) |
@@ -9202,6 +9205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Entertainment System | 156533 | [156533-project-entertainment-system.json](./156533-project-entertainment-system.json) |
 | Project Entropy | 269086 | [269086-project-entropy.json](./269086-project-entropy.json) |
 | Project Epic | 324096 | [324096-project-epic.json](./324096-project-epic.json) |
+| Project Epoch | 357170 | [357170-project-epoch.json](./357170-project-epoch.json) |
 | Project Ethos | 317864 | [317864-project-ethos.json](./317864-project-ethos.json) |
 | Project Evolve | 306067 | [306067-project-evolve.json](./306067-project-evolve.json) |
 | Project Exhibited | 132216 | [132216-project-exhibited.json](./132216-project-exhibited.json) |
