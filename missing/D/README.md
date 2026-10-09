@@ -4989,6 +4989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dice Carnival | 406262 | [406262-dice-carnival.json](./406262-dice-carnival.json) |
 | Dice Chess | 401607 | [401607-dice-chess.json](./401607-dice-chess.json) |
 | Dice City Roller | 366417 | [366417-dice-city-roller.json](./366417-dice-city-roller.json) |
+| Dice City Roller HD | 354971 | [354971-dice-city-roller-hd.json](./354971-dice-city-roller-hd.json) |
 | Dice Craft | 252156 | [252156-dice-craft.json](./252156-dice-craft.json) |
 | Dice Crypt | 266317 | [266317-dice-crypt.json](./266317-dice-crypt.json) |
 | Dice Deluge | 414294 | [414294-dice-deluge.json](./414294-dice-deluge.json) |
@@ -6909,6 +6910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dogma no Hakoniwa | 394543 | [394543-dogma-no-hakoniwa.json](./394543-dogma-no-hakoniwa.json) |
 | Dogma: Eternal Night | 110306 | [110306-dogma-eternal-night.json](./110306-dogma-eternal-night.json) |
 | Dogman | 141214 | [141214-dogman.json](./141214-dogman.json) |
+| Dogman95 | 354944 | [354944-dogman95.json](./354944-dogman95.json) |
 | Dogmelon Solitaire | 87101 | [87101-dogmelon-solitaire.json](./87101-dogmelon-solitaire.json) |
 | Dogness | 144242 | [144242-dogness.json](./144242-dogness.json) |
 | Dogotchi: Virtual Pet - Deluxe Edition | 256265 | [256265-dogotchi-virtual-pet-deluxe-edition.json](./256265-dogotchi-virtual-pet-deluxe-edition.json) |
@@ -8057,6 +8059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Double Dash | 391809 | [391809-double-dash.json](./391809-double-dash.json) |
 | Double Dealers | 403675 | [403675-double-dealers.json](./403675-double-dealers.json) |
 | Double Death | 33426 | [33426-double-death.json](./33426-double-death.json) |
+| Double Deuce Poker HD | 354972 | [354972-double-deuce-poker-hd.json](./354972-double-deuce-poker-hd.json) |
 | Double Dodgers | 133820 | [133820-double-dodgers.json](./133820-double-dodgers.json) |
 | Double Doodle | 62797 | [62797-double-doodle.json](./62797-double-doodle.json) |
 | Double Down | 368149 | [368149-double-down.json](./368149-double-down.json) |
