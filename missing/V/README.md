@@ -645,6 +645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vectopia | 46514 | [46514-vectopia.json](./46514-vectopia.json) |
 | Vector 2 | 101939 | [101939-vector-2.json](./101939-vector-2.json) |
 | Vector Born | 95636 | [95636-vector-born.json](./95636-vector-born.json) |
+| Vector City Racers | 343219 | [343219-vector-city-racers.json](./343219-vector-city-racers.json) |
 | Vector HD | 88349 | [88349-vector-hd.json](./88349-vector-hd.json) |
 | Vector Light | 126589 | [126589-vector-light.json](./126589-vector-light.json) |
 | Vector Madness | 62167 | [62167-vector-madness.json](./62167-vector-madness.json) |
