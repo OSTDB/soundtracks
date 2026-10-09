@@ -1448,6 +1448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Care for your Horse | 357850 | [357850-care-for-your-horse.json](./357850-care-for-your-horse.json) |
 | Care of Gongon | 350048 | [350048-care-of-gongon.json](./350048-care-of-gongon.json) |
 | Carebotz | 159730 | [159730-carebotz.json](./159730-carebotz.json) |
+| Careening | 379174 | [379174-careening.json](./379174-careening.json) |
 | Career Fantasy | 318515 | [318515-career-fantasy.json](./318515-career-fantasy.json) |
 | Career of the President | 164860 | [164860-career-of-the-president.json](./164860-career-of-the-president.json) |
 | Carena | 135830 | [135830-carena.json](./135830-carena.json) |
@@ -5511,6 +5512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ClanRivals: Vikings | 159876 | [159876-clanrivals-vikings.json](./159876-clanrivals-vikings.json) |
 | Clans | 17121 | [17121-clans.json](./17121-clans.json) |
 | Clans Logue | 259718 | [259718-clans-logue.json](./259718-clans-logue.json) |
+| Clans of London | 379128 | [379128-clans-of-london.json](./379128-clans-of-london.json) |
 | Clanswoman | 264598 | [264598-clanswoman.json](./264598-clanswoman.json) |
 | Clapper - A rhythm and clap game! | 74697 | [74697-clapper-a-rhythm-and-clap-game.json](./74697-clapper-a-rhythm-and-clap-game.json) |
 | Clappy Cheeks: Lust and Magic | 379351 | [379351-clappy-cheeks-lust-and-magic.json](./379351-clappy-cheeks-lust-and-magic.json) |
@@ -10862,6 +10864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystal Towers 2 XL | 46642 | [46642-crystal-towers-2-xl.json](./46642-crystal-towers-2-xl.json) |
 | Crystal Vale: Dino Escape | 387662 | [387662-crystal-vale-dino-escape.json](./387662-crystal-vale-dino-escape.json) |
 | Crystal Vein | 396000 | [396000-crystal-vein.json](./396000-crystal-vein.json) |
+| Crystal Veins | 379149 | [379149-crystal-veins.json](./379149-crystal-veins.json) |
 | Crystal Venture | 189194 | [189194-crystal-venture.json](./189194-crystal-venture.json) |
 | Crystal Vibes feat. Ott. | 34662 | [34662-crystal-vibes-feat-ott.json](./34662-crystal-vibes-feat-ott.json) |
 | Crystal Warriors | 11648 | [11648-crystal-warriors.json](./11648-crystal-warriors.json) |
