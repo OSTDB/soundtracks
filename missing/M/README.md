@@ -1604,6 +1604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Malleus Cocconum: The Heiress | 328106 | [328106-malleus-cocconum-the-heiress.json](./328106-malleus-cocconum-the-heiress.json) |
 | Malleus Maleficarum | 373104 | [373104-malleus-maleficarum.json](./373104-malleus-maleficarum.json) |
 | Malleus Maleficarum: The Witch of San Ignacio | 318794 | [318794-malleus-maleficarum-the-witch-of-san-ignacio.json](./318794-malleus-maleficarum-the-witch-of-san-ignacio.json) |
+| Mallow & The Street of the Fallen | 376861 | [376861-mallow-and-the-street-of-the-fallen.json](./376861-mallow-and-the-street-of-the-fallen.json) |
 | Mallows | 26456 | [26456-mallows.json](./26456-mallows.json) |
 | Malody | 76901 | [76901-malody.json](./76901-malody.json) |
 | Malody V | 190191 | [190191-malody-v.json](./190191-malody-v.json) |
@@ -8316,6 +8317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mizu no Senritsu | 220576 | [220576-mizu-no-senritsu.json](./220576-mizu-no-senritsu.json) |
 | Mizu no Senritsu 2: Hi no Kioku | 67305 | [67305-mizu-no-senritsu-2-hi-no-kioku.json](./67305-mizu-no-senritsu-2-hi-no-kioku.json) |
 | Mizu no Senritsu: Kyousoukyoku | 220578 | [220578-mizu-no-senritsu-kyousoukyoku.json](./220578-mizu-no-senritsu-kyousoukyoku.json) |
+| Mizu-iro Converge | 376879 | [376879-mizu-iro-converge.json](./376879-mizu-iro-converge.json) |
 | Mizuchi | 121406 | [121406-mizuchi.json](./121406-mizuchi.json) |
 | Mizuiro no Chizu | 77680 | [77680-mizuiro-no-chizu.json](./77680-mizuiro-no-chizu.json) |
 | Mizuki and the Crimson Moon | 307212 | [307212-mizuki-and-the-crimson-moon.json](./307212-mizuki-and-the-crimson-moon.json) |
