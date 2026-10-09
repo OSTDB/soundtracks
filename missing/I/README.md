@@ -1386,6 +1386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Imaginator | 122419 | [122419-imaginator.json](./122419-imaginator.json) |
 | Imagine Earth | 17111 | [17111-imagine-earth.json](./17111-imagine-earth.json) |
 | Imagine Island | 341607 | [341607-imagine-island.json](./341607-imagine-island.json) |
+| Imagine Sisyphus Happy | 366716 | [366716-imagine-sisyphus-happy.json](./366716-imagine-sisyphus-happy.json) |
 | Imagine We Were Human | 419839 | [419839-imagine-we-were-human.json](./419839-imagine-we-were-human.json) |
 | Imagine: Animal Doctor Care Center | 7948 | [7948-imagine-animal-doctor-care-center.json](./7948-imagine-animal-doctor-care-center.json) |
 | Imagine: Artist | 7944 | [7944-imagine-artist.json](./7944-imagine-artist.json) |
@@ -2799,6 +2800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inspector Parker Unsolved | 50858 | [50858-inspector-parker-unsolved.json](./50858-inspector-parker-unsolved.json) |
 | Inspector Schmidt: The Ebbing | 306585 | [306585-inspector-schmidt-the-ebbing.json](./306585-inspector-schmidt-the-ebbing.json) |
 | Inspector Waffles: Purrluxe Edition | 154522 | [154522-inspector-waffles-purrluxe-edition.json](./154522-inspector-waffles-purrluxe-edition.json) |
+| Inspektor | 366726 | [366726-inspektor.json](./366726-inspektor.json) |
 | Inspektor Zebok: Das Erbe | 116139 | [116139-inspektor-zebok-das-erbe.json](./116139-inspektor-zebok-das-erbe.json) |
 | InSpheration | 53234 | [53234-inspheration.json](./53234-inspheration.json) |
 | Inspiral: Echoes of Gravity | 372462 | [372462-inspiral-echoes-of-gravity.json](./372462-inspiral-echoes-of-gravity.json) |
