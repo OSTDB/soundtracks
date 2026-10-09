@@ -3458,6 +3458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ks Tank War | 373311 | [373311-ks-tank-war.json](./373311-ks-tank-war.json) |
 | KSame | 64431 | [64431-ksame.json](./64431-ksame.json) |
 | Kselebox | 169978 | [169978-kselebox.json](./169978-kselebox.json) |
+| KSI Unleashed | 350371 | [350371-ksi-unleashed.json](./350371-ksi-unleashed.json) |
 | Ksiega Dzungli | 318486 | [318486-ksiega-dzungli.json](./318486-ksiega-dzungli.json) |
 | Ku Gyoku Den | 216761 | [216761-ku-gyoku-den.json](./216761-ku-gyoku-den.json) |
 | Ku: Shroud of the Morrigan | 16936 | [16936-ku-shroud-of-the-morrigan.json](./16936-ku-shroud-of-the-morrigan.json) |
