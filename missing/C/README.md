@@ -2381,6 +2381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catacombs | 169979 | [169979-catacombs.json](./169979-catacombs.json) |
 | Catacombs | 25918 | [25918-catacombs.json](./25918-catacombs.json) |
 | Catacombs | 289565 | [289565-catacombs.json](./289565-catacombs.json) |
+| Catacombs | 341456 | [341456-catacombs.json](./341456-catacombs.json) |
 | Catacombs 1: Demon War | 43505 | [43505-catacombs-1-demon-war.json](./43505-catacombs-1-demon-war.json) |
 | Catacombs of the Phantoms | 356691 | [356691-catacombs-of-the-phantoms.json](./356691-catacombs-of-the-phantoms.json) |
 | Catacombs of the Undercity | 35682 | [35682-catacombs-of-the-undercity.json](./35682-catacombs-of-the-undercity.json) |
@@ -8133,6 +8134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Contact Draw: Football | 102915 | [102915-contact-draw-football.json](./102915-contact-draw-football.json) |
 | Contact Me | 149447 | [149447-contact-me.json](./149447-contact-me.json) |
 | Contact Protocol | 373878 | [373878-contact-protocol.json](./373878-contact-protocol.json) |
+| Contact: Nyannyan to issho | 341532 | [341532-contact-nyannyan-to-issho.json](./341532-contact-nyannyan-to-issho.json) |
 | Contacts | 379591 | [379591-contacts.json](./379591-contacts.json) |
 | Contador de Histórias | 290093 | [290093-contador-de-historias.json](./290093-contador-de-historias.json) |
 | Contagion | 6404 | [6404-contagion.json](./6404-contagion.json) |
