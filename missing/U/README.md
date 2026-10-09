@@ -2216,6 +2216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uta Quta | 404450 | [404450-uta-quta.json](./404450-uta-quta.json) |
 | Utacchi | 80482 | [80482-utacchi.json](./80482-utacchi.json) |
 | Utakata no R: Kako-hen Awayuki | 221743 | [221743-utakata-no-r-kako-hen-awayuki.json](./221743-utakata-no-r-kako-hen-awayuki.json) |
+| Utakata no Uchronia: Trail | 336571 | [336571-utakata-no-uchronia-trail.json](./336571-utakata-no-uchronia-trail.json) |
 | Utapau Chase | 245968 | [245968-utapau-chase.json](./245968-utapau-chase.json) |
 | Utauta-Uh: Seirei Songs | 167052 | [167052-utauta-uh-seirei-songs.json](./167052-utauta-uh-seirei-songs.json) |
 | Utawarerumono | 24080 | [24080-utawarerumono.json](./24080-utawarerumono.json) |
