@@ -732,6 +732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Icon_Survive | 340520 | [340520-icon-survive.json](./340520-icon-survive.json) |
 | Iconic | 132253 | [132253-iconic.json](./132253-iconic.json) |
 | Iconic | 356704 | [356704-iconic.json](./356704-iconic.json) |
+| Iconic | 362768 | [362768-iconic.json](./362768-iconic.json) |
 | Icontrivia: Guess All Things Christmas | 232050 | [232050-icontrivia-guess-all-things-christmas.json](./232050-icontrivia-guess-all-things-christmas.json) |
 | Icontrivia: Guess the Character | 233746 | [233746-icontrivia-guess-the-character.json](./233746-icontrivia-guess-the-character.json) |
 | Icontrivia: Guess the Dogs | 233101 | [233101-icontrivia-guess-the-dogs.json](./233101-icontrivia-guess-the-dogs.json) |
@@ -2021,7 +2022,17 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Indiemon Card Adventure | 62720 | [62720-indiemon-card-adventure.json](./62720-indiemon-card-adventure.json) |
 | Indiemon: Earth Nation - Villain Version | 62721 | [62721-indiemon-earth-nation-villain-version.json](./62721-indiemon-earth-nation-villain-version.json) |
 | Indiepocalypse #3 | 248808 | [248808-indiepocalypse-3.json](./248808-indiepocalypse-3.json) |
+| Indiepocalypse #57 | 362705 | [362705-indiepocalypse-57.json](./362705-indiepocalypse-57.json) |
+| Indiepocalypse #58 | 362706 | [362706-indiepocalypse-58.json](./362706-indiepocalypse-58.json) |
+| Indiepocalypse #59 | 362707 | [362707-indiepocalypse-59.json](./362707-indiepocalypse-59.json) |
+| Indiepocalypse #60 | 362708 | [362708-indiepocalypse-60.json](./362708-indiepocalypse-60.json) |
 | Indiepocalypse #61 | 336536 | [336536-indiepocalypse-61.json](./336536-indiepocalypse-61.json) |
+| Indiepocalypse #62 | 362709 | [362709-indiepocalypse-62.json](./362709-indiepocalypse-62.json) |
+| Indiepocalypse #63 | 362710 | [362710-indiepocalypse-63.json](./362710-indiepocalypse-63.json) |
+| Indiepocalypse #64 | 362711 | [362711-indiepocalypse-64.json](./362711-indiepocalypse-64.json) |
+| Indiepocalypse #65 | 362712 | [362712-indiepocalypse-65.json](./362712-indiepocalypse-65.json) |
+| Indiepocalypse #66 | 362713 | [362713-indiepocalypse-66.json](./362713-indiepocalypse-66.json) |
+| Indiepocalypse #67 | 362714 | [362714-indiepocalypse-67.json](./362714-indiepocalypse-67.json) |
 | Indiepocalypse #68 | 382208 | [382208-indiepocalypse-68.json](./382208-indiepocalypse-68.json) |
 | Indiepocalypse #69 | 382205 | [382205-indiepocalypse-69.json](./382205-indiepocalypse-69.json) |
 | Indiepocalypse #7 | 288183 | [288183-indiepocalypse-7.json](./288183-indiepocalypse-7.json) |
@@ -2723,6 +2734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Insectipede | 119764 | [119764-insectipede.json](./119764-insectipede.json) |
 | Insectoid | 25010 | [25010-insectoid.json](./25010-insectoid.json) |
 | Insectoid Descent | 205231 | [205231-insectoid-descent.json](./205231-insectoid-descent.json) |
+| Insectomania | 362737 | [362737-insectomania.json](./362737-insectomania.json) |
 | Insector Hecti in the Interchange | 67272 | [67272-insector-hecti-in-the-interchange.json](./67272-insector-hecti-in-the-interchange.json) |
 | Insectum: Epic Battles of Bugs | 303585 | [303585-insectum-epic-battles-of-bugs.json](./303585-insectum-epic-battles-of-bugs.json) |
 | Inselnova | 405707 | [405707-inselnova.json](./405707-inselnova.json) |
