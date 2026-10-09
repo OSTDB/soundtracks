@@ -1415,6 +1415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Das Tier | 141155 | [141155-das-tier.json](./141155-das-tier.json) |
 | Das Überleben: Dem Großen Sprung | 172488 | [172488-das-uberleben-dem-gro-en-sprung.json](./172488-das-uberleben-dem-gro-en-sprung.json) |
 | Dasaku | 137041 | [137041-dasaku.json](./137041-dasaku.json) |
+| Dash | 341457 | [341457-dash.json](./341457-dash.json) |
 | Dash & Roll | 285981 | [285981-dash-and-roll.json](./285981-dash-and-roll.json) |
 | Dash & Swing | 245845 | [245845-dash-and-swing.json](./245845-dash-and-swing.json) |
 | Dash and Fire | 155668 | [155668-dash-and-fire.json](./155668-dash-and-fire.json) |
