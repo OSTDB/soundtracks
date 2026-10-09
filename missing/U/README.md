@@ -356,6 +356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Jazz Jackrabbit Doom | 196004 | [196004-ultimate-jazz-jackrabbit-doom.json](./196004-ultimate-jazz-jackrabbit-doom.json) |
 | Ultimate Jewel | 242209 | [242209-ultimate-jewel.json](./242209-ultimate-jewel.json) |
 | Ultimate Jungle Simulator | 86856 | [86856-ultimate-jungle-simulator.json](./86856-ultimate-jungle-simulator.json) |
+| Ultimate Kept Man Life | 340347 | [340347-ultimate-kept-man-life.json](./340347-ultimate-kept-man-life.json) |
 | Ultimate Knight Windom XP | 268438 | [268438-ultimate-knight-windom-xp.json](./268438-ultimate-knight-windom-xp.json) |
 | Ultimate Lemon Basket | 411522 | [411522-ultimate-lemon-basket.json](./411522-ultimate-lemon-basket.json) |
 | Ultimate Logic Puzzle Collection | 115163 | [115163-ultimate-logic-puzzle-collection.json](./115163-ultimate-logic-puzzle-collection.json) |
