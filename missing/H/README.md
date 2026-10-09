@@ -828,6 +828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hangover | 389994 | [389994-hangover.json](./389994-hangover.json) |
 | Hangoverse: Season 1 | 370755 | [370755-hangoverse-season-1.json](./370755-hangoverse-season-1.json) |
 | Hangry Bunnies From Mars | 54698 | [54698-hangry-bunnies-from-mars.json](./54698-hangry-bunnies-from-mars.json) |
+| Hangtime! | 373342 | [373342-hangtime.json](./373342-hangtime.json) |
 | Hangul Attack | 141664 | [141664-hangul-attack.json](./141664-hangul-attack.json) |
 | Hangul Typing Tale | 362989 | [362989-hangul-typing-tale.json](./362989-hangul-typing-tale.json) |
 | Hangzo | 141238 | [141238-hangzo.json](./141238-hangzo.json) |
@@ -7136,6 +7137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunting fields of Jackals | 114966 | [114966-hunting-fields-of-jackals.json](./114966-hunting-fields-of-jackals.json) |
 | Hunting Moon | 168150 | [168150-hunting-moon.json](./168150-hunting-moon.json) |
 | Hunting Moon vol.2 | 165022 | [165022-hunting-moon-vol-2.json](./165022-hunting-moon-vol-2.json) |
+| Hunting Pack | 373309 | [373309-hunting-pack.json](./373309-hunting-pack.json) |
 | Hunting Pro Simulator | 407553 | [407553-hunting-pro-simulator.json](./407553-hunting-pro-simulator.json) |
 | Hunting Seas | 312169 | [312169-hunting-seas.json](./312169-hunting-seas.json) |
 | Hunting Season | 210056 | [210056-hunting-season.json](./210056-hunting-season.json) |
