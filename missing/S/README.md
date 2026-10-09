@@ -2440,6 +2440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea of Radiation: Ready | 304860 | [304860-sea-of-radiation-ready.json](./304860-sea-of-radiation-ready.json) |
 | Sea of Secrets | 357806 | [357806-sea-of-secrets.json](./357806-sea-of-secrets.json) |
 | Sea of Solitude: The Director's Cut | 141535 | [141535-sea-of-solitude-the-directors-cut.json](./141535-sea-of-solitude-the-directors-cut.json) |
+| Sea of Souls | 348277 | [348277-sea-of-souls.json](./348277-sea-of-souls.json) |
 | Sea of Stars: Dawn of Equinox | 318389 | [318389-sea-of-stars-dawn-of-equinox.json](./318389-sea-of-stars-dawn-of-equinox.json) |
 | Sea of Stars: Early Backer Limited Edition | 283826 | [283826-sea-of-stars-early-backer-limited-edition.json](./283826-sea-of-stars-early-backer-limited-edition.json) |
 | Sea of Stars: Throes of the Watchmaker | 314929 | [314929-sea-of-stars-throes-of-the-watchmaker.json](./314929-sea-of-stars-throes-of-the-watchmaker.json) |
@@ -2455,6 +2456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea of Thieves: Season 14 | 320297 | [320297-sea-of-thieves-season-14.json](./320297-sea-of-thieves-season-14.json) |
 | Sea of Thieves: Season 8 | 227961 | [227961-sea-of-thieves-season-8.json](./227961-sea-of-thieves-season-8.json) |
 | Sea of Thieves: Season 9 | 240906 | [240906-sea-of-thieves-season-9.json](./240906-sea-of-thieves-season-9.json) |
+| Sea of Thieves: Smuggler's Tide - Season 17 | 348213 | [348213-sea-of-thieves-smugglers-tide-season-17.json](./348213-sea-of-thieves-smugglers-tide-season-17.json) |
 | Sea of Thieves: The Legend of Monkey Island | 252829 | [252829-sea-of-thieves-the-legend-of-monkey-island.json](./252829-sea-of-thieves-the-legend-of-monkey-island.json) |
 | Sea of Thieves: Wild Things - Season 15 | 354372 | [354372-sea-of-thieves-wild-things-season-15.json](./354372-sea-of-thieves-wild-things-season-15.json) |
 | Sea of World | 292537 | [292537-sea-of-world.json](./292537-sea-of-world.json) |
@@ -7711,6 +7713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skyreach | 33023 | [33023-skyreach.json](./33023-skyreach.json) |
 | SkyRider | 191582 | [191582-skyrider.json](./191582-skyrider.json) |
 | SkyRider ADV | 90696 | [90696-skyrider-adv.json](./90696-skyrider-adv.json) |
+| SkyRig | 348286 | [348286-skyrig.json](./348286-skyrig.json) |
 | SkyRoads X-mas Special | 19236 | [19236-skyroads-x-mas-special.json](./19236-skyroads-x-mas-special.json) |
 | Skyscraper | 125335 | [125335-skyscraper.json](./125335-skyscraper.json) |
 | Skyscraper | 267990 | [267990-skyscraper.json](./267990-skyscraper.json) |
@@ -9335,6 +9338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snowman's Dilemma | 70604 | [70604-snowmans-dilemma.json](./70604-snowmans-dilemma.json) |
 | Snowman's Land | 308234 | [308234-snowmans-land.json](./308234-snowmans-land.json) |
 | Snowmania | 81708 | [81708-snowmania.json](./81708-snowmania.json) |
+| Snowmelt Manor | 348195 | [348195-snowmelt-manor.json](./348195-snowmelt-manor.json) |
 | Snowmen | 244306 | [244306-snowmen.json](./244306-snowmen.json) |
 | Snowmobile Championship 2000 | 70325 | [70325-snowmobile-championship-2000.json](./70325-snowmobile-championship-2000.json) |
 | Snowmobile Racing | 208902 | [208902-snowmobile-racing.json](./208902-snowmobile-racing.json) |
@@ -11178,6 +11182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Runner | 285563 | [285563-soul-runner.json](./285563-soul-runner.json) |
 | Soul Rush | 120231 | [120231-soul-rush.json](./120231-soul-rush.json) |
 | Soul Rush | 340200 | [340200-soul-rush.json](./340200-soul-rush.json) |
+| Soul Ryder RPG | 348284 | [348284-soul-ryder-rpg.json](./348284-soul-ryder-rpg.json) |
 | Soul Sacrifice Delta | 6061 | [6061-soul-sacrifice-delta.json](./6061-soul-sacrifice-delta.json) |
 | Soul Sader | 285982 | [285982-soul-sader.json](./285982-soul-sader.json) |
 | Soul Saga | 63252 | [63252-soul-saga.json](./63252-soul-saga.json) |
@@ -14950,6 +14955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starcaster | 89677 | [89677-starcaster.json](./89677-starcaster.json) |
 | StarCat Major | 209962 | [209962-starcat-major.json](./209962-starcat-major.json) |
 | Starcatcher | 228094 | [228094-starcatcher.json](./228094-starcatcher.json) |
+| Starcatcher | 348208 | [348208-starcatcher.json](./348208-starcatcher.json) |
 | Starch | 91942 | [91942-starch.json](./91942-starch.json) |
 | Starcom: Nexus | 107854 | [107854-starcom-nexus.json](./107854-starcom-nexus.json) |
 | Starcom: Unknown Space | 211207 | [211207-starcom-unknown-space.json](./211207-starcom-unknown-space.json) |
@@ -16171,6 +16177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stickman Party | 323378 | [323378-stickman-party.json](./323378-stickman-party.json) |
 | Stickman Physics Battle Arena | 391757 | [391757-stickman-physics-battle-arena.json](./391757-stickman-physics-battle-arena.json) |
 | Stickman Pixel Archer | 239348 | [239348-stickman-pixel-archer.json](./239348-stickman-pixel-archer.json) |
+| Stickman Puzzle | 348297 | [348297-stickman-puzzle.json](./348297-stickman-puzzle.json) |
 | Stickman PVP Warriors PRO online | 95858 | [95858-stickman-pvp-warriors-pro-online.json](./95858-stickman-pvp-warriors-pro-online.json) |
 | Stickman PvP Wars Online | 102239 | [102239-stickman-pvp-wars-online.json](./102239-stickman-pvp-wars-online.json) |
 | Stickman Red boy and Blue girl | 231892 | [231892-stickman-red-boy-and-blue-girl.json](./231892-stickman-red-boy-and-blue-girl.json) |
@@ -17071,6 +17078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Streets of Rogue: Collector's Edition | 53680 | [53680-streets-of-rogue-collectors-edition.json](./53680-streets-of-rogue-collectors-edition.json) |
 | Streets of SimCity | 1497 | [1497-streets-of-simcity.json](./1497-streets-of-simcity.json) |
 | Streets of Slender-Man | 267952 | [267952-streets-of-slender-man.json](./267952-streets-of-slender-man.json) |
+| Streetsad | 348285 | [348285-streetsad.json](./348285-streetsad.json) |
 | StreetSync | 332983 | [332983-streetsync.json](./332983-streetsync.json) |
 | Strength & Honour 2 | 54404 | [54404-strength-and-honour-2.json](./54404-strength-and-honour-2.json) |
 | Strength & Skill: Guiness Book of Records | 283734 | [283734-strength-and-skill-guiness-book-of-records.json](./283734-strength-and-skill-guiness-book-of-records.json) |
