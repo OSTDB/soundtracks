@@ -3471,6 +3471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Restaurant Tycoon: My Cooking Empire - Luxe & Lounge | 385176 | [385176-restaurant-tycoon-my-cooking-empire-luxe-and-lounge.json](./385176-restaurant-tycoon-my-cooking-empire-luxe-and-lounge.json) |
 | Restcue | 416811 | [416811-restcue.json](./416811-restcue.json) |
 | Resthedex | 151175 | [151175-resthedex.json](./151175-resthedex.json) |
+| Resting Island | 362194 | [362194-resting-island.json](./362194-resting-island.json) |
 | Restitched | 147290 | [147290-restitched.json](./147290-restitched.json) |
 | Restless I | 391816 | [391816-restless-i.json](./391816-restless-i.json) |
 | Restless Nights | 393756 | [393756-restless-nights.json](./393756-restless-nights.json) |
@@ -5442,6 +5443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robotica | 384783 | [384783-robotica.json](./384783-robotica.json) |
 | Robotics;Notes | 7162 | [7162-robotics-notes.json](./7162-robotics-notes.json) |
 | Robotics;Notes Double Pack | 132650 | [132650-robotics-notes-double-pack.json](./132650-robotics-notes-double-pack.json) |
+| Robotics! | 362170 | [362170-robotics.json](./362170-robotics.json) |
 | Roboto | 232573 | [232573-roboto.json](./232573-roboto.json) |
 | Roboto | 384788 | [384788-roboto.json](./384788-roboto.json) |
 | Robotragedy | 171546 | [171546-robotragedy.json](./171546-robotragedy.json) |
@@ -7305,6 +7307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run Run Piñata | 187261 | [187261-run-run-pinata.json](./187261-run-run-pinata.json) |
 | Run Sausage Run: Coins, Bugs and Chicken | 247754 | [247754-run-sausage-run-coins-bugs-and-chicken.json](./247754-run-sausage-run-coins-bugs-and-chicken.json) |
 | Run Sausage Run: Complete Edition | 248060 | [248060-run-sausage-run-complete-edition.json](./248060-run-sausage-run-complete-edition.json) |
+| Run Sausage Run!: Crazy Edition | 362217 | [362217-run-sausage-run-crazy-edition.json](./362217-run-sausage-run-crazy-edition.json) |
 | Run Sausage Run!: Emerald Edition | 411838 | [411838-run-sausage-run-emerald-edition.json](./411838-run-sausage-run-emerald-edition.json) |
 | Run Sausage Run!: Hella Weenies Edition | 376245 | [376245-run-sausage-run-hella-weenies-edition.json](./376245-run-sausage-run-hella-weenies-edition.json) |
 | Run Sausage Run!: Poison Edition | 396928 | [396928-run-sausage-run-poison-edition.json](./396928-run-sausage-run-poison-edition.json) |
