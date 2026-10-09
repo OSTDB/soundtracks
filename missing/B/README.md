@@ -2873,6 +2873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Be a Maid in the Demon World: The Secret Cafe of the Demon Angel Hero | 171960 | [171960-be-a-maid-in-the-demon-world-the-secret-cafe-of-the-demon-angel-hero.json](./171960-be-a-maid-in-the-demon-world-the-secret-cafe-of-the-demon-angel-hero.json) |
 | Be a Pirate | 143746 | [143746-be-a-pirate.json](./143746-be-a-pirate.json) |
 | Be Brave, Barb | 331143 | [331143-be-brave-barb.json](./331143-be-brave-barb.json) |
+| Be Fly | 338229 | [338229-be-fly.json](./338229-be-fly.json) |
 | Be Frugal | 245901 | [245901-be-frugal.json](./245901-be-frugal.json) |
 | Be Funny Now! | 194440 | [194440-be-funny-now.json](./194440-be-funny-now.json) |
 | Be hate Free Interactive | 112130 | [112130-be-hate-free-interactive.json](./112130-be-hate-free-interactive.json) |
@@ -3519,6 +3520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beep-Beeb | 15670 | [15670-beep-beeb.json](./15670-beep-beeb.json) |
 | Beepertron | 84239 | [84239-beepertron.json](./84239-beepertron.json) |
 | Beer & Plunder | 320868 | [320868-beer-and-plunder.json](./320868-beer-and-plunder.json) |
+| Beer and Rush: Non-VR Edition | 338226 | [338226-beer-and-rush-non-vr-edition.json](./338226-beer-and-rush-non-vr-edition.json) |
 | Beer Bar | 111867 | [111867-beer-bar.json](./111867-beer-bar.json) |
 | Beer Belly Burt's Brew Biz | 93167 | [93167-beer-belly-burts-brew-biz.json](./93167-beer-belly-burts-brew-biz.json) |
 | Beer Break | 199391 | [199391-beer-break.json](./199391-beer-break.json) |
@@ -3528,6 +3530,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beer Pong : Trickshot | 90694 | [90694-beer-pong-trickshot.json](./90694-beer-pong-trickshot.json) |
 | Beer Pong League | 111342 | [111342-beer-pong-league.json](./111342-beer-pong-league.json) |
 | Beer Pong VR | 88194 | [88194-beer-pong-vr.json](./88194-beer-pong-vr.json) |
+| Beer Runner | 338227 | [338227-beer-runner.json](./338227-beer-runner.json) |
+| Beer Runner: Yasuke A Samurai | 338228 | [338228-beer-runner-yasuke-a-samurai.json](./338228-beer-runner-yasuke-a-samurai.json) |
 | Beer Shooter | 101526 | [101526-beer-shooter.json](./101526-beer-shooter.json) |
 | Beer Strip | 367024 | [367024-beer-strip.json](./367024-beer-strip.json) |
 | Beer! | 57091 | [57091-beer.json](./57091-beer.json) |
@@ -3958,6 +3962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Berzerk Redux | 362418 | [362418-berzerk-redux.json](./362418-berzerk-redux.json) |
 | Berzerk: Enhanced Edition | 280756 | [280756-berzerk-enhanced-edition.json](./280756-berzerk-enhanced-edition.json) |
 | Berzerk: Recharged | 270485 | [270485-berzerk-recharged.json](./270485-berzerk-recharged.json) |
+| Besert Bydra | 338230 | [338230-besert-bydra.json](./338230-besert-bydra.json) |
 | Besiedelte Welten: Das alte Ägypten | 91559 | [91559-besiedelte-welten-das-alte-agypten.json](./91559-besiedelte-welten-das-alte-agypten.json) |
 | Besiege: The Broken Beyond | 389128 | [389128-besiege-the-broken-beyond.json](./389128-besiege-the-broken-beyond.json) |
 | Besitupia: Mediator | 297534 | [297534-besitupia-mediator.json](./297534-besitupia-mediator.json) |
@@ -4179,10 +4184,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond SMBWii | 336104 | [336104-beyond-smbwii.json](./336104-beyond-smbwii.json) |
 | Beyond Solar | 172135 | [172135-beyond-solar.json](./172135-beyond-solar.json) |
 | Beyond Space Remastered | 108616 | [108616-beyond-space-remastered.json](./108616-beyond-space-remastered.json) |
+| Beyond Stories: Jester | 338231 | [338231-beyond-stories-jester.json](./338231-beyond-stories-jester.json) |
 | Beyond Tenmei | 303714 | [303714-beyond-tenmei.json](./303714-beyond-tenmei.json) |
 | Beyond the Abyss | 86126 | [86126-beyond-the-abyss.json](./86126-beyond-the-abyss.json) |
 | Beyond the Black Hole | 73792 | [73792-beyond-the-black-hole.json](./73792-beyond-the-black-hole.json) |
 | Beyond The Board | 289383 | [289383-beyond-the-board.json](./289383-beyond-the-board.json) |
+| Beyond the Bridge | 338232 | [338232-beyond-the-bridge.json](./338232-beyond-the-bridge.json) |
 | Beyond the Chiron Gate | 205085 | [205085-beyond-the-chiron-gate.json](./205085-beyond-the-chiron-gate.json) |
 | Beyond the City VR | 29665 | [29665-beyond-the-city-vr.json](./29665-beyond-the-city-vr.json) |
 | Beyond the Curtain | 392280 | [392280-beyond-the-curtain.json](./392280-beyond-the-curtain.json) |
@@ -4213,6 +4220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond the Law: The Third Wave | 74077 | [74077-beyond-the-law-the-third-wave.json](./74077-beyond-the-law-the-third-wave.json) |
 | Beyond the Legend: Mysteries of Olympus | 106968 | [106968-beyond-the-legend-mysteries-of-olympus.json](./106968-beyond-the-legend-mysteries-of-olympus.json) |
 | Beyond the Lens | 244738 | [244738-beyond-the-lens.json](./244738-beyond-the-lens.json) |
+| Beyond the Marion | 338233 | [338233-beyond-the-marion.json](./338233-beyond-the-marion.json) |
 | Beyond the Mountains | 244201 | [244201-beyond-the-mountains.json](./244201-beyond-the-mountains.json) |
 | Beyond the Phone Screen | 169886 | [169886-beyond-the-phone-screen.json](./169886-beyond-the-phone-screen.json) |
 | Beyond the Pitch | 349512 | [349512-beyond-the-pitch.json](./349512-beyond-the-pitch.json) |
@@ -4271,6 +4279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bias Quartet | 376672 | [376672-bias-quartet.json](./376672-bias-quartet.json) |
 | Biathlon 2003 | 56877 | [56877-biathlon-2003.json](./56877-biathlon-2003.json) |
 | Biathlon 2008 | 70651 | [70651-biathlon-2008.json](./70651-biathlon-2008.json) |
+| Bibbidiba Fan Game | 338234 | [338234-bibbidiba-fan-game.json](./338234-bibbidiba-fan-game.json) |
 | Bibdu | 395855 | [395855-bibdu.json](./395855-bibdu.json) |
 | Bibi & Tina: Das grosse Reiterfest | 268112 | [268112-bibi-and-tina-das-grosse-reiterfest.json](./268112-bibi-and-tina-das-grosse-reiterfest.json) |
 | Bibi & Tina: Das große Unwetter | 216453 | [216453-bibi-and-tina-das-gro-e-unwetter.json](./216453-bibi-and-tina-das-gro-e-unwetter.json) |
@@ -4343,6 +4352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Adventure: Trip to Europe 6 - Collector's Edition | 283993 | [283993-big-adventure-trip-to-europe-6-collectors-edition.json](./283993-big-adventure-trip-to-europe-6-collectors-edition.json) |
 | Big Adventure: Trip to Europe 7 | 417379 | [417379-big-adventure-trip-to-europe-7.json](./417379-big-adventure-trip-to-europe-7.json) |
 | Big Adventure: Trip to Europe 9 | 417380 | [417380-big-adventure-trip-to-europe-9.json](./417380-big-adventure-trip-to-europe-9.json) |
+| Big Adventure: Trip to Europe 9 - Collector's Edition | 338235 | [338235-big-adventure-trip-to-europe-9-collectors-edition.json](./338235-big-adventure-trip-to-europe-9-collectors-edition.json) |
 | Big Bad Sudoku Book | 267334 | [267334-big-bad-sudoku-book.json](./267334-big-bad-sudoku-book.json) |
 | Big Ball Sports | 275876 | [275876-big-ball-sports.json](./275876-big-ball-sports.json) |
 | Big Ballers VR | 277509 | [277509-big-ballers-vr.json](./277509-big-ballers-vr.json) |
@@ -4407,6 +4417,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Burger Store | 333004 | [333004-big-burger-store.json](./333004-big-burger-store.json) |
 | Big Business | 14300 | [14300-big-business.json](./14300-big-business.json) |
 | Big Cat from Hell | 165586 | [165586-big-cat-from-hell.json](./165586-big-cat-from-hell.json) |
+| Big Cat Jigsaw Quest | 338236 | [338236-big-cat-jigsaw-quest.json](./338236-big-cat-jigsaw-quest.json) |
+| Big Cat Jigsaw Quest: Expansion Pack 1 | 338237 | [338237-big-cat-jigsaw-quest-expansion-pack-1.json](./338237-big-cat-jigsaw-quest-expansion-pack-1.json) |
+| Big Cat Jigsaw Quest: Expansion Pack 2 | 338238 | [338238-big-cat-jigsaw-quest-expansion-pack-2.json](./338238-big-cat-jigsaw-quest-expansion-pack-2.json) |
 | Big Cat Rescue VR | 157142 | [157142-big-cat-rescue-vr.json](./157142-big-cat-rescue-vr.json) |
 | Big Catch Bass Fishing | 197944 | [197944-big-catch-bass-fishing.json](./197944-big-catch-bass-fishing.json) |
 | Big Challenge Golf: Tokyo Yomiuri Country Club-hen | 286049 | [286049-big-challenge-golf-tokyo-yomiuri-country-club-hen.json](./286049-big-challenge-golf-tokyo-yomiuri-country-club-hen.json) |
@@ -4941,6 +4954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BiPlane 4 | 112890 | [112890-biplane-4.json](./112890-biplane-4.json) |
 | Bipo's Adventure | 183018 | [183018-bipos-adventure.json](./183018-bipos-adventure.json) |
 | Bipolar Game | 32975 | [32975-bipolar-game.json](./32975-bipolar-game.json) |
+| Bipt | 338239 | [338239-bipt.json](./338239-bipt.json) |
 | Birb Game | 343803 | [343803-birb-game.json](./343803-birb-game.json) |
 | Birbout! | 148910 | [148910-birbout.json](./148910-birbout.json) |
 | Birchwood | 325714 | [325714-birchwood.json](./325714-birchwood.json) |
@@ -4957,6 +4971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bird Brawl | 250530 | [250530-bird-brawl.json](./250530-bird-brawl.json) |
 | Bird Brigade | 385221 | [385221-bird-brigade.json](./385221-bird-brigade.json) |
 | Bird Builder | 177474 | [177474-bird-builder.json](./177474-bird-builder.json) |
+| Bird Bump | 338240 | [338240-bird-bump.json](./338240-bird-bump.json) |
 | Bird Coloring | 348303 | [348303-bird-coloring.json](./348303-bird-coloring.json) |
 | Bird Fall | 37150 | [37150-bird-fall.json](./37150-bird-fall.json) |
 | Bird Game | 349937 | [349937-bird-game.json](./349937-bird-game.json) |
@@ -4995,6 +5010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bird's Eye | 160249 | [160249-birds-eye.json](./160249-birds-eye.json) |
 | Bird's Eye Odyssey | 245954 | [245954-birds-eye-odyssey.json](./245954-birds-eye-odyssey.json) |
 | Bird's Town | 120264 | [120264-birds-town.json](./120264-birds-town.json) |
+| Birdcage | 338241 | [338241-birdcage.json](./338241-birdcage.json) |
 | Birdcage (Oda al Pájaro) | 325262 | [325262-birdcage-oda-al-pajaro.json](./325262-birdcage-oda-al-pajaro.json) |
 | Birdfull | 333567 | [333567-birdfull.json](./333567-birdfull.json) |
 | BirdGut | 117873 | [117873-birdgut.json](./117873-birdgut.json) |
@@ -5220,6 +5236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BitRick's Venture | 333173 | [333173-bitricks-venture.json](./333173-bitricks-venture.json) |
 | Bitroom | 148925 | [148925-bitroom.json](./148925-bitroom.json) |
 | Bits & Bops | 202135 | [202135-bits-and-bops.json](./202135-bits-and-bops.json) |
+| Bits at Work | 338242 | [338242-bits-at-work.json](./338242-bits-at-work.json) |
 | Bits on the Fritz | 96782 | [96782-bits-on-the-fritz.json](./96782-bits-on-the-fritz.json) |
 | BitShift: BattleGrid | 32742 | [32742-bitshift-battlegrid.json](./32742-bitshift-battlegrid.json) |
 | Bitsnake | 135281 | [135281-bitsnake.json](./135281-bitsnake.json) |
@@ -5402,6 +5419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Magic Gamebox | 192798 | [192798-black-magic-gamebox.json](./192798-black-magic-gamebox.json) |
 | Black Magnetic | 262560 | [262560-black-magnetic.json](./262560-black-magnetic.json) |
 | Black Maou & Rainbow Kingdom | 151285 | [151285-black-maou-and-rainbow-kingdom.json](./151285-black-maou-and-rainbow-kingdom.json) |
+| Black Market | 338243 | [338243-black-market.json](./338243-black-market.json) |
 | Black Market | 52471 | [52471-black-market.json](./52471-black-market.json) |
 | Black Market Bowling | 57643 | [57643-black-market-bowling.json](./57643-black-market-bowling.json) |
 | Black Market of Bulletphilia: 100th Black Market | 210247 | [210247-black-market-of-bulletphilia-100th-black-market.json](./210247-black-market-of-bulletphilia-100th-black-market.json) |
@@ -5582,6 +5600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blackout | 284008 | [284008-blackout.json](./284008-blackout.json) |
 | Blackout Memphis | 253414 | [253414-blackout-memphis.json](./253414-blackout-memphis.json) |
 | Blackout Route | 419157 | [419157-blackout-route.json](./419157-blackout-route.json) |
+| Blackout: Director's Cut | 338244 | [338244-blackout-directors-cut.json](./338244-blackout-directors-cut.json) |
 | Blackout: Sightless Home | 227257 | [227257-blackout-sightless-home.json](./227257-blackout-sightless-home.json) |
 | Blackout: The Darkest Night | 118192 | [118192-blackout-the-darkest-night.json](./118192-blackout-the-darkest-night.json) |
 | Blackout: Uma Aventura Energética | 293896 | [293896-blackout-uma-aventura-energetica.json](./293896-blackout-uma-aventura-energetica.json) |
@@ -6006,6 +6025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bleepfrog | 343987 | [343987-bleepfrog.json](./343987-bleepfrog.json) |
 | Bleeping Spaceships | 373673 | [373673-bleeping-spaceships.json](./373673-bleeping-spaceships.json) |
 | Bleeping Spaceships MR | 357298 | [357298-bleeping-spaceships-mr.json](./357298-bleeping-spaceships-mr.json) |
+| Blend_IT | 338245 | [338245-blend-it.json](./338245-blend-it.json) |
 | Blendamaze | 101530 | [101530-blendamaze.json](./101530-blendamaze.json) |
 | Blender Express HD | 245259 | [245259-blender-express-hd.json](./245259-blender-express-hd.json) |
 | Blendoku | 259559 | [259559-blendoku.json](./259559-blendoku.json) |
@@ -6225,6 +6245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Bounce | 368489 | [368489-block-bounce.json](./368489-block-bounce.json) |
 | Block Brain | 239885 | [239885-block-brain.json](./239885-block-brain.json) |
 | Block Breaker | 195789 | [195789-block-breaker.json](./195789-block-breaker.json) |
+| Block Breaker | 338246 | [338246-block-breaker.json](./338246-block-breaker.json) |
 | Block Breaker | 384648 | [384648-block-breaker.json](./384648-block-breaker.json) |
 | Block Breaker 2 | 200568 | [200568-block-breaker-2.json](./200568-block-breaker-2.json) |
 | Block Breaker Deluxe | 243748 | [243748-block-breaker-deluxe.json](./243748-block-breaker-deluxe.json) |
