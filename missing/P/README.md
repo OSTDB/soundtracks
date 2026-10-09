@@ -1774,6 +1774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Path of Sin: Greed | 107734 | [107734-path-of-sin-greed.json](./107734-path-of-sin-greed.json) |
 | Path of Survival | 412274 | [412274-path-of-survival.json](./412274-path-of-survival.json) |
 | Path of Tengri | 202716 | [202716-path-of-tengri.json](./202716-path-of-tengri.json) |
+| Path of the Bogatyr | 356569 | [356569-path-of-the-bogatyr.json](./356569-path-of-the-bogatyr.json) |
 | Path of the Martyrs | 138561 | [138561-path-of-the-martyrs.json](./138561-path-of-the-martyrs.json) |
 | Path of the Midnight Sun | 126443 | [126443-path-of-the-midnight-sun.json](./126443-path-of-the-midnight-sun.json) |
 | Path of The Runecaster | 399839 | [399839-path-of-the-runecaster.json](./399839-path-of-the-runecaster.json) |
@@ -5200,6 +5201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixiel: Dreadwager | 277424 | [277424-pixiel-dreadwager.json](./277424-pixiel-dreadwager.json) |
 | Pixiescape | 217389 | [217389-pixiescape.json](./217389-pixiescape.json) |
 | PixlCross | 58765 | [58765-pixlcross.json](./58765-pixlcross.json) |
+| Pixletters | 356582 | [356582-pixletters.json](./356582-pixletters.json) |
 | PixoCities | 120718 | [120718-pixocities.json](./120718-pixocities.json) |
 | PixPaint - Color By Number | 105970 | [105970-pixpaint-color-by-number.json](./105970-pixpaint-color-by-number.json) |
 | Pixplode | 36494 | [36494-pixplode.json](./36494-pixplode.json) |
