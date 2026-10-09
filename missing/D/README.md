@@ -1303,6 +1303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkout | 10108 | [10108-darkout.json](./10108-darkout.json) |
 | DarkPrison | 115760 | [115760-darkprison.json](./115760-darkprison.json) |
 | Darkrite: The Blight of Love | 386449 | [386449-darkrite-the-blight-of-love.json](./386449-darkrite-the-blight-of-love.json) |
+| Darkroom | 356607 | [356607-darkroom.json](./356607-darkroom.json) |
 | Darkroom 2 | 75769 | [75769-darkroom-2.json](./75769-darkroom-2.json) |
 | Darkscrolls | 137648 | [137648-darkscrolls.json](./137648-darkscrolls.json) |
 | DarkSelf: Other Mind | 203568 | [203568-darkself-other-mind.json](./203568-darkself-other-mind.json) |
@@ -2797,6 +2798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deathstreak | 244208 | [244208-deathstreak.json](./244208-deathstreak.json) |
 | Deathsville | 13582 | [13582-deathsville.json](./13582-deathsville.json) |
 | Deathtide | 232007 | [232007-deathtide.json](./232007-deathtide.json) |
+| Deathtouch | 356559 | [356559-deathtouch.json](./356559-deathtouch.json) |
 | DeathTower | 302472 | [302472-deathtower.json](./302472-deathtower.json) |
 | DeathTrack | 50148 | [50148-deathtrack.json](./50148-deathtrack.json) |
 | Deathtrap | 7699 | [7699-deathtrap.json](./7699-deathtrap.json) |
@@ -2961,6 +2963,20 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deeeer Simulator: Shikanoko Dance | 331960 | [331960-deeeer-simulator-shikanoko-dance.json](./331960-deeeer-simulator-shikanoko-dance.json) |
 | Deemo | 27028 | [27028-deemo.json](./27028-deemo.json) |
 | Deemo II | 127797 | [127797-deemo-ii.json](./127797-deemo-ii.json) |
+| Deemo: Reborn - Aioi Collection | 356573 | [356573-deemo-reborn-aioi-collection.json](./356573-deemo-reborn-aioi-collection.json) |
+| Deemo: Reborn - Classic Song Packs Season Pass | 356587 | [356587-deemo-reborn-classic-song-packs-season-pass.json](./356587-deemo-reborn-classic-song-packs-season-pass.json) |
+| Deemo: Reborn - Cytus Selection vol.1 | 356574 | [356574-deemo-reborn-cytus-selection-vol-1.json](./356574-deemo-reborn-cytus-selection-vol-1.json) |
+| Deemo: Reborn - Cytus Selection vol.2 | 356613 | [356613-deemo-reborn-cytus-selection-vol-2.json](./356613-deemo-reborn-cytus-selection-vol-2.json) |
+| Deemo: Reborn - Egoist Special Selection | 356572 | [356572-deemo-reborn-egoist-special-selection.json](./356572-deemo-reborn-egoist-special-selection.json) |
+| Deemo: Reborn - Eshen Chen Collection Vol.1: Transmission | 356615 | [356615-deemo-reborn-eshen-chen-collection-vol-1-transmission.json](./356615-deemo-reborn-eshen-chen-collection-vol-1-transmission.json) |
+| Deemo: Reborn - Knight Iris Collection | 356614 | [356614-deemo-reborn-knight-iris-collection.json](./356614-deemo-reborn-knight-iris-collection.json) |
+| Deemo: Reborn - Knight Rosabell Collection | 356590 | [356590-deemo-reborn-knight-rosabell-collection.json](./356590-deemo-reborn-knight-rosabell-collection.json) |
+| Deemo: Reborn - M2U X Nicode Collection | 356575 | [356575-deemo-reborn-m2u-x-nicode-collection.json](./356575-deemo-reborn-m2u-x-nicode-collection.json) |
+| Deemo: Reborn - MILI collection | 356588 | [356588-deemo-reborn-mili-collection.json](./356588-deemo-reborn-mili-collection.json) |
+| Deemo: Reborn - N.M.S.T. Collection | 356581 | [356581-deemo-reborn-n-m-s-t-collection.json](./356581-deemo-reborn-n-m-s-t-collection.json) |
+| Deemo: Reborn - Rayark Selection Vol.1 | 356586 | [356586-deemo-reborn-rayark-selection-vol-1.json](./356586-deemo-reborn-rayark-selection-vol-1.json) |
+| Deemo: Reborn - Rayark Selection Vol.2 | 356585 | [356585-deemo-reborn-rayark-selection-vol-2.json](./356585-deemo-reborn-rayark-selection-vol-2.json) |
+| Deemo: Reborn - Rayark Selection vol.3 | 356583 | [356583-deemo-reborn-rayark-selection-vol-3.json](./356583-deemo-reborn-rayark-selection-vol-3.json) |
 | Deemo: The Last Recital | 26996 | [26996-deemo-the-last-recital.json](./26996-deemo-the-last-recital.json) |
 | Deep | 184605 | [184605-deep.json](./184605-deep.json) |
 | Deep | 372091 | [372091-deep.json](./372091-deep.json) |
@@ -7316,6 +7332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Mess With Bober | 350603 | [350603-dont-mess-with-bober.json](./350603-dont-mess-with-bober.json) |
 | Don't Mess with Gamers | 322128 | [322128-dont-mess-with-gamers.json](./322128-dont-mess-with-gamers.json) |
 | Don't Mess With Your Ex | 414309 | [414309-dont-mess-with-your-ex.json](./414309-dont-mess-with-your-ex.json) |
+| Don't Mind the Robots | 356596 | [356596-dont-mind-the-robots.json](./356596-dont-mind-the-robots.json) |
 | Don't Move | 346726 | [346726-dont-move.json](./346726-dont-move.json) |
 | Don't Move | 36126 | [36126-dont-move.json](./36126-dont-move.json) |
 | Don't Not Live | 259508 | [259508-dont-not-live.json](./259508-dont-not-live.json) |
