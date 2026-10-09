@@ -2124,6 +2124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operation: Biowar | 140944 | [140944-operation-biowar.json](./140944-operation-biowar.json) |
 | Operation: Cheek Clapper | 123551 | [123551-operation-cheek-clapper.json](./123551-operation-cheek-clapper.json) |
 | Operation: Eronta | 236210 | [236210-operation-eronta.json](./236210-operation-eronta.json) |
+| Operation: Escape | 367768 | [367768-operation-escape.json](./367768-operation-escape.json) |
 | Operation: Get Bike Back | 270705 | [270705-operation-get-bike-back.json](./270705-operation-get-bike-back.json) |
 | Operation: Hostage Rescue | 337987 | [337987-operation-hostage-rescue.json](./337987-operation-hostage-rescue.json) |
 | Operation: Hostage Rescue - Close Quarters Combat | 208989 | [208989-operation-hostage-rescue-close-quarters-combat.json](./208989-operation-hostage-rescue-close-quarters-combat.json) |
