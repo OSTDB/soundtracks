@@ -529,6 +529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 103 | 108413 | [108413-103.json](./108413-103.json) |
 | 1080° Avalanche | 3774 | [3774-1080-avalanche.json](./3774-1080-avalanche.json) |
 | 10Battle | 230219 | [230219-10battle.json](./230219-10battle.json) |
+| 10hit | 357179 | [357179-10hit.json](./357179-10hit.json) |
 | 10K & The Kriminal World: Sammy's Attack | 195765 | [195765-10k-and-the-kriminal-world-sammys-attack.json](./195765-10k-and-the-kriminal-world-sammys-attack.json) |
 | 10KoyaNI | 382189 | [382189-10koyani.json](./382189-10koyani.json) |
 | 10mg Collection | 141158 | [141158-10mg-collection.json](./141158-10mg-collection.json) |
