@@ -1001,6 +1001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balloon Fight GB | 50061 | [50061-balloon-fight-gb.json](./50061-balloon-fight-gb.json) |
 | Balloon Fight-e | 170004 | [170004-balloon-fight-e.json](./170004-balloon-fight-e.json) |
 | Balloon Fighter | 122196 | [122196-balloon-fighter.json](./122196-balloon-fighter.json) |
+| Balloon Friends | 333515 | [333515-balloon-friends.json](./333515-balloon-friends.json) |
 | Balloon Girl | 120700 | [120700-balloon-girl.json](./120700-balloon-girl.json) |
 | Balloon Gun | 63847 | [63847-balloon-gun.json](./63847-balloon-gun.json) |
 | Balloon guy | 89368 | [89368-balloon-guy.json](./89368-balloon-guy.json) |
@@ -2806,6 +2807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baxter's Venture | 62677 | [62677-baxters-venture.json](./62677-baxters-venture.json) |
 | Baxter's Venture: Director's Cut | 34851 | [34851-baxters-venture-directors-cut.json](./34851-baxters-venture-directors-cut.json) |
 | Bay Bell | 218980 | [218980-bay-bell.json](./218980-bay-bell.json) |
+| Bay Breaker | 333679 | [333679-bay-breaker.json](./333679-bay-breaker.json) |
 | Bay Route | 39616 | [39616-bay-route.json](./39616-bay-route.json) |
 | Bayala: The Game | 124134 | [124134-bayala-the-game.json](./124134-bayala-the-game.json) |
 | Bayani | 112611 | [112611-bayani.json](./112611-bayani.json) |
@@ -2921,6 +2923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beach Bowling 3D | 66120 | [66120-beach-bowling-3d.json](./66120-beach-bowling-3d.json) |
 | Beach Boys 2: Zodiac Date | 283726 | [283726-beach-boys-2-zodiac-date.json](./283726-beach-boys-2-zodiac-date.json) |
 | Beach Boys 3: Zodiac Signs, Love & Horoscope Dating | 334091 | [334091-beach-boys-3-zodiac-signs-love-and-horoscope-dating.json](./334091-beach-boys-3-zodiac-signs-love-and-horoscope-dating.json) |
+| Beach Buddies Brawl | 333674 | [333674-beach-buddies-brawl.json](./333674-beach-buddies-brawl.json) |
 | Beach Buggy Racing | 11287 | [11287-beach-buggy-racing.json](./11287-beach-buggy-racing.json) |
 | Beach Buggy Racing 2 | 110044 | [110044-beach-buggy-racing-2.json](./110044-beach-buggy-racing-2.json) |
 | Beach Buggy Racing 2: Tesla Edition | 341009 | [341009-beach-buggy-racing-2-tesla-edition.json](./341009-beach-buggy-racing-2-tesla-edition.json) |
@@ -4414,6 +4417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Buck Hunter Pro Adventure | 328254 | [328254-big-buck-hunter-pro-adventure.json](./328254-big-buck-hunter-pro-adventure.json) |
 | Big Buck Hunter: Call of the Wild | 263653 | [263653-big-buck-hunter-call-of-the-wild.json](./263653-big-buck-hunter-call-of-the-wild.json) |
 | Big Buck Hunter: Shooter's Challenge | 263651 | [263651-big-buck-hunter-shooters-challenge.json](./263651-big-buck-hunter-shooters-challenge.json) |
+| Big Buck Hunter: Ultimate Trophy | 333517 | [333517-big-buck-hunter-ultimate-trophy.json](./333517-big-buck-hunter-ultimate-trophy.json) |
 | Big Buck Hunter: Ultimate Trophy - Deluxe Edition | 333717 | [333717-big-buck-hunter-ultimate-trophy-deluxe-edition.json](./333717-big-buck-hunter-ultimate-trophy-deluxe-edition.json) |
 | Big Buck Hunter: Ultimate Trophy - Mythic Hunting Pack | 333752 | [333752-big-buck-hunter-ultimate-trophy-mythic-hunting-pack.json](./333752-big-buck-hunter-ultimate-trophy-mythic-hunting-pack.json) |
 | Big Buck Safari | 220076 | [220076-big-buck-safari.json](./220076-big-buck-safari.json) |
