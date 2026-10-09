@@ -4335,6 +4335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exertainment Mountain Bike Rally / Speed Racer | 60204 | [60204-exertainment-mountain-bike-rally-speed-racer.json](./60204-exertainment-mountain-bike-rally-speed-racer.json) |
 | Exertus | 120109 | [120109-exertus.json](./120109-exertus.json) |
 | Exes Assault!! | 187397 | [187397-exes-assault.json](./187397-exes-assault.json) |
+| Exeter Castle | 370016 | [370016-exeter-castle.json](./370016-exeter-castle.json) |
 | Exfiltrator: Cyber Stealth Missions | 204464 | [204464-exfiltrator-cyber-stealth-missions.json](./204464-exfiltrator-cyber-stealth-missions.json) |
 | Exhaust | 80168 | [80168-exhaust.json](./80168-exhaust.json) |
 | Exhibit of Sorrows | 321126 | [321126-exhibit-of-sorrows.json](./321126-exhibit-of-sorrows.json) |
@@ -4628,6 +4629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exterminators of Saturn | 253580 | [253580-exterminators-of-saturn.json](./253580-exterminators-of-saturn.json) |
 | Exterminatus: A Grim Odyssey | 370472 | [370472-exterminatus-a-grim-odyssey.json](./370472-exterminatus-a-grim-odyssey.json) |
 | Exterminium | 349878 | [349878-exterminium.json](./349878-exterminium.json) |
+| External | 370013 | [370013-external.json](./370013-external.json) |
 | ExTime: Primal Menace | 245922 | [245922-extime-primal-menace.json](./245922-extime-primal-menace.json) |
 | Extinct Forest | 379047 | [379047-extinct-forest.json](./379047-extinct-forest.json) |
 | eXtinction | 221978 | [221978-extinction.json](./221978-extinction.json) |
