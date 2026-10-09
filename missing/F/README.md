@@ -580,6 +580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fall Jo! | 232047 | [232047-fall-jo.json](./232047-fall-jo.json) |
 | Fall Ninja | 268450 | [268450-fall-ninja.json](./268450-fall-ninja.json) |
 | Fall of Gods | 240763 | [240763-fall-of-gods.json](./240763-fall-of-gods.json) |
+| Fall of Gorithia: Nym's Fate | 342597 | [342597-fall-of-gorithia-nyms-fate.json](./342597-fall-of-gorithia-nyms-fate.json) |
 | Fall of Imiryn | 69257 | [69257-fall-of-imiryn.json](./69257-fall-of-imiryn.json) |
 | Fall of Jake Paul Hop World | 195085 | [195085-fall-of-jake-paul-hop-world.json](./195085-fall-of-jake-paul-hop-world.json) |
 | Fall of Light: Deluxe Edition | 119076 | [119076-fall-of-light-deluxe-edition.json](./119076-fall-of-light-deluxe-edition.json) |
@@ -7469,6 +7470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frontiers | 357731 | [357731-frontiers.json](./357731-frontiers.json) |
 | Frontiers | 63353 | [63353-frontiers.json](./63353-frontiers.json) |
 | Frontiers of the Mind | 315519 | [315519-frontiers-of-the-mind.json](./315519-frontiers-of-the-mind.json) |
+| Frontiers Reach: Battlespace | 342708 | [342708-frontiers-reach-battlespace.json](./342708-frontiers-reach-battlespace.json) |
 | Frontiers Reborn | 329056 | [329056-frontiers-reborn.json](./329056-frontiers-reborn.json) |
 | Frontiers.io: Expansion Pack 1 | 167309 | [167309-frontiers-io-expansion-pack-1.json](./167309-frontiers-io-expansion-pack-1.json) |
 | Frontiers.io: Expansion Pack 2 | 167310 | [167310-frontiers-io-expansion-pack-2.json](./167310-frontiers-io-expansion-pack-2.json) |
@@ -8143,6 +8145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furry Stories: Alpha-Male | 130297 | [130297-furry-stories-alpha-male.json](./130297-furry-stories-alpha-male.json) |
 | Furry Striptease | 215899 | [215899-furry-striptease.json](./215899-furry-striptease.json) |
 | Furry Superstar | 213007 | [213007-furry-superstar.json](./213007-furry-superstar.json) |
+| Furry Survivals 18+ | 342684 | [342684-furry-survivals-18.json](./342684-furry-survivals-18.json) |
 | Furry Tale | 236940 | [236940-furry-tale.json](./236940-furry-tale.json) |
 | Furry Tales | 43462 | [43462-furry-tales.json](./43462-furry-tales.json) |
 | Furry Tangram Lite | 225758 | [225758-furry-tangram-lite.json](./225758-furry-tangram-lite.json) |
