@@ -647,6 +647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Edemn: Cyborg Skeleton | 249718 | [249718-edemn-cyborg-skeleton.json](./249718-edemn-cyborg-skeleton.json) |
 | Eden | 170276 | [170276-eden.json](./170276-eden.json) |
 | Eden | 85855 | [85855-eden.json](./85855-eden.json) |
+| Eden Daho | 386516 | [386516-eden-daho.json](./386516-eden-daho.json) |
 | Eden Eternal | 46995 | [46995-eden-eternal.json](./46995-eden-eternal.json) |
 | Eden Gamma | 235793 | [235793-eden-gamma.json](./235793-eden-gamma.json) |
 | Eden Genesis | 280561 | [280561-eden-genesis.json](./280561-eden-genesis.json) |
