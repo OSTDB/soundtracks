@@ -373,7 +373,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xenoage Plus | 145605 | [145605-xenoage-plus.json](./145605-xenoage-plus.json) |
 | Xenoage: Knight of the Rihas | 145575 | [145575-xenoage-knight-of-the-rihas.json](./145575-xenoage-knight-of-the-rihas.json) |
 | Xenoblade Chronicles 2 | 26766 | [26766-xenoblade-chronicles-2.json](./26766-xenoblade-chronicles-2.json) |
-| Xenoblade Chronicles 2: Nintendo Switch 2 Edition | 405447 | [405447-xenoblade-chronicles-2-nintendo-switch-2-edition.json](./405447-xenoblade-chronicles-2-nintendo-switch-2-edition.json) |
 | Xenoblade Chronicles 3 | 191411 | [191411-xenoblade-chronicles-3.json](./191411-xenoblade-chronicles-3.json) |
 | Xenoblade Chronicles 3: Future Redeemed | 236669 | [236669-xenoblade-chronicles-3-future-redeemed.json](./236669-xenoblade-chronicles-3-future-redeemed.json) |
 | Xenoblade Chronicles 3: Nintendo Switch 2 Edition | 405448 | [405448-xenoblade-chronicles-3-nintendo-switch-2-edition.json](./405448-xenoblade-chronicles-3-nintendo-switch-2-edition.json) |
@@ -401,6 +400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xenomorph | 231999 | [231999-xenomorph.json](./231999-xenomorph.json) |
 | Xenomorph | 83494 | [83494-xenomorph.json](./83494-xenomorph.json) |
 | Xenon 2: Megablast | 12236 | [12236-xenon-2-megablast.json](./12236-xenon-2-megablast.json) |
+| Xenon 2: Megablast | 370487 | [370487-xenon-2-megablast.json](./370487-xenon-2-megablast.json) |
 | Xenon Racer | 110585 | [110585-xenon-racer.json](./110585-xenon-racer.json) |
 | Xenon Ranger | 60608 | [60608-xenon-ranger.json](./60608-xenon-ranger.json) |
 | Xenon Runner | 247443 | [247443-xenon-runner.json](./247443-xenon-runner.json) |
