@@ -2569,6 +2569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Season Up | 95603 | [95603-season-up.json](./95603-season-up.json) |
 | Season's Beatings | 76350 | [76350-seasons-beatings.json](./76350-seasons-beatings.json) |
 | Seasonal Affectiveness Disorder | 260789 | [260789-seasonal-affectiveness-disorder.json](./260789-seasonal-affectiveness-disorder.json) |
+| Seasonal Bloom | 369908 | [369908-seasonal-bloom.json](./369908-seasonal-bloom.json) |
 | Seasonal Soccer | 90188 | [90188-seasonal-soccer.json](./90188-seasonal-soccer.json) |
 | Seasonaut | 384671 | [384671-seasonaut.json](./384671-seasonaut.json) |
 | SeasonPark | 263440 | [263440-seasonpark.json](./263440-seasonpark.json) |
@@ -10472,6 +10473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Racing: CrossWorlds - "Blue Star" Extreme Gear | 374160 | [374160-sonic-racing-crossworlds-blue-star-extreme-gear.json](./374160-sonic-racing-crossworlds-blue-star-extreme-gear.json) |
 | Sonic Racing: CrossWorlds - Avatar Legends Pack | 375167 | [375167-sonic-racing-crossworlds-avatar-legends-pack.json](./375167-sonic-racing-crossworlds-avatar-legends-pack.json) |
 | Sonic Racing: CrossWorlds - Digital Deluxe Edition | 356807 | [356807-sonic-racing-crossworlds-digital-deluxe-edition.json](./356807-sonic-racing-crossworlds-digital-deluxe-edition.json) |
+| Sonic Racing: CrossWorlds - Mega Man Pack | 369989 | [369989-sonic-racing-crossworlds-mega-man-pack.json](./369989-sonic-racing-crossworlds-mega-man-pack.json) |
 | Sonic Racing: CrossWorlds - Pac-Man Pack | 375170 | [375170-sonic-racing-crossworlds-pac-man-pack.json](./375170-sonic-racing-crossworlds-pac-man-pack.json) |
 | Sonic Racing: CrossWorlds - SpongeBob SquarePants Pack | 375166 | [375166-sonic-racing-crossworlds-spongebob-squarepants-pack.json](./375166-sonic-racing-crossworlds-spongebob-squarepants-pack.json) |
 | Sonic Racing: CrossWorlds - Teenage Mutant Ninja Turtles Mutant Mayhem Pack | 375168 | [375168-sonic-racing-crossworlds-teenage-mutant-ninja-turtles-mutant-mayhem-pack.json](./375168-sonic-racing-crossworlds-teenage-mutant-ninja-turtles-mutant-mayhem-pack.json) |
@@ -11106,6 +11108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SoulCalibur II | 227987 | [227987-soulcalibur-ii.json](./227987-soulcalibur-ii.json) |
 | Soulcalibur II Plus | 384776 | [384776-soulcalibur-ii-plus.json](./384776-soulcalibur-ii-plus.json) |
 | SoulCalibur II: Recompiled | 415181 | [415181-soulcalibur-ii-recompiled.json](./415181-soulcalibur-ii-recompiled.json) |
+| SoulCalibur III | 370000 | [370000-soulcalibur-iii.json](./370000-soulcalibur-iii.json) |
 | SoulCalibur III: Arcade Edition | 299306 | [299306-soulcalibur-iii-arcade-edition.json](./299306-soulcalibur-iii-arcade-edition.json) |
 | Soulcalibur Legends | 5170 | [5170-soulcalibur-legends.json](./5170-soulcalibur-legends.json) |
 | SoulCalibur V | 1013 | [1013-soulcalibur-v.json](./1013-soulcalibur-v.json) |
@@ -17114,6 +17117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stumblehill | 117510 | [117510-stumblehill.json](./117510-stumblehill.json) |
 | Stump Me | 312886 | [312886-stump-me.json](./312886-stump-me.json) |
 | Stump Simulator | 272284 | [272284-stump-simulator.json](./272284-stump-simulator.json) |
+| Stump Simulator 2 | 369909 | [369909-stump-simulator-2.json](./369909-stump-simulator-2.json) |
 | Stunner | 383152 | [383152-stunner.json](./383152-stunner.json) |
 | Stunt Bunnies Circus | 252927 | [252927-stunt-bunnies-circus.json](./252927-stunt-bunnies-circus.json) |
 | Stunt Car Challenge 3 | 261845 | [261845-stunt-car-challenge-3.json](./261845-stunt-car-challenge-3.json) |
@@ -17843,6 +17847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summer Vacation | 221405 | [221405-summer-vacation.json](./221405-summer-vacation.json) |
 | Summer Valley Hike | 255267 | [255267-summer-valley-hike.json](./255267-summer-valley-hike.json) |
 | Summer Village | 236513 | [236513-summer-village.json](./236513-summer-village.json) |
+| Summer Weekend | 370018 | [370018-summer-weekend.json](./370018-summer-weekend.json) |
 | Summer With You | 195234 | [195234-summer-with-you.json](./195234-summer-with-you.json) |
 | Summer: Jigsaw Puzzles | 104841 | [104841-summer-jigsaw-puzzles.json](./104841-summer-jigsaw-puzzles.json) |
 | Summer: Life in the Countryside | 145488 | [145488-summer-life-in-the-countryside.json](./145488-summer-life-in-the-countryside.json) |
