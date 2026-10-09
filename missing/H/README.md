@@ -1728,6 +1728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hayauchi Super Igo | 48329 | [48329-hayauchi-super-igo.json](./48329-hayauchi-super-igo.json) |
 | Haydee 2 | 141257 | [141257-haydee-2.json](./141257-haydee-2.json) |
 | Haydee 3 | 333073 | [333073-haydee-3.json](./333073-haydee-3.json) |
+| Hayden's Odyssey | 384286 | [384286-haydens-odyssey.json](./384286-haydens-odyssey.json) |
 | Hayfever | 120868 | [120868-hayfever.json](./120868-hayfever.json) |
 | Haymaker | 171900 | [171900-haymaker.json](./171900-haymaker.json) |
 | Haymaker | 60898 | [60898-haymaker.json](./60898-haymaker.json) |
@@ -3347,6 +3348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero Generations: ReGen | 33556 | [33556-hero-generations-regen.json](./33556-hero-generations-regen.json) |
 | Hero Great Wars | 252131 | [252131-hero-great-wars.json](./252131-hero-great-wars.json) |
 | Hero Hawk | 195042 | [195042-hero-hawk.json](./195042-hero-hawk.json) |
+| Hero Hellspawn: Learn Arithmetic | 384284 | [384284-hero-hellspawn-learn-arithmetic.json](./384284-hero-hellspawn-learn-arithmetic.json) |
 | Hero Hunters: Jurassic Shooting Sniper | 104069 | [104069-hero-hunters-jurassic-shooting-sniper.json](./104069-hero-hunters-jurassic-shooting-sniper.json) |
 | Hero in an All-forgiving Fantasy World RPG | 357423 | [357423-hero-in-an-all-forgiving-fantasy-world-rpg.json](./357423-hero-in-an-all-forgiving-fantasy-world-rpg.json) |
 | Hero in the Castle of Doom | 40173 | [40173-hero-in-the-castle-of-doom.json](./40173-hero-in-the-castle-of-doom.json) |
