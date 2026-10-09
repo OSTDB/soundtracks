@@ -746,6 +746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Epoch: "Golden Guppy" the Baby Chronowyrm | 286564 | [286564-last-epoch-golden-guppy-the-baby-chronowyrm.json](./286564-last-epoch-golden-guppy-the-baby-chronowyrm.json) |
 | Last Epoch: Adolescent Chronowyrm | 286565 | [286565-last-epoch-adolescent-chronowyrm.json](./286565-last-epoch-adolescent-chronowyrm.json) |
 | Last Epoch: Beneath Ancient Skies | 362439 | [362439-last-epoch-beneath-ancient-skies.json](./362439-last-epoch-beneath-ancient-skies.json) |
+| Last Epoch: Orobyss | 369988 | [369988-last-epoch-orobyss.json](./369988-last-epoch-orobyss.json) |
 | Last Epoch: Shattered Omens | 408917 | [408917-last-epoch-shattered-omens.json](./408917-last-epoch-shattered-omens.json) |
 | Last Epoch: Tombs of the Erased | 341008 | [341008-last-epoch-tombs-of-the-erased.json](./341008-last-epoch-tombs-of-the-erased.json) |
 | Last Epoch: Twilight Fox | 286563 | [286563-last-epoch-twilight-fox.json](./286563-last-epoch-twilight-fox.json) |
@@ -2138,6 +2139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let Him Cook | 265138 | [265138-let-him-cook.json](./265138-let-him-cook.json) |
 | Let It Boom | 217260 | [217260-let-it-boom.json](./217260-let-it-boom.json) |
 | Let It Die | 304376 | [304376-let-it-die.json](./304376-let-it-die.json) |
+| Let It Die: Inferno | 369994 | [369994-let-it-die-inferno.json](./369994-let-it-die-inferno.json) |
 | Let It Die: Uncle Prime Edition | 166240 | [166240-let-it-die-uncle-prime-edition.json](./166240-let-it-die-uncle-prime-edition.json) |
 | Let It Drop: Puzzle Game | 89546 | [89546-let-it-drop-puzzle-game.json](./89546-let-it-drop-puzzle-game.json) |
 | Let It Flow | 144279 | [144279-let-it-flow.json](./144279-let-it-flow.json) |
@@ -3912,6 +3914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Llamero | 404407 | [404407-llamero.json](./404407-llamero.json) |
 | Llhore | 122939 | [122939-llhore.json](./122939-llhore.json) |
 | LLM x Quiz | 369055 | [369055-llm-x-quiz.json](./369055-llm-x-quiz.json) |
+| LLMxQuiz | 369911 | [369911-llmxquiz.json](./369911-llmxquiz.json) |
 | Llorona | 177313 | [177313-llorona.json](./177313-llorona.json) |
 | Lloyd the Monkey | 266214 | [266214-lloyd-the-monkey.json](./266214-lloyd-the-monkey.json) |
 | Lloyd the Monkey 3 Expansion: The Warrior Once Called Prince | 369198 | [369198-lloyd-the-monkey-3-expansion-the-warrior-once-called-prince.json](./369198-lloyd-the-monkey-3-expansion-the-warrior-once-called-prince.json) |
