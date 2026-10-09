@@ -3412,6 +3412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maten Densetsu: Senritsu no Ooparts | 37931 | [37931-maten-densetsu-senritsu-no-ooparts.json](./37931-maten-densetsu-senritsu-no-ooparts.json) |
 | Maten no Soumetsu | 46073 | [46073-maten-no-soumetsu.json](./46073-maten-no-soumetsu.json) |
 | Matendouji | 215140 | [215140-matendouji.json](./215140-matendouji.json) |
+| Mater's Tires | 359380 | [359380-maters-tires.json](./359380-maters-tires.json) |
 | Material Brave | 180612 | [180612-material-brave.json](./180612-material-brave.json) |
 | Material Brave Ignition | 180630 | [180630-material-brave-ignition.json](./180630-material-brave-ignition.json) |
 | Materialization of Memories | 248019 | [248019-materialization-of-memories.json](./248019-materialization-of-memories.json) |
@@ -8156,6 +8157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mission Europa | 66072 | [66072-mission-europa.json](./66072-mission-europa.json) |
 | Mission Evilguy | 119613 | [119613-mission-evilguy.json](./119613-mission-evilguy.json) |
 | Mission Genocide | 58868 | [58868-mission-genocide.json](./58868-mission-genocide.json) |
+| Mission Guido | 359381 | [359381-mission-guido.json](./359381-mission-guido.json) |
 | Mission Idle | 172193 | [172193-mission-idle.json](./172193-mission-idle.json) |
 | Mission Impossible III | 264084 | [264084-mission-impossible-iii.json](./264084-mission-impossible-iii.json) |
 | Mission Impossibubble | 239134 | [239134-mission-impossibubble.json](./239134-mission-impossibubble.json) |
@@ -8582,6 +8584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mobs 'n Gunners | 112250 | [112250-mobs-n-gunners.json](./112250-mobs-n-gunners.json) |
 | Mobs 'N Monsters | 321379 | [321379-mobs-n-monsters.json](./321379-mobs-n-monsters.json) |
 | Mobsmash.io | 125981 | [125981-mobsmash-io.json](./125981-mobsmash-io.json) |
+| Mobsteria | 359354 | [359354-mobsteria.json](./359354-mobsteria.json) |
 | Mobsteria: Rise | 420548 | [420548-mobsteria-rise.json](./420548-mobsteria-rise.json) |
 | Mobsters | 78608 | [78608-mobsters.json](./78608-mobsters.json) |
 | Mobu | 404826 | [404826-mobu.json](./404826-mobu.json) |
