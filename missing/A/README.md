@@ -6177,6 +6177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Another Day in Hell | 341663 | [341663-another-day-in-hell.json](./341663-another-day-in-hell.json) |
 | Another Day in Paradise | 386956 | [386956-another-day-in-paradise.json](./386956-another-day-in-paradise.json) |
 | Another Day of Chikan! Vol7 Cool Beauty Schoolgirl in a Band | 82931 | [82931-another-day-of-chikan-vol7-cool-beauty-schoolgirl-in-a-band.json](./82931-another-day-of-chikan-vol7-cool-beauty-schoolgirl-in-a-band.json) |
+| Another Day Off | 356617 | [356617-another-day-off.json](./356617-another-day-off.json) |
 | Another Day to Die | 373752 | [373752-another-day-to-die.json](./373752-another-day-to-die.json) |
 | Another Day with You | 309519 | [309519-another-day-with-you.json](./309519-another-day-with-you.json) |
 | Another Day? | 409695 | [409695-another-day.json](./409695-another-day.json) |
