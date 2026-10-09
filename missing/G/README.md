@@ -1679,6 +1679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genesis Noir: The Cosmic Collection | 169188 | [169188-genesis-noir-the-cosmic-collection.json](./169188-genesis-noir-the-cosmic-collection.json) |
 | Genesis of Descent | 256858 | [256858-genesis-of-descent.json](./256858-genesis-of-descent.json) |
 | Genesis Online | 34281 | [34281-genesis-online.json](./34281-genesis-online.json) |
+| Genesis Relic: Idle Sandbox Simulator | 374396 | [374396-genesis-relic-idle-sandbox-simulator.json](./374396-genesis-relic-idle-sandbox-simulator.json) |
 | Genesis Rising | 10358 | [10358-genesis-rising.json](./10358-genesis-rising.json) |
 | Genesis Rising: The Universal Crusade | 50391 | [50391-genesis-rising-the-universal-crusade.json](./50391-genesis-rising-the-universal-crusade.json) |
 | Genesis Survivors | 319067 | [319067-genesis-survivors.json](./319067-genesis-survivors.json) |
@@ -5813,6 +5814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GTR3 | 56269 | [56269-gtr3.json](./56269-gtr3.json) |
 | GTRevival | 271259 | [271259-gtrevival.json](./271259-gtrevival.json) |
 | GTTOD: Lost in Reflection | 207528 | [207528-gttod-lost-in-reflection.json](./207528-gttod-lost-in-reflection.json) |
+| GU Fighters | 374407 | [374407-gu-fighters.json](./374407-gu-fighters.json) |
 | Gǔ Mù Lì Yǐng | 319747 | [319747-gu-mu-li-ying.json](./319747-gu-mu-li-ying.json) |
 | Gu Zhen Ren: Reverend Insanity | 358472 | [358472-gu-zhen-ren-reverend-insanity.json](./358472-gu-zhen-ren-reverend-insanity.json) |
 | Gu-gu Ganmo: Run-run Odekake Date Da ze ii | 349414 | [349414-gu-gu-ganmo-run-run-odekake-date-da-ze-ii.json](./349414-gu-gu-ganmo-run-run-odekake-date-da-ze-ii.json) |
