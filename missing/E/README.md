@@ -119,6 +119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earn to Die | 80713 | [80713-earn-to-die.json](./80713-earn-to-die.json) |
 | Earn to Die 2 | 26524 | [26524-earn-to-die-2.json](./26524-earn-to-die-2.json) |
 | Earn to Die 2012 | 378003 | [378003-earn-to-die-2012.json](./378003-earn-to-die-2012.json) |
+| Earnest Evans Collection | 375602 | [375602-earnest-evans-collection.json](./375602-earnest-evans-collection.json) |
 | Ears and Burgers | 174295 | [174295-ears-and-burgers.json](./174295-ears-and-burgers.json) |
 | Ears of the Killer | 206957 | [206957-ears-of-the-killer.json](./206957-ears-of-the-killer.json) |
 | Earth | 313840 | [313840-earth.json](./313840-earth.json) |
