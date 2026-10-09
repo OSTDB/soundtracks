@@ -346,6 +346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Half-Life: Hostile Takeover | 252806 | [252806-half-life-hostile-takeover.json](./252806-half-life-hostile-takeover.json) |
 | Half-Life: Hour-Glass | 221794 | [221794-half-life-hour-glass.json](./221794-half-life-hour-glass.json) |
 | Half-Life: In Deep | 221858 | [221858-half-life-in-deep.json](./221858-half-life-in-deep.json) |
+| Half-Life: Insecure | 377993 | [377993-half-life-insecure.json](./377993-half-life-insecure.json) |
 | Half-Life: Intolerable Threat | 222325 | [222325-half-life-intolerable-threat.json](./222325-half-life-intolerable-threat.json) |
 | Half-Life: Invasion | 196834 | [196834-half-life-invasion.json](./196834-half-life-invasion.json) |
 | Half-Life: Life's End | 196835 | [196835-half-life-lifes-end.json](./196835-half-life-lifes-end.json) |
