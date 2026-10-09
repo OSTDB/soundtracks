@@ -676,6 +676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rail Walkers | 197174 | [197174-rail-walkers.json](./197174-rail-walkers.json) |
 | Rail Wars! | 86197 | [86197-rail-wars.json](./86197-rail-wars.json) |
 | Rail&Write | 184416 | [184416-rail-and-write.json](./184416-rail-and-write.json) |
+| Railborn | 348300 | [348300-railborn.json](./348300-railborn.json) |
 | Railbreak: 90s Throwback Collection | 335102 | [335102-railbreak-90s-throwback-collection.json](./335102-railbreak-90s-throwback-collection.json) |
 | Railbreak: Arcade Onslaught Collection | 331405 | [331405-railbreak-arcade-onslaught-collection.json](./331405-railbreak-arcade-onslaught-collection.json) |
 | Railbreak: Neon Carnage Collection | 331406 | [331406-railbreak-neon-carnage-collection.json](./331406-railbreak-neon-carnage-collection.json) |
@@ -2711,6 +2712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Refuge For Troubles: Episode 1 - Dear Stranger | 171566 | [171566-refuge-for-troubles-episode-1-dear-stranger.json](./171566-refuge-for-troubles-episode-1-dear-stranger.json) |
 | Refund Me If You Can | 204074 | [204074-refund-me-if-you-can.json](./204074-refund-me-if-you-can.json) |
 | Refund Me If You Can: Lexy's Story | 234106 | [234106-refund-me-if-you-can-lexys-story.json](./234106-refund-me-if-you-can-lexys-story.json) |
+| Refuse & Reuse | 348296 | [348296-refuse-and-reuse.json](./348296-refuse-and-reuse.json) |
 | Refuted Wind | 319343 | [319343-refuted-wind.json](./319343-refuted-wind.json) |
 | Regain Earth: First Strike | 139229 | [139229-regain-earth-first-strike.json](./139229-regain-earth-first-strike.json) |
 | Regalia: Of Men and Monarchs | 30205 | [30205-regalia-of-men-and-monarchs.json](./30205-regalia-of-men-and-monarchs.json) |
@@ -5267,6 +5269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robo Runner | 186157 | [186157-robo-runner.json](./186157-robo-runner.json) |
 | Robo Runners | 107377 | [107377-robo-runners.json](./107377-robo-runners.json) |
 | Robo Rush | 273430 | [273430-robo-rush.json](./273430-robo-rush.json) |
+| Robo Sham Boro | 348283 | [348283-robo-sham-boro.json](./348283-robo-sham-boro.json) |
 | Robo Terror | 158116 | [158116-robo-terror.json](./158116-robo-terror.json) |
 | Robo Wars | 196316 | [196316-robo-wars.json](./196316-robo-wars.json) |
 | Robo Wrestle 2001 | 40422 | [40422-robo-wrestle-2001.json](./40422-robo-wrestle-2001.json) |
@@ -6773,6 +6776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roulette Club | 368547 | [368547-roulette-club.json](./368547-roulette-club.json) |
 | Roulette Knight | 101008 | [101008-roulette-knight.json](./101008-roulette-knight.json) |
 | Roulette Knight | 178687 | [178687-roulette-knight.json](./178687-roulette-knight.json) |
+| Roulette Pro Simulator | 348299 | [348299-roulette-pro-simulator.json](./348299-roulette-pro-simulator.json) |
 | Roulette Simulator 2024 | 266804 | [266804-roulette-simulator-2024.json](./266804-roulette-simulator-2024.json) |
 | Roulette Simulator 2025 | 310503 | [310503-roulette-simulator-2025.json](./310503-roulette-simulator-2025.json) |
 | Roulette VIP | 256252 | [256252-roulette-vip.json](./256252-roulette-vip.json) |
