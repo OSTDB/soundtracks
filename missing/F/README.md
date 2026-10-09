@@ -1228,11 +1228,17 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Mosaics 38: Underwater Adventure | 337259 | [337259-fantasy-mosaics-38-underwater-adventure.json](./337259-fantasy-mosaics-38-underwater-adventure.json) |
 | Fantasy Mosaics 39: Behind the Mirror | 337260 | [337260-fantasy-mosaics-39-behind-the-mirror.json](./337260-fantasy-mosaics-39-behind-the-mirror.json) |
 | Fantasy Mosaics 4: Art of Color | 100734 | [100734-fantasy-mosaics-4-art-of-color.json](./100734-fantasy-mosaics-4-art-of-color.json) |
+| Fantasy Mosaics 40: Alien Abduction | 378547 | [378547-fantasy-mosaics-40-alien-abduction.json](./378547-fantasy-mosaics-40-alien-abduction.json) |
 | Fantasy Mosaics 41: Wizard's Realm | 296062 | [296062-fantasy-mosaics-41-wizards-realm.json](./296062-fantasy-mosaics-41-wizards-realm.json) |
+| Fantasy Mosaics 43: Haunted Forest | 378546 | [378546-fantasy-mosaics-43-haunted-forest.json](./378546-fantasy-mosaics-43-haunted-forest.json) |
 | Fantasy Mosaics 44: Winter Holiday | 296063 | [296063-fantasy-mosaics-44-winter-holiday.json](./296063-fantasy-mosaics-44-winter-holiday.json) |
 | Fantasy Mosaics 45: Amusement Park | 296064 | [296064-fantasy-mosaics-45-amusement-park.json](./296064-fantasy-mosaics-45-amusement-park.json) |
 | Fantasy Mosaics 46: Pirate Ship | 381348 | [381348-fantasy-mosaics-46-pirate-ship.json](./381348-fantasy-mosaics-46-pirate-ship.json) |
+| Fantasy Mosaics 47: Egypt Mysteries | 378551 | [378551-fantasy-mosaics-47-egypt-mysteries.json](./378551-fantasy-mosaics-47-egypt-mysteries.json) |
+| Fantasy Mosaics 48: Gnome's Puzzles | 378544 | [378544-fantasy-mosaics-48-gnomes-puzzles.json](./378544-fantasy-mosaics-48-gnomes-puzzles.json) |
+| Fantasy Mosaics 49: Haunted Swamp | 378549 | [378549-fantasy-mosaics-49-haunted-swamp.json](./378549-fantasy-mosaics-49-haunted-swamp.json) |
 | Fantasy Mosaics 5 | 300375 | [300375-fantasy-mosaics-5.json](./300375-fantasy-mosaics-5.json) |
+| Fantasy Mosaics 51: Jungle Adventure | 378553 | [378553-fantasy-mosaics-51-jungle-adventure.json](./378553-fantasy-mosaics-51-jungle-adventure.json) |
 | Fantasy Mosaics 52: Enchanted Woods | 381365 | [381365-fantasy-mosaics-52-enchanted-woods.json](./381365-fantasy-mosaics-52-enchanted-woods.json) |
 | Fantasy Mosaics 54: Back to School | 378354 | [378354-fantasy-mosaics-54-back-to-school.json](./378354-fantasy-mosaics-54-back-to-school.json) |
 | Fantasy Mosaics 7: Our Home | 96838 | [96838-fantasy-mosaics-7-our-home.json](./96838-fantasy-mosaics-7-our-home.json) |
@@ -5940,6 +5946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forsake The Rake | 240240 | [240240-forsake-the-rake.json](./240240-forsake-the-rake.json) |
 | Forsaken | 196138 | [196138-forsaken.json](./196138-forsaken.json) |
 | Forsaken | 322700 | [322700-forsaken.json](./322700-forsaken.json) |
+| Forsaken | 378535 | [378535-forsaken.json](./378535-forsaken.json) |
 | Forsaken | 718 | [718-forsaken.json](./718-forsaken.json) |
 | Forsaken Champions | 201552 | [201552-forsaken-champions.json](./201552-forsaken-champions.json) |
 | Forsaken Compound | 299441 | [299441-forsaken-compound.json](./299441-forsaken-compound.json) |
