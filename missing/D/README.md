@@ -8167,6 +8167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doubutsu no Shima no Chobi Gurumi | 49264 | [49264-doubutsu-no-shima-no-chobi-gurumi.json](./49264-doubutsu-no-shima-no-chobi-gurumi.json) |
 | Doubutsu-tachi no Mori | 150572 | [150572-doubutsu-tachi-no-mori.json](./150572-doubutsu-tachi-no-mori.json) |
 | Doubutsujima no Chubi Gurumi 2: Tama-chan Monogatari | 49263 | [49263-doubutsujima-no-chubi-gurumi-2-tama-chan-monogatari.json](./49263-doubutsujima-no-chubi-gurumi-2-tama-chan-monogatari.json) |
+| Doubutsurishii SP | 354374 | [354374-doubutsurishii-sp.json](./354374-doubutsurishii-sp.json) |
 | Douche Bag | 51735 | [51735-douche-bag.json](./51735-douche-bag.json) |
 | Douche Defender | 63362 | [63362-douche-defender.json](./63362-douche-defender.json) |
 | Douchebag: Ultimate Bro Pack | 366107 | [366107-douchebag-ultimate-bro-pack.json](./366107-douchebag-ultimate-bro-pack.json) |
