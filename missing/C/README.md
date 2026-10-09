@@ -1228,6 +1228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caracoland | 112963 | [112963-caracoland.json](./112963-caracoland.json) |
 | Caracolino | 293236 | [293236-caracolino.json](./293236-caracolino.json) |
 | Caramel Port | 114558 | [114558-caramel-port.json](./114558-caramel-port.json) |
+| Caramel Quest: Meitenkyou no Megami-zou | 374960 | [374960-caramel-quest-meitenkyou-no-megami-zou.json](./374960-caramel-quest-meitenkyou-no-megami-zou.json) |
 | Caramella Girls | 174357 | [174357-caramella-girls.json](./174357-caramella-girls.json) |
 | Caravan | 19290 | [19290-caravan.json](./19290-caravan.json) |
 | Caravan Boomer | 266911 | [266911-caravan-boomer.json](./266911-caravan-boomer.json) |
@@ -1734,6 +1735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cascade | 352412 | [352412-cascade.json](./352412-cascade.json) |
 | Cascade | 380053 | [380053-cascade.json](./380053-cascade.json) |
 | Cascade | 60904 | [60904-cascade.json](./60904-cascade.json) |
+| Cascade Falls | 374944 | [374944-cascade-falls.json](./374944-cascade-falls.json) |
 | Cascade Theater | 303269 | [303269-cascade-theater.json](./303269-cascade-theater.json) |
 | Cascadia Quest | 154564 | [154564-cascadia-quest.json](./154564-cascadia-quest.json) |
 | Cascading Failure | 155690 | [155690-cascading-failure.json](./155690-cascading-failure.json) |
@@ -6128,6 +6130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clover Day's Plus | 254554 | [254554-clover-days-plus.json](./254554-clover-days-plus.json) |
 | Clover Heart's: Looking for Happiness | 69282 | [69282-clover-hearts-looking-for-happiness.json](./69282-clover-hearts-looking-for-happiness.json) |
 | Clover no Kuni no Alice: Wonderful Wonder World | 64667 | [64667-clover-no-kuni-no-alice-wonderful-wonder-world.json](./64667-clover-no-kuni-no-alice-wonderful-wonder-world.json) |
+| Clover Party | 374936 | [374936-clover-party.json](./374936-clover-party.json) |
 | Clover's Quadrants | 392120 | [392120-clovers-quadrants.json](./392120-clovers-quadrants.json) |
 | Clover's Space Beat | 313204 | [313204-clovers-space-beat.json](./313204-clovers-space-beat.json) |
 | Cloverheart | 140019 | [140019-cloverheart.json](./140019-cloverheart.json) |
@@ -10562,6 +10565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cruis'n Exotica | 249136 | [249136-cruisn-exotica.json](./249136-cruisn-exotica.json) |
 | Cruis'n Exotica | 300037 | [300037-cruisn-exotica.json](./300037-cruisn-exotica.json) |
 | Cruise & Learn: Downtown Collection | 386214 | [386214-cruise-and-learn-downtown-collection.json](./386214-cruise-and-learn-downtown-collection.json) |
+| Cruise Control | 374982 | [374982-cruise-control.json](./374982-cruise-control.json) |
 | Cruise for a Corpse | 2477 | [2477-cruise-for-a-corpse.json](./2477-cruise-for-a-corpse.json) |
 | Cruise Line Tycoon | 47938 | [47938-cruise-line-tycoon.json](./47938-cruise-line-tycoon.json) |
 | Cruise Ship Handling | 189952 | [189952-cruise-ship-handling.json](./189952-cruise-ship-handling.json) |
@@ -11251,6 +11255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cult of Shadows | 374069 | [374069-cult-of-shadows.json](./374069-cult-of-shadows.json) |
 | Cult of the Abyss | 122391 | [122391-cult-of-the-abyss.json](./122391-cult-of-the-abyss.json) |
 | Cult of the Cat | 269274 | [269274-cult-of-the-cat.json](./269274-cult-of-the-cat.json) |
+| Cult of the Dragon | 374987 | [374987-cult-of-the-dragon.json](./374987-cult-of-the-dragon.json) |
 | Cult of the Lamb | 165351 | [165351-cult-of-the-lamb.json](./165351-cult-of-the-lamb.json) |
 | Cult of the Lamb: Arcade Edition | 380184 | [380184-cult-of-the-lamb-arcade-edition.json](./380184-cult-of-the-lamb-arcade-edition.json) |
 | Cult of the Lamb: Cultist Edition | 204780 | [204780-cult-of-the-lamb-cultist-edition.json](./204780-cult-of-the-lamb-cultist-edition.json) |
