@@ -4791,6 +4791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The D.R.G. Initiative | 54689 | [54689-the-d-r-g-initiative.json](./54689-the-d-r-g-initiative.json) |
 | The Da Vinci Cryptex 2 | 278725 | [278725-the-da-vinci-cryptex-2.json](./278725-the-da-vinci-cryptex-2.json) |
 | The Da Vinci Cryptex 3 | 280257 | [280257-the-da-vinci-cryptex-3.json](./280257-the-da-vinci-cryptex-3.json) |
+| The Da Vinci Cryptex 4 | 379173 | [379173-the-da-vinci-cryptex-4.json](./379173-the-da-vinci-cryptex-4.json) |
 | The Daedalus Encounter | 4237 | [4237-the-daedalus-encounter.json](./4237-the-daedalus-encounter.json) |
 | The Daily Diaonal Sudoku | 266838 | [266838-the-daily-diaonal-sudoku.json](./266838-the-daily-diaonal-sudoku.json) |
 | The Daily Sudoku | 264239 | [264239-the-daily-sudoku.json](./264239-the-daily-sudoku.json) |
@@ -5354,6 +5355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The End of Labyronia: Nerubis | 158695 | [158695-the-end-of-labyronia-nerubis.json](./158695-the-end-of-labyronia-nerubis.json) |
 | The End of Sanity | 296452 | [296452-the-end-of-sanity.json](./296452-the-end-of-sanity.json) |
 | The End of Solace | 271751 | [271751-the-end-of-solace.json](./271751-the-end-of-solace.json) |
+| The End of the Age | 379162 | [379162-the-end-of-the-age.json](./379162-the-end-of-the-age.json) |
 | The End of the World and Her Room | 391676 | [391676-the-end-of-the-world-and-her-room.json](./391676-the-end-of-the-world-and-her-room.json) |
 | The End of Us | 115033 | [115033-the-end-of-us.json](./115033-the-end-of-us.json) |
 | The End Protocol | 374748 | [374748-the-end-protocol.json](./374748-the-end-protocol.json) |
@@ -5602,6 +5604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Faraway King | 413456 | [413456-the-faraway-king.json](./413456-the-faraway-king.json) |
 | The Faraway Land | 152786 | [152786-the-faraway-land.json](./152786-the-faraway-land.json) |
 | The Farm | 231524 | [231524-the-farm.json](./231524-the-farm.json) |
+| The Farm | 379150 | [379150-the-farm.json](./379150-the-farm.json) |
 | The Farm You Grew Up On | 180749 | [180749-the-farm-you-grew-up-on.json](./180749-the-farm-you-grew-up-on.json) |
 | The Farmer Was Replaced | 243931 | [243931-the-farmer-was-replaced.json](./243931-the-farmer-was-replaced.json) |
 | The Farming Game | 101664 | [101664-the-farming-game.json](./101664-the-farming-game.json) |
@@ -5893,6 +5896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fruit Game | 346565 | [346565-the-fruit-game.json](./346565-the-fruit-game.json) |
 | The Fruit of Grisaia | 11456 | [11456-the-fruit-of-grisaia.json](./11456-the-fruit-of-grisaia.json) |
 | The Fruit, Labyrinth, and Eden of Grisaia Full Package | 117746 | [117746-the-fruit-labyrinth-and-eden-of-grisaia-full-package.json](./117746-the-fruit-labyrinth-and-eden-of-grisaia-full-package.json) |
+| The Fruits of the Literature Club | 379137 | [379137-the-fruits-of-the-literature-club.json](./379137-the-fruits-of-the-literature-club.json) |
 | The Fugitives | 330309 | [330309-the-fugitives.json](./330309-the-fugitives.json) |
 | The Full Ann Petting Experience | 409795 | [409795-the-full-ann-petting-experience.json](./409795-the-full-ann-petting-experience.json) |
 | The Full Wormage | 70082 | [70082-the-full-wormage.json](./70082-the-full-wormage.json) |
@@ -7797,6 +7801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lizard King | 239154 | [239154-the-lizard-king.json](./239154-the-lizard-king.json) |
 | The Llama | 387343 | [387343-the-llama.json](./387343-the-llama.json) |
 | The Llama L | 214476 | [214476-the-llama-l.json](./214476-the-llama-l.json) |
+| The Llamasoft Collection | 379135 | [379135-the-llamasoft-collection.json](./379135-the-llamasoft-collection.json) |
 | The Lobster Game | 204980 | [204980-the-lobster-game.json](./204980-the-lobster-game.json) |
 | The Locked Room | 365221 | [365221-the-locked-room.json](./365221-the-locked-room.json) |
 | The Lodge | 158190 | [158190-the-lodge.json](./158190-the-lodge.json) |
@@ -8183,6 +8188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mean Craps Machine | 69507 | [69507-the-mean-craps-machine.json](./69507-the-mean-craps-machine.json) |
 | The Meaning | 203303 | [203303-the-meaning.json](./203303-the-meaning.json) |
 | The Meaning of Auri | 349310 | [349310-the-meaning-of-auri.json](./349310-the-meaning-of-auri.json) |
+| The Meaning of Life | 379154 | [379154-the-meaning-of-life.json](./379154-the-meaning-of-life.json) |
 | The Meating | 141111 | [141111-the-meating.json](./141111-the-meating.json) |
 | The Mechsmith Run=Dim | 227976 | [227976-the-mechsmith-run-dim.json](./227976-the-mechsmith-run-dim.json) |
 | The Medieval Doctor | 416825 | [416825-the-medieval-doctor.json](./416825-the-medieval-doctor.json) |
@@ -9220,6 +9226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Red Forest | 267674 | [267674-the-red-forest.json](./267674-the-red-forest.json) |
 | The Red Hat | 327275 | [327275-the-red-hat.json](./327275-the-red-hat.json) |
 | The Red Hood | 193482 | [193482-the-red-hood.json](./193482-the-red-hood.json) |
+| The Red Hood: Hunting the Wolf | 379172 | [379172-the-red-hood-hunting-the-wolf.json](./379172-the-red-hood-hunting-the-wolf.json) |
 | The Red Juggernaut | 272385 | [272385-the-red-juggernaut.json](./272385-the-red-juggernaut.json) |
 | The Red Lantern | 116413 | [116413-the-red-lantern.json](./116413-the-red-lantern.json) |
 | The Red Line | 269104 | [269104-the-red-line.json](./269104-the-red-line.json) |
@@ -9687,6 +9694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Shadow of Yserbius | 54684 | [54684-the-shadow-of-yserbius.json](./54684-the-shadow-of-yserbius.json) |
 | The Shadow of Zorro | 27627 | [27627-the-shadow-of-zorro.json](./27627-the-shadow-of-zorro.json) |
 | The Shadow People | 222938 | [222938-the-shadow-people.json](./222938-the-shadow-people.json) |
+| The Shadow Ritual | 379166 | [379166-the-shadow-ritual.json](./379166-the-shadow-ritual.json) |
 | The Shadow Society | 128921 | [128921-the-shadow-society.json](./128921-the-shadow-society.json) |
 | The Shadow Sun | 108496 | [108496-the-shadow-sun.json](./108496-the-shadow-sun.json) |
 | The Shadow Syndicate | 342265 | [342265-the-shadow-syndicate.json](./342265-the-shadow-syndicate.json) |
@@ -13983,6 +13991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Animal War | 193933 | [193933-tiny-animal-war.json](./193933-tiny-animal-war.json) |
 | Tiny Arcade Racers | 201241 | [201241-tiny-arcade-racers.json](./201241-tiny-arcade-racers.json) |
 | Tiny Arcade Tetris | 234083 | [234083-tiny-arcade-tetris.json](./234083-tiny-arcade-tetris.json) |
+| Tiny Arctic Hero | 379160 | [379160-tiny-arctic-hero.json](./379160-tiny-arctic-hero.json) |
 | Tiny Atolls | 230529 | [230529-tiny-atolls.json](./230529-tiny-atolls.json) |
 | Tiny Auto Knights: Supporter Pack | 399808 | [399808-tiny-auto-knights-supporter-pack.json](./399808-tiny-auto-knights-supporter-pack.json) |
 | Tiny Balls | 275085 | [275085-tiny-balls.json](./275085-tiny-balls.json) |
