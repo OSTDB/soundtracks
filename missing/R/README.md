@@ -2444,6 +2444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RED: The Lucid Nightmare | 109677 | [109677-red-the-lucid-nightmare.json](./109677-red-the-lucid-nightmare.json) |
 | Red's Revenge | 273980 | [273980-reds-revenge.json](./273980-reds-revenge.json) |
 | Redacted | 212214 | [212214-redacted.json](./212214-redacted.json) |
+| Redacted | 373855 | [373855-redacted.json](./373855-redacted.json) |
 | Redacted by the Sadistic Princess from Another World?! | 402250 | [402250-redacted-by-the-sadistic-princess-from-another-world.json](./402250-redacted-by-the-sadistic-princess-from-another-world.json) |
 | Redacted Epilogue | 152505 | [152505-redacted-epilogue.json](./152505-redacted-epilogue.json) |
 | Redacted Life | 124679 | [124679-redacted-life.json](./124679-redacted-life.json) |
@@ -3923,6 +3924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revn | 131342 | [131342-revn.json](./131342-revn.json) |
 | Revoland | 210661 | [210661-revoland.json](./210661-revoland.json) |
 | Revolgear II Ver.D Revision+Ex | 268028 | [268028-revolgear-ii-ver-d-revision-ex.json](./268028-revolgear-ii-ver-d-revision-ex.json) |
+| Revolgear Zero | 373901 | [373901-revolgear-zero.json](./373901-revolgear-zero.json) |
 | Revolocity | 295322 | [295322-revolocity.json](./295322-revolocity.json) |
 | Revolt | 34083 | [34083-revolt.json](./34083-revolt.json) |
 | Revolt Legion VR | 254138 | [254138-revolt-legion-vr.json](./254138-revolt-legion-vr.json) |
