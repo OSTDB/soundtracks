@@ -1462,6 +1462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cargo Protocol: Cyberpunk Trains | 414148 | [414148-cargo-protocol-cyberpunk-trains.json](./414148-cargo-protocol-cyberpunk-trains.json) |
 | Cargo Runner: Mars | 389050 | [389050-cargo-runner-mars.json](./389050-cargo-runner-mars.json) |
 | Cargo Simulator | 346190 | [346190-cargo-simulator.json](./346190-cargo-simulator.json) |
+| Cargo Transport Simulator | 383134 | [383134-cargo-transport-simulator.json](./383134-cargo-transport-simulator.json) |
 | Cargo Transportation: Low Poly | 144914 | [144914-cargo-transportation-low-poly.json](./144914-cargo-transportation-low-poly.json) |
 | Cargo Truck Parking | 220191 | [220191-cargo-truck-parking.json](./220191-cargo-truck-parking.json) |
 | Cargo-Bot | 318204 | [318204-cargo-bot.json](./318204-cargo-bot.json) |
@@ -2531,6 +2532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cats & Cups | 360002 | [360002-cats-and-cups.json](./360002-cats-and-cups.json) |
 | Cats & Dice | 319342 | [319342-cats-and-dice.json](./319342-cats-and-dice.json) |
 | Cats & Soup | 174818 | [174818-cats-and-soup.json](./174818-cats-and-soup.json) |
+| Cats & Soup: Fluffy Town | 383150 | [383150-cats-and-soup-fluffy-town.json](./383150-cats-and-soup-fluffy-town.json) |
 | Cats & Soup: Magic Recipe | 399748 | [399748-cats-and-soup-magic-recipe.json](./399748-cats-and-soup-magic-recipe.json) |
 | Cats Academy | 141766 | [141766-cats-academy.json](./141766-cats-academy.json) |
 | Cats and Food 4: New Year | 169775 | [169775-cats-and-food-4-new-year.json](./169775-cats-and-food-4-new-year.json) |
@@ -11904,6 +11906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cybershow | 141762 | [141762-cybershow.json](./141762-cybershow.json) |
 | Cyberside Picnic | 252249 | [252249-cyberside-picnic.json](./252249-cyberside-picnic.json) |
 | CyberSkyscrUpper | 265770 | [265770-cyberskyscrupper.json](./265770-cyberskyscrupper.json) |
+| Cyberslav: Eclipse | 383127 | [383127-cyberslav-eclipse.json](./383127-cyberslav-eclipse.json) |
 | Cybersonic Strike | 258538 | [258538-cybersonic-strike.json](./258538-cybersonic-strike.json) |
 | Cybersoul | 382405 | [382405-cybersoul.json](./382405-cybersoul.json) |
 | Cybersoul: Cosmic Resonance | 385864 | [385864-cybersoul-cosmic-resonance.json](./385864-cybersoul-cosmic-resonance.json) |
