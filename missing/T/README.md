@@ -4279,6 +4279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | THE Card: Poker, Texas hold 'em, Blackjack and Page One | 109491 | [109491-the-card-poker-texas-hold-em-blackjack-and-page-one.json](./109491-the-card-poker-texas-hold-em-blackjack-and-page-one.json) |
 | The Cardinal of the Kremlin | 14382 | [14382-the-cardinal-of-the-kremlin.json](./14382-the-cardinal-of-the-kremlin.json) |
 | The Cards You're Dealt | 182877 | [182877-the-cards-youre-dealt.json](./182877-the-cards-youre-dealt.json) |
+| The Caretaker’s Lease | 361046 | [361046-the-caretaker-s-lease.json](./361046-the-caretaker-s-lease.json) |
 | The Carnage Continues | 276385 | [276385-the-carnage-continues.json](./276385-the-carnage-continues.json) |
 | The Carnival Of Company | 293632 | [293632-the-carnival-of-company.json](./293632-the-carnival-of-company.json) |
 | The Carrier and Crows | 270880 | [270880-the-carrier-and-crows.json](./270880-the-carrier-and-crows.json) |
@@ -8033,6 +8034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lost Levels Enhanced | 38254 | [38254-the-lost-levels-enhanced.json](./38254-the-lost-levels-enhanced.json) |
 | The Lost Marble | 161390 | [161390-the-lost-marble.json](./161390-the-lost-marble.json) |
 | The Lost Medallion | 64356 | [64356-the-lost-medallion.json](./64356-the-lost-medallion.json) |
+| The Lost Meowgician | 361035 | [361035-the-lost-meowgician.json](./361035-the-lost-meowgician.json) |
 | The Lost Mind of Dr. Brain | 79885 | [79885-the-lost-mind-of-dr-brain.json](./79885-the-lost-mind-of-dr-brain.json) |
 | The Lost Mines | 199103 | [199103-the-lost-mines.json](./199103-the-lost-mines.json) |
 | The Lost Mixtape | 409411 | [409411-the-lost-mixtape.json](./409411-the-lost-mixtape.json) |
@@ -9444,6 +9446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Road Driver | 221387 | [221387-the-road-driver.json](./221387-the-road-driver.json) |
 | The Road Less Taken | 219122 | [219122-the-road-less-taken.json](./219122-the-road-less-taken.json) |
 | The Road Not Taken | 349968 | [349968-the-road-not-taken.json](./349968-the-road-not-taken.json) |
+| The Road of Dust and Sorrow | 361053 | [361053-the-road-of-dust-and-sorrow.json](./361053-the-road-of-dust-and-sorrow.json) |
 | The Road to 56 | 256449 | [256449-the-road-to-56.json](./256449-the-road-to-56.json) |
 | The Road to Baghdad | 24108 | [24108-the-road-to-baghdad.json](./24108-the-road-to-baghdad.json) |
 | The Road to Canterbury | 96661 | [96661-the-road-to-canterbury.json](./96661-the-road-to-canterbury.json) |
@@ -10257,6 +10260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Spirit | 172144 | [172144-the-spirit.json](./172144-the-spirit.json) |
 | The Spirit Lift | 217312 | [217312-the-spirit-lift.json](./217312-the-spirit-lift.json) |
 | The Spirit of the Samurai | 226037 | [226037-the-spirit-of-the-samurai.json](./226037-the-spirit-of-the-samurai.json) |
+| The Spirit Weaver | 361072 | [361072-the-spirit-weaver.json](./361072-the-spirit-weaver.json) |
 | The Spirit's Turnabout | 308532 | [308532-the-spirits-turnabout.json](./308532-the-spirits-turnabout.json) |
 | The Spiriting Away of Saooni Village | 373094 | [373094-the-spiriting-away-of-saooni-village.json](./373094-the-spiriting-away-of-saooni-village.json) |
 | The Spirits of Kelley Family | 129026 | [129026-the-spirits-of-kelley-family.json](./129026-the-spirits-of-kelley-family.json) |
