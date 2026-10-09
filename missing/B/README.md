@@ -7488,6 +7488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bonfire Kingdom | 260413 | [260413-bonfire-kingdom.json](./260413-bonfire-kingdom.json) |
 | Bonfire Peaks: Complete Edition | 278648 | [278648-bonfire-peaks-complete-edition.json](./278648-bonfire-peaks-complete-edition.json) |
 | Bonfire Peaks: Lost Memories | 203901 | [203901-bonfire-peaks-lost-memories.json](./203901-bonfire-peaks-lost-memories.json) |
+| Bonfire Stories: Faceless Gravedigger - Collector's Edition | 381374 | [381374-bonfire-stories-faceless-gravedigger-collectors-edition.json](./381374-bonfire-stories-faceless-gravedigger-collectors-edition.json) |
 | Bonfire Stories: Manifest Horror | 417393 | [417393-bonfire-stories-manifest-horror.json](./417393-bonfire-stories-manifest-horror.json) |
 | Bonfire Stories: Manifest Horror - Collector's Edition | 417394 | [417394-bonfire-stories-manifest-horror-collectors-edition.json](./417394-bonfire-stories-manifest-horror-collectors-edition.json) |
 | BongBongCapy | 400862 | [400862-bongbongcapy.json](./400862-bongbongcapy.json) |
@@ -9162,6 +9163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bringris | 174191 | [174191-bringris.json](./174191-bringris.json) |
 | Brink | 502 | [502-brink.json](./502-brink.json) |
 | Brink Complete Pack | 25050 | [25050-brink-complete-pack.json](./25050-brink-complete-pack.json) |
+| Brink of Broken | 381353 | [381353-brink-of-broken.json](./381353-brink-of-broken.json) |
 | Brink of Consciousness: The Lonely Hearts Murders | 17918 | [17918-brink-of-consciousness-the-lonely-hearts-murders.json](./17918-brink-of-consciousness-the-lonely-hearts-murders.json) |
 | Brink Traveler | 168681 | [168681-brink-traveler.json](./168681-brink-traveler.json) |
 | Brink: Agents of Change | 164366 | [164366-brink-agents-of-change.json](./164366-brink-agents-of-change.json) |
