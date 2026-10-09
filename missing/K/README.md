@@ -3370,6 +3370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Krampus | 25317 | [25317-krampus.json](./25317-krampus.json) |
 | Krampus Kills | 191094 | [191094-krampus-kills.json](./191094-krampus-kills.json) |
 | Krampus Quest | 76674 | [76674-krampus-quest.json](./76674-krampus-quest.json) |
+| KrankShot! | 353789 | [353789-krankshot.json](./353789-krankshot.json) |
 | krAsAvA Shot | 116831 | [116831-krasava-shot.json](./116831-krasava-shot.json) |
 | Krashimals | 330558 | [330558-krashimals.json](./330558-krashimals.json) |
 | Krastorio 2 | 375568 | [375568-krastorio-2.json](./375568-krastorio-2.json) |
