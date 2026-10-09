@@ -2963,6 +2963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tet Story | 400370 | [400370-tet-story.json](./400370-tet-story.json) |
 | Tetanus | 257353 | [257353-tetanus.json](./257353-tetanus.json) |
 | Tete | 409798 | [409798-tete.json](./409798-tete.json) |
+| Tete's Atelier: Patches | 374434 | [374434-tetes-atelier-patches.json](./374434-tetes-atelier-patches.json) |
 | Tether | 114816 | [114816-tether.json](./114816-tether.json) |
 | Tether | 186336 | [186336-tether.json](./186336-tether.json) |
 | Tether | 333088 | [333088-tether.json](./333088-tether.json) |
@@ -5930,6 +5931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Game 15 | 56163 | [56163-the-game-15.json](./56163-the-game-15.json) |
 | The Game About People | 187839 | [187839-the-game-about-people.json](./187839-the-game-about-people.json) |
 | The Game Creation Recipe | 178449 | [178449-the-game-creation-recipe.json](./178449-the-game-creation-recipe.json) |
+| The Game for Free | 374420 | [374420-the-game-for-free.json](./374420-the-game-for-free.json) |
 | The Game For Skippers | 368077 | [368077-the-game-for-skippers.json](./368077-the-game-for-skippers.json) |
 | The Game Has Started | 387007 | [387007-the-game-has-started.json](./387007-the-game-has-started.json) |
 | The Game is ON | 153026 | [153026-the-game-is-on.json](./153026-the-game-is-on.json) |
@@ -14007,6 +14009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Arctic Hero | 379160 | [379160-tiny-arctic-hero.json](./379160-tiny-arctic-hero.json) |
 | Tiny Atolls | 230529 | [230529-tiny-atolls.json](./230529-tiny-atolls.json) |
 | Tiny Auto Knights: Supporter Pack | 399808 | [399808-tiny-auto-knights-supporter-pack.json](./399808-tiny-auto-knights-supporter-pack.json) |
+| Tiny Bakery | 374400 | [374400-tiny-bakery.json](./374400-tiny-bakery.json) |
 | Tiny Balls | 275085 | [275085-tiny-balls.json](./275085-tiny-balls.json) |
 | Tiny Barbarian DX | 16693 | [16693-tiny-barbarian-dx.json](./16693-tiny-barbarian-dx.json) |
 | Tiny Battles | 287743 | [287743-tiny-battles.json](./287743-tiny-battles.json) |
