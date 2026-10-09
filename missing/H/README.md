@@ -1875,6 +1875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HeadWorms | 141555 | [141555-headworms.json](./141555-headworms.json) |
 | Heal Hitler | 169412 | [169412-heal-hitler.json](./169412-heal-hitler.json) |
 | Heal Plz | 121741 | [121741-heal-plz.json](./121741-heal-plz.json) |
+| Heal Slime | 364383 | [364383-heal-slime.json](./364383-heal-slime.json) |
 | Heal The Survivors | 322130 | [322130-heal-the-survivors.json](./322130-heal-the-survivors.json) |
 | Heal Them All | 34299 | [34299-heal-them-all.json](./34299-heal-them-all.json) |
 | Heal: Pocket Edition | 208010 | [208010-heal-pocket-edition.json](./208010-heal-pocket-edition.json) |
@@ -3402,6 +3403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero of Many | 17339 | [17339-hero-of-many.json](./17339-hero-of-many.json) |
 | Hero of Not Our Time | 144818 | [144818-hero-of-not-our-time.json](./144818-hero-of-not-our-time.json) |
 | Hero of Sparta | 21690 | [21690-hero-of-sparta.json](./21690-hero-of-sparta.json) |
+| Hero of Sunset | 364375 | [364375-hero-of-sunset.json](./364375-hero-of-sunset.json) |
 | Hero of the Forest | 122818 | [122818-hero-of-the-forest.json](./122818-hero-of-the-forest.json) |
 | Hero of the Galactic Core | 55512 | [55512-hero-of-the-galactic-core.json](./55512-hero-of-the-galactic-core.json) |
 | Hero of the Hive | 311600 | [311600-hero-of-the-hive.json](./311600-hero-of-the-hive.json) |
@@ -3688,6 +3690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heros Survival | 304898 | [304898-heros-survival.json](./304898-heros-survival.json) |
 | Heros: The Sanguine Seven | 140621 | [140621-heros-the-sanguine-seven.json](./140621-heros-the-sanguine-seven.json) |
 | HeroSurvival | 248148 | [248148-herosurvival.json](./248148-herosurvival.json) |
+| Herotome | 364377 | [364377-herotome.json](./364377-herotome.json) |
 | HeroVersus | 239750 | [239750-heroversus.json](./239750-heroversus.json) |
 | HeroVersus: The Legend of Ki Masters | 113622 | [113622-heroversus-the-legend-of-ki-masters.json](./113622-heroversus-the-legend-of-ki-masters.json) |
 | HeroxTrio | 183027 | [183027-heroxtrio.json](./183027-heroxtrio.json) |
