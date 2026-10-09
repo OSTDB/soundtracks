@@ -430,6 +430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galak-Z: Variant Mobile | 105856 | [105856-galak-z-variant-mobile.json](./105856-galak-z-variant-mobile.json) |
 | Galak-Z: Variant S | 105801 | [105801-galak-z-variant-s.json](./105801-galak-z-variant-s.json) |
 | Galaksia Online | 407593 | [407593-galaksia-online.json](./407593-galaksia-online.json) |
+| GalanWarSong | 345966 | [345966-galanwarsong.json](./345966-galanwarsong.json) |
 | Galax | 382229 | [382229-galax.json](./382229-galax.json) |
 | GalaX | 259836 | [259836-galax.json](./259836-galax.json) |
 | Galax Attax | 92967 | [92967-galax-attax.json](./92967-galax-attax.json) |
@@ -6316,6 +6317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gun Runner | 81287 | [81287-gun-runner.json](./81287-gun-runner.json) |
 | Gun Shop 3 | 301245 | [301245-gun-shop-3.json](./301245-gun-shop-3.json) |
 | Gun Shop Dealer Simulator | 325000 | [325000-gun-shop-dealer-simulator.json](./325000-gun-shop-dealer-simulator.json) |
+| Gun Shop Simulator | 345969 | [345969-gun-shop-simulator.json](./345969-gun-shop-simulator.json) |
 | Gun Shop: Tidy Up | 413780 | [413780-gun-shop-tidy-up.json](./413780-gun-shop-tidy-up.json) |
 | Gun Soul Girl 2 | 169455 | [169455-gun-soul-girl-2.json](./169455-gun-soul-girl-2.json) |
 | Gun Soul:Zombie Wars | 105776 | [105776-gun-soul-zombie-wars.json](./105776-gun-soul-zombie-wars.json) |
