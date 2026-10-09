@@ -2794,6 +2794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | White Album 2: Introductory Chapter | 79617 | [79617-white-album-2-introductory-chapter.json](./79617-white-album-2-introductory-chapter.json) |
 | White Album 2: Shiawase no Mukougawa | 79871 | [79871-white-album-2-shiawase-no-mukougawa.json](./79871-white-album-2-shiawase-no-mukougawa.json) |
 | White Album: Memories Like Falling Snow | 79870 | [79870-white-album-memories-like-falling-snow.json](./79870-white-album-memories-like-falling-snow.json) |
+| White Ash Nightfall | 369451 | [369451-white-ash-nightfall.json](./369451-white-ash-nightfall.json) |
 | White Blade | 252229 | [252229-white-blade.json](./252229-white-blade.json) |
 | White Breath: Kizuna | 411523 | [411523-white-breath-kizuna.json](./411523-white-breath-kizuna.json) |
 | White Breath: Perfect Edition | 125290 | [125290-white-breath-perfect-edition.json](./125290-white-breath-perfect-edition.json) |
@@ -3705,6 +3706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winter's Tail: How One Little Dolphin Learned to Swim Again | 63866 | [63866-winters-tail-how-one-little-dolphin-learned-to-swim-again.json](./63866-winters-tail-how-one-little-dolphin-learned-to-swim-again.json) |
 | Winter's Trumpet | 168700 | [168700-winters-trumpet.json](./168700-winters-trumpet.json) |
 | Winter's Wish: Spirits of Edo | 195090 | [195090-winters-wish-spirits-of-edo.json](./195090-winters-wish-spirits-of-edo.json) |
+| Winter's Wrath | 369460 | [369460-winters-wrath.json](./369460-winters-wrath.json) |
 | Winterclaw | 291095 | [291095-winterclaw.json](./291095-winterclaw.json) |
 | Winterfall | 118453 | [118453-winterfall.json](./118453-winterfall.json) |
 | Winterfall | 308238 | [308238-winterfall.json](./308238-winterfall.json) |
