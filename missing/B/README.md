@@ -2494,6 +2494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BattleBeasts | 99615 | [99615-battlebeasts.json](./99615-battlebeasts.json) |
 | BattleBlade | 108034 | [108034-battleblade.json](./108034-battleblade.json) |
 | BattleBlock Theater | 2605 | [2605-battleblock-theater.json](./2605-battleblock-theater.json) |
+| Battleboat | 368279 | [368279-battleboat.json](./368279-battleboat.json) |
 | Battleborn Tap | 58610 | [58610-battleborn-tap.json](./58610-battleborn-tap.json) |
 | Battleborn: Attikus and the Thrall Rebellion | 25040 | [25040-battleborn-attikus-and-the-thrall-rebellion.json](./25040-battleborn-attikus-and-the-thrall-rebellion.json) |
 | Battleborn: Montana and the Demon Bear | 403140 | [403140-battleborn-montana-and-the-demon-bear.json](./403140-battleborn-montana-and-the-demon-bear.json) |
@@ -10709,6 +10710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bye Bye Bonnie | 415153 | [415153-bye-bye-bonnie.json](./415153-bye-bye-bonnie.json) |
 | Bye Bye! Police! | 384866 | [384866-bye-bye-police.json](./384866-bye-bye-police.json) |
 | Bye Sweet Carole: Deluxe Edition | 401673 | [401673-bye-sweet-carole-deluxe-edition.json](./401673-bye-sweet-carole-deluxe-edition.json) |
+| Bye-Bye Bindings! | 368364 | [368364-bye-bye-bindings.json](./368364-bye-bye-bindings.json) |
 | Byflvgvr | 306686 | [306686-byflvgvr.json](./306686-byflvgvr.json) |
 | Bygg båtar med Mulle Meck: Specialversion | 319813 | [319813-bygg-batar-med-mulle-meck-specialversion.json](./319813-bygg-batar-med-mulle-meck-specialversion.json) |
 | Bygone Dreams | 149522 | [149522-bygone-dreams.json](./149522-bygone-dreams.json) |
