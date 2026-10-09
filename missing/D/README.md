@@ -4186,6 +4186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desktop Fishing | 344545 | [344545-desktop-fishing.json](./344545-desktop-fishing.json) |
 | Desktop Football | 196831 | [196831-desktop-football.json](./196831-desktop-football.json) |
 | Desktop Garden | 177478 | [177478-desktop-garden.json](./177478-desktop-garden.json) |
+| Desktop Garden | 377977 | [377977-desktop-garden.json](./377977-desktop-garden.json) |
 | Desktop Goose | 135622 | [135622-desktop-goose.json](./135622-desktop-goose.json) |
 | Desktop Hacker | 203953 | [203953-desktop-hacker.json](./203953-desktop-hacker.json) |
 | Desktop Heroes | 361291 | [361291-desktop-heroes.json](./361291-desktop-heroes.json) |
@@ -4739,6 +4740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devolver Bootleg | 119315 | [119315-devolver-bootleg.json](./119315-devolver-bootleg.json) |
 | Devolver Tumble Time | 152205 | [152205-devolver-tumble-time.json](./152205-devolver-tumble-time.json) |
 | Devorian: Left Behind | 188980 | [188980-devorian-left-behind.json](./188980-devorian-left-behind.json) |
+| Devoted Vampire | 377992 | [377992-devoted-vampire.json](./377992-devoted-vampire.json) |
 | Devotion | 107228 | [107228-devotion.json](./107228-devotion.json) |
 | Devotionalia | 178466 | [178466-devotionalia.json](./178466-devotionalia.json) |
 | Devour | 139708 | [139708-devour.json](./139708-devour.json) |
