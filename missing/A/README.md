@@ -1561,6 +1561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Action Cat | 14205 | [14205-action-cat.json](./14205-action-cat.json) |
 | Action Commando | 171425 | [171425-action-commando.json](./171425-action-commando.json) |
 | Action Doom | 55134 | [55134-action-doom.json](./55134-action-doom.json) |
+| Action Draw Jumper | 339861 | [339861-action-draw-jumper.json](./339861-action-draw-jumper.json) |
 | Action Fighter | 11885 | [11885-action-fighter.json](./11885-action-fighter.json) |
 | Action Force II: International Heroes | 73255 | [73255-action-force-ii-international-heroes.json](./73255-action-force-ii-international-heroes.json) |
 | Action Force: International Heroes | 59503 | [59503-action-force-international-heroes.json](./59503-action-force-international-heroes.json) |
@@ -8168,6 +8169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armored Sinner | 196640 | [196640-armored-sinner.json](./196640-armored-sinner.json) |
 | Armored Squad | 83557 | [83557-armored-squad.json](./83557-armored-squad.json) |
 | Armored Suit Solgante | 303679 | [303679-armored-suit-solgante.json](./303679-armored-suit-solgante.json) |
+| Armored Suit Solgante: Expansion DLC | 339879 | [339879-armored-suit-solgante-expansion-dlc.json](./339879-armored-suit-solgante-expansion-dlc.json) |
 | Armored Trooper Votoms: Dead Ash | 98262 | [98262-armored-trooper-votoms-dead-ash.json](./98262-armored-trooper-votoms-dead-ash.json) |
 | Armored Us | 241619 | [241619-armored-us.json](./241619-armored-us.json) |
 | Armored War | 277327 | [277327-armored-war.json](./277327-armored-war.json) |
