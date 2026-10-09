@@ -734,6 +734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bakushou!! All Yoshimoto Quiz-Ou Ketteisen | 245247 | [245247-bakushou-all-yoshimoto-quiz-ou-ketteisen.json](./245247-bakushou-all-yoshimoto-quiz-ou-ketteisen.json) |
 | Bakusou Kyoudai Let's & Go!!: Eternal Wings | 44765 | [44765-bakusou-kyoudai-lets-and-go-eternal-wings.json](./44765-bakusou-kyoudai-lets-and-go-eternal-wings.json) |
 | Bakusuro Bank | 98040 | [98040-bakusuro-bank.json](./98040-bakusuro-bank.json) |
+| Bakutan | 344318 | [344318-bakutan.json](./344318-bakutan.json) |
 | Bakuten Shoot Beyblade | 80235 | [80235-bakuten-shoot-beyblade.json](./80235-bakuten-shoot-beyblade.json) |
 | Bakuten Shoot Beyblade 2002: Beybattle Tournament 2 | 303784 | [303784-bakuten-shoot-beyblade-2002-beybattle-tournament-2.json](./303784-bakuten-shoot-beyblade-2002-beybattle-tournament-2.json) |
 | Bakuten Shoot Beyblade 2002: Daichi Version | 49490 | [49490-bakuten-shoot-beyblade-2002-daichi-version.json](./49490-bakuten-shoot-beyblade-2002-daichi-version.json) |
@@ -7264,6 +7265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bogdanoff vs. Wojak Simulator | 182358 | [182358-bogdanoff-vs-wojak-simulator.json](./182358-bogdanoff-vs-wojak-simulator.json) |
 | Bogey Blows Golf Simulator | 181677 | [181677-bogey-blows-golf-simulator.json](./181677-bogey-blows-golf-simulator.json) |
 | Bogey Dead 6 | 20590 | [20590-bogey-dead-6.json](./20590-bogey-dead-6.json) |
+| Bogey's Report | 344327 | [344327-bogeys-report.json](./344327-bogeys-report.json) |
 | Bogeyman | 138145 | [138145-bogeyman.json](./138145-bogeyman.json) |
 | Boggle | 206463 | [206463-boggle.json](./206463-boggle.json) |
 | Boggle | 264236 | [264236-boggle.json](./264236-boggle.json) |
@@ -7311,9 +7313,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boku Boku | 236974 | [236974-boku-boku.json](./236974-boku-boku.json) |
 | Boku dake ga Shitteiru | 375356 | [375356-boku-dake-ga-shitteiru.json](./375356-boku-dake-ga-shitteiru.json) |
 | Boku ha Kimi dake wo Mitsumeru: I Gaze at Only You | 335996 | [335996-boku-ha-kimi-dake-wo-mitsumeru-i-gaze-at-only-you.json](./335996-boku-ha-kimi-dake-wo-mitsumeru-i-gaze-at-only-you.json) |
+| Boku ha Plarail Untenshi: Shinkansen & Joukikikansha-hen | 344320 | [344320-boku-ha-plarail-untenshi-shinkansen-and-joukikikansha-hen.json](./344320-boku-ha-plarail-untenshi-shinkansen-and-joukikikansha-hen.json) |
 | Boku ha Tomodachi Fan Disk: Kanwa, Sorekara | 403772 | [403772-boku-ha-tomodachi-fan-disk-kanwa-sorekara.json](./403772-boku-ha-tomodachi-fan-disk-kanwa-sorekara.json) |
 | Boku ha Tomodachi ga Sukunai Portable | 56491 | [56491-boku-ha-tomodachi-ga-sukunai-portable.json](./56491-boku-ha-tomodachi-ga-sukunai-portable.json) |
 | Boku ha Tomodachi: I Am Not Sweetheart | 403770 | [403770-boku-ha-tomodachi-i-am-not-sweetheart.json](./403770-boku-ha-tomodachi-i-am-not-sweetheart.json) |
+| Boku mo Sekai wo Sukuitai | 344321 | [344321-boku-mo-sekai-wo-sukuitai.json](./344321-boku-mo-sekai-wo-sukuitai.json) |
+| Boku mo Sekai wo Sukuitai: Battle Tournament | 344322 | [344322-boku-mo-sekai-wo-sukuitai-battle-tournament.json](./344322-boku-mo-sekai-wo-sukuitai-battle-tournament.json) |
 | Boku ni Todoita Kimi no Koe | 98049 | [98049-boku-ni-todoita-kimi-no-koe.json](./98049-boku-ni-todoita-kimi-no-koe.json) |
 | Boku no Choro-Q | 59440 | [59440-boku-no-choro-q.json](./59440-boku-no-choro-q.json) |
 | Boku no Komayama wo Mamotte | 308901 | [308901-boku-no-komayama-wo-mamotte.json](./308901-boku-no-komayama-wo-mamotte.json) |
