@@ -7169,6 +7169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frio2 - Memory of my sister | 90004 | [90004-frio2-memory-of-my-sister.json](./90004-frio2-memory-of-my-sister.json) |
 | Frip and Froop's Logical Labyrinth | 56509 | [56509-frip-and-froops-logical-labyrinth.json](./56509-frip-and-froops-logical-labyrinth.json) |
 | Friquiz | 135812 | [135812-friquiz.json](./135812-friquiz.json) |
+| Frisbee Forever | 338144 | [338144-frisbee-forever.json](./338144-frisbee-forever.json) |
 | Frisbee Fumbling | 322553 | [322553-frisbee-fumbling.json](./322553-frisbee-fumbling.json) |
 | Frisbros | 163871 | [163871-frisbros.json](./163871-frisbros.json) |
 | Frisia: Tales & Tides | 280303 | [280303-frisia-tales-and-tides.json](./280303-frisia-tales-and-tides.json) |
