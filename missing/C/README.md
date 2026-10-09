@@ -6148,6 +6148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cloud Meadow | 137958 | [137958-cloud-meadow.json](./137958-cloud-meadow.json) |
 | Cloud Miners | 132589 | [132589-cloud-miners.json](./132589-cloud-miners.json) |
 | Cloud of Souls | 25766 | [25766-cloud-of-souls.json](./25766-cloud-of-souls.json) |
+| Cloud Path | 348735 | [348735-cloud-path.json](./348735-cloud-path.json) |
 | Cloud Piercer | 322767 | [322767-cloud-piercer.json](./322767-cloud-piercer.json) |
 | Cloud Pirates | 27687 | [27687-cloud-pirates.json](./27687-cloud-pirates.json) |
 | Cloud Rack | 158640 | [158640-cloud-rack.json](./158640-cloud-rack.json) |
@@ -7340,6 +7341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Combo Pool | 177876 | [177876-combo-pool.json](./177876-combo-pool.json) |
 | Combo Postage | 112496 | [112496-combo-postage.json](./112496-combo-postage.json) |
 | Combo Queen | 46500 | [46500-combo-queen.json](./46500-combo-queen.json) |
+| Combo Quest | 348748 | [348748-combo-quest.json](./348748-combo-quest.json) |
 | Combo Quest 2 | 102768 | [102768-combo-quest-2.json](./102768-combo-quest-2.json) |
 | Combo! | 184405 | [184405-combo.json](./184405-combo.json) |
 | ComboChain Pulse | 408712 | [408712-combochain-pulse.json](./408712-combochain-pulse.json) |
