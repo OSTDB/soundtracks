@@ -24,6 +24,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F-117A Stealth Fighter | 69582 | [69582-f-117a-stealth-fighter.json](./69582-f-117a-stealth-fighter.json) |
 | F-14 Tomcat | 47179 | [47179-f-14-tomcat.json](./47179-f-14-tomcat.json) |
 | F-15 Strike Eagle | 12261 | [12261-f-15-strike-eagle.json](./12261-f-15-strike-eagle.json) |
+| F-15 Strike Eagle | 370483 | [370483-f-15-strike-eagle.json](./370483-f-15-strike-eagle.json) |
+| F-15 Strike Eagle | 370485 | [370485-f-15-strike-eagle.json](./370485-f-15-strike-eagle.json) |
 | F-15 Strike Eagle II | 12084 | [12084-f-15-strike-eagle-ii.json](./12084-f-15-strike-eagle-ii.json) |
 | F-15 Strike Eagle III | 71811 | [71811-f-15-strike-eagle-iii.json](./71811-f-15-strike-eagle-iii.json) |
 | F-16 Combat Pilot | 12085 | [12085-f-16-combat-pilot.json](./12085-f-16-combat-pilot.json) |
@@ -2283,6 +2285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Femboy Aim Trainer | 266180 | [266180-femboy-aim-trainer.json](./266180-femboy-aim-trainer.json) |
 | Femboy Bangers 2 | 219295 | [219295-femboy-bangers-2.json](./219295-femboy-bangers-2.json) |
 | Femboy Bangers: Pub & Grill | 170495 | [170495-femboy-bangers-pub-and-grill.json](./170495-femboy-bangers-pub-and-grill.json) |
+| Femboy Called It “Massage” | 370477 | [370477-femboy-called-it-massage.json](./370477-femboy-called-it-massage.json) |
 | Femboy Next Door | 405697 | [405697-femboy-next-door.json](./405697-femboy-next-door.json) |
 | Femboys of the Phalanx | 171068 | [171068-femboys-of-the-phalanx.json](./171068-femboys-of-the-phalanx.json) |
 | Femdom First Timers | 392445 | [392445-femdom-first-timers.json](./392445-femdom-first-timers.json) |
@@ -5198,6 +5201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Focus Knight | 398318 | [398318-focus-knight.json](./398318-focus-knight.json) |
 | Fodders Grapple Gauntlet | 401602 | [401602-fodders-grapple-gauntlet.json](./401602-fodders-grapple-gauntlet.json) |
 | Foddia | 332436 | [332436-foddia.json](./332436-foddia.json) |
+| FodFru | 370563 | [370563-fodfru.json](./370563-fodfru.json) |
 | Foe Frenzy | 126564 | [126564-foe-frenzy.json](./126564-foe-frenzy.json) |
 | Foes of Ali | 4295 | [4295-foes-of-ali.json](./4295-foes-of-ali.json) |
 | Foes of Legacy: Survivors | 374940 | [374940-foes-of-legacy-survivors.json](./374940-foes-of-legacy-survivors.json) |
@@ -5291,6 +5295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Food Gang | 144361 | [144361-food-gang.json](./144361-food-gang.json) |
 | Food Girls | 112956 | [112956-food-girls.json](./112956-food-girls.json) |
 | Food Guess: Pixel Art Trivia | 405477 | [405477-food-guess-pixel-art-trivia.json](./405477-food-guess-pixel-art-trivia.json) |
+| Food Inc: Home of the Supply | 370470 | [370470-food-inc-home-of-the-supply.json](./370470-food-inc-home-of-the-supply.json) |
 | Food Maze | 234678 | [234678-food-maze.json](./234678-food-maze.json) |
 | Food Monster and Animals Memory Match | 82354 | [82354-food-monster-and-animals-memory-match.json](./82354-food-monster-and-animals-memory-match.json) |
 | Food Poppers | 189031 | [189031-food-poppers.json](./189031-food-poppers.json) |
@@ -6046,11 +6051,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortnite Festival: Drop It like it's hot | 367588 | [367588-fortnite-festival-drop-it-like-its-hot.json](./367588-fortnite-festival-drop-it-like-its-hot.json) |
 | Fortnite Festival: Fade to Black | 367589 | [367589-fortnite-festival-fade-to-black.json](./367589-fortnite-festival-fade-to-black.json) |
 | Fortnite Festival: Feel It Still | 371639 | [371639-fortnite-festival-feel-it-still.json](./371639-fortnite-festival-feel-it-still.json) |
+| Fortnite Festival: Get Lucky | 370567 | [370567-fortnite-festival-get-lucky.json](./370567-fortnite-festival-get-lucky.json) |
 | Fortnite Festival: Givenchy | 367580 | [367580-fortnite-festival-givenchy.json](./367580-fortnite-festival-givenchy.json) |
+| Fortnite Festival: Instant Crush | 370570 | [370570-fortnite-festival-instant-crush.json](./370570-fortnite-festival-instant-crush.json) |
 | Fortnite Festival: Locked & Loaded | 366402 | [366402-fortnite-festival-locked-and-loaded.json](./366402-fortnite-festival-locked-and-loaded.json) |
 | Fortnite Festival: Mi Gente | 372796 | [372796-fortnite-festival-mi-gente.json](./372796-fortnite-festival-mi-gente.json) |
 | Fortnite Festival: Mr. Brightside | 367586 | [367586-fortnite-festival-mr-brightside.json](./367586-fortnite-festival-mr-brightside.json) |
 | Fortnite Festival: Oiia Oiia (Spinning Cat) | 375400 | [375400-fortnite-festival-oiia-oiia-spinning-cat.json](./375400-fortnite-festival-oiia-oiia-spinning-cat.json) |
+| Fortnite Festival: Old Town Road (Remix) | 370573 | [370573-fortnite-festival-old-town-road-remix.json](./370573-fortnite-festival-old-town-road-remix.json) |
 | Fortnite Festival: One | 367587 | [367587-fortnite-festival-one.json](./367587-fortnite-festival-one.json) |
 | Fortnite Festival: Paint The Town Red | 372795 | [372795-fortnite-festival-paint-the-town-red.json](./372795-fortnite-festival-paint-the-town-red.json) |
 | Fortnite Festival: PPAP (Pen Pineapple Apple Pen) [Long Version] | 372802 | [372802-fortnite-festival-ppap-pen-pineapple-apple-pen-long-version.json](./372802-fortnite-festival-ppap-pen-pineapple-apple-pen-long-version.json) |
@@ -6065,12 +6073,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortnite Festival: Season 15 | 411844 | [411844-fortnite-festival-season-15.json](./411844-fortnite-festival-season-15.json) |
 | Fortnite Festival: Season 3 | 299445 | [299445-fortnite-festival-season-3.json](./299445-fortnite-festival-season-3.json) |
 | Fortnite Festival: Shelter | 375401 | [375401-fortnite-festival-shelter.json](./375401-fortnite-festival-shelter.json) |
+| Fortnite Festival: Starboy | 370568 | [370568-fortnite-festival-starboy.json](./370568-fortnite-festival-starboy.json) |
 | Fortnite Festival: Sticky | 378001 | [378001-fortnite-festival-sticky.json](./378001-fortnite-festival-sticky.json) |
 | Fortnite Festival: Sunflower - Spider-Man: Into the Spider-Verse | 372127 | [372127-fortnite-festival-sunflower-spider-man-into-the-spider-verse.json](./372127-fortnite-festival-sunflower-spider-man-into-the-spider-verse.json) |
 | Fortnite Festival: The Monorail Song | 378002 | [378002-fortnite-festival-the-monorail-song.json](./378002-fortnite-festival-the-monorail-song.json) |
 | Fortnite Festival: Uptown Funk | 372010 | [372010-fortnite-festival-uptown-funk.json](./372010-fortnite-festival-uptown-funk.json) |
+| Fortnite Festival: We Like To Party! (The Vengabus) | 370571 | [370571-fortnite-festival-we-like-to-party-the-vengabus.json](./370571-fortnite-festival-we-like-to-party-the-vengabus.json) |
 | Fortnite Festival: Welcome Home | 366400 | [366400-fortnite-festival-welcome-home.json](./366400-fortnite-festival-welcome-home.json) |
 | Fortnite Festival: What's New Scooby-Doo? | 372797 | [372797-fortnite-festival-whats-new-scooby-doo.json](./372797-fortnite-festival-whats-new-scooby-doo.json) |
+| Fortnite Festival: World Is Mine | 370574 | [370574-fortnite-festival-world-is-mine.json](./370574-fortnite-festival-world-is-mine.json) |
 | Fortnite Festival: Zombie | 366397 | [366397-fortnite-festival-zombie.json](./366397-fortnite-festival-zombie.json) |
 | Fortnite OG | 324915 | [324915-fortnite-og.json](./324915-fortnite-og.json) |
 | Fortnite OG: Chapter 1 Season 2 | 330838 | [330838-fortnite-og-chapter-1-season-2.json](./330838-fortnite-og-chapter-1-season-2.json) |
