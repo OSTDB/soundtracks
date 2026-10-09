@@ -2509,6 +2509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kiwie vs. Desert | 290913 | [290913-kiwie-vs-desert.json](./290913-kiwie-vs-desert.json) |
 | KiwiFlight | 306707 | [306707-kiwiflight.json](./306707-kiwiflight.json) |
 | Kiwis Can't Fly | 306691 | [306691-kiwis-cant-fly.json](./306691-kiwis-cant-fly.json) |
+| Kiyo: Bunny Tyranny | 356562 | [356562-kiyo-bunny-tyranny.json](./356562-kiyo-bunny-tyranny.json) |
 | Kizi Adventures | 56911 | [56911-kizi-adventures.json](./56911-kizi-adventures.json) |
 | Kizuchida Quiz da Gen-San Da! | 62597 | [62597-kizuchida-quiz-da-gen-san-da.json](./62597-kizuchida-quiz-da-gen-san-da.json) |
 | Kizuna AI: Touch the Beat! | 187869 | [187869-kizuna-ai-touch-the-beat.json](./187869-kizuna-ai-touch-the-beat.json) |
@@ -3250,6 +3251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kosmopolska | 92100 | [92100-kosmopolska.json](./92100-kosmopolska.json) |
 | Kosmos | 354569 | [354569-kosmos.json](./354569-kosmos.json) |
 | Kosmos: The Discovery of Nature | 276194 | [276194-kosmos-the-discovery-of-nature.json](./276194-kosmos-the-discovery-of-nature.json) |
+| Kosmosis | 356608 | [356608-kosmosis.json](./356608-kosmosis.json) |
 | Kosmosis | 382345 | [382345-kosmosis.json](./382345-kosmosis.json) |
 | KosmoSquad | 154561 | [154561-kosmosquad.json](./154561-kosmosquad.json) |
 | Kosodate Quiz My Angel | 40224 | [40224-kosodate-quiz-my-angel.json](./40224-kosodate-quiz-my-angel.json) |
