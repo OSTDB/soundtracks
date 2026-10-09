@@ -801,6 +801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baldur's Gate Compilation | 141859 | [141859-baldurs-gate-compilation.json](./141859-baldurs-gate-compilation.json) |
 | Baldur's Gate II: Enhanced Edition | 5613 | [5613-baldurs-gate-ii-enhanced-edition.json](./5613-baldurs-gate-ii-enhanced-edition.json) |
 | Baldur's Gate II: Throne of Bhaal | 82 | [82-baldurs-gate-ii-throne-of-bhaal.json](./82-baldurs-gate-ii-throne-of-bhaal.json) |
+| Baldur's Gate III: The Black Hound | 357173 | [357173-baldurs-gate-iii-the-black-hound.json](./357173-baldurs-gate-iii-the-black-hound.json) |
 | Baldur's Gate: Dark Alliance | 243015 | [243015-baldurs-gate-dark-alliance.json](./243015-baldurs-gate-dark-alliance.json) |
 | Baldur's Gate: Dark Alliance | 83 | [83-baldurs-gate-dark-alliance.json](./83-baldurs-gate-dark-alliance.json) |
 | Baldur's Gate: Dark Alliance II | 210699 | [210699-baldurs-gate-dark-alliance-ii.json](./210699-baldurs-gate-dark-alliance-ii.json) |
@@ -1924,6 +1925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bass Landing | 43922 | [43922-bass-landing.json](./43922-bass-landing.json) |
 | Bass Landing 2 | 55879 | [55879-bass-landing-2.json](./55879-bass-landing-2.json) |
 | Bass Landing 3 | 55878 | [55878-bass-landing-3.json](./55878-bass-landing-3.json) |
+| Bass Masters Classic | 357181 | [357181-bass-masters-classic.json](./357181-bass-masters-classic.json) |
 | Bass Masters Classic | 49867 | [49867-bass-masters-classic.json](./49867-bass-masters-classic.json) |
 | Bass Monkey | 191041 | [191041-bass-monkey.json](./191041-bass-monkey.json) |
 | Bass Pro Shops Fishing Sim World | 139982 | [139982-bass-pro-shops-fishing-sim-world.json](./139982-bass-pro-shops-fishing-sim-world.json) |
@@ -9140,6 +9142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brickhaven | 273380 | [273380-brickhaven.json](./273380-brickhaven.json) |
 | BrickMania | 328552 | [328552-brickmania.json](./328552-brickmania.json) |
 | Bricknosis | 391615 | [391615-bricknosis.json](./391615-bricknosis.json) |
+| Brickoid | 357167 | [357167-brickoid.json](./357167-brickoid.json) |
 | Brickout Kings | 108402 | [108402-brickout-kings.json](./108402-brickout-kings.json) |
 | Bricks | 292111 | [292111-bricks.json](./292111-bricks.json) |
 | Bricks '2000 | 375585 | [375585-bricks-2000.json](./375585-bricks-2000.json) |
