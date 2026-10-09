@@ -5672,6 +5672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Classified: France '44 - Season Pass | 289858 | [289858-classified-france-44-season-pass.json](./289858-classified-france-44-season-pass.json) |
 | Classified: France '44: Overlord Edition | 289415 | [289415-classified-france-44-overlord-edition.json](./289415-classified-france-44-overlord-edition.json) |
 | Classified: The Sentinel Crisis | 5777 | [5777-classified-the-sentinel-crisis.json](./5777-classified-the-sentinel-crisis.json) |
+| Classroom 0 | 377960 | [377960-classroom-0.json](./377960-classroom-0.json) |
 | Classroom Mystery Secrets Behind the Lessons | 420681 | [420681-classroom-mystery-secrets-behind-the-lessons.json](./420681-classroom-mystery-secrets-behind-the-lessons.json) |
 | Classroom of the Elite: Merge Puzzle Special Exam | 350524 | [350524-classroom-of-the-elite-merge-puzzle-special-exam.json](./350524-classroom-of-the-elite-merge-puzzle-special-exam.json) |
 | Classy Train | 213021 | [213021-classy-train.json](./213021-classy-train.json) |
@@ -8452,6 +8453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corgi Simulator | 128588 | [128588-corgi-simulator.json](./128588-corgi-simulator.json) |
 | Corgi Snow Day | 178579 | [178579-corgi-snow-day.json](./178579-corgi-snow-day.json) |
 | Corgix | 138698 | [138698-corgix.json](./138698-corgix.json) |
+| Corinne | 377986 | [377986-corinne.json](./377986-corinne.json) |
 | Cork the Volcano | 132776 | [132776-cork-the-volcano.json](./132776-cork-the-volcano.json) |
 | Cork the Volcano for Puzzlets | 96718 | [96718-cork-the-volcano-for-puzzlets.json](./96718-cork-the-volcano-for-puzzlets.json) |
 | Corked | 273373 | [273373-corked.json](./273373-corked.json) |
@@ -11168,6 +11170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubix Worlds | 215002 | [215002-cubix-worlds.json](./215002-cubix-worlds.json) |
 | Cubix: Match-3 | 197727 | [197727-cubix-match-3.json](./197727-cubix-match-3.json) |
 | Cubix: Robots For Everyone - Race 'N Robots | 49897 | [49897-cubix-robots-for-everyone-race-n-robots.json](./49897-cubix-robots-for-everyone-race-n-robots.json) |
+| Cubixx | 377995 | [377995-cubixx.json](./377995-cubixx.json) |
 | Cubixx HD | 20632 | [20632-cubixx-hd.json](./20632-cubixx-hd.json) |
 | Cubiya | 164881 | [164881-cubiya.json](./164881-cubiya.json) |
 | Cubob | 229006 | [229006-cubob.json](./229006-cubob.json) |
