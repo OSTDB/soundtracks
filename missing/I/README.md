@@ -2383,6 +2383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinity BattleSoul | 188516 | [188516-infinity-battlesoul.json](./188516-infinity-battlesoul.json) |
 | Infinity Beats Song Edition | 87150 | [87150-infinity-beats-song-edition.json](./87150-infinity-beats-song-edition.json) |
 | Infinity Blade | 10029 | [10029-infinity-blade.json](./10029-infinity-blade.json) |
+| Infinity Blade FX | 356605 | [356605-infinity-blade-fx.json](./356605-infinity-blade-fx.json) |
 | Infinity Blade II | 20644 | [20644-infinity-blade-ii.json](./20644-infinity-blade-ii.json) |
 | Infinity Blade II PC | 342284 | [342284-infinity-blade-ii-pc.json](./342284-infinity-blade-ii-pc.json) |
 | Infinity Blade PC | 342045 | [342045-infinity-blade-pc.json](./342045-infinity-blade-pc.json) |
