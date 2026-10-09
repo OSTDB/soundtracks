@@ -1226,6 +1226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yummyland Solitaire 2 | 386130 | [386130-yummyland-solitaire-2.json](./386130-yummyland-solitaire-2.json) |
 | Yummyland Solitaire 3 | 403837 | [403837-yummyland-solitaire-3.json](./403837-yummyland-solitaire-3.json) |
 | Yumori Forest | 107426 | [107426-yumori-forest.json](./107426-yumori-forest.json) |
+| Yump 2 | 336492 | [336492-yump-2.json](./336492-yump-2.json) |
 | Yumper | 146306 | [146306-yumper.json](./146306-yumper.json) |
 | Yumpgril | 288447 | [288447-yumpgril.json](./288447-yumpgril.json) |
 | Yumpr | 287675 | [287675-yumpr.json](./287675-yumpr.json) |
