@@ -7812,6 +7812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Confession of the Golden Witch | 255386 | [255386-confession-of-the-golden-witch.json](./255386-confession-of-the-golden-witch.json) |
 | Confessions at Candlewood Lake | 174113 | [174113-confessions-at-candlewood-lake.json](./174113-confessions-at-candlewood-lake.json) |
 | Confettied | 412395 | [412395-confettied.json](./412395-confettied.json) |
+| Confidential Killings | 340987 | [340987-confidential-killings.json](./340987-confidential-killings.json) |
 | Confidential Mission | 305954 | [305954-confidential-mission.json](./305954-confidential-mission.json) |
 | Config Wars | 113854 | [113854-config-wars.json](./113854-config-wars.json) |
 | Confined | 304138 | [304138-confined.json](./304138-confined.json) |
@@ -8275,6 +8276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Convicted Galaxy | 30902 | [30902-convicted-galaxy.json](./30902-convicted-galaxy.json) |
 | Conviction | 260181 | [260181-conviction.json](./260181-conviction.json) |
 | Conviction Chronicles | 404993 | [404993-conviction-chronicles.json](./404993-conviction-chronicles.json) |
+| Convicts | 340878 | [340878-convicts.json](./340878-convicts.json) |
 | Convoluted Incident: Pinch me | 368373 | [368373-convoluted-incident-pinch-me.json](./368373-convoluted-incident-pinch-me.json) |
 | Convrgence | 269281 | [269281-convrgence.json](./269281-convrgence.json) |
 | Conway | 282112 | [282112-conway.json](./282112-conway.json) |
