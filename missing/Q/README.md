@@ -61,6 +61,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Qbasic Gorillas | 11690 | [11690-qbasic-gorillas.json](./11690-qbasic-gorillas.json) |
 | Qbike: Crypto Motorcycles | 68760 | [68760-qbike-crypto-motorcycles.json](./68760-qbike-crypto-motorcycles.json) |
 | Qbio | 168653 | [168653-qbio.json](./168653-qbio.json) |
+| QBob | 342685 | [342685-qbob.json](./342685-qbob.json) |
 | QBob: Remastered | 358309 | [358309-qbob-remastered.json](./358309-qbob-remastered.json) |
 | Qbots | 63548 | [63548-qbots.json](./63548-qbots.json) |
 | QBz | 78079 | [78079-qbz.json](./78079-qbz.json) |
