@@ -2737,6 +2737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terminus Machina | 230287 | [230287-terminus-machina.json](./230287-terminus-machina.json) |
 | Terminus: Ultiverse | 288755 | [288755-terminus-ultiverse.json](./288755-terminus-ultiverse.json) |
 | Terminus: Zombie Survivors | 155570 | [155570-terminus-zombie-survivors.json](./155570-terminus-zombie-survivors.json) |
+| Terminus: Zombie Survivors - Last Escape | 366727 | [366727-terminus-zombie-survivors-last-escape.json](./366727-terminus-zombie-survivors-last-escape.json) |
 | Termite | 112748 | [112748-termite.json](./112748-termite.json) |
 | Termite | 377177 | [377177-termite.json](./377177-termite.json) |
 | Termite Man | 327380 | [327380-termite-man.json](./327380-termite-man.json) |
@@ -4951,6 +4952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dead Case | 186139 | [186139-the-dead-case.json](./186139-the-dead-case.json) |
 | The Dead City | 376715 | [376715-the-dead-city.json](./376715-the-dead-city.json) |
 | The Dead Daughter | 371623 | [371623-the-dead-daughter.json](./371623-the-dead-daughter.json) |
+| The Dead House | 366732 | [366732-the-dead-house.json](./366732-the-dead-house.json) |
 | The Dead in my Living Room | 142378 | [142378-the-dead-in-my-living-room.json](./142378-the-dead-in-my-living-room.json) |
 | The Dead Linger | 9055 | [9055-the-dead-linger.json](./9055-the-dead-linger.json) |
 | The Dead Mountaineer's Hotel | 54438 | [54438-the-dead-mountaineers-hotel.json](./54438-the-dead-mountaineers-hotel.json) |
@@ -8344,6 +8346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mixer | 223178 | [223178-the-mixer.json](./223178-the-mixer.json) |
 | The Mnemograph | 337304 | [337304-the-mnemograph.json](./337304-the-mnemograph.json) |
 | The Moaning Words | 60913 | [60913-the-moaning-words.json](./60913-the-moaning-words.json) |
+| The Möbius Strip | 366731 | [366731-the-mobius-strip.json](./366731-the-mobius-strip.json) |
 | The Modern Atlas | 404779 | [404779-the-modern-atlas.json](./404779-the-modern-atlas.json) |
 | The Mofflys: Invasion Mayhem | 278509 | [278509-the-mofflys-invasion-mayhem.json](./278509-the-mofflys-invasion-mayhem.json) |
 | The Moment We Met | 110910 | [110910-the-moment-we-met.json](./110910-the-moment-we-met.json) |
@@ -9005,6 +9008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Pong P | 219177 | [219177-the-pong-p.json](./219177-the-pong-p.json) |
 | The Pools | 333740 | [333740-the-pools.json](./333740-the-pools.json) |
 | The Pope: Power & Sin | 132697 | [132697-the-pope-power-and-sin.json](./132697-the-pope-power-and-sin.json) |
+| The Population Must Grow | 366738 | [366738-the-population-must-grow.json](./366738-the-population-must-grow.json) |
 | The Posthumous Investigation | 255719 | [255719-the-posthumous-investigation.json](./255719-the-posthumous-investigation.json) |
 | The Postman Only Dies Once | 71245 | [71245-the-postman-only-dies-once.json](./71245-the-postman-only-dies-once.json) |
 | The Potion Master | 232549 | [232549-the-potion-master.json](./232549-the-potion-master.json) |
@@ -16101,6 +16105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Tower Defense Aigisyu: Complete Edition | 204559 | [204559-touhou-tower-defense-aigisyu-complete-edition.json](./204559-touhou-tower-defense-aigisyu-complete-edition.json) |
 | Touhou Traveler | 234578 | [234578-touhou-traveler.json](./234578-touhou-traveler.json) |
 | Touhou Unreal Mahjong | 59894 | [59894-touhou-unreal-mahjong.json](./59894-touhou-unreal-mahjong.json) |
+| Touhou Usojikuu: Fools_rush_in | 366633 | [366633-touhou-usojikuu-fools-rush-in.json](./366633-touhou-usojikuu-fools-rush-in.json) |
 | Touhou Volleyball | 351605 | [351605-touhou-volleyball.json](./351605-touhou-volleyball.json) |
 | Touhou Witch's Night Market | 380424 | [380424-touhou-witchs-night-market.json](./380424-touhou-witchs-night-market.json) |
 | Touhou: Blossom Blade | 380520 | [380520-touhou-blossom-blade.json](./380520-touhou-blossom-blade.json) |
@@ -19285,6 +19290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tuōtuōlālā Xiǎofēi Zhèn | 415512 | [415512-tuotuolala-xiaofei-zhen.json](./415512-tuotuolala-xiaofei-zhen.json) |
 | Tuper Tario Tros. | 212693 | [212693-tuper-tario-tros.json](./212693-tuper-tario-tros.json) |
 | Tupsu | 117761 | [117761-tupsu.json](./117761-tupsu.json) |
+| Tuqim | 366742 | [366742-tuqim.json](./366742-tuqim.json) |
 | Turandot | 216328 | [216328-turandot.json](./216328-turandot.json) |
 | Turbo | 18510 | [18510-turbo.json](./18510-turbo.json) |
 | Turbo | 230415 | [230415-turbo.json](./230415-turbo.json) |
