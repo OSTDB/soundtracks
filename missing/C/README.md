@@ -150,6 +150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cadence of Hyrule: Crypt of the NecroDancer Featuring the Legend of Zelda - Season Pass | 141742 | [141742-cadence-of-hyrule-crypt-of-the-necrodancer-featuring-the-legend-of-zelda-season-pass.json](./141742-cadence-of-hyrule-crypt-of-the-necrodancer-featuring-the-legend-of-zelda-season-pass.json) |
 | Cadentia Farnese | 381955 | [381955-cadentia-farnese.json](./381955-cadentia-farnese.json) |
 | Cadenza: Havana Nights | 188030 | [188030-cadenza-havana-nights.json](./188030-cadenza-havana-nights.json) |
+| Cadenza: Havana Nights - Collector's Edition | 381375 | [381375-cadenza-havana-nights-collectors-edition.json](./381375-cadenza-havana-nights-collectors-edition.json) |
 | Cadenza: Music, Betrayal and Death | 140305 | [140305-cadenza-music-betrayal-and-death.json](./140305-cadenza-music-betrayal-and-death.json) |
 | Cadenza: Music, Betrayal and Death - Collector's Edition | 36465 | [36465-cadenza-music-betrayal-and-death-collectors-edition.json](./36465-cadenza-music-betrayal-and-death-collectors-edition.json) |
 | Cadenza: The Following | 417491 | [417491-cadenza-the-following.json](./417491-cadenza-the-following.json) |
