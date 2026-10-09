@@ -7463,6 +7463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Portal Golf | 287361 | [287361-portal-golf.json](./287361-portal-golf.json) |
 | Portal Guardian | 389991 | [389991-portal-guardian.json](./389991-portal-guardian.json) |
 | Portal Gun in Sonic 2 | 129175 | [129175-portal-gun-in-sonic-2.json](./129175-portal-gun-in-sonic-2.json) |
+| Portal Hopper | 383706 | [383706-portal-hopper.json](./383706-portal-hopper.json) |
 | Portal Hunter | 373623 | [373623-portal-hunter.json](./373623-portal-hunter.json) |
 | Portal Knights | 20392 | [20392-portal-knights.json](./20392-portal-knights.json) |
 | Portal Knights: Druids, Furfolk, and Relic Defense | 164772 | [164772-portal-knights-druids-furfolk-and-relic-defense.json](./164772-portal-knights-druids-furfolk-and-relic-defense.json) |
@@ -7817,6 +7818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Rangers | 220102 | [220102-power-rangers.json](./220102-power-rangers.json) |
 | Power Rangers All-Stars | 109037 | [109037-power-rangers-all-stars.json](./109037-power-rangers-all-stars.json) |
 | Power Rangers Legends | 63856 | [63856-power-rangers-legends.json](./63856-power-rangers-legends.json) |
+| Power Rangers Online | 383684 | [383684-power-rangers-online.json](./383684-power-rangers-online.json) |
 | Power Rangers S.P.D. | 3292 | [3292-power-rangers-s-p-d.json](./3292-power-rangers-s-p-d.json) |
 | Power Rangers S.P.D.: Escape of the Five Fugitives | 220103 | [220103-power-rangers-s-p-d-escape-of-the-five-fugitives.json](./220103-power-rangers-s-p-d-escape-of-the-five-fugitives.json) |
 | Power Rangers Samurai | 25181 | [25181-power-rangers-samurai.json](./25181-power-rangers-samurai.json) |
