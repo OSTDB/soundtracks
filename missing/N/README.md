@@ -3327,6 +3327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Niravasi | 206735 | [206735-niravasi.json](./206735-niravasi.json) |
 | Niraya of | 309326 | [309326-niraya-of.json](./309326-niraya-of.json) |
 | Nirih | 348325 | [348325-nirih.json](./348325-nirih.json) |
+| Nirin | 380177 | [380177-nirin.json](./380177-nirin.json) |
 | Nirmita | 197367 | [197367-nirmita.json](./197367-nirmita.json) |
 | Nirvana | 331687 | [331687-nirvana.json](./331687-nirvana.json) |
 | Nirvana Pilot Yume | 75518 | [75518-nirvana-pilot-yume.json](./75518-nirvana-pilot-yume.json) |
@@ -4069,6 +4070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Northern Tale 5: Revival | 132019 | [132019-northern-tale-5-revival.json](./132019-northern-tale-5-revival.json) |
 | Northern Tales | 114405 | [114405-northern-tales.json](./114405-northern-tales.json) |
 | Northern Tales 6: Oath to the Gods - Collector's Edition | 296480 | [296480-northern-tales-6-oath-to-the-gods-collectors-edition.json](./296480-northern-tales-6-oath-to-the-gods-collectors-edition.json) |
+| Northflower: The Last Watch | 380222 | [380222-northflower-the-last-watch.json](./380222-northflower-the-last-watch.json) |
 | Northgard | 18918 | [18918-northgard.json](./18918-northgard.json) |
 | Northgard Battlegrounds | 398523 | [398523-northgard-battlegrounds.json](./398523-northgard-battlegrounds.json) |
 | Northgard: Cross of Vidar Expansion Pack | 230821 | [230821-northgard-cross-of-vidar-expansion-pack.json](./230821-northgard-cross-of-vidar-expansion-pack.json) |
