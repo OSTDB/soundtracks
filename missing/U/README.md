@@ -1664,6 +1664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unpossess 2 | 405731 | [405731-unpossess-2.json](./405731-unpossess-2.json) |
 | Unpossible | 17388 | [17388-unpossible.json](./17388-unpossible.json) |
 | unPredictable | 90728 | [90728-unpredictable.json](./90728-unpredictable.json) |
+| Unpredictable Star | 364967 | [364967-unpredictable-star.json](./364967-unpredictable-star.json) |
 | Unpredictable Storyline Twists 2 | 128632 | [128632-unpredictable-storyline-twists-2.json](./128632-unpredictable-storyline-twists-2.json) |
 | Unprotected | 323515 | [323515-unprotected.json](./323515-unprotected.json) |
 | Unquiet Grey | 374183 | [374183-unquiet-grey.json](./374183-unquiet-grey.json) |
