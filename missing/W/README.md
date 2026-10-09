@@ -520,6 +520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War Drone | 386955 | [386955-war-drone.json](./386955-war-drone.json) |
 | War Drones | 74617 | [74617-war-drones.json](./74617-war-drones.json) |
 | War Ender Evolution | 288476 | [288476-war-ender-evolution.json](./288476-war-ender-evolution.json) |
+| War Era Lumberjack | 368283 | [368283-war-era-lumberjack.json](./368283-war-era-lumberjack.json) |
 | War Eternal | 172670 | [172670-war-eternal.json](./172670-war-eternal.json) |
 | War For Galaxy | 250897 | [250897-war-for-galaxy.json](./250897-war-for-galaxy.json) |
 | War for Magincia | 129711 | [129711-war-for-magincia.json](./129711-war-for-magincia.json) |
@@ -5565,6 +5566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wuhan Clan | 191080 | [191080-wuhan-clan.json](./191080-wuhan-clan.json) |
 | Wuhu Island Explorer | 313184 | [313184-wuhu-island-explorer.json](./313184-wuhu-island-explorer.json) |
 | WuJiDaoRen | 216816 | [216816-wujidaoren.json](./216816-wujidaoren.json) |
+| Wújìn Dàlù | 368358 | [368358-wujin-dalu.json](./368358-wujin-dalu.json) |
 | Wujin Zhi Jian Mingyuin | 83840 | [83840-wujin-zhi-jian-mingyuin.json](./83840-wujin-zhi-jian-mingyuin.json) |
 | Wukong 2088 | 373892 | [373892-wukong-2088.json](./373892-wukong-2088.json) |
 | Wukong Sun: Black Legend | 328464 | [328464-wukong-sun-black-legend.json](./328464-wukong-sun-black-legend.json) |
