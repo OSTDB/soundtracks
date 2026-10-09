@@ -553,6 +553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laplace no Ma | 81469 | [81469-laplace-no-ma.json](./81469-laplace-no-ma.json) |
 | Lapland Solitaire | 34626 | [34626-lapland-solitaire.json](./34626-lapland-solitaire.json) |
 | Lappelduvide | 304639 | [304639-lappelduvide.json](./304639-lappelduvide.json) |
+| Lappy Games | 364997 | [364997-lappy-games.json](./364997-lappy-games.json) |
 | Lapse | 111699 | [111699-lapse.json](./111699-lapse.json) |
 | Lapse 2: Before Zero | 134477 | [134477-lapse-2-before-zero.json](./134477-lapse-2-before-zero.json) |
 | Lapse: A Forgotten Future | 77471 | [77471-lapse-a-forgotten-future.json](./77471-lapse-a-forgotten-future.json) |
@@ -4927,6 +4928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Mind | 405022 | [405022-lost-mind.json](./405022-lost-mind.json) |
 | Lost Museum: Echoes of the Chromageists | 416055 | [416055-lost-museum-echoes-of-the-chromageists.json](./416055-lost-museum-echoes-of-the-chromageists.json) |
 | Lost my Collection of 100 Shells | 359574 | [359574-lost-my-collection-of-100-shells.json](./359574-lost-my-collection-of-100-shells.json) |
+| Lost My Collection of 600 Stars | 364959 | [364959-lost-my-collection-of-600-stars.json](./364959-lost-my-collection-of-600-stars.json) |
 | Lost My Collection of Fish | 387594 | [387594-lost-my-collection-of-fish.json](./387594-lost-my-collection-of-fish.json) |
 | Lost My Collection of Fish 2 | 387626 | [387626-lost-my-collection-of-fish-2.json](./387626-lost-my-collection-of-fish-2.json) |
 | Lost Nomad | 297630 | [297630-lost-nomad.json](./297630-lost-nomad.json) |
