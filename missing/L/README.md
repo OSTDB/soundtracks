@@ -2063,6 +2063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lenny! | 186343 | [186343-lenny.json](./186343-lenny.json) |
 | Lenrual | 380692 | [380692-lenrual.json](./380692-lenrual.json) |
 | Lens Gloss | 272236 | [272236-lens-gloss.json](./272236-lens-gloss.json) |
+| LenscraftCube | 373907 | [373907-lenscraftcube.json](./373907-lenscraftcube.json) |
 | Lent: The Easter Bunny - Lent's Adventure: Story One | 215123 | [215123-lent-the-easter-bunny-lents-adventure-story-one.json](./215123-lent-the-easter-bunny-lents-adventure-story-one.json) |
 | Léo | 386726 | [386726-leo.json](./386726-leo.json) |
 | Leo & Leah | 130884 | [130884-leo-and-leah.json](./130884-leo-and-leah.json) |
@@ -3415,6 +3416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Alchemy 2 | 68111 | [68111-little-alchemy-2.json](./68111-little-alchemy-2.json) |
 | Little Amazon | 356196 | [356196-little-amazon.json](./356196-little-amazon.json) |
 | Little Animals: The Wild Race | 328505 | [328505-little-animals-the-wild-race.json](./328505-little-animals-the-wild-race.json) |
+| Little Aquarium | 373863 | [373863-little-aquarium.json](./373863-little-aquarium.json) |
 | Little Artist - Drawing and Coloring Book | 104598 | [104598-little-artist-drawing-and-coloring-book.json](./104598-little-artist-drawing-and-coloring-book.json) |
 | Little Astronaut | 199133 | [199133-little-astronaut.json](./199133-little-astronaut.json) |
 | Little Backpack | 407408 | [407408-little-backpack.json](./407408-little-backpack.json) |
@@ -4655,6 +4657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lose/Lose | 201150 | [201150-lose-lose.json](./201150-lose-lose.json) |
 | Lose95 | 227216 | [227216-lose95.json](./227216-lose95.json) |
 | Loser Got Isekai’d: Gotta Conquer the Girls Before Conquering the World | 395466 | [395466-loser-got-isekai-d-gotta-conquer-the-girls-before-conquering-the-world.json](./395466-loser-got-isekai-d-gotta-conquer-the-girls-before-conquering-the-world.json) |
+| Loser Named Hana | 373880 | [373880-loser-named-hana.json](./373880-loser-named-hana.json) |
 | Loser Reborn | 122179 | [122179-loser-reborn.json](./122179-loser-reborn.json) |
 | Loser Simulator | 305835 | [305835-loser-simulator.json](./305835-loser-simulator.json) |
 | Losing Control | 179061 | [179061-losing-control.json](./179061-losing-control.json) |
