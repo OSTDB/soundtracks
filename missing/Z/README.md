@@ -984,6 +984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Mess | 70987 | [70987-zombie-mess.json](./70987-zombie-mess.json) |
 | Zombie Misfits | 65533 | [65533-zombie-misfits.json](./65533-zombie-misfits.json) |
 | Zombie Murder Hell Arrives | 89946 | [89946-zombie-murder-hell-arrives.json](./89946-zombie-murder-hell-arrives.json) |
+| Zombie Must Dead! | 344886 | [344886-zombie-must-dead.json](./344886-zombie-must-dead.json) |
 | Zombie Mutant DNA | 128959 | [128959-zombie-mutant-dna.json](./128959-zombie-mutant-dna.json) |
 | Zombie Mutant Run | 262338 | [262338-zombie-mutant-run.json](./262338-zombie-mutant-run.json) |
 | Zombie Nation | 48201 | [48201-zombie-nation.json](./48201-zombie-nation.json) |
