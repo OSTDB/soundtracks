@@ -599,6 +599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Take Yutaka G1 Memory | 37795 | [37795-take-yutaka-g1-memory.json](./37795-take-yutaka-g1-memory.json) |
 | Take-out Weight Curling | 70949 | [70949-take-out-weight-curling.json](./70949-take-out-weight-curling.json) |
 | Take-Out Weight Curling 2 | 206617 | [206617-take-out-weight-curling-2.json](./206617-take-out-weight-curling-2.json) |
+| Take7 | 373339 | [373339-take7.json](./373339-take7.json) |
 | Takeda | 71714 | [71714-takeda.json](./71714-takeda.json) |
 | Takeda 2 | 67323 | [67323-takeda-2.json](./67323-takeda-2.json) |
 | Takeda 3 | 24923 | [24923-takeda-3.json](./24923-takeda-3.json) |
@@ -746,6 +747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Chandar | 149681 | [149681-tales-of-chandar.json](./149681-tales-of-chandar.json) |
 | Tales of Corneria | 323906 | [323906-tales-of-corneria.json](./323906-tales-of-corneria.json) |
 | Tales of Cosmos | 27180 | [27180-tales-of-cosmos.json](./27180-tales-of-cosmos.json) |
+| Tales of Demagost: Exodus | 373326 | [373326-tales-of-demagost-exodus.json](./373326-tales-of-demagost-exodus.json) |
 | Tales of Destiny | 229160 | [229160-tales-of-destiny.json](./229160-tales-of-destiny.json) |
 | Tales of Destiny 2 | 1203 | [1203-tales-of-destiny-2.json](./1203-tales-of-destiny-2.json) |
 | Tales of Destiny II | 1202 | [1202-tales-of-destiny-ii.json](./1202-tales-of-destiny-ii.json) |
@@ -5209,6 +5211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Durka: You will (not) die | 154010 | [154010-the-durka-you-will-not-die.json](./154010-the-durka-you-will-not-die.json) |
 | The Dusk Alliance | 250614 | [250614-the-dusk-alliance.json](./250614-the-dusk-alliance.json) |
 | The Dust Below | 183542 | [183542-the-dust-below.json](./183542-the-dust-below.json) |
+| The DvD Idle Game | 373325 | [373325-the-dvd-idle-game.json](./373325-the-dvd-idle-game.json) |
 | The Dwarf Run | 34654 | [34654-the-dwarf-run.json](./34654-the-dwarf-run.json) |
 | The Dwarves | 13164 | [13164-the-dwarves.json](./13164-the-dwarves.json) |
 | The Dynasty Of Cats | 258009 | [258009-the-dynasty-of-cats.json](./258009-the-dynasty-of-cats.json) |
@@ -7498,6 +7501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Heroes: Trails to Azure | 23323 | [23323-the-legend-of-heroes-trails-to-azure.json](./23323-the-legend-of-heroes-trails-to-azure.json) |
 | The Legend of Heroes: Trails to Azure - Deluxe Edition | 249169 | [249169-the-legend-of-heroes-trails-to-azure-deluxe-edition.json](./249169-the-legend-of-heroes-trails-to-azure-deluxe-edition.json) |
 | The Legend of Iowa | 269847 | [269847-the-legend-of-iowa.json](./269847-the-legend-of-iowa.json) |
+| The Legend of Kairo | 373360 | [373360-the-legend-of-kairo.json](./373360-the-legend-of-kairo.json) |
 | The Legend of Karl | 143660 | [143660-the-legend-of-karl.json](./143660-the-legend-of-karl.json) |
 | The Legend of Khiimori | 318175 | [318175-the-legend-of-khiimori.json](./318175-the-legend-of-khiimori.json) |
 | The Legend of Korra: A New Era Begins | 7996 | [7996-the-legend-of-korra-a-new-era-begins.json](./7996-the-legend-of-korra-a-new-era-begins.json) |
@@ -8478,7 +8482,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mythical City | 264232 | [264232-the-mythical-city.json](./264232-the-mythical-city.json) |
 | The Mythical City 4 | 327828 | [327828-the-mythical-city-4.json](./327828-the-mythical-city-4.json) |
 | The Naked Brothers Band: The Video Game | 47955 | [47955-the-naked-brothers-band-the-video-game.json](./47955-the-naked-brothers-band-the-video-game.json) |
-| The Name I Wear | 408022 | [408022-the-name-i-wear.json](./408022-the-name-i-wear.json) |
 | The Nameless | 178458 | [178458-the-nameless.json](./178458-the-nameless.json) |
 | The Nameless Braves: Heaven | 207749 | [207749-the-nameless-braves-heaven.json](./207749-the-nameless-braves-heaven.json) |
 | The Nanny Affair | 313727 | [313727-the-nanny-affair.json](./313727-the-nanny-affair.json) |
@@ -8633,6 +8636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Office | 203564 | [203564-the-office.json](./203564-the-office.json) |
 | The Office | 94901 | [94901-the-office.json](./94901-the-office.json) |
 | The Office Killer | 344386 | [344386-the-office-killer.json](./344386-the-office-killer.json) |
+| The Office Rooms | 373305 | [373305-the-office-rooms.json](./373305-the-office-rooms.json) |
 | The Official Everton FC Intelligensia | 314965 | [314965-the-official-everton-fc-intelligensia.json](./314965-the-official-everton-fc-intelligensia.json) |
 | The Ogi: Cycles | 280250 | [280250-the-ogi-cycles.json](./280250-the-ogi-cycles.json) |
 | The Ogre King | 410446 | [410446-the-ogre-king.json](./410446-the-ogre-king.json) |
@@ -11814,6 +11818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | There's Always a Madman: V.I.C.T.O.R. | 330969 | [330969-theres-always-a-madman-v-i-c-t-o-r.json](./330969-theres-always-a-madman-v-i-c-t-o-r.json) |
 | There's an Only One Way Exit. | 314065 | [314065-theres-an-only-one-way-exit.json](./314065-theres-an-only-one-way-exit.json) |
 | There's Blood in my Soup | 382340 | [382340-theres-blood-in-my-soup.json](./382340-theres-blood-in-my-soup.json) |
+| There's No Differences: Monsters | 373313 | [373313-theres-no-differences-monsters.json](./373313-theres-no-differences-monsters.json) |
 | There's No Dinosaurs 2 | 289970 | [289970-theres-no-dinosaurs-2.json](./289970-theres-no-dinosaurs-2.json) |
 | There's No Dinosaurs 2: Dark | 316239 | [316239-theres-no-dinosaurs-2-dark.json](./316239-theres-no-dinosaurs-2-dark.json) |
 | There's No Dragon! | 325024 | [325024-theres-no-dragon.json](./325024-theres-no-dragon.json) |
@@ -13602,6 +13607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tile Star 2 | 233080 | [233080-tile-star-2.json](./233080-tile-star-2.json) |
 | Tile Tale | 204975 | [204975-tile-tale.json](./204975-tile-tale.json) |
 | Tile Tales: Pirate | 325250 | [325250-tile-tales-pirate.json](./325250-tile-tales-pirate.json) |
+| Tile Tempest | 373338 | [373338-tile-tempest.json](./373338-tile-tempest.json) |
 | Tile Triple 3D | 227509 | [227509-tile-triple-3d.json](./227509-tile-triple-3d.json) |
 | Tile Typer | 81673 | [81673-tile-typer.json](./81673-tile-typer.json) |
 | Tile World | 131408 | [131408-tile-world.json](./131408-tile-world.json) |
@@ -18403,6 +18409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trilogic | 91978 | [91978-trilogic.json](./91978-trilogic.json) |
 | Trilogy of the Moon | 339795 | [339795-trilogy-of-the-moon.json](./339795-trilogy-of-the-moon.json) |
 | Trim For Your Dream | 266270 | [266270-trim-for-your-dream.json](./266270-trim-for-your-dream.json) |
+| Trimjob | 373308 | [373308-trimjob.json](./373308-trimjob.json) |
 | Trimmer Tycoon | 31967 | [31967-trimmer-tycoon.json](./31967-trimmer-tycoon.json) |
 | Trimming Sails | 244336 | [244336-trimming-sails.json](./244336-trimming-sails.json) |
 | Trimorta | 184086 | [184086-trimorta.json](./184086-trimorta.json) |
@@ -18933,6 +18940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Try to Survive | 116552 | [116552-try-to-survive.json](./116552-try-to-survive.json) |
 | Try to Win 2 | 196055 | [196055-try-to-win-2.json](./196055-try-to-win-2.json) |
 | Try. Die. Repeat. | 133875 | [133875-try-die-repeat.json](./133875-try-die-repeat.json) |
+| TryAngle: Shapes Warfare | 373322 | [373322-tryangle-shapes-warfare.json](./373322-tryangle-shapes-warfare.json) |
 | Tryhard | 330935 | [330935-tryhard.json](./330935-tryhard.json) |
 | Trying | 225719 | [225719-trying.json](./225719-trying.json) |
 | Trying to Sing in Static | 230291 | [230291-trying-to-sing-in-static.json](./230291-trying-to-sing-in-static.json) |
