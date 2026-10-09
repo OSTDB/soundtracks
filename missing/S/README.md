@@ -2443,6 +2443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea Plumber 2 | 205029 | [205029-sea-plumber-2.json](./205029-sea-plumber-2.json) |
 | Sea Power: Naval Combat in the Missile Age | 217518 | [217518-sea-power-naval-combat-in-the-missile-age.json](./217518-sea-power-naval-combat-in-the-missile-age.json) |
 | Sea Ranger | 245411 | [245411-sea-ranger.json](./245411-sea-ranger.json) |
+| Sea Ranger | 367839 | [367839-sea-ranger.json](./367839-sea-ranger.json) |
 | Sea Rivals VR | 255160 | [255160-sea-rivals-vr.json](./255160-sea-rivals-vr.json) |
 | Sea Rogue | 237446 | [237446-sea-rogue.json](./237446-sea-rogue.json) |
 | Sea Salt | 96204 | [96204-sea-salt.json](./96204-sea-salt.json) |
@@ -9653,6 +9654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solar Gun | 51558 | [51558-solar-gun.json](./51558-solar-gun.json) |
 | Solar Jetman: Hunt for the Golden Warpship | 7853 | [7853-solar-jetman-hunt-for-the-golden-warpship.json](./7853-solar-jetman-hunt-for-the-golden-warpship.json) |
 | Solar Kingdoms: Human Survival | 295568 | [295568-solar-kingdoms-human-survival.json](./295568-solar-kingdoms-human-survival.json) |
+| Solar Knight | 367821 | [367821-solar-knight.json](./367821-solar-knight.json) |
 | Solar Machina | 399904 | [399904-solar-machina.json](./399904-solar-machina.json) |
 | Solar Minotaur Rescue Frenzy | 66133 | [66133-solar-minotaur-rescue-frenzy.json](./66133-solar-minotaur-rescue-frenzy.json) |
 | Solar Nations 2 | 401711 | [401711-solar-nations-2.json](./401711-solar-nations-2.json) |
