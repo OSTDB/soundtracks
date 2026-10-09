@@ -1419,16 +1419,21 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Achievement Dummy | 110387 | [110387-achievement-dummy.json](./110387-achievement-dummy.json) |
 | Achievement Hunter: Alien | 334767 | [334767-achievement-hunter-alien.json](./334767-achievement-hunter-alien.json) |
 | Achievement Hunter: Cromulent | 368014 | [368014-achievement-hunter-cromulent.json](./368014-achievement-hunter-cromulent.json) |
+| Achievement Hunter: Darkness 2 | 368352 | [368352-achievement-hunter-darkness-2.json](./368352-achievement-hunter-darkness-2.json) |
+| Achievement Hunter: Dogger | 368355 | [368355-achievement-hunter-dogger.json](./368355-achievement-hunter-dogger.json) |
 | Achievement Hunter: Dragon | 334782 | [334782-achievement-hunter-dragon.json](./334782-achievement-hunter-dragon.json) |
+| Achievement Hunter: Extreme | 368374 | [368374-achievement-hunter-extreme.json](./368374-achievement-hunter-extreme.json) |
 | Achievement Hunter: Foxy | 334761 | [334761-achievement-hunter-foxy.json](./334761-achievement-hunter-foxy.json) |
 | Achievement Hunter: Kiborg | 334760 | [334760-achievement-hunter-kiborg.json](./334760-achievement-hunter-kiborg.json) |
 | Achievement Hunter: Knight | 334781 | [334781-achievement-hunter-knight.json](./334781-achievement-hunter-knight.json) |
 | Achievement Hunter: Overdose | 368155 | [368155-achievement-hunter-overdose.json](./368155-achievement-hunter-overdose.json) |
 | Achievement Hunter: Samurai | 334772 | [334772-achievement-hunter-samurai.json](./334772-achievement-hunter-samurai.json) |
+| Achievement Hunter: Scars | 368356 | [368356-achievement-hunter-scars.json](./368356-achievement-hunter-scars.json) |
 | Achievement Hunter: Thief | 334762 | [334762-achievement-hunter-thief.json](./334762-achievement-hunter-thief.json) |
 | Achievement Hunter: Witch | 334780 | [334780-achievement-hunter-witch.json](./334780-achievement-hunter-witch.json) |
 | Achievement Hunter: Wizard | 368633 | [368633-achievement-hunter-wizard.json](./368633-achievement-hunter-wizard.json) |
 | Achievement Hunter: Zombie 2 | 369471 | [369471-achievement-hunter-zombie-2.json](./369471-achievement-hunter-zombie-2.json) |
+| Achievement Hunter: Zombie 3 | 368354 | [368354-achievement-hunter-zombie-3.json](./368354-achievement-hunter-zombie-3.json) |
 | Achievement Idler Black | 95124 | [95124-achievement-idler-black.json](./95124-achievement-idler-black.json) |
 | Achievement Idler: Red | 97229 | [97229-achievement-idler-red.json](./97229-achievement-idler-red.json) |
 | Achievement Lurker: Ballad of the Shimapan Warrior - King of Panties | 102133 | [102133-achievement-lurker-ballad-of-the-shimapan-warrior-king-of-panties.json](./102133-achievement-lurker-ballad-of-the-shimapan-warrior-king-of-panties.json) |
@@ -7699,6 +7704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arena of Taryon | 278609 | [278609-arena-of-taryon.json](./278609-arena-of-taryon.json) |
 | Arena of the Mad King | 234142 | [234142-arena-of-the-mad-king.json](./234142-arena-of-the-mad-king.json) |
 | Arena of the Myths | 205663 | [205663-arena-of-the-myths.json](./205663-arena-of-the-myths.json) |
+| Arena of the Titans | 368365 | [368365-arena-of-the-titans.json](./368365-arena-of-the-titans.json) |
 | Arena of Trophies | 297789 | [297789-arena-of-trophies.json](./297789-arena-of-trophies.json) |
 | Arena Renovation | 110384 | [110384-arena-renovation.json](./110384-arena-renovation.json) |
 | Arena Returns | 351798 | [351798-arena-returns.json](./351798-arena-returns.json) |
