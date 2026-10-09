@@ -6896,6 +6896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Sweet 2th | 141822 | [141822-pokemon-sweet-2th.json](./141822-pokemon-sweet-2th.json) |
 | Pokémon Sword & Pokémon Shield Double Pack | 115652 | [115652-pokemon-sword-and-pokemon-shield-double-pack.json](./115652-pokemon-sword-and-pokemon-shield-double-pack.json) |
 | Pokémon Sword and Shield | 294432 | [294432-pokemon-sword-and-shield.json](./294432-pokemon-sword-and-shield.json) |
+| Pokémon Sword and Shield Ultimate Plus | 334072 | [334072-pokemon-sword-and-shield-ultimate-plus.json](./334072-pokemon-sword-and-shield-ultimate-plus.json) |
 | Pokémon Sword Expansion Pass | 128071 | [128071-pokemon-sword-expansion-pass.json](./128071-pokemon-sword-expansion-pass.json) |
 | Pokémon Sword: The Crown Tundra | 139186 | [139186-pokemon-sword-the-crown-tundra.json](./139186-pokemon-sword-the-crown-tundra.json) |
 | Pokémon Sword: The Isle of Armor | 135164 | [135164-pokemon-sword-the-isle-of-armor.json](./135164-pokemon-sword-the-isle-of-armor.json) |
@@ -10637,6 +10638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pusher | 193439 | [193439-pusher.json](./193439-pusher.json) |
 | Pusher: Drug Tycoon | 259167 | [259167-pusher-drug-tycoon.json](./259167-pusher-drug-tycoon.json) |
 | PushieBlocks | 132047 | [132047-pushieblocks.json](./132047-pushieblocks.json) |
+| Pushika | 334241 | [334241-pushika.json](./334241-pushika.json) |
 | Pushing Crates | 215037 | [215037-pushing-crates.json](./215037-pushing-crates.json) |
 | Pushing It! With Sisyphus | 298033 | [298033-pushing-it-with-sisyphus.json](./298033-pushing-it-with-sisyphus.json) |
 | Pushing the limit | 157098 | [157098-pushing-the-limit.json](./157098-pushing-the-limit.json) |
