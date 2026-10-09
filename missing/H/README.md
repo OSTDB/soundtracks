@@ -1349,6 +1349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haruna: Spring | 398513 | [398513-haruna-spring.json](./398513-haruna-spring.json) |
 | Haruoto Alice Gram: Snow Drop | 113585 | [113585-haruoto-alice-gram-snow-drop.json](./113585-haruoto-alice-gram-snow-drop.json) |
 | Harusame Youbi | 71191 | [71191-harusame-youbi.json](./71191-harusame-youbi.json) |
+| Harventure | 349279 | [349279-harventure.json](./349279-harventure.json) |
 | Harvest | 229365 | [229365-harvest.json](./229365-harvest.json) |
 | Harvest | 99400 | [99400-harvest.json](./99400-harvest.json) |
 | Harvest Bliss | 302374 | [302374-harvest-bliss.json](./302374-harvest-bliss.json) |
