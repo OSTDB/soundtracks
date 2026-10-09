@@ -1583,6 +1583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scaffold | 400460 | [400460-scaffold.json](./400460-scaffold.json) |
 | Scaffolder | 195056 | [195056-scaffolder.json](./195056-scaffolder.json) |
 | Scale | 9042 | [9042-scale.json](./9042-scale.json) |
+| Scale Bullet: After Story | 358265 | [358265-scale-bullet-after-story.json](./358265-scale-bullet-after-story.json) |
 | Scale Mail | 393781 | [393781-scale-mail.json](./393781-scale-mail.json) |
 | Scale Of Survival | 398692 | [398692-scale-of-survival.json](./398692-scale-of-survival.json) |
 | Scale Star | 97686 | [97686-scale-star.json](./97686-scale-star.json) |
@@ -4496,6 +4497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shaq Fu: A Legend Reborn | 51679 | [51679-shaq-fu-a-legend-reborn.json](./51679-shaq-fu-a-legend-reborn.json) |
 | Shaq-Fu | 8536 | [8536-shaq-fu.json](./8536-shaq-fu.json) |
 | Shaqing | 298281 | [298281-shaqing.json](./298281-shaqing.json) |
+| ShaQu | 358233 | [358233-shaqu.json](./358233-shaqu.json) |
 | Shard of Kronos | 163967 | [163967-shard-of-kronos.json](./163967-shard-of-kronos.json) |
 | Shard of Spring | 2884 | [2884-shard-of-spring.json](./2884-shard-of-spring.json) |
 | Shard Squad | 323529 | [323529-shard-squad.json](./323529-shard-squad.json) |
@@ -4664,6 +4666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | She Was 98 | 385327 | [385327-she-was-98.json](./385327-she-was-98.json) |
 | She Who Fights Monsters: Choice Edition | 186168 | [186168-she-who-fights-monsters-choice-edition.json](./186168-she-who-fights-monsters-choice-edition.json) |
 | She Will Shoot | 173250 | [173250-she-will-shoot.json](./173250-she-will-shoot.json) |
+| SHE: Seraphim Helix Experiment | 404877 | [404877-she-seraphim-helix-experiment.json](./404877-she-seraphim-helix-experiment.json) |
 | She's a Bit Sluggish | 179109 | [179109-shes-a-bit-sluggish.json](./179109-shes-a-bit-sluggish.json) |
 | She's Got a Thing for a Spring | 217773 | [217773-shes-got-a-thing-for-a-spring.json](./217773-shes-got-a-thing-for-a-spring.json) |
 | She's Leaving | 342811 | [342811-shes-leaving.json](./342811-shes-leaving.json) |
@@ -9418,6 +9421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soar Up The Charts | 310068 | [310068-soar-up-the-charts.json](./310068-soar-up-the-charts.json) |
 | Soaring Perl Tom | 120752 | [120752-soaring-perl-tom.json](./120752-soaring-perl-tom.json) |
 | Soarocity | 169838 | [169838-soarocity.json](./169838-soarocity.json) |
+| Soba's Gunpaw | 358227 | [358227-sobas-gunpaw.json](./358227-sobas-gunpaw.json) |
 | Sobreviva Ziggy! | 329012 | [329012-sobreviva-ziggy.json](./329012-sobreviva-ziggy.json) |
 | Soccer | 172594 | [172594-soccer.json](./172594-soccer.json) |
 | Soccer | 18441 | [18441-soccer.json](./18441-soccer.json) |
@@ -13307,6 +13311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Splatoon | 7335 | [7335-splatoon.json](./7335-splatoon.json) |
 | Splatoon 2 | 26761 | [26761-splatoon-2.json](./26761-splatoon-2.json) |
 | Splatoon 2 + Splatoon 2 Octo Expansion Bundle | 136382 | [136382-splatoon-2-splatoon-2-octo-expansion-bundle.json](./136382-splatoon-2-splatoon-2-octo-expansion-bundle.json) |
+| Splatoon 3: Rainbow Alterna | 358239 | [358239-splatoon-3-rainbow-alterna.json](./358239-splatoon-3-rainbow-alterna.json) |
 | Splatoon Raiders | 348977 | [348977-splatoon-raiders.json](./348977-splatoon-raiders.json) |
 | Splatoon: Torrential Climb | 316713 | [316713-splatoon-torrential-climb.json](./316713-splatoon-torrential-climb.json) |
 | Splatt Curling | 261224 | [261224-splatt-curling.json](./261224-splatt-curling.json) |
@@ -13399,6 +13404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpongeBob SquarePants: Battle for Bikini Bottom - Beta Mod | 413219 | [413219-spongebob-squarepants-battle-for-bikini-bottom-beta-mod.json](./413219-spongebob-squarepants-battle-for-bikini-bottom-beta-mod.json) |
 | SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated | 119239 | [119239-spongebob-squarepants-battle-for-bikini-bottom-rehydrated.json](./119239-spongebob-squarepants-battle-for-bikini-bottom-rehydrated.json) |
 | SpongeBob SquarePants: Battle for Bikini Bottom - Sock Expedition Extreme | 308374 | [308374-spongebob-squarepants-battle-for-bikini-bottom-sock-expedition-extreme.json](./308374-spongebob-squarepants-battle-for-bikini-bottom-sock-expedition-extreme.json) |
+| SpongeBob SquarePants: Battle for Bikini Bottom Deluxe | 358255 | [358255-spongebob-squarepants-battle-for-bikini-bottom-deluxe.json](./358255-spongebob-squarepants-battle-for-bikini-bottom-deluxe.json) |
 | SpongeBob SquarePants: Bikini Bottom 500 | 220117 | [220117-spongebob-squarepants-bikini-bottom-500.json](./220117-spongebob-squarepants-bikini-bottom-500.json) |
 | SpongeBob SquarePants: Bundle | 286514 | [286514-spongebob-squarepants-bundle.json](./286514-spongebob-squarepants-bundle.json) |
 | Spongebob Squarepants: Clash of Triton | 285586 | [285586-spongebob-squarepants-clash-of-triton.json](./285586-spongebob-squarepants-clash-of-triton.json) |
@@ -14363,6 +14369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Fox 2D: War of Lylat | 324097 | [324097-star-fox-2d-war-of-lylat.json](./324097-star-fox-2d-war-of-lylat.json) |
 | Star Fox 64 (1995) | 315034 | [315034-star-fox-64-1995.json](./315034-star-fox-64-1995.json) |
 | Star Fox 64 3D | 6890 | [6890-star-fox-64-3d.json](./6890-star-fox-64-3d.json) |
+| Star Fox 64: On-Foot Mode | 358252 | [358252-star-fox-64-on-foot-mode.json](./358252-star-fox-64-on-foot-mode.json) |
 | Star Fox 64: Survival | 146269 | [146269-star-fox-64-survival.json](./146269-star-fox-64-survival.json) |
 | Star Fox Adventures | 2686 | [2686-star-fox-adventures.json](./2686-star-fox-adventures.json) |
 | Star Fox EX: Exploration Showcase | 233556 | [233556-star-fox-ex-exploration-showcase.json](./233556-star-fox-ex-exploration-showcase.json) |
@@ -16608,6 +16615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stratapath TD | 390662 | [390662-stratapath-td.json](./390662-stratapath-td.json) |
 | StratDots RTS | 381138 | [381138-stratdots-rts.json](./381138-stratdots-rts.json) |
 | Strategems | 353271 | [353271-strategems.json](./353271-strategems.json) |
+| Strategic Bastion | 358231 | [358231-strategic-bastion.json](./358231-strategic-bastion.json) |
 | Strategic Command Classic: WWI | 77003 | [77003-strategic-command-classic-wwi.json](./77003-strategic-command-classic-wwi.json) |
 | Strategic Command Classic: WWI | 77054 | [77054-strategic-command-classic-wwi.json](./77054-strategic-command-classic-wwi.json) |
 | Strategic Command Classic: WWII | 96683 | [96683-strategic-command-classic-wwii.json](./96683-strategic-command-classic-wwii.json) |
@@ -19130,6 +19138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Bros. MM | 322779 | [322779-super-mario-bros-mm.json](./322779-super-mario-bros-mm.json) |
 | Super Mario Bros. Next | 225548 | [225548-super-mario-bros-next.json](./225548-super-mario-bros-next.json) |
 | Super Mario Bros. Peach's Adventure | 142383 | [142383-super-mario-bros-peachs-adventure.json](./142383-super-mario-bros-peachs-adventure.json) |
+| Super Mario Bros. Remastered | 358244 | [358244-super-mario-bros-remastered.json](./358244-super-mario-bros-remastered.json) |
 | Super Mario Bros. SNES | 377742 | [377742-super-mario-bros-snes.json](./377742-super-mario-bros-snes.json) |
 | Super Mario Bros. SNES Days | 321586 | [321586-super-mario-bros-snes-days.json](./321586-super-mario-bros-snes-days.json) |
 | Super Mario Bros. SNES Days 2 | 321585 | [321585-super-mario-bros-snes-days-2.json](./321585-super-mario-bros-snes-days-2.json) |
@@ -21363,6 +21372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swordbreaker: The Game - Deluxe Edition | 53698 | [53698-swordbreaker-the-game-deluxe-edition.json](./53698-swordbreaker-the-game-deluxe-edition.json) |
 | Swordcery | 175772 | [175772-swordcery.json](./175772-swordcery.json) |
 | Swordfight | 40794 | [40794-swordfight.json](./40794-swordfight.json) |
+| Swordflight | 358271 | [358271-swordflight.json](./358271-swordflight.json) |
 | Swordhaven: Iron Conspiracy | 290620 | [290620-swordhaven-iron-conspiracy.json](./290620-swordhaven-iron-conspiracy.json) |
 | Swordia | 309882 | [309882-swordia.json](./309882-swordia.json) |
 | Swordian Hero | 155679 | [155679-swordian-hero.json](./155679-swordian-hero.json) |
