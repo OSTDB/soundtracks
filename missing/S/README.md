@@ -8845,6 +8845,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sneak Thief - Prime Catch | 386341 | [386341-sneak-thief-prime-catch.json](./386341-sneak-thief-prime-catch.json) |
 | Sneak Thief 2: Second Strike | 386345 | [386345-sneak-thief-2-second-strike.json](./386345-sneak-thief-2-second-strike.json) |
 | Sneak Thief 3: Triple Trouble | 386349 | [386349-sneak-thief-3-triple-trouble.json](./386349-sneak-thief-3-triple-trouble.json) |
+| Sneak Thief 4: Fourth Find | 386510 | [386510-sneak-thief-4-fourth-find.json](./386510-sneak-thief-4-fourth-find.json) |
+| Sneak Thief 5: Final Five | 386513 | [386513-sneak-thief-5-final-five.json](./386513-sneak-thief-5-final-five.json) |
 | SneakBit | 326712 | [326712-sneakbit.json](./326712-sneakbit.json) |
 | Sneaker Store Simulator | 389965 | [389965-sneaker-store-simulator.json](./389965-sneaker-store-simulator.json) |
 | Sneakers | 6053 | [6053-sneakers.json](./6053-sneakers.json) |
@@ -15911,6 +15913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stickya Adventurya | 314648 | [314648-stickya-adventurya.json](./314648-stickya-adventurya.json) |
 | Stickyban | 338736 | [338736-stickyban.json](./338736-stickyban.json) |
 | Stien | 184450 | [184450-stien.json](./184450-stien.json) |
+| Stiff Neck | 386508 | [386508-stiff-neck.json](./386508-stiff-neck.json) |
 | Stifled | 31655 | [31655-stifled.json](./31655-stifled.json) |
 | Stig | 295541 | [295541-stig.json](./295541-stig.json) |
 | Stigma: The Salem Legacy | 373686 | [373686-stigma-the-salem-legacy.json](./373686-stigma-the-salem-legacy.json) |
@@ -16546,6 +16549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Fighter 6: Deluxe Edition | 228737 | [228737-street-fighter-6-deluxe-edition.json](./228737-street-fighter-6-deluxe-edition.json) |
 | Street Fighter 6: Lenticular Edition | 239145 | [239145-street-fighter-6-lenticular-edition.json](./239145-street-fighter-6-lenticular-edition.json) |
 | Street Fighter 6: Mad Gear Box | 239146 | [239146-street-fighter-6-mad-gear-box.json](./239146-street-fighter-6-mad-gear-box.json) |
+| Street Fighter 6: Reniala Remains Stage | 386462 | [386462-street-fighter-6-reniala-remains-stage.json](./386462-street-fighter-6-reniala-remains-stage.json) |
 | Street Fighter 6: Return of Shadaloo | 309335 | [309335-street-fighter-6-return-of-shadaloo.json](./309335-street-fighter-6-return-of-shadaloo.json) |
 | Street Fighter 6: Ultimate Edition | 251691 | [251691-street-fighter-6-ultimate-edition.json](./251691-street-fighter-6-ultimate-edition.json) |
 | Street Fighter 6: Year 1 - A.K.I. | 251657 | [251657-street-fighter-6-year-1-a-k-i.json](./251657-street-fighter-6-year-1-a-k-i.json) |
