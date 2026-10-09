@@ -2128,6 +2128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teenage Mutant Ninja Turtles IV: Turtles in Time | 14697 | [14697-teenage-mutant-ninja-turtles-iv-turtles-in-time.json](./14697-teenage-mutant-ninja-turtles-iv-turtles-in-time.json) |
 | Teenage Mutant Ninja Turtles of Rage | 314988 | [314988-teenage-mutant-ninja-turtles-of-rage.json](./314988-teenage-mutant-ninja-turtles-of-rage.json) |
 | Teenage Mutant Ninja Turtles SNES | 377744 | [377744-teenage-mutant-ninja-turtles-snes.json](./377744-teenage-mutant-ninja-turtles-snes.json) |
+| Teenage Mutant Ninja Turtles x Hello Kitty and Friends | 362718 | [362718-teenage-mutant-ninja-turtles-x-hello-kitty-and-friends.json](./362718-teenage-mutant-ninja-turtles-x-hello-kitty-and-friends.json) |
 | Teenage Mutant Ninja Turtles: Arcade Attack | 21156 | [21156-teenage-mutant-ninja-turtles-arcade-attack.json](./21156-teenage-mutant-ninja-turtles-arcade-attack.json) |
 | Teenage Mutant Ninja Turtles: Battle of the City | 146105 | [146105-teenage-mutant-ninja-turtles-battle-of-the-city.json](./146105-teenage-mutant-ninja-turtles-battle-of-the-city.json) |
 | Teenage Mutant Ninja Turtles: Brothers Unite | 61238 | [61238-teenage-mutant-ninja-turtles-brothers-unite.json](./61238-teenage-mutant-ninja-turtles-brothers-unite.json) |
@@ -4191,6 +4192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The BuildSphere: Rise of the Anomalbots | 193504 | [193504-the-buildsphere-rise-of-the-anomalbots.json](./193504-the-buildsphere-rise-of-the-anomalbots.json) |
 | The Bullet Hopper | 268229 | [268229-the-bullet-hopper.json](./268229-the-bullet-hopper.json) |
 | The Bundle of Wonders | 173792 | [173792-the-bundle-of-wonders.json](./173792-the-bundle-of-wonders.json) |
+| The Bunny Burrow | 362738 | [362738-the-bunny-burrow.json](./362738-the-bunny-burrow.json) |
 | The BunnyLord Pro Hater Pack | 82412 | [82412-the-bunnylord-pro-hater-pack.json](./82412-the-bunnylord-pro-hater-pack.json) |
 | The Bunnyman | 224579 | [224579-the-bunnyman.json](./224579-the-bunnyman.json) |
 | The Bunnyman | 263442 | [263442-the-bunnyman.json](./263442-the-bunnyman.json) |
@@ -5900,6 +5902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fountain War | 110264 | [110264-the-fountain-war.json](./110264-the-fountain-war.json) |
 | The Four Kings Casino and Slots | 16797 | [16797-the-four-kings-casino-and-slots.json](./16797-the-four-kings-casino-and-slots.json) |
 | The Four Old Gods | 136442 | [136442-the-four-old-gods.json](./136442-the-four-old-gods.json) |
+| The Four Rooms | 362727 | [362727-the-four-rooms.json](./362727-the-four-rooms.json) |
 | The Fourteen Day Letters | 411627 | [411627-the-fourteen-day-letters.json](./411627-the-fourteen-day-letters.json) |
 | The Fourth Age: Total War | 356261 | [356261-the-fourth-age-total-war.json](./356261-the-fourth-age-total-war.json) |
 | The Fourth Generation | 72693 | [72693-the-fourth-generation.json](./72693-the-fourth-generation.json) |
@@ -7300,6 +7303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Mothership | 390765 | [390765-the-last-mothership.json](./390765-the-last-mothership.json) |
 | The Last Night | 18285 | [18285-the-last-night.json](./18285-the-last-night.json) |
 | The Last Ninja | 8400 | [8400-the-last-ninja.json](./8400-the-last-ninja.json) |
+| The Last Ninja Collection + Bonus Games | 362742 | [362742-the-last-ninja-collection-bonus-games.json](./362742-the-last-ninja-collection-bonus-games.json) |
 | The Last Ninja Twins | 370282 | [370282-the-last-ninja-twins.json](./370282-the-last-ninja-twins.json) |
 | The Last Nordic Tribe | 333071 | [333071-the-last-nordic-tribe.json](./333071-the-last-nordic-tribe.json) |
 | The Last Oasis Before Chastity | 298121 | [298121-the-last-oasis-before-chastity.json](./298121-the-last-oasis-before-chastity.json) |
@@ -8676,6 +8680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Odyssey of Commander Cookie | 350034 | [350034-the-odyssey-of-commander-cookie.json](./350034-the-odyssey-of-commander-cookie.json) |
 | The Odyssey of the Mammoth | 191831 | [191831-the-odyssey-of-the-mammoth.json](./191831-the-odyssey-of-the-mammoth.json) |
 | The Odyssey: Winds of Athena | 69579 | [69579-the-odyssey-winds-of-athena.json](./69579-the-odyssey-winds-of-athena.json) |
+| The Oeuvre | 362729 | [362729-the-oeuvre.json](./362729-the-oeuvre.json) |
 | The Offering | 238754 | [238754-the-offering.json](./238754-the-offering.json) |
 | The Office | 203564 | [203564-the-office.json](./203564-the-office.json) |
 | The Office | 94901 | [94901-the-office.json](./94901-the-office.json) |
@@ -19811,6 +19816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Two Heads of the Coin | 86082 | [86082-two-heads-of-the-coin.json](./86082-two-heads-of-the-coin.json) |
 | Two Hoops | 234317 | [234317-two-hoops.json](./234317-two-hoops.json) |
 | Two Hour Escape Mystery: A Puzzling Voyage | 272902 | [272902-two-hour-escape-mystery-a-puzzling-voyage.json](./272902-two-hour-escape-mystery-a-puzzling-voyage.json) |
+| Two Hundred Fifty Six | 362731 | [362731-two-hundred-fifty-six.json](./362731-two-hundred-fifty-six.json) |
 | Two Hundred Ways | 166636 | [166636-two-hundred-ways.json](./166636-two-hundred-ways.json) |
 | Two Identical | 207406 | [207406-two-identical.json](./207406-two-identical.json) |
 | Two Kinds of People | 410827 | [410827-two-kinds-of-people.json](./410827-two-kinds-of-people.json) |
