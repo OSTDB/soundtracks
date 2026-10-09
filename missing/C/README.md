@@ -1781,6 +1781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cash Horse - Match 3 Puzzle Adventure | 141793 | [141793-cash-horse-match-3-puzzle-adventure.json](./141793-cash-horse-match-3-puzzle-adventure.json) |
 | Cash Invaders | 92826 | [92826-cash-invaders.json](./92826-cash-invaders.json) |
 | Cash is King! | 397405 | [397405-cash-is-king.json](./397405-cash-is-king.json) |
+| Cash Laundry Simulator | 365560 | [365560-cash-laundry-simulator.json](./365560-cash-laundry-simulator.json) |
 | Cash Movers | 407286 | [407286-cash-movers.json](./407286-cash-movers.json) |
 | Cash Royale: Block Puzzle Game | 125892 | [125892-cash-royale-block-puzzle-game.json](./125892-cash-royale-block-puzzle-game.json) |
 | Cash Sprint | 384674 | [384674-cash-sprint.json](./384674-cash-sprint.json) |
@@ -2609,6 +2610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cats vs Cthulhu | 327957 | [327957-cats-vs-cthulhu.json](./327957-cats-vs-cthulhu.json) |
 | Cats vs Trolls | 394763 | [394763-cats-vs-trolls.json](./394763-cats-vs-trolls.json) |
 | Cats vs. Aliens | 295561 | [295561-cats-vs-aliens.json](./295561-cats-vs-aliens.json) |
+| Cats vs. Dogs | 365543 | [365543-cats-vs-dogs.json](./365543-cats-vs-dogs.json) |
 | Cats vs. Rats | 372029 | [372029-cats-vs-rats.json](./372029-cats-vs-rats.json) |
 | Cats War | 303723 | [303723-cats-war.json](./303723-cats-war.json) |
 | Cats With Standards | 374409 | [374409-cats-with-standards.json](./374409-cats-with-standards.json) |
@@ -9547,6 +9549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crayola Scoot | 104980 | [104980-crayola-scoot.json](./104980-crayola-scoot.json) |
 | Crayola Treasure Adventures | 21363 | [21363-crayola-treasure-adventures.json](./21363-crayola-treasure-adventures.json) |
 | Crayola: Make a Masterpiece | 133804 | [133804-crayola-make-a-masterpiece.json](./133804-crayola-make-a-masterpiece.json) |
+| Crayon Car | 365544 | [365544-crayon-car.json](./365544-crayon-car.json) |
 | Crayon Christmas | 380704 | [380704-crayon-christmas.json](./380704-crayon-christmas.json) |
 | Crayon Chronicles | 35950 | [35950-crayon-chronicles.json](./35950-crayon-chronicles.json) |
 | Crayon Computer | 284989 | [284989-crayon-computer.json](./284989-crayon-computer.json) |
@@ -9931,6 +9934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creepy Dungeons Heroes | 226744 | [226744-creepy-dungeons-heroes.json](./226744-creepy-dungeons-heroes.json) |
 | Creepy Forest | 224613 | [224613-creepy-forest.json](./224613-creepy-forest.json) |
 | Creepy Halloween Differences | 234172 | [234172-creepy-halloween-differences.json](./234172-creepy-halloween-differences.json) |
+| Creepy Person | 365542 | [365542-creepy-person.json](./365542-creepy-person.json) |
 | Creepy Races | 44192 | [44192-creepy-races.json](./44192-creepy-races.json) |
 | Creepy Redneck Dinosaur Mansion 1 Re-Raptored | 356682 | [356682-creepy-redneck-dinosaur-mansion-1-re-raptored.json](./356682-creepy-redneck-dinosaur-mansion-1-re-raptored.json) |
 | Creepy Redneck Dinosaur Mansion 3 | 333174 | [333174-creepy-redneck-dinosaur-mansion-3.json](./333174-creepy-redneck-dinosaur-mansion-3.json) |
@@ -10324,6 +10328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cross Numbers | 153888 | [153888-cross-numbers.json](./153888-cross-numbers.json) |
 | Cross or Crash | 241993 | [241993-cross-or-crash.json](./241993-cross-or-crash.json) |
 | Cross Pix 2 | 363970 | [363970-cross-pix-2.json](./363970-cross-pix-2.json) |
+| Cross Pix 3 | 365545 | [365545-cross-pix-3.json](./365545-cross-pix-3.json) |
 | Cross Princess | 149499 | [149499-cross-princess.json](./149499-cross-princess.json) |
 | Cross Reunion | 237652 | [237652-cross-reunion.json](./237652-cross-reunion.json) |
 | Cross Review World | 178951 | [178951-cross-review-world.json](./178951-cross-review-world.json) |
