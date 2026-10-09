@@ -419,6 +419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairy Knights | 105943 | [105943-fairy-knights.json](./105943-fairy-knights.json) |
 | Fairy Lands: Rinka and the Fairy Gems | 52096 | [52096-fairy-lands-rinka-and-the-fairy-gems.json](./52096-fairy-lands-rinka-and-the-fairy-gems.json) |
 | Fairy Magic Skillz Tournaments | 232487 | [232487-fairy-magic-skillz-tournaments.json](./232487-fairy-magic-skillz-tournaments.json) |
+| Fairy Massage | 347664 | [347664-fairy-massage.json](./347664-fairy-massage.json) |
 | Fairy Nook | 364627 | [364627-fairy-nook.json](./364627-fairy-nook.json) |
 | Fairy of the treasures | 81823 | [81823-fairy-of-the-treasures.json](./81823-fairy-of-the-treasures.json) |
 | Fairy Picturebook of Hero and Sorceress | 113698 | [113698-fairy-picturebook-of-hero-and-sorceress.json](./113698-fairy-picturebook-of-hero-and-sorceress.json) |
@@ -6553,6 +6554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fractured | 391691 | [391691-fractured.json](./391691-fractured.json) |
 | Fractured Alliance | 265588 | [265588-fractured-alliance.json](./265588-fractured-alliance.json) |
 | Fractured Balance | 352290 | [352290-fractured-balance.json](./352290-fractured-balance.json) |
+| Fractured Blooms | 347648 | [347648-fractured-blooms.json](./347648-fractured-blooms.json) |
 | Fractured Dreams | 229646 | [229646-fractured-dreams.json](./229646-fractured-dreams.json) |
 | Fractured Fury | 244216 | [244216-fractured-fury.json](./244216-fractured-fury.json) |
 | Fractured Lands | 102871 | [102871-fractured-lands.json](./102871-fractured-lands.json) |
