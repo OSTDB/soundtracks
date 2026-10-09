@@ -103,6 +103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ud Rēa | 390128 | [390128-ud-rea.json](./390128-ud-rea.json) |
 | Uda Game | 187224 | [187224-uda-game.json](./187224-uda-game.json) |
 | UDAA | 329940 | [329940-udaa.json](./329940-udaa.json) |
+| Udder | 361080 | [361080-udder.json](./361080-udder.json) |
 | Udderly Tickets | 66689 | [66689-udderly-tickets.json](./66689-udderly-tickets.json) |
 | Uden at prale - det er Harry | 127973 | [127973-uden-at-prale-det-er-harry.json](./127973-uden-at-prale-det-er-harry.json) |
 | UDO | 244735 | [244735-udo.json](./244735-udo.json) |
@@ -903,6 +904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uncle Neighbor | 126415 | [126415-uncle-neighbor.json](./126415-uncle-neighbor.json) |
 | Uncle Office: Uncle Dating Simulator | 174089 | [174089-uncle-office-uncle-dating-simulator.json](./174089-uncle-office-uncle-dating-simulator.json) |
 | Uncle Poo | 69364 | [69364-uncle-poo.json](./69364-uncle-poo.json) |
+| Uncle Sam's Supermarket Simulator | 361045 | [361045-uncle-sams-supermarket-simulator.json](./361045-uncle-sams-supermarket-simulator.json) |
 | Uncle Slam Vice Squad | 255723 | [255723-uncle-slam-vice-squad.json](./255723-uncle-slam-vice-squad.json) |
 | Uncle Ted | 169380 | [169380-uncle-ted.json](./169380-uncle-ted.json) |
 | Uncle Unco | 322752 | [322752-uncle-unco.json](./322752-uncle-unco.json) |
