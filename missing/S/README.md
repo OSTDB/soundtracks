@@ -3982,6 +3982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Archery | 96276 | [96276-shadow-archery.json](./96276-shadow-archery.json) |
 | Shadow Arena | 125357 | [125357-shadow-arena.json](./125357-shadow-arena.json) |
 | Shadow Asylum | 180610 | [180610-shadow-asylum.json](./180610-shadow-asylum.json) |
+| Shadow Bashing | 339862 | [339862-shadow-bashing.json](./339862-shadow-bashing.json) |
 | Shadow Basketball | 145576 | [145576-shadow-basketball.json](./145576-shadow-basketball.json) |
 | Shadow Blade | 20932 | [20932-shadow-blade.json](./20932-shadow-blade.json) |
 | Shadow Blade Zero | 174864 | [174864-shadow-blade-zero.json](./174864-shadow-blade-zero.json) |
@@ -10005,6 +10006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire Quest: Garden Story | 260395 | [260395-solitaire-quest-garden-story.json](./260395-solitaire-quest-garden-story.json) |
 | Solitaire Quest: Love Blossoms | 340354 | [340354-solitaire-quest-love-blossoms.json](./340354-solitaire-quest-love-blossoms.json) |
 | Solitaire Retro | 102598 | [102598-solitaire-retro.json](./102598-solitaire-retro.json) |
+| Solitaire Royale | 339853 | [339853-solitaire-royale.json](./339853-solitaire-royale.json) |
 | Solitaire Royale | 400982 | [400982-solitaire-royale.json](./400982-solitaire-royale.json) |
 | Solitaire Royale | 400988 | [400988-solitaire-royale.json](./400988-solitaire-royale.json) |
 | Solitaire Royale | 400989 | [400989-solitaire-royale.json](./400989-solitaire-royale.json) |
@@ -19439,6 +19441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario World 2025 | 378564 | [378564-super-mario-world-2025.json](./378564-super-mario-world-2025.json) |
 | Super Mario World 64 | 230538 | [230538-super-mario-world-64.json](./230538-super-mario-world-64.json) |
 | Super Mario World Odyssey | 247185 | [247185-super-mario-world-odyssey.json](./247185-super-mario-world-odyssey.json) |
+| Super Mario World Remastered | 339866 | [339866-super-mario-world-remastered.json](./339866-super-mario-world-remastered.json) |
 | Super Mario World Rumbled | 377736 | [377736-super-mario-world-rumbled.json](./377736-super-mario-world-rumbled.json) |
 | Super Mario World The Pit Version | 267973 | [267973-super-mario-world-the-pit-version.json](./267973-super-mario-world-the-pit-version.json) |
 | Super Mario World U | 336106 | [336106-super-mario-world-u.json](./336106-super-mario-world-u.json) |
