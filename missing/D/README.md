@@ -1325,6 +1325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkside | 60515 | [60515-darkside.json](./60515-darkside.json) |
 | Darkside | 78657 | [78657-darkside.json](./78657-darkside.json) |
 | Darksiders II: Limited Edition | 216196 | [216196-darksiders-ii-limited-edition.json](./216196-darksiders-ii-limited-edition.json) |
+| Darksiders II: Season Pass | 343755 | [343755-darksiders-ii-season-pass.json](./343755-darksiders-ii-season-pass.json) |
 | Darksiders III: Blades & Whip Edition | 119079 | [119079-darksiders-iii-blades-and-whip-edition.json](./119079-darksiders-iii-blades-and-whip-edition.json) |
 | Darksiders III: Collector's Edition | 45985 | [45985-darksiders-iii-collectors-edition.json](./45985-darksiders-iii-collectors-edition.json) |
 | Darksiders III: The Crucible | 115645 | [115645-darksiders-iii-the-crucible.json](./115645-darksiders-iii-the-crucible.json) |
@@ -3246,6 +3247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defect | 21928 | [21928-defect.json](./21928-defect.json) |
 | Defect | 313764 | [313764-defect.json](./313764-defect.json) |
 | Defect Process | 173029 | [173029-defect-process.json](./173029-defect-process.json) |
+| Defective | 343738 | [343738-defective.json](./343738-defective.json) |
 | Defence Agent Gaya | 82906 | [82906-defence-agent-gaya.json](./82906-defence-agent-gaya.json) |
 | Defence of the Arcane Realms | 298679 | [298679-defence-of-the-arcane-realms.json](./298679-defence-of-the-arcane-realms.json) |
 | Defence War | 131322 | [131322-defence-war.json](./131322-defence-war.json) |
@@ -4212,6 +4214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desert Witch | 291693 | [291693-desert-witch.json](./291693-desert-witch.json) |
 | Deserted | 149203 | [149203-deserted.json](./149203-deserted.json) |
 | Deserted Island | 138823 | [138823-deserted-island.json](./138823-deserted-island.json) |
+| Deserted Island | 343742 | [343742-deserted-island.json](./343742-deserted-island.json) |
 | Deserter | 323940 | [323940-deserter.json](./323940-deserter.json) |
 | Deserter Simulator | 34791 | [34791-deserter-simulator.json](./34791-deserter-simulator.json) |
 | Deserter: Prologue | 364985 | [364985-deserter-prologue.json](./364985-deserter-prologue.json) |
@@ -6473,6 +6476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Divine Intervention (Pt. 1) | 141017 | [141017-divine-intervention-pt-1.json](./141017-divine-intervention-pt-1.json) |
 | Divine Journey: The Life of Jesus | 280199 | [280199-divine-journey-the-life-of-jesus.json](./280199-divine-journey-the-life-of-jesus.json) |
 | Divine Justice Zero | 65757 | [65757-divine-justice-zero.json](./65757-divine-justice-zero.json) |
+| Divine Legacy: Neo Amburia | 343739 | [343739-divine-legacy-neo-amburia.json](./343739-divine-legacy-neo-amburia.json) |
 | Divine Miko Koyori | 122451 | [122451-divine-miko-koyori.json](./122451-divine-miko-koyori.json) |
 | Divine Orders | 333108 | [333108-divine-orders.json](./333108-divine-orders.json) |
 | Divine Right | 175240 | [175240-divine-right.json](./175240-divine-right.json) |
@@ -9976,6 +9980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drone Break | 292765 | [292765-drone-break.json](./292765-drone-break.json) |
 | Drone Combat | 127013 | [127013-drone-combat.json](./127013-drone-combat.json) |
 | Drone Crash Course | 190171 | [190171-drone-crash-course.json](./190171-drone-crash-course.json) |
+| Drone Dash | 343746 | [343746-drone-dash.json](./343746-drone-dash.json) |
 | Drone Delivery Express: City Simulator | 389052 | [389052-drone-delivery-express-city-simulator.json](./389052-drone-delivery-express-city-simulator.json) |
 | Drone Delivery Simulator | 286211 | [286211-drone-delivery-simulator.json](./286211-drone-delivery-simulator.json) |
 | Drone Gladiator | 154057 | [154057-drone-gladiator.json](./154057-drone-gladiator.json) |
