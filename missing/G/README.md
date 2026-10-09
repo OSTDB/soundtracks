@@ -3995,6 +3995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gombo | 277616 | [277616-gombo.json](./277616-gombo.json) |
 | Gomenne Angel: Yokohama Monogatari | 271463 | [271463-gomenne-angel-yokohama-monogatari.json](./271463-gomenne-angel-yokohama-monogatari.json) |
 | Gomi | 360614 | [360614-gomi.json](./360614-gomi.json) |
+| Gomi x Chou Trash x Talk | 350959 | [350959-gomi-x-chou-trash-x-talk.json](./350959-gomi-x-chou-trash-x-talk.json) |
 | Gomiboru | 333017 | [333017-gomiboru.json](./333017-gomiboru.json) |
 | Gomo | 7552 | [7552-gomo.json](./7552-gomo.json) |
 | Gomoku Let's Go | 173252 | [173252-gomoku-lets-go.json](./173252-gomoku-lets-go.json) |
@@ -6635,6 +6636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gust | 221130 | [221130-gust.json](./221130-gust.json) |
 | Gust Buster | 24007 | [24007-gust-buster.json](./24007-gust-buster.json) |
 | Gustavinho em O Enigma da Esfinge | 28043 | [28043-gustavinho-em-o-enigma-da-esfinge.json](./28043-gustavinho-em-o-enigma-da-esfinge.json) |
+| Gut Eater | 350956 | [350956-gut-eater.json](./350956-gut-eater.json) |
 | Gutasaga | 257439 | [257439-gutasaga.json](./257439-gutasaga.json) |
 | Gute Zeiten Schlechte Zeiten Quiz | 281539 | [281539-gute-zeiten-schlechte-zeiten-quiz.json](./281539-gute-zeiten-schlechte-zeiten-quiz.json) |
 | Gütertrennung | 86017 | [86017-gutertrennung.json](./86017-gutertrennung.json) |
