@@ -110,6 +110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nakayama Miho no Tokimeki High School | 41284 | [41284-nakayama-miho-no-tokimeki-high-school.json](./41284-nakayama-miho-no-tokimeki-high-school.json) |
 | Nakayoshi Pet Series 2: Kawaii Usagi | 217820 | [217820-nakayoshi-pet-series-2-kawaii-usagi.json](./217820-nakayoshi-pet-series-2-kawaii-usagi.json) |
 | Naked and Afraid: The Game | 121468 | [121468-naked-and-afraid-the-game.json](./121468-naked-and-afraid-the-game.json) |
+| Naked Hero | 367279 | [367279-naked-hero.json](./367279-naked-hero.json) |
 | Naked Little Dude | 131607 | [131607-naked-little-dude.json](./131607-naked-little-dude.json) |
 | Naked News | 129213 | [129213-naked-news.json](./129213-naked-news.json) |
 | Naked Porn Battle | 202205 | [202205-naked-porn-battle.json](./202205-naked-porn-battle.json) |
@@ -1514,6 +1515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Hardcore | 51586 | [51586-neon-hardcore.json](./51586-neon-hardcore.json) |
 | Neon Hardcorps | 33429 | [33429-neon-hardcorps.json](./33429-neon-hardcorps.json) |
 | Neon Heights | 278144 | [278144-neon-heights.json](./278144-neon-heights.json) |
+| Neon Idle | 367299 | [367299-neon-idle.json](./367299-neon-idle.json) |
 | Neon Impact | 233464 | [233464-neon-impact.json](./233464-neon-impact.json) |
 | Neon Inferno | 322701 | [322701-neon-inferno.json](./322701-neon-inferno.json) |
 | Neon Infinity | 114931 | [114931-neon-infinity.json](./114931-neon-infinity.json) |
@@ -3620,6 +3622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Wings Required | 394322 | [394322-no-wings-required.json](./394322-no-wings-required.json) |
 | No Words to Speak With | 176782 | [176782-no-words-to-speak-with.json](./176782-no-words-to-speak-with.json) |
 | No Worries | 286065 | [286065-no-worries.json](./286065-no-worries.json) |
+| No Zombie Land: Lucy | 367282 | [367282-no-zombie-land-lucy.json](./367282-no-zombie-land-lucy.json) |
 | No-brainer! Heroes | 134655 | [134655-no-brainer-heroes.json](./134655-no-brainer-heroes.json) |
 | No-Go | 202195 | [202195-no-go.json](./202195-no-go.json) |
 | No-Hi | 311204 | [311204-no-hi.json](./311204-no-hi.json) |
