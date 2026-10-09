@@ -7703,6 +7703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mining Mechs: Magnetic Mystery | 278988 | [278988-mining-mechs-magnetic-mystery.json](./278988-mining-mechs-magnetic-mystery.json) |
 | Mining Merchant | 364518 | [364518-mining-merchant.json](./364518-mining-merchant.json) |
 | Mining Odyssey | 215597 | [215597-mining-odyssey.json](./215597-mining-odyssey.json) |
+| Mining Platform | 361033 | [361033-mining-platform.json](./361033-mining-platform.json) |
 | Mining Rail Adventure | 417438 | [417438-mining-rail-adventure.json](./417438-mining-rail-adventure.json) |
 | Mining Simulator | 241512 | [241512-mining-simulator.json](./241512-mining-simulator.json) |
 | Mining Wizards | 379861 | [379861-mining-wizards.json](./379861-mining-wizards.json) |
@@ -9707,6 +9708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monuments Flipper | 132741 | [132741-monuments-flipper.json](./132741-monuments-flipper.json) |
 | Monuments of Mars | 35550 | [35550-monuments-of-mars.json](./35550-monuments-of-mars.json) |
 | Monuments of Mars 2 | 300404 | [300404-monuments-of-mars-2.json](./300404-monuments-of-mars-2.json) |
+| Monumentum | 361074 | [361074-monumentum.json](./361074-monumentum.json) |
 | Monzo VR | 26829 | [26829-monzo-vr.json](./26829-monzo-vr.json) |
 | Moo & Move | 316805 | [316805-moo-and-move.json](./316805-moo-and-move.json) |
 | Moo & Move: Extra Grazing Grounds | 328251 | [328251-moo-and-move-extra-grazing-grounds.json](./328251-moo-and-move-extra-grazing-grounds.json) |
