@@ -13271,6 +13271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpongeBob's Game Frenzy | 88949 | [88949-spongebobs-game-frenzy.json](./88949-spongebobs-game-frenzy.json) |
 | SpongeBob’s Idle Adventures | 266907 | [266907-spongebob-s-idle-adventures.json](./266907-spongebob-s-idle-adventures.json) |
 | SpongeBob's Pizza Toss | 326710 | [326710-spongebobs-pizza-toss.json](./326710-spongebobs-pizza-toss.json) |
+| SpongeBob’s Undersea Odyssey | 381368 | [381368-spongebob-s-undersea-odyssey.json](./381368-spongebob-s-undersea-odyssey.json) |
 | Spongiorno: Schwammfred Moving Company | 373082 | [373082-spongiorno-schwammfred-moving-company.json](./373082-spongiorno-schwammfred-moving-company.json) |
 | Sponsor-A-Planet | 155710 | [155710-sponsor-a-planet.json](./155710-sponsor-a-planet.json) |
 | Spooble: A Search Engine Story | 177484 | [177484-spooble-a-search-engine-story.json](./177484-spooble-a-search-engine-story.json) |
@@ -13496,6 +13497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spring Is Here | 82185 | [82185-spring-is-here.json](./82185-spring-is-here.json) |
 | Spring It! | 84536 | [84536-spring-it.json](./84536-spring-it.json) |
 | Spring Leaves No Flowers | 126470 | [126470-spring-leaves-no-flowers.json](./126470-spring-leaves-no-flowers.json) |
+| Spring Me Up | 381363 | [381363-spring-me-up.json](./381363-spring-me-up.json) |
 | Spring Mosaics | 415910 | [415910-spring-mosaics.json](./415910-spring-mosaics.json) |
 | Spring Ninja | 344936 | [344936-spring-ninja.json](./344936-spring-ninja.json) |
 | Spring of Decadence | 103478 | [103478-spring-of-decadence.json](./103478-spring-of-decadence.json) |
@@ -17908,6 +17910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunflower Stronghold | 384519 | [384519-sunflower-stronghold.json](./384519-sunflower-stronghold.json) |
 | SunFlowers | 52861 | [52861-sunflowers.json](./52861-sunflowers.json) |
 | Sunforge Solar Survival | 322980 | [322980-sunforge-solar-survival.json](./322980-sunforge-solar-survival.json) |
+| Sung in Flame | 381345 | [381345-sung-in-flame.json](./381345-sung-in-flame.json) |
 | Sungaia Saga | 337731 | [337731-sungaia-saga.json](./337731-sungaia-saga.json) |
 | Sunken Brawl | 75147 | [75147-sunken-brawl.json](./75147-sunken-brawl.json) |
 | Sunken Engine | 336738 | [336738-sunken-engine.json](./336738-sunken-engine.json) |
