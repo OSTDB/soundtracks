@@ -2132,6 +2132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heaven's Dawn | 50418 | [50418-heavens-dawn.json](./50418-heavens-dawn.json) |
 | Heaven's Door | 231057 | [231057-heavens-door.json](./231057-heavens-door.json) |
 | Heaven's Door | 393565 | [393565-heavens-door.json](./393565-heavens-door.json) |
+| Heaven's Gambler | 348738 | [348738-heavens-gambler.json](./348738-heavens-gambler.json) |
 | Heaven's Glaive | 387362 | [387362-heavens-glaive.json](./387362-heavens-glaive.json) |
 | Heaven's Grave | 121473 | [121473-heavens-grave.json](./121473-heavens-grave.json) |
 | Heaven's Hope | 17992 | [17992-heavens-hope.json](./17992-heavens-hope.json) |
@@ -4318,6 +4319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Target | 54090 | [54090-hidden-target.json](./54090-hidden-target.json) |
 | Hidden Temple Adventure | 248650 | [248650-hidden-temple-adventure.json](./248650-hidden-temple-adventure.json) |
 | Hidden Things Beach Elves | 397210 | [397210-hidden-things-beach-elves.json](./397210-hidden-things-beach-elves.json) |
+| Hidden Things Forest Elves | 348816 | [348816-hidden-things-forest-elves.json](./348816-hidden-things-forest-elves.json) |
 | Hidden Through Time | 128909 | [128909-hidden-through-time.json](./128909-hidden-through-time.json) |
 | Hidden Through Time 2: Discovery | 291422 | [291422-hidden-through-time-2-discovery.json](./291422-hidden-through-time-2-discovery.json) |
 | Hidden Through Time: Aztec Rituals | 212224 | [212224-hidden-through-time-aztec-rituals.json](./212224-hidden-through-time-aztec-rituals.json) |
