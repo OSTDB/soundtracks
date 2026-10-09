@@ -2042,6 +2042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RebirthM | 174879 | [174879-rebirthm.json](./174879-rebirthm.json) |
 | Rebloom | 351101 | [351101-rebloom.json](./351101-rebloom.json) |
 | Rebolt | 360062 | [360062-rebolt.json](./360062-rebolt.json) |
+| Rebooker | 377415 | [377415-rebooker.json](./377415-rebooker.json) |
 | Reboot | 171611 | [171611-reboot.json](./171611-reboot.json) |
 | ReBoot | 219015 | [219015-reboot.json](./219015-reboot.json) |
 | ReBoot | 31091 | [31091-reboot.json](./31091-reboot.json) |
