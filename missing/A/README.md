@@ -394,6 +394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Loney | 207765 | [207765-a-loney.json](./207765-a-loney.json) |
 | A Long Journey to an Uncertain End | 140296 | [140296-a-long-journey-to-an-uncertain-end.json](./140296-a-long-journey-to-an-uncertain-end.json) |
 | A Long Night For Crazy King | 120969 | [120969-a-long-night-for-crazy-king.json](./120969-a-long-night-for-crazy-king.json) |
+| A Long Time | 384292 | [384292-a-long-time.json](./384292-a-long-time.json) |
 | A Long Way Home | 180805 | [180805-a-long-way-home.json](./180805-a-long-way-home.json) |
 | A Long Way Home | 33077 | [33077-a-long-way-home.json](./33077-a-long-way-home.json) |
 | A Long Way to the Nearest Star | 237440 | [237440-a-long-way-to-the-nearest-star.json](./237440-a-long-way-to-the-nearest-star.json) |
