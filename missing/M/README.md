@@ -5217,6 +5217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meme Lordz | 198239 | [198239-meme-lordz.json](./198239-meme-lordz.json) |
 | Meme Quiz | 243128 | [243128-meme-quiz.json](./243128-meme-quiz.json) |
 | Meme Run | 60787 | [60787-meme-run.json](./60787-meme-run.json) |
+| Meme Survivors: Backrooms | 343747 | [343747-meme-survivors-backrooms.json](./343747-meme-survivors-backrooms.json) |
 | Meme Wars | 366827 | [366827-meme-wars.json](./366827-meme-wars.json) |
 | Memebonk | 406062 | [406062-memebonk.json](./406062-memebonk.json) |
 | Memento | 33176 | [33176-memento.json](./33176-memento.json) |
@@ -9115,6 +9116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Money Laundering Simulator | 358344 | [358344-money-laundering-simulator.json](./358344-money-laundering-simulator.json) |
 | Money Loves Silence | 126608 | [126608-money-loves-silence.json](./126608-money-loves-silence.json) |
 | Money Maker | 111872 | [111872-money-maker.json](./111872-money-maker.json) |
+| Money Maker | 343782 | [343782-money-maker.json](./343782-money-maker.json) |
 | Money Mansion | 170350 | [170350-money-mansion.json](./170350-money-mansion.json) |
 | Money Money | 38582 | [38582-money-money.json](./38582-money-money.json) |
 | Money Mouse in Full Barn House | 281535 | [281535-money-mouse-in-full-barn-house.json](./281535-money-mouse-in-full-barn-house.json) |
@@ -9355,6 +9357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Box | 68717 | [68717-monster-box.json](./68717-monster-box.json) |
 | Monster Boy and the Cursed Kingdom | 25599 | [25599-monster-boy-and-the-cursed-kingdom.json](./25599-monster-boy-and-the-cursed-kingdom.json) |
 | Monster Busters: Hexa Blast | 242793 | [242793-monster-busters-hexa-blast.json](./242793-monster-busters-hexa-blast.json) |
+| Monster Camp 2: Character Pack - Zoe | 343761 | [343761-monster-camp-2-character-pack-zoe.json](./343761-monster-camp-2-character-pack-zoe.json) |
 | Monster Camp Character Pack: Colorful Campers | 378384 | [378384-monster-camp-character-pack-colorful-campers.json](./378384-monster-camp-character-pack-colorful-campers.json) |
 | Monster Care Simulator | 326387 | [326387-monster-care-simulator.json](./326387-monster-care-simulator.json) |
 | Monster Challenge Circus | 17395 | [17395-monster-challenge-circus.json](./17395-monster-challenge-circus.json) |
@@ -12878,6 +12881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery At Woodbrook Hall: Hidden Object Game | 197743 | [197743-mystery-at-woodbrook-hall-hidden-object-game.json](./197743-mystery-at-woodbrook-hall-hidden-object-game.json) |
 | Mystery Box 4-in-1 Bundle | 328508 | [328508-mystery-box-4-in-1-bundle.json](./328508-mystery-box-4-in-1-bundle.json) |
 | Mystery Box 5: Elements | 292251 | [292251-mystery-box-5-elements.json](./292251-mystery-box-5-elements.json) |
+| Mystery Box VR: Hidden Secrets | 343773 | [343773-mystery-box-vr-hidden-secrets.json](./343773-mystery-box-vr-hidden-secrets.json) |
 | Mystery Box: Escape The Room | 259740 | [259740-mystery-box-escape-the-room.json](./259740-mystery-box-escape-the-room.json) |
 | Mystery Box: The Journey | 257360 | [257360-mystery-box-the-journey.json](./257360-mystery-box-the-journey.json) |
 | Mystery Case Files: 13th Skull | 5515 | [5515-mystery-case-files-13th-skull.json](./5515-mystery-case-files-13th-skull.json) |
