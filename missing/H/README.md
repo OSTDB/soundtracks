@@ -1354,6 +1354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harvest Knight | 276840 | [276840-harvest-knight.json](./276840-harvest-knight.json) |
 | Harvest Land | 101485 | [101485-harvest-land.json](./101485-harvest-land.json) |
 | Harvest Life + Castaway Paradise | 247494 | [247494-harvest-life-castaway-paradise.json](./247494-harvest-life-castaway-paradise.json) |
+| Harvest Loop | 364996 | [364996-harvest-loop.json](./364996-harvest-loop.json) |
 | Harvest Master | 320522 | [320522-harvest-master.json](./320522-harvest-master.json) |
 | Harvest Moon | 3376 | [3376-harvest-moon.json](./3376-harvest-moon.json) |
 | Harvest Moon 3 GBC | 3381 | [3381-harvest-moon-3-gbc.json](./3381-harvest-moon-3-gbc.json) |
@@ -1664,6 +1665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haustoria | 130922 | [130922-haustoria.json](./130922-haustoria.json) |
 | Haut | 349382 | [349382-haut.json](./349382-haut.json) |
 | Have a N.I.C.E. day! | 71710 | [71710-have-a-n-i-c-e-day.json](./71710-have-a-n-i-c-e-day.json) |
+| Have an Ice Day | 364962 | [364962-have-an-ice-day.json](./364962-have-an-ice-day.json) |
 | Have Fun Together | 259605 | [259605-have-fun-together.json](./259605-have-fun-together.json) |
 | Have Fun Together | 259671 | [259671-have-fun-together.json](./259671-have-fun-together.json) |
 | Have It Coming | 391331 | [391331-have-it-coming.json](./391331-have-it-coming.json) |
@@ -5822,6 +5824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoptale | 369762 | [369762-hoptale.json](./369762-hoptale.json) |
 | Hopward | 372475 | [372475-hopward.json](./372475-hopward.json) |
 | Hopy-ONE | 93037 | [93037-hopy-one.json](./93037-hopy-one.json) |
+| Hora | 364980 | [364980-hora.json](./364980-hora.json) |
 | Horace | 120323 | [120323-horace.json](./120323-horace.json) |
 | Horace to the Rescue | 242035 | [242035-horace-to-the-rescue.json](./242035-horace-to-the-rescue.json) |
 | Horatama | 157159 | [157159-horatama.json](./157159-horatama.json) |
