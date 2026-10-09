@@ -2695,6 +2695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terminal Conflict | 112417 | [112417-terminal-conflict.json](./112417-terminal-conflict.json) |
 | Terminal Connection | 339408 | [339408-terminal-connection.json](./339408-terminal-connection.json) |
 | Terminal Defense | 298636 | [298636-terminal-defense.json](./298636-terminal-defense.json) |
+| Terminal Descent | 371742 | [371742-terminal-descent.json](./371742-terminal-descent.json) |
 | Terminal Hacker | 178955 | [178955-terminal-hacker.json](./178955-terminal-hacker.json) |
 | Terminal Hacker | 30854 | [30854-terminal-hacker.json](./30854-terminal-hacker.json) |
 | Terminal Hacker - Into the Deep | 35935 | [35935-terminal-hacker-into-the-deep.json](./35935-terminal-hacker-into-the-deep.json) |
@@ -4937,6 +4938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The DBK Holiday Special | 261465 | [261465-the-dbk-holiday-special.json](./261465-the-dbk-holiday-special.json) |
 | The Dead Case | 186139 | [186139-the-dead-case.json](./186139-the-dead-case.json) |
 | The Dead City | 376715 | [376715-the-dead-city.json](./376715-the-dead-city.json) |
+| The Dead Daughter | 371623 | [371623-the-dead-daughter.json](./371623-the-dead-daughter.json) |
 | The Dead in my Living Room | 142378 | [142378-the-dead-in-my-living-room.json](./142378-the-dead-in-my-living-room.json) |
 | The Dead Linger | 9055 | [9055-the-dead-linger.json](./9055-the-dead-linger.json) |
 | The Dead Mountaineer's Hotel | 54438 | [54438-the-dead-mountaineers-hotel.json](./54438-the-dead-mountaineers-hotel.json) |
@@ -9557,6 +9559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sea Hotel: Umineko Tei | 169416 | [169416-the-sea-hotel-umineko-tei.json](./169416-the-sea-hotel-umineko-tei.json) |
 | The Sea Lion | 386845 | [386845-the-sea-lion.json](./386845-the-sea-lion.json) |
 | The Sea of Glomp | 396568 | [396568-the-sea-of-glomp.json](./396568-the-sea-of-glomp.json) |
+| The Sea-Demon | 371628 | [371628-the-sea-demon.json](./371628-the-sea-demon.json) |
 | The Seal Hunter | 345555 | [345555-the-seal-hunter.json](./345555-the-seal-hunter.json) |
 | The Seal of Hades | 47536 | [47536-the-seal-of-hades.json](./47536-the-seal-of-hades.json) |
 | The Séance of Blake Manor | 335833 | [335833-the-seance-of-blake-manor.json](./335833-the-seance-of-blake-manor.json) |
@@ -19024,6 +19027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tsjost's Heroic Soup Bazooka | 222902 | [222902-tsjosts-heroic-soup-bazooka.json](./222902-tsjosts-heroic-soup-bazooka.json) |
 | Tsos | 191580 | [191580-tsos.json](./191580-tsos.json) |
 | Tsubaki Hata | 226203 | [226203-tsubaki-hata.json](./226203-tsubaki-hata.json) |
+| Tsubaki to One Room: Kizuna Kirameku Koi Iroha SS | 371594 | [371594-tsubaki-to-one-room-kizuna-kirameku-koi-iroha-ss.json](./371594-tsubaki-to-one-room-kizuna-kirameku-koi-iroha-ss.json) |
 | Tsubasa Chronicle | 68230 | [68230-tsubasa-chronicle.json](./68230-tsubasa-chronicle.json) |
 | Tsubasa Chronicle Vol. 2 | 124108 | [124108-tsubasa-chronicle-vol-2.json](./124108-tsubasa-chronicle-vol-2.json) |
 | Tsubasa Heaven | 406831 | [406831-tsubasa-heaven.json](./406831-tsubasa-heaven.json) |
