@@ -1203,6 +1203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paradox Wrench | 80959 | [80959-paradox-wrench.json](./80959-paradox-wrench.json) |
 | Paradox: The Novel | 197783 | [197783-paradox-the-novel.json](./197783-paradox-the-novel.json) |
 | Paradox! | 329952 | [329952-paradox.json](./329952-paradox.json) |
+| Paradoxical | 370005 | [370005-paradoxical.json](./370005-paradoxical.json) |
 | Paradoxical Heat | 327179 | [327179-paradoxical-heat.json](./327179-paradoxical-heat.json) |
 | Paradream | 237455 | [237455-paradream.json](./237455-paradream.json) |
 | Paradroid | 22518 | [22518-paradroid.json](./22518-paradroid.json) |
@@ -8188,6 +8189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | President's Choice | 307866 | [307866-presidents-choice.json](./307866-presidents-choice.json) |
 | Presidential Running Games | 292689 | [292689-presidential-running-games.json](./292689-presidential-running-games.json) |
 | PreSim | 88242 | [88242-presim.json](./88242-presim.json) |
+| Press a Button Simulator | 369920 | [369920-press-a-button-simulator.json](./369920-press-a-button-simulator.json) |
 | Press Any Button | 143596 | [143596-press-any-button.json](./143596-press-any-button.json) |
 | Press Any Key | 295563 | [295563-press-any-key.json](./295563-press-any-key.json) |
 | Press Inc. | 108275 | [108275-press-inc.json](./108275-press-inc.json) |
@@ -9338,6 +9340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project SF2 | 174833 | [174833-project-sf2.json](./174833-project-sf2.json) |
 | Project Shadow | 330291 | [330291-project-shadow.json](./330291-project-shadow.json) |
 | Project Shadow 2 | 330966 | [330966-project-shadow-2.json](./330966-project-shadow-2.json) |
+| Project Shadowglass | 370008 | [370008-project-shadowglass.json](./370008-project-shadowglass.json) |
 | Project Shanto Rancher | 188466 | [188466-project-shanto-rancher.json](./188466-project-shanto-rancher.json) |
 | Project Shikai | 329733 | [329733-project-shikai.json](./329733-project-shikai.json) |
 | Project Shiver Wing | 212452 | [212452-project-shiver-wing.json](./212452-project-shiver-wing.json) |
@@ -10417,6 +10420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puyo Puyo CD Tsuu | 250297 | [250297-puyo-puyo-cd-tsuu.json](./250297-puyo-puyo-cd-tsuu.json) |
 | Puyo Puyo Fever Habanero | 252125 | [252125-puyo-puyo-fever-habanero.json](./252125-puyo-puyo-fever-habanero.json) |
 | Puyo Puyo Fever Rhythm | 252126 | [252126-puyo-puyo-fever-rhythm.json](./252126-puyo-puyo-fever-rhythm.json) |
+| Puyo Puyo Fever RPG | 369995 | [369995-puyo-puyo-fever-rpg.json](./369995-puyo-puyo-fever-rpg.json) |
 | Puyo Puyo Fever: Minna de Nazo Puyo | 251090 | [251090-puyo-puyo-fever-minna-de-nazo-puyo.json](./251090-puyo-puyo-fever-minna-de-nazo-puyo.json) |
 | Puyo Puyo Puzzle Pop | 291210 | [291210-puyo-puyo-puzzle-pop.json](./291210-puyo-puyo-puzzle-pop.json) |
 | Puyo Puyo Sun | 250340 | [250340-puyo-puyo-sun.json](./250340-puyo-puyo-sun.json) |
