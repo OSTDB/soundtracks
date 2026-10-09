@@ -1832,6 +1832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tea for God | 175782 | [175782-tea-for-god.json](./175782-tea-for-god.json) |
 | Tea for Sana | 310036 | [310036-tea-for-sana.json](./310036-tea-for-sana.json) |
 | Tea for the King | 238103 | [238103-tea-for-the-king.json](./238103-tea-for-the-king.json) |
+| Tea for the Soul | 386497 | [386497-tea-for-the-soul.json](./386497-tea-for-the-soul.json) |
 | Tea Society of a Witch | 72664 | [72664-tea-society-of-a-witch.json](./72664-tea-society-of-a-witch.json) |
 | Tea Time | 359406 | [359406-tea-time.json](./359406-tea-time.json) |
 | Tea Time | 58894 | [58894-tea-time.json](./58894-tea-time.json) |
@@ -4222,6 +4223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Captive | 362814 | [362814-the-captive.json](./362814-the-captive.json) |
 | The Captives: Plot of the Demiurge | 90137 | [90137-the-captives-plot-of-the-demiurge.json](./90137-the-captives-plot-of-the-demiurge.json) |
 | The Capybara P | 219049 | [219049-the-capybara-p.json](./219049-the-capybara-p.json) |
+| The Carcass | 386476 | [386476-the-carcass.json](./386476-the-carcass.json) |
 | The Card Battle: Eternal Destiny | 173121 | [173121-the-card-battle-eternal-destiny.json](./173121-the-card-battle-eternal-destiny.json) |
 | The Card Stars: Cribbage / Solitaire | 59883 | [59883-the-card-stars-cribbage-solitaire.json](./59883-the-card-stars-cribbage-solitaire.json) |
 | THE Card: Poker, Texas hold 'em, Blackjack and Page One | 109491 | [109491-the-card-poker-texas-hold-em-blackjack-and-page-one.json](./109491-the-card-poker-texas-hold-em-blackjack-and-page-one.json) |
@@ -4698,6 +4700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cup | 410475 | [410475-the-cup.json](./410475-the-cup.json) |
 | The Curator | 137668 | [137668-the-curator.json](./137668-the-curator.json) |
 | The Curator | 343331 | [343331-the-curator.json](./343331-the-curator.json) |
+| The Curator | 386474 | [386474-the-curator.json](./386474-the-curator.json) |
 | The Cure | 171376 | [171376-the-cure.json](./171376-the-cure.json) |
 | The Cure | 184647 | [184647-the-cure.json](./184647-the-cure.json) |
 | The Cure | 71449 | [71449-the-cure.json](./71449-the-cure.json) |
