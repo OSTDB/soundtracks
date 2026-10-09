@@ -8303,6 +8303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slumber Party | 176925 | [176925-slumber-party.json](./176925-slumber-party.json) |
 | Slumberfish! | 243954 | [243954-slumberfish.json](./243954-slumberfish.json) |
 | Slums of Tetsoidea | 186820 | [186820-slums-of-tetsoidea.json](./186820-slums-of-tetsoidea.json) |
+| Slurpee x Tetris Handheld Game | 365005 | [365005-slurpee-x-tetris-handheld-game.json](./365005-slurpee-x-tetris-handheld-game.json) |
 | Slurpy | 25712 | [25712-slurpy.json](./25712-slurpy.json) |
 | Slut Nurses | 371398 | [371398-slut-nurses.json](./371398-slut-nurses.json) |
 | Slut Squad | 385808 | [385808-slut-squad.json](./385808-slut-squad.json) |
@@ -8901,6 +8902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snapshot | 406915 | [406915-snapshot.json](./406915-snapshot.json) |
 | SnapShot | 298808 | [298808-snapshot.json](./298808-snapshot.json) |
 | Snapshot Aquarium | 216889 | [216889-snapshot-aquarium.json](./216889-snapshot-aquarium.json) |
+| Snapshot Girls | 364970 | [364970-snapshot-girls.json](./364970-snapshot-girls.json) |
 | Snapshot Girls 3 | 370798 | [370798-snapshot-girls-3.json](./370798-snapshot-girls-3.json) |
 | Snapshot Girls 6 | 375409 | [375409-snapshot-girls-6.json](./375409-snapshot-girls-6.json) |
 | Snapshot Oddities! Find What's Wrong | 390505 | [390505-snapshot-oddities-find-whats-wrong.json](./390505-snapshot-oddities-find-whats-wrong.json) |
@@ -12082,6 +12084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spaceball Revolution | 21059 | [21059-spaceball-revolution.json](./21059-spaceball-revolution.json) |
 | Spacebar | 183334 | [183334-spacebar.json](./183334-spacebar.json) |
 | Spacebar | 344361 | [344361-spacebar.json](./344361-spacebar.json) |
+| Spacebar X | 364998 | [364998-spacebar-x.json](./364998-spacebar-x.json) |
 | Spacebase DF-9 | 5632 | [5632-spacebase-df-9.json](./5632-spacebase-df-9.json) |
 | Spacebase Startopia | 121761 | [121761-spacebase-startopia.json](./121761-spacebase-startopia.json) |
 | Spacebase Startopia: Extended Edition | 169189 | [169189-spacebase-startopia-extended-edition.json](./169189-spacebase-startopia-extended-edition.json) |
@@ -13530,6 +13533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spot It in the Picture! Worldwide Knowledge x Academic Quiz | 409516 | [409516-spot-it-in-the-picture-worldwide-knowledge-x-academic-quiz.json](./409516-spot-it-in-the-picture-worldwide-knowledge-x-academic-quiz.json) |
 | Spot Pool | 94717 | [94717-spot-pool.json](./94717-spot-pool.json) |
 | Spot the Cat | 378285 | [378285-spot-the-cat.json](./378285-spot-the-cat.json) |
+| Spot the Difference 3D | 365000 | [365000-spot-the-difference-3d.json](./365000-spot-the-difference-3d.json) |
 | Spot The Difference: Christmas Edition | 322074 | [322074-spot-the-difference-christmas-edition.json](./322074-spot-the-difference-christmas-edition.json) |
 | Spot The Difference: Classic Finding Puzzle | 324123 | [324123-spot-the-difference-classic-finding-puzzle.json](./324123-spot-the-difference-classic-finding-puzzle.json) |
 | Spot the Difference: Ukiyo-e Thirty-six Views of Mt. Fuji | 316242 | [316242-spot-the-difference-ukiyo-e-thirty-six-views-of-mt-fuji.json](./316242-spot-the-difference-ukiyo-e-thirty-six-views-of-mt-fuji.json) |
@@ -16152,6 +16156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stock the Shelves | 357369 | [357369-stock-the-shelves.json](./357369-stock-the-shelves.json) |
 | Stock: Retail investors | 295542 | [295542-stock-retail-investors.json](./295542-stock-retail-investors.json) |
 | Stockfish Chess | 87155 | [87155-stockfish-chess.json](./87155-stockfish-chess.json) |
+| Stocks | 364990 | [364990-stocks.json](./364990-stocks.json) |
 | StockSim | 332623 | [332623-stocksim.json](./332623-stocksim.json) |
 | Stocksynd House | 128767 | [128767-stocksynd-house.json](./128767-stocksynd-house.json) |
 | Stoirs VR | 160156 | [160156-stoirs-vr.json](./160156-stoirs-vr.json) |
@@ -16534,6 +16539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strategic Mind: Fight for Dominance | 257425 | [257425-strategic-mind-fight-for-dominance.json](./257425-strategic-mind-fight-for-dominance.json) |
 | Strategic Mind: Fight for Dominance + Kaiju Wars - Fight Monsters Bundle | 289417 | [289417-strategic-mind-fight-for-dominance-kaiju-wars-fight-monsters-bundle.json](./289417-strategic-mind-fight-for-dominance-kaiju-wars-fight-monsters-bundle.json) |
 | Strategic Simulations: Commander's Collection | 73779 | [73779-strategic-simulations-commanders-collection.json](./73779-strategic-simulations-commanders-collection.json) |
+| Strategic Stalemate | 364969 | [364969-strategic-stalemate.json](./364969-strategic-stalemate.json) |
 | Strategic War in Europe | 9467 | [9467-strategic-war-in-europe.json](./9467-strategic-war-in-europe.json) |
 | Strategie Spiele | 81396 | [81396-strategie-spiele.json](./81396-strategie-spiele.json) |
 | Strategist | 107808 | [107808-strategist.json](./107808-strategist.json) |
