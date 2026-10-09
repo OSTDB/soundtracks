@@ -10755,6 +10755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonucido: The Mage - A Dungeon Crawler by Daniel da Silva | 193200 | [193200-sonucido-the-mage-a-dungeon-crawler-by-daniel-da-silva.json](./193200-sonucido-the-mage-a-dungeon-crawler-by-daniel-da-silva.json) |
 | Sonzai | 138210 | [138210-sonzai.json](./138210-sonzai.json) |
 | Soopah Doopah Poopah | 138151 | [138151-soopah-doopah-poopah.json](./138151-soopah-doopah-poopah.json) |
+| Sooper Wooper 64 | 379143 | [379143-sooper-wooper-64.json](./379143-sooper-wooper-64.json) |
 | Soot | 198500 | [198500-soot.json](./198500-soot.json) |
 | Soot | 231085 | [231085-soot.json](./231085-soot.json) |
 | Soothing Farmer | 216894 | [216894-soothing-farmer.json](./216894-soothing-farmer.json) |
@@ -11318,6 +11319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Adventure Laika | 128634 | [128634-space-adventure-laika.json](./128634-space-adventure-laika.json) |
 | Space Adventure Zodiac | 406168 | [406168-space-adventure-zodiac.json](./406168-space-adventure-zodiac.json) |
 | Space Adventure: Escape from Siphilus 1b | 219587 | [219587-space-adventure-escape-from-siphilus-1b.json](./219587-space-adventure-escape-from-siphilus-1b.json) |
+| Space Adventure: Mercury | 379151 | [379151-space-adventure-mercury.json](./379151-space-adventure-mercury.json) |
 | Space Age: Director's Cut | 293227 | [293227-space-age-directors-cut.json](./293227-space-age-directors-cut.json) |
 | Space Agent Mission | 212486 | [212486-space-agent-mission.json](./212486-space-agent-mission.json) |
 | Space Agent: 8 Artifacts | 158521 | [158521-space-agent-8-artifacts.json](./158521-space-agent-8-artifacts.json) |
@@ -17172,6 +17174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Subliminal Region | 168132 | [168132-subliminal-region.json](./168132-subliminal-region.json) |
 | Sublimity | 292528 | [292528-sublimity.json](./292528-sublimity.json) |
 | Subluminal | 189942 | [189942-subluminal.json](./189942-subluminal.json) |
+| Sublustrum | 379140 | [379140-sublustrum.json](./379140-sublustrum.json) |
 | Submachine 1: the Basement | 127877 | [127877-submachine-1-the-basement.json](./127877-submachine-1-the-basement.json) |
 | Submachine 10: The Exit | 129555 | [129555-submachine-10-the-exit.json](./129555-submachine-10-the-exit.json) |
 | Submachine 10: The Exit | 260768 | [260768-submachine-10-the-exit.json](./260768-submachine-10-the-exit.json) |
