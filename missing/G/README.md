@@ -4238,6 +4238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gordon Freakman 2: Kleiner-Life | 322672 | [322672-gordon-freakman-2-kleiner-life.json](./322672-gordon-freakman-2-kleiner-life.json) |
 | Gordon Ramsay Dash | 58306 | [58306-gordon-ramsay-dash.json](./58306-gordon-ramsay-dash.json) |
 | Gordost' Ulypa: VR-legendy Chuvashii | 368897 | [368897-gordost-ulypa-vr-legendy-chuvashii.json](./368897-gordost-ulypa-vr-legendy-chuvashii.json) |
+| Gordy | 356584 | [356584-gordy.json](./356584-gordy.json) |
 | Gore | 371991 | [371991-gore.json](./371991-gore.json) |
 | Gore Crush | 323728 | [323728-gore-crush.json](./323728-gore-crush.json) |
 | Gore: Ultimate Soldier | 46969 | [46969-gore-ultimate-soldier.json](./46969-gore-ultimate-soldier.json) |
