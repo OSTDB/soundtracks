@@ -4703,6 +4703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil’s Propose | 254609 | [254609-devil-s-propose.json](./254609-devil-s-propose.json) |
 | Devil's Revenge | 69855 | [69855-devils-revenge.json](./69855-devils-revenge.json) |
 | Devil's Roulette | 411110 | [411110-devils-roulette.json](./411110-devils-roulette.json) |
+| Devil's Terminal | 374406 | [374406-devils-terminal.json](./374406-devils-terminal.json) |
 | Devil's Third | 7395 | [7395-devils-third.json](./7395-devils-third.json) |
 | Devil's Third Online | 59988 | [59988-devils-third-online.json](./59988-devils-third-online.json) |
 | Devil's Tuning Fork | 67304 | [67304-devils-tuning-fork.json](./67304-devils-tuning-fork.json) |
@@ -10033,6 +10034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drunk Woodcutter | 397835 | [397835-drunk-woodcutter.json](./397835-drunk-woodcutter.json) |
 | Drunk-Fu: Wasted Masters | 28906 | [28906-drunk-fu-wasted-masters.json](./28906-drunk-fu-wasted-masters.json) |
 | Drunkard Quiz Show Hyoutan | 115684 | [115684-drunkard-quiz-show-hyoutan.json](./115684-drunkard-quiz-show-hyoutan.json) |
+| Drunkard Simulator | 374423 | [374423-drunkard-simulator.json](./374423-drunkard-simulator.json) |
 | Drunken Cowboys | 379053 | [379053-drunken-cowboys.json](./379053-drunken-cowboys.json) |
 | Drunken Duel 2 | 146712 | [146712-drunken-duel-2.json](./146712-drunken-duel-2.json) |
 | Drunken Fight Simulator | 29913 | [29913-drunken-fight-simulator.json](./29913-drunken-fight-simulator.json) |
