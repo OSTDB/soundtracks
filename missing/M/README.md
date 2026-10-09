@@ -6897,6 +6897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MilkSnake | 61717 | [61717-milksnake.json](./61717-milksnake.json) |
 | MilkSnake: Torus Edition | 99573 | [99573-milksnake-torus-edition.json](./99573-milksnake-torus-edition.json) |
 | MilkTea Time | 373150 | [373150-milktea-time.json](./373150-milktea-time.json) |
+| Milkteeth | 369454 | [369454-milkteeth.json](./369454-milkteeth.json) |
 | Milky Bear Rescue Rocket | 221971 | [221971-milky-bear-rescue-rocket.json](./221971-milky-bear-rescue-rocket.json) |
 | Milky Bear: Lunch Frenzy | 250296 | [250296-milky-bear-lunch-frenzy.json](./250296-milky-bear-lunch-frenzy.json) |
 | Milky Princess | 83199 | [83199-milky-princess.json](./83199-milky-princess.json) |
