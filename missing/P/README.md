@@ -337,6 +337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paddle Momentum | 413904 | [413904-paddle-momentum.json](./413904-paddle-momentum.json) |
 | Paddle Together | 366244 | [366244-paddle-together.json](./366244-paddle-together.json) |
 | Paddle Up | 32227 | [32227-paddle-up.json](./32227-paddle-up.json) |
+| Paddlenoid | 381377 | [381377-paddlenoid.json](./381377-paddlenoid.json) |
 | Paddler | 403650 | [403650-paddler.json](./403650-paddler.json) |
 | Paddles | 214545 | [214545-paddles.json](./214545-paddles.json) |
 | Paddles | 214558 | [214558-paddles.json](./214558-paddles.json) |
@@ -929,6 +930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper Flight: Future Battles | 263236 | [263236-paper-flight-future-battles.json](./263236-paper-flight-future-battles.json) |
 | Paper Flight: Relic Hunter | 263132 | [263132-paper-flight-relic-hunter.json](./263132-paper-flight-relic-hunter.json) |
 | Paper Flights | 235224 | [235224-paper-flights.json](./235224-paper-flights.json) |
+| Paper Florist | 381361 | [381361-paper-florist.json](./381361-paper-florist.json) |
 | Paper Football | 89501 | [89501-paper-football.json](./89501-paper-football.json) |
 | Paper Front | 108355 | [108355-paper-front.json](./108355-paper-front.json) |
 | Paper Galaxy | 64129 | [64129-paper-galaxy.json](./64129-paper-galaxy.json) |
@@ -1927,6 +1929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pawapuro-kun Pocket R | 152368 | [152368-pawapuro-kun-pocket-r.json](./152368-pawapuro-kun-pocket-r.json) |
 | Pawar | 273953 | [273953-pawar.json](./273953-pawar.json) |
 | Pawarumi: Limited Edition | 167051 | [167051-pawarumi-limited-edition.json](./167051-pawarumi-limited-edition.json) |
+| Pawbay | 381357 | [381357-pawbay.json](./381357-pawbay.json) |
 | Pawfect Cat Mansion | 314862 | [314862-pawfect-cat-mansion.json](./314862-pawfect-cat-mansion.json) |
 | Pawffice | 390162 | [390162-pawffice.json](./390162-pawffice.json) |
 | Pawfish Bay | 337181 | [337181-pawfish-bay.json](./337181-pawfish-bay.json) |
@@ -6456,6 +6459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Go: Max Out | 316620 | [316620-pokemon-go-max-out.json](./316620-pokemon-go-max-out.json) |
 | Pokémon Go: Might and Mastery | 333565 | [333565-pokemon-go-might-and-mastery.json](./333565-pokemon-go-might-and-mastery.json) |
 | Pokémon Go: Mythical Wishes | 227940 | [227940-pokemon-go-mythical-wishes.json](./227940-pokemon-go-mythical-wishes.json) |
+| Pokémon Go: Precious Paths | 381350 | [381350-pokemon-go-precious-paths.json](./381350-pokemon-go-precious-paths.json) |
 | Pokémon Go: Rising Heroes | 240151 | [240151-pokemon-go-rising-heroes.json](./240151-pokemon-go-rising-heroes.json) |
 | Pokémon Go: Season of Alola | 218482 | [218482-pokemon-go-season-of-alola.json](./218482-pokemon-go-season-of-alola.json) |
 | Pokémon Go: Season of Celebration | 218507 | [218507-pokemon-go-season-of-celebration.json](./218507-pokemon-go-season-of-celebration.json) |
@@ -6466,6 +6470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Go: Season of Light | 215759 | [215759-pokemon-go-season-of-light.json](./215759-pokemon-go-season-of-light.json) |
 | Pokémon Go: Season of Mischief | 218487 | [218487-pokemon-go-season-of-mischief.json](./218487-pokemon-go-season-of-mischief.json) |
 | Pokémon Go: Shared Skies | 382999 | [382999-pokemon-go-shared-skies.json](./382999-pokemon-go-shared-skies.json) |
+| Pokémon Go: Tales of Transformation | 381349 | [381349-pokemon-go-tales-of-transformation.json](./381349-pokemon-go-tales-of-transformation.json) |
 | Pokémon Go: Timeless Travels | 383001 | [383001-pokemon-go-timeless-travels.json](./383001-pokemon-go-timeless-travels.json) |
 | Pokémon Go: Twilight Trails | 415236 | [415236-pokemon-go-twilight-trails.json](./415236-pokemon-go-twilight-trails.json) |
 | Pokémon Go: World of Wonders | 383000 | [383000-pokemon-go-world-of-wonders.json](./383000-pokemon-go-world-of-wonders.json) |
@@ -6841,6 +6846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Police Chase | 157550 | [157550-police-chase.json](./157550-police-chase.json) |
 | Police Chase Crime: Racing Car | 107672 | [107672-police-chase-crime-racing-car.json](./107672-police-chase-crime-racing-car.json) |
 | Police Chopper | 87917 | [87917-police-chopper.json](./87917-police-chopper.json) |
+| Police Detective: Tokyo Beat | 381362 | [381362-police-detective-tokyo-beat.json](./381362-police-detective-tokyo-beat.json) |
 | Police Enforcement VR : 1-K-27 | 97014 | [97014-police-enforcement-vr-1-k-27.json](./97014-police-enforcement-vr-1-k-27.json) |
 | Police Girls | 393765 | [393765-police-girls.json](./393765-police-girls.json) |
 | Police Girls on the Case! | 231433 | [231433-police-girls-on-the-case.json](./231433-police-girls-on-the-case.json) |
@@ -7696,6 +7702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Potty Painter | 301529 | [301529-potty-painter.json](./301529-potty-painter.json) |
 | Potty Quest | 225768 | [225768-potty-quest.json](./225768-potty-quest.json) |
 | Potty Racers | 269602 | [269602-potty-racers.json](./269602-potty-racers.json) |
+| Poubelle City | 381359 | [381359-poubelle-city.json](./381359-poubelle-city.json) |
 | Pouch | 340596 | [340596-pouch.json](./340596-pouch.json) |
 | Poultry Party | 341558 | [341558-poultry-party.json](./341558-poultry-party.json) |
 | Poumosa | 406642 | [406642-poumosa.json](./406642-poumosa.json) |
