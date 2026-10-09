@@ -664,6 +664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Story About Farting | 278747 | [278747-a-story-about-farting.json](./278747-a-story-about-farting.json) |
 | A Story About My Uncle | 7211 | [7211-a-story-about-my-uncle.json](./7211-a-story-about-my-uncle.json) |
 | A Story In Space | 158612 | [158612-a-story-in-space.json](./158612-a-story-in-space.json) |
+| A Story of Questions | 348271 | [348271-a-story-of-questions.json](./348271-a-story-of-questions.json) |
 | A Story of the End: Revere | 57152 | [57152-a-story-of-the-end-revere.json](./57152-a-story-of-the-end-revere.json) |
 | A Story of the Usurpers | 130204 | [130204-a-story-of-the-usurpers.json](./130204-a-story-of-the-usurpers.json) |
 | A Story of Us: Ep. 1 - First Memories | 115043 | [115043-a-story-of-us-ep-1-first-memories.json](./115043-a-story-of-us-ep-1-first-memories.json) |
@@ -2533,6 +2534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Irata | 213429 | [213429-age-of-irata.json](./213429-age-of-irata.json) |
 | Age of Jura | 169803 | [169803-age-of-jura.json](./169803-age-of-jura.json) |
 | Age of Legion | 148968 | [148968-age-of-legion.json](./148968-age-of-legion.json) |
+| Age of Mythology: Retold - Heavenly Spear | 348197 | [348197-age-of-mythology-retold-heavenly-spear.json](./348197-age-of-mythology-retold-heavenly-spear.json) |
 | Age of Mythology: Retold - Obsidian Mirror | 395818 | [395818-age-of-mythology-retold-obsidian-mirror.json](./395818-age-of-mythology-retold-obsidian-mirror.json) |
 | Age of Mythology: Tale of the Dragon | 13186 | [13186-age-of-mythology-tale-of-the-dragon.json](./13186-age-of-mythology-tale-of-the-dragon.json) |
 | Age of Pahlevans | 191670 | [191670-age-of-pahlevans.json](./191670-age-of-pahlevans.json) |
@@ -9463,6 +9465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | At Dead of Night | 141235 | [141235-at-dead-of-night.json](./141235-at-dead-of-night.json) |
 | At Dead Of Night: The Great Hugo | 413525 | [413525-at-dead-of-night-the-great-hugo.json](./413525-at-dead-of-night-the-great-hugo.json) |
 | At Eternity's Hatch | 398548 | [398548-at-eternitys-hatch.json](./398548-at-eternitys-hatch.json) |
+| At Fate's End | 348205 | [348205-at-fates-end.json](./348205-at-fates-end.json) |
 | At Hell's Gate | 383148 | [383148-at-hells-gate.json](./383148-at-hells-gate.json) |
 | At Home | 116270 | [116270-at-home.json](./116270-at-home.json) |
 | At Home | 230234 | [230234-at-home.json](./230234-at-home.json) |
