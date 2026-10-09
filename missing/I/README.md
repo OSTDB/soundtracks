@@ -398,6 +398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I woke up and now I'm a knight?! | 210519 | [210519-i-woke-up-and-now-im-a-knight.json](./210519-i-woke-up-and-now-im-a-knight.json) |
 | I Woke up in an RPG | 415871 | [415871-i-woke-up-in-an-rpg.json](./415871-i-woke-up-in-an-rpg.json) |
 | I woke up in the house of a fat man: he's over 30 years old and loves beer and games | 376469 | [376469-i-woke-up-in-the-house-of-a-fat-man-hes-over-30-years-old-and-loves-beer-and-games.json](./376469-i-woke-up-in-the-house-of-a-fat-man-hes-over-30-years-old-and-loves-beer-and-games.json) |
+| I won't finish this game | 350972 | [350972-i-wont-finish-this-game.json](./350972-i-wont-finish-this-game.json) |
 | I Won’t Let You Level up in My Goblin Town | 378424 | [378424-i-won-t-let-you-level-up-in-my-goblin-town.json](./378424-i-won-t-let-you-level-up-in-my-goblin-town.json) |
 | I Would Like a Snack | 397377 | [397377-i-would-like-a-snack.json](./397377-i-would-like-a-snack.json) |
 | I-0: Jailbait on Interstate Zero | 69879 | [69879-i-0-jailbait-on-interstate-zero.json](./69879-i-0-jailbait-on-interstate-zero.json) |
@@ -1135,6 +1136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | If Solitaire | 417476 | [417476-if-solitaire.json](./417476-if-solitaire.json) |
 | If U Seek Amy | 327415 | [327415-if-u-seek-amy.json](./327415-if-u-seek-amy.json) |
 | If We Make It Home | 347790 | [347790-if-we-make-it-home.json](./347790-if-we-make-it-home.json) |
+| If We Were Allowed To VIsit | 350976 | [350976-if-we-were-allowed-to-visit.json](./350976-if-we-were-allowed-to-visit.json) |
 | If You Had One Shot | 364629 | [364629-if-you-had-one-shot.json](./364629-if-you-had-one-shot.json) |
 | If you know what I mean | 88004 | [88004-if-you-know-what-i-mean.json](./88004-if-you-know-what-i-mean.json) |
 | If You Let Me In | 276760 | [276760-if-you-let-me-in.json](./276760-if-you-let-me-in.json) |
@@ -2714,6 +2716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Insanity | 94703 | [94703-insanity.json](./94703-insanity.json) |
 | Insanity Clicker | 34706 | [34706-insanity-clicker.json](./34706-insanity-clicker.json) |
 | Insanity Ice | 199380 | [199380-insanity-ice.json](./199380-insanity-ice.json) |
+| Insanity Locked | 350962 | [350962-insanity-locked.json](./350962-insanity-locked.json) |
 | Insanity VR: Last Score | 53097 | [53097-insanity-vr-last-score.json](./53097-insanity-vr-last-score.json) |
 | Insanity Within | 341653 | [341653-insanity-within.json](./341653-insanity-within.json) |
 | Insanity X | 105400 | [105400-insanity-x.json](./105400-insanity-x.json) |
