@@ -4064,6 +4064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Blair Witch Experience | 73541 | [73541-the-blair-witch-experience.json](./73541-the-blair-witch-experience.json) |
 | The Bleakest Keep | 344344 | [344344-the-bleakest-keep.json](./344344-the-bleakest-keep.json) |
 | The Bleeding Tower Of Pisa | 272924 | [272924-the-bleeding-tower-of-pisa.json](./272924-the-bleeding-tower-of-pisa.json) |
+| The Blessing of Airon | 346638 | [346638-the-blessing-of-airon.json](./346638-the-blessing-of-airon.json) |
 | The Blight | 204930 | [204930-the-blight.json](./204930-the-blight.json) |
 | The Blight RPG | 112127 | [112127-the-blight-rpg.json](./112127-the-blight-rpg.json) |
 | The Blighted Core | 385945 | [385945-the-blighted-core.json](./385945-the-blighted-core.json) |
@@ -11274,6 +11275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Villain Simulator | 319671 | [319671-the-villain-simulator.json](./319671-the-villain-simulator.json) |
 | The Villainess Just Wants to Eat!! | 264327 | [264327-the-villainess-just-wants-to-eat.json](./264327-the-villainess-just-wants-to-eat.json) |
 | The Villainess Quits | 319674 | [319674-the-villainess-quits.json](./319674-the-villainess-quits.json) |
+| The Vineyard | 346627 | [346627-the-vineyard.json](./346627-the-vineyard.json) |
 | The Violets of Amicus | 327330 | [327330-the-violets-of-amicus.json](./327330-the-violets-of-amicus.json) |
 | The Violinist | 298231 | [298231-the-violinist.json](./298231-the-violinist.json) |
 | The Viriditas Chapel of Perpetual Adoration | 241381 | [241381-the-viriditas-chapel-of-perpetual-adoration.json](./241381-the-viriditas-chapel-of-perpetual-adoration.json) |
@@ -16434,6 +16436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower Tactics Arena | 285534 | [285534-tower-tactics-arena.json](./285534-tower-tactics-arena.json) |
 | Tower Tactics: Astral Siege | 336624 | [336624-tower-tactics-astral-siege.json](./336624-tower-tactics-astral-siege.json) |
 | Tower to Heaven | 173313 | [173313-tower-to-heaven.json](./173313-tower-to-heaven.json) |
+| Tower Up | 346547 | [346547-tower-up.json](./346547-tower-up.json) |
 | Tower Walker - The Ancient Ones | 252259 | [252259-tower-walker-the-ancient-ones.json](./252259-tower-walker-the-ancient-ones.json) |
 | Tower Walker: MMO Grind Simulator | 217504 | [217504-tower-walker-mmo-grind-simulator.json](./217504-tower-walker-mmo-grind-simulator.json) |
 | Tower War: Tactical Conquest | 245333 | [245333-tower-war-tactical-conquest.json](./245333-tower-war-tactical-conquest.json) |
