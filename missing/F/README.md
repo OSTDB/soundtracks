@@ -3713,6 +3713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | First Class Flurry | 90372 | [90372-first-class-flurry.json](./90372-first-class-flurry.json) |
 | First Class Rescue | 407312 | [407312-first-class-rescue.json](./407312-first-class-rescue.json) |
 | First Class Solitaire | 366426 | [366426-first-class-solitaire.json](./366426-first-class-solitaire.json) |
+| First Class Solitaire HD | 354973 | [354973-first-class-solitaire-hd.json](./354973-first-class-solitaire-hd.json) |
 | First Comes Love | 313885 | [313885-first-comes-love.json](./313885-first-comes-love.json) |
 | First Contact | 55986 | [55986-first-contact.json](./55986-first-contact.json) |
 | First Contact Protocol | 355500 | [355500-first-contact-protocol.json](./355500-first-contact-protocol.json) |
