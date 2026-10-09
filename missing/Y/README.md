@@ -843,6 +843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Your Blue Room | 185616 | [185616-your-blue-room.json](./185616-your-blue-room.json) |
 | Your Boss is Calling... | 214391 | [214391-your-boss-is-calling.json](./214391-your-boss-is-calling.json) |
 | Your Canvas | 387638 | [387638-your-canvas.json](./387638-your-canvas.json) |
+| Your Cattle | 343293 | [343293-your-cattle.json](./343293-your-cattle.json) |
 | Your Channel | 228425 | [228425-your-channel.json](./228425-your-channel.json) |
 | Your Chronicle | 168716 | [168716-your-chronicle.json](./168716-your-chronicle.json) |
 | Your City in 3D | 158662 | [158662-your-city-in-3d.json](./158662-your-city-in-3d.json) |
