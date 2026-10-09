@@ -2759,6 +2759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret Pet Detective | 96574 | [96574-secret-pet-detective.json](./96574-secret-pet-detective.json) |
 | Secret Pet Playmate | 243930 | [243930-secret-pet-playmate.json](./243930-secret-pet-playmate.json) |
 | Secret Photo | 269212 | [269212-secret-photo.json](./269212-secret-photo.json) |
+| Secret Pie | 345529 | [345529-secret-pie.json](./345529-secret-pie.json) |
 | Secret Pie: End Roll | 298024 | [298024-secret-pie-end-roll.json](./298024-secret-pie-end-roll.json) |
 | Secret Pie: Hidden Room | 255018 | [255018-secret-pie-hidden-room.json](./255018-secret-pie-hidden-room.json) |
 | Secret Quest | 41108 | [41108-secret-quest.json](./41108-secret-quest.json) |
@@ -7415,6 +7416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skoory Rush | 250463 | [250463-skoory-rush.json](./250463-skoory-rush.json) |
 | Skorecery | 113577 | [113577-skorecery.json](./113577-skorecery.json) |
 | Skout | 9358 | [9358-skout.json](./9358-skout.json) |
+| Skrach.it | 345450 | [345450-skrach-it.json](./345450-skrach-it.json) |
 | Skramble | 40928 | [40928-skramble.json](./40928-skramble.json) |
 | Skroll | 408714 | [408714-skroll.json](./408714-skroll.json) |
 | Skronchulonch: The Game of Shooting at an Orb | 176375 | [176375-skronchulonch-the-game-of-shooting-at-an-orb.json](./176375-skronchulonch-the-game-of-shooting-at-an-orb.json) |
@@ -9192,6 +9194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snoopy's Silly Sports Spectacular! | 48077 | [48077-snoopys-silly-sports-spectacular.json](./48077-snoopys-silly-sports-spectacular.json) |
 | Snoot Booper | 392282 | [392282-snoot-booper.json](./392282-snoot-booper.json) |
 | Snoot Game | 225989 | [225989-snoot-game.json](./225989-snoot-game.json) |
+| Snoot Runner | 345463 | [345463-snoot-runner.json](./345463-snoot-runner.json) |
 | Snootz Math Trek | 301369 | [301369-snootz-math-trek.json](./301369-snootz-math-trek.json) |
 | Snooze Control | 416094 | [416094-snooze-control.json](./416094-snooze-control.json) |
 | Snooze or Lose | 276718 | [276718-snooze-or-lose.json](./276718-snooze-or-lose.json) |
@@ -9557,6 +9560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soccertron | 11132 | [11132-soccertron.json](./11132-soccertron.json) |
 | Social Club VR : Casino Nights | 130746 | [130746-social-club-vr-casino-nights.json](./130746-social-club-vr-casino-nights.json) |
 | Social Democracy: An Alternate History | 301376 | [301376-social-democracy-an-alternate-history.json](./301376-social-democracy-an-alternate-history.json) |
+| Social Democracy: Petrograd 1917 - An Alternate History | 345454 | [345454-social-democracy-petrograd-1917-an-alternate-history.json](./345454-social-democracy-petrograd-1917-an-alternate-history.json) |
 | Social Distancing Simulator | 166204 | [166204-social-distancing-simulator.json](./166204-social-distancing-simulator.json) |
 | Social Hook | 333000 | [333000-social-hook.json](./333000-social-hook.json) |
 | Social Interaction Trainer | 31531 | [31531-social-interaction-trainer.json](./31531-social-interaction-trainer.json) |
@@ -11605,6 +11609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Contact | 340198 | [340198-space-contact.json](./340198-space-contact.json) |
 | Space Control | 190955 | [190955-space-control.json](./190955-space-control.json) |
 | Space Core | 103869 | [103869-space-core.json](./103869-space-core.json) |
+| Space Corgi | 345433 | [345433-space-corgi.json](./345433-space-corgi.json) |
 | Space Court | 137684 | [137684-space-court.json](./137684-space-court.json) |
 | Space Cowboy | 25603 | [25603-space-cowboy.json](./25603-space-cowboy.json) |
 | Space Cowboy Radio | 359049 | [359049-space-cowboy-radio.json](./359049-space-cowboy-radio.json) |
@@ -13207,6 +13212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spire of Ash | 396601 | [396601-spire-of-ash.json](./396601-spire-of-ash.json) |
 | Spire of Glory | 227947 | [227947-spire-of-glory.json](./227947-spire-of-glory.json) |
 | Spire of Lust & Fetish | 257953 | [257953-spire-of-lust-and-fetish.json](./257953-spire-of-lust-and-fetish.json) |
+| Spires of Morosith: Gossamer Sundered | 345458 | [345458-spires-of-morosith-gossamer-sundered.json](./345458-spires-of-morosith-gossamer-sundered.json) |
 | Spiriat | 197118 | [197118-spiriat.json](./197118-spiriat.json) |
 | Spiriki: Tiny Island | 404860 | [404860-spiriki-tiny-island.json](./404860-spiriki-tiny-island.json) |
 | Spirit & Steel | 380601 | [380601-spirit-and-steel.json](./380601-spirit-and-steel.json) |
@@ -14607,6 +14613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Sonata 2 | 36276 | [36276-star-sonata-2.json](./36276-star-sonata-2.json) |
 | Star Soraight Fantasy: Magic to Reach the Sky | 343981 | [343981-star-soraight-fantasy-magic-to-reach-the-sky.json](./343981-star-soraight-fantasy-magic-to-reach-the-sky.json) |
 | Star Spectre | 217393 | [217393-star-spectre.json](./217393-star-spectre.json) |
+| Star Squadron | 345441 | [345441-star-squadron.json](./345441-star-squadron.json) |
 | Star Squadron: Student Driver | 149548 | [149548-star-squadron-student-driver.json](./149548-star-squadron-student-driver.json) |
 | Star Stable | 60338 | [60338-star-stable.json](./60338-star-stable.json) |
 | Star Stealing Prince: Definitive | 183962 | [183962-star-stealing-prince-definitive.json](./183962-star-stealing-prince-definitive.json) |
