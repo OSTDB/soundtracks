@@ -873,6 +873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Cultivation | 369241 | [369241-idle-cultivation.json](./369241-idle-cultivation.json) |
 | Idle Cutter | 247213 | [247213-idle-cutter.json](./247213-idle-cutter.json) |
 | Idle Cyber Dungeon | 221229 | [221229-idle-cyber-dungeon.json](./221229-idle-cyber-dungeon.json) |
+| Idle Dangers | 347200 | [347200-idle-dangers.json](./347200-idle-dangers.json) |
 | Idle Death Knight | 208031 | [208031-idle-death-knight.json](./208031-idle-death-knight.json) |
 | Idle Dessert Tycoon | 299452 | [299452-idle-dessert-tycoon.json](./299452-idle-dessert-tycoon.json) |
 | Idle Devils | 235851 | [235851-idle-devils.json](./235851-idle-devils.json) |
