@@ -1228,6 +1228,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warriors Orochi 4: Scenario Pack | 237975 | [237975-warriors-orochi-4-scenario-pack.json](./237975-warriors-orochi-4-scenario-pack.json) |
 | Warriors Orochi 4: Scenario Pack 1 | 252804 | [252804-warriors-orochi-4-scenario-pack-1.json](./252804-warriors-orochi-4-scenario-pack-1.json) |
 | Warriors Waifus Mahjong | 336559 | [336559-warriors-waifus-mahjong.json](./336559-warriors-waifus-mahjong.json) |
+| Warriors: Abyss - Atelier Series Academy Costume Set | 379120 | [379120-warriors-abyss-atelier-series-academy-costume-set.json](./379120-warriors-abyss-atelier-series-academy-costume-set.json) |
+| Warriors: Abyss - Atelier Series Vacation Costume Set | 379119 | [379119-warriors-abyss-atelier-series-vacation-costume-set.json](./379119-warriors-abyss-atelier-series-vacation-costume-set.json) |
+| Warriors: Abyss - Dynasty Warriors Classic Costume Set | 379118 | [379118-warriors-abyss-dynasty-warriors-classic-costume-set.json](./379118-warriors-abyss-dynasty-warriors-classic-costume-set.json) |
 | Warriors: Legends of Troy | 7244 | [7244-warriors-legends-of-troy.json](./7244-warriors-legends-of-troy.json) |
 | Wars Across the World | 35987 | [35987-wars-across-the-world.json](./35987-wars-across-the-world.json) |
 | Wars Across the World: Agathocles 312 | 193190 | [193190-wars-across-the-world-agathocles-312.json](./193190-wars-across-the-world-agathocles-312.json) |
@@ -2886,6 +2889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Who is Awesome | 128355 | [128355-who-is-awesome.json](./128355-who-is-awesome.json) |
 | Who is God | 305857 | [305857-who-is-god.json](./305857-who-is-god.json) |
 | Who Is It? | 261512 | [261512-who-is-it.json](./261512-who-is-it.json) |
+| Who is Johnny Sixgun? | 379168 | [379168-who-is-johnny-sixgun.json](./379168-who-is-johnny-sixgun.json) |
 | Who Is Oscar Lake? | 72622 | [72622-who-is-oscar-lake.json](./72622-who-is-oscar-lake.json) |
 | Who is the Defendant: Deliberately Rough | 312554 | [312554-who-is-the-defendant-deliberately-rough.json](./312554-who-is-the-defendant-deliberately-rough.json) |
 | Who is the Hero of This Game | 195784 | [195784-who-is-the-hero-of-this-game.json](./195784-who-is-the-hero-of-this-game.json) |
