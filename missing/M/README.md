@@ -2515,6 +2515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario's Keytastrophe: Rebirth Edition | 268445 | [268445-marios-keytastrophe-rebirth-edition.json](./268445-marios-keytastrophe-rebirth-edition.json) |
 | Mario's Little Odyssey | 135218 | [135218-marios-little-odyssey.json](./135218-marios-little-odyssey.json) |
 | Mario's Mahalo Party | 324092 | [324092-marios-mahalo-party.json](./324092-marios-mahalo-party.json) |
+| Mario's Matching Madness | 341449 | [341449-marios-matching-madness.json](./341449-marios-matching-madness.json) |
 | Mario's Mini Micro Adventures | 331311 | [331311-marios-mini-micro-adventures.json](./331311-marios-mini-micro-adventures.json) |
 | Mario's Mission Earth | 195733 | [195733-marios-mission-earth.json](./195733-marios-mission-earth.json) |
 | Mario's Modules | 388945 | [388945-marios-modules.json](./388945-marios-modules.json) |
@@ -6056,6 +6057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meticulous: Meet All Your Needs | 215614 | [215614-meticulous-meet-all-your-needs.json](./215614-meticulous-meet-all-your-needs.json) |
 | Metin2 | 3119 | [3119-metin2.json](./3119-metin2.json) |
 | MetioTower | 152254 | [152254-metiotower.json](./152254-metiotower.json) |
+| Metits Magic 3: The Revenge of Luli | 341453 | [341453-metits-magic-3-the-revenge-of-luli.json](./341453-metits-magic-3-the-revenge-of-luli.json) |
 | Metori | 107864 | [107864-metori.json](./107864-metori.json) |
 | Metric Racer | 133427 | [133427-metric-racer.json](./133427-metric-racer.json) |
 | Metrico | 19919 | [19919-metrico.json](./19919-metrico.json) |
@@ -9844,6 +9846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monument Builders: Rushmore | 58648 | [58648-monument-builders-rushmore.json](./58648-monument-builders-rushmore.json) |
 | Monument Journey: Nitro | 213898 | [213898-monument-journey-nitro.json](./213898-monument-journey-nitro.json) |
 | Monument Valley | 8900 | [8900-monument-valley.json](./8900-monument-valley.json) |
+| Monument Valley 1&2 Bundle | 341446 | [341446-monument-valley-1-and-2-bundle.json](./341446-monument-valley-1-and-2-bundle.json) |
 | Monument Valley II: The Lost Forest | 255779 | [255779-monument-valley-ii-the-lost-forest.json](./255779-monument-valley-ii-the-lost-forest.json) |
 | Monument Valley III | 121277 | [121277-monument-valley-iii.json](./121277-monument-valley-iii.json) |
 | Monument Valley: Panoramic Edition | 203331 | [203331-monument-valley-panoramic-edition.json](./203331-monument-valley-panoramic-edition.json) |
@@ -10869,6 +10872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mountain Taxi Driver | 119745 | [119745-mountain-taxi-driver.json](./119745-mountain-taxi-driver.json) |
 | Mountain Trap 2: Under the Cloak of Fear | 30309 | [30309-mountain-trap-2-under-the-cloak-of-fear.json](./30309-mountain-trap-2-under-the-cloak-of-fear.json) |
 | Mountain Trap: The Manor of Memories | 26576 | [26576-mountain-trap-the-manor-of-memories.json](./26576-mountain-trap-the-manor-of-memories.json) |
+| Mountain's Memory | 341450 | [341450-mountains-memory.json](./341450-mountains-memory.json) |
 | Mountain's Secret | 345440 | [345440-mountains-secret.json](./345440-mountains-secret.json) |
 | Mountaincore | 245932 | [245932-mountaincore.json](./245932-mountaincore.json) |
 | Mountaineer | 55712 | [55712-mountaineer.json](./55712-mountaineer.json) |
