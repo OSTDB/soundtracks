@@ -1103,6 +1103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Banana 3D | 338190 | [338190-banana-3d.json](./338190-banana-3d.json) |
 | Banana Attack VR | 234196 | [234196-banana-attack-vr.json](./234196-banana-attack-vr.json) |
 | Banana Bam | 394448 | [394448-banana-bam.json](./394448-banana-bam.json) |
+| Banana Barrage | 341462 | [341462-banana-barrage.json](./341462-banana-barrage.json) |
 | Banana Bliss: Jungle Puzzles | 23515 | [23515-banana-bliss-jungle-puzzles.json](./23515-banana-bliss-jungle-puzzles.json) |
 | Banana Boat | 284442 | [284442-banana-boat.json](./284442-banana-boat.json) |
 | Banana Boat Water Speed Race | 107071 | [107071-banana-boat-water-speed-race.json](./107071-banana-boat-water-speed-race.json) |
