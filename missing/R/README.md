@@ -2209,6 +2209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Arrows | 13749 | [13749-red-arrows.json](./13749-red-arrows.json) |
 | Red Ash | 60043 | [60043-red-ash.json](./60043-red-ash.json) |
 | Red Ash: The Indelible Legend | 15708 | [15708-red-ash-the-indelible-legend.json](./15708-red-ash-the-indelible-legend.json) |
+| Red Awe | 375584 | [375584-red-awe.json](./375584-red-awe.json) |
 | Red Babe | 93342 | [93342-red-babe.json](./93342-red-babe.json) |
 | Red Ball | 55917 | [55917-red-ball.json](./55917-red-ball.json) |
 | Red Ball 2 | 166520 | [166520-red-ball-2.json](./166520-red-ball-2.json) |
