@@ -174,6 +174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Don't Know Which Name I Should Give This Game | 159048 | [159048-i-dont-know-which-name-i-should-give-this-game.json](./159048-i-dont-know-which-name-i-should-give-this-game.json) |
 | I Don't Think I've Walked This Stretch of Road Before | 188442 | [188442-i-dont-think-ive-walked-this-stretch-of-road-before.json](./188442-i-dont-think-ive-walked-this-stretch-of-road-before.json) |
 | I dream of you and ice cream | 135654 | [135654-i-dream-of-you-and-ice-cream.json](./135654-i-dream-of-you-and-ice-cream.json) |
+| I Dreamed about static again | 378565 | [378565-i-dreamed-about-static-again.json](./378565-i-dreamed-about-static-again.json) |
 | I Drink Sorrel Coffee to Reboot Reality, but I’m Being Hunted by Monster Girls and Armed Agents | 334284 | [334284-i-drink-sorrel-coffee-to-reboot-reality-but-i-m-being-hunted-by-monster-girls-and-armed-agents.json](./334284-i-drink-sorrel-coffee-to-reboot-reality-but-i-m-being-hunted-by-monster-girls-and-armed-agents.json) |
 | I Eat Paintings When Guards Aren't Looking | 394506 | [394506-i-eat-paintings-when-guards-arent-looking.json](./394506-i-eat-paintings-when-guards-arent-looking.json) |
 | I Expect You to Die 2 | 152218 | [152218-i-expect-you-to-die-2.json](./152218-i-expect-you-to-die-2.json) |
@@ -1741,6 +1742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In Search of Paradise | 182829 | [182829-in-search-of-paradise.json](./182829-in-search-of-paradise.json) |
 | In Search of Something | 334191 | [334191-in-search-of-something.json](./334191-in-search-of-something.json) |
 | In Search of the Golden Crops | 321596 | [321596-in-search-of-the-golden-crops.json](./321596-in-search-of-the-golden-crops.json) |
+| In Search of the Ice Pop | 378539 | [378539-in-search-of-the-ice-pop.json](./378539-in-search-of-the-ice-pop.json) |
 | In Search of the Most Amazing Thing | 69820 | [69820-in-search-of-the-most-amazing-thing.json](./69820-in-search-of-the-most-amazing-thing.json) |
 | In Search Of You | 314375 | [314375-in-search-of-you.json](./314375-in-search-of-you.json) |
 | In Search Of... | 159715 | [159715-in-search-of.json](./159715-in-search-of.json) |
@@ -2283,6 +2285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Mario 64 | 288851 | [288851-infinite-mario-64.json](./288851-infinite-mario-64.json) |
 | Infinite Mario Bros. | 212694 | [212694-infinite-mario-bros.json](./212694-infinite-mario-bros.json) |
 | Infinite Minefield | 386472 | [386472-infinite-minefield.json](./386472-infinite-minefield.json) |
+| Infinite Minesweeper | 378587 | [378587-infinite-minesweeper.json](./378587-infinite-minesweeper.json) |
 | Infinite Minigolf: Hangar 37 | 170835 | [170835-infinite-minigolf-hangar-37.json](./170835-infinite-minigolf-hangar-37.json) |
 | Infinite Minigolf: Tortuga | 170834 | [170834-infinite-minigolf-tortuga.json](./170834-infinite-minigolf-tortuga.json) |
 | Infinite Monkey Autocorrect | 89205 | [89205-infinite-monkey-autocorrect.json](./89205-infinite-monkey-autocorrect.json) |
@@ -3043,6 +3046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Interstellar Connection | 183013 | [183013-interstellar-connection.json](./183013-interstellar-connection.json) |
 | Interstellar Conquest | 238582 | [238582-interstellar-conquest.json](./238582-interstellar-conquest.json) |
 | Interstellar Dragon: Into the depths... of space! | 374670 | [374670-interstellar-dragon-into-the-depths-of-space.json](./374670-interstellar-dragon-into-the-depths-of-space.json) |
+| Interstellar Empires | 378595 | [378595-interstellar-empires.json](./378595-interstellar-empires.json) |
 | Interstellar Escape | 333795 | [333795-interstellar-escape.json](./333795-interstellar-escape.json) |
 | Interstellar Espionage Inc. | 372453 | [372453-interstellar-espionage-inc.json](./372453-interstellar-espionage-inc.json) |
 | Interstellar Flames 2 | 70574 | [70574-interstellar-flames-2.json](./70574-interstellar-flames-2.json) |
