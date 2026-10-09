@@ -583,6 +583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eclipse Isle | 125435 | [125435-eclipse-isle.json](./125435-eclipse-isle.json) |
 | Eclipse of Eldergaard | 386418 | [386418-eclipse-of-eldergaard.json](./386418-eclipse-of-eldergaard.json) |
 | Eclipse of Elysium | 295815 | [295815-eclipse-of-elysium.json](./295815-eclipse-of-elysium.json) |
+| Eclipse of Fate | 366720 | [366720-eclipse-of-fate.json](./366720-eclipse-of-fate.json) |
 | Eclipse of Illusion | 68983 | [68983-eclipse-of-illusion.json](./68983-eclipse-of-illusion.json) |
 | Eclipse Saga | 188389 | [188389-eclipse-saga.json](./188389-eclipse-saga.json) |
 | Eclipse Survivors | 249757 | [249757-eclipse-survivors.json](./249757-eclipse-survivors.json) |
@@ -4768,6 +4769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eye of the Temple | 95018 | [95018-eye-of-the-temple.json](./95018-eye-of-the-temple.json) |
 | Eye on the world | 258731 | [258731-eye-on-the-world.json](./258731-eye-on-the-world.json) |
 | Eye on You! | 340046 | [340046-eye-on-you.json](./340046-eye-on-you.json) |
+| Eye to Eye | 366718 | [366718-eye-to-eye.json](./366718-eye-to-eye.json) |
 | Eye Transplant : ER Emergency Hospital | 100855 | [100855-eye-transplant-er-emergency-hospital.json](./100855-eye-transplant-er-emergency-hospital.json) |
 | Eye-Create | 84457 | [84457-eye-create.json](./84457-eye-create.json) |
 | Eye-tai: Kompeito-hen | 202764 | [202764-eye-tai-kompeito-hen.json](./202764-eye-tai-kompeito-hen.json) |
