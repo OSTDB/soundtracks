@@ -2050,6 +2050,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Favorite Dear: Enkan no Monogatari | 63530 | [63530-favorite-dear-enkan-no-monogatari.json](./63530-favorite-dear-enkan-no-monogatari.json) |
 | Favorite Dear: Junpaku no Yogensha | 63531 | [63531-favorite-dear-junpaku-no-yogensha.json](./63531-favorite-dear-junpaku-no-yogensha.json) |
 | Fawe: Enchanted Forest | 193212 | [193212-fawe-enchanted-forest.json](./193212-fawe-enchanted-forest.json) |
+| Fawful Mod Mario Kart 7 | 340981 | [340981-fawful-mod-mario-kart-7.json](./340981-fawful-mod-mario-kart-7.json) |
+| Fawful Mod Mario Kart 8 | 340982 | [340982-fawful-mod-mario-kart-8.json](./340982-fawful-mod-mario-kart-8.json) |
+| Fawful Mod Mario Kart Ds | 340979 | [340979-fawful-mod-mario-kart-ds.json](./340979-fawful-mod-mario-kart-ds.json) |
 | Fawning Over a Corpse | 266862 | [266862-fawning-over-a-corpse.json](./266862-fawning-over-a-corpse.json) |
 | Fax | 39535 | [39535-fax.json](./39535-fax.json) |
 | Fax These to Smith!!! | 128562 | [128562-fax-these-to-smith.json](./128562-fax-these-to-smith.json) |
@@ -2251,6 +2254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feisty Feet | 42769 | [42769-feisty-feet.json](./42769-feisty-feet.json) |
 | Fèitǔ Báixuěgōngzhǔ | 348855 | [348855-feitu-baixuegongzhu.json](./348855-feitu-baixuegongzhu.json) |
 | Feitu Huiguniang | 348846 | [348846-feitu-huiguniang.json](./348846-feitu-huiguniang.json) |
+| Fèitǔ Xiǎohóngmào | 340970 | [340970-feitu-xiaohongmao.json](./340970-feitu-xiaohongmao.json) |
 | Fèitǔ Xiǎohóngmào | 348836 | [348836-feitu-xiaohongmao.json](./348836-feitu-xiaohongmao.json) |
 | Felicat’s Urban Odyssey | 253958 | [253958-felicat-s-urban-odyssey.json](./253958-felicat-s-urban-odyssey.json) |
 | Felicity's Door | 381104 | [381104-felicitys-door.json](./381104-felicitys-door.json) |
@@ -2944,6 +2948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Destiny | 307244 | [307244-final-destiny.json](./307244-final-destiny.json) |
 | Final District | 345045 | [345045-final-district.json](./345045-final-district.json) |
 | Final Doom | 8191 | [8191-final-doom.json](./8191-final-doom.json) |
+| Final Dream | 340973 | [340973-final-dream.json](./340973-final-dream.json) |
 | Final Duel 2: Deathmatch arena | 73775 | [73775-final-duel-2-deathmatch-arena.json](./73775-final-duel-2-deathmatch-arena.json) |
 | Final Dusk | 36046 | [36046-final-dusk.json](./36046-final-dusk.json) |
 | Final Echo | 348802 | [348802-final-echo.json](./348802-final-echo.json) |
