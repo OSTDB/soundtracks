@@ -1427,6 +1427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UniPlex | 186705 | [186705-uniplex.json](./186705-uniplex.json) |
 | UniqKiller | 307222 | [307222-uniqkiller.json](./307222-uniqkiller.json) |
 | UniqKiller: Urban Shooter | 323514 | [323514-uniqkiller-urban-shooter.json](./323514-uniqkiller-urban-shooter.json) |
+| Uniqlo × Boxboy! | 345414 | [345414-uniqlo-boxboy.json](./345414-uniqlo-boxboy.json) |
 | Unique Lady | 370345 | [370345-unique-lady.json](./370345-unique-lady.json) |
 | Uniracers | 16743 | [16743-uniracers.json](./16743-uniracers.json) |
 | Uniseas | 131555 | [131555-uniseas.json](./131555-uniseas.json) |
@@ -2185,6 +2186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Usual | 296624 | [296624-usual.json](./296624-usual.json) |
 | Usual John | 105141 | [105141-usual-john.json](./105141-usual-john.json) |
 | Usual June | 279615 | [279615-usual-june.json](./279615-usual-june.json) |
+| Usurper | 345530 | [345530-usurper.json](./345530-usurper.json) |
 | Usurper Ghoul | 316688 | [316688-usurper-ghoul.json](./316688-usurper-ghoul.json) |
 | Usurper of Fire | 408035 | [408035-usurper-of-fire.json](./408035-usurper-of-fire.json) |
 | Usurper Reborn | 400414 | [400414-usurper-reborn.json](./400414-usurper-reborn.json) |
