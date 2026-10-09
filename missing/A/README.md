@@ -4968,6 +4968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ampere | 202265 | [202265-ampere.json](./202265-ampere.json) |
 | Ampersand | 34273 | [34273-ampersand.json](./34273-ampersand.json) |
 | Ampguard | 188678 | [188678-ampguard.json](./188678-ampguard.json) |
+| Amphibarium | 384858 | [384858-amphibarium.json](./384858-amphibarium.json) |
 | Amphigeum | 382443 | [382443-amphigeum.json](./382443-amphigeum.json) |
 | Amphis Game | 381122 | [381122-amphis-game.json](./381122-amphis-game.json) |
 | Amphora Hell | 336556 | [336556-amphora-hell.json](./336556-amphora-hell.json) |
@@ -6019,6 +6020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anomalous Zone | 211434 | [211434-anomalous-zone.json](./211434-anomalous-zone.json) |
 | Anomaly 13 | 358296 | [358296-anomaly-13.json](./358296-anomaly-13.json) |
 | Anomaly 2 | 9212 | [9212-anomaly-2.json](./9212-anomaly-2.json) |
+| Anomaly 404 | 384863 | [384863-anomaly-404.json](./384863-anomaly-404.json) |
 | Anomaly Agent | 249084 | [249084-anomaly-agent.json](./249084-anomaly-agent.json) |
 | Anomaly Company | 389123 | [389123-anomaly-company.json](./389123-anomaly-company.json) |
 | Anomaly Control Simulator | 409646 | [409646-anomaly-control-simulator.json](./409646-anomaly-control-simulator.json) |
@@ -8996,6 +8998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astra Squad | 394131 | [394131-astra-squad.json](./394131-astra-squad.json) |
 | Astra Superstars | 39603 | [39603-astra-superstars.json](./39603-astra-superstars.json) |
 | Astra Vortex | 370906 | [370906-astra-vortex.json](./370906-astra-vortex.json) |
+| Astra Wing | 384825 | [384825-astra-wing.json](./384825-astra-wing.json) |
 | Astra: Fading Stars | 143124 | [143124-astra-fading-stars.json](./143124-astra-fading-stars.json) |
 | Astra's Garden | 234543 | [234543-astras-garden.json](./234543-astras-garden.json) |
 | Astra's Moon | 179671 | [179671-astras-moon.json](./179671-astras-moon.json) |
