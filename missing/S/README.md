@@ -1323,6 +1323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Satomi Hakkenden Murasamemaru no Ki | 220575 | [220575-satomi-hakkenden-murasamemaru-no-ki.json](./220575-satomi-hakkenden-murasamemaru-no-ki.json) |
 | Satori | 285571 | [285571-satori.json](./285571-satori.json) |
 | Satori | 336391 | [336391-satori.json](./336391-satori.json) |
+| Satori | 350960 | [350960-satori.json](./350960-satori.json) |
 | Satori | 93222 | [93222-satori.json](./93222-satori.json) |
 | Satori no Atelier | 210610 | [210610-satori-no-atelier.json](./210610-satori-no-atelier.json) |
 | Satori no Atelier 2: Alice vs. Ikari no Death Danmaku Settai | 210613 | [210613-satori-no-atelier-2-alice-vs-ikari-no-death-danmaku-settai.json](./210613-satori-no-atelier-2-alice-vs-ikari-no-death-danmaku-settai.json) |
@@ -5198,6 +5199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shinshou Ikemen Ooku | 239014 | [239014-shinshou-ikemen-ooku.json](./239014-shinshou-ikemen-ooku.json) |
 | Shinshou Sange: Chiru Hana | 384248 | [384248-shinshou-sange-chiru-hana.json](./384248-shinshou-sange-chiru-hana.json) |
 | Shinshuku Taisen: It's a Noni! | 123622 | [123622-shinshuku-taisen-its-a-noni.json](./123622-shinshuku-taisen-its-a-noni.json) |
+| Shinsou Kaiten!! Wan-wan Umi Monogatari: Sanyo Pachinko Paradise DX | 351072 | [351072-shinsou-kaiten-wan-wan-umi-monogatari-sanyo-pachinko-paradise-dx.json](./351072-shinsou-kaiten-wan-wan-umi-monogatari-sanyo-pachinko-paradise-dx.json) |
 | Shinsou Seiki Elementia ~Kutsujoku no Sennou Saimin~ | 133246 | [133246-shinsou-seiki-elementia-kutsujoku-no-sennou-saimin.json](./133246-shinsou-seiki-elementia-kutsujoku-no-sennou-saimin.json) |
 | Shinsouban Mahoutsukai to Goshujin-sama: Wizard and The Master | 60251 | [60251-shinsouban-mahoutsukai-to-goshujin-sama-wizard-and-the-master.json](./60251-shinsouban-mahoutsukai-to-goshujin-sama-wizard-and-the-master.json) |
 | Shiny Ninjas | 36479 | [36479-shiny-ninjas.json](./36479-shiny-ninjas.json) |
@@ -6393,6 +6395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silkgrove | 338322 | [338322-silkgrove.json](./338322-silkgrove.json) |
 | Silkroad 8 | 394157 | [394157-silkroad-8.json](./394157-silkroad-8.json) |
 | Silkroad Project | 398494 | [398494-silkroad-project.json](./398494-silkroad-project.json) |
+| Silktrails: Cats in the Grove | 351059 | [351059-silktrails-cats-in-the-grove.json](./351059-silktrails-cats-in-the-grove.json) |
 | Silky Road | 355565 | [355565-silky-road.json](./355565-silky-road.json) |
 | Silky Winds | 362348 | [362348-silky-winds.json](./362348-silky-winds.json) |
 | Sillage | 195117 | [195117-sillage.json](./195117-sillage.json) |
@@ -8563,6 +8566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smash Remix: Version 1.2.0 | 255784 | [255784-smash-remix-version-1-2-0.json](./255784-smash-remix-version-1-2-0.json) |
 | Smash Remix: Version 1.3.0 | 255786 | [255786-smash-remix-version-1-3-0.json](./255786-smash-remix-version-1-3-0.json) |
 | Smash Remix: Version 1.4.0 | 255787 | [255787-smash-remix-version-1-4-0.json](./255787-smash-remix-version-1-4-0.json) |
+| Smash Remix: Version 2.0.0 | 351064 | [351064-smash-remix-version-2-0-0.json](./351064-smash-remix-version-2-0-0.json) |
 | Smash Reversi | 167287 | [167287-smash-reversi.json](./167287-smash-reversi.json) |
 | Smash Runner | 259164 | [259164-smash-runner.json](./259164-smash-runner.json) |
 | Smash Runner! | 223912 | [223912-smash-runner.json](./223912-smash-runner.json) |
@@ -11995,6 +11999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Science Investigations | 215211 | [215211-space-science-investigations.json](./215211-space-science-investigations.json) |
 | Space Scrap Shuffle | 183351 | [183351-space-scrap-shuffle.json](./183351-space-scrap-shuffle.json) |
 | Space ScrubLords | 348930 | [348930-space-scrublords.json](./348930-space-scrublords.json) |
+| Space Scum | 351056 | [351056-space-scum.json](./351056-space-scum.json) |
 | Space Sergeants | 143941 | [143941-space-sergeants.json](./143941-space-sergeants.json) |
 | Space Shadow | 178988 | [178988-space-shadow.json](./178988-space-shadow.json) |
 | Space Shapes | 126567 | [126567-space-shapes.json](./126567-space-shapes.json) |
@@ -12301,6 +12306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spadyssey | 93736 | [93736-spadyssey.json](./93736-spadyssey.json) |
 | Spaghet | 96652 | [96652-spaghet.json](./96652-spaghet.json) |
 | Spaghet 2: Al Dente Chapter | 168862 | [168862-spaghet-2-al-dente-chapter.json](./168862-spaghet-2-al-dente-chapter.json) |
+| SpaghettiKart | 350955 | [350955-spaghettikart.json](./350955-spaghettikart.json) |
 | Spakoyno: Back to USSR 2.0 | 34796 | [34796-spakoyno-back-to-ussr-2-0.json](./34796-spakoyno-back-to-ussr-2-0.json) |
 | Spam | 315689 | [315689-spam.json](./315689-spam.json) |
 | Spam Runner 2 | 379012 | [379012-spam-runner-2.json](./379012-spam-runner-2.json) |
@@ -19094,6 +19100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario 64: Green Demon Challenge | 365714 | [365714-super-mario-64-green-demon-challenge.json](./365714-super-mario-64-green-demon-challenge.json) |
 | Super Mario 64: Ocarina of Time | 132837 | [132837-super-mario-64-ocarina-of-time.json](./132837-super-mario-64-ocarina-of-time.json) |
 | Super Mario 64: Odyssey Mario's Moveset | 198368 | [198368-super-mario-64-odyssey-marios-moveset.json](./198368-super-mario-64-odyssey-marios-moveset.json) |
+| Super Mario 64: Openworld Quest | 350958 | [350958-super-mario-64-openworld-quest.json](./350958-super-mario-64-openworld-quest.json) |
 | Super Mario 64: Rogue Chaos Edition Version 2.0 | 413054 | [413054-super-mario-64-rogue-chaos-edition-version-2-0.json](./413054-super-mario-64-rogue-chaos-edition-version-2-0.json) |
 | Super Mario 64: Royal Legacy - Definitive Edition | 314021 | [314021-super-mario-64-royal-legacy-definitive-edition.json](./314021-super-mario-64-royal-legacy-definitive-edition.json) |
 | Super Mario 64: Shadow Edition | 194313 | [194313-super-mario-64-shadow-edition.json](./194313-super-mario-64-shadow-edition.json) |
@@ -20245,6 +20252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SuperLite 1500 Series: The Curling | 98244 | [98244-superlite-1500-series-the-curling.json](./98244-superlite-1500-series-the-curling.json) |
 | SuperLite 1500 series: The Tetris | 98801 | [98801-superlite-1500-series-the-tetris.json](./98801-superlite-1500-series-the-tetris.json) |
 | SuperLite 1500: Crazy Balloon 2000 | 97323 | [97323-superlite-1500-crazy-balloon-2000.json](./97323-superlite-1500-crazy-balloon-2000.json) |
+| SuperLite 2000 Table Hanafuda | 351068 | [351068-superlite-2000-table-hanafuda.json](./351068-superlite-2000-table-hanafuda.json) |
 | SuperLite 2000: Oekaki Puzzle | 386127 | [386127-superlite-2000-oekaki-puzzle.json](./386127-superlite-2000-oekaki-puzzle.json) |
 | SuperLite 2000: Othello | 54938 | [54938-superlite-2000-othello.json](./54938-superlite-2000-othello.json) |
 | SuperLite 2000: Tokyo Bus Annai Kyou kara Kimi mo Untenshu | 56547 | [56547-superlite-2000-tokyo-bus-annai-kyou-kara-kimi-mo-untenshu.json](./56547-superlite-2000-tokyo-bus-annai-kyou-kara-kimi-mo-untenshu.json) |
