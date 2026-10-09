@@ -7926,6 +7926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lost Art of Innkeeping | 135234 | [135234-the-lost-art-of-innkeeping.json](./135234-the-lost-art-of-innkeeping.json) |
 | The Lost Artifacts | 171588 | [171588-the-lost-artifacts.json](./171588-the-lost-artifacts.json) |
 | The Lost Ashford Ring | 267024 | [267024-the-lost-ashford-ring.json](./267024-the-lost-ashford-ring.json) |
+| The Lost Battalion | 375614 | [375614-the-lost-battalion.json](./375614-the-lost-battalion.json) |
 | The Lost Bear | 53923 | [53923-the-lost-bear.json](./53923-the-lost-bear.json) |
 | The Lost Block | 386377 | [386377-the-lost-block.json](./386377-the-lost-block.json) |
 | The Lost Cases of Sherlock Holmes | 10978 | [10978-the-lost-cases-of-sherlock-holmes.json](./10978-the-lost-cases-of-sherlock-holmes.json) |
@@ -14509,6 +14510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | To the Top | 219534 | [219534-to-the-top.json](./219534-to-the-top.json) |
 | To the Top, Mammoth! | 192013 | [192013-to-the-top-mammoth.json](./192013-to-the-top-mammoth.json) |
 | To The Trenches | 401663 | [401663-to-the-trenches.json](./401663-to-the-trenches.json) |
+| To The White Calm | 375560 | [375560-to-the-white-calm.json](./375560-to-the-white-calm.json) |
 | To the Wolves | 57475 | [57475-to-the-wolves.json](./57475-to-the-wolves.json) |
 | To Trust an Incubus | 111730 | [111730-to-trust-an-incubus.json](./111730-to-trust-an-incubus.json) |
 | To Victory | 274471 | [274471-to-victory.json](./274471-to-victory.json) |
@@ -15897,6 +15899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Fantasy Destination | 256332 | [256332-touhou-fantasy-destination.json](./256332-touhou-fantasy-destination.json) |
 | Touhou Fractured Transience | 238468 | [238468-touhou-fractured-transience.json](./238468-touhou-fractured-transience.json) |
 | Touhou Fumo Racing | 193872 | [193872-touhou-fumo-racing.json](./193872-touhou-fumo-racing.json) |
+| Touhou Fuumaroku: The Story of Eastern Wind | 375562 | [375562-touhou-fuumaroku-the-story-of-eastern-wind.json](./375562-touhou-fuumaroku-the-story-of-eastern-wind.json) |
 | Touhou Gaiden | 404961 | [404961-touhou-gaiden.json](./404961-touhou-gaiden.json) |
 | Touhou Gakuen Ki: Shippuu no Shou | 201176 | [201176-touhou-gakuen-ki-shippuu-no-shou.json](./201176-touhou-gakuen-ki-shippuu-no-shou.json) |
 | Touhou Gendanshou X: Unlimited Heroes | 207229 | [207229-touhou-gendanshou-x-unlimited-heroes.json](./207229-touhou-gendanshou-x-unlimited-heroes.json) |
