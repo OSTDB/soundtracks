@@ -5316,6 +5316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Finder | 362299 | [362299-planet-finder.json](./362299-planet-finder.json) |
 | Planet Flipper | 394893 | [394893-planet-flipper.json](./394893-planet-flipper.json) |
 | Planet G | 209972 | [209972-planet-g.json](./209972-planet-g.json) |
+| Planet Gallery | 379124 | [379124-planet-gallery.json](./379124-planet-gallery.json) |
 | Planet Genesis 2 | 107092 | [107092-planet-genesis-2.json](./107092-planet-genesis-2.json) |
 | Planet Guardian VR | 76519 | [76519-planet-guardian-vr.json](./76519-planet-guardian-vr.json) |
 | Planet Gula | 145557 | [145557-planet-gula.json](./145557-planet-gula.json) |
@@ -7118,6 +7119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PongBall | 255993 | [255993-pongball.json](./255993-pongball.json) |
 | Pongémon | 285035 | [285035-pongemon.json](./285035-pongemon.json) |
 | Pongeon | 184641 | [184641-pongeon.json](./184641-pongeon.json) |
+| Pongerground | 379132 | [379132-pongerground.json](./379132-pongerground.json) |
 | Pongis | 98223 | [98223-pongis.json](./98223-pongis.json) |
 | Pongis 2 | 416654 | [416654-pongis-2.json](./416654-pongis-2.json) |
 | Pongis Jump | 126000 | [126000-pongis-jump.json](./126000-pongis-jump.json) |
@@ -8474,6 +8476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prism | 33514 | [33514-prism.json](./33514-prism.json) |
 | Prism | 363035 | [363035-prism.json](./363035-prism.json) |
 | Prism | 391823 | [391823-prism.json](./391823-prism.json) |
+| Prism Ark: Awake | 379153 | [379153-prism-ark-awake.json](./379153-prism-ark-awake.json) |
 | Prism Break | 102171 | [102171-prism-break.json](./102171-prism-break.json) |
 | Prism Crush | 372131 | [372131-prism-crush.json](./372131-prism-crush.json) |
 | Prism Hotel Murder Case: Super Mystery Wars - Episode Conan | 310012 | [310012-prism-hotel-murder-case-super-mystery-wars-episode-conan.json](./310012-prism-hotel-murder-case-super-mystery-wars-episode-conan.json) |
@@ -10263,6 +10266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Push Battle Royale | 381956 | [381956-push-battle-royale.json](./381956-push-battle-royale.json) |
 | Push Box | 167261 | [167261-push-box.json](./167261-push-box.json) |
 | Push Comes to Shovel | 211783 | [211783-push-comes-to-shovel.json](./211783-push-comes-to-shovel.json) |
+| Push Corgi | 379156 | [379156-push-corgi.json](./379156-push-corgi.json) |
 | Push IT: Sokoban Puzzle | 232386 | [232386-push-it-sokoban-puzzle.json](./232386-push-it-sokoban-puzzle.json) |
 | Push Pull | 115442 | [115442-push-pull.json](./115442-push-pull.json) |
 | Push Push | 374199 | [374199-push-push.json](./374199-push-push.json) |
