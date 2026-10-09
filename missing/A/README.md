@@ -1169,6 +1169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abyssal | 249850 | [249850-abyssal.json](./249850-abyssal.json) |
 | Abyssal | 308956 | [308956-abyssal.json](./308956-abyssal.json) |
 | Abyssal | 385571 | [385571-abyssal.json](./385571-abyssal.json) |
+| Abyssal Anarchy | 377958 | [377958-abyssal-anarchy.json](./377958-abyssal-anarchy.json) |
 | Abyssal Apocrypha | 413783 | [413783-abyssal-apocrypha.json](./413783-abyssal-apocrypha.json) |
 | Abyssal Blood | 287349 | [287349-abyssal-blood.json](./287349-abyssal-blood.json) |
 | Abyssal Drift | 372014 | [372014-abyssal-drift.json](./372014-abyssal-drift.json) |
@@ -4172,6 +4173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Almanac of Girlswampwar Territory & The Girls Who Swim as Fertilizer Through the Warm Soil Cloaking the Roots of the Glorious Tree of Eugenics: Giving Birth to a Black Hole in a Walmart Parking Lot at 1am | 131413 | [131413-almanac-of-girlswampwar-territory-and-the-girls-who-swim-as-fertilizer-through-the-warm-soil-cloaking-the-roots-of-the-glorious-tree-of-eugenics-giving-birth-to-a-black-hole-in-a-walmart-parking-lot-at-1am.json](./131413-almanac-of-girlswampwar-territory-and-the-girls-who-swim-as-fertilizer-through-the-warm-soil-cloaking-the-roots-of-the-glorious-tree-of-eugenics-giving-birth-to-a-black-hole-in-a-walmart-parking-lot-at-1am.json) |
 | Almanac: Detective Agency | 399143 | [399143-almanac-detective-agency.json](./399143-almanac-detective-agency.json) |
 | Almanaque Recreio | 227215 | [227215-almanaque-recreio.json](./227215-almanaque-recreio.json) |
+| Almania | 377971 | [377971-almania.json](./377971-almania.json) |
 | Almari | 167076 | [167076-almari.json](./167076-almari.json) |
 | Almastriga: Relics of Azathoth | 156618 | [156618-almastriga-relics-of-azathoth.json](./156618-almastriga-relics-of-azathoth.json) |
 | Almazz | 13799 | [13799-almazz.json](./13799-almazz.json) |
@@ -9490,6 +9492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Athamuff | 370303 | [370303-athamuff.json](./370303-athamuff.json) |
 | Athanasia | 202129 | [202129-athanasia.json](./202129-athanasia.json) |
 | Athar: Echoes of Time | 387657 | [387657-athar-echoes-of-time.json](./387657-athar-echoes-of-time.json) |
+| Athelan Battlegrounds | 377989 | [377989-athelan-battlegrounds.json](./377989-athelan-battlegrounds.json) |
 | Athena | 273078 | [273078-athena.json](./273078-athena.json) |
 | Athena | 9052 | [9052-athena.json](./9052-athena.json) |
 | Athena Code | 370262 | [370262-athena-code.json](./370262-athena-code.json) |
@@ -10033,6 +10036,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Autumn Romance | 191039 | [191039-autumn-romance.json](./191039-autumn-romance.json) |
 | Autumn Soil | 184998 | [184998-autumn-soil.json](./184998-autumn-soil.json) |
 | Autumn Walk | 63883 | [63883-autumn-walk.json](./63883-autumn-walk.json) |
+| Autumn War: Survivor | 378005 | [378005-autumn-war-survivor.json](./378005-autumn-war-survivor.json) |
+| Autumn War: Survivor 2 | 378010 | [378010-autumn-war-survivor-2.json](./378010-autumn-war-survivor-2.json) |
 | Autumn with the Shiba Inu | 236292 | [236292-autumn-with-the-shiba-inu.json](./236292-autumn-with-the-shiba-inu.json) |
 | Autumn-Chess | 150492 | [150492-autumn-chess.json](./150492-autumn-chess.json) |
 | Autumn-Time Trade-Up | 238463 | [238463-autumn-time-trade-up.json](./238463-autumn-time-trade-up.json) |
