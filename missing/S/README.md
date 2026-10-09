@@ -6901,6 +6901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sister Lesson | 416016 | [416016-sister-lesson.json](./416016-sister-lesson.json) |
 | Sister Location: MA | 230756 | [230756-sister-location-ma.json](./230756-sister-location-ma.json) |
 | Sister Lumina and the Hypnosis Cult | 327395 | [327395-sister-lumina-and-the-hypnosis-cult.json](./327395-sister-lumina-and-the-hypnosis-cult.json) |
+| Sister Other Paranoia | 383129 | [383129-sister-other-paranoia.json](./383129-sister-other-paranoia.json) |
 | Sister Princess: Re Pure | 49815 | [49815-sister-princess-re-pure.json](./49815-sister-princess-re-pure.json) |
 | Sister Red | 385867 | [385867-sister-red.json](./385867-sister-red.json) |
 | Sister Slave: Faithful Girl's Slave Training | 83230 | [83230-sister-slave-faithful-girls-slave-training.json](./83230-sister-slave-faithful-girls-slave-training.json) |
@@ -7672,6 +7673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slap-Shot! Hockey | 95424 | [95424-slap-shot-hockey.json](./95424-slap-shot-hockey.json) |
 | Slapdash | 240368 | [240368-slapdash.json](./240368-slapdash.json) |
 | SlapGains | 413671 | [413671-slapgains.json](./413671-slapgains.json) |
+| Slappingrot | 383120 | [383120-slappingrot.json](./383120-slappingrot.json) |
 | Slappy Ass | 111121 | [111121-slappy-ass.json](./111121-slappy-ass.json) |
 | Slappy Board | 216886 | [216886-slappy-board.json](./216886-slappy-board.json) |
 | Slapshot | 120904 | [120904-slapshot.json](./120904-slapshot.json) |
@@ -13965,6 +13967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stair Quest | 148409 | [148409-stair-quest.json](./148409-stair-quest.json) |
 | Stair Tap | 365064 | [365064-stair-tap.json](./365064-stair-tap.json) |
 | Staircase55 | 253603 | [253603-staircase55.json](./253603-staircase55.json) |
+| Staircore | 383131 | [383131-staircore.json](./383131-staircore.json) |
 | Stairdown | 221291 | [221291-stairdown.json](./221291-stairdown.json) |
 | StairJump | 78658 | [78658-stairjump.json](./78658-stairjump.json) |
 | Stairs of Basically | 259839 | [259839-stairs-of-basically.json](./259839-stairs-of-basically.json) |
@@ -16266,6 +16269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Storynth | 137568 | [137568-storynth.json](./137568-storynth.json) |
 | Storyseeker | 135252 | [135252-storyseeker.json](./135252-storyseeker.json) |
 | Storyshift Asriel Battle! | 306665 | [306665-storyshift-asriel-battle.json](./306665-storyshift-asriel-battle.json) |
+| Storyteller | 383135 | [383135-storyteller.json](./383135-storyteller.json) |
 | Storyteller: Devilish Update | 269078 | [269078-storyteller-devilish-update.json](./269078-storyteller-devilish-update.json) |
 | Stow Away | 400958 | [400958-stow-away.json](./400958-stow-away.json) |
 | Stowaway | 288868 | [288868-stowaway.json](./288868-stowaway.json) |
@@ -17021,6 +17025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stumblehill | 117510 | [117510-stumblehill.json](./117510-stumblehill.json) |
 | Stump Me | 312886 | [312886-stump-me.json](./312886-stump-me.json) |
 | Stump Simulator | 272284 | [272284-stump-simulator.json](./272284-stump-simulator.json) |
+| Stunner | 383152 | [383152-stunner.json](./383152-stunner.json) |
 | Stunt Bunnies Circus | 252927 | [252927-stunt-bunnies-circus.json](./252927-stunt-bunnies-circus.json) |
 | Stunt Car Challenge 3 | 261845 | [261845-stunt-car-challenge-3.json](./261845-stunt-car-challenge-3.json) |
 | Stunt Copter | 229021 | [229021-stunt-copter.json](./229021-stunt-copter.json) |
