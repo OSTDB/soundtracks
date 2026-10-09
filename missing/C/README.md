@@ -4108,6 +4108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chicku | 181397 | [181397-chicku.json](./181397-chicku.json) |
 | Chicku | 33515 | [33515-chicku.json](./33515-chicku.json) |
 | Chicky Woggy | 305433 | [305433-chicky-woggy.json](./305433-chicky-woggy.json) |
+| Chicky Woggy | 363306 | [363306-chicky-woggy.json](./363306-chicky-woggy.json) |
 | Chicky Woggy | 41421 | [41421-chicky-woggy.json](./41421-chicky-woggy.json) |
 | Chiclana & Friends: The Game | 299387 | [299387-chiclana-and-friends-the-game.json](./299387-chiclana-and-friends-the-game.json) |
 | Chico | 127717 | [127717-chico.json](./127717-chico.json) |
@@ -7782,6 +7783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conflux | 245976 | [245976-conflux.json](./245976-conflux.json) |
 | Conflux | 320520 | [320520-conflux.json](./320520-conflux.json) |
 | Confrontation | 282719 | [282719-confrontation.json](./282719-confrontation.json) |
+| Confrontation: Battle for Black Gold | 363313 | [363313-confrontation-battle-for-black-gold.json](./363313-confrontation-battle-for-black-gold.json) |
 | Confronted | 291708 | [291708-confronted.json](./291708-confronted.json) |
 | Confused? | 71490 | [71490-confused.json](./71490-confused.json) |
 | Confusing game | 148340 | [148340-confusing-game.json](./148340-confusing-game.json) |
