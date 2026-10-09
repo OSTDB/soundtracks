@@ -5855,6 +5855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hope Lake | 32445 | [32445-hope-lake.json](./32445-hope-lake.json) |
 | Hope Land | 158585 | [158585-hope-land.json](./158585-hope-land.json) |
 | Hope Left Me | 228417 | [228417-hope-left-me.json](./228417-hope-left-me.json) |
+| Hope Lost | 338678 | [338678-hope-lost.json](./338678-hope-lost.json) |
 | Hope of humanity | 102963 | [102963-hope-of-humanity.json](./102963-hope-of-humanity.json) |
 | Hope Returns | 183348 | [183348-hope-returns.json](./183348-hope-returns.json) |
 | Hope Springs Eternal | 94227 | [94227-hope-springs-eternal.json](./94227-hope-springs-eternal.json) |
@@ -7300,6 +7301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hurricane chase | 120775 | [120775-hurricane-chase.json](./120775-hurricane-chase.json) |
 | Hurricane Heroes | 369684 | [369684-hurricane-heroes.json](./369684-hurricane-heroes.json) |
 | Hurricane Ship Ghost | 104833 | [104833-hurricane-ship-ghost.json](./104833-hurricane-ship-ghost.json) |
+| Hurry Gaery! | 338679 | [338679-hurry-gaery.json](./338679-hurry-gaery.json) |
 | Hurry Hurry Heal Me | 185465 | [185465-hurry-hurry-heal-me.json](./185465-hurry-hurry-heal-me.json) |
 | Hurry Up Bird Hunter! | 82107 | [82107-hurry-up-bird-hunter.json](./82107-hurry-up-bird-hunter.json) |
 | Hurt Me Plenty | 20248 | [20248-hurt-me-plenty.json](./20248-hurt-me-plenty.json) |
