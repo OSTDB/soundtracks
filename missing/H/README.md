@@ -345,6 +345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Half-Life: Edge of Darkness | 196833 | [196833-half-life-edge-of-darkness.json](./196833-half-life-edge-of-darkness.json) |
 | Half-Life: Escape | 221856 | [221856-half-life-escape.json](./221856-half-life-escape.json) |
 | Half-Life: Escape 2.0 | 294442 | [294442-half-life-escape-2-0.json](./294442-half-life-escape-2-0.json) |
+| Half-Life: Extended | 335820 | [335820-half-life-extended.json](./335820-half-life-extended.json) |
 | Half-Life: Field Intensity | 196731 | [196731-half-life-field-intensity.json](./196731-half-life-field-intensity.json) |
 | Half-Life: Hard Duty | 221802 | [221802-half-life-hard-duty.json](./221802-half-life-hard-duty.json) |
 | Half-Life: Hazardous Course 2 | 196733 | [196733-half-life-hazardous-course-2.json](./196733-half-life-hazardous-course-2.json) |
@@ -1192,6 +1193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hare 136 | 340414 | [340414-hare-136.json](./340414-hare-136.json) |
 | Hare Apparent | 194994 | [194994-hare-apparent.json](./194994-hare-apparent.json) |
 | Hare In The Hat: The Abyss | 160283 | [160283-hare-in-the-hat-the-abyss.json](./160283-hare-in-the-hat-the-abyss.json) |
+| Hare Nochi Munasawagi | 335827 | [335827-hare-nochi-munasawagi.json](./335827-hare-nochi-munasawagi.json) |
 | Hare Nochi Oosawagi! | 257668 | [257668-hare-nochi-oosawagi.json](./257668-hare-nochi-oosawagi.json) |
 | Hare Trigger | 302444 | [302444-hare-trigger.json](./302444-hare-trigger.json) |
 | Hare's Hollow | 184607 | [184607-hares-hollow.json](./184607-hares-hollow.json) |
@@ -2954,6 +2956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Elf | 296686 | [296686-hentai-elf.json](./296686-hentai-elf.json) |
 | Hentai Elizabeth | 340432 | [340432-hentai-elizabeth.json](./340432-hentai-elizabeth.json) |
 | Hentai Emiko | 340433 | [340433-hentai-emiko.json](./340433-hentai-emiko.json) |
+| Hentai Energy: Halloween | 335819 | [335819-hentai-energy-halloween.json](./335819-hentai-energy-halloween.json) |
 | Hentai EroCum | 235891 | [235891-hentai-erocum.json](./235891-hentai-erocum.json) |
 | Hentai EroElf | 233091 | [233091-hentai-eroelf.json](./233091-hentai-eroelf.json) |
 | Hentai Evangeline | 372486 | [372486-hentai-evangeline.json](./372486-hentai-evangeline.json) |
@@ -3281,6 +3284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai: Devil Girls | 296906 | [296906-hentai-devil-girls.json](./296906-hentai-devil-girls.json) |
 | Hentai: Maid Madness | 288915 | [288915-hentai-maid-madness.json](./288915-hentai-maid-madness.json) |
 | Hentai: Make Love Not War 2 | 283269 | [283269-hentai-make-love-not-war-2.json](./283269-hentai-make-love-not-war-2.json) |
+| Hentai: Memory Leak | 335840 | [335840-hentai-memory-leak.json](./335840-hentai-memory-leak.json) |
 | Hentai: Nazi Girl | 327393 | [327393-hentai-nazi-girl.json](./327393-hentai-nazi-girl.json) |
 | Hentai: Nude Quest | 277922 | [277922-hentai-nude-quest.json](./277922-hentai-nude-quest.json) |
 | Hentai: Royal Quarters | 286543 | [286543-hentai-royal-quarters.json](./286543-hentai-royal-quarters.json) |
@@ -6372,6 +6376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Wheels: Mechanix | 70991 | [70991-hot-wheels-mechanix.json](./70991-hot-wheels-mechanix.json) |
 | Hot Wheels: Stunt Track Challenge | 248755 | [248755-hot-wheels-stunt-track-challenge.json](./248755-hot-wheels-stunt-track-challenge.json) |
 | Hot Wheels: Ultimate Racing | 44482 | [44482-hot-wheels-ultimate-racing.json](./44482-hot-wheels-ultimate-racing.json) |
+| Hot Wheels: Unlimited | 335815 | [335815-hot-wheels-unlimited.json](./335815-hot-wheels-unlimited.json) |
 | Hot Wheels: World's Best Driver | 10418 | [10418-hot-wheels-worlds-best-driver.json](./10418-hot-wheels-worlds-best-driver.json) |
 | Hot Worlds | 259036 | [259036-hot-worlds.json](./259036-hot-worlds.json) |
 | Hot-blooded Cheerleading | 324099 | [324099-hot-blooded-cheerleading.json](./324099-hot-blooded-cheerleading.json) |
@@ -6666,6 +6671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | How | 241652 | [241652-how.json](./241652-how.json) |
 | How 2 Dreams | 224118 | [224118-how-2-dreams.json](./224118-how-2-dreams.json) |
 | How 2 Escape Collection | 351230 | [351230-how-2-escape-collection.json](./351230-how-2-escape-collection.json) |
+| How 2 Escape: Lost Submarine | 335838 | [335838-how-2-escape-lost-submarine.json](./335838-how-2-escape-lost-submarine.json) |
 | How a Healthy Hentai Administers Public Service | 207261 | [207261-how-a-healthy-hentai-administers-public-service.json](./207261-how-a-healthy-hentai-administers-public-service.json) |
 | How a Retired Strategist Saved the Country | 221199 | [221199-how-a-retired-strategist-saved-the-country.json](./221199-how-a-retired-strategist-saved-the-country.json) |
 | How About Spikes | 103417 | [103417-how-about-spikes.json](./103417-how-about-spikes.json) |
