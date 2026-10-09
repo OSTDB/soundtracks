@@ -1384,6 +1384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darts Up | 85556 | [85556-darts-up.json](./85556-darts-up.json) |
 | Darts VR | 52091 | [52091-darts-vr.json](./52091-darts-vr.json) |
 | Darts VR2: Bullseye | 398027 | [398027-darts-vr2-bullseye.json](./398027-darts-vr2-bullseye.json) |
+| Darts Wii | 344333 | [344333-darts-wii.json](./344333-darts-wii.json) |
 | Darts Wii DX | 268121 | [268121-darts-wii-dx.json](./268121-darts-wii-dx.json) |
 | Dartz | 354574 | [354574-dartz.json](./354574-dartz.json) |
 | Daruino | 185536 | [185536-daruino.json](./185536-daruino.json) |
@@ -2868,6 +2869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Decayed | 280301 | [280301-decayed.json](./280301-decayed.json) |
 | Decayed Evil | 368032 | [368032-decayed-evil.json](./368032-decayed-evil.json) |
 | Decaying Flowers | 98459 | [98459-decaying-flowers.json](./98459-decaying-flowers.json) |
+| Decaying Memories | 344409 | [344409-decaying-memories.json](./344409-decaying-memories.json) |
 | Decaying Wires | 335657 | [335657-decaying-wires.json](./335657-decaying-wires.json) |
 | Deceased | 149711 | [149711-deceased.json](./149711-deceased.json) |
 | Deceit 2 | 239561 | [239561-deceit-2.json](./239561-deceit-2.json) |
@@ -3815,6 +3817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon's Rise 2: Lords of Chaos | 104107 | [104107-demons-rise-2-lords-of-chaos.json](./104107-demons-rise-2-lords-of-chaos.json) |
 | Demon's Souls | 134606 | [134606-demons-souls.json](./134606-demons-souls.json) |
 | Demon's Souls: Black Phantom Edition | 23363 | [23363-demons-souls-black-phantom-edition.json](./23363-demons-souls-black-phantom-edition.json) |
+| Demon's Souls: Boletarian Royalty Armor | 344308 | [344308-demons-souls-boletarian-royalty-armor.json](./344308-demons-souls-boletarian-royalty-armor.json) |
 | Demon's Tier+ | 134015 | [134015-demons-tier.json](./134015-demons-tier.json) |
 | Demon's Tilt | 106363 | [106363-demons-tilt.json](./106363-demons-tilt.json) |
 | Demon's Tomb: The Awakening | 12045 | [12045-demons-tomb-the-awakening.json](./12045-demons-tomb-the-awakening.json) |
@@ -5401,6 +5404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digital Dance Mix Vol. 1: Namie Amuro | 96091 | [96091-digital-dance-mix-vol-1-namie-amuro.json](./96091-digital-dance-mix-vol-1-namie-amuro.json) |
 | Digital Dance Mix Vol.1 Namie Amuro | 108828 | [108828-digital-dance-mix-vol-1-namie-amuro.json](./108828-digital-dance-mix-vol-1-namie-amuro.json) |
 | Digital Defender O.R.C. | 402496 | [402496-digital-defender-o-r-c.json](./402496-digital-defender-o-r-c.json) |
+| Digital Desktop Cats | 344406 | [344406-digital-desktop-cats.json](./344406-digital-desktop-cats.json) |
 | Digital Devil Saga: Avatar Tuner - A's Test Server | 136416 | [136416-digital-devil-saga-avatar-tuner-as-test-server.json](./136416-digital-devil-saga-avatar-tuner-as-test-server.json) |
 | Digital Diamond Baseball | 86538 | [86538-digital-diamond-baseball.json](./86538-digital-diamond-baseball.json) |
 | Digital Diamond Baseball V11 | 243052 | [243052-digital-diamond-baseball-v11.json](./243052-digital-diamond-baseball-v11.json) |
@@ -7742,6 +7746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doom City | 144214 | [144214-doom-city.json](./144214-doom-city.json) |
 | Doom Core | 275569 | [275569-doom-core.json](./275569-doom-core.json) |
 | Doom Days: Fire Shooter | 226761 | [226761-doom-days-fire-shooter.json](./226761-doom-days-fire-shooter.json) |
+| Doom Eternal KaiserCampaign | 344310 | [344310-doom-eternal-kaisercampaign.json](./344310-doom-eternal-kaisercampaign.json) |
 | Doom Eternal: The Ancient Gods - Expansion Pass | 281566 | [281566-doom-eternal-the-ancient-gods-expansion-pass.json](./281566-doom-eternal-the-ancient-gods-expansion-pass.json) |
 | Doom Eternal: The Ancient Gods - Part Two | 144731 | [144731-doom-eternal-the-ancient-gods-part-two.json](./144731-doom-eternal-the-ancient-gods-part-two.json) |
 | Doom Eternal: Year One Pass | 293919 | [293919-doom-eternal-year-one-pass.json](./293919-doom-eternal-year-one-pass.json) |
@@ -10527,6 +10532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dumb Ways to Draw | 231864 | [231864-dumb-ways-to-draw.json](./231864-dumb-ways-to-draw.json) |
 | Dumb Ways to Draw 2 | 231861 | [231861-dumb-ways-to-draw-2.json](./231861-dumb-ways-to-draw-2.json) |
 | Dumb Ways to Survive | 297229 | [297229-dumb-ways-to-survive.json](./297229-dumb-ways-to-survive.json) |
+| Dumbass Survivors | 344338 | [344338-dumbass-survivors.json](./344338-dumbass-survivors.json) |
 | Dumbino | 307569 | [307569-dumbino.json](./307569-dumbino.json) |
 | Dumbot | 330173 | [330173-dumbot.json](./330173-dumbot.json) |
 | Dumbriel: Magnificent Adventure in Hell | 260404 | [260404-dumbriel-magnificent-adventure-in-hell.json](./260404-dumbriel-magnificent-adventure-in-hell.json) |
