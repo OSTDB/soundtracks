@@ -2405,7 +2405,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wheel World | 255091 | [255091-wheel-world.json](./255091-wheel-world.json) |
 | Wheelbarrow Warrior | 107365 | [107365-wheelbarrow-warrior.json](./107365-wheelbarrow-warrior.json) |
 | Wheelborn | 282222 | [282222-wheelborn.json](./282222-wheelborn.json) |
-| Wheelchair for Two | 406738 | [406738-wheelchair-for-two.json](./406738-wheelchair-for-two.json) |
 | Wheelchair Simulator | 103157 | [103157-wheelchair-simulator.json](./103157-wheelchair-simulator.json) |
 | Wheelchair Simulator VR | 100463 | [100463-wheelchair-simulator-vr.json](./100463-wheelchair-simulator-vr.json) |
 | Wheeled Warriors: Ultimate Destruction | 216832 | [216832-wheeled-warriors-ultimate-destruction.json](./216832-wheeled-warriors-ultimate-destruction.json) |
@@ -4721,6 +4720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Work In Progress | 326171 | [326171-work-in-progress.json](./326171-work-in-progress.json) |
 | Work Inc. | 393821 | [393821-work-inc.json](./393821-work-inc.json) |
 | Work Life Balance | 372470 | [372470-work-life-balance.json](./372470-work-life-balance.json) |
+| Work Sucks, Let’s Play Dou Dizhu! | 373315 | [373315-work-sucks-let-s-play-dou-dizhu.json](./373315-work-sucks-let-s-play-dou-dizhu.json) |
 | Work Till Die | 391060 | [391060-work-till-die.json](./391060-work-till-die.json) |
 | Work Trip | 135792 | [135792-work-trip.json](./135792-work-trip.json) |
 | Work Work Work | 385568 | [385568-work-work-work.json](./385568-work-work-work.json) |
