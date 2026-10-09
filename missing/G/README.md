@@ -4548,6 +4548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Granblue Fantasy: Versus - Lobby Avatar (Gold Ship) | 332665 | [332665-granblue-fantasy-versus-lobby-avatar-gold-ship.json](./332665-granblue-fantasy-versus-lobby-avatar-gold-ship.json) |
 | Granblue Fantasy: Versus - Seox | 233643 | [233643-granblue-fantasy-versus-seox.json](./233643-granblue-fantasy-versus-seox.json) |
 | Grand Academy for Future Villains | 67914 | [67914-grand-academy-for-future-villains.json](./67914-grand-academy-for-future-villains.json) |
+| Grand Action Simulator | 361600 | [361600-grand-action-simulator.json](./361600-grand-action-simulator.json) |
 | Grand Ages: Rome | 8395 | [8395-grand-ages-rome.json](./8395-grand-ages-rome.json) |
 | Grand Ages: Rome - Gold Edition | 53071 | [53071-grand-ages-rome-gold-edition.json](./53071-grand-ages-rome-gold-edition.json) |
 | Grand Attrition | 173044 | [173044-grand-attrition.json](./173044-grand-attrition.json) |
@@ -5556,6 +5557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grimwild Horror | 319169 | [319169-grimwild-horror.json](./319169-grimwild-horror.json) |
 | Grin Bandana | 54475 | [54475-grin-bandana.json](./54475-grin-bandana.json) |
 | Grinbo | 91554 | [91554-grinbo.json](./91554-grinbo.json) |
+| Grind Hero | 361630 | [361630-grind-hero.json](./361630-grind-hero.json) |
 | Grind Hockey | 269330 | [269330-grind-hockey.json](./269330-grind-hockey.json) |
 | Grind Mindset | 368578 | [368578-grind-mindset.json](./368578-grind-mindset.json) |
 | Grind Stormer | 293645 | [293645-grind-stormer.json](./293645-grind-stormer.json) |
@@ -5644,18 +5646,34 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Groove Coaster Wai Wai Party!!!!: Chunithm Pack | 316220 | [316220-groove-coaster-wai-wai-party-chunithm-pack.json](./316220-groove-coaster-wai-wai-party-chunithm-pack.json) |
 | Groove Coaster Wai Wai Party!!!!: Touhou Project Arrangements Pack 9 | 324384 | [324384-groove-coaster-wai-wai-party-touhou-project-arrangements-pack-9.json](./324384-groove-coaster-wai-wai-party-touhou-project-arrangements-pack-9.json) |
 | Groove Coaster Zero | 126467 | [126467-groove-coaster-zero.json](./126467-groove-coaster-zero.json) |
+| Groove Coaster: Apeliotes | 361590 | [361590-groove-coaster-apeliotes.json](./361590-groove-coaster-apeliotes.json) |
 | Groove Coaster: Arcaea Pack | 361671 | [361671-groove-coaster-arcaea-pack.json](./361671-groove-coaster-arcaea-pack.json) |
 | Groove Coaster: Bad Apple!! feat. nomico | 358959 | [358959-groove-coaster-bad-apple-feat-nomico.json](./358959-groove-coaster-bad-apple-feat-nomico.json) |
+| Groove Coaster: Daddy Mulk (Groove Remix) | 361587 | [361587-groove-coaster-daddy-mulk-groove-remix.json](./361587-groove-coaster-daddy-mulk-groove-remix.json) |
 | Groove Coaster: Darius Cozmic Collection Pack | 361704 | [361704-groove-coaster-darius-cozmic-collection-pack.json](./361704-groove-coaster-darius-cozmic-collection-pack.json) |
+| Groove Coaster: DJMax Pack 01 | 361611 | [361611-groove-coaster-djmax-pack-01.json](./361611-groove-coaster-djmax-pack-01.json) |
 | Groove Coaster: Future Performers | 343412 | [343412-groove-coaster-future-performers.json](./343412-groove-coaster-future-performers.json) |
 | Groove Coaster: Game Music Pack 01 | 361700 | [361700-groove-coaster-game-music-pack-01.json](./361700-groove-coaster-game-music-pack-01.json) |
 | Groove Coaster: Groove Master Pack 01 | 361699 | [361699-groove-coaster-groove-master-pack-01.json](./361699-groove-coaster-groove-master-pack-01.json) |
+| Groove Coaster: Groove Master Pack 03 | 361617 | [361617-groove-coaster-groove-master-pack-03.json](./361617-groove-coaster-groove-master-pack-03.json) |
+| Groove Coaster: HB-Axeleration | 361588 | [361588-groove-coaster-hb-axeleration.json](./361588-groove-coaster-hb-axeleration.json) |
+| Groove Coaster: Kawaii Pack 02 | 361616 | [361616-groove-coaster-kawaii-pack-02.json](./361616-groove-coaster-kawaii-pack-02.json) |
+| Groove Coaster: Kikikaikai | 361586 | [361586-groove-coaster-kikikaikai.json](./361586-groove-coaster-kikikaikai.json) |
+| Groove Coaster: Rave War | 361591 | [361591-groove-coaster-rave-war.json](./361591-groove-coaster-rave-war.json) |
+| Groove Coaster: Saisoku Saikou Shutter Girl | 361589 | [361589-groove-coaster-saisoku-saikou-shutter-girl.json](./361589-groove-coaster-saisoku-saikou-shutter-girl.json) |
+| Groove Coaster: Sweet Love | 361592 | [361592-groove-coaster-sweet-love.json](./361592-groove-coaster-sweet-love.json) |
+| Groove Coaster: t+pazolite Pack | 361614 | [361614-groove-coaster-t-pazolite-pack.json](./361614-groove-coaster-t-pazolite-pack.json) |
 | Groove Coaster: Touhou DLC Pack 01 | 361703 | [361703-groove-coaster-touhou-dlc-pack-01.json](./361703-groove-coaster-touhou-dlc-pack-01.json) |
 | Groove Coaster: Touhou DLC Pack 02 | 361702 | [361702-groove-coaster-touhou-dlc-pack-02.json](./361702-groove-coaster-touhou-dlc-pack-02.json) |
 | Groove Coaster: Touhou DLC Pack 03 | 361701 | [361701-groove-coaster-touhou-dlc-pack-03.json](./361701-groove-coaster-touhou-dlc-pack-03.json) |
 | Groove Coaster: Touhou DLC Pack 04 | 361672 | [361672-groove-coaster-touhou-dlc-pack-04.json](./361672-groove-coaster-touhou-dlc-pack-04.json) |
 | Groove Coaster: Touhou DLC Pack 05 | 361673 | [361673-groove-coaster-touhou-dlc-pack-05.json](./361673-groove-coaster-touhou-dlc-pack-05.json) |
+| Groove Coaster: Touhou DLC Pack 06 | 361618 | [361618-groove-coaster-touhou-dlc-pack-06.json](./361618-groove-coaster-touhou-dlc-pack-06.json) |
+| Groove Coaster: Touhou DLC Pack 07 | 361613 | [361613-groove-coaster-touhou-dlc-pack-07.json](./361613-groove-coaster-touhou-dlc-pack-07.json) |
+| Groove Coaster: Touhou DLC Pack 08 | 361612 | [361612-groove-coaster-touhou-dlc-pack-08.json](./361612-groove-coaster-touhou-dlc-pack-08.json) |
+| Groove Coaster: Touhou DLC Pack 09 | 361610 | [361610-groove-coaster-touhou-dlc-pack-09.json](./361610-groove-coaster-touhou-dlc-pack-09.json) |
 | Groove Coaster: Undertale DLC Pack 01 | 361705 | [361705-groove-coaster-undertale-dlc-pack-01.json](./361705-groove-coaster-undertale-dlc-pack-01.json) |
+| Groove Coaster: Undertale DLC Pack 02 | 361615 | [361615-groove-coaster-undertale-dlc-pack-02.json](./361615-groove-coaster-undertale-dlc-pack-02.json) |
 | Groove Coaster: Wai Wai Party!!!! - DJMax Respect Pack | 237937 | [237937-groove-coaster-wai-wai-party-djmax-respect-pack.json](./237937-groove-coaster-wai-wai-party-djmax-respect-pack.json) |
 | Groove Coaster: Wai Wai Party!!!! - Hit Song + VTuber Pack 5 | 268539 | [268539-groove-coaster-wai-wai-party-hit-song-vtuber-pack-5.json](./268539-groove-coaster-wai-wai-party-hit-song-vtuber-pack-5.json) |
 | Groove Coaster: Wai Wai Party!!!! - Hololive Pack | 242049 | [242049-groove-coaster-wai-wai-party-hololive-pack.json](./242049-groove-coaster-wai-wai-party-hololive-pack.json) |
