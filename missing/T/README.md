@@ -5224,6 +5224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dreambox | 150103 | [150103-the-dreambox.json](./150103-the-dreambox.json) |
 | The Dreamers Foresight | 313479 | [313479-the-dreamers-foresight.json](./313479-the-dreamers-foresight.json) |
 | The Dreaming City Chronicles: Quest for the Vanished World | 406302 | [406302-the-dreaming-city-chronicles-quest-for-the-vanished-world.json](./406302-the-dreaming-city-chronicles-quest-for-the-vanished-world.json) |
+| The Dreamland | 343779 | [343779-the-dreamland.json](./343779-the-dreamland.json) |
 | The Dreamland Chronicles | 61734 | [61734-the-dreamland-chronicles.json](./61734-the-dreamland-chronicles.json) |
 | The Dreamlands: Aisling's Quest | 93762 | [93762-the-dreamlands-aislings-quest.json](./93762-the-dreamlands-aislings-quest.json) |
 | The Dreams in the Peacock House | 400888 | [400888-the-dreams-in-the-peacock-house.json](./400888-the-dreams-in-the-peacock-house.json) |
@@ -5890,6 +5891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Forage | 102802 | [102802-the-forage.json](./102802-the-forage.json) |
 | The Forbidden Arts | 77814 | [77814-the-forbidden-arts.json](./77814-the-forbidden-arts.json) |
 | The Forbidden Tomes of Olipos | 411648 | [411648-the-forbidden-tomes-of-olipos.json](./411648-the-forbidden-tomes-of-olipos.json) |
+| The Foreigner | 343759 | [343759-the-foreigner.json](./343759-the-foreigner.json) |
 | The Forest Adventurer | 221704 | [221704-the-forest-adventurer.json](./221704-the-forest-adventurer.json) |
 | The Forest Below | 100588 | [100588-the-forest-below.json](./100588-the-forest-below.json) |
 | The Forest Below | 133827 | [133827-the-forest-below.json](./133827-the-forest-below.json) |
@@ -8364,6 +8366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mind's Eclipse | 76579 | [76579-the-minds-eclipse.json](./76579-the-minds-eclipse.json) |
 | The Mindwarp | 206169 | [206169-the-mindwarp.json](./206169-the-mindwarp.json) |
 | The Mine | 13739 | [13739-the-mine.json](./13739-the-mine.json) |
+| The Mine | 343769 | [343769-the-mine.json](./343769-the-mine.json) |
 | The Mine | 360736 | [360736-the-mine.json](./360736-the-mine.json) |
 | The Minecraft tribute game | 46077 | [46077-the-minecraft-tribute-game.json](./46077-the-minecraft-tribute-game.json) |
 | The Miner Digs | 185413 | [185413-the-miner-digs.json](./185413-the-miner-digs.json) |
@@ -8761,6 +8764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Old Man Club | 59987 | [59987-the-old-man-club.json](./59987-the-old-man-club.json) |
 | The Old Man’s Will | 390660 | [390660-the-old-man-s-will.json](./390660-the-old-man-s-will.json) |
 | The Old Manor | 276399 | [276399-the-old-manor.json](./276399-the-old-manor.json) |
+| The Old Mansion: Eternal Night | 343839 | [343839-the-old-mansion-eternal-night.json](./343839-the-old-mansion-eternal-night.json) |
 | The Old Mill | 184040 | [184040-the-old-mill.json](./184040-the-old-mill.json) |
 | The Old Ones | 211695 | [211695-the-old-ones.json](./211695-the-old-ones.json) |
 | The Old Realms | 356162 | [356162-the-old-realms.json](./356162-the-old-realms.json) |
@@ -16522,6 +16526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower!3D Pro: KPHX Airport | 162290 | [162290-tower-3d-pro-kphx-airport.json](./162290-tower-3d-pro-kphx-airport.json) |
 | Tower!3D Pro: KRDU Airport | 162300 | [162300-tower-3d-pro-krdu-airport.json](./162300-tower-3d-pro-krdu-airport.json) |
 | Tower!3D Pro: KSAN Airport | 162286 | [162286-tower-3d-pro-ksan-airport.json](./162286-tower-3d-pro-ksan-airport.json) |
+| Tower!3D Pro: KSEA airport | 343770 | [343770-tower-3d-pro-ksea-airport.json](./343770-tower-3d-pro-ksea-airport.json) |
 | Tower!3D Pro: KSFO Airport | 162285 | [162285-tower-3d-pro-ksfo-airport.json](./162285-tower-3d-pro-ksfo-airport.json) |
 | Tower!3D Pro: LEBL Airport | 162292 | [162292-tower-3d-pro-lebl-airport.json](./162292-tower-3d-pro-lebl-airport.json) |
 | Tower!3D Pro: LFPG Airport | 162305 | [162305-tower-3d-pro-lfpg-airport.json](./162305-tower-3d-pro-lfpg-airport.json) |
@@ -18002,6 +18007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trap Them: Sniper Edition | 34336 | [34336-trap-them-sniper-edition.json](./34336-trap-them-sniper-edition.json) |
 | Trap Tower Trials | 298137 | [298137-trap-tower-trials.json](./298137-trap-tower-trials.json) |
 | Trap Trek: Ultimate Other Me | 293619 | [293619-trap-trek-ultimate-other-me.json](./293619-trap-trek-ultimate-other-me.json) |
+| Trap Welcome to Beryl Part 1 | 343741 | [343741-trap-welcome-to-beryl-part-1.json](./343741-trap-welcome-to-beryl-part-1.json) |
 | Trap Yuri Garden | 289923 | [289923-trap-yuri-garden.json](./289923-trap-yuri-garden.json) |
 | Trap Yuri Tempest | 412443 | [412443-trap-yuri-tempest.json](./412443-trap-yuri-tempest.json) |
 | Trapaze | 376282 | [376282-trapaze.json](./376282-trapaze.json) |
