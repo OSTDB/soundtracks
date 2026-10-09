@@ -3017,6 +3017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Maya | 265572 | [265572-hentai-maya.json](./265572-hentai-maya.json) |
 | Hentai Memorama | 112775 | [112775-hentai-memorama.json](./112775-hentai-memorama.json) |
 | Hentai Memory | 105200 | [105200-hentai-memory.json](./105200-hentai-memory.json) |
+| Hentai Mermaid Sirena | 370469 | [370469-hentai-mermaid-sirena.json](./370469-hentai-mermaid-sirena.json) |
 | Hentai Midori | 271911 | [271911-hentai-midori.json](./271911-hentai-midori.json) |
 | Hentai Milf | 296908 | [296908-hentai-milf.json](./296908-hentai-milf.json) |
 | Hentai Milf City | 371375 | [371375-hentai-milf-city.json](./371375-hentai-milf-city.json) |
