@@ -2962,6 +2962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Test Drive: Off-Road 3 | 49905 | [49905-test-drive-off-road-3.json](./49905-test-drive-off-road-3.json) |
 | Test Drive: Offroad | 206222 | [206222-test-drive-offroad.json](./206222-test-drive-offroad.json) |
 | Test Lab Inc. | 264604 | [264604-test-lab-inc.json](./264604-test-lab-inc.json) |
+| Test of Fear | 350945 | [350945-test-of-fear.json](./350945-test-of-fear.json) |
 | Test Subject | 318778 | [318778-test-subject.json](./318778-test-subject.json) |
 | Test Subject 901 | 108039 | [108039-test-subject-901.json](./108039-test-subject-901.json) |
 | Test Subject Blue | 172473 | [172473-test-subject-blue.json](./172473-test-subject-blue.json) |
@@ -7397,6 +7398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Sigh(t) | 390209 | [390209-the-last-sigh-t.json](./390209-the-last-sigh-t.json) |
 | The Last Sigil | 88325 | [88325-the-last-sigil.json](./88325-the-last-sigil.json) |
 | The Last Sin | 44110 | [44110-the-last-sin.json](./44110-the-last-sin.json) |
+| The Last Sip | 350953 | [350953-the-last-sip.json](./350953-the-last-sip.json) |
 | The Last Sky | 127157 | [127157-the-last-sky.json](./127157-the-last-sky.json) |
 | The Last Sniper VR | 32050 | [32050-the-last-sniper-vr.json](./32050-the-last-sniper-vr.json) |
 | The Last Soldier | 109768 | [109768-the-last-soldier.json](./109768-the-last-soldier.json) |
@@ -8328,6 +8330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mildew Children | 253605 | [253605-the-mildew-children.json](./253605-the-mildew-children.json) |
 | The Militant Mouse | 230886 | [230886-the-militant-mouse.json](./230886-the-militant-mouse.json) |
 | The Milk Lake | 211775 | [211775-the-milk-lake.json](./211775-the-milk-lake.json) |
+| The Mill: Nine Men's Morris | 351062 | [351062-the-mill-nine-mens-morris.json](./351062-the-mill-nine-mens-morris.json) |
 | The Milliner | 317974 | [317974-the-milliner.json](./317974-the-milliner.json) |
 | The Mims 5 | 97294 | [97294-the-mims-5.json](./97294-the-mims-5.json) |
 | The Mind of Marlo | 74238 | [74238-the-mind-of-marlo.json](./74238-the-mind-of-marlo.json) |
