@@ -1056,6 +1056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abode | 26370 | [26370-abode.json](./26370-abode.json) |
 | Abode | 415495 | [415495-abode.json](./415495-abode.json) |
 | Abode: Definitive Edition | 337789 | [337789-abode-definitive-edition.json](./337789-abode-definitive-edition.json) |
+| Abodtion | 344375 | [344375-abodtion.json](./344375-abodtion.json) |
 | Aboleo: Shadow of the Crown | 268145 | [268145-aboleo-shadow-of-the-crown.json](./268145-aboleo-shadow-of-the-crown.json) |
 | Abomi Nation: Monster Rifts | 315683 | [315683-abomi-nation-monster-rifts.json](./315683-abomi-nation-monster-rifts.json) |
 | Abomin-Agency! | 312658 | [312658-abomin-agency.json](./312658-abomin-agency.json) |
@@ -2635,6 +2636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agerasia | 377756 | [377756-agerasia.json](./377756-agerasia.json) |
 | Ages of Conflict: World War Simulator | 223829 | [223829-ages-of-conflict-world-war-simulator.json](./223829-ages-of-conflict-world-war-simulator.json) |
 | Ages of Mages: The Last Keeper | 98755 | [98755-ages-of-mages-the-last-keeper.json](./98755-ages-of-mages-the-last-keeper.json) |
+| Aggi's Tiny Friends | 344343 | [344343-aggis-tiny-friends.json](./344343-aggis-tiny-friends.json) |
 | Aggres | 406171 | [406171-aggres.json](./406171-aggres.json) |
 | Aggression | 174670 | [174670-aggression.json](./174670-aggression.json) |
 | Aggressive Alpine Skiing | 216767 | [216767-aggressive-alpine-skiing.json](./216767-aggressive-alpine-skiing.json) |
