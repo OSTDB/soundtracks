@@ -2231,6 +2231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scribble It! | 120649 | [120649-scribble-it.json](./120649-scribble-it.json) |
 | Scribble Shooter | 21152 | [21152-scribble-shooter.json](./21152-scribble-shooter.json) |
 | Scribble Space | 35711 | [35711-scribble-space.json](./35711-scribble-space.json) |
+| Scribble Wolf | 368812 | [368812-scribble-wolf.json](./368812-scribble-wolf.json) |
 | Scribble Worm | 259076 | [259076-scribble-worm.json](./259076-scribble-worm.json) |
 | Scribble+ | 113498 | [113498-scribble.json](./113498-scribble.json) |
 | Scribbled Arena | 34630 | [34630-scribbled-arena.json](./34630-scribbled-arena.json) |
@@ -2372,6 +2373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea Battle Simulator | 104488 | [104488-sea-battle-simulator.json](./104488-sea-battle-simulator.json) |
 | Sea Battle VR | 75719 | [75719-sea-battle-vr.json](./75719-sea-battle-vr.json) |
 | Sea Battle: Annihilation | 144816 | [144816-sea-battle-annihilation.json](./144816-sea-battle-annihilation.json) |
+| Sea Bikers Jetski | 368896 | [368896-sea-bikers-jetski.json](./368896-sea-bikers-jetski.json) |
 | Sea Blast | 91729 | [91729-sea-blast.json](./91729-sea-blast.json) |
 | Sea Blindness | 343428 | [343428-sea-blindness.json](./343428-sea-blindness.json) |
 | Sea Bubble Burst | 205833 | [205833-sea-bubble-burst.json](./205833-sea-bubble-burst.json) |
@@ -11864,6 +11866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Rescue: Code Pink | 169417 | [169417-space-rescue-code-pink.json](./169417-space-rescue-code-pink.json) |
 | Space Restaurant | 337722 | [337722-space-restaurant.json](./337722-space-restaurant.json) |
 | Space Revenge | 158217 | [158217-space-revenge.json](./158217-space-revenge.json) |
+| Space Revolver | 368825 | [368825-space-revolver.json](./368825-space-revolver.json) |
 | Space Riddle: Spaceship Puzzle | 248645 | [248645-space-riddle-spaceship-puzzle.json](./248645-space-riddle-spaceship-puzzle.json) |
 | Space Rider | 94865 | [94865-space-rider.json](./94865-space-rider.json) |
 | Space Rift - Episode 1 | 33655 | [33655-space-rift-episode-1.json](./33655-space-rift-episode-1.json) |
@@ -13155,6 +13158,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spiritus 2 | 276972 | [276972-spiritus-2.json](./276972-spiritus-2.json) |
 | Spiritus Astrum | 217355 | [217355-spiritus-astrum.json](./217355-spiritus-astrum.json) |
 | Spiritwell | 222348 | [222348-spiritwell.json](./222348-spiritwell.json) |
+| Spirou | 368890 | [368890-spirou.json](./368890-spirou.json) |
+| Spirou | 368891 | [368891-spirou.json](./368891-spirou.json) |
 | Spirou: The Robot Invasion | 97487 | [97487-spirou-the-robot-invasion.json](./97487-spirou-the-robot-invasion.json) |
 | Spirulena Interceptor | 291231 | [291231-spirulena-interceptor.json](./291231-spirulena-interceptor.json) |
 | Spish | 169421 | [169421-spish.json](./169421-spish.json) |
@@ -15309,6 +15314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | State of Mind | 20123 | [20123-state-of-mind.json](./20123-state-of-mind.json) |
 | State of Mind | 230872 | [230872-state-of-mind.json](./230872-state-of-mind.json) |
 | State of Survival | 133783 | [133783-state-of-survival.json](./133783-state-of-survival.json) |
+| State of Survival: Last Warrior | 368911 | [368911-state-of-survival-last-warrior.json](./368911-state-of-survival-last-warrior.json) |
 | State of Trove | 23628 | [23628-state-of-trove.json](./23628-state-of-trove.json) |
 | State of War | 94231 | [94231-state-of-war.json](./94231-state-of-war.json) |
 | State of War 2: Arcon | 64986 | [64986-state-of-war-2-arcon.json](./64986-state-of-war-2-arcon.json) |
@@ -16374,6 +16380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Straif | 360577 | [360577-straif.json](./360577-straif.json) |
 | Straight Ahead | 187394 | [187394-straight-ahead.json](./187394-straight-ahead.json) |
 | Straight on 8 | 143968 | [143968-straight-on-8.json](./143968-straight-on-8.json) |
+| Straight to the Bone | 368894 | [368894-straight-to-the-bone.json](./368894-straight-to-the-bone.json) |
 | Straight Up | 289478 | [289478-straight-up.json](./289478-straight-up.json) |
 | Straight Up: Dummy Characters | 289480 | [289480-straight-up-dummy-characters.json](./289480-straight-up-dummy-characters.json) |
 | Straight Up: Farm Crew Characters | 289479 | [289479-straight-up-farm-crew-characters.json](./289479-straight-up-farm-crew-characters.json) |
@@ -18664,6 +18671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Jagger Bomb | 216729 | [216729-super-jagger-bomb.json](./216729-super-jagger-bomb.json) |
 | Super Jagger Bomb 2: Go East | 328088 | [328088-super-jagger-bomb-2-go-east.json](./328088-super-jagger-bomb-2-go-east.json) |
 | Super Jagua | 31656 | [31656-super-jagua.json](./31656-super-jagua.json) |
+| Super James Pond | 368907 | [368907-super-james-pond.json](./368907-super-james-pond.json) |
 | Super Jazz Man | 57626 | [57626-super-jazz-man.json](./57626-super-jazz-man.json) |
 | Super Jeopardy! | 48698 | [48698-super-jeopardy.json](./48698-super-jeopardy.json) |
 | Super Jet Juck | 111685 | [111685-super-jet-juck.json](./111685-super-jet-juck.json) |
@@ -20466,6 +20474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survive the Labyrinth | 343833 | [343833-survive-the-labyrinth.json](./343833-survive-the-labyrinth.json) |
 | Survive the Mafia | 184378 | [184378-survive-the-mafia.json](./184378-survive-the-mafia.json) |
 | Survive the Orcs | 236795 | [236795-survive-the-orcs.json](./236795-survive-the-orcs.json) |
+| Survive the Silence | 368889 | [368889-survive-the-silence.json](./368889-survive-the-silence.json) |
 | Survive the Spin | 396490 | [396490-survive-the-spin.json](./396490-survive-the-spin.json) |
 | Survive the Swarm | 348784 | [348784-survive-the-swarm.json](./348784-survive-the-swarm.json) |
 | Survive the Troll | 219571 | [219571-survive-the-troll.json](./219571-survive-the-troll.json) |
