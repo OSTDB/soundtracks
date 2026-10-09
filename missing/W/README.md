@@ -2301,6 +2301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What Trash? | 158684 | [158684-what-trash.json](./158684-what-trash.json) |
 | What Was Here? 1-Minute Memory Quiz!! | 420687 | [420687-what-was-here-1-minute-memory-quiz.json](./420687-what-was-here-1-minute-memory-quiz.json) |
 | What Was Home | 374148 | [374148-what-was-home.json](./374148-what-was-home.json) |
+| What We Carry | 386478 | [386478-what-we-carry.json](./386478-what-we-carry.json) |
 | What We Carry | 405565 | [405565-what-we-carry.json](./405565-what-we-carry.json) |
 | What would Google say? | 108370 | [108370-what-would-google-say.json](./108370-what-would-google-say.json) |
 | What Would You Choose? Rather | 91145 | [91145-what-would-you-choose-rather.json](./91145-what-would-you-choose-rather.json) |
@@ -2678,6 +2679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whiskers Reborn | 267348 | [267348-whiskers-reborn.json](./267348-whiskers-reborn.json) |
 | Whiskers Warehouse | 385068 | [385068-whiskers-warehouse.json](./385068-whiskers-warehouse.json) |
 | Whiskers Wonderland | 306092 | [306092-whiskers-wonderland.json](./306092-whiskers-wonderland.json) |
+| Whiskers' Wish | 386498 | [386498-whiskers-wish.json](./386498-whiskers-wish.json) |
 | Whiskerwood | 309324 | [309324-whiskerwood.json](./309324-whiskerwood.json) |
 | Whiskerwood Vale | 350590 | [350590-whiskerwood-vale.json](./350590-whiskerwood-vale.json) |
 | Whiskey Bravo | 189174 | [189174-whiskey-bravo.json](./189174-whiskey-bravo.json) |
