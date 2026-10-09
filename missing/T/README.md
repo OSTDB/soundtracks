@@ -2196,6 +2196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tekkai Jousai no Haika | 398975 | [398975-tekkai-jousai-no-haika.json](./398975-tekkai-jousai-no-haika.json) |
 | Tekken 2 | 248207 | [248207-tekken-2.json](./248207-tekken-2.json) |
 | Tekken 2 / Soul Blade | 382530 | [382530-tekken-2-soul-blade.json](./382530-tekken-2-soul-blade.json) |
+| Tekken 3 | 369999 | [369999-tekken-3.json](./369999-tekken-3.json) |
 | Tekken 3D: Prime Edition | 1237 | [1237-tekken-3d-prime-edition.json](./1237-tekken-3d-prime-edition.json) |
 | Tekken 4 | 1245 | [1245-tekken-4.json](./1245-tekken-4.json) |
 | Tekken 5 | 393526 | [393526-tekken-5.json](./393526-tekken-5.json) |
@@ -7033,6 +7034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The King of the Wood | 22368 | [22368-the-king-of-the-wood.json](./22368-the-king-of-the-wood.json) |
 | The King of Tower Defense | 360206 | [360206-the-king-of-tower-defense.json](./360206-the-king-of-tower-defense.json) |
 | The King of Triads | 175211 | [175211-the-king-of-triads.json](./175211-the-king-of-triads.json) |
+| The King's Bargain | 369928 | [369928-the-kings-bargain.json](./369928-the-kings-bargain.json) |
 | The King's Bird | 11840 | [11840-the-kings-bird.json](./11840-the-kings-bird.json) |
 | The King's Campaign | 243770 | [243770-the-kings-campaign.json](./243770-the-kings-campaign.json) |
 | The King's Cards | 153005 | [153005-the-kings-cards.json](./153005-the-kings-cards.json) |
@@ -9528,6 +9530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Savior of Salem | 109919 | [109919-the-savior-of-salem.json](./109919-the-savior-of-salem.json) |
 | The Savior's Gang | 115049 | [115049-the-saviors-gang.json](./115049-the-saviors-gang.json) |
 | The Scaling | 386286 | [386286-the-scaling.json](./386286-the-scaling.json) |
+| The Scam | 369912 | [369912-the-scam.json](./369912-the-scam.json) |
 | The Scarecrow Knight | 358976 | [358976-the-scarecrow-knight.json](./358976-the-scarecrow-knight.json) |
 | The Scarlet Chaos | 289959 | [289959-the-scarlet-chaos.json](./289959-the-scarlet-chaos.json) |
 | The Scarlet Demonslayer | 231348 | [231348-the-scarlet-demonslayer.json](./231348-the-scarlet-demonslayer.json) |
@@ -15074,6 +15077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomb Raider Level Editor | 130808 | [130808-tomb-raider-level-editor.json](./130808-tomb-raider-level-editor.json) |
 | Tomb Raider Reloaded | 143139 | [143139-tomb-raider-reloaded.json](./143139-tomb-raider-reloaded.json) |
 | Tomb Raider Starring Lara Croft | 36878 | [36878-tomb-raider-starring-lara-croft.json](./36878-tomb-raider-starring-lara-croft.json) |
+| Tomb Raider: Anniversary | 370001 | [370001-tomb-raider-anniversary.json](./370001-tomb-raider-anniversary.json) |
 | Tomb Raider: Anniversary | 381690 | [381690-tomb-raider-anniversary.json](./381690-tomb-raider-anniversary.json) |
 | Tomb Raider: Anniversary - Collectors Edition | 202972 | [202972-tomb-raider-anniversary-collectors-edition.json](./202972-tomb-raider-anniversary-collectors-edition.json) |
 | Tomb Raider: Catalyst | 381234 | [381234-tomb-raider-catalyst.json](./381234-tomb-raider-catalyst.json) |
@@ -19746,6 +19750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Two girls punch me repeatedly | 162746 | [162746-two-girls-punch-me-repeatedly.json](./162746-two-girls-punch-me-repeatedly.json) |
 | Two Guns | 117680 | [117680-two-guns.json](./117680-two-guns.json) |
 | Two Handed Mage | 187223 | [187223-two-handed-mage.json](./187223-two-handed-mage.json) |
+| Two Hands Hospital Assistant Simulator | 370007 | [370007-two-hands-hospital-assistant-simulator.json](./370007-two-hands-hospital-assistant-simulator.json) |
 | Two Heads of the Coin | 86082 | [86082-two-heads-of-the-coin.json](./86082-two-heads-of-the-coin.json) |
 | Two Hoops | 234317 | [234317-two-hoops.json](./234317-two-hoops.json) |
 | Two Hour Escape Mystery: A Puzzling Voyage | 272902 | [272902-two-hour-escape-mystery-a-puzzling-voyage.json](./272902-two-hour-escape-mystery-a-puzzling-voyage.json) |
