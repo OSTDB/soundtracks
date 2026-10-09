@@ -1796,6 +1796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vital Charge | 400312 | [400312-vital-charge.json](./400312-vital-charge.json) |
 | Vital Force | 62188 | [62188-vital-force.json](./62188-vital-force.json) |
 | Vital Light | 38838 | [38838-vital-light.json](./38838-vital-light.json) |
+| Vital Shell | 354957 | [354957-vital-shell.json](./354957-vital-shell.json) |
 | Vital Signs: Emergency Department | 164261 | [164261-vital-signs-emergency-department.json](./164261-vital-signs-emergency-department.json) |
 | Vital Signs: Emergency Department - Infections Package | 225107 | [225107-vital-signs-emergency-department-infections-package.json](./225107-vital-signs-emergency-department-infections-package.json) |
 | Vital Signs: Emergency Department - Injuries Package #1 | 225105 | [225105-vital-signs-emergency-department-injuries-package-1.json](./225105-vital-signs-emergency-department-injuries-package-1.json) |
