@@ -765,6 +765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game of Empires: Warring Realms | 230294 | [230294-game-of-empires-warring-realms.json](./230294-game-of-empires-warring-realms.json) |
 | Game of Evolution | 310024 | [310024-game-of-evolution.json](./310024-game-of-evolution.json) |
 | Game of Fate | 319669 | [319669-game-of-fate.json](./319669-game-of-fate.json) |
+| Game of Gods | 336588 | [336588-game-of-gods.json](./336588-game-of-gods.json) |
 | Game of Hearts | 348766 | [348766-game-of-hearts.json](./348766-game-of-hearts.json) |
 | Game of Hearts | 352258 | [352258-game-of-hearts.json](./352258-game-of-hearts.json) |
 | Game of Legends: Rise of Champions | 194023 | [194023-game-of-legends-rise-of-champions.json](./194023-game-of-legends-rise-of-champions.json) |
@@ -4671,6 +4672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Prix Rock 'N Racing | 19892 | [19892-grand-prix-rock-n-racing.json](./19892-grand-prix-rock-n-racing.json) |
 | Grand Prix Simulator | 13861 | [13861-grand-prix-simulator.json](./13861-grand-prix-simulator.json) |
 | Grand Saudi Hajwala | 374678 | [374678-grand-saudi-hajwala.json](./374678-grand-saudi-hajwala.json) |
+| Grand Shooter | 336578 | [336578-grand-shooter.json](./336578-grand-shooter.json) |
 | Grand Slam | 20812 | [20812-grand-slam.json](./20812-grand-slam.json) |
 | Grand Slam Bridge II | 74004 | [74004-grand-slam-bridge-ii.json](./74004-grand-slam-bridge-ii.json) |
 | Grand Slam Tennis | 4894 | [4894-grand-slam-tennis.json](./4894-grand-slam-tennis.json) |
@@ -5480,6 +5482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Griffophone Rider | 417562 | [417562-griffophone-rider.json](./417562-griffophone-rider.json) |
 | Griftlands: Nintendo Switch Edition | 140501 | [140501-griftlands-nintendo-switch-edition.json](./140501-griftlands-nintendo-switch-edition.json) |
 | Grigala Runner | 110140 | [110140-grigala-runner.json](./110140-grigala-runner.json) |
+| GrigoriNightDragon | 336581 | [336581-grigorinightdragon.json](./336581-grigorinightdragon.json) |
 | Grill it! Sanma | 370818 | [370818-grill-it-sanma.json](./370818-grill-it-sanma.json) |
 | Grill-Off with Ultra Hand! | 50696 | [50696-grill-off-with-ultra-hand.json](./50696-grill-off-with-ultra-hand.json) |
 | Grille Logic | 286580 | [286580-grille-logic.json](./286580-grille-logic.json) |
@@ -6383,6 +6386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunbrella: Deluxe Edition | 266822 | [266822-gunbrella-deluxe-edition.json](./266822-gunbrella-deluxe-edition.json) |
 | Gunbrick | 59838 | [59838-gunbrick.json](./59838-gunbrick.json) |
 | Gunbrick: Reloaded | 131982 | [131982-gunbrick-reloaded.json](./131982-gunbrick-reloaded.json) |
+| Gunbug | 336489 | [336489-gunbug.json](./336489-gunbug.json) |
 | Guncar Arena | 215585 | [215585-guncar-arena.json](./215585-guncar-arena.json) |
 | Guncaster | 142417 | [142417-guncaster.json](./142417-guncaster.json) |
 | Guncaster | 367575 | [367575-guncaster.json](./367575-guncaster.json) |
