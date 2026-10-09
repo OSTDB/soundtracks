@@ -467,6 +467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saints Row | 825 | [825-saints-row.json](./825-saints-row.json) |
 | Saints Row 2: Ultimate Edition | 99971 | [99971-saints-row-2-ultimate-edition.json](./99971-saints-row-2-ultimate-edition.json) |
 | Saints Row 2: Ultor Exposed | 22998 | [22998-saints-row-2-ultor-exposed.json](./22998-saints-row-2-ultor-exposed.json) |
+| Saints Row Boss Factory | 344978 | [344978-saints-row-boss-factory.json](./344978-saints-row-boss-factory.json) |
 | Saints Row IV: Re-Elected | 7707 | [7707-saints-row-iv-re-elected.json](./7707-saints-row-iv-re-elected.json) |
 | Saints Row IV: Re-Elected & Gat out of Hell | 82419 | [82419-saints-row-iv-re-elected-and-gat-out-of-hell.json](./82419-saints-row-iv-re-elected-and-gat-out-of-hell.json) |
 | Saints Row IV: Super Dangerous Wad Wad Edition (aka the Million Dollar Pack) | 21862 | [21862-saints-row-iv-super-dangerous-wad-wad-edition-aka-the-million-dollar-pack.json](./21862-saints-row-iv-super-dangerous-wad-wad-edition-aka-the-million-dollar-pack.json) |
@@ -3435,6 +3436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Septiny | 186193 | [186193-septiny.json](./186193-septiny.json) |
 | Septipus: Tentacle Apocalypse | 65275 | [65275-septipus-tentacle-apocalypse.json](./65275-septipus-tentacle-apocalypse.json) |
 | Sepulcri | 36918 | [36918-sepulcri.json](./36918-sepulcri.json) |
+| Sepulcrum | 344889 | [344889-sepulcrum.json](./344889-sepulcrum.json) |
 | Seqitaire | 207312 | [207312-seqitaire.json](./207312-seqitaire.json) |
 | Sequence Jump | 361854 | [361854-sequence-jump.json](./361854-sequence-jump.json) |
 | Sequence Palladium | 246654 | [246654-sequence-palladium.json](./246654-sequence-palladium.json) |
@@ -3443,6 +3445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sequoia | 185595 | [185595-sequoia.json](./185595-sequoia.json) |
 | Ser BubbleHelm | 385564 | [385564-ser-bubblehelm.json](./385564-ser-bubblehelm.json) |
 | Ser Jorryn | 379867 | [379867-ser-jorryn.json](./379867-ser-jorryn.json) |
+| Sera Dion: Survivor | 344879 | [344879-sera-dion-survivor.json](./344879-sera-dion-survivor.json) |
 | Serafina's Crown | 33338 | [33338-serafinas-crown.json](./33338-serafinas-crown.json) |
 | Serania: Path of the Scion | 258008 | [258008-serania-path-of-the-scion.json](./258008-serania-path-of-the-scion.json) |
 | Seraph of the End: The Origin of Fate | 13638 | [13638-seraph-of-the-end-the-origin-of-fate.json](./13638-seraph-of-the-end-the-origin-of-fate.json) |
@@ -8179,6 +8182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slime Slayer | 147607 | [147607-slime-slayer.json](./147607-slime-slayer.json) |
 | Slime Slayer: Endless Loot | 412954 | [412954-slime-slayer-endless-loot.json](./412954-slime-slayer-endless-loot.json) |
 | Slime Smasher EX | 213645 | [213645-slime-smasher-ex.json](./213645-slime-smasher-ex.json) |
+| Slime Store Simulator | 344988 | [344988-slime-store-simulator.json](./344988-slime-store-simulator.json) |
 | Slime Survivors | 304878 | [304878-slime-survivors.json](./304878-slime-survivors.json) |
 | Slime Tactics | 113592 | [113592-slime-tactics.json](./113592-slime-tactics.json) |
 | Slime Time TD | 153404 | [153404-slime-time-td.json](./153404-slime-time-td.json) |
@@ -13403,6 +13407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spline: Part One | 392898 | [392898-spline-part-one.json](./392898-spline-part-one.json) |
 | Splink | 380646 | [380646-splink.json](./380646-splink.json) |
 | Splinter | 138691 | [138691-splinter.json](./138691-splinter.json) |
+| Splinter Cell: Blacklist Spider-Bot | 344900 | [344900-splinter-cell-blacklist-spider-bot.json](./344900-splinter-cell-blacklist-spider-bot.json) |
 | Splinter Zone | 28867 | [28867-splinter-zone.json](./28867-splinter-zone.json) |
 | Splintered | 319206 | [319206-splintered.json](./319206-splintered.json) |
 | Splinterlands | 165055 | [165055-splinterlands.json](./165055-splinterlands.json) |
@@ -14046,6 +14051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squeeballs Party | 21213 | [21213-squeeballs-party.json](./21213-squeeballs-party.json) |
 | Squeek, the meek | 184974 | [184974-squeek-the-meek.json](./184974-squeek-the-meek.json) |
 | Squeen's Adventure 3: Across The Cosmos | 242255 | [242255-squeens-adventure-3-across-the-cosmos.json](./242255-squeens-adventure-3-across-the-cosmos.json) |
+| Squeeze | 344987 | [344987-squeeze.json](./344987-squeeze.json) |
 | Squeeze Box | 22802 | [22802-squeeze-box.json](./22802-squeeze-box.json) |
 | Squeezils | 206708 | [206708-squeezils.json](./206708-squeezils.json) |
 | Squeezone | 31709 | [31709-squeezone.json](./31709-squeezone.json) |
@@ -16450,6 +16456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Storage Master | 212483 | [212483-storage-master.json](./212483-storage-master.json) |
 | Storage Warfare | 303220 | [303220-storage-warfare.json](./303220-storage-warfare.json) |
 | Store It! | 355035 | [355035-store-it.json](./355035-store-it.json) |
+| Store Keeper | 344985 | [344985-store-keeper.json](./344985-store-keeper.json) |
 | Store Simulator | 285670 | [285670-store-simulator.json](./285670-store-simulator.json) |
 | Store Simulator 2018 | 405476 | [405476-store-simulator-2018.json](./405476-store-simulator-2018.json) |
 | Storebound | 331151 | [331151-storebound.json](./331151-storebound.json) |
@@ -18438,6 +18445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Battle Golf | 387070 | [387070-super-battle-golf.json](./387070-super-battle-golf.json) |
 | Super Battle Golf: Attack on City | 410350 | [410350-super-battle-golf-attack-on-city.json](./410350-super-battle-golf-attack-on-city.json) |
 | Super Battle Polycars | 288874 | [288874-super-battle-polycars.json](./288874-super-battle-polycars.json) |
+| Super Battle Racers | 344895 | [344895-super-battle-racers.json](./344895-super-battle-racers.json) |
 | Super Battle Sensha | 252407 | [252407-super-battle-sensha.json](./252407-super-battle-sensha.json) |
 | Super Beach Bros. Wii | 394336 | [394336-super-beach-bros-wii.json](./394336-super-beach-bros-wii.json) |
 | Super Bear Adventure | 148427 | [148427-super-bear-adventure.json](./148427-super-bear-adventure.json) |
