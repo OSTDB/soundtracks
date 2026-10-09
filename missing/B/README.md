@@ -385,6 +385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backrooms: Splatter | 410300 | [410300-backrooms-splatter.json](./410300-backrooms-splatter.json) |
 | Backrooms: Steps into the abyss | 283971 | [283971-backrooms-steps-into-the-abyss.json](./283971-backrooms-steps-into-the-abyss.json) |
 | Backrooms: Surreality | 226241 | [226241-backrooms-surreality.json](./226241-backrooms-surreality.json) |
+| Backrooms: The Next Level | 353784 | [353784-backrooms-the-next-level.json](./353784-backrooms-the-next-level.json) |
 | Backrooms: The Old Watcher | 407412 | [407412-backrooms-the-old-watcher.json](./407412-backrooms-the-old-watcher.json) |
 | Backrooms: The Others | 366337 | [366337-backrooms-the-others.json](./366337-backrooms-the-others.json) |
 | Backrooms: The Project | 239762 | [239762-backrooms-the-project.json](./239762-backrooms-the-project.json) |
@@ -5387,6 +5388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Otaku 2: Taekwondo is in my Blood | 261770 | [261770-black-otaku-2-taekwondo-is-in-my-blood.json](./261770-black-otaku-2-taekwondo-is-in-my-blood.json) |
 | Black Otaku: SOS HD | 69352 | [69352-black-otaku-sos-hd.json](./69352-black-otaku-sos-hd.json) |
 | Black Out. | 297808 | [297808-black-out.json](./297808-black-out.json) |
+| Black OX | 353801 | [353801-black-ox.json](./353801-black-ox.json) |
 | Black Panther | 38589 | [38589-black-panther.json](./38589-black-panther.json) |
 | Black Paradox | 104866 | [104866-black-paradox.json](./104866-black-paradox.json) |
 | Black Paradox Reloaded | 349393 | [349393-black-paradox-reloaded.json](./349393-black-paradox-reloaded.json) |
@@ -6169,6 +6171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block and Save | 254166 | [254166-block-and-save.json](./254166-block-and-save.json) |
 | Block Arena | 148928 | [148928-block-arena.json](./148928-block-arena.json) |
 | Block Arena | 384098 | [384098-block-arena.json](./384098-block-arena.json) |
+| Block Beast | 353794 | [353794-block-beast.json](./353794-block-beast.json) |
 | Block Blast | 130896 | [130896-block-blast.json](./130896-block-blast.json) |
 | Block Blitz | 207280 | [207280-block-blitz.json](./207280-block-blitz.json) |
 | Block Block | 46763 | [46763-block-block.json](./46763-block-block.json) |
@@ -10356,6 +10359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burden of Proof | 105198 | [105198-burden-of-proof.json](./105198-burden-of-proof.json) |
 | Burden RPG | 388403 | [388403-burden-rpg.json](./388403-burden-rpg.json) |
 | Burden Street Station | 347812 | [347812-burden-street-station.json](./347812-burden-street-station.json) |
+| Burdock 2 | 353766 | [353766-burdock-2.json](./353766-burdock-2.json) |
 | Bureaucromancer | 408233 | [408233-bureaucromancer.json](./408233-bureaucromancer.json) |
 | Burg Battle | 153391 | [153391-burg-battle.json](./153391-burg-battle.json) |
 | Burg Schreckenstein: Der Dieb von Burg Schreckenstein | 376559 | [376559-burg-schreckenstein-der-dieb-von-burg-schreckenstein.json](./376559-burg-schreckenstein-der-dieb-von-burg-schreckenstein.json) |
