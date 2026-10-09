@@ -677,6 +677,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jeopardy! Deluxe Edition | 42512 | [42512-jeopardy-deluxe-edition.json](./42512-jeopardy-deluxe-edition.json) |
 | Jeopardy! New Sports Edition | 79544 | [79544-jeopardy-new-sports-edition.json](./79544-jeopardy-new-sports-edition.json) |
 | Jeopardy! PlayShow | 140551 | [140551-jeopardy-playshow.json](./140551-jeopardy-playshow.json) |
+| Jeopardy! Sports Edition | 348214 | [348214-jeopardy-sports-edition.json](./348214-jeopardy-sports-edition.json) |
+| Jeopardy! Sports Edition | 348219 | [348219-jeopardy-sports-edition.json](./348219-jeopardy-sports-edition.json) |
 | Jeopardy! Sports Edition | 48977 | [48977-jeopardy-sports-edition.json](./48977-jeopardy-sports-edition.json) |
 | Jeopardy! Super Deluxe | 210134 | [210134-jeopardy-super-deluxe.json](./210134-jeopardy-super-deluxe.json) |
 | Jeopardy! World Tour | 87356 | [87356-jeopardy-world-tour.json](./87356-jeopardy-world-tour.json) |
@@ -1697,6 +1699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Journey On | 154023 | [154023-journey-on.json](./154023-journey-on.json) |
 | Journey Record | 265961 | [265961-journey-record.json](./265961-journey-record.json) |
 | Journey Through the Nightmare Realm II | 347683 | [347683-journey-through-the-nightmare-realm-ii.json](./347683-journey-through-the-nightmare-realm-ii.json) |
+| Journey Through the Undead | 348198 | [348198-journey-through-the-undead.json](./348198-journey-through-the-undead.json) |
 | Journey To Bethlehem: Fig Run | 275580 | [275580-journey-to-bethlehem-fig-run.json](./275580-journey-to-bethlehem-fig-run.json) |
 | Journey to Chaos: Pilgrimage to the West | 355218 | [355218-journey-to-chaos-pilgrimage-to-the-west.json](./355218-journey-to-chaos-pilgrimage-to-the-west.json) |
 | Journey to die | 327341 | [327341-journey-to-die.json](./327341-journey-to-die.json) |
