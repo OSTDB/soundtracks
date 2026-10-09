@@ -4239,6 +4239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chill Planet | 376595 | [376595-chill-planet.json](./376595-chill-planet.json) |
 | Chill Seekers | 267108 | [267108-chill-seekers.json](./267108-chill-seekers.json) |
 | Chill Town | 212814 | [212814-chill-town.json](./212814-chill-town.json) |
+| Chill with You: Lo-Fi Story | 342703 | [342703-chill-with-you-lo-fi-story.json](./342703-chill-with-you-lo-fi-story.json) |
 | Chill X | 161260 | [161260-chill-x.json](./161260-chill-x.json) |
 | Chillax | 261959 | [261959-chillax.json](./261959-chillax.json) |
 | Chillax | 303724 | [303724-chillax.json](./303724-chillax.json) |
@@ -5875,6 +5876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clever Kids: Pirates | 122904 | [122904-clever-kids-pirates.json](./122904-clever-kids-pirates.json) |
 | Cliax Codec | 404970 | [404970-cliax-codec.json](./404970-cliax-codec.json) |
 | Cliché Adventure | 159712 | [159712-cliche-adventure.json](./159712-cliche-adventure.json) |
+| Click and Conquer | 342682 | [342682-click-and-conquer.json](./342682-click-and-conquer.json) |
 | Click and Relax | 153420 | [153420-click-and-relax.json](./153420-click-and-relax.json) |
 | Click Build Repeat | 404419 | [404419-click-build-repeat.json](./404419-click-build-repeat.json) |
 | Click Click Click | 369641 | [369641-click-click-click.json](./369641-click-click-click.json) |
