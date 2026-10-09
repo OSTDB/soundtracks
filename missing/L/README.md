@@ -480,6 +480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Landnav | 197380 | [197380-landnav.json](./197380-landnav.json) |
 | Lando: Me? A Hero? | 321422 | [321422-lando-me-a-hero.json](./321422-lando-me-a-hero.json) |
 | Landomayzer | 370122 | [370122-landomayzer.json](./370122-landomayzer.json) |
+| Landonia | 340894 | [340894-landonia.json](./340894-landonia.json) |
 | Landoria | 296637 | [296637-landoria.json](./296637-landoria.json) |
 | LandPort | 201005 | [201005-landport.json](./201005-landport.json) |
 | Landrocker | 149513 | [149513-landrocker.json](./149513-landrocker.json) |
@@ -507,6 +508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lane Splitter | 233227 | [233227-lane-splitter.json](./233227-lane-splitter.json) |
 | Lanescape | 203570 | [203570-lanescape.json](./203570-lanescape.json) |
 | Lanesplit | 345072 | [345072-lanesplit.json](./345072-lanesplit.json) |
+| Lanesplitterz | 340895 | [340895-lanesplitterz.json](./340895-lanesplitterz.json) |
 | Laney, This Won’t Make You Happier | 400973 | [400973-laney-this-won-t-make-you-happier.json](./400973-laney-this-won-t-make-you-happier.json) |
 | Lang Ops: Blank Canvas | 403126 | [403126-lang-ops-blank-canvas.json](./403126-lang-ops-blank-canvas.json) |
 | Lang Ops: Corrupted Files | 403125 | [403125-lang-ops-corrupted-files.json](./403125-lang-ops-corrupted-files.json) |
@@ -680,6 +682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lasso Legend | 364655 | [364655-lasso-legend.json](./364655-lasso-legend.json) |
 | Last | 356627 | [356627-last.json](./356627-last.json) |
 | Last $50 | 400954 | [400954-last-50.json](./400954-last-50.json) |
+| Last 22 | 340896 | [340896-last-22.json](./340896-last-22.json) |
 | Last 4 Survive: The Outbreak | 287158 | [287158-last-4-survive-the-outbreak.json](./287158-last-4-survive-the-outbreak.json) |
 | Last Alive | 104823 | [104823-last-alive.json](./104823-last-alive.json) |
 | Last Alive | 37363 | [37363-last-alive.json](./37363-last-alive.json) |
@@ -739,6 +742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Days of Tascaria | 99595 | [99595-last-days-of-tascaria.json](./99595-last-days-of-tascaria.json) |
 | Last Defender | 310562 | [310562-last-defender.json](./310562-last-defender.json) |
 | Last Defenders | 173045 | [173045-last-defenders.json](./173045-last-defenders.json) |
+| Last Definitive Fantasy | 340897 | [340897-last-definitive-fantasy.json](./340897-last-definitive-fantasy.json) |
 | Last Dolls | 382318 | [382318-last-dolls.json](./382318-last-dolls.json) |
 | Last Draft | 401161 | [401161-last-draft.json](./401161-last-draft.json) |
 | Last Dream: Complete Edition | 53265 | [53265-last-dream-complete-edition.json](./53265-last-dream-complete-edition.json) |
@@ -988,12 +992,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Late Stage Capitalism | 355125 | [355125-late-stage-capitalism.json](./355125-late-stage-capitalism.json) |
 | Late Work | 177487 | [177487-late-work.json](./177487-late-work.json) |
 | Latebus | 177832 | [177832-latebus.json](./177832-latebus.json) |
+| Latent Experience | 340899 | [340899-latent-experience.json](./340899-latent-experience.json) |
+| Latent Leftovers | 340900 | [340900-latent-leftovers.json](./340900-latent-leftovers.json) |
 | Later | 348328 | [348328-later.json](./348328-later.json) |
 | Later Alligator | 112939 | [112939-later-alligator.json](./112939-later-alligator.json) |
 | Later Daters: Part One and Two | 238183 | [238183-later-daters-part-one-and-two.json](./238183-later-daters-part-one-and-two.json) |
 | Later On | 81597 | [81597-later-on.json](./81597-later-on.json) |
 | Lateral Thinking Together | 372493 | [372493-lateral-thinking-together.json](./372493-lateral-thinking-together.json) |
 | Latest Issue | 329097 | [329097-latest-issue.json](./329097-latest-issue.json) |
+| Latex, Leather, Lipstick, Love, Lust | 340901 | [340901-latex-leather-lipstick-love-lust.json](./340901-latex-leather-lipstick-love-lust.json) |
 | Latin America Empire 2027 | 219664 | [219664-latin-america-empire-2027.json](./219664-latin-america-empire-2027.json) |
 | Latte Stand Tycoon + | 130214 | [130214-latte-stand-tycoon.json](./130214-latte-stand-tycoon.json) |
 | Lattice 200EC7 | 143664 | [143664-lattice-200ec7.json](./143664-lattice-200ec7.json) |
