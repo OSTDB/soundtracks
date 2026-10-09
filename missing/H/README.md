@@ -322,6 +322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Half-Life Alyx NoVR | 255791 | [255791-half-life-alyx-novr.json](./255791-half-life-alyx-novr.json) |
 | Half-Life Decay: Solo Mission | 196081 | [196081-half-life-decay-solo-mission.json](./196081-half-life-decay-solo-mission.json) |
 | Half-Life FX: Single | 323781 | [323781-half-life-fx-single.json](./323781-half-life-fx-single.json) |
+| Half-Life Legacy | 381342 | [381342-half-life-legacy.json](./381342-half-life-legacy.json) |
 | Half-Life Randomizer | 221792 | [221792-half-life-randomizer.json](./221792-half-life-randomizer.json) |
 | Half-Life ZDoom | 255673 | [255673-half-life-zdoom.json](./255673-half-life-zdoom.json) |
 | Half-Life: 25th Anniversary Update | 277523 | [277523-half-life-25th-anniversary-update.json](./277523-half-life-25th-anniversary-update.json) |
@@ -5831,6 +5832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horizon Zero Dawn: Complete Edition | 72870 | [72870-horizon-zero-dawn-complete-edition.json](./72870-horizon-zero-dawn-complete-edition.json) |
 | Horizon's Gate | 131620 | [131620-horizons-gate.json](./131620-horizons-gate.json) |
 | Horizons Light | 376466 | [376466-horizons-light.json](./376466-horizons-light.json) |
+| Horizons of Achaea | 381358 | [381358-horizons-of-achaea.json](./381358-horizons-of-achaea.json) |
 | Horizons Scavenger | 390272 | [390272-horizons-scavenger.json](./390272-horizons-scavenger.json) |
 | Horizons: The End Of Words | 314473 | [314473-horizons-the-end-of-words.json](./314473-horizons-the-end-of-words.json) |
 | Horizontal | 292060 | [292060-horizontal.json](./292060-horizontal.json) |
