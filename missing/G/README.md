@@ -3415,6 +3415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goblins of Elderstone | 55262 | [55262-goblins-of-elderstone.json](./55262-goblins-of-elderstone.json) |
 | Goblins Please | 260405 | [260405-goblins-please.json](./260405-goblins-please.json) |
 | Goblins With Guns | 364039 | [364039-goblins-with-guns.json](./364039-goblins-with-guns.json) |
+| Goblita’s Delivery Service | 349264 | [349264-goblita-s-delivery-service.json](./349264-goblita-s-delivery-service.json) |
 | GoBlock's Impossible Medley | 28884 | [28884-goblocks-impossible-medley.json](./28884-goblocks-impossible-medley.json) |
 | Goblomite | 348893 | [348893-goblomite.json](./348893-goblomite.json) |
 | Goblr: Goblin Date Night Simulator | 238719 | [238719-goblr-goblin-date-night-simulator.json](./238719-goblr-goblin-date-night-simulator.json) |
