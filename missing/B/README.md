@@ -4861,6 +4861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bionicle: Glatorian Arena 2 | 343358 | [343358-bionicle-glatorian-arena-2.json](./343358-bionicle-glatorian-arena-2.json) |
 | Bionicle: Kapura Adventures | 195049 | [195049-bionicle-kapura-adventures.json](./195049-bionicle-kapura-adventures.json) |
 | Bionicle: Masks of Power | 141873 | [141873-bionicle-masks-of-power.json](./141873-bionicle-masks-of-power.json) |
+| Bionicle: Masks of Power - Legacy | 354948 | [354948-bionicle-masks-of-power-legacy.json](./354948-bionicle-masks-of-power-legacy.json) |
 | Bionicle: Maze of Shadows | 15738 | [15738-bionicle-maze-of-shadows.json](./15738-bionicle-maze-of-shadows.json) |
 | Bionicle: The Game | 3811 | [3811-bionicle-the-game.json](./3811-bionicle-the-game.json) |
 | Bionite: Origins | 34105 | [34105-bionite-origins.json](./34105-bionite-origins.json) |
@@ -6114,6 +6115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blitzr Ball | 338864 | [338864-blitzr-ball.json](./338864-blitzr-ball.json) |
 | Blix & Chocolate Mine | 145031 | [145031-blix-and-chocolate-mine.json](./145031-blix-and-chocolate-mine.json) |
 | Blixten Quest | 110917 | [110917-blixten-quest.json](./110917-blixten-quest.json) |
+| Blizz! | 354945 | [354945-blizz.json](./354945-blizz.json) |
 | Blizzard | 92141 | [92141-blizzard.json](./92141-blizzard.json) |
 | Blizzard Blowout 64 | 177563 | [177563-blizzard-blowout-64.json](./177563-blizzard-blowout-64.json) |
 | Blizzard World | 175276 | [175276-blizzard-world.json](./175276-blizzard-world.json) |
@@ -7234,6 +7236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boggle | 264236 | [264236-boggle.json](./264236-boggle.json) |
 | Boggle | 282633 | [282633-boggle.json](./282633-boggle.json) |
 | Boggle Bash | 366411 | [366411-boggle-bash.json](./366411-boggle-bash.json) |
+| Boggle Bash 2 | 354963 | [354963-boggle-bash-2.json](./354963-boggle-bash-2.json) |
 | Boggle Plus | 92264 | [92264-boggle-plus.json](./92264-boggle-plus.json) |
 | Boggle With Friends | 55087 | [55087-boggle-with-friends.json](./55087-boggle-with-friends.json) |
 | Boggy '84 | 40261 | [40261-boggy-84.json](./40261-boggy-84.json) |
@@ -7716,6 +7719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bookworm | 316279 | [316279-bookworm.json](./316279-bookworm.json) |
 | Bookworm | 8325 | [8325-bookworm.json](./8325-bookworm.json) |
 | Bookworm Adventures Deluxe | 353868 | [353868-bookworm-adventures-deluxe.json](./353868-bookworm-adventures-deluxe.json) |
+| Bookworm HD | 354964 | [354964-bookworm-hd.json](./354964-bookworm-hd.json) |
 | Bookworm Wordy Wonder Bundle | 196003 | [196003-bookworm-wordy-wonder-bundle.json](./196003-bookworm-wordy-wonder-bundle.json) |
 | Bookyman | 229061 | [229061-bookyman.json](./229061-bookyman.json) |
 | Bool Capture | 347881 | [347881-bool-capture.json](./347881-bool-capture.json) |
