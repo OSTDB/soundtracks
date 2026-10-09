@@ -2028,6 +2028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Encyclopedia Explosica | 185617 | [185617-encyclopedia-explosica.json](./185617-encyclopedia-explosica.json) |
 | End Gate: The Last Passenger | 311612 | [311612-end-gate-the-last-passenger.json](./311612-end-gate-the-last-passenger.json) |
 | End Matter | 175265 | [175265-end-matter.json](./175265-end-matter.json) |
+| End of Abyss | 347637 | [347637-end-of-abyss.json](./347637-end-of-abyss.json) |
 | End of Days | 151183 | [151183-end-of-days.json](./151183-end-of-days.json) |
 | End of Despair | 199354 | [199354-end-of-despair.json](./199354-end-of-despair.json) |
 | End of Edge | 257384 | [257384-end-of-edge.json](./257384-end-of-edge.json) |
