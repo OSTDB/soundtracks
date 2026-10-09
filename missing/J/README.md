@@ -499,6 +499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jason and Medea | 364632 | [364632-jason-and-medea.json](./364632-jason-and-medea.json) |
 | Jason Maxx | 349316 | [349316-jason-maxx.json](./349316-jason-maxx.json) |
 | Jason The Greek: The Ladies of Lemnos | 110237 | [110237-jason-the-greek-the-ladies-of-lemnos.json](./110237-jason-the-greek-the-ladies-of-lemnos.json) |
+| Jason: Coming of Age | 344882 | [344882-jason-coming-of-age.json](./344882-jason-coming-of-age.json) |
 | Jasper and the City of Lights | 211237 | [211237-jasper-and-the-city-of-lights.json](./211237-jasper-and-the-city-of-lights.json) |
 | Jasper! | 92971 | [92971-jasper.json](./92971-jasper.json) |
 | Jasper's Dream | 220044 | [220044-jaspers-dream.json](./220044-jaspers-dream.json) |
