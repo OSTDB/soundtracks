@@ -8388,6 +8388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draft Day Sports: Pro Basketball 2019 | 111623 | [111623-draft-day-sports-pro-basketball-2019.json](./111623-draft-day-sports-pro-basketball-2019.json) |
 | Draft Day Sports: Pro Basketball 2020 | 126983 | [126983-draft-day-sports-pro-basketball-2020.json](./126983-draft-day-sports-pro-basketball-2020.json) |
 | Draft Day Sports: Pro Basketball 2023 | 226201 | [226201-draft-day-sports-pro-basketball-2023.json](./226201-draft-day-sports-pro-basketball-2023.json) |
+| Draft Day Sports: Pro Basketball 26 | 375553 | [375553-draft-day-sports-pro-basketball-26.json](./375553-draft-day-sports-pro-basketball-26.json) |
 | Draft Day Sports: Pro Football 2016 | 102142 | [102142-draft-day-sports-pro-football-2016.json](./102142-draft-day-sports-pro-football-2016.json) |
 | Draft Day Sports: Pro Golf | 105388 | [105388-draft-day-sports-pro-golf.json](./105388-draft-day-sports-pro-golf.json) |
 | Drafting Tales | 116055 | [116055-drafting-tales.json](./116055-drafting-tales.json) |
@@ -8832,6 +8833,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Snack: From Ice to Ember | 399624 | [399624-dragon-snack-from-ice-to-ember.json](./399624-dragon-snack-from-ice-to-ember.json) |
 | Dragon Snakes | 118302 | [118302-dragon-snakes.json](./118302-dragon-snakes.json) |
 | Dragon Song Tavern | 334471 | [334471-dragon-song-tavern.json](./334471-dragon-song-tavern.json) |
+| Dragon Song Tavern: Festival of the Returning Tides DLC | 375592 | [375592-dragon-song-tavern-festival-of-the-returning-tides-dlc.json](./375592-dragon-song-tavern-festival-of-the-returning-tides-dlc.json) |
+| Dragon Song Tavern: Pumpkin Masquerade DLC | 375593 | [375593-dragon-song-tavern-pumpkin-masquerade-dlc.json](./375593-dragon-song-tavern-pumpkin-masquerade-dlc.json) |
 | Dragon Souls | 31864 | [31864-dragon-souls.json](./31864-dragon-souls.json) |
 | Dragon Spear | 77588 | [77588-dragon-spear.json](./77588-dragon-spear.json) |
 | Dragon Spirit | 12055 | [12055-dragon-spirit.json](./12055-dragon-spirit.json) |
