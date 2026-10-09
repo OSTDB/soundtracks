@@ -3193,6 +3193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Script: Nature | 319348 | [319348-wild-script-nature.json](./319348-wild-script-nature.json) |
 | Wild Seasons | 273383 | [273383-wild-seasons.json](./273383-wild-seasons.json) |
 | Wild Shape | 180311 | [180311-wild-shape.json](./180311-wild-shape.json) |
+| Wild Shot: Animal Savior | 348196 | [348196-wild-shot-animal-savior.json](./348196-wild-shot-animal-savior.json) |
 | Wild Snap | 367577 | [367577-wild-snap.json](./367577-wild-snap.json) |
 | Wild Souls | 152740 | [152740-wild-souls.json](./152740-wild-souls.json) |
 | Wild Streets | 12827 | [12827-wild-streets.json](./12827-wild-streets.json) |
