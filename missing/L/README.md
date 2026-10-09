@@ -5016,6 +5016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Pyramid | 236818 | [236818-lost-pyramid.json](./236818-lost-pyramid.json) |
 | Lost Qubixle | 175257 | [175257-lost-qubixle.json](./175257-lost-qubixle.json) |
 | Lost Railway | 397805 | [397805-lost-railway.json](./397805-lost-railway.json) |
+| Lost Realms | 335388 | [335388-lost-realms.json](./335388-lost-realms.json) |
 | Lost Recipes | 194717 | [194717-lost-recipes.json](./194717-lost-recipes.json) |
 | Lost Records: Bloom & Rage - Tape 1 | 314260 | [314260-lost-records-bloom-and-rage-tape-1.json](./314260-lost-records-bloom-and-rage-tape-1.json) |
 | Lost Records: Bloom & Rage - Tape 2 | 314261 | [314261-lost-records-bloom-and-rage-tape-2.json](./314261-lost-records-bloom-and-rage-tape-2.json) |
