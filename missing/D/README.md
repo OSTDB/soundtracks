@@ -598,6 +598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Danganronpa V3: Killing Harmony Demo Ver. | 282660 | [282660-danganronpa-v3-killing-harmony-demo-ver.json](./282660-danganronpa-v3-killing-harmony-demo-ver.json) |
 | Danganronpa V4 Rocky Restarts | 336753 | [336753-danganronpa-v4-rocky-restarts.json](./336753-danganronpa-v4-rocky-restarts.json) |
 | Danganronpa Weeping Rebellion | 304345 | [304345-danganronpa-weeping-rebellion.json](./304345-danganronpa-weeping-rebellion.json) |
+| Danganronpa Z: Patient Madness Cropper | 337577 | [337577-danganronpa-z-patient-madness-cropper.json](./337577-danganronpa-z-patient-madness-cropper.json) |
 | Danganronpa: Abandoned Lights | 304348 | [304348-danganronpa-abandoned-lights.json](./304348-danganronpa-abandoned-lights.json) |
 | Danganronpa: Antebellum | 333929 | [333929-danganronpa-antebellum.json](./333929-danganronpa-antebellum.json) |
 | Danganronpa: Antebellum - Lockdown | 333932 | [333932-danganronpa-antebellum-lockdown.json](./333932-danganronpa-antebellum-lockdown.json) |
@@ -607,6 +608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Danganronpa: Fandom's Calling | 338724 | [338724-danganronpa-fandoms-calling.json](./338724-danganronpa-fandoms-calling.json) |
 | Danganronpa: Gods at Gunpoint | 341110 | [341110-danganronpa-gods-at-gunpoint.json](./341110-danganronpa-gods-at-gunpoint.json) |
 | Danganronpa: Hope Restoration | 341105 | [341105-danganronpa-hope-restoration.json](./341105-danganronpa-hope-restoration.json) |
+| DanganRonpa: It's Showtime! | 337574 | [337574-danganronpa-its-showtime.json](./337574-danganronpa-its-showtime.json) |
 | Danganronpa: Lapse | 243221 | [243221-danganronpa-lapse.json](./243221-danganronpa-lapse.json) |
 | Danganronpa: Live or Die | 270679 | [270679-danganronpa-live-or-die.json](./270679-danganronpa-live-or-die.json) |
 | Danganronpa: Monokuma Strikes Back | 299839 | [299839-danganronpa-monokuma-strikes-back.json](./299839-danganronpa-monokuma-strikes-back.json) |
@@ -3755,6 +3757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon King | 192687 | [192687-demon-king.json](./192687-demon-king.json) |
 | Demon Kingdom | 303470 | [303470-demon-kingdom.json](./303470-demon-kingdom.json) |
 | Demon Knight | 38922 | [38922-demon-knight.json](./38922-demon-knight.json) |
+| Demon Knives | 337587 | [337587-demon-knives.json](./337587-demon-knives.json) |
 | Demon Lily and the Noir Maid | 397055 | [397055-demon-lily-and-the-noir-maid.json](./397055-demon-lily-and-the-noir-maid.json) |
 | Demon Lord | 29776 | [29776-demon-lord.json](./29776-demon-lord.json) |
 | Demon Lord Reincarnation Gaiden | 286046 | [286046-demon-lord-reincarnation-gaiden.json](./286046-demon-lord-reincarnation-gaiden.json) |
@@ -4098,6 +4101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Derby Time Online | 7287 | [7287-derby-time-online.json](./7287-derby-time-online.json) |
 | Derby: Extreme Racing | 122131 | [122131-derby-extreme-racing.json](./122131-derby-extreme-racing.json) |
 | Dere Evil.Exe | 104080 | [104080-dere-evil-exe.json](./104080-dere-evil-exe.json) |
+| Dere Quartet | 337578 | [337578-dere-quartet.json](./337578-dere-quartet.json) |
 | Dere-chat | 199499 | [199499-dere-chat.json](./199499-dere-chat.json) |
 | Dere. Some Answers Before I... | 258696 | [258696-dere-some-answers-before-i.json](./258696-dere-some-answers-before-i.json) |
 | Derealization | 381096 | [381096-derealization.json](./381096-derealization.json) |
@@ -8341,6 +8345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Downtown Run | 242783 | [242783-downtown-run.json](./242783-downtown-run.json) |
 | Downtown Special Kunio-kun's Historical Period Drama! | 48631 | [48631-downtown-special-kunio-kuns-historical-period-drama.json](./48631-downtown-special-kunio-kuns-historical-period-drama.json) |
 | Downtown Special: Kunio-kun no Jidaigeki Da yo Zenin Shuugou! | 191663 | [191663-downtown-special-kunio-kun-no-jidaigeki-da-yo-zenin-shuugou.json](./191663-downtown-special-kunio-kun-no-jidaigeki-da-yo-zenin-shuugou.json) |
+| Downward Spear | 337591 | [337591-downward-spear.json](./337591-downward-spear.json) |
 | Downward Spiral: Prologue | 29981 | [29981-downward-spiral-prologue.json](./29981-downward-spiral-prologue.json) |
 | Downward: Enhanced Edition | 301912 | [301912-downward-enhanced-edition.json](./301912-downward-enhanced-edition.json) |
 | Dowon | 292299 | [292299-dowon.json](./292299-dowon.json) |
