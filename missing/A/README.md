@@ -1338,6 +1338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Accounting | 25251 | [25251-accounting.json](./25251-accounting.json) |
 | Accretion | 342680 | [342680-accretion.json](./342680-accretion.json) |
 | AccuBow VR | 337792 | [337792-accubow-vr.json](./337792-accubow-vr.json) |
+| Accurate Segmentation | 334796 | [334796-accurate-segmentation.json](./334796-accurate-segmentation.json) |
 | Accurate Segmentation 2 | 334829 | [334829-accurate-segmentation-2.json](./334829-accurate-segmentation-2.json) |
 | Accurate Segmentation 3 | 334828 | [334828-accurate-segmentation-3.json](./334828-accurate-segmentation-3.json) |
 | Accurate Shot | 288743 | [288743-accurate-shot.json](./288743-accurate-shot.json) |
@@ -5747,6 +5748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Circus: Learning Games | 106521 | [106521-animal-circus-learning-games.json](./106521-animal-circus-learning-games.json) |
 | Animal City | 130756 | [130756-animal-city.json](./130756-animal-city.json) |
 | Animal Coloring Book for Kids & Toddlers: Unicorns | 402570 | [402570-animal-coloring-book-for-kids-and-toddlers-unicorns.json](./402570-animal-coloring-book-for-kids-and-toddlers-unicorns.json) |
+| Animal Couple | 334801 | [334801-animal-couple.json](./334801-animal-couple.json) |
 | Animal Cove: Match 3 Adventure | 108854 | [108854-animal-cove-match-3-adventure.json](./108854-animal-cove-match-3-adventure.json) |
 | Animal Crackers | 177567 | [177567-animal-crackers.json](./177567-animal-crackers.json) |
 | Animal Crossing Deluxe | 357452 | [357452-animal-crossing-deluxe.json](./357452-animal-crossing-deluxe.json) |
