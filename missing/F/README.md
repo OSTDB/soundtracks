@@ -2541,6 +2541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fields - Soldier of Time | 77278 | [77278-fields-soldier-of-time.json](./77278-fields-soldier-of-time.json) |
 | Fields of Aaru | 400375 | [400375-fields-of-aaru.json](./400375-fields-of-aaru.json) |
 | Fields of Battle 2 | 216131 | [216131-fields-of-battle-2.json](./216131-fields-of-battle-2.json) |
+| Fields of Fortune | 345456 | [345456-fields-of-fortune.json](./345456-fields-of-fortune.json) |
 | Fields of Glory | 37111 | [37111-fields-of-glory.json](./37111-fields-of-glory.json) |
 | Fields of Logic | 225720 | [225720-fields-of-logic.json](./225720-fields-of-logic.json) |
 | Fields of Mine | 372981 | [372981-fields-of-mine.json](./372981-fields-of-mine.json) |
@@ -6627,6 +6628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fragments of Fear | 406703 | [406703-fragments-of-fear.json](./406703-fragments-of-fear.json) |
 | Fragments of Him | 12518 | [12518-fragments-of-him.json](./12518-fragments-of-him.json) |
 | Fragments of Truth: An MCF Story | 416703 | [416703-fragments-of-truth-an-mcf-story.json](./416703-fragments-of-truth-an-mcf-story.json) |
+| Fragments of Truth: An MCF Story - Collector's Edition | 345419 | [345419-fragments-of-truth-an-mcf-story-collectors-edition.json](./345419-fragments-of-truth-an-mcf-story-collectors-edition.json) |
 | FragMiner | 398561 | [398561-fragminer.json](./398561-fragminer.json) |
 | Fragport | 260956 | [260956-fragport.json](./260956-fragport.json) |
 | FragPunk: Toys Awaken - Season 2: Chapter 2 | 362276 | [362276-fragpunk-toys-awaken-season-2-chapter-2.json](./362276-fragpunk-toys-awaken-season-2-chapter-2.json) |
@@ -7639,6 +7641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fruit Sudoku | 334750 | [334750-fruit-sudoku.json](./334750-fruit-sudoku.json) |
 | Fruit Switch | 265599 | [265599-fruit-switch.json](./265599-fruit-switch.json) |
 | Fruit Thieves | 183548 | [183548-fruit-thieves.json](./183548-fruit-thieves.json) |
+| Fruit Wand | 345413 | [345413-fruit-wand.json](./345413-fruit-wand.json) |
 | Fruit Warrior AR | 241047 | [241047-fruit-warrior-ar.json](./241047-fruit-warrior-ar.json) |
 | Fruit-Fusion | 282807 | [282807-fruit-fusion.json](./282807-fruit-fusion.json) |
 | Fruitalistic! | 258638 | [258638-fruitalistic.json](./258638-fruitalistic.json) |
