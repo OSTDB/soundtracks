@@ -6960,6 +6960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miko Kanna Noukin Taimaki | 82738 | [82738-miko-kanna-noukin-taimaki.json](./82738-miko-kanna-noukin-taimaki.json) |
 | Miko Monogatari! | 222277 | [222277-miko-monogatari.json](./222277-miko-monogatari.json) |
 | Miko no Kanata: Curious Tales from Oguni Shrine - Zero | 387081 | [387081-miko-no-kanata-curious-tales-from-oguni-shrine-zero.json](./387081-miko-no-kanata-curious-tales-from-oguni-shrine-zero.json) |
+| Miko x Miko Sisters: Kagura-kei no Miko to Akuryou | 333522 | [333522-miko-x-miko-sisters-kagura-kei-no-miko-to-akuryou.json](./333522-miko-x-miko-sisters-kagura-kei-no-miko-to-akuryou.json) |
 | Miko-san no Miracle Board | 374956 | [374956-miko-san-no-miracle-board.json](./374956-miko-san-no-miracle-board.json) |
 | Mikone Douchuu | 206037 | [206037-mikone-douchuu.json](./206037-mikone-douchuu.json) |
 | Mikoshi | 191200 | [191200-mikoshi.json](./191200-mikoshi.json) |
@@ -12841,6 +12842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Myriavora | 154584 | [154584-myriavora.json](./154584-myriavora.json) |
 | Myridian: The Last Stand | 128969 | [128969-myridian-the-last-stand.json](./128969-myridian-the-last-stand.json) |
 | Myrm Emblem | 279784 | [279784-myrm-emblem.json](./279784-myrm-emblem.json) |
+| Myrmidon | 333501 | [333501-myrmidon.json](./333501-myrmidon.json) |
 | Myrne: The Quest | 29551 | [29551-myrne-the-quest.json](./29551-myrne-the-quest.json) |
 | MyrnEscapes | 200033 | [200033-myrnescapes.json](./200033-myrnescapes.json) |
 | Myror i Brallan | 305867 | [305867-myror-i-brallan.json](./305867-myror-i-brallan.json) |
