@@ -295,6 +295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daisenryaku III '90: Map Collection Vol. 2 | 299826 | [299826-daisenryaku-iii-90-map-collection-vol-2.json](./299826-daisenryaku-iii-90-map-collection-vol-2.json) |
 | Daisenryaku Map Collection | 381851 | [381851-daisenryaku-map-collection.json](./381851-daisenryaku-map-collection.json) |
 | Daisenryaku Perfect: Senjou no Hasha | 65049 | [65049-daisenryaku-perfect-senjou-no-hasha.json](./65049-daisenryaku-perfect-senjou-no-hasha.json) |
+| Daisenryaku SSB2 | 368908 | [368908-daisenryaku-ssb2.json](./368908-daisenryaku-ssb2.json) |
 | Daisenryaku VII | 361318 | [361318-daisenryaku-vii.json](./361318-daisenryaku-vii.json) |
 | Daisenryaku VII DX | 361319 | [361319-daisenryaku-vii-dx.json](./361319-daisenryaku-vii-dx.json) |
 | Daisenryaku: Master Combat | 166548 | [166548-daisenryaku-master-combat.json](./166548-daisenryaku-master-combat.json) |
@@ -1520,6 +1521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Date Treat | 146520 | [146520-date-treat.json](./146520-date-treat.json) |
 | Date Us, You Won't | 215229 | [215229-date-us-you-wont.json](./215229-date-us-you-wont.json) |
 | Date Warp | 17400 | [17400-date-warp.json](./17400-date-warp.json) |
+| Date With a Girl: Mahjong | 368904 | [368904-date-with-a-girl-mahjong.json](./368904-date-with-a-girl-mahjong.json) |
 | Date with Detective Wolf | 303276 | [303276-date-with-detective-wolf.json](./303276-date-with-detective-wolf.json) |
 | Date with Falco | 339267 | [339267-date-with-falco.json](./339267-date-with-falco.json) |
 | Date with Foxgirl | 250007 | [250007-date-with-foxgirl.json](./250007-date-with-foxgirl.json) |
@@ -2868,6 +2870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deck Adventure | 372254 | [372254-deck-adventure.json](./372254-deck-adventure.json) |
 | Deck Adventurers II | 199570 | [199570-deck-adventurers-ii.json](./199570-deck-adventurers-ii.json) |
 | Deck Collector | 404827 | [404827-deck-collector.json](./404827-deck-collector.json) |
+| Deck Combo | 368903 | [368903-deck-combo.json](./368903-deck-combo.json) |
 | Deck Defenders | 237317 | [237317-deck-defenders.json](./237317-deck-defenders.json) |
 | Deck Defense | 301427 | [301427-deck-defense.json](./301427-deck-defense.json) |
 | Deck Hunter | 106418 | [106418-deck-hunter.json](./106418-deck-hunter.json) |
@@ -9612,6 +9615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dresden Files Cooperative Card Game: Winter Schemes | 266503 | [266503-dresden-files-cooperative-card-game-winter-schemes.json](./266503-dresden-files-cooperative-card-game-winter-schemes.json) |
 | Dress | 94748 | [94748-dress.json](./94748-dress.json) |
 | Dress Me | 101049 | [101049-dress-me.json](./101049-dress-me.json) |
+| Dress the Duel | 368822 | [368822-dress-the-duel.json](./368822-dress-the-duel.json) |
 | Dress to Play: Cute Witches! | 85100 | [85100-dress-to-play-cute-witches.json](./85100-dress-to-play-cute-witches.json) |
 | Dress to Play: Magic Bubbles! | 85099 | [85099-dress-to-play-magic-bubbles.json](./85099-dress-to-play-magic-bubbles.json) |
 | Dress Treat! | 146521 | [146521-dress-treat.json](./146521-dress-treat.json) |
