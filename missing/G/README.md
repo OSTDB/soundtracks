@@ -4374,6 +4374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GP World | 6108 | [6108-gp-world.json](./6108-gp-world.json) |
 | GP-1 Part II | 42591 | [42591-gp-1-part-ii.json](./42591-gp-1-part-ii.json) |
 | GPS Monster Scouter | 372137 | [372137-gps-monster-scouter.json](./372137-gps-monster-scouter.json) |
+| GPU Inferno | 369910 | [369910-gpu-inferno.json](./369910-gpu-inferno.json) |
 | Graahl: Of Feather and Grit | 109549 | [109549-graahl-of-feather-and-grit.json](./109549-graahl-of-feather-and-grit.json) |
 | GraalOnline Classic+ | 38871 | [38871-graalonline-classic.json](./38871-graalonline-classic.json) |
 | GraalOnline Era | 55842 | [55842-graalonline-era.json](./55842-graalonline-era.json) |
@@ -4466,6 +4467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gran Turismo 7: 25th Anniversary Edition | 172566 | [172566-gran-turismo-7-25th-anniversary-edition.json](./172566-gran-turismo-7-25th-anniversary-edition.json) |
 | Gran Turismo 7: Launch Edition | 172567 | [172567-gran-turismo-7-launch-edition.json](./172567-gran-turismo-7-launch-edition.json) |
 | Gran Turismo 7: Power Pack | 377243 | [377243-gran-turismo-7-power-pack.json](./377243-gran-turismo-7-power-pack.json) |
+| Gran Turismo 7: Spec III | 370002 | [370002-gran-turismo-7-spec-iii.json](./370002-gran-turismo-7-spec-iii.json) |
 | Gran Turismo 7: Spec IV | 416116 | [416116-gran-turismo-7-spec-iv.json](./416116-gran-turismo-7-spec-iv.json) |
 | Gran Turismo Concept: 2001 Tokyo | 80163 | [80163-gran-turismo-concept-2001-tokyo.json](./80163-gran-turismo-concept-2001-tokyo.json) |
 | Gran Turismo Concept: 2002 Tokyo-Geneva | 22061 | [22061-gran-turismo-concept-2002-tokyo-geneva.json](./22061-gran-turismo-concept-2002-tokyo-geneva.json) |
