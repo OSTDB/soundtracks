@@ -670,6 +670,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kata | 57094 | [57094-kata.json](./57094-kata.json) |
 | Katabasis: Monsters Arise | 151804 | [151804-katabasis-monsters-arise.json](./151804-katabasis-monsters-arise.json) |
 | Katachi Shin Hakken! Rittai Picross 2 | 222535 | [222535-katachi-shin-hakken-rittai-picross-2.json](./222535-katachi-shin-hakken-rittai-picross-2.json) |
+| Katagiri-san is Relying on Me | 372818 | [372818-katagiri-san-is-relying-on-me.json](./372818-katagiri-san-is-relying-on-me.json) |
+| Katagiri-san is Very Cold | 372817 | [372817-katagiri-san-is-very-cold.json](./372817-katagiri-san-is-very-cold.json) |
 | Katahane | 65595 | [65595-katahane.json](./65595-katahane.json) |
 | Katakis | 12652 | [12652-katakis.json](./12652-katakis.json) |
 | Katakoi Contrast: Collection of Branch | 136974 | [136974-katakoi-contrast-collection-of-branch.json](./136974-katakoi-contrast-collection-of-branch.json) |
