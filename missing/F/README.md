@@ -7722,6 +7722,22 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Full Metal Panic! Fight! Who Dares Wins | 75378 | [75378-full-metal-panic-fight-who-dares-wins.json](./75378-full-metal-panic-fight-who-dares-wins.json) |
 | Full Metal Planet | 12110 | [12110-full-metal-planet.json](./12110-full-metal-planet.json) |
 | Full Metal Schoolgirl | 352205 | [352205-full-metal-schoolgirl.json](./352205-full-metal-schoolgirl.json) |
+| Full Metal Schoolgirl: Accessory - "Cat Tail" in 2 Color Varieties | 365568 | [365568-full-metal-schoolgirl-accessory-cat-tail-in-2-color-varieties.json](./365568-full-metal-schoolgirl-accessory-cat-tail-in-2-color-varieties.json) |
+| Full Metal Schoolgirl: Accessory - "Dopey Panda" in 2 Color Varieties | 365569 | [365569-full-metal-schoolgirl-accessory-dopey-panda-in-2-color-varieties.json](./365569-full-metal-schoolgirl-accessory-dopey-panda-in-2-color-varieties.json) |
+| Full Metal Schoolgirl: Accessory - "Fox Tail" in 2 Color Varieties | 365570 | [365570-full-metal-schoolgirl-accessory-fox-tail-in-2-color-varieties.json](./365570-full-metal-schoolgirl-accessory-fox-tail-in-2-color-varieties.json) |
+| Full Metal Schoolgirl: Accessory - "Grey Alien" in 2 Color Varieties | 365571 | [365571-full-metal-schoolgirl-accessory-grey-alien-in-2-color-varieties.json](./365571-full-metal-schoolgirl-accessory-grey-alien-in-2-color-varieties.json) |
+| Full Metal Schoolgirl: Accessory - "Raccoon Tail" in 2 Color Varieties | 365572 | [365572-full-metal-schoolgirl-accessory-raccoon-tail-in-2-color-varieties.json](./365572-full-metal-schoolgirl-accessory-raccoon-tail-in-2-color-varieties.json) |
+| Full Metal Schoolgirl: Accessory - "Victory Daruma" in 2 Color Varieties | 365573 | [365573-full-metal-schoolgirl-accessory-victory-daruma-in-2-color-varieties.json](./365573-full-metal-schoolgirl-accessory-victory-daruma-in-2-color-varieties.json) |
+| Full Metal Schoolgirl: Additional Costume 1 | 365574 | [365574-full-metal-schoolgirl-additional-costume-1.json](./365574-full-metal-schoolgirl-additional-costume-1.json) |
+| Full Metal Schoolgirl: Additional Costume 2 | 365575 | [365575-full-metal-schoolgirl-additional-costume-2.json](./365575-full-metal-schoolgirl-additional-costume-2.json) |
+| Full Metal Schoolgirl: Additional Costume 3 | 365576 | [365576-full-metal-schoolgirl-additional-costume-3.json](./365576-full-metal-schoolgirl-additional-costume-3.json) |
+| Full Metal Schoolgirl: Additional Costume 4 | 365577 | [365577-full-metal-schoolgirl-additional-costume-4.json](./365577-full-metal-schoolgirl-additional-costume-4.json) |
+| Full Metal Schoolgirl: Additional Costume 5 | 365578 | [365578-full-metal-schoolgirl-additional-costume-5.json](./365578-full-metal-schoolgirl-additional-costume-5.json) |
+| Full Metal Schoolgirl: Additional Costume 6 | 365579 | [365579-full-metal-schoolgirl-additional-costume-6.json](./365579-full-metal-schoolgirl-additional-costume-6.json) |
+| Full Metal Schoolgirl: Additional Costume 7 | 365580 | [365580-full-metal-schoolgirl-additional-costume-7.json](./365580-full-metal-schoolgirl-additional-costume-7.json) |
+| Full Metal Schoolgirl: Additional Costume 8 | 365581 | [365581-full-metal-schoolgirl-additional-costume-8.json](./365581-full-metal-schoolgirl-additional-costume-8.json) |
+| Full Metal Schoolgirl: Deluxe Edition | 365554 | [365554-full-metal-schoolgirl-deluxe-edition.json](./365554-full-metal-schoolgirl-deluxe-edition.json) |
+| Full Metal Schoolgirl: New Feature Add | 365582 | [365582-full-metal-schoolgirl-new-feature-add.json](./365582-full-metal-schoolgirl-new-feature-add.json) |
 | Full Metal Sergeant | 189108 | [189108-full-metal-sergeant.json](./189108-full-metal-sergeant.json) |
 | Full Metal Sergeant 2 | 325496 | [325496-full-metal-sergeant-2.json](./325496-full-metal-sergeant-2.json) |
 | Full Moon | 125910 | [125910-full-moon.json](./125910-full-moon.json) |
