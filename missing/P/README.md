@@ -5784,6 +5784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Please, Don't Touch Anything: Classic | 151565 | [151565-please-dont-touch-anything-classic.json](./151565-please-dont-touch-anything-classic.json) |
 | Please, Forgive Me | 256995 | [256995-please-forgive-me.json](./256995-please-forgive-me.json) |
 | Please, Visit Grandma | 138545 | [138545-please-visit-grandma.json](./138545-please-visit-grandma.json) |
+| Please! Please Confess First | 385899 | [385899-please-please-confess-first.json](./385899-please-please-confess-first.json) |
 | Please!! I want to Beg the Voluptuous Koume-chan into Consent! | 82824 | [82824-please-i-want-to-beg-the-voluptuous-koume-chan-into-consent.json](./82824-please-i-want-to-beg-the-voluptuous-koume-chan-into-consent.json) |
 | Pleased Aliens | 281648 | [281648-pleased-aliens.json](./281648-pleased-aliens.json) |
 | Pleasure Airlines | 202209 | [202209-pleasure-airlines.json](./202209-pleasure-airlines.json) |
@@ -7412,6 +7413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Porky's | 22761 | [22761-porkys.json](./22761-porkys.json) |
 | Porn Handyman VR | 417408 | [417408-porn-handyman-vr.json](./417408-porn-handyman-vr.json) |
 | Porn Pizza Delivery Boy | 369674 | [369674-porn-pizza-delivery-boy.json](./369674-porn-pizza-delivery-boy.json) |
+| Porn Star Fake Interview | 385892 | [385892-porn-star-fake-interview.json](./385892-porn-star-fake-interview.json) |
 | Porn Star Island | 385795 | [385795-porn-star-island.json](./385795-porn-star-island.json) |
 | Porno Empire | 270786 | [270786-porno-empire.json](./270786-porno-empire.json) |
 | Porno Party: Sailor Fuku to Yakyuken - The Yakyuken Game | 96310 | [96310-porno-party-sailor-fuku-to-yakyuken-the-yakyuken-game.json](./96310-porno-party-sailor-fuku-to-yakyuken-the-yakyuken-game.json) |
