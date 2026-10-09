@@ -10580,6 +10580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Azalta | 165515 | [165515-azalta.json](./165515-azalta.json) |
 | Azangara | 77375 | [77375-azangara.json](./77375-azangara.json) |
 | Azar | 186767 | [186767-azar.json](./186767-azar.json) |
+| Azaran: The Demon Bottle | 359913 | [359913-azaran-the-demon-bottle.json](./359913-azaran-the-demon-bottle.json) |
 | Azathoth-D: Youtou Saisoku Densetsu | 144954 | [144954-azathoth-d-youtou-saisoku-densetsu.json](./144954-azathoth-d-youtou-saisoku-densetsu.json) |
 | Azato Kawaii Ayase-chan! | 402458 | [402458-azato-kawaii-ayase-chan.json](./402458-azato-kawaii-ayase-chan.json) |
 | Azayaka na Irodori no Naka de Kimi Rashiku: Premium Edition | 212323 | [212323-azayaka-na-irodori-no-naka-de-kimi-rashiku-premium-edition.json](./212323-azayaka-na-irodori-no-naka-de-kimi-rashiku-premium-edition.json) |
