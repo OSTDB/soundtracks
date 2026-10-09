@@ -4918,6 +4918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dawning | 173060 | [173060-the-dawning.json](./173060-the-dawning.json) |
 | The Dawning Clocks of Time | 168332 | [168332-the-dawning-clocks-of-time.json](./168332-the-dawning-clocks-of-time.json) |
 | The Dawning Clocks of Time: Part 2 | 174143 | [174143-the-dawning-clocks-of-time-part-2.json](./174143-the-dawning-clocks-of-time-part-2.json) |
+| The Dawning Letters: Sunrise | 370475 | [370475-the-dawning-letters-sunrise.json](./370475-the-dawning-letters-sunrise.json) |
 | The Dawnless Days | 356246 | [356246-the-dawnless-days.json](./356246-the-dawnless-days.json) |
 | The Day | 242631 | [242631-the-day.json](./242631-the-day.json) |
 | The Day Before | 142901 | [142901-the-day-before.json](./142901-the-day-before.json) |
