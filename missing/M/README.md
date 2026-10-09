@@ -3504,6 +3504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Math Puzzles and Brain Teasers 2018 | 106549 | [106549-math-puzzles-and-brain-teasers-2018.json](./106549-math-puzzles-and-brain-teasers-2018.json) |
 | Math Puzzles Brain Teasers 2018 | 104124 | [104124-math-puzzles-brain-teasers-2018.json](./104124-math-puzzles-brain-teasers-2018.json) |
 | Math Puzzles PRO | 105958 | [105958-math-puzzles-pro.json](./105958-math-puzzles-pro.json) |
+| Math Quest VR : The Search for the Crown of Calculation | 339302 | [339302-math-quest-vr-the-search-for-the-crown-of-calculation.json](./339302-math-quest-vr-the-search-for-the-crown-of-calculation.json) |
 | Math Rescue | 35548 | [35548-math-rescue.json](./35548-math-rescue.json) |
 | Math Rescue Plus | 343385 | [343385-math-rescue-plus.json](./343385-math-rescue-plus.json) |
 | Math Rescue: Rounding and Estimation game | 97139 | [97139-math-rescue-rounding-and-estimation-game.json](./97139-math-rescue-rounding-and-estimation-game.json) |
@@ -3889,6 +3890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mazemerizzz II | 389997 | [389997-mazemerizzz-ii.json](./389997-mazemerizzz-ii.json) |
 | Mazepocalypse | 264580 | [264580-mazepocalypse.json](./264580-mazepocalypse.json) |
 | MazeQuest 2 | 109641 | [109641-mazequest-2.json](./109641-mazequest-2.json) |
+| Mazer | 339313 | [339313-mazer.json](./339313-mazer.json) |
 | Mazer | 4317 | [4317-mazer.json](./4317-mazer.json) |
 | Mazer Laser | 319341 | [319341-mazer-laser.json](./319341-mazer-laser.json) |
 | Mazera | 94679 | [94679-mazera.json](./94679-mazera.json) |
@@ -11463,6 +11465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Multitasking Skills Desired | 404448 | [404448-multitasking-skills-desired.json](./404448-multitasking-skills-desired.json) |
 | MultiTaskMaster | 105205 | [105205-multitaskmaster.json](./105205-multitaskmaster.json) |
 | Multiversal Affairs | 270157 | [270157-multiversal-affairs.json](./270157-multiversal-affairs.json) |
+| Multiverse | 339231 | [339231-multiverse.json](./339231-multiverse.json) |
 | MultiVerse | 192255 | [192255-multiverse.json](./192255-multiverse.json) |
 | Multiverse Go | 253897 | [253897-multiverse-go.json](./253897-multiverse-go.json) |
 | Multiverse Idle | 390632 | [390632-multiverse-idle.json](./390632-multiverse-idle.json) |
