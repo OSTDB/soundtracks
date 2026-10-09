@@ -3184,6 +3184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Revenger | 345993 | [345993-ninja-revenger.json](./345993-ninja-revenger.json) |
 | Ninja Rinseout | 323358 | [323358-ninja-rinseout.json](./323358-ninja-rinseout.json) |
 | Ninja Roquinexu | 118224 | [118224-ninja-roquinexu.json](./118224-ninja-roquinexu.json) |
+| Ninja Royale: Ninja Action RPG | 339877 | [339877-ninja-royale-ninja-action-rpg.json](./339877-ninja-royale-ninja-action-rpg.json) |
 | Ninja Ruins | 344890 | [344890-ninja-ruins.json](./344890-ninja-ruins.json) |
 | Ninja Run | 129083 | [129083-ninja-run.json](./129083-ninja-run.json) |
 | Ninja Run | 210750 | [210750-ninja-run.json](./210750-ninja-run.json) |
