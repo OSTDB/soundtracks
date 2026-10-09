@@ -3317,6 +3317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resident Evil 3: Lenticular Edition | 386267 | [386267-resident-evil-3-lenticular-edition.json](./386267-resident-evil-3-lenticular-edition.json) |
 | Resident Evil 3: Nemesis | 396730 | [396730-resident-evil-3-nemesis.json](./396730-resident-evil-3-nemesis.json) |
 | Resident Evil 3: Nemesis - Seamless HD Project | 322046 | [322046-resident-evil-3-nemesis-seamless-hd-project.json](./322046-resident-evil-3-nemesis-seamless-hd-project.json) |
+| Resident Evil 3: The Lord of the Necropolis | 350982 | [350982-resident-evil-3-the-lord-of-the-necropolis.json](./350982-resident-evil-3-the-lord-of-the-necropolis.json) |
 | Resident Evil 4: A Nightmare of Evil | 351585 | [351585-resident-evil-4-a-nightmare-of-evil.json](./351585-resident-evil-4-a-nightmare-of-evil.json) |
 | Resident Evil 4: Berserker | 356696 | [356696-resident-evil-4-berserker.json](./356696-resident-evil-4-berserker.json) |
 | Resident Evil 4: Collector's Edition | 24211 | [24211-resident-evil-4-collectors-edition.json](./24211-resident-evil-4-collectors-edition.json) |
@@ -3425,6 +3426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resonance of Fate 4k/HD Edition | 109580 | [109580-resonance-of-fate-4k-hd-edition.json](./109580-resonance-of-fate-4k-hd-edition.json) |
 | Resonance of Fate 4K/HD Edition: Collector's Edition | 167150 | [167150-resonance-of-fate-4k-hd-edition-collectors-edition.json](./167150-resonance-of-fate-4k-hd-edition-collectors-edition.json) |
 | Resonance of the Ocean | 207796 | [207796-resonance-of-the-ocean.json](./207796-resonance-of-the-ocean.json) |
+| Resonance Tales: Alone | 350964 | [350964-resonance-tales-alone.json](./350964-resonance-tales-alone.json) |
 | Resonance: The Lost Score | 150064 | [150064-resonance-the-lost-score.json](./150064-resonance-the-lost-score.json) |
 | Resonant Dusk | 395791 | [395791-resonant-dusk.json](./395791-resonant-dusk.json) |
 | Resonant Q | 381189 | [381189-resonant-q.json](./381189-resonant-q.json) |
