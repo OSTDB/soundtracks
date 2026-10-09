@@ -3683,6 +3683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes, Warlords and Ruin | 398533 | [398533-heroes-warlords-and-ruin.json](./398533-heroes-warlords-and-ruin.json) |
 | Heroes: The Official Mobile Game | 264132 | [264132-heroes-the-official-mobile-game.json](./264132-heroes-the-official-mobile-game.json) |
 | Heroes: The Tantalizing Trio | 73457 | [73457-heroes-the-tantalizing-trio.json](./73457-heroes-the-tantalizing-trio.json) |
+| Heroes' Call: A Casual Mmo Guild Sim | 343297 | [343297-heroes-call-a-casual-mmo-guild-sim.json](./343297-heroes-call-a-casual-mmo-guild-sim.json) |
 | HeroField: Game Craft | 368514 | [368514-herofield-game-craft.json](./368514-herofield-game-craft.json) |
 | Herogest | 87801 | [87801-herogest.json](./87801-herogest.json) |
 | Heroglobin: Monster Hospital | 311122 | [311122-heroglobin-monster-hospital.json](./311122-heroglobin-monster-hospital.json) |
@@ -4793,6 +4794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hirogaru Sky! Precure: Hirogaru! Puzzle Collection | 250536 | [250536-hirogaru-sky-precure-hirogaru-puzzle-collection.json](./250536-hirogaru-sky-precure-hirogaru-puzzle-collection.json) |
 | Hiromechia | 363935 | [363935-hiromechia.json](./363935-hiromechia.json) |
 | Hiromichi Oniisan no Oyako Taisou Navi | 220581 | [220581-hiromichi-oniisan-no-oyako-taisou-navi.json](./220581-hiromichi-oniisan-no-oyako-taisou-navi.json) |
+| Hiroshi | 343290 | [343290-hiroshi.json](./343290-hiroshi.json) |
 | Hiryu no Ken Collection | 397224 | [397224-hiryu-no-ken-collection.json](./397224-hiryu-no-ken-collection.json) |
 | Hiryuu no Ken Densetsu GB: Real Version | 351575 | [351575-hiryuu-no-ken-densetsu-gb-real-version.json](./351575-hiryuu-no-ken-densetsu-gb-real-version.json) |
 | Hiryuu no Ken Densetsu GB: SD Version | 351574 | [351574-hiryuu-no-ken-densetsu-gb-sd-version.json](./351574-hiryuu-no-ken-densetsu-gb-sd-version.json) |
@@ -4875,6 +4877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hit Back | 143658 | [143658-hit-back.json](./143658-hit-back.json) |
 | Hit Him | 195254 | [195254-hit-him.json](./195254-hit-him.json) |
 | Hit Hit Alaska | 326607 | [326607-hit-hit-alaska.json](./326607-hit-hit-alaska.json) |
+| Hit Idol | 343213 | [343213-hit-idol.json](./343213-hit-idol.json) |
 | Hit It Back | 368910 | [368910-hit-it-back.json](./368910-hit-it-back.json) |
 | Hit It! | 78918 | [78918-hit-it.json](./78918-hit-it.json) |
 | Hit Marmot | 48897 | [48897-hit-marmot.json](./48897-hit-marmot.json) |
@@ -6148,6 +6151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Host no Abunai Sekai | 264091 | [264091-host-no-abunai-sekai.json](./264091-host-no-abunai-sekai.json) |
 | Host Security Guard | 278641 | [278641-host-security-guard.json](./278641-host-security-guard.json) |
 | Hostage Heart | 417565 | [417565-hostage-heart.json](./417565-hostage-heart.json) |
+| Hostages | 343204 | [343204-hostages.json](./343204-hostages.json) |
 | Hostil | 75816 | [75816-hostil.json](./75816-hostil.json) |
 | Hostile Dreams | 239784 | [239784-hostile-dreams.json](./239784-hostile-dreams.json) |
 | Hostile Mars | 151031 | [151031-hostile-mars.json](./151031-hostile-mars.json) |
@@ -7359,6 +7363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hydropawnics | 371893 | [371893-hydropawnics.json](./371893-hydropawnics.json) |
 | Hydrophobia | 210061 | [210061-hydrophobia.json](./210061-hydrophobia.json) |
 | Hydroplane: Riptide Racers | 278549 | [278549-hydroplane-riptide-racers.json](./278549-hydroplane-riptide-racers.json) |
+| Hydroplant Tycoon | 343289 | [343289-hydroplant-tycoon.json](./343289-hydroplant-tycoon.json) |
 | Hyena Simulator | 86848 | [86848-hyena-simulator.json](./86848-hyena-simulator.json) |
 | Hyena Squad | 175206 | [175206-hyena-squad.json](./175206-hyena-squad.json) |
 | Hyenas | 206103 | [206103-hyenas.json](./206103-hyenas.json) |
