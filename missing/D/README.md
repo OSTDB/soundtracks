@@ -6921,6 +6921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dokapon?! Millennium Quest | 65546 | [65546-dokapon-millennium-quest.json](./65546-dokapon-millennium-quest.json) |
 | Dokee the Dog and the Musical Rain | 70615 | [70615-dokee-the-dog-and-the-musical-rain.json](./70615-dokee-the-dog-and-the-musical-rain.json) |
 | Doki Boki International Hentai Language School | 370255 | [370255-doki-boki-international-hentai-language-school.json](./370255-doki-boki-international-hentai-language-school.json) |
+| Doki Boom Dash | 362736 | [362736-doki-boom-dash.json](./362736-doki-boom-dash.json) |
 | Doki Doki A Slice Of Life | 333928 | [333928-doki-doki-a-slice-of-life.json](./333928-doki-doki-a-slice-of-life.json) |
 | Doki Doki A Summer's Requiem | 361806 | [361806-doki-doki-a-summers-requiem.json](./361806-doki-doki-a-summers-requiem.json) |
 | Doki Doki Ace Attorney | 314043 | [314043-doki-doki-ace-attorney.json](./314043-doki-doki-ace-attorney.json) |
@@ -7973,6 +7974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dot Scape | 379510 | [379510-dot-scape.json](./379510-dot-scape.json) |
 | Dot Tanki | 222940 | [222940-dot-tanki.json](./222940-dot-tanki.json) |
 | Dot to Tot - Connect Alphabets | 88210 | [88210-dot-to-tot-connect-alphabets.json](./88210-dot-to-tot-connect-alphabets.json) |
+| Dot Valley | 362721 | [362721-dot-valley.json](./362721-dot-valley.json) |
 | Dot. | 94201 | [94201-dot.json](./94201-dot.json) |
 | Dota 2: New Frontiers | 246900 | [246900-dota-2-new-frontiers.json](./246900-dota-2-new-frontiers.json) |
 | DotAge | 111045 | [111045-dotage.json](./111045-dotage.json) |
