@@ -3046,6 +3046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gluk the Thunder Warrior | 48565 | [48565-gluk-the-thunder-warrior.json](./48565-gluk-the-thunder-warrior.json) |
 | Gluk'Oza Action | 54053 | [54053-glukoza-action.json](./54053-glukoza-action.json) |
 | Glukhovo | 270184 | [270184-glukhovo.json](./270184-glukhovo.json) |
+| Gluon | 377961 | [377961-gluon.json](./377961-gluon.json) |
 | Glusiverse | 304599 | [304599-glusiverse.json](./304599-glusiverse.json) |
 | Glutto, the Eater of Worlds | 185507 | [185507-glutto-the-eater-of-worlds.json](./185507-glutto-the-eater-of-worlds.json) |
 | Glutton | 154068 | [154068-glutton.json](./154068-glutton.json) |
@@ -4707,6 +4708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grandzenka | 208972 | [208972-grandzenka.json](./208972-grandzenka.json) |
 | Grange Hill | 37299 | [37299-grange-hill.json](./37299-grange-hill.json) |
 | Granhistoria: Genshi Sekaiki | 38223 | [38223-granhistoria-genshi-sekaiki.json](./38223-granhistoria-genshi-sekaiki.json) |
+| Granite Noir | 377994 | [377994-granite-noir.json](./377994-granite-noir.json) |
 | Granny | 232402 | [232402-granny.json](./232402-granny.json) |
 | Granny Escape | 238629 | [238629-granny-escape.json](./238629-granny-escape.json) |
 | Granny in Paradise | 71333 | [71333-granny-in-paradise.json](./71333-granny-in-paradise.json) |
