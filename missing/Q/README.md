@@ -733,6 +733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quiz Thiz United Kingdom: Silver Edition | 229169 | [229169-quiz-thiz-united-kingdom-silver-edition.json](./229169-quiz-thiz-united-kingdom-silver-edition.json) |
 | Quiz Thiz USA: Gold Edition | 227881 | [227881-quiz-thiz-usa-gold-edition.json](./227881-quiz-thiz-usa-gold-edition.json) |
 | Quiz Time | 88558 | [88558-quiz-time.json](./88558-quiz-time.json) |
+| Quiz Tonosama no Yabou 2: Zenkoku-ban | 371135 | [371135-quiz-tonosama-no-yabou-2-zenkoku-ban.json](./371135-quiz-tonosama-no-yabou-2-zenkoku-ban.json) |
 | Quiz VS! | 361230 | [361230-quiz-vs.json](./361230-quiz-vs.json) |
 | Quiz Wiz: Cyber Trivia | 199432 | [199432-quiz-wiz-cyber-trivia.json](./199432-quiz-wiz-cyber-trivia.json) |
 | Quiz: Don’t Lose to a Kid! | 399786 | [399786-quiz-don-t-lose-to-a-kid.json](./399786-quiz-don-t-lose-to-a-kid.json) |
