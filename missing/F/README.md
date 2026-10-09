@@ -2420,6 +2420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feud | 113037 | [113037-feud.json](./113037-feud.json) |
 | Feud | 12094 | [12094-feud.json](./12094-feud.json) |
 | Feudal Alloy | 65820 | [65820-feudal-alloy.json](./65820-feudal-alloy.json) |
+| Feudal Craft | 358256 | [358256-feudal-craft.json](./358256-feudal-craft.json) |
 | Feudal Friends | 239587 | [239587-feudal-friends.json](./239587-feudal-friends.json) |
 | Feudal Wars | 291162 | [291162-feudal-wars.json](./291162-feudal-wars.json) |
 | Feudal Wars | 58897 | [58897-feudal-wars.json](./58897-feudal-wars.json) |
@@ -4753,6 +4754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Float Night | 111521 | [111521-float-night.json](./111521-float-night.json) |
 | Float: Champions | 257948 | [257948-float-champions.json](./257948-float-champions.json) |
 | Floathink | 149936 | [149936-floathink.json](./149936-floathink.json) |
+| Floatineer | 358242 | [358242-floatineer.json](./358242-floatineer.json) |
 | Floating Block Forever | 393095 | [393095-floating-block-forever.json](./393095-floating-block-forever.json) |
 | Floating Cloud God Saves the Pilgrims in HD! | 84154 | [84154-floating-cloud-god-saves-the-pilgrims-in-hd.json](./84154-floating-cloud-god-saves-the-pilgrims-in-hd.json) |
 | Floating Cloud God: Anniversary Edition | 225881 | [225881-floating-cloud-god-anniversary-edition.json](./225881-floating-cloud-god-anniversary-edition.json) |
@@ -5197,6 +5199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FNaF World Redacted | 362810 | [362810-fnaf-world-redacted.json](./362810-fnaf-world-redacted.json) |
 | FNAF: Killer in Purple 2 | 383052 | [383052-fnaf-killer-in-purple-2.json](./383052-fnaf-killer-in-purple-2.json) |
 | FNaF: Wii U Edition | 357443 | [357443-fnaf-wii-u-edition.json](./357443-fnaf-wii-u-edition.json) |
+| FNAFMIN | 358249 | [358249-fnafmin.json](./358249-fnafmin.json) |
 | FNF Weekly | 314498 | [314498-fnf-weekly.json](./314498-fnf-weekly.json) |
 | FNF x Ace Attorney: Turnabout | 314044 | [314044-fnf-x-ace-attorney-turnabout.json](./314044-fnf-x-ace-attorney-turnabout.json) |
 | FNF: Executable Mania | 314507 | [314507-fnf-executable-mania.json](./314507-fnf-executable-mania.json) |
@@ -5419,6 +5422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football League 2023 | 223933 | [223933-football-league-2023.json](./223933-football-league-2023.json) |
 | Football Legacy | 394539 | [394539-football-legacy.json](./394539-football-legacy.json) |
 | Football Legend | 59080 | [59080-football-legend.json](./59080-football-legend.json) |
+| Football Legends 2025: Complete Edition | 404277 | [404277-football-legends-2025-complete-edition.json](./404277-football-legends-2025-complete-edition.json) |
 | Football Legends 2025: Diamond Edition | 399818 | [399818-football-legends-2025-diamond-edition.json](./399818-football-legends-2025-diamond-edition.json) |
 | Football Legends 2025: Gold Edition | 396917 | [396917-football-legends-2025-gold-edition.json](./396917-football-legends-2025-gold-edition.json) |
 | Football Life 2023 | 225767 | [225767-football-life-2023.json](./225767-football-life-2023.json) |
@@ -8284,6 +8288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Future War: Reborn | 78061 | [78061-future-war-reborn.json](./78061-future-war-reborn.json) |
 | Future Wars | 2478 | [2478-future-wars.json](./2478-future-wars.json) |
 | Future Zero | 378172 | [378172-future-zero.json](./378172-future-zero.json) |
+| Future? No Thanks! | 358273 | [358273-future-no-thanks.json](./358273-future-no-thanks.json) |
 | Futurejam | 89661 | [89661-futurejam.json](./89661-futurejam.json) |
 | FutureKreate | 170435 | [170435-futurekreate.json](./170435-futurekreate.json) |
 | FutureMage: Spellmaker | 102582 | [102582-futuremage-spellmaker.json](./102582-futuremage-spellmaker.json) |
