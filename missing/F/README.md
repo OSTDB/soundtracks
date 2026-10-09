@@ -323,6 +323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fae Farm: Skies of Azoria | 331464 | [331464-fae-farm-skies-of-azoria.json](./331464-fae-farm-skies-of-azoria.json) |
 | Fae Line | 297072 | [297072-fae-line.json](./297072-fae-line.json) |
 | Fae Populi | 188939 | [188939-fae-populi.json](./188939-fae-populi.json) |
+| Faehnor Online | 386499 | [386499-faehnor-online.json](./386499-faehnor-online.json) |
 | Faeria: Chronicles of Gagana | 117519 | [117519-faeria-chronicles-of-gagana.json](./117519-faeria-chronicles-of-gagana.json) |
 | Faeria: Game + All DLC Bundle | 238217 | [238217-faeria-game-all-dlc-bundle.json](./238217-faeria-game-all-dlc-bundle.json) |
 | Faeria: Premium Edition | 238045 | [238045-faeria-premium-edition.json](./238045-faeria-premium-edition.json) |
@@ -7191,6 +7192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | From Paris with Love 2: Passion with view | 196113 | [196113-from-paris-with-love-2-passion-with-view.json](./196113-from-paris-with-love-2-passion-with-view.json) |
 | From Paris with Love: Passion with View | 169255 | [169255-from-paris-with-love-passion-with-view.json](./169255-from-paris-with-love-passion-with-view.json) |
 | From Ruins | 381177 | [381177-from-ruins.json](./381177-from-ruins.json) |
+| From Rust To Ash | 386500 | [386500-from-rust-to-ash.json](./386500-from-rust-to-ash.json) |
 | From Salt to Sugar | 212803 | [212803-from-salt-to-sugar.json](./212803-from-salt-to-sugar.json) |
 | From Scratch | 287199 | [287199-from-scratch.json](./287199-from-scratch.json) |
 | From Shadows | 29680 | [29680-from-shadows.json](./29680-from-shadows.json) |
