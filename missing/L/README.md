@@ -119,6 +119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | La Voz Vol. 3 | 268437 | [268437-la-voz-vol-3.json](./268437-la-voz-vol-3.json) |
 | La Voz: Quiero tu Voz | 268439 | [268439-la-voz-quiero-tu-voz.json](./268439-la-voz-quiero-tu-voz.json) |
 | La Vuelta al Mundo con Vascolet | 347111 | [347111-la-vuelta-al-mundo-con-vascolet.json](./347111-la-vuelta-al-mundo-con-vascolet.json) |
+| La Yaga | 383693 | [383693-la-yaga.json](./383693-la-yaga.json) |
 | La-Mulana | 7895 | [7895-la-mulana.json](./7895-la-mulana.json) |
 | La-Mulana | 7936 | [7936-la-mulana.json](./7936-la-mulana.json) |
 | La-Mulana & La-Mulana 2 | 130905 | [130905-la-mulana-and-la-mulana-2.json](./130905-la-mulana-and-la-mulana-2.json) |
@@ -5349,6 +5350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Low Battery | 354408 | [354408-low-battery.json](./354408-low-battery.json) |
 | Low Desert Punk | 65810 | [65810-low-desert-punk.json](./65810-low-desert-punk.json) |
 | Low Earth Orbit Adventures | 391168 | [391168-low-earth-orbit-adventures.json](./391168-low-earth-orbit-adventures.json) |
+| Low Effort Romance | 383733 | [383733-low-effort-romance.json](./383733-low-effort-romance.json) |
 | Low Fast | 219148 | [219148-low-fast.json](./219148-low-fast.json) |
 | Low Frequency | 304111 | [304111-low-frequency.json](./304111-low-frequency.json) |
 | Low G Man: The Low Gravity Man | 48028 | [48028-low-g-man-the-low-gravity-man.json](./48028-low-g-man-the-low-gravity-man.json) |
