@@ -1317,6 +1317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tanks for the Memories | 65264 | [65264-tanks-for-the-memories.json](./65264-tanks-for-the-memories.json) |
 | Tanks Logic Puzzle | 339418 | [339418-tanks-logic-puzzle.json](./339418-tanks-logic-puzzle.json) |
 | Tanks Meet Zombies | 81672 | [81672-tanks-meet-zombies.json](./81672-tanks-meet-zombies.json) |
+| Tanks Online | 384275 | [384275-tanks-online.json](./384275-tanks-online.json) |
 | Tanks Racing Sim | 339417 | [339417-tanks-racing-sim.json](./339417-tanks-racing-sim.json) |
 | Tanks Rebirth | 357342 | [357342-tanks-rebirth.json](./357342-tanks-rebirth.json) |
 | Tanks vs Tanks: PvP | 214044 | [214044-tanks-vs-tanks-pvp.json](./214044-tanks-vs-tanks-pvp.json) |
@@ -1677,6 +1678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tatakae! Draft Redder | 385811 | [385811-tatakae-draft-redder.json](./385811-tatakae-draft-redder.json) |
 | Tatakae! KitadeMan | 173078 | [173078-tatakae-kitademan.json](./173078-tatakae-kitademan.json) |
 | Tatami Crime Scenes What’s Wrong? | 420650 | [420650-tatami-crime-scenes-what-s-wrong.json](./420650-tatami-crime-scenes-what-s-wrong.json) |
+| Tatar Altan vs. Shaitan | 384282 | [384282-tatar-altan-vs-shaitan.json](./384282-tatar-altan-vs-shaitan.json) |
 | Tatara Kogasa's Surprise Operation | 273948 | [273948-tatara-kogasas-surprise-operation.json](./273948-tatara-kogasas-surprise-operation.json) |
 | Tatari: Curse Road | 293382 | [293382-tatari-curse-road.json](./293382-tatari-curse-road.json) |
 | Tatari: The Arrival | 267101 | [267101-tatari-the-arrival.json](./267101-tatari-the-arrival.json) |
@@ -12236,8 +12238,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Throne of Fate | 159132 | [159132-throne-of-fate.json](./159132-throne-of-fate.json) |
 | Throne of Fate: Hell Demon | 171905 | [171905-throne-of-fate-hell-demon.json](./171905-throne-of-fate-hell-demon.json) |
 | Throne of Fate: Tiger Roar | 171904 | [171904-throne-of-fate-tiger-roar.json](./171904-throne-of-fate-tiger-roar.json) |
+| Throne of Glass | 384268 | [384268-throne-of-glass.json](./384268-throne-of-glass.json) |
 | Throne of Gods | 124692 | [124692-throne-of-gods.json](./124692-throne-of-gods.json) |
 | Throne of Magic | 108502 | [108502-throne-of-magic.json](./108502-throne-of-magic.json) |
+| Throne of Shadows | 384271 | [384271-throne-of-shadows.json](./384271-throne-of-shadows.json) |
 | Throne of the Dead VR: Halloween | 161726 | [161726-throne-of-the-dead-vr-halloween.json](./161726-throne-of-the-dead-vr-halloween.json) |
 | Throne of Valoria | 323194 | [323194-throne-of-valoria.json](./323194-throne-of-valoria.json) |
 | Throne Quest | 112953 | [112953-throne-quest.json](./112953-throne-quest.json) |
@@ -16340,6 +16344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Town & Country Surf Designs II: Thrilla's Surfari | 48177 | [48177-town-and-country-surf-designs-ii-thrillas-surfari.json](./48177-town-and-country-surf-designs-ii-thrillas-surfari.json) |
 | Town Doubt | 55470 | [55470-town-doubt.json](./55470-town-doubt.json) |
 | Town Hall Toaster | 71463 | [71463-town-hall-toaster.json](./71463-town-hall-toaster.json) |
+| Town Market Simulator 2025 | 384276 | [384276-town-market-simulator-2025.json](./384276-town-market-simulator-2025.json) |
 | Town of Destruction | 192184 | [192184-town-of-destruction.json](./192184-town-of-destruction.json) |
 | Town of Dusk | 251810 | [251810-town-of-dusk.json](./251810-town-of-dusk.json) |
 | Town of Host | 224196 | [224196-town-of-host.json](./224196-town-of-host.json) |
