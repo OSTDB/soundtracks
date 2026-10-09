@@ -2050,6 +2050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fear & Respect | 70423 | [70423-fear-and-respect.json](./70423-fear-and-respect.json) |
 | Fear Academy | 345079 | [345079-fear-academy.json](./345079-fear-academy.json) |
 | Fear Calibration | 303072 | [303072-fear-calibration.json](./303072-fear-calibration.json) |
+| Fear Dog The Bolota Escape | 379159 | [379159-fear-dog-the-bolota-escape.json](./379159-fear-dog-the-bolota-escape.json) |
 | Fear Effect | 320361 | [320361-fear-effect.json](./320361-fear-effect.json) |
 | Fear Effect 2: Retro Helix | 8601 | [8601-fear-effect-2-retro-helix.json](./8601-fear-effect-2-retro-helix.json) |
 | Fear Effect: Reinvented | 55026 | [55026-fear-effect-reinvented.json](./55026-fear-effect-reinvented.json) |
@@ -5052,6 +5053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flying Aces: Legend of the Red Baron | 394997 | [394997-flying-aces-legend-of-the-red-baron.json](./394997-flying-aces-legend-of-the-red-baron.json) |
 | Flying Angel | 151002 | [151002-flying-angel.json](./151002-flying-angel.json) |
 | Flying Arrow! | 96920 | [96920-flying-arrow.json](./96920-flying-arrow.json) |
+| Flying Candy | 379123 | [379123-flying-candy.json](./379123-flying-candy.json) |
 | Flying Car Robot Flight Drive Simulator Game 2017 | 86854 | [86854-flying-car-robot-flight-drive-simulator-game-2017.json](./86854-flying-car-robot-flight-drive-simulator-game-2017.json) |
 | Flying Cat | 282147 | [282147-flying-cat.json](./282147-flying-cat.json) |
 | Flying Corps: Gold | 209461 | [209461-flying-corps-gold.json](./209461-flying-corps-gold.json) |
@@ -7044,6 +7046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fritz: Your Chess Coach | 262648 | [262648-fritz-your-chess-coach.json](./262648-fritz-your-chess-coach.json) |
 | Frizzle | 319194 | [319194-frizzle.json](./319194-frizzle.json) |
 | Frizzy | 34764 | [34764-frizzy.json](./34764-frizzy.json) |
+| Frobbutt 3D | 379139 | [379139-frobbutt-3d.json](./379139-frobbutt-3d.json) |
 | Frobozz Magic Support | 217781 | [217781-frobozz-magic-support.json](./217781-frobozz-magic-support.json) |
 | Frocket | 63807 | [63807-frocket.json](./63807-frocket.json) |
 | Frog | 100997 | [100997-frog.json](./100997-frog.json) |
@@ -7422,6 +7425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frozen Mahjong | 71255 | [71255-frozen-mahjong.json](./71255-frozen-mahjong.json) |
 | Frozen Memories | 129226 | [129226-frozen-memories.json](./129226-frozen-memories.json) |
 | Frozen Mystery | 112847 | [112847-frozen-mystery.json](./112847-frozen-mystery.json) |
+| Frozen Rune | 379163 | [379163-frozen-rune.json](./379163-frozen-rune.json) |
 | Frozen Shelter | 247623 | [247623-frozen-shelter.json](./247623-frozen-shelter.json) |
 | Frozen Ship | 330831 | [330831-frozen-ship.json](./330831-frozen-ship.json) |
 | Frozen Soul | 103649 | [103649-frozen-soul.json](./103649-frozen-soul.json) |
