@@ -822,6 +822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Traps | 144135 | [144135-magic-traps.json](./144135-magic-traps.json) |
 | Magic Trolls | 245456 | [245456-magic-trolls.json](./245456-magic-trolls.json) |
 | Magic Twins | 132244 | [132244-magic-twins.json](./132244-magic-twins.json) |
+| Magic Unfolding | 385356 | [385356-magic-unfolding.json](./385356-magic-unfolding.json) |
 | Magic Venue | 303647 | [303647-magic-venue.json](./303647-magic-venue.json) |
 | Magic vs. Metal | 196572 | [196572-magic-vs-metal.json](./196572-magic-vs-metal.json) |
 | Magic vs. Mind | 311601 | [311601-magic-vs-mind.json](./311601-magic-vs-mind.json) |
@@ -5128,6 +5129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memoria | 132732 | [132732-memoria.json](./132732-memoria.json) |
 | Memoria | 191172 | [191172-memoria.json](./191172-memoria.json) |
 | Memoria | 196556 | [196556-memoria.json](./196556-memoria.json) |
+| Memoria | 385382 | [385382-memoria.json](./385382-memoria.json) |
 | Memória | 290085 | [290085-memoria.json](./290085-memoria.json) |
 | Memória 3D | 290076 | [290076-memoria-3d.json](./290076-memoria-3d.json) |
 | Memoria Project | 193969 | [193969-memoria-project.json](./193969-memoria-project.json) |
@@ -8764,6 +8766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Molly and the Gunmids | 185687 | [185687-molly-and-the-gunmids.json](./185687-molly-and-the-gunmids.json) |
 | Molly n' D.O.G.'s Records | 376609 | [376609-molly-n-d-o-g-s-records.json](./376609-molly-n-d-o-g-s-records.json) |
 | Molly: fear of clowns | 126613 | [126613-molly-fear-of-clowns.json](./126613-molly-fear-of-clowns.json) |
+| Molly: The Near Mint Hero | 385355 | [385355-molly-the-near-mint-hero.json](./385355-molly-the-near-mint-hero.json) |
 | Molnspelet | 19813 | [19813-molnspelet.json](./19813-molnspelet.json) |
 | Molo's Revenge | 323255 | [323255-molos-revenge.json](./323255-molos-revenge.json) |
 | Moloch Kombinat | 410886 | [410886-moloch-kombinat.json](./410886-moloch-kombinat.json) |
@@ -8778,6 +8781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mom Simulator 2023 | 277841 | [277841-mom-simulator-2023.json](./277841-mom-simulator-2023.json) |
 | Moment of Moonset | 284599 | [284599-moment-of-moonset.json](./284599-moment-of-moonset.json) |
 | Momento | 279123 | [279123-momento.json](./279123-momento.json) |
+| Momento Isles | 385393 | [385393-momento-isles.json](./385393-momento-isles.json) |
 | Momento Pole | 373767 | [373767-momento-pole.json](./373767-momento-pole.json) |
 | Momento Temporis: Light from the Deep | 32230 | [32230-momento-temporis-light-from-the-deep.json](./32230-momento-temporis-light-from-the-deep.json) |
 | Momentous: Monumentum | 298822 | [298822-momentous-monumentum.json](./298822-momentous-monumentum.json) |
