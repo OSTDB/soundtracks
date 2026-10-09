@@ -288,6 +288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fade Into Darkness | 63841 | [63841-fade-into-darkness.json](./63841-fade-into-darkness.json) |
 | Fade Master 3D: Barber Shop | 224045 | [224045-fade-master-3d-barber-shop.json](./224045-fade-master-3d-barber-shop.json) |
 | Fade Out | 118292 | [118292-fade-out.json](./118292-fade-out.json) |
+| Fade Out | 380755 | [380755-fade-out.json](./380755-fade-out.json) |
 | Fade to Black | 12427 | [12427-fade-to-black.json](./12427-fade-to-black.json) |
 | Fade to Silence | 76887 | [76887-fade-to-silence.json](./76887-fade-to-silence.json) |
 | Fade: A Ghost Story | 307742 | [307742-fade-a-ghost-story.json](./307742-fade-a-ghost-story.json) |
@@ -307,6 +308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fading Earth | 260704 | [260704-fading-earth.json](./260704-fading-earth.json) |
 | Fading Echo | 347887 | [347887-fading-echo.json](./347887-fading-echo.json) |
 | Fading Echoes | 291213 | [291213-fading-echoes.json](./291213-fading-echoes.json) |
+| Fading Echoes | 380758 | [380758-fading-echoes.json](./380758-fading-echoes.json) |
 | Fading Existence | 179029 | [179029-fading-existence.json](./179029-fading-existence.json) |
 | Fading Faith | 312218 | [312218-fading-faith.json](./312218-fading-faith.json) |
 | Fading Haven | 402260 | [402260-fading-haven.json](./402260-fading-haven.json) |
@@ -356,6 +358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Faily Tumbler | 90351 | [90351-faily-tumbler.json](./90351-faily-tumbler.json) |
 | Fair | 57508 | [57508-fair.json](./57508-fair.json) |
 | Fair And Balanced | 411716 | [411716-fair-and-balanced.json](./411716-fair-and-balanced.json) |
+| Fair and Square | 380757 | [380757-fair-and-square.json](./380757-fair-and-square.json) |
 | Fair Deal: Las Vegas | 110129 | [110129-fair-deal-las-vegas.json](./110129-fair-deal-las-vegas.json) |
 | Fair Food Maker Game | 97153 | [97153-fair-food-maker-game.json](./97153-fair-food-maker-game.json) |
 | Fair Strike | 35675 | [35675-fair-strike.json](./35675-fair-strike.json) |
@@ -530,6 +533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Falinere Fantasy | 215887 | [215887-falinere-fantasy.json](./215887-falinere-fantasy.json) |
 | Fall | 317392 | [317392-fall.json](./317392-fall.json) |
 | Fall | 34073 | [34073-fall.json](./34073-fall.json) |
+| Fall | 380756 | [380756-fall.json](./380756-fall.json) |
 | Fall Asleep | 331465 | [331465-fall-asleep.json](./331465-fall-asleep.json) |
 | Fall Asleep | 381010 | [381010-fall-asleep.json](./381010-fall-asleep.json) |
 | Fall Balance Ball | 144212 | [144212-fall-balance-ball.json](./144212-fall-balance-ball.json) |
@@ -3370,6 +3374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fingerspelling Unleashed: BANZSL Edition | 238726 | [238726-fingerspelling-unleashed-banzsl-edition.json](./238726-fingerspelling-unleashed-banzsl-edition.json) |
 | Fingertip Balance | 254440 | [254440-fingertip-balance.json](./254440-fingertip-balance.json) |
 | Fingerzilla | 343470 | [343470-fingerzilla.json](./343470-fingerzilla.json) |
+| Fingie Bandits | 380765 | [380765-fingie-bandits.json](./380765-fingie-bandits.json) |
 | Fingore Fighter | 237439 | [237439-fingore-fighter.json](./237439-fingore-fighter.json) |
 | Fingun Forever! | 320298 | [320298-fingun-forever.json](./320298-fingun-forever.json) |
 | Finis | 213013 | [213013-finis.json](./213013-finis.json) |
@@ -3493,6 +3498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Hoops | 94413 | [94413-fire-hoops.json](./94413-fire-hoops.json) |
 | Fire Hose | 212296 | [212296-fire-hose.json](./212296-fire-hose.json) |
 | Fire in the Dark | 346696 | [346696-fire-in-the-dark.json](./346696-fire-in-the-dark.json) |
+| Fire in the Dark | 380759 | [380759-fire-in-the-dark.json](./380759-fire-in-the-dark.json) |
 | Fire in the Goal | 31170 | [31170-fire-in-the-goal.json](./31170-fire-in-the-goal.json) |
 | Fire in the Hole | 381019 | [381019-fire-in-the-hole.json](./381019-fire-in-the-hole.json) |
 | Fire Jump | 390807 | [390807-fire-jump.json](./390807-fire-jump.json) |
@@ -4361,6 +4367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flashout III | 199568 | [199568-flashout-iii.json](./199568-flashout-iii.json) |
 | Flashy Maze | 130742 | [130742-flashy-maze.json](./130742-flashy-maze.json) |
 | Flask | 366367 | [366367-flask.json](./366367-flask.json) |
+| Flask & Barrel | 380763 | [380763-flask-and-barrel.json](./380763-flask-and-barrel.json) |
 | Flaskoman | 153852 | [153852-flaskoman.json](./153852-flaskoman.json) |
 | Flat & Fluffy | 297075 | [297075-flat-and-fluffy.json](./297075-flat-and-fluffy.json) |
 | Flat Affect | 233563 | [233563-flat-affect.json](./233563-flat-affect.json) |
@@ -5742,6 +5749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forgiveness | 291580 | [291580-forgiveness.json](./291580-forgiveness.json) |
 | Forgiveness RPG: The First Chapter - Part Three | 297539 | [297539-forgiveness-rpg-the-first-chapter-part-three.json](./297539-forgiveness-rpg-the-first-chapter-part-three.json) |
 | Forgiveness RPG: The First Chapter - Part Two | 294688 | [294688-forgiveness-rpg-the-first-chapter-part-two.json](./294688-forgiveness-rpg-the-first-chapter-part-two.json) |
+| Forgot | 380800 | [380800-forgot.json](./380800-forgot.json) |
 | Forgotten | 26702 | [26702-forgotten.json](./26702-forgotten.json) |
 | Forgotten 13 | 282838 | [282838-forgotten-13.json](./282838-forgotten-13.json) |
 | Forgotten 23 | 304661 | [304661-forgotten-23.json](./304661-forgotten-23.json) |
