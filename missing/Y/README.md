@@ -138,6 +138,21 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yan's World | 322103 | [322103-yans-world.json](./322103-yans-world.json) |
 | Yanchat | 333080 | [333080-yanchat.json](./333080-yanchat.json) |
 | Yandere Escape | 129125 | [129125-yandere-escape.json](./129125-yandere-escape.json) |
+| Yandere Goth BDSM | 372256 | [372256-yandere-goth-bdsm.json](./372256-yandere-goth-bdsm.json) |
+| Yandere Goth BDSM 10 | 372263 | [372263-yandere-goth-bdsm-10.json](./372263-yandere-goth-bdsm-10.json) |
+| Yandere Goth BDSM 11 | 372264 | [372264-yandere-goth-bdsm-11.json](./372264-yandere-goth-bdsm-11.json) |
+| Yandere Goth BDSM 12 | 372266 | [372266-yandere-goth-bdsm-12.json](./372266-yandere-goth-bdsm-12.json) |
+| Yandere Goth BDSM 13 | 372267 | [372267-yandere-goth-bdsm-13.json](./372267-yandere-goth-bdsm-13.json) |
+| Yandere Goth BDSM 14 | 372268 | [372268-yandere-goth-bdsm-14.json](./372268-yandere-goth-bdsm-14.json) |
+| Yandere Goth BDSM 15 | 372269 | [372269-yandere-goth-bdsm-15.json](./372269-yandere-goth-bdsm-15.json) |
+| Yandere Goth BDSM 16 | 372255 | [372255-yandere-goth-bdsm-16.json](./372255-yandere-goth-bdsm-16.json) |
+| Yandere Goth BDSM 2 | 372258 | [372258-yandere-goth-bdsm-2.json](./372258-yandere-goth-bdsm-2.json) |
+| Yandere Goth BDSM 3 | 372265 | [372265-yandere-goth-bdsm-3.json](./372265-yandere-goth-bdsm-3.json) |
+| Yandere Goth BDSM 4 | 372257 | [372257-yandere-goth-bdsm-4.json](./372257-yandere-goth-bdsm-4.json) |
+| Yandere Goth BDSM 5 | 372259 | [372259-yandere-goth-bdsm-5.json](./372259-yandere-goth-bdsm-5.json) |
+| Yandere Goth BDSM 6 | 372260 | [372260-yandere-goth-bdsm-6.json](./372260-yandere-goth-bdsm-6.json) |
+| Yandere Goth BDSM 8 | 372261 | [372261-yandere-goth-bdsm-8.json](./372261-yandere-goth-bdsm-8.json) |
+| Yandere Goth BDSM 9 | 372262 | [372262-yandere-goth-bdsm-9.json](./372262-yandere-goth-bdsm-9.json) |
 | Yandere Goth Boss: Valentine's Day | 338362 | [338362-yandere-goth-boss-valentines-day.json](./338362-yandere-goth-boss-valentines-day.json) |
 | Yandere Lover | 82076 | [82076-yandere-lover.json](./82076-yandere-lover.json) |
 | Yandere na Onee-chan ni Aishitsukusareru Kankin Seikatsu | 97470 | [97470-yandere-na-onee-chan-ni-aishitsukusareru-kankin-seikatsu.json](./97470-yandere-na-onee-chan-ni-aishitsukusareru-kankin-seikatsu.json) |
