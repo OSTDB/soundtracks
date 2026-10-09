@@ -4576,6 +4576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Numenclature | 357249 | [357249-numenclature.json](./357249-numenclature.json) |
 | Numentale | 182889 | [182889-numentale.json](./182889-numentale.json) |
 | Numeral Lord | 221426 | [221426-numeral-lord.json](./221426-numeral-lord.json) |
+| Numeral Strike | 361628 | [361628-numeral-strike.json](./361628-numeral-strike.json) |
 | Numerix Math Game | 56760 | [56760-numerix-math-game.json](./56760-numerix-math-game.json) |
 | Numerology of Artifacts | 263143 | [263143-numerology-of-artifacts.json](./263143-numerology-of-artifacts.json) |
 | Numerous Ninjas | 409658 | [409658-numerous-ninjas.json](./409658-numerous-ninjas.json) |
