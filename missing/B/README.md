@@ -1814,6 +1814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bash Arena | 233450 | [233450-bash-arena.json](./233450-bash-arena.json) |
 | Bash It! | 252150 | [252150-bash-it.json](./252150-bash-it.json) |
 | Bash the Bear | 114191 | [114191-bash-the-bear.json](./114191-bash-the-bear.json) |
+| Bash The Party | 381960 | [381960-bash-the-party.json](./381960-bash-the-party.json) |
 | Bashed.os | 115438 | [115438-bashed-os.json](./115438-bashed-os.json) |
 | Bashers | 387606 | [387606-bashers.json](./387606-bashers.json) |
 | Bashi Blocks | 42830 | [42830-bashi-blocks.json](./42830-bashi-blocks.json) |
@@ -8125,6 +8126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bounty Hunting Time | 255029 | [255029-bounty-hunting-time.json](./255029-bounty-hunting-time.json) |
 | Bounty of One: Panic in the Mines | 321957 | [321957-bounty-of-one-panic-in-the-mines.json](./321957-bounty-of-one-panic-in-the-mines.json) |
 | Bounty Pro Pulling | 410451 | [410451-bounty-pro-pulling.json](./410451-bounty-pro-pulling.json) |
+| Bounty Sisters | 381917 | [381917-bounty-sisters.json](./381917-bounty-sisters.json) |
 | Bounty Star | 210624 | [210624-bounty-star.json](./210624-bounty-star.json) |
 | Bounty Sword | 38351 | [38351-bounty-sword.json](./38351-bounty-sword.json) |
 | Bounty Sword First | 57059 | [57059-bounty-sword-first.json](./57059-bounty-sword-first.json) |
@@ -9108,6 +9110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bright Bird | 139208 | [139208-bright-bird.json](./139208-bright-bird.json) |
 | Bright Bob | 83523 | [83523-bright-bob.json](./83523-bright-bob.json) |
 | Bright Days in Quarantine | 158517 | [158517-bright-days-in-quarantine.json](./158517-bright-days-in-quarantine.json) |
+| Bright Garden | 381957 | [381957-bright-garden.json](./381957-bright-garden.json) |
 | Bright Girl | 155017 | [155017-bright-girl.json](./155017-bright-girl.json) |
 | Bright Lancer | 141881 | [141881-bright-lancer.json](./141881-bright-lancer.json) |
 | Bright Memory Collection | 193752 | [193752-bright-memory-collection.json](./193752-bright-memory-collection.json) |
