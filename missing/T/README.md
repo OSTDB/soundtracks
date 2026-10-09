@@ -1968,6 +1968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tearscape | 318752 | [318752-tearscape.json](./318752-tearscape.json) |
 | Tearstone: Thieves of the Heart | 195699 | [195699-tearstone-thieves-of-the-heart.json](./195699-tearstone-thieves-of-the-heart.json) |
 | Tearstone: Thieves of the Heart - Collector's Edition | 322791 | [322791-tearstone-thieves-of-the-heart-collectors-edition.json](./322791-tearstone-thieves-of-the-heart-collectors-edition.json) |
+| Tease and Please: Charlotte Edition | 367297 | [367297-tease-and-please-charlotte-edition.json](./367297-tease-and-please-charlotte-edition.json) |
 | Teasing Master Takagi-san VR: 1st Semester | 160134 | [160134-teasing-master-takagi-san-vr-1st-semester.json](./160134-teasing-master-takagi-san-vr-1st-semester.json) |
 | Teatime with a Vampire | 301375 | [301375-teatime-with-a-vampire.json](./301375-teatime-with-a-vampire.json) |
 | Teazle 2 | 206609 | [206609-teazle-2.json](./206609-teazle-2.json) |
@@ -5518,6 +5519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Experience | 13651 | [13651-the-experience.json](./13651-the-experience.json) |
 | The Experiment | 255699 | [255699-the-experiment.json](./255699-the-experiment.json) |
 | The Experiment | 255864 | [255864-the-experiment.json](./255864-the-experiment.json) |
+| The Experiment | 367302 | [367302-the-experiment.json](./367302-the-experiment.json) |
 | The Experiment: Escape Room | 111875 | [111875-the-experiment-escape-room.json](./111875-the-experiment-escape-room.json) |
 | The Experimental Turnabout | 308421 | [308421-the-experimental-turnabout.json](./308421-the-experimental-turnabout.json) |
 | The Explorator | 211172 | [211172-the-explorator.json](./211172-the-explorator.json) |
@@ -17208,6 +17210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Train Train | 158548 | [158548-train-train-train.json](./158548-train-train-train.json) |
 | Train Tycoon | 152866 | [152866-train-tycoon.json](./152866-train-tycoon.json) |
 | Train Valley 2: Editor's Bulletin | 243140 | [243140-train-valley-2-editors-bulletin.json](./243140-train-valley-2-editors-bulletin.json) |
+| Train Valley 2: Japanese Trails | 367283 | [367283-train-valley-2-japanese-trails.json](./367283-train-valley-2-japanese-trails.json) |
 | Train Valley 2: Workshop Gems - Ruby | 219540 | [219540-train-valley-2-workshop-gems-ruby.json](./219540-train-valley-2-workshop-gems-ruby.json) |
 | Train Valley Collection | 270317 | [270317-train-valley-collection.json](./270317-train-valley-collection.json) |
 | Train Valley Collection: Deluxe Edition | 270318 | [270318-train-valley-collection-deluxe-edition.json](./270318-train-valley-collection-deluxe-edition.json) |
