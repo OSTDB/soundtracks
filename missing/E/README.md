@@ -15,6 +15,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | E-gon Adventures | 340538 | [340538-e-gon-adventures.json](./340538-e-gon-adventures.json) |
 | E-Motion | 13639 | [13639-e-motion.json](./13639-e-motion.json) |
 | E-On | 211701 | [211701-e-on.json](./211701-e-on.json) |
+| E-Police | 341531 | [341531-e-police.json](./341531-e-police.json) |
 | E-Reader 5-Card Sample Pack | 355538 | [355538-e-reader-5-card-sample-pack.json](./355538-e-reader-5-card-sample-pack.json) |
 | E-Shop Tycoon | 293624 | [293624-e-shop-tycoon.json](./293624-e-shop-tycoon.json) |
 | E-Tech Simulator | 308960 | [308960-e-tech-simulator.json](./308960-e-tech-simulator.json) |
@@ -1524,6 +1525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elle | 171973 | [171973-elle.json](./171973-elle.json) |
 | Ellen and the Degenerates RPG | 114542 | [114542-ellen-and-the-degenerates-rpg.json](./114542-ellen-and-the-degenerates-rpg.json) |
 | Ellentis | 370178 | [370178-ellentis.json](./370178-ellentis.json) |
+| Elleria: Book 1 | 341539 | [341539-elleria-book-1.json](./341539-elleria-book-1.json) |
 | Ellie | 113681 | [113681-ellie.json](./113681-ellie.json) |
 | Ellie & Max | 175426 | [175426-ellie-and-max.json](./175426-ellie-and-max.json) |
 | Ellie's Farm 2: African Adventures - Collector's Edition | 356106 | [356106-ellies-farm-2-african-adventures-collectors-edition.json](./356106-ellies-farm-2-african-adventures-collectors-edition.json) |
