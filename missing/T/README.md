@@ -4005,6 +4005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bleeding Tower Of Pisa | 272924 | [272924-the-bleeding-tower-of-pisa.json](./272924-the-bleeding-tower-of-pisa.json) |
 | The Blight | 204930 | [204930-the-blight.json](./204930-the-blight.json) |
 | The Blight RPG | 112127 | [112127-the-blight-rpg.json](./112127-the-blight-rpg.json) |
+| The Blighted Core | 385945 | [385945-the-blighted-core.json](./385945-the-blighted-core.json) |
 | The Blind Griffin | 57899 | [57899-the-blind-griffin.json](./57899-the-blind-griffin.json) |
 | The Blind of the New World | 150049 | [150049-the-blind-of-the-new-world.json](./150049-the-blind-of-the-new-world.json) |
 | The Blob | 94341 | [94341-the-blob.json](./94341-the-blob.json) |
@@ -9722,6 +9723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Show Must Go On | 179583 | [179583-the-show-must-go-on.json](./179583-the-show-must-go-on.json) |
 | The Showdown Effect | 9070 | [9070-the-showdown-effect.json](./9070-the-showdown-effect.json) |
 | The Showdown Effect: Deluxe Edition | 53779 | [53779-the-showdown-effect-deluxe-edition.json](./53779-the-showdown-effect-deluxe-edition.json) |
+| The Shrink Season Two | 385904 | [385904-the-shrink-season-two.json](./385904-the-shrink-season-two.json) |
 | The Shroom Project | 320236 | [320236-the-shroom-project.json](./320236-the-shroom-project.json) |
 | The Shrouded Isle: Sunken Sins | 76892 | [76892-the-shrouded-isle-sunken-sins.json](./76892-the-shrouded-isle-sunken-sins.json) |
 | The Shu Legend | 405566 | [405566-the-shu-legend.json](./405566-the-shu-legend.json) |
@@ -11429,6 +11431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wizard: WizHarder Edition | 141234 | [141234-the-wizard-wizharder-edition.json](./141234-the-wizard-wizharder-edition.json) |
 | The Wizard’s Beans Or: A Short Period of Unplanned Internment | 350445 | [350445-the-wizard-s-beans-or-a-short-period-of-unplanned-internment.json](./350445-the-wizard-s-beans-or-a-short-period-of-unplanned-internment.json) |
 | The Wizard's Castle | 25127 | [25127-the-wizards-castle.json](./25127-the-wizards-castle.json) |
+| The Wizard's Dolly Break | 385941 | [385941-the-wizards-dolly-break.json](./385941-the-wizards-dolly-break.json) |
 | The Wizard's Lair | 31949 | [31949-the-wizards-lair.json](./31949-the-wizards-lair.json) |
 | The Wizard's Tower | 113716 | [113716-the-wizards-tower.json](./113716-the-wizards-tower.json) |
 | The Wizards Arena | 348760 | [348760-the-wizards-arena.json](./348760-the-wizards-arena.json) |
@@ -14268,6 +14271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tits and Shadows | 252676 | [252676-tits-and-shadows.json](./252676-tits-and-shadows.json) |
 | Tits Okay Tits Fine | 371361 | [371361-tits-okay-tits-fine.json](./371361-tits-okay-tits-fine.json) |
 | Tits Okay Tits Fine Milkshake | 379553 | [379553-tits-okay-tits-fine-milkshake.json](./379553-tits-okay-tits-fine-milkshake.json) |
+| Tittilium | 385898 | [385898-tittilium.json](./385898-tittilium.json) |
 | Tittivillus Teaches Typning | 397184 | [397184-tittivillus-teaches-typning.json](./397184-tittivillus-teaches-typning.json) |
 | TitTok 2 | 173222 | [173222-tittok-2.json](./173222-tittok-2.json) |
 | TitTok 3 | 202124 | [202124-tittok-3.json](./202124-tittok-3.json) |
