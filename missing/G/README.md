@@ -5926,6 +5926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gubble | 170382 | [170382-gubble.json](./170382-gubble.json) |
 | Gubble 2 | 93338 | [93338-gubble-2.json](./93338-gubble-2.json) |
 | Gubble Buggy Racer | 91544 | [91544-gubble-buggy-racer.json](./91544-gubble-buggy-racer.json) |
+| Guchio Rising Mountain | 365540 | [365540-guchio-rising-mountain.json](./365540-guchio-rising-mountain.json) |
 | Gude! Jump n Run | 160179 | [160179-gude-jump-n-run.json](./160179-gude-jump-n-run.json) |
 | Guderian | 28716 | [28716-guderian.json](./28716-guderian.json) |
 | Gudetama Tap! | 102118 | [102118-gudetama-tap.json](./102118-gudetama-tap.json) |
