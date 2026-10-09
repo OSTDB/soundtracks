@@ -589,6 +589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Sexy Tour With Marie | 368576 | [368576-a-sexy-tour-with-marie.json](./368576-a-sexy-tour-with-marie.json) |
 | A Sexy Tour With Riley | 379550 | [379550-a-sexy-tour-with-riley.json](./379550-a-sexy-tour-with-riley.json) |
 | A Sexy Tour With Stella | 368573 | [368573-a-sexy-tour-with-stella.json](./368573-a-sexy-tour-with-stella.json) |
+| A Shadow in Space | 383719 | [383719-a-shadow-in-space.json](./383719-a-shadow-in-space.json) |
 | A Shard of Mine | 243418 | [243418-a-shard-of-mine.json](./243418-a-shard-of-mine.json) |
 | A Shiver in Time | 177853 | [177853-a-shiver-in-time.json](./177853-a-shiver-in-time.json) |
 | A Shlong Adventure | 372122 | [372122-a-shlong-adventure.json](./372122-a-shlong-adventure.json) |
