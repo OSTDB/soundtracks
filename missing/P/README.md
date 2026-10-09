@@ -3240,6 +3240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pharaoh's Tomb | 35505 | [35505-pharaohs-tomb.json](./35505-pharaohs-tomb.json) |
 | Pharaonic | 19068 | [19068-pharaonic.json](./19068-pharaonic.json) |
 | Pharaonic: Deluxe Edition | 166187 | [166187-pharaonic-deluxe-edition.json](./166187-pharaonic-deluxe-edition.json) |
+| Pharma Dealer Simulator | 365563 | [365563-pharma-dealer-simulator.json](./365563-pharma-dealer-simulator.json) |
 | Pharmacist Jones | 325706 | [325706-pharmacist-jones.json](./325706-pharmacist-jones.json) |
 | Pharmacy 24 | 390643 | [390643-pharmacy-24.json](./390643-pharmacy-24.json) |
 | Pharmacy Simulator | 297809 | [297809-pharmacy-simulator.json](./297809-pharmacy-simulator.json) |
@@ -4746,6 +4747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Game Maker Series: Stray Witch and the Ghost Train | 370820 | [370820-pixel-game-maker-series-stray-witch-and-the-ghost-train.json](./370820-pixel-game-maker-series-stray-witch-and-the-ghost-train.json) |
 | Pixel Game Maker Series: Tentacled Terrors Tyrannize Terra! | 244824 | [244824-pixel-game-maker-series-tentacled-terrors-tyrannize-terra.json](./244824-pixel-game-maker-series-tentacled-terrors-tyrannize-terra.json) |
 | Pixel Game Maker Series: The Willow Man | 316190 | [316190-pixel-game-maker-series-the-willow-man.json](./316190-pixel-game-maker-series-the-willow-man.json) |
+| Pixel Game Maker Series: Weapon User | 365546 | [365546-pixel-game-maker-series-weapon-user.json](./365546-pixel-game-maker-series-weapon-user.json) |
 | Pixel Gangsters | 211184 | [211184-pixel-gangsters.json](./211184-pixel-gangsters.json) |
 | Pixel Gear | 25182 | [25182-pixel-gear.json](./25182-pixel-gear.json) |
 | Pixel Girl | 109878 | [109878-pixel-girl.json](./109878-pixel-girl.json) |
@@ -10521,6 +10523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Book: Adventure Pack | 237980 | [237980-puzzle-book-adventure-pack.json](./237980-puzzle-book-adventure-pack.json) |
 | Puzzle Book: Animals Edition | 378959 | [378959-puzzle-book-animals-edition.json](./378959-puzzle-book-animals-edition.json) |
 | Puzzle Book: Furry Friends Bundle | 223564 | [223564-puzzle-book-furry-friends-bundle.json](./223564-puzzle-book-furry-friends-bundle.json) |
+| Puzzle Book: Horizon Edition | 365552 | [365552-puzzle-book-horizon-edition.json](./365552-puzzle-book-horizon-edition.json) |
 | Puzzle Book: Summer 2020 | 238036 | [238036-puzzle-book-summer-2020.json](./238036-puzzle-book-summer-2020.json) |
 | Puzzle Book: Summer 2021 | 238028 | [238028-puzzle-book-summer-2021.json](./238028-puzzle-book-summer-2021.json) |
 | Puzzle Bowling | 158143 | [158143-puzzle-bowling.json](./158143-puzzle-bowling.json) |
