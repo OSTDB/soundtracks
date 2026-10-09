@@ -358,6 +358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Wanna Take the Time Machine | 79520 | [79520-i-wanna-take-the-time-machine.json](./79520-i-wanna-take-the-time-machine.json) |
 | I Wanna Take the Time-Machine 2 | 187366 | [187366-i-wanna-take-the-time-machine-2.json](./187366-i-wanna-take-the-time-machine-2.json) |
 | I Wanna Touch | 389984 | [389984-i-wanna-touch.json](./389984-i-wanna-touch.json) |
+| I Wanna Try | 357169 | [357169-i-wanna-try.json](./357169-i-wanna-try.json) |
 | I Want My Mommy | 40789 | [40789-i-want-my-mommy.json](./40789-i-want-my-mommy.json) |
 | I Want To Be A Circle When I Grow Up. | 396545 | [396545-i-want-to-be-a-circle-when-i-grow-up.json](./396545-i-want-to-be-a-circle-when-i-grow-up.json) |
 | I Want to Be Human | 36433 | [36433-i-want-to-be-human.json](./36433-i-want-to-be-human.json) |
@@ -2399,6 +2400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinity Knights: Xross | 289302 | [289302-infinity-knights-xross.json](./289302-infinity-knights-xross.json) |
 | Infinity Mechs | 235150 | [235150-infinity-mechs.json](./235150-infinity-mechs.json) |
 | Infinity Nikki: Blue Tears Season | 353286 | [353286-infinity-nikki-blue-tears-season.json](./353286-infinity-nikki-blue-tears-season.json) |
+| Infinity Nikki: Danqing Season | 357174 | [357174-infinity-nikki-danqing-season.json](./357174-infinity-nikki-danqing-season.json) |
 | Infinity Nikki: Encore Season | 375611 | [375611-infinity-nikki-encore-season.json](./375611-infinity-nikki-encore-season.json) |
 | Infinity Nikki: Firework Season | 328586 | [328586-infinity-nikki-firework-season.json](./328586-infinity-nikki-firework-season.json) |
 | Infinity Nikki: Golden Dust | 410212 | [410212-infinity-nikki-golden-dust.json](./410212-infinity-nikki-golden-dust.json) |
