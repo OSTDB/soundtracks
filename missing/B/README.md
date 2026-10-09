@@ -1659,6 +1659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baroque: Become a Meta-Being | 316764 | [316764-baroque-become-a-meta-being.json](./316764-baroque-become-a-meta-being.json) |
 | Baroque: Become a Meta-Being Revive | 378351 | [378351-baroque-become-a-meta-being-revive.json](./378351-baroque-become-a-meta-being-revive.json) |
 | Barotrauma | 27344 | [27344-barotrauma.json](./27344-barotrauma.json) |
+| Barotrauma: Home & Harbor | 348291 | [348291-barotrauma-home-and-harbor.json](./348291-barotrauma-home-and-harbor.json) |
 | Barp Online | 379959 | [379959-barp-online.json](./379959-barp-online.json) |
 | Barrack | 83919 | [83919-barrack.json](./83919-barrack.json) |
 | Barrage | 146228 | [146228-barrage.json](./146228-barrage.json) |
@@ -4930,6 +4931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bird Brawl | 250530 | [250530-bird-brawl.json](./250530-bird-brawl.json) |
 | Bird Brigade | 385221 | [385221-bird-brigade.json](./385221-bird-brigade.json) |
 | Bird Builder | 177474 | [177474-bird-builder.json](./177474-bird-builder.json) |
+| Bird Coloring | 348303 | [348303-bird-coloring.json](./348303-bird-coloring.json) |
 | Bird Fall | 37150 | [37150-bird-fall.json](./37150-bird-fall.json) |
 | Bird Game | 349937 | [349937-bird-game.json](./349937-bird-game.json) |
 | Bird Game | 394488 | [394488-bird-game.json](./394488-bird-game.json) |
@@ -5513,6 +5515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blackjack | 131529 | [131529-blackjack.json](./131529-blackjack.json) |
 | Blackjack | 204476 | [204476-blackjack.json](./204476-blackjack.json) |
 | Blackjack | 224087 | [224087-blackjack.json](./224087-blackjack.json) |
+| Blackjack | 348302 | [348302-blackjack.json](./348302-blackjack.json) |
 | Blackjack | 418292 | [418292-blackjack.json](./418292-blackjack.json) |
 | Blackjack / Poker / Acey-Deucey | 169265 | [169265-blackjack-poker-acey-deucey.json](./169265-blackjack-poker-acey-deucey.json) |
 | Blackjack 21 | 85514 | [85514-blackjack-21.json](./85514-blackjack-21.json) |
@@ -7712,6 +7715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Book Organizer | 405095 | [405095-book-organizer.json](./405095-book-organizer.json) |
 | Book Recommendations | 207223 | [207223-book-recommendations.json](./207223-book-recommendations.json) |
 | Book Seeker | 121536 | [121536-book-seeker.json](./121536-book-seeker.json) |
+| Book Shooter | 348294 | [348294-book-shooter.json](./348294-book-shooter.json) |
 | Book Smugglers | 291522 | [291522-book-smugglers.json](./291522-book-smugglers.json) |
 | Book Travelers II: A Royal Story - Collector's Edition | 362845 | [362845-book-travelers-ii-a-royal-story-collectors-edition.json](./362845-book-travelers-ii-a-royal-story-collectors-edition.json) |
 | Book Travelers III: A Gothic Story - Collector's Edition | 364516 | [364516-book-travelers-iii-a-gothic-story-collectors-edition.json](./364516-book-travelers-iii-a-gothic-story-collectors-edition.json) |
