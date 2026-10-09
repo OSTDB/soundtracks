@@ -5682,6 +5682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DinoScape | 143335 | [143335-dinoscape.json](./143335-dinoscape.json) |
 | DinoSource | 77983 | [77983-dinosource.json](./77983-dinosource.json) |
 | DinoSystem | 35131 | [35131-dinosystem.json](./35131-dinosystem.json) |
+| Dinotica | 361625 | [361625-dinotica.json](./361625-dinotica.json) |
 | Dinotopia | 146885 | [146885-dinotopia.json](./146885-dinotopia.json) |
 | Dinotopia: Game Land Activity Center | 70442 | [70442-dinotopia-game-land-activity-center.json](./70442-dinotopia-game-land-activity-center.json) |
 | Dinotopia: The Sunstone Odyssey | 3879 | [3879-dinotopia-the-sunstone-odyssey.json](./3879-dinotopia-the-sunstone-odyssey.json) |
