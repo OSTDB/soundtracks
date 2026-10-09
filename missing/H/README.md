@@ -4775,9 +4775,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hiromechia | 363935 | [363935-hiromechia.json](./363935-hiromechia.json) |
 | Hiromichi Oniisan no Oyako Taisou Navi | 220581 | [220581-hiromichi-oniisan-no-oyako-taisou-navi.json](./220581-hiromichi-oniisan-no-oyako-taisou-navi.json) |
 | Hiryu no Ken Collection | 397224 | [397224-hiryu-no-ken-collection.json](./397224-hiryu-no-ken-collection.json) |
+| Hiryuu no Ken Densetsu GB: Real Version | 351575 | [351575-hiryuu-no-ken-densetsu-gb-real-version.json](./351575-hiryuu-no-ken-densetsu-gb-real-version.json) |
+| Hiryuu no Ken Densetsu GB: SD Version | 351574 | [351574-hiryuu-no-ken-densetsu-gb-sd-version.json](./351574-hiryuu-no-ken-densetsu-gb-sd-version.json) |
 | Hiryuu no Ken II: Dragon no Tsubasa | 64447 | [64447-hiryuu-no-ken-ii-dragon-no-tsubasa.json](./64447-hiryuu-no-ken-ii-dragon-no-tsubasa.json) |
 | Hiryuu no Ken III: Go-nin no Ryuu Senshi | 61161 | [61161-hiryuu-no-ken-iii-go-nin-no-ryuu-senshi.json](./61161-hiryuu-no-ken-iii-go-nin-no-ryuu-senshi.json) |
 | Hiryuu no Ken Special: Fighting Wars | 63936 | [63936-hiryuu-no-ken-special-fighting-wars.json](./63936-hiryuu-no-ken-special-fighting-wars.json) |
+| Hiryuu no Ken Stadium DD: Real Version | 351573 | [351573-hiryuu-no-ken-stadium-dd-real-version.json](./351573-hiryuu-no-ken-stadium-dd-real-version.json) |
+| Hiryuu no Ken Stadium DD: SD Version | 351571 | [351571-hiryuu-no-ken-stadium-dd-sd-version.json](./351571-hiryuu-no-ken-stadium-dd-sd-version.json) |
 | His Chuunibyou Cannot Be Cured! | 65823 | [65823-his-chuunibyou-cannot-be-cured.json](./65823-his-chuunibyou-cannot-be-cured.json) |
 | His Dark Majesty | 362473 | [362473-his-dark-majesty.json](./362473-his-dark-majesty.json) |
 | His Majesty's Ship Impetuous | 55838 | [55838-his-majestys-ship-impetuous.json](./55838-his-majestys-ship-impetuous.json) |
