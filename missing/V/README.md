@@ -1380,6 +1380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Villager's Biography | 102929 | [102929-villagers-biography.json](./102929-villagers-biography.json) |
 | Villagers and Heroes | 16843 | [16843-villagers-and-heroes.json](./16843-villagers-and-heroes.json) |
 | Villaging | 249906 | [249906-villaging.json](./249906-villaging.json) |
+| Villain Academy | 379694 | [379694-villain-academy.json](./379694-villain-academy.json) |
 | Villain Boys: Date the Dark Side | 418321 | [418321-villain-boys-date-the-dark-side.json](./418321-villain-boys-date-the-dark-side.json) |
 | Villain Master: Dead or Alive | 197356 | [197356-villain-master-dead-or-alive.json](./197356-villain-master-dead-or-alive.json) |
 | Villain Project | 225638 | [225638-villain-project.json](./225638-villain-project.json) |
