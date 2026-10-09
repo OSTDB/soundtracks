@@ -7645,6 +7645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fruit Thieves | 183548 | [183548-fruit-thieves.json](./183548-fruit-thieves.json) |
 | Fruit Wand | 345413 | [345413-fruit-wand.json](./345413-fruit-wand.json) |
 | Fruit Warrior AR | 241047 | [241047-fruit-warrior-ar.json](./241047-fruit-warrior-ar.json) |
+| Fruit Wars | 344398 | [344398-fruit-wars.json](./344398-fruit-wars.json) |
 | Fruit-Fusion | 282807 | [282807-fruit-fusion.json](./282807-fruit-fusion.json) |
 | Fruitalistic! | 258638 | [258638-fruitalistic.json](./258638-fruitalistic.json) |
 | Fruitbearer | 389696 | [389696-fruitbearer.json](./389696-fruitbearer.json) |
