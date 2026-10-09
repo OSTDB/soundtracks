@@ -2627,6 +2627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epic Vampire | 307721 | [307721-epic-vampire.json](./307721-epic-vampire.json) |
 | Epic Walk | 324881 | [324881-epic-walk.json](./324881-epic-walk.json) |
 | Epic War 1 | 86057 | [86057-epic-war-1.json](./86057-epic-war-1.json) |
+| Epic War Collection | 359350 | [359350-epic-war-collection.json](./359350-epic-war-collection.json) |
 | Epic Word Search Collection | 85125 | [85125-epic-word-search-collection.json](./85125-epic-word-search-collection.json) |
 | Epic Word Search Holiday Special | 85123 | [85123-epic-word-search-holiday-special.json](./85123-epic-word-search-holiday-special.json) |
 | Epic World | 126970 | [126970-epic-world.json](./126970-epic-world.json) |
@@ -2720,6 +2721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Equinox | 264123 | [264123-equinox.json](./264123-equinox.json) |
 | Equinox | 329147 | [329147-equinox.json](./329147-equinox.json) |
 | Equinox: Homecoming | 342898 | [342898-equinox-homecoming.json](./342898-equinox-homecoming.json) |
+| Equitania | 359353 | [359353-equitania.json](./359353-equitania.json) |
 | Equiverse | 303801 | [303801-equiverse.json](./303801-equiverse.json) |
 | Er-Spectro | 81769 | [81769-er-spectro.json](./81769-er-spectro.json) |
 | Era | 83940 | [83940-era.json](./83940-era.json) |
