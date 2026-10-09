@@ -2276,6 +2276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endzone: A World Apart - Survivor Edition | 193533 | [193533-endzone-a-world-apart-survivor-edition.json](./193533-endzone-a-world-apart-survivor-edition.json) |
 | ENEFN | 132620 | [132620-enefn.json](./132620-enefn.json) |
 | Enemies: Gone Suburban | 239649 | [239649-enemies-gone-suburban.json](./239649-enemies-gone-suburban.json) |
+| Enemist | 335318 | [335318-enemist.json](./335318-enemist.json) |
 | Enemy | 36034 | [36034-enemy.json](./36034-enemy.json) |
 | Enemy 2: Missing in Action | 145895 | [145895-enemy-2-missing-in-action.json](./145895-enemy-2-missing-in-action.json) |
 | Enemy Engaged 2 | 20372 | [20372-enemy-engaged-2.json](./20372-enemy-engaged-2.json) |
