@@ -2555,6 +2555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | People In The Dark | 378374 | [378374-people-in-the-dark.json](./378374-people-in-the-dark.json) |
 | People Jumping Tower | 328035 | [328035-people-jumping-tower.json](./328035-people-jumping-tower.json) |
 | People Manipulation Sim | 181369 | [181369-people-manipulation-sim.json](./181369-people-manipulation-sim.json) |
+| People of Mine | 347730 | [347730-people-of-mine.json](./347730-people-of-mine.json) |
 | People of Note | 369842 | [369842-people-of-note.json](./369842-people-of-note.json) |
 | People Playground | 122646 | [122646-people-playground.json](./122646-people-playground.json) |
 | People's Chess | 175248 | [175248-peoples-chess.json](./175248-peoples-chess.json) |
