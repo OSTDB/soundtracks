@@ -794,6 +794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NBA 2K25: All-Star Edition | 317248 | [317248-nba-2k25-all-star-edition.json](./317248-nba-2k25-all-star-edition.json) |
 | NBA 2K25: Tournament Edition | 331859 | [331859-nba-2k25-tournament-edition.json](./331859-nba-2k25-tournament-edition.json) |
 | NBA 2K26 | 353901 | [353901-nba-2k26.json](./353901-nba-2k26.json) |
+| NBA 2K26: Slam Edition | 376244 | [376244-nba-2k26-slam-edition.json](./376244-nba-2k26-slam-edition.json) |
 | NBA 2K27 | 408823 | [408823-nba-2k27.json](./408823-nba-2k27.json) |
 | NBA 2K27: Deluxe Edition | 410900 | [410900-nba-2k27-deluxe-edition.json](./410900-nba-2k27-deluxe-edition.json) |
 | NBA 2K27: Ultra Edition | 410901 | [410901-nba-2k27-ultra-edition.json](./410901-nba-2k27-ultra-edition.json) |
@@ -3368,6 +3369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nitro Express | 313096 | [313096-nitro-express.json](./313096-nitro-express.json) |
 | Nitro Gen Omega | 319146 | [319146-nitro-gen-omega.json](./319146-nitro-gen-omega.json) |
 | Nitro Horizon | 412811 | [412811-nitro-horizon.json](./412811-nitro-horizon.json) |
+| Nitro Karts Racing | 376238 | [376238-nitro-karts-racing.json](./376238-nitro-karts-racing.json) |
 | Nitro Kid | 204438 | [204438-nitro-kid.json](./204438-nitro-kid.json) |
 | Nitro Nation Online | 39221 | [39221-nitro-nation-online.json](./39221-nitro-nation-online.json) |
 | Nitro Nation Stories | 39222 | [39222-nitro-nation-stories.json](./39222-nitro-nation-stories.json) |
