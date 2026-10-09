@@ -871,6 +871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ball Dude Adventures | 176475 | [176475-ball-dude-adventures.json](./176475-ball-dude-adventures.json) |
 | Ball Escape | 99619 | [99619-ball-escape.json](./99619-ball-escape.json) |
 | Ball Game | 193275 | [193275-ball-game.json](./193275-ball-game.json) |
+| Ball Game | 336498 | [336498-ball-game.json](./336498-ball-game.json) |
 | Ball Game | 416033 | [416033-ball-game.json](./416033-ball-game.json) |
 | Ball Game | 75197 | [75197-ball-game.json](./75197-ball-game.json) |
 | Ball Game Remix | 217510 | [217510-ball-game-remix.json](./217510-ball-game-remix.json) |
