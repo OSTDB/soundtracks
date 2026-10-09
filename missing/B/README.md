@@ -826,6 +826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ball Attack | 78984 | [78984-ball-attack.json](./78984-ball-attack.json) |
 | Ball Attraction | 123989 | [123989-ball-attraction.json](./123989-ball-attraction.json) |
 | Ball Blast: Dreamland DLC | 356814 | [356814-ball-blast-dreamland-dlc.json](./356814-ball-blast-dreamland-dlc.json) |
+| Ball Blast: Halloween Edition | 376248 | [376248-ball-blast-halloween-edition.json](./376248-ball-blast-halloween-edition.json) |
 | Ball Blast: Platinum Edition | 395674 | [395674-ball-blast-platinum-edition.json](./395674-ball-blast-platinum-edition.json) |
 | Ball Blast: Space DLC | 356815 | [356815-ball-blast-space-dlc.json](./356815-ball-blast-space-dlc.json) |
 | Ball Blast: Space Edition | 364097 | [364097-ball-blast-space-edition.json](./364097-ball-blast-space-edition.json) |
@@ -1759,6 +1760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baseball Bros | 336068 | [336068-baseball-bros.json](./336068-baseball-bros.json) |
 | Baseball Card Shop Simulator | 349428 | [349428-baseball-card-shop-simulator.json](./349428-baseball-card-shop-simulator.json) |
 | Baseball Champion League 2019 | 220204 | [220204-baseball-champion-league-2019.json](./220204-baseball-champion-league-2019.json) |
+| Baseball Dreams VR | 376270 | [376270-baseball-dreams-vr.json](./376270-baseball-dreams-vr.json) |
 | Baseball Fighter | 48615 | [48615-baseball-fighter.json](./48615-baseball-fighter.json) |
 | Baseball for the Tomy Tutor | 131456 | [131456-baseball-for-the-tomy-tutor.json](./131456-baseball-for-the-tomy-tutor.json) |
 | Baseball General Manager | 88555 | [88555-baseball-general-manager.json](./88555-baseball-general-manager.json) |
@@ -9093,6 +9095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bridge Hunter | 260167 | [260167-bridge-hunter.json](./260167-bridge-hunter.json) |
 | Bridge Master | 94682 | [94682-bridge-master.json](./94682-bridge-master.json) |
 | Bridge Master with Terence Reese | 362444 | [362444-bridge-master-with-terence-reese.json](./362444-bridge-master-with-terence-reese.json) |
+| Bridge Race: Horror Edition | 376249 | [376249-bridge-race-horror-edition.json](./376249-bridge-race-horror-edition.json) |
 | Bridge Race: Platinum Edition | 378956 | [378956-bridge-race-platinum-edition.json](./378956-bridge-race-platinum-edition.json) |
 | Bridge Race: Rush Edition | 347319 | [347319-bridge-race-rush-edition.json](./347319-bridge-race-rush-edition.json) |
 | Bridge Race: Silly Edition | 362376 | [362376-bridge-race-silly-edition.json](./362376-bridge-race-silly-edition.json) |
@@ -9553,6 +9556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Bobble Nostalgie | 251020 | [251020-bubble-bobble-nostalgie.json](./251020-bubble-bobble-nostalgie.json) |
 | Bubble Bobble Part 2 | 7801 | [7801-bubble-bobble-part-2.json](./7801-bubble-bobble-part-2.json) |
 | Bubble Bobble The Revival | 335465 | [335465-bubble-bobble-the-revival.json](./335465-bubble-bobble-the-revival.json) |
+| Bubble Bobble: Sugar Dungeons - Deluxe Edition | 376241 | [376241-bubble-bobble-sugar-dungeons-deluxe-edition.json](./376241-bubble-bobble-sugar-dungeons-deluxe-edition.json) |
 | Bubble Boy | 59804 | [59804-bubble-boy.json](./59804-bubble-boy.json) |
 | Bubble Breaking | 168337 | [168337-bubble-breaking.json](./168337-bubble-breaking.json) |
 | Bubble Breeze Pop | 76633 | [76633-bubble-breeze-pop.json](./76633-bubble-breeze-pop.json) |
