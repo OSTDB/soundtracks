@@ -1759,6 +1759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NetStorm: Islands At War | 1358 | [1358-netstorm-islands-at-war.json](./1358-netstorm-islands-at-war.json) |
 | Netto de Para | 267584 | [267584-netto-de-para.json](./267584-netto-de-para.json) |
 | Netto de Tennis | 58169 | [58169-netto-de-tennis.json](./58169-netto-de-tennis.json) |
+| Nettou! J.League Soccer | 349278 | [349278-nettou-j-league-soccer.json](./349278-nettou-j-league-soccer.json) |
 | Nettou! Powerful Koushien | 98508 | [98508-nettou-powerful-koushien.json](./98508-nettou-powerful-koushien.json) |
 | Netty | 181211 | [181211-netty.json](./181211-netty.json) |
 | NetWalk | 283745 | [283745-netwalk.json](./283745-netwalk.json) |
@@ -4094,6 +4095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | North of Iraq Part 1 | 128318 | [128318-north-of-iraq-part-1.json](./128318-north-of-iraq-part-1.json) |
 | North Pole Workshop | 411062 | [411062-north-pole-workshop.json](./411062-north-pole-workshop.json) |
 | North Salvation | 246475 | [246475-north-salvation.json](./246475-north-salvation.json) |
+| North Shore | 349265 | [349265-north-shore.json](./349265-north-shore.json) |
 | North Stars | 102143 | [102143-north-stars.json](./102143-north-stars.json) |
 | Northanda Chronicles | 277294 | [277294-northanda-chronicles.json](./277294-northanda-chronicles.json) |
 | Northbury Grove | 112217 | [112217-northbury-grove.json](./112217-northbury-grove.json) |
