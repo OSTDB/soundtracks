@@ -2828,6 +2828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NightmareScape | 255879 | [255879-nightmarescape.json](./255879-nightmarescape.json) |
 | NightMaresToBe | 163824 | [163824-nightmarestobe.json](./163824-nightmarestobe.json) |
 | NightmareZ | 31849 | [31849-nightmarez.json](./31849-nightmarez.json) |
+| Nightmarise | 376859 | [376859-nightmarise.json](./376859-nightmarise.json) |
 | Nightmist | 406906 | [406906-nightmist.json](./406906-nightmist.json) |
 | Nightomb | 260857 | [260857-nightomb.json](./260857-nightomb.json) |
 | Nightout | 172503 | [172503-nightout.json](./172503-nightout.json) |
