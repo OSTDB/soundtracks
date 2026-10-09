@@ -722,6 +722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1917: The Alien Invasion DX Remastered | 332592 | [332592-1917-the-alien-invasion-dx-remastered.json](./332592-1917-the-alien-invasion-dx-remastered.json) |
 | 1919 | 189015 | [189015-1919.json](./189015-1919.json) |
 | 1931: Scheherazade at the Library of Pergamum | 36136 | [36136-1931-scheherazade-at-the-library-of-pergamum.json](./36136-1931-scheherazade-at-the-library-of-pergamum.json) |
+| 1938 | 357750 | [357750-1938.json](./357750-1938.json) |
 | 1939 | 265966 | [265966-1939.json](./265966-1939.json) |
 | 1941: Operation Barbarossa | 235717 | [235717-1941-operation-barbarossa.json](./235717-1941-operation-barbarossa.json) |
 | 1942 Mobile | 220562 | [220562-1942-mobile.json](./220562-1942-mobile.json) |
@@ -1280,6 +1281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Pool All Stars | 92596 | [92596-3d-pool-all-stars.json](./92596-3d-pool-all-stars.json) |
 | 3D Pool Game | 88273 | [88273-3d-pool-game.json](./88273-3d-pool-game.json) |
 | 3D Puyo Puyo 2: Tsuu | 87195 | [87195-3d-puyo-puyo-2-tsuu.json](./87195-3d-puyo-puyo-2-tsuu.json) |
+| 3D Puzzle Dark Fantasy | 357751 | [357751-3d-puzzle-dark-fantasy.json](./357751-3d-puzzle-dark-fantasy.json) |
 | 3D Puzzle: Abandoned Prison | 308949 | [308949-3d-puzzle-abandoned-prison.json](./308949-3d-puzzle-abandoned-prison.json) |
 | 3D Puzzle: Battle Royal | 254034 | [254034-3d-puzzle-battle-royal.json](./254034-3d-puzzle-battle-royal.json) |
 | 3D Puzzle: Breaking Bed | 280314 | [280314-3d-puzzle-breaking-bed.json](./280314-3d-puzzle-breaking-bed.json) |
@@ -1288,18 +1290,25 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Puzzle: Desert Wind | 253424 | [253424-3d-puzzle-desert-wind.json](./253424-3d-puzzle-desert-wind.json) |
 | 3D Puzzle: Farming | 253426 | [253426-3d-puzzle-farming.json](./253426-3d-puzzle-farming.json) |
 | 3D Puzzle: Farming 2 | 274644 | [274644-3d-puzzle-farming-2.json](./274644-3d-puzzle-farming-2.json) |
+| 3D Puzzle: Gas Station | 357759 | [357759-3d-puzzle-gas-station.json](./357759-3d-puzzle-gas-station.json) |
 | 3D Puzzle: Hangar | 308948 | [308948-3d-puzzle-hangar.json](./308948-3d-puzzle-hangar.json) |
 | 3D Puzzle: Harbor | 270863 | [270863-3d-puzzle-harbor.json](./270863-3d-puzzle-harbor.json) |
 | 3D Puzzle: Hospital 4 | 308950 | [308950-3d-puzzle-hospital-4.json](./308950-3d-puzzle-hospital-4.json) |
+| 3D Puzzle: Leafless | 357758 | [357758-3d-puzzle-leafless.json](./357758-3d-puzzle-leafless.json) |
 | 3D Puzzle: Medieval Inn | 253425 | [253425-3d-puzzle-medieval-inn.json](./253425-3d-puzzle-medieval-inn.json) |
+| 3D Puzzle: Mountain Life | 357757 | [357757-3d-puzzle-mountain-life.json](./357757-3d-puzzle-mountain-life.json) |
 | 3D Puzzle: OldHospital | 308947 | [308947-3d-puzzle-oldhospital.json](./308947-3d-puzzle-oldhospital.json) |
 | 3D Puzzle: OutPost | 308946 | [308946-3d-puzzle-outpost.json](./308946-3d-puzzle-outpost.json) |
 | 3D Puzzle: Pirates | 301037 | [301037-3d-puzzle-pirates.json](./301037-3d-puzzle-pirates.json) |
+| 3D Puzzle: Pizza Shop 2 | 357756 | [357756-3d-puzzle-pizza-shop-2.json](./357756-3d-puzzle-pizza-shop-2.json) |
 | 3D Puzzle: Port | 309618 | [309618-3d-puzzle-port.json](./309618-3d-puzzle-port.json) |
 | 3D Puzzle: Post-Apocalyptic 3 | 280313 | [280313-3d-puzzle-post-apocalyptic-3.json](./280313-3d-puzzle-post-apocalyptic-3.json) |
+| 3D Puzzle: Race Track | 357755 | [357755-3d-puzzle-race-track.json](./357755-3d-puzzle-race-track.json) |
 | 3D Puzzle: Rusty | 308945 | [308945-3d-puzzle-rusty.json](./308945-3d-puzzle-rusty.json) |
+| 3D Puzzle: Steampunk City | 357754 | [357754-3d-puzzle-steampunk-city.json](./357754-3d-puzzle-steampunk-city.json) |
 | 3D Puzzle: Sun Temple | 308951 | [308951-3d-puzzle-sun-temple.json](./308951-3d-puzzle-sun-temple.json) |
 | 3D Puzzle: Underground | 308944 | [308944-3d-puzzle-underground.json](./308944-3d-puzzle-underground.json) |
+| 3D Puzzle: Winter Outpost | 357753 | [357753-3d-puzzle-winter-outpost.json](./357753-3d-puzzle-winter-outpost.json) |
 | 3D Puzzle: Wood House | 192241 | [192241-3d-puzzle-wood-house.json](./192241-3d-puzzle-wood-house.json) |
 | 3D Quasars | 12356 | [12356-3d-quasars.json](./12356-3d-quasars.json) |
 | 3D Rally Racing | 175178 | [175178-3d-rally-racing.json](./175178-3d-rally-racing.json) |
@@ -1659,6 +1668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 7 Gunfighters | 345137 | [345137-7-gunfighters.json](./345137-7-gunfighters.json) |
 | 7 Horizons | 210898 | [210898-7-horizons.json](./210898-7-horizons.json) |
 | 7 Invaders | 293240 | [293240-7-invaders.json](./293240-7-invaders.json) |
+| 7 Keys Saga | 357761 | [357761-7-keys-saga.json](./357761-7-keys-saga.json) |
 | 7 Light-Years | 62017 | [62017-7-light-years.json](./62017-7-light-years.json) |
 | 7 Little Words | 115641 | [115641-7-little-words.json](./115641-7-little-words.json) |
 | 7 Lives | 119530 | [119530-7-lives.json](./119530-7-lives.json) |
@@ -1710,6 +1720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 77p Egg: Cubicle 77 | 377403 | [377403-77p-egg-cubicle-77.json](./377403-77p-egg-cubicle-77.json) |
 | 77Survival Part I | 314064 | [314064-77survival-part-i.json](./314064-77survival-part-i.json) |
 | 78 Hour Rain | 179739 | [179739-78-hour-rain.json](./179739-78-hour-rain.json) |
+| 7821 Akuji | 357762 | [357762-7821-akuji.json](./357762-7821-akuji.json) |
 | 79 Pompeii | 195238 | [195238-79-pompeii.json](./195238-79-pompeii.json) |
 | 7D Game | 30816 | [30816-7d-game.json](./30816-7d-game.json) |
 | 7D Maze | 164255 | [164255-7d-maze.json](./164255-7d-maze.json) |
@@ -1762,6 +1773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 80.08 | 54444 | [54444-80-08.json](./54444-80-08.json) |
 | 80's Mania Pinball | 231321 | [231321-80s-mania-pinball.json](./231321-80s-mania-pinball.json) |
 | 80's Overdrive | 58717 | [58717-80s-overdrive.json](./58717-80s-overdrive.json) |
+| 808 | 357760 | [357760-808.json](./357760-808.json) |
 | 8088 Othello | 94424 | [94424-8088-othello.json](./94424-8088-othello.json) |
 | 80s Volleyball | 151616 | [151616-80s-volleyball.json](./151616-80s-volleyball.json) |
 | 81-tris | 289576 | [289576-81-tris.json](./289576-81-tris.json) |
@@ -1833,6 +1845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 9 Monkeys of Shaolin | 94078 | [94078-9-monkeys-of-shaolin.json](./94078-9-monkeys-of-shaolin.json) |
 | 9 R.I.P. | 241526 | [241526-9-r-i-p.json](./241526-9-r-i-p.json) |
 | 9 Realms | 258564 | [258564-9-realms.json](./258564-9-realms.json) |
+| 9 Souls | 357763 | [357763-9-souls.json](./357763-9-souls.json) |
 | 9 Till Void | 133230 | [133230-9-till-void.json](./133230-9-till-void.json) |
 | 9 To Ashes | 377407 | [377407-9-to-ashes.json](./377407-9-to-ashes.json) |
 | 9 Trials of Whiskers | 346187 | [346187-9-trials-of-whiskers.json](./346187-9-trials-of-whiskers.json) |
