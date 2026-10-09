@@ -1223,6 +1223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neko Atsume VR | 68317 | [68317-neko-atsume-vr.json](./68317-neko-atsume-vr.json) |
 | Neko Atsume: Kitty Collector+ | 240858 | [240858-neko-atsume-kitty-collector.json](./240858-neko-atsume-kitty-collector.json) |
 | Neko Bento | 324136 | [324136-neko-bento.json](./324136-neko-bento.json) |
+| Neko Bento 2 | 362206 | [362206-neko-bento-2.json](./362206-neko-bento-2.json) |
 | Neko Café Stories | 369697 | [369697-neko-cafe-stories.json](./369697-neko-cafe-stories.json) |
 | Neko Cosmo Police | 209482 | [209482-neko-cosmo-police.json](./209482-neko-cosmo-police.json) |
 | Neko Dai Suki! | 45257 | [45257-neko-dai-suki.json](./45257-neko-dai-suki.json) |
@@ -1541,6 +1542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon On!: Bright Ideas | 290434 | [290434-neon-on-bright-ideas.json](./290434-neon-on-bright-ideas.json) |
 | Neon On!: Chain Lights | 290435 | [290435-neon-on-chain-lights.json](./290435-neon-on-chain-lights.json) |
 | Neon On!: Complete Edition | 294829 | [294829-neon-on-complete-edition.json](./294829-neon-on-complete-edition.json) |
+| Neon On!: Lighting Edition | 362215 | [362215-neon-on-lighting-edition.json](./362215-neon-on-lighting-edition.json) |
 | Neon Orbit | 382772 | [382772-neon-orbit.json](./382772-neon-orbit.json) |
 | Neon Outlast | 195787 | [195787-neon-outlast.json](./195787-neon-outlast.json) |
 | Neon Overdrive | 342206 | [342206-neon-overdrive.json](./342206-neon-overdrive.json) |
