@@ -3625,6 +3625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isekai Brick Breaker | 225065 | [225065-isekai-brick-breaker.json](./225065-isekai-brick-breaker.json) |
 | Isekai Cowboy | 182192 | [182192-isekai-cowboy.json](./182192-isekai-cowboy.json) |
 | Isekai Demon Waifu | 219114 | [219114-isekai-demon-waifu.json](./219114-isekai-demon-waifu.json) |
+| Isekai Emblem | 369918 | [369918-isekai-emblem.json](./369918-isekai-emblem.json) |
 | Isekai Eternal | 157537 | [157537-isekai-eternal.json](./157537-isekai-eternal.json) |
 | Isekai Frontier | 244714 | [244714-isekai-frontier.json](./244714-isekai-frontier.json) |
 | Isekai Frontline | 273887 | [273887-isekai-frontline.json](./273887-isekai-frontline.json) |
