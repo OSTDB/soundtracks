@@ -2196,6 +2196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Follow Me | 192358 | [192358-cat-follow-me.json](./192358-cat-follow-me.json) |
 | Cat Forest: Healing Camp | 239918 | [239918-cat-forest-healing-camp.json](./239918-cat-forest-healing-camp.json) |
 | Cat Fred Evil Pet | 272860 | [272860-cat-fred-evil-pet.json](./272860-cat-fred-evil-pet.json) |
+| Cat From Hell 2 | 369364 | [369364-cat-from-hell-2.json](./369364-cat-from-hell-2.json) |
 | Cat From Hell: Cat Simulator | 338008 | [338008-cat-from-hell-cat-simulator.json](./338008-cat-from-hell-cat-simulator.json) |
 | Cat Fusion Quest | 312759 | [312759-cat-fusion-quest.json](./312759-cat-fusion-quest.json) |
 | Cat Game | 243081 | [243081-cat-game.json](./243081-cat-game.json) |
@@ -7560,6 +7561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Compare the Meerkat | 313280 | [313280-compare-the-meerkat.json](./313280-compare-the-meerkat.json) |
 | Compartmentalize | 326610 | [326610-compartmentalize.json](./326610-compartmentalize.json) |
 | Compass Live Arena | 220579 | [220579-compass-live-arena.json](./220579-compass-live-arena.json) |
+| Compass of Destiny: Survivors | 369368 | [369368-compass-of-destiny-survivors.json](./369368-compass-of-destiny-survivors.json) |
 | Compass of the Destiny: Istanbul | 239794 | [239794-compass-of-the-destiny-istanbul.json](./239794-compass-of-the-destiny-istanbul.json) |
 | Compass Rose | 124632 | [124632-compass-rose.json](./124632-compass-rose.json) |
 | Compassion | 179680 | [179680-compassion.json](./179680-compassion.json) |
