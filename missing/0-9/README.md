@@ -252,6 +252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 10,000 Feet Below | 271729 | [271729-10-000-feet-below.json](./271729-10-000-feet-below.json) |
 | 10,000 Player Chess | 341648 | [341648-10-000-player-chess.json](./341648-10-000-player-chess.json) |
 | 10:59 | 308936 | [308936-10-59.json](./308936-10-59.json) |
+| 10.000 Pizzas Please | 350428 | [350428-10-000-pizzas-please.json](./350428-10-000-pizzas-please.json) |
 | 100 Africa Cats | 334117 | [334117-100-africa-cats.json](./334117-100-africa-cats.json) |
 | 100 Aliens Cats | 288726 | [288726-100-aliens-cats.json](./288726-100-aliens-cats.json) |
 | 100 Aliens Cats: Extra Content | 308929 | [308929-100-aliens-cats-extra-content.json](./308929-100-aliens-cats-extra-content.json) |
@@ -1917,6 +1918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 9th Land | 249938 | [249938-9th-land.json](./249938-9th-land.json) |
 | 9th Sentinel Sisters | 266819 | [266819-9th-sentinel-sisters.json](./266819-9th-sentinel-sisters.json) |
 | Ａ Class | 245879 | [245879-a-class.json](./245879-a-class.json) |
+| À La Mine | 350473 | [350473-a-la-mine.json](./350473-a-la-mine.json) |
 | Àishén Cānguǎn Max | 86058 | [86058-aishen-canguan-max.json](./86058-aishen-canguan-max.json) |
 | Ājīn | 116291 | [116291-ajin.json](./116291-ajin.json) |
 | Álom | 229689 | [229689-alom.json](./229689-alom.json) |
