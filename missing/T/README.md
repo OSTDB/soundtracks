@@ -12150,6 +12150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | This hole in my chest | 176242 | [176242-this-hole-in-my-chest.json](./176242-this-hole-in-my-chest.json) |
 | This House Looks Familiar | 176969 | [176969-this-house-looks-familiar.json](./176969-this-house-looks-familiar.json) |
 | This is a game | 198488 | [198488-this-is-a-game.json](./198488-this-is-a-game.json) |
+| This is a real thing that happened | 355471 | [355471-this-is-a-real-thing-that-happened.json](./355471-this-is-a-real-thing-that-happened.json) |
 | This is a Refuge | 226419 | [226419-this-is-a-refuge.json](./226419-this-is-a-refuge.json) |
 | This is a Work of Fiction | 242780 | [242780-this-is-a-work-of-fiction.json](./242780-this-is-a-work-of-fiction.json) |
 | This Is Fine | 177325 | [177325-this-is-fine.json](./177325-this-is-fine.json) |
@@ -12219,6 +12220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thomas & Friends: Go Go Thomas! | 329139 | [329139-thomas-and-friends-go-go-thomas.json](./329139-thomas-and-friends-go-go-thomas.json) |
 | Thomas & Friends: Hero of the Rails | 50712 | [50712-thomas-and-friends-hero-of-the-rails.json](./50712-thomas-and-friends-hero-of-the-rails.json) |
 | Thomas & Friends: Let's Roll | 370116 | [370116-thomas-and-friends-lets-roll.json](./370116-thomas-and-friends-lets-roll.json) |
+| Thomas & Friends: Railway Adventures | 355515 | [355515-thomas-and-friends-railway-adventures.json](./355515-thomas-and-friends-railway-adventures.json) |
 | Thomas & Friends: Right on Time | 220126 | [220126-thomas-and-friends-right-on-time.json](./220126-thomas-and-friends-right-on-time.json) |
 | Thomas & Friends: Special Delivery | 206224 | [206224-thomas-and-friends-special-delivery.json](./206224-thomas-and-friends-special-delivery.json) |
 | Thomas & Friends: The Great Festival Adventure | 70654 | [70654-thomas-and-friends-the-great-festival-adventure.json](./70654-thomas-and-friends-the-great-festival-adventure.json) |
