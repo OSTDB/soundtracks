@@ -2188,6 +2188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TekiKare: Boyfriend or Foe? | 284610 | [284610-tekikare-boyfriend-or-foe.json](./284610-tekikare-boyfriend-or-foe.json) |
 | Tekkai Jousai no Haika | 398975 | [398975-tekkai-jousai-no-haika.json](./398975-tekkai-jousai-no-haika.json) |
 | Tekken 2 | 248207 | [248207-tekken-2.json](./248207-tekken-2.json) |
+| Tekken 2 / Soul Blade | 382530 | [382530-tekken-2-soul-blade.json](./382530-tekken-2-soul-blade.json) |
 | Tekken 3D: Prime Edition | 1237 | [1237-tekken-3d-prime-edition.json](./1237-tekken-3d-prime-edition.json) |
 | Tekken 4 | 1245 | [1245-tekken-4.json](./1245-tekken-4.json) |
 | Tekken 5 | 393526 | [393526-tekken-5.json](./393526-tekken-5.json) |
@@ -2979,6 +2980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetra's Escape 2 | 347304 | [347304-tetras-escape-2.json](./347304-tetras-escape-2.json) |
 | Tetrachroma | 298637 | [298637-tetrachroma.json](./298637-tetrachroma.json) |
 | Tetracosm | 151585 | [151585-tetracosm.json](./151585-tetracosm.json) |
+| Tetrad | 382526 | [382526-tetrad.json](./382526-tetrad.json) |
 | Tetrageddon | 143484 | [143484-tetrageddon.json](./143484-tetrageddon.json) |
 | Tetrageddon Games | 255016 | [255016-tetrageddon-games.json](./255016-tetrageddon-games.json) |
 | Tetragon | 116590 | [116590-tetragon.json](./116590-tetragon.json) |
@@ -7251,6 +7253,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last of Us Complete: Collector's Edition | 340226 | [340226-the-last-of-us-complete-collectors-edition.json](./340226-the-last-of-us-complete-collectors-edition.json) |
 | The Last of Us Online | 386719 | [386719-the-last-of-us-online.json](./386719-the-last-of-us-online.json) |
 | The Last of Us Part I: Firefly Edition | 215089 | [215089-the-last-of-us-part-i-firefly-edition.json](./215089-the-last-of-us-part-i-firefly-edition.json) |
+| The Last of Us Part II Remastered: Chronological Experience | 382539 | [382539-the-last-of-us-part-ii-remastered-chronological-experience.json](./382539-the-last-of-us-part-ii-remastered-chronological-experience.json) |
+| The Last of Us Part II Remastered: Patch 2.0.0 | 382537 | [382537-the-last-of-us-part-ii-remastered-patch-2-0-0.json](./382537-the-last-of-us-part-ii-remastered-patch-2-0-0.json) |
 | The Last of Us Part II Remastered: W.L.F. Edition | 279776 | [279776-the-last-of-us-part-ii-remastered-w-l-f-edition.json](./279776-the-last-of-us-part-ii-remastered-w-l-f-edition.json) |
 | The Last of Us Remastered: Day 1 Edition | 89931 | [89931-the-last-of-us-remastered-day-1-edition.json](./89931-the-last-of-us-remastered-day-1-edition.json) |
 | The Last of Us: Between The Years | 305372 | [305372-the-last-of-us-between-the-years.json](./305372-the-last-of-us-between-the-years.json) |
@@ -13938,6 +13942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tinker Bell: 2 Disney Games | 113889 | [113889-tinker-bell-2-disney-games.json](./113889-tinker-bell-2-disney-games.json) |
 | Tinker Islands | 410820 | [410820-tinker-islands.json](./410820-tinker-islands.json) |
 | Tinker Racers | 129739 | [129739-tinker-racers.json](./129739-tinker-racers.json) |
+| Tinker Tactics | 382545 | [382545-tinker-tactics.json](./382545-tinker-tactics.json) |
 | Tinker Tanks | 247666 | [247666-tinker-tanks.json](./247666-tinker-tanks.json) |
 | Tinker's Ascent | 355564 | [355564-tinkers-ascent.json](./355564-tinkers-ascent.json) |
 | Tinkercore | 316686 | [316686-tinkercore.json](./316686-tinkercore.json) |
@@ -17992,6 +17997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasure Raiders: Zombie Crisis | 82152 | [82152-treasure-raiders-zombie-crisis.json](./82152-treasure-raiders-zombie-crisis.json) |
 | Treasure Rangers | 153445 | [153445-treasure-rangers.json](./153445-treasure-rangers.json) |
 | Treasure Report: Kikai Jikake no Isan | 124109 | [124109-treasure-report-kikai-jikake-no-isan.json](./124109-treasure-report-kikai-jikake-no-isan.json) |
+| Treasure Rush Cave Climb | 382520 | [382520-treasure-rush-cave-climb.json](./382520-treasure-rush-cave-climb.json) |
 | Treasure Rush: Phantom Infiltration | 386293 | [386293-treasure-rush-phantom-infiltration.json](./386293-treasure-rush-phantom-infiltration.json) |
 | Treasure Seas Incorporated | 271390 | [271390-treasure-seas-incorporated.json](./271390-treasure-seas-incorporated.json) |
 | Treasure Seekers: The Time Has Come | 226208 | [226208-treasure-seekers-the-time-has-come.json](./226208-treasure-seekers-the-time-has-come.json) |
@@ -18374,6 +18380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trinity Universe | 7474 | [7474-trinity-universe.json](./7474-trinity-universe.json) |
 | Trinity VR | 111991 | [111991-trinity-vr.json](./111991-trinity-vr.json) |
 | Trinity x Calamity: Midara na Shitsuke to Owaru Sekai | 133245 | [133245-trinity-x-calamity-midara-na-shitsuke-to-owaru-sekai.json](./133245-trinity-x-calamity-midara-na-shitsuke-to-owaru-sekai.json) |
+| Trinket Bag Maker | 382569 | [382569-trinket-bag-maker.json](./382569-trinket-bag-maker.json) |
 | Trinkets | 355078 | [355078-trinkets.json](./355078-trinkets.json) |
 | Trinoline | 116366 | [116366-trinoline.json](./116366-trinoline.json) |
 | Trinoline: Genesis | 98374 | [98374-trinoline-genesis.json](./98374-trinoline-genesis.json) |
@@ -18808,6 +18815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | True Tree | 357414 | [357414-true-tree.json](./357414-true-tree.json) |
 | True Visions | 162413 | [162413-true-visions.json](./162413-true-visions.json) |
 | True Wishes | 102622 | [102622-true-wishes.json](./102622-true-wishes.json) |
+| True World: Shinjitsu no Sekai | 382570 | [382570-true-world-shinjitsu-no-sekai.json](./382570-true-world-shinjitsu-no-sekai.json) |
 | Truefish | 120412 | [120412-truefish.json](./120412-truefish.json) |
 | TrueScale | 105891 | [105891-truescale.json](./105891-truescale.json) |
 | Truffle Hogs | 159651 | [159651-truffle-hogs.json](./159651-truffle-hogs.json) |
