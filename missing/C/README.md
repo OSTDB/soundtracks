@@ -698,6 +698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Canari | 51580 | [51580-canari.json](./51580-canari.json) |
 | Canary in a Crater | 148138 | [148138-canary-in-a-crater.json](./148138-canary-in-a-crater.json) |
 | Canasta 3D Premium | 118406 | [118406-canasta-3d-premium.json](./118406-canasta-3d-premium.json) |
+| Canasta HD | 354965 | [354965-canasta-hd.json](./354965-canasta-hd.json) |
 | Canasta: Pro | 88530 | [88530-canasta-pro.json](./88530-canasta-pro.json) |
 | Cancelled Christmas | 399267 | [399267-cancelled-christmas.json](./399267-cancelled-christmas.json) |
 | Candance Kane's Candy Factory | 137475 | [137475-candance-kanes-candy-factory.json](./137475-candance-kanes-candy-factory.json) |
@@ -1299,6 +1300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Card Quest | 32328 | [32328-card-quest.json](./32328-card-quest.json) |
 | Card Quest: Simple Card Game | 406084 | [406084-card-quest-simple-card-game.json](./406084-card-quest-simple-card-game.json) |
 | Card Racing Simulator: Otterrific Arcade | 217917 | [217917-card-racing-simulator-otterrific-arcade.json](./217917-card-racing-simulator-otterrific-arcade.json) |
+| Card Scramble: Viola's Diner | 354966 | [354966-card-scramble-violas-diner.json](./354966-card-scramble-violas-diner.json) |
 | Card Sharks | 392954 | [392954-card-sharks.json](./392954-card-sharks.json) |
 | Card Sharks | 92862 | [92862-card-sharks.json](./92862-card-sharks.json) |
 | Card Sharp | 42164 | [42164-card-sharp.json](./42164-card-sharp.json) |
@@ -5531,6 +5533,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Claire Darksage and the Accursed Objects: Collector's Editon | 362828 | [362828-claire-darksage-and-the-accursed-objects-collectors-editon.json](./362828-claire-darksage-and-the-accursed-objects-collectors-editon.json) |
 | Claire Darksage and the Penumbra Deaths: Collector's Edition | 416780 | [416780-claire-darksage-and-the-penumbra-deaths-collectors-edition.json](./416780-claire-darksage-and-the-penumbra-deaths-collectors-edition.json) |
 | Claire de Lune | 118217 | [118217-claire-de-lune.json](./118217-claire-de-lune.json) |
+| Claire Hart Classic | 354967 | [354967-claire-hart-classic.json](./354967-claire-hart-classic.json) |
+| Claire Hart: Secret in the Shadows | 354968 | [354968-claire-hart-secret-in-the-shadows.json](./354968-claire-hart-secret-in-the-shadows.json) |
 | Claire's Cruisin' Cafe: Fest Frenzy | 266310 | [266310-claires-cruisin-cafe-fest-frenzy.json](./266310-claires-cruisin-cafe-fest-frenzy.json) |
 | Claire's Cruisin' Cafe: High Seas Cuisine | 193445 | [193445-claires-cruisin-cafe-high-seas-cuisine.json](./193445-claires-cruisin-cafe-high-seas-cuisine.json) |
 | Clairvoyage: The Lighthouse | 409397 | [409397-clairvoyage-the-lighthouse.json](./409397-clairvoyage-the-lighthouse.json) |
@@ -9393,6 +9397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crank Tower Defense | 347140 | [347140-crank-tower-defense.json](./347140-crank-tower-defense.json) |
 | Crank! Push! Tilt! | 243697 | [243697-crank-push-tilt.json](./243697-crank-push-tilt.json) |
 | CrankCore Incremental | 413211 | [413211-crankcore-incremental.json](./413211-crankcore-incremental.json) |
+| Cranked | 354951 | [354951-cranked.json](./354951-cranked.json) |
 | Cranked Up | 121490 | [121490-cranked-up.json](./121490-cranked-up.json) |
 | Crankies Workshop: Bozzbot Assembly | 180057 | [180057-crankies-workshop-bozzbot-assembly.json](./180057-crankies-workshop-bozzbot-assembly.json) |
 | Crankies Workshop: Grizzbot Assembly | 180067 | [180067-crankies-workshop-grizzbot-assembly.json](./180067-crankies-workshop-grizzbot-assembly.json) |
@@ -9637,6 +9642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Bugs! | 248572 | [248572-crazy-bugs.json](./248572-crazy-bugs.json) |
 | Crazy Bus | 268477 | [268477-crazy-bus.json](./268477-crazy-bus.json) |
 | Crazy Cakes | 366415 | [366415-crazy-cakes.json](./366415-crazy-cakes.json) |
+| Crazy Cakes 2 | 354969 | [354969-crazy-cakes-2.json](./354969-crazy-cakes-2.json) |
 | Crazy Candy | 318528 | [318528-crazy-candy.json](./318528-crazy-candy.json) |
 | Crazy Candydish | 284987 | [284987-crazy-candydish.json](./284987-crazy-candydish.json) |
 | Crazy Captain Cannon: Mission - Billionaire Buster | 382437 | [382437-crazy-captain-cannon-mission-billionaire-buster.json](./382437-crazy-captain-cannon-mission-billionaire-buster.json) |
@@ -10522,6 +10528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crossword Champ | 58273 | [58273-crossword-champ.json](./58273-crossword-champ.json) |
 | Crossword City Chronicles | 166001 | [166001-crossword-city-chronicles.json](./166001-crossword-city-chronicles.json) |
 | Crossword Cove | 366416 | [366416-crossword-cove.json](./366416-crossword-cove.json) |
+| Crossword Cove HD | 354970 | [354970-crossword-cove-hd.json](./354970-crossword-cove-hd.json) |
 | Crossword Dungeon | 208017 | [208017-crossword-dungeon.json](./208017-crossword-dungeon.json) |
 | Crossword Explorer | 406089 | [406089-crossword-explorer.json](./406089-crossword-explorer.json) |
 | Crossword Go | 303106 | [303106-crossword-go.json](./303106-crossword-go.json) |
