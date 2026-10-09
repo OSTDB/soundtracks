@@ -255,6 +255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Game About Selling Used Games | 379505 | [379505-a-game-about-selling-used-games.json](./379505-a-game-about-selling-used-games.json) |
 | A Game About You | 379504 | [379504-a-game-about-you.json](./379504-a-game-about-you.json) |
 | A Game of Concentration | 40723 | [40723-a-game-of-concentration.json](./40723-a-game-of-concentration.json) |
+| A Game of D.I.C.E. | 373905 | [373905-a-game-of-d-i-c-e.json](./373905-a-game-of-d-i-c-e.json) |
 | A Game of Dwarves: Pets | 156166 | [156166-a-game-of-dwarves-pets.json](./156166-a-game-of-dwarves-pets.json) |
 | A Game of Dwarves: Star Dwarves | 171034 | [171034-a-game-of-dwarves-star-dwarves.json](./171034-a-game-of-dwarves-star-dwarves.json) |
 | A Game of Tennis | 92621 | [92621-a-game-of-tennis.json](./92621-a-game-of-tennis.json) |
@@ -8531,6 +8532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ashen of Thrones | 413886 | [413886-ashen-of-thrones.json](./413886-ashen-of-thrones.json) |
 | Ashen Sky | 299596 | [299596-ashen-sky.json](./299596-ashen-sky.json) |
 | Ashen Throne | 399765 | [399765-ashen-throne.json](./399765-ashen-throne.json) |
+| Ashen Vow | 373852 | [373852-ashen-vow.json](./373852-ashen-vow.json) |
 | Ashen World | 379451 | [379451-ashen-world.json](./379451-ashen-world.json) |
 | Asher | 33483 | [33483-asher.json](./33483-asher.json) |
 | Asher Descent | 405612 | [405612-asher-descent.json](./405612-asher-descent.json) |
@@ -9275,6 +9277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astronots | 191038 | [191038-astronots.json](./191038-astronots.json) |
 | AstronTycoon | 100527 | [100527-astrontycoon.json](./100527-astrontycoon.json) |
 | Astronut | 92128 | [92128-astronut.json](./92128-astronut.json) |
+| Astroops | 373860 | [373860-astroops.json](./373860-astroops.json) |
 | Astropark | 353380 | [353380-astropark.json](./353380-astropark.json) |
 | Astrophidia | 409682 | [409682-astrophidia.json](./409682-astrophidia.json) |
 | Astropocalypse | 289033 | [289033-astropocalypse.json](./289033-astropocalypse.json) |
