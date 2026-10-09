@@ -3499,6 +3499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Emblem Echoes: Shadows of Valentia - Limited Edition | 136336 | [136336-fire-emblem-echoes-shadows-of-valentia-limited-edition.json](./136336-fire-emblem-echoes-shadows-of-valentia-limited-edition.json) |
 | Fire Emblem Engage: Fell Xenologue | 246450 | [246450-fire-emblem-engage-fell-xenologue.json](./246450-fire-emblem-engage-fell-xenologue.json) |
 | Fire Emblem Fates: Birthright | 24220 | [24220-fire-emblem-fates-birthright.json](./24220-fire-emblem-fates-birthright.json) |
+| Fire Emblem Fates: V.O.W Edition | 337600 | [337600-fire-emblem-fates-v-o-w-edition.json](./337600-fire-emblem-fates-v-o-w-edition.json) |
 | Fire Emblem Heroes | 26841 | [26841-fire-emblem-heroes.json](./26841-fire-emblem-heroes.json) |
 | Fire Emblem Warriors + Season Pass Bundle | 294234 | [294234-fire-emblem-warriors-season-pass-bundle.json](./294234-fire-emblem-warriors-season-pass-bundle.json) |
 | Fire Emblem Warriors: Season Pass | 294235 | [294235-fire-emblem-warriors-season-pass.json](./294235-fire-emblem-warriors-season-pass.json) |
