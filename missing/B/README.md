@@ -774,6 +774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balatro: Friends of Jimbo | 314927 | [314927-balatro-friends-of-jimbo.json](./314927-balatro-friends-of-jimbo.json) |
 | Balatro: Special Edition | 323893 | [323893-balatro-special-edition.json](./323893-balatro-special-edition.json) |
 | Balconing Simulator 2020 | 127988 | [127988-balconing-simulator-2020.json](./127988-balconing-simulator-2020.json) |
+| Bald Bull's Punch-Out!! | 356061 | [356061-bald-bulls-punch-out.json](./356061-bald-bulls-punch-out.json) |
 | Bald Man Climbs Up | 260988 | [260988-bald-man-climbs-up.json](./260988-bald-man-climbs-up.json) |
 | Baldi's Basics 1 Year Birthday Bash! | 176497 | [176497-baldis-basics-1-year-birthday-bash.json](./176497-baldis-basics-1-year-birthday-bash.json) |
 | Baldi's Basics in 2D | 406248 | [406248-baldis-basics-in-2d.json](./406248-baldis-basics-in-2d.json) |
@@ -2223,6 +2224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Fleet | 91333 | [91333-battle-fleet.json](./91333-battle-fleet.json) |
 | Battle Fleet 2 | 36182 | [36182-battle-fleet-2.json](./36182-battle-fleet-2.json) |
 | Battle Flip Shot | 39667 | [39667-battle-flip-shot.json](./39667-battle-flip-shot.json) |
+| Battle for Agatharia | 356038 | [356038-battle-for-agatharia.json](./356038-battle-for-agatharia.json) |
 | Battle for Atlantis | 341135 | [341135-battle-for-atlantis.json](./341135-battle-for-atlantis.json) |
 | Battle for Borders | 236802 | [236802-battle-for-borders.json](./236802-battle-for-borders.json) |
 | Battle for Cloud 9 | 337285 | [337285-battle-for-cloud-9.json](./337285-battle-for-cloud-9.json) |
@@ -4652,6 +4654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Billy's Boot Camp: Wii de Enjoy Diet! | 136884 | [136884-billys-boot-camp-wii-de-enjoy-diet.json](./136884-billys-boot-camp-wii-de-enjoy-diet.json) |
 | Billy's Bootcamp | 92601 | [92601-billys-bootcamp.json](./92601-billys-bootcamp.json) |
 | Billy's Nightmare | 176811 | [176811-billys-nightmare.json](./176811-billys-nightmare.json) |
+| Bilson | 356019 | [356019-bilson.json](./356019-bilson.json) |
 | Bilspel | 79334 | [79334-bilspel.json](./79334-bilspel.json) |
 | Biluo Story | 111674 | [111674-biluo-story.json](./111674-biluo-story.json) |
 | Bima-X | 60056 | [60056-bima-x.json](./60056-bima-x.json) |
@@ -8420,6 +8423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boxing Saga | 31364 | [31364-boxing-saga.json](./31364-boxing-saga.json) |
 | Boxing School | 110119 | [110119-boxing-school.json](./110119-boxing-school.json) |
 | Boxing School II | 342182 | [342182-boxing-school-ii.json](./342182-boxing-school-ii.json) |
+| Boxing Simulator | 356026 | [356026-boxing-simulator.json](./356026-boxing-simulator.json) |
 | Boxing Star | 105868 | [105868-boxing-star.json](./105868-boxing-star.json) |
 | Boxing Surgery Simulator 2000 | 183515 | [183515-boxing-surgery-simulator-2000.json](./183515-boxing-surgery-simulator-2000.json) |
 | BoxLoop | 207542 | [207542-boxloop.json](./207542-boxloop.json) |
@@ -9910,6 +9914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bugger Off! | 278712 | [278712-bugger-off.json](./278712-bugger-off.json) |
 | Buggle Blast | 255721 | [255721-buggle-blast.json](./255721-buggle-blast.json) |
 | Buggos 2 | 342787 | [342787-buggos-2.json](./342787-buggos-2.json) |
+| Buggy | 356042 | [356042-buggy.json](./356042-buggy.json) |
 | Buggy Boogie | 66677 | [66677-buggy-boogie.json](./66677-buggy-boogie.json) |
 | Buggy Boy | 12728 | [12728-buggy-boy.json](./12728-buggy-boy.json) |
 | Buggy Game | 192890 | [192890-buggy-game.json](./192890-buggy-game.json) |
