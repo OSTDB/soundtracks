@@ -3906,6 +3906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deponia: The Complete Journey | 17224 | [17224-deponia-the-complete-journey.json](./17224-deponia-the-complete-journey.json) |
 | Deported 2: Build That Wall | 112784 | [112784-deported-2-build-that-wall.json](./112784-deported-2-build-that-wall.json) |
 | Deported: Drain the Swamp | 111422 | [111422-deported-drain-the-swamp.json](./111422-deported-drain-the-swamp.json) |
+| DepotDash | 385363 | [385363-depotdash.json](./385363-depotdash.json) |
 | DepowerBall | 126607 | [126607-depowerball.json](./126607-depowerball.json) |
 | Deppart Prototype | 256802 | [256802-deppart-prototype.json](./256802-deppart-prototype.json) |
 | Depper Jar | 329664 | [329664-depper-jar.json](./329664-depper-jar.json) |
@@ -6207,6 +6208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dissolved: Chapter One | 228479 | [228479-dissolved-chapter-one.json](./228479-dissolved-chapter-one.json) |
 | Dissolving | 118821 | [118821-dissolving.json](./118821-dissolving.json) |
 | Dissolving Disarray | 324292 | [324292-dissolving-disarray.json](./324292-dissolving-disarray.json) |
+| Distance | 385378 | [385378-distance.json](./385378-distance.json) |
 | Distance and Mirage | 299118 | [299118-distance-and-mirage.json](./299118-distance-and-mirage.json) |
 | Distance: Console Edition | 309585 | [309585-distance-console-edition.json](./309585-distance-console-edition.json) |
 | DistanceGuessr | 386116 | [386116-distanceguessr.json](./386116-distanceguessr.json) |
@@ -9303,6 +9305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Records | 229745 | [229745-dream-records.json](./229745-dream-records.json) |
 | Dream Riders | 406861 | [406861-dream-riders.json](./406861-dream-riders.json) |
 | Dream RPG | 229599 | [229599-dream-rpg.json](./229599-dream-rpg.json) |
+| Dream Savior | 385359 | [385359-dream-savior.json](./385359-dream-savior.json) |
 | Dream Seed | 257069 | [257069-dream-seed.json](./257069-dream-seed.json) |
 | Dream Sequences | 202247 | [202247-dream-sequences.json](./202247-dream-sequences.json) |
 | Dream Shogi 4K | 391863 | [391863-dream-shogi-4k.json](./391863-dream-shogi-4k.json) |
@@ -9332,6 +9335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Village | 390229 | [390229-dream-village.json](./390229-dream-village.json) |
 | Dream vs. Dream | 212764 | [212764-dream-vs-dream.json](./212764-dream-vs-dream.json) |
 | Dream Walker | 365851 | [365851-dream-walker.json](./365851-dream-walker.json) |
+| Dream Walker | 385395 | [385395-dream-walker.json](./385395-dream-walker.json) |
 | Dream Warrior | 13612 | [13612-dream-warrior.json](./13612-dream-warrior.json) |
 | Dream Warrior | 307899 | [307899-dream-warrior.json](./307899-dream-warrior.json) |
 | Dream Watcher | 142947 | [142947-dream-watcher.json](./142947-dream-watcher.json) |
