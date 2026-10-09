@@ -1162,6 +1162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Negative One | 229779 | [229779-negative-one.json](./229779-negative-one.json) |
 | Negative Reverie | 321744 | [321744-negative-reverie.json](./321744-negative-reverie.json) |
 | Negative Space | 128590 | [128590-negative-space.json](./128590-negative-space.json) |
+| Negative Space | 344328 | [344328-negative-space.json](./344328-negative-space.json) |
 | Negative Time | 390131 | [390131-negative-time.json](./390131-negative-time.json) |
 | Negative Type | 107910 | [107910-negative-type.json](./107910-negative-type.json) |
 | Negative World | 83845 | [83845-negative-world.json](./83845-negative-world.json) |
@@ -2931,6 +2932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Niji Protocol | 384710 | [384710-niji-protocol.json](./384710-niji-protocol.json) |
 | Niji-iro Canvas | 109003 | [109003-niji-iro-canvas.json](./109003-niji-iro-canvas.json) |
 | Nìjiàn 2 | 164947 | [164947-nijian-2.json](./164947-nijian-2.json) |
+| Nijica | 344420 | [344420-nijica.json](./344420-nijica.json) |
 | Nijiiro Twinkle: Guru-guru Daisakusen | 378171 | [378171-nijiiro-twinkle-guru-guru-daisakusen.json](./378171-nijiiro-twinkle-guru-guru-daisakusen.json) |
 | Nijuu Yuumu | 167127 | [167127-nijuu-yuumu.json](./167127-nijuu-yuumu.json) |
 | Nijuuei | 204499 | [204499-nijuuei.json](./204499-nijuuei.json) |
