@@ -4722,6 +4722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hippy Girls | 243062 | [243062-hippy-girls.json](./243062-hippy-girls.json) |
 | Hippy Skate | 183353 | [183353-hippy-skate.json](./183353-hippy-skate.json) |
 | Hippy's Quest | 78362 | [78362-hippys-quest.json](./78362-hippys-quest.json) |
+| Hips N Noses | 368826 | [368826-hips-n-noses.json](./368826-hips-n-noses.json) |
 | Hipster Cafe | 99649 | [99649-hipster-cafe.json](./99649-hipster-cafe.json) |
 | Hipster Chess | 256438 | [256438-hipster-chess.json](./256438-hipster-chess.json) |
 | HiQ Ace | 115771 | [115771-hiq-ace.json](./115771-hiq-ace.json) |
@@ -4821,6 +4822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hit Back | 143658 | [143658-hit-back.json](./143658-hit-back.json) |
 | Hit Him | 195254 | [195254-hit-him.json](./195254-hit-him.json) |
 | Hit Hit Alaska | 326607 | [326607-hit-hit-alaska.json](./326607-hit-hit-alaska.json) |
+| Hit It Back | 368910 | [368910-hit-it-back.json](./368910-hit-it-back.json) |
 | Hit It! | 78918 | [78918-hit-it.json](./78918-hit-it.json) |
 | Hit Marmot | 48897 | [48897-hit-marmot.json](./48897-hit-marmot.json) |
 | Hit N 'Rush | 125355 | [125355-hit-n-rush.json](./125355-hit-n-rush.json) |
