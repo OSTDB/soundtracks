@@ -7255,6 +7255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sker Ritual: Stranger Danger | 241317 | [241317-sker-ritual-stranger-danger.json](./241317-sker-ritual-stranger-danger.json) |
 | Sker Ritual: The Quiet Ones | 235843 | [235843-sker-ritual-the-quiet-ones.json](./235843-sker-ritual-the-quiet-ones.json) |
 | Sketch Doom | 247518 | [247518-sketch-doom.json](./247518-sketch-doom.json) |
+| Sketch Magician | 347100 | [347100-sketch-magician.json](./347100-sketch-magician.json) |
 | Sketch of a job that you had | 184090 | [184090-sketch-of-a-job-that-you-had.json](./184090-sketch-of-a-job-that-you-had.json) |
 | Sketch Tales | 13161 | [13161-sketch-tales.json](./13161-sketch-tales.json) |
 | Sketch, Share, Solve: Video Games & Animals | 341154 | [341154-sketch-share-solve-video-games-and-animals.json](./341154-sketch-share-solve-video-games-and-animals.json) |
@@ -16679,6 +16680,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strangers in a Strange Land | 44202 | [44202-strangers-in-a-strange-land.json](./44202-strangers-in-a-strange-land.json) |
 | Strangers In The Land Of Turnabouts | 303247 | [303247-strangers-in-the-land-of-turnabouts.json](./303247-strangers-in-the-land-of-turnabouts.json) |
 | Strangers Lurk | 335263 | [335263-strangers-lurk.json](./335263-strangers-lurk.json) |
+| Strangers of the Power 2: Forgotten Evil | 347194 | [347194-strangers-of-the-power-2-forgotten-evil.json](./347194-strangers-of-the-power-2-forgotten-evil.json) |
+| Strangers of the Power 2: Pain Queen Character | 347199 | [347199-strangers-of-the-power-2-pain-queen-character.json](./347199-strangers-of-the-power-2-pain-queen-character.json) |
 | Strangers of the Power 3 | 116323 | [116323-strangers-of-the-power-3.json](./116323-strangers-of-the-power-3.json) |
 | Strangers on Paper | 259143 | [259143-strangers-on-paper.json](./259143-strangers-on-paper.json) |
 | Strangers World: The Swarm | 236365 | [236365-strangers-world-the-swarm.json](./236365-strangers-world-the-swarm.json) |
@@ -20157,6 +20160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Words | 258216 | [258216-super-words.json](./258216-super-words.json) |
 | Super World Run: Bosses | 253004 | [253004-super-world-run-bosses.json](./253004-super-world-run-bosses.json) |
 | Super World Stadium '99 | 311293 | [311293-super-world-stadium-99.json](./311293-super-world-stadium-99.json) |
+| Super Worms | 347103 | [347103-super-worms.json](./347103-super-worms.json) |
 | Super Wrestle Angels | 38288 | [38288-super-wrestle-angels.json](./38288-super-wrestle-angels.json) |
 | Super Wrestlers: Slap's Fury | 355152 | [355152-super-wrestlers-slaps-fury.json](./355152-super-wrestlers-slaps-fury.json) |
 | Super Wumpus | 152915 | [152915-super-wumpus.json](./152915-super-wumpus.json) |
