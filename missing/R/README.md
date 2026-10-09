@@ -7380,6 +7380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rune: Gold | 300409 | [300409-rune-gold.json](./300409-rune-gold.json) |
 | Runebook | 413777 | [413777-runebook.json](./413777-runebook.json) |
 | Runebound | 390671 | [390671-runebound.json](./390671-runebound.json) |
+| Runebound Bastion | 368290 | [368290-runebound-bastion.json](./368290-runebound-bastion.json) |
 | Runecraft | 304644 | [304644-runecraft.json](./304644-runecraft.json) |
 | Runefall | 27184 | [27184-runefall.json](./27184-runefall.json) |
 | Runefall 2: Collector's Edition | 221696 | [221696-runefall-2-collectors-edition.json](./221696-runefall-2-collectors-edition.json) |
