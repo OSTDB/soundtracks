@@ -1677,6 +1677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 7 Days a Skeptic | 73478 | [73478-7-days-a-skeptic.json](./73478-7-days-a-skeptic.json) |
 | 7 Days Devil | 373016 | [373016-7-days-devil.json](./373016-7-days-devil.json) |
 | 7 Days of Summer: Lost Alpha | 335653 | [335653-7-days-of-summer-lost-alpha.json](./335653-7-days-of-summer-lost-alpha.json) |
+| 7 Days Shrine | 340396 | [340396-7-days-shrine.json](./340396-7-days-shrine.json) |
 | 7 Days to Die | 5574 | [5574-7-days-to-die.json](./5574-7-days-to-die.json) |
 | 7 Days to Die: The Desert Armor Set | 353298 | [353298-7-days-to-die-the-desert-armor-set.json](./353298-7-days-to-die-the-desert-armor-set.json) |
 | 7 Days to Die: The Hoarder Armor Set | 353300 | [353300-7-days-to-die-the-hoarder-armor-set.json](./353300-7-days-to-die-the-hoarder-armor-set.json) |
