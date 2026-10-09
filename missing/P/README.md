@@ -7139,6 +7139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pony World: Color by Numbers | 279874 | [279874-pony-world-color-by-numbers.json](./279874-pony-world-color-by-numbers.json) |
 | Poo Poo War | 371404 | [371404-poo-poo-war.json](./371404-poo-poo-war.json) |
 | Poo Pusher | 309690 | [309690-poo-pusher.json](./309690-poo-pusher.json) |
+| Poobo | 383160 | [383160-poobo.json](./383160-poobo.json) |
 | Poodle Kick | 391608 | [391608-poodle-kick.json](./391608-poodle-kick.json) |
 | Poöf vs. The Cursed Kitty | 10712 | [10712-poof-vs-the-cursed-kitty.json](./10712-poof-vs-the-cursed-kitty.json) |
 | Poofie Plays God | 341563 | [341563-poofie-plays-god.json](./341563-poofie-plays-god.json) |
@@ -8390,6 +8391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Princess Maker Refine | 27317 | [27317-princess-maker-refine.json](./27317-princess-maker-refine.json) |
 | Princess Maker: Children of Revelation | 316082 | [316082-princess-maker-children-of-revelation.json](./316082-princess-maker-children-of-revelation.json) |
 | Princess Maker: Faery Tales Come True | 127847 | [127847-princess-maker-faery-tales-come-true.json](./127847-princess-maker-faery-tales-come-true.json) |
+| Princess Miner | 383149 | [383149-princess-miner.json](./383149-princess-miner.json) |
 | Princess Miyumi and The Necro's Dungeon | 183570 | [183570-princess-miyumi-and-the-necros-dungeon.json](./183570-princess-miyumi-and-the-necros-dungeon.json) |
 | Princess Nightmare | 72674 | [72674-princess-nightmare.json](./72674-princess-nightmare.json) |
 | Princess Nom Nom | 261999 | [261999-princess-nom-nom.json](./261999-princess-nom-nom.json) |
@@ -8859,6 +8861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Professor Doctor Jetpack | 301268 | [301268-professor-doctor-jetpack.json](./301268-professor-doctor-jetpack.json) |
 | Professor Fizzwizzle | 78943 | [78943-professor-fizzwizzle.json](./78943-professor-fizzwizzle.json) |
 | Professor Fizzwizzle and the Molten Mystery | 16175 | [16175-professor-fizzwizzle-and-the-molten-mystery.json](./16175-professor-fizzwizzle-and-the-molten-mystery.json) |
+| Professor Galaktionov Dawn of the Robopocalypse | 383156 | [383156-professor-galaktionov-dawn-of-the-robopocalypse.json](./383156-professor-galaktionov-dawn-of-the-robopocalypse.json) |
 | Professor Goodboi's Ballistics | 248654 | [248654-professor-goodbois-ballistics.json](./248654-professor-goodbois-ballistics.json) |
 | Professor Heinz Wolff's Gravity | 5109 | [5109-professor-heinz-wolffs-gravity.json](./5109-professor-heinz-wolffs-gravity.json) |
 | Professor Layton and the Azran Legacy | 1403 | [1403-professor-layton-and-the-azran-legacy.json](./1403-professor-layton-and-the-azran-legacy.json) |
@@ -9825,6 +9828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Public Fears: George's Farm | 408010 | [408010-public-fears-georges-farm.json](./408010-public-fears-georges-farm.json) |
 | Public Restroom Simulator 2022 | 213321 | [213321-public-restroom-simulator-2022.json](./213321-public-restroom-simulator-2022.json) |
 | Public Toilet Simulator | 340591 | [340591-public-toilet-simulator.json](./340591-public-toilet-simulator.json) |
+| Public Transport SImulator | 383133 | [383133-public-transport-simulator.json](./383133-public-transport-simulator.json) |
 | Public Transport Simulator 2 | 333737 | [333737-public-transport-simulator-2.json](./333737-public-transport-simulator-2.json) |
 | Publish or Perish | 298241 | [298241-publish-or-perish.json](./298241-publish-or-perish.json) |
 | Pucca Jam | 260118 | [260118-pucca-jam.json](./260118-pucca-jam.json) |
@@ -10487,6 +10491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Galaxy: Drawings Bundle | 214000 | [214000-puzzle-galaxy-drawings-bundle.json](./214000-puzzle-galaxy-drawings-bundle.json) |
 | Puzzle Galaxy: Moody Pics - 57 new puzzles | 378864 | [378864-puzzle-galaxy-moody-pics-57-new-puzzles.json](./378864-puzzle-galaxy-moody-pics-57-new-puzzles.json) |
 | Puzzle Galaxy: Pet Show - 57 new puzzles | 378865 | [378865-puzzle-galaxy-pet-show-57-new-puzzles.json](./378865-puzzle-galaxy-pet-show-57-new-puzzles.json) |
+| Puzzle Gallery: Jigsaw Art Collection | 383155 | [383155-puzzle-gallery-jigsaw-art-collection.json](./383155-puzzle-gallery-jigsaw-art-collection.json) |
 | Puzzle Game | 263775 | [263775-puzzle-game.json](./263775-puzzle-game.json) |
 | Puzzle Game | 366919 | [366919-puzzle-game.json](./366919-puzzle-game.json) |
 | Puzzle Game | 97201 | [97201-puzzle-game.json](./97201-puzzle-game.json) |
