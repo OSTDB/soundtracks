@@ -9206,6 +9206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Chase | 60566 | [60566-monster-chase.json](./60566-monster-chase.json) |
 | Monster Chef | 91086 | [91086-monster-chef.json](./91086-monster-chef.json) |
 | Monster Chronicle | 56473 | [56473-monster-chronicle.json](./56473-monster-chronicle.json) |
+| Monster City: A Monster College Story | 370576 | [370576-monster-city-a-monster-college-story.json](./370576-monster-city-a-monster-college-story.json) |
 | Monster Clash 2 | 205591 | [205591-monster-clash-2.json](./205591-monster-clash-2.json) |
 | Monster Claws 5 | 357408 | [357408-monster-claws-5.json](./357408-monster-claws-5.json) |
 | Monster Clicker : Idle Halloween Strategy | 111862 | [111862-monster-clicker-idle-halloween-strategy.json](./111862-monster-clicker-idle-halloween-strategy.json) |
@@ -11966,6 +11967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Favorite Match | 179510 | [179510-my-favorite-match.json](./179510-my-favorite-match.json) |
 | My Favorite Monster | 261305 | [261305-my-favorite-monster.json](./261305-my-favorite-monster.json) |
 | My Favourite T-Shirt | 398540 | [398540-my-favourite-t-shirt.json](./398540-my-favourite-t-shirt.json) |
+| My Femboy Maid | 370471 | [370471-my-femboy-maid.json](./370471-my-femboy-maid.json) |
 | My Final Cursed Days - Cursed Transformation Version | 336621 | [336621-my-final-cursed-days-cursed-transformation-version.json](./336621-my-final-cursed-days-cursed-transformation-version.json) |
 | My First Date RPG | 169431 | [169431-my-first-date-rpg.json](./169431-my-first-date-rpg.json) |
 | My First Date RPG 2 | 196813 | [196813-my-first-date-rpg-2.json](./196813-my-first-date-rpg-2.json) |
