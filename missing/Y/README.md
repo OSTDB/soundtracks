@@ -164,6 +164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yandere Lover | 82076 | [82076-yandere-lover.json](./82076-yandere-lover.json) |
 | Yandere na Onee-chan ni Aishitsukusareru Kankin Seikatsu | 97470 | [97470-yandere-na-onee-chan-ni-aishitsukusareru-kankin-seikatsu.json](./97470-yandere-na-onee-chan-ni-aishitsukusareru-kankin-seikatsu.json) |
 | Yandere no Sutoka | 285048 | [285048-yandere-no-sutoka.json](./285048-yandere-no-sutoka.json) |
+| Yandere Okami vs. Bouryoku Akazukin | 335974 | [335974-yandere-okami-vs-bouryoku-akazukin.json](./335974-yandere-okami-vs-bouryoku-akazukin.json) |
 | Yandere Onii-san ni Sokubaku Kankin Sarechau Game! | 285990 | [285990-yandere-onii-san-ni-sokubaku-kankin-sarechau-game.json](./285990-yandere-onii-san-ni-sokubaku-kankin-sarechau-game.json) |
 | Yandere Simulator: Midori Adventure - The Visual Novel | 296375 | [296375-yandere-simulator-midori-adventure-the-visual-novel.json](./296375-yandere-simulator-midori-adventure-the-visual-novel.json) |
 | Yandere Tensei: I Can't Beat The Programming! | 321421 | [321421-yandere-tensei-i-cant-beat-the-programming.json](./321421-yandere-tensei-i-cant-beat-the-programming.json) |
@@ -1100,6 +1101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yuka: Scattered Shards of the Yokai | 247461 | [247461-yuka-scattered-shards-of-the-yokai.json](./247461-yuka-scattered-shards-of-the-yokai.json) |
 | Yukai de Kudaranai Game | 331875 | [331875-yukai-de-kudaranai-game.json](./331875-yukai-de-kudaranai-game.json) |
 | Yukar From the Abyss | 216808 | [216808-yukar-from-the-abyss.json](./216808-yukar-from-the-abyss.json) |
+| Yuki Koi Melt | 335976 | [335976-yuki-koi-melt.json](./335976-yuki-koi-melt.json) |
 | Yuki Nime | 229730 | [229730-yuki-nime.json](./229730-yuki-nime.json) |
 | Yuki Onna | 126993 | [126993-yuki-onna.json](./126993-yuki-onna.json) |
 | Yuki: Space Ranger | 159032 | [159032-yuki-space-ranger.json](./159032-yuki-space-ranger.json) |
