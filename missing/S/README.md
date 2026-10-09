@@ -3812,6 +3812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sexy Chicken Girl Kisses Rotten Rabbit Man | 385353 | [385353-sexy-chicken-girl-kisses-rotten-rabbit-man.json](./385353-sexy-chicken-girl-kisses-rotten-rabbit-man.json) |
 | Sexy Comedy: It Was a Mistake | 110529 | [110529-sexy-comedy-it-was-a-mistake.json](./110529-sexy-comedy-it-was-a-mistake.json) |
 | Sexy Cyberpunk Puzzle | 244881 | [244881-sexy-cyberpunk-puzzle.json](./244881-sexy-cyberpunk-puzzle.json) |
+| Sexy Dream Girl: Puzzle | 384872 | [384872-sexy-dream-girl-puzzle.json](./384872-sexy-dream-girl-puzzle.json) |
 | Sexy Elf | 226199 | [226199-sexy-elf.json](./226199-sexy-elf.json) |
 | Sexy Erotic Xtreme Club | 362363 | [362363-sexy-erotic-xtreme-club.json](./362363-sexy-erotic-xtreme-club.json) |
 | Sexy Exile | 195610 | [195610-sexy-exile.json](./195610-sexy-exile.json) |
@@ -3821,6 +3822,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sexy Girls Puzzle | 109706 | [109706-sexy-girls-puzzle.json](./109706-sexy-girls-puzzle.json) |
 | Sexy Glasses | 349866 | [349866-sexy-glasses.json](./349866-sexy-glasses.json) |
 | Sexy Hentai Puzzle | 214189 | [214189-sexy-hentai-puzzle.json](./214189-sexy-hentai-puzzle.json) |
+| Sexy Heroine! | 384868 | [384868-sexy-heroine.json](./384868-sexy-heroine.json) |
+| Sexy Heroine! Part 2 | 384871 | [384871-sexy-heroine-part-2.json](./384871-sexy-heroine-part-2.json) |
 | Sexy Hiking | 63138 | [63138-sexy-hiking.json](./63138-sexy-hiking.json) |
 | Sexy Invaders | 41355 | [41355-sexy-invaders.json](./41355-sexy-invaders.json) |
 | Sexy Iron Maidens | 279083 | [279083-sexy-iron-maidens.json](./279083-sexy-iron-maidens.json) |
@@ -3828,6 +3831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sexy Ladies | 264633 | [264633-sexy-ladies.json](./264633-sexy-ladies.json) |
 | Sexy Match | 382281 | [382281-sexy-match.json](./382281-sexy-match.json) |
 | Sexy Memory Puzzle: Gamer Girl | 312685 | [312685-sexy-memory-puzzle-gamer-girl.json](./312685-sexy-memory-puzzle-gamer-girl.json) |
+| Sexy Memory Puzzle: Kawaii | 384873 | [384873-sexy-memory-puzzle-kawaii.json](./384873-sexy-memory-puzzle-kawaii.json) |
 | Sexy Memory Puzzle: Pool Massage | 319238 | [319238-sexy-memory-puzzle-pool-massage.json](./319238-sexy-memory-puzzle-pool-massage.json) |
 | Sexy Memory Puzzle: Spanking Girls | 248658 | [248658-sexy-memory-puzzle-spanking-girls.json](./248658-sexy-memory-puzzle-spanking-girls.json) |
 | Sexy Milfs | 230905 | [230905-sexy-milfs.json](./230905-sexy-milfs.json) |
@@ -6703,6 +6707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sine Die | 256856 | [256856-sine-die.json](./256856-sine-die.json) |
 | Sine Mora | 10832 | [10832-sine-mora.json](./10832-sine-mora.json) |
 | Sine Mora EX | 27666 | [27666-sine-mora-ex.json](./27666-sine-mora-ex.json) |
+| Sineus Arena Survivors | 384856 | [384856-sineus-arena-survivors.json](./384856-sineus-arena-survivors.json) |
 | Sinew | 369587 | [369587-sinew.json](./369587-sinew.json) |
 | Sinewave | 115172 | [115172-sinewave.json](./115172-sinewave.json) |
 | Sinfeld Remastered | 182338 | [182338-sinfeld-remastered.json](./182338-sinfeld-remastered.json) |
@@ -7936,6 +7941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SlideNSlip | 166774 | [166774-slidenslip.json](./166774-slidenslip.json) |
 | Slider | 103172 | [103172-slider.json](./103172-slider.json) |
 | Slider | 199357 | [199357-slider.json](./199357-slider.json) |
+| Slider | 384824 | [384824-slider.json](./384824-slider.json) |
 | Slider Scouts | 340387 | [340387-slider-scouts.json](./340387-slider-scouts.json) |
 | Slidercrash | 251656 | [251656-slidercrash.json](./251656-slidercrash.json) |
 | SlideRow | 120355 | [120355-sliderow.json](./120355-sliderow.json) |
@@ -11141,6 +11147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sound Shooting!! Rhythm Shooter | 362812 | [362812-sound-shooting-rhythm-shooter.json](./362812-sound-shooting-rhythm-shooter.json) |
 | Sound Slide | 114378 | [114378-sound-slide.json](./114378-sound-slide.json) |
 | Sound Soarer | 74357 | [74357-sound-soarer.json](./74357-sound-soarer.json) |
+| Sound System | 384862 | [384862-sound-system.json](./384862-sound-system.json) |
 | Sound Voltex Booth | 64128 | [64128-sound-voltex-booth.json](./64128-sound-voltex-booth.json) |
 | Sound Voltex II: Infinite Infection | 39859 | [39859-sound-voltex-ii-infinite-infection.json](./39859-sound-voltex-ii-infinite-infection.json) |
 | Sound Voltex III Gravity Wars: e-amusement cloud | 55948 | [55948-sound-voltex-iii-gravity-wars-e-amusement-cloud.json](./55948-sound-voltex-iii-gravity-wars-e-amusement-cloud.json) |
