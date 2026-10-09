@@ -299,6 +299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lafuma Unlimit 2 | 94694 | [94694-lafuma-unlimit-2.json](./94694-lafuma-unlimit-2.json) |
 | Lag Simulator | 343958 | [343958-lag-simulator.json](./343958-lag-simulator.json) |
 | Lagaf': Les Aventures de Moktar: Vol 1 - La Zoubida | 307197 | [307197-lagaf-les-aventures-de-moktar-vol-1-la-zoubida.json](./307197-lagaf-les-aventures-de-moktar-vol-1-la-zoubida.json) |
+| Laggerjack | 334813 | [334813-laggerjack.json](./334813-laggerjack.json) |
 | Lagnacure Legend | 93533 | [93533-lagnacure-legend.json](./93533-lagnacure-legend.json) |
 | Lagoon | 276473 | [276473-lagoon.json](./276473-lagoon.json) |
 | Lagoon Lounge: The Poisonous Fountain | 102437 | [102437-lagoon-lounge-the-poisonous-fountain.json](./102437-lagoon-lounge-the-poisonous-fountain.json) |
