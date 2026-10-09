@@ -6985,6 +6985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives 2: Galactic Warriors | 377686 | [377686-arcade-archives-2-galactic-warriors.json](./377686-arcade-archives-2-galactic-warriors.json) |
 | Arcade Archives 2: Gee Bee | 371415 | [371415-arcade-archives-2-gee-bee.json](./371415-arcade-archives-2-gee-bee.json) |
 | Arcade Archives 2: Hyper Crash | 409672 | [409672-arcade-archives-2-hyper-crash.json](./409672-arcade-archives-2-hyper-crash.json) |
+| Arcade Archives 2: Mach Breakers | 365534 | [365534-arcade-archives-2-mach-breakers.json](./365534-arcade-archives-2-mach-breakers.json) |
 | Arcade Archives 2: Moon Shuttle | 408159 | [408159-arcade-archives-2-moon-shuttle.json](./408159-arcade-archives-2-moon-shuttle.json) |
 | Arcade Archives 2: Mouser | 411153 | [411153-arcade-archives-2-mouser.json](./411153-arcade-archives-2-mouser.json) |
 | Arcade Archives 2: Munch Mobile | 374668 | [374668-arcade-archives-2-munch-mobile.json](./374668-arcade-archives-2-munch-mobile.json) |
@@ -7091,6 +7092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Legend of Makai | 147085 | [147085-arcade-archives-legend-of-makai.json](./147085-arcade-archives-legend-of-makai.json) |
 | Arcade Archives: Life Force | 96365 | [96365-arcade-archives-life-force.json](./96365-arcade-archives-life-force.json) |
 | Arcade Archives: Lightning Fighters | 147112 | [147112-arcade-archives-lightning-fighters.json](./147112-arcade-archives-lightning-fighters.json) |
+| Arcade Archives: Mach Breakers | 365535 | [365535-arcade-archives-mach-breakers.json](./365535-arcade-archives-mach-breakers.json) |
 | Arcade Archives: Magical Speed | 237356 | [237356-arcade-archives-magical-speed.json](./237356-arcade-archives-magical-speed.json) |
 | Arcade Archives: MagMax | 99562 | [99562-arcade-archives-magmax.json](./99562-arcade-archives-magmax.json) |
 | Arcade Archives: Märchen Maze | 330745 | [330745-arcade-archives-marchen-maze.json](./330745-arcade-archives-marchen-maze.json) |
@@ -9522,8 +9524,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atelier Resleriana: The Red Alchemist & The White Guardian - Additional Characters: Resna and Valeria | 375157 | [375157-atelier-resleriana-the-red-alchemist-and-the-white-guardian-additional-characters-resna-and-valeria.json](./375157-atelier-resleriana-the-red-alchemist-and-the-white-guardian-additional-characters-resna-and-valeria.json) |
 | Atelier Resleriana: The Red Alchemist & the White Guardian - Atelier Series Legacy BGM Pack | 380622 | [380622-atelier-resleriana-the-red-alchemist-and-the-white-guardian-atelier-series-legacy-bgm-pack.json](./380622-atelier-resleriana-the-red-alchemist-and-the-white-guardian-atelier-series-legacy-bgm-pack.json) |
 | Atelier Resleriana: The Red Alchemist & The White Guardian - Beginning of Summer Days Costume Set | 375158 | [375158-atelier-resleriana-the-red-alchemist-and-the-white-guardian-beginning-of-summer-days-costume-set.json](./375158-atelier-resleriana-the-red-alchemist-and-the-white-guardian-beginning-of-summer-days-costume-set.json) |
+| Atelier Resleriana: The Red Alchemist & the White Guardian - Digital Deluxe Edition | 365557 | [365557-atelier-resleriana-the-red-alchemist-and-the-white-guardian-digital-deluxe-edition.json](./365557-atelier-resleriana-the-red-alchemist-and-the-white-guardian-digital-deluxe-edition.json) |
 | Atelier Resleriana: The Red Alchemist & The White Guardian - High-Difficulty Dungeon "Backwards-Ticking Clock Workshop" | 375159 | [375159-atelier-resleriana-the-red-alchemist-and-the-white-guardian-high-difficulty-dungeon-backwards-ticking-clock-workshop.json](./375159-atelier-resleriana-the-red-alchemist-and-the-white-guardian-high-difficulty-dungeon-backwards-ticking-clock-workshop.json) |
 | Atelier Resleriana: The Red Alchemist & The White Guardian - Recipe Expansion Pack "The Essence of Alchemy" | 375161 | [375161-atelier-resleriana-the-red-alchemist-and-the-white-guardian-recipe-expansion-pack-the-essence-of-alchemy.json](./375161-atelier-resleriana-the-red-alchemist-and-the-white-guardian-recipe-expansion-pack-the-essence-of-alchemy.json) |
+| Atelier Resleriana: The Red Alchemist & the White Guardian - Ultimate Edition | 365556 | [365556-atelier-resleriana-the-red-alchemist-and-the-white-guardian-ultimate-edition.json](./365556-atelier-resleriana-the-red-alchemist-and-the-white-guardian-ultimate-edition.json) |
 | Atelier Rorona Plus: The Alchemist of Arland | 43039 | [43039-atelier-rorona-plus-the-alchemist-of-arland.json](./43039-atelier-rorona-plus-the-alchemist-of-arland.json) |
 | Atelier Rorona: The Alchemist of Arland | 7275 | [7275-atelier-rorona-the-alchemist-of-arland.json](./7275-atelier-rorona-the-alchemist-of-arland.json) |
 | Atelier Rorona: The Alchemist of Arland - Limited Edition | 44600 | [44600-atelier-rorona-the-alchemist-of-arland-limited-edition.json](./44600-atelier-rorona-the-alchemist-of-arland-limited-edition.json) |
