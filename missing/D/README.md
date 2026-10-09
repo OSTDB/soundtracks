@@ -2835,6 +2835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DecaDungeons | 393043 | [393043-decadungeons.json](./393043-decadungeons.json) |
 | DeCalc | 62972 | [62972-decalc.json](./62972-decalc.json) |
 | Decamped | 157028 | [157028-decamped.json](./157028-decamped.json) |
+| Décapita | 356056 | [356056-decapita.json](./356056-decapita.json) |
 | Decathlon | 242097 | [242097-decathlon.json](./242097-decathlon.json) |
 | Decathlon 2012 | 85078 | [85078-decathlon-2012.json](./85078-decathlon-2012.json) |
 | Decay | 122884 | [122884-decay.json](./122884-decay.json) |
