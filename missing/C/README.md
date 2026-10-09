@@ -2443,6 +2443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catburglar | 406789 | [406789-catburglar.json](./406789-catburglar.json) |
 | Catbusters | 226139 | [226139-catbusters.json](./226139-catbusters.json) |
 | CatCatch | 107759 | [107759-catcatch.json](./107759-catcatch.json) |
+| CatCatMan | 334224 | [334224-catcatman.json](./334224-catcatman.json) |
 | Catch 'Em | 80503 | [80503-catch-em.json](./80503-catch-em.json) |
 | Catch 'Em! Goldfish Scooping | 106973 | [106973-catch-em-goldfish-scooping.json](./106973-catch-em-goldfish-scooping.json) |
 | Catch & Cook | 244231 | [244231-catch-and-cook.json](./244231-catch-and-cook.json) |
@@ -3362,6 +3363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chaordic | 112860 | [112860-chaordic.json](./112860-chaordic.json) |
 | Chaos | 156546 | [156546-chaos.json](./156546-chaos.json) |
 | Chaos | 300015 | [300015-chaos.json](./300015-chaos.json) |
+| Chaos | 334058 | [334058-chaos.json](./334058-chaos.json) |
 | Chaos | 91395 | [91395-chaos.json](./91395-chaos.json) |
 | Chaos Academy | 208057 | [208057-chaos-academy.json](./208057-chaos-academy.json) |
 | Chaos Adventure | 281990 | [281990-chaos-adventure.json](./281990-chaos-adventure.json) |
@@ -3457,6 +3459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chaotic World | 414343 | [414343-chaotic-world.json](./414343-chaotic-world.json) |
 | Chaotic: Shadow Warriors | 197894 | [197894-chaotic-shadow-warriors.json](./197894-chaotic-shadow-warriors.json) |
 | Chaotix CD | 332455 | [332455-chaotix-cd.json](./332455-chaotix-cd.json) |
+| Chaotix Mania | 334064 | [334064-chaotix-mania.json](./334064-chaotix-mania.json) |
 | Chapas GP | 270383 | [270383-chapas-gp.json](./270383-chapas-gp.json) |
 | Chapatriste | 307622 | [307622-chapatriste.json](./307622-chapatriste.json) |
 | Chapeau | 117169 | [117169-chapeau.json](./117169-chapeau.json) |
