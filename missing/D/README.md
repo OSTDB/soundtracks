@@ -10220,6 +10220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dual Orb II | 15907 | [15907-dual-orb-ii.json](./15907-dual-orb-ii.json) |
 | Dual Pack I Awakening: The Goblin Kingdom and Awakening: The Skyward Castle | 201857 | [201857-dual-pack-i-awakening-the-goblin-kingdom-and-awakening-the-skyward-castle.json](./201857-dual-pack-i-awakening-the-goblin-kingdom-and-awakening-the-skyward-castle.json) |
 | Dual Pack I Spirits of Mystery: Song of the Phoenix & Spirits of Mystery: The Dark Minotaur | 201853 | [201853-dual-pack-i-spirits-of-mystery-song-of-the-phoenix-and-spirits-of-mystery-the-dark-minotaur.json](./201853-dual-pack-i-spirits-of-mystery-song-of-the-phoenix-and-spirits-of-mystery-the-dark-minotaur.json) |
+| Dual Paths | 349823 | [349823-dual-paths.json](./349823-dual-paths.json) |
 | Dual Protocol: The Case of Eva & Miles | 407324 | [407324-dual-protocol-the-case-of-eva-and-miles.json](./407324-dual-protocol-the-case-of-eva-and-miles.json) |
 | Dual Souls: The Last Bearer - Complete Edition | 196049 | [196049-dual-souls-the-last-bearer-complete-edition.json](./196049-dual-souls-the-last-bearer-complete-edition.json) |
 | Dual Spin | 241346 | [241346-dual-spin.json](./241346-dual-spin.json) |
