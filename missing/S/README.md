@@ -1499,6 +1499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Save the Puppy: Pet Dog Rescue | 221384 | [221384-save-the-puppy-pet-dog-rescue.json](./221384-save-the-puppy-pet-dog-rescue.json) |
 | Save The Queen | 343783 | [343783-save-the-queen.json](./343783-save-the-queen.json) |
 | Save the Reactor | 190174 | [190174-save-the-reactor.json](./190174-save-the-reactor.json) |
+| Save The Sailboat Race | 334231 | [334231-save-the-sailboat-race.json](./334231-save-the-sailboat-race.json) |
 | Save the Shapes | 380604 | [380604-save-the-shapes.json](./380604-save-the-shapes.json) |
 | Save the Teenies | 256227 | [256227-save-the-teenies.json](./256227-save-the-teenies.json) |
 | Save the throne | 285527 | [285527-save-the-throne.json](./285527-save-the-throne.json) |
@@ -10364,6 +10365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic 3D | 330796 | [330796-sonic-3d.json](./330796-sonic-3d.json) |
 | Sonic 3D Blast | 202967 | [202967-sonic-3d-blast.json](./202967-sonic-3d-blast.json) |
 | Sonic 3D Blast: Director's Cut | 129174 | [129174-sonic-3d-blast-directors-cut.json](./129174-sonic-3d-blast-directors-cut.json) |
+| Sonic 3D Blitz | 334067 | [334067-sonic-3d-blitz.json](./334067-sonic-3d-blitz.json) |
 | Sonic 3D Snowboarding | 302958 | [302958-sonic-3d-snowboarding.json](./302958-sonic-3d-snowboarding.json) |
 | Sonic 3D: No Flickies | 198547 | [198547-sonic-3d-no-flickies.json](./198547-sonic-3d-no-flickies.json) |
 | Sonic 3D40 vs. Counterfeit | 330873 | [330873-sonic-3d40-vs-counterfeit.json](./330873-sonic-3d40-vs-counterfeit.json) |
@@ -10648,6 +10650,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Project Hero Rewired | 413926 | [413926-sonic-project-hero-rewired.json](./413926-sonic-project-hero-rewired.json) |
 | Sonic Putter | 233037 | [233037-sonic-putter.json](./233037-sonic-putter.json) |
 | Sonic Putter | 261251 | [261251-sonic-putter.json](./261251-sonic-putter.json) |
+| Sonic Quantum Collision | 334059 | [334059-sonic-quantum-collision.json](./334059-sonic-quantum-collision.json) |
+| Sonic Quest | 334066 | [334066-sonic-quest.json](./334066-sonic-quest.json) |
 | Sonic Quickie | 326810 | [326810-sonic-quickie.json](./326810-sonic-quickie.json) |
 | Sonic Quickshot | 370268 | [370268-sonic-quickshot.json](./370268-sonic-quickshot.json) |
 | Sonic QWERTY | 266511 | [266511-sonic-qwerty.json](./266511-sonic-qwerty.json) |
@@ -10856,6 +10860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Unleashed | 133942 | [133942-sonic-unleashed.json](./133942-sonic-unleashed.json) |
 | Sonic Unleashed | 133943 | [133943-sonic-unleashed.json](./133943-sonic-unleashed.json) |
 | Sonic Unleashed 3DS | 370488 | [370488-sonic-unleashed-3ds.json](./370488-sonic-unleashed-3ds.json) |
+| Sonic Unleashed: Apotos & Shamar Adventure Pack | 334240 | [334240-sonic-unleashed-apotos-and-shamar-adventure-pack.json](./334240-sonic-unleashed-apotos-and-shamar-adventure-pack.json) |
 | Sonic Unleashed: Chun-nan Adventure Pack | 337214 | [337214-sonic-unleashed-chun-nan-adventure-pack.json](./337214-sonic-unleashed-chun-nan-adventure-pack.json) |
 | Sonic Unleashed: Empire City & Adabat Adventure Pack | 337219 | [337219-sonic-unleashed-empire-city-and-adabat-adventure-pack.json](./337219-sonic-unleashed-empire-city-and-adabat-adventure-pack.json) |
 | Sonic Unleashed: Holoska Adventure Pack | 337217 | [337217-sonic-unleashed-holoska-adventure-pack.json](./337217-sonic-unleashed-holoska-adventure-pack.json) |
@@ -11420,6 +11425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soundless Mound | 262310 | [262310-soundless-mound.json](./262310-soundless-mound.json) |
 | Soundless: Final Verse | 282694 | [282694-soundless-final-verse.json](./282694-soundless-final-verse.json) |
 | SoundLites | 90594 | [90594-soundlites.json](./90594-soundlites.json) |
+| Soundrace | 334238 | [334238-soundrace.json](./334238-soundrace.json) |
 | Sounds of Talent: Kpop Adventure | 116826 | [116826-sounds-of-talent-kpop-adventure.json](./116826-sounds-of-talent-kpop-adventure.json) |
 | Sounds of Verity | 89938 | [89938-sounds-of-verity.json](./89938-sounds-of-verity.json) |
 | Soundsaber | 184660 | [184660-soundsaber.json](./184660-soundsaber.json) |
@@ -14252,6 +14258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stack Slayer | 287745 | [287745-stack-slayer.json](./287745-stack-slayer.json) |
 | Stack Surge | 297003 | [297003-stack-surge.json](./297003-stack-surge.json) |
 | Stack the Countries | 174326 | [174326-stack-the-countries.json](./174326-stack-the-countries.json) |
+| Stack the Pixels | 334225 | [334225-stack-the-pixels.json](./334225-stack-the-pixels.json) |
 | Stack the States | 396755 | [396755-stack-the-states.json](./396755-stack-the-states.json) |
 | Stack the States 2 | 396763 | [396763-stack-the-states-2.json](./396763-stack-the-states-2.json) |
 | Stack to Ascension | 353802 | [353802-stack-to-ascension.json](./353802-stack-to-ascension.json) |
@@ -17520,6 +17527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Styria | 304631 | [304631-styria.json](./304631-styria.json) |
 | Styrlitz 3: Agent USSR | 281656 | [281656-styrlitz-3-agent-ussr.json](./281656-styrlitz-3-agent-ussr.json) |
 | Styrlitz 4: The Matrix - A Step to Death | 281658 | [281658-styrlitz-4-the-matrix-a-step-to-death.json](./281658-styrlitz-4-the-matrix-a-step-to-death.json) |
+| Styscraper | 334230 | [334230-styscraper.json](./334230-styscraper.json) |
 | Styx VR DrumSim | 130296 | [130296-styx-vr-drumsim.json](./130296-styx-vr-drumsim.json) |
 | Styx: Final Shores | 371136 | [371136-styx-final-shores.json](./371136-styx-final-shores.json) |
 | Styx: Master of Shadows | 6072 | [6072-styx-master-of-shadows.json](./6072-styx-master-of-shadows.json) |
@@ -21453,6 +21461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Switch! Love Over Flowers | 298877 | [298877-switch-love-over-flowers.json](./298877-switch-love-over-flowers.json) |
 | Switchball | 21522 | [21522-switchball.json](./21522-switchball.json) |
 | Switchblade | 12788 | [12788-switchblade.json](./12788-switchblade.json) |
+| Switchblade | 334055 | [334055-switchblade.json](./334055-switchblade.json) |
 | Switchblade | 336503 | [336503-switchblade.json](./336503-switchblade.json) |
 | Switchblade | 68106 | [68106-switchblade.json](./68106-switchblade.json) |
 | Switchblade II | 12369 | [12369-switchblade-ii.json](./12369-switchblade-ii.json) |
