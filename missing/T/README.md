@@ -2383,6 +2383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Temple Raid | 74503 | [74503-temple-raid.json](./74503-temple-raid.json) |
 | Temple Roll | 256231 | [256231-temple-roll.json](./256231-temple-roll.json) |
 | Temple Run 2 | 336388 | [336388-temple-run-2.json](./336388-temple-run-2.json) |
+| Temple Run 3 | 380808 | [380808-temple-run-3.json](./380808-temple-run-3.json) |
 | Temple Run: Oz | 63613 | [63613-temple-run-oz.json](./63613-temple-run-oz.json) |
 | Temple Run: Treasure Hunters | 233503 | [233503-temple-run-treasure-hunters.json](./233503-temple-run-treasure-hunters.json) |
 | Temple with Traps | 167166 | [167166-temple-with-traps.json](./167166-temple-with-traps.json) |
@@ -11078,6 +11079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Vanishing | 317969 | [317969-the-vanishing.json](./317969-the-vanishing.json) |
 | The Vanishing of Ethan Carter Redux | 102123 | [102123-the-vanishing-of-ethan-carter-redux.json](./102123-the-vanishing-of-ethan-carter-redux.json) |
 | The Vanishing of Ethan Carter VR | 19065 | [19065-the-vanishing-of-ethan-carter-vr.json](./19065-the-vanishing-of-ethan-carter-vr.json) |
+| The Vanishing Train | 380807 | [380807-the-vanishing-train.json](./380807-the-vanishing-train.json) |
 | THE Variety Game Daishugo: Kingyo Sukui, Card, Suji Puzzle, Nikakudori | 136833 | [136833-the-variety-game-daishugo-kingyo-sukui-card-suji-puzzle-nikakudori.json](./136833-the-variety-game-daishugo-kingyo-sukui-card-suji-puzzle-nikakudori.json) |
 | The Vast White | 325511 | [325511-the-vast-white.json](./325511-the-vast-white.json) |
 | The Vault | 295247 | [295247-the-vault.json](./295247-the-vault.json) |
