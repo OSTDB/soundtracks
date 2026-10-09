@@ -2096,6 +2096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aero the Acro-Bat | 49256 | [49256-aero-the-acro-bat.json](./49256-aero-the-acro-bat.json) |
 | Aero the Acro-Bat 2 | 5349 | [5349-aero-the-acro-bat-2.json](./5349-aero-the-acro-bat-2.json) |
 | Aero The Acro-Bat 2 | 312089 | [312089-aero-the-acro-bat-2.json](./312089-aero-the-acro-bat-2.json) |
+| Aero the Acro-Bat Collection | 375600 | [375600-aero-the-acro-bat-collection.json](./375600-aero-the-acro-bat-collection.json) |
 | Aero The Acro-Bat: Rascal Rival Revenge | 312090 | [312090-aero-the-acro-bat-rascal-rival-revenge.json](./312090-aero-the-acro-bat-rascal-rival-revenge.json) |
 | Aerobat | 18199 | [18199-aerobat.json](./18199-aerobat.json) |
 | Aerobots | 120425 | [120425-aerobots.json](./120425-aerobots.json) |
@@ -2773,6 +2774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aim Trainer Gauntlet | 337802 | [337802-aim-trainer-gauntlet.json](./337802-aim-trainer-gauntlet.json) |
 | Aim Trainer Pro | 81623 | [81623-aim-trainer-pro.json](./81623-aim-trainer-pro.json) |
 | Aim Trainer X | 403223 | [403223-aim-trainer-x.json](./403223-aim-trainer-x.json) |
+| Aim Trainer: With Cats | 375579 | [375579-aim-trainer-with-cats.json](./375579-aim-trainer-with-cats.json) |
 | Aim Zen | 283887 | [283887-aim-zen.json](./283887-aim-zen.json) |
 | Aim/Flash Trainer | 404837 | [404837-aim-flash-trainer.json](./404837-aim-flash-trainer.json) |
 | Aima | 60507 | [60507-aima.json](./60507-aima.json) |
@@ -3932,6 +3934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aliosso | 288767 | [288767-aliosso.json](./288767-aliosso.json) |
 | Alipache in Wonderworld | 204708 | [204708-alipache-in-wonderworld.json](./204708-alipache-in-wonderworld.json) |
 | Aliro1 | 381680 | [381680-aliro1.json](./381680-aliro1.json) |
+| Alisa's Grimoire | 375561 | [375561-alisas-grimoire.json](./375561-alisas-grimoire.json) |
 | Alisa’s Incident Report | 390627 | [390627-alisa-s-incident-report.json](./390627-alisa-s-incident-report.json) |
 | Alisha's Sexual Fear | 373529 | [373529-alishas-sexual-fear.json](./373529-alishas-sexual-fear.json) |
 | Alisia Dragoon | 19508 | [19508-alisia-dragoon.json](./19508-alisia-dragoon.json) |
@@ -5080,6 +5083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | An Eternity Gone By | 294276 | [294276-an-eternity-gone-by.json](./294276-an-eternity-gone-by.json) |
 | An Evening of Wonders | 258941 | [258941-an-evening-of-wonders.json](./258941-an-evening-of-wonders.json) |
 | An evening stroll | 183938 | [183938-an-evening-stroll.json](./183938-an-evening-stroll.json) |
+| An Exorcism | 375556 | [375556-an-exorcism.json](./375556-an-exorcism.json) |
 | An ExScourgeon Through Space and Time! | 180658 | [180658-an-exscourgeon-through-space-and-time.json](./180658-an-exscourgeon-through-space-and-time.json) |
 | An Idle Nightmare | 334839 | [334839-an-idle-nightmare.json](./334839-an-idle-nightmare.json) |
 | An Imp and an Impostor | 378174 | [378174-an-imp-and-an-impostor.json](./378174-an-imp-and-an-impostor.json) |
@@ -5891,6 +5895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Uni 2 | 300730 | [300730-anime-uni-2.json](./300730-anime-uni-2.json) |
 | Anime Uni 3 | 328090 | [328090-anime-uni-3.json](./328090-anime-uni-3.json) |
 | Anime Uni 3D: Hot Vacay | 401560 | [401560-anime-uni-3d-hot-vacay.json](./401560-anime-uni-3d-hot-vacay.json) |
+| Anime Uni 4 | 375566 | [375566-anime-uni-4.json](./375566-anime-uni-4.json) |
 | Anime Uni 6 3D | 389041 | [389041-anime-uni-6-3d.json](./389041-anime-uni-6-3d.json) |
 | Anime Uni St. Patrick’s Puzzle | 394996 | [394996-anime-uni-st-patrick-s-puzzle.json](./394996-anime-uni-st-patrick-s-puzzle.json) |
 | Anime Vampire Slayer | 118421 | [118421-anime-vampire-slayer.json](./118421-anime-vampire-slayer.json) |
