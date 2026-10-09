@@ -5477,6 +5477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shoot. Push. Repeat. | 157081 | [157081-shoot-push-repeat.json](./157081-shoot-push-repeat.json) |
 | Shoot'n'Scroll 3D | 109875 | [109875-shootnscroll-3d.json](./109875-shootnscroll-3d.json) |
 | Shootball Arena | 196641 | [196641-shootball-arena.json](./196641-shootball-arena.json) |
+| Shooter | 359367 | [359367-shooter.json](./359367-shooter.json) |
 | Shooter Bundle: Ghost Assassin, Hotline, Water Blast, Shadowblade, Yori's Journey | 356823 | [356823-shooter-bundle-ghost-assassin-hotline-water-blast-shadowblade-yoris-journey.json](./356823-shooter-bundle-ghost-assassin-hotline-water-blast-shadowblade-yoris-journey.json) |
 | Shooter Game | 107871 | [107871-shooter-game.json](./107871-shooter-game.json) |
 | Shooter League: Robot Goal | 198312 | [198312-shooter-league-robot-goal.json](./198312-shooter-league-robot-goal.json) |
@@ -6891,6 +6892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sinned | 217411 | [217411-sinned.json](./217411-sinned.json) |
 | Sinner | 118817 | [118817-sinner.json](./118817-sinner.json) |
 | Sinner | 291249 | [291249-sinner.json](./291249-sinner.json) |
+| Sinner's Grimoire | 359340 | [359340-sinners-grimoire.json](./359340-sinners-grimoire.json) |
 | Sinners Landing | 235771 | [235771-sinners-landing.json](./235771-sinners-landing.json) |
 | Sinners Landing: Bane of Passion | 401889 | [401889-sinners-landing-bane-of-passion.json](./401889-sinners-landing-bane-of-passion.json) |
 | Sinoda | 363324 | [363324-sinoda.json](./363324-sinoda.json) |
@@ -8809,6 +8811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snake Bricks-Bounce Balls | 106569 | [106569-snake-bricks-bounce-balls.json](./106569-snake-bricks-bounce-balls.json) |
 | Snake Byte | 18507 | [18507-snake-byte.json](./18507-snake-byte.json) |
 | Snake Challenge | 268021 | [268021-snake-challenge.json](./268021-snake-challenge.json) |
+| Snake Charmer | 359366 | [359366-snake-charmer.json](./359366-snake-charmer.json) |
 | Snake Core | 132783 | [132783-snake-core.json](./132783-snake-core.json) |
 | Snake Crayon Run | 251644 | [251644-snake-crayon-run.json](./251644-snake-crayon-run.json) |
 | Snake Crossing | 306382 | [306382-snake-crossing.json](./306382-snake-crossing.json) |
@@ -11007,6 +11010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soshite Kono Sora ni Kirameku Kimi no Uta | 221827 | [221827-soshite-kono-sora-ni-kirameku-kimi-no-uta.json](./221827-soshite-kono-sora-ni-kirameku-kimi-no-uta.json) |
 | Soshite Kono Sora ni Kirameku Kimi no Uta XXX | 221828 | [221828-soshite-kono-sora-ni-kirameku-kimi-no-uta-xxx.json](./221828-soshite-kono-sora-ni-kirameku-kimi-no-uta-xxx.json) |
 | Soshite Suki ni Naru | 375357 | [375357-soshite-suki-ni-naru.json](./375357-soshite-suki-ni-naru.json) |
+| Sosnova | 359356 | [359356-sosnova.json](./359356-sosnova.json) |
 | Sotano | 190036 | [190036-sotano.json](./190036-sotano.json) |
 | Soter | 157139 | [157139-soter.json](./157139-soter.json) |
 | Sotidrokhima | 226396 | [226396-sotidrokhima.json](./226396-sotidrokhima.json) |
