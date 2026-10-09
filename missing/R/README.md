@@ -3662,6 +3662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro TV Game Collection | 196144 | [196144-retro-tv-game-collection.json](./196144-retro-tv-game-collection.json) |
 | Retro Vaders: Reloaded - Classified Projects | 171629 | [171629-retro-vaders-reloaded-classified-projects.json](./171629-retro-vaders-reloaded-classified-projects.json) |
 | Retro Wars | 156092 | [156092-retro-wars.json](./156092-retro-wars.json) |
+| Retro Wars: Episodio IV 1/4 | 341538 | [341538-retro-wars-episodio-iv-1-4.json](./341538-retro-wars-episodio-iv-1-4.json) |
 | Retro Wave | 306370 | [306370-retro-wave.json](./306370-retro-wave.json) |
 | Retro Wing Prime | 113034 | [113034-retro-wing-prime.json](./113034-retro-wing-prime.json) |
 | Retro Winter Sports 1986 | 197241 | [197241-retro-winter-sports-1986.json](./197241-retro-winter-sports-1986.json) |
@@ -6801,6 +6802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roulette | 366926 | [366926-roulette.json](./366926-roulette.json) |
 | Roulette at Aces Casino | 147867 | [147867-roulette-at-aces-casino.json](./147867-roulette-at-aces-casino.json) |
 | Roulette Club | 368547 | [368547-roulette-club.json](./368547-roulette-club.json) |
+| Roulette Hero | 341536 | [341536-roulette-hero.json](./341536-roulette-hero.json) |
 | Roulette Knight | 101008 | [101008-roulette-knight.json](./101008-roulette-knight.json) |
 | Roulette Knight | 178687 | [178687-roulette-knight.json](./178687-roulette-knight.json) |
 | Roulette Pro Simulator | 348299 | [348299-roulette-pro-simulator.json](./348299-roulette-pro-simulator.json) |
