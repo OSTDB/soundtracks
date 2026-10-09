@@ -2186,6 +2186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jungle Jammy | 242565 | [242565-jungle-jammy.json](./242565-jungle-jammy.json) |
 | Jungle Jim | 340781 | [340781-jungle-jim.json](./340781-jungle-jim.json) |
 | Jungle Jinx | 355563 | [355563-jungle-jinx.json](./355563-jungle-jinx.json) |
+| Jungle Jumble | 341454 | [341454-jungle-jumble.json](./341454-jungle-jumble.json) |
 | Jungle Jumperz | 336754 | [336754-jungle-jumperz.json](./336754-jungle-jumperz.json) |
 | Jungle Kong | 367844 | [367844-jungle-kong.json](./367844-jungle-kong.json) |
 | Jungle Maths | 319585 | [319585-jungle-maths.json](./319585-jungle-maths.json) |
