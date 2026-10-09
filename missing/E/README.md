@@ -606,6 +606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eco Warrior Simulator | 151281 | [151281-eco-warrior-simulator.json](./151281-eco-warrior-simulator.json) |
 | Eco-Creatures: Save the Forest | 21280 | [21280-eco-creatures-save-the-forest.json](./21280-eco-creatures-save-the-forest.json) |
 | Eco-Rescue: Project Rainforest | 202165 | [202165-eco-rescue-project-rainforest.json](./202165-eco-rescue-project-rainforest.json) |
+| Eco-Sentinel: The Bottle Mission | 364957 | [364957-eco-sentinel-the-bottle-mission.json](./364957-eco-sentinel-the-bottle-mission.json) |
 | Ecoco de Fight! | 342129 | [342129-ecoco-de-fight.json](./342129-ecoco-de-fight.json) |
 | EcoDriver | 233527 | [233527-ecodriver.json](./233527-ecodriver.json) |
 | EcoGenesis | 292745 | [292745-ecogenesis.json](./292745-ecogenesis.json) |
@@ -963,6 +964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Egypt | 94952 | [94952-egypt.json](./94952-egypt.json) |
 | Egypt 1156 B.C.: Tomb of the Pharaoh | 50398 | [50398-egypt-1156-b-c-tomb-of-the-pharaoh.json](./50398-egypt-1156-b-c-tomb-of-the-pharaoh.json) |
 | Egypt Blocks Puzzle | 180038 | [180038-egypt-blocks-puzzle.json](./180038-egypt-blocks-puzzle.json) |
+| Egypt City Builder | 364971 | [364971-egypt-city-builder.json](./364971-egypt-city-builder.json) |
 | Egypt Collection | 195099 | [195099-egypt-collection.json](./195099-egypt-collection.json) |
 | Egypt Frontiers | 266293 | [266293-egypt-frontiers.json](./266293-egypt-frontiers.json) |
 | Egypt in Space | 343998 | [343998-egypt-in-space.json](./343998-egypt-in-space.json) |
@@ -4257,6 +4259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exaella | 100369 | [100369-exaella.json](./100369-exaella.json) |
 | Exalted Seracthon | 235856 | [235856-exalted-seracthon.json](./235856-exalted-seracthon.json) |
 | ExAltered | 289412 | [289412-exaltered.json](./289412-exaltered.json) |
+| Exam | 364994 | [364994-exam.json](./364994-exam.json) |
 | Examination Chambers | 182213 | [182213-examination-chambers.json](./182213-examination-chambers.json) |
 | Examination of Fear | 255665 | [255665-examination-of-fear.json](./255665-examination-of-fear.json) |
 | Example Block Game | 289018 | [289018-example-block-game.json](./289018-example-block-game.json) |
