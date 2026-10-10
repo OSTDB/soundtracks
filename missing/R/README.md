@@ -247,6 +247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Race the Sun | 7876 | [7876-race-the-sun.json](./7876-race-the-sun.json) |
 | Race the Sun: Sunrise | 77651 | [77651-race-the-sun-sunrise.json](./77651-race-the-sun-sunrise.json) |
 | Race the Traffic Moto | 105540 | [105540-race-the-traffic-moto.json](./105540-race-the-traffic-moto.json) |
+| Race Time | 282517 | [282517-race-time.json](./282517-race-time.json) |
 | Race Time | 347696 | [347696-race-time.json](./347696-race-time.json) |
 | Race Time! | 245015 | [245015-race-time.json](./245015-race-time.json) |
 | Race to Kyiv | 392804 | [392804-race-to-kyiv.json](./392804-race-to-kyiv.json) |
@@ -2748,6 +2749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reflections on the River | 124681 | [124681-reflections-on-the-river.json](./124681-reflections-on-the-river.json) |
 | Reflections Path | 211951 | [211951-reflections-path.json](./211951-reflections-path.json) |
 | Reflections: Dreams and Reality | 115625 | [115625-reflections-dreams-and-reality.json](./115625-reflections-dreams-and-reality.json) |
+| Reflections: Nightingale | 282528 | [282528-reflections-nightingale.json](./282528-reflections-nightingale.json) |
 | Reflector Rhythm Master | 251746 | [251746-reflector-rhythm-master.json](./251746-reflector-rhythm-master.json) |
 | Reflector Satellites | 317411 | [317411-reflector-satellites.json](./317411-reflector-satellites.json) |
 | Reflector Sector | 386995 | [386995-reflector-sector.json](./386995-reflector-sector.json) |
