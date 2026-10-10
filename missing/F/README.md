@@ -4608,6 +4608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flavor Favor | 248905 | [248905-flavor-favor.json](./248905-flavor-favor.json) |
 | Flavors of Spain | 407542 | [407542-flavors-of-spain.json](./407542-flavors-of-spain.json) |
 | Flavortown:VR | 118142 | [118142-flavortown-vr.json](./118142-flavortown-vr.json) |
+| Flawed Tactics | 291905 | [291905-flawed-tactics.json](./291905-flawed-tactics.json) |
 | Flawless | 219790 | [219790-flawless.json](./219790-flawless.json) |
 | Flawless Darkness | 260238 | [260238-flawless-darkness.json](./260238-flawless-darkness.json) |
 | Flaws in the People We Love | 117571 | [117571-flaws-in-the-people-we-love.json](./117571-flaws-in-the-people-we-love.json) |
@@ -6410,6 +6411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forts: High Seas | 195771 | [195771-forts-high-seas.json](./195771-forts-high-seas.json) |
 | Fortuito: Lost History | 156667 | [156667-fortuito-lost-history.json](./156667-fortuito-lost-history.json) |
 | Fortuna | 218172 | [218172-fortuna.json](./218172-fortuna.json) |
+| Fortuna Deluxe | 291896 | [291896-fortuna-deluxe.json](./291896-fortuna-deluxe.json) |
 | Fortuna Magus | 68989 | [68989-fortuna-magus.json](./68989-fortuna-magus.json) |
 | Fortunato | 381185 | [381185-fortunato.json](./381185-fortunato.json) |
 | Fortune | 357312 | [357312-fortune.json](./357312-fortune.json) |
