@@ -1109,6 +1109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ekholux | 374399 | [374399-ekholux.json](./374399-ekholux.json) |
 | Eklips | 174180 | [174180-eklips.json](./174180-eklips.json) |
 | Eko | 223673 | [223673-eko.json](./223673-eko.json) |
+| Eko And The Bewitched Lands | 292963 | [292963-eko-and-the-bewitched-lands.json](./292963-eko-and-the-bewitched-lands.json) |
 | Eko Eko Azarak: Wizard of Darkness | 376543 | [376543-eko-eko-azarak-wizard-of-darkness.json](./376543-eko-eko-azarak-wizard-of-darkness.json) |
 | Ekoh Beach | 189109 | [189109-ekoh-beach.json](./189109-ekoh-beach.json) |
 | Ekonomi Bakani Simulator | 183891 | [183891-ekonomi-bakani-simulator.json](./183891-ekonomi-bakani-simulator.json) |
@@ -2256,6 +2257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Rails | 406947 | [406947-endless-rails.json](./406947-endless-rails.json) |
 | Endless Ranger Awakening | 353768 | [353768-endless-ranger-awakening.json](./353768-endless-ranger-awakening.json) |
 | Endless Reach | 358964 | [358964-endless-reach.json](./358964-endless-reach.json) |
+| Endless Return | 293007 | [293007-endless-return.json](./293007-endless-return.json) |
 | Endless Robot Dash | 344403 | [344403-endless-robot-dash.json](./344403-endless-robot-dash.json) |
 | Endless RPG | 119705 | [119705-endless-rpg.json](./119705-endless-rpg.json) |
 | Endless Ruin Chapter I: Toward the Endless Ruin | 200542 | [200542-endless-ruin-chapter-i-toward-the-endless-ruin.json](./200542-endless-ruin-chapter-i-toward-the-endless-ruin.json) |
@@ -3712,6 +3714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ether One Redux | 124917 | [124917-ether-one-redux.json](./124917-ether-one-redux.json) |
 | Ether Quest | 97283 | [97283-ether-quest.json](./97283-ether-quest.json) |
 | Ether Saga Online | 51195 | [51195-ether-saga-online.json](./51195-ether-saga-online.json) |
+| Etheral | 292971 | [292971-etheral.json](./292971-etheral.json) |
 | Ethereal | 183955 | [183955-ethereal.json](./183955-ethereal.json) |
 | Ethereal Abyss | 294357 | [294357-ethereal-abyss.json](./294357-ethereal-abyss.json) |
 | Ethereal Enigma | 120480 | [120480-ethereal-enigma.json](./120480-ethereal-enigma.json) |
