@@ -3996,6 +3996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chessmaster: Grandmaster Edition | 15884 | [15884-chessmaster-grandmaster-edition.json](./15884-chessmaster-grandmaster-edition.json) |
 | Chessmaster: The Art of Learning | 20777 | [20777-chessmaster-the-art-of-learning.json](./20777-chessmaster-the-art-of-learning.json) |
 | Chessmate | 413719 | [413719-chessmate.json](./413719-chessmate.json) |
+| ChessRogue | 319280 | [319280-chessrogue.json](./319280-chessrogue.json) |
 | Chesst | 400891 | [400891-chesst.json](./400891-chesst.json) |
 | Chesstris | 361633 | [361633-chesstris.json](./361633-chesstris.json) |
 | Chesstro | 403547 | [403547-chesstro.json](./403547-chesstro.json) |
@@ -7153,6 +7154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coloring Book: Complete Bundle - 410 drawings | 283191 | [283191-coloring-book-complete-bundle-410-drawings.json](./283191-coloring-book-complete-bundle-410-drawings.json) |
 | Coloring Book: Cute Edition | 332514 | [332514-coloring-book-cute-edition.json](./332514-coloring-book-cute-edition.json) |
 | Coloring Book: Farm Life | 204295 | [204295-coloring-book-farm-life.json](./204295-coloring-book-farm-life.json) |
+| Coloring Book: Mandalas | 319314 | [319314-coloring-book-mandalas.json](./319314-coloring-book-mandalas.json) |
 | Coloring Book: Ocean Animals | 204294 | [204294-coloring-book-ocean-animals.json](./204294-coloring-book-ocean-animals.json) |
 | Coloring Book: Spring 2022 DLC Pack | 223595 | [223595-coloring-book-spring-2022-dlc-pack.json](./223595-coloring-book-spring-2022-dlc-pack.json) |
 | Coloring Bundle | 317237 | [317237-coloring-bundle.json](./317237-coloring-bundle.json) |
@@ -8270,6 +8272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Contra Run & Gun Bundle | 317236 | [317236-contra-run-and-gun-bundle.json](./317236-contra-run-and-gun-bundle.json) |
 | Contra SNES | 377741 | [377741-contra-snes.json](./377741-contra-snes.json) |
 | Contra Spirits | 242088 | [242088-contra-spirits.json](./242088-contra-spirits.json) |
+| Contra x Castlevania Bundle | 319315 | [319315-contra-x-castlevania-bundle.json](./319315-contra-x-castlevania-bundle.json) |
 | Contra: Hard Corps | 20192 | [20192-contra-hard-corps.json](./20192-contra-hard-corps.json) |
 | Contra: Rogue Corps | 119385 | [119385-contra-rogue-corps.json](./119385-contra-rogue-corps.json) |
 | Contra: The War of the Worlds | 216358 | [216358-contra-the-war-of-the-worlds.json](./216358-contra-the-war-of-the-worlds.json) |
@@ -11591,6 +11594,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cunsus Kart | 143003 | [143003-cunsus-kart.json](./143003-cunsus-kart.json) |
 | Cunt Wars | 140570 | [140570-cunt-wars.json](./140570-cunt-wars.json) |
 | Cup and Counter: Coffee Shop Simulator | 392774 | [392774-cup-and-counter-coffee-shop-simulator.json](./392774-cup-and-counter-coffee-shop-simulator.json) |
+| Cup Hand Adventure | 319295 | [319295-cup-hand-adventure.json](./319295-cup-hand-adventure.json) |
+| Cup Hand and Head Adventures | 319294 | [319294-cup-hand-and-head-adventures.json](./319294-cup-hand-and-head-adventures.json) |
 | Cup Heroes | 330120 | [330120-cup-heroes.json](./330120-cup-heroes.json) |
 | Cup Heroes: Beginner Merge Bundle | 414455 | [414455-cup-heroes-beginner-merge-bundle.json](./414455-cup-heroes-beginner-merge-bundle.json) |
 | Cup Heroes: Diamond Bag Bundle | 397885 | [397885-cup-heroes-diamond-bag-bundle.json](./397885-cup-heroes-diamond-bag-bundle.json) |
