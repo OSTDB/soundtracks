@@ -6672,6 +6672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Microsoft Golf 1998 Edition | 77008 | [77008-microsoft-golf-1998-edition.json](./77008-microsoft-golf-1998-edition.json) |
 | Microsoft Golf 1999 Edition | 62240 | [62240-microsoft-golf-1999-edition.json](./62240-microsoft-golf-1999-edition.json) |
 | Microsoft Golf 2.0 | 21860 | [21860-microsoft-golf-2-0.json](./21860-microsoft-golf-2-0.json) |
+| Microsoft Golf: Multimedia Edition | 314577 | [314577-microsoft-golf-multimedia-edition.json](./314577-microsoft-golf-multimedia-edition.json) |
 | Microsoft International Soccer 2000 | 72170 | [72170-microsoft-international-soccer-2000.json](./72170-microsoft-international-soccer-2000.json) |
 | Microsoft Jewel 2 | 317539 | [317539-microsoft-jewel-2.json](./317539-microsoft-jewel-2.json) |
 | Microsoft Minesweeper | 127494 | [127494-microsoft-minesweeper.json](./127494-microsoft-minesweeper.json) |
@@ -11155,6 +11156,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MP2: Open RCT2 | 283782 | [283782-mp2-open-rct2.json](./283782-mp2-open-rct2.json) |
 | MP2: Petropolis (Block Party) | 283775 | [283775-mp2-petropolis-block-party.json](./283775-mp2-petropolis-block-party.json) |
 | MP2: Yoshi Valley | 283774 | [283774-mp2-yoshi-valley.json](./283774-mp2-yoshi-valley.json) |
+| MP3: Big Boo's Black Hole Boardwalk | 314580 | [314580-mp3-big-boos-black-hole-boardwalk.json](./314580-mp3-big-boos-black-hole-boardwalk.json) |
+| MP3: DK's Jungle Adventure | 314578 | [314578-mp3-dks-jungle-adventure.json](./314578-mp3-dks-jungle-adventure.json) |
+| MP3: Ghastly Graveyard | 314585 | [314585-mp3-ghastly-graveyard.json](./314585-mp3-ghastly-graveyard.json) |
+| MP3: Loserville | 314579 | [314579-mp3-loserville.json](./314579-mp3-loserville.json) |
+| MP3: Parched Sands | 314582 | [314582-mp3-parched-sands.json](./314582-mp3-parched-sands.json) |
+| MP3: Shiver Blossom Shore | 314583 | [314583-mp3-shiver-blossom-shore.json](./314583-mp3-shiver-blossom-shore.json) |
 | MP5 | 201242 | [201242-mp5.json](./201242-mp5.json) |
 | MPaliens | 120913 | [120913-mpaliens.json](./120913-mpaliens.json) |
 | Mpirimpa | 341339 | [341339-mpirimpa.json](./341339-mpirimpa.json) |
