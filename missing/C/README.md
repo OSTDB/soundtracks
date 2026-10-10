@@ -2990,6 +2990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cellmount: Automata | 341633 | [341633-cellmount-automata.json](./341633-cellmount-automata.json) |
 | Cellofania | 279580 | [279580-cellofania.json](./279580-cellofania.json) |
 | Cellosseum | 264228 | [264228-cellosseum.json](./264228-cellosseum.json) |
+| Cells | 331385 | [331385-cells.json](./331385-cells.json) |
 | Cells of Division | 406329 | [406329-cells-of-division.json](./406329-cells-of-division.json) |
 | CellTD | 183879 | [183879-celltd.json](./183879-celltd.json) |
 | Cellular Harvest: Purple | 152276 | [152276-cellular-harvest-purple.json](./152276-cellular-harvest-purple.json) |
@@ -3362,6 +3363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chao Adventure | 331473 | [331473-chao-adventure.json](./331473-chao-adventure.json) |
 | Chao Adventure 2 | 225624 | [225624-chao-adventure-2.json](./225624-chao-adventure-2.json) |
 | Chao Dream Touch! Happy Anniversary | 122870 | [122870-chao-dream-touch-happy-anniversary.json](./122870-chao-dream-touch-happy-anniversary.json) |
+| Chao Extreme | 331372 | [331372-chao-extreme.json](./331372-chao-extreme.json) |
 | Chao Illust Club | 130714 | [130714-chao-illust-club.json](./130714-chao-illust-club.json) |
 | Chao Internet Pet | 331475 | [331475-chao-internet-pet.json](./331475-chao-internet-pet.json) |
 | Chao Life | 326835 | [326835-chao-life.json](./326835-chao-life.json) |
@@ -3439,6 +3441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chaos Seed: Feng Shui Kairouki | 15833 | [15833-chaos-seed-feng-shui-kairouki.json](./15833-chaos-seed-feng-shui-kairouki.json) |
 | Chaos Souls | 75042 | [75042-chaos-souls.json](./75042-chaos-souls.json) |
 | Chaos Starter | 116876 | [116876-chaos-starter.json](./116876-chaos-starter.json) |
+| Chaos Stone Wars | 331382 | [331382-chaos-stone-wars.json](./331382-chaos-stone-wars.json) |
 | Chaos Theory | 114298 | [114298-chaos-theory.json](./114298-chaos-theory.json) |
 | Chaos Theory Pirates | 130193 | [130193-chaos-theory-pirates.json](./130193-chaos-theory-pirates.json) |
 | Chaos Uproar | 188949 | [188949-chaos-uproar.json](./188949-chaos-uproar.json) |
@@ -5494,6 +5497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Transport Simulator: E1 Vienna Add-On | 359610 | [359610-city-transport-simulator-e1-vienna-add-on.json](./359610-city-transport-simulator-e1-vienna-add-on.json) |
 | City Transport Simulator: GT8N Mannheim​ Add-On | 359613 | [359613-city-transport-simulator-gt8n-mannheim-add-on.json](./359613-city-transport-simulator-gt8n-mannheim-add-on.json) |
 | City Transport Simulator: StadtRegioTram Add-On | 359614 | [359614-city-transport-simulator-stadtregiotram-add-on.json](./359614-city-transport-simulator-stadtregiotram-add-on.json) |
+| City Transport Simulator: Tram - Deluxe Edition | 331271 | [331271-city-transport-simulator-tram-deluxe-edition.json](./331271-city-transport-simulator-tram-deluxe-edition.json) |
 | City Transport Simulator: Tram Depot + Southern-Route Add-On | 359616 | [359616-city-transport-simulator-tram-depot-southern-route-add-on.json](./359616-city-transport-simulator-tram-depot-southern-route-add-on.json) |
 | City Transport Simulator: Type D Vienna Add-On | 359615 | [359615-city-transport-simulator-type-d-vienna-add-on.json](./359615-city-transport-simulator-type-d-vienna-add-on.json) |
 | City Transport Simulator: Ultimate Public Bus 2020 | 197327 | [197327-city-transport-simulator-ultimate-public-bus-2020.json](./197327-city-transport-simulator-ultimate-public-bus-2020.json) |
@@ -5671,6 +5675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clash of Weirdos: Card Carnage | 347315 | [347315-clash-of-weirdos-card-carnage.json](./347315-clash-of-weirdos-card-carnage.json) |
 | Clash Quest | 145533 | [145533-clash-quest.json](./145533-clash-quest.json) |
 | Clash Royale | 15707 | [15707-clash-royale.json](./15707-clash-royale.json) |
+| Clash Vs. | 331362 | [331362-clash-vs.json](./331362-clash-vs.json) |
 | Clash-Road | 46863 | [46863-clash-road.json](./46863-clash-road.json) |
 | Clash: Artifacts of Chaos - Lone Fighter Pack | 336141 | [336141-clash-artifacts-of-chaos-lone-fighter-pack.json](./336141-clash-artifacts-of-chaos-lone-fighter-pack.json) |
 | Clash: Artifacts of Chaos - Supporter Pack | 336137 | [336137-clash-artifacts-of-chaos-supporter-pack.json](./336137-clash-artifacts-of-chaos-supporter-pack.json) |
@@ -9186,6 +9191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Covid19: Toilet Paper Run | 285531 | [285531-covid19-toilet-paper-run.json](./285531-covid19-toilet-paper-run.json) |
 | Cow Catcher | 124594 | [124594-cow-catcher.json](./124594-cow-catcher.json) |
 | Cow Catcher Simulator | 82323 | [82323-cow-catcher-simulator.json](./82323-cow-catcher-simulator.json) |
+| Cow Chess | 331281 | [331281-cow-chess.json](./331281-cow-chess.json) |
 | Cow Defender | 97441 | [97441-cow-defender.json](./97441-cow-defender.json) |
 | Cow Evolution | 203205 | [203205-cow-evolution.json](./203205-cow-evolution.json) |
 | Cow Project 1986 | 401643 | [401643-cow-project-1986.json](./401643-cow-project-1986.json) |
@@ -11635,6 +11641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursed Baby | 325831 | [325831-cursed-baby.json](./325831-cursed-baby.json) |
 | Cursed Bet | 253590 | [253590-cursed-bet.json](./253590-cursed-bet.json) |
 | Cursed Blocks | 146708 | [146708-cursed-blocks.json](./146708-cursed-blocks.json) |
+| Cursed Blood | 331280 | [331280-cursed-blood.json](./331280-cursed-blood.json) |
 | Cursed Bloodline | 338253 | [338253-cursed-bloodline.json](./338253-cursed-bloodline.json) |
 | Cursed by Feedback | 364666 | [364666-cursed-by-feedback.json](./364666-cursed-by-feedback.json) |
 | Cursed Cargo | 394329 | [394329-cursed-cargo.json](./394329-cursed-cargo.json) |
@@ -12256,11 +12263,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cynthia: Hidden in the Moonshadow - Accessory Pack #1 | 313787 | [313787-cynthia-hidden-in-the-moonshadow-accessory-pack-1.json](./313787-cynthia-hidden-in-the-moonshadow-accessory-pack-1.json) |
 | Cynthia: Hidden in the Moonshadow - Accessory Pack #2 | 313788 | [313788-cynthia-hidden-in-the-moonshadow-accessory-pack-2.json](./313788-cynthia-hidden-in-the-moonshadow-accessory-pack-2.json) |
 | Cynthia: Hidden in the Moonshadow - Accessory Pack #3 | 313789 | [313789-cynthia-hidden-in-the-moonshadow-accessory-pack-3.json](./313789-cynthia-hidden-in-the-moonshadow-accessory-pack-3.json) |
+| Cynthia: Hidden in the Moonshadow - Anniversary Edition | 331270 | [331270-cynthia-hidden-in-the-moonshadow-anniversary-edition.json](./331270-cynthia-hidden-in-the-moonshadow-anniversary-edition.json) |
 | Cynthia: Hidden in the Moonshadow - Complete Edition | 283152 | [283152-cynthia-hidden-in-the-moonshadow-complete-edition.json](./283152-cynthia-hidden-in-the-moonshadow-complete-edition.json) |
 | Cynthia: Hidden in the Moonshadow - Gold Edition | 324382 | [324382-cynthia-hidden-in-the-moonshadow-gold-edition.json](./324382-cynthia-hidden-in-the-moonshadow-gold-edition.json) |
 | Cynthia: Hidden in the Moonshadow - Silver Edition | 333681 | [333681-cynthia-hidden-in-the-moonshadow-silver-edition.json](./333681-cynthia-hidden-in-the-moonshadow-silver-edition.json) |
 | Cynthia: Hidden in the Moonshadow - Special Edition | 306491 | [306491-cynthia-hidden-in-the-moonshadow-special-edition.json](./306491-cynthia-hidden-in-the-moonshadow-special-edition.json) |
 | Cynthia: Hidden in the Moonshadow - Summer Edition | 317261 | [317261-cynthia-hidden-in-the-moonshadow-summer-edition.json](./317261-cynthia-hidden-in-the-moonshadow-summer-edition.json) |
+| Cynthia: Hidden in the Moonshadow - Winter Edition | 331268 | [331268-cynthia-hidden-in-the-moonshadow-winter-edition.json](./331268-cynthia-hidden-in-the-moonshadow-winter-edition.json) |
+| Cynthia: Hidden in the Moonshadow - Xmas Edition | 331269 | [331269-cynthia-hidden-in-the-moonshadow-xmas-edition.json](./331269-cynthia-hidden-in-the-moonshadow-xmas-edition.json) |
 | CYOM | 341643 | [341643-cyom.json](./341643-cyom.json) |
 | Cyoube | 302346 | [302346-cyoube.json](./302346-cyoube.json) |
 | Cypest Underground | 111734 | [111734-cypest-underground.json](./111734-cypest-underground.json) |
