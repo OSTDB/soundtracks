@@ -378,6 +378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kamipani! | 91517 | [91517-kamipani.json](./91517-kamipani.json) |
 | Kamisama Kazoku: Ouen Ganbou | 313414 | [313414-kamisama-kazoku-ouen-ganbou.json](./313414-kamisama-kazoku-ouen-ganbou.json) |
 | Kamisama no Hitsugi | 328215 | [328215-kamisama-no-hitsugi.json](./328215-kamisama-no-hitsugi.json) |
+| Kamisama Spirits of the Shrine | 299000 | [299000-kamisama-spirits-of-the-shrine.json](./299000-kamisama-spirits-of-the-shrine.json) |
 | Kamisama: Spirit of the Shrine | 218737 | [218737-kamisama-spirit-of-the-shrine.json](./218737-kamisama-spirit-of-the-shrine.json) |
 | Kamitsubaki Academy Newspaper Club | 339807 | [339807-kamitsubaki-academy-newspaper-club.json](./339807-kamitsubaki-academy-newspaper-club.json) |
 | Kamitsubaki City Ensemble | 273635 | [273635-kamitsubaki-city-ensemble.json](./273635-kamitsubaki-city-ensemble.json) |
@@ -2267,6 +2268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kira and the Life Stone | 170901 | [170901-kira-and-the-life-stone.json](./170901-kira-and-the-life-stone.json) |
 | Kira Kira | 125163 | [125163-kira-kira.json](./125163-kira-kira.json) |
 | Kira Kira | 140523 | [140523-kira-kira.json](./140523-kira-kira.json) |
+| Kira Kira Magical Stars | 298966 | [298966-kira-kira-magical-stars.json](./298966-kira-kira-magical-stars.json) |
 | Kira Kira Pop Princess | 26560 | [26560-kira-kira-pop-princess.json](./26560-kira-kira-pop-princess.json) |
 | Kira Kira Rainbow Pack | 26562 | [26562-kira-kira-rainbow-pack.json](./26562-kira-kira-rainbow-pack.json) |
 | Kira Legends | 285548 | [285548-kira-legends.json](./285548-kira-legends.json) |
@@ -2837,6 +2839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knights of Pen and Paper: Haunted Fall | 171459 | [171459-knights-of-pen-and-paper-haunted-fall.json](./171459-knights-of-pen-and-paper-haunted-fall.json) |
 | Knights of Puzzelot | 344431 | [344431-knights-of-puzzelot.json](./344431-knights-of-puzzelot.json) |
 | Knights of Riddle | 148479 | [148479-knights-of-riddle.json](./148479-knights-of-riddle.json) |
+| Knights of Romance and Valor | 298982 | [298982-knights-of-romance-and-valor.json](./298982-knights-of-romance-and-valor.json) |
 | Knights of San Francisco | 174204 | [174204-knights-of-san-francisco.json](./174204-knights-of-san-francisco.json) |
 | Knights of Takhisis Bundle Pack | 239006 | [239006-knights-of-takhisis-bundle-pack.json](./239006-knights-of-takhisis-bundle-pack.json) |
 | Knights of the Card Table | 113790 | [113790-knights-of-the-card-table.json](./113790-knights-of-the-card-table.json) |
