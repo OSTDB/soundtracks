@@ -3764,6 +3764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nobunaga no Yabou 2 | 60088 | [60088-nobunaga-no-yabou-2.json](./60088-nobunaga-no-yabou-2.json) |
 | Nobunaga no Yabou 201X | 61101 | [61101-nobunaga-no-yabou-201x.json](./61101-nobunaga-no-yabou-201x.json) |
 | Nobunaga no Yabou DS 2 | 59379 | [59379-nobunaga-no-yabou-ds-2.json](./59379-nobunaga-no-yabou-ds-2.json) |
+| Nobunaga no Yabou Internet | 307182 | [307182-nobunaga-no-yabou-internet.json](./307182-nobunaga-no-yabou-internet.json) |
 | Nobunaga no Yabou Online | 78306 | [78306-nobunaga-no-yabou-online.json](./78306-nobunaga-no-yabou-online.json) |
 | Nobunaga no Yabou: Bushou Fuuunroku | 307153 | [307153-nobunaga-no-yabou-bushou-fuuunroku.json](./307153-nobunaga-no-yabou-bushou-fuuunroku.json) |
 | Nobunaga no Yabou: Bushou Fuuunroku | 307155 | [307155-nobunaga-no-yabou-bushou-fuuunroku.json](./307155-nobunaga-no-yabou-bushou-fuuunroku.json) |
@@ -3816,6 +3817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nobunaga's Ambition: Taishi Deluxe Edition | 122363 | [122363-nobunagas-ambition-taishi-deluxe-edition.json](./122363-nobunagas-ambition-taishi-deluxe-edition.json) |
 | Nobunaga's Ambition: Tendou | 78305 | [78305-nobunagas-ambition-tendou.json](./78305-nobunagas-ambition-tendou.json) |
 | Nobunaga's Ambition: Tenkasousei with Power Up Kit | 82400 | [82400-nobunagas-ambition-tenkasousei-with-power-up-kit.json](./82400-nobunagas-ambition-tenkasousei-with-power-up-kit.json) |
+| Nobunaga's Ambition: Tenshouki with Power Up Kit | 307166 | [307166-nobunagas-ambition-tenshouki-with-power-up-kit.json](./307166-nobunagas-ambition-tenshouki-with-power-up-kit.json) |
 | Nobunaga's Ambition: Tenshouki with Power-Up Kit HD Version | 90610 | [90610-nobunagas-ambition-tenshouki-with-power-up-kit-hd-version.json](./90610-nobunagas-ambition-tenshouki-with-power-up-kit-hd-version.json) |
 | Nobunaga's Shadow | 102840 | [102840-nobunagas-shadow.json](./102840-nobunagas-shadow.json) |
 | NoCanNoTap | 254158 | [254158-nocannotap.json](./254158-nocannotap.json) |
@@ -4134,6 +4136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Norman's Sky | 179001 | [179001-normans-sky.json](./179001-normans-sky.json) |
 | Norn9: Last Era - Limited Edition | 249735 | [249735-norn9-last-era-limited-edition.json](./249735-norn9-last-era-limited-edition.json) |
 | Nornium | 293384 | [293384-nornium.json](./293384-nornium.json) |
+| Noroi E: Darkness | 307262 | [307262-noroi-e-darkness.json](./307262-noroi-e-darkness.json) |
 | Noroi E: The Origin of Nightmares | 240945 | [240945-noroi-e-the-origin-of-nightmares.json](./240945-noroi-e-the-origin-of-nightmares.json) |
 | Noroi Kago: The Grduged Domain - The Birth of Kitaro: The Mystery of GeGeGe Costume - Kitaro's father and Mizuki | 355202 | [355202-noroi-kago-the-grduged-domain-the-birth-of-kitaro-the-mystery-of-gegege-costume-kitaros-father-and-mizuki.json](./355202-noroi-kago-the-grduged-domain-the-birth-of-kitaro-the-mystery-of-gegege-costume-kitaros-father-and-mizuki.json) |
 | Noroi no Kegareuta: Narumi Tatsuya no Kaikiroku | 349464 | [349464-noroi-no-kegareuta-narumi-tatsuya-no-kaikiroku.json](./349464-noroi-no-kegareuta-narumi-tatsuya-no-kaikiroku.json) |
