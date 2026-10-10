@@ -559,6 +559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Office Assistant | 359351 | [359351-office-assistant.json](./359351-office-assistant.json) |
 | Office Cat | 300398 | [300398-office-cat.json](./300398-office-cat.json) |
 | Office Chimp | 249283 | [249283-office-chimp.json](./249283-office-chimp.json) |
+| Office Crush Dating Simulator | 318718 | [318718-office-crush-dating-simulator.json](./318718-office-crush-dating-simulator.json) |
 | Office Elevator | 195159 | [195159-office-elevator.json](./195159-office-elevator.json) |
 | Office Escape | 184937 | [184937-office-escape.json](./184937-office-escape.json) |
 | Office Fever | 223993 | [223993-office-fever.json](./223993-office-fever.json) |
@@ -1807,6 +1808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Onimusha: Warlords | 107292 | [107292-onimusha-warlords.json](./107292-onimusha-warlords.json) |
 | Onimusha: Warlords - Genma Seal Box | 294703 | [294703-onimusha-warlords-genma-seal-box.json](./294703-onimusha-warlords-genma-seal-box.json) |
 | Onimusha: Way of the Sword | 325602 | [325602-onimusha-way-of-the-sword.json](./325602-onimusha-way-of-the-sword.json) |
+| Onion Delivery | 318730 | [318730-onion-delivery.json](./318730-onion-delivery.json) |
 | Onion Force | 33699 | [33699-onion-force.json](./33699-onion-force.json) |
 | Oniria Crimes: Rounder Edition | 146142 | [146142-oniria-crimes-rounder-edition.json](./146142-oniria-crimes-rounder-edition.json) |
 | Oniriam | 322984 | [322984-oniriam.json](./322984-oniriam.json) |
@@ -3365,6 +3367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OverBlood 2 | 20000 | [20000-overblood-2.json](./20000-overblood-2.json) |
 | Overboard | 122430 | [122430-overboard.json](./122430-overboard.json) |
 | Overboard! | 151067 | [151067-overboard.json](./151067-overboard.json) |
+| Overbold | 318728 | [318728-overbold.json](./318728-overbold.json) |
 | Overbooked | 413044 | [413044-overbooked.json](./413044-overbooked.json) |
 | Overboss | 214604 | [214604-overboss.json](./214604-overboss.json) |
 | Overcast and Light Rain | 185011 | [185011-overcast-and-light-rain.json](./185011-overcast-and-light-rain.json) |
