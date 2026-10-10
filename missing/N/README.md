@@ -2572,6 +2572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Drive | 323531 | [323531-night-drive.json](./323531-night-drive.json) |
 | Night Driver | 260733 | [260733-night-driver.json](./260733-night-driver.json) |
 | Night Driver | 311116 | [311116-night-driver.json](./311116-night-driver.json) |
+| Night Driver | 328687 | [328687-night-driver.json](./328687-night-driver.json) |
 | Night Driver | 89496 | [89496-night-driver.json](./89496-night-driver.json) |
 | Night Drone | 373654 | [373654-night-drone.json](./373654-night-drone.json) |
 | Night Errand | 381200 | [381200-night-errand.json](./381200-night-errand.json) |
@@ -3640,6 +3641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Surrender: Battle of the Bulge | 73480 | [73480-no-surrender-battle-of-the-bulge.json](./73480-no-surrender-battle-of-the-bulge.json) |
 | No Sushi, No Life | 156001 | [156001-no-sushi-no-life.json](./156001-no-sushi-no-life.json) |
 | No T!me No Space | 228431 | [228431-no-t-me-no-space.json](./228431-no-t-me-no-space.json) |
+| No Tears For Heroes | 328439 | [328439-no-tears-for-heroes.json](./328439-no-tears-for-heroes.json) |
 | No Thoughts Just Dodge | 413689 | [413689-no-thoughts-just-dodge.json](./413689-no-thoughts-just-dodge.json) |
 | No Throwing | 341487 | [341487-no-throwing.json](./341487-no-throwing.json) |
 | No Ticket Back: Craft, Survive & Escape | 290945 | [290945-no-ticket-back-craft-survive-and-escape.json](./290945-no-ticket-back-craft-survive-and-escape.json) |
@@ -4453,6 +4455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NS Kakuro | 91105 | [91105-ns-kakuro.json](./91105-ns-kakuro.json) |
 | NSFW: Not a Simulator for Working | 25606 | [25606-nsfw-not-a-simulator-for-working.json](./25606-nsfw-not-a-simulator-for-working.json) |
 | NSFWare | 125879 | [125879-nsfware.json](./125879-nsfware.json) |
+| NSMB Mario Vs Luigi: KKT's Gooffy little Mod | 328407 | [328407-nsmb-mario-vs-luigi-kkts-gooffy-little-mod.json](./328407-nsmb-mario-vs-luigi-kkts-gooffy-little-mod.json) |
 | NSMB: Mario vs. Luigi Online | 212845 | [212845-nsmb-mario-vs-luigi-online.json](./212845-nsmb-mario-vs-luigi-online.json) |
 | NSR: Night Street Racing | 397954 | [397954-nsr-night-street-racing.json](./397954-nsr-night-street-racing.json) |
 | nStations | 127115 | [127115-nstations.json](./127115-nstations.json) |
