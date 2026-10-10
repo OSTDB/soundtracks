@@ -2001,6 +2001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead by Daylight: A Binding of Kin Chapter | 168867 | [168867-dead-by-daylight-a-binding-of-kin-chapter.json](./168867-dead-by-daylight-a-binding-of-kin-chapter.json) |
 | Dead by Daylight: A Lullaby for the Dark Chapter | 76224 | [76224-dead-by-daylight-a-lullaby-for-the-dark-chapter.json](./76224-dead-by-daylight-a-lullaby-for-the-dark-chapter.json) |
 | Dead by Daylight: A Nightmare on Elm Street | 76226 | [76226-dead-by-daylight-a-nightmare-on-elm-street.json](./76226-dead-by-daylight-a-nightmare-on-elm-street.json) |
+| Dead by Daylight: All Things Wicked Chapter | 290845 | [290845-dead-by-daylight-all-things-wicked-chapter.json](./290845-dead-by-daylight-all-things-wicked-chapter.json) |
 | Dead by Daylight: All-Kill Chapter | 154346 | [154346-dead-by-daylight-all-kill-chapter.json](./154346-dead-by-daylight-all-kill-chapter.json) |
 | Dead by Daylight: Attack on Titan - Armored Pack | 254687 | [254687-dead-by-daylight-attack-on-titan-armored-pack.json](./254687-dead-by-daylight-attack-on-titan-armored-pack.json) |
 | Dead by Daylight: Attack on Titan - Warhammer Pack | 254686 | [254686-dead-by-daylight-attack-on-titan-warhammer-pack.json](./254686-dead-by-daylight-attack-on-titan-warhammer-pack.json) |
@@ -3200,6 +3201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Space Corridor | 350013 | [350013-deep-space-corridor.json](./350013-deep-space-corridor.json) |
 | Deep Space Delivery | 329081 | [329081-deep-space-delivery.json](./329081-deep-space-delivery.json) |
 | Deep Space Directive | 267476 | [267476-deep-space-directive.json](./267476-deep-space-directive.json) |
+| Deep Space Drillers | 290830 | [290830-deep-space-drillers.json](./290830-deep-space-drillers.json) |
 | Deep Space Exodus | 384511 | [384511-deep-space-exodus.json](./384511-deep-space-exodus.json) |
 | Deep Space Exploitation | 346545 | [346545-deep-space-exploitation.json](./346545-deep-space-exploitation.json) |
 | Deep Space Reflections | 116398 | [116398-deep-space-reflections.json](./116398-deep-space-reflections.json) |
@@ -4524,6 +4526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destiny of Heroes | 303008 | [303008-destiny-of-heroes.json](./303008-destiny-of-heroes.json) |
 | Destiny of Spirits | 42682 | [42682-destiny-of-spirits.json](./42682-destiny-of-spirits.json) |
 | Destiny of Thrones | 97322 | [97322-destiny-of-thrones.json](./97322-destiny-of-thrones.json) |
+| Destiny Online | 290876 | [290876-destiny-online.json](./290876-destiny-online.json) |
 | Destiny RPG | 52886 | [52886-destiny-rpg.json](./52886-destiny-rpg.json) |
 | Destiny Spire | 356899 | [356899-destiny-spire.json](./356899-destiny-spire.json) |
 | Destiny Star Girlfriend 3 | 305275 | [305275-destiny-star-girlfriend-3.json](./305275-destiny-star-girlfriend-3.json) |
@@ -4794,6 +4797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Device | 150165 | [150165-device.json](./150165-device.json) |
 | Device 0101 | 294844 | [294844-device-0101.json](./294844-device-0101.json) |
 | Device 6 | 6279 | [6279-device-6.json](./6279-device-6.json) |
+| Device Doctor Simulator 2024 | 290862 | [290862-device-doctor-simulator-2024.json](./290862-device-doctor-simulator-2024.json) |
 | Device of Bakudan | 244324 | [244324-device-of-bakudan.json](./244324-device-of-bakudan.json) |
 | Devicereign | 166500 | [166500-devicereign.json](./166500-devicereign.json) |
 | Devices Disruptive Offense Simulator | 407480 | [407480-devices-disruptive-offense-simulator.json](./407480-devices-disruptive-offense-simulator.json) |
@@ -6634,6 +6638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Divinus Vanitas | 215921 | [215921-divinus-vanitas.json](./215921-divinus-vanitas.json) |
 | Division | 217209 | [217209-division.json](./217209-division.json) |
 | Division 1 | 42174 | [42174-division-1.json](./42174-division-1.json) |
+| Divnozemye | 290858 | [290858-divnozemye.json](./290858-divnozemye.json) |
 | Dìwáng Chāiqiān Bàn | 367485 | [367485-diwang-chaiqian-ban.json](./367485-diwang-chaiqian-ban.json) |
 | Dìxiàshì | 148693 | [148693-dixiashi.json](./148693-dixiashi.json) |
 | DIY Fashion Star - Design Hacks Clothing Game | 104486 | [104486-diy-fashion-star-design-hacks-clothing-game.json](./104486-diy-fashion-star-design-hacks-clothing-game.json) |
@@ -8671,6 +8676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draeggoria | 392271 | [392271-draeggoria.json](./392271-draeggoria.json) |
 | Draft Day Sports: College Basketball 2018 | 89637 | [89637-draft-day-sports-college-basketball-2018.json](./89637-draft-day-sports-college-basketball-2018.json) |
 | Draft Day Sports: College Basketball 2022 | 191891 | [191891-draft-day-sports-college-basketball-2022.json](./191891-draft-day-sports-college-basketball-2022.json) |
+| Draft Day Sports: College Basketball 2024 | 290853 | [290853-draft-day-sports-college-basketball-2024.json](./290853-draft-day-sports-college-basketball-2024.json) |
 | Draft Day Sports: College Basketball 2025 | 336058 | [336058-draft-day-sports-college-basketball-2025.json](./336058-draft-day-sports-college-basketball-2025.json) |
 | Draft Day Sports: College Basketball 26 | 393740 | [393740-draft-day-sports-college-basketball-26.json](./393740-draft-day-sports-college-basketball-26.json) |
 | Draft Day Sports: College Football 2020 | 128974 | [128974-draft-day-sports-college-football-2020.json](./128974-draft-day-sports-college-football-2020.json) |
@@ -10935,6 +10941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Escape | 207291 | [207291-dungeon-escape.json](./207291-dungeon-escape.json) |
 | Dungeon Escape | 372573 | [372573-dungeon-escape.json](./372573-dungeon-escape.json) |
 | Dungeon Escapist | 80905 | [80905-dungeon-escapist.json](./80905-dungeon-escapist.json) |
+| Dungeon Exiles | 290847 | [290847-dungeon-exiles.json](./290847-dungeon-exiles.json) |
 | Dungeon Explorer | 193425 | [193425-dungeon-explorer.json](./193425-dungeon-explorer.json) |
 | Dungeon Explorer | 19742 | [19742-dungeon-explorer.json](./19742-dungeon-explorer.json) |
 | Dungeon Explorer II | 42022 | [42022-dungeon-explorer-ii.json](./42022-dungeon-explorer-ii.json) |
