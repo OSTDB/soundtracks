@@ -1726,6 +1726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Day In Dementia | 103170 | [103170-day-in-dementia.json](./103170-day-in-dementia.json) |
 | Day in the Life | 177323 | [177323-day-in-the-life.json](./177323-day-in-the-life.json) |
 | Day Island | 135747 | [135747-day-island.json](./135747-day-island.json) |
+| Day of Atonement | 307889 | [307889-day-of-atonement.json](./307889-day-of-atonement.json) |
 | Day of Defeat | 7551 | [7551-day-of-defeat.json](./7551-day-of-defeat.json) |
 | Day of Destruction | 81328 | [81328-day-of-destruction.json](./81328-day-of-destruction.json) |
 | Day of Dragons: Acid Spitter Drake | 170364 | [170364-day-of-dragons-acid-spitter-drake.json](./170364-day-of-dragons-acid-spitter-drake.json) |
@@ -2609,6 +2610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death by Degrees | 1241 | [1241-death-by-degrees.json](./1241-death-by-degrees.json) |
 | Death by Flower Arrangement | 186164 | [186164-death-by-flower-arrangement.json](./186164-death-by-flower-arrangement.json) |
 | Death By Hamster | 262666 | [262666-death-by-hamster.json](./262666-death-by-hamster.json) |
+| Death by Hype | 307882 | [307882-death-by-hype.json](./307882-death-by-hype.json) |
 | Death By Taxes | 414473 | [414473-death-by-taxes.json](./414473-death-by-taxes.json) |
 | Death Cargo | 55130 | [55130-death-cargo.json](./55130-death-cargo.json) |
 | Death Carnival | 130677 | [130677-death-carnival.json](./130677-death-carnival.json) |
@@ -7389,6 +7391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Dig Up the Dead | 298781 | [298781-dont-dig-up-the-dead.json](./298781-dont-dig-up-the-dead.json) |
 | Don't Disturb | 32065 | [32065-dont-disturb.json](./32065-dont-disturb.json) |
 | Don't Drink That! | 364667 | [364667-dont-drink-that.json](./364667-dont-drink-that.json) |
+| Don't Drink the Pink | 307786 | [307786-dont-drink-the-pink.json](./307786-dont-drink-the-pink.json) |
 | Don't Drop Luggage! | 303483 | [303483-dont-drop-luggage.json](./303483-dont-drop-luggage.json) |
 | Don't Drop The Cake | 323532 | [323532-dont-drop-the-cake.json](./323532-dont-drop-the-cake.json) |
 | Don't Drop the Soap | 343228 | [343228-dont-drop-the-soap.json](./343228-dont-drop-the-soap.json) |
@@ -7441,6 +7444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Grind | 96894 | [96894-dont-grind.json](./96894-dont-grind.json) |
 | Don't Hate My Music Taste | 167818 | [167818-dont-hate-my-music-taste.json](./167818-dont-hate-my-music-taste.json) |
 | Don't Hide | 215907 | [215907-dont-hide.json](./215907-dont-hide.json) |
+| Don't Ice your Cool | 307787 | [307787-dont-ice-your-cool.json](./307787-dont-ice-your-cool.json) |
 | Don't Jump | 372809 | [372809-dont-jump.json](./372809-dont-jump.json) |
 | Don't Kill Her | 108421 | [108421-dont-kill-her.json](./108421-dont-kill-her.json) |
 | Don't Kill the Cat | 230973 | [230973-dont-kill-the-cat.json](./230973-dont-kill-the-cat.json) |
@@ -7549,6 +7553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't wake up | 381009 | [381009-dont-wake-up.json](./381009-dont-wake-up.json) |
 | Don't Wake Up | 183915 | [183915-dont-wake-up.json](./183915-dont-wake-up.json) |
 | Don't Wake Up My Dream | 369588 | [369588-dont-wake-up-my-dream.json](./369588-dont-wake-up-my-dream.json) |
+| Don't Worry, I'll Bring the Beer | 307788 | [307788-dont-worry-ill-bring-the-beer.json](./307788-dont-worry-ill-bring-the-beer.json) |
 | Don't! Heroes | 181932 | [181932-dont-heroes.json](./181932-dont-heroes.json) |
 | Don't! Heroes: Encore! | 181929 | [181929-dont-heroes-encore.json](./181929-dont-heroes-encore.json) |
 | Donald Dowell and the Ghost of Barker Manor | 168386 | [168386-donald-dowell-and-the-ghost-of-barker-manor.json](./168386-donald-dowell-and-the-ghost-of-barker-manor.json) |
@@ -8769,6 +8774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball Z: Kakarot - Daima: Adventure Through The Demon Realm Part 1 | 333617 | [333617-dragon-ball-z-kakarot-daima-adventure-through-the-demon-realm-part-1.json](./333617-dragon-ball-z-kakarot-daima-adventure-through-the-demon-realm-part-1.json) |
 | Dragon Ball Z: Kakarot - Daima: Adventure Through The Demon Realm Part 2 | 333618 | [333618-dragon-ball-z-kakarot-daima-adventure-through-the-demon-realm-part-2.json](./333618-dragon-ball-z-kakarot-daima-adventure-through-the-demon-realm-part-2.json) |
 | Dragon Ball Z: Kakarot - Dragon Ball Card Warriors | 142494 | [142494-dragon-ball-z-kakarot-dragon-ball-card-warriors.json](./142494-dragon-ball-z-kakarot-dragon-ball-card-warriors.json) |
+| Dragon Ball Z: Kakarot - Legendary Edition | 307893 | [307893-dragon-ball-z-kakarot-legendary-edition.json](./307893-dragon-ball-z-kakarot-legendary-edition.json) |
 | Dragon Ball Z: Kakarot - Season Pass | 141113 | [141113-dragon-ball-z-kakarot-season-pass.json](./141113-dragon-ball-z-kakarot-season-pass.json) |
 | Dragon Ball Z: Kakarot - Season Pass 2 | 307831 | [307831-dragon-ball-z-kakarot-season-pass-2.json](./307831-dragon-ball-z-kakarot-season-pass-2.json) |
 | Dragon Ball Z: Kakarot - Ultimate Edition | 136271 | [136271-dragon-ball-z-kakarot-ultimate-edition.json](./136271-dragon-ball-z-kakarot-ultimate-edition.json) |
