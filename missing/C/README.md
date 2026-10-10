@@ -1585,6 +1585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carnival in the Hut | 251748 | [251748-carnival-in-the-hut.json](./251748-carnival-in-the-hut.json) |
 | Carnival Island | 20826 | [20826-carnival-island.json](./20826-carnival-island.json) |
 | Carnival Massacre | 25701 | [25701-carnival-massacre.json](./25701-carnival-massacre.json) |
+| Carnival Massacre | 319832 | [319832-carnival-massacre.json](./319832-carnival-massacre.json) |
 | Carnival of Shadows | 287327 | [287327-carnival-of-shadows.json](./287327-carnival-of-shadows.json) |
 | Carnival of Souls | 309526 | [309526-carnival-of-souls.json](./309526-carnival-of-souls.json) |
 | Carnival of the Animals | 76910 | [76910-carnival-of-the-animals.json](./76910-carnival-of-the-animals.json) |
@@ -4159,6 +4160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chicken Tale | 288792 | [288792-chicken-tale.json](./288792-chicken-tale.json) |
 | Chicken Tricks | 249849 | [249849-chicken-tricks.json](./249849-chicken-tricks.json) |
 | Chicken vs. Eggs | 276297 | [276297-chicken-vs-eggs.json](./276297-chicken-vs-eggs.json) |
+| Chicken vs. Road | 319873 | [319873-chicken-vs-road.json](./319873-chicken-vs-road.json) |
 | Chicken Wars | 48001 | [48001-chicken-wars.json](./48001-chicken-wars.json) |
 | Chicken Wiggle | 54656 | [54656-chicken-wiggle.json](./54656-chicken-wiggle.json) |
 | Chicken! | 152982 | [152982-chicken.json](./152982-chicken.json) |
@@ -4812,6 +4814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chroisen 2 | 188388 | [188388-chroisen-2.json](./188388-chroisen-2.json) |
 | Chroma | 172046 | [172046-chroma.json](./172046-chroma.json) |
 | Chroma | 311799 | [311799-chroma.json](./311799-chroma.json) |
+| Chroma | 319875 | [319875-chroma.json](./319875-chroma.json) |
 | Chroma | 5588 | [5588-chroma.json](./5588-chroma.json) |
 | Chroma Blast | 43498 | [43498-chroma-blast.json](./43498-chroma-blast.json) |
 | Chroma Cannon | 136245 | [136245-chroma-cannon.json](./136245-chroma-cannon.json) |
@@ -9639,6 +9642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crash of the Titans | 210235 | [210235-crash-of-the-titans.json](./210235-crash-of-the-titans.json) |
 | Crash Pollito | 268521 | [268521-crash-pollito.json](./268521-crash-pollito.json) |
 | Crash Presents September 1990 | 73356 | [73356-crash-presents-september-1990.json](./73356-crash-presents-september-1990.json) |
+| Crash Puzzle Hammer-San | 319851 | [319851-crash-puzzle-hammer-san.json](./319851-crash-puzzle-hammer-san.json) |
 | Crash Tag Team Racing | 1194 | [1194-crash-tag-team-racing.json](./1194-crash-tag-team-racing.json) |
 | Crash Team Racing Nitro-Fueled | 113113 | [113113-crash-team-racing-nitro-fueled.json](./113113-crash-team-racing-nitro-fueled.json) |
 | Crash Team Racing Nitro-Fueled: Back N. Time Grand Prix | 324837 | [324837-crash-team-racing-nitro-fueled-back-n-time-grand-prix.json](./324837-crash-team-racing-nitro-fueled-back-n-time-grand-prix.json) |
@@ -10434,6 +10438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Croak and Solve | 404433 | [404433-croak-and-solve.json](./404433-croak-and-solve.json) |
 | Croak Cafe: From Pond to Plate | 311487 | [311487-croak-cafe-from-pond-to-plate.json](./311487-croak-cafe-from-pond-to-plate.json) |
 | Croak Croak On The Sea | 291186 | [291186-croak-croak-on-the-sea.json](./291186-croak-croak-on-the-sea.json) |
+| Croak Crusader: Spawn of the Spore Spectre | 319898 | [319898-croak-crusader-spawn-of-the-spore-spectre.json](./319898-croak-crusader-spawn-of-the-spore-spectre.json) |
 | Croak Crusader: The Champion of Canada | 330753 | [330753-croak-crusader-the-champion-of-canada.json](./330753-croak-crusader-the-champion-of-canada.json) |
 | Croaka-Crawla | 319576 | [319576-croaka-crawla.json](./319576-croaka-crawla.json) |
 | Croaked | 251652 | [251652-croaked.json](./251652-croaked.json) |
@@ -10519,6 +10524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cross Fire 2 | 26982 | [26982-cross-fire-2.json](./26982-cross-fire-2.json) |
 | Cross Force | 18556 | [18556-cross-force.json](./18556-cross-force.json) |
 | Cross Guardian | 381110 | [381110-cross-guardian.json](./381110-cross-guardian.json) |
+| Cross Hearts Arcadia | 319834 | [319834-cross-hearts-arcadia.json](./319834-cross-hearts-arcadia.json) |
 | Cross Helix | 396733 | [396733-cross-helix.json](./396733-cross-helix.json) |
 | Cross High | 195036 | [195036-cross-high.json](./195036-cross-high.json) |
 | Cross Impact | 250398 | [250398-cross-impact.json](./250398-cross-impact.json) |
