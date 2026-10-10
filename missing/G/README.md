@@ -152,6 +152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gachasute! Dino Device 2 - Phoenix | 49497 | [49497-gachasute-dino-device-2-phoenix.json](./49497-gachasute-dino-device-2-phoenix.json) |
 | Gachaverse (RPG & Anime Dress Up) | 103668 | [103668-gachaverse-rpg-and-anime-dress-up.json](./103668-gachaverse-rpg-and-anime-dress-up.json) |
 | Gachi Dash | 180005 | [180005-gachi-dash.json](./180005-gachi-dash.json) |
+| Gachi Defense | 285923 | [285923-gachi-defense.json](./285923-gachi-defense.json) |
 | Gachi Dungeon Master | 157470 | [157470-gachi-dungeon-master.json](./157470-gachi-dungeon-master.json) |
 | Gachi Feasting | 311156 | [311156-gachi-feasting.json](./311156-gachi-feasting.json) |
 | Gachi Heroes 2: Flexboll | 127191 | [127191-gachi-heroes-2-flexboll.json](./127191-gachi-heroes-2-flexboll.json) |
@@ -570,6 +571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy Stack | 113596 | [113596-galaxy-stack.json](./113596-galaxy-stack.json) |
 | Galaxy Strike | 135896 | [135896-galaxy-strike.json](./135896-galaxy-strike.json) |
 | Galaxy Survivors | 212839 | [212839-galaxy-survivors.json](./212839-galaxy-survivors.json) |
+| Galaxy Too Far | 285947 | [285947-galaxy-too-far.json](./285947-galaxy-too-far.json) |
 | Galaxy Trader | 175402 | [175402-galaxy-trader.json](./175402-galaxy-trader.json) |
 | Galaxy Trader | 207849 | [207849-galaxy-trader.json](./207849-galaxy-trader.json) |
 | Galaxy Trek | 197717 | [197717-galaxy-trek.json](./197717-galaxy-trek.json) |
@@ -4694,6 +4696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Cross W | 193860 | [193860-grand-cross-w.json](./193860-grand-cross-w.json) |
 | Grand Dad | 129542 | [129542-grand-dad.json](./129542-grand-dad.json) |
 | Grand Dad Overthrows Bowser | 238208 | [238208-grand-dad-overthrows-bowser.json](./238208-grand-dad-overthrows-bowser.json) |
+| Grand Emprise 2: Portals Apart | 285901 | [285901-grand-emprise-2-portals-apart.json](./285901-grand-emprise-2-portals-apart.json) |
 | Grand Emprise: Time Travel Survival | 229106 | [229106-grand-emprise-time-travel-survival.json](./229106-grand-emprise-time-travel-survival.json) |
 | Grand Fantasia: Origin | 311164 | [311164-grand-fantasia-origin.json](./311164-grand-fantasia-origin.json) |
 | Grand Fantasy Heroes | 336092 | [336092-grand-fantasy-heroes.json](./336092-grand-fantasy-heroes.json) |
@@ -4943,6 +4946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gratuitous Space Battles: The Outcasts | 164340 | [164340-gratuitous-space-battles-the-outcasts.json](./164340-gratuitous-space-battles-the-outcasts.json) |
 | Gratuitous Space Battles: The Swarm | 164343 | [164343-gratuitous-space-battles-the-swarm.json](./164343-gratuitous-space-battles-the-swarm.json) |
 | Gratuitous Space Battles: The Tribe | 164338 | [164338-gratuitous-space-battles-the-tribe.json](./164338-gratuitous-space-battles-the-tribe.json) |
+| Gratuitous Space Shooty Game | 285916 | [285916-gratuitous-space-shooty-game.json](./285916-gratuitous-space-shooty-game.json) |
 | Gratuitous Tank Battles | 16334 | [16334-gratuitous-tank-battles.json](./16334-gratuitous-tank-battles.json) |
 | Gratuitous Zombie Cannon | 113184 | [113184-gratuitous-zombie-cannon.json](./113184-gratuitous-zombie-cannon.json) |
 | Gräuel | 276837 | [276837-grauel.json](./276837-grauel.json) |
@@ -5088,6 +5092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Graviteam Tactics: Operation Star - Zhalanashkol 1969 | 54061 | [54061-graviteam-tactics-operation-star-zhalanashkol-1969.json](./54061-graviteam-tactics-operation-star-zhalanashkol-1969.json) |
 | Gravitee 2 | 293351 | [293351-gravitee-2.json](./293351-gravitee-2.json) |
 | Gravitee Wars | 245575 | [245575-gravitee-wars.json](./245575-gravitee-wars.json) |
+| Gravitia | 285909 | [285909-gravitia.json](./285909-gravitia.json) |
 | Graviton | 122382 | [122382-graviton.json](./122382-graviton.json) |
 | Graviton Flux | 371957 | [371957-graviton-flux.json](./371957-graviton-flux.json) |
 | Gravitorque DX | 355508 | [355508-gravitorque-dx.json](./355508-gravitorque-dx.json) |
