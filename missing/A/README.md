@@ -1180,6 +1180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Absolute Doppelkopf | 79215 | [79215-absolute-doppelkopf.json](./79215-absolute-doppelkopf.json) |
 | Absolute Duo | 92286 | [92286-absolute-duo.json](./92286-absolute-duo.json) |
 | Absolute Fall | 119004 | [119004-absolute-fall.json](./119004-absolute-fall.json) |
+| Absolute Fear: Aooni | 296243 | [296243-absolute-fear-aooni.json](./296243-absolute-fear-aooni.json) |
 | Absolute Matter | 219697 | [219697-absolute-matter.json](./219697-absolute-matter.json) |
 | Absolute Pinball | 12376 | [12376-absolute-pinball.json](./12376-absolute-pinball.json) |
 | Absolute RC Simulator | 104560 | [104560-absolute-rc-simulator.json](./104560-absolute-rc-simulator.json) |
