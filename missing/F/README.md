@@ -8439,6 +8439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fuuin | 123388 | [123388-fuuin.json](./123388-fuuin.json) |
 | Fuuka σ Taisen | 294694 | [294694-fuuka-taisen.json](./294694-fuuka-taisen.json) |
 | Fuuka: A Summer Memory | 206006 | [206006-fuuka-a-summer-memory.json](./206006-fuuka-a-summer-memory.json) |
+| Fuuraiki | 326096 | [326096-fuuraiki.json](./326096-fuuraiki.json) |
 | Fuuraiki | 64665 | [64665-fuuraiki.json](./64665-fuuraiki.json) |
 | Fuuraiki 4 | 142398 | [142398-fuuraiki-4.json](./142398-fuuraiki-4.json) |
 | Fuuu...! | 390168 | [390168-fuuu.json](./390168-fuuu.json) |
