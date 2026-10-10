@@ -2607,6 +2607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fieldrunners Attack! | 106966 | [106966-fieldrunners-attack.json](./106966-fieldrunners-attack.json) |
 | Fields - Soldier of Time | 77278 | [77278-fields-soldier-of-time.json](./77278-fields-soldier-of-time.json) |
 | Fields of Aaru | 400375 | [400375-fields-of-aaru.json](./400375-fields-of-aaru.json) |
+| Fields of Asphodel | 304840 | [304840-fields-of-asphodel.json](./304840-fields-of-asphodel.json) |
 | Fields of Battle 2 | 216131 | [216131-fields-of-battle-2.json](./216131-fields-of-battle-2.json) |
 | Fields of Fortune | 345456 | [345456-fields-of-fortune.json](./345456-fields-of-fortune.json) |
 | Fields of Glory | 37111 | [37111-fields-of-glory.json](./37111-fields-of-glory.json) |
@@ -3523,6 +3524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Finkles World | 66947 | [66947-finkles-world.json](./66947-finkles-world.json) |
 | Finn and Jake's Epic Quest | 356231 | [356231-finn-and-jakes-epic-quest.json](./356231-finn-and-jakes-epic-quest.json) |
 | Finn Dorset's Institute For Livestock Replication | 321144 | [321144-finn-dorsets-institute-for-livestock-replication.json](./321144-finn-dorsets-institute-for-livestock-replication.json) |
+| Finn JRPG | 304842 | [304842-finn-jrpg.json](./304842-finn-jrpg.json) |
 | Finn's Ascent | 382458 | [382458-finns-ascent.json](./382458-finns-ascent.json) |
 | Finneon Accidentally Causes the End of the World | 339251 | [339251-finneon-accidentally-causes-the-end-of-the-world.json](./339251-finneon-accidentally-causes-the-end-of-the-world.json) |
 | Finnie's Bimbo Fishing | 395207 | [395207-finnies-bimbo-fishing.json](./395207-finnies-bimbo-fishing.json) |
@@ -5525,6 +5527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foosball Runner | 318195 | [318195-foosball-runner.json](./318195-foosball-runner.json) |
 | Foot Blobbers | 176346 | [176346-foot-blobbers.json](./176346-foot-blobbers.json) |
 | Foot Clinic | 268470 | [268470-foot-clinic.json](./268470-foot-clinic.json) |
+| Foot Clinic: Smelly Edition | 304785 | [304785-foot-clinic-smelly-edition.json](./304785-foot-clinic-smelly-edition.json) |
 | Foot Fashion Simulator | 258983 | [258983-foot-fashion-simulator.json](./258983-foot-fashion-simulator.json) |
 | Foot Massage | 288909 | [288909-foot-massage.json](./288909-foot-massage.json) |
 | Foot Odor Girl | 288910 | [288910-foot-odor-girl.json](./288910-foot-odor-girl.json) |
