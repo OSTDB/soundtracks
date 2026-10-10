@@ -2853,6 +2853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knobel Spass | 91594 | [91594-knobel-spass.json](./91594-knobel-spass.json) |
 | Knock 'Em Down! Bowling | 114201 | [114201-knock-em-down-bowling.json](./114201-knock-em-down-bowling.json) |
 | Knock Harder | 120953 | [120953-knock-harder.json](./120953-knock-harder.json) |
+| Knock Knock | 323988 | [323988-knock-knock.json](./323988-knock-knock.json) |
 | Knock Knock Traveling soulsman | 178013 | [178013-knock-knock-traveling-soulsman.json](./178013-knock-knock-traveling-soulsman.json) |
 | Knock on the Coffin Lid | 131645 | [131645-knock-on-the-coffin-lid.json](./131645-knock-on-the-coffin-lid.json) |
 | Knock on the Occult Door | 374817 | [374817-knock-on-the-occult-door.json](./374817-knock-on-the-occult-door.json) |
@@ -3749,6 +3750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kwiks | 335519 | [335519-kwiks.json](./335519-kwiks.json) |
 | KWRPG | 323967 | [323967-kwrpg.json](./323967-kwrpg.json) |
 | KWRPG Platformer Online | 323968 | [323968-kwrpg-platformer-online.json](./323968-kwrpg-platformer-online.json) |
+| KWRPGII | 323969 | [323969-kwrpgii.json](./323969-kwrpgii.json) |
 | KWRPGIII | 323922 | [323922-kwrpgiii.json](./323922-kwrpgiii.json) |
 | Kye | 271700 | [271700-kye.json](./271700-kye.json) |
 | Kye | 98948 | [98948-kye.json](./98948-kye.json) |
