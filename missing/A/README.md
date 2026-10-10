@@ -2135,6 +2135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures at the North Pole | 203865 | [203865-adventures-at-the-north-pole.json](./203865-adventures-at-the-north-pole.json) |
 | Adventures Diary of Merchant | 115579 | [115579-adventures-diary-of-merchant.json](./115579-adventures-diary-of-merchant.json) |
 | Adventures in Anglonia | 276708 | [276708-adventures-in-anglonia.json](./276708-adventures-in-anglonia.json) |
+| Adventures in Flesh | 281330 | [281330-adventures-in-flesh.json](./281330-adventures-in-flesh.json) |
 | Adventures in Lestoria | 282624 | [282624-adventures-in-lestoria.json](./282624-adventures-in-lestoria.json) |
 | Adventures in Math | 14225 | [14225-adventures-in-math.json](./14225-adventures-in-math.json) |
 | Adventures in Math | 62154 | [62154-adventures-in-math.json](./62154-adventures-in-math.json) |
@@ -5109,6 +5110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | American Truck Simulator: Lode King & Prestige Trailers Pack | 223688 | [223688-american-truck-simulator-lode-king-and-prestige-trailers-pack.json](./223688-american-truck-simulator-lode-king-and-prestige-trailers-pack.json) |
 | American Truck Simulator: Louisiana | 348973 | [348973-american-truck-simulator-louisiana.json](./348973-american-truck-simulator-louisiana.json) |
 | American Truck Simulator: Mack Pinnacle | 353408 | [353408-american-truck-simulator-mack-pinnacle.json](./353408-american-truck-simulator-mack-pinnacle.json) |
+| American Truck Simulator: Missouri | 281308 | [281308-american-truck-simulator-missouri.json](./281308-american-truck-simulator-missouri.json) |
 | American Truck Simulator: Montana | 195585 | [195585-american-truck-simulator-montana.json](./195585-american-truck-simulator-montana.json) |
 | American Truck Simulator: Oregon | 115773 | [115773-american-truck-simulator-oregon.json](./115773-american-truck-simulator-oregon.json) |
 | American Truck Simulator: Pink Ribbon Charity Pack | 353398 | [353398-american-truck-simulator-pink-ribbon-charity-pack.json](./353398-american-truck-simulator-pink-ribbon-charity-pack.json) |
@@ -5825,6 +5827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angry Mountain Gods | 183440 | [183440-angry-mountain-gods.json](./183440-angry-mountain-gods.json) |
 | Angry Penguin | 294597 | [294597-angry-penguin.json](./294597-angry-penguin.json) |
 | Angry Peppa | 320890 | [320890-angry-peppa.json](./320890-angry-peppa.json) |
+| Angry Piggies Space | 281332 | [281332-angry-piggies-space.json](./281332-angry-piggies-space.json) |
 | Angry Pigs | 194980 | [194980-angry-pigs.json](./194980-angry-pigs.json) |
 | Angry Robot Girlfriend | 290508 | [290508-angry-robot-girlfriend.json](./290508-angry-robot-girlfriend.json) |
 | Angry Rock | 171448 | [171448-angry-rock.json](./171448-angry-rock.json) |
@@ -7242,6 +7245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arby | 377051 | [377051-arby.json](./377051-arby.json) |
 | Arc Aquarium | 387076 | [387076-arc-aquarium.json](./387076-arc-aquarium.json) |
 | ARC Continuum | 27671 | [27671-arc-continuum.json](./27671-arc-continuum.json) |
+| Arc Doors | 281344 | [281344-arc-doors.json](./281344-arc-doors.json) |
 | Arc Intelligence | 212905 | [212905-arc-intelligence.json](./212905-arc-intelligence.json) |
 | Arc Nova Base | 308358 | [308358-arc-nova-base.json](./308358-arc-nova-base.json) |
 | Arc of Alchemist: Limited Edition | 167040 | [167040-arc-of-alchemist-limited-edition.json](./167040-arc-of-alchemist-limited-edition.json) |
