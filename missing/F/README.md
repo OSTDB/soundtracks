@@ -4007,6 +4007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fishing Adventure | 299454 | [299454-fishing-adventure.json](./299454-fishing-adventure.json) |
 | FIshing Adventure VR | 127004 | [127004-fishing-adventure-vr.json](./127004-fishing-adventure-vr.json) |
 | Fishing at the Lake Full of Cats | 375583 | [375583-fishing-at-the-lake-full-of-cats.json](./375583-fishing-at-the-lake-full-of-cats.json) |
+| Fishing Blast | 299526 | [299526-fishing-blast.json](./299526-fishing-blast.json) |
 | Fishing Cat's Slack-off Diary | 392862 | [392862-fishing-cats-slack-off-diary.json](./392862-fishing-cats-slack-off-diary.json) |
 | Fishing Clash 2020: Fish Catching Games | 135263 | [135263-fishing-clash-2020-fish-catching-games.json](./135263-fishing-clash-2020-fish-catching-games.json) |
 | Fishing Clash: Catching Fish Game. Bass Hunting 3D | 99389 | [99389-fishing-clash-catching-fish-game-bass-hunting-3d.json](./99389-fishing-clash-catching-fish-game-bass-hunting-3d.json) |
@@ -4943,6 +4944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flood Escape | 369683 | [369683-flood-escape.json](./369683-flood-escape.json) |
 | Flood Escape 64 | 243112 | [243112-flood-escape-64.json](./243112-flood-escape-64.json) |
 | Flood Fighting Hero | 165019 | [165019-flood-fighting-hero.json](./165019-flood-fighting-hero.json) |
+| Flood of Tears | 299552 | [299552-flood-of-tears.json](./299552-flood-of-tears.json) |
 | Flood of Zombies | 333241 | [333241-flood-of-zombies.json](./333241-flood-of-zombies.json) |
 | Flood the Chamber | 242813 | [242813-flood-the-chamber.json](./242813-flood-the-chamber.json) |
 | Flood-It! | 254605 | [254605-flood-it.json](./254605-flood-it.json) |
@@ -5359,6 +5361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FNaC Fur | 210495 | [210495-fnac-fur.json](./210495-fnac-fur.json) |
 | FNaF 2: Wii U Edition | 358328 | [358328-fnaf-2-wii-u-edition.json](./358328-fnaf-2-wii-u-edition.json) |
 | FNaF 4 Retro Edition | 275647 | [275647-fnaf-4-retro-edition.json](./275647-fnaf-4-retro-edition.json) |
+| FNaF Free Edition | 299571 | [299571-fnaf-free-edition.json](./299571-fnaf-free-edition.json) |
 | FNAF in Psych Engine | 242611 | [242611-fnaf-in-psych-engine.json](./242611-fnaf-in-psych-engine.json) |
 | FNaF World Randomizer | 237325 | [237325-fnaf-world-randomizer.json](./237325-fnaf-world-randomizer.json) |
 | FNaF World Redacted | 362810 | [362810-fnaf-world-redacted.json](./362810-fnaf-world-redacted.json) |
@@ -7012,6 +7015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Free Realms: Sunrise | 141650 | [141650-free-realms-sunrise.json](./141650-free-realms-sunrise.json) |
 | Free Royale | 137976 | [137976-free-royale.json](./137976-free-royale.json) |
 | Free Skies | 316175 | [316175-free-skies.json](./316175-free-skies.json) |
+| Free Slots Fun Factory | 299573 | [299573-free-slots-fun-factory.json](./299573-free-slots-fun-factory.json) |
 | Free Solitaire | 340250 | [340250-free-solitaire.json](./340250-free-solitaire.json) |
 | Free Solitaire 3D | 90985 | [90985-free-solitaire-3d.json](./90985-free-solitaire-3d.json) |
 | Free Solitaire: Cats | 340251 | [340251-free-solitaire-cats.json](./340251-free-solitaire-cats.json) |
@@ -8218,6 +8222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fur and Feathers | 235283 | [235283-fur-and-feathers.json](./235283-fur-and-feathers.json) |
 | Fur and Feathers HD | 252924 | [252924-fur-and-feathers-hd.json](./252924-fur-and-feathers-hd.json) |
 | Fur and Void | 337645 | [337645-fur-and-void.json](./337645-fur-and-void.json) |
+| Fur Fighters: Viggo on Glass | 299539 | [299539-fur-fighters-viggo-on-glass.json](./299539-fur-fighters-viggo-on-glass.json) |
 | Fur Squadron | 226405 | [226405-fur-squadron.json](./226405-fur-squadron.json) |
 | Fur Squadron Phoenix | 275562 | [275562-fur-squadron-phoenix.json](./275562-fur-squadron-phoenix.json) |
 | Fura-fura Bouken Flan-chan | 205069 | [205069-fura-fura-bouken-flan-chan.json](./205069-fura-fura-bouken-flan-chan.json) |
