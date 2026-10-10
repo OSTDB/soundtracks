@@ -1711,11 +1711,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Generation Zero: Blockbuster Vanity Pack | 226797 | [226797-generation-zero-blockbuster-vanity-pack.json](./226797-generation-zero-blockbuster-vanity-pack.json) |
 | Generation Zero: Camo Weapon Skins Pack | 234912 | [234912-generation-zero-camo-weapon-skins-pack.json](./234912-generation-zero-camo-weapon-skins-pack.json) |
 | Generation Zero: Eastern European Weapons Pack | 234909 | [234909-generation-zero-eastern-european-weapons-pack.json](./234909-generation-zero-eastern-european-weapons-pack.json) |
+| Generation Zero: Essential DLC Bundle | 284862 | [284862-generation-zero-essential-dlc-bundle.json](./284862-generation-zero-essential-dlc-bundle.json) |
 | Generation Zero: Fnix Rising | 150087 | [150087-generation-zero-fnix-rising.json](./150087-generation-zero-fnix-rising.json) |
+| Generation Zero: Gold Bundle | 284859 | [284859-generation-zero-gold-bundle.json](./284859-generation-zero-gold-bundle.json) |
 | Generation Zero: Motorbikes Pack | 234917 | [234917-generation-zero-motorbikes-pack.json](./234917-generation-zero-motorbikes-pack.json) |
 | Generation Zero: Resistance Bundle | 164785 | [164785-generation-zero-resistance-bundle.json](./164785-generation-zero-resistance-bundle.json) |
 | Generation Zero: Rivals and Experimental Weapons | 234932 | [234932-generation-zero-rivals-and-experimental-weapons.json](./234932-generation-zero-rivals-and-experimental-weapons.json) |
 | Generation Zero: Schweet Vanity Pack | 226798 | [226798-generation-zero-schweet-vanity-pack.json](./226798-generation-zero-schweet-vanity-pack.json) |
+| Generation Zero: Silver Bundle | 284864 | [284864-generation-zero-silver-bundle.json](./284864-generation-zero-silver-bundle.json) |
 | Generation Zero: Soviet Weapons Pack | 234927 | [234927-generation-zero-soviet-weapons-pack.json](./234927-generation-zero-soviet-weapons-pack.json) |
 | Generation Zero: Starter Pack Bundle | 331542 | [331542-generation-zero-starter-pack-bundle.json](./331542-generation-zero-starter-pack-bundle.json) |
 | Generation Zero: Tactical Equipment Pack | 234919 | [234919-generation-zero-tactical-equipment-pack.json](./234919-generation-zero-tactical-equipment-pack.json) |
@@ -3213,6 +3216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gnomes and Knights | 317434 | [317434-gnomes-and-knights.json](./317434-gnomes-and-knights.json) |
 | Gnomes and Knights: Path of Success | 347324 | [347324-gnomes-and-knights-path-of-success.json](./347324-gnomes-and-knights-path-of-success.json) |
 | Gnomes Garden 2 | 33329 | [33329-gnomes-garden-2.json](./33329-gnomes-garden-2.json) |
+| Gnomes Garden Collection | 284868 | [284868-gnomes-garden-collection.json](./284868-gnomes-garden-collection.json) |
 | Gnomes Garden Lost King | 102882 | [102882-gnomes-garden-lost-king.json](./102882-gnomes-garden-lost-king.json) |
 | Gnomes Garden: Black Stones | 360576 | [360576-gnomes-garden-black-stones.json](./360576-gnomes-garden-black-stones.json) |
 | Gnomes Garden: Halloween | 110372 | [110372-gnomes-garden-halloween.json](./110372-gnomes-garden-halloween.json) |
