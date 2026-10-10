@@ -56,6 +56,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Building Full of Cats 2 | 301592 | [301592-a-building-full-of-cats-2.json](./301592-a-building-full-of-cats-2.json) |
 | A Bumpy Ride | 312660 | [312660-a-bumpy-ride.json](./312660-a-bumpy-ride.json) |
 | A Bunch of you in a Crowded Room | 177363 | [177363-a-bunch-of-you-in-a-crowded-room.json](./177363-a-bunch-of-you-in-a-crowded-room.json) |
+| A Burned Man Walks Down The Desolate Corridor | 303251 | [303251-a-burned-man-walks-down-the-desolate-corridor.json](./303251-a-burned-man-walks-down-the-desolate-corridor.json) |
 | A Business Tycoon | 68025 | [68025-a-business-tycoon.json](./68025-a-business-tycoon.json) |
 | A Busty JK Teaches How to Do Petit Compensated Dating | 83168 | [83168-a-busty-jk-teaches-how-to-do-petit-compensated-dating.json](./83168-a-busty-jk-teaches-how-to-do-petit-compensated-dating.json) |
 | A Butterfly | 266400 | [266400-a-butterfly.json](./266400-a-butterfly.json) |
@@ -346,6 +347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Host of Gentle Terrors | 136437 | [136437-a-host-of-gentle-terrors.json](./136437-a-host-of-gentle-terrors.json) |
 | A House 4 Alesa | 305785 | [305785-a-house-4-alesa.json](./305785-a-house-4-alesa.json) |
 | A House for Alesa 2 | 303036 | [303036-a-house-for-alesa-2.json](./303036-a-house-for-alesa-2.json) |
+| A House for Alesa 3 | 303314 | [303314-a-house-for-alesa-3.json](./303314-a-house-for-alesa-3.json) |
 | A House for Alesa Remake | 398636 | [398636-a-house-for-alesa-remake.json](./398636-a-house-for-alesa-remake.json) |
 | A House of Endless Windows | 345040 | [345040-a-house-of-endless-windows.json](./345040-a-house-of-endless-windows.json) |
 | A House That Glows | 389593 | [389593-a-house-that-glows.json](./389593-a-house-that-glows.json) |
@@ -775,6 +777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Turnabout Called Justice | 306606 | [306606-a-turnabout-called-justice.json](./306606-a-turnabout-called-justice.json) |
 | A Turnabout On Rails | 308541 | [308541-a-turnabout-on-rails.json](./308541-a-turnabout-on-rails.json) |
 | A Turnabout to El Dorado | 295241 | [295241-a-turnabout-to-el-dorado.json](./295241-a-turnabout-to-el-dorado.json) |
+| A Turnabout With Too Many Faces | 303250 | [303250-a-turnabout-with-too-many-faces.json](./303250-a-turnabout-with-too-many-faces.json) |
 | A Turtle In A Hare-Machine | 246102 | [246102-a-turtle-in-a-hare-machine.json](./246102-a-turtle-in-a-hare-machine.json) |
 | A Twisted Place | 177828 | [177828-a-twisted-place.json](./177828-a-twisted-place.json) |
 | A Twisted Tale | 190034 | [190034-a-twisted-tale.json](./190034-a-twisted-tale.json) |
@@ -823,6 +826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Wave of Lights | 175838 | [175838-a-wave-of-lights.json](./175838-a-wave-of-lights.json) |
 | A Way Home Uzy's Journey | 339258 | [339258-a-way-home-uzys-journey.json](./339258-a-way-home-uzys-journey.json) |
 | A Way to Die | 159854 | [159854-a-way-to-die.json](./159854-a-way-to-die.json) |
+| A Way Up | 303234 | [303234-a-way-up.json](./303234-a-way-up.json) |
 | A way up! | 115617 | [115617-a-way-up.json](./115617-a-way-up.json) |
 | A Way With Words | 354960 | [354960-a-way-with-words.json](./354960-a-way-with-words.json) |
 | A Week | 223494 | [223494-a-week.json](./223494-a-week.json) |
@@ -10499,6 +10503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avatar Aquarium | 77409 | [77409-avatar-aquarium.json](./77409-avatar-aquarium.json) |
 | Avatar Arena | 195022 | [195022-avatar-arena.json](./195022-avatar-arena.json) |
 | Avatar Avenue | 77573 | [77573-avatar-avenue.json](./77573-avatar-avenue.json) |
+| Avatar Dairansen | 303216 | [303216-avatar-dairansen.json](./303216-avatar-dairansen.json) |
 | Avatar Deathmatch | 77582 | [77582-avatar-deathmatch.json](./77582-avatar-deathmatch.json) |
 | Avatar Deathmatch City | 77596 | [77596-avatar-deathmatch-city.json](./77596-avatar-deathmatch-city.json) |
 | Avatar Drop | 91630 | [91630-avatar-drop.json](./91630-avatar-drop.json) |
