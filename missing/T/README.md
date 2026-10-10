@@ -221,6 +221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tacs Classic Collection | 403728 | [403728-tacs-classic-collection.json](./403728-tacs-classic-collection.json) |
 | TacTac Prologue | 198383 | [198383-tactac-prologue.json](./198383-tactac-prologue.json) |
 | Tactera | 81169 | [81169-tactera.json](./81169-tactera.json) |
+| Tactful | 287565 | [287565-tactful.json](./287565-tactful.json) |
 | Tacti-Cat | 265926 | [265926-tacti-cat.json](./265926-tacti-cat.json) |
 | Tactic Force | 123542 | [123542-tactic-force.json](./123542-tactic-force.json) |
 | Tactic Legends | 211157 | [211157-tactic-legends.json](./211157-tactic-legends.json) |
@@ -16714,6 +16715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Towelket: One More Time 2 (Karaage Tanpopo) | 146883 | [146883-towelket-one-more-time-2-karaage-tanpopo.json](./146883-towelket-one-more-time-2-karaage-tanpopo.json) |
 | Towelket: One More Time 3 Karaage Tanpopo | 146554 | [146554-towelket-one-more-time-3-karaage-tanpopo.json](./146554-towelket-one-more-time-3-karaage-tanpopo.json) |
 | Towelket: One More Time 5 - Gaugau's Bride | 147250 | [147250-towelket-one-more-time-5-gaugaus-bride.json](./147250-towelket-one-more-time-5-gaugaus-bride.json) |
+| Tower | 287566 | [287566-tower.json](./287566-tower.json) |
 | Tower | 315714 | [315714-tower.json](./315714-tower.json) |
 | Tower 22 | 79383 | [79383-tower-22.json](./79383-tower-22.json) |
 | Tower and Guardian | 54466 | [54466-tower-and-guardian.json](./54466-tower-and-guardian.json) |
@@ -20270,11 +20272,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twin Circle | 192299 | [192299-twin-circle.json](./192299-twin-circle.json) |
 | Twin Cobra | 384136 | [384136-twin-cobra.json](./384136-twin-cobra.json) |
 | Twin Cobra | 8189 | [8189-twin-cobra.json](./8189-twin-cobra.json) |
+| Twin Copters | 287567 | [287567-twin-copters.json](./287567-twin-copters.json) |
 | Twin Coves | 169315 | [169315-twin-coves.json](./169315-twin-coves.json) |
 | Twin Dragon | 2536 | [2536-twin-dragon.json](./2536-twin-dragon.json) |
 | Twin Dragons | 159356 | [159356-twin-dragons.json](./159356-twin-dragons.json) |
 | Twin Eagle | 68355 | [68355-twin-eagle.json](./68355-twin-eagle.json) |
 | Twin Eagle II | 70389 | [70389-twin-eagle-ii.json](./70389-twin-eagle-ii.json) |
+| Twin Fish | 287568 | [287568-twin-fish.json](./287568-twin-fish.json) |
 | Twin Goddesses | 43810 | [43810-twin-goddesses.json](./43810-twin-goddesses.json) |
 | Twin Hawk | 294036 | [294036-twin-hawk.json](./294036-twin-hawk.json) |
 | Twin Jump | 168621 | [168621-twin-jump.json](./168621-twin-jump.json) |
