@@ -1277,6 +1277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parallax | 384255 | [384255-parallax.json](./384255-parallax.json) |
 | Parallax Tunnel | 149540 | [149540-parallax-tunnel.json](./149540-parallax-tunnel.json) |
 | Parallel | 259643 | [259643-parallel.json](./259643-parallel.json) |
+| Parallel | 280166 | [280166-parallel.json](./280166-parallel.json) |
 | Parallel | 342083 | [342083-parallel.json](./342083-parallel.json) |
 | Parallel Arena | 105134 | [105134-parallel-arena.json](./105134-parallel-arena.json) |
 | Parallel Kingdom | 70600 | [70600-parallel-kingdom.json](./70600-parallel-kingdom.json) |
@@ -3355,6 +3356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantom Thief Mirage and the Curious Clues | 420664 | [420664-phantom-thief-mirage-and-the-curious-clues.json](./420664-phantom-thief-mirage-and-the-curious-clues.json) |
 | Phantom Tides | 223952 | [223952-phantom-tides.json](./223952-phantom-tides.json) |
 | Phantom Trigger | 27714 | [27714-phantom-trigger.json](./27714-phantom-trigger.json) |
+| Phantom Unit 999 | 280153 | [280153-phantom-unit-999.json](./280153-phantom-unit-999.json) |
 | Phantom Vortex VR | 278389 | [278389-phantom-vortex-vr.json](./278389-phantom-vortex-vr.json) |
 | Phantom Whispers | 291257 | [291257-phantom-whispers.json](./291257-phantom-whispers.json) |
 | Phantom Xcape | 304702 | [304702-phantom-xcape.json](./304702-phantom-xcape.json) |
@@ -5899,6 +5901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planum | 96890 | [96890-planum.json](./96890-planum.json) |
 | Plaque Attack | 18410 | [18410-plaque-attack.json](./18410-plaque-attack.json) |
 | Plaqueman | 229928 | [229928-plaqueman.json](./229928-plaqueman.json) |
+| Plaquist Simulator | 280140 | [280140-plaquist-simulator.json](./280140-plaquist-simulator.json) |
 | Plarail Yume Ga Ippai! | 270150 | [270150-plarail-yume-ga-ippai.json](./270150-plarail-yume-ga-ippai.json) |
 | Plasma | 219093 | [219093-plasma.json](./219093-plasma.json) |
 | Plasma Attack | 158650 | [158650-plasma-attack.json](./158650-plasma-attack.json) |
@@ -6373,6 +6376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Fighter | 23094 | [23094-pocket-fighter.json](./23094-pocket-fighter.json) |
 | Pocket Fish | 67942 | [67942-pocket-fish.json](./67942-pocket-fish.json) |
 | Pocket Fishing | 286199 | [286199-pocket-fishing.json](./286199-pocket-fishing.json) |
+| Pocket Foosball | 280150 | [280150-pocket-foosball.json](./280150-pocket-foosball.json) |
 | Pocket Gal | 39501 | [39501-pocket-gal.json](./39501-pocket-gal.json) |
 | Pocket Gal Deluxe | 40127 | [40127-pocket-gal-deluxe.json](./40127-pocket-gal-deluxe.json) |
 | Pocket Galaxy | 116454 | [116454-pocket-galaxy.json](./116454-pocket-galaxy.json) |
@@ -8444,6 +8448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PowerHits: BattleTech | 69864 | [69864-powerhits-battletech.json](./69864-powerhits-battletech.json) |
 | Powerjackers: Superhero Battle Royale | 204941 | [204941-powerjackers-superhero-battle-royale.json](./204941-powerjackers-superhero-battle-royale.json) |
 | Powerline.io | 191257 | [191257-powerline-io.json](./191257-powerline-io.json) |
+| Powernaut Decay | 280156 | [280156-powernaut-decay.json](./280156-powernaut-decay.json) |
 | Powerplay | 311141 | [311141-powerplay.json](./311141-powerplay.json) |
 | Powerplay Hockey | 78947 | [78947-powerplay-hockey.json](./78947-powerplay-hockey.json) |
 | Powerplay Tennis | 394436 | [394436-powerplay-tennis.json](./394436-powerplay-tennis.json) |
