@@ -3954,6 +3954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fisher-Price: Ready for School - Kindergarten | 77007 | [77007-fisher-price-ready-for-school-kindergarten.json](./77007-fisher-price-ready-for-school-kindergarten.json) |
 | Fisher-Price: Time To Play - Pet Shop | 283677 | [283677-fisher-price-time-to-play-pet-shop.json](./283677-fisher-price-time-to-play-pet-shop.json) |
 | Fisherman | 326247 | [326247-fisherman.json](./326247-fisherman.json) |
+| Fisherman Simulator | 318694 | [318694-fisherman-simulator.json](./318694-fisherman-simulator.json) |
 | Fisherman's Bass Club | 43427 | [43427-fishermans-bass-club.json](./43427-fishermans-bass-club.json) |
 | Fisherman's House | 172749 | [172749-fishermans-house.json](./172749-fishermans-house.json) |
 | Fisherman's Paradise II | 209430 | [209430-fishermans-paradise-ii.json](./209430-fishermans-paradise-ii.json) |
@@ -7419,6 +7420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frogmaster | 268035 | [268035-frogmaster.json](./268035-frogmaster.json) |
 | Frogmonster | 187372 | [187372-frogmonster.json](./187372-frogmonster.json) |
 | Frogo | 208426 | [208426-frogo.json](./208426-frogo.json) |
+| Frogs | 318688 | [318688-frogs.json](./318688-frogs.json) |
 | Frogs Also Struggle | 258202 | [258202-frogs-also-struggle.json](./258202-frogs-also-struggle.json) |
 | Frogshot Adventure | 380559 | [380559-frogshot-adventure.json](./380559-frogshot-adventure.json) |
 | Frogsong | 132630 | [132630-frogsong.json](./132630-frogsong.json) |
