@@ -32,6 +32,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | D. Jump | 91952 | [91952-d-jump.json](./91952-d-jump.json) |
 | D. the Atom Shifter | 110312 | [110312-d-the-atom-shifter.json](./110312-d-the-atom-shifter.json) |
 | D.A.: Pursuit of Justice | 100282 | [100282-d-a-pursuit-of-justice.json](./100282-d-a-pursuit-of-justice.json) |
+| D.A.M. Champion | 280160 | [280160-d-a-m-champion.json](./280160-d-a-m-champion.json) |
+| D.Beta | 280162 | [280162-d-beta.json](./280162-d-beta.json) |
 | D.C. Girl's Symphony | 72661 | [72661-d-c-girls-symphony.json](./72661-d-c-girls-symphony.json) |
 | D.C. Girl's Symphony Pocket | 221833 | [221833-d-c-girls-symphony-pocket.json](./221833-d-c-girls-symphony-pocket.json) |
 | D.C. II ~Da Capo II~ | 61641 | [61641-d-c-ii-da-capo-ii.json](./61641-d-c-ii-da-capo-ii.json) |
@@ -7546,6 +7548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Look! | 168387 | [168387-dont-look.json](./168387-dont-look.json) |
 | Don't Look! | 372019 | [372019-dont-look.json](./372019-dont-look.json) |
 | Don't Make Love | 74587 | [74587-dont-make-love.json](./74587-dont-make-love.json) |
+| Don't Melt the Snowman | 280134 | [280134-dont-melt-the-snowman.json](./280134-dont-melt-the-snowman.json) |
 | Don't Mess With Bober | 350603 | [350603-dont-mess-with-bober.json](./350603-dont-mess-with-bober.json) |
 | Don't Mess with Gamers | 322128 | [322128-dont-mess-with-gamers.json](./322128-dont-mess-with-gamers.json) |
 | Don't Mess With Your Ex | 414309 | [414309-dont-mess-with-your-ex.json](./414309-dont-mess-with-your-ex.json) |
