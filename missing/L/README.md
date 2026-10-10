@@ -2727,6 +2727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lieve Oma | 27648 | [27648-lieve-oma.json](./27648-lieve-oma.json) |
 | Lièyàn Chuánqí | 154348 | [154348-lieyan-chuanqi.json](./154348-lieyan-chuanqi.json) |
 | Life // Blood | 293679 | [293679-life-blood.json](./293679-life-blood.json) |
+| Life & Crimes | 280732 | [280732-life-and-crimes.json](./280732-life-and-crimes.json) |
 | Life & Death | 12177 | [12177-life-and-death.json](./12177-life-and-death.json) |
 | Life & Shadow: Celestial Call | 348444 | [348444-life-and-shadow-celestial-call.json](./348444-life-and-shadow-celestial-call.json) |
 | Life 2047 Escape Simulator | 376086 | [376086-life-2047-escape-simulator.json](./376086-life-2047-escape-simulator.json) |
@@ -3666,6 +3667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Gods | 244259 | [244259-little-gods.json](./244259-little-gods.json) |
 | Little Gods of the Abyss | 169434 | [169434-little-gods-of-the-abyss.json](./169434-little-gods-of-the-abyss.json) |
 | Little Goody Two Shoes | 137243 | [137243-little-goody-two-shoes.json](./137243-little-goody-two-shoes.json) |
+| Little Goody Two Shoes: Deluxe Edition | 280737 | [280737-little-goody-two-shoes-deluxe-edition.json](./280737-little-goody-two-shoes-deluxe-edition.json) |
 | Little Green Frog | 302076 | [302076-little-green-frog.json](./302076-little-green-frog.json) |
 | Little Green Man | 55099 | [55099-little-green-man.json](./55099-little-green-man.json) |
 | Little Grimm | 390706 | [390706-little-grimm.json](./390706-little-grimm.json) |
