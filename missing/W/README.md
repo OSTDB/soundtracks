@@ -2006,6 +2006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Welcome Home | 146327 | [146327-welcome-home.json](./146327-welcome-home.json) |
 | Welcome Home | 183356 | [183356-welcome-home.json](./183356-welcome-home.json) |
 | Welcome Home | 191054 | [191054-welcome-home.json](./191054-welcome-home.json) |
+| Welcome Home | 305961 | [305961-welcome-home.json](./305961-welcome-home.json) |
 | Welcome Home | 327352 | [327352-welcome-home.json](./327352-welcome-home.json) |
 | Welcome Home, Love | 30594 | [30594-welcome-home-love.json](./30594-welcome-home-love.json) |
 | Welcome House | 62987 | [62987-welcome-house.json](./62987-welcome-house.json) |
@@ -2650,6 +2651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where Time Ends | 363568 | [363568-where-time-ends.json](./363568-where-time-ends.json) |
 | Where Time Stood Still | 12489 | [12489-where-time-stood-still.json](./12489-where-time-stood-still.json) |
 | Where To? | 177937 | [177937-where-to.json](./177937-where-to.json) |
+| Where wh..? | 305971 | [305971-where-wh.json](./305971-where-wh.json) |
 | Where Winds Meet: Hidden Mountain | 405087 | [405087-where-winds-meet-hidden-mountain.json](./405087-where-winds-meet-hidden-mountain.json) |
 | Where Winds Meet: Spring's Bliss | 388906 | [388906-where-winds-meet-springs-bliss.json](./388906-where-winds-meet-springs-bliss.json) |
 | Where Winds Meet: The Imperial Palace | 381243 | [381243-where-winds-meet-the-imperial-palace.json](./381243-where-winds-meet-the-imperial-palace.json) |
@@ -3107,6 +3109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wide Cross | 109497 | [109497-wide-cross.json](./109497-wide-cross.json) |
 | Wide Ocean Big Jacket | 127591 | [127591-wide-ocean-big-jacket.json](./127591-wide-ocean-big-jacket.json) |
 | Wide Open | 173284 | [173284-wide-open.json](./173284-wide-open.json) |
+| Widen | 305965 | [305965-widen.json](./305965-widen.json) |
 | Widget Inc. | 319207 | [319207-widget-inc.json](./319207-widget-inc.json) |
 | Widget Satchel | 105353 | [105353-widget-satchel.json](./105353-widget-satchel.json) |
 | Widget's Odyssey II | 53048 | [53048-widgets-odyssey-ii.json](./53048-widgets-odyssey-ii.json) |
