@@ -1068,6 +1068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Parables: The Thief and the Tinderbox | 139796 | [139796-dark-parables-the-thief-and-the-tinderbox.json](./139796-dark-parables-the-thief-and-the-tinderbox.json) |
 | Dark Parables: The Thief and the Tinderbox - Collector's Edition | 31064 | [31064-dark-parables-the-thief-and-the-tinderbox-collectors-edition.json](./31064-dark-parables-the-thief-and-the-tinderbox-collectors-edition.json) |
 | Dark Passenger - An experimental audio game | 24071 | [24071-dark-passenger-an-experimental-audio-game.json](./24071-dark-passenger-an-experimental-audio-game.json) |
+| Dark Passion: Anime Match Puzzles | 332490 | [332490-dark-passion-anime-match-puzzles.json](./332490-dark-passion-anime-match-puzzles.json) |
 | Dark Past | 211817 | [211817-dark-past.json](./211817-dark-past.json) |
 | Dark Past Darker Future | 255254 | [255254-dark-past-darker-future.json](./255254-dark-past-darker-future.json) |
 | Dark Pathways | 164937 | [164937-dark-pathways.json](./164937-dark-pathways.json) |
@@ -2497,6 +2498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DeadWire | 332252 | [332252-deadwire.json](./332252-deadwire.json) |
 | Deadwood Drive | 385302 | [385302-deadwood-drive.json](./385302-deadwood-drive.json) |
 | Deadwood: The Forgotten Curse | 22738 | [22738-deadwood-the-forgotten-curse.json](./22738-deadwood-the-forgotten-curse.json) |
+| Deadzone Haunt | 332390 | [332390-deadzone-haunt.json](./332390-deadzone-haunt.json) |
 | Deadzone Rogue 2 | 403822 | [403822-deadzone-rogue-2.json](./403822-deadzone-rogue-2.json) |
 | Deadzone: Rogue | 316979 | [316979-deadzone-rogue.json](./316979-deadzone-rogue.json) |
 | Deadzone: Rogue - Apophis | 373616 | [373616-deadzone-rogue-apophis.json](./373616-deadzone-rogue-apophis.json) |
@@ -7843,6 +7845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doomed Detective Game | 336542 | [336542-doomed-detective-game.json](./336542-doomed-detective-game.json) |
 | Doomed Dwarves | 387633 | [387633-doomed-dwarves.json](./387633-doomed-dwarves.json) |
 | Doomed Freedom | 91111 | [91111-doomed-freedom.json](./91111-doomed-freedom.json) |
+| Doomed Hell 64 | 332386 | [332386-doomed-hell-64.json](./332386-doomed-hell-64.json) |
 | Doomed Heretic | 104599 | [104599-doomed-heretic.json](./104599-doomed-heretic.json) |
 | Doomed Love | 301944 | [301944-doomed-love.json](./301944-doomed-love.json) |
 | Doomed Otaku | 339981 | [339981-doomed-otaku.json](./339981-doomed-otaku.json) |
