@@ -602,6 +602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Queue | 180255 | [180255-queue.json](./180255-queue.json) |
 | Queue Simulator | 276715 | [276715-queue-simulator.json](./276715-queue-simulator.json) |
 | Queued | 256538 | [256538-queued.json](./256538-queued.json) |
+| Qui Qui | 282516 | [282516-qui-qui.json](./282516-qui-qui.json) |
 | Qui Veut Gagner Des Millions | 313505 | [313505-qui-veut-gagner-des-millions.json](./313505-qui-veut-gagner-des-millions.json) |
 | Quible Sphere | 105281 | [105281-quible-sphere.json](./105281-quible-sphere.json) |
 | Quical | 129661 | [129661-quical.json](./129661-quical.json) |
