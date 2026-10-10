@@ -458,6 +458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Matter of Murder | 26887 | [26887-a-matter-of-murder.json](./26887-a-matter-of-murder.json) |
 | A Matter of Principle | 226218 | [226218-a-matter-of-principle.json](./226218-a-matter-of-principle.json) |
 | A Matter of Time | 153414 | [153414-a-matter-of-time.json](./153414-a-matter-of-time.json) |
+| A Mausoleum for All | 294058 | [294058-a-mausoleum-for-all.json](./294058-a-mausoleum-for-all.json) |
 | A Maze 3D | 255856 | [255856-a-maze-3d.json](./255856-a-maze-3d.json) |
 | A Maze Against Time | 324980 | [324980-a-maze-against-time.json](./324980-a-maze-against-time.json) |
 | A Maze for Owls | 182517 | [182517-a-maze-for-owls.json](./182517-a-maze-for-owls.json) |
@@ -5398,6 +5399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ancestors Legacy: Special Edition | 124820 | [124820-ancestors-legacy-special-edition.json](./124820-ancestors-legacy-special-edition.json) |
 | Ancestory | 13193 | [13193-ancestory.json](./13193-ancestory.json) |
 | Ancestral | 318397 | [318397-ancestral.json](./318397-ancestral.json) |
+| Ancestral Hunter | 294026 | [294026-ancestral-hunter.json](./294026-ancestral-hunter.json) |
 | Anchor | 375444 | [375444-anchor.json](./375444-anchor.json) |
 | Anchor Up | 166050 | [166050-anchor-up.json](./166050-anchor-up.json) |
 | Anchor-13 | 408047 | [408047-anchor-13.json](./408047-anchor-13.json) |
@@ -6318,6 +6320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anomaly Company | 389123 | [389123-anomaly-company.json](./389123-anomaly-company.json) |
 | Anomaly Control Simulator | 409646 | [409646-anomaly-control-simulator.json](./409646-anomaly-control-simulator.json) |
 | Anomaly Corridor | 319143 | [319143-anomaly-corridor.json](./319143-anomaly-corridor.json) |
+| Anomaly Escape | 294047 | [294047-anomaly-escape.json](./294047-anomaly-escape.json) |
 | Anomaly Exit | 290720 | [290720-anomaly-exit.json](./290720-anomaly-exit.json) |
 | Anomaly Living | 334922 | [334922-anomaly-living.json](./334922-anomaly-living.json) |
 | Anomaly Loop | 293091 | [293091-anomaly-loop.json](./293091-anomaly-loop.json) |
@@ -9447,6 +9450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astral Fantasy | 350662 | [350662-astral-fantasy.json](./350662-astral-fantasy.json) |
 | Astral Flux | 193273 | [193273-astral-flux.json](./193273-astral-flux.json) |
 | Astral Frontier Online | 403629 | [403629-astral-frontier-online.json](./403629-astral-frontier-online.json) |
+| Astral Gate | 294043 | [294043-astral-gate.json](./294043-astral-gate.json) |
 | Astral Green | 184079 | [184079-astral-green.json](./184079-astral-green.json) |
 | Astral Guardians | 303188 | [303188-astral-guardians.json](./303188-astral-guardians.json) |
 | Astral Heroes | 32858 | [32858-astral-heroes.json](./32858-astral-heroes.json) |
