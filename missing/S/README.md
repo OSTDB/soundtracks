@@ -2606,6 +2606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seashells | 197922 | [197922-seashells.json](./197922-seashells.json) |
 | Seashine | 143091 | [143091-seashine.json](./143091-seashine.json) |
 | Seasick | 219617 | [219617-seasick.json](./219617-seasick.json) |
+| Seaside Drive | 318723 | [318723-seaside-drive.json](./318723-seaside-drive.json) |
 | Seaside Fireflies | 336612 | [336612-seaside-fireflies.json](./336612-seaside-fireflies.json) |
 | Seaside Special | 47199 | [47199-seaside-special.json](./47199-seaside-special.json) |
 | SeaSkulls | 176260 | [176260-seaskulls.json](./176260-seaskulls.json) |
@@ -13637,6 +13638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpongeBob Run | 304261 | [304261-spongebob-run.json](./304261-spongebob-run.json) |
 | SpongeBob SolitairePants | 294177 | [294177-spongebob-solitairepants.json](./294177-spongebob-solitairepants.json) |
 | SpongeBob SquarePants | 220120 | [220120-spongebob-squarepants.json](./220120-spongebob-squarepants.json) |
+| SpongeBob SquarePants | 318737 | [318737-spongebob-squarepants.json](./318737-spongebob-squarepants.json) |
 | SpongeBob SquarePants 3D Obstacle Odyssey | 46728 | [46728-spongebob-squarepants-3d-obstacle-odyssey.json](./46728-spongebob-squarepants-3d-obstacle-odyssey.json) |
 | SpongeBob SquarePants Boating School | 382924 | [382924-spongebob-squarepants-boating-school.json](./382924-spongebob-squarepants-boating-school.json) |
 | SpongeBob SquarePants Bowling | 23599 | [23599-spongebob-squarepants-bowling.json](./23599-spongebob-squarepants-bowling.json) |
@@ -15102,6 +15104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: X-Wing Tour of Duty - Imperial Pursuit | 173 | [173-star-wars-x-wing-tour-of-duty-imperial-pursuit.json](./173-star-wars-x-wing-tour-of-duty-imperial-pursuit.json) |
 | Star Wars: X-Wing vs TIE Fighter - Balance of Power Campaigns | 400431 | [400431-star-wars-x-wing-vs-tie-fighter-balance-of-power-campaigns.json](./400431-star-wars-x-wing-vs-tie-fighter-balance-of-power-campaigns.json) |
 | Star Wars: X-Wing vs. TIE Fighter | 170 | [170-star-wars-x-wing-vs-tie-fighter.json](./170-star-wars-x-wing-vs-tie-fighter.json) |
+| Star Waspir | 318724 | [318724-star-waspir.json](./318724-star-waspir.json) |
 | Star Wing | 385716 | [385716-star-wing.json](./385716-star-wing.json) |
 | Star Witch | 190224 | [190224-star-witch.json](./190224-star-witch.json) |
 | Star Wolves 3: Ashes of Victory | 65847 | [65847-star-wolves-3-ashes-of-victory.json](./65847-star-wolves-3-ashes-of-victory.json) |
