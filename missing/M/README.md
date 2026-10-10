@@ -1974,6 +1974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MapGod | 412513 | [412513-mapgod.json](./412513-mapgod.json) |
 | Maple & Rufus: The Water Robbery | 296490 | [296490-maple-and-rufus-the-water-robbery.json](./296490-maple-and-rufus-the-water-robbery.json) |
 | Maple and Aluna | 369124 | [369124-maple-and-aluna.json](./369124-maple-and-aluna.json) |
+| Maple Colors | 322259 | [322259-maple-colors.json](./322259-maple-colors.json) |
 | Maple County | 182346 | [182346-maple-county.json](./182346-maple-county.json) |
 | Maple Forest | 318604 | [318604-maple-forest.json](./318604-maple-forest.json) |
 | Maple Tale | 319374 | [319374-maple-tale.json](./319374-maple-tale.json) |
@@ -2472,6 +2473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Rescues Santa Claus | 229618 | [229618-mario-rescues-santa-claus.json](./229618-mario-rescues-santa-claus.json) |
 | Mario Roots | 323894 | [323894-mario-roots.json](./323894-mario-roots.json) |
 | Mario Royale Deluxe | 262665 | [262665-mario-royale-deluxe.json](./262665-mario-royale-deluxe.json) |
+| Mario Royale Legacy | 322238 | [322238-mario-royale-legacy.json](./322238-mario-royale-legacy.json) |
 | Mario Sports Complex: Barrel Blast | 231644 | [231644-mario-sports-complex-barrel-blast.json](./231644-mario-sports-complex-barrel-blast.json) |
 | Mario Sports Mix | 3989 | [3989-mario-sports-mix.json](./3989-mario-sports-mix.json) |
 | Mario Spy | 318030 | [318030-mario-spy.json](./318030-mario-spy.json) |
@@ -5118,6 +5120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MEIOU and Taxes | 294450 | [294450-meiou-and-taxes.json](./294450-meiou-and-taxes.json) |
 | MeiQi 2022 | 190735 | [190735-meiqi-2022.json](./190735-meiqi-2022.json) |
 | MeiQi 2023 | 224646 | [224646-meiqi-2023.json](./224646-meiqi-2023.json) |
+| MeiQi 2024 | 322036 | [322036-meiqi-2024.json](./322036-meiqi-2024.json) |
 | Meiro | 126508 | [126508-meiro.json](./126508-meiro.json) |
 | Meiro Master | 197253 | [197253-meiro-master.json](./197253-meiro-master.json) |
 | Měishàonián Mèng Gōngchǎng 3: Chóngshēng | 116981 | [116981-meishaonian-meng-gongchang-3-chongsheng.json](./116981-meishaonian-meng-gongchang-3-chongsheng.json) |
@@ -5534,6 +5537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meow Express | 186685 | [186685-meow-express.json](./186685-meow-express.json) |
 | Meow Master: Battle for Catnip | 251726 | [251726-meow-master-battle-for-catnip.json](./251726-meow-master-battle-for-catnip.json) |
 | Meow Meoww | 265415 | [265415-meow-meoww.json](./265415-meow-meoww.json) |
+| Meow Mission | 322246 | [322246-meow-mission.json](./322246-meow-mission.json) |
 | Meow Moments: Celebrating Frost & Flora | 410375 | [410375-meow-moments-celebrating-frost-and-flora.json](./410375-meow-moments-celebrating-frost-and-flora.json) |
 | Meow Moments: Celebrating Geeks & Athletes | 342234 | [342234-meow-moments-celebrating-geeks-and-athletes.json](./342234-meow-moments-celebrating-geeks-and-athletes.json) |
 | Meow Moments: Celebrating Renewal & Romance | 325008 | [325008-meow-moments-celebrating-renewal-and-romance.json](./325008-meow-moments-celebrating-renewal-and-romance.json) |
@@ -8433,6 +8437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mistaker | 129713 | [129713-mistaker.json](./129713-mistaker.json) |
 | Mistakes Were Made | 179036 | [179036-mistakes-were-made.json](./179036-mistakes-were-made.json) |
 | Mistbound | 370667 | [370667-mistbound.json](./370667-mistbound.json) |
+| Mister Antonio | 322243 | [322243-mister-antonio.json](./322243-mister-antonio.json) |
 | Mister Burnhouse | 118826 | [118826-mister-burnhouse.json](./118826-mister-burnhouse.json) |
 | Mister Easter | 246470 | [246470-mister-easter.json](./246470-mister-easter.json) |
 | Mister Fruit Joy | 137676 | [137676-mister-fruit-joy.json](./137676-mister-fruit-joy.json) |
@@ -11533,6 +11538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Multimedia Cats | 194441 | [194441-multimedia-cats.json](./194441-multimedia-cats.json) |
 | Multimedia Dinosaurs | 98941 | [98941-multimedia-dinosaurs.json](./98941-multimedia-dinosaurs.json) |
 | Multimedia Shinsho: Driving School - Futsu Menkyoka-hen | 245253 | [245253-multimedia-shinsho-driving-school-futsu-menkyoka-hen.json](./245253-multimedia-shinsho-driving-school-futsu-menkyoka-hen.json) |
+| Multimind | 322244 | [322244-multimind.json](./322244-multimind.json) |
 | MultiMino 2: Polyform | 337569 | [337569-multimino-2-polyform.json](./337569-multimino-2-polyform.json) |
 | Multimirror | 31090 | [31090-multimirror.json](./31090-multimirror.json) |
 | Multiplayer Bots | 275848 | [275848-multiplayer-bots.json](./275848-multiplayer-bots.json) |
