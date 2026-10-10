@@ -1668,6 +1668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reach To Neighbor House | 241946 | [241946-reach-to-neighbor-house.json](./241946-reach-to-neighbor-house.json) |
 | Reach to Tsukuyomi | 278984 | [278984-reach-to-tsukuyomi.json](./278984-reach-to-tsukuyomi.json) |
 | Reach Your Destiny | 297797 | [297797-reach-your-destiny.json](./297797-reach-your-destiny.json) |
+| Reachin' Pichin | 322826 | [322826-reachin-pichin.json](./322826-reachin-pichin.json) |
 | Reaching for Petals: VR Edition | 68664 | [68664-reaching-for-petals-vr-edition.json](./68664-reaching-for-petals-vr-edition.json) |
 | Reaching the Seven: Asteroids | 178627 | [178627-reaching-the-seven-asteroids.json](./178627-reaching-the-seven-asteroids.json) |
 | ReactFuse | 264641 | [264641-reactfuse.json](./264641-reactfuse.json) |
@@ -3176,9 +3177,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Replikant Chat | 326657 | [326657-replikant-chat.json](./326657-replikant-chat.json) |
 | Replikator | 145251 | [145251-replikator.json](./145251-replikator.json) |
 | Reply All | 350055 | [350055-reply-all.json](./350055-reply-all.json) |
+| Report II | 322812 | [322812-report-ii.json](./322812-report-ii.json) |
+| Report III | 322813 | [322813-report-iii.json](./322813-report-iii.json) |
 | Report One | 322808 | [322808-report-one.json](./322808-report-one.json) |
 | Report One: Operation Alive | 322809 | [322809-report-one-operation-alive.json](./322809-report-one-operation-alive.json) |
 | Report: Horror Haul | 345705 | [345705-report-horror-haul.json](./345705-report-horror-haul.json) |
+| Report: Stas | 322814 | [322814-report-stas.json](./322814-report-stas.json) |
 | Reporter | 105975 | [105975-reporter.json](./105975-reporter.json) |
 | Reporter 2 | 123393 | [123393-reporter-2.json](./123393-reporter-2.json) |
 | Repose | 272831 | [272831-repose.json](./272831-repose.json) |
