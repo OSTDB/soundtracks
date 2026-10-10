@@ -1905,6 +1905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Headhunter | 4350 | [4350-headhunter.json](./4350-headhunter.json) |
 | HeadHunters | 373751 | [373751-headhunters.json](./373751-headhunters.json) |
 | Headhunting | 345130 | [345130-headhunting.json](./345130-headhunting.json) |
+| Heading Home | 278954 | [278954-heading-home.json](./278954-heading-home.json) |
 | Headlander | 15857 | [15857-headlander.json](./15857-headlander.json) |
 | Headlice | 292585 | [292585-headlice.json](./292585-headlice.json) |
 | Headliner: NoviNews | 107596 | [107596-headliner-novinews.json](./107596-headliner-novinews.json) |
@@ -6191,6 +6192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horror Break: Head to Head | 214528 | [214528-horror-break-head-to-head.json](./214528-horror-break-head-to-head.json) |
 | Horror Bundle Vol. 1 | 147795 | [147795-horror-bundle-vol-1.json](./147795-horror-bundle-vol-1.json) |
 | Horror Bundle: 3 in 1 | 247584 | [247584-horror-bundle-3-in-1.json](./247584-horror-bundle-3-in-1.json) |
+| Horror Cam | 278947 | [278947-horror-cam.json](./278947-horror-cam.json) |
 | Horror Cartridge Collection | 244897 | [244897-horror-cartridge-collection.json](./244897-horror-cartridge-collection.json) |
 | Horror Castle | 262007 | [262007-horror-castle.json](./262007-horror-castle.json) |
 | Horror Clash | 319969 | [319969-horror-clash.json](./319969-horror-clash.json) |
