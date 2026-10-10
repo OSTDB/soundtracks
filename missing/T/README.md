@@ -2459,6 +2459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Temporal Gunslinger | 338308 | [338308-temporal-gunslinger.json](./338308-temporal-gunslinger.json) |
 | Temporal Odyssey | 277406 | [277406-temporal-odyssey.json](./277406-temporal-odyssey.json) |
 | Temporal Purge: Z | 154378 | [154378-temporal-purge-z.json](./154378-temporal-purge-z.json) |
+| Temporal Shift: Flow of Eternity | 316935 | [316935-temporal-shift-flow-of-eternity.json](./316935-temporal-shift-flow-of-eternity.json) |
 | Temporal Sprint | 190439 | [190439-temporal-sprint.json](./190439-temporal-sprint.json) |
 | Temporal Titans | 309865 | [309865-temporal-titans.json](./309865-temporal-titans.json) |
 | Temporarily | 280255 | [280255-temporarily.json](./280255-temporarily.json) |
@@ -4010,6 +4011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Big Adventure | 339216 | [339216-the-big-adventure.json](./339216-the-big-adventure.json) |
 | The Big Bang Theory Game | 325084 | [325084-the-big-bang-theory-game.json](./325084-the-big-bang-theory-game.json) |
 | The Big Bell Race | 318740 | [318740-the-big-bell-race.json](./318740-the-big-bell-race.json) |
+| The Big Blow Up | 316972 | [316972-the-big-blow-up.json](./316972-the-big-blow-up.json) |
 | The Big Capitalist 3 | 106758 | [106758-the-big-capitalist-3.json](./106758-the-big-capitalist-3.json) |
 | The Big Catch | 217819 | [217819-the-big-catch.json](./217819-the-big-catch.json) |
 | The Big City | 270702 | [270702-the-big-city.json](./270702-the-big-city.json) |
@@ -5908,6 +5910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Flight of Dowran | 75038 | [75038-the-flight-of-dowran.json](./75038-the-flight-of-dowran.json) |
 | The Flintstones | 47227 | [47227-the-flintstones.json](./47227-the-flintstones.json) |
 | The Flintstones | 51942 | [51942-the-flintstones.json](./51942-the-flintstones.json) |
+| The Flintstones in Viva Rock Vegas | 316930 | [316930-the-flintstones-in-viva-rock-vegas.json](./316930-the-flintstones-in-viva-rock-vegas.json) |
 | The Flintstones in Viva Rock Vegas | 78017 | [78017-the-flintstones-in-viva-rock-vegas.json](./78017-the-flintstones-in-viva-rock-vegas.json) |
 | The Flintstones: Bedrock Jackpot | 396443 | [396443-the-flintstones-bedrock-jackpot.json](./396443-the-flintstones-bedrock-jackpot.json) |
 | The Flintstones: Burgertime in Bedrock | 49930 | [49930-the-flintstones-burgertime-in-bedrock.json](./49930-the-flintstones-burgertime-in-bedrock.json) |
@@ -12044,6 +12047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Themely | 393788 | [393788-themely.json](./393788-themely.json) |
 | TheMemory | 110540 | [110540-thememory.json](./110540-thememory.json) |
 | Themes of Dark and Light | 153864 | [153864-themes-of-dark-and-light.json](./153864-themes-of-dark-and-light.json) |
+| TheMightyInferno | 316921 | [316921-themightyinferno.json](./316921-themightyinferno.json) |
 | Themis | 327856 | [327856-themis.json](./327856-themis.json) |
 | TheMist | 116335 | [116335-themist.json](./116335-themist.json) |
 | Theo Space Miner | 248818 | [248818-theo-space-miner.json](./248818-theo-space-miner.json) |
@@ -14330,6 +14334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tintin in Tibet | 249148 | [249148-tintin-in-tibet.json](./249148-tintin-in-tibet.json) |
 | Tintin in Tibet | 249149 | [249149-tintin-in-tibet.json](./249149-tintin-in-tibet.json) |
 | Tintin on the Moon | 12797 | [12797-tintin-on-the-moon.json](./12797-tintin-on-the-moon.json) |
+| Tintin on the Moon | 316928 | [316928-tintin-on-the-moon.json](./316928-tintin-on-the-moon.json) |
 | TinTin: Destination Adventure | 43902 | [43902-tintin-destination-adventure.json](./43902-tintin-destination-adventure.json) |
 | Tinting Time | 216500 | [216500-tinting-time.json](./216500-tinting-time.json) |
 | Tiny | 298261 | [298261-tiny.json](./298261-tiny.json) |
@@ -20338,6 +20343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Typing Haou: Hokuto no Ken Gekiuchi 2 | 64190 | [64190-typing-haou-hokuto-no-ken-gekiuchi-2.json](./64190-typing-haou-hokuto-no-ken-gekiuchi-2.json) |
 | Typing Hearts | 149091 | [149091-typing-hearts.json](./149091-typing-hearts.json) |
 | Typing Hero | 126428 | [126428-typing-hero.json](./126428-typing-hero.json) |
+| Typing Jet | 316927 | [316927-typing-jet.json](./316927-typing-jet.json) |
 | Typing Karaoke | 64362 | [64362-typing-karaoke.json](./64362-typing-karaoke.json) |
 | Typing Ninja | 290943 | [290943-typing-ninja.json](./290943-typing-ninja.json) |
 | Typing of the Date | 138656 | [138656-typing-of-the-date.json](./138656-typing-of-the-date.json) |
