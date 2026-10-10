@@ -444,6 +444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Radio General: Water Rats | 213490 | [213490-radio-general-water-rats.json](./213490-radio-general-water-rats.json) |
 | Radio Helicopter | 51159 | [51159-radio-helicopter.json](./51159-radio-helicopter.json) |
 | Radio Helicopter II | 43230 | [43230-radio-helicopter-ii.json](./43230-radio-helicopter-ii.json) |
+| Radio Rayless | 324348 | [324348-radio-rayless.json](./324348-radio-rayless.json) |
 | Radio Runner | 133345 | [133345-radio-runner.json](./133345-radio-runner.json) |
 | Radio Station | 132772 | [132772-radio-station.json](./132772-radio-station.json) |
 | Radio the Universe | 15694 | [15694-radio-the-universe.json](./15694-radio-the-universe.json) |
@@ -1661,6 +1662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reach | 130790 | [130790-reach.json](./130790-reach.json) |
 | Reach | 347893 | [347893-reach.json](./347893-reach.json) |
 | Reach Charon | 269561 | [269561-reach-charon.json](./269561-reach-charon.json) |
+| Reach for the Stars | 324585 | [324585-reach-for-the-stars.json](./324585-reach-for-the-stars.json) |
 | Reach the light | 260871 | [260871-reach-the-light.json](./260871-reach-the-light.json) |
 | Reach the Moon! | 234741 | [234741-reach-the-moon.json](./234741-reach-the-moon.json) |
 | Reach To Neighbor House | 241946 | [241946-reach-to-neighbor-house.json](./241946-reach-to-neighbor-house.json) |
@@ -1705,6 +1707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ready Contest | 112233 | [112233-ready-contest.json](./112233-ready-contest.json) |
 | Ready or Die | 389071 | [389071-ready-or-die.json](./389071-ready-or-die.json) |
 | Ready or Not: Boiling Point | 394376 | [394376-ready-or-not-boiling-point.json](./394376-ready-or-not-boiling-point.json) |
+| Ready or Not: Dark Waters | 324580 | [324580-ready-or-not-dark-waters.json](./324580-ready-or-not-dark-waters.json) |
 | Ready or Not: VRO Mod | 360775 | [360775-ready-or-not-vro-mod.json](./360775-ready-or-not-vro-mod.json) |
 | Ready Player Fuck | 97689 | [97689-ready-player-fuck.json](./97689-ready-player-fuck.json) |
 | Ready Player One: Oasis | 99013 | [99013-ready-player-one-oasis.json](./99013-ready-player-one-oasis.json) |
@@ -3507,6 +3510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Restaurant Island: The Fun Family Game! Manage your staff & expand your gourmet paradise! | 88206 | [88206-restaurant-island-the-fun-family-game-manage-your-staff-and-expand-your-gourmet-paradise.json](./88206-restaurant-island-the-fun-family-game-manage-your-staff-and-expand-your-gourmet-paradise.json) |
 | Restaurant Manager | 96321 | [96321-restaurant-manager.json](./96321-restaurant-manager.json) |
 | Restaurant Manager Simulator | 211696 | [211696-restaurant-manager-simulator.json](./211696-restaurant-manager-simulator.json) |
+| Restaurant Owner: A Restaurant Simulator | 324530 | [324530-restaurant-owner-a-restaurant-simulator.json](./324530-restaurant-owner-a-restaurant-simulator.json) |
 | Restaurant Renovation | 118248 | [118248-restaurant-renovation.json](./118248-restaurant-renovation.json) |
 | Restaurant Rush | 351560 | [351560-restaurant-rush.json](./351560-restaurant-rush.json) |
 | Restaurant Simulator | 204072 | [204072-restaurant-simulator.json](./204072-restaurant-simulator.json) |
