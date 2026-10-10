@@ -2288,6 +2288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Legend | 274554 | [274554-cat-legend.json](./274554-cat-legend.json) |
 | Cat Life | 230525 | [230525-cat-life.json](./230525-cat-life.json) |
 | Cat Life Simulator | 267486 | [267486-cat-life-simulator.json](./267486-cat-life-simulator.json) |
+| Cat Lines | 323442 | [323442-cat-lines.json](./323442-cat-lines.json) |
 | Cat Lobster Simulator | 253401 | [253401-cat-lobster-simulator.json](./253401-cat-lobster-simulator.json) |
 | Cat Lovescapes | 204427 | [204427-cat-lovescapes.json](./204427-cat-lovescapes.json) |
 | Cat Magic School | 350002 | [350002-cat-magic-school.json](./350002-cat-magic-school.json) |
@@ -2560,6 +2561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catherine: Full Body - Dynamite Full Body Box | 136282 | [136282-catherine-full-body-dynamite-full-body-box.json](./136282-catherine-full-body-dynamite-full-body-box.json) |
 | Catherine: Full Body - Heart's Desire Premium Edition | 72067 | [72067-catherine-full-body-hearts-desire-premium-edition.json](./72067-catherine-full-body-hearts-desire-premium-edition.json) |
 | Catherine: Full Body - Launch Edition | 136327 | [136327-catherine-full-body-launch-edition.json](./136327-catherine-full-body-launch-edition.json) |
+| Catherna's Destiny | 323415 | [323415-cathernas-destiny.json](./323415-cathernas-destiny.json) |
 | Cathode Ray Tube Amusement Device | 11321 | [11321-cathode-ray-tube-amusement-device.json](./11321-cathode-ray-tube-amusement-device.json) |
 | Cathode-ray Tube Amusement Device Simulator | 340018 | [340018-cathode-ray-tube-amusement-device-simulator.json](./340018-cathode-ray-tube-amusement-device-simulator.json) |
 | Cathode's Journey | 232029 | [232029-cathodes-journey.json](./232029-cathodes-journey.json) |
@@ -2689,6 +2691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catty Battle | 129816 | [129816-catty-battle.json](./129816-catty-battle.json) |
 | Catty Cathy | 281982 | [281982-catty-cathy.json](./281982-catty-cathy.json) |
 | Catwalk Battle | 208912 | [208912-catwalk-battle.json](./208912-catwalk-battle.json) |
+| Catwifhat | 323436 | [323436-catwifhat.json](./323436-catwifhat.json) |
 | Catwoman | 3851 | [3851-catwoman.json](./3851-catwoman.json) |
 | Catwoman | 67337 | [67337-catwoman.json](./67337-catwoman.json) |
 | CatWorld | 257516 | [257516-catworld.json](./257516-catworld.json) |
@@ -4773,6 +4776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Christmas Time 2019 | 114326 | [114326-christmas-time-2019.json](./114326-christmas-time-2019.json) |
 | Christmas Town: Passion House | 207795 | [207795-christmas-town-passion-house.json](./207795-christmas-town-passion-house.json) |
 | Christmas Tree Decorating Simulator | 324993 | [324993-christmas-tree-decorating-simulator.json](./324993-christmas-tree-decorating-simulator.json) |
+| Christmas Tree Decorator | 323445 | [323445-christmas-tree-decorator.json](./323445-christmas-tree-decorator.json) |
 | Christmas Tree: Holiday Decorate Simulator | 330236 | [330236-christmas-tree-holiday-decorate-simulator.json](./330236-christmas-tree-holiday-decorate-simulator.json) |
 | Christmas with Freddy's | 239286 | [239286-christmas-with-freddys.json](./239286-christmas-with-freddys.json) |
 | Christmas With My Family: Jigsaw Puzzle | 384063 | [384063-christmas-with-my-family-jigsaw-puzzle.json](./384063-christmas-with-my-family-jigsaw-puzzle.json) |
@@ -5540,6 +5544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CityDriver: Moruga Turbo | 315619 | [315619-citydriver-moruga-turbo.json](./315619-citydriver-moruga-turbo.json) |
 | CityInc | 307902 | [307902-cityinc.json](./307902-cityinc.json) |
 | CityLights - San Francisco | 112904 | [112904-citylights-san-francisco.json](./112904-citylights-san-francisco.json) |
+| Citypurger | 323411 | [323411-citypurger.json](./323411-citypurger.json) |
 | Cityquiz.io | 305324 | [305324-cityquiz-io.json](./305324-cityquiz-io.json) |
 | Cityscapes: Sim Builder | 248581 | [248581-cityscapes-sim-builder.json](./248581-cityscapes-sim-builder.json) |
 | Citytopia | 114791 | [114791-citytopia.json](./114791-citytopia.json) |
