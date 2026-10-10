@@ -3270,6 +3270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deer Hunter: African Safari | 64372 | [64372-deer-hunter-african-safari.json](./64372-deer-hunter-african-safari.json) |
 | Deer Hunting 2018 | 107058 | [107058-deer-hunting-2018.json](./107058-deer-hunting-2018.json) |
 | Deer Hunting King | 85076 | [85076-deer-hunting-king.json](./85076-deer-hunting-king.json) |
+| Deer in the Headlights | 302177 | [302177-deer-in-the-headlights.json](./302177-deer-in-the-headlights.json) |
 | Deer Man | 19045 | [19045-deer-man.json](./19045-deer-man.json) |
 | Deer Napped | 93223 | [93223-deer-napped.json](./93223-deer-napped.json) |
 | Deer Simulator | 83185 | [83185-deer-simulator.json](./83185-deer-simulator.json) |
@@ -5968,6 +5969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disaster Dash | 238399 | [238399-disaster-dash.json](./238399-disaster-dash.json) |
 | Disaster Plan Z | 301257 | [301257-disaster-plan-z.json](./301257-disaster-plan-z.json) |
 | Disaster Quest Tree | 268672 | [268672-disaster-quest-tree.json](./268672-disaster-quest-tree.json) |
+| Disaster Slayer | 302191 | [302191-disaster-slayer.json](./302191-disaster-slayer.json) |
 | Disaster Town Tycoon | 294731 | [294731-disaster-town-tycoon.json](./294731-disaster-town-tycoon.json) |
 | Disaster: Day of Crisis | 4805 | [4805-disaster-day-of-crisis.json](./4805-disaster-day-of-crisis.json) |
 | Disasteroids 3D | 94945 | [94945-disasteroids-3d.json](./94945-disasteroids-3d.json) |
