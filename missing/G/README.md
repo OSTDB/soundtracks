@@ -2820,6 +2820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gladiator: Road to the Colosseum | 120836 | [120836-gladiator-road-to-the-colosseum.json](./120836-gladiator-road-to-the-colosseum.json) |
 | Gladiator's Arena | 236530 | [236530-gladiators-arena.json](./236530-gladiators-arena.json) |
 | Gladiatorial Conquest: Battle Arena of Legends | 283266 | [283266-gladiatorial-conquest-battle-arena-of-legends.json](./283266-gladiatorial-conquest-battle-arena-of-legends.json) |
+| Gladiators Battle | 321642 | [321642-gladiators-battle.json](./321642-gladiators-battle.json) |
 | Gladiators Tale | 248001 | [248001-gladiators-tale.json](./248001-gladiators-tale.json) |
 | Gladihoppers | 103356 | [103356-gladihoppers.json](./103356-gladihoppers.json) |
 | Gladio and Glory | 144881 | [144881-gladio-and-glory.json](./144881-gladio-and-glory.json) |
