@@ -544,6 +544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Falaz | 374811 | [374811-falaz.json](./374811-falaz.json) |
 | Falcão & a cornopopéia brasileira | 245041 | [245041-falcao-and-a-cornopopeia-brasileira.json](./245041-falcao-and-a-cornopopeia-brasileira.json) |
 | Falcata | 125459 | [125459-falcata.json](./125459-falcata.json) |
+| Falco Totem Destroyer | 311216 | [311216-falco-totem-destroyer.json](./311216-falco-totem-destroyer.json) |
 | Falco Tunes | 301843 | [301843-falco-tunes.json](./301843-falco-tunes.json) |
 | Falcomaster3000: Episode 1 | 179605 | [179605-falcomaster3000-episode-1.json](./179605-falcomaster3000-episode-1.json) |
 | Falcon | 12088 | [12088-falcon.json](./12088-falcon.json) |
@@ -1314,6 +1315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Tactics | 334923 | [334923-fantasy-tactics.json](./334923-fantasy-tactics.json) |
 | Fantasy Tavern Sextet -Vol.3 Postlude Days- | 147402 | [147402-fantasy-tavern-sextet-vol-3-postlude-days.json](./147402-fantasy-tavern-sextet-vol-3-postlude-days.json) |
 | Fantasy Tavern Simulator | 237088 | [237088-fantasy-tavern-simulator.json](./237088-fantasy-tavern-simulator.json) |
+| Fantasy TD Battles | 311224 | [311224-fantasy-td-battles.json](./311224-fantasy-td-battles.json) |
 | Fantasy Tea Generator | 177359 | [177359-fantasy-tea-generator.json](./177359-fantasy-tea-generator.json) |
 | Fantasy Telemarketer | 397410 | [397410-fantasy-telemarketer.json](./397410-fantasy-telemarketer.json) |
 | Fantasy Temptations | 273487 | [273487-fantasy-temptations.json](./273487-fantasy-temptations.json) |
@@ -4424,6 +4426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FlapPlane | 137573 | [137573-flapplane.json](./137573-flapplane.json) |
 | Flappy | 195527 | [195527-flappy.json](./195527-flappy.json) |
 | Flappy 2: The Resurrection of Blue Star | 62199 | [62199-flappy-2-the-resurrection-of-blue-star.json](./62199-flappy-2-the-resurrection-of-blue-star.json) |
+| Flappy Alien | 311232 | [311232-flappy-alien.json](./311232-flappy-alien.json) |
 | Flappy Arms | 81698 | [81698-flappy-arms.json](./81698-flappy-arms.json) |
 | Flappy Bat | 156970 | [156970-flappy-bat.json](./156970-flappy-bat.json) |
 | Flappy Bat 3 | 347231 | [347231-flappy-bat-3.json](./347231-flappy-bat-3.json) |
@@ -4988,6 +4991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Florida Simulator 1986 | 158545 | [158545-florida-simulator-1986.json](./158545-florida-simulator-1986.json) |
 | Florida Survivor | 362173 | [362173-florida-survivor.json](./362173-florida-survivor.json) |
 | Florifer | 240307 | [240307-florifer.json](./240307-florifer.json) |
+| Florist Business Simulator | 311215 | [311215-florist-business-simulator.json](./311215-florist-business-simulator.json) |
 | Florist Shop | 44070 | [44070-florist-shop.json](./44070-florist-shop.json) |
 | Floristry | 68956 | [68956-floristry.json](./68956-floristry.json) |
 | Flotilla 2 | 99064 | [99064-flotilla-2.json](./99064-flotilla-2.json) |
@@ -8205,6 +8209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furniture Service | 340541 | [340541-furniture-service.json](./340541-furniture-service.json) |
 | Furniture: Build & Repair | 288864 | [288864-furniture-build-and-repair.json](./288864-furniture-build-and-repair.json) |
 | Furopon World | 85822 | [85822-furopon-world.json](./85822-furopon-world.json) |
+| Furriend | 311234 | [311234-furriend.json](./311234-furriend.json) |
 | Furries & Scalies & Bears Oh My! 2: Return to Kale Bay | 169296 | [169296-furries-and-scalies-and-bears-oh-my-2-return-to-kale-bay.json](./169296-furries-and-scalies-and-bears-oh-my-2-return-to-kale-bay.json) |
 | Furries & Scalies & Bears OH MY! 2: Return to Kale Bay - Beyond the Monster Sea | 254146 | [254146-furries-and-scalies-and-bears-oh-my-2-return-to-kale-bay-beyond-the-monster-sea.json](./254146-furries-and-scalies-and-bears-oh-my-2-return-to-kale-bay-beyond-the-monster-sea.json) |
 | Furries & Scalies & Bears OH MY!: Charity Bonus | 171044 | [171044-furries-and-scalies-and-bears-oh-my-charity-bonus.json](./171044-furries-and-scalies-and-bears-oh-my-charity-bonus.json) |
