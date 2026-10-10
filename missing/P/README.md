@@ -7383,6 +7383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poly art coloring pages - Color by number low poly | 107095 | [107095-poly-art-coloring-pages-color-by-number-low-poly.json](./107095-poly-art-coloring-pages-color-by-number-low-poly.json) |
 | Poly Art: Coloring Puzzle Game | 100322 | [100322-poly-art-coloring-puzzle-game.json](./100322-poly-art-coloring-puzzle-game.json) |
 | Poly Backrooms | 262906 | [262906-poly-backrooms.json](./262906-poly-backrooms.json) |
+| Poly Beats | 288150 | [288150-poly-beats.json](./288150-poly-beats.json) |
 | Poly Bridge | 11597 | [11597-poly-bridge.json](./11597-poly-bridge.json) |
 | Poly Bridge 2 | 132002 | [132002-poly-bridge-2.json](./132002-poly-bridge-2.json) |
 | Poly Bridge 3 | 243400 | [243400-poly-bridge-3.json](./243400-poly-bridge-3.json) |
@@ -7830,6 +7831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Popop! | 160245 | [160245-popop.json](./160245-popop.json) |
 | Popoposan | 329555 | [329555-popoposan.json](./329555-popoposan.json) |
 | PoPoRoGue | 79937 | [79937-poporogue.json](./79937-poporogue.json) |
+| Popper | 288146 | [288146-popper.json](./288146-popper.json) |
 | Popper | 60878 | [60878-popper.json](./60878-popper.json) |
 | Poppet Quest | 358933 | [358933-poppet-quest.json](./358933-poppet-quest.json) |
 | Poppi | 181301 | [181301-poppi.json](./181301-poppi.json) |
