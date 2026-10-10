@@ -463,6 +463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Radiohammer | 21565 | [21565-radiohammer.json](./21565-radiohammer.json) |
 | Radiolight | 170912 | [170912-radiolight.json](./170912-radiolight.json) |
 | Radiometric Dating | 193461 | [193461-radiometric-dating.json](./193461-radiometric-dating.json) |
+| Radiosol | 298421 | [298421-radiosol.json](./298421-radiosol.json) |
 | Radiotelegraphist | 188940 | [188940-radiotelegraphist.json](./188940-radiotelegraphist.json) |
 | RadioWave | 301273 | [301273-radiowave.json](./301273-radiowave.json) |
 | Radirgy | 4077 | [4077-radirgy.json](./4077-radirgy.json) |
@@ -2256,6 +2257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Recycle Shop Eco | 415993 | [415993-recycle-shop-eco.json](./415993-recycle-shop-eco.json) |
 | Recycler's Terminal | 116327 | [116327-recyclers-terminal.json](./116327-recyclers-terminal.json) |
 | Recyclic | 348888 | [348888-recyclic.json](./348888-recyclic.json) |
+| Recycling Center Simulator | 298400 | [298400-recycling-center-simulator.json](./298400-recycling-center-simulator.json) |
 | Red | 196139 | [196139-red.json](./196139-red.json) |
 | Red | 29948 | [29948-red.json](./29948-red.json) |
 | Red | 75084 | [75084-red.json](./75084-red.json) |
@@ -3199,6 +3201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Replicators | 98785 | [98785-replicators.json](./98785-replicators.json) |
 | Replicomica | 361252 | [361252-replicomica.json](./361252-replicomica.json) |
 | Replicon | 312315 | [312315-replicon.json](./312315-replicon.json) |
+| Replicore | 298401 | [298401-replicore.json](./298401-replicore.json) |
 | Replics | 129765 | [129765-replics.json](./129765-replics.json) |
 | Replics 3 - Behind the Light | 132075 | [132075-replics-3-behind-the-light.json](./132075-replics-3-behind-the-light.json) |
 | Replik Survivors | 266296 | [266296-replik-survivors.json](./266296-replik-survivors.json) |
@@ -3775,6 +3778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retrowave Drift | 148911 | [148911-retrowave-drift.json](./148911-retrowave-drift.json) |
 | Retrowave Hexon | 159857 | [159857-retrowave-hexon.json](./159857-retrowave-hexon.json) |
 | Retrowave Illusions: Aesthetics Edition | 250304 | [250304-retrowave-illusions-aesthetics-edition.json](./250304-retrowave-illusions-aesthetics-edition.json) |
+| Retrozen | 298417 | [298417-retrozen.json](./298417-retrozen.json) |
 | Retrys | 355576 | [355576-retrys.json](./355576-retrys.json) |
 | Retsnom | 34946 | [34946-retsnom.json](./34946-retsnom.json) |
 | Rettungssimulator Online | 144937 | [144937-rettungssimulator-online.json](./144937-rettungssimulator-online.json) |
@@ -4132,6 +4136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RGB ON Experience | 174629 | [174629-rgb-on-experience.json](./174629-rgb-on-experience.json) |
 | RGB Run | 112480 | [112480-rgb-run.json](./112480-rgb-run.json) |
 | RGB Rush | 218173 | [218173-rgb-rush.json](./218173-rgb-rush.json) |
+| RGB Rush 2 | 298393 | [298393-rgb-rush-2.json](./298393-rgb-rush-2.json) |
 | RGB Simulator | 237278 | [237278-rgb-simulator.json](./237278-rgb-simulator.json) |
 | RGBounce | 275836 | [275836-rgbounce.json](./275836-rgbounce.json) |
 | RGBverse | 29231 | [29231-rgbverse.json](./29231-rgbverse.json) |
@@ -7012,6 +7017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roxy's Dream Mansion | 341109 | [341109-roxys-dream-mansion.json](./341109-roxys-dream-mansion.json) |
 | Roxy's Windows | 241477 | [241477-roxys-windows.json](./241477-roxys-windows.json) |
 | Roy of the Rovers | 40939 | [40939-roy-of-the-rovers.json](./40939-roy-of-the-rovers.json) |
+| Roy Rattler | 298420 | [298420-roy-rattler.json](./298420-roy-rattler.json) |
 | Roy's Bizarre Adventure | 234548 | [234548-roys-bizarre-adventure.json](./234548-roys-bizarre-adventure.json) |
 | Roy's Rugs | 199385 | [199385-roys-rugs.json](./199385-roys-rugs.json) |
 | Royal Alchemist | 109734 | [109734-royal-alchemist.json](./109734-royal-alchemist.json) |
