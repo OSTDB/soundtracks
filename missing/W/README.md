@@ -4853,6 +4853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Work Work Work | 385568 | [385568-work-work-work.json](./385568-work-work-work.json) |
 | Work Wrecker | 358488 | [358488-work-wrecker.json](./358488-work-wrecker.json) |
 | Work x Work | 218984 | [218984-work-x-work.json](./218984-work-x-work.json) |
+| Work! Wan Wan Human | 301628 | [301628-work-wan-wan-human.json](./301628-work-wan-wan-human.json) |
 | Workaholic Simulator: Leaving the Dream | 326305 | [326305-workaholic-simulator-leaving-the-dream.json](./326305-workaholic-simulator-leaving-the-dream.json) |
 | Workboy | 297549 | [297549-workboy.json](./297549-workboy.json) |
 | Workemon | 141174 | [141174-workemon.json](./141174-workemon.json) |
