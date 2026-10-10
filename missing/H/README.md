@@ -461,6 +461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halloween Pumpkin Story | 74380 | [74380-halloween-pumpkin-story.json](./74380-halloween-pumpkin-story.json) |
 | Halloween Racer | 101020 | [101020-halloween-racer.json](./101020-halloween-racer.json) |
 | Halloween Racer | 50040 | [50040-halloween-racer.json](./50040-halloween-racer.json) |
+| Halloween Revenge | 310620 | [310620-halloween-revenge.json](./310620-halloween-revenge.json) |
 | Halloween Secrets: The Blood Vow | 416583 | [416583-halloween-secrets-the-blood-vow.json](./416583-halloween-secrets-the-blood-vow.json) |
 | Halloween Secrets: The Blood Vow - Collector's Edition | 362829 | [362829-halloween-secrets-the-blood-vow-collectors-edition.json](./362829-halloween-secrets-the-blood-vow-collectors-edition.json) |
 | Halloween Sewers | 393136 | [393136-halloween-sewers.json](./393136-halloween-sewers.json) |
@@ -7223,6 +7224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunt the Pale Gods | 303559 | [303559-hunt-the-pale-gods.json](./303559-hunt-the-pale-gods.json) |
 | Hunt the Thailand Hidden | 119696 | [119696-hunt-the-thailand-hidden.json](./119696-hunt-the-thailand-hidden.json) |
 | Hunt the Wumpus | 11498 | [11498-hunt-the-wumpus.json](./11498-hunt-the-wumpus.json) |
+| Hunt the Wumpus | 310619 | [310619-hunt-the-wumpus.json](./310619-hunt-the-wumpus.json) |
 | Hunt them | 113473 | [113473-hunt-them.json](./113473-hunt-them.json) |
 | Hunt Zombies Together | 413135 | [413135-hunt-zombies-together.json](./413135-hunt-zombies-together.json) |
 | Hunt: Showdown - Bayou Wraith | 166067 | [166067-hunt-showdown-bayou-wraith.json](./166067-hunt-showdown-bayou-wraith.json) |
