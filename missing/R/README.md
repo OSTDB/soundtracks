@@ -1279,6 +1279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rat Arena | 106585 | [106585-rat-arena.json](./106585-rat-arena.json) |
 | Rat Climber | 330135 | [330135-rat-climber.json](./330135-rat-climber.json) |
 | Rat Farm | 414418 | [414418-rat-farm.json](./414418-rat-farm.json) |
+| Rat Hotel | 296230 | [296230-rat-hotel.json](./296230-rat-hotel.json) |
 | Rat it! | 263119 | [263119-rat-it.json](./263119-rat-it.json) |
 | Rat King | 394876 | [394876-rat-king.json](./394876-rat-king.json) |
 | Rat of Infinity: Idle Clicker | 400397 | [400397-rat-of-infinity-idle-clicker.json](./400397-rat-of-infinity-idle-clicker.json) |
@@ -5849,6 +5850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocketmen: Axis of Evil | 20273 | [20273-rocketmen-axis-of-evil.json](./20273-rocketmen-axis-of-evil.json) |
 | Rocketmen: It Came from Uranus | 41588 | [41588-rocketmen-it-came-from-uranus.json](./41588-rocketmen-it-came-from-uranus.json) |
 | RocketPods | 127975 | [127975-rocketpods.json](./127975-rocketpods.json) |
+| RocketRecoil | 296254 | [296254-rocketrecoil.json](./296254-rocketrecoil.json) |
 | Rockets | 108514 | [108514-rockets.json](./108514-rockets.json) |
 | Rockets, Planes, Soldiers | 267014 | [267014-rockets-planes-soldiers.json](./267014-rockets-planes-soldiers.json) |
 | Rockets.com | 415449 | [415449-rockets-com.json](./415449-rockets-com.json) |
