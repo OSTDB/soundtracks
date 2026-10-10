@@ -2084,6 +2084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Rush Frontiers HD | 88258 | [88258-kingdom-rush-frontiers-hd.json](./88258-kingdom-rush-frontiers-hd.json) |
 | Kingdom Rush HD | 88320 | [88320-kingdom-rush-hd.json](./88320-kingdom-rush-hd.json) |
 | Kingdom Rush Vengeance | 111393 | [111393-kingdom-rush-vengeance.json](./111393-kingdom-rush-vengeance.json) |
+| Kingdom Rush Vengeance: Pirate Kings | 327784 | [327784-kingdom-rush-vengeance-pirate-kings.json](./327784-kingdom-rush-vengeance-pirate-kings.json) |
 | Kingdom Rush Vengeance: Pirate Kings Campaign | 346006 | [346006-kingdom-rush-vengeance-pirate-kings-campaign.json](./346006-kingdom-rush-vengeance-pirate-kings-campaign.json) |
 | Kingdom Rush: Battles | 365682 | [365682-kingdom-rush-battles.json](./365682-kingdom-rush-battles.json) |
 | Kingdom Traveler | 189080 | [189080-kingdom-traveler.json](./189080-kingdom-traveler.json) |
@@ -3381,6 +3382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koziołek Matołek Wynalazca | 135255 | [135255-kozio-ek-mato-ek-wynalazca.json](./135255-kozio-ek-mato-ek-wynalazca.json) |
 | Kozmik Krooz'r | 245279 | [245279-kozmik-kroozr.json](./245279-kozmik-kroozr.json) |
 | Kozomo: The Smoldering Ember | 367825 | [367825-kozomo-the-smoldering-ember.json](./367825-kozomo-the-smoldering-ember.json) |
+| Kozue's Strange Journey 2 | 327889 | [327889-kozues-strange-journey-2.json](./327889-kozues-strange-journey-2.json) |
 | KPatience | 134532 | [134532-kpatience.json](./134532-kpatience.json) |
 | Kpop idol Dress Up | 420670 | [420670-kpop-idol-dress-up.json](./420670-kpop-idol-dress-up.json) |
 | Kpop Love Idol Maker Manager | 297017 | [297017-kpop-love-idol-maker-manager.json](./297017-kpop-love-idol-maker-manager.json) |
@@ -3793,6 +3795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kyoutabi | 236776 | [236776-kyoutabi.json](./236776-kyoutabi.json) |
 | Kyoutei Wars Makuru 6 | 98530 | [98530-kyoutei-wars-makuru-6.json](./98530-kyoutei-wars-makuru-6.json) |
 | Kyoutou Kotoba RPG: Kotodaman | 208239 | [208239-kyoutou-kotoba-rpg-kotodaman.json](./208239-kyoutou-kotoba-rpg-kotodaman.json) |
+| Kyra's Light | 327797 | [327797-kyras-light.json](./327797-kyras-light.json) |
 | Kyrie and Terra | 327182 | [327182-kyrie-and-terra.json](./327182-kyrie-and-terra.json) |
 | Kyro | 50156 | [50156-kyro.json](./50156-kyro.json) |
 | Kyub Crazy Colors | 265431 | [265431-kyub-crazy-colors.json](./265431-kyub-crazy-colors.json) |
