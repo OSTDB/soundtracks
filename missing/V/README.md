@@ -1071,6 +1071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vessels | 141520 | [141520-vessels.json](./141520-vessels.json) |
 | Vessels | 375938 | [375938-vessels.json](./375938-vessels.json) |
 | Vessels of Decay | 143715 | [143715-vessels-of-decay.json](./143715-vessels-of-decay.json) |
+| Vest A Life | 302186 | [302186-vest-a-life.json](./302186-vest-a-life.json) |
 | Vestaria Saga II: The Sacred Sword of Silvanister | 186886 | [186886-vestaria-saga-ii-the-sacred-sword-of-silvanister.json](./186886-vestaria-saga-ii-the-sacred-sword-of-silvanister.json) |
 | Vestenelon | 332625 | [332625-vestenelon.json](./332625-vestenelon.json) |
 | Vestige | 113069 | [113069-vestige.json](./113069-vestige.json) |
@@ -2265,6 +2266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voxel Pirates | 147474 | [147474-voxel-pirates.json](./147474-voxel-pirates.json) |
 | Voxel Playground | 380575 | [380575-voxel-playground.json](./380575-voxel-playground.json) |
 | Voxel Printer | 164890 | [164890-voxel-printer.json](./164890-voxel-printer.json) |
+| Voxel Project | 302185 | [302185-voxel-project.json](./302185-voxel-project.json) |
 | Voxel Race | 105381 | [105381-voxel-race.json](./105381-voxel-race.json) |
 | Voxel Scavenger | 124240 | [124240-voxel-scavenger.json](./124240-voxel-scavenger.json) |
 | Voxel Shooter | 406110 | [406110-voxel-shooter.json](./406110-voxel-shooter.json) |
