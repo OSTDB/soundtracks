@@ -3911,6 +3911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Live to Win | 129622 | [129622-live-to-win.json](./129622-live-to-win.json) |
 | LiveGame.Show | 131349 | [131349-livegame-show.json](./131349-livegame-show.json) |
 | Lively Chair Simulator | 273118 | [273118-lively-chair-simulator.json](./273118-lively-chair-simulator.json) |
+| Lively Knight | 313412 | [313412-lively-knight.json](./313412-lively-knight.json) |
 | LiveMeat | 289547 | [289547-livemeat.json](./289547-livemeat.json) |
 | Liverpool | 94409 | [94409-liverpool.json](./94409-liverpool.json) |
 | Liverpool Club Football | 267878 | [267878-liverpool-club-football.json](./267878-liverpool-club-football.json) |
@@ -5786,11 +5787,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luigi's Mansion: Dark Moon | 2476 | [2476-luigis-mansion-dark-moon.json](./2476-luigis-mansion-dark-moon.json) |
 | Luigi's Mansion: Extra Tangy | 313113 | [313113-luigis-mansion-extra-tangy.json](./313113-luigis-mansion-extra-tangy.json) |
 | Luigi's Mansion: Halloween Haunt | 313969 | [313969-luigis-mansion-halloween-haunt.json](./313969-luigis-mansion-halloween-haunt.json) |
+| Luigi's Mansion: Labyrinth of Shadows | 313413 | [313413-luigis-mansion-labyrinth-of-shadows.json](./313413-luigis-mansion-labyrinth-of-shadows.json) |
 | Luigi's Mansion: Premium Deluxe | 259268 | [259268-luigis-mansion-premium-deluxe.json](./259268-luigis-mansion-premium-deluxe.json) |
 | Luigi's Mansion: Sweet Home | 308372 | [308372-luigis-mansion-sweet-home.json](./308372-luigis-mansion-sweet-home.json) |
 | Luigi's Misadventures 5: Rougenia Merald's Challenge | 276789 | [276789-luigis-misadventures-5-rougenia-meralds-challenge.json](./276789-luigis-misadventures-5-rougenia-meralds-challenge.json) |
 | Luigi's Other Mansion | 259838 | [259838-luigis-other-mansion.json](./259838-luigis-other-mansion.json) |
 | Luigi's Requiem | 319091 | [319091-luigis-requiem.json](./319091-luigis-requiem.json) |
+| Luigi's Spookful Quest | 313427 | [313427-luigis-spookful-quest.json](./313427-luigis-spookful-quest.json) |
 | Luippy | 230957 | [230957-luippy.json](./230957-luippy.json) |
 | Luise and Secret Basement Rooms | 157705 | [157705-luise-and-secret-basement-rooms.json](./157705-luise-and-secret-basement-rooms.json) |
 | Luka Tim Incident | 318624 | [318624-luka-tim-incident.json](./318624-luka-tim-incident.json) |
