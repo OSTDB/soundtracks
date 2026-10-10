@@ -3094,6 +3094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pets and Friends: Easter Pack | 396910 | [396910-pets-and-friends-easter-pack.json](./396910-pets-and-friends-easter-pack.json) |
 | Pets and Friends: Mushrooms Pack | 371439 | [371439-pets-and-friends-mushrooms-pack.json](./371439-pets-and-friends-mushrooms-pack.json) |
 | Pets and Friends: Valentines Pack | 387686 | [387686-pets-and-friends-valentines-pack.json](./387686-pets-and-friends-valentines-pack.json) |
+| Pets and Girls | 286446 | [286446-pets-and-girls.json](./286446-pets-and-girls.json) |
 | Pets at Work | 190153 | [190153-pets-at-work.json](./190153-pets-at-work.json) |
 | Pets Crossing | 247028 | [247028-pets-crossing.json](./247028-pets-crossing.json) |
 | Pets in Action Bundle | 212787 | [212787-pets-in-action-bundle.json](./212787-pets-in-action-bundle.json) |
