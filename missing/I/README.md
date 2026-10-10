@@ -3596,6 +3596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iron Tank: The Invasion of Normandy | 19956 | [19956-iron-tank-the-invasion-of-normandy.json](./19956-iron-tank-the-invasion-of-normandy.json) |
 | Iron Throne: Kingdoms | 101518 | [101518-iron-throne-kingdoms.json](./101518-iron-throne-kingdoms.json) |
 | Iron Tides | 51561 | [51561-iron-tides.json](./51561-iron-tides.json) |
+| Iron Trails: Outlaw Pursuit | 322242 | [322242-iron-trails-outlaw-pursuit.json](./322242-iron-trails-outlaw-pursuit.json) |
 | Iron Vulture | 132734 | [132734-iron-vulture.json](./132734-iron-vulture.json) |
 | Iron Works | 383350 | [383350-iron-works.json](./383350-iron-works.json) |
 | Ironblood | 402498 | [402498-ironblood.json](./402498-ironblood.json) |
