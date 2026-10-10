@@ -1709,6 +1709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farming Simulator 25: Straw Harvest Pack | 360753 | [360753-farming-simulator-25-straw-harvest-pack.json](./360753-farming-simulator-25-straw-harvest-pack.json) |
 | Farming Simulator 25: Year 1 Season Pass | 352888 | [352888-farming-simulator-25-year-1-season-pass.json](./352888-farming-simulator-25-year-1-season-pass.json) |
 | Farming Simulator C64: Limited Edition | 260776 | [260776-farming-simulator-c64-limited-edition.json](./260776-farming-simulator-c64-limited-edition.json) |
+| Farming Simulator Kids | 287580 | [287580-farming-simulator-kids.json](./287580-farming-simulator-kids.json) |
 | Farming Simulator: Grow a Garden 2025 | 378801 | [378801-farming-simulator-grow-a-garden-2025.json](./378801-farming-simulator-grow-a-garden-2025.json) |
 | Farming Slimes | 419964 | [419964-farming-slimes.json](./419964-farming-slimes.json) |
 | Farming Sweeper | 191201 | [191201-farming-sweeper.json](./191201-farming-sweeper.json) |
@@ -4443,6 +4444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flame Gunner | 267397 | [267397-flame-gunner.json](./267397-flame-gunner.json) |
 | Flame in Glass | 392238 | [392238-flame-in-glass.json](./392238-flame-in-glass.json) |
 | Flame Keeper | 168698 | [168698-flame-keeper.json](./168698-flame-keeper.json) |
+| Flame Keeper + Space Cows | 287591 | [287591-flame-keeper-space-cows.json](./287591-flame-keeper-space-cows.json) |
 | Flame Land | 310017 | [310017-flame-land.json](./310017-flame-land.json) |
 | Flame Man | 96014 | [96014-flame-man.json](./96014-flame-man.json) |
 | Flame of Mirrors | 51567 | [51567-flame-of-mirrors.json](./51567-flame-of-mirrors.json) |
