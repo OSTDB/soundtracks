@@ -1765,6 +1765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CarX Drift Racing Online: Midnight | 160292 | [160292-carx-drift-racing-online-midnight.json](./160292-carx-drift-racing-online-midnight.json) |
 | CarX Rally | 174851 | [174851-carx-rally.json](./174851-carx-rally.json) |
 | CarX Street | 227960 | [227960-carx-street.json](./227960-carx-street.json) |
+| CarX Street: Sunset Speedway | 315228 | [315228-carx-street-sunset-speedway.json](./315228-carx-street-sunset-speedway.json) |
 | Casablanca ni Ai wo: Satsujinsha wa Jikuu o Koete | 97461 | [97461-casablanca-ni-ai-wo-satsujinsha-wa-jikuu-o-koete.json](./97461-casablanca-ni-ai-wo-satsujinsha-wa-jikuu-o-koete.json) |
 | Casablanca: The Day After | 319808 | [319808-casablanca-the-day-after.json](./319808-casablanca-the-day-after.json) |
 | Casadastra | 185160 | [185160-casadastra.json](./185160-casadastra.json) |
