@@ -1032,6 +1032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laundry | 317025 | [317025-laundry.json](./317025-laundry.json) |
 | Laundry Boss Simulator | 360045 | [360045-laundry-boss-simulator.json](./360045-laundry-boss-simulator.json) |
 | Laundry Night | 304166 | [304166-laundry-night.json](./304166-laundry-night.json) |
+| Laundry Room Dilemma | 329523 | [329523-laundry-room-dilemma.json](./329523-laundry-room-dilemma.json) |
 | Laundry Service Simulator | 326395 | [326395-laundry-service-simulator.json](./326395-laundry-service-simulator.json) |
 | Laundry Simulator | 154059 | [154059-laundry-simulator.json](./154059-laundry-simulator.json) |
 | Laundry Simulator | 326396 | [326396-laundry-simulator.json](./326396-laundry-simulator.json) |
@@ -2333,6 +2334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Sing 2018: Platinum Edition | 118838 | [118838-lets-sing-2018-platinum-edition.json](./118838-lets-sing-2018-platinum-edition.json) |
 | Let's Sing 2019: Hits Français et Internationaux | 253026 | [253026-lets-sing-2019-hits-francais-et-internationaux.json](./253026-lets-sing-2019-hits-francais-et-internationaux.json) |
 | Let's Sing 2019: Mit Deutschen Hits! | 253001 | [253001-lets-sing-2019-mit-deutschen-hits.json](./253001-lets-sing-2019-mit-deutschen-hits.json) |
+| Let's Sing 2020: Hits Français et Internationaux | 329519 | [329519-lets-sing-2020-hits-francais-et-internationaux.json](./329519-lets-sing-2020-hits-francais-et-internationaux.json) |
 | Let's Sing 2021: Asia | 321520 | [321520-lets-sing-2021-asia.json](./321520-lets-sing-2021-asia.json) |
 | Let's Sing 2021: Double Mic Bundle | 141652 | [141652-lets-sing-2021-double-mic-bundle.json](./141652-lets-sing-2021-double-mic-bundle.json) |
 | Let's Sing 2021: Hits Français et Internationaux Solo | 137084 | [137084-lets-sing-2021-hits-francais-et-internationaux-solo.json](./137084-lets-sing-2021-hits-francais-et-internationaux-solo.json) |
