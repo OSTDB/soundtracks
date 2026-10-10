@@ -3945,6 +3945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Baseball 2003 | 61401 | [61401-the-baseball-2003.json](./61401-the-baseball-2003.json) |
 | The Baseball T | 217912 | [217912-the-baseball-t.json](./217912-the-baseball-t.json) |
 | The Based Turnabout | 308419 | [308419-the-based-turnabout.json](./308419-the-based-turnabout.json) |
+| The Basement | 282493 | [282493-the-basement.json](./282493-the-basement.json) |
 | The Basement's Calling | 338314 | [338314-the-basements-calling.json](./338314-the-basements-calling.json) |
 | The Basketball Quiz | 219173 | [219173-the-basketball-quiz.json](./219173-the-basketball-quiz.json) |
 | The Basment | 380119 | [380119-the-basment.json](./380119-the-basment.json) |
@@ -4070,6 +4071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Big Bell Race | 318740 | [318740-the-big-bell-race.json](./318740-the-big-bell-race.json) |
 | The Big Below | 289794 | [289794-the-big-below.json](./289794-the-big-below.json) |
 | The Big Blow Up | 316972 | [316972-the-big-blow-up.json](./316972-the-big-blow-up.json) |
+| The Big Blue | 282495 | [282495-the-big-blue.json](./282495-the-big-blue.json) |
 | The Big Capitalist 3 | 106758 | [106758-the-big-capitalist-3.json](./106758-the-big-capitalist-3.json) |
 | The Big Catch | 217819 | [217819-the-big-catch.json](./217819-the-big-catch.json) |
 | The Big City | 270702 | [270702-the-big-city.json](./270702-the-big-city.json) |
@@ -4223,6 +4225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bond | 368010 | [368010-the-bond.json](./368010-the-bond.json) |
 | The Bone Crypt | 406235 | [406235-the-bone-crypt.json](./406235-the-bone-crypt.json) |
 | The Bone Maze | 267557 | [267557-the-bone-maze.json](./267557-the-bone-maze.json) |
+| The Bonerooms | 282494 | [282494-the-bonerooms.json](./282494-the-bonerooms.json) |
 | The Bones of Rosalinda | 290394 | [290394-the-bones-of-rosalinda.json](./290394-the-bones-of-rosalinda.json) |
 | The Bones Picked Clean and the Clean Bones Gone | 139316 | [139316-the-bones-picked-clean-and-the-clean-bones-gone.json](./139316-the-bones-picked-clean-and-the-clean-bones-gone.json) |
 | The Bonte Room | 316828 | [316828-the-bonte-room.json](./316828-the-bonte-room.json) |
@@ -5163,6 +5166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Deepest Castle | 400872 | [400872-the-deepest-castle.json](./400872-the-deepest-castle.json) |
 | The Deepest Sleep | 123703 | [123703-the-deepest-sleep.json](./123703-the-deepest-sleep.json) |
 | The Deepwatch | 341649 | [341649-the-deepwatch.json](./341649-the-deepwatch.json) |
+| The Deepwater Witch | 282518 | [282518-the-deepwater-witch.json](./282518-the-deepwater-witch.json) |
 | The Deer | 117688 | [117688-the-deer.json](./117688-the-deer.json) |
 | The Defender: Farm and Castle | 117626 | [117626-the-defender-farm-and-castle.json](./117626-the-defender-farm-and-castle.json) |
 | The Defenders: The Second Wave | 35708 | [35708-the-defenders-the-second-wave.json](./35708-the-defenders-the-second-wave.json) |
