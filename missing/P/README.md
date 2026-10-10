@@ -2422,6 +2422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pen to Paper | 312299 | [312299-pen-to-paper.json](./312299-pen-to-paper.json) |
 | Pen-chan | 385718 | [385718-pen-chan.json](./385718-pen-chan.json) |
 | Penalty | 312265 | [312265-penalty.json](./312265-penalty.json) |
+| Penalty Challenge | 311227 | [311227-penalty-challenge.json](./311227-penalty-challenge.json) |
 | Penalty Shooters Footy | 241061 | [241061-penalty-shooters-footy.json](./241061-penalty-shooters-footy.json) |
 | Penalty Soccer 2012 | 259560 | [259560-penalty-soccer-2012.json](./259560-penalty-soccer-2012.json) |
 | Penance | 135017 | [135017-penance.json](./135017-penance.json) |
@@ -2799,6 +2800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perry Rhodan: Myth of the Illochim | 50389 | [50389-perry-rhodan-myth-of-the-illochim.json](./50389-perry-rhodan-myth-of-the-illochim.json) |
 | Perry Rhodan: Operation Eastside | 72100 | [72100-perry-rhodan-operation-eastside.json](./72100-perry-rhodan-operation-eastside.json) |
 | Perry the Pumpkin | 224763 | [224763-perry-the-pumpkin.json](./224763-perry-the-pumpkin.json) |
+| Persecution: The Elevator | 311154 | [311154-persecution-the-elevator.json](./311154-persecution-the-elevator.json) |
 | Persephone | 122151 | [122151-persephone.json](./122151-persephone.json) |
 | Perseus | 274767 | [274767-perseus.json](./274767-perseus.json) |
 | Persevera | 264685 | [264685-persevera.json](./264685-persevera.json) |
@@ -7272,6 +7274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polity | 149228 | [149228-polity.json](./149228-polity.json) |
 | Polka Sheep | 305335 | [305335-polka-sheep.json](./305335-polka-sheep.json) |
 | Polku! | 366380 | [366380-polku.json](./366380-polku.json) |
+| Pollen | 311239 | [311239-pollen.json](./311239-pollen.json) |
 | Pollinate or Die | 381615 | [381615-pollinate-or-die.json](./381615-pollinate-or-die.json) |
 | Pollucean | 347792 | [347792-pollucean.json](./347792-pollucean.json) |
 | Pollute & Conquer | 161221 | [161221-pollute-and-conquer.json](./161221-pollute-and-conquer.json) |
@@ -9662,6 +9665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Parasite | 255379 | [255379-project-parasite.json](./255379-project-parasite.json) |
 | Project Pastorate | 97269 | [97269-project-pastorate.json](./97269-project-pastorate.json) |
 | Project Phantom | 77411 | [77411-project-phantom.json](./77411-project-phantom.json) |
+| Project Phoenix | 311219 | [311219-project-phoenix.json](./311219-project-phoenix.json) |
 | Project Phoenix | 7204 | [7204-project-phoenix.json](./7204-project-phoenix.json) |
 | Project Planet: Earth Vs. Humanity | 236394 | [236394-project-planet-earth-vs-humanity.json](./236394-project-planet-earth-vs-humanity.json) |
 | Project Playtime: Phase 3 - Forsaken | 271727 | [271727-project-playtime-phase-3-forsaken.json](./271727-project-playtime-phase-3-forsaken.json) |
