@@ -2854,6 +2854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TerraCube | 361690 | [361690-terracube.json](./361690-terracube.json) |
 | Terrafactory: Idle Planet | 384154 | [384154-terrafactory-idle-planet.json](./384154-terrafactory-idle-planet.json) |
 | TerraFire | 69334 | [69334-terrafire.json](./69334-terrafire.json) |
+| TerraFirmaCraft | 296225 | [296225-terrafirmacraft.json](./296225-terrafirmacraft.json) |
 | TerraFirmaCraft+ | 297577 | [297577-terrafirmacraft.json](./297577-terrafirmacraft.json) |
 | TerraForge | 258527 | [258527-terraforge.json](./258527-terraforge.json) |
 | Terraforma | 238605 | [238605-terraforma.json](./238605-terraforma.json) |
@@ -4804,6 +4805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Crimson Serpent | 176807 | [176807-the-crimson-serpent.json](./176807-the-crimson-serpent.json) |
 | The Crisis Zone | 257117 | [257117-the-crisis-zone.json](./257117-the-crisis-zone.json) |
 | The Croaked Crown | 361265 | [361265-the-croaked-crown.json](./361265-the-croaked-crown.json) |
+| The Croaker | 296260 | [296260-the-croaker.json](./296260-the-croaker.json) |
 | The Croaker: The Ice | 306058 | [306058-the-croaker-the-ice.json](./306058-the-croaker-the-ice.json) |
 | The Croods: Prehistoric Party and Rise of the Guardians Combo Pack | 79313 | [79313-the-croods-prehistoric-party-and-rise-of-the-guardians-combo-pack.json](./79313-the-croods-prehistoric-party-and-rise-of-the-guardians-combo-pack.json) |
 | The Croods: Prehistoric Party! | 25161 | [25161-the-croods-prehistoric-party.json](./25161-the-croods-prehistoric-party.json) |
@@ -14469,6 +14471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Chao Garden | 341694 | [341694-tiny-chao-garden.json](./341694-tiny-chao-garden.json) |
 | Tiny Chao Garden DX | 302178 | [302178-tiny-chao-garden-dx.json](./302178-tiny-chao-garden-dx.json) |
 | Tiny Chills: Not From Ear | 395024 | [395024-tiny-chills-not-from-ear.json](./395024-tiny-chills-not-from-ear.json) |
+| Tiny Circumstance | 296209 | [296209-tiny-circumstance.json](./296209-tiny-circumstance.json) |
 | Tiny Clusters | 177477 | [177477-tiny-clusters.json](./177477-tiny-clusters.json) |
 | Tiny Combat Arena | 154015 | [154015-tiny-combat-arena.json](./154015-tiny-combat-arena.json) |
 | Tiny Company | 370845 | [370845-tiny-company.json](./370845-tiny-company.json) |
@@ -16396,6 +16399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Fan-made Virtual Autography | 151683 | [151683-touhou-fan-made-virtual-autography.json](./151683-touhou-fan-made-virtual-autography.json) |
 | Touhou Fantasy | 387333 | [387333-touhou-fantasy.json](./387333-touhou-fantasy.json) |
 | Touhou Fantasy Destination | 256332 | [256332-touhou-fantasy-destination.json](./256332-touhou-fantasy-destination.json) |
+| Touhou Female Fist Mutation | 296242 | [296242-touhou-female-fist-mutation.json](./296242-touhou-female-fist-mutation.json) |
 | Touhou Flower Fight | 301104 | [301104-touhou-flower-fight.json](./301104-touhou-flower-fight.json) |
 | Touhou Fractured Transience | 238468 | [238468-touhou-fractured-transience.json](./238468-touhou-fractured-transience.json) |
 | Touhou Fumo Racing | 193872 | [193872-touhou-fumo-racing.json](./193872-touhou-fumo-racing.json) |
@@ -16674,6 +16678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower Defense Ultimate | 32900 | [32900-tower-defense-ultimate.json](./32900-tower-defense-ultimate.json) |
 | Tower Defense: Defender of the Kingdom | 122130 | [122130-tower-defense-defender-of-the-kingdom.json](./122130-tower-defense-defender-of-the-kingdom.json) |
 | Tower Defense: Goblin Wars | 384204 | [384204-tower-defense-goblin-wars.json](./384204-tower-defense-goblin-wars.json) |
+| Tower Defense: Infinite War - Infinite Starter Package | 296247 | [296247-tower-defense-infinite-war-infinite-starter-package.json](./296247-tower-defense-infinite-war-infinite-starter-package.json) |
 | Tower Dominion | 328027 | [328027-tower-dominion.json](./328027-tower-dominion.json) |
 | Tower Doomer | 289934 | [289934-tower-doomer.json](./289934-tower-doomer.json) |
 | Tower Dream | 64738 | [64738-tower-dream.json](./64738-tower-dream.json) |
@@ -18103,6 +18108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trainz Railroad Simulator 2022: Pro Train: BNSF Loco Bundle 1 | 393724 | [393724-trainz-railroad-simulator-2022-pro-train-bnsf-loco-bundle-1.json](./393724-trainz-railroad-simulator-2022-pro-train-bnsf-loco-bundle-1.json) |
 | Trainz Railroad Simulator 2022: Pro Train: CSX Loco Bundle 1 | 393725 | [393725-trainz-railroad-simulator-2022-pro-train-csx-loco-bundle-1.json](./393725-trainz-railroad-simulator-2022-pro-train-csx-loco-bundle-1.json) |
 | Trainz Railroad Simulator 2022: QR National GE C44aci | 213408 | [213408-trainz-railroad-simulator-2022-qr-national-ge-c44aci.json](./213408-trainz-railroad-simulator-2022-qr-national-ge-c44aci.json) |
+| Trainz Railroad Simulator 2022: SA CL Class - SSR Pack 01 | 296253 | [296253-trainz-railroad-simulator-2022-sa-cl-class-ssr-pack-01.json](./296253-trainz-railroad-simulator-2022-sa-cl-class-ssr-pack-01.json) |
 | Trainz Railroad Simulator 2022: SSR Fletchers Crawfords GE C44aci Pack | 318440 | [318440-trainz-railroad-simulator-2022-ssr-fletchers-crawfords-ge-c44aci-pack.json](./318440-trainz-railroad-simulator-2022-ssr-fletchers-crawfords-ge-c44aci-pack.json) |
 | Trainz Railroad Simulator 2022: Swayfield Branch | 298149 | [298149-trainz-railroad-simulator-2022-swayfield-branch.json](./298149-trainz-railroad-simulator-2022-swayfield-branch.json) |
 | Trainz Railroad Simulator 2022: The Indian Pacific | 230954 | [230954-trainz-railroad-simulator-2022-the-indian-pacific.json](./230954-trainz-railroad-simulator-2022-the-indian-pacific.json) |
@@ -19233,6 +19239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trombone Champ: Unflattened! | 313775 | [313775-trombone-champ-unflattened.json](./313775-trombone-champ-unflattened.json) |
 | Trombone Champ: Unflattened! - Halloween Pack | 373879 | [373879-trombone-champ-unflattened-halloween-pack.json](./373879-trombone-champ-unflattened-halloween-pack.json) |
 | Trombone Champ: Unflattened! - Undertale + Deltarune Song Pack | 360779 | [360779-trombone-champ-unflattened-undertale-deltarune-song-pack.json](./360779-trombone-champ-unflattened-undertale-deltarune-song-pack.json) |
+| Trompers | 296228 | [296228-trompers.json](./296228-trompers.json) |
 | Tron | 297488 | [297488-tron.json](./297488-tron.json) |
 | Tron | 5247 | [5247-tron.json](./5247-tron.json) |
 | Tron | 89933 | [89933-tron.json](./89933-tron.json) |
