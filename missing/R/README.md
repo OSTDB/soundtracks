@@ -2821,6 +2821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rehtona | 113857 | [113857-rehtona.json](./113857-rehtona.json) |
 | Rei and the Floating City | 390181 | [390181-rei-and-the-floating-city.json](./390181-rei-and-the-floating-city.json) |
 | Rei Fighter Gekitsui Senki | 4085 | [4085-rei-fighter-gekitsui-senki.json](./4085-rei-fighter-gekitsui-senki.json) |
+| Rei Galo TD | 289254 | [289254-rei-galo-td.json](./289254-rei-galo-td.json) |
 | Rei: A Girl With Wings | 291393 | [291393-rei-a-girl-with-wings.json](./291393-rei-a-girl-with-wings.json) |
 | Reigen Doushi | 215135 | [215135-reigen-doushi.json](./215135-reigen-doushi.json) |
 | Reigen Doushi: Kyonshii Horror Daisensou | 385786 | [385786-reigen-doushi-kyonshii-horror-daisensou.json](./385786-reigen-doushi-kyonshii-horror-daisensou.json) |
@@ -3704,6 +3705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro Life | 239785 | [239785-retro-life.json](./239785-retro-life.json) |
 | Retro Meadow | 362759 | [362759-retro-meadow.json](./362759-retro-meadow.json) |
 | Retro Miami | 76505 | [76505-retro-miami.json](./76505-retro-miami.json) |
+| Retro Mystery Club Vol.2: The Beppu Case | 289264 | [289264-retro-mystery-club-vol-2-the-beppu-case.json](./289264-retro-mystery-club-vol-2-the-beppu-case.json) |
 | Retro One | 78092 | [78092-retro-one.json](./78092-retro-one.json) |
 | Retro Otrop | 400288 | [400288-retro-otrop.json](./400288-retro-otrop.json) |
 | Retro Pocket | 21005 | [21005-retro-pocket.json](./21005-retro-pocket.json) |
@@ -4620,6 +4622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Right and Down and Dice | 238600 | [238600-right-and-down-and-dice.json](./238600-right-and-down-and-dice.json) |
 | Right and Down Double Bundle | 294855 | [294855-right-and-down-double-bundle.json](./294855-right-and-down-double-bundle.json) |
 | Right Click To Activate Translator | 352362 | [352362-right-click-to-activate-translator.json](./352362-right-click-to-activate-translator.json) |
+| Right or Die! | 289240 | [289240-right-or-die.json](./289240-right-or-die.json) |
 | Right Swipes: Blast Date | 200735 | [200735-right-swipes-blast-date.json](./200735-right-swipes-blast-date.json) |
 | Right Way | 157047 | [157047-right-way.json](./157047-right-way.json) |
 | Righteous Kill | 209161 | [209161-righteous-kill.json](./209161-righteous-kill.json) |
