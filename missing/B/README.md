@@ -1165,6 +1165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bananaganza | 366736 | [366736-bananaganza.json](./366736-bananaganza.json) |
 | BananaGuideline | 125827 | [125827-bananaguideline.json](./125827-bananaguideline.json) |
 | BananaGuy | 247604 | [247604-bananaguy.json](./247604-bananaguy.json) |
+| Bananaman: Food Fighter | 312817 | [312817-bananaman-food-fighter.json](./312817-bananaman-food-fighter.json) |
 | Bananamana | 314257 | [314257-bananamana.json](./314257-bananamana.json) |
 | Bananametr | 304691 | [304691-bananametr.json](./304691-bananametr.json) |
 | Bananarang: The Scattered Shards | 264016 | [264016-bananarang-the-scattered-shards.json](./264016-bananarang-the-scattered-shards.json) |
@@ -5307,6 +5308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bitten | 319756 | [319756-bitten.json](./319756-bitten.json) |
 | Bitten! | 146235 | [146235-bitten.json](./146235-bitten.json) |
 | Bitter | 217336 | [217336-bitter.json](./217336-bitter.json) |
+| Bitter | 312848 | [312848-bitter.json](./312848-bitter.json) |
 | Bitter Dream | 319660 | [319660-bitter-dream.json](./319660-bitter-dream.json) |
 | Bitter End | 175682 | [175682-bitter-end.json](./175682-bitter-end.json) |
 | Bitter Sweet Memories | 177906 | [177906-bitter-sweet-memories.json](./177906-bitter-sweet-memories.json) |
@@ -6971,6 +6973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blossoms of Eternity | 339815 | [339815-blossoms-of-eternity.json](./339815-blossoms-of-eternity.json) |
 | Blow Away | 244885 | [244885-blow-away.json](./244885-blow-away.json) |
 | Blow Away Survivors | 250507 | [250507-blow-away-survivors.json](./250507-blow-away-survivors.json) |
+| Blow Out | 312823 | [312823-blow-out.json](./312823-blow-out.json) |
 | Blow Up! | 47556 | [47556-blow-up.json](./47556-blow-up.json) |
 | Blow-Up: Avenge Humanity | 345096 | [345096-blow-up-avenge-humanity.json](./345096-blow-up-avenge-humanity.json) |
 | Blowback | 184611 | [184611-blowback.json](./184611-blowback.json) |
