@@ -11536,6 +11536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mukougawa no Reisetsu | 341594 | [341594-mukougawa-no-reisetsu.json](./341594-mukougawa-no-reisetsu.json) |
 | Mukti | 106382 | [106382-mukti.json](./106382-mukti.json) |
 | Muku wo Saku | 308877 | [308877-muku-wo-saku.json](./308877-muku-wo-saku.json) |
+| Mul-Ty-Player | 315191 | [315191-mul-ty-player.json](./315191-mul-ty-player.json) |
 | Mulan 2125 | 372883 | [372883-mulan-2125.json](./372883-mulan-2125.json) |
 | MULE Returns | 91151 | [91151-mule-returns.json](./91151-mule-returns.json) |
 | Mulite Spellsword | 188395 | [188395-mulite-spellsword.json](./188395-mulite-spellsword.json) |
@@ -12064,7 +12065,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MX Dirt Bike: Unlimited Bike Experience | 317442 | [317442-mx-dirt-bike-unlimited-bike-experience.json](./317442-mx-dirt-bike-unlimited-bike-experience.json) |
 | MX Nitro: Unleashed | 133400 | [133400-mx-nitro-unleashed.json](./133400-mx-nitro-unleashed.json) |
 | MX Racing World | 364704 | [364704-mx-racing-world.json](./364704-mx-racing-world.json) |
+| MX vs. ATV All Out: 2011 Kawasaki KFX450R | 315218 | [315218-mx-vs-atv-all-out-2011-kawasaki-kfx450r.json](./315218-mx-vs-atv-all-out-2011-kawasaki-kfx450r.json) |
+| MX vs. ATV All Out: 2011 Suzuki LT-R450 | 315219 | [315219-mx-vs-atv-all-out-2011-suzuki-lt-r450.json](./315219-mx-vs-atv-all-out-2011-suzuki-lt-r450.json) |
+| MX vs. ATV All Out: 2017 Husqvarna FC 250 | 315220 | [315220-mx-vs-atv-all-out-2017-husqvarna-fc-250.json](./315220-mx-vs-atv-all-out-2017-husqvarna-fc-250.json) |
+| MX vs. ATV All Out: 2017 KTM 250 SX | 315210 | [315210-mx-vs-atv-all-out-2017-ktm-250-sx.json](./315210-mx-vs-atv-all-out-2017-ktm-250-sx.json) |
+| MX vs. ATV All Out: 2017 Yamaha YZ125 | 315215 | [315215-mx-vs-atv-all-out-2017-yamaha-yz125.json](./315215-mx-vs-atv-all-out-2017-yamaha-yz125.json) |
 | MX vs. ATV All Out: 2020 Pro Nationals Edition | 206779 | [206779-mx-vs-atv-all-out-2020-pro-nationals-edition.json](./206779-mx-vs-atv-all-out-2020-pro-nationals-edition.json) |
+| MX vs. ATV All Out: Slash Track Pack | 315213 | [315213-mx-vs-atv-all-out-slash-track-pack.json](./315213-mx-vs-atv-all-out-slash-track-pack.json) |
 | MX vs. ATV Collection | 53390 | [53390-mx-vs-atv-collection.json](./53390-mx-vs-atv-collection.json) |
 | MX vs. ATV Legends: 2023 AMA Pro Motocross Championship | 253898 | [253898-mx-vs-atv-legends-2023-ama-pro-motocross-championship.json](./253898-mx-vs-atv-legends-2023-ama-pro-motocross-championship.json) |
 | MX vs. ATV Legends: KTM Pack | 259753 | [259753-mx-vs-atv-legends-ktm-pack.json](./259753-mx-vs-atv-legends-ktm-pack.json) |
@@ -12104,6 +12111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MX vs. ATV: Reflex | 7091 | [7091-mx-vs-atv-reflex.json](./7091-mx-vs-atv-reflex.json) |
 | MX vs. ATV: Untamed | 249272 | [249272-mx-vs-atv-untamed.json](./249272-mx-vs-atv-untamed.json) |
 | MX vs. ATV: Untamed | 5028 | [5028-mx-vs-atv-untamed.json](./5028-mx-vs-atv-untamed.json) |
+| MX vs.. ATV All Out: 2018 Yamaha YXZ1000R SS SE | 315211 | [315211-mx-vs-atv-all-out-2018-yamaha-yxz1000r-ss-se.json](./315211-mx-vs-atv-all-out-2018-yamaha-yxz1000r-ss-se.json) |
 | MXGP 2019: The Official Motocross Videogame | 120126 | [120126-mxgp-2019-the-official-motocross-videogame.json](./120126-mxgp-2019-the-official-motocross-videogame.json) |
 | MXGP 2020: The Official Motocross Videogame | 139939 | [139939-mxgp-2020-the-official-motocross-videogame.json](./139939-mxgp-2020-the-official-motocross-videogame.json) |
 | MXGP 2021 | 175971 | [175971-mxgp-2021.json](./175971-mxgp-2021.json) |
