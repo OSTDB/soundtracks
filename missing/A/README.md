@@ -5531,6 +5531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angel Island Tour | 210752 | [210752-angel-island-tour.json](./210752-angel-island-tour.json) |
 | Angel Killer | 301493 | [301493-angel-killer.json](./301493-angel-killer.json) |
 | Angel Legion: Bay Goddess - Purple II | 302572 | [302572-angel-legion-bay-goddess-purple-ii.json](./302572-angel-legion-bay-goddess-purple-ii.json) |
+| Angel Legion: Chain Trace - Black | 316376 | [316376-angel-legion-chain-trace-black.json](./316376-angel-legion-chain-trace-black.json) |
 | Angel Legion: Chain Trace - Orange | 321958 | [321958-angel-legion-chain-trace-orange.json](./321958-angel-legion-chain-trace-orange.json) |
 | Angel Legion: Chain Trace - Red | 332605 | [332605-angel-legion-chain-trace-red.json](./332605-angel-legion-chain-trace-red.json) |
 | Angel Legion: Charming Mystery - Red | 302576 | [302576-angel-legion-charming-mystery-red.json](./302576-angel-legion-charming-mystery-red.json) |
@@ -10389,6 +10390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avalanche! | 255354 | [255354-avalanche.json](./255354-avalanche.json) |
 | Avalanches | 188511 | [188511-avalanches.json](./188511-avalanches.json) |
 | Avalar: Shadow War | 407395 | [407395-avalar-shadow-war.json](./407395-avalar-shadow-war.json) |
+| Avali: Final Battle | 316351 | [316351-avali-final-battle.json](./316351-avali-final-battle.json) |
 | Avalis Dungeon: Chapter 3 | 303016 | [303016-avalis-dungeon-chapter-3.json](./303016-avalis-dungeon-chapter-3.json) |
 | Avalon | 229775 | [229775-avalon.json](./229775-avalon.json) |
 | Avalon | 23068 | [23068-avalon.json](./23068-avalon.json) |
