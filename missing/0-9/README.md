@@ -1677,6 +1677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 60 Second Strike | 65822 | [65822-60-second-strike.json](./65822-60-second-strike.json) |
 | 60 Seconds Burger Run | 234697 | [234697-60-seconds-burger-run.json](./234697-60-seconds-burger-run.json) |
 | 60 Seconds Hero | 174723 | [174723-60-seconds-hero.json](./174723-60-seconds-hero.json) |
+| 60 Seconds to Park | 303745 | [303745-60-seconds-to-park.json](./303745-60-seconds-to-park.json) |
 | 60 Seconds! Souper Scavenger | 349831 | [349831-60-seconds-souper-scavenger.json](./349831-60-seconds-souper-scavenger.json) |
 | 60-in-1 Game Collection | 195520 | [195520-60-in-1-game-collection.json](./195520-60-in-1-game-collection.json) |
 | 600 | 249254 | [249254-600.json](./249254-600.json) |
