@@ -3795,6 +3795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes Saga | 410192 | [410192-heroes-saga.json](./410192-heroes-saga.json) |
 | Heroes Sky Legends | 336371 | [336371-heroes-sky-legends.json](./336371-heroes-sky-legends.json) |
 | Heroes Stand Tall: M.E.T.A | 302116 | [302116-heroes-stand-tall-m-e-t-a.json](./302116-heroes-stand-tall-m-e-t-a.json) |
+| Heroes Strategy・Heroes Strategy・Kards | 284271 | [284271-heroes-strategy-heroes-strategy-kards.json](./284271-heroes-strategy-heroes-strategy-kards.json) |
 | Heroes Strike | 165555 | [165555-heroes-strike.json](./165555-heroes-strike.json) |
 | Heroes Tactics | 37054 | [37054-heroes-tactics.json](./37054-heroes-tactics.json) |
 | Heroes Tactics: Fire Emblem | 389655 | [389655-heroes-tactics-fire-emblem.json](./389655-heroes-tactics-fire-emblem.json) |
@@ -3836,6 +3837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroine Dusk | 181260 | [181260-heroine-dusk.json](./181260-heroine-dusk.json) |
 | Heroine of the Sniper | 118673 | [118673-heroine-of-the-sniper.json](./118673-heroine-of-the-sniper.json) |
 | Heroine's Quest: The Herald of Ragnarok | 36441 | [36441-heroines-quest-the-herald-of-ragnarok.json](./36441-heroines-quest-the-herald-of-ragnarok.json) |
+| Heroines Fantasy Inherit | 284290 | [284290-heroines-fantasy-inherit.json](./284290-heroines-fantasy-inherit.json) |
 | Heroines of Swords & Spells | 130129 | [130129-heroines-of-swords-and-spells.json](./130129-heroines-of-swords-and-spells.json) |
 | Heroines Through My Lens | 381971 | [381971-heroines-through-my-lens.json](./381971-heroines-through-my-lens.json) |
 | Heroish | 207215 | [207215-heroish.json](./207215-heroish.json) |
