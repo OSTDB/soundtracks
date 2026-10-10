@@ -5062,6 +5062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Passage: Ushinawareta Hitofushi | 165536 | [165536-lost-passage-ushinawareta-hitofushi.json](./165536-lost-passage-ushinawareta-hitofushi.json) |
 | Lost Paws | 207343 | [207343-lost-paws.json](./207343-lost-paws.json) |
 | Lost Perspective | 137602 | [137602-lost-perspective.json](./137602-lost-perspective.json) |
+| Lost Phoenix | 307174 | [307174-lost-phoenix.json](./307174-lost-phoenix.json) |
 | Lost Phone Stories | 105887 | [105887-lost-phone-stories.json](./105887-lost-phone-stories.json) |
 | Lost Pig (And Place Under Ground) | 84463 | [84463-lost-pig-and-place-under-ground.json](./84463-lost-pig-and-place-under-ground.json) |
 | Lost Pixel | 274536 | [274536-lost-pixel.json](./274536-lost-pixel.json) |
@@ -5328,6 +5329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Island: The Game - Chelsea's Murder Mystery | 263662 | [263662-love-island-the-game-chelseas-murder-mystery.json](./263662-love-island-the-game-chelseas-murder-mystery.json) |
 | Love Island: The Game - Season 10 | 413632 | [413632-love-island-the-game-season-10.json](./413632-love-island-the-game-season-10.json) |
 | Love Island: The Game - The Boat Party | 263663 | [263663-love-island-the-game-the-boat-party.json](./263663-love-island-the-game-the-boat-party.json) |
+| Love Kira | 307273 | [307273-love-kira.json](./307273-love-kira.json) |
 | Love Kuesuto | 268468 | [268468-love-kuesuto.json](./268468-love-kuesuto.json) |
 | Love Language Japanese | 110424 | [110424-love-language-japanese.json](./110424-love-language-japanese.json) |
 | Love Letter | 109759 | [109759-love-letter.json](./109759-love-letter.json) |
