@@ -4039,6 +4039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Best Plumber | 125397 | [125397-best-plumber.json](./125397-best-plumber.json) |
 | Best Rally | 104247 | [104247-best-rally.json](./104247-best-rally.json) |
 | Best Romance Game Ever | 183996 | [183996-best-romance-game-ever.json](./183996-best-romance-game-ever.json) |
+| Best Served Haute | 323995 | [323995-best-served-haute.json](./323995-best-served-haute.json) |
 | Best Solitaire Greatest Hits | 86698 | [86698-best-solitaire-greatest-hits.json](./86698-best-solitaire-greatest-hits.json) |
 | Best Spider Solitaire | 104604 | [104604-best-spider-solitaire.json](./104604-best-spider-solitaire.json) |
 | Best Streamer | 401785 | [401785-best-streamer.json](./401785-best-streamer.json) |
@@ -6333,6 +6334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Heads: Instakill | 108305 | [108305-block-heads-instakill.json](./108305-block-heads-instakill.json) |
 | Block Hopper | 283388 | [283388-block-hopper.json](./283388-block-hopper.json) |
 | Block In | 390148 | [390148-block-in.json](./390148-block-in.json) |
+| Block Jam | 323702 | [323702-block-jam.json](./323702-block-jam.json) |
 | Block Jam: Cute Edition | 332516 | [332516-block-jam-cute-edition.json](./332516-block-jam-cute-edition.json) |
 | Block Jumper | 230961 | [230961-block-jumper.json](./230961-block-jumper.json) |
 | Block King Demands Red Squares | 347088 | [347088-block-king-demands-red-squares.json](./347088-block-king-demands-red-squares.json) |
