@@ -3712,6 +3712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isekai Neet Engineer Eiyuu ni Naru | 282670 | [282670-isekai-neet-engineer-eiyuu-ni-naru.json](./282670-isekai-neet-engineer-eiyuu-ni-naru.json) |
 | Isekai Revitalizer | 374445 | [374445-isekai-revitalizer.json](./374445-isekai-revitalizer.json) |
 | Isekai Rondo | 237603 | [237603-isekai-rondo.json](./237603-isekai-rondo.json) |
+| Isekai Saga: Awaken | 321633 | [321633-isekai-saga-awaken.json](./321633-isekai-saga-awaken.json) |
 | Isekai Slowlife | 402894 | [402894-isekai-slowlife.json](./402894-isekai-slowlife.json) |
 | Isekai Survivors | 317972 | [317972-isekai-survivors.json](./317972-isekai-survivors.json) |
 | Isekai Truck Driver | 296941 | [296941-isekai-truck-driver.json](./296941-isekai-truck-driver.json) |
