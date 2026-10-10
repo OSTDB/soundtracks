@@ -1104,6 +1104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undercover: Blood Bonds | 225303 | [225303-undercover-blood-bonds.json](./225303-undercover-blood-bonds.json) |
 | Undercover: Dual Motives | 66379 | [66379-undercover-dual-motives.json](./66379-undercover-dual-motives.json) |
 | Undercover: Operation Wintersun | 68962 | [68962-undercover-operation-wintersun.json](./68962-undercover-operation-wintersun.json) |
+| Undercover: Secret Management | 310087 | [310087-undercover-secret-management.json](./310087-undercover-secret-management.json) |
 | UndercoverAgent | 152487 | [152487-undercoveragent.json](./152487-undercoveragent.json) |
 | UndercoVR | 182835 | [182835-undercovr.json](./182835-undercovr.json) |
 | Undercraft | 331345 | [331345-undercraft.json](./331345-undercraft.json) |
