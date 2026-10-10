@@ -3011,6 +3011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Command | 71586 | [71586-final-command.json](./71586-final-command.json) |
 | Final Commando: Akai Yousai | 41266 | [41266-final-commando-akai-yousai.json](./41266-final-commando-akai-yousai.json) |
 | Final Conflict | 209429 | [209429-final-conflict.json](./209429-final-conflict.json) |
+| Final Contract | 290874 | [290874-final-contract.json](./290874-final-contract.json) |
 | Final Crisis: Terrestrial Defense Police | 141644 | [141644-final-crisis-terrestrial-defense-police.json](./141644-final-crisis-terrestrial-defense-police.json) |
 | Final Cut: Death on the Silver Screen | 98383 | [98383-final-cut-death-on-the-silver-screen.json](./98383-final-cut-death-on-the-silver-screen.json) |
 | Final Cut: Death on the Silver Screen - Collector's Edition | 31690 | [31690-final-cut-death-on-the-silver-screen-collectors-edition.json](./31690-final-cut-death-on-the-silver-screen-collectors-edition.json) |
@@ -3019,6 +3020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Cut: Homage | 98382 | [98382-final-cut-homage.json](./98382-final-cut-homage.json) |
 | Final Cut: The True Escapade | 98380 | [98380-final-cut-the-true-escapade.json](./98380-final-cut-the-true-escapade.json) |
 | Final Cut: The True Escapade - Collector's Edition | 96942 | [96942-final-cut-the-true-escapade-collectors-edition.json](./96942-final-cut-the-true-escapade-collectors-edition.json) |
+| Final Dash | 290855 | [290855-final-dash.json](./290855-final-dash.json) |
 | Final Dawn | 227259 | [227259-final-dawn.json](./227259-final-dawn.json) |
 | Final Days | 33101 | [33101-final-days.json](./33101-final-days.json) |
 | Final Desolation | 287309 | [287309-final-desolation.json](./287309-final-desolation.json) |
@@ -5902,6 +5904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forest Island | 227246 | [227246-forest-island.json](./227246-forest-island.json) |
 | Forest Journeys | 295311 | [295311-forest-journeys.json](./295311-forest-journeys.json) |
 | Forest Jump | 270171 | [270171-forest-jump.json](./270171-forest-jump.json) |
+| Forest Keeper | 290832 | [290832-forest-keeper.json](./290832-forest-keeper.json) |
 | Forest Keeper Lookout | 383950 | [383950-forest-keeper-lookout.json](./383950-forest-keeper-lookout.json) |
 | Forest Kingdom | 186804 | [186804-forest-kingdom.json](./186804-forest-kingdom.json) |
 | Forest Knight | 134059 | [134059-forest-knight.json](./134059-forest-knight.json) |
