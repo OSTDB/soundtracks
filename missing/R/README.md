@@ -2960,6 +2960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Relirium: Iseki to Deai to Bouken to | 387347 | [387347-relirium-iseki-to-deai-to-bouken-to.json](./387347-relirium-iseki-to-deai-to-bouken-to.json) |
 | Relive | 334323 | [334323-relive.json](./334323-relive.json) |
 | Relive | 34413 | [34413-relive.json](./34413-relive.json) |
+| Reliving the End | 318155 | [318155-reliving-the-end.json](./318155-reliving-the-end.json) |
 | Relms | 125992 | [125992-relms.json](./125992-relms.json) |
 | Relo | 295306 | [295306-relo.json](./295306-relo.json) |
 | Reload | 183874 | [183874-reload.json](./183874-reload.json) |
@@ -5796,6 +5797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RocketBoy! | 400454 | [400454-rocketboy.json](./400454-rocketboy.json) |
 | RocketCup | 311074 | [311074-rocketcup.json](./311074-rocketcup.json) |
 | Rocketeer | 211953 | [211953-rocketeer.json](./211953-rocketeer.json) |
+| Rocketeer | 318154 | [318154-rocketeer.json](./318154-rocketeer.json) |
 | RocketGirl | 76709 | [76709-rocketgirl.json](./76709-rocketgirl.json) |
 | Rocketmen: Axis of Evil | 20273 | [20273-rocketmen-axis-of-evil.json](./20273-rocketmen-axis-of-evil.json) |
 | Rocketmen: It Came from Uranus | 41588 | [41588-rocketmen-it-came-from-uranus.json](./41588-rocketmen-it-came-from-uranus.json) |
@@ -6774,6 +6776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | rOt 3D | 119783 | [119783-rot-3d.json](./119783-rot-3d.json) |
 | Rot Forever | 371260 | [371260-rot-forever.json](./371260-rot-forever.json) |
 | Rot Gut | 34656 | [34656-rot-gut.json](./34656-rot-gut.json) |
+| Rot in Paradise | 318124 | [318124-rot-in-paradise.json](./318124-rot-in-paradise.json) |
 | Rot Splatation | 409809 | [409809-rot-splatation.json](./409809-rot-splatation.json) |
 | Rot: Purgatory Hill | 182811 | [182811-rot-purgatory-hill.json](./182811-rot-purgatory-hill.json) |
 | Rota | 291026 | [291026-rota.json](./291026-rota.json) |
