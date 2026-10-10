@@ -2691,6 +2691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Percy Jackson and the Olympians: The Lightning Thief | 47899 | [47899-percy-jackson-and-the-olympians-the-lightning-thief.json](./47899-percy-jackson-and-the-olympians-the-lightning-thief.json) |
 | Percy Penguin | 128467 | [128467-percy-penguin.json](./128467-percy-penguin.json) |
 | Percy's Last Stand | 118403 | [118403-percys-last-stand.json](./118403-percys-last-stand.json) |
+| Perdita | 285390 | [285390-perdita.json](./285390-perdita.json) |
 | Perdition | 121580 | [121580-perdition.json](./121580-perdition.json) |
 | Perdition's Flames | 290349 | [290349-perditions-flames.json](./290349-perditions-flames.json) |
 | Perdition's Gate | 65733 | [65733-perditions-gate.json](./65733-perditions-gate.json) |
@@ -8994,6 +8995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PriPara: All Idol Perfect Stage | 133394 | [133394-pripara-all-idol-perfect-stage.json](./133394-pripara-all-idol-perfect-stage.json) |
 | PriPara: Awaken! The Goddess' Dress Design! | 177574 | [177574-pripara-awaken-the-goddess-dress-design.json](./177574-pripara-awaken-the-goddess-dress-design.json) |
 | Pripyat 0 | 380771 | [380771-pripyat-0.json](./380771-pripyat-0.json) |
+| Pripyat Block 1986 | 285415 | [285415-pripyat-block-1986.json](./285415-pripyat-block-1986.json) |
 | Priscillas Dream | 264681 | [264681-priscillas-dream.json](./264681-priscillas-dream.json) |
 | Prism | 290392 | [290392-prism.json](./290392-prism.json) |
 | Prism | 33514 | [33514-prism.json](./33514-prism.json) |
