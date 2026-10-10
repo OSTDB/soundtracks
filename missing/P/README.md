@@ -44,6 +44,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | P1: Anchor Light | 363808 | [363808-p1-anchor-light.json](./363808-p1-anchor-light.json) |
 | P1441vr | 186851 | [186851-p1441vr.json](./186851-p1441vr.json) |
 | P47 Thunderbolt | 12838 | [12838-p47-thunderbolt.json](./12838-p47-thunderbolt.json) |
+| P4st3l | 297357 | [297357-p4st3l.json](./297357-p4st3l.json) |
 | P9: The GateAway | 129093 | [129093-p9-the-gateaway.json](./129093-p9-the-gateaway.json) |
 | På Ekspedition i Bibelen | 129775 | [129775-pa-ekspedition-i-bibelen.json](./129775-pa-ekspedition-i-bibelen.json) |
 | Pa-nap | 257072 | [257072-pa-nap.json](./257072-pa-nap.json) |
@@ -596,6 +597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Palm Cracker | 333625 | [333625-palm-cracker.json](./333625-palm-cracker.json) |
 | Palm Kingdoms 2 Deluxe | 54260 | [54260-palm-kingdoms-2-deluxe.json](./54260-palm-kingdoms-2-deluxe.json) |
 | Palm Reading Premium | 111056 | [111056-palm-reading-premium.json](./111056-palm-reading-premium.json) |
+| Palm Sex Night's | 297341 | [297341-palm-sex-nights.json](./297341-palm-sex-nights.json) |
 | Palm Simulator 2 | 374941 | [374941-palm-simulator-2.json](./374941-palm-simulator-2.json) |
 | Palm Sugar: A Village Story | 287713 | [287713-palm-sugar-a-village-story.json](./287713-palm-sugar-a-village-story.json) |
 | Palm Tetris | 250599 | [250599-palm-tetris.json](./250599-palm-tetris.json) |
@@ -11415,3 +11417,4 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PyWright Tutorial | 303767 | [303767-pywright-tutorial.json](./303767-pywright-tutorial.json) |
 | Pyxel Knight | 159850 | [159850-pyxel-knight.json](./159850-pyxel-knight.json) |
 | Pyxel Knight - Engagement Quest | 22348 | [22348-pyxel-knight-engagement-quest.json](./22348-pyxel-knight-engagement-quest.json) |
+| Pyxole | 297325 | [297325-pyxole.json](./297325-pyxole.json) |
