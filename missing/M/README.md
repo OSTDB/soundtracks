@@ -1671,6 +1671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Malleus Cocconum: The Heiress | 328106 | [328106-malleus-cocconum-the-heiress.json](./328106-malleus-cocconum-the-heiress.json) |
 | Malleus Maleficarum | 373104 | [373104-malleus-maleficarum.json](./373104-malleus-maleficarum.json) |
 | Malleus Maleficarum: The Witch of San Ignacio | 318794 | [318794-malleus-maleficarum-the-witch-of-san-ignacio.json](./318794-malleus-maleficarum-the-witch-of-san-ignacio.json) |
+| Mallion | 279527 | [279527-mallion.json](./279527-mallion.json) |
 | Mallow & The Street of the Fallen | 376861 | [376861-mallow-and-the-street-of-the-fallen.json](./376861-mallow-and-the-street-of-the-fallen.json) |
 | Mallows | 26456 | [26456-mallows.json](./26456-mallows.json) |
 | Malody | 76901 | [76901-malody.json](./76901-malody.json) |
@@ -10384,6 +10385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moraff's World | 74053 | [74053-moraffs-world.json](./74053-moraffs-world.json) |
 | Morals Are Optional | 58641 | [58641-morals-are-optional.json](./58641-morals-are-optional.json) |
 | Morana Online | 358221 | [358221-morana-online.json](./358221-morana-online.json) |
+| Moratorium: Don’t Beat This Game | 279519 | [279519-moratorium-don-t-beat-this-game.json](./279519-moratorium-don-t-beat-this-game.json) |
 | Morbid | 145591 | [145591-morbid.json](./145591-morbid.json) |
 | Morbid | 219628 | [219628-morbid.json](./219628-morbid.json) |
 | Morbid Catastrophe | 248313 | [248313-morbid-catastrophe.json](./248313-morbid-catastrophe.json) |
@@ -13089,6 +13091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Uncle Merlin: A Tale of Wizards in Space | 77918 | [77918-my-uncle-merlin-a-tale-of-wizards-in-space.json](./77918-my-uncle-merlin-a-tale-of-wizards-in-space.json) |
 | My Uncle's Garden | 229776 | [229776-my-uncles-garden.json](./229776-my-uncles-garden.json) |
 | My Uncle's Story | 287350 | [287350-my-uncles-story.json](./287350-my-uncles-story.json) |
+| My Universe Collection | 279512 | [279512-my-universe-collection.json](./279512-my-universe-collection.json) |
 | My Universe Discovery Collection | 214002 | [214002-my-universe-discovery-collection.json](./214002-my-universe-discovery-collection.json) |
 | My Universe Discovery Collection 2 | 301535 | [301535-my-universe-discovery-collection-2.json](./301535-my-universe-discovery-collection-2.json) |
 | My Universe: 4in1 Quadripack | 300531 | [300531-my-universe-4in1-quadripack.json](./300531-my-universe-4in1-quadripack.json) |
