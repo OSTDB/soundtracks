@@ -57,6 +57,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | M&M's Kart Racing | 47923 | [47923-m-and-ms-kart-racing.json](./47923-m-and-ms-kart-racing.json) |
 | M&M's Minis Madness | 49918 | [49918-m-and-ms-minis-madness.json](./49918-m-and-ms-minis-madness.json) |
 | M&M's Shell Shocked | 44749 | [44749-m-and-ms-shell-shocked.json](./44749-m-and-ms-shell-shocked.json) |
+| M&M's: Do You Remember Color? | 324833 | [324833-m-and-ms-do-you-remember-color.json](./324833-m-and-ms-do-you-remember-color.json) |
 | M&M's: The Lost Formulas | 79613 | [79613-m-and-ms-the-lost-formulas.json](./79613-m-and-ms-the-lost-formulas.json) |
 | M00m World | 323761 | [323761-m00m-world.json](./323761-m00m-world.json) |
 | M1 Tank Platoon | 12673 | [12673-m1-tank-platoon.json](./12673-m1-tank-platoon.json) |
@@ -10892,21 +10893,30 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motto!? Fushigi no Gensoukyou Prologue: Chijou kara no Kyoui | 206939 | [206939-motto-fushigi-no-gensoukyou-prologue-chijou-kara-no-kyoui.json](./206939-motto-fushigi-no-gensoukyou-prologue-chijou-kara-no-kyoui.json) |
 | Motto!? Fushigi no Gensoukyou: Under the Moonlight | 206935 | [206935-motto-fushigi-no-gensoukyou-under-the-moonlight.json](./206935-motto-fushigi-no-gensoukyou-under-the-moonlight.json) |
 | Motu | 311125 | [311125-motu.json](./311125-motu.json) |
+| Motu Patlu ABC Learning | 325126 | [325126-motu-patlu-abc-learning.json](./325126-motu-patlu-abc-learning.json) |
 | Motu Patlu Bicycle Riding | 325120 | [325120-motu-patlu-bicycle-riding.json](./325120-motu-patlu-bicycle-riding.json) |
+| Motu Patlu Bubble Shoot | 325130 | [325130-motu-patlu-bubble-shoot.json](./325130-motu-patlu-bubble-shoot.json) |
 | Motu Patlu BulbCreeker | 325116 | [325116-motu-patlu-bulbcreeker.json](./325116-motu-patlu-bulbcreeker.json) |
 | Motu Patlu Car Game | 325112 | [325112-motu-patlu-car-game.json](./325112-motu-patlu-car-game.json) |
 | Motu Patlu Car Game 2 | 325117 | [325117-motu-patlu-car-game-2.json](./325117-motu-patlu-car-game-2.json) |
+| Motu Patlu Cooking | 325133 | [325133-motu-patlu-cooking.json](./325133-motu-patlu-cooking.json) |
 | Motu Patlu Cricket Game | 325118 | [325118-motu-patlu-cricket-game.json](./325118-motu-patlu-cricket-game.json) |
 | Motu Patlu Cycling Adventure | 325111 | [325111-motu-patlu-cycling-adventure.json](./325111-motu-patlu-cycling-adventure.json) |
 | Motu Patlu Extreme Rush Rider | 325124 | [325124-motu-patlu-extreme-rush-rider.json](./325124-motu-patlu-extreme-rush-rider.json) |
+| Motu Patlu Hills Biking | 325129 | [325129-motu-patlu-hills-biking.json](./325129-motu-patlu-hills-biking.json) |
 | Motu Patlu Horse Riding | 325119 | [325119-motu-patlu-horse-riding.json](./325119-motu-patlu-horse-riding.json) |
+| Motu Patlu Jigsaw Puzzle | 325127 | [325127-motu-patlu-jigsaw-puzzle.json](./325127-motu-patlu-jigsaw-puzzle.json) |
+| Motu Patlu Kanche | 325132 | [325132-motu-patlu-kanche.json](./325132-motu-patlu-kanche.json) |
 | Motu Patlu Kung Fu Kings | 325115 | [325115-motu-patlu-kung-fu-kings.json](./325115-motu-patlu-kung-fu-kings.json) |
 | Motu Patlu Ludo | 325125 | [325125-motu-patlu-ludo.json](./325125-motu-patlu-ludo.json) |
 | Motu Patlu Mow My Garden | 325121 | [325121-motu-patlu-mow-my-garden.json](./325121-motu-patlu-mow-my-garden.json) |
 | Motu Patlu Save Friends | 325123 | [325123-motu-patlu-save-friends.json](./325123-motu-patlu-save-friends.json) |
+| Motu Patlu Snake & Ladder | 325131 | [325131-motu-patlu-snake-and-ladder.json](./325131-motu-patlu-snake-and-ladder.json) |
 | Motu Patlu Super Duper Man | 325113 | [325113-motu-patlu-super-duper-man.json](./325113-motu-patlu-super-duper-man.json) |
+| Motu Patlu Train Simulator | 325128 | [325128-motu-patlu-train-simulator.json](./325128-motu-patlu-train-simulator.json) |
 | Motu Patlu: Robot Transform | 325122 | [325122-motu-patlu-robot-transform.json](./325122-motu-patlu-robot-transform.json) |
 | Motus | 130280 | [130280-motus.json](./130280-motus.json) |
+| Motus | 324859 | [324859-motus.json](./324859-motus.json) |
 | Motus Paintball VR | 336593 | [336593-motus-paintball-vr.json](./336593-motus-paintball-vr.json) |
 | Moubootaur Legends | 177425 | [177425-moubootaur-legends.json](./177425-moubootaur-legends.json) |
 | Mouja | 197958 | [197958-mouja.json](./197958-mouja.json) |
@@ -11020,6 +11030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Move Nature | 234735 | [234735-move-nature.json](./234735-move-nature.json) |
 | Move or Die | 17012 | [17012-move-or-die.json](./17012-move-or-die.json) |
 | Move or Die: Couch Party Edition | 209130 | [209130-move-or-die-couch-party-edition.json](./209130-move-or-die-couch-party-edition.json) |
+| Move or Die: Unleashed | 324846 | [324846-move-or-die-unleashed.json](./324846-move-or-die-unleashed.json) |
 | Move or Fire: Space Desire | 178977 | [178977-move-or-fire-space-desire.json](./178977-move-or-fire-space-desire.json) |
 | Move Street Cricket | 20806 | [20806-move-street-cricket.json](./20806-move-street-cricket.json) |
 | Move Street Cricket II | 97933 | [97933-move-street-cricket-ii.json](./97933-move-street-cricket-ii.json) |
