@@ -220,6 +220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Back Alley Chronicle: Episode Saeki | 397092 | [397092-back-alley-chronicle-episode-saeki.json](./397092-back-alley-chronicle-episode-saeki.json) |
 | Back Alley Inn | 188905 | [188905-back-alley-inn.json](./188905-back-alley-inn.json) |
 | Back at the Barnyard: Slop Bucket Games | 7994 | [7994-back-at-the-barnyard-slop-bucket-games.json](./7994-back-at-the-barnyard-slop-bucket-games.json) |
+| Back Fire | 301085 | [301085-back-fire.json](./301085-back-fire.json) |
 | Back From Earth | 379176 | [379176-back-from-earth.json](./379176-back-from-earth.json) |
 | Back From Hell | 24877 | [24877-back-from-hell.json](./24877-back-from-hell.json) |
 | Back from the other world, I missed love | 337707 | [337707-back-from-the-other-world-i-missed-love.json](./337707-back-from-the-other-world-i-missed-love.json) |
@@ -3285,6 +3286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat The Boss Game | 331699 | [331699-beat-the-boss-game.json](./331699-beat-the-boss-game.json) |
 | Beat the Clock | 196261 | [196261-beat-the-clock.json](./196261-beat-the-clock.json) |
 | Beat the Dictators | 31683 | [31683-beat-the-dictators.json](./31683-beat-the-dictators.json) |
+| Beat the Fed | 301073 | [301073-beat-the-fed.json](./301073-beat-the-fed.json) |
 | Beat the Heat | 226254 | [226254-beat-the-heat.json](./226254-beat-the-heat.json) |
 | Beat the House | 71041 | [71041-beat-the-house.json](./71041-beat-the-house.json) |
 | Beat the House 2 | 71503 | [71503-beat-the-house-2.json](./71503-beat-the-house-2.json) |
@@ -3995,6 +3997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bernie's Nightmare | 105586 | [105586-bernies-nightmare.json](./105586-bernies-nightmare.json) |
 | Berries Challenge | 159830 | [159830-berries-challenge.json](./159830-berries-challenge.json) |
 | Berry Barrel Blitz | 302766 | [302766-berry-barrel-blitz.json](./302766-berry-barrel-blitz.json) |
+| Berry Bash | 301055 | [301055-berry-bash.json](./301055-berry-bash.json) |
 | Berry Brother | 257662 | [257662-berry-brother.json](./257662-berry-brother.json) |
 | Berry Couple | 334799 | [334799-berry-couple.json](./334799-berry-couple.json) |
 | Berry Hunt Survivors | 247779 | [247779-berry-hunt-survivors.json](./247779-berry-hunt-survivors.json) |
@@ -9201,6 +9204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breakfree | 130847 | [130847-breakfree.json](./130847-breakfree.json) |
 | BreakFree Escape From the Mine | 101968 | [101968-breakfree-escape-from-the-mine.json](./101968-breakfree-escape-from-the-mine.json) |
 | Breaking Box: Walk | 264147 | [264147-breaking-box-walk.json](./264147-breaking-box-walk.json) |
+| Breaking Bricks | 301091 | [301091-breaking-bricks.json](./301091-breaking-bricks.json) |
 | Breaking Bricks | 333680 | [333680-breaking-bricks.json](./333680-breaking-bricks.json) |
 | Breaking Clouds and Blooming Light | 227962 | [227962-breaking-clouds-and-blooming-light.json](./227962-breaking-clouds-and-blooming-light.json) |
 | Breaking earth | 165688 | [165688-breaking-earth.json](./165688-breaking-earth.json) |
@@ -9758,6 +9762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bruneva | 329052 | [329052-bruneva.json](./329052-bruneva.json) |
 | Brunhilda and the Dark Crystal | 52490 | [52490-brunhilda-and-the-dark-crystal.json](./52490-brunhilda-and-the-dark-crystal.json) |
 | Brunilda | 182334 | [182334-brunilda.json](./182334-brunilda.json) |
+| Bruno: Lost In Nightmares | 301080 | [301080-bruno-lost-in-nightmares.json](./301080-bruno-lost-in-nightmares.json) |
 | Brunswick Pro Billiards | 147954 | [147954-brunswick-pro-billiards.json](./147954-brunswick-pro-billiards.json) |
 | Brunswick Pro Bowling | 4731 | [4731-brunswick-pro-bowling.json](./4731-brunswick-pro-bowling.json) |
 | Brunswick Pro Pool 3D II | 206688 | [206688-brunswick-pro-pool-3d-ii.json](./206688-brunswick-pro-pool-3d-ii.json) |
@@ -11086,6 +11091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Byoutai Seiri DS: Image Dekiru! Shikkan, Shoujou to Care | 269672 | [269672-byoutai-seiri-ds-image-dekiru-shikkan-shoujou-to-care.json](./269672-byoutai-seiri-ds-image-dekiru-shikkan-shoujou-to-care.json) |
 | Bypass | 382884 | [382884-bypass.json](./382884-bypass.json) |
 | Bystander | 75827 | [75827-bystander.json](./75827-bystander.json) |
+| Byte | 301066 | [301066-byte.json](./301066-byte.json) |
 | Byte Bitten | 93183 | [93183-byte-bitten.json](./93183-byte-bitten.json) |
 | Byte Breakers | 314978 | [314978-byte-breakers.json](./314978-byte-breakers.json) |
 | Byte Family | 30750 | [30750-byte-family.json](./30750-byte-family.json) |
