@@ -2582,6 +2582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hellbound: the Awakening | 130118 | [130118-hellbound-the-awakening.json](./130118-hellbound-the-awakening.json) |
 | Hellboy: Dogs of the Night | 51441 | [51441-hellboy-dogs-of-the-night.json](./51441-hellboy-dogs-of-the-night.json) |
 | Hellboy: The Science of Evil | 7007 | [7007-hellboy-the-science-of-evil.json](./7007-hellboy-the-science-of-evil.json) |
+| Hellboy: Web of Wyrd - Collector's Edition | 287044 | [287044-hellboy-web-of-wyrd-collectors-edition.json](./287044-hellboy-web-of-wyrd-collectors-edition.json) |
 | Hellbreaker | 74863 | [74863-hellbreaker.json](./74863-hellbreaker.json) |
 | Hellbrella | 345003 | [345003-hellbrella.json](./345003-hellbrella.json) |
 | Hellbridge | 399268 | [399268-hellbridge.json](./399268-hellbridge.json) |
