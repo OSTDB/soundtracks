@@ -75,6 +75,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Table Tennis Infinity | 85420 | [85420-table-tennis-infinity.json](./85420-table-tennis-infinity.json) |
 | Table Tennis Simulation | 72076 | [72076-table-tennis-simulation.json](./72076-table-tennis-simulation.json) |
 | Table Tennis Star | 58654 | [58654-table-tennis-star.json](./58654-table-tennis-star.json) |
+| Table Tennis Toon! | 278943 | [278943-table-tennis-toon.json](./278943-table-tennis-toon.json) |
 | Table Tennis VR | 32289 | [32289-table-tennis-vr.json](./32289-table-tennis-vr.json) |
 | Table Top Racing | 8350 | [8350-table-top-racing.json](./8350-table-top-racing.json) |
 | Table Top Racing: Nitro Edition | 136192 | [136192-table-top-racing-nitro-edition.json](./136192-table-top-racing-nitro-edition.json) |
@@ -4143,6 +4144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Black Door | 249843 | [249843-the-black-door.json](./249843-the-black-door.json) |
 | The Black Eyed Peas Experience | 3302 | [3302-the-black-eyed-peas-experience.json](./3302-the-black-eyed-peas-experience.json) |
 | The Black Fog | 271853 | [271853-the-black-fog.json](./271853-the-black-fog.json) |
+| The Black Guards of Odom: Desert Town Prison | 278941 | [278941-the-black-guards-of-odom-desert-town-prison.json](./278941-the-black-guards-of-odom-desert-town-prison.json) |
 | The Black Iris | 143606 | [143606-the-black-iris.json](./143606-the-black-iris.json) |
 | The Black Knight | 113170 | [113170-the-black-knight.json](./113170-the-black-knight.json) |
 | The Black Knight | 249146 | [249146-the-black-knight.json](./249146-the-black-knight.json) |
@@ -7504,6 +7506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Hope: Atomic Bomb - Crypto War | 88195 | [88195-the-last-hope-atomic-bomb-crypto-war.json](./88195-the-last-hope-atomic-bomb-crypto-war.json) |
 | The Last Horseman | 397189 | [397189-the-last-horseman.json](./397189-the-last-horseman.json) |
 | The Last Hospital | 292997 | [292997-the-last-hospital.json](./292997-the-last-hospital.json) |
+| The Last Human: Go! | 278942 | [278942-the-last-human-go.json](./278942-the-last-human-go.json) |
 | The Last Inca | 71771 | [71771-the-last-inca.json](./71771-the-last-inca.json) |
 | The Last Janitor: Data Cleanup | 361680 | [361680-the-last-janitor-data-cleanup.json](./361680-the-last-janitor-data-cleanup.json) |
 | The Last Job | 236792 | [236792-the-last-job.json](./236792-the-last-job.json) |
@@ -7805,6 +7808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Nayuta: Boundless Trails - Limited Edition | 284595 | [284595-the-legend-of-nayuta-boundless-trails-limited-edition.json](./284595-the-legend-of-nayuta-boundless-trails-limited-edition.json) |
 | The Legend of Neverland | 159100 | [159100-the-legend-of-neverland.json](./159100-the-legend-of-neverland.json) |
 | The Legend of Ninja | 147947 | [147947-the-legend-of-ninja.json](./147947-the-legend-of-ninja.json) |
+| The Legend of Ogorets 4: Warren | 278921 | [278921-the-legend-of-ogorets-4-warren.json](./278921-the-legend-of-ogorets-4-warren.json) |
 | The Legend of Paco the Jungle Duck | 120845 | [120845-the-legend-of-paco-the-jungle-duck.json](./120845-the-legend-of-paco-the-jungle-duck.json) |
 | The Legend of Peach | 198374 | [198374-the-legend-of-peach.json](./198374-the-legend-of-peach.json) |
 | The Legend of Peach: Insert Random Title There | 323270 | [323270-the-legend-of-peach-insert-random-title-there.json](./323270-the-legend-of-peach-insert-random-title-there.json) |
@@ -9605,6 +9609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Recursive Dollhouse | 176918 | [176918-the-recursive-dollhouse.json](./176918-the-recursive-dollhouse.json) |
 | The Red Baron | 111660 | [111660-the-red-baron.json](./111660-the-red-baron.json) |
 | The Red Bell’s Lament | 276734 | [276734-the-red-bell-s-lament.json](./276734-the-red-bell-s-lament.json) |
+| The Red Beret | 278948 | [278948-the-red-beret.json](./278948-the-red-beret.json) |
 | The Red Button | 289969 | [289969-the-red-button.json](./289969-the-red-button.json) |
 | The Red Cathedral | 359042 | [359042-the-red-cathedral.json](./359042-the-red-cathedral.json) |
 | The Red Crystal: The Seven Secrets of Life | 198262 | [198262-the-red-crystal-the-seven-secrets-of-life.json](./198262-the-red-crystal-the-seven-secrets-of-life.json) |
