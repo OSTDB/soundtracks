@@ -860,6 +860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Origin R+ | 401129 | [401129-last-origin-r.json](./401129-last-origin-r.json) |
 | Last Outlander | 224028 | [224028-last-outlander.json](./224028-last-outlander.json) |
 | Last Outpost | 302110 | [302110-last-outpost.json](./302110-last-outpost.json) |
+| Last Patriot | 328972 | [328972-last-patriot.json](./328972-last-patriot.json) |
 | Last Pill Bar | 415880 | [415880-last-pill-bar.json](./415880-last-pill-bar.json) |
 | Last Pirate: Survival Island | 193960 | [193960-last-pirate-survival-island.json](./193960-last-pirate-survival-island.json) |
 | Last Pirates: Die Together | 397402 | [397402-last-pirates-die-together.json](./397402-last-pirates-die-together.json) |
@@ -3493,6 +3494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Artist - Drawing and Coloring Book | 104598 | [104598-little-artist-drawing-and-coloring-book.json](./104598-little-artist-drawing-and-coloring-book.json) |
 | Little Astronaut | 199133 | [199133-little-astronaut.json](./199133-little-astronaut.json) |
 | Little Backpack | 407408 | [407408-little-backpack.json](./407408-little-backpack.json) |
+| Little Bartmares | 328955 | [328955-little-bartmares.json](./328955-little-bartmares.json) |
 | Little Bear | 308582 | [308582-little-bear.json](./308582-little-bear.json) |
 | Little Bear Chef | 204509 | [204509-little-bear-chef.json](./204509-little-bear-chef.json) |
 | Little Bear Rainy Day Activities | 280772 | [280772-little-bear-rainy-day-activities.json](./280772-little-bear-rainy-day-activities.json) |
@@ -5500,6 +5502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Löwenzahn: Geschichten aus Natur, Umwelt und Technik | 250534 | [250534-lowenzahn-geschichten-aus-natur-umwelt-und-technik.json](./250534-lowenzahn-geschichten-aus-natur-umwelt-und-technik.json) |
 | Lower Forecourt | 271370 | [271370-lower-forecourt.json](./271370-lower-forecourt.json) |
 | Lower? Higher! | 303640 | [303640-lower-higher.json](./303640-lower-higher.json) |
+| Lowland Keepers | 328956 | [328956-lowland-keepers.json](./328956-lowland-keepers.json) |
 | Lowlander II: Lowerlander | 104706 | [104706-lowlander-ii-lowerlander.json](./104706-lowlander-ii-lowerlander.json) |
 | Lowlife | 208016 | [208016-lowlife.json](./208016-lowlife.json) |
 | LowPoly Towerdefense | 295009 | [295009-lowpoly-towerdefense.json](./295009-lowpoly-towerdefense.json) |
