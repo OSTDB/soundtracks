@@ -472,6 +472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Want a Bomb? | 419925 | [419925-want-a-bomb.json](./419925-want-a-bomb.json) |
 | Want to Hear a Scary Story? | 176261 | [176261-want-to-hear-a-scary-story.json](./176261-want-to-hear-a-scary-story.json) |
 | Wantame Music Channel: Doko Demo Style | 370291 | [370291-wantame-music-channel-doko-demo-style.json](./370291-wantame-music-channel-doko-demo-style.json) |
+| Wanted | 311763 | [311763-wanted.json](./311763-wanted.json) |
 | Wanted | 325069 | [325069-wanted.json](./325069-wanted.json) |
 | Wanted | 72380 | [72380-wanted.json](./72380-wanted.json) |
 | Wanted | 75090 | [75090-wanted.json](./75090-wanted.json) |
@@ -1449,6 +1450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Watch Trader | 339317 | [339317-watch-trader.json](./339317-watch-trader.json) |
 | Watch Where You're Going | 345077 | [345077-watch-where-youre-going.json](./345077-watch-where-youre-going.json) |
 | Watch Your Back | 203838 | [203838-watch-your-back.json](./203838-watch-your-back.json) |
+| Watch Your Eggs! | 311726 | [311726-watch-your-eggs.json](./311726-watch-your-eggs.json) |
 | Watch Your Eggs! VR | 282245 | [282245-watch-your-eggs-vr.json](./282245-watch-your-eggs-vr.json) |
 | Watch_Dogs 1985 | 179119 | [179119-watch-dogs-1985.json](./179119-watch-dogs-1985.json) |
 | Watched | 383512 | [383512-watched.json](./383512-watched.json) |
