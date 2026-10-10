@@ -3357,6 +3357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BeatMotor | 192841 | [192841-beatmotor.json](./192841-beatmotor.json) |
 | BeatNClean | 192792 | [192792-beatnclean.json](./192792-beatnclean.json) |
 | Beatoraja | 130770 | [130770-beatoraja.json](./130770-beatoraja.json) |
+| Beatrice Verdict: Ace Attorney - The Hidden Truth | 306629 | [306629-beatrice-verdict-ace-attorney-the-hidden-truth.json](./306629-beatrice-verdict-ace-attorney-the-hidden-truth.json) |
 | BeatRider | 305789 | [305789-beatrider.json](./305789-beatrider.json) |
 | Beats Fever | 30173 | [30173-beats-fever.json](./30173-beats-fever.json) |
 | Beats of Fury | 127181 | [127181-beats-of-fury.json](./127181-beats-of-fury.json) |
@@ -6207,6 +6208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blink's Pet Lizard | 413733 | [413733-blinks-pet-lizard.json](./413733-blinks-pet-lizard.json) |
 | Blinky | 192832 | [192832-blinky.json](./192832-blinky.json) |
 | Blinky 3 | 282796 | [282796-blinky-3.json](./282796-blinky-3.json) |
+| Blinky Bill's Ghost Cave | 306723 | [306723-blinky-bills-ghost-cave.json](./306723-blinky-bills-ghost-cave.json) |
 | Blinky's Adventure | 367949 | [367949-blinkys-adventure.json](./367949-blinkys-adventure.json) |
 | Blinky's Revenge | 338832 | [338832-blinkys-revenge.json](./338832-blinkys-revenge.json) |
 | Blip & Blop: Balls of Steel | 50127 | [50127-blip-and-blop-balls-of-steel.json](./50127-blip-and-blop-balls-of-steel.json) |
@@ -10591,6 +10593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burden of 80 Proof | 230248 | [230248-burden-of-80-proof.json](./230248-burden-of-80-proof.json) |
 | Burden of Command | 54935 | [54935-burden-of-command.json](./54935-burden-of-command.json) |
 | Burden of Proof | 105198 | [105198-burden-of-proof.json](./105198-burden-of-proof.json) |
+| Burden of Truth | 306714 | [306714-burden-of-truth.json](./306714-burden-of-truth.json) |
 | Burden RPG | 388403 | [388403-burden-rpg.json](./388403-burden-rpg.json) |
 | Burden Street Station | 347812 | [347812-burden-street-station.json](./347812-burden-street-station.json) |
 | Burdock 2 | 353766 | [353766-burdock-2.json](./353766-burdock-2.json) |
