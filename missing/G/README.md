@@ -3014,6 +3014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Global Defence Force | 5581 | [5581-global-defence-force.json](./5581-global-defence-force.json) |
 | Global Defence Force: Tactics | 5582 | [5582-global-defence-force-tactics.json](./5582-global-defence-force-tactics.json) |
 | Global Domination | 15480 | [15480-global-domination.json](./15480-global-domination.json) |
+| Global Domination | 281325 | [281325-global-domination.json](./281325-global-domination.json) |
 | Global Effect | 13051 | [13051-global-effect.json](./13051-global-effect.json) |
 | Global Elite | 298684 | [298684-global-elite.json](./298684-global-elite.json) |
 | Global Farmer | 301913 | [301913-global-farmer.json](./301913-global-farmer.json) |
@@ -3634,6 +3635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goddess of Card War: DLC-1 | 170420 | [170420-goddess-of-card-war-dlc-1.json](./170420-goddess-of-card-war-dlc-1.json) |
 | Goddess of Card War: DLC-2 | 170419 | [170419-goddess-of-card-war-dlc-2.json](./170419-goddess-of-card-war-dlc-2.json) |
 | Goddess of Fate IV: Lilith | 281447 | [281447-goddess-of-fate-iv-lilith.json](./281447-goddess-of-fate-iv-lilith.json) |
+| Goddess of Hentai | 281341 | [281341-goddess-of-hentai.json](./281341-goddess-of-hentai.json) |
 | Goddess of Math | 116116 | [116116-goddess-of-math.json](./116116-goddess-of-math.json) |
 | Goddess of Strategy | 390170 | [390170-goddess-of-strategy.json](./390170-goddess-of-strategy.json) |
 | Goddess Of Swing | 329353 | [329353-goddess-of-swing.json](./329353-goddess-of-swing.json) |
@@ -4804,6 +4806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Theft Auto Re: Liberty City Stories | 233662 | [233662-grand-theft-auto-re-liberty-city-stories.json](./233662-grand-theft-auto-re-liberty-city-stories.json) |
 | Grand Theft Auto Tightened Thrice | 329629 | [329629-grand-theft-auto-tightened-thrice.json](./329629-grand-theft-auto-tightened-thrice.json) |
 | Grand Theft Auto Tightened Vice | 329628 | [329628-grand-theft-auto-tightened-vice.json](./329628-grand-theft-auto-tightened-vice.json) |
+| Grand Theft Auto Tokyo | 281320 | [281320-grand-theft-auto-tokyo.json](./281320-grand-theft-auto-tokyo.json) |
 | Grand Theft Auto V | 134709 | [134709-grand-theft-auto-v.json](./134709-grand-theft-auto-v.json) |
 | Grand Theft Auto V Enhanced | 334254 | [334254-grand-theft-auto-v-enhanced.json](./334254-grand-theft-auto-v-enhanced.json) |
 | Grand Theft Auto V Enhanced | 334647 | [334647-grand-theft-auto-v-enhanced.json](./334647-grand-theft-auto-v-enhanced.json) |
