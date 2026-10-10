@@ -999,6 +999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CapoeiRogue: Dandara Cordão de Ouro | 215919 | [215919-capoeirogue-dandara-cordao-de-ouro.json](./215919-capoeirogue-dandara-cordao-de-ouro.json) |
 | Capone | 14375 | [14375-capone.json](./14375-capone.json) |
 | Capoo Pals | 393112 | [393112-capoo-pals.json](./393112-capoo-pals.json) |
+| Capoo Pals for MAC | 289244 | [289244-capoo-pals-for-mac.json](./289244-capoo-pals-for-mac.json) |
 | Capoo Pals for MAC Expansion Set | 289464 | [289464-capoo-pals-for-mac-expansion-set.json](./289464-capoo-pals-for-mac-expansion-set.json) |
 | Capoo Stack | 387634 | [387634-capoo-stack.json](./387634-capoo-stack.json) |
 | Capp's Ascent | 413482 | [413482-capps-ascent.json](./413482-capps-ascent.json) |
