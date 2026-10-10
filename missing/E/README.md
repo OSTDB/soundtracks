@@ -2470,6 +2470,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enlisted: Fedorov MG Squad | 293772 | [293772-enlisted-fedorov-mg-squad.json](./293772-enlisted-fedorov-mg-squad.json) |
 | Enlisted: M3A1 Squad | 293771 | [293771-enlisted-m3a1-squad.json](./293771-enlisted-m3a1-squad.json) |
 | Enlisted: Nambu Type 1 Squad | 293767 | [293767-enlisted-nambu-type-1-squad.json](./293767-enlisted-nambu-type-1-squad.json) |
+| Enlisted: Reinforced - Advanced Pack | 295119 | [295119-enlisted-reinforced-advanced-pack.json](./295119-enlisted-reinforced-advanced-pack.json) |
+| Enlisted: Reinforced - Deluxe Pack | 295120 | [295120-enlisted-reinforced-deluxe-pack.json](./295120-enlisted-reinforced-deluxe-pack.json) |
 | Enlisted: Sherman IC "Firefly" Squad | 293770 | [293770-enlisted-sherman-ic-firefly-squad.json](./293770-enlisted-sherman-ic-firefly-squad.json) |
 | Enlisted: Type Hei LMG Squad | 332008 | [332008-enlisted-type-hei-lmg-squad.json](./332008-enlisted-type-hei-lmg-squad.json) |
 | Enlysia | 44191 | [44191-enlysia.json](./44191-enlysia.json) |
@@ -3266,6 +3268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Prison | 163898 | [163898-escape-prison.json](./163898-escape-prison.json) |
 | Escape Prison Obby: Getaway | 389054 | [389054-escape-prison-obby-getaway.json](./389054-escape-prison-obby-getaway.json) |
 | Escape Protocol: Hospital | 369754 | [369754-escape-protocol-hospital.json](./369754-escape-protocol-hospital.json) |
+| Escape Qinglong Mountain Re | 295150 | [295150-escape-qinglong-mountain-re.json](./295150-escape-qinglong-mountain-re.json) |
 | Escape Quest 8:Peace Keeper | 99171 | [99171-escape-quest-8-peace-keeper.json](./99171-escape-quest-8-peace-keeper.json) |
 | Escape Room | 76510 | [76510-escape-room.json](./76510-escape-room.json) |
 | Escape Room | 90637 | [90637-escape-room.json](./90637-escape-room.json) |
@@ -5024,6 +5027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EZ2on Reboot: R | 144282 | [144282-ez2on-reboot-r.json](./144282-ez2on-reboot-r.json) |
 | EZ2on Reboot: R - DJMAX Collaboration DLC | 269015 | [269015-ez2on-reboot-r-djmax-collaboration-dlc.json](./269015-ez2on-reboot-r-djmax-collaboration-dlc.json) |
 | EZ2on Reboot: R - Fortress Collaboration DLC | 256004 | [256004-ez2on-reboot-r-fortress-collaboration-dlc.json](./256004-ez2on-reboot-r-fortress-collaboration-dlc.json) |
+| EZ2on Reboot: R - Hardcore Tano*C Music Pack vol.1 | 295121 | [295121-ez2on-reboot-r-hardcore-tano-c-music-pack-vol-1.json](./295121-ez2on-reboot-r-hardcore-tano-c-music-pack-vol-1.json) |
 | Eza | 176836 | [176836-eza.json](./176836-eza.json) |
 | Ezalm : Magic's Memory | 419955 | [419955-ezalm-magics-memory.json](./419955-ezalm-magics-memory.json) |
 | Ezaron Defense | 120076 | [120076-ezaron-defense.json](./120076-ezaron-defense.json) |
