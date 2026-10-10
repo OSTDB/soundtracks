@@ -4030,6 +4030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dental Madness: Cavity Mania | 166758 | [166758-dental-madness-cavity-mania.json](./166758-dental-madness-cavity-mania.json) |
 | Dental Strike | 290699 | [290699-dental-strike.json](./290699-dental-strike.json) |
 | Dentist Bling: Complete Edition | 294832 | [294832-dentist-bling-complete-edition.json](./294832-dentist-bling-complete-edition.json) |
+| Dentist Bling: Fantasy Edition | 304782 | [304782-dentist-bling-fantasy-edition.json](./304782-dentist-bling-fantasy-edition.json) |
 | Dentist For Kids | 100224 | [100224-dentist-for-kids.json](./100224-dentist-for-kids.json) |
 | Dentist Hour: Escape Room | 357797 | [357797-dentist-hour-escape-room.json](./357797-dentist-hour-escape-room.json) |
 | Dentist kids Hospital Simulation Teeth Surgery | 101950 | [101950-dentist-kids-hospital-simulation-teeth-surgery.json](./101950-dentist-kids-hospital-simulation-teeth-surgery.json) |
@@ -7198,6 +7199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doll Dress Up: Classy Edition | 332510 | [332510-doll-dress-up-classy-edition.json](./332510-doll-dress-up-classy-edition.json) |
 | Doll Dress Up: Cute DLC | 317939 | [317939-doll-dress-up-cute-dlc.json](./317939-doll-dress-up-cute-dlc.json) |
 | Doll Explorer Prologue | 151658 | [151658-doll-explorer-prologue.json](./151658-doll-explorer-prologue.json) |
+| Doll Grabber | 304907 | [304907-doll-grabber.json](./304907-doll-grabber.json) |
 | Doll INC | 346690 | [346690-doll-inc.json](./346690-doll-inc.json) |
 | Doll Parts | 347793 | [347793-doll-parts.json](./347793-doll-parts.json) |
 | Doll Recollect | 299737 | [299737-doll-recollect.json](./299737-doll-recollect.json) |
