@@ -3063,6 +3063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mashin Eiyuuden Wataru 2: Shinsei Ryuujin-maru Sanjou! | 284454 | [284454-mashin-eiyuuden-wataru-2-shinsei-ryuujin-maru-sanjou.json](./284454-mashin-eiyuuden-wataru-2-shinsei-ryuujin-maru-sanjou.json) |
 | Mashin Eiyuuden Wataru 2: Totsugeki! New Ryuujin-maru | 284456 | [284456-mashin-eiyuuden-wataru-2-totsugeki-new-ryuujin-maru.json](./284456-mashin-eiyuuden-wataru-2-totsugeki-new-ryuujin-maru.json) |
 | Mashinky | 55590 | [55590-mashinky.json](./55590-mashinky.json) |
+| Mashiro Witch: Midnight Marchen | 287007 | [287007-mashiro-witch-midnight-marchen.json](./287007-mashiro-witch-midnight-marchen.json) |
 | Mashiroiro Symphony HD: Love is Pure White | 292527 | [292527-mashiroiro-symphony-hd-love-is-pure-white.json](./292527-mashiroiro-symphony-hd-love-is-pure-white.json) |
 | Mashiroiro Symphony HD: Sana Edition | 292529 | [292529-mashiroiro-symphony-hd-sana-edition.json](./292529-mashiroiro-symphony-hd-sana-edition.json) |
 | Mashiroiro Symphony: Mutsu-no-hana - Limited Edition | 413747 | [413747-mashiroiro-symphony-mutsu-no-hana-limited-edition.json](./413747-mashiroiro-symphony-mutsu-no-hana-limited-edition.json) |
@@ -3467,6 +3468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Matching App de Shiriatta Otoko wo Shinyou shite ha Ikemasen. | 341026 | [341026-matching-app-de-shiriatta-otoko-wo-shinyou-shite-ha-ikemasen.json](./341026-matching-app-de-shiriatta-otoko-wo-shinyou-shite-ha-ikemasen.json) |
 | Matching Blocks | 288362 | [288362-matching-blocks.json](./288362-matching-blocks.json) |
 | Matching Cats | 173040 | [173040-matching-cats.json](./173040-matching-cats.json) |
+| Matching Meadows | 287054 | [287054-matching-meadows.json](./287054-matching-meadows.json) |
 | Matching With Friends | 64889 | [64889-matching-with-friends.json](./64889-matching-with-friends.json) |
 | Matchkey | 180623 | [180623-matchkey.json](./180623-matchkey.json) |
 | Matchmaker Simulator | 390790 | [390790-matchmaker-simulator.json](./390790-matchmaker-simulator.json) |
@@ -7483,6 +7485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mine Upgrade | 369585 | [369585-mine-upgrade.json](./369585-mine-upgrade.json) |
 | Mine Your Way Out 2 | 345623 | [345623-mine-your-way-out-2.json](./345623-mine-your-way-out-2.json) |
 | Mine! | 59257 | [59257-mine.json](./59257-mine.json) |
+| Mine? Sweeper | 287000 | [287000-mine-sweeper.json](./287000-mine-sweeper.json) |
 | Mineblader | 419989 | [419989-mineblader.json](./419989-mineblader.json) |
 | Minebot Arena | 74050 | [74050-minebot-arena.json](./74050-minebot-arena.json) |
 | Minebuilder | 86893 | [86893-minebuilder.json](./86893-minebuilder.json) |
@@ -9776,6 +9779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Land | 84186 | [84186-monster-land.json](./84186-monster-land.json) |
 | Monster League | 110497 | [110497-monster-league.json](./110497-monster-league.json) |
 | Monster Legacy | 20066 | [20066-monster-legacy.json](./20066-monster-legacy.json) |
+| Monster Legacy: New Horizons | 287038 | [287038-monster-legacy-new-horizons.json](./287038-monster-legacy-new-horizons.json) |
 | Monster Legend | 158134 | [158134-monster-legend.json](./158134-monster-legend.json) |
 | Monster Legends | 224007 | [224007-monster-legends.json](./224007-monster-legends.json) |
 | Monster Legends | 59437 | [59437-monster-legends.json](./59437-monster-legends.json) |
