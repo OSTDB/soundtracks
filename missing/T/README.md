@@ -8945,6 +8945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Owlman of Mawnan Smith | 61084 | [61084-the-owlman-of-mawnan-smith.json](./61084-the-owlman-of-mawnan-smith.json) |
 | The Pack | 113678 | [113678-the-pack.json](./113678-the-pack.json) |
 | The Packages | 212916 | [212916-the-packages.json](./212916-the-packages.json) |
+| The Paddy Field | 328934 | [328934-the-paddy-field.json](./328934-the-paddy-field.json) |
 | The Padre | 74907 | [74907-the-padre.json](./74907-the-padre.json) |
 | The Pagemaster | 209009 | [209009-the-pagemaster.json](./209009-the-pagemaster.json) |
 | The Pagemaster | 49032 | [49032-the-pagemaster.json](./49032-the-pagemaster.json) |
@@ -9959,6 +9960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Shopping List | 198373 | [198373-the-shopping-list.json](./198373-the-shopping-list.json) |
 | The Short Bread Game | 324900 | [324900-the-short-bread-game.json](./324900-the-short-bread-game.json) |
 | The Short Story of a Drifting Labyrinth | 82341 | [82341-the-short-story-of-a-drifting-labyrinth.json](./82341-the-short-story-of-a-drifting-labyrinth.json) |
+| The Short Trip | 328973 | [328973-the-short-trip.json](./328973-the-short-trip.json) |
 | The Shortest Journey | 327327 | [327327-the-shortest-journey.json](./327327-the-shortest-journey.json) |
 | The Shouboutai | 124081 | [124081-the-shouboutai.json](./124081-the-shouboutai.json) |
 | The Show | 310641 | [310641-the-show.json](./310641-the-show.json) |
@@ -20004,6 +20006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twisted Draw | 199649 | [199649-twisted-draw.json](./199649-twisted-draw.json) |
 | Twisted Edge Extreme Snowboarding | 3622 | [3622-twisted-edge-extreme-snowboarding.json](./3622-twisted-edge-extreme-snowboarding.json) |
 | Twisted Insurrection | 219009 | [219009-twisted-insurrection.json](./219009-twisted-insurrection.json) |
+| Twisted Jam | 329238 | [329238-twisted-jam.json](./329238-twisted-jam.json) |
 | Twisted Joke | 273548 | [273548-twisted-joke.json](./273548-twisted-joke.json) |
 | Twisted Lands Trilogy | 53864 | [53864-twisted-lands-trilogy.json](./53864-twisted-lands-trilogy.json) |
 | Twisted Lands: Insomniac | 50229 | [50229-twisted-lands-insomniac.json](./50229-twisted-lands-insomniac.json) |
