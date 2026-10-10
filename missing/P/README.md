@@ -10724,6 +10724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pusher: Drug Tycoon | 259167 | [259167-pusher-drug-tycoon.json](./259167-pusher-drug-tycoon.json) |
 | PushieBlocks | 132047 | [132047-pushieblocks.json](./132047-pushieblocks.json) |
 | Pushika | 334241 | [334241-pushika.json](./334241-pushika.json) |
+| Pushing | 316944 | [316944-pushing.json](./316944-pushing.json) |
 | Pushing Crates | 215037 | [215037-pushing-crates.json](./215037-pushing-crates.json) |
 | Pushing It! With Sisyphus | 298033 | [298033-pushing-it-with-sisyphus.json](./298033-pushing-it-with-sisyphus.json) |
 | Pushing the limit | 157098 | [157098-pushing-the-limit.json](./157098-pushing-the-limit.json) |
