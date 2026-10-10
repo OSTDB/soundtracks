@@ -572,6 +572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ragnarock | 139399 | [139399-ragnarock.json](./139399-ragnarock.json) |
 | Ragnarock: Vikings On Tour | 247655 | [247655-ragnarock-vikings-on-tour.json](./247655-ragnarock-vikings-on-tour.json) |
 | Ragnarok | 71704 | [71704-ragnarok.json](./71704-ragnarok.json) |
+| Ragnarok Age of Heroes | 305964 | [305964-ragnarok-age-of-heroes.json](./305964-ragnarok-age-of-heroes.json) |
 | Ragnarok Arena | 214383 | [214383-ragnarok-arena.json](./214383-ragnarok-arena.json) |
 | Ragnarok Battle Offline: Extra Scenario 1 | 67953 | [67953-ragnarok-battle-offline-extra-scenario-1.json](./67953-ragnarok-battle-offline-extra-scenario-1.json) |
 | Ragnarok Battle Offline: Extra Scenario 2 | 67951 | [67951-ragnarok-battle-offline-extra-scenario-2.json](./67951-ragnarok-battle-offline-extra-scenario-2.json) |
@@ -4697,6 +4698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rinse and Repeat | 13158 | [13158-rinse-and-repeat.json](./13158-rinse-and-repeat.json) |
 | Rinse and Repeat | 286576 | [286576-rinse-and-repeat.json](./286576-rinse-and-repeat.json) |
 | Rinth Island | 22333 | [22333-rinth-island.json](./22333-rinth-island.json) |
+| Rinthylab Labyrinth | 306047 | [306047-rinthylab-labyrinth.json](./306047-rinthylab-labyrinth.json) |
 | Rio Blackjack | 77271 | [77271-rio-blackjack.json](./77271-rio-blackjack.json) |
 | Rio Rex | 102223 | [102223-rio-rex.json](./102223-rio-rex.json) |
 | Rio Rise | 397904 | [397904-rio-rise.json](./397904-rio-rise.json) |
@@ -4758,6 +4760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise | 338219 | [338219-rise.json](./338219-rise.json) |
 | Rise & Destroy | 59484 | [59484-rise-and-destroy.json](./59484-rise-and-destroy.json) |
 | Rise & Dine | 380767 | [380767-rise-and-dine.json](./380767-rise-and-dine.json) |
+| Rise & Fall: Online Digital Edition | 306057 | [306057-rise-and-fall-online-digital-edition.json](./306057-rise-and-fall-online-digital-edition.json) |
 | Rise & Ironfall: VD-dev Legacy Pack | 351231 | [351231-rise-and-ironfall-vd-dev-legacy-pack.json](./351231-rise-and-ironfall-vd-dev-legacy-pack.json) |
 | Rise & Muse | 298142 | [298142-rise-and-muse.json](./298142-rise-and-muse.json) |
 | Rise & Reign | 277277 | [277277-rise-and-reign.json](./277277-rise-and-reign.json) |
@@ -6278,6 +6281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roll Ball | 319963 | [319963-roll-ball.json](./319963-roll-ball.json) |
 | Roll Ball Adventures | 188668 | [188668-roll-ball-adventures.json](./188668-roll-ball-adventures.json) |
 | Roll Boss Rush | 43845 | [43845-roll-boss-rush.json](./43845-roll-boss-rush.json) |
+| Roll Five | 305970 | [305970-roll-five.json](./305970-roll-five.json) |
 | Roll For Confidence | 171091 | [171091-roll-for-confidence.json](./171091-roll-for-confidence.json) |
 | Roll in the Hole | 64670 | [64670-roll-in-the-hole.json](./64670-roll-in-the-hole.json) |
 | Roll It to the End | 244718 | [244718-roll-it-to-the-end.json](./244718-roll-it-to-the-end.json) |
@@ -6304,6 +6308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rollbot | 351031 | [351031-rollbot.json](./351031-rollbot.json) |
 | Rollcage | 8332 | [8332-rollcage.json](./8332-rollcage.json) |
 | Rolldown | 228366 | [228366-rolldown.json](./228366-rolldown.json) |
+| Rolldown | 305979 | [305979-rolldown.json](./305979-rolldown.json) |
 | Roller | 99776 | [99776-roller.json](./99776-roller.json) |
 | Roller Aces | 40132 | [40132-roller-aces.json](./40132-roller-aces.json) |
 | Roller Angels | 84847 | [84847-roller-angels.json](./84847-roller-angels.json) |
@@ -6420,6 +6425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RollScape | 295403 | [295403-rollscape.json](./295403-rollscape.json) |
 | RollTheEarth | 103437 | [103437-rolltheearth.json](./103437-rolltheearth.json) |
 | Rolly Cubes | 312370 | [312370-rolly-cubes.json](./312370-rolly-cubes.json) |
+| Rolly Dango | 306042 | [306042-rolly-dango.json](./306042-rolly-dango.json) |
 | Rolly Rails | 345701 | [345701-rolly-rails.json](./345701-rolly-rails.json) |
 | Rolly's Adventure | 119560 | [119560-rollys-adventure.json](./119560-rollys-adventure.json) |
 | Rolo to the Rescue | 46200 | [46200-rolo-to-the-rescue.json](./46200-rolo-to-the-rescue.json) |
@@ -7163,6 +7169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rubber Man | 185131 | [185131-rubber-man.json](./185131-rubber-man.json) |
 | Rubber Ninjas | 75143 | [75143-rubber-ninjas.json](./75143-rubber-ninjas.json) |
 | Rubber Royale | 244269 | [244269-rubber-royale.json](./244269-rubber-royale.json) |
+| Rubber Sharks | 305980 | [305980-rubber-sharks.json](./305980-rubber-sharks.json) |
 | Rubbish Island | 378890 | [378890-rubbish-island.json](./378890-rubbish-island.json) |
 | Rubble Rampage | 413127 | [413127-rubble-rampage.json](./413127-rubble-rampage.json) |
 | Rubble the Engineer | 359414 | [359414-rubble-the-engineer.json](./359414-rubble-the-engineer.json) |
