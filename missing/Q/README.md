@@ -454,6 +454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Queen of The Hill | 306061 | [306061-queen-of-the-hill.json](./306061-queen-of-the-hill.json) |
 | Queen Of The Sands | 415079 | [415079-queen-of-the-sands.json](./415079-queen-of-the-sands.json) |
 | Queen of Zarkov | 173288 | [173288-queen-of-zarkov.json](./173288-queen-of-zarkov.json) |
+| Queen Pirate: Love Adrift | 298992 | [298992-queen-pirate-love-adrift.json](./298992-queen-pirate-love-adrift.json) |
 | Queen Slayer | 311590 | [311590-queen-slayer.json](./311590-queen-slayer.json) |
 | Queen Wanda | 293352 | [293352-queen-wanda.json](./293352-queen-wanda.json) |
 | Queen,Don't be afraid | 294365 | [294365-queen-dont-be-afraid.json](./294365-queen-dont-be-afraid.json) |
