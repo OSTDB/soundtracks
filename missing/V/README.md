@@ -661,6 +661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vector Runner | 230753 | [230753-vector-runner.json](./230753-vector-runner.json) |
 | Vector Runners | 179128 | [179128-vector-runners.json](./179128-vector-runners.json) |
 | Vector Sector | 386996 | [386996-vector-sector.json](./386996-vector-sector.json) |
+| Vector Space | 310086 | [310086-vector-space.json](./310086-vector-space.json) |
 | Vector Strain | 34046 | [34046-vector-strain.json](./34046-vector-strain.json) |
 | Vector Surge | 414181 | [414181-vector-surge.json](./414181-vector-surge.json) |
 | Vector TD | 42804 | [42804-vector-td.json](./42804-vector-td.json) |
