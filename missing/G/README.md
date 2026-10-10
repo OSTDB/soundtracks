@@ -910,6 +910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gamer Cafe | 233451 | [233451-gamer-cafe.json](./233451-gamer-cafe.json) |
 | Gamer Den | 177928 | [177928-gamer-den.json](./177928-gamer-den.json) |
 | Gamer Girls 2 | 162842 | [162842-gamer-girls-2.json](./162842-gamer-girls-2.json) |
+| Gamer Girls: Cyberpunk 2069 | 286461 | [286461-gamer-girls-cyberpunk-2069.json](./286461-gamer-girls-cyberpunk-2069.json) |
 | Gamer Girls: Futanari | 210858 | [210858-gamer-girls-futanari.json](./210858-gamer-girls-futanari.json) |
 | Gamer Quest | 319951 | [319951-gamer-quest.json](./319951-gamer-quest.json) |
 | Gamer Shop Simulator | 129309 | [129309-gamer-shop-simulator.json](./129309-gamer-shop-simulator.json) |
@@ -6443,6 +6444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gun in 60 Seconds Remix | 339319 | [339319-gun-in-60-seconds-remix.json](./339319-gun-in-60-seconds-remix.json) |
 | Gun King | 230936 | [230936-gun-king.json](./230936-gun-king.json) |
 | Gun Knife Bomb | 422088 | [422088-gun-knife-bomb.json](./422088-gun-knife-bomb.json) |
+| Gun Lady | 286440 | [286440-gun-lady.json](./286440-gun-lady.json) |
 | Gun Law | 39775 | [39775-gun-law.json](./39775-gun-law.json) |
 | Gun Man | 115157 | [115157-gun-man.json](./115157-gun-man.json) |
 | Gun Man | 346091 | [346091-gun-man.json](./346091-gun-man.json) |
