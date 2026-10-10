@@ -3131,6 +3131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lily's Epic Quest for Lost Gems | 118937 | [118937-lilys-epic-quest-for-lost-gems.json](./118937-lilys-epic-quest-for-lost-gems.json) |
 | Lily's Garden | 129160 | [129160-lilys-garden.json](./129160-lilys-garden.json) |
 | Lily's Lil Video Shop! | 366094 | [366094-lilys-lil-video-shop.json](./366094-lilys-lil-video-shop.json) |
+| Lily's Town | 328394 | [328394-lilys-town.json](./328394-lilys-town.json) |
 | Lilycle Rainbow Stage!!! | 115310 | [115310-lilycle-rainbow-stage.json](./115310-lilycle-rainbow-stage.json) |
 | LilyDeux: Black Lily Warning | 129698 | [129698-lilydeux-black-lily-warning.json](./129698-lilydeux-black-lily-warning.json) |
 | Lim | 62989 | [62989-lim.json](./62989-lim.json) |
