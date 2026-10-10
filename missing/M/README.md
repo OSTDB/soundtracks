@@ -8192,6 +8192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Misaki's Deduction 2: The Sweet Island Murder Case | 404265 | [404265-misakis-deduction-2-the-sweet-island-murder-case.json](./404265-misakis-deduction-2-the-sweet-island-murder-case.json) |
 | Misako 37-sai: Doutei Daigakusei x Futsuu no Shufu | 82998 | [82998-misako-37-sai-doutei-daigakusei-x-futsuu-no-shufu.json](./82998-misako-37-sai-doutei-daigakusei-x-futsuu-no-shufu.json) |
 | Misaligned | 239698 | [239698-misaligned.json](./239698-misaligned.json) |
+| Misaligned | 313963 | [313963-misaligned.json](./313963-misaligned.json) |
 | Misao | 47097 | [47097-misao.json](./47097-misao.json) |
 | Misao: 2024 HD Remaster | 313167 | [313167-misao-2024-hd-remaster.json](./313167-misao-2024-hd-remaster.json) |
 | Misao: Definitive Edition | 74567 | [74567-misao-definitive-edition.json](./74567-misao-definitive-edition.json) |
