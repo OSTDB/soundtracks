@@ -1228,6 +1228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Absurd Trolley Problems | 267592 | [267592-absurd-trolley-problems.json](./267592-absurd-trolley-problems.json) |
 | Absurdika: Rebuild | 342800 | [342800-absurdika-rebuild.json](./342800-absurdika-rebuild.json) |
 | Absurdistan | 166671 | [166671-absurdistan.json](./166671-absurdistan.json) |
+| Absurdle | 280697 | [280697-absurdle.json](./280697-absurdle.json) |
 | Absylon 7 | 165403 | [165403-absylon-7.json](./165403-absylon-7.json) |
 | Abu Batata | 411555 | [411555-abu-batata.json](./411555-abu-batata.json) |
 | Abunai Josei Shinrigaku Nyuumon | 269683 | [269683-abunai-josei-shinrigaku-nyuumon.json](./269683-abunai-josei-shinrigaku-nyuumon.json) |
@@ -2859,6 +2860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AI Kills All Humans | 258425 | [258425-ai-kills-all-humans.json](./258425-ai-kills-all-humans.json) |
 | Ai Kiss FD: Nanase After | 396021 | [396021-ai-kiss-fd-nanase-after.json](./396021-ai-kiss-fd-nanase-after.json) |
 | Ai Kiss: Limited Edition | 167081 | [167081-ai-kiss-limited-edition.json](./167081-ai-kiss-limited-edition.json) |
+| Ai Land Honeymoon with Sweet Kanade Toba | 280700 | [280700-ai-land-honeymoon-with-sweet-kanade-toba.json](./280700-ai-land-honeymoon-with-sweet-kanade-toba.json) |
 | AI Mahjong | 56534 | [56534-ai-mahjong.json](./56534-ai-mahjong.json) |
 | AI Mahjong 2003 | 269327 | [269327-ai-mahjong-2003.json](./269327-ai-mahjong-2003.json) |
 | AI Mahjong Selection | 349952 | [349952-ai-mahjong-selection.json](./349952-ai-mahjong-selection.json) |
