@@ -6062,6 +6062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guess the Word | 277341 | [277341-guess-the-word.json](./277341-guess-the-word.json) |
 | Guess Where You Are | 320164 | [320164-guess-where-you-are.json](./320164-guess-where-you-are.json) |
 | Guess who ? | 104929 | [104929-guess-who.json](./104929-guess-who.json) |
+| Guess Who? | 331927 | [331927-guess-who.json](./331927-guess-who.json) |
 | Guess Who? Fire Emblem: Three Houses Edition! | 176916 | [176916-guess-who-fire-emblem-three-houses-edition.json](./176916-guess-who-fire-emblem-three-houses-edition.json) |
 | Guessed It! | 408027 | [408027-guessed-it.json](./408027-guessed-it.json) |
 | Guessmoji | 231463 | [231463-guessmoji.json](./231463-guessmoji.json) |
@@ -6516,6 +6517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunner 2 | 54073 | [54073-gunner-2.json](./54073-gunner-2.json) |
 | Gunner 3 | 259821 | [259821-gunner-3.json](./259821-gunner-3.json) |
 | Gunner 3 | 87808 | [87808-gunner-3.json](./87808-gunner-3.json) |
+| Gunner-chan! | 331898 | [331898-gunner-chan.json](./331898-gunner-chan.json) |
 | Gunners Heart | 54072 | [54072-gunners-heart.json](./54072-gunners-heart.json) |
 | Gunnheim | 20207 | [20207-gunnheim.json](./20207-gunnheim.json) |
 | Gunnhildr | 141072 | [141072-gunnhildr.json](./141072-gunnhildr.json) |
