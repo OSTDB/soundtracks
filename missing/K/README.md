@@ -1933,6 +1933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King of the Pirates | 340883 | [340883-king-of-the-pirates.json](./340883-king-of-the-pirates.json) |
 | King of the Pit | 165647 | [165647-king-of-the-pit.json](./165647-king-of-the-pit.json) |
 | King of the Raft | 196108 | [196108-king-of-the-raft.json](./196108-king-of-the-raft.json) |
+| King of the Ring | 281366 | [281366-king-of-the-ring.json](./281366-king-of-the-ring.json) |
 | King of the Road | 19792 | [19792-king-of-the-road.json](./19792-king-of-the-road.json) |
 | King of the Road | 238642 | [238642-king-of-the-road.json](./238642-king-of-the-road.json) |
 | King of the Sandcastle | 129566 | [129566-king-of-the-sandcastle.json](./129566-king-of-the-sandcastle.json) |
