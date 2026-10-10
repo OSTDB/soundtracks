@@ -154,6 +154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lablue Horror | 411048 | [411048-lablue-horror.json](./411048-lablue-horror.json) |
 | Labo Brick Car | 100990 | [100990-labo-brick-car.json](./100990-labo-brick-car.json) |
 | Labo Halloween Car | 91095 | [91095-labo-halloween-car.json](./91095-labo-halloween-car.json) |
+| Labor Power | 312301 | [312301-labor-power.json](./312301-labor-power.json) |
 | Labor Rights Funeral in Ukraine | 379962 | [379962-labor-rights-funeral-in-ukraine.json](./379962-labor-rights-funeral-in-ukraine.json) |
 | Laboratory X-29 | 258550 | [258550-laboratory-x-29.json](./258550-laboratory-x-29.json) |
 | LabRat | 139925 | [139925-labrat.json](./139925-labrat.json) |
@@ -172,6 +173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Labyrinth | 25102 | [25102-labyrinth.json](./25102-labyrinth.json) |
 | Labyrinth | 260387 | [260387-labyrinth.json](./260387-labyrinth.json) |
 | Labyrinth | 285158 | [285158-labyrinth.json](./285158-labyrinth.json) |
+| Labyrinth | 312260 | [312260-labyrinth.json](./312260-labyrinth.json) |
 | Labyrinth | 319126 | [319126-labyrinth.json](./319126-labyrinth.json) |
 | Labyrinth | 320390 | [320390-labyrinth.json](./320390-labyrinth.json) |
 | Labyrinth | 379903 | [379903-labyrinth.json](./379903-labyrinth.json) |
@@ -6178,6 +6180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lydia | 36468 | [36468-lydia.json](./36468-lydia.json) |
 | Lydia: Sweet Dreams | 33409 | [33409-lydia-sweet-dreams.json](./33409-lydia-sweet-dreams.json) |
 | Lydia's Labyrinth | 318537 | [318537-lydias-labyrinth.json](./318537-lydias-labyrinth.json) |
+| Lyle in Cube Sector MD | 312307 | [312307-lyle-in-cube-sector-md.json](./312307-lyle-in-cube-sector-md.json) |
 | Lylia's Deadline | 265856 | [265856-lylias-deadline.json](./265856-lylias-deadline.json) |
 | Lylia's Deadline: Clearance | 316352 | [316352-lylias-deadline-clearance.json](./316352-lylias-deadline-clearance.json) |
 | Lymbus | 276226 | [276226-lymbus.json](./276226-lymbus.json) |
