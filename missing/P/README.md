@@ -5445,6 +5445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plague Inc: The Cure | 170560 | [170560-plague-inc-the-cure.json](./170560-plague-inc-the-cure.json) |
 | Plague M.D. | 140631 | [140631-plague-m-d.json](./140631-plague-m-d.json) |
 | Plague Masters | 154012 | [154012-plague-masters.json](./154012-plague-masters.json) |
+| Plague of Athens VR | 327895 | [327895-plague-of-athens-vr.json](./327895-plague-of-athens-vr.json) |
 | Plague of Days | 118322 | [118322-plague-of-days.json](./118322-plague-of-days.json) |
 | Plague Squad | 113873 | [113873-plague-squad.json](./113873-plague-squad.json) |
 | Plague Universe | 246884 | [246884-plague-universe.json](./246884-plague-universe.json) |
@@ -6708,6 +6709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Emerald Rogue | 221244 | [221244-pokemon-emerald-rogue.json](./221244-pokemon-emerald-rogue.json) |
 | Pokémon Emerald Rogue V2 | 308386 | [308386-pokemon-emerald-rogue-v2.json](./308386-pokemon-emerald-rogue-v2.json) |
 | Pokémon Emerald: Double Edition | 296449 | [296449-pokemon-emerald-double-edition.json](./296449-pokemon-emerald-double-edition.json) |
+| Pokemon Empire | 327882 | [327882-pokemon-empire.json](./327882-pokemon-empire.json) |
 | Pokémon Empyrean | 221394 | [221394-pokemon-empyrean.json](./221394-pokemon-empyrean.json) |
 | Pokémon Eon Guardians | 241388 | [241388-pokemon-eon-guardians.json](./241388-pokemon-eon-guardians.json) |
 | Pokémon Ephemerald | 206144 | [206144-pokemon-ephemerald.json](./206144-pokemon-ephemerald.json) |
@@ -6853,6 +6855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Ranger Star | 387058 | [387058-pokemon-ranger-star.json](./387058-pokemon-ranger-star.json) |
 | Pokémon Ranger: Guardian Signs | 4565 | [4565-pokemon-ranger-guardian-signs.json](./4565-pokemon-ranger-guardian-signs.json) |
 | Pokémon Ranger: Shadows of Almia | 14699 | [14699-pokemon-ranger-shadows-of-almia.json](./14699-pokemon-ranger-shadows-of-almia.json) |
+| Pokemon RBGenesis+ | 327773 | [327773-pokemon-rbgenesis.json](./327773-pokemon-rbgenesis.json) |
 | Pokémon Re:Union | 270629 | [270629-pokemon-re-union.json](./270629-pokemon-re-union.json) |
 | Pokémon Reborn | 127326 | [127326-pokemon-reborn.json](./127326-pokemon-reborn.json) |
 | Pokémon Recharged Pink | 352245 | [352245-pokemon-recharged-pink.json](./352245-pokemon-recharged-pink.json) |
@@ -8265,6 +8268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PowerWash Simulator: The Muckingham Files | 246901 | [246901-powerwash-simulator-the-muckingham-files.json](./246901-powerwash-simulator-the-muckingham-files.json) |
 | PowerWash Simulator: The Muckingham Files 2 | 264337 | [264337-powerwash-simulator-the-muckingham-files-2.json](./264337-powerwash-simulator-the-muckingham-files-2.json) |
 | PowerWash Simulator: Ultimate Satisfaction Bundle | 361640 | [361640-powerwash-simulator-ultimate-satisfaction-bundle.json](./361640-powerwash-simulator-ultimate-satisfaction-bundle.json) |
+| PowerWash Simulator: Wallace & Gromit Special Pack | 327786 | [327786-powerwash-simulator-wallace-and-gromit-special-pack.json](./327786-powerwash-simulator-wallace-and-gromit-special-pack.json) |
 | PowerWash Simulator: Warhammer 40,000 Content Pack | 251220 | [251220-powerwash-simulator-warhammer-40-000-content-pack.json](./251220-powerwash-simulator-warhammer-40-000-content-pack.json) |
 | PowerZ | 146317 | [146317-powerz.json](./146317-powerz.json) |
 | Pox Nora | 9595 | [9595-pox-nora.json](./9595-pox-nora.json) |
@@ -9320,6 +9324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Bridge | 187432 | [187432-project-bridge.json](./187432-project-bridge.json) |
 | Project Brutality | 140298 | [140298-project-brutality.json](./140298-project-brutality.json) |
 | Project Bubblegum | 290607 | [290607-project-bubblegum.json](./290607-project-bubblegum.json) |
+| Project Butterfly | 327793 | [327793-project-butterfly.json](./327793-project-butterfly.json) |
 | Project Cairo | 297475 | [297475-project-cairo.json](./297475-project-cairo.json) |
 | Project Canopy | 144090 | [144090-project-canopy.json](./144090-project-canopy.json) |
 | Project Canvas: Isekai Joucho Ikusei Keikaku | 294787 | [294787-project-canvas-isekai-joucho-ikusei-keikaku.json](./294787-project-canvas-isekai-joucho-ikusei-keikaku.json) |
@@ -10666,6 +10671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pushing the limit | 157098 | [157098-pushing-the-limit.json](./157098-pushing-the-limit.json) |
 | Pushmo World | 19925 | [19925-pushmo-world.json](./19925-pushmo-world.json) |
 | Pushover | 11627 | [11627-pushover.json](./11627-pushover.json) |
+| Pushover | 327781 | [327781-pushover.json](./327781-pushover.json) |
 | PushOver | 267436 | [267436-pushover.json](./267436-pushover.json) |
 | Pushpully | 261222 | [261222-pushpully.json](./261222-pushpully.json) |
 | Pushy | 354009 | [354009-pushy.json](./354009-pushy.json) |
