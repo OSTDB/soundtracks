@@ -8827,6 +8827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brath: Brain and Math | 104834 | [104834-brath-brain-and-math.json](./104834-brath-brain-and-math.json) |
 | Brathian | 104061 | [104061-brathian.json](./104061-brathian.json) |
 | Bratki | 414175 | [414175-bratki.json](./414175-bratki.json) |
+| Bratty Bottoms! | 319286 | [319286-bratty-bottoms.json](./319286-bratty-bottoms.json) |
 | Bratwurst | 77642 | [77642-bratwurst.json](./77642-bratwurst.json) |
 | Bratz | 225653 | [225653-bratz.json](./225653-bratz.json) |
 | Bratz 4 Real | 213888 | [213888-bratz-4-real.json](./213888-bratz-4-real.json) |
@@ -9504,6 +9505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brix and Trix | 237955 | [237955-brix-and-trix.json](./237955-brix-and-trix.json) |
 | Brix II Deluxe | 148451 | [148451-brix-ii-deluxe.json](./148451-brix-ii-deluxe.json) |
 | Brix VR | 116324 | [116324-brix-vr.json](./116324-brix-vr.json) |
+| Broad Daylight | 319289 | [319289-broad-daylight.json](./319289-broad-daylight.json) |
 | Broadside | 34450 | [34450-broadside.json](./34450-broadside.json) |
 | Broadside Bets | 401617 | [401617-broadside-bets.json](./401617-broadside-bets.json) |
 | Broadsides | 23988 | [23988-broadsides.json](./23988-broadsides.json) |
