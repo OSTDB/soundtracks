@@ -1731,6 +1731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unreal World | 250449 | [250449-unreal-world.json](./250449-unreal-world.json) |
 | UnReal World | 18283 | [18283-unreal-world.json](./18283-unreal-world.json) |
 | Unreal Zombies | 346552 | [346552-unreal-zombies.json](./346552-unreal-zombies.json) |
+| Unreally Survivors | 330786 | [330786-unreally-survivors.json](./330786-unreally-survivors.json) |
 | UnReaMod | 265333 | [265333-unreamod.json](./265333-unreamod.json) |
 | Unrecord | 246417 | [246417-unrecord.json](./246417-unrecord.json) |
 | Unregret | 386243 | [386243-unregret.json](./386243-unregret.json) |
