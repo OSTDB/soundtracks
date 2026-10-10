@@ -7628,6 +7628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Scaffold | 392131 | [392131-sky-scaffold.json](./392131-sky-scaffold.json) |
 | Sky Seeker | 159840 | [159840-sky-seeker.json](./159840-sky-seeker.json) |
 | Sky Settlers | 258422 | [258422-sky-settlers.json](./258422-sky-settlers.json) |
+| Sky Shark | 331282 | [331282-sky-shark.json](./331282-sky-shark.json) |
 | Sky Shepherd | 117103 | [117103-sky-shepherd.json](./117103-sky-shepherd.json) |
 | Sky Skipper | 18546 | [18546-sky-skipper.json](./18546-sky-skipper.json) |
 | Sky Skipper | 288336 | [288336-sky-skipper.json](./288336-sky-skipper.json) |
@@ -10560,6 +10561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Heardle | 198251 | [198251-sonic-heardle.json](./198251-sonic-heardle.json) |
 | Sonic Hearts | 261273 | [261273-sonic-hearts.json](./261273-sonic-hearts.json) |
 | Sonic Heroes | 4156 | [4156-sonic-heroes.json](./4156-sonic-heroes.json) |
+| Sonic Heroes Chao | 331379 | [331379-sonic-heroes-chao.json](./331379-sonic-heroes-chao.json) |
 | Sonic Heroes Puzzle | 273988 | [273988-sonic-heroes-puzzle.json](./273988-sonic-heroes-puzzle.json) |
 | Sonic Hexacide | 136388 | [136388-sonic-hexacide.json](./136388-sonic-hexacide.json) |
 | Sonic Hopping | 261271 | [261271-sonic-hopping.json](./261271-sonic-hopping.json) |
@@ -10585,6 +10587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Jump | 133940 | [133940-sonic-jump.json](./133940-sonic-jump.json) |
 | Sonic Jump | 64203 | [64203-sonic-jump.json](./64203-sonic-jump.json) |
 | Sonic Jump 2 | 133941 | [133941-sonic-jump-2.json](./133941-sonic-jump-2.json) |
+| Sonic Kaiser | 331377 | [331377-sonic-kaiser.json](./331377-sonic-kaiser.json) |
 | Sonic Kart 3DX | 261278 | [261278-sonic-kart-3dx.json](./261278-sonic-kart-3dx.json) |
 | Sonic Ki | 326148 | [326148-sonic-ki.json](./326148-sonic-ki.json) |
 | Sonic Labyrinth | 332465 | [332465-sonic-labyrinth.json](./332465-sonic-labyrinth.json) |
@@ -10627,6 +10630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Mystic Land | 370234 | [370234-sonic-mystic-land.json](./370234-sonic-mystic-land.json) |
 | Sonic Nebulous | 282688 | [282688-sonic-nebulous.json](./282688-sonic-nebulous.json) |
 | Sonic Neo Genesis | 325849 | [325849-sonic-neo-genesis.json](./325849-sonic-neo-genesis.json) |
+| Sonic Neon Adventure | 331363 | [331363-sonic-neon-adventure.json](./331363-sonic-neon-adventure.json) |
 | Sonic no 7 Narabe | 261286 | [261286-sonic-no-7-narabe.json](./261286-sonic-no-7-narabe.json) |
 | Sonic no Daifuugou | 261276 | [261276-sonic-no-daifuugou.json](./261276-sonic-no-daifuugou.json) |
 | Sonic no Jigen Ressha | 261290 | [261290-sonic-no-jigen-ressha.json](./261290-sonic-no-jigen-ressha.json) |
@@ -10645,6 +10649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Origins: Premium Fun Pack | 254492 | [254492-sonic-origins-premium-fun-pack.json](./254492-sonic-origins-premium-fun-pack.json) |
 | Sonic Outbound | 266515 | [266515-sonic-outbound.json](./266515-sonic-outbound.json) |
 | Sonic Overdrive | 266513 | [266513-sonic-overdrive.json](./266513-sonic-overdrive.json) |
+| Sonic Overdrive | 331388 | [331388-sonic-overdrive.json](./331388-sonic-overdrive.json) |
 | Sonic Overture | 332645 | [332645-sonic-overture.json](./332645-sonic-overture.json) |
 | Sonic Overture '95 | 296026 | [296026-sonic-overture-95.json](./296026-sonic-overture-95.json) |
 | Sonic P-06 | 148406 | [148406-sonic-p-06.json](./148406-sonic-p-06.json) |
@@ -10910,6 +10915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic X-Treme | 336383 | [336383-sonic-x-treme.json](./336383-sonic-x-treme.json) |
 | Sonic X-Treme 2D | 332574 | [332574-sonic-x-treme-2d.json](./332574-sonic-x-treme-2d.json) |
 | Sonic X-Treme Revitalized | 326953 | [326953-sonic-x-treme-revitalized.json](./326953-sonic-x-treme-revitalized.json) |
+| Sonic X: Chronological Saga | 331370 | [331370-sonic-x-chronological-saga.json](./331370-sonic-x-chronological-saga.json) |
 | Sonic X: Emerald Grab | 269876 | [269876-sonic-x-emerald-grab.json](./269876-sonic-x-emerald-grab.json) |
 | Sonic X: The Game | 326809 | [326809-sonic-x-the-game.json](./326809-sonic-x-the-game.json) |
 | Sonic XG | 280874 | [280874-sonic-xg.json](./280874-sonic-xg.json) |
@@ -16227,6 +16233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stick Figure Combat: Scythe | 351650 | [351650-stick-figure-combat-scythe.json](./351650-stick-figure-combat-scythe.json) |
 | Stick Figure Combat: Sniper Rifle | 351652 | [351652-stick-figure-combat-sniper-rifle.json](./351652-stick-figure-combat-sniper-rifle.json) |
 | Stick Figure Combat: Top Hat | 351657 | [351657-stick-figure-combat-top-hat.json](./351657-stick-figure-combat-top-hat.json) |
+| Stick Frame | 331272 | [331272-stick-frame.json](./331272-stick-frame.json) |
 | Stick Go story | 201704 | [201704-stick-go-story.json](./201704-stick-go-story.json) |
 | Stick Hero | 87175 | [87175-stick-hero.json](./87175-stick-hero.json) |
 | Stick Hunter: Exciting Ice Hockey | 48618 | [48618-stick-hunter-exciting-ice-hockey.json](./48618-stick-hunter-exciting-ice-hockey.json) |
