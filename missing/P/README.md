@@ -260,6 +260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pachitte Chonmage Tatsujin 5: CR Kamen Rider | 61913 | [61913-pachitte-chonmage-tatsujin-5-cr-kamen-rider.json](./61913-pachitte-chonmage-tatsujin-5-cr-kamen-rider.json) |
 | Pacif Warriors 2 | 43538 | [43538-pacif-warriors-2.json](./43538-pacif-warriors-2.json) |
 | Pacific Battle | 195051 | [195051-pacific-battle.json](./195051-pacific-battle.json) |
+| Pacific Drive: Friendly Dumpster Customization Pack | 314622 | [314622-pacific-drive-friendly-dumpster-customization-pack.json](./314622-pacific-drive-friendly-dumpster-customization-pack.json) |
 | Pacific Drive: Frosted Customization Pack | 333040 | [333040-pacific-drive-frosted-customization-pack.json](./333040-pacific-drive-frosted-customization-pack.json) |
 | Pacific Drive: We Have Liftoff Customization Pack | 285546 | [285546-pacific-drive-we-have-liftoff-customization-pack.json](./285546-pacific-drive-we-have-liftoff-customization-pack.json) |
 | Pacific Drive: Whispers Edition | 376034 | [376034-pacific-drive-whispers-edition.json](./376034-pacific-drive-whispers-edition.json) |
@@ -2348,6 +2349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peg | 68823 | [68823-peg.json](./68823-peg.json) |
 | Peg Champ | 411111 | [411111-peg-champ.json](./411111-peg-champ.json) |
 | Peg Solitaire | 171493 | [171493-peg-solitaire.json](./171493-peg-solitaire.json) |
+| Peg Solitaire | 314621 | [314621-peg-solitaire.json](./314621-peg-solitaire.json) |
 | Peg Solitaire | 57062 | [57062-peg-solitaire.json](./57062-peg-solitaire.json) |
 | Peg Solitaire | 85594 | [85594-peg-solitaire.json](./85594-peg-solitaire.json) |
 | Peg Solitaire Adventure | 129627 | [129627-peg-solitaire-adventure.json](./129627-peg-solitaire-adventure.json) |
@@ -8661,6 +8663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prime Minister's Questions: The Game | 64218 | [64218-prime-ministers-questions-the-game.json](./64218-prime-ministers-questions-the-game.json) |
 | Prime Monster | 391820 | [391820-prime-monster.json](./391820-prime-monster.json) |
 | Prime Mosaic | 337639 | [337639-prime-mosaic.json](./337639-prime-mosaic.json) |
+| Prime Remastered | 314573 | [314573-prime-remastered.json](./314573-prime-remastered.json) |
 | Prime Shift | 51771 | [51771-prime-shift.json](./51771-prime-shift.json) |
 | Prime T!me: Der Fernsehmanager | 98938 | [98938-prime-t-me-der-fernsehmanager.json](./98938-prime-t-me-der-fernsehmanager.json) |
 | Prime Time | 54714 | [54714-prime-time.json](./54714-prime-time.json) |
@@ -9567,6 +9570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Light | 84804 | [84804-project-light.json](./84804-project-light.json) |
 | Project Lilith | 396240 | [396240-project-lilith.json](./396240-project-lilith.json) |
 | Project Liminal Redux | 242479 | [242479-project-liminal-redux.json](./242479-project-liminal-redux.json) |
+| Project LMDE | 314571 | [314571-project-lmde.json](./314571-project-lmde.json) |
 | Project Lodus | 64744 | [64744-project-lodus.json](./64744-project-lodus.json) |
 | Project Loro | 262690 | [262690-project-loro.json](./262690-project-loro.json) |
 | Project Lounge | 31895 | [31895-project-lounge.json](./31895-project-lounge.json) |
