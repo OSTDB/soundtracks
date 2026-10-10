@@ -2199,6 +2199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost | 188440 | [188440-ghost.json](./188440-ghost.json) |
 | Ghost and Joker: A thing to do for you | 255886 | [255886-ghost-and-joker-a-thing-to-do-for-you.json](./255886-ghost-and-joker-a-thing-to-do-for-you.json) |
 | Ghost Ascension | 290486 | [290486-ghost-ascension.json](./290486-ghost-ascension.json) |
+| Ghost Assassin: Stealth Strike | 320446 | [320446-ghost-assassin-stealth-strike.json](./320446-ghost-assassin-stealth-strike.json) |
 | Ghost Battalion | 414842 | [414842-ghost-battalion.json](./414842-ghost-battalion.json) |
 | Ghost Battle | 78319 | [78319-ghost-battle.json](./78319-ghost-battle.json) |
 | Ghost Beat | 170887 | [170887-ghost-beat.json](./170887-ghost-beat.json) |
