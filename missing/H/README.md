@@ -34,6 +34,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | H1.Jack | 223562 | [223562-h1-jack.json](./223562-h1-jack.json) |
 | H1Z1 | 6188 | [6188-h1z1.json](./6188-h1z1.json) |
 | H2O | 99114 | [99114-h2o.json](./99114-h2o.json) |
+| H2O Root After and Another Complete Story Edition | 299541 | [299541-h2o-root-after-and-another-complete-story-edition.json](./299541-h2o-root-after-and-another-complete-story-edition.json) |
 | H2O: A Diabolic Game | 14473 | [14473-h2o-a-diabolic-game.json](./14473-h2o-a-diabolic-game.json) |
 | H2O: Footprints in the Sand | 72719 | [72719-h2o-footprints-in-the-sand.json](./72719-h2o-footprints-in-the-sand.json) |
 | H2O: High speed Boat Racing | 262403 | [262403-h2o-high-speed-boat-racing.json](./262403-h2o-high-speed-boat-racing.json) |
@@ -1584,6 +1585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted Girls | 212999 | [212999-haunted-girls.json](./212999-haunted-girls.json) |
 | Haunted Halls: Fears from Childhood - Collector's Edition | 86437 | [86437-haunted-halls-fears-from-childhood-collectors-edition.json](./86437-haunted-halls-fears-from-childhood-collectors-edition.json) |
 | Haunted Halls: Green Hills Sanitarium - Collector's Edition | 37011 | [37011-haunted-halls-green-hills-sanitarium-collectors-edition.json](./37011-haunted-halls-green-hills-sanitarium-collectors-edition.json) |
+| Haunted Heart | 299533 | [299533-haunted-heart.json](./299533-haunted-heart.json) |
 | Haunted Hearts Hotel | 340418 | [340418-haunted-hearts-hotel.json](./340418-haunted-hearts-hotel.json) |
 | Haunted Heye Apartment | 245811 | [245811-haunted-heye-apartment.json](./245811-haunted-heye-apartment.json) |
 | Haunted Hill | 276390 | [276390-haunted-hill.json](./276390-haunted-hill.json) |
@@ -3450,6 +3452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heritage | 323499 | [323499-heritage.json](./323499-heritage.json) |
 | Heritage | 376042 | [376042-heritage.json](./376042-heritage.json) |
 | Heritage Hills | 156666 | [156666-heritage-hills.json](./156666-heritage-hills.json) |
+| Heritage of Eternal Splitting | 299523 | [299523-heritage-of-eternal-splitting.json](./299523-heritage-of-eternal-splitting.json) |
 | Heritage: A Dragon's Tale | 250043 | [250043-heritage-a-dragons-tale.json](./250043-heritage-a-dragons-tale.json) |
 | Herkules | 318489 | [318489-herkules.json](./318489-herkules.json) |
 | Herman 2 | 117803 | [117803-herman-2.json](./117803-herman-2.json) |
