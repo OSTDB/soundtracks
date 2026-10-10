@@ -126,6 +126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DaCapo Delivers | 152832 | [152832-dacapo-delivers.json](./152832-dacapo-delivers.json) |
 | Dacholer | 196168 | [196168-dacholer.json](./196168-dacholer.json) |
 | Dachs Hunter | 336757 | [336757-dachs-hunter.json](./336757-dachs-hunter.json) |
+| DACHStudio Jigsaw Puzzle Box | 289770 | [289770-dachstudio-jigsaw-puzzle-box.json](./289770-dachstudio-jigsaw-puzzle-box.json) |
 | DACHstudio Jigsaw Puzzle Box: Vanlau's Tinybuns | 289862 | [289862-dachstudio-jigsaw-puzzle-box-vanlaus-tinybuns.json](./289862-dachstudio-jigsaw-puzzle-box-vanlaus-tinybuns.json) |
 | DACHstudio Puzzle Box: Falkis Potpourri | 357981 | [357981-dachstudio-puzzle-box-falkis-potpourri.json](./357981-dachstudio-puzzle-box-falkis-potpourri.json) |
 | DachStudio Puzzle Box: Grimmstories by datGestruepp | 296427 | [296427-dachstudio-puzzle-box-grimmstories-by-datgestruepp.json](./296427-dachstudio-puzzle-box-grimmstories-by-datgestruepp.json) |
@@ -1330,6 +1331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkness Reborn | 223427 | [223427-darkness-reborn.json](./223427-darkness-reborn.json) |
 | Darkness Reborn | 28820 | [28820-darkness-reborn.json](./28820-darkness-reborn.json) |
 | Darkness Rises | 103411 | [103411-darkness-rises.json](./103411-darkness-rises.json) |
+| Darkness Ritual: Impasse | 289793 | [289793-darkness-ritual-impasse.json](./289793-darkness-ritual-impasse.json) |
 | Darkness Trap: Purify Old Sins | 134440 | [134440-darkness-trap-purify-old-sins.json](./134440-darkness-trap-purify-old-sins.json) |
 | Darkness Within 2: The Dark Lineage - Director's Cut Edition | 36298 | [36298-darkness-within-2-the-dark-lineage-directors-cut-edition.json](./36298-darkness-within-2-the-dark-lineage-directors-cut-edition.json) |
 | Darknet | 20018 | [20018-darknet.json](./20018-darknet.json) |
@@ -6760,6 +6762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DNA Nemesis | 415147 | [415147-dna-nemesis.json](./415147-dna-nemesis.json) |
 | DNA Subject: Lucy | 307053 | [307053-dna-subject-lucy.json](./307053-dna-subject-lucy.json) |
 | DNA: Episode 1 | 280315 | [280315-dna-episode-1.json](./280315-dna-episode-1.json) |
+| DNA: Episode 3 | 289804 | [289804-dna-episode-3.json](./289804-dna-episode-3.json) |
 | DNA: Episode 4 | 297801 | [297801-dna-episode-4.json](./297801-dna-episode-4.json) |
 | DNA: Episode 5 | 298678 | [298678-dna-episode-5.json](./298678-dna-episode-5.json) |
 | DNA: Final Episode - Part 1 | 311105 | [311105-dna-final-episode-part-1.json](./311105-dna-final-episode-part-1.json) |
@@ -8508,6 +8511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr Livesey Rom and Death Edition | 224897 | [224897-dr-livesey-rom-and-death-edition.json](./224897-dr-livesey-rom-and-death-edition.json) |
 | Dr Livingstone, I Presume? | 148338 | [148338-dr-livingstone-i-presume.json](./148338-dr-livingstone-i-presume.json) |
 | Dr Livingstone, I Presume?: Digital Deluxe Edition | 167178 | [167178-dr-livingstone-i-presume-digital-deluxe-edition.json](./167178-dr-livingstone-i-presume-digital-deluxe-edition.json) |
+| Dr Muddles and the Cursed Library | 289773 | [289773-dr-muddles-and-the-cursed-library.json](./289773-dr-muddles-and-the-cursed-library.json) |
 | Dr Nakamoto's Digital Eggs | 200039 | [200039-dr-nakamotos-digital-eggs.json](./200039-dr-nakamotos-digital-eggs.json) |
 | Dr Scrime's Spook School | 13607 | [13607-dr-scrimes-spook-school.json](./13607-dr-scrimes-spook-school.json) |
 | Dr Smart Space Encyclopedia | 242046 | [242046-dr-smart-space-encyclopedia.json](./242046-dr-smart-space-encyclopedia.json) |
@@ -8604,6 +8608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr. Tomy | 40117 | [40117-dr-tomy.json](./40117-dr-tomy.json) |
 | Dr. Trolley's Problem | 117072 | [117072-dr-trolleys-problem.json](./117072-dr-trolleys-problem.json) |
 | Dr. Umgebung's School of Life | 128992 | [128992-dr-umgebungs-school-of-life.json](./128992-dr-umgebungs-school-of-life.json) |
+| Dr. What & Detective Son | 289806 | [289806-dr-what-and-detective-son.json](./289806-dr-what-and-detective-son.json) |
 | Dr. Wise: Medical Mysteries | 65185 | [65185-dr-wise-medical-mysteries.json](./65185-dr-wise-medical-mysteries.json) |
 | Dr. Woo's Twisted Clone Shop | 343996 | [343996-dr-woos-twisted-clone-shop.json](./343996-dr-woos-twisted-clone-shop.json) |
 | Dr.Brain Gehirn Jogging Frühjahrsedition | 91612 | [91612-dr-brain-gehirn-jogging-fruhjahrsedition.json](./91612-dr-brain-gehirn-jogging-fruhjahrsedition.json) |
