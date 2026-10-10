@@ -1057,6 +1057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Under the Rainbow: Prologue | 129010 | [129010-under-the-rainbow-prologue.json](./129010-under-the-rainbow-prologue.json) |
 | Under the Red Sky | 358253 | [358253-under-the-red-sky.json](./358253-under-the-red-sky.json) |
 | Under the Sand | 117364 | [117364-under-the-sand.json](./117364-under-the-sand.json) |
+| Under the Sea: A Hidden World of Wonders | 330222 | [330222-under-the-sea-a-hidden-world-of-wonders.json](./330222-under-the-sea-a-hidden-world-of-wonders.json) |
 | Under the Sea: Swim | 233740 | [233740-under-the-sea-swim.json](./233740-under-the-sea-swim.json) |
 | Under the Sky World: Another | 234220 | [234220-under-the-sky-world-another.json](./234220-under-the-sky-world-another.json) |
 | Under the Snow | 258628 | [258628-under-the-snow.json](./258628-under-the-snow.json) |
