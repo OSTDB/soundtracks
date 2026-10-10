@@ -9114,6 +9114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Break Everything: Living room | 230922 | [230922-break-everything-living-room.json](./230922-break-everything-living-room.json) |
 | Break Everything: Park | 232522 | [232522-break-everything-park.json](./232522-break-everything-park.json) |
 | Break Free | 304334 | [304334-break-free.json](./304334-break-free.json) |
+| Break Games | 304844 | [304844-break-games.json](./304844-break-games.json) |
 | Break In | 70097 | [70097-break-in.json](./70097-break-in.json) |
 | Break Into Zatwor | 27775 | [27775-break-into-zatwor.json](./27775-break-into-zatwor.json) |
 | Break It Out | 99194 | [99194-break-it-out.json](./99194-break-it-out.json) |
@@ -10040,6 +10041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bucket Crusher: Complete Edition | 290440 | [290440-bucket-crusher-complete-edition.json](./290440-bucket-crusher-complete-edition.json) |
 | Bucket Crusher: Cool Kidz | 287162 | [287162-bucket-crusher-cool-kidz.json](./287162-bucket-crusher-cool-kidz.json) |
 | Bucket Crusher: Holiday Spirit | 287161 | [287161-bucket-crusher-holiday-spirit.json](./287161-bucket-crusher-holiday-spirit.json) |
+| Bucket Crusher: Worldwide Edition | 304781 | [304781-bucket-crusher-worldwide-edition.json](./304781-bucket-crusher-worldwide-edition.json) |
 | Bucket Knight | 118262 | [118262-bucket-knight.json](./118262-bucket-knight.json) |
 | Bucket List | 22741 | [22741-bucket-list.json](./22741-bucket-list.json) |
 | Bucketneers | 176281 | [176281-bucketneers.json](./176281-bucketneers.json) |
@@ -10199,6 +10201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Build a Bridge! | 114190 | [114190-build-a-bridge.json](./114190-build-a-bridge.json) |
 | Build a Cat Tower to reach the Fish | 413102 | [413102-build-a-cat-tower-to-reach-the-fish.json](./413102-build-a-cat-tower-to-reach-the-fish.json) |
 | Build a Flexible Brain! Shape Search | 401110 | [401110-build-a-flexible-brain-shape-search.json](./401110-build-a-flexible-brain-shape-search.json) |
+| Build A Friend | 304855 | [304855-build-a-friend.json](./304855-build-a-friend.json) |
 | Build a Game Universe | 34814 | [34814-build-a-game-universe.json](./34814-build-a-game-universe.json) |
 | Build A Queen | 389047 | [389047-build-a-queen.json](./389047-build-a-queen.json) |
 | Build A Queen: Pirate Edition | 399812 | [399812-build-a-queen-pirate-edition.json](./399812-build-a-queen-pirate-edition.json) |
@@ -10443,6 +10446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bump Bump Bump | 95182 | [95182-bump-bump-bump.json](./95182-bump-bump-bump.json) |
 | Bump Guardian | 386504 | [386504-bump-guardian.json](./386504-bump-guardian.json) |
 | Bump in the Night | 289555 | [289555-bump-in-the-night.json](./289555-bump-in-the-night.json) |
+| Bump in the Night | 304843 | [304843-bump-in-the-night.json](./304843-bump-in-the-night.json) |
 | Bump Jump | 210670 | [210670-bump-jump.json](./210670-bump-jump.json) |
 | Bump.io: Arena of Bumper | 106960 | [106960-bump-io-arena-of-bumper.json](./106960-bump-io-arena-of-bumper.json) |
 | Bumparound | 181673 | [181673-bumparound.json](./181673-bumparound.json) |
