@@ -5974,6 +5974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shuriken Block | 61058 | [61058-shuriken-block.json](./61058-shuriken-block.json) |
 | Shuriken Master! | 108493 | [108493-shuriken-master.json](./108493-shuriken-master.json) |
 | Shuriken Trigger | 326074 | [326074-shuriken-trigger.json](./326074-shuriken-trigger.json) |
+| Shurikoo Sprint | 308994 | [308994-shurikoo-sprint.json](./308994-shurikoo-sprint.json) |
 | Shuruka Boxing | 348844 | [348844-shuruka-boxing.json](./348844-shuruka-boxing.json) |
 | Shǔshān: Chū Zhāng Mǎiduàn Bǎn | 368536 | [368536-shushan-chu-zhang-maiduan-ban.json](./368536-shushan-chu-zhang-maiduan-ban.json) |
 | Shǔshān: Chū Zhāng Wǎngluò Bǎn | 368546 | [368546-shushan-chu-zhang-wangluo-ban.json](./368546-shushan-chu-zhang-wangluo-ban.json) |
@@ -13423,6 +13424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spinning Top | 163840 | [163840-spinning-top.json](./163840-spinning-top.json) |
 | Spinnortality | 51471 | [51471-spinnortality.json](./51471-spinnortality.json) |
 | Spinny Dungeon | 312126 | [312126-spinny-dungeon.json](./312126-spinny-dungeon.json) |
+| Spinny Fan Zone | 309142 | [309142-spinny-fan-zone.json](./309142-spinny-fan-zone.json) |
 | Spinny Path | 233245 | [233245-spinny-path.json](./233245-spinny-path.json) |
 | Spinny-Roly 64 | 417550 | [417550-spinny-roly-64.json](./417550-spinny-roly-64.json) |
 | Spinochet | 372030 | [372030-spinochet.json](./372030-spinochet.json) |
@@ -16923,6 +16925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strange Adventure | 394833 | [394833-strange-adventure.json](./394833-strange-adventure.json) |
 | Strange Aeons | 216861 | [216861-strange-aeons.json](./216861-strange-aeons.json) |
 | Strange Alchemy | 337807 | [337807-strange-alchemy.json](./337807-strange-alchemy.json) |
+| Strange and Mysterious Domain | 308864 | [308864-strange-and-mysterious-domain.json](./308864-strange-and-mysterious-domain.json) |
 | Strange Bird Island | 180590 | [180590-strange-bird-island.json](./180590-strange-bird-island.json) |
 | Strange Block 36 | 345069 | [345069-strange-block-36.json](./345069-strange-block-36.json) |
 | Strange Brigade: Deluxe Edition | 118899 | [118899-strange-brigade-deluxe-edition.json](./118899-strange-brigade-deluxe-edition.json) |
@@ -17728,7 +17731,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stylish Sprint 2 | 56481 | [56481-stylish-sprint-2.json](./56481-stylish-sprint-2.json) |
 | Stylist | 255632 | [255632-stylist.json](./255632-stylist.json) |
 | Stylist Girl: Complete Edition | 313214 | [313214-stylist-girl-complete-edition.json](./313214-stylist-girl-complete-edition.json) |
+| Stylist Girl: Summer Time | 309065 | [309065-stylist-girl-summer-time.json](./309065-stylist-girl-summer-time.json) |
 | Stylist Girl: Sunny Edition | 317242 | [317242-stylist-girl-sunny-edition.json](./317242-stylist-girl-sunny-edition.json) |
+| Stylist Girl: Urban Style | 309066 | [309066-stylist-girl-urban-style.json](./309066-stylist-girl-urban-style.json) |
 | Styrateg | 125182 | [125182-styrateg.json](./125182-styrateg.json) |
 | Styria | 304631 | [304631-styria.json](./304631-styria.json) |
 | Styrlitz 3: Agent USSR | 281656 | [281656-styrlitz-3-agent-ussr.json](./281656-styrlitz-3-agent-ussr.json) |
@@ -19880,6 +19885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Monkey Ball: Banana Rumble - Knuckles | 309080 | [309080-super-monkey-ball-banana-rumble-knuckles.json](./309080-super-monkey-ball-banana-rumble-knuckles.json) |
 | Super Monkey Ball: Banana Rumble - Sonic | 310655 | [310655-super-monkey-ball-banana-rumble-sonic.json](./310655-super-monkey-ball-banana-rumble-sonic.json) |
 | Super Monkey Ball: Banana Rumble - Sonic and Shadow Skins | 317963 | [317963-super-monkey-ball-banana-rumble-sonic-and-shadow-skins.json](./317963-super-monkey-ball-banana-rumble-sonic-and-shadow-skins.json) |
+| Super Monkey Ball: Banana Rumble - Tails | 309068 | [309068-super-monkey-ball-banana-rumble-tails.json](./309068-super-monkey-ball-banana-rumble-tails.json) |
 | Super Monkey Ball: Sakura Edition | 64989 | [64989-super-monkey-ball-sakura-edition.json](./64989-super-monkey-ball-sakura-edition.json) |
 | Super Monkey Ball: Ticket Blitz | 64184 | [64184-super-monkey-ball-ticket-blitz.json](./64184-super-monkey-ball-ticket-blitz.json) |
 | Super Monkey Ball: Tip 'n Tilt | 336925 | [336925-super-monkey-ball-tip-n-tilt.json](./336925-super-monkey-ball-tip-n-tilt.json) |
@@ -19961,6 +19967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Orbit | 344563 | [344563-super-orbit.json](./344563-super-orbit.json) |
 | Super Orbital Mega Drift II | 339477 | [339477-super-orbital-mega-drift-ii.json](./339477-super-orbital-mega-drift-ii.json) |
 | Super Otamatone | 172524 | [172524-super-otamatone.json](./172524-super-otamatone.json) |
+| Super Othello | 308981 | [308981-super-othello.json](./308981-super-othello.json) |
 | Super Over! | 244799 | [244799-super-over.json](./244799-super-over.json) |
 | Super Owlboy | 211658 | [211658-super-owlboy.json](./211658-super-owlboy.json) |
 | Super Ox Wars | 22171 | [22171-super-ox-wars.json](./22171-super-ox-wars.json) |
