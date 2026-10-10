@@ -170,6 +170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yandere no Sutoka | 285048 | [285048-yandere-no-sutoka.json](./285048-yandere-no-sutoka.json) |
 | Yandere Okami vs. Bouryoku Akazukin | 335974 | [335974-yandere-okami-vs-bouryoku-akazukin.json](./335974-yandere-okami-vs-bouryoku-akazukin.json) |
 | Yandere Onii-san ni Sokubaku Kankin Sarechau Game! | 285990 | [285990-yandere-onii-san-ni-sokubaku-kankin-sarechau-game.json](./285990-yandere-onii-san-ni-sokubaku-kankin-sarechau-game.json) |
+| Yandere Simulator 2: The Sequel | 288098 | [288098-yandere-simulator-2-the-sequel.json](./288098-yandere-simulator-2-the-sequel.json) |
 | Yandere Simulator: Midori Adventure - The Visual Novel | 296375 | [296375-yandere-simulator-midori-adventure-the-visual-novel.json](./296375-yandere-simulator-midori-adventure-the-visual-novel.json) |
 | Yandere Tensei: I Can't Beat The Programming! | 321421 | [321421-yandere-tensei-i-cant-beat-the-programming.json](./321421-yandere-tensei-i-cant-beat-the-programming.json) |
 | Yandere Ura-kano Jirai-chan | 251516 | [251516-yandere-ura-kano-jirai-chan.json](./251516-yandere-ura-kano-jirai-chan.json) |
@@ -303,6 +304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yellow Lemon | 92149 | [92149-yellow-lemon.json](./92149-yellow-lemon.json) |
 | Yellow or Red? | 174308 | [174308-yellow-or-red.json](./174308-yellow-or-red.json) |
 | Yellow Peril | 69929 | [69929-yellow-peril.json](./69929-yellow-peril.json) |
+| Yellow Rose | 288151 | [288151-yellow-rose.json](./288151-yellow-rose.json) |
 | Yellow Taxi Goes Vroom | 216805 | [216805-yellow-taxi-goes-vroom.json](./216805-yellow-taxi-goes-vroom.json) |
 | Yellow Trouble | 324941 | [324941-yellow-trouble.json](./324941-yellow-trouble.json) |
 | Yellow: The Yellow Artifact | 32437 | [32437-yellow-the-yellow-artifact.json](./32437-yellow-the-yellow-artifact.json) |
