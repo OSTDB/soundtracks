@@ -336,6 +336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | YesterMorrow | 120533 | [120533-yestermorrow.json](./120533-yestermorrow.json) |
 | YesterSol | 236885 | [236885-yestersol.json](./236885-yestersol.json) |
 | Yet Another Avoider | 412978 | [412978-yet-another-avoider.json](./412978-yet-another-avoider.json) |
+| Yet Another Climbing Game | 323422 | [323422-yet-another-climbing-game.json](./323422-yet-another-climbing-game.json) |
 | Yet Another Fantasy Title | 209469 | [209469-yet-another-fantasy-title.json](./209469-yet-another-fantasy-title.json) |
 | Yet Another FireRed Hack | 377801 | [377801-yet-another-firered-hack.json](./377801-yet-another-firered-hack.json) |
 | Yet Another Godzilla Game | 184973 | [184973-yet-another-godzilla-game.json](./184973-yet-another-godzilla-game.json) |
