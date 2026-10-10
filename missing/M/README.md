@@ -1046,6 +1046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magink | 125877 | [125877-magink.json](./125877-magink.json) |
 | Magiopolis | 277048 | [277048-magiopolis.json](./277048-magiopolis.json) |
 | Magirune 2 | 197178 | [197178-magirune-2.json](./197178-magirune-2.json) |
+| Magiscapes | 319287 | [319287-magiscapes.json](./319287-magiscapes.json) |
 | Magissy | 169843 | [169843-magissy.json](./169843-magissy.json) |
 | Magistrangers | 392793 | [392793-magistrangers.json](./392793-magistrangers.json) |
 | Magitech Requiem | 336011 | [336011-magitech-requiem.json](./336011-magitech-requiem.json) |
@@ -2048,6 +2049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marble Drop | 360629 | [360629-marble-drop.json](./360629-marble-drop.json) |
 | Marble Duel | 28582 | [28582-marble-duel.json](./28582-marble-duel.json) |
 | Marble Evolution | 419960 | [419960-marble-evolution.json](./419960-marble-evolution.json) |
+| Marble Flow | 319311 | [319311-marble-flow.json](./319311-marble-flow.json) |
 | Marble It Up: Mayhem! | 130696 | [130696-marble-it-up-mayhem.json](./130696-marble-it-up-mayhem.json) |
 | Marble Jetpack | 26720 | [26720-marble-jetpack.json](./26720-marble-jetpack.json) |
 | Marble Knights | 141143 | [141143-marble-knights.json](./141143-marble-knights.json) |
@@ -9073,6 +9075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Molten Winds: Open Editon | 288375 | [288375-molten-winds-open-editon.json](./288375-molten-winds-open-editon.json) |
 | Molytropia: Cloud in Shape of Hurt | 220679 | [220679-molytropia-cloud-in-shape-of-hurt.json](./220679-molytropia-cloud-in-shape-of-hurt.json) |
 | Mom | 159247 | [159247-mom.json](./159247-mom.json) |
+| Mom | 319278 | [319278-mom.json](./319278-mom.json) |
 | Mom Crush: Hidden Hotel Love Story | 387673 | [387673-mom-crush-hidden-hotel-love-story.json](./387673-mom-crush-hidden-hotel-love-story.json) |
 | Mom Hid My Game! | 78160 | [78160-mom-hid-my-game.json](./78160-mom-hid-my-game.json) |
 | Mom Simulator 2023 | 277841 | [277841-mom-simulator-2023.json](./277841-mom-simulator-2023.json) |
