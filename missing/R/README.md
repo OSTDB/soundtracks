@@ -6831,6 +6831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rotting Crescendo | 136441 | [136441-rotting-crescendo.json](./136441-rotting-crescendo.json) |
 | Rotting Grief | 415068 | [415068-rotting-grief.json](./415068-rotting-grief.json) |
 | Rotting Jam | 271847 | [271847-rotting-jam.json](./271847-rotting-jam.json) |
+| Rottweiler | 321057 | [321057-rottweiler.json](./321057-rottweiler.json) |
 | Rotund Rebound | 117060 | [117060-rotund-rebound.json](./117060-rotund-rebound.json) |
 | Rotund Takeoff | 139303 | [139303-rotund-takeoff.json](./139303-rotund-takeoff.json) |
 | Rouen | 97935 | [97935-rouen.json](./97935-rouen.json) |
