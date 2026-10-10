@@ -11980,6 +11980,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mushroom: The Ruckus | 98994 | [98994-mushroom-the-ruckus.json](./98994-mushroom-the-ruckus.json) |
 | Mushrooming | 378550 | [378550-mushrooming.json](./378550-mushrooming.json) |
 | MushroomJump | 311273 | [311273-mushroomjump.json](./311273-mushroomjump.json) |
+| Mushroots | 292961 | [292961-mushroots.json](./292961-mushroots.json) |
+| Mushrush | 292975 | [292975-mushrush.json](./292975-mushrush.json) |
 | Mushy | 191660 | [191660-mushy.json](./191660-mushy.json) |
 | Mushy Score | 257694 | [257694-mushy-score.json](./257694-mushy-score.json) |
 | Music 2002: Club Edition | 144600 | [144600-music-2002-club-edition.json](./144600-music-2002-club-edition.json) |
