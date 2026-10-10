@@ -1144,6 +1144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Banana Man | 15658 | [15658-banana-man.json](./15658-banana-man.json) |
 | Banana Massacre | 338193 | [338193-banana-massacre.json](./338193-banana-massacre.json) |
 | Banana Nababa | 124565 | [124565-banana-nababa.json](./124565-banana-nababa.json) |
+| Banana Next Gen | 323428 | [323428-banana-next-gen.json](./323428-banana-next-gen.json) |
 | Banana Ninja vs. 100 Mann | 359568 | [359568-banana-ninja-vs-100-mann.json](./359568-banana-ninja-vs-100-mann.json) |
 | Banana of Doom | 366714 | [366714-banana-of-doom.json](./366714-banana-of-doom.json) |
 | Banana Party | 390008 | [390008-banana-party.json](./390008-banana-party.json) |
@@ -3116,6 +3117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beast Unleashed | 349460 | [349460-beast-unleashed.json](./349460-beast-unleashed.json) |
 | Beast Whalers | 192685 | [192685-beast-whalers.json](./192685-beast-whalers.json) |
 | Beast Wrestler | 46239 | [46239-beast-wrestler.json](./46239-beast-wrestler.json) |
+| Beastbound | 323425 | [323425-beastbound.json](./323425-beastbound.json) |
 | Beastfall | 381252 | [381252-beastfall.json](./381252-beastfall.json) |
 | Beastiarium | 30927 | [30927-beastiarium.json](./30927-beastiarium.json) |
 | Beastie Land | 148922 | [148922-beastie-land.json](./148922-beastie-land.json) |
@@ -4479,6 +4481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Craft Exploration 2 | 105839 | [105839-big-craft-exploration-2.json](./105839-big-craft-exploration-2.json) |
 | Big Cup Cricket | 22337 | [22337-big-cup-cricket.json](./22337-big-cup-cricket.json) |
 | Big D Randy | 276269 | [276269-big-d-randy.json](./276269-big-d-randy.json) |
+| Big Dengi | 323417 | [323417-big-dengi.json](./323417-big-dengi.json) |
 | Big Dipper | 112798 | [112798-big-dipper.json](./112798-big-dipper.json) |
 | Big Drunk Satanic Massacre | 75067 | [75067-big-drunk-satanic-massacre.json](./75067-big-drunk-satanic-massacre.json) |
 | Big Entrepreneur | 227373 | [227373-big-entrepreneur.json](./227373-big-entrepreneur.json) |
@@ -5328,6 +5331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black | 159265 | [159265-black.json](./159265-black.json) |
 | Black | 5749 | [5749-black.json](./5749-black.json) |
 | Black & White | 376747 | [376747-black-and-white.json](./376747-black-and-white.json) |
+| Black & White Creatures | 323208 | [323208-black-and-white-creatures.json](./323208-black-and-white-creatures.json) |
 | Black & White: Creature Isle | 1922 | [1922-black-and-white-creature-isle.json](./1922-black-and-white-creature-isle.json) |
 | Black 9 | 369716 | [369716-black-9.json](./369716-black-9.json) |
 | Black Abyss | 284005 | [284005-black-abyss.json](./284005-black-abyss.json) |
@@ -8979,6 +8983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brawlhalla: Bonus Pack 12 | 305851 | [305851-brawlhalla-bonus-pack-12.json](./305851-brawlhalla-bonus-pack-12.json) |
 | Brawlhalla: Bonus Pack 13 | 313245 | [313245-brawlhalla-bonus-pack-13.json](./313245-brawlhalla-bonus-pack-13.json) |
 | Brawlhalla: Bonus Pack 14 | 316624 | [316624-brawlhalla-bonus-pack-14.json](./316624-brawlhalla-bonus-pack-14.json) |
+| Brawlhalla: Bonus Pack 15 | 323404 | [323404-brawlhalla-bonus-pack-15.json](./323404-brawlhalla-bonus-pack-15.json) |
 | Brawlhalla: Bonus Pack 16 | 327316 | [327316-brawlhalla-bonus-pack-16.json](./327316-brawlhalla-bonus-pack-16.json) |
 | Brawlhalla: Collector's Pack | 342116 | [342116-brawlhalla-collectors-pack.json](./342116-brawlhalla-collectors-pack.json) |
 | Brawlhalla: Founders Pack | 342106 | [342106-brawlhalla-founders-pack.json](./342106-brawlhalla-founders-pack.json) |
