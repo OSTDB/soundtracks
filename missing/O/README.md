@@ -461,6 +461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oedo Developer | 369089 | [369089-oedo-developer.json](./369089-oedo-developer.json) |
 | Oedo Trigger VR!! | 263229 | [263229-oedo-trigger-vr.json](./263229-oedo-trigger-vr.json) |
 | Oedo Trigger!! | 235735 | [235735-oedo-trigger.json](./235735-oedo-trigger.json) |
+| Oedoshigusa | 310163 | [310163-oedoshigusa.json](./310163-oedoshigusa.json) |
 | Oeka Kids: Anpanman no Hiragana Daisuki | 48800 | [48800-oeka-kids-anpanman-no-hiragana-daisuki.json](./48800-oeka-kids-anpanman-no-hiragana-daisuki.json) |
 | Oeka Kids: Anpanman to Oekaki Shiyou!! | 48799 | [48799-oeka-kids-anpanman-to-oekaki-shiyou.json](./48799-oeka-kids-anpanman-to-oekaki-shiyou.json) |
 | Oekaki Nokoshite Print Shichaou! Set | 327629 | [327629-oekaki-nokoshite-print-shichaou-set.json](./327629-oekaki-nokoshite-print-shichaou-set.json) |
@@ -652,6 +653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oftalmogarden | 189176 | [189176-oftalmogarden.json](./189176-oftalmogarden.json) |
 | Ofuxë the Guardian of Nature | 291216 | [291216-ofuxe-the-guardian-of-nature.json](./291216-ofuxe-the-guardian-of-nature.json) |
 | OG Fun Monke Horror | 382754 | [382754-og-fun-monke-horror.json](./382754-og-fun-monke-horror.json) |
+| OG Memory: Spring 2K24 | 310072 | [310072-og-memory-spring-2k24.json](./310072-og-memory-spring-2k24.json) |
 | OG Memory: Synthwave Vampires | 341501 | [341501-og-memory-synthwave-vampires.json](./341501-og-memory-synthwave-vampires.json) |
 | OG Memory: Winter 2K23 | 288784 | [288784-og-memory-winter-2k23.json](./288784-og-memory-winter-2k23.json) |
 | OG Puzzlers: Kira Maus | 277582 | [277582-og-puzzlers-kira-maus.json](./277582-og-puzzlers-kira-maus.json) |
@@ -2041,6 +2043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Open Starbound | 354644 | [354644-open-starbound.json](./354644-open-starbound.json) |
 | Open Surge | 230243 | [230243-open-surge.json](./230243-open-surge.json) |
 | Open the Door: A Short Story About Life | 245264 | [245264-open-the-door-a-short-story-about-life.json](./245264-open-the-door-a-short-story-about-life.json) |
+| Open The Doors | 310164 | [310164-open-the-doors.json](./310164-open-the-doors.json) |
 | Open The Gate: Just A Little | 381672 | [381672-open-the-gate-just-a-little.json](./381672-open-the-gate-just-a-little.json) |
 | Open the Gates! | 149046 | [149046-open-the-gates.json](./149046-open-the-gates.json) |
 | Open Tournament | 135140 | [135140-open-tournament.json](./135140-open-tournament.json) |
@@ -2777,9 +2780,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Otherworld Legends | 136996 | [136996-otherworld-legends.json](./136996-otherworld-legends.json) |
 | Otherworld Legends: Aigneis | 235678 | [235678-otherworld-legends-aigneis.json](./235678-otherworld-legends-aigneis.json) |
 | Otherworld Legends: Ebonfang | 212215 | [212215-otherworld-legends-ebonfang.json](./212215-otherworld-legends-ebonfang.json) |
+| Otherworld Legends: Fluffette | 310084 | [310084-otherworld-legends-fluffette.json](./310084-otherworld-legends-fluffette.json) |
 | Otherworld Legends: Hannah | 199589 | [199589-otherworld-legends-hannah.json](./199589-otherworld-legends-hannah.json) |
 | Otherworld Legends: Skin - The Unreturning | 361892 | [361892-otherworld-legends-skin-the-unreturning.json](./361892-otherworld-legends-skin-the-unreturning.json) |
 | Otherworld Legends: Uliana | 226705 | [226705-otherworld-legends-uliana.json](./226705-otherworld-legends-uliana.json) |
+| Otherworld Legends: Zilan | 310083 | [310083-otherworld-legends-zilan.json](./310083-otherworld-legends-zilan.json) |
 | Otherworld: Shades of Fall - Collector's Edition | 55662 | [55662-otherworld-shades-of-fall-collectors-edition.json](./55662-otherworld-shades-of-fall-collectors-edition.json) |
 | Otherworld: Spring of Shadows - Collector's Edition | 32788 | [32788-otherworld-spring-of-shadows-collectors-edition.json](./32788-otherworld-spring-of-shadows-collectors-edition.json) |
 | Otherworldly Air Gunship | 341517 | [341517-otherworldly-air-gunship.json](./341517-otherworldly-air-gunship.json) |
