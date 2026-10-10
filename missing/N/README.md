@@ -1009,6 +1009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Necro Defense | 113687 | [113687-necro-defense.json](./113687-necro-defense.json) |
 | Necro Genesis | 390639 | [390639-necro-genesis.json](./390639-necro-genesis.json) |
 | Necro Pop | 401894 | [401894-necro-pop.json](./401894-necro-pop.json) |
+| Necro Rumble | 285906 | [285906-necro-rumble.json](./285906-necro-rumble.json) |
 | Necro Saga | 219504 | [219504-necro-saga.json](./219504-necro-saga.json) |
 | Necro Wars | 127261 | [127261-necro-wars.json](./127261-necro-wars.json) |
 | NecroArcher | 199359 | [199359-necroarcher.json](./199359-necroarcher.json) |
@@ -2690,6 +2691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night of the Scarecrows | 119752 | [119752-night-of-the-scarecrows.json](./119752-night-of-the-scarecrows.json) |
 | Night of the Shrub Part 1 | 95188 | [95188-night-of-the-shrub-part-1.json](./95188-night-of-the-shrub-part-1.json) |
 | Night of the Shrub Part 2 | 104829 | [104829-night-of-the-shrub-part-2.json](./104829-night-of-the-shrub-part-2.json) |
+| Night of the Slayers | 285952 | [285952-night-of-the-slayers.json](./285952-night-of-the-slayers.json) |
 | Night of the Stars | 332395 | [332395-night-of-the-stars.json](./332395-night-of-the-stars.json) |
 | Night of the Wererat | 216986 | [216986-night-of-the-wererat.json](./216986-night-of-the-wererat.json) |
 | Night of the Wordsmith | 64985 | [64985-night-of-the-wordsmith.json](./64985-night-of-the-wordsmith.json) |
@@ -4596,6 +4598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NuclearDanger | 180806 | [180806-nucleardanger.json](./180806-nucleardanger.json) |
 | NuclearRifle | 384527 | [384527-nuclearrifle.json](./384527-nuclearrifle.json) |
 | Nuclecard | 380538 | [380538-nuclecard.json](./380538-nuclecard.json) |
+| Nucleite | 285911 | [285911-nucleite.json](./285911-nucleite.json) |
 | Nucleuz Underground | 309369 | [309369-nucleuz-underground.json](./309369-nucleuz-underground.json) |
 | Nuclien | 56279 | [56279-nuclien.json](./56279-nuclien.json) |
 | Nude and Afraid: 11 Day Challenge | 270962 | [270962-nude-and-afraid-11-day-challenge.json](./270962-nude-and-afraid-11-day-challenge.json) |
