@@ -598,6 +598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magia Record | 231933 | [231933-magia-record.json](./231933-magia-record.json) |
 | Magia Story | 244762 | [244762-magia-story.json](./244762-magia-story.json) |
 | Magia X: Leta | 172158 | [172158-magia-x-leta.json](./172158-magia-x-leta.json) |
+| Magia y Demonios | 307780 | [307780-magia-y-demonios.json](./307780-magia-y-demonios.json) |
 | Magiball Masters | 294361 | [294361-magiball-masters.json](./294361-magiball-masters.json) |
 | Magiblo Plus | 109189 | [109189-magiblo-plus.json](./109189-magiblo-plus.json) |
 | Magibrick | 290521 | [290521-magibrick.json](./290521-magibrick.json) |
@@ -8158,6 +8159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mirko Polo | 298564 | [298564-mirko-polo.json](./298564-mirko-polo.json) |
 | Mirlo Above the Sun | 152460 | [152460-mirlo-above-the-sun.json](./152460-mirlo-above-the-sun.json) |
 | Miro | 291051 | [291051-miro.json](./291051-miro.json) |
+| Miroh Jr. | 307885 | [307885-miroh-jr.json](./307885-miroh-jr.json) |
 | Mirror and Queen | 57501 | [57501-mirror-and-queen.json](./57501-mirror-and-queen.json) |
 | Mirror Broken | 215600 | [215600-mirror-broken.json](./215600-mirror-broken.json) |
 | Mirror Drop | 99153 | [99153-mirror-drop.json](./99153-mirror-drop.json) |
