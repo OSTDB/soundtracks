@@ -1488,6 +1488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Save The Babies | 335260 | [335260-save-the-babies.json](./335260-save-the-babies.json) |
 | Save The Bear Cubs | 367564 | [367564-save-the-bear-cubs.json](./367564-save-the-bear-cubs.json) |
 | Save the Body | 190466 | [190466-save-the-body.json](./190466-save-the-body.json) |
+| Save The Castle! | 294062 | [294062-save-the-castle.json](./294062-save-the-castle.json) |
 | Save the City | 359440 | [359440-save-the-city.json](./359440-save-the-city.json) |
 | Save the Creatures | 34194 | [34194-save-the-creatures.json](./34194-save-the-creatures.json) |
 | Save the Date | 159770 | [159770-save-the-date.json](./159770-save-the-date.json) |
@@ -7412,7 +7413,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sker Ritual: Dead by Nightfall | 382561 | [382561-sker-ritual-dead-by-nightfall.json](./382561-sker-ritual-dead-by-nightfall.json) |
 | Sker Ritual: Draigs Terror | 332040 | [332040-sker-ritual-draigs-terror.json](./332040-sker-ritual-draigs-terror.json) |
 | Sker Ritual: Goon Brenn | 235466 | [235466-sker-ritual-goon-brenn.json](./235466-sker-ritual-goon-brenn.json) |
+| Sker Ritual: Headless Wanderer | 294024 | [294024-sker-ritual-headless-wanderer.json](./294024-sker-ritual-headless-wanderer.json) |
 | Sker Ritual: Invasion of the Brain Eaters | 332041 | [332041-sker-ritual-invasion-of-the-brain-eaters.json](./332041-sker-ritual-invasion-of-the-brain-eaters.json) |
+| Sker Ritual: Murder Express | 294023 | [294023-sker-ritual-murder-express.json](./294023-sker-ritual-murder-express.json) |
 | Sker Ritual: Siren's Song | 241316 | [241316-sker-ritual-sirens-song.json](./241316-sker-ritual-sirens-song.json) |
 | Sker Ritual: Skerville Slasher | 322721 | [322721-sker-ritual-skerville-slasher.json](./322721-sker-ritual-skerville-slasher.json) |
 | Sker Ritual: Stranger Danger | 241317 | [241317-sker-ritual-stranger-danger.json](./241317-sker-ritual-stranger-danger.json) |
@@ -13278,6 +13281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sphinx: Riddles of the Nile | 289377 | [289377-sphinx-riddles-of-the-nile.json](./289377-sphinx-riddles-of-the-nile.json) |
 | Sphirit | 351266 | [351266-sphirit.json](./351266-sphirit.json) |
 | Sphongos | 345562 | [345562-sphongos.json](./345562-sphongos.json) |
+| SPi's Nightmare | 294059 | [294059-spis-nightmare.json](./294059-spis-nightmare.json) |
 | Spibee | 382930 | [382930-spibee.json](./382930-spibee.json) |
 | Spica Adventure | 60051 | [60051-spica-adventure.json](./60051-spica-adventure.json) |
 | Spice and Wolf VR | 105419 | [105419-spice-and-wolf-vr.json](./105419-spice-and-wolf-vr.json) |
@@ -17107,6 +17111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StrangerZ | 237435 | [237435-strangerz.json](./237435-strangerz.json) |
 | Strangest.io's My Megamix '21 | 195798 | [195798-strangest-ios-my-megamix-21.json](./195798-strangest-ios-my-megamix-21.json) |
 | Stranglehold | 6146 | [6146-stranglehold.json](./6146-stranglehold.json) |
+| Strangling a Snake Tale | 294028 | [294028-strangling-a-snake-tale.json](./294028-strangling-a-snake-tale.json) |
 | Strania: The Stella Machina | 34342 | [34342-strania-the-stella-machina.json](./34342-strania-the-stella-machina.json) |
 | Strania: The Stella Machina - EX | 328477 | [328477-strania-the-stella-machina-ex.json](./328477-strania-the-stella-machina-ex.json) |
 | Strashilka | 118786 | [118786-strashilka.json](./118786-strashilka.json) |
