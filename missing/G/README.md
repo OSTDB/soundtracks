@@ -1003,6 +1003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gangs of Asia | 360068 | [360068-gangs-of-asia.json](./360068-gangs-of-asia.json) |
 | Gangs of Rikton | 167592 | [167592-gangs-of-rikton.json](./167592-gangs-of-rikton.json) |
 | Gangs of Space | 54522 | [54522-gangs-of-space.json](./54522-gangs-of-space.json) |
+| Gangs of the street | 285379 | [285379-gangs-of-the-street.json](./285379-gangs-of-the-street.json) |
 | Gangs on New York | 345581 | [345581-gangs-on-new-york.json](./345581-gangs-on-new-york.json) |
 | Gangs Town Story | 197333 | [197333-gangs-town-story.json](./197333-gangs-town-story.json) |
 | Gangsta Bean | 234931 | [234931-gangsta-bean.json](./234931-gangsta-bean.json) |
@@ -2314,6 +2315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost of Tsushima: Launch Edition | 136178 | [136178-ghost-of-tsushima-launch-edition.json](./136178-ghost-of-tsushima-launch-edition.json) |
 | Ghost of Tsushima: Legends | 140042 | [140042-ghost-of-tsushima-legends.json](./140042-ghost-of-tsushima-legends.json) |
 | Ghost of Viyk | 295846 | [295846-ghost-of-viyk.json](./295846-ghost-of-viyk.json) |
+| Ghost Of Wynlow | 285410 | [285410-ghost-of-wynlow.json](./285410-ghost-of-wynlow.json) |
 | Ghost on the Shore | 129064 | [129064-ghost-on-the-shore.json](./129064-ghost-on-the-shore.json) |
 | Ghost Online | 112299 | [112299-ghost-online.json](./112299-ghost-online.json) |
 | Ghost Opera House | 156695 | [156695-ghost-opera-house.json](./156695-ghost-opera-house.json) |
@@ -4504,6 +4506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GoWings Safari | 30088 | [30088-gowings-safari.json](./30088-gowings-safari.json) |
 | Goya's Inferno | 345601 | [345601-goyas-inferno.json](./345601-goyas-inferno.json) |
 | Goyangi Jeongwon: Merge | 214381 | [214381-goyangi-jeongwon-merge.json](./214381-goyangi-jeongwon-merge.json) |
+| Gozen Yoji no mani-mani | 285423 | [285423-gozen-yoji-no-mani-mani.json](./285423-gozen-yoji-no-mani-mani.json) |
 | GP Club Life Motorsports Team | 315650 | [315650-gp-club-life-motorsports-team.json](./315650-gp-club-life-motorsports-team.json) |
 | GP Fight | 92311 | [92311-gp-fight.json](./92311-gp-fight.json) |
 | GP World | 6108 | [6108-gp-world.json](./6108-gp-world.json) |
@@ -6304,6 +6307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guilty Summer Kiss 2: Bloody Secret | 102948 | [102948-guilty-summer-kiss-2-bloody-secret.json](./102948-guilty-summer-kiss-2-bloody-secret.json) |
 | Guimo | 78942 | [78942-guimo.json](./78942-guimo.json) |
 | Guinea Isles | 382304 | [382304-guinea-isles.json](./382304-guinea-isles.json) |
+| Guinea Pig | 285427 | [285427-guinea-pig.json](./285427-guinea-pig.json) |
 | Guinea Pig Bridge! | 246928 | [246928-guinea-pig-bridge.json](./246928-guinea-pig-bridge.json) |
 | Guinea Pig Gunner | 411580 | [411580-guinea-pig-gunner.json](./411580-guinea-pig-gunner.json) |
 | Guinea Pig Temple | 395889 | [395889-guinea-pig-temple.json](./395889-guinea-pig-temple.json) |
