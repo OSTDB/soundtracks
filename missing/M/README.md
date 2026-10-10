@@ -7675,6 +7675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mingy Jongo | 60609 | [60609-mingy-jongo.json](./60609-mingy-jongo.json) |
 | Mìngyùn de Yǐndǎozhě: Chuánshuō Bǎoshí | 394195 | [394195-mingyun-de-yindaozhe-chuanshuo-baoshi.json](./394195-mingyun-de-yindaozhe-chuanshuo-baoshi.json) |
 | Minha Casa | 307864 | [307864-minha-casa.json](./307864-minha-casa.json) |
+| Mini & Max | 318736 | [318736-mini-and-max.json](./318736-mini-and-max.json) |
 | Mini 4WD Hyper Dash Grand Prix | 190044 | [190044-mini-4wd-hyper-dash-grand-prix.json](./190044-mini-4wd-hyper-dash-grand-prix.json) |
 | Mini AirHockey | 405473 | [405473-mini-airhockey.json](./405473-mini-airhockey.json) |
 | Mini Airways: Map - Busy Skies | 416593 | [416593-mini-airways-map-busy-skies.json](./416593-mini-airways-map-busy-skies.json) |
@@ -10553,6 +10554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortimer: First Launch | 341337 | [341337-mortimer-first-launch.json](./341337-mortimer-first-launch.json) |
 | Mortis Chronicles: Tale of Cowardice | 190012 | [190012-mortis-chronicles-tale-of-cowardice.json](./190012-mortis-chronicles-tale-of-cowardice.json) |
 | Morto: Chapter 2 | 284497 | [284497-morto-chapter-2.json](./284497-morto-chapter-2.json) |
+| Mortol II | 318738 | [318738-mortol-ii.json](./318738-mortol-ii.json) |
 | Morton Subotnick's Hearing Music | 70078 | [70078-morton-subotnicks-hearing-music.json](./70078-morton-subotnicks-hearing-music.json) |
 | Morton's Fork | 56128 | [56128-mortons-fork.json](./56128-mortons-fork.json) |
 | Mortos | 35048 | [35048-mortos.json](./35048-mortos.json) |
@@ -12029,7 +12031,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Muv-Luv Unlimited: The Day After - Episode 00 Remastered | 164423 | [164423-muv-luv-unlimited-the-day-after-episode-00-remastered.json](./164423-muv-luv-unlimited-the-day-after-episode-00-remastered.json) |
 | Muv-Luv Unlimited: The Day After - Episode 01 | 143337 | [143337-muv-luv-unlimited-the-day-after-episode-01.json](./143337-muv-luv-unlimited-the-day-after-episode-01.json) |
 | Muv-Luv Unlimited: The Day After - Episode 02 | 143338 | [143338-muv-luv-unlimited-the-day-after-episode-02.json](./143338-muv-luv-unlimited-the-day-after-episode-02.json) |
+| Muv-Luv Unlimited: The Day After - Episode 02 Remastered | 318706 | [318706-muv-luv-unlimited-the-day-after-episode-02-remastered.json](./318706-muv-luv-unlimited-the-day-after-episode-02-remastered.json) |
 | Muv-Luv Unlimited: The Day After - Episode 03 | 143339 | [143339-muv-luv-unlimited-the-day-after-episode-03.json](./143339-muv-luv-unlimited-the-day-after-episode-03.json) |
+| Muv-Luv Unlimited: The Day After - Episode 03 Remastered | 318708 | [318708-muv-luv-unlimited-the-day-after-episode-03-remastered.json](./318708-muv-luv-unlimited-the-day-after-episode-03-remastered.json) |
 | Muv-Luv Unlimited: The Day After Ultimate Collection | 399799 | [399799-muv-luv-unlimited-the-day-after-ultimate-collection.json](./399799-muv-luv-unlimited-the-day-after-ultimate-collection.json) |
 | Muv-Luv VR | 33162 | [33162-muv-luv-vr.json](./33162-muv-luv-vr.json) |
 | Muv-Luv: Tactics Kalidasa at Nightmare | 407990 | [407990-muv-luv-tactics-kalidasa-at-nightmare.json](./407990-muv-luv-tactics-kalidasa-at-nightmare.json) |
