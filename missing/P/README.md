@@ -32,6 +32,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | P.O.W. | 72333 | [72333-p-o-w.json](./72333-p-o-w.json) |
 | P.O.W.: Prisoners of War | 274103 | [274103-p-o-w-prisoners-of-war.json](./274103-p-o-w-prisoners-of-war.json) |
 | P.O.W.: Prisoners of War | 6820 | [6820-p-o-w-prisoners-of-war.json](./6820-p-o-w-prisoners-of-war.json) |
+| P.P.SH | 294071 | [294071-p-p-sh.json](./294071-p-p-sh.json) |
 | P.R.O.T.O.C.O.O.L.: Silver Pack | 267078 | [267078-p-r-o-t-o-c-o-o-l-silver-pack.json](./267078-p-r-o-t-o-c-o-o-l-silver-pack.json) |
 | P.S.Rose | 202318 | [202318-p-s-rose.json](./202318-p-s-rose.json) |
 | P.T. Barnum's Acrobats | 41558 | [41558-p-t-barnums-acrobats.json](./41558-p-t-barnums-acrobats.json) |
@@ -1648,6 +1649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Party Party Time: Character Skin Pack 2 | 256460 | [256460-party-party-time-character-skin-pack-2.json](./256460-party-party-time-character-skin-pack-2.json) |
 | Party Party Time: Happy Happy Pack | 259855 | [259855-party-party-time-happy-happy-pack.json](./259855-party-party-time-happy-happy-pack.json) |
 | Party Party Time: Party Harder Pack | 233000 | [233000-party-party-time-party-harder-pack.json](./233000-party-party-time-party-harder-pack.json) |
+| Party Party Time: Party Power Pack | 294021 | [294021-party-party-time-party-power-pack.json](./294021-party-party-time-party-power-pack.json) |
 | Party Party Time: Thrilling Party Pack | 275840 | [275840-party-party-time-thrilling-party-pack.json](./275840-party-party-time-thrilling-party-pack.json) |
 | Party Pie | 208445 | [208445-party-pie.json](./208445-party-pie.json) |
 | Party Planet | 71594 | [71594-party-planet.json](./71594-party-planet.json) |
@@ -7869,6 +7871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Porkshire Hero | 331485 | [331485-porkshire-hero.json](./331485-porkshire-hero.json) |
 | Porky Pig's Haunted Holiday | 42472 | [42472-porky-pigs-haunted-holiday.json](./42472-porky-pigs-haunted-holiday.json) |
 | Porky's | 22761 | [22761-porkys.json](./22761-porkys.json) |
+| Porn Empire | 294030 | [294030-porn-empire.json](./294030-porn-empire.json) |
 | Porn Handyman VR | 417408 | [417408-porn-handyman-vr.json](./417408-porn-handyman-vr.json) |
 | Porn Pizza Delivery Boy | 369674 | [369674-porn-pizza-delivery-boy.json](./369674-porn-pizza-delivery-boy.json) |
 | Porn Star Fake Interview | 385892 | [385892-porn-star-fake-interview.json](./385892-porn-star-fake-interview.json) |
