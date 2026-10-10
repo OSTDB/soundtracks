@@ -668,6 +668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Salt and Sanctuary: Drowned Tome Edition | 136349 | [136349-salt-and-sanctuary-drowned-tome-edition.json](./136349-salt-and-sanctuary-drowned-tome-edition.json) |
 | Salt and Spice | 411504 | [411504-salt-and-spice.json](./411504-salt-and-spice.json) |
 | Salt Game | 219641 | [219641-salt-game.json](./219641-salt-game.json) |
+| Salt Meat Factory | 303815 | [303815-salt-meat-factory.json](./303815-salt-meat-factory.json) |
 | Salt the Earth | 118298 | [118298-salt-the-earth.json](./118298-salt-the-earth.json) |
 | SALT: Super Awesome Laser Tag | 379869 | [379869-salt-super-awesome-laser-tag.json](./379869-salt-super-awesome-laser-tag.json) |
 | Salted | 372537 | [372537-salted.json](./372537-salted.json) |
@@ -5597,6 +5598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shooterspool: Billiards Simulation | 127333 | [127333-shooterspool-billiards-simulation.json](./127333-shooterspool-billiards-simulation.json) |
 | Shooterwave | 186344 | [186344-shooterwave.json](./186344-shooterwave.json) |
 | Shootin' Gallery VR | 217293 | [217293-shootin-gallery-vr.json](./217293-shootin-gallery-vr.json) |
+| Shootinator | 303821 | [303821-shootinator.json](./303821-shootinator.json) |
 | Shooting Aircraft | 323846 | [323846-shooting-aircraft.json](./323846-shooting-aircraft.json) |
 | Shooting Arena VR | 141098 | [141098-shooting-arena-vr.json](./141098-shooting-arena-vr.json) |
 | Shooting Ballons | 247012 | [247012-shooting-ballons.json](./247012-shooting-ballons.json) |
@@ -16442,6 +16444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stick or Stone? | 176457 | [176457-stick-or-stone.json](./176457-stick-or-stone.json) |
 | Stick Out! | 386696 | [386696-stick-out.json](./386696-stick-out.json) |
 | Stick Ranger | 57898 | [57898-stick-ranger.json](./57898-stick-ranger.json) |
+| Stick Robot Puzzle | 303665 | [303665-stick-robot-puzzle.json](./303665-stick-robot-puzzle.json) |
 | Stick RPG | 97975 | [97975-stick-rpg.json](./97975-stick-rpg.json) |
 | Stick Run | 57176 | [57176-stick-run.json](./57176-stick-run.json) |
 | Stick Runner: Operation Europe | 105763 | [105763-stick-runner-operation-europe.json](./105763-stick-runner-operation-europe.json) |
@@ -16886,6 +16889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Story of Seasons: Pioneers of Olive Town - Panda Costume | 366267 | [366267-story-of-seasons-pioneers-of-olive-town-panda-costume.json](./366267-story-of-seasons-pioneers-of-olive-town-panda-costume.json) |
 | Story of Seasons: Project Experiences | 250920 | [250920-story-of-seasons-project-experiences.json](./250920-story-of-seasons-project-experiences.json) |
 | Story of Seasons: Project You can Play with Everyone | 250921 | [250921-story-of-seasons-project-you-can-play-with-everyone.json](./250921-story-of-seasons-project-you-can-play-with-everyone.json) |
+| Story of Seasons: Untitled 2024 | 303822 | [303822-story-of-seasons-untitled-2024.json](./303822-story-of-seasons-untitled-2024.json) |
 | Story of the Green Dragon | 109869 | [109869-story-of-the-green-dragon.json](./109869-story-of-the-green-dragon.json) |
 | Story of the Survivor | 33582 | [33582-story-of-the-survivor.json](./33582-story-of-the-survivor.json) |
 | Story of the Survivor: The Escape | 156154 | [156154-story-of-the-survivor-the-escape.json](./156154-story-of-the-survivor-the-escape.json) |
