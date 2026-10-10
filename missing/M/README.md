@@ -2264,6 +2264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Bros. | 3105 | [3105-mario-bros.json](./3105-mario-bros.json) |
 | Mario Bros. | 363314 | [363314-mario-bros.json](./363314-mario-bros.json) |
 | Mario Bros. | 367845 | [367845-mario-bros.json](./367845-mario-bros.json) |
+| Mario Bros. Inc. | 324013 | [324013-mario-bros-inc.json](./324013-mario-bros-inc.json) |
 | Mario Bros. Mayhem | 413896 | [413896-mario-bros-mayhem.json](./413896-mario-bros-mayhem.json) |
 | Mario Bros. Special | 132049 | [132049-mario-bros-special.json](./132049-mario-bros-special.json) |
 | Mario Bros. VB | 231513 | [231513-mario-bros-vb.json](./231513-mario-bros-vb.json) |
@@ -4983,6 +4984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Megaman X Omega Blaster - Ultimate Edition | 369208 | [369208-megaman-x-omega-blaster-ultimate-edition.json](./369208-megaman-x-omega-blaster-ultimate-edition.json) |
 | Megaman X: Omega Blaster - Definitive Edition | 369207 | [369207-megaman-x-omega-blaster-definitive-edition.json](./369207-megaman-x-omega-blaster-definitive-edition.json) |
 | Megaman ZX Genesis | 334150 | [334150-megaman-zx-genesis.json](./334150-megaman-zx-genesis.json) |
+| MegaMan: Citrus Cult | 323767 | [323767-megaman-citrus-cult.json](./323767-megaman-citrus-cult.json) |
 | Megaman: The Great Catastrophe | 323882 | [323882-megaman-the-great-catastrophe.json](./323882-megaman-the-great-catastrophe.json) |
 | Megamaze | 208393 | [208393-megamaze.json](./208393-megamaze.json) |
 | MegaMegaEggs | 309484 | [309484-megamegaeggs.json](./309484-megamegaeggs.json) |
@@ -6140,6 +6142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metroid | 342602 | [342602-metroid.json](./342602-metroid.json) |
 | Metroid Confrontation 2: Return to SR388 | 274984 | [274984-metroid-confrontation-2-return-to-sr388.json](./274984-metroid-confrontation-2-return-to-sr388.json) |
 | Metroid Defense | 323283 | [323283-metroid-defense.json](./323283-metroid-defense.json) |
+| Metroid Doom | 324011 | [324011-metroid-doom.json](./324011-metroid-doom.json) |
 | Metroid Dread | 15698 | [15698-metroid-dread.json](./15698-metroid-dread.json) |
 | Metroid Dread | 233651 | [233651-metroid-dread.json](./233651-metroid-dread.json) |
 | Metroid Ecliption | 324077 | [324077-metroid-ecliption.json](./324077-metroid-ecliption.json) |
@@ -6163,6 +6166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metroid Redemption | 134629 | [134629-metroid-redemption.json](./134629-metroid-redemption.json) |
 | Metroid SNES | 377749 | [377749-metroid-snes.json](./377749-metroid-snes.json) |
 | Metroid Tactics | 264878 | [264878-metroid-tactics.json](./264878-metroid-tactics.json) |
+| Metroid Treasure Hunt Remake | 323999 | [323999-metroid-treasure-hunt-remake.json](./323999-metroid-treasure-hunt-remake.json) |
 | Metroid Vanguard | 331700 | [331700-metroid-vanguard.json](./331700-metroid-vanguard.json) |
 | Metroid X | 267400 | [267400-metroid-x.json](./267400-metroid-x.json) |
 | Metroid: 3D TechDemo | 324088 | [324088-metroid-3d-techdemo.json](./324088-metroid-3d-techdemo.json) |
@@ -6183,6 +6187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metroid: Return to Zebes | 360125 | [360125-metroid-return-to-zebes.json](./360125-metroid-return-to-zebes.json) |
 | Metroid: Rogue Dawn | 65036 | [65036-metroid-rogue-dawn.json](./65036-metroid-rogue-dawn.json) |
 | Metroid: Samus Returns | 37140 | [37140-metroid-samus-returns.json](./37140-metroid-samus-returns.json) |
+| Metroid: SR388 | 324000 | [324000-metroid-sr388.json](./324000-metroid-sr388.json) |
 | Metroid: Super Zero Mission | 42205 | [42205-metroid-super-zero-mission.json](./42205-metroid-super-zero-mission.json) |
 | Metroid: Takeover | 255384 | [255384-metroid-takeover.json](./255384-metroid-takeover.json) |
 | Metroidvania Bundle | 268482 | [268482-metroidvania-bundle.json](./268482-metroidvania-bundle.json) |
@@ -11835,6 +11840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mushroom Path | 261837 | [261837-mushroom-path.json](./261837-mushroom-path.json) |
 | Mushroom Picker Simulator | 149045 | [149045-mushroom-picker-simulator.json](./149045-mushroom-picker-simulator.json) |
 | Mushroom Simulator Co-op | 401841 | [401841-mushroom-simulator-co-op.json](./401841-mushroom-simulator-co-op.json) |
+| Mushroom Story | 323973 | [323973-mushroom-story.json](./323973-mushroom-story.json) |
 | Mushroom Towers | 179690 | [179690-mushroom-towers.json](./179690-mushroom-towers.json) |
 | Mushroom Town | 386441 | [386441-mushroom-town.json](./386441-mushroom-town.json) |
 | Mushroom Wars 2 | 19786 | [19786-mushroom-wars-2.json](./19786-mushroom-wars-2.json) |
