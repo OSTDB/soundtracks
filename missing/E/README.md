@@ -251,6 +251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EarthBound Beginnings | 11191 | [11191-earthbound-beginnings.json](./11191-earthbound-beginnings.json) |
 | EarthBound Dimensions | 311281 | [311281-earthbound-dimensions.json](./311281-earthbound-dimensions.json) |
 | Earthbound Halloween Hack | 139353 | [139353-earthbound-halloween-hack.json](./139353-earthbound-halloween-hack.json) |
+| EarthBound Zero Remake | 324007 | [324007-earthbound-zero-remake.json](./324007-earthbound-zero-remake.json) |
 | Earthbreakers | 126458 | [126458-earthbreakers.json](./126458-earthbreakers.json) |
 | EarthCraft 2: World Exploration & Survival | 99705 | [99705-earthcraft-2-world-exploration-and-survival.json](./99705-earthcraft-2-world-exploration-and-survival.json) |
 | Earthflow: Fate of the Stargazer | 52205 | [52205-earthflow-fate-of-the-stargazer.json](./52205-earthflow-fate-of-the-stargazer.json) |
@@ -2871,6 +2872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ernie's Adventures in Space | 122861 | [122861-ernies-adventures-in-space.json](./122861-ernies-adventures-in-space.json) |
 | Ero Condo: Remastered | 343882 | [343882-ero-condo-remastered.json](./343882-ero-condo-remastered.json) |
 | Ero Date | 107822 | [107822-ero-date.json](./107822-ero-date.json) |
+| Ero Mission | 324014 | [324014-ero-mission.json](./324014-ero-mission.json) |
 | Ero Snooker | 167585 | [167585-ero-snooker.json](./167585-ero-snooker.json) |
 | Ero Zemi: Ecchi ni Yaru-ki ni ABC | 194579 | [194579-ero-zemi-ecchi-ni-yaru-ki-ni-abc.json](./194579-ero-zemi-ecchi-ni-yaru-ki-ni-abc.json) |
 | Eroblast: Passion Edition | 262322 | [262322-eroblast-passion-edition.json](./262322-eroblast-passion-edition.json) |
@@ -4798,6 +4800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extreme Car Driver | 165608 | [165608-extreme-car-driver.json](./165608-extreme-car-driver.json) |
 | Extreme Car Driving Sim 3D | 104222 | [104222-extreme-car-driving-sim-3d.json](./104222-extreme-car-driving-sim-3d.json) |
 | Extreme Car Parking! | 310196 | [310196-extreme-car-parking.json](./310196-extreme-car-parking.json) |
+| Extreme City Delivery: Bike Ride Simulator | 323703 | [323703-extreme-city-delivery-bike-ride-simulator.json](./323703-extreme-city-delivery-bike-ride-simulator.json) |
 | Extreme Custom Night | 277965 | [277965-extreme-custom-night.json](./277965-extreme-custom-night.json) |
 | Extreme Cycling | 330189 | [330189-extreme-cycling.json](./330189-extreme-cycling.json) |
 | Extreme Cycling Championship | 406796 | [406796-extreme-cycling-championship.json](./406796-extreme-cycling-championship.json) |
