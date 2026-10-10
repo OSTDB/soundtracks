@@ -802,6 +802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Falling Into You | 218165 | [218165-falling-into-you.json](./218165-falling-into-you.json) |
 | Falling Kwadrats | 179203 | [179203-falling-kwadrats.json](./179203-falling-kwadrats.json) |
 | Falling Light | 391763 | [391763-falling-light.json](./391763-falling-light.json) |
+| Falling Lights: The Crypt – Escape | 315795 | [315795-falling-lights-the-crypt-escape.json](./315795-falling-lights-the-crypt-escape.json) |
 | Falling Limbs | 258006 | [258006-falling-limbs.json](./258006-falling-limbs.json) |
 | Falling Out | 125402 | [125402-falling-out.json](./125402-falling-out.json) |
 | Falling Plus | 112514 | [112514-falling-plus.json](./112514-falling-plus.json) |
@@ -4180,6 +4181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Hearts Under One Roof | 318806 | [318806-five-hearts-under-one-roof.json](./318806-five-hearts-under-one-roof.json) |
 | Five Hundred | 287910 | [287910-five-hundred.json](./287910-five-hundred.json) |
 | Five in One | 210648 | [210648-five-in-one.json](./210648-five-in-one.json) |
+| Five Islands Escape | 315768 | [315768-five-islands-escape.json](./315768-five-islands-escape.json) |
 | Five Keys to Exit | 86433 | [86433-five-keys-to-exit.json](./86433-five-keys-to-exit.json) |
 | Five Letter Words | 104115 | [104115-five-letter-words.json](./104115-five-letter-words.json) |
 | Five Mysterious Murders | 374759 | [374759-five-mysterious-murders.json](./374759-five-mysterious-murders.json) |
@@ -4298,6 +4300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Stars | 233492 | [233492-five-stars.json](./233492-five-stars.json) |
 | Five Stars | 365870 | [365870-five-stars.json](./365870-five-stars.json) |
 | Five Unreal Nights at Candy's | 288853 | [288853-five-unreal-nights-at-candys.json](./288853-five-unreal-nights-at-candys.json) |
+| Five Worlds Escape | 315779 | [315779-five-worlds-escape.json](./315779-five-worlds-escape.json) |
 | Five Years Old Memories | 313192 | [313192-five-years-old-memories.json](./313192-five-years-old-memories.json) |
 | Five-a-Side Indoor Soccer | 94417 | [94417-five-a-side-indoor-soccer.json](./94417-five-a-side-indoor-soccer.json) |
 | Five-A-Side Soccer | 84235 | [84235-five-a-side-soccer.json](./84235-five-a-side-soccer.json) |
@@ -5798,6 +5801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forest Asylum 2 | 352359 | [352359-forest-asylum-2.json](./352359-forest-asylum-2.json) |
 | Forest at World's End | 25917 | [25917-forest-at-worlds-end.json](./25917-forest-at-worlds-end.json) |
 | Forest Battle | 166732 | [166732-forest-battle.json](./166732-forest-battle.json) |
+| Forest Cafe | 315814 | [315814-forest-cafe.json](./315814-forest-cafe.json) |
 | Forest Camp Story | 174297 | [174297-forest-camp-story.json](./174297-forest-camp-story.json) |
 | Forest Crash Party | 265839 | [265839-forest-crash-party.json](./265839-forest-crash-party.json) |
 | Forest Crossroads | 278151 | [278151-forest-crossroads.json](./278151-forest-crossroads.json) |
@@ -7331,6 +7335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frog Pond | 342285 | [342285-frog-pond.json](./342285-frog-pond.json) |
 | Frog Pond Simulator | 394780 | [394780-frog-pond-simulator.json](./394780-frog-pond-simulator.json) |
 | Frog Quest | 240235 | [240235-frog-quest.json](./240235-frog-quest.json) |
+| Frog Soup | 315773 | [315773-frog-soup.json](./315773-frog-soup.json) |
 | Frog Space | 133468 | [133468-frog-space.json](./133468-frog-space.json) |
 | Frog Story: The Power Tongue | 289451 | [289451-frog-story-the-power-tongue.json](./289451-frog-story-the-power-tongue.json) |
 | Frog Street A-Z | 100818 | [100818-frog-street-a-z.json](./100818-frog-street-a-z.json) |
@@ -7776,6 +7781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fruits of Fury | 413618 | [413618-fruits-of-fury.json](./413618-fruits-of-fury.json) |
 | Fruits vs. Veggies | 392236 | [392236-fruits-vs-veggies.json](./392236-fruits-vs-veggies.json) |
 | Fruits-mura no Doubutsu-tachi | 49572 | [49572-fruits-mura-no-doubutsu-tachi.json](./49572-fruits-mura-no-doubutsu-tachi.json) |
+| Fruits' Harvest Sorter | 315809 | [315809-fruits-harvest-sorter.json](./315809-fruits-harvest-sorter.json) |
 | Fruitwolf | 183017 | [183017-fruitwolf.json](./183017-fruitwolf.json) |
 | Fruity Fauna | 374146 | [374146-fruity-fauna.json](./374146-fruity-fauna.json) |
 | Fruity Freddy | 347833 | [347833-fruity-freddy.json](./347833-fruity-freddy.json) |
