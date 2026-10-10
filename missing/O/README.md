@@ -666,8 +666,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OG Puzzlers: Kira Maus | 277582 | [277582-og-puzzlers-kira-maus.json](./277582-og-puzzlers-kira-maus.json) |
 | OG Puzzlers: Spring 2K24 | 303667 | [303667-og-puzzlers-spring-2k24.json](./303667-og-puzzlers-spring-2k24.json) |
 | OG Puzzlers: Synthwave Astronauts | 292253 | [292253-og-puzzlers-synthwave-astronauts.json](./292253-og-puzzlers-synthwave-astronauts.json) |
+| OG Puzzlers: Synthwave Boats | 291362 | [291362-og-puzzlers-synthwave-boats.json](./291362-og-puzzlers-synthwave-boats.json) |
 | OG Puzzlers: Synthwave Cars | 288788 | [288788-og-puzzlers-synthwave-cars.json](./288788-og-puzzlers-synthwave-cars.json) |
 | OG Puzzlers: Synthwave Dinosaurs | 291234 | [291234-og-puzzlers-synthwave-dinosaurs.json](./291234-og-puzzlers-synthwave-dinosaurs.json) |
+| OG Puzzlers: Synthwave Monsters | 291359 | [291359-og-puzzlers-synthwave-monsters.json](./291359-og-puzzlers-synthwave-monsters.json) |
 | OG Puzzlers: Synthwave Vampires | 341502 | [341502-og-puzzlers-synthwave-vampires.json](./341502-og-puzzlers-synthwave-vampires.json) |
 | OG Puzzlers: Winter 2K23 | 287188 | [287188-og-puzzlers-winter-2k23.json](./287188-og-puzzlers-winter-2k23.json) |
 | OGame | 17257 | [17257-ogame.json](./17257-ogame.json) |
@@ -1892,6 +1894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Only Furry 18+ | 234113 | [234113-only-furry-18.json](./234113-only-furry-18.json) |
 | Only Girl in High School | 223998 | [223998-only-girl-in-high-school.json](./223998-only-girl-in-high-school.json) |
 | Only Go Up 2 | 370819 | [370819-only-go-up-2.json](./370819-only-go-up-2.json) |
+| Only Golf | 291397 | [291397-only-golf.json](./291397-only-golf.json) |
 | Only High | 291144 | [291144-only-high.json](./291144-only-high.json) |
 | Only Hope: Episode 1 | 170917 | [170917-only-hope-episode-1.json](./170917-only-hope-episode-1.json) |
 | Only Hope: Episode 2 | 170919 | [170919-only-hope-episode-2.json](./170919-only-hope-episode-2.json) |
