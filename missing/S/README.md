@@ -6533,6 +6533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silicon Magic: Umareru Mae Kara Anata Senyou?! | 77954 | [77954-silicon-magic-umareru-mae-kara-anata-senyou.json](./77954-silicon-magic-umareru-mae-kara-anata-senyou.json) |
 | Silicon Valley Investor | 149204 | [149204-silicon-valley-investor.json](./149204-silicon-valley-investor.json) |
 | Silicon War: Blitz | 295520 | [295520-silicon-war-blitz.json](./295520-silicon-war-blitz.json) |
+| Silicon Wasteland | 290834 | [290834-silicon-wasteland.json](./290834-silicon-wasteland.json) |
 | Silicon-Galaxy | 178994 | [178994-silicon-galaxy.json](./178994-silicon-galaxy.json) |
 | Silicone Heart | 358369 | [358369-silicone-heart.json](./358369-silicone-heart.json) |
 | SiliCorp Systems | 321550 | [321550-silicorp-systems.json](./321550-silicorp-systems.json) |
@@ -7396,6 +7397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skeleton Troubles | 166707 | [166707-skeleton-troubles.json](./166707-skeleton-troubles.json) |
 | Skeleton Village | 298644 | [298644-skeleton-village.json](./298644-skeleton-village.json) |
 | Skeleton vs zombies | 127363 | [127363-skeleton-vs-zombies.json](./127363-skeleton-vs-zombies.json) |
+| Skeleton War | 290857 | [290857-skeleton-war.json](./290857-skeleton-war.json) |
 | Skeleton Warrior | 130198 | [130198-skeleton-warrior.json](./130198-skeleton-warrior.json) |
 | Skeleton Warriors | 8084 | [8084-skeleton-warriors.json](./8084-skeleton-warriors.json) |
 | Skeletons Uprising | 265153 | [265153-skeletons-uprising.json](./265153-skeletons-uprising.json) |
@@ -11590,6 +11592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soulless: Ray of Hope | 27754 | [27754-soulless-ray-of-hope.json](./27754-soulless-ray-of-hope.json) |
 | Soulmask | 272600 | [272600-soulmask.json](./272600-soulmask.json) |
 | Soulmask: Shifting Sands | 370724 | [370724-soulmask-shifting-sands.json](./370724-soulmask-shifting-sands.json) |
+| Soulmaze | 290854 | [290854-soulmaze.json](./290854-soulmaze.json) |
 | SoulPactum | 342773 | [342773-soulpactum.json](./342773-soulpactum.json) |
 | Soulrise | 295544 | [295544-soulrise.json](./295544-soulrise.json) |
 | Souls | 261255 | [261255-souls.json](./261255-souls.json) |
