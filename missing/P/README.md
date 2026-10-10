@@ -1405,6 +1405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paris Attack | 40764 | [40764-paris-attack.json](./40764-paris-attack.json) |
 | Paris Belle Epoque | 303270 | [303270-paris-belle-epoque.json](./303270-paris-belle-epoque.json) |
 | Paris Craft: Exploration of City of Love & Art | 96012 | [96012-paris-craft-exploration-of-city-of-love-and-art.json](./96012-paris-craft-exploration-of-city-of-love-and-art.json) |
+| Paris Games Fail! | 319277 | [319277-paris-games-fail.json](./319277-paris-games-fail.json) |
 | Paris in Danger | 23966 | [23966-paris-in-danger.json](./23966-paris-in-danger.json) |
 | Paris Nights | 342795 | [342795-paris-nights.json](./342795-paris-nights.json) |
 | Paris Saint-Germain Club Football 2005 | 267911 | [267911-paris-saint-germain-club-football-2005.json](./267911-paris-saint-germain-club-football-2005.json) |
@@ -2685,6 +2686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perfect Inventory | 223411 | [223411-perfect-inventory.json](./223411-perfect-inventory.json) |
 | Perfect Kick | 62980 | [62980-perfect-kick.json](./62980-perfect-kick.json) |
 | Perfect Kick 2: Online Soccer game | 220046 | [220046-perfect-kick-2-online-soccer-game.json](./220046-perfect-kick-2-online-soccer-game.json) |
+| Perfect Klondike Solitaire | 319308 | [319308-perfect-klondike-solitaire.json](./319308-perfect-klondike-solitaire.json) |
 | Perfect Landing | 265587 | [265587-perfect-landing.json](./265587-perfect-landing.json) |
 | Perfect Liar | 373536 | [373536-perfect-liar.json](./373536-perfect-liar.json) |
 | Perfect Loop: Soleris | 388711 | [388711-perfect-loop-soleris.json](./388711-perfect-loop-soleris.json) |
@@ -2911,6 +2913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pet & Dog Simulator | 333736 | [333736-pet-and-dog-simulator.json](./333736-pet-and-dog-simulator.json) |
 | Pet Alien: An Intergalactic Puzzlepalooza | 8120 | [8120-pet-alien-an-intergalactic-puzzlepalooza.json](./8120-pet-alien-an-intergalactic-puzzlepalooza.json) |
 | Pet Buddies | 356732 | [356732-pet-buddies.json](./356732-pet-buddies.json) |
+| Pet Cam | 319272 | [319272-pet-cam.json](./319272-pet-cam.json) |
 | Pet Cats, Save the World | 144236 | [144236-pet-cats-save-the-world.json](./144236-pet-cats-save-the-world.json) |
 | Pet Cemetery | 302710 | [302710-pet-cemetery.json](./302710-pet-cemetery.json) |
 | Pet City | 279638 | [279638-pet-city.json](./279638-pet-city.json) |
@@ -3298,6 +3301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pharaoh's Curse | 40659 | [40659-pharaohs-curse.json](./40659-pharaohs-curse.json) |
 | Pharaoh's Purse | 314514 | [314514-pharaohs-purse.json](./314514-pharaohs-purse.json) |
 | Pharaoh's Revenge | 55206 | [55206-pharaohs-revenge.json](./55206-pharaohs-revenge.json) |
+| Pharaoh's Riches | 319309 | [319309-pharaohs-riches.json](./319309-pharaohs-riches.json) |
 | Pharaoh's Secret | 309030 | [309030-pharaohs-secret.json](./309030-pharaohs-secret.json) |
 | Pharaoh's Tomb | 262092 | [262092-pharaohs-tomb.json](./262092-pharaohs-tomb.json) |
 | Pharaoh's Tomb | 35505 | [35505-pharaohs-tomb.json](./35505-pharaohs-tomb.json) |
@@ -4812,6 +4816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Adventure: Exploration | 96005 | [96005-pixel-adventure-exploration.json](./96005-pixel-adventure-exploration.json) |
 | Pixel Anarchy Online | 137974 | [137974-pixel-anarchy-online.json](./137974-pixel-anarchy-online.json) |
 | Pixel Aquarium | 400536 | [400536-pixel-aquarium.json](./400536-pixel-aquarium.json) |
+| Pixel Arcade | 319281 | [319281-pixel-arcade.json](./319281-pixel-arcade.json) |
 | Pixel Art Academy: Learn Mode | 270752 | [270752-pixel-art-academy-learn-mode.json](./270752-pixel-art-academy-learn-mode.json) |
 | Pixel Art Bundle Vol. 1 | 132864 | [132864-pixel-art-bundle-vol-1.json](./132864-pixel-art-bundle-vol-1.json) |
 | Pixel Art Monster: Color by Number | 391688 | [391688-pixel-art-monster-color-by-number.json](./391688-pixel-art-monster-color-by-number.json) |
@@ -8744,6 +8749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Princess in Love | 67663 | [67663-princess-in-love.json](./67663-princess-in-love.json) |
 | Princess Isabella | 36318 | [36318-princess-isabella.json](./36318-princess-isabella.json) |
 | Princess Isabella: Return of the Curse | 17220 | [17220-princess-isabella-return-of-the-curse.json](./17220-princess-isabella-return-of-the-curse.json) |
+| Princess Jigsaw Bundle | 319310 | [319310-princess-jigsaw-bundle.json](./319310-princess-jigsaw-bundle.json) |
 | Princess Kaguya | 34914 | [34914-princess-kaguya.json](./34914-princess-kaguya.json) |
 | Princess Knight's Mission: Anna's Marvelous Adventures | 272946 | [272946-princess-knights-mission-annas-marvelous-adventures.json](./272946-princess-knights-mission-annas-marvelous-adventures.json) |
 | Princess Lana | 138687 | [138687-princess-lana.json](./138687-princess-lana.json) |
