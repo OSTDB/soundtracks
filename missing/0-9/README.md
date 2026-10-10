@@ -95,6 +95,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | *N Sync: Get to the Show | 94742 | [94742-n-sync-get-to-the-show.json](./94742-n-sync-get-to-the-show.json) |
 | //Todo: today | 112283 | [112283-todo-today.json](./112283-todo-today.json) |
 | /Connection Haunted | 147872 | [147872-connection-haunted.json](./147872-connection-haunted.json) |
+| /R | 329554 | [329554-r.json](./329554-r.json) |
 | \\\//\\/\\\/// | 139880 | [139880-.json](./139880-.json) |
 | & in the War I Find You | 178584 | [178584-and-in-the-war-i-find-you.json](./178584-and-in-the-war-i-find-you.json) |
 | #1 Pastime Bundle | 192408 | [192408-1-pastime-bundle.json](./192408-1-pastime-bundle.json) |
