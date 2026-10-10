@@ -272,6 +272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mad Taxi Simulator | 411739 | [411739-mad-taxi-simulator.json](./411739-mad-taxi-simulator.json) |
 | Mad Television Tycoon | 353814 | [353814-mad-television-tycoon.json](./353814-mad-television-tycoon.json) |
 | Mad Valley | 294135 | [294135-mad-valley.json](./294135-mad-valley.json) |
+| Mad Void | 321051 | [321051-mad-void.json](./321051-mad-void.json) |
 | Mad Way | 256285 | [256285-mad-way.json](./256285-mad-way.json) |
 | Mad Yu: Rural Idle | 412391 | [412391-mad-yu-rural-idle.json](./412391-mad-yu-rural-idle.json) |
 | Mad Zombie | 86562 | [86562-mad-zombie.json](./86562-mad-zombie.json) |
@@ -5102,6 +5103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meijin Tanigawa Kouji Tsuzumi Shogi | 385794 | [385794-meijin-tanigawa-kouji-tsuzumi-shogi.json](./385794-meijin-tanigawa-kouji-tsuzumi-shogi.json) |
 | Meikyu Wakusei des Paraiso | 182391 | [182391-meikyu-wakusei-des-paraiso.json](./182391-meikyu-wakusei-des-paraiso.json) |
 | Meikyuu Cross Blood: Infinity - Ultimate | 248796 | [248796-meikyuu-cross-blood-infinity-ultimate.json](./248796-meikyuu-cross-blood-infinity-ultimate.json) |
+| Meikyuu Gou Mayoroba | 321059 | [321059-meikyuu-gou-mayoroba.json](./321059-meikyuu-gou-mayoroba.json) |
 | Meikyuu Jiin Dababa | 41290 | [41290-meikyuu-jiin-dababa.json](./41290-meikyuu-jiin-dababa.json) |
 | Meikyuu Machi no Grace | 212893 | [212893-meikyuu-machi-no-grace.json](./212893-meikyuu-machi-no-grace.json) |
 | Meikyuu Ryuuki | 284319 | [284319-meikyuu-ryuuki.json](./284319-meikyuu-ryuuki.json) |
