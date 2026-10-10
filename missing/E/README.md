@@ -319,6 +319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Easy Jigsaw Puzzle | 377174 | [377174-easy-jigsaw-puzzle.json](./377174-easy-jigsaw-puzzle.json) |
 | Easy Joe | 92462 | [92462-easy-joe.json](./92462-easy-joe.json) |
 | Easy Piano | 25168 | [25168-easy-piano.json](./25168-easy-piano.json) |
+| Easy Puzzle | 331390 | [331390-easy-puzzle.json](./331390-easy-puzzle.json) |
 | Easy puzzle: Bridges | 248921 | [248921-easy-puzzle-bridges.json](./248921-easy-puzzle-bridges.json) |
 | Easy puzzle: Landscape | 248928 | [248928-easy-puzzle-landscape.json](./248928-easy-puzzle-landscape.json) |
 | Easy puzzle: Streets | 287765 | [287765-easy-puzzle-streets.json](./287765-easy-puzzle-streets.json) |
@@ -3279,6 +3280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape the SoulKeeper's Forest | 176829 | [176829-escape-the-soulkeepers-forest.json](./176829-escape-the-soulkeepers-forest.json) |
 | Escape the Tank | 153362 | [153362-escape-the-tank.json](./153362-escape-the-tank.json) |
 | Escape the Testing Facility | 337659 | [337659-escape-the-testing-facility.json](./337659-escape-the-testing-facility.json) |
+| Escape the Tower | 331283 | [331283-escape-the-tower.json](./331283-escape-the-tower.json) |
 | Escape the Undertaker | 256839 | [256839-escape-the-undertaker.json](./256839-escape-the-undertaker.json) |
 | Escape the Virus: Shoot 'Em Up! | 85119 | [85119-escape-the-virus-shoot-em-up.json](./85119-escape-the-virus-shoot-em-up.json) |
 | Escape the Void | 183920 | [183920-escape-the-void.json](./183920-escape-the-void.json) |
