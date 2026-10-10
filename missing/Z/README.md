@@ -801,6 +801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zoku: The Legend of Bishin | 38239 | [38239-zoku-the-legend-of-bishin.json](./38239-zoku-the-legend-of-bishin.json) |
 | Zolana: Girl Galactic | 404943 | [404943-zolana-girl-galactic.json](./404943-zolana-girl-galactic.json) |
 | Zolaris | 153454 | [153454-zolaris.json](./153454-zolaris.json) |
+| Zoltan's Curse | 302158 | [302158-zoltans-curse.json](./302158-zoltans-curse.json) |
 | Zolyx | 52202 | [52202-zolyx.json](./52202-zolyx.json) |
 | Zom Nom | 127768 | [127768-zom-nom.json](./127768-zom-nom.json) |
 | Zom Tom | 199372 | [199372-zom-tom.json](./199372-zom-tom.json) |
