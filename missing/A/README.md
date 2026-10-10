@@ -446,6 +446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Magical High School Girl | 30533 | [30533-a-magical-high-school-girl.json](./30533-a-magical-high-school-girl.json) |
 | A Magical Tale: Cavern Crawler | 134995 | [134995-a-magical-tale-cavern-crawler.json](./134995-a-magical-tale-cavern-crawler.json) |
 | A Magical Tale: Revoke DX | 381603 | [381603-a-magical-tale-revoke-dx.json](./381603-a-magical-tale-revoke-dx.json) |
+| A Maiden's Serenade | 302680 | [302680-a-maidens-serenade.json](./302680-a-maidens-serenade.json) |
 | A Male Me Dressed up and Was Loved | 82878 | [82878-a-male-me-dressed-up-and-was-loved.json](./82878-a-male-me-dressed-up-and-was-loved.json) |
 | A Mallard's Song | 282087 | [282087-a-mallards-song.json](./282087-a-mallards-song.json) |
 | A Man with a Monocle | 25005 | [25005-a-man-with-a-monocle.json](./25005-a-man-with-a-monocle.json) |
@@ -3070,6 +3071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AIR Summer Solstice | 308416 | [308416-air-summer-solstice.json](./308416-air-summer-solstice.json) |
 | Air Supremacy | 12281 | [12281-air-supremacy.json](./12281-air-supremacy.json) |
 | Air Tactical | 55224 | [55224-air-tactical.json](./55224-air-tactical.json) |
+| Air Tennis | 302760 | [302760-air-tennis.json](./302760-air-tennis.json) |
 | Air Threat | 97276 | [97276-air-threat.json](./97276-air-threat.json) |
 | Air Time | 179993 | [179993-air-time.json](./179993-air-time.json) |
 | Air Toons | 364397 | [364397-air-toons.json](./364397-air-toons.json) |
@@ -3497,6 +3499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alaska Solitaire Classic Card Game | 337804 | [337804-alaska-solitaire-classic-card-game.json](./337804-alaska-solitaire-classic-card-game.json) |
 | Alaska: An Endless Night | 350429 | [350429-alaska-an-endless-night.json](./350429-alaska-an-endless-night.json) |
 | Alaskan Malamute G.C. | 240891 | [240891-alaskan-malamute-g-c.json](./240891-alaskan-malamute-g-c.json) |
+| Alaskan Road Truckers: Highway Edition | 302737 | [302737-alaskan-road-truckers-highway-edition.json](./302737-alaskan-road-truckers-highway-edition.json) |
 | Alaskan Road Truckers: Highway Edition - Cosmetic Bundle | 331447 | [331447-alaskan-road-truckers-highway-edition-cosmetic-bundle.json](./331447-alaskan-road-truckers-highway-edition-cosmetic-bundle.json) |
 | Alaskan Road Truckers: Truck Skin Pack | 323265 | [323265-alaskan-road-truckers-truck-skin-pack.json](./323265-alaskan-road-truckers-truck-skin-pack.json) |
 | Alastrius | 383582 | [383582-alastrius.json](./383582-alastrius.json) |
