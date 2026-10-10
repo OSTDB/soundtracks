@@ -2500,6 +2500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Penguin Weapons | 405067 | [405067-penguin-weapons.json](./405067-penguin-weapons.json) |
 | Penguin with a Pumpgun | 235869 | [235869-penguin-with-a-pumpgun.json](./235869-penguin-with-a-pumpgun.json) |
 | Penguin-kun Gira-Gira Wars | 54924 | [54924-penguin-kun-gira-gira-wars.json](./54924-penguin-kun-gira-gira-wars.json) |
+| Penguin: Sokoban Adventure | 313459 | [313459-penguin-sokoban-adventure.json](./313459-penguin-sokoban-adventure.json) |
 | Penguin's Love | 361639 | [361639-penguins-love.json](./361639-penguins-love.json) |
 | Penguin's Road | 304822 | [304822-penguins-road.json](./304822-penguins-road.json) |
 | PenguInn | 223951 | [223951-penguinn.json](./223951-penguinn.json) |
@@ -7019,6 +7020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon: Close Combat | 266866 | [266866-pokemon-close-combat.json](./266866-pokemon-close-combat.json) |
 | Pokémon: Desert Bus | 313114 | [313114-pokemon-desert-bus.json](./313114-pokemon-desert-bus.json) |
 | Pokémon: Emerald Backwards | 342184 | [342184-pokemon-emerald-backwards.json](./342184-pokemon-emerald-backwards.json) |
+| Pokémon: Final Legacy | 313406 | [313406-pokemon-final-legacy.json](./313406-pokemon-final-legacy.json) |
 | Pokémon: Ghost Grey Version | 414524 | [414524-pokemon-ghost-grey-version.json](./414524-pokemon-ghost-grey-version.json) |
 | Pokémon: Golden Emerald | 298034 | [298034-pokemon-golden-emerald.json](./298034-pokemon-golden-emerald.json) |
 | Pokémon: Legends of the Arena | 135872 | [135872-pokemon-legends-of-the-arena.json](./135872-pokemon-legends-of-the-arena.json) |
@@ -11012,6 +11014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Master 5 | 209364 | [209364-puzzle-master-5.json](./209364-puzzle-master-5.json) |
 | Puzzle Master 64 | 300253 | [300253-puzzle-master-64.json](./300253-puzzle-master-64.json) |
 | Puzzle Master Deluxe Suite | 209365 | [209365-puzzle-master-deluxe-suite.json](./209365-puzzle-master-deluxe-suite.json) |
+| Puzzle Master: The Ultimate Challenge of Wits | 313442 | [313442-puzzle-master-the-ultimate-challenge-of-wits.json](./313442-puzzle-master-the-ultimate-challenge-of-wits.json) |
 | Puzzle Masters | 104657 | [104657-puzzle-masters.json](./104657-puzzle-masters.json) |
 | Puzzle Masters | 312682 | [312682-puzzle-masters.json](./312682-puzzle-masters.json) |
 | Puzzle Mate DS: Crossword Mate | 306451 | [306451-puzzle-mate-ds-crossword-mate.json](./306451-puzzle-mate-ds-crossword-mate.json) |
