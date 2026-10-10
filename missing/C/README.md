@@ -1322,6 +1322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Card Hunter | 17231 | [17231-card-hunter.json](./17231-card-hunter.json) |
 | Card Killer | 158089 | [158089-card-killer.json](./158089-card-killer.json) |
 | Card Lords | 251203 | [251203-card-lords.json](./251203-card-lords.json) |
+| Card Miner | 295650 | [295650-card-miner.json](./295650-card-miner.json) |
 | Card Party | 49520 | [49520-card-party.json](./49520-card-party.json) |
 | Card Princess | 335330 | [335330-card-princess.json](./335330-card-princess.json) |
 | Card Quest | 301976 | [301976-card-quest.json](./301976-card-quest.json) |
@@ -5914,6 +5915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Claw Express | 270384 | [270384-claw-express.json](./270384-claw-express.json) |
 | Claw Machine Arcade | 303218 | [303218-claw-machine-arcade.json](./303218-claw-machine-arcade.json) |
 | Claw Machine Sim | 259013 | [259013-claw-machine-sim.json](./259013-claw-machine-sim.json) |
+| Clawball | 295640 | [295640-clawball.json](./295640-clawball.json) |
 | Clawbert: ToyTown | 96831 | [96831-clawbert-toytown.json](./96831-clawbert-toytown.json) |
 | Clawberta | 192191 | [192191-clawberta.json](./192191-clawberta.json) |
 | Clawed | 342028 | [342028-clawed.json](./342028-clawed.json) |
@@ -8534,6 +8536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cooking Arena Pancake Paradise | 316198 | [316198-cooking-arena-pancake-paradise.json](./316198-cooking-arena-pancake-paradise.json) |
 | Cooking Arena Ultimate Feast | 381808 | [381808-cooking-arena-ultimate-feast.json](./381808-cooking-arena-ultimate-feast.json) |
 | Cooking Arena World Tour Edition | 385196 | [385196-cooking-arena-world-tour-edition.json](./385196-cooking-arena-world-tour-edition.json) |
+| Cooking Arena: 10 in 1 Edition | 295678 | [295678-cooking-arena-10-in-1-edition.json](./295678-cooking-arena-10-in-1-edition.json) |
 | Cooking Arena: 3 in 1 Edition | 283176 | [283176-cooking-arena-3-in-1-edition.json](./283176-cooking-arena-3-in-1-edition.json) |
 | Cooking Arena: 5 in 1 Edition | 266171 | [266171-cooking-arena-5-in-1-edition.json](./266171-cooking-arena-5-in-1-edition.json) |
 | Cooking Arena: 6 in 1 Edition | 270297 | [270297-cooking-arena-6-in-1-edition.json](./270297-cooking-arena-6-in-1-edition.json) |
@@ -9829,6 +9832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CrateTastrophe | 164271 | [164271-cratetastrophe.json](./164271-cratetastrophe.json) |
 | Craving Wisps | 403210 | [403210-craving-wisps.json](./403210-craving-wisps.json) |
 | Crawl | 11049 | [11049-crawl.json](./11049-crawl.json) |
+| Crawl | 295634 | [295634-crawl.json](./295634-crawl.json) |
 | Crawl Space | 186064 | [186064-crawl-space.json](./186064-crawl-space.json) |
 | Crawl Space: The Mansion | 74674 | [74674-crawl-space-the-mansion.json](./74674-crawl-space-the-mansion.json) |
 | Crawl Tactics | 211211 | [211211-crawl-tactics.json](./211211-crawl-tactics.json) |
@@ -11117,6 +11121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crypt of the NecroDancer | 7886 | [7886-crypt-of-the-necrodancer.json](./7886-crypt-of-the-necrodancer.json) |
 | Crypt of the Necrodancer: Amplified | 26613 | [26613-crypt-of-the-necrodancer-amplified.json](./26613-crypt-of-the-necrodancer-amplified.json) |
 | Crypt of the Necrodancer: Collector's Edition | 139866 | [139866-crypt-of-the-necrodancer-collectors-edition.json](./139866-crypt-of-the-necrodancer-collectors-edition.json) |
+| Crypt of the NecroDancer: Hatsune Miku | 295649 | [295649-crypt-of-the-necrodancer-hatsune-miku.json](./295649-crypt-of-the-necrodancer-hatsune-miku.json) |
 | Crypt of the Necrodancer: Shovel Knight | 376071 | [376071-crypt-of-the-necrodancer-shovel-knight.json](./376071-crypt-of-the-necrodancer-shovel-knight.json) |
 | Crypt of the Serpent King: Remastered - 4K Edition | 208456 | [208456-crypt-of-the-serpent-king-remastered-4k-edition.json](./208456-crypt-of-the-serpent-king-remastered-4k-edition.json) |
 | Crypt of the Undead | 24862 | [24862-crypt-of-the-undead.json](./24862-crypt-of-the-undead.json) |
