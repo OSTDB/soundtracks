@@ -1320,6 +1320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ratchet & Clank: Going Commando | 1770 | [1770-ratchet-and-clank-going-commando.json](./1770-ratchet-and-clank-going-commando.json) |
 | Ratchet & Clank: Going Mobile | 134656 | [134656-ratchet-and-clank-going-mobile.json](./134656-ratchet-and-clank-going-mobile.json) |
 | Ratchet & Clank: Into the Nexus | 2589 | [2589-ratchet-and-clank-into-the-nexus.json](./2589-ratchet-and-clank-into-the-nexus.json) |
+| Ratchet & Clank: Premature Release | 288705 | [288705-ratchet-and-clank-premature-release.json](./288705-ratchet-and-clank-premature-release.json) |
 | Ratchet & Clank: Rift Apart - Digital Deluxe Edition | 407558 | [407558-ratchet-and-clank-rift-apart-digital-deluxe-edition.json](./407558-ratchet-and-clank-rift-apart-digital-deluxe-edition.json) |
 | Ratchet & Clank: Special Limited Edition | 212322 | [212322-ratchet-and-clank-special-limited-edition.json](./212322-ratchet-and-clank-special-limited-edition.json) |
 | Ratchet: Deadlocked | 1790 | [1790-ratchet-deadlocked.json](./1790-ratchet-deadlocked.json) |
