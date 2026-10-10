@@ -2895,6 +2895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Henry's Escape: Prison | 280327 | [280327-henrys-escape-prison.json](./280327-henrys-escape-prison.json) |
 | Henry's Forgotten Performance | 295778 | [295778-henrys-forgotten-performance.json](./295778-henrys-forgotten-performance.json) |
 | Henry's Hoard | 354568 | [354568-henrys-hoard.json](./354568-henrys-hoard.json) |
+| Hent-Ai Puzzle | 303669 | [303669-hent-ai-puzzle.json](./303669-hent-ai-puzzle.json) |
 | Hentai 15 Puzzle 2 | 236379 | [236379-hentai-15-puzzle-2.json](./236379-hentai-15-puzzle-2.json) |
 | Hentai 18+ | 261874 | [261874-hentai-18.json](./261874-hentai-18.json) |
 | Hentai 2+2=4 | 110176 | [110176-hentai-2-2-4.json](./110176-hentai-2-2-4.json) |
@@ -4130,6 +4131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Cats In Fallen Leaves Town | 311486 | [311486-hidden-cats-in-fallen-leaves-town.json](./311486-hidden-cats-in-fallen-leaves-town.json) |
 | Hidden Cats in Istanbul | 365755 | [365755-hidden-cats-in-istanbul.json](./365755-hidden-cats-in-istanbul.json) |
 | Hidden Cats In Japanese Village | 305137 | [305137-hidden-cats-in-japanese-village.json](./305137-hidden-cats-in-japanese-village.json) |
+| Hidden Cats in Jigsaw Puzzle | 303668 | [303668-hidden-cats-in-jigsaw-puzzle.json](./303668-hidden-cats-in-jigsaw-puzzle.json) |
 | Hidden Cats in Jigsaw Puzzle: Berlin | 312701 | [312701-hidden-cats-in-jigsaw-puzzle-berlin.json](./312701-hidden-cats-in-jigsaw-puzzle-berlin.json) |
 | Hidden Cats in Jigsaw Puzzle: London | 312700 | [312700-hidden-cats-in-jigsaw-puzzle-london.json](./312700-hidden-cats-in-jigsaw-puzzle-london.json) |
 | Hidden Cats in Jigsaw Puzzle: New York | 312699 | [312699-hidden-cats-in-jigsaw-puzzle-new-york.json](./312699-hidden-cats-in-jigsaw-puzzle-new-york.json) |
@@ -7289,6 +7291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunted: The Demon's Forge | 505 | [505-hunted-the-demons-forge.json](./505-hunted-the-demons-forge.json) |
 | Hunter | 112716 | [112716-hunter.json](./112716-hunter.json) |
 | Hunter | 12149 | [12149-hunter.json](./12149-hunter.json) |
+| Hunter | 303816 | [303816-hunter.json](./303816-hunter.json) |
 | Hunter A Hunter | 192461 | [192461-hunter-a-hunter.json](./192461-hunter-a-hunter.json) |
 | Hunter and Tavern | 374664 | [374664-hunter-and-tavern.json](./374664-hunter-and-tavern.json) |
 | Hunter Assassin | 130293 | [130293-hunter-assassin.json](./130293-hunter-assassin.json) |
