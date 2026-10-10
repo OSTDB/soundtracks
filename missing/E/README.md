@@ -74,11 +74,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EA Sports FC Tactical | 302626 | [302626-ea-sports-fc-tactical.json](./302626-ea-sports-fc-tactical.json) |
 | EA Sports Madden NFL 25: Deluxe Edition | 301508 | [301508-ea-sports-madden-nfl-25-deluxe-edition.json](./301508-ea-sports-madden-nfl-25-deluxe-edition.json) |
 | EA Sports MMA | 6984 | [6984-ea-sports-mma.json](./6984-ea-sports-mma.json) |
+| EA Sports MVP Bundle | 308590 | [308590-ea-sports-mvp-bundle.json](./308590-ea-sports-mvp-bundle.json) |
 | EA Sports NASCAR Racing | 269525 | [269525-ea-sports-nascar-racing.json](./269525-ea-sports-nascar-racing.json) |
 | EA Sports PGA Tour | 145232 | [145232-ea-sports-pga-tour.json](./145232-ea-sports-pga-tour.json) |
 | EA Sports UFC 3 | 75297 | [75297-ea-sports-ufc-3.json](./75297-ea-sports-ufc-3.json) |
 | EA Sports UFC 3: Deluxe Edition | 118728 | [118728-ea-sports-ufc-3-deluxe-edition.json](./118728-ea-sports-ufc-3-deluxe-edition.json) |
 | EA Sports UFC 5: Mike Tyson | 297457 | [297457-ea-sports-ufc-5-mike-tyson.json](./297457-ea-sports-ufc-5-mike-tyson.json) |
+| EA Sports UFC 5: Ultimate Edition | 308591 | [308591-ea-sports-ufc-5-ultimate-edition.json](./308591-ea-sports-ufc-5-ultimate-edition.json) |
 | EA Sports UFC 6 | 400095 | [400095-ea-sports-ufc-6.json](./400095-ea-sports-ufc-6.json) |
 | EA Sports UFC 6: Ultimate Edition | 402962 | [402962-ea-sports-ufc-6-ultimate-edition.json](./402962-ea-sports-ufc-6-ultimate-edition.json) |
 | EA Sports UFC Mobile | 218949 | [218949-ea-sports-ufc-mobile.json](./218949-ea-sports-ufc-mobile.json) |
