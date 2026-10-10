@@ -2639,6 +2639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orun | 411713 | [411713-orun.json](./411713-orun.json) |
 | Oruna | 139420 | [139420-oruna.json](./139420-oruna.json) |
 | Orwell: Ignorance Is Strength - Deluxe Edition | 227187 | [227187-orwell-ignorance-is-strength-deluxe-edition.json](./227187-orwell-ignorance-is-strength-deluxe-edition.json) |
+| Oryks | 311159 | [311159-oryks.json](./311159-oryks.json) |
 | Orzmic | 174689 | [174689-orzmic.json](./174689-orzmic.json) |
 | Os Cavaleiros do Zodíaco: A Lenda do Santuário - Cosmo Cards | 282131 | [282131-os-cavaleiros-do-zodiaco-a-lenda-do-santuario-cosmo-cards.json](./282131-os-cavaleiros-do-zodiaco-a-lenda-do-santuario-cosmo-cards.json) |
 | Os Trapalhões apresentam Didi na Mina Encantada! | 262416 | [262416-os-trapalhoes-apresentam-didi-na-mina-encantada.json](./262416-os-trapalhoes-apresentam-didi-na-mina-encantada.json) |
