@@ -166,6 +166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wake | 307750 | [307750-wake.json](./307750-wake.json) |
 | Wake | 95390 | [95390-wake.json](./95390-wake.json) |
 | Wake & Lunnye Devitsy | 50829 | [50829-wake-and-lunnye-devitsy.json](./50829-wake-and-lunnye-devitsy.json) |
+| Wake Cup | 292446 | [292446-wake-cup.json](./292446-wake-cup.json) |
 | Wake Me Up If You Need Me | 299568 | [299568-wake-me-up-if-you-need-me.json](./299568-wake-me-up-if-you-need-me.json) |
 | Wake of Ragnarok | 211274 | [211274-wake-of-ragnarok.json](./211274-wake-of-ragnarok.json) |
 | Wake Out of Twilight | 150286 | [150286-wake-out-of-twilight.json](./150286-wake-out-of-twilight.json) |
@@ -354,6 +355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Walpurgis: Enkan no Meikyuu | 205252 | [205252-walpurgis-enkan-no-meikyuu.json](./205252-walpurgis-enkan-no-meikyuu.json) |
 | Walpurgisnacht | 252086 | [252086-walpurgisnacht.json](./252086-walpurgisnacht.json) |
 | Walrus Fly | 406690 | [406690-walrus-fly.json](./406690-walrus-fly.json) |
+| Walrus Run | 292436 | [292436-walrus-run.json](./292436-walrus-run.json) |
 | Walt Disney World Quest: Magical Racing Tour | 8129 | [8129-walt-disney-world-quest-magical-racing-tour.json](./8129-walt-disney-world-quest-magical-racing-tour.json) |
 | Walt Disney's Snow White and the Seven Dwarfs | 59938 | [59938-walt-disneys-snow-white-and-the-seven-dwarfs.json](./59938-walt-disneys-snow-white-and-the-seven-dwarfs.json) |
 | Walt Disney's Snow White and the Seven Dwarves | 198896 | [198896-walt-disneys-snow-white-and-the-seven-dwarves.json](./198896-walt-disneys-snow-white-and-the-seven-dwarves.json) |
@@ -1824,6 +1826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We Were Here Together | 109535 | [109535-we-were-here-together.json](./109535-we-were-here-together.json) |
 | We Were Here Tomorrow | 393015 | [393015-we-were-here-tomorrow.json](./393015-we-were-here-tomorrow.json) |
 | We Were Here Too | 54486 | [54486-we-were-here-too.json](./54486-we-were-here-too.json) |
+| We Were Monkeys | 292437 | [292437-we-were-monkeys.json](./292437-we-were-monkeys.json) |
 | We Who Rise | 358814 | [358814-we-who-rise.json](./358814-we-who-rise.json) |
 | We Will Be Gods | 342716 | [342716-we-will-be-gods.json](./342716-we-will-be-gods.json) |
 | We, Junk Artists | 369043 | [369043-we-junk-artists.json](./369043-we-junk-artists.json) |
