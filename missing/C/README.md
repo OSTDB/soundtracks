@@ -1803,6 +1803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cartoony Cars 2 | 110773 | [110773-cartoony-cars-2.json](./110773-cartoony-cars-2.json) |
 | Cartridge Defense | 132277 | [132277-cartridge-defense.json](./132277-cartridge-defense.json) |
 | Cartridge Monsters | 158030 | [158030-cartridge-monsters.json](./158030-cartridge-monsters.json) |
+| Cartridge Monsters: Rebirth | 278920 | [278920-cartridge-monsters-rebirth.json](./278920-cartridge-monsters-rebirth.json) |
 | Carts Battle | 310071 | [310071-carts-battle.json](./310071-carts-battle.json) |
 | Carvalho: Los Pájaros de Bangkok | 138790 | [138790-carvalho-los-pajaros-de-bangkok.json](./138790-carvalho-los-pajaros-de-bangkok.json) |
 | Carve The Cave Together | 414602 | [414602-carve-the-cave-together.json](./414602-carve-the-cave-together.json) |
@@ -6498,6 +6499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cluck and Tag | 389702 | [389702-cluck-and-tag.json](./389702-cluck-and-tag.json) |
 | Cluck Avengers | 299407 | [299407-cluck-avengers.json](./299407-cluck-avengers.json) |
 | Cluck Cluck'em | 183456 | [183456-cluck-cluckem.json](./183456-cluck-cluckem.json) |
+| Cluck Frenzy | 278915 | [278915-cluck-frenzy.json](./278915-cluck-frenzy.json) |
 | Cluck-a-Thon | 258116 | [258116-cluck-a-thon.json](./258116-cluck-a-thon.json) |
 | Cluckles' Adventure | 29221 | [29221-cluckles-adventure.json](./29221-cluckles-adventure.json) |
 | Cluckmech Oasis | 275812 | [275812-cluckmech-oasis.json](./275812-cluckmech-oasis.json) |
@@ -7097,6 +7099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | College Seduction | 379536 | [379536-college-seduction.json](./379536-college-seduction.json) |
 | College Sex Fest 2024 | 297095 | [297095-college-sex-fest-2024.json](./297095-college-sex-fest-2024.json) |
 | College Sex Party | 265776 | [265776-college-sex-party.json](./265776-college-sex-party.json) |
+| College Sex: Episode 5 | 278944 | [278944-college-sex-episode-5.json](./278944-college-sex-episode-5.json) |
 | College Sex: Episode 6 | 285603 | [285603-college-sex-episode-6.json](./285603-college-sex-episode-6.json) |
 | College Slam | 365698 | [365698-college-slam.json](./365698-college-slam.json) |
 | College Wrestling Manager 2026 | 384514 | [384514-college-wrestling-manager-2026.json](./384514-college-wrestling-manager-2026.json) |
@@ -11934,6 +11937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curse | 31822 | [31822-curse.json](./31822-curse.json) |
 | Curse Ahoy! | 176305 | [176305-curse-ahoy.json](./176305-curse-ahoy.json) |
 | Curse Chapter: Dawnthief | 382365 | [382365-curse-chapter-dawnthief.json](./382365-curse-chapter-dawnthief.json) |
+| Curse Errant | 278928 | [278928-curse-errant.json](./278928-curse-errant.json) |
 | Curse in our heads | 103452 | [103452-curse-in-our-heads.json](./103452-curse-in-our-heads.json) |
 | Curse of Anabelle | 122826 | [122826-curse-of-anabelle.json](./122826-curse-of-anabelle.json) |
 | Curse of Blood | 312893 | [312893-curse-of-blood.json](./312893-curse-of-blood.json) |
