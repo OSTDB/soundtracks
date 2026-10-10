@@ -4849,6 +4849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Christmas Fables: The Wishing Store - Collector's Edition | 337272 | [337272-christmas-fables-the-wishing-store-collectors-edition.json](./337272-christmas-fables-the-wishing-store-collectors-edition.json) |
 | Christmas Fishing | 419830 | [419830-christmas-fishing.json](./419830-christmas-fishing.json) |
 | Christmas Fun | 226312 | [226312-christmas-fun.json](./226312-christmas-fun.json) |
+| Christmas Girls | 279522 | [279522-christmas-girls.json](./279522-christmas-girls.json) |
 | Christmas Griddlers | 168903 | [168903-christmas-griddlers.json](./168903-christmas-griddlers.json) |
 | Christmas Griddlers: Journey to Santa | 88653 | [88653-christmas-griddlers-journey-to-santa.json](./88653-christmas-griddlers-journey-to-santa.json) |
 | Christmas Hair Salon | 96837 | [96837-christmas-hair-salon.json](./96837-christmas-hair-salon.json) |
@@ -4929,6 +4930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Christmas Wonderland 13 | 291155 | [291155-christmas-wonderland-13.json](./291155-christmas-wonderland-13.json) |
 | Christmas Wonderland 13: Collector's Edition | 227929 | [227929-christmas-wonderland-13-collectors-edition.json](./227929-christmas-wonderland-13-collectors-edition.json) |
 | Christmas Wonderland 14 | 417593 | [417593-christmas-wonderland-14.json](./417593-christmas-wonderland-14.json) |
+| Christmas Wonderland 14: Collector's Edition | 279536 | [279536-christmas-wonderland-14-collectors-edition.json](./279536-christmas-wonderland-14-collectors-edition.json) |
 | Christmas Wonderland 15 | 417594 | [417594-christmas-wonderland-15.json](./417594-christmas-wonderland-15.json) |
 | Christmas Wonderland 16 | 417595 | [417595-christmas-wonderland-16.json](./417595-christmas-wonderland-16.json) |
 | Christmas Wonderland 16: Collector's Edition | 416785 | [416785-christmas-wonderland-16-collectors-edition.json](./416785-christmas-wonderland-16-collectors-edition.json) |
@@ -6999,6 +7001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coldwake | 347654 | [347654-coldwake.json](./347654-coldwake.json) |
 | ColdWire | 328000 | [328000-coldwire.json](./328000-coldwire.json) |
 | Coldy Drinkeria | 316077 | [316077-coldy-drinkeria.json](./316077-coldy-drinkeria.json) |
+| Cole Dingo's Vtuber Blackjack | 279533 | [279533-cole-dingos-vtuber-blackjack.json](./279533-cole-dingos-vtuber-blackjack.json) |
 | Cole Hunter: Payback | 383730 | [383730-cole-hunter-payback.json](./383730-cole-hunter-payback.json) |
 | Cole's Christmas 2024: GoonQuest | 327419 | [327419-coles-christmas-2024-goonquest.json](./327419-coles-christmas-2024-goonquest.json) |
 | Colecionador Show do Milhão | 222352 | [222352-colecionador-show-do-milhao.json](./222352-colecionador-show-do-milhao.json) |
