@@ -690,6 +690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pandemic: The Board Game - On the Brink: Roles & Events | 171930 | [171930-pandemic-the-board-game-on-the-brink-roles-and-events.json](./171930-pandemic-the-board-game-on-the-brink-roles-and-events.json) |
 | Pandemic: The Virus Outbreak | 202213 | [202213-pandemic-the-virus-outbreak.json](./202213-pandemic-the-virus-outbreak.json) |
 | Pandemommyum! Hot Single Moms in My Area | 257951 | [257951-pandemommyum-hot-single-moms-in-my-area.json](./257951-pandemommyum-hot-single-moms-in-my-area.json) |
+| Pandemonia | 317530 | [317530-pandemonia.json](./317530-pandemonia.json) |
 | Pandemonium | 128466 | [128466-pandemonium.json](./128466-pandemonium.json) |
 | Pandemonium 2 | 6269 | [6269-pandemonium-2.json](./6269-pandemonium-2.json) |
 | Pando Engines | 211193 | [211193-pando-engines.json](./211193-pando-engines.json) |
@@ -1495,6 +1496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parkour Assassin: Sprint Run 2 | 391037 | [391037-parkour-assassin-sprint-run-2.json](./391037-parkour-assassin-sprint-run-2.json) |
 | Parkour Block 3D | 334838 | [334838-parkour-block-3d.json](./334838-parkour-block-3d.json) |
 | Parkour Bot | 149201 | [149201-parkour-bot.json](./149201-parkour-bot.json) |
+| Parkour Bullet Frenzy: FPS, Physics, Slowmotion | 317556 | [317556-parkour-bullet-frenzy-fps-physics-slowmotion.json](./317556-parkour-bullet-frenzy-fps-physics-slowmotion.json) |
 | Parkour Chief: Chapter Secret Agent | 341595 | [341595-parkour-chief-chapter-secret-agent.json](./341595-parkour-chief-chapter-secret-agent.json) |
 | Parkour Every Day | 292167 | [292167-parkour-every-day.json](./292167-parkour-every-day.json) |
 | Parkour Flight | 86876 | [86876-parkour-flight.json](./86876-parkour-flight.json) |
@@ -2461,6 +2463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Penguin Chat 2 | 353302 | [353302-penguin-chat-2.json](./353302-penguin-chat-2.json) |
 | Penguin Chat 3 | 227928 | [227928-penguin-chat-3.json](./227928-penguin-chat-3.json) |
 | Penguin Colony | 354409 | [354409-penguin-colony.json](./354409-penguin-colony.json) |
+| Penguin Detectives: Crash Patrol | 317555 | [317555-penguin-detectives-crash-patrol.json](./317555-penguin-detectives-crash-patrol.json) |
 | Penguin Escape | 326236 | [326236-penguin-escape.json](./326236-penguin-escape.json) |
 | Penguin Flight | 328443 | [328443-penguin-flight.json](./328443-penguin-flight.json) |
 | Penguin Flight: Beyond The Clouds | 342149 | [342149-penguin-flight-beyond-the-clouds.json](./342149-penguin-flight-beyond-the-clouds.json) |
@@ -2733,6 +2736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perhaps When We Dream | 114945 | [114945-perhaps-when-we-dream.json](./114945-perhaps-when-we-dream.json) |
 | Peria Chronicles | 61692 | [61692-peria-chronicles.json](./61692-peria-chronicles.json) |
 | Periapsis: Eclipse | 348215 | [348215-periapsis-eclipse.json](./348215-periapsis-eclipse.json) |
+| Periculum | 317542 | [317542-periculum.json](./317542-periculum.json) |
 | Peridium | 54895 | [54895-peridium.json](./54895-peridium.json) |
 | Perigee | 83950 | [83950-perigee.json](./83950-perigee.json) |
 | Perihelion: The Prophecy | 72287 | [72287-perihelion-the-prophecy.json](./72287-perihelion-the-prophecy.json) |
@@ -6331,6 +6335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Slaughter | 257417 | [257417-pocket-slaughter.json](./257417-pocket-slaughter.json) |
 | Pocket Slimes | 192949 | [192949-pocket-slimes.json](./192949-pocket-slimes.json) |
 | Pocket Soccer | 187244 | [187244-pocket-soccer.json](./187244-pocket-soccer.json) |
+| Pocket Souls | 317523 | [317523-pocket-souls.json](./317523-pocket-souls.json) |
 | Pocket Spouse | 366114 | [366114-pocket-spouse.json](./366114-pocket-spouse.json) |
 | Pocket Squid Fishing | 248282 | [248282-pocket-squid-fishing.json](./248282-pocket-squid-fishing.json) |
 | Pocket Stadium | 337256 | [337256-pocket-stadium.json](./337256-pocket-stadium.json) |
@@ -8675,6 +8680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Primo Richards: Case 1 | 302150 | [302150-primo-richards-case-1.json](./302150-primo-richards-case-1.json) |
 | Primordial | 158671 | [158671-primordial.json](./158671-primordial.json) |
 | Primordial Soup | 401863 | [401863-primordial-soup.json](./401863-primordial-soup.json) |
+| Primordialis | 317541 | [317541-primordialis.json](./317541-primordialis.json) |
 | Primordials: Battle of Gods | 137978 | [137978-primordials-battle-of-gods.json](./137978-primordials-battle-of-gods.json) |
 | Primordian | 81241 | [81241-primordian.json](./81241-primordian.json) |
 | Primordio | 400906 | [400906-primordio.json](./400906-primordio.json) |
