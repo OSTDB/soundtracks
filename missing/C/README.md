@@ -2612,6 +2612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catherine: Full Body - Heart's Desire Premium Edition | 72067 | [72067-catherine-full-body-hearts-desire-premium-edition.json](./72067-catherine-full-body-hearts-desire-premium-edition.json) |
 | Catherine: Full Body - Launch Edition | 136327 | [136327-catherine-full-body-launch-edition.json](./136327-catherine-full-body-launch-edition.json) |
 | Catherna's Destiny | 323415 | [323415-cathernas-destiny.json](./323415-cathernas-destiny.json) |
+| Cathode Ray Sunshine | 290340 | [290340-cathode-ray-sunshine.json](./290340-cathode-ray-sunshine.json) |
 | Cathode Ray Tube Amusement Device | 11321 | [11321-cathode-ray-tube-amusement-device.json](./11321-cathode-ray-tube-amusement-device.json) |
 | Cathode-ray Tube Amusement Device Simulator | 340018 | [340018-cathode-ray-tube-amusement-device-simulator.json](./340018-cathode-ray-tube-amusement-device-simulator.json) |
 | Cathode's Journey | 232029 | [232029-cathodes-journey.json](./232029-cathodes-journey.json) |
@@ -4516,6 +4517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chitei Chousasen ni Hibiku Kodoku | 376678 | [376678-chitei-chousasen-ni-hibiku-kodoku.json](./376678-chitei-chousasen-ni-hibiku-kodoku.json) |
 | Chitei Kekkadou: The Blood Flower Dungeon | 137616 | [137616-chitei-kekkadou-the-blood-flower-dungeon.json](./137616-chitei-kekkadou-the-blood-flower-dungeon.json) |
 | Chitei Tairiku Orudoora | 41379 | [41379-chitei-tairiku-orudoora.json](./41379-chitei-tairiku-orudoora.json) |
+| Chitei Tanken | 290311 | [290311-chitei-tanken.json](./290311-chitei-tanken.json) |
 | Chitin | 335989 | [335989-chitin.json](./335989-chitin.json) |
 | Chitty Chitty Train | 194395 | [194395-chitty-chitty-train.json](./194395-chitty-chitty-train.json) |
 | ChivalBee and the Mycelium Menace | 388228 | [388228-chivalbee-and-the-mycelium-menace.json](./388228-chivalbee-and-the-mycelium-menace.json) |
@@ -8123,6 +8125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Connection: The Nightmare Within | 258117 | [258117-connection-the-nightmare-within.json](./258117-connection-the-nightmare-within.json) |
 | Connections | 12413 | [12413-connections.json](./12413-connections.json) |
 | Connections | 315093 | [315093-connections.json](./315093-connections.json) |
+| ConnecTrade | 290303 | [290303-connectrade.json](./290303-connectrade.json) |
 | Connectris | 79232 | [79232-connectris.json](./79232-connectris.json) |
 | Connie and the Essence of Chaos | 301325 | [301325-connie-and-the-essence-of-chaos.json](./301325-connie-and-the-essence-of-chaos.json) |
 | Connie Talbot: Over the Rainbow | 68099 | [68099-connie-talbot-over-the-rainbow.json](./68099-connie-talbot-over-the-rainbow.json) |
@@ -8189,6 +8192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conrad's Quest | 261418 | [261418-conrads-quest.json](./261418-conrads-quest.json) |
 | Conran: The Dinky Raccoon | 29086 | [29086-conran-the-dinky-raccoon.json](./29086-conran-the-dinky-raccoon.json) |
 | Conscience | 322058 | [322058-conscience.json](./322058-conscience.json) |
+| Conscientious Objector | 290347 | [290347-conscientious-objector.json](./290347-conscientious-objector.json) |
 | Conscious Existence - A Journey Within | 119690 | [119690-conscious-existence-a-journey-within.json](./119690-conscious-existence-a-journey-within.json) |
 | Conscript | 137619 | [137619-conscript.json](./137619-conscript.json) |
 | Conscript: Deluxe Edition | 308797 | [308797-conscript-deluxe-edition.json](./308797-conscript-deluxe-edition.json) |
