@@ -2354,6 +2354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Sing 2025 with International Hits | 317926 | [317926-lets-sing-2025-with-international-hits.json](./317926-lets-sing-2025-with-international-hits.json) |
 | Let's Sing 2025 with International Hits: Gold Edition | 317907 | [317907-lets-sing-2025-with-international-hits-gold-edition.json](./317907-lets-sing-2025-with-international-hits-gold-edition.json) |
 | Let's Sing 2025 with International Hits: Platinum Edition | 317906 | [317906-lets-sing-2025-with-international-hits-platinum-edition.json](./317906-lets-sing-2025-with-international-hits-platinum-edition.json) |
+| Let's Sing 2025 with UK Hits | 319313 | [319313-lets-sing-2025-with-uk-hits.json](./319313-lets-sing-2025-with-uk-hits.json) |
 | Let's Sing 2026 | 371252 | [371252-lets-sing-2026.json](./371252-lets-sing-2026.json) |
 | Let's Sing 2026 with International Hits | 371423 | [371423-lets-sing-2026-with-international-hits.json](./371423-lets-sing-2026-with-international-hits.json) |
 | Let's Sing 2026 with International Hits: Gold Edition | 371434 | [371434-lets-sing-2026-with-international-hits-gold-edition.json](./371434-lets-sing-2026-with-international-hits-gold-edition.json) |
@@ -3805,6 +3806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Viking | 197745 | [197745-little-viking.json](./197745-little-viking.json) |
 | Little Walker | 33388 | [33388-little-walker.json](./33388-little-walker.json) |
 | Little Warlings | 181763 | [181763-little-warlings.json](./181763-little-warlings.json) |
+| Little Warriors Team | 319284 | [319284-little-warriors-team.json](./319284-little-warriors-team.json) |
 | Little Weasel | 309485 | [309485-little-weasel.json](./309485-little-weasel.json) |
 | Little Wheel | 80829 | [80829-little-wheel.json](./80829-little-wheel.json) |
 | Little White Man | 381959 | [381959-little-white-man.json](./381959-little-white-man.json) |
@@ -3870,6 +3872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liuyin's World | 346566 | [346566-liuyins-world.json](./346566-liuyins-world.json) |
 | Liv | 386475 | [386475-liv.json](./386475-liv.json) |
 | Live A Live | 15835 | [15835-live-a-live.json](./15835-live-a-live.json) |
+| Live Action-Bit Theater "Route Yonroku" | 319312 | [319312-live-action-bit-theater-route-yonroku.json](./319312-live-action-bit-theater-route-yonroku.json) |
 | Live Adventure | 187298 | [187298-live-adventure.json](./187298-live-adventure.json) |
 | Live Ammo | 93030 | [93030-live-ammo.json](./93030-live-ammo.json) |
 | Live and Learn | 76931 | [76931-live-and-learn.json](./76931-live-and-learn.json) |
