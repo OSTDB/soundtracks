@@ -1472,6 +1472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Left Fore Dead: Zombie Battle Golf | 406646 | [406646-left-fore-dead-zombie-battle-golf.json](./406646-left-fore-dead-zombie-battle-golf.json) |
 | Left in the Dark: No One on Board | 17144 | [17144-left-in-the-dark-no-one-on-board.json](./17144-left-in-the-dark-no-one-on-board.json) |
 | Left on Read | 137527 | [137527-left-on-read.json](./137527-left-on-read.json) |
+| Left Right | 287584 | [287584-left-right.json](./287584-left-right.json) |
 | Left Right | 347283 | [347283-left-right.json](./347283-left-right.json) |
 | Left Right Dodge Race | 358352 | [358352-left-right-dodge-race.json](./358352-left-right-dodge-race.json) |
 | Left Stranded | 195199 | [195199-left-stranded.json](./195199-left-stranded.json) |
@@ -2149,6 +2150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leo And Tig | 389063 | [389063-leo-and-tig.json](./389063-leo-and-tig.json) |
 | Leo Spanish Spelling Complete | 108614 | [108614-leo-spanish-spelling-complete.json](./108614-leo-spanish-spelling-complete.json) |
 | Leo the Amazing Cat | 177422 | [177422-leo-the-amazing-cat.json](./177422-leo-the-amazing-cat.json) |
+| Leo the Firefighter Cat | 287582 | [287582-leo-the-firefighter-cat.json](./287582-leo-the-firefighter-cat.json) |
 | Leo the Lion | 124823 | [124823-leo-the-lion.json](./124823-leo-the-lion.json) |
 | Leo The Lost Kitten | 298807 | [298807-leo-the-lost-kitten.json](./298807-leo-the-lost-kitten.json) |
 | LEO: Low Earth Orbit | 351582 | [351582-leo-low-earth-orbit.json](./351582-leo-low-earth-orbit.json) |
