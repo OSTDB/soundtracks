@@ -2040,6 +2040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Indie Darling Bundle Vol.3 | 117528 | [117528-indie-darling-bundle-vol-3.json](./117528-indie-darling-bundle-vol-3.json) |
 | Indie Dev Story | 183878 | [183878-indie-dev-story.json](./183878-indie-dev-story.json) |
 | Indie Dream | 118975 | [118975-indie-dream.json](./118975-indie-dream.json) |
+| Indie Essentials: Walking Simulators | 308584 | [308584-indie-essentials-walking-simulators.json](./308584-indie-essentials-walking-simulators.json) |
 | Indie Essentials: Walking Simulators 2 | 332028 | [332028-indie-essentials-walking-simulators-2.json](./332028-indie-essentials-walking-simulators-2.json) |
 | Indie Game Battle | 34345 | [34345-indie-game-battle.json](./34345-indie-game-battle.json) |
 | Indie Game Sim | 26552 | [26552-indie-game-sim.json](./26552-indie-game-sim.json) |
