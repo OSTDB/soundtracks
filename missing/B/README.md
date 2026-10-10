@@ -4253,6 +4253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond Kung-Fu | 263650 | [263650-beyond-kung-fu.json](./263650-beyond-kung-fu.json) |
 | Beyond Lost Planets | 386300 | [386300-beyond-lost-planets.json](./386300-beyond-lost-planets.json) |
 | Beyond Magic | 32941 | [32941-beyond-magic.json](./32941-beyond-magic.json) |
+| Beyond Melee | 294576 | [294576-beyond-melee.json](./294576-beyond-melee.json) |
 | Beyond Memoria | 386302 | [386302-beyond-memoria.json](./386302-beyond-memoria.json) |
 | Beyond Memories: Darkness of the Soul | 328568 | [328568-beyond-memories-darkness-of-the-soul.json](./328568-beyond-memories-darkness-of-the-soul.json) |
 | Beyond Minimalism | 102923 | [102923-beyond-minimalism.json](./102923-beyond-minimalism.json) |
