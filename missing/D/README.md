@@ -2976,6 +2976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DeckEleven's Railroads | 87687 | [87687-deckelevens-railroads.json](./87687-deckelevens-railroads.json) |
 | DeckEleven's Railroads 2 | 244898 | [244898-deckelevens-railroads-2.json](./244898-deckelevens-railroads-2.json) |
 | Decker | 78254 | [78254-decker.json](./78254-decker.json) |
+| Deckfort Alchemist | 304312 | [304312-deckfort-alchemist.json](./304312-deckfort-alchemist.json) |
 | Deckline | 342637 | [342637-deckline.json](./342637-deckline.json) |
 | Decklings | 350476 | [350476-decklings.json](./350476-decklings.json) |
 | DeckMake Fantasy | 208015 | [208015-deckmake-fantasy.json](./208015-deckmake-fantasy.json) |
