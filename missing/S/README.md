@@ -42,6 +42,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | S.M.A.S.H.E.D. | 55108 | [55108-s-m-a-s-h-e-d.json](./55108-s-m-a-s-h-e-d.json) |
 | S.M.P.C.U.: Special Monster Pest Control Unit | 381279 | [381279-s-m-p-c-u-special-monster-pest-control-unit.json](./381279-s-m-p-c-u-special-monster-pest-control-unit.json) |
 | S.N.I.P.E.R: Hunter Scope - Hero's Edition | 387680 | [387680-s-n-i-p-e-r-hunter-scope-heros-edition.json](./387680-s-n-i-p-e-r-hunter-scope-heros-edition.json) |
+| S.N.I.P.E.R: Hunter Scope - Tactical Arsenal | 306551 | [306551-s-n-i-p-e-r-hunter-scope-tactical-arsenal.json](./306551-s-n-i-p-e-r-hunter-scope-tactical-arsenal.json) |
 | S.N.I.P.E.R. Hunter Scope Silent Assassin | 385175 | [385175-s-n-i-p-e-r-hunter-scope-silent-assassin.json](./385175-s-n-i-p-e-r-hunter-scope-silent-assassin.json) |
 | S.N.I.P.E.R. Hunter Scope Urban Warfare | 385174 | [385174-s-n-i-p-e-r-hunter-scope-urban-warfare.json](./385174-s-n-i-p-e-r-hunter-scope-urban-warfare.json) |
 | S.N.I.P.E.R.: Hunter Scope | 146758 | [146758-s-n-i-p-e-r-hunter-scope.json](./146758-s-n-i-p-e-r-hunter-scope.json) |
@@ -3649,6 +3650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Session: Skate Sim Year One & Two Edition | 331843 | [331843-session-skate-sim-year-one-and-two-edition.json](./331843-session-skate-sim-year-one-and-two-edition.json) |
 | Set 'N Det | 186861 | [186861-set-n-det.json](./186861-set-n-det.json) |
 | Set Sail | 192458 | [192458-set-sail.json](./192458-set-sail.json) |
+| Set Yourself on Fire | 306616 | [306616-set-yourself-on-fire.json](./306616-set-yourself-on-fire.json) |
 | Setback | 198558 | [198558-setback.json](./198558-setback.json) |
 | Seth | 278380 | [278380-seth.json](./278380-seth.json) |
 | Seth Johnson's Sink or Skim | 82144 | [82144-seth-johnsons-sink-or-skim.json](./82144-seth-johnsons-sink-or-skim.json) |
@@ -5089,6 +5091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shin Megami Tensei V: Vengeance - Mitama Dance of EXP | 315481 | [315481-shin-megami-tensei-v-vengeance-mitama-dance-of-exp.json](./315481-shin-megami-tensei-v-vengeance-mitama-dance-of-exp.json) |
 | Shin Megami Tensei V: Vengeance - Mitama Dance of Miracles | 315483 | [315483-shin-megami-tensei-v-vengeance-mitama-dance-of-miracles.json](./315483-shin-megami-tensei-v-vengeance-mitama-dance-of-miracles.json) |
 | Shin Megami Tensei V: Vengeance - Mitama Dance of Wealth | 315482 | [315482-shin-megami-tensei-v-vengeance-mitama-dance-of-wealth.json](./315482-shin-megami-tensei-v-vengeance-mitama-dance-of-wealth.json) |
+| Shin Megami Tensei V: Vengeance - Safety Difficulty | 306554 | [306554-shin-megami-tensei-v-vengeance-safety-difficulty.json](./306554-shin-megami-tensei-v-vengeance-safety-difficulty.json) |
 | Shin Megami Tensei V: Vengeance Randomizer | 364400 | [364400-shin-megami-tensei-v-vengeance-randomizer.json](./364400-shin-megami-tensei-v-vengeance-randomizer.json) |
 | Shin Megami Tensei Vertex | 142491 | [142491-shin-megami-tensei-vertex.json](./142491-shin-megami-tensei-vertex.json) |
 | Shin Megami Tensei: 20XX Devil's Colosseum | 137685 | [137685-shin-megami-tensei-20xx-devils-colosseum.json](./137685-shin-megami-tensei-20xx-devils-colosseum.json) |
@@ -12877,6 +12880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speed NFL | 289009 | [289009-speed-nfl.json](./289009-speed-nfl.json) |
 | Speed Night | 278689 | [278689-speed-night.json](./278689-speed-night.json) |
 | Speed or Death | 254053 | [254053-speed-or-death.json](./254053-speed-or-death.json) |
+| Speed Overflow | 306537 | [306537-speed-overflow.json](./306537-speed-overflow.json) |
 | Speed Power Gunbike | 92832 | [92832-speed-power-gunbike.json](./92832-speed-power-gunbike.json) |
 | Speed Race DX | 342140 | [342140-speed-race-dx.json](./342140-speed-race-dx.json) |
 | Speed Racer | 245401 | [245401-speed-racer.json](./245401-speed-racer.json) |
@@ -16448,6 +16452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stick War: Saga | 233777 | [233777-stick-war-saga.json](./233777-stick-war-saga.json) |
 | StickDodgeVR | 51573 | [51573-stickdodgevr.json](./51573-stickdodgevr.json) |
 | Sticker Business | 356738 | [356738-sticker-business.json](./356738-sticker-business.json) |
+| Sticker Clicker | 306722 | [306722-sticker-clicker.json](./306722-sticker-clicker.json) |
 | Stickerino | 396195 | [396195-stickerino.json](./396195-stickerino.json) |
 | Stickers for You | 306592 | [306592-stickers-for-you.json](./306592-stickers-for-you.json) |
 | Stickfight Battle | 197328 | [197328-stickfight-battle.json](./197328-stickfight-battle.json) |
@@ -22054,6 +22059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synapsis 2 | 299760 | [299760-synapsis-2.json](./299760-synapsis-2.json) |
 | Synaxarion Christian Stories: Great Martyr Christina of Tyre | 324476 | [324476-synaxarion-christian-stories-great-martyr-christina-of-tyre.json](./324476-synaxarion-christian-stories-great-martyr-christina-of-tyre.json) |
 | Synaxarion Christian Stories: Holy Martyr Neophytos | 313228 | [313228-synaxarion-christian-stories-holy-martyr-neophytos.json](./313228-synaxarion-christian-stories-holy-martyr-neophytos.json) |
+| Synaxarion: Great Martyr Theodore the Tyro | 306536 | [306536-synaxarion-great-martyr-theodore-the-tyro.json](./306536-synaxarion-great-martyr-theodore-the-tyro.json) |
 | Sync Together | 390109 | [390109-sync-together.json](./390109-sync-together.json) |
 | Sync Your Mind | 287748 | [287748-sync-your-mind.json](./287748-sync-your-mind.json) |
 | Sync: Party Hard | 146845 | [146845-sync-party-hard.json](./146845-sync-party-hard.json) |
