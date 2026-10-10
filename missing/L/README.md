@@ -3970,6 +3970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Live Rise!!: 4K Fever | 413072 | [413072-live-rise-4k-fever.json](./413072-live-rise-4k-fever.json) |
 | Live Shiver | 264709 | [264709-live-shiver.json](./264709-live-shiver.json) |
 | Live to Win | 129622 | [129622-live-to-win.json](./129622-live-to-win.json) |
+| Live together Now | 278919 | [278919-live-together-now.json](./278919-live-together-now.json) |
 | LiveGame.Show | 131349 | [131349-livegame-show.json](./131349-livegame-show.json) |
 | Lively Chair Simulator | 273118 | [273118-lively-chair-simulator.json](./273118-lively-chair-simulator.json) |
 | Lively Knight | 313412 | [313412-lively-knight.json](./313412-lively-knight.json) |
@@ -4829,6 +4830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lorera | 135769 | [135769-lorera.json](./135769-lorera.json) |
 | Lorerim | 383387 | [383387-lorerim.json](./383387-lorerim.json) |
 | Lorethem | 201557 | [201557-lorethem.json](./201557-lorethem.json) |
+| Lorhaven: Cursed War | 278927 | [278927-lorhaven-cursed-war.json](./278927-lorhaven-cursed-war.json) |
 | Loria | 111928 | [111928-loria.json](./111928-loria.json) |
 | Lorn Vale | 305172 | [305172-lorn-vale.json](./305172-lorn-vale.json) |
 | Lorn's Lure: Danny's Song | 321662 | [321662-lorns-lure-dannys-song.json](./321662-lorns-lure-dannys-song.json) |
@@ -5238,6 +5240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lotsa Blocks | 56580 | [56580-lotsa-blocks.json](./56580-lotsa-blocks.json) |
 | Lotte | 245815 | [245815-lotte.json](./245815-lotte.json) |
 | Lottery Center Simulator | 369723 | [369723-lottery-center-simulator.json](./369723-lottery-center-simulator.json) |
+| Lottery Winner | 278932 | [278932-lottery-winner.json](./278932-lottery-winner.json) |
 | Lottie! | 388890 | [388890-lottie.json](./388890-lottie.json) |
 | Lotto Fun | 312352 | [312352-lotto-fun.json](./312352-lotto-fun.json) |
 | Lottso! Express HD | 354977 | [354977-lottso-express-hd.json](./354977-lottso-express-hd.json) |
