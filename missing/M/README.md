@@ -396,6 +396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madela | 127859 | [127859-madela.json](./127859-madela.json) |
 | Madeline: European Adventures | 210114 | [210114-madeline-european-adventures.json](./210114-madeline-european-adventures.json) |
 | Mademoiselle Kshatriya | 367622 | [367622-mademoiselle-kshatriya.json](./367622-mademoiselle-kshatriya.json) |
+| MadFut 25 | 327873 | [327873-madfut-25.json](./327873-madfut-25.json) |
 | Madhack | 140449 | [140449-madhack.json](./140449-madhack.json) |
 | Madhouse13 | 204553 | [204553-madhouse13.json](./204553-madhouse13.json) |
 | Madievals | 120378 | [120378-madievals.json](./120378-madievals.json) |
@@ -2865,6 +2866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvel Rivals: Pick-Up Bundle | 355093 | [355093-marvel-rivals-pick-up-bundle.json](./355093-marvel-rivals-pick-up-bundle.json) |
 | Marvel Rivals: PlayStation Exclusive | 355092 | [355092-marvel-rivals-playstation-exclusive.json](./355092-marvel-rivals-playstation-exclusive.json) |
 | Marvel Rivals: Season 0 - Dooms' Rise | 325047 | [325047-marvel-rivals-season-0-dooms-rise.json](./325047-marvel-rivals-season-0-dooms-rise.json) |
+| Marvel Rivals: Season 1 - Eternal Night Falls | 327796 | [327796-marvel-rivals-season-1-eternal-night-falls.json](./327796-marvel-rivals-season-1-eternal-night-falls.json) |
 | Marvel Rivals: Season 2 - Hellfire Gala | 339814 | [339814-marvel-rivals-season-2-hellfire-gala.json](./339814-marvel-rivals-season-2-hellfire-gala.json) |
 | Marvel Rivals: Season 2 Bundle | 355094 | [355094-marvel-rivals-season-2-bundle.json](./355094-marvel-rivals-season-2-bundle.json) |
 | Marvel Rivals: Season 4 - Heart of the Dragon | 367417 | [367417-marvel-rivals-season-4-heart-of-the-dragon.json](./367417-marvel-rivals-season-4-heart-of-the-dragon.json) |
@@ -8203,6 +8205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miss Clue: Formula for Danger | 200655 | [200655-miss-clue-formula-for-danger.json](./200655-miss-clue-formula-for-danger.json) |
 | Miss Detective's Undercover | 202817 | [202817-miss-detectives-undercover.json](./202817-miss-detectives-undercover.json) |
 | Miss Fisher and the Deathly Maze | 26783 | [26783-miss-fisher-and-the-deathly-maze.json](./26783-miss-fisher-and-the-deathly-maze.json) |
+| Miss Inconspicuous Maid Girl Cleaning Co. | 327905 | [327905-miss-inconspicuous-maid-girl-cleaning-co.json](./327905-miss-inconspicuous-maid-girl-cleaning-co.json) |
 | Miss Inconspicuous Maid Girl Cleaning Co. 2 | 375454 | [375454-miss-inconspicuous-maid-girl-cleaning-co-2.json](./375454-miss-inconspicuous-maid-girl-cleaning-co-2.json) |
 | Miss Input | 221271 | [221271-miss-input.json](./221271-miss-input.json) |
 | Miss Input 2 | 300804 | [300804-miss-input-2.json](./300804-miss-input-2.json) |
@@ -10154,6 +10157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moorhuhn Kart 4 | 328411 | [328411-moorhuhn-kart-4.json](./328411-moorhuhn-kart-4.json) |
 | Moorhuhn UnfairPlay | 144599 | [144599-moorhuhn-unfairplay.json](./144599-moorhuhn-unfairplay.json) |
 | Moorhuhn VR | 144598 | [144598-moorhuhn-vr.json](./144598-moorhuhn-vr.json) |
+| Moorhuhn VR Blast | 327794 | [327794-moorhuhn-vr-blast.json](./327794-moorhuhn-vr-blast.json) |
 | Moorhuhn: Die ersten 10 Jahre | 265946 | [265946-moorhuhn-die-ersten-10-jahre.json](./265946-moorhuhn-die-ersten-10-jahre.json) |
 | Moorhuhn: The Good, The Egg, and The Ugly Mobile | 282546 | [282546-moorhuhn-the-good-the-egg-and-the-ugly-mobile.json](./282546-moorhuhn-the-good-the-egg-and-the-ugly-mobile.json) |
 | Moorko | 414155 | [414155-moorko.json](./414155-moorko.json) |
@@ -10732,6 +10736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moto X Maniac | 66936 | [66936-moto-x-maniac.json](./66936-moto-x-maniac.json) |
 | Moto X3M 2 | 95990 | [95990-moto-x3m-2.json](./95990-moto-x3m-2.json) |
 | Moto X3M 3 | 142394 | [142394-moto-x3m-3.json](./142394-moto-x3m-3.json) |
+| Moto X3m: Pool Party | 327874 | [327874-moto-x3m-pool-party.json](./327874-moto-x3m-pool-party.json) |
 | Moto-Crash + | 41565 | [41565-moto-crash.json](./41565-moto-crash.json) |
 | Motobug the Badnik in Sonic the Hedgehog | 201831 | [201831-motobug-the-badnik-in-sonic-the-hedgehog.json](./201831-motobug-the-badnik-in-sonic-the-hedgehog.json) |
 | Motocon | 395189 | [395189-motocon.json](./395189-motocon.json) |
