@@ -481,6 +481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of the Ages: Collector's Edition | 341086 | [341086-call-of-the-ages-collectors-edition.json](./341086-call-of-the-ages-collectors-edition.json) |
 | Call of the Apostate | 268766 | [268766-call-of-the-apostate.json](./268766-call-of-the-apostate.json) |
 | Call of the Elder Gods | 347882 | [347882-call-of-the-elder-gods.json](./347882-call-of-the-elder-gods.json) |
+| Call of the Grave | 310089 | [310089-call-of-the-grave.json](./310089-call-of-the-grave.json) |
 | Call of the Ninja! | 35730 | [35730-call-of-the-ninja.json](./35730-call-of-the-ninja.json) |
 | Call of the Sea: Deluxe Edition | 154508 | [154508-call-of-the-sea-deluxe-edition.json](./154508-call-of-the-sea-deluxe-edition.json) |
 | Call of the Sea: Norah's Diary Edition | 170032 | [170032-call-of-the-sea-norahs-diary-edition.json](./170032-call-of-the-sea-norahs-diary-edition.json) |
@@ -1754,6 +1755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cartoony Cars 2 | 110773 | [110773-cartoony-cars-2.json](./110773-cartoony-cars-2.json) |
 | Cartridge Defense | 132277 | [132277-cartridge-defense.json](./132277-cartridge-defense.json) |
 | Cartridge Monsters | 158030 | [158030-cartridge-monsters.json](./158030-cartridge-monsters.json) |
+| Carts Battle | 310071 | [310071-carts-battle.json](./310071-carts-battle.json) |
 | Carvalho: Los Pájaros de Bangkok | 138790 | [138790-carvalho-los-pajaros-de-bangkok.json](./138790-carvalho-los-pajaros-de-bangkok.json) |
 | Carve The Cave Together | 414602 | [414602-carve-the-cave-together.json](./414602-carve-the-cave-together.json) |
 | Carved Brink | 356881 | [356881-carved-brink.json](./356881-carved-brink.json) |
