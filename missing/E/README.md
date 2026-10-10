@@ -605,6 +605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EchoShell | 382434 | [382434-echoshell.json](./382434-echoshell.json) |
 | Echoshift | 251227 | [251227-echoshift.json](./251227-echoshift.json) |
 | Echostasis | 155512 | [155512-echostasis.json](./155512-echostasis.json) |
+| Echovale | 289266 | [289266-echovale.json](./289266-echovale.json) |
 | Echoveil: The Last Guest | 351708 | [351708-echoveil-the-last-guest.json](./351708-echoveil-the-last-guest.json) |
 | Echowood | 387652 | [387652-echowood.json](./387652-echowood.json) |
 | EchtegP | 254789 | [254789-echtegp.json](./254789-echtegp.json) |
@@ -2308,6 +2309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Zombie Tower | 151172 | [151172-endless-zombie-tower.json](./151172-endless-zombie-tower.json) |
 | Endless Zone | 140043 | [140043-endless-zone.json](./140043-endless-zone.json) |
 | Endless_Overdrive | 144883 | [144883-endless-overdrive.json](./144883-endless-overdrive.json) |
+| EndlessChoice | 289236 | [289236-endlesschoice.json](./289236-endlesschoice.json) |
 | endlessCorona | 160241 | [160241-endlesscorona.json](./160241-endlesscorona.json) |
 | EndlessHell | 117046 | [117046-endlesshell.json](./117046-endlesshell.json) |
 | Endlessly | 245312 | [245312-endlessly.json](./245312-endlessly.json) |
@@ -3066,6 +3068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape From A Fairytale -Snow White- | 82158 | [82158-escape-from-a-fairytale-snow-white.json](./82158-escape-from-a-fairytale-snow-white.json) |
 | Escape From A Ruined Hospital with a Girl Who Lost Emotion | 98545 | [98545-escape-from-a-ruined-hospital-with-a-girl-who-lost-emotion.json](./98545-escape-from-a-ruined-hospital-with-a-girl-who-lost-emotion.json) |
 | Escape from Aeon | 183559 | [183559-escape-from-aeon.json](./183559-escape-from-aeon.json) |
+| Escape From Amexs-137 | 289257 | [289257-escape-from-amexs-137.json](./289257-escape-from-amexs-137.json) |
 | Escape From Andromed | 112326 | [112326-escape-from-andromed.json](./112326-escape-from-andromed.json) |
 | Escape from Bash Street School! | 312818 | [312818-escape-from-bash-street-school.json](./312818-escape-from-bash-street-school.json) |
 | Escape From Biochemical | 334325 | [334325-escape-from-biochemical.json](./334325-escape-from-biochemical.json) |
