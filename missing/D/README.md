@@ -1002,6 +1002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Legion | 27574 | [27574-dark-legion.json](./27574-dark-legion.json) |
 | Dark Lessons | 285002 | [285002-dark-lessons.json](./285002-dark-lessons.json) |
 | Dark Life Excalibur | 258115 | [258115-dark-life-excalibur.json](./258115-dark-life-excalibur.json) |
+| Dark Light | 318711 | [318711-dark-light.json](./318711-dark-light.json) |
 | Dark Light Swap | 180639 | [180639-dark-light-swap.json](./180639-dark-light-swap.json) |
 | Dark Light: Survivor | 317334 | [317334-dark-light-survivor.json](./317334-dark-light-survivor.json) |
 | Dark Lord | 175733 | [175733-dark-lord.json](./175733-dark-lord.json) |
@@ -2846,6 +2847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deathtrap Dungeon Trilogy | 126494 | [126494-deathtrap-dungeon-trilogy.json](./126494-deathtrap-dungeon-trilogy.json) |
 | Deathtrap Dungeon: The Interactive Video Adventure | 129936 | [129936-deathtrap-dungeon-the-interactive-video-adventure.json](./129936-deathtrap-dungeon-the-interactive-video-adventure.json) |
 | Deathwatch | 221258 | [221258-deathwatch.json](./221258-deathwatch.json) |
+| deathwish | 318690 | [318690-deathwish.json](./318690-deathwish.json) |
 | Deathwish Enforcers | 203766 | [203766-deathwish-enforcers.json](./203766-deathwish-enforcers.json) |
 | DeathWorm | 234941 | [234941-deathworm.json](./234941-deathworm.json) |
 | Debasing Grounds | 286682 | [286682-debasing-grounds.json](./286682-debasing-grounds.json) |
@@ -6482,6 +6484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Divergence: Year Zero | 31287 | [31287-divergence-year-zero.json](./31287-divergence-year-zero.json) |
 | Divergences | 356267 | [356267-divergences.json](./356267-divergences.json) |
 | Divergent Shift | 85095 | [85095-divergent-shift.json](./85095-divergent-shift.json) |
+| Divers | 318712 | [318712-divers.json](./318712-divers.json) |
 | Diversant | 180294 | [180294-diversant.json](./180294-diversant.json) |
 | Diverse Defenders | 308913 | [308913-diverse-defenders.json](./308913-diverse-defenders.json) |
 | Divertron | 290091 | [290091-divertron.json](./290091-divertron.json) |
@@ -10155,6 +10158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drova: Forsaken Kin | 141490 | [141490-drova-forsaken-kin.json](./141490-drova-forsaken-kin.json) |
 | Drown in Yesterday's Sea | 411780 | [411780-drown-in-yesterdays-sea.json](./411780-drown-in-yesterdays-sea.json) |
 | Drown Rabbit | 397937 | [397937-drown-rabbit.json](./397937-drown-rabbit.json) |
+| Drown the Bride | 318691 | [318691-drown-the-bride.json](./318691-drown-the-bride.json) |
 | Drowned Caves | 402501 | [402501-drowned-caves.json](./402501-drowned-caves.json) |
 | Drowned God: Conspiracy of the Ages | 12421 | [12421-drowned-god-conspiracy-of-the-ages.json](./12421-drowned-god-conspiracy-of-the-ages.json) |
 | Drowned Grave | 387649 | [387649-drowned-grave.json](./387649-drowned-grave.json) |
