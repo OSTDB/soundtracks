@@ -776,6 +776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Veinless Property | 144362 | [144362-veinless-property.json](./144362-veinless-property.json) |
 | Veinrider | 377275 | [377275-veinrider.json](./377275-veinrider.json) |
 | Veins | 213467 | [213467-veins.json](./213467-veins.json) |
+| Veins Like Tapeworms | 300502 | [300502-veins-like-tapeworms.json](./300502-veins-like-tapeworms.json) |
 | Veins of Darkness | 334294 | [334294-veins-of-darkness.json](./334294-veins-of-darkness.json) |
 | Vekquence | 26694 | [26694-vekquence.json](./26694-vekquence.json) |
 | Vektar | 382791 | [382791-vektar.json](./382791-vektar.json) |
