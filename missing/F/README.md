@@ -2919,6 +2919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fightttris VR | 113162 | [113162-fightttris-vr.json](./113162-fightttris-vr.json) |
 | Fighty Driver | 411045 | [411045-fighty-driver.json](./411045-fighty-driver.json) |
 | Figment 1 + Figment 2 | 242587 | [242587-figment-1-figment-2.json](./242587-figment-1-figment-2.json) |
+| Figment 1 + Figment 2: Collector's Edition | 287047 | [287047-figment-1-figment-2-collectors-edition.json](./287047-figment-1-figment-2-collectors-edition.json) |
 | Figment 2: Creed Valley | 119801 | [119801-figment-2-creed-valley.json](./119801-figment-2-creed-valley.json) |
 | Figments of the Night | 338694 | [338694-figments-of-the-night.json](./338694-figments-of-the-night.json) |
 | Fignermukcre | 128627 | [128627-fignermukcre.json](./128627-fignermukcre.json) |
@@ -3720,6 +3721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fireball Wizard | 192846 | [192846-fireball-wizard.json](./192846-fireball-wizard.json) |
 | Firebase Defence | 110519 | [110519-firebase-defence.json](./110519-firebase-defence.json) |
 | Firebat: Revolution | 317550 | [317550-firebat-revolution.json](./317550-firebat-revolution.json) |
+| Firebird | 287023 | [287023-firebird.json](./287023-firebird.json) |
 | Firebird - The Unfinished | 99215 | [99215-firebird-the-unfinished.json](./99215-firebird-the-unfinished.json) |
 | Firebird: Tale of the Stolen Light | 381017 | [381017-firebird-tale-of-the-stolen-light.json](./381017-firebird-tale-of-the-stolen-light.json) |
 | Fireblaster | 69256 | [69256-fireblaster.json](./69256-fireblaster.json) |
