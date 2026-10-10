@@ -5266,6 +5266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meltdown Masters | 415885 | [415885-meltdown-masters.json](./415885-meltdown-masters.json) |
 | Melted Time | 336526 | [336526-melted-time.json](./336526-melted-time.json) |
 | Melter Man | 34411 | [34411-melter-man.json](./34411-melter-man.json) |
+| Melting Encyclopedia | 298402 | [298402-melting-encyclopedia.json](./298402-melting-encyclopedia.json) |
 | Melting Hearts: Our Love Will Grow 2 | 33080 | [33080-melting-hearts-our-love-will-grow-2.json](./33080-melting-hearts-our-love-will-grow-2.json) |
 | Melting Moon | 280935 | [280935-melting-moon.json](./280935-melting-moon.json) |
 | Melting Point | 219668 | [219668-melting-point.json](./219668-melting-point.json) |
@@ -6756,6 +6757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miden Tower: Experience & SP x2 | 171021 | [171021-miden-tower-experience-and-sp-x2.json](./171021-miden-tower-experience-and-sp-x2.json) |
 | Miden Tower: Experience x3 | 171020 | [171020-miden-tower-experience-x3.json](./171020-miden-tower-experience-x3.json) |
 | Midforest Survivor | 258088 | [258088-midforest-survivor.json](./258088-midforest-survivor.json) |
+| Midgard Lava-a-Jato | 298428 | [298428-midgard-lava-a-jato.json](./298428-midgard-lava-a-jato.json) |
 | Midgard Outlaw | 201233 | [201233-midgard-outlaw.json](./201233-midgard-outlaw.json) |
 | Midinous | 173225 | [173225-midinous.json](./173225-midinous.json) |
 | Midio! | 336919 | [336919-midio.json](./336919-midio.json) |
