@@ -3129,6 +3129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seibu Keisatsu | 346045 | [346045-seibu-keisatsu.json](./346045-seibu-keisatsu.json) |
 | Seibu Keisatsu Part-III | 346046 | [346046-seibu-keisatsu-part-iii.json](./346046-seibu-keisatsu-part-iii.json) |
 | Seicross | 40408 | [40408-seicross.json](./40408-seicross.json) |
+| Seiden | 309431 | [309431-seiden.json](./309431-seiden.json) |
 | Seidkona: A Tale of Death and Dice | 184428 | [184428-seidkona-a-tale-of-death-and-dice.json](./184428-seidkona-a-tale-of-death-and-dice.json) |
 | Seifuku Densetsu Pretty Fighter | 42527 | [42527-seifuku-densetsu-pretty-fighter.json](./42527-seifuku-densetsu-pretty-fighter.json) |
 | Seifuku Densetsu Pretty Fighter X | 64982 | [64982-seifuku-densetsu-pretty-fighter-x.json](./64982-seifuku-densetsu-pretty-fighter-x.json) |
@@ -6268,6 +6269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sigi: A Fart for Melusina | 75066 | [75066-sigi-a-fart-for-melusina.json](./75066-sigi-a-fart-for-melusina.json) |
 | Sigil | 121415 | [121415-sigil.json](./121415-sigil.json) |
 | Sigil | 313172 | [313172-sigil.json](./313172-sigil.json) |
+| Sigil of Chaos | 309553 | [309553-sigil-of-chaos.json](./309553-sigil-of-chaos.json) |
 | Sigil of Kings | 235722 | [235722-sigil-of-kings.json](./235722-sigil-of-kings.json) |
 | Sigil Valley | 272456 | [272456-sigil-valley.json](./272456-sigil-valley.json) |
 | Sigilfarer | 314447 | [314447-sigilfarer.json](./314447-sigilfarer.json) |
@@ -6453,6 +6455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Whisper | 337125 | [337125-silent-whisper.json](./337125-silent-whisper.json) |
 | Silent Woods: the Cleansed | 150626 | [150626-silent-woods-the-cleansed.json](./150626-silent-woods-the-cleansed.json) |
 | Silent Wounds - The Doll | 414540 | [414540-silent-wounds-the-doll.json](./414540-silent-wounds-the-doll.json) |
+| Silent: Abandoned | 309437 | [309437-silent-abandoned.json](./309437-silent-abandoned.json) |
 | Silentium 2D | 106578 | [106578-silentium-2d.json](./106578-silentium-2d.json) |
 | Silentium: Remastered | 240739 | [240739-silentium-remastered.json](./240739-silentium-remastered.json) |
 | Sileo: Tales of a New Dawn | 140917 | [140917-sileo-tales-of-a-new-dawn.json](./140917-sileo-tales-of-a-new-dawn.json) |
@@ -7439,6 +7442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skiddy | 281528 | [281528-skiddy.json](./281528-skiddy.json) |
 | Skidlocked | 129519 | [129519-skidlocked.json](./129519-skidlocked.json) |
 | Skidmarks | 65506 | [65506-skidmarks.json](./65506-skidmarks.json) |
+| Skidrush | 309544 | [309544-skidrush.json](./309544-skidrush.json) |
 | SkidStorm | 54977 | [54977-skidstorm.json](./54977-skidstorm.json) |
 | Skidz | 15369 | [15369-skidz.json](./15369-skidz.json) |
 | Skies Above | 272931 | [272931-skies-above.json](./272931-skies-above.json) |
@@ -7541,6 +7545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skull Jones | 259664 | [259664-skull-jones.json](./259664-skull-jones.json) |
 | Skull Limb | 177839 | [177839-skull-limb.json](./177839-skull-limb.json) |
 | Skull Maze: Tiny Roguelike | 200709 | [200709-skull-maze-tiny-roguelike.json](./200709-skull-maze-tiny-roguelike.json) |
+| Skull Pirates: Adventures | 309632 | [309632-skull-pirates-adventures.json](./309632-skull-pirates-adventures.json) |
 | Skull Skull Skull | 333215 | [333215-skull-skull-skull.json](./333215-skull-skull-skull.json) |
 | Skull Survivor | 224603 | [224603-skull-survivor.json](./224603-skull-survivor.json) |
 | Skull's Impossible Quest | 143376 | [143376-skulls-impossible-quest.json](./143376-skulls-impossible-quest.json) |
@@ -8208,6 +8213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slidey Feet | 243635 | [243635-slidey-feet.json](./243635-slidey-feet.json) |
 | Sliding Bears | 337049 | [337049-sliding-bears.json](./337049-sliding-bears.json) |
 | Sliding ground | 184373 | [184373-sliding-ground.json](./184373-sliding-ground.json) |
+| Sliding Hero | 309545 | [309545-sliding-hero.json](./309545-sliding-hero.json) |
 | Sliding Puzzle 2018 | 104645 | [104645-sliding-puzzle-2018.json](./104645-sliding-puzzle-2018.json) |
 | Sliding Puzzle Blue | 107132 | [107132-sliding-puzzle-blue.json](./107132-sliding-puzzle-blue.json) |
 | Sliding Puzzle Space | 106551 | [106551-sliding-puzzle-space.json](./106551-sliding-puzzle-space.json) |
