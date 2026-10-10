@@ -9208,6 +9208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Phantom Thief Stina and 30 Jewels | 85438 | [85438-the-phantom-thief-stina-and-30-jewels.json](./85438-the-phantom-thief-stina-and-30-jewels.json) |
 | The Phantom's Call | 383696 | [383696-the-phantoms-call.json](./383696-the-phantoms-call.json) |
 | The Phantom's Revenge | 25135 | [25135-the-phantoms-revenge.json](./25135-the-phantoms-revenge.json) |
+| The Pharaoh's Tomb | 290306 | [290306-the-pharaohs-tomb.json](./290306-the-pharaohs-tomb.json) |
 | The Pharody | 334222 | [334222-the-pharody.json](./334222-the-pharody.json) |
 | The Phenomenon of Edgar Allan Poe 1/2 | 155465 | [155465-the-phenomenon-of-edgar-allan-poe-1-2.json](./155465-the-phenomenon-of-edgar-allan-poe-1-2.json) |
 | The Philistine Ploy | 293705 | [293705-the-philistine-ploy.json](./293705-the-philistine-ploy.json) |
@@ -9321,6 +9322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The President | 200476 | [200476-the-president.json](./200476-the-president.json) |
 | The President | 209640 | [209640-the-president.json](./209640-the-president.json) |
 | The Presidential Assassins | 345004 | [345004-the-presidential-assassins.json](./345004-the-presidential-assassins.json) |
+| The Presidential Turnabout | 290304 | [290304-the-presidential-turnabout.json](./290304-the-presidential-turnabout.json) |
 | The Pressure of Ambition | 352376 | [352376-the-pressure-of-ambition.json](./352376-the-pressure-of-ambition.json) |
 | The Pretender: Part One | 404851 | [404851-the-pretender-part-one.json](./404851-the-pretender-part-one.json) |
 | The Pretender: Part Three | 404856 | [404856-the-pretender-part-three.json](./404856-the-pretender-part-three.json) |
@@ -14397,6 +14399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Timing Hero | 112232 | [112232-timing-hero.json](./112232-timing-hero.json) |
 | Timing X | 402370 | [402370-timing-x.json](./402370-timing-x.json) |
 | Timmy & Mousey: Endless Runner | 183331 | [183331-timmy-and-mousey-endless-runner.json](./183331-timmy-and-mousey-endless-runner.json) |
+| Timmy and the Magic Pictures | 290313 | [290313-timmy-and-the-magic-pictures.json](./290313-timmy-and-the-magic-pictures.json) |
 | Timmy the Dream Hunter | 307299 | [307299-timmy-the-dream-hunter.json](./307299-timmy-the-dream-hunter.json) |
 | Timmy Time | 113890 | [113890-timmy-time.json](./113890-timmy-time.json) |
 | Timmy Types | 214540 | [214540-timmy-types.json](./214540-timmy-types.json) |
@@ -15931,6 +15934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Topography | 142229 | [142229-topography.json](./142229-topography.json) |
 | Topolino amico delle guardie | 246664 | [246664-topolino-amico-delle-guardie.json](./246664-topolino-amico-delle-guardie.json) |
 | Topoloco | 84946 | [84946-topoloco.json](./84946-topoloco.json) |
+| Topolon | 290338 | [290338-topolon.json](./290338-topolon.json) |
 | Topper | 42169 | [42169-topper.json](./42169-topper.json) |
 | Topper Carrier | 152830 | [152830-topper-carrier.json](./152830-topper-carrier.json) |
 | Topper the Copper | 354597 | [354597-topper-the-copper.json](./354597-topper-the-copper.json) |
@@ -19562,6 +19566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trust | 378310 | [378310-trust.json](./378310-trust.json) |
 | Trust & Safety Tycoon | 343212 | [343212-trust-and-safety-tycoon.json](./343212-trust-and-safety-tycoon.json) |
 | Trust & Safety: Armed Conflict | 401484 | [401484-trust-and-safety-armed-conflict.json](./401484-trust-and-safety-armed-conflict.json) |
+| Trust Me | 290356 | [290356-trust-me.json](./290356-trust-me.json) |
 | Trust Me Bro, I Trade | 384515 | [384515-trust-me-bro-i-trade.json](./384515-trust-me-bro-i-trade.json) |
 | Trust Me, Not Her | 191176 | [191176-trust-me-not-her.json](./191176-trust-me-not-her.json) |
 | Trust No Bunny | 195028 | [195028-trust-no-bunny.json](./195028-trust-no-bunny.json) |
