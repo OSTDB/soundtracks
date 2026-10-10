@@ -315,6 +315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WALL-E 2 | 186658 | [186658-wall-e-2.json](./186658-wall-e-2.json) |
 | Wall-E: The Video Game - Slider | 325574 | [325574-wall-e-the-video-game-slider.json](./325574-wall-e-the-video-game-slider.json) |
 | Wall$treet | 78664 | [78664-wall-treet.json](./78664-wall-treet.json) |
+| Wall2Wall | 302775 | [302775-wall2wall.json](./302775-wall2wall.json) |
 | Wallace & Gromit Adventures | 320995 | [320995-wallace-and-gromit-adventures.json](./320995-wallace-and-gromit-adventures.json) |
 | Wallace & Gromit: Invention Suspension | 320877 | [320877-wallace-and-gromit-invention-suspension.json](./320877-wallace-and-gromit-invention-suspension.json) |
 | Wallace & Gromit: Snow Drift | 320881 | [320881-wallace-and-gromit-snow-drift.json](./320881-wallace-and-gromit-snow-drift.json) |
@@ -953,6 +954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer 40,000: Space Marine II - Purgation Update | 402513 | [402513-warhammer-40-000-space-marine-ii-purgation-update.json](./402513-warhammer-40-000-space-marine-ii-purgation-update.json) |
 | Warhammer 40,000: Space Marine II - Space Wolves Chapter Pack | 370094 | [370094-warhammer-40-000-space-marine-ii-space-wolves-chapter-pack.json](./370094-warhammer-40-000-space-marine-ii-space-wolves-chapter-pack.json) |
 | Warhammer 40,000: Space Marine II - Trygon Update | 340584 | [340584-warhammer-40-000-space-marine-ii-trygon-update.json](./340584-warhammer-40-000-space-marine-ii-trygon-update.json) |
+| Warhammer 40,000: Space Marine II - Ultra Edition | 302738 | [302738-warhammer-40-000-space-marine-ii-ultra-edition.json](./302738-warhammer-40-000-space-marine-ii-ultra-edition.json) |
 | Warhammer 40,000: Space Marine II - Ultramarines Cosmetic Pack | 332084 | [332084-warhammer-40-000-space-marine-ii-ultramarines-cosmetic-pack.json](./332084-warhammer-40-000-space-marine-ii-ultramarines-cosmetic-pack.json) |
 | Warhammer 40,000: Space Marine III | 335432 | [335432-warhammer-40-000-space-marine-iii.json](./335432-warhammer-40-000-space-marine-iii.json) |
 | Warhammer 40,000: Space Marine VR - Defenders of Avarax | 402514 | [402514-warhammer-40-000-space-marine-vr-defenders-of-avarax.json](./402514-warhammer-40-000-space-marine-vr-defenders-of-avarax.json) |
@@ -4803,6 +4805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Words Inc - Endless Vocabulary Definition Competition | 99411 | [99411-words-inc-endless-vocabulary-definition-competition.json](./99411-words-inc-endless-vocabulary-definition-competition.json) |
 | Words N Words | 240345 | [240345-words-n-words.json](./240345-words-n-words.json) |
 | Words of Fate | 83259 | [83259-words-of-fate.json](./83259-words-of-fate.json) |
+| Words of Wonders | 302727 | [302727-words-of-wonders.json](./302727-words-of-wonders.json) |
 | Words Scramble | 233055 | [233055-words-scramble.json](./233055-words-scramble.json) |
 | Words Scramble: Cities | 245329 | [245329-words-scramble-cities.json](./245329-words-scramble-cities.json) |
 | Words UP | 104464 | [104464-words-up.json](./104464-words-up.json) |
