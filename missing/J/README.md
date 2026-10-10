@@ -1067,6 +1067,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsaw Masterpieces: Sweet Cakes | 243371 | [243371-jigsaw-masterpieces-sweet-cakes.json](./243371-jigsaw-masterpieces-sweet-cakes.json) |
 | Jigsaw Masterpieces: View from the Sky | 237912 | [237912-jigsaw-masterpieces-view-from-the-sky.json](./237912-jigsaw-masterpieces-view-from-the-sky.json) |
 | Jigsaw Masterpieces: World's Most Scenic Train Trips | 201025 | [201025-jigsaw-masterpieces-worlds-most-scenic-train-trips.json](./201025-jigsaw-masterpieces-worlds-most-scenic-train-trips.json) |
+| Jigsaw Novel: Kinky Bondage | 286471 | [286471-jigsaw-novel-kinky-bondage.json](./286471-jigsaw-novel-kinky-bondage.json) |
+| Jigsaw Novel: Naughty Stewardesses | 286479 | [286479-jigsaw-novel-naughty-stewardesses.json](./286479-jigsaw-novel-naughty-stewardesses.json) |
+| Jigsaw Novel: Public Toilet Sex | 286473 | [286473-jigsaw-novel-public-toilet-sex.json](./286473-jigsaw-novel-public-toilet-sex.json) |
+| Jigsaw Novel: Sexy Job Interview | 286470 | [286470-jigsaw-novel-sexy-job-interview.json](./286470-jigsaw-novel-sexy-job-interview.json) |
 | Jigsaw Pets | 283274 | [283274-jigsaw-pets.json](./283274-jigsaw-pets.json) |
 | JigSaw Preschool Puzzles | 97145 | [97145-jigsaw-preschool-puzzles.json](./97145-jigsaw-preschool-puzzles.json) |
 | Jigsaw Puzzle | 294556 | [294556-jigsaw-puzzle.json](./294556-jigsaw-puzzle.json) |
