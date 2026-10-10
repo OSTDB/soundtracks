@@ -718,6 +718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Bus Home | 208617 | [208617-last-bus-home.json](./208617-last-bus-home.json) |
 | Last Buzz | 417440 | [417440-last-buzz.json](./417440-last-buzz.json) |
 | Last Call | 175890 | [175890-last-call.json](./175890-last-call.json) |
+| Last Call | 297321 | [297321-last-call.json](./297321-last-call.json) |
 | Last Call BBS | 205064 | [205064-last-call-bbs.json](./205064-last-call-bbs.json) |
 | Last Call: RE | 378552 | [378552-last-call-re.json](./378552-last-call-re.json) |
 | Last Call! | 71565 | [71565-last-call.json](./71565-last-call.json) |
@@ -3459,6 +3460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liquidation | 168703 | [168703-liquidation.json](./168703-liquidation.json) |
 | Liquidator | 72446 | [72446-liquidator.json](./72446-liquidator.json) |
 | Liquidators | 147297 | [147297-liquidators.json](./147297-liquidators.json) |
+| Liquidum: Femme Fatale | 297334 | [297334-liquidum-femme-fatale.json](./297334-liquidum-femme-fatale.json) |
 | Liquidum: Secrets of the Deep | 310387 | [310387-liquidum-secrets-of-the-deep.json](./310387-liquidum-secrets-of-the-deep.json) |
 | Liquidum: Small & Tricky | 298051 | [298051-liquidum-small-and-tricky.json](./298051-liquidum-small-and-tricky.json) |
 | Liquor and Wine Shop Simulator: Store Simulator | 326398 | [326398-liquor-and-wine-shop-simulator-store-simulator.json](./326398-liquor-and-wine-shop-simulator-store-simulator.json) |
@@ -3956,6 +3958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Living Dark | 77355 | [77355-living-dark.json](./77355-living-dark.json) |
 | Living in 2020 | 368909 | [368909-living-in-2020.json](./368909-living-in-2020.json) |
 | Living in a Brothel | 304293 | [304293-living-in-a-brothel.json](./304293-living-in-a-brothel.json) |
+| Living in Spring | 297364 | [297364-living-in-spring.json](./297364-living-in-spring.json) |
 | Living in the Ending World | 140406 | [140406-living-in-the-ending-world.json](./140406-living-in-the-ending-world.json) |
 | Living Island Project | 284330 | [284330-living-island-project.json](./284330-living-island-project.json) |
 | Living Labyrinth | 185139 | [185139-living-labyrinth.json](./185139-living-labyrinth.json) |
@@ -4171,6 +4174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Locked-in syndrome | 33787 | [33787-locked-in-syndrome.json](./33787-locked-in-syndrome.json) |
 | Lockes the Thief | 211793 | [211793-lockes-the-thief.json](./211793-lockes-the-thief.json) |
 | Lockey | 412471 | [412471-lockey.json](./412471-lockey.json) |
+| Lockjaw | 297327 | [297327-lockjaw.json](./297327-lockjaw.json) |
 | Locks | 199452 | [199452-locks.json](./199452-locks.json) |
 | Locksmith | 413897 | [413897-locksmith.json](./413897-locksmith.json) |
 | Locksmith | 48906 | [48906-locksmith.json](./48906-locksmith.json) |
