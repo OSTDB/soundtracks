@@ -240,6 +240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sad Rabbit's Alien Night Out | 336171 | [336171-sad-rabbits-alien-night-out.json](./336171-sad-rabbits-alien-night-out.json) |
 | Sad RPG | 124135 | [124135-sad-rpg.json](./124135-sad-rpg.json) |
 | Sad Satan | 136346 | [136346-sad-satan.json](./136346-sad-satan.json) |
+| Sad Satan | 283109 | [283109-sad-satan.json](./283109-sad-satan.json) |
 | Sad Virus | 367548 | [367548-sad-virus.json](./367548-sad-virus.json) |
 | Sad Virus Asia | 403181 | [403181-sad-virus-asia.json](./403181-sad-virus-asia.json) |
 | Sad Virus Darkland | 412510 | [412510-sad-virus-darkland.json](./412510-sad-virus-darkland.json) |
@@ -2120,6 +2121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SCP-087-B | 242044 | [242044-scp-087-b.json](./242044-scp-087-b.json) |
 | SCP-087-B Extended Edition | 242027 | [242027-scp-087-b-extended-edition.json](./242027-scp-087-b-extended-edition.json) |
 | SCP-087-B UE Remake | 277856 | [277856-scp-087-b-ue-remake.json](./277856-scp-087-b-ue-remake.json) |
+| SCP-087-B Unity Remake Edition | 283126 | [283126-scp-087-b-unity-remake-edition.json](./283126-scp-087-b-unity-remake-edition.json) |
 | SCP-087: Recovered document | 81711 | [81711-scp-087-recovered-document.json](./81711-scp-087-recovered-document.json) |
 | SCP-087: The Stairwell Horror | 324126 | [324126-scp-087-the-stairwell-horror.json](./324126-scp-087-the-stairwell-horror.json) |
 | SCP-167 nn5n. Horror labyrinth | 88805 | [88805-scp-167-nn5n-horror-labyrinth.json](./88805-scp-167-nn5n-horror-labyrinth.json) |
@@ -3712,6 +3714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seum: The Drunk Side of the Moon | 104676 | [104676-seum-the-drunk-side-of-the-moon.json](./104676-seum-the-drunk-side-of-the-moon.json) |
 | Sev Zero | 21650 | [21650-sev-zero.json](./21650-sev-zero.json) |
 | Seven | 271811 | [271811-seven.json](./271811-seven.json) |
+| Seven | 283134 | [283134-seven.json](./283134-seven.json) |
 | Seven Blasphemies | 415142 | [415142-seven-blasphemies.json](./415142-seven-blasphemies.json) |
 | Seven Boys 2 | 68104 | [68104-seven-boys-2.json](./68104-seven-boys-2.json) |
 | Seven Bullets Zombie Apocalypse | 117062 | [117062-seven-bullets-zombie-apocalypse.json](./117062-seven-bullets-zombie-apocalypse.json) |
@@ -4682,6 +4685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shark Turtle | 272479 | [272479-shark-turtle.json](./272479-shark-turtle.json) |
 | Shark! Hunting the Great White | 71770 | [71770-shark-hunting-the-great-white.json](./71770-shark-hunting-the-great-white.json) |
 | Shark! Shark! | 5695 | [5695-shark-shark.json](./5695-shark-shark.json) |
+| Shark's Song | 283105 | [283105-sharks-song.json](./283105-sharks-song.json) |
 | Shark's Treasures Adventure | 339901 | [339901-sharks-treasures-adventure.json](./339901-sharks-treasures-adventure.json) |
 | Sharkarama | 402446 | [402446-sharkarama.json](./402446-sharkarama.json) |
 | Sharkbaked | 379009 | [379009-sharkbaked.json](./379009-sharkbaked.json) |
@@ -10423,6 +10427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Something to Do with Love | 54839 | [54839-something-to-do-with-love.json](./54839-something-to-do-with-love.json) |
 | Something To Write About: Unbroken - Book One | 336066 | [336066-something-to-write-about-unbroken-book-one.json](./336066-something-to-write-about-unbroken-book-one.json) |
 | Something Took Her | 335247 | [335247-something-took-her.json](./335247-something-took-her.json) |
+| Something Unlimited | 283106 | [283106-something-unlimited.json](./283106-something-unlimited.json) |
 | Something Wicked Lies Beneath | 250873 | [250873-something-wicked-lies-beneath.json](./250873-something-wicked-lies-beneath.json) |
 | Something Wicked This Way Comes | 196637 | [196637-something-wicked-this-way-comes.json](./196637-something-wicked-this-way-comes.json) |
 | Something's in the Air Redux | 255102 | [255102-somethings-in-the-air-redux.json](./255102-somethings-in-the-air-redux.json) |
@@ -21121,6 +21126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surf Ninjas | 38836 | [38836-surf-ninjas.json](./38836-surf-ninjas.json) |
 | Surf Park | 270883 | [270883-surf-park.json](./270883-surf-park.json) |
 | Surf Planet | 337567 | [337567-surf-planet.json](./337567-surf-planet.json) |
+| Surf's Up | 283113 | [283113-surfs-up.json](./283113-surfs-up.json) |
 | Surf's Up | 381757 | [381757-surfs-up.json](./381757-surfs-up.json) |
 | Surf's Up | 4191 | [4191-surfs-up.json](./4191-surfs-up.json) |
 | Surface | 395545 | [395545-surface.json](./395545-surface.json) |
