@@ -6611,6 +6611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hole in the Cabin | 231527 | [231527-the-hole-in-the-cabin.json](./231527-the-hole-in-the-cabin.json) |
 | The Hole Keeper | 370270 | [370270-the-hole-keeper.json](./370270-the-hole-keeper.json) |
 | The Hole Story | 35579 | [35579-the-hole-story.json](./35579-the-hole-story.json) |
+| The Hole Town | 304912 | [304912-the-hole-town.json](./304912-the-hole-town.json) |
 | The Hollow Alchemist | 371257 | [371257-the-hollow-alchemist.json](./371257-the-hollow-alchemist.json) |
 | The Hollow Lighthouse | 358329 | [358329-the-hollow-lighthouse.json](./358329-the-hollow-lighthouse.json) |
 | The Hollow Road: Prologue | 399769 | [399769-the-hollow-road-prologue.json](./399769-the-hollow-road-prologue.json) |
@@ -10369,6 +10370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Smurfs Travel the World | 287150 | [287150-the-smurfs-travel-the-world.json](./287150-the-smurfs-travel-the-world.json) |
 | The Smurfs: Colorful Stories | 275888 | [275888-the-smurfs-colorful-stories.json](./275888-the-smurfs-colorful-stories.json) |
 | The Smurfs: Colorful Stories - Complete + | 328824 | [328824-the-smurfs-colorful-stories-complete.json](./328824-the-smurfs-colorful-stories-complete.json) |
+| The Smurfs: Colorful Stories - Complete Edition | 304773 | [304773-the-smurfs-colorful-stories-complete-edition.json](./304773-the-smurfs-colorful-stories-complete-edition.json) |
 | The Smurfs: Colorful Stories - Deluxe Edition | 288278 | [288278-the-smurfs-colorful-stories-deluxe-edition.json](./288278-the-smurfs-colorful-stories-deluxe-edition.json) |
 | The Smurfs: Colorful Stories - Director's Cut | 328823 | [328823-the-smurfs-colorful-stories-directors-cut.json](./328823-the-smurfs-colorful-stories-directors-cut.json) |
 | The Smurfs: Colorful Stories - Extended Edition | 328790 | [328790-the-smurfs-colorful-stories-extended-edition.json](./328790-the-smurfs-colorful-stories-extended-edition.json) |
@@ -18729,6 +18731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trial of the Gods: Ariadne's Journey | 416188 | [416188-trial-of-the-gods-ariadnes-journey.json](./416188-trial-of-the-gods-ariadnes-journey.json) |
 | Trial of the Gods: Siralim CCG | 133195 | [133195-trial-of-the-gods-siralim-ccg.json](./133195-trial-of-the-gods-siralim-ccg.json) |
 | Trial of Two | 152452 | [152452-trial-of-two.json](./152452-trial-of-two.json) |
+| Trial Traction | 304852 | [304852-trial-traction.json](./304852-trial-traction.json) |
 | Trial Xtreme 3 | 117763 | [117763-trial-xtreme-3.json](./117763-trial-xtreme-3.json) |
 | Trial Xtreme 4 Remastered | 208035 | [208035-trial-xtreme-4-remastered.json](./208035-trial-xtreme-4-remastered.json) |
 | Trial Xtreme Freedom | 199975 | [199975-trial-xtreme-freedom.json](./199975-trial-xtreme-freedom.json) |
