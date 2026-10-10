@@ -756,6 +756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nazotoki Maze kara no Dasshutsu | 222223 | [222223-nazotoki-maze-kara-no-dasshutsu.json](./222223-nazotoki-maze-kara-no-dasshutsu.json) |
 | Nazotoki no Jikan: Thrill Suspense na Nazotoki Dasshutsu Mystery Suiri Game | 222388 | [222388-nazotoki-no-jikan-thrill-suspense-na-nazotoki-dasshutsu-mystery-suiri-game.json](./222388-nazotoki-no-jikan-thrill-suspense-na-nazotoki-dasshutsu-mystery-suiri-game.json) |
 | Nazotoki Suiri! Yuuzai? Muzai? | 251606 | [251606-nazotoki-suiri-yuuzai-muzai.json](./251606-nazotoki-suiri-yuuzai-muzai.json) |
+| Nazurin no Sagashi Mono? | 301629 | [301629-nazurin-no-sagashi-mono.json](./301629-nazurin-no-sagashi-mono.json) |
 | Nb107a | 184572 | [184572-nb107a.json](./184572-nb107a.json) |
 | NBA | 100222 | [100222-nba.json](./100222-nba.json) |
 | NBA | 100272 | [100272-nba.json](./100272-nba.json) |
