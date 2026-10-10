@@ -626,6 +626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jelly Monsters | 60573 | [60573-jelly-monsters.json](./60573-jelly-monsters.json) |
 | Jelly no Puzzle | 141197 | [141197-jelly-no-puzzle.json](./141197-jelly-no-puzzle.json) |
 | Jelly Pops | 22934 | [22934-jelly-pops.json](./22934-jelly-pops.json) |
+| Jelly Troops | 324864 | [324864-jelly-troops.json](./324864-jelly-troops.json) |
 | Jelly Truck | 322049 | [322049-jelly-truck.json](./322049-jelly-truck.json) |
 | Jelly Wants More | 105377 | [105377-jelly-wants-more.json](./105377-jelly-wants-more.json) |
 | Jelly-Jelly | 301890 | [301890-jelly-jelly.json](./301890-jelly-jelly.json) |
