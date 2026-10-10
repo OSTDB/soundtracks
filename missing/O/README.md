@@ -861,6 +861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Olav & the Lute | 131996 | [131996-olav-and-the-lute.json](./131996-olav-and-the-lute.json) |
 | Olber's Paradox | 392816 | [392816-olbers-paradox.json](./392816-olbers-paradox.json) |
 | Old Car Crusher Crane & Dump Truck Driver | 99721 | [99721-old-car-crusher-crane-and-dump-truck-driver.json](./99721-old-car-crusher-crane-and-dump-truck-driver.json) |
+| Old Coin Pusher Friends 3 | 307977 | [307977-old-coin-pusher-friends-3.json](./307977-old-coin-pusher-friends-3.json) |
 | Old Coin Pusher Gaiden | 411143 | [411143-old-coin-pusher-gaiden.json](./411143-old-coin-pusher-gaiden.json) |
 | Old Edge I | 117706 | [117706-old-edge-i.json](./117706-old-edge-i.json) |
 | Old Evil | 151110 | [151110-old-evil.json](./151110-old-evil.json) |
@@ -1757,6 +1758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OneScreen Wagons | 74475 | [74475-onescreen-wagons.json](./74475-onescreen-wagons.json) |
 | OneShot Challenge | 392416 | [392416-oneshot-challenge.json](./392416-oneshot-challenge.json) |
 | OneShot: Fading Memory | 166079 | [166079-oneshot-fading-memory.json](./166079-oneshot-fading-memory.json) |
+| OneShot: The Pancake Episode | 307795 | [307795-oneshot-the-pancake-episode.json](./307795-oneshot-the-pancake-episode.json) |
 | Onesimus: A Quest for Freedom | 68971 | [68971-onesimus-a-quest-for-freedom.json](./68971-onesimus-a-quest-for-freedom.json) |
 | Onet 3D | 231921 | [231921-onet-3d.json](./231921-onet-3d.json) |
 | OneTale | 335690 | [335690-onetale.json](./335690-onetale.json) |
@@ -2317,6 +2319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orbatron | 149955 | [149955-orbatron.json](./149955-orbatron.json) |
 | Orbb | 68917 | [68917-orbb.json](./68917-orbb.json) |
 | Orbeats | 290995 | [290995-orbeats.json](./290995-orbeats.json) |
+| Orbem Explore | 307874 | [307874-orbem-explore.json](./307874-orbem-explore.json) |
 | Orbfall | 403097 | [403097-orbfall.json](./403097-orbfall.json) |
 | Orbi Universo II | 334043 | [334043-orbi-universo-ii.json](./334043-orbi-universo-ii.json) |
 | Orbia | 88028 | [88028-orbia.json](./88028-orbia.json) |
