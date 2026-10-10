@@ -8463,6 +8463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bounty Bots | 235286 | [235286-bounty-bots.json](./235286-bounty-bots.json) |
 | Bounty Drag Racing: Import Modified Pack 1 | 267074 | [267074-bounty-drag-racing-import-modified-pack-1.json](./267074-bounty-drag-racing-import-modified-pack-1.json) |
 | Bounty Drag Racing: Outlaw Pack 3 | 267075 | [267075-bounty-drag-racing-outlaw-pack-3.json](./267075-bounty-drag-racing-outlaw-pack-3.json) |
+| Bounty Drag Racing: Outlaw Pack 4 | 296251 | [296251-bounty-drag-racing-outlaw-pack-4.json](./296251-bounty-drag-racing-outlaw-pack-4.json) |
 | Bounty Drag Racing: Outlaw Pack 5 | 310062 | [310062-bounty-drag-racing-outlaw-pack-5.json](./310062-bounty-drag-racing-outlaw-pack-5.json) |
 | Bounty Drag Racing: Pro Mod Pack 1 | 255970 | [255970-bounty-drag-racing-pro-mod-pack-1.json](./255970-bounty-drag-racing-pro-mod-pack-1.json) |
 | Bounty Drag Racing: Pro Mod Pack 2 | 255969 | [255969-bounty-drag-racing-pro-mod-pack-2.json](./255969-bounty-drag-racing-pro-mod-pack-2.json) |
