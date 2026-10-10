@@ -3974,6 +3974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witch's | 228075 | [228075-witchs.json](./228075-witchs.json) |
 | Witch's Apocalyptic Journey | 391717 | [391717-witchs-apocalyptic-journey.json](./391717-witchs-apocalyptic-journey.json) |
 | Witch's Cat | 83870 | [83870-witchs-cat.json](./83870-witchs-cat.json) |
+| Witch's Doll | 301108 | [301108-witchs-doll.json](./301108-witchs-doll.json) |
 | Witch's Garden | 259534 | [259534-witchs-garden.json](./259534-witchs-garden.json) |
 | Witch’s Gaze: The Vanishing Village | 330351 | [330351-witch-s-gaze-the-vanishing-village.json](./330351-witch-s-gaze-the-vanishing-village.json) |
 | Witch's Heart | 124353 | [124353-witchs-heart.json](./124353-witchs-heart.json) |
@@ -4728,6 +4729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Training Camp | 130929 | [130929-word-training-camp.json](./130929-word-training-camp.json) |
 | Word Tropics - Free Word Games and Puzzles | 106656 | [106656-word-tropics-free-word-games-and-puzzles.json](./106656-word-tropics-free-word-games-and-puzzles.json) |
 | Word Tuah | 338303 | [338303-word-tuah.json](./338303-word-tuah.json) |
+| Word Turtle Island | 301082 | [301082-word-turtle-island.json](./301082-word-turtle-island.json) |
 | Word U | 104600 | [104600-word-u.json](./104600-word-u.json) |
 | Word War Vi | 242591 | [242591-word-war-vi.json](./242591-word-war-vi.json) |
 | Word Warp | 377139 | [377139-word-warp.json](./377139-word-warp.json) |
