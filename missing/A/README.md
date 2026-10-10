@@ -1868,6 +1868,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adult for Sex Motel | 288894 | [288894-adult-for-sex-motel.json](./288894-adult-for-sex-motel.json) |
 | Adult Puzzle: My Cute Neighbor Serene | 274684 | [274684-adult-puzzle-my-cute-neighbor-serene.json](./274684-adult-puzzle-my-cute-neighbor-serene.json) |
 | Adult Puzzle: My Pretty Neighbor Chloe | 270861 | [270861-adult-puzzle-my-pretty-neighbor-chloe.json](./270861-adult-puzzle-my-pretty-neighbor-chloe.json) |
+| Adult Puzzles: CamGirls | 286454 | [286454-adult-puzzles-camgirls.json](./286454-adult-puzzles-camgirls.json) |
+| Adult Puzzles: Fantasy Ladies | 286456 | [286456-adult-puzzles-fantasy-ladies.json](./286456-adult-puzzles-fantasy-ladies.json) |
+| Adult Puzzles: Fantasy Ladies 2 | 286459 | [286459-adult-puzzles-fantasy-ladies-2.json](./286459-adult-puzzles-fantasy-ladies-2.json) |
+| Adult Puzzles: Hentai Christmas | 286460 | [286460-adult-puzzles-hentai-christmas.json](./286460-adult-puzzles-hentai-christmas.json) |
+| Adult Puzzles: Hentai Halloween | 286458 | [286458-adult-puzzles-hentai-halloween.json](./286458-adult-puzzles-hentai-halloween.json) |
+| Adult Puzzles: Hentai NightClub | 286455 | [286455-adult-puzzles-hentai-nightclub.json](./286455-adult-puzzles-hentai-nightclub.json) |
+| Adult Puzzles: Pole Dancer | 286457 | [286457-adult-puzzles-pole-dancer.json](./286457-adult-puzzles-pole-dancer.json) |
 | Adult Toy Store | 111066 | [111066-adult-toy-store.json](./111066-adult-toy-store.json) |
 | Adulting! | 181878 | [181878-adulting.json](./181878-adulting.json) |
 | Advance | 185443 | [185443-advance.json](./185443-advance.json) |
@@ -2211,6 +2218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aerial Nature Jigsaw Puzzles: Expansion Pack 3 | 270866 | [270866-aerial-nature-jigsaw-puzzles-expansion-pack-3.json](./270866-aerial-nature-jigsaw-puzzles-expansion-pack-3.json) |
 | Aerial Nature Jigsaw Puzzles: Expansion Pack 4 | 270199 | [270199-aerial-nature-jigsaw-puzzles-expansion-pack-4.json](./270199-aerial-nature-jigsaw-puzzles-expansion-pack-4.json) |
 | Aerial Racers | 76195 | [76195-aerial-racers.json](./76195-aerial-racers.json) |
+| Aerial Rave | 286483 | [286483-aerial-rave.json](./286483-aerial-rave.json) |
 | Aerial_Knight's DropShot | 342901 | [342901-aerial-knights-dropshot.json](./342901-aerial-knights-dropshot.json) |
 | Aerial_Knight's MrFreezy | 410070 | [410070-aerial-knights-mrfreezy.json](./410070-aerial-knights-mrfreezy.json) |
 | Aerial_Knight's Never Yield | 138206 | [138206-aerial-knights-never-yield.json](./138206-aerial-knights-never-yield.json) |
@@ -4942,6 +4950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ambulance Chauffeur Simulator | 212904 | [212904-ambulance-chauffeur-simulator.json](./212904-ambulance-chauffeur-simulator.json) |
 | Ambulance Driver | 311816 | [311816-ambulance-driver.json](./311816-ambulance-driver.json) |
 | Ambulance Driver Life VR | 361032 | [361032-ambulance-driver-life-vr.json](./361032-ambulance-driver-life-vr.json) |
+| Ambulance Emergency Simulation | 286450 | [286450-ambulance-emergency-simulation.json](./286450-ambulance-emergency-simulation.json) |
 | Ambulance Life: A Paramedic Simulator | 278606 | [278606-ambulance-life-a-paramedic-simulator.json](./278606-ambulance-life-a-paramedic-simulator.json) |
 | Ambulance Life: A Paramedic Simulator - Bay Side Expansion | 334668 | [334668-ambulance-life-a-paramedic-simulator-bay-side-expansion.json](./334668-ambulance-life-a-paramedic-simulator-bay-side-expansion.json) |
 | Ambulance Race | 221712 | [221712-ambulance-race.json](./221712-ambulance-race.json) |
@@ -6115,6 +6124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime In 10 Words | 243751 | [243751-anime-in-10-words.json](./243751-anime-in-10-words.json) |
 | Anime Jigsaw | 357872 | [357872-anime-jigsaw.json](./357872-anime-jigsaw.json) |
 | Anime Jigsaw Girls: Christmas | 286515 | [286515-anime-jigsaw-girls-christmas.json](./286515-anime-jigsaw-girls-christmas.json) |
+| Anime Jigsaw Girls: Office | 286463 | [286463-anime-jigsaw-girls-office.json](./286463-anime-jigsaw-girls-office.json) |
 | Anime Knight: Card Game | 236969 | [236969-anime-knight-card-game.json](./236969-anime-knight-card-game.json) |
 | Anime Land | 91914 | [91914-anime-land.json](./91914-anime-land.json) |
 | Anime Love Chat Girls | 380394 | [380394-anime-love-chat-girls.json](./380394-anime-love-chat-girls.json) |
@@ -10040,6 +10050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atomic Cannon | 227826 | [227826-atomic-cannon.json](./227826-atomic-cannon.json) |
 | Atomic Cyclecar Racing | 192363 | [192363-atomic-cyclecar-racing.json](./192363-atomic-cyclecar-racing.json) |
 | Atomic Escape | 203879 | [203879-atomic-escape.json](./203879-atomic-escape.json) |
+| Atomic Girls | 286447 | [286447-atomic-girls.json](./286447-atomic-girls.json) |
 | Atomic Heart II | 347639 | [347639-atomic-heart-ii.json](./347639-atomic-heart-ii.json) |
 | Atomic Heart: Annihilation Instinct | 255689 | [255689-atomic-heart-annihilation-instinct.json](./255689-atomic-heart-annihilation-instinct.json) |
 | Atomic Heart: Blood on Crystal | 395854 | [395854-atomic-heart-blood-on-crystal.json](./395854-atomic-heart-blood-on-crystal.json) |
