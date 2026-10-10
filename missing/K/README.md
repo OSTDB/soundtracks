@@ -13,6 +13,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | K-1 World Grand Prix 2001 Kaimakuden | 66883 | [66883-k-1-world-grand-prix-2001-kaimakuden.json](./66883-k-1-world-grand-prix-2001-kaimakuden.json) |
 | K-9 Dog Job | 286756 | [286756-k-9-dog-job.json](./286756-k-9-dog-job.json) |
 | K-Bot | 303610 | [303610-k-bot.json](./303610-k-bot.json) |
+| K-Jo Chases the Cheese | 321653 | [321653-k-jo-chases-the-cheese.json](./321653-k-jo-chases-the-cheese.json) |
+| K-Jo Chases the Cheese | 321655 | [321655-k-jo-chases-the-cheese.json](./321655-k-jo-chases-the-cheese.json) |
 | K-ON! Houkago Live!! | 38485 | [38485-k-on-houkago-live.json](./38485-k-on-houkago-live.json) |
 | K-ON! Houkago Live!! HD Ver. | 206606 | [206606-k-on-houkago-live-hd-ver.json](./206606-k-on-houkago-live-hd-ver.json) |
 | K-ON! Houkago Rhythm Time | 269593 | [269593-k-on-houkago-rhythm-time.json](./269593-k-on-houkago-rhythm-time.json) |
@@ -3723,6 +3725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kusarihime: Euthanasia | 138804 | [138804-kusarihime-euthanasia.json](./138804-kusarihime-euthanasia.json) |
 | Kusarihime: Jamais Vu | 331686 | [331686-kusarihime-jamais-vu.json](./331686-kusarihime-jamais-vu.json) |
 | Kuso Game Girl Wateri | 335483 | [335483-kuso-game-girl-wateri.json](./335483-kuso-game-girl-wateri.json) |
+| Kusodeka Bayashi | 321647 | [321647-kusodeka-bayashi.json](./321647-kusodeka-bayashi.json) |
 | Kusoge | 184984 | [184984-kusoge.json](./184984-kusoge.json) |
 | Kusok | 261533 | [261533-kusok.json](./261533-kusok.json) |
 | Kutar's Athletic World | 340040 | [340040-kutars-athletic-world.json](./340040-kutars-athletic-world.json) |
