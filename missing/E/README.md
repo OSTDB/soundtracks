@@ -2931,6 +2931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ernie's Adventures in Space | 122861 | [122861-ernies-adventures-in-space.json](./122861-ernies-adventures-in-space.json) |
 | Ero Condo: Remastered | 343882 | [343882-ero-condo-remastered.json](./343882-ero-condo-remastered.json) |
 | Ero Date | 107822 | [107822-ero-date.json](./107822-ero-date.json) |
+| Ero Manager | 286478 | [286478-ero-manager.json](./286478-ero-manager.json) |
 | Ero Mission | 324014 | [324014-ero-mission.json](./324014-ero-mission.json) |
 | Ero Snooker | 167585 | [167585-ero-snooker.json](./167585-ero-snooker.json) |
 | Ero Zemi: Ecchi ni Yaru-ki ni ABC | 194579 | [194579-ero-zemi-ecchi-ni-yaru-ki-ni-abc.json](./194579-ero-zemi-ecchi-ni-yaru-ki-ni-abc.json) |
