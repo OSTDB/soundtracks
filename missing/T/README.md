@@ -5985,6 +5985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fox of Capistrano | 407404 | [407404-the-fox-of-capistrano.json](./407404-the-fox-of-capistrano.json) |
 | The Fox's Way Home | 308875 | [308875-the-foxs-way-home.json](./308875-the-foxs-way-home.json) |
 | The Foxglove Catcher | 229755 | [229755-the-foxglove-catcher.json](./229755-the-foxglove-catcher.json) |
+| The Fractured Shimmer | 328688 | [328688-the-fractured-shimmer.json](./328688-the-fractured-shimmer.json) |
 | The Fragment | 120369 | [120369-the-fragment.json](./120369-the-fragment.json) |
 | The Freddy Files | 277284 | [277284-the-freddy-files.json](./277284-the-freddy-files.json) |
 | The Free Shepherd | 381202 | [381202-the-free-shepherd.json](./381202-the-free-shepherd.json) |
@@ -7036,6 +7037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Jumping Sushi: Turbo | 210749 | [210749-the-jumping-sushi-turbo.json](./210749-the-jumping-sushi-turbo.json) |
 | The Jumping Taco | 205240 | [205240-the-jumping-taco.json](./205240-the-jumping-taco.json) |
 | The Jumping Taco: Turbo | 210748 | [210748-the-jumping-taco-turbo.json](./210748-the-jumping-taco-turbo.json) |
+| The Jumping Toast Tower | 328440 | [328440-the-jumping-toast-tower.json](./328440-the-jumping-toast-tower.json) |
 | The Jumping Wrap: Turbo | 221233 | [221233-the-jumping-wrap-turbo.json](./221233-the-jumping-wrap-turbo.json) |
 | The Jungle | 82395 | [82395-the-jungle.json](./82395-the-jungle.json) |
 | The Jungle Book | 248190 | [248190-the-jungle-book.json](./248190-the-jungle-book.json) |
@@ -7376,6 +7378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Leviathan | 32873 | [32873-the-last-leviathan.json](./32873-the-last-leviathan.json) |
 | The Last Librarian | 266816 | [266816-the-last-librarian.json](./266816-the-last-librarian.json) |
 | The Last Light | 182556 | [182556-the-last-light.json](./182556-the-last-light.json) |
+| The Last Light | 328436 | [328436-the-last-light.json](./328436-the-last-light.json) |
 | The Last Lighthouse | 384855 | [384855-the-last-lighthouse.json](./384855-the-last-lighthouse.json) |
 | The Last Lodge | 392476 | [392476-the-last-lodge.json](./392476-the-last-lodge.json) |
 | The Last Login | 406897 | [406897-the-last-login.json](./406897-the-last-login.json) |
@@ -12747,6 +12750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tic-Tac-Toe for Kids | 103678 | [103678-tic-tac-toe-for-kids.json](./103678-tic-tac-toe-for-kids.json) |
 | Tic-Tac-Toe Star | 240187 | [240187-tic-tac-toe-star.json](./240187-tic-tac-toe-star.json) |
 | Tic-Tac-Touch: FS5 | 72628 | [72628-tic-tac-touch-fs5.json](./72628-tic-tac-touch-fs5.json) |
+| Tic-Tac-Whoa! | 328689 | [328689-tic-tac-whoa.json](./328689-tic-tac-whoa.json) |
 | Tic-Tac: Twelve O’Clock | 157093 | [157093-tic-tac-twelve-o-clock.json](./157093-tic-tac-twelve-o-clock.json) |
 | Tic-Tactics-Toe | 397175 | [397175-tic-tactics-toe.json](./397175-tic-tactics-toe.json) |
 | Tic-Toc-Tower | 34781 | [34781-tic-toc-tower.json](./34781-tic-toc-tower.json) |
@@ -15564,6 +15568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tools Up! Garden Party: Episode 3 - Home Sweet Home | 169279 | [169279-tools-up-garden-party-episode-3-home-sweet-home.json](./169279-tools-up-garden-party-episode-3-home-sweet-home.json) |
 | Tools Up! Garden Party: Season Pass | 202935 | [202935-tools-up-garden-party-season-pass.json](./202935-tools-up-garden-party-season-pass.json) |
 | Toon Blast | 56586 | [56586-toon-blast.json](./56586-toon-blast.json) |
+| Toon Breakout 3D | 328444 | [328444-toon-breakout-3d.json](./328444-toon-breakout-3d.json) |
 | Toon Car: The Great Race | 206758 | [206758-toon-car-the-great-race.json](./206758-toon-car-the-great-race.json) |
 | Toon Cup 2018 - Football Game | 112135 | [112135-toon-cup-2018-football-game.json](./112135-toon-cup-2018-football-game.json) |
 | Toon Off | 112245 | [112245-toon-off.json](./112245-toon-off.json) |
@@ -16769,6 +16774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toy Goblins | 57035 | [57035-toy-goblins.json](./57035-toy-goblins.json) |
 | Toy Golf Extreme | 50400 | [50400-toy-golf-extreme.json](./50400-toy-golf-extreme.json) |
 | Toy Gun Office Simulator | 108433 | [108433-toy-gun-office-simulator.json](./108433-toy-gun-office-simulator.json) |
+| Toy Home: Second Gear Pack | 328393 | [328393-toy-home-second-gear-pack.json](./328393-toy-home-second-gear-pack.json) |
 | Toy Kingdom | 246369 | [246369-toy-kingdom.json](./246369-toy-kingdom.json) |
 | Toy Land Adventure | 371406 | [371406-toy-land-adventure.json](./371406-toy-land-adventure.json) |
 | Toy Party - Dazzling Puzzle | 87098 | [87098-toy-party-dazzling-puzzle.json](./87098-toy-party-dazzling-puzzle.json) |
@@ -18851,6 +18857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TripSync | 189179 | [189179-tripsync.json](./189179-tripsync.json) |
 | TripTrip | 102352 | [102352-triptrip.json](./102352-triptrip.json) |
 | Triptych | 93001 | [93001-triptych.json](./93001-triptych.json) |
+| Triptych Book I: Blockhead | 328400 | [328400-triptych-book-i-blockhead.json](./328400-triptych-book-i-blockhead.json) |
 | Tripuzz | 273561 | [273561-tripuzz.json](./273561-tripuzz.json) |
 | Trireme Commander | 81738 | [81738-trireme-commander.json](./81738-trireme-commander.json) |
 | Trism | 29043 | [29043-trism.json](./29043-trism.json) |
@@ -19725,6 +19732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turning Manor | 363953 | [363953-turning-manor.json](./363953-turning-manor.json) |
 | Turning Point: Fall of Liberty | 7221 | [7221-turning-point-fall-of-liberty.json](./7221-turning-point-fall-of-liberty.json) |
 | Turning Red Dancing Tiles Hop | 198240 | [198240-turning-red-dancing-tiles-hop.json](./198240-turning-red-dancing-tiles-hop.json) |
+| Turning the Page | 328430 | [328430-turning-the-page.json](./328430-turning-the-page.json) |
 | Turnip Boy Commits Tax Evasion: The Sunset Station Update | 196664 | [196664-turnip-boy-commits-tax-evasion-the-sunset-station-update.json](./196664-turnip-boy-commits-tax-evasion-the-sunset-station-update.json) |
 | Turnip Boy Robs a Bank | 217645 | [217645-turnip-boy-robs-a-bank.json](./217645-turnip-boy-robs-a-bank.json) |
 | Turnip Boy Steals the Mail | 342657 | [342657-turnip-boy-steals-the-mail.json](./342657-turnip-boy-steals-the-mail.json) |
