@@ -3467,6 +3467,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phoenix Wright: Ace Attorney - Trials and Tribulations | 1428 | [1428-phoenix-wright-ace-attorney-trials-and-tribulations.json](./1428-phoenix-wright-ace-attorney-trials-and-tribulations.json) |
 | Phoenix Wright: Ace Attorney - Trials and Tribulations | 221287 | [221287-phoenix-wright-ace-attorney-trials-and-tribulations.json](./221287-phoenix-wright-ace-attorney-trials-and-tribulations.json) |
 | Phoenix Wright: Ace Attorney - Truth and Consequences | 302651 | [302651-phoenix-wright-ace-attorney-truth-and-consequences.json](./302651-phoenix-wright-ace-attorney-truth-and-consequences.json) |
+| Phoenix Wright: Ace Attorney - Zootopia Defence | 306615 | [306615-phoenix-wright-ace-attorney-zootopia-defence.json](./306615-phoenix-wright-ace-attorney-zootopia-defence.json) |
+| Phoenix Wright: Ace Attorney - Zootopia Defence 2: Hunt For Justice | 306617 | [306617-phoenix-wright-ace-attorney-zootopia-defence-2-hunt-for-justice.json](./306617-phoenix-wright-ace-attorney-zootopia-defence-2-hunt-for-justice.json) |
 | Phoenix Wright: Ace Attorney – Presumption of Guilt | 374129 | [374129-phoenix-wright-ace-attorney-presumption-of-guilt.json](./374129-phoenix-wright-ace-attorney-presumption-of-guilt.json) |
 | Phoenix Wright: Ace Attorney Trilogy - E-Capcom Limited Edition | 205266 | [205266-phoenix-wright-ace-attorney-trilogy-e-capcom-limited-edition.json](./205266-phoenix-wright-ace-attorney-trilogy-e-capcom-limited-edition.json) |
 | Phoenix Wright: Comeback & Turnabout | 305194 | [305194-phoenix-wright-comeback-and-turnabout.json](./305194-phoenix-wright-comeback-and-turnabout.json) |
@@ -8102,6 +8104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poubelle City | 381359 | [381359-poubelle-city.json](./381359-poubelle-city.json) |
 | Pouch | 340596 | [340596-pouch.json](./340596-pouch.json) |
 | Poultry Party | 341558 | [341558-poultry-party.json](./341558-poultry-party.json) |
+| Poultry Princess | 306626 | [306626-poultry-princess.json](./306626-poultry-princess.json) |
 | Poumosa | 406642 | [406642-poumosa.json](./406642-poumosa.json) |
 | Pounce | 80231 | [80231-pounce.json](./80231-pounce.json) |
 | Pounce and the Twin Trees | 295349 | [295349-pounce-and-the-twin-trees.json](./295349-pounce-and-the-twin-trees.json) |
