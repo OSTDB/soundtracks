@@ -404,6 +404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Pro Basketball GM | 228122 | [228122-ultimate-pro-basketball-gm.json](./228122-ultimate-pro-basketball-gm.json) |
 | Ultimate Pro Football Coach | 352146 | [352146-ultimate-pro-football-coach.json](./352146-ultimate-pro-football-coach.json) |
 | Ultimate Protector | 215679 | [215679-ultimate-protector.json](./215679-ultimate-protector.json) |
+| Ultimate Puzzle Adventure: Dogs | 309058 | [309058-ultimate-puzzle-adventure-dogs.json](./309058-ultimate-puzzle-adventure-dogs.json) |
 | Ultimate Puzzle Games | 49287 | [49287-ultimate-puzzle-games.json](./49287-ultimate-puzzle-games.json) |
 | Ultimate Puzzle Games: Sudoku Edition | 124111 | [124111-ultimate-puzzle-games-sudoku-edition.json](./124111-ultimate-puzzle-games-sudoku-edition.json) |
 | Ultimate Puzzles 1500 | 53940 | [53940-ultimate-puzzles-1500.json](./53940-ultimate-puzzles-1500.json) |
@@ -2299,6 +2300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | uWordsmith | 85466 | [85466-uwordsmith.json](./85466-uwordsmith.json) |
 | UzeMaze | 270418 | [270418-uzemaze.json](./270418-uzemaze.json) |
 | UzeMaze RA | 270419 | [270419-uzemaze-ra.json](./270419-uzemaze-ra.json) |
+| UzeWars | 309139 | [309139-uzewars.json](./309139-uzewars.json) |
 | UZG | 377297 | [377297-uzg.json](./377297-uzg.json) |
 | Uzi's Drugged Adventures | 133808 | [133808-uzis-drugged-adventures.json](./133808-uzis-drugged-adventures.json) |
 | Uzi's Drugged Adventures: Undead Memories | 133819 | [133819-uzis-drugged-adventures-undead-memories.json](./133819-uzis-drugged-adventures-undead-memories.json) |
