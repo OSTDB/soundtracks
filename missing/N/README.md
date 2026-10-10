@@ -1833,6 +1833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neuromira: First Death | 374216 | [374216-neuromira-first-death.json](./374216-neuromira-first-death.json) |
 | Neuron | 236201 | [236201-neuron.json](./236201-neuron.json) |
 | Neuron Activation | 385337 | [385337-neuron-activation.json](./385337-neuron-activation.json) |
+| Neuronaut | 286445 | [286445-neuronaut.json](./286445-neuronaut.json) |
 | NeuroNet: Mendax Proxy | 147903 | [147903-neuronet-mendax-proxy.json](./147903-neuronet-mendax-proxy.json) |
 | Neuronics | 92682 | [92682-neuronics.json](./92682-neuronics.json) |
 | NeuroReal VR | 100819 | [100819-neuroreal-vr.json](./100819-neuroreal-vr.json) |
