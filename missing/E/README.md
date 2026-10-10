@@ -307,6 +307,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | East Wind | 226811 | [226811-east-wind.json](./226811-east-wind.json) |
 | EastEnders | 79304 | [79304-eastenders.json](./79304-eastenders.json) |
 | Easter | 130733 | [130733-easter.json](./130733-easter.json) |
+| Easter 2024 Memory | 289787 | [289787-easter-2024-memory.json](./289787-easter-2024-memory.json) |
+| Easter 2024 Puzzle | 289788 | [289788-easter-2024-puzzle.json](./289788-easter-2024-puzzle.json) |
 | Easter Bonus | 216297 | [216297-easter-bonus.json](./216297-easter-bonus.json) |
 | Easter Bunneh | 79941 | [79941-easter-bunneh.json](./79941-easter-bunneh.json) |
 | Easter Bunny | 194998 | [194998-easter-bunny.json](./194998-easter-bunny.json) |
@@ -582,6 +584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echoes of the Plum Grove: Deluxe Edition | 401668 | [401668-echoes-of-the-plum-grove-deluxe-edition.json](./401668-echoes-of-the-plum-grove-deluxe-edition.json) |
 | Echoes of the Scourge | 398979 | [398979-echoes-of-the-scourge.json](./398979-echoes-of-the-scourge.json) |
 | Echoes of the Stars | 201586 | [201586-echoes-of-the-stars.json](./201586-echoes-of-the-stars.json) |
+| Echoes of the Sun | 289815 | [289815-echoes-of-the-sun.json](./289815-echoes-of-the-sun.json) |
 | Echoes of the Wind | 366124 | [366124-echoes-of-the-wind.json](./366124-echoes-of-the-wind.json) |
 | Echoes of the Woods | 303512 | [303512-echoes-of-the-woods.json](./303512-echoes-of-the-woods.json) |
 | Echoes of Tomorrow | 369643 | [369643-echoes-of-tomorrow.json](./369643-echoes-of-tomorrow.json) |
