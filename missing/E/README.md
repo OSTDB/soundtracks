@@ -1091,6 +1091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eisenwald: Blood of November | 25607 | [25607-eisenwald-blood-of-november.json](./25607-eisenwald-blood-of-november.json) |
 | Either Eye | 389442 | [389442-either-eye.json](./389442-either-eye.json) |
 | Eitr | 11181 | [11181-eitr.json](./11181-eitr.json) |
+| Eiyou Tappuri no Kareshi | 301618 | [301618-eiyou-tappuri-no-kareshi.json](./301618-eiyou-tappuri-no-kareshi.json) |
 | Eiyuden Chronicle: Hundred Heroes - Digital Deluxe Edition | 267962 | [267962-eiyuden-chronicle-hundred-heroes-digital-deluxe-edition.json](./267962-eiyuden-chronicle-hundred-heroes-digital-deluxe-edition.json) |
 | Eiyuden Chronicle: Hundred Heroes - Hope of the Alliance: Special HQ Statue | 323249 | [323249-eiyuden-chronicle-hundred-heroes-hope-of-the-alliance-special-hq-statue.json](./323249-eiyuden-chronicle-hundred-heroes-hope-of-the-alliance-special-hq-statue.json) |
 | Eiyuden Chronicle: Hundred Heroes - Pioneer Pack | 323251 | [323251-eiyuden-chronicle-hundred-heroes-pioneer-pack.json](./323251-eiyuden-chronicle-hundred-heroes-pioneer-pack.json) |
