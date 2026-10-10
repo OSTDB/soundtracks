@@ -477,6 +477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Summer Boat | 51982 | [51982-ultimate-summer-boat.json](./51982-ultimate-summer-boat.json) |
 | Ultimate Super Bean | 414299 | [414299-ultimate-super-bean.json](./414299-ultimate-super-bean.json) |
 | Ultimate Super Luigi Wii: Ultimate Green Team | 245452 | [245452-ultimate-super-luigi-wii-ultimate-green-team.json](./245452-ultimate-super-luigi-wii-ultimate-green-team.json) |
+| Ultimate Survivors | 321047 | [321047-ultimate-survivors.json](./321047-ultimate-survivors.json) |
 | Ultimate Tag | 190158 | [190158-ultimate-tag.json](./190158-ultimate-tag.json) |
 | Ultimate Tapan Kaikki | 19239 | [19239-ultimate-tapan-kaikki.json](./19239-ultimate-tapan-kaikki.json) |
 | Ultimate Tennis: Revolution | 174841 | [174841-ultimate-tennis-revolution.json](./174841-ultimate-tennis-revolution.json) |
