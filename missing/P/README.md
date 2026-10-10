@@ -5307,6 +5307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixelegend | 346615 | [346615-pixelegend.json](./346615-pixelegend.json) |
 | Pixelfence | 128982 | [128982-pixelfence.json](./128982-pixelfence.json) |
 | PixelForces.io | 130211 | [130211-pixelforces-io.json](./130211-pixelforces-io.json) |
+| Pixelgroove | 292441 | [292441-pixelgroove.json](./292441-pixelgroove.json) |
 | PixelGround | 191848 | [191848-pixelground.json](./191848-pixelground.json) |
 | Pixelgunners | 25802 | [25802-pixelgunners.json](./25802-pixelgunners.json) |
 | Pixeline and the Jungle Treasure | 64502 | [64502-pixeline-and-the-jungle-treasure.json](./64502-pixeline-and-the-jungle-treasure.json) |
@@ -6228,6 +6229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plunderball | 46570 | [46570-plunderball.json](./46570-plunderball.json) |
 | Plunderers Adventures: Sea of Whores | 147412 | [147412-plunderers-adventures-sea-of-whores.json](./147412-plunderers-adventures-sea-of-whores.json) |
 | Plunderland | 118874 | [118874-plunderland.json](./118874-plunderland.json) |
+| PlunderPiece | 292404 | [292404-plunderpiece.json](./292404-plunderpiece.json) |
 | Plunge | 78780 | [78780-plunge.json](./78780-plunge.json) |
 | Plungeez | 309499 | [309499-plungeez.json](./309499-plungeez.json) |
 | Plunger Boyz | 190148 | [190148-plunger-boyz.json](./190148-plunger-boyz.json) |
