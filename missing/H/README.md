@@ -3546,6 +3546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero's Hour: Deluxe Edition | 251551 | [251551-heros-hour-deluxe-edition.json](./251551-heros-hour-deluxe-edition.json) |
 | Hero's Ignition | 373743 | [373743-heros-ignition.json](./373743-heros-ignition.json) |
 | Hero's Journey | 368005 | [368005-heros-journey.json](./368005-heros-journey.json) |
+| Hero's Odyssey | 330675 | [330675-heros-odyssey.json](./330675-heros-odyssey.json) |
 | Hero's Quest: Automatic Roguelite RPG | 199663 | [199663-heros-quest-automatic-roguelite-rpg.json](./199663-heros-quest-automatic-roguelite-rpg.json) |
 | Hero's Quest: Lost Memories | 251836 | [251836-heros-quest-lost-memories.json](./251836-heros-quest-lost-memories.json) |
 | Hero's Realm | 122883 | [122883-heros-realm.json](./122883-heros-realm.json) |
@@ -4391,6 +4392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Through Time: Road to Rome | 154515 | [154515-hidden-through-time-road-to-rome.json](./154515-hidden-through-time-road-to-rome.json) |
 | Hidden Through Time: Viking Tales | 154516 | [154516-hidden-through-time-viking-tales.json](./154516-hidden-through-time-viking-tales.json) |
 | Hidden Tomatoes | 326783 | [326783-hidden-tomatoes.json](./326783-hidden-tomatoes.json) |
+| Hidden Tomatoes 3 | 330784 | [330784-hidden-tomatoes-3.json](./330784-hidden-tomatoes-3.json) |
 | Hidden Town | 189010 | [189010-hidden-town.json](./189010-hidden-town.json) |
 | Hidden Treasures in the Forest of Dreams | 182327 | [182327-hidden-treasures-in-the-forest-of-dreams.json](./182327-hidden-treasures-in-the-forest-of-dreams.json) |
 | Hidden Village Top-Down 3D | 255264 | [255264-hidden-village-top-down-3d.json](./255264-hidden-village-top-down-3d.json) |
