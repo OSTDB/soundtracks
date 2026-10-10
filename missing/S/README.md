@@ -1874,6 +1874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | School Bus Simulator: Blocky World | 104633 | [104633-school-bus-simulator-blocky-world.json](./104633-school-bus-simulator-blocky-world.json) |
 | School Cafeteria Simulator | 263105 | [263105-school-cafeteria-simulator.json](./263105-school-cafeteria-simulator.json) |
 | School Crisis | 391605 | [391605-school-crisis.json](./391605-school-crisis.json) |
+| School Curse2 | 280169 | [280169-school-curse2.json](./280169-school-curse2.json) |
 | School Days | 371896 | [371896-school-days.json](./371896-school-days.json) |
 | School Days LxH | 178079 | [178079-school-days-lxh.json](./178079-school-days-lxh.json) |
 | School Days Simulator | 303080 | [303080-school-days-simulator.json](./303080-school-days-simulator.json) |
@@ -4048,6 +4049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shade Hunters | 291225 | [291225-shade-hunters.json](./291225-shade-hunters.json) |
 | Shade Silver | 297215 | [297215-shade-silver.json](./297215-shade-silver.json) |
 | Shade Silver 2 a Walk in the Darkness | 345008 | [345008-shade-silver-2-a-walk-in-the-darkness.json](./345008-shade-silver-2-a-walk-in-the-darkness.json) |
+| Shade: A Dog's Expedition | 280165 | [280165-shade-a-dogs-expedition.json](./280165-shade-a-dogs-expedition.json) |
 | Shade: The Border Collie Flycatcher | 241623 | [241623-shade-the-border-collie-flycatcher.json](./241623-shade-the-border-collie-flycatcher.json) |
 | Shade: Wrath of Angels | 6041 | [6041-shade-wrath-of-angels.json](./6041-shade-wrath-of-angels.json) |
 | Shadereap | 376658 | [376658-shadereap.json](./376658-shadereap.json) |
@@ -4954,6 +4956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shepherd | 192319 | [192319-shepherd.json](./192319-shepherd.json) |
 | Shepherd Knight | 372123 | [372123-shepherd-knight.json](./372123-shepherd-knight.json) |
 | Shepherd of Light | 121594 | [121594-shepherd-of-light.json](./121594-shepherd-of-light.json) |
+| Shepherd Planet | 280124 | [280124-shepherd-planet.json](./280124-shepherd-planet.json) |
 | Shepherd's Crossing | 43270 | [43270-shepherds-crossing.json](./43270-shepherds-crossing.json) |
 | Shepherd's Eye | 288230 | [288230-shepherds-eye.json](./288230-shepherds-eye.json) |
 | Shepherd’s Plan | 314068 | [314068-shepherd-s-plan.json](./314068-shepherd-s-plan.json) |
@@ -11624,6 +11627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soulcreek | 229616 | [229616-soulcreek.json](./229616-soulcreek.json) |
 | Soulcrusher | 255881 | [255881-soulcrusher.json](./255881-soulcrusher.json) |
 | Souldead | 216895 | [216895-souldead.json](./216895-souldead.json) |
+| Soulers | 280122 | [280122-soulers.json](./280122-soulers.json) |
 | Soulfall | 326258 | [326258-soulfall.json](./326258-soulfall.json) |
 | SoulFeast | 369559 | [369559-soulfeast.json](./369559-soulfeast.json) |
 | Soulfire: Weapon Master | 152906 | [152906-soulfire-weapon-master.json](./152906-soulfire-weapon-master.json) |
@@ -13794,6 +13798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Splat Death Salad | 238077 | [238077-splat-death-salad.json](./238077-splat-death-salad.json) |
 | Splat Renegade Paintball | 47312 | [47312-splat-renegade-paintball.json](./47312-splat-renegade-paintball.json) |
 | Splat Splat | 348990 | [348990-splat-splat.json](./348990-splat-splat.json) |
+| Splat! | 280167 | [280167-splat.json](./280167-splat.json) |
 | Splat! | 46870 | [46870-splat.json](./46870-splat.json) |
 | Splatformer | 191166 | [191166-splatformer.json](./191166-splatformer.json) |
 | SplatooD | 195524 | [195524-splatood.json](./195524-splatood.json) |
