@@ -283,6 +283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Factorio: IR3 | 326052 | [326052-factorio-ir3.json](./326052-factorio-ir3.json) |
 | Factorio: Nullius | 326049 | [326049-factorio-nullius.json](./326049-factorio-nullius.json) |
 | Factorio: Space Age | 263344 | [263344-factorio-space-age.json](./263344-factorio-space-age.json) |
+| Factorio: Space Exploration | 314004 | [314004-factorio-space-exploration.json](./314004-factorio-space-exploration.json) |
 | Factorio: UltraCube | 326050 | [326050-factorio-ultracube.json](./326050-factorio-ultracube.json) |
 | Factorized | 421349 | [421349-factorized.json](./421349-factorized.json) |
 | Factory & Roof Collection | 328529 | [328529-factory-and-roof-collection.json](./328529-factory-and-roof-collection.json) |
@@ -617,6 +618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fall of the Son | 264108 | [264108-fall-of-the-son.json](./264108-fall-of-the-son.json) |
 | Fall of the Space Core, Vol. 1 | 392847 | [392847-fall-of-the-space-core-vol-1.json](./392847-fall-of-the-space-core-vol-1.json) |
 | Fall Platform | 320536 | [320536-fall-platform.json](./320536-fall-platform.json) |
+| Fall Squad Guys: Stumble Knockout Royale | 314016 | [314016-fall-squad-guys-stumble-knockout-royale.json](./314016-fall-squad-guys-stumble-knockout-royale.json) |
 | Fall Weiss | 62205 | [62205-fall-weiss.json](./62205-fall-weiss.json) |
 | Fall Words | 296350 | [296350-fall-words.json](./296350-fall-words.json) |
 | Fall... in Love | 105228 | [105228-fall-in-love.json](./105228-fall-in-love.json) |
@@ -6019,6 +6021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fork Frog | 350438 | [350438-fork-frog.json](./350438-fork-frog.json) |
 | Fork in the Road | 294155 | [294155-fork-in-the-road.json](./294155-fork-in-the-road.json) |
 | Fork Knights | 119757 | [119757-fork-knights.json](./119757-fork-knights.json) |
+| Fork N Sausage | 313974 | [313974-fork-n-sausage.json](./313974-fork-n-sausage.json) |
 | Fork of Damocles | 177028 | [177028-fork-of-damocles.json](./177028-fork-of-damocles.json) |
 | Fork of the Crimson Soul | 369051 | [369051-fork-of-the-crimson-soul.json](./369051-fork-of-the-crimson-soul.json) |
 | Fork Parker's Holiday Profit Hike | 14399 | [14399-fork-parkers-holiday-profit-hike.json](./14399-fork-parkers-holiday-profit-hike.json) |
