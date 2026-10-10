@@ -7762,6 +7762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Porcupine's Fate: Chapter 1 | 196694 | [196694-porcupines-fate-chapter-1.json](./196694-porcupines-fate-chapter-1.json) |
 | Porg Wars | 102841 | [102841-porg-wars.json](./102841-porg-wars.json) |
 | Porgy | 318416 | [318416-porgy.json](./318416-porgy.json) |
+| Pork Barrel | 318164 | [318164-pork-barrel.json](./318164-pork-barrel.json) |
 | Porkchop's Horror Show | 237438 | [237438-porkchops-horror-show.json](./237438-porkchops-horror-show.json) |
 | Porkerpillar | 89209 | [89209-porkerpillar.json](./89209-porkerpillar.json) |
 | Porklike: Wurst Comes to Worst Gameboy | 311700 | [311700-porklike-wurst-comes-to-worst-gameboy.json](./311700-porklike-wurst-comes-to-worst-gameboy.json) |
