@@ -2222,6 +2222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Recoup | 373182 | [373182-recoup.json](./373182-recoup.json) |
 | Recovering Stolen | 336683 | [336683-recovering-stolen.json](./336683-recovering-stolen.json) |
 | Recovery Syndicate | 235868 | [235868-recovery-syndicate.json](./235868-recovery-syndicate.json) |
+| Recovery Team | 301625 | [301625-recovery-team.json](./301625-recovery-team.json) |
 | Recovery: Search & Rescue | 53493 | [53493-recovery-search-and-rescue.json](./53493-recovery-search-and-rescue.json) |
 | Recreation Room | 369732 | [369732-recreation-room.json](./369732-recreation-room.json) |
 | Recreational Dreaming | 83574 | [83574-recreational-dreaming.json](./83574-recreational-dreaming.json) |
