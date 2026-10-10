@@ -4102,6 +4102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pin Climb | 318755 | [318755-pin-climb.json](./318755-pin-climb.json) |
 | Pin Crasher | 258989 | [258989-pin-crasher.json](./258989-pin-crasher.json) |
 | Pin Pong | 18155 | [18155-pin-pong.json](./18155-pin-pong.json) |
+| Pin Strike | 315807 | [315807-pin-strike.json](./315807-pin-strike.json) |
 | Pin Strike 2 | 375421 | [375421-pin-strike-2.json](./375421-pin-strike-2.json) |
 | Pin Strike 3 | 380656 | [380656-pin-strike-3.json](./380656-pin-strike-3.json) |
 | Pin Tiki Ball | 87552 | [87552-pin-tiki-ball.json](./87552-pin-tiki-ball.json) |
@@ -6725,6 +6726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Daybreak | 241389 | [241389-pokemon-daybreak.json](./241389-pokemon-daybreak.json) |
 | Pokemon Daycare | 264130 | [264130-pokemon-daycare.json](./264130-pokemon-daycare.json) |
 | Pokémon Decay | 360192 | [360192-pokemon-decay.json](./360192-pokemon-decay.json) |
+| Pokemon Definitive Platinum | 315820 | [315820-pokemon-definitive-platinum.json](./315820-pokemon-definitive-platinum.json) |
 | Pokémon Deluge | 172745 | [172745-pokemon-deluge.json](./172745-pokemon-deluge.json) |
 | Pokémon Digimon New World | 229098 | [229098-pokemon-digimon-new-world.json](./229098-pokemon-digimon-new-world.json) |
 | Pokémon Donjon Mystère Online | 304297 | [304297-pokemon-donjon-mystere-online.json](./304297-pokemon-donjon-mystere-online.json) |
@@ -10828,6 +10830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puyolin | 198873 | [198873-puyolin.json](./198873-puyolin.json) |
 | Puzigo | 416601 | [416601-puzigo.json](./416601-puzigo.json) |
 | Puzkend | 68930 | [68930-puzkend.json](./68930-puzkend.json) |
+| Puztrix | 315769 | [315769-puztrix.json](./315769-puztrix.json) |
 | Puzz 3D: The Orient Express | 70932 | [70932-puzz-3d-the-orient-express.json](./70932-puzz-3d-the-orient-express.json) |
 | Puzz Loop 2 | 39669 | [39669-puzz-loop-2.json](./39669-puzz-loop-2.json) |
 | Puzz LR | 150632 | [150632-puzz-lr.json](./150632-puzz-lr.json) |
