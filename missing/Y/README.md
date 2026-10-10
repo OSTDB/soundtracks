@@ -525,6 +525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yokoyama Mitsuteru Sangokushi Bangi: Sugoroku Eiyuuki | 37757 | [37757-yokoyama-mitsuteru-sangokushi-bangi-sugoroku-eiyuuki.json](./37757-yokoyama-mitsuteru-sangokushi-bangi-sugoroku-eiyuuki.json) |
 | Yokoyama Mitsuteru: Sangokushi | 37759 | [37759-yokoyama-mitsuteru-sangokushi.json](./37759-yokoyama-mitsuteru-sangokushi.json) |
 | Yokozuna Monogatari | 37756 | [37756-yokozuna-monogatari.json](./37756-yokozuna-monogatari.json) |
+| Yoku aru Dasshutsu Game | 319889 | [319889-yoku-aru-dasshutsu-game.json](./319889-yoku-aru-dasshutsu-game.json) |
 | Yoku's Island Express | 27367 | [27367-yokus-island-express.json](./27367-yokus-island-express.json) |
 | Yokubou Lock: Boku no Kanojo wa Shasei Kanrinin | 313262 | [313262-yokubou-lock-boku-no-kanojo-wa-shasei-kanrinin.json](./313262-yokubou-lock-boku-no-kanojo-wa-shasei-kanrinin.json) |
 | Yolo Chase | 241535 | [241535-yolo-chase.json](./241535-yolo-chase.json) |
