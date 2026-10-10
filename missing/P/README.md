@@ -1662,6 +1662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Partymasters | 90769 | [90769-partymasters.json](./90769-partymasters.json) |
 | Pas's restaurant | 346618 | [346618-pass-restaurant.json](./346618-pass-restaurant.json) |
 | Pasajeros | 192426 | [192426-pasajeros.json](./192426-pasajeros.json) |
+| Pasapalabra | 302728 | [302728-pasapalabra.json](./302728-pasapalabra.json) |
 | Pascal's Wager | 125912 | [125912-pascals-wager.json](./125912-pascals-wager.json) |
 | Pasha Planet: Reborn | 234186 | [234186-pasha-planet-reborn.json](./234186-pasha-planet-reborn.json) |
 | Pashah to Henshin: Beauty Academy | 327622 | [327622-pashah-to-henshin-beauty-academy.json](./327622-pashah-to-henshin-beauty-academy.json) |
@@ -2740,6 +2741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perfect Universe Play with Gravity | 99545 | [99545-perfect-universe-play-with-gravity.json](./99545-perfect-universe-play-with-gravity.json) |
 | Perfect Victim | 355619 | [355619-perfect-victim.json](./355619-perfect-victim.json) |
 | Perfect Wedding Solitaire | 386126 | [386126-perfect-wedding-solitaire.json](./386126-perfect-wedding-solitaire.json) |
+| Perfect World | 302776 | [302776-perfect-world.json](./302776-perfect-world.json) |
 | Perfect World | 8747 | [8747-perfect-world.json](./8747-perfect-world.json) |
 | Perfect World Mobile | 133769 | [133769-perfect-world-mobile.json](./133769-perfect-world-mobile.json) |
 | Perfect World: Ascend | 333123 | [333123-perfect-world-ascend.json](./333123-perfect-world-ascend.json) |
@@ -2761,6 +2763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peridium | 54895 | [54895-peridium.json](./54895-peridium.json) |
 | Perigee | 83950 | [83950-perigee.json](./83950-perigee.json) |
 | Perihelion: The Prophecy | 72287 | [72287-perihelion-the-prophecy.json](./72287-perihelion-the-prophecy.json) |
+| Perika Game | 302739 | [302739-perika-game.json](./302739-perika-game.json) |
 | Peril | 177036 | [177036-peril.json](./177036-peril.json) |
 | Peril | 197786 | [197786-peril.json](./197786-peril.json) |
 | Peril in the Agency | 365061 | [365061-peril-in-the-agency.json](./365061-peril-in-the-agency.json) |
