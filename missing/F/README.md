@@ -2908,6 +2908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fignermukcre | 128627 | [128627-fignermukcre.json](./128627-fignermukcre.json) |
 | Figurality | 269020 | [269020-figurality.json](./269020-figurality.json) |
 | Figuras y Figuraciones | 284569 | [284569-figuras-y-figuraciones.json](./284569-figuras-y-figuraciones.json) |
+| Figure Adventure | 305960 | [305960-figure-adventure.json](./305960-figure-adventure.json) |
 | Figure Fantasy | 182491 | [182491-figure-fantasy.json](./182491-figure-fantasy.json) |
 | Figure It Out: The Tantrum Simulator | 376234 | [376234-figure-it-out-the-tantrum-simulator.json](./376234-figure-it-out-the-tantrum-simulator.json) |
 | Figure of Eight | 402927 | [402927-figure-of-eight.json](./402927-figure-of-eight.json) |
@@ -5554,6 +5555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Club Inside | 390711 | [390711-football-club-inside.json](./390711-football-club-inside.json) |
 | Football Club Management 2023 | 214062 | [214062-football-club-management-2023.json](./214062-football-club-management-2023.json) |
 | Football Club Simulator - FCS | 36247 | [36247-football-club-simulator-fcs.json](./36247-football-club-simulator-fcs.json) |
+| Football Clubs | 306056 | [306056-football-clubs.json](./306056-football-clubs.json) |
 | Football Crazy Challenge | 84258 | [84258-football-crazy-challenge.json](./84258-football-crazy-challenge.json) |
 | Football Cup 2021 | 147253 | [147253-football-cup-2021.json](./147253-football-cup-2021.json) |
 | Football Cup 2022 | 187296 | [187296-football-cup-2022.json](./187296-football-cup-2022.json) |
