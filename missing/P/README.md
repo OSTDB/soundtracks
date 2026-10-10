@@ -1979,6 +1979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pawffice | 390162 | [390162-pawffice.json](./390162-pawffice.json) |
 | Pawfish Bay | 337181 | [337181-pawfish-bay.json](./337181-pawfish-bay.json) |
 | Pawful Dice | 390809 | [390809-pawful-dice.json](./390809-pawful-dice.json) |
+| PAWG Runner: A NSFW Platformer | 322634 | [322634-pawg-runner-a-nsfw-platformer.json](./322634-pawg-runner-a-nsfw-platformer.json) |
 | Pawker | 359528 | [359528-pawker.json](./359528-pawker.json) |
 | PawMart Tiny Market | 406833 | [406833-pawmart-tiny-market.json](./406833-pawmart-tiny-market.json) |
 | Pawn of the Dead | 107909 | [107909-pawn-of-the-dead.json](./107909-pawn-of-the-dead.json) |
@@ -4922,10 +4923,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Gun 2 | 406834 | [406834-pixel-gun-2.json](./406834-pixel-gun-2.json) |
 | Pixel Gun 3D: Critical Strike Set | 294953 | [294953-pixel-gun-3d-critical-strike-set.json](./294953-pixel-gun-3d-critical-strike-set.json) |
 | Pixel Gun 3D: Dark Fire Set | 294954 | [294954-pixel-gun-3d-dark-fire-set.json](./294954-pixel-gun-3d-dark-fire-set.json) |
+| Pixel Gun 3D: Deadly Toys Set | 322630 | [322630-pixel-gun-3d-deadly-toys-set.json](./322630-pixel-gun-3d-deadly-toys-set.json) |
 | Pixel Gun 3D: Frost Dive Set | 294952 | [294952-pixel-gun-3d-frost-dive-set.json](./294952-pixel-gun-3d-frost-dive-set.json) |
 | Pixel Gun 3D: PC Edition | 261628 | [261628-pixel-gun-3d-pc-edition.json](./261628-pixel-gun-3d-pc-edition.json) |
 | Pixel Gun 3D: Poison Retro Set | 294955 | [294955-pixel-gun-3d-poison-retro-set.json](./294955-pixel-gun-3d-poison-retro-set.json) |
 | Pixel Gun 3D: RGB Hero Set | 294951 | [294951-pixel-gun-3d-rgb-hero-set.json](./294951-pixel-gun-3d-rgb-hero-set.json) |
+| Pixel Gun 3D: Wastelands Set | 322633 | [322633-pixel-gun-3d-wastelands-set.json](./322633-pixel-gun-3d-wastelands-set.json) |
 | Pixel Gun Battle | 370201 | [370201-pixel-gun-battle.json](./370201-pixel-gun-battle.json) |
 | Pixel Gun World | 307855 | [307855-pixel-gun-world.json](./307855-pixel-gun-world.json) |
 | Pixel Gunmen | 226772 | [226772-pixel-gunmen.json](./226772-pixel-gunmen.json) |
@@ -8562,6 +8565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prezzemolo in una Giornata da Incubo | 93026 | [93026-prezzemolo-in-una-giornata-da-incubo.json](./93026-prezzemolo-in-una-giornata-da-incubo.json) |
 | Prezzies | 270071 | [270071-prezzies.json](./270071-prezzies.json) |
 | Pri Pri: Primitive Princess! | 66205 | [66205-pri-pri-primitive-princess.json](./66205-pri-pri-primitive-princess.json) |
+| Pri-Pia: Prince Pia Carrot | 322817 | [322817-pri-pia-prince-pia-carrot.json](./322817-pri-pia-prince-pia-carrot.json) |
 | Price for Freedom: Avarice | 234035 | [234035-price-for-freedom-avarice.json](./234035-price-for-freedom-avarice.json) |
 | Price for Freedom: Gold and Sand | 295345 | [295345-price-for-freedom-gold-and-sand.json](./295345-price-for-freedom-gold-and-sand.json) |
 | Price of a Life | 358991 | [358991-price-of-a-life.json](./358991-price-of-a-life.json) |
@@ -11269,6 +11273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pytho's Mask | 60016 | [60016-pythos-mask.json](./60016-pythos-mask.json) |
 | Pythonisa | 352336 | [352336-pythonisa.json](./352336-pythonisa.json) |
 | Pythonmancer | 298161 | [298161-pythonmancer.json](./298161-pythonmancer.json) |
+| Pyun Pyun Heart Throbbing Endless Love Bakery | 322632 | [322632-pyun-pyun-heart-throbbing-endless-love-bakery.json](./322632-pyun-pyun-heart-throbbing-endless-love-bakery.json) |
 | Pyuu to Fuku! Jaguar Byuu to Deru! Megane-Kun | 49797 | [49797-pyuu-to-fuku-jaguar-byuu-to-deru-megane-kun.json](./49797-pyuu-to-fuku-jaguar-byuu-to-deru-megane-kun.json) |
 | PyWright Tutorial | 303767 | [303767-pywright-tutorial.json](./303767-pywright-tutorial.json) |
 | Pyxel Knight | 159850 | [159850-pyxel-knight.json](./159850-pyxel-knight.json) |
