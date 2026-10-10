@@ -2334,6 +2334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Pursuit VR | 31977 | [31977-ghost-pursuit-vr.json](./31977-ghost-pursuit-vr.json) |
 | Ghost Racer | 174212 | [174212-ghost-racer.json](./174212-ghost-racer.json) |
 | Ghost Racing: Formula E | 130324 | [130324-ghost-racing-formula-e.json](./130324-ghost-racing-formula-e.json) |
+| Ghost Recon: Heroes Unleashed | 283119 | [283119-ghost-recon-heroes-unleashed.json](./283119-ghost-recon-heroes-unleashed.json) |
 | Ghost Restaurant | 390599 | [390599-ghost-restaurant.json](./390599-ghost-restaurant.json) |
 | Ghost Rider | 218142 | [218142-ghost-rider.json](./218142-ghost-rider.json) |
 | Ghost Room | 291882 | [291882-ghost-room.json](./291882-ghost-room.json) |
@@ -3942,6 +3943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goldene Zeiten | 94234 | [94234-goldene-zeiten.json](./94234-goldene-zeiten.json) |
 | GoldenEye 007 | 1647 | [1647-goldeneye-007.json](./1647-goldeneye-007.json) |
 | Goldeneye Doom2 | 196026 | [196026-goldeneye-doom2.json](./196026-goldeneye-doom2.json) |
+| GoldenEye With Mario Characters | 283110 | [283110-goldeneye-with-mario-characters.json](./283110-goldeneye-with-mario-characters.json) |
 | GoldenEye: Rogue Agent | 146882 | [146882-goldeneye-rogue-agent.json](./146882-goldeneye-rogue-agent.json) |
 | Goldenjar Fall | 154028 | [154028-goldenjar-fall.json](./154028-goldenjar-fall.json) |
 | GoldenMiner | 253939 | [253939-goldenminer.json](./253939-goldenminer.json) |
