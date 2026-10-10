@@ -3315,6 +3315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invaders | 250915 | [250915-invaders.json](./250915-invaders.json) |
 | Invaders | 259163 | [259163-invaders.json](./259163-invaders.json) |
 | Invaders | 271990 | [271990-invaders.json](./271990-invaders.json) |
+| Invaders | 312258 | [312258-invaders.json](./312258-invaders.json) |
 | Invaders | 346119 | [346119-invaders.json](./346119-invaders.json) |
 | Invaders | 374044 | [374044-invaders.json](./374044-invaders.json) |
 | Invaders | 380798 | [380798-invaders.json](./380798-invaders.json) |
