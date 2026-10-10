@@ -4880,6 +4880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hira Hira Hihiru | 221418 | [221418-hira-hira-hihiru.json](./221418-hira-hira-hihiru.json) |
 | Hiraeth | 280264 | [280264-hiraeth.json](./280264-hiraeth.json) |
 | Hiraeth | 291584 | [291584-hiraeth.json](./291584-hiraeth.json) |
+| Hiragana Hero | 303308 | [303308-hiragana-hero.json](./303308-hiragana-hero.json) |
 | Hiragana Word Challenge | 418325 | [418325-hiragana-word-challenge.json](./418325-hiragana-word-challenge.json) |
 | Hirai Nya | 333507 | [333507-hirai-nya.json](./333507-hirai-nya.json) |
 | Hirata Shougo Interactive Ehon: Aesop Monogatari Vol. 1 | 245530 | [245530-hirata-shougo-interactive-ehon-aesop-monogatari-vol-1.json](./245530-hirata-shougo-interactive-ehon-aesop-monogatari-vol-1.json) |
