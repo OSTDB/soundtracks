@@ -1388,6 +1388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gay Harem | 165494 | [165494-gay-harem.json](./165494-gay-harem.json) |
 | Gay It Loud | 416763 | [416763-gay-it-loud.json](./416763-gay-it-loud.json) |
 | Gay Joker | 303315 | [303315-gay-joker.json](./303315-gay-joker.json) |
+| Gay Sex Adventures: Episode 7 | 301646 | [301646-gay-sex-adventures-episode-7.json](./301646-gay-sex-adventures-episode-7.json) |
 | Gay Sex Adventures: Episode 8 | 304857 | [304857-gay-sex-adventures-episode-8.json](./304857-gay-sex-adventures-episode-8.json) |
 | Gay Sex Simulator | 405059 | [405059-gay-sex-simulator.json](./405059-gay-sex-simulator.json) |
 | Gay World | 81954 | [81954-gay-world.json](./81954-gay-world.json) |
