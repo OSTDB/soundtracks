@@ -412,6 +412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wandering Meatbags | 191552 | [191552-wandering-meatbags.json](./191552-wandering-meatbags.json) |
 | Wandering Monolith | 319831 | [319831-wandering-monolith.json](./319831-wandering-monolith.json) |
 | Wandering Owl | 107420 | [107420-wandering-owl.json](./107420-wandering-owl.json) |
+| Wandering Pet Garden | 297892 | [297892-wandering-pet-garden.json](./297892-wandering-pet-garden.json) |
 | Wandering Petal | 304909 | [304909-wandering-petal.json](./304909-wandering-petal.json) |
 | Wandering Planet: Prelude | 298599 | [298599-wandering-planet-prelude.json](./298599-wandering-planet-prelude.json) |
 | Wandering Skies | 247477 | [247477-wandering-skies.json](./247477-wandering-skies.json) |
@@ -2301,6 +2302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What a Shitty Job | 348869 | [348869-what-a-shitty-job.json](./348869-what-a-shitty-job.json) |
 | What A Trash Game | 104150 | [104150-what-a-trash-game.json](./104150-what-a-trash-game.json) |
 | What Awaits Us Below | 177295 | [177295-what-awaits-us-below.json](./177295-what-awaits-us-below.json) |
+| What Awaits, Aleksey? | 297897 | [297897-what-awaits-aleksey.json](./297897-what-awaits-aleksey.json) |
 | What Beats Rock | 309019 | [309019-what-beats-rock.json](./309019-what-beats-rock.json) |
 | What Belongs?Find Hidden Words | 232057 | [232057-what-belongs-find-hidden-words.json](./232057-what-belongs-find-hidden-words.json) |
 | What Body? | 281385 | [281385-what-body.json](./281385-what-body.json) |
