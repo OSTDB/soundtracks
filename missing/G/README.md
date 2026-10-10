@@ -4857,6 +4857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Granny's Gotcha | 343414 | [343414-grannys-gotcha.json](./343414-grannys-gotcha.json) |
 | Granny's Grantastic Granventure | 105096 | [105096-grannys-grantastic-granventure.json](./105096-grannys-grantastic-granventure.json) |
 | Granny's House | 182449 | [182449-grannys-house.json](./182449-grannys-house.json) |
+| GrannyHop | 298398 | [298398-grannyhop.json](./298398-grannyhop.json) |
 | Granola Jumps | 297252 | [297252-granola-jumps.json](./297252-granola-jumps.json) |
 | Granser | 295855 | [295855-granser.json](./295855-granser.json) |
 | Gränsland | 201653 | [201653-gransland.json](./201653-gransland.json) |
