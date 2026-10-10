@@ -9623,6 +9623,20 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crash Presents September 1990 | 73356 | [73356-crash-presents-september-1990.json](./73356-crash-presents-september-1990.json) |
 | Crash Tag Team Racing | 1194 | [1194-crash-tag-team-racing.json](./1194-crash-tag-team-racing.json) |
 | Crash Team Racing Nitro-Fueled | 113113 | [113113-crash-team-racing-nitro-fueled.json](./113113-crash-team-racing-nitro-fueled.json) |
+| Crash Team Racing Nitro-Fueled: Back N. Time Grand Prix | 324837 | [324837-crash-team-racing-nitro-fueled-back-n-time-grand-prix.json](./324837-crash-team-racing-nitro-fueled-back-n-time-grand-prix.json) |
+| Crash Team Racing Nitro-Fueled: Cove Cruiser Kart Body + Tropic Swirl Decal | 325137 | [325137-crash-team-racing-nitro-fueled-cove-cruiser-kart-body-tropic-swirl-decal.json](./325137-crash-team-racing-nitro-fueled-cove-cruiser-kart-body-tropic-swirl-decal.json) |
+| Crash Team Racing Nitro-Fueled: Gasmoxia Grand Prix | 324843 | [324843-crash-team-racing-nitro-fueled-gasmoxia-grand-prix.json](./324843-crash-team-racing-nitro-fueled-gasmoxia-grand-prix.json) |
+| Crash Team Racing Nitro-Fueled: Gummy Grinder Wheels | 325136 | [325136-crash-team-racing-nitro-fueled-gummy-grinder-wheels.json](./325136-crash-team-racing-nitro-fueled-gummy-grinder-wheels.json) |
+| Crash Team Racing Nitro-Fueled: Kids Sticker Pack | 325135 | [325135-crash-team-racing-nitro-fueled-kids-sticker-pack.json](./325135-crash-team-racing-nitro-fueled-kids-sticker-pack.json) |
+| Crash Team Racing Nitro-Fueled: Mint Burst Paint Job | 325138 | [325138-crash-team-racing-nitro-fueled-mint-burst-paint-job.json](./325138-crash-team-racing-nitro-fueled-mint-burst-paint-job.json) |
+| Crash Team Racing Nitro-Fueled: Neon Circus Grand Prix | 324840 | [324840-crash-team-racing-nitro-fueled-neon-circus-grand-prix.json](./324840-crash-team-racing-nitro-fueled-neon-circus-grand-prix.json) |
+| Crash Team Racing Nitro-Fueled: Nitro Tour Grand Prix | 324836 | [324836-crash-team-racing-nitro-fueled-nitro-tour-grand-prix.json](./324836-crash-team-racing-nitro-fueled-nitro-tour-grand-prix.json) |
+| Crash Team Racing Nitro-Fueled: Post-Grand Prix | 324844 | [324844-crash-team-racing-nitro-fueled-post-grand-prix.json](./324844-crash-team-racing-nitro-fueled-post-grand-prix.json) |
+| Crash Team Racing Nitro-Fueled: Rustland Grand Prix | 324842 | [324842-crash-team-racing-nitro-fueled-rustland-grand-prix.json](./324842-crash-team-racing-nitro-fueled-rustland-grand-prix.json) |
+| Crash Team Racing Nitro-Fueled: Spooky Grand Prix | 324839 | [324839-crash-team-racing-nitro-fueled-spooky-grand-prix.json](./324839-crash-team-racing-nitro-fueled-spooky-grand-prix.json) |
+| Crash Team Racing Nitro-Fueled: Spyro N. Friends Grand Prix | 324838 | [324838-crash-team-racing-nitro-fueled-spyro-n-friends-grand-prix.json](./324838-crash-team-racing-nitro-fueled-spyro-n-friends-grand-prix.json) |
+| Crash Team Racing Nitro-Fueled: Winter Festival Grand Prix | 324841 | [324841-crash-team-racing-nitro-fueled-winter-festival-grand-prix.json](./324841-crash-team-racing-nitro-fueled-winter-festival-grand-prix.json) |
+| Crash Team Racing Nitro-Fueled: Xfinity Flash Kart | 325134 | [325134-crash-team-racing-nitro-fueled-xfinity-flash-kart.json](./325134-crash-team-racing-nitro-fueled-xfinity-flash-kart.json) |
 | Crash Team Racing: Christmas Team Racing | 408977 | [408977-crash-team-racing-christmas-team-racing.json](./408977-crash-team-racing-christmas-team-racing.json) |
 | Crash Team Racing: Retro-Fueled | 262407 | [262407-crash-team-racing-retro-fueled.json](./262407-crash-team-racing-retro-fueled.json) |
 | Crash Team Racing: Unlimited | 360136 | [360136-crash-team-racing-unlimited.json](./360136-crash-team-racing-unlimited.json) |
@@ -10218,6 +10232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crime Stories: Days of Vengeance | 105247 | [105247-crime-stories-days-of-vengeance.json](./105247-crime-stories-days-of-vengeance.json) |
 | Crime Wave | 23837 | [23837-crime-wave.json](./23837-crime-wave.json) |
 | CrimeBloc | 347795 | [347795-crimebloc.json](./347795-crimebloc.json) |
+| CrimeBot 2: Unsolved Cold Case | 324862 | [324862-crimebot-2-unsolved-cold-case.json](./324862-crimebot-2-unsolved-cold-case.json) |
 | CrimeBound Chronicles | 345109 | [345109-crimebound-chronicles.json](./345109-crimebound-chronicles.json) |
 | CrimeCraft Bleedout | 51265 | [51265-crimecraft-bleedout.json](./51265-crimecraft-bleedout.json) |
 | Crimes Against Slimes | 322649 | [322649-crimes-against-slimes.json](./322649-crimes-against-slimes.json) |
@@ -10900,6 +10915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crustacean Frustration | 395021 | [395021-crustacean-frustration.json](./395021-crustacean-frustration.json) |
 | Crustacean Nations | 211254 | [211254-crustacean-nations.json](./211254-crustacean-nations.json) |
 | Crusty Demons | 20537 | [20537-crusty-demons.json](./20537-crusty-demons.json) |
+| Crusty Proto | 324856 | [324856-crusty-proto.json](./324856-crusty-proto.json) |
 | Crux | 249347 | [249347-crux.json](./249347-crux.json) |
 | Crux 92 | 391805 | [391805-crux-92.json](./391805-crux-92.json) |
 | Crux: The Great Outdoors | 200161 | [200161-crux-the-great-outdoors.json](./200161-crux-the-great-outdoors.json) |
