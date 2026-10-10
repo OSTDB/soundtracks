@@ -1155,6 +1155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VICCP 2 Core | 244840 | [244840-viccp-2-core.json](./244840-viccp-2-core.json) |
 | Vice City Big Mission Pack | 403800 | [403800-vice-city-big-mission-pack.json](./403800-vice-city-big-mission-pack.json) |
 | Vice City Race | 272392 | [272392-vice-city-race.json](./272392-vice-city-race.json) |
+| Vice Grill: Synthwave Survival | 297885 | [297885-vice-grill-synthwave-survival.json](./297885-vice-grill-synthwave-survival.json) |
 | Vice Undercover | 204447 | [204447-vice-undercover.json](./204447-vice-undercover.json) |
 | Vice: Magic City Mayhem | 331378 | [331378-vice-magic-city-mayhem.json](./331378-vice-magic-city-mayhem.json) |
 | Vicera | 321521 | [321521-vicera.json](./321521-vicera.json) |
