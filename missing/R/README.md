@@ -1580,6 +1580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Re Painter | 120838 | [120838-re-painter.json](./120838-re-painter.json) |
 | Re Parry | 179160 | [179160-re-parry.json](./179160-re-parry.json) |
 | Re Rive | 202323 | [202323-re-rive.json](./202323-re-rive.json) |
+| Re Watch | 312861 | [312861-re-watch.json](./312861-re-watch.json) |
 | Re-Blood | 198357 | [198357-re-blood.json](./198357-re-blood.json) |
 | Re-bot | 75906 | [75906-re-bot.json](./75906-re-bot.json) |
 | Re-Bounder | 40940 | [40940-re-bounder.json](./40940-re-bounder.json) |
@@ -5522,6 +5523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robot Vacuum Simulator 2013 | 61629 | [61629-robot-vacuum-simulator-2013.json](./61629-robot-vacuum-simulator-2013.json) |
 | Robot Vacuum Simulator X | 130370 | [130370-robot-vacuum-simulator-x.json](./130370-robot-vacuum-simulator-x.json) |
 | Robot vs Birds Zombies | 34782 | [34782-robot-vs-birds-zombies.json](./34782-robot-vs-birds-zombies.json) |
+| Robot vs Monsters | 312842 | [312842-robot-vs-monsters.json](./312842-robot-vs-monsters.json) |
 | Robot Wants It All | 108325 | [108325-robot-wants-it-all.json](./108325-robot-wants-it-all.json) |
 | Robot Warfare | 109205 | [109205-robot-warfare.json](./109205-robot-warfare.json) |
 | Robot Warlords | 72937 | [72937-robot-warlords.json](./72937-robot-warlords.json) |
