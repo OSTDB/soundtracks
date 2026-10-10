@@ -274,6 +274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Game About Plant | 379506 | [379506-a-game-about-plant.json](./379506-a-game-about-plant.json) |
 | A Game About Selling Used Games | 379505 | [379505-a-game-about-selling-used-games.json](./379505-a-game-about-selling-used-games.json) |
 | A Game About You | 379504 | [379504-a-game-about-you.json](./379504-a-game-about-you.json) |
+| A Game Called Paako: The Game Called Paako | 293526 | [293526-a-game-called-paako-the-game-called-paako.json](./293526-a-game-called-paako-the-game-called-paako.json) |
 | A Game of Concentration | 40723 | [40723-a-game-of-concentration.json](./40723-a-game-of-concentration.json) |
 | A Game of D.I.C.E. | 373905 | [373905-a-game-of-d-i-c-e.json](./373905-a-game-of-d-i-c-e.json) |
 | A Game of Dwarves: Pets | 156166 | [156166-a-game-of-dwarves-pets.json](./156166-a-game-of-dwarves-pets.json) |
@@ -855,6 +856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Winter's Daydream | 110460 | [110460-a-winters-daydream.json](./110460-a-winters-daydream.json) |
 | A Wish Star | 308887 | [308887-a-wish-star.json](./308887-a-wish-star.json) |
 | A Witch Shall be Born | 315559 | [315559-a-witch-shall-be-born.json](./315559-a-witch-shall-be-born.json) |
+| A Witch's Game | 293552 | [293552-a-witchs-game.json](./293552-a-witchs-game.json) |
 | A Witch's Stop | 382374 | [382374-a-witchs-stop.json](./382374-a-witchs-stop.json) |
 | A Wizard's Curse | 416855 | [416855-a-wizards-curse.json](./416855-a-wizards-curse.json) |
 | A Wizard's Odyssey | 68651 | [68651-a-wizards-odyssey.json](./68651-a-wizards-odyssey.json) |
@@ -4353,6 +4355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alleviate | 326274 | [326274-alleviate.json](./326274-alleviate.json) |
 | Alley Cats | 206108 | [206108-alley-cats.json](./206108-alley-cats.json) |
 | Alley Master | 40243 | [40243-alley-master.json](./40243-alley-master.json) |
+| Alley Nine | 293550 | [293550-alley-nine.json](./293550-alley-nine.json) |
 | Alley Oops | 79283 | [79283-alley-oops.json](./79283-alley-oops.json) |
 | Alley Restaurant Tycoon | 304320 | [304320-alley-restaurant-tycoon.json](./304320-alley-restaurant-tycoon.json) |
 | Alleykat | 28850 | [28850-alleykat.json](./28850-alleykat.json) |
@@ -9222,6 +9225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assembly Line 2: Mobile Version | 277015 | [277015-assembly-line-2-mobile-version.json](./277015-assembly-line-2-mobile-version.json) |
 | Assembly Planter | 160176 | [160176-assembly-planter.json](./160176-assembly-planter.json) |
 | Assembly Required | 96496 | [96496-assembly-required.json](./96496-assembly-required.json) |
+| Assembly RTS | 293524 | [293524-assembly-rts.json](./293524-assembly-rts.json) |
 | Assenizator | 355116 | [355116-assenizator.json](./355116-assenizator.json) |
 | Assessment | 323791 | [323791-assessment.json](./323791-assessment.json) |
 | Assessment Examination | 216284 | [216284-assessment-examination.json](./216284-assessment-examination.json) |
