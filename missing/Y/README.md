@@ -263,6 +263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yaz | 263145 | [263145-yaz.json](./263145-yaz.json) |
 | Yazzie | 141112 | [141112-yazzie.json](./141112-yazzie.json) |
 | YBit | 65790 | [65790-ybit.json](./65790-ybit.json) |
+| Ycom | 279517 | [279517-ycom.json](./279517-ycom.json) |
 | Ye Fenny: Revenge of the Evil Good Shepherd | 81783 | [81783-ye-fenny-revenge-of-the-evil-good-shepherd.json](./81783-ye-fenny-revenge-of-the-evil-good-shepherd.json) |
 | Yeager | 186739 | [186739-yeager.json](./186739-yeager.json) |
 | Yeah Bunny 2 | 337091 | [337091-yeah-bunny-2.json](./337091-yeah-bunny-2.json) |
@@ -1353,6 +1354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yuurou: Transient Sands | 327422 | [327422-yuurou-transient-sands.json](./327422-yuurou-transient-sands.json) |
 | Yuusha | 22480 | [22480-yuusha.json](./22480-yuusha.json) |
 | Yuusha Exkaiser: Geister wo Taose! | 284453 | [284453-yuusha-exkaiser-geister-wo-taose.json](./284453-yuusha-exkaiser-geister-wo-taose.json) |
+| Yuusha no Densetsu no Yuusha | 279511 | [279511-yuusha-no-densetsu-no-yuusha.json](./279511-yuusha-no-densetsu-no-yuusha.json) |
 | Yuusha no Kuse ni Konamaiki da Dash!! | 223973 | [223973-yuusha-no-kuse-ni-konamaiki-da-dash.json](./223973-yuusha-no-kuse-ni-konamaiki-da-dash.json) |
 | Yuusha no Sentakushi ga Okashii | 347818 | [347818-yuusha-no-sentakushi-ga-okashii.json](./347818-yuusha-no-sentakushi-ga-okashii.json) |
 | Yuusha to Maou to, Majo no Cafe | 97377 | [97377-yuusha-to-maou-to-majo-no-cafe.json](./97377-yuusha-to-maou-to-majo-no-cafe.json) |
