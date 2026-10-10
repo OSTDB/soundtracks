@@ -8544,6 +8544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SM64 Shining Stars Repainted | 135169 | [135169-sm64-shining-stars-repainted.json](./135169-sm64-shining-stars-repainted.json) |
 | SM64 The Dark Stars | 386848 | [386848-sm64-the-dark-stars.json](./386848-sm64-the-dark-stars.json) |
 | SM64 The Green Stars | 132830 | [132830-sm64-the-green-stars.json](./132830-sm64-the-green-stars.json) |
+| SM64 The Green Stars PC | 308446 | [308446-sm64-the-green-stars-pc.json](./308446-sm64-the-green-stars-pc.json) |
 | SM64 TsucnenT's Treasures PC Port | 378273 | [378273-sm64-tsucnents-treasures-pc-port.json](./378273-sm64-tsucnents-treasures-pc-port.json) |
 | SM64: Last Impact | 132725 | [132725-sm64-last-impact.json](./132725-sm64-last-impact.json) |
 | SM64: Rocky Mountain Revisited | 256295 | [256295-sm64-rocky-mountain-revisited.json](./256295-sm64-rocky-mountain-revisited.json) |
@@ -15722,6 +15723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starsiege: Tribes | 881 | [881-starsiege-tribes.json](./881-starsiege-tribes.json) |
 | StarSim | 238094 | [238094-starsim.json](./238094-starsim.json) |
 | Starsky & Hutch | 243809 | [243809-starsky-and-hutch.json](./243809-starsky-and-hutch.json) |
+| Starslave | 308523 | [308523-starslave.json](./308523-starslave.json) |
 | StarSmashers | 32140 | [32140-starsmashers.json](./32140-starsmashers.json) |
 | StarsOne | 33171 | [33171-starsone.json](./33171-starsone.json) |
 | Starspawn: A Miskatonic Mystery | 347785 | [347785-starspawn-a-miskatonic-mystery.json](./347785-starspawn-a-miskatonic-mystery.json) |
