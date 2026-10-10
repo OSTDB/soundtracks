@@ -667,6 +667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jenny | 369182 | [369182-jenny.json](./369182-jenny.json) |
 | Jenny LeClue: Detectivu | 21344 | [21344-jenny-leclue-detectivu.json](./21344-jenny-leclue-detectivu.json) |
 | Jenny Love You | 408122 | [408122-jenny-love-you.json](./408122-jenny-love-you.json) |
+| Jenny Lusby: Intergalactic Adventures | 307257 | [307257-jenny-lusby-intergalactic-adventures.json](./307257-jenny-lusby-intergalactic-adventures.json) |
 | Jenny the Witch | 384852 | [384852-jenny-the-witch.json](./384852-jenny-the-witch.json) |
 | Jenny's Fish Shop | 177044 | [177044-jennys-fish-shop.json](./177044-jennys-fish-shop.json) |
 | Jensen Strikes Back | 340984 | [340984-jensen-strikes-back.json](./340984-jensen-strikes-back.json) |
