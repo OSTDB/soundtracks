@@ -7472,6 +7472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ponder Club | 394542 | [394542-ponder-club.json](./394542-ponder-club.json) |
 | Pondlife | 384543 | [384543-pondlife.json](./384543-pondlife.json) |
 | Pong | 198869 | [198869-pong.json](./198869-pong.json) |
+| Pong | 306040 | [306040-pong.json](./306040-pong.json) |
 | Pong | 411527 | [411527-pong.json](./411527-pong.json) |
 | Pong - Old School | 86705 | [86705-pong-old-school.json](./86705-pong-old-school.json) |
 | Pong Champion VR | 31944 | [31944-pong-champion-vr.json](./31944-pong-champion-vr.json) |
@@ -9593,6 +9594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project II: Final Fantasy IV | 379344 | [379344-project-ii-final-fantasy-iv.json](./379344-project-ii-final-fantasy-iv.json) |
 | Project Impulse | 203304 | [203304-project-impulse.json](./203304-project-impulse.json) |
 | Project Ion | 62550 | [62550-project-ion.json](./62550-project-ion.json) |
+| Project Juggler | 305967 | [305967-project-juggler.json](./305967-project-juggler.json) |
 | Project Jump Scare | 60769 | [60769-project-jump-scare.json](./60769-project-jump-scare.json) |
 | Project Justice | 13096 | [13096-project-justice.json](./13096-project-justice.json) |
 | Project K1 | 264009 | [264009-project-k1.json](./264009-project-k1.json) |
