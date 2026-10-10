@@ -3144,6 +3144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rendezvous: Shadows of the Past | 199444 | [199444-rendezvous-shadows-of-the-past.json](./199444-rendezvous-shadows-of-the-past.json) |
 | Rending Sky | 114374 | [114374-rending-sky.json](./114374-rending-sky.json) |
 | Rendition | 172498 | [172498-rendition.json](./172498-rendition.json) |
+| Rendsword | 279566 | [279566-rendsword.json](./279566-rendsword.json) |
 | Renegade | 191644 | [191644-renegade.json](./191644-renegade.json) |
 | Renegade | 255243 | [255243-renegade.json](./255243-renegade.json) |
 | Renegade | 255262 | [255262-renegade.json](./255262-renegade.json) |
