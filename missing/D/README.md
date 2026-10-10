@@ -2171,6 +2171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Man's Diary | 194871 | [194871-dead-mans-diary.json](./194871-dead-mans-diary.json) |
 | Dead Man's Fault | 228082 | [228082-dead-mans-fault.json](./228082-dead-mans-fault.json) |
 | Dead Man's Hand | 5809 | [5809-dead-mans-hand.json](./5809-dead-mans-hand.json) |
+| Dead Man's Hand: Card Roulette Action | 291388 | [291388-dead-mans-hand-card-roulette-action.json](./291388-dead-mans-hand-card-roulette-action.json) |
 | Dead Man's Journey | 58314 | [58314-dead-mans-journey.json](./58314-dead-mans-journey.json) |
 | Dead Man's Political Party | 71454 | [71454-dead-mans-political-party.json](./71454-dead-mans-political-party.json) |
 | Dead Man's Quest | 271937 | [271937-dead-mans-quest.json](./271937-dead-mans-quest.json) |
@@ -6447,6 +6448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disrupt | 9923 | [9923-disrupt.json](./9923-disrupt.json) |
 | Disruptive Compassion | 364496 | [364496-disruptive-compassion.json](./364496-disruptive-compassion.json) |
 | Disruptor | 20654 | [20654-disruptor.json](./20654-disruptor.json) |
+| Dissecting Love | 291373 | [291373-dissecting-love.json](./291373-dissecting-love.json) |
 | Dissection Simulator: Dogfish Edition | 171575 | [171575-dissection-simulator-dogfish-edition.json](./171575-dissection-simulator-dogfish-edition.json) |
 | Dissension | 202720 | [202720-dissension.json](./202720-dissension.json) |
 | Dissent | 202751 | [202751-dissent.json](./202751-dissent.json) |
@@ -7134,6 +7136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doki Doki A Slice Of Life | 333928 | [333928-doki-doki-a-slice-of-life.json](./333928-doki-doki-a-slice-of-life.json) |
 | Doki Doki A Summer's Requiem | 361806 | [361806-doki-doki-a-summers-requiem.json](./361806-doki-doki-a-summers-requiem.json) |
 | Doki Doki Ace Attorney | 314043 | [314043-doki-doki-ace-attorney.json](./314043-doki-doki-ace-attorney.json) |
+| Doki Doki AI Interrogation | 291380 | [291380-doki-doki-ai-interrogation.json](./291380-doki-doki-ai-interrogation.json) |
 | Doki Doki Another Moment With You | 333604 | [333604-doki-doki-another-moment-with-you.json](./333604-doki-doki-another-moment-with-you.json) |
 | Doki Doki Another Round | 334267 | [334267-doki-doki-another-round.json](./334267-doki-doki-another-round.json) |
 | Doki Doki Brazilian Club Puts! | 332837 | [332837-doki-doki-brazilian-club-puts.json](./332837-doki-doki-brazilian-club-puts.json) |
@@ -9407,6 +9410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draw Near | 95600 | [95600-draw-near.json](./95600-draw-near.json) |
 | Draw Nine | 135613 | [135613-draw-nine.json](./135613-draw-nine.json) |
 | Draw No More | 177523 | [177523-draw-no-more.json](./177523-draw-no-more.json) |
+| Draw Physics Line | 291379 | [291379-draw-physics-line.json](./291379-draw-physics-line.json) |
 | Draw Puzzle | 46479 | [46479-draw-puzzle.json](./46479-draw-puzzle.json) |
 | Draw Race 2: Racing Evolved | 65859 | [65859-draw-race-2-racing-evolved.json](./65859-draw-race-2-racing-evolved.json) |
 | Draw Rider | 33349 | [33349-draw-rider.json](./33349-draw-rider.json) |
@@ -10042,6 +10046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drinkbox Vita Collection | 99542 | [99542-drinkbox-vita-collection.json](./99542-drinkbox-vita-collection.json) |
 | Drinking in the Hot Spring! | 330180 | [330180-drinking-in-the-hot-spring.json](./330180-drinking-in-the-hot-spring.json) |
 | Drinks Company Tycoon | 173053 | [173053-drinks-company-tycoon.json](./173053-drinks-company-tycoon.json) |
+| Drinks Down Under | 291384 | [291384-drinks-down-under.json](./291384-drinks-down-under.json) |
 | Drip Drip | 10247 | [10247-drip-drip.json](./10247-drip-drip.json) |
 | Drip Drip | 86203 | [86203-drip-drip.json](./86203-drip-drip.json) |
 | Driv3r | 194978 | [194978-driv3r.json](./194978-driv3r.json) |
@@ -10249,6 +10254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DropMix | 71592 | [71592-dropmix.json](./71592-dropmix.json) |
 | Dropoff | 410269 | [410269-dropoff.json](./410269-dropoff.json) |
 | Dropped into the Modern World: Surviving the Red-Light District | 311623 | [311623-dropped-into-the-modern-world-surviving-the-red-light-district.json](./311623-dropped-into-the-modern-world-surviving-the-red-light-district.json) |
+| Drops of God: Creating your Ambrosia | 291378 | [291378-drops-of-god-creating-your-ambrosia.json](./291378-drops-of-god-creating-your-ambrosia.json) |
 | Dropship: United Peace Force | 44723 | [44723-dropship-united-peace-force.json](./44723-dropship-united-peace-force.json) |
 | Dropshipping Simulator | 155993 | [155993-dropshipping-simulator.json](./155993-dropshipping-simulator.json) |
 | DropShock | 137959 | [137959-dropshock.json](./137959-dropshock.json) |
