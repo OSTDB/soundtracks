@@ -1414,6 +1414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cardinal Quest | 46744 | [46744-cardinal-quest.json](./46744-cardinal-quest.json) |
 | Cardinal Ramship Pirate | 176295 | [176295-cardinal-ramship-pirate.json](./176295-cardinal-ramship-pirate.json) |
 | Cardinal Sequence | 333163 | [333163-cardinal-sequence.json](./333163-cardinal-sequence.json) |
+| Cardinal Sins | 308983 | [308983-cardinal-sins.json](./308983-cardinal-sins.json) |
 | Cardio | 363000 | [363000-cardio.json](./363000-cardio.json) |
 | CardioCasino | 177924 | [177924-cardiocasino.json](./177924-cardiocasino.json) |
 | CardioEX | 215246 | [215246-cardioex.json](./215246-cardioex.json) |
@@ -4702,6 +4703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chowder: Bookin' Cook | 318111 | [318111-chowder-bookin-cook.json](./318111-chowder-bookin-cook.json) |
 | Chowdown Kitty | 301284 | [301284-chowdown-kitty.json](./301284-chowdown-kitty.json) |
 | Chozetsu Rinjin Berabo Man | 42038 | [42038-chozetsu-rinjin-berabo-man.json](./42038-chozetsu-rinjin-berabo-man.json) |
+| Chri-Bocchi Cat | 308985 | [308985-chri-bocchi-cat.json](./308985-chri-bocchi-cat.json) |
 | Chris and the Badgers | 61592 | [61592-chris-and-the-badgers.json](./61592-chris-and-the-badgers.json) |
 | Chris Brackett's Kamikaze Karp | 101490 | [101490-chris-bracketts-kamikaze-karp.json](./101490-chris-bracketts-kamikaze-karp.json) |
 | Chris Moneymaker's World Poker Championship | 68636 | [68636-chris-moneymakers-world-poker-championship.json](./68636-chris-moneymakers-world-poker-championship.json) |
@@ -5407,6 +5409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Bus Driver Simulator | 279864 | [279864-city-bus-driver-simulator.json](./279864-city-bus-driver-simulator.json) |
 | City Bus Driver Simulator 2 | 311632 | [311632-city-bus-driver-simulator-2.json](./311632-city-bus-driver-simulator-2.json) |
 | City Bus Driving Simulator | 147606 | [147606-city-bus-driving-simulator.json](./147606-city-bus-driving-simulator.json) |
+| City Bus Simulator | 308999 | [308999-city-bus-simulator.json](./308999-city-bus-simulator.json) |
 | City Bus Simulator 2010 | 67299 | [67299-city-bus-simulator-2010.json](./67299-city-bus-simulator-2010.json) |
 | City Bus Simulator 2018 | 96501 | [96501-city-bus-simulator-2018.json](./96501-city-bus-simulator-2018.json) |
 | City Bus Tycoon | 89810 | [89810-city-bus-tycoon.json](./89810-city-bus-tycoon.json) |
@@ -12263,6 +12266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyberpunk Men for Cyberpunk Sex | 288882 | [288882-cyberpunk-men-for-cyberpunk-sex.json](./288882-cyberpunk-men-for-cyberpunk-sex.json) |
 | Cyberpunk Men for Sex Motel | 288895 | [288895-cyberpunk-men-for-sex-motel.json](./288895-cyberpunk-men-for-sex-motel.json) |
 | Cyberpunk Messenger | 169830 | [169830-cyberpunk-messenger.json](./169830-cyberpunk-messenger.json) |
+| Cyberpunk Parkour Uprising | 309003 | [309003-cyberpunk-parkour-uprising.json](./309003-cyberpunk-parkour-uprising.json) |
 | Cyberpunk Samurai | 309006 | [309006-cyberpunk-samurai.json](./309006-cyberpunk-samurai.json) |
 | Cyberpunk Sex | 277366 | [277366-cyberpunk-sex.json](./277366-cyberpunk-sex.json) |
 | CyberPunk Sex Tower | 171604 | [171604-cyberpunk-sex-tower.json](./171604-cyberpunk-sex-tower.json) |
