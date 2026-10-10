@@ -1322,6 +1322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nekro3 | 356836 | [356836-nekro3.json](./356836-nekro3.json) |
 | Nekron: 24 | 323199 | [323199-nekron-24.json](./323199-nekron-24.json) |
 | Nekrotronic VR | 121547 | [121547-nekrotronic-vr.json](./121547-nekrotronic-vr.json) |
+| Nekura na Classmate ga Ore no Ibukuro wo Tsukande Hanashite Kurenai | 326642 | [326642-nekura-na-classmate-ga-ore-no-ibukuro-wo-tsukande-hanashite-kurenai.json](./326642-nekura-na-classmate-ga-ore-no-ibukuro-wo-tsukande-hanashite-kurenai.json) |
 | Nekurogahara: Psycho Ronins | 359067 | [359067-nekurogahara-psycho-ronins.json](./359067-nekurogahara-psycho-ronins.json) |
 | Nelda Nockbladder's Anatomy Lesson | 73284 | [73284-nelda-nockbladders-anatomy-lesson.json](./73284-nelda-nockbladders-anatomy-lesson.json) |
 | Nelke & the Legendary Alchemists: Ateliers of a New World - Premium Box | 136794 | [136794-nelke-and-the-legendary-alchemists-ateliers-of-a-new-world-premium-box.json](./136794-nelke-and-the-legendary-alchemists-ateliers-of-a-new-world-premium-box.json) |
@@ -3179,6 +3180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Masters | 103632 | [103632-ninja-masters.json](./103632-ninja-masters.json) |
 | Ninja Miner | 408740 | [408740-ninja-miner.json](./408740-ninja-miner.json) |
 | Ninja Miner 2 | 408741 | [408741-ninja-miner-2.json](./408741-ninja-miner-2.json) |
+| Ninja Ming | 326664 | [326664-ninja-ming.json](./326664-ninja-ming.json) |
 | Ninja Ming: Wu | 341478 | [341478-ninja-ming-wu.json](./341478-ninja-ming-wu.json) |
 | Ninja Monkey | 309849 | [309849-ninja-monkey.json](./309849-ninja-monkey.json) |
 | Ninja Must Die | 143069 | [143069-ninja-must-die.json](./143069-ninja-must-die.json) |
@@ -3378,6 +3380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nippon Dojo | 351593 | [351593-nippon-dojo.json](./351593-nippon-dojo.json) |
 | Nippon Ichi no Meikantoku | 48803 | [48803-nippon-ichi-no-meikantoku.json](./48803-nippon-ichi-no-meikantoku.json) |
 | Nippon Marathon | 87673 | [87673-nippon-marathon.json](./87673-nippon-marathon.json) |
+| Nippon Marathon 2: Daijoubu | 326644 | [326644-nippon-marathon-2-daijoubu.json](./326644-nippon-marathon-2-daijoubu.json) |
 | Nippon Pro Mahjong: Renmei Kounin Motto 20-bai! Mahjgong ga Tsuyoku naru Houhou - Hatsu Chuukyuu-sha-hen | 125913 | [125913-nippon-pro-mahjong-renmei-kounin-motto-20-bai-mahjgong-ga-tsuyoku-naru-houhou-hatsu-chuukyuu-sha-hen.json](./125913-nippon-pro-mahjong-renmei-kounin-motto-20-bai-mahjgong-ga-tsuyoku-naru-houhou-hatsu-chuukyuu-sha-hen.json) |
 | Nippon Suugaku Kentei Kyoukai Kounin: Suuken DS - Otona ga Tokenai!? Kodomo no Sansuu | 269615 | [269615-nippon-suugaku-kentei-kyoukai-kounin-suuken-ds-otona-ga-tokenai-kodomo-no-sansuu.json](./269615-nippon-suugaku-kentei-kyoukai-kounin-suuken-ds-otona-ga-tokenai-kodomo-no-sansuu.json) |
 | Nira | 126207 | [126207-nira.json](./126207-nira.json) |
