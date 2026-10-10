@@ -4875,6 +4875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cursed love | 105297 | [105297-the-cursed-love.json](./105297-the-cursed-love.json) |
 | The Cursed Oasis | 253607 | [253607-the-cursed-oasis.json](./253607-the-cursed-oasis.json) |
 | The Cursed Revolver | 28237 | [28237-the-cursed-revolver.json](./28237-the-cursed-revolver.json) |
+| The Cursed Ritual | 322035 | [322035-the-cursed-ritual.json](./322035-the-cursed-ritual.json) |
 | The Cursed Ship Collector's Edition | 87864 | [87864-the-cursed-ship-collectors-edition.json](./87864-the-cursed-ship-collectors-edition.json) |
 | The Cursed Tape | 302677 | [302677-the-cursed-tape.json](./302677-the-cursed-tape.json) |
 | The Cursed Tower | 83617 | [83617-the-cursed-tower.json](./83617-the-cursed-tower.json) |
@@ -10593,6 +10594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Super Mario Bros. Super Show: Mario's Greatest Movie Moments - Quiz Game | 325094 | [325094-the-super-mario-bros-super-show-marios-greatest-movie-moments-quiz-game.json](./325094-the-super-mario-bros-super-show-marios-greatest-movie-moments-quiz-game.json) |
 | The Super Mario Bros. Super Show! 64 | 135268 | [135268-the-super-mario-bros-super-show-64.json](./135268-the-super-mario-bros-super-show-64.json) |
 | The Super Patriotic Dating Simulator | 106117 | [106117-the-super-patriotic-dating-simulator.json](./106117-the-super-patriotic-dating-simulator.json) |
+| The Super Pie Throwing | 322254 | [322254-the-super-pie-throwing.json](./322254-the-super-pie-throwing.json) |
 | The Super Robot Bros | 313134 | [313134-the-super-robot-bros.json](./313134-the-super-robot-bros.json) |
 | The Super Spy | 46838 | [46838-the-super-spy.json](./46838-the-super-spy.json) |
 | The Superfluous | 31953 | [31953-the-superfluous.json](./31953-the-superfluous.json) |
@@ -10777,6 +10779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Textorcist: The Story of Ray Bibbia | 107178 | [107178-the-textorcist-the-story-of-ray-bibbia.json](./107178-the-textorcist-the-story-of-ray-bibbia.json) |
 | The Textorcist: The Village | 194985 | [194985-the-textorcist-the-village.json](./194985-the-textorcist-the-village.json) |
 | The Thaumaturge | 239942 | [239942-the-thaumaturge.json](./239942-the-thaumaturge.json) |
+| The Thaumaturge: Deluxe Edition | 322282 | [322282-the-thaumaturge-deluxe-edition.json](./322282-the-thaumaturge-deluxe-edition.json) |
 | The Theater | 183077 | [183077-the-theater.json](./183077-the-theater.json) |
 | The Theodore Adventures | 44175 | [44175-the-theodore-adventures.json](./44175-the-theodore-adventures.json) |
 | The Therapist Impostor | 409414 | [409414-the-therapist-impostor.json](./409414-the-therapist-impostor.json) |
@@ -19437,6 +19440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tsugunohi: The Chamber of Phantom Name | 340941 | [340941-tsugunohi-the-chamber-of-phantom-name.json](./340941-tsugunohi-the-chamber-of-phantom-name.json) |
 | Tsuki Adventure | 182457 | [182457-tsuki-adventure.json](./182457-tsuki-adventure.json) |
 | Tsuki ha Higashi ni Hi ha Nishi ni: Operation Sanctuary | 165566 | [165566-tsuki-ha-higashi-ni-hi-ha-nishi-ni-operation-sanctuary.json](./165566-tsuki-ha-higashi-ni-hi-ha-nishi-ni-operation-sanctuary.json) |
+| Tsuki no Hikari | 322241 | [322241-tsuki-no-hikari.json](./322241-tsuki-no-hikari.json) |
 | Tsuki no Kanata de Aimashou | 150037 | [150037-tsuki-no-kanata-de-aimashou.json](./150037-tsuki-no-kanata-de-aimashou.json) |
 | Tsuki no Kanata de Aimashou: Sweet Summer Rainbow | 150038 | [150038-tsuki-no-kanata-de-aimashou-sweet-summer-rainbow.json](./150038-tsuki-no-kanata-de-aimashou-sweet-summer-rainbow.json) |
 | Tsuki no Namida | 277953 | [277953-tsuki-no-namida.json](./277953-tsuki-no-namida.json) |
