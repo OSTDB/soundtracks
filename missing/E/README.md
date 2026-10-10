@@ -4189,6 +4189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evil Cogs | 93740 | [93740-evil-cogs.json](./93740-evil-cogs.json) |
 | Evil Crown | 45328 | [45328-evil-crown.json](./45328-evil-crown.json) |
 | Evil Cucumber | 169374 | [169374-evil-cucumber.json](./169374-evil-cucumber.json) |
+| Evil Dark | 311225 | [311225-evil-dark.json](./311225-evil-dark.json) |
 | Evil Dead Pinball | 219100 | [219100-evil-dead-pinball.json](./219100-evil-dead-pinball.json) |
 | Evil Dead: A Fistful of Boomstick | 5827 | [5827-evil-dead-a-fistful-of-boomstick.json](./5827-evil-dead-a-fistful-of-boomstick.json) |
 | Evil Dead: Regeneration | 5828 | [5828-evil-dead-regeneration.json](./5828-evil-dead-regeneration.json) |
