@@ -1626,6 +1626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Action Force: International Heroes | 59503 | [59503-action-force-international-heroes.json](./59503-action-force-international-heroes.json) |
 | Action Fubuki | 288744 | [288744-action-fubuki.json](./288744-action-fubuki.json) |
 | Action Game Maker | 344533 | [344533-action-game-maker.json](./344533-action-game-maker.json) |
+| Action Games Bundle | 305564 | [305564-action-games-bundle.json](./305564-action-games-bundle.json) |
 | Action Half-Life | 221840 | [221840-action-half-life.json](./221840-action-half-life.json) |
 | Action Henk | 14550 | [14550-action-henk.json](./14550-action-henk.json) |
 | Action Hero | 313769 | [313769-action-hero.json](./313769-action-hero.json) |
@@ -1680,6 +1681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Actraiser | 23597 | [23597-actraiser.json](./23597-actraiser.json) |
 | ActRaiser | 6468 | [6468-actraiser.json](./6468-actraiser.json) |
 | ActRaiser 2 | 7704 | [7704-actraiser-2.json](./7704-actraiser-2.json) |
+| Acts of Blood | 305550 | [305550-acts-of-blood.json](./305550-acts-of-blood.json) |
 | Actua Golf | 45497 | [45497-actua-golf.json](./45497-actua-golf.json) |
 | Actua Golf 3 | 34501 | [34501-actua-golf-3.json](./34501-actua-golf-3.json) |
 | Actua Golf 4 | 356274 | [356274-actua-golf-4.json](./356274-actua-golf-4.json) |
@@ -7412,6 +7414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: vs. Family Tennis | 328093 | [328093-arcade-archives-vs-family-tennis.json](./328093-arcade-archives-vs-family-tennis.json) |
 | Arcade Archives: Vs. Mahjong | 147100 | [147100-arcade-archives-vs-mahjong.json](./147100-arcade-archives-vs-mahjong.json) |
 | Arcade Archives: vs. Mystery Tower | 335093 | [335093-arcade-archives-vs-mystery-tower.json](./335093-arcade-archives-vs-mystery-tower.json) |
+| Arcade Archives: vs. Star Luster | 305562 | [305562-arcade-archives-vs-star-luster.json](./305562-arcade-archives-vs-star-luster.json) |
 | Arcade Archives: Vs. Super Mario Bros. | 67198 | [67198-arcade-archives-vs-super-mario-bros.json](./67198-arcade-archives-vs-super-mario-bros.json) |
 | Arcade Archives: vs. Tennis | 147099 | [147099-arcade-archives-vs-tennis.json](./147099-arcade-archives-vs-tennis.json) |
 | Arcade Archives: Vs. The Quest of Ki | 322039 | [322039-arcade-archives-vs-the-quest-of-ki.json](./322039-arcade-archives-vs-the-quest-of-ki.json) |
@@ -9248,6 +9251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asterix & Obelix: Heroes | 267001 | [267001-asterix-and-obelix-heroes.json](./267001-asterix-and-obelix-heroes.json) |
 | Asterix & Obelix: Kick Buttix | 3789 | [3789-asterix-and-obelix-kick-buttix.json](./3789-asterix-and-obelix-kick-buttix.json) |
 | Asterix & Obelix: Slap Them All! - Collector's Edition | 159208 | [159208-asterix-and-obelix-slap-them-all-collectors-edition.json](./159208-asterix-and-obelix-slap-them-all-collectors-edition.json) |
+| Asterix & Obelix: Slap Them All! 1+2 | 305494 | [305494-asterix-and-obelix-slap-them-all-1-2.json](./305494-asterix-and-obelix-slap-them-all-1-2.json) |
 | Astérix and the Great Rescue | 8501 | [8501-asterix-and-the-great-rescue.json](./8501-asterix-and-the-great-rescue.json) |
 | Asterix and the Magic Carpet | 14272 | [14272-asterix-and-the-magic-carpet.json](./14272-asterix-and-the-magic-carpet.json) |
 | Astérix and the Secret Mission | 12888 | [12888-asterix-and-the-secret-mission.json](./12888-asterix-and-the-secret-mission.json) |
