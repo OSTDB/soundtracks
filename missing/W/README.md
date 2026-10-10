@@ -405,6 +405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wandering in Space Online VR | 244309 | [244309-wandering-in-space-online-vr.json](./244309-wandering-in-space-online-vr.json) |
 | Wandering Maung | 381682 | [381682-wandering-maung.json](./381682-wandering-maung.json) |
 | Wandering Meatbags | 191552 | [191552-wandering-meatbags.json](./191552-wandering-meatbags.json) |
+| Wandering Monolith | 319831 | [319831-wandering-monolith.json](./319831-wandering-monolith.json) |
 | Wandering Owl | 107420 | [107420-wandering-owl.json](./107420-wandering-owl.json) |
 | Wandering Planet: Prelude | 298599 | [298599-wandering-planet-prelude.json](./298599-wandering-planet-prelude.json) |
 | Wandering Skies | 247477 | [247477-wandering-skies.json](./247477-wandering-skies.json) |
@@ -3429,6 +3430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Willows: A Dream of Shadows | 385330 | [385330-willows-a-dream-of-shadows.json](./385330-willows-a-dream-of-shadows.json) |
 | Wills test game | 82079 | [82079-wills-test-game.json](./82079-wills-test-game.json) |
 | Willy and Rosie: Bust Out of the Big House | 273387 | [273387-willy-and-rosie-bust-out-of-the-big-house.json](./273387-willy-and-rosie-bust-out-of-the-big-house.json) |
+| Willy Byte in the Digital Dimension | 319887 | [319887-willy-byte-in-the-digital-dimension.json](./319887-willy-byte-in-the-digital-dimension.json) |
 | Willy Crash | 225626 | [225626-willy-crash.json](./225626-willy-crash.json) |
 | Willy Crash Mini | 225627 | [225627-willy-crash-mini.json](./225627-willy-crash-mini.json) |
 | Willy J Peso Presents: Save the Trees | 102858 | [102858-willy-j-peso-presents-save-the-trees.json](./102858-willy-j-peso-presents-save-the-trees.json) |
