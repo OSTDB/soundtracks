@@ -4255,6 +4255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Child of Luminescence | 350521 | [350521-child-of-luminescence.json](./350521-child-of-luminescence.json) |
 | Child of Ruin | 298876 | [298876-child-of-ruin.json](./298876-child-of-ruin.json) |
 | Child of the Wind | 32835 | [32835-child-of-the-wind.json](./32835-child-of-the-wind.json) |
+| Child of Vision | 312862 | [312862-child-of-vision.json](./312862-child-of-vision.json) |
 | Child Phobia: Nightcoming Fears | 30084 | [30084-child-phobia-nightcoming-fears.json](./30084-child-phobia-nightcoming-fears.json) |
 | Child Run: City Surfers Runner | 245915 | [245915-child-run-city-surfers-runner.json](./245915-child-run-city-surfers-runner.json) |
 | Child's Mind | 84573 | [84573-childs-mind.json](./84573-childs-mind.json) |
@@ -6339,6 +6340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Club Penguin Demake Project | 181860 | [181860-club-penguin-demake-project.json](./181860-club-penguin-demake-project.json) |
 | Club Penguin Dimensions | 319377 | [319377-club-penguin-dimensions.json](./319377-club-penguin-dimensions.json) |
 | Club Penguin Island | 94967 | [94967-club-penguin-island.json](./94967-club-penguin-island.json) |
+| Club Penguin Journey | 312869 | [312869-club-penguin-journey.json](./312869-club-penguin-journey.json) |
 | Club Penguin: Game Day! | 92058 | [92058-club-penguin-game-day.json](./92058-club-penguin-game-day.json) |
 | Club Pinball | 243691 | [243691-club-pinball.json](./243691-club-pinball.json) |
 | Club Soccer Director 2018 | 55160 | [55160-club-soccer-director-2018.json](./55160-club-soccer-director-2018.json) |
@@ -10115,6 +10117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creatures II: Torture Trouble | 11375 | [11375-creatures-ii-torture-trouble.json](./11375-creatures-ii-torture-trouble.json) |
 | Creatures Inc. | 112008 | [112008-creatures-inc.json](./112008-creatures-inc.json) |
 | Creatures Like Us | 415171 | [415171-creatures-like-us.json](./415171-creatures-like-us.json) |
+| Creatures of Ava: WDC Charity Backpack Trinkets Set | 312835 | [312835-creatures-of-ava-wdc-charity-backpack-trinkets-set.json](./312835-creatures-of-ava-wdc-charity-backpack-trinkets-set.json) |
 | Creatures of the Night | 335391 | [335391-creatures-of-the-night.json](./335391-creatures-of-the-night.json) |
 | Creatures of War | 217338 | [217338-creatures-of-war.json](./217338-creatures-of-war.json) |
 | Creatures Playground | 11378 | [11378-creatures-playground.json](./11378-creatures-playground.json) |
@@ -10750,6 +10753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crow Heist | 401039 | [401039-crow-heist.json](./401039-crow-heist.json) |
 | Crow Story | 189147 | [189147-crow-story.json](./189147-crow-story.json) |
 | Crow Style | 353797 | [353797-crow-style.json](./353797-crow-style.json) |
+| Crow-Sourcing | 312854 | [312854-crow-sourcing.json](./312854-crow-sourcing.json) |
 | Crow's Cry | 211726 | [211726-crows-cry.json](./211726-crows-cry.json) |
 | Crow's Curated Closet: Shop Simulator | 407481 | [407481-crows-curated-closet-shop-simulator.json](./407481-crows-curated-closet-shop-simulator.json) |
 | Crowbar Climber | 348928 | [348928-crowbar-climber.json](./348928-crowbar-climber.json) |
