@@ -180,6 +180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baby Twins Babysitter | 86772 | [86772-baby-twins-babysitter.json](./86772-baby-twins-babysitter.json) |
 | Baby Wild Katzen | 269655 | [269655-baby-wild-katzen.json](./269655-baby-wild-katzen.json) |
 | Baby's Day Out | 264089 | [264089-babys-day-out.json](./264089-babys-day-out.json) |
+| Baby's First Crudelo Sphere | 280741 | [280741-babys-first-crudelo-sphere.json](./280741-babys-first-crudelo-sphere.json) |
 | Baby's First House Fire | 176444 | [176444-babys-first-house-fire.json](./176444-babys-first-house-fire.json) |
 | Baby's Musical Hands | 86864 | [86864-babys-musical-hands.json](./86864-babys-musical-hands.json) |
 | Baby's Nightmare Circus | 194385 | [194385-babys-nightmare-circus.json](./194385-babys-nightmare-circus.json) |
@@ -758,6 +759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bakumatsu Revolution | 91627 | [91627-bakumatsu-revolution.json](./91627-bakumatsu-revolution.json) |
 | Bakumatsu Roman: Gekka no Kenshi 1+2 | 84253 | [84253-bakumatsu-roman-gekka-no-kenshi-1-2.json](./84253-bakumatsu-roman-gekka-no-kenshi-1-2.json) |
 | Bakumatsu-shishi no Renai Jijou | 163229 | [163229-bakumatsu-shishi-no-renai-jijou.json](./163229-bakumatsu-shishi-no-renai-jijou.json) |
+| Bakunyuu Reijou x Kimo-o Hentai Yome-ka Keikaku: Keppeki Cool Kaichou ga Saikasou no Kusa Kimo Seishi Chuudoku ni! | 280698 | [280698-bakunyuu-reijou-x-kimo-o-hentai-yome-ka-keikaku-keppeki-cool-kaichou-ga-saikasou-no-kusa-kimo-seishi-chuudoku-ni.json](./280698-bakunyuu-reijou-x-kimo-o-hentai-yome-ka-keikaku-keppeki-cool-kaichou-ga-saikasou-no-kusa-kimo-seishi-chuudoku-ni.json) |
 | Bakuretsu Breaker | 40269 | [40269-bakuretsu-breaker.json](./40269-bakuretsu-breaker.json) |
 | Bakuretsu Hunter | 45423 | [45423-bakuretsu-hunter.json](./45423-bakuretsu-hunter.json) |
 | Bakuretsu Hunter R | 45421 | [45421-bakuretsu-hunter-r.json](./45421-bakuretsu-hunter-r.json) |
@@ -9536,6 +9538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bridge Maker | 291398 | [291398-bridge-maker.json](./291398-bridge-maker.json) |
 | Bridge Master | 94682 | [94682-bridge-master.json](./94682-bridge-master.json) |
 | Bridge Master with Terence Reese | 362444 | [362444-bridge-master-with-terence-reese.json](./362444-bridge-master-with-terence-reese.json) |
+| Bridge Quest | 280715 | [280715-bridge-quest.json](./280715-bridge-quest.json) |
 | Bridge Race: Horror Edition | 376249 | [376249-bridge-race-horror-edition.json](./376249-bridge-race-horror-edition.json) |
 | Bridge Race: Platinum Edition | 378956 | [378956-bridge-race-platinum-edition.json](./378956-bridge-race-platinum-edition.json) |
 | Bridge Race: Rush Edition | 347319 | [347319-bridge-race-rush-edition.json](./347319-bridge-race-rush-edition.json) |
@@ -9975,6 +9978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bù Shàngàn Bù Liànài | 373701 | [373701-bu-shangan-bu-lianai.json](./373701-bu-shangan-bu-lianai.json) |
 | Bub Block | 157985 | [157985-bub-block.json](./157985-bub-block.json) |
 | Bub-O Burst | 319075 | [319075-bub-o-burst.json](./319075-bub-o-burst.json) |
+| Bub-O Escape | 280739 | [280739-bub-o-escape.json](./280739-bub-o-escape.json) |
 | Buba | 120348 | [120348-buba.json](./120348-buba.json) |
 | Bubba Yuga | 383523 | [383523-bubba-yuga.json](./383523-bubba-yuga.json) |
 | Bubbaruka! | 149483 | [149483-bubbaruka.json](./149483-bubbaruka.json) |
