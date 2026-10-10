@@ -700,6 +700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oh My Godheads: Party Edition | 110799 | [110799-oh-my-godheads-party-edition.json](./110799-oh-my-godheads-party-edition.json) |
 | Oh My Gore! | 36231 | [36231-oh-my-gore.json](./36231-oh-my-gore.json) |
 | Oh My Hero | 174653 | [174653-oh-my-hero.json](./174653-oh-my-hero.json) |
+| Oh My Lord | 312291 | [312291-oh-my-lord.json](./312291-oh-my-lord.json) |
 | Oh My Pool! | 144970 | [144970-oh-my-pool.json](./144970-oh-my-pool.json) |
 | Oh My Wrench | 322187 | [322187-oh-my-wrench.json](./322187-oh-my-wrench.json) |
 | Oh My Yokai! | 208282 | [208282-oh-my-yokai.json](./208282-oh-my-yokai.json) |
@@ -1002,6 +1003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Omega Knockout: Punch Boxing | 302115 | [302115-omega-knockout-punch-boxing.json](./302115-omega-knockout-punch-boxing.json) |
 | Omega Labyrinth Life: Additional Dungeon - Mystic Omega Spot | 238052 | [238052-omega-labyrinth-life-additional-dungeon-mystic-omega-spot.json](./238052-omega-labyrinth-life-additional-dungeon-mystic-omega-spot.json) |
 | Omega Labyrinth Z: Limited Edition | 166184 | [166184-omega-labyrinth-z-limited-edition.json](./166184-omega-labyrinth-z-limited-edition.json) |
+| Omega Landing | 312264 | [312264-omega-landing.json](./312264-omega-landing.json) |
 | Omega Legends | 147943 | [147943-omega-legends.json](./147943-omega-legends.json) |
 | Omega Luma: The First Battle | 367941 | [367941-omega-luma-the-first-battle.json](./367941-omega-luma-the-first-battle.json) |
 | Omega Mario 64 | 365076 | [365076-omega-mario-64.json](./365076-omega-mario-64.json) |
