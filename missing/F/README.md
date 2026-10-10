@@ -5293,6 +5293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fog | 201837 | [201837-fog.json](./201837-fog.json) |
 | Fog Horror | 235892 | [235892-fog-horror.json](./235892-fog-horror.json) |
 | Fogel and Porki Evil Arcade | 211675 | [211675-fogel-and-porki-evil-arcade.json](./211675-fogel-and-porki-evil-arcade.json) |
+| Fogrest: The Whisper of Harbingers | 332461 | [332461-fogrest-the-whisper-of-harbingers.json](./332461-fogrest-the-whisper-of-harbingers.json) |
 | Foguetão 2000 | 300815 | [300815-foguetao-2000.json](./300815-foguetao-2000.json) |
 | Fohh | 304156 | [304156-fohh.json](./304156-fohh.json) |
 | Foiled | 62549 | [62549-foiled.json](./62549-foiled.json) |
@@ -6920,6 +6921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freedom Fighter | 202852 | [202852-freedom-fighter.json](./202852-freedom-fighter.json) |
 | Freedom Fighter | 77299 | [77299-freedom-fighter.json](./77299-freedom-fighter.json) |
 | Freedom Fighters | 719 | [719-freedom-fighters.json](./719-freedom-fighters.json) |
+| Freedom Fighters Fangame | 332469 | [332469-freedom-fighters-fangame.json](./332469-freedom-fighters-fangame.json) |
 | Freedom Force | 68361 | [68361-freedom-force.json](./68361-freedom-force.json) |
 | Freedom Force | 720 | [720-freedom-force.json](./720-freedom-force.json) |
 | Freedom Isn't Free | 130119 | [130119-freedom-isnt-free.json](./130119-freedom-isnt-free.json) |
@@ -8004,6 +8006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Funko Fusion: Jurassic World Rebirth DLC | 354021 | [354021-funko-fusion-jurassic-world-rebirth-dlc.json](./354021-funko-fusion-jurassic-world-rebirth-dlc.json) |
 | Funko Fusion: Jurassic World Rebirth Pack 1 - Zora Bennett and Spinosaurus | 354015 | [354015-funko-fusion-jurassic-world-rebirth-pack-1-zora-bennett-and-spinosaurus.json](./354015-funko-fusion-jurassic-world-rebirth-pack-1-zora-bennett-and-spinosaurus.json) |
 | Funko Fusion: Jurassic World Rebirth Pack 2 - Dr Henry Loomis and Raptor | 354019 | [354019-funko-fusion-jurassic-world-rebirth-pack-2-dr-henry-loomis-and-raptor.json](./354019-funko-fusion-jurassic-world-rebirth-pack-2-dr-henry-loomis-and-raptor.json) |
+| Funko Fusion: Kim Pine | 332470 | [332470-funko-fusion-kim-pine.json](./332470-funko-fusion-kim-pine.json) |
 | Funko Fusion: Mega Man Pack | 354012 | [354012-funko-fusion-mega-man-pack.json](./354012-funko-fusion-mega-man-pack.json) |
 | Funko Fusion: Mega Man Pack Bundle | 331547 | [331547-funko-fusion-mega-man-pack-bundle.json](./331547-funko-fusion-mega-man-pack-bundle.json) |
 | Funko Fusion: Sun Wukong | 323397 | [323397-funko-fusion-sun-wukong.json](./323397-funko-fusion-sun-wukong.json) |
@@ -8013,6 +8016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Funko Fusion: Trap Jaw | 323319 | [323319-funko-fusion-trap-jaw.json](./323319-funko-fusion-trap-jaw.json) |
 | Funko Fusion: Universal Monsters Pack | 353216 | [353216-funko-fusion-universal-monsters-pack.json](./353216-funko-fusion-universal-monsters-pack.json) |
 | Funko Fusion: Universal Monsters Pack Bundle | 332016 | [332016-funko-fusion-universal-monsters-pack-bundle.json](./332016-funko-fusion-universal-monsters-pack-bundle.json) |
+| Funko Fusion: Yuletide Pack | 332471 | [332471-funko-fusion-yuletide-pack.json](./332471-funko-fusion-yuletide-pack.json) |
 | Funky Bay - Farm & Adventure | 106356 | [106356-funky-bay-farm-and-adventure.json](./106356-funky-bay-farm-and-adventure.json) |
 | Funky Bee | 40131 | [40131-funky-bee.json](./40131-funky-bee.json) |
 | Funky Boxers | 44725 | [44725-funky-boxers.json](./44725-funky-boxers.json) |
