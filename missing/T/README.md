@@ -3433,6 +3433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventure of Hourai High School | 42549 | [42549-the-adventure-of-hourai-high-school.json](./42549-the-adventure-of-hourai-high-school.json) |
 | The Adventure of Little Ralph | 44856 | [44856-the-adventure-of-little-ralph.json](./44856-the-adventure-of-little-ralph.json) |
 | The Adventure of Ninomae Ina'nis | 321522 | [321522-the-adventure-of-ninomae-inanis.json](./321522-the-adventure-of-ninomae-inanis.json) |
+| The Adventure of Popo | 309948 | [309948-the-adventure-of-popo.json](./309948-the-adventure-of-popo.json) |
 | The Adventure Pals | 22359 | [22359-the-adventure-pals.json](./22359-the-adventure-pals.json) |
 | The Adventure Story of Yixiu | 293385 | [293385-the-adventure-story-of-yixiu.json](./293385-the-adventure-story-of-yixiu.json) |
 | The Adventurer | 159365 | [159365-the-adventurer.json](./159365-the-adventurer.json) |
@@ -5496,6 +5497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The End o,,,o | 31847 | [31847-the-end-o-o.json](./31847-the-end-o-o.json) |
 | The End of an Actress | 126961 | [126961-the-end-of-an-actress.json](./126961-the-end-of-an-actress.json) |
 | The End of Gameplay | 343235 | [343235-the-end-of-gameplay.json](./343235-the-end-of-gameplay.json) |
+| The End of History | 310154 | [310154-the-end-of-history.json](./310154-the-end-of-history.json) |
 | The End of Labyronia: Nerubis | 158695 | [158695-the-end-of-labyronia-nerubis.json](./158695-the-end-of-labyronia-nerubis.json) |
 | The End of Sanity | 296452 | [296452-the-end-of-sanity.json](./296452-the-end-of-sanity.json) |
 | The End of Solace | 271751 | [271751-the-end-of-solace.json](./271751-the-end-of-solace.json) |
@@ -15079,6 +15081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toilet Paper Simulator | 248890 | [248890-toilet-paper-simulator.json](./248890-toilet-paper-simulator.json) |
 | Toilet paper wants to be a basketball | 152735 | [152735-toilet-paper-wants-to-be-a-basketball.json](./152735-toilet-paper-wants-to-be-a-basketball.json) |
 | Toilet Paper War | 158601 | [158601-toilet-paper-war.json](./158601-toilet-paper-war.json) |
+| Toilet Party | 310156 | [310156-toilet-party.json](./310156-toilet-party.json) |
 | Toilet Run | 110488 | [110488-toilet-run.json](./110488-toilet-run.json) |
 | Toilet Rush Draw: Poo and Pee | 231888 | [231888-toilet-rush-draw-poo-and-pee.json](./231888-toilet-rush-draw-poo-and-pee.json) |
 | Toilet Simulator | 111715 | [111715-toilet-simulator.json](./111715-toilet-simulator.json) |
@@ -16561,6 +16564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toverblade | 145473 | [145473-toverblade.json](./145473-toverblade.json) |
 | Tow Game | 348347 | [348347-tow-game.json](./348347-tow-game.json) |
 | Tow Truck | 104635 | [104635-tow-truck.json](./104635-tow-truck.json) |
+| Tow Truck | 310153 | [310153-tow-truck.json](./310153-tow-truck.json) |
 | Tow Truck: Max | 102137 | [102137-tow-truck-max.json](./102137-tow-truck-max.json) |
 | Towa no Sakura | 203199 | [203199-towa-no-sakura.json](./203199-towa-no-sakura.json) |
 | Toward The Ice | 335505 | [335505-toward-the-ice.json](./335505-toward-the-ice.json) |
@@ -16988,6 +16992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toynip | 219545 | [219545-toynip.json](./219545-toynip.json) |
 | Toypunk | 403575 | [403575-toypunk.json](./403575-toypunk.json) |
 | Toys & Physics | 153314 | [153314-toys-and-physics.json](./153314-toys-and-physics.json) |
+| Toys Cracker | 310081 | [310081-toys-cracker.json](./310081-toys-cracker.json) |
 | Toys Dream | 82822 | [82822-toys-dream.json](./82822-toys-dream.json) |
 | Toys Gun Fire Boom | 55467 | [55467-toys-gun-fire-boom.json](./55467-toys-gun-fire-boom.json) |
 | Toys Jigsaw Puzzle | 100748 | [100748-toys-jigsaw-puzzle.json](./100748-toys-jigsaw-puzzle.json) |
