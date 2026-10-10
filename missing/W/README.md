@@ -1990,6 +1990,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weird Cinema | 189936 | [189936-weird-cinema.json](./189936-weird-cinema.json) |
 | Weird Cities | 386698 | [386698-weird-cities.json](./386698-weird-cities.json) |
 | Weird City Interloper | 207232 | [207232-weird-city-interloper.json](./207232-weird-city-interloper.json) |
+| Weird Colony | 288651 | [288651-weird-colony.json](./288651-weird-colony.json) |
+| Weird Colony Online: First Strike | 288650 | [288650-weird-colony-online-first-strike.json](./288650-weird-colony-online-first-strike.json) |
 | Weird Comic Art | 374278 | [374278-weird-comic-art.json](./374278-weird-comic-art.json) |
 | Weird Comic Art: The Athletic & Museum | 374280 | [374280-weird-comic-art-the-athletic-and-museum.json](./374280-weird-comic-art-the-athletic-and-museum.json) |
 | Weird creatures | 30779 | [30779-weird-creatures.json](./30779-weird-creatures.json) |
