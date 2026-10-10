@@ -1334,6 +1334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zoombinis: Island Odyssey | 68248 | [68248-zoombinis-island-odyssey.json](./68248-zoombinis-island-odyssey.json) |
 | Zoombinis: Mountain Rescue | 68249 | [68249-zoombinis-mountain-rescue.json](./68249-zoombinis-mountain-rescue.json) |
 | ZoomBook: The Temple of the Sun | 52099 | [52099-zoombook-the-temple-of-the-sun.json](./52099-zoombook-the-temple-of-the-sun.json) |
+| Zoomer Simulator | 326303 | [326303-zoomer-simulator.json](./326303-zoomer-simulator.json) |
 | Zoomerang | 64949 | [64949-zoomerang.json](./64949-zoomerang.json) |
 | Zoomers Versus Boomers | 347802 | [347802-zoomers-versus-boomers.json](./347802-zoomers-versus-boomers.json) |
 | ZoomnBoom | 107876 | [107876-zoomnboom.json](./107876-zoomnboom.json) |
