@@ -2632,6 +2632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inkression | 303583 | [303583-inkression.json](./303583-inkression.json) |
 | Inkronos | 345014 | [345014-inkronos.json](./345014-inkronos.json) |
 | Inks. | 58356 | [58356-inks.json](./58356-inks.json) |
+| Inkshade | 318693 | [318693-inkshade.json](./318693-inkshade.json) |
 | InkSplosion | 95608 | [95608-inksplosion.json](./95608-inksplosion.json) |
 | Inkub | 85192 | [85192-inkub.json](./85192-inkub.json) |
 | Inkubus Sukkubus: She of a Thousand Names | 244342 | [244342-inkubus-sukkubus-she-of-a-thousand-names.json](./244342-inkubus-sukkubus-she-of-a-thousand-names.json) |
@@ -3468,6 +3469,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IQ Under Construction | 403627 | [403627-iq-under-construction.json](./403627-iq-under-construction.json) |
 | IQ Wars | 89171 | [89171-iq-wars.json](./89171-iq-wars.json) |
 | Iquarium | 80169 | [80169-iquarium.json](./80169-iquarium.json) |
+| iQuest Math: Grade 5 | 318741 | [318741-iquest-math-grade-5.json](./318741-iquest-math-grade-5.json) |
+| iQuest Math: Grades 6-8 | 318742 | [318742-iquest-math-grades-6-8.json](./318742-iquest-math-grades-6-8.json) |
+| iQuest Science: Grade 5 | 318743 | [318743-iquest-science-grade-5.json](./318743-iquest-science-grade-5.json) |
+| iQuest Science: Grades 6-8 | 318745 | [318745-iquest-science-grades-6-8.json](./318745-iquest-science-grades-6-8.json) |
 | Ir/rational Investigator | 110316 | [110316-ir-rational-investigator.json](./110316-ir-rational-investigator.json) |
 | Ir/rational Redux | 63377 | [63377-ir-rational-redux.json](./63377-ir-rational-redux.json) |
 | Ira | 166044 | [166044-ira.json](./166044-ira.json) |
