@@ -1062,6 +1062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eikoku Tantei Mysteria | 221826 | [221826-eikoku-tantei-mysteria.json](./221826-eikoku-tantei-mysteria.json) |
 | Eikou no Saint Andrews | 3484 | [3484-eikou-no-saint-andrews.json](./3484-eikou-no-saint-andrews.json) |
 | Eilean Mor: The Lost Keepers | 355026 | [355026-eilean-mor-the-lost-keepers.json](./355026-eilean-mor-the-lost-keepers.json) |
+| Ein Fall für TKKG: Detektiv gesucht! | 308986 | [308986-ein-fall-fur-tkkg-detektiv-gesucht.json](./308986-ein-fall-fur-tkkg-detektiv-gesucht.json) |
 | Ein Fall für TKKG: Katjas Geheimnis | 127995 | [127995-ein-fall-fur-tkkg-katjas-geheimnis.json](./127995-ein-fall-fur-tkkg-katjas-geheimnis.json) |
 | Ein's Sword 2 | 304798 | [304798-eins-sword-2.json](./304798-eins-sword-2.json) |
 | Ein's Sword 3 | 312112 | [312112-eins-sword-3.json](./312112-eins-sword-3.json) |
@@ -2779,6 +2780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epstein | 284575 | [284575-epstein.json](./284575-epstein.json) |
 | Epstein 2 | 315091 | [315091-epstein-2.json](./315091-epstein-2.json) |
 | Epyka | 327930 | [327930-epyka.json](./327930-epyka.json) |
+| Epyx Rogue | 309074 | [309074-epyx-rogue.json](./309074-epyx-rogue.json) |
 | Epyx Summer Games | 76131 | [76131-epyx-summer-games.json](./76131-epyx-summer-games.json) |
 | Epyx Winter Games | 78929 | [78929-epyx-winter-games.json](./78929-epyx-winter-games.json) |
 | Epyx's Impossible Mission | 118868 | [118868-epyxs-impossible-mission.json](./118868-epyxs-impossible-mission.json) |
