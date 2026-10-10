@@ -953,6 +953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rally Evolution 2025 | 384823 | [384823-rally-evolution-2025.json](./384823-rally-evolution-2025.json) |
 | Rally Fury: Extreme Racing | 174848 | [174848-rally-fury-extreme-racing.json](./174848-rally-fury-extreme-racing.json) |
 | Rally Fusion: Race of Champions | 5998 | [5998-rally-fusion-race-of-champions.json](./5998-rally-fusion-race-of-champions.json) |
+| Rally Horizon | 316938 | [316938-rally-horizon.json](./316938-rally-horizon.json) |
 | Rally King | 408922 | [408922-rally-king.json](./408922-rally-king.json) |
 | Rally Legends | 104787 | [104787-rally-legends.json](./104787-rally-legends.json) |
 | Rally Master Pro | 91897 | [91897-rally-master-pro.json](./91897-rally-master-pro.json) |
@@ -2662,6 +2663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reel Horror | 386387 | [386387-reel-horror.json](./386387-reel-horror.json) |
 | Reel it! Ocean Fishing | 362350 | [362350-reel-it-ocean-fishing.json](./362350-reel-it-ocean-fishing.json) |
 | Reel it! World Fishing | 403749 | [403749-reel-it-world-fishing.json](./403749-reel-it-world-fishing.json) |
+| Reel Me In | 316949 | [316949-reel-me-in.json](./316949-reel-me-in.json) |
 | Reel Talk: A Thoughtful Fishcussion | 408172 | [408172-reel-talk-a-thoughtful-fishcussion.json](./408172-reel-talk-a-thoughtful-fishcussion.json) |
 | Reel-istic Fishing | 259823 | [259823-reel-istic-fishing.json](./259823-reel-istic-fishing.json) |
 | Reelism | 141643 | [141643-reelism.json](./141643-reelism.json) |
@@ -3071,6 +3073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Remyadry | 104873 | [104873-remyadry.json](./104873-remyadry.json) |
 | Ren & Stimpy Happy, Happy, Joy, Joy Collection | 387373 | [387373-ren-and-stimpy-happy-happy-joy-joy-collection.json](./387373-ren-and-stimpy-happy-happy-joy-joy-collection.json) |
 | Ren & Stimpy: Match-Master | 273881 | [273881-ren-and-stimpy-match-master.json](./273881-ren-and-stimpy-match-master.json) |
+| Rén Líng Shìwùsuǒ: Yī Chǎng Kěyǐ Wǎnjiù de Bēijù | 316964 | [316964-ren-ling-shiwusuo-yi-chang-keyi-wanjiu-de-beiju.json](./316964-ren-ling-shiwusuo-yi-chang-keyi-wanjiu-de-beiju.json) |
 | Ren the Summoner and the Erotic Dungeon | 196127 | [196127-ren-the-summoner-and-the-erotic-dungeon.json](./196127-ren-the-summoner-and-the-erotic-dungeon.json) |
 | Ren Ti Tu Pu | 130972 | [130972-ren-ti-tu-pu.json](./130972-ren-ti-tu-pu.json) |
 | Ren'Py Rhythm Game | 184387 | [184387-renpy-rhythm-game.json](./184387-renpy-rhythm-game.json) |
