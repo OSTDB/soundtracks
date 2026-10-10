@@ -1249,6 +1249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maho Shojo Pretty Sammy: Heart no Kimochi | 61330 | [61330-maho-shojo-pretty-sammy-heart-no-kimochi.json](./61330-maho-shojo-pretty-sammy-heart-no-kimochi.json) |
 | Mahogen | 328053 | [328053-mahogen.json](./328053-mahogen.json) |
 | Mahokenshi - The Samurai Deckbuilder | 172688 | [172688-mahokenshi-the-samurai-deckbuilder.json](./172688-mahokenshi-the-samurai-deckbuilder.json) |
+| Mahoroba Cat | 330790 | [330790-mahoroba-cat.json](./330790-mahoroba-cat.json) |
 | Mahoroba Stories: Library of Fortune | 146244 | [146244-mahoroba-stories-library-of-fortune.json](./146244-mahoroba-stories-library-of-fortune.json) |
 | Mahoromatic Adventure | 214431 | [214431-mahoromatic-adventure.json](./214431-mahoromatic-adventure.json) |
 | Mahou Arms | 96114 | [96114-mahou-arms.json](./96114-mahou-arms.json) |
@@ -8095,6 +8096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mirror Mysteries 2: Forgotten Kingdoms | 36333 | [36333-mirror-mysteries-2-forgotten-kingdoms.json](./36333-mirror-mysteries-2-forgotten-kingdoms.json) |
 | Mirror Quest Dog and Cat | 368566 | [368566-mirror-quest-dog-and-cat.json](./368566-mirror-quest-dog-and-cat.json) |
 | Mirror Shoot | 193478 | [193478-mirror-shoot.json](./193478-mirror-shoot.json) |
+| Mirror Stage | 330687 | [330687-mirror-stage.json](./330687-mirror-stage.json) |
 | Mirror VR | 182887 | [182887-mirror-vr.json](./182887-mirror-vr.json) |
 | Mirror War: Reincarnation of Holiness | 215605 | [215605-mirror-war-reincarnation-of-holiness.json](./215605-mirror-war-reincarnation-of-holiness.json) |
 | Mirror Wizard | 412210 | [412210-mirror-wizard.json](./412210-mirror-wizard.json) |
@@ -10734,6 +10736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motocross Racer | 23841 | [23841-motocross-racer.json](./23841-motocross-racer.json) |
 | Motocross Racing | 238392 | [238392-motocross-racing.json](./238392-motocross-racing.json) |
 | Motocross The Game | 337185 | [337185-motocross-the-game.json](./337185-motocross-the-game.json) |
+| Motocross Urban Fever | 330760 | [330760-motocross-urban-fever.json](./330760-motocross-urban-fever.json) |
 | Motocross Zombie HD | 100736 | [100736-motocross-zombie-hd.json](./100736-motocross-zombie-hd.json) |
 | Motocross: The Force | 270211 | [270211-motocross-the-force.json](./270211-motocross-the-force.json) |
 | MotoGP | 175917 | [175917-motogp.json](./175917-motogp.json) |
