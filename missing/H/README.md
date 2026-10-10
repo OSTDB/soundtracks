@@ -533,6 +533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halo Infinite: Operation - Shadows | 364581 | [364581-halo-infinite-operation-shadows.json](./364581-halo-infinite-operation-shadows.json) |
 | Halo Infinite: Operation - Snowbound | 335848 | [335848-halo-infinite-operation-snowbound.json](./335848-halo-infinite-operation-snowbound.json) |
 | Halo Infinite: Operation - Warpath | 367399 | [367399-halo-infinite-operation-warpath.json](./367399-halo-infinite-operation-warpath.json) |
+| Halo Infinite: Operation Fleetcom | 313455 | [313455-halo-infinite-operation-fleetcom.json](./313455-halo-infinite-operation-fleetcom.json) |
 | Halo Infinite: Operation Haloween | 319155 | [319155-halo-infinite-operation-haloween.json](./319155-halo-infinite-operation-haloween.json) |
 | Halo Infinite: Operation Haloween II | 381717 | [381717-halo-infinite-operation-haloween-ii.json](./381717-halo-infinite-operation-haloween-ii.json) |
 | Halo Infinite: Operation Infinite | 381718 | [381718-halo-infinite-operation-infinite.json](./381718-halo-infinite-operation-infinite.json) |
