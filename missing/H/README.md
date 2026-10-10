@@ -2476,6 +2476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell Let Loose: Deluxe Edition | 273004 | [273004-hell-let-loose-deluxe-edition.json](./273004-hell-let-loose-deluxe-edition.json) |
 | Hell Let Loose: Devotion to Duty | 252863 | [252863-hell-let-loose-devotion-to-duty.json](./252863-hell-let-loose-devotion-to-duty.json) |
 | Hell Let Loose: Long Range Desert Group | 372250 | [372250-hell-let-loose-long-range-desert-group.json](./372250-hell-let-loose-long-range-desert-group.json) |
+| Hell Let Loose: Oak Leaf | 305547 | [305547-hell-let-loose-oak-leaf.json](./305547-hell-let-loose-oak-leaf.json) |
 | Hell Let Loose: Operation Lüttich Units | 331899 | [331899-hell-let-loose-operation-luttich-units.json](./331899-hell-let-loose-operation-luttich-units.json) |
 | Hell Let Loose: Operation Overlord Units | 366854 | [366854-hell-let-loose-operation-overlord-units.json](./366854-hell-let-loose-operation-overlord-units.json) |
 | Hell Let Loose: Panzer Lehr | 331900 | [331900-hell-let-loose-panzer-lehr.json](./331900-hell-let-loose-panzer-lehr.json) |
