@@ -131,6 +131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DachStudio Puzzle Box: JuVentures | 296428 | [296428-dachstudio-puzzle-box-juventures.json](./296428-dachstudio-puzzle-box-juventures.json) |
 | DachStudio Puzzle Box: Megumi_M Gemstone Zodiacs | 296429 | [296429-dachstudio-puzzle-box-megumi-m-gemstone-zodiacs.json](./296429-dachstudio-puzzle-box-megumi-m-gemstone-zodiacs.json) |
 | DACHstudio Puzzle Box: Melextis' Unicorns | 357984 | [357984-dachstudio-puzzle-box-melextis-unicorns.json](./357984-dachstudio-puzzle-box-melextis-unicorns.json) |
+| DachStudio Puzzle Box: Mystical Worlds by RiaStarchild | 303670 | [303670-dachstudio-puzzle-box-mystical-worlds-by-riastarchild.json](./303670-dachstudio-puzzle-box-mystical-worlds-by-riastarchild.json) |
 | DACHstudio Puzzle Box: Nebbi's Animal Photos | 357983 | [357983-dachstudio-puzzle-box-nebbis-animal-photos.json](./357983-dachstudio-puzzle-box-nebbis-animal-photos.json) |
 | DachStudio Puzzle Box: Robots by datGestruepp | 323266 | [323266-dachstudio-puzzle-box-robots-by-datgestruepp.json](./323266-dachstudio-puzzle-box-robots-by-datgestruepp.json) |
 | DACHstudio Puzzle Box: Sanguinik's hidden object tour in Görlitz/Zgorzelec | 357982 | [357982-dachstudio-puzzle-box-sanguiniks-hidden-object-tour-in-gorlitz-zgorzelec.json](./357982-dachstudio-puzzle-box-sanguiniks-hidden-object-tour-in-gorlitz-zgorzelec.json) |
@@ -5506,6 +5507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digital Makeover | 200604 | [200604-digital-makeover.json](./200604-digital-makeover.json) |
 | Digital Market Simulator | 348390 | [348390-digital-market-simulator.json](./348390-digital-market-simulator.json) |
 | Digital Master | 74722 | [74722-digital-master.json](./74722-digital-master.json) |
+| Digital Meow | 303672 | [303672-digital-meow.json](./303672-digital-meow.json) |
 | Digital Messiah | 229805 | [229805-digital-messiah.json](./229805-digital-messiah.json) |
 | Digital Monster X | 274145 | [274145-digital-monster-x.json](./274145-digital-monster-x.json) |
 | Digital Monster X Ver.2 | 274146 | [274146-digital-monster-x-ver-2.json](./274146-digital-monster-x-ver-2.json) |
