@@ -1998,6 +1998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HeartCore Descent | 407381 | [407381-heartcore-descent.json](./407381-heartcore-descent.json) |
 | Heartdust | 370254 | [370254-heartdust.json](./370254-heartdust.json) |
 | HeartFinder | 322099 | [322099-heartfinder.json](./322099-heartfinder.json) |
+| Heartfire | 332388 | [332388-heartfire.json](./332388-heartfire.json) |
 | HeartFix Express | 391195 | [391195-heartfix-express.json](./391195-heartfix-express.json) |
 | Heartful Memories: Little Witch Parfait 2 | 332419 | [332419-heartful-memories-little-witch-parfait-2.json](./332419-heartful-memories-little-witch-parfait-2.json) |
 | Hearth Bound | 397128 | [397128-hearth-bound.json](./397128-hearth-bound.json) |
@@ -3018,6 +3019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Girls: Lovely Lieutenant | 316194 | [316194-hentai-girls-lovely-lieutenant.json](./316194-hentai-girls-lovely-lieutenant.json) |
 | Hentai Girls: Lust [18+] | 344971 | [344971-hentai-girls-lust-18.json](./344971-hentai-girls-lust-18.json) |
 | Hentai Girls: Magnificent Edition | 298572 | [298572-hentai-girls-magnificent-edition.json](./298572-hentai-girls-magnificent-edition.json) |
+| Hentai Girls: Marvelous Magician | 332493 | [332493-hentai-girls-marvelous-magician.json](./332493-hentai-girls-marvelous-magician.json) |
 | Hentai Girls: Naughty Gamer | 292159 | [292159-hentai-girls-naughty-gamer.json](./292159-hentai-girls-naughty-gamer.json) |
 | Hentai Girls: Neko Pastry | 196785 | [196785-hentai-girls-neko-pastry.json](./196785-hentai-girls-neko-pastry.json) |
 | Hentai Girls: Obon Love | 313220 | [313220-hentai-girls-obon-love.json](./313220-hentai-girls-obon-love.json) |
@@ -3201,6 +3203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Stars: Ultra Deluxe | 316269 | [316269-hentai-stars-ultra-deluxe.json](./316269-hentai-stars-ultra-deluxe.json) |
 | Hentai Stars: Ultra Ultimate | 317924 | [317924-hentai-stars-ultra-ultimate.json](./317924-hentai-stars-ultra-ultimate.json) |
 | Hentai Step Milf | 340452 | [340452-hentai-step-milf.json](./340452-hentai-step-milf.json) |
+| Hentai Stewardese Girls | 332494 | [332494-hentai-stewardese-girls.json](./332494-hentai-stewardese-girls.json) |
 | Hentai Store | 370274 | [370274-hentai-store.json](./370274-hentai-store.json) |
 | Hentai Stories | 274687 | [274687-hentai-stories.json](./274687-hentai-stories.json) |
 | Hentai Succubus Aura | 398550 | [398550-hentai-succubus-aura.json](./398550-hentai-succubus-aura.json) |
@@ -4480,6 +4483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | High Energy Heroes | 271207 | [271207-high-energy-heroes.json](./271207-high-energy-heroes.json) |
 | High Fidelity | 34749 | [34749-high-fidelity.json](./34749-high-fidelity.json) |
 | High Five! | 132819 | [132819-high-five.json](./132819-high-five.json) |
+| High Flyer | 332463 | [332463-high-flyer.json](./332463-high-flyer.json) |
 | High Frontier | 15832 | [15832-high-frontier.json](./15832-high-frontier.json) |
 | High Frontier 4 All | 404412 | [404412-high-frontier-4-all.json](./404412-high-frontier-4-all.json) |
 | High Fructose | 277011 | [277011-high-fructose.json](./277011-high-fructose.json) |
@@ -6207,6 +6211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hostages | 343204 | [343204-hostages.json](./343204-hostages.json) |
 | Hostil | 75816 | [75816-hostil.json](./75816-hostil.json) |
 | Hostile Dreams | 239784 | [239784-hostile-dreams.json](./239784-hostile-dreams.json) |
+| Hostile Dreams 2 | 332458 | [332458-hostile-dreams-2.json](./332458-hostile-dreams-2.json) |
 | Hostile Mars | 151031 | [151031-hostile-mars.json](./151031-hostile-mars.json) |
 | Hostile Space Revived | 97973 | [97973-hostile-space-revived.json](./97973-hostile-space-revived.json) |
 | Hosting Simulator: 2026 | 406312 | [406312-hosting-simulator-2026.json](./406312-hosting-simulator-2026.json) |
