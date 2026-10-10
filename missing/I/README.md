@@ -1964,6 +1964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IncrediBubble | 328581 | [328581-incredibubble.json](./328581-incredibubble.json) |
 | Incredibug | 361255 | [361255-incredibug.json](./361255-incredibug.json) |
 | Incredicer | 373346 | [373346-incredicer.json](./373346-incredicer.json) |
+| Incredifall | 309542 | [309542-incredifall.json](./309542-incredifall.json) |
 | IncreKnight | 391822 | [391822-increknight.json](./391822-increknight.json) |
 | Increlution | 158719 | [158719-increlution.json](./158719-increlution.json) |
 | Incremental Dice | 319879 | [319879-incremental-dice.json](./319879-incremental-dice.json) |
