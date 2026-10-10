@@ -2451,6 +2451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Penguin Chat 3 | 227928 | [227928-penguin-chat-3.json](./227928-penguin-chat-3.json) |
 | Penguin Colony | 354409 | [354409-penguin-colony.json](./354409-penguin-colony.json) |
 | Penguin Escape | 326236 | [326236-penguin-escape.json](./326236-penguin-escape.json) |
+| Penguin Flight | 328443 | [328443-penguin-flight.json](./328443-penguin-flight.json) |
 | Penguin Flight: Beyond The Clouds | 342149 | [342149-penguin-flight-beyond-the-clouds.json](./342149-penguin-flight-beyond-the-clouds.json) |
 | Penguin Helper | 302112 | [302112-penguin-helper.json](./302112-penguin-helper.json) |
 | Penguin Hideout | 195052 | [195052-penguin-hideout.json](./195052-penguin-hideout.json) |
@@ -5381,6 +5382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pizza Time Explosion | 125445 | [125445-pizza-time-explosion.json](./125445-pizza-time-explosion.json) |
 | Pizza to Osake to Suika-chan to! | 403162 | [403162-pizza-to-osake-to-suika-chan-to.json](./403162-pizza-to-osake-to-suika-chan-to.json) |
 | Pizza Tower Repainted | 365807 | [365807-pizza-tower-repainted.json](./365807-pizza-tower-repainted.json) |
+| Pizza Tower: Chef's Kiss | 328398 | [328398-pizza-tower-chefs-kiss.json](./328398-pizza-tower-chefs-kiss.json) |
 | Pizza Tower: Counterfeit Edition | 352342 | [352342-pizza-tower-counterfeit-edition.json](./352342-pizza-tower-counterfeit-edition.json) |
 | Pizza Tower: Fall Damage | 343407 | [343407-pizza-tower-fall-damage.json](./343407-pizza-tower-fall-damage.json) |
 | Pizza Tower: Final Round | 345569 | [345569-pizza-tower-final-round.json](./345569-pizza-tower-final-round.json) |
@@ -7019,6 +7021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poker Pretty Girls Battle: Fantasy World Edition | 146175 | [146175-poker-pretty-girls-battle-fantasy-world-edition.json](./146175-poker-pretty-girls-battle-fantasy-world-edition.json) |
 | Poker Pretty Girls Battle: Texas Hold'em | 34324 | [34324-poker-pretty-girls-battle-texas-holdem.json](./34324-poker-pretty-girls-battle-texas-holdem.json) |
 | Poker Puzzle Pokers Wii | 408944 | [408944-poker-puzzle-pokers-wii.json](./408944-poker-puzzle-pokers-wii.json) |
+| Poker Relay | 328422 | [328422-poker-relay.json](./328422-poker-relay.json) |
 | Poker Smash | 21351 | [21351-poker-smash.json](./21351-poker-smash.json) |
 | Poker Squ♠res | 81285 | [81285-poker-squ-res.json](./81285-poker-squ-res.json) |
 | Poker Squares | 131523 | [131523-poker-squares.json](./131523-poker-squares.json) |
