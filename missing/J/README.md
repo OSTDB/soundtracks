@@ -975,6 +975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jian Po | 119700 | [119700-jian-po.json](./119700-jian-po.json) |
 | Jian Wang 3: Heavy Plate | 76953 | [76953-jian-wang-3-heavy-plate.json](./76953-jian-wang-3-heavy-plate.json) |
 | Jiàn Xiá Qíngyuán Wàizhuàn: Yuè Yǐng Chuánshuō | 350567 | [350567-jian-xia-qingyuan-waizhuan-yue-ying-chuanshuo.json](./350567-jian-xia-qingyuan-waizhuan-yue-ying-chuanshuo.json) |
+| Jian Xiao Travel | 303325 | [303325-jian-xiao-travel.json](./303325-jian-xiao-travel.json) |
 | Jiānchén Xǐyuān Lù | 395114 | [395114-jianchen-xiyuan-lu.json](./395114-jianchen-xiyuan-lu.json) |
 | Jiàndào Xiānyǔ | 147387 | [147387-jiandao-xianyu.json](./147387-jiandao-xianyu.json) |
 | Jiang Yao Shen Bing | 158502 | [158502-jiang-yao-shen-bing.json](./158502-jiang-yao-shen-bing.json) |
