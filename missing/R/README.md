@@ -6770,6 +6770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rose Riddle: Fairy Tale Detective - Collector's Edition | 343359 | [343359-rose-riddle-fairy-tale-detective-collectors-edition.json](./343359-rose-riddle-fairy-tale-detective-collectors-edition.json) |
 | Roseblight | 138554 | [138554-roseblight.json](./138554-roseblight.json) |
 | Roseline | 276831 | [276831-roseline.json](./276831-roseline.json) |
+| Rosemary | 310151 | [310151-rosemary.json](./310151-rosemary.json) |
 | Rosemary's Fate: Chapter 1 | 163808 | [163808-rosemarys-fate-chapter-1.json](./163808-rosemarys-fate-chapter-1.json) |
 | Rosenkreuzstilette | 27181 | [27181-rosenkreuzstilette.json](./27181-rosenkreuzstilette.json) |
 | Rosenkreuzstilette Freudenstachel | 76865 | [76865-rosenkreuzstilette-freudenstachel.json](./76865-rosenkreuzstilette-freudenstachel.json) |
