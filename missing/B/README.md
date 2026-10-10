@@ -1362,6 +1362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baptism of Fire | 189140 | [189140-baptism-of-fire.json](./189140-baptism-of-fire.json) |
 | Baptisterio | 326615 | [326615-baptisterio.json](./326615-baptisterio.json) |
 | Baptize Billy | 96691 | [96691-baptize-billy.json](./96691-baptize-billy.json) |
+| Baptized In Lunar Dust | 308453 | [308453-baptized-in-lunar-dust.json](./308453-baptized-in-lunar-dust.json) |
 | Bar | 295367 | [295367-bar.json](./295367-bar.json) |
 | Bar After Bar | 399208 | [399208-bar-after-bar.json](./399208-bar-after-bar.json) |
 | Bar Billiards | 15661 | [15661-bar-billiards.json](./15661-bar-billiards.json) |
@@ -4560,6 +4561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Nose and the Witchdoctor | 233993 | [233993-big-nose-and-the-witchdoctor.json](./233993-big-nose-and-the-witchdoctor.json) |
 | Big Nose Freaks Out | 48105 | [48105-big-nose-freaks-out.json](./48105-big-nose-freaks-out.json) |
 | Big Ol' Bass 2 | 43921 | [43921-big-ol-bass-2.json](./43921-big-ol-bass-2.json) |
+| Big Orbit | 308450 | [308450-big-orbit.json](./308450-big-orbit.json) |
 | Big Pharma: Marketing and Malpractice | 154418 | [154418-big-pharma-marketing-and-malpractice.json](./154418-big-pharma-marketing-and-malpractice.json) |
 | Big Pharma: Special Edition | 167042 | [167042-big-pharma-special-edition.json](./167042-big-pharma-special-edition.json) |
 | Big Quest 2: the Adventure | 163738 | [163738-big-quest-2-the-adventure.json](./163738-big-quest-2-the-adventure.json) |
@@ -8162,6 +8164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boss Rush: Mythology | 141079 | [141079-boss-rush-mythology.json](./141079-boss-rush-mythology.json) |
 | Boss Simulator | 293109 | [293109-boss-simulator.json](./293109-boss-simulator.json) |
 | Boss Slayers | 412466 | [412466-boss-slayers.json](./412466-boss-slayers.json) |
+| Boss Speedjam 1 | 308526 | [308526-boss-speedjam-1.json](./308526-boss-speedjam-1.json) |
 | Boss Up | 365056 | [365056-boss-up.json](./365056-boss-up.json) |
 | Boss, Blind, Brandy | 349989 | [349989-boss-blind-brandy.json](./349989-boss-blind-brandy.json) |
 | Boss! | 60766 | [60766-boss.json](./60766-boss.json) |
