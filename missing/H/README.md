@@ -597,6 +597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hamburg: Neue Burg VR | 291510 | [291510-hamburg-neue-burg-vr.json](./291510-hamburg-neue-burg-vr.json) |
 | Hamburger | 284447 | [284447-hamburger.json](./284447-hamburger.json) |
 | Hamburger | 346059 | [346059-hamburger.json](./346059-hamburger.json) |
+| Hame Houdai! All You Can F*ck! 3 Female Teachers Endless Creampie! | 280694 | [280694-hame-houdai-all-you-can-f-ck-3-female-teachers-endless-creampie.json](./280694-hame-houdai-all-you-can-f-ck-3-female-teachers-endless-creampie.json) |
 | Hamekomi Lucky Puzzle Wii Returns | 344484 | [344484-hamekomi-lucky-puzzle-wii-returns.json](./344484-hamekomi-lucky-puzzle-wii-returns.json) |
 | Hamelin | 229364 | [229364-hamelin.json](./229364-hamelin.json) |
 | Hameln no Violin Hiki | 38365 | [38365-hameln-no-violin-hiki.json](./38365-hameln-no-violin-hiki.json) |
@@ -1501,6 +1502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hate Plus | 16542 | [16542-hate-plus.json](./16542-hate-plus.json) |
 | Hateful Days | 292424 | [292424-hateful-days.json](./292424-hateful-days.json) |
 | Haters, kill them all! | 86540 | [86540-haters-kill-them-all.json](./86540-haters-kill-them-all.json) |
+| Hatetris | 280702 | [280702-hatetris.json](./280702-hatetris.json) |
 | Hatfall | 11818 | [11818-hatfall.json](./11818-hatfall.json) |
 | Hatland Adventures | 35818 | [35818-hatland-adventures.json](./35818-hatland-adventures.json) |
 | HatMania | 223388 | [223388-hatmania.json](./223388-hatmania.json) |
