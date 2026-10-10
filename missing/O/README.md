@@ -1473,6 +1473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Military Camp: Christmas Season | 285111 | [285111-one-military-camp-christmas-season.json](./285111-one-military-camp-christmas-season.json) |
 | One Military Camp: Commander Goals | 288214 | [288214-one-military-camp-commander-goals.json](./288214-one-military-camp-commander-goals.json) |
 | One Military Camp: Multiplayer Mode | 277370 | [277370-one-military-camp-multiplayer-mode.json](./277370-one-military-camp-multiplayer-mode.json) |
+| One Million Checkboxes | 307172 | [307172-one-million-checkboxes.json](./307172-one-million-checkboxes.json) |
 | One Million Stars | 333652 | [333652-one-million-stars.json](./333652-one-million-stars.json) |
 | One Mind | 390594 | [390594-one-mind.json](./390594-one-mind.json) |
 | One minute of death | 112936 | [112936-one-minute-of-death.json](./112936-one-minute-of-death.json) |
