@@ -467,6 +467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Painted Red | 56883 | [56883-painted-red.json](./56883-painted-red.json) |
 | Painted Tomb | 125925 | [125925-painted-tomb.json](./125925-painted-tomb.json) |
 | Painter | 262091 | [262091-painter.json](./262091-painter.json) |
+| Painter Blazer | 316368 | [316368-painter-blazer.json](./316368-painter-blazer.json) |
 | Painter Man!! | 342623 | [342623-painter-man.json](./342623-painter-man.json) |
 | Painter's Pets | 189951 | [189951-painters-pets.json](./189951-painters-pets.json) |
 | Painterboy | 47198 | [47198-painterboy.json](./47198-painterboy.json) |
@@ -2514,6 +2515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Penitence | 201684 | [201684-penitence.json](./201684-penitence.json) |
 | Penkura | 110860 | [110860-penkura.json](./110860-penkura.json) |
 | Penky | 267937 | [267937-penky.json](./267937-penky.json) |
+| Penn Guiny | 316369 | [316369-penn-guiny.json](./316369-penn-guiny.json) |
 | Penni's Adventure | 258505 | [258505-pennis-adventure.json](./258505-pennis-adventure.json) |
 | Pennies 12 | 393636 | [393636-pennies-12.json](./393636-pennies-12.json) |
 | Penniless Chef | 384145 | [384145-penniless-chef.json](./384145-penniless-chef.json) |
@@ -4414,6 +4416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ping Pong | 358839 | [358839-ping-pong.json](./358839-ping-pong.json) |
 | Ping Pong | 86218 | [86218-ping-pong.json](./86218-ping-pong.json) |
 | Ping Pong 3D | 90348 | [90348-ping-pong-3d.json](./90348-ping-pong-3d.json) |
+| Ping Pong Clásico en 2DD | 316341 | [316341-ping-pong-clasico-en-2dd.json](./316341-ping-pong-clasico-en-2dd.json) |
 | Ping Pong Cup | 247065 | [247065-ping-pong-cup.json](./247065-ping-pong-cup.json) |
 | Ping Pong League | 32252 | [32252-ping-pong-league.json](./32252-ping-pong-league.json) |
 | Ping Pong Pow | 23605 | [23605-ping-pong-pow.json](./23605-ping-pong-pow.json) |
@@ -6312,6 +6315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Pro Wrestling: Perfect Wrestler | 50036 | [50036-pocket-pro-wrestling-perfect-wrestler.json](./50036-pocket-pro-wrestling-perfect-wrestler.json) |
 | Pocket Pro Yakyuu | 270080 | [270080-pocket-pro-yakyuu.json](./270080-pocket-pro-yakyuu.json) |
 | Pocket Pursuit | 113200 | [113200-pocket-pursuit.json](./113200-pocket-pursuit.json) |
+| Pocket Pusher: The Citadel | 316387 | [316387-pocket-pusher-the-citadel.json](./316387-pocket-pusher-the-citadel.json) |
 | Pocket Pusher: The Warehouse | 298273 | [298273-pocket-pusher-the-warehouse.json](./298273-pocket-pusher-the-warehouse.json) |
 | Pocket Puyo Puyo Tsuu | 87198 | [87198-pocket-puyo-puyo-tsuu.json](./87198-pocket-puyo-puyo-tsuu.json) |
 | Pocket Puyo Puyo~n | 249125 | [249125-pocket-puyo-puyo-n.json](./249125-pocket-puyo-puyo-n.json) |
@@ -7409,6 +7413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pome Rumble | 299415 | [299415-pome-rumble.json](./299415-pome-rumble.json) |
 | Pome Rumble M | 299416 | [299416-pome-rumble-m.json](./299416-pome-rumble-m.json) |
 | Pomelo & Friends: Sevilla | 373137 | [373137-pomelo-and-friends-sevilla.json](./373137-pomelo-and-friends-sevilla.json) |
+| Pomeraider | 316381 | [316381-pomeraider.json](./316381-pomeraider.json) |
 | Pommy | 86103 | [86103-pommy.json](./86103-pommy.json) |
 | Pomo Post | 319389 | [319389-pomo-post.json](./319389-pomo-post.json) |
 | Pompei: The Legend of Vesuvius | 53465 | [53465-pompei-the-legend-of-vesuvius.json](./53465-pompei-the-legend-of-vesuvius.json) |
@@ -9800,6 +9805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project: Gemini | 122158 | [122158-project-gemini.json](./122158-project-gemini.json) |
 | Project: Genesis | 270195 | [270195-project-genesis.json](./270195-project-genesis.json) |
 | Project: Gorgon | 26836 | [26836-project-gorgon.json](./26836-project-gorgon.json) |
+| Project: Gorgon - Extra Character Slots Pack | 316389 | [316389-project-gorgon-extra-character-slots-pack.json](./316389-project-gorgon-extra-character-slots-pack.json) |
 | Project: Halloween | 188935 | [188935-project-halloween.json](./188935-project-halloween.json) |
 | Project: Haste | 365251 | [365251-project-haste.json](./365251-project-haste.json) |
 | Project: InfoGrid | 246923 | [246923-project-infogrid.json](./246923-project-infogrid.json) |
@@ -10629,6 +10635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Purple Chicken Spaceman | 117777 | [117777-purple-chicken-spaceman.json](./117777-purple-chicken-spaceman.json) |
 | Purple Deathmatch | 115557 | [115557-purple-deathmatch.json](./115557-purple-deathmatch.json) |
 | Purple Fantasy | 213610 | [213610-purple-fantasy.json](./213610-purple-fantasy.json) |
+| Purple Game | 316358 | [316358-purple-game.json](./316358-purple-game.json) |
 | Purple Noise Echo | 120711 | [120711-purple-noise-echo.json](./120711-purple-noise-echo.json) |
 | Purple Pink Chinese Food | 299237 | [299237-purple-pink-chinese-food.json](./299237-purple-pink-chinese-food.json) |
 | Purple Pink Coloring Book | 299282 | [299282-purple-pink-coloring-book.json](./299282-purple-pink-coloring-book.json) |
