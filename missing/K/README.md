@@ -1271,6 +1271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kick the Sumo-Smash the Buddy | 106084 | [106084-kick-the-sumo-smash-the-buddy.json](./106084-kick-the-sumo-smash-the-buddy.json) |
 | Kick Them All | 312204 | [312204-kick-them-all.json](./312204-kick-them-all.json) |
 | Kick Them Out!!! | 103194 | [103194-kick-them-out.json](./103194-kick-them-out.json) |
+| Kick To Hell | 326635 | [326635-kick-to-hell.json](./326635-kick-to-hell.json) |
 | Kick Your Astronaut | 187233 | [187233-kick-your-astronaut.json](./187233-kick-your-astronaut.json) |
 | Kick Yourself On | 351804 | [351804-kick-yourself-on.json](./351804-kick-yourself-on.json) |
 | Kick-Ass 2 | 17488 | [17488-kick-ass-2.json](./17488-kick-ass-2.json) |
