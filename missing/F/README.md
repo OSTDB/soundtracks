@@ -217,6 +217,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fabled Lands: The Serpent King's Domain | 296671 | [296671-fabled-lands-the-serpent-kings-domain.json](./296671-fabled-lands-the-serpent-kings-domain.json) |
 | Fabled Style | 257984 | [257984-fabled-style.json](./257984-fabled-style.json) |
 | Fablery | 408253 | [408253-fablery.json](./408253-fablery.json) |
+| Fables Mosaic: Cinderella | 296204 | [296204-fables-mosaic-cinderella.json](./296204-fables-mosaic-cinderella.json) |
+| Fables Mosaic: Little Red Riding Hood | 296205 | [296205-fables-mosaic-little-red-riding-hood.json](./296205-fables-mosaic-little-red-riding-hood.json) |
+| Fables Mosaic: Snow White and the Seven Dwarfs | 296207 | [296207-fables-mosaic-snow-white-and-the-seven-dwarfs.json](./296207-fables-mosaic-snow-white-and-the-seven-dwarfs.json) |
 | Fables of Talumos | 119007 | [119007-fables-of-talumos.json](./119007-fables-of-talumos.json) |
 | Fables of the Kingdom III: Collector's Edition | 337251 | [337251-fables-of-the-kingdom-iii-collectors-edition.json](./337251-fables-of-the-kingdom-iii-collectors-edition.json) |
 | Fables of the Kingdom V: Collector's Edition | 337250 | [337250-fables-of-the-kingdom-v-collectors-edition.json](./337250-fables-of-the-kingdom-v-collectors-edition.json) |
@@ -3816,6 +3819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fireworks Show A | 354392 | [354392-fireworks-show-a.json](./354392-fireworks-show-a.json) |
 | Fireworks Show B | 354393 | [354393-fireworks-show-b.json](./354393-fireworks-show-b.json) |
 | Fireworks Simulator: Realistic | 169400 | [169400-fireworks-simulator-realistic.json](./169400-fireworks-simulator-realistic.json) |
+| Firey's Candy Bar Adventure | 296227 | [296227-fireys-candy-bar-adventure.json](./296227-fireys-candy-bar-adventure.json) |
 | Firezone | 74397 | [74397-firezone.json](./74397-firezone.json) |
 | Firmament | 89994 | [89994-firmament.json](./89994-firmament.json) |
 | Firmament Wars | 104042 | [104042-firmament-wars.json](./104042-firmament-wars.json) |
