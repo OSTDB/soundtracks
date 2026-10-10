@@ -1403,6 +1403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darts | 159273 | [159273-darts.json](./159273-darts.json) |
 | Darts | 358830 | [358830-darts.json](./358830-darts.json) |
 | Darts and Friends | 96627 | [96627-darts-and-friends.json](./96627-darts-and-friends.json) |
+| Darts Club | 287037 | [287037-darts-club.json](./287037-darts-club.json) |
 | Darts Club | 69828 | [69828-darts-club.json](./69828-darts-club.json) |
 | Darts Fever | 328548 | [328548-darts-fever.json](./328548-darts-fever.json) |
 | Darts Fever Bullseye Legends | 378962 | [378962-darts-fever-bullseye-legends.json](./378962-darts-fever-bullseye-legends.json) |
@@ -9538,6 +9539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DreadWood | 184110 | [184110-dreadwood.json](./184110-dreadwood.json) |
 | Dreadwoods Gatekeeper | 295507 | [295507-dreadwoods-gatekeeper.json](./295507-dreadwoods-gatekeeper.json) |
 | Dreadwoods Gatekeeper: Prologue | 295494 | [295494-dreadwoods-gatekeeper-prologue.json](./295494-dreadwoods-gatekeeper-prologue.json) |
+| Drealegy | 287046 | [287046-drealegy.json](./287046-drealegy.json) |
 | Dream | 147828 | [147828-dream.json](./147828-dream.json) |
 | Dream "ID" Journey | 292860 | [292860-dream-id-journey.json](./292860-dream-id-journey.json) |
 | Dream 64 | 244999 | [244999-dream-64.json](./244999-dream-64.json) |
