@@ -8176,6 +8176,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Construction Simulator 3 | 113630 | [113630-construction-simulator-3.json](./113630-construction-simulator-3.json) |
 | Construction Simulator 4 | 292143 | [292143-construction-simulator-4.json](./292143-construction-simulator-4.json) |
 | Construction Simulator PRO | 88470 | [88470-construction-simulator-pro.json](./88470-construction-simulator-pro.json) |
+| Construction Simulator: Car & Bobblehead Pack | 308522 | [308522-construction-simulator-car-and-bobblehead-pack.json](./308522-construction-simulator-car-and-bobblehead-pack.json) |
+| Construction Simulator: Customization Kit | 308524 | [308524-construction-simulator-customization-kit.json](./308524-construction-simulator-customization-kit.json) |
 | Construction Simulator: Evolution | 398522 | [398522-construction-simulator-evolution.json](./398522-construction-simulator-evolution.json) |
 | Construction Simulator: Extended Edition | 218476 | [218476-construction-simulator-extended-edition.json](./218476-construction-simulator-extended-edition.json) |
 | Construction Simulator: JCB Pack | 246399 | [246399-construction-simulator-jcb-pack.json](./246399-construction-simulator-jcb-pack.json) |
@@ -12404,6 +12406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cynthia: Hidden in the Moonshadow - Complete Edition | 283152 | [283152-cynthia-hidden-in-the-moonshadow-complete-edition.json](./283152-cynthia-hidden-in-the-moonshadow-complete-edition.json) |
 | Cynthia: Hidden in the Moonshadow - Extended Edition | 313438 | [313438-cynthia-hidden-in-the-moonshadow-extended-edition.json](./313438-cynthia-hidden-in-the-moonshadow-extended-edition.json) |
 | Cynthia: Hidden in the Moonshadow - Gold Edition | 324382 | [324382-cynthia-hidden-in-the-moonshadow-gold-edition.json](./324382-cynthia-hidden-in-the-moonshadow-gold-edition.json) |
+| Cynthia: Hidden in the Moonshadow - Platinum Edition | 308585 | [308585-cynthia-hidden-in-the-moonshadow-platinum-edition.json](./308585-cynthia-hidden-in-the-moonshadow-platinum-edition.json) |
 | Cynthia: Hidden in the Moonshadow - Silver Edition | 333681 | [333681-cynthia-hidden-in-the-moonshadow-silver-edition.json](./333681-cynthia-hidden-in-the-moonshadow-silver-edition.json) |
 | Cynthia: Hidden in the Moonshadow - Special Edition | 306491 | [306491-cynthia-hidden-in-the-moonshadow-special-edition.json](./306491-cynthia-hidden-in-the-moonshadow-special-edition.json) |
 | Cynthia: Hidden in the Moonshadow - Summer Edition | 317261 | [317261-cynthia-hidden-in-the-moonshadow-summer-edition.json](./317261-cynthia-hidden-in-the-moonshadow-summer-edition.json) |
