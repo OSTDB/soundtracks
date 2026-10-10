@@ -1342,6 +1342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paranormasight: The Seven Mysteries of Honjo | 236694 | [236694-paranormasight-the-seven-mysteries-of-honjo.json](./236694-paranormasight-the-seven-mysteries-of-honjo.json) |
 | ParaParaParadise 2nd mix | 78946 | [78946-paraparaparadise-2nd-mix.json](./78946-paraparaparadise-2nd-mix.json) |
 | PaRappa the Rapper | 269666 | [269666-parappa-the-rapper.json](./269666-parappa-the-rapper.json) |
+| PaRappa the Rapper: Stage 5 Music A | 324831 | [324831-parappa-the-rapper-stage-5-music-a.json](./324831-parappa-the-rapper-stage-5-music-a.json) |
 | Pararecords | 325020 | [325020-pararecords.json](./325020-pararecords.json) |
 | Pararena | 130356 | [130356-pararena.json](./130356-pararena.json) |
 | Parasensor | 347911 | [347911-parasensor.json](./347911-parasensor.json) |
@@ -3141,6 +3142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantasie Memorial Set | 279038 | [279038-phantasie-memorial-set.json](./279038-phantasie-memorial-set.json) |
 | Phantasm | 12924 | [12924-phantasm.json](./12924-phantasm.json) |
 | Phantasm | 308357 | [308357-phantasm.json](./308357-phantasm.json) |
+| Phantasm | 325141 | [325141-phantasm.json](./325141-phantasm.json) |
 | Phantasm Romance: Gensou Rouman Kikou | 375564 | [375564-phantasm-romance-gensou-rouman-kikou.json](./375564-phantasm-romance-gensou-rouman-kikou.json) |
 | Phantasma | 90642 | [90642-phantasma.json](./90642-phantasma.json) |
 | Phantasma Hotel | 407340 | [407340-phantasma-hotel.json](./407340-phantasma-hotel.json) |
