@@ -1770,6 +1770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kindvixen's | 296618 | [296618-kindvixens.json](./296618-kindvixens.json) |
 | Kine | 95225 | [95225-kine.json](./95225-kine.json) |
 | Kinect Fun Labs | 22939 | [22939-kinect-fun-labs.json](./22939-kinect-fun-labs.json) |
+| Kinect Fun Labs: 5 Micro Lab Challenge | 294558 | [294558-kinect-fun-labs-5-micro-lab-challenge.json](./294558-kinect-fun-labs-5-micro-lab-challenge.json) |
 | Kinect Fun Labs: Air Band | 329731 | [329731-kinect-fun-labs-air-band.json](./329731-kinect-fun-labs-air-band.json) |
 | Kinect Fun Labs: Avatar Kinect | 106088 | [106088-kinect-fun-labs-avatar-kinect.json](./106088-kinect-fun-labs-avatar-kinect.json) |
 | Kinect Fun Labs: Battle Stuff | 106089 | [106089-kinect-fun-labs-battle-stuff.json](./106089-kinect-fun-labs-battle-stuff.json) |
@@ -3256,6 +3257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kooring VR Coding Adventure | 158176 | [158176-kooring-vr-coding-adventure.json](./158176-kooring-vr-coding-adventure.json) |
 | KooZac | 65050 | [65050-koozac.json](./65050-koozac.json) |
 | Kopernicus: Extraction | 403556 | [403556-kopernicus-extraction.json](./403556-kopernicus-extraction.json) |
+| Koppotate's Rescue Mission | 294581 | [294581-koppotates-rescue-mission.json](./294581-koppotates-rescue-mission.json) |
 | Koppun-50 | 310214 | [310214-koppun-50.json](./310214-koppun-50.json) |
 | Kops | 71036 | [71036-kops.json](./71036-kops.json) |
 | Kor | 155970 | [155970-kor.json](./155970-kor.json) |
