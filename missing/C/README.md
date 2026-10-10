@@ -3219,6 +3219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chair Simulator | 146871 | [146871-chair-simulator.json](./146871-chair-simulator.json) |
 | Chairades | 179995 | [179995-chairades.json](./179995-chairades.json) |
 | Chairs | 281987 | [281987-chairs.json](./281987-chairs.json) |
+| Chakan for Hexen | 309624 | [309624-chakan-for-hexen.json](./309624-chakan-for-hexen.json) |
 | Chakan: The Forever Man | 18091 | [18091-chakan-the-forever-man.json](./18091-chakan-the-forever-man.json) |
 | Chakana | 322805 | [322805-chakana.json](./322805-chakana.json) |
 | Chakana | 377193 | [377193-chakana.json](./377193-chakana.json) |
