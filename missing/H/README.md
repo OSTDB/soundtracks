@@ -2790,6 +2790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello: A Talking Simulator | 179173 | [179173-hello-a-talking-simulator.json](./179173-hello-a-talking-simulator.json) |
 | Hello! From Hallowville | 178573 | [178573-hello-from-hallowville.json](./178573-hello-from-hallowville.json) |
 | Hello! Lady Lynn: Yume no wo Heya ni Youkoso! | 293909 | [293909-hello-lady-lynn-yume-no-wo-heya-ni-youkoso.json](./293909-hello-lady-lynn-yume-no-wo-heya-ni-youkoso.json) |
+| Hello! Taxi | 307790 | [307790-hello-taxi.json](./307790-hello-taxi.json) |
 | Hellokids: Vol. 1 - Coloring and Painting | 84524 | [84524-hellokids-vol-1-coloring-and-painting.json](./84524-hellokids-vol-1-coloring-and-painting.json) |
 | HelloWorld: Escape | 369582 | [369582-helloworld-escape.json](./369582-helloworld-escape.json) |
 | HelloWorldFactory | 276841 | [276841-helloworldfactory.json](./276841-helloworldfactory.json) |
@@ -4846,6 +4847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hiouden: Mamono-tachi to no Chikai | 60499 | [60499-hiouden-mamono-tachi-to-no-chikai.json](./60499-hiouden-mamono-tachi-to-no-chikai.json) |
 | Hip Hop & Street Dance School | 87868 | [87868-hip-hop-and-street-dance-school.json](./87868-hip-hop-and-street-dance-school.json) |
 | Hip Hop King: Rytmik Edition | 65460 | [65460-hip-hop-king-rytmik-edition.json](./65460-hip-hop-king-rytmik-edition.json) |
+| Hipatya in I wanna world | 307896 | [307896-hipatya-in-i-wanna-world.json](./307896-hipatya-in-i-wanna-world.json) |
 | Hiper Tronic | 72146 | [72146-hiper-tronic.json](./72146-hiper-tronic.json) |
 | HiPet! | 390582 | [390582-hipet.json](./390582-hipet.json) |
 | Hippo | 79822 | [79822-hippo.json](./79822-hippo.json) |
@@ -7161,6 +7163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunger of The Elder Slime | 180846 | [180846-hunger-of-the-elder-slime.json](./180846-hunger-of-the-elder-slime.json) |
 | Hungrities | 386695 | [386695-hungrities.json](./386695-hungrities.json) |
 | Hungry | 201646 | [201646-hungry.json](./201646-hungry.json) |
+| Hungry | 307789 | [307789-hungry.json](./307789-hungry.json) |
 | Hungry | 393567 | [393567-hungry.json](./393567-hungry.json) |
 | Hungry Adventurer | 248013 | [248013-hungry-adventurer.json](./248013-hungry-adventurer.json) |
 | Hungry Animals | 196675 | [196675-hungry-animals.json](./196675-hungry-animals.json) |
