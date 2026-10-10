@@ -6705,6 +6705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fractal Block World | 152744 | [152744-fractal-block-world.json](./152744-fractal-block-world.json) |
 | Fractal Craft | 364635 | [364635-fractal-craft.json](./364635-fractal-craft.json) |
 | Fractal Evolution | 190453 | [190453-fractal-evolution.json](./190453-fractal-evolution.json) |
+| Fractal Factory | 302163 | [302163-fractal-factory.json](./302163-fractal-factory.json) |
 | Fractal Fly | 196135 | [196135-fractal-fly.json](./196135-fractal-fly.json) |
 | Fractal Glide | 263503 | [263503-fractal-glide.json](./263503-fractal-glide.json) |
 | Fractal Sailor | 293745 | [293745-fractal-sailor.json](./293745-fractal-sailor.json) |
@@ -7553,6 +7554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | From the Top | 374439 | [374439-from-the-top.json](./374439-from-the-top.json) |
 | From the Town of Gleming | 195630 | [195630-from-the-town-of-gleming.json](./195630-from-the-town-of-gleming.json) |
 | From the Void | 187897 | [187897-from-the-void.json](./187897-from-the-void.json) |
+| From Them | 302202 | [302202-from-them.json](./302202-from-them.json) |
 | From Two Sides | 371605 | [371605-from-two-sides.json](./371605-from-two-sides.json) |
 | From Within | 177830 | [177830-from-within.json](./177830-from-within.json) |
 | From Zero to Slime Hero | 391687 | [391687-from-zero-to-slime-hero.json](./391687-from-zero-to-slime-hero.json) |
