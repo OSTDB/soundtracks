@@ -1739,6 +1739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barro | 95668 | [95668-barro.json](./95668-barro.json) |
 | Barro 2020 | 123866 | [123866-barro-2020.json](./123866-barro-2020.json) |
 | Barro F | 130225 | [130225-barro-f.json](./130225-barro-f.json) |
+| Barro F22: Pack #1 | 298414 | [298414-barro-f22-pack-1.json](./298414-barro-f22-pack-1.json) |
 | Barro F22: Pack #2 | 322730 | [322730-barro-f22-pack-2.json](./322730-barro-f22-pack-2.json) |
 | Barro F25 | 339931 | [339931-barro-f25.json](./339931-barro-f25.json) |
 | Barro GT: Pack #1 | 298338 | [298338-barro-gt-pack-1.json](./298338-barro-gt-pack-1.json) |
@@ -9942,6 +9943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Crackle | 87321 | [87321-bubble-crackle.json](./87321-bubble-crackle.json) |
 | Bubble de House de OOO: Ofuro Maker no Showroom ga Sharehouse de... | 396487 | [396487-bubble-de-house-de-ooo-ofuro-maker-no-showroom-ga-sharehouse-de.json](./396487-bubble-de-house-de-ooo-ofuro-maker-no-showroom-ga-sharehouse-de.json) |
 | Bubble Diving | 183341 | [183341-bubble-diving.json](./183341-bubble-diving.json) |
+| Bubble Dogs | 298403 | [298403-bubble-dogs.json](./298403-bubble-dogs.json) |
 | Bubble Dreams 3D | 330724 | [330724-bubble-dreams-3d.json](./330724-bubble-dreams-3d.json) |
 | Bubble Escape WTH? | 110230 | [110230-bubble-escape-wth.json](./110230-bubble-escape-wth.json) |
 | Bubble Explosion Adventure | 87691 | [87691-bubble-explosion-adventure.json](./87691-bubble-explosion-adventure.json) |
