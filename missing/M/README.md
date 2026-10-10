@@ -880,6 +880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magicafe | 299127 | [299127-magicafe.json](./299127-magicafe.json) |
 | Magical Animal Farm | 366423 | [366423-magical-animal-farm.json](./366423-magical-animal-farm.json) |
 | Magical Backpack | 328977 | [328977-magical-backpack.json](./328977-magical-backpack.json) |
+| Magical Bakery: Deluxe Edition | 320442 | [320442-magical-bakery-deluxe-edition.json](./320442-magical-bakery-deluxe-edition.json) |
 | Magical Battle Arena | 145447 | [145447-magical-battle-arena.json](./145447-magical-battle-arena.json) |
 | Magical Battle Arena: Complete Form | 61320 | [61320-magical-battle-arena-complete-form.json](./61320-magical-battle-arena-complete-form.json) |
 | Magical Battle Festa | 17218 | [17218-magical-battle-festa.json](./17218-magical-battle-festa.json) |
@@ -1630,6 +1631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mall Control | 358898 | [358898-mall-control.json](./358898-mall-control.json) |
 | Mall Craze | 129090 | [129090-mall-craze.json](./129090-mall-craze.json) |
 | Mall Manager | 291255 | [291255-mall-manager.json](./291255-mall-manager.json) |
+| Mall Manager | 320444 | [320444-mall-manager.json](./320444-mall-manager.json) |
 | Mall Manager Simulator | 309444 | [309444-mall-manager-simulator.json](./309444-mall-manager-simulator.json) |
 | Mall Maniacs | 70681 | [70681-mall-maniacs.json](./70681-mall-maniacs.json) |
 | Mall of Mayhem | 188502 | [188502-mall-of-mayhem.json](./188502-mall-of-mayhem.json) |
@@ -4144,6 +4146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mechanic Master | 23822 | [23822-mechanic-master.json](./23822-mechanic-master.json) |
 | Mechanic Miner | 77754 | [77754-mechanic-miner.json](./77754-mechanic-miner.json) |
 | Mechanic Supermarket 2024 | 321487 | [321487-mechanic-supermarket-2024.json](./321487-mechanic-supermarket-2024.json) |
+| Mechanic Supermarket Simulator | 320436 | [320436-mechanic-supermarket-simulator.json](./320436-mechanic-supermarket-simulator.json) |
 | Mechanica | 129155 | [129155-mechanica.json](./129155-mechanica.json) |
 | Mechanical Anarchy | 356689 | [356689-mechanical-anarchy.json](./356689-mechanical-anarchy.json) |
 | Mechanical Chess: Real-time | 357309 | [357309-mechanical-chess-real-time.json](./357309-mechanical-chess-real-time.json) |
@@ -5211,6 +5214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Melon Bounce | 366250 | [366250-melon-bounce.json](./366250-melon-bounce.json) |
 | Melon Clicker | 330261 | [330261-melon-clicker.json](./330261-melon-clicker.json) |
 | Melon Dusk | 196238 | [196238-melon-dusk.json](./196238-melon-dusk.json) |
+| Melon Head | 320473 | [320473-melon-head.json](./320473-melon-head.json) |
 | Melon Journey | 132112 | [132112-melon-journey.json](./132112-melon-journey.json) |
 | Melon Journey Pocket | 244794 | [244794-melon-journey-pocket.json](./244794-melon-journey-pocket.json) |
 | Melon Journey: Bittersweet Memories | 119653 | [119653-melon-journey-bittersweet-memories.json](./119653-melon-journey-bittersweet-memories.json) |
@@ -5999,6 +6003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Survivor | 224520 | [224520-metal-survivor.json](./224520-metal-survivor.json) |
 | Metal Swarm Infinity | 167680 | [167680-metal-swarm-infinity.json](./167680-metal-swarm-infinity.json) |
 | Metal Tales: Overkill | 149692 | [149692-metal-tales-overkill.json](./149692-metal-tales-overkill.json) |
+| Metal Thunder | 320475 | [320475-metal-thunder.json](./320475-metal-thunder.json) |
 | Metal Torrent | 67703 | [67703-metal-torrent.json](./67703-metal-torrent.json) |
 | Metal Unit | 125038 | [125038-metal-unit.json](./125038-metal-unit.json) |
 | Metal Walker | 49872 | [49872-metal-walker.json](./49872-metal-walker.json) |
@@ -8561,6 +8566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miya's Everyday Joy of Cooking | 202144 | [202144-miyas-everyday-joy-of-cooking.json](./202144-miyas-everyday-joy-of-cooking.json) |
 | Miyaji Shachou no Pachinko Fan: Shouri Sengen 2 | 37925 | [37925-miyaji-shachou-no-pachinko-fan-shouri-sengen-2.json](./37925-miyaji-shachou-no-pachinko-fan-shouri-sengen-2.json) |
 | Miyamoto | 175328 | [175328-miyamoto.json](./175328-miyamoto.json) |
+| Miyamoto | 320443 | [320443-miyamoto.json](./320443-miyamoto.json) |
 | Miyamoto S | 188460 | [188460-miyamoto-s.json](./188460-miyamoto-s.json) |
 | Miyazato San Kyoudai Naizou: Sega Golf Club | 7454 | [7454-miyazato-san-kyoudai-naizou-sega-golf-club.json](./7454-miyazato-san-kyoudai-naizou-sega-golf-club.json) |
 | Miyuki the Shoubushi | 67375 | [67375-miyuki-the-shoubushi.json](./67375-miyuki-the-shoubushi.json) |
@@ -8835,6 +8841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Model Builder: Military Pack | 332602 | [332602-model-builder-military-pack.json](./332602-model-builder-military-pack.json) |
 | Model Builder: Titan-Forge DLC No.2 | 243158 | [243158-model-builder-titan-forge-dlc-no-2.json](./243158-model-builder-titan-forge-dlc-no-2.json) |
 | Model City | 149188 | [149188-model-city.json](./149188-model-city.json) |
+| Model Debut3 #Nicola | 320463 | [320463-model-debut3-nicola.json](./320463-model-debut3-nicola.json) |
 | Model Employee | 274732 | [274732-model-employee.json](./274732-model-employee.json) |
 | Model Kit Shop Simulator | 397829 | [397829-model-kit-shop-simulator.json](./397829-model-kit-shop-simulator.json) |
 | Model Melissa | 286521 | [286521-model-melissa.json](./286521-model-melissa.json) |
@@ -10191,6 +10198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moorhuhn Deluxe | 144593 | [144593-moorhuhn-deluxe.json](./144593-moorhuhn-deluxe.json) |
 | Moorhuhn in Südafrika | 282543 | [282543-moorhuhn-in-sudafrika.json](./282543-moorhuhn-in-sudafrika.json) |
 | Moorhuhn Jump and Run: Traps and Treasures 2 | 196642 | [196642-moorhuhn-jump-and-run-traps-and-treasures-2.json](./196642-moorhuhn-jump-and-run-traps-and-treasures-2.json) |
+| Moorhuhn Jump and Run: Traps and Treasures 3 | 320462 | [320462-moorhuhn-jump-and-run-traps-and-treasures-3.json](./320462-moorhuhn-jump-and-run-traps-and-treasures-3.json) |
 | Moorhuhn Kart 4 | 328411 | [328411-moorhuhn-kart-4.json](./328411-moorhuhn-kart-4.json) |
 | Moorhuhn UnfairPlay | 144599 | [144599-moorhuhn-unfairplay.json](./144599-moorhuhn-unfairplay.json) |
 | Moorhuhn VR | 144598 | [144598-moorhuhn-vr.json](./144598-moorhuhn-vr.json) |
@@ -11051,6 +11059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Move or Die: Couch Party Edition | 209130 | [209130-move-or-die-couch-party-edition.json](./209130-move-or-die-couch-party-edition.json) |
 | Move or Die: Unleashed | 324846 | [324846-move-or-die-unleashed.json](./324846-move-or-die-unleashed.json) |
 | Move or Fire: Space Desire | 178977 | [178977-move-or-fire-space-desire.json](./178977-move-or-fire-space-desire.json) |
+| Move Out Manor | 320431 | [320431-move-out-manor.json](./320431-move-out-manor.json) |
 | Move Street Cricket | 20806 | [20806-move-street-cricket.json](./20806-move-street-cricket.json) |
 | Move Street Cricket II | 97933 | [97933-move-street-cricket-ii.json](./97933-move-street-cricket-ii.json) |
 | Move the Blocks | 57743 | [57743-move-the-blocks.json](./57743-move-the-blocks.json) |
