@@ -861,6 +861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer 40,000: Armageddon - Untold Battles | 148716 | [148716-warhammer-40-000-armageddon-untold-battles.json](./148716-warhammer-40-000-armageddon-untold-battles.json) |
 | Warhammer 40,000: Armageddon - Vulkan's Wrath | 53893 | [53893-warhammer-40-000-armageddon-vulkans-wrath.json](./53893-warhammer-40-000-armageddon-vulkans-wrath.json) |
 | Warhammer 40,000: Assault Dice | 175183 | [175183-warhammer-40-000-assault-dice.json](./175183-warhammer-40-000-assault-dice.json) |
+| Warhammer 40,000: Battlesector - Astra Militarum | 302171 | [302171-warhammer-40-000-battlesector-astra-militarum.json](./302171-warhammer-40-000-battlesector-astra-militarum.json) |
 | Warhammer 40,000: Battlesector - Blood Angels Elites | 196104 | [196104-warhammer-40-000-battlesector-blood-angels-elites.json](./196104-warhammer-40-000-battlesector-blood-angels-elites.json) |
 | Warhammer 40,000: Battlesector - Daemons of Khorne | 263148 | [263148-warhammer-40-000-battlesector-daemons-of-khorne.json](./263148-warhammer-40-000-battlesector-daemons-of-khorne.json) |
 | Warhammer 40,000: Battlesector - Necrons | 251007 | [251007-warhammer-40-000-battlesector-necrons.json](./251007-warhammer-40-000-battlesector-necrons.json) |
@@ -878,6 +879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer 40,000: Dakka Squadron - Flyboyz Edition | 143648 | [143648-warhammer-40-000-dakka-squadron-flyboyz-edition.json](./143648-warhammer-40-000-dakka-squadron-flyboyz-edition.json) |
 | Warhammer 40,000: Dark Crusaders | 200657 | [200657-warhammer-40-000-dark-crusaders.json](./200657-warhammer-40-000-dark-crusaders.json) |
 | Warhammer 40,000: Darktide - Imperial Edition | 203255 | [203255-warhammer-40-000-darktide-imperial-edition.json](./203255-warhammer-40-000-darktide-imperial-edition.json) |
+| Warhammer 40,000: Darktide - Secrets of the Machine God | 302173 | [302173-warhammer-40-000-darktide-secrets-of-the-machine-god.json](./302173-warhammer-40-000-darktide-secrets-of-the-machine-god.json) |
 | Warhammer 40,000: Darktide - Skitarii | 402515 | [402515-warhammer-40-000-darktide-skitarii.json](./402515-warhammer-40-000-darktide-skitarii.json) |
 | Warhammer 40,000: Darktide - The Traitor Curse Part 1 | 276771 | [276771-warhammer-40-000-darktide-the-traitor-curse-part-1.json](./276771-warhammer-40-000-darktide-the-traitor-curse-part-1.json) |
 | Warhammer 40,000: Dawn of War | 257 | [257-warhammer-40-000-dawn-of-war.json](./257-warhammer-40-000-dawn-of-war.json) |
@@ -967,6 +969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer 40,000: Squad Command | 18310 | [18310-warhammer-40-000-squad-command.json](./18310-warhammer-40-000-squad-command.json) |
 | Warhammer 40,000: Storm of Vengeance | 9389 | [9389-warhammer-40-000-storm-of-vengeance.json](./9389-warhammer-40-000-storm-of-vengeance.json) |
 | Warhammer 40,000: Tacticus | 203274 | [203274-warhammer-40-000-tacticus.json](./203274-warhammer-40-000-tacticus.json) |
+| Warhammer 40,000: Tacticus - Machines of War | 302170 | [302170-warhammer-40-000-tacticus-machines-of-war.json](./302170-warhammer-40-000-tacticus-machines-of-war.json) |
 | Warhammer 40,000: Warpforge | 203256 | [203256-warhammer-40-000-warpforge.json](./203256-warhammer-40-000-warpforge.json) |
 | Warhammer Age of Sigmar: Champions | 112518 | [112518-warhammer-age-of-sigmar-champions.json](./112518-warhammer-age-of-sigmar-champions.json) |
 | Warhammer Age of Sigmar: Deathmaster | 402516 | [402516-warhammer-age-of-sigmar-deathmaster.json](./402516-warhammer-age-of-sigmar-deathmaster.json) |
@@ -5090,6 +5093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Tanks: Blitz - Free Pack | 171010 | [171010-world-of-tanks-blitz-free-pack.json](./171010-world-of-tanks-blitz-free-pack.json) |
 | World of Tanks: Blitz - Grand Pack | 171009 | [171009-world-of-tanks-blitz-grand-pack.json](./171009-world-of-tanks-blitz-grand-pack.json) |
 | World of Tanks: Blitz - Mega Pack | 171008 | [171008-world-of-tanks-blitz-mega-pack.json](./171008-world-of-tanks-blitz-mega-pack.json) |
+| World of Tanks: Blitz - Predator Pack | 302204 | [302204-world-of-tanks-blitz-predator-pack.json](./302204-world-of-tanks-blitz-predator-pack.json) |
 | World of Tanks: Blitz - Resource Pack | 171011 | [171011-world-of-tanks-blitz-resource-pack.json](./171011-world-of-tanks-blitz-resource-pack.json) |
 | World of Tanks: Blitz - Space Pack | 171012 | [171012-world-of-tanks-blitz-space-pack.json](./171012-world-of-tanks-blitz-space-pack.json) |
 | World of Tanks: Heat | 361890 | [361890-world-of-tanks-heat.json](./361890-world-of-tanks-heat.json) |
