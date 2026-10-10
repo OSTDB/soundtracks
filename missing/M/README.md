@@ -94,6 +94,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mace Griffin: Bounty Hunter | 5904 | [5904-mace-griffin-bounty-hunter.json](./5904-mace-griffin-bounty-hunter.json) |
 | Mace Knight | 391572 | [391572-mace-knight.json](./391572-mace-knight.json) |
 | Mace: The Dark Age | 3535 | [3535-mace-the-dark-age.json](./3535-mace-the-dark-age.json) |
+| MacGolf | 288706 | [288706-macgolf.json](./288706-macgolf.json) |
 | MacGuffin | 34526 | [34526-macguffin.json](./34526-macguffin.json) |
 | Mach K9 | 300348 | [300348-mach-k9.json](./300348-mach-k9.json) |
 | Mach's noch einmal, Sven | 206794 | [206794-machs-noch-einmal-sven.json](./206794-machs-noch-einmal-sven.json) |
@@ -1484,6 +1485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Major Title | 40363 | [40363-major-title.json](./40363-major-title.json) |
 | Major Title Tournament Leader | 40362 | [40362-major-title-tournament-leader.json](./40362-major-title-tournament-leader.json) |
 | Major's Heart | 403182 | [403182-majors-heart.json](./403182-majors-heart.json) |
+| Majora's Mask 3D Randomizer | 288700 | [288700-majoras-mask-3d-randomizer.json](./288700-majoras-mask-3d-randomizer.json) |
 | Majora's Mask Redux | 172479 | [172479-majoras-mask-redux.json](./172479-majoras-mask-redux.json) |
 | Majorariatto Museum | 177426 | [177426-majorariatto-museum.json](./177426-majorariatto-museum.json) |
 | Majorelle Mystery | 232705 | [232705-majorelle-mystery.json](./232705-majorelle-mystery.json) |
@@ -4451,6 +4453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MediEvil | 299389 | [299389-medievil.json](./299389-medievil.json) |
 | MediEvil II | 329195 | [329195-medievil-ii.json](./329195-medievil-ii.json) |
 | MediEvil II | 4002 | [4002-medievil-ii.json](./4002-medievil-ii.json) |
+| MediEvil: Resurrection | 288665 | [288665-medievil-resurrection.json](./288665-medievil-resurrection.json) |
 | Meditation 5 | 135047 | [135047-meditation-5.json](./135047-meditation-5.json) |
 | Meditation Forest | 183409 | [183409-meditation-forest.json](./183409-meditation-forest.json) |
 | Meditation Journey: VR Zen Garden | 167785 | [167785-meditation-journey-vr-zen-garden.json](./167785-meditation-journey-vr-zen-garden.json) |
@@ -6266,6 +6269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metroid: Rechoose | 318019 | [318019-metroid-rechoose.json](./318019-metroid-rechoose.json) |
 | Metroid: Recovery | 323875 | [323875-metroid-recovery.json](./323875-metroid-recovery.json) |
 | Metroid: Return to Zebes | 360125 | [360125-metroid-return-to-zebes.json](./360125-metroid-return-to-zebes.json) |
+| Metroid: Ripped Worlds | 288647 | [288647-metroid-ripped-worlds.json](./288647-metroid-ripped-worlds.json) |
 | Metroid: Rogue Dawn | 65036 | [65036-metroid-rogue-dawn.json](./65036-metroid-rogue-dawn.json) |
 | Metroid: Samus Returns | 37140 | [37140-metroid-samus-returns.json](./37140-metroid-samus-returns.json) |
 | Metroid: SR388 | 324000 | [324000-metroid-sr388.json](./324000-metroid-sr388.json) |
@@ -6978,6 +6982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mightier | 341696 | [341696-mightier.json](./341696-mightier.json) |
 | Mightier | 50136 | [50136-mightier.json](./50136-mightier.json) |
 | Mightreya | 314489 | [314489-mightreya.json](./314489-mightreya.json) |
+| Mighty Action Heroes | 288660 | [288660-mighty-action-heroes.json](./288660-mighty-action-heroes.json) |
 | Mighty Aphid | 135156 | [135156-mighty-aphid.json](./135156-mighty-aphid.json) |
 | Mighty Aphid 2 | 231987 | [231987-mighty-aphid-2.json](./231987-mighty-aphid-2.json) |
 | Mighty Arms | 348751 | [348751-mighty-arms.json](./348751-mighty-arms.json) |
@@ -10084,6 +10089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moon Blue Legend Remake | 394175 | [394175-moon-blue-legend-remake.json](./394175-moon-blue-legend-remake.json) |
 | Moon Break | 358892 | [358892-moon-break.json](./358892-moon-break.json) |
 | Moon Bride | 376040 | [376040-moon-bride.json](./376040-moon-bride.json) |
+| Moon Buggy | 288672 | [288672-moon-buggy.json](./288672-moon-buggy.json) |
 | Moon Buggy | 40930 | [40930-moon-buggy.json](./40930-moon-buggy.json) |
 | Moon Bugs | 57652 | [57652-moon-bugs.json](./57652-moon-bugs.json) |
 | Moon Castle | 89404 | [89404-moon-castle.json](./89404-moon-castle.json) |
@@ -11080,6 +11086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mountain Biker | 116402 | [116402-mountain-biker.json](./116402-mountain-biker.json) |
 | Mountain Car Climb | 402347 | [402347-mountain-car-climb.json](./402347-mountain-car-climb.json) |
 | Mountain King | 12315 | [12315-mountain-king.json](./12315-mountain-king.json) |
+| Mountain King Return | 288662 | [288662-mountain-king-return.json](./288662-mountain-king-return.json) |
 | Mountain Legends 3 | 291254 | [291254-mountain-legends-3.json](./291254-mountain-legends-3.json) |
 | Mountain Madness | 236387 | [236387-mountain-madness.json](./236387-mountain-madness.json) |
 | Mountain Madness | 241523 | [241523-mountain-madness.json](./241523-mountain-madness.json) |
@@ -12197,6 +12204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MX vs. ATV: Legends - 2023 Track Pass | 287113 | [287113-mx-vs-atv-legends-2023-track-pass.json](./287113-mx-vs-atv-legends-2023-track-pass.json) |
 | MX vs. ATV: Legends - 2024 AMA Pro Motocross Championship | 302034 | [302034-mx-vs-atv-legends-2024-ama-pro-motocross-championship.json](./302034-mx-vs-atv-legends-2024-ama-pro-motocross-championship.json) |
 | MX vs. ATV: Legends - 2024 Monster Energy Supercross Championship | 295398 | [295398-mx-vs-atv-legends-2024-monster-energy-supercross-championship.json](./295398-mx-vs-atv-legends-2024-monster-energy-supercross-championship.json) |
+| MX vs. ATV: Legends - 2024 Monster Energy Supercross Edition | 288655 | [288655-mx-vs-atv-legends-2024-monster-energy-supercross-edition.json](./288655-mx-vs-atv-legends-2024-monster-energy-supercross-edition.json) |
 | MX vs. ATV: Legends - 2025 Monster Energy Supercross Championship | 350639 | [350639-mx-vs-atv-legends-2025-monster-energy-supercross-championship.json](./350639-mx-vs-atv-legends-2025-monster-energy-supercross-championship.json) |
 | MX vs. ATV: Legends - Customization Pack | 350651 | [350651-mx-vs-atv-legends-customization-pack.json](./350651-mx-vs-atv-legends-customization-pack.json) |
 | MX vs. ATV: Legends - GASGAS Pack 2023 | 274741 | [274741-mx-vs-atv-legends-gasgas-pack-2023.json](./274741-mx-vs-atv-legends-gasgas-pack-2023.json) |
