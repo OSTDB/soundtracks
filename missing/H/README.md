@@ -4972,6 +4972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hist Maker | 103183 | [103183-hist-maker.json](./103183-hist-maker.json) |
 | Histerya | 296796 | [296796-histerya.json](./296796-histerya.json) |
 | Histo-Time | 336710 | [336710-histo-time.json](./336710-histo-time.json) |
+| Histoire | 294589 | [294589-histoire.json](./294589-histoire.json) |
 | Histoire d'Or | 388318 | [388318-histoire-dor.json](./388318-histoire-dor.json) |
 | Histoire de Lune | 322590 | [322590-histoire-de-lune.json](./322590-histoire-de-lune.json) |
 | Histology Quiz Game | 99387 | [99387-histology-quiz-game.json](./99387-histology-quiz-game.json) |
