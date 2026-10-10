@@ -3926,6 +3926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NolyRhythm | 390731 | [390731-nolyrhythm.json](./390731-nolyrhythm.json) |
 | Nom Nom Nom | 209650 | [209650-nom-nom-nom.json](./209650-nom-nom-nom.json) |
 | Nom Nom: Cozy Forest Café | 258535 | [258535-nom-nom-cozy-forest-cafe.json](./258535-nom-nom-cozy-forest-cafe.json) |
+| Nom Plant | 328943 | [328943-nom-plant.json](./328943-nom-plant.json) |
 | Nomad | 403796 | [403796-nomad.json](./403796-nomad.json) |
 | Nomad Drive | 340570 | [340570-nomad-drive.json](./340570-nomad-drive.json) |
 | Nomad Fleet | 18955 | [18955-nomad-fleet.json](./18955-nomad-fleet.json) |
