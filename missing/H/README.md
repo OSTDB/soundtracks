@@ -1335,6 +1335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haru no Oto ha Marude Kimi ni Nitete | 323821 | [323821-haru-no-oto-ha-marude-kimi-ni-nitete.json](./323821-haru-no-oto-ha-marude-kimi-ni-nitete.json) |
 | Haru to Shura | 148699 | [148699-haru-to-shura.json](./148699-haru-to-shura.json) |
 | Haruka Drive! | 409417 | [409417-haruka-drive.json](./409417-haruka-drive.json) |
+| Haruka na Sora | 326640 | [326640-haruka-na-sora.json](./326640-haruka-na-sora.json) |
 | Haruka no Kuni | 341606 | [341606-haruka-no-kuni.json](./341606-haruka-no-kuni.json) |
 | Haruka, Winter Dreams | 57185 | [57185-haruka-winter-dreams.json](./57185-haruka-winter-dreams.json) |
 | Haruka: Beyond the Stars | 251065 | [251065-haruka-beyond-the-stars.json](./251065-haruka-beyond-the-stars.json) |
