@@ -1011,6 +1011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ego Holic | 225297 | [225297-ego-holic.json](./225297-ego-holic.json) |
 | Ego Joe the Idiot Mall Cop | 181199 | [181199-ego-joe-the-idiot-mall-cop.json](./181199-ego-joe-the-idiot-mall-cop.json) |
 | Ego League | 373768 | [373768-ego-league.json](./373768-ego-league.json) |
+| Ego's Spark | 280158 | [280158-egos-spark.json](./280158-egos-spark.json) |
 | Egoboo | 47298 | [47298-egoboo.json](./47298-egoboo.json) |
 | Egogia | 394794 | [394794-egogia.json](./394794-egogia.json) |
 | Egregore | 139230 | [139230-egregore.json](./139230-egregore.json) |
@@ -2316,6 +2317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Zombie Tower | 151172 | [151172-endless-zombie-tower.json](./151172-endless-zombie-tower.json) |
 | Endless Zone | 140043 | [140043-endless-zone.json](./140043-endless-zone.json) |
 | Endless_Overdrive | 144883 | [144883-endless-overdrive.json](./144883-endless-overdrive.json) |
+| EndlessCar | 280157 | [280157-endlesscar.json](./280157-endlesscar.json) |
 | EndlessChoice | 289236 | [289236-endlesschoice.json](./289236-endlesschoice.json) |
 | endlessCorona | 160241 | [160241-endlesscorona.json](./160241-endlesscorona.json) |
 | EndlessHell | 117046 | [117046-endlesshell.json](./117046-endlesshell.json) |
@@ -2483,6 +2485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enkou Girls Collection: Oyaji no Natsu wa Suzushii Loveho de Pakopako Hen | 82997 | [82997-enkou-girls-collection-oyaji-no-natsu-wa-suzushii-loveho-de-pakopako-hen.json](./82997-enkou-girls-collection-oyaji-no-natsu-wa-suzushii-loveho-de-pakopako-hen.json) |
 | Enlightened | 249883 | [249883-enlightened.json](./249883-enlightened.json) |
 | Enlightened Sentinel | 155667 | [155667-enlightened-sentinel.json](./155667-enlightened-sentinel.json) |
+| Enlightening the Soul Country Light | 280168 | [280168-enlightening-the-soul-country-light.json](./280168-enlightening-the-soul-country-light.json) |
 | Enlightenment | 43155 | [43155-enlightenment.json](./43155-enlightenment.json) |
 | Enlisted: Calliope Squad | 293769 | [293769-enlisted-calliope-squad.json](./293769-enlisted-calliope-squad.json) |
 | Enlisted: Direct Fire Bundle | 309016 | [309016-enlisted-direct-fire-bundle.json](./309016-enlisted-direct-fire-bundle.json) |
