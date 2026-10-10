@@ -4019,6 +4019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noob Squad | 32242 | [32242-noob-squad.json](./32242-noob-squad.json) |
 | Noob's Room | 383574 | [383574-noobs-room.json](./383574-noobs-room.json) |
 | Noobow | 62598 | [62598-noobow.json](./62598-noobow.json) |
+| Noobs Are Coming | 332387 | [332387-noobs-are-coming.json](./332387-noobs-are-coming.json) |
 | Noodle Arm Royale | 61736 | [61736-noodle-arm-royale.json](./61736-noodle-arm-royale.json) |
 | Noodle Cable | 409706 | [409706-noodle-cable.json](./409706-noodle-cable.json) |
 | Noodle Fight | 269313 | [269313-noodle-fight.json](./269313-noodle-fight.json) |
