@@ -989,6 +989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Zunou Power!! DS | 70411 | [70411-magical-zunou-power-ds.json](./70411-magical-zunou-power-ds.json) |
 | Magicalic Sky High: Soratobu Houki ni Omoi wo Nosete | 194554 | [194554-magicalic-sky-high-soratobu-houki-ni-omoi-wo-nosete.json](./194554-magicalic-sky-high-soratobu-houki-ni-omoi-wo-nosete.json) |
 | Magicami | 150593 | [150593-magicami.json](./150593-magicami.json) |
+| MagicArchitect | 284268 | [284268-magicarchitect.json](./284268-magicarchitect.json) |
 | MagiCarnage | 211730 | [211730-magicarnage.json](./211730-magicarnage.json) |
 | MagiCats Builder: Infinite Pack | 170312 | [170312-magicats-builder-infinite-pack.json](./170312-magicats-builder-infinite-pack.json) |
 | Magician | 319093 | [319093-magician.json](./319093-magician.json) |
@@ -6809,6 +6810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MidKnight Story | 115444 | [115444-midknight-story.json](./115444-midknight-story.json) |
 | Midline '85 | 247738 | [247738-midline-85.json](./247738-midline-85.json) |
 | Midna's Mario World | 282730 | [282730-midnas-mario-world.json](./282730-midnas-mario-world.json) |
+| Midnight | 284284 | [284284-midnight.json](./284284-midnight.json) |
 | Midnight | 312215 | [312215-midnight.json](./312215-midnight.json) |
 | Midnight | 33802 | [33802-midnight.json](./33802-midnight.json) |
 | Midnight 2 | 58602 | [58602-midnight-2.json](./58602-midnight-2.json) |
