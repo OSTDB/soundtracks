@@ -2122,6 +2122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leowald | 116106 | [116106-leowald.json](./116106-leowald.json) |
 | Lep's World | 59915 | [59915-leps-world.json](./59915-leps-world.json) |
 | Lep's World 2 | 88293 | [88293-leps-world-2.json](./88293-leps-world-2.json) |
+| Lep's World 3 | 331939 | [331939-leps-world-3.json](./331939-leps-world-3.json) |
 | Lep's World Plus | 88271 | [88271-leps-world-plus.json](./88271-leps-world-plus.json) |
 | Lep's World Plus - super best platformer games | 90375 | [90375-leps-world-plus-super-best-platformer-games.json](./90375-leps-world-plus-super-best-platformer-games.json) |
 | Lep's World Run | 344899 | [344899-leps-world-run.json](./344899-leps-world-run.json) |
