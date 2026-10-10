@@ -3031,6 +3031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beamdown | 338198 | [338198-beamdown.json](./338198-beamdown.json) |
 | Beaming | 406150 | [406150-beaming.json](./406150-beaming.json) |
 | BeamStruggle | 367616 | [367616-beamstruggle.json](./367616-beamstruggle.json) |
+| Bean | 311237 | [311237-bean.json](./311237-bean.json) |
 | Bean | 370205 | [370205-bean.json](./370205-bean.json) |
 | Bean Battle Brawl | 338199 | [338199-bean-battle-brawl.json](./338199-bean-battle-brawl.json) |
 | Bean Battles | 106556 | [106556-bean-battles.json](./106556-bean-battles.json) |
