@@ -561,6 +561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ic2005 | 256861 | [256861-ic2005.json](./256861-ic2005.json) |
 | Icarace | 125825 | [125825-icarace.json](./125825-icarace.json) |
 | iCarly ipinball | 374219 | [374219-icarly-ipinball.json](./374219-icarly-ipinball.json) |
+| Icarly vs. Bigfoot | 324869 | [324869-icarly-vs-bigfoot.json](./324869-icarly-vs-bigfoot.json) |
 | iCarly: Gibby Pinball | 141486 | [141486-icarly-gibby-pinball.json](./141486-icarly-gibby-pinball.json) |
 | iCarly: Groovy Foodie! | 25187 | [25187-icarly-groovy-foodie.json](./25187-icarly-groovy-foodie.json) |
 | iCarly: iDream in Toons | 210060 | [210060-icarly-idream-in-toons.json](./210060-icarly-idream-in-toons.json) |
@@ -1686,6 +1687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Impresja | 47992 | [47992-impresja.json](./47992-impresja.json) |
 | Impressionista: Water Lilies | 182859 | [182859-impressionista-water-lilies.json](./182859-impressionista-water-lilies.json) |
 | Impressions | 128996 | [128996-impressions.json](./128996-impressions.json) |
+| Imprimatura | 325145 | [325145-imprimatura.json](./325145-imprimatura.json) |
 | Imprint | 397650 | [397650-imprint.json](./397650-imprint.json) |
 | imprint-X | 27307 | [27307-imprint-x.json](./27307-imprint-x.json) |
 | Imprinted | 383141 | [383141-imprinted.json](./383141-imprinted.json) |
