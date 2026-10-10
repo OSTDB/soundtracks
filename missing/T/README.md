@@ -8720,6 +8720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mystery of Blackthorn Castle 2 | 289974 | [289974-the-mystery-of-blackthorn-castle-2.json](./289974-the-mystery-of-blackthorn-castle-2.json) |
 | The Mystery of Devils House | 95236 | [95236-the-mystery-of-devils-house.json](./95236-the-mystery-of-devils-house.json) |
 | The Mystery of Doomsday Valley | 398557 | [398557-the-mystery-of-doomsday-valley.json](./398557-the-mystery-of-doomsday-valley.json) |
+| The Mystery Of Eigengrau | 296798 | [296798-the-mystery-of-eigengrau.json](./296798-the-mystery-of-eigengrau.json) |
 | The Mystery of Eldham | 365548 | [365548-the-mystery-of-eldham.json](./365548-the-mystery-of-eldham.json) |
 | The Mystery of Haunted Hollow | 89746 | [89746-the-mystery-of-haunted-hollow.json](./89746-the-mystery-of-haunted-hollow.json) |
 | The Mystery of Mount Fang | 287311 | [287311-the-mystery-of-mount-fang.json](./287311-the-mystery-of-mount-fang.json) |
@@ -20266,6 +20267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twins & Dreams | 373223 | [373223-twins-and-dreams.json](./373223-twins-and-dreams.json) |
 | Twins Dash | 200028 | [200028-twins-dash.json](./200028-twins-dash.json) |
 | Twins Minigame | 299570 | [299570-twins-minigame.json](./299570-twins-minigame.json) |
+| Twins Mother Simulator Game 3D | 296783 | [296783-twins-mother-simulator-game-3d.json](./296783-twins-mother-simulator-game-3d.json) |
 | Twins of Legacy: Elemental | 316850 | [316850-twins-of-legacy-elemental.json](./316850-twins-of-legacy-elemental.json) |
 | Twins of Olus | 279096 | [279096-twins-of-olus.json](./279096-twins-of-olus.json) |
 | Twins of the Pasture | 43130 | [43130-twins-of-the-pasture.json](./43130-twins-of-the-pasture.json) |
