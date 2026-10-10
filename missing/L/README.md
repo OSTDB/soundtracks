@@ -880,6 +880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Ride | 296368 | [296368-last-ride.json](./296368-last-ride.json) |
 | Last Ride | 377575 | [377575-last-ride.json](./377575-last-ride.json) |
 | Last Ride | 413171 | [413171-last-ride.json](./413171-last-ride.json) |
+| Last Rites | 320471 | [320471-last-rites.json](./320471-last-rites.json) |
 | Last Rites | 71124 | [71124-last-rites.json](./71124-last-rites.json) |
 | Last Rose | 125800 | [125800-last-rose.json](./125800-last-rose.json) |
 | Last Salvo | 76651 | [76651-last-salvo.json](./76651-last-salvo.json) |
