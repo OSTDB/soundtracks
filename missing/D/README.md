@@ -2109,6 +2109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Eye Deputy | 316056 | [316056-dead-eye-deputy.json](./316056-dead-eye-deputy.json) |
 | Dead Eye Jim | 44639 | [44639-dead-eye-jim.json](./44639-dead-eye-jim.json) |
 | Dead Face | 181919 | [181919-dead-face.json](./181919-dead-face.json) |
+| Dead Faces | 285414 | [285414-dead-faces.json](./285414-dead-faces.json) |
 | Dead Fantasia | 393009 | [393009-dead-fantasia.json](./393009-dead-fantasia.json) |
 | Dead Feed | 379566 | [379566-dead-feed.json](./379566-dead-feed.json) |
 | Dead for Dread | 305958 | [305958-dead-for-dread.json](./305958-dead-for-dread.json) |
@@ -3445,6 +3446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deficiency | 278161 | [278161-deficiency.json](./278161-deficiency.json) |
 | Deficit | 179073 | [179073-deficit.json](./179073-deficit.json) |
 | Deficit | 327818 | [327818-deficit.json](./327818-deficit.json) |
+| Defile | 285396 | [285396-defile.json](./285396-defile.json) |
 | Defiled | 213032 | [213032-defiled.json](./213032-defiled.json) |
 | Defina | 237334 | [237334-defina.json](./237334-defina.json) |
 | Define | 336573 | [336573-define.json](./336573-define.json) |
@@ -7548,6 +7550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Open This Book | 336524 | [336524-dont-open-this-book.json](./336524-dont-open-this-book.json) |
 | Don't Panic | 13603 | [13603-dont-panic.json](./13603-dont-panic.json) |
 | Don't Pause Game! | 389988 | [389988-dont-pause-game.json](./389988-dont-pause-game.json) |
+| Don't Pee | 285411 | [285411-dont-pee.json](./285411-dont-pee.json) |
 | Don't Pick Up Stray Aliens | 409002 | [409002-dont-pick-up-stray-aliens.json](./409002-dont-pick-up-stray-aliens.json) |
 | Don't Play This | 390776 | [390776-dont-play-this.json](./390776-dont-play-this.json) |
 | Don't Play With Dolls | 105282 | [105282-dont-play-with-dolls.json](./105282-dont-play-with-dolls.json) |
@@ -11377,6 +11380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Durga: The Lionhearted | 352203 | [352203-durga-the-lionhearted.json](./352203-durga-the-lionhearted.json) |
 | Duriano | 311483 | [311483-duriano.json](./311483-duriano.json) |
 | During Before and After Covid-19 | 150766 | [150766-during-before-and-after-covid-19.json](./150766-during-before-and-after-covid-19.json) |
+| Durium Hospital Lost Tape 95 | 285403 | [285403-durium-hospital-lost-tape-95.json](./285403-durium-hospital-lost-tape-95.json) |
 | Durka Simulator | 236402 | [236402-durka-simulator.json](./236402-durka-simulator.json) |
 | Duru: About Mole Rats and Depression | 138724 | [138724-duru-about-mole-rats-and-depression.json](./138724-duru-about-mole-rats-and-depression.json) |
 | Dūshì Kǒngbù Gùshì | 116312 | [116312-dushi-kongbu-gushi.json](./116312-dushi-kongbu-gushi.json) |
@@ -11660,6 +11664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dynasty Warriors 9: Empires - Idol Stage | 191040 | [191040-dynasty-warriors-9-empires-idol-stage.json](./191040-dynasty-warriors-9-empires-idol-stage.json) |
 | Dynasty Warriors 9: Guo Jia Additional Hypothetical Scenarios Set | 225913 | [225913-dynasty-warriors-9-guo-jia-additional-hypothetical-scenarios-set.json](./225913-dynasty-warriors-9-guo-jia-additional-hypothetical-scenarios-set.json) |
 | Dynasty Warriors 9: Zhou Yu Additional Hypothetical Scenarios Set | 225909 | [225909-dynasty-warriors-9-zhou-yu-additional-hypothetical-scenarios-set.json](./225909-dynasty-warriors-9-zhou-yu-additional-hypothetical-scenarios-set.json) |
+| Dynasty Warriors M | 285381 | [285381-dynasty-warriors-m.json](./285381-dynasty-warriors-m.json) |
 | Dynasty Warriors Online | 72612 | [72612-dynasty-warriors-online.json](./72612-dynasty-warriors-online.json) |
 | Dynasty Warriors Online Z | 257658 | [257658-dynasty-warriors-online-z.json](./257658-dynasty-warriors-online-z.json) |
 | Dynasty Warriors Vol. 2 | 42886 | [42886-dynasty-warriors-vol-2.json](./42886-dynasty-warriors-vol-2.json) |
