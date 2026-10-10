@@ -9793,6 +9793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sol Frontiers | 317033 | [317033-sol-frontiers.json](./317033-sol-frontiers.json) |
 | Sol Galaxy Defender | 82337 | [82337-sol-galaxy-defender.json](./82337-sol-galaxy-defender.json) |
 | Sol Hemochroma | 138153 | [138153-sol-hemochroma.json](./138153-sol-hemochroma.json) |
+| Sol Mates | 324572 | [324572-sol-mates.json](./324572-sol-mates.json) |
 | Sol Mates | 421343 | [421343-sol-mates.json](./421343-sol-mates.json) |
 | Sol Moonarge | 85809 | [85809-sol-moonarge.json](./85809-sol-moonarge.json) |
 | Sol Negro | 78899 | [78899-sol-negro.json](./78899-sol-negro.json) |
@@ -12346,6 +12347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpaceCorn | 35000 | [35000-spacecorn.json](./35000-spacecorn.json) |
 | SpaceCorp: 2025-2300AD | 352297 | [352297-spacecorp-2025-2300ad.json](./352297-spacecorp-2025-2300ad.json) |
 | SpaceCorps XXX | 215180 | [215180-spacecorps-xxx.json](./215180-spacecorps-xxx.json) |
+| SpaceCraft | 324574 | [324574-spacecraft.json](./324574-spacecraft.json) |
 | Spacecraft Tactics | 274038 | [274038-spacecraft-tactics.json](./274038-spacecraft-tactics.json) |
 | Spacecraft War | 109879 | [109879-spacecraft-war.json](./109879-spacecraft-war.json) |
 | SpaceCrash | 171438 | [171438-spacecrash.json](./171438-spacecrash.json) |
@@ -12539,6 +12541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sparrow Solitaire | 209649 | [209649-sparrow-solitaire.json](./209649-sparrow-solitaire.json) |
 | Sparrows | 197795 | [197795-sparrows.json](./197795-sparrows.json) |
 | SparSpecial | 292547 | [292547-sparspecial.json](./292547-sparspecial.json) |
+| Sparta Anthology | 324565 | [324565-sparta-anthology.json](./324565-sparta-anthology.json) |
 | Spartacus Legends | 2326 | [2326-spartacus-legends.json](./2326-spartacus-legends.json) |
 | Spartacus: Blood and Sand | 66648 | [66648-spartacus-blood-and-sand.json](./66648-spartacus-blood-and-sand.json) |
 | Spartaga | 51853 | [51853-spartaga.json](./51853-spartaga.json) |
@@ -15034,6 +15037,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: The Force Unleashed | 399295 | [399295-star-wars-the-force-unleashed.json](./399295-star-wars-the-force-unleashed.json) |
 | Star Wars: The Force Unleashed - Tatooine Mission Pack | 17475 | [17475-star-wars-the-force-unleashed-tatooine-mission-pack.json](./17475-star-wars-the-force-unleashed-tatooine-mission-pack.json) |
 | Star Wars: The Force Unleashed - Ultimate Sith Edition | 19637 | [19637-star-wars-the-force-unleashed-ultimate-sith-edition.json](./19637-star-wars-the-force-unleashed-ultimate-sith-edition.json) |
+| Star Wars: The Force Unleashed II | 324523 | [324523-star-wars-the-force-unleashed-ii.json](./324523-star-wars-the-force-unleashed-ii.json) |
+| Star Wars: The Force Unleashed II | 324524 | [324524-star-wars-the-force-unleashed-ii.json](./324524-star-wars-the-force-unleashed-ii.json) |
 | Star Wars: The Force Unleashed II - Collector's Edition | 47460 | [47460-star-wars-the-force-unleashed-ii-collectors-edition.json](./47460-star-wars-the-force-unleashed-ii-collectors-edition.json) |
 | Star Wars: The Old Republic | 114 | [114-star-wars-the-old-republic.json](./114-star-wars-the-old-republic.json) |
 | Star Wars: The Old Republic - Galactic Starfighter | 22656 | [22656-star-wars-the-old-republic-galactic-starfighter.json](./22656-star-wars-the-old-republic-galactic-starfighter.json) |
@@ -15280,6 +15285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starlight Mario | 225551 | [225551-starlight-mario.json](./225551-starlight-mario.json) |
 | Starlight Mario: Underworld | 222972 | [222972-starlight-mario-underworld.json](./222972-starlight-mario-underworld.json) |
 | Starlight Mining Company | 372998 | [372998-starlight-mining-company.json](./372998-starlight-mining-company.json) |
+| Starlight Re:Volver | 324573 | [324573-starlight-re-volver.json](./324573-starlight-re-volver.json) |
 | StarLight Terminus | 180047 | [180047-starlight-terminus.json](./180047-starlight-terminus.json) |
 | Starlight Vega | 35041 | [35041-starlight-vega.json](./35041-starlight-vega.json) |
 | Starlight X-2: Galactic Puzzles | 163421 | [163421-starlight-x-2-galactic-puzzles.json](./163421-starlight-x-2-galactic-puzzles.json) |
@@ -16296,6 +16302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stick Tennis | 277566 | [277566-stick-tennis.json](./277566-stick-tennis.json) |
 | Stick Tennis Tour | 261513 | [261513-stick-tennis-tour.json](./261513-stick-tennis-tour.json) |
 | Stick to the Plan | 234299 | [234299-stick-to-the-plan.json](./234299-stick-to-the-plan.json) |
+| Stick Tongue | 324346 | [324346-stick-tongue.json](./324346-stick-tongue.json) |
 | Stick Up | 319949 | [319949-stick-up.json](./319949-stick-up.json) |
 | Stick Veterans | 176360 | [176360-stick-veterans.json](./176360-stick-veterans.json) |
 | Stick War | 234161 | [234161-stick-war.json](./234161-stick-war.json) |
@@ -20784,6 +20791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surveillance | 267684 | [267684-surveillance.json](./267684-surveillance.json) |
 | Surveillance Kanshisha | 65021 | [65021-surveillance-kanshisha.json](./65021-surveillance-kanshisha.json) |
 | Surveillance Simulator | 287736 | [287736-surveillance-simulator.json](./287736-surveillance-simulator.json) |
+| Survev.io | 324557 | [324557-survev-io.json](./324557-survev-io.json) |
 | Survial | 274577 | [274577-survial.json](./274577-survial.json) |
 | SurviBall | 339473 | [339473-surviball.json](./339473-surviball.json) |
 | SurviRail: Deep Space | 412193 | [412193-survirail-deep-space.json](./412193-survirail-deep-space.json) |
@@ -21387,8 +21395,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Survival | 392910 | [392910-sweet-survival.json](./392910-sweet-survival.json) |
 | Sweet Survivors: Classy Edition | 378960 | [378960-sweet-survivors-classy-edition.json](./378960-sweet-survivors-classy-edition.json) |
 | Sweet Survivors: Fancy DLC | 324367 | [324367-sweet-survivors-fancy-dlc.json](./324367-sweet-survivors-fancy-dlc.json) |
+| Sweet Survivors: Flashy DLC | 324366 | [324366-sweet-survivors-flashy-dlc.json](./324366-sweet-survivors-flashy-dlc.json) |
 | Sweet Survivors: Funky Edition | 351240 | [351240-sweet-survivors-funky-edition.json](./351240-sweet-survivors-funky-edition.json) |
 | Sweet Survivors: Gold Edition | 385210 | [385210-sweet-survivors-gold-edition.json](./385210-sweet-survivors-gold-edition.json) |
+| Sweet Survivors: Spooky DLC | 324365 | [324365-sweet-survivors-spooky-dlc.json](./324365-sweet-survivors-spooky-dlc.json) |
 | Sweet Tank | 392922 | [392922-sweet-tank.json](./392922-sweet-tank.json) |
 | Sweet Tavern | 339435 | [339435-sweet-tavern.json](./339435-sweet-tavern.json) |
 | Sweet Tea Tycoon | 410305 | [410305-sweet-tea-tycoon.json](./410305-sweet-tea-tycoon.json) |
