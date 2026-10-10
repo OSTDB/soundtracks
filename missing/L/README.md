@@ -4157,6 +4157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lock Her Up: The Trump Supremacy | 81815 | [81815-lock-her-up-the-trump-supremacy.json](./81815-lock-her-up-the-trump-supremacy.json) |
 | Lock In: Final Cut | 202754 | [202754-lock-in-final-cut.json](./202754-lock-in-final-cut.json) |
 | Lock Lock: Farm | 168628 | [168628-lock-lock-farm.json](./168628-lock-lock-farm.json) |
+| Lock n Drop Bracket Racing | 289786 | [289786-lock-n-drop-bracket-racing.json](./289786-lock-n-drop-bracket-racing.json) |
 | Lock N' Load | 94929 | [94929-lock-n-load.json](./94929-lock-n-load.json) |
 | Lock On | 335708 | [335708-lock-on.json](./335708-lock-on.json) |
 | Lock on: Flaming Cliffs 3 | 63815 | [63815-lock-on-flaming-cliffs-3.json](./63815-lock-on-flaming-cliffs-3.json) |
