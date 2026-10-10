@@ -5274,6 +5274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dream Machine: Chapter 5 | 168830 | [168830-the-dream-machine-chapter-5.json](./168830-the-dream-machine-chapter-5.json) |
 | The Dream Machine: Chapter 6 | 168833 | [168833-the-dream-machine-chapter-6.json](./168833-the-dream-machine-chapter-6.json) |
 | The Dream Machine: The Definitive Edition | 400858 | [400858-the-dream-machine-the-definitive-edition.json](./400858-the-dream-machine-the-definitive-edition.json) |
+| The Dream Observatory | 318148 | [318148-the-dream-observatory.json](./318148-the-dream-observatory.json) |
 | The Dream of the Limbo | 298601 | [298601-the-dream-of-the-limbo.json](./298601-the-dream-of-the-limbo.json) |
 | The Dream Team | 196872 | [196872-the-dream-team.json](./196872-the-dream-team.json) |
 | The Dream Where Even Though You’ve Been Done With School for Years You Have to Go Back to School Because of a Class You Forgot About | 239211 | [239211-the-dream-where-even-though-you-ve-been-done-with-school-for-years-you-have-to-go-back-to-school-because-of-a-class-you-forgot-about.json](./239211-the-dream-where-even-though-you-ve-been-done-with-school-for-years-you-have-to-go-back-to-school-because-of-a-class-you-forgot-about.json) |
@@ -6186,6 +6187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Girl Walks Back | 393542 | [393542-the-girl-walks-back.json](./393542-the-girl-walks-back.json) |
 | The Girl Who Kicked a Rabbit | 253302 | [253302-the-girl-who-kicked-a-rabbit.json](./253302-the-girl-who-kicked-a-rabbit.json) |
 | The Girl Who Sees | 149576 | [149576-the-girl-who-sees.json](./149576-the-girl-who-sees.json) |
+| The Girl Who Wasn't There | 318130 | [318130-the-girl-who-wasnt-there.json](./318130-the-girl-who-wasnt-there.json) |
 | The Girl With The Bow | 354515 | [354515-the-girl-with-the-bow.json](./354515-the-girl-with-the-bow.json) |
 | The Girl's Moving Castle | 291759 | [291759-the-girls-moving-castle.json](./291759-the-girls-moving-castle.json) |
 | The Girlfriend From My Novel | 211727 | [211727-the-girlfriend-from-my-novel.json](./211727-the-girlfriend-from-my-novel.json) |
@@ -14018,6 +14020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Break 2121 | 121464 | [121464-time-break-2121.json](./121464-time-break-2121.json) |
 | Time Breaking: Dino Breach | 386427 | [386427-time-breaking-dino-breach.json](./386427-time-breaking-dino-breach.json) |
 | Time Carnage | 30587 | [30587-time-carnage.json](./30587-time-carnage.json) |
+| Time Chess | 318120 | [318120-time-chess.json](./318120-time-chess.json) |
 | Time Climber | 276726 | [276726-time-climber.json](./276726-time-climber.json) |
 | Time Commando | 9646 | [9646-time-commando.json](./9646-time-commando.json) |
 | Time Crisis | 389440 | [389440-time-crisis.json](./389440-time-crisis.json) |
@@ -17304,6 +17307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Sim World 5: Hauptstrecke Rhein-Ruhr: Duisburg - Bochum Route Add-On | 359949 | [359949-train-sim-world-5-hauptstrecke-rhein-ruhr-duisburg-bochum-route-add-on.json](./359949-train-sim-world-5-hauptstrecke-rhein-ruhr-duisburg-bochum-route-add-on.json) |
 | Train Sim World 5: Horseshoe Curve: Altoona - Johnstown & South Fork Route Add-On | 359970 | [359970-train-sim-world-5-horseshoe-curve-altoona-johnstown-and-south-fork-route-add-on.json](./359970-train-sim-world-5-horseshoe-curve-altoona-johnstown-and-south-fork-route-add-on.json) |
 | Train Sim World 5: Isle Of Wight: Ryde - Shanklin Route Add-On | 359945 | [359945-train-sim-world-5-isle-of-wight-ryde-shanklin-route-add-on.json](./359945-train-sim-world-5-isle-of-wight-ryde-shanklin-route-add-on.json) |
+| Train Sim World 5: LGV Mediterranee - Marseille: Avignon Route | 318160 | [318160-train-sim-world-5-lgv-mediterranee-marseille-avignon-route.json](./318160-train-sim-world-5-lgv-mediterranee-marseille-avignon-route.json) |
 | Train Sim World 5: LIRR Commuter: New York - Long Beach, Hempstead & Hicksville Route Add-On | 359946 | [359946-train-sim-world-5-lirr-commuter-new-york-long-beach-hempstead-and-hicksville-route-add-on.json](./359946-train-sim-world-5-lirr-commuter-new-york-long-beach-hempstead-and-hicksville-route-add-on.json) |
 | Train Sim World 5: London Overground Suffragette line - Gospel Oak - Barking Riverside | 332093 | [332093-train-sim-world-5-london-overground-suffragette-line-gospel-oak-barking-riverside.json](./332093-train-sim-world-5-london-overground-suffragette-line-gospel-oak-barking-riverside.json) |
 | Train Sim World 5: Main-Spessart Bahn: Aschaffenburg - Gemunden Route Add-On | 359499 | [359499-train-sim-world-5-main-spessart-bahn-aschaffenburg-gemunden-route-add-on.json](./359499-train-sim-world-5-main-spessart-bahn-aschaffenburg-gemunden-route-add-on.json) |
