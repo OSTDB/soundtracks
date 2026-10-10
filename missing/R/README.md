@@ -2821,6 +2821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rehtona | 113857 | [113857-rehtona.json](./113857-rehtona.json) |
 | Rei and the Floating City | 390181 | [390181-rei-and-the-floating-city.json](./390181-rei-and-the-floating-city.json) |
 | Rei Fighter Gekitsui Senki | 4085 | [4085-rei-fighter-gekitsui-senki.json](./4085-rei-fighter-gekitsui-senki.json) |
+| Rei: A Girl With Wings | 291393 | [291393-rei-a-girl-with-wings.json](./291393-rei-a-girl-with-wings.json) |
 | Reigen Doushi | 215135 | [215135-reigen-doushi.json](./215135-reigen-doushi.json) |
 | Reigen Doushi: Kyonshii Horror Daisensou | 385786 | [385786-reigen-doushi-kyonshii-horror-daisensou.json](./385786-reigen-doushi-kyonshii-horror-daisensou.json) |
 | Reign and Ruin | 211662 | [211662-reign-and-ruin.json](./211662-reign-and-ruin.json) |
