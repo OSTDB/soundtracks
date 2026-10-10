@@ -1275,6 +1275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Banished Monsters | 248676 | [248676-banished-monsters.json](./248676-banished-monsters.json) |
 | Banished Sir | 369632 | [369632-banished-sir.json](./369632-banished-sir.json) |
 | Banished Souls | 365309 | [365309-banished-souls.json](./365309-banished-souls.json) |
+| Banished Stone | 290859 | [290859-banished-stone.json](./290859-banished-stone.json) |
 | Banisher | 346243 | [346243-banisher.json](./346243-banisher.json) |
 | Banishers: Ghosts of New Eden | 228539 | [228539-banishers-ghosts-of-new-eden.json](./228539-banishers-ghosts-of-new-eden.json) |
 | Banishers: Ghosts of New Eden - Wanderer Set DLC | 312879 | [312879-banishers-ghosts-of-new-eden-wanderer-set-dlc.json](./312879-banishers-ghosts-of-new-eden-wanderer-set-dlc.json) |
@@ -7876,6 +7877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boo: The World's Cutest Dog Game | 57909 | [57909-boo-the-worlds-cutest-dog-game.json](./57909-boo-the-worlds-cutest-dog-game.json) |
 | Boo! Are you scared? | 329128 | [329128-boo-are-you-scared.json](./329128-boo-are-you-scared.json) |
 | Boo! Are you scared? The Chests Game | 328964 | [328964-boo-are-you-scared-the-chests-game.json](./328964-boo-are-you-scared-the-chests-game.json) |
+| Boo's Burgers | 290829 | [290829-boos-burgers.json](./290829-boos-burgers.json) |
 | Boo's There? | 280317 | [280317-boos-there.json](./280317-boos-there.json) |
 | Boo's Treat | 318551 | [318551-boos-treat.json](./318551-boos-treat.json) |
 | Booble Hentai | 149432 | [149432-booble-hentai.json](./149432-booble-hentai.json) |
@@ -9340,6 +9342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brew & Brawl: Gnomes vs. Dwarves | 140530 | [140530-brew-and-brawl-gnomes-vs-dwarves.json](./140530-brew-and-brawl-gnomes-vs-dwarves.json) |
 | Brew & Dash | 381282 | [381282-brew-and-dash.json](./381282-brew-and-dash.json) |
 | Brew & Defend | 412495 | [412495-brew-and-defend.json](./412495-brew-and-defend.json) |
+| Brew Besties | 290877 | [290877-brew-besties.json](./290877-brew-besties.json) |
 | Brew Town | 96583 | [96583-brew-town.json](./96583-brew-town.json) |
 | Brew-Ha | 89386 | [89386-brew-ha.json](./89386-brew-ha.json) |
 | Brewconomy | 372656 | [372656-brewconomy.json](./372656-brewconomy.json) |
