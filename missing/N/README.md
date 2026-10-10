@@ -836,6 +836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NBA Jam 2001 | 49903 | [49903-nba-jam-2001.json](./49903-nba-jam-2001.json) |
 | NBA Jam Extreme | 40205 | [40205-nba-jam-extreme.json](./40205-nba-jam-extreme.json) |
 | NBA Jam Tournament Edition | 19712 | [19712-nba-jam-tournament-edition.json](./19712-nba-jam-tournament-edition.json) |
+| NBA Jam: 1990's On Fire Edition | 318696 | [318696-nba-jam-1990s-on-fire-edition.json](./318696-nba-jam-1990s-on-fire-edition.json) |
 | NBA Jam: Legends On Fire Edition | 242257 | [242257-nba-jam-legends-on-fire-edition.json](./242257-nba-jam-legends-on-fire-edition.json) |
 | NBA Jam: On Fire Edition | 21076 | [21076-nba-jam-on-fire-edition.json](./21076-nba-jam-on-fire-edition.json) |
 | NBA Live 06 | 4034 | [4034-nba-live-06.json](./4034-nba-live-06.json) |
@@ -3040,6 +3041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nine Skies | 390650 | [390650-nine-skies.json](./390650-nine-skies.json) |
 | Nine Spaces | 406182 | [406182-nine-spaces.json](./406182-nine-spaces.json) |
 | Nine to Five | 127353 | [127353-nine-to-five.json](./127353-nine-to-five.json) |
+| Nine To Five (am) | 318701 | [318701-nine-to-five-am.json](./318701-nine-to-five-am.json) |
 | Nine Trials | 223989 | [223989-nine-trials.json](./223989-nine-trials.json) |
 | Nine Witches: Family Disruption | 112201 | [112201-nine-witches-family-disruption.json](./112201-nine-witches-family-disruption.json) |
 | Nine Worlds | 150659 | [150659-nine-worlds.json](./150659-nine-worlds.json) |
@@ -3361,6 +3363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nintendogs: Chihuahua & Friends | 47707 | [47707-nintendogs-chihuahua-and-friends.json](./47707-nintendogs-chihuahua-and-friends.json) |
 | Nintendogs: Dalmatian & Friends | 23817 | [23817-nintendogs-dalmatian-and-friends.json](./23817-nintendogs-dalmatian-and-friends.json) |
 | Nintendogs: Labrador & Friends | 47944 | [47944-nintendogs-labrador-and-friends.json](./47944-nintendogs-labrador-and-friends.json) |
+| Ninth Day Memorial | 318721 | [318721-ninth-day-memorial.json](./318721-ninth-day-memorial.json) |
 | Ninza | 209419 | [209419-ninza.json](./209419-ninza.json) |
 | Nioh 2 | 103330 | [103330-nioh-2.json](./103330-nioh-2.json) |
 | Nioh 2 Remastered: The Complete Edition | 143350 | [143350-nioh-2-remastered-the-complete-edition.json](./143350-nioh-2-remastered-the-complete-edition.json) |
