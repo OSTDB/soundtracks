@@ -4795,6 +4795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sheep N Sheep: Match 3 Tiles | 223916 | [223916-sheep-n-sheep-match-3-tiles.json](./223916-sheep-n-sheep-match-3-tiles.json) |
 | Sheep Quest | 340379 | [340379-sheep-quest.json](./340379-sheep-quest.json) |
 | Sheep Sheep Wolf | 112246 | [112246-sheep-sheep-wolf.json](./112246-sheep-sheep-wolf.json) |
+| Sheep Sweep | 302182 | [302182-sheep-sweep.json](./302182-sheep-sweep.json) |
 | Sheep Up! | 120247 | [120247-sheep-up.json](./120247-sheep-up.json) |
 | Sheep's Symphony | 294455 | [294455-sheeps-symphony.json](./294455-sheeps-symphony.json) |
 | Sheepageddon | 108429 | [108429-sheepageddon.json](./108429-sheepageddon.json) |
@@ -11951,6 +11952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Filler | 338013 | [338013-space-filler.json](./338013-space-filler.json) |
 | Space Firebird | 22432 | [22432-space-firebird.json](./22432-space-firebird.json) |
 | Space Fishermen | 64948 | [64948-space-fishermen.json](./64948-space-fishermen.json) |
+| Space Fishing | 302180 | [302180-space-fishing.json](./302180-space-fishing.json) |
 | Space Fist | 29681 | [29681-space-fist.json](./29681-space-fist.json) |
 | Space Flex | 147399 | [147399-space-flex.json](./147399-space-flex.json) |
 | Space Flight - VR Showcase | 103432 | [103432-space-flight-vr-showcase.json](./103432-space-flight-vr-showcase.json) |
@@ -12134,6 +12136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space man adventure dash | 99662 | [99662-space-man-adventure-dash.json](./99662-space-man-adventure-dash.json) |
 | Space Mantlet | 365148 | [365148-space-mantlet.json](./365148-space-mantlet.json) |
 | Space Marauder | 49968 | [49968-space-marauder.json](./49968-space-marauder.json) |
+| Space Marine VR - Defenders of Avarax | 302167 | [302167-space-marine-vr-defenders-of-avarax.json](./302167-space-marine-vr-defenders-of-avarax.json) |
 | Space Marines | 94926 | [94926-space-marines.json](./94926-space-marines.json) |
 | Space Marshals | 46747 | [46747-space-marshals.json](./46747-space-marshals.json) |
 | Space Marshals 2 | 38944 | [38944-space-marshals-2.json](./38944-space-marshals-2.json) |
@@ -13589,6 +13592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirits of Mystery: The Dark Minotaur | 62824 | [62824-spirits-of-mystery-the-dark-minotaur.json](./62824-spirits-of-mystery-the-dark-minotaur.json) |
 | Spirits of Mystery: The Moon Crystal | 187959 | [187959-spirits-of-mystery-the-moon-crystal.json](./187959-spirits-of-mystery-the-moon-crystal.json) |
 | Spirits of Mystery: The Silver Arrow - Collector's Edition | 93806 | [93806-spirits-of-mystery-the-silver-arrow-collectors-edition.json](./93806-spirits-of-mystery-the-silver-arrow-collectors-edition.json) |
+| Spirits of Mystery: Whisper of the Past | 302172 | [302172-spirits-of-mystery-whisper-of-the-past.json](./302172-spirits-of-mystery-whisper-of-the-past.json) |
 | Spirits of the Silicium Forest | 237049 | [237049-spirits-of-the-silicium-forest.json](./237049-spirits-of-the-silicium-forest.json) |
 | Spirits of Xanadu | 17601 | [17601-spirits-of-xanadu.json](./17601-spirits-of-xanadu.json) |
 | Spirits of Yendor | 216879 | [216879-spirits-of-yendor.json](./216879-spirits-of-yendor.json) |
@@ -18482,6 +18486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summon, then build an invincible harem | 216870 | [216870-summon-then-build-an-invincible-harem.json](./216870-summon-then-build-an-invincible-harem.json) |
 | Summona Realm: The Secret Flame | 382366 | [382366-summona-realm-the-secret-flame.json](./382366-summona-realm-the-secret-flame.json) |
 | Summoned by a Magic Goddess | 206152 | [206152-summoned-by-a-magic-goddess.json](./206152-summoned-by-a-magic-goddess.json) |
+| Summoned By Accident | 302181 | [302181-summoned-by-accident.json](./302181-summoned-by-accident.json) |
 | Summoneer | 285556 | [285556-summoneer.json](./285556-summoneer.json) |
 | Summoner Apprentice | 158572 | [158572-summoner-apprentice.json](./158572-summoner-apprentice.json) |
 | Summoner Rises | 308904 | [308904-summoner-rises.json](./308904-summoner-rises.json) |
@@ -19857,6 +19862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mega Baseball 4: Castillo Arena Stadium | 266742 | [266742-super-mega-baseball-4-castillo-arena-stadium.json](./266742-super-mega-baseball-4-castillo-arena-stadium.json) |
 | Super Mega Bob | 34676 | [34676-super-mega-bob.json](./34676-super-mega-bob.json) |
 | Super Mega Bread | 185485 | [185485-super-mega-bread.json](./185485-super-mega-bread.json) |
+| Super Mega Drive 3: 10 Super Jogos | 302165 | [302165-super-mega-drive-3-10-super-jogos.json](./302165-super-mega-drive-3-10-super-jogos.json) |
 | Super Mega Drive 3: 12 Super Jogos | 287345 | [287345-super-mega-drive-3-12-super-jogos.json](./287345-super-mega-drive-3-12-super-jogos.json) |
 | Super Mega Drive 3: 30 Super Jogos | 287346 | [287346-super-mega-drive-3-30-super-jogos.json](./287346-super-mega-drive-3-30-super-jogos.json) |
 | Super Mega Extreme Cyber Ortek Flier 2005 X | 62552 | [62552-super-mega-extreme-cyber-ortek-flier-2005-x.json](./62552-super-mega-extreme-cyber-ortek-flier-2005-x.json) |
