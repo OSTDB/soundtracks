@@ -122,6 +122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Babo Violent 2 | 72760 | [72760-babo-violent-2.json](./72760-babo-violent-2.json) |
 | Baboon! | 42894 | [42894-baboon.json](./42894-baboon.json) |
 | Babs' Potion Shop | 238449 | [238449-babs-potion-shop.json](./238449-babs-potion-shop.json) |
+| Babsi Bullet | 297335 | [297335-babsi-bullet.json](./297335-babsi-bullet.json) |
 | BabushCats | 297778 | [297778-babushcats.json](./297778-babushcats.json) |
 | Babushka: Old Lady’s Payback | 389642 | [389642-babushka-old-lady-s-payback.json](./389642-babushka-old-lady-s-payback.json) |
 | Baby Arms | 246432 | [246432-baby-arms.json](./246432-baby-arms.json) |
@@ -3214,6 +3215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat Hazard 3 | 199447 | [199447-beat-hazard-3.json](./199447-beat-hazard-3.json) |
 | Beat Hazard Arcade | 368084 | [368084-beat-hazard-arcade.json](./368084-beat-hazard-arcade.json) |
 | Beat Hopper | 96049 | [96049-beat-hopper.json](./96049-beat-hopper.json) |
+| Beat in Zero | 297343 | [297343-beat-in-zero.json](./297343-beat-in-zero.json) |
 | Beat It! | 66758 | [66758-beat-it.json](./66758-beat-it.json) |
 | Beat It!: Christmas Edition | 68649 | [68649-beat-it-christmas-edition.json](./68649-beat-it-christmas-edition.json) |
 | Beat Me! Puppetonia Tournament | 156515 | [156515-beat-me-puppetonia-tournament.json](./156515-beat-me-puppetonia-tournament.json) |
@@ -4176,6 +4178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beware | 102780 | [102780-beware.json](./102780-beware.json) |
 | Beware of Dog | 378883 | [378883-beware-of-dog.json](./378883-beware-of-dog.json) |
 | Beware of Falling Angels | 262982 | [262982-beware-of-falling-angels.json](./262982-beware-of-falling-angels.json) |
+| Beware of Light | 297355 | [297355-beware-of-light.json](./297355-beware-of-light.json) |
 | Beware of Space Dragons | 348423 | [348423-beware-of-space-dragons.json](./348423-beware-of-space-dragons.json) |
 | Beware of the Blob | 137652 | [137652-beware-of-the-blob.json](./137652-beware-of-the-blob.json) |
 | Beware of Trains | 105583 | [105583-beware-of-trains.json](./105583-beware-of-trains.json) |
@@ -9963,6 +9966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Labs VR | 31324 | [31324-bubble-labs-vr.json](./31324-bubble-labs-vr.json) |
 | Bubble Lead | 359371 | [359371-bubble-lead.json](./359371-bubble-lead.json) |
 | Bubble Mags | 90388 | [90388-bubble-mags.json](./90388-bubble-mags.json) |
+| Bubble Milf | 297360 | [297360-bubble-milf.json](./297360-bubble-milf.json) |
 | Bubble Mix 3 in 1 Plus | 90685 | [90685-bubble-mix-3-in-1-plus.json](./90685-bubble-mix-3-in-1-plus.json) |
 | Bubble People | 173265 | [173265-bubble-people.json](./173265-bubble-people.json) |
 | Bubble Piles | 241615 | [241615-bubble-piles.json](./241615-bubble-piles.json) |
@@ -10186,6 +10190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buggy | 356042 | [356042-buggy.json](./356042-buggy.json) |
 | Buggy Boogie | 66677 | [66677-buggy-boogie.json](./66677-buggy-boogie.json) |
 | Buggy Boy | 12728 | [12728-buggy-boy.json](./12728-buggy-boy.json) |
+| Buggy Derby Arena | 297324 | [297324-buggy-derby-arena.json](./297324-buggy-derby-arena.json) |
 | Buggy Game | 192890 | [192890-buggy-game.json](./192890-buggy-game.json) |
 | Buggy Off-Road Racing | 289375 | [289375-buggy-off-road-racing.json](./289375-buggy-off-road-racing.json) |
 | Buggy Off-Road Racing: Deluxe Edition | 308799 | [308799-buggy-off-road-racing-deluxe-edition.json](./308799-buggy-off-road-racing-deluxe-edition.json) |
