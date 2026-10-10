@@ -271,6 +271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NanoApostle | 279485 | [279485-nanoapostle.json](./279485-nanoapostle.json) |
 | Nanobots | 281389 | [281389-nanobots.json](./281389-nanobots.json) |
 | Nanobots | 33325 | [33325-nanobots.json](./33325-nanobots.json) |
+| NaNoCollabMo: Autumn Harvest | 281315 | [281315-nanocollabmo-autumn-harvest.json](./281315-nanocollabmo-autumn-harvest.json) |
 | Nanocorp | 173281 | [173281-nanocorp.json](./173281-nanocorp.json) |
 | NanoDeath | 305939 | [305939-nanodeath.json](./305939-nanodeath.json) |
 | Nanofights | 36109 | [36109-nanofights.json](./36109-nanofights.json) |
@@ -2110,6 +2111,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Tab | 184587 | [184587-new-tab.json](./184587-new-tab.json) |
 | New Terra | 189077 | [189077-new-terra.json](./189077-new-terra.json) |
 | New Town Needs Tamer | 216989 | [216989-new-town-needs-tamer.json](./216989-new-town-needs-tamer.json) |
+| New Vegas Bounties I | 281362 | [281362-new-vegas-bounties-i.json](./281362-new-vegas-bounties-i.json) |
+| New Vegas Bounties II | 281363 | [281363-new-vegas-bounties-ii.json](./281363-new-vegas-bounties-ii.json) |
 | New Vegas Bounties III | 281369 | [281369-new-vegas-bounties-iii.json](./281369-new-vegas-bounties-iii.json) |
 | New Vegas Games | 72077 | [72077-new-vegas-games.json](./72077-new-vegas-games.json) |
 | New Vegas Killer | 281367 | [281367-new-vegas-killer.json](./281367-new-vegas-killer.json) |
@@ -3979,6 +3982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noise Snke | 183538 | [183538-noise-snke.json](./183538-noise-snke.json) |
 | Noise1 | 134525 | [134525-noise1.json](./134525-noise1.json) |
 | Noisetube | 117481 | [117481-noisetube.json](./117481-noisetube.json) |
+| NoisyDiarrhea | 281355 | [281355-noisydiarrhea.json](./281355-noisydiarrhea.json) |
 | Noisz Re: Collection G | 270796 | [270796-noisz-re-collection-g.json](./270796-noisz-re-collection-g.json) |
 | Noisz Starlivht: True Heroes | 316706 | [316706-noisz-starlivht-true-heroes.json](./316706-noisz-starlivht-true-heroes.json) |
 | Noisz: DM Ashura Level Pack | 317032 | [317032-noisz-dm-ashura-level-pack.json](./317032-noisz-dm-ashura-level-pack.json) |
