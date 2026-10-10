@@ -1884,6 +1884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SchoolBoy Horror | 395667 | [395667-schoolboy-horror.json](./395667-schoolboy-horror.json) |
 | SchoolBoy Simulator | 335077 | [335077-schoolboy-simulator.json](./335077-schoolboy-simulator.json) |
 | Schoolgirl Card Pull Simulator | 394559 | [394559-schoolgirl-card-pull-simulator.json](./394559-schoolgirl-card-pull-simulator.json) |
+| Schoolgirl Supervisor: Saori Sato | 322266 | [322266-schoolgirl-supervisor-saori-sato.json](./322266-schoolgirl-supervisor-saori-sato.json) |
 | Schoolgirl Tournament Fighting | 60086 | [60086-schoolgirl-tournament-fighting.json](./60086-schoolgirl-tournament-fighting.json) |
 | Schoolhouse Rock!: America Rock | 113469 | [113469-schoolhouse-rock-america-rock.json](./113469-schoolhouse-rock-america-rock.json) |
 | Schoolhouse Rock!: Math Rock | 142707 | [142707-schoolhouse-rock-math-rock.json](./142707-schoolhouse-rock-math-rock.json) |
@@ -20253,6 +20254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Street Fighter II Turbo: Revival | 45195 | [45195-super-street-fighter-ii-turbo-revival.json](./45195-super-street-fighter-ii-turbo-revival.json) |
 | Super Street Fighter II: The New Challengers | 198933 | [198933-super-street-fighter-ii-the-new-challengers.json](./198933-super-street-fighter-ii-the-new-challengers.json) |
 | Super Street Fighter II: The New Challengers | 322210 | [322210-super-street-fighter-ii-the-new-challengers.json](./322210-super-street-fighter-ii-the-new-challengers.json) |
+| Super Street Fighter II: The New Challengers | 322235 | [322235-super-street-fighter-ii-the-new-challengers.json](./322235-super-street-fighter-ii-the-new-challengers.json) |
 | Super Street Fighter II: The New Challengers - Tiger Barcodzz | 198934 | [198934-super-street-fighter-ii-the-new-challengers-tiger-barcodzz.json](./198934-super-street-fighter-ii-the-new-challengers-tiger-barcodzz.json) |
 | Super Street Fighter II: The Tournament Battle | 80848 | [80848-super-street-fighter-ii-the-tournament-battle.json](./80848-super-street-fighter-ii-the-tournament-battle.json) |
 | Super Street Fighter IV: 3D Edition | 6895 | [6895-super-street-fighter-iv-3d-edition.json](./6895-super-street-fighter-iv-3d-edition.json) |
