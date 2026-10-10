@@ -661,6 +661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EcoMahjong | 247652 | [247652-ecomahjong.json](./247652-ecomahjong.json) |
 | ECON | 112470 | [112470-econ.json](./112470-econ.json) |
 | Econia: Crypto Idle Tycoon! | 232376 | [232376-econia-crypto-idle-tycoon.json](./232376-econia-crypto-idle-tycoon.json) |
+| Economia: Millennium | 284834 | [284834-economia-millennium.json](./284834-economia-millennium.json) |
 | Economic War | 202701 | [202701-economic-war.json](./202701-economic-war.json) |
 | Economy Bundle | 193740 | [193740-economy-bundle.json](./193740-economy-bundle.json) |
 | Ecoplanet | 217224 | [217224-ecoplanet.json](./217224-ecoplanet.json) |
