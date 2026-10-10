@@ -1881,6 +1881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neverball | 51247 | [51247-neverball.json](./51247-neverball.json) |
 | Neverbound | 413798 | [413798-neverbound.json](./413798-neverbound.json) |
 | NeverBound | 90248 | [90248-neverbound.json](./90248-neverbound.json) |
+| Neverdaunt:8Bit | 301100 | [301100-neverdaunt-8bit.json](./301100-neverdaunt-8bit.json) |
 | NeverDead | 3215 | [3215-neverdead.json](./3215-neverdead.json) |
 | NeverDeath | 166701 | [166701-neverdeath.json](./166701-neverdeath.json) |
 | NeverEnd | 29873 | [29873-neverend.json](./29873-neverend.json) |
