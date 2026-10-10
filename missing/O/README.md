@@ -3084,6 +3084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outbreak: Cold Comfort Collection | 311050 | [311050-outbreak-cold-comfort-collection.json](./311050-outbreak-cold-comfort-collection.json) |
 | Outbreak: Contagious Memories | 194663 | [194663-outbreak-contagious-memories.json](./194663-outbreak-contagious-memories.json) |
 | Outbreak: Dark Dimensions Collection | 308579 | [308579-outbreak-dark-dimensions-collection.json](./308579-outbreak-dark-dimensions-collection.json) |
+| Outbreak: Detective Collection | 313439 | [313439-outbreak-detective-collection.json](./313439-outbreak-detective-collection.json) |
 | Outbreak: Devious Beginnings | 261359 | [261359-outbreak-devious-beginnings.json](./261359-outbreak-devious-beginnings.json) |
 | Outbreak: Endless Nightmares - Restless Dreams | 261363 | [261363-outbreak-endless-nightmares-restless-dreams.json](./261363-outbreak-endless-nightmares-restless-dreams.json) |
 | Outbreak: Epidemic | 119532 | [119532-outbreak-epidemic.json](./119532-outbreak-epidemic.json) |
