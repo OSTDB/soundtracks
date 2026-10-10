@@ -1721,6 +1721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We Are Live | 157034 | [157034-we-are-live.json](./157034-we-are-live.json) |
 | We Are Live Momora! | 402461 | [402461-we-are-live-momora.json](./402461-we-are-live-momora.json) |
 | We are Monsters | 299406 | [299406-we-are-monsters.json](./299406-we-are-monsters.json) |
+| We Are Not Alone: Contact | 312866 | [312866-we-are-not-alone-contact.json](./312866-we-are-not-alone-contact.json) |
 | We Are OFK | 152177 | [152177-we-are-ofk.json](./152177-we-are-ofk.json) |
 | We Are Out of Food, Milton. | 250323 | [250323-we-are-out-of-food-milton.json](./250323-we-are-out-of-food-milton.json) |
 | We Are Prophet | 400864 | [400864-we-are-prophet.json](./400864-we-are-prophet.json) |
@@ -4152,6 +4153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizard's Terror | 176253 | [176253-wizards-terror.json](./176253-wizards-terror.json) |
 | Wizard's Warp | 332398 | [332398-wizards-warp.json](./332398-wizards-warp.json) |
 | Wizard's Words | 105966 | [105966-wizards-words.json](./105966-wizards-words.json) |
+| Wizard's Wrath Legends | 312828 | [312828-wizards-wrath-legends.json](./312828-wizards-wrath-legends.json) |
 | Wizard101 | 47101 | [47101-wizard101.json](./47101-wizard101.json) |
 | Wizardas | 117648 | [117648-wizardas.json](./117648-wizardas.json) |
 | WizardCraft | 33264 | [33264-wizardcraft.json](./33264-wizardcraft.json) |
