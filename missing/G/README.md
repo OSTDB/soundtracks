@@ -1458,6 +1458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gearbits: Raider Expedition | 311094 | [311094-gearbits-raider-expedition.json](./311094-gearbits-raider-expedition.json) |
 | Geared 2! | 92145 | [92145-geared-2.json](./92145-geared-2.json) |
 | Gearend | 29963 | [29963-gearend.json](./29963-gearend.json) |
+| GearGrit | 292410 | [292410-geargrit.json](./292410-geargrit.json) |
 | Gearguns: Tank Offensive | 31375 | [31375-gearguns-tank-offensive.json](./31375-gearguns-tank-offensive.json) |
 | GearHead: Arena | 181230 | [181230-gearhead-arena.json](./181230-gearhead-arena.json) |
 | Gearlock: Episode 1 | 381719 | [381719-gearlock-episode-1.json](./381719-gearlock-episode-1.json) |
@@ -4270,6 +4271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gooncrusher | 302113 | [302113-gooncrusher.json](./302113-gooncrusher.json) |
 | Goonect | 207212 | [207212-goonect.json](./207212-goonect.json) |
 | Goonect 2 | 400382 | [400382-goonect-2.json](./400382-goonect-2.json) |
+| Gooner on the Orient Express | 292450 | [292450-gooner-on-the-orient-express.json](./292450-gooner-on-the-orient-express.json) |
 | Goons: Legends & Mayhem | 138643 | [138643-goons-legends-and-mayhem.json](./138643-goons-legends-and-mayhem.json) |
 | Goontang Chackalaka | 322674 | [322674-goontang-chackalaka.json](./322674-goontang-chackalaka.json) |
 | Goony | 85632 | [85632-goony.json](./85632-goony.json) |
@@ -4386,6 +4388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gorytale | 111798 | [111798-gorytale.json](./111798-gorytale.json) |
 | Goryuujin Electro | 384780 | [384780-goryuujin-electro.json](./384780-goryuujin-electro.json) |
 | GOS: Gain Of Squad | 295854 | [295854-gos-gain-of-squad.json](./295854-gos-gain-of-squad.json) |
+| Gosdooma | 292427 | [292427-gosdooma.json](./292427-gosdooma.json) |
 | Gosen-sou | 221413 | [221413-gosen-sou.json](./221413-gosen-sou.json) |
 | Gosick Rogue | 341909 | [341909-gosick-rogue.json](./341909-gosick-rogue.json) |
 | Gospel of Eve | 225268 | [225268-gospel-of-eve.json](./225268-gospel-of-eve.json) |
