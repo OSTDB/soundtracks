@@ -4984,6 +4984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of JumpStart | 254465 | [254465-world-of-jumpstart.json](./254465-world-of-jumpstart.json) |
 | World of Leaders | 36140 | [36140-world-of-leaders.json](./36140-world-of-leaders.json) |
 | World of Legends | 115461 | [115461-world-of-legends.json](./115461-world-of-legends.json) |
+| World of Magicka Bundle | 327246 | [327246-world-of-magicka-bundle.json](./327246-world-of-magicka-bundle.json) |
 | World of Mana | 239710 | [239710-world-of-mana.json](./239710-world-of-mana.json) |
 | World of Mines: Creators Edition | 235206 | [235206-world-of-mines-creators-edition.json](./235206-world-of-mines-creators-edition.json) |
 | World of MiniMonsters | 167190 | [167190-world-of-minimonsters.json](./167190-world-of-minimonsters.json) |
