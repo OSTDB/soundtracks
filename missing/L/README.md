@@ -6083,6 +6083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lust in Terror Manor | 200546 | [200546-lust-in-terror-manor.json](./200546-lust-in-terror-manor.json) |
 | Lust Island | 384761 | [384761-lust-island.json](./384761-lust-island.json) |
 | Lust Kingdom | 264032 | [264032-lust-kingdom.json](./264032-lust-kingdom.json) |
+| Lust Shards | 318146 | [318146-lust-shards.json](./318146-lust-shards.json) |
 | Lust Storm | 372031 | [372031-lust-storm.json](./372031-lust-storm.json) |
 | Lust Theory | 216187 | [216187-lust-theory.json](./216187-lust-theory.json) |
 | Lust Theory 2 | 240879 | [240879-lust-theory-2.json](./240879-lust-theory-2.json) |
