@@ -2203,6 +2203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat and Ghostly Road | 114073 | [114073-cat-and-ghostly-road.json](./114073-cat-and-ghostly-road.json) |
 | Cat and Shadow and Death's Four Friends | 374070 | [374070-cat-and-shadow-and-deaths-four-friends.json](./374070-cat-and-shadow-and-deaths-four-friends.json) |
 | Cat Apartment | 264135 | [264135-cat-apartment.json](./264135-cat-apartment.json) |
+| Cat Apocalypse | 304854 | [304854-cat-apocalypse.json](./304854-cat-apocalypse.json) |
 | Cat Architect | 182875 | [182875-cat-architect.json](./182875-cat-architect.json) |
 | Cat Astro Phi | 314672 | [314672-cat-astro-phi.json](./314672-cat-astro-phi.json) |
 | Cat Attack | 56882 | [56882-cat-attack.json](./56882-cat-attack.json) |
@@ -2658,6 +2659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cats in Hell | 201768 | [201768-cats-in-hell.json](./201768-cats-in-hell.json) |
 | Cats in the Ancient City of Gu Su | 294358 | [294358-cats-in-the-ancient-city-of-gu-su.json](./294358-cats-in-the-ancient-city-of-gu-su.json) |
 | Cats in the Shell | 408988 | [408988-cats-in-the-shell.json](./408988-cats-in-the-shell.json) |
+| Cats in Wonderland | 304839 | [304839-cats-in-wonderland.json](./304839-cats-in-wonderland.json) |
 | Cats Kill Zombies | 225183 | [225183-cats-kill-zombies.json](./225183-cats-kill-zombies.json) |
 | Cats Link | 299397 | [299397-cats-link.json](./299397-cats-link.json) |
 | Cats Logic | 334092 | [334092-cats-logic.json](./334092-cats-logic.json) |
