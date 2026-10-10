@@ -621,6 +621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ice and Fire | 232712 | [232712-ice-and-fire.json](./232712-ice-and-fire.json) |
 | Ice and Fire of Maiden | 111607 | [111607-ice-and-fire-of-maiden.json](./111607-ice-and-fire-of-maiden.json) |
 | Ice and Fire: The Wizards | 72610 | [72610-ice-and-fire-the-wizards.json](./72610-ice-and-fire-the-wizards.json) |
+| Ice Arrow Is Missing | 280738 | [280738-ice-arrow-is-missing.json](./280738-ice-arrow-is-missing.json) |
 | Ice Ball | 185466 | [185466-ice-ball.json](./185466-ice-ball.json) |
 | Ice Battle | 236933 | [236933-ice-battle.json](./236933-ice-battle.json) |
 | Ice Breaker | 280330 | [280330-ice-breaker.json](./280330-ice-breaker.json) |
@@ -1370,6 +1371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Illuminate Frame | 267457 | [267457-illuminate-frame.json](./267457-illuminate-frame.json) |
 | Illuminati Online | 304837 | [304837-illuminati-online.json](./304837-illuminati-online.json) |
 | illuminati Simulator VR | 156142 | [156142-illuminati-simulator-vr.json](./156142-illuminati-simulator-vr.json) |
+| Illumination Laser | 280690 | [280690-illumination-laser.json](./280690-illumination-laser.json) |
 | Illuminator | 243937 | [243937-illuminator.json](./243937-illuminator.json) |
 | Illuminum | 343923 | [343923-illuminum.json](./343923-illuminum.json) |
 | Illurama: Masters of Illusions | 316276 | [316276-illurama-masters-of-illusions.json](./316276-illurama-masters-of-illusions.json) |
