@@ -7275,6 +7275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunt: Showdown 1896 - Northern Justice | 292675 | [292675-hunt-showdown-1896-northern-justice.json](./292675-hunt-showdown-1896-northern-justice.json) |
 | Hunt: Showdown 1896 - Premium Edition | 313783 | [313783-hunt-showdown-1896-premium-edition.json](./313783-hunt-showdown-1896-premium-edition.json) |
 | Hunt: Showdown 1896 - Starter Edition | 313782 | [313782-hunt-showdown-1896-starter-edition.json](./313782-hunt-showdown-1896-starter-edition.json) |
+| Hunt: Showdown 1896 - The Reckoning Son | 302195 | [302195-hunt-showdown-1896-the-reckoning-son.json](./302195-hunt-showdown-1896-the-reckoning-son.json) |
 | Hunt: Showdown 1896 - The Revenant | 332024 | [332024-hunt-showdown-1896-the-revenant.json](./332024-hunt-showdown-1896-the-revenant.json) |
 | Hunt: Showdown 1896 - The Son of Gunpowder | 296920 | [296920-hunt-showdown-1896-the-son-of-gunpowder.json](./296920-hunt-showdown-1896-the-son-of-gunpowder.json) |
 | Hunt: Showdown 1896 - They Came from Salem | 332026 | [332026-hunt-showdown-1896-they-came-from-salem.json](./332026-hunt-showdown-1896-they-came-from-salem.json) |
