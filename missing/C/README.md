@@ -2306,6 +2306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Named Spirit | 254567 | [254567-cat-named-spirit.json](./254567-cat-named-spirit.json) |
 | Cat Nap | 380061 | [380061-cat-nap.json](./380061-cat-nap.json) |
 | Cat Needs | 244768 | [244768-cat-needs.json](./244768-cat-needs.json) |
+| Cat Nightmares: The Key | 315800 | [315800-cat-nightmares-the-key.json](./315800-cat-nightmares-the-key.json) |
 | Cat Ninja: The Quest for Magic Energy Crystals | 74706 | [74706-cat-ninja-the-quest-for-magic-energy-crystals.json](./74706-cat-ninja-the-quest-for-magic-energy-crystals.json) |
 | Cat of Khronos | 182356 | [182356-cat-of-khronos.json](./182356-cat-of-khronos.json) |
 | Cat of Monte Cristo | 155008 | [155008-cat-of-monte-cristo.json](./155008-cat-of-monte-cristo.json) |
@@ -3697,6 +3698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Checkers RPG: Online Battles | 261829 | [261829-checkers-rpg-online-battles.json](./261829-checkers-rpg-online-battles.json) |
 | Checkers Saga | 58275 | [58275-checkers-saga.json](./58275-checkers-saga.json) |
 | Checkers World | 88663 | [88663-checkers-world.json](./88663-checkers-world.json) |
+| Checkers: Playdate | 315767 | [315767-checkers-playdate.json](./315767-checkers-playdate.json) |
 | Checkers' Birthday Party | 381936 | [381936-checkers-birthday-party.json](./381936-checkers-birthday-party.json) |
 | Checkers' Hide 'n Seek | 381938 | [381938-checkers-hide-n-seek.json](./381938-checkers-hide-n-seek.json) |
 | Checkers' Playroom | 381935 | [381935-checkers-playroom.json](./381935-checkers-playroom.json) |
