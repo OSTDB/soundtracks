@@ -4896,6 +4896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gratuitous Tank Battles | 16334 | [16334-gratuitous-tank-battles.json](./16334-gratuitous-tank-battles.json) |
 | Gratuitous Zombie Cannon | 113184 | [113184-gratuitous-zombie-cannon.json](./113184-gratuitous-zombie-cannon.json) |
 | Gräuel | 276837 | [276837-grauel.json](./276837-grauel.json) |
+| Grauen no Torikago: Kapitel 1 - Keiyaku | 313975 | [313975-grauen-no-torikago-kapitel-1-keiyaku.json](./313975-grauen-no-torikago-kapitel-1-keiyaku.json) |
 | Grauen no Torikago: Kapitel 2 - Torikago | 318050 | [318050-grauen-no-torikago-kapitel-2-torikago.json](./318050-grauen-no-torikago-kapitel-2-torikago.json) |
 | Grauen no Torikago: Kapitel 3 - Kansei | 318051 | [318051-grauen-no-torikago-kapitel-3-kansei.json](./318051-grauen-no-torikago-kapitel-3-kansei.json) |
 | Grauen no Torikago: Kapitel 4 - Kaikou | 318052 | [318052-grauen-no-torikago-kapitel-4-kaikou.json](./318052-grauen-no-torikago-kapitel-4-kaikou.json) |
