@@ -4198,6 +4198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evidence: The Last Report | 71461 | [71461-evidence-the-last-report.json](./71461-evidence-the-last-report.json) |
 | Evidence: The Last Ritual | 20599 | [20599-evidence-the-last-ritual.json](./20599-evidence-the-last-ritual.json) |
 | Evidence01 | 389551 | [389551-evidence01.json](./389551-evidence01.json) |
+| Evie | 296805 | [296805-evie.json](./296805-evie.json) |
 | Evie Mal Games | 102776 | [102776-evie-mal-games.json](./102776-evie-mal-games.json) |
 | Evil | 154005 | [154005-evil.json](./154005-evil.json) |
 | Evil | 270322 | [270322-evil.json](./270322-evil.json) |
@@ -4918,6 +4919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ExtremeTK | 136861 | [136861-extremetk.json](./136861-extremetk.json) |
 | Exuvia | 401845 | [401845-exuvia.json](./401845-exuvia.json) |
 | Exvelten | 153857 | [153857-exvelten.json](./153857-exvelten.json) |
+| Exverse | 296810 | [296810-exverse.json](./296810-exverse.json) |
 | Exzeal | 32926 | [32926-exzeal.json](./32926-exzeal.json) |
 | ExZeus | 92099 | [92099-exzeus.json](./92099-exzeus.json) |
 | Exzore: The Rising | 42666 | [42666-exzore-the-rising.json](./42666-exzore-the-rising.json) |
