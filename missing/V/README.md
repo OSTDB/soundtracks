@@ -1077,6 +1077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Veteran Combat | 35710 | [35710-veteran-combat.json](./35710-veteran-combat.json) |
 | Veterum | 211815 | [211815-veterum.json](./211815-veterum.json) |
 | Vetica | 94192 | [94192-vetica.json](./94192-vetica.json) |
+| Vetitum_VRC | 319868 | [319868-vetitum-vrc.json](./319868-vetitum-vrc.json) |
 | Vetrex | 194988 | [194988-vetrex.json](./194988-vetrex.json) |
 | VEV: Viva Ex Vivo | 19861 | [19861-vev-viva-ex-vivo.json](./19861-vev-viva-ex-vivo.json) |
 | VEV: Viva Ex Vivo - VR Edition | 187513 | [187513-vev-viva-ex-vivo-vr-edition.json](./187513-vev-viva-ex-vivo-vr-edition.json) |
