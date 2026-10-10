@@ -1854,6 +1854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TCG One | 149983 | [149983-tcg-one.json](./149983-tcg-one.json) |
 | Tchia: Kepler Customization Pack | 243232 | [243232-tchia-kepler-customization-pack.json](./243232-tchia-kepler-customization-pack.json) |
 | Tchia: Oléti Edition | 239605 | [239605-tchia-oleti-edition.json](./239605-tchia-oleti-edition.json) |
+| Tchunk | 323437 | [323437-tchunk.json](./323437-tchunk.json) |
 | TCQ | 216272 | [216272-tcq.json](./216272-tcq.json) |
 | TCStrikers5 | 339414 | [339414-tcstrikers5.json](./339414-tcstrikers5.json) |
 | TD Overdrive: The Brotherhood of Speed | 6191 | [6191-td-overdrive-the-brotherhood-of-speed.json](./6191-td-overdrive-the-brotherhood-of-speed.json) |
@@ -2451,6 +2452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tempoknight | 224204 | [224204-tempoknight.json](./224204-tempoknight.json) |
 | Tempopo | 305178 | [305178-tempopo.json](./305178-tempopo.json) |
 | Temporal Cross | 310211 | [310211-temporal-cross.json](./310211-temporal-cross.json) |
+| Temporal Deadzone | 323420 | [323420-temporal-deadzone.json](./323420-temporal-deadzone.json) |
 | Temporal Gunslinger | 338308 | [338308-temporal-gunslinger.json](./338308-temporal-gunslinger.json) |
 | Temporal Odyssey | 277406 | [277406-temporal-odyssey.json](./277406-temporal-odyssey.json) |
 | Temporal Purge: Z | 154378 | [154378-temporal-purge-z.json](./154378-temporal-purge-z.json) |
@@ -2921,6 +2923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terror of the Catacombs | 11046 | [11046-terror-of-the-catacombs.json](./11046-terror-of-the-catacombs.json) |
 | Terror of the Deep | 37178 | [37178-terror-of-the-deep.json](./37178-terror-of-the-deep.json) |
 | Terror of the Seven Seas | 244855 | [244855-terror-of-the-seven-seas.json](./244855-terror-of-the-seven-seas.json) |
+| Terror On the Bayou | 323432 | [323432-terror-on-the-bayou.json](./323432-terror-on-the-bayou.json) |
 | Terror on Tromos 5 | 407427 | [407427-terror-on-tromos-5.json](./407427-terror-on-tromos-5.json) |
 | Terror Quake 2 | 272317 | [272317-terror-quake-2.json](./272317-terror-quake-2.json) |
 | Terror Shooter Apocalypse | 195111 | [195111-terror-shooter-apocalypse.json](./195111-terror-shooter-apocalypse.json) |
@@ -5267,6 +5270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dream Team | 196872 | [196872-the-dream-team.json](./196872-the-dream-team.json) |
 | The Dream Where Even Though You’ve Been Done With School for Years You Have to Go Back to School Because of a Class You Forgot About | 239211 | [239211-the-dream-where-even-though-you-ve-been-done-with-school-for-years-you-have-to-go-back-to-school-because-of-a-class-you-forgot-about.json](./239211-the-dream-where-even-though-you-ve-been-done-with-school-for-years-you-have-to-go-back-to-school-because-of-a-class-you-forgot-about.json) |
 | The Dreambox | 150103 | [150103-the-dreambox.json](./150103-the-dreambox.json) |
+| The Dreamer | 323211 | [323211-the-dreamer.json](./323211-the-dreamer.json) |
 | The Dreamers Foresight | 313479 | [313479-the-dreamers-foresight.json](./313479-the-dreamers-foresight.json) |
 | The Dreaming City Chronicles: Quest for the Vanished World | 406302 | [406302-the-dreaming-city-chronicles-quest-for-the-vanished-world.json](./406302-the-dreaming-city-chronicles-quest-for-the-vanished-world.json) |
 | The Dreamland | 343779 | [343779-the-dreamland.json](./343779-the-dreamland.json) |
@@ -5939,6 +5943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Football T | 209917 | [209917-the-football-t.json](./209917-the-football-t.json) |
 | The Forage | 102802 | [102802-the-forage.json](./102802-the-forage.json) |
 | The Forbidden Arts | 77814 | [77814-the-forbidden-arts.json](./77814-the-forbidden-arts.json) |
+| The Forbidden Flask | 323429 | [323429-the-forbidden-flask.json](./323429-the-forbidden-flask.json) |
 | The Forbidden Tomes of Olipos | 411648 | [411648-the-forbidden-tomes-of-olipos.json](./411648-the-forbidden-tomes-of-olipos.json) |
 | The Foreigner | 343759 | [343759-the-foreigner.json](./343759-the-foreigner.json) |
 | The Forest Adventurer | 221704 | [221704-the-forest-adventurer.json](./221704-the-forest-adventurer.json) |
@@ -7157,6 +7162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The King of Fighters XV: Characters Mature & Vice | 317839 | [317839-the-king-of-fighters-xv-characters-mature-and-vice.json](./317839-the-king-of-fighters-xv-characters-mature-and-vice.json) |
 | The King of Fighters XV: Deluxe Edition | 172556 | [172556-the-king-of-fighters-xv-deluxe-edition.json](./172556-the-king-of-fighters-xv-deluxe-edition.json) |
 | The King of Fighters XV: DLC Costume "Classic Leona" | 332031 | [332031-the-king-of-fighters-xv-dlc-costume-classic-leona.json](./332031-the-king-of-fighters-xv-dlc-costume-classic-leona.json) |
+| The King of Fighters XV: Omega Rugal | 323408 | [323408-the-king-of-fighters-xv-omega-rugal.json](./323408-the-king-of-fighters-xv-omega-rugal.json) |
 | The King of Fighters XV: Team Garou | 195801 | [195801-the-king-of-fighters-xv-team-garou.json](./195801-the-king-of-fighters-xv-team-garou.json) |
 | The King of Fighters: AFK | 364038 | [364038-the-king-of-fighters-afk.json](./364038-the-king-of-fighters-afk.json) |
 | The King of Fighters: Dream Match 1999 | 45861 | [45861-the-king-of-fighters-dream-match-1999.json](./45861-the-king-of-fighters-dream-match-1999.json) |
@@ -7796,6 +7802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Zelda: Oracle of Life Online | 324095 | [324095-the-legend-of-zelda-oracle-of-life-online.json](./324095-the-legend-of-zelda-oracle-of-life-online.json) |
 | The Legend of Zelda: Oracle of Seasons | 1032 | [1032-the-legend-of-zelda-oracle-of-seasons.json](./1032-the-legend-of-zelda-oracle-of-seasons.json) |
 | The Legend of Zelda: Oracle of Seasons Randomizer | 242026 | [242026-the-legend-of-zelda-oracle-of-seasons-randomizer.json](./242026-the-legend-of-zelda-oracle-of-seasons-randomizer.json) |
+| The Legend of Zelda: Oracle of Secrets | 323207 | [323207-the-legend-of-zelda-oracle-of-secrets.json](./323207-the-legend-of-zelda-oracle-of-secrets.json) |
 | The Legend of Zelda: Oracle of Secrets | 323220 | [323220-the-legend-of-zelda-oracle-of-secrets.json](./323220-the-legend-of-zelda-oracle-of-secrets.json) |
 | The Legend of Zelda: Oracle of Secrets | 323793 | [323793-the-legend-of-zelda-oracle-of-secrets.json](./323793-the-legend-of-zelda-oracle-of-secrets.json) |
 | The Legend of Zelda: Parallel Worlds | 42523 | [42523-the-legend-of-zelda-parallel-worlds.json](./42523-the-legend-of-zelda-parallel-worlds.json) |
@@ -7808,6 +7815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Zelda: Sage Knight | 323756 | [323756-the-legend-of-zelda-sage-knight.json](./323756-the-legend-of-zelda-sage-knight.json) |
 | The Legend of Zelda: Sands of Time | 326156 | [326156-the-legend-of-zelda-sands-of-time.json](./326156-the-legend-of-zelda-sands-of-time.json) |
 | The Legend of Zelda: Shadow Mirror | 324001 | [324001-the-legend-of-zelda-shadow-mirror.json](./324001-the-legend-of-zelda-shadow-mirror.json) |
+| The Legend of Zelda: Shattered Dimensions | 323212 | [323212-the-legend-of-zelda-shattered-dimensions.json](./323212-the-legend-of-zelda-shattered-dimensions.json) |
 | The Legend of Zelda: Shénqí de Màozi | 163217 | [163217-the-legend-of-zelda-shenqi-de-maozi.json](./163217-the-legend-of-zelda-shenqi-de-maozi.json) |
 | The Legend of Zelda: Skyward Sword HD Randomizer | 331139 | [331139-the-legend-of-zelda-skyward-sword-hd-randomizer.json](./331139-the-legend-of-zelda-skyward-sword-hd-randomizer.json) |
 | The Legend of Zelda: Skyward Sword Randomizer | 241895 | [241895-the-legend-of-zelda-skyward-sword-randomizer.json](./241895-the-legend-of-zelda-skyward-sword-randomizer.json) |
@@ -12360,6 +12368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | This Trip: Hunted in Forest | 178520 | [178520-this-trip-hunted-in-forest.json](./178520-this-trip-hunted-in-forest.json) |
 | This Village Girl Turned Out to Be Under a Lewdification Curse! | 83189 | [83189-this-village-girl-turned-out-to-be-under-a-lewdification-curse.json](./83189-this-village-girl-turned-out-to-be-under-a-lewdification-curse.json) |
 | This War of Mine: Complete Edition | 111817 | [111817-this-war-of-mine-complete-edition.json](./111817-this-war-of-mine-complete-edition.json) |
+| This War of Mine: Forget Celebrations | 323204 | [323204-this-war-of-mine-forget-celebrations.json](./323204-this-war-of-mine-forget-celebrations.json) |
 | This War of Mine: Stories - Father's Promise | 75871 | [75871-this-war-of-mine-stories-fathers-promise.json](./75871-this-war-of-mine-stories-fathers-promise.json) |
 | This War of Mine: Stories - Season Pass | 75872 | [75872-this-war-of-mine-stories-season-pass.json](./75872-this-war-of-mine-stories-season-pass.json) |
 | This War of Mine: Stories - The Last Broadcast | 111646 | [111646-this-war-of-mine-stories-the-last-broadcast.json](./111646-this-war-of-mine-stories-the-last-broadcast.json) |
@@ -19322,6 +19331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Truxton II | 293647 | [293647-truxton-ii.json](./293647-truxton-ii.json) |
 | Truxton II | 39662 | [39662-truxton-ii.json](./39662-truxton-ii.json) |
 | Try | 135695 | [135695-try.json](./135695-try.json) |
+| Try 2 Sleep | 323434 | [323434-try-2-sleep.json](./323434-try-2-sleep.json) |
 | Try Again | 219526 | [219526-try-again.json](./219526-try-again.json) |
 | Try Again | 249388 | [249388-try-again.json](./249388-try-again.json) |
 | Try Dying | 319713 | [319713-try-dying.json](./319713-try-dying.json) |
