@@ -1198,6 +1198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rap Simulator | 250303 | [250303-rap-simulator.json](./250303-rap-simulator.json) |
 | Rapala Fishing Frenzy 2009 | 7155 | [7155-rapala-fishing-frenzy-2009.json](./7155-rapala-fishing-frenzy-2009.json) |
 | Rapala Pro Bass Fishing | 21740 | [21740-rapala-pro-bass-fishing.json](./21740-rapala-pro-bass-fishing.json) |
+| Rapala Pro Fishing | 308988 | [308988-rapala-pro-fishing.json](./308988-rapala-pro-fishing.json) |
 | Rapala Trophies | 42806 | [42806-rapala-trophies.json](./42806-rapala-trophies.json) |
 | Rapala: We Fish | 67697 | [67697-rapala-we-fish.json](./67697-rapala-we-fish.json) |
 | Rapala's Fishing Frenzy | 50605 | [50605-rapalas-fishing-frenzy.json](./50605-rapalas-fishing-frenzy.json) |
@@ -6397,6 +6398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rolling Toss | 337131 | [337131-rolling-toss.json](./337131-rolling-toss.json) |
 | Rolling Valley | 192876 | [192876-rolling-valley.json](./192876-rolling-valley.json) |
 | Rolling Voltorb | 70084 | [70084-rolling-voltorb.json](./70084-rolling-voltorb.json) |
+| Rolling Wheels | 308993 | [308993-rolling-wheels.json](./308993-rolling-wheels.json) |
 | RollingSky | 129747 | [129747-rollingsky.json](./129747-rollingsky.json) |
 | RollingSky2 | 126505 | [126505-rollingsky2.json](./126505-rollingsky2.json) |
 | RollMe | 169883 | [169883-rollme.json](./169883-rollme.json) |
