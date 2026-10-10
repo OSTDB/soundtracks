@@ -1875,6 +1875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Only Ban! | 258699 | [258699-only-ban.json](./258699-only-ban.json) |
 | Only Cassette Coloring! | 215059 | [215059-only-cassette-coloring.json](./215059-only-cassette-coloring.json) |
 | Only Climb: Better Together | 257316 | [257316-only-climb-better-together.json](./257316-only-climb-better-together.json) |
+| Only Climber | 293506 | [293506-only-climber.json](./293506-only-climber.json) |
 | Only Climber 2 | 315279 | [315279-only-climber-2.json](./315279-only-climber-2.json) |
 | Only Cum! | 259282 | [259282-only-cum.json](./259282-only-cum.json) |
 | Only Down | 259592 | [259592-only-down.json](./259592-only-down.json) |
