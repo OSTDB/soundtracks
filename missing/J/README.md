@@ -764,6 +764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jet Riders | 209997 | [209997-jet-riders.json](./209997-jet-riders.json) |
 | Jet Run: City Defender | 58172 | [58172-jet-run-city-defender.json](./58172-jet-run-city-defender.json) |
 | Jet Rush | 236304 | [236304-jet-rush.json](./236304-jet-rush.json) |
+| Jet Scalawag: The King of Shooters | 327158 | [327158-jet-scalawag-the-king-of-shooters.json](./327158-jet-scalawag-the-king-of-shooters.json) |
 | Jet Set Gertie | 380103 | [380103-jet-set-gertie.json](./380103-jet-set-gertie.json) |
 | Jet Set Luis | 45343 | [45343-jet-set-luis.json](./45343-jet-set-luis.json) |
 | Jet Set Radio | 21004 | [21004-jet-set-radio.json](./21004-jet-set-radio.json) |
