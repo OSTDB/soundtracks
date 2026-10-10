@@ -432,6 +432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tail to Nose | 39505 | [39505-tail-to-nose.json](./39505-tail-to-nose.json) |
 | Tail-Tale | 194300 | [194300-tail-tale.json](./194300-tail-tale.json) |
 | Tailed Demon Slayer | 174824 | [174824-tailed-demon-slayer.json](./174824-tailed-demon-slayer.json) |
+| Tailgate | 314007 | [314007-tailgate.json](./314007-tailgate.json) |
 | Tailgunner | 132130 | [132130-tailgunner.json](./132130-tailgunner.json) |
 | Tailor Tales | 110929 | [110929-tailor-tales.json](./110929-tailor-tales.json) |
 | Tailor Tales - Aiden Plus | 305544 | [305544-tailor-tales-aiden-plus.json](./305544-tailor-tales-aiden-plus.json) |
@@ -12342,6 +12343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thirteen Souls | 129770 | [129770-thirteen-souls.json](./129770-thirteen-souls.json) |
 | Thirty Cycles | 200710 | [200710-thirty-cycles.json](./200710-thirty-cycles.json) |
 | Thirty Flights of Loving | 9013 | [9013-thirty-flights-of-loving.json](./9013-thirty-flights-of-loving.json) |
+| Thirty Monsters Challenge 2: Thirty Aliens | 313964 | [313964-thirty-monsters-challenge-2-thirty-aliens.json](./313964-thirty-monsters-challenge-2-thirty-aliens.json) |
 | Thirty One Rummy | 87545 | [87545-thirty-one-rummy.json](./87545-thirty-one-rummy.json) |
 | This Body Isn't Yours | 364659 | [364659-this-body-isnt-yours.json](./364659-this-body-isnt-yours.json) |
 | This Book Is A Dungeon | 34416 | [34416-this-book-is-a-dungeon.json](./34416-this-book-is-a-dungeon.json) |
