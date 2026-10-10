@@ -6760,6 +6760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apex | 5728 | [5728-apex.json](./5728-apex.json) |
 | Apex 2026: Rise of Legends | 401727 | [401727-apex-2026-rise-of-legends.json](./401727-apex-2026-rise-of-legends.json) |
 | Apex Arena | 104237 | [104237-apex-arena.json](./104237-apex-arena.json) |
+| Apex Automata | 297347 | [297347-apex-automata.json](./297347-apex-automata.json) |
 | Apex Drift Tokyo Streets | 323305 | [323305-apex-drift-tokyo-streets.json](./323305-apex-drift-tokyo-streets.json) |
 | Apex Gun | 247038 | [247038-apex-gun.json](./247038-apex-gun.json) |
 | Apex Heroines | 267483 | [267483-apex-heroines.json](./267483-apex-heroines.json) |
@@ -9997,6 +9998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atomic Betty 2 | 202191 | [202191-atomic-betty-2.json](./202191-atomic-betty-2.json) |
 | Atomic Bomber | 96671 | [96671-atomic-bomber.json](./96671-atomic-bomber.json) |
 | Atomic Bomberman | 18153 | [18153-atomic-bomberman.json](./18153-atomic-bomberman.json) |
+| Atomic Bot: Survivor of Planets | 297361 | [297361-atomic-bot-survivor-of-planets.json](./297361-atomic-bot-survivor-of-planets.json) |
 | Atomic Butcher: Homo Metabolicus | 25223 | [25223-atomic-butcher-homo-metabolicus.json](./25223-atomic-butcher-homo-metabolicus.json) |
 | Atomic Cannon | 227826 | [227826-atomic-cannon.json](./227826-atomic-cannon.json) |
 | Atomic Cyclecar Racing | 192363 | [192363-atomic-cyclecar-racing.json](./192363-atomic-cyclecar-racing.json) |
