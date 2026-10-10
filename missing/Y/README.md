@@ -401,6 +401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yingzinue: Donghei | 188926 | [188926-yingzinue-donghei.json](./188926-yingzinue-donghei.json) |
 | Yǐnlóng Zhuán: Yǐngzōng | 74287 | [74287-yinlong-zhuan-yingzong.json](./74287-yinlong-zhuan-yingzong.json) |
 | Yippy Cube | 208270 | [208270-yippy-cube.json](./208270-yippy-cube.json) |
+| YiShi | 295135 | [295135-yishi.json](./295135-yishi.json) |
 | Yissa Deep Realms | 75776 | [75776-yissa-deep-realms.json](./75776-yissa-deep-realms.json) |
 | Yitien Chronicles | 23638 | [23638-yitien-chronicles.json](./23638-yitien-chronicles.json) |
 | YiYi | 368018 | [368018-yiyi.json](./368018-yiyi.json) |
