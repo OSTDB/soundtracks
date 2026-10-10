@@ -3240,6 +3240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantom 9 | 416629 | [416629-phantom-9.json](./416629-phantom-9.json) |
 | Phantom Astronaut Lucid VR | 122340 | [122340-phantom-astronaut-lucid-vr.json](./122340-phantom-astronaut-lucid-vr.json) |
 | Phantom Asylum VR | 333651 | [333651-phantom-asylum-vr.json](./333651-phantom-asylum-vr.json) |
+| Phantom Beast Solitaire | 301627 | [301627-phantom-beast-solitaire.json](./301627-phantom-beast-solitaire.json) |
 | Phantom Blade 0 | 250618 | [250618-phantom-blade-0.json](./250618-phantom-blade-0.json) |
 | Phantom Blade: Executioners | 173080 | [173080-phantom-blade-executioners.json](./173080-phantom-blade-executioners.json) |
 | Phantom Bound | 293626 | [293626-phantom-bound.json](./293626-phantom-bound.json) |
@@ -11204,6 +11205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzlefall | 58177 | [58177-puzzlefall.json](./58177-puzzlefall.json) |
 | Puzzlefun | 88304 | [88304-puzzlefun.json](./88304-puzzlefun.json) |
 | Puzzlegeddon | 21139 | [21139-puzzlegeddon.json](./21139-puzzlegeddon.json) |
+| Puzzlehub: Businesswoman Hentai | 301663 | [301663-puzzlehub-businesswoman-hentai.json](./301663-puzzlehub-businesswoman-hentai.json) |
 | Puzzlejuice | 22682 | [22682-puzzlejuice.json](./22682-puzzlejuice.json) |
 | PuzzleKid | 133164 | [133164-puzzlekid.json](./133164-puzzlekid.json) |
 | PuzzleLand | 261997 | [261997-puzzleland.json](./261997-puzzleland.json) |
