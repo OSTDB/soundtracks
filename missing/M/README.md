@@ -305,6 +305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madden 95 | 198807 | [198807-madden-95.json](./198807-madden-95.json) |
 | Madden Football | 131420 | [131420-madden-football.json](./131420-madden-football.json) |
 | Madden genesis | 178024 | [178024-madden-genesis.json](./178024-madden-genesis.json) |
+| Madden NFL '95 | 282501 | [282501-madden-nfl-95.json](./282501-madden-nfl-95.json) |
 | Madden NFL 06 | 5906 | [5906-madden-nfl-06.json](./5906-madden-nfl-06.json) |
 | Madden NFL 07 | 243011 | [243011-madden-nfl-07.json](./243011-madden-nfl-07.json) |
 | Madden NFL 07 | 4983 | [4983-madden-nfl-07.json](./4983-madden-nfl-07.json) |
@@ -1861,6 +1862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mangavania | 141492 | [141492-mangavania.json](./141492-mangavania.json) |
 | Mangchi | 39591 | [39591-mangchi.json](./39591-mangchi.json) |
 | Mangchi the Hammer Boy | 240178 | [240178-mangchi-the-hammer-boy.json](./240178-mangchi-the-hammer-boy.json) |
+| Mangetsu no Yume | 282512 | [282512-mangetsu-no-yume.json](./282512-mangetsu-no-yume.json) |
 | Mango | 393833 | [393833-mango.json](./393833-mango.json) |
 | Mango 64 | 296972 | [296972-mango-64.json](./296972-mango-64.json) |
 | Mango Goes to Mewsic School | 292256 | [292256-mango-goes-to-mewsic-school.json](./292256-mango-goes-to-mewsic-school.json) |
