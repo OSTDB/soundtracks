@@ -698,6 +698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Tale for Anna | 151043 | [151043-a-tale-for-anna.json](./151043-a-tale-for-anna.json) |
 | A Tale for Anna: Collector's Edition | 382907 | [382907-a-tale-for-anna-collectors-edition.json](./382907-a-tale-for-anna-collectors-edition.json) |
 | A Tale in the Desert | 23701 | [23701-a-tale-in-the-desert.json](./23701-a-tale-in-the-desert.json) |
+| A Tale In The Garden | 332404 | [332404-a-tale-in-the-garden.json](./332404-a-tale-in-the-garden.json) |
 | A Tale of Body Limbs | 331142 | [331142-a-tale-of-body-limbs.json](./331142-a-tale-of-body-limbs.json) |
 | A Tale of Brothers | 358879 | [358879-a-tale-of-brothers.json](./358879-a-tale-of-brothers.json) |
 | A Tale of Caos: Overture | 32116 | [32116-a-tale-of-caos-overture.json](./32116-a-tale-of-caos-overture.json) |
@@ -1764,6 +1765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adonis | 200708 | [200708-adonis.json](./200708-adonis.json) |
 | Adonis | 82358 | [82358-adonis.json](./82358-adonis.json) |
 | Adonis: Escape from Urania | 261816 | [261816-adonis-escape-from-urania.json](./261816-adonis-escape-from-urania.json) |
+| Adopt A Boyfriend | 332439 | [332439-adopt-a-boyfriend.json](./332439-adopt-a-boyfriend.json) |
 | Adopt Me Please | 410894 | [410894-adopt-me-please.json](./410894-adopt-me-please.json) |
 | Adopted Passion Realize Your Dream | 279849 | [279849-adopted-passion-realize-your-dream.json](./279849-adopted-passion-realize-your-dream.json) |
 | Adorable Garden | 352865 | [352865-adorable-garden.json](./352865-adorable-garden.json) |
@@ -2213,6 +2215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aery: Calm Mind 2 | 189955 | [189955-aery-calm-mind-2.json](./189955-aery-calm-mind-2.json) |
 | Aery: Calm Mind 4 | 263037 | [263037-aery-calm-mind-4.json](./263037-aery-calm-mind-4.json) |
 | Aery: Cyber City | 283896 | [283896-aery-cyber-city.json](./283896-aery-cyber-city.json) |
+| Aery: Dream Land | 332491 | [332491-aery-dream-land.json](./332491-aery-dream-land.json) |
 | Aery: Midnight Hour | 288376 | [288376-aery-midnight-hour.json](./288376-aery-midnight-hour.json) |
 | Aery: Path of Corruption | 213427 | [213427-aery-path-of-corruption.json](./213427-aery-path-of-corruption.json) |
 | Aery: Peace of Mind | 296628 | [296628-aery-peace-of-mind.json](./296628-aery-peace-of-mind.json) |
@@ -6592,6 +6595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apartment 12 | 415477 | [415477-apartment-12.json](./415477-apartment-12.json) |
 | Apartment 213 | 97709 | [97709-apartment-213.json](./97709-apartment-213.json) |
 | Apartment 22 | 355540 | [355540-apartment-22.json](./355540-apartment-22.json) |
+| Apartment Dream | 332462 | [332462-apartment-dream.json](./332462-apartment-dream.json) |
 | Apartment Life to Cuck and Impregnate Neighboring Busty Married Women | 98450 | [98450-apartment-life-to-cuck-and-impregnate-neighboring-busty-married-women.json](./98450-apartment-life-to-cuck-and-impregnate-neighboring-busty-married-women.json) |
 | Apartment No 129 | 294293 | [294293-apartment-no-129.json](./294293-apartment-no-129.json) |
 | Apartment Story | 314709 | [314709-apartment-story.json](./314709-apartment-story.json) |
