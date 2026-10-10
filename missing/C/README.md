@@ -353,9 +353,18 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Dookie | 274544 | [274544-call-of-dookie.json](./274544-call-of-dookie.json) |
 | Call of Duty | 322845 | [322845-call-of-duty.json](./322845-call-of-duty.json) |
 | Call of Duty 2 | 119160 | [119160-call-of-duty-2.json](./119160-call-of-duty-2.json) |
+| Call of Duty 2 | 294571 | [294571-call-of-duty-2.json](./294571-call-of-duty-2.json) |
+| Call of Duty 2 - Invasion Map Pack | 294567 | [294567-call-of-duty-2-invasion-map-pack.json](./294567-call-of-duty-2-invasion-map-pack.json) |
+| Call of Duty 2: Big Red One - Collector's Edition | 294561 | [294561-call-of-duty-2-big-red-one-collectors-edition.json](./294561-call-of-duty-2-big-red-one-collectors-edition.json) |
+| Call of Duty 2: Bonus Map Pack | 294565 | [294565-call-of-duty-2-bonus-map-pack.json](./294565-call-of-duty-2-bonus-map-pack.json) |
 | Call of Duty 2: Collector's Edition | 292790 | [292790-call-of-duty-2-collectors-edition.json](./292790-call-of-duty-2-collectors-edition.json) |
 | Call of Duty 2: Game of the Year Edition | 292789 | [292789-call-of-duty-2-game-of-the-year-edition.json](./292789-call-of-duty-2-game-of-the-year-edition.json) |
+| Call of Duty 2: Skirmish Map Pack | 294566 | [294566-call-of-duty-2-skirmish-map-pack.json](./294566-call-of-duty-2-skirmish-map-pack.json) |
+| Call of Duty 3 | 294573 | [294573-call-of-duty-3.json](./294573-call-of-duty-3.json) |
+| Call of Duty 3: Bravo Map Pack | 294570 | [294570-call-of-duty-3-bravo-map-pack.json](./294570-call-of-duty-3-bravo-map-pack.json) |
 | Call of Duty 3: Gold Edition | 47466 | [47466-call-of-duty-3-gold-edition.json](./47466-call-of-duty-3-gold-edition.json) |
+| Call of Duty 3: Special Edition | 294563 | [294563-call-of-duty-3-special-edition.json](./294563-call-of-duty-3-special-edition.json) |
+| Call of Duty 3: Valor Map Pack | 294569 | [294569-call-of-duty-3-valor-map-pack.json](./294569-call-of-duty-3-valor-map-pack.json) |
 | Call of Duty 4: Modern Warfare | 135294 | [135294-call-of-duty-4-modern-warfare.json](./135294-call-of-duty-4-modern-warfare.json) |
 | Call of Duty 4: Modern Warfare - Game of the Year Edition | 290723 | [290723-call-of-duty-4-modern-warfare-game-of-the-year-edition.json](./290723-call-of-duty-4-modern-warfare-game-of-the-year-edition.json) |
 | Call of Duty 4: Modern Warfare - Limited Collector's Edition | 286606 | [286606-call-of-duty-4-modern-warfare-limited-collectors-edition.json](./286606-call-of-duty-4-modern-warfare-limited-collectors-edition.json) |
@@ -416,6 +425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty: Infinite Warfare - Jackal Assault | 80632 | [80632-call-of-duty-infinite-warfare-jackal-assault.json](./80632-call-of-duty-infinite-warfare-jackal-assault.json) |
 | Call of Duty: Infinite Warfare - Launch Edition | 82447 | [82447-call-of-duty-infinite-warfare-launch-edition.json](./82447-call-of-duty-infinite-warfare-launch-edition.json) |
 | Call of Duty: Infinite Warfare - Legacy Edition | 42896 | [42896-call-of-duty-infinite-warfare-legacy-edition.json](./42896-call-of-duty-infinite-warfare-legacy-edition.json) |
+| Call of Duty: Legacy | 294560 | [294560-call-of-duty-legacy.json](./294560-call-of-duty-legacy.json) |
 | Call of Duty: Modern Warfare - Precision Edition | 136342 | [136342-call-of-duty-modern-warfare-precision-edition.json](./136342-call-of-duty-modern-warfare-precision-edition.json) |
 | Call of Duty: Modern Warfare - Reflex Edition | 21199 | [21199-call-of-duty-modern-warfare-reflex-edition.json](./21199-call-of-duty-modern-warfare-reflex-edition.json) |
 | Call of Duty: Modern Warfare - Season Five | 136976 | [136976-call-of-duty-modern-warfare-season-five.json](./136976-call-of-duty-modern-warfare-season-five.json) |
@@ -9854,6 +9864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crawlspace Multiplayer | 300526 | [300526-crawlspace-multiplayer.json](./300526-crawlspace-multiplayer.json) |
 | Crawlyard | 166753 | [166753-crawlyard.json](./166753-crawlyard.json) |
 | Crayation: The First Sketch | 379010 | [379010-crayation-the-first-sketch.json](./379010-crayation-the-first-sketch.json) |
+| Craymel Check | 294598 | [294598-craymel-check.json](./294598-craymel-check.json) |
 | Crayola Amazing Art Adventure | 360204 | [360204-crayola-amazing-art-adventure.json](./360204-crayola-amazing-art-adventure.json) |
 | Crayola Art Adventure | 230360 | [230360-crayola-art-adventure.json](./230360-crayola-art-adventure.json) |
 | Crayola Colorful Creatures | 225659 | [225659-crayola-colorful-creatures.json](./225659-crayola-colorful-creatures.json) |
@@ -11921,6 +11932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursed Night | 244194 | [244194-cursed-night.json](./244194-cursed-night.json) |
 | Cursed Omelette | 370114 | [370114-cursed-omelette.json](./370114-cursed-omelette.json) |
 | Cursed Order | 284993 | [284993-cursed-order.json](./284993-cursed-order.json) |
+| Cursed Place | 294554 | [294554-cursed-place.json](./294554-cursed-place.json) |
 | Cursed Puppetry | 114314 | [114314-cursed-puppetry.json](./114314-cursed-puppetry.json) |
 | Cursed Queen : Wicked Witch | 105371 | [105371-cursed-queen-wicked-witch.json](./105371-cursed-queen-wicked-witch.json) |
 | Cursed Realm | 258722 | [258722-cursed-realm.json](./258722-cursed-realm.json) |
