@@ -1850,6 +1850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DC: Dark Legion | 283384 | [283384-dc-dark-legion.json](./283384-dc-dark-legion.json) |
 | DC's Justice League: Cosmic Chaos | 228740 | [228740-dcs-justice-league-cosmic-chaos.json](./228740-dcs-justice-league-cosmic-chaos.json) |
 | DC3: Viral Menace | 244360 | [244360-dc3-viral-menace.json](./244360-dc3-viral-menace.json) |
+| DCA3 | 327237 | [327237-dca3.json](./327237-dca3.json) |
 | DCF Universe Triple Trouble Bundle | 338026 | [338026-dcf-universe-triple-trouble-bundle.json](./338026-dcf-universe-triple-trouble-bundle.json) |
 | DCKO | 410955 | [410955-dcko.json](./410955-dcko.json) |
 | DCop | 270117 | [270117-dcop.json](./270117-dcop.json) |
