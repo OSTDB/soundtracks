@@ -252,6 +252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Love Finding More Cats!: Collector's Edition | 205224 | [205224-i-love-finding-more-cats-collectors-edition.json](./205224-i-love-finding-more-cats-collectors-edition.json) |
 | I Love Finding More Pups | 207733 | [207733-i-love-finding-more-pups.json](./207733-i-love-finding-more-pups.json) |
 | I Love Finding Pups!: Collector's Edition | 187452 | [187452-i-love-finding-pups-collectors-edition.json](./187452-i-love-finding-pups-collectors-edition.json) |
+| I Love Finding Wild Friends: Collector's Edition | 320467 | [320467-i-love-finding-wild-friends-collectors-edition.json](./320467-i-love-finding-wild-friends-collectors-edition.json) |
 | I Love Food | 197907 | [197907-i-love-food.json](./197907-i-love-food.json) |
 | I Love Horses | 47975 | [47975-i-love-horses.json](./47975-i-love-horses.json) |
 | I Love Horses: Rider's Paradise | 51072 | [51072-i-love-horses-riders-paradise.json](./51072-i-love-horses-riders-paradise.json) |
@@ -875,6 +876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle City Empire | 101068 | [101068-idle-city-empire.json](./101068-idle-city-empire.json) |
 | Idle Colony | 299782 | [299782-idle-colony.json](./299782-idle-colony.json) |
 | Idle Colors | 402893 | [402893-idle-colors.json](./402893-idle-colors.json) |
+| Idle Command: Supply Frontline | 320465 | [320465-idle-command-supply-frontline.json](./320465-idle-command-supply-frontline.json) |
 | Idle Cooking Emperor | 117480 | [117480-idle-cooking-emperor.json](./117480-idle-cooking-emperor.json) |
 | Idle Craft | 333081 | [333081-idle-craft.json](./333081-idle-craft.json) |
 | Idle Crypto Capitalist | 262924 | [262924-idle-crypto-capitalist.json](./262924-idle-crypto-capitalist.json) |
@@ -1997,6 +1999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Indian Army: Mission Pok | 171399 | [171399-indian-army-mission-pok.json](./171399-indian-army-mission-pok.json) |
 | Indian Bus Simulator: Game | 384620 | [384620-indian-bus-simulator-game.json](./384620-indian-bus-simulator-game.json) |
 | Indian Mutiny: Little Sepoy | 101351 | [101351-indian-mutiny-little-sepoy.json](./101351-indian-mutiny-little-sepoy.json) |
+| Indian Princess: Dress Up! | 320466 | [320466-indian-princess-dress-up.json](./320466-indian-princess-dress-up.json) |
 | Indian Rummy: Fun Card Game | 88171 | [88171-indian-rummy-fun-card-game.json](./88171-indian-rummy-fun-card-game.json) |
 | Indian Street Food Simulator | 407345 | [407345-indian-street-food-simulator.json](./407345-indian-street-food-simulator.json) |
 | Indian Train Simulator | 174639 | [174639-indian-train-simulator.json](./174639-indian-train-simulator.json) |
