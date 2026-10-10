@@ -2875,6 +2875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BCV: Battle Construction Vehicles | 43534 | [43534-bcv-battle-construction-vehicles.json](./43534-bcv-battle-construction-vehicles.json) |
 | BDef | 61130 | [61130-bdef.json](./61130-bdef.json) |
 | BDSM Clicker | 355136 | [355136-bdsm-clicker.json](./355136-bdsm-clicker.json) |
+| BDSM Fuel Station: Interactive Physics Simulation | 326287 | [326287-bdsm-fuel-station-interactive-physics-simulation.json](./326287-bdsm-fuel-station-interactive-physics-simulation.json) |
 | BDSM Sex | 294129 | [294129-bdsm-sex.json](./294129-bdsm-sex.json) |
 | BDSM Sex: Episode 2 | 295381 | [295381-bdsm-sex-episode-2.json](./295381-bdsm-sex-episode-2.json) |
 | BDSM Sex: Episode 3 | 295382 | [295382-bdsm-sex-episode-3.json](./295382-bdsm-sex-episode-3.json) |
@@ -3427,6 +3428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bebder Game: Bebder Than the Rest | 209389 | [209389-bebder-game-bebder-than-the-rest.json](./209389-bebder-game-bebder-than-the-rest.json) |
 | Bebe Miner | 416664 | [416664-bebe-miner.json](./416664-bebe-miner.json) |
 | Beberserker | 132094 | [132094-beberserker.json](./132094-beberserker.json) |
+| Beboblast | 326114 | [326114-beboblast.json](./326114-beboblast.json) |
 | Bebok Invasion | 226253 | [226253-bebok-invasion.json](./226253-bebok-invasion.json) |
 | Beboop to the Rescue! | 211431 | [211431-beboop-to-the-rescue.json](./211431-beboop-to-the-rescue.json) |
 | Bebop and Tempo | 43893 | [43893-bebop-and-tempo.json](./43893-bebop-and-tempo.json) |
@@ -5914,6 +5916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blastforge Breach | 368628 | [368628-blastforge-breach.json](./368628-blastforge-breach.json) |
 | BlastFort | 164265 | [164265-blastfort.json](./164265-blastfort.json) |
 | Blastful | 147122 | [147122-blastful.json](./147122-blastful.json) |
+| Blasting Bad | 326112 | [326112-blasting-bad.json](./326112-blasting-bad.json) |
 | BlastMorph: Pinball | 372572 | [372572-blastmorph-pinball.json](./372572-blastmorph-pinball.json) |
 | Blasto | 377825 | [377825-blasto.json](./377825-blasto.json) |
 | Blasto | 86213 | [86213-blasto.json](./86213-blasto.json) |
@@ -9078,6 +9081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Break Ultimate | 241614 | [241614-break-ultimate.json](./241614-break-ultimate.json) |
 | Break Up | 245545 | [245545-break-up.json](./245545-break-up.json) |
 | Break Wolf | 320239 | [320239-break-wolf.json](./320239-break-wolf.json) |
+| Break.Up | 326288 | [326288-break-up.json](./326288-break-up.json) |
 | Breakage | 165521 | [165521-breakage.json](./165521-breakage.json) |
 | Breakaway Hockey League | 415167 | [415167-breakaway-hockey-league.json](./415167-breakaway-hockey-league.json) |
 | BreakBall | 304651 | [304651-breakball.json](./304651-breakball.json) |
