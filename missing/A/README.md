@@ -9465,6 +9465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astral Outcast | 298246 | [298246-astral-outcast.json](./298246-astral-outcast.json) |
 | Astral Planes | 365821 | [365821-astral-planes.json](./365821-astral-planes.json) |
 | Astral Quester | 265590 | [265590-astral-quester.json](./265590-astral-quester.json) |
+| Astral Rift | 293000 | [293000-astral-rift.json](./293000-astral-rift.json) |
 | Astral Sanctum | 347770 | [347770-astral-sanctum.json](./347770-astral-sanctum.json) |
 | Astral Savior | 347779 | [347779-astral-savior.json](./347779-astral-savior.json) |
 | Astral Sever | 414337 | [414337-astral-sever.json](./414337-astral-sever.json) |
@@ -9974,6 +9975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atlas Fallen: Reign of Sand | 311747 | [311747-atlas-fallen-reign-of-sand.json](./311747-atlas-fallen-reign-of-sand.json) |
 | Atlas Fallen: Signature Edition | 241961 | [241961-atlas-fallen-signature-edition.json](./241961-atlas-fallen-signature-edition.json) |
 | Atlas Novum | 298293 | [298293-atlas-novum.json](./298293-atlas-novum.json) |
+| Atlas of the Starry Night | 293005 | [293005-atlas-of-the-starry-night.json](./293005-atlas-of-the-starry-night.json) |
 | Atlas Reactor | 18063 | [18063-atlas-reactor.json](./18063-atlas-reactor.json) |
 | Atlas Reactor VR Character Viewer | 33173 | [33173-atlas-reactor-vr-character-viewer.json](./33173-atlas-reactor-vr-character-viewer.json) |
 | Atlas Reactor: All Freelancers Pack | 52430 | [52430-atlas-reactor-all-freelancers-pack.json](./52430-atlas-reactor-all-freelancers-pack.json) |
