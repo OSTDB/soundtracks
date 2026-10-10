@@ -2714,6 +2714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret Base | 172530 | [172530-secret-base.json](./172530-secret-base.json) |
 | Secret Blade | 245852 | [245852-secret-blade.json](./245852-secret-blade.json) |
 | Secret Bottle | 246479 | [246479-secret-bottle.json](./246479-secret-bottle.json) |
+| Secret Bureau | 321665 | [321665-secret-bureau.json](./321665-secret-bureau.json) |
 | Secret Cat Forest | 206930 | [206930-secret-cat-forest.json](./206930-secret-cat-forest.json) |
 | Secret Cats: Easter | 368538 | [368538-secret-cats-easter.json](./368538-secret-cats-easter.json) |
 | Secret Cats: Halloween | 320315 | [320315-secret-cats-halloween.json](./320315-secret-cats-halloween.json) |
@@ -3980,6 +3981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shaderland | 418303 | [418303-shaderland.json](./418303-shaderland.json) |
 | Shades | 230255 | [230255-shades.json](./230255-shades.json) |
 | Shades | 319026 | [319026-shades.json](./319026-shades.json) |
+| Shades | 321406 | [321406-shades.json](./321406-shades.json) |
 | Shades of Azure | 262431 | [262431-shades-of-azure.json](./262431-shades-of-azure.json) |
 | Shades of Black | 36009 | [36009-shades-of-black.json](./36009-shades-of-black.json) |
 | Shades of Doom | 71518 | [71518-shades-of-doom.json](./71518-shades-of-doom.json) |
@@ -8086,6 +8088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slendrina 2D | 104246 | [104246-slendrina-2d.json](./104246-slendrina-2d.json) |
 | Slendrina Must Die: The Asylum | 321384 | [321384-slendrina-must-die-the-asylum.json](./321384-slendrina-must-die-the-asylum.json) |
 | Slendrina Must Die: The Cellar | 108844 | [108844-slendrina-must-die-the-cellar.json](./108844-slendrina-must-die-the-cellar.json) |
+| Slendrina Must Die: The Forest | 321403 | [321403-slendrina-must-die-the-forest.json](./321403-slendrina-must-die-the-forest.json) |
 | Slendrina Must Die: The House | 321382 | [321382-slendrina-must-die-the-house.json](./321382-slendrina-must-die-the-house.json) |
 | Slendrina Must Die: The School | 321411 | [321411-slendrina-must-die-the-school.json](./321411-slendrina-must-die-the-school.json) |
 | Slendrina X | 233773 | [233773-slendrina-x.json](./233773-slendrina-x.json) |
@@ -17142,6 +17145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Fighter V: 2016 Summer Costume Bundle | 343896 | [343896-street-fighter-v-2016-summer-costume-bundle.json](./343896-street-fighter-v-2016-summer-costume-bundle.json) |
 | Street Fighter V: 2017 Deluxe Edition | 53678 | [53678-street-fighter-v-2017-deluxe-edition.json](./53678-street-fighter-v-2017-deluxe-edition.json) |
 | Street Fighter V: A Shadow Falls | 146526 | [146526-street-fighter-v-a-shadow-falls.json](./146526-street-fighter-v-a-shadow-falls.json) |
+| Street Fighter V: Alex | 321628 | [321628-street-fighter-v-alex.json](./321628-street-fighter-v-alex.json) |
 | Street Fighter V: Arcade Edition | 74155 | [74155-street-fighter-v-arcade-edition.json](./74155-street-fighter-v-arcade-edition.json) |
 | Street Fighter V: Blanka | 322207 | [322207-street-fighter-v-blanka.json](./322207-street-fighter-v-blanka.json) |
 | Street Fighter V: Capcom Pro Tour 2016 Pack | 332659 | [332659-street-fighter-v-capcom-pro-tour-2016-pack.json](./332659-street-fighter-v-capcom-pro-tour-2016-pack.json) |
@@ -17166,6 +17170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Fighter V: Season 5 Character Pass | 350070 | [350070-street-fighter-v-season-5-character-pass.json](./350070-street-fighter-v-season-5-character-pass.json) |
 | Street Fighter V: SFL2020 NASR Costumes Bundle | 332657 | [332657-street-fighter-v-sfl2020-nasr-costumes-bundle.json](./332657-street-fighter-v-sfl2020-nasr-costumes-bundle.json) |
 | Street Fighter V: SFL2020 UYU Costumes Bundle | 332656 | [332656-street-fighter-v-sfl2020-uyu-costumes-bundle.json](./332656-street-fighter-v-sfl2020-uyu-costumes-bundle.json) |
+| Street Fighter V: Skies of Honor | 321652 | [321652-street-fighter-v-skies-of-honor.json](./321652-street-fighter-v-skies-of-honor.json) |
 | Street Fighter V: Story Costume Pack Season 1-3 | 342577 | [342577-street-fighter-v-story-costume-pack-season-1-3.json](./342577-street-fighter-v-story-costume-pack-season-1-3.json) |
 | Street Fighter V: Zeku | 332476 | [332476-street-fighter-v-zeku.json](./332476-street-fighter-v-zeku.json) |
 | Street Fighter VI 12 Peoples | 263664 | [263664-street-fighter-vi-12-peoples.json](./263664-street-fighter-vi-12-peoples.json) |
@@ -19427,6 +19432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Bros. Funk Mix Deluxe | 203389 | [203389-super-mario-bros-funk-mix-deluxe.json](./203389-super-mario-bros-funk-mix-deluxe.json) |
 | Super Mario Bros. Game Watch | 172502 | [172502-super-mario-bros-game-watch.json](./172502-super-mario-bros-game-watch.json) |
 | Super Mario Bros. in Crazy Castle | 323826 | [323826-super-mario-bros-in-crazy-castle.json](./323826-super-mario-bros-in-crazy-castle.json) |
+| Super Mario Bros. Mini | 321672 | [321672-super-mario-bros-mini.json](./321672-super-mario-bros-mini.json) |
 | Super Mario Bros. MM | 322779 | [322779-super-mario-bros-mm.json](./322779-super-mario-bros-mm.json) |
 | Super Mario Bros. Next | 225548 | [225548-super-mario-bros-next.json](./225548-super-mario-bros-next.json) |
 | Super Mario Bros. Peach's Adventure | 142383 | [142383-super-mario-bros-peachs-adventure.json](./142383-super-mario-bros-peachs-adventure.json) |
