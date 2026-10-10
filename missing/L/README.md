@@ -4785,6 +4785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Los Lunnis | 269610 | [269610-los-lunnis.json](./269610-los-lunnis.json) |
 | Los Perdedores | 323800 | [323800-los-perdedores.json](./323800-los-perdedores.json) |
 | Los Pilarcitos | 398368 | [398368-los-pilarcitos.json](./398368-los-pilarcitos.json) |
+| Los Pingheros | 301109 | [301109-los-pingheros.json](./301109-los-pingheros.json) |
 | Los Reinos de Aethermoor | 396577 | [396577-los-reinos-de-aethermoor.json](./396577-los-reinos-de-aethermoor.json) |
 | Los Secretos de Altura | 323849 | [323849-los-secretos-de-altura.json](./323849-los-secretos-de-altura.json) |
 | Lose 95 | 201112 | [201112-lose-95.json](./201112-lose-95.json) |
@@ -5912,6 +5913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luminids | 381925 | [381925-luminids.json](./381925-luminids.json) |
 | Luminis: Heal Them All | 270133 | [270133-luminis-heal-them-all.json](./270133-luminis-heal-them-all.json) |
 | Luminite Era: Expedition | 245990 | [245990-luminite-era-expedition.json](./245990-luminite-era-expedition.json) |
+| Luminleaf Chronicles | 301068 | [301068-luminleaf-chronicles.json](./301068-luminleaf-chronicles.json) |
 | Lumino City | 8762 | [8762-lumino-city.json](./8762-lumino-city.json) |
 | Luminosity | 35836 | [35836-luminosity.json](./35836-luminosity.json) |
 | Luminous | 274662 | [274662-luminous.json](./274662-luminous.json) |
