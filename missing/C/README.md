@@ -2659,6 +2659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cats vs. Dogs | 365543 | [365543-cats-vs-dogs.json](./365543-cats-vs-dogs.json) |
 | Cats vs. Rats | 372029 | [372029-cats-vs-rats.json](./372029-cats-vs-rats.json) |
 | Cats War | 303723 | [303723-cats-war.json](./303723-cats-war.json) |
+| Cats With Guns | 328962 | [328962-cats-with-guns.json](./328962-cats-with-guns.json) |
 | Cats With Standards | 374409 | [374409-cats-with-standards.json](./374409-cats-with-standards.json) |
 | Cats Yakuza | 211961 | [211961-cats-yakuza.json](./211961-cats-yakuza.json) |
 | Cats-Shaped | 311608 | [311608-cats-shaped.json](./311608-cats-shaped.json) |
@@ -4997,6 +4998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chuck E. Cheese's Super Collection | 51044 | [51044-chuck-e-cheeses-super-collection.json](./51044-chuck-e-cheeses-super-collection.json) |
 | Chuck Gnome | 76185 | [76185-chuck-gnome.json](./76185-chuck-gnome.json) |
 | Chuck Meowrris | 130167 | [130167-chuck-meowrris.json](./130167-chuck-meowrris.json) |
+| Chuck Nolemland: The Starving Kid | 328970 | [328970-chuck-nolemland-the-starving-kid.json](./328970-chuck-nolemland-the-starving-kid.json) |
 | Chuck Norris Superkicks | 23573 | [23573-chuck-norris-superkicks.json](./23573-chuck-norris-superkicks.json) |
 | Chuck Quizmo's Quiz | 328608 | [328608-chuck-quizmos-quiz.json](./328608-chuck-quizmos-quiz.json) |
 | Chuck Rock | 275025 | [275025-chuck-rock.json](./275025-chuck-rock.json) |
@@ -7920,6 +7922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Connect 4 Deluxe | 205623 | [205623-connect-4-deluxe.json](./205623-connect-4-deluxe.json) |
 | Connect 4 Faces: Match & Play | 232389 | [232389-connect-4-faces-match-and-play.json](./232389-connect-4-faces-match-and-play.json) |
 | Connect Bricks | 153827 | [153827-connect-bricks.json](./153827-connect-bricks.json) |
+| Connect Collect | 329240 | [329240-connect-collect.json](./329240-connect-collect.json) |
 | Connect Dots | 396371 | [396371-connect-dots.json](./396371-connect-dots.json) |
 | Connect Dots Puzzle: Classic Casual Arcade | 244823 | [244823-connect-dots-puzzle-classic-casual-arcade.json](./244823-connect-dots-puzzle-classic-casual-arcade.json) |
 | Connect Far Away Tale | 387599 | [387599-connect-far-away-tale.json](./387599-connect-far-away-tale.json) |
