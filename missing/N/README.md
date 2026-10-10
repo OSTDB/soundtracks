@@ -1096,6 +1096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Need for Speed Rivals: Complete Edition | 118896 | [118896-need-for-speed-rivals-complete-edition.json](./118896-need-for-speed-rivals-complete-edition.json) |
 | Need for Speed Unbound: Palace Edition | 220860 | [220860-need-for-speed-unbound-palace-edition.json](./220860-need-for-speed-unbound-palace-edition.json) |
 | Need for Speed Unbound: Trick or Street Swag Pack | 271923 | [271923-need-for-speed-unbound-trick-or-street-swag-pack.json](./271923-need-for-speed-unbound-trick-or-street-swag-pack.json) |
+| Need for Speed Unbound: Ultimate Collection | 324852 | [324852-need-for-speed-unbound-ultimate-collection.json](./324852-need-for-speed-unbound-ultimate-collection.json) |
 | Need for Speed Unbound: Vol.5 Customs Pack | 271922 | [271922-need-for-speed-unbound-vol-5-customs-pack.json](./271922-need-for-speed-unbound-vol-5-customs-pack.json) |
 | Need for Speed Unbound: Vol.6 - Premium Speed Pass | 297156 | [297156-need-for-speed-unbound-vol-6-premium-speed-pass.json](./297156-need-for-speed-unbound-vol-6-premium-speed-pass.json) |
 | Need for Speed Unbound: Volkswagen Beetle (1963) - Legendary Custom Pack | 271924 | [271924-need-for-speed-unbound-volkswagen-beetle-1963-legendary-custom-pack.json](./271924-need-for-speed-unbound-volkswagen-beetle-1963-legendary-custom-pack.json) |
@@ -3267,6 +3268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninjahtic Mind Tricks | 34818 | [34818-ninjahtic-mind-tricks.json](./34818-ninjahtic-mind-tricks.json) |
 | Ninjala 2: The Uncharted Planet | 405438 | [405438-ninjala-2-the-uncharted-planet.json](./405438-ninjala-2-the-uncharted-planet.json) |
 | Ninjala Story Pack: Chapter Four | 247585 | [247585-ninjala-story-pack-chapter-four.json](./247585-ninjala-story-pack-chapter-four.json) |
+| Ninjaman | 324845 | [324845-ninjaman.json](./324845-ninjaman.json) |
 | Ninjamurai | 44521 | [44521-ninjamurai.json](./44521-ninjamurai.json) |
 | Ninjapple | 129666 | [129666-ninjapple.json](./129666-ninjapple.json) |
 | Ninjas Busters: Whack A Ninja | 149712 | [149712-ninjas-busters-whack-a-ninja.json](./149712-ninjas-busters-whack-a-ninja.json) |
