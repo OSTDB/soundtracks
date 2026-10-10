@@ -7403,6 +7403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Bank 3 Minute Tetris | 233648 | [233648-arcade-bank-3-minute-tetris.json](./233648-arcade-bank-3-minute-tetris.json) |
 | Arcade Basketball 3D Tournament Edition | 241611 | [241611-arcade-basketball-3d-tournament-edition.json](./241611-arcade-basketball-3d-tournament-edition.json) |
 | Arcade Blast | 202699 | [202699-arcade-blast.json](./202699-arcade-blast.json) |
+| Arcade Boot Camp | 312293 | [312293-arcade-boot-camp.json](./312293-arcade-boot-camp.json) |
 | Arcade Boss Simulator | 345567 | [345567-arcade-boss-simulator.json](./345567-arcade-boss-simulator.json) |
 | Arcade Bowling | 67310 | [67310-arcade-bowling.json](./67310-arcade-bowling.json) |
 | Arcade Boy | 152873 | [152873-arcade-boy.json](./152873-arcade-boy.json) |
@@ -10267,6 +10268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Auto Hustle | 313456 | [313456-auto-hustle.json](./313456-auto-hustle.json) |
 | Auto Island | 159798 | [159798-auto-island.json](./159798-auto-island.json) |
 | Auto Jurassic Knights | 370866 | [370866-auto-jurassic-knights.json](./370866-auto-jurassic-knights.json) |
+| Auto Legends | 312257 | [312257-auto-legends.json](./312257-auto-legends.json) |
 | Auto Mechanic | 167164 | [167164-auto-mechanic.json](./167164-auto-mechanic.json) |
 | Auto Modellista | 3791 | [3791-auto-modellista.json](./3791-auto-modellista.json) |
 | Auto Museum 64 | 182903 | [182903-auto-museum-64.json](./182903-auto-museum-64.json) |
