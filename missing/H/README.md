@@ -3850,6 +3850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexa Puzzle Saga | 248330 | [248330-hexa-puzzle-saga.json](./248330-hexa-puzzle-saga.json) |
 | Hexa River | 320374 | [320374-hexa-river.json](./320374-hexa-river.json) |
 | Hexa Road | 353958 | [353958-hexa-road.json](./353958-hexa-road.json) |
+| Hexa Sort | 321646 | [321646-hexa-sort.json](./321646-hexa-sort.json) |
 | Hexa TD: Free Game | 340468 | [340468-hexa-td-free-game.json](./340468-hexa-td-free-game.json) |
 | Hexa World 3D | 348193 | [348193-hexa-world-3d.json](./348193-hexa-world-3d.json) |
 | Hexa-6 Puzzle | 101675 | [101675-hexa-6-puzzle.json](./101675-hexa-6-puzzle.json) |
