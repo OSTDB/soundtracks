@@ -764,6 +764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SameGame HD | 64432 | [64432-samegame-hd.json](./64432-samegame-hd.json) |
 | SameGame: Character Cassette | 234780 | [234780-samegame-character-cassette.json](./234780-samegame-character-cassette.json) |
 | SameGame: Character Data - Tengai Makyou | 234779 | [234779-samegame-character-data-tengai-makyou.json](./234779-samegame-character-data-tengai-makyou.json) |
+| Samenai Akumu no Hate de Odorou. | 285377 | [285377-samenai-akumu-no-hate-de-odorou.json](./285377-samenai-akumu-no-hate-de-odorou.json) |
 | SameShadow: Fernando's Journey | 272241 | [272241-sameshadow-fernandos-journey.json](./272241-sameshadow-fernandos-journey.json) |
 | Samgugji: Paewang | 368040 | [368040-samgugji-paewang.json](./368040-samgugji-paewang.json) |
 | Samhain | 125269 | [125269-samhain.json](./125269-samhain.json) |
@@ -1033,6 +1034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sandy & Junior: Aventura Virtual | 132863 | [132863-sandy-and-junior-aventura-virtual.json](./132863-sandy-and-junior-aventura-virtual.json) |
 | Sandy's Circus Adventure | 45895 | [45895-sandys-circus-adventure.json](./45895-sandys-circus-adventure.json) |
 | Sandy's Great Escape | 253867 | [253867-sandys-great-escape.json](./253867-sandys-great-escape.json) |
+| Sanevol Incident 44 | 285397 | [285397-sanevol-incident-44.json](./285397-sanevol-incident-44.json) |
 | Sang-Froid: Tales of Werewolves | 5446 | [5446-sang-froid-tales-of-werewolves.json](./5446-sang-froid-tales-of-werewolves.json) |
 | Sangeki wo Kuzuse! | 97674 | [97674-sangeki-wo-kuzuse.json](./97674-sangeki-wo-kuzuse.json) |
 | Sango Guardian Chaos Generation Steamedition | 52064 | [52064-sango-guardian-chaos-generation-steamedition.json](./52064-sango-guardian-chaos-generation-steamedition.json) |
@@ -6646,6 +6648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silverpine | 410989 | [410989-silverpine.json](./410989-silverpine.json) |
 | Silverpine Creek | 302478 | [302478-silverpine-creek.json](./302478-silverpine-creek.json) |
 | SilverQuest: Gaiden | 36161 | [36161-silverquest-gaiden.json](./36161-silverquest-gaiden.json) |
+| Silversoul Orphanage | 285404 | [285404-silversoul-orphanage.json](./285404-silversoul-orphanage.json) |
 | SilverStarChess | 147986 | [147986-silverstarchess.json](./147986-silverstarchess.json) |
 | Silverstone | 388049 | [388049-silverstone.json](./388049-silverstone.json) |
 | Silversword | 101539 | [101539-silversword.json](./101539-silversword.json) |
@@ -15008,6 +15011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Revenge 2.5: Remnant of Doom PC | 378297 | [378297-star-revenge-2-5-remnant-of-doom-pc.json](./378297-star-revenge-2-5-remnant-of-doom-pc.json) |
 | Star Revenge 4: The Kedama Takeover | 300260 | [300260-star-revenge-4-the-kedama-takeover.json](./300260-star-revenge-4-the-kedama-takeover.json) |
 | Star Revenge 5: Neo Blue Realm | 260806 | [260806-star-revenge-5-neo-blue-realm.json](./260806-star-revenge-5-neo-blue-realm.json) |
+| Star Revenge 5.5: Destroyed Memories | 285416 | [285416-star-revenge-5-5-destroyed-memories.json](./285416-star-revenge-5-5-destroyed-memories.json) |
 | Star Revenge 6: Luigi's Adventure | 260804 | [260804-star-revenge-6-luigis-adventure.json](./260804-star-revenge-6-luigis-adventure.json) |
 | Star Revenge 6.5: Wrath of The Dim. Flower PC Port | 378270 | [378270-star-revenge-6-5-wrath-of-the-dim-flower-pc-port.json](./378270-star-revenge-6-5-wrath-of-the-dim-flower-pc-port.json) |
 | Star Revenge 6.9: Luigi Lost in Time | 285679 | [285679-star-revenge-6-9-luigi-lost-in-time.json](./285679-star-revenge-6-9-luigi-lost-in-time.json) |
@@ -17761,6 +17765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strong Protection | 236338 | [236338-strong-protection.json](./236338-strong-protection.json) |
 | Strong: Search for the Mightiest Person | 246975 | [246975-strong-search-for-the-mightiest-person.json](./246975-strong-search-for-the-mightiest-person.json) |
 | StrongBadZone | 135863 | [135863-strongbadzone.json](./135863-strongbadzone.json) |
+| Strongford Penitentiary Lost Tape 91 | 285401 | [285401-strongford-penitentiary-lost-tape-91.json](./285401-strongford-penitentiary-lost-tape-91.json) |
 | Stronghold | 18539 | [18539-stronghold.json](./18539-stronghold.json) |
 | Stronghold | 965 | [965-stronghold.json](./965-stronghold.json) |
 | Stronghold 2 | 9460 | [9460-stronghold-2.json](./9460-stronghold-2.json) |
@@ -17960,6 +17965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sub Terra | 360717 | [360717-sub-terra.json](./360717-sub-terra.json) |
 | Sub Terra Draconis | 57099 | [57099-sub-terra-draconis.json](./57099-sub-terra-draconis.json) |
 | Sub Terra Draconis: Hidden Glade | 382887 | [382887-sub-terra-draconis-hidden-glade.json](./382887-sub-terra-draconis-hidden-glade.json) |
+| Sub Terra Draconis: Magma Grotto | 285426 | [285426-sub-terra-draconis-magma-grotto.json](./285426-sub-terra-draconis-magma-grotto.json) |
 | Sub Terrania | 22680 | [22680-sub-terrania.json](./22680-sub-terrania.json) |
 | Sub Wars | 104699 | [104699-sub-wars.json](./104699-sub-wars.json) |
 | Sub-Uber-Marine | 194380 | [194380-sub-uber-marine.json](./194380-sub-uber-marine.json) |
@@ -20217,6 +20223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Pipeline 2 | 13039 | [13039-super-pipeline-2.json](./13039-super-pipeline-2.json) |
 | Super Pipeline II | 39135 | [39135-super-pipeline-ii.json](./39135-super-pipeline-ii.json) |
 | Super Pitfall | 48233 | [48233-super-pitfall.json](./48233-super-pitfall.json) |
+| Super Pitfall II | 285408 | [285408-super-pitfall-ii.json](./285408-super-pitfall-ii.json) |
 | Super Pitfall: 30th Anniversary Edition | 48864 | [48864-super-pitfall-30th-anniversary-edition.json](./48864-super-pitfall-30th-anniversary-edition.json) |
 | Super Pixel Kid | 221706 | [221706-super-pixel-kid.json](./221706-super-pixel-kid.json) |
 | Super Pixel Maker | 181758 | [181758-super-pixel-maker.json](./181758-super-pixel-maker.json) |
