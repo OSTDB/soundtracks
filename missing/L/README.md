@@ -5850,6 +5850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lullaby | 256805 | [256805-lullaby.json](./256805-lullaby.json) |
 | Lullaby Data | 311639 | [311639-lullaby-data.json](./311639-lullaby-data.json) |
 | Lullaby Days | 166703 | [166703-lullaby-days.json](./166703-lullaby-days.json) |
+| Lullaby of Demonia | 298985 | [298985-lullaby-of-demonia.json](./298985-lullaby-of-demonia.json) |
 | Lullaby of Lost Soul | 332460 | [332460-lullaby-of-lost-soul.json](./332460-lullaby-of-lost-soul.json) |
 | Lulu & Ennoi: Sacred Suit Girls | 119621 | [119621-lulu-and-ennoi-sacred-suit-girls.json](./119621-lulu-and-ennoi-sacred-suit-girls.json) |
 | Lulu Fighter for LOL | 243096 | [243096-lulu-fighter-for-lol.json](./243096-lulu-fighter-for-lol.json) |
@@ -6160,6 +6161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lustful Professor | 369158 | [369158-lustful-professor.json](./369158-lustful-professor.json) |
 | Lustful Roommates | 367287 | [367287-lustful-roommates.json](./367287-lustful-roommates.json) |
 | Lustra: Lachea’s Tale | 346790 | [346790-lustra-lachea-s-tale.json](./346790-lustra-lachea-s-tale.json) |
+| Lustrous Heart | 298994 | [298994-lustrous-heart.json](./298994-lustrous-heart.json) |
 | Lusty Bubbles: Animated Edition | 395845 | [395845-lusty-bubbles-animated-edition.json](./395845-lusty-bubbles-animated-edition.json) |
 | Lusty Chapters | 384759 | [384759-lusty-chapters.json](./384759-lusty-chapters.json) |
 | Lusty God | 238763 | [238763-lusty-god.json](./238763-lusty-god.json) |
