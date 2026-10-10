@@ -756,6 +756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Arise: Beyond the Dawn Edition | 267775 | [267775-tales-of-arise-beyond-the-dawn-edition.json](./267775-tales-of-arise-beyond-the-dawn-edition.json) |
 | Tales of Arise: Classic Characters Costume & Arranged BGM Pack | 275691 | [275691-tales-of-arise-classic-characters-costume-and-arranged-bgm-pack.json](./275691-tales-of-arise-classic-characters-costume-and-arranged-bgm-pack.json) |
 | Tales of Arise: Deluxe Edition | 169243 | [169243-tales-of-arise-deluxe-edition.json](./169243-tales-of-arise-deluxe-edition.json) |
+| Tales of Arise: Elegant Costume Pack | 279541 | [279541-tales-of-arise-elegant-costume-pack.json](./279541-tales-of-arise-elegant-costume-pack.json) |
 | Tales of Arise: Premium Edition | 146339 | [146339-tales-of-arise-premium-edition.json](./146339-tales-of-arise-premium-edition.json) |
 | Tales of Arise: SAO Collaboration Pack | 259813 | [259813-tales-of-arise-sao-collaboration-pack.json](./259813-tales-of-arise-sao-collaboration-pack.json) |
 | Tales of Arise: Ultimate Edition | 169244 | [169244-tales-of-arise-ultimate-edition.json](./169244-tales-of-arise-ultimate-edition.json) |
@@ -14410,6 +14411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Timension | 75059 | [75059-timension.json](./75059-timension.json) |
 | Timeout | 305953 | [305953-timeout.json](./305953-timeout.json) |
 | TimeOut | 385582 | [385582-timeout.json](./385582-timeout.json) |
+| Timeout Bistro | 279534 | [279534-timeout-bistro.json](./279534-timeout-bistro.json) |
 | Timepiece Ensemble | 216242 | [216242-timepiece-ensemble.json](./216242-timepiece-ensemble.json) |
 | Timepunk | 220697 | [220697-timepunk.json](./220697-timepunk.json) |
 | Timerift Raiders: The Past Awakens | 338268 | [338268-timerift-raiders-the-past-awakens.json](./338268-timerift-raiders-the-past-awakens.json) |
@@ -15022,6 +15024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | To the Finale. | 373713 | [373713-to-the-finale.json](./373713-to-the-finale.json) |
 | To The Grave: The Hunters of Faenora | 358385 | [358385-to-the-grave-the-hunters-of-faenora.json](./358385-to-the-grave-the-hunters-of-faenora.json) |
 | To The Grave: The Wildlands of Faenora | 307976 | [307976-to-the-grave-the-wildlands-of-faenora.json](./307976-to-the-grave-the-wildlands-of-faenora.json) |
+| To the Hall of the Mountain King | 279524 | [279524-to-the-hall-of-the-mountain-king.json](./279524-to-the-hall-of-the-mountain-king.json) |
 | To the HeIghts of My Heart | 178044 | [178044-to-the-heights-of-my-heart.json](./178044-to-the-heights-of-my-heart.json) |
 | To the Home | 405478 | [405478-to-the-home.json](./405478-to-the-home.json) |
 | To the Kingdom | 352287 | [352287-to-the-kingdom.json](./352287-to-the-kingdom.json) |
@@ -19665,6 +19668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Try to Survive | 116552 | [116552-try-to-survive.json](./116552-try-to-survive.json) |
 | Try to Win 2 | 196055 | [196055-try-to-win-2.json](./196055-try-to-win-2.json) |
 | Try. Die. Repeat. | 133875 | [133875-try-die-repeat.json](./133875-try-die-repeat.json) |
+| TryAndLove | 279555 | [279555-tryandlove.json](./279555-tryandlove.json) |
 | TryAngle: Shapes Warfare | 373322 | [373322-tryangle-shapes-warfare.json](./373322-tryangle-shapes-warfare.json) |
 | Tryhard | 330935 | [330935-tryhard.json](./330935-tryhard.json) |
 | Trying | 225719 | [225719-trying.json](./225719-trying.json) |
