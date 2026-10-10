@@ -677,6 +677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vectorial Rush | 365762 | [365762-vectorial-rush.json](./365762-vectorial-rush.json) |
 | Vectorio: Frosted Defenses Pack | 222897 | [222897-vectorio-frosted-defenses-pack.json](./222897-vectorio-frosted-defenses-pack.json) |
 | Vectorium | 65787 | [65787-vectorium.json](./65787-vectorium.json) |
+| Vectorman | 310698 | [310698-vectorman.json](./310698-vectorman.json) |
 | VectorMan | 16033 | [16033-vectorman.json](./16033-vectorman.json) |
 | Vectors | 172042 | [172042-vectors.json](./172042-vectors.json) |
 | Vectrace | 46507 | [46507-vectrace.json](./46507-vectrace.json) |
