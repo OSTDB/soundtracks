@@ -4512,6 +4512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Graceful Danmaku Festival | 56130 | [56130-graceful-danmaku-festival.json](./56130-graceful-danmaku-festival.json) |
 | Graceful Explosion Machine | 26857 | [26857-graceful-explosion-machine.json](./26857-graceful-explosion-machine.json) |
 | Graceful Flying Vehicle | 368548 | [368548-graceful-flying-vehicle.json](./368548-graceful-flying-vehicle.json) |
+| Graces: Posthumous Wish | 297915 | [297915-graces-posthumous-wish.json](./297915-graces-posthumous-wish.json) |
 | Graceward: Complete Edition | 231490 | [231490-graceward-complete-edition.json](./231490-graceward-complete-edition.json) |
 | Gracia | 301844 | [301844-gracia.json](./301844-gracia.json) |
 | Gracie & Mike: Interstellar Mercenary Exterminators | 176771 | [176771-gracie-and-mike-interstellar-mercenary-exterminators.json](./176771-gracie-and-mike-interstellar-mercenary-exterminators.json) |
