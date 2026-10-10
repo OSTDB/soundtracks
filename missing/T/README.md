@@ -3269,6 +3269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thank You Bus Driver | 416605 | [416605-thank-you-bus-driver.json](./416605-thank-you-bus-driver.json) |
 | Thank You For Your Application | 312791 | [312791-thank-you-for-your-application.json](./312791-thank-you-for-your-application.json) |
 | Thank You for Your Time | 367486 | [367486-thank-you-for-your-time.json](./367486-thank-you-for-your-time.json) |
+| Thanks Merlin | 297344 | [297344-thanks-merlin.json](./297344-thanks-merlin.json) |
 | Thanks, Come Again | 245389 | [245389-thanks-come-again.json](./245389-thanks-come-again.json) |
 | Thanks, Light. | 262934 | [262934-thanks-light.json](./262934-thanks-light.json) |
 | Thanksgiving | 184573 | [184573-thanksgiving.json](./184573-thanksgiving.json) |
@@ -8295,6 +8296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lurking Fear | 374242 | [374242-the-lurking-fear.json](./374242-the-lurking-fear.json) |
 | The Lurking Horror | 12180 | [12180-the-lurking-horror.json](./12180-the-lurking-horror.json) |
 | The Lust City | 319070 | [319070-the-lust-city.json](./319070-the-lust-city.json) |
+| The Lust City 2 | 297356 | [297356-the-lust-city-2.json](./297356-the-lust-city-2.json) |
 | The Lustful Champion | 384753 | [384753-the-lustful-champion.json](./384753-the-lustful-champion.json) |
 | The m0rg VS keys | 93721 | [93721-the-m0rg-vs-keys.json](./93721-the-m0rg-vs-keys.json) |
 | The Machine | 79257 | [79257-the-machine.json](./79257-the-machine.json) |
@@ -12768,6 +12770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thugging | 370682 | [370682-thugging.json](./370682-thugging.json) |
 | Thugs Law | 114827 | [114827-thugs-law.json](./114827-thugs-law.json) |
 | Thukothea Defender | 159855 | [159855-thukothea-defender.json](./159855-thukothea-defender.json) |
+| Thule | 297329 | [297329-thule.json](./297329-thule.json) |
 | Thumb Buggy | 243086 | [243086-thumb-buggy.json](./243086-thumb-buggy.json) |
 | Thumb Drift | 58840 | [58840-thumb-drift.json](./58840-thumb-drift.json) |
 | Thumb Fighter | 154095 | [154095-thumb-fighter.json](./154095-thumb-fighter.json) |
@@ -15140,6 +15143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toilet Hero | 352148 | [352148-toilet-hero.json](./352148-toilet-hero.json) |
 | Toilet in Wonderland | 25015 | [25015-toilet-in-wonderland.json](./25015-toilet-in-wonderland.json) |
 | Toilet Management Simulator | 138586 | [138586-toilet-management-simulator.json](./138586-toilet-management-simulator.json) |
+| Toilet Paper Please | 297332 | [297332-toilet-paper-please.json](./297332-toilet-paper-please.json) |
 | Toilet Paper Simulator | 248890 | [248890-toilet-paper-simulator.json](./248890-toilet-paper-simulator.json) |
 | Toilet paper wants to be a basketball | 152735 | [152735-toilet-paper-wants-to-be-a-basketball.json](./152735-toilet-paper-wants-to-be-a-basketball.json) |
 | Toilet Paper War | 158601 | [158601-toilet-paper-war.json](./158601-toilet-paper-war.json) |
@@ -15753,6 +15757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Too Many Sheep | 249838 | [249838-too-many-sheep.json](./249838-too-many-sheep.json) |
 | Too Many Snakes | 233082 | [233082-too-many-snakes.json](./233082-too-many-snakes.json) |
 | Too Slime and Snake | 218410 | [218410-too-slime-and-snake.json](./218410-too-slime-and-snake.json) |
+| Too Small To Matter | 297363 | [297363-too-small-to-matter.json](./297363-too-small-to-matter.json) |
 | Too Tired To Die | 317301 | [317301-too-tired-to-die.json](./317301-too-tired-to-die.json) |
 | Too White Basketball | 119636 | [119636-too-white-basketball.json](./119636-too-white-basketball.json) |
 | TooBold 3 | 97102 | [97102-toobold-3.json](./97102-toobold-3.json) |
@@ -16772,6 +16777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower Up | 346547 | [346547-tower-up.json](./346547-tower-up.json) |
 | Tower Walker - The Ancient Ones | 252259 | [252259-tower-walker-the-ancient-ones.json](./252259-tower-walker-the-ancient-ones.json) |
 | Tower Walker: MMO Grind Simulator | 217504 | [217504-tower-walker-mmo-grind-simulator.json](./217504-tower-walker-mmo-grind-simulator.json) |
+| Tower Walker: The Northlanders | 297323 | [297323-tower-walker-the-northlanders.json](./297323-tower-walker-the-northlanders.json) |
 | Tower War: Tactical Conquest | 245333 | [245333-tower-war-tactical-conquest.json](./245333-tower-war-tactical-conquest.json) |
 | Tower Words | 195130 | [195130-tower-words.json](./195130-tower-words.json) |
 | Tower! Simulator 3: CYVR Airport | 396509 | [396509-tower-simulator-3-cyvr-airport.json](./396509-tower-simulator-3-cyvr-airport.json) |
@@ -19776,6 +19782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tumble Egg | 333184 | [333184-tumble-egg.json](./333184-tumble-egg.json) |
 | Tumble Jumble | 206067 | [206067-tumble-jumble.json](./206067-tumble-jumble.json) |
 | Tumble Marble | 393605 | [393605-tumble-marble.json](./393605-tumble-marble.json) |
+| Tumble Rush | 297337 | [297337-tumble-rush.json](./297337-tumble-rush.json) |
 | Tumble Toys: Aviation | 215897 | [215897-tumble-toys-aviation.json](./215897-tumble-toys-aviation.json) |
 | Tumble Troopers | 327214 | [327214-tumble-troopers.json](./327214-tumble-troopers.json) |
 | Tumble Tundra | 259279 | [259279-tumble-tundra.json](./259279-tumble-tundra.json) |
