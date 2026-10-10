@@ -2297,6 +2297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Surf | 187827 | [187827-endless-surf.json](./187827-endless-surf.json) |
 | Endless Swarm | 70626 | [70626-endless-swarm.json](./70626-endless-swarm.json) |
 | Endless Thief: a Furry Stealth Adventure | 201567 | [201567-endless-thief-a-furry-stealth-adventure.json](./201567-endless-thief-a-furry-stealth-adventure.json) |
+| Endless Thunder | 284278 | [284278-endless-thunder.json](./284278-endless-thunder.json) |
 | Endless Turns | 117807 | [117807-endless-turns.json](./117807-endless-turns.json) |
 | Endless TV Tycoon | 352855 | [352855-endless-tv-tycoon.json](./352855-endless-tv-tycoon.json) |
 | Endless Vine | 374798 | [374798-endless-vine.json](./374798-endless-vine.json) |
@@ -4163,6 +4164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Every day is more incredible than the previous | 169257 | [169257-every-day-is-more-incredible-than-the-previous.json](./169257-every-day-is-more-incredible-than-the-previous.json) |
 | Every Ending Is A New Beginning | 184131 | [184131-every-ending-is-a-new-beginning.json](./184131-every-ending-is-a-new-beginning.json) |
 | Every Extend | 94573 | [94573-every-extend.json](./94573-every-extend.json) |
+| Every Extend Extra: Pico-8 Edition | 284307 | [284307-every-extend-extra-pico-8-edition.json](./284307-every-extend-extra-pico-8-edition.json) |
 | Every Farm | 227950 | [227950-every-farm.json](./227950-every-farm.json) |
 | Every Hue of You | 302954 | [302954-every-hue-of-you.json](./302954-every-hue-of-you.json) |
 | Every Morning My Alarm Clock Kills Me | 387001 | [387001-every-morning-my-alarm-clock-kills-me.json](./387001-every-morning-my-alarm-clock-kills-me.json) |
