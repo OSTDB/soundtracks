@@ -286,6 +286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madagascar: Escape 2 Africa | 116787 | [116787-madagascar-escape-2-africa.json](./116787-madagascar-escape-2-africa.json) |
 | Madagascar: Join the Circus | 25186 | [25186-madagascar-join-the-circus.json](./25186-madagascar-join-the-circus.json) |
 | Madagascar: Operation Penguin | 3766 | [3766-madagascar-operation-penguin.json](./3766-madagascar-operation-penguin.json) |
+| Madam of Malice | 309435 | [309435-madam-of-malice.json](./309435-madam-of-malice.json) |
 | Madame Ching's Dungeon of Ecstasy | 133802 | [133802-madame-chings-dungeon-of-ecstasy.json](./133802-madame-chings-dungeon-of-ecstasy.json) |
 | Madame Claudine's Curious Curiousities | 394467 | [394467-madame-claudines-curious-curiousities.json](./394467-madame-claudines-curious-curiousities.json) |
 | Madara Saga: Youchien Senki Madara | 57072 | [57072-madara-saga-youchien-senki-madara.json](./57072-madara-saga-youchien-senki-madara.json) |
@@ -1552,6 +1553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Make Way: Legends Pack | 399141 | [399141-make-way-legends-pack.json](./399141-make-way-legends-pack.json) |
 | Make Words or Die | 174317 | [174317-make-words-or-die.json](./174317-make-words-or-die.json) |
 | Make your Adventure | 135011 | [135011-make-your-adventure.json](./135011-make-your-adventure.json) |
+| Make Your Country Great Again | 309541 | [309541-make-your-country-great-again.json](./309541-make-your-country-great-again.json) |
 | Make Your Kingdom | 112781 | [112781-make-your-kingdom.json](./112781-make-your-kingdom.json) |
 | Make Your Move | 348322 | [348322-make-your-move.json](./348322-make-your-move.json) |
 | Make Zombies Great Again | 99149 | [99149-make-zombies-great-again.json](./99149-make-zombies-great-again.json) |
@@ -9112,6 +9114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Momentum | 174092 | [174092-momentum.json](./174092-momentum.json) |
 | Momentum | 183386 | [183386-momentum.json](./183386-momentum.json) |
 | Momentum | 199918 | [199918-momentum.json](./199918-momentum.json) |
+| Momentum Mayhem | 309560 | [309560-momentum-mayhem.json](./309560-momentum-mayhem.json) |
 | Momentum Missile Mayhem | 388200 | [388200-momentum-missile-mayhem.json](./388200-momentum-missile-mayhem.json) |
 | Momentum Missile Mayhem 2015 | 388205 | [388205-momentum-missile-mayhem-2015.json](./388205-momentum-missile-mayhem-2015.json) |
 | Momentum Missile Mayhem 3 | 388202 | [388202-momentum-missile-mayhem-3.json](./388202-momentum-missile-mayhem-3.json) |
