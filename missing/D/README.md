@@ -6966,6 +6966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DoggoGuessr | 350626 | [350626-doggoguessr.json](./350626-doggoguessr.json) |
 | Doggone | 120896 | [120896-doggone.json](./120896-doggone.json) |
 | DoggoPromenade | 398349 | [398349-doggopromenade.json](./398349-doggopromenade.json) |
+| Doggos in Dungeon | 331364 | [331364-doggos-in-dungeon.json](./331364-doggos-in-dungeon.json) |
 | Doggy | 262423 | [262423-doggy.json](./262423-doggy.json) |
 | Doggy | 304054 | [304054-doggy.json](./304054-doggy.json) |
 | Doggy Don't Care | 251749 | [251749-doggy-dont-care.json](./251749-doggy-dont-care.json) |
