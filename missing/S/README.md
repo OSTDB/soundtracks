@@ -9055,6 +9055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snakes & Ladders | 147984 | [147984-snakes-and-ladders.json](./147984-snakes-and-ladders.json) |
 | Snakes & Ladders in Aquarium | 54379 | [54379-snakes-and-ladders-in-aquarium.json](./54379-snakes-and-ladders-in-aquarium.json) |
 | Snakes and Ladders | 106570 | [106570-snakes-and-ladders.json](./106570-snakes-and-ladders.json) |
+| Snakes and Ladders | 312269 | [312269-snakes-and-ladders.json](./312269-snakes-and-ladders.json) |
 | Snakes and Ladders 3D | 103542 | [103542-snakes-and-ladders-3d.json](./103542-snakes-and-ladders-3d.json) |
 | Snakes and Ladders Championship | 349810 | [349810-snakes-and-ladders-championship.json](./349810-snakes-and-ladders-championship.json) |
 | Snakes in Hibernation | 396205 | [396205-snakes-in-hibernation.json](./396205-snakes-in-hibernation.json) |
@@ -10027,6 +10028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire | 243634 | [243634-solitaire.json](./243634-solitaire.json) |
 | Solitaire | 243701 | [243701-solitaire.json](./243701-solitaire.json) |
 | Solitaire | 246627 | [246627-solitaire.json](./246627-solitaire.json) |
+| Solitaire | 312270 | [312270-solitaire.json](./312270-solitaire.json) |
 | Solitaire | 313972 | [313972-solitaire.json](./313972-solitaire.json) |
 | Solitaire | 80744 | [80744-solitaire.json](./80744-solitaire.json) |
 | Solitaire | 86374 | [86374-solitaire.json](./86374-solitaire.json) |
@@ -12898,6 +12900,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speedmap Snack Pack | 270846 | [270846-speedmap-snack-pack.json](./270846-speedmap-snack-pack.json) |
 | Speedmap Snack Pack 2: Cosmic Hunger | 270847 | [270847-speedmap-snack-pack-2-cosmic-hunger.json](./270847-speedmap-snack-pack-2-cosmic-hunger.json) |
 | Speedmapping Pack 189: Doom / Satanic Mechanisms | 312912 | [312912-speedmapping-pack-189-doom-satanic-mechanisms.json](./312912-speedmapping-pack-189-doom-satanic-mechanisms.json) |
+| Speedmapping Pack 218: Episode 4 | 312319 | [312319-speedmapping-pack-218-episode-4.json](./312319-speedmapping-pack-218-episode-4.json) |
+| Speedmapping Pack 221: Bridges | 312317 | [312317-speedmapping-pack-221-bridges.json](./312317-speedmapping-pack-221-bridges.json) |
+| Speedmapping Pack 224: Prototype Jam #4 | 312318 | [312318-speedmapping-pack-224-prototype-jam-4.json](./312318-speedmapping-pack-224-prototype-jam-4.json) |
 | Speedollama | 263766 | [263766-speedollama.json](./263766-speedollama.json) |
 | Speedonauts | 224661 | [224661-speedonauts.json](./224661-speedonauts.json) |
 | Speedpunk | 151147 | [151147-speedpunk.json](./151147-speedpunk.json) |
@@ -15664,6 +15669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starship Dice | 373195 | [373195-starship-dice.json](./373195-starship-dice.json) |
 | Starship Eleven | 358805 | [358805-starship-eleven.json](./358805-starship-eleven.json) |
 | Starship Eleven Deluxe | 360605 | [360605-starship-eleven-deluxe.json](./360605-starship-eleven-deluxe.json) |
+| Starship Enterprise | 312276 | [312276-starship-enterprise.json](./312276-starship-enterprise.json) |
 | Starship Enterprise | 71224 | [71224-starship-enterprise.json](./71224-starship-enterprise.json) |
 | Starship Escape | 57113 | [57113-starship-escape.json](./57113-starship-escape.json) |
 | Starship EVO | 138009 | [138009-starship-evo.json](./138009-starship-evo.json) |
