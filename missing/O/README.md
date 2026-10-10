@@ -846,6 +846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Okuplok Slaughter Map | 144389 | [144389-okuplok-slaughter-map.json](./144389-okuplok-slaughter-map.json) |
 | Okuri | 286131 | [286131-okuri.json](./286131-okuri.json) |
 | Ola! Borijin Hore Yuke! Brazil | 291707 | [291707-ola-borijin-hore-yuke-brazil.json](./291707-ola-borijin-hore-yuke-brazil.json) |
+| Olaf and the Crowning Hangover | 326125 | [326125-olaf-and-the-crowning-hangover.json](./326125-olaf-and-the-crowning-hangover.json) |
 | Olaguna Chronicles | 128372 | [128372-olaguna-chronicles.json](./128372-olaguna-chronicles.json) |
 | Olav & the Lute | 131996 | [131996-olav-and-the-lute.json](./131996-olav-and-the-lute.json) |
 | Olber's Paradox | 392816 | [392816-olbers-paradox.json](./392816-olbers-paradox.json) |
@@ -1012,6 +1013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Omega One | 55016 | [55016-omega-one.json](./55016-omega-one.json) |
 | Omega Orb | 13744 | [13744-omega-orb.json](./13744-omega-orb.json) |
 | Omega Pattern | 28908 | [28908-omega-pattern.json](./28908-omega-pattern.json) |
+| Omega Phenex Commenced Project Six | 326124 | [326124-omega-phenex-commenced-project-six.json](./326124-omega-phenex-commenced-project-six.json) |
 | Omega Pilot | 199364 | [199364-omega-pilot.json](./199364-omega-pilot.json) |
 | Omega Protocol | 374633 | [374633-omega-protocol.json](./374633-omega-protocol.json) |
 | Omega Quintet: Limited Edition | 166239 | [166239-omega-quintet-limited-edition.json](./166239-omega-quintet-limited-edition.json) |
@@ -1616,6 +1618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Room Dungeon | 319069 | [319069-one-room-dungeon.json](./319069-one-room-dungeon.json) |
 | One Room Hotel | 178654 | [178654-one-room-hotel.json](./178654-one-room-hotel.json) |
 | One Room: Prisoner's Dilemma | 304353 | [304353-one-room-prisoners-dilemma.json](./304353-one-room-prisoners-dilemma.json) |
+| One Room: Yui Hanasaka Memorial | 326122 | [326122-one-room-yui-hanasaka-memorial.json](./326122-one-room-yui-hanasaka-memorial.json) |
 | One Rotten Oath | 358376 | [358376-one-rotten-oath.json](./358376-one-rotten-oath.json) |
 | One S'More | 258706 | [258706-one-smore.json](./258706-one-smore.json) |
 | One Shell Straight to Hell | 141646 | [141646-one-shell-straight-to-hell.json](./141646-one-shell-straight-to-hell.json) |
