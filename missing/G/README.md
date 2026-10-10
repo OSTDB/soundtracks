@@ -1456,6 +1456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gear.Club Unlimited 3: Performance Cars Pack | 385183 | [385183-gear-club-unlimited-3-performance-cars-pack.json](./385183-gear-club-unlimited-3-performance-cars-pack.json) |
 | Gear.Club Unlimited: Super Cars Pack | 238212 | [238212-gear-club-unlimited-super-cars-pack.json](./238212-gear-club-unlimited-super-cars-pack.json) |
 | Gearbits | 258457 | [258457-gearbits.json](./258457-gearbits.json) |
+| Gearbits: Gear Angels | 287029 | [287029-gearbits-gear-angels.json](./287029-gearbits-gear-angels.json) |
 | Gearbits: Raider Expedition | 311094 | [311094-gearbits-raider-expedition.json](./311094-gearbits-raider-expedition.json) |
 | Geared 2! | 92145 | [92145-geared-2.json](./92145-geared-2.json) |
 | Gearend | 29963 | [29963-gearend.json](./29963-gearend.json) |
@@ -6054,6 +6055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guardian Legend | 284351 | [284351-guardian-legend.json](./284351-guardian-legend.json) |
 | Guardian Master VR | 113735 | [113735-guardian-master-vr.json](./113735-guardian-master-vr.json) |
 | Guardian of Altai | 362923 | [362923-guardian-of-altai.json](./362923-guardian-of-altai.json) |
+| Guardian of Civilization | 286998 | [286998-guardian-of-civilization.json](./286998-guardian-of-civilization.json) |
 | Guardian of Dynamite: A Bomb Protector | 242022 | [242022-guardian-of-dynamite-a-bomb-protector.json](./242022-guardian-of-dynamite-a-bomb-protector.json) |
 | Guardian of Hidden Land | 352171 | [352171-guardian-of-hidden-land.json](./352171-guardian-of-hidden-land.json) |
 | Guardian of Immortal Mountain | 97904 | [97904-guardian-of-immortal-mountain.json](./97904-guardian-of-immortal-mountain.json) |
@@ -6671,6 +6673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guns n Zombies | 16854 | [16854-guns-n-zombies.json](./16854-guns-n-zombies.json) |
 | Guns N' Boxes | 24064 | [24064-guns-n-boxes.json](./24064-guns-n-boxes.json) |
 | Guns N' Runs | 144927 | [144927-guns-n-runs.json](./144927-guns-n-runs.json) |
+| Guns n' Souls feat. Song Summoner | 287009 | [287009-guns-n-souls-feat-song-summoner.json](./287009-guns-n-souls-feat-song-summoner.json) |
 | Guns of Bullshit | 129723 | [129723-guns-of-bullshit.json](./129723-guns-of-bullshit.json) |
 | Guns of Fort Defiance | 24797 | [24797-guns-of-fort-defiance.json](./24797-guns-of-fort-defiance.json) |
 | Guns of Fury | 312358 | [312358-guns-of-fury.json](./312358-guns-of-fury.json) |
