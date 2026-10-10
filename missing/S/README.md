@@ -960,6 +960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sand and Rust | 124582 | [124582-sand-and-rust.json](./124582-sand-and-rust.json) |
 | Sand Castles | 161387 | [161387-sand-castles.json](./161387-sand-castles.json) |
 | Sand In a Box | 306434 | [306434-sand-in-a-box.json](./306434-sand-in-a-box.json) |
+| Sand Land: Custom Vehicle Colors - 3 Types | 311735 | [311735-sand-land-custom-vehicle-colors-3-types.json](./311735-sand-land-custom-vehicle-colors-3-types.json) |
 | Sand Legends | 335078 | [335078-sand-legends.json](./335078-sand-legends.json) |
 | Sand Painting Game | 140301 | [140301-sand-painting-game.json](./140301-sand-painting-game.json) |
 | Sand Pirates | 181129 | [181129-sand-pirates.json](./181129-sand-pirates.json) |
@@ -8186,6 +8187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slide to finish | 111477 | [111477-slide-to-finish.json](./111477-slide-to-finish.json) |
 | Slide to Solve | 329592 | [329592-slide-to-solve.json](./329592-slide-to-solve.json) |
 | Slide Together | 184401 | [184401-slide-together.json](./184401-slide-together.json) |
+| Slide Treasures: Lydia's Hunt | 311778 | [311778-slide-treasures-lydias-hunt.json](./311778-slide-treasures-lydias-hunt.json) |
 | Slide Viking: Treasure's Path | 395664 | [395664-slide-viking-treasures-path.json](./395664-slide-viking-treasures-path.json) |
 | Slide! Throw! Snow Party | 379977 | [379977-slide-throw-snow-party.json](./379977-slide-throw-snow-party.json) |
 | SlideNGlide | 336015 | [336015-slidenglide.json](./336015-slidenglide.json) |
@@ -11071,6 +11073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic.exe: Dark Souls Remake | 369098 | [369098-sonic-exe-dark-souls-remake.json](./369098-sonic-exe-dark-souls-remake.json) |
 | Sonic.EXE: The Assault | 321068 | [321068-sonic-exe-the-assault.json](./321068-sonic-exe-the-assault.json) |
 | Sonic.Exe: The Spirits of Hell | 255852 | [255852-sonic-exe-the-spirits-of-hell.json](./255852-sonic-exe-the-spirits-of-hell.json) |
+| Sonic.Nes | 311752 | [311752-sonic-nes.json](./311752-sonic-nes.json) |
 | Sonic's Bomb Squad | 237489 | [237489-sonics-bomb-squad.json](./237489-sonics-bomb-squad.json) |
 | Sonic's Casino Poker | 261291 | [261291-sonics-casino-poker.json](./261291-sonics-casino-poker.json) |
 | Sonic's Edusoft | 63901 | [63901-sonics-edusoft.json](./63901-sonics-edusoft.json) |
@@ -18132,6 +18135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sugar Mess: Let's Play Jolly Battle | 263752 | [263752-sugar-mess-lets-play-jolly-battle.json](./263752-sugar-mess-lets-play-jolly-battle.json) |
 | Sugar Overdrive | 332985 | [332985-sugar-overdrive.json](./332985-sugar-overdrive.json) |
 | Sugar Ray Leonard: Talking Boxing | 198930 | [198930-sugar-ray-leonard-talking-boxing.json](./198930-sugar-ray-leonard-talking-boxing.json) |
+| Sugar Rush | 311738 | [311738-sugar-rush.json](./311738-sugar-rush.json) |
 | Sugar Rush | 58209 | [58209-sugar-rush.json](./58209-sugar-rush.json) |
 | Sugar Service | 379590 | [379590-sugar-service.json](./379590-sugar-service.json) |
 | Sugar Shack | 236767 | [236767-sugar-shack.json](./236767-sugar-shack.json) |
