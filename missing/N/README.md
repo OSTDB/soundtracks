@@ -287,6 +287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nanos World | 152927 | [152927-nanos-world.json](./152927-nanos-world.json) |
 | Nanosaur Extreme! | 57658 | [57658-nanosaur-extreme.json](./57658-nanosaur-extreme.json) |
 | Nanosaur II: Hatchling | 63257 | [63257-nanosaur-ii-hatchling.json](./63257-nanosaur-ii-hatchling.json) |
+| Nanosmiles | 295669 | [295669-nanosmiles.json](./295669-nanosmiles.json) |
 | Nanospace | 27661 | [27661-nanospace.json](./27661-nanospace.json) |
 | Nanostray 2 | 20992 | [20992-nanostray-2.json](./20992-nanostray-2.json) |
 | Nanoswarm | 110971 | [110971-nanoswarm.json](./110971-nanoswarm.json) |
@@ -900,6 +901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nblocks: Builder Pack 2 | 298592 | [298592-nblocks-builder-pack-2.json](./298592-nblocks-builder-pack-2.json) |
 | Nblocks: Builder Pack 3 | 298590 | [298590-nblocks-builder-pack-3.json](./298590-nblocks-builder-pack-3.json) |
 | Nblocks: Builder Pack 4 | 298591 | [298591-nblocks-builder-pack-4.json](./298591-nblocks-builder-pack-4.json) |
+| Nblocks: Unblock Your Creativity | 295682 | [295682-nblocks-unblock-your-creativity.json](./295682-nblocks-unblock-your-creativity.json) |
 | NBody | 276183 | [276183-nbody.json](./276183-nbody.json) |
 | NC Tower Defense 2 | 37014 | [37014-nc-tower-defense-2.json](./37014-nc-tower-defense-2.json) |
 | NCAA Basketball 09 | 7109 | [7109-ncaa-basketball-09.json](./7109-ncaa-basketball-09.json) |
@@ -2336,6 +2338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ngolf: Platinum Edition | 317247 | [317247-ngolf-platinum-edition.json](./317247-ngolf-platinum-edition.json) |
 | Ngolf: Premium Edition | 308791 | [308791-ngolf-premium-edition.json](./308791-ngolf-premium-edition.json) |
 | Ngolf: Special Edition | 304774 | [304774-ngolf-special-edition.json](./304774-ngolf-special-edition.json) |
+| Ngolf: Ultimate Edition | 295679 | [295679-ngolf-ultimate-edition.json](./295679-ngolf-ultimate-edition.json) |
 | Ngolf: Western Fairways | 288275 | [288275-ngolf-western-fairways.json](./288275-ngolf-western-fairways.json) |
 | NGT: Next Generation Tennis | 49320 | [49320-ngt-next-generation-tennis.json](./49320-ngt-next-generation-tennis.json) |
 | NGU Idle | 124926 | [124926-ngu-idle.json](./124926-ngu-idle.json) |
@@ -3182,6 +3185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Hattori-kun | 346042 | [346042-ninja-hattori-kun.json](./346042-ninja-hattori-kun.json) |
 | Ninja Hattori-kun | 58882 | [58882-ninja-hattori-kun.json](./58882-ninja-hattori-kun.json) |
 | Ninja Hayate HD Remaster | 341094 | [341094-ninja-hayate-hd-remaster.json](./341094-ninja-hayate-hd-remaster.json) |
+| Ninja Hero Cats | 295665 | [295665-ninja-hero-cats.json](./295665-ninja-hero-cats.json) |
 | Ninja Hero Revenge | 102728 | [102728-ninja-hero-revenge.json](./102728-ninja-hero-revenge.json) |
 | Ninja Hunter | 64635 | [64635-ninja-hunter.json](./64635-ninja-hunter.json) |
 | Ninja in Training | 74337 | [74337-ninja-in-training.json](./74337-ninja-in-training.json) |
