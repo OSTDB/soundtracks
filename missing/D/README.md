@@ -2969,6 +2969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deck of Ashes: Complete Edition | 196816 | [196816-deck-of-ashes-complete-edition.json](./196816-deck-of-ashes-complete-edition.json) |
 | Deck of Ashes: Tome of Dimensions | 197665 | [197665-deck-of-ashes-tome-of-dimensions.json](./197665-deck-of-ashes-tome-of-dimensions.json) |
 | Deck of Bullets | 258462 | [258462-deck-of-bullets.json](./258462-deck-of-bullets.json) |
+| Deck of Darkness: Infernal Depths | 295136 | [295136-deck-of-darkness-infernal-depths.json](./295136-deck-of-darkness-infernal-depths.json) |
 | Deck of Defense | 336663 | [336663-deck-of-defense.json](./336663-deck-of-defense.json) |
 | Deck of Destiny: Battleforge | 346667 | [346667-deck-of-destiny-battleforge.json](./346667-deck-of-destiny-battleforge.json) |
 | Deck of Haunts | 320726 | [320726-deck-of-haunts.json](./320726-deck-of-haunts.json) |
