@@ -7787,6 +7787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyperspace Invaders II: Pixel Edition | 20923 | [20923-hyperspace-invaders-ii-pixel-edition.json](./20923-hyperspace-invaders-ii-pixel-edition.json) |
 | Hyperspace Services | 184085 | [184085-hyperspace-services.json](./184085-hyperspace-services.json) |
 | Hyperspace Throw Patrol | 184991 | [184991-hyperspace-throw-patrol.json](./184991-hyperspace-throw-patrol.json) |
+| Hyperspacer | 293529 | [293529-hyperspacer.json](./293529-hyperspacer.json) |
 | Hyperspeed - Race with Friends | 115450 | [115450-hyperspeed-race-with-friends.json](./115450-hyperspeed-race-with-friends.json) |
 | Hyperstacks | 137604 | [137604-hyperstacks.json](./137604-hyperstacks.json) |
 | Hyperstar | 168649 | [168649-hyperstar.json](./168649-hyperstar.json) |
