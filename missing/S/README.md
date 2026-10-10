@@ -574,6 +574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sakura Santa | 34032 | [34032-sakura-santa.json](./34032-sakura-santa.json) |
 | Sakura School Simulator | 208944 | [208944-sakura-school-simulator.json](./208944-sakura-school-simulator.json) |
 | Sakura Stars | 132662 | [132662-sakura-stars.json](./132662-sakura-stars.json) |
+| Sakura Street: Tycoon | 296786 | [296786-sakura-street-tycoon.json](./296786-sakura-street-tycoon.json) |
 | Sakura Succubus | 129707 | [129707-sakura-succubus.json](./129707-sakura-succubus.json) |
 | Sakura Succubus 2 | 146837 | [146837-sakura-succubus-2.json](./146837-sakura-succubus-2.json) |
 | Sakura Succubus 3 | 152892 | [152892-sakura-succubus-3.json](./152892-sakura-succubus-3.json) |
@@ -1752,6 +1753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scary Nikki | 229668 | [229668-scary-nikki.json](./229668-scary-nikki.json) |
 | Scary Pictures: Yavez - Seven Deadly Sins | 235859 | [235859-scary-pictures-yavez-seven-deadly-sins.json](./235859-scary-pictures-yavez-seven-deadly-sins.json) |
 | Scary Robber: Home Clash | 227484 | [227484-scary-robber-home-clash.json](./227484-scary-robber-home-clash.json) |
+| Scary School | 296762 | [296762-scary-school.json](./296762-scary-school.json) |
 | Scary Shadow Spot: Bitter Glass | 328228 | [328228-scary-shadow-spot-bitter-glass.json](./328228-scary-shadow-spot-bitter-glass.json) |
 | Scary Shawarma Shop | 410837 | [410837-scary-shawarma-shop.json](./410837-scary-shawarma-shop.json) |
 | Scary Spider Train Survival 1 | 245370 | [245370-scary-spider-train-survival-1.json](./245370-scary-spider-train-survival-1.json) |
@@ -1871,6 +1873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | School Exit Class 8 | 360079 | [360079-school-exit-class-8.json](./360079-school-exit-class-8.json) |
 | School Fantasy | 267423 | [267423-school-fantasy.json](./267423-school-fantasy.json) |
 | School Girl/Zombie Hunter | 41827 | [41827-school-girl-zombie-hunter.json](./41827-school-girl-zombie-hunter.json) |
+| School Girls Dance | 296755 | [296755-school-girls-dance.json](./296755-school-girls-dance.json) |
 | School Grounds | 112738 | [112738-school-grounds.json](./112738-school-grounds.json) |
 | School Guard | 385866 | [385866-school-guard.json](./385866-school-guard.json) |
 | School Heaven: Love Ero Harem - Momoiro Typhoon | 77924 | [77924-school-heaven-love-ero-harem-momoiro-typhoon.json](./77924-school-heaven-love-ero-harem-momoiro-typhoon.json) |
@@ -1903,6 +1906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Schoolboy Escape | 336376 | [336376-schoolboy-escape.json](./336376-schoolboy-escape.json) |
 | SchoolBoy Horror | 395667 | [395667-schoolboy-horror.json](./395667-schoolboy-horror.json) |
 | SchoolBoy Simulator | 335077 | [335077-schoolboy-simulator.json](./335077-schoolboy-simulator.json) |
+| SchoolGirl AI 3D Anime Sandbox | 296761 | [296761-schoolgirl-ai-3d-anime-sandbox.json](./296761-schoolgirl-ai-3d-anime-sandbox.json) |
 | Schoolgirl Card Pull Simulator | 394559 | [394559-schoolgirl-card-pull-simulator.json](./394559-schoolgirl-card-pull-simulator.json) |
 | Schoolgirl Supervisor: Saori Sato | 322266 | [322266-schoolgirl-supervisor-saori-sato.json](./322266-schoolgirl-supervisor-saori-sato.json) |
 | Schoolgirl Tournament Fighting | 60086 | [60086-schoolgirl-tournament-fighting.json](./60086-schoolgirl-tournament-fighting.json) |
@@ -5752,6 +5756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Short Circuit | 29035 | [29035-short-circuit.json](./29035-short-circuit.json) |
 | Short Circuit | 29036 | [29036-short-circuit.json](./29036-short-circuit.json) |
 | Short Circuit VR | 111616 | [111616-short-circuit-vr.json](./111616-short-circuit-vr.json) |
+| Short Fuse | 296804 | [296804-short-fuse.json](./296804-short-fuse.json) |
 | Short Memories | 340372 | [340372-short-memories.json](./340372-short-memories.json) |
 | Short Night | 266773 | [266773-short-night.json](./266773-short-night.json) |
 | Short Short Fictions | 369103 | [369103-short-short-fictions.json](./369103-short-short-fictions.json) |
@@ -9208,6 +9213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sneak King | 2730 | [2730-sneak-king.json](./2730-sneak-king.json) |
 | Sneak Ops | 106995 | [106995-sneak-ops.json](./106995-sneak-ops.json) |
 | Sneak Out | 253350 | [253350-sneak-out.json](./253350-sneak-out.json) |
+| Sneak Out | 296803 | [296803-sneak-out.json](./296803-sneak-out.json) |
 | Sneak Thief | 31931 | [31931-sneak-thief.json](./31931-sneak-thief.json) |
 | Sneak Thief - Prime Catch | 386341 | [386341-sneak-thief-prime-catch.json](./386341-sneak-thief-prime-catch.json) |
 | Sneak Thief 2: Second Strike | 386345 | [386345-sneak-thief-2-second-strike.json](./386345-sneak-thief-2-second-strike.json) |
@@ -12908,6 +12914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speed Busters: American Highways | 46531 | [46531-speed-busters-american-highways.json](./46531-speed-busters-american-highways.json) |
 | Speed Car Fighter | 99036 | [99036-speed-car-fighter.json](./99036-speed-car-fighter.json) |
 | Speed Car Fighter 3D 2015 | 100115 | [100115-speed-car-fighter-3d-2015.json](./100115-speed-car-fighter-3d-2015.json) |
+| Speed Car Racing Offline Game | 296772 | [296772-speed-car-racing-offline-game.json](./296772-speed-car-racing-offline-game.json) |
 | Speed Climb | 329014 | [329014-speed-climb.json](./329014-speed-climb.json) |
 | Speed Crew | 243216 | [243216-speed-crew.json](./243216-speed-crew.json) |
 | Speed Dates: Summer Edition | 348432 | [348432-speed-dates-summer-edition.json](./348432-speed-dates-summer-edition.json) |
@@ -18482,6 +18489,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summer Pleasure | 210876 | [210876-summer-pleasure.json](./210876-summer-pleasure.json) |
 | Summer Pockets | 87682 | [87682-summer-pockets.json](./87682-summer-pockets.json) |
 | Summer Pockets Reflection Blue | 127571 | [127571-summer-pockets-reflection-blue.json](./127571-summer-pockets-reflection-blue.json) |
+| Summer Pop | 296790 | [296790-summer-pop.json](./296790-summer-pop.json) |
+| Summer Pop!+ | 296791 | [296791-summer-pop.json](./296791-summer-pop.json) |
 | Summer Puzzles | 226200 | [226200-summer-puzzles.json](./226200-summer-puzzles.json) |
 | Summer Resort Mogul | 53683 | [53683-summer-resort-mogul.json](./53683-summer-resort-mogul.json) |
 | Summer Reunion | 370102 | [370102-summer-reunion.json](./370102-summer-reunion.json) |
@@ -18964,6 +18973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Capsule Boy | 334508 | [334508-super-capsule-boy.json](./334508-super-capsule-boy.json) |
 | Super Captain 3D | 111485 | [111485-super-captain-3d.json](./111485-super-captain-3d.json) |
 | Super Captain Flying Robot City Rescue Mission | 96008 | [96008-super-captain-flying-robot-city-rescue-mission.json](./96008-super-captain-flying-robot-city-rescue-mission.json) |
+| Super Car Driving Bugatti Divo | 296781 | [296781-super-car-driving-bugatti-divo.json](./296781-super-car-driving-bugatti-divo.json) |
 | Super Caronaut | 178626 | [178626-super-caronaut.json](./178626-super-caronaut.json) |
 | Super Cars II | 12227 | [12227-super-cars-ii.json](./12227-super-cars-ii.json) |
 | Super Casino 2 | 38304 | [38304-super-casino-2.json](./38304-super-casino-2.json) |
@@ -19995,6 +20005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Monster | 101108 | [101108-super-monster.json](./101108-super-monster.json) |
 | Super Monster Bros by Adventure Time Pocket Free Games | 25017 | [25017-super-monster-bros-by-adventure-time-pocket-free-games.json](./25017-super-monster-bros-by-adventure-time-pocket-free-games.json) |
 | Super Monsters | 295015 | [295015-super-monsters.json](./295015-super-monsters.json) |
+| Super Monsters Ate My Condo | 296801 | [296801-super-monsters-ate-my-condo.json](./296801-super-monsters-ate-my-condo.json) |
 | Super Monza GP 2 | 267554 | [267554-super-monza-gp-2.json](./267554-super-monza-gp-2.json) |
 | Super Moo World | 223021 | [223021-super-moo-world.json](./223021-super-moo-world.json) |
 | Super Morial Arms | 13092 | [13092-super-morial-arms.json](./13092-super-morial-arms.json) |
@@ -20717,6 +20728,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Superfrog HD | 8873 | [8873-superfrog-hd.json](./8873-superfrog-hd.json) |
 | Superguy and Megaboy | 316615 | [316615-superguy-and-megaboy.json](./316615-superguy-and-megaboy.json) |
 | SuperHero | 161259 | [161259-superhero.json](./161259-superhero.json) |
+| Superhero Bike Stunt Games 3D | 296778 | [296778-superhero-bike-stunt-games-3d.json](./296778-superhero-bike-stunt-games-3d.json) |
+| Superhero Car Race: Mega Ramp | 296777 | [296777-superhero-car-race-mega-ramp.json](./296777-superhero-car-race-mega-ramp.json) |
+| Superhero Cars Racing | 296775 | [296775-superhero-cars-racing.json](./296775-superhero-cars-racing.json) |
 | Superhero Cats | 295493 | [295493-superhero-cats.json](./295493-superhero-cats.json) |
 | Superhero Fight | 193333 | [193333-superhero-fight.json](./193333-superhero-fight.json) |
 | Superhero Fighting Game | 59875 | [59875-superhero-fighting-game.json](./59875-superhero-fighting-game.json) |
@@ -22158,6 +22172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synaxarion Christian Stories: Great Martyr Christina of Tyre | 324476 | [324476-synaxarion-christian-stories-great-martyr-christina-of-tyre.json](./324476-synaxarion-christian-stories-great-martyr-christina-of-tyre.json) |
 | Synaxarion Christian Stories: Holy Martyr Neophytos | 313228 | [313228-synaxarion-christian-stories-holy-martyr-neophytos.json](./313228-synaxarion-christian-stories-holy-martyr-neophytos.json) |
 | Synaxarion: Great Martyr Theodore the Tyro | 306536 | [306536-synaxarion-great-martyr-theodore-the-tyro.json](./306536-synaxarion-great-martyr-theodore-the-tyro.json) |
+| Sync | 296802 | [296802-sync.json](./296802-sync.json) |
 | Sync Together | 390109 | [390109-sync-together.json](./390109-sync-together.json) |
 | Sync Your Mind | 287748 | [287748-sync-your-mind.json](./287748-sync-your-mind.json) |
 | Sync: Party Hard | 146845 | [146845-sync-party-hard.json](./146845-sync-party-hard.json) |
