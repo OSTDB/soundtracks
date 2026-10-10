@@ -1838,6 +1838,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 8-Bit Panda | 136343 | [136343-8-bit-panda.json](./136343-8-bit-panda.json) |
 | 8-Bit Rebellion! | 255180 | [255180-8-bit-rebellion.json](./255180-8-bit-rebellion.json) |
 | 8-Bit Rhythm Land | 195498 | [195498-8-bit-rhythm-land.json](./195498-8-bit-rhythm-land.json) |
+| 8-Bit RPG Creator: Cuddly Creatures | 288683 | [288683-8-bit-rpg-creator-cuddly-creatures.json](./288683-8-bit-rpg-creator-cuddly-creatures.json) |
+| 8-Bit RPG Creator: Zombies Attack! | 288682 | [288682-8-bit-rpg-creator-zombies-attack.json](./288682-8-bit-rpg-creator-zombies-attack.json) |
 | 8-Bit Slasher 4-in-1 Horror Demakes | 237312 | [237312-8-bit-slasher-4-in-1-horror-demakes.json](./237312-8-bit-slasher-4-in-1-horror-demakes.json) |
 | 8-Bit Slasher 4-in-1 Horror Demakes | 255083 | [255083-8-bit-slasher-4-in-1-horror-demakes.json](./255083-8-bit-slasher-4-in-1-horror-demakes.json) |
 | 8-Bit Waterslide | 101105 | [101105-8-bit-waterslide.json](./101105-8-bit-waterslide.json) |
