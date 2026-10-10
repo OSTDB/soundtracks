@@ -176,6 +176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saccharine Pale | 239646 | [239646-saccharine-pale.json](./239646-saccharine-pale.json) |
 | Saccharine Playground | 133436 | [133436-saccharine-playground.json](./133436-saccharine-playground.json) |
 | Saccharine: A Misleading Sim Date | 387038 | [387038-saccharine-a-misleading-sim-date.json](./387038-saccharine-a-misleading-sim-date.json) |
+| Sachiko's Loner Escape Operation | 303278 | [303278-sachikos-loner-escape-operation.json](./303278-sachikos-loner-escape-operation.json) |
 | Sachin Saga Cricket Champions | 202685 | [202685-sachin-saga-cricket-champions.json](./202685-sachin-saga-cricket-champions.json) |
 | Sachkunde Pfiffikus 2009 | 91618 | [91618-sachkunde-pfiffikus-2009.json](./91618-sachkunde-pfiffikus-2009.json) |
 | Sachova Hra | 319699 | [319699-sachova-hra.json](./319699-sachova-hra.json) |
@@ -2763,6 +2764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret House | 133224 | [133224-secret-house.json](./133224-secret-house.json) |
 | Secret in Flower | 395578 | [395578-secret-in-flower.json](./395578-secret-in-flower.json) |
 | Secret Journeys: Cities of the World | 84901 | [84901-secret-journeys-cities-of-the-world.json](./84901-secret-journeys-cities-of-the-world.json) |
+| Secret Kiss with Knight | 303303 | [303303-secret-kiss-with-knight.json](./303303-secret-kiss-with-knight.json) |
 | Secret Lab | 273541 | [273541-secret-lab.json](./273541-secret-lab.json) |
 | Secret Love Temple | 368534 | [368534-secret-love-temple.json](./368534-secret-love-temple.json) |
 | Secret Manga Girlfriend | 252803 | [252803-secret-manga-girlfriend.json](./252803-secret-manga-girlfriend.json) |
@@ -2832,6 +2834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret Word Gardens | 416175 | [416175-secret-word-gardens.json](./416175-secret-word-gardens.json) |
 | Secret Writers Society | 206628 | [206628-secret-writers-society.json](./206628-secret-writers-society.json) |
 | Secrets | 179171 | [179171-secrets.json](./179171-secrets.json) |
+| Secrets After Class | 303297 | [303297-secrets-after-class.json](./303297-secrets-after-class.json) |
 | Secrets Agent | 136440 | [136440-secrets-agent.json](./136440-secrets-agent.json) |
 | Secrets by Episode | 332434 | [332434-secrets-by-episode.json](./332434-secrets-by-episode.json) |
 | Secrets of a Campfire | 156072 | [156072-secrets-of-a-campfire.json](./156072-secrets-of-a-campfire.json) |
@@ -5049,6 +5052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shimajiro no Eigo Activity Ehon: ABC Park de Asobou! | 327617 | [327617-shimajiro-no-eigo-activity-ehon-abc-park-de-asobou.json](./327617-shimajiro-no-eigo-activity-ehon-abc-park-de-asobou.json) |
 | Shime Houmeichou | 415071 | [415071-shime-houmeichou.json](./415071-shime-houmeichou.json) |
 | Shimmer's Quest: Way of the Whoop | 361076 | [361076-shimmers-quest-way-of-the-whoop.json](./361076-shimmers-quest-way-of-the-whoop.json) |
+| Shimokita Rose & Tears | 303298 | [303298-shimokita-rose-and-tears.json](./303298-shimokita-rose-and-tears.json) |
 | Shimono Masaki no Fishing to Bassing | 38253 | [38253-shimono-masaki-no-fishing-to-bassing.json](./38253-shimono-masaki-no-fishing-to-bassing.json) |
 | Shin Egokoro Kyoushitsu | 141122 | [141122-shin-egokoro-kyoushitsu.json](./141122-shin-egokoro-kyoushitsu.json) |
 | Shin Era Tensei | 365818 | [365818-shin-era-tensei.json](./365818-shin-era-tensei.json) |
@@ -5549,6 +5553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shoot Mania VR: Fun Zombies | 32213 | [32213-shoot-mania-vr-fun-zombies.json](./32213-shoot-mania-vr-fun-zombies.json) |
 | Shoot Many Robots: Arena Kings | 64915 | [64915-shoot-many-robots-arena-kings.json](./64915-shoot-many-robots-arena-kings.json) |
 | Shoot n Scroll 3D | 261518 | [261518-shoot-n-scroll-3d.json](./261518-shoot-n-scroll-3d.json) |
+| Shoot or Date | 303215 | [303215-shoot-or-date.json](./303215-shoot-or-date.json) |
 | Shoot Out | 38561 | [38561-shoot-out.json](./38561-shoot-out.json) |
 | Shoot Paint | 334747 | [334747-shoot-paint.json](./334747-shoot-paint.json) |
 | Shoot Run | 213353 | [213353-shoot-run.json](./213353-shoot-run.json) |
@@ -14791,6 +14796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Light | 100271 | [100271-star-light.json](./100271-star-light.json) |
 | Star Light Dynamics | 313961 | [313961-star-light-dynamics.json](./313961-star-light-dynamics.json) |
 | Star Loot | 348259 | [348259-star-loot.json](./348259-star-loot.json) |
+| Star Lover | 303280 | [303280-star-lover.json](./303280-star-lover.json) |
 | Star Made | 50812 | [50812-star-made.json](./50812-star-made.json) |
 | Star Maidens Chronicle: Definitive Edition | 169368 | [169368-star-maidens-chronicle-definitive-edition.json](./169368-star-maidens-chronicle-definitive-edition.json) |
 | Star Man | 403783 | [403783-star-man.json](./403783-star-man.json) |
@@ -16908,6 +16914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Storynth | 137568 | [137568-storynth.json](./137568-storynth.json) |
 | Storyseeker | 135252 | [135252-storyseeker.json](./135252-storyseeker.json) |
 | Storyshift Asriel Battle! | 306665 | [306665-storyshift-asriel-battle.json](./306665-storyshift-asriel-battle.json) |
+| StorySpark | 303283 | [303283-storyspark.json](./303283-storyspark.json) |
 | Storyteller | 383135 | [383135-storyteller.json](./383135-storyteller.json) |
 | Storyteller: Devilish Update | 269078 | [269078-storyteller-devilish-update.json](./269078-storyteller-devilish-update.json) |
 | Stow Away | 400958 | [400958-stow-away.json](./400958-stow-away.json) |
@@ -21114,6 +21121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survive the Cards | 360721 | [360721-survive-the-cards.json](./360721-survive-the-cards.json) |
 | Survive the Fall | 216900 | [216900-survive-the-fall.json](./216900-survive-the-fall.json) |
 | Survive the Forest | 219572 | [219572-survive-the-forest.json](./219572-survive-the-forest.json) |
+| Survive the Geeks Class! | 303299 | [303299-survive-the-geeks-class.json](./303299-survive-the-geeks-class.json) |
 | Survive the Grid | 365162 | [365162-survive-the-grid.json](./365162-survive-the-grid.json) |
 | Survive the Hill | 187524 | [187524-survive-the-hill.json](./187524-survive-the-hill.json) |
 | Survive the Hunt | 334209 | [334209-survive-the-hunt.json](./334209-survive-the-hunt.json) |
