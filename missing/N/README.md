@@ -654,6 +654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naughty Tales of Rabbits: A Cuckold RPG | 301986 | [301986-naughty-tales-of-rabbits-a-cuckold-rpg.json](./301986-naughty-tales-of-rabbits-a-cuckold-rpg.json) |
 | Naughty Young Wife | 97937 | [97937-naughty-young-wife.json](./97937-naughty-young-wife.json) |
 | Nauka Prediel | 202401 | [202401-nauka-prediel.json](./202401-nauka-prediel.json) |
+| Naus | 304916 | [304916-naus.json](./304916-naus.json) |
 | Nautical Life | 95190 | [95190-nautical-life.json](./95190-nautical-life.json) |
 | Nautical Survival | 295505 | [295505-nautical-survival.json](./295505-nautical-survival.json) |
 | Nauticell | 324516 | [324516-nauticell.json](./324516-nauticell.json) |
@@ -1557,6 +1558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Nights 2 | 211676 | [211676-neon-nights-2.json](./211676-neon-nights-2.json) |
 | Neon Nirvana | 270118 | [270118-neon-nirvana.json](./270118-neon-nirvana.json) |
 | Neon On! | 290433 | [290433-neon-on.json](./290433-neon-on.json) |
+| Neon On!: Bright Edition | 304775 | [304775-neon-on-bright-edition.json](./304775-neon-on-bright-edition.json) |
 | Neon On!: Bright Ideas | 290434 | [290434-neon-on-bright-ideas.json](./290434-neon-on-bright-ideas.json) |
 | Neon On!: Chain Lights | 290435 | [290435-neon-on-chain-lights.json](./290435-neon-on-chain-lights.json) |
 | Neon On!: Complete Edition | 294829 | [294829-neon-on-complete-edition.json](./294829-neon-on-complete-edition.json) |
@@ -2328,6 +2330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ngolf: Moon Swing | 288296 | [288296-ngolf-moon-swing.json](./288296-ngolf-moon-swing.json) |
 | Ngolf: Platinum Edition | 317247 | [317247-ngolf-platinum-edition.json](./317247-ngolf-platinum-edition.json) |
 | Ngolf: Premium Edition | 308791 | [308791-ngolf-premium-edition.json](./308791-ngolf-premium-edition.json) |
+| Ngolf: Special Edition | 304774 | [304774-ngolf-special-edition.json](./304774-ngolf-special-edition.json) |
 | Ngolf: Western Fairways | 288275 | [288275-ngolf-western-fairways.json](./288275-ngolf-western-fairways.json) |
 | NGT: Next Generation Tennis | 49320 | [49320-ngt-next-generation-tennis.json](./49320-ngt-next-generation-tennis.json) |
 | NGU Idle | 124926 | [124926-ngu-idle.json](./124926-ngu-idle.json) |
