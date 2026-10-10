@@ -3814,6 +3814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bad Parents | 328087 | [328087-the-bad-parents.json](./328087-the-bad-parents.json) |
 | The Bad Son | 192888 | [192888-the-bad-son.json](./192888-the-bad-son.json) |
 | The Bad, The Worse & Djanky | 155009 | [155009-the-bad-the-worse-and-djanky.json](./155009-the-bad-the-worse-and-djanky.json) |
+| The Bag Man's Curse | 326636 | [326636-the-bag-mans-curse.json](./326636-the-bag-mans-curse.json) |
 | The Baker of Shireton | 59683 | [59683-the-baker-of-shireton.json](./59683-the-baker-of-shireton.json) |
 | The Bakerville Case | 217383 | [217383-the-bakerville-case.json](./217383-the-bakerville-case.json) |
 | The Bakery Tales | 328475 | [328475-the-bakery-tales.json](./328475-the-bakery-tales.json) |
@@ -4627,6 +4628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Confession | 133365 | [133365-the-confession.json](./133365-the-confession.json) |
 | The Confined: Basement | 406899 | [406899-the-confined-basement.json](./406899-the-confined-basement.json) |
 | The Confinement | 332413 | [332413-the-confinement.json](./332413-the-confinement.json) |
+| The Conformist | 326857 | [326857-the-conformist.json](./326857-the-conformist.json) |
 | The Confraternity of Toast 2 | 176314 | [176314-the-confraternity-of-toast-2.json](./176314-the-confraternity-of-toast-2.json) |
 | The Consequences of Gardening | 183026 | [183026-the-consequences-of-gardening.json](./183026-the-consequences-of-gardening.json) |
 | The Consumist Journey | 270099 | [270099-the-consumist-journey.json](./270099-the-consumist-journey.json) |
@@ -12073,6 +12075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thermal Power Plant K-13 | 182989 | [182989-thermal-power-plant-k-13.json](./182989-thermal-power-plant-k-13.json) |
 | Thermo Puzzle | 194381 | [194381-thermo-puzzle.json](./194381-thermo-puzzle.json) |
 | Thermopylae: The Last Stand | 417556 | [417556-thermopylae-the-last-stand.json](./417556-thermopylae-the-last-stand.json) |
+| Thesaurus | 326659 | [326659-thesaurus.json](./326659-thesaurus.json) |
 | These are not Heroes | 187239 | [187239-these-are-not-heroes.json](./187239-these-are-not-heroes.json) |
 | These Are Them | 365215 | [365215-these-are-them.json](./365215-these-are-them.json) |
 | These Darker Tides | 322135 | [322135-these-darker-tides.json](./322135-these-darker-tides.json) |
@@ -12547,6 +12550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Throne: Kingdom at War | 159083 | [159083-throne-kingdom-at-war.json](./159083-throne-kingdom-at-war.json) |
 | Thronebreaker: The Witcher Tales | 107300 | [107300-thronebreaker-the-witcher-tales.json](./107300-thronebreaker-the-witcher-tales.json) |
 | ThroneForge: The Fortress War | 277332 | [277332-throneforge-the-fortress-war.json](./277332-throneforge-the-fortress-war.json) |
+| Throneheir | 326658 | [326658-throneheir.json](./326658-throneheir.json) |
 | Through | 94765 | [94765-through.json](./94765-through.json) |
 | Through Abandoned: The Underground City | 34780 | [34780-through-abandoned-the-underground-city.json](./34780-through-abandoned-the-underground-city.json) |
 | Through Death's Door | 391852 | [391852-through-deaths-door.json](./391852-through-deaths-door.json) |
@@ -18289,6 +18293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Travellers! | 108921 | [108921-travellers.json](./108921-travellers.json) |
 | Travellin Cats in Jingle Jam | 273813 | [273813-travellin-cats-in-jingle-jam.json](./273813-travellin-cats-in-jingle-jam.json) |
 | Travellin Cats in Paris | 239812 | [239812-travellin-cats-in-paris.json](./239812-travellin-cats-in-paris.json) |
+| Travelling At Night | 326862 | [326862-travelling-at-night.json](./326862-travelling-at-night.json) |
 | Travelling Home: Ever After | 406663 | [406663-travelling-home-ever-after.json](./406663-travelling-home-ever-after.json) |
 | Travelling Light | 404812 | [404812-travelling-light.json](./404812-travelling-light.json) |
 | Travelogue 360: Paris | 65182 | [65182-travelogue-360-paris.json](./65182-travelogue-360-paris.json) |
