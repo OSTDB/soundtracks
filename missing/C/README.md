@@ -2808,6 +2808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cave Digger VR | 96467 | [96467-cave-digger-vr.json](./96467-cave-digger-vr.json) |
 | Cave Digger: Riches | 107230 | [107230-cave-digger-riches.json](./107230-cave-digger-riches.json) |
 | Cave Diver | 362819 | [362819-cave-diver.json](./362819-cave-diver.json) |
+| Cave Dude | 282496 | [282496-cave-dude.json](./282496-cave-dude.json) |
 | Cave Dude | 46107 | [46107-cave-dude.json](./46107-cave-dude.json) |
 | Cave Escape | 294272 | [294272-cave-escape.json](./294272-cave-escape.json) |
 | Cave Escape | 83949 | [83949-cave-escape.json](./83949-cave-escape.json) |
@@ -3278,6 +3279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chair Simulator | 146871 | [146871-chair-simulator.json](./146871-chair-simulator.json) |
 | Chairades | 179995 | [179995-chairades.json](./179995-chairades.json) |
 | Chairs | 281987 | [281987-chairs.json](./281987-chairs.json) |
+| Chakan | 282492 | [282492-chakan.json](./282492-chakan.json) |
 | Chakan for Hexen | 309624 | [309624-chakan-for-hexen.json](./309624-chakan-for-hexen.json) |
 | Chakan: The Forever Man | 18091 | [18091-chakan-the-forever-man.json](./18091-chakan-the-forever-man.json) |
 | Chakana | 322805 | [322805-chakana.json](./322805-chakana.json) |
@@ -11397,6 +11399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystant | 392154 | [392154-crystant.json](./392154-crystant.json) |
 | Crystaura Purge Plan | 339345 | [339345-crystaura-purge-plan.json](./339345-crystaura-purge-plan.json) |
 | Cryste: the Faith of Fire Vol.1 | 28870 | [28870-cryste-the-faith-of-fire-vol-1.json](./28870-cryste-the-faith-of-fire-vol-1.json) |
+| Cryzen.io | 282507 | [282507-cryzen-io.json](./282507-cryzen-io.json) |
 | Cryzon Part1 | 371419 | [371419-cryzon-part1.json](./371419-cryzon-part1.json) |
 | Cryzon Part4 | 394384 | [394384-cryzon-part4.json](./394384-cryzon-part4.json) |
 | CS Diamantes Pipas: Kite Game | 339348 | [339348-cs-diamantes-pipas-kite-game.json](./339348-cs-diamantes-pipas-kite-game.json) |
