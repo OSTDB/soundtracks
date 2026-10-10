@@ -3099,6 +3099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cerberus Corporation: Red Room | 335246 | [335246-cerberus-corporation-red-room.json](./335246-cerberus-corporation-red-room.json) |
 | Cerberus: Orbital watch | 126392 | [126392-cerberus-orbital-watch.json](./126392-cerberus-orbital-watch.json) |
 | Cereal Cafe | 351799 | [351799-cereal-cafe.json](./351799-cereal-cafe.json) |
+| Cereal Killer | 326634 | [326634-cereal-killer.json](./326634-cereal-killer.json) |
 | Cereal Soup | 99128 | [99128-cereal-soup.json](./99128-cereal-soup.json) |
 | Cerebrawl | 70367 | [70367-cerebrawl.json](./70367-cerebrawl.json) |
 | Cerebrum Operation | 217261 | [217261-cerebrum-operation.json](./217261-cerebrum-operation.json) |
@@ -6339,6 +6340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cluefinders: Math Adventures - Mystery of the Himalayas | 66092 | [66092-cluefinders-math-adventures-mystery-of-the-himalayas.json](./66092-cluefinders-math-adventures-mystery-of-the-himalayas.json) |
 | ClueFinders: Mystery Mansion Arcade | 76183 | [76183-cluefinders-mystery-mansion-arcade.json](./76183-cluefinders-mystery-mansion-arcade.json) |
 | ClueFinders: The Incredible Toy Store Adventure | 72269 | [72269-cluefinders-the-incredible-toy-store-adventure.json](./72269-cluefinders-the-incredible-toy-store-adventure.json) |
+| Clueless Crew | 326663 | [326663-clueless-crew.json](./326663-clueless-crew.json) |
 | Clueless Crosswords | 244830 | [244830-clueless-crosswords.json](./244830-clueless-crosswords.json) |
 | Clueless: The CD-ROM | 69852 | [69852-clueless-the-cd-rom.json](./69852-clueless-the-cd-rom.json) |
 | Clues By Sam | 352878 | [352878-clues-by-sam.json](./352878-clues-by-sam.json) |
@@ -10639,6 +10641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crossroads: What Was Lost | 417713 | [417713-crossroads-what-was-lost.json](./417713-crossroads-what-was-lost.json) |
 | Crosstown | 389643 | [389643-crosstown.json](./389643-crosstown.json) |
 | CrossTown 1: Giften | 122315 | [122315-crosstown-1-giften.json](./122315-crosstown-1-giften.json) |
+| Crosstown Carnage | 326653 | [326653-crosstown-carnage.json](./326653-crosstown-carnage.json) |
 | CrossTrix | 114258 | [114258-crosstrix.json](./114258-crosstrix.json) |
 | Crosswinds | 404394 | [404394-crosswinds.json](./404394-crosswinds.json) |
 | Crossword | 402255 | [402255-crossword.json](./402255-crossword.json) |
