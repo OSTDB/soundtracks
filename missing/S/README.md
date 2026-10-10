@@ -7976,6 +7976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slashing Samurai | 181779 | [181779-slashing-samurai.json](./181779-slashing-samurai.json) |
 | Slashout | 39792 | [39792-slashout.json](./39792-slashout.json) |
 | Slashvival | 115001 | [115001-slashvival.json](./115001-slashvival.json) |
+| Slashy Camp | 302748 | [302748-slashy-camp.json](./302748-slashy-camp.json) |
 | Slashy Chords: Guitar Warriors | 256541 | [256541-slashy-chords-guitar-warriors.json](./256541-slashy-chords-guitar-warriors.json) |
 | Slashy Hero | 31357 | [31357-slashy-hero.json](./31357-slashy-hero.json) |
 | Slashy Knight | 105925 | [105925-slashy-knight.json](./105925-slashy-knight.json) |
@@ -11767,6 +11768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Bandits | 42176 | [42176-space-bandits.json](./42176-space-bandits.json) |
 | Space Bar | 411582 | [411582-space-bar.json](./411582-space-bar.json) |
 | Space Bar at the End of the Galaxy | 171005 | [171005-space-bar-at-the-end-of-the-galaxy.json](./171005-space-bar-at-the-end-of-the-galaxy.json) |
+| Space Base | 302753 | [302753-space-base.json](./302753-space-base.json) |
 | Space Base | 415230 | [415230-space-base.json](./415230-space-base.json) |
 | Space Battalion Alpha | 186194 | [186194-space-battalion-alpha.json](./186194-space-battalion-alpha.json) |
 | Space Battle | 160158 | [160158-space-battle.json](./160158-space-battle.json) |
@@ -14458,6 +14460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stack | 34669 | [34669-stack.json](./34669-stack.json) |
 | Stack 'Em Up | 312826 | [312826-stack-em-up.json](./312826-stack-em-up.json) |
 | Stack Ball Run! | 262331 | [262331-stack-ball-run.json](./262331-stack-ball-run.json) |
+| Stack Bounce | 302747 | [302747-stack-bounce.json](./302747-stack-bounce.json) |
 | Stack Columns | 63129 | [63129-stack-columns.json](./63129-stack-columns.json) |
 | Stack It | 216749 | [216749-stack-it.json](./216749-stack-it.json) |
 | Stack Jump | 87657 | [87657-stack-jump.json](./87657-stack-jump.json) |
@@ -19134,6 +19137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Fish Bets | 399178 | [399178-super-fish-bets.json](./399178-super-fish-bets.json) |
 | Super Flail | 105387 | [105387-super-flail.json](./105387-super-flail.json) |
 | Super Flappy Golf | 346724 | [346724-super-flappy-golf.json](./346724-super-flappy-golf.json) |
+| Super Flash Mario Bros. | 302759 | [302759-super-flash-mario-bros.json](./302759-super-flash-mario-bros.json) |
 | Super Flipman Adventure World | 25887 | [25887-super-flipman-adventure-world.json](./25887-super-flipman-adventure-world.json) |
 | Super Flipper | 110838 | [110838-super-flipper.json](./110838-super-flipper.json) |
 | Super Flipside | 47993 | [47993-super-flipside.json](./47993-super-flipside.json) |
@@ -19680,6 +19684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Kart 20XX: Enhanced Edition | 313417 | [313417-super-mario-kart-20xx-enhanced-edition.json](./313417-super-mario-kart-20xx-enhanced-edition.json) |
 | Super Mario Kart 8 | 198451 | [198451-super-mario-kart-8.json](./198451-super-mario-kart-8.json) |
 | Super Mario Kart DS | 198450 | [198450-super-mario-kart-ds.json](./198450-super-mario-kart-ds.json) |
+| Super Mario Kart Horizons | 302715 | [302715-super-mario-kart-horizons.json](./302715-super-mario-kart-horizons.json) |
 | Super Mario Kart in Sonic Mania+ | 317419 | [317419-super-mario-kart-in-sonic-mania.json](./317419-super-mario-kart-in-sonic-mania.json) |
 | Super Mario Kart NES | 250038 | [250038-super-mario-kart-nes.json](./250038-super-mario-kart-nes.json) |
 | Super Mario Kart Reversed | 268101 | [268101-super-mario-kart-reversed.json](./268101-super-mario-kart-reversed.json) |
@@ -19751,6 +19756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Sunburn | 135148 | [135148-super-mario-sunburn.json](./135148-super-mario-sunburn.json) |
 | Super Mario Sunshine | 229177 | [229177-super-mario-sunshine.json](./229177-super-mario-sunshine.json) |
 | Super Mario Sunshine 64 | 159263 | [159263-super-mario-sunshine-64.json](./159263-super-mario-sunshine-64.json) |
+| Super Mario Sunshine 64 | 302762 | [302762-super-mario-sunshine-64.json](./302762-super-mario-sunshine-64.json) |
 | Super Mario Sunshine Arcade | 174627 | [174627-super-mario-sunshine-arcade.json](./174627-super-mario-sunshine-arcade.json) |
 | Super Mario Sunshine Arcade 2 | 213038 | [213038-super-mario-sunshine-arcade-2.json](./213038-super-mario-sunshine-arcade-2.json) |
 | Super Mario Sunshine DS | 229217 | [229217-super-mario-sunshine-ds.json](./229217-super-mario-sunshine-ds.json) |
