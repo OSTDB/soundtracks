@@ -205,6 +205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Obsidienne | 185120 | [185120-obsidienne.json](./185120-obsidienne.json) |
 | Obsolete | 184488 | [184488-obsolete.json](./184488-obsolete.json) |
 | Obsolete Friends | 403151 | [403151-obsolete-friends.json](./403151-obsolete-friends.json) |
+| Obsolete: After the Accident | 319891 | [319891-obsolete-after-the-accident.json](./319891-obsolete-after-the-accident.json) |
 | Obsta-Loop | 238477 | [238477-obsta-loop.json](./238477-obsta-loop.json) |
 | Obstacle Course Car Parking | 238391 | [238391-obstacle-course-car-parking.json](./238391-obstacle-course-car-parking.json) |
 | Obstacles | 186172 | [186172-obstacles.json](./186172-obstacles.json) |
@@ -477,6 +478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Of Guards and Thieves: Zombie Rush | 166013 | [166013-of-guards-and-thieves-zombie-rush.json](./166013-of-guards-and-thieves-zombie-rush.json) |
 | Of Hibnernry Boneyard Ler Ardus | 397097 | [397097-of-hibnernry-boneyard-ler-ardus.json](./397097-of-hibnernry-boneyard-ler-ardus.json) |
 | Of Ice & Snow | 229783 | [229783-of-ice-and-snow.json](./229783-of-ice-and-snow.json) |
+| Of Lies and Rain | 319865 | [319865-of-lies-and-rain.json](./319865-of-lies-and-rain.json) |
 | Of Life and Land | 188614 | [188614-of-life-and-land.json](./188614-of-life-and-land.json) |
 | Of Light & Shadow | 166509 | [166509-of-light-and-shadow.json](./166509-of-light-and-shadow.json) |
 | Of Light and Darkness: The Prophecy | 50385 | [50385-of-light-and-darkness-the-prophecy.json](./50385-of-light-and-darkness-the-prophecy.json) |
@@ -3037,6 +3039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Out of Time | 122135 | [122135-out-of-time.json](./122135-out-of-time.json) |
 | Out of Time | 356712 | [356712-out-of-time.json](./356712-out-of-time.json) |
 | Out of Time | 388932 | [388932-out-of-time.json](./388932-out-of-time.json) |
+| Out of Touch! | 319856 | [319856-out-of-touch.json](./319856-out-of-touch.json) |
 | Out Of Water | 359925 | [359925-out-of-water.json](./359925-out-of-water.json) |
 | Out of Words | 347645 | [347645-out-of-words.json](./347645-out-of-words.json) |
 | Out on a Liminal | 178940 | [178940-out-on-a-liminal.json](./178940-out-on-a-liminal.json) |
