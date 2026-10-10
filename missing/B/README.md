@@ -2619,6 +2619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BattleDrive | 283978 | [283978-battledrive.json](./283978-battledrive.json) |
 | BattleDudes.io | 144189 | [144189-battledudes-io.json](./144189-battledudes-io.json) |
 | Battlefall: State of Conflict | 283983 | [283983-battlefall-state-of-conflict.json](./283983-battlefall-state-of-conflict.json) |
+| Battlefield | 290355 | [290355-battlefield.json](./290355-battlefield.json) |
 | Battlefield : Run | 96215 | [96215-battlefield-run.json](./96215-battlefield-run.json) |
 | Battlefield 1: In the Name of the Tsar | 28966 | [28966-battlefield-1-in-the-name-of-the-tsar.json](./28966-battlefield-1-in-the-name-of-the-tsar.json) |
 | Battlefield 1: Revolution and Titanfall 2: Ultimate Edition Bundle | 136365 | [136365-battlefield-1-revolution-and-titanfall-2-ultimate-edition-bundle.json](./136365-battlefield-1-revolution-and-titanfall-2-ultimate-edition-bundle.json) |
@@ -4200,6 +4201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bewitched Hearts | 179703 | [179703-bewitched-hearts.json](./179703-bewitched-hearts.json) |
 | Bewitching Boba | 388701 | [388701-bewitching-boba.json](./388701-bewitching-boba.json) |
 | Bewitching Sinners Royal Blood | 375292 | [375292-bewitching-sinners-royal-blood.json](./375292-bewitching-sinners-royal-blood.json) |
+| Beyblade Burst | 290317 | [290317-beyblade-burst.json](./290317-beyblade-burst.json) |
 | Beyblade Super Stars | 84429 | [84429-beyblade-super-stars.json](./84429-beyblade-super-stars.json) |
 | Beyblade V-Force: Super Tournament Battle | 3807 | [3807-beyblade-v-force-super-tournament-battle.json](./3807-beyblade-v-force-super-tournament-battle.json) |
 | Beyblade X Evobattle | 369115 | [369115-beyblade-x-evobattle.json](./369115-beyblade-x-evobattle.json) |
@@ -5596,6 +5598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Sigil: Blade of the Exiled | 21124 | [21124-black-sigil-blade-of-the-exiled.json](./21124-black-sigil-blade-of-the-exiled.json) |
 | Black Sign | 145592 | [145592-black-sign.json](./145592-black-sign.json) |
 | Black Skylands | 122132 | [122132-black-skylands.json](./122132-black-skylands.json) |
+| Black Smith | 290334 | [290334-black-smith.json](./290334-black-smith.json) |
 | Black Smith 3 | 150641 | [150641-black-smith-3.json](./150641-black-smith-3.json) |
 | Black Smith 4 | 265774 | [265774-black-smith-4.json](./265774-black-smith-4.json) |
 | Black Snow | 221849 | [221849-black-snow.json](./221849-black-snow.json) |
@@ -6334,6 +6337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blobby Jump | 194287 | [194287-blobby-jump.json](./194287-blobby-jump.json) |
 | Blobby Online | 58458 | [58458-blobby-online.json](./58458-blobby-online.json) |
 | Blobby Tennis | 36475 | [36475-blobby-tennis.json](./36475-blobby-tennis.json) |
+| Blobby's Adventure | 290339 | [290339-blobbys-adventure.json](./290339-blobbys-adventure.json) |
 | Blobby's Quest | 263120 | [263120-blobbys-quest.json](./263120-blobbys-quest.json) |
 | Blobbz Online | 186144 | [186144-blobbz-online.json](./186144-blobbz-online.json) |
 | BlobCat | 55709 | [55709-blobcat.json](./55709-blobcat.json) |
@@ -9979,6 +9983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Escape WTH? | 110230 | [110230-bubble-escape-wth.json](./110230-bubble-escape-wth.json) |
 | Bubble Explosion Adventure | 87691 | [87691-bubble-explosion-adventure.json](./87691-bubble-explosion-adventure.json) |
 | Bubble Fresh Fruits | 289376 | [289376-bubble-fresh-fruits.json](./289376-bubble-fresh-fruits.json) |
+| Bubble Frog | 290337 | [290337-bubble-frog.json](./290337-bubble-frog.json) |
 | Bubble Ghost Remake | 250892 | [250892-bubble-ghost-remake.json](./250892-bubble-ghost-remake.json) |
 | Bubble Gun 3D | 150690 | [150690-bubble-gun-3d.json](./150690-bubble-gun-3d.json) |
 | Bubble Guppies | 230336 | [230336-bubble-guppies.json](./230336-bubble-guppies.json) |
