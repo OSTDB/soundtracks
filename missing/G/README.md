@@ -1241,6 +1241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gas Guzzlers Extreme: Full Metal Frenzy | 171503 | [171503-gas-guzzlers-extreme-full-metal-frenzy.json](./171503-gas-guzzlers-extreme-full-metal-frenzy.json) |
 | Gas Hog | 85742 | [85742-gas-hog.json](./85742-gas-hog.json) |
 | Gas N Cars | 410455 | [410455-gas-n-cars.json](./410455-gas-n-cars.json) |
+| Gas Pack | 332479 | [332479-gas-pack.json](./332479-gas-pack.json) |
 | Gas See who likes you | 223942 | [223942-gas-see-who-likes-you.json](./223942-gas-see-who-likes-you.json) |
 | Gas Station 2: Highway Service | 86944 | [86944-gas-station-2-highway-service.json](./86944-gas-station-2-highway-service.json) |
 | Gas Station Inc. | 255753 | [255753-gas-station-inc.json](./255753-gas-station-inc.json) |
@@ -6147,6 +6148,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guilty Gear Xrd Rev 2: Character Colors - Elphelt Valentine | 332586 | [332586-guilty-gear-xrd-rev-2-character-colors-elphelt-valentine.json](./332586-guilty-gear-xrd-rev-2-character-colors-elphelt-valentine.json) |
 | Guilty Gear Xrd Rev 2: Character Colors - Faust | 332584 | [332584-guilty-gear-xrd-rev-2-character-colors-faust.json](./332584-guilty-gear-xrd-rev-2-character-colors-faust.json) |
 | Guilty Gear Xrd Rev 2: Character Colors - Johnny | 332585 | [332585-guilty-gear-xrd-rev-2-character-colors-johnny.json](./332585-guilty-gear-xrd-rev-2-character-colors-johnny.json) |
+| Guilty Gear Xrd: Rev 2 - Character Colors Axl Low | 332472 | [332472-guilty-gear-xrd-rev-2-character-colors-axl-low.json](./332472-guilty-gear-xrd-rev-2-character-colors-axl-low.json) |
+| Guilty Gear Xrd: Rev 2 - Character Colors I-No | 332475 | [332475-guilty-gear-xrd-rev-2-character-colors-i-no.json](./332475-guilty-gear-xrd-rev-2-character-colors-i-no.json) |
+| Guilty Gear Xrd: Rev 2 - Character Colors Jack-O' | 332473 | [332473-guilty-gear-xrd-rev-2-character-colors-jack-o.json](./332473-guilty-gear-xrd-rev-2-character-colors-jack-o.json) |
+| Guilty Gear Xrd: Rev 2 - Character Colors Jam Kuradoberi | 332474 | [332474-guilty-gear-xrd-rev-2-character-colors-jam-kuradoberi.json](./332474-guilty-gear-xrd-rev-2-character-colors-jam-kuradoberi.json) |
 | Guilty Gear Xrd: Rev 2 - Character Colors Zato-One | 344378 | [344378-guilty-gear-xrd-rev-2-character-colors-zato-one.json](./344378-guilty-gear-xrd-rev-2-character-colors-zato-one.json) |
 | Guilty Gear Xrd: Rev 2 - Character Colors: Baiken | 338151 | [338151-guilty-gear-xrd-rev-2-character-colors-baiken.json](./338151-guilty-gear-xrd-rev-2-character-colors-baiken.json) |
 | Guilty Gear Xrd: Rev 2 - Character Colors: Bedman | 338152 | [338152-guilty-gear-xrd-rev-2-character-colors-bedman.json](./338152-guilty-gear-xrd-rev-2-character-colors-bedman.json) |
