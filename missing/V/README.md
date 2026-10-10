@@ -511,6 +511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vangaro Tactics | 275094 | [275094-vangaro-tactics.json](./275094-vangaro-tactics.json) |
 | Vangers | 8830 | [8830-vangers.json](./8830-vangers.json) |
 | Vanguard Ace: Vertical Madness | 70916 | [70916-vanguard-ace-vertical-madness.json](./70916-vanguard-ace-vertical-madness.json) |
+| Vanguard Exiles | 328936 | [328936-vanguard-exiles.json](./328936-vanguard-exiles.json) |
 | Vanguard Of Armor | 394159 | [394159-vanguard-of-armor.json](./394159-vanguard-of-armor.json) |
 | Vanguard Princess | 377294 | [377294-vanguard-princess.json](./377294-vanguard-princess.json) |
 | Vanguard Princess | 9433 | [9433-vanguard-princess.json](./9433-vanguard-princess.json) |
@@ -879,6 +880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Venova Adventure | 200002 | [200002-venova-adventure.json](./200002-venova-adventure.json) |
 | Ventilate | 337305 | [337305-ventilate.json](./337305-ventilate.json) |
 | Ventilator | 57474 | [57474-ventilator.json](./57474-ventilator.json) |
+| Ventisette Voci | 328935 | [328935-ventisette-voci.json](./328935-ventisette-voci.json) |
 | Venturaka | 381327 | [381327-venturaka.json](./381327-venturaka.json) |
 | Venture | 94741 | [94741-venture.json](./94741-venture.json) |
 | Venture Arctic | 66707 | [66707-venture-arctic.json](./66707-venture-arctic.json) |
