@@ -634,6 +634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ice Cream Man | 409013 | [409013-ice-cream-man.json](./409013-ice-cream-man.json) |
 | Ice Cream Mania | 234064 | [234064-ice-cream-mania.json](./234064-ice-cream-mania.json) |
 | Ice Cream Mixer | 102605 | [102605-ice-cream-mixer.json](./102605-ice-cream-mixer.json) |
+| Ice Cream Pachinly | 291365 | [291365-ice-cream-pachinly.json](./291365-ice-cream-pachinly.json) |
 | Ice Cream Simulator | 345665 | [345665-ice-cream-simulator.json](./345665-ice-cream-simulator.json) |
 | Ice Cream Trip | 207829 | [207829-ice-cream-trip.json](./207829-ice-cream-trip.json) |
 | Ice Cream Truck | 155511 | [155511-ice-cream-truck.json](./155511-ice-cream-truck.json) |
