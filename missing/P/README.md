@@ -1799,6 +1799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Path of the Bogatyr | 356569 | [356569-path-of-the-bogatyr.json](./356569-path-of-the-bogatyr.json) |
 | Path of the Martyrs | 138561 | [138561-path-of-the-martyrs.json](./138561-path-of-the-martyrs.json) |
 | Path of the Midnight Sun | 126443 | [126443-path-of-the-midnight-sun.json](./126443-path-of-the-midnight-sun.json) |
+| Path of the Oxiflame | 319842 | [319842-path-of-the-oxiflame.json](./319842-path-of-the-oxiflame.json) |
 | Path of The Runecaster | 399839 | [399839-path-of-the-runecaster.json](./399839-path-of-the-runecaster.json) |
 | Path of the Warrior | 127351 | [127351-path-of-the-warrior.json](./127351-path-of-the-warrior.json) |
 | Path of the Zenith Master | 372016 | [372016-path-of-the-zenith-master.json](./372016-path-of-the-zenith-master.json) |
@@ -4729,6 +4730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pit Crew Panic! | 70650 | [70650-pit-crew-panic.json](./70650-pit-crew-panic.json) |
 | Pit of 100 Wonders | 394348 | [394348-pit-of-100-wonders.json](./394348-pit-of-100-wonders.json) |
 | Pit of Ascension | 155986 | [155986-pit-of-ascension.json](./155986-pit-of-ascension.json) |
+| Pit of Gerstan | 319880 | [319880-pit-of-gerstan.json](./319880-pit-of-gerstan.json) |
 | Pit of Goblin | 321166 | [321166-pit-of-goblin.json](./321166-pit-of-goblin.json) |
 | Pit of the Condemned | 59692 | [59692-pit-of-the-condemned.json](./59692-pit-of-the-condemned.json) |
 | Pit of the Lord | 389728 | [389728-pit-of-the-lord.json](./389728-pit-of-the-lord.json) |
@@ -5940,6 +5942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PlayGuys | 320538 | [320538-playguys.json](./320538-playguys.json) |
 | Playhead | 195719 | [195719-playhead.json](./195719-playhead.json) |
 | Playhear : Square Paper City | 148678 | [148678-playhear-square-paper-city.json](./148678-playhear-square-paper-city.json) |
+| PlayHex | 319877 | [319877-playhex.json](./319877-playhex.json) |
 | Playhouse Strip Poker | 55990 | [55990-playhouse-strip-poker.json](./55990-playhouse-strip-poker.json) |
 | Playing Field 2 | 410419 | [410419-playing-field-2.json](./410419-playing-field-2.json) |
 | Playing History - The Plague | 34628 | [34628-playing-history-the-plague.json](./34628-playing-history-the-plague.json) |
@@ -7589,6 +7592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pop Gems | 232575 | [232575-pop-gems.json](./232575-pop-gems.json) |
 | Pop Island | 68124 | [68124-pop-island.json](./68124-pop-island.json) |
 | Pop Islands | 94868 | [94868-pop-islands.json](./94868-pop-islands.json) |
+| Pop It! | 319881 | [319881-pop-it.json](./319881-pop-it.json) |
 | Pop Journey | 220651 | [220651-pop-journey.json](./220651-pop-journey.json) |
 | Pop Logo Quiz | 105862 | [105862-pop-logo-quiz.json](./105862-pop-logo-quiz.json) |
 | Pop Moto | 249446 | [249446-pop-moto.json](./249446-pop-moto.json) |
