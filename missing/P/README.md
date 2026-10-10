@@ -585,6 +585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Palette | 62668 | [62668-palette.json](./62668-palette.json) |
 | Palette Swap | 163993 | [163993-palette-swap.json](./163993-palette-swap.json) |
 | Palettopia | 410334 | [410334-palettopia.json](./410334-palettopia.json) |
+| Palhalla | 285921 | [285921-palhalla.json](./285921-palhalla.json) |
 | Palia | 151467 | [151467-palia.json](./151467-palia.json) |
 | Palikat | 251194 | [251194-palikat.json](./251194-palikat.json) |
 | Palimpsest | 397988 | [397988-palimpsest.json](./397988-palimpsest.json) |
@@ -1439,6 +1440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paris-Marseille Racing II | 249772 | [249772-paris-marseille-racing-ii.json](./249772-paris-marseille-racing-ii.json) |
 | Paris: Jigsaw Puzzles | 104078 | [104078-paris-jigsaw-puzzles.json](./104078-paris-jigsaw-puzzles.json) |
 | Parisian Brasserie Simulator | 326380 | [326380-parisian-brasserie-simulator.json](./326380-parisian-brasserie-simulator.json) |
+| Parisyte | 285933 | [285933-parisyte.json](./285933-parisyte.json) |
 | Parity | 124243 | [124243-parity.json](./124243-parity.json) |
 | Parity Shot | 418311 | [418311-parity-shot.json](./418311-parity-shot.json) |
 | Parity Shot Integral | 305167 | [305167-parity-shot-integral.json](./305167-parity-shot-integral.json) |
@@ -3595,6 +3597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Physio | 386960 | [386960-physio.json](./386960-physio.json) |
 | Physio Fun Balance Training | 84828 | [84828-physio-fun-balance-training.json](./84828-physio-fun-balance-training.json) |
 | Physiofun: Pelvic Floor Training | 84827 | [84827-physiofun-pelvic-floor-training.json](./84827-physiofun-pelvic-floor-training.json) |
+| Phyto | 285943 | [285943-phyto.json](./285943-phyto.json) |
 | Phytomancer | 175886 | [175886-phytomancer.json](./175886-phytomancer.json) |
 | PhyxBox | 127873 | [127873-phyxbox.json](./127873-phyxbox.json) |
 | Pi Fu Fighter | 239106 | [239106-pi-fu-fighter.json](./239106-pi-fu-fighter.json) |
@@ -5074,6 +5077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Paint: Definitive Edition | 243367 | [243367-pixel-paint-definitive-edition.json](./243367-pixel-paint-definitive-edition.json) |
 | Pixel Paint: Premium Edition | 241395 | [241395-pixel-paint-premium-edition.json](./241395-pixel-paint-premium-edition.json) |
 | Pixel Painter Story | 58618 | [58618-pixel-painter-story.json](./58618-pixel-painter-story.json) |
+| Pixel Panic | 285902 | [285902-pixel-panic.json](./285902-pixel-panic.json) |
 | Pixel Petals | 269218 | [269218-pixel-petals.json](./269218-pixel-petals.json) |
 | Pixel Petkeeper | 213838 | [213838-pixel-petkeeper.json](./213838-pixel-petkeeper.json) |
 | Pixel Pileup Party | 130201 | [130201-pixel-pileup-party.json](./130201-pixel-pileup-party.json) |
