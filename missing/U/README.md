@@ -986,6 +986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undead Line | 46178 | [46178-undead-line.json](./46178-undead-line.json) |
 | Undead Mayhem | 277614 | [277614-undead-mayhem.json](./277614-undead-mayhem.json) |
 | Undead Night Crew | 376065 | [376065-undead-night-crew.json](./376065-undead-night-crew.json) |
+| Undead Onslaught | 302193 | [302193-undead-onslaught.json](./302193-undead-onslaught.json) |
 | Undead Overlord | 36363 | [36363-undead-overlord.json](./36363-undead-overlord.json) |
 | Undead Party | 222268 | [222268-undead-party.json](./222268-undead-party.json) |
 | Undead Pixels | 163365 | [163365-undead-pixels.json](./163365-undead-pixels.json) |
