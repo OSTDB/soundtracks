@@ -2781,6 +2781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Insanidade | 342218 | [342218-insanidade.json](./342218-insanidade.json) |
 | Insaniquarium! | 334696 | [334696-insaniquarium.json](./334696-insaniquarium.json) |
 | Insaniquarium! Deluxe | 8323 | [8323-insaniquarium-deluxe.json](./8323-insaniquarium-deluxe.json) |
+| Insanity | 281350 | [281350-insanity.json](./281350-insanity.json) |
 | Insanity | 94703 | [94703-insanity.json](./94703-insanity.json) |
 | Insanity Clicker | 34706 | [34706-insanity-clicker.json](./34706-insanity-clicker.json) |
 | Insanity Ice | 199380 | [199380-insanity-ice.json](./199380-insanity-ice.json) |
