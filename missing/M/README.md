@@ -5679,6 +5679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merciful Girl | 223957 | [223957-merciful-girl.json](./223957-merciful-girl.json) |
 | Merciless Podium | 86897 | [86897-merciless-podium.json](./86897-merciless-podium.json) |
 | Mercs | 105329 | [105329-mercs.json](./105329-mercs.json) |
+| Mercs Inc | 289805 | [289805-mercs-inc.json](./289805-mercs-inc.json) |
 | Mercurial Dreams | 323300 | [323300-mercurial-dreams.json](./323300-mercurial-dreams.json) |
 | Mercurius Blue: ReCollection | 388000 | [388000-mercurius-blue-recollection.json](./388000-mercurius-blue-recollection.json) |
 | Mercury | 248333 | [248333-mercury.json](./248333-mercury.json) |
@@ -7183,6 +7184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Milky Way Jigsaw Puzzles: Expansion Pack 2 | 265247 | [265247-milky-way-jigsaw-puzzles-expansion-pack-2.json](./265247-milky-way-jigsaw-puzzles-expansion-pack-2.json) |
 | Milky Way Wishes | 271264 | [271264-milky-way-wishes.json](./271264-milky-way-wishes.json) |
 | Milky Way Wishes | 271407 | [271407-milky-way-wishes.json](./271407-milky-way-wishes.json) |
+| Milky Way: TD Survivors Autobattler RTS | 289782 | [289782-milky-way-td-survivors-autobattler-rts.json](./289782-milky-way-td-survivors-autobattler-rts.json) |
 | Mill | 92299 | [92299-mill.json](./92299-mill.json) |
 | Mille Bornes | 94925 | [94925-mille-bornes.json](./94925-mille-bornes.json) |
 | Millefiori | 150155 | [150155-millefiori.json](./150155-millefiori.json) |
@@ -8526,6 +8528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mistaker | 129713 | [129713-mistaker.json](./129713-mistaker.json) |
 | Mistakes Were Made | 179036 | [179036-mistakes-were-made.json](./179036-mistakes-were-made.json) |
 | Mistbound | 370667 | [370667-mistbound.json](./370667-mistbound.json) |
+| Mister 9 | 289771 | [289771-mister-9.json](./289771-mister-9.json) |
 | Mister Antonio | 322243 | [322243-mister-antonio.json](./322243-mister-antonio.json) |
 | Mister Burnhouse | 118826 | [118826-mister-burnhouse.json](./118826-mister-burnhouse.json) |
 | Mister Easter | 246470 | [246470-mister-easter.json](./246470-mister-easter.json) |
