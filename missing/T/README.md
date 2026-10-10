@@ -2526,6 +2526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ten of the Best Games | 134448 | [134448-ten-of-the-best-games.json](./134448-ten-of-the-best-games.json) |
 | Ten Seconds Hero 1 | 309358 | [309358-ten-seconds-hero-1.json](./309358-ten-seconds-hero-1.json) |
 | Ten Seconds Trillion | 241392 | [241392-ten-seconds-trillion.json](./241392-ten-seconds-trillion.json) |
+| Ten Thousand Immortals | 284287 | [284287-ten-thousand-immortals.json](./284287-ten-thousand-immortals.json) |
 | Ten trials of Archer | 175200 | [175200-ten-trials-of-archer.json](./175200-ten-trials-of-archer.json) |
 | Ten Trials of Babel 2: Tower and Aurora | 372682 | [372682-ten-trials-of-babel-2-tower-and-aurora.json](./372682-ten-trials-of-babel-2-tower-and-aurora.json) |
 | Ten-chan Party! | 108264 | [108264-ten-chan-party.json](./108264-ten-chan-party.json) |
@@ -5296,6 +5297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Doom Beneath | 175429 | [175429-the-doom-beneath.json](./175429-the-doom-beneath.json) |
 | The Door | 150501 | [150501-the-door.json](./150501-the-door.json) |
 | The Door | 246123 | [246123-the-door.json](./246123-the-door.json) |
+| The Door | 284286 | [284286-the-door.json](./284286-the-door.json) |
 | The Door at the End of the Hall | 398321 | [398321-the-door-at-the-end-of-the-hall.json](./398321-the-door-at-the-end-of-the-hall.json) |
 | The Door Factory | 405529 | [405529-the-door-factory.json](./405529-the-door-factory.json) |
 | The Door in the Basement | 146206 | [146206-the-door-in-the-basement.json](./146206-the-door-in-the-basement.json) |
@@ -5870,6 +5872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fight of the Sumo-Hoppers | 314465 | [314465-the-fight-of-the-sumo-hoppers.json](./314465-the-fight-of-the-sumo-hoppers.json) |
 | The Fight: Aftermath | 311173 | [311173-the-fight-aftermath.json](./311173-the-fight-aftermath.json) |
 | The Fighting Cubes | 181748 | [181748-the-fighting-cubes.json](./181748-the-fighting-cubes.json) |
+| The Filfth of Us | 284280 | [284280-the-filfth-of-us.json](./284280-the-filfth-of-us.json) |
 | The Final Answer | 211114 | [211114-the-final-answer.json](./211114-the-final-answer.json) |
 | The Final Ascent | 408826 | [408826-the-final-ascent.json](./408826-the-final-ascent.json) |
 | The Final Bastion | 238507 | [238507-the-final-bastion.json](./238507-the-final-bastion.json) |
@@ -6501,6 +6504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hall of Epiphany | 276379 | [276379-the-hall-of-epiphany.json](./276379-the-hall-of-epiphany.json) |
 | The Halloween Story | 219170 | [219170-the-halloween-story.json](./219170-the-halloween-story.json) |
 | The Hallway: Escape Room | 264608 | [264608-the-hallway-escape-room.json](./264608-the-hallway-escape-room.json) |
+| The Hallways | 284310 | [284310-the-hallways.json](./284310-the-hallways.json) |
 | The Halting Solution | 364639 | [364639-the-halting-solution.json](./364639-the-halting-solution.json) |
 | The Hamburger Isles | 356292 | [356292-the-hamburger-isles.json](./356292-the-hamburger-isles.json) |
 | The Hamiltonian Circuit | 297612 | [297612-the-hamiltonian-circuit.json](./297612-the-hamiltonian-circuit.json) |
@@ -7048,6 +7052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Jetsons: Invasion of the Planet Pirates | 42511 | [42511-the-jetsons-invasion-of-the-planet-pirates.json](./42511-the-jetsons-invasion-of-the-planet-pirates.json) |
 | The Jetsons: The Computer Game | 70475 | [70475-the-jetsons-the-computer-game.json](./70475-the-jetsons-the-computer-game.json) |
 | The Jhonson Parable | 229670 | [229670-the-jhonson-parable.json](./229670-the-jhonson-parable.json) |
+| The Jiang Shi | 284282 | [284282-the-jiang-shi.json](./284282-the-jiang-shi.json) |
 | The Jiang Shi 2: Curse of Soul | 306423 | [306423-the-jiang-shi-2-curse-of-soul.json](./306423-the-jiang-shi-2-curse-of-soul.json) |
 | The Jianghu | 216790 | [216790-the-jianghu.json](./216790-the-jianghu.json) |
 | The Jig Is Up! | 215152 | [215152-the-jig-is-up.json](./215152-the-jig-is-up.json) |
@@ -19066,6 +19071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Triggore | 182913 | [182913-triggore.json](./182913-triggore.json) |
 | Trigon: Space Story - Deluxe Edition | 227186 | [227186-trigon-space-story-deluxe-edition.json](./227186-trigon-space-story-deluxe-edition.json) |
 | Trigonal | 188097 | [188097-trigonal.json](./188097-trigonal.json) |
+| Trigonarium | 284311 | [284311-trigonarium.json](./284311-trigonarium.json) |
 | Trigonarium | 34718 | [34718-trigonarium.json](./34718-trigonarium.json) |
 | Trigonometric Equations | 399883 | [399883-trigonometric-equations.json](./399883-trigonometric-equations.json) |
 | Trigonometry | 75792 | [75792-trigonometry.json](./75792-trigonometry.json) |
@@ -19118,6 +19124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trio Infernale | 122138 | [122138-trio-infernale.json](./122138-trio-infernale.json) |
 | Trio the Punch | 292851 | [292851-trio-the-punch.json](./292851-trio-the-punch.json) |
 | Trioncube | 21547 | [21547-trioncube.json](./21547-trioncube.json) |
+| Triopticon | 284281 | [284281-triopticon.json](./284281-triopticon.json) |
 | Trios | 129220 | [129220-trios.json](./129220-trios.json) |
 | Trip | 110120 | [110120-trip.json](./110120-trip.json) |
 | Trip in Hell | 107813 | [107813-trip-in-hell.json](./107813-trip-in-hell.json) |
