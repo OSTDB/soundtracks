@@ -272,6 +272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pacific Fire | 127259 | [127259-pacific-fire.json](./127259-pacific-fire.json) |
 | Pacific General | 14451 | [14451-pacific-general.json](./14451-pacific-general.json) |
 | Pacific Gunner | 92470 | [92470-pacific-gunner.json](./92470-pacific-gunner.json) |
+| Pacific Minesweeper | 289242 | [289242-pacific-minesweeper.json](./289242-pacific-minesweeper.json) |
 | Pacific Strike | 14562 | [14562-pacific-strike.json](./14562-pacific-strike.json) |
 | Pacific Theatre | 208985 | [208985-pacific-theatre.json](./208985-pacific-theatre.json) |
 | Pacific War | 69923 | [69923-pacific-war.json](./69923-pacific-war.json) |
@@ -3796,6 +3797,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Picross S SNK Classics & Neo Geo Edition | 378165 | [378165-picross-s-snk-classics-and-neo-geo-edition.json](./378165-picross-s-snk-classics-and-neo-geo-edition.json) |
 | Picross S: Genesis & Master System Edition | 137139 | [137139-picross-s-genesis-and-master-system-edition.json](./137139-picross-s-genesis-and-master-system-edition.json) |
 | Picross S+ | 266419 | [266419-picross-s.json](./266419-picross-s.json) |
+| Picross S+: Picross e5 | 289217 | [289217-picross-s-picross-e5.json](./289217-picross-s-picross-e5.json) |
+| Picross S+: Picross e6 | 289218 | [289218-picross-s-picross-e6.json](./289218-picross-s-picross-e6.json) |
+| Picross S+: Picross e7 | 289219 | [289219-picross-s-picross-e7.json](./289219-picross-s-picross-e7.json) |
+| Picross S+: Picross e8 | 289220 | [289220-picross-s-picross-e8.json](./289220-picross-s-picross-e8.json) |
+| Picross S+: Picross e9 | 289221 | [289221-picross-s-picross-e9.json](./289221-picross-s-picross-e9.json) |
 | Picross S2 | 106275 | [106275-picross-s2.json](./106275-picross-s2.json) |
 | Picross S3 | 117501 | [117501-picross-s3.json](./117501-picross-s3.json) |
 | Picross S4 | 132828 | [132828-picross-s4.json](./132828-picross-s4.json) |
@@ -4498,6 +4504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pingball Ultra | 106537 | [106537-pingball-ultra.json](./106537-pingball-ultra.json) |
 | Pingbert's Snow Ride | 379963 | [379963-pingberts-snow-ride.json](./379963-pingberts-snow-ride.json) |
 | Pingcheng Chronicles | 316650 | [316650-pingcheng-chronicles.json](./316650-pingcheng-chronicles.json) |
+| Pingdom | 289241 | [289241-pingdom.json](./289241-pingdom.json) |
 | Pinging | 255976 | [255976-pinging.json](./255976-pinging.json) |
 | Pingo Puzzle Poker | 51167 | [51167-pingo-puzzle-poker.json](./51167-pingo-puzzle-poker.json) |
 | Pingolf | 318601 | [318601-pingolf.json](./318601-pingolf.json) |
@@ -10029,6 +10036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Promise Me, You'll Live | 280803 | [280803-promise-me-youll-live.json](./280803-promise-me-youll-live.json) |
 | Promise of Lingyun | 255120 | [255120-promise-of-lingyun.json](./255120-promise-of-lingyun.json) |
 | Promise of Wizard | 153007 | [153007-promise-of-wizard.json](./153007-promise-of-wizard.json) |
+| Promise with My Sister | 289227 | [289227-promise-with-my-sister.json](./289227-promise-with-my-sister.json) |
 | Promised Harvest | 418712 | [418712-promised-harvest.json](./418712-promised-harvest.json) |
 | Promises to Keep | 309092 | [309092-promises-to-keep.json](./309092-promises-to-keep.json) |
 | Promized Land: Outer Town | 326194 | [326194-promized-land-outer-town.json](./326194-promized-land-outer-town.json) |
