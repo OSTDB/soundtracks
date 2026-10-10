@@ -934,6 +934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uncle Ted | 169380 | [169380-uncle-ted.json](./169380-uncle-ted.json) |
 | Uncle Unco | 322752 | [322752-uncle-unco.json](./322752-uncle-unco.json) |
 | Uncle's Basement | 289927 | [289927-uncles-basement.json](./289927-uncles-basement.json) |
+| Uncle's Basement: Collector's pack | 296249 | [296249-uncles-basement-collectors-pack.json](./296249-uncles-basement-collectors-pack.json) |
 | Uncle's Basement: The Winter House | 384058 | [384058-uncles-basement-the-winter-house.json](./384058-uncles-basement-the-winter-house.json) |
 | Uncle's Casino | 78674 | [78674-uncles-casino.json](./78674-uncles-casino.json) |
 | Unclogged | 302055 | [302055-unclogged.json](./302055-unclogged.json) |
