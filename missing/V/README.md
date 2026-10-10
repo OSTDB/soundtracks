@@ -2061,6 +2061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Void Protocol | 346634 | [346634-void-protocol.json](./346634-void-protocol.json) |
 | Void Protocol | 377288 | [377288-void-protocol.json](./377288-void-protocol.json) |
 | Void Raiders | 335962 | [335962-void-raiders.json](./335962-void-raiders.json) |
+| Void Reaper | 280129 | [280129-void-reaper.json](./280129-void-reaper.json) |
 | Void Reaver | 390730 | [390730-void-reaver.json](./390730-void-reaver.json) |
 | Void Red | 376001 | [376001-void-red.json](./376001-void-red.json) |
 | Void Rifter XR | 232920 | [232920-void-rifter-xr.json](./232920-void-rifter-xr.json) |
@@ -2086,6 +2087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Void War | 291212 | [291212-void-war.json](./291212-void-war.json) |
 | Void Warfare | 148889 | [148889-void-warfare.json](./148889-void-warfare.json) |
 | Void Wars | 282025 | [282025-void-wars.json](./282025-void-wars.json) |
+| Void Wizard | 280133 | [280133-void-wizard.json](./280133-void-wizard.json) |
 | Void-Dogs | 180578 | [180578-void-dogs.json](./180578-void-dogs.json) |
 | Void: Edge of Existence | 235847 | [235847-void-edge-of-existence.json](./235847-void-edge-of-existence.json) |
 | Void: Emma | 359534 | [359534-void-emma.json](./359534-void-emma.json) |
