@@ -2174,6 +2174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Newspaper Puzzle Challenge: Sudoku Edition | 210035 | [210035-newspaper-puzzle-challenge-sudoku-edition.json](./210035-newspaper-puzzle-challenge-sudoku-edition.json) |
 | Newsun | 324519 | [324519-newsun.json](./324519-newsun.json) |
 | Newt One | 98145 | [98145-newt-one.json](./98145-newt-one.json) |
+| Newton / Apple Tree | 312263 | [312263-newton-apple-tree.json](./312263-newton-apple-tree.json) |
 | Newton Going Home | 187388 | [187388-newton-going-home.json](./187388-newton-going-home.json) |
 | Newton Museum - Kyouryuu Nendaiki Zenpen | 63961 | [63961-newton-museum-kyouryuu-nendaiki-zenpen.json](./63961-newton-museum-kyouryuu-nendaiki-zenpen.json) |
 | Newton Museum: Kyouryuu Nendaiki Kouhen | 63960 | [63960-newton-museum-kyouryuu-nendaiki-kouhen.json](./63960-newton-museum-kyouryuu-nendaiki-kouhen.json) |
