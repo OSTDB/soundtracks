@@ -4982,11 +4982,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chronotron | 212779 | [212779-chronotron.json](./212779-chronotron.json) |
 | Chronus Arc | 38512 | [38512-chronus-arc.json](./38512-chronus-arc.json) |
 | Chrs 143 | 162430 | [162430-chrs-143.json](./162430-chrs-143.json) |
+| Chrysalis | 321638 | [321638-chrysalis.json](./321638-chrysalis.json) |
 | Chrysalis | 57122 | [57122-chrysalis.json](./57122-chrysalis.json) |
 | Chrysalis: Chrome Butterfly | 389559 | [389559-chrysalis-chrome-butterfly.json](./389559-chrysalis-chrome-butterfly.json) |
 | Chrysanthemum: On the Way to Sweet Dreams | 391235 | [391235-chrysanthemum-on-the-way-to-sweet-dreams.json](./391235-chrysanthemum-on-the-way-to-sweet-dreams.json) |
 | Chrysler Classic Racing | 51042 | [51042-chrysler-classic-racing.json](./51042-chrysler-classic-racing.json) |
 | Chthonian TD | 406144 | [406144-chthonian-td.json](./406144-chthonian-td.json) |
+| Chu x Chu Idol | 321408 | [321408-chu-x-chu-idol.json](./321408-chu-x-chu-idol.json) |
 | Chu!! Karate Uranai Voxel | 407442 | [407442-chu-karate-uranai-voxel.json](./407442-chu-karate-uranai-voxel.json) |
 | Chu's Dynasty | 66164 | [66164-chus-dynasty.json](./66164-chus-dynasty.json) |
 | Chuǎngguān Shā II | 113019 | [113019-chuangguan-sha-ii.json](./113019-chuangguan-sha-ii.json) |
@@ -5071,6 +5073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ChuSingura46+1 S: Chapter 4 & 5 | 168850 | [168850-chusingura46-1-s-chapter-4-and-5.json](./168850-chusingura46-1-s-chapter-4-and-5.json) |
 | Chuukana Janshi Tenhoo Painyan Remix | 56461 | [56461-chuukana-janshi-tenhoo-painyan-remix.json](./56461-chuukana-janshi-tenhoo-painyan-remix.json) |
 | Chuukana Janshi Tenhou Painyan | 380412 | [380412-chuukana-janshi-tenhou-painyan.json](./380412-chuukana-janshi-tenhou-painyan.json) |
+| Chuushaki: Hirasawa Nurse School | 321404 | [321404-chuushaki-hirasawa-nurse-school.json](./321404-chuushaki-hirasawa-nurse-school.json) |
 | Chuusotsu! 1st Graduation: Time After Time | 36485 | [36485-chuusotsu-1st-graduation-time-after-time.json](./36485-chuusotsu-1st-graduation-time-after-time.json) |
 | Chuxie | 308857 | [308857-chuxie.json](./308857-chuxie.json) |
 | Chuxie2 | 398418 | [398418-chuxie2.json](./398418-chuxie2.json) |
