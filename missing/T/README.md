@@ -614,6 +614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Takeda Shingen | 37729 | [37729-takeda-shingen.json](./37729-takeda-shingen.json) |
 | Takeda Shingen | 81334 | [81334-takeda-shingen.json](./81334-takeda-shingen.json) |
 | TakeDogs | 337715 | [337715-takedogs.json](./337715-takedogs.json) |
+| Takedown Legends | 325735 | [325735-takedown-legends.json](./325735-takedown-legends.json) |
 | Takedown: Extermination | 141641 | [141641-takedown-extermination.json](./141641-takedown-extermination.json) |
 | Takedown: Project Lawson | 141640 | [141640-takedown-project-lawson.json](./141640-takedown-project-lawson.json) |
 | Takedown: Red Sabre | 2937 | [2937-takedown-red-sabre.json](./2937-takedown-red-sabre.json) |
@@ -19906,6 +19907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twilight Path | 109615 | [109615-twilight-path.json](./109615-twilight-path.json) |
 | Twilight Protocol | 373734 | [373734-twilight-protocol.json](./373734-twilight-protocol.json) |
 | Twilight Refrain | 63843 | [63843-twilight-refrain.json](./63843-twilight-refrain.json) |
+| Twilight School: The Forbidden Experiment | 325728 | [325728-twilight-school-the-forbidden-experiment.json](./325728-twilight-school-the-forbidden-experiment.json) |
 | Twilight Story: A Quiet House | 279095 | [279095-twilight-story-a-quiet-house.json](./279095-twilight-story-a-quiet-house.json) |
 | Twilight Struggle: Red Sea | 249852 | [249852-twilight-struggle-red-sea.json](./249852-twilight-struggle-red-sea.json) |
 | Twilight Syndrome Kyuumei-hen | 65454 | [65454-twilight-syndrome-kyuumei-hen.json](./65454-twilight-syndrome-kyuumei-hen.json) |
