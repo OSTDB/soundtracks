@@ -7233,6 +7233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blueprint Word: Classroom | 112477 | [112477-blueprint-word-classroom.json](./112477-blueprint-word-classroom.json) |
 | Blues and Bullets | 11415 | [11415-blues-and-bullets.json](./11415-blues-and-bullets.json) |
 | Blues Brothers 2000 | 3425 | [3425-blues-brothers-2000.json](./3425-blues-brothers-2000.json) |
+| Blues Brothers 2023 | 281314 | [281314-blues-brothers-2023.json](./281314-blues-brothers-2023.json) |
 | Blues Brothers S | 330865 | [330865-blues-brothers-s.json](./330865-blues-brothers-s.json) |
 | BlueSkies | 250907 | [250907-blueskies.json](./250907-blueskies.json) |
 | BlueSkies 3 | 291383 | [291383-blueskies-3.json](./291383-blueskies-3.json) |
