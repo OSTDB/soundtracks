@@ -10407,6 +10407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Criss Cross Bomb | 322064 | [322064-criss-cross-bomb.json](./322064-criss-cross-bomb.json) |
 | Crista Caelestis | 306573 | [306573-crista-caelestis.json](./306573-crista-caelestis.json) |
 | Cristal Absoluto | 411734 | [411734-cristal-absoluto.json](./411734-cristal-absoluto.json) |
+| Cristiano Ronaldo: Kick'n'Run | 314597 | [314597-cristiano-ronaldo-kicknrun.json](./314597-cristiano-ronaldo-kicknrun.json) |
 | Criteria | 326203 | [326203-criteria.json](./326203-criteria.json) |
 | Critias Empire | 197123 | [197123-critias-empire.json](./197123-critias-empire.json) |
 | Critical Annihilation | 36027 | [36027-critical-annihilation.json](./36027-critical-annihilation.json) |
