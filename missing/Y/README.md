@@ -88,6 +88,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yakuza Kiwami 3 & Dark Ties: Ryukyu Gal Gang Customization Pack | 375197 | [375197-yakuza-kiwami-3-and-dark-ties-ryukyu-gal-gang-customization-pack.json](./375197-yakuza-kiwami-3-and-dark-ties-ryukyu-gal-gang-customization-pack.json) |
 | Yakuza Online | 55111 | [55111-yakuza-online.json](./55111-yakuza-online.json) |
 | Yakuza Restored | 248781 | [248781-yakuza-restored.json](./248781-yakuza-restored.json) |
+| Yakuza Series Starter Pack | 311045 | [311045-yakuza-series-starter-pack.json](./311045-yakuza-series-starter-pack.json) |
 | Yakuza Shadows of New York | 322399 | [322399-yakuza-shadows-of-new-york.json](./322399-yakuza-shadows-of-new-york.json) |
 | Yakuza: Dead Souls | 7489 | [7489-yakuza-dead-souls.json](./7489-yakuza-dead-souls.json) |
 | Yakuza: Like a Dragon | 36550 | [36550-yakuza-like-a-dragon.json](./36550-yakuza-like-a-dragon.json) |
