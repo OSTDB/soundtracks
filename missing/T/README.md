@@ -1047,6 +1047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tally Castle | 182857 | [182857-tally-castle.json](./182857-tally-castle.json) |
 | Tally Man | 412399 | [412399-tally-man.json](./412399-tally-man.json) |
 | TallyUP | 183865 | [183865-tallyup.json](./183865-tallyup.json) |
+| Talon | 300500 | [300500-talon.json](./300500-talon.json) |
 | Talon City: Death from Above | 214173 | [214173-talon-city-death-from-above.json](./214173-talon-city-death-from-above.json) |
 | Talon One: Bounty Hunter | 305521 | [305521-talon-one-bounty-hunter.json](./305521-talon-one-bounty-hunter.json) |
 | Talon's Blade | 221138 | [221138-talons-blade.json](./221138-talons-blade.json) |
@@ -2844,6 +2845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terraclysm Survivors | 401888 | [401888-terraclysm-survivors.json](./401888-terraclysm-survivors.json) |
 | Terracosmic | 132622 | [132622-terracosmic.json](./132622-terracosmic.json) |
 | Terracotta | 271235 | [271235-terracotta.json](./271235-terracotta.json) |
+| Terracotta: Collector's Edition | 300479 | [300479-terracotta-collectors-edition.json](./300479-terracotta-collectors-edition.json) |
 | Terracrest | 317330 | [317330-terracrest.json](./317330-terracrest.json) |
 | TerraCube | 361690 | [361690-terracube.json](./361690-terracube.json) |
 | Terrafactory: Idle Planet | 384154 | [384154-terrafactory-idle-planet.json](./384154-terrafactory-idle-planet.json) |
@@ -8967,6 +8969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Oregon Trail: 5th Edition | 68343 | [68343-the-oregon-trail-5th-edition.json](./68343-the-oregon-trail-5th-edition.json) |
 | The Oregon Trail: Boom Town | 247177 | [247177-the-oregon-trail-boom-town.json](./247177-the-oregon-trail-boom-town.json) |
 | The Oregon Trail: Classic Edition | 82073 | [82073-the-oregon-trail-classic-edition.json](./82073-the-oregon-trail-classic-edition.json) |
+| The Oregon Trail: Deluxe Edition | 300467 | [300467-the-oregon-trail-deluxe-edition.json](./300467-the-oregon-trail-deluxe-edition.json) |
 | The Origin Mission | 174655 | [174655-the-origin-mission.json](./174655-the-origin-mission.json) |
 | The Origin of Hope | 241504 | [241504-the-origin-of-hope.json](./241504-the-origin-of-hope.json) |
 | The Origin Theory: Episode One | 304589 | [304589-the-origin-theory-episode-one.json](./304589-the-origin-theory-episode-one.json) |
@@ -12421,6 +12424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | This hole in my chest | 176242 | [176242-this-hole-in-my-chest.json](./176242-this-hole-in-my-chest.json) |
 | This House Looks Familiar | 176969 | [176969-this-house-looks-familiar.json](./176969-this-house-looks-familiar.json) |
 | This is a Black Parallelepipedon in a Yellow Field | 321027 | [321027-this-is-a-black-parallelepipedon-in-a-yellow-field.json](./321027-this-is-a-black-parallelepipedon-in-a-yellow-field.json) |
+| This is a Cry for Help | 300462 | [300462-this-is-a-cry-for-help.json](./300462-this-is-a-cry-for-help.json) |
 | This is a game | 198488 | [198488-this-is-a-game.json](./198488-this-is-a-game.json) |
 | This is a real thing that happened | 355471 | [355471-this-is-a-real-thing-that-happened.json](./355471-this-is-a-real-thing-that-happened.json) |
 | This is a Refuge | 226419 | [226419-this-is-a-refuge.json](./226419-this-is-a-refuge.json) |
@@ -16162,6 +16166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total War: Warhammer II - Limited Edition | 4131 | [4131-total-war-warhammer-ii-limited-edition.json](./4131-total-war-warhammer-ii-limited-edition.json) |
 | Total War: Warhammer II - Lokhir Fellheart | 167625 | [167625-total-war-warhammer-ii-lokhir-fellheart.json](./167625-total-war-warhammer-ii-lokhir-fellheart.json) |
 | Total War: Warhammer II - Mortal Empires | 81190 | [81190-total-war-warhammer-ii-mortal-empires.json](./81190-total-war-warhammer-ii-mortal-empires.json) |
+| Total War: Warhammer II - Rakarth | 300494 | [300494-total-war-warhammer-ii-rakarth.json](./300494-total-war-warhammer-ii-rakarth.json) |
 | Total War: Warhammer II - Repanse de Lyonesse | 167628 | [167628-total-war-warhammer-ii-repanse-de-lyonesse.json](./167628-total-war-warhammer-ii-repanse-de-lyonesse.json) |
 | Total War: Warhammer II - Rise of the Tomb Kings | 81191 | [81191-total-war-warhammer-ii-rise-of-the-tomb-kings.json](./81191-total-war-warhammer-ii-rise-of-the-tomb-kings.json) |
 | Total War: Warhammer II - Serpent God Edition | 9759 | [9759-total-war-warhammer-ii-serpent-god-edition.json](./9759-total-war-warhammer-ii-serpent-god-edition.json) |
@@ -19789,6 +19794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tunguska: The Visitation | 152320 | [152320-tunguska-the-visitation.json](./152320-tunguska-the-visitation.json) |
 | Tunguska: The Visitation - Complete Edition | 338030 | [338030-tunguska-the-visitation-complete-edition.json](./338030-tunguska-the-visitation-complete-edition.json) |
 | Tunguska: The Visitation - Way of The Hunter | 227863 | [227863-tunguska-the-visitation-way-of-the-hunter.json](./227863-tunguska-the-visitation-way-of-the-hunter.json) |
+| Tunic GBC | 300510 | [300510-tunic-gbc.json](./300510-tunic-gbc.json) |
 | Tunics! | 243617 | [243617-tunics.json](./243617-tunics.json) |
 | Tuning Champions | 215912 | [215912-tuning-champions.json](./215912-tuning-champions.json) |
 | Tuning Club Online | 199946 | [199946-tuning-club-online.json](./199946-tuning-club-online.json) |
