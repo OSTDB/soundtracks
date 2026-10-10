@@ -1968,6 +1968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Manx TT Super Bike | 36572 | [36572-manx-tt-super-bike.json](./36572-manx-tt-super-bike.json) |
 | Many Crimes of Serenity Falls | 301917 | [301917-many-crimes-of-serenity-falls.json](./301917-many-crimes-of-serenity-falls.json) |
 | Many Faces | 127823 | [127823-many-faces.json](./127823-many-faces.json) |
+| Many Mini Typing Games | 295147 | [295147-many-mini-typing-games.json](./295147-many-mini-typing-games.json) |
 | Many Nights a Whisper | 335230 | [335230-many-nights-a-whisper.json](./335230-many-nights-a-whisper.json) |
 | Manygolf | 54740 | [54740-manygolf.json](./54740-manygolf.json) |
 | Manyland | 35940 | [35940-manyland.json](./35940-manyland.json) |
@@ -6156,6 +6157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meteos | 1165 | [1165-meteos.json](./1165-meteos.json) |
 | Meteos Astro Blocks | 344473 | [344473-meteos-astro-blocks.json](./344473-meteos-astro-blocks.json) |
 | Meteos: Disney Magic | 1166 | [1166-meteos-disney-magic.json](./1166-meteos-disney-magic.json) |
+| MeteoStorm | 295140 | [295140-meteostorm.json](./295140-meteostorm.json) |
 | Meth Master | 199481 | [199481-meth-master.json](./199481-meth-master.json) |
 | Method | 394776 | [394776-method.json](./394776-method.json) |
 | Method of Entry | 329369 | [329369-method-of-entry.json](./329369-method-of-entry.json) |
@@ -11412,6 +11414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Runner | 246474 | [246474-mr-runner.json](./246474-mr-runner.json) |
 | Mr. Runner 2: The Masks | 90204 | [90204-mr-runner-2-the-masks.json](./90204-mr-runner-2-the-masks.json) |
 | Mr. Saitou | 228357 | [228357-mr-saitou.json](./228357-mr-saitou.json) |
+| Mr. Scientist | 295159 | [295159-mr-scientist.json](./295159-mr-scientist.json) |
 | Mr. Setam: Lady Killer | 61118 | [61118-mr-setam-lady-killer.json](./61118-mr-setam-lady-killer.json) |
 | Mr. Shifty | 19729 | [19729-mr-shifty.json](./19729-mr-shifty.json) |
 | Mr. Shifty: Collector's Edition | 53388 | [53388-mr-shifty-collectors-edition.json](./53388-mr-shifty-collectors-edition.json) |
