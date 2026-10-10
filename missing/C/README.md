@@ -9474,6 +9474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crafting in Berxley | 412982 | [412982-crafting-in-berxley.json](./412982-crafting-in-berxley.json) |
 | Crafting Story | 175326 | [175326-crafting-story.json](./175326-crafting-story.json) |
 | Crafting Town | 199660 | [199660-crafting-town.json](./199660-crafting-town.json) |
+| Craftlings | 324569 | [324569-craftlings.json](./324569-craftlings.json) |
 | Craftmas | 105981 | [105981-craftmas.json](./105981-craftmas.json) |
 | Craftomation 101 | 184890 | [184890-craftomation-101.json](./184890-craftomation-101.json) |
 | Craftopia | 124448 | [124448-craftopia.json](./124448-craftopia.json) |
