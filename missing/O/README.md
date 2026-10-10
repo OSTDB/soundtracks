@@ -2742,6 +2742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ostalgie: The Berlin Wall - Legacy of Hoxha | 172165 | [172165-ostalgie-the-berlin-wall-legacy-of-hoxha.json](./172165-ostalgie-the-berlin-wall-legacy-of-hoxha.json) |
 | Ostallian Core | 294298 | [294298-ostallian-core.json](./294298-ostallian-core.json) |
 | Ostekrigen på Mælkevejen | 91455 | [91455-ostekrigen-pa-m-lkevejen.json](./91455-ostekrigen-pa-m-lkevejen.json) |
+| Ostera: The curse of... | 295145 | [295145-ostera-the-curse-of.json](./295145-ostera-the-curse-of.json) |
 | Osterballerei | 92972 | [92972-osterballerei.json](./92972-osterballerei.json) |
 | Osterity | 308276 | [308276-osterity.json](./308276-osterity.json) |
 | Osteya | 34427 | [34427-osteya.json](./34427-osteya.json) |
@@ -3529,6 +3530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Override: Mech City Brawl - Stardust | 161791 | [161791-override-mech-city-brawl-stardust.json](./161791-override-mech-city-brawl-stardust.json) |
 | Override: Mech City Brawl - Super Charged Mega Edition | 118568 | [118568-override-mech-city-brawl-super-charged-mega-edition.json](./118568-override-mech-city-brawl-super-charged-mega-edition.json) |
 | Overrider | 236375 | [236375-overrider.json](./236375-overrider.json) |
+| OverRider | 295146 | [295146-overrider.json](./295146-overrider.json) |
 | Overruled | 10648 | [10648-overruled.json](./10648-overruled.json) |
 | Overrun | 184083 | [184083-overrun.json](./184083-overrun.json) |
 | Overrun Survivors | 231617 | [231617-overrun-survivors.json](./231617-overrun-survivors.json) |
