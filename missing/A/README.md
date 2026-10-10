@@ -198,6 +198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Dream Within a Dream | 394781 | [394781-a-dream-within-a-dream.json](./394781-a-dream-within-a-dream.json) |
 | A Drift for the Irresolute | 180614 | [180614-a-drift-for-the-irresolute.json](./180614-a-drift-for-the-irresolute.json) |
 | A Dual Ascent | 327839 | [327839-a-dual-ascent.json](./327839-a-dual-ascent.json) |
+| A Dungeon Is You | 301076 | [301076-a-dungeon-is-you.json](./301076-a-dungeon-is-you.json) |
 | A Dwarf's Story | 64707 | [64707-a-dwarfs-story.json](./64707-a-dwarfs-story.json) |
 | A Fábrica dos Números | 287152 | [287152-a-fabrica-dos-numeros.json](./287152-a-fabrica-dos-numeros.json) |
 | A Factory Job | 192455 | [192455-a-factory-job.json](./192455-a-factory-job.json) |
@@ -6877,6 +6878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apollo4x | 26978 | [26978-apollo4x.json](./26978-apollo4x.json) |
 | Apology Video | 406316 | [406316-apology-video.json](./406316-apology-video.json) |
 | Apolune 2 | 149511 | [149511-apolune-2.json](./149511-apolune-2.json) |
+| Apomo District | 301062 | [301062-apomo-district.json](./301062-apomo-district.json) |
 | Aponasi Gals Olympos | 45433 | [45433-aponasi-gals-olympos.json](./45433-aponasi-gals-olympos.json) |
 | Apophis | 136490 | [136490-apophis.json](./136490-apophis.json) |
 | Apopia | 159680 | [159680-apopia.json](./159680-apopia.json) |
