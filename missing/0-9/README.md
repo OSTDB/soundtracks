@@ -1079,6 +1079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2Moons | 93995 | [93995-2moons.json](./93995-2moons.json) |
 | 2nd Circle: Powerful Places | 109872 | [109872-2nd-circle-powerful-places.json](./109872-2nd-circle-powerful-places.json) |
 | 2nd Grade: Musical Menace | 230419 | [230419-2nd-grade-musical-menace.json](./230419-2nd-grade-musical-menace.json) |
+| 2nd Obakeidoro! Fest Bundle | 328985 | [328985-2nd-obakeidoro-fest-bundle.json](./328985-2nd-obakeidoro-fest-bundle.json) |
 | 2Pupp | 203862 | [203862-2pupp.json](./203862-2pupp.json) |
 | 2Ship2Harkinian | 303033 | [303033-2ship2harkinian.json](./303033-2ship2harkinian.json) |
 | 2Tax Gold | 268629 | [268629-2tax-gold.json](./268629-2tax-gold.json) |
