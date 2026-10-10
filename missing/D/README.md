@@ -1709,6 +1709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dawntide | 204977 | [204977-dawntide.json](./204977-dawntide.json) |
 | Dawntown | 301341 | [301341-dawntown.json](./301341-dawntown.json) |
 | DawnWander | 158525 | [158525-dawnwander.json](./158525-dawnwander.json) |
+| Daxter | 305477 | [305477-daxter.json](./305477-daxter.json) |
 | Day 10,909 | 264247 | [264247-day-10-909.json](./264247-day-10-909.json) |
 | Day 11 | 263003 | [263003-day-11.json](./263003-day-11.json) |
 | Day 31 | 419946 | [419946-day-31.json](./419946-day-31.json) |
@@ -1999,6 +2000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead by Daylight: Definitive Edition | 136185 | [136185-dead-by-daylight-definitive-edition.json](./136185-dead-by-daylight-definitive-edition.json) |
 | Dead by Daylight: Descend Beyond Chapter | 154345 | [154345-dead-by-daylight-descend-beyond-chapter.json](./154345-dead-by-daylight-descend-beyond-chapter.json) |
 | Dead by Daylight: Dungeons & Dragons | 300798 | [300798-dead-by-daylight-dungeons-and-dragons.json](./300798-dead-by-daylight-dungeons-and-dragons.json) |
+| Dead by Daylight: Dungeons & Dragons Edition | 305485 | [305485-dead-by-daylight-dungeons-and-dragons-edition.json](./305485-dead-by-daylight-dungeons-and-dragons-edition.json) |
 | Dead by Daylight: Five Nights at Freddy's | 350030 | [350030-dead-by-daylight-five-nights-at-freddys.json](./350030-dead-by-daylight-five-nights-at-freddys.json) |
 | Dead by Daylight: Gold Edition | 282124 | [282124-dead-by-daylight-gold-edition.json](./282124-dead-by-daylight-gold-edition.json) |
 | Dead by Daylight: Hellraiser Chapter | 167819 | [167819-dead-by-daylight-hellraiser-chapter.json](./167819-dead-by-daylight-hellraiser-chapter.json) |
@@ -2301,6 +2303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Spreading | 261871 | [261871-dead-spreading.json](./261871-dead-spreading.json) |
 | Dead Spreading: Survival | 239911 | [239911-dead-spreading-survival.json](./239911-dead-spreading-survival.json) |
 | Dead Station | 225883 | [225883-dead-station.json](./225883-dead-station.json) |
+| Dead Station 2 | 305410 | [305410-dead-station-2.json](./305410-dead-station-2.json) |
 | Dead Stop | 34298 | [34298-dead-stop.json](./34298-dead-stop.json) |
 | Dead Stop: No Vacancy | 413462 | [413462-dead-stop-no-vacancy.json](./413462-dead-stop-no-vacancy.json) |
 | Dead Stride | 399626 | [399626-dead-stride.json](./399626-dead-stride.json) |
@@ -8580,6 +8583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draconic Echoes: The Ardent War | 126664 | [126664-draconic-echoes-the-ardent-war.json](./126664-draconic-echoes-the-ardent-war.json) |
 | Draconic Evolution | 232672 | [232672-draconic-evolution.json](./232672-draconic-evolution.json) |
 | Draconic Order VR | 31925 | [31925-draconic-order-vr.json](./31925-draconic-order-vr.json) |
+| Draconic Resurgence | 305491 | [305491-draconic-resurgence.json](./305491-draconic-resurgence.json) |
 | Draconis Race | 358440 | [358440-draconis-race.json](./358440-draconis-race.json) |
 | Draconis Volatus | 211777 | [211777-draconis-volatus.json](./211777-draconis-volatus.json) |
 | Dracs After Dusk | 347735 | [347735-dracs-after-dusk.json](./347735-dracs-after-dusk.json) |
