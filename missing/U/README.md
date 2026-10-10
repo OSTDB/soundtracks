@@ -730,6 +730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Umbraseal | 120928 | [120928-umbraseal.json](./120928-umbraseal.json) |
 | Umbrella Corps | 12530 | [12530-umbrella-corps.json](./12530-umbrella-corps.json) |
 | Umbrella Escape | 230915 | [230915-umbrella-escape.json](./230915-umbrella-escape.json) |
+| Umbrella Girl | 279545 | [279545-umbrella-girl.json](./279545-umbrella-girl.json) |
 | Umesawa Yukari no Igo Seminar | 54939 | [54939-umesawa-yukari-no-igo-seminar.json](./54939-umesawa-yukari-no-igo-seminar.json) |
 | Umezawa Yukari no Taikyoku Igo - Heisei Kiin II | 286087 | [286087-umezawa-yukari-no-taikyoku-igo-heisei-kiin-ii.json](./286087-umezawa-yukari-no-taikyoku-igo-heisei-kiin-ii.json) |
 | Umfend | 111034 | [111034-umfend.json](./111034-umfend.json) |
