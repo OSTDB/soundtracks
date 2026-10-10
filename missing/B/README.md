@@ -6458,6 +6458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blockour | 184382 | [184382-blockour.json](./184382-blockour.json) |
 | Blockout | 10208 | [10208-blockout.json](./10208-blockout.json) |
 | Blockout | 347672 | [347672-blockout.json](./347672-blockout.json) |
+| Blockoverse: The Legend of the Pix | 321070 | [321070-blockoverse-the-legend-of-the-pix.json](./321070-blockoverse-the-legend-of-the-pix.json) |
 | Blockpost Mobile | 225875 | [225875-blockpost-mobile.json](./225875-blockpost-mobile.json) |
 | Blocks | 113503 | [113503-blocks.json](./113503-blocks.json) |
 | Blocks | 208625 | [208625-blocks.json](./208625-blocks.json) |
