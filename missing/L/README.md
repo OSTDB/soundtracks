@@ -4217,6 +4217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lofi Milk Delivery | 245921 | [245921-lofi-milk-delivery.json](./245921-lofi-milk-delivery.json) |
 | Lofi Ping Pong | 116187 | [116187-lofi-ping-pong.json](./116187-lofi-ping-pong.json) |
 | Lofirunner | 332844 | [332844-lofirunner.json](./332844-lofirunner.json) |
+| Loft is in the air | 315798 | [315798-loft-is-in-the-air.json](./315798-loft-is-in-the-air.json) |
 | Loftus and the Sky Cap | 170282 | [170282-loftus-and-the-sky-cap.json](./170282-loftus-and-the-sky-cap.json) |
 | Log Away: Christmas DLC | 395708 | [395708-log-away-christmas-dlc.json](./395708-log-away-christmas-dlc.json) |
 | Log Away: Easter DLC | 395717 | [395717-log-away-easter-dlc.json](./395717-log-away-easter-dlc.json) |
@@ -4978,6 +4979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost in Voice | 384831 | [384831-lost-in-voice.json](./384831-lost-in-voice.json) |
 | Lost In Winter | 258172 | [258172-lost-in-winter.json](./258172-lost-in-winter.json) |
 | Lost in Yomori | 382283 | [382283-lost-in-yomori.json](./382283-lost-in-yomori.json) |
+| Lost in You | 315817 | [315817-lost-in-you.json](./315817-lost-in-you.json) |
 | Lost Inca Prophecy 2: The Hollow Island | 273343 | [273343-lost-inca-prophecy-2-the-hollow-island.json](./273343-lost-inca-prophecy-2-the-hollow-island.json) |
 | Lost Industry 2 | 228344 | [228344-lost-industry-2.json](./228344-lost-industry-2.json) |
 | Lost Infinity | 275843 | [275843-lost-infinity.json](./275843-lost-infinity.json) |
