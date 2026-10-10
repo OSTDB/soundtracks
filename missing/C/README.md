@@ -888,6 +888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cannon Fodder 2 | 11986 | [11986-cannon-fodder-2.json](./11986-cannon-fodder-2.json) |
 | Cannon Guys | 334859 | [334859-cannon-guys.json](./334859-cannon-guys.json) |
 | Cannon Keep | 381198 | [381198-cannon-keep.json](./381198-cannon-keep.json) |
+| Cannon Master: Military Sport | 280154 | [280154-cannon-master-military-sport.json](./280154-cannon-master-military-sport.json) |
 | Cannon Momento | 179577 | [179577-cannon-momento.json](./179577-cannon-momento.json) |
 | Cannon Royale | 223503 | [223503-cannon-royale.json](./223503-cannon-royale.json) |
 | Cannon Spike | 6719 | [6719-cannon-spike.json](./6719-cannon-spike.json) |
@@ -2534,6 +2535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catch Bus | 232033 | [232033-catch-bus.json](./232033-catch-bus.json) |
 | Catch Canvas | 33095 | [33095-catch-canvas.json](./33095-catch-canvas.json) |
 | Catch Driver | 112145 | [112145-catch-driver.json](./112145-catch-driver.json) |
+| Catch Flex: AI Dance Game | 280164 | [280164-catch-flex-ai-dance-game.json](./280164-catch-flex-ai-dance-game.json) |
 | Catch Flex: Quest | 347722 | [347722-catch-flex-quest.json](./347722-catch-flex-quest.json) |
 | Catch Hina | 185590 | [185590-catch-hina.json](./185590-catch-hina.json) |
 | Catch Idle: Dimension Warp Story | 208038 | [208038-catch-idle-dimension-warp-story.json](./208038-catch-idle-dimension-warp-story.json) |
@@ -3471,6 +3473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chantelise - A Tale of Two Sisters | 12525 | [12525-chantelise-a-tale-of-two-sisters.json](./12525-chantelise-a-tale-of-two-sisters.json) |
 | Chanter: Kimi no Uta ga Todoitara | 77906 | [77906-chanter-kimi-no-uta-ga-todoitara.json](./77906-chanter-kimi-no-uta-ga-todoitara.json) |
 | Chants of Sennaar | 198499 | [198499-chants-of-sennaar.json](./198499-chants-of-sennaar.json) |
+| Chanye's Home | 280151 | [280151-chanyes-home.json](./280151-chanyes-home.json) |
 | Chao Adventure | 225623 | [225623-chao-adventure.json](./225623-chao-adventure.json) |
 | Chao Adventure | 331473 | [331473-chao-adventure.json](./331473-chao-adventure.json) |
 | Chao Adventure 2 | 225624 | [225624-chao-adventure-2.json](./225624-chao-adventure-2.json) |
@@ -9744,6 +9747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crank It Up! | 305911 | [305911-crank-it-up.json](./305911-crank-it-up.json) |
 | Crank Racing! | 413731 | [413731-crank-racing.json](./413731-crank-racing.json) |
 | Crank Sudoku | 383965 | [383965-crank-sudoku.json](./383965-crank-sudoku.json) |
+| Crank that Clicker | 280138 | [280138-crank-that-clicker.json](./280138-crank-that-clicker.json) |
 | Crank the Weasel | 65481 | [65481-crank-the-weasel.json](./65481-crank-the-weasel.json) |
 | Crank Tower Defense | 347140 | [347140-crank-tower-defense.json](./347140-crank-tower-defense.json) |
 | Crank! Push! Tilt! | 243697 | [243697-crank-push-tilt.json](./243697-crank-push-tilt.json) |
@@ -10023,6 +10027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Cars: Hit the Road | 62976 | [62976-crazy-cars-hit-the-road.json](./62976-crazy-cars-hit-the-road.json) |
 | Crazy Cart: Ultimate Drift | 120289 | [120289-crazy-cart-ultimate-drift.json](./120289-crazy-cart-ultimate-drift.json) |
 | Crazy Castle | 23564 | [23564-crazy-castle.json](./23564-crazy-castle.json) |
+| Crazy Castle | 280145 | [280145-crazy-castle.json](./280145-crazy-castle.json) |
 | Crazy Cauldron | 176968 | [176968-crazy-cauldron.json](./176968-crazy-cauldron.json) |
 | Crazy Caveman | 41016 | [41016-crazy-caveman.json](./41016-crazy-caveman.json) |
 | Crazy Chain: Elpis no Kusari | 392427 | [392427-crazy-chain-elpis-no-kusari.json](./392427-crazy-chain-elpis-no-kusari.json) |
