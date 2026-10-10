@@ -7472,6 +7472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Hope | 368609 | [368609-the-last-hope.json](./368609-the-last-hope.json) |
 | The Last Hope: Atomic Bomb - Crypto War | 88195 | [88195-the-last-hope-atomic-bomb-crypto-war.json](./88195-the-last-hope-atomic-bomb-crypto-war.json) |
 | The Last Horseman | 397189 | [397189-the-last-horseman.json](./397189-the-last-horseman.json) |
+| The Last Hospital | 292997 | [292997-the-last-hospital.json](./292997-the-last-hospital.json) |
 | The Last Inca | 71771 | [71771-the-last-inca.json](./71771-the-last-inca.json) |
 | The Last Janitor: Data Cleanup | 361680 | [361680-the-last-janitor-data-cleanup.json](./361680-the-last-janitor-data-cleanup.json) |
 | The Last Job | 236792 | [236792-the-last-job.json](./236792-the-last-job.json) |
@@ -19469,6 +19470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Truckin' It! | 382338 | [382338-truckin-it.json](./382338-truckin-it.json) |
 | Trucking | 114961 | [114961-trucking.json](./114961-trucking.json) |
 | Trucking School: Truck Simulator Driving 2025 | 376239 | [376239-trucking-school-truck-simulator-driving-2025.json](./376239-trucking-school-truck-simulator-driving-2025.json) |
+| Trucking Simulator | 292984 | [292984-trucking-simulator.json](./292984-trucking-simulator.json) |
 | Trucks & Trailers | 10290 | [10290-trucks-and-trailers.json](./10290-trucks-and-trailers.json) |
 | Trucks and Things That Go Puzzle Game | 109022 | [109022-trucks-and-things-that-go-puzzle-game.json](./109022-trucks-and-things-that-go-puzzle-game.json) |
 | Trucksform3d Offroad 3D Shooting Bigfoot Endless Racing Truck | 102825 | [102825-trucksform3d-offroad-3d-shooting-bigfoot-endless-racing-truck.json](./102825-trucksform3d-offroad-3d-shooting-bigfoot-endless-racing-truck.json) |
