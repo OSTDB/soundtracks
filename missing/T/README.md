@@ -10009,6 +10009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Simpsons | 198885 | [198885-the-simpsons.json](./198885-the-simpsons.json) |
 | The Simpsons | 198887 | [198887-the-simpsons.json](./198887-the-simpsons.json) |
 | The Simpsons | 198888 | [198888-the-simpsons.json](./198888-the-simpsons.json) |
+| The Simpsons | 330108 | [330108-the-simpsons.json](./330108-the-simpsons.json) |
 | The Simpsons Arcade Game | 2826 | [2826-the-simpsons-arcade-game.json](./2826-the-simpsons-arcade-game.json) |
 | The Simpsons Bart-Shooter | 365246 | [365246-the-simpsons-bart-shooter.json](./365246-the-simpsons-bart-shooter.json) |
 | The Simpsons Game | 259329 | [259329-the-simpsons-game.json](./259329-the-simpsons-game.json) |
