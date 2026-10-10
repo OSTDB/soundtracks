@@ -10134,6 +10134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Driverio 2 | 223518 | [223518-driverio-2.json](./223518-driverio-2.json) |
 | Drivers Ed Portable | 70425 | [70425-drivers-ed-portable.json](./70425-drivers-ed-portable.json) |
 | Drivers of the Apocalypse | 324586 | [324586-drivers-of-the-apocalypse.json](./324586-drivers-of-the-apocalypse.json) |
+| DriveSafely | 285936 | [285936-drivesafely.json](./285936-drivesafely.json) |
 | DriveWave | 374953 | [374953-drivewave.json](./374953-drivewave.json) |
 | Driving Academy 2018 Simulator | 86972 | [86972-driving-academy-2018-simulator.json](./86972-driving-academy-2018-simulator.json) |
 | Driving Alone at Night | 181797 | [181797-driving-alone-at-night.json](./181797-driving-alone-at-night.json) |
@@ -10204,6 +10205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drone Gladiator | 154057 | [154057-drone-gladiator.json](./154057-drone-gladiator.json) |
 | Drone Investigations | 127866 | [127866-drone-investigations.json](./127866-drone-investigations.json) |
 | Drone Lander | 23859 | [23859-drone-lander.json](./23859-drone-lander.json) |
+| Drone Perspective | 285941 | [285941-drone-perspective.json](./285941-drone-perspective.json) |
 | Drone Race Simulator Pilot Flight School Airplane Games Jet 2023 | 227515 | [227515-drone-race-simulator-pilot-flight-school-airplane-games-jet-2023.json](./227515-drone-race-simulator-pilot-flight-school-airplane-games-jet-2023.json) |
 | Drone Racer | 127200 | [127200-drone-racer.json](./127200-drone-racer.json) |
 | Drone Racer: Fly Stunt Simulator | 287663 | [287663-drone-racer-fly-stunt-simulator.json](./287663-drone-racer-fly-stunt-simulator.json) |
