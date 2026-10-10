@@ -5779,6 +5779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Adventure Downhill Rush | 269084 | [269084-animal-adventure-downhill-rush.json](./269084-animal-adventure-downhill-rush.json) |
 | Animal Away Jam | 297651 | [297651-animal-away-jam.json](./297651-animal-away-jam.json) |
 | Animal Babysister Fighter | 200474 | [200474-animal-babysister-fighter.json](./200474-animal-babysister-fighter.json) |
+| Animal Battle Arena | 315808 | [315808-animal-battle-arena.json](./315808-animal-battle-arena.json) |
 | Animal Bingo | 351580 | [351580-animal-bingo.json](./351580-animal-bingo.json) |
 | Animal Bomb Chess | 303147 | [303147-animal-bomb-chess.json](./303147-animal-bomb-chess.json) |
 | Animal Bomber | 147466 | [147466-animal-bomber.json](./147466-animal-bomber.json) |
