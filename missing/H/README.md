@@ -206,6 +206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hair Nah | 243379 | [243379-hair-nah.json](./243379-hair-nah.json) |
 | Hair Salon: Cool Stories | 237376 | [237376-hair-salon-cool-stories.json](./237376-hair-salon-cool-stories.json) |
 | Hair Tattoo: Barbershop Master | 208920 | [208920-hair-tattoo-barbershop-master.json](./208920-hair-tattoo-barbershop-master.json) |
+| Hairdresser Builder Bundle | 311044 | [311044-hairdresser-builder-bundle.json](./311044-hairdresser-builder-bundle.json) |
 | Hairdresser Liquidator Bundle | 342236 | [342236-hairdresser-liquidator-bundle.json](./342236-hairdresser-liquidator-bundle.json) |
 | Hairdresser Simulator | 149731 | [149731-hairdresser-simulator.json](./149731-hairdresser-simulator.json) |
 | Hairstyle | 104597 | [104597-hairstyle.json](./104597-hairstyle.json) |
