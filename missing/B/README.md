@@ -3049,6 +3049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bear Heart Defense | 299395 | [299395-bear-heart-defense.json](./299395-bear-heart-defense.json) |
 | Bear Horror | 408726 | [408726-bear-horror.json](./408726-bear-horror.json) |
 | Bear in the Snow | 362882 | [362882-bear-in-the-snow.json](./362882-bear-in-the-snow.json) |
+| Bear Miner | 315236 | [315236-bear-miner.json](./315236-bear-miner.json) |
 | Bear Stormin' | 339647 | [339647-bear-stormin.json](./339647-bear-stormin.json) |
 | Bear Surfin Mega Wave | 200638 | [200638-bear-surfin-mega-wave.json](./200638-bear-surfin-mega-wave.json) |
 | Bear the Terrain | 211095 | [211095-bear-the-terrain.json](./211095-bear-the-terrain.json) |
@@ -10456,6 +10457,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bungmyeong | 145640 | [145640-bungmyeong.json](./145640-bungmyeong.json) |
 | Bungo Stray Dogs: Tales of the Lost | 105830 | [105830-bungo-stray-dogs-tales-of-the-lost.json](./105830-bungo-stray-dogs-tales-of-the-lost.json) |
 | Bungo to Alchemist | 314458 | [314458-bungo-to-alchemist.json](./314458-bungo-to-alchemist.json) |
+| BuniBon | 315238 | [315238-bunibon.json](./315238-bunibon.json) |
+| BuniBon 2 | 315239 | [315239-bunibon-2.json](./315239-bunibon-2.json) |
 | Bunk.Town | 185446 | [185446-bunk-town.json](./185446-bunk-town.json) |
 | Bunker | 170332 | [170332-bunker.json](./170332-bunker.json) |
 | Bunker | 22780 | [22780-bunker.json](./22780-bunker.json) |
