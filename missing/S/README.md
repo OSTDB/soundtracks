@@ -2514,6 +2514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea Ranger | 367839 | [367839-sea-ranger.json](./367839-sea-ranger.json) |
 | Sea Rivals VR | 255160 | [255160-sea-rivals-vr.json](./255160-sea-rivals-vr.json) |
 | Sea Rogue | 237446 | [237446-sea-rogue.json](./237446-sea-rogue.json) |
+| Sea Rover | 293523 | [293523-sea-rover.json](./293523-sea-rover.json) |
 | Sea Salt | 96204 | [96204-sea-salt.json](./96204-sea-salt.json) |
 | Sea Salt City | 404240 | [404240-sea-salt-city.json](./404240-sea-salt-city.json) |
 | Sea Scenes | 219616 | [219616-sea-scenes.json](./219616-sea-scenes.json) |
@@ -9686,6 +9687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soaring Perl Tom | 120752 | [120752-soaring-perl-tom.json](./120752-soaring-perl-tom.json) |
 | Soarocity | 169838 | [169838-soarocity.json](./169838-soarocity.json) |
 | Soba's Gunpaw | 358227 | [358227-sobas-gunpaw.json](./358227-sobas-gunpaw.json) |
+| Sobosuba | 293517 | [293517-sobosuba.json](./293517-sobosuba.json) |
 | Sobreviva Ziggy! | 329012 | [329012-sobreviva-ziggy.json](./329012-sobreviva-ziggy.json) |
 | Soccer | 172594 | [172594-soccer.json](./172594-soccer.json) |
 | Soccer | 18441 | [18441-soccer.json](./18441-soccer.json) |
@@ -11834,6 +11836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Battle Royale | 264000 | [264000-space-battle-royale.json](./264000-space-battle-royale.json) |
 | Space Battle VR | 112626 | [112626-space-battle-vr.json](./112626-space-battle-vr.json) |
 | Space Battle: Humanity | 51507 | [51507-space-battle-humanity.json](./51507-space-battle-humanity.json) |
+| Space Battle: Mayhem | 293519 | [293519-space-battle-mayhem.json](./293519-space-battle-mayhem.json) |
 | Space Battle: Sea Battle | 264906 | [264906-space-battle-sea-battle.json](./264906-space-battle-sea-battle.json) |
 | Space Battlecruiser | 99047 | [99047-space-battlecruiser.json](./99047-space-battlecruiser.json) |
 | Space Battlefield | 187979 | [187979-space-battlefield.json](./187979-space-battlefield.json) |
@@ -11882,6 +11885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Casual | 220625 | [220625-space-casual.json](./220625-space-casual.json) |
 | Space Cat Digger | 418287 | [418287-space-cat-digger.json](./418287-space-cat-digger.json) |
 | Space Cat Solitaire | 368471 | [368471-space-cat-solitaire.json](./368471-space-cat-solitaire.json) |
+| Space Cats | 293527 | [293527-space-cats.json](./293527-space-cats.json) |
 | Space Cats Saga: Chapter I | 196023 | [196023-space-cats-saga-chapter-i.json](./196023-space-cats-saga-chapter-i.json) |
 | Space Cats Saga: Chapter II | 196024 | [196024-space-cats-saga-chapter-ii.json](./196024-space-cats-saga-chapter-ii.json) |
 | Space Cavern | 18502 | [18502-space-cavern.json](./18502-space-cavern.json) |
@@ -11967,6 +11971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Eater Force | 182919 | [182919-space-eater-force.json](./182919-space-eater-force.json) |
 | Space Egg Shooter | 199482 | [199482-space-egg-shooter.json](./199482-space-egg-shooter.json) |
 | Space electrician | 126668 | [126668-space-electrician.json](./126668-space-electrician.json) |
+| Space Elevator Project | 293532 | [293532-space-elevator-project.json](./293532-space-elevator-project.json) |
 | Space Elite Force | 100593 | [100593-space-elite-force.json](./100593-space-elite-force.json) |
 | Space Elite Force 2 in 1 | 213856 | [213856-space-elite-force-2-in-1.json](./213856-space-elite-force-2-in-1.json) |
 | Space Empires | 15649 | [15649-space-empires.json](./15649-space-empires.json) |
@@ -12389,6 +12394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Station 13 | 66396 | [66396-space-station-13.json](./66396-space-station-13.json) |
 | Space Station Alpha | 35964 | [35964-space-station-alpha.json](./35964-space-station-alpha.json) |
 | Space Station Cargo Simulator | 149241 | [149241-space-station-cargo-simulator.json](./149241-space-station-cargo-simulator.json) |
+| Space Station Defender | 293533 | [293533-space-station-defender.json](./293533-space-station-defender.json) |
 | Space Station Escape | 282636 | [282636-space-station-escape.json](./282636-space-station-escape.json) |
 | Space Station Invader VR | 127711 | [127711-space-station-invader-vr.json](./127711-space-station-invader-vr.json) |
 | Space Station Loma: Operations | 29841 | [29841-space-station-loma-operations.json](./29841-space-station-loma-operations.json) |
@@ -12612,6 +12618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spaceship Commander | 124694 | [124694-spaceship-commander.json](./124694-spaceship-commander.json) |
 | Spaceship Curse | 147634 | [147634-spaceship-curse.json](./147634-spaceship-curse.json) |
 | Spaceship Down | 346220 | [346220-spaceship-down.json](./346220-spaceship-down.json) |
+| Spaceship Driver License | 293528 | [293528-spaceship-driver-license.json](./293528-spaceship-driver-license.json) |
 | Spaceship For Newbies | 152745 | [152745-spaceship-for-newbies.json](./152745-spaceship-for-newbies.json) |
 | Spaceship Hunters | 184512 | [184512-spaceship-hunters.json](./184512-spaceship-hunters.json) |
 | Spaceship Man 2 | 351258 | [351258-spaceship-man-2.json](./351258-spaceship-man-2.json) |
@@ -16161,6 +16168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steel Division 2: Nemesis #4 - Storming Toulon | 157535 | [157535-steel-division-2-nemesis-4-storming-toulon.json](./157535-steel-division-2-nemesis-4-storming-toulon.json) |
 | Steel Division 2: Reinforcement Pack #11 | 157542 | [157542-steel-division-2-reinforcement-pack-11.json](./157542-steel-division-2-reinforcement-pack-11.json) |
 | Steel Division 2: Reinforcement Pack #14 - Aces | 318438 | [318438-steel-division-2-reinforcement-pack-14-aces.json](./318438-steel-division-2-reinforcement-pack-14-aces.json) |
+| Steel Division 2: Tribute to Normandy '44 | 293542 | [293542-steel-division-2-tribute-to-normandy-44.json](./293542-steel-division-2-tribute-to-normandy-44.json) |
 | Steel Division 2: Tribute to the Liberation of Italy | 191036 | [191036-steel-division-2-tribute-to-the-liberation-of-italy.json](./191036-steel-division-2-tribute-to-the-liberation-of-italy.json) |
 | Steel Division: Normandy 44 | 27475 | [27475-steel-division-normandy-44.json](./27475-steel-division-normandy-44.json) |
 | Steel Division: Normandy 44 - Deluxe Edition | 53667 | [53667-steel-division-normandy-44-deluxe-edition.json](./53667-steel-division-normandy-44-deluxe-edition.json) |
@@ -20147,6 +20155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Pitfall: 30th Anniversary Edition | 48864 | [48864-super-pitfall-30th-anniversary-edition.json](./48864-super-pitfall-30th-anniversary-edition.json) |
 | Super Pixel Kid | 221706 | [221706-super-pixel-kid.json](./221706-super-pixel-kid.json) |
 | Super Pixel Maker | 181758 | [181758-super-pixel-maker.json](./181758-super-pixel-maker.json) |
+| Super Pixel Merge Balls | 293502 | [293502-super-pixel-merge-balls.json](./293502-super-pixel-merge-balls.json) |
 | Super Pixel Racers | 111185 | [111185-super-pixel-racers.json](./111185-super-pixel-racers.json) |
 | Super Pixelander | 124757 | [124757-super-pixelander.json](./124757-super-pixelander.json) |
 | Super Planet Life | 225101 | [225101-super-planet-life.json](./225101-super-planet-life.json) |
@@ -20703,6 +20712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super-VGA Harrier | 70114 | [70114-super-vga-harrier.json](./70114-super-vga-harrier.json) |
 | Super-X | 46861 | [46861-super-x.json](./46861-super-x.json) |
 | Super: Taxi Simulation | 285692 | [285692-super-taxi-simulation.json](./285692-super-taxi-simulation.json) |
+| Superation | 293505 | [293505-superation.json](./293505-superation.json) |
 | Superball | 117000 | [117000-superball.json](./117000-superball.json) |
 | SuperBeam | 115608 | [115608-superbeam.json](./115608-superbeam.json) |
 | Superbeat: Xonic | 12875 | [12875-superbeat-xonic.json](./12875-superbeat-xonic.json) |
