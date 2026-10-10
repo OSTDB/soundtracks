@@ -632,6 +632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eco City | 397760 | [397760-eco-city.json](./397760-eco-city.json) |
 | Eco Mahjong | 177049 | [177049-eco-mahjong.json](./177049-eco-mahjong.json) |
 | Eco Of The Wild Online | 287192 | [287192-eco-of-the-wild-online.json](./287192-eco-of-the-wild-online.json) |
+| Eco Ronin | 323440 | [323440-eco-ronin.json](./323440-eco-ronin.json) |
 | Eco Shooter: Plant 530 | 20506 | [20506-eco-shooter-plant-530.json](./20506-eco-shooter-plant-530.json) |
 | Eco Warrior Simulator | 151281 | [151281-eco-warrior-simulator.json](./151281-eco-warrior-simulator.json) |
 | Eco-Creatures: Save the Forest | 21280 | [21280-eco-creatures-save-the-forest.json](./21280-eco-creatures-save-the-forest.json) |
@@ -1510,6 +1511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elisius | 149040 | [149040-elisius.json](./149040-elisius.json) |
 | Eliss | 29052 | [29052-eliss.json](./29052-eliss.json) |
 | Eliss Infinity | 41500 | [41500-eliss-infinity.json](./41500-eliss-infinity.json) |
+| Elissa Ⅰ: Body in the bedroom | 323435 | [323435-elissa-i-body-in-the-bedroom.json](./323435-elissa-i-body-in-the-bedroom.json) |
 | Elite Archery | 111876 | [111876-elite-archery.json](./111876-elite-archery.json) |
 | Elite Beasts | 381628 | [381628-elite-beasts.json](./381628-elite-beasts.json) |
 | Elite Beat Agents | 9109 | [9109-elite-beat-agents.json](./9109-elite-beat-agents.json) |
