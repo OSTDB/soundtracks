@@ -3620,6 +3620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BeetleQuest: The Puzzle Game | 358449 | [358449-beetlequest-the-puzzle-game.json](./358449-beetlequest-the-puzzle-game.json) |
 | Beetles | 163819 | [163819-beetles.json](./163819-beetles.json) |
 | Beezer | 23569 | [23569-beezer.json](./23569-beezer.json) |
+| Beezooka | 303825 | [303825-beezooka.json](./303825-beezooka.json) |
 | Befabled | 183477 | [183477-befabled.json](./183477-befabled.json) |
 | Before | 380013 | [380013-before.json](./380013-before.json) |
 | Before Closure | 369925 | [369925-before-closure.json](./369925-before-closure.json) |
@@ -4700,6 +4701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bikkuriman 2000 Kamereon Zantei no Inbou | 376733 | [376733-bikkuriman-2000-kamereon-zantei-no-inbou.json](./376733-bikkuriman-2000-kamereon-zantei-no-inbou.json) |
 | Bikkuriman 2000: Charging Card GB | 228492 | [228492-bikkuriman-2000-charging-card-gb.json](./228492-bikkuriman-2000-charging-card-gb.json) |
 | Bikkuriman 2000: Viva! Pocket Festival! | 43971 | [43971-bikkuriman-2000-viva-pocket-festival.json](./43971-bikkuriman-2000-viva-pocket-festival.json) |
+| Bikkuriman Wonder Collection | 303819 | [303819-bikkuriman-wonder-collection.json](./303819-bikkuriman-wonder-collection.json) |
 | Bikkuriman World: Gekitou Sei Senshi | 48544 | [48544-bikkuriman-world-gekitou-sei-senshi.json](./48544-bikkuriman-world-gekitou-sei-senshi.json) |
 | Biko 2: Reversible Face | 22351 | [22351-biko-2-reversible-face.json](./22351-biko-2-reversible-face.json) |
 | Bilateral Table Tennis | 288355 | [288355-bilateral-table-tennis.json](./288355-bilateral-table-tennis.json) |
@@ -7951,6 +7953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boom! Maze | 86421 | [86421-boom-maze.json](./86421-boom-maze.json) |
 | Boom! Tanks | 62778 | [62778-boom-tanks.json](./62778-boom-tanks.json) |
 | Boom! VR | 158069 | [158069-boom-vr.json](./158069-boom-vr.json) |
+| Boomadrons Bouncyverse Rebound | 303824 | [303824-boomadrons-bouncyverse-rebound.json](./303824-boomadrons-bouncyverse-rebound.json) |
 | BoomBang | 135676 | [135676-boombang.json](./135676-boombang.json) |
 | Boomblastica | 65520 | [65520-boomblastica.json](./65520-boomblastica.json) |
 | Boombot 2 | 335457 | [335457-boombot-2.json](./335457-boombot-2.json) |
