@@ -4594,6 +4594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nullstar: Solus | 310206 | [310206-nullstar-solus.json](./310206-nullstar-solus.json) |
 | Nullysun | 74478 | [74478-nullysun.json](./74478-nullysun.json) |
 | Nulphia | 393717 | [393717-nulphia.json](./393717-nulphia.json) |
+| Nululu Online | 313991 | [313991-nululu-online.json](./313991-nululu-online.json) |
 | Num Dá Véi! | 329673 | [329673-num-da-vei.json](./329673-num-da-vei.json) |
 | Num One: Revised Edition | 187504 | [187504-num-one-revised-edition.json](./187504-num-one-revised-edition.json) |
 | Num Yumms | 252143 | [252143-num-yumms.json](./252143-num-yumms.json) |
