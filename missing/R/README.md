@@ -814,6 +814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rainbow Duck | 51605 | [51605-rainbow-duck.json](./51605-rainbow-duck.json) |
 | Rainbow Festival 3 | 334228 | [334228-rainbow-festival-3.json](./334228-rainbow-festival-3.json) |
 | Rainbow fighter | 285570 | [285570-rainbow-fighter.json](./285570-rainbow-fighter.json) |
+| Rainbow Fish and the Amazing Lagoon | 280744 | [280744-rainbow-fish-and-the-amazing-lagoon.json](./280744-rainbow-fish-and-the-amazing-lagoon.json) |
 | Rainbow Fish Goes to College | 305138 | [305138-rainbow-fish-goes-to-college.json](./305138-rainbow-fish-goes-to-college.json) |
 | Rainbow Fish: The Most beautiful Fish in the Ocean | 235358 | [235358-rainbow-fish-the-most-beautiful-fish-in-the-ocean.json](./235358-rainbow-fish-the-most-beautiful-fish-in-the-ocean.json) |
 | Rainbow Friends: Hide 'N Seek | 262695 | [262695-rainbow-friends-hide-n-seek.json](./262695-rainbow-friends-hide-n-seek.json) |
@@ -936,6 +937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rakshasa Street: Wargod | 193894 | [193894-rakshasa-street-wargod.json](./193894-rakshasa-street-wargod.json) |
 | Raku Jongg | 37356 | [37356-raku-jongg.json](./37356-raku-jongg.json) |
 | Rakuen | 28544 | [28544-rakuen.json](./28544-rakuen.json) |
+| Rakuen Hakai | 280742 | [280742-rakuen-hakai.json](./280742-rakuen-hakai.json) |
 | Rakuen no Rukia | 399192 | [399192-rakuen-no-rukia.json](./399192-rakuen-no-rukia.json) |
 | Rakuen Yuki | 205645 | [205645-rakuen-yuki.json](./205645-rakuen-yuki.json) |
 | Rakuga Fantasy | 183436 | [183436-rakuga-fantasy.json](./183436-rakuga-fantasy.json) |
@@ -2428,6 +2430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Meat Radiator | 396575 | [396575-red-meat-radiator.json](./396575-red-meat-radiator.json) |
 | Red Memory | 291682 | [291682-red-memory.json](./291682-red-memory.json) |
 | Red Mercenary | 129127 | [129127-red-mercenary.json](./129127-red-mercenary.json) |
+| Red Metal | 280745 | [280745-red-metal.json](./280745-red-metal.json) |
 | Red Mist | 131993 | [131993-red-mist.json](./131993-red-mist.json) |
 | Red Moon | 382317 | [382317-red-moon.json](./382317-red-moon.json) |
 | Red Moon: Lost Days | 192893 | [192893-red-moon-lost-days.json](./192893-red-moon-lost-days.json) |
@@ -3414,6 +3417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resident Evil 3: Nemesis | 396730 | [396730-resident-evil-3-nemesis.json](./396730-resident-evil-3-nemesis.json) |
 | Resident Evil 3: Nemesis - Seamless HD Project | 322046 | [322046-resident-evil-3-nemesis-seamless-hd-project.json](./322046-resident-evil-3-nemesis-seamless-hd-project.json) |
 | Resident Evil 3: The Lord of the Necropolis | 350982 | [350982-resident-evil-3-the-lord-of-the-necropolis.json](./350982-resident-evil-3-the-lord-of-the-necropolis.json) |
+| Resident Evil 3: The Only One | 280718 | [280718-resident-evil-3-the-only-one.json](./280718-resident-evil-3-the-only-one.json) |
 | Resident Evil 4: A Nightmare of Evil | 351585 | [351585-resident-evil-4-a-nightmare-of-evil.json](./351585-resident-evil-4-a-nightmare-of-evil.json) |
 | Resident Evil 4: Berserker | 356696 | [356696-resident-evil-4-berserker.json](./356696-resident-evil-4-berserker.json) |
 | Resident Evil 4: Collector's Edition | 24211 | [24211-resident-evil-4-collectors-edition.json](./24211-resident-evil-4-collectors-edition.json) |
@@ -5813,6 +5817,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket League: Season 1 | 202392 | [202392-rocket-league-season-1.json](./202392-rocket-league-season-1.json) |
 | Rocket League: Season 11 | 252378 | [252378-rocket-league-season-11.json](./252378-rocket-league-season-11.json) |
 | Rocket League: Season 12 | 265236 | [265236-rocket-league-season-12.json](./265236-rocket-league-season-12.json) |
+| Rocket League: Season 13 Elite Pack | 280726 | [280726-rocket-league-season-13-elite-pack.json](./280726-rocket-league-season-13-elite-pack.json) |
+| Rocket League: Season 13 Rookie Pack | 280727 | [280727-rocket-league-season-13-rookie-pack.json](./280727-rocket-league-season-13-rookie-pack.json) |
 | Rocket League: Season 15 | 305787 | [305787-rocket-league-season-15.json](./305787-rocket-league-season-15.json) |
 | Rocket League: Season 15 Rookie Pack | 326039 | [326039-rocket-league-season-15-rookie-pack.json](./326039-rocket-league-season-15-rookie-pack.json) |
 | Rocket League: Season 16 | 316170 | [316170-rocket-league-season-16.json](./316170-rocket-league-season-16.json) |
