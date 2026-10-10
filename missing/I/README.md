@@ -3266,6 +3266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Intrepid Lepid | 179041 | [179041-intrepid-lepid.json](./179041-intrepid-lepid.json) |
 | Intrigue At Oakhaven | 377771 | [377771-intrigue-at-oakhaven.json](./377771-intrigue-at-oakhaven.json) |
 | Intrigue At Oakhaven Plantation | 66352 | [66352-intrigue-at-oakhaven-plantation.json](./66352-intrigue-at-oakhaven-plantation.json) |
+| Intrigue Inc.: Raven's Flight | 311751 | [311751-intrigue-inc-ravens-flight.json](./311751-intrigue-inc-ravens-flight.json) |
 | Intrigue! | 26452 | [26452-intrigue.json](./26452-intrigue.json) |
 | Intro Fighters | 186161 | [186161-intro-fighters.json](./186161-intro-fighters.json) |
 | Introspection | 176376 | [176376-introspection.json](./176376-introspection.json) |
