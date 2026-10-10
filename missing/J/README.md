@@ -1341,6 +1341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jinxter | 12160 | [12160-jinxter.json](./12160-jinxter.json) |
 | Jīnyōng Qúnxiá Zhuán | 78043 | [78043-jinyong-qunxia-zhuan.json](./78043-jinyong-qunxia-zhuan.json) |
 | Jīnyōng Qúnxiá Zhuàn 5 | 397399 | [397399-jinyong-qunxia-zhuan-5.json](./397399-jinyong-qunxia-zhuan-5.json) |
+| Jipoiz | 285422 | [285422-jipoiz.json](./285422-jipoiz.json) |
 | Jippo! Street | 234000 | [234000-jippo-street.json](./234000-jippo-street.json) |
 | JiPS | 33203 | [33203-jips.json](./33203-jips.json) |
 | Jirai the Red Panda | 333798 | [333798-jirai-the-red-panda.json](./333798-jirai-the-red-panda.json) |
