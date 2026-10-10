@@ -1549,6 +1549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Night: Burlesque - Amazing Edition | 313142 | [313142-one-night-burlesque-amazing-edition.json](./313142-one-night-burlesque-amazing-edition.json) |
 | One Night: Burlesque - Angels Pack | 324408 | [324408-one-night-burlesque-angels-pack.json](./324408-one-night-burlesque-angels-pack.json) |
 | One Night: Burlesque - Complete + | 324446 | [324446-one-night-burlesque-complete.json](./324446-one-night-burlesque-complete.json) |
+| One Night: Burlesque - Complete Edition | 295674 | [295674-one-night-burlesque-complete-edition.json](./295674-one-night-burlesque-complete-edition.json) |
 | One Night: Burlesque - Deluxe Edition | 278646 | [278646-one-night-burlesque-deluxe-edition.json](./278646-one-night-burlesque-deluxe-edition.json) |
 | One Night: Burlesque - Director's Cut | 304790 | [304790-one-night-burlesque-directors-cut.json](./304790-one-night-burlesque-directors-cut.json) |
 | One Night: Burlesque - Extended Edition | 283167 | [283167-one-night-burlesque-extended-edition.json](./283167-one-night-burlesque-extended-edition.json) |
