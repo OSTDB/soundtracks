@@ -1222,6 +1222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sapper: Defuse the Bomb Simulator | 118439 | [118439-sapper-defuse-the-bomb-simulator.json](./118439-sapper-defuse-the-bomb-simulator.json) |
 | Sapper's bad dream | 32185 | [32185-sappers-bad-dream.json](./32185-sappers-bad-dream.json) |
 | Sapphic Space | 257950 | [257950-sapphic-space.json](./257950-sapphic-space.json) |
+| Sapphire City 2 | 318113 | [318113-sapphire-city-2.json](./318113-sapphire-city-2.json) |
 | Sapphire City Part 3 | 319172 | [319172-sapphire-city-part-3.json](./319172-sapphire-city-part-3.json) |
 | Sapphire Lung | 181685 | [181685-sapphire-lung.json](./181685-sapphire-lung.json) |
 | Sapphire Moon: Forever Memories | 215669 | [215669-sapphire-moon-forever-memories.json](./215669-sapphire-moon-forever-memories.json) |
@@ -5919,6 +5920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shuffle in One | 259551 | [259551-shuffle-in-one.json](./259551-shuffle-in-one.json) |
 | Shuffle Party | 65525 | [65525-shuffle-party.json](./65525-shuffle-party.json) |
 | Shuffle Pix | 133311 | [133311-shuffle-pix.json](./133311-shuffle-pix.json) |
+| Shuffle Quest | 318115 | [318115-shuffle-quest.json](./318115-shuffle-quest.json) |
 | Shuffle Sword | 355096 | [355096-shuffle-sword.json](./355096-shuffle-sword.json) |
 | Shuffle to Fortune | 140991 | [140991-shuffle-to-fortune.json](./140991-shuffle-to-fortune.json) |
 | Shuffle World | 123980 | [123980-shuffle-world.json](./123980-shuffle-world.json) |
@@ -11787,6 +11789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Crisis | 167782 | [167782-space-crisis.json](./167782-space-crisis.json) |
 | Space Cruise | 114170 | [114170-space-cruise.json](./114170-space-cruise.json) |
 | Space Crusade: The Voyage Beyond | 73855 | [73855-space-crusade-the-voyage-beyond.json](./73855-space-crusade-the-voyage-beyond.json) |
+| Space Cycle | 318129 | [318129-space-cycle.json](./318129-space-cycle.json) |
 | Space Dance | 90818 | [90818-space-dance.json](./90818-space-dance.json) |
 | Space Danger: G.O.N. | 185599 | [185599-space-danger-g-o-n.json](./185599-space-danger-g-o-n.json) |
 | Space Dash | 373135 | [373135-space-dash.json](./373135-space-dash.json) |
@@ -11806,6 +11809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Dezinsector | 263046 | [263046-space-dezinsector.json](./263046-space-dezinsector.json) |
 | Space Digger | 263743 | [263743-space-digger.json](./263743-space-digger.json) |
 | Space Diner Simulator | 356048 | [356048-space-diner-simulator.json](./356048-space-diner-simulator.json) |
+| Space Diva | 318151 | [318151-space-diva.json](./318151-space-diva.json) |
 | Space Dodger 2019: Arcade Wars | 249730 | [249730-space-dodger-2019-arcade-wars.json](./249730-space-dodger-2019-arcade-wars.json) |
 | Space Dog Run | 201093 | [201093-space-dog-run.json](./201093-space-dog-run.json) |
 | Space Dogo | 264628 | [264628-space-dogo.json](./264628-space-dogo.json) |
@@ -13309,6 +13313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spiky | 144281 | [144281-spiky.json](./144281-spiky.json) |
 | Spiky Way: Forest | 257582 | [257582-spiky-way-forest.json](./257582-spiky-way-forest.json) |
 | Spill the Beans | 276818 | [276818-spill-the-beans.json](./276818-spill-the-beans.json) |
+| Spilled Mushrooms | 318152 | [318152-spilled-mushrooms.json](./318152-spilled-mushrooms.json) |
 | Spillz | 91083 | [91083-spillz.json](./91083-spillz.json) |
 | Spin & Match Puzzle Learn at Once 3 Languages | 312080 | [312080-spin-and-match-puzzle-learn-at-once-3-languages.json](./312080-spin-and-match-puzzle-learn-at-once-3-languages.json) |
 | Spin & Play: Carnival Madness | 73337 | [73337-spin-and-play-carnival-madness.json](./73337-spin-and-play-carnival-madness.json) |
@@ -13336,6 +13341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spin the Bottle: Bumpie's Party | 79172 | [79172-spin-the-bottle-bumpies-party.json](./79172-spin-the-bottle-bumpies-party.json) |
 | Spin to Survive | 386388 | [386388-spin-to-survive.json](./386388-spin-to-survive.json) |
 | Spinal Breakers | 39666 | [39666-spinal-breakers.json](./39666-spinal-breakers.json) |
+| Spinal Fantasy | 318134 | [318134-spinal-fantasy.json](./318134-spinal-fantasy.json) |
 | Spinball | 110528 | [110528-spinball.json](./110528-spinball.json) |
 | SpinBound | 400417 | [400417-spinbound.json](./400417-spinbound.json) |
 | SpinCraft: Roguelike | 287322 | [287322-spincraft-roguelike.json](./287322-spincraft-roguelike.json) |
@@ -14094,6 +14100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spyragon | 227809 | [227809-spyragon.json](./227809-spyragon.json) |
 | Spyrazoid | 227833 | [227833-spyrazoid.json](./227833-spyrazoid.json) |
 | Spyrit Walker | 304872 | [304872-spyrit-walker.json](./304872-spyrit-walker.json) |
+| Spyro | 318141 | [318141-spyro.json](./318141-spyro.json) |
 | Spyro + Crash Remastered Game Bundle | 111449 | [111449-spyro-crash-remastered-game-bundle.json](./111449-spyro-crash-remastered-game-bundle.json) |
 | Spyro 2: Ripto's Rage! | 142242 | [142242-spyro-2-riptos-rage.json](./142242-spyro-2-riptos-rage.json) |
 | Spyro 2: Ripto's Rage! | 1577 | [1577-spyro-2-riptos-rage.json](./1577-spyro-2-riptos-rage.json) |
