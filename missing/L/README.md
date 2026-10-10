@@ -444,6 +444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Land of the Dead: Road to Fiddler's Green | 5900 | [5900-land-of-the-dead-road-to-fiddlers-green.json](./5900-land-of-the-dead-road-to-fiddlers-green.json) |
 | Land of the Lost: Crystal Adventure | 68042 | [68042-land-of-the-lost-crystal-adventure.json](./68042-land-of-the-lost-crystal-adventure.json) |
 | Land of the Vikings | 211376 | [211376-land-of-the-vikings.json](./211376-land-of-the-vikings.json) |
+| Land of the Vikings: Dage Island | 316374 | [316374-land-of-the-vikings-dage-island.json](./316374-land-of-the-vikings-dage-island.json) |
 | Land of Towers | 225585 | [225585-land-of-towers.json](./225585-land-of-towers.json) |
 | Land of Viewers | 204095 | [204095-land-of-viewers.json](./204095-land-of-viewers.json) |
 | Land of War: The Beginning | 122376 | [122376-land-of-war-the-beginning.json](./122376-land-of-war-the-beginning.json) |
@@ -2483,6 +2484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lettuce Fish | 404977 | [404977-lettuce-fish.json](./404977-lettuce-fish.json) |
 | Letux Game | 199469 | [199469-letux-game.json](./199469-letux-game.json) |
 | Letzte Worte VR | 111587 | [111587-letzte-worte-vr.json](./111587-letzte-worte-vr.json) |
+| Levana Horror Tale | 316356 | [316356-levana-horror-tale.json](./316356-levana-horror-tale.json) |
 | Levania | 367018 | [367018-levania.json](./367018-levania.json) |
 | Levantar La Botella | 364512 | [364512-levantar-la-botella.json](./364512-levantar-la-botella.json) |
 | Levantera: Tale of The Winds | 71598 | [71598-levantera-tale-of-the-winds.json](./71598-levantera-tale-of-the-winds.json) |
@@ -3784,6 +3786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Sick Girls: Osananajimi no Koibito | 415134 | [415134-little-sick-girls-osananajimi-no-koibito.json](./415134-little-sick-girls-osananajimi-no-koibito.json) |
 | Little Smart Planet | 81728 | [81728-little-smart-planet.json](./81728-little-smart-planet.json) |
 | Little Soldier | 164436 | [164436-little-soldier.json](./164436-little-soldier.json) |
+| Little Sound Boxing Champion | 316347 | [316347-little-sound-boxing-champion.json](./316347-little-sound-boxing-champion.json) |
 | Little Sound Dj | 91410 | [91410-little-sound-dj.json](./91410-little-sound-dj.json) |
 | Little Space Rangers | 181221 | [181221-little-space-rangers.json](./181221-little-space-rangers.json) |
 | Little Sparks | 189168 | [189168-little-sparks.json](./189168-little-sparks.json) |
@@ -6058,6 +6061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lurn 2 Shell | 308391 | [308391-lurn-2-shell.json](./308391-lurn-2-shell.json) |
 | Lurruna: The Island of Towering Automatons | 397952 | [397952-lurruna-the-island-of-towering-automatons.json](./397952-lurruna-the-island-of-towering-automatons.json) |
 | LUS: Last Unit Standing | 247983 | [247983-lus-last-unit-standing.json](./247983-lus-last-unit-standing.json) |
+| Lusa the Cathead | 316350 | [316350-lusa-the-cathead.json](./316350-lusa-the-cathead.json) |
 | Lushfoil Photography Sim | 189934 | [189934-lushfoil-photography-sim.json](./189934-lushfoil-photography-sim.json) |
 | Lushfoil Photography Sim VR | 360776 | [360776-lushfoil-photography-sim-vr.json](./360776-lushfoil-photography-sim-vr.json) |
 | Lusófona Games Collection 2023 | 260335 | [260335-lusofona-games-collection-2023.json](./260335-lusofona-games-collection-2023.json) |
@@ -6163,6 +6167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lydia: Sweet Dreams | 33409 | [33409-lydia-sweet-dreams.json](./33409-lydia-sweet-dreams.json) |
 | Lydia's Labyrinth | 318537 | [318537-lydias-labyrinth.json](./318537-lydias-labyrinth.json) |
 | Lylia's Deadline | 265856 | [265856-lylias-deadline.json](./265856-lylias-deadline.json) |
+| Lylia's Deadline: Clearance | 316352 | [316352-lylias-deadline-clearance.json](./316352-lylias-deadline-clearance.json) |
 | Lymbus | 276226 | [276226-lymbus.json](./276226-lymbus.json) |
 | Lymph City Blues | 211132 | [211132-lymph-city-blues.json](./211132-lymph-city-blues.json) |
 | Lynium | 158628 | [158628-lynium.json](./158628-lynium.json) |
@@ -6176,6 +6181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LyraVR | 29923 | [29923-lyravr.json](./29923-lyravr.json) |
 | Lyre | 182275 | [182275-lyre.json](./182275-lyre.json) |
 | Lyre | 377592 | [377592-lyre.json](./377592-lyre.json) |
+| Lyrestruck | 316353 | [316353-lyrestruck.json](./316353-lyrestruck.json) |
 | Lyric Sonata | 107248 | [107248-lyric-sonata.json](./107248-lyric-sonata.json) |
 | Lyrica & Lyrica 2 Stars Align | 152914 | [152914-lyrica-and-lyrica-2-stars-align.json](./152914-lyrica-and-lyrica-2-stars-align.json) |
 | Lyrica 2 Stars Align | 152913 | [152913-lyrica-2-stars-align.json](./152913-lyrica-2-stars-align.json) |
