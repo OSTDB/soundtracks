@@ -2166,6 +2166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SCP: Valravn | 280174 | [280174-scp-valravn.json](./280174-scp-valravn.json) |
 | Scrabble | 131524 | [131524-scrabble.json](./131524-scrabble.json) |
 | Scrabble | 199433 | [199433-scrabble.json](./199433-scrabble.json) |
+| Scrabble | 286433 | [286433-scrabble.json](./286433-scrabble.json) |
 | Scrabble | 354997 | [354997-scrabble.json](./354997-scrabble.json) |
 | Scrabble | 371873 | [371873-scrabble.json](./371873-scrabble.json) |
 | Scrabble | 402336 | [402336-scrabble.json](./402336-scrabble.json) |
@@ -3799,8 +3800,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex Adventures: Office Affairs | 223406 | [223406-sex-adventures-office-affairs.json](./223406-sex-adventures-office-affairs.json) |
 | Sex Adventures: Swingers Gym | 212800 | [212800-sex-adventures-swingers-gym.json](./212800-sex-adventures-swingers-gym.json) |
 | Sex Adventures: The Bar Hookup | 219600 | [219600-sex-adventures-the-bar-hookup.json](./219600-sex-adventures-the-bar-hookup.json) |
+| Sex Adventures: The Job Interview | 286475 | [286475-sex-adventures-the-job-interview.json](./286475-sex-adventures-the-job-interview.json) |
 | Sex Adventures: The Job Promotion | 368621 | [368621-sex-adventures-the-job-promotion.json](./368621-sex-adventures-the-job-promotion.json) |
 | Sex Adventures: The Pool Party | 213459 | [213459-sex-adventures-the-pool-party.json](./213459-sex-adventures-the-pool-party.json) |
+| Sex Adventures: The Secret Club | 286472 | [286472-sex-adventures-the-secret-club.json](./286472-sex-adventures-the-secret-club.json) |
 | Sex Airlines | 311576 | [311576-sex-airlines.json](./311576-sex-airlines.json) |
 | Sex and the Furry Titty 2: Sins of the City - Love Stories Episodes | 173846 | [173846-sex-and-the-furry-titty-2-sins-of-the-city-love-stories-episodes.json](./173846-sex-and-the-furry-titty-2-sins-of-the-city-love-stories-episodes.json) |
 | Sex and the Furry Titty 3: Come Inside, Sweety | 237075 | [237075-sex-and-the-furry-titty-3-come-inside-sweety.json](./237075-sex-and-the-furry-titty-3-come-inside-sweety.json) |
@@ -3988,6 +3991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sexy Puzzle | 335443 | [335443-sexy-puzzle.json](./335443-sexy-puzzle.json) |
 | Sexy Sliders | 367269 | [367269-sexy-sliders.json](./367269-sexy-sliders.json) |
 | Sexy Sniper | 159814 | [159814-sexy-sniper.json](./159814-sexy-sniper.json) |
+| Sexy Space Airlines | 286444 | [286444-sexy-space-airlines.json](./286444-sexy-space-airlines.json) |
 | Sexy Space Defender | 389648 | [389648-sexy-space-defender.json](./389648-sexy-space-defender.json) |
 | Sexy Strippers | 275834 | [275834-sexy-strippers.json](./275834-sexy-strippers.json) |
 | Sexy Waifu | 227518 | [227518-sexy-waifu.json](./227518-sexy-waifu.json) |
@@ -17330,6 +17334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Streamers Interactive Quiz Game | 343454 | [343454-streamers-interactive-quiz-game.json](./343454-streamers-interactive-quiz-game.json) |
 | StreamerVille | 285996 | [285996-streamerville.json](./285996-streamerville.json) |
 | StreamGods: Streamer Tycoon | 169449 | [169449-streamgods-streamer-tycoon.json](./169449-streamgods-streamer-tycoon.json) |
+| Streaming Girls 18+:- OnlyFap Live | 286468 | [286468-streaming-girls-18-onlyfap-live.json](./286468-streaming-girls-18-onlyfap-live.json) |
 | StreamInk | 166594 | [166594-streamink.json](./166594-streamink.json) |
 | Streamline | 177552 | [177552-streamline.json](./177552-streamline.json) |
 | Streamline | 20178 | [20178-streamline.json](./20178-streamline.json) |
@@ -17703,6 +17708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strip Black Jack: Manga Edition | 392893 | [392893-strip-black-jack-manga-edition.json](./392893-strip-black-jack-manga-edition.json) |
 | Strip Black Jack: Santa Babe | 385856 | [385856-strip-black-jack-santa-babe.json](./385856-strip-black-jack-santa-babe.json) |
 | Strip Breaker: Hentai Girls | 109695 | [109695-strip-breaker-hentai-girls.json](./109695-strip-breaker-hentai-girls.json) |
+| Strip Card Duel | 286451 | [286451-strip-card-duel.json](./286451-strip-card-duel.json) |
 | Strip Dice / Strip Concentration | 71248 | [71248-strip-dice-strip-concentration.json](./71248-strip-dice-strip-concentration.json) |
 | Strip Fighter 5: Chimpocon Edition | 185648 | [185648-strip-fighter-5-chimpocon-edition.json](./185648-strip-fighter-5-chimpocon-edition.json) |
 | Strip Fighter IV | 66652 | [66652-strip-fighter-iv.json](./66652-strip-fighter-iv.json) |
