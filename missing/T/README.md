@@ -6588,6 +6588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hell Provided | 396560 | [396560-the-hell-provided.json](./396560-the-hell-provided.json) |
 | The Hell That's Coming | 271849 | [271849-the-hell-thats-coming.json](./271849-the-hell-thats-coming.json) |
 | The Hell: 1923 Kanto Earthquake | 359606 | [359606-the-hell-1923-kanto-earthquake.json](./359606-the-hell-1923-kanto-earthquake.json) |
+| The Hell: City Builder of the Dead | 289253 | [289253-the-hell-city-builder-of-the-dead.json](./289253-the-hell-city-builder-of-the-dead.json) |
 | The Hellblade Bundle | 317402 | [317402-the-hellblade-bundle.json](./317402-the-hellblade-bundle.json) |
 | The Hellbrand | 190728 | [190728-the-hellbrand.json](./190728-the-hellbrand.json) |
 | The Hellchemist | 240800 | [240800-the-hellchemist.json](./240800-the-hellchemist.json) |
