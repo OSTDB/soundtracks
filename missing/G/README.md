@@ -5920,6 +5920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Growlanser IV: Wayfarer of the Time | 21313 | [21313-growlanser-iv-wayfarer-of-the-time.json](./21313-growlanser-iv-wayfarer-of-the-time.json) |
 | Growlanser: Heritage of War | 21308 | [21308-growlanser-heritage-of-war.json](./21308-growlanser-heritage-of-war.json) |
 | Growling In My Demise | 233597 | [233597-growling-in-my-demise.json](./233597-growling-in-my-demise.json) |
+| Growmi | 302161 | [302161-growmi.json](./302161-growmi.json) |
 | Growth | 229675 | [229675-growth.json](./229675-growth.json) |
 | Growth | 280208 | [280208-growth.json](./280208-growth.json) |
 | Growth | 331885 | [331885-growth.json](./331885-growth.json) |
