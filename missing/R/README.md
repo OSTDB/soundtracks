@@ -1532,6 +1532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raziel | 174742 | [174742-raziel.json](./174742-raziel.json) |
 | Raziel Dungeon Arena | 225689 | [225689-raziel-dungeon-arena.json](./225689-raziel-dungeon-arena.json) |
 | Razor Wire | 274521 | [274521-razor-wire.json](./274521-razor-wire.json) |
+| Razor's Edge | 321654 | [321654-razors-edge.json](./321654-razors-edge.json) |
 | Razorback | 336008 | [336008-razorback.json](./336008-razorback.json) |
 | Razzmatazz | 40392 | [40392-razzmatazz.json](./40392-razzmatazz.json) |
 | RB Axolotl | 108962 | [108962-rb-axolotl.json](./108962-rb-axolotl.json) |
