@@ -5248,6 +5248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Melon Journey Pocket | 244794 | [244794-melon-journey-pocket.json](./244794-melon-journey-pocket.json) |
 | Melon Journey: Bittersweet Memories | 119653 | [119653-melon-journey-bittersweet-memories.json](./119653-melon-journey-bittersweet-memories.json) |
 | Melon Madness | 288765 | [288765-melon-madness.json](./288765-melon-madness.json) |
+| Melon Man | 297881 | [297881-melon-man.json](./297881-melon-man.json) |
 | Melon on a Mission | 416071 | [416071-melon-on-a-mission.json](./416071-melon-on-a-mission.json) |
 | Melon Parker: We are Whatever Club! | 378816 | [378816-melon-parker-we-are-whatever-club.json](./378816-melon-parker-we-are-whatever-club.json) |
 | Melon Sandbox | 231934 | [231934-melon-sandbox.json](./231934-melon-sandbox.json) |
@@ -5356,6 +5357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memoria Project | 193969 | [193969-memoria-project.json](./193969-memoria-project.json) |
 | Memoria VR | 311793 | [311793-memoria-vr.json](./311793-memoria-vr.json) |
 | Memoria Wake | 348349 | [348349-memoria-wake.json](./348349-memoria-wake.json) |
+| Memorial Circuit | 297888 | [297888-memorial-circuit.json](./297888-memorial-circuit.json) |
 | Memorial Pillage | 183462 | [183462-memorial-pillage.json](./183462-memorial-pillage.json) |
 | Memorial Playground | 229650 | [229650-memorial-playground.json](./229650-memorial-playground.json) |
 | Memorial Series: Sunsoft vol. 1 | 79347 | [79347-memorial-series-sunsoft-vol-1.json](./79347-memorial-series-sunsoft-vol-1.json) |
@@ -6748,6 +6750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Middle Earth Open World game | 402344 | [402344-middle-earth-open-world-game.json](./402344-middle-earth-open-world-game.json) |
 | Middle Kingdom | 356658 | [356658-middle-kingdom.json](./356658-middle-kingdom.json) |
 | Middle Manager of Justice | 9133 | [9133-middle-manager-of-justice.json](./9133-middle-manager-of-justice.json) |
+| Middle School Zombie 2 | 297905 | [297905-middle-school-zombie-2.json](./297905-middle-school-zombie-2.json) |
 | Middle-earth: Shadow of Mordor - The Power of Shadow | 289015 | [289015-middle-earth-shadow-of-mordor-the-power-of-shadow.json](./289015-middle-earth-shadow-of-mordor-the-power-of-shadow.json) |
 | Middle-earth: Shadow of War - Definitive Edition | 106764 | [106764-middle-earth-shadow-of-war-definitive-edition.json](./106764-middle-earth-shadow-of-war-definitive-edition.json) |
 | Middle-earth: Shadow of War - Mithril Edition | 36986 | [36986-middle-earth-shadow-of-war-mithril-edition.json](./36986-middle-earth-shadow-of-war-mithril-edition.json) |
