@@ -4844,6 +4844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Cause | 300766 | [300766-lost-cause.json](./300766-lost-cause.json) |
 | Lost Cave | 112758 | [112758-lost-cave.json](./112758-lost-cave.json) |
 | Lost Chapter | 244229 | [244229-lost-chapter.json](./244229-lost-chapter.json) |
+| Lost Chiko 2 | 305490 | [305490-lost-chiko-2.json](./305490-lost-chiko-2.json) |
 | Lost Child | 348223 | [348223-lost-child.json](./348223-lost-child.json) |
 | Lost Children of the Mansion | 392857 | [392857-lost-children-of-the-mansion.json](./392857-lost-children-of-the-mansion.json) |
 | Lost Chronicles of Zerzura | 17559 | [17559-lost-chronicles-of-zerzura.json](./17559-lost-chronicles-of-zerzura.json) |
@@ -5268,6 +5269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Dots | 88160 | [88160-love-dots.json](./88160-love-dots.json) |
 | Love Drops | 204395 | [204395-love-drops.json](./204395-love-drops.json) |
 | Love Drops: Miracle Doukyo Monogatari | 204393 | [204393-love-drops-miracle-doukyo-monogatari.json](./204393-love-drops-miracle-doukyo-monogatari.json) |
+| Love Elysium: Secret of the Goddess | 305565 | [305565-love-elysium-secret-of-the-goddess.json](./305565-love-elysium-secret-of-the-goddess.json) |
 | Love Elysium: Secret of the Goddess - Aimi's Secrets | 309072 | [309072-love-elysium-secret-of-the-goddess-aimis-secrets.json](./309072-love-elysium-secret-of-the-goddess-aimis-secrets.json) |
 | Love Elysium: Secret of the Goddess - Complete + | 324455 | [324455-love-elysium-secret-of-the-goddess-complete.json](./324455-love-elysium-secret-of-the-goddess-complete.json) |
 | Love Elysium: Secret of the Goddess - Deluxe Edition | 309042 | [309042-love-elysium-secret-of-the-goddess-deluxe-edition.json](./309042-love-elysium-secret-of-the-goddess-deluxe-edition.json) |
