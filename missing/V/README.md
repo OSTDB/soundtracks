@@ -885,6 +885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ventilate | 337305 | [337305-ventilate.json](./337305-ventilate.json) |
 | Ventilator | 57474 | [57474-ventilator.json](./57474-ventilator.json) |
 | Ventisette Voci | 328935 | [328935-ventisette-voci.json](./328935-ventisette-voci.json) |
+| Ventreville: A Cure for Sorrow | 313981 | [313981-ventreville-a-cure-for-sorrow.json](./313981-ventreville-a-cure-for-sorrow.json) |
 | Venturaka | 381327 | [381327-venturaka.json](./381327-venturaka.json) |
 | Venture | 94741 | [94741-venture.json](./94741-venture.json) |
 | Venture Arctic | 66707 | [66707-venture-arctic.json](./66707-venture-arctic.json) |
@@ -1991,6 +1992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Void Climber | 316062 | [316062-void-climber.json](./316062-void-climber.json) |
 | Void Collector | 333773 | [333773-void-collector.json](./333773-void-collector.json) |
 | Void Crawlers | 404966 | [404966-void-crawlers.json](./404966-void-crawlers.json) |
+| Void Dash | 314003 | [314003-void-dash.json](./314003-void-dash.json) |
 | Void Dementia | 182492 | [182492-void-dementia.json](./182492-void-dementia.json) |
 | Void Destroyer 2: Ashes | 168377 | [168377-void-destroyer-2-ashes.json](./168377-void-destroyer-2-ashes.json) |
 | Void Destroyer 2: Big Red | 168376 | [168376-void-destroyer-2-big-red.json](./168376-void-destroyer-2-big-red.json) |
@@ -2354,6 +2356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Giants | 107183 | [107183-vr-giants.json](./107183-vr-giants.json) |
 | VR GirlFriend | 30291 | [30291-vr-girlfriend.json](./30291-vr-girlfriend.json) |
 | VR Girls' Room in Darkness | 160139 | [160139-vr-girls-room-in-darkness.json](./160139-vr-girls-room-in-darkness.json) |
+| VR Gorodki | 313980 | [313980-vr-gorodki.json](./313980-vr-gorodki.json) |
 | VR Ground: Crazy Farm | 105311 | [105311-vr-ground-crazy-farm.json](./105311-vr-ground-crazy-farm.json) |
 | VR Guardians | 164234 | [164234-vr-guardians.json](./164234-vr-guardians.json) |
 | VR Harem Life | 338563 | [338563-vr-harem-life.json](./338563-vr-harem-life.json) |
