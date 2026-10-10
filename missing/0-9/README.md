@@ -1323,6 +1323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Munchy | 15577 | [15577-3d-munchy.json](./15577-3d-munchy.json) |
 | 3D Next Puzzle | 357971 | [357971-3d-next-puzzle.json](./357971-3d-next-puzzle.json) |
 | 3D Pinball Express | 97104 | [97104-3d-pinball-express.json](./97104-3d-pinball-express.json) |
+| 3D Pinball: Space Cadet NDS | 307323 | [307323-3d-pinball-space-cadet-nds.json](./307323-3d-pinball-space-cadet-nds.json) |
 | 3D Pitfall | 92859 | [92859-3d-pitfall.json](./92859-3d-pitfall.json) |
 | 3D Pixel Racing | 51055 | [51055-3d-pixel-racing.json](./51055-3d-pixel-racing.json) |
 | 3D Pocket Pool | 92272 | [92272-3d-pocket-pool.json](./92272-3d-pocket-pool.json) |
