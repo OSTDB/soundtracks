@@ -7593,6 +7593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Comeback Golf | 181716 | [181716-comeback-golf.json](./181716-comeback-golf.json) |
 | Comer | 94225 | [94225-comer.json](./94225-comer.json) |
 | Comet | 28105 | [28105-comet.json](./28105-comet.json) |
+| Comet | 288689 | [288689-comet.json](./288689-comet.json) |
 | Comet | 91155 | [91155-comet.json](./91155-comet.json) |
 | Comet Angel | 303736 | [303736-comet-angel.json](./303736-comet-angel.json) |
 | Comet Busters! | 74014 | [74014-comet-busters.json](./74014-comet-busters.json) |
