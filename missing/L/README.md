@@ -2343,6 +2343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Play Jigsaw Puzzles: Butterflies & Moths | 232006 | [232006-lets-play-jigsaw-puzzles-butterflies-and-moths.json](./232006-lets-play-jigsaw-puzzles-butterflies-and-moths.json) |
 | Let's Play Jigsaw Puzzles: Flowers | 240766 | [240766-lets-play-jigsaw-puzzles-flowers.json](./240766-lets-play-jigsaw-puzzles-flowers.json) |
 | Let's Play Jigsaw Puzzles: France | 240750 | [240750-lets-play-jigsaw-puzzles-france.json](./240750-lets-play-jigsaw-puzzles-france.json) |
+| Let's Play Jigsaw Puzzles: Happy Holidays 2023 | 279543 | [279543-lets-play-jigsaw-puzzles-happy-holidays-2023.json](./279543-lets-play-jigsaw-puzzles-happy-holidays-2023.json) |
 | Let's Play Jigsaw Puzzles: On the Farm | 240811 | [240811-lets-play-jigsaw-puzzles-on-the-farm.json](./240811-lets-play-jigsaw-puzzles-on-the-farm.json) |
 | Let's Play Jigsaw Puzzles: Thailand and Cambodia | 239765 | [239765-lets-play-jigsaw-puzzles-thailand-and-cambodia.json](./239765-lets-play-jigsaw-puzzles-thailand-and-cambodia.json) |
 | Let's Play Jigsaw Puzzles: Underwater | 236821 | [236821-lets-play-jigsaw-puzzles-underwater.json](./236821-lets-play-jigsaw-puzzles-underwater.json) |
@@ -5250,6 +5251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lotus Minigames: United Nations | 114355 | [114355-lotus-minigames-united-nations.json](./114355-lotus-minigames-united-nations.json) |
 | Lotus Simulator | 105548 | [105548-lotus-simulator.json](./105548-lotus-simulator.json) |
 | Lotus Simulator: Addon - Düsseldorf 1981 | 167754 | [167754-lotus-simulator-addon-dusseldorf-1981.json](./167754-lotus-simulator-addon-dusseldorf-1981.json) |
+| Lotus Simulator: Citybus Hamburg | 279544 | [279544-lotus-simulator-citybus-hamburg.json](./279544-lotus-simulator-citybus-hamburg.json) |
 | Lotus Simulator: Module - Rails of Lotus | 167757 | [167757-lotus-simulator-module-rails-of-lotus.json](./167757-lotus-simulator-module-rails-of-lotus.json) |
 | Lotus Simulator: Module - Streets of Lotus | 167756 | [167756-lotus-simulator-module-streets-of-lotus.json](./167756-lotus-simulator-module-streets-of-lotus.json) |
 | Lotus Simulator: München Tram | 167755 | [167755-lotus-simulator-munchen-tram.json](./167755-lotus-simulator-munchen-tram.json) |
@@ -5494,6 +5496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love, Death & Mummies: Zombie Romance Visual Novel | 303322 | [303322-love-death-and-mummies-zombie-romance-visual-novel.json](./303322-love-death-and-mummies-zombie-romance-visual-novel.json) |
 | Love, Ghostie | 204529 | [204529-love-ghostie.json](./204529-love-ghostie.json) |
 | Love, Hate and the Mysterious Ocean Tower | 300381 | [300381-love-hate-and-the-mysterious-ocean-tower.json](./300381-love-hate-and-the-mysterious-ocean-tower.json) |
+| Love, in Debt!? | 279548 | [279548-love-in-debt.json](./279548-love-in-debt.json) |
 | Love, Internet, and Murder Magic | 328013 | [328013-love-internet-and-murder-magic.json](./328013-love-internet-and-murder-magic.json) |
 | Love, Lies & a Heist: Ikemen Royale | 229028 | [229028-love-lies-and-a-heist-ikemen-royale.json](./229028-love-lies-and-a-heist-ikemen-royale.json) |
 | Love, Peace, and Roseleaf | 417701 | [417701-love-peace-and-roseleaf.json](./417701-love-peace-and-roseleaf.json) |
@@ -5548,6 +5551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lovely Cat: Mermaid Castle | 247521 | [247521-lovely-cat-mermaid-castle.json](./247521-lovely-cat-mermaid-castle.json) |
 | Lovely Crush | 236925 | [236925-lovely-crush.json](./236925-lovely-crush.json) |
 | Lovely Deco House | 402426 | [402426-lovely-deco-house.json](./402426-lovely-deco-house.json) |
+| Lovely Defenders | 279554 | [279554-lovely-defenders.json](./279554-lovely-defenders.json) |
 | Lovely Farm | 264360 | [264360-lovely-farm.json](./264360-lovely-farm.json) |
 | Lovely Fox | 102918 | [102918-lovely-fox.json](./102918-lovely-fox.json) |
 | Lovely Fracture | 183363 | [183363-lovely-fracture.json](./183363-lovely-fracture.json) |
@@ -5599,6 +5603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lovesick | 413796 | [413796-lovesick.json](./413796-lovesick.json) |
 | LoveSoTea | 250279 | [250279-lovesotea.json](./250279-lovesotea.json) |
 | LoveUnholyc: Dark Fantasy Love | 296785 | [296785-loveunholyc-dark-fantasy-love.json](./296785-loveunholyc-dark-fantasy-love.json) |
+| LoveXLust | 279550 | [279550-lovexlust.json](./279550-lovexlust.json) |
 | Lovin House | 153845 | [153845-lovin-house.json](./153845-lovin-house.json) |
 | Loving Deads: The House of the Dead EX | 72769 | [72769-loving-deads-the-house-of-the-dead-ex.json](./72769-loving-deads-the-house-of-the-dead-ex.json) |
 | Loving You Fully | 159873 | [159873-loving-you-fully.json](./159873-loving-you-fully.json) |
