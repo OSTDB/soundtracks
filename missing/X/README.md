@@ -510,6 +510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | XIII Century: Death or Glory | 9860 | [9860-xiii-century-death-or-glory.json](./9860-xiii-century-death-or-glory.json) |
 | XIII: Lost Identity | 53101 | [53101-xiii-lost-identity.json](./53101-xiii-lost-identity.json) |
 | Xile | 54731 | [54731-xile.json](./54731-xile.json) |
+| Xilosaga | 284832 | [284832-xilosaga.json](./284832-xilosaga.json) |
 | Xilost | 118354 | [118354-xilost.json](./118354-xilost.json) |
 | Ximen Lizhi Biography | 278639 | [278639-ximen-lizhi-biography.json](./278639-ximen-lizhi-biography.json) |
 | Xīn Jiàn Xiá Qíngyuán | 350571 | [350571-xin-jian-xia-qingyuan.json](./350571-xin-jian-xia-qingyuan.json) |
