@@ -585,6 +585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laptick | 56741 | [56741-laptick.json](./56741-laptick.json) |
 | Laptick 2 | 56742 | [56742-laptick-2.json](./56742-laptick-2.json) |
 | Laptop Tycoon | 186603 | [186603-laptop-tycoon.json](./186603-laptop-tycoon.json) |
+| Lar | 281336 | [281336-lar.json](./281336-lar.json) |
 | Lara at the Movies: Blood from the Mummy's Tomb | 315558 | [315558-lara-at-the-movies-blood-from-the-mummys-tomb.json](./315558-lara-at-the-movies-blood-from-the-mummys-tomb.json) |
 | Lara Croft and the Guardian of Light | 769 | [769-lara-croft-and-the-guardian-of-light.json](./769-lara-croft-and-the-guardian-of-light.json) |
 | Lara Croft's Poker Party | 299543 | [299543-lara-crofts-poker-party.json](./299543-lara-crofts-poker-party.json) |
