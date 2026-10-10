@@ -154,6 +154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vain Empires | 216334 | [216334-vain-empires.json](./216334-vain-empires.json) |
 | Vain Riser | 150532 | [150532-vain-riser.json](./150532-vain-riser.json) |
 | Vain Uprising | 331322 | [331322-vain-uprising.json](./331322-vain-uprising.json) |
+| Vainger | 318725 | [318725-vainger.json](./318725-vainger.json) |
 | VainPlanet | 129074 | [129074-vainplanet.json](./129074-vainplanet.json) |
 | Vajont VR | 221141 | [221141-vajont-vr.json](./221141-vajont-vr.json) |
 | Val and Rick | 50411 | [50411-val-and-rick.json](./50411-val-and-rick.json) |
@@ -753,6 +754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Veil of Torment | 351686 | [351686-veil-of-torment.json](./351686-veil-of-torment.json) |
 | Veil Runners | 310932 | [310932-veil-runners.json](./310932-veil-runners.json) |
 | Veil Stream | 360675 | [360675-veil-stream.json](./360675-veil-stream.json) |
+| Veil Transfer | 318733 | [318733-veil-transfer.json](./318733-veil-transfer.json) |
 | Veil: Tactics | 304619 | [304619-veil-tactics.json](./304619-veil-tactics.json) |
 | Veilborn | 374945 | [374945-veilborn.json](./374945-veilborn.json) |
 | Veiled | 172509 | [172509-veiled.json](./172509-veiled.json) |
