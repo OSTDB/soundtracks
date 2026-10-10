@@ -1530,6 +1530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Make it! Shaved Ice | 409545 | [409545-make-it-shaved-ice.json](./409545-make-it-shaved-ice.json) |
 | Make it! Sushi | 347327 | [347327-make-it-sushi.json](./347327-make-it-sushi.json) |
 | Make it! Yakiimo | 372274 | [372274-make-it-yakiimo.json](./372274-make-it-yakiimo.json) |
+| Make it! Yakitori | 306543 | [306543-make-it-yakitori.json](./306543-make-it-yakitori.json) |
 | Make Love Not War | 208244 | [208244-make-love-not-war.json](./208244-make-love-not-war.json) |
 | Make Magic Great Again | 391031 | [391031-make-magic-great-again.json](./391031-make-magic-great-again.json) |
 | Make me Float | 236959 | [236959-make-me-float.json](./236959-make-me-float.json) |
@@ -4866,6 +4867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Punchy Golf | 120935 | [120935-mega-punchy-golf.json](./120935-mega-punchy-golf.json) |
 | Mega Q*bert | 360128 | [360128-mega-q-bert.json](./360128-mega-q-bert.json) |
 | Mega R-Type | 276776 | [276776-mega-r-type.json](./276776-mega-r-type.json) |
+| Mega Ramp Car Jumping | 306542 | [306542-mega-ramp-car-jumping.json](./306542-mega-ramp-car-jumping.json) |
 | Mega Ramp Moto: Dirt Bike Stunts Simulator | 257883 | [257883-mega-ramp-moto-dirt-bike-stunts-simulator.json](./257883-mega-ramp-moto-dirt-bike-stunts-simulator.json) |
 | Mega Roids | 418527 | [418527-mega-roids.json](./418527-mega-roids.json) |
 | Mega Screen Solitaire | 330210 | [330210-mega-screen-solitaire.json](./330210-mega-screen-solitaire.json) |
@@ -5678,6 +5680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merge Battle | 102592 | [102592-merge-battle.json](./102592-merge-battle.json) |
 | Merge Bistro | 248103 | [248103-merge-bistro.json](./248103-merge-bistro.json) |
 | Merge Blast | 221090 | [221090-merge-blast.json](./221090-merge-blast.json) |
+| Merge Block Puzzle | 306541 | [306541-merge-block-puzzle.json](./306541-merge-block-puzzle.json) |
 | Merge Castle | 233448 | [233448-merge-castle.json](./233448-merge-castle.json) |
 | Merge Chess | 172007 | [172007-merge-chess.json](./172007-merge-chess.json) |
 | Merge Circle | 262342 | [262342-merge-circle.json](./262342-merge-circle.json) |
@@ -7747,6 +7750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Golf Halloween | 233754 | [233754-mini-golf-halloween.json](./233754-mini-golf-halloween.json) |
 | Mini Golf King | 125936 | [125936-mini-golf-king.json](./125936-mini-golf-king.json) |
 | Mini Golf King - Multiplayer | 87011 | [87011-mini-golf-king-multiplayer.json](./87011-mini-golf-king-multiplayer.json) |
+| Mini Golf League: Sports Simulator | 306540 | [306540-mini-golf-league-sports-simulator.json](./306540-mini-golf-league-sports-simulator.json) |
 | Mini Golf Madness | 366442 | [366442-mini-golf-madness.json](./366442-mini-golf-madness.json) |
 | Mini Golf Mania | 146893 | [146893-mini-golf-mania.json](./146893-mini-golf-mania.json) |
 | Mini Golf Master | 67656 | [67656-mini-golf-master.json](./67656-mini-golf-master.json) |
@@ -8590,6 +8594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mixx Island: Remix Plus - Ultimate Edition | 254677 | [254677-mixx-island-remix-plus-ultimate-edition.json](./254677-mixx-island-remix-plus-ultimate-edition.json) |
 | Mixx Island: Remix Plus - Ultra Definitive | 316274 | [316274-mixx-island-remix-plus-ultra-definitive.json](./316274-mixx-island-remix-plus-ultra-definitive.json) |
 | Mixx Island: Remix Plus - Ultra Deluxe | 300935 | [300935-mixx-island-remix-plus-ultra-deluxe.json](./300935-mixx-island-remix-plus-ultra-deluxe.json) |
+| Mixx Island: Remix Plus - Ultra Extended | 306545 | [306545-mixx-island-remix-plus-ultra-extended.json](./306545-mixx-island-remix-plus-ultra-extended.json) |
 | Mixx Island: Remix Plus - Ultra Legendary | 324449 | [324449-mixx-island-remix-plus-ultra-legendary.json](./324449-mixx-island-remix-plus-ultra-legendary.json) |
 | Mixx Island: Remix Plus - Ultra Special | 308820 | [308820-mixx-island-remix-plus-ultra-special.json](./308820-mixx-island-remix-plus-ultra-special.json) |
 | Mixx Island: Remix Vol. 2 | 186316 | [186316-mixx-island-remix-vol-2.json](./186316-mixx-island-remix-vol-2.json) |
@@ -9646,6 +9651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Hunter Stories 3: Twisted Reflection - Layered Armor for Thea: Canyne Ward | 378874 | [378874-monster-hunter-stories-3-twisted-reflection-layered-armor-for-thea-canyne-ward.json](./378874-monster-hunter-stories-3-twisted-reflection-layered-armor-for-thea-canyne-ward.json) |
 | Monster Hunter Stories 3: Twisted Reflection - Rudy's Outfit: Relaxed-acabra | 378872 | [378872-monster-hunter-stories-3-twisted-reflection-rudys-outfit-relaxed-acabra.json](./378872-monster-hunter-stories-3-twisted-reflection-rudys-outfit-relaxed-acabra.json) |
 | Monster Hunter Stories Collection | 292151 | [292151-monster-hunter-stories-collection.json](./292151-monster-hunter-stories-collection.json) |
+| Monster Hunter Stories Deluxe Collection | 306546 | [306546-monster-hunter-stories-deluxe-collection.json](./306546-monster-hunter-stories-deluxe-collection.json) |
 | Monster Hunter Tri G | 85616 | [85616-monster-hunter-tri-g.json](./85616-monster-hunter-tri-g.json) |
 | Monster Hunter Tri: Classic Controller Pro Pack | 78629 | [78629-monster-hunter-tri-classic-controller-pro-pack.json](./78629-monster-hunter-tri-classic-controller-pro-pack.json) |
 | Monster Hunter Tri: Limited Edition | 78631 | [78631-monster-hunter-tri-limited-edition.json](./78631-monster-hunter-tri-limited-edition.json) |
@@ -11444,6 +11450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ms. Pac-Man for iPad | 88813 | [88813-ms-pac-man-for-ipad.json](./88813-ms-pac-man-for-ipad.json) |
 | Ms. Pac-Man: Maze Madness | 239193 | [239193-ms-pac-man-maze-madness.json](./239193-ms-pac-man-maze-madness.json) |
 | Ms. Pac-Man: Maze Madness | 3338 | [3338-ms-pac-man-maze-madness.json](./3338-ms-pac-man-maze-madness.json) |
+| Ms. Pac-Man: Maze Madness 2 | 306632 | [306632-ms-pac-man-maze-madness-2.json](./306632-ms-pac-man-maze-madness-2.json) |
 | Ms. Pac-Man: Quest for the Golden Maze | 71475 | [71475-ms-pac-man-quest-for-the-golden-maze.json](./71475-ms-pac-man-quest-for-the-golden-maze.json) |
 | Ms. Pac-Man: Special Color Edition | 49834 | [49834-ms-pac-man-special-color-edition.json](./49834-ms-pac-man-special-color-edition.json) |
 | Ms. Pac-Man: Speedup | 308393 | [308393-ms-pac-man-speedup.json](./308393-ms-pac-man-speedup.json) |
