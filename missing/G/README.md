@@ -4644,6 +4644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Chase | 7496 | [7496-grand-chase.json](./7496-grand-chase.json) |
 | Grand Chase Classic | 166856 | [166856-grand-chase-classic.json](./166856-grand-chase-classic.json) |
 | Grand City Car Driving | 219808 | [219808-grand-city-car-driving.json](./219808-grand-city-car-driving.json) |
+| Grand Classes | 313415 | [313415-grand-classes.json](./313415-grand-classes.json) |
 | Grand Crime Miami | 366950 | [366950-grand-crime-miami.json](./366950-grand-crime-miami.json) |
 | Grand Cross | 40124 | [40124-grand-cross.json](./40124-grand-cross.json) |
 | Grand Cross W | 193860 | [193860-grand-cross-w.json](./193860-grand-cross-w.json) |
@@ -6705,6 +6706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GunWorld VR | 159853 | [159853-gunworld-vr.json](./159853-gunworld-vr.json) |
 | Gunwyrm | 176980 | [176980-gunwyrm.json](./176980-gunwyrm.json) |
 | GunZ: The Duel | 80594 | [80594-gunz-the-duel.json](./80594-gunz-the-duel.json) |
+| Gunzle | 313450 | [313450-gunzle.json](./313450-gunzle.json) |
 | Gunzle: Clover And Claus | 331963 | [331963-gunzle-clover-and-claus.json](./331963-gunzle-clover-and-claus.json) |
 | Gunzzle: Warp Master | 372607 | [372607-gunzzle-warp-master.json](./372607-gunzzle-warp-master.json) |
 | Guójì Xiàngqí: Dānshuāngrén Duìzhàn Qípái Xiǎoyóuxì | 109011 | [109011-guoji-xiangqi-danshuangren-duizhan-qipai-xiaoyouxi.json](./109011-guoji-xiangqi-danshuangren-duizhan-qipai-xiaoyouxi.json) |
