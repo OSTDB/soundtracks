@@ -485,6 +485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Landomayzer | 370122 | [370122-landomayzer.json](./370122-landomayzer.json) |
 | Landonia | 340894 | [340894-landonia.json](./340894-landonia.json) |
 | Landoria | 296637 | [296637-landoria.json](./296637-landoria.json) |
+| Landorus Therian Dating Simulator | 330104 | [330104-landorus-therian-dating-simulator.json](./330104-landorus-therian-dating-simulator.json) |
 | LandPort | 201005 | [201005-landport.json](./201005-landport.json) |
 | Landrocker | 149513 | [149513-landrocker.json](./149513-landrocker.json) |
 | Lands of Achra | 347708 | [347708-lands-of-achra.json](./347708-lands-of-achra.json) |
