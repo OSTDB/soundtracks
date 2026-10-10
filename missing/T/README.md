@@ -4871,6 +4871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Curse of Blackwater | 63118 | [63118-the-curse-of-blackwater.json](./63118-the-curse-of-blackwater.json) |
 | The Curse of Cattenburg | 183478 | [183478-the-curse-of-cattenburg.json](./183478-the-curse-of-cattenburg.json) |
 | The Curse of Crowley Manor | 25592 | [25592-the-curse-of-crowley-manor.json](./25592-the-curse-of-crowley-manor.json) |
+| The Curse of Death's Kiss | 298976 | [298976-the-curse-of-deaths-kiss.json](./298976-the-curse-of-deaths-kiss.json) |
 | The Curse of Eclipse | 235807 | [235807-the-curse-of-eclipse.json](./235807-the-curse-of-eclipse.json) |
 | The Curse of Esrevni | 169868 | [169868-the-curse-of-esrevni.json](./169868-the-curse-of-esrevni.json) |
 | The Curse of Grimsey Island | 204372 | [204372-the-curse-of-grimsey-island.json](./204372-the-curse-of-grimsey-island.json) |
@@ -7119,6 +7120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Junuary Project | 233603 | [233603-the-junuary-project.json](./233603-the-junuary-project.json) |
 | The Jusou 3 | 289994 | [289994-the-jusou-3.json](./289994-the-jusou-3.json) |
 | The Justitia Files | 232955 | [232955-the-justitia-files.json](./232955-the-justitia-files.json) |
+| The Kabuki Phantom | 298973 | [298973-the-kabuki-phantom.json](./298973-the-kabuki-phantom.json) |
 | The Kaiju Offensive | 117097 | [117097-the-kaiju-offensive.json](./117097-the-kaiju-offensive.json) |
 | The Kaiyo Mission | 238567 | [238567-the-kaiyo-mission.json](./238567-the-kaiyo-mission.json) |
 | The Kangaroo Conspiracy DX | 366224 | [366224-the-kangaroo-conspiracy-dx.json](./366224-the-kangaroo-conspiracy-dx.json) |
@@ -15482,6 +15484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomb of the Dash | 199630 | [199630-tomb-of-the-dash.json](./199630-tomb-of-the-dash.json) |
 | Tomb of the Dead | 219684 | [219684-tomb-of-the-dead.json](./219684-tomb-of-the-dead.json) |
 | Tomb of the Endless | 323806 | [323806-tomb-of-the-endless.json](./323806-tomb-of-the-endless.json) |
+| Tomb of the Forbidden Falcon | 298980 | [298980-tomb-of-the-forbidden-falcon.json](./298980-tomb-of-the-forbidden-falcon.json) |
 | Tomb of the Golden Relic | 411082 | [411082-tomb-of-the-golden-relic.json](./411082-tomb-of-the-golden-relic.json) |
 | Tomb of the Old Lords | 262556 | [262556-tomb-of-the-old-lords.json](./262556-tomb-of-the-old-lords.json) |
 | Tomb of the Overlord | 341529 | [341529-tomb-of-the-overlord.json](./341529-tomb-of-the-overlord.json) |
@@ -16497,6 +16500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Seikaen: Blue devil in the Belvedere | 148365 | [148365-touhou-seikaen-blue-devil-in-the-belvedere.json](./148365-touhou-seikaen-blue-devil-in-the-belvedere.json) |
 | Touhou Shifuujou: The Alternative Age | 283830 | [283830-touhou-shifuujou-the-alternative-age.json](./283830-touhou-shifuujou-the-alternative-age.json) |
 | Touhou Shinjutou: Hollow Song of Birds | 196269 | [196269-touhou-shinjutou-hollow-song-of-birds.json](./196269-touhou-shinjutou-hollow-song-of-birds.json) |
+| Touhou Shinpiroku: Urban Legend in Limbo. | 298968 | [298968-touhou-shinpiroku-urban-legend-in-limbo.json](./298968-touhou-shinpiroku-urban-legend-in-limbo.json) |
 | Touhou Silver Night Festival: Freedom Train | 195794 | [195794-touhou-silver-night-festival-freedom-train.json](./195794-touhou-silver-night-festival-freedom-train.json) |
 | Touhou Soccer | 128380 | [128380-touhou-soccer.json](./128380-touhou-soccer.json) |
 | Touhou Soccer Moushuuden | 128381 | [128381-touhou-soccer-moushuuden.json](./128381-touhou-soccer-moushuuden.json) |
@@ -20120,6 +20124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twilight Crusade | 227902 | [227902-twilight-crusade.json](./227902-twilight-crusade.json) |
 | Twilight Dream | 364683 | [364683-twilight-dream.json](./364683-twilight-dream.json) |
 | Twilight Drive | 148366 | [148366-twilight-drive.json](./148366-twilight-drive.json) |
+| Twilight Fangs | 298990 | [298990-twilight-fangs.json](./298990-twilight-fangs.json) |
 | Twilight Flight | 403709 | [403709-twilight-flight.json](./403709-twilight-flight.json) |
 | Twilight Flyer | 307711 | [307711-twilight-flyer.json](./307711-twilight-flyer.json) |
 | Twilight Forest | 213879 | [213879-twilight-forest.json](./213879-twilight-forest.json) |
@@ -20129,6 +20134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twilight Imperium Digital | 368136 | [368136-twilight-imperium-digital.json](./368136-twilight-imperium-digital.json) |
 | Twilight Infiniforest | 408161 | [408161-twilight-infiniforest.json](./408161-twilight-infiniforest.json) |
 | Twilight Insanity | 65485 | [65485-twilight-insanity.json](./65485-twilight-insanity.json) |
+| Twilight Lovers | 298983 | [298983-twilight-lovers.json](./298983-twilight-lovers.json) |
 | Twilight Mahjongg | 73225 | [73225-twilight-mahjongg.json](./73225-twilight-mahjongg.json) |
 | Twilight Manor | 289929 | [289929-twilight-manor.json](./289929-twilight-manor.json) |
 | Twilight Moonflower | 380224 | [380224-twilight-moonflower.json](./380224-twilight-moonflower.json) |
