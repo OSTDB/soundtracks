@@ -388,6 +388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wanderer | 185082 | [185082-wanderer.json](./185082-wanderer.json) |
 | Wanderer | 205582 | [205582-wanderer.json](./205582-wanderer.json) |
 | Wanderer | 95426 | [95426-wanderer.json](./95426-wanderer.json) |
+| Wanderer 2: The Seas of Fortune | 305549 | [305549-wanderer-2-the-seas-of-fortune.json](./305549-wanderer-2-the-seas-of-fortune.json) |
 | Wanderer: Broken Bed | 260327 | [260327-wanderer-broken-bed.json](./260327-wanderer-broken-bed.json) |
 | Wanderer's Shade | 310183 | [310183-wanderers-shade.json](./310183-wanderers-shade.json) |
 | Wanderers | 185030 | [185030-wanderers.json](./185030-wanderers.json) |
@@ -3892,6 +3893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wishing Well | 130861 | [130861-wishing-well.json](./130861-wishing-well.json) |
 | Wishing Well Hotel | 386107 | [386107-wishing-well-hotel.json](./386107-wishing-well-hotel.json) |
 | Wishlist | 244300 | [244300-wishlist.json](./244300-wishlist.json) |
+| Wishmaker | 305478 | [305478-wishmaker.json](./305478-wishmaker.json) |
 | Wishseeker | 415089 | [415089-wishseeker.json](./415089-wishseeker.json) |
 | Wishy Washy | 133163 | [133163-wishy-washy.json](./133163-wishy-washy.json) |
 | Wisly and the Chickens! | 165508 | [165508-wisly-and-the-chickens.json](./165508-wisly-and-the-chickens.json) |
