@@ -1002,6 +1002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abandoned: Discovery Island - Jeff The Killer | 242614 | [242614-abandoned-discovery-island-jeff-the-killer.json](./242614-abandoned-discovery-island-jeff-the-killer.json) |
 | Abandonment | 114259 | [114259-abandonment.json](./114259-abandonment.json) |
 | Abarenbou Tengu | 215127 | [215127-abarenbou-tengu.json](./215127-abarenbou-tengu.json) |
+| Abashed | 329610 | [329610-abashed.json](./329610-abashed.json) |
 | Abathor: Collector's Edition | 284479 | [284479-abathor-collectors-edition.json](./284479-abathor-collectors-edition.json) |
 | Abatron | 25556 | [25556-abatron.json](./25556-abatron.json) |
 | ABBA: You Can Dance | 3305 | [3305-abba-you-can-dance.json](./3305-abba-you-can-dance.json) |
