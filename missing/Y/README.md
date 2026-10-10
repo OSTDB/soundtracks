@@ -614,6 +614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yoshi's Strange Quest | 38305 | [38305-yoshis-strange-quest.json](./38305-yoshis-strange-quest.json) |
 | Yoshida Koumuten | 265650 | [265650-yoshida-koumuten.json](./265650-yoshida-koumuten.json) |
 | Yoshiko, Go to Your Relatives' House! | 394434 | [394434-yoshiko-go-to-your-relatives-house.json](./394434-yoshiko-go-to-your-relatives-house.json) |
+| Yoshima: Hentai Simulator | 326304 | [326304-yoshima-hentai-simulator.json](./326304-yoshima-hentai-simulator.json) |
 | Yoshimi-kun wa Game Bakkari | 356152 | [356152-yoshimi-kun-wa-game-bakkari.json](./356152-yoshimi-kun-wa-game-bakkari.json) |
 | Yoshimoto Mahjong Club | 382990 | [382990-yoshimoto-mahjong-club.json](./382990-yoshimoto-mahjong-club.json) |
 | Yoshinoya | 43426 | [43426-yoshinoya.json](./43426-yoshinoya.json) |
@@ -941,6 +942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Youtubers Life - Cooking Channel | 89533 | [89533-youtubers-life-cooking-channel.json](./89533-youtubers-life-cooking-channel.json) |
 | Youtubers Life: Gaming Channel | 88942 | [88942-youtubers-life-gaming-channel.json](./88942-youtubers-life-gaming-channel.json) |
 | Youtubers Life: OMG Edition | 111159 | [111159-youtubers-life-omg-edition.json](./111159-youtubers-life-omg-edition.json) |
+| Youxing Continent | 326292 | [326292-youxing-continent.json](./326292-youxing-continent.json) |
 | Youyou Kengeki Musou | 137062 | [137062-youyou-kengeki-musou.json](./137062-youyou-kengeki-musou.json) |
 | Yowie | 300334 | [300334-yowie.json](./300334-yowie.json) |
 | Yoyo | 128468 | [128468-yoyo.json](./128468-yoyo.json) |
