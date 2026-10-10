@@ -2865,6 +2865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reioku: Ghost House | 355229 | [355229-reioku-ghost-house.json](./355229-reioku-ghost-house.json) |
 | reIterate() | 156545 | [156545-reiterate.json](./156545-reiterate.json) |
 | Reiwa Outliers | 277358 | [277358-reiwa-outliers.json](./277358-reiwa-outliers.json) |
+| Rejected Custom Night | 299569 | [299569-rejected-custom-night.json](./299569-rejected-custom-night.json) |
 | Rejected Draft | 404174 | [404174-rejected-draft.json](./404174-rejected-draft.json) |
 | Rejection: Den-no Senshi | 386394 | [386394-rejection-den-no-senshi.json](./386394-rejection-den-no-senshi.json) |
 | Rejoin | 415948 | [415948-rejoin.json](./415948-rejoin.json) |
@@ -3973,6 +3974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reverse 1999: The Turquoise Serpent Club | 401741 | [401741-reverse-1999-the-turquoise-serpent-club.json](./401741-reverse-1999-the-turquoise-serpent-club.json) |
 | Reverse 1999: Tristes Tropiques | 343347 | [343347-reverse-1999-tristes-tropiques.json](./343347-reverse-1999-tristes-tropiques.json) |
 | Reverse 1999: Vereinsamt | 340223 | [340223-reverse-1999-vereinsamt.json](./340223-reverse-1999-vereinsamt.json) |
+| Reverse Alice | 299521 | [299521-reverse-alice.json](./299521-reverse-alice.json) |
 | Reverse Basket | 87667 | [87667-reverse-basket.json](./87667-reverse-basket.json) |
 | Reverse Collapse: F | 400301 | [400301-reverse-collapse-f.json](./400301-reverse-collapse-f.json) |
 | Reverse Crawl | 28182 | [28182-reverse-crawl.json](./28182-reverse-crawl.json) |
