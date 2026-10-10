@@ -2211,6 +2211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lessaria: Fantasy Kingdom Sim | 261556 | [261556-lessaria-fantasy-kingdom-sim.json](./261556-lessaria-fantasy-kingdom-sim.json) |
 | Lesson | 111658 | [111658-lesson.json](./111658-lesson.json) |
 | Lesson Learned | 196115 | [196115-lesson-learned.json](./196115-lesson-learned.json) |
+| Lesson Learned: Cult of the Elizabeth | 285926 | [285926-lesson-learned-cult-of-the-elizabeth.json](./285926-lesson-learned-cult-of-the-elizabeth.json) |
 | Lessons in Love | 182472 | [182472-lessons-in-love.json](./182472-lessons-in-love.json) |
 | Lessons learned | 108067 | [108067-lessons-learned.json](./108067-lessons-learned.json) |
 | Lester the Unlikely | 42504 | [42504-lester-the-unlikely.json](./42504-lester-the-unlikely.json) |
@@ -3909,6 +3910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LittleBigSoko | 101621 | [101621-littlebigsoko.json](./101621-littlebigsoko.json) |
 | Littlebird/TrueEyes | 221268 | [221268-littlebird-trueeyes.json](./221268-littlebird-trueeyes.json) |
 | Littlebird/TrueEyes | 241524 | [241524-littlebird-trueeyes.json](./241524-littlebird-trueeyes.json) |
+| LittleMouseHero | 285912 | [285912-littlemousehero.json](./285912-littlemousehero.json) |
 | Littleroot Researchers | 195087 | [195087-littleroot-researchers.json](./195087-littleroot-researchers.json) |
 | Littlest Pet Shop | 353919 | [353919-littlest-pet-shop.json](./353919-littlest-pet-shop.json) |
 | Littlest Pet Shop 3: Biggest Stars - Pink Team | 122206 | [122206-littlest-pet-shop-3-biggest-stars-pink-team.json](./122206-littlest-pet-shop-3-biggest-stars-pink-team.json) |
@@ -4966,6 +4968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Harem | 173823 | [173823-lost-harem.json](./173823-lost-harem.json) |
 | Lost Harmony | 278978 | [278978-lost-harmony.json](./278978-lost-harmony.json) |
 | Lost Heroes | 64953 | [64953-lost-heroes.json](./64953-lost-heroes.json) |
+| Lost Hope | 285919 | [285919-lost-hope.json](./285919-lost-hope.json) |
 | Lost Hope: Backrooms | 266786 | [266786-lost-hope-backrooms.json](./266786-lost-hope-backrooms.json) |
 | Lost Hopes: Day of Betrayal | 415468 | [415468-lost-hopes-day-of-betrayal.json](./415468-lost-hopes-day-of-betrayal.json) |
 | Lost Horizon | 200193 | [200193-lost-horizon.json](./200193-lost-horizon.json) |
