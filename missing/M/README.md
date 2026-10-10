@@ -611,6 +611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Academy | 311117 | [311117-magic-academy.json](./311117-magic-academy.json) |
 | Magic Academy 2 | 19201 | [19201-magic-academy-2.json](./19201-magic-academy-2.json) |
 | Magic Adventures | 155025 | [155025-magic-adventures.json](./155025-magic-adventures.json) |
+| Magic and Dragon: 4X Battle | 323427 | [323427-magic-and-dragon-4x-battle.json](./323427-magic-and-dragon-4x-battle.json) |
 | Magic and Elements | 205581 | [205581-magic-and-elements.json](./205581-magic-and-elements.json) |
 | Magic Archery | 318318 | [318318-magic-archery.json](./318318-magic-archery.json) |
 | Magic Balls | 163868 | [163868-magic-balls.json](./163868-magic-balls.json) |
@@ -7233,6 +7234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mincer City | 270693 | [270693-mincer-city.json](./270693-mincer-city.json) |
 | Mind 720 | 330947 | [330947-mind-720.json](./330947-mind-720.json) |
 | Mind At Sea | 149958 | [149958-mind-at-sea.json](./149958-mind-at-sea.json) |
+| Mind Benderz X | 323206 | [323206-mind-benderz-x.json](./323206-mind-benderz-x.json) |
 | Mind Blox | 44203 | [44203-mind-blox.json](./44203-mind-blox.json) |
 | Mind Body & Soul: Big Word Puzzle Book | 92626 | [92626-mind-body-and-soul-big-word-puzzle-book.json](./92626-mind-body-and-soul-big-word-puzzle-book.json) |
 | Mind Boggler | 245439 | [245439-mind-boggler.json](./245439-mind-boggler.json) |
