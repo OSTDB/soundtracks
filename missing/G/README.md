@@ -487,6 +487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy Angel Game Boy Advance: Moridakusan Tenshi no Full Course Okawari Jiyuu | 49562 | [49562-galaxy-angel-game-boy-advance-moridakusan-tenshi-no-full-course-okawari-jiyuu.json](./49562-galaxy-angel-game-boy-advance-moridakusan-tenshi-no-full-course-okawari-jiyuu.json) |
 | Galaxy Angel: Eternal Lovers | 79291 | [79291-galaxy-angel-eternal-lovers.json](./79291-galaxy-angel-eternal-lovers.json) |
 | Galaxy Annihilation | 36924 | [36924-galaxy-annihilation.json](./36924-galaxy-annihilation.json) |
+| Galaxy At War | 292976 | [292976-galaxy-at-war.json](./292976-galaxy-at-war.json) |
 | Galaxy at War Online | 39173 | [39173-galaxy-at-war-online.json](./39173-galaxy-at-war-online.json) |
 | Galaxy Ball | 96882 | [96882-galaxy-ball.json](./96882-galaxy-ball.json) |
 | Galaxy Ball Defender | 96886 | [96886-galaxy-ball-defender.json](./96886-galaxy-ball-defender.json) |
@@ -1401,6 +1402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gaza SP | 279081 | [279081-gaza-sp.json](./279081-gaza-sp.json) |
 | Gazar | 373167 | [373167-gazar.json](./373167-gazar.json) |
 | Gaze At Maze | 101620 | [101620-gaze-at-maze.json](./101620-gaze-at-maze.json) |
+| Gaze of Dread | 293006 | [293006-gaze-of-dread.json](./293006-gaze-of-dread.json) |
 | Gaze of the Eyeless | 191089 | [191089-gaze-of-the-eyeless.json](./191089-gaze-of-the-eyeless.json) |
 | Gazed | 393476 | [393476-gazed.json](./393476-gazed.json) |
 | Gazillionaire | 69550 | [69550-gazillionaire.json](./69550-gazillionaire.json) |
@@ -3708,6 +3710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Godzilla: Smash 3 | 61983 | [61983-godzilla-smash-3.json](./61983-godzilla-smash-3.json) |
 | Godzilla: The Game | 8731 | [8731-godzilla-the-game.json](./8731-godzilla-the-game.json) |
 | Godzilla: The Series | 75893 | [75893-godzilla-the-series.json](./75893-godzilla-the-series.json) |
+| Goeland: Seagull Adventure | 292994 | [292994-goeland-seagull-adventure.json](./292994-goeland-seagull-adventure.json) |
 | Goemon: Mononoke Sugoroku | 3507 | [3507-goemon-mononoke-sugoroku.json](./3507-goemon-mononoke-sugoroku.json) |
 | Goemon: New Age Shutsudou! | 49598 | [49598-goemon-new-age-shutsudou.json](./49598-goemon-new-age-shutsudou.json) |
 | Goemon's Great Adventure | 3508 | [3508-goemons-great-adventure.json](./3508-goemons-great-adventure.json) |
