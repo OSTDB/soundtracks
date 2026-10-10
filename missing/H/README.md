@@ -1847,6 +1847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Head Boxing | 90785 | [90785-head-boxing.json](./90785-head-boxing.json) |
 | Head Bumper: Editcraft | 164428 | [164428-head-bumper-editcraft.json](./164428-head-bumper-editcraft.json) |
 | Head Coach v3 | 70477 | [70477-head-coach-v3.json](./70477-head-coach-v3.json) |
+| Head Collector VR | 309436 | [309436-head-collector-vr.json](./309436-head-collector-vr.json) |
 | Head Games | 152351 | [152351-head-games.json](./152351-head-games.json) |
 | Head Games and Tank Battle Retro | 238047 | [238047-head-games-and-tank-battle-retro.json](./238047-head-games-and-tank-battle-retro.json) |
 | Head It!: VR Soccer Heading Game | 30754 | [30754-head-it-vr-soccer-heading-game.json](./30754-head-it-vr-soccer-heading-game.json) |
@@ -5950,6 +5951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hopeless. | 228080 | [228080-hopeless.json](./228080-hopeless.json) |
 | Hopepunk City | 255098 | [255098-hopepunk-city.json](./255098-hopepunk-city.json) |
 | Hopfall | 370126 | [370126-hopfall.json](./370126-hopfall.json) |
+| HopHop Fox | 309546 | [309546-hophop-fox.json](./309546-hophop-fox.json) |
 | Hoping Forest | 236896 | [236896-hoping-forest.json](./236896-hoping-forest.json) |
 | Hopkins FBI | 93389 | [93389-hopkins-fbi.json](./93389-hopkins-fbi.json) |
 | Hoples | 152504 | [152504-hoples.json](./152504-hoples.json) |
