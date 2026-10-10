@@ -157,6 +157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F1 Manager 2023 | 247383 | [247383-f1-manager-2023.json](./247383-f1-manager-2023.json) |
 | F1 Manager 2024 | 290808 | [290808-f1-manager-2024.json](./290808-f1-manager-2024.json) |
 | F1 Manager 2024: Abstract Livery Pack | 339292 | [339292-f1-manager-2024-abstract-livery-pack.json](./339292-f1-manager-2024-abstract-livery-pack.json) |
+| F1 Manager 2024: Deluxe Edition | 309629 | [309629-f1-manager-2024-deluxe-edition.json](./309629-f1-manager-2024-deluxe-edition.json) |
 | F1 Manager 2024: Deluxe Upgrade Pack | 328996 | [328996-f1-manager-2024-deluxe-upgrade-pack.json](./328996-f1-manager-2024-deluxe-upgrade-pack.json) |
 | F1 Manager 2024: Historical Livery Pack | 339293 | [339293-f1-manager-2024-historical-livery-pack.json](./339293-f1-manager-2024-historical-livery-pack.json) |
 | F1 Online: The Game | 92512 | [92512-f1-online-the-game.json](./92512-f1-online-the-game.json) |
@@ -1333,6 +1334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Tower Defense | 251631 | [251631-fantasy-tower-defense.json](./251631-fantasy-tower-defense.json) |
 | Fantasy Trader | 338749 | [338749-fantasy-trader.json](./338749-fantasy-trader.json) |
 | Fantasy Up | 259286 | [259286-fantasy-up.json](./259286-fantasy-up.json) |
+| Fantasy Valley: Season 1 | 309561 | [309561-fantasy-valley-season-1.json](./309561-fantasy-valley-season-1.json) |
 | Fantasy Village Simulator | 278981 | [278981-fantasy-village-simulator.json](./278981-fantasy-village-simulator.json) |
 | Fantasy Voyagers | 400195 | [400195-fantasy-voyagers.json](./400195-fantasy-voyagers.json) |
 | Fantasy Waifu Collector | 369140 | [369140-fantasy-waifu-collector.json](./369140-fantasy-waifu-collector.json) |
@@ -3390,6 +3392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find the Sneaky Chameleon | 412567 | [412567-find-the-sneaky-chameleon.json](./412567-find-the-sneaky-chameleon.json) |
 | Find the Stalker | 310219 | [310219-find-the-stalker.json](./310219-find-the-stalker.json) |
 | Find the Sunbed | 189959 | [189959-find-the-sunbed.json](./189959-find-the-sunbed.json) |
+| Find The Thing | 309635 | [309635-find-the-thing.json](./309635-find-the-thing.json) |
 | Find the Way Out Samurai! | 245878 | [245878-find-the-way-out-samurai.json](./245878-find-the-way-out-samurai.json) |
 | Find This Pixel Anomaly | 320982 | [320982-find-this-pixel-anomaly.json](./320982-find-this-pixel-anomaly.json) |
 | Find this! | 54859 | [54859-find-this.json](./54859-find-this.json) |
@@ -4065,6 +4068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fishing Stories | 244219 | [244219-fishing-stories.json](./244219-fishing-stories.json) |
 | Fishing Superstars | 233640 | [233640-fishing-superstars.json](./233640-fishing-superstars.json) |
 | Fishing Superstars 2 | 109548 | [109548-fishing-superstars-2.json](./109548-fishing-superstars-2.json) |
+| Fishing Tale | 309555 | [309555-fishing-tale.json](./309555-fishing-tale.json) |
 | Fishing the Abyss | 333091 | [333091-fishing-the-abyss.json](./333091-fishing-the-abyss.json) |
 | Fishing the Deep | 267565 | [267565-fishing-the-deep.json](./267565-fishing-the-deep.json) |
 | Fishing Time | 364504 | [364504-fishing-time.json](./364504-fishing-time.json) |
@@ -4715,6 +4719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flight Simulator 2026 | 401128 | [401128-flight-simulator-2026.json](./401128-flight-simulator-2026.json) |
 | Flight Simulator 2d | 223935 | [223935-flight-simulator-2d.json](./223935-flight-simulator-2d.json) |
 | Flight Simulator Airplane Game | 261914 | [261914-flight-simulator-airplane-game.json](./261914-flight-simulator-airplane-game.json) |
+| Flight Simulator Delivery: Cargo Business | 309633 | [309633-flight-simulator-delivery-cargo-business.json](./309633-flight-simulator-delivery-cargo-business.json) |
 | Flight Simulator Xtreme | 88109 | [88109-flight-simulator-xtreme.json](./88109-flight-simulator-xtreme.json) |
 | Flight Simulator: VR | 30047 | [30047-flight-simulator-vr.json](./30047-flight-simulator-vr.json) |
 | Flight Squadron | 69887 | [69887-flight-squadron.json](./69887-flight-squadron.json) |
@@ -4761,6 +4766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flip Flop - Reversi for Playdate | 230788 | [230788-flip-flop-reversi-for-playdate.json](./230788-flip-flop-reversi-for-playdate.json) |
 | Flip Flop XL | 322782 | [322782-flip-flop-xl.json](./322782-flip-flop-xl.json) |
 | Flip for Cake | 361721 | [361721-flip-for-cake.json](./361721-flip-for-cake.json) |
+| Flip It | 309636 | [309636-flip-it.json](./309636-flip-it.json) |
 | Flip It 2 | 254698 | [254698-flip-it-2.json](./254698-flip-it-2.json) |
 | Flip Maze | 137589 | [137589-flip-maze.json](./137589-flip-maze.json) |
 | Flip Me Not | 405008 | [405008-flip-me-not.json](./405008-flip-me-not.json) |
@@ -5030,6 +5036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flow: The Sliding | 41934 | [41934-flow-the-sliding.json](./41934-flow-the-sliding.json) |
 | Flowball | 248797 | [248797-flowball.json](./248797-flowball.json) |
 | Flowcubes | 164972 | [164972-flowcubes.json](./164972-flowcubes.json) |
+| Flowence | 309558 | [309558-flowence.json](./309558-flowence.json) |
 | Flower | 1354 | [1354-flower.json](./1354-flower.json) |
 | Flower and Animal 3D Encyclopedia | 77006 | [77006-flower-and-animal-3d-encyclopedia.json](./77006-flower-and-animal-3d-encyclopedia.json) |
 | Flower Bears | 307732 | [307732-flower-bears.json](./307732-flower-bears.json) |
@@ -7313,6 +7320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frobozz Magic Support | 217781 | [217781-frobozz-magic-support.json](./217781-frobozz-magic-support.json) |
 | Frocket | 63807 | [63807-frocket.json](./63807-frocket.json) |
 | Frog | 100997 | [100997-frog.json](./100997-frog.json) |
+| Frog | 309433 | [309433-frog.json](./309433-frog.json) |
 | Frog | 55874 | [55874-frog.json](./55874-frog.json) |
 | Frog 'n Friends | 229097 | [229097-frog-n-friends.json](./229097-frog-n-friends.json) |
 | Frog 'n' Roll | 301816 | [301816-frog-n-roll.json](./301816-frog-n-roll.json) |
