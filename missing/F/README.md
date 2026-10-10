@@ -4993,6 +4993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flower, Sun, and Rain | 18123 | [18123-flower-sun-and-rain.json](./18123-flower-sun-and-rain.json) |
 | Flower, Sun, and Rain: Murder and Mystery in Paradise | 159295 | [159295-flower-sun-and-rain-murder-and-mystery-in-paradise.json](./159295-flower-sun-and-rain-murder-and-mystery-in-paradise.json) |
 | Flowerbloom Cottage | 380212 | [380212-flowerbloom-cottage.json](./380212-flowerbloom-cottage.json) |
+| Flowerbots | 330213 | [330213-flowerbots.json](./330213-flowerbots.json) |
 | FlowerCorner: Plant Watering To Vibe To | 380213 | [380213-flowercorner-plant-watering-to-vibe-to.json](./380213-flowercorner-plant-watering-to-vibe-to.json) |
 | Flowerdrops | 134984 | [134984-flowerdrops.json](./134984-flowerdrops.json) |
 | Flowerhorn Aquarium | 255748 | [255748-flowerhorn-aquarium.json](./255748-flowerhorn-aquarium.json) |
@@ -5102,6 +5103,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fly Cat | 199107 | [199107-fly-cat.json](./199107-fly-cat.json) |
 | Fly Catbug Fly! | 175434 | [175434-fly-catbug-fly.json](./175434-fly-catbug-fly.json) |
 | Fly Corp | 148207 | [148207-fly-corp.json](./148207-fly-corp.json) |
+| Fly Corp: Complete Edition | 330199 | [330199-fly-corp-complete-edition.json](./330199-fly-corp-complete-edition.json) |
+| Fly Corp: DLC Bundle | 330220 | [330220-fly-corp-dlc-bundle.json](./330220-fly-corp-dlc-bundle.json) |
+| Fly Corp: Extreme Scenarios DLC Pack | 330219 | [330219-fly-corp-extreme-scenarios-dlc-pack.json](./330219-fly-corp-extreme-scenarios-dlc-pack.json) |
+| Fly Corp: Quick Scenarios DLC Pack | 330218 | [330218-fly-corp-quick-scenarios-dlc-pack.json](./330218-fly-corp-quick-scenarios-dlc-pack.json) |
 | Fly Dangerous | 175784 | [175784-fly-dangerous.json](./175784-fly-dangerous.json) |
 | Fly Destroyer | 74344 | [74344-fly-destroyer.json](./74344-fly-destroyer.json) |
 | Fly Fish | 148949 | [148949-fly-fish.json](./148949-fly-fish.json) |
