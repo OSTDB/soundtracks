@@ -1082,6 +1082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nedia Hotel | 201548 | [201548-nedia-hotel.json](./201548-nedia-hotel.json) |
 | Nedra | 324297 | [324297-nedra.json](./324297-nedra.json) |
 | Nedy's Adventure: The Curse of Vera Deluxe | 324525 | [324525-nedys-adventure-the-curse-of-vera-deluxe.json](./324525-nedys-adventure-the-curse-of-vera-deluxe.json) |
+| Need 4 Meat | 317537 | [317537-need-4-meat.json](./317537-need-4-meat.json) |
 | Need For Conquest | 157203 | [157203-need-for-conquest.json](./157203-need-for-conquest.json) |
 | Need for Drifting | 249229 | [249229-need-for-drifting.json](./249229-need-for-drifting.json) |
 | Need For Drink | 29014 | [29014-need-for-drink.json](./29014-need-for-drink.json) |
@@ -3910,6 +3911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noir Storm | 216984 | [216984-noir-storm.json](./216984-noir-storm.json) |
 | Noir Total: Deadly Party | 343270 | [343270-noir-total-deadly-party.json](./343270-noir-total-deadly-party.json) |
 | Noir: Dead On Arrival | 327892 | [327892-noir-dead-on-arrival.json](./327892-noir-dead-on-arrival.json) |
+| Noiramore Academy | 317543 | [317543-noiramore-academy.json](./317543-noiramore-academy.json) |
 | Noircotics | 312185 | [312185-noircotics.json](./312185-noircotics.json) |
 | Noirmancer | 400955 | [400955-noirmancer.json](./400955-noirmancer.json) |
 | NoirNet: The Neon Enigma | 249188 | [249188-noirnet-the-neon-enigma.json](./249188-noirnet-the-neon-enigma.json) |
