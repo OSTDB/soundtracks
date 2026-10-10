@@ -896,6 +896,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A-Ressha de Ikou | 272827 | [272827-a-ressha-de-ikou.json](./272827-a-ressha-de-ikou.json) |
 | A-Ressha de Ikou 4 | 98268 | [98268-a-ressha-de-ikou-4.json](./98268-a-ressha-de-ikou-4.json) |
 | A-Ressha de Ikou DS | 98272 | [98272-a-ressha-de-ikou-ds.json](./98272-a-ressha-de-ikou-ds.json) |
+| A-Ressha de Ikou II | 284850 | [284850-a-ressha-de-ikou-ii.json](./284850-a-ressha-de-ikou-ii.json) |
+| A-Ressha de Ikou II | 284851 | [284851-a-ressha-de-ikou-ii.json](./284851-a-ressha-de-ikou-ii.json) |
 | A-Ressha de Ikou II: 5th Anniversary Special Limited Edition | 285135 | [285135-a-ressha-de-ikou-ii-5th-anniversary-special-limited-edition.json](./285135-a-ressha-de-ikou-ii-5th-anniversary-special-limited-edition.json) |
 | A-Ressha de Ikou II: Shin Map | 285133 | [285133-a-ressha-de-ikou-ii-shin-map.json](./285133-a-ressha-de-ikou-ii-shin-map.json) |
 | A-Ressha de Ikou III | 285141 | [285141-a-ressha-de-ikou-iii.json](./285141-a-ressha-de-ikou-iii.json) |
