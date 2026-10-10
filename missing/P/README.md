@@ -1586,6 +1586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parseword | 394540 | [394540-parseword.json](./394540-parseword.json) |
 | Parsnip | 96108 | [96108-parsnip.json](./96108-parsnip.json) |
 | Part of the Flock | 325700 | [325700-part-of-the-flock.json](./325700-part-of-the-flock.json) |
+| Part Time Job | 281339 | [281339-part-time-job.json](./281339-part-time-job.json) |
 | Part Time UFO | 75957 | [75957-part-time-ufo.json](./75957-part-time-ufo.json) |
 | Parthian Kings | 23963 | [23963-parthian-kings.json](./23963-parthian-kings.json) |
 | Partia 3 | 197346 | [197346-partia-3.json](./197346-partia-3.json) |
@@ -6562,6 +6563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poinpy | 204454 | [204454-poinpy.json](./204454-poinpy.json) |
 | Point | 97929 | [97929-point.json](./97929-point.json) |
 | Point Blank 2 | 40988 | [40988-point-blank-2.json](./40988-point-blank-2.json) |
+| Point Click Killer: Act Two | 281333 | [281333-point-click-killer-act-two.json](./281333-point-click-killer-act-two.json) |
 | Point Connect 2 | 55658 | [55658-point-connect-2.json](./55658-point-connect-2.json) |
 | Point Connect 3 | 55657 | [55657-point-connect-3.json](./55657-point-connect-3.json) |
 | Point Gakushuu: 10-masu Keisan | 327621 | [327621-point-gakushuu-10-masu-keisan.json](./327621-point-gakushuu-10-masu-keisan.json) |
@@ -10278,6 +10280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pseudo Collision | 389657 | [389657-pseudo-collision.json](./389657-pseudo-collision.json) |
 | Pseudo-Haunting | 272948 | [272948-pseudo-haunting.json](./272948-pseudo-haunting.json) |
 | Pseudoku | 337638 | [337638-pseudoku.json](./337638-pseudoku.json) |
+| Pseudomod | 281309 | [281309-pseudomod.json](./281309-pseudomod.json) |
 | PseudoSanity | 372635 | [372635-pseudosanity.json](./372635-pseudosanity.json) |
 | Psi Academy: Orientation | 341439 | [341439-psi-academy-orientation.json](./341439-psi-academy-orientation.json) |
 | Psi Chess | 58251 | [58251-psi-chess.json](./58251-psi-chess.json) |
