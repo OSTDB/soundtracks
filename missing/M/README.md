@@ -290,6 +290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madagascar: Join the Circus | 25186 | [25186-madagascar-join-the-circus.json](./25186-madagascar-join-the-circus.json) |
 | Madagascar: Operation Penguin | 3766 | [3766-madagascar-operation-penguin.json](./3766-madagascar-operation-penguin.json) |
 | Madam of Malice | 309435 | [309435-madam-of-malice.json](./309435-madam-of-malice.json) |
+| Madam President: She’s My Boss | 288128 | [288128-madam-president-she-s-my-boss.json](./288128-madam-president-she-s-my-boss.json) |
 | Madame Ching's Dungeon of Ecstasy | 133802 | [133802-madame-chings-dungeon-of-ecstasy.json](./133802-madame-chings-dungeon-of-ecstasy.json) |
 | Madame Claudine's Curious Curiousities | 394467 | [394467-madame-claudines-curious-curiousities.json](./394467-madame-claudines-curious-curiousities.json) |
 | Madara Saga: Youchien Senki Madara | 57072 | [57072-madara-saga-youchien-senki-madara.json](./57072-madara-saga-youchien-senki-madara.json) |
@@ -7094,6 +7095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miko-san no Miracle Board | 374956 | [374956-miko-san-no-miracle-board.json](./374956-miko-san-no-miracle-board.json) |
 | Mikone Douchuu | 206037 | [206037-mikone-douchuu.json](./206037-mikone-douchuu.json) |
 | Mikoshi | 191200 | [191200-mikoshi.json](./191200-mikoshi.json) |
+| MikoVerse | 288148 | [288148-mikoverse.json](./288148-mikoverse.json) |
 | Mikro Mortal Tennis | 73473 | [73473-mikro-mortal-tennis.json](./73473-mikro-mortal-tennis.json) |
 | Mikrocosmos | 232944 | [232944-mikrocosmos.json](./232944-mikrocosmos.json) |
 | Miku Chan's Robot | 277400 | [277400-miku-chans-robot.json](./277400-miku-chans-robot.json) |
@@ -7308,6 +7310,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mimpi Hidden Objects | 242561 | [242561-mimpi-hidden-objects.json](./242561-mimpi-hidden-objects.json) |
 | Mimpi Volleyball | 257468 | [257468-mimpi-volleyball.json](./257468-mimpi-volleyball.json) |
 | Mimsy & Friends! | 179520 | [179520-mimsy-and-friends.json](./179520-mimsy-and-friends.json) |
+| Min Dyrelægepraksis | 288110 | [288110-min-dyrel-gepraksis.json](./288110-min-dyrel-gepraksis.json) |
+| Min Dyrepension | 288109 | [288109-min-dyrepension.json](./288109-min-dyrepension.json) |
+| Min Dyreskole | 288111 | [288111-min-dyreskole.json](./288111-min-dyreskole.json) |
 | Mina | 373622 | [373622-mina.json](./373622-mina.json) |
 | Mina & Michi | 152408 | [152408-mina-and-michi.json](./152408-mina-and-michi.json) |
 | Mina of the Pirates | 87802 | [87802-mina-of-the-pirates.json](./87802-mina-of-the-pirates.json) |
@@ -7758,6 +7763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini & Max | 318736 | [318736-mini-and-max.json](./318736-mini-and-max.json) |
 | Mini 4WD Hyper Dash Grand Prix | 190044 | [190044-mini-4wd-hyper-dash-grand-prix.json](./190044-mini-4wd-hyper-dash-grand-prix.json) |
 | Mini AirHockey | 405473 | [405473-mini-airhockey.json](./405473-mini-airhockey.json) |
+| Mini Airways | 288116 | [288116-mini-airways.json](./288116-mini-airways.json) |
 | Mini Airways: Map - Busy Skies | 416593 | [416593-mini-airways-map-busy-skies.json](./416593-mini-airways-map-busy-skies.json) |
 | Mini Arenas | 215596 | [215596-mini-arenas.json](./215596-mini-arenas.json) |
 | Mini Attack Submarine | 57763 | [57763-mini-attack-submarine.json](./57763-mini-attack-submarine.json) |
@@ -8610,6 +8616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mitsumete Knight | 92966 | [92966-mitsumete-knight.json](./92966-mitsumete-knight.json) |
 | Mitsumete Knight R: Daibouken-hen | 166164 | [166164-mitsumete-knight-r-daibouken-hen.json](./166164-mitsumete-knight-r-daibouken-hen.json) |
 | Mitsurugi Kamui Hikae | 8822 | [8822-mitsurugi-kamui-hikae.json](./8822-mitsurugi-kamui-hikae.json) |
+| Mitt Babyzoo | 288106 | [288106-mitt-babyzoo.json](./288106-mitt-babyzoo.json) |
 | Mittin | 222286 | [222286-mittin.json](./222286-mittin.json) |
 | Mítú | 156684 | [156684-mitu.json](./156684-mitu.json) |
 | MiuSa | 308863 | [308863-miusa.json](./308863-miusa.json) |
