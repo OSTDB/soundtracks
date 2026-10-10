@@ -5779,6 +5779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luigi's Mansion 64.5: Super Player Mode | 374176 | [374176-luigis-mansion-64-5-super-player-mode.json](./374176-luigis-mansion-64-5-super-player-mode.json) |
 | Luigi's Mansion Beta Restoration (+) Plus | 281022 | [281022-luigis-mansion-beta-restoration-plus.json](./281022-luigis-mansion-beta-restoration-plus.json) |
 | Luigi's Mansion Organ Game | 328657 | [328657-luigis-mansion-organ-game.json](./328657-luigis-mansion-organ-game.json) |
+| Luigi's Mansion: Beyond Origins | 314570 | [314570-luigis-mansion-beyond-origins.json](./314570-luigis-mansion-beyond-origins.json) |
 | Luigi's Mansion: Dark Moon | 2476 | [2476-luigis-mansion-dark-moon.json](./2476-luigis-mansion-dark-moon.json) |
 | Luigi's Mansion: Extra Tangy | 313113 | [313113-luigis-mansion-extra-tangy.json](./313113-luigis-mansion-extra-tangy.json) |
 | Luigi's Mansion: Premium Deluxe | 259268 | [259268-luigis-mansion-premium-deluxe.json](./259268-luigis-mansion-premium-deluxe.json) |
