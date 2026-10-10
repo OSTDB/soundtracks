@@ -565,6 +565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Natsu no Hi no Resonance | 201810 | [201810-natsu-no-hi-no-resonance.json](./201810-natsu-no-hi-no-resonance.json) |
 | Natsu no Sagashimono: What We Found That Summer | 331121 | [331121-natsu-no-sagashimono-what-we-found-that-summer.json](./331121-natsu-no-sagashimono-what-we-found-that-summer.json) |
 | Natsu Shoujo: Promised Summer | 401155 | [401155-natsu-shoujo-promised-summer.json](./401155-natsu-shoujo-promised-summer.json) |
+| Natsu to Hakaba to Urameshiya | 285378 | [285378-natsu-to-hakaba-to-urameshiya.json](./285378-natsu-to-hakaba-to-urameshiya.json) |
 | Natsu-Mon: 20th Century Summer Kid | 236697 | [236697-natsu-mon-20th-century-summer-kid.json](./236697-natsu-mon-20th-century-summer-kid.json) |
 | Natsuha & Fuyumi: When Summer And Winter Meet | 383060 | [383060-natsuha-and-fuyumi-when-summer-and-winter-meet.json](./383060-natsuha-and-fuyumi-when-summer-and-winter-meet.json) |
 | Natsuiro Communication | 77943 | [77943-natsuiro-communication.json](./77943-natsuiro-communication.json) |
@@ -2783,6 +2784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightfall Main Game Plus VR | 53418 | [53418-nightfall-main-game-plus-vr.json](./53418-nightfall-main-game-plus-vr.json) |
 | Nightfall Mysteries: Asylum Conspiracy | 125304 | [125304-nightfall-mysteries-asylum-conspiracy.json](./125304-nightfall-mysteries-asylum-conspiracy.json) |
 | Nightfall Mysteries: Curse of the Opera | 125308 | [125308-nightfall-mysteries-curse-of-the-opera.json](./125308-nightfall-mysteries-curse-of-the-opera.json) |
+| NightFall Shade | 285418 | [285418-nightfall-shade.json](./285418-nightfall-shade.json) |
 | Nightfall Terror: Trails of the Dead | 318558 | [318558-nightfall-terror-trails-of-the-dead.json](./318558-nightfall-terror-trails-of-the-dead.json) |
 | Nightfall Village | 386374 | [386374-nightfall-village.json](./386374-nightfall-village.json) |
 | Nightfall Wardens | 302194 | [302194-nightfall-wardens.json](./302194-nightfall-wardens.json) |
@@ -2968,6 +2970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NightZero:Mistiltein | 125356 | [125356-nightzero-mistiltein.json](./125356-nightzero-mistiltein.json) |
 | Nightzoid | 260637 | [260637-nightzoid.json](./260637-nightzoid.json) |
 | Nigredo | 346143 | [346143-nigredo.json](./346143-nigredo.json) |
+| Nihil Ignis Incident 48 | 285400 | [285400-nihil-ignis-incident-48.json](./285400-nihil-ignis-incident-48.json) |
 | Nihilism | 71163 | [71163-nihilism.json](./71163-nihilism.json) |
 | Nihilist | 37287 | [37287-nihilist.json](./37287-nihilist.json) |
 | Nihilist Simulator | 72337 | [72337-nihilist-simulator.json](./72337-nihilist-simulator.json) |
