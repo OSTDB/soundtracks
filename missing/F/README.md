@@ -2138,6 +2138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fealty | 175213 | [175213-fealty.json](./175213-fealty.json) |
 | Fealty | 195559 | [195559-fealty.json](./195559-fealty.json) |
 | Fear & Fury | 238716 | [238716-fear-and-fury.json](./238716-fear-and-fury.json) |
+| Fear & Hope | 292415 | [292415-fear-and-hope.json](./292415-fear-and-hope.json) |
 | Fear & Hunger 2: Termina | 224262 | [224262-fear-and-hunger-2-termina.json](./224262-fear-and-hunger-2-termina.json) |
 | Fear & Hunger 3 | 324308 | [324308-fear-and-hunger-3.json](./324308-fear-and-hunger-3.json) |
 | Fear & Respect | 70423 | [70423-fear-and-respect.json](./70423-fear-and-respect.json) |
@@ -8243,6 +8244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Funus: The Climb | 379895 | [379895-funus-the-climb.json](./379895-funus-the-climb.json) |
 | FunWar | 195757 | [195757-funwar.json](./195757-funwar.json) |
 | Funwreckers | 236276 | [236276-funwreckers.json](./236276-funwreckers.json) |
+| Fur and Fables | 292451 | [292451-fur-and-fables.json](./292451-fur-and-fables.json) |
 | Fur and Fangs | 412994 | [412994-fur-and-fangs.json](./412994-fur-and-fangs.json) |
 | Fur and Feathers | 235283 | [235283-fur-and-feathers.json](./235283-fur-and-feathers.json) |
 | Fur and Feathers HD | 252924 | [252924-fur-and-feathers-hd.json](./252924-fur-and-feathers-hd.json) |
