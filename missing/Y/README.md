@@ -1006,7 +1006,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ys vs. Sora no Kiseki: Alternative Saga | 42772 | [42772-ys-vs-sora-no-kiseki-alternative-saga.json](./42772-ys-vs-sora-no-kiseki-alternative-saga.json) |
 | Ys vs. Trails in the Sky: Alternative Saga | 326629 | [326629-ys-vs-trails-in-the-sky-alternative-saga.json](./326629-ys-vs-trails-in-the-sky-alternative-saga.json) |
 | Ys X: Nordics | 229176 | [229176-ys-x-nordics.json](./229176-ys-x-nordics.json) |
+| Ys X: Nordics - Advanced Pack | 324357 | [324357-ys-x-nordics-advanced-pack.json](./324357-ys-x-nordics-advanced-pack.json) |
+| Ys X: Nordics - Attachment Pack | 324355 | [324355-ys-x-nordics-attachment-pack.json](./324355-ys-x-nordics-attachment-pack.json) |
+| Ys X: Nordics - Costume Pack | 324356 | [324356-ys-x-nordics-costume-pack.json](./324356-ys-x-nordics-costume-pack.json) |
+| Ys X: Nordics - Digital Deluxe Edition | 324353 | [324353-ys-x-nordics-digital-deluxe-edition.json](./324353-ys-x-nordics-digital-deluxe-edition.json) |
+| Ys X: Nordics - Digital Ultimate Edition | 324352 | [324352-ys-x-nordics-digital-ultimate-edition.json](./324352-ys-x-nordics-digital-ultimate-edition.json) |
+| Ys X: Nordics - Legendary Cleria Armor | 324354 | [324354-ys-x-nordics-legendary-cleria-armor.json](./324354-ys-x-nordics-legendary-cleria-armor.json) |
 | Ys X: Nordics - Limited Edition | 261302 | [261302-ys-x-nordics-limited-edition.json](./261302-ys-x-nordics-limited-edition.json) |
+| Ys X: Nordics - Raven Avatar | 324349 | [324349-ys-x-nordics-raven-avatar.json](./324349-ys-x-nordics-raven-avatar.json) |
+| Ys X: Nordics - Sandras Pack | 324350 | [324350-ys-x-nordics-sandras-pack.json](./324350-ys-x-nordics-sandras-pack.json) |
+| Ys X: Nordics - Starter Pack | 324351 | [324351-ys-x-nordics-starter-pack.json](./324351-ys-x-nordics-starter-pack.json) |
 | Ys X: Proud Nordics | 326507 | [326507-ys-x-proud-nordics.json](./326507-ys-x-proud-nordics.json) |
 | Ys X: Proud Nordics - Balduq Mascot Set | 393070 | [393070-ys-x-proud-nordics-balduq-mascot-set.json](./393070-ys-x-proud-nordics-balduq-mascot-set.json) |
 | Ys X: Proud Nordics - Isle of Seiren Mascot Set | 393071 | [393071-ys-x-proud-nordics-isle-of-seiren-mascot-set.json](./393071-ys-x-proud-nordics-isle-of-seiren-mascot-set.json) |
