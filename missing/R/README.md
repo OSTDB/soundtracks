@@ -7627,6 +7627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RunNCrush | 259044 | [259044-runncrush.json](./259044-runncrush.json) |
 | Runner | 172059 | [172059-runner.json](./172059-runner.json) |
 | Runner | 279890 | [279890-runner.json](./279890-runner.json) |
+| Runner | 304908 | [304908-runner.json](./304908-runner.json) |
 | Runner | 84538 | [84538-runner.json](./84538-runner.json) |
 | Runner Bear | 307074 | [307074-runner-bear.json](./307074-runner-bear.json) |
 | Runner Coaster | 220055 | [220055-runner-coaster.json](./220055-runner-coaster.json) |
@@ -7708,6 +7709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rush | 88768 | [88768-rush.json](./88768-rush.json) |
 | Rush and Blush | 333782 | [333782-rush-and-blush.json](./333782-rush-and-blush.json) |
 | Rush Back | 270680 | [270680-rush-back.json](./270680-rush-back.json) |
+| Rush Delivery | 304850 | [304850-rush-delivery.json](./304850-rush-delivery.json) |
 | Rush For Glory | 10803 | [10803-rush-for-glory.json](./10803-rush-for-glory.json) |
 | Rush for Gold: California | 33345 | [33345-rush-for-gold-california.json](./33345-rush-for-gold-california.json) |
 | Rush for the Bomb | 54352 | [54352-rush-for-the-bomb.json](./54352-rush-for-the-bomb.json) |
