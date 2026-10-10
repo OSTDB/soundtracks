@@ -613,6 +613,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ice Ball | 185466 | [185466-ice-ball.json](./185466-ice-ball.json) |
 | Ice Battle | 236933 | [236933-ice-battle.json](./236933-ice-battle.json) |
 | Ice Breaker | 280330 | [280330-ice-breaker.json](./280330-ice-breaker.json) |
+| Ice Breaker: The Gathering | 318166 | [318166-ice-breaker-the-gathering.json](./318166-ice-breaker-the-gathering.json) |
+| Ice Breaker: The Red Clan | 318165 | [318165-ice-breaker-the-red-clan.json](./318165-ice-breaker-the-red-clan.json) |
 | Ice Climber | 246340 | [246340-ice-climber.json](./246340-ice-climber.json) |
 | Ice Climber-e | 170012 | [170012-ice-climber-e.json](./170012-ice-climber-e.json) |
 | Ice Cold Beer | 406941 | [406941-ice-cold-beer.json](./406941-ice-cold-beer.json) |
@@ -2334,6 +2336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Lagrange | 163227 | [163227-infinite-lagrange.json](./163227-infinite-lagrange.json) |
 | Infinite Legend | 102755 | [102755-infinite-legend.json](./102755-infinite-legend.json) |
 | Infinite Library | 318186 | [318186-infinite-library.json](./318186-infinite-library.json) |
+| Infinite Life Simulation | 318116 | [318116-infinite-life-simulation.json](./318116-infinite-life-simulation.json) |
 | Infinite Links | 194185 | [194185-infinite-links.json](./194185-infinite-links.json) |
 | Infinite Lives | 354536 | [354536-infinite-lives.json](./354536-infinite-lives.json) |
 | Infinite Loop: Backrooms | 366952 | [366952-infinite-loop-backrooms.json](./366952-infinite-loop-backrooms.json) |
