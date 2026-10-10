@@ -869,6 +869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Egg Collector | 246497 | [246497-egg-collector.json](./246497-egg-collector.json) |
 | Egg Drop | 264233 | [264233-egg-drop.json](./264233-egg-drop.json) |
 | Egg Drop Soup | 414301 | [414301-egg-drop-soup.json](./414301-egg-drop-soup.json) |
+| Egg Fried Rice | 307268 | [307268-egg-fried-rice.json](./307268-egg-fried-rice.json) |
 | Egg Harvester | 409637 | [409637-egg-harvester.json](./409637-egg-harvester.json) |
 | Egg Hunt | 110375 | [110375-egg-hunt.json](./110375-egg-hunt.json) |
 | Egg Hunt | 46846 | [46846-egg-hunt.json](./46846-egg-hunt.json) |
@@ -2401,6 +2402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Engineer's Last Stand | 257335 | [257335-engineers-last-stand.json](./257335-engineers-last-stand.json) |
 | Engineered to Purpose | 224521 | [224521-engineered-to-purpose.json](./224521-engineered-to-purpose.json) |
 | Engineerium | 302487 | [302487-engineerium.json](./302487-engineerium.json) |
+| Engines of Fury | 307259 | [307259-engines-of-fury.json](./307259-engines-of-fury.json) |
 | England Championship Special | 71470 | [71470-england-championship-special.json](./71470-england-championship-special.json) |
 | England Exchange | 28643 | [28643-england-exchange.json](./28643-england-exchange.json) |
 | England in London | 276836 | [276836-england-in-london.json](./276836-england-in-london.json) |
