@@ -1521,6 +1521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tap Tap Revenge: NIN Edition | 70610 | [70610-tap-tap-revenge-nin-edition.json](./70610-tap-tap-revenge-nin-edition.json) |
 | Tap Tap Run | 193802 | [193802-tap-tap-run.json](./193802-tap-tap-run.json) |
 | Tap Tap Trillionaire: Invest! | 261353 | [261353-tap-tap-trillionaire-invest.json](./261353-tap-tap-trillionaire-invest.json) |
+| Tap That Date! | 323993 | [323993-tap-that-date.json](./323993-tap-that-date.json) |
 | Tap the Blocks | 214195 | [214195-tap-the-blocks.json](./214195-tap-the-blocks.json) |
 | Tap Those Targets | 158568 | [158568-tap-those-targets.json](./158568-tap-those-targets.json) |
 | Tap Titans | 91424 | [91424-tap-titans.json](./91424-tap-titans.json) |
@@ -7759,6 +7760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Zelda: Four Swords Online | 323278 | [323278-the-legend-of-zelda-four-swords-online.json](./323278-the-legend-of-zelda-four-swords-online.json) |
 | The Legend of Zelda: Fourth Quest | 150079 | [150079-the-legend-of-zelda-fourth-quest.json](./150079-the-legend-of-zelda-fourth-quest.json) |
 | The Legend of Zelda: Goddess of Wisdom | 275308 | [275308-the-legend-of-zelda-goddess-of-wisdom.json](./275308-the-legend-of-zelda-goddess-of-wisdom.json) |
+| The Legend of Zelda: Guardians of Hyrule | 324003 | [324003-the-legend-of-zelda-guardians-of-hyrule.json](./324003-the-legend-of-zelda-guardians-of-hyrule.json) |
 | The Legend of Zelda: Hall of the Dead | 323367 | [323367-the-legend-of-zelda-hall-of-the-dead.json](./323367-the-legend-of-zelda-hall-of-the-dead.json) |
 | The Legend of Zelda: Hard Awakening DX | 217837 | [217837-the-legend-of-zelda-hard-awakening-dx.json](./217837-the-legend-of-zelda-hard-awakening-dx.json) |
 | The Legend of Zelda: Horn of Balance | 321447 | [321447-the-legend-of-zelda-horn-of-balance.json](./321447-the-legend-of-zelda-horn-of-balance.json) |
@@ -7767,6 +7769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Zelda: King of Thieves | 322646 | [322646-the-legend-of-zelda-king-of-thieves.json](./322646-the-legend-of-zelda-king-of-thieves.json) |
 | The Legend of Zelda: Link's Awakening | 1028 | [1028-the-legend-of-zelda-links-awakening.json](./1028-the-legend-of-zelda-links-awakening.json) |
 | The Legend of Zelda: Link's Awakening - Dreamer Edition | 136334 | [136334-the-legend-of-zelda-links-awakening-dreamer-edition.json](./136334-the-legend-of-zelda-links-awakening-dreamer-edition.json) |
+| The Legend of Zelda: Link's Awakening Coop | 324008 | [324008-the-legend-of-zelda-links-awakening-coop.json](./324008-the-legend-of-zelda-links-awakening-coop.json) |
 | The Legend of Zelda: Link's Awakening DX | 1027 | [1027-the-legend-of-zelda-links-awakening-dx.json](./1027-the-legend-of-zelda-links-awakening-dx.json) |
 | The Legend of Zelda: Link's Awakening DX Randomizer | 242028 | [242028-the-legend-of-zelda-links-awakening-dx-randomizer.json](./242028-the-legend-of-zelda-links-awakening-dx-randomizer.json) |
 | The Legend of Zelda: Link's Awakening Redux | 219081 | [219081-the-legend-of-zelda-links-awakening-redux.json](./219081-the-legend-of-zelda-links-awakening-redux.json) |
@@ -7804,6 +7807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Zelda: Return of the Hylian SE | 243616 | [243616-the-legend-of-zelda-return-of-the-hylian-se.json](./243616-the-legend-of-zelda-return-of-the-hylian-se.json) |
 | The Legend of Zelda: Sage Knight | 323756 | [323756-the-legend-of-zelda-sage-knight.json](./323756-the-legend-of-zelda-sage-knight.json) |
 | The Legend of Zelda: Sands of Time | 326156 | [326156-the-legend-of-zelda-sands-of-time.json](./326156-the-legend-of-zelda-sands-of-time.json) |
+| The Legend of Zelda: Shadow Mirror | 324001 | [324001-the-legend-of-zelda-shadow-mirror.json](./324001-the-legend-of-zelda-shadow-mirror.json) |
 | The Legend of Zelda: Shénqí de Màozi | 163217 | [163217-the-legend-of-zelda-shenqi-de-maozi.json](./163217-the-legend-of-zelda-shenqi-de-maozi.json) |
 | The Legend of Zelda: Skyward Sword HD Randomizer | 331139 | [331139-the-legend-of-zelda-skyward-sword-hd-randomizer.json](./331139-the-legend-of-zelda-skyward-sword-hd-randomizer.json) |
 | The Legend of Zelda: Skyward Sword Randomizer | 241895 | [241895-the-legend-of-zelda-skyward-sword-randomizer.json](./241895-the-legend-of-zelda-skyward-sword-randomizer.json) |
@@ -7815,6 +7819,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Zelda: Tears of the Kingdom Online | 357440 | [357440-the-legend-of-zelda-tears-of-the-kingdom-online.json](./357440-the-legend-of-zelda-tears-of-the-kingdom-online.json) |
 | The Legend of Zelda: Tears of the Kingdom Randomizer | 256282 | [256282-the-legend-of-zelda-tears-of-the-kingdom-randomizer.json](./256282-the-legend-of-zelda-tears-of-the-kingdom-randomizer.json) |
 | The Legend of Zelda: The Hunter's Song | 327776 | [327776-the-legend-of-zelda-the-hunters-song.json](./327776-the-legend-of-zelda-the-hunters-song.json) |
+| The Legend of Zelda: The Hylian Frontier | 324002 | [324002-the-legend-of-zelda-the-hylian-frontier.json](./324002-the-legend-of-zelda-the-hylian-frontier.json) |
+| The Legend of Zelda: The Hylian Phoenix | 324012 | [324012-the-legend-of-zelda-the-hylian-phoenix.json](./324012-the-legend-of-zelda-the-hylian-phoenix.json) |
 | The Legend of Zelda: The Mini Quest | 275620 | [275620-the-legend-of-zelda-the-mini-quest.json](./275620-the-legend-of-zelda-the-mini-quest.json) |
 | The Legend of Zelda: The Missing Link | 136392 | [136392-the-legend-of-zelda-the-missing-link.json](./136392-the-legend-of-zelda-the-missing-link.json) |
 | The Legend of Zelda: The Shadowgazer | 323364 | [323364-the-legend-of-zelda-the-shadowgazer.json](./323364-the-legend-of-zelda-the-shadowgazer.json) |
@@ -9240,6 +9246,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Project Mars 2+3 | 125927 | [125927-the-project-mars-2-3.json](./125927-the-project-mars-2-3.json) |
 | The Projection Room of Malka Spitzer | 262953 | [262953-the-projection-room-of-malka-spitzer.json](./262953-the-projection-room-of-malka-spitzer.json) |
 | The Projet Poulet | 287906 | [287906-the-projet-poulet.json](./287906-the-projet-poulet.json) |
+| The Promise of Forever | 323991 | [323991-the-promise-of-forever.json](./323991-the-promise-of-forever.json) |
+| The Promise of Forever 2 | 323992 | [323992-the-promise-of-forever-2.json](./323992-the-promise-of-forever-2.json) |
 | The Promised Land | 17318 | [17318-the-promised-land.json](./17318-the-promised-land.json) |
 | The Promised Land | 78648 | [78648-the-promised-land.json](./78648-the-promised-land.json) |
 | The Prophecy | 12822 | [12822-the-prophecy.json](./12822-the-prophecy.json) |
@@ -9910,6 +9918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sexy Brutale | 22783 | [22783-the-sexy-brutale.json](./22783-the-sexy-brutale.json) |
 | The Shade Forest | 319028 | [319028-the-shade-forest.json](./319028-the-shade-forest.json) |
 | The Shadow | 198882 | [198882-the-shadow.json](./198882-the-shadow.json) |
+| The Shadow | 323990 | [323990-the-shadow.json](./323990-the-shadow.json) |
 | The Shadow Archer: Famous Stickman Series | 105524 | [105524-the-shadow-archer-famous-stickman-series.json](./105524-the-shadow-archer-famous-stickman-series.json) |
 | The Shadow Architect | 390193 | [390193-the-shadow-architect.json](./390193-the-shadow-architect.json) |
 | The Shadow Cat | 289965 | [289965-the-shadow-cat.json](./289965-the-shadow-cat.json) |
@@ -12868,6 +12877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiestru | 36255 | [36255-tiestru.json](./36255-tiestru.json) |
 | Tiěxuè Gōngshā | 151615 | [151615-tiexue-gongsha.json](./151615-tiexue-gongsha.json) |
 | Tiffany Alvord Dream World | 233079 | [233079-tiffany-alvord-dream-world.json](./233079-tiffany-alvord-dream-world.json) |
+| Tiffy's Magical Tales: Pinocchio | 323976 | [323976-tiffys-magical-tales-pinocchio.json](./323976-tiffys-magical-tales-pinocchio.json) |
 | Tiger & Bunny: Hero's Day | 63842 | [63842-tiger-and-bunny-heros-day.json](./63842-tiger-and-bunny-heros-day.json) |
 | Tiger Casino & Slot Game | 373625 | [373625-tiger-casino-and-slot-game.json](./373625-tiger-casino-and-slot-game.json) |
 | Tiger Eye Part I: Curse of the Riddle Box | 206789 | [206789-tiger-eye-part-i-curse-of-the-riddle-box.json](./206789-tiger-eye-part-i-curse-of-the-riddle-box.json) |
