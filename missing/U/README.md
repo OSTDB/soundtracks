@@ -525,6 +525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultra Age: Rebirth Project | 224203 | [224203-ultra-age-rebirth-project.json](./224203-ultra-age-rebirth-project.json) |
 | Ultra Aktion! | 59658 | [59658-ultra-aktion.json](./59658-ultra-aktion.json) |
 | Ultra Assault | 94564 | [94564-ultra-assault.json](./94564-ultra-assault.json) |
+| Ultra Auto Gotchimon | 285931 | [285931-ultra-auto-gotchimon.json](./285931-ultra-auto-gotchimon.json) |
 | Ultra Baken | 92661 | [92661-ultra-baken.json](./92661-ultra-baken.json) |
 | Ultra Baseball Jitsumei-ban 2 | 38235 | [38235-ultra-baseball-jitsumei-ban-2.json](./38235-ultra-baseball-jitsumei-ban-2.json) |
 | Ultra Baseball Jitsumei-ban 3 | 37775 | [37775-ultra-baseball-jitsumei-ban-3.json](./37775-ultra-baseball-jitsumei-ban-3.json) |
