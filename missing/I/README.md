@@ -2698,6 +2698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inno Vation! 2007 | 166055 | [166055-inno-vation-2007.json](./166055-inno-vation-2007.json) |
 | Innocence Or Money Season 1: The Complete Season | 285605 | [285605-innocence-or-money-season-1-the-complete-season.json](./285605-innocence-or-money-season-1-the-complete-season.json) |
 | Innocence or Money: Season 2 - Episode 1 | 340754 | [340754-innocence-or-money-season-2-episode-1.json](./340754-innocence-or-money-season-2-episode-1.json) |
+| Innocence: A Seduce Me Story | 304230 | [304230-innocence-a-seduce-me-story.json](./304230-innocence-a-seduce-me-story.json) |
 | Innocent Bullet: The False World | 401153 | [401153-innocent-bullet-the-false-world.json](./401153-innocent-bullet-the-false-world.json) |
 | Innocent Critters | 238723 | [238723-innocent-critters.json](./238723-innocent-critters.json) |
 | Innocent Girl | 169369 | [169369-innocent-girl.json](./169369-innocent-girl.json) |
