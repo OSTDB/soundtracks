@@ -6210,6 +6210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney Classic Games: Aladdin and The Lion King | 122082 | [122082-disney-classic-games-aladdin-and-the-lion-king.json](./122082-disney-classic-games-aladdin-and-the-lion-king.json) |
 | Disney Classic Games: Aladdin and The Lion King - The Jungle Book and More Aladdin Pack | 204668 | [204668-disney-classic-games-aladdin-and-the-lion-king-the-jungle-book-and-more-aladdin-pack.json](./204668-disney-classic-games-aladdin-and-the-lion-king-the-jungle-book-and-more-aladdin-pack.json) |
 | Disney Classics: Master Mouse - Show Time Quiz | 228447 | [228447-disney-classics-master-mouse-show-time-quiz.json](./228447-disney-classics-master-mouse-show-time-quiz.json) |
+| Disney Coloring Book | 290321 | [290321-disney-coloring-book.json](./290321-disney-coloring-book.json) |
 | Disney Dreamlight Valley | 198506 | [198506-disney-dreamlight-valley.json](./198506-disney-dreamlight-valley.json) |
 | Disney Dreamlight Valley: A Rift in Time - Chapter 1: Welcome to Eternity Isle | 279238 | [279238-disney-dreamlight-valley-a-rift-in-time-chapter-1-welcome-to-eternity-isle.json](./279238-disney-dreamlight-valley-a-rift-in-time-chapter-1-welcome-to-eternity-isle.json) |
 | Disney Dreamlight Valley: Arcade Edition | 357417 | [357417-disney-dreamlight-valley-arcade-edition.json](./357417-disney-dreamlight-valley-arcade-edition.json) |
@@ -6299,6 +6300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney Sports Snowboarding | 49304 | [49304-disney-sports-snowboarding.json](./49304-disney-sports-snowboarding.json) |
 | Disney Sports Tennis | 243812 | [243812-disney-sports-tennis.json](./243812-disney-sports-tennis.json) |
 | Disney Step | 335656 | [335656-disney-step.json](./335656-disney-step.json) |
+| Disney Story Book | 290322 | [290322-disney-story-book.json](./290322-disney-story-book.json) |
 | Disney Superbia | 243801 | [243801-disney-superbia.json](./243801-disney-superbia.json) |
 | Disney The Little Mermaid: Undersea Treasures! | 328255 | [328255-disney-the-little-mermaid-undersea-treasures.json](./328255-disney-the-little-mermaid-undersea-treasures.json) |
 | Disney Toy Box | 342649 | [342649-disney-toy-box.json](./342649-disney-toy-box.json) |
@@ -7222,6 +7224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doko Demo Raku Raku! DS Kakeibo | 269573 | [269573-doko-demo-raku-raku-ds-kakeibo.json](./269573-doko-demo-raku-raku-ds-kakeibo.json) |
 | Doko he Iku no, Ano Hi | 408770 | [408770-doko-he-iku-no-ano-hi.json](./408770-doko-he-iku-no-ano-hi.json) |
 | Doko ni Iru? Hijouguchi no Pict-san | 251514 | [251514-doko-ni-iru-hijouguchi-no-pict-san.json](./251514-doko-ni-iru-hijouguchi-no-pict-san.json) |
+| Dokoban | 290327 | [290327-dokoban.json](./290327-dokoban.json) |
 | Dokodemo Crash-kun | 210242 | [210242-dokodemo-crash-kun.json](./210242-dokodemo-crash-kun.json) |
 | Dokodemo Dorayaki Doraemon | 199449 | [199449-dokodemo-dorayaki-doraemon.json](./199449-dokodemo-dorayaki-doraemon.json) |
 | Dokodemo Mahjong | 43966 | [43966-dokodemo-mahjong.json](./43966-dokodemo-mahjong.json) |
@@ -10818,6 +10821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungen | 169436 | [169436-dungen.json](./169436-dungen.json) |
 | Dungene | 217354 | [217354-dungene.json](./217354-dungene.json) |
 | Dungeon | 227756 | [227756-dungeon.json](./227756-dungeon.json) |
+| Dungeon | 290308 | [290308-dungeon.json](./290308-dungeon.json) |
 | Dungeon | 86095 | [86095-dungeon.json](./86095-dungeon.json) |
 | Dungeon & Adventure | 220590 | [220590-dungeon-and-adventure.json](./220590-dungeon-and-adventure.json) |
 | Dungeon & Burglar | 195149 | [195149-dungeon-and-burglar.json](./195149-dungeon-and-burglar.json) |
@@ -11161,6 +11165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon, Inc. | 247176 | [247176-dungeon-inc.json](./247176-dungeon-inc.json) |
 | Dungeon; Friends Escape! | 55516 | [55516-dungeon-friends-escape.json](./55516-dungeon-friends-escape.json) |
 | Dungeon: Faster & Deadlier | 197145 | [197145-dungeon-faster-and-deadlier.json](./197145-dungeon-faster-and-deadlier.json) |
+| Dungeon! | 290300 | [290300-dungeon.json](./290300-dungeon.json) |
 | Dungeon!: Order of the Raven | 400535 | [400535-dungeon-order-of-the-raven.json](./400535-dungeon-order-of-the-raven.json) |
 | Dungeon's Fall | 189125 | [189125-dungeons-fall.json](./189125-dungeons-fall.json) |
 | Dungeon&Girls | 131403 | [131403-dungeon-and-girls.json](./131403-dungeon-and-girls.json) |
