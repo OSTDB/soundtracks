@@ -310,6 +310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pacman Club | 289882 | [289882-pacman-club.json](./289882-pacman-club.json) |
 | Pacman Cube | 230500 | [230500-pacman-cube.json](./230500-pacman-cube.json) |
 | Pacman for GEM | 70052 | [70052-pacman-for-gem.json](./70052-pacman-for-gem.json) |
+| Pacman Worlds | 321645 | [321645-pacman-worlds.json](./321645-pacman-worlds.json) |
 | Pacman: Google Maps | 364410 | [364410-pacman-google-maps.json](./364410-pacman-google-maps.json) |
 | Pacman2 | 62686 | [62686-pacman2.json](./62686-pacman2.json) |
 | Pacmania | 41014 | [41014-pacmania.json](./41014-pacmania.json) |
@@ -4073,6 +4074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pimbolas | 338806 | [338806-pimbolas.json](./338806-pimbolas.json) |
 | Pimby's Workaround | 364654 | [364654-pimbys-workaround.json](./364654-pimbys-workaround.json) |
 | Pimeval Man | 354593 | [354593-pimeval-man.json](./354593-pimeval-man.json) |
+| PiMon | 321640 | [321640-pimon.json](./321640-pimon.json) |
 | Pimp Hand Strong! | 234712 | [234712-pimp-hand-strong.json](./234712-pimp-hand-strong.json) |
 | Pimp My Dungeon | 243959 | [243959-pimp-my-dungeon.json](./243959-pimp-my-dungeon.json) |
 | Pimp My Ride | 5098 | [5098-pimp-my-ride.json](./5098-pimp-my-ride.json) |
@@ -5272,6 +5274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixels With Comics | 260247 | [260247-pixels-with-comics.json](./260247-pixels-with-comics.json) |
 | Pixelscape: Oceans | 32200 | [32200-pixelscape-oceans.json](./32200-pixelscape-oceans.json) |
 | PixelShips Retro | 71145 | [71145-pixelships-retro.json](./71145-pixelships-retro.json) |
+| Pixeltroid | 321673 | [321673-pixeltroid.json](./321673-pixeltroid.json) |
 | Pixelus | 209383 | [209383-pixelus.json](./209383-pixelus.json) |
 | Pixelvader | 335923 | [335923-pixelvader.json](./335923-pixelvader.json) |
 | Pixelz - Color by Number Pixel Art Coloring Book | 104616 | [104616-pixelz-color-by-number-pixel-art-coloring-book.json](./104616-pixelz-color-by-number-pixel-art-coloring-book.json) |
