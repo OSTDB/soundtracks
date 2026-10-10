@@ -552,6 +552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Lands | 39655 | [39655-bad-lands.json](./39655-bad-lands.json) |
 | Bad Luck Cat | 183024 | [183024-bad-luck-cat.json](./183024-bad-luck-cat.json) |
 | Bad Magpie | 405068 | [405068-bad-magpie.json](./405068-bad-magpie.json) |
+| Bad Manors | 327772 | [327772-bad-manors.json](./327772-bad-manors.json) |
 | Bad Mechanic | 294297 | [294297-bad-mechanic.json](./294297-bad-mechanic.json) |
 | Bad Meme | 158036 | [158036-bad-meme.json](./158036-bad-meme.json) |
 | Bad Mineral | 272246 | [272246-bad-mineral.json](./272246-bad-mineral.json) |
@@ -2548,6 +2549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BattleBlade | 108034 | [108034-battleblade.json](./108034-battleblade.json) |
 | BattleBlock Theater | 2605 | [2605-battleblock-theater.json](./2605-battleblock-theater.json) |
 | Battleboat | 368279 | [368279-battleboat.json](./368279-battleboat.json) |
+| Battleboats.io | 327906 | [327906-battleboats-io.json](./327906-battleboats-io.json) |
 | Battleborn Tap | 58610 | [58610-battleborn-tap.json](./58610-battleborn-tap.json) |
 | Battleborn: Attikus and the Thrall Rebellion | 25040 | [25040-battleborn-attikus-and-the-thrall-rebellion.json](./25040-battleborn-attikus-and-the-thrall-rebellion.json) |
 | Battleborn: Montana and the Demon Bear | 403140 | [403140-battleborn-montana-and-the-demon-bear.json](./403140-battleborn-montana-and-the-demon-bear.json) |
@@ -4243,6 +4245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond the Legend: Mysteries of Olympus | 106968 | [106968-beyond-the-legend-mysteries-of-olympus.json](./106968-beyond-the-legend-mysteries-of-olympus.json) |
 | Beyond the Lens | 244738 | [244738-beyond-the-lens.json](./244738-beyond-the-lens.json) |
 | Beyond the Marion | 338233 | [338233-beyond-the-marion.json](./338233-beyond-the-marion.json) |
+| Beyond The Mist: Beginnings | 327908 | [327908-beyond-the-mist-beginnings.json](./327908-beyond-the-mist-beginnings.json) |
 | Beyond the Mountains | 244201 | [244201-beyond-the-mountains.json](./244201-beyond-the-mountains.json) |
 | Beyond the Phone Screen | 169886 | [169886-beyond-the-phone-screen.json](./169886-beyond-the-phone-screen.json) |
 | Beyond the Pitch | 349512 | [349512-beyond-the-pitch.json](./349512-beyond-the-pitch.json) |
@@ -5451,6 +5454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Mesa Inbound | 253030 | [253030-black-mesa-inbound.json](./253030-black-mesa-inbound.json) |
 | Black Mesa: Blue Shift | 196017 | [196017-black-mesa-blue-shift.json](./196017-black-mesa-blue-shift.json) |
 | Black Mesa: Classic | 283761 | [283761-black-mesa-classic.json](./283761-black-mesa-classic.json) |
+| Black Mesa: Military | 327903 | [327903-black-mesa-military.json](./327903-black-mesa-military.json) |
 | Black Mirror III: Final Fear | 10049 | [10049-black-mirror-iii-final-fear.json](./10049-black-mirror-iii-final-fear.json) |
 | Black Mirror: Thronglets | 339816 | [339816-black-mirror-thronglets.json](./339816-black-mirror-thronglets.json) |
 | Black Mist | 51515 | [51515-black-mist.json](./51515-black-mist.json) |
