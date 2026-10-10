@@ -162,6 +162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Day of Maintenance | 154623 | [154623-a-day-of-maintenance.json](./154623-a-day-of-maintenance.json) |
 | A Day on the Farm | 326582 | [326582-a-day-on-the-farm.json](./326582-a-day-on-the-farm.json) |
 | A Day Out with Ube | 242006 | [242006-a-day-out-with-ube.json](./242006-a-day-out-with-ube.json) |
+| A Day to Bring Them Happiness | 314042 | [314042-a-day-to-bring-them-happiness.json](./314042-a-day-to-bring-them-happiness.json) |
 | A Day With Mochi | 323717 | [323717-a-day-with-mochi.json](./323717-a-day-with-mochi.json) |
 | A Day with the Wiggles | 273875 | [273875-a-day-with-the-wiggles.json](./273875-a-day-with-the-wiggles.json) |
 | A Day's Work | 307699 | [307699-a-days-work.json](./307699-a-days-work.json) |
@@ -8948,6 +8949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asphalt: Urban GT | 243184 | [243184-asphalt-urban-gt.json](./243184-asphalt-urban-gt.json) |
 | Asphalt: Urban GT | 6260 | [6260-asphalt-urban-gt.json](./6260-asphalt-urban-gt.json) |
 | Asphalt: Urban GT 2 | 243030 | [243030-asphalt-urban-gt-2.json](./243030-asphalt-urban-gt-2.json) |
+| Asphodelium | 314015 | [314015-asphodelium.json](./314015-asphodelium.json) |
 | Asphyx | 418304 | [418304-asphyx.json](./418304-asphyx.json) |
 | Asphyxia | 34827 | [34827-asphyxia.json](./34827-asphyxia.json) |
 | Asphyxiation | 368153 | [368153-asphyxiation.json](./368153-asphyxiation.json) |
