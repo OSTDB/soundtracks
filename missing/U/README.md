@@ -1402,6 +1402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uniboom: War of Unicorns | 164921 | [164921-uniboom-war-of-unicorns.json](./164921-uniboom-war-of-unicorns.json) |
 | Unicellular | 185602 | [185602-unicellular.json](./185602-unicellular.json) |
 | Unichrome: A 1-Bit Unicorn Adventure | 204925 | [204925-unichrome-a-1-bit-unicorn-adventure.json](./204925-unichrome-a-1-bit-unicorn-adventure.json) |
+| Unicopia | 311737 | [311737-unicopia.json](./311737-unicopia.json) |
 | Unicorn | 223672 | [223672-unicorn.json](./223672-unicorn.json) |
 | Unicorn 3D | 87057 | [87057-unicorn-3d.json](./87057-unicorn-3d.json) |
 | Unicorn Academy: Island of Magic | 410966 | [410966-unicorn-academy-island-of-magic.json](./410966-unicorn-academy-island-of-magic.json) |
