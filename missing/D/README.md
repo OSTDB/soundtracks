@@ -3011,6 +3011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Decodence | 351568 | [351568-decodence.json](./351568-decodence.json) |
 | Decoherence | 97966 | [97966-decoherence.json](./97966-decoherence.json) |
 | Decollate Decoration | 266187 | [266187-decollate-decoration.json](./266187-decollate-decoration.json) |
+| Decolonators | 294551 | [294551-decolonators.json](./294551-decolonators.json) |
 | Decommission Protocol | 421367 | [421367-decommission-protocol.json](./421367-decommission-protocol.json) |
 | Decommissioned Tech Repair Mechanic Simulator 2099 | 365763 | [365763-decommissioned-tech-repair-mechanic-simulator-2099.json](./365763-decommissioned-tech-repair-mechanic-simulator-2099.json) |
 | Decommissioner | 186252 | [186252-decommissioner.json](./186252-decommissioner.json) |
