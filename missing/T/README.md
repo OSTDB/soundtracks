@@ -251,6 +251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tactical Shooter | 409738 | [409738-tactical-shooter.json](./409738-tactical-shooter.json) |
 | Tactical Soccer | 42514 | [42514-tactical-soccer.json](./42514-tactical-soccer.json) |
 | Tactical Soccer the New Season | 34477 | [34477-tactical-soccer-the-new-season.json](./34477-tactical-soccer-the-new-season.json) |
+| Tactical Strike: Special Forces Shooter | 310710 | [310710-tactical-strike-special-forces-shooter.json](./310710-tactical-strike-special-forces-shooter.json) |
 | Tactical Vengeance: Play the Game | 230924 | [230924-tactical-vengeance-play-the-game.json](./230924-tactical-vengeance-play-the-game.json) |
 | Tactical Warrior | 208388 | [208388-tactical-warrior.json](./208388-tactical-warrior.json) |
 | TacticalDuty.io | 234036 | [234036-tacticalduty-io.json](./234036-tacticalduty-io.json) |
@@ -7689,6 +7690,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Heroes: Trails of Cold Steel IV - Digital Deluxe Edition | 169218 | [169218-the-legend-of-heroes-trails-of-cold-steel-iv-digital-deluxe-edition.json](./169218-the-legend-of-heroes-trails-of-cold-steel-iv-digital-deluxe-edition.json) |
 | The Legend of Heroes: Trails of Cold Steel IV - Eternal Preservation Edition | 167068 | [167068-the-legend-of-heroes-trails-of-cold-steel-iv-eternal-preservation-edition.json](./167068-the-legend-of-heroes-trails-of-cold-steel-iv-eternal-preservation-edition.json) |
 | The Legend of Heroes: Trails of Cold Steel IV - Standard Costume Bundle | 227335 | [227335-the-legend-of-heroes-trails-of-cold-steel-iv-standard-costume-bundle.json](./227335-the-legend-of-heroes-trails-of-cold-steel-iv-standard-costume-bundle.json) |
+| The Legend of Heroes: Trails through Daybreak - Bonus Set | 310687 | [310687-the-legend-of-heroes-trails-through-daybreak-bonus-set.json](./310687-the-legend-of-heroes-trails-through-daybreak-bonus-set.json) |
+| The Legend of Heroes: Trails through Daybreak - Voice Set | 310686 | [310686-the-legend-of-heroes-trails-through-daybreak-voice-set.json](./310686-the-legend-of-heroes-trails-through-daybreak-voice-set.json) |
 | The Legend of Heroes: Trails through Daybreak II - Deluxe Edition | 313763 | [313763-the-legend-of-heroes-trails-through-daybreak-ii-deluxe-edition.json](./313763-the-legend-of-heroes-trails-through-daybreak-ii-deluxe-edition.json) |
 | The Legend of Heroes: Trails through Daybreak II - Limited Edition | 313762 | [313762-the-legend-of-heroes-trails-through-daybreak-ii-limited-edition.json](./313762-the-legend-of-heroes-trails-through-daybreak-ii-limited-edition.json) |
 | The Legend of Heroes: Trails to Azure | 23323 | [23323-the-legend-of-heroes-trails-to-azure.json](./23323-the-legend-of-heroes-trails-to-azure.json) |
@@ -11563,6 +11566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wall Mustn't Fall | 215793 | [215793-the-wall-mustnt-fall.json](./215793-the-wall-mustnt-fall.json) |
 | The Walls | 289952 | [289952-the-walls.json](./289952-the-walls.json) |
 | The Walls of Bratock | 14423 | [14423-the-walls-of-bratock.json](./14423-the-walls-of-bratock.json) |
+| The Walls Still Stand | 310717 | [310717-the-walls-still-stand.json](./310717-the-walls-still-stand.json) |
 | The Wallway | 342790 | [342790-the-wallway.json](./342790-the-wallway.json) |
 | The Walsingham Files: Chapter 1 | 116120 | [116120-the-walsingham-files-chapter-1.json](./116120-the-walsingham-files-chapter-1.json) |
 | The Walt Disney World Explorer | 132096 | [132096-the-walt-disney-world-explorer.json](./132096-the-walt-disney-world-explorer.json) |
@@ -11666,6 +11670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Weeping Swan: Ten Days of the City's Fall | 329217 | [329217-the-weeping-swan-ten-days-of-the-citys-fall.json](./329217-the-weeping-swan-ten-days-of-the-citys-fall.json) |
 | The Weight of a Soul | 230546 | [230546-the-weight-of-a-soul.json](./230546-the-weight-of-a-soul.json) |
 | The Well | 169799 | [169799-the-well.json](./169799-the-well.json) |
+| The Well of Heaven-Reaching | 310713 | [310713-the-well-of-heaven-reaching.json](./310713-the-well-of-heaven-reaching.json) |
 | The Well of Life Cannot Move | 298630 | [298630-the-well-of-life-cannot-move.json](./298630-the-well-of-life-cannot-move.json) |
 | The Well: Episode 1 | 333621 | [333621-the-well-episode-1.json](./333621-the-well-episode-1.json) |
 | The Wendigo | 27673 | [27673-the-wendigo.json](./27673-the-wendigo.json) |
@@ -15871,6 +15876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toree 2 | 172664 | [172664-toree-2.json](./172664-toree-2.json) |
 | Toree 3D | 144687 | [144687-toree-3d.json](./144687-toree-3d.json) |
 | Toree Jolly Jam | 279783 | [279783-toree-jolly-jam.json](./279783-toree-jolly-jam.json) |
+| Toree Jumbled Jam 2 | 310614 | [310614-toree-jumbled-jam-2.json](./310614-toree-jumbled-jam-2.json) |
 | Toree Missions | 310613 | [310613-toree-missions.json](./310613-toree-missions.json) |
 | Toree Saturn | 262958 | [262958-toree-saturn.json](./262958-toree-saturn.json) |
 | Toree's 3D Platformer Collection | 218452 | [218452-torees-3d-platformer-collection.json](./218452-torees-3d-platformer-collection.json) |
@@ -16337,6 +16343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Genso Wanderer Reloaded: Tenshi Hinanawi | 161750 | [161750-touhou-genso-wanderer-reloaded-tenshi-hinanawi.json](./161750-touhou-genso-wanderer-reloaded-tenshi-hinanawi.json) |
 | Touhou Genso Wanderer Reloaded: Utsuho Reiuji | 161741 | [161741-touhou-genso-wanderer-reloaded-utsuho-reiuji.json](./161741-touhou-genso-wanderer-reloaded-utsuho-reiuji.json) |
 | Touhou Genso Wanderer: Foresight | 289024 | [289024-touhou-genso-wanderer-foresight.json](./289024-touhou-genso-wanderer-foresight.json) |
+| Touhou Genso Wanderer: Foresight - Reimu Hakurei Winter Costume | 310484 | [310484-touhou-genso-wanderer-foresight-reimu-hakurei-winter-costume.json](./310484-touhou-genso-wanderer-foresight-reimu-hakurei-winter-costume.json) |
 | Touhou Genso Wanderer: Lotus Labyrinth R | 173124 | [173124-touhou-genso-wanderer-lotus-labyrinth-r.json](./173124-touhou-genso-wanderer-lotus-labyrinth-r.json) |
 | Touhou Genso Wanderer: Momiji Inubashiri | 206962 | [206962-touhou-genso-wanderer-momiji-inubashiri.json](./206962-touhou-genso-wanderer-momiji-inubashiri.json) |
 | Touhou Genso Wanderer: Mononobe no Futo to Nanatsu no Shiren - Fushigi no Gensoukyou TOD Another Story | 206960 | [206960-touhou-genso-wanderer-mononobe-no-futo-to-nanatsu-no-shiren-fushigi-no-gensoukyou-tod-another-story.json](./206960-touhou-genso-wanderer-mononobe-no-futo-to-nanatsu-no-shiren-fushigi-no-gensoukyou-tod-another-story.json) |
@@ -19011,6 +19018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tristia: Legacy | 231522 | [231522-tristia-legacy.json](./231522-tristia-legacy.json) |
 | Tristone | 112314 | [112314-tristone.json](./112314-tristone.json) |
 | Tristoy | 17443 | [17443-tristoy.json](./17443-tristoy.json) |
+| Tritime Space | 310718 | [310718-tritime-space.json](./310718-tritime-space.json) |
 | Triton Survival | 114566 | [114566-triton-survival.json](./114566-triton-survival.json) |
 | Triton's Travels | 246525 | [246525-tritons-travels.json](./246525-tritons-travels.json) |
 | Tritorn | 150027 | [150027-tritorn.json](./150027-tritorn.json) |
