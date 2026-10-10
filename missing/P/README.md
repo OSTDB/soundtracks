@@ -7764,6 +7764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Popucom x Arknights Collab Outfit Pack | 378876 | [378876-popucom-x-arknights-collab-outfit-pack.json](./378876-popucom-x-arknights-collab-outfit-pack.json) |
 | Popucom: Too Many Clothes Pack | 378875 | [378875-popucom-too-many-clothes-pack.json](./378875-popucom-too-many-clothes-pack.json) |
 | Population Control | 387497 | [387497-population-control.json](./387497-population-control.json) |
+| Population Quiz | 312841 | [312841-population-quiz.json](./312841-population-quiz.json) |
 | Population: One | 139377 | [139377-population-one.json](./139377-population-one.json) |
 | Population: Tire | 135850 | [135850-population-tire.json](./135850-population-tire.json) |
 | Populous | 248 | [248-populous.json](./248-populous.json) |
@@ -8588,6 +8589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pretty Safe Airlines | 125480 | [125480-pretty-safe-airlines.json](./125480-pretty-safe-airlines.json) |
 | Pretty Soldier Sailor Moon | 46788 | [46788-pretty-soldier-sailor-moon.json](./46788-pretty-soldier-sailor-moon.json) |
 | Pretty Soldier Sailor Moon S | 316798 | [316798-pretty-soldier-sailor-moon-s.json](./316798-pretty-soldier-sailor-moon-s.json) |
+| Pretty Sweet! Healing Guardian | 312831 | [312831-pretty-sweet-healing-guardian.json](./312831-pretty-sweet-healing-guardian.json) |
 | Pretty Visitors | 229791 | [229791-pretty-visitors.json](./229791-pretty-visitors.json) |
 | Pretty: Exotic | 385803 | [385803-pretty-exotic.json](./385803-pretty-exotic.json) |
 | Pretz'l Land | 105554 | [105554-pretzl-land.json](./105554-pretzl-land.json) |
@@ -10284,6 +10286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puchi Carat | 37322 | [37322-puchi-carat.json](./37322-puchi-carat.json) |
 | Puchi Eva: Evangelion@Game | 59826 | [59826-puchi-eva-evangelion-game.json](./59826-puchi-eva-evangelion-game.json) |
 | Puchi Nikki | 201840 | [201840-puchi-nikki.json](./201840-puchi-nikki.json) |
+| Puchi Nikki | 312864 | [312864-puchi-nikki.json](./312864-puchi-nikki.json) |
 | Puchi Novel: Kongi No Rokugatsu | 222299 | [222299-puchi-novel-kongi-no-rokugatsu.json](./222299-puchi-novel-kongi-no-rokugatsu.json) |
 | Puchi Puchi Virus | 21053 | [21053-puchi-puchi-virus.json](./21053-puchi-puchi-virus.json) |
 | PuchiCon Big | 222292 | [222292-puchicon-big.json](./222292-puchicon-big.json) |
