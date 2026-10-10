@@ -7289,6 +7289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Board of the Future | 406166 | [406166-board-of-the-future.json](./406166-board-of-the-future.json) |
 | Board Quizz Adventure | 117795 | [117795-board-quizz-adventure.json](./117795-board-quizz-adventure.json) |
 | Boardfall | 375945 | [375945-boardfall.json](./375945-boardfall.json) |
+| Boardland | 285914 | [285914-boardland.json](./285914-boardland.json) |
 | Boardlike | 376538 | [376538-boardlike.json](./376538-boardlike.json) |
 | Boardmancer | 395866 | [395866-boardmancer.json](./395866-boardmancer.json) |
 | Boardquest: Tales of Liria | 244207 | [244207-boardquest-tales-of-liria.json](./244207-boardquest-tales-of-liria.json) |
@@ -9832,6 +9833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brutal 2urvive Bundle | 164786 | [164786-brutal-2urvive-bundle.json](./164786-brutal-2urvive-bundle.json) |
 | Brutal Age: Horde Invasion | 86935 | [86935-brutal-age-horde-invasion.json](./86935-brutal-age-horde-invasion.json) |
 | Brutal Alice: The Hundred Day's War | 75945 | [75945-brutal-alice-the-hundred-days-war.json](./75945-brutal-alice-the-hundred-days-war.json) |
+| Brutal Company Plus | 285940 | [285940-brutal-company-plus.json](./285940-brutal-company-plus.json) |
 | Brutal Doom | 126295 | [126295-brutal-doom.json](./126295-brutal-doom.json) |
 | Brutal Doom 64 | 25583 | [25583-brutal-doom-64.json](./25583-brutal-doom-64.json) |
 | Brutal Doom: Ali Jr's Challenge | 199067 | [199067-brutal-doom-ali-jrs-challenge.json](./199067-brutal-doom-ali-jrs-challenge.json) |
