@@ -701,6 +701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oh My Dog | 362890 | [362890-oh-my-dog.json](./362890-oh-my-dog.json) |
 | Oh My Dollz | 351160 | [351160-oh-my-dollz.json](./351160-oh-my-dollz.json) |
 | Oh My Doug! | 403816 | [403816-oh-my-doug.json](./403816-oh-my-doug.json) |
+| Oh My Eggs | 302765 | [302765-oh-my-eggs.json](./302765-oh-my-eggs.json) |
 | Oh My Goat | 51172 | [51172-oh-my-goat.json](./51172-oh-my-goat.json) |
 | Oh My God, Look At This Knight | 76640 | [76640-oh-my-god-look-at-this-knight.json](./76640-oh-my-god-look-at-this-knight.json) |
 | Oh My God! | 64130 | [64130-oh-my-god.json](./64130-oh-my-god.json) |
@@ -1833,6 +1834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oniriam | 322984 | [322984-oniriam.json](./322984-oniriam.json) |
 | Onirica | 216347 | [216347-onirica.json](./216347-onirica.json) |
 | Onirike: Collector's Edition | 146124 | [146124-onirike-collectors-edition.json](./146124-onirike-collectors-edition.json) |
+| Onírillo | 302718 | [302718-onirillo.json](./302718-onirillo.json) |
 | Onirim: Solitaire Card Game | 52282 | [52282-onirim-solitaire-card-game.json](./52282-onirim-solitaire-card-game.json) |
 | Onirogu | 181780 | [181780-onirogu.json](./181780-onirogu.json) |
 | Onironauta | 68601 | [68601-onironauta.json](./68601-onironauta.json) |
@@ -2773,6 +2775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Other Side Of Mist And Mountain | 278108 | [278108-other-side-of-mist-and-mountain.json](./278108-other-side-of-mist-and-mountain.json) |
 | Other Spheres | 388316 | [388316-other-spheres.json](./388316-other-spheres.json) |
 | Other Submarine | 124143 | [124143-other-submarine.json](./124143-other-submarine.json) |
+| Other Super Mario Bros. U | 302761 | [302761-other-super-mario-bros-u.json](./302761-other-super-mario-bros-u.json) |
 | Other World | 154360 | [154360-other-world.json](./154360-other-world.json) |
 | Other World Survivors | 235742 | [235742-other-world-survivors.json](./235742-other-world-survivors.json) |
 | Other: Her Loving Embrace | 123534 | [123534-other-her-loving-embrace.json](./123534-other-her-loving-embrace.json) |
