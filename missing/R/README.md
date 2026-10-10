@@ -5552,6 +5552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roburst | 199647 | [199647-roburst.json](./199647-roburst.json) |
 | Robzawar | 295395 | [295395-robzawar.json](./295395-robzawar.json) |
 | Roc 'N Rope | 25727 | [25727-roc-n-rope.json](./25727-roc-n-rope.json) |
+| Roccio Quest | 326104 | [326104-roccio-quest.json](./326104-roccio-quest.json) |
 | Rocco | 78015 | [78015-rocco.json](./78015-rocco.json) |
 | Rocco's Inferno | 197147 | [197147-roccos-inferno.json](./197147-roccos-inferno.json) |
 | Roch Island | 270695 | [270695-roch-island.json](./270695-roch-island.json) |
@@ -5627,6 +5628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rock Paper Shift | 137433 | [137433-rock-paper-shift.json](./137433-rock-paper-shift.json) |
 | Rock Paper Smash | 213464 | [213464-rock-paper-smash.json](./213464-rock-paper-smash.json) |
 | Rock Quest: A Rhythm Adventure | 346173 | [346173-rock-quest-a-rhythm-adventure.json](./346173-rock-quest-a-rhythm-adventure.json) |
+| Rock Rock Rock | 326105 | [326105-rock-rock-rock.json](./326105-rock-rock-rock.json) |
 | Rock Run | 103988 | [103988-rock-run.json](./103988-rock-run.json) |
 | Rock Scissor Paper | 262927 | [262927-rock-scissor-paper.json](./262927-rock-scissor-paper.json) |
 | Rock Simulator | 127932 | [127932-rock-simulator.json](./127932-rock-simulator.json) |
@@ -6908,6 +6910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rowan's Battle of Britain | 73818 | [73818-rowans-battle-of-britain.json](./73818-rowans-battle-of-britain.json) |
 | RowBot Rally | 256258 | [256258-rowbot-rally.json](./256258-rowbot-rally.json) |
 | Rowdy Wrestling | 104211 | [104211-rowdy-wrestling.json](./104211-rowdy-wrestling.json) |
+| Rowen Goes to Work | 326118 | [326118-rowen-goes-to-work.json](./326118-rowen-goes-to-work.json) |
 | Rowen's Grand Adventure | 366391 | [366391-rowens-grand-adventure.json](./366391-rowens-grand-adventure.json) |
 | Rowfall | 200524 | [200524-rowfall.json](./200524-rowfall.json) |
 | RowRow | 114270 | [114270-rowrow.json](./114270-rowrow.json) |
