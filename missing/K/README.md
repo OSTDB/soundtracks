@@ -2030,6 +2030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Hearts Rebirth | 349294 | [349294-kingdom-hearts-rebirth.json](./349294-kingdom-hearts-rebirth.json) |
 | Kingdom Hearts Tamagotchi | 229938 | [229938-kingdom-hearts-tamagotchi.json](./229938-kingdom-hearts-tamagotchi.json) |
 | Kingdom Hearts χ[chi] | 20287 | [20287-kingdom-hearts-chi.json](./20287-kingdom-hearts-chi.json) |
+| Kingdom Hearts: Fragmented Keys | 332480 | [332480-kingdom-hearts-fragmented-keys.json](./332480-kingdom-hearts-fragmented-keys.json) |
 | Kingdom Hearts: Union x Dark Road | 135639 | [135639-kingdom-hearts-union-x-dark-road.json](./135639-kingdom-hearts-union-x-dark-road.json) |
 | Kingdom Heroes | 389713 | [389713-kingdom-heroes.json](./389713-kingdom-heroes.json) |
 | Kingdom Heroes 2 | 68091 | [68091-kingdom-heroes-2.json](./68091-kingdom-heroes-2.json) |
