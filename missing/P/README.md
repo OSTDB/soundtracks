@@ -285,6 +285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pack A Truck | 54729 | [54729-pack-a-truck.json](./54729-pack-a-truck.json) |
 | Pack and Ship: Warehouse Simulator | 389963 | [389963-pack-and-ship-warehouse-simulator.json](./389963-pack-and-ship-warehouse-simulator.json) |
 | Pack BD Heroes vol.1 | 293934 | [293934-pack-bd-heroes-vol-1.json](./293934-pack-bd-heroes-vol-1.json) |
+| Pack Everything You Can | 296245 | [296245-pack-everything-you-can.json](./296245-pack-everything-you-can.json) |
 | Pack Lunch | 371273 | [371273-pack-lunch.json](./371273-pack-lunch.json) |
 | Pack Master | 135651 | [135651-pack-master.json](./135651-pack-master.json) |
 | Pack Master | 358434 | [358434-pack-master.json](./358434-pack-master.json) |
@@ -1611,6 +1612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Party Down | 209415 | [209415-party-down.json](./209415-party-down.json) |
 | Party Friends | 215693 | [215693-party-friends.json](./215693-party-friends.json) |
 | Party Friends | 279111 | [279111-party-friends.json](./279111-party-friends.json) |
+| Party Games | 296237 | [296237-party-games.json](./296237-party-games.json) |
 | Party Games: 15 in 1 | 147911 | [147911-party-games-15-in-1.json](./147911-party-games-15-in-1.json) |
 | Party Golf | 31009 | [31009-party-golf.json](./31009-party-golf.json) |
 | Party Hard | 12070 | [12070-party-hard.json](./12070-party-hard.json) |
@@ -1639,6 +1641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Party Party Time + Ultra Pack Set | 260684 | [260684-party-party-time-ultra-pack-set.json](./260684-party-party-time-ultra-pack-set.json) |
 | Party Party Time 2 + Duo Pack Set | 304813 | [304813-party-party-time-2-duo-pack-set.json](./304813-party-party-time-2-duo-pack-set.json) |
 | Party Party Time 2: Lively Party Pack | 374168 | [374168-party-party-time-2-lively-party-pack.json](./374168-party-party-time-2-lively-party-pack.json) |
+| Party Party Time 2: Party Hustle Pack | 296246 | [296246-party-party-time-2-party-hustle-pack.json](./296246-party-party-time-2-party-hustle-pack.json) |
 | Party Party Time 2: Party Spirit Pack | 310078 | [310078-party-party-time-2-party-spirit-pack.json](./310078-party-party-time-2-party-spirit-pack.json) |
 | Party Party Time 3 | 324133 | [324133-party-party-time-3.json](./324133-party-party-time-3.json) |
 | Party Party Time: Character Skin Pack 2 | 256460 | [256460-party-party-time-character-skin-pack-2.json](./256460-party-party-time-character-skin-pack-2.json) |
@@ -2300,6 +2303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pearls of Wisdom | 384267 | [384267-pearls-of-wisdom.json](./384267-pearls-of-wisdom.json) |
 | PearsAndGrayWitch | 81744 | [81744-pearsandgraywitch.json](./81744-pearsandgraywitch.json) |
 | Peas Adventure | 117034 | [117034-peas-adventure.json](./117034-peas-adventure.json) |
+| Peas! Animated Sudoku | 296217 | [296217-peas-animated-sudoku.json](./296217-peas-animated-sudoku.json) |
 | Peasant | 309470 | [309470-peasant.json](./309470-peasant.json) |
 | Peasant Dream: Ascension | 377782 | [377782-peasant-dream-ascension.json](./377782-peasant-dream-ascension.json) |
 | Peasant Nightmare | 364012 | [364012-peasant-nightmare.json](./364012-peasant-nightmare.json) |
@@ -2501,6 +2505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Penguin Land | 363310 | [363310-penguin-land.json](./363310-penguin-land.json) |
 | Penguin Land | 365677 | [365677-penguin-land.json](./365677-penguin-land.json) |
 | Penguin Land | 49152 | [49152-penguin-land.json](./49152-penguin-land.json) |
+| Penguin Migrants | 296224 | [296224-penguin-migrants.json](./296224-penguin-migrants.json) |
 | Penguin no Mondai X: Tenkuu no 7 Senshi | 68010 | [68010-penguin-no-mondai-x-tenkuu-no-7-senshi.json](./68010-penguin-no-mondai-x-tenkuu-no-7-senshi.json) |
 | Penguin no Mondai: Saikyou Penguin Densetsu! | 69272 | [69272-penguin-no-mondai-saikyou-penguin-densetsu.json](./69272-penguin-no-mondai-saikyou-penguin-densetsu.json) |
 | Penguin no Mondai: The Wars | 141147 | [141147-penguin-no-mondai-the-wars.json](./141147-penguin-no-mondai-the-wars.json) |
@@ -3744,6 +3749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Picopolis | 275798 | [275798-picopolis.json](./275798-picopolis.json) |
 | PicoQuest: Darkness Rising | 183448 | [183448-picoquest-darkness-rising.json](./183448-picoquest-darkness-rising.json) |
 | Picoracer-2048 | 287324 | [287324-picoracer-2048.json](./287324-picoracer-2048.json) |
+| PicoTrains | 296255 | [296255-picotrains.json](./296255-picotrains.json) |
 | Picoware | 279711 | [279711-picoware.json](./279711-picoware.json) |
 | Picowars | 184630 | [184630-picowars.json](./184630-picowars.json) |
 | PicPu | 175358 | [175358-picpu.json](./175358-picpu.json) |
@@ -4374,6 +4380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball Illusions | 6025 | [6025-pinball-illusions.json](./6025-pinball-illusions.json) |
 | Pinball Inside: A VR Arcade Game | 29187 | [29187-pinball-inside-a-vr-arcade-game.json](./29187-pinball-inside-a-vr-arcade-game.json) |
 | Pinball Jam | 187479 | [187479-pinball-jam.json](./187479-pinball-jam.json) |
+| Pinball League: Hardhat Zone | 296220 | [296220-pinball-league-hardhat-zone.json](./296220-pinball-league-hardhat-zone.json) |
 | Pinball Lockdown | 133432 | [133432-pinball-lockdown.json](./133432-pinball-lockdown.json) |
 | Pinball M: Bethesda Pinball | 386717 | [386717-pinball-m-bethesda-pinball.json](./386717-pinball-m-bethesda-pinball.json) |
 | Pinball M: Chucky's Killer Pinball | 278537 | [278537-pinball-m-chuckys-killer-pinball.json](./278537-pinball-m-chuckys-killer-pinball.json) |
@@ -5069,6 +5076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Puzzles Traditional Jigsaws Pack: Korea | 247775 | [247775-pixel-puzzles-traditional-jigsaws-pack-korea.json](./247775-pixel-puzzles-traditional-jigsaws-pack-korea.json) |
 | Pixel Puzzles Traditional Jigsaws Pack: Variety Pack 9 | 260419 | [260419-pixel-puzzles-traditional-jigsaws-pack-variety-pack-9.json](./260419-pixel-puzzles-traditional-jigsaws-pack-variety-pack-9.json) |
 | Pixel Puzzles Traditional Jigsaws: Cats 2 | 357951 | [357951-pixel-puzzles-traditional-jigsaws-cats-2.json](./357951-pixel-puzzles-traditional-jigsaws-cats-2.json) |
+| Pixel Puzzles Traditional Jigsaws: Chihuahuas | 296248 | [296248-pixel-puzzles-traditional-jigsaws-chihuahuas.json](./296248-pixel-puzzles-traditional-jigsaws-chihuahuas.json) |
 | Pixel Puzzles Traditional Jigsaws: Dogs 2 | 357952 | [357952-pixel-puzzles-traditional-jigsaws-dogs-2.json](./357952-pixel-puzzles-traditional-jigsaws-dogs-2.json) |
 | Pixel Puzzles Traditional Jigsaws: Extreme Sports | 357950 | [357950-pixel-puzzles-traditional-jigsaws-extreme-sports.json](./357950-pixel-puzzles-traditional-jigsaws-extreme-sports.json) |
 | Pixel Puzzles Traditional Jigsaws: Forests | 384082 | [384082-pixel-puzzles-traditional-jigsaws-forests.json](./384082-pixel-puzzles-traditional-jigsaws-forests.json) |
