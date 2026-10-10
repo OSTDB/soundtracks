@@ -3165,6 +3165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Into the Dead: Our Darkest Days | 230366 | [230366-into-the-dead-our-darkest-days.json](./230366-into-the-dead-our-darkest-days.json) |
 | Into the Deep Web | 184608 | [184608-into-the-deep-web.json](./184608-into-the-deep-web.json) |
 | Into The Depths | 287741 | [287741-into-the-depths.json](./287741-into-the-depths.json) |
+| Into The Depths | 329522 | [329522-into-the-depths.json](./329522-into-the-depths.json) |
 | Into The Depths | 372049 | [372049-into-the-depths.json](./372049-into-the-depths.json) |
 | Into the Depths Below | 279127 | [279127-into-the-depths-below.json](./279127-into-the-depths-below.json) |
 | Into the Dungeon | 238983 | [238983-into-the-dungeon.json](./238983-into-the-dungeon.json) |
