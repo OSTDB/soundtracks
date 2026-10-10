@@ -229,6 +229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kakkouke | 284341 | [284341-kakkouke.json](./284341-kakkouke.json) |
 | Kako Yatai | 283807 | [283807-kako-yatai.json](./283807-kako-yatai.json) |
 | Kakoi | 334071 | [334071-kakoi.json](./334071-kakoi.json) |
+| Kakos | 307877 | [307877-kakos.json](./307877-kakos.json) |
 | Kakosatsu | 109181 | [109181-kakosatsu.json](./109181-kakosatsu.json) |
 | Kaku-San-Sei Million Arthur | 44073 | [44073-kaku-san-sei-million-arthur.json](./44073-kaku-san-sei-million-arthur.json) |
 | Kakuchou Shoujo-kei Trinary | 346771 | [346771-kakuchou-shoujo-kei-trinary.json](./346771-kakuchou-shoujo-kei-trinary.json) |
@@ -1148,6 +1149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kevin's Adventure | 174713 | [174713-kevins-adventure.json](./174713-kevins-adventure.json) |
 | Kevin's Playing In Berlin | 383397 | [383397-kevins-playing-in-berlin.json](./383397-kevins-playing-in-berlin.json) |
 | Kevtris | 68719 | [68719-kevtris.json](./68719-kevtris.json) |
+| Kevurah Horror Tale | 307879 | [307879-kevurah-horror-tale.json](./307879-kevurah-horror-tale.json) |
 | Kewbii | 215592 | [215592-kewbii.json](./215592-kewbii.json) |
 | Kewter’s Showroom | 340787 | [340787-kewter-s-showroom.json](./340787-kewter-s-showroom.json) |
 | Kewtia: Crystallite Hunt | 75859 | [75859-kewtia-crystallite-hunt.json](./75859-kewtia-crystallite-hunt.json) |
