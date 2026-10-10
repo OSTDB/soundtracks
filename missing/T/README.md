@@ -6301,6 +6301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Granstream Saga | 19156 | [19156-the-granstream-saga.json](./19156-the-granstream-saga.json) |
 | The Grappler | 331394 | [331394-the-grappler.json](./331394-the-grappler.json) |
 | The Grass | 163955 | [163955-the-grass.json](./163955-the-grass.json) |
+| The Grass of Genesis | 305419 | [305419-the-grass-of-genesis.json](./305419-the-grass-of-genesis.json) |
 | The Grass Reaper | 363897 | [363897-the-grass-reaper.json](./363897-the-grass-reaper.json) |
 | The Grave Digger | 35847 | [35847-the-grave-digger.json](./35847-the-grave-digger.json) |
 | The Grave robber | 189121 | [189121-the-grave-robber.json](./189121-the-grave-robber.json) |
@@ -15483,6 +15484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomb Raider: Hashep Oasis | 328588 | [328588-tomb-raider-hashep-oasis.json](./328588-tomb-raider-hashep-oasis.json) |
 | Tomb Raider: Legacy of Atlantis | 381235 | [381235-tomb-raider-legacy-of-atlantis.json](./381235-tomb-raider-legacy-of-atlantis.json) |
 | Tomb Raider: Legend | 146717 | [146717-tomb-raider-legend.json](./146717-tomb-raider-legend.json) |
+| Tomb Raider: Legend | 305560 | [305560-tomb-raider-legend.json](./305560-tomb-raider-legend.json) |
 | Tomb Raider: Lost and Found | 408978 | [408978-tomb-raider-lost-and-found.json](./408978-tomb-raider-lost-and-found.json) |
 | Tomb Raider: Shanty Town | 172133 | [172133-tomb-raider-shanty-town.json](./172133-tomb-raider-shanty-town.json) |
 | Tomb Raider: Survival Edition | 53817 | [53817-tomb-raider-survival-edition.json](./53817-tomb-raider-survival-edition.json) |
