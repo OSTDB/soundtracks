@@ -3863,6 +3863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Return to Trahulara | 359007 | [359007-return-to-trahulara.json](./359007-return-to-trahulara.json) |
 | Return to Wonderland | 356844 | [356844-return-to-wonderland.json](./356844-return-to-wonderland.json) |
 | Return to Yoshi's Island 64 | 159255 | [159255-return-to-yoshis-island-64.json](./159255-return-to-yoshis-island-64.json) |
+| Return: Unknown | 281324 | [281324-return-unknown.json](./281324-return-unknown.json) |
 | Return. | 106161 | [106161-return.json](./106161-return.json) |
 | Returnal: Digital Deluxe Edition | 221656 | [221656-returnal-digital-deluxe-edition.json](./221656-returnal-digital-deluxe-edition.json) |
 | Returner Alien | 108500 | [108500-returner-alien.json](./108500-returner-alien.json) |
@@ -5940,6 +5941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rockman No Constancy: Hard Mode | 269870 | [269870-rockman-no-constancy-hard-mode.json](./269870-rockman-no-constancy-hard-mode.json) |
 | Rockman no Huángjīn Dìguó | 66918 | [66918-rockman-no-huangjin-diguo.json](./66918-rockman-no-huangjin-diguo.json) |
 | Rockman Online | 66610 | [66610-rockman-online.json](./66610-rockman-online.json) |
+| Rockman Panic Fire | 281347 | [281347-rockman-panic-fire.json](./281347-rockman-panic-fire.json) |
 | Rockman Strategy | 84307 | [84307-rockman-strategy.json](./84307-rockman-strategy.json) |
 | Rockman Tennis | 288142 | [288142-rockman-tennis.json](./288142-rockman-tennis.json) |
 | Rockman The Puzzle Battle | 290956 | [290956-rockman-the-puzzle-battle.json](./290956-rockman-the-puzzle-battle.json) |
@@ -7557,6 +7559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run to Infinity: Impossible Mode | 230778 | [230778-run-to-infinity-impossible-mode.json](./230778-run-to-infinity-impossible-mode.json) |
 | Run to Nowhere | 206705 | [206705-run-to-nowhere.json](./206705-run-to-nowhere.json) |
 | Run Tom Hanks Run | 307294 | [307294-run-tom-hanks-run.json](./307294-run-tom-hanks-run.json) |
+| Run Witch | 281327 | [281327-run-witch.json](./281327-run-witch.json) |
 | Run, chicken, run! | 113885 | [113885-run-chicken-run.json](./113885-run-chicken-run.json) |
 | Run, Doodleguy! | 211293 | [211293-run-doodleguy.json](./211293-run-doodleguy.json) |
 | Run, Kitty! | 192771 | [192771-run-kitty.json](./192771-run-kitty.json) |
@@ -7835,6 +7838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ruskindo | 182910 | [182910-ruskindo.json](./182910-ruskindo.json) |
 | Rusl | 211651 | [211651-rusl.json](./211651-rusl.json) |
 | Ruslicstan Invades | 238497 | [238497-ruslicstan-invades.json](./238497-ruslicstan-invades.json) |
+| Russell | 281365 | [281365-russell.json](./281365-russell.json) |
 | Russi.a Simulator | 105148 | [105148-russi-a-simulator.json](./105148-russi-a-simulator.json) |
 | Russia 2055 | 125293 | [125293-russia-2055.json](./125293-russia-2055.json) |
 | Russia Horror 20!8 | 90212 | [90212-russia-horror-20-8.json](./90212-russia-horror-20-8.json) |
