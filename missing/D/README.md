@@ -2030,6 +2030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Cells: The Fatal Seed Bundle | 154957 | [154957-dead-cells-the-fatal-seed-bundle.json](./154957-dead-cells-the-fatal-seed-bundle.json) |
 | Dead Cells: The Queen and the Sea | 183128 | [183128-dead-cells-the-queen-and-the-sea.json](./183128-dead-cells-the-queen-and-the-sea.json) |
 | Dead Charge | 365541 | [365541-dead-charge.json](./365541-dead-charge.json) |
+| Dead Christmas | 326854 | [326854-dead-christmas.json](./326854-dead-christmas.json) |
 | Dead Circuit | 382327 | [382327-dead-circuit.json](./382327-dead-circuit.json) |
 | Dead City | 244380 | [244380-dead-city.json](./244380-dead-city.json) |
 | Dead City | 317824 | [317824-dead-city.json](./317824-dead-city.json) |
@@ -9506,6 +9507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Land: Final Solution | 120886 | [120886-dream-land-final-solution.json](./120886-dream-land-final-solution.json) |
 | Dream League Soccer | 249369 | [249369-dream-league-soccer.json](./249369-dream-league-soccer.json) |
 | Dream League Soccer 2016 | 403613 | [403613-dream-league-soccer-2016.json](./403613-dream-league-soccer-2016.json) |
+| Dream League Soccer 2024 | 326648 | [326648-dream-league-soccer-2024.json](./326648-dream-league-soccer-2024.json) |
 | Dream League Soccer 2025 | 330832 | [330832-dream-league-soccer-2025.json](./330832-dream-league-soccer-2025.json) |
 | Dream League Soccer 2026 | 411784 | [411784-dream-league-soccer-2026.json](./411784-dream-league-soccer-2026.json) |
 | Dream Life in the Country Side | 333010 | [333010-dream-life-in-the-country-side.json](./333010-dream-life-in-the-country-side.json) |
@@ -9696,6 +9698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreams of Literature: Noir | 334822 | [334822-dreams-of-literature-noir.json](./334822-dreams-of-literature-noir.json) |
 | Dreams of Pain | 201087 | [201087-dreams-of-pain.json](./201087-dreams-of-pain.json) |
 | Dreams of Sand | 306347 | [306347-dreams-of-sand.json](./306347-dreams-of-sand.json) |
+| Dreams of Saturn 2.0 | 326647 | [326647-dreams-of-saturn-2-0.json](./326647-dreams-of-saturn-2-0.json) |
 | Dreams of Solari - Chapter 1 | 120376 | [120376-dreams-of-solari-chapter-1.json](./120376-dreams-of-solari-chapter-1.json) |
 | Dreams of the Void | 290614 | [290614-dreams-of-the-void.json](./290614-dreams-of-the-void.json) |
 | Dreams of Valhalla | 250448 | [250448-dreams-of-valhalla.json](./250448-dreams-of-valhalla.json) |
