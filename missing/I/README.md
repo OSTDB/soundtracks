@@ -200,6 +200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Had Another Dream About You Last Night | 142403 | [142403-i-had-another-dream-about-you-last-night.json](./142403-i-had-another-dream-about-you-last-night.json) |
 | I Had the Strangest Dream, Ivan | 201327 | [201327-i-had-the-strangest-dream-ivan.json](./201327-i-had-the-strangest-dream-ivan.json) |
 | I Hate Heroes | 98988 | [98988-i-hate-heroes.json](./98988-i-hate-heroes.json) |
+| I Hate My Legs | 315212 | [315212-i-hate-my-legs.json](./315212-i-hate-my-legs.json) |
 | I Hate Santa | 30462 | [30462-i-hate-santa.json](./30462-i-hate-santa.json) |
 | I hate this game | 114278 | [114278-i-hate-this-game.json](./114278-i-hate-this-game.json) |
 | I Hate this Place | 336144 | [336144-i-hate-this-place.json](./336144-i-hate-this-place.json) |
@@ -2852,6 +2853,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inspector Gadget Racing | 49293 | [49293-inspector-gadget-racing.json](./49293-inspector-gadget-racing.json) |
 | Inspector Gadget: Mad Time Party | 247190 | [247190-inspector-gadget-mad-time-party.json](./247190-inspector-gadget-mad-time-party.json) |
 | Inspector Javert and the Oath of Blood | 135626 | [135626-inspector-javert-and-the-oath-of-blood.json](./135626-inspector-javert-and-the-oath-of-blood.json) |
+| Inspector Kloo | 315231 | [315231-inspector-kloo.json](./315231-inspector-kloo.json) |
+| Inspector Kloo 2 | 315232 | [315232-inspector-kloo-2.json](./315232-inspector-kloo-2.json) |
+| Inspector Kloo 3 | 315233 | [315233-inspector-kloo-3.json](./315233-inspector-kloo-3.json) |
+| Inspector Kloo 4 | 315234 | [315234-inspector-kloo-4.json](./315234-inspector-kloo-4.json) |
+| Inspector Kloo 5 | 315235 | [315235-inspector-kloo-5.json](./315235-inspector-kloo-5.json) |
+| Inspector Kloo 6 | 315237 | [315237-inspector-kloo-6.json](./315237-inspector-kloo-6.json) |
+| Inspector Kloo 7: The Phantom of the Fog | 315240 | [315240-inspector-kloo-7-the-phantom-of-the-fog.json](./315240-inspector-kloo-7-the-phantom-of-the-fog.json) |
+| Inspector Kloo 8: The Stolen Bracelet | 315241 | [315241-inspector-kloo-8-the-stolen-bracelet.json](./315241-inspector-kloo-8-the-stolen-bracelet.json) |
+| Inspector Kloo 9 | 315245 | [315245-inspector-kloo-9.json](./315245-inspector-kloo-9.json) |
 | Inspector Ooh: The Great Monkey Detective | 98470 | [98470-inspector-ooh-the-great-monkey-detective.json](./98470-inspector-ooh-the-great-monkey-detective.json) |
 | Inspector Parker | 73549 | [73549-inspector-parker.json](./73549-inspector-parker.json) |
 | Inspector Parker Unsolved | 50858 | [50858-inspector-parker-unsolved.json](./50858-inspector-parker-unsolved.json) |
