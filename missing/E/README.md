@@ -1712,6 +1712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ember Strike: The Battle for Willow Lane | 80203 | [80203-ember-strike-the-battle-for-willow-lane.json](./80203-ember-strike-the-battle-for-willow-lane.json) |
 | Ember the Werefox | 264696 | [264696-ember-the-werefox.json](./264696-ember-the-werefox.json) |
 | Ember's Verge | 324303 | [324303-embers-verge.json](./324303-embers-verge.json) |
+| Emberance | 309627 | [309627-emberance.json](./309627-emberance.json) |
 | Emberdrift | 290952 | [290952-emberdrift.json](./290952-emberdrift.json) |
 | Emberfall | 326838 | [326838-emberfall.json](./326838-emberfall.json) |
 | Emberfly | 336013 | [336013-emberfly.json](./336013-emberfly.json) |
@@ -1862,6 +1863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emoji Battlefield: Sky Massacre | 406798 | [406798-emoji-battlefield-sky-massacre.json](./406798-emoji-battlefield-sky-massacre.json) |
 | Emoji Battlefield: Summer Vacation | 399636 | [399636-emoji-battlefield-summer-vacation.json](./399636-emoji-battlefield-summer-vacation.json) |
 | Emoji Bomb | 398978 | [398978-emoji-bomb.json](./398978-emoji-bomb.json) |
+| Emoji Clicker | 309430 | [309430-emoji-clicker.json](./309430-emoji-clicker.json) |
 | Emoji Craft ! | 103503 | [103503-emoji-craft.json](./103503-emoji-craft.json) |
 | Emoji Match-3 Game | 103156 | [103156-emoji-match-3-game.json](./103156-emoji-match-3-game.json) |
 | Emoji Quest | 388908 | [388908-emoji-quest.json](./388908-emoji-quest.json) |
