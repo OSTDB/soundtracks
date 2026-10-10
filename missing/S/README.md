@@ -12204,6 +12204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Marshals 3 | 205223 | [205223-space-marshals-3.json](./205223-space-marshals-3.json) |
 | Space Marshals Collection | 327207 | [327207-space-marshals-collection.json](./327207-space-marshals-collection.json) |
 | Space Mash | 366877 | [366877-space-mash.json](./366877-space-mash.json) |
+| Space Master | 292440 | [292440-space-master.json](./292440-space-master.json) |
 | Space Mayhem | 113039 | [113039-space-mayhem.json](./113039-space-mayhem.json) |
 | Space Maze | 260322 | [260322-space-maze.json](./260322-space-maze.json) |
 | Space Maze | 345522 | [345522-space-maze.json](./345522-space-maze.json) |
@@ -21333,6 +21334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survivor's Day | 294947 | [294947-survivors-day.json](./294947-survivors-day.json) |
 | Survivor's End | 250451 | [250451-survivors-end.json](./250451-survivors-end.json) |
 | Survivorman VR: The Descent | 224602 | [224602-survivorman-vr-the-descent.json](./224602-survivorman-vr-the-descent.json) |
+| Survivors | 292413 | [292413-survivors.json](./292413-survivors.json) |
 | Survivors in Blood | 296532 | [296532-survivors-in-blood.json](./296532-survivors-in-blood.json) |
 | Survivors Left: X | 124177 | [124177-survivors-left-x.json](./124177-survivors-left-x.json) |
 | Survivors of Journey to the West: Bald Guy vs Wukong | 310058 | [310058-survivors-of-journey-to-the-west-bald-guy-vs-wukong.json](./310058-survivors-of-journey-to-the-west-bald-guy-vs-wukong.json) |
@@ -21399,6 +21401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suspect: The Run! | 235143 | [235143-suspect-the-run.json](./235143-suspect-the-run.json) |
 | Suspecto | 374193 | [374193-suspecto.json](./374193-suspecto.json) |
 | Suspects: Mystery Mansion | 143591 | [143591-suspects-mystery-mansion.json](./143591-suspects-mystery-mansion.json) |
+| Suspended Animation | 292403 | [292403-suspended-animation.json](./292403-suspended-animation.json) |
 | Suspended in Dusk | 256814 | [256814-suspended-in-dusk.json](./256814-suspended-in-dusk.json) |
 | Suspense: Madman's Dreams | 329393 | [329393-suspense-madmans-dreams.json](./329393-suspense-madmans-dreams.json) |
 | Suspension Railroad Simulator | 85414 | [85414-suspension-railroad-simulator.json](./85414-suspension-railroad-simulator.json) |
@@ -21578,6 +21581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sway | 352196 | [352196-sway.json](./352196-sway.json) |
 | Sway | 90911 | [90911-sway.json](./90911-sway.json) |
 | SwayBods | 233233 | [233233-swaybods.json](./233233-swaybods.json) |
+| SwayBods: Physics Puzzle Game | 292423 | [292423-swaybods-physics-puzzle-game.json](./292423-swaybods-physics-puzzle-game.json) |
 | Swaying Girl | 159875 | [159875-swaying-girl.json](./159875-swaying-girl.json) |
 | Sweater? Ok!: The Dilogy | 127370 | [127370-sweater-ok-the-dilogy.json](./127370-sweater-ok-the-dilogy.json) |
 | SweatShop | 32204 | [32204-sweatshop.json](./32204-sweatshop.json) |
