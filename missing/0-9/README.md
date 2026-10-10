@@ -148,6 +148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 0101: Classic Bonus Levels 3 | 325453 | [325453-0101-classic-bonus-levels-3.json](./325453-0101-classic-bonus-levels-3.json) |
 | 0101: Counter Bonus Levels 3 | 325454 | [325454-0101-counter-bonus-levels-3.json](./325454-0101-counter-bonus-levels-3.json) |
 | 0101: Pusher Bonus Levels 3 | 325455 | [325455-0101-pusher-bonus-levels-3.json](./325455-0101-pusher-bonus-levels-3.json) |
+| 03:17 am | 315778 | [315778-03-17-am.json](./315778-03-17-am.json) |
 | 03.04 | 113188 | [113188-03-04.json](./113188-03-04.json) |
 | 07Gorillas | 325492 | [325492-07gorillas.json](./325492-07gorillas.json) |
 | 07th Theater | 258995 | [258995-07th-theater.json](./258995-07th-theater.json) |
@@ -979,6 +980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2048 Numbers Mania | 233515 | [233515-2048-numbers-mania.json](./233515-2048-numbers-mania.json) |
 | 2048 Puzzle: K-ON! Edition | 279669 | [279669-2048-puzzle-k-on-edition.json](./279669-2048-puzzle-k-on-edition.json) |
 | 2048 Royal Cards | 190740 | [190740-2048-royal-cards.json](./190740-2048-royal-cards.json) |
+| 2048 Snake | 315813 | [315813-2048-snake.json](./315813-2048-snake.json) |
 | 2048 Solitaire Plus | 107146 | [107146-2048-solitaire-plus.json](./107146-2048-solitaire-plus.json) |
 | 2048-F8 | 268503 | [268503-2048-f8.json](./268503-2048-f8.json) |
 | 2048: StarWars | 313244 | [313244-2048-starwars.json](./313244-2048-starwars.json) |
@@ -1579,6 +1581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 5 Minute Raid | 304004 | [304004-5-minute-raid.json](./304004-5-minute-raid.json) |
 | 5 minutes | 250903 | [250903-5-minutes.json](./250903-5-minutes.json) |
 | 5 Minutes Rage | 34098 | [34098-5-minutes-rage.json](./34098-5-minutes-rage.json) |
+| 5 Minutes to Kill | 315818 | [315818-5-minutes-to-kill.json](./315818-5-minutes-to-kill.json) |
 | 5 Minutes until Goodbye | 300970 | [300970-5-minutes-until-goodbye.json](./300970-5-minutes-until-goodbye.json) |
 | 5 Minutes: DLC 1 | 377395 | [377395-5-minutes-dlc-1.json](./377395-5-minutes-dlc-1.json) |
 | 5 Minutes: DLC 2 | 377394 | [377394-5-minutes-dlc-2.json](./377394-5-minutes-dlc-2.json) |
