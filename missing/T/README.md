@@ -2602,6 +2602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tenkuu No Restaurant: Hello! Project Version | 167113 | [167113-tenkuu-no-restaurant-hello-project-version.json](./167113-tenkuu-no-restaurant-hello-project-version.json) |
 | Tenkyu | 93737 | [93737-tenkyu.json](./93737-tenkyu.json) |
 | TenMinions | 113904 | [113904-tenminions.json](./113904-tenminions.json) |
+| Tennen Yawachichi Megami Flora Ama Ero Shinkon Kozukuri Life: Onee-san no Shikyuu ni, Suki na Dake Sosoide mo Ii Desu wa yo | 280699 | [280699-tennen-yawachichi-megami-flora-ama-ero-shinkon-kozukuri-life-onee-san-no-shikyuu-ni-suki-na-dake-sosoide-mo-ii-desu-wa-yo.json](./280699-tennen-yawachichi-megami-flora-ama-ero-shinkon-kozukuri-life-onee-san-no-shikyuu-ni-suki-na-dake-sosoide-mo-ii-desu-wa-yo.json) |
 | Tennis | 131451 | [131451-tennis.json](./131451-tennis.json) |
 | Tennis | 131485 | [131485-tennis.json](./131485-tennis.json) |
 | Tennis | 131513 | [131513-tennis.json](./131513-tennis.json) |
@@ -9637,6 +9638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Remainer | 366998 | [366998-the-remainer.json](./366998-the-remainer.json) |
 | The Remains and The Residue | 387618 | [387618-the-remains-and-the-residue.json](./387618-the-remains-and-the-residue.json) |
 | The Remains of El Dorado | 184570 | [184570-the-remains-of-el-dorado.json](./184570-the-remains-of-el-dorado.json) |
+| The Remains of Richard Fleming | 280701 | [280701-the-remains-of-richard-fleming.json](./280701-the-remains-of-richard-fleming.json) |
 | The Remission of Sins | 149042 | [149042-the-remission-of-sins.json](./149042-the-remission-of-sins.json) |
 | The Remnants | 336657 | [336657-the-remnants.json](./336657-the-remnants.json) |
 | The Remote Outpost | 268726 | [268726-the-remote-outpost.json](./268726-the-remote-outpost.json) |
@@ -9842,6 +9844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Running Toaster | 332483 | [332483-the-running-toaster.json](./332483-the-running-toaster.json) |
 | The Rupture | 137972 | [137972-the-rupture.json](./137972-the-rupture.json) |
 | The Rush: The Veronica Story | 145577 | [145577-the-rush-the-veronica-story.json](./145577-the-rush-the-veronica-story.json) |
+| The Russian Doll | 280733 | [280733-the-russian-doll.json](./280733-the-russian-doll.json) |
 | The Russian Roulette Game: PR | 292522 | [292522-the-russian-roulette-game-pr.json](./292522-the-russian-roulette-game-pr.json) |
 | The Rust Belt | 59786 | [59786-the-rust-belt.json](./59786-the-rust-belt.json) |
 | The Rusted | 379377 | [379377-the-rusted.json](./379377-the-rusted.json) |
