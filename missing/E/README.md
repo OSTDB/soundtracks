@@ -336,6 +336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EastwoodVR | 28868 | [28868-eastwoodvr.json](./28868-eastwoodvr.json) |
 | Eastwynne | 370219 | [370219-eastwynne.json](./370219-eastwynne.json) |
 | Easy Ball Game | 316069 | [316069-easy-ball-game.json](./316069-easy-ball-game.json) |
+| Easy Cute Clean Up Lesson | 320469 | [320469-easy-cute-clean-up-lesson.json](./320469-easy-cute-clean-up-lesson.json) |
 | Easy Flight Simulator 2 | 375408 | [375408-easy-flight-simulator-2.json](./375408-easy-flight-simulator-2.json) |
 | Easy Game | 232917 | [232917-easy-game.json](./232917-easy-game.json) |
 | Easy Godding | 274669 | [274669-easy-godding.json](./274669-easy-godding.json) |
@@ -414,6 +415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ecchi Breaker | 378797 | [378797-ecchi-breaker.json](./378797-ecchi-breaker.json) |
 | Ecchi Cards | 104846 | [104846-ecchi-cards.json](./104846-ecchi-cards.json) |
 | Ecchi Crush | 401114 | [401114-ecchi-crush.json](./401114-ecchi-crush.json) |
+| Ecchi Fever | 320449 | [320449-ecchi-fever.json](./320449-ecchi-fever.json) |
 | Ecchi Jack | 169389 | [169389-ecchi-jack.json](./169389-ecchi-jack.json) |
 | Ecchi Memories | 315829 | [315829-ecchi-memories.json](./315829-ecchi-memories.json) |
 | Ecchi Memories: Cassie & Maud | 316208 | [316208-ecchi-memories-cassie-and-maud.json](./316208-ecchi-memories-cassie-and-maud.json) |
@@ -915,6 +917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eggconsole Mirai MSX2 | 406080 | [406080-eggconsole-mirai-msx2.json](./406080-eggconsole-mirai-msx2.json) |
 | Eggconsole Mugen no Shinzou III PC-8801mkIISR | 390490 | [390490-eggconsole-mugen-no-shinzou-iii-pc-8801mkiisr.json](./390490-eggconsole-mugen-no-shinzou-iii-pc-8801mkiisr.json) |
 | Eggconsole Mugen no Shinzou PC-8801 | 345990 | [345990-eggconsole-mugen-no-shinzou-pc-8801.json](./345990-eggconsole-mugen-no-shinzou-pc-8801.json) |
+| Eggconsole Murder Club PC-8801 | 320447 | [320447-eggconsole-murder-club-pc-8801.json](./320447-eggconsole-murder-club-pc-8801.json) |
 | Eggconsole Onryou Senki PC-8801mkIISR | 412951 | [412951-eggconsole-onryou-senki-pc-8801mkiisr.json](./412951-eggconsole-onryou-senki-pc-8801mkiisr.json) |
 | Eggconsole Puyo Puyo MSX2 | 378795 | [378795-eggconsole-puyo-puyo-msx2.json](./378795-eggconsole-puyo-puyo-msx2.json) |
 | Eggconsole Puyo Puyo PC-9801 | 362367 | [362367-eggconsole-puyo-puyo-pc-9801.json](./362367-eggconsole-puyo-puyo-pc-9801.json) |
@@ -926,6 +929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eggconsole The Legend of Heroes Saga PC-8801 | 334093 | [334093-eggconsole-the-legend-of-heroes-saga-pc-8801.json](./334093-eggconsole-the-legend-of-heroes-saga-pc-8801.json) |
 | Eggconsole Thexder PC-8801mkIISR | 274444 | [274444-eggconsole-thexder-pc-8801mkiisr.json](./274444-eggconsole-thexder-pc-8801mkiisr.json) |
 | Eggconsole Topple Zip PC-8801 | 306531 | [306531-eggconsole-topple-zip-pc-8801.json](./306531-eggconsole-topple-zip-pc-8801.json) |
+| Eggconsole Undeadline MSX2 | 320448 | [320448-eggconsole-undeadline-msx2.json](./320448-eggconsole-undeadline-msx2.json) |
 | Eggconsole Wanderers From Ys PC-8801mkIISR | 300861 | [300861-eggconsole-wanderers-from-ys-pc-8801mkiisr.json](./300861-eggconsole-wanderers-from-ys-pc-8801mkiisr.json) |
 | Eggconsole Xak PC-8801mkIISR | 292867 | [292867-eggconsole-xak-pc-8801mkiisr.json](./292867-eggconsole-xak-pc-8801mkiisr.json) |
 | Eggconsole Xanadu MSX | 378796 | [378796-eggconsole-xanadu-msx.json](./378796-eggconsole-xanadu-msx.json) |
