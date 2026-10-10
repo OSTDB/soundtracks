@@ -7467,6 +7467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skroll | 408714 | [408714-skroll.json](./408714-skroll.json) |
 | Skronchulonch: The Game of Shooting at an Orb | 176375 | [176375-skronchulonch-the-game-of-shooting-at-an-orb.json](./176375-skronchulonch-the-game-of-shooting-at-an-orb.json) |
 | Skrotens Hjältar | 328676 | [328676-skrotens-hjaltar.json](./328676-skrotens-hjaltar.json) |
+| Skrunkly Fighters | 327778 | [327778-skrunkly-fighters.json](./327778-skrunkly-fighters.json) |
 | Skrunkly gets a Meal Deal | 332984 | [332984-skrunkly-gets-a-meal-deal.json](./332984-skrunkly-gets-a-meal-deal.json) |
 | Skuf For Altushki | 368554 | [368554-skuf-for-altushki.json](./368554-skuf-for-altushki.json) |
 | Skuf na dachie | 380668 | [380668-skuf-na-dachie.json](./380668-skuf-na-dachie.json) |
