@@ -1030,6 +1030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vertix.io | 58327 | [58327-vertix-io.json](./58327-vertix-io.json) |
 | Verto | 406318 | [406318-verto.json](./406318-verto.json) |
 | Vertrix2 | 94943 | [94943-vertrix2.json](./94943-vertrix2.json) |
+| Verve | 311220 | [311220-verve.json](./311220-verve.json) |
 | Very Bad Dreams | 269860 | [269860-very-bad-dreams.json](./269860-very-bad-dreams.json) |
 | Very Dungeon | 181150 | [181150-very-dungeon.json](./181150-very-dungeon.json) |
 | Very Hard Game | 278499 | [278499-very-hard-game.json](./278499-very-hard-game.json) |
@@ -1628,6 +1629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual Families Cook Off: Chapter 2 - Farm Life | 248660 | [248660-virtual-families-cook-off-chapter-2-farm-life.json](./248660-virtual-families-cook-off-chapter-2-farm-life.json) |
 | Virtual Families: Cook Off | 219278 | [219278-virtual-families-cook-off.json](./219278-virtual-families-cook-off.json) |
 | Virtual Family: Happy Mom Care | 108613 | [108613-virtual-family-happy-mom-care.json](./108613-virtual-family-happy-mom-care.json) |
+| Virtual Fight World | 311231 | [311231-virtual-fight-world.json](./311231-virtual-fight-world.json) |
 | Virtual Fighting Championship | 103360 | [103360-virtual-fighting-championship.json](./103360-virtual-fighting-championship.json) |
 | Virtual Fishing | 50597 | [50597-virtual-fishing.json](./50597-virtual-fishing.json) |
 | Virtual Foosball | 99151 | [99151-virtual-foosball.json](./99151-virtual-foosball.json) |
