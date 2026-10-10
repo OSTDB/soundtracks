@@ -1018,6 +1018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Shape Blast | 241343 | [241343-happy-shape-blast.json](./241343-happy-shape-blast.json) |
 | Happy Sisters Life | 354442 | [354442-happy-sisters-life.json](./354442-happy-sisters-life.json) |
 | Happy Soccer Physics | 97311 | [97311-happy-soccer-physics.json](./97311-happy-soccer-physics.json) |
+| Happy Souls | 304845 | [304845-happy-souls.json](./304845-happy-souls.json) |
 | Happy Stealing with Kirisame Marisa | 112878 | [112878-happy-stealing-with-kirisame-marisa.json](./112878-happy-stealing-with-kirisame-marisa.json) |
 | Happy Summer Quest | 189931 | [189931-happy-summer-quest.json](./189931-happy-summer-quest.json) |
 | Happy Sumotori Dreams | 102237 | [102237-happy-sumotori-dreams.json](./102237-happy-sumotori-dreams.json) |
@@ -1796,6 +1797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hazard Protocol | 280335 | [280335-hazard-protocol.json](./280335-hazard-protocol.json) |
 | Hazard Run | 25805 | [25805-hazard-run.json](./25805-hazard-run.json) |
 | Hazard Versus | 353393 | [353393-hazard-versus.json](./353393-hazard-versus.json) |
+| Hazardous island | 304915 | [304915-hazardous-island.json](./304915-hazardous-island.json) |
 | Hazardous Journey | 110332 | [110332-hazardous-journey.json](./110332-hazardous-journey.json) |
 | Haze | 7317 | [7317-haze.json](./7317-haze.json) |
 | Haze Man: The Local Hero | 327952 | [327952-haze-man-the-local-hero.json](./327952-haze-man-the-local-hero.json) |
@@ -2185,6 +2187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heavenly Puzzle | 207199 | [207199-heavenly-puzzle.json](./207199-heavenly-puzzle.json) |
 | Heavenly Sword | 7318 | [7318-heavenly-sword.json](./7318-heavenly-sword.json) |
 | Heavenshatter | 351144 | [351144-heavenshatter.json](./351144-heavenshatter.json) |
+| HeavensSea | 304914 | [304914-heavenssea.json](./304914-heavenssea.json) |
 | Heavenstrafer | 267461 | [267461-heavenstrafer.json](./267461-heavenstrafer.json) |
 | Heavenstrike Rivals | 26904 | [26904-heavenstrike-rivals.json](./26904-heavenstrike-rivals.json) |
 | Heaventaker | 176917 | [176917-heaventaker.json](./176917-heaventaker.json) |
@@ -3223,6 +3226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Stars: Complete Edition | 288282 | [288282-hentai-stars-complete-edition.json](./288282-hentai-stars-complete-edition.json) |
 | Hentai Stars: Deluxe Edition | 268561 | [268561-hentai-stars-deluxe-edition.json](./268561-hentai-stars-deluxe-edition.json) |
 | Hentai Stars: Extended Edition | 277907 | [277907-hentai-stars-extended-edition.json](./277907-hentai-stars-extended-edition.json) |
+| Hentai Stars: Happy Edition | 304783 | [304783-hentai-stars-happy-edition.json](./304783-hentai-stars-happy-edition.json) |
 | Hentai Stars: Lonely Kitty Ran | 288299 | [288299-hentai-stars-lonely-kitty-ran.json](./288299-hentai-stars-lonely-kitty-ran.json) |
 | Hentai Stars: Premium Edition | 283172 | [283172-hentai-stars-premium-edition.json](./283172-hentai-stars-premium-edition.json) |
 | Hentai Stars: Shy Fox Ayame | 288293 | [288293-hentai-stars-shy-fox-ayame.json](./288293-hentai-stars-shy-fox-ayame.json) |
@@ -3309,6 +3313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai World: Platinum Edition | 270292 | [270292-hentai-world-platinum-edition.json](./270292-hentai-world-platinum-edition.json) |
 | Hentai World: Puppy Nanami | 251685 | [251685-hentai-world-puppy-nanami.json](./251685-hentai-world-puppy-nanami.json) |
 | Hentai World: Special Edition | 251684 | [251684-hentai-world-special-edition.json](./251684-hentai-world-special-edition.json) |
+| Hentai World: Superb Edition | 304784 | [304784-hentai-world-superb-edition.json](./304784-hentai-world-superb-edition.json) |
 | Hentai World: Ultimate Edition | 256266 | [256266-hentai-world-ultimate-edition.json](./256266-hentai-world-ultimate-edition.json) |
 | Hentai World: Ultra Definitive | 324454 | [324454-hentai-world-ultra-definitive.json](./324454-hentai-world-ultra-definitive.json) |
 | Hentai World: Ultra Deluxe | 308818 | [308818-hentai-world-ultra-deluxe.json](./308818-hentai-world-ultra-deluxe.json) |
