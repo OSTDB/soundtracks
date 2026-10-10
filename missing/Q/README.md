@@ -389,6 +389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quase Rosa | 373857 | [373857-quase-rosa.json](./373857-quase-rosa.json) |
 | Quash | 137473 | [137473-quash.json](./137473-quash.json) |
 | Quasimodo | 25091 | [25091-quasimodo.json](./25091-quasimodo.json) |
+| Quasimorph: End of Dream | 322837 | [322837-quasimorph-end-of-dream.json](./322837-quasimorph-end-of-dream.json) |
 | Quaterneo | 183535 | [183535-quaterneo.json](./183535-quaterneo.json) |
 | Quaterneon | 123948 | [123948-quaterneon.json](./123948-quaterneon.json) |
 | Quatocicople | 181665 | [181665-quatocicople.json](./181665-quatocicople.json) |
