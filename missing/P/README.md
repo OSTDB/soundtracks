@@ -3146,6 +3146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PGA European Tour Golf | 209983 | [209983-pga-european-tour-golf.json](./209983-pga-european-tour-golf.json) |
 | PGA Tour 2K21 | 133939 | [133939-pga-tour-2k21.json](./133939-pga-tour-2k21.json) |
 | PGA Tour 2K21: Baller Edition | 176792 | [176792-pga-tour-2k21-baller-edition.json](./176792-pga-tour-2k21-baller-edition.json) |
+| PGA Tour 2K23: Style & Swing Pack | 307973 | [307973-pga-tour-2k23-style-and-swing-pack.json](./307973-pga-tour-2k23-style-and-swing-pack.json) |
 | PGA Tour 2K23: Tiger Woods Edition | 221421 | [221421-pga-tour-2k23-tiger-woods-edition.json](./221421-pga-tour-2k23-tiger-woods-edition.json) |
 | PGA Tour 2K25 | 328079 | [328079-pga-tour-2k25.json](./328079-pga-tour-2k25.json) |
 | PGA Tour 2K25: Deluxe Edition | 328081 | [328081-pga-tour-2k25-deluxe-edition.json](./328081-pga-tour-2k25-deluxe-edition.json) |
@@ -7040,6 +7041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon: Burning Lotus | 265218 | [265218-pokemon-burning-lotus.json](./265218-pokemon-burning-lotus.json) |
 | Pokémon: Cave Escape | 342676 | [342676-pokemon-cave-escape.json](./342676-pokemon-cave-escape.json) |
 | Pokémon: Close Combat | 266866 | [266866-pokemon-close-combat.json](./266866-pokemon-close-combat.json) |
+| Pokémon: Cuerpo de Cristal | 307784 | [307784-pokemon-cuerpo-de-cristal.json](./307784-pokemon-cuerpo-de-cristal.json) |
 | Pokémon: Desert Bus | 313114 | [313114-pokemon-desert-bus.json](./313114-pokemon-desert-bus.json) |
 | Pokémon: Emerald Backwards | 342184 | [342184-pokemon-emerald-backwards.json](./342184-pokemon-emerald-backwards.json) |
 | Pokémon: Final Legacy | 313406 | [313406-pokemon-final-legacy.json](./313406-pokemon-final-legacy.json) |
@@ -9393,6 +9395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Ara - Crucible | 126992 | [126992-project-ara-crucible.json](./126992-project-ara-crucible.json) |
 | Project Arena | 197374 | [197374-project-arena.json](./197374-project-arena.json) |
 | Project Arms | 138043 | [138043-project-arms.json](./138043-project-arms.json) |
+| Project Arrow | 307881 | [307881-project-arrow.json](./307881-project-arrow.json) |
 | Project Astra Dominium | 228506 | [228506-project-astra-dominium.json](./228506-project-astra-dominium.json) |
 | Project Atlas | 142385 | [142385-project-atlas.json](./142385-project-atlas.json) |
 | Project Atlas | 175718 | [175718-project-atlas.json](./175718-project-atlas.json) |
