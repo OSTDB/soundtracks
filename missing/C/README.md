@@ -4884,6 +4884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chromosome Evil: New Weapon & Weapons Customization | 230808 | [230808-chromosome-evil-new-weapon-and-weapons-customization.json](./230808-chromosome-evil-new-weapon-and-weapons-customization.json) |
 | Chrona & Sirona | 413716 | [413716-chrona-and-sirona.json](./413716-chrona-and-sirona.json) |
 | Chronal Chain | 370203 | [370203-chronal-chain.json](./370203-chronal-chain.json) |
+| Chronal Stasis | 311223 | [311223-chronal-stasis.json](./311223-chronal-stasis.json) |
 | Chronautical | 253598 | [253598-chronautical.json](./253598-chronautical.json) |
 | Chronescher | 203929 | [203929-chronescher.json](./203929-chronescher.json) |
 | Chronical | 276695 | [276695-chronical.json](./276695-chronical.json) |
@@ -7385,6 +7386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Combat Directive: Napoleonic Wars | 318048 | [318048-combat-directive-napoleonic-wars.json](./318048-combat-directive-napoleonic-wars.json) |
 | Combat Dungeon | 294163 | [294163-combat-dungeon.json](./294163-combat-dungeon.json) |
 | Combat Elite: WWII Paratroopers | 5784 | [5784-combat-elite-wwii-paratroopers.json](./5784-combat-elite-wwii-paratroopers.json) |
+| Combat Evolved 2D | 311226 | [311226-combat-evolved-2d.json](./311226-combat-evolved-2d.json) |
 | Combat Force Xex Shooting Battle | 98052 | [98052-combat-force-xex-shooting-battle.json](./98052-combat-force-xex-shooting-battle.json) |
 | Combat Hawk | 40110 | [40110-combat-hawk.json](./40110-combat-hawk.json) |
 | Combat Instinct | 387086 | [387086-combat-instinct.json](./387086-combat-instinct.json) |
@@ -7928,6 +7930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conflagrant Rodent | 271815 | [271815-conflagrant-rodent.json](./271815-conflagrant-rodent.json) |
 | Conflicks - Revolutionary Space Battles | 17195 | [17195-conflicks-revolutionary-space-battles.json](./17195-conflicks-revolutionary-space-battles.json) |
 | Conflict / Resolution | 201123 | [201123-conflict-resolution.json](./201123-conflict-resolution.json) |
+| Conflict 2: Blitz | 311241 | [311241-conflict-2-blitz.json](./311241-conflict-2-blitz.json) |
 | Conflict 2500 | 24805 | [24805-conflict-2500.json](./24805-conflict-2500.json) |
 | Conflict 3048 | 193406 | [193406-conflict-3048.json](./193406-conflict-3048.json) |
 | Conflict Area | 164953 | [164953-conflict-area.json](./164953-conflict-area.json) |
@@ -9933,6 +9936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Kitchen | 265675 | [265675-crazy-kitchen.json](./265675-crazy-kitchen.json) |
 | Crazy Kong | 130753 | [130753-crazy-kong.json](./130753-crazy-kong.json) |
 | Crazy Kong | 13833 | [13833-crazy-kong.json](./13833-crazy-kong.json) |
+| Crazy Kong Part II | 311035 | [311035-crazy-kong-part-ii.json](./311035-crazy-kong-part-ii.json) |
 | Crazy Lizard: The Amazing Journey | 235142 | [235142-crazy-lizard-the-amazing-journey.json](./235142-crazy-lizard-the-amazing-journey.json) |
 | Crazy Machines | 4777 | [4777-crazy-machines.json](./4777-crazy-machines.json) |
 | Crazy Machines 2 | 197893 | [197893-crazy-machines-2.json](./197893-crazy-machines-2.json) |
@@ -10547,6 +10551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crosps | 125844 | [125844-crosps.json](./125844-crosps.json) |
 | Cross and Crush | 89270 | [89270-cross-and-crush.json](./89270-cross-and-crush.json) |
 | Cross Blitz | 158620 | [158620-cross-blitz.json](./158620-cross-blitz.json) |
+| Cross Brawl | 311158 | [311158-cross-brawl.json](./311158-cross-brawl.json) |
 | Cross Changer | 66896 | [66896-cross-changer.json](./66896-cross-changer.json) |
 | Cross Channel | 78650 | [78650-cross-channel.json](./78650-cross-channel.json) |
 | Cross Chase | 293229 | [293229-cross-chase.json](./293229-cross-chase.json) |
@@ -11233,6 +11238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CT Special Forces 3: BioTerror | 49253 | [49253-ct-special-forces-3-bioterror.json](./49253-ct-special-forces-3-bioterror.json) |
 | CTcity | 174088 | [174088-ctcity.json](./174088-ctcity.json) |
 | Ctesiphon | 349420 | [349420-ctesiphon.json](./349420-ctesiphon.json) |
+| CTGP Deluxe | 311038 | [311038-ctgp-deluxe.json](./311038-ctgp-deluxe.json) |
 | CTGP-7 | 209549 | [209549-ctgp-7.json](./209549-ctgp-7.json) |
 | Cthulhu 1920 | 386242 | [386242-cthulhu-1920.json](./386242-cthulhu-1920.json) |
 | Cthulhu Go Teaching | 405091 | [405091-cthulhu-go-teaching.json](./405091-cthulhu-go-teaching.json) |
@@ -11280,6 +11286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube | 229157 | [229157-cube.json](./229157-cube.json) |
 | Cube | 249776 | [249776-cube.json](./249776-cube.json) |
 | Cube | 272548 | [272548-cube.json](./272548-cube.json) |
+| Cube | 311233 | [311233-cube.json](./311233-cube.json) |
 | Cube | 339349 | [339349-cube.json](./339349-cube.json) |
 | Cube | 339350 | [339350-cube.json](./339350-cube.json) |
 | Cube | 385600 | [385600-cube.json](./385600-cube.json) |
@@ -11529,6 +11536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cuckwork: Mama pays for her useless son's failures with her body | 82898 | [82898-cuckwork-mama-pays-for-her-useless-sons-failures-with-her-body.json](./82898-cuckwork-mama-pays-for-her-useless-sons-failures-with-her-body.json) |
 | Cuco | 68195 | [68195-cuco.json](./68195-cuco.json) |
 | Cucu | 380100 | [380100-cucu.json](./380100-cucu.json) |
+| Cucumber | 311228 | [311228-cucumber.json](./311228-cucumber.json) |
 | Cucumber Blues | 28917 | [28917-cucumber-blues.json](./28917-cucumber-blues.json) |
 | CucumbeRunner | 236011 | [236011-cucumberunner.json](./236011-cucumberunner.json) |
 | Cuddle Corner | 360729 | [360729-cuddle-corner.json](./360729-cuddle-corner.json) |
