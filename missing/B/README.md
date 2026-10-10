@@ -4761,6 +4761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Binary Run | 203906 | [203906-binary-run.json](./203906-binary-run.json) |
 | Binary Rush | 250388 | [250388-binary-rush.json](./250388-binary-rush.json) |
 | Binary Stack | 57741 | [57741-binary-stack.json](./57741-binary-stack.json) |
+| Binary Star Hero | 326846 | [326846-binary-star-hero.json](./326846-binary-star-hero.json) |
 | Binary Trigger | 30080 | [30080-binary-trigger.json](./30080-binary-trigger.json) |
 | Binary. | 206173 | [206173-binary.json](./206173-binary.json) |
 | Binary. | 211098 | [211098-binary.json](./211098-binary.json) |
