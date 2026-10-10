@@ -342,6 +342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fading Hearts | 16778 | [16778-fading-hearts.json](./16778-fading-hearts.json) |
 | Fading Light and Summer's Shadow | 411769 | [411769-fading-light-and-summers-shadow.json](./411769-fading-light-and-summers-shadow.json) |
 | Fading Light: Antiworld | 223425 | [223425-fading-light-antiworld.json](./223425-fading-light-antiworld.json) |
+| Fading Remnants | 326844 | [326844-fading-remnants.json](./326844-fading-remnants.json) |
 | Fading Shadows | 42880 | [42880-fading-shadows.json](./42880-fading-shadows.json) |
 | Fading Skies | 291768 | [291768-fading-skies.json](./291768-fading-skies.json) |
 | Fading Star Melody | 328098 | [328098-fading-star-melody.json](./328098-fading-star-melody.json) |
@@ -2441,6 +2442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fervent | 310647 | [310647-fervent.json](./310647-fervent.json) |
 | Fesnia | 104448 | [104448-fesnia.json](./104448-fesnia.json) |
 | Fest Guests | 302389 | [302389-fest-guests.json](./302389-fest-guests.json) |
+| Festa!! Hyper Girls Party | 326637 | [326637-festa-hyper-girls-party.json](./326637-festa-hyper-girls-party.json) |
 | Fester's Quest | 5343 | [5343-festers-quest.json](./5343-festers-quest.json) |
 | Festival Days Sim Date | 198243 | [198243-festival-days-sim-date.json](./198243-festival-days-sim-date.json) |
 | Festival Journey: Highland Dreams - Collector's Edition | 386869 | [386869-festival-journey-highland-dreams-collectors-edition.json](./386869-festival-journey-highland-dreams-collectors-edition.json) |
@@ -2464,6 +2466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feud | 113037 | [113037-feud.json](./113037-feud.json) |
 | Feud | 12094 | [12094-feud.json](./12094-feud.json) |
 | Feudal Alloy | 65820 | [65820-feudal-alloy.json](./65820-feudal-alloy.json) |
+| Feudal Bros: Tonosama #1 | 326646 | [326646-feudal-bros-tonosama-1.json](./326646-feudal-bros-tonosama-1.json) |
 | Feudal Craft | 358256 | [358256-feudal-craft.json](./358256-feudal-craft.json) |
 | Feudal Friends | 239587 | [239587-feudal-friends.json](./239587-feudal-friends.json) |
 | Feudal Wars | 291162 | [291162-feudal-wars.json](./291162-feudal-wars.json) |
@@ -3067,6 +3070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy VI: A Soldier's Contingency | 312346 | [312346-final-fantasy-vi-a-soldiers-contingency.json](./312346-final-fantasy-vi-a-soldiers-contingency.json) |
 | Final Fantasy VI: Brave New World | 148455 | [148455-final-fantasy-vi-brave-new-world.json](./148455-final-fantasy-vi-brave-new-world.json) |
 | Final Fantasy VI: Brave New World Final Frontier | 360105 | [360105-final-fantasy-vi-brave-new-world-final-frontier.json](./360105-final-fantasy-vi-brave-new-world-final-frontier.json) |
+| Final Fantasy VI: Divergent Paths | 326643 | [326643-final-fantasy-vi-divergent-paths.json](./326643-final-fantasy-vi-divergent-paths.json) |
 | Final Fantasy VI: General Leo Edition | 339239 | [339239-final-fantasy-vi-general-leo-edition.json](./339239-final-fantasy-vi-general-leo-edition.json) |
 | Final Fantasy VI: Omega-A | 393097 | [393097-final-fantasy-vi-omega-a.json](./393097-final-fantasy-vi-omega-a.json) |
 | Final Fantasy VI: Presentiment Era | 339252 | [339252-final-fantasy-vi-presentiment-era.json](./339252-final-fantasy-vi-presentiment-era.json) |
@@ -5516,6 +5520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Kicks | 231060 | [231060-football-kicks.json](./231060-football-kicks.json) |
 | Football Killer | 188096 | [188096-football-killer.json](./188096-football-killer.json) |
 | Football League 2023 | 223933 | [223933-football-league-2023.json](./223933-football-league-2023.json) |
+| Football League 2026 | 326649 | [326649-football-league-2026.json](./326649-football-league-2026.json) |
 | Football Legacy | 394539 | [394539-football-legacy.json](./394539-football-legacy.json) |
 | Football Legend | 59080 | [59080-football-legend.json](./59080-football-legend.json) |
 | Football Legends 2025: Complete Edition | 404277 | [404277-football-legends-2025-complete-edition.json](./404277-football-legends-2025-complete-edition.json) |
