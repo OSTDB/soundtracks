@@ -2161,6 +2161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingpin: Arcade Sports Bowling | 37110 | [37110-kingpin-arcade-sports-bowling.json](./37110-kingpin-arcade-sports-bowling.json) |
 | Kingpin: Life of Crime | 8565 | [8565-kingpin-life-of-crime.json](./8565-kingpin-life-of-crime.json) |
 | Kingpin: Reloaded | 128487 | [128487-kingpin-reloaded.json](./128487-kingpin-reloaded.json) |
+| Kingpin's Lair | 318156 | [318156-kingpins-lair.json](./318156-kingpins-lair.json) |
 | Kings | 78364 | [78364-kings.json](./78364-kings.json) |
 | Kings & Savages | 330264 | [330264-kings-and-savages.json](./330264-kings-and-savages.json) |
 | Kings Age | 62717 | [62717-kings-age.json](./62717-kings-age.json) |
