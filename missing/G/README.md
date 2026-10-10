@@ -103,6 +103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | G.O.H - The God of Highschool | 137442 | [137442-g-o-h-the-god-of-highschool.json](./137442-g-o-h-the-god-of-highschool.json) |
 | G.O.M.P! | 245903 | [245903-g-o-m-p.json](./245903-g-o-m-p.json) |
 | G.O.P.O.T.A 2 | 291756 | [291756-g-o-p-o-t-a-2.json](./291756-g-o-p-o-t-a-2.json) |
+| G.R.E.G.: The Generally Really Easy Game | 310077 | [310077-g-r-e-g-the-generally-really-easy-game.json](./310077-g-r-e-g-the-generally-really-easy-game.json) |
 | G1 Jockey 2 | 55170 | [55170-g1-jockey-2.json](./55170-g1-jockey-2.json) |
 | G1 Jockey 2000 | 55171 | [55171-g1-jockey-2000.json](./55171-g1-jockey-2000.json) |
 | G1 Jockey 3 | 23713 | [23713-g1-jockey-3.json](./23713-g1-jockey-3.json) |
@@ -790,6 +791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game of Seven | 199468 | [199468-game-of-seven.json](./199468-game-of-seven.json) |
 | Game of Skulls | 232062 | [232062-game-of-skulls.json](./232062-game-of-skulls.json) |
 | Game of Small Squares | 105757 | [105757-game-of-small-squares.json](./105757-game-of-small-squares.json) |
+| Game of Squares | 309946 | [309946-game-of-squares.json](./309946-game-of-squares.json) |
 | Game of Sultans | 106526 | [106526-game-of-sultans.json](./106526-game-of-sultans.json) |
 | Game of The Forgotten Gods. Wake Up | 96864 | [96864-game-of-the-forgotten-gods-wake-up.json](./96864-game-of-the-forgotten-gods-wake-up.json) |
 | Game of the Year | 127720 | [127720-game-of-the-year.json](./127720-game-of-the-year.json) |
@@ -1283,6 +1285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gaslit Bay | 405686 | [405686-gaslit-bay.json](./405686-gaslit-bay.json) |
 | Gasnator | 229796 | [229796-gasnator.json](./229796-gasnator.json) |
 | Gassy GaoGao | 405545 | [405545-gassy-gaogao.json](./405545-gassy-gaogao.json) |
+| Gassy Getaway | 310076 | [310076-gassy-getaway.json](./310076-gassy-getaway.json) |
 | Gassy Mob | 59816 | [59816-gassy-mob.json](./59816-gassy-mob.json) |
 | Gastova: The Witches of Arkana | 130955 | [130955-gastova-the-witches-of-arkana.json](./130955-gastova-the-witches-of-arkana.json) |
 | Gastro Force | 197221 | [197221-gastro-force.json](./197221-gastro-force.json) |
@@ -2142,6 +2145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Getaway Entertainment 6 Pack | 201851 | [201851-getaway-entertainment-6-pack.json](./201851-getaway-entertainment-6-pack.json) |
 | Getaway Girls | 313876 | [313876-getaway-girls.json](./313876-getaway-girls.json) |
 | Getaway Golf | 414298 | [414298-getaway-golf.json](./414298-getaway-golf.json) |
+| Getaway Grand Prix | 310158 | [310158-getaway-grand-prix.json](./310158-getaway-grand-prix.json) |
 | Getaway Mayhem | 128965 | [128965-getaway-mayhem.json](./128965-getaway-mayhem.json) |
 | Getaway! | 78981 | [78981-getaway.json](./78981-getaway.json) |
 | GetBackers Dakkanya: Dakkan da yo! Zenin Shuugou!! | 252071 | [252071-getbackers-dakkanya-dakkan-da-yo-zenin-shuugou.json](./252071-getbackers-dakkanya-dakkan-da-yo-zenin-shuugou.json) |
@@ -6817,6 +6821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gym Rat Simulator | 410888 | [410888-gym-rat-simulator.json](./410888-gym-rat-simulator.json) |
 | Gym Simulator 24 | 263793 | [263793-gym-simulator-24.json](./263793-gym-simulator-24.json) |
 | Gym Simulator 26 | 397070 | [397070-gym-simulator-26.json](./397070-gym-simulator-26.json) |
+| GymBro | 309954 | [309954-gymbro.json](./309954-gymbro.json) |
 | Gymnastics Girl | 90349 | [90349-gymnastics-girl.json](./90349-gymnastics-girl.json) |
 | Gynogenesis: The Next Day | 256899 | [256899-gynogenesis-the-next-day.json](./256899-gynogenesis-the-next-day.json) |
 | Gynotai | 319866 | [319866-gynotai.json](./319866-gynotai.json) |
