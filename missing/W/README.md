@@ -409,6 +409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wandering Meatbags | 191552 | [191552-wandering-meatbags.json](./191552-wandering-meatbags.json) |
 | Wandering Monolith | 319831 | [319831-wandering-monolith.json](./319831-wandering-monolith.json) |
 | Wandering Owl | 107420 | [107420-wandering-owl.json](./107420-wandering-owl.json) |
+| Wandering Petal | 304909 | [304909-wandering-petal.json](./304909-wandering-petal.json) |
 | Wandering Planet: Prelude | 298599 | [298599-wandering-planet-prelude.json](./298599-wandering-planet-prelude.json) |
 | Wandering Skies | 247477 | [247477-wandering-skies.json](./247477-wandering-skies.json) |
 | Wandering Sword | 202696 | [202696-wandering-sword.json](./202696-wandering-sword.json) |
@@ -5006,6 +5007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Dark | 283864 | [283864-world-of-dark.json](./283864-world-of-dark.json) |
 | World of Darkness | 77001 | [77001-world-of-darkness.json](./77001-world-of-darkness.json) |
 | World of Darkness Preludes: Vampire and Mage | 27330 | [27330-world-of-darkness-preludes-vampire-and-mage.json](./27330-world-of-darkness-preludes-vampire-and-mage.json) |
+| World of Deadliest Catch: 2024 Premium Edition | 304778 | [304778-world-of-deadliest-catch-2024-premium-edition.json](./304778-world-of-deadliest-catch-2024-premium-edition.json) |
 | World of Dragons: Dragon Simulator | 88219 | [88219-world-of-dragons-dragon-simulator.json](./88219-world-of-dragons-dragon-simulator.json) |
 | World of Elemental | 358505 | [358505-world-of-elemental.json](./358505-world-of-elemental.json) |
 | World of Ender | 102749 | [102749-world-of-ender.json](./102749-world-of-ender.json) |
@@ -5025,6 +5027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of JumpStart | 254465 | [254465-world-of-jumpstart.json](./254465-world-of-jumpstart.json) |
 | World of Leaders | 36140 | [36140-world-of-leaders.json](./36140-world-of-leaders.json) |
 | World of Legends | 115461 | [115461-world-of-legends.json](./115461-world-of-legends.json) |
+| World of Magic: Rise of Magic | 304918 | [304918-world-of-magic-rise-of-magic.json](./304918-world-of-magic-rise-of-magic.json) |
 | World of Magicka Bundle | 327246 | [327246-world-of-magicka-bundle.json](./327246-world-of-magicka-bundle.json) |
 | World of Mana | 239710 | [239710-world-of-mana.json](./239710-world-of-mana.json) |
 | World of Mines: Creators Edition | 235206 | [235206-world-of-mines-creators-edition.json](./235206-world-of-mines-creators-edition.json) |
@@ -5063,6 +5066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Soccer Online | 34704 | [34704-world-of-soccer-online.json](./34704-world-of-soccer-online.json) |
 | World of Soccer Reloaded | 155684 | [155684-world-of-soccer-reloaded.json](./155684-world-of-soccer-reloaded.json) |
 | World of Solitaire | 139966 | [139966-world-of-solitaire.json](./139966-world-of-solitaire.json) |
+| World of Solitaire: Deluxe Edition | 304777 | [304777-world-of-solitaire-deluxe-edition.json](./304777-world-of-solitaire-deluxe-edition.json) |
 | World Of Sports | 370756 | [370756-world-of-sports.json](./370756-world-of-sports.json) |
 | World of Submarines | 255764 | [255764-world-of-submarines.json](./255764-world-of-submarines.json) |
 | World of Subways Vol.3: Circle Line | 79924 | [79924-world-of-subways-vol-3-circle-line.json](./79924-world-of-subways-vol-3-circle-line.json) |
