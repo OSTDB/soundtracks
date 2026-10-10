@@ -2983,6 +2983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kobayashi Hitomi no Hold Up | 41348 | [41348-kobayashi-hitomi-no-hold-up.json](./41348-kobayashi-hitomi-no-hold-up.json) |
 | KobberParty - Castle Explorer | 130228 | [130228-kobberparty-castle-explorer.json](./130228-kobberparty-castle-explorer.json) |
 | Kobito Game Taizen | 416095 | [416095-kobito-game-taizen.json](./416095-kobito-game-taizen.json) |
+| Kobito-zukan: Kobito Kansatsu Set | 299548 | [299548-kobito-zukan-kobito-kansatsu-set.json](./299548-kobito-zukan-kobito-kansatsu-set.json) |
 | Kobito-zukan: Kobito no Fushigi Jikken Set | 329947 | [329947-kobito-zukan-kobito-no-fushigi-jikken-set.json](./329947-kobito-zukan-kobito-no-fushigi-jikken-set.json) |
 | Kobold Delvers | 403190 | [403190-kobold-delvers.json](./403190-kobold-delvers.json) |
 | Kobold Garden | 177335 | [177335-kobold-garden.json](./177335-kobold-garden.json) |
