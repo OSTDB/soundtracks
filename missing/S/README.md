@@ -15063,6 +15063,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Squadron | 345441 | [345441-star-squadron.json](./345441-star-squadron.json) |
 | Star Squadron: Student Driver | 149548 | [149548-star-squadron-student-driver.json](./149548-star-squadron-student-driver.json) |
 | Star Stable | 60338 | [60338-star-stable.json](./60338-star-stable.json) |
+| Star Stable: The Autumn Rider | 283667 | [283667-star-stable-the-autumn-rider.json](./283667-star-stable-the-autumn-rider.json) |
+| Star Stable: The Summer Rider | 283675 | [283675-star-stable-the-summer-rider.json](./283675-star-stable-the-summer-rider.json) |
+| Star Stable: The Winter Rider | 283672 | [283672-star-stable-the-winter-rider.json](./283672-star-stable-the-winter-rider.json) |
 | Star Stealing Prince: Definitive | 183962 | [183962-star-stealing-prince-definitive.json](./183962-star-stealing-prince-definitive.json) |
 | Star Steel | 159837 | [159837-star-steel.json](./159837-star-steel.json) |
 | Star Stone Splash | 274491 | [274491-star-stone-splash.json](./274491-star-stone-splash.json) |
@@ -17729,6 +17732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strip Me Down: Jock | 392931 | [392931-strip-me-down-jock.json](./392931-strip-me-down-jock.json) |
 | Strip Me Down: Office Worker | 392935 | [392935-strip-me-down-office-worker.json](./392935-strip-me-down-office-worker.json) |
 | Strip n Play with Valerie | 221205 | [221205-strip-n-play-with-valerie.json](./221205-strip-n-play-with-valerie.json) |
+| Strip Off | 283628 | [283628-strip-off.json](./283628-strip-off.json) |
 | Strip Poker II | 78962 | [78962-strip-poker-ii.json](./78962-strip-poker-ii.json) |
 | Strip Poker II Plus | 39137 | [39137-strip-poker-ii-plus.json](./39137-strip-poker-ii-plus.json) |
 | Strip Poker Night at the Inventory | 134409 | [134409-strip-poker-night-at-the-inventory.json](./134409-strip-poker-night-at-the-inventory.json) |
