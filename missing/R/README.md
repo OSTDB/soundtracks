@@ -3167,6 +3167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Replics 3 - Behind the Light | 132075 | [132075-replics-3-behind-the-light.json](./132075-replics-3-behind-the-light.json) |
 | Replik Survivors | 266296 | [266296-replik-survivors.json](./266296-replik-survivors.json) |
 | Replika | 92274 | [92274-replika.json](./92274-replika.json) |
+| Replikant Chat | 326657 | [326657-replikant-chat.json](./326657-replikant-chat.json) |
 | Replikator | 145251 | [145251-replikator.json](./145251-replikator.json) |
 | Reply All | 350055 | [350055-reply-all.json](./350055-reply-all.json) |
 | Report One | 322808 | [322808-report-one.json](./322808-report-one.json) |
@@ -4069,6 +4070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rez | 11244 | [11244-rez.json](./11244-rez.json) |
 | Rez HD | 84308 | [84308-rez-hd.json](./84308-rez-hd.json) |
 | Rez Infinite | 19746 | [19746-rez-infinite.json](./19746-rez-infinite.json) |
+| Rezarus | 326849 | [326849-rezarus.json](./326849-rezarus.json) |
 | Rezel Cross | 64955 | [64955-rezel-cross.json](./64955-rezel-cross.json) |
 | Rezident Evil: It Is Escape | 260137 | [260137-rezident-evil-it-is-escape.json](./260137-rezident-evil-it-is-escape.json) |
 | Rezist: Tower Defense | 123500 | [123500-rezist-tower-defense.json](./123500-rezist-tower-defense.json) |
