@@ -1566,6 +1566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Acid Drops | 15588 | [15588-acid-drops.json](./15588-acid-drops.json) |
 | Acid Girls' Escape | 205568 | [205568-acid-girls-escape.json](./205568-acid-girls-escape.json) |
 | Acid Moon | 135092 | [135092-acid-moon.json](./135092-acid-moon.json) |
+| Acid R[ai/eig]n | 283739 | [283739-acid-r-ai-eig-n.json](./283739-acid-r-ai-eig-n.json) |
 | Ac󠀠id Ra󠀠in | 187886 | [187886-ac-id-ra-in.json](./187886-ac-id-ra-in.json) |
 | Acid Reflux | 274437 | [274437-acid-reflux.json](./274437-acid-reflux.json) |
 | Acid Spy | 102877 | [102877-acid-spy.json](./102877-acid-spy.json) |
