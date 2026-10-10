@@ -10,6 +10,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | O Conto de Ada | 307229 | [307229-o-conto-de-ada.json](./307229-o-conto-de-ada.json) |
 | O Horror Amarelo | 338939 | [338939-o-horror-amarelo.json](./338939-o-horror-amarelo.json) |
 | O Livro Mágico | 290084 | [290084-o-livro-magico.json](./290084-o-livro-magico.json) |
+| O Queijorcista | 298408 | [298408-o-queijorcista.json](./298408-o-queijorcista.json) |
 | O Rei | 121649 | [121649-o-rei.json](./121649-o-rei.json) |
 | O reino em outro mundo | 315131 | [315131-o-reino-em-outro-mundo.json](./315131-o-reino-em-outro-mundo.json) |
 | O Salão Encantado | 216274 | [216274-o-salao-encantado.json](./216274-o-salao-encantado.json) |
@@ -705,6 +706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oh My Goat | 51172 | [51172-oh-my-goat.json](./51172-oh-my-goat.json) |
 | Oh My God, Look At This Knight | 76640 | [76640-oh-my-god-look-at-this-knight.json](./76640-oh-my-god-look-at-this-knight.json) |
 | Oh My God! | 64130 | [64130-oh-my-god.json](./64130-oh-my-god.json) |
+| Oh My God! Crush! | 298418 | [298418-oh-my-god-crush.json](./298418-oh-my-god-crush.json) |
 | Oh My Goddess! | 385903 | [385903-oh-my-goddess.json](./385903-oh-my-goddess.json) |
 | Oh My Godheads: Party Edition | 110799 | [110799-oh-my-godheads-party-edition.json](./110799-oh-my-godheads-party-edition.json) |
 | Oh My Gore! | 36231 | [36231-oh-my-gore.json](./36231-oh-my-gore.json) |
@@ -1382,6 +1384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Day After School | 270712 | [270712-one-day-after-school.json](./270712-one-day-after-school.json) |
 | One Day for Ched | 10647 | [10647-one-day-for-ched.json](./10647-one-day-for-ched.json) |
 | One Day for Revenge | 104020 | [104020-one-day-for-revenge.json](./104020-one-day-for-revenge.json) |
+| One Day Hike | 298435 | [298435-one-day-hike.json](./298435-one-day-hike.json) |
 | One Day in London | 32931 | [32931-one-day-in-london.json](./32931-one-day-in-london.json) |
 | One Day More | 150535 | [150535-one-day-more.json](./150535-one-day-more.json) |
 | One Day of Mr. Potato | 246383 | [246383-one-day-of-mr-potato.json](./246383-one-day-of-mr-potato.json) |
@@ -1802,6 +1805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oni Zero: Fukkatsu | 166563 | [166563-oni-zero-fukkatsu.json](./166563-oni-zero-fukkatsu.json) |
 | Oni: Road to be the Mightiest Oni | 194944 | [194944-oni-road-to-be-the-mightiest-oni.json](./194944-oni-road-to-be-the-mightiest-oni.json) |
 | Oni's Tale | 323431 | [323431-onis-tale.json](./323431-onis-tale.json) |
+| Onibi | 298412 | [298412-onibi.json](./298412-onibi.json) |
 | Onibito Kiki | 324857 | [324857-onibito-kiki.json](./324857-onibito-kiki.json) |
 | Onigami | 184562 | [184562-onigami.json](./184562-onigami.json) |
 | Onigami Korinden Oni | 67612 | [67612-onigami-korinden-oni.json](./67612-onigami-korinden-oni.json) |
