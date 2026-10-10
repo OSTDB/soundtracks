@@ -406,6 +406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Little to the Left | 152180 | [152180-a-little-to-the-left.json](./152180-a-little-to-the-left.json) |
 | A Little to the Left Seeing Stars DLC Bundle | 312110 | [312110-a-little-to-the-left-seeing-stars-dlc-bundle.json](./312110-a-little-to-the-left-seeing-stars-dlc-bundle.json) |
 | A Little to the Left: Deep Clean | 264334 | [264334-a-little-to-the-left-deep-clean.json](./264334-a-little-to-the-left-deep-clean.json) |
+| A Little to the Left: Extra Tidy Bundle | 312836 | [312836-a-little-to-the-left-extra-tidy-bundle.json](./312836-a-little-to-the-left-extra-tidy-bundle.json) |
 | A Little to the Left: Seeing Stars | 305034 | [305034-a-little-to-the-left-seeing-stars.json](./305034-a-little-to-the-left-seeing-stars.json) |
 | A Little Walk in the Woods | 274734 | [274734-a-little-walk-in-the-woods.json](./274734-a-little-walk-in-the-woods.json) |
 | A Lively Haunt | 265099 | [265099-a-lively-haunt.json](./265099-a-lively-haunt.json) |
@@ -455,6 +456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Maze In Love | 69381 | [69381-a-maze-in-love.json](./69381-a-maze-in-love.json) |
 | A Maze. / Space | 178487 | [178487-a-maze-space.json](./178487-a-maze-space.json) |
 | A Mazeing Tower Defense | 54470 | [54470-a-mazeing-tower-defense.json](./54470-a-mazeing-tower-defense.json) |
+| A Mazing Cheesesnake | 312849 | [312849-a-mazing-cheesesnake.json](./312849-a-mazing-cheesesnake.json) |
 | A meadow Piece | 114377 | [114377-a-meadow-piece.json](./114377-a-meadow-piece.json) |
 | A Meeting of Dreams | 223486 | [223486-a-meeting-of-dreams.json](./223486-a-meeting-of-dreams.json) |
 | A Megawad in Two Weeks | 274142 | [274142-a-megawad-in-two-weeks.json](./274142-a-megawad-in-two-weeks.json) |
@@ -706,6 +708,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Tale for Anna: Collector's Edition | 382907 | [382907-a-tale-for-anna-collectors-edition.json](./382907-a-tale-for-anna-collectors-edition.json) |
 | A Tale in the Desert | 23701 | [23701-a-tale-in-the-desert.json](./23701-a-tale-in-the-desert.json) |
 | A Tale In The Garden | 332404 | [332404-a-tale-in-the-garden.json](./332404-a-tale-in-the-garden.json) |
+| A Tale in the Zoo | 312833 | [312833-a-tale-in-the-zoo.json](./312833-a-tale-in-the-zoo.json) |
+| A Tale of Betrayal | 312850 | [312850-a-tale-of-betrayal.json](./312850-a-tale-of-betrayal.json) |
 | A Tale of Body Limbs | 331142 | [331142-a-tale-of-body-limbs.json](./331142-a-tale-of-body-limbs.json) |
 | A Tale of Brothers | 358879 | [358879-a-tale-of-brothers.json](./358879-a-tale-of-brothers.json) |
 | A Tale of Caos: Overture | 32116 | [32116-a-tale-of-caos-overture.json](./32116-a-tale-of-caos-overture.json) |
@@ -756,6 +760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Trail of Ooze: Chapter 1 | 174094 | [174094-a-trail-of-ooze-chapter-1.json](./174094-a-trail-of-ooze-chapter-1.json) |
 | A Trans Man's Grindr DMs | 282106 | [282106-a-trans-mans-grindr-dms.json](./282106-a-trans-mans-grindr-dms.json) |
 | A Transitional Eve | 397044 | [397044-a-transitional-eve.json](./397044-a-transitional-eve.json) |
+| A Treat and Some Tricks | 312852 | [312852-a-treat-and-some-tricks.json](./312852-a-treat-and-some-tricks.json) |
 | A Trip to the Mall at Night | 359054 | [359054-a-trip-to-the-mall-at-night.json](./359054-a-trip-to-the-mall-at-night.json) |
 | A Trip to Yugoslavia | 68932 | [68932-a-trip-to-yugoslavia.json](./68932-a-trip-to-yugoslavia.json) |
 | A Trip to Yugoslavia: Director's Cut | 30888 | [30888-a-trip-to-yugoslavia-directors-cut.json](./30888-a-trip-to-yugoslavia-directors-cut.json) |
@@ -779,6 +784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Very Pilkington Christmas | 280752 | [280752-a-very-pilkington-christmas.json](./280752-a-very-pilkington-christmas.json) |
 | A Very Scandalous Proposal | 313852 | [313852-a-very-scandalous-proposal.json](./313852-a-very-scandalous-proposal.json) |
 | A Very Simple Puzzle... | 337070 | [337070-a-very-simple-puzzle.json](./337070-a-very-simple-puzzle.json) |
+| A Very Special Dog | 312856 | [312856-a-very-special-dog.json](./312856-a-very-special-dog.json) |
 | A Very Splendid Otome Game | 321555 | [321555-a-very-splendid-otome-game.json](./321555-a-very-splendid-otome-game.json) |
 | A Vessel of Frustration | 398569 | [398569-a-vessel-of-frustration.json](./398569-a-vessel-of-frustration.json) |
 | A Viking's Quest: The Lost Continent | 244389 | [244389-a-vikings-quest-the-lost-continent.json](./244389-a-vikings-quest-the-lost-continent.json) |
@@ -797,6 +803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Walk In A Field | 179656 | [179656-a-walk-in-a-field.json](./179656-a-walk-in-a-field.json) |
 | A Walk in the Night | 372244 | [372244-a-walk-in-the-night.json](./372244-a-walk-in-the-night.json) |
 | A Walk in the Park | 309331 | [309331-a-walk-in-the-park.json](./309331-a-walk-in-the-park.json) |
+| A Walk in the Park | 312860 | [312860-a-walk-in-the-park.json](./312860-a-walk-in-the-park.json) |
 | A Walk in the Woods | 99117 | [99117-a-walk-in-the-woods.json](./99117-a-walk-in-the-woods.json) |
 | A Walk in the Woods: VR | 133888 | [133888-a-walk-in-the-woods-vr.json](./133888-a-walk-in-the-woods-vr.json) |
 | A Walk Through Echoes | 159708 | [159708-a-walk-through-echoes.json](./159708-a-walk-through-echoes.json) |
@@ -1042,6 +1049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abcdef | 330374 | [330374-abcdef.json](./330374-abcdef.json) |
 | ABD: A Beautiful Day | 34900 | [34900-abd-a-beautiful-day.json](./34900-abd-a-beautiful-day.json) |
 | Abdicate | 377428 | [377428-abdicate.json](./377428-abdicate.json) |
+| Abducidos | 312868 | [312868-abducidos.json](./312868-abducidos.json) |
 | Abduct 'em | 392218 | [392218-abduct-em.json](./392218-abduct-em.json) |
 | Abduct and Destroy! | 182543 | [182543-abduct-and-destroy.json](./182543-abduct-and-destroy.json) |
 | Abducted Toad | 135096 | [135096-abducted-toad.json](./135096-abducted-toad.json) |
@@ -10040,6 +10048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Attack on Mutation Station | 307118 | [307118-attack-on-mutation-station.json](./307118-attack-on-mutation-station.json) |
 | Attack on Reality | 231612 | [231612-attack-on-reality.json](./231612-attack-on-reality.json) |
 | Attack on Steel | 346228 | [346228-attack-on-steel.json](./346228-attack-on-steel.json) |
+| Attack on Survey Cops | 312819 | [312819-attack-on-survey-cops.json](./312819-attack-on-survey-cops.json) |
 | Attack on the Deathstar | 181203 | [181203-attack-on-the-deathstar.json](./181203-attack-on-the-deathstar.json) |
 | Attack on Time | 193848 | [193848-attack-on-time.json](./193848-attack-on-time.json) |
 | Attack on Titan | 14879 | [14879-attack-on-titan.json](./14879-attack-on-titan.json) |
