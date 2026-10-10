@@ -7757,6 +7757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of The Artifact | 59847 | [59847-the-legend-of-the-artifact.json](./59847-the-legend-of-the-artifact.json) |
 | The Legend of the Astera Stone | 300020 | [300020-the-legend-of-the-astera-stone.json](./300020-the-legend-of-the-astera-stone.json) |
 | The Legend of The Black Wizard | 157471 | [157471-the-legend-of-the-black-wizard.json](./157471-the-legend-of-the-black-wizard.json) |
+| The Legend of the Blue Sword | 307980 | [307980-the-legend-of-the-blue-sword.json](./307980-the-legend-of-the-blue-sword.json) |
 | The Legend of The Duck Knite | 117507 | [117507-the-legend-of-the-duck-knite.json](./117507-the-legend-of-the-duck-knite.json) |
 | The Legend of the Radient Mask | 135094 | [135094-the-legend-of-the-radient-mask.json](./135094-the-legend-of-the-radient-mask.json) |
 | The Legend of The Sacred Stone EX | 371336 | [371336-the-legend-of-the-sacred-stone-ex.json](./371336-the-legend-of-the-sacred-stone-ex.json) |
@@ -14883,6 +14884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | To the End of the Way | 327432 | [327432-to-the-end-of-the-way.json](./327432-to-the-end-of-the-way.json) |
 | To the Finale. | 373713 | [373713-to-the-finale.json](./373713-to-the-finale.json) |
 | To The Grave: The Hunters of Faenora | 358385 | [358385-to-the-grave-the-hunters-of-faenora.json](./358385-to-the-grave-the-hunters-of-faenora.json) |
+| To The Grave: The Wildlands of Faenora | 307976 | [307976-to-the-grave-the-wildlands-of-faenora.json](./307976-to-the-grave-the-wildlands-of-faenora.json) |
 | To the HeIghts of My Heart | 178044 | [178044-to-the-heights-of-my-heart.json](./178044-to-the-heights-of-my-heart.json) |
 | To the Home | 405478 | [405478-to-the-home.json](./405478-to-the-home.json) |
 | To the Kingdom | 352287 | [352287-to-the-kingdom.json](./352287-to-the-kingdom.json) |
@@ -16246,6 +16248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touch Melo | 312904 | [312904-touch-melo.json](./312904-touch-melo.json) |
 | Touch My Katamari | 6462 | [6462-touch-my-katamari.json](./6462-touch-my-katamari.json) |
 | Touch My Spinner | 61618 | [61618-touch-my-spinner.json](./61618-touch-my-spinner.json) |
+| Touch of Madness | 307880 | [307880-touch-of-madness.json](./307880-touch-of-madness.json) |
 | Touch Pets: Dogs | 67947 | [67947-touch-pets-dogs.json](./67947-touch-pets-dogs.json) |
 | Touch Point Tennis | 249248 | [249248-touch-point-tennis.json](./249248-touch-point-tennis.json) |
 | Touch Racing Nitro | 42843 | [42843-touch-racing-nitro.json](./42843-touch-racing-nitro.json) |
