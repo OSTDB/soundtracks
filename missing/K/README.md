@@ -759,6 +759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kattespill | 177950 | [177950-kattespill.json](./177950-kattespill.json) |
 | Kattish | 218726 | [218726-kattish.json](./218726-kattish.json) |
 | Katto | 102966 | [102966-katto.json](./102966-katto.json) |
+| Katto: Rising Tides | 315224 | [315224-katto-rising-tides.json](./315224-katto-rising-tides.json) |
 | Kattobi Tune | 214618 | [214618-kattobi-tune.json](./214618-kattobi-tune.json) |
 | Kattobi! Takuhai Kun | 37682 | [37682-kattobi-takuhai-kun.json](./37682-kattobi-takuhai-kun.json) |
 | Kattobi! Warabe Ji | 63296 | [63296-kattobi-warabe-ji.json](./63296-kattobi-warabe-ji.json) |
