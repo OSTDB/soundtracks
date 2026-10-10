@@ -30,6 +30,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | B-Line | 370237 | [370237-b-line.json](./370237-b-line.json) |
 | B-Prison Unchain | 410418 | [410418-b-prison-unchain.json](./410418-b-prison-unchain.json) |
 | B-Rabbit | 117482 | [117482-b-rabbit.json](./117482-b-rabbit.json) |
+| B-Rain | 286443 | [286443-b-rain.json](./286443-b-rain.json) |
 | B-Sides | 183582 | [183582-b-sides.json](./183582-b-sides.json) |
 | B-Wings | 273080 | [273080-b-wings.json](./273080-b-wings.json) |
 | B. Braun Future Operating Room | 30686 | [30686-b-braun-future-operating-room.json](./30686-b-braun-future-operating-room.json) |
