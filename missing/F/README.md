@@ -2528,6 +2528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fever Frenzy | 209420 | [209420-fever-frenzy.json](./209420-fever-frenzy.json) |
 | Fevered Fantasy | 392308 | [392308-fevered-fantasy.json](./392308-fevered-fantasy.json) |
 | Few Nights More | 147351 | [147351-few-nights-more.json](./147351-few-nights-more.json) |
+| Few Nights More: Genesis | 278940 | [278940-few-nights-more-genesis.json](./278940-few-nights-more-genesis.json) |
 | Few Shall Return | 337777 | [337777-few-shall-return.json](./337777-few-shall-return.json) |
 | Fey | 388975 | [388975-fey.json](./388975-fey.json) |
 | Fey: Distant Daydream | 189201 | [189201-fey-distant-daydream.json](./189201-fey-distant-daydream.json) |
@@ -3549,6 +3550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Finis Actus | 389730 | [389730-finis-actus.json](./389730-finis-actus.json) |
 | Finished! | 249765 | [249765-finished.json](./249765-finished.json) |
 | Finite Jest | 415925 | [415925-finite-jest.json](./415925-finite-jest.json) |
+| Finite State Automaton Challenges 2 | 278926 | [278926-finite-state-automaton-challenges-2.json](./278926-finite-state-automaton-challenges-2.json) |
 | Finity | 322936 | [322936-finity.json](./322936-finity.json) |
 | Finkles World | 66947 | [66947-finkles-world.json](./66947-finkles-world.json) |
 | Finland Corruption Simulator: World Corruption | 294073 | [294073-finland-corruption-simulator-world-corruption.json](./294073-finland-corruption-simulator-world-corruption.json) |
