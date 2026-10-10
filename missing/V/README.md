@@ -1234,6 +1234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vidalia's Adventure | 360502 | [360502-vidalias-adventure.json](./360502-vidalias-adventure.json) |
 | Vidar | 27191 | [27191-vidar.json](./27191-vidar.json) |
 | Video 8 Ball | 252115 | [252115-video-8-ball.json](./252115-video-8-ball.json) |
+| Video Art Activity Cartridge | 290319 | [290319-video-art-activity-cartridge.json](./290319-video-art-activity-cartridge.json) |
 | Video Casino Games | 137099 | [137099-video-casino-games.json](./137099-video-casino-games.json) |
 | Video Checkers | 18003 | [18003-video-checkers.json](./18003-video-checkers.json) |
 | Video Chess | 18004 | [18004-video-chess.json](./18004-video-chess.json) |
