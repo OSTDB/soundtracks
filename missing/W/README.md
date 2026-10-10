@@ -5138,6 +5138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Poker Tour | 23148 | [23148-world-poker-tour.json](./23148-world-poker-tour.json) |
 | World Poker Tour: Texas Hold 'Em | 85498 | [85498-world-poker-tour-texas-hold-em.json](./85498-world-poker-tour-texas-hold-em.json) |
 | World Pole Gaiden Rise! Mark of the Deck 2: Sanguine & Melancholia | 278461 | [278461-world-pole-gaiden-rise-mark-of-the-deck-2-sanguine-and-melancholia.json](./278461-world-pole-gaiden-rise-mark-of-the-deck-2-sanguine-and-melancholia.json) |
+| World Pole Stone Dusk: Diadem of the Pole | 327904 | [327904-world-pole-stone-dusk-diadem-of-the-pole.json](./327904-world-pole-stone-dusk-diadem-of-the-pole.json) |
 | World Process | 156600 | [156600-world-process.json](./156600-world-process.json) |
 | World Quest | 265764 | [265764-world-quest.json](./265764-world-quest.json) |
 | World Quiz | 153018 | [153018-world-quiz.json](./153018-world-quiz.json) |
