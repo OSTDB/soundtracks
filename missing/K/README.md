@@ -706,6 +706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Katakoi Contrast: Way of Parting Vol.2 | 240475 | [240475-katakoi-contrast-way-of-parting-vol-2.json](./240475-katakoi-contrast-way-of-parting-vol-2.json) |
 | Katakoi Contrast: Way of Parting Vol.3 | 240477 | [240477-katakoi-contrast-way-of-parting-vol-3.json](./240477-katakoi-contrast-way-of-parting-vol-3.json) |
 | Katalyst | 163959 | [163959-katalyst.json](./163959-katalyst.json) |
+| Katamar1k | 284302 | [284302-katamar1k.json](./284302-katamar1k.json) |
 | Katamari Damacy Mobile | 243426 | [243426-katamari-damacy-mobile.json](./243426-katamari-damacy-mobile.json) |
 | Katamari Forever | 6459 | [6459-katamari-forever.json](./6459-katamari-forever.json) |
 | Katamari Online | 68242 | [68242-katamari-online.json](./68242-katamari-online.json) |
