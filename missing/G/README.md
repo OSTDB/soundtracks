@@ -2283,6 +2283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Jukebox | 357189 | [357189-ghost-jukebox.json](./357189-ghost-jukebox.json) |
 | Ghost Jumper: Red Hoodie | 315280 | [315280-ghost-jumper-red-hoodie.json](./315280-ghost-jumper-red-hoodie.json) |
 | Ghost Keeper | 312187 | [312187-ghost-keeper.json](./312187-ghost-keeper.json) |
+| Ghost legend | 289251 | [289251-ghost-legend.json](./289251-ghost-legend.json) |
 | Ghost Light | 310020 | [310020-ghost-light.json](./310020-ghost-light.json) |
 | Ghost Manor | 79976 | [79976-ghost-manor.json](./79976-ghost-manor.json) |
 | Ghost Marine Shooter Pro | 87536 | [87536-ghost-marine-shooter-pro.json](./87536-ghost-marine-shooter-pro.json) |
@@ -3168,6 +3169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glyphscape | 349401 | [349401-glyphscape.json](./349401-glyphscape.json) |
 | Glyphwing: World Geography | 417444 | [417444-glyphwing-world-geography.json](./417444-glyphwing-world-geography.json) |
 | GM Forge - Virtual Tabletop | 100570 | [100570-gm-forge-virtual-tabletop.json](./100570-gm-forge-virtual-tabletop.json) |
+| GMH: Good Morning Human! | 289246 | [289246-gmh-good-morning-human.json](./289246-gmh-good-morning-human.json) |
 | Gnarbike Trials 2 | 284489 | [284489-gnarbike-trials-2.json](./284489-gnarbike-trials-2.json) |
 | Gnaughty Gnomes | 346030 | [346030-gnaughty-gnomes.json](./346030-gnaughty-gnomes.json) |
 | Gnaw | 372037 | [372037-gnaw.json](./372037-gnaw.json) |
@@ -6364,6 +6366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gulper.Io | 191708 | [191708-gulper-io.json](./191708-gulper-io.json) |
 | Gulu | 48011 | [48011-gulu.json](./48011-gulu.json) |
 | Gulu: A Tail's Journey | 215354 | [215354-gulu-a-tails-journey.json](./215354-gulu-a-tails-journey.json) |
+| GuluGuluLand 3D | 289238 | [289238-gulugululand-3d.json](./289238-gulugululand-3d.json) |
 | Gum Droppers | 140608 | [140608-gum-droppers.json](./140608-gum-droppers.json) |
 | Gum Flesh | 311990 | [311990-gum-flesh.json](./311990-gum-flesh.json) |
 | Gum Girl | 181847 | [181847-gum-girl.json](./181847-gum-girl.json) |
