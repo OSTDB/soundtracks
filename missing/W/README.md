@@ -2080,6 +2080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Welcome, Get Out! | 269196 | [269196-welcome-get-out.json](./269196-welcome-get-out.json) |
 | Welcome, Sharehouse! | 347369 | [347369-welcome-sharehouse.json](./347369-welcome-sharehouse.json) |
 | Welcome! Uninvited Guest | 338859 | [338859-welcome-uninvited-guest.json](./338859-welcome-uninvited-guest.json) |
+| Weldiver | 321634 | [321634-weldiver.json](./321634-weldiver.json) |
 | Weldon | 175888 | [175888-weldon.json](./175888-weldon.json) |
 | Welehola | 378355 | [378355-welehola.json](./378355-welehola.json) |
 | Welkin Road | 18684 | [18684-welkin-road.json](./18684-welkin-road.json) |
