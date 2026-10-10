@@ -10928,6 +10928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crushing Blow | 55525 | [55525-crushing-blow.json](./55525-crushing-blow.json) |
 | Crushing Depths | 392473 | [392473-crushing-depths.json](./392473-crushing-depths.json) |
 | Crushing on the Clock | 376461 | [376461-crushing-on-the-clock.json](./376461-crushing-on-the-clock.json) |
+| Crust Shump | 321042 | [321042-crust-shump.json](./321042-crust-shump.json) |
 | Crustacean Frustration | 395021 | [395021-crustacean-frustration.json](./395021-crustacean-frustration.json) |
 | Crustacean Nations | 211254 | [211254-crustacean-nations.json](./211254-crustacean-nations.json) |
 | Crusty Demons | 20537 | [20537-crusty-demons.json](./20537-crusty-demons.json) |
