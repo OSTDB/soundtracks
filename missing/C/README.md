@@ -26,6 +26,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | C.A.R.L. | 201711 | [201711-c-a-r-l.json](./201711-c-a-r-l.json) |
 | C.A.R.S: Creating A Ridiculous Shitshow | 386931 | [386931-c-a-r-s-creating-a-ridiculous-shitshow.json](./386931-c-a-r-s-creating-a-ridiculous-shitshow.json) |
 | C.A.S.T | 133187 | [133187-c-a-s-t.json](./133187-c-a-s-t.json) |
+| C.A.S.T | 327463 | [327463-c-a-s-t.json](./327463-c-a-s-t.json) |
 | C.A.T.: Cyber Attack Team | 5762 | [5762-c-a-t-cyber-attack-team.json](./5762-c-a-t-cyber-attack-team.json) |
 | C.A.T.S.: Carefully Attempting Not to Screw Up | 120743 | [120743-c-a-t-s-carefully-attempting-not-to-screw-up.json](./120743-c-a-t-s-carefully-attempting-not-to-screw-up.json) |
 | C.E.O. | 19793 | [19793-c-e-o.json](./19793-c-e-o.json) |
@@ -2363,6 +2364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat-Ptured | 336159 | [336159-cat-ptured.json](./336159-cat-ptured.json) |
 | Cat-up! | 395769 | [395769-cat-up.json](./395769-cat-up.json) |
 | Cat'n'Robot: Idle Defense | 174912 | [174912-catnrobot-idle-defense.json](./174912-catnrobot-idle-defense.json) |
+| Cat’s Catch | 327248 | [327248-cat-s-catch.json](./327248-cat-s-catch.json) |
 | Cat's Cosmic Atlas | 258012 | [258012-cats-cosmic-atlas.json](./258012-cats-cosmic-atlas.json) |
 | Cat's Cosmic Atlas: Definitive Edition | 288286 | [288286-cats-cosmic-atlas-definitive-edition.json](./288286-cats-cosmic-atlas-definitive-edition.json) |
 | Cat's Cosmic Atlas: Premium Edition | 286212 | [286212-cats-cosmic-atlas-premium-edition.json](./286212-cats-cosmic-atlas-premium-edition.json) |
@@ -5094,6 +5096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cigarette Quest | 229829 | [229829-cigarette-quest.json](./229829-cigarette-quest.json) |
 | Ciggy World | 314299 | [314299-ciggy-world.json](./314299-ciggy-world.json) |
 | Cǐkè Tànsuǒ Zhōng | 156705 | [156705-cike-tansuo-zhong.json](./156705-cike-tansuo-zhong.json) |
+| Cinco Noches en Casa Rosada | 327222 | [327222-cinco-noches-en-casa-rosada.json](./327222-cinco-noches-en-casa-rosada.json) |
 | Cinco Noches en Casa Rosada 2 | 353900 | [353900-cinco-noches-en-casa-rosada-2.json](./353900-cinco-noches-en-casa-rosada-2.json) |
 | Cinco Noches en Casa Rosada 3 | 376680 | [376680-cinco-noches-en-casa-rosada-3.json](./376680-cinco-noches-en-casa-rosada-3.json) |
 | Cinco Paus | 83157 | [83157-cinco-paus.json](./83157-cinco-paus.json) |
