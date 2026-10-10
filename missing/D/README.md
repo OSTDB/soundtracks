@@ -3311,6 +3311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defender of Freedom | 65734 | [65734-defender-of-freedom.json](./65734-defender-of-freedom.json) |
 | Defender of RON | 71174 | [71174-defender-of-ron.json](./71174-defender-of-ron.json) |
 | Defender of the Crown | 1873 | [1873-defender-of-the-crown.json](./1873-defender-of-the-crown.json) |
+| Defender of the Crown | 328950 | [328950-defender-of-the-crown.json](./328950-defender-of-the-crown.json) |
 | Defender of the Crown | 335821 | [335821-defender-of-the-crown.json](./335821-defender-of-the-crown.json) |
 | Defender of the Crown: Digitally Remastered Edition | 170339 | [170339-defender-of-the-crown-digitally-remastered-edition.json](./170339-defender-of-the-crown-digitally-remastered-edition.json) |
 | Defender of the Favicon | 201095 | [201095-defender-of-the-favicon.json](./201095-defender-of-the-favicon.json) |
@@ -4937,6 +4938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diablo IV: Season of Hatred Rising | 314387 | [314387-diablo-iv-season-of-hatred-rising.json](./314387-diablo-iv-season-of-hatred-rising.json) |
 | Diablo IV: Season of Infernal Chaos | 372053 | [372053-diablo-iv-season-of-infernal-chaos.json](./372053-diablo-iv-season-of-infernal-chaos.json) |
 | Diablo IV: Season of the Infernal Hordes | 312216 | [312216-diablo-iv-season-of-the-infernal-hordes.json](./312216-diablo-iv-season-of-the-infernal-hordes.json) |
+| Diablo IV: Season of Witchcraft | 328937 | [328937-diablo-iv-season-of-witchcraft.json](./328937-diablo-iv-season-of-witchcraft.json) |
 | Diablo IV: Sins of the Horadrim | 352222 | [352222-diablo-iv-sins-of-the-horadrim.json](./352222-diablo-iv-sins-of-the-horadrim.json) |
 | Diablo IV: Ultimate Edition | 249742 | [249742-diablo-iv-ultimate-edition.json](./249742-diablo-iv-ultimate-edition.json) |
 | Diablo IV: Vessel of Hatred | 275171 | [275171-diablo-iv-vessel-of-hatred.json](./275171-diablo-iv-vessel-of-hatred.json) |
@@ -9605,6 +9607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamers Disease | 291453 | [291453-dreamers-disease.json](./291453-dreamers-disease.json) |
 | Dreamers: A Nostalgic Adventure | 274441 | [274441-dreamers-a-nostalgic-adventure.json](./274441-dreamers-a-nostalgic-adventure.json) |
 | Dreamescape | 180063 | [180063-dreamescape.json](./180063-dreamescape.json) |
+| DreamEscape | 328960 | [328960-dreamescape.json](./328960-dreamescape.json) |
 | Dreamfall: The Longest Journey | 1961 | [1961-dreamfall-the-longest-journey.json](./1961-dreamfall-the-longest-journey.json) |
 | Dreamfarer | 123001 | [123001-dreamfarer.json](./123001-dreamfarer.json) |
 | Dreamfear | 414140 | [414140-dreamfear.json](./414140-dreamfear.json) |
