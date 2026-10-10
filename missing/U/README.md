@@ -672,6 +672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultrawings Flat | 113038 | [113038-ultrawings-flat.json](./113038-ultrawings-flat.json) |
 | Ultraworld Exodus | 36184 | [36184-ultraworld-exodus.json](./36184-ultraworld-exodus.json) |
 | Ultrazone | 268223 | [268223-ultrazone.json](./268223-ultrazone.json) |
+| Ultreia: Enhanced Edition | 316384 | [316384-ultreia-enhanced-edition.json](./316384-ultreia-enhanced-edition.json) |
 | Ultris: The Ultimate Tetris | 14520 | [14520-ultris-the-ultimate-tetris.json](./14520-ultris-the-ultimate-tetris.json) |
 | Ultron | 57133 | [57133-ultron.json](./57133-ultron.json) |
 | Ultrono Arena | 94211 | [94211-ultrono-arena.json](./94211-ultrono-arena.json) |
