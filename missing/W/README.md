@@ -2899,6 +2899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | White Coat, Red Hands | 415479 | [415479-white-coat-red-hands.json](./415479-white-coat-red-hands.json) |
 | White Dandelion | 158698 | [158698-white-dandelion.json](./158698-white-dandelion.json) |
 | White Day 2: Swan Song | 55020 | [55020-white-day-2-swan-song.json](./55020-white-day-2-swan-song.json) |
+| White Day 2: The Flower That Tells Lies - Complete Edition | 287049 | [287049-white-day-2-the-flower-that-tells-lies-complete-edition.json](./287049-white-day-2-the-flower-that-tells-lies-complete-edition.json) |
 | White Day 2: The Flower That Tells Lies - Ep.2 | 248335 | [248335-white-day-2-the-flower-that-tells-lies-ep-2.json](./248335-white-day-2-the-flower-that-tells-lies-ep-2.json) |
 | White Desert | 256973 | [256973-white-desert.json](./256973-white-desert.json) |
 | White Eternal | 314870 | [314870-white-eternal.json](./314870-white-eternal.json) |
