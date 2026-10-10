@@ -3589,6 +3589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mathle | 363038 | [363038-mathle.json](./363038-mathle.json) |
 | Mathletics | 358243 | [358243-mathletics.json](./358243-mathletics.json) |
 | Mathletix | 188434 | [188434-mathletix.json](./188434-mathletix.json) |
+| Mathmaria | 294052 | [294052-mathmaria.json](./294052-mathmaria.json) |
 | Mathmateer | 396760 | [396760-mathmateer.json](./396760-mathmateer.json) |
 | Mathomatics | 190215 | [190215-mathomatics.json](./190215-mathomatics.json) |
 | Mathooze - The Math Puzzle Game! | 24964 | [24964-mathooze-the-math-puzzle-game.json](./24964-mathooze-the-math-puzzle-game.json) |
@@ -7425,6 +7426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mine Defense | 412313 | [412313-mine-defense.json](./412313-mine-defense.json) |
 | Mine Empire | 404432 | [404432-mine-empire.json](./404432-mine-empire.json) |
 | Mine Escape | 409713 | [409713-mine-escape.json](./409713-mine-escape.json) |
+| Mine Factory | 294039 | [294039-mine-factory.json](./294039-mine-factory.json) |
 | Mine From Here | 352845 | [352845-mine-from-here.json](./352845-mine-from-here.json) |
 | Mine Hunter | 231918 | [231918-mine-hunter.json](./231918-mine-hunter.json) |
 | Mine Make Escape | 347745 | [347745-mine-make-escape.json](./347745-mine-make-escape.json) |
@@ -8517,6 +8519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mister Easter | 246470 | [246470-mister-easter.json](./246470-mister-easter.json) |
 | Mister Fruit Joy | 137676 | [137676-mister-fruit-joy.json](./137676-mister-fruit-joy.json) |
 | Mister Furry | 236788 | [236788-mister-furry.json](./236788-mister-furry.json) |
+| Mister Furry: Hot Muscles | 294031 | [294031-mister-furry-hot-muscles.json](./294031-mister-furry-hot-muscles.json) |
 | Mister Gas | 272457 | [272457-mister-gas.json](./272457-mister-gas.json) |
 | Mister Gato Idle: The Meowsiah | 348250 | [348250-mister-gato-idle-the-meowsiah.json](./348250-mister-gato-idle-the-meowsiah.json) |
 | Mister Mosquito | 8966 | [8966-mister-mosquito.json](./8966-mister-mosquito.json) |
