@@ -1776,6 +1776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oni V: Innin no Tsugumono | 63369 | [63369-oni-v-innin-no-tsugumono.json](./63369-oni-v-innin-no-tsugumono.json) |
 | Oni Zero: Fukkatsu | 166563 | [166563-oni-zero-fukkatsu.json](./166563-oni-zero-fukkatsu.json) |
 | Oni: Road to be the Mightiest Oni | 194944 | [194944-oni-road-to-be-the-mightiest-oni.json](./194944-oni-road-to-be-the-mightiest-oni.json) |
+| Oni's Tale | 323431 | [323431-onis-tale.json](./323431-onis-tale.json) |
 | Onibito Kiki | 324857 | [324857-onibito-kiki.json](./324857-onibito-kiki.json) |
 | Onigami | 184562 | [184562-onigami.json](./184562-onigami.json) |
 | Onigami Korinden Oni | 67612 | [67612-onigami-korinden-oni.json](./67612-onigami-korinden-oni.json) |
