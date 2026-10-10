@@ -1337,6 +1337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Card Hunter | 17231 | [17231-card-hunter.json](./17231-card-hunter.json) |
 | Card Killer | 158089 | [158089-card-killer.json](./158089-card-killer.json) |
 | Card Lords | 251203 | [251203-card-lords.json](./251203-card-lords.json) |
+| Card Master | 284294 | [284294-card-master.json](./284294-card-master.json) |
 | Card Miner | 295650 | [295650-card-miner.json](./295650-card-miner.json) |
 | Card Party | 49520 | [49520-card-party.json](./49520-card-party.json) |
 | Card Princess | 335330 | [335330-card-princess.json](./335330-card-princess.json) |
@@ -5719,6 +5720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Civitas | 187380 | [187380-civitas.json](./187380-civitas.json) |
 | Civizard: Majutsu no Keifu | 66211 | [66211-civizard-majutsu-no-keifu.json](./66211-civizard-majutsu-no-keifu.json) |
 | CivRise | 348459 | [348459-civrise.json](./348459-civrise.json) |
+| Ciying | 284265 | [284265-ciying.json](./284265-ciying.json) |
 | CJ Dreams | 263226 | [263226-cj-dreams.json](./263226-cj-dreams.json) |
 | CKZ Origins | 87164 | [87164-ckz-origins.json](./87164-ckz-origins.json) |
 | Clad in Iron Chincha Islands 1866 | 226304 | [226304-clad-in-iron-chincha-islands-1866.json](./226304-clad-in-iron-chincha-islands-1866.json) |
@@ -6055,6 +6057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cleimos | 260945 | [260945-cleimos.json](./260945-cleimos.json) |
 | Cleimos II | 260946 | [260946-cleimos-ii.json](./260946-cleimos-ii.json) |
 | Clem | 203449 | [203449-clem.json](./203449-clem.json) |
+| Clency and Livia | 284293 | [284293-clency-and-livia.json](./284293-clency-and-livia.json) |
 | Cleo: A Pirate's Tale - Deluxe Edition | 186887 | [186887-cleo-a-pirates-tale-deluxe-edition.json](./186887-cleo-a-pirates-tale-deluxe-edition.json) |
 | Cleopatra Fortune: S-Tribute | 225886 | [225886-cleopatra-fortune-s-tribute.json](./225886-cleopatra-fortune-s-tribute.json) |
 | Cleopatra no Mahou | 41328 | [41328-cleopatra-no-mahou.json](./41328-cleopatra-no-mahou.json) |
@@ -8433,6 +8436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Contra | 217544 | [217544-contra.json](./217544-contra.json) |
 | Contra 4 | 9545 | [9545-contra-4.json](./9545-contra-4.json) |
 | Contra Advance: The Alien Wars EX | 49158 | [49158-contra-advance-the-alien-wars-ex.json](./49158-contra-advance-the-alien-wars-ex.json) |
+| Contra Demake | 284299 | [284299-contra-demake.json](./284299-contra-demake.json) |
 | Contra Force | 24978 | [24978-contra-force.json](./24978-contra-force.json) |
 | Contra Online | 306610 | [306610-contra-online.json](./306610-contra-online.json) |
 | Contra Returns | 174697 | [174697-contra-returns.json](./174697-contra-returns.json) |
