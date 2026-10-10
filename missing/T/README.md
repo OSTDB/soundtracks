@@ -10146,6 +10146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Silence Outside | 75928 | [75928-the-silence-outside.json](./75928-the-silence-outside.json) |
 | The Silence: Deep Sleep | 412889 | [412889-the-silence-deep-sleep.json](./412889-the-silence-deep-sleep.json) |
 | The Silent Age | 11444 | [11444-the-silent-age.json](./11444-the-silent-age.json) |
+| The Silent Bells | 292407 | [292407-the-silent-bells.json](./292407-the-silent-bells.json) |
 | The Silent Cartographer: Evolved | 375319 | [375319-the-silent-cartographer-evolved.json](./375319-the-silent-cartographer-evolved.json) |
 | The Silent Expedition Echo Protocol | 407468 | [407468-the-silent-expedition-echo-protocol.json](./407468-the-silent-expedition-echo-protocol.json) |
 | The Silent Forests | 289964 | [289964-the-silent-forests.json](./289964-the-silent-forests.json) |
@@ -11436,6 +11437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Unknown City (Episode 1) | 105987 | [105987-the-unknown-city-episode-1.json](./105987-the-unknown-city-episode-1.json) |
 | The Unknown Force | 179580 | [179580-the-unknown-force.json](./179580-the-unknown-force.json) |
 | The Unknown Planet | 270684 | [270684-the-unknown-planet.json](./270684-the-unknown-planet.json) |
+| The Unknown Strain | 292444 | [292444-the-unknown-strain.json](./292444-the-unknown-strain.json) |
 | The Unlife of Gorlak | 271391 | [271391-the-unlife-of-gorlak.json](./271391-the-unlife-of-gorlak.json) |
 | The Unlit Sun | 336737 | [336737-the-unlit-sun.json](./336737-the-unlit-sun.json) |
 | The UnMaking | 191722 | [191722-the-unmaking.json](./191722-the-unmaking.json) |
@@ -14850,6 +14852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tkl Online | 36106 | [36106-tkl-online.json](./36106-tkl-online.json) |
 | TKO | 78914 | [78914-tko.json](./78914-tko.json) |
 | Tlatoani | 319114 | [319114-tlatoani.json](./319114-tlatoani.json) |
+| TLC Game BR | 292449 | [292449-tlc-game-br.json](./292449-tlc-game-br.json) |
 | Tlen Kray | 256810 | [256810-tlen-kray.json](./256810-tlen-kray.json) |
 | Tlicolity Eyes Vol. 1 | 116379 | [116379-tlicolity-eyes-vol-1.json](./116379-tlicolity-eyes-vol-1.json) |
 | Tlicolity Eyes Vol. 2 | 240520 | [240520-tlicolity-eyes-vol-2.json](./240520-tlicolity-eyes-vol-2.json) |
@@ -16063,6 +16066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Torrential | 232957 | [232957-torrential.json](./232957-torrential.json) |
 | Torres | 94251 | [94251-torres.json](./94251-torres.json) |
 | Torshtra Minkan Setsuwashuu yori: Kokuou no Musume | 386111 | [386111-torshtra-minkan-setsuwashuu-yori-kokuou-no-musume.json](./386111-torshtra-minkan-setsuwashuu-yori-kokuou-no-musume.json) |
+| Torso Tennis | 292429 | [292429-torso-tennis.json](./292429-torso-tennis.json) |
 | Tortuga Bay | 92987 | [92987-tortuga-bay.json](./92987-tortuga-bay.json) |
 | Tortuga Escape | 383371 | [383371-tortuga-escape.json](./383371-tortuga-escape.json) |
 | Tortuga: A Pirate's Tale | 214399 | [214399-tortuga-a-pirates-tale.json](./214399-tortuga-a-pirates-tale.json) |
@@ -17095,6 +17099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toybox Tussle | 383076 | [383076-toybox-tussle.json](./383076-toybox-tussle.json) |
 | ToyBoxers! | 403180 | [403180-toyboxers.json](./403180-toyboxers.json) |
 | ToyCamp | 384507 | [384507-toycamp.json](./384507-toycamp.json) |
+| Toyful Wonderworld | 292453 | [292453-toyful-wonderworld.json](./292453-toyful-wonderworld.json) |
 | Toyland Racing | 73764 | [73764-toyland-racing.json](./73764-toyland-racing.json) |
 | Toyland Tussle | 352375 | [352375-toyland-tussle.json](./352375-toyland-tussle.json) |
 | Toymaker | 10941 | [10941-toymaker.json](./10941-toymaker.json) |
