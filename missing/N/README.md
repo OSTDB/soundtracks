@@ -1700,6 +1700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nerl's Crazy C"rough"t! | 311598 | [311598-nerls-crazy-c-rough-t.json](./311598-nerls-crazy-c-rough-t.json) |
 | Nero | 156570 | [156570-nero.json](./156570-nero.json) |
 | NERO: Neuro-Evolving Robotic Operatives | 7616 | [7616-nero-neuro-evolving-robotic-operatives.json](./7616-nero-neuro-evolving-robotic-operatives.json) |
+| Nerobi | 300485 | [300485-nerobi.json](./300485-nerobi.json) |
 | Nerraia | 192270 | [192270-nerraia.json](./192270-nerraia.json) |
 | Nerts Extreme | 107660 | [107660-nerts-extreme.json](./107660-nerts-extreme.json) |
 | Nerts!: Online | 142226 | [142226-nerts-online.json](./142226-nerts-online.json) |
@@ -3316,6 +3317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninku Dai-ni-Tama: Ninku Sensou-hen | 60537 | [60537-ninku-dai-ni-tama-ninku-sensou-hen.json](./60537-ninku-dai-ni-tama-ninku-sensou-hen.json) |
 | Ninku Gaiden: Hiroyuki Daikatsugeki | 45254 | [45254-ninku-gaiden-hiroyuki-daikatsugeki.json](./45254-ninku-gaiden-hiroyuki-daikatsugeki.json) |
 | Ninku: Tsuyokina Yatsura no Daigekitotsu! | 60536 | [60536-ninku-tsuyokina-yatsura-no-daigekitotsu.json](./60536-ninku-tsuyokina-yatsura-no-daigekitotsu.json) |
+| Ninkyo Dantai | 300496 | [300496-ninkyo-dantai.json](./300496-ninkyo-dantai.json) |
 | NinMaki | 149942 | [149942-ninmaki.json](./149942-ninmaki.json) |
 | NinNinDays 2 | 230799 | [230799-ninnindays-2.json](./230799-ninnindays-2.json) |
 | NinNinDays2 | 186695 | [186695-ninnindays2.json](./186695-ninnindays2.json) |
