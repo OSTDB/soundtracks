@@ -35,6 +35,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Z-Factor | 305933 | [305933-z-factor.json](./305933-z-factor.json) |
 | Z-Grav: Clash | 263222 | [263222-z-grav-clash.json](./263222-z-grav-clash.json) |
 | Z-Lestial | 395894 | [395894-z-lestial.json](./395894-z-lestial.json) |
+| Z-Man | 284305 | [284305-z-man.json](./284305-z-man.json) |
 | Z-MMO | 55919 | [55919-z-mmo.json](./55919-z-mmo.json) |
 | Z-Rush Survival | 191818 | [191818-z-rush-survival.json](./191818-z-rush-survival.json) |
 | Z-Warp | 192278 | [192278-z-warp.json](./192278-z-warp.json) |
@@ -1139,6 +1140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Warz | 238459 | [238459-zombie-warz.json](./238459-zombie-warz.json) |
 | Zombie Watch Part II | 241629 | [241629-zombie-watch-part-ii.json](./241629-zombie-watch-part-ii.json) |
 | Zombie Woods | 283859 | [283859-zombie-woods.json](./283859-zombie-woods.json) |
+| Zombie World | 284283 | [284283-zombie-world.json](./284283-zombie-world.json) |
 | Zombie World | 93791 | [93791-zombie-world.json](./93791-zombie-world.json) |
 | Zombie Zombie | 316091 | [316091-zombie-zombie.json](./316091-zombie-zombie.json) |
 | Zombie Zone | 72157 | [72157-zombie-zone.json](./72157-zombie-zone.json) |
