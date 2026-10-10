@@ -1750,6 +1750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Day of the Infected | 112510 | [112510-day-of-the-infected.json](./112510-day-of-the-infected.json) |
 | Day of the Rising Dead | 349885 | [349885-day-of-the-rising-dead.json](./349885-day-of-the-rising-dead.json) |
 | Day of the Shell | 215537 | [215537-day-of-the-shell.json](./215537-day-of-the-shell.json) |
+| Day Of The Tank | 292999 | [292999-day-of-the-tank.json](./292999-day-of-the-tank.json) |
 | Day of the Toys | 264077 | [264077-day-of-the-toys.json](./264077-day-of-the-toys.json) |
 | Day of the Undead | 360728 | [360728-day-of-the-undead.json](./360728-day-of-the-undead.json) |
 | Day of the Viper | 12039 | [12039-day-of-the-viper.json](./12039-day-of-the-viper.json) |
@@ -4699,6 +4700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detective_Psychic | 103182 | [103182-detective-psychic.json](./103182-detective-psychic.json) |
 | Detective: Minerva Case | 275334 | [275334-detective-minerva-case.json](./275334-detective-minerva-case.json) |
 | Detective: Scene Crime | 358219 | [358219-detective-scene-crime.json](./358219-detective-scene-crime.json) |
+| Detective: The Motel | 292988 | [292988-detective-the-motel.json](./292988-detective-the-motel.json) |
 | Detective: The Mountain City | 203951 | [203951-detective-the-mountain-city.json](./203951-detective-the-mountain-city.json) |
 | Detective: The Test | 336114 | [336114-detective-the-test.json](./336114-detective-the-test.json) |
 | Detectiveland | 57516 | [57516-detectiveland.json](./57516-detectiveland.json) |
@@ -10605,6 +10607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dude The Dark Agent | 399691 | [399691-dude-the-dark-agent.json](./399691-dude-the-dark-agent.json) |
 | Dude Theft Wars | 96569 | [96569-dude-theft-wars.json](./96569-dude-theft-wars.json) |
 | Dude World | 59918 | [59918-dude-world.json](./59918-dude-world.json) |
+| DudeGo | 292967 | [292967-dudego.json](./292967-dudego.json) |
 | Dudeology 1 | 234730 | [234730-dudeology-1.json](./234730-dudeology-1.json) |
 | Dudes with Attitude | 48063 | [48063-dudes-with-attitude.json](./48063-dudes-with-attitude.json) |
 | Dudu Monkey | 165077 | [165077-dudu-monkey.json](./165077-dudu-monkey.json) |
