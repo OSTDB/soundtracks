@@ -2822,6 +2822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Give It Up! 3 | 260897 | [260897-give-it-up-3.json](./260897-give-it-up-3.json) |
 | Give It Up! Bouncy | 147354 | [147354-give-it-up-bouncy.json](./147354-give-it-up-bouncy.json) |
 | Give It Up! Plus | 114160 | [114160-give-it-up-plus.json](./114160-give-it-up-plus.json) |
+| Give Me All Your Love | 282520 | [282520-give-me-all-your-love.json](./282520-give-me-all-your-love.json) |
 | Give Me Clair Back | 290944 | [290944-give-me-clair-back.json](./290944-give-me-clair-back.json) |
 | Give Me Strength | 165563 | [165563-give-me-strength.json](./165563-give-me-strength.json) |
 | Give Me Toilet Paper! | 240369 | [240369-give-me-toilet-paper.json](./240369-give-me-toilet-paper.json) |
