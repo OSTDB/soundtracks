@@ -540,6 +540,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Off the Table | 174327 | [174327-off-the-table.json](./174327-off-the-table.json) |
 | Off the Text | 372680 | [372680-off-the-text.json](./372680-off-the-text.json) |
 | Off the Wall | 12894 | [12894-off-the-wall.json](./12894-off-the-wall.json) |
+| Off the Wall | 282504 | [282504-off-the-wall.json](./282504-off-the-wall.json) |
+| Off the Wall | 282505 | [282505-off-the-wall.json](./282505-off-the-wall.json) |
 | Off the Wall | 333931 | [333931-off-the-wall.json](./333931-off-the-wall.json) |
 | Off to Europe | 112212 | [112212-off-to-europe.json](./112212-off-to-europe.json) |
 | Off to Sleep | 222930 | [222930-off-to-sleep.json](./222930-off-to-sleep.json) |
@@ -2728,6 +2730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oshi no Ko Match Star | 331864 | [331864-oshi-no-ko-match-star.json](./331864-oshi-no-ko-match-star.json) |
 | Oshi to Hanaseru! Hangul Kiso Phrase | 276468 | [276468-oshi-to-hanaseru-hangul-kiso-phrase.json](./276468-oshi-to-hanaseru-hangul-kiso-phrase.json) |
 | Oshidashi Zintrick | 130369 | [130369-oshidashi-zintrick.json](./130369-oshidashi-zintrick.json) |
+| Oshidashi Zintrick | 282519 | [282519-oshidashi-zintrick.json](./282519-oshidashi-zintrick.json) |
 | Oshigoto Theme Park 2 | 141218 | [141218-oshigoto-theme-park-2.json](./141218-oshigoto-theme-park-2.json) |
 | Oshino Ruka ha Iyashite Agetai | 401183 | [401183-oshino-ruka-ha-iyashite-agetai.json](./401183-oshino-ruka-ha-iyashite-agetai.json) |
 | Oshioki Kirai! 2 | 130769 | [130769-oshioki-kirai-2.json](./130769-oshioki-kirai-2.json) |
