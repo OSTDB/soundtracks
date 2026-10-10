@@ -913,6 +913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Venus: The Last Ascent | 407293 | [407293-venus-the-last-ascent.json](./407293-venus-the-last-ascent.json) |
 | VenusBlood Ragnarok International | 348435 | [348435-venusblood-ragnarok-international.json](./348435-venusblood-ragnarok-international.json) |
 | Venusian Vengeance | 35704 | [35704-venusian-vengeance.json](./35704-venusian-vengeance.json) |
+| Venusville | 312829 | [312829-venusville.json](./312829-venusville.json) |
 | Vera Blanc: Full Moon | 140912 | [140912-vera-blanc-full-moon.json](./140912-vera-blanc-full-moon.json) |
 | Vera Blanc: Ghost in the Castle | 142852 | [142852-vera-blanc-ghost-in-the-castle.json](./142852-vera-blanc-ghost-in-the-castle.json) |
 | Vera Blanc: Supernatural Mysteries | 306516 | [306516-vera-blanc-supernatural-mysteries.json](./306516-vera-blanc-supernatural-mysteries.json) |
@@ -1242,6 +1243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Video Poker | 272552 | [272552-video-poker.json](./272552-video-poker.json) |
 | Video Poker | 275222 | [275222-video-poker.json](./275222-video-poker.json) |
 | Video Poker Collection | 147886 | [147886-video-poker-collection.json](./147886-video-poker-collection.json) |
+| Video Poker Rogue | 312867 | [312867-video-poker-rogue.json](./312867-video-poker-rogue.json) |
 | Video Poker Simulator | 296012 | [296012-video-poker-simulator.json](./296012-video-poker-simulator.json) |
 | Video Poker World Tour | 60387 | [60387-video-poker-world-tour.json](./60387-video-poker-world-tour.json) |
 | Video Realms | 156553 | [156553-video-realms.json](./156553-video-realms.json) |
