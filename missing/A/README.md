@@ -9600,6 +9600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astrochibbi | 377677 | [377677-astrochibbi.json](./377677-astrochibbi.json) |
 | Astrocode | 383119 | [383119-astrocode.json](./383119-astrocode.json) |
 | Astrocop | 295848 | [295848-astrocop.json](./295848-astrocop.json) |
+| Astrodelia | 290827 | [290827-astrodelia.json](./290827-astrodelia.json) |
 | AstroDiner Manager | 387097 | [387097-astrodiner-manager.json](./387097-astrodiner-manager.json) |
 | Astrodition | 149583 | [149583-astrodition.json](./149583-astrodition.json) |
 | Astrodle | 291592 | [291592-astrodle.json](./291592-astrodle.json) |
