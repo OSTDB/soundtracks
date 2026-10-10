@@ -1184,6 +1184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hardwar | 19566 | [19566-hardwar.json](./19566-hardwar.json) |
 | Hardware Engineering | 31400 | [31400-hardware-engineering.json](./31400-hardware-engineering.json) |
 | Hardware Engineers | 32457 | [32457-hardware-engineers.json](./32457-hardware-engineers.json) |
+| Hardware Store Simulator | 322819 | [322819-hardware-store-simulator.json](./322819-hardware-store-simulator.json) |
 | Hardware Tycoon | 181235 | [181235-hardware-tycoon.json](./181235-hardware-tycoon.json) |
 | Hardware: Online Arena | 15697 | [15697-hardware-online-arena.json](./15697-hardware-online-arena.json) |
 | Hardware: Rivals | 15695 | [15695-hardware-rivals.json](./15695-hardware-rivals.json) |
@@ -2864,6 +2865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hendecad | 124711 | [124711-hendecad.json](./124711-hendecad.json) |
 | Hengband | 141020 | [141020-hengband.json](./141020-hengband.json) |
 | Héngsǎo Tiānxià | 128322 | [128322-hengsao-tianxia.json](./128322-hengsao-tianxia.json) |
+| Henk Stroem in: Lost in Cellar | 322824 | [322824-henk-stroem-in-lost-in-cellar.json](./322824-henk-stroem-in-lost-in-cellar.json) |
 | Henka Twist Caper | 52237 | [52237-henka-twist-caper.json](./52237-henka-twist-caper.json) |
 | HenPri | 322740 | [322740-henpri.json](./322740-henpri.json) |
 | Henri | 222521 | [222521-henri.json](./222521-henri.json) |
@@ -4121,6 +4123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Cats: Rome | 350572 | [350572-hidden-cats-rome.json](./350572-hidden-cats-rome.json) |
 | Hidden Cats: Zombie Hunter | 365284 | [365284-hidden-cats-zombie-hunter.json](./365284-hidden-cats-zombie-hunter.json) |
 | Hidden Caves | 173027 | [173027-hidden-caves.json](./173027-hidden-caves.json) |
+| Hidden Celtics | 322828 | [322828-hidden-celtics.json](./322828-hidden-celtics.json) |
 | Hidden Chinese Chess | 242109 | [242109-hidden-chinese-chess.json](./242109-hidden-chinese-chess.json) |
 | Hidden City Top-Down 3D | 267460 | [267460-hidden-city-top-down-3d.json](./267460-hidden-city-top-down-3d.json) |
 | Hidden Clues: Mystery Scene Challenge | 409532 | [409532-hidden-clues-mystery-scene-challenge.json](./409532-hidden-clues-mystery-scene-challenge.json) |
@@ -4956,6 +4959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hit The Clock | 377708 | [377708-hit-the-clock.json](./377708-hit-the-clock.json) |
 | Hit The Dot | 282728 | [282728-hit-the-dot.json](./282728-hit-the-dot.json) |
 | Hit the Fan | 365797 | [365797-hit-the-fan.json](./365797-hit-the-fan.json) |
+| Hit the Freak | 322829 | [322829-hit-the-freak.json](./322829-hit-the-freak.json) |
 | Hit the Hive | 96866 | [96866-hit-the-hive.json](./96866-hit-the-hive.json) |
 | Hit the Ice | 295042 | [295042-hit-the-ice.json](./295042-hit-the-ice.json) |
 | Hit the Ice | 72923 | [72923-hit-the-ice.json](./72923-hit-the-ice.json) |
@@ -5081,6 +5085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hiveswap: Act 1 | 11631 | [11631-hiveswap-act-1.json](./11631-hiveswap-act-1.json) |
 | Hiveswap: Act 2 | 125164 | [125164-hiveswap-act-2.json](./125164-hiveswap-act-2.json) |
 | Hix: Puzzle Islands | 146842 | [146842-hix-puzzle-islands.json](./146842-hix-puzzle-islands.json) |
+| HiYah! | 322832 | [322832-hiyah.json](./322832-hiyah.json) |
 | Hiyoshi Clinic | 341098 | [341098-hiyoshi-clinic.json](./341098-hiyoshi-clinic.json) |
 | Hiza no Ue no Partner: Kitty on Your Lap | 65494 | [65494-hiza-no-ue-no-partner-kitty-on-your-lap.json](./65494-hiza-no-ue-no-partner-kitty-on-your-lap.json) |
 | Hizca | 348929 | [348929-hizca.json](./348929-hizca.json) |
@@ -5450,6 +5455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holy Umbrella: Dondera no Mubou!! | 38386 | [38386-holy-umbrella-dondera-no-mubou.json](./38386-holy-umbrella-dondera-no-mubou.json) |
 | Holy Valkyrie Exs-Tia P Parallel Episode 1: Magical Girl Pastel Marie | 404786 | [404786-holy-valkyrie-exs-tia-p-parallel-episode-1-magical-girl-pastel-marie.json](./404786-holy-valkyrie-exs-tia-p-parallel-episode-1-magical-girl-pastel-marie.json) |
 | Holy Valkyrie Exs-Tia TS Parallel Episode 3: Twilight Sabre | 404785 | [404785-holy-valkyrie-exs-tia-ts-parallel-episode-3-twilight-sabre.json](./404785-holy-valkyrie-exs-tia-ts-parallel-episode-3-twilight-sabre.json) |
+| Holy Valkyrie EXS-TiA: Concerto 1 | 322858 | [322858-holy-valkyrie-exs-tia-concerto-1.json](./322858-holy-valkyrie-exs-tia-concerto-1.json) |
 | Holy War | 273484 | [273484-holy-war.json](./273484-holy-war.json) |
 | Holy Warrior | 121574 | [121574-holy-warrior.json](./121574-holy-warrior.json) |
 | Holyday City | 101933 | [101933-holyday-city.json](./101933-holyday-city.json) |
@@ -5568,6 +5574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Homeland: The Stone Of Night | 73455 | [73455-homeland-the-stone-of-night.json](./73455-homeland-the-stone-of-night.json) |
 | Homeless | 277287 | [277287-homeless.json](./277287-homeless.json) |
 | Homeless | 312726 | [312726-homeless.json](./312726-homeless.json) |
+| Homeless Dog Motel | 322640 | [322640-homeless-dog-motel.json](./322640-homeless-dog-motel.json) |
 | Homeless Guy | 258733 | [258733-homeless-guy.json](./258733-homeless-guy.json) |
 | Homeless Guy: Fight in Heaven | 199962 | [199962-homeless-guy-fight-in-heaven.json](./199962-homeless-guy-fight-in-heaven.json) |
 | Homeless Life | 248162 | [248162-homeless-life.json](./248162-homeless-life.json) |
@@ -6639,6 +6646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House Painting: Simulator | 328513 | [328513-house-painting-simulator.json](./328513-house-painting-simulator.json) |
 | House Party: New Content Pack | 263127 | [263127-house-party-new-content-pack.json](./263127-house-party-new-content-pack.json) |
 | House Party: Valentine's Day Holiday Pack | 287076 | [287076-house-party-valentines-day-holiday-pack.json](./287076-house-party-valentines-day-holiday-pack.json) |
+| House Quest 2 | 322834 | [322834-house-quest-2.json](./322834-house-quest-2.json) |
 | House Renovator Simulator | 350052 | [350052-house-renovator-simulator.json](./350052-house-renovator-simulator.json) |
 | House spirit cat | 279768 | [279768-house-spirit-cat.json](./279768-house-spirit-cat.json) |
 | House Tidy | 384178 | [384178-house-tidy.json](./384178-house-tidy.json) |
