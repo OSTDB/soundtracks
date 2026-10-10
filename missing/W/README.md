@@ -3428,6 +3428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wildsilver | 152784 | [152784-wildsilver.json](./152784-wildsilver.json) |
 | Wildsite | 282210 | [282210-wildsite.json](./282210-wildsite.json) |
 | WildSnake | 243758 | [243758-wildsnake.json](./243758-wildsnake.json) |
+| WildSnake | 282485 | [282485-wildsnake.json](./282485-wildsnake.json) |
 | Wildsong | 287694 | [287694-wildsong.json](./287694-wildsong.json) |
 | WildStandZ | 357405 | [357405-wildstandz.json](./357405-wildstandz.json) |
 | WildTrax & Hypercar Bundle | 410842 | [410842-wildtrax-and-hypercar-bundle.json](./410842-wildtrax-and-hypercar-bundle.json) |
