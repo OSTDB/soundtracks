@@ -4793,6 +4793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flipper Pool | 84342 | [84342-flipper-pool.json](./84342-flipper-pool.json) |
 | Flipper Slipper | 40896 | [40896-flipper-slipper.json](./40896-flipper-slipper.json) |
 | Flipper Volcano | 138134 | [138134-flipper-volcano.json](./138134-flipper-volcano.json) |
+| Flippets | 321657 | [321657-flippets.json](./321657-flippets.json) |
 | Flippin Misfits | 212809 | [212809-flippin-misfits.json](./212809-flippin-misfits.json) |
 | Flippin' Phones | 58884 | [58884-flippin-phones.json](./58884-flippin-phones.json) |
 | Flipping Filip | 104820 | [104820-flipping-filip.json](./104820-flipping-filip.json) |
@@ -6108,6 +6109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forrest Gump: Match 3 Game | 208389 | [208389-forrest-gump-match-3-game.json](./208389-forrest-gump-match-3-game.json) |
 | Forsake The Rake | 240240 | [240240-forsake-the-rake.json](./240240-forsake-the-rake.json) |
 | Forsaken | 196138 | [196138-forsaken.json](./196138-forsaken.json) |
+| Forsaken | 321637 | [321637-forsaken.json](./321637-forsaken.json) |
 | Forsaken | 322700 | [322700-forsaken.json](./322700-forsaken.json) |
 | Forsaken | 378535 | [378535-forsaken.json](./378535-forsaken.json) |
 | Forsaken | 718 | [718-forsaken.json](./718-forsaken.json) |
