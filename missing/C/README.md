@@ -2613,6 +2613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catgirl | 344943 | [344943-catgirl.json](./344943-catgirl.json) |
 | Catgirl & Doggirl Cafe | 199057 | [199057-catgirl-and-doggirl-cafe.json](./199057-catgirl-and-doggirl-cafe.json) |
 | Catgirl Aim Trainer | 310213 | [310213-catgirl-aim-trainer.json](./310213-catgirl-aim-trainer.json) |
+| Catgirl Chainsaw Massacre | 280736 | [280736-catgirl-chainsaw-massacre.json](./280736-catgirl-chainsaw-massacre.json) |
 | Catgirl Lover | 127927 | [127927-catgirl-lover.json](./127927-catgirl-lover.json) |
 | Catharage | 355098 | [355098-catharage.json](./355098-catharage.json) |
 | Catharsis | 130144 | [130144-catharsis.json](./130144-catharsis.json) |
@@ -4884,6 +4885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Christmas Rhythm | 158219 | [158219-christmas-rhythm.json](./158219-christmas-rhythm.json) |
 | Christmas Rocket Pudding | 276851 | [276851-christmas-rocket-pudding.json](./276851-christmas-rocket-pudding.json) |
 | Christmas Runner | 276697 | [276697-christmas-runner.json](./276697-christmas-runner.json) |
+| Christmas Rush | 280710 | [280710-christmas-rush.json](./280710-christmas-rush.json) |
 | Christmas Rush | 284971 | [284971-christmas-rush.json](./284971-christmas-rush.json) |
 | Christmas Seaman: Omoi o Tsutaeru Mou Hitotsu no Houhou | 283108 | [283108-christmas-seaman-omoi-o-tsutaeru-mou-hitotsu-no-houhou.json](./283108-christmas-seaman-omoi-o-tsutaeru-mou-hitotsu-no-houhou.json) |
 | Christmas Shooter | 213309 | [213309-christmas-shooter.json](./213309-christmas-shooter.json) |
@@ -8780,6 +8782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Copy Kitty | 22443 | [22443-copy-kitty.json](./22443-copy-kitty.json) |
 | Copy The Line | 328438 | [328438-copy-the-line.json](./328438-copy-the-line.json) |
 | Copy: Two Man Too Many | 359010 | [359010-copy-two-man-too-many.json](./359010-copy-two-man-too-many.json) |
+| Copy! Right? | 280734 | [280734-copy-right.json](./280734-copy-right.json) |
 | Copycat | 171650 | [171650-copycat.json](./171650-copycat.json) |
 | Copycat | 255631 | [255631-copycat.json](./255631-copycat.json) |
 | Copycat: Cee Ann | 185480 | [185480-copycat-cee-ann.json](./185480-copycat-cee-ann.json) |
