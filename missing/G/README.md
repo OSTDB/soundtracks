@@ -151,6 +151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gachaverse (RPG & Anime Dress Up) | 103668 | [103668-gachaverse-rpg-and-anime-dress-up.json](./103668-gachaverse-rpg-and-anime-dress-up.json) |
 | Gachi Dash | 180005 | [180005-gachi-dash.json](./180005-gachi-dash.json) |
 | Gachi Dungeon Master | 157470 | [157470-gachi-dungeon-master.json](./157470-gachi-dungeon-master.json) |
+| Gachi Feasting | 311156 | [311156-gachi-feasting.json](./311156-gachi-feasting.json) |
 | Gachi Heroes 2: Flexboll | 127191 | [127191-gachi-heroes-2-flexboll.json](./127191-gachi-heroes-2-flexboll.json) |
 | Gachi-Natsu | 222957 | [222957-gachi-natsu.json](./222957-gachi-natsu.json) |
 | Gachimuchi Monthly Puzzle | 112761 | [112761-gachimuchi-monthly-puzzle.json](./112761-gachimuchi-monthly-puzzle.json) |
@@ -2345,6 +2346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Vibration | 43420 | [43420-ghost-vibration.json](./43420-ghost-vibration.json) |
 | Ghost Village | 224237 | [224237-ghost-village.json](./224237-ghost-village.json) |
 | Ghost Voyage | 269837 | [269837-ghost-voyage.json](./269837-ghost-voyage.json) |
+| Ghost Wave | 311037 | [311037-ghost-wave.json](./311037-ghost-wave.json) |
 | Ghost Whisperer | 307691 | [307691-ghost-whisperer.json](./307691-ghost-whisperer.json) |
 | Ghost Wiper | 236814 | [236814-ghost-wiper.json](./236814-ghost-wiper.json) |
 | Ghost Witch: Soulstice Sprint | 341892 | [341892-ghost-witch-soulstice-sprint.json](./341892-ghost-witch-soulstice-sprint.json) |
