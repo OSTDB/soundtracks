@@ -623,6 +623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pamp Quest | 124181 | [124181-pamp-quest.json](./124181-pamp-quest.json) |
 | PamPam Kana Students | 390547 | [390547-pampam-kana-students.json](./390547-pampam-kana-students.json) |
 | Pampas & Selene: The Maze of Demons | 261813 | [261813-pampas-and-selene-the-maze-of-demons.json](./261813-pampas-and-selene-the-maze-of-demons.json) |
+| Pampas & Selene: The Maze of Demons - Pirate Software's Ferret Sanctuary | 302203 | [302203-pampas-and-selene-the-maze-of-demons-pirate-softwares-ferret-sanctuary.json](./302203-pampas-and-selene-the-maze-of-demons-pirate-softwares-ferret-sanctuary.json) |
 | Pan | 294980 | [294980-pan.json](./294980-pan.json) |
 | Pan Beats | 311624 | [311624-pan-beats.json](./311624-pan-beats.json) |
 | Pan Panda | 110527 | [110527-pan-panda.json](./110527-pan-panda.json) |
@@ -10380,6 +10381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puffer Fish | 95555 | [95555-puffer-fish.json](./95555-puffer-fish.json) |
 | Puffer Pop | 250464 | [250464-puffer-pop.json](./250464-puffer-pop.json) |
 | Puffin Parcel Post | 346106 | [346106-puffin-parcel-post.json](./346106-puffin-parcel-post.json) |
+| Puffin Planes | 302205 | [302205-puffin-planes.json](./302205-puffin-planes.json) |
 | Puffins: Island Adventure | 68030 | [68030-puffins-island-adventure.json](./68030-puffins-island-adventure.json) |
 | Puffins: Let's Fish! | 84802 | [84802-puffins-lets-fish.json](./84802-puffins-lets-fish.json) |
 | Puffins: Let's Race! | 80215 | [80215-puffins-lets-race.json](./80215-puffins-lets-race.json) |
