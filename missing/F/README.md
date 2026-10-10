@@ -590,6 +590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fall Guys: Neigh Neigh Pack | 243685 | [243685-fall-guys-neigh-neigh-pack.json](./243685-fall-guys-neigh-neigh-pack.json) |
 | Fall Guys: Otter Delights Pack | 243682 | [243682-fall-guys-otter-delights-pack.json](./243682-fall-guys-otter-delights-pack.json) |
 | Fall Guys: Pegwin Party Pack | 243771 | [243771-fall-guys-pegwin-party-pack.json](./243771-fall-guys-pegwin-party-pack.json) |
+| Fall Guys: PlayStation Plus Autumn Pack | 323402 | [323402-fall-guys-playstation-plus-autumn-pack.json](./323402-fall-guys-playstation-plus-autumn-pack.json) |
 | Fall Guys: Plush Fox Pack | 243775 | [243775-fall-guys-plush-fox-pack.json](./243775-fall-guys-plush-fox-pack.json) |
 | Fall Guys: Popping Whizzbanger Pack | 243661 | [243661-fall-guys-popping-whizzbanger-pack.json](./243661-fall-guys-popping-whizzbanger-pack.json) |
 | Fall Guys: Season 2 Starter Pack | 243659 | [243659-fall-guys-season-2-starter-pack.json](./243659-fall-guys-season-2-starter-pack.json) |
@@ -1114,6 +1115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantastic 4 In A Row 2 | 31676 | [31676-fantastic-4-in-a-row-2.json](./31676-fantastic-4-in-a-row-2.json) |
 | Fantastic 4 in a Row HD | 70407 | [70407-fantastic-4-in-a-row-hd.json](./70407-fantastic-4-in-a-row-hd.json) |
 | Fantastic 4: Flame On | 49299 | [49299-fantastic-4-flame-on.json](./49299-fantastic-4-flame-on.json) |
+| Fantastic Annihilation | 323410 | [323410-fantastic-annihilation.json](./323410-fantastic-annihilation.json) |
 | Fantastic Baseball | 292785 | [292785-fantastic-baseball.json](./292785-fantastic-baseball.json) |
 | Fantastic Checkers 2 | 31677 | [31677-fantastic-checkers-2.json](./31677-fantastic-checkers-2.json) |
 | Fantastic Children | 49578 | [49578-fantastic-children.json](./49578-fantastic-children.json) |
@@ -4582,6 +4584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flesh Everest | 207356 | [207356-flesh-everest.json](./207356-flesh-everest.json) |
 | Flesh Made Fear: Summer in Rotwood | 375804 | [375804-flesh-made-fear-summer-in-rotwood.json](./375804-flesh-made-fear-summer-in-rotwood.json) |
 | Flesh of the Killer | 159219 | [159219-flesh-of-the-killer.json](./159219-flesh-of-the-killer.json) |
+| Flesh Prison | 323209 | [323209-flesh-prison.json](./323209-flesh-prison.json) |
 | Flesh Psychosis | 333041 | [333041-flesh-psychosis.json](./333041-flesh-psychosis.json) |
 | Flesharmonic | 271178 | [271178-flesharmonic.json](./271178-flesharmonic.json) |
 | FleshBound | 327453 | [327453-fleshbound.json](./327453-fleshbound.json) |
