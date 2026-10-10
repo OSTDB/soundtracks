@@ -2167,7 +2167,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teenage Mutant Ninja Turtles: Mutant Rumble | 78281 | [78281-teenage-mutant-ninja-turtles-mutant-rumble.json](./78281-teenage-mutant-ninja-turtles-mutant-rumble.json) |
 | Teenage Mutant Ninja Turtles: Mutants & Monsters Mayhem | 146239 | [146239-teenage-mutant-ninja-turtles-mutants-and-monsters-mayhem.json](./146239-teenage-mutant-ninja-turtles-mutants-and-monsters-mayhem.json) |
 | Teenage Mutant Ninja Turtles: Mutants in Manhattan | 16989 | [16989-teenage-mutant-ninja-turtles-mutants-in-manhattan.json](./16989-teenage-mutant-ninja-turtles-mutants-in-manhattan.json) |
+| Teenage Mutant Ninja Turtles: Mutants Unleashed - 1984 Comic Book Pack | 324362 | [324362-teenage-mutant-ninja-turtles-mutants-unleashed-1984-comic-book-pack.json](./324362-teenage-mutant-ninja-turtles-mutants-unleashed-1984-comic-book-pack.json) |
+| Teenage Mutant Ninja Turtles: Mutants Unleashed - 1987 Animated Series Pack | 324363 | [324363-teenage-mutant-ninja-turtles-mutants-unleashed-1987-animated-series-pack.json](./324363-teenage-mutant-ninja-turtles-mutants-unleashed-1987-animated-series-pack.json) |
 | Teenage Mutant Ninja Turtles: Mutants Unleashed - Deluxe Edition | 323945 | [323945-teenage-mutant-ninja-turtles-mutants-unleashed-deluxe-edition.json](./323945-teenage-mutant-ninja-turtles-mutants-unleashed-deluxe-edition.json) |
+| Teenage Mutant Ninja Turtles: Mutants Unleashed - Season Pass | 324361 | [324361-teenage-mutant-ninja-turtles-mutants-unleashed-season-pass.json](./324361-teenage-mutant-ninja-turtles-mutants-unleashed-season-pass.json) |
 | Teenage Mutant Ninja Turtles: Portal Power | 59086 | [59086-teenage-mutant-ninja-turtles-portal-power.json](./59086-teenage-mutant-ninja-turtles-portal-power.json) |
 | Teenage Mutant Ninja Turtles: Rescue Palooza! | 126491 | [126491-teenage-mutant-ninja-turtles-rescue-palooza.json](./126491-teenage-mutant-ninja-turtles-rescue-palooza.json) |
 | Teenage Mutant Ninja Turtles: Sewer Run | 64715 | [64715-teenage-mutant-ninja-turtles-sewer-run.json](./64715-teenage-mutant-ninja-turtles-sewer-run.json) |
@@ -4588,6 +4591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Coma 2: Vicious Sisters | 121617 | [121617-the-coma-2-vicious-sisters.json](./121617-the-coma-2-vicious-sisters.json) |
 | The Coma 2: Vicious Sisters - Deluxe Edition | 154510 | [154510-the-coma-2-vicious-sisters-deluxe-edition.json](./154510-the-coma-2-vicious-sisters-deluxe-edition.json) |
 | The Coma 2B: Catacomb | 293779 | [293779-the-coma-2b-catacomb.json](./293779-the-coma-2b-catacomb.json) |
+| The Coma 2B: Catacomb - The Child of Destiny Youngho | 324364 | [324364-the-coma-2b-catacomb-the-child-of-destiny-youngho.json](./324364-the-coma-2b-catacomb-the-child-of-destiny-youngho.json) |
 | The Coma 2B: Catacomb - The Gamer Youngho | 324473 | [324473-the-coma-2b-catacomb-the-gamer-youngho.json](./324473-the-coma-2b-catacomb-the-gamer-youngho.json) |
 | The Coma 2B: Catacomb - The Survivalist Youngho | 324474 | [324474-the-coma-2b-catacomb-the-survivalist-youngho.json](./324474-the-coma-2b-catacomb-the-survivalist-youngho.json) |
 | The Coma 3: Bloodlines - Autumn Girl Skin | 401675 | [401675-the-coma-3-bloodlines-autumn-girl-skin.json](./401675-the-coma-3-bloodlines-autumn-girl-skin.json) |
@@ -8941,6 +8945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Outlast Trials: Deluxe Edition | 289556 | [289556-the-outlast-trials-deluxe-edition.json](./289556-the-outlast-trials-deluxe-edition.json) |
 | The Outlast Trials: Exotica Pack | 332013 | [332013-the-outlast-trials-exotica-pack.json](./332013-the-outlast-trials-exotica-pack.json) |
 | The Outlast Trials: Porcelain Observer Pack | 366838 | [366838-the-outlast-trials-porcelain-observer-pack.json](./366838-the-outlast-trials-porcelain-observer-pack.json) |
+| The Outlast Trials: Project Breach | 324578 | [324578-the-outlast-trials-project-breach.json](./324578-the-outlast-trials-project-breach.json) |
 | The Outlast Trials: Project Relapse | 342069 | [342069-the-outlast-trials-project-relapse.json](./342069-the-outlast-trials-project-relapse.json) |
 | The Outlast Trials: Reagent Starter Pack | 289436 | [289436-the-outlast-trials-reagent-starter-pack.json](./289436-the-outlast-trials-reagent-starter-pack.json) |
 | The Outlast Trials: Spelunking For Your Life Pack | 366837 | [366837-the-outlast-trials-spelunking-for-your-life-pack.json](./366837-the-outlast-trials-spelunking-for-your-life-pack.json) |
@@ -12755,6 +12760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tic Tac Toe World Championship HD | 87291 | [87291-tic-tac-toe-world-championship-hd.json](./87291-tic-tac-toe-world-championship-hd.json) |
 | Tic Tac Toe: Speed Tapping | 264063 | [264063-tic-tac-toe-speed-tapping.json](./264063-tic-tac-toe-speed-tapping.json) |
 | Tic Tac Toe: The Ultimate Board Game | 193804 | [193804-tic-tac-toe-the-ultimate-board-game.json](./193804-tic-tac-toe-the-ultimate-board-game.json) |
+| Tic Tactic | 324528 | [324528-tic-tactic.json](./324528-tic-tactic.json) |
 | Tic Toc Shoc for Playdate | 276727 | [276727-tic-toc-shoc-for-playdate.json](./276727-tic-toc-shoc-for-playdate.json) |
 | Tic-a-Tac Royale | 206787 | [206787-tic-a-tac-royale.json](./206787-tic-a-tac-royale.json) |
 | Tic-Tac-Crow | 153517 | [153517-tic-tac-crow.json](./153517-tic-tac-crow.json) |
@@ -15394,6 +15400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TombStar | 138867 | [138867-tombstar.json](./138867-tombstar.json) |
 | Tombstone Tally | 319361 | [319361-tombstone-tally.json](./319361-tombstone-tally.json) |
 | Tombstone Taxi | 258435 | [258435-tombstone-taxi.json](./258435-tombstone-taxi.json) |
+| Tombwater | 324575 | [324575-tombwater.json](./324575-tombwater.json) |
 | Tomcat | 74428 | [74428-tomcat.json](./74428-tomcat.json) |
 | Tome | 373070 | [373070-tome.json](./373070-tome.json) |
 | Tome Improvement | 389737 | [389737-tome-improvement.json](./389737-tome-improvement.json) |
@@ -17500,6 +17507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Traffic Manager: Gold Edition | 308794 | [308794-train-traffic-manager-gold-edition.json](./308794-train-traffic-manager-gold-edition.json) |
 | Train Traffic Manager: GOTY Edition | 333728 | [333728-train-traffic-manager-goty-edition.json](./333728-train-traffic-manager-goty-edition.json) |
 | Train Traffic Manager: Prime Edition | 328805 | [328805-train-traffic-manager-prime-edition.json](./328805-train-traffic-manager-prime-edition.json) |
+| Train Traffic Manager: Super Edition | 324360 | [324360-train-traffic-manager-super-edition.json](./324360-train-traffic-manager-super-edition.json) |
 | Train Train Train | 158548 | [158548-train-train-train.json](./158548-train-train-train.json) |
 | Train Tycoon | 152866 | [152866-train-tycoon.json](./152866-train-tycoon.json) |
 | Train Valley 2: Editor's Bulletin | 243140 | [243140-train-valley-2-editors-bulletin.json](./243140-train-valley-2-editors-bulletin.json) |
