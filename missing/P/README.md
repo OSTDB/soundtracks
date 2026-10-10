@@ -1150,6 +1150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Par 1 Golf 8 | 197790 | [197790-par-1-golf-8.json](./197790-par-1-golf-8.json) |
 | Par 72 Golf IV | 95696 | [95696-par-72-golf-iv.json](./95696-par-72-golf-iv.json) |
 | Par Golf | 92101 | [92101-par-golf.json](./92101-par-golf.json) |
+| Para Bellum | 297877 | [297877-para-bellum.json](./297877-para-bellum.json) |
 | Para Para Paradise | 395996 | [395996-para-para-paradise.json](./395996-para-para-paradise.json) |
 | Para-Lax | 211144 | [211144-para-lax.json](./211144-para-lax.json) |
 | Para-sol | 309651 | [309651-para-sol.json](./309651-para-sol.json) |
@@ -3203,6 +3204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantasmat: The Dread of Oakville - Collector's Edition | 110156 | [110156-phantasmat-the-dread-of-oakville-collectors-edition.json](./110156-phantasmat-the-dread-of-oakville-collectors-edition.json) |
 | Phantasmat: The Endless Night | 140317 | [140317-phantasmat-the-endless-night.json](./140317-phantasmat-the-endless-night.json) |
 | Phantasmat: The Endless Night HD | 108258 | [108258-phantasmat-the-endless-night-hd.json](./108258-phantasmat-the-endless-night-hd.json) |
+| Phantasos | 297919 | [297919-phantasos.json](./297919-phantasos.json) |
 | Phantasos Now | 363059 | [363059-phantasos-now.json](./363059-phantasos-now.json) |
 | Phantasy Series Reference Opus | 285442 | [285442-phantasy-series-reference-opus.json](./285442-phantasy-series-reference-opus.json) |
 | Phantasy Star 0 | 21091 | [21091-phantasy-star-0.json](./21091-phantasy-star-0.json) |
@@ -7463,6 +7465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polywar | 326772 | [326772-polywar.json](./326772-polywar.json) |
 | Polywar | 33496 | [33496-polywar.json](./33496-polywar.json) |
 | PolyWar | 341564 | [341564-polywar.json](./341564-polywar.json) |
+| PolyZ | 297875 | [297875-polyz.json](./297875-polyz.json) |
 | PolyZen Drive | 278679 | [278679-polyzen-drive.json](./278679-polyzen-drive.json) |
 | Pom Pom Purin: Koro-koro Daibouken | 222518 | [222518-pom-pom-purin-koro-koro-daibouken.json](./222518-pom-pom-purin-koro-koro-daibouken.json) |
 | Pom Simulator 9000 | 135006 | [135006-pom-simulator-9000.json](./135006-pom-simulator-9000.json) |
@@ -9781,6 +9784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Shikai | 329733 | [329733-project-shikai.json](./329733-project-shikai.json) |
 | Project Shiver Wing | 212452 | [212452-project-shiver-wing.json](./212452-project-shiver-wing.json) |
 | Project Shore | 103516 | [103516-project-shore.json](./103516-project-shore.json) |
+| Project Silver Shield | 297893 | [297893-project-silver-shield.json](./297893-project-silver-shield.json) |
 | Project Silverfish | 298641 | [298641-project-silverfish.json](./298641-project-silverfish.json) |
 | Project SJHG | 320519 | [320519-project-sjhg.json](./320519-project-sjhg.json) |
 | Project SkyBlade (Working title) | 131475 | [131475-project-skyblade-working-title.json](./131475-project-skyblade-working-title.json) |
@@ -9979,6 +9983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Promo Pack 2x1 | 212786 | [212786-promo-pack-2x1.json](./212786-promo-pack-2x1.json) |
 | ProMods Canada | 376091 | [376091-promods-canada.json](./376091-promods-canada.json) |
 | Promotion | 377610 | [377610-promotion.json](./377610-promotion.json) |
+| PromptCrafter | 297912 | [297912-promptcrafter.json](./297912-promptcrafter.json) |
 | Pröng | 183003 | [183003-prong.json](./183003-prong.json) |
 | Pronty | 143125 | [143125-pronty.json](./143125-pronty.json) |
 | Proof of Existence | 405467 | [405467-proof-of-existence.json](./405467-proof-of-existence.json) |
