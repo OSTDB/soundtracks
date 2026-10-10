@@ -3401,6 +3401,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kotowari: Kimi no Kokoro no Koboreta Kakera | 382785 | [382785-kotowari-kimi-no-kokoro-no-koboreta-kakera.json](./382785-kotowari-kimi-no-kokoro-no-koboreta-kakera.json) |
 | Kottabos VR | 289233 | [289233-kottabos-vr.json](./289233-kottabos-vr.json) |
 | Kotyxa | 387053 | [387053-kotyxa.json](./387053-kotyxa.json) |
+| Kou Dai Guai Shou | 280683 | [280683-kou-dai-guai-shou.json](./280683-kou-dai-guai-shou.json) |
+| Kou Dai Guai Shou II | 280685 | [280685-kou-dai-guai-shou-ii.json](./280685-kou-dai-guai-shou-ii.json) |
+| Kou Dai Guai Shou III | 280687 | [280687-kou-dai-guai-shou-iii.json](./280687-kou-dai-guai-shou-iii.json) |
 | Kouchuu Kakutou: Mushi 1 Grand Prix | 122898 | [122898-kouchuu-kakutou-mushi-1-grand-prix.json](./122898-kouchuu-kakutou-mushi-1-grand-prix.json) |
 | Kouchuu Ouja Mushiking: Mori no Tami no Densetsu - Minna de Tanken! Kouchuu no Mori | 123621 | [123621-kouchuu-ouja-mushiking-mori-no-tami-no-densetsu-minna-de-tanken-kouchuu-no-mori.json](./123621-kouchuu-ouja-mushiking-mori-no-tami-no-densetsu-minna-de-tanken-kouchuu-no-mori.json) |
 | Kouchuu Ouja Mushiking: Nebu-Hakase to Kazu Katachi ni Challenge! | 125809 | [125809-kouchuu-ouja-mushiking-nebu-hakase-to-kazu-katachi-ni-challenge.json](./125809-kouchuu-ouja-mushiking-nebu-hakase-to-kazu-katachi-ni-challenge.json) |
@@ -3418,6 +3421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koumajou Remilia Ⅱ: Stranger's Requiem | 79973 | [79973-koumajou-remilia-ii-strangers-requiem.json](./79973-koumajou-remilia-ii-strangers-requiem.json) |
 | Kounai Shasei Vol.1: Yonimo H na Monogatari | 248107 | [248107-kounai-shasei-vol-1-yonimo-h-na-monogatari.json](./248107-kounai-shasei-vol-1-yonimo-h-na-monogatari.json) |
 | Kouryaku Casino Bar | 37954 | [37954-kouryaku-casino-bar.json](./37954-kouryaku-casino-bar.json) |
+| Kousai Toshi | 280682 | [280682-kousai-toshi.json](./280682-kousai-toshi.json) |
 | Koushien 2 | 37953 | [37953-koushien-2.json](./37953-koushien-2.json) |
 | Koushien 3 | 37952 | [37952-koushien-3.json](./37952-koushien-3.json) |
 | Koushien V | 58512 | [58512-koushien-v.json](./58512-koushien-v.json) |
