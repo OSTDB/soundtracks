@@ -2866,6 +2866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Decadence | 256799 | [256799-decadence.json](./256799-decadence.json) |
 | Decadence | 346640 | [346640-decadence.json](./346640-decadence.json) |
 | Decadent Heir | 334217 | [334217-decadent-heir.json](./334217-decadent-heir.json) |
+| Decadent Thinking | 331919 | [331919-decadent-thinking.json](./331919-decadent-thinking.json) |
 | DecaDungeons | 393043 | [393043-decadungeons.json](./393043-decadungeons.json) |
 | DeCalc | 62972 | [62972-decalc.json](./62972-decalc.json) |
 | Decamped | 157028 | [157028-decamped.json](./157028-decamped.json) |
@@ -9645,6 +9646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamlander | 147805 | [147805-dreamlander.json](./147805-dreamlander.json) |
 | Dreamlands: Cotton Candy Hunt | 190441 | [190441-dreamlands-cotton-candy-hunt.json](./190441-dreamlands-cotton-candy-hunt.json) |
 | Dreamless | 320135 | [320135-dreamless.json](./320135-dreamless.json) |
+| Dreamless Girl | 331925 | [331925-dreamless-girl.json](./331925-dreamless-girl.json) |
 | Dreamless Girl: Deluxe Edition | 332004 | [332004-dreamless-girl-deluxe-edition.json](./332004-dreamless-girl-deluxe-edition.json) |
 | Dreamless Girl: Deluxe Edtion Plus | 335097 | [335097-dreamless-girl-deluxe-edtion-plus.json](./335097-dreamless-girl-deluxe-edtion-plus.json) |
 | Dreamless: The Madness from the Sea | 146846 | [146846-dreamless-the-madness-from-the-sea.json](./146846-dreamless-the-madness-from-the-sea.json) |
