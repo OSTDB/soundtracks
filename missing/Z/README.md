@@ -246,6 +246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ZeGame | 19346 | [19346-zegame.json](./19346-zegame.json) |
 | Zegapain NOT | 68015 | [68015-zegapain-not.json](./68015-zegapain-not.json) |
 | Zegapain XOR | 68017 | [68017-zegapain-xor.json](./68017-zegapain-xor.json) |
+| Zegelon: Hardcore Arena | 278961 | [278961-zegelon-hardcore-arena.json](./278961-zegelon-hardcore-arena.json) |
 | Zegeta Video Game | 56540 | [56540-zegeta-video-game.json](./56540-zegeta-video-game.json) |
 | Zehlar | 258023 | [258023-zehlar.json](./258023-zehlar.json) |
 | Zehn Adventures | 94541 | [94541-zehn-adventures.json](./94541-zehn-adventures.json) |
