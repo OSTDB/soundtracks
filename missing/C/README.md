@@ -7207,6 +7207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coloring Game: Little City | 130402 | [130402-coloring-game-little-city.json](./130402-coloring-game-little-city.json) |
 | Coloring Game: Studio | 273998 | [273998-coloring-game-studio.json](./273998-coloring-game-studio.json) |
 | Coloring Games for Families+ | 415287 | [415287-coloring-games-for-families.json](./415287-coloring-games-for-families.json) |
+| Coloring Pages: Lumberhill Tales | 316917 | [316917-coloring-pages-lumberhill-tales.json](./316917-coloring-pages-lumberhill-tales.json) |
 | Coloring Pixels: Advent 3 Pack | 225002 | [225002-coloring-pixels-advent-3-pack.json](./225002-coloring-pixels-advent-3-pack.json) |
 | Coloring Pixels: Advent 4 Pack | 227467 | [227467-coloring-pixels-advent-4-pack.json](./227467-coloring-pixels-advent-4-pack.json) |
 | Coloring Pixels: Advent 6 Pack | 351619 | [351619-coloring-pixels-advent-6-pack.json](./351619-coloring-pixels-advent-6-pack.json) |
@@ -9528,6 +9529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cramble | 105760 | [105760-cramble.json](./105760-cramble.json) |
 | Cramgene | 92857 | [92857-cramgene.json](./92857-cramgene.json) |
 | Cramit's Keep | 186846 | [186846-cramits-keep.json](./186846-cramits-keep.json) |
+| Cramunhão: A Sigil Tribute | 316941 | [316941-cramunhao-a-sigil-tribute.json](./316941-cramunhao-a-sigil-tribute.json) |
 | Crane Game Simulator | 224747 | [224747-crane-game-simulator.json](./224747-crane-game-simulator.json) |
 | Crane Logistics Simulator | 211699 | [211699-crane-logistics-simulator.json](./211699-crane-logistics-simulator.json) |
 | Crane Quandry | 101009 | [101009-crane-quandry.json](./101009-crane-quandry.json) |
