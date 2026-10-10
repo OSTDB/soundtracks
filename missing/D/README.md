@@ -2060,6 +2060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead City: Red Protocol | 421333 | [421333-dead-city-red-protocol.json](./421333-dead-city-red-protocol.json) |
 | Dead City: Sci-Fi Pack | 254051 | [254051-dead-city-sci-fi-pack.json](./254051-dead-city-sci-fi-pack.json) |
 | Dead Covid-19 in space | 150525 | [150525-dead-covid-19-in-space.json](./150525-dead-covid-19-in-space.json) |
+| Dead Crossway Zompell Survival Zombie | 298441 | [298441-dead-crossway-zompell-survival-zombie.json](./298441-dead-crossway-zompell-survival-zombie.json) |
 | Dead Cubes | 129755 | [129755-dead-cubes.json](./129755-dead-cubes.json) |
 | Dead Dawn | 193958 | [193958-dead-dawn.json](./193958-dead-dawn.json) |
 | Dead Daylight | 330916 | [330916-dead-daylight.json](./330916-dead-daylight.json) |
@@ -2868,6 +2869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deathtrap Dungeon | 8470 | [8470-deathtrap-dungeon.json](./8470-deathtrap-dungeon.json) |
 | Deathtrap Dungeon Trilogy | 126494 | [126494-deathtrap-dungeon-trilogy.json](./126494-deathtrap-dungeon-trilogy.json) |
 | Deathtrap Dungeon: The Interactive Video Adventure | 129936 | [129936-deathtrap-dungeon-the-interactive-video-adventure.json](./129936-deathtrap-dungeon-the-interactive-video-adventure.json) |
+| Deathtroopers: The Outpost | 298391 | [298391-deathtroopers-the-outpost.json](./298391-deathtroopers-the-outpost.json) |
 | Deathwatch | 221258 | [221258-deathwatch.json](./221258-deathwatch.json) |
 | deathwish | 318690 | [318690-deathwish.json](./318690-deathwish.json) |
 | Deathwish Enforcers | 203766 | [203766-deathwish-enforcers.json](./203766-deathwish-enforcers.json) |
