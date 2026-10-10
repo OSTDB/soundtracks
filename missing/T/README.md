@@ -762,6 +762,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Beasteria | 127249 | [127249-tales-of-beasteria.json](./127249-tales-of-beasteria.json) |
 | Tales of Berseria Remastered | 378125 | [378125-tales-of-berseria-remastered.json](./378125-tales-of-berseria-remastered.json) |
 | Tales of Berseria Remastered: Super Growth Support Herb Set | 378867 | [378867-tales-of-berseria-remastered-super-growth-support-herb-set.json](./378867-tales-of-berseria-remastered-super-growth-support-herb-set.json) |
+| Tales of Bibliotheca | 294590 | [294590-tales-of-bibliotheca.json](./294590-tales-of-bibliotheca.json) |
+| Tales of Card Evolve | 294591 | [294591-tales-of-card-evolve.json](./294591-tales-of-card-evolve.json) |
 | Tales of Chandar | 149681 | [149681-tales-of-chandar.json](./149681-tales-of-chandar.json) |
 | Tales of Corneria | 323906 | [323906-tales-of-corneria.json](./323906-tales-of-corneria.json) |
 | Tales of Cosmos | 27180 | [27180-tales-of-cosmos.json](./27180-tales-of-cosmos.json) |
@@ -816,6 +818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Isenberg | 375419 | [375419-tales-of-isenberg.json](./375419-tales-of-isenberg.json) |
 | Tales of Justice Academy: Winds Arise | 373177 | [373177-tales-of-justice-academy-winds-arise.json](./373177-tales-of-justice-academy-winds-arise.json) |
 | Tales of Kathay | 361259 | [361259-tales-of-kathay.json](./361259-tales-of-kathay.json) |
+| Tales of Kizna | 294593 | [294593-tales-of-kizna.json](./294593-tales-of-kizna.json) |
 | Tales of Klodan | 349328 | [349328-tales-of-klodan.json](./349328-tales-of-klodan.json) |
 | Tales of Lagoona: Orphans of the Ocean | 54424 | [54424-tales-of-lagoona-orphans-of-the-ocean.json](./54424-tales-of-lagoona-orphans-of-the-ocean.json) |
 | Tales of Legendary Lust: Aphrodisia | 392890 | [392890-tales-of-legendary-lust-aphrodisia.json](./392890-tales-of-legendary-lust-aphrodisia.json) |
@@ -829,6 +832,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Middle Earth | 326278 | [326278-tales-of-middle-earth.json](./326278-tales-of-middle-earth.json) |
 | Tales of Miravia | 339420 | [339420-tales-of-miravia.json](./339420-tales-of-miravia.json) |
 | Tales of Misteria | 204551 | [204551-tales-of-misteria.json](./204551-tales-of-misteria.json) |
+| Tales of Mobile: Craymel Lab | 294599 | [294599-tales-of-mobile-craymel-lab.json](./294599-tales-of-mobile-craymel-lab.json) |
+| Tales of Mobile: Groovy Arche | 294600 | [294600-tales-of-mobile-groovy-arche.json](./294600-tales-of-mobile-groovy-arche.json) |
+| Tales of Mobile: Klondike | 294596 | [294596-tales-of-mobile-klondike.json](./294596-tales-of-mobile-klondike.json) |
+| Tales of Mobile: Reversi | 294595 | [294595-tales-of-mobile-reversi.json](./294595-tales-of-mobile-reversi.json) |
+| Tales of Mobile: Tales of Breaker | 294605 | [294605-tales-of-mobile-tales-of-breaker.json](./294605-tales-of-mobile-tales-of-breaker.json) |
+| Tales of Mobile: Tales of Quiz | 294602 | [294602-tales-of-mobile-tales-of-quiz.json](./294602-tales-of-mobile-tales-of-quiz.json) |
+| Tales of Mobile: Tales of Tactics | 294604 | [294604-tales-of-mobile-tales-of-tactics.json](./294604-tales-of-mobile-tales-of-tactics.json) |
+| Tales of Mobile: Tales of Wonder Casino | 294603 | [294603-tales-of-mobile-tales-of-wonder-casino.json](./294603-tales-of-mobile-tales-of-wonder-casino.json) |
+| Tales of Mobile: Whis Battle | 294601 | [294601-tales-of-mobile-whis-battle.json](./294601-tales-of-mobile-whis-battle.json) |
 | Tales of Monkey Island | 64 | [64-tales-of-monkey-island.json](./64-tales-of-monkey-island.json) |
 | Tales of Monkey Island: Chapter 1 - Launch of the Screaming Narwhal | 81262 | [81262-tales-of-monkey-island-chapter-1-launch-of-the-screaming-narwhal.json](./81262-tales-of-monkey-island-chapter-1-launch-of-the-screaming-narwhal.json) |
 | Tales of Monkey Island: Chapter 2 - The Siege of Spinner Cay | 81263 | [81263-tales-of-monkey-island-chapter-2-the-siege-of-spinner-cay.json](./81263-tales-of-monkey-island-chapter-2-the-siege-of-spinner-cay.json) |
@@ -891,6 +903,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of the Unknown: Volume I - The Bard's Tale | 394234 | [394234-tales-of-the-unknown-volume-i-the-bards-tale.json](./394234-tales-of-the-unknown-volume-i-the-bards-tale.json) |
 | Tales of The White Knight | 320546 | [320546-tales-of-the-white-knight.json](./320546-tales-of-the-white-knight.json) |
 | Tales of the Withered | 358456 | [358456-tales-of-the-withered.json](./358456-tales-of-the-withered.json) |
+| Tales of the World: Dice Adventure | 294586 | [294586-tales-of-the-world-dice-adventure.json](./294586-tales-of-the-world-dice-adventure.json) |
+| Tales of the World: Material Dungeon | 294583 | [294583-tales-of-the-world-material-dungeon.json](./294583-tales-of-the-world-material-dungeon.json) |
 | Tales of the World: Narikiri Dungeon 2 | 49828 | [49828-tales-of-the-world-narikiri-dungeon-2.json](./49828-tales-of-the-world-narikiri-dungeon-2.json) |
 | Tales of the World: Narikiri Dungeon 3 | 49827 | [49827-tales-of-the-world-narikiri-dungeon-3.json](./49827-tales-of-the-world-narikiri-dungeon-3.json) |
 | Tales of the World: Radiant Mythology | 19159 | [19159-tales-of-the-world-radiant-mythology.json](./19159-tales-of-the-world-radiant-mythology.json) |
@@ -898,6 +912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of the World: Radiant Mythology 3 | 42793 | [42793-tales-of-the-world-radiant-mythology-3.json](./42793-tales-of-the-world-radiant-mythology-3.json) |
 | Tales of the World: Reve Unitia | 61871 | [61871-tales-of-the-world-reve-unitia.json](./61871-tales-of-the-world-reve-unitia.json) |
 | Tales of the World: Summoner's Lineage | 49826 | [49826-tales-of-the-world-summoners-lineage.json](./49826-tales-of-the-world-summoners-lineage.json) |
+| Tales of the World: Tactics Union | 294585 | [294585-tales-of-the-world-tactics-union.json](./294585-tales-of-the-world-tactics-union.json) |
 | Tales of Therapy | 226150 | [226150-tales-of-therapy.json](./226150-tales-of-therapy.json) |
 | Tales of Three Kingdoms: The Mortal World | 277579 | [277579-tales-of-three-kingdoms-the-mortal-world.json](./277579-tales-of-three-kingdoms-the-mortal-world.json) |
 | Tales of TianYuan Dynasty | 220747 | [220747-tales-of-tianyuan-dynasty.json](./220747-tales-of-tianyuan-dynasty.json) |
