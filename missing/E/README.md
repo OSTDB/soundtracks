@@ -3353,6 +3353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape the Virus: Shoot 'Em Up! | 85119 | [85119-escape-the-virus-shoot-em-up.json](./85119-escape-the-virus-shoot-em-up.json) |
 | Escape the Void | 183920 | [183920-escape-the-void.json](./183920-escape-the-void.json) |
 | Escape the Void | 296681 | [296681-escape-the-void.json](./296681-escape-the-void.json) |
+| Escape The Void | 302196 | [302196-escape-the-void.json](./302196-escape-the-void.json) |
 | Escape to Hell | 179517 | [179517-escape-to-hell.json](./179517-escape-to-hell.json) |
 | Escape to Mars | 159707 | [159707-escape-to-mars.json](./159707-escape-to-mars.json) |
 | Escape to Moscow 2 | 355150 | [355150-escape-to-moscow-2.json](./355150-escape-to-moscow-2.json) |
