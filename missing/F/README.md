@@ -2505,6 +2505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fetch Re;Quest | 361060 | [361060-fetch-re-quest.json](./361060-fetch-re-quest.json) |
 | Fetish Club | 298320 | [298320-fetish-club.json](./298320-fetish-club.json) |
 | Fetish Locator | 255686 | [255686-fetish-locator.json](./255686-fetish-locator.json) |
+| Fetish Locator Week Three | 281337 | [281337-fetish-locator-week-three.json](./281337-fetish-locator-week-three.json) |
 | Fetty Wap: Nitro Nation Stories | 76553 | [76553-fetty-wap-nitro-nation-stories.json](./76553-fetty-wap-nitro-nation-stories.json) |
 | Fetus in Oil Painting | 279136 | [279136-fetus-in-oil-painting.json](./279136-fetus-in-oil-painting.json) |
 | Feud | 113037 | [113037-feud.json](./113037-feud.json) |
@@ -5400,6 +5401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FNaF 4 Retro Edition | 275647 | [275647-fnaf-4-retro-edition.json](./275647-fnaf-4-retro-edition.json) |
 | FNaF Free Edition | 299571 | [299571-fnaf-free-edition.json](./299571-fnaf-free-edition.json) |
 | FNAF in Psych Engine | 242611 | [242611-fnaf-in-psych-engine.json](./242611-fnaf-in-psych-engine.json) |
+| FNaF Ultimate Edition | 281319 | [281319-fnaf-ultimate-edition.json](./281319-fnaf-ultimate-edition.json) |
 | FNaF World Randomizer | 237325 | [237325-fnaf-world-randomizer.json](./237325-fnaf-world-randomizer.json) |
 | FNaF World Redacted | 362810 | [362810-fnaf-world-redacted.json](./362810-fnaf-world-redacted.json) |
 | FNAF: Killer in Purple 2 | 383052 | [383052-fnaf-killer-in-purple-2.json](./383052-fnaf-killer-in-purple-2.json) |
@@ -8371,6 +8373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furry Furries | 244386 | [244386-furry-furries.json](./244386-furry-furries.json) |
 | Furry Futa | 239340 | [239340-furry-futa.json](./239340-furry-futa.json) |
 | Furry Futanari: 3 in 1 | 367042 | [367042-furry-futanari-3-in-1.json](./367042-furry-futanari-3-in-1.json) |
+| Furry Girl Puzzle | 281345 | [281345-furry-girl-puzzle.json](./281345-furry-girl-puzzle.json) |
 | Furry Girlfriend Simulator | 367038 | [367038-furry-girlfriend-simulator.json](./367038-furry-girlfriend-simulator.json) |
 | Furry Hentai Isekai | 201587 | [201587-furry-hentai-isekai.json](./201587-furry-hentai-isekai.json) |
 | Furry Hentai Quest | 192460 | [192460-furry-hentai-quest.json](./192460-furry-hentai-quest.json) |
