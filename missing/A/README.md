@@ -5865,6 +5865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Shelter Simulator: Puppies & Kittens | 209661 | [209661-animal-shelter-simulator-puppies-and-kittens.json](./209661-animal-shelter-simulator-puppies-and-kittens.json) |
 | Animal Smash | 365068 | [365068-animal-smash.json](./365068-animal-smash.json) |
 | Animal Soccer World | 43355 | [43355-animal-soccer-world.json](./43355-animal-soccer-world.json) |
+| Animal Striker 2 | 321651 | [321651-animal-striker-2.json](./321651-animal-striker-2.json) |
 | Animal Style | 391594 | [391594-animal-style.json](./391594-animal-style.json) |
 | Animal Super Squad | 74598 | [74598-animal-super-squad.json](./74598-animal-super-squad.json) |
 | Animal Survival | 378364 | [378364-animal-survival.json](./378364-animal-survival.json) |
