@@ -1626,6 +1626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KillerMUD | 112253 | [112253-killermud.json](./112253-killermud.json) |
 | Killest Fights Craw-Mech | 399900 | [399900-killest-fights-craw-mech.json](./399900-killest-fights-craw-mech.json) |
 | Killfest | 232932 | [232932-killfest.json](./232932-killfest.json) |
+| KillFish | 278925 | [278925-killfish.json](./278925-killfish.json) |
 | Killflow | 400500 | [400500-killflow.json](./400500-killflow.json) |
 | Killing a Superstar | 160228 | [160228-killing-a-superstar.json](./160228-killing-a-superstar.json) |
 | Killing Baby Hitler | 399088 | [399088-killing-baby-hitler.json](./399088-killing-baby-hitler.json) |
