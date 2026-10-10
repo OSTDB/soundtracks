@@ -960,6 +960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer 40,000: Space Marine Collection | 53904 | [53904-warhammer-40-000-space-marine-collection.json](./53904-warhammer-40-000-space-marine-collection.json) |
 | Warhammer 40,000: Space Marine II - Collector's Edition | 230829 | [230829-warhammer-40-000-space-marine-ii-collectors-edition.json](./230829-warhammer-40-000-space-marine-ii-collectors-edition.json) |
 | Warhammer 40,000: Space Marine II - Dark Angels Chapter Pack | 332083 | [332083-warhammer-40-000-space-marine-ii-dark-angels-chapter-pack.json](./332083-warhammer-40-000-space-marine-ii-dark-angels-chapter-pack.json) |
+| Warhammer 40,000: Space Marine II - Gold Edition | 289223 | [289223-warhammer-40-000-space-marine-ii-gold-edition.json](./289223-warhammer-40-000-space-marine-ii-gold-edition.json) |
 | Warhammer 40,000: Space Marine II - Purgation Update | 402513 | [402513-warhammer-40-000-space-marine-ii-purgation-update.json](./402513-warhammer-40-000-space-marine-ii-purgation-update.json) |
 | Warhammer 40,000: Space Marine II - Space Wolves Chapter Pack | 370094 | [370094-warhammer-40-000-space-marine-ii-space-wolves-chapter-pack.json](./370094-warhammer-40-000-space-marine-ii-space-wolves-chapter-pack.json) |
 | Warhammer 40,000: Space Marine II - Trygon Update | 340584 | [340584-warhammer-40-000-space-marine-ii-trygon-update.json](./340584-warhammer-40-000-space-marine-ii-trygon-update.json) |
