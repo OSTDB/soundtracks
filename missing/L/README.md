@@ -2928,6 +2928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Light of Veilendor | 261779 | [261779-light-of-veilendor.json](./261779-light-of-veilendor.json) |
 | Light on Earth | 383971 | [383971-light-on-earth.json](./383971-light-on-earth.json) |
 | Light Paradox | 190068 | [190068-light-paradox.json](./190068-light-paradox.json) |
+| Light Path | 292978 | [292978-light-path.json](./292978-light-path.json) |
 | Light Pollution | 262293 | [262293-light-pollution.json](./262293-light-pollution.json) |
 | Light Quest | 231991 | [231991-light-quest.json](./231991-light-quest.json) |
 | Light Rangers: Mending the Maniac Madness | 209406 | [209406-light-rangers-mending-the-maniac-madness.json](./209406-light-rangers-mending-the-maniac-madness.json) |
@@ -3361,6 +3362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lingo voor Kinderen | 327318 | [327318-lingo-voor-kinderen.json](./327318-lingo-voor-kinderen.json) |
 | LingoRogue | 356296 | [356296-lingorogue.json](./356296-lingorogue.json) |
 | Lingotopia | 102359 | [102359-lingotopia.json](./102359-lingotopia.json) |
+| LingTian1 | 292995 | [292995-lingtian1.json](./292995-lingtian1.json) |
 | Lingua Fleur: Lily | 112700 | [112700-lingua-fleur-lily.json](./112700-lingua-fleur-lily.json) |
 | Lingua Franca | 371920 | [371920-lingua-franca.json](./371920-lingua-franca.json) |
 | Linguist FPS: The Language Learning FPS | 202108 | [202108-linguist-fps-the-language-learning-fps.json](./202108-linguist-fps-the-language-learning-fps.json) |
@@ -5792,6 +5794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luduvo | 412303 | [412303-luduvo.json](./412303-luduvo.json) |
 | Ludwig | 9239 | [9239-ludwig.json](./9239-ludwig.json) |
 | Luenna: School of the Magi | 380197 | [380197-luenna-school-of-the-magi.json](./380197-luenna-school-of-the-magi.json) |
+| Luffi: Homebound | 292998 | [292998-luffi-homebound.json](./292998-luffi-homebound.json) |
 | Lufia: Curse of the Sinistrals | 1181 | [1181-lufia-curse-of-the-sinistrals.json](./1181-lufia-curse-of-the-sinistrals.json) |
 | Lufia: The Legend Returns | 1179 | [1179-lufia-the-legend-returns.json](./1179-lufia-the-legend-returns.json) |
 | Lufia: The Ruins of Lore | 1180 | [1180-lufia-the-ruins-of-lore.json](./1180-lufia-the-ruins-of-lore.json) |
