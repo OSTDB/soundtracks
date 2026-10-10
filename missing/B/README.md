@@ -98,6 +98,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Babe | 56546 | [56546-babe.json](./56546-babe.json) |
 | Babe and Friends | 245571 | [245571-babe-and-friends.json](./245571-babe-and-friends.json) |
 | Babe and Friends | 49915 | [49915-babe-and-friends.json](./49915-babe-and-friends.json) |
+| Babe and Friends: Animated Preschool Adventure | 316923 | [316923-babe-and-friends-animated-preschool-adventure.json](./316923-babe-and-friends-animated-preschool-adventure.json) |
 | Babe or Grave | 212288 | [212288-babe-or-grave.json](./212288-babe-or-grave.json) |
 | Babe-lathe | 296493 | [296493-babe-lathe.json](./296493-babe-lathe.json) |
 | Babel | 198377 | [198377-babel.json](./198377-babel.json) |
@@ -3982,6 +3983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Berserker 2: The Saga of Hilde | 390633 | [390633-berserker-2-the-saga-of-hilde.json](./390633-berserker-2-the-saga-of-hilde.json) |
 | Berserker Girl | 377202 | [377202-berserker-girl.json](./377202-berserker-girl.json) |
 | Berserker Onslaught | 399292 | [399292-berserker-onslaught.json](./399292-berserker-onslaught.json) |
+| Berserker Raids | 316920 | [316920-berserker-raids.json](./316920-berserker-raids.json) |
 | Berserker: A Viking Board Game | 213203 | [213203-berserker-a-viking-board-game.json](./213203-berserker-a-viking-board-game.json) |
 | Berserker's Descent | 145433 | [145433-berserkers-descent.json](./145433-berserkers-descent.json) |
 | Berserker's Domain | 350024 | [350024-berserkers-domain.json](./350024-berserkers-domain.json) |
@@ -6907,6 +6909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloompunk | 249355 | [249355-bloompunk.json](./249355-bloompunk.json) |
 | Blooms | 202241 | [202241-blooms.json](./202241-blooms.json) |
 | Blooms of April | 372280 | [372280-blooms-of-april.json](./372280-blooms-of-april.json) |
+| BloomTale | 316943 | [316943-bloomtale.json](./316943-bloomtale.json) |
 | Bloomyth & Strong Moon Bundle | 262055 | [262055-bloomyth-and-strong-moon-bundle.json](./262055-bloomyth-and-strong-moon-bundle.json) |
 | Bloons | 261913 | [261913-bloons.json](./261913-bloons.json) |
 | Bloons | 93561 | [93561-bloons.json](./93561-bloons.json) |
