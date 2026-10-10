@@ -1123,6 +1123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Sanctum | 290909 | [290909-dark-sanctum.json](./290909-dark-sanctum.json) |
 | Dark Sauce | 113693 | [113693-dark-sauce.json](./113693-dark-sauce.json) |
 | Dark Sceptre | 12990 | [12990-dark-sceptre.json](./12990-dark-sceptre.json) |
+| Dark Scythe | 313965 | [313965-dark-scythe.json](./313965-dark-scythe.json) |
 | Dark Secrets | 53912 | [53912-dark-secrets.json](./53912-dark-secrets.json) |
 | Dark Secrets Mystery Files | 399627 | [399627-dark-secrets-mystery-files.json](./399627-dark-secrets-mystery-files.json) |
 | Dark Sector | 6959 | [6959-dark-sector.json](./6959-dark-sector.json) |
@@ -1224,6 +1225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Wizardry: The Road to Gargath | 381341 | [381341-dark-wizardry-the-road-to-gargath.json](./381341-dark-wizardry-the-road-to-gargath.json) |
 | Dark Wonderland | 412293 | [412293-dark-wonderland.json](./412293-dark-wonderland.json) |
 | Dark Woods Haunted Quest: Hidden Objects Game | 197629 | [197629-dark-woods-haunted-quest-hidden-objects-game.json](./197629-dark-woods-haunted-quest-hidden-objects-game.json) |
+| Dark Wraith | 313999 | [313999-dark-wraith.json](./313999-dark-wraith.json) |
 | Dark Zodiac | 343338 | [343338-dark-zodiac.json](./343338-dark-zodiac.json) |
 | Dark Zone | 128983 | [128983-dark-zone.json](./128983-dark-zone.json) |
 | Dark Zone Defense | 125439 | [125439-dark-zone-defense.json](./125439-dark-zone-defense.json) |
@@ -8756,6 +8758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball Z: Kakarot - Ultimate Edition | 136271 | [136271-dragon-ball-z-kakarot-ultimate-edition.json](./136271-dragon-ball-z-kakarot-ultimate-edition.json) |
 | Dragon Ball Z: Kakarot + A New Power Awakens Set - Goku's Next Journey | 288303 | [288303-dragon-ball-z-kakarot-a-new-power-awakens-set-gokus-next-journey.json](./288303-dragon-ball-z-kakarot-a-new-power-awakens-set-gokus-next-journey.json) |
 | Dragon Ball Z: Kakarot + A New Power Awakens Set - Legendary Edition | 232992 | [232992-dragon-ball-z-kakarot-a-new-power-awakens-set-legendary-edition.json](./232992-dragon-ball-z-kakarot-a-new-power-awakens-set-legendary-edition.json) |
+| Dragon Ball Z: Legend of Z RPG | 314005 | [314005-dragon-ball-z-legend-of-z-rpg.json](./314005-dragon-ball-z-legend-of-z-rpg.json) |
 | Dragon Ball Z: Namekku-sei Chou Kessen | 346786 | [346786-dragon-ball-z-namekku-sei-chou-kessen.json](./346786-dragon-ball-z-namekku-sei-chou-kessen.json) |
 | Dragon Ball Z: Pong | 338683 | [338683-dragon-ball-z-pong.json](./338683-dragon-ball-z-pong.json) |
 | Dragon Ball Z: Recompiled | 416627 | [416627-dragon-ball-z-recompiled.json](./416627-dragon-ball-z-recompiled.json) |
@@ -8966,6 +8969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Quest Builders | 24069 | [24069-dragon-quest-builders.json](./24069-dragon-quest-builders.json) |
 | Dragon Quest Builders 2 | 54548 | [54548-dragon-quest-builders-2.json](./54548-dragon-quest-builders-2.json) |
 | Dragon Quest Characters: Torneko no Daibouken 2 Advance | 49270 | [49270-dragon-quest-characters-torneko-no-daibouken-2-advance.json](./49270-dragon-quest-characters-torneko-no-daibouken-2-advance.json) |
+| Dragon Quest Fushigi no Dungeon MOBILE | 314001 | [314001-dragon-quest-fushigi-no-dungeon-mobile.json](./314001-dragon-quest-fushigi-no-dungeon-mobile.json) |
 | Dragon Quest HD-2D Erdrick Trilogy Collection | 376240 | [376240-dragon-quest-hd-2d-erdrick-trilogy-collection.json](./376240-dragon-quest-hd-2d-erdrick-trilogy-collection.json) |
 | Dragon Quest Heroes I & II | 26771 | [26771-dragon-quest-heroes-i-and-ii.json](./26771-dragon-quest-heroes-i-and-ii.json) |
 | Dragon Quest Heroes II: Explorer's Edition | 136197 | [136197-dragon-quest-heroes-ii-explorers-edition.json](./136197-dragon-quest-heroes-ii-explorers-edition.json) |
