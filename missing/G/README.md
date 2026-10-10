@@ -6009,6 +6009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guardian | 15542 | [15542-guardian.json](./15542-guardian.json) |
 | Guardian | 37295 | [37295-guardian.json](./37295-guardian.json) |
 | Guardian | 55133 | [55133-guardian.json](./55133-guardian.json) |
+| Guardian Angel | 299584 | [299584-guardian-angel.json](./299584-guardian-angel.json) |
 | Guardian Angel for Hire | 178585 | [178585-guardian-angel-for-hire.json](./178585-guardian-angel-for-hire.json) |
 | Guardian Chronicle: Random Defense | 144989 | [144989-guardian-chronicle-random-defense.json](./144989-guardian-chronicle-random-defense.json) |
 | Guardian Force: Saturn Tribute | 173780 | [173780-guardian-force-saturn-tribute.json](./173780-guardian-force-saturn-tribute.json) |
