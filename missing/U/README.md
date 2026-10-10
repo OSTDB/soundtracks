@@ -1187,6 +1187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UnderPoint | 378541 | [378541-underpoint.json](./378541-underpoint.json) |
 | Underpond | 376444 | [376444-underpond.json](./376444-underpond.json) |
 | Underponder | 151189 | [151189-underponder.json](./151189-underponder.json) |
+| Underpowered Night Spooks | 292408 | [292408-underpowered-night-spooks.json](./292408-underpowered-night-spooks.json) |
 | Underquest | 250016 | [250016-underquest.json](./250016-underquest.json) |
 | UnderRaid | 56125 | [56125-underraid.json](./56125-underraid.json) |
 | Undersea Adventure | 69837 | [69837-undersea-adventure.json](./69837-undersea-adventure.json) |
