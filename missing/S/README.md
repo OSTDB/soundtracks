@@ -4389,6 +4389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shady Brook - A Dark Mystery Text Adventure | 30903 | [30903-shady-brook-a-dark-mystery-text-adventure.json](./30903-shady-brook-a-dark-mystery-text-adventure.json) |
 | Shady Business | 195198 | [195198-shady-business.json](./195198-shady-business.json) |
 | Shady Business | 408028 | [408028-shady-business.json](./408028-shady-business.json) |
+| Shady Lewd Kart: Wild Woody Character Pack | 295113 | [295113-shady-lewd-kart-wild-woody-character-pack.json](./295113-shady-lewd-kart-wild-woody-character-pack.json) |
 | Shady O'Grady's Overnight Sensation | 391234 | [391234-shady-ogradys-overnight-sensation.json](./391234-shady-ogradys-overnight-sensation.json) |
 | Shady Wars | 260764 | [260764-shady-wars.json](./260764-shady-wars.json) |
 | Shady's Poopong: 22nd Anniversary Edition | 60618 | [60618-shadys-poopong-22nd-anniversary-edition.json](./60618-shadys-poopong-22nd-anniversary-edition.json) |
@@ -6084,6 +6085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shy Dogs: Hidden Orchestra 2 | 407461 | [407461-shy-dogs-hidden-orchestra-2.json](./407461-shy-dogs-hidden-orchestra-2.json) |
 | Shy Dwarf | 263450 | [263450-shy-dwarf.json](./263450-shy-dwarf.json) |
 | Shy Girl | 226198 | [226198-shy-girl.json](./226198-shy-girl.json) |
+| Shy Girl's Makeover | 295148 | [295148-shy-girls-makeover.json](./295148-shy-girls-makeover.json) |
 | Shy Guy Surfing | 310662 | [310662-shy-guy-surfing.json](./310662-shy-guy-surfing.json) |
 | Shyftrs | 205793 | [205793-shyftrs.json](./205793-shyftrs.json) |
 | Si Da Ming Bu | 93387 | [93387-si-da-ming-bu.json](./93387-si-da-ming-bu.json) |
@@ -6880,6 +6882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simply Snakes | 300833 | [300833-simply-snakes.json](./300833-simply-snakes.json) |
 | Simply Sudoku | 266241 | [266241-simply-sudoku.json](./266241-simply-sudoku.json) |
 | SimRail: The Railway Simulator | 164278 | [164278-simrail-the-railway-simulator.json](./164278-simrail-the-railway-simulator.json) |
+| SimRail: The Railway Simulator - Cargo Pack | 295114 | [295114-simrail-the-railway-simulator-cargo-pack.json](./295114-simrail-the-railway-simulator-cargo-pack.json) |
 | SimRefinery | 72604 | [72604-simrefinery.json](./72604-simrefinery.json) |
 | SimSafari | 95477 | [95477-simsafari.json](./95477-simsafari.json) |
 | Simsig | 125969 | [125969-simsig.json](./125969-simsig.json) |
@@ -7116,6 +7119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sippin Hot Blickety Block N Bop Those Bad Battle Boys Down to Size Supreme | 213455 | [213455-sippin-hot-blickety-block-n-bop-those-bad-battle-boys-down-to-size-supreme.json](./213455-sippin-hot-blickety-block-n-bop-those-bad-battle-boys-down-to-size-supreme.json) |
 | Sips and Sonnets | 346739 | [346739-sips-and-sonnets.json](./346739-sips-and-sonnets.json) |
 | Sir Ababol: Remastered Edition | 194641 | [194641-sir-ababol-remastered-edition.json](./194641-sir-ababol-remastered-edition.json) |
+| Sir Bucket | 295139 | [295139-sir-bucket.json](./295139-sir-bucket.json) |
 | Sir Eatsalot | 69340 | [69340-sir-eatsalot.json](./69340-sir-eatsalot.json) |
 | Sir Erik | 301439 | [301439-sir-erik.json](./301439-sir-erik.json) |
 | Sir Fallen: Shadows of the Phoenixheart | 316128 | [316128-sir-fallen-shadows-of-the-phoenixheart.json](./316128-sir-fallen-shadows-of-the-phoenixheart.json) |
@@ -11643,6 +11647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soundboxing | 31625 | [31625-soundboxing.json](./31625-soundboxing.json) |
 | Soundbusting | 177996 | [177996-soundbusting.json](./177996-soundbusting.json) |
 | Soundfall | 106821 | [106821-soundfall.json](./106821-soundfall.json) |
+| SoundKilla | 295154 | [295154-soundkilla.json](./295154-soundkilla.json) |
 | Soundless Mound | 262310 | [262310-soundless-mound.json](./262310-soundless-mound.json) |
 | Soundless: Final Verse | 282694 | [282694-soundless-final-verse.json](./282694-soundless-final-verse.json) |
 | SoundLites | 90594 | [90594-soundlites.json](./90594-soundlites.json) |
@@ -18019,6 +18024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Subway Exorcist Girl | 329389 | [329389-subway-exorcist-girl.json](./329389-subway-exorcist-girl.json) |
 | Subway Invasion | 353969 | [353969-subway-invasion.json](./353969-subway-invasion.json) |
 | Subway Midnight | 175934 | [175934-subway-midnight.json](./175934-subway-midnight.json) |
+| Subway Outbreak | 295137 | [295137-subway-outbreak.json](./295137-subway-outbreak.json) |
 | Subway Rider - Train Rush | 106567 | [106567-subway-rider-train-rush.json](./106567-subway-rider-train-rush.json) |
 | Subway Simulator | 87982 | [87982-subway-simulator.json](./87982-subway-simulator.json) |
 | Subway Simulator 10: New York Edition | 91348 | [91348-subway-simulator-10-new-york-edition.json](./91348-subway-simulator-10-new-york-edition.json) |
