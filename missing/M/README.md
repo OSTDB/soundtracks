@@ -3626,6 +3626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Matt Hazard: Blood Bath and Beyond | 47430 | [47430-matt-hazard-blood-bath-and-beyond.json](./47430-matt-hazard-blood-bath-and-beyond.json) |
 | Matt Sandorf: Journey to Endless Entertainment | 258187 | [258187-matt-sandorf-journey-to-endless-entertainment.json](./258187-matt-sandorf-journey-to-endless-entertainment.json) |
 | Matta Blatta | 60346 | [60346-matta-blatta.json](./60346-matta-blatta.json) |
+| Mattami Restaurant & Cafe Tycoon | 292421 | [292421-mattami-restaurant-and-cafe-tycoon.json](./292421-mattami-restaurant-and-cafe-tycoon.json) |
 | Mattel Match | 406255 | [406255-mattel-match.json](./406255-mattel-match.json) |
 | Matter | 112900 | [112900-matter.json](./112900-matter.json) |
 | Matter | 299869 | [299869-matter.json](./299869-matter.json) |
@@ -11154,6 +11155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Move Street Cricket II | 97933 | [97933-move-street-cricket-ii.json](./97933-move-street-cricket-ii.json) |
 | Move the Blocks | 57743 | [57743-move-the-blocks.json](./57743-move-the-blocks.json) |
 | Move The Box: Classic Block Puzzle | 251052 | [251052-move-the-box-classic-block-puzzle.json](./251052-move-the-box-classic-block-puzzle.json) |
+| Moved Mind | 292420 | [292420-moved-mind.json](./292420-moved-mind.json) |
 | MoveFort | 318189 | [318189-movefort.json](./318189-movefort.json) |
 | Moveit | 188500 | [188500-moveit.json](./188500-moveit.json) |
 | Moves | 129081 | [129081-moves.json](./129081-moves.json) |
@@ -12686,6 +12688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Love 2 | 303286 | [303286-my-love-2.json](./303286-my-love-2.json) |
 | My Love for You is Evermore | 254570 | [254570-my-love-for-you-is-evermore.json](./254570-my-love-for-you-is-evermore.json) |
 | My Love Match | 240855 | [240855-my-love-match.json](./240855-my-love-match.json) |
+| My Love With The GirlsGroup | 292418 | [292418-my-love-with-the-girlsgroup.json](./292418-my-love-with-the-girlsgroup.json) |
 | My Lovely Cat: Remastered | 325733 | [325733-my-lovely-cat-remastered.json](./325733-my-lovely-cat-remastered.json) |
 | My Lovely Dog Adventure | 263231 | [263231-my-lovely-dog-adventure.json](./263231-my-lovely-dog-adventure.json) |
 | My Lovely Family Bundle | 223563 | [223563-my-lovely-family-bundle.json](./223563-my-lovely-family-bundle.json) |
