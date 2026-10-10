@@ -629,10 +629,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gallop Champion | 286225 | [286225-gallop-champion.json](./286225-gallop-champion.json) |
 | Gallop Glory: Obstacle Racing & Horse Simulator | 300726 | [300726-gallop-glory-obstacle-racing-and-horse-simulator.json](./300726-gallop-glory-obstacle-racing-and-horse-simulator.json) |
 | Gallop Racer | 13659 | [13659-gallop-racer.json](./13659-gallop-racer.json) |
+| Gallop Racer | 310697 | [310697-gallop-racer.json](./310697-gallop-racer.json) |
 | Gallop Racer 2001 | 20144 | [20144-gallop-racer-2001.json](./20144-gallop-racer-2001.json) |
 | Gallop Racer 2003: A New Breed | 20145 | [20145-gallop-racer-2003-a-new-breed.json](./20145-gallop-racer-2003-a-new-breed.json) |
 | Gallop Racer 2004 | 20146 | [20146-gallop-racer-2004.json](./20146-gallop-racer-2004.json) |
 | Gallop Racer 2006 | 20147 | [20147-gallop-racer-2006.json](./20147-gallop-racer-2006.json) |
+| Gallop Racer Online | 310712 | [310712-gallop-racer-online.json](./310712-gallop-racer-online.json) |
 | Gallows | 95186 | [95186-gallows.json](./95186-gallows.json) |
 | Gallows Choice | 108052 | [108052-gallows-choice.json](./108052-gallows-choice.json) |
 | Galmedes | 40147 | [40147-galmedes.json](./40147-galmedes.json) |
