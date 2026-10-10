@@ -388,6 +388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saikyou Todai Shogi | 203548 | [203548-saikyou-todai-shogi.json](./203548-saikyou-todai-shogi.json) |
 | Saikyou Todai Shogi 2 | 203549 | [203549-saikyou-todai-shogi-2.json](./203549-saikyou-todai-shogi-2.json) |
 | Sail Forth | 115491 | [115491-sail-forth.json](./115491-sail-forth.json) |
+| Sail Forth + Maelstrom Bundle | 284860 | [284860-sail-forth-maelstrom-bundle.json](./284860-sail-forth-maelstrom-bundle.json) |
 | Sail Forth: Maelstrom | 283240 | [283240-sail-forth-maelstrom.json](./283240-sail-forth-maelstrom.json) |
 | Sail or Fail | 290999 | [290999-sail-or-fail.json](./290999-sail-or-fail.json) |
 | Sail Ships | 102365 | [102365-sail-ships.json](./102365-sail-ships.json) |
@@ -6074,6 +6075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shutterbuds | 341475 | [341475-shutterbuds.json](./341475-shutterbuds.json) |
 | Shutterbug Stud | 156599 | [156599-shutterbug-stud.json](./156599-shutterbug-stud.json) |
 | Shuttle Commander | 153326 | [153326-shuttle-commander.json](./153326-shuttle-commander.json) |
+| Shuttle Intercept | 284848 | [284848-shuttle-intercept.json](./284848-shuttle-intercept.json) |
 | Shuttle Orbiter | 40694 | [40694-shuttle-orbiter.json](./40694-shuttle-orbiter.json) |
 | Shuttle Scuttle | 213931 | [213931-shuttle-scuttle.json](./213931-shuttle-scuttle.json) |
 | Shuttle World | 242541 | [242541-shuttle-world.json](./242541-shuttle-world.json) |
@@ -8168,6 +8170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sleeping Gods Lie | 71585 | [71585-sleeping-gods-lie.json](./71585-sleeping-gods-lie.json) |
 | Sleeping Prince | 77966 | [77966-sleeping-prince.json](./77966-sleeping-prince.json) |
 | Sleeping Valley | 24960 | [24960-sleeping-valley.json](./24960-sleeping-valley.json) |
+| Sleeping With Sakuya Izayoi | 284849 | [284849-sleeping-with-sakuya-izayoi.json](./284849-sleeping-with-sakuya-izayoi.json) |
 | Sleeping With Sakuya Izayoi: ASMR DLC | 298255 | [298255-sleeping-with-sakuya-izayoi-asmr-dlc.json](./298255-sleeping-with-sakuya-izayoi-asmr-dlc.json) |
 | Sleeping With the Phish | 391178 | [391178-sleeping-with-the-phish.json](./391178-sleeping-with-the-phish.json) |
 | Sleeping: Counting Sheep | 321503 | [321503-sleeping-counting-sheep.json](./321503-sleeping-counting-sheep.json) |
@@ -9610,6 +9613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SnowRunner + Expeditions: A MudRunner Game Bundle | 398397 | [398397-snowrunner-expeditions-a-mudrunner-game-bundle.json](./398397-snowrunner-expeditions-a-mudrunner-game-bundle.json) |
 | SnowRunner + RoadCraft Loyalty Bundle | 398396 | [398396-snowrunner-roadcraft-loyalty-bundle.json](./398396-snowrunner-roadcraft-loyalty-bundle.json) |
 | SnowRunner: 3-Year Anniversary Edition | 230833 | [230833-snowrunner-3-year-anniversary-edition.json](./230833-snowrunner-3-year-anniversary-edition.json) |
+| SnowRunner: 4-Year Anniversary Edition | 284865 | [284865-snowrunner-4-year-anniversary-edition.json](./284865-snowrunner-4-year-anniversary-edition.json) |
 | SnowRunner: 5-Year Anniversary Edition | 397767 | [397767-snowrunner-5-year-anniversary-edition.json](./397767-snowrunner-5-year-anniversary-edition.json) |
 | SnowRunner: Anniversary DLC | 148146 | [148146-snowrunner-anniversary-dlc.json](./148146-snowrunner-anniversary-dlc.json) |
 | SnowRunner: Burning Bright Vinyl Wrap Pack | 148155 | [148155-snowrunner-burning-bright-vinyl-wrap-pack.json](./148155-snowrunner-burning-bright-vinyl-wrap-pack.json) |
