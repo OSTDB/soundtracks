@@ -10586,6 +10586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DuckStruck | 371326 | [371326-duckstruck.json](./371326-duckstruck.json) |
 | DuckTales: Scrooge's Loot | 78640 | [78640-ducktales-scrooges-loot.json](./78640-ducktales-scrooges-loot.json) |
 | DuckTape Inc. | 383071 | [383071-ducktape-inc.json](./383071-ducktape-inc.json) |
+| Duckthing's Rolling Rooms | 292417 | [292417-duckthings-rolling-rooms.json](./292417-duckthings-rolling-rooms.json) |
 | Ducktopia | 169388 | [169388-ducktopia.json](./169388-ducktopia.json) |
 | DuckWorld Revive | 327960 | [327960-duckworld-revive.json](./327960-duckworld-revive.json) |
 | DuckWorld Smart Adventures | 327959 | [327959-duckworld-smart-adventures.json](./327959-duckworld-smart-adventures.json) |
