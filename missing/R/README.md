@@ -628,6 +628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raid Manager | 197655 | [197655-raid-manager.json](./197655-raid-manager.json) |
 | Raid of Titan | 402422 | [402422-raid-of-titan.json](./402422-raid-of-titan.json) |
 | Raid on Bungeling Bay | 24664 | [24664-raid-on-bungeling-bay.json](./24664-raid-on-bungeling-bay.json) |
+| Raid on Bungeling Bay | 287592 | [287592-raid-on-bungeling-bay.json](./287592-raid-on-bungeling-bay.json) |
 | Raid on Coasts | 51574 | [51574-raid-on-coasts.json](./51574-raid-on-coasts.json) |
 | Raid on the Ruhr | 116248 | [116248-raid-on-the-ruhr.json](./116248-raid-on-the-ruhr.json) |
 | Raid on Tri City | 306721 | [306721-raid-on-tri-city.json](./306721-raid-on-tri-city.json) |
@@ -5178,6 +5179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road Drawing 3D | 262337 | [262337-road-drawing-3d.json](./262337-road-drawing-3d.json) |
 | Road Fighter | 4607 | [4607-road-fighter.json](./4607-road-fighter.json) |
 | Road Hell | 317564 | [317564-road-hell.json](./317564-road-hell.json) |
+| Road Hero | 287547 | [287547-road-hero.json](./287547-road-hero.json) |
 | Road Hog! | 84245 | [84245-road-hog.json](./84245-road-hog.json) |
 | Road Home | 156045 | [156045-road-home.json](./156045-road-home.json) |
 | Road Homeward | 104157 | [104157-road-homeward.json](./104157-road-homeward.json) |
@@ -5867,6 +5869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocketeer | 211953 | [211953-rocketeer.json](./211953-rocketeer.json) |
 | Rocketeer | 318154 | [318154-rocketeer.json](./318154-rocketeer.json) |
 | RocketGirl | 76709 | [76709-rocketgirl.json](./76709-rocketgirl.json) |
+| Rocketman | 287548 | [287548-rocketman.json](./287548-rocketman.json) |
 | Rocketmen: Axis of Evil | 20273 | [20273-rocketmen-axis-of-evil.json](./20273-rocketmen-axis-of-evil.json) |
 | Rocketmen: It Came from Uranus | 41588 | [41588-rocketmen-it-came-from-uranus.json](./41588-rocketmen-it-came-from-uranus.json) |
 | RocketPods | 127975 | [127975-rocketpods.json](./127975-rocketpods.json) |
