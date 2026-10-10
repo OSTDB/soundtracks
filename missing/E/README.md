@@ -832,6 +832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Effing Worms | 210662 | [210662-effing-worms.json](./210662-effing-worms.json) |
 | Effortworld | 265655 | [265655-effortworld.json](./265655-effortworld.json) |
 | Effugium | 255954 | [255954-effugium.json](./255954-effugium.json) |
+| Effulgence RPG | 321067 | [321067-effulgence-rpg.json](./321067-effulgence-rpg.json) |
 | Effy: One of Unreasonable "If" | 236822 | [236822-effy-one-of-unreasonable-if.json](./236822-effy-one-of-unreasonable-if.json) |
 | Efi | 176508 | [176508-efi.json](./176508-efi.json) |
 | EFO: Escape From Outerworld | 165674 | [165674-efo-escape-from-outerworld.json](./165674-efo-escape-from-outerworld.json) |
@@ -1108,8 +1109,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | El Cid | 13629 | [13629-el-cid.json](./13629-el-cid.json) |
 | El Coco | 353884 | [353884-el-coco.json](./353884-el-coco.json) |
 | El Conquista | 362410 | [362410-el-conquista.json](./362410-el-conquista.json) |
+| El Dios de Nauru | 321014 | [321014-el-dios-de-nauru.json](./321014-el-dios-de-nauru.json) |
 | El Dorado | 214994 | [214994-el-dorado.json](./214994-el-dorado.json) |
 | El Dorado | 312880 | [312880-el-dorado.json](./312880-el-dorado.json) |
+| El Engaño de Barbapoca: Capítulo 1 - Esta Pizza Está de Muerte | 321029 | [321029-el-engano-de-barbapoca-capitulo-1-esta-pizza-esta-de-muerte.json](./321029-el-engano-de-barbapoca-capitulo-1-esta-pizza-esta-de-muerte.json) |
+| El Engaño de Barbapoca: Capítulo 2 - Competencia Fantasmal | 321031 | [321031-el-engano-de-barbapoca-capitulo-2-competencia-fantasmal.json](./321031-el-engano-de-barbapoca-capitulo-2-competencia-fantasmal.json) |
+| El Escape de Charly | 321056 | [321056-el-escape-de-charly.json](./321056-el-escape-de-charly.json) |
 | El gaucho Martín Fierro | 340035 | [340035-el-gaucho-martin-fierro.json](./340035-el-gaucho-martin-fierro.json) |
 | El Hero | 333227 | [333227-el-hero.json](./333227-el-hero.json) |
 | El Hijo: A Wild West Tale | 25227 | [25227-el-hijo-a-wild-west-tale.json](./25227-el-hijo-a-wild-west-tale.json) |
