@@ -2884,6 +2884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cazzarion: Astro Bouncer | 290418 | [290418-cazzarion-astro-bouncer.json](./290418-cazzarion-astro-bouncer.json) |
 | Cazzarion: Builder | 335961 | [335961-cazzarion-builder.json](./335961-cazzarion-builder.json) |
 | Cazzarion: Car Chase | 304267 | [304267-cazzarion-car-chase.json](./304267-cazzarion-car-chase.json) |
+| Cazzarion: Coin Pilot | 305412 | [305412-cazzarion-coin-pilot.json](./305412-cazzarion-coin-pilot.json) |
 | Cazzarion: Dart Wheel | 296087 | [296087-cazzarion-dart-wheel.json](./296087-cazzarion-dart-wheel.json) |
 | Cazzarion: Drone Attack | 320760 | [320760-cazzarion-drone-attack.json](./320760-cazzarion-drone-attack.json) |
 | Cazzarion: Drone Flight | 317566 | [317566-cazzarion-drone-flight.json](./317566-cazzarion-drone-flight.json) |
@@ -8192,6 +8193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Construction Simulator: SANY Pack | 266746 | [266746-construction-simulator-sany-pack.json](./266746-construction-simulator-sany-pack.json) |
 | Construction Simulator: Spaceport Bundle | 277569 | [277569-construction-simulator-spaceport-bundle.json](./277569-construction-simulator-spaceport-bundle.json) |
 | Construction Simulator: Spaceport Expansion | 275117 | [275117-construction-simulator-spaceport-expansion.json](./275117-construction-simulator-spaceport-expansion.json) |
+| Construction Simulator: Titanium Edition | 305488 | [305488-construction-simulator-titanium-edition.json](./305488-construction-simulator-titanium-edition.json) |
 | Construction Simulator: Year 1 Season Pass | 246401 | [246401-construction-simulator-year-1-season-pass.json](./246401-construction-simulator-year-1-season-pass.json) |
 | Construction Simulator: Year 2 Season Pass | 293132 | [293132-construction-simulator-year-2-season-pass.json](./293132-construction-simulator-year-2-season-pass.json) |
 | Construction Site Driver 2 | 223568 | [223568-construction-site-driver-2.json](./223568-construction-site-driver-2.json) |
@@ -9304,6 +9306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cowboy 3030 | 266220 | [266220-cowboy-3030.json](./266220-cowboy-3030.json) |
 | Cowboy Busy: Mowdown | 409743 | [409743-cowboy-busy-mowdown.json](./409743-cowboy-busy-mowdown.json) |
 | Cowboy Carl | 306456 | [306456-cowboy-carl.json](./306456-cowboy-carl.json) |
+| Cowboy Duel: Red Wild West Massacre | 305411 | [305411-cowboy-duel-red-wild-west-massacre.json](./305411-cowboy-duel-red-wild-west-massacre.json) |
 | Cowboy Escape | 88233 | [88233-cowboy-escape.json](./88233-cowboy-escape.json) |
 | Cowboy Gold Round-Up | 103867 | [103867-cowboy-gold-round-up.json](./103867-cowboy-gold-round-up.json) |
 | Cowboy Life Simulator | 123528 | [123528-cowboy-life-simulator.json](./123528-cowboy-life-simulator.json) |
