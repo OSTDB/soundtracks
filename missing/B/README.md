@@ -2159,6 +2159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Batten Tanuki no Daibouken | 47548 | [47548-batten-tanuki-no-daibouken.json](./47548-batten-tanuki-no-daibouken.json) |
 | Batter Bear | 398478 | [398478-batter-bear.json](./398478-batter-bear.json) |
 | Batter Up! | 329039 | [329039-batter-up.json](./329039-batter-up.json) |
+| Batteri Fjell 1945 | 292966 | [292966-batteri-fjell-1945.json](./292966-batteri-fjell-1945.json) |
 | Batteries Included | 117079 | [117079-batteries-included.json](./117079-batteries-included.json) |
 | Batterneers | 158215 | [158215-batterneers.json](./158215-batterneers.json) |
 | Battery Check | 242641 | [242641-battery-check.json](./242641-battery-check.json) |
@@ -10691,6 +10692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burger Shop Simulator 2024 | 326584 | [326584-burger-shop-simulator-2024.json](./326584-burger-shop-simulator-2024.json) |
 | Burger Shot | 362186 | [362186-burger-shot.json](./362186-burger-shot.json) |
 | Burger Story Beach Edition | 97150 | [97150-burger-story-beach-edition.json](./97150-burger-story-beach-edition.json) |
+| Burger Time | 292985 | [292985-burger-time.json](./292985-burger-time.json) |
 | Burger Truck Trump | 334056 | [334056-burger-truck-trump.json](./334056-burger-truck-trump.json) |
 | Burger Typer | 369713 | [369713-burger-typer.json](./369713-burger-typer.json) |
 | Burger Up | 121037 | [121037-burger-up.json](./121037-burger-up.json) |
