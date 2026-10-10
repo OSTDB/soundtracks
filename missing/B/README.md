@@ -2576,6 +2576,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlecon: Online - Season 1 | 174140 | [174140-battlecon-online-season-1.json](./174140-battlecon-online-season-1.json) |
 | Battlecon: Online - Season 2 | 174141 | [174141-battlecon-online-season-2.json](./174141-battlecon-online-season-2.json) |
 | BattleCore Arena | 65825 | [65825-battlecore-arena.json](./65825-battlecore-arena.json) |
+| BattleCore Arena: Founder's Pack | 316391 | [316391-battlecore-arena-founders-pack.json](./316391-battlecore-arena-founders-pack.json) |
+| BattleCore Arena: Kaps Pack | 316375 | [316375-battlecore-arena-kaps-pack.json](./316375-battlecore-arena-kaps-pack.json) |
+| BattleCore Arena: Premium Founders Pack | 316380 | [316380-battlecore-arena-premium-founders-pack.json](./316380-battlecore-arena-premium-founders-pack.json) |
 | BattleCourt | 132219 | [132219-battlecourt.json](./132219-battlecourt.json) |
 | Battlecraft | 128947 | [128947-battlecraft.json](./128947-battlecraft.json) |
 | BattleCrew: Space Pirates | 26807 | [26807-battlecrew-space-pirates.json](./26807-battlecrew-space-pirates.json) |
@@ -9479,6 +9482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bring Honey Home | 150635 | [150635-bring-honey-home.json](./150635-bring-honey-home.json) |
 | Bring me a man, Santa | 159727 | [159727-bring-me-a-man-santa.json](./159727-bring-me-a-man-santa.json) |
 | Bring Me Down | 241350 | [241350-bring-me-down.json](./241350-bring-me-down.json) |
+| Bring Me that Shawarma: Supporter Pack | 316385 | [316385-bring-me-that-shawarma-supporter-pack.json](./316385-bring-me-that-shawarma-supporter-pack.json) |
 | Bring Me... | 317318 | [317318-bring-me.json](./317318-bring-me.json) |
 | Bring the Book Back | 338330 | [338330-bring-the-book-back.json](./338330-bring-the-book-back.json) |
 | Bring The Rift | 401883 | [401883-bring-the-rift.json](./401883-bring-the-rift.json) |
@@ -10336,6 +10340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BulletHell Planes | 135045 | [135045-bullethell-planes.json](./135045-bullethell-planes.json) |
 | Bulletline | 101365 | [101365-bulletline.json](./101365-bulletline.json) |
 | Bulletnico | 334497 | [334497-bulletnico.json](./334497-bulletnico.json) |
+| Bulletombe | 316367 | [316367-bulletombe.json](./316367-bulletombe.json) |
 | Bulletorium | 121401 | [121401-bulletorium.json](./121401-bulletorium.json) |
 | Bulletproof | 235697 | [235697-bulletproof.json](./235697-bulletproof.json) |
 | Bulletreign: Survivors | 406200 | [406200-bulletreign-survivors.json](./406200-bulletreign-survivors.json) |
