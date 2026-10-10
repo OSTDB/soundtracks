@@ -4299,6 +4299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medal of Honor: Underground | 1308 | [1308-medal-of-honor-underground.json](./1308-medal-of-honor-underground.json) |
 | Medal of Honor: Warfighter | 1306 | [1306-medal-of-honor-warfighter.json](./1306-medal-of-honor-warfighter.json) |
 | Medal Tree | 370014 | [370014-medal-tree.json](./370014-medal-tree.json) |
+| Medal Winners 24 | 293554 | [293554-medal-winners-24.json](./293554-medal-winners-24.json) |
 | Medals of War | 71024 | [71024-medals-of-war.json](./71024-medals-of-war.json) |
 | MedArc | 70391 | [70391-medarc.json](./70391-medarc.json) |
 | Medarot 2 Kabuto/Kuwagata | 91530 | [91530-medarot-2-kabuto-kuwagata.json](./91530-medarot-2-kabuto-kuwagata.json) |
@@ -5349,6 +5350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memora Wanderer | 298267 | [298267-memora-wanderer.json](./298267-memora-wanderer.json) |
 | Memorabilia | 177412 | [177412-memorabilia.json](./177412-memorabilia.json) |
 | Memoralysis: The Scorched Home | 323230 | [323230-memoralysis-the-scorched-home.json](./323230-memoralysis-the-scorched-home.json) |
+| Memorel | 293501 | [293501-memorel.json](./293501-memorel.json) |
 | Memorel Restoration Project | 380525 | [380525-memorel-restoration-project.json](./380525-memorel-restoration-project.json) |
 | Memori | 251579 | [251579-memori.json](./251579-memori.json) |
 | Memoria | 132732 | [132732-memoria.json](./132732-memoria.json) |
@@ -12840,6 +12842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Soul Forever | 226177 | [226177-my-soul-forever.json](./226177-my-soul-forever.json) |
 | My Soul Trapped in a WIN98 PC | 274196 | [274196-my-soul-trapped-in-a-win98-pc.json](./274196-my-soul-trapped-in-a-win98-pc.json) |
 | My Spa Resort | 296077 | [296077-my-spa-resort.json](./296077-my-spa-resort.json) |
+| My Space Bar | 293530 | [293530-my-space-bar.json](./293530-my-space-bar.json) |
 | My Spanish Coach | 72912 | [72912-my-spanish-coach.json](./72912-my-spanish-coach.json) |
 | My Spelling Words | 93073 | [93073-my-spelling-words.json](./93073-my-spelling-words.json) |
 | My Splitting Image | 355231 | [355231-my-splitting-image.json](./355231-my-splitting-image.json) |
