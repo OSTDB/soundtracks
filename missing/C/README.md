@@ -4492,6 +4492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chip's Challenge | 282561 | [282561-chips-challenge.json](./282561-chips-challenge.json) |
 | Chip's Challenge (Amiga/C64/Lynx/Mega Drive/SNES/Spectrum) | 413030 | [413030-chips-challenge-amiga-c64-lynx-mega-drive-snes-spectrum.json](./413030-chips-challenge-amiga-c64-lynx-mega-drive-snes-spectrum.json) |
 | Chip's Challenge 2 | 22151 | [22151-chips-challenge-2.json](./22151-chips-challenge-2.json) |
+| Chipichapas Evolution: Clicker | 288147 | [288147-chipichapas-evolution-clicker.json](./288147-chipichapas-evolution-clicker.json) |
 | Chipmatic | 355037 | [355037-chipmatic.json](./355037-chipmatic.json) |
 | Chipmonk! | 114947 | [114947-chipmonk.json](./114947-chipmonk.json) |
 | Chipper & Sons Lumber Co. | 59984 | [59984-chipper-and-sons-lumber-co.json](./59984-chipper-and-sons-lumber-co.json) |
