@@ -3767,6 +3767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Avengers Pinball | 314916 | [314916-the-avengers-pinball.json](./314916-the-avengers-pinball.json) |
 | The Avengers United Battle Force | 297544 | [297544-the-avengers-united-battle-force.json](./297544-the-avengers-united-battle-force.json) |
 | The Average Everyday Adventures of Samantha Browne | 16984 | [16984-the-average-everyday-adventures-of-samantha-browne.json](./16984-the-average-everyday-adventures-of-samantha-browne.json) |
+| The Aviator Escape | 315788 | [315788-the-aviator-escape.json](./315788-the-aviator-escape.json) |
 | The Avoider | 178976 | [178976-the-avoider.json](./178976-the-avoider.json) |
 | The Awaited ReCollection | 239791 | [239791-the-awaited-recollection.json](./239791-the-awaited-recollection.json) |
 | The Awakened Avenger | 372467 | [372467-the-awakened-avenger.json](./372467-the-awakened-avenger.json) |
@@ -7041,6 +7042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Jumping Chocolate: Turbo | 231372 | [231372-the-jumping-chocolate-turbo.json](./231372-the-jumping-chocolate-turbo.json) |
 | The Jumping Cookie | 228592 | [228592-the-jumping-cookie.json](./228592-the-jumping-cookie.json) |
 | The Jumping Cookie: Turbo | 228593 | [228593-the-jumping-cookie-turbo.json](./228593-the-jumping-cookie-turbo.json) |
+| The Jumping Donut | 315810 | [315810-the-jumping-donut.json](./315810-the-jumping-donut.json) |
 | The Jumping Food Delivery | 359991 | [359991-the-jumping-food-delivery.json](./359991-the-jumping-food-delivery.json) |
 | The Jumping Food Racing | 377709 | [377709-the-jumping-food-racing.json](./377709-the-jumping-food-racing.json) |
 | The Jumping Food Racing 2 | 380407 | [380407-the-jumping-food-racing-2.json](./380407-the-jumping-food-racing-2.json) |
@@ -7340,6 +7342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Craftsman | 229937 | [229937-the-last-craftsman.json](./229937-the-last-craftsman.json) |
 | The Last Crown | 175712 | [175712-the-last-crown.json](./175712-the-last-crown.json) |
 | The Last Crown: Midnight Horror | 17206 | [17206-the-last-crown-midnight-horror.json](./17206-the-last-crown-midnight-horror.json) |
+| The Last Crusade | 315774 | [315774-the-last-crusade.json](./315774-the-last-crusade.json) |
 | The Last Crystal | 124138 | [124138-the-last-crystal.json](./124138-the-last-crystal.json) |
 | The Last Curse | 415996 | [415996-the-last-curse.json](./415996-the-last-curse.json) |
 | The Last Day | 40336 | [40336-the-last-day.json](./40336-the-last-day.json) |
@@ -9340,6 +9343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Quarry: '50s Throwback Character Outfits | 224517 | [224517-the-quarry-50s-throwback-character-outfits.json](./224517-the-quarry-50s-throwback-character-outfits.json) |
 | The Quarter Game | 75951 | [75951-the-quarter-game.json](./75951-the-quarter-game.json) |
 | The Quartet on Ice | 255634 | [255634-the-quartet-on-ice.json](./255634-the-quartet-on-ice.json) |
+| The Queen and the Dragon | 315784 | [315784-the-queen-and-the-dragon.json](./315784-the-queen-and-the-dragon.json) |
 | The Queen of Battlers 2 | 324923 | [324923-the-queen-of-battlers-2.json](./324923-the-queen-of-battlers-2.json) |
 | The Queen of Blackwood High | 105177 | [105177-the-queen-of-blackwood-high.json](./105177-the-queen-of-blackwood-high.json) |
 | The Queen of Duellist | 63913 | [63913-the-queen-of-duellist.json](./63913-the-queen-of-duellist.json) |
@@ -9872,6 +9876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Seduction of Shaqeera | 113135 | [113135-the-seduction-of-shaqeera.json](./113135-the-seduction-of-shaqeera.json) |
 | The Seduction of Shaqeera VR | 344438 | [344438-the-seduction-of-shaqeera-vr.json](./344438-the-seduction-of-shaqeera-vr.json) |
 | The Seed | 63672 | [63672-the-seed.json](./63672-the-seed.json) |
+| The Seed: Unit 7 | 315821 | [315821-the-seed-unit-7.json](./315821-the-seed-unit-7.json) |
 | The Seeker | 24814 | [24814-the-seeker.json](./24814-the-seeker.json) |
 | The SeethingSwarm Collection | 385848 | [385848-the-seethingswarm-collection.json](./385848-the-seethingswarm-collection.json) |
 | The Segment Twins | 239782 | [239782-the-segment-twins.json](./239782-the-segment-twins.json) |
@@ -10410,6 +10415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Soul of Cosmos | 348769 | [348769-the-soul-of-cosmos.json](./348769-the-soul-of-cosmos.json) |
 | The Soul of Dracula | 242797 | [242797-the-soul-of-dracula.json](./242797-the-soul-of-dracula.json) |
 | The Soul Ring of Soro: Divine Realm | 301603 | [301603-the-soul-ring-of-soro-divine-realm.json](./301603-the-soul-ring-of-soro-divine-realm.json) |
+| The Soul Stone Escape | 315793 | [315793-the-soul-stone-escape.json](./315793-the-soul-stone-escape.json) |
 | The SoulKeeper VR | 27193 | [27193-the-soulkeeper-vr.json](./27193-the-soulkeeper-vr.json) |
 | The Soulwalkers | 252796 | [252796-the-soulwalkers.json](./252796-the-soulwalkers.json) |
 | The Sound of Fireworks: The Haiku | 160266 | [160266-the-sound-of-fireworks-the-haiku.json](./160266-the-sound-of-fireworks-the-haiku.json) |
@@ -11722,6 +11728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Witch | 292633 | [292633-the-witch.json](./292633-the-witch.json) |
 | The Witch and Her Assistant | 183460 | [183460-the-witch-and-her-assistant.json](./183460-the-witch-and-her-assistant.json) |
 | The Witch and the Bottle of Concept | 272895 | [272895-the-witch-and-the-bottle-of-concept.json](./272895-the-witch-and-the-bottle-of-concept.json) |
+| The Witch and the Child | 315785 | [315785-the-witch-and-the-child.json](./315785-the-witch-and-the-child.json) |
 | The Witch and the Hundred Knight | 7485 | [7485-the-witch-and-the-hundred-knight.json](./7485-the-witch-and-the-hundred-knight.json) |
 | The Witch and the Hundred Knight 2 | 24909 | [24909-the-witch-and-the-hundred-knight-2.json](./24909-the-witch-and-the-hundred-knight-2.json) |
 | The Witch and the Hundred Knight 2: Limited Edition | 167070 | [167070-the-witch-and-the-hundred-knight-2-limited-edition.json](./167070-the-witch-and-the-hundred-knight-2-limited-edition.json) |
@@ -12888,6 +12895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tide: 1927 | 368034 | [368034-tide-1927.json](./368034-tide-1927.json) |
 | Tideborne | 378363 | [378363-tideborne.json](./378363-tideborne.json) |
 | Tideborne Haven | 402429 | [402429-tideborne-haven.json](./402429-tideborne-haven.json) |
+| Tides Odyssey | 315777 | [315777-tides-odyssey.json](./315777-tides-odyssey.json) |
 | Tides of Dominion | 256419 | [256419-tides-of-dominion.json](./256419-tides-of-dominion.json) |
 | Tides of Existence | 126504 | [126504-tides-of-existence.json](./126504-tides-of-existence.json) |
 | Tides of Tethys | 307832 | [307832-tides-of-tethys.json](./307832-tides-of-tethys.json) |
