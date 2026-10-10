@@ -601,6 +601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Icarus: Tecton Outpost | 262458 | [262458-icarus-tecton-outpost.json](./262458-icarus-tecton-outpost.json) |
 | Icarus: The Day 4 | 65736 | [65736-icarus-the-day-4.json](./65736-icarus-the-day-4.json) |
 | Icarus.1 | 25947 | [25947-icarus-1.json](./25947-icarus-1.json) |
+| Icarus84 | 285421 | [285421-icarus84.json](./285421-icarus84.json) |
 | ICBM | 60357 | [60357-icbm.json](./60357-icbm.json) |
 | ICBM: Escalation - Endless October | 372533 | [372533-icbm-escalation-endless-october.json](./372533-icbm-escalation-endless-october.json) |
 | Ice | 342173 | [342173-ice.json](./342173-ice.json) |
@@ -1941,6 +1942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Incessant | 235832 | [235832-incessant.json](./235832-incessant.json) |
 | Incident Archives: Flight 882 | 413820 | [413820-incident-archives-flight-882.json](./413820-incident-archives-flight-882.json) |
 | Incident at Grove Lake | 252736 | [252736-incident-at-grove-lake.json](./252736-incident-at-grove-lake.json) |
+| Incident In Oakwood | 285413 | [285413-incident-in-oakwood.json](./285413-incident-in-oakwood.json) |
 | Incident Mahjong | 320828 | [320828-incident-mahjong.json](./320828-incident-mahjong.json) |
 | Incinera: Pandemonium | 379865 | [379865-incinera-pandemonium.json](./379865-incinera-pandemonium.json) |
 | Incineration | 260141 | [260141-incineration.json](./260141-incineration.json) |
