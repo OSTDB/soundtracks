@@ -174,6 +174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Deep Dive | 349872 | [349872-a-deep-dive.json](./349872-a-deep-dive.json) |
 | A Demon's Game: Episode 1 | 30053 | [30053-a-demons-game-episode-1.json](./30053-a-demons-game-episode-1.json) |
 | A Desert Christmas Story | 235974 | [235974-a-desert-christmas-story.json](./235974-a-desert-christmas-story.json) |
+| A Desert Dusk | 280226 | [280226-a-desert-dusk.json](./280226-a-desert-dusk.json) |
 | A Detective Game | 302498 | [302498-a-detective-game.json](./302498-a-detective-game.json) |
 | A Detective's Novel | 27921 | [27921-a-detectives-novel.json](./27921-a-detectives-novel.json) |
 | A Devilish Nightmare | 217850 | [217850-a-devilish-nightmare.json](./217850-a-devilish-nightmare.json) |
@@ -9683,10 +9684,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astronaut Spacewalk | 174354 | [174354-astronaut-spacewalk.json](./174354-astronaut-spacewalk.json) |
 | Astronauters | 252690 | [252690-astronauters.json](./252690-astronauters.json) |
 | Astronave | 292265 | [292265-astronave.json](./292265-astronave.json) |
+| Astroneer: Athlesiure Bundle | 280146 | [280146-astroneer-athlesiure-bundle.json](./280146-astroneer-athlesiure-bundle.json) |
 | Astroneer: Awakening | 234024 | [234024-astroneer-awakening.json](./234024-astroneer-awakening.json) |
+| Astroneer: Essential Bundle | 280147 | [280147-astroneer-essential-bundle.json](./280147-astroneer-essential-bundle.json) |
 | Astroneer: Glitchwalkers | 315620 | [315620-astroneer-glitchwalkers.json](./315620-astroneer-glitchwalkers.json) |
 | Astroneer: Jet Powered | 234027 | [234027-astroneer-jet-powered.json](./234027-astroneer-jet-powered.json) |
 | Astroneer: Rails | 234025 | [234025-astroneer-rails.json](./234025-astroneer-rails.json) |
+| Astroneer: Suit Bundle | 280148 | [280148-astroneer-suit-bundle.json](./280148-astroneer-suit-bundle.json) |
 | Astroneer: Xenobiology | 234026 | [234026-astroneer-xenobiology.json](./234026-astroneer-xenobiology.json) |
 | AstroNest | 19527 | [19527-astronest.json](./19527-astronest.json) |
 | Astronite | 142480 | [142480-astronite.json](./142480-astronite.json) |
