@@ -2489,6 +2489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kitsune no Tabiji | 126627 | [126627-kitsune-no-tabiji.json](./126627-kitsune-no-tabiji.json) |
 | Kitsune: The Journey of Adashino | 217024 | [217024-kitsune-the-journey-of-adashino.json](./217024-kitsune-the-journey-of-adashino.json) |
 | Kitt.Io | 168650 | [168650-kitt-io.json](./168650-kitt-io.json) |
+| Kitt's Quest | 291878 | [291878-kitts-quest.json](./291878-kitts-quest.json) |
 | Kitten Adventure: Ultimate Meow! | 217869 | [217869-kitten-adventure-ultimate-meow.json](./217869-kitten-adventure-ultimate-meow.json) |
 | Kitten Adventures in City Park | 44165 | [44165-kitten-adventures-in-city-park.json](./44165-kitten-adventures-in-city-park.json) |
 | Kitten and Food: Adventure Park | 108022 | [108022-kitten-and-food-adventure-park.json](./108022-kitten-and-food-adventure-park.json) |
