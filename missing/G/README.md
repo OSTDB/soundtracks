@@ -1387,6 +1387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gay Guys | 368117 | [368117-gay-guys.json](./368117-gay-guys.json) |
 | Gay Harem | 165494 | [165494-gay-harem.json](./165494-gay-harem.json) |
 | Gay It Loud | 416763 | [416763-gay-it-loud.json](./416763-gay-it-loud.json) |
+| Gay Joker | 303315 | [303315-gay-joker.json](./303315-gay-joker.json) |
 | Gay Sex Adventures: Episode 8 | 304857 | [304857-gay-sex-adventures-episode-8.json](./304857-gay-sex-adventures-episode-8.json) |
 | Gay Sex Simulator | 405059 | [405059-gay-sex-simulator.json](./405059-gay-sex-simulator.json) |
 | Gay World | 81954 | [81954-gay-world.json](./81954-gay-world.json) |
@@ -2341,6 +2342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Terminal | 307734 | [307734-ghost-terminal.json](./307734-ghost-terminal.json) |
 | Ghost Terminator | 173286 | [173286-ghost-terminator.json](./173286-ghost-terminator.json) |
 | Ghost Town | 18522 | [18522-ghost-town.json](./18522-ghost-town.json) |
+| Ghost Town | 303288 | [303288-ghost-town.json](./303288-ghost-town.json) |
 | Ghost Town | 335127 | [335127-ghost-town.json](./335127-ghost-town.json) |
 | Ghost Town Mine Ride & Shootin' Gallery | 33079 | [33079-ghost-town-mine-ride-and-shootin-gallery.json](./33079-ghost-town-mine-ride-and-shootin-gallery.json) |
 | Ghost Town Mysteries: Bodie | 53081 | [53081-ghost-town-mysteries-bodie.json](./53081-ghost-town-mysteries-bodie.json) |
@@ -6817,6 +6819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gyakuten Saiban 3 | 221290 | [221290-gyakuten-saiban-3.json](./221290-gyakuten-saiban-3.json) |
 | Gyakuten Saiban Jiten | 76243 | [76243-gyakuten-saiban-jiten.json](./76243-gyakuten-saiban-jiten.json) |
 | Gyakuten Saiban Poker | 256342 | [256342-gyakuten-saiban-poker.json](./256342-gyakuten-saiban-poker.json) |
+| Gyakuten Saiban: VR20-gou Jiken | 303291 | [303291-gyakuten-saiban-vr20-gou-jiken.json](./303291-gyakuten-saiban-vr20-gou-jiken.json) |
 | Gyakuten!! Puzzle Ban-Chou | 138019 | [138019-gyakuten-puzzle-ban-chou.json](./138019-gyakuten-puzzle-ban-chou.json) |
 | Gyaru x Ota: Orikawa Kirara wa Osewa Shitai | 402456 | [402456-gyaru-x-ota-orikawa-kirara-wa-osewa-shitai.json](./402456-gyaru-x-ota-orikawa-kirara-wa-osewa-shitai.json) |
 | Gyaruko-chan to Shippori Onsen Ryokou: H Shimakuri Sanpaku Yokka no Tabi | 396943 | [396943-gyaruko-chan-to-shippori-onsen-ryokou-h-shimakuri-sanpaku-yokka-no-tabi.json](./396943-gyaruko-chan-to-shippori-onsen-ryokou-h-shimakuri-sanpaku-yokka-no-tabi.json) |
