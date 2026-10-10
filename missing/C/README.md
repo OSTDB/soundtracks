@@ -1610,6 +1610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carousel | 261887 | [261887-carousel.json](./261887-carousel.json) |
 | Carpark Hero | 404216 | [404216-carpark-hero.json](./404216-carpark-hero.json) |
 | Carpathian Night Starring Bela Lugosi | 330234 | [330234-carpathian-night-starring-bela-lugosi.json](./330234-carpathian-night-starring-bela-lugosi.json) |
+| Carpathian Skies | 310706 | [310706-carpathian-skies.json](./310706-carpathian-skies.json) |
 | Carpathian Survival | 315263 | [315263-carpathian-survival.json](./315263-carpathian-survival.json) |
 | Carpe Diem Project | 226297 | [226297-carpe-diem-project.json](./226297-carpe-diem-project.json) |
 | Carpe Noctem | 309372 | [309372-carpe-noctem.json](./309372-carpe-noctem.json) |
