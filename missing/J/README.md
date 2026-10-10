@@ -577,6 +577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jected: Rivals | 206966 | [206966-jected-rivals.json](./206966-jected-rivals.json) |
 | Jeebo & Jerbo vs. Life | 171985 | [171985-jeebo-and-jerbo-vs-life.json](./171985-jeebo-and-jerbo-vs-life.json) |
 | Jeeboman | 34688 | [34688-jeeboman.json](./34688-jeeboman.json) |
+| Jeep Climb Mountain | 312834 | [312834-jeep-climb-mountain.json](./312834-jeep-climb-mountain.json) |
 | Jeep Command | 47177 | [47177-jeep-command.json](./47177-jeep-command.json) |
 | Jeep Jamboree: Off Road Adventure | 48979 | [48979-jeep-jamboree-off-road-adventure.json](./48979-jeep-jamboree-off-road-adventure.json) |
 | Jeepney Frenzy | 176468 | [176468-jeepney-frenzy.json](./176468-jeepney-frenzy.json) |
