@@ -4130,6 +4130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | North Pole Workshop | 411062 | [411062-north-pole-workshop.json](./411062-north-pole-workshop.json) |
 | North Salvation | 246475 | [246475-north-salvation.json](./246475-north-salvation.json) |
 | North Shore | 349265 | [349265-north-shore.json](./349265-north-shore.json) |
+| North Star Mining Co. | 327163 | [327163-north-star-mining-co.json](./327163-north-star-mining-co.json) |
 | North Stars | 102143 | [102143-north-stars.json](./102143-north-stars.json) |
 | Northanda Chronicles | 277294 | [277294-northanda-chronicles.json](./277294-northanda-chronicles.json) |
 | Northbury Grove | 112217 | [112217-northbury-grove.json](./112217-northbury-grove.json) |
