@@ -143,6 +143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cadaver | 11983 | [11983-cadaver.json](./11983-cadaver.json) |
 | Cadaver: The Payoff | 37130 | [37130-cadaver-the-payoff.json](./37130-cadaver-the-payoff.json) |
 | Cadavers for Dinner | 174126 | [174126-cadavers-for-dinner.json](./174126-cadavers-for-dinner.json) |
+| Cadbury Creme Egg: Goo the Egg | 307347 | [307347-cadbury-creme-egg-goo-the-egg.json](./307347-cadbury-creme-egg-goo-the-egg.json) |
 | Cadde | 265401 | [265401-cadde.json](./265401-cadde.json) |
 | Cade Prime | 173244 | [173244-cade-prime.json](./173244-cade-prime.json) |
 | Cadeau | 326952 | [326952-cadeau.json](./326952-cadeau.json) |
@@ -2620,6 +2621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cats Academy | 141766 | [141766-cats-academy.json](./141766-cats-academy.json) |
 | Cats and Food 4: New Year | 169775 | [169775-cats-and-food-4-new-year.json](./169775-cats-and-food-4-new-year.json) |
 | Cats and Jigsaws | 188124 | [188124-cats-and-jigsaws.json](./188124-cats-and-jigsaws.json) |
+| Cats and Mice | 307260 | [307260-cats-and-mice.json](./307260-cats-and-mice.json) |
 | Cats and Seek: Dino Park | 284413 | [284413-cats-and-seek-dino-park.json](./284413-cats-and-seek-dino-park.json) |
 | Cats and Seek: Kyoto | 291419 | [291419-cats-and-seek-kyoto.json](./291419-cats-and-seek-kyoto.json) |
 | Cats and Seek: Osaka | 275525 | [275525-cats-and-seek-osaka.json](./275525-cats-and-seek-osaka.json) |
@@ -3852,6 +3854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chernobylite: Season 2 - Red Trees | 222933 | [222933-chernobylite-season-2-red-trees.json](./222933-chernobylite-season-2-red-trees.json) |
 | Chernobylite: Season 3 - Green Walls | 222939 | [222939-chernobylite-season-3-green-walls.json](./222939-chernobylite-season-3-green-walls.json) |
 | Chernobylite: Season 4 - Black Smoke | 222942 | [222942-chernobylite-season-4-black-smoke.json](./222942-chernobylite-season-4-black-smoke.json) |
+| Chernograd | 307272 | [307272-chernograd.json](./307272-chernograd.json) |
 | Chernomeat Survival Game | 118442 | [118442-chernomeat-survival-game.json](./118442-chernomeat-survival-game.json) |
 | Chernov Incident | 392852 | [392852-chernov-incident.json](./392852-chernov-incident.json) |
 | Cherophobia | 301978 | [301978-cherophobia.json](./301978-cherophobia.json) |
@@ -4296,6 +4299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Children's Garden | 323505 | [323505-childrens-garden.json](./323505-childrens-garden.json) |
 | Children's Jigsaw Puzzles: Beautifully Illustrated - Expansion Pack | 225859 | [225859-childrens-jigsaw-puzzles-beautifully-illustrated-expansion-pack.json](./225859-childrens-jigsaw-puzzles-beautifully-illustrated-expansion-pack.json) |
 | Children's Musical Theatre | 45894 | [45894-childrens-musical-theatre.json](./45894-childrens-musical-theatre.json) |
+| Chili's Big Smasher BurgerTime | 307261 | [307261-chilis-big-smasher-burgertime.json](./307261-chilis-big-smasher-burgertime.json) |
 | Chilie Peppers | 82004 | [82004-chilie-peppers.json](./82004-chilie-peppers.json) |
 | Chill | 79608 | [79608-chill.json](./79608-chill.json) |
 | Chill Corner: Extras | 310653 | [310653-chill-corner-extras.json](./310653-chill-corner-extras.json) |
@@ -8608,6 +8612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Copperfell | 373737 | [373737-copperfell.json](./373737-copperfell.json) |
 | Copperfields | 264588 | [264588-copperfields.json](./264588-copperfields.json) |
 | Coppy Tour | 369693 | [369693-coppy-tour.json](./369693-coppy-tour.json) |
+| Cops | 307344 | [307344-cops.json](./307344-cops.json) |
 | Cops and Robbers Fight | 105917 | [105917-cops-and-robbers-fight.json](./105917-cops-and-robbers-fight.json) |
 | Cops N Robbers: Pixel Craft Gun | 400445 | [400445-cops-n-robbers-pixel-craft-gun.json](./400445-cops-n-robbers-pixel-craft-gun.json) |
 | Cops N Robbers: Prison Games 1 | 400441 | [400441-cops-n-robbers-prison-games-1.json](./400441-cops-n-robbers-prison-games-1.json) |
@@ -9873,6 +9878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Christmas | 101762 | [101762-crazy-christmas.json](./101762-crazy-christmas.json) |
 | Crazy Christmas | 310552 | [310552-crazy-christmas.json](./310552-crazy-christmas.json) |
 | Crazy Circus | 269748 | [269748-crazy-circus.json](./269748-crazy-circus.json) |
+| Crazy Climber | 307266 | [307266-crazy-climber.json](./307266-crazy-climber.json) |
 | Crazy Climber | 347695 | [347695-crazy-climber.json](./347695-crazy-climber.json) |
 | Crazy Climber | 4611 | [4611-crazy-climber.json](./4611-crazy-climber.json) |
 | Crazy Climber 2 | 39808 | [39808-crazy-climber-2.json](./39808-crazy-climber-2.json) |
