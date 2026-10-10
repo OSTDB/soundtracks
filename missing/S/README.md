@@ -1358,6 +1358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saturn Bomberman | 28393 | [28393-saturn-bomberman.json](./28393-saturn-bomberman.json) |
 | Saturn Quest: R.U.N.E. 3000 | 221169 | [221169-saturn-quest-r-u-n-e-3000.json](./221169-saturn-quest-r-u-n-e-3000.json) |
 | Saturn Quest: Shadow of Planetus | 132792 | [132792-saturn-quest-shadow-of-planetus.json](./132792-saturn-quest-shadow-of-planetus.json) |
+| Saturn Valley Online | 323764 | [323764-saturn-valley-online.json](./323764-saturn-valley-online.json) |
 | Saturn. Legacy | 403688 | [403688-saturn-legacy.json](./403688-saturn-legacy.json) |
 | Saturn's Rising Temperature | 225718 | [225718-saturns-rising-temperature.json](./225718-saturns-rising-temperature.json) |
 | Saturnalia | 131564 | [131564-saturnalia.json](./131564-saturnalia.json) |
@@ -8055,6 +8056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slender Man Retro | 356683 | [356683-slender-man-retro.json](./356683-slender-man-retro.json) |
 | Slender Man: Chapter 1 - Alone | 63821 | [63821-slender-man-chapter-1-alone.json](./63821-slender-man-chapter-1-alone.json) |
 | Slender Man: Chapter 3 - Dreams | 59787 | [59787-slender-man-chapter-3-dreams.json](./59787-slender-man-chapter-3-dreams.json) |
+| Slender Man: Rise Again | 323972 | [323972-slender-man-rise-again.json](./323972-slender-man-rise-again.json) |
 | Slender Multiplayer | 270731 | [270731-slender-multiplayer.json](./270731-slender-multiplayer.json) |
 | Slender Myth | 220665 | [220665-slender-myth.json](./220665-slender-myth.json) |
 | Slender-Man | 64424 | [64424-slender-man.json](./64424-slender-man.json) |
@@ -19478,6 +19480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario In Element World 2: The Master Hand Revenge | 267980 | [267980-super-mario-in-element-world-2-the-master-hand-revenge.json](./267980-super-mario-in-element-world-2-the-master-hand-revenge.json) |
 | Super Mario in Marooned on Mars! | 321451 | [321451-super-mario-in-marooned-on-mars.json](./321451-super-mario-in-marooned-on-mars.json) |
 | Super Mario Infinity: Mystery of the Magic Wand | 260850 | [260850-super-mario-infinity-mystery-of-the-magic-wand.json](./260850-super-mario-infinity-mystery-of-the-magic-wand.json) |
+| Super Mario Journey | 324010 | [324010-super-mario-journey.json](./324010-super-mario-journey.json) |
 | Super Mario Journey Lane | 281017 | [281017-super-mario-journey-lane.json](./281017-super-mario-journey-lane.json) |
 | Super Mario Journey to Infinity | 313107 | [313107-super-mario-journey-to-infinity.json](./313107-super-mario-journey-to-infinity.json) |
 | Super Mario Kart 8 | 198451 | [198451-super-mario-kart-8.json](./198451-super-mario-kart-8.json) |
@@ -19556,6 +19559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Sunshine in Super Mario 64 | 235173 | [235173-super-mario-sunshine-in-super-mario-64.json](./235173-super-mario-sunshine-in-super-mario-64.json) |
 | Super Mario Sunshine Seaside | 281016 | [281016-super-mario-sunshine-seaside.json](./281016-super-mario-sunshine-seaside.json) |
 | Super Mario Surf | 324094 | [324094-super-mario-surf.json](./324094-super-mario-surf.json) |
+| Super Mario the Nightshift | 324006 | [324006-super-mario-the-nightshift.json](./324006-super-mario-the-nightshift.json) |
 | Super Mario Timeless Rendezvous | 382413 | [382413-super-mario-timeless-rendezvous.json](./382413-super-mario-timeless-rendezvous.json) |
 | Super Mario Treasure World | 368158 | [368158-super-mario-treasure-world.json](./368158-super-mario-treasure-world.json) |
 | Super Mario Turd Collection | 322698 | [322698-super-mario-turd-collection.json](./322698-super-mario-turd-collection.json) |
