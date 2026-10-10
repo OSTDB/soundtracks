@@ -1403,6 +1403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jjat | 122897 | [122897-jjat.json](./122897-jjat.json) |
 | JJJ | 266790 | [266790-jjj.json](./266790-jjj.json) |
 | JK Assassins | 178648 | [178648-jk-assassins.json](./178648-jk-assassins.json) |
+| JK Puzzle | 279516 | [279516-jk-puzzle.json](./279516-jk-puzzle.json) |
 | JK Resistance: Dark Side | 82781 | [82781-jk-resistance-dark-side.json](./82781-jk-resistance-dark-side.json) |
 | JKEnterprises | 268983 | [268983-jkenterprises.json](./268983-jkenterprises.json) |
 | JKRobots | 403045 | [403045-jkrobots.json](./403045-jkrobots.json) |
@@ -1725,6 +1726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Journey of Johann: Grasslands | 327442 | [327442-journey-of-johann-grasslands.json](./327442-journey-of-johann-grasslands.json) |
 | Journey of Johann: Snowy Mountain | 388295 | [388295-journey-of-johann-snowy-mountain.json](./388295-journey-of-johann-snowy-mountain.json) |
 | Journey of Life | 97174 | [97174-journey-of-life.json](./97174-journey-of-life.json) |
+| Journey of Realm: Dawn Dew | 279562 | [279562-journey-of-realm-dawn-dew.json](./279562-journey-of-realm-dawn-dew.json) |
 | Journey of Reincarnation | 303598 | [303598-journey-of-reincarnation.json](./303598-journey-of-reincarnation.json) |
 | Journey of the Broken Circle | 136502 | [136502-journey-of-the-broken-circle.json](./136502-journey-of-the-broken-circle.json) |
 | Journey of the Forgotten | 274460 | [274460-journey-of-the-forgotten.json](./274460-journey-of-the-forgotten.json) |
@@ -1762,6 +1764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Journey to the End | 281352 | [281352-journey-to-the-end.json](./281352-journey-to-the-end.json) |
 | Journey to the Savage Planet | 113108 | [113108-journey-to-the-savage-planet.json](./113108-journey-to-the-savage-planet.json) |
 | Journey to the Savage Planet: Employee of the Month Edition | 143481 | [143481-journey-to-the-savage-planet-employee-of-the-month-edition.json](./143481-journey-to-the-savage-planet-employee-of-the-month-edition.json) |
+| Journey to the Wand | 279515 | [279515-journey-to-the-wand.json](./279515-journey-to-the-wand.json) |
 | Journey to the West | 195043 | [195043-journey-to-the-west.json](./195043-journey-to-the-west.json) |
 | Journey to the West | 274550 | [274550-journey-to-the-west.json](./274550-journey-to-the-west.json) |
 | Journey to the West | 392222 | [392222-journey-to-the-west.json](./392222-journey-to-the-west.json) |
@@ -2597,6 +2600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Stack | 291695 | [291695-just-stack.json](./291695-just-stack.json) |
 | Just Survival: The Zombie Awakening | 212217 | [212217-just-survival-the-zombie-awakening.json](./212217-just-survival-the-zombie-awakening.json) |
 | Just Survive | 18093 | [18093-just-survive.json](./18093-just-survive.json) |
+| Just Survive | 279565 | [279565-just-survive.json](./279565-just-survive.json) |
 | Just Take Your Left | 148542 | [148542-just-take-your-left.json](./148542-just-take-your-left.json) |
 | Just Thanks | 267905 | [267905-just-thanks.json](./267905-just-thanks.json) |
 | Just Touch The WhiteBox!!! | 262355 | [262355-just-touch-the-whitebox.json](./262355-just-touch-the-whitebox.json) |
