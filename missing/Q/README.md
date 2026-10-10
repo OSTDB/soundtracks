@@ -602,6 +602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Qui Veut Gagner Des Millions | 313505 | [313505-qui-veut-gagner-des-millions.json](./313505-qui-veut-gagner-des-millions.json) |
 | Quible Sphere | 105281 | [105281-quible-sphere.json](./105281-quible-sphere.json) |
 | Quical | 129661 | [129661-quical.json](./129661-quical.json) |
+| Quicar | 307264 | [307264-quicar.json](./307264-quicar.json) |
 | Quichotte’s Never-Ending Watch: A Lofi Companion | 360722 | [360722-quichotte-s-never-ending-watch-a-lofi-companion.json](./360722-quichotte-s-never-ending-watch-a-lofi-companion.json) |
 | Quick Brain Letter Hunt | 394561 | [394561-quick-brain-letter-hunt.json](./394561-quick-brain-letter-hunt.json) |
 | Quick Brain: Number Hunt | 394562 | [394562-quick-brain-number-hunt.json](./394562-quick-brain-number-hunt.json) |
