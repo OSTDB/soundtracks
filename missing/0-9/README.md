@@ -1092,6 +1092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2Unreal5Underground | 327789 | [327789-2unreal5underground.json](./327789-2unreal5underground.json) |
 | 2urvive | 77361 | [77361-2urvive.json](./77361-2urvive.json) |
 | 2V Hoverbike | 44184 | [44184-2v-hoverbike.json](./44184-2v-hoverbike.json) |
+| 2weistein in Asban | 320450 | [320450-2weistein-in-asban.json](./320450-2weistein-in-asban.json) |
 | 2weistein: The Curse of the Red Dragon | 147439 | [147439-2weistein-the-curse-of-the-red-dragon.json](./147439-2weistein-the-curse-of-the-red-dragon.json) |
 | 2weistein: The Curse of the Red Dragon 2 | 166158 | [166158-2weistein-the-curse-of-the-red-dragon-2.json](./166158-2weistein-the-curse-of-the-red-dragon-2.json) |
 | 2weistein: The Curse of the Red Dragon 3 - Ronger Pirates | 214561 | [214561-2weistein-the-curse-of-the-red-dragon-3-ronger-pirates.json](./214561-2weistein-the-curse-of-the-red-dragon-3-ronger-pirates.json) |
