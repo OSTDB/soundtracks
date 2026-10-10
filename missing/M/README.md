@@ -1394,6 +1394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maitetsu: Pure Station - Special Luxury Version with Triple Suede Tapestry Limited Edition | 167158 | [167158-maitetsu-pure-station-special-luxury-version-with-triple-suede-tapestry-limited-edition.json](./167158-maitetsu-pure-station-special-luxury-version-with-triple-suede-tapestry-limited-edition.json) |
 | Maitetsu: Pure Station: Hachiroku Figure - Limited Edition | 212325 | [212325-maitetsu-pure-station-hachiroku-figure-limited-edition.json](./212325-maitetsu-pure-station-hachiroku-figure-limited-edition.json) |
 | Maize | 19518 | [19518-maize.json](./19518-maize.json) |
+| Maize | 326289 | [326289-maize.json](./326289-maize.json) |
 | Maize Mace Maze | 293075 | [293075-maize-mace-maze.json](./293075-maize-mace-maze.json) |
 | Maja and Benny | 353976 | [353976-maja-and-benny.json](./353976-maja-and-benny.json) |
 | Majaventure: Mahjong Senki | 48785 | [48785-majaventure-mahjong-senki.json](./48785-majaventure-mahjong-senki.json) |
@@ -5149,6 +5150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meld | 33330 | [33330-meld.json](./33330-meld.json) |
 | Meldev Power Boat Racing | 164274 | [164274-meldev-power-boat-racing.json](./164274-meldev-power-boat-racing.json) |
 | Melee Light | 334226 | [334226-melee-light.json](./334226-melee-light.json) |
+| Melee Spaceship | 326297 | [326297-melee-spaceship.json](./326297-melee-spaceship.json) |
 | Melfand Stories | 42526 | [42526-melfand-stories.json](./42526-melfand-stories.json) |
 | Meli | 381846 | [381846-meli.json](./381846-meli.json) |
 | Méli-Mélo: L'Odyssée de la Crème de Marrons | 357357 | [357357-meli-melo-lodyssee-de-la-creme-de-marrons.json](./357357-meli-melo-lodyssee-de-la-creme-de-marrons.json) |
@@ -7860,6 +7862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minimal Maze | 197772 | [197772-minimal-maze.json](./197772-minimal-maze.json) |
 | Minimal Move | 115677 | [115677-minimal-move.json](./115677-minimal-move.json) |
 | Minimalist Box | 367010 | [367010-minimalist-box.json](./367010-minimalist-box.json) |
+| Minimalist Sudoku | 326295 | [326295-minimalist-sudoku.json](./326295-minimalist-sudoku.json) |
 | Minimalist Tower Defense | 270778 | [270778-minimalist-tower-defense.json](./270778-minimalist-tower-defense.json) |
 | Minimalistic Golf | 181710 | [181710-minimalistic-golf.json](./181710-minimalistic-golf.json) |
 | Minimally Invasive | 244270 | [244270-minimally-invasive.json](./244270-minimally-invasive.json) |
@@ -11703,6 +11706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Murder Reservation | 129205 | [129205-murder-reservation.json](./129205-murder-reservation.json) |
 | Murder Strip | 399011 | [399011-murder-strip.json](./399011-murder-strip.json) |
 | Murder... | 51772 | [51772-murder.json](./51772-murder.json) |
+| Murder&Spies | 326097 | [326097-murder-and-spies.json](./326097-murder-and-spies.json) |
 | MurderHobo: Aggravation Quest | 63289 | [63289-murderhobo-aggravation-quest.json](./63289-murderhobo-aggravation-quest.json) |
 | Murderous Pursuits | 85526 | [85526-murderous-pursuits.json](./85526-murderous-pursuits.json) |
 | Murderous Sunlight | 390149 | [390149-murderous-sunlight.json](./390149-murderous-sunlight.json) |
@@ -11996,6 +12000,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MX vs. ATV Legends: Track Pass | 350652 | [350652-mx-vs-atv-legends-track-pass.json](./350652-mx-vs-atv-legends-track-pass.json) |
 | MX vs. ATV: All Out | 67625 | [67625-mx-vs-atv-all-out.json](./67625-mx-vs-atv-all-out.json) |
 | MX vs. ATV: All Out - Anniversary Edition | 115472 | [115472-mx-vs-atv-all-out-anniversary-edition.json](./115472-mx-vs-atv-all-out-anniversary-edition.json) |
+| MX vs. ATV: Legend - Element Bike Pack | 326298 | [326298-mx-vs-atv-legend-element-bike-pack.json](./326298-mx-vs-atv-legend-element-bike-pack.json) |
+| MX vs. ATV: Legend - Lawrence Dog Pound Pack | 326301 | [326301-mx-vs-atv-legend-lawrence-dog-pound-pack.json](./326301-mx-vs-atv-legend-lawrence-dog-pound-pack.json) |
+| MX vs. ATV: Legend - Reflex Pack | 326299 | [326299-mx-vs-atv-legend-reflex-pack.json](./326299-mx-vs-atv-legend-reflex-pack.json) |
+| MX vs. ATV: Legend - Triumph Pack 2024 | 326300 | [326300-mx-vs-atv-legend-triumph-pack-2024.json](./326300-mx-vs-atv-legend-triumph-pack-2024.json) |
 | MX vs. ATV: Legends | 171216 | [171216-mx-vs-atv-legends.json](./171216-mx-vs-atv-legends.json) |
 | MX vs. ATV: Legends - 2022 AMA Pro Motocross Championship | 208228 | [208228-mx-vs-atv-legends-2022-ama-pro-motocross-championship.json](./208228-mx-vs-atv-legends-2022-ama-pro-motocross-championship.json) |
 | MX vs. ATV: Legends - 2023 Track Pass | 287113 | [287113-mx-vs-atv-legends-2023-track-pass.json](./287113-mx-vs-atv-legends-2023-track-pass.json) |
