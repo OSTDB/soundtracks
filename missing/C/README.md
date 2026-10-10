@@ -71,6 +71,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cabal 2 | 12132 | [12132-cabal-2.json](./12132-cabal-2.json) |
 | Cabal M: Heroes of Nevareth | 174724 | [174724-cabal-m-heroes-of-nevareth.json](./174724-cabal-m-heroes-of-nevareth.json) |
 | Cabals: Magic & Battle Cards | 33107 | [33107-cabals-magic-and-battle-cards.json](./33107-cabals-magic-and-battle-cards.json) |
+| Cabbage Crop | 290838 | [290838-cabbage-crop.json](./290838-cabbage-crop.json) |
 | Cabbage Patch Kids: Adventures in the Park | 11144 | [11144-cabbage-patch-kids-adventures-in-the-park.json](./11144-cabbage-patch-kids-adventures-in-the-park.json) |
 | Cabbage Patch Kids: Picture Show | 40902 | [40902-cabbage-patch-kids-picture-show.json](./40902-cabbage-patch-kids-picture-show.json) |
 | Cabbage Patch Kids: The Patch Puppy Rescue | 49363 | [49363-cabbage-patch-kids-the-patch-puppy-rescue.json](./49363-cabbage-patch-kids-the-patch-puppy-rescue.json) |
@@ -4428,6 +4429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | China Syndrome | 18554 | [18554-china-syndrome.json](./18554-china-syndrome.json) |
 | China Warrior | 42127 | [42127-china-warrior.json](./42127-china-warrior.json) |
 | China: Mao's legacy | 116880 | [116880-china-maos-legacy.json](./116880-china-maos-legacy.json) |
+| China: Mao's Legacy - Ways of Life | 290840 | [290840-china-maos-legacy-ways-of-life.json](./290840-china-maos-legacy-ways-of-life.json) |
 | Chinami Holic | 387661 | [387661-chinami-holic.json](./387661-chinami-holic.json) |
 | ChinanaGo! | 416732 | [416732-chinanago.json](./416732-chinanago.json) |
 | Chinatown | 272012 | [272012-chinatown.json](./272012-chinatown.json) |
@@ -7698,6 +7700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Command? Dungeon World: Twine Version | 184423 | [184423-command-dungeon-world-twine-version.json](./184423-command-dungeon-world-twine-version.json) |
 | Commander - World 1 | 130829 | [130829-commander-world-1.json](./130829-commander-world-1.json) |
 | Commander Babes | 127930 | [127930-commander-babes.json](./127930-commander-babes.json) |
+| Commander Bug Wars | 290860 | [290860-commander-bug-wars.json](./290860-commander-bug-wars.json) |
 | Commander Cherry's Puzzled Journey | 19950 | [19950-commander-cherrys-puzzled-journey.json](./19950-commander-cherrys-puzzled-journey.json) |
 | Commander Cool 2 | 35620 | [35620-commander-cool-2.json](./35620-commander-cool-2.json) |
 | Commander in Chief: Geo-Political Simulator 2009 | 135166 | [135166-commander-in-chief-geo-political-simulator-2009.json](./135166-commander-in-chief-geo-political-simulator-2009.json) |
@@ -9231,6 +9234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Counter Attack | 152291 | [152291-counter-attack.json](./152291-counter-attack.json) |
 | Counter Attack | 279009 | [279009-counter-attack.json](./279009-counter-attack.json) |
 | Counter Call: Half Escape Shooter | 403737 | [403737-counter-call-half-escape-shooter.json](./403737-counter-call-half-escape-shooter.json) |
+| Counter Clash | 290852 | [290852-counter-clash.json](./290852-counter-clash.json) |
 | Counter Crossline: Crime War | 219304 | [219304-counter-crossline-crime-war.json](./219304-counter-crossline-crime-war.json) |
 | Counter Delta 2: Eastern Crisis | 259574 | [259574-counter-delta-2-eastern-crisis.json](./259574-counter-delta-2-eastern-crisis.json) |
 | Counter Fight | 30643 | [30643-counter-fight.json](./30643-counter-fight.json) |
