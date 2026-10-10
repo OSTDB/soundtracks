@@ -5581,6 +5581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rock Bottom | 385364 | [385364-rock-bottom.json](./385364-rock-bottom.json) |
 | Rock Climber | 40421 | [40421-rock-climber.json](./40421-rock-climber.json) |
 | Rock Climbing? | 288790 | [288790-rock-climbing.json](./288790-rock-climbing.json) |
+| Rock Crusher | 333032 | [333032-rock-crusher.json](./333032-rock-crusher.json) |
 | Rock Defender | 26650 | [26650-rock-defender.json](./26650-rock-defender.json) |
 | Rock Flipper | 332808 | [332808-rock-flipper.json](./332808-rock-flipper.json) |
 | Rock God Tycoon | 27336 | [27336-rock-god-tycoon.json](./27336-rock-god-tycoon.json) |
@@ -5638,6 +5639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rockabilly Kid | 171549 | [171549-rockabilly-kid.json](./171549-rockabilly-kid.json) |
 | Rockaroids | 63808 | [63808-rockaroids.json](./63808-rockaroids.json) |
 | Rockaroids Remix | 37703 | [37703-rockaroids-remix.json](./37703-rockaroids-remix.json) |
+| RockBeasts | 333047 | [333047-rockbeasts.json](./333047-rockbeasts.json) |
 | Rockbot | 39199 | [39199-rockbot.json](./39199-rockbot.json) |
 | Rockefeller: The Black Gold | 10781 | [10781-rockefeller-the-black-gold.json](./10781-rockefeller-the-black-gold.json) |
 | Rocket Adventure | 111448 | [111448-rocket-adventure.json](./111448-rocket-adventure.json) |
