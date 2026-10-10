@@ -1358,6 +1358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raven Squad: Operation Hidden Dagger | 7156 | [7156-raven-squad-operation-hidden-dagger.json](./7156-raven-squad-operation-hidden-dagger.json) |
 | Raven: Chapter 1 - The Commands of Eurybia | 74002 | [74002-raven-chapter-1-the-commands-of-eurybia.json](./74002-raven-chapter-1-the-commands-of-eurybia.json) |
 | Raven's Cry | 7686 | [7686-ravens-cry.json](./7686-ravens-cry.json) |
+| Raven's Daring Adventure | 311736 | [311736-ravens-daring-adventure.json](./311736-ravens-daring-adventure.json) |
 | Raven's Hike | 164982 | [164982-ravens-hike.json](./164982-ravens-hike.json) |
 | Raven's Point | 156569 | [156569-ravens-point.json](./156569-ravens-point.json) |
 | Ravenbound | 214852 | [214852-ravenbound.json](./214852-ravenbound.json) |
@@ -7718,6 +7719,19 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rushaway | 211790 | [211790-rushaway.json](./211790-rushaway.json) |
 | Rushcremental | 381635 | [381635-rushcremental.json](./381635-rushcremental.json) |
 | Rushdown Revolt | 138604 | [138604-rushdown-revolt.json](./138604-rushdown-revolt.json) |
+| Rushdown Revolt: Nemesis Afi & Galu | 311776 | [311776-rushdown-revolt-nemesis-afi-and-galu.json](./311776-rushdown-revolt-nemesis-afi-and-galu.json) |
+| Rushdown Revolt: Nemesis Ashani | 311771 | [311771-rushdown-revolt-nemesis-ashani.json](./311771-rushdown-revolt-nemesis-ashani.json) |
+| Rushdown Revolt: Nemesis Ezzie | 311773 | [311773-rushdown-revolt-nemesis-ezzie.json](./311773-rushdown-revolt-nemesis-ezzie.json) |
+| Rushdown Revolt: Nemesis Kidd | 311769 | [311769-rushdown-revolt-nemesis-kidd.json](./311769-rushdown-revolt-nemesis-kidd.json) |
+| Rushdown Revolt: Nemesis Raymer | 311766 | [311766-rushdown-revolt-nemesis-raymer.json](./311766-rushdown-revolt-nemesis-raymer.json) |
+| Rushdown Revolt: Nemesis Reina | 311774 | [311774-rushdown-revolt-nemesis-reina.json](./311774-rushdown-revolt-nemesis-reina.json) |
+| Rushdown Revolt: Nemesis Seth | 311777 | [311777-rushdown-revolt-nemesis-seth.json](./311777-rushdown-revolt-nemesis-seth.json) |
+| Rushdown Revolt: Nemesis The Torment | 311765 | [311765-rushdown-revolt-nemesis-the-torment.json](./311765-rushdown-revolt-nemesis-the-torment.json) |
+| Rushdown Revolt: Nemesis Urdah | 311772 | [311772-rushdown-revolt-nemesis-urdah.json](./311772-rushdown-revolt-nemesis-urdah.json) |
+| Rushdown Revolt: Nemesis Velora | 311767 | [311767-rushdown-revolt-nemesis-velora.json](./311767-rushdown-revolt-nemesis-velora.json) |
+| Rushdown Revolt: Nemesis Weishan | 311775 | [311775-rushdown-revolt-nemesis-weishan.json](./311775-rushdown-revolt-nemesis-weishan.json) |
+| Rushdown Revolt: Nemesis Zhurong | 311768 | [311768-rushdown-revolt-nemesis-zhurong.json](./311768-rushdown-revolt-nemesis-zhurong.json) |
+| Rushdown Revolt: Neon Horizons Raymer | 311770 | [311770-rushdown-revolt-neon-horizons-raymer.json](./311770-rushdown-revolt-neon-horizons-raymer.json) |
 | Rushdown Rivals Reloaded | 271932 | [271932-rushdown-rivals-reloaded.json](./271932-rushdown-rivals-reloaded.json) |
 | Rushing Alice | 200116 | [200116-rushing-alice.json](./200116-rushing-alice.json) |
 | Rushing Balls | 99216 | [99216-rushing-balls.json](./99216-rushing-balls.json) |
