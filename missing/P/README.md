@@ -1847,6 +1847,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Path to Serenity | 350497 | [350497-path-to-serenity.json](./350497-path-to-serenity.json) |
 | Path to Success | 54258 | [54258-path-to-success.json](./54258-path-to-success.json) |
 | Path to Tamer Town | 366097 | [366097-path-to-tamer-town.json](./366097-path-to-tamer-town.json) |
+| Path to the Creator | 290849 | [290849-path-to-the-creator.json](./290849-path-to-the-creator.json) |
+| Path to the Creator: DLC1 | 290850 | [290850-path-to-the-creator-dlc1.json](./290850-path-to-the-creator-dlc1.json) |
 | Path to the Devil | 257359 | [257359-path-to-the-devil.json](./257359-path-to-the-devil.json) |
 | Path to the Unknown | 253325 | [253325-path-to-the-unknown.json](./253325-path-to-the-unknown.json) |
 | Path to the Void | 346631 | [346631-path-to-the-void.json](./346631-path-to-the-void.json) |
@@ -7305,6 +7307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Police Simulator: Patrol Officers - Highway Patrol Expansion | 297735 | [297735-police-simulator-patrol-officers-highway-patrol-expansion.json](./297735-police-simulator-patrol-officers-highway-patrol-expansion.json) |
 | Police Simulator: Patrol Officers - Nintendo Switch Edition | 308630 | [308630-police-simulator-patrol-officers-nintendo-switch-edition.json](./308630-police-simulator-patrol-officers-nintendo-switch-edition.json) |
 | Police Simulator: Patrol Officers - Surveillance Police Vehicle | 278391 | [278391-police-simulator-patrol-officers-surveillance-police-vehicle.json](./278391-police-simulator-patrol-officers-surveillance-police-vehicle.json) |
+| Police Simulator: Patrol Officers - Warden Police Vehicle | 290843 | [290843-police-simulator-patrol-officers-warden-police-vehicle.json](./290843-police-simulator-patrol-officers-warden-police-vehicle.json) |
 | Police Station Cop Inc: Tycoon | 174884 | [174884-police-station-cop-inc-tycoon.json](./174884-police-station-cop-inc-tycoon.json) |
 | Police Stories | 28225 | [28225-police-stories.json](./28225-police-stories.json) |
 | Police Stories: Zombie Case | 195756 | [195756-police-stories-zombie-case.json](./195756-police-stories-zombie-case.json) |
