@@ -10112,6 +10112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soldier Boyz | 69225 | [69225-soldier-boyz.json](./69225-soldier-boyz.json) |
 | Soldier Collection | 62248 | [62248-soldier-collection.json](./62248-soldier-collection.json) |
 | Soldier Elite | 208901 | [208901-soldier-elite.json](./208901-soldier-elite.json) |
+| Soldier Force | 280689 | [280689-soldier-force.json](./280689-soldier-force.json) |
 | Soldier Front 2 | 63308 | [63308-soldier-front-2.json](./63308-soldier-front-2.json) |
 | Soldier Girl Amazon | 40170 | [40170-soldier-girl-amazon.json](./40170-soldier-girl-amazon.json) |
 | Soldier in the darkness | 150773 | [150773-soldier-in-the-darkness.json](./150773-soldier-in-the-darkness.json) |
@@ -11831,6 +11832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soviet Unterzögersdorf: Sector 1 | 78651 | [78651-soviet-unterzogersdorf-sector-1.json](./78651-soviet-unterzogersdorf-sector-1.json) |
 | Soviet Village | 370879 | [370879-soviet-village.json](./370879-soviet-village.json) |
 | Sovietpunk: Chapter one | 168852 | [168852-sovietpunk-chapter-one.json](./168852-sovietpunk-chapter-one.json) |
+| SOVL: Fantasy Warfare | 280735 | [280735-sovl-fantasy-warfare.json](./280735-sovl-fantasy-warfare.json) |
 | SOVL: Ratkin Clans | 305773 | [305773-sovl-ratkin-clans.json](./305773-sovl-ratkin-clans.json) |
 | SOVL: Reptilian Kingdoms | 296657 | [296657-sovl-reptilian-kingdoms.json](./296657-sovl-reptilian-kingdoms.json) |
 | Sowa VR | 215719 | [215719-sowa-vr.json](./215719-sowa-vr.json) |
@@ -12740,6 +12742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spanky "Bat-a-Swing" | 370559 | [370559-spanky-bat-a-swing.json](./370559-spanky-bat-a-swing.json) |
 | Spanky! | 254526 | [254526-spanky.json](./254526-spanky.json) |
 | Spanky's Quest | 144149 | [144149-spankys-quest.json](./144149-spankys-quest.json) |
+| Spanky's Quest DX | 280706 | [280706-spankys-quest-dx.json](./280706-spankys-quest-dx.json) |
 | Spannerman | 39142 | [39142-spannerman.json](./39142-spannerman.json) |
 | Spar MMORPG | 130880 | [130880-spar-mmorpg.json](./130880-spar-mmorpg.json) |
 | Sparc | 27430 | [27430-sparc.json](./27430-sparc.json) |
