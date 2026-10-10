@@ -1719,6 +1719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Havoc | 13873 | [13873-havoc.json](./13873-havoc.json) |
 | Havoc Fox | 215099 | [215099-havoc-fox.json](./215099-havoc-fox.json) |
 | Havoc in heaven | 96120 | [96120-havoc-in-heaven.json](./96120-havoc-in-heaven.json) |
+| Havoc Monkeys | 327875 | [327875-havoc-monkeys.json](./327875-havoc-monkeys.json) |
 | Havoc Runner | 148557 | [148557-havoc-runner.json](./148557-havoc-runner.json) |
 | Havocado | 113895 | [113895-havocado.json](./113895-havocado.json) |
 | Havsala: Into the Soul Palace | 193493 | [193493-havsala-into-the-soul-palace.json](./193493-havsala-into-the-soul-palace.json) |
