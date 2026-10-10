@@ -7301,6 +7301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Political Punchers: 2024 Arena | 293701 | [293701-political-punchers-2024-arena.json](./293701-political-punchers-2024-arena.json) |
 | Politically Yours | 23798 | [23798-politically-yours.json](./23798-politically-yours.json) |
 | PolitiCats | 57365 | [57365-politicats.json](./57365-politicats.json) |
+| Politician Simulator | 298394 | [298394-politician-simulator.json](./298394-politician-simulator.json) |
 | Politicide | 395516 | [395516-politicide.json](./395516-politicide.json) |
 | Politicking | 129689 | [129689-politicking.json](./129689-politicking.json) |
 | Políticos Memes Kombat | 273558 | [273558-politicos-memes-kombat.json](./273558-politicos-memes-kombat.json) |
@@ -7828,6 +7829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Populus Run | 145513 | [145513-populus-run.json](./145513-populus-run.json) |
 | PopUp Blockers - Block Web Browser Simulator 2k16 | 100994 | [100994-popup-blockers-block-web-browser-simulator-2k16.json](./100994-popup-blockers-block-web-browser-simulator-2k16.json) |
 | Popup.exe | 398504 | [398504-popup-exe.json](./398504-popup-exe.json) |
+| Por um Punhado de Trólares | 298405 | [298405-por-um-punhado-de-trolares.json](./298405-por-um-punhado-de-trolares.json) |
 | Poradora vs. Monsters of the World | 324015 | [324015-poradora-vs-monsters-of-the-world.json](./324015-poradora-vs-monsters-of-the-world.json) |
 | Poramid | 185438 | [185438-poramid.json](./185438-poramid.json) |
 | Porcelain Tales | 186031 | [186031-porcelain-tales.json](./186031-porcelain-tales.json) |
@@ -8461,6 +8463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Precognition Dream's Greenhouse | 392240 | [392240-precognition-dreams-greenhouse.json](./392240-precognition-dreams-greenhouse.json) |
 | PreCure All Stars: Zenin Shuugou - Let's Dance! | 56462 | [56462-precure-all-stars-zenin-shuugou-lets-dance.json](./56462-precure-all-stars-zenin-shuugou-lets-dance.json) |
 | Predator | 15345 | [15345-predator.json](./15345-predator.json) |
+| Predator | 298432 | [298432-predator.json](./298432-predator.json) |
 | Predator | 74422 | [74422-predator.json](./74422-predator.json) |
 | Predator and Wreck | 151805 | [151805-predator-and-wreck.json](./151805-predator-and-wreck.json) |
 | Predator: Hunting Grounds | 118272 | [118272-predator-hunting-grounds.json](./118272-predator-hunting-grounds.json) |
