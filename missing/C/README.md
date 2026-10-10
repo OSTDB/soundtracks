@@ -5820,6 +5820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Classified: France '44 - Guerrilla | 289856 | [289856-classified-france-44-guerrilla.json](./289856-classified-france-44-guerrilla.json) |
 | Classified: France '44 - Resistance Kit | 289857 | [289857-classified-france-44-resistance-kit.json](./289857-classified-france-44-resistance-kit.json) |
 | Classified: France '44 - Season Pass | 289858 | [289858-classified-france-44-season-pass.json](./289858-classified-france-44-season-pass.json) |
+| Classified: France '44 - Talon | 316378 | [316378-classified-france-44-talon.json](./316378-classified-france-44-talon.json) |
 | Classified: France '44: Overlord Edition | 289415 | [289415-classified-france-44-overlord-edition.json](./289415-classified-france-44-overlord-edition.json) |
 | Classified: The Sentinel Crisis | 5777 | [5777-classified-the-sentinel-crisis.json](./5777-classified-the-sentinel-crisis.json) |
 | Classroom 0 | 377960 | [377960-classroom-0.json](./377960-classroom-0.json) |
@@ -9626,6 +9627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crash Course | 380094 | [380094-crash-course.json](./380094-crash-course.json) |
 | Crash Course Go! | 106099 | [106099-crash-course-go.json](./106099-crash-course-go.json) |
 | Crash Dive | 24003 | [24003-crash-dive.json](./24003-crash-dive.json) |
+| Crash Dive 2: East Indies Expansion Pack | 316390 | [316390-crash-dive-2-east-indies-expansion-pack.json](./316390-crash-dive-2-east-indies-expansion-pack.json) |
 | Crash Drive 2 | 35904 | [35904-crash-drive-2.json](./35904-crash-drive-2.json) |
 | Crash Drive 3 | 153824 | [153824-crash-drive-3.json](./153824-crash-drive-3.json) |
 | Crash Drive 3D | 8038 | [8038-crash-drive-3d.json](./8038-crash-drive-3d.json) |
