@@ -1024,6 +1024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Necromancer: Winter | 156183 | [156183-necromancer-winter.json](./156183-necromancer-winter.json) |
 | Necromancer's Army | 405706 | [405706-necromancers-army.json](./405706-necromancers-army.json) |
 | Necromancer's Gift | 173317 | [173317-necromancers-gift.json](./173317-necromancers-gift.json) |
+| Necromancia | 302197 | [302197-necromancia.json](./302197-necromancia.json) |
 | Necromania: Trap of Darkness | 68965 | [68965-necromania-trap-of-darkness.json](./68965-necromania-trap-of-darkness.json) |
 | Necromanicide | 271734 | [271734-necromanicide.json](./271734-necromanicide.json) |
 | Necromantic | 298651 | [298651-necromantic.json](./298651-necromantic.json) |
@@ -2763,6 +2764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightfall Mysteries: Curse of the Opera | 125308 | [125308-nightfall-mysteries-curse-of-the-opera.json](./125308-nightfall-mysteries-curse-of-the-opera.json) |
 | Nightfall Terror: Trails of the Dead | 318558 | [318558-nightfall-terror-trails-of-the-dead.json](./318558-nightfall-terror-trails-of-the-dead.json) |
 | Nightfall Village | 386374 | [386374-nightfall-village.json](./386374-nightfall-village.json) |
+| Nightfall Wardens | 302194 | [302194-nightfall-wardens.json](./302194-nightfall-wardens.json) |
 | NightFell | 329671 | [329671-nightfell.json](./329671-nightfell.json) |
 | Nightfighter | 84263 | [84263-nightfighter.json](./84263-nightfighter.json) |
 | Nightfire Open | 316773 | [316773-nightfire-open.json](./316773-nightfire-open.json) |
@@ -4190,6 +4192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Northgard: Cross of Vidar Expansion Pack | 230821 | [230821-northgard-cross-of-vidar-expansion-pack.json](./230821-northgard-cross-of-vidar-expansion-pack.json) |
 | Northgard: Dodsvagr, Clan of the Rat | 188083 | [188083-northgard-dodsvagr-clan-of-the-rat.json](./188083-northgard-dodsvagr-clan-of-the-rat.json) |
 | Northgard: Gardariki, Clan of the Hippogriff | 366866 | [366866-northgard-gardariki-clan-of-the-hippogriff.json](./366866-northgard-gardariki-clan-of-the-hippogriff.json) |
+| Northgard: Garm, Clan of the Hounds | 302201 | [302201-northgard-garm-clan-of-the-hounds.json](./302201-northgard-garm-clan-of-the-hounds.json) |
 | Northgard: Hræsvelg, Clan of the Eagle | 218693 | [218693-northgard-hr-svelg-clan-of-the-eagle.json](./218693-northgard-hr-svelg-clan-of-the-eagle.json) |
 | Northgard: Kernev, Clan of the Stoat | 263604 | [263604-northgard-kernev-clan-of-the-stoat.json](./263604-northgard-kernev-clan-of-the-stoat.json) |
 | Northgard: Ratatoskr, Clan of the Squirrel | 159702 | [159702-northgard-ratatoskr-clan-of-the-squirrel.json](./159702-northgard-ratatoskr-clan-of-the-squirrel.json) |
