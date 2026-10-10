@@ -412,6 +412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaforce | 13719 | [13719-galaforce.json](./13719-galaforce.json) |
 | Galaga | 239156 | [239156-galaga.json](./239156-galaga.json) |
 | Galaga '91 | 218364 | [218364-galaga-91.json](./218364-galaga-91.json) |
+| Galaga & Galaxian DX | 280708 | [280708-galaga-and-galaxian-dx.json](./280708-galaga-and-galaxian-dx.json) |
 | Galaga 2000 | 218365 | [218365-galaga-2000.json](./218365-galaga-2000.json) |
 | Galaga 30th Collection | 25188 | [25188-galaga-30th-collection.json](./25188-galaga-30th-collection.json) |
 | Galaga Arrangement | 132113 | [132113-galaga-arrangement.json](./132113-galaga-arrangement.json) |
@@ -1984,6 +1985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geometry Breakers | 369172 | [369172-geometry-breakers.json](./369172-geometry-breakers.json) |
 | Geometry Darkness 2.2 :D | 101984 | [101984-geometry-darkness-2-2-d.json](./101984-geometry-darkness-2-2-d.json) |
 | Geometry Dash Meltdown | 38693 | [38693-geometry-dash-meltdown.json](./38693-geometry-dash-meltdown.json) |
+| Geometry Dash PSP | 280740 | [280740-geometry-dash-psp.json](./280740-geometry-dash-psp.json) |
 | Geometry Dash SubZero | 87023 | [87023-geometry-dash-subzero.json](./87023-geometry-dash-subzero.json) |
 | Geometry Dash World | 79044 | [79044-geometry-dash-world.json](./79044-geometry-dash-world.json) |
 | Geometry Dash: 1.9 Update | 374299 | [374299-geometry-dash-1-9-update.json](./374299-geometry-dash-1-9-update.json) |
