@@ -3017,6 +3017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Girls: Adorable Angel | 328522 | [328522-hentai-girls-adorable-angel.json](./328522-hentai-girls-adorable-angel.json) |
 | Hentai Girls: Adventure Clicker | 259611 | [259611-hentai-girls-adventure-clicker.json](./259611-hentai-girls-adventure-clicker.json) |
 | Hentai Girls: Amazing Edition | 294827 | [294827-hentai-girls-amazing-edition.json](./294827-hentai-girls-amazing-edition.json) |
+| Hentai Girls: Autumn Crush | 320445 | [320445-hentai-girls-autumn-crush.json](./320445-hentai-girls-autumn-crush.json) |
 | Hentai Girls: College Romance | 325018 | [325018-hentai-girls-college-romance.json](./325018-hentai-girls-college-romance.json) |
 | Hentai Girls: Complete + | 324466 | [324466-hentai-girls-complete.json](./324466-hentai-girls-complete.json) |
 | Hentai Girls: Contact | 281523 | [281523-hentai-girls-contact.json](./281523-hentai-girls-contact.json) |
@@ -6008,6 +6009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horizon Forbidden West: Complete Edition | 268842 | [268842-horizon-forbidden-west-complete-edition.json](./268842-horizon-forbidden-west-complete-edition.json) |
 | Horizon Forbidden West: Major Update 1.14 | 227890 | [227890-horizon-forbidden-west-major-update-1-14.json](./227890-horizon-forbidden-west-major-update-1-14.json) |
 | Horizon Forbidden West: Regalla Edition | 173110 | [173110-horizon-forbidden-west-regalla-edition.json](./173110-horizon-forbidden-west-regalla-edition.json) |
+| Horizon Journey | 320472 | [320472-horizon-journey.json](./320472-horizon-journey.json) |
 | Horizon Odyssey | 158558 | [158558-horizon-odyssey.json](./158558-horizon-odyssey.json) |
 | Horizon of History | 30763 | [30763-horizon-of-history.json](./30763-horizon-of-history.json) |
 | Horizon Riders | 84516 | [84516-horizon-riders.json](./84516-horizon-riders.json) |
@@ -6612,6 +6614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House of Golf 2 | 303573 | [303573-house-of-golf-2.json](./303573-house-of-golf-2.json) |
 | House of Heists | 398406 | [398406-house-of-heists.json](./398406-house-of-heists.json) |
 | House of Hell | 34049 | [34049-house-of-hell.json](./34049-house-of-hell.json) |
+| House of Horror: 7 Psychos | 320468 | [320468-house-of-horror-7-psychos.json](./320468-house-of-horror-7-psychos.json) |
 | House of Horror: Outside is Better | 326223 | [326223-house-of-horror-outside-is-better.json](./326223-house-of-horror-outside-is-better.json) |
 | House of Jigsaw: A Day at the Park | 273479 | [273479-house-of-jigsaw-a-day-at-the-park.json](./273479-house-of-jigsaw-a-day-at-the-park.json) |
 | House of Jigsaw: Amazing Birds | 273480 | [273480-house-of-jigsaw-amazing-birds.json](./273480-house-of-jigsaw-amazing-birds.json) |
