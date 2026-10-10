@@ -8806,6 +8806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The NetherWorld | 271766 | [271766-the-netherworld.json](./271766-the-netherworld.json) |
 | The Netrunner Awaken1ng | 182393 | [182393-the-netrunner-awaken1ng.json](./182393-the-netrunner-awaken1ng.json) |
 | The Network | 21777 | [21777-the-network.json](./21777-the-network.json) |
+| The Neurochemical Conjob | 291396 | [291396-the-neurochemical-conjob.json](./291396-the-neurochemical-conjob.json) |
 | The Never-Ending Sleepover | 370785 | [370785-the-never-ending-sleepover.json](./370785-the-never-ending-sleepover.json) |
 | The NeverEnding Story | 13020 | [13020-the-neverending-story.json](./13020-the-neverending-story.json) |
 | The Neverending Story II | 80515 | [80515-the-neverending-story-ii.json](./80515-the-neverending-story-ii.json) |
@@ -9859,6 +9860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Scenic Treasures - Japanese Learning Visual Novel | 112927 | [112927-the-scenic-treasures-japanese-learning-visual-novel.json](./112927-the-scenic-treasures-japanese-learning-visual-novel.json) |
 | The Scent of Home | 181729 | [181729-the-scent-of-home.json](./181729-the-scent-of-home.json) |
 | The Scheme | 62582 | [62582-the-scheme.json](./62582-the-scheme.json) |
+| The Schism | 291358 | [291358-the-schism.json](./291358-the-schism.json) |
 | The School: White Day | 89861 | [89861-the-school-white-day.json](./89861-the-school-white-day.json) |
 | The Scientist Battles | 359559 | [359559-the-scientist-battles.json](./359559-the-scientist-battles.json) |
 | The Scientists' Secret: Hidden Object Game | 259542 | [259542-the-scientists-secret-hidden-object-game.json](./259542-the-scientists-secret-hidden-object-game.json) |
