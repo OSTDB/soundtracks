@@ -10192,6 +10192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CreepyDates | 408876 | [408876-creepydates.json](./408876-creepydates.json) |
 | Creepypasta Land | 130346 | [130346-creepypasta-land.json](./130346-creepypasta-land.json) |
 | Creepypasta Land 2: SCP Force | 130349 | [130349-creepypasta-land-2-scp-force.json](./130349-creepypasta-land-2-scp-force.json) |
+| Creepypasta Land MV Edition | 307888 | [307888-creepypasta-land-mv-edition.json](./307888-creepypasta-land-mv-edition.json) |
 | Creepytape Rewind: Not From Here | 399002 | [399002-creepytape-rewind-not-from-here.json](./399002-creepytape-rewind-not-from-here.json) |
 | Crelabeth: Unholy Lands | 229156 | [229156-crelabeth-unholy-lands.json](./229156-crelabeth-unholy-lands.json) |
 | Creme de la Creme | 126884 | [126884-creme-de-la-creme.json](./126884-creme-de-la-creme.json) |
@@ -11255,6 +11256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cthulhu Must Die | 253985 | [253985-cthulhu-must-die.json](./253985-cthulhu-must-die.json) |
 | Cthulhu Mysteries: Veins of Arkham | 372642 | [372642-cthulhu-mysteries-veins-of-arkham.json](./372642-cthulhu-mysteries-veins-of-arkham.json) |
 | Cthulhu Mythos ADV Lunatic Whispers | 213033 | [213033-cthulhu-mythos-adv-lunatic-whispers.json](./213033-cthulhu-mythos-adv-lunatic-whispers.json) |
+| Cthulhu Mythos ADV The Isle Of Ubohoth | 307779 | [307779-cthulhu-mythos-adv-the-isle-of-ubohoth.json](./307779-cthulhu-mythos-adv-the-isle-of-ubohoth.json) |
 | Cthulhu Mythos RPG -The Sleeping Girl of the Miasma Sea- | 110154 | [110154-cthulhu-mythos-rpg-the-sleeping-girl-of-the-miasma-sea.json](./110154-cthulhu-mythos-rpg-the-sleeping-girl-of-the-miasma-sea.json) |
 | Cthulhu Mythos RPG II | 82941 | [82941-cthulhu-mythos-rpg-ii.json](./82941-cthulhu-mythos-rpg-ii.json) |
 | Cthulhu Pub | 158630 | [158630-cthulhu-pub.json](./158630-cthulhu-pub.json) |
