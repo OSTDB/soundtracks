@@ -4994,6 +4994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rivals of Aether | 21646 | [21646-rivals-of-aether.json](./21646-rivals-of-aether.json) |
 | Rivals of Aether II | 245847 | [245847-rivals-of-aether-ii.json](./245847-rivals-of-aether-ii.json) |
 | Rivals with Benefits | 313803 | [313803-rivals-with-benefits.json](./313803-rivals-with-benefits.json) |
+| Rivals: Esports Manager | 327799 | [327799-rivals-esports-manager.json](./327799-rivals-esports-manager.json) |
 | Rivals' Duel | 277611 | [277611-rivals-duel.json](./277611-rivals-duel.json) |
 | Rive: Blue Box Limited Edition | 202220 | [202220-rive-blue-box-limited-edition.json](./202220-rive-blue-box-limited-edition.json) |
 | Rive: Orange Box Limited Edition | 202219 | [202219-rive-orange-box-limited-edition.json](./202219-rive-orange-box-limited-edition.json) |
