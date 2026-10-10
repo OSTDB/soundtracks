@@ -1017,6 +1017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Under a Freezing Sea | 143362 | [143362-under-a-freezing-sea.json](./143362-under-a-freezing-sea.json) |
 | Under a Star Called Sun | 135632 | [135632-under-a-star-called-sun.json](./135632-under-a-star-called-sun.json) |
 | Under a Tree with Cherry Blossoms: Love with One's Back | 303300 | [303300-under-a-tree-with-cherry-blossoms-love-with-ones-back.json](./303300-under-a-tree-with-cherry-blossoms-love-with-ones-back.json) |
+| Under Canopies | 301087 | [301087-under-canopies.json](./301087-under-canopies.json) |
 | Under Construction: Summer City | 167582 | [167582-under-construction-summer-city.json](./167582-under-construction-summer-city.json) |
 | Under Contract | 219533 | [219533-under-contract.json](./219533-under-contract.json) |
 | Under Control | 176795 | [176795-under-control.json](./176795-under-control.json) |
@@ -1120,6 +1121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undercraft | 331345 | [331345-undercraft.json](./331345-undercraft.json) |
 | Undercreator | 329717 | [329717-undercreator.json](./329717-undercreator.json) |
 | Undercrewed | 89325 | [89325-undercrewed.json](./89325-undercrewed.json) |
+| Undercroft | 301097 | [301097-undercroft.json](./301097-undercroft.json) |
 | Undercroft | 92056 | [92056-undercroft.json](./92056-undercroft.json) |
 | Undercurrent | 399199 | [399199-undercurrent.json](./399199-undercurrent.json) |
 | Underdeck | 100755 | [100755-underdeck.json](./100755-underdeck.json) |
