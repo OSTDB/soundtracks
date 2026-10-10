@@ -963,6 +963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capital Kings | 342635 | [342635-capital-kings.json](./342635-capital-kings.json) |
 | Capital Punishment | 14373 | [14373-capital-punishment.json](./14373-capital-punishment.json) |
 | Capital Simulator | 148483 | [148483-capital-simulator.json](./148483-capital-simulator.json) |
+| Capitale | 330772 | [330772-capitale.json](./330772-capitale.json) |
 | Capitalism II | 921 | [921-capitalism-ii.json](./921-capitalism-ii.json) |
 | Capitalist Misadventures | 358290 | [358290-capitalist-misadventures.json](./358290-capitalist-misadventures.json) |
 | Capitals | 60074 | [60074-capitals.json](./60074-capitals.json) |
@@ -5685,6 +5686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clash'N Slash: Worlds Away | 39773 | [39773-clashn-slash-worlds-away.json](./39773-clashn-slash-worlds-away.json) |
 | Clasherball | 306514 | [306514-clasherball.json](./306514-clasherball.json) |
 | ClashofHunter | 130794 | [130794-clashofhunter.json](./130794-clashofhunter.json) |
+| Class 3, Third Grade | 330792 | [330792-class-3-third-grade.json](./330792-class-3-third-grade.json) |
 | Class of '09 | 152962 | [152962-class-of-09.json](./152962-class-of-09.json) |
 | Class of '09: Puzzle Showdown | 406251 | [406251-class-of-09-puzzle-showdown.json](./406251-class-of-09-puzzle-showdown.json) |
 | Class of Heroes 2 | 20999 | [20999-class-of-heroes-2.json](./20999-class-of-heroes-2.json) |
@@ -9104,6 +9106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Countryballs: Power Protocol | 349473 | [349473-countryballs-power-protocol.json](./349473-countryballs-power-protocol.json) |
 | Countryballs: The Heist | 302945 | [302945-countryballs-the-heist.json](./302945-countryballs-the-heist.json) |
 | CountryCide | 196008 | [196008-countrycide.json](./196008-countrycide.json) |
+| Countryle | 330769 | [330769-countryle.json](./330769-countryle.json) |
 | Countryside Bears | 43502 | [43502-countryside-bears.json](./43502-countryside-bears.json) |
 | Countryside Farm Clues | 402930 | [402930-countryside-farm-clues.json](./402930-countryside-farm-clues.json) |
 | Countryside Legends | 339327 | [339327-countryside-legends.json](./339327-countryside-legends.json) |
@@ -10369,6 +10372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Croak and Solve | 404433 | [404433-croak-and-solve.json](./404433-croak-and-solve.json) |
 | Croak Cafe: From Pond to Plate | 311487 | [311487-croak-cafe-from-pond-to-plate.json](./311487-croak-cafe-from-pond-to-plate.json) |
 | Croak Croak On The Sea | 291186 | [291186-croak-croak-on-the-sea.json](./291186-croak-croak-on-the-sea.json) |
+| Croak Crusader: The Champion of Canada | 330753 | [330753-croak-crusader-the-champion-of-canada.json](./330753-croak-crusader-the-champion-of-canada.json) |
 | Croaka-Crawla | 319576 | [319576-croaka-crawla.json](./319576-croaka-crawla.json) |
 | Croaked | 251652 | [251652-croaked.json](./251652-croaked.json) |
 | Croaking Around | 265696 | [265696-croaking-around.json](./265696-croaking-around.json) |
