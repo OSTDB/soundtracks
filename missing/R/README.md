@@ -6163,6 +6163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Monster Rush | 325523 | [325523-rogue-monster-rush.json](./325523-rogue-monster-rush.json) |
 | Rogue Monster Theolodorus | 335283 | [335283-rogue-monster-theolodorus.json](./335283-rogue-monster-theolodorus.json) |
 | Rogue Night | 292266 | [292266-rogue-night.json](./292266-rogue-night.json) |
+| Rogue Ninja: Elemental Onslaught | 287053 | [287053-rogue-ninja-elemental-onslaught.json](./287053-rogue-ninja-elemental-onslaught.json) |
 | Rogue Ninjas | 344417 | [344417-rogue-ninjas.json](./344417-rogue-ninjas.json) |
 | Rogue North | 151132 | [151132-rogue-north.json](./151132-rogue-north.json) |
 | Rogue Nova | 270926 | [270926-rogue-nova.json](./270926-rogue-nova.json) |
