@@ -4636,6 +4636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | High School of the Dead Day 0 | 402943 | [402943-high-school-of-the-dead-day-0.json](./402943-high-school-of-the-dead-day-0.json) |
 | High School Simulator 2017 | 286757 | [286757-high-school-simulator-2017.json](./286757-high-school-simulator-2017.json) |
 | High School Story | 39189 | [39189-high-school-story.json](./39189-high-school-story.json) |
+| High School Survival | 281945 | [281945-high-school-survival.json](./281945-high-school-survival.json) |
 | High School: Bisexual Experience | 106590 | [106590-high-school-bisexual-experience.json](./106590-high-school-bisexual-experience.json) |
 | High Sea Saga | 202849 | [202849-high-sea-saga.json](./202849-high-sea-saga.json) |
 | High Seas Havoc | 10150 | [10150-high-seas-havoc.json](./10150-high-seas-havoc.json) |
@@ -4859,6 +4860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hime to Otome no Yakimochi Love | 416692 | [416692-hime-to-otome-no-yakimochi-love.json](./416692-hime-to-otome-no-yakimochi-love.json) |
 | Hime's Blossom | 249473 | [249473-himes-blossom.json](./249473-himes-blossom.json) |
 | Himegimi Detective | 74694 | [74694-himegimi-detective.json](./74694-himegimi-detective.json) |
+| Himegoto | 281943 | [281943-himegoto.json](./281943-himegoto.json) |
 | Himehibi: New Princess Days Zoku! Nigakki | 218483 | [218483-himehibi-new-princess-days-zoku-nigakki.json](./218483-himehibi-new-princess-days-zoku-nigakki.json) |
 | Himehibi: New Princess Days Zoku! Nigakki Portable | 218485 | [218485-himehibi-new-princess-days-zoku-nigakki-portable.json](./218485-himehibi-new-princess-days-zoku-nigakki-portable.json) |
 | Himehibi: Princess Days | 218382 | [218382-himehibi-princess-days.json](./218382-himehibi-princess-days.json) |
