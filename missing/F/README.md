@@ -1954,6 +1954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fatal Hour: Petroleum | 108357 | [108357-fatal-hour-petroleum.json](./108357-fatal-hour-petroleum.json) |
 | Fatal Inertia EX | 80458 | [80458-fatal-inertia-ex.json](./80458-fatal-inertia-ex.json) |
 | Fatal Labyrinth | 4496 | [4496-fatal-labyrinth.json](./4496-fatal-labyrinth.json) |
+| Fatal Midnight | 280731 | [280731-fatal-midnight.json](./280731-fatal-midnight.json) |
 | Fatal Passion: Art Prison | 139775 | [139775-fatal-passion-art-prison.json](./139775-fatal-passion-art-prison.json) |
 | Fatal Pursuit | 362996 | [362996-fatal-pursuit.json](./362996-fatal-pursuit.json) |
 | Fatal Run | 12323 | [12323-fatal-run.json](./12323-fatal-run.json) |
@@ -3869,6 +3870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | First Flight | 307582 | [307582-first-flight.json](./307582-first-flight.json) |
 | First Floor | 159797 | [159797-first-floor.json](./159797-first-floor.json) |
 | First Frog | 136457 | [136457-first-frog.json](./136457-first-frog.json) |
+| First Hand | 280713 | [280713-first-hand.json](./280713-first-hand.json) |
 | First Impact: Rise of a Hero | 30712 | [30712-first-impact-rise-of-a-hero.json](./30712-first-impact-rise-of-a-hero.json) |
 | First Kiss at a Spooky Soiree | 144233 | [144233-first-kiss-at-a-spooky-soiree.json](./144233-first-kiss-at-a-spooky-soiree.json) |
 | First Kiss Stories | 384644 | [384644-first-kiss-stories.json](./384644-first-kiss-stories.json) |
@@ -7267,6 +7269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Friday Night Funkin': Just Natsuki | 342803 | [342803-friday-night-funkin-just-natsuki.json](./342803-friday-night-funkin-just-natsuki.json) |
 | Friday Night Funkin': Mario's Madness | 202414 | [202414-friday-night-funkin-marios-madness.json](./202414-friday-night-funkin-marios-madness.json) |
 | Friday Night Funkin': Miku Full Week | 206925 | [206925-friday-night-funkin-miku-full-week.json](./206925-friday-night-funkin-miku-full-week.json) |
+| Friday Night Funkin': Pibby Corrupted | 280717 | [280717-friday-night-funkin-pibby-corrupted.json](./280717-friday-night-funkin-pibby-corrupted.json) |
 | Friday Night Funkin': Pibby Corrupted Kitchen Gun | 269295 | [269295-friday-night-funkin-pibby-corrupted-kitchen-gun.json](./269295-friday-night-funkin-pibby-corrupted-kitchen-gun.json) |
 | Friday Night Funkin': Sprite Corruption | 352831 | [352831-friday-night-funkin-sprite-corruption.json](./352831-friday-night-funkin-sprite-corruption.json) |
 | Friday Night Funkin': Super Idol | 231382 | [231382-friday-night-funkin-super-idol.json](./231382-friday-night-funkin-super-idol.json) |
@@ -7286,6 +7289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Friday Night Funkin': VS. Cassette Girl | 199045 | [199045-friday-night-funkin-vs-cassette-girl.json](./199045-friday-night-funkin-vs-cassette-girl.json) |
 | Friday Night Funkin': vs. Donald J. Trump | 332226 | [332226-friday-night-funkin-vs-donald-j-trump.json](./332226-friday-night-funkin-vs-donald-j-trump.json) |
 | Friday Night Funkin': vs. Evil Otto | 202402 | [202402-friday-night-funkin-vs-evil-otto.json](./202402-friday-night-funkin-vs-evil-otto.json) |
+| Friday Night Funkin': VS. EX | 280721 | [280721-friday-night-funkin-vs-ex.json](./280721-friday-night-funkin-vs-ex.json) |
 | Friday Night Funkin': vs. Gorefield | 298717 | [298717-friday-night-funkin-vs-gorefield.json](./298717-friday-night-funkin-vs-gorefield.json) |
 | Friday Night Funkin': vs. Hex | 314512 | [314512-friday-night-funkin-vs-hex.json](./314512-friday-night-funkin-vs-hex.json) |
 | Friday Night Funkin': vs. Homr | 298721 | [298721-friday-night-funkin-vs-homr.json](./298721-friday-night-funkin-vs-homr.json) |
