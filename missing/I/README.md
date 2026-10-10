@@ -360,12 +360,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Wanna Take the Time-Machine 2 | 187366 | [187366-i-wanna-take-the-time-machine-2.json](./187366-i-wanna-take-the-time-machine-2.json) |
 | I Wanna Touch | 389984 | [389984-i-wanna-touch.json](./389984-i-wanna-touch.json) |
 | I Wanna Try | 357169 | [357169-i-wanna-try.json](./357169-i-wanna-try.json) |
+| I Want an Identity | 327229 | [327229-i-want-an-identity.json](./327229-i-want-an-identity.json) |
 | I Want My Mommy | 40789 | [40789-i-want-my-mommy.json](./40789-i-want-my-mommy.json) |
 | I Want To Be A Circle When I Grow Up. | 396545 | [396545-i-want-to-be-a-circle-when-i-grow-up.json](./396545-i-want-to-be-a-circle-when-i-grow-up.json) |
 | I Want to Be Human | 36433 | [36433-i-want-to-be-human.json](./36433-i-want-to-be-human.json) |
 | I Want to be Popular! | 183902 | [183902-i-want-to-be-popular.json](./183902-i-want-to-be-popular.json) |
 | I Want to Believe | 319728 | [319728-i-want-to-believe.json](./319728-i-want-to-believe.json) |
 | I Want To Cook Like Mom | 401181 | [401181-i-want-to-cook-like-mom.json](./401181-i-want-to-cook-like-mom.json) |
+| I Want to Die: Remake | 327230 | [327230-i-want-to-die-remake.json](./327230-i-want-to-die-remake.json) |
 | I Want to Drive That Van | 357315 | [357315-i-want-to-drive-that-van.json](./357315-i-want-to-drive-that-van.json) |
 | I Want to Go for a Walk | 341020 | [341020-i-want-to-go-for-a-walk.json](./341020-i-want-to-go-for-a-walk.json) |
 | I Want to Go to Mars | 130363 | [130363-i-want-to-go-to-mars.json](./130363-i-want-to-go-to-mars.json) |
