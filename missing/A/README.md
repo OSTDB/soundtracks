@@ -2337,6 +2337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | After Corruption | 211173 | [211173-after-corruption.json](./211173-after-corruption.json) |
 | After Dark | 357793 | [357793-after-dark.json](./357793-after-dark.json) |
 | After Dark: Under the Moonlight | 302631 | [302631-after-dark-under-the-moonlight.json](./302631-after-dark-under-the-moonlight.json) |
+| After Death | 322236 | [322236-after-death.json](./322236-after-death.json) |
 | After Doom | 300354 | [300354-after-doom.json](./300354-after-doom.json) |
 | After Egypt | 206635 | [206635-after-egypt.json](./206635-after-egypt.json) |
 | After Exposure | 341131 | [341131-after-exposure.json](./341131-after-exposure.json) |
@@ -7352,6 +7353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: vs. Mystery Tower | 335093 | [335093-arcade-archives-vs-mystery-tower.json](./335093-arcade-archives-vs-mystery-tower.json) |
 | Arcade Archives: Vs. Super Mario Bros. | 67198 | [67198-arcade-archives-vs-super-mario-bros.json](./67198-arcade-archives-vs-super-mario-bros.json) |
 | Arcade Archives: vs. Tennis | 147099 | [147099-arcade-archives-vs-tennis.json](./147099-arcade-archives-vs-tennis.json) |
+| Arcade Archives: Vs. The Quest of Ki | 322039 | [322039-arcade-archives-vs-the-quest-of-ki.json](./322039-arcade-archives-vs-the-quest-of-ki.json) |
 | Arcade Archives: Vs. Wrecking Crew | 68313 | [68313-arcade-archives-vs-wrecking-crew.json](./68313-arcade-archives-vs-wrecking-crew.json) |
 | Arcade Archives: Warp & Warp | 277578 | [277578-arcade-archives-warp-and-warp.json](./277578-arcade-archives-warp-and-warp.json) |
 | Arcade Archives: Wonder Boy | 141885 | [141885-arcade-archives-wonder-boy.json](./141885-arcade-archives-wonder-boy.json) |
@@ -7521,6 +7523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcane Blood: The Shattered Star | 277274 | [277274-arcane-blood-the-shattered-star.json](./277274-arcane-blood-the-shattered-star.json) |
 | Arcane Board | 333362 | [333362-arcane-board.json](./333362-arcane-board.json) |
 | Arcane Chaos | 291770 | [291770-arcane-chaos.json](./291770-arcane-chaos.json) |
+| Arcane Chaos | 322247 | [322247-arcane-chaos.json](./322247-arcane-chaos.json) |
 | Arcane Coven | 350441 | [350441-arcane-coven.json](./350441-arcane-coven.json) |
 | Arcane Dice Wars: A Villain's Heart | 332629 | [332629-arcane-dice-wars-a-villains-heart.json](./332629-arcane-dice-wars-a-villains-heart.json) |
 | Arcane Dimensions | 132820 | [132820-arcane-dimensions.json](./132820-arcane-dimensions.json) |
