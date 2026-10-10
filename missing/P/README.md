@@ -454,6 +454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paintball Arena Challenge | 86998 | [86998-paintball-arena-challenge.json](./86998-paintball-arena-challenge.json) |
 | Paintball Champs | 237386 | [237386-paintball-champs.json](./237386-paintball-champs.json) |
 | Paintball eXtreme | 34793 | [34793-paintball-extreme.json](./34793-paintball-extreme.json) |
+| Paintball King | 305566 | [305566-paintball-king.json](./305566-paintball-king.json) |
 | Paintball Madness | 356204 | [356204-paintball-madness.json](./356204-paintball-madness.json) |
 | Paintball NET | 125951 | [125951-paintball-net.json](./125951-paintball-net.json) |
 | PaintBall War 2 | 154464 | [154464-paintball-war-2.json](./154464-paintball-war-2.json) |
@@ -1000,6 +1001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper Mario: TTYD - Tower of Trials v3.0 | 358321 | [358321-paper-mario-ttyd-tower-of-trials-v3-0.json](./358321-paper-mario-ttyd-tower-of-trials-v3-0.json) |
 | Paper Nebula | 213445 | [213445-paper-nebula.json](./213445-paper-nebula.json) |
 | Paper Nomad: Master Edition | 311733 | [311733-paper-nomad-master-edition.json](./311733-paper-nomad-master-edition.json) |
+| Paper Pal | 305481 | [305481-paper-pal.json](./305481-paper-pal.json) |
 | Paper Pilgrim | 140629 | [140629-paper-pilgrim.json](./140629-paper-pilgrim.json) |
 | Paper Pilot | 369706 | [369706-paper-pilot.json](./369706-paper-pilot.json) |
 | Paper Pinball | 65588 | [65588-paper-pinball.json](./65588-paper-pinball.json) |
@@ -1009,6 +1011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper Planes Plus | 261765 | [261765-paper-planes-plus.json](./261765-paper-planes-plus.json) |
 | Paper Play VR | 298117 | [298117-paper-play-vr.json](./298117-paper-play-vr.json) |
 | Paper Puzzle | 319131 | [319131-paper-puzzle.json](./319131-paper-puzzle.json) |
+| Paper Red and the Spirits Ink | 305484 | [305484-paper-red-and-the-spirits-ink.json](./305484-paper-red-and-the-spirits-ink.json) |
 | Paper Robot | 394229 | [394229-paper-robot.json](./394229-paper-robot.json) |
 | Paper Shakespeare 3: Girl Werewolf Hamlet Absolutely Solves the War of the Roses | 398033 | [398033-paper-shakespeare-3-girl-werewolf-hamlet-absolutely-solves-the-war-of-the-roses.json](./398033-paper-shakespeare-3-girl-werewolf-hamlet-absolutely-solves-the-war-of-the-roses.json) |
 | Paper Shakespeare: Loves Labor(s) Lost | 102158 | [102158-paper-shakespeare-loves-labor-s-lost.json](./102158-paper-shakespeare-loves-labor-s-lost.json) |
@@ -3504,6 +3507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Photo Y2K | 142858 | [142858-photo-y2k.json](./142858-photo-y2k.json) |
 | Photobia: Tales from the Dark | 298660 | [298660-photobia-tales-from-the-dark.json](./298660-photobia-tales-from-the-dark.json) |
 | Photobound | 181164 | [181164-photobound.json](./181164-photobound.json) |
+| Photochemistry | 305548 | [305548-photochemistry.json](./305548-photochemistry.json) |
 | Photogeist | 307693 | [307693-photogeist.json](./307693-photogeist.json) |
 | Photogeist Albums: Case 1 | 307337 | [307337-photogeist-albums-case-1.json](./307337-photogeist-albums-case-1.json) |
 | Photographer's Life Simulator | 346716 | [346716-photographers-life-simulator.json](./346716-photographers-life-simulator.json) |
@@ -5430,6 +5434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pizza Penguins | 103979 | [103979-pizza-penguins.json](./103979-pizza-penguins.json) |
 | Pizza Pony | 180852 | [180852-pizza-pony.json](./180852-pizza-pony.json) |
 | Pizza Possum | 199132 | [199132-pizza-possum.json](./199132-pizza-possum.json) |
+| Pizza Quest | 305489 | [305489-pizza-quest.json](./305489-pizza-quest.json) |
 | Pizza Rogue: P.P.M.P.D.E.S. | 334218 | [334218-pizza-rogue-p-p-m-p-d-e-s.json](./334218-pizza-rogue-p-p-m-p-d-e-s.json) |
 | Pizza Run | 200582 | [200582-pizza-run.json](./200582-pizza-run.json) |
 | Pizza Rush Race: Fighting Boss | 320925 | [320925-pizza-rush-race-fighting-boss.json](./320925-pizza-rush-race-fighting-boss.json) |
@@ -6446,6 +6451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pogo Party | 224587 | [224587-pogo-party.json](./224587-pogo-party.json) |
 | Pogo Postman | 183463 | [183463-pogo-postman.json](./183463-pogo-postman.json) |
 | Pogo Rage: The Awakening | 220649 | [220649-pogo-rage-the-awakening.json](./220649-pogo-rage-the-awakening.json) |
+| Pogo Stick Champion | 305567 | [305567-pogo-stick-champion.json](./305567-pogo-stick-champion.json) |
 | Pogo Sudoku | 354990 | [354990-pogo-sudoku.json](./354990-pogo-sudoku.json) |
 | Pogo Swing! | 388176 | [388176-pogo-swing.json](./388176-pogo-swing.json) |
 | Pogo Up! | 365289 | [365289-pogo-up.json](./365289-pogo-up.json) |
@@ -7620,6 +7626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poop Rocket | 341562 | [341562-poop-rocket.json](./341562-poop-rocket.json) |
 | Poop Spotter: The Game To Improve the Quality of Poop~ | 294286 | [294286-poop-spotter-the-game-to-improve-the-quality-of-poop.json](./294286-poop-spotter-the-game-to-improve-the-quality-of-poop.json) |
 | Poopnauts | 418275 | [418275-poopnauts.json](./418275-poopnauts.json) |
+| Poopy Time | 305407 | [305407-poopy-time.json](./305407-poopy-time.json) |
 | Poor Artifact Maker | 290538 | [290538-poor-artifact-maker.json](./290538-poor-artifact-maker.json) |
 | Poor Bunny! | 239132 | [239132-poor-bunny.json](./239132-poor-bunny.json) |
 | Poor Lucas and the Evil Duke | 190206 | [190206-poor-lucas-and-the-evil-duke.json](./190206-poor-lucas-and-the-evil-duke.json) |
