@@ -14269,6 +14269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Times Dungeon | 224593 | [224593-times-dungeon.json](./224593-times-dungeon.json) |
 | Times Infinity | 149237 | [149237-times-infinity.json](./149237-times-infinity.json) |
 | Times of Lore | 12486 | [12486-times-of-lore.json](./12486-times-of-lore.json) |
+| Times of Survival | 311152 | [311152-times-of-survival.json](./311152-times-of-survival.json) |
 | Times Of War | 253428 | [253428-times-of-war.json](./253428-times-of-war.json) |
 | Times Trials | 244245 | [244245-times-trials.json](./244245-times-trials.json) |
 | Times Turn | 185132 | [185132-times-turn.json](./185132-times-turn.json) |
