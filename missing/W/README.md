@@ -1334,6 +1334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WarWest | 112336 | [112336-warwest.json](./112336-warwest.json) |
 | Warzone | 308473 | [308473-warzone.json](./308473-warzone.json) |
 | WarZone | 370920 | [370920-warzone.json](./370920-warzone.json) |
+| Warzone Chronicles 2: Warfare Shooter Zombie | 315823 | [315823-warzone-chronicles-2-warfare-shooter-zombie.json](./315823-warzone-chronicles-2-warfare-shooter-zombie.json) |
 | Warzone Chronicles: Virtual Warfare Shooter | 283217 | [283217-warzone-chronicles-virtual-warfare-shooter.json](./283217-warzone-chronicles-virtual-warfare-shooter.json) |
 | Warzone Chronicles: Virtual Warfare Shooter - Premium Edition | 308795 | [308795-warzone-chronicles-virtual-warfare-shooter-premium-edition.json](./308795-warzone-chronicles-virtual-warfare-shooter-premium-edition.json) |
 | WarZone Flashpoint | 112996 | [112996-warzone-flashpoint.json](./112996-warzone-flashpoint.json) |
@@ -2632,6 +2633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where the Sun Always Shines | 401730 | [401730-where-the-sun-always-shines.json](./401730-where-the-sun-always-shines.json) |
 | Where the Two Flowers Meet | 267586 | [267586-where-the-two-flowers-meet.json](./267586-where-the-two-flowers-meet.json) |
 | Where the Wild Things Are | 5278 | [5278-where-the-wild-things-are.json](./5278-where-the-wild-things-are.json) |
+| Where there once was sand | 315802 | [315802-where-there-once-was-sand.json](./315802-where-there-once-was-sand.json) |
 | Where They Cremate the Roadkill | 68184 | [68184-where-they-cremate-the-roadkill.json](./68184-where-they-cremate-the-roadkill.json) |
 | Where They Wait | 342081 | [342081-where-they-wait.json](./342081-where-they-wait.json) |
 | Where Thoughts Go: Resolutions | 113606 | [113606-where-thoughts-go-resolutions.json](./113606-where-thoughts-go-resolutions.json) |
