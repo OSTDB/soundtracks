@@ -6168,6 +6168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plutonium | 28597 | [28597-plutonium.json](./28597-plutonium.json) |
 | Plutonium Pirates | 102363 | [102363-plutonium-pirates.json](./102363-plutonium-pirates.json) |
 | Plutonium T6 Multiplayer | 315118 | [315118-plutonium-t6-multiplayer.json](./315118-plutonium-t6-multiplayer.json) |
+| Plutonium: Kilimanjaro Oddysey | 321044 | [321044-plutonium-kilimanjaro-oddysey.json](./321044-plutonium-kilimanjaro-oddysey.json) |
 | Ply | 178950 | [178950-ply.json](./178950-ply.json) |
 | PM-1 Inverse Universe | 126382 | [126382-pm-1-inverse-universe.json](./126382-pm-1-inverse-universe.json) |
 | PMC: Net Zero | 377277 | [377277-pmc-net-zero.json](./377277-pmc-net-zero.json) |
