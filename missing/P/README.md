@@ -6459,6 +6459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Amethyst | 323762 | [323762-pokemon-amethyst.json](./323762-pokemon-amethyst.json) |
 | Pokémon and the Last Wish | 153510 | [153510-pokemon-and-the-last-wish.json](./153510-pokemon-and-the-last-wish.json) |
 | Pokémon Anniversary Crystal | 313100 | [313100-pokemon-anniversary-crystal.json](./313100-pokemon-anniversary-crystal.json) |
+| Pokemon Aquamarine | 325718 | [325718-pokemon-aquamarine.json](./325718-pokemon-aquamarine.json) |
 | Pokémon Art Academy | 7410 | [7410-pokemon-art-academy.json](./7410-pokemon-art-academy.json) |
 | Pokémon Ashen Frost | 307289 | [307289-pokemon-ashen-frost.json](./307289-pokemon-ashen-frost.json) |
 | Pokémon AshGray Version | 143756 | [143756-pokemon-ashgray-version.json](./143756-pokemon-ashgray-version.json) |
