@@ -3433,6 +3433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beauty Clicker 2 | 389646 | [389646-beauty-clicker-2.json](./389646-beauty-clicker-2.json) |
 | Beauty Factory | 52447 | [52447-beauty-factory.json](./52447-beauty-factory.json) |
 | Beauty from Wisdom | 236372 | [236372-beauty-from-wisdom.json](./236372-beauty-from-wisdom.json) |
+| Beauty Jigsaw | 307887 | [307887-beauty-jigsaw.json](./307887-beauty-jigsaw.json) |
 | Beauty Jigsaw: Image Pack | 357874 | [357874-beauty-jigsaw-image-pack.json](./357874-beauty-jigsaw-image-pack.json) |
 | Beauty Lawyer Victoria 2 | 200058 | [200058-beauty-lawyer-victoria-2.json](./200058-beauty-lawyer-victoria-2.json) |
 | Beauty List | 92133 | [92133-beauty-list.json](./92133-beauty-list.json) |
@@ -3990,6 +3991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Berrywitched! | 330215 | [330215-berrywitched.json](./330215-berrywitched.json) |
 | Berrywitched! The Harvest | 374169 | [374169-berrywitched-the-harvest.json](./374169-berrywitched-the-harvest.json) |
 | Berserk and the Band of the Hawk: Additional Warhorse Set | 224121 | [224121-berserk-and-the-band-of-the-hawk-additional-warhorse-set.json](./224121-berserk-and-the-band-of-the-hawk-additional-warhorse-set.json) |
+| Berserk B.I.T.S | 307979 | [307979-berserk-b-i-t-s.json](./307979-berserk-b-i-t-s.json) |
 | Berserk Boy | 150032 | [150032-berserk-boy.json](./150032-berserk-boy.json) |
 | Berserk Heroes Online | 377267 | [377267-berserk-heroes-online.json](./377267-berserk-heroes-online.json) |
 | Berserk or Die | 348333 | [348333-berserk-or-die.json](./348333-berserk-or-die.json) |
