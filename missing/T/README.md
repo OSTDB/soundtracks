@@ -10088,6 +10088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Simpsons Bart-Shooter | 365246 | [365246-the-simpsons-bart-shooter.json](./365246-the-simpsons-bart-shooter.json) |
 | The Simpsons Game | 259329 | [259329-the-simpsons-game.json](./259329-the-simpsons-game.json) |
 | The Simpsons Game | 2656 | [2656-the-simpsons-game.json](./2656-the-simpsons-game.json) |
+| The Simpsons Movie: The Ball of Death | 315195 | [315195-the-simpsons-movie-the-ball-of-death.json](./315195-the-simpsons-movie-the-ball-of-death.json) |
 | The Simpsons Skateboarding | 2843 | [2843-the-simpsons-skateboarding.json](./2843-the-simpsons-skateboarding.json) |
 | The Simpsons Trivia | 221270 | [221270-the-simpsons-trivia.json](./221270-the-simpsons-trivia.json) |
 | The Simpsons: Bart & the Beanstalk | 2837 | [2837-the-simpsons-bart-and-the-beanstalk.json](./2837-the-simpsons-bart-and-the-beanstalk.json) |
@@ -12150,6 +12151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | These Darker Tides | 322135 | [322135-these-darker-tides.json](./322135-these-darker-tides.json) |
 | These Doomed Isles | 217269 | [217269-these-doomed-isles.json](./217269-these-doomed-isles.json) |
 | These Doomed Isles: The First God | 244276 | [244276-these-doomed-isles-the-first-god.json](./244276-these-doomed-isles-the-first-god.json) |
+| These Heavenly Bodies | 315193 | [315193-these-heavenly-bodies.json](./315193-these-heavenly-bodies.json) |
 | These Nights Alone | 156071 | [156071-these-nights-alone.json](./156071-these-nights-alone.json) |
 | These nights in Cairo | 74688 | [74688-these-nights-in-cairo.json](./74688-these-nights-in-cairo.json) |
 | These Robotic Hearts of Mine | 22920 | [22920-these-robotic-hearts-of-mine.json](./22920-these-robotic-hearts-of-mine.json) |
