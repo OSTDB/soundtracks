@@ -772,6 +772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ZodiaX | 259849 | [259849-zodiax.json](./259849-zodiax.json) |
 | Zodicat | 107752 | [107752-zodicat.json](./107752-zodicat.json) |
 | Zoe and the Cursed Dreamer | 402282 | [402282-zoe-and-the-cursed-dreamer.json](./402282-zoe-and-the-cursed-dreamer.json) |
+| Zoe The Exhibitionist | 311739 | [311739-zoe-the-exhibitionist.json](./311739-zoe-the-exhibitionist.json) |
 | Zoelie | 161169 | [161169-zoelie.json](./161169-zoelie.json) |
 | Zoey 101 | 18325 | [18325-zoey-101.json](./18325-zoey-101.json) |
 | Zoey 101: Field Trip Fiasco | 18326 | [18326-zoey-101-field-trip-fiasco.json](./18326-zoey-101-field-trip-fiasco.json) |
