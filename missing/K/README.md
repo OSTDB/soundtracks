@@ -1651,6 +1651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Killing Trials | 114903 | [114903-killing-trials.json](./114903-killing-trials.json) |
 | Killing Zone | 20596 | [20596-killing-zone.json](./20596-killing-zone.json) |
 | KillJoy | 271934 | [271934-killjoy.json](./271934-killjoy.json) |
+| Killmage | 292452 | [292452-killmage.json](./292452-killmage.json) |
 | Killmaiden | 295895 | [295895-killmaiden.json](./295895-killmaiden.json) |
 | Killover | 361815 | [361815-killover.json](./361815-killover.json) |
 | Killpaku! | 321380 | [321380-killpaku.json](./321380-killpaku.json) |
