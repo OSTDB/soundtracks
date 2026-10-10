@@ -3347,6 +3347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find Pairs | 246490 | [246490-find-pairs.json](./246490-find-pairs.json) |
 | Find Pixel | 74998 | [74998-find-pixel.json](./74998-find-pixel.json) |
 | Find Room 96 | 291457 | [291457-find-room-96.json](./291457-find-room-96.json) |
+| Find Room 96 + Exit Station 7 + The Eerie Surroundings + HighScore Anomaly Shop + HighScore Anomaly Underground | 314605 | [314605-find-room-96-exit-station-7-the-eerie-surroundings-highscore-anomaly-shop-highscore-anomaly-underground.json](./314605-find-room-96-exit-station-7-the-eerie-surroundings-highscore-anomaly-shop-highscore-anomaly-underground.json) |
 | Find Shape | 421325 | [421325-find-shape.json](./421325-find-shape.json) |
 | Find someone else | 95237 | [95237-find-someone-else.json](./95237-find-someone-else.json) |
 | Find Sort Match | 358351 | [358351-find-sort-match.json](./358351-find-sort-match.json) |
@@ -7701,6 +7702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fruit Adventure Returns | 332531 | [332531-fruit-adventure-returns.json](./332531-fruit-adventure-returns.json) |
 | Fruit am I? | 229194 | [229194-fruit-am-i.json](./229194-fruit-am-i.json) |
 | Fruit Attack | 70621 | [70621-fruit-attack.json](./70621-fruit-attack.json) |
+| Fruit Attack!! | 314606 | [314606-fruit-attack.json](./314606-fruit-attack.json) |
 | Fruit Basket TV | 196858 | [196858-fruit-basket-tv.json](./196858-fruit-basket-tv.json) |
 | Fruit Blade | 268018 | [268018-fruit-blade.json](./268018-fruit-blade.json) |
 | Fruit Bonanza | 195698 | [195698-fruit-bonanza.json](./195698-fruit-bonanza.json) |
