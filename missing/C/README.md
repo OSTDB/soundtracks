@@ -644,6 +644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Campus | 24998 | [24998-campus.json](./24998-campus.json) |
 | Campus Confidential | 384175 | [384175-campus-confidential.json](./384175-campus-confidential.json) |
 | Campwood | 395096 | [395096-campwood.json](./395096-campwood.json) |
+| Camundongo Miguel na Ilha dos Novo Pogos | 298411 | [298411-camundongo-miguel-na-ilha-dos-novo-pogos.json](./298411-camundongo-miguel-na-ilha-dos-novo-pogos.json) |
 | Can Androids Pray: Blue | 125388 | [125388-can-androids-pray-blue.json](./125388-can-androids-pray-blue.json) |
 | Can Androids Survive | 167709 | [167709-can-androids-survive.json](./167709-can-androids-survive.json) |
 | Can Bullet | 296646 | [296646-can-bullet.json](./296646-can-bullet.json) |
@@ -1572,6 +1573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carmine Impact | 142318 | [142318-carmine-impact.json](./142318-carmine-impact.json) |
 | Carminia | 153385 | [153385-carminia.json](./153385-carminia.json) |
 | Carnage | 170831 | [170831-carnage.json](./170831-carnage.json) |
+| Carnage | 298396 | [298396-carnage.json](./298396-carnage.json) |
 | Carnage Heart | 20733 | [20733-carnage-heart.json](./20733-carnage-heart.json) |
 | Carnage Heart EXA | 46589 | [46589-carnage-heart-exa.json](./46589-carnage-heart-exa.json) |
 | Carnage Heart EZ: Easy Zapping | 66184 | [66184-carnage-heart-ez-easy-zapping.json](./66184-carnage-heart-ez-easy-zapping.json) |
@@ -2279,6 +2281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Golf | 339963 | [339963-cat-golf.json](./339963-cat-golf.json) |
 | Cat Good Work | 309686 | [309686-cat-good-work.json](./309686-cat-good-work.json) |
 | Cat got Lost | 260670 | [260670-cat-got-lost.json](./260670-cat-got-lost.json) |
+| Cat Got Your Tongue | 298404 | [298404-cat-got-your-tongue.json](./298404-cat-got-your-tongue.json) |
 | Cat Got Your Tongue | 360674 | [360674-cat-got-your-tongue.json](./360674-cat-got-your-tongue.json) |
 | Cat Guardian | 319201 | [319201-cat-guardian.json](./319201-cat-guardian.json) |
 | Cat Gunner | 356273 | [356273-cat-gunner.json](./356273-cat-gunner.json) |
@@ -2318,6 +2321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Meat | 32911 | [32911-cat-meat.json](./32911-cat-meat.json) |
 | Cat Meme Clicker | 391214 | [391214-cat-meme-clicker.json](./391214-cat-meme-clicker.json) |
 | Cat Memories - Find the Hidden Stories | 305973 | [305973-cat-memories-find-the-hidden-stories.json](./305973-cat-memories-find-the-hidden-stories.json) |
+| Cat Meoir: Feline Detective | 298416 | [298416-cat-meoir-feline-detective.json](./298416-cat-meoir-feline-detective.json) |
 | Cat MeowMart: Supermarket Simulator | 328567 | [328567-cat-meowmart-supermarket-simulator.json](./328567-cat-meowmart-supermarket-simulator.json) |
 | Cat Minesweeper | 396599 | [396599-cat-minesweeper.json](./396599-cat-minesweeper.json) |
 | Cat Museum | 193857 | [193857-cat-museum.json](./193857-cat-museum.json) |
@@ -10516,6 +10520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Critical Strike | 345571 | [345571-critical-strike.json](./345571-critical-strike.json) |
 | Critical Strike Modern: SWAT Shooter Ops | 370566 | [370566-critical-strike-modern-swat-shooter-ops.json](./370566-critical-strike-modern-swat-shooter-ops.json) |
 | Critical Strike Shooter: SWAT Rescue Missions | 304275 | [304275-critical-strike-shooter-swat-rescue-missions.json](./304275-critical-strike-shooter-swat-rescue-missions.json) |
+| Critical Upload | 298442 | [298442-critical-upload.json](./298442-critical-upload.json) |
 | Critical Zone | 148695 | [148695-critical-zone.json](./148695-critical-zone.json) |
 | Critical Zone | 397418 | [397418-critical-zone.json](./397418-critical-zone.json) |
 | Criticality | 180788 | [180788-criticality.json](./180788-criticality.json) |
