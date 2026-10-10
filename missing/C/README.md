@@ -2370,6 +2370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Rescue Inc. | 345650 | [345650-cat-rescue-inc.json](./345650-cat-rescue-inc.json) |
 | Cat Runner 2018 | 99414 | [99414-cat-runner-2018.json](./99414-cat-runner-2018.json) |
 | Cat Screen | 410234 | [410234-cat-screen.json](./410234-cat-screen.json) |
+| Cat Secretary | 292419 | [292419-cat-secretary.json](./292419-cat-secretary.json) |
 | Cat Short Way | 296510 | [296510-cat-short-way.json](./296510-cat-short-way.json) |
 | Cat Sim Online: Play With Cats | 103863 | [103863-cat-sim-online-play-with-cats.json](./103863-cat-sim-online-play-with-cats.json) |
 | Cat Simulator | 18014 | [18014-cat-simulator.json](./18014-cat-simulator.json) |
@@ -2563,6 +2564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cate West: The Velvet Keys | 200491 | [200491-cate-west-the-velvet-keys.json](./200491-cate-west-the-velvet-keys.json) |
 | Catechesis | 276693 | [276693-catechesis.json](./276693-catechesis.json) |
 | Catechumen | 84468 | [84468-catechumen.json](./84468-catechumen.json) |
+| Category 6 | 292445 | [292445-category-6.json](./292445-category-6.json) |
 | Category Challenge | 246955 | [246955-category-challenge.json](./246955-category-challenge.json) |
 | Category I: Shisenjou no Survivor | 218981 | [218981-category-i-shisenjou-no-survivor.json](./218981-category-i-shisenjou-no-survivor.json) |
 | Category I: Shisenjou no Survivor | 221682 | [221682-category-i-shisenjou-no-survivor.json](./221682-category-i-shisenjou-no-survivor.json) |
@@ -2695,6 +2697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cats Love Heat | 185490 | [185490-cats-love-heat.json](./185490-cats-love-heat.json) |
 | Cats Lover | 55281 | [55281-cats-lover.json](./55281-cats-lover.json) |
 | Cats n Wires | 177476 | [177476-cats-n-wires.json](./177476-cats-n-wires.json) |
+| Cats of the Qing Dynasty | 292435 | [292435-cats-of-the-qing-dynasty.json](./292435-cats-of-the-qing-dynasty.json) |
 | Cats of the Song Dynasty | 315299 | [315299-cats-of-the-song-dynasty.json](./315299-cats-of-the-song-dynasty.json) |
 | Cats on Duty | 257903 | [257903-cats-on-duty.json](./257903-cats-on-duty.json) |
 | Cats on Streets | 275033 | [275033-cats-on-streets.json](./275033-cats-on-streets.json) |
@@ -9420,6 +9423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cows&Co | 207799 | [207799-cows-and-co.json](./207799-cows-and-co.json) |
 | Cowtastic Cafe | 316823 | [316823-cowtastic-cafe.json](./316823-cowtastic-cafe.json) |
 | Cowz.io | 352143 | [352143-cowz-io.json](./352143-cowz-io.json) |
+| Coyote: An Old West Vignette | 292443 | [292443-coyote-an-old-west-vignette.json](./292443-coyote-an-old-west-vignette.json) |
 | Cozmic Fantasy 2: Bouken Shounen Pan | 251628 | [251628-cozmic-fantasy-2-bouken-shounen-pan.json](./251628-cozmic-fantasy-2-bouken-shounen-pan.json) |
 | Cozy | 179745 | [179745-cozy.json](./179745-cozy.json) |
 | Cozy Aquarium | 339315 | [339315-cozy-aquarium.json](./339315-cozy-aquarium.json) |
@@ -11464,6 +11468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube Gothic | 140359 | [140359-cube-gothic.json](./140359-cube-gothic.json) |
 | Cube Gravity | 182227 | [182227-cube-gravity.json](./182227-cube-gravity.json) |
 | Cube Guardian: Tower Defender | 357841 | [357841-cube-guardian-tower-defender.json](./357841-cube-guardian-tower-defender.json) |
+| Cube Guy | 292406 | [292406-cube-guy.json](./292406-cube-guy.json) |
 | Cube Hero | 298234 | [298234-cube-hero.json](./298234-cube-hero.json) |
 | Cube Hits Corner | 370280 | [370280-cube-hits-corner.json](./370280-cube-hits-corner.json) |
 | Cube Human | 115572 | [115572-cube-human.json](./115572-cube-human.json) |
@@ -12300,6 +12305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber VR | 51938 | [51938-cyber-vr.json](./51938-cyber-vr.json) |
 | Cyber War: Cyberpunk Reborn | 174904 | [174904-cyber-war-cyberpunk-reborn.json](./174904-cyber-war-cyberpunk-reborn.json) |
 | Cyber West: Hidden Object Games - Western | 232525 | [232525-cyber-west-hidden-object-games-western.json](./232525-cyber-west-hidden-object-games-western.json) |
+| Cyber Workshop | 292405 | [292405-cyber-workshop.json](./292405-cyber-workshop.json) |
 | Cyber_Space | 179046 | [179046-cyber-space.json](./179046-cyber-space.json) |
 | Cyber-Ante | 158044 | [158044-cyber-ante.json](./158044-cyber-ante.json) |
 | Cyber-ART | 377689 | [377689-cyber-art.json](./377689-cyber-art.json) |
