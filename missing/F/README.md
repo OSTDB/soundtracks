@@ -1157,6 +1157,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantastic Pets | 20165 | [20165-fantastic-pets.json](./20165-fantastic-pets.json) |
 | Fantastic Petty | 341153 | [341153-fantastic-petty.json](./341153-fantastic-petty.json) |
 | Fantastic Voyage | 18558 | [18558-fantastic-voyage.json](./18558-fantastic-voyage.json) |
+| Fantastical Mystery ADV: Ultimate Jumbo Jet Murder Case | 289789 | [289789-fantastical-mystery-adv-ultimate-jumbo-jet-murder-case.json](./289789-fantastical-mystery-adv-ultimate-jumbo-jet-murder-case.json) |
+| Fantastyc Murder Mystery | 289797 | [289797-fantastyc-murder-mystery.json](./289797-fantastyc-murder-mystery.json) |
 | Fantasy '95 | 40111 | [40111-fantasy-95.json](./40111-fantasy-95.json) |
 | Fantasy & Blade | 119021 | [119021-fantasy-and-blade.json](./119021-fantasy-and-blade.json) |
 | Fantasy & Blade II | 124223 | [124223-fantasy-and-blade-ii.json](./124223-fantasy-and-blade-ii.json) |
@@ -6672,6 +6674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fox Sports Soccer '99 | 139246 | [139246-fox-sports-soccer-99.json](./139246-fox-sports-soccer-99.json) |
 | Fox Sports Tennis '99 | 81276 | [81276-fox-sports-tennis-99.json](./81276-fox-sports-tennis-99.json) |
 | Fox Stories | 154566 | [154566-fox-stories.json](./154566-fox-stories.json) |
+| Fox Trot | 289801 | [289801-fox-trot.json](./289801-fox-trot.json) |
 | Fox Two Protocol | 408310 | [408310-fox-two-protocol.json](./408310-fox-two-protocol.json) |
 | Fox-Trot Over Run | 130970 | [130970-fox-trot-over-run.json](./130970-fox-trot-over-run.json) |
 | Fox's Peter Pan & The Pirates: The Revenge of Captain Hook | 72710 | [72710-foxs-peter-pan-and-the-pirates-the-revenge-of-captain-hook.json](./72710-foxs-peter-pan-and-the-pirates-the-revenge-of-captain-hook.json) |
