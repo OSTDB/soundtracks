@@ -5613,6 +5613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ShootOut | 411615 | [411615-shootout.json](./411615-shootout.json) |
 | Shootout at the OK Galaxy | 24810 | [24810-shootout-at-the-ok-galaxy.json](./24810-shootout-at-the-ok-galaxy.json) |
 | Shootout on Cash Island | 28998 | [28998-shootout-on-cash-island.json](./28998-shootout-on-cash-island.json) |
+| Shootout Pool | 317528 | [317528-shootout-pool.json](./317528-shootout-pool.json) |
 | Shootout! | 109450 | [109450-shootout.json](./109450-shootout.json) |
 | Shootout! : World Edition | 90897 | [90897-shootout-world-edition.json](./90897-shootout-world-edition.json) |
 | Shoottris: Beyond the Classic Game | 110508 | [110508-shoottris-beyond-the-classic-game.json](./110508-shoottris-beyond-the-classic-game.json) |
@@ -6045,6 +6046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sick Coaster | 82321 | [82321-sick-coaster.json](./82321-sick-coaster.json) |
 | Sick Generation: The Ghost of the Crane Catcher | 383974 | [383974-sick-generation-the-ghost-of-the-crane-catcher.json](./383974-sick-generation-the-ghost-of-the-crane-catcher.json) |
 | Sick Love - An RPG Maker Novel | 114166 | [114166-sick-love-an-rpg-maker-novel.json](./114166-sick-love-an-rpg-maker-novel.json) |
+| Sick Samurai | 317516 | [317516-sick-samurai.json](./317516-sick-samurai.json) |
 | Sick Way | 127087 | [127087-sick-way.json](./127087-sick-way.json) |
 | Sickly Days and Summer Traces | 343869 | [343869-sickly-days-and-summer-traces.json](./343869-sickly-days-and-summer-traces.json) |
 | Sicko Sanctum 2 | 273904 | [273904-sicko-sanctum-2.json](./273904-sicko-sanctum-2.json) |
@@ -7264,6 +7266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skater XL | 113175 | [113175-skater-xl.json](./113175-skater-xl.json) |
 | Skater XL: Tampa Pro 2022 Gear Pack For Charity | 225094 | [225094-skater-xl-tampa-pro-2022-gear-pack-for-charity.json](./225094-skater-xl-tampa-pro-2022-gear-pack-for-charity.json) |
 | Skater: Let's Skate | 106096 | [106096-skater-lets-skate.json](./106096-skater-lets-skate.json) |
+| Skater's Solstice | 317562 | [317562-skaters-solstice.json](./317562-skaters-solstice.json) |
 | SkateRide | 180776 | [180776-skateride.json](./180776-skateride.json) |
 | Skatesterre | 404911 | [404911-skatesterre.json](./404911-skatesterre.json) |
 | Skator Gator | 139871 | [139871-skator-gator.json](./139871-skator-gator.json) |
@@ -7834,6 +7837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skywire VIP | 276425 | [276425-skywire-vip.json](./276425-skywire-vip.json) |
 | Skyworld: Kingdom Brawl - Fresh Meat | 296040 | [296040-skyworld-kingdom-brawl-fresh-meat.json](./296040-skyworld-kingdom-brawl-fresh-meat.json) |
 | Skywriter | 108073 | [108073-skywriter.json](./108073-skywriter.json) |
+| Skyx | 317531 | [317531-skyx.json](./317531-skyx.json) |
 | SL The Game | 320274 | [320274-sl-the-game.json](./320274-sl-the-game.json) |
 | Slab | 98708 | [98708-slab.json](./98708-slab.json) |
 | Slackball | 392905 | [392905-slackball.json](./392905-slackball.json) |
@@ -9252,6 +9256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SNK vs. Capcom: Card Fighters 2 - Expand Edition | 75441 | [75441-snk-vs-capcom-card-fighters-2-expand-edition.json](./75441-snk-vs-capcom-card-fighters-2-expand-edition.json) |
 | SNK vs. Capcom: SVC Chaos | 309177 | [309177-snk-vs-capcom-svc-chaos.json](./309177-snk-vs-capcom-svc-chaos.json) |
 | Sno Pokeler | 237532 | [237532-sno-pokeler.json](./237532-sno-pokeler.json) |
+| Snø: Ultimate Freeriding | 317533 | [317533-sn-ultimate-freeriding.json](./317533-sn-ultimate-freeriding.json) |
 | Snoball in Hell | 293314 | [293314-snoball-in-hell.json](./293314-snoball-in-hell.json) |
 | Snogbert | 347805 | [347805-snogbert.json](./347805-snogbert.json) |
 | Snoggle | 172458 | [172458-snoggle.json](./172458-snoggle.json) |
@@ -10640,6 +10645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Inflation 2: Battle | 140539 | [140539-sonic-inflation-2-battle.json](./140539-sonic-inflation-2-battle.json) |
 | Sonic Inflation Adventure | 140538 | [140538-sonic-inflation-adventure.json](./140538-sonic-inflation-adventure.json) |
 | Sonic into the Black Sea | 417671 | [417671-sonic-into-the-black-sea.json](./417671-sonic-into-the-black-sea.json) |
+| Sonic Island: Lost Paradise | 317512 | [317512-sonic-island-lost-paradise.json](./317512-sonic-island-lost-paradise.json) |
 | Sonic Islands | 368089 | [368089-sonic-islands.json](./368089-sonic-islands.json) |
 | Sonic Jam | 133930 | [133930-sonic-jam.json](./133930-sonic-jam.json) |
 | Sonic Jam | 72129 | [72129-sonic-jam.json](./72129-sonic-jam.json) |
@@ -10653,6 +10659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Labyrinth | 332465 | [332465-sonic-labyrinth.json](./332465-sonic-labyrinth.json) |
 | Sonic Labyrinth | 387060 | [387060-sonic-labyrinth.json](./387060-sonic-labyrinth.json) |
 | Sonic Legacy | 314502 | [314502-sonic-legacy.json](./314502-sonic-legacy.json) |
+| Sonic Legacy | 317513 | [317513-sonic-legacy.json](./317513-sonic-legacy.json) |
 | Sonic Legends | 301520 | [301520-sonic-legends.json](./301520-sonic-legends.json) |
 | Sonic Legends | 332594 | [332594-sonic-legends.json](./332594-sonic-legends.json) |
 | Sonic Liola: Begins | 330704 | [330704-sonic-liola-begins.json](./330704-sonic-liola-begins.json) |
