@@ -4318,6 +4318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadows Must Fall | 399200 | [399200-shadows-must-fall.json](./399200-shadows-must-fall.json) |
 | Shadows of a Sunless World | 183063 | [183063-shadows-of-a-sunless-world.json](./183063-shadows-of-a-sunless-world.json) |
 | Shadows of Adam | 27445 | [27445-shadows-of-adam.json](./27445-shadows-of-adam.json) |
+| Shadows of Betrayal | 301089 | [301089-shadows-of-betrayal.json](./301089-shadows-of-betrayal.json) |
 | Shadows of Chronos | 260784 | [260784-shadows-of-chronos.json](./260784-shadows-of-chronos.json) |
 | Shadows of Doubt | 119273 | [119273-shadows-of-doubt.json](./119273-shadows-of-doubt.json) |
 | Shadows of Duat | 252395 | [252395-shadows-of-duat.json](./252395-shadows-of-duat.json) |
@@ -9203,6 +9204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sneaky All-Nighter 2 | 379035 | [379035-sneaky-all-nighter-2.json](./379035-sneaky-all-nighter-2.json) |
 | Sneaky Bears | 69320 | [69320-sneaky-bears.json](./69320-sneaky-bears.json) |
 | Sneaky Bears VR | 68272 | [68272-sneaky-bears-vr.json](./68272-sneaky-bears-vr.json) |
+| Sneaky Beings | 301061 | [301061-sneaky-beings.json](./301061-sneaky-beings.json) |
 | Sneaky Bimbuls | 406134 | [406134-sneaky-bimbuls.json](./406134-sneaky-bimbuls.json) |
 | Sneaky Kitten | 156650 | [156650-sneaky-kitten.json](./156650-sneaky-kitten.json) |
 | Sneaky Monsters | 251540 | [251540-sneaky-monsters.json](./251540-sneaky-monsters.json) |
@@ -11547,6 +11549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Souls | 261255 | [261255-souls.json](./261255-souls.json) |
 | Souls | 290622 | [290622-souls.json](./290622-souls.json) |
 | Souls | 51417 | [51417-souls.json](./51417-souls.json) |
+| Souls Chess | 301057 | [301057-souls-chess.json](./301057-souls-chess.json) |
 | Souls Divided | 410228 | [410228-souls-divided.json](./410228-souls-divided.json) |
 | Souls End | 345667 | [345667-souls-end.json](./345667-souls-end.json) |
 | Souls of Darkon | 12966 | [12966-souls-of-darkon.json](./12966-souls-of-darkon.json) |
@@ -14831,6 +14834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Mine | 142424 | [142424-star-mine.json](./142424-star-mine.json) |
 | Star Mission: Remote Sectors | 336570 | [336570-star-mission-remote-sectors.json](./336570-star-mission-remote-sectors.json) |
 | Star Mobile | 41995 | [41995-star-mobile.json](./41995-star-mobile.json) |
+| Star Mountain | 301059 | [301059-star-mountain.json](./301059-star-mountain.json) |
 | Star Nomad | 36067 | [36067-star-nomad.json](./36067-star-nomad.json) |
 | Star Nomad Elite | 175236 | [175236-star-nomad-elite.json](./175236-star-nomad-elite.json) |
 | Star Ocean | 11209 | [11209-star-ocean.json](./11209-star-ocean.json) |
@@ -15949,6 +15953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steak Stacker | 350597 | [350597-steak-stacker.json](./350597-steak-stacker.json) |
 | Steal & Sell Simulator | 413173 | [413173-steal-and-sell-simulator.json](./413173-steal-and-sell-simulator.json) |
 | Steal a Monke | 370849 | [370849-steal-a-monke.json](./370849-steal-a-monke.json) |
+| Steal Deal | 301095 | [301095-steal-deal.json](./301095-steal-deal.json) |
 | Steal It | 241533 | [241533-steal-it.json](./241533-steal-it.json) |
 | Steal My Artificial Heart | 9516 | [9516-steal-my-artificial-heart.json](./9516-steal-my-artificial-heart.json) |
 | Steal Out | 361863 | [361863-steal-out.json](./361863-steal-out.json) |
