@@ -194,6 +194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I got a cat maid | 128013 | [128013-i-got-a-cat-maid.json](./128013-i-got-a-cat-maid.json) |
 | I Got a Millenary Cat | 197401 | [197401-i-got-a-millenary-cat.json](./197401-i-got-a-millenary-cat.json) |
 | I Got Hired To Guard The Button That Destroys The Earth | 340512 | [340512-i-got-hired-to-guard-the-button-that-destroys-the-earth.json](./340512-i-got-hired-to-guard-the-button-that-destroys-the-earth.json) |
+| I Got Isekai'd Into a Shmup | 311229 | [311229-i-got-isekaid-into-a-shmup.json](./311229-i-got-isekaid-into-a-shmup.json) |
 | I Got Trapped in the Succubus's Dream! | 264810 | [264810-i-got-trapped-in-the-succubuss-dream.json](./264810-i-got-trapped-in-the-succubuss-dream.json) |
 | I Got Turned Into a Girl and This Yuri Death Angel Will Only Turn Me Back if I Can Find All the Hidden Props | 395106 | [395106-i-got-turned-into-a-girl-and-this-yuri-death-angel-will-only-turn-me-back-if-i-can-find-all-the-hidden-props.json](./395106-i-got-turned-into-a-girl-and-this-yuri-death-angel-will-only-turn-me-back-if-i-can-find-all-the-hidden-props.json) |
 | I H8 Ur Face | 197910 | [197910-i-h8-ur-face.json](./197910-i-h8-ur-face.json) |
@@ -835,6 +836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Business Tycoon: Build Simulator | 197933 | [197933-idle-business-tycoon-build-simulator.json](./197933-idle-business-tycoon-build-simulator.json) |
 | Idle Calibur: Zero | 385905 | [385905-idle-calibur-zero.json](./385905-idle-calibur-zero.json) |
 | Idle Campaign | 210851 | [210851-idle-campaign.json](./210851-idle-campaign.json) |
+| Idle Casino Empire | 311153 | [311153-idle-casino-empire.json](./311153-idle-casino-empire.json) |
 | Idle Cat Village | 205585 | [205585-idle-cat-village.json](./205585-idle-cat-village.json) |
 | Idle Catfarmia | 247996 | [247996-idle-catfarmia.json](./247996-idle-catfarmia.json) |
 | Idle Cats Dungeon | 395155 | [395155-idle-cats-dungeon.json](./395155-idle-cats-dungeon.json) |
