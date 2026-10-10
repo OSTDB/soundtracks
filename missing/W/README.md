@@ -2060,6 +2060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Welcome to nightmare | 117699 | [117699-welcome-to-nightmare.json](./117699-welcome-to-nightmare.json) |
 | Welcome to Paradise | 119827 | [119827-welcome-to-paradise.json](./119827-welcome-to-paradise.json) |
 | Welcome to Paradise Island | 331119 | [331119-welcome-to-paradise-island.json](./331119-welcome-to-paradise-island.json) |
+| Welcome to Paradize: Archeology Quest | 295652 | [295652-welcome-to-paradize-archeology-quest.json](./295652-welcome-to-paradize-archeology-quest.json) |
 | Welcome to Paradize: Zombot Edition | 288857 | [288857-welcome-to-paradize-zombot-edition.json](./288857-welcome-to-paradize-zombot-edition.json) |
 | Welcome to Pinehills | 165673 | [165673-welcome-to-pinehills.json](./165673-welcome-to-pinehills.json) |
 | Welcome to Planet E1d0r4d0! | 279858 | [279858-welcome-to-planet-e1d0r4d0.json](./279858-welcome-to-planet-e1d0r4d0.json) |
