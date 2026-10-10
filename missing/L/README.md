@@ -5509,6 +5509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loving You Fully | 159873 | [159873-loving-you-fully.json](./159873-loving-you-fully.json) |
 | Loving Zurine | 83222 | [83222-loving-zurine.json](./83222-loving-zurine.json) |
 | Lovish | 319894 | [319894-lovish.json](./319894-lovish.json) |
+| Low Batt | 315222 | [315222-low-batt.json](./315222-low-batt.json) |
 | Low Battery | 354408 | [354408-low-battery.json](./354408-low-battery.json) |
 | Low Desert Punk | 65810 | [65810-low-desert-punk.json](./65810-low-desert-punk.json) |
 | Low Earth Orbit Adventures | 391168 | [391168-low-earth-orbit-adventures.json](./391168-low-earth-orbit-adventures.json) |
