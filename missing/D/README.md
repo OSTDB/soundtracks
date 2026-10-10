@@ -7724,6 +7724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donut Hockey | 373558 | [373558-donut-hockey.json](./373558-donut-hockey.json) |
 | Donut Maker | 232179 | [232179-donut-maker.json](./232179-donut-maker.json) |
 | Donut or Cookie | 233660 | [233660-donut-or-cookie.json](./233660-donut-or-cookie.json) |
+| Donut Plus | 309639 | [309639-donut-plus.json](./309639-donut-plus.json) |
 | Donut Punks | 141638 | [141638-donut-punks.json](./141638-donut-punks.json) |
 | Donut Shop Simulator | 348761 | [348761-donut-shop-simulator.json](./348761-donut-shop-simulator.json) |
 | Donutal | 391675 | [391675-donutal.json](./391675-donutal.json) |
@@ -9715,6 +9716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamland Farm: House Furnitures | 324460 | [324460-dreamland-farm-house-furnitures.json](./324460-dreamland-farm-house-furnitures.json) |
 | Dreamland Farm: Kitchen Furnitures | 324461 | [324461-dreamland-farm-kitchen-furnitures.json](./324461-dreamland-farm-kitchen-furnitures.json) |
 | Dreamland Farm: Stone Fence and Tiles | 324477 | [324477-dreamland-farm-stone-fence-and-tiles.json](./324477-dreamland-farm-stone-fence-and-tiles.json) |
+| Dreamland Solitaire Bundle | 309631 | [309631-dreamland-solitaire-bundle.json](./309631-dreamland-solitaire-bundle.json) |
 | Dreamland Solitaire: Dragon's Fury | 122819 | [122819-dreamland-solitaire-dragons-fury.json](./122819-dreamland-solitaire-dragons-fury.json) |
 | Dreamland: Village Life | 208446 | [208446-dreamland-village-life.json](./208446-dreamland-village-life.json) |
 | Dreamlander | 147805 | [147805-dreamlander.json](./147805-dreamlander.json) |
