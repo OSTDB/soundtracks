@@ -645,6 +645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Offroad Thunder | 3702 | [3702-offroad-thunder.json](./3702-offroad-thunder.json) |
 | Offroad Truck Simulator | 308505 | [308505-offroad-truck-simulator.json](./308505-offroad-truck-simulator.json) |
 | Offroad Truck Simulator: Heavy Duty Challenge | 165381 | [165381-offroad-truck-simulator-heavy-duty-challenge.json](./165381-offroad-truck-simulator-heavy-duty-challenge.json) |
+| Offroad VR | 278962 | [278962-offroad-vr.json](./278962-offroad-vr.json) |
 | Offroad: VR | 31092 | [31092-offroad-vr.json](./31092-offroad-vr.json) |
 | Offsea | 235761 | [235761-offsea.json](./235761-offsea.json) |
 | Offshore Fishing | 387692 | [387692-offshore-fishing.json](./387692-offshore-fishing.json) |
