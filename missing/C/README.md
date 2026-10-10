@@ -2320,6 +2320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Puzzle | 380062 | [380062-cat-puzzle.json](./380062-cat-puzzle.json) |
 | Cat Quest III: Tavern Tales | 347866 | [347866-cat-quest-iii-tavern-tales.json](./347866-cat-quest-iii-tavern-tales.json) |
 | Cat Quest: The Fur-tastic Trilogy | 313223 | [313223-cat-quest-the-fur-tastic-trilogy.json](./313223-cat-quest-the-fur-tastic-trilogy.json) |
+| Cat Rescue | 329530 | [329530-cat-rescue.json](./329530-cat-rescue.json) |
 | Cat Rescue Inc. | 345650 | [345650-cat-rescue-inc.json](./345650-cat-rescue-inc.json) |
 | Cat Runner 2018 | 99414 | [99414-cat-runner-2018.json](./99414-cat-runner-2018.json) |
 | Cat Screen | 410234 | [410234-cat-screen.json](./410234-cat-screen.json) |
@@ -6248,6 +6249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clover Heart's: Looking for Happiness | 69282 | [69282-clover-hearts-looking-for-happiness.json](./69282-clover-hearts-looking-for-happiness.json) |
 | Clover no Kuni no Alice: Wonderful Wonder World | 64667 | [64667-clover-no-kuni-no-alice-wonderful-wonder-world.json](./64667-clover-no-kuni-no-alice-wonderful-wonder-world.json) |
 | Clover Party | 374936 | [374936-clover-party.json](./374936-clover-party.json) |
+| Clover Reset | 329621 | [329621-clover-reset.json](./329621-clover-reset.json) |
 | Clover's Quadrants | 392120 | [392120-clovers-quadrants.json](./392120-clovers-quadrants.json) |
 | Clover's Space Beat | 313204 | [313204-clovers-space-beat.json](./313204-clovers-space-beat.json) |
 | Cloverheart | 140019 | [140019-cloverheart.json](./140019-cloverheart.json) |
@@ -7154,6 +7156,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coloring Game 4: Steampunk | 199609 | [199609-coloring-game-4-steampunk.json](./199609-coloring-game-4-steampunk.json) |
 | Coloring Game 4: Summer | 192187 | [192187-coloring-game-4-summer.json](./192187-coloring-game-4-summer.json) |
 | Coloring Game 4: Winter | 192189 | [192189-coloring-game-4-winter.json](./192189-coloring-game-4-winter.json) |
+| Coloring Game 5.2 | 329625 | [329625-coloring-game-5-2.json](./329625-coloring-game-5-2.json) |
+| Coloring Game 5.3 | 329626 | [329626-coloring-game-5-3.json](./329626-coloring-game-5-3.json) |
 | Coloring Game 5.5 | 406186 | [406186-coloring-game-5-5.json](./406186-coloring-game-5-5.json) |
 | Coloring Game 5.6 | 406187 | [406187-coloring-game-5-6.json](./406187-coloring-game-5-6.json) |
 | Coloring Game: Expansion Pack No. 1 | 161254 | [161254-coloring-game-expansion-pack-no-1.json](./161254-coloring-game-expansion-pack-no-1.json) |
