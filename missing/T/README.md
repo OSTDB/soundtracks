@@ -1810,6 +1810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taxi Racing Challenge | 237656 | [237656-taxi-racing-challenge.json](./237656-taxi-racing-challenge.json) |
 | Taxi Rider | 43457 | [43457-taxi-rider.json](./43457-taxi-rider.json) |
 | Taxi Run | 254752 | [254752-taxi-run.json](./254752-taxi-run.json) |
+| Taxi Rush | 312851 | [312851-taxi-rush.json](./312851-taxi-rush.json) |
 | Taxi Sim 2016 | 262382 | [262382-taxi-sim-2016.json](./262382-taxi-sim-2016.json) |
 | Taxi Sim 2020 | 147629 | [147629-taxi-sim-2020.json](./147629-taxi-sim-2020.json) |
 | Taxi Simulator | 343327 | [343327-taxi-simulator.json](./343327-taxi-simulator.json) |
@@ -6259,6 +6260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Good Life | 9396 | [9396-the-good-life.json](./9396-the-good-life.json) |
 | The Good Old Days | 312186 | [312186-the-good-old-days.json](./312186-the-good-old-days.json) |
 | The Good Overlord | 272582 | [272582-the-good-overlord.json](./272582-the-good-overlord.json) |
+| The Good People | 312872 | [312872-the-good-people.json](./312872-the-good-people.json) |
 | The Good Time Garden | 127409 | [127409-the-good-time-garden.json](./127409-the-good-time-garden.json) |
 | The Good, the Bad & the Monkey | 348900 | [348900-the-good-the-bad-and-the-monkey.json](./348900-the-good-the-bad-and-the-monkey.json) |
 | The Good, the Bad, and the Horsey | 264049 | [264049-the-good-the-bad-and-the-horsey.json](./264049-the-good-the-bad-and-the-horsey.json) |
@@ -9182,6 +9184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Plant | 105135 | [105135-the-plant.json](./105135-the-plant.json) |
 | The Play's the Thing | 154017 | [154017-the-plays-the-thing.json](./154017-the-plays-the-thing.json) |
 | The Player RPG | 102121 | [102121-the-player-rpg.json](./102121-the-player-rpg.json) |
+| The Player Who Can't Level Up | 312830 | [312830-the-player-who-cant-level-up.json](./312830-the-player-who-cant-level-up.json) |
 | The Playful Triangle | 309454 | [309454-the-playful-triangle.json](./309454-the-playful-triangle.json) |
 | The Playroom | 89494 | [89494-the-playroom.json](./89494-the-playroom.json) |
 | The Playroom 2 | 124137 | [124137-the-playroom-2.json](./124137-the-playroom-2.json) |
@@ -18777,6 +18780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tricking 0 | 195187 | [195187-tricking-0.json](./195187-tricking-0.json) |
 | Trickle Greenweed | 291030 | [291030-trickle-greenweed.json](./291030-trickle-greenweed.json) |
 | Tricks N Treats | 140922 | [140922-tricks-n-treats.json](./140922-tricks-n-treats.json) |
+| Tricks of Light in the Forest | 312873 | [312873-tricks-of-light-in-the-forest.json](./312873-tricks-of-light-in-the-forest.json) |
 | Trickshot | 206667 | [206667-trickshot.json](./206667-trickshot.json) |
 | TrickShot | 147406 | [147406-trickshot.json](./147406-trickshot.json) |
 | Trickshot Tactics | 382753 | [382753-trickshot-tactics.json](./382753-trickshot-tactics.json) |
@@ -19827,6 +19831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turn Tack | 197919 | [197919-turn-tack.json](./197919-turn-tack.json) |
 | Turn the Line! | 190005 | [190005-turn-the-line.json](./190005-turn-the-line.json) |
 | Turn the mirror, please. | 111849 | [111849-turn-the-mirror-please.json](./111849-turn-the-mirror-please.json) |
+| Turn to Mine | 312846 | [312846-turn-to-mine.json](./312846-turn-to-mine.json) |
 | Turn-Based Battle Bundle: The Amazing American Circus & Legend of Keepers | 270303 | [270303-turn-based-battle-bundle-the-amazing-american-circus-and-legend-of-keepers.json](./270303-turn-based-battle-bundle-the-amazing-american-circus-and-legend-of-keepers.json) |
 | Turn-Based Champion | 99664 | [99664-turn-based-champion.json](./99664-turn-based-champion.json) |
 | Turn-Based Invaders From Space! | 184074 | [184074-turn-based-invaders-from-space.json](./184074-turn-based-invaders-from-space.json) |
