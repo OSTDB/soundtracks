@@ -2648,6 +2648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BattleForte | 25937 | [25937-battleforte.json](./25937-battleforte.json) |
 | Battlefront | 28708 | [28708-battlefront.json](./28708-battlefront.json) |
 | Battlefront Trench Warriors: Ops of Warfare | 283294 | [283294-battlefront-trench-warriors-ops-of-warfare.json](./283294-battlefront-trench-warriors-ops-of-warfare.json) |
+| Battlefront+ | 327160 | [327160-battlefront.json](./327160-battlefront.json) |
 | Battlegods CCG: Card Battle | 91104 | [91104-battlegods-ccg-card-battle.json](./91104-battlegods-ccg-card-battle.json) |
 | Battleground | 147923 | [147923-battleground.json](./147923-battleground.json) |
 | Battleground 3: Waterloo | 608 | [608-battleground-3-waterloo.json](./608-battleground-3-waterloo.json) |
@@ -4078,6 +4079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Better Days | 341862 | [341862-better-days.json](./341862-better-days.json) |
 | Better End | 285678 | [285678-better-end.json](./285678-better-end.json) |
 | Better Half | 176801 | [176801-better-half.json](./176801-better-half.json) |
+| Better in Dreams | 327251 | [327251-better-in-dreams.json](./327251-better-in-dreams.json) |
 | Better Late Than Dead | 16291 | [16291-better-late-than-dead.json](./16291-better-late-than-dead.json) |
 | Better Mart Simulator | 332148 | [332148-better-mart-simulator.json](./332148-better-mart-simulator.json) |
 | Better Me Tree | 238764 | [238764-better-me-tree.json](./238764-better-me-tree.json) |
