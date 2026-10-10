@@ -4094,6 +4094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nora Wanna Rise | 291709 | [291709-nora-wanna-rise.json](./291709-nora-wanna-rise.json) |
 | Nora: Forest Nights | 298654 | [298654-nora-forest-nights.json](./298654-nora-forest-nights.json) |
 | Nora: In Search of Hidden Ingredients | 306334 | [306334-nora-in-search-of-hidden-ingredients.json](./306334-nora-in-search-of-hidden-ingredients.json) |
+| Nora: The Wannabe Alchemist + Mosaic Chronicles Deluxe | 305413 | [305413-nora-the-wannabe-alchemist-mosaic-chronicles-deluxe.json](./305413-nora-the-wannabe-alchemist-mosaic-chronicles-deluxe.json) |
 | Nora's Dream | 200732 | [200732-noras-dream.json](./200732-noras-dream.json) |
 | Noracam's Slider Challenge | 215622 | [215622-noracams-slider-challenge.json](./215622-noracams-slider-challenge.json) |
 | Noragami Aragoto | 174843 | [174843-noragami-aragoto.json](./174843-noragami-aragoto.json) |
@@ -4509,6 +4510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nu pogodi! Vypusk 3: Pesnya dlya zajca | 232658 | [232658-nu-pogodi-vypusk-3-pesnya-dlya-zajca.json](./232658-nu-pogodi-vypusk-3-pesnya-dlya-zajca.json) |
 | Nu, pogodi! | 245427 | [245427-nu-pogodi.json](./245427-nu-pogodi.json) |
 | Nu: Carnival | 194286 | [194286-nu-carnival.json](./194286-nu-carnival.json) |
+| Nu: Carnival Bliss | 305559 | [305559-nu-carnival-bliss.json](./305559-nu-carnival-bliss.json) |
 | Nuage | 93520 | [93520-nuage.json](./93520-nuage.json) |
 | Nubarron: The adventure of an unlucky gnome | 126978 | [126978-nubarron-the-adventure-of-an-unlucky-gnome.json](./126978-nubarron-the-adventure-of-an-unlucky-gnome.json) |
 | Nubby's Number Factory | 324225 | [324225-nubbys-number-factory.json](./324225-nubbys-number-factory.json) |
