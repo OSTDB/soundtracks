@@ -1487,6 +1487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Water Girls | 169256 | [169256-water-girls.json](./169256-water-girls.json) |
 | Water Horse | 363987 | [363987-water-horse.json](./363987-water-horse.json) |
 | Water Level / B.l.u.e. Exploration | 320938 | [320938-water-level-b-l-u-e-exploration.json](./320938-water-level-b-l-u-e-exploration.json) |
+| Water Maid | 333038 | [333038-water-maid.json](./333038-water-maid.json) |
 | Water Me & You | 260169 | [260169-water-me-and-you.json](./260169-water-me-and-you.json) |
 | Water Me Please! | 358819 | [358819-water-me-please.json](./358819-water-me-please.json) |
 | Water Me! | 202649 | [202649-water-me.json](./202649-water-me.json) |
@@ -3263,6 +3264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Wild West: The Steel Assassin | 201075 | [201075-wild-wild-west-the-steel-assassin.json](./201075-wild-wild-west-the-steel-assassin.json) |
 | Wild Wild West: The Steel Assassin | 70950 | [70950-wild-wild-west-the-steel-assassin.json](./70950-wild-wild-west-the-steel-assassin.json) |
 | Wild Wild Westbound VR: Being Jude the Lawless | 373856 | [373856-wild-wild-westbound-vr-being-jude-the-lawless.json](./373856-wild-wild-westbound-vr-being-jude-the-lawless.json) |
+| Wild Willy West | 333056 | [333056-wild-willy-west.json](./333056-wild-willy-west.json) |
 | Wild Wizard War | 391607 | [391607-wild-wizard-war.json](./391607-wild-wizard-war.json) |
 | Wild Wolf | 81013 | [81013-wild-wolf.json](./81013-wild-wolf.json) |
 | Wild Wolf Family Simulator 3D | 233043 | [233043-wild-wolf-family-simulator-3d.json](./233043-wild-wolf-family-simulator-3d.json) |
@@ -4659,6 +4661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Surf | 208941 | [208941-word-surf.json](./208941-word-surf.json) |
 | Word Swipe | 101529 | [101529-word-swipe.json](./101529-word-swipe.json) |
 | Word Tango | 383550 | [383550-word-tango.json](./383550-word-tango.json) |
+| Word to Angel | 333049 | [333049-word-to-angel.json](./333049-word-to-angel.json) |
 | Word to your Sensei | 200123 | [200123-word-to-your-sensei.json](./200123-word-to-your-sensei.json) |
 | Word Tower Puzzle | 330728 | [330728-word-tower-puzzle.json](./330728-word-tower-puzzle.json) |
 | Word Town: New Crossword Games | 101541 | [101541-word-town-new-crossword-games.json](./101541-word-town-new-crossword-games.json) |
