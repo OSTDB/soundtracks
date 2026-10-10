@@ -1120,6 +1120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magnussoft's Colossus Chess | 91540 | [91540-magnussofts-colossus-chess.json](./91540-magnussofts-colossus-chess.json) |
 | Mago | 120365 | [120365-mago.json](./120365-mago.json) |
 | Magocracy | 70339 | [70339-magocracy.json](./70339-magocracy.json) |
+| Magpie | 302162 | [302162-magpie.json](./302162-magpie.json) |
 | Magret & FaceDeBouc | 274574 | [274574-magret-and-facedebouc.json](./274574-magret-and-facedebouc.json) |
 | MaguMagu Pro | 165074 | [165074-magumagu-pro.json](./165074-magumagu-pro.json) |
 | Maguntsche: Chapter One Remastered | 168859 | [168859-maguntsche-chapter-one-remastered.json](./168859-maguntsche-chapter-one-remastered.json) |
@@ -2807,6 +2808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maru Goukaku: Shikaku Dasshu! IT Passport Shiken, Kihon Jouhou Gijutsusha Shiken, Ouyou Jouhou Gijutsusha Shiken | 269612 | [269612-maru-goukaku-shikaku-dasshu-it-passport-shiken-kihon-jouhou-gijutsusha-shiken-ouyou-jouhou-gijutsusha-shiken.json](./269612-maru-goukaku-shikaku-dasshu-it-passport-shiken-kihon-jouhou-gijutsusha-shiken-ouyou-jouhou-gijutsusha-shiken.json) |
 | Maru's Mission | 49039 | [49039-marus-mission.json](./49039-marus-mission.json) |
 | Maruchi Akindo | 396190 | [396190-maruchi-akindo.json](./396190-maruchi-akindo.json) |
+| Marudachi | 302189 | [302189-marudachi.json](./302189-marudachi.json) |
 | Maruja Mallo | 226732 | [226732-maruja-mallo.json](./226732-maruja-mallo.json) |
 | Maruta Escape | 293166 | [293166-maruta-escape.json](./293166-maruta-escape.json) |
 | Marvel 1943: Rise of Hydra | 216315 | [216315-marvel-1943-rise-of-hydra.json](./216315-marvel-1943-rise-of-hydra.json) |
@@ -5848,6 +5850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meta Form | 198485 | [198485-meta-form.json](./198485-meta-form.json) |
 | Meta Fox | 39689 | [39689-meta-fox.json](./39689-meta-fox.json) |
 | Meta Knightmare Ultra | 271411 | [271411-meta-knightmare-ultra.json](./271411-meta-knightmare-ultra.json) |
+| Meta Match | 302199 | [302199-meta-match.json](./302199-meta-match.json) |
 | Meta Nanos: Rumble Race | 263521 | [263521-meta-nanos-rumble-race.json](./263521-meta-nanos-rumble-race.json) |
 | Meta Pong | 304823 | [304823-meta-pong.json](./304823-meta-pong.json) |
 | Meta Star | 55514 | [55514-meta-star.json](./55514-meta-star.json) |
@@ -7156,6 +7159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Millefiori | 150155 | [150155-millefiori.json](./150155-millefiori.json) |
 | Millenium: Return To Earth | 12922 | [12922-millenium-return-to-earth.json](./12922-millenium-return-to-earth.json) |
 | Millennial Simulator | 247618 | [247618-millennial-simulator.json](./247618-millennial-simulator.json) |
+| Millennials | 302183 | [302183-millennials.json](./302183-millennials.json) |
 | Millennium 2: Take Me Higher | 8179 | [8179-millennium-2-take-me-higher.json](./8179-millennium-2-take-me-higher.json) |
 | Millennium 3: Cry Wolf | 8180 | [8180-millennium-3-cry-wolf.json](./8180-millennium-3-cry-wolf.json) |
 | Millennium 5: Battle of the Millennium | 54240 | [54240-millennium-5-battle-of-the-millennium.json](./54240-millennium-5-battle-of-the-millennium.json) |
@@ -11240,6 +11244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr Jump World | 217804 | [217804-mr-jump-world.json](./217804-mr-jump-world.json) |
 | Mr Love: Queen's Choice | 118949 | [118949-mr-love-queens-choice.json](./118949-mr-love-queens-choice.json) |
 | Mr Makeshifter | 34655 | [34655-mr-makeshifter.json](./34655-mr-makeshifter.json) |
+| Mr Mitty and the Itty Bitty Kitty Committee | 302200 | [302200-mr-mitty-and-the-itty-bitty-kitty-committee.json](./302200-mr-mitty-and-the-itty-bitty-kitty-committee.json) |
 | Mr Moneybag | 177864 | [177864-mr-moneybag.json](./177864-mr-moneybag.json) |
 | Mr Mosco Bizarre Climbing | 263770 | [263770-mr-mosco-bizarre-climbing.json](./263770-mr-mosco-bizarre-climbing.json) |
 | Mr Ninja | 208060 | [208060-mr-ninja.json](./208060-mr-ninja.json) |
