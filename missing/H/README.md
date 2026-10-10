@@ -233,6 +233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hajwala Desert | 332819 | [332819-hajwala-desert.json](./332819-hajwala-desert.json) |
 | Hajwala Drift X | 374677 | [374677-hajwala-drift-x.json](./374677-hajwala-drift-x.json) |
 | Hajwala Of Riyadh | 366215 | [366215-hajwala-of-riyadh.json](./366215-hajwala-of-riyadh.json) |
+| Hakai | 286482 | [286482-hakai.json](./286482-hakai.json) |
 | Hakarena Heart: Dare ga Tame ni Kimi ha Aru | 69292 | [69292-hakarena-heart-dare-ga-tame-ni-kimi-ha-aru.json](./69292-hakarena-heart-dare-ga-tame-ni-kimi-ha-aru.json) |
 | Hakkaku Doku | 323707 | [323707-hakkaku-doku.json](./323707-hakkaku-doku.json) |
 | Hakkemii no Uranai SP | 354390 | [354390-hakkemii-no-uranai-sp.json](./354390-hakkemii-no-uranai-sp.json) |
@@ -2989,6 +2990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Clicker: Valentine Is Streaming | 389612 | [389612-hentai-clicker-valentine-is-streaming.json](./389612-hentai-clicker-valentine-is-streaming.json) |
 | Hentai Clicker: Yumi Is Streaming | 389618 | [389618-hentai-clicker-yumi-is-streaming.json](./389618-hentai-clicker-yumi-is-streaming.json) |
 | Hentai Coloring Game | 161257 | [161257-hentai-coloring-game.json](./161257-hentai-coloring-game.json) |
+| Hentai Cosplay Elf | 286442 | [286442-hentai-cosplay-elf.json](./286442-hentai-cosplay-elf.json) |
 | Hentai Crazy Girls | 202203 | [202203-hentai-crazy-girls.json](./202203-hentai-crazy-girls.json) |
 | Hentai Crush | 136424 | [136424-hentai-crush.json](./136424-hentai-crush.json) |
 | Hentai Crystals | 257003 | [257003-hentai-crystals.json](./257003-hentai-crystals.json) |
@@ -3109,6 +3111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Gyaru | 233084 | [233084-hentai-gyaru.json](./233084-hentai-gyaru.json) |
 | Hentai Gymnast Scarlett | 375979 | [375979-hentai-gymnast-scarlett.json](./375979-hentai-gymnast-scarlett.json) |
 | Hentai Hack-Her | 147452 | [147452-hentai-hack-her.json](./147452-hentai-hack-her.json) |
+| Hentai Halloween | 286439 | [286439-hentai-halloween.json](./286439-hentai-halloween.json) |
 | Hentai Hanako | 232445 | [232445-hentai-hanako.json](./232445-hentai-hanako.json) |
 | Hentai Harem | 367976 | [367976-hentai-harem.json](./367976-hentai-harem.json) |
 | Hentai Heroes | 141010 | [141010-hentai-heroes.json](./141010-hentai-heroes.json) |
@@ -3147,6 +3150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Mei | 340439 | [340439-hentai-mei.json](./340439-hentai-mei.json) |
 | Hentai Memorama | 112775 | [112775-hentai-memorama.json](./112775-hentai-memorama.json) |
 | Hentai Memory | 105200 | [105200-hentai-memory.json](./105200-hentai-memory.json) |
+| Hentai Memory: Sexy Couples | 286438 | [286438-hentai-memory-sexy-couples.json](./286438-hentai-memory-sexy-couples.json) |
 | Hentai Mermaid Sirena | 370469 | [370469-hentai-mermaid-sirena.json](./370469-hentai-mermaid-sirena.json) |
 | Hentai Mia | 340440 | [340440-hentai-mia.json](./340440-hentai-mia.json) |
 | Hentai Midori | 271911 | [271911-hentai-midori.json](./271911-hentai-midori.json) |
@@ -3218,6 +3222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Room | 230781 | [230781-hentai-room.json](./230781-hentai-room.json) |
 | Hentai Roxy | 411067 | [411067-hentai-roxy.json](./411067-hentai-roxy.json) |
 | Hentai Sake | 411070 | [411070-hentai-sake.json](./411070-hentai-sake.json) |
+| Hentai Sakura | 286453 | [286453-hentai-sakura.json](./286453-hentai-sakura.json) |
 | Hentai Sally | 340449 | [340449-hentai-sally.json](./340449-hentai-sally.json) |
 | Hentai Senpai: Cosmic Beauties - Premium Pack | 291057 | [291057-hentai-senpai-cosmic-beauties-premium-pack.json](./291057-hentai-senpai-cosmic-beauties-premium-pack.json) |
 | Hentai Senpai: Cyberpussy 2069 | 244392 | [244392-hentai-senpai-cyberpussy-2069.json](./244392-hentai-senpai-cyberpussy-2069.json) |
@@ -3654,6 +3659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes Against Time | 342012 | [342012-heroes-against-time.json](./342012-heroes-against-time.json) |
 | Heroes and Forsaken: The Official Wheel of Time Digital Card Game | 362304 | [362304-heroes-and-forsaken-the-official-wheel-of-time-digital-card-game.json](./362304-heroes-and-forsaken-the-official-wheel-of-time-digital-card-game.json) |
 | Heroes and Test of Succubus | 294165 | [294165-heroes-and-test-of-succubus.json](./294165-heroes-and-test-of-succubus.json) |
+| Heroes and Titans: Online | 286432 | [286432-heroes-and-titans-online.json](./286432-heroes-and-titans-online.json) |
 | Heroes Call | 22209 | [22209-heroes-call.json](./22209-heroes-call.json) |
 | Heroes Charge | 19210 | [19210-heroes-charge.json](./19210-heroes-charge.json) |
 | Heroes Chronicles: All Chapters | 124971 | [124971-heroes-chronicles-all-chapters.json](./124971-heroes-chronicles-all-chapters.json) |
