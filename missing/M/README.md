@@ -4107,6 +4107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mech Shuffle | 211964 | [211964-mech-shuffle.json](./211964-mech-shuffle.json) |
 | Mech Skeleton | 28163 | [28163-mech-skeleton.json](./28163-mech-skeleton.json) |
 | Mech Striker | 256235 | [256235-mech-striker.json](./256235-mech-striker.json) |
+| Mech Survivor Elite | 311779 | [311779-mech-survivor-elite.json](./311779-mech-survivor-elite.json) |
 | Mech Tech | 238441 | [238441-mech-tech.json](./238441-mech-tech.json) |
 | Mech vs. Bugs | 263784 | [263784-mech-vs-bugs.json](./263784-mech-vs-bugs.json) |
 | Mech Warfare Arena | 174665 | [174665-mech-warfare-arena.json](./174665-mech-warfare-arena.json) |
@@ -7537,6 +7538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft: Story Mode Season Two - Episode 1: Hero in Residence | 91298 | [91298-minecraft-story-mode-season-two-episode-1-hero-in-residence.json](./91298-minecraft-story-mode-season-two-episode-1-hero-in-residence.json) |
 | Minecraft: Super Mario Mash-up | 234773 | [234773-minecraft-super-mario-mash-up.json](./234773-minecraft-super-mario-mash-up.json) |
 | Minecraft: Teenage Mutant Ninja Turtles | 259850 | [259850-minecraft-teenage-mutant-ninja-turtles.json](./259850-minecraft-teenage-mutant-ninja-turtles.json) |
+| Minecraft: Tetris | 311740 | [311740-minecraft-tetris.json](./311740-minecraft-tetris.json) |
 | Minecraft: The Backrooms | 334051 | [334051-minecraft-the-backrooms.json](./334051-minecraft-the-backrooms.json) |
 | Minecraft: The Cake Is A Lie | 325863 | [325863-minecraft-the-cake-is-a-lie.json](./325863-minecraft-the-cake-is-a-lie.json) |
 | Minecraft: The Copper Age | 363001 | [363001-minecraft-the-copper-age.json](./363001-minecraft-the-copper-age.json) |
@@ -12465,6 +12467,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Hidden Dreams | 339928 | [339928-my-hidden-dreams.json](./339928-my-hidden-dreams.json) |
 | My High School Cat Girlfriend | 206155 | [206155-my-high-school-cat-girlfriend.json](./206155-my-high-school-cat-girlfriend.json) |
 | My High School Detective | 231422 | [231422-my-high-school-detective.json](./231422-my-high-school-detective.json) |
+| My Hobby: Needlework Galore - Household | 311732 | [311732-my-hobby-needlework-galore-household.json](./311732-my-hobby-needlework-galore-household.json) |
+| My Hobby: Needlework Galore - Tiny Home | 311731 | [311731-my-hobby-needlework-galore-tiny-home.json](./311731-my-hobby-needlework-galore-tiny-home.json) |
 | My Hole is a Mouth of Dirt | 131594 | [131594-my-hole-is-a-mouth-of-dirt.json](./131594-my-hole-is-a-mouth-of-dirt.json) |
 | My Holiday Car | 106996 | [106996-my-holiday-car.json](./106996-my-holiday-car.json) |
 | My Holiday Car: Sunrise City | 104455 | [104455-my-holiday-car-sunrise-city.json](./104455-my-holiday-car-sunrise-city.json) |
