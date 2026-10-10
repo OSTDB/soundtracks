@@ -8659,6 +8659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MK-Ultra Tower Defense | 312766 | [312766-mk-ultra-tower-defense.json](./312766-mk-ultra-tower-defense.json) |
 | MK5 Mortal Kombat: Sub-Zero | 155515 | [155515-mk5-mortal-kombat-sub-zero.json](./155515-mk5-mortal-kombat-sub-zero.json) |
 | Mk50TWL Vehicle Battler Custom Slider | 407420 | [407420-mk50twl-vehicle-battler-custom-slider.json](./407420-mk50twl-vehicle-battler-custom-slider.json) |
+| MKDD Extended v2.0 | 294564 | [294564-mkdd-extended-v2-0.json](./294564-mkdd-extended-v2-0.json) |
 | MKL The Game | 331866 | [331866-mkl-the-game.json](./331866-mkl-the-game.json) |
 | MLB 06: The Show | 20525 | [20525-mlb-06-the-show.json](./20525-mlb-06-the-show.json) |
 | MLB 07: The Show | 7369 | [7369-mlb-07-the-show.json](./7369-mlb-07-the-show.json) |
