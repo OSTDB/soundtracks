@@ -44,6 +44,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | B.ARK | 131870 | [131870-b-ark.json](./131870-b-ark.json) |
 | B.B. Rider | 331147 | [331147-b-b-rider.json](./331147-b-b-rider.json) |
 | B.C. Bill | 15655 | [15655-b-c-bill.json](./15655-b-c-bill.json) |
+| B.C. Bow Contest | 318168 | [318168-b-c-bow-contest.json](./318168-b-c-bow-contest.json) |
 | B.C. Dash | 270398 | [270398-b-c-dash.json](./270398-b-c-dash.json) |
 | B.C. II: Grog's Revenge | 13875 | [13875-b-c-ii-grogs-revenge.json](./13875-b-c-ii-grogs-revenge.json) |
 | B.C. Piezophile | 239637 | [239637-b-c-piezophile.json](./239637-b-c-piezophile.json) |
