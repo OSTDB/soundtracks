@@ -5513,6 +5513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dimension Defenders | 405570 | [405570-dimension-defenders.json](./405570-dimension-defenders.json) |
 | Dimension Drive | 27327 | [27327-dimension-drive.json](./27327-dimension-drive.json) |
 | Dimension Drive: Limited Edition | 167045 | [167045-dimension-drive-limited-edition.json](./167045-dimension-drive-limited-edition.json) |
+| Dimension Escape | 330111 | [330111-dimension-escape.json](./330111-dimension-escape.json) |
 | Dimension Fight | 286789 | [286789-dimension-fight.json](./286789-dimension-fight.json) |
 | Dimension M | 213969 | [213969-dimension-m.json](./213969-dimension-m.json) |
 | Dimension of Monster Girls | 89608 | [89608-dimension-of-monster-girls.json](./89608-dimension-of-monster-girls.json) |
@@ -8121,6 +8122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dottania | 197232 | [197232-dottania.json](./197232-dottania.json) |
 | Dottie Dreads Nought | 313475 | [313475-dottie-dreads-nought.json](./313475-dottie-dreads-nought.json) |
 | Dotty | 265692 | [265692-dotty.json](./265692-dotty.json) |
+| Dotu | 330110 | [330110-dotu.json](./330110-dotu.json) |
 | Dotzz | 26536 | [26536-dotzz.json](./26536-dotzz.json) |
 | Double | 104921 | [104921-double.json](./104921-double.json) |
 | Double Action: Boogaloo | 17723 | [17723-double-action-boogaloo.json](./17723-double-action-boogaloo.json) |
