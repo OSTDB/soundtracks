@@ -288,6 +288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jam Above Jam Below | 234114 | [234114-jam-above-jam-below.json](./234114-jam-above-jam-below.json) |
 | Jam City Rollergirls | 85200 | [85200-jam-city-rollergirls.json](./85200-jam-city-rollergirls.json) |
 | Jam Jam's Adventure | 105761 | [105761-jam-jams-adventure.json](./105761-jam-jams-adventure.json) |
+| Jam Jump | 304841 | [304841-jam-jump.json](./304841-jam-jump.json) |
 | Jam League Basketball | 237375 | [237375-jam-league-basketball.json](./237375-jam-league-basketball.json) |
 | Jam Scrapz Collection | 226853 | [226853-jam-scrapz-collection.json](./226853-jam-scrapz-collection.json) |
 | Jam Scrapz Collection: Valentide! II | 289920 | [289920-jam-scrapz-collection-valentide-ii.json](./289920-jam-scrapz-collection-valentide-ii.json) |
@@ -1534,6 +1535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Johnny Trigger: Hunter Edition | 294826 | [294826-johnny-trigger-hunter-edition.json](./294826-johnny-trigger-hunter-edition.json) |
 | Johnny Trigger: Johnnybee DLC | 256796 | [256796-johnny-trigger-johnnybee-dlc.json](./256796-johnny-trigger-johnnybee-dlc.json) |
 | Johnny Trigger: Johnnybee Edition | 263537 | [263537-johnny-trigger-johnnybee-edition.json](./263537-johnny-trigger-johnnybee-edition.json) |
+| Johnny Trigger: Lunatic Edition | 304779 | [304779-johnny-trigger-lunatic-edition.json](./304779-johnny-trigger-lunatic-edition.json) |
 | Johnny Turbo | 331374 | [331374-johnny-turbo.json](./331374-johnny-turbo.json) |
 | Johnny Turbo's Arcade: Heavy Barrel | 112117 | [112117-johnny-turbos-arcade-heavy-barrel.json](./112117-johnny-turbos-arcade-heavy-barrel.json) |
 | Johnny Turbo's Arcade: Heavy Burger | 110755 | [110755-johnny-turbos-arcade-heavy-burger.json](./110755-johnny-turbos-arcade-heavy-burger.json) |
@@ -2496,6 +2498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Eat the Rich | 397920 | [397920-just-eat-the-rich.json](./397920-just-eat-the-rich.json) |
 | Just Fajitas | 108592 | [108592-just-fajitas.json](./108592-just-fajitas.json) |
 | Just Find It 2 | 256340 | [256340-just-find-it-2.json](./256340-just-find-it-2.json) |
+| Just Find It 3: Collector's Edition | 304780 | [304780-just-find-it-3-collectors-edition.json](./304780-just-find-it-3-collectors-edition.json) |
 | Just Find It 4: Collector's Edition | 332495 | [332495-just-find-it-4-collectors-edition.json](./332495-just-find-it-4-collectors-edition.json) |
 | Just Fishing | 68764 | [68764-just-fishing.json](./68764-just-fishing.json) |
 | Just For Killing Time | 82791 | [82791-just-for-killing-time.json](./82791-just-for-killing-time.json) |
