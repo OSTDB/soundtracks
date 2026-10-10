@@ -3517,6 +3517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Restarting Systems: Smoke's Bizarre Adventure | 378799 | [378799-restarting-systems-smokes-bizarre-adventure.json](./378799-restarting-systems-smokes-bizarre-adventure.json) |
 | Restaurant at the End of Time | 257880 | [257880-restaurant-at-the-end-of-time.json](./257880-restaurant-at-the-end-of-time.json) |
 | Restaurant Builder | 238462 | [238462-restaurant-builder.json](./238462-restaurant-builder.json) |
+| Restaurant Cooking Simulator | 317558 | [317558-restaurant-cooking-simulator.json](./317558-restaurant-cooking-simulator.json) |
 | Restaurant Diary | 233441 | [233441-restaurant-diary.json](./233441-restaurant-diary.json) |
 | Restaurant Empire | 10766 | [10766-restaurant-empire.json](./10766-restaurant-empire.json) |
 | Restaurant Empire II | 16015 | [16015-restaurant-empire-ii.json](./16015-restaurant-empire-ii.json) |
@@ -5115,6 +5116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road Diner Simulator | 190463 | [190463-road-diner-simulator.json](./190463-road-diner-simulator.json) |
 | Road Drawing 3D | 262337 | [262337-road-drawing-3d.json](./262337-road-drawing-3d.json) |
 | Road Fighter | 4607 | [4607-road-fighter.json](./4607-road-fighter.json) |
+| Road Hell | 317564 | [317564-road-hell.json](./317564-road-hell.json) |
 | Road Hog! | 84245 | [84245-road-hog.json](./84245-road-hog.json) |
 | Road Home | 156045 | [156045-road-home.json](./156045-road-home.json) |
 | Road Homeward | 104157 | [104157-road-homeward.json](./104157-road-homeward.json) |
