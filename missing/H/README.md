@@ -3603,6 +3603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero's Saga Laevatein Tactics | 21034 | [21034-heros-saga-laevatein-tactics.json](./21034-heros-saga-laevatein-tactics.json) |
 | Hero's Song | 25870 | [25870-heros-song.json](./25870-heros-song.json) |
 | Hero's War | 224214 | [224214-heros-war.json](./224214-heros-war.json) |
+| Hero's Warband | 297913 | [297913-heros-warband.json](./297913-heros-warband.json) |
 | Hero's Way | 253322 | [253322-heros-way.json](./253322-heros-way.json) |
 | HeroBattle | 369647 | [369647-herobattle.json](./369647-herobattle.json) |
 | Herobotix | 55204 | [55204-herobotix.json](./55204-herobotix.json) |
