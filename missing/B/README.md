@@ -621,6 +621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BadMan | 240524 | [240524-badman.json](./240524-badman.json) |
 | Badminton Kings VR | 89258 | [89258-badminton-kings-vr.json](./89258-badminton-kings-vr.json) |
 | Badminton Master | 224101 | [224101-badminton-master.json](./224101-badminton-master.json) |
+| Badminton Time | 314604 | [314604-badminton-time.json](./314604-badminton-time.json) |
 | Badminton Time VR | 345967 | [345967-badminton-time-vr.json](./345967-badminton-time-vr.json) |
 | Badnik Hunt 2 | 330115 | [330115-badnik-hunt-2.json](./330115-badnik-hunt-2.json) |
 | Badpak | 271952 | [271952-badpak.json](./271952-badpak.json) |
@@ -4825,6 +4826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bingo Bugglebee Presents: Home Alone | 362426 | [362426-bingo-bugglebee-presents-home-alone.json](./362426-bingo-bugglebee-presents-home-alone.json) |
 | Bingo Caller Machine | 88150 | [88150-bingo-caller-machine.json](./88150-bingo-caller-machine.json) |
 | Bingo Christmas: Holiday Bingo | 88213 | [88213-bingo-christmas-holiday-bingo.json](./88213-bingo-christmas-holiday-bingo.json) |
+| Bingo Clash | 314576 | [314576-bingo-clash.json](./314576-bingo-clash.json) |
 | Bingo Collection | 84989 | [84989-bingo-collection.json](./84989-bingo-collection.json) |
 | Bingo de NouTore: BinTore | 222526 | [222526-bingo-de-noutore-bintore.json](./222526-bingo-de-noutore-bintore.json) |
 | Bingo For Kids | 102597 | [102597-bingo-for-kids.json](./102597-bingo-for-kids.json) |
@@ -9847,6 +9849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Battle Blast 3D | 333051 | [333051-bubble-battle-blast-3d.json](./333051-bubble-battle-blast-3d.json) |
 | Bubble Bird | 250395 | [250395-bubble-bird.json](./250395-bubble-bird.json) |
 | Bubble Blast | 304262 | [304262-bubble-blast.json](./304262-bubble-blast.json) |
+| Bubble Blaster DX | 314608 | [314608-bubble-blaster-dx.json](./314608-bubble-blaster-dx.json) |
 | Bubble Blobb | 386703 | [386703-bubble-blobb.json](./386703-bubble-blobb.json) |
 | Bubble Blow | 419835 | [419835-bubble-blow.json](./419835-bubble-blow.json) |
 | Bubble Blowout | 25704 | [25704-bubble-blowout.json](./25704-bubble-blowout.json) |
