@@ -1541,6 +1541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Make Moku Proud | 395568 | [395568-make-moku-proud.json](./395568-make-moku-proud.json) |
 | Make My Car | 346227 | [346227-make-my-car.json](./346227-make-my-car.json) |
 | Make My Life Worse | 318788 | [318788-make-my-life-worse.json](./318788-make-my-life-worse.json) |
+| Make New Way | 296222 | [296222-make-new-way.json](./296222-make-new-way.json) |
 | Make or Break: The Routine | 180644 | [180644-make-or-break-the-routine.json](./180644-make-or-break-the-routine.json) |
 | Make Route | 109658 | [109658-make-route.json](./109658-make-route.json) |
 | Make Sure It's Closed | 176491 | [176491-make-sure-its-closed.json](./176491-make-sure-its-closed.json) |
@@ -5687,6 +5688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merely A Chip | 309129 | [309129-merely-a-chip.json](./309129-merely-a-chip.json) |
 | Merely a Regret | 176922 | [176922-merely-a-regret.json](./176922-merely-a-regret.json) |
 | Merendam 2: Diary of Two Shaman Sisters | 70409 | [70409-merendam-2-diary-of-two-shaman-sisters.json](./70409-merendam-2-diary-of-two-shaman-sisters.json) |
+| Mereonozis 2D: The Kingdom of Gremlins | 296256 | [296256-mereonozis-2d-the-kingdom-of-gremlins.json](./296256-mereonozis-2d-the-kingdom-of-gremlins.json) |
 | MerFight | 191862 | [191862-merfight.json](./191862-merfight.json) |
 | Merge | 121544 | [121544-merge.json](./121544-merge.json) |
 | Merge | 310137 | [310137-merge.json](./310137-merge.json) |
@@ -8077,6 +8079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minotaur Arcade Volume 1 | 112492 | [112492-minotaur-arcade-volume-1.json](./112492-minotaur-arcade-volume-1.json) |
 | Minotaur Maze | 150639 | [150639-minotaur-maze.json](./150639-minotaur-maze.json) |
 | Minotaur Rescue | 94757 | [94757-minotaur-rescue.json](./94757-minotaur-rescue.json) |
+| Minotauros | 296257 | [296257-minotauros.json](./296257-minotauros.json) |
 | MinQ | 322348 | [322348-minq.json](./322348-minq.json) |
 | Minschima | 215598 | [215598-minschima.json](./215598-minschima.json) |
 | Minsho | 294805 | [294805-minsho.json](./294805-minsho.json) |
@@ -12399,6 +12402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Favorite Dream Girls | 401695 | [401695-my-favorite-dream-girls.json](./401695-my-favorite-dream-girls.json) |
 | My Favorite Match | 179510 | [179510-my-favorite-match.json](./179510-my-favorite-match.json) |
 | My Favorite Monster | 261305 | [261305-my-favorite-monster.json](./261305-my-favorite-monster.json) |
+| My Favorite Notification | 296210 | [296210-my-favorite-notification.json](./296210-my-favorite-notification.json) |
 | My Favourite T-Shirt | 398540 | [398540-my-favourite-t-shirt.json](./398540-my-favourite-t-shirt.json) |
 | My Femboy Maid | 370471 | [370471-my-femboy-maid.json](./370471-my-femboy-maid.json) |
 | My Final Cursed Days | 336483 | [336483-my-final-cursed-days.json](./336483-my-final-cursed-days.json) |
