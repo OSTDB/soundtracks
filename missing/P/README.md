@@ -1492,6 +1492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parking Tycoon | 252144 | [252144-parking-tycoon.json](./252144-parking-tycoon.json) |
 | Parking Tycoon 2: Business Simulator | 373728 | [373728-parking-tycoon-2-business-simulator.json](./373728-parking-tycoon-2-business-simulator.json) |
 | Parking Tycoon: Business Simulator | 257994 | [257994-parking-tycoon-business-simulator.json](./257994-parking-tycoon-business-simulator.json) |
+| Parking Tycoon: Business Simulator - Seaside Business | 310493 | [310493-parking-tycoon-business-simulator-seaside-business.json](./310493-parking-tycoon-business-simulator-seaside-business.json) |
 | Parkitect | 18871 | [18871-parkitect.json](./18871-parkitect.json) |
 | Parkitect Dinos and Dynasties | 372662 | [372662-parkitect-dinos-and-dynasties.json](./372662-parkitect-dinos-and-dynasties.json) |
 | Parkitect: Deluxe Edition | 192311 | [192311-parkitect-deluxe-edition.json](./192311-parkitect-deluxe-edition.json) |
@@ -1923,6 +1924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Patrolling Mars | 276289 | [276289-patrolling-mars.json](./276289-patrolling-mars.json) |
 | Patrolling the Highway | 359409 | [359409-patrolling-the-highway.json](./359409-patrolling-the-highway.json) |
 | Patron | 152393 | [152393-patron.json](./152393-patron.json) |
+| Patter | 310696 | [310696-patter.json](./310696-patter.json) |
 | Pattern | 112449 | [112449-pattern.json](./112449-pattern.json) |
 | Pattern Pulse | 415233 | [415233-pattern-pulse.json](./415233-pattern-pulse.json) |
 | Pattern Survivors: Bullet Hell | 348970 | [348970-pattern-survivors-bullet-hell.json](./348970-pattern-survivors-bullet-hell.json) |
@@ -2535,6 +2537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Penny Arcade's On the Rain-Slick Precipice of Darkness 3 | 14980 | [14980-penny-arcades-on-the-rain-slick-precipice-of-darkness-3.json](./14980-penny-arcades-on-the-rain-slick-precipice-of-darkness-3.json) |
 | Penny Dell Jumbo Crosswords | 89199 | [89199-penny-dell-jumbo-crosswords.json](./89199-penny-dell-jumbo-crosswords.json) |
 | Penny Dell Jumbo Crosswords 2 | 204494 | [204494-penny-dell-jumbo-crosswords-2.json](./204494-penny-dell-jumbo-crosswords-2.json) |
+| Penny Dell Sudoku | 310702 | [310702-penny-dell-sudoku.json](./310702-penny-dell-sudoku.json) |
 | Penny Dreadfuls: Sweeney Todd - Premium Edition | 208877 | [208877-penny-dreadfuls-sweeney-todd-premium-edition.json](./208877-penny-dreadfuls-sweeney-todd-premium-edition.json) |
 | Penny for Your Potion | 356255 | [356255-penny-for-your-potion.json](./356255-penny-for-your-potion.json) |
 | Penny For Your Thoughts | 367052 | [367052-penny-for-your-thoughts.json](./367052-penny-for-your-thoughts.json) |
@@ -4719,6 +4722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirates of the Caribbean: Armada of the Damned | 68228 | [68228-pirates-of-the-caribbean-armada-of-the-damned.json](./68228-pirates-of-the-caribbean-armada-of-the-damned.json) |
 | Pirates of the Caribbean: Dead Man's Chest | 194266 | [194266-pirates-of-the-caribbean-dead-mans-chest.json](./194266-pirates-of-the-caribbean-dead-mans-chest.json) |
 | Pirates of the Caribbean: Dead Man's Chest | 20542 | [20542-pirates-of-the-caribbean-dead-mans-chest.json](./20542-pirates-of-the-caribbean-dead-mans-chest.json) |
+| Pirates of the Caribbean: New Horizons | 310699 | [310699-pirates-of-the-caribbean-new-horizons.json](./310699-pirates-of-the-caribbean-new-horizons.json) |
 | Pirates of the Caribbean: The Curse of the Black Pearl | 19218 | [19218-pirates-of-the-caribbean-the-curse-of-the-black-pearl.json](./19218-pirates-of-the-caribbean-the-curse-of-the-black-pearl.json) |
 | Pirates of the Caribbean: Tides of War | 97500 | [97500-pirates-of-the-caribbean-tides-of-war.json](./97500-pirates-of-the-caribbean-tides-of-war.json) |
 | Pirates on Target | 187536 | [187536-pirates-on-target.json](./187536-pirates-on-target.json) |
@@ -10966,6 +10970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle DeFusion | 78979 | [78979-puzzle-defusion.json](./78979-puzzle-defusion.json) |
 | Puzzle Depot | 59650 | [59650-puzzle-depot.json](./59650-puzzle-depot.json) |
 | Puzzle Detective | 209370 | [209370-puzzle-detective.json](./209370-puzzle-detective.json) |
+| Puzzle Drop Carnival | 310616 | [310616-puzzle-drop-carnival.json](./310616-puzzle-drop-carnival.json) |
 | Puzzle Dungeon | 62776 | [62776-puzzle-dungeon.json](./62776-puzzle-dungeon.json) |
 | Puzzle Dungeon!!: Earthmage Erin | 308334 | [308334-puzzle-dungeon-earthmage-erin.json](./308334-puzzle-dungeon-earthmage-erin.json) |
 | Puzzle Escapes: Paws & Claws | 351097 | [351097-puzzle-escapes-paws-and-claws.json](./351097-puzzle-escapes-paws-and-claws.json) |
