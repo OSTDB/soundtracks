@@ -3557,6 +3557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Heroes | 62814 | [62814-no-heroes.json](./62814-no-heroes.json) |
 | No Heroes Allowed! | 234732 | [234732-no-heroes-allowed.json](./234732-no-heroes-allowed.json) |
 | No Heroes Allowed! | 67381 | [67381-no-heroes-allowed.json](./67381-no-heroes-allowed.json) |
+| No Heroes Here 2 | 292448 | [292448-no-heroes-here-2.json](./292448-no-heroes-here-2.json) |
 | No Hope | 149685 | [149685-no-hope.json](./149685-no-hope.json) |
 | No Horizon | 109572 | [109572-no-horizon.json](./109572-no-horizon.json) |
 | No Internet | 292053 | [292053-no-internet.json](./292053-no-internet.json) |
@@ -3992,6 +3993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nomad Station | 247608 | [247608-nomad-station.json](./247608-nomad-station.json) |
 | Nomad Survival | 197874 | [197874-nomad-survival.json](./197874-nomad-survival.json) |
 | Nomad: Steppeborn Saga | 340957 | [340957-nomad-steppeborn-saga.json](./340957-nomad-steppeborn-saga.json) |
+| Nomadica | 292430 | [292430-nomadica.json](./292430-nomadica.json) |
 | Nomads in the Dust | 296479 | [296479-nomads-in-the-dust.json](./296479-nomads-in-the-dust.json) |
 | NoMaKo | 139261 | [139261-nomako.json](./139261-nomako.json) |
 | Noman's Dungeon | 181177 | [181177-nomans-dungeon.json](./181177-nomans-dungeon.json) |
