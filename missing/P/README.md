@@ -259,6 +259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pachitte Chonmage Tatsujin 5: CR Kamen Rider | 61913 | [61913-pachitte-chonmage-tatsujin-5-cr-kamen-rider.json](./61913-pachitte-chonmage-tatsujin-5-cr-kamen-rider.json) |
 | Pacif Warriors 2 | 43538 | [43538-pacif-warriors-2.json](./43538-pacif-warriors-2.json) |
 | Pacific Battle | 195051 | [195051-pacific-battle.json](./195051-pacific-battle.json) |
+| Pacific Drive: Frosted Customization Pack | 333040 | [333040-pacific-drive-frosted-customization-pack.json](./333040-pacific-drive-frosted-customization-pack.json) |
 | Pacific Drive: We Have Liftoff Customization Pack | 285546 | [285546-pacific-drive-we-have-liftoff-customization-pack.json](./285546-pacific-drive-we-have-liftoff-customization-pack.json) |
 | Pacific Drive: Whispers Edition | 376034 | [376034-pacific-drive-whispers-edition.json](./376034-pacific-drive-whispers-edition.json) |
 | Pacific Fire | 127259 | [127259-pacific-fire.json](./127259-pacific-fire.json) |
@@ -2703,6 +2704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perfect Wedding Solitaire | 386126 | [386126-perfect-wedding-solitaire.json](./386126-perfect-wedding-solitaire.json) |
 | Perfect World | 8747 | [8747-perfect-world.json](./8747-perfect-world.json) |
 | Perfect World Mobile | 133769 | [133769-perfect-world-mobile.json](./133769-perfect-world-mobile.json) |
+| Perfect World: Ascend | 333123 | [333123-perfect-world-ascend.json](./333123-perfect-world-ascend.json) |
 | Perfect! Pool | 93181 | [93181-perfect-pool.json](./93181-perfect-pool.json) |
 | Perfectdom | 403661 | [403661-perfectdom.json](./403661-perfectdom.json) |
 | Perfection | 239906 | [239906-perfection.json](./239906-perfection.json) |
