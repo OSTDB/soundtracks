@@ -968,6 +968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sand Story | 174122 | [174122-sand-story.json](./174122-sand-story.json) |
 | Sand to Surf | 149235 | [149235-sand-to-surf.json](./149235-sand-to-surf.json) |
 | Sand Witch Adventures | 169873 | [169873-sand-witch-adventures.json](./169873-sand-witch-adventures.json) |
+| Sand: A Leo Parker Adventure | 319900 | [319900-sand-a-leo-parker-adventure.json](./319900-sand-a-leo-parker-adventure.json) |
 | Sand: A Superfluous Game | 177946 | [177946-sand-a-superfluous-game.json](./177946-sand-a-superfluous-game.json) |
 | Sand:box | 223924 | [223924-sand-box.json](./223924-sand-box.json) |
 | Sandbox | 251826 | [251826-sandbox.json](./251826-sandbox.json) |
@@ -2681,6 +2682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Second Sight Dilemma | 383073 | [383073-second-sight-dilemma.json](./383073-second-sight-dilemma.json) |
 | Second Soul | 202407 | [202407-second-soul.json](./202407-second-soul.json) |
 | Second Star | 133181 | [133181-second-star.json](./133181-second-star.json) |
+| Second Stellar | 319863 | [319863-second-stellar.json](./319863-second-stellar.json) |
 | Second Stone | 216314 | [216314-second-stone.json](./216314-second-stone.json) |
 | Second Story | 59688 | [59688-second-story.json](./59688-second-story.json) |
 | Second Sun | 244915 | [244915-second-sun.json](./244915-second-sun.json) |
@@ -13836,6 +13838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sports Game Pack (Manager Edition) | 84231 | [84231-sports-game-pack-manager-edition.json](./84231-sports-game-pack-manager-edition.json) |
 | Sports Games | 399790 | [399790-sports-games.json](./399790-sports-games.json) |
 | Sports Games Collection | 403725 | [403725-sports-games-collection.json](./403725-sports-games-collection.json) |
+| Sports Girl: Village | 319890 | [319890-sports-girl-village.json](./319890-sports-girl-village.json) |
 | Sports Hero | 142411 | [142411-sports-hero.json](./142411-sports-hero.json) |
 | Sports Hero | 311265 | [311265-sports-hero.json](./311265-sports-hero.json) |
 | Sports Illustrated for Kids: Baseball | 49290 | [49290-sports-illustrated-for-kids-baseball.json](./49290-sports-illustrated-for-kids-baseball.json) |
