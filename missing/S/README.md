@@ -4675,6 +4675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shattered Dreams | 313507 | [313507-shattered-dreams.json](./313507-shattered-dreams.json) |
 | Shattered Earth | 315109 | [315109-shattered-earth.json](./315109-shattered-earth.json) |
 | Shattered Echoes | 278512 | [278512-shattered-echoes.json](./278512-shattered-echoes.json) |
+| Shattered Fate | 307270 | [307270-shattered-fate.json](./307270-shattered-fate.json) |
 | Shattered Galaxy | 73258 | [73258-shattered-galaxy.json](./73258-shattered-galaxy.json) |
 | Shattered God - Quest for the Divine Relic | 41935 | [41935-shattered-god-quest-for-the-divine-relic.json](./41935-shattered-god-quest-for-the-divine-relic.json) |
 | Shattered Haven | 9407 | [9407-shattered-haven.json](./9407-shattered-haven.json) |
@@ -6536,6 +6537,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silver Creek Falls: Chapter 1 | 34685 | [34685-silver-creek-falls-chapter-1.json](./34685-silver-creek-falls-chapter-1.json) |
 | Silver Creek Falls: Chapter 2 | 34429 | [34429-silver-creek-falls-chapter-2.json](./34429-silver-creek-falls-chapter-2.json) |
 | Silver Creek Falls: Chapter 3 | 33534 | [33534-silver-creek-falls-chapter-3.json](./33534-silver-creek-falls-chapter-3.json) |
+| Silver Falls Mini: Monsters In North Island | 307177 | [307177-silver-falls-mini-monsters-in-north-island.json](./307177-silver-falls-mini-monsters-in-north-island.json) |
+| Silver Falls Miracle Makeout Mania | 307179 | [307179-silver-falls-miracle-makeout-mania.json](./307179-silver-falls-miracle-makeout-mania.json) |
+| Silver Falls: Battle Fever - Galaxy Bound Curse | 307175 | [307175-silver-falls-battle-fever-galaxy-bound-curse.json](./307175-silver-falls-battle-fever-galaxy-bound-curse.json) |
+| Silver Falls: Galaxy Bound Curse | 307178 | [307178-silver-falls-galaxy-bound-curse.json](./307178-silver-falls-galaxy-bound-curse.json) |
 | Silver Falls: Ghoul Busters | 208583 | [208583-silver-falls-ghoul-busters.json](./208583-silver-falls-ghoul-busters.json) |
 | Silver Falls: Guardians And Metal Exterminators S | 283722 | [283722-silver-falls-guardians-and-metal-exterminators-s.json](./283722-silver-falls-guardians-and-metal-exterminators-s.json) |
 | Silver Gene: The Mutia Chronicle 1 | 308414 | [308414-silver-gene-the-mutia-chronicle-1.json](./308414-silver-gene-the-mutia-chronicle-1.json) |
@@ -7612,6 +7617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Die | 349967 | [349967-sky-die.json](./349967-sky-die.json) |
 | Sky Diver | 16970 | [16970-sky-diver.json](./16970-sky-diver.json) |
 | Sky Dunk | 304265 | [304265-sky-dunk.json](./304265-sky-dunk.json) |
+| Sky Dust | 307180 | [307180-sky-dust.json](./307180-sky-dust.json) |
 | Sky Escort | 259158 | [259158-sky-escort.json](./259158-sky-escort.json) |
 | Sky Fields | 337770 | [337770-sky-fields.json](./337770-sky-fields.json) |
 | Sky Fighter | 131416 | [131416-sky-fighter.json](./131416-sky-fighter.json) |
