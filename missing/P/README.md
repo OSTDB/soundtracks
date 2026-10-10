@@ -8858,10 +8858,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prince of Persia | 249150 | [249150-prince-of-persia.json](./249150-prince-of-persia.json) |
 | Prince of Persia | 284774 | [284774-prince-of-persia.json](./284774-prince-of-persia.json) |
 | Prince of Persia | 284776 | [284776-prince-of-persia.json](./284776-prince-of-persia.json) |
+| Prince of Persia | 284852 | [284852-prince-of-persia.json](./284852-prince-of-persia.json) |
+| Prince of Persia | 284853 | [284853-prince-of-persia.json](./284853-prince-of-persia.json) |
 | Prince of Persia : The Forgotten Sands - Limited Collector's Edition | 47459 | [47459-prince-of-persia-the-forgotten-sands-limited-collectors-edition.json](./47459-prince-of-persia-the-forgotten-sands-limited-collectors-edition.json) |
 | Prince of Persia 2: The Shadow and the Flame | 3164 | [3164-prince-of-persia-2-the-shadow-and-the-flame.json](./3164-prince-of-persia-2-the-shadow-and-the-flame.json) |
 | Prince of Persia CD Collection | 213263 | [213263-prince-of-persia-cd-collection.json](./213263-prince-of-persia-cd-collection.json) |
 | Prince of Persia Classic | 248927 | [248927-prince-of-persia-classic.json](./248927-prince-of-persia-classic.json) |
+| Prince of Persia Retro | 284854 | [284854-prince-of-persia-retro.json](./284854-prince-of-persia-retro.json) |
 | Prince of Persia Trilogy | 44706 | [44706-prince-of-persia-trilogy.json](./44706-prince-of-persia-trilogy.json) |
 | Prince of Persia Trilogy: Limited Edition | 43430 | [43430-prince-of-persia-trilogy-limited-edition.json](./43430-prince-of-persia-trilogy-limited-edition.json) |
 | Prince of Persia: Epilogue | 142472 | [142472-prince-of-persia-epilogue.json](./142472-prince-of-persia-epilogue.json) |
