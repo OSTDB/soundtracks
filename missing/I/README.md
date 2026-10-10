@@ -1553,6 +1553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Immortal Rebirth | 382764 | [382764-immortal-rebirth.json](./382764-immortal-rebirth.json) |
 | Immortal Redneck | 23188 | [23188-immortal-redneck.json](./23188-immortal-redneck.json) |
 | Immortal Redneck: Deluxe Edition | 53223 | [53223-immortal-redneck-deluxe-edition.json](./53223-immortal-redneck-deluxe-edition.json) |
+| Immortal Road Battle | 284266 | [284266-immortal-road-battle.json](./284266-immortal-road-battle.json) |
 | Immortal Rogue | 113638 | [113638-immortal-rogue.json](./113638-immortal-rogue.json) |
 | Immortal Seeker | 370882 | [370882-immortal-seeker.json](./370882-immortal-seeker.json) |
 | Immortal Snake Nest | 282845 | [282845-immortal-snake-nest.json](./282845-immortal-snake-nest.json) |
@@ -2484,11 +2485,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinity Strash: Dragon Quest - The Adventure of Dai | 137928 | [137928-infinity-strash-dragon-quest-the-adventure-of-dai.json](./137928-infinity-strash-dragon-quest-the-adventure-of-dai.json) |
 | Infinity Strash: Dragon Quest - The Adventure of Dai: Digital Deluxe Edition | 262330 | [262330-infinity-strash-dragon-quest-the-adventure-of-dai-digital-deluxe-edition.json](./262330-infinity-strash-dragon-quest-the-adventure-of-dai-digital-deluxe-edition.json) |
 | Infinity Tank Battle | 107389 | [107389-infinity-tank-battle.json](./107389-infinity-tank-battle.json) |
+| Infinity Tao | 284273 | [284273-infinity-tao.json](./284273-infinity-tao.json) |
 | Infinity Tempest | 163207 | [163207-infinity-tempest.json](./163207-infinity-tempest.json) |
 | Infinity Toss | 239629 | [239629-infinity-toss.json](./239629-infinity-toss.json) |
 | Infinity Tower | 357845 | [357845-infinity-tower.json](./357845-infinity-tower.json) |
 | Infinity Trials | 245817 | [245817-infinity-trials.json](./245817-infinity-trials.json) |
 | Infinity war | 167816 | [167816-infinity-war.json](./167816-infinity-war.json) |
+| Infinity War | 284292 | [284292-infinity-war.json](./284292-infinity-war.json) |
 | Infinity Wars 2 | 128386 | [128386-infinity-wars-2.json](./128386-infinity-wars-2.json) |
 | Infinity Wars: Animated Trading Card Game | 16732 | [16732-infinity-wars-animated-trading-card-game.json](./16732-infinity-wars-animated-trading-card-game.json) |
 | Infinity Wings - Scout & Grunt | 33360 | [33360-infinity-wings-scout-and-grunt.json](./33360-infinity-wings-scout-and-grunt.json) |
