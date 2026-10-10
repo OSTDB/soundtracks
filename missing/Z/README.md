@@ -403,6 +403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zen: A Gay Sequel | 166048 | [166048-zen-a-gay-sequel.json](./166048-zen-a-gay-sequel.json) |
 | Zen: Intergalactic Ninja | 48251 | [48251-zen-intergalactic-ninja.json](./48251-zen-intergalactic-ninja.json) |
 | Zen! Slider | 151100 | [151100-zen-slider.json](./151100-zen-slider.json) |
+| Zenatria | 301090 | [301090-zenatria.json](./301090-zenatria.json) |
 | ZenBlade | 58268 | [58268-zenblade.json](./58268-zenblade.json) |
 | Zenbones | 163844 | [163844-zenbones.json](./163844-zenbones.json) |
 | Zendar | 287155 | [287155-zendar.json](./287155-zendar.json) |
