@@ -8747,6 +8747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Core Awaken: The Yuka | 104814 | [104814-core-awaken-the-yuka.json](./104814-core-awaken-the-yuka.json) |
 | Core Awakening | 290504 | [290504-core-awakening.json](./290504-core-awakening.json) |
 | Core Blaze | 28130 | [28130-core-blaze.json](./28130-core-blaze.json) |
+| Core Breach | 292991 | [292991-core-breach.json](./292991-core-breach.json) |
 | Core Decay | 132771 | [132771-core-decay.json](./132771-core-decay.json) |
 | Core Defense | 127314 | [127314-core-defense.json](./127314-core-defense.json) |
 | Core Devourer | 235764 | [235764-core-devourer.json](./235764-core-devourer.json) |
@@ -10645,6 +10646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crop | 397809 | [397809-crop.json](./397809-crop.json) |
 | Crop and Claw | 284991 | [284991-crop-and-claw.json](./284991-crop-and-claw.json) |
 | Crop and Claw 2 | 408813 | [408813-crop-and-claw-2.json](./408813-crop-and-claw-2.json) |
+| Crop Chronicles | 292964 | [292964-crop-chronicles.json](./292964-crop-chronicles.json) |
 | Crop Circles | 234688 | [234688-crop-circles.json](./234688-crop-circles.json) |
 | Crop Circles 2 | 234691 | [234691-crop-circles-2.json](./234691-crop-circles-2.json) |
 | Crop Crusaders | 332987 | [332987-crop-crusaders.json](./332987-crop-crusaders.json) |
@@ -10657,6 +10659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cropple | 243963 | [243963-cropple.json](./243963-cropple.json) |
 | Croppy Boy | 157110 | [157110-croppy-boy.json](./157110-croppy-boy.json) |
 | Crops and Conveyors | 189126 | [189126-crops-and-conveyors.json](./189126-crops-and-conveyors.json) |
+| Crops! | 292960 | [292960-crops.json](./292960-crops.json) |
 | Cropshots | 185009 | [185009-cropshots.json](./185009-cropshots.json) |
 | Croquet Conundrum | 319662 | [319662-croquet-conundrum.json](./319662-croquet-conundrum.json) |
 | Croquet Pro | 111727 | [111727-croquet-pro.json](./111727-croquet-pro.json) |
@@ -11323,6 +11326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CrystalKeepers Tower Defense | 276849 | [276849-crystalkeepers-tower-defense.json](./276849-crystalkeepers-tower-defense.json) |
 | Crystalline | 221235 | [221235-crystalline.json](./221235-crystalline.json) |
 | Crystalline | 28944 | [28944-crystalline.json](./28944-crystalline.json) |
+| Crystalline Bliss | 292979 | [292979-crystalline-bliss.json](./292979-crystalline-bliss.json) |
 | Crystallium | 373872 | [373872-crystallium.json](./373872-crystallium.json) |
 | Crystallo | 117037 | [117037-crystallo.json](./117037-crystallo.json) |
 | Crystalon | 183554 | [183554-crystalon.json](./183554-crystalon.json) |
@@ -12054,6 +12058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cut Smash Wrap | 127771 | [127771-cut-smash-wrap.json](./127771-cut-smash-wrap.json) |
 | Cut the Birds | 65195 | [65195-cut-the-birds.json](./65195-cut-the-birds.json) |
 | Cut the Box | 117724 | [117724-cut-the-box.json](./117724-cut-the-box.json) |
+| Cut the Cards | 293001 | [293001-cut-the-cards.json](./293001-cut-the-cards.json) |
 | Cut the Ex-Girlfriends | 102225 | [102225-cut-the-ex-girlfriends.json](./102225-cut-the-ex-girlfriends.json) |
 | Cut the Rope | 9761 | [9761-cut-the-rope.json](./9761-cut-the-rope.json) |
 | Cut the Rope 2 | 39205 | [39205-cut-the-rope-2.json](./39205-cut-the-rope-2.json) |
