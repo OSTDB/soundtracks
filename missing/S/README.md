@@ -6280,6 +6280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SideQuest | 398501 | [398501-sidequest.json](./398501-sidequest.json) |
 | SideQuest Hunters | 360017 | [360017-sidequest-hunters.json](./360017-sidequest-hunters.json) |
 | SideQuest: Reanimated | 260641 | [260641-sidequest-reanimated.json](./260641-sidequest-reanimated.json) |
+| Sidereal | 278930 | [278930-sidereal.json](./278930-sidereal.json) |
 | Sidereal Defense | 54357 | [54357-sidereal-defense.json](./54357-sidereal-defense.json) |
 | Sidereal Wanderer | 291712 | [291712-sidereal-wanderer.json](./291712-sidereal-wanderer.json) |
 | SideShow | 70364 | [70364-sideshow.json](./70364-sideshow.json) |
@@ -19218,6 +19219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Crown Land | 318548 | [318548-super-crown-land.json](./318548-super-crown-land.json) |
 | Super Crypto Kart | 138748 | [138748-super-crypto-kart.json](./138748-super-crypto-kart.json) |
 | Super Crystal Hunter | 127722 | [127722-super-crystal-hunter.json](./127722-super-crystal-hunter.json) |
+| Super Cube 3D | 278959 | [278959-super-cube-3d.json](./278959-super-cube-3d.json) |
 | Super Cube Smash | 32741 | [32741-super-cube-smash.json](./32741-super-cube-smash.json) |
 | Super Cuber | 29716 | [29716-super-cuber.json](./29716-super-cuber.json) |
 | Super Cubo | 130737 | [130737-super-cubo.json](./130737-super-cubo.json) |
