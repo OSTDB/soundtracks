@@ -418,6 +418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hallow's End | 222824 | [222824-hallows-end.json](./222824-hallows-end.json) |
 | Hallowanderband | 312762 | [312762-hallowanderband.json](./312762-hallowanderband.json) |
 | Hallowed Crucible | 333363 | [333363-hallowed-crucible.json](./333363-hallowed-crucible.json) |
+| Hallowed Haven | 292973 | [292973-hallowed-haven.json](./292973-hallowed-haven.json) |
 | Hallowed Legends: Samhain - Collector's Edition | 375380 | [375380-hallowed-legends-samhain-collectors-edition.json](./375380-hallowed-legends-samhain-collectors-edition.json) |
 | Hallowed Legends: Ship of Bones | 376641 | [376641-hallowed-legends-ship-of-bones.json](./376641-hallowed-legends-ship-of-bones.json) |
 | Hallowed Legends: Templar - Collector's Edition | 376584 | [376584-hallowed-legends-templar-collectors-edition.json](./376584-hallowed-legends-templar-collectors-edition.json) |
@@ -6135,6 +6136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horobi Kuchiru Sekai ni Tsuioku no Hanataba wo | 198365 | [198365-horobi-kuchiru-sekai-ni-tsuioku-no-hanataba-wo.json](./198365-horobi-kuchiru-sekai-ni-tsuioku-no-hanataba-wo.json) |
 | Horobi Kuchiru Sekai ni Tsuioku no Hanataba wo: Present For You | 401167 | [401167-horobi-kuchiru-sekai-ni-tsuioku-no-hanataba-wo-present-for-you.json](./401167-horobi-kuchiru-sekai-ni-tsuioku-no-hanataba-wo-present-for-you.json) |
 | Horoboshi-hime | 320826 | [320826-horoboshi-hime.json](./320826-horoboshi-hime.json) |
+| Hororo Meguru's Bing!! Ball | 292974 | [292974-hororo-megurus-bing-ball.json](./292974-hororo-megurus-bing-ball.json) |
 | HoRoyal: Hololive Battle Royal | 403080 | [403080-horoyal-hololive-battle-royal.json](./403080-horoyal-hololive-battle-royal.json) |
 | Horrher | 362993 | [362993-horrher.json](./362993-horrher.json) |
 | Horrible Histories: Ruthless Romans | 21286 | [21286-horrible-histories-ruthless-romans.json](./21286-horrible-histories-ruthless-romans.json) |
@@ -6841,6 +6843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | How Much Items: Vehicles | 371481 | [371481-how-much-items-vehicles.json](./371481-how-much-items-vehicles.json) |
 | How Much Items: Weapon | 340493 | [340493-how-much-items-weapon.json](./340493-how-much-items-weapon.json) |
 | How Now, Sea Cow? | 184493 | [184493-how-now-sea-cow.json](./184493-how-now-sea-cow.json) |
+| How Old is James? | 292990 | [292990-how-old-is-james.json](./292990-how-old-is-james.json) |
 | How Should I Keep a House Squeaky Clean, With a Filthy Little Neighbour Ghost? | 373080 | [373080-how-should-i-keep-a-house-squeaky-clean-with-a-filthy-little-neighbour-ghost.json](./373080-how-should-i-keep-a-house-squeaky-clean-with-a-filthy-little-neighbour-ghost.json) |
 | How Stories Die | 127855 | [127855-how-stories-die.json](./127855-how-stories-die.json) |
 | How The Grinch Stole Christmas!: Dr. Seuss Mobile | 84195 | [84195-how-the-grinch-stole-christmas-dr-seuss-mobile.json](./84195-how-the-grinch-stole-christmas-dr-seuss-mobile.json) |
