@@ -3301,6 +3301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lines Infinite | 124024 | [124024-lines-infinite.json](./124024-lines-infinite.json) |
 | Lines Lines | 232500 | [232500-lines-lines.json](./232500-lines-lines.json) |
 | Lines on Sides | 174224 | [174224-lines-on-sides.json](./174224-lines-on-sides.json) |
+| Lines Progress | 316919 | [316919-lines-progress.json](./316919-lines-progress.json) |
 | Lines Splitter | 142876 | [142876-lines-splitter.json](./142876-lines-splitter.json) |
 | Lines X | 119522 | [119522-lines-x.json](./119522-lines-x.json) |
 | Lines X Free | 107263 | [107263-lines-x-free.json](./107263-lines-x-free.json) |
@@ -3730,6 +3731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Plane | 246467 | [246467-little-plane.json](./246467-little-plane.json) |
 | Little Planet | 300397 | [300397-little-planet.json](./300397-little-planet.json) |
 | Little Planet: Holiday Update | 380572 | [380572-little-planet-holiday-update.json](./380572-little-planet-holiday-update.json) |
+| Little Pony Town Adventures | 316925 | [316925-little-pony-town-adventures.json](./316925-little-pony-town-adventures.json) |
 | Little Porp | 236301 | [236301-little-porp.json](./236301-little-porp.json) |
 | Little Postman | 247758 | [247758-little-postman.json](./247758-little-postman.json) |
 | Little Princess | 70945 | [70945-little-princess.json](./70945-little-princess.json) |
