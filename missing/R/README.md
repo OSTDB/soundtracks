@@ -105,6 +105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rabanaz | 403571 | [403571-rabanaz.json](./403571-rabanaz.json) |
 | Rabauken: Spirit Resort | 400394 | [400394-rabauken-spirit-resort.json](./400394-rabauken-spirit-resort.json) |
 | Rabbi-T | 240780 | [240780-rabbi-t.json](./240780-rabbi-t.json) |
+| Rabbids Arby's Rush | 324867 | [324867-rabbids-arbys-rush.json](./324867-rabbids-arbys-rush.json) |
 | Rabbids Big Bang | 61635 | [61635-rabbids-big-bang.json](./61635-rabbids-big-bang.json) |
 | Rabbids Coding! | 125162 | [125162-rabbids-coding.json](./125162-rabbids-coding.json) |
 | Rabbids Crazy Rush | 90356 | [90356-rabbids-crazy-rush.json](./90356-rabbids-crazy-rush.json) |
@@ -907,6 +908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raising Dead | 116960 | [116960-raising-dead.json](./116960-raising-dead.json) |
 | Raising the Bar: Salvation | 281376 | [281376-raising-the-bar-salvation.json](./281376-raising-the-bar-salvation.json) |
 | Raising Torolith | 152885 | [152885-raising-torolith.json](./152885-raising-torolith.json) |
+| Raisond'etre | 324849 | [324849-raisondetre.json](./324849-raisondetre.json) |
 | Raji: An Ancient Epic - Enhanced Edition | 152175 | [152175-raji-an-ancient-epic-enhanced-edition.json](./152175-raji-an-ancient-epic-enhanced-edition.json) |
 | Rake | 353765 | [353765-rake.json](./353765-rake.json) |
 | Rake Remastered | 267007 | [267007-rake-remastered.json](./267007-rake-remastered.json) |
@@ -7267,6 +7269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ruku's Heart Balloon | 222400 | [222400-rukus-heart-balloon.json](./222400-rukus-heart-balloon.json) |
 | Rule No. 2 | 199562 | [199562-rule-no-2.json](./199562-rule-no-2.json) |
 | Rule of Rose | 7415 | [7415-rule-of-rose.json](./7415-rule-of-rose.json) |
+| Rule The Beach Volleyball | 324832 | [324832-rule-the-beach-volleyball.json](./324832-rule-the-beach-volleyball.json) |
 | Rule the Kingdom | 343760 | [343760-rule-the-kingdom.json](./343760-rule-the-kingdom.json) |
 | Rule the Waves | 59943 | [59943-rule-the-waves.json](./59943-rule-the-waves.json) |
 | Rule the Waves 3 | 249172 | [249172-rule-the-waves-3.json](./249172-rule-the-waves-3.json) |
