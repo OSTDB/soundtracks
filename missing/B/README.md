@@ -3016,6 +3016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beach Tennis | 323840 | [323840-beach-tennis.json](./323840-beach-tennis.json) |
 | Beach Volley Hot Sports | 52449 | [52449-beach-volley-hot-sports.json](./52449-beach-volley-hot-sports.json) |
 | Beach Volleyball 2016 | 175203 | [175203-beach-volleyball-2016.json](./175203-beach-volleyball-2016.json) |
+| Beach Volleyball Girl Shizuku | 288134 | [288134-beach-volleyball-girl-shizuku.json](./288134-beach-volleyball-girl-shizuku.json) |
 | Beach Volleyball Girl Shizuku 3 - Sekai Taikai-hen | 292081 | [292081-beach-volleyball-girl-shizuku-3-sekai-taikai-hen.json](./292081-beach-volleyball-girl-shizuku-3-sekai-taikai-hen.json) |
 | Beach-Head | 8526 | [8526-beach-head.json](./8526-beach-head.json) |
 | Beach-Head II | 13389 | [13389-beach-head-ii.json](./13389-beach-head-ii.json) |
@@ -7993,6 +7994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boom Slayer | 234671 | [234671-boom-slayer.json](./234671-boom-slayer.json) |
 | Boom Slingers | 142879 | [142879-boom-slingers.json](./142879-boom-slingers.json) |
 | Boom Stick in the Mud | 275209 | [275209-boom-stick-in-the-mud.json](./275209-boom-stick-in-the-mud.json) |
+| Boom Voyage | 288112 | [288112-boom-voyage.json](./288112-boom-voyage.json) |
 | Boom Wars | 188436 | [188436-boom-wars.json](./188436-boom-wars.json) |
 | Boom Zoo | 297226 | [297226-boom-zoo.json](./297226-boom-zoo.json) |
 | Boom-Bahh | 43537 | [43537-boom-bahh.json](./43537-boom-bahh.json) |
@@ -9015,6 +9017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Braveland Heroes | 110344 | [110344-braveland-heroes.json](./110344-braveland-heroes.json) |
 | Braveland Pirate | 34737 | [34737-braveland-pirate.json](./34737-braveland-pirate.json) |
 | Braveland Wizard | 8755 | [8755-braveland-wizard.json](./8755-braveland-wizard.json) |
+| Bravely Archive: D's Report | 288149 | [288149-bravely-archive-ds-report.json](./288149-bravely-archive-ds-report.json) |
 | Bravely Default | 4700 | [4700-bravely-default.json](./4700-bravely-default.json) |
 | Bravely Default: Brilliant Lights | 174855 | [174855-bravely-default-brilliant-lights.json](./174855-bravely-default-brilliant-lights.json) |
 | Bravely Default: Fairy's Effect | 25739 | [25739-bravely-default-fairys-effect.json](./25739-bravely-default-fairys-effect.json) |
@@ -9295,6 +9298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breakthrough in the Ardennes | 25618 | [25618-breakthrough-in-the-ardennes.json](./25618-breakthrough-in-the-ardennes.json) |
 | BreakThrough Time | 392378 | [392378-breakthrough-time.json](./392378-breakthrough-time.json) |
 | BreakThru | 13437 | [13437-breakthru.json](./13437-breakthru.json) |
+| BreakThru | 288105 | [288105-breakthru.json](./288105-breakthru.json) |
 | Breakthru in 3D | 169228 | [169228-breakthru-in-3d.json](./169228-breakthru-in-3d.json) |
 | BreakThru! | 7800 | [7800-breakthru.json](./7800-breakthru.json) |
 | Breaktory | 183552 | [183552-breaktory.json](./183552-breaktory.json) |
