@@ -6103,6 +6103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sid Meier's Civilization VII: Tecumseh and Shawnee Pack | 360536 | [360536-sid-meiers-civilization-vii-tecumseh-and-shawnee-pack.json](./360536-sid-meiers-civilization-vii-tecumseh-and-shawnee-pack.json) |
 | Sid Meier's Civilization VII: Tides of Power Collection | 376099 | [376099-sid-meiers-civilization-vii-tides-of-power-collection.json](./376099-sid-meiers-civilization-vii-tides-of-power-collection.json) |
 | Sid Meier's Civilization VII: Toyotomi Hideyoshi Pack | 411597 | [411597-sid-meiers-civilization-vii-toyotomi-hideyoshi-pack.json](./411597-sid-meiers-civilization-vii-toyotomi-hideyoshi-pack.json) |
+| Sid Meier's Civilization VII: VR | 330781 | [330781-sid-meiers-civilization-vii-vr.json](./330781-sid-meiers-civilization-vii-vr.json) |
 | Sid Meier's Civilization VII: Xerxes (The Achaemenid) Persona | 360537 | [360537-sid-meiers-civilization-vii-xerxes-the-achaemenid-persona.json](./360537-sid-meiers-civilization-vii-xerxes-the-achaemenid-persona.json) |
 | Sid Meier's Civilization: Beyond Earth | 6038 | [6038-sid-meiers-civilization-beyond-earth.json](./6038-sid-meiers-civilization-beyond-earth.json) |
 | Sid Meier's Civilization: Beyond Earth - Exoplanets Map Pack | 170843 | [170843-sid-meiers-civilization-beyond-earth-exoplanets-map-pack.json](./170843-sid-meiers-civilization-beyond-earth-exoplanets-map-pack.json) |
@@ -8712,6 +8713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smile to Fly | 123975 | [123975-smile-to-fly.json](./123975-smile-to-fly.json) |
 | Smile Town | 338191 | [338191-smile-town.json](./338191-smile-town.json) |
 | Smile Town | 397229 | [397229-smile-town.json](./397229-smile-town.json) |
+| Smile, you're being filmed together | 330750 | [330750-smile-youre-being-filmed-together.json](./330750-smile-youre-being-filmed-together.json) |
 | Smilemo | 201096 | [201096-smilemo.json](./201096-smilemo.json) |
 | Smiles Incorporated | 176285 | [176285-smiles-incorporated.json](./176285-smiles-incorporated.json) |
 | SmileTris 2 | 70967 | [70967-smiletris-2.json](./70967-smiletris-2.json) |
@@ -9222,6 +9224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snood Towers | 137952 | [137952-snood-towers.json](./137952-snood-towers.json) |
 | Snood Towers | 246389 | [246389-snood-towers.json](./246389-snood-towers.json) |
 | Snoody: One of the Ayrie | 252262 | [252262-snoody-one-of-the-ayrie.json](./252262-snoody-one-of-the-ayrie.json) |
+| Snooker | 330780 | [330780-snooker.json](./330780-snooker.json) |
 | Snooker 19 | 111153 | [111153-snooker-19.json](./111153-snooker-19.json) |
 | Snooker Fever | 328487 | [328487-snooker-fever.json](./328487-snooker-fever.json) |
 | Snooker Fever Rack 'n' Roll | 381807 | [381807-snooker-fever-rack-n-roll.json](./381807-snooker-fever-rack-n-roll.json) |
@@ -10510,6 +10513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Drift 16-Bit | 279759 | [279759-sonic-drift-16-bit.json](./279759-sonic-drift-16-bit.json) |
 | Sonic Dynamo | 320357 | [320357-sonic-dynamo.json](./320357-sonic-dynamo.json) |
 | Sonic Elementals | 333959 | [333959-sonic-elementals.json](./333959-sonic-elementals.json) |
+| Sonic Epoch | 330789 | [330789-sonic-epoch.json](./330789-sonic-epoch.json) |
 | Sonic Epsilon | 332553 | [332553-sonic-epsilon.json](./332553-sonic-epsilon.json) |
 | Sonic ERaZor | 198564 | [198564-sonic-erazor.json](./198564-sonic-erazor.json) |
 | Sonic Escape | 370218 | [370218-sonic-escape.json](./370218-sonic-escape.json) |
@@ -10778,6 +10782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Superstars: Shadow Costume for Sonic | 287180 | [287180-sonic-superstars-shadow-costume-for-sonic.json](./287180-sonic-superstars-shadow-costume-for-sonic.json) |
 | Sonic Surfer | 251645 | [251645-sonic-surfer.json](./251645-sonic-surfer.json) |
 | Sonic Surge: Rhythm Showdown | 333913 | [333913-sonic-surge-rhythm-showdown.json](./333913-sonic-surge-rhythm-showdown.json) |
+| Sonic SV 2 | 330788 | [330788-sonic-sv-2.json](./330788-sonic-sv-2.json) |
 | Sonic Switch | 325840 | [325840-sonic-switch.json](./325840-sonic-switch.json) |
 | Sonic Team Arena | 330964 | [330964-sonic-team-arena.json](./330964-sonic-team-arena.json) |
 | Sonic Tennis DX | 261295 | [261295-sonic-tennis-dx.json](./261295-sonic-tennis-dx.json) |
@@ -10888,6 +10893,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Uprising | 318630 | [318630-sonic-uprising.json](./318630-sonic-uprising.json) |
 | Sonic Utopia | 305281 | [305281-sonic-utopia.json](./305281-sonic-utopia.json) |
 | Sonic Valkyria: Kanon | 351564 | [351564-sonic-valkyria-kanon.json](./351564-sonic-valkyria-kanon.json) |
+| Sonic Velocity | 330679 | [330679-sonic-velocity.json](./330679-sonic-velocity.json) |
+| Sonic Velocity | 330682 | [330682-sonic-velocity.json](./330682-sonic-velocity.json) |
 | Sonic Vex | 330520 | [330520-sonic-vex.json](./330520-sonic-vex.json) |
 | Sonic VR | 397132 | [397132-sonic-vr.json](./397132-sonic-vr.json) |
 | Sonic VS. Darkness: True Nightmare Revived | 140402 | [140402-sonic-vs-darkness-true-nightmare-revived.json](./140402-sonic-vs-darkness-true-nightmare-revived.json) |
@@ -10955,6 +10962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic: The Blue Blur | 332611 | [332611-sonic-the-blue-blur.json](./332611-sonic-the-blue-blur.json) |
 | Sonic: The Chaos Effect | 330712 | [330712-sonic-the-chaos-effect.json](./330712-sonic-the-chaos-effect.json) |
 | Sonic: The Exe Game | 417606 | [417606-sonic-the-exe-game.json](./417606-sonic-the-exe-game.json) |
+| Sonic: The Last Strike | 330783 | [330783-sonic-the-last-strike.json](./330783-sonic-the-last-strike.json) |
 | Sonic: The Next Episode | 330863 | [330863-sonic-the-next-episode.json](./330863-sonic-the-next-episode.json) |
 | Sonic.EXE | 45556 | [45556-sonic-exe.json](./45556-sonic-exe.json) |
 | Sonic.Exe 2: The Game | 341904 | [341904-sonic-exe-2-the-game.json](./341904-sonic-exe-2-the-game.json) |
@@ -11452,6 +11460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sounds of Talent: Kpop Adventure | 116826 | [116826-sounds-of-talent-kpop-adventure.json](./116826-sounds-of-talent-kpop-adventure.json) |
 | Sounds of Verity | 89938 | [89938-sounds-of-verity.json](./89938-sounds-of-verity.json) |
 | Soundsaber | 184660 | [184660-soundsaber.json](./184660-soundsaber.json) |
+| Soundscape | 330756 | [330756-soundscape.json](./330756-soundscape.json) |
 | Soundscape VR | 28879 | [28879-soundscape-vr.json](./28879-soundscape-vr.json) |
 | SoundSelf | 61869 | [61869-soundself.json](./61869-soundself.json) |
 | Soundsphere | 176885 | [176885-soundsphere.json](./176885-soundsphere.json) |
@@ -11746,6 +11755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Drilling Station | 250028 | [250028-space-drilling-station.json](./250028-space-drilling-station.json) |
 | Space Drop | 290505 | [290505-space-drop.json](./290505-space-drop.json) |
 | Space Drop | 99773 | [99773-space-drop.json](./99773-space-drop.json) |
+| Space Duck: Escape | 330764 | [330764-space-duck-escape.json](./330764-space-duck-escape.json) |
 | Space Ducks: The Great Escape | 199658 | [199658-space-ducks-the-great-escape.json](./199658-space-ducks-the-great-escape.json) |
 | Space Dudes vs Alien Dudes | 223389 | [223389-space-dudes-vs-alien-dudes.json](./223389-space-dudes-vs-alien-dudes.json) |
 | Space Duel | 18405 | [18405-space-duel.json](./18405-space-duel.json) |
@@ -18879,6 +18889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super EarthBound | 323181 | [323181-super-earthbound.json](./323181-super-earthbound.json) |
 | Super Elastic | 276164 | [276164-super-elastic.json](./276164-super-elastic.json) |
 | Super Elf Jump | 93818 | [93818-super-elf-jump.json](./93818-super-elf-jump.json) |
+| Super Emo Alpaca | 330761 | [330761-super-emo-alpaca.json](./330761-super-emo-alpaca.json) |
 | Super Engine GT Turbo SPEC | 338922 | [338922-super-engine-gt-turbo-spec.json](./338922-super-engine-gt-turbo-spec.json) |
 | Super Erect Taisen S-EX | 272335 | [272335-super-erect-taisen-s-ex.json](./272335-super-erect-taisen-s-ex.json) |
 | Super Falling Fred | 295025 | [295025-super-falling-fred.json](./295025-super-falling-fred.json) |
