@@ -6480,6 +6480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blocks | 371455 | [371455-blocks.json](./371455-blocks.json) |
 | Blocks Ahoy! | 387562 | [387562-blocks-ahoy.json](./387562-blocks-ahoy.json) |
 | Blocks and Ropes | 224092 | [224092-blocks-and-ropes.json](./224092-blocks-and-ropes.json) |
+| Blocks Challenge | 315771 | [315771-blocks-challenge.json](./315771-blocks-challenge.json) |
 | Blocks for Babies | 284014 | [284014-blocks-for-babies.json](./284014-blocks-for-babies.json) |
 | Blocks Mania | 66385 | [66385-blocks-mania.json](./66385-blocks-mania.json) |
 | Blocks of Nature | 216754 | [216754-blocks-of-nature.json](./216754-blocks-of-nature.json) |
@@ -7128,6 +7129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bluegrass | 386930 | [386930-bluegrass.json](./386930-bluegrass.json) |
 | Bluem | 199396 | [199396-bluem.json](./199396-bluem.json) |
 | Blueman | 329002 | [329002-blueman.json](./329002-blueman.json) |
+| Blueprint Hell | 315782 | [315782-blueprint-hell.json](./315782-blueprint-hell.json) |
 | BluePrint Racer 4D | 68646 | [68646-blueprint-racer-4d.json](./68646-blueprint-racer-4d.json) |
 | Blueprint Word: Classroom | 112477 | [112477-blueprint-word-classroom.json](./112477-blueprint-word-classroom.json) |
 | Blues and Bullets | 11415 | [11415-blues-and-bullets.json](./11415-blues-and-bullets.json) |
@@ -8635,6 +8637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boyfriend's Rescue | 225639 | [225639-boyfriends-rescue.json](./225639-boyfriends-rescue.json) |
 | Boyhood's End | 250286 | [250286-boyhoods-end.json](./250286-boyhoods-end.json) |
 | BoyKisser Clicker | 310600 | [310600-boykisser-clicker.json](./310600-boykisser-clicker.json) |
+| Boys Race | 315811 | [315811-boys-race.json](./315811-boys-race.json) |
 | Boys Tale | 255358 | [255358-boys-tale.json](./255358-boys-tale.json) |
 | Boys Work | 186188 | [186188-boys-work.json](./186188-boys-work.json) |
 | Boyscout: Patrick's Town | 261791 | [261791-boyscout-patricks-town.json](./261791-boyscout-patricks-town.json) |
