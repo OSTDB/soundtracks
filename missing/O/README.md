@@ -3142,6 +3142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outbreak: The Nightmare Chronicles - Chapter 4 | 168853 | [168853-outbreak-the-nightmare-chronicles-chapter-4.json](./168853-outbreak-the-nightmare-chronicles-chapter-4.json) |
 | Outbreak: The Nightmare Chronicles - Reinvestigated | 261362 | [261362-outbreak-the-nightmare-chronicles-reinvestigated.json](./261362-outbreak-the-nightmare-chronicles-reinvestigated.json) |
 | Outbreak: Urban Jungle Collection | 331418 | [331418-outbreak-urban-jungle-collection.json](./331418-outbreak-urban-jungle-collection.json) |
+| Outbreak: Zombies For Days Collection | 308586 | [308586-outbreak-zombies-for-days-collection.json](./308586-outbreak-zombies-for-days-collection.json) |
 | Outbrk | 131609 | [131609-outbrk.json](./131609-outbrk.json) |
 | Outburst | 79240 | [79240-outburst.json](./79240-outburst.json) |
 | Outcast 1.1 | 36084 | [36084-outcast-1-1.json](./36084-outcast-1-1.json) |
