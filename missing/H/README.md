@@ -5514,6 +5514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holy Cow! Milking Simulator | 118390 | [118390-holy-cow-milking-simulator.json](./118390-holy-cow-milking-simulator.json) |
 | Holy Crap Bears! | 396386 | [396386-holy-crap-bears.json](./396386-holy-crap-bears.json) |
 | Holy Deadline | 354559 | [354559-holy-deadline.json](./354559-holy-deadline.json) |
+| Holy Dungeon | 287577 | [287577-holy-dungeon.json](./287577-holy-dungeon.json) |
 | Holy Fire Meow Meow: Special Forces | 370182 | [370182-holy-fire-meow-meow-special-forces.json](./370182-holy-fire-meow-meow-special-forces.json) |
 | Holy Ghost Story | 229808 | [229808-holy-ghost-story.json](./229808-holy-ghost-story.json) |
 | Holy Grail for Dummies | 400327 | [400327-holy-grail-for-dummies.json](./400327-holy-grail-for-dummies.json) |
