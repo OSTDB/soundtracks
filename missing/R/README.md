@@ -3404,6 +3404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resident Evil 2: Marvin's Mod | 333762 | [333762-resident-evil-2-marvins-mod.json](./333762-resident-evil-2-marvins-mod.json) |
 | Resident Evil 2: Pix' N Love Limited Edition | 221404 | [221404-resident-evil-2-pix-n-love-limited-edition.json](./221404-resident-evil-2-pix-n-love-limited-edition.json) |
 | Resident Evil 2: Seamless HD Project | 322045 | [322045-resident-evil-2-seamless-hd-project.json](./322045-resident-evil-2-seamless-hd-project.json) |
+| Resident Evil 2: Source | 283103 | [283103-resident-evil-2-source.json](./283103-resident-evil-2-source.json) |
 | Resident Evil 2: Special Edition | 280755 | [280755-resident-evil-2-special-edition.json](./280755-resident-evil-2-special-edition.json) |
 | Resident Evil 2: Zombie Crisis | 339246 | [339246-resident-evil-2-zombie-crisis.json](./339246-resident-evil-2-zombie-crisis.json) |
 | Resident Evil 3: Dark Infection | 229088 | [229088-resident-evil-3-dark-infection.json](./229088-resident-evil-3-dark-infection.json) |
@@ -3909,6 +3910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revelations 2012 | 16279 | [16279-revelations-2012.json](./16279-revelations-2012.json) |
 | Revella | 344368 | [344368-revella.json](./344368-revella.json) |
 | Revenant | 242007 | [242007-revenant.json](./242007-revenant.json) |
+| Revenant | 283101 | [283101-revenant.json](./283101-revenant.json) |
 | Revenant | 307755 | [307755-revenant.json](./307755-revenant.json) |
 | Revenant Dogma | 38505 | [38505-revenant-dogma.json](./38505-revenant-dogma.json) |
 | Revenant Hill | 250625 | [250625-revenant-hill.json](./250625-revenant-hill.json) |
