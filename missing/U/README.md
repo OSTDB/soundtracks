@@ -347,6 +347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Hardbass Defence | 110775 | [110775-ultimate-hardbass-defence.json](./110775-ultimate-hardbass-defence.json) |
 | Ultimate Hero | 333530 | [333530-ultimate-hero.json](./333530-ultimate-hero.json) |
 | Ultimate Heroes | 165387 | [165387-ultimate-heroes.json](./165387-ultimate-heroes.json) |
+| Ultimate Holidays | 315822 | [315822-ultimate-holidays.json](./315822-ultimate-holidays.json) |
 | Ultimate Holidays: Deluxe Edition | 328810 | [328810-ultimate-holidays-deluxe-edition.json](./328810-ultimate-holidays-deluxe-edition.json) |
 | Ultimate Holidays: Postcard Stickers Pack 1 | 324400 | [324400-ultimate-holidays-postcard-stickers-pack-1.json](./324400-ultimate-holidays-postcard-stickers-pack-1.json) |
 | Ultimate Holidays: Postcard Stickers Pack 2 | 324401 | [324401-ultimate-holidays-postcard-stickers-pack-2.json](./324401-ultimate-holidays-postcard-stickers-pack-2.json) |
