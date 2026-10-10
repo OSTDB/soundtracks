@@ -3632,6 +3632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Own Coffee Shop | 120342 | [120342-own-coffee-shop.json](./120342-own-coffee-shop.json) |
 | Owner | 295528 | [295528-owner.json](./295528-owner.json) |
 | OwnRulesRPG | 259845 | [259845-ownrulesrpg.json](./259845-ownrulesrpg.json) |
+| OwnTrio: Adventure | 292439 | [292439-owntrio-adventure.json](./292439-owntrio-adventure.json) |
 | Owyn's Adventure | 116482 | [116482-owyns-adventure.json](./116482-owyns-adventure.json) |
 | Owys | 34642 | [34642-owys.json](./34642-owys.json) |
 | Oxenfree: Collector's Edition | 51536 | [51536-oxenfree-collectors-edition.json](./51536-oxenfree-collectors-edition.json) |
