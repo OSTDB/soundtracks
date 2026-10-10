@@ -991,6 +991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Late Night Mop: Minimum Wage | 376605 | [376605-late-night-mop-minimum-wage.json](./376605-late-night-mop-minimum-wage.json) |
 | Late Night Sausage | 321475 | [321475-late-night-sausage.json](./321475-late-night-sausage.json) |
 | Late Night Sexy TV Show | 386395 | [386395-late-night-sexy-tv-show.json](./386395-late-night-sexy-tv-show.json) |
+| Late Night Shift | 304326 | [304326-late-night-shift.json](./304326-late-night-shift.json) |
 | Late Night Shift | 334692 | [334692-late-night-shift.json](./334692-late-night-shift.json) |
 | Late Night Shop | 59783 | [59783-late-night-shop.json](./59783-late-night-shop.json) |
 | Late Night Surfing | 318703 | [318703-late-night-surfing.json](./318703-late-night-surfing.json) |
@@ -2557,6 +2558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lex Mortis | 26510 | [26510-lex-mortis.json](./26510-lex-mortis.json) |
 | Lexagrana | 174196 | [174196-lexagrana.json](./174196-lexagrana.json) |
 | Lexibble | 305344 | [305344-lexibble.json](./305344-lexibble.json) |
+| Lexibook Batman Compact Cyber Arcade Portable Console | 304232 | [304232-lexibook-batman-compact-cyber-arcade-portable-console.json](./304232-lexibook-batman-compact-cyber-arcade-portable-console.json) |
 | Lexibook Electronic Thesaurus: Model DC 750 | 245457 | [245457-lexibook-electronic-thesaurus-model-dc-750.json](./245457-lexibook-electronic-thesaurus-model-dc-750.json) |
 | Lexica | 369673 | [369673-lexica.json](./369673-lexica.json) |
 | Lexica Word Finder for Scrabble | 93715 | [93715-lexica-word-finder-for-scrabble.json](./93715-lexica-word-finder-for-scrabble.json) |
@@ -5570,6 +5572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lowland Keepers | 328956 | [328956-lowland-keepers.json](./328956-lowland-keepers.json) |
 | Lowlander II: Lowerlander | 104706 | [104706-lowlander-ii-lowerlander.json](./104706-lowlander-ii-lowerlander.json) |
 | Lowlife | 208016 | [208016-lowlife.json](./208016-lowlife.json) |
+| LowLife Forms | 304310 | [304310-lowlife-forms.json](./304310-lowlife-forms.json) |
 | LowPoly Towerdefense | 295009 | [295009-lowpoly-towerdefense.json](./295009-lowpoly-towerdefense.json) |
 | Lowrider | 43550 | [43550-lowrider.json](./43550-lowrider.json) |
 | Lowrider Hopping | 287087 | [287087-lowrider-hopping.json](./287087-lowrider-hopping.json) |
