@@ -128,6 +128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waifu Quest 2 | 311813 | [311813-waifu-quest-2.json](./311813-waifu-quest-2.json) |
 | Waifu Secret | 169835 | [169835-waifu-secret.json](./169835-waifu-secret.json) |
 | Waifu Secret 2 | 149420 | [149420-waifu-secret-2.json](./149420-waifu-secret-2.json) |
+| Waifu Simulator | 326307 | [326307-waifu-simulator.json](./326307-waifu-simulator.json) |
 | Waifu Slumber Party | 384715 | [384715-waifu-slumber-party.json](./384715-waifu-slumber-party.json) |
 | Waifu Space Conquest | 250383 | [250383-waifu-space-conquest.json](./250383-waifu-space-conquest.json) |
 | Waifu Survivors | 338553 | [338553-waifu-survivors.json](./338553-waifu-survivors.json) |
@@ -4803,6 +4804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Work Work Work | 385568 | [385568-work-work-work.json](./385568-work-work-work.json) |
 | Work Wrecker | 358488 | [358488-work-wrecker.json](./358488-work-wrecker.json) |
 | Work x Work | 218984 | [218984-work-x-work.json](./218984-work-x-work.json) |
+| Workaholic Simulator: Leaving the Dream | 326305 | [326305-workaholic-simulator-leaving-the-dream.json](./326305-workaholic-simulator-leaving-the-dream.json) |
 | Workboy | 297549 | [297549-workboy.json](./297549-workboy.json) |
 | Workemon | 141174 | [141174-workemon.json](./141174-workemon.json) |
 | Worker 42 | 320172 | [320172-worker-42.json](./320172-worker-42.json) |
