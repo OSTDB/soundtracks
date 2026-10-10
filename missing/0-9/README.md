@@ -1211,6 +1211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3000m to Whatever’s up There | 373133 | [373133-3000m-to-whatever-s-up-there.json](./373133-3000m-to-whatever-s-up-there.json) |
 | 3000th Duel | 122027 | [122027-3000th-duel.json](./122027-3000th-duel.json) |
 | 3000th Duel: The Wise Ones | 174161 | [174161-3000th-duel-the-wise-ones.json](./174161-3000th-duel-the-wise-ones.json) |
+| 3001 Pages: A fairy tale for 33 | 284275 | [284275-3001-pages-a-fairy-tale-for-33.json](./284275-3001-pages-a-fairy-tale-for-33.json) |
 | 3001: O'Connors Fight | 38853 | [38853-3001-oconnors-fight.json](./38853-3001-oconnors-fight.json) |
 | 303 Game Collection | 273918 | [273918-303-game-collection.json](./273918-303-game-collection.json) |
 | 303 Logic, Action & Arcade Games | 228411 | [228411-303-logic-action-and-arcade-games.json](./228411-303-logic-action-and-arcade-games.json) |
