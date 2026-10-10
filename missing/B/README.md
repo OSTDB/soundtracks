@@ -2116,6 +2116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Batman: Gotham City Racer | 44992 | [44992-batman-gotham-city-racer.json](./44992-batman-gotham-city-racer.json) |
 | Batman: Guardian of Gotham | 356602 | [356602-batman-guardian-of-gotham.json](./356602-batman-guardian-of-gotham.json) |
 | Batman: Justice Unbalanced | 73887 | [73887-batman-justice-unbalanced.json](./73887-batman-justice-unbalanced.json) |
+| Batman: Return of the Joker | 295663 | [295663-batman-return-of-the-joker.json](./295663-batman-return-of-the-joker.json) |
 | Batman: Return of the Joker | 4489 | [4489-batman-return-of-the-joker.json](./4489-batman-return-of-the-joker.json) |
 | Batman: Return to Arkham | 19245 | [19245-batman-return-to-arkham.json](./19245-batman-return-to-arkham.json) |
 | Batman: Return to Arkham - Arkham City | 203435 | [203435-batman-return-to-arkham-arkham-city.json](./203435-batman-return-to-arkham-arkham-city.json) |
@@ -3408,6 +3409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beauties and Beasts | 317315 | [317315-beauties-and-beasts.json](./317315-beauties-and-beasts.json) |
 | Beauties Unveiled | 284499 | [284499-beauties-unveiled.json](./284499-beauties-unveiled.json) |
 | Beauties Unveiled 2: CEO 69 Edition | 315874 | [315874-beauties-unveiled-2-ceo-69-edition.json](./315874-beauties-unveiled-2-ceo-69-edition.json) |
+| Beauties Unveiled 2: Spicy Edition | 295680 | [295680-beauties-unveiled-2-spicy-edition.json](./295680-beauties-unveiled-2-spicy-edition.json) |
 | Beauties Unveiled: Ariadne Level Pack | 312098 | [312098-beauties-unveiled-ariadne-level-pack.json](./312098-beauties-unveiled-ariadne-level-pack.json) |
 | Beauties Unveiled: BackySoftie Level Pack | 312099 | [312099-beauties-unveiled-backysoftie-level-pack.json](./312099-beauties-unveiled-backysoftie-level-pack.json) |
 | Beauties Unveiled: Bianca Level Pack | 312100 | [312100-beauties-unveiled-bianca-level-pack.json](./312100-beauties-unveiled-bianca-level-pack.json) |
