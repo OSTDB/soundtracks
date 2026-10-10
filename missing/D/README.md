@@ -1966,6 +1966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | De'Vine: Heavenly Acres | 207748 | [207748-devine-heavenly-acres.json](./207748-devine-heavenly-acres.json) |
 | De'Vot | 258497 | [258497-devot.json](./258497-devot.json) |
 | De/Ascend | 422112 | [422112-de-ascend.json](./422112-de-ascend.json) |
+| De3amy | 289265 | [289265-de3amy.json](./289265-de3amy.json) |
 | Dea | 288852 | [288852-dea.json](./288852-dea.json) |
 | Deabirth: Real | 182816 | [182816-deabirth-real.json](./182816-deabirth-real.json) |
 | Deacon Blues | 145517 | [145517-deacon-blues.json](./145517-deacon-blues.json) |
@@ -6433,6 +6434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disown95 | 393753 | [393753-disown95.json](./393753-disown95.json) |
 | Disparity | 68495 | [68495-disparity.json](./68495-disparity.json) |
 | Dispatch | 339997 | [339997-dispatch.json](./339997-dispatch.json) |
+| Dispatch Madness | 289262 | [289262-dispatch-madness.json](./289262-dispatch-madness.json) |
 | Dispatched | 415504 | [415504-dispatched.json](./415504-dispatched.json) |
 | Dispatcher | 11348 | [11348-dispatcher.json](./11348-dispatcher.json) |
 | Dispel | 272251 | [272251-dispel.json](./272251-dispel.json) |
