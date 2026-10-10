@@ -484,6 +484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vampires' Melody | 169435 | [169435-vampires-melody.json](./169435-vampires-melody.json) |
 | Vampireville: haunted castle adventure | 175295 | [175295-vampireville-haunted-castle-adventure.json](./175295-vampireville-haunted-castle-adventure.json) |
 | Vampiric Tower | 69853 | [69853-vampiric-tower.json](./69853-vampiric-tower.json) |
+| Vampirii | 309434 | [309434-vampirii.json](./309434-vampirii.json) |
 | Vampirijagd 2 Nightrace | 84437 | [84437-vampirijagd-2-nightrace.json](./84437-vampirijagd-2-nightrace.json) |
 | Vampirium: 1997 | 409402 | [409402-vampirium-1997.json](./409402-vampirium-1997.json) |
 | Vampolitics: Vassals of the Void | 375375 | [375375-vampolitics-vassals-of-the-void.json](./375375-vampolitics-vassals-of-the-void.json) |
@@ -1370,6 +1371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vikings Hnefatafl: Kings of the Dark Age | 249712 | [249712-vikings-hnefatafl-kings-of-the-dark-age.json](./249712-vikings-hnefatafl-kings-of-the-dark-age.json) |
 | Vikings II | 147276 | [147276-vikings-ii.json](./147276-vikings-ii.json) |
 | Vikings on Trampolines | 92493 | [92493-vikings-on-trampolines.json](./92493-vikings-on-trampolines.json) |
+| Vikings Pinball | 309638 | [309638-vikings-pinball.json](./309638-vikings-pinball.json) |
 | Vikings vs. Dragons | 241541 | [241541-vikings-vs-dragons.json](./241541-vikings-vs-dragons.json) |
 | Vikings Wars | 128981 | [128981-vikings-wars.json](./128981-vikings-wars.json) |
 | Vikings: Age of the Axe | 149504 | [149504-vikings-age-of-the-axe.json](./149504-vikings-age-of-the-axe.json) |
@@ -2103,6 +2105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voidship: Redux | 244312 | [244312-voidship-redux.json](./244312-voidship-redux.json) |
 | Voidspeed Outlaw | 157026 | [157026-voidspeed-outlaw.json](./157026-voidspeed-outlaw.json) |
 | Voidstalker | 381926 | [381926-voidstalker.json](./381926-voidstalker.json) |
+| Voidstorm | 309549 | [309549-voidstorm.json](./309549-voidstorm.json) |
 | Voidwalker | 385383 | [385383-voidwalker.json](./385383-voidwalker.json) |
 | VoidWalker: Call of Insomnia | 345080 | [345080-voidwalker-call-of-insomnia.json](./345080-voidwalker-call-of-insomnia.json) |
 | Voidwalkers: Astora's Darkness | 170939 | [170939-voidwalkers-astoras-darkness.json](./170939-voidwalkers-astoras-darkness.json) |
