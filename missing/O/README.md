@@ -1797,6 +1797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oniken | 8963 | [8963-oniken.json](./8963-oniken.json) |
 | Onikira: Demon Killer | 10642 | [10642-onikira-demon-killer.json](./10642-onikira-demon-killer.json) |
 | Oniko Kororin Game | 300928 | [300928-oniko-kororin-game.json](./300928-oniko-kororin-game.json) |
+| Onikura | 315189 | [315189-onikura.json](./315189-onikura.json) |
 | Onimod Land | 74992 | [74992-onimod-land.json](./74992-onimod-land.json) |
 | Onimusha 2: Samurai's Destiny | 11757 | [11757-onimusha-2-samurais-destiny.json](./11757-onimusha-2-samurais-destiny.json) |
 | Onimusha 2: Samurai's Destiny | 330283 | [330283-onimusha-2-samurais-destiny.json](./330283-onimusha-2-samurais-destiny.json) |
