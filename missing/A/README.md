@@ -6501,12 +6501,19 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Antiyoy | 25554 | [25554-antiyoy.json](./25554-antiyoy.json) |
 | Antlions Everywhere | 268034 | [268034-antlions-everywhere.json](./268034-antlions-everywhere.json) |
 | AntMe! | 138000 | [138000-antme.json](./138000-antme.json) |
+| Anton: Conversion Reversion | 326116 | [326116-anton-conversion-reversion.json](./326116-anton-conversion-reversion.json) |
+| Anton's Balloon Play! | 326113 | [326113-antons-balloon-play.json](./326113-antons-balloon-play.json) |
+| Antonball | 326106 | [326106-antonball.json](./326106-antonball.json) |
 | Antonball Deluxe | 139595 | [139595-antonball-deluxe.json](./139595-antonball-deluxe.json) |
 | Antonball Deluxe Lite | 153463 | [153463-antonball-deluxe-lite.json](./153463-antonball-deluxe-lite.json) |
 | Antonball Deluxe: Better Than Nothing | 155519 | [155519-antonball-deluxe-better-than-nothing.json](./155519-antonball-deluxe-better-than-nothing.json) |
 | Antonball Deluxe: Fixed Gold Evil Baby Paul (Shiny) | 155546 | [155546-antonball-deluxe-fixed-gold-evil-baby-paul-shiny.json](./155546-antonball-deluxe-fixed-gold-evil-baby-paul-shiny.json) |
 | Antonblast | 201752 | [201752-antonblast.json](./201752-antonblast.json) |
 | Antonblast 64 | 375976 | [375976-antonblast-64.json](./375976-antonblast-64.json) |
+| AntonDisk | 326111 | [326111-antondisk.json](./326111-antondisk.json) |
+| Antons 10 Minutes in Cool Hell | 326117 | [326117-antons-10-minutes-in-cool-hell.json](./326117-antons-10-minutes-in-cool-hell.json) |
+| AntonSneeze | 326109 | [326109-antonsneeze.json](./326109-antonsneeze.json) |
+| AntonWare | 326110 | [326110-antonware.json](./326110-antonware.json) |
 | Antpocalypse | 386917 | [386917-antpocalypse.json](./386917-antpocalypse.json) |
 | AntQueen 3D | 117642 | [117642-antqueen-3d.json](./117642-antqueen-3d.json) |
 | Antrabhara | 223491 | [223491-antrabhara.json](./223491-antrabhara.json) |
@@ -7990,6 +7997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aristocratic Potato | 343913 | [343913-aristocratic-potato.json](./343913-aristocratic-potato.json) |
 | Aristoi | 180233 | [180233-aristoi.json](./180233-aristoi.json) |
 | Aritana and the Twin Masks | 120865 | [120865-aritana-and-the-twin-masks.json](./120865-aritana-and-the-twin-masks.json) |
+| Aritas: The Demon Lord | 326294 | [326294-aritas-the-demon-lord.json](./326294-aritas-the-demon-lord.json) |
 | Arithmagic: Math Wizard Game | 197709 | [197709-arithmagic-math-wizard-game.json](./197709-arithmagic-math-wizard-game.json) |
 | Arithmetic | 331935 | [331935-arithmetic.json](./331935-arithmetic.json) |
 | Arizona Derby | 116376 | [116376-arizona-derby.json](./116376-arizona-derby.json) |
