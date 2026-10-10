@@ -1511,6 +1511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | John Wick Hex | 118219 | [118219-john-wick-hex.json](./118219-john-wick-hex.json) |
 | John: Car Transporter Truck 3D | 28156 | [28156-john-car-transporter-truck-3d.json](./28156-john-car-transporter-truck-3d.json) |
 | John:Condemned | 111011 | [111011-john-condemned.json](./111011-john-condemned.json) |
+| John's Hell | 289783 | [289783-johns-hell.json](./289783-johns-hell.json) |
 | John's Quest | 394466 | [394466-johns-quest.json](./394466-johns-quest.json) |
 | John's Tombstone | 187523 | [187523-johns-tombstone.json](./187523-johns-tombstone.json) |
 | John's Wizard Dungeon | 119738 | [119738-johns-wizard-dungeon.json](./119738-johns-wizard-dungeon.json) |
@@ -2115,6 +2116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jumping Flash! 2 | 20300 | [20300-jumping-flash-2.json](./20300-jumping-flash-2.json) |
 | Jumping Frog: A Time Traveller | 247496 | [247496-jumping-frog-a-time-traveller.json](./247496-jumping-frog-a-time-traveller.json) |
 | Jumping Henry | 340779 | [340779-jumping-henry.json](./340779-jumping-henry.json) |
+| Jumping in the middle of the sky | 289775 | [289775-jumping-in-the-middle-of-the-sky.json](./289775-jumping-in-the-middle-of-the-sky.json) |
 | Jumping Jack | 340780 | [340780-jumping-jack.json](./340780-jumping-jack.json) |
 | Jumping Jacks | 243100 | [243100-jumping-jacks.json](./243100-jumping-jacks.json) |
 | Jumping Joe! Friends Edition | 170387 | [170387-jumping-joe-friends-edition.json](./170387-jumping-joe-friends-edition.json) |
