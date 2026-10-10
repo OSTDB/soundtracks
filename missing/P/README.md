@@ -5877,6 +5877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Platform Tower | 249230 | [249230-platform-tower.json](./249230-platform-tower.json) |
 | Platformance: Castle Pain | 66389 | [66389-platformance-castle-pain.json](./66389-platformance-castle-pain.json) |
 | Platformer Execute | 163980 | [163980-platformer-execute.json](./163980-platformer-execute.json) |
+| Platformer From Hell | 303213 | [303213-platformer-from-hell.json](./303213-platformer-from-hell.json) |
 | Platformer Geometry Dash | 290416 | [290416-platformer-geometry-dash.json](./290416-platformer-geometry-dash.json) |
 | Platformer Helmet | 260313 | [260313-platformer-helmet.json](./260313-platformer-helmet.json) |
 | Platformer of Death | 185121 | [185121-platformer-of-death.json](./185121-platformer-of-death.json) |
