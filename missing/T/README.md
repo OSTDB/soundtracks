@@ -3730,6 +3730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Archipelago | 180765 | [180765-the-archipelago.json](./180765-the-archipelago.json) |
 | The Architect: Paris | 74414 | [74414-the-architect-paris.json](./74414-the-architect-paris.json) |
 | The Architects of the Universe: The Orbital Wars | 402294 | [402294-the-architects-of-the-universe-the-orbital-wars.json](./402294-the-architects-of-the-universe-the-orbital-wars.json) |
+| The Architects of the Universe: The Orphans | 294022 | [294022-the-architects-of-the-universe-the-orphans.json](./294022-the-architects-of-the-universe-the-orphans.json) |
 | The Archive | 387637 | [387637-the-archive.json](./387637-the-archive.json) |
 | The Archives of Evil Dr BA | 135702 | [135702-the-archives-of-evil-dr-ba.json](./135702-the-archives-of-evil-dr-ba.json) |
 | The Archivist | 372814 | [372814-the-archivist.json](./372814-the-archivist.json) |
@@ -10790,6 +10791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tale of Food | 246983 | [246983-the-tale-of-food.json](./246983-the-tale-of-food.json) |
 | The Tale of Greenbrier | 117819 | [117819-the-tale-of-greenbrier.json](./117819-the-tale-of-greenbrier.json) |
 | The Tale of Knightess Milia | 82922 | [82922-the-tale-of-knightess-milia.json](./82922-the-tale-of-knightess-milia.json) |
+| The Tale of Mara & Moa | 294025 | [294025-the-tale-of-mara-and-moa.json](./294025-the-tale-of-mara-and-moa.json) |
 | The Tale of Marena's Deft | 298716 | [298716-the-tale-of-marenas-deft.json](./298716-the-tale-of-marenas-deft.json) |
 | The Tale of Onogoro | 196312 | [196312-the-tale-of-onogoro.json](./196312-the-tale-of-onogoro.json) |
 | The Tale of Relm | 333396 | [333396-the-tale-of-relm.json](./333396-the-tale-of-relm.json) |
@@ -20235,6 +20237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twin Eagle | 68355 | [68355-twin-eagle.json](./68355-twin-eagle.json) |
 | Twin Eagle II | 70389 | [70389-twin-eagle-ii.json](./70389-twin-eagle-ii.json) |
 | Twin Goddesses | 43810 | [43810-twin-goddesses.json](./43810-twin-goddesses.json) |
+| Twin Hawk | 294036 | [294036-twin-hawk.json](./294036-twin-hawk.json) |
 | Twin Jump | 168621 | [168621-twin-jump.json](./168621-twin-jump.json) |
 | Twin Kingdom Valley | 12971 | [12971-twin-kingdom-valley.json](./12971-twin-kingdom-valley.json) |
 | Twin Mind: Nobody's Here | 228076 | [228076-twin-mind-nobodys-here.json](./228076-twin-mind-nobodys-here.json) |
