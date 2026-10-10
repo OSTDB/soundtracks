@@ -4629,6 +4629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Number Shoot VR | 292249 | [292249-number-shoot-vr.json](./292249-number-shoot-vr.json) |
 | Number Slide Puzzle | 228106 | [228106-number-slide-puzzle.json](./228106-number-slide-puzzle.json) |
 | Number Stomper | 338282 | [338282-number-stomper.json](./338282-number-stomper.json) |
+| Number Sums | 316954 | [316954-number-sums.json](./316954-number-sums.json) |
 | Number Tower | 341490 | [341490-number-tower.json](./341490-number-tower.json) |
 | Number Wars | 193474 | [193474-number-wars.json](./193474-number-wars.json) |
 | Number's Addict | 94187 | [94187-numbers-addict.json](./94187-numbers-addict.json) |
