@@ -4541,6 +4541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Dengi | 323417 | [323417-big-dengi.json](./323417-big-dengi.json) |
 | Big Dipper | 112798 | [112798-big-dipper.json](./112798-big-dipper.json) |
 | Big Drunk Satanic Massacre | 75067 | [75067-big-drunk-satanic-massacre.json](./75067-big-drunk-satanic-massacre.json) |
+| Big Ear Detective | 291897 | [291897-big-ear-detective.json](./291897-big-ear-detective.json) |
 | Big Entrepreneur | 227373 | [227373-big-entrepreneur.json](./227373-big-entrepreneur.json) |
 | Big Farm Home & Garden | 142735 | [142735-big-farm-home-and-garden.json](./142735-big-farm-home-and-garden.json) |
 | Big Farm Story | 138727 | [138727-big-farm-story.json](./138727-big-farm-story.json) |
@@ -6115,6 +6116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bleak Frontier | 258707 | [258707-bleak-frontier.json](./258707-bleak-frontier.json) |
 | Bleak Haven | 350435 | [350435-bleak-haven.json](./350435-bleak-haven.json) |
 | Bleak House | 311468 | [311468-bleak-house.json](./311468-bleak-house.json) |
+| Bleak Remastered | 291874 | [291874-bleak-remastered.json](./291874-bleak-remastered.json) |
 | Bleak Sword DX | 235203 | [235203-bleak-sword-dx.json](./235203-bleak-sword-dx.json) |
 | Bleak Winter | 259043 | [259043-bleak-winter.json](./259043-bleak-winter.json) |
 | Bleaklight Falls | 362270 | [362270-bleaklight-falls.json](./362270-bleaklight-falls.json) |
@@ -7397,6 +7399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bocchi the Smash! | 263594 | [263594-bocchi-the-smash.json](./263594-bocchi-the-smash.json) |
 | Bochi Collection | 391029 | [391029-bochi-collection.json](./391029-bochi-collection.json) |
 | Bod Squad | 47236 | [47236-bod-squad.json](./47236-bod-squad.json) |
+| Bod-1 | 291872 | [291872-bod-1.json](./291872-bod-1.json) |
 | Bodacious Babes: Holidays | 302436 | [302436-bodacious-babes-holidays.json](./302436-bodacious-babes-holidays.json) |
 | Bodacious Babes: Nightlife | 295370 | [295370-bodacious-babes-nightlife.json](./295370-bodacious-babes-nightlife.json) |
 | Bode Miller Alpine Skiing | 43553 | [43553-bode-miller-alpine-skiing.json](./43553-bode-miller-alpine-skiing.json) |
