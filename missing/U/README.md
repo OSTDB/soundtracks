@@ -540,6 +540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultra Frontier QQYYZZ | 387526 | [387526-ultra-frontier-qqyyzz.json](./387526-ultra-frontier-qqyyzz.json) |
 | Ultra Genjin | 282804 | [282804-ultra-genjin.json](./282804-ultra-genjin.json) |
 | Ultra Golf | 49057 | [49057-ultra-golf.json](./49057-ultra-golf.json) |
+| Ultra Hard! Spot the Difference Challenge | 306549 | [306549-ultra-hard-spot-the-difference-challenge.json](./306549-ultra-hard-spot-the-difference-challenge.json) |
 | Ultra Hat Dimension | 59472 | [59472-ultra-hat-dimension.json](./59472-ultra-hat-dimension.json) |
 | Ultra Hell | 83272 | [83272-ultra-hell.json](./83272-ultra-hell.json) |
 | Ultra Hot!! Pachi Game Spirit CR Evangelion: The First Gospel | 65557 | [65557-ultra-hot-pachi-game-spirit-cr-evangelion-the-first-gospel.json](./65557-ultra-hot-pachi-game-spirit-cr-evangelion-the-first-gospel.json) |
@@ -2010,6 +2011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Upheaveal | 216994 | [216994-upheaveal.json](./216994-upheaveal.json) |
 | Uphill | 306090 | [306090-uphill.json](./306090-uphill.json) |
 | Uphill Rush | 92114 | [92114-uphill-rush.json](./92114-uphill-rush.json) |
+| Uphill Stunt Driver: Extreme Racing Simulator | 306535 | [306535-uphill-stunt-driver-extreme-racing-simulator.json](./306535-uphill-stunt-driver-extreme-racing-simulator.json) |
 | Upin & Ipin Universe | 347867 | [347867-upin-and-ipin-universe.json](./347867-upin-and-ipin-universe.json) |
 | Upin Dash | 174232 | [174232-upin-dash.json](./174232-upin-dash.json) |
 | Uplife | 236775 | [236775-uplife.json](./236775-uplife.json) |
