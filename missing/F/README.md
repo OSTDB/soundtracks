@@ -855,6 +855,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallout 76: S.P.E.C.I.A.L. Edition | 109485 | [109485-fallout-76-s-p-e-c-i-a-l-edition.json](./109485-fallout-76-s-p-e-c-i-a-l-edition.json) |
 | Fallout 76: Season 11 - Nuka-World | 232689 | [232689-fallout-76-season-11-nuka-world.json](./232689-fallout-76-season-11-nuka-world.json) |
 | Fallout 76: Skyline Valley | 305150 | [305150-fallout-76-skyline-valley.json](./305150-fallout-76-skyline-valley.json) |
+| Fallout 76: Skyline Valley - Deluxe Edition | 305493 | [305493-fallout-76-skyline-valley-deluxe-edition.json](./305493-fallout-76-skyline-valley-deluxe-edition.json) |
+| Fallout 76: Skyline Valley - Lost Treasures Bundle | 305492 | [305492-fallout-76-skyline-valley-lost-treasures-bundle.json](./305492-fallout-76-skyline-valley-lost-treasures-bundle.json) |
 | Fallout 76: Steel Dawn - Deluxe Edition | 141647 | [141647-fallout-76-steel-dawn-deluxe-edition.json](./141647-fallout-76-steel-dawn-deluxe-edition.json) |
 | Fallout 76: Steel Reign | 152310 | [152310-fallout-76-steel-reign.json](./152310-fallout-76-steel-reign.json) |
 | Fallout 76: The Pitt | 217785 | [217785-fallout-76-the-pitt.json](./217785-fallout-76-the-pitt.json) |
@@ -5539,6 +5541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football | 346756 | [346756-football.json](./346756-football.json) |
 | Football (for the TI 99/4A) | 92702 | [92702-football-for-the-ti-99-4a.json](./92702-football-for-the-ti-99-4a.json) |
 | Football 2019 | 220064 | [220064-football-2019.json](./220064-football-2019.json) |
+| Football 2024 Journey | 305408 | [305408-football-2024-journey.json](./305408-football-2024-journey.json) |
 | Football Academy | 124015 | [124015-football-academy.json](./124015-football-academy.json) |
 | Football Academy Clicker | 152488 | [152488-football-academy-clicker.json](./152488-football-academy-clicker.json) |
 | Football Battle | 187243 | [187243-football-battle.json](./187243-football-battle.json) |
@@ -7369,6 +7372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frog Inc. | 394782 | [394782-frog-inc.json](./394782-frog-inc.json) |
 | Frog Jump | 273912 | [273912-frog-jump.json](./273912-frog-jump.json) |
 | Frog Jump | 351745 | [351745-frog-jump.json](./351745-frog-jump.json) |
+| Frog Jumper | 305406 | [305406-frog-jumper.json](./305406-frog-jumper.json) |
 | Frog King | 181219 | [181219-frog-king.json](./181219-frog-king.json) |
 | Frog King | 289452 | [289452-frog-king.json](./289452-frog-king.json) |
 | Frog Knight | 381175 | [381175-frog-knight.json](./381175-frog-knight.json) |
@@ -7394,6 +7398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frogatto & Friends | 343974 | [343974-frogatto-and-friends.json](./343974-frogatto-and-friends.json) |
 | Frogatto & Friends | 343976 | [343976-frogatto-and-friends.json](./343976-frogatto-and-friends.json) |
 | Frogenlav: Skyward Bound | 278418 | [278418-frogenlav-skyward-bound.json](./278418-frogenlav-skyward-bound.json) |
+| Frogfall | 305420 | [305420-frogfall.json](./305420-frogfall.json) |
 | FrogFlop | 313295 | [313295-frogflop.json](./313295-frogflop.json) |
 | Froggee | 93020 | [93020-froggee.json](./93020-froggee.json) |
 | Frogger | 11465 | [11465-frogger.json](./11465-frogger.json) |
