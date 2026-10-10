@@ -1776,6 +1776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oni V: Innin no Tsugumono | 63369 | [63369-oni-v-innin-no-tsugumono.json](./63369-oni-v-innin-no-tsugumono.json) |
 | Oni Zero: Fukkatsu | 166563 | [166563-oni-zero-fukkatsu.json](./166563-oni-zero-fukkatsu.json) |
 | Oni: Road to be the Mightiest Oni | 194944 | [194944-oni-road-to-be-the-mightiest-oni.json](./194944-oni-road-to-be-the-mightiest-oni.json) |
+| Onibito Kiki | 324857 | [324857-onibito-kiki.json](./324857-onibito-kiki.json) |
 | Onigami | 184562 | [184562-onigami.json](./184562-onigami.json) |
 | Onigami Korinden Oni | 67612 | [67612-onigami-korinden-oni.json](./67612-onigami-korinden-oni.json) |
 | Onigashima: Awakening | 406103 | [406103-onigashima-awakening.json](./406103-onigashima-awakening.json) |
@@ -3503,6 +3504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overwatch 2: My Hero Academia | 317819 | [317819-overwatch-2-my-hero-academia.json](./317819-overwatch-2-my-hero-academia.json) |
 | Overwatch 2: PlayStation Plus Mega Bundle | 316064 | [316064-overwatch-2-playstation-plus-mega-bundle.json](./316064-overwatch-2-playstation-plus-mega-bundle.json) |
 | Overwatch 2: Season 13 - Spellbinder | 319357 | [319357-overwatch-2-season-13-spellbinder.json](./319357-overwatch-2-season-13-spellbinder.json) |
+| Overwatch 2: Season 14 - Hazard | 324865 | [324865-overwatch-2-season-14-hazard.json](./324865-overwatch-2-season-14-hazard.json) |
 | Overwatch 2: Season 15 - Honor & Glory | 331286 | [331286-overwatch-2-season-15-honor-and-glory.json](./331286-overwatch-2-season-15-honor-and-glory.json) |
 | Overwatch 2: Season 16 - Stadium | 341007 | [341007-overwatch-2-season-16-stadium.json](./341007-overwatch-2-season-16-stadium.json) |
 | Overwatch 2: Season 17 - Powered Up! | 350615 | [350615-overwatch-2-season-17-powered-up.json](./350615-overwatch-2-season-17-powered-up.json) |
