@@ -58,6 +58,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | B.I.T | 99182 | [99182-b-i-t.json](./99182-b-i-t.json) |
 | B.M.G 19: Bike Messenger Go! | 115707 | [115707-b-m-g-19-bike-messenger-go.json](./115707-b-m-g-19-bike-messenger-go.json) |
 | B.O.A.T.S | 176832 | [176832-b-o-a-t-s.json](./176832-b-o-a-t-s.json) |
+| B.O.B. | 302720 | [302720-b-o-b.json](./302720-b-o-b.json) |
 | B.O.B. | 84774 | [84774-b-o-b.json](./84774-b-o-b.json) |
 | B.O.B.2 | 303812 | [303812-b-o-b-2.json](./303812-b-o-b-2.json) |
 | B.O.D.A.: Send the Plant Home | 183967 | [183967-b-o-d-a-send-the-plant-home.json](./183967-b-o-d-a-send-the-plant-home.json) |
@@ -505,6 +506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Bad | 195235 | [195235-bad-bad.json](./195235-bad-bad.json) |
 | Bad Badtz-Maru Robo Battle | 92603 | [92603-bad-badtz-maru-robo-battle.json](./92603-bad-badtz-maru-robo-battle.json) |
 | Bad Banker | 57747 | [57747-bad-banker.json](./57747-bad-banker.json) |
+| Bad Birds | 302774 | [302774-bad-birds.json](./302774-bad-birds.json) |
 | Bad Bitch Blasters | 337996 | [337996-bad-bitch-blasters.json](./337996-bad-bitch-blasters.json) |
 | Bad Blood | 11335 | [11335-bad-blood.json](./11335-bad-blood.json) |
 | Bad Blood: 1926 | 297709 | [297709-bad-blood-1926.json](./297709-bad-blood-1926.json) |
@@ -570,6 +572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Name | 98000 | [98000-bad-name.json](./98000-bad-name.json) |
 | Bad Nerd | 360090 | [360090-bad-nerd.json](./360090-bad-nerd.json) |
 | Bad News Baseball | 9167 | [9167-bad-news-baseball.json](./9167-bad-news-baseball.json) |
+| Bad North: Jotunn Edition | 302647 | [302647-bad-north-jotunn-edition.json](./302647-bad-north-jotunn-edition.json) |
 | Bad Note | 111865 | [111865-bad-note.json](./111865-bad-note.json) |
 | Bad Pad | 31579 | [31579-bad-pad.json](./31579-bad-pad.json) |
 | Bad Parenthood | 330397 | [330397-bad-parenthood.json](./330397-bad-parenthood.json) |
@@ -3811,6 +3814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ben 10 Slammers | 88305 | [88305-ben-10-slammers.json](./88305-ben-10-slammers.json) |
 | Ben 10 Triple Pack | 86074 | [86074-ben-10-triple-pack.json](./86074-ben-10-triple-pack.json) |
 | Ben 10 Ultimate Alien: Mind Mine | 231387 | [231387-ben-10-ultimate-alien-mind-mine.json](./231387-ben-10-ultimate-alien-mind-mine.json) |
+| Ben 10 Ultimate Alien: Ultimate Crisis | 302729 | [302729-ben-10-ultimate-alien-ultimate-crisis.json](./302729-ben-10-ultimate-alien-ultimate-crisis.json) |
 | Ben 10: 012 - Projectile Mod: Shardblaster | 363811 | [363811-ben-10-012-projectile-mod-shardblaster.json](./363811-ben-10-012-projectile-mod-shardblaster.json) |
 | Ben 10: 013 - Attack Mod: Laserwave | 363815 | [363815-ben-10-013-attack-mod-laserwave.json](./363815-ben-10-013-attack-mod-laserwave.json) |
 | Ben 10: 014 - Attack Mod: Prismforce | 363816 | [363816-ben-10-014-attack-mod-prismforce.json](./363816-ben-10-014-attack-mod-prismforce.json) |
@@ -3987,6 +3991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bernband | 348252 | [348252-bernband.json](./348252-bernband.json) |
 | Bernie's Nightmare | 105586 | [105586-bernies-nightmare.json](./105586-bernies-nightmare.json) |
 | Berries Challenge | 159830 | [159830-berries-challenge.json](./159830-berries-challenge.json) |
+| Berry Barrel Blitz | 302766 | [302766-berry-barrel-blitz.json](./302766-berry-barrel-blitz.json) |
 | Berry Brother | 257662 | [257662-berry-brother.json](./257662-berry-brother.json) |
 | Berry Couple | 334799 | [334799-berry-couple.json](./334799-berry-couple.json) |
 | Berry Hunt Survivors | 247779 | [247779-berry-hunt-survivors.json](./247779-berry-hunt-survivors.json) |
