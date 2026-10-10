@@ -363,6 +363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lakefront Restaurant | 272303 | [272303-lakefront-restaurant.json](./272303-lakefront-restaurant.json) |
 | Lakehopper | 381376 | [381376-lakehopper.json](./381376-lakehopper.json) |
 | Lakehouse | 191189 | [191189-lakehouse.json](./191189-lakehouse.json) |
+| Lakelight Elementary Incident 68 | 285399 | [285399-lakelight-elementary-incident-68.json](./285399-lakelight-elementary-incident-68.json) |
 | LakeQueen | 394130 | [394130-lakequeen.json](./394130-lakequeen.json) |
 | Lakeside | 269563 | [269563-lakeside.json](./269563-lakeside.json) |
 | LakeSide | 149236 | [149236-lakeside.json](./149236-lakeside.json) |
@@ -3371,6 +3372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lingering Fragrance | 105599 | [105599-lingering-fragrance.json](./105599-lingering-fragrance.json) |
 | Lingering Legacy | 156086 | [156086-lingering-legacy.json](./156086-lingering-legacy.json) |
 | Lingering Shadows | 352320 | [352320-lingering-shadows.json](./352320-lingering-shadows.json) |
+| Lingering Souls | 285412 | [285412-lingering-souls.json](./285412-lingering-souls.json) |
 | LingerToAlive | 231351 | [231351-lingertoalive.json](./231351-lingertoalive.json) |
 | Linggango | 383935 | [383935-linggango.json](./383935-linggango.json) |
 | Língjiè Zhànxiàn | 127189 | [127189-lingjie-zhanxian.json](./127189-lingjie-zhanxian.json) |
