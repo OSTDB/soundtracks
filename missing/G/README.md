@@ -332,6 +332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Foodtruck Simulator 2999 | 281412 | [281412-galactic-foodtruck-simulator-2999.json](./281412-galactic-foodtruck-simulator-2999.json) |
 | Galactic Force | 81682 | [81682-galactic-force.json](./81682-galactic-force.json) |
 | Galactic Frontier | 190134 | [190134-galactic-frontier.json](./190134-galactic-frontier.json) |
+| Galactic Frontiers: Defense Protocol | 294050 | [294050-galactic-frontiers-defense-protocol.json](./294050-galactic-frontiers-defense-protocol.json) |
 | Galactic Gallery | 105899 | [105899-galactic-gallery.json](./105899-galactic-gallery.json) |
 | Galactic Gardener | 313101 | [313101-galactic-gardener.json](./313101-galactic-gardener.json) |
 | Galactic Gardener | 377587 | [377587-galactic-gardener.json](./377587-galactic-gardener.json) |
@@ -388,6 +389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Vault | 364389 | [364389-galactic-vault.json](./364389-galactic-vault.json) |
 | Galactic Veins | 346159 | [346159-galactic-veins.json](./346159-galactic-veins.json) |
 | Galactic Vibes | 336890 | [336890-galactic-vibes.json](./336890-galactic-vibes.json) |
+| Galactic War One | 294034 | [294034-galactic-war-one.json](./294034-galactic-war-one.json) |
 | Galactic Warfare Collection | 414456 | [414456-galactic-warfare-collection.json](./414456-galactic-warfare-collection.json) |
 | Galactic Warp | 178637 | [178637-galactic-warp.json](./178637-galactic-warp.json) |
 | Galactic Warrior | 28817 | [28817-galactic-warrior.json](./28817-galactic-warrior.json) |
@@ -2010,6 +2012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Georifters | 114539 | [114539-georifters.json](./114539-georifters.json) |
 | GeoSpark | 67234 | [67234-geospark.json](./67234-geospark.json) |
 | Geostorm | 74514 | [74514-geostorm.json](./74514-geostorm.json) |
+| GeoStrategic | 294056 | [294056-geostrategic.json](./294056-geostrategic.json) |
 | Geotastic | 142722 | [142722-geotastic.json](./142722-geotastic.json) |
 | GeoWar | 127316 | [127316-geowar.json](./127316-geowar.json) |
 | Geppaku: Monogatari | 342664 | [342664-geppaku-monogatari.json](./342664-geppaku-monogatari.json) |
@@ -6244,6 +6247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guilty Gear XX Slash | 9144 | [9144-guilty-gear-xx-slash.json](./9144-guilty-gear-xx-slash.json) |
 | Guilty Gear: Strive - Additional Battle Stage: Amber Fest with Kind Neighbors | 299723 | [299723-guilty-gear-strive-additional-battle-stage-amber-fest-with-kind-neighbors.json](./299723-guilty-gear-strive-additional-battle-stage-amber-fest-with-kind-neighbors.json) |
 | Guilty Gear: Strive - Additional Battle Stage: Fairy's Forest Factory | 254564 | [254564-guilty-gear-strive-additional-battle-stage-fairys-forest-factory.json](./254564-guilty-gear-strive-additional-battle-stage-fairys-forest-factory.json) |
+| Guilty Gear: Strive - Additional Battle Stage: Fallen Prayer, Engulfed Lives | 294020 | [294020-guilty-gear-strive-additional-battle-stage-fallen-prayer-engulfed-lives.json](./294020-guilty-gear-strive-additional-battle-stage-fallen-prayer-engulfed-lives.json) |
 | Guilty Gear: Strive - Additional Battle Stage: Lap of the Kami | 254561 | [254561-guilty-gear-strive-additional-battle-stage-lap-of-the-kami.json](./254561-guilty-gear-strive-additional-battle-stage-lap-of-the-kami.json) |
 | Guilty Gear: Strive - Additional Battle Stage: Tír na nÓg | 254566 | [254566-guilty-gear-strive-additional-battle-stage-tir-na-nog.json](./254566-guilty-gear-strive-additional-battle-stage-tir-na-nog.json) |
 | Guilty Gear: Strive - Additional Battle Stage: White House Reborn | 254562 | [254562-guilty-gear-strive-additional-battle-stage-white-house-reborn.json](./254562-guilty-gear-strive-additional-battle-stage-white-house-reborn.json) |
