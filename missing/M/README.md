@@ -3581,6 +3581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Matrix Bullet | 266766 | [266766-matrix-bullet.json](./266766-matrix-bullet.json) |
 | Matrix Mahjong | 392317 | [392317-matrix-mahjong.json](./392317-matrix-mahjong.json) |
 | Matryona no Yuube | 150556 | [150556-matryona-no-yuube.json](./150556-matryona-no-yuube.json) |
+| Matryoshka | 326572 | [326572-matryoshka.json](./326572-matryoshka.json) |
 | Matsudaira's Myoshu: A Sengoku Village Simulator | 291470 | [291470-matsudairas-myoshu-a-sengoku-village-simulator.json](./291470-matsudairas-myoshu-a-sengoku-village-simulator.json) |
 | Matsukata Hiroki no Super Trawling | 37930 | [37930-matsukata-hiroki-no-super-trawling.json](./37930-matsukata-hiroki-no-super-trawling.json) |
 | Matsukeke Burst! | 288297 | [288297-matsukeke-burst.json](./288297-matsukeke-burst.json) |
@@ -5657,6 +5658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merge Gardens | 227368 | [227368-merge-gardens.json](./227368-merge-gardens.json) |
 | Merge Gems! | 97154 | [97154-merge-gems.json](./97154-merge-gems.json) |
 | Merge Girls | 212490 | [212490-merge-girls.json](./212490-merge-girls.json) |
+| Merge Hamster | 326860 | [326860-merge-hamster.json](./326860-merge-hamster.json) |
 | Merge Hexa Puzzle | 348742 | [348742-merge-hexa-puzzle.json](./348742-merge-hexa-puzzle.json) |
 | Merge Hidden | 409720 | [409720-merge-hidden.json](./409720-merge-hidden.json) |
 | Merge Jelly | 208935 | [208935-merge-jelly.json](./208935-merge-jelly.json) |
@@ -9041,6 +9043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mom Crush: Hidden Hotel Love Story | 387673 | [387673-mom-crush-hidden-hotel-love-story.json](./387673-mom-crush-hidden-hotel-love-story.json) |
 | Mom Hid My Game! | 78160 | [78160-mom-hid-my-game.json](./78160-mom-hid-my-game.json) |
 | Mom Simulator 2023 | 277841 | [277841-mom-simulator-2023.json](./277841-mom-simulator-2023.json) |
+| Mombo Combo Legacy | 326858 | [326858-mombo-combo-legacy.json](./326858-mombo-combo-legacy.json) |
 | Moment of Moonset | 284599 | [284599-moment-of-moonset.json](./284599-moment-of-moonset.json) |
 | Momento | 279123 | [279123-momento.json](./279123-momento.json) |
 | Momento Isles | 385393 | [385393-momento-isles.json](./385393-momento-isles.json) |
