@@ -6338,6 +6338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Flying | 359387 | [359387-block-flying.json](./359387-block-flying.json) |
 | Block Force | 247454 | [247454-block-force.json](./247454-block-force.json) |
 | Block Force | 400447 | [400447-block-force.json](./400447-block-force.json) |
+| Block Fortress 2 | 318705 | [318705-block-fortress-2.json](./318705-block-fortress-2.json) |
 | Block Gal | 38587 | [38587-block-gal.json](./38587-block-gal.json) |
 | Block Gun | 255332 | [255332-block-gun.json](./255332-block-gun.json) |
 | Block Heads: Instakill | 108305 | [108305-block-heads-instakill.json](./108305-block-heads-instakill.json) |
