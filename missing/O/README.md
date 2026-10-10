@@ -1295,6 +1295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | On Thy Knees | 393483 | [393483-on-thy-knees.json](./393483-on-thy-knees.json) |
 | On Track | 292509 | [292509-on-track.json](./292509-on-track.json) |
 | On Tuesday, Trevor Found His Shovel | 267553 | [267553-on-tuesday-trevor-found-his-shovel.json](./267553-on-tuesday-trevor-found-his-shovel.json) |
+| On Wasteland | 284295 | [284295-on-wasteland.json](./284295-on-wasteland.json) |
 | On Your Mark | 120115 | [120115-on-your-mark.json](./120115-on-your-mark.json) |
 | On Your Notebook | 365845 | [365845-on-your-notebook.json](./365845-on-your-notebook.json) |
 | On-looker | 129203 | [129203-on-looker.json](./129203-on-looker.json) |
@@ -1529,6 +1530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One More Trail | 400855 | [400855-one-more-trail.json](./400855-one-more-trail.json) |
 | One More Treasure | 369133 | [369133-one-more-treasure.json](./369133-one-more-treasure.json) |
 | One More Wipe! | 389594 | [389594-one-more-wipe.json](./389594-one-more-wipe.json) |
+| One More Wish | 284276 | [284276-one-more-wish.json](./284276-one-more-wish.json) |
 | One more! | 304849 | [304849-one-more.json](./304849-one-more.json) |
 | One Move Away | 325581 | [325581-one-move-away.json](./325581-one-move-away.json) |
 | One Must Fall | 14428 | [14428-one-must-fall.json](./14428-one-must-fall.json) |
