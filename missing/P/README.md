@@ -648,6 +648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panda City | 160131 | [160131-panda-city.json](./160131-panda-city.json) |
 | Panda Dodgeball | 79549 | [79549-panda-dodgeball.json](./79549-panda-dodgeball.json) |
 | Panda Dynasty | 177927 | [177927-panda-dynasty.json](./177927-panda-dynasty.json) |
+| Panda Eat Bamboo | 326100 | [326100-panda-eat-bamboo.json](./326100-panda-eat-bamboo.json) |
 | Panda Go | 275118 | [275118-panda-go.json](./275118-panda-go.json) |
 | Panda Hero: Remastered | 143054 | [143054-panda-hero-remastered.json](./143054-panda-hero-remastered.json) |
 | Panda in the clouds | 165645 | [165645-panda-in-the-clouds.json](./165645-panda-in-the-clouds.json) |
@@ -1925,6 +1926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paul Sloane & Des MacHale's Intriguing Tales | 123377 | [123377-paul-sloane-and-des-machales-intriguing-tales.json](./123377-paul-sloane-and-des-machales-intriguing-tales.json) |
 | Paul Sloane & Des MacHale's Intriguing Tales 2 | 123378 | [123378-paul-sloane-and-des-machales-intriguing-tales-2.json](./123378-paul-sloane-and-des-machales-intriguing-tales-2.json) |
 | Paul: vs. The CIA Gold | 153023 | [153023-paul-vs-the-cia-gold.json](./153023-paul-vs-the-cia-gold.json) |
+| Paulblast! | 326108 | [326108-paulblast.json](./326108-paulblast.json) |
 | Pauli's Adventure Island | 264101 | [264101-paulis-adventure-island.json](./264101-paulis-adventure-island.json) |
 | Paulo | 86056 | [86056-paulo.json](./86056-paulo.json) |
 | PaulPaul - Act 1 | 105142 | [105142-paulpaul-act-1.json](./105142-paulpaul-act-1.json) |
@@ -10416,6 +10418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Punch-Out!! | 9150 | [9150-punch-out.json](./9150-punch-out.json) |
 | Punch! | 321956 | [321956-punch.json](./321956-punch.json) |
 | Punch'Em Up | 307605 | [307605-punchem-up.json](./307605-punchem-up.json) |
+| Punchball | 326107 | [326107-punchball.json](./326107-punchball.json) |
 | Punchball | 350054 | [350054-punchball.json](./350054-punchball.json) |
 | Punched | 190465 | [190465-punched.json](./190465-punched.json) |
 | Punchgolf | 291035 | [291035-punchgolf.json](./291035-punchgolf.json) |
