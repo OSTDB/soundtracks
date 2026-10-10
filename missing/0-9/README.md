@@ -1794,6 +1794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 7th Sector | 115336 | [115336-7th-sector.json](./115336-7th-sector.json) |
 | 7th Sector: Museum | 172115 | [172115-7th-sector-museum.json](./172115-7th-sector-museum.json) |
 | 7Worlds: The Dreaming Dale | 129012 | [129012-7worlds-the-dreaming-dale.json](./129012-7worlds-the-dreaming-dale.json) |
+| 7Years | 311157 | [311157-7years.json](./311157-7years.json) |
 | 8 Ball 2 | 219515 | [219515-8-ball-2.json](./219515-8-ball-2.json) |
 | 8 Ball 3 | 232450 | [232450-8-ball-3.json](./232450-8-ball-3.json) |
 | 8 Ball 4 | 400987 | [400987-8-ball-4.json](./400987-8-ball-4.json) |
