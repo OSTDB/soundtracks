@@ -7752,6 +7752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Zelda: Link's Awakening DX | 1027 | [1027-the-legend-of-zelda-links-awakening-dx.json](./1027-the-legend-of-zelda-links-awakening-dx.json) |
 | The Legend of Zelda: Link's Awakening DX Randomizer | 242028 | [242028-the-legend-of-zelda-links-awakening-dx-randomizer.json](./242028-the-legend-of-zelda-links-awakening-dx-randomizer.json) |
 | The Legend of Zelda: Link's Awakening Redux | 219081 | [219081-the-legend-of-zelda-links-awakening-redux.json](./219081-the-legend-of-zelda-links-awakening-redux.json) |
+| The Legend of Zelda: Link's Initiation | 330688 | [330688-the-legend-of-zelda-links-initiation.json](./330688-the-legend-of-zelda-links-initiation.json) |
 | The Legend of Zelda: Link's Shadow | 269867 | [269867-the-legend-of-zelda-links-shadow.json](./269867-the-legend-of-zelda-links-shadow.json) |
 | The Legend of Zelda: Majora's Mask - Masked Quest | 172482 | [172482-the-legend-of-zelda-majoras-mask-masked-quest.json](./172482-the-legend-of-zelda-majoras-mask-masked-quest.json) |
 | The Legend of Zelda: Majora's Mask 3D | 8593 | [8593-the-legend-of-zelda-majoras-mask-3d.json](./8593-the-legend-of-zelda-majoras-mask-3d.json) |
@@ -8902,6 +8903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ourboros King | 215374 | [215374-the-ourboros-king.json](./215374-the-ourboros-king.json) |
 | The Ouroboros Express | 325529 | [325529-the-ouroboros-express.json](./325529-the-ouroboros-express.json) |
 | The Ouroboros King | 215098 | [215098-the-ouroboros-king.json](./215098-the-ouroboros-king.json) |
+| The Ouroborous Incident | 330695 | [330695-the-ouroborous-incident.json](./330695-the-ouroborous-incident.json) |
 | The Out Door | 312723 | [312723-the-out-door.json](./312723-the-out-door.json) |
 | The Outbreak Guardian | 168185 | [168185-the-outbreak-guardian.json](./168185-the-outbreak-guardian.json) |
 | The Outcast Lovers | 135899 | [135899-the-outcast-lovers.json](./135899-the-outcast-lovers.json) |
@@ -9146,6 +9148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Potion Master | 232549 | [232549-the-potion-master.json](./232549-the-potion-master.json) |
 | The Potion Shop | 225741 | [225741-the-potion-shop.json](./225741-the-potion-shop.json) |
 | The Poulet sans Tête | 350365 | [350365-the-poulet-sans-tete.json](./350365-the-poulet-sans-tete.json) |
+| The Pow-er | 330690 | [330690-the-pow-er.json](./330690-the-pow-er.json) |
 | The Power | 137071 | [137071-the-power.json](./137071-the-power.json) |
 | The Power Latch Kid | 152493 | [152493-the-power-latch-kid.json](./152493-the-power-latch-kid.json) |
 | The power of chaos | 118369 | [118369-the-power-of-chaos.json](./118369-the-power-of-chaos.json) |
