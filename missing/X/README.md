@@ -494,6 +494,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xiao La: Fantasy Dream | 272365 | [272365-xiao-la-fantasy-dream.json](./272365-xiao-la-fantasy-dream.json) |
 | Xiǎo Qiàn Dàmàoxiǎn | 359475 | [359475-xiao-qian-damaoxian.json](./359475-xiao-qian-damaoxian.json) |
 | Xiǎo Qiān Mófǎ Zhèng | 359474 | [359474-xiao-qian-mofa-zheng.json](./359474-xiao-qian-mofa-zheng.json) |
+| Xiao Xiao No. 2 | 290870 | [290870-xiao-xiao-no-2.json](./290870-xiao-xiao-no-2.json) |
+| Xiao Xiao No. 4 | 290869 | [290869-xiao-xiao-no-4.json](./290869-xiao-xiao-no-4.json) |
+| Xiao Xiao No. 6 | 290868 | [290868-xiao-xiao-no-6.json](./290868-xiao-xiao-no-6.json) |
 | Xiǎohēihé Jiāsùqì | 147369 | [147369-xiaoheihe-jiasuqi.json](./147369-xiaoheihe-jiasuqi.json) |
 | Xiǎojiě Wànsuì | 399289 | [399289-xiaojie-wansui.json](./399289-xiaojie-wansui.json) |
 | Xiàrì de Huíyì | 163905 | [163905-xiari-de-huiyi.json](./163905-xiari-de-huiyi.json) |
