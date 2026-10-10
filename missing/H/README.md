@@ -4094,6 +4094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Capybaras with Orange in the Whimsical Library | 321138 | [321138-hidden-capybaras-with-orange-in-the-whimsical-library.json](./321138-hidden-capybaras-with-orange-in-the-whimsical-library.json) |
 | Hidden Cats | 183564 | [183564-hidden-cats.json](./183564-hidden-cats.json) |
 | Hidden Cats In Amusement Park | 263791 | [263791-hidden-cats-in-amusement-park.json](./263791-hidden-cats-in-amusement-park.json) |
+| Hidden Cats In ButtonWood Street | 322033 | [322033-hidden-cats-in-buttonwood-street.json](./322033-hidden-cats-in-buttonwood-street.json) |
 | Hidden Cats in Christmas | 379445 | [379445-hidden-cats-in-christmas.json](./379445-hidden-cats-in-christmas.json) |
 | Hidden Cats In Fallen Leaves Town | 311486 | [311486-hidden-cats-in-fallen-leaves-town.json](./311486-hidden-cats-in-fallen-leaves-town.json) |
 | Hidden Cats in Istanbul | 365755 | [365755-hidden-cats-in-istanbul.json](./365755-hidden-cats-in-istanbul.json) |
