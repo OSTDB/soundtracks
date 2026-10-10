@@ -6209,6 +6209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ano Subarashii Bento wo 2-do 3-do | 336178 | [336178-ano-subarashii-bento-wo-2-do-3-do.json](./336178-ano-subarashii-bento-wo-2-do-3-do.json) |
 | Ano, Subarashii wo Mou Ichido: Saisouban HD | 251530 | [251530-ano-subarashii-wo-mou-ichido-saisouban-hd.json](./251530-ano-subarashii-wo-mou-ichido-saisouban-hd.json) |
 | Anode Heart 2 | 345994 | [345994-anode-heart-2.json](./345994-anode-heart-2.json) |
+| Anode Heart: Layer Null | 319845 | [319845-anode-heart-layer-null.json](./319845-anode-heart-layer-null.json) |
 | Anodos | 211398 | [211398-anodos.json](./211398-anodos.json) |
 | Anodyne 2: Return to Dust | 104890 | [104890-anodyne-2-return-to-dust.json](./104890-anodyne-2-return-to-dust.json) |
 | Anodyne Mobile | 108454 | [108454-anodyne-mobile.json](./108454-anodyne-mobile.json) |
@@ -8573,6 +8574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Artificial Iridescence | 121514 | [121514-artificial-iridescence.json](./121514-artificial-iridescence.json) |
 | Artificial Life | 175221 | [175221-artificial-life.json](./175221-artificial-life.json) |
 | Artificial Life Simulator | 287719 | [287719-artificial-life-simulator.json](./287719-artificial-life-simulator.json) |
+| Artificial Nexus | 319849 | [319849-artificial-nexus.json](./319849-artificial-nexus.json) |
 | Artificial Superintelligence | 174353 | [174353-artificial-superintelligence.json](./174353-artificial-superintelligence.json) |
 | Artificiality | 115144 | [115144-artificiality.json](./115144-artificiality.json) |
 | Artika.1 | 74317 | [74317-artika-1.json](./74317-artika-1.json) |
@@ -9464,6 +9466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astroblaster | 207777 | [207777-astroblaster.json](./207777-astroblaster.json) |
 | Astroblaze | 300770 | [300770-astroblaze.json](./300770-astroblaze.json) |
 | Astroblitz | 146299 | [146299-astroblitz.json](./146299-astroblitz.json) |
+| Astrobotanica | 319853 | [319853-astrobotanica.json](./319853-astrobotanica.json) |
 | Astrobuilder | 334690 | [334690-astrobuilder.json](./334690-astrobuilder.json) |
 | Astroburrow | 358375 | [358375-astroburrow.json](./358375-astroburrow.json) |
 | Astrocat: Milky Way Journey | 196264 | [196264-astrocat-milky-way-journey.json](./196264-astrocat-milky-way-journey.json) |
@@ -10567,6 +10570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Awaken | 183954 | [183954-awaken.json](./183954-awaken.json) |
 | Awaken | 27276 | [27276-awaken.json](./27276-awaken.json) |
 | Awaken in Fear | 414439 | [414439-awaken-in-fear.json](./414439-awaken-in-fear.json) |
+| Awaken Infinity | 319841 | [319841-awaken-infinity.json](./319841-awaken-infinity.json) |
 | Awaken the Time | 132236 | [132236-awaken-the-time.json](./132236-awaken-the-time.json) |
 | Awaken: Astral Blade | 175679 | [175679-awaken-astral-blade.json](./175679-awaken-astral-blade.json) |
 | Awaken: Chaos Era | 168327 | [168327-awaken-chaos-era.json](./168327-awaken-chaos-era.json) |
