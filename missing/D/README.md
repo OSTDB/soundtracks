@@ -1268,6 +1268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkest Hunters | 115409 | [115409-darkest-hunters.json](./115409-darkest-hunters.json) |
 | Darkest Light | 294127 | [294127-darkest-light.json](./294127-darkest-light.json) |
 | Darkest Maze | 99224 | [99224-darkest-maze.json](./99224-darkest-maze.json) |
+| Darkest Mine | 316967 | [316967-darkest-mine.json](./316967-darkest-mine.json) |
 | Darkest Moon | 132001 | [132001-darkest-moon.json](./132001-darkest-moon.json) |
 | Darkest of Days | 4219 | [4219-darkest-of-days.json](./4219-darkest-of-days.json) |
 | Darkest Path | 400399 | [400399-darkest-path.json](./400399-darkest-path.json) |
@@ -1432,6 +1433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dash and Slash | 199587 | [199587-dash-and-slash.json](./199587-dash-and-slash.json) |
 | Dash Arena | 271694 | [271694-dash-arena.json](./271694-dash-arena.json) |
 | Dash Blitz | 90079 | [90079-dash-blitz.json](./90079-dash-blitz.json) |
+| Dash Cats | 316936 | [316936-dash-cats.json](./316936-dash-cats.json) |
 | Dash Connect 2 | 368577 | [368577-dash-connect-2.json](./368577-dash-connect-2.json) |
 | Dash Dash Delivery | 160264 | [160264-dash-dash-delivery.json](./160264-dash-dash-delivery.json) |
 | Dash Dash Run! | 54505 | [54505-dash-dash-run.json](./54505-dash-dash-run.json) |
@@ -2679,6 +2681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Merchant | 293228 | [293228-death-merchant.json](./293228-death-merchant.json) |
 | Death Mile | 259241 | [259241-death-mile.json](./259241-death-mile.json) |
 | Death Moon | 156712 | [156712-death-moon.json](./156712-death-moon.json) |
+| Death Moon | 316962 | [316962-death-moon.json](./316962-death-moon.json) |
 | Death Motel | 283281 | [283281-death-motel.json](./283281-death-motel.json) |
 | Death Moto | 242001 | [242001-death-moto.json](./242001-death-moto.json) |
 | Death Moto 3 | 237964 | [237964-death-moto-3.json](./237964-death-moto-3.json) |
@@ -7670,6 +7673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donna Brave: Paris Strangler | 104592 | [104592-donna-brave-paris-strangler.json](./104592-donna-brave-paris-strangler.json) |
 | Donna Kanji? Ii Kanji | 256271 | [256271-donna-kanji-ii-kanji.json](./256271-donna-kanji-ii-kanji.json) |
 | Donna the Firebreather | 418525 | [418525-donna-the-firebreather.json](./418525-donna-the-firebreather.json) |
+| Donnie the Chao Final Mix | 316971 | [316971-donnie-the-chao-final-mix.json](./316971-donnie-the-chao-final-mix.json) |
 | Donnie's Delicious Nuclear Funeral | 390521 | [390521-donnies-delicious-nuclear-funeral.json](./390521-donnies-delicious-nuclear-funeral.json) |
 | Donny Donut: Dokrats | 265689 | [265689-donny-donut-dokrats.json](./265689-donny-donut-dokrats.json) |
 | Donny Donut: Stardust | 417697 | [417697-donny-donut-stardust.json](./417697-donny-donut-stardust.json) |
