@@ -1849,6 +1849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Robot Battle Line | 92121 | [92121-real-robot-battle-line.json](./92121-real-robot-battle-line.json) |
 | Real Robots Final Attack | 68026 | [68026-real-robots-final-attack.json](./68026-real-robots-final-attack.json) |
 | Real Scary | 117864 | [117864-real-scary.json](./117864-real-scary.json) |
+| Real School Girl Simulator | 296760 | [296760-real-school-girl-simulator.json](./296760-real-school-girl-simulator.json) |
 | Real Shot VR | 98477 | [98477-real-shot-vr.json](./98477-real-shot-vr.json) |
 | Real Soccer 2007 | 116347 | [116347-real-soccer-2007.json](./116347-real-soccer-2007.json) |
 | Real Soccer 2009 | 20126 | [20126-real-soccer-2009.json](./20126-real-soccer-2009.json) |
