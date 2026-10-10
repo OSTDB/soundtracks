@@ -410,6 +410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty: Black Ops III - Hardened Edition | 41615 | [41615-call-of-duty-black-ops-iii-hardened-edition.json](./41615-call-of-duty-black-ops-iii-hardened-edition.json) |
 | Call of Duty: Black Ops Mobile | 135300 | [135300-call-of-duty-black-ops-mobile.json](./135300-call-of-duty-black-ops-mobile.json) |
 | Call of Duty: Definitive Collection - Volume 1 | 52718 | [52718-call-of-duty-definitive-collection-volume-1.json](./52718-call-of-duty-definitive-collection-volume-1.json) |
+| Call of Duty: Deluxe Edition | 285392 | [285392-call-of-duty-deluxe-edition.json](./285392-call-of-duty-deluxe-edition.json) |
 | Call of Duty: Endowment (C.O.D.E.) Warrior Pack | 276273 | [276273-call-of-duty-endowment-c-o-d-e-warrior-pack.json](./276273-call-of-duty-endowment-c-o-d-e-warrior-pack.json) |
 | Call of Duty: Future Warfare | 294871 | [294871-call-of-duty-future-warfare.json](./294871-call-of-duty-future-warfare.json) |
 | Call of Duty: Game of the Year Edition | 292788 | [292788-call-of-duty-game-of-the-year-edition.json](./292788-call-of-duty-game-of-the-year-edition.json) |
@@ -2880,6 +2881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cavemen Tales: Collector's Edition | 260294 | [260294-cavemen-tales-collectors-edition.json](./260294-cavemen-tales-collectors-edition.json) |
 | Cavemen vs. Aliens | 91412 | [91412-cavemen-vs-aliens.json](./91412-cavemen-vs-aliens.json) |
 | Cavemen: The Rise of Tribe | 249895 | [249895-cavemen-the-rise-of-tribe.json](./249895-cavemen-the-rise-of-tribe.json) |
+| Cavephobia | 285393 | [285393-cavephobia.json](./285393-cavephobia.json) |
 | Cavequest | 2876 | [2876-cavequest.json](./2876-cavequest.json) |
 | Cavern | 272856 | [272856-cavern.json](./272856-cavern.json) |
 | Cavern Adventurers | 291983 | [291983-cavern-adventurers.json](./291983-cavern-adventurers.json) |
@@ -6214,6 +6216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clive vs. Hives 2 | 188685 | [188685-clive-vs-hives-2.json](./188685-clive-vs-hives-2.json) |
 | CliveWareGold | 396008 | [396008-clivewaregold.json](./396008-clivewaregold.json) |
 | Clix | 97990 | [97990-clix.json](./97990-clix.json) |
+| Cloacaphobia | 285395 | [285395-cloacaphobia.json](./285395-cloacaphobia.json) |
 | Cloak And Coin | 365810 | [365810-cloak-and-coin.json](./365810-cloak-and-coin.json) |
 | Cloak Hero | 258494 | [258494-cloak-hero.json](./258494-cloak-hero.json) |
 | Cloaked Protocol | 284977 | [284977-cloaked-protocol.json](./284977-cloaked-protocol.json) |
