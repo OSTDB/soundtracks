@@ -3519,6 +3519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | God of Blades | 25045 | [25045-god-of-blades.json](./25045-god-of-blades.json) |
 | God of Chaos | 408920 | [408920-god-of-chaos.json](./408920-god-of-chaos.json) |
 | God of Destiny | 137385 | [137385-god-of-destiny.json](./137385-god-of-destiny.json) |
+| God of Fortune | 309557 | [309557-god-of-fortune.json](./309557-god-of-fortune.json) |
 | God of Gym | 127815 | [127815-god-of-gym.json](./127815-god-of-gym.json) |
 | God of Light | 23415 | [23415-god-of-light.json](./23415-god-of-light.json) |
 | God of Light: Remastered | 75048 | [75048-god-of-light-remastered.json](./75048-god-of-light-remastered.json) |
