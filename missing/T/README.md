@@ -3605,6 +3605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ancient Magus' Bride: Midsummer Pilgrimage | 336511 | [336511-the-ancient-magus-bride-midsummer-pilgrimage.json](./336511-the-ancient-magus-bride-midsummer-pilgrimage.json) |
 | The Ancients AR | 103884 | [103884-the-ancients-ar.json](./103884-the-ancients-ar.json) |
 | The Ancients' Tome | 124567 | [124567-the-ancients-tome.json](./124567-the-ancients-tome.json) |
+| The Anders Cyclopaedia | 327161 | [327161-the-anders-cyclopaedia.json](./327161-the-anders-cyclopaedia.json) |
 | The Andesia Project | 279100 | [279100-the-andesia-project.json](./279100-the-andesia-project.json) |
 | The Andromeda Strain | 24167 | [24167-the-andromeda-strain.json](./24167-the-andromeda-strain.json) |
 | The Angel's Devil Tail: One More Question 2 | 379016 | [379016-the-angels-devil-tail-one-more-question-2.json](./379016-the-angels-devil-tail-one-more-question-2.json) |
@@ -5195,6 +5196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Division 2: Warlords of New York - Year 5 Season 1: Broken Wings | 276774 | [276774-the-division-2-warlords-of-new-york-year-5-season-1-broken-wings.json](./276774-the-division-2-warlords-of-new-york-year-5-season-1-broken-wings.json) |
 | The DOCS: Department of Creatures | 129648 | [129648-the-docs-department-of-creatures.json](./129648-the-docs-department-of-creatures.json) |
 | The Document of Metal Gear Solid 2 | 139343 | [139343-the-document-of-metal-gear-solid-2.json](./139343-the-document-of-metal-gear-solid-2.json) |
+| The Dog | 327153 | [327153-the-dog.json](./327153-the-dog.json) |
 | The Dog Quiz | 223149 | [223149-the-dog-quiz.json](./223149-the-dog-quiz.json) |
 | The Dog Run | 114410 | [114410-the-dog-run.json](./114410-the-dog-run.json) |
 | The Doll | 249816 | [249816-the-doll.json](./249816-the-doll.json) |
@@ -9411,6 +9413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Realm | 292558 | [292558-the-realm.json](./292558-the-realm.json) |
 | The Realm of Insight Compass | 253513 | [253513-the-realm-of-insight-compass.json](./253513-the-realm-of-insight-compass.json) |
 | The Realm of Keren: Exploratio | 174691 | [174691-the-realm-of-keren-exploratio.json](./174691-the-realm-of-keren-exploratio.json) |
+| The Reaper | 327224 | [327224-the-reaper.json](./327224-the-reaper.json) |
 | The Reaper Survivors | 224760 | [224760-the-reaper-survivors.json](./224760-the-reaper-survivors.json) |
 | The Reason for Your Smile | 287911 | [287911-the-reason-for-your-smile.json](./287911-the-reason-for-your-smile.json) |
 | The Reason Why Cavemen Painted on Walls | 179571 | [179571-the-reason-why-cavemen-painted-on-walls.json](./179571-the-reason-why-cavemen-painted-on-walls.json) |
@@ -9418,6 +9421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Reasons for It. | 397080 | [397080-the-reasons-for-it.json](./397080-the-reasons-for-it.json) |
 | The Rebel | 33275 | [33275-the-rebel.json](./33275-the-rebel.json) |
 | The Rebellion | 385370 | [385370-the-rebellion.json](./385370-the-rebellion.json) |
+| The Rebirth | 327223 | [327223-the-rebirth.json](./327223-the-rebirth.json) |
 | The Rebirth of Kingdom Lo | 244868 | [244868-the-rebirth-of-kingdom-lo.json](./244868-the-rebirth-of-kingdom-lo.json) |
 | The Reconstruction | 130894 | [130894-the-reconstruction.json](./130894-the-reconstruction.json) |
 | The Recurrence | 289968 | [289968-the-recurrence.json](./289968-the-recurrence.json) |
@@ -10466,6 +10470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Stones | 371482 | [371482-the-stones.json](./371482-the-stones.json) |
 | The Stones of the Pharaoh | 421368 | [421368-the-stones-of-the-pharaoh.json](./421368-the-stones-of-the-pharaoh.json) |
 | The Stonks Market | 146698 | [146698-the-stonks-market.json](./146698-the-stonks-market.json) |
+| The Storied Sword | 327462 | [327462-the-storied-sword.json](./327462-the-storied-sword.json) |
 | The Stories of Scheherazade | 112327 | [112327-the-stories-of-scheherazade.json](./112327-the-stories-of-scheherazade.json) |
 | The Storm Guard: Darkness is Coming | 23174 | [23174-the-storm-guard-darkness-is-coming.json](./23174-the-storm-guard-darkness-is-coming.json) |
 | The Story For Snow Moon | 97830 | [97830-the-story-for-snow-moon.json](./97830-the-story-for-snow-moon.json) |
@@ -14246,6 +14251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tinkertown x Among Us | 222931 | [222931-tinkertown-x-among-us.json](./222931-tinkertown-x-among-us.json) |
 | Tinkle Pit | 59666 | [59666-tinkle-pit.json](./59666-tinkle-pit.json) |
 | Tinny Strays | 409507 | [409507-tinny-strays.json](./409507-tinny-strays.json) |
+| Tino's Fruit Stand | 327254 | [327254-tinos-fruit-stand.json](./327254-tinos-fruit-stand.json) |
 | Tint n Ink | 171975 | [171975-tint-n-ink.json](./171975-tint-n-ink.json) |
 | Tint The Saver | 334181 | [334181-tint-the-saver.json](./334181-tint-the-saver.json) |
 | Tint. | 125817 | [125817-tint.json](./125817-tint.json) |
