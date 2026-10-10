@@ -2977,6 +2977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvel's Moon Girl and Devil Dinosaur: Moon Girl Moxie! | 306670 | [306670-marvels-moon-girl-and-devil-dinosaur-moon-girl-moxie.json](./306670-marvels-moon-girl-and-devil-dinosaur-moon-girl-moxie.json) |
 | Marvel's Spider-Man 2: Collector's Edition | 272315 | [272315-marvels-spider-man-2-collectors-edition.json](./272315-marvels-spider-man-2-collectors-edition.json) |
 | Marvel's Spider-Man 2: Digital Deluxe Edition | 272508 | [272508-marvels-spider-man-2-digital-deluxe-edition.json](./272508-marvels-spider-man-2-digital-deluxe-edition.json) |
+| Marvel's Spider-Man 2: New Game Plus Update | 307176 | [307176-marvels-spider-man-2-new-game-plus-update.json](./307176-marvels-spider-man-2-new-game-plus-update.json) |
 | Marvel's Spider-Man Digital Deluxe Edition | 343953 | [343953-marvels-spider-man-digital-deluxe-edition.json](./343953-marvels-spider-man-digital-deluxe-edition.json) |
 | Marvel's Spider-Man: Miles Morales - Launch Edition | 139968 | [139968-marvels-spider-man-miles-morales-launch-edition.json](./139968-marvels-spider-man-miles-morales-launch-edition.json) |
 | Marvel's Spider-Man: Miles Morales - Ultimate Edition | 138947 | [138947-marvels-spider-man-miles-morales-ultimate-edition.json](./138947-marvels-spider-man-miles-morales-ultimate-edition.json) |
