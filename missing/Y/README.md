@@ -619,6 +619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yoshiwara | 328615 | [328615-yoshiwara.json](./328615-yoshiwara.json) |
 | Yoshiwara Higanbana | 153489 | [153489-yoshiwara-higanbana.json](./153489-yoshiwara-higanbana.json) |
 | Yoshiwara Higanbana: Kuon no Chigiri | 110335 | [110335-yoshiwara-higanbana-kuon-no-chigiri.json](./110335-yoshiwara-higanbana-kuon-no-chigiri.json) |
+| Yosuga no Sora | 329518 | [329518-yosuga-no-sora.json](./329518-yosuga-no-sora.json) |
 | Yosumin! | 9309 | [9309-yosumin.json](./9309-yosumin.json) |
 | Yots | 408062 | [408062-yots.json](./408062-yots.json) |
 | Yotsume God | 202709 | [202709-yotsume-god.json](./202709-yotsume-god.json) |
