@@ -2405,6 +2405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What's Your Hidden Power? | 206647 | [206647-whats-your-hidden-power.json](./206647-whats-your-hidden-power.json) |
 | What's Your Sign? | 74714 | [74714-whats-your-sign.json](./74714-whats-your-sign.json) |
 | Whatcha Loopin At? | 364688 | [364688-whatcha-loopin-at.json](./364688-whatcha-loopin-at.json) |
+| Whatever We Decide to Call this Game | 313452 | [313452-whatever-we-decide-to-call-this-game.json](./313452-whatever-we-decide-to-call-this-game.json) |
 | Whateverland | 126594 | [126594-whateverland.json](./126594-whateverland.json) |
 | Whatnever | 348782 | [348782-whatnever.json](./348782-whatnever.json) |
 | WhatRogue: Exile Land | 319760 | [319760-whatrogue-exile-land.json](./319760-whatrogue-exile-land.json) |
@@ -5242,6 +5243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World War II Combat: Iwo Jima | 6242 | [6242-world-war-ii-combat-iwo-jima.json](./6242-world-war-ii-combat-iwo-jima.json) |
 | World War II Combat: Road to Berlin | 6243 | [6243-world-war-ii-combat-road-to-berlin.json](./6243-world-war-ii-combat-road-to-berlin.json) |
 | World War II GI | 2533 | [2533-world-war-ii-gi.json](./2533-world-war-ii-gi.json) |
+| World War II: Airplanes Battle | 313443 | [313443-world-war-ii-airplanes-battle.json](./313443-world-war-ii-airplanes-battle.json) |
 | World War II: Battle Strike | 205828 | [205828-world-war-ii-battle-strike.json](./205828-world-war-ii-battle-strike.json) |
 | World War II: Frontline Command | 10155 | [10155-world-war-ii-frontline-command.json](./10155-world-war-ii-frontline-command.json) |
 | World War II: Panzer Claws 2 | 17996 | [17996-world-war-ii-panzer-claws-2.json](./17996-world-war-ii-panzer-claws-2.json) |
