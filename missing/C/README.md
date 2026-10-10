@@ -2762,6 +2762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cave Ghost | 368480 | [368480-cave-ghost.json](./368480-cave-ghost.json) |
 | Cave Girl Clair | 309340 | [309340-cave-girl-clair.json](./309340-cave-girl-clair.json) |
 | Cave Guessers | 154079 | [154079-cave-guessers.json](./154079-cave-guessers.json) |
+| Cave Halls | 313962 | [313962-cave-halls.json](./313962-cave-halls.json) |
 | Cave Heroes | 227254 | [227254-cave-heroes.json](./227254-cave-heroes.json) |
 | Cave Hopper | 139468 | [139468-cave-hopper.json](./139468-cave-hopper.json) |
 | Cave Looters | 410829 | [410829-cave-looters.json](./410829-cave-looters.json) |
@@ -3660,6 +3661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ChatTDT: Tower Defense Twitch | 306678 | [306678-chattdt-tower-defense-twitch.json](./306678-chattdt-tower-defense-twitch.json) |
 | Chatteract | 138710 | [138710-chatteract.json](./138710-chatteract.json) |
 | Chatterbox | 300341 | [300341-chatterbox.json](./300341-chatterbox.json) |
+| Chatty's Bratty Tryst | 314010 | [314010-chattys-bratty-tryst.json](./314010-chattys-bratty-tryst.json) |
 | Chaturanga | 383617 | [383617-chaturanga.json](./383617-chaturanga.json) |
 | Chaves Arena | 252903 | [252903-chaves-arena.json](./252903-chaves-arena.json) |
 | CHE: Guerrilla In Bolivia | 15874 | [15874-che-guerrilla-in-bolivia.json](./15874-che-guerrilla-in-bolivia.json) |
@@ -4081,6 +4083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chick Clicker | 344995 | [344995-chick-clicker.json](./344995-chick-clicker.json) |
 | Chick Game | 373681 | [373681-chick-game.json](./373681-chick-game.json) |
 | Chick Road Rage | 281993 | [281993-chick-road-rage.json](./281993-chick-road-rage.json) |
+| Chick Room Escape | 314011 | [314011-chick-room-escape.json](./314011-chick-room-escape.json) |
 | Chick Room Escape: Xmas ver. | 317000 | [317000-chick-room-escape-xmas-ver.json](./317000-chick-room-escape-xmas-ver.json) |
 | Chick That Never Skipped a Leg Day | 309128 | [309128-chick-that-never-skipped-a-leg-day.json](./309128-chick-that-never-skipped-a-leg-day.json) |
 | Chick'n Mushroom Soup | 284968 | [284968-chickn-mushroom-soup.json](./284968-chickn-mushroom-soup.json) |
@@ -7603,6 +7606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Commander Keen: Battle of the Brains | 288347 | [288347-commander-keen-battle-of-the-brains.json](./288347-commander-keen-battle-of-the-brains.json) |
 | Commander Keen: Dead in the Desert | 288346 | [288346-commander-keen-dead-in-the-desert.json](./288346-commander-keen-dead-in-the-desert.json) |
 | Commander Keen: Invasion of the Vorticons | 71234 | [71234-commander-keen-invasion-of-the-vorticons.json](./71234-commander-keen-invasion-of-the-vorticons.json) |
+| Commander Keen: Keen Meets the Meats | 313968 | [313968-commander-keen-keen-meets-the-meats.json](./313968-commander-keen-keen-meets-the-meats.json) |
 | Commander Keen: The Keys of Krodacia | 288345 | [288345-commander-keen-the-keys-of-krodacia.json](./288345-commander-keen-the-keys-of-krodacia.json) |
 | Commander of Battlefront | 333941 | [333941-commander-of-battlefront.json](./333941-commander-of-battlefront.json) |
 | Commander Tiberius Troubleson | 244340 | [244340-commander-tiberius-troubleson.json](./244340-commander-tiberius-troubleson.json) |
@@ -10094,6 +10098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creaturemin | 313355 | [313355-creaturemin.json](./313355-creaturemin.json) |
 | Creatures | 11374 | [11374-creatures.json](./11374-creatures.json) |
 | Creatures | 120747 | [120747-creatures.json](./120747-creatures.json) |
+| Creatures | 313973 | [313973-creatures.json](./313973-creatures.json) |
 | Creatures | 380097 | [380097-creatures.json](./380097-creatures.json) |
 | Creatures 2 | 11371 | [11371-creatures-2.json](./11371-creatures-2.json) |
 | Creatures 4 | 79200 | [79200-creatures-4.json](./79200-creatures-4.json) |
@@ -11493,6 +11498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubuleto | 374124 | [374124-cubuleto.json](./374124-cubuleto.json) |
 | Cubway | 31800 | [31800-cubway.json](./31800-cubway.json) |
 | Cuby Bop | 39675 | [39675-cuby-bop.json](./39675-cuby-bop.json) |
+| Cuby Panic | 313988 | [313988-cuby-panic.json](./313988-cuby-panic.json) |
 | CubyJump | 110308 | [110308-cubyjump.json](./110308-cubyjump.json) |
 | Cubyte | 279133 | [279133-cubyte.json](./279133-cubyte.json) |
 | Cubytet | 191188 | [191188-cubytet.json](./191188-cubytet.json) |
