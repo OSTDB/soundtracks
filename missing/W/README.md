@@ -4903,6 +4903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Working Dawgs: Rivet Retriever | 84936 | [84936-working-dawgs-rivet-retriever.json](./84936-working-dawgs-rivet-retriever.json) |
 | Working Days | 408762 | [408762-working-days.json](./408762-working-days.json) |
 | Working Noir | 255857 | [255857-working-noir.json](./255857-working-noir.json) |
+| Working Stiffs | 281335 | [281335-working-stiffs.json](./281335-working-stiffs.json) |
 | Working Through The End | 388180 | [388180-working-through-the-end.json](./388180-working-through-the-end.json) |
 | Working Woman Barbie | 144856 | [144856-working-woman-barbie.json](./144856-working-woman-barbie.json) |
 | Working95 | 412562 | [412562-working95.json](./412562-working95.json) |
