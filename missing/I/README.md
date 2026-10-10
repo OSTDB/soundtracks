@@ -378,6 +378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Want to Die: Remake | 327230 | [327230-i-want-to-die-remake.json](./327230-i-want-to-die-remake.json) |
 | I Want to Drive That Van | 357315 | [357315-i-want-to-drive-that-van.json](./357315-i-want-to-drive-that-van.json) |
 | I Want to Go for a Walk | 341020 | [341020-i-want-to-go-for-a-walk.json](./341020-i-want-to-go-for-a-walk.json) |
+| I Want To Go Home | 278952 | [278952-i-want-to-go-home.json](./278952-i-want-to-go-home.json) |
 | I Want to Go to Mars | 130363 | [130363-i-want-to-go-to-mars.json](./130363-i-want-to-go-to-mars.json) |
 | I Want To Make Something Beautiful | 391209 | [391209-i-want-to-make-something-beautiful.json](./391209-i-want-to-make-something-beautiful.json) |
 | I Want to Play the Villain! | 412542 | [412542-i-want-to-play-the-villain.json](./412542-i-want-to-play-the-villain.json) |
@@ -4077,6 +4078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It Was a Human | 218522 | [218522-it-was-a-human.json](./218522-it-was-a-human.json) |
 | It Was Beautiful | 380618 | [380618-it-was-beautiful.json](./380618-it-was-beautiful.json) |
 | It Was Not A Suicide | 414576 | [414576-it-was-not-a-suicide.json](./414576-it-was-not-a-suicide.json) |
+| It Was Raining That Night | 278960 | [278960-it-was-raining-that-night.json](./278960-it-was-raining-that-night.json) |
 | It Was You | 333019 | [333019-it-was-you.json](./333019-it-was-you.json) |
 | It Will Find You | 124207 | [124207-it-will-find-you.json](./124207-it-will-find-you.json) |
 | It Works: Electronics Repair Simulator | 352231 | [352231-it-works-electronics-repair-simulator.json](./352231-it-works-electronics-repair-simulator.json) |
