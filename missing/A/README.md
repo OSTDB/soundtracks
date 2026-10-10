@@ -3983,6 +3983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Storm | 9969 | [9969-alien-storm.json](./9969-alien-storm.json) |
 | Alien street battle | 129675 | [129675-alien-street-battle.json](./129675-alien-street-battle.json) |
 | Alien Strike | 76228 | [76228-alien-strike.json](./76228-alien-strike.json) |
+| Alien Strike: Blasting the Intruders | 305974 | [305974-alien-strike-blasting-the-intruders.json](./305974-alien-strike-blasting-the-intruders.json) |
 | Alien Survivors: To Starship Resurrection | 300768 | [300768-alien-survivors-to-starship-resurrection.json](./300768-alien-survivors-to-starship-resurrection.json) |
 | Alien Swarm | 7598 | [7598-alien-swarm.json](./7598-alien-swarm.json) |
 | Alien Swarm: Reactive Drop | 27523 | [27523-alien-swarm-reactive-drop.json](./27523-alien-swarm-reactive-drop.json) |
