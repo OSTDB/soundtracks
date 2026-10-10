@@ -830,6 +830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unbeknown | 59682 | [59682-unbeknown.json](./59682-unbeknown.json) |
 | Unbeliever | 261438 | [261438-unbeliever.json](./261438-unbeliever.json) |
 | Unbind | 112481 | [112481-unbind.json](./112481-unbind.json) |
+| Unbirth | 305418 | [305418-unbirth.json](./305418-unbirth.json) |
 | Unblade | 124586 | [124586-unblade.json](./124586-unblade.json) |
 | Unblinking | 330921 | [330921-unblinking.json](./330921-unblinking.json) |
 | Unblock Ball | 353493 | [353493-unblock-ball.json](./353493-unblock-ball.json) |
@@ -1063,6 +1064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Under the Ghost Mountain | 156975 | [156975-under-the-ghost-mountain.json](./156975-under-the-ghost-mountain.json) |
 | Under the Heavens | 398011 | [398011-under-the-heavens.json](./398011-under-the-heavens.json) |
 | Under the Island | 151501 | [151501-under-the-island.json](./151501-under-the-island.json) |
+| Under the Jolly Roger + Crossroads Inn: Bring Me That Horizon Bundle | 305487 | [305487-under-the-jolly-roger-crossroads-inn-bring-me-that-horizon-bundle.json](./305487-under-the-jolly-roger-crossroads-inn-bring-me-that-horizon-bundle.json) |
 | Under the Moon | 204327 | [204327-under-the-moon.json](./204327-under-the-moon.json) |
 | Under the Moon: Crescent | 203289 | [203289-under-the-moon-crescent.json](./203289-under-the-moon-crescent.json) |
 | Under the Moon: Tsukiiro Ehon | 72682 | [72682-under-the-moon-tsukiiro-ehon.json](./72682-under-the-moon-tsukiiro-ehon.json) |
