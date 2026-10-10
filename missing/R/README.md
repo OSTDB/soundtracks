@@ -5720,6 +5720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket Coaster | 82928 | [82928-rocket-coaster.json](./82928-rocket-coaster.json) |
 | Rocket Control | 242478 | [242478-rocket-control.json](./242478-rocket-control.json) |
 | Rocket Cows | 195730 | [195730-rocket-cows.json](./195730-rocket-cows.json) |
+| Rocket Crowbar | 307353 | [307353-rocket-crowbar.json](./307353-rocket-crowbar.json) |
 | Rocket Drift - Extreme gravity adventure | 25582 | [25582-rocket-drift-extreme-gravity-adventure.json](./25582-rocket-drift-extreme-gravity-adventure.json) |
 | Rocket Engineer | 297204 | [297204-rocket-engineer.json](./297204-rocket-engineer.json) |
 | Rocket Escape | 226940 | [226940-rocket-escape.json](./226940-rocket-escape.json) |
