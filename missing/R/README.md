@@ -3749,6 +3749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro/Grade + Soundtrack | 121420 | [121420-retro-grade-soundtrack.json](./121420-retro-grade-soundtrack.json) |
 | Retro64 | 198234 | [198234-retro64.json](./198234-retro64.json) |
 | RetroBlazer | 322198 | [322198-retroblazer.json](./322198-retroblazer.json) |
+| Retrobloc CPC | 290318 | [290318-retrobloc-cpc.json](./290318-retrobloc-cpc.json) |
 | Retrobound | 149506 | [149506-retrobound.json](./149506-retrobound.json) |
 | Retrocade | 385593 | [385593-retrocade.json](./385593-retrocade.json) |
 | RetroCube | 175404 | [175404-retrocube.json](./175404-retrocube.json) |
@@ -7257,6 +7258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rucoy Online | 76572 | [76572-rucoy-online.json](./76572-rucoy-online.json) |
 | Ruction: The Golden Tablet | 32207 | [32207-ruction-the-golden-tablet.json](./32207-ruction-the-golden-tablet.json) |
 | Rude Breaker | 190046 | [190046-rude-breaker.json](./190046-rude-breaker.json) |
+| Rude Chess | 290351 | [290351-rude-chess.json](./290351-rude-chess.json) |
 | Rude Supermarket Simulator | 417383 | [417383-rude-supermarket-simulator.json](./417383-rude-supermarket-simulator.json) |
 | Rudimentary Unfinished Shooter Entry | 413891 | [413891-rudimentary-unfinished-shooter-entry.json](./413891-rudimentary-unfinished-shooter-entry.json) |
 | Rudo Resurrection | 66646 | [66646-rudo-resurrection.json](./66646-rudo-resurrection.json) |
