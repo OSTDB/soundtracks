@@ -1633,6 +1633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gems Kingdom | 111604 | [111604-gems-kingdom.json](./111604-gems-kingdom.json) |
 | Gems of Destiny: Magic Rescue | 416696 | [416696-gems-of-destiny-magic-rescue.json](./416696-gems-of-destiny-magic-rescue.json) |
 | Gems of Egypt | 395773 | [395773-gems-of-egypt.json](./395773-gems-of-egypt.json) |
+| Gems Of Evolution | 278917 | [278917-gems-of-evolution.json](./278917-gems-of-evolution.json) |
 | Gems of Fate: the Charmed King | 133426 | [133426-gems-of-fate-the-charmed-king.json](./133426-gems-of-fate-the-charmed-king.json) |
 | Gems of Magic: Double Pack | 242051 | [242051-gems-of-magic-double-pack.json](./242051-gems-of-magic-double-pack.json) |
 | Gems of Magic: Lost Family | 116367 | [116367-gems-of-magic-lost-family.json](./116367-gems-of-magic-lost-family.json) |
@@ -2772,6 +2773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girls Free | 127940 | [127940-girls-free.json](./127940-girls-free.json) |
 | Girls Gym | 237483 | [237483-girls-gym.json](./237483-girls-gym.json) |
 | Girls Hair Salon | 88026 | [88026-girls-hair-salon.json](./88026-girls-hair-salon.json) |
+| Girls Hobby in Love | 278922 | [278922-girls-hobby-in-love.json](./278922-girls-hobby-in-love.json) |
 | Girls in Pajamas | 259067 | [259067-girls-in-pajamas.json](./259067-girls-in-pajamas.json) |
 | Girls Legend | 196303 | [196303-girls-legend.json](./196303-girls-legend.json) |
 | Girls Life: Beauty Experience | 68072 | [68072-girls-life-beauty-experience.json](./68072-girls-life-beauty-experience.json) |
@@ -4989,6 +4991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grave Danger: Ultimate Edition | 84531 | [84531-grave-danger-ultimate-edition.json](./84531-grave-danger-ultimate-edition.json) |
 | Grave Days | 109167 | [109167-grave-days.json](./109167-grave-days.json) |
 | Grave Deceiver | 327332 | [327332-grave-deceiver.json](./327332-grave-deceiver.json) |
+| Grave Desecrator | 278935 | [278935-grave-desecrator.json](./278935-grave-desecrator.json) |
 | Grave Digger | 287145 | [287145-grave-digger.json](./287145-grave-digger.json) |
 | Grave Filler | 320185 | [320185-grave-filler.json](./320185-grave-filler.json) |
 | Grave Gunner | 280289 | [280289-grave-gunner.json](./280289-grave-gunner.json) |
