@@ -1085,6 +1085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ballz: The Director's Cut | 12303 | [12303-ballz-the-directors-cut.json](./12303-ballz-the-directors-cut.json) |
 | BallzOut | 147941 | [147941-ballzout.json](./147941-ballzout.json) |
 | Ballzy: PvP Block Puzzle | 416801 | [416801-ballzy-pvp-block-puzzle.json](./416801-ballzy-pvp-block-puzzle.json) |
+| Balocks | 311754 | [311754-balocks.json](./311754-balocks.json) |
 | Baloo and the Big Blue | 296066 | [296066-baloo-and-the-big-blue.json](./296066-baloo-and-the-big-blue.json) |
 | Balorizon | 401632 | [401632-balorizon.json](./401632-balorizon.json) |
 | Balrog | 166781 | [166781-balrog.json](./166781-balrog.json) |
@@ -1119,6 +1120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Banana | 305277 | [305277-banana.json](./305277-banana.json) |
 | Banana | 305441 | [305441-banana.json](./305441-banana.json) |
 | Banana | 95469 | [95469-banana.json](./95469-banana.json) |
+| Banana & Tomato | 311764 | [311764-banana-and-tomato.json](./311764-banana-and-tomato.json) |
 | Banana 2: Fruit | 314429 | [314429-banana-2-fruit.json](./314429-banana-2-fruit.json) |
 | Banana 3D | 338190 | [338190-banana-3d.json](./338190-banana-3d.json) |
 | Banana Attack VR | 234196 | [234196-banana-attack-vr.json](./234196-banana-attack-vr.json) |
