@@ -2091,6 +2091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Get Mushi Club: Minna no Konchuu Daizukan | 153816 | [153816-get-mushi-club-minna-no-konchuu-daizukan.json](./153816-get-mushi-club-minna-no-konchuu-daizukan.json) |
 | Get Off My Planet | 180645 | [180645-get-off-my-planet.json](./180645-get-off-my-planet.json) |
 | Get Off My Space! | 192233 | [192233-get-off-my-space.json](./192233-get-off-my-space.json) |
+| Get off Work | 304911 | [304911-get-off-work.json](./304911-get-off-work.json) |
 | Get Off Work | 379031 | [379031-get-off-work.json](./379031-get-off-work.json) |
 | Get Ogre It | 141747 | [141747-get-ogre-it.json](./141747-get-ogre-it.json) |
 | Get on da Mic | 20186 | [20186-get-on-da-mic.json](./20186-get-on-da-mic.json) |
