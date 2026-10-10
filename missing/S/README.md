@@ -4313,6 +4313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadows on the Walls | 262967 | [262967-shadows-on-the-walls.json](./262967-shadows-on-the-walls.json) |
 | Shadows Over Loathing | 225615 | [225615-shadows-over-loathing.json](./225615-shadows-over-loathing.json) |
 | Shadows Over Loathing: Collector’s Edition | 247193 | [247193-shadows-over-loathing-collector-s-edition.json](./247193-shadows-over-loathing-collector-s-edition.json) |
+| Shadows Over Whispering Pines | 329524 | [329524-shadows-over-whispering-pines.json](./329524-shadows-over-whispering-pines.json) |
 | Shadows Peak | 18406 | [18406-shadows-peak.json](./18406-shadows-peak.json) |
 | Shadows Remain | 72324 | [72324-shadows-remain.json](./72324-shadows-remain.json) |
 | Shadows Show | 381674 | [381674-shadows-show.json](./381674-shadows-show.json) |
@@ -5698,6 +5699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shot the Body | 126572 | [126572-shot-the-body.json](./126572-shot-the-body.json) |
 | Shot.io | 77424 | [77424-shot-io.json](./77424-shot-io.json) |
 | Shota Kare! | 242518 | [242518-shota-kare.json](./242518-shota-kare.json) |
+| Shotball | 329532 | [329532-shotball.json](./329532-shotball.json) |
 | Shotdogs | 210096 | [210096-shotdogs.json](./210096-shotdogs.json) |
 | Shotengai 10 | 287716 | [287716-shotengai-10.json](./287716-shotengai-10.json) |
 | Shotest Shogi | 21803 | [21803-shotest-shogi.json](./21803-shotest-shogi.json) |
