@@ -7695,6 +7695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poor Piggy Pirate | 368146 | [368146-poor-piggy-pirate.json](./368146-poor-piggy-pirate.json) |
 | Poor Thief | 298257 | [298257-poor-thief.json](./298257-poor-thief.json) |
 | Poorer Art | 377160 | [377160-poorer-art.json](./377160-poorer-art.json) |
+| Poorzzle: Puzzle Alive | 289785 | [289785-poorzzle-puzzle-alive.json](./289785-poorzzle-puzzle-alive.json) |
 | Poosh XL | 236361 | [236361-poosh-xl.json](./236361-poosh-xl.json) |
 | PooShooter: Toilet Invaders | 31672 | [31672-pooshooter-toilet-invaders.json](./31672-pooshooter-toilet-invaders.json) |
 | PooSky | 68615 | [68615-poosky.json](./68615-poosky.json) |
@@ -8171,6 +8172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pottergame | 159069 | [159069-pottergame.json](./159069-pottergame.json) |
 | Pottery Maker | 89264 | [89264-pottery-maker.json](./89264-pottery-maker.json) |
 | Pottis Dream Forge | 108045 | [108045-pottis-dream-forge.json](./108045-pottis-dream-forge.json) |
+| Potty Knight Saga | 289778 | [289778-potty-knight-saga.json](./289778-potty-knight-saga.json) |
 | Potty Painter | 301529 | [301529-potty-painter.json](./301529-potty-painter.json) |
 | Potty Quest | 225768 | [225768-potty-quest.json](./225768-potty-quest.json) |
 | Potty Racers | 269602 | [269602-potty-racers.json](./269602-potty-racers.json) |
