@@ -191,6 +191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waking Dreams | 360733 | [360733-waking-dreams.json](./360733-waking-dreams.json) |
 | Waking Nightmare | 181849 | [181849-waking-nightmare.json](./181849-waking-nightmare.json) |
 | Waking Nightmares | 375287 | [375287-waking-nightmares.json](./375287-waking-nightmares.json) |
+| Waking Nitemare | 309429 | [309429-waking-nitemare.json](./309429-waking-nitemare.json) |
 | Waking the Glares | 27923 | [27923-waking-the-glares.json](./27923-waking-the-glares.json) |
 | Waking the Glares - Chapter I and II | 56430 | [56430-waking-the-glares-chapter-i-and-ii.json](./56430-waking-the-glares-chapter-i-and-ii.json) |
 | Waking Up To You | 395038 | [395038-waking-up-to-you.json](./395038-waking-up-to-you.json) |
@@ -4127,6 +4128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizard of Legend Mobile | 174701 | [174701-wizard-of-legend-mobile.json](./174701-wizard-of-legend-mobile.json) |
 | Wizard of the 4 Corners | 301903 | [301903-wizard-of-the-4-corners.json](./301903-wizard-of-the-4-corners.json) |
 | Wizard of Wall Street | 68043 | [68043-wizard-of-wall-street.json](./68043-wizard-of-wall-street.json) |
+| Wizard of Wings | 309550 | [309550-wizard-of-wings.json](./309550-wizard-of-wings.json) |
 | Wizard of Wor | 282083 | [282083-wizard-of-wor.json](./282083-wizard-of-wor.json) |
 | Wizard of Wor | 282084 | [282084-wizard-of-wor.json](./282084-wizard-of-wor.json) |
 | Wizard Pinball | 19753 | [19753-wizard-pinball.json](./19753-wizard-pinball.json) |
