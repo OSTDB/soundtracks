@@ -1459,6 +1459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neodash | 148497 | [148497-neodash.json](./148497-neodash.json) |
 | Neoditronix | 376666 | [376666-neoditronix.json](./376666-neoditronix.json) |
 | Neodori Infinity | 330285 | [330285-neodori-infinity.json](./330285-neodori-infinity.json) |
+| NeoDuel: Backpack Monsters | 280123 | [280123-neoduel-backpack-monsters.json](./280123-neoduel-backpack-monsters.json) |
 | NeoFables | 330552 | [330552-neofables.json](./330552-neofables.json) |
 | Neofeud | 55688 | [55688-neofeud.json](./55688-neofeud.json) |
 | Neofeud 2 | 397714 | [397714-neofeud-2.json](./397714-neofeud-2.json) |
@@ -3116,6 +3117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja | 217835 | [217835-ninja.json](./217835-ninja.json) |
 | Ninja 1987 | 304559 | [304559-ninja-1987.json](./304559-ninja-1987.json) |
 | Ninja Arashi 2 | 223997 | [223997-ninja-arashi-2.json](./223997-ninja-arashi-2.json) |
+| Ninja Attack | 280152 | [280152-ninja-attack.json](./280152-ninja-attack.json) |
 | Ninja Attack! | 87000 | [87000-ninja-attack.json](./87000-ninja-attack.json) |
 | Ninja Avenger Dragon Blade | 27119 | [27119-ninja-avenger-dragon-blade.json](./27119-ninja-avenger-dragon-blade.json) |
 | Ninja Ball | 100192 | [100192-ninja-ball.json](./100192-ninja-ball.json) |
