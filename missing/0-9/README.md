@@ -1255,6 +1255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 38M Girls Project | 13667 | [13667-38m-girls-project.json](./13667-38m-girls-project.json) |
 | 39 Days to Mars | 32125 | [32125-39-days-to-mars.json](./32125-39-days-to-mars.json) |
 | 3918 | 63235 | [63235-3918.json](./63235-3918.json) |
+| 3AM Corp: The Balbazar Resort | 295151 | [295151-3am-corp-the-balbazar-resort.json](./295151-3am-corp-the-balbazar-resort.json) |
 | 3Buttons | 110352 | [110352-3buttons.json](./110352-3buttons.json) |
 | 3C Wonderland Coaster | 111071 | [111071-3c-wonderland-coaster.json](./111071-3c-wonderland-coaster.json) |
 | 3Chess | 400449 | [400449-3chess.json](./400449-3chess.json) |
