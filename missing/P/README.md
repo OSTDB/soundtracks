@@ -4730,6 +4730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Piratepoly Gold: Caribbean Treasure | 218723 | [218723-piratepoly-gold-caribbean-treasure.json](./218723-piratepoly-gold-caribbean-treasure.json) |
 | Pirates | 197378 | [197378-pirates.json](./197378-pirates.json) |
 | Pirates | 298796 | [298796-pirates.json](./298796-pirates.json) |
+| Pirates & Pirater | 293537 | [293537-pirates-and-pirater.json](./293537-pirates-and-pirater.json) |
 | Pirates Adventure Solitaire | 341574 | [341574-pirates-adventure-solitaire.json](./341574-pirates-adventure-solitaire.json) |
 | Pirates Ahoy! | 182379 | [182379-pirates-ahoy.json](./182379-pirates-ahoy.json) |
 | Pirates and Aztecs | 298832 | [298832-pirates-and-aztecs.json](./298832-pirates-and-aztecs.json) |
