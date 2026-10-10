@@ -63,6 +63,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | La Culture Generale pour les Nuls | 269831 | [269831-la-culture-generale-pour-les-nuls.json](./269831-la-culture-generale-pour-les-nuls.json) |
 | La Dame de Monsoreau | 209442 | [209442-la-dame-de-monsoreau.json](./209442-la-dame-de-monsoreau.json) |
 | La Divina Commedia | 361884 | [361884-la-divina-commedia.json](./361884-la-divina-commedia.json) |
+| La Escalera | 290332 | [290332-la-escalera.json](./290332-la-escalera.json) |
 | La Espada Sagrada | 141821 | [141821-la-espada-sagrada.json](./141821-la-espada-sagrada.json) |
 | La Foret | 176779 | [176779-la-foret.json](./176779-la-foret.json) |
 | La Foret De Pago 2: Souvenir de Glace | 163800 | [163800-la-foret-de-pago-2-souvenir-de-glace.json](./163800-la-foret-de-pago-2-souvenir-de-glace.json) |
@@ -632,6 +633,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laser Ball | 95664 | [95664-laser-ball.json](./95664-laser-ball.json) |
 | Laser Battle Cats: Travel & Destroy! | 364058 | [364058-laser-battle-cats-travel-and-destroy.json](./364058-laser-battle-cats-travel-and-destroy.json) |
 | Laser Blast | 18034 | [18034-laser-blast.json](./18034-laser-blast.json) |
+| Laser Blast! | 290341 | [290341-laser-blast.json](./290341-laser-blast.json) |
+| Laser Blast! 2: The Fight | 290342 | [290342-laser-blast-2-the-fight.json](./290342-laser-blast-2-the-fight.json) |
+| Laser Blast! 3: Fury of the Wizard | 290343 | [290343-laser-blast-3-fury-of-the-wizard.json](./290343-laser-blast-3-fury-of-the-wizard.json) |
+| Laser Blast! 4: The Lunasol Encounter | 290344 | [290344-laser-blast-4-the-lunasol-encounter.json](./290344-laser-blast-4-the-lunasol-encounter.json) |
 | Laser Blaster | 58252 | [58252-laser-blaster.json](./58252-laser-blaster.json) |
 | Laser Bounce | 186686 | [186686-laser-bounce.json](./186686-laser-bounce.json) |
 | Laser Brain Puzzle: Classic Logic Arcade | 251045 | [251045-laser-brain-puzzle-classic-logic-arcade.json](./251045-laser-brain-puzzle-classic-logic-arcade.json) |
@@ -4500,6 +4505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Longboard Stunts and Tricks | 99618 | [99618-longboard-stunts-and-tricks.json](./99618-longboard-stunts-and-tricks.json) |
 | Longbow Anthology | 70358 | [70358-longbow-anthology.json](./70358-longbow-anthology.json) |
 | LongCat | 123539 | [123539-longcat.json](./123539-longcat.json) |
+| Longcat Journey | 290314 | [290314-longcat-journey.json](./290314-longcat-journey.json) |
 | Longevity Yin and Yang | 375865 | [375865-longevity-yin-and-yang.json](./375865-longevity-yin-and-yang.json) |
 | Longeyed Proj. | 223429 | [223429-longeyed-proj.json](./223429-longeyed-proj.json) |
 | Longhaus | 178523 | [178523-longhaus.json](./178523-longhaus.json) |
@@ -4545,6 +4551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loom Path | 332831 | [332831-loom-path.json](./332831-loom-path.json) |
 | Loomchild | 418773 | [418773-loomchild.json](./418773-loomchild.json) |
 | Looney Tune Dash | 101947 | [101947-looney-tune-dash.json](./101947-looney-tune-dash.json) |
+| Looney Tunes | 290324 | [290324-looney-tunes.json](./290324-looney-tunes.json) |
 | Looney Tunes Racing | 292791 | [292791-looney-tunes-racing.json](./292791-looney-tunes-racing.json) |
 | Looney Tunes Racing | 8135 | [8135-looney-tunes-racing.json](./8135-looney-tunes-racing.json) |
 | Looney Tunes World of Mayhem | 97314 | [97314-looney-tunes-world-of-mayhem.json](./97314-looney-tunes-world-of-mayhem.json) |
