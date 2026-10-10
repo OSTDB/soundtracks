@@ -3002,6 +3002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tescaris | 339274 | [339274-tescaris.json](./339274-tescaris.json) |
 | Tesco: Delivery Dash | 274994 | [274994-tesco-delivery-dash.json](./274994-tesco-delivery-dash.json) |
 | Tesco: Delivery Dash | 274995 | [274995-tesco-delivery-dash.json](./274995-tesco-delivery-dash.json) |
+| TESD: Into the Vortex | 289808 | [289808-tesd-into-the-vortex.json](./289808-tesd-into-the-vortex.json) |
 | Tesla Asteroids | 178643 | [178643-tesla-asteroids.json](./178643-tesla-asteroids.json) |
 | Tesla Roadster Going to Mars | 334785 | [334785-tesla-roadster-going-to-mars.json](./334785-tesla-roadster-going-to-mars.json) |
 | Tesla VR | 368353 | [368353-tesla-vr.json](./368353-tesla-vr.json) |
@@ -4059,6 +4060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Big Adventure | 339216 | [339216-the-big-adventure.json](./339216-the-big-adventure.json) |
 | The Big Bang Theory Game | 325084 | [325084-the-big-bang-theory-game.json](./325084-the-big-bang-theory-game.json) |
 | The Big Bell Race | 318740 | [318740-the-big-bell-race.json](./318740-the-big-bell-race.json) |
+| The Big Below | 289794 | [289794-the-big-below.json](./289794-the-big-below.json) |
 | The Big Blow Up | 316972 | [316972-the-big-blow-up.json](./316972-the-big-blow-up.json) |
 | The Big Capitalist 3 | 106758 | [106758-the-big-capitalist-3.json](./106758-the-big-capitalist-3.json) |
 | The Big Catch | 217819 | [217819-the-big-catch.json](./217819-the-big-catch.json) |
@@ -4954,6 +4956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cycling Games | 405100 | [405100-the-cycling-games.json](./405100-the-cycling-games.json) |
 | The Cyclist: Tactics | 159354 | [159354-the-cyclist-tactics.json](./159354-the-cyclist-tactics.json) |
 | The Cyclop | 301814 | [301814-the-cyclop.json](./301814-the-cyclop.json) |
+| The Czar is Dead | 289812 | [289812-the-czar-is-dead.json](./289812-the-czar-is-dead.json) |
 | The Czech Run | 208384 | [208384-the-czech-run.json](./208384-the-czech-run.json) |
 | The D Show | 280855 | [280855-the-d-show.json](./280855-the-d-show.json) |
 | The D-T.E.A.M. | 196010 | [196010-the-d-t-e-a-m.json](./196010-the-d-t-e-a-m.json) |
@@ -10131,6 +10134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Show Must Go On | 179583 | [179583-the-show-must-go-on.json](./179583-the-show-must-go-on.json) |
 | The Showdown Effect | 9070 | [9070-the-showdown-effect.json](./9070-the-showdown-effect.json) |
 | The Showdown Effect: Deluxe Edition | 53779 | [53779-the-showdown-effect-deluxe-edition.json](./53779-the-showdown-effect-deluxe-edition.json) |
+| The Showdown Effect: Reloaded | 289807 | [289807-the-showdown-effect-reloaded.json](./289807-the-showdown-effect-reloaded.json) |
 | The Shrink Season Two | 385904 | [385904-the-shrink-season-two.json](./385904-the-shrink-season-two.json) |
 | The Shroom Project | 320236 | [320236-the-shroom-project.json](./320236-the-shroom-project.json) |
 | The Shrouded Isle: Sunken Sins | 76892 | [76892-the-shrouded-isle-sunken-sins.json](./76892-the-shrouded-isle-sunken-sins.json) |
