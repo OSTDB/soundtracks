@@ -2841,6 +2841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knights of Braveland: Around the World Pack | 255963 | [255963-knights-of-braveland-around-the-world-pack.json](./255963-knights-of-braveland-around-the-world-pack.json) |
 | Knights of Braveland: Fun And Memes | 284505 | [284505-knights-of-braveland-fun-and-memes.json](./284505-knights-of-braveland-fun-and-memes.json) |
 | Knights of Braveland: Hero Pack | 284506 | [284506-knights-of-braveland-hero-pack.json](./284506-knights-of-braveland-hero-pack.json) |
+| Knights of Braveland: Ultimate Edition | 284867 | [284867-knights-of-braveland-ultimate-edition.json](./284867-knights-of-braveland-ultimate-edition.json) |
 | Knights of Decayden | 209529 | [209529-knights-of-decayden.json](./209529-knights-of-decayden.json) |
 | Knights of Dice | 235822 | [235822-knights-of-dice.json](./235822-knights-of-dice.json) |
 | Knights of Fate | 201575 | [201575-knights-of-fate.json](./201575-knights-of-fate.json) |
