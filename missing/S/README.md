@@ -1576,6 +1576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sawmania | 355124 | [355124-sawmania.json](./355124-sawmania.json) |
 | Sawmill | 312894 | [312894-sawmill.json](./312894-sawmill.json) |
 | Sawmill Simulator | 389735 | [389735-sawmill-simulator.json](./389735-sawmill-simulator.json) |
+| Say a Prayer | 304327 | [304327-say-a-prayer.json](./304327-say-a-prayer.json) |
 | Say Cheese | 312157 | [312157-say-cheese.json](./312157-say-cheese.json) |
 | Say Something Positive About | 265219 | [265219-say-something-positive-about.json](./265219-say-something-positive-about.json) |
 | Saya: Immoral Labyrinth | 97993 | [97993-saya-immoral-labyrinth.json](./97993-saya-immoral-labyrinth.json) |
@@ -2612,6 +2613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Searching For Rest | 244364 | [244364-searching-for-rest.json](./244364-searching-for-rest.json) |
 | Seas of Fortune | 120964 | [120964-seas-of-fortune.json](./120964-seas-of-fortune.json) |
 | Seas of Kahtaone | 260300 | [260300-seas-of-kahtaone.json](./260300-seas-of-kahtaone.json) |
+| Seascape Paradiso | 304321 | [304321-seascape-paradiso.json](./304321-seascape-paradiso.json) |
 | Seashell | 195692 | [195692-seashell.json](./195692-seashell.json) |
 | Seashell Thief | 302111 | [302111-seashell-thief.json](./302111-seashell-thief.json) |
 | Seashells | 197922 | [197922-seashells.json](./197922-seashells.json) |
@@ -7318,6 +7320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skeeter's Grid | 190082 | [190082-skeeters-grid.json](./190082-skeeters-grid.json) |
 | Skeetshoot | 81284 | [81284-skeetshoot.json](./81284-skeetshoot.json) |
 | Skein | 74764 | [74764-skein.json](./74764-skein.json) |
+| Skel and Defense | 304319 | [304319-skel-and-defense.json](./304319-skel-and-defense.json) |
 | Skelattack | 54837 | [54837-skelattack.json](./54837-skelattack.json) |
 | Skele Magic | 182944 | [182944-skele-magic.json](./182944-skele-magic.json) |
 | Skelecool: Remnants | 411028 | [411028-skelecool-remnants.json](./411028-skelecool-remnants.json) |
@@ -21881,6 +21884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword Sanctuary | 333394 | [333394-sword-sanctuary.json](./333394-sword-sanctuary.json) |
 | Sword Smash | 244385 | [244385-sword-smash.json](./244385-sword-smash.json) |
 | Sword Story | 153500 | [153500-sword-story.json](./153500-sword-story.json) |
+| Sword Warriors | 304242 | [304242-sword-warriors.json](./304242-sword-warriors.json) |
 | Sword World PC | 240492 | [240492-sword-world-pc.json](./240492-sword-world-pc.json) |
 | Sword World SFC 2: Inishie no Kyojin Densetsu | 37801 | [37801-sword-world-sfc-2-inishie-no-kyojin-densetsu.json](./37801-sword-world-sfc-2-inishie-no-kyojin-densetsu.json) |
 | Sword World VR | 372808 | [372808-sword-world-vr.json](./372808-sword-world-vr.json) |
