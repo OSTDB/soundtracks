@@ -838,6 +838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Whisper in the Twilight: Chapter Two | 338298 | [338298-a-whisper-in-the-twilight-chapter-two.json](./338298-a-whisper-in-the-twilight-chapter-two.json) |
 | A white horse is not a horse | 192183 | [192183-a-white-horse-is-not-a-horse.json](./192183-a-white-horse-is-not-a-horse.json) |
 | A Whittle Tale | 384174 | [384174-a-whittle-tale.json](./384174-a-whittle-tale.json) |
+| A Whole New Ball Game | 304311 | [304311-a-whole-new-ball-game.json](./304311-a-whole-new-ball-game.json) |
 | A Whole Wolfrush | 329682 | [329682-a-whole-wolfrush.json](./329682-a-whole-wolfrush.json) |
 | A Wild Heist | 390106 | [390106-a-wild-heist.json](./390106-a-wild-heist.json) |
 | A Wild Time Travelling Clone Dancing | 128952 | [128952-a-wild-time-travelling-clone-dancing.json](./128952-a-wild-time-travelling-clone-dancing.json) |
@@ -1877,6 +1878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Advanced Dungeons & Dragons: Pool of Radiance | 8732 | [8732-advanced-dungeons-and-dragons-pool-of-radiance.json](./8732-advanced-dungeons-and-dragons-pool-of-radiance.json) |
 | Advanced Dungeons & Dragons: Secret of the Silver Blades | 12760 | [12760-advanced-dungeons-and-dragons-secret-of-the-silver-blades.json](./12760-advanced-dungeons-and-dragons-secret-of-the-silver-blades.json) |
 | Advanced Dungeons & Dragons: Treasure of Tarmin | 5655 | [5655-advanced-dungeons-and-dragons-treasure-of-tarmin.json](./5655-advanced-dungeons-and-dragons-treasure-of-tarmin.json) |
+| Advanced Fantasian: Quest for Lost Sanctuary | 304243 | [304243-advanced-fantasian-quest-for-lost-sanctuary.json](./304243-advanced-fantasian-quest-for-lost-sanctuary.json) |
 | Advanced Fruit Machine Simulator | 12348 | [12348-advanced-fruit-machine-simulator.json](./12348-advanced-fruit-machine-simulator.json) |
 | Advanced Gaming Platform: Epica | 34557 | [34557-advanced-gaming-platform-epica.json](./34557-advanced-gaming-platform-epica.json) |
 | Advanced Intelligence Surveillance Agency | 150651 | [150651-advanced-intelligence-surveillance-agency.json](./150651-advanced-intelligence-surveillance-agency.json) |
@@ -3616,6 +3618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alea Lacta Est | 300419 | [300419-alea-lacta-est.json](./300419-alea-lacta-est.json) |
 | Alebound | 356021 | [356021-alebound.json](./356021-alebound.json) |
 | Aledorn | 197154 | [197154-aledorn.json](./197154-aledorn.json) |
+| Alef's Blademaker: Arms Shop | 304244 | [304244-alefs-blademaker-arms-shop.json](./304244-alefs-blademaker-arms-shop.json) |
 | Alegraz | 391895 | [391895-alegraz.json](./391895-alegraz.json) |
 | Alehouse Tavern Simulator | 334489 | [334489-alehouse-tavern-simulator.json](./334489-alehouse-tavern-simulator.json) |
 | Alekhine's Gun | 15691 | [15691-alekhines-gun.json](./15691-alekhines-gun.json) |
@@ -3656,6 +3659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alex Rider: Stormbreaker | 2848 | [2848-alex-rider-stormbreaker.json](./2848-alex-rider-stormbreaker.json) |
 | Alex the Allegator 2 | 306995 | [306995-alex-the-allegator-2.json](./306995-alex-the-allegator-2.json) |
 | Alex the Allegator 4 | 72286 | [72286-alex-the-allegator-4.json](./72286-alex-the-allegator-4.json) |
+| Alex the Ball | 304385 | [304385-alex-the-ball.json](./304385-alex-the-ball.json) |
 | Alex the Rabbit | 392877 | [392877-alex-the-rabbit.json](./392877-alex-the-rabbit.json) |
 | AleX-World | 125285 | [125285-alex-world.json](./125285-alex-world.json) |
 | Alex's Caves | 316145 | [316145-alexs-caves.json](./316145-alexs-caves.json) |
@@ -4329,6 +4333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alley Cats | 206108 | [206108-alley-cats.json](./206108-alley-cats.json) |
 | Alley Master | 40243 | [40243-alley-master.json](./40243-alley-master.json) |
 | Alley Oops | 79283 | [79283-alley-oops.json](./79283-alley-oops.json) |
+| Alley Restaurant Tycoon | 304320 | [304320-alley-restaurant-tycoon.json](./304320-alley-restaurant-tycoon.json) |
 | Alleykat | 28850 | [28850-alleykat.json](./28850-alleykat.json) |
 | AlleyRat | 342175 | [342175-alleyrat.json](./342175-alleyrat.json) |
 | AlleyStrat | 342176 | [342176-alleystrat.json](./342176-alleystrat.json) |
@@ -7107,6 +7112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arab Drift Cars 3 | 362967 | [362967-arab-drift-cars-3.json](./362967-arab-drift-cars-3.json) |
 | Arabel | 142140 | [142140-arabel.json](./142140-arabel.json) |
 | Arabian | 13682 | [13682-arabian.json](./13682-arabian.json) |
+| Arabian Kid | 304245 | [304245-arabian-kid.json](./304245-arabian-kid.json) |
 | Arabian Magic | 13684 | [13684-arabian-magic.json](./13684-arabian-magic.json) |
 | Arabian Nights | 10861 | [10861-arabian-nights.json](./10861-arabian-nights.json) |
 | Arabian Nights | 111656 | [111656-arabian-nights.json](./111656-arabian-nights.json) |
@@ -9729,6 +9735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atari Collection 1 | 130813 | [130813-atari-collection-1.json](./130813-atari-collection-1.json) |
 | Atari Collection 2 | 130814 | [130814-atari-collection-2.json](./130814-atari-collection-2.json) |
 | Atari Collection: Brettspiele | 70357 | [70357-atari-collection-brettspiele.json](./70357-atari-collection-brettspiele.json) |
+| Atari Couchcade | 304235 | [304235-atari-couchcade.json](./304235-atari-couchcade.json) |
 | Atari Flashback | 245961 | [245961-atari-flashback.json](./245961-atari-flashback.json) |
 | Atari Flashback 2 | 245962 | [245962-atari-flashback-2.json](./245962-atari-flashback-2.json) |
 | Atari Flashback 2+ | 277035 | [277035-atari-flashback-2.json](./277035-atari-flashback-2.json) |
