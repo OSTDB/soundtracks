@@ -1128,6 +1128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Sector | 6959 | [6959-dark-sector.json](./6959-dark-sector.json) |
 | Dark Seeker | 151698 | [151698-dark-seeker.json](./151698-dark-seeker.json) |
 | Dark Sentinel | 391739 | [391739-dark-sentinel.json](./391739-dark-sentinel.json) |
+| Dark Seraphim | 314614 | [314614-dark-seraphim.json](./314614-dark-seraphim.json) |
 | Dark Shiny | 115754 | [115754-dark-shiny.json](./115754-dark-shiny.json) |
 | Dark Shrine | 230916 | [230916-dark-shrine.json](./230916-dark-shrine.json) |
 | Dark Side | 12053 | [12053-dark-side.json](./12053-dark-side.json) |
@@ -8359,6 +8360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Down the World: Mervil's Ambition | 42513 | [42513-down-the-world-mervils-ambition.json](./42513-down-the-world-mervils-ambition.json) |
 | Down There Somewhere | 269031 | [269031-down-there-somewhere.json](./269031-down-there-somewhere.json) |
 | Down Under | 252397 | [252397-down-under.json](./252397-down-under.json) |
+| Down Under | 314617 | [314617-down-under.json](./314617-down-under.json) |
 | Down Ward | 126429 | [126429-down-ward.json](./126429-down-ward.json) |
 | Down We Go | 383736 | [383736-down-we-go.json](./383736-down-we-go.json) |
 | Down With Fear | 236345 | [236345-down-with-fear.json](./236345-down-with-fear.json) |
