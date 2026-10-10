@@ -1689,6 +1689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cars | 243201 | [243201-cars.json](./243201-cars.json) |
 | Cars | 243205 | [243205-cars.json](./243205-cars.json) |
 | Cars | 243206 | [243206-cars.json](./243206-cars.json) |
+| Cars | 295142 | [295142-cars.json](./295142-cars.json) |
 | Cars | 3849 | [3849-cars.json](./3849-cars.json) |
 | Cars 2 | 210274 | [210274-cars-2.json](./210274-cars-2.json) |
 | Cars 2 | 220080 | [220080-cars-2.json](./220080-cars-2.json) |
@@ -3531,6 +3532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ChaosWorld | 221183 | [221183-chaosworld.json](./221183-chaosworld.json) |
 | Chaotic Airport Construction Manager | 149608 | [149608-chaotic-airport-construction-manager.json](./149608-chaotic-airport-construction-manager.json) |
 | Chaotic Cats | 362988 | [362988-chaotic-cats.json](./362988-chaotic-cats.json) |
+| Chaotic Good Boy | 295149 | [295149-chaotic-good-boy.json](./295149-chaotic-good-boy.json) |
 | Chaotic Loop | 202650 | [202650-chaotic-loop.json](./202650-chaotic-loop.json) |
 | Chaotic Pursuit | 259857 | [259857-chaotic-pursuit.json](./259857-chaotic-pursuit.json) |
 | Chaotic World | 414343 | [414343-chaotic-world.json](./414343-chaotic-world.json) |
@@ -3686,6 +3688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chat Arena | 115424 | [115424-chat-arena.json](./115424-chat-arena.json) |
 | Chat Guess Games | 280857 | [280857-chat-guess-games.json](./280857-chat-guess-games.json) |
 | Chat Showdown - A twitch streamer's game! | 81261 | [81261-chat-showdown-a-twitch-streamers-game.json](./81261-chat-showdown-a-twitch-streamers-game.json) |
+| Chat Wars! | 295144 | [295144-chat-wars.json](./295144-chat-wars.json) |
 | Chat with Yu | 379552 | [379552-chat-with-yu.json](./379552-chat-with-yu.json) |
 | Chatan Yarakuu Shanku: The Karate Tournament | 62006 | [62006-chatan-yarakuu-shanku-the-karate-tournament.json](./62006-chatan-yarakuu-shanku-the-karate-tournament.json) |
 | ChatBattlers | 316821 | [316821-chatbattlers.json](./316821-chatbattlers.json) |
@@ -5020,6 +5023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chronoblast Maximum Force | 129532 | [129532-chronoblast-maximum-force.json](./129532-chronoblast-maximum-force.json) |
 | ChronoBreach | 117045 | [117045-chronobreach.json](./117045-chronobreach.json) |
 | Chronobreak | 185475 | [185475-chronobreak.json](./185475-chronobreak.json) |
+| Chronocide | 295155 | [295155-chronocide.json](./295155-chronocide.json) |
 | Chronoclasm | 338810 | [338810-chronoclasm.json](./338810-chronoclasm.json) |
 | Chronoclasm Chronicles | 417652 | [417652-chronoclasm-chronicles.json](./417652-chronoclasm-chronicles.json) |
 | ChronoClock | 326765 | [326765-chronoclock.json](./326765-chronoclock.json) |
@@ -5128,6 +5132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chunkers | 207347 | [207347-chunkers.json](./207347-chunkers.json) |
 | Chunkout | 92305 | [92305-chunkout.json](./92305-chunkout.json) |
 | Chunky Jump! | 347853 | [347853-chunky-jump.json](./347853-chunky-jump.json) |
+| Chuno | 295141 | [295141-chuno.json](./295141-chuno.json) |
 | Chup's Quest | 243946 | [243946-chups-quest.json](./243946-chups-quest.json) |
 | Chupacabra | 59225 | [59225-chupacabra.json](./59225-chupacabra.json) |
 | Chupacabras: Night Hunt | 163904 | [163904-chupacabras-night-hunt.json](./163904-chupacabras-night-hunt.json) |
@@ -8239,6 +8244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Construction Simulator: Evolution | 398522 | [398522-construction-simulator-evolution.json](./398522-construction-simulator-evolution.json) |
 | Construction Simulator: Extended Edition | 218476 | [218476-construction-simulator-extended-edition.json](./218476-construction-simulator-extended-edition.json) |
 | Construction Simulator: JCB Pack | 246399 | [246399-construction-simulator-jcb-pack.json](./246399-construction-simulator-jcb-pack.json) |
+| Construction Simulator: Liebherr Pack | 295117 | [295117-construction-simulator-liebherr-pack.json](./295117-construction-simulator-liebherr-pack.json) |
 | Construction Simulator: SANY Pack | 266746 | [266746-construction-simulator-sany-pack.json](./266746-construction-simulator-sany-pack.json) |
 | Construction Simulator: Spaceport Bundle | 277569 | [277569-construction-simulator-spaceport-bundle.json](./277569-construction-simulator-spaceport-bundle.json) |
 | Construction Simulator: Spaceport Expansion | 275117 | [275117-construction-simulator-spaceport-expansion.json](./275117-construction-simulator-spaceport-expansion.json) |
@@ -8550,6 +8556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cooking City: Summer Party | 187892 | [187892-cooking-city-summer-party.json](./187892-cooking-city-summer-party.json) |
 | Cooking Companions | 132788 | [132788-cooking-companions.json](./132788-cooking-companions.json) |
 | Cooking Craze | 88770 | [88770-cooking-craze.json](./88770-cooking-craze.json) |
+| Cooking Craze: Starter Pack | 295118 | [295118-cooking-craze-starter-pack.json](./295118-cooking-craze-starter-pack.json) |
 | Cooking Crew | 262954 | [262954-cooking-crew.json](./262954-cooking-crew.json) |
 | Cooking Diary: Welcome to Tasty Hills | 106991 | [106991-cooking-diary-welcome-to-tasty-hills.json](./106991-cooking-diary-welcome-to-tasty-hills.json) |
 | Cooking Festival | 147632 | [147632-cooking-festival.json](./147632-cooking-festival.json) |
