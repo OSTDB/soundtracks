@@ -5340,6 +5340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memorrha | 109573 | [109573-memorrha.json](./109573-memorrha.json) |
 | Memory | 152143 | [152143-memory.json](./152143-memory.json) |
 | Memory | 219288 | [219288-memory.json](./219288-memory.json) |
+| Memory | 331940 | [331940-memory.json](./331940-memory.json) |
 | Memory | 383929 | [383929-memory.json](./383929-memory.json) |
 | Memory | 95230 | [95230-memory.json](./95230-memory.json) |
 | Memory Battle | 138574 | [138574-memory-battle.json](./138574-memory-battle.json) |
@@ -10056,6 +10057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonlit District | 257572 | [257572-moonlit-district.json](./257572-moonlit-district.json) |
 | Moonlit Dreams | 394110 | [394110-moonlit-dreams.json](./394110-moonlit-dreams.json) |
 | Moonlit Embrace | 311051 | [311051-moonlit-embrace.json](./311051-moonlit-embrace.json) |
+| Moonlit Journey: The Age of Deth | 331928 | [331928-moonlit-journey-the-age-of-deth.json](./331928-moonlit-journey-the-age-of-deth.json) |
 | Moonlit Lobby | 212773 | [212773-moonlit-lobby.json](./212773-moonlit-lobby.json) |
 | Moonlit Nights | 386146 | [386146-moonlit-nights.json](./386146-moonlit-nights.json) |
 | MoonLost | 387344 | [387344-moonlost.json](./387344-moonlost.json) |
