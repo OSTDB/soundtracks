@@ -403,6 +403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Pinball Extreme | 206053 | [206053-ultimate-pinball-extreme.json](./206053-ultimate-pinball-extreme.json) |
 | Ultimate Pinball Gold | 206054 | [206054-ultimate-pinball-gold.json](./206054-ultimate-pinball-gold.json) |
 | Ultimate Pirates | 176809 | [176809-ultimate-pirates.json](./176809-ultimate-pirates.json) |
+| Ultimate Play The Game: The Collected Works | 298434 | [298434-ultimate-play-the-game-the-collected-works.json](./298434-ultimate-play-the-game-the-collected-works.json) |
 | Ultimate Pro Basketball GM | 228122 | [228122-ultimate-pro-basketball-gm.json](./228122-ultimate-pro-basketball-gm.json) |
 | Ultimate Pro Football Coach | 352146 | [352146-ultimate-pro-football-coach.json](./352146-ultimate-pro-football-coach.json) |
 | Ultimate Protector | 215679 | [215679-ultimate-protector.json](./215679-ultimate-protector.json) |
@@ -2234,6 +2235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ushio to Tora | 38380 | [38380-ushio-to-tora.json](./38380-ushio-to-tora.json) |
 | Ushio to Tora: Shinen no Daiyou | 48554 | [48554-ushio-to-tora-shinen-no-daiyou.json](./48554-ushio-to-tora-shinen-no-daiyou.json) |
 | Ushiro | 92685 | [92685-ushiro.json](./92685-ushiro.json) |
+| Ushuaïa, Le Jeu: À la Poursuite des Biotrafiquants | 298409 | [298409-ushuaia-le-jeu-a-la-poursuite-des-biotrafiquants.json](./298409-ushuaia-le-jeu-a-la-poursuite-des-biotrafiquants.json) |
 | UsoNatsu: The Summer Romance Bloomed From a Lie | 234340 | [234340-usonatsu-the-summer-romance-bloomed-from-a-lie.json](./234340-usonatsu-the-summer-romance-bloomed-from-a-lie.json) |
 | Usotsuki Game | 83528 | [83528-usotsuki-game.json](./83528-usotsuki-game.json) |
 | Usotsuki Shangurira | 132090 | [132090-usotsuki-shangurira.json](./132090-usotsuki-shangurira.json) |
