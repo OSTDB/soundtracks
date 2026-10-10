@@ -1297,6 +1297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zoo Tycoon: Dinosaur Digs | 27807 | [27807-zoo-tycoon-dinosaur-digs.json](./27807-zoo-tycoon-dinosaur-digs.json) |
 | Zoo Tycoon: Marine Mania | 23769 | [23769-zoo-tycoon-marine-mania.json](./23769-zoo-tycoon-marine-mania.json) |
 | Zoo Vet | 79929 | [79929-zoo-vet.json](./79929-zoo-vet.json) |
+| Zoo-ika | 314581 | [314581-zoo-ika.json](./314581-zoo-ika.json) |
 | Zoo-phonics 10: The Zoo Kitchen | 101477 | [101477-zoo-phonics-10-the-zoo-kitchen.json](./101477-zoo-phonics-10-the-zoo-kitchen.json) |
 | Zoo-phonics 11: The A-B-C Pool | 101476 | [101476-zoo-phonics-11-the-a-b-c-pool.json](./101476-zoo-phonics-11-the-a-b-c-pool.json) |
 | Zoo-phonics 12: The Secret Code Desert | 101475 | [101475-zoo-phonics-12-the-secret-code-desert.json](./101475-zoo-phonics-12-the-secret-code-desert.json) |
