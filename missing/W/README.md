@@ -5308,6 +5308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World War II: Sniper - Call to Victory | 138090 | [138090-world-war-ii-sniper-call-to-victory.json](./138090-world-war-ii-sniper-call-to-victory.json) |
 | World War II: Tank Commander | 205825 | [205825-world-war-ii-tank-commander.json](./205825-world-war-ii-tank-commander.json) |
 | World War II: TCG | 115174 | [115174-world-war-ii-tcg.json](./115174-world-war-ii-tcg.json) |
+| World War Next | 288093 | [288093-world-war-next.json](./288093-world-war-next.json) |
 | World War One | 21137 | [21137-world-war-one.json](./21137-world-war-one.json) |
 | World War One: Centennial Edition | 52113 | [52113-world-war-one-centennial-edition.json](./52113-world-war-one-centennial-edition.json) |
 | World War One: Gold Edition | 52114 | [52114-world-war-one-gold-edition.json](./52114-world-war-one-gold-edition.json) |
