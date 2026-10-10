@@ -937,6 +937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2010: The Text Adventure Game | 75229 | [75229-2010-the-text-adventure-game.json](./75229-2010-the-text-adventure-game.json) |
 | 2012 Apocalypse | 141518 | [141518-2012-apocalypse.json](./141518-2012-apocalypse.json) |
 | 2017 Collection | 327362 | [327362-2017-collection.json](./327362-2017-collection.json) |
+| 2018 FIFA World Cup Russia | 317514 | [317514-2018-fifa-world-cup-russia.json](./317514-2018-fifa-world-cup-russia.json) |
 | 202 Game Collection | 206119 | [206119-202-game-collection.json](./206119-202-game-collection.json) |
 | 2020 The God of Highschool with Naver Webtoon | 137555 | [137555-2020-the-god-of-highschool-with-naver-webtoon.json](./137555-2020-the-god-of-highschool-with-naver-webtoon.json) |
 | 2020! | 261523 | [261523-2020.json](./261523-2020.json) |
