@@ -9895,6 +9895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Salon Manager | 362366 | [362366-monster-salon-manager.json](./362366-monster-salon-manager.json) |
 | Monster Sanctuary | 89594 | [89594-monster-sanctuary.json](./89594-monster-sanctuary.json) |
 | Monster School | 85881 | [85881-monster-school.json](./85881-monster-school.json) |
+| Monster Scout | 284840 | [284840-monster-scout.json](./284840-monster-scout.json) |
 | Monster Seek | 168219 | [168219-monster-seek.json](./168219-monster-seek.json) |
 | Monster shooter | 108951 | [108951-monster-shooter.json](./108951-monster-shooter.json) |
 | Monster Shooter | 290700 | [290700-monster-shooter.json](./290700-monster-shooter.json) |
