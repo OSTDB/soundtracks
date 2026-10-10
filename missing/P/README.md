@@ -155,6 +155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-Man World Re-Pac | 206811 | [206811-pac-man-world-re-pac.json](./206811-pac-man-world-re-pac.json) |
 | Pac-Man: Adventures in Time | 78239 | [78239-pac-man-adventures-in-time.json](./78239-pac-man-adventures-in-time.json) |
 | Pac-Man: Championship Edition DX | 21737 | [21737-pac-man-championship-edition-dx.json](./21737-pac-man-championship-edition-dx.json) |
+| Pac-Man: Ghost Zone | 311759 | [311759-pac-man-ghost-zone.json](./311759-pac-man-ghost-zone.json) |
 | Pac-Man: Party Royale | 122320 | [122320-pac-man-party-royale.json](./122320-pac-man-party-royale.json) |
 | Pac-Man: Ralph Breaks the Maze | 112300 | [112300-pac-man-ralph-breaks-the-maze.json](./112300-pac-man-ralph-breaks-the-maze.json) |
 | Pac-Man: Special Color Edition | 49833 | [49833-pac-man-special-color-edition.json](./49833-pac-man-special-color-edition.json) |
@@ -997,6 +998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper Mario: Time Strewn Star | 323363 | [323363-paper-mario-time-strewn-star.json](./323363-paper-mario-time-strewn-star.json) |
 | Paper Mario: TTYD - Tower of Trials v3.0 | 358321 | [358321-paper-mario-ttyd-tower-of-trials-v3-0.json](./358321-paper-mario-ttyd-tower-of-trials-v3-0.json) |
 | Paper Nebula | 213445 | [213445-paper-nebula.json](./213445-paper-nebula.json) |
+| Paper Nomad: Master Edition | 311733 | [311733-paper-nomad-master-edition.json](./311733-paper-nomad-master-edition.json) |
 | Paper Pilgrim | 140629 | [140629-paper-pilgrim.json](./140629-paper-pilgrim.json) |
 | Paper Pilot | 369706 | [369706-paper-pilot.json](./369706-paper-pilot.json) |
 | Paper Pinball | 65588 | [65588-paper-pinball.json](./65588-paper-pinball.json) |
@@ -3413,6 +3415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phoebe Bridgers Song Crafter | 179607 | [179607-phoebe-bridgers-song-crafter.json](./179607-phoebe-bridgers-song-crafter.json) |
 | Phoebe Flingle Finger | 183569 | [183569-phoebe-flingle-finger.json](./183569-phoebe-flingle-finger.json) |
 | Phoenix | 270320 | [270320-phoenix.json](./270320-phoenix.json) |
+| Phoenix | 311748 | [311748-phoenix.json](./311748-phoenix.json) |
 | Phoenix | 55015 | [55015-phoenix.json](./55015-phoenix.json) |
 | Phoenix | 71477 | [71477-phoenix.json](./71477-phoenix.json) |
 | Phoenix 2 | 275718 | [275718-phoenix-2.json](./275718-phoenix-2.json) |
@@ -8558,6 +8561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PreStrafe | 374804 | [374804-prestrafe.json](./374804-prestrafe.json) |
 | Pretend Dead Friend | 271308 | [271308-pretend-dead-friend.json](./271308-pretend-dead-friend.json) |
 | Pretend it's not There | 324689 | [324689-pretend-its-not-there.json](./324689-pretend-its-not-there.json) |
+| Pretty Agent | 311561 | [311561-pretty-agent.json](./311561-pretty-agent.json) |
 | Pretty Angel | 127092 | [127092-pretty-angel.json](./127092-pretty-angel.json) |
 | Pretty Ballerina Dancer | 87015 | [87015-pretty-ballerina-dancer.json](./87015-pretty-ballerina-dancer.json) |
 | Pretty Bird 2 | 216309 | [216309-pretty-bird-2.json](./216309-pretty-bird-2.json) |
