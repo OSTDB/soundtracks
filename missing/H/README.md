@@ -4992,6 +4992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Historia Battles Rome | 134006 | [134006-historia-battles-rome.json](./134006-historia-battles-rome.json) |
 | Historia Battles WW2 CFEL | 134007 | [134007-historia-battles-ww2-cfel.json](./134007-historia-battles-ww2-cfel.json) |
 | Historic Fighters | 161370 | [161370-historic-fighters.json](./161370-historic-fighters.json) |
+| Historical Invaders | 291880 | [291880-historical-invaders.json](./291880-historical-invaders.json) |
 | Historical Trilogy | 218494 | [218494-historical-trilogy.json](./218494-historical-trilogy.json) |
 | Historium VR - Relive the history of Bruges | 30290 | [30290-historium-vr-relive-the-history-of-bruges.json](./30290-historium-vr-relive-the-history-of-bruges.json) |
 | History in Letters - The Eternal Alchemist | 36226 | [36226-history-in-letters-the-eternal-alchemist.json](./36226-history-in-letters-the-eternal-alchemist.json) |
@@ -5047,6 +5048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hitler is My Crush: Love and Fascism | 318420 | [318420-hitler-is-my-crush-love-and-fascism.json](./318420-hitler-is-my-crush-love-and-fascism.json) |
 | Hitler My Friend | 277006 | [277006-hitler-my-friend.json](./277006-hitler-my-friend.json) |
 | Hitler no Fukkatsu: Top Secret | 48580 | [48580-hitler-no-fukkatsu-top-secret.json](./48580-hitler-no-fukkatsu-top-secret.json) |
+| Hitm3 | 291870 | [291870-hitm3.json](./291870-hitm3.json) |
 | Hitmaker Tycoon | 395704 | [395704-hitmaker-tycoon.json](./395704-hitmaker-tycoon.json) |
 | Hitman 2 Christmas Game | 336886 | [336886-hitman-2-christmas-game.json](./336886-hitman-2-christmas-game.json) |
 | Hitman 2: Miami Pack | 118173 | [118173-hitman-2-miami-pack.json](./118173-hitman-2-miami-pack.json) |
@@ -6307,6 +6309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hospital Haste | 54084 | [54084-hospital-haste.json](./54084-hospital-haste.json) |
 | Hospital Havoc | 85179 | [85179-hospital-havoc.json](./85179-hospital-havoc.json) |
 | Hospital Hustle | 52235 | [52235-hospital-hustle.json](./52235-hospital-hustle.json) |
+| Hospital of the Undead | 291914 | [291914-hospital-of-the-undead.json](./291914-hospital-of-the-undead.json) |
 | Hospital Tycoon | 10133 | [10133-hospital-tycoon.json](./10133-hospital-tycoon.json) |
 | Hospital Tycoon | 220171 | [220171-hospital-tycoon.json](./220171-hospital-tycoon.json) |
 | Hospitality VR | 160135 | [160135-hospitality-vr.json](./160135-hospitality-vr.json) |
