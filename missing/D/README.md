@@ -919,6 +919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Doll | 415503 | [415503-dark-doll.json](./415503-dark-doll.json) |
 | Dark Drive | 95620 | [95620-dark-drive.json](./95620-dark-drive.json) |
 | Dark Dungeon Feminized | 334340 | [334340-dark-dungeon-feminized.json](./334340-dark-dungeon-feminized.json) |
+| Dark Dynasty: The Siege of Londor | 317522 | [317522-dark-dynasty-the-siege-of-londor.json](./317522-dark-dynasty-the-siege-of-londor.json) |
 | Dark Earth | 410975 | [410975-dark-earth.json](./410975-dark-earth.json) |
 | Dark Echo | 293776 | [293776-dark-echo.json](./293776-dark-echo.json) |
 | Dark Eclipse | 76515 | [76515-dark-eclipse.json](./76515-dark-eclipse.json) |
@@ -1141,6 +1142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Solid | 141736 | [141736-dark-solid.json](./141736-dark-solid.json) |
 | Dark Solitaire: Search for a Cure | 386139 | [386139-dark-solitaire-search-for-a-cure.json](./386139-dark-solitaire-search-for-a-cure.json) |
 | Dark Souls II: Crown of the Old Iron King | 22502 | [22502-dark-souls-ii-crown-of-the-old-iron-king.json](./22502-dark-souls-ii-crown-of-the-old-iron-king.json) |
+| Dark Souls III: Born From the Ashes | 317520 | [317520-dark-souls-iii-born-from-the-ashes.json](./317520-dark-souls-iii-born-from-the-ashes.json) |
 | Dark Souls III: Deluxe Edition | 47486 | [47486-dark-souls-iii-deluxe-edition.json](./47486-dark-souls-iii-deluxe-edition.json) |
 | Dark Souls III: The Convergence | 188607 | [188607-dark-souls-iii-the-convergence.json](./188607-dark-souls-iii-the-convergence.json) |
 | Dark Souls III: The Ringed City | 26916 | [26916-dark-souls-iii-the-ringed-city.json](./26916-dark-souls-iii-the-ringed-city.json) |
@@ -7161,6 +7163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doll | 97852 | [97852-doll.json](./97852-doll.json) |
 | Doll Date | 395202 | [395202-doll-date.json](./395202-doll-date.json) |
 | Doll Defenders | 293622 | [293622-doll-defenders.json](./293622-doll-defenders.json) |
+| Doll Dress Up | 317551 | [317551-doll-dress-up.json](./317551-doll-dress-up.json) |
 | Doll Dress Up: Classy DLC | 317938 | [317938-doll-dress-up-classy-dlc.json](./317938-doll-dress-up-classy-dlc.json) |
 | Doll Dress Up: Classy Edition | 332510 | [332510-doll-dress-up-classy-edition.json](./332510-doll-dress-up-classy-edition.json) |
 | Doll Dress Up: Cute DLC | 317939 | [317939-doll-dress-up-cute-dlc.json](./317939-doll-dress-up-cute-dlc.json) |
@@ -9456,6 +9459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Clovers | 226152 | [226152-dream-clovers.json](./226152-dream-clovers.json) |
 | Dream Club Gogo. | 147304 | [147304-dream-club-gogo.json](./147304-dream-club-gogo.json) |
 | Dream Coaster VR | 52258 | [52258-dream-coaster-vr.json](./52258-dream-coaster-vr.json) |
+| Dream Crafter | 317510 | [317510-dream-crafter.json](./317510-dream-crafter.json) |
 | Dream Daddy: Dadrector's Cut | 111064 | [111064-dream-daddy-dadrectors-cut.json](./111064-dream-daddy-dadrectors-cut.json) |
 | Dream Dance & Cheer | 50632 | [50632-dream-dance-and-cheer.json](./50632-dream-dance-and-cheer.json) |
 | Dream Dancer | 209170 | [209170-dream-dancer.json](./209170-dream-dancer.json) |
