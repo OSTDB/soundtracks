@@ -7979,6 +7979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BoomSweeper VR | 232970 | [232970-boomsweeper-vr.json](./232970-boomsweeper-vr.json) |
 | BoomTris | 120963 | [120963-boomtris.json](./120963-boomtris.json) |
 | Boomy the Cat | 58784 | [58784-boomy-the-cat.json](./58784-boomy-the-cat.json) |
+| BoomYa! | 303214 | [303214-boomya.json](./303214-boomya.json) |
 | Boon Blast | 86779 | [86779-boon-blast.json](./86779-boon-blast.json) |
 | Boon Boon | 119691 | [119691-boon-boon.json](./119691-boon-boon.json) |
 | Boong-Ga Boong-Ga | 58738 | [58738-boong-ga-boong-ga.json](./58738-boong-ga-boong-ga.json) |
