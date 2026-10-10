@@ -13183,6 +13183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spice and Wolf VR | 105419 | [105419-spice-and-wolf-vr.json](./105419-spice-and-wolf-vr.json) |
 | Spice and Wolf: The Wind that Spans the Sea | 123448 | [123448-spice-and-wolf-the-wind-that-spans-the-sea.json](./123448-spice-and-wolf-the-wind-that-spans-the-sea.json) |
 | Spice Evaders | 180583 | [180583-spice-evaders.json](./180583-spice-evaders.json) |
+| Spice Odyssey | 310492 | [310492-spice-odyssey.json](./310492-spice-odyssey.json) |
 | Spice Road | 17287 | [17287-spice-road.json](./17287-spice-road.json) |
 | Spice World | 44907 | [44907-spice-world.json](./44907-spice-world.json) |
 | SpiceX | 362994 | [362994-spicex.json](./362994-spicex.json) |
@@ -18033,6 +18034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudoku Haven | 408723 | [408723-sudoku-haven.json](./408723-sudoku-haven.json) |
 | Sudoku HD | 97911 | [97911-sudoku-hd.json](./97911-sudoku-hd.json) |
 | Sudoku HD for iPad | 101666 | [101666-sudoku-hd-for-ipad.json](./101666-sudoku-hd-for-ipad.json) |
+| Sudoku Infinite | 310688 | [310688-sudoku-infinite.json](./310688-sudoku-infinite.json) |
 | Sudoku Jigsaw | 103418 | [103418-sudoku-jigsaw.json](./103418-sudoku-jigsaw.json) |
 | Sudoku Keychain LCD Game | 233607 | [233607-sudoku-keychain-lcd-game.json](./233607-sudoku-keychain-lcd-game.json) |
 | Sudoku Killer | 103420 | [103420-sudoku-killer.json](./103420-sudoku-killer.json) |
@@ -19857,6 +19859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Monkey Ball: Banana Mania - Launch Edition | 323951 | [323951-super-monkey-ball-banana-mania-launch-edition.json](./323951-super-monkey-ball-banana-mania-launch-edition.json) |
 | Super Monkey Ball: Banana Rumble - Amy | 309079 | [309079-super-monkey-ball-banana-rumble-amy.json](./309079-super-monkey-ball-banana-rumble-amy.json) |
 | Super Monkey Ball: Banana Rumble - Axel | 310684 | [310684-super-monkey-ball-banana-rumble-axel.json](./310684-super-monkey-ball-banana-rumble-axel.json) |
+| Super Monkey Ball: Banana Rumble - Beat | 310690 | [310690-super-monkey-ball-banana-rumble-beat.json](./310690-super-monkey-ball-banana-rumble-beat.json) |
 | Super Monkey Ball: Banana Rumble - Crewmate | 330551 | [330551-super-monkey-ball-banana-rumble-crewmate.json](./330551-super-monkey-ball-banana-rumble-crewmate.json) |
 | Super Monkey Ball: Banana Rumble - Digital Deluxe Edition | 288279 | [288279-super-monkey-ball-banana-rumble-digital-deluxe-edition.json](./288279-super-monkey-ball-banana-rumble-digital-deluxe-edition.json) |
 | Super Monkey Ball: Banana Rumble - Dole Logo Sticker Ball | 332227 | [332227-super-monkey-ball-banana-rumble-dole-logo-sticker-ball.json](./332227-super-monkey-ball-banana-rumble-dole-logo-sticker-ball.json) |
