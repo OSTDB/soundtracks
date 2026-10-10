@@ -1455,6 +1455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Man's Trash | 343353 | [343353-one-mans-trash.json](./343353-one-mans-trash.json) |
 | One Man's War | 226716 | [226716-one-mans-war.json](./226716-one-mans-war.json) |
 | One Many Nobody | 201430 | [201430-one-many-nobody.json](./201430-one-many-nobody.json) |
+| One Map: Never Ending Battle Royale | 321038 | [321038-one-map-never-ending-battle-royale.json](./321038-one-map-never-ending-battle-royale.json) |
 | One Military Camp: Biomes | 298097 | [298097-one-military-camp-biomes.json](./298097-one-military-camp-biomes.json) |
 | One Military Camp: Christmas Season | 285111 | [285111-one-military-camp-christmas-season.json](./285111-one-military-camp-christmas-season.json) |
 | One Military Camp: Commander Goals | 288214 | [288214-one-military-camp-commander-goals.json](./288214-one-military-camp-commander-goals.json) |
