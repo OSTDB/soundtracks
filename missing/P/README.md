@@ -4129,6 +4129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pimp My Ride Street Racing | 274184 | [274184-pimp-my-ride-street-racing.json](./274184-pimp-my-ride-street-racing.json) |
 | Pimp Up Dungeon | 358426 | [358426-pimp-up-dungeon.json](./358426-pimp-up-dungeon.json) |
 | PimpWars | 72318 | [72318-pimpwars.json](./72318-pimpwars.json) |
+| Pimpy Da Pimp | 299555 | [299555-pimpy-da-pimp.json](./299555-pimpy-da-pimp.json) |
 | PiN | 28154 | [28154-pin.json](./28154-pin.json) |
 | Pin Ball | 59809 | [59809-pin-ball.json](./59809-pin-ball.json) |
 | Pin Ball Voyage | 100768 | [100768-pin-ball-voyage.json](./100768-pin-ball-voyage.json) |
@@ -10192,6 +10193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psiplex | 305981 | [305981-psiplex.json](./305981-psiplex.json) |
 | PsiSyn: The Game | 368381 | [368381-psisyn-the-game.json](./368381-psisyn-the-game.json) |
 | PSN Protector | 320978 | [320978-psn-protector.json](./320978-psn-protector.json) |
+| Psoltrix | 299547 | [299547-psoltrix.json](./299547-psoltrix.json) |
 | Psps Dream Mart | 394109 | [394109-psps-dream-mart.json](./394109-psps-dream-mart.json) |
 | PSS-61 | 263675 | [263675-pss-61.json](./263675-pss-61.json) |
 | PSS-62 | 263676 | [263676-pss-62.json](./263676-pss-62.json) |
