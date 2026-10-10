@@ -342,6 +342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backrooms Fishing | 405621 | [405621-backrooms-fishing.json](./405621-backrooms-fishing.json) |
 | Backrooms Game No. 999999 | 283973 | [283973-backrooms-game-no-999999.json](./283973-backrooms-game-no-999999.json) |
 | Backrooms Hide and Seek | 220349 | [220349-backrooms-hide-and-seek.json](./220349-backrooms-hide-and-seek.json) |
+| Backrooms Horror Escape | 317563 | [317563-backrooms-horror-escape.json](./317563-backrooms-horror-escape.json) |
 | Backrooms Journey: Into the unknown | 329167 | [329167-backrooms-journey-into-the-unknown.json](./329167-backrooms-journey-into-the-unknown.json) |
 | Backrooms Liminal Escape | 343301 | [343301-backrooms-liminal-escape.json](./343301-backrooms-liminal-escape.json) |
 | Backrooms Lost Runners | 364009 | [364009-backrooms-lost-runners.json](./364009-backrooms-lost-runners.json) |
@@ -4113,6 +4114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Between Adventures Idle | 365079 | [365079-between-adventures-idle.json](./365079-between-adventures-idle.json) |
 | Between Gods | 414464 | [414464-between-gods.json](./414464-between-gods.json) |
 | Between Heaven and Hell | 72033 | [72033-between-heaven-and-hell.json](./72033-between-heaven-and-hell.json) |
+| Between Horizons + Lacuna Bundle | 317553 | [317553-between-horizons-lacuna-bundle.json](./317553-between-horizons-lacuna-bundle.json) |
 | Between Me and the Night | 16985 | [16985-between-me-and-the-night.json](./16985-between-me-and-the-night.json) |
 | Between Planets | 121005 | [121005-between-planets.json](./121005-between-planets.json) |
 | Between Sky and Earth | 348822 | [348822-between-sky-and-earth.json](./348822-between-sky-and-earth.json) |
@@ -4174,6 +4176,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond Blue: After the Storm | 329974 | [329974-beyond-blue-after-the-storm.json](./329974-beyond-blue-after-the-storm.json) |
 | Beyond Border | 317417 | [317417-beyond-border.json](./317417-beyond-border.json) |
 | Beyond Castle Wolfenstein | 307296 | [307296-beyond-castle-wolfenstein.json](./307296-beyond-castle-wolfenstein.json) |
+| Beyond Castle Wolfenstein | 317532 | [317532-beyond-castle-wolfenstein.json](./317532-beyond-castle-wolfenstein.json) |
+| Beyond Castle Wolfenstein | 317535 | [317535-beyond-castle-wolfenstein.json](./317535-beyond-castle-wolfenstein.json) |
 | Beyond Chess | 232379 | [232379-beyond-chess.json](./232379-beyond-chess.json) |
 | Beyond Citadel | 322842 | [322842-beyond-citadel.json](./322842-beyond-citadel.json) |
 | Beyond Clouds | 74479 | [74479-beyond-clouds.json](./74479-beyond-clouds.json) |
@@ -10291,6 +10295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bullet Inferno | 368494 | [368494-bullet-inferno.json](./368494-bullet-inferno.json) |
 | Bullet Looper | 180051 | [180051-bullet-looper.json](./180051-bullet-looper.json) |
 | Bullet Maniac | 237629 | [237629-bullet-maniac.json](./237629-bullet-maniac.json) |
+| Bullet Noir | 317536 | [317536-bullet-noir.json](./317536-bullet-noir.json) |
 | Bullet Quest | 199461 | [199461-bullet-quest.json](./199461-bullet-quest.json) |
 | Bullet Rain | 302357 | [302357-bullet-rain.json](./302357-bullet-rain.json) |
 | Bullet Reality | 185435 | [185435-bullet-reality.json](./185435-bullet-reality.json) |
@@ -10431,6 +10436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bundesliga Manager Professional | 72301 | [72301-bundesliga-manager-professional.json](./72301-bundesliga-manager-professional.json) |
 | Bundesliga Stars 2000 | 44832 | [44832-bundesliga-stars-2000.json](./44832-bundesliga-stars-2000.json) |
 | Bundle | 328983 | [328983-bundle.json](./328983-bundle.json) |
+| Bundle of Joy | 317526 | [317526-bundle-of-joy.json](./317526-bundle-of-joy.json) |
 | Bundle: Journey of the Broken Circle + Cosmic Top Secret | 218468 | [218468-bundle-journey-of-the-broken-circle-cosmic-top-secret.json](./218468-bundle-journey-of-the-broken-circle-cosmic-top-secret.json) |
 | Bunflower | 205014 | [205014-bunflower.json](./205014-bunflower.json) |
 | Bung Ball | 252808 | [252808-bung-ball.json](./252808-bung-ball.json) |
