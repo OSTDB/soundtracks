@@ -861,6 +861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallout Trilogy | 45128 | [45128-fallout-trilogy.json](./45128-fallout-trilogy.json) |
 | Fallout Zero | 343938 | [343938-fallout-zero.json](./343938-fallout-zero.json) |
 | Fallout: Dust | 243647 | [243647-fallout-dust.json](./243647-fallout-dust.json) |
+| Fallout: Empire Wastes | 322274 | [322274-fallout-empire-wastes.json](./322274-fallout-empire-wastes.json) |
 | Fallout: New Vegas - Courier's Stash | 45127 | [45127-fallout-new-vegas-couriers-stash.json](./45127-fallout-new-vegas-couriers-stash.json) |
 | Fallout: New Vegas - Dead Money | 10304 | [10304-fallout-new-vegas-dead-money.json](./10304-fallout-new-vegas-dead-money.json) |
 | Fallout: New Vegas - Lonesome Road | 10307 | [10307-fallout-new-vegas-lonesome-road.json](./10307-fallout-new-vegas-lonesome-road.json) |
@@ -6276,6 +6277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortnite: Storm-Wild Raven Starter Pack | 331701 | [331701-fortnite-storm-wild-raven-starter-pack.json](./331701-fortnite-storm-wild-raven-starter-pack.json) |
 | Fortnite: The Final Reckoning Pack | 277521 | [277521-fortnite-the-final-reckoning-pack.json](./277521-fortnite-the-final-reckoning-pack.json) |
 | Fortnite: The Last Laugh Bundle | 139889 | [139889-fortnite-the-last-laugh-bundle.json](./139889-fortnite-the-last-laugh-bundle.json) |
+| Fortnite: The Wavebreaker Pack | 322257 | [322257-fortnite-the-wavebreaker-pack.json](./322257-fortnite-the-wavebreaker-pack.json) |
 | Fortnite: Transformers Pack | 255268 | [255268-fortnite-transformers-pack.json](./255268-fortnite-transformers-pack.json) |
 | Fortnite: Voidlander Pack | 254665 | [254665-fortnite-voidlander-pack.json](./254665-fortnite-voidlander-pack.json) |
 | Fortnite: Yellowjacket Pack | 360189 | [360189-fortnite-yellowjacket-pack.json](./360189-fortnite-yellowjacket-pack.json) |
