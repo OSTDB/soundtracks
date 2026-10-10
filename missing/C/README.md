@@ -955,6 +955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capelord: Bounty Hunters | 190718 | [190718-capelord-bounty-hunters.json](./190718-capelord-bounty-hunters.json) |
 | Capers vs Pirates | 336680 | [336680-capers-vs-pirates.json](./336680-capers-vs-pirates.json) |
 | Capes | 217376 | [217376-capes.json](./217376-capes.json) |
+| Capes: King City Edition | 303287 | [303287-capes-king-city-edition.json](./303287-capes-king-city-edition.json) |
 | Capes: Supporter Pack | 304362 | [304362-capes-supporter-pack.json](./304362-capes-supporter-pack.json) |
 | Capgras | 138023 | [138023-capgras.json](./138023-capgras.json) |
 | Caphaclus Recommence | 207369 | [207369-caphaclus-recommence.json](./207369-caphaclus-recommence.json) |
@@ -5171,6 +5172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cinder City | 361814 | [361814-cinder-city.json](./361814-cinder-city.json) |
 | Cinderella | 66954 | [66954-cinderella.json](./66954-cinderella.json) |
 | Cinderella (games for girls) | 103978 | [103978-cinderella-games-for-girls.json](./103978-cinderella-games-for-girls.json) |
+| Cinderella After 4 | 303292 | [303292-cinderella-after-4.json](./303292-cinderella-after-4.json) |
 | Cinderella Dollhouse 2 | 50424 | [50424-cinderella-dollhouse-2.json](./50424-cinderella-dollhouse-2.json) |
 | Cinderella Escape! R12 | 34330 | [34330-cinderella-escape-r12.json](./34330-cinderella-escape-r12.json) |
 | Cinderella Nine in August | 82121 | [82121-cinderella-nine-in-august.json](./82121-cinderella-nine-in-august.json) |
@@ -5889,6 +5891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Claw Breaker | 105290 | [105290-claw-breaker.json](./105290-claw-breaker.json) |
 | Claw Dropper | 365720 | [365720-claw-dropper.json](./365720-claw-dropper.json) |
 | Claw Express | 270384 | [270384-claw-express.json](./270384-claw-express.json) |
+| Claw Machine Arcade | 303218 | [303218-claw-machine-arcade.json](./303218-claw-machine-arcade.json) |
 | Claw Machine Sim | 259013 | [259013-claw-machine-sim.json](./259013-claw-machine-sim.json) |
 | Clawbert: ToyTown | 96831 | [96831-clawbert-toytown.json](./96831-clawbert-toytown.json) |
 | Clawberta | 192191 | [192191-clawberta.json](./192191-clawberta.json) |
