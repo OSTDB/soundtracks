@@ -5880,6 +5880,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honor of Heirs | 193876 | [193876-honor-of-heirs.json](./193876-honor-of-heirs.json) |
 | Honor of Kings: World | 180147 | [180147-honor-of-kings-world.json](./180147-honor-of-kings-world.json) |
 | Honor of Knight King | 174109 | [174109-honor-of-knight-king.json](./174109-honor-of-knight-king.json) |
+| Honour & Freedom II | 283085 | [283085-honour-and-freedom-ii.json](./283085-honour-and-freedom-ii.json) |
+| Honour & Freedom II Power Enhanced Edition | 283088 | [283088-honour-and-freedom-ii-power-enhanced-edition.json](./283088-honour-and-freedom-ii-power-enhanced-edition.json) |
 | Honourbound | 61999 | [61999-honourbound.json](./61999-honourbound.json) |
 | Honshougi: Naitou 9 Dan Shougi Hiden | 267667 | [267667-honshougi-naitou-9-dan-shougi-hiden.json](./267667-honshougi-naitou-9-dan-shougi-hiden.json) |
 | Honton Tange | 97998 | [97998-honton-tange.json](./97998-honton-tange.json) |
@@ -6015,6 +6017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hope Timbre | 295531 | [295531-hope-timbre.json](./295531-hope-timbre.json) |
 | Hope VR: Emotional Intelligence Assistant | 169926 | [169926-hope-vr-emotional-intelligence-assistant.json](./169926-hope-vr-emotional-intelligence-assistant.json) |
 | Hope We'll Still be Friends Tomorrow | 410251 | [410251-hope-well-still-be-friends-tomorrow.json](./410251-hope-well-still-be-friends-tomorrow.json) |
+| Hope with Island | 283094 | [283094-hope-with-island.json](./283094-hope-with-island.json) |
 | Hope: A Sky Full of Ghosts | 317312 | [317312-hope-a-sky-full-of-ghosts.json](./317312-hope-a-sky-full-of-ghosts.json) |
 | Hope: The Other Side of Adventure | 192900 | [192900-hope-the-other-side-of-adventure.json](./192900-hope-the-other-side-of-adventure.json) |
 | Hope: Unlived Life | 358246 | [358246-hope-unlived-life.json](./358246-hope-unlived-life.json) |
