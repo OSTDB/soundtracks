@@ -3198,6 +3198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantom Brave PC: Digital Chroma Edition | 53457 | [53457-phantom-brave-pc-digital-chroma-edition.json](./53457-phantom-brave-pc-digital-chroma-edition.json) |
 | Phantom Brave: The Hermuda Triangle Remastered | 144246 | [144246-phantom-brave-the-hermuda-triangle-remastered.json](./144246-phantom-brave-the-hermuda-triangle-remastered.json) |
 | Phantom Brave: The Lost Hero | 306146 | [306146-phantom-brave-the-lost-hero.json](./306146-phantom-brave-the-lost-hero.json) |
+| Phantom Brave: The Lost Hero - Digital Deluxe Edition | 330204 | [330204-phantom-brave-the-lost-hero-digital-deluxe-edition.json](./330204-phantom-brave-the-lost-hero-digital-deluxe-edition.json) |
 | Phantom Brave: The Lost Hero - Heroes of the Past | 332520 | [332520-phantom-brave-the-lost-hero-heroes-of-the-past.json](./332520-phantom-brave-the-lost-hero-heroes-of-the-past.json) |
 | Phantom Brave: The Lost Hero - Parallel Siblings | 332521 | [332521-phantom-brave-the-lost-hero-parallel-siblings.json](./332521-phantom-brave-the-lost-hero-parallel-siblings.json) |
 | Phantom Brave: The Lost Hero - The Girl Who Cried Ghost | 332522 | [332522-phantom-brave-the-lost-hero-the-girl-who-cried-ghost.json](./332522-phantom-brave-the-lost-hero-the-girl-who-cried-ghost.json) |
@@ -5327,6 +5328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pizza at Resort 64 | 394367 | [394367-pizza-at-resort-64.json](./394367-pizza-at-resort-64.json) |
 | Pizza Bandit | 258559 | [258559-pizza-bandit.json](./258559-pizza-bandit.json) |
 | Pizza Bar Tycoon: Complete Edition | 222235 | [222235-pizza-bar-tycoon-complete-edition.json](./222235-pizza-bar-tycoon-complete-edition.json) |
+| Pizza Bar Tycoon: Discovery Edition | 330205 | [330205-pizza-bar-tycoon-discovery-edition.json](./330205-pizza-bar-tycoon-discovery-edition.json) |
 | Pizza Bar Tycoon: Expansion Pack 1 | 237977 | [237977-pizza-bar-tycoon-expansion-pack-1.json](./237977-pizza-bar-tycoon-expansion-pack-1.json) |
 | Pizza Bar Tycoon: Expansion Pack 2 | 237978 | [237978-pizza-bar-tycoon-expansion-pack-2.json](./237978-pizza-bar-tycoon-expansion-pack-2.json) |
 | Pizza Bar Tycoon: Legendary Edition | 332508 | [332508-pizza-bar-tycoon-legendary-edition.json](./332508-pizza-bar-tycoon-legendary-edition.json) |
@@ -7105,6 +7107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pole Position II | 293758 | [293758-pole-position-ii.json](./293758-pole-position-ii.json) |
 | Pole Position: Remix | 21875 | [21875-pole-position-remix.json](./21875-pole-position-remix.json) |
 | Pole Riders | 342166 | [342166-pole-riders.json](./342166-pole-riders.json) |
+| Pole Vault | 330122 | [330122-pole-vault.json](./330122-pole-vault.json) |
 | Poled Apart | 415319 | [415319-poled-apart.json](./415319-poled-apart.json) |
 | Polegli | 57115 | [57115-polegli.json](./57115-polegli.json) |
 | Polemista | 404403 | [404403-polemista.json](./404403-polemista.json) |
@@ -7460,6 +7463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pool Edge | 4072 | [4072-pool-edge.json](./4072-pool-edge.json) |
 | Pool Elite | 103180 | [103180-pool-elite.json](./103180-pool-elite.json) |
 | Pool Fever Cue to Glory | 378964 | [378964-pool-fever-cue-to-glory.json](./378964-pool-fever-cue-to-glory.json) |
+| Pool Fever: Deluxe Edition | 330206 | [330206-pool-fever-deluxe-edition.json](./330206-pool-fever-deluxe-edition.json) |
 | Pool Fever: Prime Edition | 332513 | [332513-pool-fever-prime-edition.json](./332513-pool-fever-prime-edition.json) |
 | Pool Fever: Superior Edition | 396925 | [396925-pool-fever-superior-edition.json](./396925-pool-fever-superior-edition.json) |
 | Pool Fever: Upgrade Edition | 399825 | [399825-pool-fever-upgrade-edition.json](./399825-pool-fever-upgrade-edition.json) |
