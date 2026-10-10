@@ -4560,6 +4560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flash Focus: Vision Training in Minutes a Day | 21912 | [21912-flash-focus-vision-training-in-minutes-a-day.json](./21912-flash-focus-vision-training-in-minutes-a-day.json) |
 | Flash Gordon | 218420 | [218420-flash-gordon.json](./218420-flash-gordon.json) |
 | Flash Gordon | 22735 | [22735-flash-gordon.json](./22735-flash-gordon.json) |
+| Flash of the Blade X | 282527 | [282527-flash-of-the-blade-x.json](./282527-flash-of-the-blade-x.json) |
 | Flash Party: 2023 Hero Pack | 295122 | [295122-flash-party-2023-hero-pack.json](./295122-flash-party-2023-hero-pack.json) |
 | Flash Point | 114159 | [114159-flash-point.json](./114159-flash-point.json) |
 | Flash Point | 46793 | [46793-flash-point.json](./46793-flash-point.json) |
