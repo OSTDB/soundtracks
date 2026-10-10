@@ -4114,6 +4114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meat Train | 395789 | [395789-meat-train.json](./395789-meat-train.json) |
 | Meat Veterans | 258561 | [258561-meat-veterans.json](./258561-meat-veterans.json) |
 | Meat Without Master | 349839 | [349839-meat-without-master.json](./349839-meat-without-master.json) |
+| Meat-Grinder | 280126 | [280126-meat-grinder.json](./280126-meat-grinder.json) |
 | Meatball | 156613 | [156613-meatball.json](./156613-meatball.json) |
 | Meatballphobia | 62286 | [62286-meatballphobia.json](./62286-meatballphobia.json) |
 | Meatballs | 409391 | [409391-meatballs.json](./409391-meatballs.json) |
@@ -5858,6 +5859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merry Go Wrong | 181323 | [181323-merry-go-wrong.json](./181323-merry-go-wrong.json) |
 | Merry Snowballs | 27016 | [27016-merry-snowballs.json](./27016-merry-snowballs.json) |
 | Merry Xmas Santa | 57170 | [57170-merry-xmas-santa.json](./57170-merry-xmas-santa.json) |
+| Merry XMerge | 280128 | [280128-merry-xmerge.json](./280128-merry-xmerge.json) |
 | Merto's Part | 168644 | [168644-mertos-part.json](./168644-mertos-part.json) |
 | Meru Purana | 125421 | [125421-meru-purana.json](./125421-meru-purana.json) |
 | Merv Griffin's Crosswords | 50945 | [50945-merv-griffins-crosswords.json](./50945-merv-griffins-crosswords.json) |
