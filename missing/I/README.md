@@ -231,6 +231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Hurt Myself: Postjam Edition | 198456 | [198456-i-hurt-myself-postjam-edition.json](./198456-i-hurt-myself-postjam-edition.json) |
 | I Just Wanna Land! | 289036 | [289036-i-just-wanna-land.json](./289036-i-just-wanna-land.json) |
 | I Just Want to Be Single!! | 180571 | [180571-i-just-want-to-be-single.json](./180571-i-just-want-to-be-single.json) |
+| I Keep Dying in Another World | 279510 | [279510-i-keep-dying-in-another-world.json](./279510-i-keep-dying-in-another-world.json) |
 | I Knew You Would Find This | 177816 | [177816-i-knew-you-would-find-this.json](./177816-i-knew-you-would-find-this.json) |
 | I Know a Guy | 389006 | [389006-i-know-a-guy.json](./389006-i-know-a-guy.json) |
 | I Know a Spot | 408984 | [408984-i-know-a-spot.json](./408984-i-know-a-spot.json) |
