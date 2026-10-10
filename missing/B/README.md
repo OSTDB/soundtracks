@@ -2881,6 +2881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bburago Rally | 362414 | [362414-bburago-rally.json](./362414-bburago-rally.json) |
 | Bby don't hurt me | 383011 | [383011-bby-dont-hurt-me.json](./383011-bby-dont-hurt-me.json) |
 | BC Racers | 5362 | [5362-bc-racers.json](./5362-bc-racers.json) |
+| BCBasic | 313457 | [313457-bcbasic.json](./313457-bcbasic.json) |
 | BCFX: The Doug Williams Edition | 70603 | [70603-bcfx-the-doug-williams-edition.json](./70603-bcfx-the-doug-williams-edition.json) |
 | BCI VR Horror Attraction: The Mad Trail | 202097 | [202097-bci-vr-horror-attraction-the-mad-trail.json](./202097-bci-vr-horror-attraction-the-mad-trail.json) |
 | Bckspce | 411576 | [411576-bckspce.json](./411576-bckspce.json) |
