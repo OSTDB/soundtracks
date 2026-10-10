@@ -3358,6 +3358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Over G Fighters | 7127 | [7127-over-g-fighters.json](./7127-over-g-fighters.json) |
 | Over Hazed | 193997 | [193997-over-hazed.json](./193997-over-hazed.json) |
 | Over Heroes | 341527 | [341527-over-heroes.json](./341527-over-heroes.json) |
+| Over Horizon X Steel Empire | 306553 | [306553-over-horizon-x-steel-empire.json](./306553-over-horizon-x-steel-empire.json) |
 | Over Islands | 291525 | [291525-over-islands.json](./291525-over-islands.json) |
 | Over Jump Rally | 260225 | [260225-over-jump-rally.json](./260225-over-jump-rally.json) |
 | Over Many Waters | 270964 | [270964-over-many-waters.json](./270964-over-many-waters.json) |
