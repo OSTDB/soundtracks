@@ -11131,6 +11131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons & Dragons: Shadow over Mystara | 10253 | [10253-dungeons-and-dragons-shadow-over-mystara.json](./10253-dungeons-and-dragons-shadow-over-mystara.json) |
 | Dungeons & Drivers | 332842 | [332842-dungeons-and-drivers.json](./332842-dungeons-and-drivers.json) |
 | Dungeons & Dummies | 408190 | [408190-dungeons-and-dummies.json](./408190-dungeons-and-dummies.json) |
+| Dungeons & Furries | 310486 | [310486-dungeons-and-furries.json](./310486-dungeons-and-furries.json) |
 | Dungeons & Geese | 51855 | [51855-dungeons-and-geese.json](./51855-dungeons-and-geese.json) |
 | Dungeons & Guns | 158081 | [158081-dungeons-and-guns.json](./158081-dungeons-and-guns.json) |
 | Dungeons & Keyboards | 250953 | [250953-dungeons-and-keyboards.json](./250953-dungeons-and-keyboards.json) |
