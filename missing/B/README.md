@@ -6277,6 +6277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blitz!: Action Football | 41991 | [41991-blitz-action-football.json](./41991-blitz-action-football.json) |
 | Blitzar | 178995 | [178995-blitzar.json](./178995-blitzar.json) |
 | BlitzBombers | 92854 | [92854-blitzbombers.json](./92854-blitzbombers.json) |
+| BlitzBot | 292422 | [292422-blitzbot.json](./292422-blitzbot.json) |
 | Blitzcrank's Poro Roundup | 59871 | [59871-blitzcranks-poro-roundup.json](./59871-blitzcranks-poro-roundup.json) |
 | BlitzKeep Unleashed | 110148 | [110148-blitzkeep-unleashed.json](./110148-blitzkeep-unleashed.json) |
 | Blitzkrieg | 122201 | [122201-blitzkrieg.json](./122201-blitzkrieg.json) |
@@ -6955,6 +6956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloom for Me | 358327 | [358327-bloom-for-me.json](./358327-bloom-for-me.json) |
 | Bloom Paradise | 347310 | [347310-bloom-paradise.json](./347310-bloom-paradise.json) |
 | Bloom Runner | 258175 | [258175-bloom-runner.json](./258175-bloom-runner.json) |
+| Bloom Thrice | 292434 | [292434-bloom-thrice.json](./292434-bloom-thrice.json) |
 | Bloom: Memories | 61558 | [61558-bloom-memories.json](./61558-bloom-memories.json) |
 | Bloom: The Forest Burns | 132701 | [132701-bloom-the-forest-burns.json](./132701-bloom-the-forest-burns.json) |
 | Bloom! Valentine's Edition | 337261 | [337261-bloom-valentines-edition.json](./337261-bloom-valentines-edition.json) |
