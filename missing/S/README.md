@@ -7257,6 +7257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skelemental: Monk's Fury | 295881 | [295881-skelemental-monks-fury.json](./295881-skelemental-monks-fury.json) |
 | Skeleport Energy | 276765 | [276765-skeleport-energy.json](./276765-skeleport-energy.json) |
 | Skelerun | 198513 | [198513-skelerun.json](./198513-skelerun.json) |
+| Skeleseller | 328397 | [328397-skeleseller.json](./328397-skeleseller.json) |
 | Skeleskeleskelter | 234560 | [234560-skeleskeleskelter.json](./234560-skeleskeleskelter.json) |
 | Skelet_666 | 306380 | [306380-skelet-666.json](./306380-skelet-666.json) |
 | Skeletal Avenger | 136435 | [136435-skeletal-avenger.json](./136435-skeletal-avenger.json) |
