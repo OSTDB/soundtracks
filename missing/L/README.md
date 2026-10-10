@@ -5264,11 +5264,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Dots | 88160 | [88160-love-dots.json](./88160-love-dots.json) |
 | Love Drops | 204395 | [204395-love-drops.json](./204395-love-drops.json) |
 | Love Drops: Miracle Doukyo Monogatari | 204393 | [204393-love-drops-miracle-doukyo-monogatari.json](./204393-love-drops-miracle-doukyo-monogatari.json) |
+| Love Elysium: Secret of the Goddess - Aimi's Secrets | 309072 | [309072-love-elysium-secret-of-the-goddess-aimis-secrets.json](./309072-love-elysium-secret-of-the-goddess-aimis-secrets.json) |
 | Love Elysium: Secret of the Goddess - Complete + | 324455 | [324455-love-elysium-secret-of-the-goddess-complete.json](./324455-love-elysium-secret-of-the-goddess-complete.json) |
 | Love Elysium: Secret of the Goddess - Deluxe Edition | 309042 | [309042-love-elysium-secret-of-the-goddess-deluxe-edition.json](./309042-love-elysium-secret-of-the-goddess-deluxe-edition.json) |
+| Love Elysium: Secret of the Goddess - Emiko's Secrets | 309073 | [309073-love-elysium-secret-of-the-goddess-emikos-secrets.json](./309073-love-elysium-secret-of-the-goddess-emikos-secrets.json) |
 | Love Elysium: Secret of the Goddess - Extended Edition | 315872 | [315872-love-elysium-secret-of-the-goddess-extended-edition.json](./315872-love-elysium-secret-of-the-goddess-extended-edition.json) |
+| Love Elysium: Secret of the Goddess - Haru's Secrets | 309071 | [309071-love-elysium-secret-of-the-goddess-harus-secrets.json](./309071-love-elysium-secret-of-the-goddess-harus-secrets.json) |
 | Love Elysium: Secret of the Goddess - Special Edition | 317251 | [317251-love-elysium-secret-of-the-goddess-special-edition.json](./317251-love-elysium-secret-of-the-goddess-special-edition.json) |
+| Love Elysium: Secret of the Goddess - Tomoe's Secrets | 309069 | [309069-love-elysium-secret-of-the-goddess-tomoes-secrets.json](./309069-love-elysium-secret-of-the-goddess-tomoes-secrets.json) |
 | Love Elysium: Secret of the Goddess - Ultimate Edition | 313141 | [313141-love-elysium-secret-of-the-goddess-ultimate-edition.json](./313141-love-elysium-secret-of-the-goddess-ultimate-edition.json) |
+| Love Elysium: Secret of the Goddess - Yuina's Secrets | 309070 | [309070-love-elysium-secret-of-the-goddess-yuinas-secrets.json](./309070-love-elysium-secret-of-the-goddess-yuinas-secrets.json) |
 | Love Engine | 29956 | [29956-love-engine.json](./29956-love-engine.json) |
 | Love Eternal | 305358 | [305358-love-eternal.json](./305358-love-eternal.json) |
 | Love Fashion and Friends | 70598 | [70598-love-fashion-and-friends.json](./70598-love-fashion-and-friends.json) |
