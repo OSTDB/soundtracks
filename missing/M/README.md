@@ -2684,6 +2684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mars Wars | 117583 | [117583-mars-wars.json](./117583-mars-wars.json) |
 | Mars Xplorer | 239114 | [239114-mars-xplorer.json](./239114-mars-xplorer.json) |
 | Mars: Chaos Menace | 111712 | [111712-mars-chaos-menace.json](./111712-mars-chaos-menace.json) |
+| Mars: The Last Exodus | 333035 | [333035-mars-the-last-exodus.json](./333035-mars-the-last-exodus.json) |
 | Mars: The New Eden | 215618 | [215618-mars-the-new-eden.json](./215618-mars-the-new-eden.json) |
 | Mars: War Logs | 1830 | [1830-mars-war-logs.json](./1830-mars-war-logs.json) |
 | Mars4 | 266175 | [266175-mars4.json](./266175-mars4.json) |
@@ -6190,6 +6191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mewn | 212772 | [212772-mewn.json](./212772-mewn.json) |
 | Mewnbase | 54984 | [54984-mewnbase.json](./54984-mewnbase.json) |
 | Mewseum: Film Festival | 391165 | [391165-mewseum-film-festival.json](./391165-mewseum-film-festival.json) |
+| Mewseum: Masterpieces | 332971 | [332971-mewseum-masterpieces.json](./332971-mewseum-masterpieces.json) |
 | Mewts | 388949 | [388949-mewts.json](./388949-mewts.json) |
 | Mexiball | 208009 | [208009-mexiball.json](./208009-mexiball.json) |
 | Mexican High School Simulator | 257355 | [257355-mexican-high-school-simulator.json](./257355-mexican-high-school-simulator.json) |
@@ -8955,6 +8957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mokoko X Deluxe | 246636 | [246636-mokoko-x-deluxe.json](./246636-mokoko-x-deluxe.json) |
 | Mokomon: Five Elements | 415152 | [415152-mokomon-five-elements.json](./415152-mokomon-five-elements.json) |
 | Moksha | 402528 | [402528-moksha.json](./402528-moksha.json) |
+| MolaMola Adventure | 333039 | [333039-molamola-adventure.json](./333039-molamola-adventure.json) |
 | Molang: A Happy Day | 101010 | [101010-molang-a-happy-day.json](./101010-molang-a-happy-day.json) |
 | Mold From Outer Space | 344915 | [344915-mold-from-outer-space.json](./344915-mold-from-outer-space.json) |
 | Mold on Pizza | 34817 | [34817-mold-on-pizza.json](./34817-mold-on-pizza.json) |
