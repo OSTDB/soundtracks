@@ -871,6 +871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer 40,000: Boltgun - Forges of Corruption Edition | 306489 | [306489-warhammer-40-000-boltgun-forges-of-corruption-edition.json](./306489-warhammer-40-000-boltgun-forges-of-corruption-edition.json) |
 | Warhammer 40,000: Boltgun Boom | 402507 | [402507-warhammer-40-000-boltgun-boom.json](./402507-warhammer-40-000-boltgun-boom.json) |
 | Warhammer 40,000: Chaos Gate - Daemonhunters | 152266 | [152266-warhammer-40-000-chaos-gate-daemonhunters.json](./152266-warhammer-40-000-chaos-gate-daemonhunters.json) |
+| Warhammer 40,000: Chaos Gate - Daemonhunters: Castellan - Garran Crowe | 303284 | [303284-warhammer-40-000-chaos-gate-daemonhunters-castellan-garran-crowe.json](./303284-warhammer-40-000-chaos-gate-daemonhunters-castellan-garran-crowe.json) |
 | Warhammer 40,000: Chaos Gate - Deathwatch | 402517 | [402517-warhammer-40-000-chaos-gate-deathwatch.json](./402517-warhammer-40-000-chaos-gate-deathwatch.json) |
 | Warhammer 40,000: Dakka Squadron | 143650 | [143650-warhammer-40-000-dakka-squadron.json](./143650-warhammer-40-000-dakka-squadron.json) |
 | Warhammer 40,000: Dakka Squadron - Flyboyz Edition | 143648 | [143648-warhammer-40-000-dakka-squadron-flyboyz-edition.json](./143648-warhammer-40-000-dakka-squadron-flyboyz-edition.json) |
@@ -925,6 +926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer 40,000: Regicide - Deluxe Edition | 53903 | [53903-warhammer-40-000-regicide-deluxe-edition.json](./53903-warhammer-40-000-regicide-deluxe-edition.json) |
 | Warhammer 40,000: Rogue Trader | 203259 | [203259-warhammer-40-000-rogue-trader.json](./203259-warhammer-40-000-rogue-trader.json) |
 | Warhammer 40,000: Rogue Trader - Deluxe Edition | 279888 | [279888-warhammer-40-000-rogue-trader-deluxe-edition.json](./279888-warhammer-40-000-rogue-trader-deluxe-edition.json) |
+| Warhammer 40,000: Rogue Trader - Deluxe Pack | 303282 | [303282-warhammer-40-000-rogue-trader-deluxe-pack.json](./303282-warhammer-40-000-rogue-trader-deluxe-pack.json) |
 | Warhammer 40,000: Rogue Trader - The Infinite Museion | 393038 | [393038-warhammer-40-000-rogue-trader-the-infinite-museion.json](./393038-warhammer-40-000-rogue-trader-the-infinite-museion.json) |
 | Warhammer 40,000: Rogue Trader - The Shovel DLC | 342189 | [342189-warhammer-40-000-rogue-trader-the-shovel-dlc.json](./342189-warhammer-40-000-rogue-trader-the-shovel-dlc.json) |
 | Warhammer 40,000: Rogue Trader - Void Shadows | 302168 | [302168-warhammer-40-000-rogue-trader-void-shadows.json](./302168-warhammer-40-000-rogue-trader-void-shadows.json) |
