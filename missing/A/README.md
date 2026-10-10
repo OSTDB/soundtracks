@@ -3557,6 +3557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alchemist | 202678 | [202678-alchemist.json](./202678-alchemist.json) |
 | Alchemist | 304130 | [304130-alchemist.json](./304130-alchemist.json) |
 | Alchemist Adventure | 137444 | [137444-alchemist-adventure.json](./137444-alchemist-adventure.json) |
+| Alchemist Bundle | 295645 | [295645-alchemist-bundle.json](./295645-alchemist-bundle.json) |
 | Alchemist Chronicles | 405574 | [405574-alchemist-chronicles.json](./405574-alchemist-chronicles.json) |
 | Alchemist code | 75134 | [75134-alchemist-code.json](./75134-alchemist-code.json) |
 | Alchemist of Pipiforest | 151092 | [151092-alchemist-of-pipiforest.json](./151092-alchemist-of-pipiforest.json) |
@@ -7293,6 +7294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Emeraldia | 298583 | [298583-arcade-archives-emeraldia.json](./298583-arcade-archives-emeraldia.json) |
 | Arcade Archives: Escape Kids | 328448 | [328448-arcade-archives-escape-kids.json](./328448-arcade-archives-escape-kids.json) |
 | Arcade Archives: Excitebike | 68312 | [68312-arcade-archives-excitebike.json](./68312-arcade-archives-excitebike.json) |
+| Arcade Archives: Exvania | 295681 | [295681-arcade-archives-exvania.json](./295681-arcade-archives-exvania.json) |
 | Arcade Archives: Face Off | 320909 | [320909-arcade-archives-face-off.json](./320909-arcade-archives-face-off.json) |
 | Arcade Archives: Fantastic Night Dreams Cotton | 323842 | [323842-arcade-archives-fantastic-night-dreams-cotton.json](./323842-arcade-archives-fantastic-night-dreams-cotton.json) |
 | Arcade Archives: Fighter & Attacker | 304280 | [304280-arcade-archives-fighter-and-attacker.json](./304280-arcade-archives-fighter-and-attacker.json) |
@@ -7727,6 +7729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Archeologist Simulator | 148988 | [148988-archeologist-simulator.json](./148988-archeologist-simulator.json) |
 | Archeon CD-i Quiz | 217996 | [217996-archeon-cd-i-quiz.json](./217996-archeon-cd-i-quiz.json) |
 | Archer | 235264 | [235264-archer.json](./235264-archer.json) |
+| Archer 3D: Bow Shooting Range | 295686 | [295686-archer-3d-bow-shooting-range.json](./295686-archer-3d-bow-shooting-range.json) |
 | Archer boy | 158076 | [158076-archer-boy.json](./158076-archer-boy.json) |
 | Archer Defenders | 231982 | [231982-archer-defenders.json](./231982-archer-defenders.json) |
 | Archer Guardian VR : The Chapter Zero | 30770 | [30770-archer-guardian-vr-the-chapter-zero.json](./30770-archer-guardian-vr-the-chapter-zero.json) |
