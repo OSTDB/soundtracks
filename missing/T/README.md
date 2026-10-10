@@ -14909,6 +14909,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toddler Racing Car Game for Kids. | 100985 | [100985-toddler-racing-car-game-for-kids.json](./100985-toddler-racing-car-game-for-kids.json) |
 | Toddler Tech Laptop | 333374 | [333374-toddler-tech-laptop.json](./333374-toddler-tech-laptop.json) |
 | Toddler Trainer - Counting Toys Pro | 87316 | [87316-toddler-trainer-counting-toys-pro.json](./87316-toddler-trainer-counting-toys-pro.json) |
+| Todesangst | 324866 | [324866-todesangst.json](./324866-todesangst.json) |
+| Todesangst 2: Der Echte Feind | 324868 | [324868-todesangst-2-der-echte-feind.json](./324868-todesangst-2-der-echte-feind.json) |
 | Todlio | 107074 | [107074-todlio.json](./107074-todlio.json) |
 | Todo List | 366329 | [366329-todo-list.json](./366329-todo-list.json) |
 | Todo Ryunosuke Tantei Nikki: Ogon no Rashinban | 386389 | [386389-todo-ryunosuke-tantei-nikki-ogon-no-rashinban.json](./386389-todo-ryunosuke-tantei-nikki-ogon-no-rashinban.json) |
