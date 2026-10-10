@@ -3032,6 +3032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Girls: Amazing America | 308515 | [308515-hentai-girls-amazing-america.json](./308515-hentai-girls-amazing-america.json) |
 | Hentai Girls: Amazing Edition | 294827 | [294827-hentai-girls-amazing-edition.json](./294827-hentai-girls-amazing-edition.json) |
 | Hentai Girls: Autumn Crush | 320445 | [320445-hentai-girls-autumn-crush.json](./320445-hentai-girls-autumn-crush.json) |
+| Hentai Girls: Cat Cutie | 306538 | [306538-hentai-girls-cat-cutie.json](./306538-hentai-girls-cat-cutie.json) |
 | Hentai Girls: College Romance | 325018 | [325018-hentai-girls-college-romance.json](./325018-hentai-girls-college-romance.json) |
 | Hentai Girls: Complete + | 324466 | [324466-hentai-girls-complete.json](./324466-hentai-girls-complete.json) |
 | Hentai Girls: Contact | 281523 | [281523-hentai-girls-contact.json](./281523-hentai-girls-contact.json) |
@@ -3064,6 +3065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Girls: Ultra Extended | 308817 | [308817-hentai-girls-ultra-extended.json](./308817-hentai-girls-ultra-extended.json) |
 | Hentai Girls: Ultra Premium | 316216 | [316216-hentai-girls-ultra-premium.json](./316216-hentai-girls-ultra-premium.json) |
 | Hentai Girls: Ultra Special | 312086 | [312086-hentai-girls-ultra-special.json](./312086-hentai-girls-ultra-special.json) |
+| Hentai Girls: Ultra Ultimate | 306539 | [306539-hentai-girls-ultra-ultimate.json](./306539-hentai-girls-ultra-ultimate.json) |
 | Hentai Girls: Winky Witch | 322654 | [322654-hentai-girls-winky-witch.json](./322654-hentai-girls-winky-witch.json) |
 | Hentai Golf | 283177 | [283177-hentai-golf.json](./283177-hentai-golf.json) |
 | Hentai Golf: Amazing Edition | 317912 | [317912-hentai-golf-amazing-edition.json](./317912-hentai-golf-amazing-edition.json) |
@@ -4657,6 +4659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Highway Trouble | 322597 | [322597-highway-trouble.json](./322597-highway-trouble.json) |
 | Highway Trouble 2 | 322599 | [322599-highway-trouble-2.json](./322599-highway-trouble-2.json) |
 | Highway Wars | 88041 | [88041-highway-wars.json](./88041-highway-wars.json) |
+| Highway Zombie Survival: Car Apocalypse | 306544 | [306544-highway-zombie-survival-car-apocalypse.json](./306544-highway-zombie-survival-car-apocalypse.json) |
 | Higurashi Daybreak Portable | 38477 | [38477-higurashi-daybreak-portable.json](./38477-higurashi-daybreak-portable.json) |
 | Higurashi Daybreak Portable: Mega Edition | 38478 | [38478-higurashi-daybreak-portable-mega-edition.json](./38478-higurashi-daybreak-portable-mega-edition.json) |
 | Higurashi no Naku Koro ni Hou: Complete Edition | 136817 | [136817-higurashi-no-naku-koro-ni-hou-complete-edition.json](./136817-higurashi-no-naku-koro-ni-hou-complete-edition.json) |
