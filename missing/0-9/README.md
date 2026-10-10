@@ -1019,6 +1019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 24: The Mobile Game | 305988 | [305988-24-the-mobile-game.json](./305988-24-the-mobile-game.json) |
 | 24/7 Solitaire | 78758 | [78758-24-7-solitaire.json](./78758-24-7-solitaire.json) |
 | 240p Test Suite | 292078 | [292078-240p-test-suite.json](./292078-240p-test-suite.json) |
+| 2448: Block Puzzle Number Game | 331387 | [331387-2448-block-puzzle-number-game.json](./331387-2448-block-puzzle-number-game.json) |
 | 248 Scribble | 355143 | [355143-248-scribble.json](./355143-248-scribble.json) |
 | 24H Stories: The Blackout | 276706 | [276706-24h-stories-the-blackout.json](./276706-24h-stories-the-blackout.json) |
 | 24H Stories: The Cabin In The Forest | 308942 | [308942-24h-stories-the-cabin-in-the-forest.json](./308942-24h-stories-the-cabin-in-the-forest.json) |
@@ -1071,6 +1072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2K Shells | 328033 | [328033-2k-shells.json](./328033-2k-shells.json) |
 | 2K1X Subzero Heroes | 304215 | [304215-2k1x-subzero-heroes.json](./304215-2k1x-subzero-heroes.json) |
 | 2MD: VR Football Evolution | 160137 | [160137-2md-vr-football-evolution.json](./160137-2md-vr-football-evolution.json) |
+| 2Metal | 331359 | [331359-2metal.json](./331359-2metal.json) |
 | 2Moons | 93995 | [93995-2moons.json](./93995-2moons.json) |
 | 2nd Circle: Powerful Places | 109872 | [109872-2nd-circle-powerful-places.json](./109872-2nd-circle-powerful-places.json) |
 | 2nd Grade: Musical Menace | 230419 | [230419-2nd-grade-musical-menace.json](./230419-2nd-grade-musical-menace.json) |
