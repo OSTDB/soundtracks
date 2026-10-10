@@ -1954,6 +1954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King's Field II | 9500 | [9500-kings-field-ii.json](./9500-kings-field-ii.json) |
 | King's Field Mobile II | 340965 | [340965-kings-field-mobile-ii.json](./340965-kings-field-mobile-ii.json) |
 | King's Field: The Ancient City | 9501 | [9501-kings-field-the-ancient-city.json](./9501-kings-field-the-ancient-city.json) |
+| King's Gambit | 309540 | [309540-kings-gambit.json](./309540-kings-gambit.json) |
 | King's Guard | 345539 | [345539-kings-guard.json](./345539-kings-guard.json) |
 | King's Guard TD | 32750 | [32750-kings-guard-td.json](./32750-kings-guard-td.json) |
 | King's Hand | 385375 | [385375-kings-hand.json](./385375-kings-hand.json) |
