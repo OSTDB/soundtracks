@@ -767,6 +767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game of Empires: Warring Realms | 230294 | [230294-game-of-empires-warring-realms.json](./230294-game-of-empires-warring-realms.json) |
 | Game of Evolution | 310024 | [310024-game-of-evolution.json](./310024-game-of-evolution.json) |
 | Game of Fate | 319669 | [319669-game-of-fate.json](./319669-game-of-fate.json) |
+| Game of Fate 2: A Century's Promise | 326290 | [326290-game-of-fate-2-a-centurys-promise.json](./326290-game-of-fate-2-a-centurys-promise.json) |
 | Game of Gods | 336588 | [336588-game-of-gods.json](./336588-game-of-gods.json) |
 | Game of Hearts | 348766 | [348766-game-of-hearts.json](./348766-game-of-hearts.json) |
 | Game of Hearts | 352258 | [352258-game-of-hearts.json](./352258-game-of-hearts.json) |
@@ -4500,6 +4501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gradually Forward | 119611 | [119611-gradually-forward.json](./119611-gradually-forward.json) |
 | Graduate Battle | 358511 | [358511-graduate-battle.json](./358511-graduate-battle.json) |
 | Graduated | 117617 | [117617-graduated.json](./117617-graduated.json) |
+| Graduation Life Simulator | 326302 | [326302-graduation-life-simulator.json](./326302-graduation-life-simulator.json) |
 | Graffism | 354384 | [354384-graffism.json](./354384-graffism.json) |
 | Graffiti Bombing | 126973 | [126973-graffiti-bombing.json](./126973-graffiti-bombing.json) |
 | Graffiti Cozy | 189061 | [189061-graffiti-cozy.json](./189061-graffiti-cozy.json) |
