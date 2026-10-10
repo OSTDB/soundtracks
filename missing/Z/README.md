@@ -301,6 +301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zen Blossom | 220221 | [220221-zen-blossom.json](./220221-zen-blossom.json) |
 | Zen Chess: Mate in Two | 116700 | [116700-zen-chess-mate-in-two.json](./116700-zen-chess-mate-in-two.json) |
 | Zen Cube | 163988 | [163988-zen-cube.json](./163988-zen-cube.json) |
+| Zen Drift | 315806 | [315806-zen-drift.json](./315806-zen-drift.json) |
 | Zen Fashion | 92510 | [92510-zen-fashion.json](./92510-zen-fashion.json) |
 | Zen Fish Simulator | 60551 | [60551-zen-fish-simulator.json](./60551-zen-fish-simulator.json) |
 | Zen Forest Brick Breaker VR | 365756 | [365756-zen-forest-brick-breaker-vr.json](./365756-zen-forest-brick-breaker-vr.json) |
@@ -548,6 +549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zero to Death | 297756 | [297756-zero-to-death.json](./297756-zero-to-death.json) |
 | Zero to Hero | 235325 | [235325-zero-to-hero.json](./235325-zero-to-hero.json) |
 | Zero to South | 418664 | [418664-zero-to-south.json](./418664-zero-to-south.json) |
+| Zero Tolerance | 315819 | [315819-zero-tolerance.json](./315819-zero-tolerance.json) |
 | Zero Tours | 278098 | [278098-zero-tours.json](./278098-zero-tours.json) |
 | Zero Velocity | 176984 | [176984-zero-velocity.json](./176984-zero-velocity.json) |
 | Zero Volt X | 176960 | [176960-zero-volt-x.json](./176960-zero-volt-x.json) |
