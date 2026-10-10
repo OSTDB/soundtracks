@@ -2689,6 +2689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inner Riddle | 96669 | [96669-inner-riddle.json](./96669-inner-riddle.json) |
 | Inner Seasons | 258964 | [258964-inner-seasons.json](./258964-inner-seasons.json) |
 | Inner silence | 29869 | [29869-inner-silence.json](./29869-inner-silence.json) |
+| Inner Struggle | 297918 | [297918-inner-struggle.json](./297918-inner-struggle.json) |
 | Inner Tao | 143956 | [143956-inner-tao.json](./143956-inner-tao.json) |
 | Inner Voice | 358966 | [358966-inner-voice.json](./358966-inner-voice.json) |
 | Inner Voices | 30429 | [30429-inner-voices.json](./30429-inner-voices.json) |
@@ -3534,6 +3535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iridescent Crown | 350515 | [350515-iridescent-crown.json](./350515-iridescent-crown.json) |
 | Iridium Runners | 21504 | [21504-iridium-runners.json](./21504-iridium-runners.json) |
 | Iris | 223674 | [223674-iris.json](./223674-iris.json) |
+| Iris | 297908 | [297908-iris.json](./297908-iris.json) |
 | Iris | 388935 | [388935-iris.json](./388935-iris.json) |
 | Iris and the Giant | 121390 | [121390-iris-and-the-giant.json](./121390-iris-and-the-giant.json) |
 | Iris and the Giant: Deluxe Soundtrack Edition | 240337 | [240337-iris-and-the-giant-deluxe-soundtrack-edition.json](./240337-iris-and-the-giant-deluxe-soundtrack-edition.json) |
