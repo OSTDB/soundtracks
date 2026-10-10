@@ -220,6 +220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gakkou no Kaidan: Hyakuyoubako no Fuuin | 49566 | [49566-gakkou-no-kaidan-hyakuyoubako-no-fuuin.json](./49566-gakkou-no-kaidan-hyakuyoubako-no-fuuin.json) |
 | Gakkou wo Tsukurou!! 2 | 363956 | [363956-gakkou-wo-tsukurou-2.json](./363956-gakkou-wo-tsukurou-2.json) |
 | Gakkou wo Tsukurou!! Advance | 49565 | [49565-gakkou-wo-tsukurou-advance.json](./49565-gakkou-wo-tsukurou-advance.json) |
+| Gakkou wo Tsukurou!! Happy Days | 326855 | [326855-gakkou-wo-tsukurou-happy-days.json](./326855-gakkou-wo-tsukurou-happy-days.json) |
 | Gakkyu Ou Yamazaki | 281423 | [281423-gakkyu-ou-yamazaki.json](./281423-gakkyu-ou-yamazaki.json) |
 | Gakkyuu-ou Yamazaki: Yamazaki Oukoku Daifunsou! | 130351 | [130351-gakkyuu-ou-yamazaki-yamazaki-oukoku-daifunsou.json](./130351-gakkyuu-ou-yamazaki-yamazaki-oukoku-daifunsou.json) |
 | Gaku Ou: The Royal Seven Stars + Meteor | 399882 | [399882-gaku-ou-the-royal-seven-stars-meteor.json](./399882-gaku-ou-the-royal-seven-stars-meteor.json) |
@@ -3859,6 +3860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golden Sails | 329144 | [329144-golden-sails.json](./329144-golden-sails.json) |
 | Golden Sand Dream Curse | 359537 | [359537-golden-sand-dream-curse.json](./359537-golden-sand-dream-curse.json) |
 | Golden Self | 385887 | [385887-golden-self.json](./385887-golden-self.json) |
+| Golden Spatula | 326661 | [326661-golden-spatula.json](./326661-golden-spatula.json) |
 | Golden Sun | 356272 | [356272-golden-sun.json](./356272-golden-sun.json) |
 | Golden Sun QOL | 269063 | [269063-golden-sun-qol.json](./269063-golden-sun-qol.json) |
 | Golden Sun The Lost Age: Anniversary Mod | 269061 | [269061-golden-sun-the-lost-age-anniversary-mod.json](./269061-golden-sun-the-lost-age-anniversary-mod.json) |
