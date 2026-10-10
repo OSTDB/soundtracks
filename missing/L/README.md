@@ -2854,6 +2854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lifo | 185615 | [185615-lifo.json](./185615-lifo.json) |
 | Lifo Harvester | 55237 | [55237-lifo-harvester.json](./55237-lifo-harvester.json) |
 | Lift Up | 397072 | [397072-lift-up.json](./397072-lift-up.json) |
+| Lift: The Last Days of The Westwind | 291904 | [291904-lift-the-last-days-of-the-westwind.json](./291904-lift-the-last-days-of-the-westwind.json) |
 | Lift/Shift | 340918 | [340918-lift-shift.json](./340918-lift-shift.json) |
 | Lifted | 309518 | [309518-lifted.json](./309518-lifted.json) |
 | Lifting Journey | 115431 | [115431-lifting-journey.json](./115431-lifting-journey.json) |
