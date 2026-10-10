@@ -5661,6 +5661,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GrimmStar | 125331 | [125331-grimmstar.json](./125331-grimmstar.json) |
 | GrimmVeil | 387628 | [387628-grimmveil.json](./387628-grimmveil.json) |
 | Grimmwood | 100580 | [100580-grimmwood.json](./100580-grimmwood.json) |
+| Grimoire | 296799 | [296799-grimoire.json](./296799-grimoire.json) |
+| Grimoire | 296800 | [296800-grimoire.json](./296800-grimoire.json) |
 | Grimoire | 86187 | [86187-grimoire.json](./86187-grimoire.json) |
 | Grimoire Arena | 125328 | [125328-grimoire-arena.json](./125328-grimoire-arena.json) |
 | Grimoire of Gaia | 237528 | [237528-grimoire-of-gaia.json](./237528-grimoire-of-gaia.json) |
@@ -6403,6 +6405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gun Force II | 10450 | [10450-gun-force-ii.json](./10450-gun-force-ii.json) |
 | Gun Frog | 319290 | [319290-gun-frog.json](./319290-gun-frog.json) |
 | Gun Frontier | 39681 | [39681-gun-frontier.json](./39681-gun-frontier.json) |
+| Gun Games 3D Offline Fps Games | 296769 | [296769-gun-games-3d-offline-fps-games.json](./296769-gun-games-3d-offline-fps-games.json) |
 | Gun Gladiator | 287749 | [287749-gun-gladiator.json](./287749-gun-gladiator.json) |
 | Gun Godz | 31439 | [31439-gun-godz.json](./31439-gun-godz.json) |
 | Gun Gun Pixies | 27281 | [27281-gun-gun-pixies.json](./27281-gun-gun-pixies.json) |
@@ -6682,6 +6685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunship Origins | 394127 | [394127-gunship-origins.json](./394127-gunship-origins.json) |
 | Gunship Recon: Character Puzzles | 163418 | [163418-gunship-recon-character-puzzles.json](./163418-gunship-recon-character-puzzles.json) |
 | Gunship Recon: Purchase Privilege | 156168 | [156168-gunship-recon-purchase-privilege.json](./156168-gunship-recon-purchase-privilege.json) |
+| Gunship War Total Battle | 296780 | [296780-gunship-war-total-battle.json](./296780-gunship-war-total-battle.json) |
 | Gunship X | 52240 | [52240-gunship-x.json](./52240-gunship-x.json) |
 | Gunshoot | 76614 | [76614-gunshoot.json](./76614-gunshoot.json) |
 | Gunshot Arcade | 407339 | [407339-gunshot-arcade.json](./407339-gunshot-arcade.json) |
