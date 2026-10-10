@@ -2535,7 +2535,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tenchi Fukkatsu! | 98061 | [98061-tenchi-fukkatsu.json](./98061-tenchi-fukkatsu.json) |
 | Tenchi Muyo! Game-hen | 84452 | [84452-tenchi-muyo-game-hen.json](./84452-tenchi-muyo-game-hen.json) |
 | Tenchi Muyo! Rensa Hitsuyou | 69329 | [69329-tenchi-muyo-rensa-hitsuyou.json](./69329-tenchi-muyo-rensa-hitsuyou.json) |
+| Tenchi Muyo! Ryo-Ohki | 288133 | [288133-tenchi-muyo-ryo-ohki.json](./288133-tenchi-muyo-ryo-ohki.json) |
 | Tenchi Muyo! Ryo-Ohki FX | 123079 | [123079-tenchi-muyo-ryo-ohki-fx.json](./123079-tenchi-muyo-ryo-ohki-fx.json) |
+| Tenchi Muyo! Ryou-ouki: Gokuraku CD-ROM | 288135 | [288135-tenchi-muyo-ryou-ouki-gokuraku-cd-rom.json](./288135-tenchi-muyo-ryou-ouki-gokuraku-cd-rom.json) |
 | Tenchi Muyo! Toko Muyo | 66384 | [66384-tenchi-muyo-toko-muyo.json](./66384-tenchi-muyo-toko-muyo.json) |
 | Tenchi wo Kurau | 287154 | [287154-tenchi-wo-kurau.json](./287154-tenchi-wo-kurau.json) |
 | Tenchi wo Kurau | 298800 | [298800-tenchi-wo-kurau.json](./298800-tenchi-wo-kurau.json) |
@@ -8332,6 +8334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lust City 2 | 297356 | [297356-the-lust-city-2.json](./297356-the-lust-city-2.json) |
 | The Lustful Champion | 384753 | [384753-the-lustful-champion.json](./384753-the-lustful-champion.json) |
 | The m0rg VS keys | 93721 | [93721-the-m0rg-vs-keys.json](./93721-the-m0rg-vs-keys.json) |
+| The Machine | 288126 | [288126-the-machine.json](./288126-the-machine.json) |
 | The Machine | 79257 | [79257-the-machine.json](./79257-the-machine.json) |
 | The Machinery | 271747 | [271747-the-machinery.json](./271747-the-machinery.json) |
 | The Madman | 205274 | [205274-the-madman.json](./205274-the-madman.json) |
@@ -11947,6 +11950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The World Beyond | 389409 | [389409-the-world-beyond.json](./389409-the-world-beyond.json) |
 | The World Ends in Ohio | 333146 | [333146-the-world-ends-in-ohio.json](./333146-the-world-ends-in-ohio.json) |
 | The World Ends with You: Final Remix | 81143 | [81143-the-world-ends-with-you-final-remix.json](./81143-the-world-ends-with-you-final-remix.json) |
+| The World Ends With You: Live Remix | 288144 | [288144-the-world-ends-with-you-live-remix.json](./288144-the-world-ends-with-you-live-remix.json) |
 | The World Ends With You: Noise Busters | 306596 | [306596-the-world-ends-with-you-noise-busters.json](./306596-the-world-ends-with-you-noise-busters.json) |
 | The World Hockey Championships | 242684 | [242684-the-world-hockey-championships.json](./242684-the-world-hockey-championships.json) |
 | The World is Binary: Why Love is the Answer | 195562 | [195562-the-world-is-binary-why-love-is-the-answer.json](./195562-the-world-is-binary-why-love-is-the-answer.json) |
@@ -15957,6 +15961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Topple Tactics | 272547 | [272547-topple-tactics.json](./272547-topple-tactics.json) |
 | Topple the Tower | 249839 | [249839-topple-the-tower.json](./249839-topple-the-tower.json) |
 | Topple Zip | 41316 | [41316-topple-zip.json](./41316-topple-zip.json) |
+| Toppled | 288099 | [288099-toppled.json](./288099-toppled.json) |
 | TopplePop: Bungee Blockbusters | 124211 | [124211-topplepop-bungee-blockbusters.json](./124211-topplepop-bungee-blockbusters.json) |
 | Topps Kick | 137686 | [137686-topps-kick.json](./137686-topps-kick.json) |
 | TopShot: Darkness | 89251 | [89251-topshot-darkness.json](./89251-topshot-darkness.json) |
@@ -17114,6 +17119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toybox | 184645 | [184645-toybox.json](./184645-toybox.json) |
 | Toybox | 209423 | [209423-toybox.json](./209423-toybox.json) |
 | Toybox | 271305 | [271305-toybox.json](./271305-toybox.json) |
+| Toybox | 288114 | [288114-toybox.json](./288114-toybox.json) |
 | Toybox Aviation | 194421 | [194421-toybox-aviation.json](./194421-toybox-aviation.json) |
 | ToyBox Christmas | 279867 | [279867-toybox-christmas.json](./279867-toybox-christmas.json) |
 | ToyBox Puzzle | 236407 | [236407-toybox-puzzle.json](./236407-toybox-puzzle.json) |
@@ -18583,6 +18589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Traveller's Hymn | 319560 | [319560-travellers-hymn.json](./319560-travellers-hymn.json) |
 | Travellers | 172033 | [172033-travellers.json](./172033-travellers.json) |
 | Travellers Rest | 121967 | [121967-travellers-rest.json](./121967-travellers-rest.json) |
+| Travellers Road | 288090 | [288090-travellers-road.json](./288090-travellers-road.json) |
 | Travellers! | 108921 | [108921-travellers.json](./108921-travellers.json) |
 | Travellin Cats in Jingle Jam | 273813 | [273813-travellin-cats-in-jingle-jam.json](./273813-travellin-cats-in-jingle-jam.json) |
 | Travellin Cats in Paris | 239812 | [239812-travellin-cats-in-paris.json](./239812-travellin-cats-in-paris.json) |
@@ -20373,6 +20380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twisted Lands: Shadow Town - Collector's Edition | 53862 | [53862-twisted-lands-shadow-town-collectors-edition.json](./53862-twisted-lands-shadow-town-collectors-edition.json) |
 | Twisted Letters | 63117 | [63117-twisted-letters.json](./63117-twisted-letters.json) |
 | Twisted Lines | 175365 | [175365-twisted-lines.json](./175365-twisted-lines.json) |
+| Twisted Love: Captive Souls | 288127 | [288127-twisted-love-captive-souls.json](./288127-twisted-love-captive-souls.json) |
 | Twisted Lovestruck | 243425 | [243425-twisted-lovestruck.json](./243425-twisted-lovestruck.json) |
 | Twisted Metal | 256773 | [256773-twisted-metal.json](./256773-twisted-metal.json) |
 | Twisted Metal | 5416 | [5416-twisted-metal.json](./5416-twisted-metal.json) |
