@@ -5334,6 +5334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hollow Memories | 385847 | [385847-hollow-memories.json](./385847-hollow-memories.json) |
 | Hollow Minds | 311469 | [311469-hollow-minds.json](./311469-hollow-minds.json) |
 | Hollow Ones | 422102 | [422102-hollow-ones.json](./422102-hollow-ones.json) |
+| Hollow Overhaul | 317521 | [317521-hollow-overhaul.json](./317521-hollow-overhaul.json) |
 | Hollow Park | 203184 | [203184-hollow-park.json](./203184-hollow-park.json) |
 | Hollow Seeker | 229009 | [229009-hollow-seeker.json](./229009-hollow-seeker.json) |
 | Hollow Sorrow | 355179 | [355179-hollow-sorrow.json](./355179-hollow-sorrow.json) |
@@ -6251,6 +6252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hostile Space Revived | 97973 | [97973-hostile-space-revived.json](./97973-hostile-space-revived.json) |
 | Hosting Simulator: 2026 | 406312 | [406312-hosting-simulator-2026.json](./406312-hosting-simulator-2026.json) |
 | Hostyle | 397700 | [397700-hostyle.json](./397700-hostyle.json) |
+| Hot & Hentai | 317548 | [317548-hot-and-hentai.json](./317548-hot-and-hentai.json) |
 | Hot & Hentai: Beach Yui | 324490 | [324490-hot-and-hentai-beach-yui.json](./324490-hot-and-hentai-beach-yui.json) |
 | Hot & Hentai: Gamer Etsuko | 324491 | [324491-hot-and-hentai-gamer-etsuko.json](./324491-hot-and-hentai-gamer-etsuko.json) |
 | Hot & Hentai: Garden Queen Shirayuki | 324492 | [324492-hot-and-hentai-garden-queen-shirayuki.json](./324492-hot-and-hentai-garden-queen-shirayuki.json) |
