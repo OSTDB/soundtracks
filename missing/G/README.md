@@ -1362,6 +1362,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gauntlet II | 3503 | [3503-gauntlet-ii.json](./3503-gauntlet-ii.json) |
 | Gauntlet III: The Final Quest | 7296 | [7296-gauntlet-iii-the-final-quest.json](./7296-gauntlet-iii-the-final-quest.json) |
 | Gauntlet IV | 46214 | [46214-gauntlet-iv.json](./46214-gauntlet-iv.json) |
+| Gauntlet Legends | 322267 | [322267-gauntlet-legends.json](./322267-gauntlet-legends.json) |
+| Gauntlet Legends | 322268 | [322268-gauntlet-legends.json](./322268-gauntlet-legends.json) |
+| Gauntlet Legends | 322269 | [322269-gauntlet-legends.json](./322269-gauntlet-legends.json) |
 | Gauntlet: Slayer Edition | 20044 | [20044-gauntlet-slayer-edition.json](./20044-gauntlet-slayer-edition.json) |
 | Gauntlet: Slayer Edition - Lilith the Necromancer Pack | 226429 | [226429-gauntlet-slayer-edition-lilith-the-necromancer-pack.json](./226429-gauntlet-slayer-edition-lilith-the-necromancer-pack.json) |
 | Gauntlet: The Deeper Dungeons | 37164 | [37164-gauntlet-the-deeper-dungeons.json](./37164-gauntlet-the-deeper-dungeons.json) |
@@ -3279,6 +3282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GO-4-Soldier-1 | 126400 | [126400-go-4-soldier-1.json](./126400-go-4-soldier-1.json) |
 | Go-Go Gourmet | 64717 | [64717-go-go-gourmet.json](./64717-go-go-gourmet.json) |
 | Go-Go Gourmet: Chef of the Year | 64714 | [64714-go-go-gourmet-chef-of-the-year.json](./64714-go-go-gourmet-chef-of-the-year.json) |
+| Go-Go! Grapplestaff | 322262 | [322262-go-go-grapplestaff.json](./322262-go-go-grapplestaff.json) |
 | Go-Go! Nekketsu Hockey Club Slip-and-Slide Madness | 48630 | [48630-go-go-nekketsu-hockey-club-slip-and-slide-madness.json](./48630-go-go-nekketsu-hockey-club-slip-and-slide-madness.json) |
 | Go-Gurt Factory! | 341455 | [341455-go-gurt-factory.json](./341455-go-gurt-factory.json) |
 | Go-Jin Senki | 80525 | [80525-go-jin-senki.json](./80525-go-jin-senki.json) |
