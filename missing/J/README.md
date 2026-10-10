@@ -1469,6 +1469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Joggernauts | 60230 | [60230-joggernauts.json](./60230-joggernauts.json) |
 | Jogging | 358834 | [358834-jogging.json](./358834-jogging.json) |
 | Jogo da Nota | 409806 | [409806-jogo-da-nota.json](./409806-jogo-da-nota.json) |
+| Jogo de Bejos | 300525 | [300525-jogo-de-bejos.json](./300525-jogo-de-bejos.json) |
 | Jogo do Banquinho do Raul Gil | 222874 | [222874-jogo-do-banquinho-do-raul-gil.json](./222874-jogo-do-banquinho-do-raul-gil.json) |
 | Jogo Satanista para Praticar o Mal | 178443 | [178443-jogo-satanista-para-praticar-o-mal.json](./178443-jogo-satanista-para-praticar-o-mal.json) |
 | Johan | 403561 | [403561-johan.json](./403561-johan.json) |
