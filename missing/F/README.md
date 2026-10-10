@@ -665,6 +665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallen Legion Revenants | 135342 | [135342-fallen-legion-revenants.json](./135342-fallen-legion-revenants.json) |
 | Fallen Legion Revenants: Vanguard Edition | 139961 | [139961-fallen-legion-revenants-vanguard-edition.json](./139961-fallen-legion-revenants-vanguard-edition.json) |
 | Fallen Legion: Rise to Glory - Digital Deluxe Edition | 227176 | [227176-fallen-legion-rise-to-glory-digital-deluxe-edition.json](./227176-fallen-legion-rise-to-glory-digital-deluxe-edition.json) |
+| Fallen Lights | 310695 | [310695-fallen-lights.json](./310695-fallen-lights.json) |
 | Fallen London | 11285 | [11285-fallen-london.json](./11285-fallen-london.json) |
 | Fallen London: A Columbidaean Commotion | 217802 | [217802-fallen-london-a-columbidaean-commotion.json](./217802-fallen-london-a-columbidaean-commotion.json) |
 | Fallen London: A Crown of Thorns | 191792 | [191792-fallen-london-a-crown-of-thorns.json](./191792-fallen-london-a-crown-of-thorns.json) |
@@ -1161,7 +1162,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Beauties - Brunhilda Photo Pack | 310633 | [310633-fantasy-beauties-brunhilda-photo-pack.json](./310633-fantasy-beauties-brunhilda-photo-pack.json) |
 | Fantasy Beauties - Calliope Photo Pack | 310632 | [310632-fantasy-beauties-calliope-photo-pack.json](./310632-fantasy-beauties-calliope-photo-pack.json) |
 | Fantasy Beauties - Elowen Photo Pack | 310631 | [310631-fantasy-beauties-elowen-photo-pack.json](./310631-fantasy-beauties-elowen-photo-pack.json) |
+| Fantasy Beauties - Fiona Photo Pack | 310630 | [310630-fantasy-beauties-fiona-photo-pack.json](./310630-fantasy-beauties-fiona-photo-pack.json) |
+| Fantasy Beauties - Freya Photo Pack | 310629 | [310629-fantasy-beauties-freya-photo-pack.json](./310629-fantasy-beauties-freya-photo-pack.json) |
+| Fantasy Beauties - Ivy Photo Pack | 310628 | [310628-fantasy-beauties-ivy-photo-pack.json](./310628-fantasy-beauties-ivy-photo-pack.json) |
+| Fantasy Beauties - Luna Photo Pack | 310627 | [310627-fantasy-beauties-luna-photo-pack.json](./310627-fantasy-beauties-luna-photo-pack.json) |
+| Fantasy Beauties - Michiko Photo Pack | 310626 | [310626-fantasy-beauties-michiko-photo-pack.json](./310626-fantasy-beauties-michiko-photo-pack.json) |
+| Fantasy Beauties - Poppy Photo Pack | 310625 | [310625-fantasy-beauties-poppy-photo-pack.json](./310625-fantasy-beauties-poppy-photo-pack.json) |
 | Fantasy Beauties - Premium Edition | 310638 | [310638-fantasy-beauties-premium-edition.json](./310638-fantasy-beauties-premium-edition.json) |
+| Fantasy Beauties - Selene Photo Pack | 310624 | [310624-fantasy-beauties-selene-photo-pack.json](./310624-fantasy-beauties-selene-photo-pack.json) |
+| Fantasy Beauties - Sigrún Photo Pack | 310623 | [310623-fantasy-beauties-sigrun-photo-pack.json](./310623-fantasy-beauties-sigrun-photo-pack.json) |
 | Fantasy Beauties: Brunhilda Level Pack | 312102 | [312102-fantasy-beauties-brunhilda-level-pack.json](./312102-fantasy-beauties-brunhilda-level-pack.json) |
 | Fantasy Beauties: Fiona Level Pack | 312103 | [312103-fantasy-beauties-fiona-level-pack.json](./312103-fantasy-beauties-fiona-level-pack.json) |
 | Fantasy Beauties: Ivy Level Pack | 312104 | [312104-fantasy-beauties-ivy-level-pack.json](./312104-fantasy-beauties-ivy-level-pack.json) |
@@ -6611,6 +6620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FoxHunt | 115719 | [115719-foxhunt.json](./115719-foxhunt.json) |
 | Foxingdale: The Magical Stones of Kentaroo | 273492 | [273492-foxingdale-the-magical-stones-of-kentaroo.json](./273492-foxingdale-the-magical-stones-of-kentaroo.json) |
 | Foxo | 372039 | [372039-foxo.json](./372039-foxo.json) |
+| Foxo's Fun Schoolhouse | 310685 | [310685-foxos-fun-schoolhouse.json](./310685-foxos-fun-schoolhouse.json) |
 | FoxRun | 340241 | [340241-foxrun.json](./340241-foxrun.json) |
 | FoxTrotte | 239627 | [239627-foxtrotte.json](./239627-foxtrotte.json) |
 | Foxventures | 235763 | [235763-foxventures.json](./235763-foxventures.json) |
@@ -8239,10 +8249,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furry Cyberfucker | 196171 | [196171-furry-cyberfucker.json](./196171-furry-cyberfucker.json) |
 | Furry Cybersex | 204431 | [204431-furry-cybersex.json](./204431-furry-cybersex.json) |
 | Furry Defenders​​ | 381176 | [381176-furry-defenders.json](./381176-furry-defenders.json) |
+| Furry Fairy Tales | 310487 | [310487-furry-fairy-tales.json](./310487-furry-fairy-tales.json) |
 | Furry Fantasy | 207794 | [207794-furry-fantasy.json](./207794-furry-fantasy.json) |
 | Furry Farm | 329099 | [329099-furry-farm.json](./329099-furry-farm.json) |
 | Furry Feet Girls | 301999 | [301999-furry-feet-girls.json](./301999-furry-feet-girls.json) |
 | Furry Fetishists | 286501 | [286501-furry-fetishists.json](./286501-furry-fetishists.json) |
+| Furry from Outer Space | 310485 | [310485-furry-from-outer-space.json](./310485-furry-from-outer-space.json) |
 | Furry Furries | 244386 | [244386-furry-furries.json](./244386-furry-furries.json) |
 | Furry Futa | 239340 | [239340-furry-futa.json](./239340-furry-futa.json) |
 | Furry Futanari: 3 in 1 | 367042 | [367042-furry-futanari-3-in-1.json](./367042-furry-futanari-3-in-1.json) |
