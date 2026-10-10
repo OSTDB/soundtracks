@@ -3160,11 +3160,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy XIII-2: Steelbook Edition | 41843 | [41843-final-fantasy-xiii-2-steelbook-edition.json](./41843-final-fantasy-xiii-2-steelbook-edition.json) |
 | Final Fantasy XIV Online | 14729 | [14729-final-fantasy-xiv-online.json](./14729-final-fantasy-xiv-online.json) |
 | Final Fantasy XIV Online | 386 | [386-final-fantasy-xiv-online.json](./386-final-fantasy-xiv-online.json) |
+| Final Fantasy XIV Online: Complete Collector's Edition | 307776 | [307776-final-fantasy-xiv-online-complete-collectors-edition.json](./307776-final-fantasy-xiv-online-complete-collectors-edition.json) |
 | Final Fantasy XIV Online: Complete Edition | 293775 | [293775-final-fantasy-xiv-online-complete-edition.json](./293775-final-fantasy-xiv-online-complete-edition.json) |
+| Final Fantasy XIV Online: Complete Edition | 307773 | [307773-final-fantasy-xiv-online-complete-edition.json](./307773-final-fantasy-xiv-online-complete-edition.json) |
 | Final Fantasy XIV Online: Starter Edition | 136224 | [136224-final-fantasy-xiv-online-starter-edition.json](./136224-final-fantasy-xiv-online-starter-edition.json) |
 | Final Fantasy XIV Online: Starter Edition | 293777 | [293777-final-fantasy-xiv-online-starter-edition.json](./293777-final-fantasy-xiv-online-starter-edition.json) |
 | Final Fantasy XIV: A Realm Reborn - Collector's Edition | 41839 | [41839-final-fantasy-xiv-a-realm-reborn-collectors-edition.json](./41839-final-fantasy-xiv-a-realm-reborn-collectors-edition.json) |
 | Final Fantasy XIV: Collector's Edition | 41854 | [41854-final-fantasy-xiv-collectors-edition.json](./41854-final-fantasy-xiv-collectors-edition.json) |
+| Final Fantasy XIV: Dawntrail - Collector's Edition | 307775 | [307775-final-fantasy-xiv-dawntrail-collectors-edition.json](./307775-final-fantasy-xiv-dawntrail-collectors-edition.json) |
 | Final Fantasy XIV: Endwalker | 143232 | [143232-final-fantasy-xiv-endwalker.json](./143232-final-fantasy-xiv-endwalker.json) |
 | Final Fantasy XIV: Endwalker - Collector's Edition | 152343 | [152343-final-fantasy-xiv-endwalker-collectors-edition.json](./152343-final-fantasy-xiv-endwalker-collectors-edition.json) |
 | Final Fantasy XIV: Heavensward - Collector's Edition | 51532 | [51532-final-fantasy-xiv-heavensward-collectors-edition.json](./51532-final-fantasy-xiv-heavensward-collectors-edition.json) |
@@ -4589,6 +4592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fleabag vs. Mutt | 196790 | [196790-fleabag-vs-mutt.json](./196790-fleabag-vs-mutt.json) |
 | Fleabag vs. Mutt 2 | 403020 | [403020-fleabag-vs-mutt-2.json](./403020-fleabag-vs-mutt-2.json) |
 | Fleafall Champion | 92595 | [92595-fleafall-champion.json](./92595-fleafall-champion.json) |
+| Fleapit | 307781 | [307781-fleapit.json](./307781-fleapit.json) |
 | Flecto | 407325 | [407325-flecto.json](./407325-flecto.json) |
 | Fledge | 225537 | [225537-fledge.json](./225537-fledge.json) |
 | Fledge | 257909 | [257909-fledge.json](./257909-fledge.json) |
@@ -5100,6 +5104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FlowScape | 121007 | [121007-flowscape.json](./121007-flowscape.json) |
 | Flowstone Saga | 152329 | [152329-flowstone-saga.json](./152329-flowstone-saga.json) |
 | Flowtris | 364726 | [364726-flowtris.json](./364726-flowtris.json) |
+| Flowxie's Mission | 307778 | [307778-flowxies-mission.json](./307778-flowxies-mission.json) |
 | Floyd Factory Jam | 319704 | [319704-floyd-factory-jam.json](./319704-floyd-factory-jam.json) |
 | Floyd of the Jungle | 24987 | [24987-floyd-of-the-jungle.json](./24987-floyd-of-the-jungle.json) |
 | FLS | 127755 | [127755-fls.json](./127755-fls.json) |
@@ -5620,6 +5625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football President | 82313 | [82313-football-president.json](./82313-football-president.json) |
 | Football Quiz | 340926 | [340926-football-quiz.json](./340926-football-quiz.json) |
 | Football Quiz Deluxe | 116397 | [116397-football-quiz-deluxe.json](./116397-football-quiz-deluxe.json) |
+| Football Referee Simulator | 307975 | [307975-football-referee-simulator.json](./307975-football-referee-simulator.json) |
 | Football Rising: Zero to Hero | 406285 | [406285-football-rising-zero-to-hero.json](./406285-football-rising-zero-to-hero.json) |
 | Football Russian 20!8 | 86306 | [86306-football-russian-20-8.json](./86306-football-russian-20-8.json) |
 | Football Saga Fantasista | 244801 | [244801-football-saga-fantasista.json](./244801-football-saga-fantasista.json) |
@@ -7521,6 +7527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | From the Deep | 224240 | [224240-from-the-deep.json](./224240-from-the-deep.json) |
 | From the Depths | 9632 | [9632-from-the-depths.json](./9632-from-the-depths.json) |
 | From the life of a thief | 398652 | [398652-from-the-life-of-a-thief.json](./398652-from-the-life-of-a-thief.json) |
+| From The Mystery Zone | 307798 | [307798-from-the-mystery-zone.json](./307798-from-the-mystery-zone.json) |
 | From The Past | 329689 | [329689-from-the-past.json](./329689-from-the-past.json) |
 | From the Psychothread | 278611 | [278611-from-the-psychothread.json](./278611-from-the-psychothread.json) |
 | From the Shadows | 142329 | [142329-from-the-shadows.json](./142329-from-the-shadows.json) |
