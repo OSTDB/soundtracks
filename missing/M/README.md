@@ -5570,6 +5570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meow | 334677 | [334677-meow.json](./334677-meow.json) |
 | Meow | 83171 | [83171-meow.json](./83171-meow.json) |
 | Meow and the Diamond Jump | 379022 | [379022-meow-and-the-diamond-jump.json](./379022-meow-and-the-diamond-jump.json) |
+| Meow Bistro! | 300534 | [300534-meow-bistro.json](./300534-meow-bistro.json) |
 | Meow Cat Village | 314471 | [314471-meow-cat-village.json](./314471-meow-cat-village.json) |
 | Meow Craft | 392235 | [392235-meow-craft.json](./392235-meow-craft.json) |
 | Meow Defence | 214159 | [214159-meow-defence.json](./214159-meow-defence.json) |
@@ -6088,6 +6089,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metapathic | 406156 | [406156-metapathic.json](./406156-metapathic.json) |
 | Metaphobia | 127907 | [127907-metaphobia.json](./127907-metaphobia.json) |
 | Metaphor: ReFantazio - Atlus Brand 35th Anniversary Edition | 344026 | [344026-metaphor-refantazio-atlus-brand-35th-anniversary-edition.json](./344026-metaphor-refantazio-atlus-brand-35th-anniversary-edition.json) |
+| Metaphor: ReFantazio - Collector's Edition | 300481 | [300481-metaphor-refantazio-collectors-edition.json](./300481-metaphor-refantazio-collectors-edition.json) |
+| Metaphor: ReFantazio - Launch Edition | 300480 | [300480-metaphor-refantazio-launch-edition.json](./300480-metaphor-refantazio-launch-edition.json) |
 | MetaphOrder | 180680 | [180680-metaphorder.json](./180680-metaphorder.json) |
 | Metaphysical Abyss | 296979 | [296979-metaphysical-abyss.json](./296979-metaphysical-abyss.json) |
 | Metapilot | 209476 | [209476-metapilot.json](./209476-metapilot.json) |
@@ -10893,6 +10896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MotoGP 20 | 131635 | [131635-motogp-20.json](./131635-motogp-20.json) |
 | MotoGP 20: Historic Pack | 168361 | [168361-motogp-20-historic-pack.json](./168361-motogp-20-historic-pack.json) |
 | MotoGP 21: Limited Edition Liveries | 168363 | [168363-motogp-21-limited-edition-liveries.json](./168363-motogp-21-limited-edition-liveries.json) |
+| MotoGP 22: Day One Edition | 300469 | [300469-motogp-22-day-one-edition.json](./300469-motogp-22-day-one-edition.json) |
 | MotoGP 24: Day One Edition | 292136 | [292136-motogp-24-day-one-edition.json](./292136-motogp-24-day-one-edition.json) |
 | MotoGP 24: Nolan Helmet Liveries | 309663 | [309663-motogp-24-nolan-helmet-liveries.json](./309663-motogp-24-nolan-helmet-liveries.json) |
 | MotoGP 24: Test Suits | 309662 | [309662-motogp-24-test-suits.json](./309662-motogp-24-test-suits.json) |
@@ -12937,6 +12941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Uncle's Story | 287350 | [287350-my-uncles-story.json](./287350-my-uncles-story.json) |
 | My Universe Discovery Collection | 214002 | [214002-my-universe-discovery-collection.json](./214002-my-universe-discovery-collection.json) |
 | My Universe Discovery Collection 2 | 301535 | [301535-my-universe-discovery-collection-2.json](./301535-my-universe-discovery-collection-2.json) |
+| My Universe: 4in1 Quadripack | 300531 | [300531-my-universe-4in1-quadripack.json](./300531-my-universe-4in1-quadripack.json) |
 | My Universe: Cooking Star Restaurant | 139863 | [139863-my-universe-cooking-star-restaurant.json](./139863-my-universe-cooking-star-restaurant.json) |
 | My Universe: Doctors & Nurses | 169234 | [169234-my-universe-doctors-and-nurses.json](./169234-my-universe-doctors-and-nurses.json) |
 | My Universe: Fashion Boutique | 139215 | [139215-my-universe-fashion-boutique.json](./139215-my-universe-fashion-boutique.json) |
