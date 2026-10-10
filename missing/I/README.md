@@ -365,6 +365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Wanna Take the Time-Machine 2 | 187366 | [187366-i-wanna-take-the-time-machine-2.json](./187366-i-wanna-take-the-time-machine-2.json) |
 | I Wanna Touch | 389984 | [389984-i-wanna-touch.json](./389984-i-wanna-touch.json) |
 | I Wanna Try | 357169 | [357169-i-wanna-try.json](./357169-i-wanna-try.json) |
+| I want 5 quadrillion yen! | 298955 | [298955-i-want-5-quadrillion-yen.json](./298955-i-want-5-quadrillion-yen.json) |
 | I Want an Identity | 327229 | [327229-i-want-an-identity.json](./327229-i-want-an-identity.json) |
 | I Want My Mommy | 40789 | [40789-i-want-my-mommy.json](./40789-i-want-my-mommy.json) |
 | I Want To Be A Circle When I Grow Up. | 396545 | [396545-i-want-to-be-a-circle-when-i-grow-up.json](./396545-i-want-to-be-a-circle-when-i-grow-up.json) |
@@ -3766,6 +3767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isekai x Isekai: Tsugi ha Dono Sakuhin wo | 367445 | [367445-isekai-x-isekai-tsugi-ha-dono-sakuhin-wo.json](./367445-isekai-x-isekai-tsugi-ha-dono-sakuhin-wo.json) |
 | Isekai: I'm an FPS Hero Who Was Summoned to Another World | 348287 | [348287-isekai-im-an-fps-hero-who-was-summoned-to-another-world.json](./348287-isekai-im-an-fps-hero-who-was-summoned-to-another-world.json) |
 | Isekai: Slow Life | 261796 | [261796-isekai-slow-life.json](./261796-isekai-slow-life.json) |
+| Isekai: Warrior's Kiss | 298997 | [298997-isekai-warriors-kiss.json](./298997-isekai-warriors-kiss.json) |
 | Isekaing: From Zero to Zero | 323548 | [323548-isekaing-from-zero-to-zero.json](./323548-isekaing-from-zero-to-zero.json) |
 | Isekat: Crushed by a Computer, My Beloved Kitten is Transported to a Fantasy World where its Typing Skills Save the Kingdom! | 346161 | [346161-isekat-crushed-by-a-computer-my-beloved-kitten-is-transported-to-a-fantasy-world-where-its-typing-skills-save-the-kingdom.json](./346161-isekat-crushed-by-a-computer-my-beloved-kitten-is-transported-to-a-fantasy-world-where-its-typing-skills-save-the-kingdom.json) |
 | Iselin Saga | 154923 | [154923-iselin-saga.json](./154923-iselin-saga.json) |
