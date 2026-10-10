@@ -460,6 +460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I’m a Wizard, But I Dig | 384526 | [384526-i-m-a-wizard-but-i-dig.json](./384526-i-m-a-wizard-but-i-dig.json) |
 | I'm an adventurer | 110946 | [110946-im-an-adventurer.json](./110946-im-an-adventurer.json) |
 | I'm Awesome | 40148 | [40148-im-awesome.json](./40148-im-awesome.json) |
+| I'm Being Chased By A Bear | 302731 | [302731-im-being-chased-by-a-bear.json](./302731-im-being-chased-by-a-bear.json) |
 | I'm Borr | 196604 | [196604-im-borr.json](./196604-im-borr.json) |
 | I'm Calling the Cops! | 128997 | [128997-im-calling-the-cops.json](./128997-im-calling-the-cops.json) |
 | I'm Caught in a Time Loop: I Need to Find a Girl as Soon as Possible | 340508 | [340508-im-caught-in-a-time-loop-i-need-to-find-a-girl-as-soon-as-possible.json](./340508-im-caught-in-a-time-loop-i-need-to-find-a-girl-as-soon-as-possible.json) |
@@ -1350,7 +1351,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Illegal Simulator | 302058 | [302058-illegal-simulator.json](./302058-illegal-simulator.json) |
 | Illiteracy | 178489 | [178489-illiteracy.json](./178489-illiteracy.json) |
 | Illness | 166584 | [166584-illness.json](./166584-illness.json) |
+| Illo Somnium Rapid Eye | 302722 | [302722-illo-somnium-rapid-eye.json](./302722-illo-somnium-rapid-eye.json) |
 | Illo: birth of the cool | 85626 | [85626-illo-birth-of-the-cool.json](./85626-illo-birth-of-the-cool.json) |
+| IlloScape: Into the Illoverse | 302730 | [302730-illoscape-into-the-illoverse.json](./302730-illoscape-into-the-illoverse.json) |
 | Illove dream | 243650 | [243650-illove-dream.json](./243650-illove-dream.json) |
 | Illu-Logi VOW | 269635 | [269635-illu-logi-vow.json](./269635-illu-logi-vow.json) |
 | Illum | 247605 | [247605-illum.json](./247605-illum.json) |
@@ -1674,6 +1677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Impossible Flappy | 87896 | [87896-impossible-flappy.json](./87896-impossible-flappy.json) |
 | Impossible Geometry | 34358 | [34358-impossible-geometry.json](./34358-impossible-geometry.json) |
 | Impossible Golf: Worldwide Fantasy Tour | 210083 | [210083-impossible-golf-worldwide-fantasy-tour.json](./210083-impossible-golf-worldwide-fantasy-tour.json) |
+| Impossible Island | 302770 | [302770-impossible-island.json](./302770-impossible-island.json) |
 | Impossible Jumpy Quest | 95574 | [95574-impossible-jumpy-quest.json](./95574-impossible-jumpy-quest.json) |
 | Impossible Maze | 135898 | [135898-impossible-maze.json](./135898-impossible-maze.json) |
 | Impossible Mission | 210090 | [210090-impossible-mission.json](./210090-impossible-mission.json) |
@@ -3483,6 +3487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IOSoccer | 82994 | [82994-iosoccer.json](./82994-iosoccer.json) |
 | Ipad Baby | 282808 | [282808-ipad-baby.json](./282808-ipad-baby.json) |
 | iPitch | 92081 | [92081-ipitch.json](./92081-ipitch.json) |
+| IPollute | 302754 | [302754-ipollute.json](./302754-ipollute.json) |
 | Ippan Mario | 268193 | [268193-ippan-mario.json](./268193-ippan-mario.json) |
 | Ippan Zaidan Houjin: Nippon Kanji Shuujukudo Kentei Kikou Kounen - Kanjukuken DS | 269585 | [269585-ippan-zaidan-houjin-nippon-kanji-shuujukudo-kentei-kikou-kounen-kanjukuken-ds.json](./269585-ippan-zaidan-houjin-nippon-kanji-shuujukudo-kentei-kikou-kounen-kanjukuken-ds.json) |
 | IPS 13: All Signals Lost | 369012 | [369012-ips-13-all-signals-lost.json](./369012-ips-13-all-signals-lost.json) |
