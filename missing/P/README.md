@@ -64,12 +64,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-01 | 267566 | [267566-pac-01.json](./267566-pac-01.json) |
 | Pac-Athlon | 320352 | [320352-pac-athlon.json](./320352-pac-athlon.json) |
 | Pac-Attack | 239188 | [239188-pac-attack.json](./239188-pac-attack.json) |
+| Pac-Attack | 282487 | [282487-pac-attack.json](./282487-pac-attack.json) |
 | Pac-Avoid | 62242 | [62242-pac-avoid.json](./62242-pac-avoid.json) |
 | Pac-Boy & Mouse | 86097 | [86097-pac-boy-and-mouse.json](./86097-pac-boy-and-mouse.json) |
 | Pac-Chaves | 252904 | [252904-pac-chaves.json](./252904-pac-chaves.json) |
 | Pac-Gal | 25141 | [25141-pac-gal.json](./25141-pac-gal.json) |
 | Pac-Guy | 64678 | [64678-pac-guy.json](./64678-pac-guy.json) |
 | Pac-Guy: Resurrection | 63107 | [63107-pac-guy-resurrection.json](./63107-pac-guy-resurrection.json) |
+| Pac-in-Time | 282488 | [282488-pac-in-time.json](./282488-pac-in-time.json) |
 | Pac-Laby 3D | 266250 | [266250-pac-laby-3d.json](./266250-pac-laby-3d.json) |
 | Pac-Land | 6822 | [6822-pac-land.json](./6822-pac-land.json) |
 | Pac-Maine | 79229 | [79229-pac-maine.json](./79229-pac-maine.json) |
@@ -3192,6 +3194,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PGA Tour 2K25 | 328079 | [328079-pga-tour-2k25.json](./328079-pga-tour-2k25.json) |
 | PGA Tour 2K25: Deluxe Edition | 328081 | [328081-pga-tour-2k25-deluxe-edition.json](./328081-pga-tour-2k25-deluxe-edition.json) |
 | PGA Tour 2K25: Legend Edition | 328082 | [328082-pga-tour-2k25-legend-edition.json](./328082-pga-tour-2k25-legend-edition.json) |
+| PGA Tour 96 | 282502 | [282502-pga-tour-96.json](./282502-pga-tour-96.json) |
+| PGA Tour 96 | 282503 | [282503-pga-tour-96.json](./282503-pga-tour-96.json) |
 | PGA Tour 96 | 4285 | [4285-pga-tour-96.json](./4285-pga-tour-96.json) |
 | PGA Tour 96 TPC at Sawgrass Championship Course | 209982 | [209982-pga-tour-96-tpc-at-sawgrass-championship-course.json](./209982-pga-tour-96-tpc-at-sawgrass-championship-course.json) |
 | PGA Tour 96: Wentworth | 209981 | [209981-pga-tour-96-wentworth.json](./209981-pga-tour-96-wentworth.json) |
@@ -4670,6 +4674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pippa Funnell 4: Secrets of the Ranch | 320930 | [320930-pippa-funnell-4-secrets-of-the-ranch.json](./320930-pippa-funnell-4-secrets-of-the-ranch.json) |
 | Pippa Funnell: The Stud Farm Inheritance | 64115 | [64115-pippa-funnell-the-stud-farm-inheritance.json](./64115-pippa-funnell-the-stud-farm-inheritance.json) |
 | Pippa of Caerbannog | 412408 | [412408-pippa-of-caerbannog.json](./412408-pippa-of-caerbannog.json) |
+| Pippi | 282509 | [282509-pippi.json](./282509-pippi.json) |
 | Pippin | 92542 | [92542-pippin.json](./92542-pippin.json) |
 | Pippin's Mysterious Garden | 258729 | [258729-pippins-mysterious-garden.json](./258729-pippins-mysterious-garden.json) |
 | Pippo's Quest | 251584 | [251584-pippos-quest.json](./251584-pippos-quest.json) |
@@ -8478,6 +8483,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poy Poy | 45092 | [45092-poy-poy.json](./45092-poy-poy.json) |
 | Poy Poy 2 | 44751 | [44751-poy-poy-2.json](./44751-poy-poy-2.json) |
 | Poyo Poyo Sonic | 317350 | [317350-poyo-poyo-sonic.json](./317350-poyo-poyo-sonic.json) |
+| Poyon no Dungeon Room | 282510 | [282510-poyon-no-dungeon-room.json](./282510-poyon-no-dungeon-room.json) |
+| Poyon no Dungeon Room 2 | 282511 | [282511-poyon-no-dungeon-room-2.json](./282511-poyon-no-dungeon-room-2.json) |
 | Pozionista | 310148 | [310148-pozionista.json](./310148-pozionista.json) |
 | Pozzo Jello Crusade | 31807 | [31807-pozzo-jello-crusade.json](./31807-pozzo-jello-crusade.json) |
 | PP | 260296 | [260296-pp.json](./260296-pp.json) |
@@ -9338,6 +9345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Yakyuu Fanstars League | 395234 | [395234-pro-yakyuu-fanstars-league.json](./395234-pro-yakyuu-fanstars-league.json) |
 | Pro Yakyuu ga Suki Da! 2017 | 194032 | [194032-pro-yakyuu-ga-suki-da-2017.json](./194032-pro-yakyuu-ga-suki-da-2017.json) |
 | Pro Yakyuu GG League | 141191 | [141191-pro-yakyuu-gg-league.json](./141191-pro-yakyuu-gg-league.json) |
+| Pro Yakyuu GG League '94 | 282506 | [282506-pro-yakyuu-gg-league-94.json](./282506-pro-yakyuu-gg-league-94.json) |
 | Pro Yakyuu Greatest Nine 97 | 231611 | [231611-pro-yakyuu-greatest-nine-97.json](./231611-pro-yakyuu-greatest-nine-97.json) |
 | Pro Yakyuu Nettou Puzzle Stadium | 37873 | [37873-pro-yakyuu-nettou-puzzle-stadium.json](./37873-pro-yakyuu-nettou-puzzle-stadium.json) |
 | Pro Yakyuu Spirits 2012 | 44575 | [44575-pro-yakyuu-spirits-2012.json](./44575-pro-yakyuu-spirits-2012.json) |
@@ -11123,6 +11131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle da Moro! | 259828 | [259828-puzzle-da-moro.json](./259828-puzzle-da-moro.json) |
 | Puzzle de Harvest Moon | 20897 | [20897-puzzle-de-harvest-moon.json](./20897-puzzle-de-harvest-moon.json) |
 | Puzzle de Pon! R | 47579 | [47579-puzzle-de-pon-r.json](./47579-puzzle-de-pon-r.json) |
+| Puzzle de Shoubu yo! Wootama-chan | 282515 | [282515-puzzle-de-shoubu-yo-wootama-chan.json](./282515-puzzle-de-shoubu-yo-wootama-chan.json) |
 | Puzzle DeFusion | 78979 | [78979-puzzle-defusion.json](./78979-puzzle-defusion.json) |
 | Puzzle Depot | 59650 | [59650-puzzle-depot.json](./59650-puzzle-depot.json) |
 | Puzzle Detective | 209370 | [209370-puzzle-detective.json](./209370-puzzle-detective.json) |
