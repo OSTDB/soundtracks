@@ -4144,6 +4144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Realms | 7617 | [7617-shadow-realms.json](./7617-shadow-realms.json) |
 | Shadow Rebirth | 267002 | [267002-shadow-rebirth.json](./267002-shadow-rebirth.json) |
 | Shadow Redemption | 169398 | [169398-shadow-redemption.json](./169398-shadow-redemption.json) |
+| Shadow Returns | 330114 | [330114-shadow-returns.json](./330114-shadow-returns.json) |
 | Shadow Rising: Reinedgening | 330307 | [330307-shadow-rising-reinedgening.json](./330307-shadow-rising-reinedgening.json) |
 | Shadow Runner | 116287 | [116287-shadow-runner.json](./116287-shadow-runner.json) |
 | Shadow Runner | 385379 | [385379-shadow-runner.json](./385379-shadow-runner.json) |
@@ -10899,6 +10900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic VR | 397132 | [397132-sonic-vr.json](./397132-sonic-vr.json) |
 | Sonic VS. Darkness: True Nightmare Revived | 140402 | [140402-sonic-vs-darkness-true-nightmare-revived.json](./140402-sonic-vs-darkness-true-nightmare-revived.json) |
 | Sonic vs. Dogs | 315038 | [315038-sonic-vs-dogs.json](./315038-sonic-vs-dogs.json) |
+| Sonic vs. Mega Man | 330116 | [330116-sonic-vs-mega-man.json](./330116-sonic-vs-mega-man.json) |
 | Sonic vs. Simpson | 315037 | [315037-sonic-vs-simpson.json](./315037-sonic-vs-simpson.json) |
 | Sonic Whirlwind | 326816 | [326816-sonic-whirlwind.json](./326816-sonic-whirlwind.json) |
 | Sonic Wild | 317612 | [317612-sonic-wild.json](./317612-sonic-wild.json) |
@@ -12468,6 +12470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spare Heart | 340549 | [340549-spare-heart.json](./340549-spare-heart.json) |
 | Spare Parts: Episode 1 | 162854 | [162854-spare-parts-episode-1.json](./162854-spare-parts-episode-1.json) |
 | Spare Parts: Episode 2 | 162855 | [162855-spare-parts-episode-2.json](./162855-spare-parts-episode-2.json) |
+| Spared! | 330112 | [330112-spared.json](./330112-spared.json) |
 | Sparedevil | 303840 | [303840-sparedevil.json](./303840-sparedevil.json) |
 | Sparganator | 348963 | [348963-sparganator.json](./348963-sparganator.json) |
 | Spark | 212450 | [212450-spark.json](./212450-spark.json) |
@@ -19626,6 +19629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mega Zero | 194981 | [194981-super-mega-zero.json](./194981-super-mega-zero.json) |
 | Super Methane Bros | 12785 | [12785-super-methane-bros.json](./12785-super-methane-bros.json) |
 | Super Metroid and A Link to the Past Crossover Randomizer | 210231 | [210231-super-metroid-and-a-link-to-the-past-crossover-randomizer.json](./210231-super-metroid-and-a-link-to-the-past-crossover-randomizer.json) |
+| Super Metroid Arcade | 330214 | [330214-super-metroid-arcade.json](./330214-super-metroid-arcade.json) |
 | Super Metroid But I Hate You | 345563 | [345563-super-metroid-but-i-hate-you.json](./345563-super-metroid-but-i-hate-you.json) |
 | Super Metroid CRE | 255374 | [255374-super-metroid-cre.json](./255374-super-metroid-cre.json) |
 | Super Metroid CRE 2 | 255373 | [255373-super-metroid-cre-2.json](./255373-super-metroid-cre-2.json) |
