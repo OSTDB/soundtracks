@@ -1518,6 +1518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virar | 276814 | [276814-virar.json](./276814-virar.json) |
 | Virche Evermore: EpiC:Lycoris | 241528 | [241528-virche-evermore-epic-lycoris.json](./241528-virche-evermore-epic-lycoris.json) |
 | Virche Evermore: ErroR:salvation | 147480 | [147480-virche-evermore-error-salvation.json](./147480-virche-evermore-error-salvation.json) |
+| Vircoban | 322276 | [322276-vircoban.json](./322276-vircoban.json) |
 | Virgin Atlantic Challenge | 142439 | [142439-virgin-atlantic-challenge.json](./142439-virgin-atlantic-challenge.json) |
 | Viriax | 92481 | [92481-viriax.json](./92481-viriax.json) |
 | Viricide | 242779 | [242779-viricide.json](./242779-viricide.json) |
@@ -2000,6 +2001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Void Inspector | 415891 | [415891-void-inspector.json](./415891-void-inspector.json) |
 | Void Invaders | 18213 | [18213-void-invaders.json](./18213-void-invaders.json) |
 | Void Jump VR | 359051 | [359051-void-jump-vr.json](./359051-void-jump-vr.json) |
+| Void Lands | 322245 | [322245-void-lands.json](./322245-void-lands.json) |
 | Void Light | 387363 | [387363-void-light.json](./387363-void-light.json) |
 | Void Link | 81252 | [81252-void-link.json](./81252-void-link.json) |
 | Void Martyrs | 335686 | [335686-void-martyrs.json](./335686-void-martyrs.json) |
