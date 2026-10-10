@@ -82,6 +82,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baa! Never Stop Bleating | 295565 | [295565-baa-never-stop-bleating.json](./295565-baa-never-stop-bleating.json) |
 | Baam Squad | 90719 | [90719-baam-squad.json](./90719-baam-squad.json) |
 | Baazi | 360704 | [360704-baazi.json](./360704-baazi.json) |
+| BAB | 302208 | [302208-bab.json](./302208-bab.json) |
 | Bab.gg | 408262 | [408262-bab-gg.json](./408262-bab-gg.json) |
 | Baba Booey's Adventure | 72118 | [72118-baba-booeys-adventure.json](./72118-baba-booeys-adventure.json) |
 | Baba Is Cool 2 | 301581 | [301581-baba-is-cool-2.json](./301581-baba-is-cool-2.json) |
@@ -2539,6 +2540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Tanks: World War II | 115159 | [115159-battle-tanks-world-war-ii.json](./115159-battle-tanks-world-war-ii.json) |
 | Battle Tap Tap | 233239 | [233239-battle-tap-tap.json](./233239-battle-tap-tap.json) |
 | Battle Teams 2 | 102862 | [102862-battle-teams-2.json](./102862-battle-teams-2.json) |
+| Battle Teams 2: Iconic Bundle | 302206 | [302206-battle-teams-2-iconic-bundle.json](./302206-battle-teams-2-iconic-bundle.json) |
 | Battle Teams 2: Wishlist Pack | 310384 | [310384-battle-teams-2-wishlist-pack.json](./310384-battle-teams-2-wishlist-pack.json) |
 | Battle Through Time | 13864 | [13864-battle-through-time.json](./13864-battle-through-time.json) |
 | Battle Thunder Front | 220354 | [220354-battle-thunder-front.json](./220354-battle-thunder-front.json) |
@@ -6637,6 +6639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood Bowl III: Season 2 | 302463 | [302463-blood-bowl-iii-season-2.json](./302463-blood-bowl-iii-season-2.json) |
 | Blood Bowl III: Season 3 | 302464 | [302464-blood-bowl-iii-season-3.json](./302464-blood-bowl-iii-season-3.json) |
 | Blood Bowl III: Season 4 | 302466 | [302466-blood-bowl-iii-season-4.json](./302466-blood-bowl-iii-season-4.json) |
+| Blood Bowl III: Season 5 | 302174 | [302174-blood-bowl-iii-season-5.json](./302174-blood-bowl-iii-season-5.json) |
 | Blood Bowl Tablet | 29030 | [29030-blood-bowl-tablet.json](./29030-blood-bowl-tablet.json) |
 | Blood Bowl: Death Zone | 105663 | [105663-blood-bowl-death-zone.json](./105663-blood-bowl-death-zone.json) |
 | Blood Bowl: Kerrunch | 34380 | [34380-blood-bowl-kerrunch.json](./34380-blood-bowl-kerrunch.json) |
@@ -7383,6 +7386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Body Elements | 150551 | [150551-body-elements.json](./150551-body-elements.json) |
 | Body Glove Bluewater Hunter | 65189 | [65189-body-glove-bluewater-hunter.json](./65189-body-glove-bluewater-hunter.json) |
 | Body Language | 68034 | [68034-body-language.json](./68034-body-language.json) |
+| Body of Mine | 302198 | [302198-body-of-mine.json](./302198-body-of-mine.json) |
 | Body Pay | 296665 | [296665-body-pay.json](./296665-body-pay.json) |
 | Body Sushi | 393471 | [393471-body-sushi.json](./393471-body-sushi.json) |
 | Bodycam | 248994 | [248994-bodycam.json](./248994-bodycam.json) |
