@@ -2147,6 +2147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inertia Ball | 264803 | [264803-inertia-ball.json](./264803-inertia-ball.json) |
 | Inertia: Redux | 208838 | [208838-inertia-redux.json](./208838-inertia-redux.json) |
 | Inertia: Redux | 208858 | [208858-inertia-redux.json](./208858-inertia-redux.json) |
+| Inertial Craft | 309953 | [309953-inertial-craft.json](./309953-inertial-craft.json) |
 | Inertial Drift | 127770 | [127770-inertial-drift.json](./127770-inertial-drift.json) |
 | Inertial Drift: Twilight Rivals Edition | 203517 | [203517-inertial-drift-twilight-rivals-edition.json](./203517-inertial-drift-twilight-rivals-edition.json) |
 | Ines | 340925 | [340925-ines.json](./340925-ines.json) |
@@ -3918,6 +3919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iso | 201763 | [201763-iso.json](./201763-iso.json) |
 | Iso | 227980 | [227980-iso.json](./227980-iso.json) |
 | Iso Racer | 246353 | [246353-iso-racer.json](./246353-iso-racer.json) |
+| Iso-Core | 310160 | [310160-iso-core.json](./310160-iso-core.json) |
 | iso-Sphere | 34146 | [34146-iso-sphere.json](./34146-iso-sphere.json) |
 | ISO/2004 | 402492 | [402492-iso-2004.json](./402492-iso-2004.json) |
 | Isoball | 243779 | [243779-isoball.json](./243779-isoball.json) |
