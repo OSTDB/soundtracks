@@ -4596,6 +4596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shark Riders | 150137 | [150137-shark-riders.json](./150137-shark-riders.json) |
 | Shark Siege | 296460 | [296460-shark-siege.json](./296460-shark-siege.json) |
 | Shark Slayer | 166742 | [166742-shark-slayer.json](./166742-shark-slayer.json) |
+| Shark Tale: Fish Eat Fish | 325144 | [325144-shark-tale-fish-eat-fish.json](./325144-shark-tale-fish-eat-fish.json) |
 | Shark Trap | 24901 | [24901-shark-trap.json](./24901-shark-trap.json) |
 | Shark Turtle | 272479 | [272479-shark-turtle.json](./272479-shark-turtle.json) |
 | Shark! Hunting the Great White | 71770 | [71770-shark-hunting-the-great-white.json](./71770-shark-hunting-the-great-white.json) |
@@ -6591,6 +6592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SimIsle: Missions in the Rainforest | 12907 | [12907-simisle-missions-in-the-rainforest.json](./12907-simisle-missions-in-the-rainforest.json) |
 | SimLife | 12768 | [12768-simlife.json](./12768-simlife.json) |
 | Simnetzero | 234751 | [234751-simnetzero.json](./234751-simnetzero.json) |
+| Simon | 324847 | [324847-simon.json](./324847-simon.json) |
 | Simon and Friends | 401687 | [401687-simon-and-friends.json](./401687-simon-and-friends.json) |
 | Simon Says | 288364 | [288364-simon-says.json](./288364-simon-says.json) |
 | Simon Says! | 42167 | [42167-simon-says.json](./42167-simon-says.json) |
@@ -7222,6 +7224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skatebird | 111813 | [111813-skatebird.json](./111813-skatebird.json) |
 | Skateboard Crazy | 57599 | [57599-skateboard-crazy.json](./57599-skateboard-crazy.json) |
 | Skateboard Drifting Simulator with Maxwell Cat: The Game | 259231 | [259231-skateboard-drifting-simulator-with-maxwell-cat-the-game.json](./259231-skateboard-drifting-simulator-with-maxwell-cat-the-game.json) |
+| Skateboard Jam | 324848 | [324848-skateboard-jam.json](./324848-skateboard-jam.json) |
 | Skateboard Kidz | 78881 | [78881-skateboard-kidz.json](./78881-skateboard-kidz.json) |
 | Skateboard Knight | 338300 | [338300-skateboard-knight.json](./338300-skateboard-knight.json) |
 | Skateboard Madness Xtreme Edition | 66933 | [66933-skateboard-madness-xtreme-edition.json](./66933-skateboard-madness-xtreme-edition.json) |
@@ -21813,6 +21816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Symbiosis | 326843 | [326843-symbiosis.json](./326843-symbiosis.json) |
 | Symbiote | 369458 | [369458-symbiote.json](./369458-symbiote.json) |
 | Symbiotic Love | 159361 | [159361-symbiotic-love.json](./159361-symbiotic-love.json) |
+| Symble | 324850 | [324850-symble.json](./324850-symble.json) |
 | Symbol | 229930 | [229930-symbol.json](./229930-symbol.json) |
 | Symbol Link | 264219 | [264219-symbol-link.json](./264219-symbol-link.json) |
 | Symbol Sudoku | 221101 | [221101-symbol-sudoku.json](./221101-symbol-sudoku.json) |
