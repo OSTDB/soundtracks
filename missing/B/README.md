@@ -716,6 +716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bakuchou Retrieve Master | 228490 | [228490-bakuchou-retrieve-master.json](./228490-bakuchou-retrieve-master.json) |
 | Bakuchou Retsuden Shou: Hyper Fishing | 228491 | [228491-bakuchou-retsuden-shou-hyper-fishing.json](./228491-bakuchou-retsuden-shou-hyper-fishing.json) |
 | Bakudan Baku-tan | 319096 | [319096-bakudan-baku-tan.json](./319096-bakudan-baku-tan.json) |
+| Bakugan Battle Brawlers | 328395 | [328395-bakugan-battle-brawlers.json](./328395-bakugan-battle-brawlers.json) |
 | Bakugan Battle Brawlers: Arcade Battlers | 122989 | [122989-bakugan-battle-brawlers-arcade-battlers.json](./122989-bakugan-battle-brawlers-arcade-battlers.json) |
 | Bakugan: Champions of Vestroia - Deluxe Edition | 140894 | [140894-bakugan-champions-of-vestroia-deluxe-edition.json](./140894-bakugan-champions-of-vestroia-deluxe-edition.json) |
 | Bakugan: Rise of the Resistance | 26690 | [26690-bakugan-rise-of-the-resistance.json](./26690-bakugan-rise-of-the-resistance.json) |
@@ -9351,6 +9352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bridge Race: Rush Edition | 347319 | [347319-bridge-race-rush-edition.json](./347319-bridge-race-rush-edition.json) |
 | Bridge Race: Silly Edition | 362376 | [362376-bridge-race-silly-edition.json](./362376-bridge-race-silly-edition.json) |
 | Bridge Strike | 124035 | [124035-bridge-strike.json](./124035-bridge-strike.json) |
+| Bridge the Gap! | 328446 | [328446-bridge-the-gap.json](./328446-bridge-the-gap.json) |
 | Bridge to Another World Remastered: Burnt Dreams Collector's Edition | 362834 | [362834-bridge-to-another-world-remastered-burnt-dreams-collectors-edition.json](./362834-bridge-to-another-world-remastered-burnt-dreams-collectors-edition.json) |
 | Bridge to Another World: Burnt Dreams HD | 95659 | [95659-bridge-to-another-world-burnt-dreams-hd.json](./95659-bridge-to-another-world-burnt-dreams-hd.json) |
 | Bridge to Another World: Cursed Clouds - Collector's Edition | 225009 | [225009-bridge-to-another-world-cursed-clouds-collectors-edition.json](./225009-bridge-to-another-world-cursed-clouds-collectors-edition.json) |
@@ -9385,6 +9387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bright Bird | 139208 | [139208-bright-bird.json](./139208-bright-bird.json) |
 | Bright Bob | 83523 | [83523-bright-bob.json](./83523-bright-bob.json) |
 | Bright Days in Quarantine | 158517 | [158517-bright-days-in-quarantine.json](./158517-bright-days-in-quarantine.json) |
+| Bright Escape | 328389 | [328389-bright-escape.json](./328389-bright-escape.json) |
 | Bright Garden | 381957 | [381957-bright-garden.json](./381957-bright-garden.json) |
 | Bright Girl | 155017 | [155017-bright-girl.json](./155017-bright-girl.json) |
 | Bright Lancer | 141881 | [141881-bright-lancer.json](./141881-bright-lancer.json) |
