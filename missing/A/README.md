@@ -3796,6 +3796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Bash II | 38859 | [38859-alien-bash-ii.json](./38859-alien-bash-ii.json) |
 | Alien Battlefield | 232940 | [232940-alien-battlefield.json](./232940-alien-battlefield.json) |
 | Alien Blaster | 180585 | [180585-alien-blaster.json](./180585-alien-blaster.json) |
+| Alien Block | 328425 | [328425-alien-block.json](./328425-alien-block.json) |
 | Alien Bloom | 411508 | [411508-alien-bloom.json](./411508-alien-bloom.json) |
 | Alien Bob | 293083 | [293083-alien-bob.json](./293083-alien-bob.json) |
 | Alien Breed | 8633 | [8633-alien-breed.json](./8633-alien-breed.json) |
@@ -4304,6 +4305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alligori | 272866 | [272866-alligori.json](./272866-alligori.json) |
 | Allison Road | 11296 | [11296-allison-road.json](./11296-allison-road.json) |
 | Allison's Diary: Rebirth | 112771 | [112771-allisons-diary-rebirth.json](./112771-allisons-diary-rebirth.json) |
+| AllKnowing Idol Jesus | 328401 | [328401-allknowing-idol-jesus.json](./328401-allknowing-idol-jesus.json) |
 | Allkpop Allstar | 59657 | [59657-allkpop-allstar.json](./59657-allkpop-allstar.json) |
 | Allods Online | 13157 | [13157-allods-online.json](./13157-allods-online.json) |
 | Allogloom | 277935 | [277935-allogloom.json](./277935-allogloom.json) |
@@ -5032,6 +5034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amid the Grid | 394824 | [394824-amid-the-grid.json](./394824-amid-the-grid.json) |
 | Amid the Lines | 165530 | [165530-amid-the-lines.json](./165530-amid-the-lines.json) |
 | Amida | 7755 | [7755-amida.json](./7755-amida.json) |
+| AmidaDaMida | 328388 | [328388-amidadamida.json](./328388-amidadamida.json) |
 | Amidakuji Knight | 214024 | [214024-amidakuji-knight.json](./214024-amidakuji-knight.json) |
 | Amidar | 11116 | [11116-amidar.json](./11116-amidar.json) |
 | Amidar | 304189 | [304189-amidar.json](./304189-amidar.json) |
@@ -5673,6 +5676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angry Brainless Bovines | 140607 | [140607-angry-brainless-bovines.json](./140607-angry-brainless-bovines.json) |
 | Angry Brides | 174079 | [174079-angry-brides.json](./174079-angry-brides.json) |
 | Angry Bulls | 209706 | [209706-angry-bulls.json](./209706-angry-bulls.json) |
+| Angry Bunnies | 328437 | [328437-angry-bunnies.json](./328437-angry-bunnies.json) |
 | Angry Bunnies | 62200 | [62200-angry-bunnies.json](./62200-angry-bunnies.json) |
 | Angry Bunnies: Colossal Carrot Crusade - Heroes | 238190 | [238190-angry-bunnies-colossal-carrot-crusade-heroes.json](./238190-angry-bunnies-colossal-carrot-crusade-heroes.json) |
 | Angry Cat | 212815 | [212815-angry-cat.json](./212815-angry-cat.json) |
@@ -7173,6 +7177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Dragon Spirit | 192950 | [192950-arcade-archives-dragon-spirit.json](./192950-arcade-archives-dragon-spirit.json) |
 | Arcade Archives: Earth Defense Force | 146843 | [146843-arcade-archives-earth-defense-force.json](./146843-arcade-archives-earth-defense-force.json) |
 | Arcade Archives: Emeraldia | 298583 | [298583-arcade-archives-emeraldia.json](./298583-arcade-archives-emeraldia.json) |
+| Arcade Archives: Escape Kids | 328448 | [328448-arcade-archives-escape-kids.json](./328448-arcade-archives-escape-kids.json) |
 | Arcade Archives: Excitebike | 68312 | [68312-arcade-archives-excitebike.json](./68312-arcade-archives-excitebike.json) |
 | Arcade Archives: Face Off | 320909 | [320909-arcade-archives-face-off.json](./320909-arcade-archives-face-off.json) |
 | Arcade Archives: Fantastic Night Dreams Cotton | 323842 | [323842-arcade-archives-fantastic-night-dreams-cotton.json](./323842-arcade-archives-fantastic-night-dreams-cotton.json) |
