@@ -104,6 +104,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-Man | 277401 | [277401-pac-man.json](./277401-pac-man.json) |
 | Pac-Man | 277402 | [277402-pac-man.json](./277402-pac-man.json) |
 | Pac-Man | 277403 | [277403-pac-man.json](./277403-pac-man.json) |
+| Pac-Man | 284303 | [284303-pac-man.json](./284303-pac-man.json) |
+| Pac-Man | 284306 | [284306-pac-man.json](./284306-pac-man.json) |
+| Pac-Man | 284308 | [284308-pac-man.json](./284308-pac-man.json) |
+| Pac-Man | 284309 | [284309-pac-man.json](./284309-pac-man.json) |
+| Pac-Man | 284312 | [284312-pac-man.json](./284312-pac-man.json) |
+| Pac-Man | 284313 | [284313-pac-man.json](./284313-pac-man.json) |
 | Pac-Man | 284317 | [284317-pac-man.json](./284317-pac-man.json) |
 | Pac-Man | 284368 | [284368-pac-man.json](./284368-pac-man.json) |
 | Pac-Man | 284369 | [284369-pac-man.json](./284369-pac-man.json) |
@@ -3756,6 +3762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pico Sonic | 181240 | [181240-pico-sonic.json](./181240-pico-sonic.json) |
 | Pico Tanks | 113584 | [113584-pico-tanks.json](./113584-pico-tanks.json) |
 | Pico Tanks: Multiplayer Mayhem | 130379 | [130379-pico-tanks-multiplayer-mayhem.json](./130379-pico-tanks-multiplayer-mayhem.json) |
+| Pico Tower | 284301 | [284301-pico-tower.json](./284301-pico-tower.json) |
 | Pico vs. Bear | 331683 | [331683-pico-vs-bear.json](./331683-pico-vs-bear.json) |
 | Pico-8 Multicart | 202717 | [202717-pico-8-multicart.json](./202717-pico-8-multicart.json) |
 | Picoban | 243778 | [243778-picoban.json](./243778-picoban.json) |
@@ -3771,6 +3778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PicoQuest: Darkness Rising | 183448 | [183448-picoquest-darkness-rising.json](./183448-picoquest-darkness-rising.json) |
 | Picoracer-2048 | 287324 | [287324-picoracer-2048.json](./287324-picoracer-2048.json) |
 | PicoTrains | 296255 | [296255-picotrains.json](./296255-picotrains.json) |
+| Picovania | 284300 | [284300-picovania.json](./284300-picovania.json) |
 | Picoware | 279711 | [279711-picoware.json](./279711-picoware.json) |
 | Picowars | 184630 | [184630-picowars.json](./184630-picowars.json) |
 | PicPu | 175358 | [175358-picpu.json](./175358-picpu.json) |
@@ -10874,6 +10882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Push IT: Sokoban Puzzle | 232386 | [232386-push-it-sokoban-puzzle.json](./232386-push-it-sokoban-puzzle.json) |
 | Push Pull | 115442 | [115442-push-pull.json](./115442-push-pull.json) |
 | Push Push | 374199 | [374199-push-push.json](./374199-push-push.json) |
+| Push Push Boom | 284291 | [284291-push-push-boom.json](./284291-push-push-boom.json) |
 | Push Push Cat | 234333 | [234333-push-push-cat.json](./234333-push-push-cat.json) |
 | Push Push Penguin | 209600 | [209600-push-push-penguin.json](./209600-push-push-penguin.json) |
 | Push Puzzle: Rescue Adventure | 179205 | [179205-push-puzzle-rescue-adventure.json](./179205-push-puzzle-rescue-adventure.json) |
