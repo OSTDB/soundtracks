@@ -1518,6 +1518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legal Dungeon | 115004 | [115004-legal-dungeon.json](./115004-legal-dungeon.json) |
 | Legal Speed Racing | 90557 | [90557-legal-speed-racing.json](./90557-legal-speed-racing.json) |
 | Legally Distinct, Planetary Based, Suika Game Clone | 292091 | [292091-legally-distinct-planetary-based-suika-game-clone.json](./292091-legally-distinct-planetary-based-suika-game-clone.json) |
+| Legam | 322260 | [322260-legam.json](./322260-legam.json) |
 | Leganda | 188675 | [188675-leganda.json](./188675-leganda.json) |
 | Legasista | 20881 | [20881-legasista.json](./20881-legasista.json) |
 | Legbreaker | 129546 | [129546-legbreaker.json](./129546-legbreaker.json) |
@@ -1920,6 +1921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Hidden Side | 122323 | [122323-lego-hidden-side.json](./122323-lego-hidden-side.json) |
 | LEGO Hill Climb Adventures | 242226 | [242226-lego-hill-climb-adventures.json](./242226-lego-hill-climb-adventures.json) |
 | LEGO Horizon Adventure: Shield Weaver Outfit | 321589 | [321589-lego-horizon-adventure-shield-weaver-outfit.json](./321589-lego-horizon-adventure-shield-weaver-outfit.json) |
+| LEGO Horizon Adventures: Digital Deluxe Edition Content | 322256 | [322256-lego-horizon-adventures-digital-deluxe-edition-content.json](./322256-lego-horizon-adventures-digital-deluxe-edition-content.json) |
 | LEGO Indiana Jones 2: The Adventure Continues | 138 | [138-lego-indiana-jones-2-the-adventure-continues.json](./138-lego-indiana-jones-2-the-adventure-continues.json) |
 | LEGO Indiana Jones Adventures | 235340 | [235340-lego-indiana-jones-adventures.json](./235340-lego-indiana-jones-adventures.json) |
 | LEGO Indiana Jones: The Original Adventures | 189 | [189-lego-indiana-jones-the-original-adventures.json](./189-lego-indiana-jones-the-original-adventures.json) |
@@ -3346,6 +3348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Link: The Unleashed Nexus - Restructured Heaven | 151756 | [151756-link-the-unleashed-nexus-restructured-heaven.json](./151756-link-the-unleashed-nexus-restructured-heaven.json) |
 | Link! Like! Love Live! | 245241 | [245241-link-like-love-live.json](./245241-link-like-love-live.json) |
 | Link's Crossbow Training | 4973 | [4973-links-crossbow-training.json](./4973-links-crossbow-training.json) |
+| Linked | 322034 | [322034-linked.json](./322034-linked.json) |
 | Linked Mask | 120386 | [120386-linked-mask.json](./120386-linked-mask.json) |
 | LinkedOut | 353443 | [353443-linkedout.json](./353443-linkedout.json) |
 | Linkin Hero | 234620 | [234620-linkin-hero.json](./234620-linkin-hero.json) |
