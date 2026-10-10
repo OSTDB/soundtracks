@@ -11636,6 +11636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mummy Maze Deluxe | 62007 | [62007-mummy-maze-deluxe.json](./62007-mummy-maze-deluxe.json) |
 | Mummy Sandbox | 175883 | [175883-mummy-sandbox.json](./175883-mummy-sandbox.json) |
 | Mummy, mummy, mummy! | 165692 | [165692-mummy-mummy-mummy.json](./165692-mummy-mummy-mummy.json) |
+| Mummy: Egyptian Puzzle | 313460 | [313460-mummy-egyptian-puzzle.json](./313460-mummy-egyptian-puzzle.json) |
 | Mummy's Curse | 24852 | [24852-mummys-curse.json](./24852-mummys-curse.json) |
 | Mumu Boukenki Amusing Dream | 264311 | [264311-mumu-boukenki-amusing-dream.json](./264311-mumu-boukenki-amusing-dream.json) |
 | Mumu's Soup Adventure | 250314 | [250314-mumus-soup-adventure.json](./250314-mumus-soup-adventure.json) |
@@ -12601,6 +12602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Lovely Flower | 373659 | [373659-my-lovely-flower.json](./373659-my-lovely-flower.json) |
 | My Lovely Noblewomen | 148339 | [148339-my-lovely-noblewomen.json](./148339-my-lovely-noblewomen.json) |
 | My Lovely Pony | 54224 | [54224-my-lovely-pony.json](./54224-my-lovely-pony.json) |
+| My Lovely Series | 313440 | [313440-my-lovely-series.json](./313440-my-lovely-series.json) |
 | My Lovely Wife | 132573 | [132573-my-lovely-wife.json](./132573-my-lovely-wife.json) |
 | My Lovely Wife: Deluxe Edition | 227184 | [227184-my-lovely-wife-deluxe-edition.json](./227184-my-lovely-wife-deluxe-edition.json) |
 | My Lovey-Dovey Angel Is a Total Deadbeat: Seriously Scary! | 411717 | [411717-my-lovey-dovey-angel-is-a-total-deadbeat-seriously-scary.json](./411717-my-lovey-dovey-angel-is-a-total-deadbeat-seriously-scary.json) |
@@ -13192,6 +13194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Toys: Hidden Objects | 90882 | [90882-mystery-toys-hidden-objects.json](./90882-mystery-toys-hidden-objects.json) |
 | Mystery Trackers: Black Isle - Collector's Edition | 107859 | [107859-mystery-trackers-black-isle-collectors-edition.json](./107859-mystery-trackers-black-isle-collectors-edition.json) |
 | Mystery Trackers: Blackrow's Secret | 201830 | [201830-mystery-trackers-blackrows-secret.json](./201830-mystery-trackers-blackrows-secret.json) |
+| Mystery Trackers: Darkwater Bay | 313461 | [313461-mystery-trackers-darkwater-bay.json](./313461-mystery-trackers-darkwater-bay.json) |
 | Mystery Trackers: Fall of Iron Rock - Collector's Edition | 235489 | [235489-mystery-trackers-fall-of-iron-rock-collectors-edition.json](./235489-mystery-trackers-fall-of-iron-rock-collectors-edition.json) |
 | Mystery Trackers: Fatal Lesson - Collector's Edition | 253417 | [253417-mystery-trackers-fatal-lesson-collectors-edition.json](./253417-mystery-trackers-fatal-lesson-collectors-edition.json) |
 | Mystery Trackers: Forgotten Voices | 187958 | [187958-mystery-trackers-forgotten-voices.json](./187958-mystery-trackers-forgotten-voices.json) |
