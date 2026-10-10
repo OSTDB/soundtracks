@@ -2872,6 +2872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cazzarion: Car Chase | 304267 | [304267-cazzarion-car-chase.json](./304267-cazzarion-car-chase.json) |
 | Cazzarion: Dart Wheel | 296087 | [296087-cazzarion-dart-wheel.json](./296087-cazzarion-dart-wheel.json) |
 | Cazzarion: Drone Attack | 320760 | [320760-cazzarion-drone-attack.json](./320760-cazzarion-drone-attack.json) |
+| Cazzarion: Drone Flight | 317566 | [317566-cazzarion-drone-flight.json](./317566-cazzarion-drone-flight.json) |
 | Cazzarion: Fishing | 335091 | [335091-cazzarion-fishing.json](./335091-cazzarion-fishing.json) |
 | Cazzarion: Ghost Frenzy | 293899 | [293899-cazzarion-ghost-frenzy.json](./293899-cazzarion-ghost-frenzy.json) |
 | Cazzarion: Gunslinger | 294683 | [294683-cazzarion-gunslinger.json](./294683-cazzarion-gunslinger.json) |
@@ -3311,6 +3312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Champions World Class Soccer | 46229 | [46229-champions-world-class-soccer.json](./46229-champions-world-class-soccer.json) |
 | Champions: Return to Arms | 10237 | [10237-champions-return-to-arms.json](./10237-champions-return-to-arms.json) |
 | Championship Bass | 45229 | [45229-championship-bass.json](./45229-championship-bass.json) |
+| Championship Bowling | 317525 | [317525-championship-bowling.json](./317525-championship-bowling.json) |
 | Championship Chess | 56776 | [56776-championship-chess.json](./56776-championship-chess.json) |
 | Championship Hockey | 19772 | [19772-championship-hockey.json](./19772-championship-hockey.json) |
 | Championship Lode Runner | 6091 | [6091-championship-lode-runner.json](./6091-championship-lode-runner.json) |
@@ -4260,6 +4262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Children of Apollo | 55526 | [55526-children-of-apollo.json](./55526-children-of-apollo.json) |
 | Children of Birch | 391213 | [391213-children-of-birch.json](./391213-children-of-birch.json) |
 | Children of Colossus | 30426 | [30426-children-of-colossus.json](./30426-children-of-colossus.json) |
+| Children of Hell | 317507 | [317507-children-of-hell.json](./317507-children-of-hell.json) |
 | Children of Kronos | 376668 | [376668-children-of-kronos.json](./376668-children-of-kronos.json) |
 | Children of Mare | 347344 | [347344-children-of-mare.json](./347344-children-of-mare.json) |
 | Children of Morta: Complete Edition | 175878 | [175878-children-of-morta-complete-edition.json](./175878-children-of-morta-complete-edition.json) |
@@ -5290,6 +5293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CitaDrill | 329383 | [329383-citadrill.json](./329383-citadrill.json) |
 | Citalis | 25713 | [25713-citalis.json](./25713-citalis.json) |
 | Cities Domination | 319764 | [319764-cities-domination.json](./319764-cities-domination.json) |
+| Cities in Motion 2 Complete Edition | 317561 | [317561-cities-in-motion-2-complete-edition.json](./317561-cities-in-motion-2-complete-edition.json) |
 | Cities in Motion 2: Bus Mania | 52734 | [52734-cities-in-motion-2-bus-mania.json](./52734-cities-in-motion-2-bus-mania.json) |
 | Cities in Motion 2: European Cities | 52733 | [52733-cities-in-motion-2-european-cities.json](./52733-cities-in-motion-2-european-cities.json) |
 | Cities in Motion 2: Marvellous Monorails | 52730 | [52730-cities-in-motion-2-marvellous-monorails.json](./52730-cities-in-motion-2-marvellous-monorails.json) |
@@ -12216,6 +12220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyberpunk Detective | 164975 | [164975-cyberpunk-detective.json](./164975-cyberpunk-detective.json) |
 | Cyberpunk Fighting | 190468 | [190468-cyberpunk-fighting.json](./190468-cyberpunk-fighting.json) |
 | Cyberpunk Girls | 190053 | [190053-cyberpunk-girls.json](./190053-cyberpunk-girls.json) |
+| Cyberpunk Hacker | 317565 | [317565-cyberpunk-hacker.json](./317565-cyberpunk-hacker.json) |
 | Cyberpunk Inquisitor | 306065 | [306065-cyberpunk-inquisitor.json](./306065-cyberpunk-inquisitor.json) |
 | Cyberpunk Men for Cyberpunk Sex | 288882 | [288882-cyberpunk-men-for-cyberpunk-sex.json](./288882-cyberpunk-men-for-cyberpunk-sex.json) |
 | Cyberpunk Men for Sex Motel | 288895 | [288895-cyberpunk-men-for-sex-motel.json](./288895-cyberpunk-men-for-sex-motel.json) |
