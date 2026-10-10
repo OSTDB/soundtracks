@@ -5381,6 +5381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digimon Digital Card Battle | 44819 | [44819-digimon-digital-card-battle.json](./44819-digimon-digital-card-battle.json) |
 | Digimon Fortune | 56488 | [56488-digimon-fortune.json](./56488-digimon-fortune.json) |
 | Digimon Fusion Fighters | 327211 | [327211-digimon-fusion-fighters.json](./327211-digimon-fusion-fighters.json) |
+| Digimon Jintrix | 333122 | [333122-digimon-jintrix.json](./333122-digimon-jintrix.json) |
 | Digimon Kari and Gatomon | 203235 | [203235-digimon-kari-and-gatomon.json](./203235-digimon-kari-and-gatomon.json) |
 | Digimon Linkz | 58622 | [58622-digimon-linkz.json](./58622-digimon-linkz.json) |
 | Digimon Masters Online | 25791 | [25791-digimon-masters-online.json](./25791-digimon-masters-online.json) |
@@ -9463,6 +9464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Hacker | 191084 | [191084-dream-hacker.json](./191084-dream-hacker.json) |
 | Dream Hard | 184912 | [184912-dream-hard.json](./184912-dream-hard.json) |
 | Dream Hearts Dream | 212765 | [212765-dream-hearts-dream.json](./212765-dream-hearts-dream.json) |
+| Dream Heights | 333053 | [333053-dream-heights.json](./333053-dream-heights.json) |
 | Dream Hike | 420684 | [420684-dream-hike.json](./420684-dream-hike.json) |
 | Dream Hills: Captured Magic | 74670 | [74670-dream-hills-captured-magic.json](./74670-dream-hills-captured-magic.json) |
 | Dream Hollow | 350416 | [350416-dream-hollow.json](./350416-dream-hollow.json) |
