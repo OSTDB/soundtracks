@@ -700,6 +700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Salvatorem | 298714 | [298714-salvatorem.json](./298714-salvatorem.json) |
 | Salve a Fantasia | 387619 | [387619-salve-a-fantasia.json](./387619-salve-a-fantasia.json) |
 | Salvo | 184497 | [184497-salvo.json](./184497-salvo.json) |
+| Salvo Subs | 316386 | [316386-salvo-subs.json](./316386-salvo-subs.json) |
 | Salvus: Aries | 221278 | [221278-salvus-aries.json](./221278-salvus-aries.json) |
 | Salzburg no Majo: The Witch of Salzburg | 80148 | [80148-salzburg-no-majo-the-witch-of-salzburg.json](./80148-salzburg-no-majo-the-witch-of-salzburg.json) |
 | Sam & MaRU | 158079 | [158079-sam-and-maru.json](./158079-sam-and-maru.json) |
@@ -10548,6 +10549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Colors: Ultimate - Day One Edition | 227941 | [227941-sonic-colors-ultimate-day-one-edition.json](./227941-sonic-colors-ultimate-day-one-edition.json) |
 | Sonic Colors: Ultimate - Digital Deluxe | 169201 | [169201-sonic-colors-ultimate-digital-deluxe.json](./169201-sonic-colors-ultimate-digital-deluxe.json) |
 | Sonic Colors: Ultimate Online Puzzle | 237491 | [237491-sonic-colors-ultimate-online-puzzle.json](./237491-sonic-colors-ultimate-online-puzzle.json) |
+| Sonic Continuity Distortion | 316337 | [316337-sonic-continuity-distortion.json](./316337-sonic-continuity-distortion.json) |
 | Sonic Core | 332596 | [332596-sonic-core.json](./332596-sonic-core.json) |
 | Sonic Darts | 261252 | [261252-sonic-darts.json](./261252-sonic-darts.json) |
 | Sonic Dash | 19506 | [19506-sonic-dash.json](./19506-sonic-dash.json) |
@@ -10571,8 +10573,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Dreams Collection | 11656 | [11656-sonic-dreams-collection.json](./11656-sonic-dreams-collection.json) |
 | Sonic Drift | 45798 | [45798-sonic-drift.json](./45798-sonic-drift.json) |
 | Sonic Drift 16-Bit | 279759 | [279759-sonic-drift-16-bit.json](./279759-sonic-drift-16-bit.json) |
+| Sonic Dungeons: Prototype | 316338 | [316338-sonic-dungeons-prototype.json](./316338-sonic-dungeons-prototype.json) |
 | Sonic Dynamo | 320357 | [320357-sonic-dynamo.json](./320357-sonic-dynamo.json) |
+| Sonic Eclipse | 316339 | [316339-sonic-eclipse.json](./316339-sonic-eclipse.json) |
 | Sonic Elementals | 333959 | [333959-sonic-elementals.json](./333959-sonic-elementals.json) |
+| Sonic Emerald Madness | 316340 | [316340-sonic-emerald-madness.json](./316340-sonic-emerald-madness.json) |
+| Sonic Endless Adventure | 316343 | [316343-sonic-endless-adventure.json](./316343-sonic-endless-adventure.json) |
 | Sonic Epoch | 330789 | [330789-sonic-epoch.json](./330789-sonic-epoch.json) |
 | Sonic Epsilon | 332553 | [332553-sonic-epsilon.json](./332553-sonic-epsilon.json) |
 | Sonic ERaZor | 198564 | [198564-sonic-erazor.json](./198564-sonic-erazor.json) |
@@ -10586,11 +10592,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic FGX | 299995 | [299995-sonic-fgx.json](./299995-sonic-fgx.json) |
 | Sonic FGX 2 | 352169 | [352169-sonic-fgx-2.json](./352169-sonic-fgx-2.json) |
 | Sonic FGX: Ultimate | 326131 | [326131-sonic-fgx-ultimate.json](./326131-sonic-fgx-ultimate.json) |
+| Sonic Fighting Heroes: King of The Ring | 316344 | [316344-sonic-fighting-heroes-king-of-the-ring.json](./316344-sonic-fighting-heroes-king-of-the-ring.json) |
 | Sonic Forces + Super Monkey Ball: Banana Blitz HD Double Pack | 139951 | [139951-sonic-forces-super-monkey-ball-banana-blitz-hd-double-pack.json](./139951-sonic-forces-super-monkey-ball-banana-blitz-hd-double-pack.json) |
 | Sonic Forces Adventure | 317359 | [317359-sonic-forces-adventure.json](./317359-sonic-forces-adventure.json) |
 | Sonic Forces Overclocked | 280749 | [280749-sonic-forces-overclocked.json](./280749-sonic-forces-overclocked.json) |
 | Sonic Forces: Speed Battle | 69392 | [69392-sonic-forces-speed-battle.json](./69392-sonic-forces-speed-battle.json) |
 | Sonic Free Riders: No Kinect Patch | 276926 | [276926-sonic-free-riders-no-kinect-patch.json](./276926-sonic-free-riders-no-kinect-patch.json) |
+| Sonic Freedom Frontiers | 316345 | [316345-sonic-freedom-frontiers.json](./316345-sonic-freedom-frontiers.json) |
 | Sonic Frenzy Adventure | 305283 | [305283-sonic-frenzy-adventure.json](./305283-sonic-frenzy-adventure.json) |
 | Sonic Frontiers | 150010 | [150010-sonic-frontiers.json](./150010-sonic-frontiers.json) |
 | Sonic Frontiers 2D | 336348 | [336348-sonic-frontiers-2d.json](./336348-sonic-frontiers-2d.json) |
@@ -10602,6 +10610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Fusion | 326819 | [326819-sonic-fusion.json](./326819-sonic-fusion.json) |
 | Sonic Gaiden | 305282 | [305282-sonic-gaiden.json](./305282-sonic-gaiden.json) |
 | Sonic Gallery | 330528 | [330528-sonic-gallery.json](./330528-sonic-gallery.json) |
+| Sonic Gamebook Origins | 316346 | [316346-sonic-gamebook-origins.json](./316346-sonic-gamebook-origins.json) |
 | Sonic Gamma | 326135 | [326135-sonic-gamma.json](./326135-sonic-gamma.json) |
 | Sonic Gammon | 261275 | [261275-sonic-gammon.json](./261275-sonic-gammon.json) |
 | Sonic Gather Battle | 227886 | [227886-sonic-gather-battle.json](./227886-sonic-gather-battle.json) |
