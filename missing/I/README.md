@@ -2386,6 +2386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Void | 294868 | [294868-infinite-void.json](./294868-infinite-void.json) |
 | Infinite Void | 311202 | [311202-infinite-void.json](./311202-infinite-void.json) |
 | Infinite White: Hyperbolic Time Chamber Simulator | 273460 | [273460-infinite-white-hyperbolic-time-chamber-simulator.json](./273460-infinite-white-hyperbolic-time-chamber-simulator.json) |
+| Infinite Wii | 313418 | [313418-infinite-wii.json](./313418-infinite-wii.json) |
 | Infinite Word Search Puzzles | 87658 | [87658-infinite-word-search-puzzles.json](./87658-infinite-word-search-puzzles.json) |
 | Infinite World | 102936 | [102936-infinite-world.json](./102936-infinite-world.json) |
 | Infinite Zombie: VIP | 95863 | [95863-infinite-zombie-vip.json](./95863-infinite-zombie-vip.json) |
@@ -2420,6 +2421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinity Blade PC | 342045 | [342045-infinity-blade-pc.json](./342045-infinity-blade-pc.json) |
 | Infinity Blocks | 301612 | [301612-infinity-blocks.json](./301612-infinity-blocks.json) |
 | Infinity Bounce | 412398 | [412398-infinity-bounce.json](./412398-infinity-bounce.json) |
+| Infinity Cave | 313422 | [313422-infinity-cave.json](./313422-infinity-cave.json) |
 | Infinity Conflict | 188406 | [188406-infinity-conflict.json](./188406-infinity-conflict.json) |
 | Infinity Cure | 43965 | [43965-infinity-cure.json](./43965-infinity-cure.json) |
 | Infinity Dive | 181839 | [181839-infinity-dive.json](./181839-infinity-dive.json) |
