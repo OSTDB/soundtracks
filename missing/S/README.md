@@ -4458,6 +4458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shaman King: Spirit of Shamans | 4120 | [4120-shaman-king-spirit-of-shamans.json](./4120-shaman-king-spirit-of-shamans.json) |
 | Shaman Odyssey: Tropic Adventure | 10821 | [10821-shaman-odyssey-tropic-adventure.json](./10821-shaman-odyssey-tropic-adventure.json) |
 | Shaman: Spirithunter | 110281 | [110281-shaman-spirithunter.json](./110281-shaman-spirithunter.json) |
+| Shaman's Mask of the Rune Magic | 296234 | [296234-shamans-mask-of-the-rune-magic.json](./296234-shamans-mask-of-the-rune-magic.json) |
 | Shamania | 310495 | [310495-shamania.json](./310495-shamania.json) |
 | Shambled Spiral | 168112 | [168112-shambled-spiral.json](./168112-shambled-spiral.json) |
 | Shambles | 139259 | [139259-shambles.json](./139259-shambles.json) |
@@ -4610,6 +4611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shardbound | 27747 | [27747-shardbound.json](./27747-shardbound.json) |
 | Shardbreakers | 351254 | [351254-shardbreakers.json](./351254-shardbreakers.json) |
 | Sharded World: Backpack Adventure | 279116 | [279116-sharded-world-backpack-adventure.json](./279116-sharded-world-backpack-adventure.json) |
+| Shardfall: FitQuest VR | 296226 | [296226-shardfall-fitquest-vr.json](./296226-shardfall-fitquest-vr.json) |
 | Shardlight: Special Edition | 51912 | [51912-shardlight-special-edition.json](./51912-shardlight-special-edition.json) |
 | Shardpunk: Verminfall - Rat Pack | 255149 | [255149-shardpunk-verminfall-rat-pack.json](./255149-shardpunk-verminfall-rat-pack.json) |
 | Shards of Azuria | 32164 | [32164-shards-of-azuria.json](./32164-shards-of-azuria.json) |
@@ -15153,6 +15155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: Conquest | 356198 | [356198-star-wars-conquest.json](./356198-star-wars-conquest.json) |
 | Star Wars: Dark Forces | 157 | [157-star-wars-dark-forces.json](./157-star-wars-dark-forces.json) |
 | Star Wars: Dark Forces Remaster | 262973 | [262973-star-wars-dark-forces-remaster.json](./262973-star-wars-dark-forces-remaster.json) |
+| Star Wars: Deathtroopers | 296231 | [296231-star-wars-deathtroopers.json](./296231-star-wars-deathtroopers.json) |
 | Star Wars: Demolition | 143 | [143-star-wars-demolition.json](./143-star-wars-demolition.json) |
 | Star Wars: Droid Repair Bay | 76946 | [76946-star-wars-droid-repair-bay.json](./76946-star-wars-droid-repair-bay.json) |
 | Star Wars: Droids - The Adventures of R2-D2 and C-3PO | 61864 | [61864-star-wars-droids-the-adventures-of-r2-d2-and-c-3po.json](./61864-star-wars-droids-the-adventures-of-r2-d2-and-c-3po.json) |
@@ -15549,6 +15552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starpoint Gemini Warlords - Deadly Dozen | 51896 | [51896-starpoint-gemini-warlords-deadly-dozen.json](./51896-starpoint-gemini-warlords-deadly-dozen.json) |
 | Starpoint Gemini Warlords: Digital Deluxe Edition | 51895 | [51895-starpoint-gemini-warlords-digital-deluxe-edition.json](./51895-starpoint-gemini-warlords-digital-deluxe-edition.json) |
 | Starpoint Gemini Warlords: Endpoint | 124780 | [124780-starpoint-gemini-warlords-endpoint.json](./124780-starpoint-gemini-warlords-endpoint.json) |
+| Starpoly | 296261 | [296261-starpoly.json](./296261-starpoly.json) |
 | Starport: Galactic Empires | 98266 | [98266-starport-galactic-empires.json](./98266-starport-galactic-empires.json) |
 | StarPrey | 143027 | [143027-starprey.json](./143027-starprey.json) |
 | Starpuffs | 272908 | [272908-starpuffs.json](./272908-starpuffs.json) |
@@ -20876,6 +20880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SuperPower 2: Steam Edition | 90586 | [90586-superpower-2-steam-edition.json](./90586-superpower-2-steam-edition.json) |
 | SuperPro Snowboarding | 233525 | [233525-superpro-snowboarding.json](./233525-superpro-snowboarding.json) |
 | SuperQuest | 342636 | [342636-superquest.json](./342636-superquest.json) |
+| Superscout | 296238 | [296238-superscout.json](./296238-superscout.json) |
 | SuperSecret | 163211 | [163211-supersecret.json](./163211-supersecret.json) |
 | Supershot | 339476 | [339476-supershot.json](./339476-supershot.json) |
 | Supershot Golf Robot | 206714 | [206714-supershot-golf-robot.json](./206714-supershot-golf-robot.json) |
