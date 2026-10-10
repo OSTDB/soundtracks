@@ -805,6 +805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kawaii Koneko DS 2 | 68005 | [68005-kawaii-koneko-ds-2.json](./68005-kawaii-koneko-ds-2.json) |
 | Kawaii Koneko DS 3 | 130728 | [130728-kawaii-koneko-ds-3.json](./130728-kawaii-koneko-ds-3.json) |
 | Kawaii Memory | 158138 | [158138-kawaii-memory.json](./158138-kawaii-memory.json) |
+| Kawaii Neko Girls 2 | 319847 | [319847-kawaii-neko-girls-2.json](./319847-kawaii-neko-girls-2.json) |
 | Kawaii Panda | 95673 | [95673-kawaii-panda.json](./95673-kawaii-panda.json) |
 | Kawaii Pet Megu | 315629 | [315629-kawaii-pet-megu.json](./315629-kawaii-pet-megu.json) |
 | Kawaii Pet Shop Monogatari | 228580 | [228580-kawaii-pet-shop-monogatari.json](./228580-kawaii-pet-shop-monogatari.json) |
@@ -2691,6 +2692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knight of Exile | 171421 | [171421-knight-of-exile.json](./171421-knight-of-exile.json) |
 | Knight of Legends | 199986 | [199986-knight-of-legends.json](./199986-knight-of-legends.json) |
 | Knight of Nevermore | 295899 | [295899-knight-of-nevermore.json](./295899-knight-of-nevermore.json) |
+| Knight Of The Earthends | 319835 | [319835-knight-of-the-earthends.json](./319835-knight-of-the-earthends.json) |
 | Knight of the Hamsters | 17939 | [17939-knight-of-the-hamsters.json](./17939-knight-of-the-hamsters.json) |
 | Knight of the Living Dead | 191885 | [191885-knight-of-the-living-dead.json](./191885-knight-of-the-living-dead.json) |
 | Knight of the Lust Temple | 134625 | [134625-knight-of-the-lust-temple.json](./134625-knight-of-the-lust-temple.json) |
