@@ -1204,6 +1204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undertale: Wildfire | 314045 | [314045-undertale-wildfire.json](./314045-undertale-wildfire.json) |
 | UndertaleForFree | 397049 | [397049-undertaleforfree.json](./397049-undertaleforfree.json) |
 | UndertaleNDS | 376724 | [376724-undertalends.json](./376724-undertalends.json) |
+| Undertide | 323401 | [323401-undertide.json](./323401-undertide.json) |
 | Undertoad: Mission Luigi | 225549 | [225549-undertoad-mission-luigi.json](./225549-undertoad-mission-luigi.json) |
 | Undertone | 229350 | [229350-undertone.json](./229350-undertone.json) |
 | Undertones | 104632 | [104632-undertones.json](./104632-undertones.json) |
