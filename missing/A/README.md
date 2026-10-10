@@ -5407,6 +5407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anchor Up | 166050 | [166050-anchor-up.json](./166050-anchor-up.json) |
 | Anchor-13 | 408047 | [408047-anchor-13.json](./408047-anchor-13.json) |
 | Anchored Alone | 408269 | [408269-anchored-alone.json](./408269-anchored-alone.json) |
+| Anchored Hearts: A Tale of Destiny | 291888 | [291888-anchored-hearts-a-tale-of-destiny.json](./291888-anchored-hearts-a-tale-of-destiny.json) |
 | Anchorhead | 138147 | [138147-anchorhead.json](./138147-anchorhead.json) |
 | Anchorhead | 69245 | [69245-anchorhead.json](./69245-anchorhead.json) |
 | Anchors: Blockade Zone | 239900 | [239900-anchors-blockade-zone.json](./239900-anchors-blockade-zone.json) |
