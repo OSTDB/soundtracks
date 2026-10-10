@@ -1256,6 +1256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yumper | 146306 | [146306-yumper.json](./146306-yumper.json) |
 | Yumpgril | 288447 | [288447-yumpgril.json](./288447-yumpgril.json) |
 | Yumpr | 287675 | [287675-yumpr.json](./287675-yumpr.json) |
+| Yumtree | 312815 | [312815-yumtree.json](./312815-yumtree.json) |
 | Yuna and other troubles | 129072 | [129072-yuna-and-other-troubles.json](./129072-yuna-and-other-troubles.json) |
 | Yuna: Sugar hearts and Love | 110967 | [110967-yuna-sugar-hearts-and-love.json](./110967-yuna-sugar-hearts-and-love.json) |
 | Yuna: Sugar Hearts and Love - New Love | 169963 | [169963-yuna-sugar-hearts-and-love-new-love.json](./169963-yuna-sugar-hearts-and-love-new-love.json) |
