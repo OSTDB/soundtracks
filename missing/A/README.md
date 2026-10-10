@@ -1822,6 +1822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adopt A Boyfriend | 332439 | [332439-adopt-a-boyfriend.json](./332439-adopt-a-boyfriend.json) |
 | Adopt Me Please | 410894 | [410894-adopt-me-please.json](./410894-adopt-me-please.json) |
 | Adopted Passion Realize Your Dream | 279849 | [279849-adopted-passion-realize-your-dream.json](./279849-adopted-passion-realize-your-dream.json) |
+| Adora and My Treasure | 301598 | [301598-adora-and-my-treasure.json](./301598-adora-and-my-treasure.json) |
 | Adorable Garden | 352865 | [352865-adorable-garden.json](./352865-adorable-garden.json) |
 | Adorable Witch | 150585 | [150585-adorable-witch.json](./150585-adorable-witch.json) |
 | Adorable Witch 5: Lingering | 235850 | [235850-adorable-witch-5-lingering.json](./235850-adorable-witch-5-lingering.json) |
@@ -10243,6 +10244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aura Kingdom: Impact | 353913 | [353913-aura-kingdom-impact.json](./353913-aura-kingdom-impact.json) |
 | Aura of Worlds | 55866 | [55866-aura-of-worlds.json](./55866-aura-of-worlds.json) |
 | Aura: Fate of the Ages | 9776 | [9776-aura-fate-of-the-ages.json](./9776-aura-fate-of-the-ages.json) |
+| Aura: Hentai Cards - Horny Madness | 301641 | [301641-aura-hentai-cards-horny-madness.json](./301641-aura-hentai-cards-horny-madness.json) |
 | Auraboros | 181358 | [181358-auraboros.json](./181358-auraboros.json) |
 | Aurail | 39618 | [39618-aurail.json](./39618-aurail.json) |
 | Aural to Hikari no Ryuu: Gathering Light | 327602 | [327602-aural-to-hikari-no-ryuu-gathering-light.json](./327602-aural-to-hikari-no-ryuu-gathering-light.json) |
