@@ -3379,6 +3379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Senran Kagura: New Link | 54520 | [54520-senran-kagura-new-link.json](./54520-senran-kagura-new-link.json) |
 | Senran Kagura: Peach and Reflexions Limited Double Pack | 136928 | [136928-senran-kagura-peach-and-reflexions-limited-double-pack.json](./136928-senran-kagura-peach-and-reflexions-limited-double-pack.json) |
 | Senran Kagura: Peach Beach Splash - No Shirt, No Shoes, All Service Edition | 136217 | [136217-senran-kagura-peach-beach-splash-no-shirt-no-shoes-all-service-edition.json](./136217-senran-kagura-peach-beach-splash-no-shirt-no-shoes-all-service-edition.json) |
+| Senran Kagura: Peach Beach Splash - Sexy Soaker Edition | 300524 | [300524-senran-kagura-peach-beach-splash-sexy-soaker-edition.json](./300524-senran-kagura-peach-beach-splash-sexy-soaker-edition.json) |
 | Senran Meisuishu Tactics | 83548 | [83548-senran-meisuishu-tactics.json](./83548-senran-meisuishu-tactics.json) |
 | Senran Nin Nin Ninja Taisen Neptune: Shoujo-tachi no Kyouen - Nep-Nep Shinobi Moe Box | 146338 | [146338-senran-nin-nin-ninja-taisen-neptune-shoujo-tachi-no-kyouen-nep-nep-shinobi-moe-box.json](./146338-senran-nin-nin-ninja-taisen-neptune-shoujo-tachi-no-kyouen-nep-nep-shinobi-moe-box.json) |
 | Sensations | 252733 | [252733-sensations.json](./252733-sensations.json) |
@@ -7312,6 +7313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skatebound | 400494 | [400494-skatebound.json](./400494-skatebound.json) |
 | Skatebug | 413101 | [413101-skatebug.json](./413101-skatebug.json) |
 | Skategirl Destroys the Universe | 147275 | [147275-skategirl-destroys-the-universe.json](./147275-skategirl-destroys-the-universe.json) |
+| SkateLab | 300463 | [300463-skatelab.json](./300463-skatelab.json) |
 | Skatelander | 345149 | [345149-skatelander.json](./345149-skatelander.json) |
 | Skatemasta Tcheco | 118401 | [118401-skatemasta-tcheco.json](./118401-skatemasta-tcheco.json) |
 | SkateNationXL | 272579 | [272579-skatenationxl.json](./272579-skatenationxl.json) |
@@ -7696,6 +7698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Love Girls: Flight Attendant Crush | 370797 | [370797-sky-love-girls-flight-attendant-crush.json](./370797-sky-love-girls-flight-attendant-crush.json) |
 | Sky Mad | 310184 | [310184-sky-mad.json](./310184-sky-mad.json) |
 | Sky Madness | 54367 | [54367-sky-madness.json](./54367-sky-madness.json) |
+| Sky Marksman | 300468 | [300468-sky-marksman.json](./300468-sky-marksman.json) |
 | Sky Mates | 386888 | [386888-sky-mates.json](./386888-sky-mates.json) |
 | Sky Maze 3D | 51203 | [51203-sky-maze-3d.json](./51203-sky-maze-3d.json) |
 | Sky Meadow | 399788 | [399788-sky-meadow.json](./399788-sky-meadow.json) |
@@ -9177,6 +9180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snarl | 396583 | [396583-snarl.json](./396583-snarl.json) |
 | Snatch Squad | 365686 | [365686-snatch-squad.json](./365686-snatch-squad.json) |
 | Snatched | 395585 | [395585-snatched.json](./395585-snatched.json) |
+| Snatched! | 300471 | [300471-snatched.json](./300471-snatched.json) |
 | Snatcher | 197937 | [197937-snatcher.json](./197937-snatcher.json) |
 | Snatcher | 345624 | [345624-snatcher.json](./345624-snatcher.json) |
 | Snave | 296000 | [296000-snave.json](./296000-snave.json) |
@@ -10712,6 +10716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Hearts | 261273 | [261273-sonic-hearts.json](./261273-sonic-hearts.json) |
 | Sonic Heroes | 4156 | [4156-sonic-heroes.json](./4156-sonic-heroes.json) |
 | Sonic Heroes Chao | 331379 | [331379-sonic-heroes-chao.json](./331379-sonic-heroes-chao.json) |
+| Sonic Heroes Competition | 300517 | [300517-sonic-heroes-competition.json](./300517-sonic-heroes-competition.json) |
 | Sonic Heroes Puzzle | 273988 | [273988-sonic-heroes-puzzle.json](./273988-sonic-heroes-puzzle.json) |
 | Sonic Hexacide | 136388 | [136388-sonic-hexacide.json](./136388-sonic-hexacide.json) |
 | Sonic Hopping | 261271 | [261271-sonic-hopping.json](./261271-sonic-hopping.json) |
@@ -13656,6 +13661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Splash of Color | 393631 | [393631-splash-of-color.json](./393631-splash-of-color.json) |
 | Splash Ship | 214176 | [214176-splash-ship.json](./214176-splash-ship.json) |
 | Splash Wars | 113676 | [113676-splash-wars.json](./113676-splash-wars.json) |
+| Splash: O Bichinho Virtual | 300533 | [300533-splash-o-bichinho-virtual.json](./300533-splash-o-bichinho-virtual.json) |
 | Splash: Ocean Sanctuary | 122902 | [122902-splash-ocean-sanctuary.json](./122902-splash-ocean-sanctuary.json) |
 | Splashdown | 6149 | [6149-splashdown.json](./6149-splashdown.json) |
 | Splashdown: Rides Gone Wild | 6150 | [6150-splashdown-rides-gone-wild.json](./6150-splashdown-rides-gone-wild.json) |
@@ -18298,6 +18304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suika Animal Kingdom | 322066 | [322066-suika-animal-kingdom.json](./322066-suika-animal-kingdom.json) |
 | Suika Dish More Plates | 276166 | [276166-suika-dish-more-plates.json](./276166-suika-dish-more-plates.json) |
 | Suika Game | 221740 | [221740-suika-game.json](./221740-suika-game.json) |
+| Suika Game But Bouncy | 300536 | [300536-suika-game-but-bouncy.json](./300536-suika-game-but-bouncy.json) |
 | Suika Game Planet | 366891 | [366891-suika-game-planet.json](./366891-suika-game-planet.json) |
 | Suika Game: Multi-Player Mode Expansion Pack | 287855 | [287855-suika-game-multi-player-mode-expansion-pack.json](./287855-suika-game-multi-player-mode-expansion-pack.json) |
 | Suika Jelly Game | 310174 | [310174-suika-jelly-game.json](./310174-suika-jelly-game.json) |
@@ -19864,6 +19871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Maze Labyrinth | 159765 | [159765-super-maze-labyrinth.json](./159765-super-maze-labyrinth.json) |
 | Super Maze Wars | 66647 | [66647-super-maze-wars.json](./66647-super-maze-wars.json) |
 | Super Me-Mail GB: Me-Mail Bear no Happy Mail Town | 282662 | [282662-super-me-mail-gb-me-mail-bear-no-happy-mail-town.json](./282662-super-me-mail-gb-me-mail-bear-no-happy-mail-town.json) |
+| Super Meat Boy | 300461 | [300461-super-meat-boy.json](./300461-super-meat-boy.json) |
 | Super Meat Boy Handheld! | 77317 | [77317-super-meat-boy-handheld.json](./77317-super-meat-boy-handheld.json) |
 | Super Meat Boy: Collector's Edition | 333140 | [333140-super-meat-boy-collectors-edition.json](./333140-super-meat-boy-collectors-edition.json) |
 | Super Meat Boy: The Game | 77316 | [77316-super-meat-boy-the-game.json](./77316-super-meat-boy-the-game.json) |
