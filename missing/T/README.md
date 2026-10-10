@@ -1362,6 +1362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tanks But No Tanks | 40724 | [40724-tanks-but-no-tanks.json](./40724-tanks-but-no-tanks.json) |
 | Tanks Defense | 298013 | [298013-tanks-defense.json](./298013-tanks-defense.json) |
 | Tanks Endeavor | 117073 | [117073-tanks-endeavor.json](./117073-tanks-endeavor.json) |
+| Tanks Etc. | 285934 | [285934-tanks-etc.json](./285934-tanks-etc.json) |
 | Tanks for the Memories | 65264 | [65264-tanks-for-the-memories.json](./65264-tanks-for-the-memories.json) |
 | Tanks Logic Puzzle | 339418 | [339418-tanks-logic-puzzle.json](./339418-tanks-logic-puzzle.json) |
 | Tanks Meet Zombies | 81672 | [81672-tanks-meet-zombies.json](./81672-tanks-meet-zombies.json) |
@@ -11499,6 +11500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Unwelcomed | 32144 | [32144-the-unwelcomed.json](./32144-the-unwelcomed.json) |
 | The Unworthy | 414862 | [414862-the-unworthy.json](./414862-the-unworthy.json) |
 | The Unwoven Unicorn | 410367 | [410367-the-unwoven-unicorn.json](./410367-the-unwoven-unicorn.json) |
+| The Upper Downer Complex | 285903 | [285903-the-upper-downer-complex.json](./285903-the-upper-downer-complex.json) |
 | The Ur-Quan Masters | 46575 | [46575-the-ur-quan-masters.json](./46575-the-ur-quan-masters.json) |
 | The Urbz: Sims in the City | 2158 | [2158-the-urbz-sims-in-the-city.json](./2158-the-urbz-sims-in-the-city.json) |
 | The Urinal Game | 60050 | [60050-the-urinal-game.json](./60050-the-urinal-game.json) |
@@ -11596,6 +11598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Void | 357725 | [357725-the-void.json](./357725-the-void.json) |
 | The Void Below | 333167 | [333167-the-void-below.json](./333167-the-void-below.json) |
 | The Void Between | 282022 | [282022-the-void-between.json](./282022-the-void-between.json) |
+| The Void Chronicles: One's Desolation | 285908 | [285908-the-void-chronicles-ones-desolation.json](./285908-the-void-chronicles-ones-desolation.json) |
 | The Void Corridors | 337123 | [337123-the-void-corridors.json](./337123-the-void-corridors.json) |
 | The Void Rolls Back | 256785 | [256785-the-void-rolls-back.json](./256785-the-void-rolls-back.json) |
 | The Volcano | 125463 | [125463-the-volcano.json](./125463-the-volcano.json) |
