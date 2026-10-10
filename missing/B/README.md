@@ -786,6 +786,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balatro Multiplayer Mod | 346539 | [346539-balatro-multiplayer-mod.json](./346539-balatro-multiplayer-mod.json) |
 | Balatro: Cryptid | 331968 | [331968-balatro-cryptid.json](./331968-balatro-cryptid.json) |
 | Balatro: Friends of Jimbo | 314927 | [314927-balatro-friends-of-jimbo.json](./314927-balatro-friends-of-jimbo.json) |
+| Balatro: Friends of Jimbo 2 | 333054 | [333054-balatro-friends-of-jimbo-2.json](./333054-balatro-friends-of-jimbo-2.json) |
+| Balatro: Friends of Jimbo 3 | 333055 | [333055-balatro-friends-of-jimbo-3.json](./333055-balatro-friends-of-jimbo-3.json) |
+| Balatro: Friends of Jimbo 4 | 333046 | [333046-balatro-friends-of-jimbo-4.json](./333046-balatro-friends-of-jimbo-4.json) |
 | Balatro: Special Edition | 323893 | [323893-balatro-special-edition.json](./323893-balatro-special-edition.json) |
 | Balavour | 345986 | [345986-balavour.json](./345986-balavour.json) |
 | Balconing Simulator 2020 | 127988 | [127988-balconing-simulator-2020.json](./127988-balconing-simulator-2020.json) |
@@ -8855,6 +8858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brave x Junction | 342093 | [342093-brave-x-junction.json](./342093-brave-x-junction.json) |
 | Brave: A Warrior's Tale | 4729 | [4729-brave-a-warriors-tale.json](./4729-brave-a-warriors-tale.json) |
 | Brave: The Search for Spirit Dancer | 20689 | [20689-brave-the-search-for-spirit-dancer.json](./20689-brave-the-search-for-spirit-dancer.json) |
+| Braveboy | 333036 | [333036-braveboy.json](./333036-braveboy.json) |
 | BraveCart | 347864 | [347864-bravecart.json](./347864-bravecart.json) |
 | Braveland | 8999 | [8999-braveland.json](./8999-braveland.json) |
 | Braveland Heroes | 110344 | [110344-braveland-heroes.json](./110344-braveland-heroes.json) |
@@ -9770,6 +9774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Ball! | 276240 | [276240-bubble-ball.json](./276240-bubble-ball.json) |
 | Bubble Bath Babes | 48677 | [48677-bubble-bath-babes.json](./48677-bubble-bath-babes.json) |
 | Bubble Battle | 333378 | [333378-bubble-battle.json](./333378-bubble-battle.json) |
+| Bubble Battle Blast 3D | 333051 | [333051-bubble-battle-blast-3d.json](./333051-bubble-battle-blast-3d.json) |
 | Bubble Bird | 250395 | [250395-bubble-bird.json](./250395-bubble-bird.json) |
 | Bubble Blast | 304262 | [304262-bubble-blast.json](./304262-bubble-blast.json) |
 | Bubble Blobb | 386703 | [386703-bubble-blobb.json](./386703-bubble-blobb.json) |
