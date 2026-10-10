@@ -7779,6 +7779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Portable Ops | 226174 | [226174-portable-ops.json](./226174-portable-ops.json) |
 | Portable VR | 244232 | [244232-portable-vr.json](./244232-portable-vr.json) |
 | Portal | 14546 | [14546-portal.json](./14546-portal.json) |
+| Portal 2: Alive Again | 322239 | [322239-portal-2-alive-again.json](./322239-portal-2-alive-again.json) |
 | Portal 2: And the Abyss Gazes Back Part 1 | 183424 | [183424-portal-2-and-the-abyss-gazes-back-part-1.json](./183424-portal-2-and-the-abyss-gazes-back-part-1.json) |
 | Portal 2: Community Edition | 169962 | [169962-portal-2-community-edition.json](./169962-portal-2-community-edition.json) |
 | Portal 2: Google Translate Edition | 313481 | [313481-portal-2-google-translate-edition.json](./313481-portal-2-google-translate-edition.json) |
@@ -10726,6 +10727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Put One In for Johnny Minn | 366710 | [366710-put-one-in-for-johnny-minn.json](./366710-put-one-in-for-johnny-minn.json) |
 | Put Out the Fire | 366882 | [366882-put-out-the-fire.json](./366882-put-out-the-fire.json) |
 | Put the Fries in the Bag | 335692 | [335692-put-the-fries-in-the-bag.json](./335692-put-the-fries-in-the-bag.json) |
+| Put the Sausage in the Bun | 322281 | [322281-put-the-sausage-in-the-bun.json](./322281-put-the-sausage-in-the-bun.json) |
 | Put Up Your Dukes! | 262562 | [262562-put-up-your-dukes.json](./262562-put-up-your-dukes.json) |
 | Put Your Brain on 2 | 234150 | [234150-put-your-brain-on-2.json](./234150-put-your-brain-on-2.json) |
 | Put Your Stamp On | 226434 | [226434-put-your-stamp-on.json](./226434-put-your-stamp-on.json) |
@@ -10996,6 +10998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Piecer: The Sky Above | 349422 | [349422-puzzle-piecer-the-sky-above.json](./349422-puzzle-piecer-the-sky-above.json) |
 | Puzzle Piecer: The World Below | 330806 | [330806-puzzle-piecer-the-world-below.json](./330806-puzzle-piecer-the-world-below.json) |
 | Puzzle Pirates: Dark Seas | 59866 | [59866-puzzle-pirates-dark-seas.json](./59866-puzzle-pirates-dark-seas.json) |
+| Puzzle Player | 322038 | [322038-puzzle-player.json](./322038-puzzle-player.json) |
 | Puzzle Playground | 308502 | [308502-puzzle-playground.json](./308502-puzzle-playground.json) |
 | Puzzle Pleasant | 384070 | [384070-puzzle-pleasant.json](./384070-puzzle-pleasant.json) |
 | Puzzle Plunder | 110505 | [110505-puzzle-plunder.json](./110505-puzzle-plunder.json) |
