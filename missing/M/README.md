@@ -4542,6 +4542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Force | 22433 | [22433-mega-force.json](./22433-mega-force.json) |
 | Mega Force | 6139 | [6139-mega-force.json](./6139-mega-force.json) |
 | Mega Game Room 2 | 209531 | [209531-mega-game-room-2.json](./209531-mega-game-room-2.json) |
+| Mega Giga Cookie Destroyer TD | 304856 | [304856-mega-giga-cookie-destroyer-td.json](./304856-mega-giga-cookie-destroyer-td.json) |
 | Mega Hasan | 128343 | [128343-mega-hasan.json](./128343-mega-hasan.json) |
 | Mega Knight | 288367 | [288367-mega-knight.json](./288367-mega-knight.json) |
 | Mega Knockdown: Supporter Colors | 340560 | [340560-mega-knockdown-supporter-colors.json](./340560-mega-knockdown-supporter-colors.json) |
