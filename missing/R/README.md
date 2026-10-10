@@ -7295,6 +7295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ruka | 176899 | [176899-ruka.json](./176899-ruka.json) |
 | Ruki no Zetsubo | 151798 | [151798-ruki-no-zetsubo.json](./151798-ruki-no-zetsubo.json) |
 | Ruku's Heart Balloon | 222400 | [222400-rukus-heart-balloon.json](./222400-rukus-heart-balloon.json) |
+| Rule & Expand | 316370 | [316370-rule-and-expand.json](./316370-rule-and-expand.json) |
 | Rule No. 2 | 199562 | [199562-rule-no-2.json](./199562-rule-no-2.json) |
 | Rule of Rose | 7415 | [7415-rule-of-rose.json](./7415-rule-of-rose.json) |
 | Rule The Beach Volleyball | 324832 | [324832-rule-the-beach-volleyball.json](./324832-rule-the-beach-volleyball.json) |
