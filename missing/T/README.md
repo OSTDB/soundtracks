@@ -9747,6 +9747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Royal Office of Magick Affairs | 315654 | [315654-the-royal-office-of-magick-affairs.json](./315654-the-royal-office-of-magick-affairs.json) |
 | The Royal Rebel Casino | 369365 | [369365-the-royal-rebel-casino.json](./369365-the-royal-rebel-casino.json) |
 | The Rub Rabbits! | 20488 | [20488-the-rub-rabbits.json](./20488-the-rub-rabbits.json) |
+| The Ruby Court | 298436 | [298436-the-ruby-court.json](./298436-the-ruby-court.json) |
 | The Rugrats Movie | 198879 | [198879-the-rugrats-movie.json](./198879-the-rugrats-movie.json) |
 | The Rugrats Movie | 2790 | [2790-the-rugrats-movie.json](./2790-the-rugrats-movie.json) |
 | The Ruin Wanderer | 350470 | [350470-the-ruin-wanderer.json](./350470-the-ruin-wanderer.json) |
@@ -9842,6 +9843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Scream | 119552 | [119552-the-scream.json](./119552-the-scream.json) |
 | The Screen | 369116 | [369116-the-screen.json](./369116-the-screen.json) |
 | The Scroll of Akbar Khan | 232553 | [232553-the-scroll-of-akbar-khan.json](./232553-the-scroll-of-akbar-khan.json) |
+| The Scroll of Black Loong | 298422 | [298422-the-scroll-of-black-loong.json](./298422-the-scroll-of-black-loong.json) |
 | The Scruffs | 73776 | [73776-the-scruffs.json](./73776-the-scruffs.json) |
 | The Scrungeon Depths | 74471 | [74471-the-scrungeon-depths.json](./74471-the-scrungeon-depths.json) |
 | The Sea Has No Claim | 185646 | [185646-the-sea-has-no-claim.json](./185646-the-sea-has-no-claim.json) |
@@ -12161,6 +12163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | There Is No Light 616 | 180203 | [180203-there-is-no-light-616.json](./180203-there-is-no-light-616.json) |
 | There Is No Next Stop | 391879 | [391879-there-is-no-next-stop.json](./391879-there-is-no-next-stop.json) |
 | There is No Pause Button! | 69374 | [69374-there-is-no-pause-button.json](./69374-there-is-no-pause-button.json) |
+| There is No Plan B | 298390 | [298390-there-is-no-plan-b.json](./298390-there-is-no-plan-b.json) |
 | There Is No Turning Back! | 111004 | [111004-there-is-no-turning-back.json](./111004-there-is-no-turning-back.json) |
 | There Is Nothing Here | 179174 | [179174-there-is-nothing-here.json](./179174-there-is-nothing-here.json) |
 | There is nothing here. | 176789 | [176789-there-is-nothing-here.json](./176789-there-is-nothing-here.json) |
@@ -19516,6 +19519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Truth or Dare | 91133 | [91133-truth-or-dare.json](./91133-truth-or-dare.json) |
 | Truth or Dare Party | 86909 | [86909-truth-or-dare-party.json](./86909-truth-or-dare-party.json) |
 | Truth or Lies | 25217 | [25217-truth-or-lies.json](./25217-truth-or-lies.json) |
+| Truth Seekers | 298423 | [298423-truth-seekers.json](./298423-truth-seekers.json) |
 | Truth Universally Acknowledged | 296370 | [296370-truth-universally-acknowledged.json](./296370-truth-universally-acknowledged.json) |
 | Truth: Disorder II | 98985 | [98985-truth-disorder-ii.json](./98985-truth-disorder-ii.json) |
 | Truth: Disorder III - Gemini | 116786 | [116786-truth-disorder-iii-gemini.json](./116786-truth-disorder-iii-gemini.json) |
@@ -20352,6 +20356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Two Eyes | 175271 | [175271-two-eyes.json](./175271-two-eyes.json) |
 | Two Eyes: Nonogram | 292820 | [292820-two-eyes-nonogram.json](./292820-two-eyes-nonogram.json) |
 | Two Faced | 300719 | [300719-two-faced.json](./300719-two-faced.json) |
+| Two Fates | 298431 | [298431-two-fates.json](./298431-two-fates.json) |
 | Two For One | 118299 | [118299-two-for-one.json](./118299-two-for-one.json) |
 | Two Girls Make a Game | 178536 | [178536-two-girls-make-a-game.json](./178536-two-girls-make-a-game.json) |
 | Two girls punch me repeatedly | 162746 | [162746-two-girls-punch-me-repeatedly.json](./162746-two-girls-punch-me-repeatedly.json) |
