@@ -205,6 +205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jaderaze Inferno | 412465 | [412465-jaderaze-inferno.json](./412465-jaderaze-inferno.json) |
 | Jadoraki | 238574 | [238574-jadoraki.json](./238574-jadoraki.json) |
 | Jagan: Evil Eye | 97991 | [97991-jagan-evil-eye.json](./97991-jagan-evil-eye.json) |
+| Jägermörder 1: Chemical Lab | 310622 | [310622-jagermorder-1-chemical-lab.json](./310622-jagermorder-1-chemical-lab.json) |
 | Jägermörder 2: Terra Nova | 262426 | [262426-jagermorder-2-terra-nova.json](./262426-jagermorder-2-terra-nova.json) |
 | Jagged Alliance | 7 | [7-jagged-alliance.json](./7-jagged-alliance.json) |
 | Jagged Alliance 2 Platinum | 53252 | [53252-jagged-alliance-2-platinum.json](./53252-jagged-alliance-2-platinum.json) |
@@ -275,6 +276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jaleco Arcade 1 | 214534 | [214534-jaleco-arcade-1.json](./214534-jaleco-arcade-1.json) |
 | Jaleco Sports: Bases Loaded | 338551 | [338551-jaleco-sports-bases-loaded.json](./338551-jaleco-sports-bases-loaded.json) |
 | Jalecolle Famicom Ver. Bio Warrior Dan: The Increaser War | 317557 | [317557-jalecolle-famicom-ver-bio-warrior-dan-the-increaser-war.json](./317557-jalecolle-famicom-ver-bio-warrior-dan-the-increaser-war.json) |
+| Jalecolle Famicom Ver. Pinball Quest | 310488 | [310488-jalecolle-famicom-ver-pinball-quest.json](./310488-jalecolle-famicom-ver-pinball-quest.json) |
 | Jalecolle Famicom Ver. Pizza Pop! | 328517 | [328517-jalecolle-famicom-ver-pizza-pop.json](./328517-jalecolle-famicom-ver-pizza-pop.json) |
 | Jalecolle Famicom Ver. Rod Land | 411740 | [411740-jalecolle-famicom-ver-rod-land.json](./411740-jalecolle-famicom-ver-rod-land.json) |
 | Jalecolle Famicom Ver. Saiyuuki World | 328518 | [328518-jalecolle-famicom-ver-saiyuuki-world.json](./328518-jalecolle-famicom-ver-saiyuuki-world.json) |
