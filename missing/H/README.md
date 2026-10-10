@@ -5036,6 +5036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hitstream | 268454 | [268454-hitstream.json](./268454-hitstream.json) |
 | Hitsuji no Hakobune | 408308 | [408308-hitsuji-no-hakobune.json](./408308-hitsuji-no-hakobune.json) |
 | Hitting Mices | 212730 | [212730-hitting-mices.json](./212730-hitting-mices.json) |
+| HitTube | 323426 | [323426-hittube.json](./323426-hittube.json) |
 | Hituzibuster | 229371 | [229371-hituzibuster.json](./229371-hituzibuster.json) |
 | Hivaneph: The Legend of Elles | 335372 | [335372-hivaneph-the-legend-of-elles.json](./335372-hivaneph-the-legend-of-elles.json) |
 | Hive | 172032 | [172032-hive.json](./172032-hive.json) |
