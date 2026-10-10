@@ -889,6 +889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Colony | 299782 | [299782-idle-colony.json](./299782-idle-colony.json) |
 | Idle Colors | 402893 | [402893-idle-colors.json](./402893-idle-colors.json) |
 | Idle Command: Supply Frontline | 320465 | [320465-idle-command-supply-frontline.json](./320465-idle-command-supply-frontline.json) |
+| Idle Construction 3D | 294046 | [294046-idle-construction-3d.json](./294046-idle-construction-3d.json) |
 | Idle Cooking Emperor | 117480 | [117480-idle-cooking-emperor.json](./117480-idle-cooking-emperor.json) |
 | Idle Craft | 333081 | [333081-idle-craft.json](./333081-idle-craft.json) |
 | Idle Crypto Capitalist | 262924 | [262924-idle-crypto-capitalist.json](./262924-idle-crypto-capitalist.json) |
@@ -984,6 +985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Moon Rabbit: AFK RPG | 204487 | [204487-idle-moon-rabbit-afk-rpg.json](./204487-idle-moon-rabbit-afk-rpg.json) |
 | Idle Muscle Up | 389714 | [389714-idle-muscle-up.json](./389714-idle-muscle-up.json) |
 | Idle Mythical Beasts | 387327 | [387327-idle-mythical-beasts.json](./387327-idle-mythical-beasts.json) |
+| Idle Nine Heavens | 294072 | [294072-idle-nine-heavens.json](./294072-idle-nine-heavens.json) |
 | Idle Ocean Cleaner Eco Tycoon | 247211 | [247211-idle-ocean-cleaner-eco-tycoon.json](./247211-idle-ocean-cleaner-eco-tycoon.json) |
 | Idle of the Dead | 413772 | [413772-idle-of-the-dead.json](./413772-idle-of-the-dead.json) |
 | Idle Offworld Foundry | 410399 | [410399-idle-offworld-foundry.json](./410399-idle-offworld-foundry.json) |
