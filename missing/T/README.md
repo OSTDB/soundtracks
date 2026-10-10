@@ -6406,6 +6406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Guardian | 149495 | [149495-the-guardian.json](./149495-the-guardian.json) |
 | The Guardian and the Dreamer | 318801 | [318801-the-guardian-and-the-dreamer.json](./318801-the-guardian-and-the-dreamer.json) |
 | The Guardian Legend: Secret Edition | 269778 | [269778-the-guardian-legend-secret-edition.json](./269778-the-guardian-legend-secret-edition.json) |
+| The Guardian Shift | 313446 | [313446-the-guardian-shift.json](./313446-the-guardian-shift.json) |
 | The Guardians of the Secret Garden | 349305 | [349305-the-guardians-of-the-secret-garden.json](./349305-the-guardians-of-the-secret-garden.json) |
 | The Guest: Home Alone | 394171 | [394171-the-guest-home-alone.json](./394171-the-guest-home-alone.json) |
 | The Guestlist | 244381 | [244381-the-guestlist.json](./244381-the-guestlist.json) |
@@ -12581,6 +12582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Three's A Crowd | 256841 | [256841-threes-a-crowd.json](./256841-threes-a-crowd.json) |
 | Threefold Recital | 327486 | [327486-threefold-recital.json](./327486-threefold-recital.json) |
 | ThreeStep | 120962 | [120962-threestep.json](./120962-threestep.json) |
+| Thregnar and the Crystals of Chaos | 313431 | [313431-thregnar-and-the-crystals-of-chaos.json](./313431-thregnar-and-the-crystals-of-chaos.json) |
 | Threshold | 202336 | [202336-threshold.json](./202336-threshold.json) |
 | Threshold | 288609 | [288609-threshold.json](./288609-threshold.json) |
 | Threshold of Awakening | 272575 | [272575-threshold-of-awakening.json](./272575-threshold-of-awakening.json) |
