@@ -1617,6 +1617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | David Robinson's Supreme Court | 46533 | [46533-david-robinsons-supreme-court.json](./46533-david-robinsons-supreme-court.json) |
 | David: Dawn of a King | 335480 | [335480-david-dawn-of-a-king.json](./335480-david-dawn-of-a-king.json) |
 | Davidic Matchup | 84178 | [84178-davidic-matchup.json](./84178-davidic-matchup.json) |
+| Davie's Quest and The Magic Dress | 322852 | [322852-davies-quest-and-the-magic-dress.json](./322852-davies-quest-and-the-magic-dress.json) |
 | Davigo | 121403 | [121403-davigo.json](./121403-davigo.json) |
 | Davis Cup | 172597 | [172597-davis-cup.json](./172597-davis-cup.json) |
 | Davis Haunted House | 340942 | [340942-davis-haunted-house.json](./340942-davis-haunted-house.json) |
@@ -9230,6 +9231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drakefall | 345052 | [345052-drakefall.json](./345052-drakefall.json) |
 | Drakeling Labs | 90130 | [90130-drakeling-labs.json](./90130-drakeling-labs.json) |
 | Draken's Shrine | 257918 | [257918-drakens-shrine.json](./257918-drakens-shrine.json) |
+| Drakengard | 322841 | [322841-drakengard.json](./322841-drakengard.json) |
 | Drakengard 2 | 11663 | [11663-drakengard-2.json](./11663-drakengard-2.json) |
 | Drakengard 3: Beautiful Child | 378983 | [378983-drakengard-3-beautiful-child.json](./378983-drakengard-3-beautiful-child.json) |
 | Drakengard 3: Caim's Garb | 378984 | [378984-drakengard-3-caims-garb.json](./378984-drakengard-3-caims-garb.json) |
@@ -10739,6 +10741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Create | 265139 | [265139-dungeon-create.json](./265139-dungeon-create.json) |
 | Dungeon Cross | 221251 | [221251-dungeon-cross.json](./221251-dungeon-cross.json) |
 | Dungeon Crusher: Soul Hunters | 142999 | [142999-dungeon-crusher-soul-hunters.json](./142999-dungeon-crusher-soul-hunters.json) |
+| Dungeon Crystal | 322851 | [322851-dungeon-crystal.json](./322851-dungeon-crystal.json) |
 | Dungeon Dad | 191832 | [191832-dungeon-dad.json](./191832-dungeon-dad.json) |
 | Dungeon Dan | 156028 | [156028-dungeon-dan.json](./156028-dungeon-dan.json) |
 | Dungeon Danger Traps 2 | 372543 | [372543-dungeon-danger-traps-2.json](./372543-dungeon-danger-traps-2.json) |
