@@ -129,6 +129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yamasen-Chan's Hermit Home Designer | 142336 | [142336-yamasen-chans-hermit-home-designer.json](./142336-yamasen-chans-hermit-home-designer.json) |
 | Yamato | 6143 | [6143-yamato.json](./6143-yamato.json) |
 | Yamb | 252306 | [252306-yamb.json](./252306-yamb.json) |
+| Yamedomo | 332392 | [332392-yamedomo.json](./332392-yamedomo.json) |
 | Yami | 138518 | [138518-yami.json](./138518-yami.json) |
 | Yami Fuku Natsu: Teito Monogatari Futatabi | 147956 | [147956-yami-fuku-natsu-teito-monogatari-futatabi.json](./147956-yami-fuku-natsu-teito-monogatari-futatabi.json) |
 | Yami Mura | 392945 | [392945-yami-mura.json](./392945-yami-mura.json) |
