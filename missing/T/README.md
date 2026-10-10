@@ -467,6 +467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tails' High Flying Adventure | 331391 | [331391-tails-high-flying-adventure.json](./331391-tails-high-flying-adventure.json) |
 | Tails' Nightmare | 278076 | [278076-tails-nightmare.json](./278076-tails-nightmare.json) |
 | Tails' Nightmare 2 | 307584 | [307584-tails-nightmare-2.json](./307584-tails-nightmare-2.json) |
+| Tails' Picross | 321400 | [321400-tails-picross.json](./321400-tails-picross.json) |
 | TailScape: The corgi’s Advendture | 325836 | [325836-tailscape-the-corgi-s-advendture.json](./325836-tailscape-the-corgi-s-advendture.json) |
 | Tailside: Cozy Cafe Sim | 296995 | [296995-tailside-cozy-cafe-sim.json](./296995-tailside-cozy-cafe-sim.json) |
 | Tailspin! | 177371 | [177371-tailspin.json](./177371-tailspin.json) |
@@ -3294,6 +3295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | That Time in '88 | 181345 | [181345-that-time-in-88.json](./181345-that-time-in-88.json) |
 | That Tiny Spaceship | 102351 | [102351-that-tiny-spaceship.json](./102351-that-tiny-spaceship.json) |
 | That Village | 337740 | [337740-that-village.json](./337740-that-village.json) |
+| That Which Surrounds | 321660 | [321660-that-which-surrounds.json](./321660-that-which-surrounds.json) |
 | That's a Cow: Deluxe Edition | 232994 | [232994-thats-a-cow-deluxe-edition.json](./232994-thats-a-cow-deluxe-edition.json) |
 | That's a Cow: Eggshell | 233001 | [233001-thats-a-cow-eggshell.json](./233001-thats-a-cow-eggshell.json) |
 | That's a Cow: Premium Edition | 250364 | [250364-thats-a-cow-premium-edition.json](./250364-thats-a-cow-premium-edition.json) |
@@ -7288,6 +7290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lar | 118380 | [118380-the-lar.json](./118380-the-lar.json) |
 | The Lara Croft Collection | 253646 | [253646-the-lara-croft-collection.json](./253646-the-lara-croft-collection.json) |
 | The Larper | 402988 | [402988-the-larper.json](./402988-the-larper.json) |
+| The Laser Games | 321639 | [321639-the-laser-games.json](./321639-the-laser-games.json) |
 | The Last | 31802 | [31802-the-last.json](./31802-the-last.json) |
 | The Last (Hotdog) Stand | 399185 | [399185-the-last-hotdog-stand.json](./399185-the-last-hotdog-stand.json) |
 | The Last 66 Days | 278107 | [278107-the-last-66-days.json](./278107-the-last-66-days.json) |
@@ -9857,6 +9860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sekimeiya: Spun Glass | 141500 | [141500-the-sekimeiya-spun-glass.json](./141500-the-sekimeiya-spun-glass.json) |
 | The Seller | 84956 | [84956-the-seller.json](./84956-the-seller.json) |
 | The Senpai | 230521 | [230521-the-senpai.json](./230521-the-senpai.json) |
+| The Sensational December Machine | 321623 | [321623-the-sensational-december-machine.json](./321623-the-sensational-december-machine.json) |
 | The Sensha | 59418 | [59418-the-sensha.json](./59418-the-sensha.json) |
 | The Sentinel | 265158 | [265158-the-sentinel.json](./265158-the-sentinel.json) |
 | The Sentinel Remake | 212230 | [212230-the-sentinel-remake.json](./212230-the-sentinel-remake.json) |
@@ -11169,6 +11173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Trials of Goodbye | 312876 | [312876-the-trials-of-goodbye.json](./312876-the-trials-of-goodbye.json) |
 | The Trials of Olympus 2: Wrath of the Gods | 114357 | [114357-the-trials-of-olympus-2-wrath-of-the-gods.json](./114357-the-trials-of-olympus-2-wrath-of-the-gods.json) |
 | The Trials of Olympus III: King of the World | 115794 | [115794-the-trials-of-olympus-iii-king-of-the-world.json](./115794-the-trials-of-olympus-iii-king-of-the-world.json) |
+| The Trials of Ozymandias | 321659 | [321659-the-trials-of-ozymandias.json](./321659-the-trials-of-ozymandias.json) |
 | The Trials of Topoq | 66897 | [66897-the-trials-of-topoq.json](./66897-the-trials-of-topoq.json) |
 | The Trials: Chapter Two | 400372 | [400372-the-trials-chapter-two.json](./400372-the-trials-chapter-two.json) |
 | The Triathron | 48326 | [48326-the-triathron.json](./48326-the-triathron.json) |
@@ -14094,6 +14099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Shared | 276720 | [276720-time-shared.json](./276720-time-shared.json) |
 | Time Sliper | 346788 | [346788-time-sliper.json](./346788-time-sliper.json) |
 | Time Snatcher Handy | 372632 | [372632-time-snatcher-handy.json](./372632-time-snatcher-handy.json) |
+| Time Soul | 321630 | [321630-time-soul.json](./321630-time-soul.json) |
 | Time Splatter | 110360 | [110360-time-splatter.json](./110360-time-splatter.json) |
 | Time Squared | 26977 | [26977-time-squared.json](./26977-time-squared.json) |
 | Time Stand Still | 10992 | [10992-time-stand-still.json](./10992-time-stand-still.json) |
@@ -14152,6 +14158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time's Up in Tiny Town | 190471 | [190471-times-up-in-tiny-town.json](./190471-times-up-in-tiny-town.json) |
 | Timeball | 7791 | [7791-timeball.json](./7791-timeball.json) |
 | Timebot | 219499 | [219499-timebot.json](./219499-timebot.json) |
+| Timebound | 321635 | [321635-timebound.json](./321635-timebound.json) |
 | Timebound Vampire | 329064 | [329064-timebound-vampire.json](./329064-timebound-vampire.json) |
 | TimeCluster | 105295 | [105295-timecluster.json](./105295-timecluster.json) |
 | Timecues | 56915 | [56915-timecues.json](./56915-timecues.json) |
@@ -15133,6 +15140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokyo Ogre Gate | 84488 | [84488-tokyo-ogre-gate.json](./84488-tokyo-ogre-gate.json) |
 | Tokyo Pachi-Slot Adventure | 48877 | [48877-tokyo-pachi-slot-adventure.json](./48877-tokyo-pachi-slot-adventure.json) |
 | Tokyo Revengers Pazuribe! | 254572 | [254572-tokyo-revengers-pazuribe.json](./254572-tokyo-revengers-pazuribe.json) |
+| Tokyo Revengers: Last Mission | 321649 | [321649-tokyo-revengers-last-mission.json](./321649-tokyo-revengers-last-mission.json) |
 | Tokyo Road Race | 43303 | [43303-tokyo-road-race.json](./43303-tokyo-road-race.json) |
 | Tokyo Rock Redemption | 298899 | [298899-tokyo-rock-redemption.json](./298899-tokyo-rock-redemption.json) |
 | Tokyo Rogue | 153977 | [153977-tokyo-rogue.json](./153977-tokyo-rogue.json) |
@@ -19002,6 +19010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trojan | 270316 | [270316-trojan.json](./270316-trojan.json) |
 | Trojan | 287583 | [287583-trojan.json](./287583-trojan.json) |
 | Trojan | 39993 | [39993-trojan.json](./39993-trojan.json) |
+| Trolddom | 321632 | [321632-trolddom.json](./321632-trolddom.json) |
 | Troll | 375849 | [375849-troll.json](./375849-troll.json) |
 | Troll Face Clicker Quest | 105860 | [105860-troll-face-clicker-quest.json](./105860-troll-face-clicker-quest.json) |
 | Troll Face Quest Horror | 351627 | [351627-troll-face-quest-horror.json](./351627-troll-face-quest-horror.json) |
