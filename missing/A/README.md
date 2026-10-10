@@ -1442,14 +1442,24 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ace Combat 7: Skies Unknown - 25th Anniversary Edition | 218508 | [218508-ace-combat-7-skies-unknown-25th-anniversary-edition.json](./218508-ace-combat-7-skies-unknown-25th-anniversary-edition.json) |
 | Ace Combat 7: Skies Unknown - 25th Anniversary Emblem Set II | 282591 | [282591-ace-combat-7-skies-unknown-25th-anniversary-emblem-set-ii.json](./282591-ace-combat-7-skies-unknown-25th-anniversary-emblem-set-ii.json) |
 | Ace Combat 7: Skies Unknown - 25th Anniversary Skin Set II | 282593 | [282593-ace-combat-7-skies-unknown-25th-anniversary-skin-set-ii.json](./282593-ace-combat-7-skies-unknown-25th-anniversary-skin-set-ii.json) |
+| Ace Combat 7: Skies Unknown - 8 Popular Squadron Emblems | 282530 | [282530-ace-combat-7-skies-unknown-8-popular-squadron-emblems.json](./282530-ace-combat-7-skies-unknown-8-popular-squadron-emblems.json) |
+| Ace Combat 7: Skies Unknown - Aces at War Bundle | 282531 | [282531-ace-combat-7-skies-unknown-aces-at-war-bundle.json](./282531-ace-combat-7-skies-unknown-aces-at-war-bundle.json) |
+| Ace Combat 7: Skies Unknown - ADF-01 FALKEN Set | 282536 | [282536-ace-combat-7-skies-unknown-adf-01-falken-set.json](./282536-ace-combat-7-skies-unknown-adf-01-falken-set.json) |
+| Ace Combat 7: Skies Unknown - ADF-11F Raven Set | 282535 | [282535-ace-combat-7-skies-unknown-adf-11f-raven-set.json](./282535-ace-combat-7-skies-unknown-adf-11f-raven-set.json) |
+| Ace Combat 7: Skies Unknown - ADFX-01 Morgan Set | 282537 | [282537-ace-combat-7-skies-unknown-adfx-01-morgan-set.json](./282537-ace-combat-7-skies-unknown-adfx-01-morgan-set.json) |
 | Ace Combat 7: Skies Unknown - ASF-X Shinden II Set | 282579 | [282579-ace-combat-7-skies-unknown-asf-x-shinden-ii-set.json](./282579-ace-combat-7-skies-unknown-asf-x-shinden-ii-set.json) |
 | Ace Combat 7: Skies Unknown - Cutting-Edge Aircraft Series Set | 324420 | [324420-ace-combat-7-skies-unknown-cutting-edge-aircraft-series-set.json](./324420-ace-combat-7-skies-unknown-cutting-edge-aircraft-series-set.json) |
+| Ace Combat 7: Skies Unknown - Deluxe Edition 2022 | 282545 | [282545-ace-combat-7-skies-unknown-deluxe-edition-2022.json](./282545-ace-combat-7-skies-unknown-deluxe-edition-2022.json) |
 | Ace Combat 7: Skies Unknown - Experimental Aircraft Series Set | 324421 | [324421-ace-combat-7-skies-unknown-experimental-aircraft-series-set.json](./324421-ace-combat-7-skies-unknown-experimental-aircraft-series-set.json) |
+| Ace Combat 7: Skies Unknown - F-104C: Avril | 282540 | [282540-ace-combat-7-skies-unknown-f-104c-avril.json](./282540-ace-combat-7-skies-unknown-f-104c-avril.json) |
 | Ace Combat 7: Skies Unknown - F-15 S/MTD Set | 282589 | [282589-ace-combat-7-skies-unknown-f-15-s-mtd-set.json](./282589-ace-combat-7-skies-unknown-f-15-s-mtd-set.json) |
+| Ace Combat 7: Skies Unknown - F-4E Phantom II + 3 Skins | 282534 | [282534-ace-combat-7-skies-unknown-f-4e-phantom-ii-3-skins.json](./282534-ace-combat-7-skies-unknown-f-4e-phantom-ii-3-skins.json) |
 | Ace Combat 7: Skies Unknown - FB-22 Strike Raptor Set | 282590 | [282590-ace-combat-7-skies-unknown-fb-22-strike-raptor-set.json](./282590-ace-combat-7-skies-unknown-fb-22-strike-raptor-set.json) |
 | Ace Combat 7: Skies Unknown - Original Aircraft Series | 138246 | [138246-ace-combat-7-skies-unknown-original-aircraft-series.json](./138246-ace-combat-7-skies-unknown-original-aircraft-series.json) |
 | Ace Combat 7: Skies Unknown - Original Aircraft Series Set | 324422 | [324422-ace-combat-7-skies-unknown-original-aircraft-series-set.json](./324422-ace-combat-7-skies-unknown-original-aircraft-series-set.json) |
 | Ace Combat 7: Skies Unknown - Premium Edition | 139975 | [139975-ace-combat-7-skies-unknown-premium-edition.json](./139975-ace-combat-7-skies-unknown-premium-edition.json) |
+| Ace Combat 7: Skies Unknown - Season Pass | 282538 | [282538-ace-combat-7-skies-unknown-season-pass.json](./282538-ace-combat-7-skies-unknown-season-pass.json) |
+| Ace Combat 7: Skies Unknown - Strangereal Edition | 282532 | [282532-ace-combat-7-skies-unknown-strangereal-edition.json](./282532-ace-combat-7-skies-unknown-strangereal-edition.json) |
 | Ace Combat 7: Skies Unknown - Top Gun: Maverick Aircraft Set | 203860 | [203860-ace-combat-7-skies-unknown-top-gun-maverick-aircraft-set.json](./203860-ace-combat-7-skies-unknown-top-gun-maverick-aircraft-set.json) |
 | Ace Combat 7: Skies Unknown - Top Gun: Maverick Edition | 204084 | [204084-ace-combat-7-skies-unknown-top-gun-maverick-edition.json](./204084-ace-combat-7-skies-unknown-top-gun-maverick-edition.json) |
 | Ace Combat 7: Skies Unknown - Ultimate Edition | 282547 | [282547-ace-combat-7-skies-unknown-ultimate-edition.json](./282547-ace-combat-7-skies-unknown-ultimate-edition.json) |
@@ -7315,6 +7325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: City Bomber | 324979 | [324979-arcade-archives-city-bomber.json](./324979-arcade-archives-city-bomber.json) |
 | Arcade Archives: City Connection | 99558 | [99558-arcade-archives-city-connection.json](./99558-arcade-archives-city-connection.json) |
 | Arcade Archives: Clu Clu Land | 68356 | [68356-arcade-archives-clu-clu-land.json](./68356-arcade-archives-clu-clu-land.json) |
+| Arcade Archives: Cosmo Gang The Puzzle | 282491 | [282491-arcade-archives-cosmo-gang-the-puzzle.json](./282491-arcade-archives-cosmo-gang-the-puzzle.json) |
 | Arcade Archives: Cosmo Police Galivan | 99566 | [99566-arcade-archives-cosmo-police-galivan.json](./99566-arcade-archives-cosmo-police-galivan.json) |
 | Arcade Archives: Crazy Balloon | 351223 | [351223-arcade-archives-crazy-balloon.json](./351223-arcade-archives-crazy-balloon.json) |
 | Arcade Archives: Crime Fighters | 147106 | [147106-arcade-archives-crime-fighters.json](./147106-arcade-archives-crime-fighters.json) |
@@ -7513,6 +7524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Classic No. 2: Centipede / Millipede | 117924 | [117924-arcade-classic-no-2-centipede-millipede.json](./117924-arcade-classic-no-2-centipede-millipede.json) |
 | Arcade Classic No. 3: Galaga / Galaxian | 63313 | [63313-arcade-classic-no-3-galaga-galaxian.json](./63313-arcade-classic-no-3-galaga-galaxian.json) |
 | Arcade Classics | 245988 | [245988-arcade-classics.json](./245988-arcade-classics.json) |
+| Arcade Classics | 282489 | [282489-arcade-classics.json](./282489-arcade-classics.json) |
 | Arcade Classics: Seawolf II and Gun Fight | 130282 | [130282-arcade-classics-seawolf-ii-and-gun-fight.json](./130282-arcade-classics-seawolf-ii-and-gun-fight.json) |
 | Arcade Classics: Super Breakout / Battlezone | 79702 | [79702-arcade-classics-super-breakout-battlezone.json](./79702-arcade-classics-super-breakout-battlezone.json) |
 | Arcade Crossy Road | 228367 | [228367-arcade-crossy-road.json](./228367-arcade-crossy-road.json) |
@@ -9470,6 +9482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astral | 111566 | [111566-astral.json](./111566-astral.json) |
 | Astral | 14273 | [14273-astral.json](./14273-astral.json) |
 | Astral | 377836 | [377836-astral.json](./377836-astral.json) |
+| Astral Abstraction | 282523 | [282523-astral-abstraction.json](./282523-astral-abstraction.json) |
 | Astral Alliance | 272487 | [272487-astral-alliance.json](./272487-astral-alliance.json) |
 | Astral Ascent: Yamat - The Breach Traveler | 313217 | [313217-astral-ascent-yamat-the-breach-traveler.json](./313217-astral-ascent-yamat-the-breach-traveler.json) |
 | Astral Attack | 13806 | [13806-astral-attack.json](./13806-astral-attack.json) |
