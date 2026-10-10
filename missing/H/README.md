@@ -1061,6 +1061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harambe Kong | 82032 | [82032-harambe-kong.json](./82032-harambe-kong.json) |
 | Haramimura: When a Wife Becomes a Villager | 388721 | [388721-haramimura-when-a-wife-becomes-a-villager.json](./388721-haramimura-when-a-wife-becomes-a-villager.json) |
 | Harassment ni Ki wo Tsukete | 251609 | [251609-harassment-ni-ki-wo-tsukete.json](./251609-harassment-ni-ki-wo-tsukete.json) |
+| Harbinger | 315204 | [315204-harbinger.json](./315204-harbinger.json) |
 | Harbinger | 51230 | [51230-harbinger.json](./51230-harbinger.json) |
 | Harbinger: Skeleton Crew | 63554 | [63554-harbinger-skeleton-crew.json](./63554-harbinger-skeleton-crew.json) |
 | Harbinger's Horse GT | 183586 | [183586-harbingers-horse-gt.json](./183586-harbingers-horse-gt.json) |
@@ -2344,6 +2345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Helena's Flowers | 184904 | [184904-helenas-flowers.json](./184904-helenas-flowers.json) |
 | Hélène est dans mon Ventre. | 310037 | [310037-helene-est-dans-mon-ventre.json](./310037-helene-est-dans-mon-ventre.json) |
 | Helenenkapelle VR | 296900 | [296900-helenenkapelle-vr.json](./296900-helenenkapelle-vr.json) |
+| Helga Deep In Trouble | 315205 | [315205-helga-deep-in-trouble.json](./315205-helga-deep-in-trouble.json) |
 | Helga the Viking Warrior | 192817 | [192817-helga-the-viking-warrior.json](./192817-helga-the-viking-warrior.json) |
 | Helga the Viking Warrior 5: Dawn of Doom | 318609 | [318609-helga-the-viking-warrior-5-dawn-of-doom.json](./318609-helga-the-viking-warrior-5-dawn-of-doom.json) |
 | Helga the Viking Warrior 6: Beyond Ragnarok | 345417 | [345417-helga-the-viking-warrior-6-beyond-ragnarok.json](./345417-helga-the-viking-warrior-6-beyond-ragnarok.json) |
@@ -7302,6 +7304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunter's Requiem | 303563 | [303563-hunters-requiem.json](./303563-hunters-requiem.json) |
 | Hunter's Seal | 365681 | [365681-hunters-seal.json](./365681-hunters-seal.json) |
 | Hunter's Soul | 122435 | [122435-hunters-soul.json](./122435-hunters-soul.json) |
+| Hunter's Trial: The fight never ends | 315226 | [315226-hunters-trial-the-fight-never-ends.json](./315226-hunters-trial-the-fight-never-ends.json) |
 | Hunter's Trophy | 53219 | [53219-hunters-trophy.json](./53219-hunters-trophy.json) |
 | Hunter's Trophy 2: Europa | 64376 | [64376-hunters-trophy-2-europa.json](./64376-hunters-trophy-2-europa.json) |
 | Hunternet Starfighter | 57938 | [57938-hunternet-starfighter.json](./57938-hunternet-starfighter.json) |
