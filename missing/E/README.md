@@ -906,6 +906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eggconsole Crystal Chaser: Overlord's Orb of the Sky - Refined PC-9801 | 378794 | [378794-eggconsole-crystal-chaser-overlords-orb-of-the-sky-refined-pc-9801.json](./378794-eggconsole-crystal-chaser-overlords-orb-of-the-sky-refined-pc-9801.json) |
 | Eggconsole Deep Dungeon II MSX | 420692 | [420692-eggconsole-deep-dungeon-ii-msx.json](./420692-eggconsole-deep-dungeon-ii-msx.json) |
 | Eggconsole Diable de Laplace PC-8801mkIISR | 362200 | [362200-eggconsole-diable-de-laplace-pc-8801mkiisr.json](./362200-eggconsole-diable-de-laplace-pc-8801mkiisr.json) |
+| Eggconsole Dragon Slayer IV Draslefamily MSX2 | 295687 | [295687-eggconsole-dragon-slayer-iv-draslefamily-msx2.json](./295687-eggconsole-dragon-slayer-iv-draslefamily-msx2.json) |
 | Eggconsole Dragon Slayer Level 2.0 PC-8801 | 410380 | [410380-eggconsole-dragon-slayer-level-2-0-pc-8801.json](./410380-eggconsole-dragon-slayer-level-2-0-pc-8801.json) |
 | Eggconsole Dragon Slayer: The Legend of Heroes II PC-8801mkIISR | 328526 | [328526-eggconsole-dragon-slayer-the-legend-of-heroes-ii-pc-8801mkiisr.json](./328526-eggconsole-dragon-slayer-the-legend-of-heroes-ii-pc-8801mkiisr.json) |
 | Eggconsole Dragon Slayer: The Legend of Heroes PC-8801mkIISR | 316195 | [316195-eggconsole-dragon-slayer-the-legend-of-heroes-pc-8801mkiisr.json](./316195-eggconsole-dragon-slayer-the-legend-of-heroes-pc-8801mkiisr.json) |
@@ -3225,6 +3226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape game R00m15 | 410381 | [410381-escape-game-r00m15.json](./410381-escape-game-r00m15.json) |
 | Escape game R00m17 | 420691 | [420691-escape-game-r00m17.json](./420691-escape-game-r00m17.json) |
 | Escape Game Sleepless | 335698 | [335698-escape-game-sleepless.json](./335698-escape-game-sleepless.json) |
+| Escape Game The Deserted House | 295688 | [295688-escape-game-the-deserted-house.json](./295688-escape-game-the-deserted-house.json) |
 | Escape Game The Dr. Mouse's Lab | 298585 | [298585-escape-game-the-dr-mouses-lab.json](./298585-escape-game-the-dr-mouses-lab.json) |
 | Escape Game The Empty School | 345693 | [345693-escape-game-the-empty-school.json](./345693-escape-game-the-empty-school.json) |
 | Escape Game The Locked Elevator | 410382 | [410382-escape-game-the-locked-elevator.json](./410382-escape-game-the-locked-elevator.json) |
@@ -4747,6 +4749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exploding Wall | 13652 | [13652-exploding-wall.json](./13652-exploding-wall.json) |
 | Explomania | 81033 | [81033-explomania.json](./81033-explomania.json) |
 | Exploration | 94317 | [94317-exploration.json](./94317-exploration.json) |
+| Exploration Adventures | 295689 | [295689-exploration-adventures.json](./295689-exploration-adventures.json) |
 | Exploration Space | 96846 | [96846-exploration-space.json](./96846-exploration-space.json) |
 | Explore | 259720 | [259720-explore.json](./259720-explore.json) |
 | Explore Inc | 179030 | [179030-explore-inc.json](./179030-explore-inc.json) |
