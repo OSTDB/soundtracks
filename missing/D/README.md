@@ -5886,6 +5886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diode Arena | 207336 | [207336-diode-arena.json](./207336-diode-arena.json) |
 | Dion | 338341 | [338341-dion.json](./338341-dion.json) |
 | Dionysus | 412410 | [412410-dionysus.json](./412410-dionysus.json) |
+| Diora | 288688 | [288688-diora.json](./288688-diora.json) |
 | Diorama Battle of Ninja | 32948 | [32948-diorama-battle-of-ninja.json](./32948-diorama-battle-of-ninja.json) |
 | Diorama Break | 398554 | [398554-diorama-break.json](./398554-diorama-break.json) |
 | Diorama Builder | 161403 | [161403-diorama-builder.json](./161403-diorama-builder.json) |
@@ -6227,6 +6228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney Dreamlight Valley: Puppy Love | 391298 | [391298-disney-dreamlight-valley-puppy-love.json](./391298-disney-dreamlight-valley-puppy-love.json) |
 | Disney Dreamlight Valley: Return to Beast's Castle | 371229 | [371229-disney-dreamlight-valley-return-to-beasts-castle.json](./371229-disney-dreamlight-valley-return-to-beasts-castle.json) |
 | Disney Dreamlight Valley: Scar's Kingdom | 222272 | [222272-disney-dreamlight-valley-scars-kingdom.json](./222272-disney-dreamlight-valley-scars-kingdom.json) |
+| Disney Dreamlight Valley: The Laugh Floor | 288695 | [288695-disney-dreamlight-valley-the-laugh-floor.json](./288695-disney-dreamlight-valley-the-laugh-floor.json) |
 | Disney Dreamlight Valley: The Pumpkin King Returns | 279239 | [279239-disney-dreamlight-valley-the-pumpkin-king-returns.json](./279239-disney-dreamlight-valley-the-pumpkin-king-returns.json) |
 | Disney Dreamlight Valley: The Remembering | 252303 | [252303-disney-dreamlight-valley-the-remembering.json](./252303-disney-dreamlight-valley-the-remembering.json) |
 | Disney Dreamlight Valley: The Winter Ball | 381099 | [381099-disney-dreamlight-valley-the-winter-ball.json](./381099-disney-dreamlight-valley-the-winter-ball.json) |
@@ -8012,6 +8014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doomsday on Demand | 104037 | [104037-doomsday-on-demand.json](./104037-doomsday-on-demand.json) |
 | Doomsday on Demand 2 | 104036 | [104036-doomsday-on-demand-2.json](./104036-doomsday-on-demand-2.json) |
 | Doomsday Overture | 280237 | [280237-doomsday-overture.json](./280237-doomsday-overture.json) |
+| Doomsday Picnic RPG | 288652 | [288652-doomsday-picnic-rpg.json](./288652-doomsday-picnic-rpg.json) |
 | Doomsday Robot Girl | 189974 | [189974-doomsday-robot-girl.json](./189974-doomsday-robot-girl.json) |
 | Doomsday Tower Defense | 357838 | [357838-doomsday-tower-defense.json](./357838-doomsday-tower-defense.json) |
 | Doomsday Vault | 117012 | [117012-doomsday-vault.json](./117012-doomsday-vault.json) |
@@ -9229,6 +9232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon's Dogma | 3968 | [3968-dragons-dogma.json](./3968-dragons-dogma.json) |
 | Dragon's Dogma II: Dark Arisen | 408164 | [408164-dragons-dogma-ii-dark-arisen.json](./408164-dragons-dogma-ii-dark-arisen.json) |
 | Dragon's Dogma II: Dark Arisen Expansion | 405433 | [405433-dragons-dogma-ii-dark-arisen-expansion.json](./405433-dragons-dogma-ii-dark-arisen-expansion.json) |
+| Dragon's Dogma II: Deluxe Edition | 288657 | [288657-dragons-dogma-ii-deluxe-edition.json](./288657-dragons-dogma-ii-deluxe-edition.json) |
 | Dragon's Dogma II: Dragon's Dogma Music & Sound Collection - Custom Sounds | 308568 | [308568-dragons-dogma-ii-dragons-dogma-music-and-sound-collection-custom-sounds.json](./308568-dragons-dogma-ii-dragons-dogma-music-and-sound-collection-custom-sounds.json) |
 | Dragon's Dogma Online | 26985 | [26985-dragons-dogma-online.json](./26985-dragons-dogma-online.json) |
 | Dragon's Dogma Online: Season 2 - Limited Edition | 201048 | [201048-dragons-dogma-online-season-2-limited-edition.json](./201048-dragons-dogma-online-season-2-limited-edition.json) |
