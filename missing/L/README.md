@@ -52,6 +52,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | La Bestia: The Migrant's Long Journey | 296485 | [296485-la-bestia-the-migrants-long-journey.json](./296485-la-bestia-the-migrants-long-journey.json) |
 | La Carbonara | 323172 | [323172-la-carbonara.json](./323172-la-carbonara.json) |
 | La Caza del Espía | 323175 | [323175-la-caza-del-espia.json](./323175-la-caza-del-espia.json) |
+| La Chose De Grotemburg | 321401 | [321401-la-chose-de-grotemburg.json](./321401-la-chose-de-grotemburg.json) |
 | La Cita de Mookie | 323222 | [323222-la-cita-de-mookie.json](./323222-la-cita-de-mookie.json) |
 | La Ciudad Fantasma | 276382 | [276382-la-ciudad-fantasma.json](./276382-la-ciudad-fantasma.json) |
 | La ciudad perdida de los Kowane | 316783 | [316783-la-ciudad-perdida-de-los-kowane.json](./316783-la-ciudad-perdida-de-los-kowane.json) |
@@ -101,6 +102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | La Rana | 113611 | [113611-la-rana.json](./113611-la-rana.json) |
 | La Royale: Below Deck | 391121 | [391121-la-royale-below-deck.json](./391121-la-royale-below-deck.json) |
 | La Ruota Della Sfortuna: Prima parte | 318571 | [318571-la-ruota-della-sfortuna-prima-parte.json](./318571-la-ruota-della-sfortuna-prima-parte.json) |
+| La Sfida Della Sfinge | 321658 | [321658-la-sfida-della-sfinge.json](./321658-la-sfida-della-sfinge.json) |
 | La Sombra | 220593 | [220593-la-sombra.json](./220593-la-sombra.json) |
 | LA Soul | 405428 | [405428-la-soul.json](./405428-la-soul.json) |
 | La Statuette maudite de l'oncle Ernest | 282689 | [282689-la-statuette-maudite-de-loncle-ernest.json](./282689-la-statuette-maudite-de-loncle-ernest.json) |
@@ -975,6 +977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Late Ming Fly Guy | 339904 | [339904-late-ming-fly-guy.json](./339904-late-ming-fly-guy.json) |
 | Late Night 1320 | 115654 | [115654-late-night-1320.json](./115654-late-night-1320.json) |
 | Late Night Breakfast | 178991 | [178991-late-night-breakfast.json](./178991-late-night-breakfast.json) |
+| Late Night Confessional | 321641 | [321641-late-night-confessional.json](./321641-late-night-confessional.json) |
 | Late Night Delivery: The Bewitched Collection | 260290 | [260290-late-night-delivery-the-bewitched-collection.json](./260290-late-night-delivery-the-bewitched-collection.json) |
 | Late Night Mop | 218953 | [218953-late-night-mop.json](./218953-late-night-mop.json) |
 | Late Night Mop: Minimum Wage | 376605 | [376605-late-night-mop-minimum-wage.json](./376605-late-night-mop-minimum-wage.json) |
@@ -2657,6 +2660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lidar Survival | 253917 | [253917-lidar-survival.json](./253917-lidar-survival.json) |
 | Lidar.exe | 213883 | [213883-lidar-exe.json](./213883-lidar-exe.json) |
 | LiDiA | 142147 | [142147-lidia.json](./142147-lidia.json) |
+| Lidraughts | 321663 | [321663-lidraughts.json](./321663-lidraughts.json) |
 | Lie or Die | 176798 | [176798-lie-or-die.json](./176798-lie-or-die.json) |
 | LiEat: The Lie-Eating Dragon & the Vermilion Vampire | 115202 | [115202-lieat-the-lie-eating-dragon-and-the-vermilion-vampire.json](./115202-lieat-the-lie-eating-dragon-and-the-vermilion-vampire.json) |
 | Liebt Mich Nicht | 126021 | [126021-liebt-mich-nicht.json](./126021-liebt-mich-nicht.json) |
@@ -3189,6 +3193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liminal Point | 330566 | [330566-liminal-point.json](./330566-liminal-point.json) |
 | Liminal Ranger | 146770 | [146770-liminal-ranger.json](./146770-liminal-ranger.json) |
 | Liminal Salvation | 358996 | [358996-liminal-salvation.json](./358996-liminal-salvation.json) |
+| Liminal Shroud | 321405 | [321405-liminal-shroud.json](./321405-liminal-shroud.json) |
 | Liminal Sick Pizza Blue | 398480 | [398480-liminal-sick-pizza-blue.json](./398480-liminal-sick-pizza-blue.json) |
 | Liminal Sorting | 416092 | [416092-liminal-sorting.json](./416092-liminal-sorting.json) |
 | Liminal Spaces Jam | 323735 | [323735-liminal-spaces-jam.json](./323735-liminal-spaces-jam.json) |
@@ -3455,6 +3460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lisa: The Undone | 297621 | [297621-lisa-the-undone.json](./297621-lisa-the-undone.json) |
 | Lisa: The Wise | 220546 | [220546-lisa-the-wise.json](./220546-lisa-the-wise.json) |
 | Lisa's Memory | 114192 | [114192-lisas-memory.json](./114192-lisas-memory.json) |
+| Lishogi | 321664 | [321664-lishogi.json](./321664-lishogi.json) |
 | Lisistrata | 195601 | [195601-lisistrata.json](./195601-lisistrata.json) |
 | Lisle Engle Heavy Distance | 253918 | [253918-lisle-engle-heavy-distance.json](./253918-lisle-engle-heavy-distance.json) |
 | Lisparuga | 176996 | [176996-lisparuga.json](./176996-lisparuga.json) |
@@ -3822,10 +3828,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LittleBigPlanet 2 | 2140 | [2140-littlebigplanet-2.json](./2140-littlebigplanet-2.json) |
 | LittleBigPlanet 2 Extras Edition | 414317 | [414317-littlebigplanet-2-extras-edition.json](./414317-littlebigplanet-2-extras-edition.json) |
 | LittleBigPlanet 2: Collector's Edition | 44554 | [44554-littlebigplanet-2-collectors-edition.json](./44554-littlebigplanet-2-collectors-edition.json) |
+| LittleBigPlanet 2: World Peace Day Costume | 321624 | [321624-littlebigplanet-2-world-peace-day-costume.json](./321624-littlebigplanet-2-world-peace-day-costume.json) |
 | LittleBigPlanet 3: Baroque Costume | 326784 | [326784-littlebigplanet-3-baroque-costume.json](./326784-littlebigplanet-3-baroque-costume.json) |
 | LittleBigPlanet 3: Dead Space - Isaac Clarke Costume | 322199 | [322199-littlebigplanet-3-dead-space-isaac-clarke-costume.json](./322199-littlebigplanet-3-dead-space-isaac-clarke-costume.json) |
 | LittleBigPlanet 3: Fix Me Hook Hat T-shirt | 322200 | [322200-littlebigplanet-3-fix-me-hook-hat-t-shirt.json](./322200-littlebigplanet-3-fix-me-hook-hat-t-shirt.json) |
 | LittleBigPlanet 3: Line Infantry Costume | 322201 | [322201-littlebigplanet-3-line-infantry-costume.json](./322201-littlebigplanet-3-line-infantry-costume.json) |
+| LittleBigPlanet 3: Mass Effect - Andromeda Costume Pack | 321625 | [321625-littlebigplanet-3-mass-effect-andromeda-costume-pack.json](./321625-littlebigplanet-3-mass-effect-andromeda-costume-pack.json) |
 | LittleBigPlanet 3: Monkey King Costume | 322206 | [322206-littlebigplanet-3-monkey-king-costume.json](./322206-littlebigplanet-3-monkey-king-costume.json) |
 | LittleBigPlanet 3: Octodad - Dadliest Catch Costume | 320957 | [320957-littlebigplanet-3-octodad-dadliest-catch-costume.json](./320957-littlebigplanet-3-octodad-dadliest-catch-costume.json) |
 | Littlebigplanet 3: Renaissance Costume | 327314 | [327314-littlebigplanet-3-renaissance-costume.json](./327314-littlebigplanet-3-renaissance-costume.json) |
@@ -4735,6 +4743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lorethem | 201557 | [201557-lorethem.json](./201557-lorethem.json) |
 | Loria | 111928 | [111928-loria.json](./111928-loria.json) |
 | Lorn Vale | 305172 | [305172-lorn-vale.json](./305172-lorn-vale.json) |
+| Lorn's Lure: Danny's Song | 321662 | [321662-lorns-lure-dannys-song.json](./321662-lorns-lure-dannys-song.json) |
 | Lorne | 235754 | [235754-lorne.json](./235754-lorne.json) |
 | Lort | 345444 | [345444-lort.json](./345444-lort.json) |
 | Los Angeles 1985 | 358306 | [358306-los-angeles-1985.json](./358306-los-angeles-1985.json) |
@@ -5618,6 +5627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucky Dog 1 | 147444 | [147444-lucky-dog-1.json](./147444-lucky-dog-1.json) |
 | Lucky Dog 1 + Bad Egg | 264088 | [264088-lucky-dog-1-bad-egg.json](./264088-lucky-dog-1-bad-egg.json) |
 | Lucky Farm | 309567 | [309567-lucky-farm.json](./309567-lucky-farm.json) |
+| Lucky Fighter II | 321648 | [321648-lucky-fighter-ii.json](./321648-lucky-fighter-ii.json) |
 | Lucky Fish Bread | 190081 | [190081-lucky-fish-bread.json](./190081-lucky-fish-bread.json) |
 | Lucky Gem | 195607 | [195607-lucky-gem.json](./195607-lucky-gem.json) |
 | Lucky Gem | 262484 | [262484-lucky-gem.json](./262484-lucky-gem.json) |
