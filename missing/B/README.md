@@ -10136,6 +10136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bugaboo Pocket | 198221 | [198221-bugaboo-pocket.json](./198221-bugaboo-pocket.json) |
 | BuGarden | 392302 | [392302-bugarden.json](./392302-bugarden.json) |
 | Bugatron | 69332 | [69332-bugatron.json](./69332-bugatron.json) |
+| Bugatron Worlds | 307267 | [307267-bugatron-worlds.json](./307267-bugatron-worlds.json) |
 | Bugboy | 329080 | [329080-bugboy.json](./329080-bugboy.json) |
 | BugBurgh | 305268 | [305268-bugburgh.json](./305268-bugburgh.json) |
 | Bugdas | 113721 | [113721-bugdas.json](./113721-bugdas.json) |
