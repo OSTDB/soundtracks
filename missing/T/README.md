@@ -4228,6 +4228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Boy and his Story | 369463 | [369463-the-boy-and-his-story.json](./369463-the-boy-and-his-story.json) |
 | The Boy With Bombs | 61122 | [61122-the-boy-with-bombs.json](./61122-the-boy-with-bombs.json) |
 | The Boyd File | 58826 | [58826-the-boyd-file.json](./58826-the-boyd-file.json) |
+| The Bragger's Club | 304237 | [304237-the-braggers-club.json](./304237-the-braggers-club.json) |
 | The Brain Blasters | 14612 | [14612-the-brain-blasters.json](./14612-the-brain-blasters.json) |
 | The Brain's Brain Game | 307913 | [307913-the-brains-brain-game.json](./307913-the-brains-brain-game.json) |
 | The Brainies | 42634 | [42634-the-brainies.json](./42634-the-brainies.json) |
@@ -8624,6 +8625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Moth Oracle's Poem | 135774 | [135774-the-moth-oracles-poem.json](./135774-the-moth-oracles-poem.json) |
 | The Mother Deer | 330544 | [330544-the-mother-deer.json](./330544-the-mother-deer.json) |
 | The Mothering | 269193 | [269193-the-mothering.json](./269193-the-mothering.json) |
+| The Moto Racer Collection | 304325 | [304325-the-moto-racer-collection.json](./304325-the-moto-racer-collection.json) |
 | The Motorcycle | 230956 | [230956-the-motorcycle.json](./230956-the-motorcycle.json) |
 | The Mound: Omen of Cthulhu | 334673 | [334673-the-mound-omen-of-cthulhu.json](./334673-the-mound-omen-of-cthulhu.json) |
 | The Mountain | 372538 | [372538-the-mountain.json](./372538-the-mountain.json) |
@@ -20211,6 +20213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twinstick Arcade | 149464 | [149464-twinstick-arcade.json](./149464-twinstick-arcade.json) |
 | TwinStick: This Ain't No Picnic | 77259 | [77259-twinstick-this-aint-no-picnic.json](./77259-twinstick-this-aint-no-picnic.json) |
 | Twintris | 396767 | [396767-twintris.json](./396767-twintris.json) |
+| Twinworld Survivor | 304386 | [304386-twinworld-survivor.json](./304386-twinworld-survivor.json) |
 | TwinWorld: Land of Vision | 72099 | [72099-twinworld-land-of-vision.json](./72099-twinworld-land-of-vision.json) |
 | Twirly Treats | 405721 | [405721-twirly-treats.json](./405721-twirly-treats.json) |
 | Twist & Turn | 255960 | [255960-twist-and-turn.json](./255960-twist-and-turn.json) |
