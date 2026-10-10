@@ -5551,6 +5551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Rain | 345445 | [345445-black-rain.json](./345445-black-rain.json) |
 | Black Rainbow | 370780 | [370780-black-rainbow.json](./370780-black-rainbow.json) |
 | Black Raven | 330354 | [330354-black-raven.json](./330354-black-raven.json) |
+| Black Raven: New Missions | 299546 | [299546-black-raven-new-missions.json](./299546-black-raven-new-missions.json) |
 | Black Relic | 227909 | [227909-black-relic.json](./227909-black-relic.json) |
 | Black Resin | 142278 | [142278-black-resin.json](./142278-black-resin.json) |
 | Black River | 29661 | [29661-black-river.json](./29661-black-river.json) |
@@ -7484,6 +7485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boku mo Sekai wo Sukuitai: Battle Tournament | 344322 | [344322-boku-mo-sekai-wo-sukuitai-battle-tournament.json](./344322-boku-mo-sekai-wo-sukuitai-battle-tournament.json) |
 | Boku ni Todoita Kimi no Koe | 98049 | [98049-boku-ni-todoita-kimi-no-koe.json](./98049-boku-ni-todoita-kimi-no-koe.json) |
 | Boku no Choro-Q | 59440 | [59440-boku-no-choro-q.json](./59440-boku-no-choro-q.json) |
+| Boku no Knife de Kimi wo Tasuketai | 299585 | [299585-boku-no-knife-de-kimi-wo-tasuketai.json](./299585-boku-no-knife-de-kimi-wo-tasuketai.json) |
 | Boku no Komayama wo Mamotte | 308901 | [308901-boku-no-komayama-wo-mamotte.json](./308901-boku-no-komayama-wo-mamotte.json) |
 | Boku no Mirai ha, Koi to Kakin to.: Charge to the Future | 194539 | [194539-boku-no-mirai-ha-koi-to-kakin-to-charge-to-the-future.json](./194539-boku-no-mirai-ha-koi-to-kakin-to-charge-to-the-future.json) |
 | Boku no Natsuyasumi | 44775 | [44775-boku-no-natsuyasumi.json](./44775-boku-no-natsuyasumi.json) |
