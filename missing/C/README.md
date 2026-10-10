@@ -435,6 +435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty: Modern Warfare - Season Three | 135219 | [135219-call-of-duty-modern-warfare-season-three.json](./135219-call-of-duty-modern-warfare-season-three.json) |
 | Call of Duty: Modern Warfare 2 - Force Recon | 135298 | [135298-call-of-duty-modern-warfare-2-force-recon.json](./135298-call-of-duty-modern-warfare-2-force-recon.json) |
 | Call of Duty: Modern Warfare 2 Campaign Remastered | 95062 | [95062-call-of-duty-modern-warfare-2-campaign-remastered.json](./95062-call-of-duty-modern-warfare-2-campaign-remastered.json) |
+| Call of Duty: Modern Warfare 3 | 287021 | [287021-call-of-duty-modern-warfare-3.json](./287021-call-of-duty-modern-warfare-3.json) |
 | Call of Duty: Modern Warfare 3 - Collection 1 | 194363 | [194363-call-of-duty-modern-warfare-3-collection-1.json](./194363-call-of-duty-modern-warfare-3-collection-1.json) |
 | Call of Duty: Modern Warfare 3 - Collection 2 | 194367 | [194367-call-of-duty-modern-warfare-3-collection-2.json](./194367-call-of-duty-modern-warfare-3-collection-2.json) |
 | Call of Duty: Modern Warfare 3 - Collection 3: Chaos Pack | 194416 | [194416-call-of-duty-modern-warfare-3-collection-3-chaos-pack.json](./194416-call-of-duty-modern-warfare-3-collection-3-chaos-pack.json) |
@@ -1459,6 +1460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cards & Tankards | 143354 | [143354-cards-and-tankards.json](./143354-cards-and-tankards.json) |
 | Cards +1 | 182850 | [182850-cards-1.json](./182850-cards-1.json) |
 | Cards after Midnight | 420538 | [420538-cards-after-midnight.json](./420538-cards-after-midnight.json) |
+| Cards Against Formality | 287005 | [287005-cards-against-formality.json](./287005-cards-against-formality.json) |
 | Cards and Castles | 35497 | [35497-cards-and-castles.json](./35497-cards-and-castles.json) |
 | Cards and Castles 2 | 178080 | [178080-cards-and-castles-2.json](./178080-cards-and-castles-2.json) |
 | Cards and Dungeons | 325114 | [325114-cards-and-dungeons.json](./325114-cards-and-dungeons.json) |
@@ -1528,6 +1530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cargo Protocol: Cyberpunk Trains | 414148 | [414148-cargo-protocol-cyberpunk-trains.json](./414148-cargo-protocol-cyberpunk-trains.json) |
 | Cargo Runner: Mars | 389050 | [389050-cargo-runner-mars.json](./389050-cargo-runner-mars.json) |
 | Cargo Simulator | 346190 | [346190-cargo-simulator.json](./346190-cargo-simulator.json) |
+| Cargo Simulator 2019: Turkey | 287030 | [287030-cargo-simulator-2019-turkey.json](./287030-cargo-simulator-2019-turkey.json) |
 | Cargo Transport Simulator | 383134 | [383134-cargo-transport-simulator.json](./383134-cargo-transport-simulator.json) |
 | Cargo Transportation: Low Poly | 144914 | [144914-cargo-transportation-low-poly.json](./144914-cargo-transportation-low-poly.json) |
 | Cargo Truck Parking | 220191 | [220191-cargo-truck-parking.json](./220191-cargo-truck-parking.json) |
@@ -6039,6 +6042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ClearIt2 | 96320 | [96320-clearit2.json](./96320-clearit2.json) |
 | Clearwater | 270718 | [270718-clearwater.json](./270718-clearwater.json) |
 | Cleave | 346181 | [346181-cleave.json](./346181-cleave.json) |
+| Cleave Together: The Dragon King's Treasure | 287017 | [287017-cleave-together-the-dragon-kings-treasure.json](./287017-cleave-together-the-dragon-kings-treasure.json) |
 | Cleaving Caliber EX | 362435 | [362435-cleaving-caliber-ex.json](./362435-cleaving-caliber-ex.json) |
 | Cleimos | 260945 | [260945-cleimos.json](./260945-cleimos.json) |
 | Cleimos II | 260946 | [260946-cleimos-ii.json](./260946-cleimos-ii.json) |
@@ -8283,6 +8287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Construction Simulator: Customization Kit | 308524 | [308524-construction-simulator-customization-kit.json](./308524-construction-simulator-customization-kit.json) |
 | Construction Simulator: Evolution | 398522 | [398522-construction-simulator-evolution.json](./398522-construction-simulator-evolution.json) |
 | Construction Simulator: Extended Edition | 218476 | [218476-construction-simulator-extended-edition.json](./218476-construction-simulator-extended-edition.json) |
+| Construction Simulator: Gold Edition | 287050 | [287050-construction-simulator-gold-edition.json](./287050-construction-simulator-gold-edition.json) |
 | Construction Simulator: JCB Pack | 246399 | [246399-construction-simulator-jcb-pack.json](./246399-construction-simulator-jcb-pack.json) |
 | Construction Simulator: Liebherr Pack | 295117 | [295117-construction-simulator-liebherr-pack.json](./295117-construction-simulator-liebherr-pack.json) |
 | Construction Simulator: SANY Pack | 266746 | [266746-construction-simulator-sany-pack.json](./266746-construction-simulator-sany-pack.json) |
@@ -11827,6 +11832,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cupid Nonogram | 182248 | [182248-cupid-nonogram.json](./182248-cupid-nonogram.json) |
 | Cupid Parasite | 136964 | [136964-cupid-parasite.json](./136964-cupid-parasite.json) |
 | Cupid Parasite: Sweet and Spicy Darling | 200558 | [200558-cupid-parasite-sweet-and-spicy-darling.json](./200558-cupid-parasite-sweet-and-spicy-darling.json) |
+| Cupid Parasite: Sweet and Spicy Darling - Day One Edition | 287041 | [287041-cupid-parasite-sweet-and-spicy-darling-day-one-edition.json](./287041-cupid-parasite-sweet-and-spicy-darling-day-one-edition.json) |
+| Cupid Parasite/Cupid Parasite: Sweet and Spicy Darling – Day One Edition | 287042 | [287042-cupid-parasite-cupid-parasite-sweet-and-spicy-darling-day-one-edition.json](./287042-cupid-parasite-cupid-parasite-sweet-and-spicy-darling-day-one-edition.json) |
 | Cupid's Bargain | 392422 | [392422-cupids-bargain.json](./392422-cupids-bargain.json) |
 | Cupids Love Crisis | 108348 | [108348-cupids-love-crisis.json](./108348-cupids-love-crisis.json) |
 | Cupig's Key Collectathon | 313183 | [313183-cupigs-key-collectathon.json](./313183-cupigs-key-collectathon.json) |
@@ -12050,6 +12057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Custom Mech Wars: Ultimate Edition | 268008 | [268008-custom-mech-wars-ultimate-edition.json](./268008-custom-mech-wars-ultimate-edition.json) |
 | Custom Monsters | 222498 | [222498-custom-monsters.json](./222498-custom-monsters.json) |
 | Custom Order Maid 3D2 | 139227 | [139227-custom-order-maid-3d2.json](./139227-custom-order-maid-3d2.json) |
+| Custom Order Maid 3D2: Character EX Pack - Perverted Extreme Masochist | 286999 | [286999-custom-order-maid-3d2-character-ex-pack-perverted-extreme-masochist.json](./286999-custom-order-maid-3d2-character-ex-pack-perverted-extreme-masochist.json) |
 | Custom Order Maid 3D2: Character EX Pack Gyaru | 311721 | [311721-custom-order-maid-3d2-character-ex-pack-gyaru.json](./311721-custom-order-maid-3d2-character-ex-pack-gyaru.json) |
 | Custom Order Maid 3D2: It's a Night Magic Beauty Hair Set SP All in One Pack | 291054 | [291054-custom-order-maid-3d2-its-a-night-magic-beauty-hair-set-sp-all-in-one-pack.json](./291054-custom-order-maid-3d2-its-a-night-magic-beauty-hair-set-sp-all-in-one-pack.json) |
 | Custom Order Maid 3D2: It's a Night Magic Dancing Night, Merry Night All in Pack | 280319 | [280319-custom-order-maid-3d2-its-a-night-magic-dancing-night-merry-night-all-in-pack.json](./280319-custom-order-maid-3d2-its-a-night-magic-dancing-night-merry-night-all-in-pack.json) |
