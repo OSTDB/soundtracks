@@ -2298,6 +2298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Junkyard Keeper | 208930 | [208930-junkyard-keeper.json](./208930-junkyard-keeper.json) |
 | Junkyard Rush Racing | 326268 | [326268-junkyard-rush-racing.json](./326268-junkyard-rush-racing.json) |
 | Junkyard Space Agency | 356045 | [356045-junkyard-space-agency.json](./356045-junkyard-space-agency.json) |
+| Junkybots | 292959 | [292959-junkybots.json](./292959-junkybots.json) |
 | Juno and Hope Destroy Capitalism | 407357 | [407357-juno-and-hope-destroy-capitalism.json](./407357-juno-and-hope-destroy-capitalism.json) |
 | Juno Markev | 112235 | [112235-juno-markev.json](./112235-juno-markev.json) |
 | Juno Nemesis Remix | 73279 | [73279-juno-nemesis-remix.json](./73279-juno-nemesis-remix.json) |
