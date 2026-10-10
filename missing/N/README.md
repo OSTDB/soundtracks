@@ -948,6 +948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Near Mint | 399599 | [399599-near-mint.json](./399599-near-mint.json) |
 | Near Site | 189042 | [189042-near-site.json](./189042-near-site.json) |
 | Near Sol | 220629 | [220629-near-sol.json](./220629-near-sol.json) |
+| Near the Sun: Chapter 1 | 331910 | [331910-near-the-sun-chapter-1.json](./331910-near-the-sun-chapter-1.json) |
 | Near-Death-Expedition | 329233 | [329233-near-death-expedition.json](./329233-near-death-expedition.json) |
 | Near-Mage + Gibbous: The Kittehverse | 403584 | [403584-near-mage-gibbous-the-kittehverse.json](./403584-near-mage-gibbous-the-kittehverse.json) |
 | Near-Mage: Clothes & Hair Pack | 403585 | [403585-near-mage-clothes-and-hair-pack.json](./403585-near-mage-clothes-and-hair-pack.json) |
