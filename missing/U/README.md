@@ -343,6 +343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Front | 255142 | [255142-ultimate-front.json](./255142-ultimate-front.json) |
 | Ultimate Gamepak | 273907 | [273907-ultimate-gamepak.json](./273907-ultimate-gamepak.json) |
 | Ultimate Gem | 259537 | [259537-ultimate-gem.json](./259537-ultimate-gem.json) |
+| Ultimate General: American Revolution - Premium Edition | 304390 | [304390-ultimate-general-american-revolution-premium-edition.json](./304390-ultimate-general-american-revolution-premium-edition.json) |
 | Ultimate General: Gettysburg | 8424 | [8424-ultimate-general-gettysburg.json](./8424-ultimate-general-gettysburg.json) |
 | Ultimate Godspeed | 202736 | [202736-ultimate-godspeed.json](./202736-ultimate-godspeed.json) |
 | Ultimate Goomboss Challenge | 300254 | [300254-ultimate-goomboss-challenge.json](./300254-ultimate-goomboss-challenge.json) |
