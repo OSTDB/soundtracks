@@ -6139,6 +6139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ghost Of Solaris | 396588 | [396588-the-ghost-of-solaris.json](./396588-the-ghost-of-solaris.json) |
 | The Ghost of Us | 313880 | [313880-the-ghost-of-us.json](./313880-the-ghost-of-us.json) |
 | The Ghost Ship | 111662 | [111662-the-ghost-ship.json](./111662-the-ghost-ship.json) |
+| The Ghost That Lives Inside My Piano | 326123 | [326123-the-ghost-that-lives-inside-my-piano.json](./326123-the-ghost-that-lives-inside-my-piano.json) |
 | The Ghost Town Adventure | 108284 | [108284-the-ghost-town-adventure.json](./108284-the-ghost-town-adventure.json) |
 | The Ghost Treasure | 327795 | [327795-the-ghost-treasure.json](./327795-the-ghost-treasure.json) |
 | The Ghost X: Sniper Simulator | 272445 | [272445-the-ghost-x-sniper-simulator.json](./272445-the-ghost-x-sniper-simulator.json) |
@@ -8747,6 +8748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Nights on Arcade | 267073 | [267073-the-nights-on-arcade.json](./267073-the-nights-on-arcade.json) |
 | The Nightshift Code | 16076 | [16076-the-nightshift-code.json](./16076-the-nightshift-code.json) |
 | The Nightwatch | 289977 | [289977-the-nightwatch.json](./289977-the-nightwatch.json) |
+| The Nine Rebirths | 326291 | [326291-the-nine-rebirths.json](./326291-the-nine-rebirths.json) |
 | The Ninja | 346067 | [346067-the-ninja.json](./346067-the-ninja.json) |
 | The Ninja Gaiden as Interpreted by MiniMacro Sound | 311650 | [311650-the-ninja-gaiden-as-interpreted-by-minimacro-sound.json](./311650-the-ninja-gaiden-as-interpreted-by-minimacro-sound.json) |
 | The Ninja of the 4 Seasons | 195518 | [195518-the-ninja-of-the-4-seasons.json](./195518-the-ninja-of-the-4-seasons.json) |
