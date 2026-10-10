@@ -1303,6 +1303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Card Crawl 2 | 404815 | [404815-card-crawl-2.json](./404815-card-crawl-2.json) |
 | Card Crunch | 105954 | [105954-card-crunch.json](./105954-card-crunch.json) |
 | Card Cultivation | 369080 | [369080-card-cultivation.json](./369080-card-cultivation.json) |
+| Card Cultivation: Nine Palaces Illusory Realm | 297916 | [297916-card-cultivation-nine-palaces-illusory-realm.json](./297916-card-cultivation-nine-palaces-illusory-realm.json) |
 | Card Draw | 334643 | [334643-card-draw.json](./334643-card-draw.json) |
 | Card Eater | 406051 | [406051-card-eater.json](./406051-card-eater.json) |
 | Card Escape: Plane Crash | 188113 | [188113-card-escape-plane-crash.json](./188113-card-escape-plane-crash.json) |
@@ -11264,6 +11265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystal Storm | 235194 | [235194-crystal-storm.json](./235194-crystal-storm.json) |
 | Crystal Story: Dawn of Dusk | 190972 | [190972-crystal-story-dawn-of-dusk.json](./190972-crystal-story-dawn-of-dusk.json) |
 | Crystal Story: The Hero and the Evil Witch | 133357 | [133357-crystal-story-the-hero-and-the-evil-witch.json](./133357-crystal-story-the-hero-and-the-evil-witch.json) |
+| Crystal Survivor | 297882 | [297882-crystal-survivor.json](./297882-crystal-survivor.json) |
 | Crystal Towers 2 XL | 46642 | [46642-crystal-towers-2-xl.json](./46642-crystal-towers-2-xl.json) |
 | Crystal Vale: Dino Escape | 387662 | [387662-crystal-vale-dino-escape.json](./387662-crystal-vale-dino-escape.json) |
 | Crystal Vein | 396000 | [396000-crystal-vein.json](./396000-crystal-vein.json) |
