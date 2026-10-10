@@ -2710,6 +2710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tentlan | 103434 | [103434-tentlan.json](./103434-tentlan.json) |
 | Tenuous:City | 230340 | [230340-tenuous-city.json](./230340-tenuous-city.json) |
 | Tenya Wanya Teens | 63667 | [63667-tenya-wanya-teens.json](./63667-tenya-wanya-teens.json) |
+| Teo 64 | 299564 | [299564-teo-64.json](./299564-teo-64.json) |
 | Teocalli | 134698 | [134698-teocalli.json](./134698-teocalli.json) |
 | Teocida | 144568 | [144568-teocida.json](./144568-teocida.json) |
 | Teocida + Estigma | 265712 | [265712-teocida-estigma.json](./265712-teocida-estigma.json) |
@@ -7760,6 +7761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Snow Maiden | 298598 | [298598-the-legend-of-snow-maiden.json](./298598-the-legend-of-snow-maiden.json) |
 | The Legend of Spyro: A New Beginning | 206652 | [206652-the-legend-of-spyro-a-new-beginning.json](./206652-the-legend-of-spyro-a-new-beginning.json) |
 | The Legend of Spyro: A New Beginning | 300392 | [300392-the-legend-of-spyro-a-new-beginning.json](./300392-the-legend-of-spyro-a-new-beginning.json) |
+| The Legend of Spyro: Dawn of the Dragon | 299540 | [299540-the-legend-of-spyro-dawn-of-the-dragon.json](./299540-the-legend-of-spyro-dawn-of-the-dragon.json) |
 | The Legend of Spyro: The Eternal Night | 300393 | [300393-the-legend-of-spyro-the-eternal-night.json](./300393-the-legend-of-spyro-the-eternal-night.json) |
 | The Legend of Studentenfutter | 185534 | [185534-the-legend-of-studentenfutter.json](./185534-the-legend-of-studentenfutter.json) |
 | The Legend of Sword and Fairy 4: Remake | 383008 | [383008-the-legend-of-sword-and-fairy-4-remake.json](./383008-the-legend-of-sword-and-fairy-4-remake.json) |
@@ -10497,6 +10499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Spectrum Soup | 183342 | [183342-the-spectrum-soup.json](./183342-the-spectrum-soup.json) |
 | The Spell | 113759 | [113759-the-spell.json](./113759-the-spell.json) |
 | The Spell Brigade | 297683 | [297683-the-spell-brigade.json](./297683-the-spell-brigade.json) |
+| The Spellbinding Kiss | 299534 | [299534-the-spellbinding-kiss.json](./299534-the-spellbinding-kiss.json) |
 | The Speris Legacy | 15565 | [15565-the-speris-legacy.json](./15565-the-speris-legacy.json) |
 | The Spewnicorn | 301249 | [301249-the-spewnicorn.json](./301249-the-spewnicorn.json) |
 | The Sphere | 407456 | [407456-the-sphere.json](./407456-the-sphere.json) |
@@ -12367,6 +12370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thinkin' Things Collection 2 | 70086 | [70086-thinkin-things-collection-2.json](./70086-thinkin-things-collection-2.json) |
 | Thinkin' Things Collection 3 | 78954 | [78954-thinkin-things-collection-3.json](./78954-thinkin-things-collection-3.json) |
 | Thinking Games 2 | 72064 | [72064-thinking-games-2.json](./72064-thinking-games-2.json) |
+| Thinking Of U: A Love Story | 299554 | [299554-thinking-of-u-a-love-story.json](./299554-thinking-of-u-a-love-story.json) |
 | Thinking of You Beyond Time | 328085 | [328085-thinking-of-you-beyond-time.json](./328085-thinking-of-you-beyond-time.json) |
 | Thinkrolls Kings & Queens | 101651 | [101651-thinkrolls-kings-and-queens.json](./101651-thinkrolls-kings-and-queens.json) |
 | Thinkrolls Space | 119571 | [119571-thinkrolls-space.json](./119571-thinkrolls-space.json) |
@@ -15006,6 +15010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toaster Defense | 157144 | [157144-toaster-defense.json](./157144-toaster-defense.json) |
 | Toasterball | 111301 | [111301-toasterball.json](./111301-toasterball.json) |
 | Toasterball + Buissons Bundle | 276951 | [276951-toasterball-buissons-bundle.json](./276951-toasterball-buissons-bundle.json) |
+| Toasterdog in Dreamworld | 299558 | [299558-toasterdog-in-dreamworld.json](./299558-toasterdog-in-dreamworld.json) |
 | Toastling | 192321 | [192321-toastling.json](./192321-toastling.json) |
 | Toasty: Ashes of Dusk | 144275 | [144275-toasty-ashes-of-dusk.json](./144275-toasty-ashes-of-dusk.json) |
 | Toazzle | 90856 | [90856-toazzle.json](./90856-toazzle.json) |
@@ -18354,6 +18359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trapped on Monster Island | 116507 | [116507-trapped-on-monster-island.json](./116507-trapped-on-monster-island.json) |
 | Trapped Summoner | 38495 | [38495-trapped-summoner.json](./38495-trapped-summoner.json) |
 | Trapped Summoner: Taigren's Secrets | 172194 | [172194-trapped-summoner-taigrens-secrets.json](./172194-trapped-summoner-taigrens-secrets.json) |
+| Trapped Terrors | 299535 | [299535-trapped-terrors.json](./299535-trapped-terrors.json) |
 | Trapped with Ivy & Piper | 385859 | [385859-trapped-with-ivy-and-piper.json](./385859-trapped-with-ivy-and-piper.json) |
 | Trapped with Jester | 215188 | [215188-trapped-with-jester.json](./215188-trapped-with-jester.json) |
 | Trapped Within | 28918 | [28918-trapped-within.json](./28918-trapped-within.json) |
@@ -19379,6 +19385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Truck Simulator 25 VR: American Driver | 353964 | [353964-truck-simulator-25-vr-american-driver.json](./353964-truck-simulator-25-vr-american-driver.json) |
 | Truck Simulator 3 | 231069 | [231069-truck-simulator-3.json](./231069-truck-simulator-3.json) |
 | Truck Simulator Big Rigs | 363941 | [363941-truck-simulator-big-rigs.json](./363941-truck-simulator-big-rigs.json) |
+| Truck Simulator Cargo Driver 2024: USA | 299525 | [299525-truck-simulator-cargo-driver-2024-usa.json](./299525-truck-simulator-cargo-driver-2024-usa.json) |
 | Truck Simulator Collection | 275886 | [275886-truck-simulator-collection.json](./275886-truck-simulator-collection.json) |
 | Truck Simulator Drive USA: EVO | 383516 | [383516-truck-simulator-drive-usa-evo.json](./383516-truck-simulator-drive-usa-evo.json) |
 | Truck Simulator Driver USA 2024 | 281048 | [281048-truck-simulator-driver-usa-2024.json](./281048-truck-simulator-driver-usa-2024.json) |
@@ -20233,6 +20240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twinora | 126636 | [126636-twinora.json](./126636-twinora.json) |
 | Twins & Dreams | 373223 | [373223-twins-and-dreams.json](./373223-twins-and-dreams.json) |
 | Twins Dash | 200028 | [200028-twins-dash.json](./200028-twins-dash.json) |
+| Twins Minigame | 299570 | [299570-twins-minigame.json](./299570-twins-minigame.json) |
 | Twins of Legacy: Elemental | 316850 | [316850-twins-of-legacy-elemental.json](./316850-twins-of-legacy-elemental.json) |
 | Twins of Olus | 279096 | [279096-twins-of-olus.json](./279096-twins-of-olus.json) |
 | Twins of the Pasture | 43130 | [43130-twins-of-the-pasture.json](./43130-twins-of-the-pasture.json) |
