@@ -688,6 +688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dangerous Streets / Wing Commander | 82504 | [82504-dangerous-streets-wing-commander.json](./82504-dangerous-streets-wing-commander.json) |
 | Dangerous Superheroes After Dark: Heroines Behind the Mask | 396131 | [396131-dangerous-superheroes-after-dark-heroines-behind-the-mask.json](./396131-dangerous-superheroes-after-dark-heroines-behind-the-mask.json) |
 | Dangerous Village Tradition | 273660 | [273660-dangerous-village-tradition.json](./273660-dangerous-village-tradition.json) |
+| Dangerous World | 300504 | [300504-dangerous-world.json](./300504-dangerous-world.json) |
 | Dangerous! Too Sweet!! | 148460 | [148460-dangerous-too-sweet.json](./148460-dangerous-too-sweet.json) |
 | DangerousPath | 369640 | [369640-dangerouspath.json](./369640-dangerouspath.json) |
 | Dangers Afloat | 176459 | [176459-dangers-afloat.json](./176459-dangers-afloat.json) |
@@ -1103,6 +1104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Return | 364016 | [364016-dark-return.json](./364016-dark-return.json) |
 | Dark Ride Escape | 310577 | [310577-dark-ride-escape.json](./310577-dark-ride-escape.json) |
 | Dark Rift | 3468 | [3468-dark-rift.json](./3468-dark-rift.json) |
+| Dark Roast Cafe | 300508 | [300508-dark-roast-cafe.json](./300508-dark-roast-cafe.json) |
 | Dark Roll | 112861 | [112861-dark-roll.json](./112861-dark-roll.json) |
 | Dark Romance: Ashville | 139798 | [139798-dark-romance-ashville.json](./139798-dark-romance-ashville.json) |
 | Dark Romance: Curse of Bluebeard - Collector's Edition | 146516 | [146516-dark-romance-curse-of-bluebeard-collectors-edition.json](./146516-dark-romance-curse-of-bluebeard-collectors-edition.json) |
@@ -9692,6 +9694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DreamCatcher: Reflections - Volume 1 | 154972 | [154972-dreamcatcher-reflections-volume-1.json](./154972-dreamcatcher-reflections-volume-1.json) |
 | Dreamcore: Playrooms | 347846 | [347846-dreamcore-playrooms.json](./347846-dreamcore-playrooms.json) |
 | Dreamcore95 Idle | 322138 | [322138-dreamcore95-idle.json](./322138-dreamcore95-idle.json) |
+| Dreamcutter: Steelbook Limited Edition | 300476 | [300476-dreamcutter-steelbook-limited-edition.json](./300476-dreamcutter-steelbook-limited-edition.json) |
 | DreamDayKi | 202355 | [202355-dreamdayki.json](./202355-dreamdayki.json) |
 | Dreamed | 217342 | [217342-dreamed.json](./217342-dreamed.json) |
 | Dreamed Away | 220745 | [220745-dreamed-away.json](./220745-dreamed-away.json) |
@@ -10967,6 +10970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Mercenaries | 309568 | [309568-dungeon-mercenaries.json](./309568-dungeon-mercenaries.json) |
 | Dungeon Merchant | 250872 | [250872-dungeon-merchant.json](./250872-dungeon-merchant.json) |
 | Dungeon Mori | 338000 | [338000-dungeon-mori.json](./338000-dungeon-mori.json) |
+| Dungeon Munchies: Deluxe Edition | 300483 | [300483-dungeon-munchies-deluxe-edition.json](./300483-dungeon-munchies-deluxe-edition.json) |
 | Dungeon Mutt | 386236 | [386236-dungeon-mutt.json](./386236-dungeon-mutt.json) |
 | Dungeon ni Seisoku Da! | 381695 | [381695-dungeon-ni-seisoku-da.json](./381695-dungeon-ni-seisoku-da.json) |
 | Dungeon Nightmares | 57070 | [57070-dungeon-nightmares.json](./57070-dungeon-nightmares.json) |
