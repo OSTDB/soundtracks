@@ -3317,6 +3317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantom Floor | 394178 | [394178-phantom-floor.json](./394178-phantom-floor.json) |
 | Phantom Fury | 218009 | [218009-phantom-fury.json](./218009-phantom-fury.json) |
 | Phantom Gear | 141108 | [141108-phantom-gear.json](./141108-phantom-gear.json) |
+| Phantom Girls: Ghostbuster | 279546 | [279546-phantom-girls-ghostbuster.json](./279546-phantom-girls-ghostbuster.json) |
 | Phantom Girls: Hellish Hospital | 297183 | [297183-phantom-girls-hellish-hospital.json](./297183-phantom-girls-hellish-hospital.json) |
 | Phantom Grid | 367974 | [367974-phantom-grid.json](./367974-phantom-grid.json) |
 | Phantom Halls | 27199 | [27199-phantom-halls.json](./27199-phantom-halls.json) |
@@ -5785,6 +5786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planetary Parfait | 293139 | [293139-planetary-parfait.json](./293139-planetary-parfait.json) |
 | Planetary Planter | 200517 | [200517-planetary-planter.json](./200517-planetary-planter.json) |
 | Planetary Settlers | 101340 | [101340-planetary-settlers.json](./101340-planetary-settlers.json) |
+| Planetary Taxi | 279558 | [279558-planetary-taxi.json](./279558-planetary-taxi.json) |
 | Planetation | 148978 | [148978-planetation.json](./148978-planetation.json) |
 | Planetbase | 13200 | [13200-planetbase.json](./13200-planetbase.json) |
 | Planetbound | 41926 | [41926-planetbound.json](./41926-planetbound.json) |
@@ -6590,6 +6592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poison Heart | 308242 | [308242-poison-heart.json](./308242-poison-heart.json) |
 | Poison Selection | 394551 | [394551-poison-selection.json](./394551-poison-selection.json) |
 | Poisoner | 110532 | [110532-poisoner.json](./110532-poisoner.json) |
+| Pok The Little Artiste | 279557 | [279557-pok-the-little-artiste.json](./279557-pok-the-little-artiste.json) |
 | Poka-poka Mama Koi Onsen: Mommy's Warm Hot Sprint | 288432 | [288432-poka-poka-mama-koi-onsen-mommys-warm-hot-sprint.json](./288432-poka-poka-mama-koi-onsen-mommys-warm-hot-sprint.json) |
 | Pokaboo | 197851 | [197851-pokaboo.json](./197851-pokaboo.json) |
 | Poké Everworld Online | 389447 | [389447-poke-everworld-online.json](./389447-poke-everworld-online.json) |
@@ -8290,6 +8293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power F1 | 93180 | [93180-power-f1.json](./93180-power-f1.json) |
 | Power Factory Featuring C+C Music Factory | 5420 | [5420-power-factory-featuring-c-c-music-factory.json](./5420-power-factory-featuring-c-c-music-factory.json) |
 | Power Fantasy | 258465 | [258465-power-fantasy.json](./258465-power-fantasy.json) |
+| Power Fantasy: Krampus Night | 279535 | [279535-power-fantasy-krampus-night.json](./279535-power-fantasy-krampus-night.json) |
 | Power Fighters | 79832 | [79832-power-fighters.json](./79832-power-fighters.json) |
 | Power For Young Inventors | 330363 | [330363-power-for-young-inventors.json](./330363-power-for-young-inventors.json) |
 | Power Gate | 42130 | [42130-power-gate.json](./42130-power-gate.json) |
