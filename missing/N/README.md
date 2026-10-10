@@ -2701,6 +2701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Shift | 311609 | [311609-night-shift.json](./311609-night-shift.json) |
 | Night Shift at the Gym | 373358 | [373358-night-shift-at-the-gym.json](./373358-night-shift-at-the-gym.json) |
 | Night Shift Customer | 372599 | [372599-night-shift-customer.json](./372599-night-shift-customer.json) |
+| Night Shift Dissonance | 297349 | [297349-night-shift-dissonance.json](./297349-night-shift-dissonance.json) |
 | Night Shift Nightmare | 395794 | [395794-night-shift-nightmare.json](./395794-night-shift-nightmare.json) |
 | Night Shift Nurses | 320234 | [320234-night-shift-nurses.json](./320234-night-shift-nurses.json) |
 | Night Shift: 1999 | 366829 | [366829-night-shift-1999.json](./366829-night-shift-1999.json) |
@@ -2785,6 +2786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightingale: Realms Rebuilt | 314408 | [314408-nightingale-realms-rebuilt.json](./314408-nightingale-realms-rebuilt.json) |
 | Nightlatch: Haunted House | 414411 | [414411-nightlatch-haunted-house.json](./414411-nightlatch-haunted-house.json) |
 | Nightlife | 262308 | [262308-nightlife.json](./262308-nightlife.json) |
+| Nightlife: Vista | 297359 | [297359-nightlife-vista.json](./297359-nightlife-vista.json) |
 | Nightline | 132031 | [132031-nightline.json](./132031-nightline.json) |
 | Nightlings | 338862 | [338862-nightlings.json](./338862-nightlings.json) |
 | Nightly Hobo | 321463 | [321463-nightly-hobo.json](./321463-nightly-hobo.json) |
