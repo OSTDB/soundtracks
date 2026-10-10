@@ -943,6 +943,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AA Soldiers | 367759 | [367759-aa-soldiers.json](./367759-aa-soldiers.json) |
 | Aa! Megami-sama | 78087 | [78087-aa-megami-sama.json](./78087-aa-megami-sama.json) |
 | AAA | 377417 | [377417-aaa.json](./377417-aaa.json) |
+| AAA Clock 2: Color Set 1 | 314584 | [314584-aaa-clock-2-color-set-1.json](./314584-aaa-clock-2-color-set-1.json) |
+| AAA Clock 2: Color Set 3 | 314586 | [314586-aaa-clock-2-color-set-3.json](./314586-aaa-clock-2-color-set-3.json) |
+| AAA Clock 2: Color Set 4 | 314587 | [314587-aaa-clock-2-color-set-4.json](./314587-aaa-clock-2-color-set-4.json) |
+| AAA Clock 2: Color Set 5 | 314588 | [314588-aaa-clock-2-color-set-5.json](./314588-aaa-clock-2-color-set-5.json) |
+| AAA Clock 2: Deluxe Edition | 314595 | [314595-aaa-clock-2-deluxe-edition.json](./314595-aaa-clock-2-deluxe-edition.json) |
+| AAA Clock 2: Extended Edition | 314593 | [314593-aaa-clock-2-extended-edition.json](./314593-aaa-clock-2-extended-edition.json) |
+| AAA Clock 2: Jelly Clock | 314589 | [314589-aaa-clock-2-jelly-clock.json](./314589-aaa-clock-2-jelly-clock.json) |
+| AAA Clock 2: Premium Edition | 314591 | [314591-aaa-clock-2-premium-edition.json](./314591-aaa-clock-2-premium-edition.json) |
+| AAA Clock 2: Ultimate Edition | 314594 | [314594-aaa-clock-2-ultimate-edition.json](./314594-aaa-clock-2-ultimate-edition.json) |
+| AAA Clock 2: Vulca Clock | 314590 | [314590-aaa-clock-2-vulca-clock.json](./314590-aaa-clock-2-vulca-clock.json) |
 | AAA Clock: Extreme Premium | 304762 | [304762-aaa-clock-extreme-premium.json](./304762-aaa-clock-extreme-premium.json) |
 | Aaaaaaaaaaaaaaaaaaaaaaaa!!! Remastered | 219696 | [219696-aaaaaaaaaaaaaaaaaaaaaaaa-remastered.json](./219696-aaaaaaaaaaaaaaaaaaaaaaaa-remastered.json) |
 | AaaaaAAaaaAAAaaAAAAaAAAAA!!!: A Reckless Disregard for Gravity | 6286 | [6286-aaaaaaaaaaaaaaaaaaaaaaaaa-a-reckless-disregard-for-gravity.json](./6286-aaaaaaaaaaaaaaaaaaaaaaaaa-a-reckless-disregard-for-gravity.json) |
@@ -2255,6 +2265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aether | 280472 | [280472-aether.json](./280472-aether.json) |
 | Aether & Iron | 335238 | [335238-aether-and-iron.json](./335238-aether-and-iron.json) |
 | Aether Crown | 405616 | [405616-aether-crown.json](./405616-aether-crown.json) |
+| Aether Diving | 314598 | [314598-aether-diving.json](./314598-aether-diving.json) |
 | Aether Drift | 108046 | [108046-aether-drift.json](./108046-aether-drift.json) |
 | Aether Effect | 357787 | [357787-aether-effect.json](./357787-aether-effect.json) |
 | Aether Hexxen: Death-Space Requiem Act1 | 379571 | [379571-aether-hexxen-death-space-requiem-act1.json](./379571-aether-hexxen-death-space-requiem-act1.json) |
@@ -6685,6 +6696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aperture Narbacular | 341038 | [341038-aperture-narbacular.json](./341038-aperture-narbacular.json) |
 | Aperture: Salt Mines | 284366 | [284366-aperture-salt-mines.json](./284366-aperture-salt-mines.json) |
 | Apes At Sea | 254022 | [254022-apes-at-sea.json](./254022-apes-at-sea.json) |
+| Apes vs. Zombies | 314596 | [314596-apes-vs-zombies.json](./314596-apes-vs-zombies.json) |
 | Apes Warfare | 374123 | [374123-apes-warfare.json](./374123-apes-warfare.json) |
 | Apes.io | 240311 | [240311-apes-io.json](./240311-apes-io.json) |
 | Apewar | 241939 | [241939-apewar.json](./241939-apewar.json) |
@@ -8562,6 +8574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Artifact Hunter | 156036 | [156036-artifact-hunter.json](./156036-artifact-hunter.json) |
 | Artifact Red-X | 63365 | [63365-artifact-red-x.json](./63365-artifact-red-x.json) |
 | Artifact Run | 384534 | [384534-artifact-run.json](./384534-artifact-run.json) |
+| Artifact Seeker: DLC 1 - The Legacy of Mortia | 314624 | [314624-artifact-seeker-dlc-1-the-legacy-of-mortia.json](./314624-artifact-seeker-dlc-1-the-legacy-of-mortia.json) |
 | Artifact Seeker: Legend of Aurorium | 260298 | [260298-artifact-seeker-legend-of-aurorium.json](./260298-artifact-seeker-legend-of-aurorium.json) |
 | Artifact Seekers | 366306 | [366306-artifact-seekers.json](./366306-artifact-seekers.json) |
 | Artifacting | 151608 | [151608-artifacting.json](./151608-artifacting.json) |
@@ -8996,6 +9009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin’s Creed Mirage: Master Assassin Edition | 276451 | [276451-assassin-s-creed-mirage-master-assassin-edition.json](./276451-assassin-s-creed-mirage-master-assassin-edition.json) |
 | Assassin's Creed Mirage: Master Assassin Pack | 360516 | [360516-assassins-creed-mirage-master-assassin-pack.json](./360516-assassins-creed-mirage-master-assassin-pack.json) |
 | Assassin's Creed Mirage: Master Assassin Upgrade Bundle 1 | 360572 | [360572-assassins-creed-mirage-master-assassin-upgrade-bundle-1.json](./360572-assassins-creed-mirage-master-assassin-upgrade-bundle-1.json) |
+| Assassin's Creed Mirage: The Forty Thieves | 314612 | [314612-assassins-creed-mirage-the-forty-thieves.json](./314612-assassins-creed-mirage-the-forty-thieves.json) |
 | Assassin's Creed Mythology Pack | 218994 | [218994-assassins-creed-mythology-pack.json](./218994-assassins-creed-mythology-pack.json) |
 | Assassin's Creed Odyssey: Legacy of the First Blade | 112732 | [112732-assassins-creed-odyssey-legacy-of-the-first-blade.json](./112732-assassins-creed-odyssey-legacy-of-the-first-blade.json) |
 | Assassin's Creed Odyssey: The Blind King | 241432 | [241432-assassins-creed-odyssey-the-blind-king.json](./241432-assassins-creed-odyssey-the-blind-king.json) |
