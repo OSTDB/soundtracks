@@ -374,6 +374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lala the Magical | 48298 | [48298-lala-the-magical.json](./48298-lala-the-magical.json) |
 | Lalaloopsy Diner | 68911 | [68911-lalaloopsy-diner.json](./68911-lalaloopsy-diner.json) |
 | Lalaloopsy: Sew Magical! Sew Cute! | 113888 | [113888-lalaloopsy-sew-magical-sew-cute.json](./113888-lalaloopsy-sew-magical-sew-cute.json) |
+| Lalli | 311161 | [311161-lalli.json](./311161-lalli.json) |
 | Lama Drama FPS | 122370 | [122370-lama-drama-fps.json](./122370-lama-drama-fps.json) |
 | Lamafox - Hide and Seek! | 200499 | [200499-lamafox-hide-and-seek.json](./200499-lamafox-hide-and-seek.json) |
 | Lamb Chop & Friends | 198796 | [198796-lamb-chop-and-friends.json](./198796-lamb-chop-and-friends.json) |
@@ -2947,6 +2948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Light, Dark or Hrak? | 192259 | [192259-light-dark-or-hrak.json](./192259-light-dark-or-hrak.json) |
 | Light, Wax, Shadow, Wick | 142148 | [142148-light-wax-shadow-wick.json](./142148-light-wax-shadow-wick.json) |
 | Light: Black Cat & Amnesia Girl | 188465 | [188465-light-black-cat-and-amnesia-girl.json](./188465-light-black-cat-and-amnesia-girl.json) |
+| Light: Die to Survive | 311222 | [311222-light-die-to-survive.json](./311222-light-die-to-survive.json) |
 | Light: Path of the Archmage | 392136 | [392136-light-path-of-the-archmage.json](./392136-light-path-of-the-archmage.json) |
 | Light: Rebirth-The falsehood | 53274 | [53274-light-rebirth-the-falsehood.json](./53274-light-rebirth-the-falsehood.json) |
 | Light'em Up: For brainiacs only | 232495 | [232495-lightem-up-for-brainiacs-only.json](./232495-lightem-up-for-brainiacs-only.json) |
@@ -3055,6 +3057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Like A Dino! | 212495 | [212495-like-a-dino.json](./212495-like-a-dino.json) |
 | Like a Dragon Gaiden: The Man Who Erased His Name | 217624 | [217624-like-a-dragon-gaiden-the-man-who-erased-his-name.json](./217624-like-a-dragon-gaiden-the-man-who-erased-his-name.json) |
 | Like a Dragon Gaiden: The Man Who Erased His Name - Deluxe Edition | 275808 | [275808-like-a-dragon-gaiden-the-man-who-erased-his-name-deluxe-edition.json](./275808-like-a-dragon-gaiden-the-man-who-erased-his-name-deluxe-edition.json) |
+| Like a Dragon Series Starter Pack | 311046 | [311046-like-a-dragon-series-starter-pack.json](./311046-like-a-dragon-series-starter-pack.json) |
 | Like a Dragon: Infinite Wealth - Assorted Outfit Bundle | 288216 | [288216-like-a-dragon-infinite-wealth-assorted-outfit-bundle.json](./288216-like-a-dragon-infinite-wealth-assorted-outfit-bundle.json) |
 | Like a Dragon: Infinite Wealth - Master Vacation Bundle | 288217 | [288217-like-a-dragon-infinite-wealth-master-vacation-bundle.json](./288217-like-a-dragon-infinite-wealth-master-vacation-bundle.json) |
 | Like a Dragon: Infinite Wealth - Special Job Set | 288219 | [288219-like-a-dragon-infinite-wealth-special-job-set.json](./288219-like-a-dragon-infinite-wealth-special-job-set.json) |
@@ -3602,6 +3605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Fighters on Stream | 146528 | [146528-little-fighters-on-stream.json](./146528-little-fighters-on-stream.json) |
 | Little Fire Girl Fights Final Boss | 298673 | [298673-little-fire-girl-fights-final-boss.json](./298673-little-fire-girl-fights-final-boss.json) |
 | Little Fish Seek to Live On | 370189 | [370189-little-fish-seek-to-live-on.json](./370189-little-fish-seek-to-live-on.json) |
+| Little Fish Swims On | 311213 | [311213-little-fish-swims-on.json](./311213-little-fish-swims-on.json) |
 | Little Folk of Faery | 356212 | [356212-little-folk-of-faery.json](./356212-little-folk-of-faery.json) |
 | Little Fox: Bubble Spinner | 296074 | [296074-little-fox-bubble-spinner.json](./296074-little-fox-bubble-spinner.json) |
 | Little Friends: Dogs & Cats | 110337 | [110337-little-friends-dogs-and-cats.json](./110337-little-friends-dogs-and-cats.json) |
