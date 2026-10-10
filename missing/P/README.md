@@ -5242,6 +5242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Survivors: Defense | 374632 | [374632-pixel-survivors-defense.json](./374632-pixel-survivors-defense.json) |
 | Pixel Sweepers | 259244 | [259244-pixel-sweepers.json](./259244-pixel-sweepers.json) |
 | Pixel Tactics Online | 148131 | [148131-pixel-tactics-online.json](./148131-pixel-tactics-online.json) |
+| Pixel Tennis | 301077 | [301077-pixel-tennis.json](./301077-pixel-tennis.json) |
 | Pixel Texas Hold'em | 407545 | [407545-pixel-texas-holdem.json](./407545-pixel-texas-holdem.json) |
 | Pixel Theory: Leviatán | 325711 | [325711-pixel-theory-leviatan.json](./325711-pixel-theory-leviatan.json) |
 | Pixel Top Down Shooter | 176345 | [176345-pixel-top-down-shooter.json](./176345-pixel-top-down-shooter.json) |
@@ -7486,6 +7487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pond Party | 364687 | [364687-pond-party.json](./364687-pond-party.json) |
 | Pond Scum | 157091 | [157091-pond-scum.json](./157091-pond-scum.json) |
 | Pondemonium | 372057 | [372057-pondemonium.json](./372057-pondemonium.json) |
+| Ponder | 301096 | [301096-ponder.json](./301096-ponder.json) |
 | Ponder Club | 394542 | [394542-ponder-club.json](./394542-ponder-club.json) |
 | Pondlife | 384543 | [384543-pondlife.json](./384543-pondlife.json) |
 | Pong | 198869 | [198869-pong.json](./198869-pong.json) |
@@ -7778,6 +7780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poppin & Jupa: Pocket Adventure | 326853 | [326853-poppin-and-jupa-pocket-adventure.json](./326853-poppin-and-jupa-pocket-adventure.json) |
 | Poppin Bottles | 28099 | [28099-poppin-bottles.json](./28099-poppin-bottles.json) |
 | Poppin' Donuts | 157215 | [157215-poppin-donuts.json](./157215-poppin-donuts.json) |
+| Popping Bubble | 301086 | [301086-popping-bubble.json](./301086-popping-bubble.json) |
 | Poppit! Bingo | 354991 | [354991-poppit-bingo.json](./354991-poppit-bingo.json) |
 | Poppit! HD | 354992 | [354992-poppit-hd.json](./354992-poppit-hd.json) |
 | Poppit! Party | 354993 | [354993-poppit-party.json](./354993-poppit-party.json) |
@@ -9727,6 +9730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Re-Rainbow | 321785 | [321785-project-re-rainbow.json](./321785-project-re-rainbow.json) |
 | Project Reality | 315026 | [315026-project-reality.json](./315026-project-reality.json) |
 | Project Reality 2 | 2942 | [2942-project-reality-2.json](./2942-project-reality-2.json) |
+| Project Rebearth | 301075 | [301075-project-rebearth.json](./301075-project-rebearth.json) |
 | Project Rebirth | 325499 | [325499-project-rebirth.json](./325499-project-rebirth.json) |
 | Project Reboot | 345455 | [345455-project-reboot.json](./345455-project-reboot.json) |
 | Project Reborn | 192881 | [192881-project-reborn.json](./192881-project-reborn.json) |
