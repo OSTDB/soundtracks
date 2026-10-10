@@ -6668,6 +6668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Microsoft Golf 1999 Edition | 62240 | [62240-microsoft-golf-1999-edition.json](./62240-microsoft-golf-1999-edition.json) |
 | Microsoft Golf 2.0 | 21860 | [21860-microsoft-golf-2-0.json](./21860-microsoft-golf-2-0.json) |
 | Microsoft International Soccer 2000 | 72170 | [72170-microsoft-international-soccer-2000.json](./72170-microsoft-international-soccer-2000.json) |
+| Microsoft Jewel 2 | 317539 | [317539-microsoft-jewel-2.json](./317539-microsoft-jewel-2.json) |
 | Microsoft Minesweeper | 127494 | [127494-microsoft-minesweeper.json](./127494-microsoft-minesweeper.json) |
 | Microsoft Pinball Arcade | 249159 | [249159-microsoft-pinball-arcade.json](./249159-microsoft-pinball-arcade.json) |
 | Microsoft Rebound | 209515 | [209515-microsoft-rebound.json](./209515-microsoft-rebound.json) |
