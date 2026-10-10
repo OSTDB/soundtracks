@@ -3690,6 +3690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Straight Roads 2 | 347868 | [347868-no-straight-roads-2.json](./347868-no-straight-roads-2.json) |
 | No Straight Roads: Collector's Edition | 166225 | [166225-no-straight-roads-collectors-edition.json](./166225-no-straight-roads-collectors-edition.json) |
 | No Straight Roads: Encore Edition | 178093 | [178093-no-straight-roads-encore-edition.json](./178093-no-straight-roads-encore-edition.json) |
+| No Strings Attached | 289795 | [289795-no-strings-attached.json](./289795-no-strings-attached.json) |
 | No Such Place | 345447 | [345447-no-such-place.json](./345447-no-such-place.json) |
 | No Sun To Worship | 236015 | [236015-no-sun-to-worship.json](./236015-no-sun-to-worship.json) |
 | No Surrender Heroes | 287769 | [287769-no-surrender-heroes.json](./287769-no-surrender-heroes.json) |
