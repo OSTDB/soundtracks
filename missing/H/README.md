@@ -2233,6 +2233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heavy Metal | 46797 | [46797-heavy-metal.json](./46797-heavy-metal.json) |
 | Heavy Metal Death Can | 386835 | [386835-heavy-metal-death-can.json](./386835-heavy-metal-death-can.json) |
 | Heavy Metal Machines | 36171 | [36171-heavy-metal-machines.json](./36171-heavy-metal-machines.json) |
+| Heavy Metal Paradroid | 296216 | [296216-heavy-metal-paradroid.json](./296216-heavy-metal-paradroid.json) |
 | Heavy Metal Thunder | 56142 | [56142-heavy-metal-thunder.json](./56142-heavy-metal-thunder.json) |
 | Heavy Metal Titans | 252256 | [252256-heavy-metal-titans.json](./252256-heavy-metal-titans.json) |
 | Heavy Metal: Geomatrix | 45854 | [45854-heavy-metal-geomatrix.json](./45854-heavy-metal-geomatrix.json) |
@@ -5331,6 +5332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holiday in Europe: Czech Adventure - Collector's Edition | 344413 | [344413-holiday-in-europe-czech-adventure-collectors-edition.json](./344413-holiday-in-europe-czech-adventure-collectors-edition.json) |
 | Holiday in Europe: Netherlands Dreams - Collector's Edition | 362852 | [362852-holiday-in-europe-netherlands-dreams-collectors-edition.json](./362852-holiday-in-europe-netherlands-dreams-collectors-edition.json) |
 | Holiday in Europe: Wonders of Germany - Collector's Edition | 340477 | [340477-holiday-in-europe-wonders-of-germany-collectors-edition.json](./340477-holiday-in-europe-wonders-of-germany-collectors-edition.json) |
+| Holiday Jigsaw Easter 4 | 296208 | [296208-holiday-jigsaw-easter-4.json](./296208-holiday-jigsaw-easter-4.json) |
 | Holiday Jigsaw Valentines Day | 54087 | [54087-holiday-jigsaw-valentines-day.json](./54087-holiday-jigsaw-valentines-day.json) |
 | Holiday Jigsaw: Christmas 2 | 215684 | [215684-holiday-jigsaw-christmas-2.json](./215684-holiday-jigsaw-christmas-2.json) |
 | Holiday Jigsaw: Thanksgiving Day | 192169 | [192169-holiday-jigsaw-thanksgiving-day.json](./192169-holiday-jigsaw-thanksgiving-day.json) |
