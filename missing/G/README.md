@@ -4091,6 +4091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Good Bear | 219803 | [219803-good-bear.json](./219803-good-bear.json) |
 | Good Boy | 229329 | [229329-good-boy.json](./229329-good-boy.json) |
 | Good Boy 2 | 229330 | [229330-good-boy-2.json](./229330-good-boy-2.json) |
+| Good Boy Simulator | 323424 | [323424-good-boy-simulator.json](./323424-good-boy-simulator.json) |
 | Good Boy The Long Night | 356888 | [356888-good-boy-the-long-night.json](./356888-good-boy-the-long-night.json) |
 | Good Boy! | 99629 | [99629-good-boy.json](./99629-good-boy.json) |
 | Good Bye Rebeca | 151573 | [151573-good-bye-rebeca.json](./151573-good-bye-rebeca.json) |
