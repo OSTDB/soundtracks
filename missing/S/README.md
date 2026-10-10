@@ -8509,6 +8509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slobbish Dragon Princess | 153459 | [153459-slobbish-dragon-princess.json](./153459-slobbish-dragon-princess.json) |
 | Slobbish Dragon Princess 3 | 240480 | [240480-slobbish-dragon-princess-3.json](./240480-slobbish-dragon-princess-3.json) |
 | Slobbish Dragon Princess Love + Plus | 153460 | [153460-slobbish-dragon-princess-love-plus.json](./153460-slobbish-dragon-princess-love-plus.json) |
+| Slonderman | 288119 | [288119-slonderman.json](./288119-slonderman.json) |
 | Sloomy | 251658 | [251658-sloomy.json](./251658-sloomy.json) |
 | Slop Simulator | 394773 | [394773-slop-simulator.json](./394773-slop-simulator.json) |
 | Slope | 101945 | [101945-slope.json](./101945-slope.json) |
@@ -13262,6 +13263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spelunky 2 | 75239 | [75239-spelunky-2.json](./75239-spelunky-2.json) |
 | Spelunky64 | 316126 | [316126-spelunky64.json](./316126-spelunky64.json) |
 | Spencer | 90124 | [90124-spencer.json](./90124-spencer.json) |
+| Spend the Night with Kitty | 288122 | [288122-spend-the-night-with-kitty.json](./288122-spend-the-night-with-kitty.json) |
 | Spent | 174177 | [174177-spent.json](./174177-spent.json) |
 | Sperm Into Labia | 310742 | [310742-sperm-into-labia.json](./310742-sperm-into-labia.json) |
 | Sperma | 232698 | [232698-sperma.json](./232698-sperma.json) |
@@ -17462,6 +17464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Girls | 296991 | [296991-street-girls.json](./296991-street-girls.json) |
 | Street Gods | 360774 | [360774-street-gods.json](./360774-street-gods.json) |
 | Street Heat | 40434 | [40434-street-heat.json](./40434-street-heat.json) |
+| Street Hero | 288129 | [288129-street-hero.json](./288129-street-hero.json) |
 | Street Heroes | 107814 | [107814-street-heroes.json](./107814-street-heroes.json) |
 | Street Heroes | 48567 | [48567-street-heroes.json](./48567-street-heroes.json) |
 | Street Hoops | 242807 | [242807-street-hoops.json](./242807-street-hoops.json) |
@@ -20918,6 +20921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supermodel Gail McKenna | 254502 | [254502-supermodel-gail-mckenna.json](./254502-supermodel-gail-mckenna.json) |
 | SuperModels Go Wild | 58031 | [58031-supermodels-go-wild.json](./58031-supermodels-go-wild.json) |
 | SuperMoose | 30757 | [30757-supermoose.json](./30757-supermoose.json) |
+| Supermotor | 288132 | [288132-supermotor.json](./288132-supermotor.json) |
 | Supermoves: World of Parkour | 280450 | [280450-supermoves-world-of-parkour.json](./280450-supermoves-world-of-parkour.json) |
 | Supermrket: El Videojuego de Gestión de Supermercado | 339308 | [339308-supermrket-el-videojuego-de-gestion-de-supermercado.json](./339308-supermrket-el-videojuego-de-gestion-de-supermercado.json) |
 | Supermurgitroid | 270884 | [270884-supermurgitroid.json](./270884-supermurgitroid.json) |
