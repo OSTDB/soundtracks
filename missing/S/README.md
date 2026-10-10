@@ -1468,6 +1468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Save Our Solar System | 243055 | [243055-save-our-solar-system.json](./243055-save-our-solar-system.json) |
 | Save Our Spirit | 206662 | [206662-save-our-spirit.json](./206662-save-our-spirit.json) |
 | Save Santa | 219611 | [219611-save-santa.json](./219611-save-santa.json) |
+| Save Scream and Run | 319279 | [319279-save-scream-and-run.json](./319279-save-scream-and-run.json) |
 | Save Snegurochka | 99021 | [99021-save-snegurochka.json](./99021-save-snegurochka.json) |
 | Save The Babies | 335260 | [335260-save-the-babies.json](./335260-save-the-babies.json) |
 | Save The Bear Cubs | 367564 | [367564-save-the-bear-cubs.json](./367564-save-the-bear-cubs.json) |
@@ -6420,6 +6421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Storm: Sentinels | 10845 | [10845-silent-storm-sentinels.json](./10845-silent-storm-sentinels.json) |
 | Silent Streets: Mockingbird | 109511 | [109511-silent-streets-mockingbird.json](./109511-silent-streets-mockingbird.json) |
 | Silent Streets: The Mockingbird's Last Dive | 110290 | [110290-silent-streets-the-mockingbirds-last-dive.json](./110290-silent-streets-the-mockingbirds-last-dive.json) |
+| Silent Surveillance | 319275 | [319275-silent-surveillance.json](./319275-silent-surveillance.json) |
 | Silent Survivor: Under the Crisis | 351760 | [351760-silent-survivor-under-the-crisis.json](./351760-silent-survivor-under-the-crisis.json) |
 | Silent Threat | 311259 | [311259-silent-threat.json](./311259-silent-threat.json) |
 | Silent Thunder: A-10 Tank Killer II | 871 | [871-silent-thunder-a-10-tank-killer-ii.json](./871-silent-thunder-a-10-tank-killer-ii.json) |
@@ -17734,6 +17736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Submarine | 346083 | [346083-submarine.json](./346083-submarine.json) |
 | Submarine Adventure | 133233 | [133233-submarine-adventure.json](./133233-submarine-adventure.json) |
 | Submarine Attack | 46120 | [46120-submarine-attack.json](./46120-submarine-attack.json) |
+| Submarine Bubble | 319299 | [319299-submarine-bubble.json](./319299-submarine-bubble.json) |
 | Submarine Car Diving Simulator | 95593 | [95593-submarine-car-diving-simulator.json](./95593-submarine-car-diving-simulator.json) |
 | Submarine Commander | 130269 | [130269-submarine-commander.json](./130269-submarine-commander.json) |
 | Submarine Dash | 56762 | [56762-submarine-dash.json](./56762-submarine-dash.json) |
@@ -18304,6 +18307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summer Sports Games: 4K Edition | 173168 | [173168-summer-sports-games-4k-edition.json](./173168-summer-sports-games-4k-edition.json) |
 | Summer Sports Party | 23261 | [23261-summer-sports-party.json](./23261-summer-sports-party.json) |
 | Summer Stars 2012 | 20233 | [20233-summer-stars-2012.json](./20233-summer-stars-2012.json) |
+| Summer Tri-Peaks Solitaire | 319300 | [319300-summer-tri-peaks-solitaire.json](./319300-summer-tri-peaks-solitaire.json) |
 | Summer Trip Cruise | 212823 | [212823-summer-trip-cruise.json](./212823-summer-trip-cruise.json) |
 | Summer Vacation | 221405 | [221405-summer-vacation.json](./221405-summer-vacation.json) |
 | Summer Valley Hike | 255267 | [255267-summer-valley-hike.json](./255267-summer-valley-hike.json) |
@@ -22071,6 +22075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SynthVR | 145267 | [145267-synthvr.json](./145267-synthvr.json) |
 | Synthwave Ascension | 265117 | [265117-synthwave-ascension.json](./265117-synthwave-ascension.json) |
 | Synthwave Driver | 344387 | [344387-synthwave-driver.json](./344387-synthwave-driver.json) |
+| Synthwave Escape | 319296 | [319296-synthwave-escape.json](./319296-synthwave-escape.json) |
 | Synthwave Glider | 224604 | [224604-synthwave-glider.json](./224604-synthwave-glider.json) |
 | Synthwave Hop | 172198 | [172198-synthwave-hop.json](./172198-synthwave-hop.json) |
 | Synthwave Racers | 197218 | [197218-synthwave-racers.json](./197218-synthwave-racers.json) |
