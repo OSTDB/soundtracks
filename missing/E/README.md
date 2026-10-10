@@ -2990,6 +2990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Error: Ai.lien | 376274 | [376274-error-ai-lien.json](./376274-error-ai-lien.json) |
 | Error: Girlfriend Not Found | 406289 | [406289-error-girlfriend-not-found.json](./406289-error-girlfriend-not-found.json) |
 | Error: Slasher Alert | 176251 | [176251-error-slasher-alert.json](./176251-error-slasher-alert.json) |
+| Error422 | 280743 | [280743-error422.json](./280743-error422.json) |
 | Ersatz | 59238 | [59238-ersatz.json](./59238-ersatz.json) |
 | Erst Kerf | 130906 | [130906-erst-kerf.json](./130906-erst-kerf.json) |
 | Erth | 134673 | [134673-erth.json](./134673-erth.json) |
@@ -3672,6 +3673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal Poison | 21334 | [21334-eternal-poison.json](./21334-eternal-poison.json) |
 | Eternal Puppet | 291394 | [291394-eternal-puppet.json](./291394-eternal-puppet.json) |
 | Eternal Quest | 43353 | [43353-eternal-quest.json](./43353-eternal-quest.json) |
+| Eternal Realm | 280723 | [280723-eternal-realm.json](./280723-eternal-realm.json) |
 | Eternal Reckoning | 287733 | [287733-eternal-reckoning.json](./287733-eternal-reckoning.json) |
 | Eternal Refresh | 419948 | [419948-eternal-refresh.json](./419948-eternal-refresh.json) |
 | Eternal Return | 135842 | [135842-eternal-return.json](./135842-eternal-return.json) |
