@@ -2956,6 +2956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Petadachi | 225876 | [225876-petadachi.json](./225876-petadachi.json) |
 | Petal by Petal | 390196 | [390196-petal-by-petal.json](./390196-petal-by-petal.json) |
 | Petal Crash | 139293 | [139293-petal-crash.json](./139293-petal-crash.json) |
+| Petal Crash 2 | 329600 | [329600-petal-crash-2.json](./329600-petal-crash-2.json) |
 | Petals of the Star Curtain | 153331 | [153331-petals-of-the-star-curtain.json](./153331-petals-of-the-star-curtain.json) |
 | Petals to Petals | 364384 | [364384-petals-to-petals.json](./364384-petals-to-petals.json) |
 | Pétanque 2026 | 401828 | [401828-petanque-2026.json](./401828-petanque-2026.json) |
@@ -5465,6 +5466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plandzz | 51737 | [51737-plandzz.json](./51737-plandzz.json) |
 | Plane and Simple | 143108 | [143108-plane-and-simple.json](./143108-plane-and-simple.json) |
 | Plane Balance | 372787 | [372787-plane-balance.json](./372787-plane-balance.json) |
+| Plane Destroyer | 329627 | [329627-plane-destroyer.json](./329627-plane-destroyer.json) |
 | Plane Master | 232691 | [232691-plane-master.json](./232691-plane-master.json) |
 | Plane Racer | 230296 | [230296-plane-racer.json](./230296-plane-racer.json) |
 | Plane Starship: Galactic Frontline | 278104 | [278104-plane-starship-galactic-frontline.json](./278104-plane-starship-galactic-frontline.json) |
@@ -5755,6 +5757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plasmatron | 53165 | [53165-plasmatron.json](./53165-plasmatron.json) |
 | Plasmaworm | 93052 | [93052-plasmaworm.json](./93052-plasmaworm.json) |
 | Plasmoid | 126980 | [126980-plasmoid.json](./126980-plasmoid.json) |
+| Plasmorphosis | 329537 | [329537-plasmorphosis.json](./329537-plasmorphosis.json) |
 | Plaster World | 57067 | [57067-plaster-world.json](./57067-plaster-world.json) |
 | Plastic Battlegrounds | 363959 | [363959-plastic-battlegrounds.json](./363959-plastic-battlegrounds.json) |
 | Plastic Beach | 285599 | [285599-plastic-beach.json](./285599-plastic-beach.json) |
