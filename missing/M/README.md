@@ -732,6 +732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Kingdom War DLC-1 | 220609 | [220609-magic-kingdom-war-dlc-1.json](./220609-magic-kingdom-war-dlc-1.json) |
 | Magic Kingdom War DLC-2 | 220610 | [220610-magic-kingdom-war-dlc-2.json](./220610-magic-kingdom-war-dlc-2.json) |
 | Magic Klondike | 232561 | [232561-magic-klondike.json](./232561-magic-klondike.json) |
+| Magic Knight Grand Charion | 305482 | [305482-magic-knight-grand-charion.json](./305482-magic-knight-grand-charion.json) |
 | Magic Knight Rayearth | 38375 | [38375-magic-knight-rayearth.json](./38375-magic-knight-rayearth.json) |
 | Magic Knight Rayearth | 78959 | [78959-magic-knight-rayearth.json](./78959-magic-knight-rayearth.json) |
 | Magic Knight Rayearth 2: Making of Magic Knight | 45265 | [45265-magic-knight-rayearth-2-making-of-magic-knight.json](./45265-magic-knight-rayearth-2-making-of-magic-knight.json) |
@@ -8165,6 +8166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mirko Polo | 298564 | [298564-mirko-polo.json](./298564-mirko-polo.json) |
 | Mirlo Above the Sun | 152460 | [152460-mirlo-above-the-sun.json](./152460-mirlo-above-the-sun.json) |
 | Miro | 291051 | [291051-miro.json](./291051-miro.json) |
+| Miro and the Flower of Youth | 305483 | [305483-miro-and-the-flower-of-youth.json](./305483-miro-and-the-flower-of-youth.json) |
 | Miroh Jr. | 307885 | [307885-miroh-jr.json](./307885-miroh-jr.json) |
 | Mirror and Queen | 57501 | [57501-mirror-and-queen.json](./57501-mirror-and-queen.json) |
 | Mirror Broken | 215600 | [215600-mirror-broken.json](./215600-mirror-broken.json) |
