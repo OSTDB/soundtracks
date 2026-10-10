@@ -11058,6 +11058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mountaincore | 245932 | [245932-mountaincore.json](./245932-mountaincore.json) |
 | Mountaineer | 55712 | [55712-mountaineer.json](./55712-mountaineer.json) |
 | Mountains and Rivers scroll | 158100 | [158100-mountains-and-rivers-scroll.json](./158100-mountains-and-rivers-scroll.json) |
+| Mounted Knights Battle: Medieval Warrior Honor Simulator | 299524 | [299524-mounted-knights-battle-medieval-warrior-honor-simulator.json](./299524-mounted-knights-battle-medieval-warrior-honor-simulator.json) |
 | Mounted War | 336691 | [336691-mounted-war.json](./336691-mounted-war.json) |
 | Mountinuum | 285047 | [285047-mountinuum.json](./285047-mountinuum.json) |
 | Mountris | 341639 | [341639-mountris.json](./341639-mountris.json) |
@@ -12191,6 +12192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My 9 Swallows: Topstars League | 241525 | [241525-my-9-swallows-topstars-league.json](./241525-my-9-swallows-topstars-league.json) |
 | My Adaptation In(to) Human | 301348 | [301348-my-adaptation-in-to-human.json](./301348-my-adaptation-in-to-human.json) |
 | My Agent is a Futanari | 220676 | [220676-my-agent-is-a-futanari.json](./220676-my-agent-is-a-futanari.json) |
+| My Ambitious Girlfriend | 299522 | [299522-my-ambitious-girlfriend.json](./299522-my-ambitious-girlfriend.json) |
 | My Amusement Park | 47929 | [47929-my-amusement-park.json](./47929-my-amusement-park.json) |
 | My Angel | 217770 | [217770-my-angel.json](./217770-my-angel.json) |
 | My Anima Boy | 278731 | [278731-my-anima-boy.json](./278731-my-anima-boy.json) |
@@ -12693,6 +12695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Muppets Show | 230200 | [230200-my-muppets-show.json](./230200-my-muppets-show.json) |
 | My Music Label | 402410 | [402410-my-music-label.json](./402410-my-music-label.json) |
 | My Music Oasis | 287204 | [287204-my-music-oasis.json](./287204-my-music-oasis.json) |
+| My Musical Romance | 299537 | [299537-my-musical-romance.json](./299537-my-musical-romance.json) |
 | My Mystic Secretary | 254614 | [254614-my-mystic-secretary.json](./254614-my-mystic-secretary.json) |
 | My name is human | 153927 | [153927-my-name-is-human.json](./153927-my-name-is-human.json) |
 | My Name is Mayo | 33747 | [33747-my-name-is-mayo.json](./33747-my-name-is-mayo.json) |
@@ -12720,6 +12723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Night Sun All Games | 276308 | [276308-my-night-sun-all-games.json](./276308-my-night-sun-all-games.json) |
 | My Nights at Singing Monsters | 367563 | [367563-my-nights-at-singing-monsters.json](./367563-my-nights-at-singing-monsters.json) |
 | My Ninja Destiny | 228359 | [228359-my-ninja-destiny.json](./228359-my-ninja-destiny.json) |
+| My Ninja Romance | 299520 | [299520-my-ninja-romance.json](./299520-my-ninja-romance.json) |
 | My Nonogram Waifu: Forbidden Love | 262367 | [262367-my-nonogram-waifu-forbidden-love.json](./262367-my-nonogram-waifu-forbidden-love.json) |
 | My Oil Empire | 212480 | [212480-my-oil-empire.json](./212480-my-oil-empire.json) |
 | My Only | 375859 | [375859-my-only.json](./375859-my-only.json) |
