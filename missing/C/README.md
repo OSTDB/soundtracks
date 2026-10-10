@@ -5610,6 +5610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Sniper | 151007 | [151007-city-sniper.json](./151007-city-sniper.json) |
 | City Soccer Challenge | 66956 | [66956-city-soccer-challenge.json](./66956-city-soccer-challenge.json) |
 | City States: Medieval | 381155 | [381155-city-states-medieval.json](./381155-city-states-medieval.json) |
+| City Super Battlefield | 289781 | [289781-city-super-battlefield.json](./289781-city-super-battlefield.json) |
 | City Super Hero 3D: Flying Legend Warriors Deluxe Simulator | 212276 | [212276-city-super-hero-3d-flying-legend-warriors-deluxe-simulator.json](./212276-city-super-hero-3d-flying-legend-warriors-deluxe-simulator.json) |
 | City Survival Project | 130842 | [130842-city-survival-project.json](./130842-city-survival-project.json) |
 | City Takeover | 309048 | [309048-city-takeover.json](./309048-city-takeover.json) |
@@ -6671,6 +6672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Code of the Savage | 173310 | [173310-code-of-the-savage.json](./173310-code-of-the-savage.json) |
 | Code R | 125786 | [125786-code-r.json](./125786-code-r.json) |
 | Code R | 193858 | [193858-code-r.json](./193858-code-r.json) |
+| Code Racer | 289792 | [289792-code-racer.json](./289792-code-racer.json) |
 | Code Reactors | 330142 | [330142-code-reactors.json](./330142-code-reactors.json) |
 | Code Red | 101757 | [101757-code-red.json](./101757-code-red.json) |
 | Code Red | 224083 | [224083-code-red.json](./224083-code-red.json) |
@@ -6721,6 +6723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Codemancer | 121400 | [121400-codemancer.json](./121400-codemancer.json) |
 | Codemasters 2 in 1: Fantastic Dizzy + Cosmic Spacehead | 93188 | [93188-codemasters-2-in-1-fantastic-dizzy-cosmic-spacehead.json](./93188-codemasters-2-in-1-fantastic-dizzy-cosmic-spacehead.json) |
 | Codemount | 301436 | [301436-codemount.json](./301436-codemount.json) |
+| Codename Attila | 289803 | [289803-codename-attila.json](./289803-codename-attila.json) |
 | Codename Cure | 35653 | [35653-codename-cure.json](./35653-codename-cure.json) |
 | Codename Cygnus | 63001 | [63001-codename-cygnus.json](./63001-codename-cygnus.json) |
 | Codename Eagle | 344 | [344-codename-eagle.json](./344-codename-eagle.json) |
@@ -7159,6 +7162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Game | 151295 | [151295-color-game.json](./151295-color-game.json) |
 | Color Hero | 116358 | [116358-color-hero.json](./116358-color-hero.json) |
 | Color Hockey | 105510 | [105510-color-hockey.json](./105510-color-hockey.json) |
+| Color Hunt: Number Jigsaw Puzzle | 289810 | [289810-color-hunt-number-jigsaw-puzzle.json](./289810-color-hunt-number-jigsaw-puzzle.json) |
 | Color Invader VR | 236874 | [236874-color-invader-vr.json](./236874-color-invader-vr.json) |
 | Color Island: Pixel Art | 280221 | [280221-color-island-pixel-art.json](./280221-color-island-pixel-art.json) |
 | Color Lab | 192973 | [192973-color-lab.json](./192973-color-lab.json) |
@@ -9621,6 +9625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Craft Hero | 194264 | [194264-craft-hero.json](./194264-craft-hero.json) |
 | Craft Jam | 176416 | [176416-craft-jam.json](./176416-craft-jam.json) |
 | Craft Keep VR | 26932 | [26932-craft-keep-vr.json](./26932-craft-keep-vr.json) |
+| Craft Lands | 289776 | [289776-craft-lands.json](./289776-craft-lands.json) |
 | Craft Legend | 124631 | [124631-craft-legend.json](./124631-craft-legend.json) |
 | Craft Shooting - Battle Royale | 106368 | [106368-craft-shooting-battle-royale.json](./106368-craft-shooting-battle-royale.json) |
 | Craft Shooting - no rules in war for survival! | 105833 | [105833-craft-shooting-no-rules-in-war-for-survival.json](./105833-craft-shooting-no-rules-in-war-for-survival.json) |
@@ -11525,6 +11530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube Snake | 318968 | [318968-cube-snake.json](./318968-cube-snake.json) |
 | Cube Snap 2 | 86882 | [86882-cube-snap-2.json](./86882-cube-snap-2.json) |
 | Cube Space | 163195 | [163195-cube-space.json](./163195-cube-space.json) |
+| Cube Stack Ultimate | 289765 | [289765-cube-stack-ultimate.json](./289765-cube-stack-ultimate.json) |
 | Cube Tactics | 85558 | [85558-cube-tactics.json](./85558-cube-tactics.json) |
 | Cube War | 284984 | [284984-cube-war.json](./284984-cube-war.json) |
 | Cube Way | 75902 | [75902-cube-way.json](./75902-cube-way.json) |
@@ -11953,6 +11959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursed Hours | 319183 | [319183-cursed-hours.json](./319183-cursed-hours.json) |
 | Cursed House | 186326 | [186326-cursed-house.json](./186326-cursed-house.json) |
 | Cursed House 11 | 214181 | [214181-cursed-house-11.json](./214181-cursed-house-11.json) |
+| Cursed House 13 | 289813 | [289813-cursed-house-13.json](./289813-cursed-house-13.json) |
 | Cursed House 14 | 337213 | [337213-cursed-house-14.json](./337213-cursed-house-14.json) |
 | Cursed House 2 | 362928 | [362928-cursed-house-2.json](./362928-cursed-house-2.json) |
 | Cursed House 7 | 337215 | [337215-cursed-house-7.json](./337215-cursed-house-7.json) |
@@ -12298,6 +12305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Sprint | 261754 | [261754-cyber-sprint.json](./261754-cyber-sprint.json) |
 | Cyber Sprinters | 386839 | [386839-cyber-sprinters.json](./386839-cyber-sprinters.json) |
 | Cyber Stadium Series: Base Wars | 9876 | [9876-cyber-stadium-series-base-wars.json](./9876-cyber-stadium-series-base-wars.json) |
+| Cyber Storm | 289798 | [289798-cyber-storm.json](./289798-cyber-storm.json) |
 | Cyber Storm | 342291 | [342291-cyber-storm.json](./342291-cyber-storm.json) |
 | Cyber Storm Edge 64 | 294866 | [294866-cyber-storm-edge-64.json](./294866-cyber-storm-edge-64.json) |
 | Cyber Strider | 248028 | [248028-cyber-strider.json](./248028-cyber-strider.json) |
