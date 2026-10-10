@@ -500,6 +500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A New Leaf: Memories | 167583 | [167583-a-new-leaf-memories.json](./167583-a-new-leaf-memories.json) |
 | A New Life | 304304 | [304304-a-new-life.json](./304304-a-new-life.json) |
 | A New Reckoning | 61707 | [61707-a-new-reckoning.json](./61707-a-new-reckoning.json) |
+| A New World Of Turnabouts | 303770 | [303770-a-new-world-of-turnabouts.json](./303770-a-new-world-of-turnabouts.json) |
 | A Night at Sea | 228996 | [228996-a-night-at-sea.json](./228996-a-night-at-sea.json) |
 | A Night at the Watermill: Collector's Bundle | 336052 | [336052-a-night-at-the-watermill-collectors-bundle.json](./336052-a-night-at-the-watermill-collectors-bundle.json) |
 | A Night Before the Deadline | 145625 | [145625-a-night-before-the-deadline.json](./145625-a-night-before-the-deadline.json) |
@@ -1290,6 +1291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abyssopelagic | 382880 | [382880-abyssopelagic.json](./382880-abyssopelagic.json) |
 | Abyssus Deep Under | 309322 | [309322-abyssus-deep-under.json](./309322-abyssus-deep-under.json) |
 | Abysswalkers | 260646 | [260646-abysswalkers.json](./260646-abysswalkers.json) |
+| Abysus Arena | 303751 | [303751-abysus-arena.json](./303751-abysus-arena.json) |
 | ABZoo | 14203 | [14203-abzoo.json](./14203-abzoo.json) |
 | AC-130 Gunship Operator | 216779 | [216779-ac-130-gunship-operator.json](./216779-ac-130-gunship-operator.json) |
 | AC/DC Live: Rock Band - Track Pack | 6467 | [6467-ac-dc-live-rock-band-track-pack.json](./6467-ac-dc-live-rock-band-track-pack.json) |
@@ -1403,9 +1405,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ace Armstrong vs. The Alien Scumbags! | 42784 | [42784-ace-armstrong-vs-the-alien-scumbags.json](./42784-ace-armstrong-vs-the-alien-scumbags.json) |
 | Ace Arrow | 233121 | [233121-ace-arrow.json](./233121-ace-arrow.json) |
 | Ace Attorney Anthology | 304805 | [304805-ace-attorney-anthology.json](./304805-ace-attorney-anthology.json) |
+| Ace Attorney But Plotagon | 303755 | [303755-ace-attorney-but-plotagon.json](./303755-ace-attorney-but-plotagon.json) |
 | Ace Attorney Investigations 0: Quercus Alba Dating Simulator | 237350 | [237350-ace-attorney-investigations-0-quercus-alba-dating-simulator.json](./237350-ace-attorney-investigations-0-quercus-alba-dating-simulator.json) |
 | Ace Attorney Investigations 2: Prosecutor's Gambit | 307145 | [307145-ace-attorney-investigations-2-prosecutors-gambit.json](./307145-ace-attorney-investigations-2-prosecutors-gambit.json) |
 | Ace Attorney Investigations: Miles Edgeworth | 1430 | [1430-ace-attorney-investigations-miles-edgeworth.json](./1430-ace-attorney-investigations-miles-edgeworth.json) |
+| Ace Attorney Online: The Game | 303774 | [303774-ace-attorney-online-the-game.json](./303774-ace-attorney-online-the-game.json) |
 | Ace Attorney Turnabout Collection | 146326 | [146326-ace-attorney-turnabout-collection.json](./146326-ace-attorney-turnabout-collection.json) |
 | Ace Attorney: Athena Cykes - Wisdom at Law | 308533 | [308533-ace-attorney-athena-cykes-wisdom-at-law.json](./308533-ace-attorney-athena-cykes-wisdom-at-law.json) |
 | Ace Attorney: Beyond the Shadows | 308543 | [308543-ace-attorney-beyond-the-shadows.json](./308543-ace-attorney-beyond-the-shadows.json) |
@@ -7964,8 +7968,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arena66 | 132195 | [132195-arena66.json](./132195-arena66.json) |
 | ArenaWar | 275109 | [275109-arenawar.json](./275109-arenawar.json) |
 | Arengius | 132653 | [132653-arengius.json](./132653-arengius.json) |
+| Arenion | 303674 | [303674-arenion.json](./303674-arenion.json) |
 | Arenum | 324897 | [324897-arenum.json](./324897-arenum.json) |
 | Ares | 93968 | [93968-ares.json](./93968-ares.json) |
+| Ares Breathes | 303675 | [303675-ares-breathes.json](./303675-ares-breathes.json) |
 | Ares Fighter | 367595 | [367595-ares-fighter.json](./367595-ares-fighter.json) |
 | Ares Fighter 2 | 235181 | [235181-ares-fighter-2.json](./235181-ares-fighter-2.json) |
 | Ares Omega | 34382 | [34382-ares-omega.json](./34382-ares-omega.json) |
@@ -8078,6 +8084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arisen Force: Vonimir | 244893 | [244893-arisen-force-vonimir.json](./244893-arisen-force-vonimir.json) |
 | Arishia Tale | 300298 | [300298-arishia-tale.json](./300298-arishia-tale.json) |
 | Arishihi no Watashitachi he | 394092 | [394092-arishihi-no-watashitachi-he.json](./394092-arishihi-no-watashitachi-he.json) |
+| Arising | 303676 | [303676-arising.json](./303676-arising.json) |
 | Aristocratic Potato | 343913 | [343913-aristocratic-potato.json](./343913-aristocratic-potato.json) |
 | Aristoi | 180233 | [180233-aristoi.json](./180233-aristoi.json) |
 | Aritana and the Twin Masks | 120865 | [120865-aritana-and-the-twin-masks.json](./120865-aritana-and-the-twin-masks.json) |
@@ -8517,6 +8524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Art Heist, White Hat | 100762 | [100762-art-heist-white-hat.json](./100762-art-heist-white-hat.json) |
 | Art House | 367950 | [367950-art-house.json](./367950-art-house.json) |
 | Art is dead | 273646 | [273646-art-is-dead.json](./273646-art-is-dead.json) |
+| Art Jigsaw Puzzles | 303666 | [303666-art-jigsaw-puzzles.json](./303666-art-jigsaw-puzzles.json) |
 | Art Mahjong 2 | 91526 | [91526-art-mahjong-2.json](./91526-art-mahjong-2.json) |
 | Art Mahjongg | 91524 | [91524-art-mahjongg.json](./91524-art-mahjongg.json) |
 | Art Mahjongg Egypt | 52423 | [52423-art-mahjongg-egypt.json](./52423-art-mahjongg-egypt.json) |
