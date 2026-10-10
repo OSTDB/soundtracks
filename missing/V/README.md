@@ -1460,6 +1460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vincemus: Air Combat | 195259 | [195259-vincemus-air-combat.json](./195259-vincemus-air-combat.json) |
 | Vincent | 242243 | [242243-vincent.json](./242243-vincent.json) |
 | Vincent | 310751 | [310751-vincent.json](./310751-vincent.json) |
+| Vincent: Phantom of the G4 | 280725 | [280725-vincent-phantom-of-the-g4.json](./280725-vincent-phantom-of-the-g4.json) |
 | Vincent's Chocolate | 301923 | [301923-vincents-chocolate.json](./301923-vincents-chocolate.json) |
 | Vincent's Horror Story | 238650 | [238650-vincents-horror-story.json](./238650-vincents-horror-story.json) |
 | Vincere Totus Astrum | 36266 | [36266-vincere-totus-astrum.json](./36266-vincere-totus-astrum.json) |
