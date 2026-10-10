@@ -4228,6 +4228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Day Great Escape | 114399 | [114399-five-day-great-escape.json](./114399-five-day-great-escape.json) |
 | Five dreams | 189953 | [189953-five-dreams.json](./189953-five-dreams.json) |
 | Five Elements | 29861 | [29861-five-elements.json](./29861-five-elements.json) |
+| Five elements for 24! | 289252 | [289252-five-elements-for-24.json](./289252-five-elements-for-24.json) |
 | Five Elements: Ghosts Delivery | 296645 | [296645-five-elements-ghosts-delivery.json](./296645-five-elements-ghosts-delivery.json) |
 | Five Finger Discount | 297077 | [297077-five-finger-discount.json](./297077-five-finger-discount.json) |
 | Five Fold Tower | 311819 | [311819-five-fold-tower.json](./311819-five-fold-tower.json) |
@@ -5992,6 +5993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forgebeast | 244506 | [244506-forgebeast.json](./244506-forgebeast.json) |
 | Forged Alliance Forever | 142868 | [142868-forged-alliance-forever.json](./142868-forged-alliance-forever.json) |
 | Forged Battalion | 74528 | [74528-forged-battalion.json](./74528-forged-battalion.json) |
+| Forged In Dungeon | 289235 | [289235-forged-in-dungeon.json](./289235-forged-in-dungeon.json) |
 | Forged in Fire: Master Smith | 397087 | [397087-forged-in-fire-master-smith.json](./397087-forged-in-fire-master-smith.json) |
 | Forged of Blood | 27954 | [27954-forged-of-blood.json](./27954-forged-of-blood.json) |
 | Forgekeepers | 332542 | [332542-forgekeepers.json](./332542-forgekeepers.json) |
@@ -7864,6 +7866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fruit Shinobi | 252807 | [252807-fruit-shinobi.json](./252807-fruit-shinobi.json) |
 | Fruit Slash | 328678 | [328678-fruit-slash.json](./328678-fruit-slash.json) |
 | Fruit Slice | 249270 | [249270-fruit-slice.json](./249270-fruit-slice.json) |
+| Fruit Slice by Motion Capture | 289261 | [289261-fruit-slice-by-motion-capture.json](./289261-fruit-slice-by-motion-capture.json) |
 | Fruit Slide | 359993 | [359993-fruit-slide.json](./359993-fruit-slide.json) |
 | Fruit Stand Fortune | 330980 | [330980-fruit-stand-fortune.json](./330980-fruit-stand-fortune.json) |
 | Fruit Sudoku | 334750 | [334750-fruit-sudoku.json](./334750-fruit-sudoku.json) |
@@ -8081,6 +8084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fumble Freaks | 337295 | [337295-fumble-freaks.json](./337295-fumble-freaks.json) |
 | Fumiko! | 27194 | [27194-fumiko.json](./27194-fumiko.json) |
 | Fumo | 236212 | [236212-fumo.json](./236212-fumo.json) |
+| Fumo | 289231 | [289231-fumo.json](./289231-fumo.json) |
 | Fumpers 2: Dual Realms | 384508 | [384508-fumpers-2-dual-realms.json](./384508-fumpers-2-dual-realms.json) |
 | Fun | 360738 | [360738-fun.json](./360738-fun.json) |
 | Fun 'N Games | 4241 | [4241-fun-n-games.json](./4241-fun-n-games.json) |
