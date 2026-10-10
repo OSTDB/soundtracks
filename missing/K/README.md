@@ -751,6 +751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kats Trigger | 372633 | [372633-kats-trigger.json](./372633-kats-trigger.json) |
 | KatsuobushiClicker | 401732 | [401732-katsuobushiclicker.json](./401732-katsuobushiclicker.json) |
 | Katsuragi Misato Houdou Keikaku | 68229 | [68229-katsuragi-misato-houdou-keikaku.json](./68229-katsuragi-misato-houdou-keikaku.json) |
+| Katsute Watashitachi ha Jigoku no Mattadanaka Deshita | 331896 | [331896-katsute-watashitachi-ha-jigoku-no-mattadanaka-deshita.json](./331896-katsute-watashitachi-ha-jigoku-no-mattadanaka-deshita.json) |
 | Katte ni Shirokuma | 77407 | [77407-katte-ni-shirokuma.json](./77407-katte-ni-shirokuma.json) |
 | Kattespill | 177950 | [177950-kattespill.json](./177950-kattespill.json) |
 | Kattish | 218726 | [218726-kattish.json](./218726-kattish.json) |
