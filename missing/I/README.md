@@ -436,6 +436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I.H.A.S | 224773 | [224773-i-h-a-s.json](./224773-i-h-a-s.json) |
 | I.M. Meen | 84281 | [84281-i-m-meen.json](./84281-i-m-meen.json) |
 | I.N.E.R.T.I.A. | 80810 | [80810-i-n-e-r-t-i-a.json](./80810-i-n-e-r-t-i-a.json) |
+| I.O. Setter | 290836 | [290836-i-o-setter.json](./290836-i-o-setter.json) |
 | I.O.R.C Impact Orbital Rescue Crew | 152773 | [152773-i-o-r-c-impact-orbital-rescue-crew.json](./152773-i-o-r-c-impact-orbital-rescue-crew.json) |
 | I.Q Intelligent Qube | 215363 | [215363-i-q-intelligent-qube.json](./215363-i-q-intelligent-qube.json) |
 | I.Q Mania | 72151 | [72151-i-q-mania.json](./72151-i-q-mania.json) |
@@ -2846,6 +2847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inside the Cubes | 123504 | [123504-inside-the-cubes.json](./123504-inside-the-cubes.json) |
 | Inside the Facility | 57511 | [57511-inside-the-facility.json](./57511-inside-the-facility.json) |
 | Inside the Gear | 10437 | [10437-inside-the-gear.json](./10437-inside-the-gear.json) |
+| Inside the Machine | 290844 | [290844-inside-the-machine.json](./290844-inside-the-machine.json) |
 | Inside the Memories | 152862 | [152862-inside-the-memories.json](./152862-inside-the-memories.json) |
 | Inside The Memory | 286216 | [286216-inside-the-memory.json](./286216-inside-the-memory.json) |
 | Inside The Mind Of Irene Moroz | 409701 | [409701-inside-the-mind-of-irene-moroz.json](./409701-inside-the-mind-of-irene-moroz.json) |
@@ -4047,6 +4049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It sucks to be a succulent | 179668 | [179668-it-sucks-to-be-a-succulent.json](./179668-it-sucks-to-be-a-succulent.json) |
 | It Sucks to Be Us | 397062 | [397062-it-sucks-to-be-us.json](./397062-it-sucks-to-be-us.json) |
 | It sucks, y'know | 302661 | [302661-it-sucks-yknow.json](./302661-it-sucks-yknow.json) |
+| It Takes a Village | 290861 | [290861-it-takes-a-village.json](./290861-it-takes-a-village.json) |
 | It Takes a War: Demo Drills - Director's Cut | 402538 | [402538-it-takes-a-war-demo-drills-directors-cut.json](./402538-it-takes-a-war-demo-drills-directors-cut.json) |
 | It Takes Many | 370188 | [370188-it-takes-many.json](./370188-it-takes-many.json) |
 | It Takes One Year To Beat This Game | 339307 | [339307-it-takes-one-year-to-beat-this-game.json](./339307-it-takes-one-year-to-beat-this-game.json) |
