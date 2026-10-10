@@ -810,6 +810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombardment | 161647 | [161647-zombardment.json](./161647-zombardment.json) |
 | Zombase | 377134 | [377134-zombase.json](./377134-zombase.json) |
 | Zombasite | 20460 | [20460-zombasite.json](./20460-zombasite.json) |
+| ZombCube | 305975 | [305975-zombcube.json](./305975-zombcube.json) |
 | Zombeat | 79946 | [79946-zombeat.json](./79946-zombeat.json) |
 | Zombeer | 16815 | [16815-zombeer.json](./16815-zombeer.json) |
 | Zombeer: Delivery Mission | 159824 | [159824-zombeer-delivery-mission.json](./159824-zombeer-delivery-mission.json) |
