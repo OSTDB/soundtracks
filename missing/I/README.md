@@ -1759,6 +1759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In Other Waters: Xenobiologist Edition | 227179 | [227179-in-other-waters-xenobiologist-edition.json](./227179-in-other-waters-xenobiologist-edition.json) |
 | In Our Parlor | 416821 | [416821-in-our-parlor.json](./416821-in-our-parlor.json) |
 | In Passing | 125443 | [125443-in-passing.json](./125443-in-passing.json) |
+| In Purr-Suit | 332966 | [332966-in-purr-suit.json](./332966-in-purr-suit.json) |
 | In Pursuit of Greed | 73489 | [73489-in-pursuit-of-greed.json](./73489-in-pursuit-of-greed.json) |
 | In Requiem | 178460 | [178460-in-requiem.json](./178460-in-requiem.json) |
 | In Ruins | 418307 | [418307-in-ruins.json](./418307-in-ruins.json) |
@@ -3536,6 +3537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iron Grip: Warlord | 8720 | [8720-iron-grip-warlord.json](./8720-iron-grip-warlord.json) |
 | Iron Guard | 226148 | [226148-iron-guard.json](./226148-iron-guard.json) |
 | Iron Guard VR | 127726 | [127726-iron-guard-vr.json](./127726-iron-guard-vr.json) |
+| Iron Guard: Salvation | 333034 | [333034-iron-guard-salvation.json](./333034-iron-guard-salvation.json) |
 | Iron Hammer | 210601 | [210601-iron-hammer.json](./210601-iron-hammer.json) |
 | Iron Helix | 5394 | [5394-iron-helix.json](./5394-iron-helix.json) |
 | Iron Hunters | 296943 | [296943-iron-hunters.json](./296943-iron-hunters.json) |
@@ -4099,6 +4101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ittle Dew no Densetsu: Ushinawareta Reta Shima to Nazo no Shiro | 222317 | [222317-ittle-dew-no-densetsu-ushinawareta-reta-shima-to-nazo-no-shiro.json](./222317-ittle-dew-no-densetsu-ushinawareta-reta-shima-to-nazo-no-shiro.json) |
 | Itty Bitty Little Kitties | 344550 | [344550-itty-bitty-little-kitties.json](./344550-itty-bitty-little-kitties.json) |
 | Itty Bitty Tiny Town | 184892 | [184892-itty-bitty-tiny-town.json](./184892-itty-bitty-tiny-town.json) |
+| Itty Bitty Toilet Kitty | 332973 | [332973-itty-bitty-toilet-kitty.json](./332973-itty-bitty-toilet-kitty.json) |
 | ITYH: A Horror Otome | 215187 | [215187-ityh-a-horror-otome.json](./215187-ityh-a-horror-otome.json) |
 | Iubes:2 | 76559 | [76559-iubes-2.json](./76559-iubes-2.json) |
 | Ivan | 365151 | [365151-ivan.json](./365151-ivan.json) |
