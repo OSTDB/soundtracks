@@ -3058,6 +3058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nine Nights: Martial Ci Lang Story | 300857 | [300857-nine-nights-martial-ci-lang-story.json](./300857-nine-nights-martial-ci-lang-story.json) |
 | Nine Paradise: The Origin | 253349 | [253349-nine-paradise-the-origin.json](./253349-nine-paradise-the-origin.json) |
 | Nine Parchments | 23330 | [23330-nine-parchments.json](./23330-nine-parchments.json) |
+| Nine Realms: Dawn Touch | 296259 | [296259-nine-realms-dawn-touch.json](./296259-nine-realms-dawn-touch.json) |
 | Nine Realms: Revolt | 254770 | [254770-nine-realms-revolt.json](./254770-nine-realms-revolt.json) |
 | Nine Rounds Rapid | 238718 | [238718-nine-rounds-rapid.json](./238718-nine-rounds-rapid.json) |
 | Nine Skies | 390650 | [390650-nine-skies.json](./390650-nine-skies.json) |
