@@ -733,6 +733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Chance Supermarket | 80808 | [80808-last-chance-supermarket.json](./80808-last-chance-supermarket.json) |
 | Last Chance to Green | 179655 | [179655-last-chance-to-green.json](./179655-last-chance-to-green.json) |
 | Last Chance VR | 123552 | [123552-last-chance-vr.json](./123552-last-chance-vr.json) |
+| Last Chance: The Survivor | 294027 | [294027-last-chance-the-survivor.json](./294027-last-chance-the-survivor.json) |
 | Last Chaos | 90316 | [90316-last-chaos.json](./90316-last-chaos.json) |
 | Last Chickenburg | 121447 | [121447-last-chickenburg.json](./121447-last-chickenburg.json) |
 | Last Christmas | 220542 | [220542-last-christmas.json](./220542-last-christmas.json) |
@@ -4296,6 +4297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LogiGun | 17560 | [17560-logigun.json](./17560-logigun.json) |
 | Logik | 204947 | [204947-logik.json](./204947-logik.json) |
 | LogiKing | 231051 | [231051-logiking.json](./231051-logiking.json) |
+| LogiKing: Level2 | 294048 | [294048-logiking-level2.json](./294048-logiking-level2.json) |
 | LogIQ Boost | 373650 | [373650-logiq-boost.json](./373650-logiq-boost.json) |
 | Logistical 2: Indonesia - Bundle | 168349 | [168349-logistical-2-indonesia-bundle.json](./168349-logistical-2-indonesia-bundle.json) |
 | Logistical 2: Mall Rats | 168348 | [168348-logistical-2-mall-rats.json](./168348-logistical-2-mall-rats.json) |
