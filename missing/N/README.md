@@ -3278,6 +3278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja: The Lost Legacy | 279851 | [279851-ninja-the-lost-legacy.json](./279851-ninja-the-lost-legacy.json) |
 | Ninja? | 113900 | [113900-ninja.json](./113900-ninja.json) |
 | Ninja's Creed | 227473 | [227473-ninjas-creed.json](./227473-ninjas-creed.json) |
+| Ninjabread Man: Blades of Fury | 307782 | [307782-ninjabread-man-blades-of-fury.json](./307782-ninjabread-man-blades-of-fury.json) |
 | NinjaFT | 237426 | [237426-ninjaft.json](./237426-ninjaft.json) |
 | Ninjahtic | 34887 | [34887-ninjahtic.json](./34887-ninjahtic.json) |
 | Ninjahtic Mind Tricks | 34818 | [34818-ninjahtic-mind-tricks.json](./34818-ninjahtic-mind-tricks.json) |
@@ -4112,6 +4113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Norimono Banzai!!: Densha Daishuugou!! | 63956 | [63956-norimono-banzai-densha-daishuugou.json](./63956-norimono-banzai-densha-daishuugou.json) |
 | Norimono Banzai!!: Kuruma Daishuugou!! | 63957 | [63957-norimono-banzai-kuruma-daishuugou.json](./63957-norimono-banzai-kuruma-daishuugou.json) |
 | Norm Koger's: The Operational Art of War III | 69928 | [69928-norm-kogers-the-operational-art-of-war-iii.json](./69928-norm-kogers-the-operational-art-of-war-iii.json) |
+| Norm of the North: Arctic Dash | 307971 | [307971-norm-of-the-north-arctic-dash.json](./307971-norm-of-the-north-arctic-dash.json) |
 | Norma | 330252 | [330252-norma.json](./330252-norma.json) |
 | Normal Adult Human Person | 216173 | [216173-normal-adult-human-person.json](./216173-normal-adult-human-person.json) |
 | Normal Days | 329092 | [329092-normal-days.json](./329092-normal-days.json) |
