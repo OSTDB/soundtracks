@@ -3052,6 +3052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Interloper | 247525 | [247525-interloper.json](./247525-interloper.json) |
 | Interlopers | 249858 | [249858-interlopers.json](./249858-interlopers.json) |
 | Interlude | 139421 | [139421-interlude.json](./139421-interlude.json) |
+| Interlude | 289769 | [289769-interlude.json](./289769-interlude.json) |
 | Intermundia: Dungeons, Polygons & Magic | 333001 | [333001-intermundia-dungeons-polygons-and-magic.json](./333001-intermundia-dungeons-polygons-and-magic.json) |
 | Intern: An Intern's Guide to Maintaining Internal Rage | 200697 | [200697-intern-an-interns-guide-to-maintaining-internal-rage.json](./200697-intern-an-interns-guide-to-maintaining-internal-rage.json) |
 | Internal Incident | 372983 | [372983-internal-incident.json](./372983-internal-incident.json) |
