@@ -5575,6 +5575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meow Motors | 102208 | [102208-meow-motors.json](./102208-meow-motors.json) |
 | Meow Music | 103912 | [103912-meow-music.json](./103912-meow-music.json) |
 | Meow Nights | 183540 | [183540-meow-nights.json](./183540-meow-nights.json) |
+| Meow Path | 305962 | [305962-meow-path.json](./305962-meow-path.json) |
 | Meow Path 2 | 360741 | [360741-meow-path-2.json](./360741-meow-path-2.json) |
 | Meow Star Archives | 415223 | [415223-meow-star-archives.json](./415223-meow-star-archives.json) |
 | Meow Survivors | 389579 | [389579-meow-survivors.json](./389579-meow-survivors.json) |
