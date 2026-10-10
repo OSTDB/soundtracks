@@ -2375,6 +2375,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Guardians | 164234 | [164234-vr-guardians.json](./164234-vr-guardians.json) |
 | VR Harem Life | 338563 | [338563-vr-harem-life.json](./338563-vr-harem-life.json) |
 | VR Harem Sex | 295359 | [295359-vr-harem-sex.json](./295359-vr-harem-sex.json) |
+| VR Harem Sex: Hikari | 301659 | [301659-vr-harem-sex-hikari.json](./301659-vr-harem-sex-hikari.json) |
+| VR Harem Sex: Rui | 301660 | [301660-vr-harem-sex-rui.json](./301660-vr-harem-sex-rui.json) |
 | VR Hentai | 384637 | [384637-vr-hentai.json](./384637-vr-hentai.json) |
 | VR Hentai 18+ | 384636 | [384636-vr-hentai-18.json](./384636-vr-hentai-18.json) |
 | VR Hentai Cat | 160144 | [160144-vr-hentai-cat.json](./160144-vr-hentai-cat.json) |
