@@ -2317,6 +2317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aetherial | 357786 | [357786-aetherial.json](./357786-aetherial.json) |
 | Aetherica: Echoes of Exodus | 391868 | [391868-aetherica-echoes-of-exodus.json](./391868-aetherica-echoes-of-exodus.json) |
 | Aetheris | 199436 | [199436-aetheris.json](./199436-aetheris.json) |
+| Aetherise | 298439 | [298439-aetherise.json](./298439-aetherise.json) |
 | AetherShot | 318055 | [318055-aethershot.json](./318055-aethershot.json) |
 | Aetherspace | 44089 | [44089-aetherspace.json](./44089-aetherspace.json) |
 | Aethus | 270142 | [270142-aethus.json](./270142-aethus.json) |
@@ -3917,6 +3918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Frontier | 240500 | [240500-alien-frontier.json](./240500-alien-frontier.json) |
 | Alien Fury | 337812 | [337812-alien-fury.json](./337812-alien-fury.json) |
 | Alien Galaxy Clicker | 58255 | [58255-alien-galaxy-clicker.json](./58255-alien-galaxy-clicker.json) |
+| Alien Garden | 298438 | [298438-alien-garden.json](./298438-alien-garden.json) |
 | Alien Gate | 46611 | [46611-alien-gate.json](./46611-alien-gate.json) |
 | Alien Girl | 183909 | [183909-alien-girl.json](./183909-alien-girl.json) |
 | Alien Gladiator | 207529 | [207529-alien-gladiator.json](./207529-alien-gladiator.json) |
