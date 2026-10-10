@@ -7954,6 +7954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fuddo & Slam | 250342 | [250342-fuddo-and-slam.json](./250342-fuddo-and-slam.json) |
 | Fudou Myouou Den | 48909 | [48909-fudou-myouou-den.json](./48909-fudou-myouou-den.json) |
 | Fuel | 567 | [567-fuel.json](./567-fuel.json) |
+| Fuel & Food Bundle | 284863 | [284863-fuel-and-food-bundle.json](./284863-fuel-and-food-bundle.json) |
 | Fuel Me Up | 342719 | [342719-fuel-me-up.json](./342719-fuel-me-up.json) |
 | Fuel Overdose | 20841 | [20841-fuel-overdose.json](./20841-fuel-overdose.json) |
 | Fuel Station Simulator | 336369 | [336369-fuel-station-simulator.json](./336369-fuel-station-simulator.json) |
