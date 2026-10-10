@@ -1417,6 +1417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harvest Moon: One World - Far East Adventure Pack | 174165 | [174165-harvest-moon-one-world-far-east-adventure-pack.json](./174165-harvest-moon-one-world-far-east-adventure-pack.json) |
 | Harvest Moon: One World - Precious Pets Pack | 174151 | [174151-harvest-moon-one-world-precious-pets-pack.json](./174151-harvest-moon-one-world-precious-pets-pack.json) |
 | Harvest Moon: One World Bundle | 173798 | [173798-harvest-moon-one-world-bundle.json](./173798-harvest-moon-one-world-bundle.json) |
+| Harvest Moon: One World Complete | 300478 | [300478-harvest-moon-one-world-complete.json](./300478-harvest-moon-one-world-complete.json) |
 | Harvest Moon: Skytree Village | 19393 | [19393-harvest-moon-skytree-village.json](./19393-harvest-moon-skytree-village.json) |
 | Harvest Moon: The Tale of Two Towns | 3392 | [3392-harvest-moon-the-tale-of-two-towns.json](./3392-harvest-moon-the-tale-of-two-towns.json) |
 | Harvest Moon: The Winds of Anthos | 228855 | [228855-harvest-moon-the-winds-of-anthos.json](./228855-harvest-moon-the-winds-of-anthos.json) |
@@ -6635,6 +6636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House Flipper: HGTV DLC | 145529 | [145529-house-flipper-hgtv-dlc.json](./145529-house-flipper-hgtv-dlc.json) |
 | House Flipper: Home Design | 102846 | [102846-house-flipper-home-design.json](./102846-house-flipper-home-design.json) |
 | House Flipper: Pets | 171462 | [171462-house-flipper-pets.json](./171462-house-flipper-pets.json) |
+| House Flipper: Pets Edition | 300470 | [300470-house-flipper-pets-edition.json](./300470-house-flipper-pets-edition.json) |
 | House Hopper | 250281 | [250281-house-hopper.json](./250281-house-hopper.json) |
 | House in the village by the river v2.0 | 173813 | [173813-house-in-the-village-by-the-river-v2-0.json](./173813-house-in-the-village-by-the-river-v2-0.json) |
 | House in the Woods | 395108 | [395108-house-in-the-woods.json](./395108-house-in-the-woods.json) |
