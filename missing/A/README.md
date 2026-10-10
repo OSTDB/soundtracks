@@ -1795,6 +1795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adrian's Tale | 219112 | [219112-adrians-tale.json](./219112-adrians-tale.json) |
 | Adrianne and Oliver | 216781 | [216781-adrianne-and-oliver.json](./216781-adrianne-and-oliver.json) |
 | Adrift | 304673 | [304673-adrift.json](./304673-adrift.json) |
+| Adrift | 330165 | [330165-adrift.json](./330165-adrift.json) |
 | Adrift | 331880 | [331880-adrift.json](./331880-adrift.json) |
 | Adrift | 377088 | [377088-adrift.json](./377088-adrift.json) |
 | Adrift in Turbulent Waters | 201650 | [201650-adrift-in-turbulent-waters.json](./201650-adrift-in-turbulent-waters.json) |
@@ -4808,6 +4809,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amber Alert Director's Cut | 345679 | [345679-amber-alert-directors-cut.json](./345679-amber-alert-directors-cut.json) |
 | Amber Battle Royale | 226219 | [226219-amber-battle-royale.json](./226219-amber-battle-royale.json) |
 | Amber Effect | 174693 | [174693-amber-effect.json](./174693-amber-effect.json) |
+| Amber Isle: Deluxe Edition | 330195 | [330195-amber-isle-deluxe-edition.json](./330195-amber-isle-deluxe-edition.json) |
+| Amber Isle: Starter Pack | 330221 | [330221-amber-isle-starter-pack.json](./330221-amber-isle-starter-pack.json) |
 | Amber of The End | 359547 | [359547-amber-of-the-end.json](./359547-amber-of-the-end.json) |
 | Amber Quartz | 69291 | [69291-amber-quartz.json](./69291-amber-quartz.json) |
 | Amber Time Pocket | 226220 | [226220-amber-time-pocket.json](./226220-amber-time-pocket.json) |
