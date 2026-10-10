@@ -1222,6 +1222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Khimera: Puzzle Island | 146205 | [146205-khimera-puzzle-island.json](./146205-khimera-puzzle-island.json) |
 | Khio | 136458 | [136458-khio.json](./136458-khio.json) |
 | Khnum Fire | 370211 | [370211-khnum-fire.json](./370211-khnum-fire.json) |
+| Khodam: The Contract | 320437 | [320437-khodam-the-contract.json](./320437-khodam-the-contract.json) |
 | Khok | 362732 | [362732-khok.json](./362732-khok.json) |
 | Kholin Echo | 415311 | [415311-kholin-echo.json](./415311-kholin-echo.json) |
 | Khoros | 200516 | [200516-khoros.json](./200516-khoros.json) |
@@ -2000,6 +2001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Come: Deliverance II - The Lion’s Crest | 337179 | [337179-kingdom-come-deliverance-ii-the-lion-s-crest.json](./337179-kingdom-come-deliverance-ii-the-lion-s-crest.json) |
 | Kingdom Come: Deliverance II: Legacy of the Forge | 361887 | [361887-kingdom-come-deliverance-ii-legacy-of-the-forge.json](./361887-kingdom-come-deliverance-ii-legacy-of-the-forge.json) |
 | Kingdom Come: Salvation | 402334 | [402334-kingdom-come-salvation.json](./402334-kingdom-come-salvation.json) |
+| Kingdom Coronation Collection | 320464 | [320464-kingdom-coronation-collection.json](./320464-kingdom-coronation-collection.json) |
 | Kingdom Crusade | 49047 | [49047-kingdom-crusade.json](./49047-kingdom-crusade.json) |
 | Kingdom Death: Simulator | 360609 | [360609-kingdom-death-simulator.json](./360609-kingdom-death-simulator.json) |
 | Kingdom Defense: Deliverance | 333136 | [333136-kingdom-defense-deliverance.json](./333136-kingdom-defense-deliverance.json) |
