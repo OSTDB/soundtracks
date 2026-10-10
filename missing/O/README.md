@@ -215,6 +215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Obsurity | 121322 | [121322-obsurity.json](./121322-obsurity.json) |
 | Obversion | 120388 | [120388-obversion.json](./120388-obversion.json) |
 | Ocarina of Time Redux | 172478 | [172478-ocarina-of-time-redux.json](./172478-ocarina-of-time-redux.json) |
+| Ocarina of Time: Chaos Edition | 294568 | [294568-ocarina-of-time-chaos-edition.json](./294568-ocarina-of-time-chaos-edition.json) |
 | Ocarina of Time: Master Quest Redux | 172480 | [172480-ocarina-of-time-master-quest-redux.json](./172480-ocarina-of-time-master-quest-redux.json) |
 | Ocarina of Time: Spaceworld '97 Experience | 182313 | [182313-ocarina-of-time-spaceworld-97-experience.json](./182313-ocarina-of-time-spaceworld-97-experience.json) |
 | Ocaso | 278612 | [278612-ocaso.json](./278612-ocaso.json) |
