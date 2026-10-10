@@ -1075,6 +1075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Parables: The Swan Princess and The Dire Tree | 139795 | [139795-dark-parables-the-swan-princess-and-the-dire-tree.json](./139795-dark-parables-the-swan-princess-and-the-dire-tree.json) |
 | Dark Parables: The Thief and the Tinderbox | 139796 | [139796-dark-parables-the-thief-and-the-tinderbox.json](./139796-dark-parables-the-thief-and-the-tinderbox.json) |
 | Dark Parables: The Thief and the Tinderbox - Collector's Edition | 31064 | [31064-dark-parables-the-thief-and-the-tinderbox-collectors-edition.json](./31064-dark-parables-the-thief-and-the-tinderbox-collectors-edition.json) |
+| Dark Passage | 291886 | [291886-dark-passage.json](./291886-dark-passage.json) |
 | Dark Passenger - An experimental audio game | 24071 | [24071-dark-passenger-an-experimental-audio-game.json](./24071-dark-passenger-an-experimental-audio-game.json) |
 | Dark Passion: Anime Match Puzzles | 332490 | [332490-dark-passion-anime-match-puzzles.json](./332490-dark-passion-anime-match-puzzles.json) |
 | Dark Past | 211817 | [211817-dark-past.json](./211817-dark-past.json) |
@@ -7503,6 +7504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Look | 156708 | [156708-dont-look.json](./156708-dont-look.json) |
 | Don't Look | 177547 | [177547-dont-look.json](./177547-dont-look.json) |
 | Don't Look at Grandma | 375820 | [375820-dont-look-at-grandma.json](./375820-dont-look-at-grandma.json) |
+| Don't Look at Him | 291891 | [291891-dont-look-at-him.json](./291891-dont-look-at-him.json) |
 | Don't Look At Me | 184952 | [184952-dont-look-at-me.json](./184952-dont-look-at-me.json) |
 | Don't Look Away | 221188 | [221188-dont-look-away.json](./221188-dont-look-away.json) |
 | Don't Look Away 2 | 359078 | [359078-dont-look-away-2.json](./359078-dont-look-away-2.json) |
@@ -10016,6 +10018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drill Deep | 400957 | [400957-drill-deep.json](./400957-drill-deep.json) |
 | Drill Dozer | 6390 | [6390-drill-dozer.json](./6390-drill-dozer.json) |
 | Drill Dozer: Shifting 101 | 307352 | [307352-drill-dozer-shifting-101.json](./307352-drill-dozer-shifting-101.json) |
+| Drill Hero Legend | 291899 | [291899-drill-hero-legend.json](./291899-drill-hero-legend.json) |
 | Drill Keeper | 253370 | [253370-drill-keeper.json](./253370-drill-keeper.json) |
 | Drill Man Rumble | 126501 | [126501-drill-man-rumble.json](./126501-drill-man-rumble.json) |
 | Drill Rift | 355128 | [355128-drill-rift.json](./355128-drill-rift.json) |
@@ -11270,6 +11273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons: The Dark Lord - Steam Special Edition | 90486 | [90486-dungeons-the-dark-lord-steam-special-edition.json](./90486-dungeons-the-dark-lord-steam-special-edition.json) |
 | Dungeons: The Eye of Draconus | 17444 | [17444-dungeons-the-eye-of-draconus.json](./17444-dungeons-the-eye-of-draconus.json) |
 | DungeonSlime | 195708 | [195708-dungeonslime.json](./195708-dungeonslime.json) |
+| DungeonTomb | 291915 | [291915-dungeontomb.json](./291915-dungeontomb.json) |
 | DungeonTracks: In Charms Way | 184626 | [184626-dungeontracks-in-charms-way.json](./184626-dungeontracks-in-charms-way.json) |
 | DungeonUp | 34808 | [34808-dungeonup.json](./34808-dungeonup.json) |
 | DunginDragin | 386400 | [386400-dungindragin.json](./386400-dungindragin.json) |
