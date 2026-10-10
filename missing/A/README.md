@@ -569,6 +569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Pointless Adventure | 213346 | [213346-a-pointless-adventure.json](./213346-a-pointless-adventure.json) |
 | A Postcard From Afthonia | 252069 | [252069-a-postcard-from-afthonia.json](./252069-a-postcard-from-afthonia.json) |
 | A Potion For Chamomile | 196859 | [196859-a-potion-for-chamomile.json](./196859-a-potion-for-chamomile.json) |
+| A Prelude to an Adventure | 307785 | [307785-a-prelude-to-an-adventure.json](./307785-a-prelude-to-an-adventure.json) |
 | A Prelude to Chaos | 293248 | [293248-a-prelude-to-chaos.json](./293248-a-prelude-to-chaos.json) |
 | A Prelude to Chaos | 293249 | [293249-a-prelude-to-chaos.json](./293249-a-prelude-to-chaos.json) |
 | A Pretty Broken Adventure | 249926 | [249926-a-pretty-broken-adventure.json](./249926-a-pretty-broken-adventure.json) |
@@ -9209,6 +9210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aster Initiative | 274035 | [274035-aster-initiative.json](./274035-aster-initiative.json) |
 | Aster League: 2179 | 408839 | [408839-aster-league-2179.json](./408839-aster-league-2179.json) |
 | Astera | 304678 | [304678-astera.json](./304678-astera.json) |
+| Astercys | 307875 | [307875-astercys.json](./307875-astercys.json) |
 | Asterelis | 118404 | [118404-asterelis.json](./118404-asterelis.json) |
 | Asterfel | 360763 | [360763-asterfel.json](./360763-asterfel.json) |
 | Asteria | 17536 | [17536-asteria.json](./17536-asteria.json) |
@@ -10140,6 +10142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ATYI | 335512 | [335512-atyi.json](./335512-atyi.json) |
 | Atypian | 369046 | [369046-atypian.json](./369046-atypian.json) |
 | Au Pays des PooYoos: Activités d'Éveil | 408976 | [408976-au-pays-des-pooyoos-activites-deveil.json](./408976-au-pays-des-pooyoos-activites-deveil.json) |
+| Au Revoir | 307878 | [307878-au-revoir.json](./307878-au-revoir.json) |
 | Au Sable | 125855 | [125855-au-sable.json](./125855-au-sable.json) |
 | Au-Delà | 191651 | [191651-au-dela.json](./191651-au-dela.json) |
 | Aubac | 416163 | [416163-aubac.json](./416163-aubac.json) |
