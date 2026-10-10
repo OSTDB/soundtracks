@@ -38,6 +38,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | P.T. Bone-um's: Fabulous Tightrope of Terror | 180798 | [180798-p-t-bone-ums-fabulous-tightrope-of-terror.json](./180798-p-t-bone-ums-fabulous-tightrope-of-terror.json) |
 | P.T.O. II: Pacific Theater of Operations | 45527 | [45527-p-t-o-ii-pacific-theater-of-operations.json](./45527-p-t-o-ii-pacific-theater-of-operations.json) |
 | P.T.O. IV | 43435 | [43435-p-t-o-iv.json](./43435-p-t-o-iv.json) |
+| P.W. Project Witch | 327156 | [327156-p-w-project-witch.json](./327156-p-w-project-witch.json) |
 | P'radikus Conflict | 73467 | [73467-pradikus-conflict.json](./73467-pradikus-conflict.json) |
 | P1 Select | 139803 | [139803-p1-select.json](./139803-p1-select.json) |
 | P1: Anchor Light | 363808 | [363808-p1-anchor-light.json](./363808-p1-anchor-light.json) |
@@ -6982,6 +6983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon: Maxie's Island | 342679 | [342679-pokemon-maxies-island.json](./342679-pokemon-maxies-island.json) |
 | Pokémon: National History Museum | 340212 | [340212-pokemon-national-history-museum.json](./340212-pokemon-national-history-museum.json) |
 | Pokémon: Professor Oak Challenge | 338849 | [338849-pokemon-professor-oak-challenge.json](./338849-pokemon-professor-oak-challenge.json) |
+| Pokemon: The Hodgepodge Platoon | 327157 | [327157-pokemon-the-hodgepodge-platoon.json](./327157-pokemon-the-hodgepodge-platoon.json) |
 | Pokémon: The Pit | 308392 | [308392-pokemon-the-pit.json](./308392-pokemon-the-pit.json) |
 | Pokémon: Too Many Types | 278078 | [278078-pokemon-too-many-types.json](./278078-pokemon-too-many-types.json) |
 | Pokémon: Ultra Violet Version | 203221 | [203221-pokemon-ultra-violet-version.json](./203221-pokemon-ultra-violet-version.json) |
@@ -10100,6 +10102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psycho Dream | 42420 | [42420-psycho-dream.json](./42420-psycho-dream.json) |
 | Psycho Dreams | 291019 | [291019-psycho-dreams.json](./291019-psycho-dreams.json) |
 | Psycho Fear | 239734 | [239734-psycho-fear.json](./239734-psycho-fear.json) |
+| Psycho Harrier | 327465 | [327465-psycho-harrier.json](./327465-psycho-harrier.json) |
 | Psycho Inn | 396477 | [396477-psycho-inn.json](./396477-psycho-inn.json) |
 | Psycho Killer | 74033 | [74033-psycho-killer.json](./74033-psycho-killer.json) |
 | Psycho on the loose | 30036 | [30036-psycho-on-the-loose.json](./30036-psycho-on-the-loose.json) |
