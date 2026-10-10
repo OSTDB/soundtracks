@@ -986,6 +986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Hours | 251843 | [251843-dark-hours.json](./251843-dark-hours.json) |
 | Dark Hours 2 | 57719 | [57719-dark-hours-2.json](./57719-dark-hours-2.json) |
 | Dark Hunter | 311784 | [311784-dark-hunter.json](./311784-dark-hunter.json) |
+| Dark Hunting Ground | 296239 | [296239-dark-hunting-ground.json](./296239-dark-hunting-ground.json) |
 | Dark Hyrule Fantasy | 199422 | [199422-dark-hyrule-fantasy.json](./199422-dark-hyrule-fantasy.json) |
 | Dark Ill | 367852 | [367852-dark-ill.json](./367852-dark-ill.json) |
 | Dark Incursion | 38958 | [38958-dark-incursion.json](./38958-dark-incursion.json) |
@@ -1459,6 +1460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dash Trails | 392853 | [392853-dash-trails.json](./392853-dash-trails.json) |
 | Dash Valley | 108447 | [108447-dash-valley.json](./108447-dash-valley.json) |
 | Dash x Survivors | 266276 | [266276-dash-x-survivors.json](./266276-dash-x-survivors.json) |
+| Dash x Survivors | 296211 | [296211-dash-x-survivors.json](./296211-dash-x-survivors.json) |
 | Dash.io | 256521 | [256521-dash-io.json](./256521-dash-io.json) |
 | Dash'n'Drops | 389587 | [389587-dashndrops.json](./389587-dashndrops.json) |
 | Dashball | 135644 | [135644-dashball.json](./135644-dashball.json) |
@@ -11018,6 +11020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Overlord | 65261 | [65261-dungeon-overlord.json](./65261-dungeon-overlord.json) |
 | Dungeon Pain Maniac | 117561 | [117561-dungeon-pain-maniac.json](./117561-dungeon-pain-maniac.json) |
 | Dungeon Party | 134613 | [134613-dungeon-party.json](./134613-dungeon-party.json) |
+| Dungeon Party | 296233 | [296233-dungeon-party.json](./296233-dungeon-party.json) |
 | Dungeon Peplum | 379880 | [379880-dungeon-peplum.json](./379880-dungeon-peplum.json) |
 | Dungeon Pizza | 365096 | [365096-dungeon-pizza.json](./365096-dungeon-pizza.json) |
 | Dungeon Prospector | 50865 | [50865-dungeon-prospector.json](./50865-dungeon-prospector.json) |
