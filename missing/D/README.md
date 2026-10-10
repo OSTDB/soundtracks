@@ -4534,6 +4534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destroy Your Home | 333531 | [333531-destroy-your-home.json](./333531-destroy-your-home.json) |
 | Destroyer | 175824 | [175824-destroyer.json](./175824-destroyer.json) |
 | Destroyer | 26410 | [26410-destroyer.json](./26410-destroyer.json) |
+| Destroyer | 312254 | [312254-destroyer.json](./312254-destroyer.json) |
 | Destroyer 7800 | 304197 | [304197-destroyer-7800.json](./304197-destroyer-7800.json) |
 | Destroyer Command | 23456 | [23456-destroyer-command.json](./23456-destroyer-command.json) |
 | Destroyer For Windows | 312840 | [312840-destroyer-for-windows.json](./312840-destroyer-for-windows.json) |
@@ -5621,6 +5622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ding! MONO | 270634 | [270634-ding-mono.json](./270634-ding-mono.json) |
 | Ding. | 183932 | [183932-ding.json](./183932-ding.json) |
 | DingDingDing | 109719 | [109719-dingdingding.json](./109719-dingdingding.json) |
+| DingDongVG's Summer Resort | 312289 | [312289-dingdongvgs-summer-resort.json](./312289-dingdongvgs-summer-resort.json) |
 | Dinghai: The Ocean Pillar | 404908 | [404908-dinghai-the-ocean-pillar.json](./404908-dinghai-the-ocean-pillar.json) |
 | Dinglehoppers | 246534 | [246534-dinglehoppers.json](./246534-dinglehoppers.json) |
 | Dingletopia: Nation Under Siege (by Orcs) | 133410 | [133410-dingletopia-nation-under-siege-by-orcs.json](./133410-dingletopia-nation-under-siege-by-orcs.json) |
@@ -9248,6 +9250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragoon: The Battles of Frederick the Great | 62266 | [62266-dragoon-the-battles-of-frederick-the-great.json](./62266-dragoon-the-battles-of-frederick-the-great.json) |
 | Dragot | 251821 | [251821-dragot.json](./251821-dragot.json) |
 | Drags Tavern | 315009 | [315009-drags-tavern.json](./315009-drags-tavern.json) |
+| Dragster | 312255 | [312255-dragster.json](./312255-dragster.json) |
 | Dragster | 46885 | [46885-dragster.json](./46885-dragster.json) |
 | Dragu's Puzzle Adventure | 155648 | [155648-dragus-puzzle-adventure.json](./155648-dragus-puzzle-adventure.json) |
 | Drain | 179560 | [179560-drain.json](./179560-drain.json) |
