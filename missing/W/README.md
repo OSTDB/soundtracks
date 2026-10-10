@@ -789,6 +789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warehouse Bots | 298179 | [298179-warehouse-bots.json](./298179-warehouse-bots.json) |
 | Warehouse Job | 353773 | [353773-warehouse-job.json](./353773-warehouse-job.json) |
 | Warehouse Manager Simulator | 294296 | [294296-warehouse-manager-simulator.json](./294296-warehouse-manager-simulator.json) |
+| Warehouse Seduction | 279552 | [279552-warehouse-seduction.json](./279552-warehouse-seduction.json) |
 | Warehouse Simulator | 158597 | [158597-warehouse-simulator.json](./158597-warehouse-simulator.json) |
 | Warehouse Simulator | 377156 | [377156-warehouse-simulator.json](./377156-warehouse-simulator.json) |
 | Warehouse Simulator: Forklift Driver | 190070 | [190070-warehouse-simulator-forklift-driver.json](./190070-warehouse-simulator-forklift-driver.json) |
@@ -2867,6 +2868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whispers of the Citadel | 275136 | [275136-whispers-of-the-citadel.json](./275136-whispers-of-the-citadel.json) |
 | Whispers of the Hourglass | 346744 | [346744-whispers-of-the-hourglass.json](./346744-whispers-of-the-hourglass.json) |
 | Whispers of the Requiem | 408115 | [408115-whispers-of-the-requiem.json](./408115-whispers-of-the-requiem.json) |
+| Whispers of the Sands | 279530 | [279530-whispers-of-the-sands.json](./279530-whispers-of-the-sands.json) |
 | Whispers of the Seasons | 395465 | [395465-whispers-of-the-seasons.json](./395465-whispers-of-the-seasons.json) |
 | Whispers of The Shadow | 312550 | [312550-whispers-of-the-shadow.json](./312550-whispers-of-the-shadow.json) |
 | Whispers of the Tallgrass | 398959 | [398959-whispers-of-the-tallgrass.json](./398959-whispers-of-the-tallgrass.json) |
@@ -2925,6 +2927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | White Knuckle | 320734 | [320734-white-knuckle.json](./320734-white-knuckle.json) |
 | White lady | 201689 | [201689-white-lady.json](./201689-white-lady.json) |
 | White Light Escape | 315591 | [315591-white-light-escape.json](./315591-white-light-escape.json) |
+| White Lilies Code | 279549 | [279549-white-lilies-code.json](./279549-white-lilies-code.json) |
 | White Mask | 136487 | [136487-white-mask.json](./136487-white-mask.json) |
 | White Men Can't Jump | 40821 | [40821-white-men-cant-jump.json](./40821-white-men-cant-jump.json) |
 | White Middle Class Guy Simulator | 261976 | [261976-white-middle-class-guy-simulator.json](./261976-white-middle-class-guy-simulator.json) |
