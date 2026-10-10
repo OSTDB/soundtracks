@@ -2729,6 +2729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perfect Dark | 1464 | [1464-perfect-dark.json](./1464-perfect-dark.json) |
 | Perfect Dark | 1466 | [1466-perfect-dark.json](./1466-perfect-dark.json) |
 | Perfect Dark PC Port | 271424 | [271424-perfect-dark-pc-port.json](./271424-perfect-dark-pc-port.json) |
+| Perfect Dark With Mario Characters | 283111 | [283111-perfect-dark-with-mario-characters.json](./283111-perfect-dark-with-mario-characters.json) |
 | Perfect Dark Zero | 1465 | [1465-perfect-dark-zero.json](./1465-perfect-dark-zero.json) |
 | Perfect Dark Zero | 292158 | [292158-perfect-dark-zero.json](./292158-perfect-dark-zero.json) |
 | Perfect Dark Zero: Collector's Edition | 41596 | [41596-perfect-dark-zero-collectors-edition.json](./41596-perfect-dark-zero-collectors-edition.json) |
@@ -6982,6 +6983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Omega Ruby and Pokémon Alpha Sapphire Dual Pack | 159108 | [159108-pokemon-omega-ruby-and-pokemon-alpha-sapphire-dual-pack.json](./159108-pokemon-omega-ruby-and-pokemon-alpha-sapphire-dual-pack.json) |
 | Pokémon Online | 311459 | [311459-pokemon-online.json](./311459-pokemon-online.json) |
 | Pokémon Orange | 141203 | [141203-pokemon-orange.json](./141203-pokemon-orange.json) |
+| Pokemon Orb Version | 283116 | [283116-pokemon-orb-version.json](./283116-pokemon-orb-version.json) |
 | Pokémon Origins | 395775 | [395775-pokemon-origins.json](./395775-pokemon-origins.json) |
 | Pokémon Party Mini | 66031 | [66031-pokemon-party-mini.json](./66031-pokemon-party-mini.json) |
 | Pokémon Pathways | 154415 | [154415-pokemon-pathways.json](./154415-pokemon-pathways.json) |
@@ -9016,6 +9018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prism Break | 102171 | [102171-prism-break.json](./102171-prism-break.json) |
 | Prism Cross | 354399 | [354399-prism-cross.json](./354399-prism-cross.json) |
 | Prism Crush | 372131 | [372131-prism-crush.json](./372131-prism-crush.json) |
+| Prism Heart | 283127 | [283127-prism-heart.json](./283127-prism-heart.json) |
 | Prism Hotel Murder Case: Super Mystery Wars - Episode Conan | 310012 | [310012-prism-hotel-murder-case-super-mystery-wars-episode-conan.json](./310012-prism-hotel-murder-case-super-mystery-wars-episode-conan.json) |
 | Prism Indigo DX | 298242 | [298242-prism-indigo-dx.json](./298242-prism-indigo-dx.json) |
 | Prism Panic | 396707 | [396707-prism-panic.json](./396707-prism-panic.json) |
