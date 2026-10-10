@@ -8683,6 +8683,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball Online | 92697 | [92697-dragon-ball-online.json](./92697-dragon-ball-online.json) |
 | Dragon Ball RPG: Shounen-hen | 62726 | [62726-dragon-ball-rpg-shounen-hen.json](./62726-dragon-ball-rpg-shounen-hen.json) |
 | Dragon Ball Sparking Zero: Shallot (Dragon Ball Legends) | 366817 | [366817-dragon-ball-sparking-zero-shallot-dragon-ball-legends.json](./366817-dragon-ball-sparking-zero-shallot-dragon-ball-legends.json) |
+| Dragon Ball Sparking Zero!: Ultimate Upgrade Pack | 323407 | [323407-dragon-ball-sparking-zero-ultimate-upgrade-pack.json](./323407-dragon-ball-sparking-zero-ultimate-upgrade-pack.json) |
+| Dragon Ball Sparking! Zero: Season Pass | 323406 | [323406-dragon-ball-sparking-zero-season-pass.json](./323406-dragon-ball-sparking-zero-season-pass.json) |
 | Dragon Ball Super Card Game Fusion World | 292100 | [292100-dragon-ball-super-card-game-fusion-world.json](./292100-dragon-ball-super-card-game-fusion-world.json) |
 | Dragon Ball Super TCG | 212759 | [212759-dragon-ball-super-tcg.json](./212759-dragon-ball-super-tcg.json) |
 | Dragon Ball Xenoverse 2: Dragon Ball Daima Pack | 366824 | [366824-dragon-ball-xenoverse-2-dragon-ball-daima-pack.json](./366824-dragon-ball-xenoverse-2-dragon-ball-daima-pack.json) |
@@ -11077,6 +11079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons 3: An Unexpected DLC | 115420 | [115420-dungeons-3-an-unexpected-dlc.json](./115420-dungeons-3-an-unexpected-dlc.json) |
 | Dungeons 3: Complete Collection | 136320 | [136320-dungeons-3-complete-collection.json](./136320-dungeons-3-complete-collection.json) |
 | Dungeons 3: Evil of the Caribbean | 124825 | [124825-dungeons-3-evil-of-the-caribbean.json](./124825-dungeons-3-evil-of-the-caribbean.json) |
+| Dungeons 3: Extremely Evil Edition | 323413 | [323413-dungeons-3-extremely-evil-edition.json](./323413-dungeons-3-extremely-evil-edition.json) |
 | Dungeons 3: Nintendo Switch Complete Collection | 283207 | [283207-dungeons-3-nintendo-switch-complete-collection.json](./283207-dungeons-3-nintendo-switch-complete-collection.json) |
 | Dungeons 4 | 215915 | [215915-dungeons-4.json](./215915-dungeons-4.json) |
 | Dungeons 4: The Good, the Bad and the Evil | 309104 | [309104-dungeons-4-the-good-the-bad-and-the-evil.json](./309104-dungeons-4-the-good-the-bad-and-the-evil.json) |
@@ -11227,6 +11230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dust & Neon | 215894 | [215894-dust-and-neon.json](./215894-dust-and-neon.json) |
 | Dust & Rain: Post-apocalyptic RPG | 301987 | [301987-dust-and-rain-post-apocalyptic-rpg.json](./301987-dust-and-rain-post-apocalyptic-rpg.json) |
 | Dust and Aliens | 254069 | [254069-dust-and-aliens.json](./254069-dust-and-aliens.json) |
+| Dust and Echoes | 323210 | [323210-dust-and-echoes.json](./323210-dust-and-echoes.json) |
 | Dust and Echos: Vengeance | 106489 | [106489-dust-and-echos-vengeance.json](./106489-dust-and-echos-vengeance.json) |
 | Dust and Salt | 81742 | [81742-dust-and-salt.json](./81742-dust-and-salt.json) |
 | Dust and Sorcery | 385222 | [385222-dust-and-sorcery.json](./385222-dust-and-sorcery.json) |
