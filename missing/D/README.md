@@ -2942,6 +2942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deck Adventurers II | 199570 | [199570-deck-adventurers-ii.json](./199570-deck-adventurers-ii.json) |
 | Deck Collector | 404827 | [404827-deck-collector.json](./404827-deck-collector.json) |
 | Deck Combo | 368903 | [368903-deck-combo.json](./368903-deck-combo.json) |
+| Deck Dash | 311725 | [311725-deck-dash.json](./311725-deck-dash.json) |
 | Deck Defenders | 237317 | [237317-deck-defenders.json](./237317-deck-defenders.json) |
 | Deck Defense | 301427 | [301427-deck-defense.json](./301427-deck-defense.json) |
 | Deck Hunter | 106418 | [106418-deck-hunter.json](./106418-deck-hunter.json) |
@@ -6560,6 +6561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Divine Sin | 373151 | [373151-divine-sin.json](./373151-divine-sin.json) |
 | Divine Souls | 36303 | [36303-divine-souls.json](./36303-divine-souls.json) |
 | Divine Souls Online | 51264 | [51264-divine-souls-online.json](./51264-divine-souls-online.json) |
+| Divine Trials | 311757 | [311757-divine-trials.json](./311757-divine-trials.json) |
 | Divine Twins | 285022 | [285022-divine-twins.json](./285022-divine-twins.json) |
 | Divine W: Perfect Wonderland | 219787 | [219787-divine-w-perfect-wonderland.json](./219787-divine-w-perfect-wonderland.json) |
 | Divine Wish | 333379 | [333379-divine-wish.json](./333379-divine-wish.json) |
