@@ -1029,6 +1029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rambo: First Blood Part II | 12963 | [12963-rambo-first-blood-part-ii.json](./12963-rambo-first-blood-part-ii.json) |
 | Rambo: First Blood Part II | 39127 | [39127-rambo-first-blood-part-ii.json](./39127-rambo-first-blood-part-ii.json) |
 | Rambo: The Video Game | 3771 | [3771-rambo-the-video-game.json](./3771-rambo-the-video-game.json) |
+| Ramboat 2 | 314592 | [314592-ramboat-2.json](./314592-ramboat-2.json) |
 | Rambunny | 127009 | [127009-rambunny.json](./127009-rambunny.json) |
 | Ramek: Total Machine Death | 337280 | [337280-ramek-total-machine-death.json](./337280-ramek-total-machine-death.json) |
 | Ramen Chain | 159345 | [159345-ramen-chain.json](./159345-ramen-chain.json) |
@@ -4708,6 +4709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RIP | 392756 | [392756-rip.json](./392756-rip.json) |
 | RIP 2: Strike Back | 28922 | [28922-rip-2-strike-back.json](./28922-rip-2-strike-back.json) |
 | RIP 3: The Last Hero | 28923 | [28923-rip-3-the-last-hero.json](./28923-rip-3-the-last-hero.json) |
+| Rip Connections | 314625 | [314625-rip-connections.json](./314625-rip-connections.json) |
 | Rip Cord | 39516 | [39516-rip-cord.json](./39516-rip-cord.json) |
 | Rip Current | 370308 | [370308-rip-current.json](./370308-rip-current.json) |
 | Rip N Ship Simulator | 415279 | [415279-rip-n-ship-simulator.json](./415279-rip-n-ship-simulator.json) |
@@ -4757,6 +4759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise and Fall: Bronze Age | 235884 | [235884-rise-and-fall-bronze-age.json](./235884-rise-and-fall-bronze-age.json) |
 | Rise and Grind! | 253490 | [253490-rise-and-grind.json](./253490-rise-and-grind.json) |
 | Rise Eterna | 113809 | [113809-rise-eterna.json](./113809-rise-eterna.json) |
+| Rise Eterna Bundle | 314601 | [314601-rise-eterna-bundle.json](./314601-rise-eterna-bundle.json) |
 | Rise Eterna War | 290503 | [290503-rise-eterna-war.json](./290503-rise-eterna-war.json) |
 | Rise for the Fight | 253514 | [253514-rise-for-the-fight.json](./253514-rise-for-the-fight.json) |
 | Rise High | 81240 | [81240-rise-high.json](./81240-rise-high.json) |
