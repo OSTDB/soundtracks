@@ -1287,6 +1287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Card Blast | 204966 | [204966-card-blast.json](./204966-card-blast.json) |
 | Card Blitz: WWII | 133235 | [133235-card-blitz-wwii.json](./133235-card-blitz-wwii.json) |
 | Card Captor Sakura: Sakura Card-hen - Sakura Card to Tomodachi | 49518 | [49518-card-captor-sakura-sakura-card-hen-sakura-card-to-tomodachi.json](./49518-card-captor-sakura-sakura-card-hen-sakura-card-to-tomodachi.json) |
+| Card Chronicles: Devious Deck | 312308 | [312308-card-chronicles-devious-deck.json](./312308-card-chronicles-devious-deck.json) |
 | Card Coder | 328022 | [328022-card-coder.json](./328022-card-coder.json) |
 | Card Collection Simulator | 378372 | [378372-card-collection-simulator.json](./378372-card-collection-simulator.json) |
 | Card Colony | 383343 | [383343-card-colony.json](./383343-card-colony.json) |
@@ -1820,6 +1821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cash is King! | 397405 | [397405-cash-is-king.json](./397405-cash-is-king.json) |
 | Cash Laundry Simulator | 365560 | [365560-cash-laundry-simulator.json](./365560-cash-laundry-simulator.json) |
 | Cash Movers | 407286 | [407286-cash-movers.json](./407286-cash-movers.json) |
+| Cash Quiz | 312300 | [312300-cash-quiz.json](./312300-cash-quiz.json) |
 | Cash Royale: Block Puzzle Game | 125892 | [125892-cash-royale-block-puzzle-game.json](./125892-cash-royale-block-puzzle-game.json) |
 | Cash Sprint | 384674 | [384674-cash-sprint.json](./384674-cash-sprint.json) |
 | Cash Wash Simulator | 351092 | [351092-cash-wash-simulator.json](./351092-cash-wash-simulator.json) |
@@ -5222,6 +5224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Circlebound | 384622 | [384622-circlebound.json](./384622-circlebound.json) |
 | Circlebrix: Falling Bricks | 285530 | [285530-circlebrix-falling-bricks.json](./285530-circlebrix-falling-bricks.json) |
 | Circlecers | 334790 | [334790-circlecers.json](./334790-circlecers.json) |
+| Circledrive | 312275 | [312275-circledrive.json](./312275-circledrive.json) |
 | Circlemount | 341634 | [341634-circlemount.json](./341634-circlemount.json) |
 | CircleRun I | 262588 | [262588-circlerun-i.json](./262588-circlerun-i.json) |
 | Circles | 33061 | [33061-circles.json](./33061-circles.json) |
@@ -8088,6 +8091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conscript | 137619 | [137619-conscript.json](./137619-conscript.json) |
 | Conscript: Deluxe Edition | 308797 | [308797-conscript-deluxe-edition.json](./308797-conscript-deluxe-edition.json) |
 | Conscript: Golden Gun Pack | 332002 | [332002-conscript-golden-gun-pack.json](./332002-conscript-golden-gun-pack.json) |
+| Consecrated | 312297 | [312297-consecrated.json](./312297-consecrated.json) |
 | Consensual Torture Simulator | 15446 | [15446-consensual-torture-simulator.json](./15446-consensual-torture-simulator.json) |
 | Considerable Grandfather | 293643 | [293643-considerable-grandfather.json](./293643-considerable-grandfather.json) |
 | Considerable Grandfather: It Followed Me Home | 408784 | [408784-considerable-grandfather-it-followed-me-home.json](./408784-considerable-grandfather-it-followed-me-home.json) |
