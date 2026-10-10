@@ -3534,6 +3534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Albert's Journey | 219659 | [219659-alberts-journey.json](./219659-alberts-journey.json) |
 | Albino Lullaby: Episode 3 | 238615 | [238615-albino-lullaby-episode-3.json](./238615-albino-lullaby-episode-3.json) |
 | Albion Online: Dragonfire | 415306 | [415306-albion-online-dragonfire.json](./415306-albion-online-dragonfire.json) |
+| Alboite | 288678 | [288678-alboite.json](./288678-alboite.json) |
 | Alborada | 266322 | [266322-alborada.json](./266322-alborada.json) |
 | Album | 201619 | [201619-album.json](./201619-album.json) |
 | Album Club: Mune Kyun Saint Paulia Jogakuin | 45444 | [45444-album-club-mune-kyun-saint-paulia-jogakuin.json](./45444-album-club-mune-kyun-saint-paulia-jogakuin.json) |
@@ -10102,6 +10103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atsumare! Pawapuro-kun no DS Koushien | 98515 | [98515-atsumare-pawapuro-kun-no-ds-koushien.json](./98515-atsumare-pawapuro-kun-no-ds-koushien.json) |
 | Atsumete Asobu Kuma no Pooh-san: Mori no Takaramono | 50018 | [50018-atsumete-asobu-kuma-no-pooh-san-mori-no-takaramono.json](./50018-atsumete-asobu-kuma-no-pooh-san-mori-no-takaramono.json) |
 | Atsumete! Banki-chan | 216353 | [216353-atsumete-banki-chan.json](./216353-atsumete-banki-chan.json) |
+| Atta: Spot the Oddities in the Strange Hotel | 288666 | [288666-atta-spot-the-oddities-in-the-strange-hotel.json](./288666-atta-spot-the-oddities-in-the-strange-hotel.json) |
 | Attachment Not Found | 256787 | [256787-attachment-not-found.json](./256787-attachment-not-found.json) |
 | Attack Animal Gakuen | 48601 | [48601-attack-animal-gakuen.json](./48601-attack-animal-gakuen.json) |
 | Attack at Dawn: North Africa | 143327 | [143327-attack-at-dawn-north-africa.json](./143327-attack-at-dawn-north-africa.json) |
