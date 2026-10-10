@@ -5648,6 +5648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angela Light: Ace Attorney | 309996 | [309996-angela-light-ace-attorney.json](./309996-angela-light-ace-attorney.json) |
 | Angela's Love | 385059 | [385059-angelas-love.json](./385059-angelas-love.json) |
 | Angela's Valentine | 350589 | [350589-angelas-valentine.json](./350589-angelas-valentine.json) |
+| Angelblood | 294555 | [294555-angelblood.json](./294555-angelblood.json) |
 | Angeldust | 32892 | [32892-angeldust.json](./32892-angeldust.json) |
 | AngelGaze | 311184 | [311184-angelgaze.json](./311184-angelgaze.json) |
 | Angelian Trigger | 312331 | [312331-angelian-trigger.json](./312331-angelian-trigger.json) |
@@ -5783,6 +5784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angry Hills | 87100 | [87100-angry-hills.json](./87100-angry-hills.json) |
 | Angry King | 111220 | [111220-angry-king.json](./111220-angry-king.json) |
 | Angry Mountain Gods | 183440 | [183440-angry-mountain-gods.json](./183440-angry-mountain-gods.json) |
+| Angry Penguin | 294597 | [294597-angry-penguin.json](./294597-angry-penguin.json) |
 | Angry Peppa | 320890 | [320890-angry-peppa.json](./320890-angry-peppa.json) |
 | Angry Pigs | 194980 | [194980-angry-pigs.json](./194980-angry-pigs.json) |
 | Angry Robot Girlfriend | 290508 | [290508-angry-robot-girlfriend.json](./290508-angry-robot-girlfriend.json) |
@@ -8379,6 +8381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arms Race: TCWE | 29691 | [29691-arms-race-tcwe.json](./29691-arms-race-tcwe.json) |
 | Arms Race: TCWE - Industrialization | 172191 | [172191-arms-race-tcwe-industrialization.json](./172191-arms-race-tcwe-industrialization.json) |
 | Arms Race: TCWE - Politics | 170914 | [170914-arms-race-tcwe-politics.json](./170914-arms-race-tcwe-politics.json) |
+| Arms Remix | 294549 | [294549-arms-remix.json](./294549-arms-remix.json) |
 | Arms Trade Tycoon: Tanks | 190232 | [190232-arms-trade-tycoon-tanks.json](./190232-arms-trade-tycoon-tanks.json) |
 | Arms' Heart | 65268 | [65268-arms-heart.json](./65268-arms-heart.json) |
 | Army Antz | 175721 | [175721-army-antz.json](./175721-army-antz.json) |
