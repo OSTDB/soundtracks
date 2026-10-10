@@ -59,6 +59,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | QB Planets | 150686 | [150686-qb-planets.json](./150686-qb-planets.json) |
 | QB Sim | 106501 | [106501-qb-sim.json](./106501-qb-sim.json) |
 | Qbasic Gorillas | 11690 | [11690-qbasic-gorillas.json](./11690-qbasic-gorillas.json) |
+| QBeez 2 | 304318 | [304318-qbeez-2.json](./304318-qbeez-2.json) |
 | Qbike: Crypto Motorcycles | 68760 | [68760-qbike-crypto-motorcycles.json](./68760-qbike-crypto-motorcycles.json) |
 | Qbio | 168653 | [168653-qbio.json](./168653-qbio.json) |
 | QBob | 342685 | [342685-qbob.json](./342685-qbob.json) |
