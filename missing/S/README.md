@@ -6429,6 +6429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silhouette of Fear | 358889 | [358889-silhouette-of-fear.json](./358889-silhouette-of-fear.json) |
 | Silhouette Stories | 198550 | [198550-silhouette-stories.json](./198550-silhouette-stories.json) |
 | SilhouetteGirl Zan | 233219 | [233219-silhouettegirl-zan.json](./233219-silhouettegirl-zan.json) |
+| Silhoun | 323421 | [323421-silhoun.json](./323421-silhoun.json) |
 | Silica | 247621 | [247621-silica.json](./247621-silica.json) |
 | Silicon Architect | 411160 | [411160-silicon-architect.json](./411160-silicon-architect.json) |
 | Silicon Dreams | 132497 | [132497-silicon-dreams.json](./132497-silicon-dreams.json) |
@@ -16376,6 +16377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StickMan vs. MagicWorld | 265596 | [265596-stickman-vs-magicworld.json](./265596-stickman-vs-magicworld.json) |
 | Stickman War Lightsaber Games | 100746 | [100746-stickman-war-lightsaber-games.json](./100746-stickman-war-lightsaber-games.json) |
 | Stickman War: Stick Fight Army | 248160 | [248160-stickman-war-stick-fight-army.json](./248160-stickman-war-stick-fight-army.json) |
+| Stickman Warriors | 323203 | [323203-stickman-warriors.json](./323203-stickman-warriors.json) |
 | Stickman Warriors Craft | 100834 | [100834-stickman-warriors-craft.json](./100834-stickman-warriors-craft.json) |
 | Stickman World | 87250 | [87250-stickman-world.json](./87250-stickman-world.json) |
 | Stickman World Battle | 287231 | [287231-stickman-world-battle.json](./287231-stickman-world-battle.json) |
@@ -17767,6 +17769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Subverse - Celestina Unbound | 414547 | [414547-subverse-celestina-unbound.json](./414547-subverse-celestina-unbound.json) |
 | Subversion: The Official Incoming Expansion Pack | 84326 | [84326-subversion-the-official-incoming-expansion-pack.json](./84326-subversion-the-official-incoming-expansion-pack.json) |
 | Subverter | 274013 | [274013-subverter.json](./274013-subverter.json) |
+| Subvirtual | 323444 | [323444-subvirtual.json](./323444-subvirtual.json) |
 | Subwar 2050 | 39038 | [39038-subwar-2050.json](./39038-subwar-2050.json) |
 | Subwar 2050 Complete | 51935 | [51935-subwar-2050-complete.json](./51935-subwar-2050-complete.json) |
 | Subway Adventure | 135861 | [135861-subway-adventure.json](./135861-subway-adventure.json) |
@@ -18064,6 +18067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sugoro Quest: Dice Heroes | 330241 | [330241-sugoro-quest-dice-heroes.json](./330241-sugoro-quest-dice-heroes.json) |
 | Sugoro Quest: Dice no Senshi-tachi | 48621 | [48621-sugoro-quest-dice-no-senshi-tachi.json](./48621-sugoro-quest-dice-no-senshi-tachi.json) |
 | Sugoro Quest++ Dicenics | 37807 | [37807-sugoro-quest-dicenics.json](./37807-sugoro-quest-dicenics.json) |
+| Sugoroku Casino Party | 323443 | [323443-sugoroku-casino-party.json](./323443-sugoroku-casino-party.json) |
 | Sugoroku New Year's Party | 379373 | [379373-sugoroku-new-years-party.json](./379373-sugoroku-new-years-party.json) |
 | Suguri | 80489 | [80489-suguri.json](./80489-suguri.json) |
 | Suguru Nature | 147617 | [147617-suguru-nature.json](./147617-suguru-nature.json) |
@@ -20866,6 +20870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survival Space: Unlimited Shooting | 83571 | [83571-survival-space-unlimited-shooting.json](./83571-survival-space-unlimited-shooting.json) |
 | Survival Sprint | 243117 | [243117-survival-sprint.json](./243117-survival-sprint.json) |
 | Survival Story | 291535 | [291535-survival-story.json](./291535-survival-story.json) |
+| Survival Tobita vs. Maniac-Man: Halloween Deathmatch Special!!! | 323419 | [323419-survival-tobita-vs-maniac-man-halloween-deathmatch-special.json](./323419-survival-tobita-vs-maniac-man-halloween-deathmatch-special.json) |
 | Survival Tycoon | 44094 | [44094-survival-tycoon.json](./44094-survival-tycoon.json) |
 | Survival Z | 149219 | [149219-survival-z.json](./149219-survival-z.json) |
 | Survival Z The Alpha | 292304 | [292304-survival-z-the-alpha.json](./292304-survival-z-the-alpha.json) |
