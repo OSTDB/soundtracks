@@ -900,6 +900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Delicacy | 238948 | [238948-magical-delicacy.json](./238948-magical-delicacy.json) |
 | Magical Dice Kids | 130337 | [130337-magical-dice-kids.json](./130337-magical-dice-kids.json) |
 | Magical Dinosaur Tour | 42014 | [42014-magical-dinosaur-tour.json](./42014-magical-dinosaur-tour.json) |
+| Magical DoReMi: Puzzle Carnival | 325725 | [325725-magical-doremi-puzzle-carnival.json](./325725-magical-doremi-puzzle-carnival.json) |
 | Magical Drop | 71552 | [71552-magical-drop.json](./71552-magical-drop.json) |
 | Magical Drop 3 | 45319 | [45319-magical-drop-3.json](./45319-magical-drop-3.json) |
 | Magical Drop III: Toretate Zoukangou! | 171031 | [171031-magical-drop-iii-toretate-zoukangou.json](./171031-magical-drop-iii-toretate-zoukangou.json) |
@@ -7385,6 +7386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft 4k | 238607 | [238607-minecraft-4k.json](./238607-minecraft-4k.json) |
 | Minecraft Backrooms Found Footage | 346784 | [346784-minecraft-backrooms-found-footage.json](./346784-minecraft-backrooms-found-footage.json) |
 | Minecraft Blast | 377668 | [377668-minecraft-blast.json](./377668-minecraft-blast.json) |
+| Minecraft Classic | 325724 | [325724-minecraft-classic.json](./325724-minecraft-classic.json) |
 | Minecraft Create: Above and Beyond | 326827 | [326827-minecraft-create-above-and-beyond.json](./326827-minecraft-create-above-and-beyond.json) |
 | Minecraft Dungeons: Hero Edition | 132145 | [132145-minecraft-dungeons-hero-edition.json](./132145-minecraft-dungeons-hero-edition.json) |
 | Minecraft Dungeons: Howling Peaks | 142160 | [142160-minecraft-dungeons-howling-peaks.json](./142160-minecraft-dungeons-howling-peaks.json) |
@@ -11670,6 +11672,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Murder Mystery J: SP2 Icon | 325461 | [325461-murder-mystery-j-sp2-icon.json](./325461-murder-mystery-j-sp2-icon.json) |
 | Murder Mystery J: Special Stamp - Anna | 325491 | [325491-murder-mystery-j-special-stamp-anna.json](./325491-murder-mystery-j-special-stamp-anna.json) |
 | Murder Mystery J: Special Stamp - Bill | 325489 | [325489-murder-mystery-j-special-stamp-bill.json](./325489-murder-mystery-j-special-stamp-bill.json) |
+| Murder Mystery J: Special Stamp - Camilla | 325487 | [325487-murder-mystery-j-special-stamp-camilla.json](./325487-murder-mystery-j-special-stamp-camilla.json) |
+| Murder Mystery J: Special Stamp - Chris | 325486 | [325486-murder-mystery-j-special-stamp-chris.json](./325486-murder-mystery-j-special-stamp-chris.json) |
 | Murder Mystery J: Special Stamp - Ema | 325490 | [325490-murder-mystery-j-special-stamp-ema.json](./325490-murder-mystery-j-special-stamp-ema.json) |
 | Murder Mystery J: Special Stamp - Eric | 325472 | [325472-murder-mystery-j-special-stamp-eric.json](./325472-murder-mystery-j-special-stamp-eric.json) |
 | Murder Mystery J: Special Stamp - Ernie | 325473 | [325473-murder-mystery-j-special-stamp-ernie.json](./325473-murder-mystery-j-special-stamp-ernie.json) |
@@ -11677,12 +11681,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Murder Mystery J: Special Stamp - Frank | 325465 | [325465-murder-mystery-j-special-stamp-frank.json](./325465-murder-mystery-j-special-stamp-frank.json) |
 | Murder Mystery J: Special Stamp - Freddie | 325464 | [325464-murder-mystery-j-special-stamp-freddie.json](./325464-murder-mystery-j-special-stamp-freddie.json) |
 | Murder Mystery J: Special Stamp - Gale | 325482 | [325482-murder-mystery-j-special-stamp-gale.json](./325482-murder-mystery-j-special-stamp-gale.json) |
+| Murder Mystery J: Special Stamp - Hugh | 325485 | [325485-murder-mystery-j-special-stamp-hugh.json](./325485-murder-mystery-j-special-stamp-hugh.json) |
+| Murder Mystery J: Special Stamp - Jay | 325484 | [325484-murder-mystery-j-special-stamp-jay.json](./325484-murder-mystery-j-special-stamp-jay.json) |
 | Murder Mystery J: Special Stamp - Jessica | 325470 | [325470-murder-mystery-j-special-stamp-jessica.json](./325470-murder-mystery-j-special-stamp-jessica.json) |
 | Murder Mystery J: Special Stamp - Laura | 325474 | [325474-murder-mystery-j-special-stamp-laura.json](./325474-murder-mystery-j-special-stamp-laura.json) |
 | Murder Mystery J: Special Stamp - Lilian | 325463 | [325463-murder-mystery-j-special-stamp-lilian.json](./325463-murder-mystery-j-special-stamp-lilian.json) |
 | Murder Mystery J: Special Stamp - Mary | 325468 | [325468-murder-mystery-j-special-stamp-mary.json](./325468-murder-mystery-j-special-stamp-mary.json) |
 | Murder Mystery J: Special Stamp - Mary-Ann | 325467 | [325467-murder-mystery-j-special-stamp-mary-ann.json](./325467-murder-mystery-j-special-stamp-mary-ann.json) |
 | Murder Mystery J: Special Stamp - Merrill | 325483 | [325483-murder-mystery-j-special-stamp-merrill.json](./325483-murder-mystery-j-special-stamp-merrill.json) |
+| Murder Mystery J: Special Stamp - Mika | 325488 | [325488-murder-mystery-j-special-stamp-mika.json](./325488-murder-mystery-j-special-stamp-mika.json) |
 | Murder Mystery J: Special Stamp - Mike | 325478 | [325478-murder-mystery-j-special-stamp-mike.json](./325478-murder-mystery-j-special-stamp-mike.json) |
 | Murder Mystery J: Special Stamp - Nick | 325481 | [325481-murder-mystery-j-special-stamp-nick.json](./325481-murder-mystery-j-special-stamp-nick.json) |
 | Murder Mystery J: Special Stamp - Rody | 325477 | [325477-murder-mystery-j-special-stamp-rody.json](./325477-murder-mystery-j-special-stamp-rody.json) |
@@ -12508,6 +12515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Little Worms | 55718 | [55718-my-little-worms.json](./55718-my-little-worms.json) |
 | My Love for You is Evermore | 254570 | [254570-my-love-for-you-is-evermore.json](./254570-my-love-for-you-is-evermore.json) |
 | My Love Match | 240855 | [240855-my-love-match.json](./240855-my-love-match.json) |
+| My Lovely Cat: Remastered | 325733 | [325733-my-lovely-cat-remastered.json](./325733-my-lovely-cat-remastered.json) |
 | My Lovely Dog Adventure | 263231 | [263231-my-lovely-dog-adventure.json](./263231-my-lovely-dog-adventure.json) |
 | My Lovely Family Bundle | 223563 | [223563-my-lovely-family-bundle.json](./223563-my-lovely-family-bundle.json) |
 | My Lovely Flower | 373659 | [373659-my-lovely-flower.json](./373659-my-lovely-flower.json) |
