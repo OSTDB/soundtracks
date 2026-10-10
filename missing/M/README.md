@@ -2622,6 +2622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Market Dominion: Last Penny | 170988 | [170988-market-dominion-last-penny.json](./170988-market-dominion-last-penny.json) |
 | Market Empire Simulator | 366962 | [366962-market-empire-simulator.json](./366962-market-empire-simulator.json) |
 | Market Hours | 399710 | [399710-market-hours.json](./399710-market-hours.json) |
+| Market Master Simulator | 309952 | [309952-market-master-simulator.json](./309952-market-master-simulator.json) |
 | Market Mogul | 59899 | [59899-market-mogul.json](./59899-market-mogul.json) |
 | Market Simulator | 342024 | [342024-market-simulator.json](./342024-market-simulator.json) |
 | Market Trouble | 182541 | [182541-market-trouble.json](./182541-market-trouble.json) |
@@ -5582,6 +5583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meowdoku | 409811 | [409811-meowdoku.json](./409811-meowdoku.json) |
 | Meower's Quest: Jasper's Tale | 104025 | [104025-meowers-quest-jaspers-tale.json](./104025-meowers-quest-jaspers-tale.json) |
 | MeowFactory | 403691 | [403691-meowfactory.json](./403691-meowfactory.json) |
+| MeowFall | 310074 | [310074-meowfall.json](./310074-meowfall.json) |
 | Meowgic | 394435 | [394435-meowgic.json](./394435-meowgic.json) |
 | MeowGun: Hell Denizen | 244190 | [244190-meowgun-hell-denizen.json](./244190-meowgun-hell-denizen.json) |
 | Meowhiss the Snake | 292761 | [292761-meowhiss-the-snake.json](./292761-meowhiss-the-snake.json) |
@@ -5608,6 +5610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merc Storia - The Healer and the Melody of the Heart | 333560 | [333560-merc-storia-the-healer-and-the-melody-of-the-heart.json](./333560-merc-storia-the-healer-and-the-melody-of-the-heart.json) |
 | Merc Tactics | 183973 | [183973-merc-tactics.json](./183973-merc-tactics.json) |
 | Mercator | 345071 | [345071-mercator.json](./345071-mercator.json) |
+| Mercenarian | 310075 | [310075-mercenarian.json](./310075-mercenarian.json) |
 | Mercenaries 2: World in Flames | 2684 | [2684-mercenaries-2-world-in-flames.json](./2684-mercenaries-2-world-in-flames.json) |
 | Mercenaries Blaze: Dawn of the Twin Dragons | 141648 | [141648-mercenaries-blaze-dawn-of-the-twin-dragons.json](./141648-mercenaries-blaze-dawn-of-the-twin-dragons.json) |
 | Mercenaries of Astonia | 115487 | [115487-mercenaries-of-astonia.json](./115487-mercenaries-of-astonia.json) |
@@ -6151,6 +6154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metro Exodus: Gold Edition | 95059 | [95059-metro-exodus-gold-edition.json](./95059-metro-exodus-gold-edition.json) |
 | Metro Exodus: Master Artyom Edition | 113629 | [113629-metro-exodus-master-artyom-edition.json](./113629-metro-exodus-master-artyom-edition.json) |
 | Metro Exodus: Sam's Story | 121756 | [121756-metro-exodus-sams-story.json](./121756-metro-exodus-sams-story.json) |
+| Metro Gravity | 310157 | [310157-metro-gravity.json](./310157-metro-gravity.json) |
 | Metro Mini Market Simulator | 365228 | [365228-metro-mini-market-simulator.json](./365228-metro-mini-market-simulator.json) |
 | Metro MP | 212211 | [212211-metro-mp.json](./212211-metro-mp.json) |
 | Metro PD: Close to You | 238426 | [238426-metro-pd-close-to-you.json](./238426-metro-pd-close-to-you.json) |
@@ -11143,6 +11147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moyashibito DX | 233211 | [233211-moyashibito-dx.json](./233211-moyashibito-dx.json) |
 | Mozarella Hills | 291766 | [291766-mozarella-hills.json](./291766-mozarella-hills.json) |
 | Mozart Requiem | 141726 | [141726-mozart-requiem.json](./141726-mozart-requiem.json) |
+| Mozi | 310080 | [310080-mozi.json](./310080-mozi.json) |
 | Mozzle | 175414 | [175414-mozzle.json](./175414-mozzle.json) |
 | MP1: Constellation Chaos | 283414 | [283414-mp1-constellation-chaos.json](./283414-mp1-constellation-chaos.json) |
 | MP1: Minecraft Mayhem | 283416 | [283416-mp1-minecraft-mayhem.json](./283416-mp1-minecraft-mayhem.json) |
@@ -12251,6 +12256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Dating Agency | 307910 | [307910-my-dating-agency.json](./307910-my-dating-agency.json) |
 | My Daughter In Family Ai | 322996 | [322996-my-daughter-in-family-ai.json](./322996-my-daughter-in-family-ai.json) |
 | My Day Challenge | 341348 | [341348-my-day-challenge.json](./341348-my-day-challenge.json) |
+| My Days With Mia | 310088 | [310088-my-days-with-mia.json](./310088-my-days-with-mia.json) |
 | My Dear Boss | 286570 | [286570-my-dear-boss.json](./286570-my-dear-boss.json) |
 | My Dear Brother Jeff | 268660 | [268660-my-dear-brother-jeff.json](./268660-my-dear-brother-jeff.json) |
 | My Dear Can't Speak | 350486 | [350486-my-dear-cant-speak.json](./350486-my-dear-cant-speak.json) |
@@ -12699,6 +12705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Pleasure: Season 3 | 270975 | [270975-my-pleasure-season-3.json](./270975-my-pleasure-season-3.json) |
 | My Plushy Shift | 324875 | [324875-my-plushy-shift.json](./324875-my-plushy-shift.json) |
 | My Pokémon Ranch | 4563 | [4563-my-pokemon-ranch.json](./4563-my-pokemon-ranch.json) |
+| My Poodle's Diary | 310152 | [310152-my-poodles-diary.json](./310152-my-poodles-diary.json) |
 | My Pretend Fairytale Land | 299224 | [299224-my-pretend-fairytale-land.json](./299224-my-pretend-fairytale-land.json) |
 | My Pretend Family | 299223 | [299223-my-pretend-family.json](./299223-my-pretend-family.json) |
 | My Pretend Halloween Town | 299222 | [299222-my-pretend-halloween-town.json](./299222-my-pretend-halloween-town.json) |
