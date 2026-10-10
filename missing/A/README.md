@@ -3357,6 +3357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akatsuki Yureru Koi Akari | 238101 | [238101-akatsuki-yureru-koi-akari.json](./238101-akatsuki-yureru-koi-akari.json) |
 | Akatsuki Yureru Koi Akari SS: Asahi to One Room - Toaru Natsu no Ichinichi | 371589 | [371589-akatsuki-yureru-koi-akari-ss-asahi-to-one-room-toaru-natsu-no-ichinichi.json](./371589-akatsuki-yureru-koi-akari-ss-asahi-to-one-room-toaru-natsu-no-ichinichi.json) |
 | Akatsuki Zero | 258127 | [258127-akatsuki-zero.json](./258127-akatsuki-zero.json) |
+| Akatsuki: Lord of the Dawn | 291392 | [291392-akatsuki-lord-of-the-dawn.json](./291392-akatsuki-lord-of-the-dawn.json) |
 | Akatsuki: Shisei Ichi-go | 61628 | [61628-akatsuki-shisei-ichi-go.json](./61628-akatsuki-shisei-ichi-go.json) |
 | Akayashiki | 297794 | [297794-akayashiki.json](./297794-akayashiki.json) |
 | Akazukin Cha Cha Cha | 265971 | [265971-akazukin-cha-cha-cha.json](./265971-akazukin-cha-cha-cha.json) |
@@ -5840,6 +5841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anima Fighters | 332422 | [332422-anima-fighters.json](./332422-anima-fighters.json) |
 | Anima Flux | 249480 | [249480-anima-flux.json](./249480-anima-flux.json) |
 | Anima Gate of Memories: I & II Remaster | 346952 | [346952-anima-gate-of-memories-i-and-ii-remaster.json](./346952-anima-gate-of-memories-i-and-ii-remaster.json) |
+| Anima Keeper | 291355 | [291355-anima-keeper.json](./291355-anima-keeper.json) |
 | Anima Mundi | 350000 | [350000-anima-mundi.json](./350000-anima-mundi.json) |
 | Anima of Quantmix | 200731 | [200731-anima-of-quantmix.json](./200731-anima-of-quantmix.json) |
 | Anima Reprise | 242542 | [242542-anima-reprise.json](./242542-anima-reprise.json) |
