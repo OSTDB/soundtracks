@@ -9449,6 +9449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cow Chess | 331281 | [331281-cow-chess.json](./331281-cow-chess.json) |
 | Cow Defender | 97441 | [97441-cow-defender.json](./97441-cow-defender.json) |
 | Cow Evolution | 203205 | [203205-cow-evolution.json](./203205-cow-evolution.json) |
+| Cow Life Sim RPG | 281348 | [281348-cow-life-sim-rpg.json](./281348-cow-life-sim-rpg.json) |
 | Cow Project 1986 | 401643 | [401643-cow-project-1986.json](./401643-cow-project-1986.json) |
 | Cow V: The Great Egg Quest | 71060 | [71060-cow-v-the-great-egg-quest.json](./71060-cow-v-the-great-egg-quest.json) |
 | CowaCowa: Jinmenken | 339328 | [339328-cowacowa-jinmenken.json](./339328-cowacowa-jinmenken.json) |
@@ -9761,6 +9762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crankventure Capitalist | 314494 | [314494-crankventure-capitalist.json](./314494-crankventure-capitalist.json) |
 | Cranky Bird | 207285 | [207285-cranky-bird.json](./207285-cranky-bird.json) |
 | Cranky Cat | 16514 | [16514-cranky-cat.json](./16514-cranky-cat.json) |
+| Cranky Counter (Don't Play This Game!) | 281342 | [281342-cranky-counter-dont-play-this-game.json](./281342-cranky-counter-dont-play-this-game.json) |
 | Cranky Crabs | 397422 | [397422-cranky-crabs.json](./397422-cranky-crabs.json) |
 | Cranky Food Friends | 230209 | [230209-cranky-food-friends.json](./230209-cranky-food-friends.json) |
 | Cranky Jump | 418591 | [418591-cranky-jump.json](./418591-cranky-jump.json) |
