@@ -1394,6 +1394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ZorkQuest: The Crystal of Doom | 59857 | [59857-zorkquest-the-crystal-of-doom.json](./59857-zorkquest-the-crystal-of-doom.json) |
 | Zorlok | 361789 | [361789-zorlok.json](./361789-zorlok.json) |
 | Zornhau | 408281 | [408281-zornhau.json](./408281-zornhau.json) |
+| Zorovan Powerplant | 285407 | [285407-zorovan-powerplant.json](./285407-zorovan-powerplant.json) |
 | Zorpon | 208413 | [208413-zorpon.json](./208413-zorpon.json) |
 | Zorro | 81431 | [81431-zorro.json](./81431-zorro.json) |
 | Zorro and Zedd | 272891 | [272891-zorro-and-zedd.json](./272891-zorro-and-zedd.json) |
