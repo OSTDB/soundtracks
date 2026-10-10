@@ -350,6 +350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Cutie | 411724 | [411724-call-of-cutie.json](./411724-call-of-cutie.json) |
 | Call of Death Zombie Invasion | 231976 | [231976-call-of-death-zombie-invasion.json](./231976-call-of-death-zombie-invasion.json) |
 | Call of Dookie | 274544 | [274544-call-of-dookie.json](./274544-call-of-dookie.json) |
+| Call of Duty | 322845 | [322845-call-of-duty.json](./322845-call-of-duty.json) |
 | Call of Duty 2 | 119160 | [119160-call-of-duty-2.json](./119160-call-of-duty-2.json) |
 | Call of Duty 2: Collector's Edition | 292790 | [292790-call-of-duty-2-collectors-edition.json](./292790-call-of-duty-2-collectors-edition.json) |
 | Call of Duty 2: Game of the Year Edition | 292789 | [292789-call-of-duty-2-game-of-the-year-edition.json](./292789-call-of-duty-2-game-of-the-year-edition.json) |
@@ -3211,6 +3212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chalet | 350943 | [350943-chalet.json](./350943-chalet.json) |
 | Chalice | 151274 | [151274-chalice.json](./151274-chalice.json) |
 | Chalicebound | 300985 | [300985-chalicebound.json](./300985-chalicebound.json) |
+| Chalk River | 322857 | [322857-chalk-river.json](./322857-chalk-river.json) |
 | Chalk Up! | 175184 | [175184-chalk-up.json](./175184-chalk-up.json) |
 | Chalkboard Sports Baseball | 80123 | [80123-chalkboard-sports-baseball.json](./80123-chalkboard-sports-baseball.json) |
 | Chalked | 90906 | [90906-chalked.json](./90906-chalked.json) |
@@ -12000,6 +12002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber City Escape | 149725 | [149725-cyber-city-escape.json](./149725-cyber-city-escape.json) |
 | Cyber City Oedo 808: Kemono no Zokusei | 64382 | [64382-cyber-city-oedo-808-kemono-no-zokusei.json](./64382-cyber-city-oedo-808-kemono-no-zokusei.json) |
 | Cyber Clutch: Hot Import Nights | 302383 | [302383-cyber-clutch-hot-import-nights.json](./302383-cyber-clutch-hot-import-nights.json) |
+| Cyber Clutch: Hot Import Nights - Overdrive Pack | 322637 | [322637-cyber-clutch-hot-import-nights-overdrive-pack.json](./322637-cyber-clutch-hot-import-nights-overdrive-pack.json) |
 | Cyber Combat | 236335 | [236335-cyber-combat.json](./236335-cyber-combat.json) |
 | Cyber Courier 2088 | 233666 | [233666-cyber-courier-2088.json](./233666-cyber-courier-2088.json) |
 | Cyber Cult City | 154083 | [154083-cyber-cult-city.json](./154083-cyber-cult-city.json) |
