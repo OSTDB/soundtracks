@@ -5622,6 +5622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dimensity | 16152 | [16152-dimensity.json](./16152-dimensity.json) |
 | Dimeo's Jukebox | 143033 | [143033-dimeos-jukebox.json](./143033-dimeos-jukebox.json) |
 | Dimhaven: The Lost Source | 253578 | [253578-dimhaven-the-lost-source.json](./253578-dimhaven-the-lost-source.json) |
+| Diminishing Light: Wheeled Carnage | 294029 | [294029-diminishing-light-wheeled-carnage.json](./294029-diminishing-light-wheeled-carnage.json) |
 | Diminutive | 100309 | [100309-diminutive.json](./100309-diminutive.json) |
 | Dimlight Cafe | 183443 | [183443-dimlight-cafe.json](./183443-dimlight-cafe.json) |
 | Dimlight Dungeon | 276835 | [276835-dimlight-dungeon.json](./276835-dimlight-dungeon.json) |
@@ -7097,6 +7098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dogville | 272032 | [272032-dogville.json](./272032-dogville.json) |
 | Dogwalk | 348639 | [348639-dogwalk.json](./348639-dogwalk.json) |
 | DogWorld Premium | 87265 | [87265-dogworld-premium.json](./87265-dogworld-premium.json) |
+| Dogyuun | 294035 | [294035-dogyuun.json](./294035-dogyuun.json) |
 | Dogz | 131393 | [131393-dogz.json](./131393-dogz.json) |
 | Dogz 3: Your Virtual Petz | 151540 | [151540-dogz-3-your-virtual-petz.json](./151540-dogz-3-your-virtual-petz.json) |
 | Dogz 4 | 151539 | [151539-dogz-4.json](./151539-dogz-4.json) |
