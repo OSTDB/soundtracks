@@ -129,6 +129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baby Bear's Big Day Out | 155707 | [155707-baby-bears-big-day-out.json](./155707-baby-bears-big-day-out.json) |
 | Baby Berks | 60533 | [60533-baby-berks.json](./60533-baby-berks.json) |
 | Baby Blimp | 177054 | [177054-baby-blimp.json](./177054-baby-blimp.json) |
+| Baby Blues Nightmares: Toddler Horror Game | 291377 | [291377-baby-blues-nightmares-toddler-horror-game.json](./291377-baby-blues-nightmares-toddler-horror-game.json) |
 | Baby Boomer | 48107 | [48107-baby-boomer.json](./48107-baby-boomer.json) |
 | Baby Bug | 14279 | [14279-baby-bug.json](./14279-baby-bug.json) |
 | Baby Bump 2 | 313726 | [313726-baby-bump-2.json](./313726-baby-bump-2.json) |
@@ -7199,6 +7200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blues Brothers 2000 | 3425 | [3425-blues-brothers-2000.json](./3425-blues-brothers-2000.json) |
 | Blues Brothers S | 330865 | [330865-blues-brothers-s.json](./330865-blues-brothers-s.json) |
 | BlueSkies | 250907 | [250907-blueskies.json](./250907-blueskies.json) |
+| BlueSkies 3 | 291383 | [291383-blueskies-3.json](./291383-blueskies-3.json) |
 | Bluesky Map Jam | 330805 | [330805-bluesky-map-jam.json](./330805-bluesky-map-jam.json) |
 | BlueSuburbia | 252235 | [252235-bluesuburbia.json](./252235-bluesuburbia.json) |
 | BlueTooth BiPlanes | 305991 | [305991-bluetooth-biplanes.json](./305991-bluetooth-biplanes.json) |
@@ -8359,6 +8361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bounce Boing Voyage | 245006 | [245006-bounce-boing-voyage.json](./245006-bounce-boing-voyage.json) |
 | Bounce Cat | 352747 | [352747-bounce-cat.json](./352747-bounce-cat.json) |
 | Bounce Forever! | 91085 | [91085-bounce-forever.json](./91085-bounce-forever.json) |
+| Bounce Gun | 291375 | [291375-bounce-gun.json](./291375-bounce-gun.json) |
 | Bounce House | 262487 | [262487-bounce-house.json](./262487-bounce-house.json) |
 | Bounce It | 363033 | [363033-bounce-it.json](./363033-bounce-it.json) |
 | Bounce Lounge | 233232 | [233232-bounce-lounge.json](./233232-bounce-lounge.json) |
@@ -9475,6 +9478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bridge for Windows | 83475 | [83475-bridge-for-windows.json](./83475-bridge-for-windows.json) |
 | Bridge hand Composer | 87317 | [87317-bridge-hand-composer.json](./87317-bridge-hand-composer.json) |
 | Bridge Hunter | 260167 | [260167-bridge-hunter.json](./260167-bridge-hunter.json) |
+| Bridge Maker | 291398 | [291398-bridge-maker.json](./291398-bridge-maker.json) |
 | Bridge Master | 94682 | [94682-bridge-master.json](./94682-bridge-master.json) |
 | Bridge Master with Terence Reese | 362444 | [362444-bridge-master-with-terence-reese.json](./362444-bridge-master-with-terence-reese.json) |
 | Bridge Race: Horror Edition | 376249 | [376249-bridge-race-horror-edition.json](./376249-bridge-race-horror-edition.json) |
@@ -9582,6 +9586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Briscola | 100011 | [100011-briscola.json](./100011-briscola.json) |
 | Brisk | 327267 | [327267-brisk.json](./327267-brisk.json) |
 | Brisk Square | 151178 | [151178-brisk-square.json](./151178-brisk-square.json) |
+| Brisk Up | 291389 | [291389-brisk-up.json](./291389-brisk-up.json) |
 | Bristle and the Artificial Invasion | 316102 | [316102-bristle-and-the-artificial-invasion.json](./316102-bristle-and-the-artificial-invasion.json) |
 | Bristles | 23863 | [23863-bristles.json](./23863-bristles.json) |
 | Britannic: Patroness of the Mediterranean | 135665 | [135665-britannic-patroness-of-the-mediterranean.json](./135665-britannic-patroness-of-the-mediterranean.json) |
