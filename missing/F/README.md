@@ -6346,6 +6346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortnite: Chapter 4 | 228328 | [228328-fortnite-chapter-4.json](./228328-fortnite-chapter-4.json) |
 | Fortnite: Chapter 4 - Season 2: Mega | 241495 | [241495-fortnite-chapter-4-season-2-mega.json](./241495-fortnite-chapter-4-season-2-mega.json) |
 | Fortnite: Chapter 4 - Season OG | 275141 | [275141-fortnite-chapter-4-season-og.json](./275141-fortnite-chapter-4-season-og.json) |
+| Fortnite: Chapter 5 - Season 2: Myths & Mortals | 290301 | [290301-fortnite-chapter-5-season-2-myths-and-mortals.json](./290301-fortnite-chapter-5-season-2-myths-and-mortals.json) |
 | Fortnite: Chapter 5 - Season 3: Wrecked | 302611 | [302611-fortnite-chapter-5-season-3-wrecked.json](./302611-fortnite-chapter-5-season-3-wrecked.json) |
 | Fortnite: Chapter 5 - Season 4: Absolute Doom | 313311 | [313311-fortnite-chapter-5-season-4-absolute-doom.json](./313311-fortnite-chapter-5-season-4-absolute-doom.json) |
 | Fortnite: Chapter 5 - Underground | 278837 | [278837-fortnite-chapter-5-underground.json](./278837-fortnite-chapter-5-underground.json) |
