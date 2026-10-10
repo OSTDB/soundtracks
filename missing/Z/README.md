@@ -751,6 +751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zobre Zombie | 275011 | [275011-zobre-zombie.json](./275011-zobre-zombie.json) |
 | Zockbox | 91610 | [91610-zockbox.json](./91610-zockbox.json) |
 | Zoda's Revenge: StarTropics II | 48062 | [48062-zodas-revenge-startropics-ii.json](./48062-zodas-revenge-startropics-ii.json) |
+| Zodchy | 301634 | [301634-zodchy.json](./301634-zodchy.json) |
 | Zodi Bingo | 88165 | [88165-zodi-bingo.json](./88165-zodi-bingo.json) |
 | Zodiac | 146103 | [146103-zodiac.json](./146103-zodiac.json) |
 | Zodiac | 337752 | [337752-zodiac.json](./337752-zodiac.json) |
@@ -776,6 +777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zoelie | 161169 | [161169-zoelie.json](./161169-zoelie.json) |
 | Zoey 101 | 18325 | [18325-zoey-101.json](./18325-zoey-101.json) |
 | Zoey 101: Field Trip Fiasco | 18326 | [18326-zoey-101-field-trip-fiasco.json](./18326-zoey-101-field-trip-fiasco.json) |
+| Zoey: Horny Roomates | 301637 | [301637-zoey-horny-roomates.json](./301637-zoey-horny-roomates.json) |
 | Zoey: My Hentai Sex Doll | 167170 | [167170-zoey-my-hentai-sex-doll.json](./167170-zoey-my-hentai-sex-doll.json) |
 | Zoids 2: Herikku Kyouwakoku vs. Gairosu Teikoku | 241430 | [241430-zoids-2-herikku-kyouwakoku-vs-gairosu-teikoku.json](./241430-zoids-2-herikku-kyouwakoku-vs-gairosu-teikoku.json) |
 | Zoids 2: Zenebasu no Gyakushuu | 48594 | [48594-zoids-2-zenebasu-no-gyakushuu.json](./48594-zoids-2-zenebasu-no-gyakushuu.json) |
@@ -959,6 +961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Hobby VR | 41950 | [41950-zombie-hobby-vr.json](./41950-zombie-hobby-vr.json) |
 | Zombie Horde | 167196 | [167196-zombie-horde.json](./167196-zombie-horde.json) |
 | Zombie Horde Dominator | 263144 | [263144-zombie-horde-dominator.json](./263144-zombie-horde-dominator.json) |
+| Zombie House Defense | 301635 | [301635-zombie-house-defense.json](./301635-zombie-house-defense.json) |
 | Zombie HQ | 343749 | [343749-zombie-hq.json](./343749-zombie-hq.json) |
 | Zombie Hunter | 171354 | [171354-zombie-hunter.json](./171354-zombie-hunter.json) |
 | Zombie Hunter | 220741 | [220741-zombie-hunter.json](./220741-zombie-hunter.json) |
@@ -982,6 +985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Isle | 343474 | [343474-zombie-isle.json](./343474-zombie-isle.json) |
 | Zombie Kill | 373670 | [373670-zombie-kill.json](./373670-zombie-kill.json) |
 | Zombie Killer | 181776 | [181776-zombie-killer.json](./181776-zombie-killer.json) |
+| Zombie Killer | 301636 | [301636-zombie-killer.json](./301636-zombie-killer.json) |
 | Zombie Killer Squad | 213946 | [213946-zombie-killer-squad.json](./213946-zombie-killer-squad.json) |
 | Zombie Killer: Type to Shoot! | 114899 | [114899-zombie-killer-type-to-shoot.json](./114899-zombie-killer-type-to-shoot.json) |
 | Zombie Killin' | 29697 | [29697-zombie-killin.json](./29697-zombie-killin.json) |
@@ -1201,6 +1205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombify Me Run | 221267 | [221267-zombify-me-run.json](./221267-zombify-me-run.json) |
 | Zombii Attack | 84966 | [84966-zombii-attack.json](./84966-zombii-attack.json) |
 | Zombillie | 33167 | [33167-zombillie.json](./33167-zombillie.json) |
+| Zombiology | 301638 | [301638-zombiology.json](./301638-zombiology.json) |
 | Zombitatos the end of the Pc master race | 31916 | [31916-zombitatos-the-end-of-the-pc-master-race.json](./31916-zombitatos-the-end-of-the-pc-master-race.json) |
 | Zombitsu | 23484 | [23484-zombitsu.json](./23484-zombitsu.json) |
 | ZombiU | 1591 | [1591-zombiu.json](./1591-zombiu.json) |
@@ -1409,6 +1414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ZPack: Random Maps for ZDoom | 260981 | [260981-zpack-random-maps-for-zdoom.json](./260981-zpack-random-maps-for-zdoom.json) |
 | ZPC | 78915 | [78915-zpc.json](./78915-zpc.json) |
 | ZpellCatz | 206340 | [206340-zpellcatz.json](./206340-zpellcatz.json) |
+| ZpellCatz: Supporter Pack | 301639 | [301639-zpellcatz-supporter-pack.json](./301639-zpellcatz-supporter-pack.json) |
 | ZPF | 308919 | [308919-zpf.json](./308919-zpf.json) |
 | ZPlague | 188981 | [188981-zplague.json](./188981-zplague.json) |
 | ZRoll | 33118 | [33118-zroll.json](./33118-zroll.json) |
