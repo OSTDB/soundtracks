@@ -635,6 +635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Takeshi and Hiroshi | 130698 | [130698-takeshi-and-hiroshi.json](./130698-takeshi-and-hiroshi.json) |
 | Takeshi no Sengoku Fuuunko | 48887 | [48887-takeshi-no-sengoku-fuuunko.json](./48887-takeshi-no-sengoku-fuuunko.json) |
 | Takeyariman | 222300 | [222300-takeyariman.json](./222300-takeyariman.json) |
+| Taking Over Her Heart | 327901 | [327901-taking-over-her-heart.json](./327901-taking-over-her-heart.json) |
 | Taking Root | 263045 | [263045-taking-root.json](./263045-taking-root.json) |
 | Taking Root: Academic Version | 270089 | [270089-taking-root-academic-version.json](./270089-taking-root-academic-version.json) |
 | Taking Today Off | 384156 | [384156-taking-today-off.json](./384156-taking-today-off.json) |
@@ -1474,6 +1475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tap Craft | 239048 | [239048-tap-craft.json](./239048-tap-craft.json) |
 | Tap Crush Jewels | 90679 | [90679-tap-crush-jewels.json](./90679-tap-crush-jewels.json) |
 | Tap Dash | 252140 | [252140-tap-dash.json](./252140-tap-dash.json) |
+| Tap Derby | 327876 | [327876-tap-derby.json](./327876-tap-derby.json) |
 | Tap Drift: Wild Run Car Racing | 257006 | [257006-tap-drift-wild-run-car-racing.json](./257006-tap-drift-wild-run-car-racing.json) |
 | Tap Gun | 247436 | [247436-tap-gun.json](./247436-tap-gun.json) |
 | Tap Heroes | 35228 | [35228-tap-heroes.json](./35228-tap-heroes.json) |
@@ -3254,6 +3256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | That Hole-in-the-Wall Place | 215234 | [215234-that-hole-in-the-wall-place.json](./215234-that-hole-in-the-wall-place.json) |
 | That Last Girl | 236957 | [236957-that-last-girl.json](./236957-that-last-girl.json) |
 | That Lava Escape Game | 128015 | [128015-that-lava-escape-game.json](./128015-that-lava-escape-game.json) |
+| That New Diner | 327900 | [327900-that-new-diner.json](./327900-that-new-diner.json) |
 | That Night | 218733 | [218733-that-night.json](./218733-that-night.json) |
 | That One Celestial Night | 176495 | [176495-that-one-celestial-night.json](./176495-that-one-celestial-night.json) |
 | That One Otter Game | 355527 | [355527-that-one-otter-game.json](./355527-that-one-otter-game.json) |
@@ -4635,6 +4638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Contract Bound | 224479 | [224479-the-contract-bound.json](./224479-the-contract-bound.json) |
 | The Contractor | 44091 | [44091-the-contractor.json](./44091-the-contractor.json) |
 | The Contrast of 2 Worlds | 178939 | [178939-the-contrast-of-2-worlds.json](./178939-the-contrast-of-2-worlds.json) |
+| The Conundrum Collection | 327783 | [327783-the-conundrum-collection.json](./327783-the-conundrum-collection.json) |
 | The Conveni: Ano Machi wo Dokusen Seyo | 178558 | [178558-the-conveni-ano-machi-wo-dokusen-seyo.json](./178558-the-conveni-ano-machi-wo-dokusen-seyo.json) |
 | The Convenience Store | 129292 | [129292-the-convenience-store.json](./129292-the-convenience-store.json) |
 | The Cook in the Court of the Count | 397669 | [397669-the-cook-in-the-court-of-the-count.json](./397669-the-cook-in-the-court-of-the-count.json) |
@@ -6132,6 +6136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ghost of Us | 313880 | [313880-the-ghost-of-us.json](./313880-the-ghost-of-us.json) |
 | The Ghost Ship | 111662 | [111662-the-ghost-ship.json](./111662-the-ghost-ship.json) |
 | The Ghost Town Adventure | 108284 | [108284-the-ghost-town-adventure.json](./108284-the-ghost-town-adventure.json) |
+| The Ghost Treasure | 327795 | [327795-the-ghost-treasure.json](./327795-the-ghost-treasure.json) |
 | The Ghost X: Sniper Simulator | 272445 | [272445-the-ghost-x-sniper-simulator.json](./272445-the-ghost-x-sniper-simulator.json) |
 | The Ghost X: Sniper Simulator - Arsenal Expansion | 304814 | [304814-the-ghost-x-sniper-simulator-arsenal-expansion.json](./304814-the-ghost-x-sniper-simulator-arsenal-expansion.json) |
 | The Ghosts of Hackney Mills | 74985 | [74985-the-ghosts-of-hackney-mills.json](./74985-the-ghosts-of-hackney-mills.json) |
@@ -7799,6 +7804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Zelda: Tears of the Kingdom - Nintendo Switch 2 Edition | 338073 | [338073-the-legend-of-zelda-tears-of-the-kingdom-nintendo-switch-2-edition.json](./338073-the-legend-of-zelda-tears-of-the-kingdom-nintendo-switch-2-edition.json) |
 | The Legend of Zelda: Tears of the Kingdom Online | 357440 | [357440-the-legend-of-zelda-tears-of-the-kingdom-online.json](./357440-the-legend-of-zelda-tears-of-the-kingdom-online.json) |
 | The Legend of Zelda: Tears of the Kingdom Randomizer | 256282 | [256282-the-legend-of-zelda-tears-of-the-kingdom-randomizer.json](./256282-the-legend-of-zelda-tears-of-the-kingdom-randomizer.json) |
+| The Legend of Zelda: The Hunter's Song | 327776 | [327776-the-legend-of-zelda-the-hunters-song.json](./327776-the-legend-of-zelda-the-hunters-song.json) |
 | The Legend of Zelda: The Mini Quest | 275620 | [275620-the-legend-of-zelda-the-mini-quest.json](./275620-the-legend-of-zelda-the-mini-quest.json) |
 | The Legend of Zelda: The Missing Link | 136392 | [136392-the-legend-of-zelda-the-missing-link.json](./136392-the-legend-of-zelda-the-missing-link.json) |
 | The Legend of Zelda: The Shadowgazer | 323364 | [323364-the-legend-of-zelda-the-shadowgazer.json](./323364-the-legend-of-zelda-the-shadowgazer.json) |
@@ -19090,6 +19096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trow's Space | 250876 | [250876-trows-space.json](./250876-trows-space.json) |
 | Troxia | 214480 | [214480-troxia.json](./214480-troxia.json) |
 | Troy Online | 92516 | [92516-troy-online.json](./92516-troy-online.json) |
+| Troy-Bilt: Testing Grounds | 327791 | [327791-troy-bilt-testing-grounds.json](./327791-troy-bilt-testing-grounds.json) |
 | Troy: The Malware Fight | 156974 | [156974-troy-the-malware-fight.json](./156974-troy-the-malware-fight.json) |
 | TRT Bil Bakalım | 380637 | [380637-trt-bil-bakal-m.json](./380637-trt-bil-bakal-m.json) |
 | Tru Or Die: Chiraq | 280850 | [280850-tru-or-die-chiraq.json](./280850-tru-or-die-chiraq.json) |
