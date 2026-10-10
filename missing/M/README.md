@@ -3638,6 +3638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Max in Ghostpix | 395013 | [395013-max-in-ghostpix.json](./395013-max-in-ghostpix.json) |
 | Max Jefht: Ace Attorney | 309986 | [309986-max-jefht-ace-attorney.json](./309986-max-jefht-ace-attorney.json) |
 | Max Magic | 45914 | [45914-max-magic.json](./45914-max-magic.json) |
+| Max Manos | 329599 | [329599-max-manos.json](./329599-max-manos.json) |
 | Max Mix Game | 46669 | [46669-max-mix-game.json](./46669-max-mix-game.json) |
 | Max on the Moon | 209536 | [209536-max-on-the-moon.json](./209536-max-on-the-moon.json) |
 | Max Payne | 133860 | [133860-max-payne.json](./133860-max-payne.json) |
@@ -6929,6 +6930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Míhún Chē | 247447 | [247447-mihun-che.json](./247447-mihun-che.json) |
 | Miimi to Taata no Waiwai Oekaki Doubutsuen | 293148 | [293148-miimi-to-taata-no-waiwai-oekaki-doubutsuen.json](./293148-miimi-to-taata-no-waiwai-oekaki-doubutsuen.json) |
 | Miitopia | 143620 | [143620-miitopia.json](./143620-miitopia.json) |
+| Miiverse Clone RPG | 329602 | [329602-miiverse-clone-rpg.json](./329602-miiverse-clone-rpg.json) |
 | Mik | 262928 | [262928-mik.json](./262928-mik.json) |
 | Mika "Dumper" Spin | 91351 | [91351-mika-dumper-spin.json](./91351-mika-dumper-spin.json) |
 | Mika and the Witch's Mountain | 195098 | [195098-mika-and-the-witchs-mountain.json](./195098-mika-and-the-witchs-mountain.json) |
