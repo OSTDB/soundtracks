@@ -1037,6 +1037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Omega Racers | 122185 | [122185-omega-racers.json](./122185-omega-racers.json) |
 | Omega Rally Championship | 132162 | [132162-omega-rally-championship.json](./132162-omega-rally-championship.json) |
 | Omega Run | 70366 | [70366-omega-run.json](./70366-omega-run.json) |
+| Omega Space | 304917 | [304917-omega-space.json](./304917-omega-space.json) |
 | Omega Strike | 39752 | [39752-omega-strike.json](./39752-omega-strike.json) |
 | Omega Strike: Deluxe Edition | 120798 | [120798-omega-strike-deluxe-edition.json](./120798-omega-strike-deluxe-edition.json) |
 | Omega Strikers: Season 2 - Summer Splash | 260971 | [260971-omega-strikers-season-2-summer-splash.json](./260971-omega-strikers-season-2-summer-splash.json) |
@@ -1509,6 +1510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One More Trail | 400855 | [400855-one-more-trail.json](./400855-one-more-trail.json) |
 | One More Treasure | 369133 | [369133-one-more-treasure.json](./369133-one-more-treasure.json) |
 | One More Wipe! | 389594 | [389594-one-more-wipe.json](./389594-one-more-wipe.json) |
+| One more! | 304849 | [304849-one-more.json](./304849-one-more.json) |
 | One Move Away | 325581 | [325581-one-move-away.json](./325581-one-move-away.json) |
 | One Must Fall | 14428 | [14428-one-must-fall.json](./14428-one-must-fall.json) |
 | One Nation Under the Old Gods | 372532 | [372532-one-nation-under-the-old-gods.json](./372532-one-nation-under-the-old-gods.json) |
