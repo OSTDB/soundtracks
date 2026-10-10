@@ -2999,8 +2999,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Test Drive Unlimited | 7215 | [7215-test-drive-unlimited.json](./7215-test-drive-unlimited.json) |
 | Test Drive Unlimited 2 | 7216 | [7216-test-drive-unlimited-2.json](./7216-test-drive-unlimited-2.json) |
 | Test Drive Unlimited Solar Crown | 135671 | [135671-test-drive-unlimited-solar-crown.json](./135671-test-drive-unlimited-solar-crown.json) |
+| Test Drive Unlimited Solar Crown: DLC Solar Content | 311729 | [311729-test-drive-unlimited-solar-crown-dlc-solar-content.json](./311729-test-drive-unlimited-solar-crown-dlc-solar-content.json) |
+| Test Drive Unlimited Solar Crown: Ford GT 2006 | 311727 | [311727-test-drive-unlimited-solar-crown-ford-gt-2006.json](./311727-test-drive-unlimited-solar-crown-ford-gt-2006.json) |
 | Test Drive Unlimited Solar Crown: Gold Edition | 331836 | [331836-test-drive-unlimited-solar-crown-gold-edition.json](./331836-test-drive-unlimited-solar-crown-gold-edition.json) |
 | Test Drive Unlimited Solar Crown: Silver Sharp Edition | 331835 | [331835-test-drive-unlimited-solar-crown-silver-sharp-edition.json](./331835-test-drive-unlimited-solar-crown-silver-sharp-edition.json) |
+| Test Drive Unlimited Solar Crown: Silver Sharp Pack | 311730 | [311730-test-drive-unlimited-solar-crown-silver-sharp-pack.json](./311730-test-drive-unlimited-solar-crown-silver-sharp-pack.json) |
+| Test Drive Unlimited Solar Crown: Silver Street Pack | 311728 | [311728-test-drive-unlimited-solar-crown-silver-street-pack.json](./311728-test-drive-unlimited-solar-crown-silver-street-pack.json) |
 | Test Drive Unlimited Solar Crown: Silver Streets Edition | 331834 | [331834-test-drive-unlimited-solar-crown-silver-streets-edition.json](./331834-test-drive-unlimited-solar-crown-silver-streets-edition.json) |
 | Test Drive V-Rally | 45844 | [45844-test-drive-v-rally.json](./45844-test-drive-v-rally.json) |
 | Test Drive: Eve of Destruction | 6197 | [6197-test-drive-eve-of-destruction.json](./6197-test-drive-eve-of-destruction.json) |
@@ -8489,6 +8493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mines of White Label | 289982 | [289982-the-mines-of-white-label.json](./289982-the-mines-of-white-label.json) |
 | The Minesweeper | 406322 | [406322-the-minesweeper.json](./406322-the-minesweeper.json) |
 | The Minesweeper's Tale | 411056 | [411056-the-minesweepers-tale.json](./411056-the-minesweepers-tale.json) |
+| The Mini Crossword | 311756 | [311756-the-mini-crossword.json](./311756-the-mini-crossword.json) |
 | The Ministry for Anomaly Observation | 405582 | [405582-the-ministry-for-anomaly-observation.json](./405582-the-ministry-for-anomaly-observation.json) |
 | The Minotaur | 34159 | [34159-the-minotaur.json](./34159-the-minotaur.json) |
 | The Miracle Of San Martin | 416606 | [416606-the-miracle-of-san-martin.json](./416606-the-miracle-of-san-martin.json) |
@@ -10051,6 +10056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Shroom Project | 320236 | [320236-the-shroom-project.json](./320236-the-shroom-project.json) |
 | The Shrouded Isle: Sunken Sins | 76892 | [76892-the-shrouded-isle-sunken-sins.json](./76892-the-shrouded-isle-sunken-sins.json) |
 | The Shu Legend | 405566 | [405566-the-shu-legend.json](./405566-the-shu-legend.json) |
+| The Shuddering | 311758 | [311758-the-shuddering.json](./311758-the-shuddering.json) |
 | The Siege and the Sandfox | 29039 | [29039-the-siege-and-the-sandfox.json](./29039-the-siege-and-the-sandfox.json) |
 | The Siege of Brimir | 231394 | [231394-the-siege-of-brimir.json](./231394-the-siege-of-brimir.json) |
 | The Siege of Jeomdo | 258199 | [258199-the-siege-of-jeomdo.json](./258199-the-siege-of-jeomdo.json) |
@@ -11419,6 +11425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Vaults of Minos | 213311 | [213311-the-vaults-of-minos.json](./213311-the-vaults-of-minos.json) |
 | The Veiled Ones | 318799 | [318799-the-veiled-ones.json](./318799-the-veiled-ones.json) |
 | The Vengeance Of Lady Witch | 250964 | [250964-the-vengeance-of-lady-witch.json](./250964-the-vengeance-of-lady-witch.json) |
+| The Verbose Vault Venture | 311744 | [311744-the-verbose-vault-venture.json](./311744-the-verbose-vault-venture.json) |
 | The Vertigo lite | 129665 | [129665-the-vertigo-lite.json](./129665-the-vertigo-lite.json) |
 | The Very Big Cave Adventure | 26477 | [26477-the-very-big-cave-adventure.json](./26477-the-very-big-cave-adventure.json) |
 | The Very Hungry Caterpillar: First Words | 101013 | [101013-the-very-hungry-caterpillar-first-words.json](./101013-the-very-hungry-caterpillar-first-words.json) |
@@ -14963,6 +14970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tobi Topples Tyranny | 236343 | [236343-tobi-topples-tyranny.json](./236343-tobi-topples-tyranny.json) |
 | Tobi Tsukihime | 169159 | [169159-tobi-tsukihime.json](./169159-tobi-tsukihime.json) |
 | Tobia's Animal Farm | 301965 | [301965-tobias-animal-farm.json](./301965-tobias-animal-farm.json) |
+| Tobichiyon X | 311750 | [311750-tobichiyon-x.json](./311750-tobichiyon-x.json) |
 | Tobimarisa | 97511 | [97511-tobimarisa.json](./97511-tobimarisa.json) |
 | Tobitaro | 391152 | [391152-tobitaro.json](./391152-tobitaro.json) |
 | Tobla: Divine Path | 279132 | [279132-tobla-divine-path.json](./279132-tobla-divine-path.json) |
