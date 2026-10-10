@@ -3099,6 +3099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Centrist | 276694 | [276694-centrist.json](./276694-centrist.json) |
 | Centroid | 133971 | [133971-centroid.json](./133971-centroid.json) |
 | Centropods | 45355 | [45355-centropods.json](./45355-centropods.json) |
+| Centum | 299590 | [299590-centum.json](./299590-centum.json) |
 | Centurion: Defender of Rome | 8257 | [8257-centurion-defender-of-rome.json](./8257-centurion-defender-of-rome.json) |
 | Century 0: Parasitic Tower | 216798 | [216798-century-0-parasitic-tower.json](./216798-century-0-parasitic-tower.json) |
 | Century City | 243743 | [243743-century-city.json](./243743-century-city.json) |
@@ -9619,6 +9620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crank & Watch: Octopus | 267964 | [267964-crank-and-watch-octopus.json](./267964-crank-and-watch-octopus.json) |
 | Crank and Shoot!! | 274681 | [274681-crank-and-shoot.json](./274681-crank-and-shoot.json) |
 | Crank Chaos | 418588 | [418588-crank-chaos.json](./418588-crank-chaos.json) |
+| Crank Defense Force | 299567 | [299567-crank-defense-force.json](./299567-crank-defense-force.json) |
 | Crank It Up! | 305911 | [305911-crank-it-up.json](./305911-crank-it-up.json) |
 | Crank Racing! | 413731 | [413731-crank-racing.json](./413731-crank-racing.json) |
 | Crank Sudoku | 383965 | [383965-crank-sudoku.json](./383965-crank-sudoku.json) |
