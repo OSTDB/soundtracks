@@ -195,6 +195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Got a Millenary Cat | 197401 | [197401-i-got-a-millenary-cat.json](./197401-i-got-a-millenary-cat.json) |
 | I Got Hired To Guard The Button That Destroys The Earth | 340512 | [340512-i-got-hired-to-guard-the-button-that-destroys-the-earth.json](./340512-i-got-hired-to-guard-the-button-that-destroys-the-earth.json) |
 | I Got Isekai'd Into a Shmup | 311229 | [311229-i-got-isekaid-into-a-shmup.json](./311229-i-got-isekaid-into-a-shmup.json) |
+| I Got Straddled by a Femboy | 295648 | [295648-i-got-straddled-by-a-femboy.json](./295648-i-got-straddled-by-a-femboy.json) |
 | I Got Trapped in the Succubus's Dream! | 264810 | [264810-i-got-trapped-in-the-succubuss-dream.json](./264810-i-got-trapped-in-the-succubuss-dream.json) |
 | I Got Turned Into a Girl and This Yuri Death Angel Will Only Turn Me Back if I Can Find All the Hidden Props | 395106 | [395106-i-got-turned-into-a-girl-and-this-yuri-death-angel-will-only-turn-me-back-if-i-can-find-all-the-hidden-props.json](./395106-i-got-turned-into-a-girl-and-this-yuri-death-angel-will-only-turn-me-back-if-i-can-find-all-the-hidden-props.json) |
 | I H8 Ur Face | 197910 | [197910-i-h8-ur-face.json](./197910-i-h8-ur-face.json) |
@@ -2186,6 +2187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infanticide | 158541 | [158541-infanticide.json](./158541-infanticide.json) |
 | Infantry | 85840 | [85840-infantry.json](./85840-infantry.json) |
 | Infantry Attack: Backup Edition | 308805 | [308805-infantry-attack-backup-edition.json](./308805-infantry-attack-backup-edition.json) |
+| Infantry Attack: Complete Edition | 295676 | [295676-infantry-attack-complete-edition.json](./295676-infantry-attack-complete-edition.json) |
 | Infantry Attack: Drone Squad | 303578 | [303578-infantry-attack-drone-squad.json](./303578-infantry-attack-drone-squad.json) |
 | Infantry Attack: Golden Backup Edition | 371435 | [371435-infantry-attack-golden-backup-edition.json](./371435-infantry-attack-golden-backup-edition.json) |
 | Infantry Attack: Strike from Above | 303579 | [303579-infantry-attack-strike-from-above.json](./303579-infantry-attack-strike-from-above.json) |
