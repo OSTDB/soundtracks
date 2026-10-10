@@ -2938,6 +2938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whiteverse: No Country for Old Men | 121690 | [121690-whiteverse-no-country-for-old-men.json](./121690-whiteverse-no-country-for-old-men.json) |
 | Whitewash | 62005 | [62005-whitewash.json](./62005-whitewash.json) |
 | WhiteWash | 370774 | [370774-whitewash.json](./370774-whitewash.json) |
+| WhiteWater 3D | 303748 | [303748-whitewater-3d.json](./303748-whitewater-3d.json) |
 | Whitewater Rapids | 205838 | [205838-whitewater-rapids.json](./205838-whitewater-rapids.json) |
 | Whitewater VR: Extreme Kayaking Adventure | 244388 | [244388-whitewater-vr-extreme-kayaking-adventure.json](./244388-whitewater-vr-extreme-kayaking-adventure.json) |
 | Whitewater Wipeout | 151817 | [151817-whitewater-wipeout.json](./151817-whitewater-wipeout.json) |
