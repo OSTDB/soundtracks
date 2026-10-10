@@ -582,6 +582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sakura Succubus 2 | 146837 | [146837-sakura-succubus-2.json](./146837-sakura-succubus-2.json) |
 | Sakura Succubus 3 | 152892 | [152892-sakura-succubus-3.json](./152892-sakura-succubus-3.json) |
 | Sakura Succubus 5 | 193262 | [193262-sakura-succubus-5.json](./193262-sakura-succubus-5.json) |
+| Sakura Succubus 8 | 279520 | [279520-sakura-succubus-8.json](./279520-sakura-succubus-8.json) |
 | Sakura Succubus 8 | 353952 | [353952-sakura-succubus-8.json](./353952-sakura-succubus-8.json) |
 | Sakura Succubus 9 | 315199 | [315199-sakura-succubus-9.json](./315199-sakura-succubus-9.json) |
 | Sakura Succubus Bundle | 203228 | [203228-sakura-succubus-bundle.json](./203228-sakura-succubus-bundle.json) |
@@ -1010,6 +1011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sands of Mars | 280882 | [280882-sands-of-mars.json](./280882-sands-of-mars.json) |
 | Sands of Osiris | 60541 | [60541-sands-of-osiris.json](./60541-sands-of-osiris.json) |
 | Sands of Salzaar | 128004 | [128004-sands-of-salzaar.json](./128004-sands-of-salzaar.json) |
+| Sands of Salzaar: Land of the Eclipse | 279528 | [279528-sands-of-salzaar-land-of-the-eclipse.json](./279528-sands-of-salzaar-land-of-the-eclipse.json) |
 | Sands of Salzaar: The Tournament | 231292 | [231292-sands-of-salzaar-the-tournament.json](./231292-sands-of-salzaar-the-tournament.json) |
 | Sands of Slumber: The RPG | 225864 | [225864-sands-of-slumber-the-rpg.json](./225864-sands-of-slumber-the-rpg.json) |
 | Sands of Sodis | 231380 | [231380-sands-of-sodis.json](./231380-sands-of-sodis.json) |
@@ -3502,6 +3504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sepak U: Sports Fighting Game | 404802 | [404802-sepak-u-sports-fighting-game.json](./404802-sepak-u-sports-fighting-game.json) |
 | Sepapu | 408702 | [408702-sepapu.json](./408702-sepapu.json) |
 | Separated | 304622 | [304622-separated.json](./304622-separated.json) |
+| Separated Worlds | 279525 | [279525-separated-worlds.json](./279525-separated-worlds.json) |
 | Separator | 411718 | [411718-separator.json](./411718-separator.json) |
 | Separium: 12th Elevator | 336541 | [336541-separium-12th-elevator.json](./336541-separium-12th-elevator.json) |
 | Sepas Channel | 100270 | [100270-sepas-channel.json](./100270-sepas-channel.json) |
@@ -4125,6 +4128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Force: Razor Unit | 23461 | [23461-shadow-force-razor-unit.json](./23461-shadow-force-razor-unit.json) |
 | Shadow Gambit: The Cursed Crew | 233307 | [233307-shadow-gambit-the-cursed-crew.json](./233307-shadow-gambit-the-cursed-crew.json) |
 | Shadow Gambit: The Cursed Crew – Complete Edition | 279876 | [279876-shadow-gambit-the-cursed-crew-complete-edition.json](./279876-shadow-gambit-the-cursed-crew-complete-edition.json) |
+| Shadow Gambit: Yuki's Wish | 279538 | [279538-shadow-gambit-yukis-wish.json](./279538-shadow-gambit-yukis-wish.json) |
 | Shadow Gambit: Zagan's Ritual | 279542 | [279542-shadow-gambit-zagans-ritual.json](./279542-shadow-gambit-zagans-ritual.json) |
 | Shadow Game | 331297 | [331297-shadow-game.json](./331297-shadow-game.json) |
 | Shadow Girls | 396566 | [396566-shadow-girls.json](./396566-shadow-girls.json) |
@@ -7271,6 +7275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Six Match | 82156 | [82156-six-match.json](./82156-six-match.json) |
 | Six Meat Under | 269209 | [269209-six-meat-under.json](./269209-six-meat-under.json) |
 | Six Micro Stories | 55837 | [55837-six-micro-stories.json](./55837-six-micro-stories.json) |
+| Six Minute Showdown | 279570 | [279570-six-minute-showdown.json](./279570-six-minute-showdown.json) |
 | Six Nights in Frenski's Basement | 388349 | [388349-six-nights-in-frenskis-basement.json](./388349-six-nights-in-frenskis-basement.json) |
 | Six Nights in Mystery Secret | 89489 | [89489-six-nights-in-mystery-secret.json](./89489-six-nights-in-mystery-secret.json) |
 | Six Nights to Die | 258412 | [258412-six-nights-to-die.json](./258412-six-nights-to-die.json) |
@@ -10560,6 +10565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Songs of Travel | 298961 | [298961-songs-of-travel.json](./298961-songs-of-travel.json) |
 | Songs2See Game | 90553 | [90553-songs2see-game.json](./90553-songs2see-game.json) |
 | Songtail: Whiskers of Destiny | 389740 | [389740-songtail-whiskers-of-destiny.json](./389740-songtail-whiskers-of-destiny.json) |
+| Sonia no Daibouken: Mittsu no Hihou no Kakusareta Nazo! | 279509 | [279509-sonia-no-daibouken-mittsu-no-hihou-no-kakusareta-nazo.json](./279509-sonia-no-daibouken-mittsu-no-hihou-no-kakusareta-nazo.json) |
 | Sonic & All-Stars Racing Transformed | 2174 | [2174-sonic-and-all-stars-racing-transformed.json](./2174-sonic-and-all-stars-racing-transformed.json) |
 | Sonic & Bean in Eggland | 322592 | [322592-sonic-and-bean-in-eggland.json](./322592-sonic-and-bean-in-eggland.json) |
 | Sonic & Blaze | 266506 | [266506-sonic-and-blaze.json](./266506-sonic-and-blaze.json) |
@@ -12096,6 +12102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Freeks | 60060 | [60060-space-freeks.json](./60060-space-freeks.json) |
 | Space Frenzy | 46511 | [46511-space-frenzy.json](./46511-space-frenzy.json) |
 | Space Frog! | 177350 | [177350-space-frog.json](./177350-space-frog.json) |
+| Space Frontier | 279529 | [279529-space-frontier.json](./279529-space-frontier.json) |
 | Space Frontier | 386380 | [386380-space-frontier.json](./386380-space-frontier.json) |
 | Space Fun | 222966 | [222966-space-fun.json](./222966-space-fun.json) |
 | Space Funeral 2: of Rubies and Gold II - From Shadows We Rise | 360744 | [360744-space-funeral-2-of-rubies-and-gold-ii-from-shadows-we-rise.json](./360744-space-funeral-2-of-rubies-and-gold-ii-from-shadows-we-rise.json) |
@@ -19611,6 +19618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Ledgehop: Double Laser | 110857 | [110857-super-ledgehop-double-laser.json](./110857-super-ledgehop-double-laser.json) |
 | Super Lee World | 120950 | [120950-super-lee-world.json](./120950-super-lee-world.json) |
 | Super Life: Franchise Lord | 195188 | [195188-super-life-franchise-lord.json](./195188-super-life-franchise-lord.json) |
+| Super Liftpia | 279531 | [279531-super-liftpia.json](./279531-super-liftpia.json) |
 | Super Little Acorns 3D Turbo | 23523 | [23523-super-little-acorns-3d-turbo.json](./23523-super-little-acorns-3d-turbo.json) |
 | Super Live Stadium | 301384 | [301384-super-live-stadium.json](./301384-super-live-stadium.json) |
 | Super Lobster Run | 126984 | [126984-super-lobster-run.json](./126984-super-lobster-run.json) |
