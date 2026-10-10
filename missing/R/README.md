@@ -1735,6 +1735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ready Player One: Rise of the Gunters | 90148 | [90148-ready-player-one-rise-of-the-gunters.json](./90148-ready-player-one-rise-of-the-gunters.json) |
 | Ready Set Dress! | 182936 | [182936-ready-set-dress.json](./182936-ready-set-dress.json) |
 | Ready Set Golf | 235351 | [235351-ready-set-golf.json](./235351-ready-set-golf.json) |
+| Ready Set Golf | 297330 | [297330-ready-set-golf.json](./297330-ready-set-golf.json) |
 | Ready Set Sumo! | 216758 | [216758-ready-set-sumo.json](./216758-ready-set-sumo.json) |
 | Ready Steady Bang | 133859 | [133859-ready-steady-bang.json](./133859-ready-steady-bang.json) |
 | Ready Steady Play | 61073 | [61073-ready-steady-play.json](./61073-ready-steady-play.json) |
@@ -7823,6 +7824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Russian Roulette | 265941 | [265941-russian-roulette.json](./265941-russian-roulette.json) |
 | Russian Roulette II: The Next Worlds | 265942 | [265942-russian-roulette-ii-the-next-worlds.json](./265942-russian-roulette-ii-the-next-worlds.json) |
 | Russian Roulette: One Life | 194564 | [194564-russian-roulette-one-life.json](./194564-russian-roulette-one-life.json) |
+| Russian Roulette: Online | 297328 | [297328-russian-roulette-online.json](./297328-russian-roulette-online.json) |
 | Russian Soul Simulator | 285562 | [285562-russian-soul-simulator.json](./285562-russian-soul-simulator.json) |
 | Russian Square Plus! Edition | 256375 | [256375-russian-square-plus-edition.json](./256375-russian-square-plus-edition.json) |
 | Russian Subway Dogs | 56564 | [56564-russian-subway-dogs.json](./56564-russian-subway-dogs.json) |
