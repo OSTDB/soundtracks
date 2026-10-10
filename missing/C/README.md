@@ -464,6 +464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty: World at War - Spain at War | 341656 | [341656-call-of-duty-world-at-war-spain-at-war.json](./341656-call-of-duty-world-at-war-spain-at-war.json) |
 | Call of Duty: World at War - Zombies | 89115 | [89115-call-of-duty-world-at-war-zombies.json](./89115-call-of-duty-world-at-war-zombies.json) |
 | Call of Duty: WWII - Gold Edition | 118729 | [118729-call-of-duty-wwii-gold-edition.json](./118729-call-of-duty-wwii-gold-edition.json) |
+| Call of Duty: Zombie Warfare | 304323 | [304323-call-of-duty-zombie-warfare.json](./304323-call-of-duty-zombie-warfare.json) |
 | Call of Elyndra | 321573 | [321573-call-of-elyndra.json](./321573-call-of-elyndra.json) |
 | Call of Farming | 259583 | [259583-call-of-farming.json](./259583-call-of-farming.json) |
 | Call of Farming: Together | 278741 | [278741-call-of-farming-together.json](./278741-call-of-farming-together.json) |
@@ -2902,6 +2903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cazzarion: Sky Flight | 300995 | [300995-cazzarion-sky-flight.json](./300995-cazzarion-sky-flight.json) |
 | Cazzarion: Space Ace | 293901 | [293901-cazzarion-space-ace.json](./293901-cazzarion-space-ace.json) |
 | Cazzarion: Space Shooter | 293902 | [293902-cazzarion-space-shooter.json](./293902-cazzarion-space-shooter.json) |
+| Cazzarion: Tank Killer | 304328 | [304328-cazzarion-tank-killer.json](./304328-cazzarion-tank-killer.json) |
 | Cazzarion: UFO Kidnapping | 324984 | [324984-cazzarion-ufo-kidnapping.json](./324984-cazzarion-ufo-kidnapping.json) |
 | Cazzarion: Zombie Drive | 301803 | [301803-cazzarion-zombie-drive.json](./301803-cazzarion-zombie-drive.json) |
 | CBeebies Playtime Island: Game | 321783 | [321783-cbeebies-playtime-island-game.json](./321783-cbeebies-playtime-island-game.json) |
@@ -5423,6 +5425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Bus Simulator | 308999 | [308999-city-bus-simulator.json](./308999-city-bus-simulator.json) |
 | City Bus Simulator 2010 | 67299 | [67299-city-bus-simulator-2010.json](./67299-city-bus-simulator-2010.json) |
 | City Bus Simulator 2018 | 96501 | [96501-city-bus-simulator-2018.json](./96501-city-bus-simulator-2018.json) |
+| City Bus Simulator 2024 | 304324 | [304324-city-bus-simulator-2024.json](./304324-city-bus-simulator-2024.json) |
 | City Bus Tycoon | 89810 | [89810-city-bus-tycoon.json](./89810-city-bus-tycoon.json) |
 | City Car Driving 2.0 | 403690 | [403690-city-car-driving-2-0.json](./403690-city-car-driving-2-0.json) |
 | City Car Parking Simulator | 256336 | [256336-city-car-parking-simulator.json](./256336-city-car-parking-simulator.json) |
@@ -6430,6 +6433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clumsy Shumsy | 66958 | [66958-clumsy-shumsy.json](./66958-clumsy-shumsy.json) |
 | Cluppets | 224557 | [224557-cluppets.json](./224557-cluppets.json) |
 | Cluster | 182549 | [182549-cluster.json](./182549-cluster.json) |
+| Cluster | 304315 | [304315-cluster.json](./304315-cluster.json) |
 | Cluster Buster | 264305 | [264305-cluster-buster.json](./264305-cluster-buster.json) |
 | Cluster Buster | 292831 | [292831-cluster-buster.json](./292831-cluster-buster.json) |
 | Cluster Dust | 89653 | [89653-cluster-dust.json](./89653-cluster-dust.json) |
@@ -7428,6 +7432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Combat Mission Shock Force 2: NATO Forces | 170371 | [170371-combat-mission-shock-force-2-nato-forces.json](./170371-combat-mission-shock-force-2-nato-forces.json) |
 | Combat Mission Shock Force: Marines | 21263 | [21263-combat-mission-shock-force-marines.json](./21263-combat-mission-shock-force-marines.json) |
 | Combat Mission: Battle for Normandy - Battle Pack 1 | 242618 | [242618-combat-mission-battle-for-normandy-battle-pack-1.json](./242618-combat-mission-battle-for-normandy-battle-pack-1.json) |
+| Combat Mission: Battle for Normandy - Battle Pack 2 | 304384 | [304384-combat-mission-battle-for-normandy-battle-pack-2.json](./304384-combat-mission-battle-for-normandy-battle-pack-2.json) |
 | Combat Mission: Battle for Normandy - Commonwealth Forces | 242616 | [242616-combat-mission-battle-for-normandy-commonwealth-forces.json](./242616-combat-mission-battle-for-normandy-commonwealth-forces.json) |
 | Combat Mission: Battle for Normandy - Market Garden | 242619 | [242619-combat-mission-battle-for-normandy-market-garden.json](./242619-combat-mission-battle-for-normandy-market-garden.json) |
 | Combat Mission: Battle for Normandy - Vehicle Pack | 242617 | [242617-combat-mission-battle-for-normandy-vehicle-pack.json](./242617-combat-mission-battle-for-normandy-vehicle-pack.json) |
@@ -8195,6 +8200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Construction Simulator: SANY Pack | 266746 | [266746-construction-simulator-sany-pack.json](./266746-construction-simulator-sany-pack.json) |
 | Construction Simulator: Spaceport Bundle | 277569 | [277569-construction-simulator-spaceport-bundle.json](./277569-construction-simulator-spaceport-bundle.json) |
 | Construction Simulator: Spaceport Expansion | 275117 | [275117-construction-simulator-spaceport-expansion.json](./275117-construction-simulator-spaceport-expansion.json) |
+| Construction Simulator: Stadium Expansion | 304391 | [304391-construction-simulator-stadium-expansion.json](./304391-construction-simulator-stadium-expansion.json) |
 | Construction Simulator: Titanium Edition | 305488 | [305488-construction-simulator-titanium-edition.json](./305488-construction-simulator-titanium-edition.json) |
 | Construction Simulator: Year 1 Season Pass | 246401 | [246401-construction-simulator-year-1-season-pass.json](./246401-construction-simulator-year-1-season-pass.json) |
 | Construction Simulator: Year 2 Season Pass | 293132 | [293132-construction-simulator-year-2-season-pass.json](./293132-construction-simulator-year-2-season-pass.json) |
@@ -8282,6 +8288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Container Terminal Simulator | 362389 | [362389-container-terminal-simulator.json](./362389-container-terminal-simulator.json) |
 | Containers | 338885 | [338885-containers.json](./338885-containers.json) |
 | Containment Corps | 55668 | [55668-containment-corps.json](./55668-containment-corps.json) |
+| Containment Initiative 2 | 304383 | [304383-containment-initiative-2.json](./304383-containment-initiative-2.json) |
 | Containment Initiative: PC Standalone | 99583 | [99583-containment-initiative-pc-standalone.json](./99583-containment-initiative-pc-standalone.json) |
 | Containment Search | 303173 | [303173-containment-search.json](./303173-containment-search.json) |
 | Containment Zone | 235749 | [235749-containment-zone.json](./235749-containment-zone.json) |
@@ -10892,6 +10899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cruel TD | 161721 | [161721-cruel-td.json](./161721-cruel-td.json) |
 | Cruel World | 73545 | [73545-cruel-world.json](./73545-cruel-world.json) |
 | Cruellete | 335676 | [335676-cruellete.json](./335676-cruellete.json) |
+| Cruelty | 304249 | [304249-cruelty.json](./304249-cruelty.json) |
 | Cruelty | 402295 | [402295-cruelty.json](./402295-cruelty.json) |
 | Cruft | 327893 | [327893-cruft.json](./327893-cruft.json) |
 | Cruis'n Exotica | 249136 | [249136-cruisn-exotica.json](./249136-cruisn-exotica.json) |
