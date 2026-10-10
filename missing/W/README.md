@@ -490,6 +490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wanted: Dead | 173091 | [173091-wanted-dead.json](./173091-wanted-dead.json) |
 | Wanted: Dead - Collector's Edition | 228736 | [228736-wanted-dead-collectors-edition.json](./228736-wanted-dead-collectors-edition.json) |
 | Wanted: Dead or Alive | 333770 | [333770-wanted-dead-or-alive.json](./333770-wanted-dead-or-alive.json) |
+| Wanted: Gunslinger's Kiss | 298984 | [298984-wanted-gunslingers-kiss.json](./298984-wanted-gunslingers-kiss.json) |
 | Wanted: Romance Renegades | 238415 | [238415-wanted-romance-renegades.json](./238415-wanted-romance-renegades.json) |
 | Wanted: Yokai Uprising | 309889 | [309889-wanted-yokai-uprising.json](./309889-wanted-yokai-uprising.json) |
 | Wanted? | 327455 | [327455-wanted.json](./327455-wanted.json) |
