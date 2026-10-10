@@ -5883,6 +5883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shrimp | 314251 | [314251-shrimp.json](./314251-shrimp.json) |
 | Shrimp Keeping Simulator | 340371 | [340371-shrimp-keeping-simulator.json](./340371-shrimp-keeping-simulator.json) |
 | Shrimplation | 364686 | [364686-shrimplation.json](./364686-shrimplation.json) |
+| Shrimpwrecked | 310079 | [310079-shrimpwrecked.json](./310079-shrimpwrecked.json) |
 | Shrine | 132241 | [132241-shrine.json](./132241-shrine.json) |
 | Shrine For the Gods of Lost Things | 141628 | [141628-shrine-for-the-gods-of-lost-things.json](./141628-shrine-for-the-gods-of-lost-things.json) |
 | Shrine of Haunts | 347336 | [347336-shrine-of-haunts.json](./347336-shrine-of-haunts.json) |
@@ -6047,6 +6048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sibal Wonsung-iui Moheom | 59885 | [59885-sibal-wonsung-iui-moheom.json](./59885-sibal-wonsung-iui-moheom.json) |
 | Sibal Wonsung-iui Moheom 2 | 59884 | [59884-sibal-wonsung-iui-moheom-2.json](./59884-sibal-wonsung-iui-moheom-2.json) |
 | Siberian Dawn | 107794 | [107794-siberian-dawn.json](./107794-siberian-dawn.json) |
+| Siberian Dawn: Heroes of the Union | 310082 | [310082-siberian-dawn-heroes-of-the-union.json](./310082-siberian-dawn-heroes-of-the-union.json) |
 | Siberian Dawn: Winterflood | 310408 | [310408-siberian-dawn-winterflood.json](./310408-siberian-dawn-winterflood.json) |
 | Siberian Experiment | 341448 | [341448-siberian-experiment.json](./341448-siberian-experiment.json) |
 | Siberian Strike | 91888 | [91888-siberian-strike.json](./91888-siberian-strike.json) |
@@ -11382,6 +11384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul of Mask | 75179 | [75179-soul-of-mask.json](./75179-soul-of-mask.json) |
 | Soul of Sovereignty: Prelude | 283407 | [283407-soul-of-sovereignty-prelude.json](./283407-soul-of-sovereignty-prelude.json) |
 | Soul of the Beast | 178617 | [178617-soul-of-the-beast.json](./178617-soul-of-the-beast.json) |
+| Soul of the Forest | 310090 | [310090-soul-of-the-forest.json](./310090-soul-of-the-forest.json) |
 | Soul of the Ultimate Nation | 51196 | [51196-soul-of-the-ultimate-nation.json](./51196-soul-of-the-ultimate-nation.json) |
 | Soul of War: Legions | 263992 | [263992-soul-of-war-legions.json](./263992-soul-of-war-legions.json) |
 | Soul Orb | 9650 | [9650-soul-orb.json](./9650-soul-orb.json) |
@@ -12403,6 +12406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space X: Sky War of Air Force | 98929 | [98929-space-x-sky-war-of-air-force.json](./98929-space-x-sky-war-of-air-force.json) |
 | Space Zero | 37185 | [37185-space-zero.json](./37185-space-zero.json) |
 | Space Zombies Invasion | 88243 | [88243-space-zombies-invasion.json](./88243-space-zombies-invasion.json) |
+| Space Zone | 310161 | [310161-space-zone.json](./310161-space-zone.json) |
 | Space zone defender | 130856 | [130856-space-zone-defender.json](./130856-space-zone-defender.json) |
 | Space-D Launch Program | 334836 | [334836-space-d-launch-program.json](./334836-space-d-launch-program.json) |
 | Space-Orbit | 63238 | [63238-space-orbit.json](./63238-space-orbit.json) |
@@ -14283,6 +14287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squaser 9 | 368537 | [368537-squaser-9.json](./368537-squaser-9.json) |
 | Squash and Spell: Kids Typing | 388328 | [388328-squash-and-spell-kids-typing.json](./388328-squash-and-spell-kids-typing.json) |
 | Squash Kings VR | 86394 | [86394-squash-kings-vr.json](./86394-squash-kings-vr.json) |
+| Squash Sport Game 2024 | 310167 | [310167-squash-sport-game-2024.json](./310167-squash-sport-game-2024.json) |
 | Squat Life | 345976 | [345976-squat-life.json](./345976-squat-life.json) |
 | Squat Ops | 348362 | [348362-squat-ops.json](./348362-squat-ops.json) |
 | Squatch | 133234 | [133234-squatch.json](./133234-squatch.json) |
@@ -19144,6 +19149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Hamster Ball | 227869 | [227869-super-hamster-ball.json](./227869-super-hamster-ball.json) |
 | Super Hamster Havoc | 197197 | [197197-super-hamster-havoc.json](./197197-super-hamster-havoc.json) |
 | Super Hamsterball Racers | 185510 | [185510-super-hamsterball-racers.json](./185510-super-hamsterball-racers.json) |
+| Super Hangman | 310073 | [310073-super-hangman.json](./310073-super-hangman.json) |
 | Super Happi Quest 3 | 299733 | [299733-super-happi-quest-3.json](./299733-super-happi-quest-3.json) |
 | Super Hard Game | 360580 | [360580-super-hard-game.json](./360580-super-hard-game.json) |
 | Super Hardcore | 50749 | [50749-super-hardcore.json](./50749-super-hardcore.json) |
@@ -21125,6 +21131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survivor Heroes | 313222 | [313222-survivor-heroes.json](./313222-survivor-heroes.json) |
 | Survivor Idle Run | 248124 | [248124-survivor-idle-run.json](./248124-survivor-idle-run.json) |
 | Survivor in Summer | 108059 | [108059-survivor-in-summer.json](./108059-survivor-in-summer.json) |
+| Survivor in the Forest | 310166 | [310166-survivor-in-the-forest.json](./310166-survivor-in-the-forest.json) |
 | Survivor Island | 89419 | [89419-survivor-island.json](./89419-survivor-island.json) |
 | Survivor Master-Sifu | 293152 | [293152-survivor-master-sifu.json](./293152-survivor-master-sifu.json) |
 | Survivor Mercs | 239709 | [239709-survivor-mercs.json](./239709-survivor-mercs.json) |
