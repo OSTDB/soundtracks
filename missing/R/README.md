@@ -2663,6 +2663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reed the Robotanist Plus | 211642 | [211642-reed-the-robotanist-plus.json](./211642-reed-the-robotanist-plus.json) |
 | Reederei | 94336 | [94336-reederei.json](./94336-reederei.json) |
 | Reeelz | 348952 | [348952-reeelz.json](./348952-reeelz.json) |
+| Reef Light Conundrum | 285405 | [285405-reef-light-conundrum.json](./285405-reef-light-conundrum.json) |
 | Reef Rivals | 191825 | [191825-reef-rivals.json](./191825-reef-rivals.json) |
 | Reef Shot | 63699 | [63699-reef-shot.json](./63699-reef-shot.json) |
 | Reefland Odyssey | 244192 | [244192-reefland-odyssey.json](./244192-reefland-odyssey.json) |
@@ -3273,6 +3274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Requiem | 188458 | [188458-requiem.json](./188458-requiem.json) |
 | Requiem | 255853 | [255853-requiem.json](./255853-requiem.json) |
 | Requiem | 377166 | [377166-requiem.json](./377166-requiem.json) |
+| Requiem for an Angel | 285384 | [285384-requiem-for-an-angel.json](./285384-requiem-for-an-angel.json) |
 | Requiem Hurts | 22404 | [22404-requiem-hurts.json](./22404-requiem-hurts.json) |
 | Requiem Hurts: Rainy Escape | 22405 | [22405-requiem-hurts-rainy-escape.json](./22405-requiem-hurts-rainy-escape.json) |
 | Requiem Memory | 265584 | [265584-requiem-memory.json](./265584-requiem-memory.json) |
