@@ -466,6 +466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dance Dance Revolution: Hottest Party 2 | 50719 | [50719-dance-dance-revolution-hottest-party-2.json](./50719-dance-dance-revolution-hottest-party-2.json) |
 | Dance Dance Revolution: Hottest Party 4 | 50733 | [50733-dance-dance-revolution-hottest-party-4.json](./50733-dance-dance-revolution-hottest-party-4.json) |
 | Dance DeLight | 284589 | [284589-dance-delight.json](./284589-dance-delight.json) |
+| Dance Eden | 301054 | [301054-dance-eden.json](./301054-dance-eden.json) |
 | Dance Evolution Arcade | 375456 | [375456-dance-evolution-arcade.json](./375456-dance-evolution-arcade.json) |
 | Dance Factory | 20560 | [20560-dance-factory.json](./20560-dance-factory.json) |
 | Dance Fantasy | 40899 | [40899-dance-fantasy.json](./40899-dance-fantasy.json) |
@@ -1354,6 +1355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkspore | 18638 | [18638-darkspore.json](./18638-darkspore.json) |
 | Darkstalkers Chronicle: The Chaos Tower | 20011 | [20011-darkstalkers-chronicle-the-chaos-tower.json](./20011-darkstalkers-chronicle-the-chaos-tower.json) |
 | DarkStar One | 2125 | [2125-darkstar-one.json](./2125-darkstar-one.json) |
+| DarkStar One: Nintendo Switch Edition | 301101 | [301101-darkstar-one-nintendo-switch-edition.json](./301101-darkstar-one-nintendo-switch-edition.json) |
 | Darkstar: The Interactive Movie | 9118 | [9118-darkstar-the-interactive-movie.json](./9118-darkstar-the-interactive-movie.json) |
 | Darkstone | 660 | [660-darkstone.json](./660-darkstone.json) |
 | Darkstone Restoration | 397902 | [397902-darkstone-restoration.json](./397902-darkstone-restoration.json) |
@@ -2063,6 +2065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead District: Survival | 209479 | [209479-dead-district-survival.json](./209479-dead-district-survival.json) |
 | Dead Dock Protocol | 322186 | [322186-dead-dock-protocol.json](./322186-dead-dock-protocol.json) |
 | Dead Dolls Never Die | 395240 | [395240-dead-dolls-never-die.json](./395240-dead-dolls-never-die.json) |
+| Dead Don't Die | 301092 | [301092-dead-dont-die.json](./301092-dead-dont-die.json) |
 | Dead Dozen | 79141 | [79141-dead-dozen.json](./79141-dead-dozen.json) |
 | Dead Dust | 89960 | [89960-dead-dust.json](./89960-dead-dust.json) |
 | Dead Earth Zombies | 188672 | [188672-dead-earth-zombies.json](./188672-dead-earth-zombies.json) |
@@ -3526,6 +3529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delia: The Traveling Witch | 252410 | [252410-delia-the-traveling-witch.json](./252410-delia-the-traveling-witch.json) |
 | Delia's Adventure | 191652 | [191652-delias-adventure.json](./191652-delias-adventure.json) |
 | Deliberate | 309956 | [309956-deliberate.json](./309956-deliberate.json) |
+| Delic | 301094 | [301094-delic.json](./301094-delic.json) |
 | DeliCat | 256533 | [256533-delicat.json](./256533-delicat.json) |
 | Delicatte | 151575 | [151575-delicatte.json](./151575-delicatte.json) |
 | Delicious Burger | 274027 | [274027-delicious-burger.json](./274027-delicious-burger.json) |
@@ -7578,6 +7582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donald Jump | 412966 | [412966-donald-jump.json](./412966-donald-jump.json) |
 | Donald no Magical World | 46544 | [46544-donald-no-magical-world.json](./46544-donald-no-magical-world.json) |
 | Donald no Magical World GG2SMS | 369596 | [369596-donald-no-magical-world-gg2sms.json](./369596-donald-no-magical-world-gg2sms.json) |
+| Donald Trump, Make RPGs Great Again! | 301053 | [301053-donald-trump-make-rpgs-great-again.json](./301053-donald-trump-make-rpgs-great-again.json) |
 | Donald Trump's Real Estate Tycoon | 25706 | [25706-donald-trumps-real-estate-tycoon.json](./25706-donald-trumps-real-estate-tycoon.json) |
 | Donald VS Martians | 113504 | [113504-donald-vs-martians.json](./113504-donald-vs-martians.json) |
 | Donald's Alphabet Chase | 57631 | [57631-donalds-alphabet-chase.json](./57631-donalds-alphabet-chase.json) |
@@ -9888,6 +9893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DressMaker | 168654 | [168654-dressmaker.json](./168654-dressmaker.json) |
 | Drevepsina | 256005 | [256005-drevepsina.json](./256005-drevepsina.json) |
 | Drew and the Floating Labyrinth | 35867 | [35867-drew-and-the-floating-labyrinth.json](./35867-drew-and-the-floating-labyrinth.json) |
+| Drewdler | 301079 | [301079-drewdler.json](./301079-drewdler.json) |
 | drHackDream | 120248 | [120248-drhackdream.json](./120248-drhackdream.json) |
 | Driar | 191911 | [191911-driar.json](./191911-driar.json) |
 | Dribble Skillz | 231635 | [231635-dribble-skillz.json](./231635-dribble-skillz.json) |
