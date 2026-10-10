@@ -2278,6 +2278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Junior Mystery Quest | 78609 | [78609-junior-mystery-quest.json](./78609-junior-mystery-quest.json) |
 | Junior Sudoku (Easy Fun Puzzles) | 90200 | [90200-junior-sudoku-easy-fun-puzzles.json](./90200-junior-sudoku-easy-fun-puzzles.json) |
 | Junior's Revenge | 78039 | [78039-juniors-revenge.json](./78039-juniors-revenge.json) |
+| Juniper Burning | 280121 | [280121-juniper-burning.json](./280121-juniper-burning.json) |
 | Juniper: A Scrapbooking Adventure | 386722 | [386722-juniper-a-scrapbooking-adventure.json](./386722-juniper-a-scrapbooking-adventure.json) |
 | Junjou Gal to Shiawase no Katachi: Shape of Happiness | 221201 | [221201-junjou-gal-to-shiawase-no-katachi-shape-of-happiness.json](./221201-junjou-gal-to-shiawase-no-katachi-shape-of-happiness.json) |
 | Junk | 122251 | [122251-junk.json](./122251-junk.json) |
