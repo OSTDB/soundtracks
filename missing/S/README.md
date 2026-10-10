@@ -1462,6 +1462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Save Data | 153366 | [153366-save-data.json](./153366-save-data.json) |
 | Save Farty: The Trivia Game | 142838 | [142838-save-farty-the-trivia-game.json](./142838-save-farty-the-trivia-game.json) |
 | Save from Bobr Curve | 291679 | [291679-save-from-bobr-curve.json](./291679-save-from-bobr-curve.json) |
+| Save Giant Girl From Monsters 4 | 291890 | [291890-save-giant-girl-from-monsters-4.json](./291890-save-giant-girl-from-monsters-4.json) |
 | Save Granny | 100343 | [100343-save-granny.json](./100343-save-granny.json) |
 | Save her, from dreams | 99129 | [99129-save-her-from-dreams.json](./99129-save-her-from-dreams.json) |
 | Save Home | 31175 | [31175-save-home.json](./31175-save-home.json) |
@@ -2119,6 +2120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SCP-3008: Infinite Store | 395022 | [395022-scp-3008-infinite-store.json](./395022-scp-3008-infinite-store.json) |
 | SCP-479: Shadows of the Mind | 264638 | [264638-scp-479-shadows-of-the-mind.json](./264638-scp-479-shadows-of-the-mind.json) |
 | SCP-847 | 415490 | [415490-scp-847.json](./415490-scp-847.json) |
+| SCP-9735-Alpha: Arch1tect | 291883 | [291883-scp-9735-alpha-arch1tect.json](./291883-scp-9735-alpha-arch1tect.json) |
 | SCP-D38813 | 291024 | [291024-scp-d38813.json](./291024-scp-d38813.json) |
 | SCP: A Star Replicator | 320555 | [320555-scp-a-star-replicator.json](./320555-scp-a-star-replicator.json) |
 | SCP: Blackout | 111246 | [111246-scp-blackout.json](./111246-scp-blackout.json) |
@@ -7631,6 +7633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skullmonkeys | 10917 | [10917-skullmonkeys.json](./10917-skullmonkeys.json) |
 | Skullnight | 195587 | [195587-skullnight.json](./195587-skullnight.json) |
 | SkullPirates | 76869 | [76869-skullpirates.json](./76869-skullpirates.json) |
+| Skulls of Olympus | 291903 | [291903-skulls-of-olympus.json](./291903-skulls-of-olympus.json) |
 | Skulls of the Shogun: Bone-A-Fide Edition | 51906 | [51906-skulls-of-the-shogun-bone-a-fide-edition.json](./51906-skulls-of-the-shogun-bone-a-fide-edition.json) |
 | SkullSP | 329973 | [329973-skullsp.json](./329973-skullsp.json) |
 | Skullstone | 26885 | [26885-skullstone.json](./26885-skullstone.json) |
@@ -13197,6 +13200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpellRogue: Supporter Pack | 310094 | [310094-spellrogue-supporter-pack.json](./310094-spellrogue-supporter-pack.json) |
 | Spells & Secrets | 198494 | [198494-spells-and-secrets.json](./198494-spells-and-secrets.json) |
 | Spells & Secrets + Stranded Sails | 336047 | [336047-spells-and-secrets-stranded-sails.json](./336047-spells-and-secrets-stranded-sails.json) |
+| Spells and Sacrifice | 291910 | [291910-spells-and-sacrifice.json](./291910-spells-and-sacrifice.json) |
 | Spells For Sad Goths With Shitty Parents | 176921 | [176921-spells-for-sad-goths-with-shitty-parents.json](./176921-spells-for-sad-goths-with-shitty-parents.json) |
 | Spells of Genesis | 57726 | [57726-spells-of-genesis.json](./57726-spells-of-genesis.json) |
 | Spells of Gold | 13785 | [13785-spells-of-gold.json](./13785-spells-of-gold.json) |
@@ -17127,6 +17131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strania: The Stella Machina - EX | 328477 | [328477-strania-the-stella-machina-ex.json](./328477-strania-the-stella-machina-ex.json) |
 | Strashilka | 118786 | [118786-strashilka.json](./118786-strashilka.json) |
 | Strashilki: Shestoe chuvstvo | 315017 | [315017-strashilki-shestoe-chuvstvo.json](./315017-strashilki-shestoe-chuvstvo.json) |
+| Strashna 2 | 291911 | [291911-strashna-2.json](./291911-strashna-2.json) |
 | Strat-O-Gems Deluxe | 40751 | [40751-strat-o-gems-deluxe.json](./40751-strat-o-gems-deluxe.json) |
 | Strata Scavenger | 65219 | [65219-strata-scavenger.json](./65219-strata-scavenger.json) |
 | Stratagem | 289311 | [289311-stratagem.json](./289311-stratagem.json) |
@@ -21334,6 +21339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survivor's Day | 294947 | [294947-survivors-day.json](./294947-survivors-day.json) |
 | Survivor's End | 250451 | [250451-survivors-end.json](./250451-survivors-end.json) |
 | Survivorman VR: The Descent | 224602 | [224602-survivorman-vr-the-descent.json](./224602-survivorman-vr-the-descent.json) |
+| Survivors | 291906 | [291906-survivors.json](./291906-survivors.json) |
 | Survivors | 292413 | [292413-survivors.json](./292413-survivors.json) |
 | Survivors in Blood | 296532 | [296532-survivors-in-blood.json](./296532-survivors-in-blood.json) |
 | Survivors Left: X | 124177 | [124177-survivors-left-x.json](./124177-survivors-left-x.json) |
