@@ -192,6 +192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sacra Terra: Kiss of Death - Collector's Edition | 30386 | [30386-sacra-terra-kiss-of-death-collectors-edition.json](./30386-sacra-terra-kiss-of-death-collectors-edition.json) |
 | Sacra: Falling of Myrd | 331692 | [331692-sacra-falling-of-myrd.json](./331692-sacra-falling-of-myrd.json) |
 | Sacralith: The Archer's Tale | 61622 | [61622-sacralith-the-archers-tale.json](./61622-sacralith-the-archers-tale.json) |
+| Sacrament | 285930 | [285930-sacrament.json](./285930-sacrament.json) |
 | Sacrament i. | 178499 | [178499-sacrament-i.json](./178499-sacrament-i.json) |
 | Sacrament iv. | 181248 | [181248-sacrament-iv.json](./181248-sacrament-iv.json) |
 | Sacrament of the Zodiac: The Confused Sheep and The Tamed Wolf | 141832 | [141832-sacrament-of-the-zodiac-the-confused-sheep-and-the-tamed-wolf.json](./141832-sacrament-of-the-zodiac-the-confused-sheep-and-the-tamed-wolf.json) |
@@ -17088,6 +17089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stranded in Starlight | 348909 | [348909-stranded-in-starlight.json](./348909-stranded-in-starlight.json) |
 | Stranded Near Nowhere | 102804 | [102804-stranded-near-nowhere.json](./102804-stranded-near-nowhere.json) |
 | Stranded Nightmare | 207367 | [207367-stranded-nightmare.json](./207367-stranded-nightmare.json) |
+| Stranded On An Island | 285944 | [285944-stranded-on-an-island.json](./285944-stranded-on-an-island.json) |
 | Stranded Sails | 112344 | [112344-stranded-sails.json](./112344-stranded-sails.json) |
 | Stranded Survivors | 381620 | [381620-stranded-survivors.json](./381620-stranded-survivors.json) |
 | Stranded With You | 389969 | [389969-stranded-with-you.json](./389969-stranded-with-you.json) |
