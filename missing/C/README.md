@@ -1013,6 +1013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain America and the Avengers | 275030 | [275030-captain-america-and-the-avengers.json](./275030-captain-america-and-the-avengers.json) |
 | Captain America: Brave New World | 301539 | [301539-captain-america-brave-new-world.json](./301539-captain-america-brave-new-world.json) |
 | Captain America: Shield of Justice | 65852 | [65852-captain-america-shield-of-justice.json](./65852-captain-america-shield-of-justice.json) |
+| Captain Barrel | 320453 | [320453-captain-barrel.json](./320453-captain-barrel.json) |
 | Captain Beeble | 294722 | [294722-captain-beeble.json](./294722-captain-beeble.json) |
 | Captain Blacksword | 235729 | [235729-captain-blacksword.json](./235729-captain-blacksword.json) |
 | Captain Blood | 73030 | [73030-captain-blood.json](./73030-captain-blood.json) |
@@ -5177,6 +5178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CircL | 185080 | [185080-circl.json](./185080-circl.json) |
 | Circle | 129066 | [129066-circle.json](./129066-circle.json) |
 | Circle | 289387 | [289387-circle.json](./289387-circle.json) |
+| Circle | 320435 | [320435-circle.json](./320435-circle.json) |
 | Circle = Circle | 293853 | [293853-circle-circle.json](./293853-circle-circle.json) |
 | Circle Breakout | 128577 | [128577-circle-breakout.json](./128577-circle-breakout.json) |
 | Circle Empires | 104937 | [104937-circle-empires.json](./104937-circle-empires.json) |
@@ -7202,6 +7204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coloring Pixels: Collection 2 | 224199 | [224199-coloring-pixels-collection-2.json](./224199-coloring-pixels-collection-2.json) |
 | Coloring Pixels: Collection 3 | 247490 | [247490-coloring-pixels-collection-3.json](./247490-coloring-pixels-collection-3.json) |
 | Coloring Pixels: Collection 4 | 317232 | [317232-coloring-pixels-collection-4.json](./317232-coloring-pixels-collection-4.json) |
+| Coloring Pixels: Collection 5 | 320454 | [320454-coloring-pixels-collection-5.json](./320454-coloring-pixels-collection-5.json) |
 | Coloring Pixels: Comic Pack | 393615 | [393615-coloring-pixels-comic-pack.json](./393615-coloring-pixels-comic-pack.json) |
 | Coloring Pixels: Fantasy Maps Pack | 351622 | [351622-coloring-pixels-fantasy-maps-pack.json](./351622-coloring-pixels-fantasy-maps-pack.json) |
 | Coloring Pixels: Fun and Games Pack | 277968 | [277968-coloring-pixels-fun-and-games-pack.json](./277968-coloring-pixels-fun-and-games-pack.json) |
