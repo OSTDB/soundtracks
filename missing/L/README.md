@@ -581,6 +581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laptop Tycoon | 186603 | [186603-laptop-tycoon.json](./186603-laptop-tycoon.json) |
 | Lara at the Movies: Blood from the Mummy's Tomb | 315558 | [315558-lara-at-the-movies-blood-from-the-mummys-tomb.json](./315558-lara-at-the-movies-blood-from-the-mummys-tomb.json) |
 | Lara Croft and the Guardian of Light | 769 | [769-lara-croft-and-the-guardian-of-light.json](./769-lara-croft-and-the-guardian-of-light.json) |
+| Lara Croft's Poker Party | 299543 | [299543-lara-crofts-poker-party.json](./299543-lara-crofts-poker-party.json) |
 | Lara Gates: The Lost Talisman Hidden Object Game | 144761 | [144761-lara-gates-the-lost-talisman-hidden-object-game.json](./144761-lara-gates-the-lost-talisman-hidden-object-game.json) |
 | Laranja! | 391059 | [391059-laranja.json](./391059-laranja.json) |
 | Larcenauts | 149018 | [149018-larcenauts.json](./149018-larcenauts.json) |
@@ -3829,6 +3830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Troubles in Spooky Town | 416076 | [416076-little-troubles-in-spooky-town.json](./416076-little-troubles-in-spooky-town.json) |
 | Little Trus Man | 62412 | [62412-little-trus-man.json](./62412-little-trus-man.json) |
 | Little Vampire | 132718 | [132718-little-vampire.json](./132718-little-vampire.json) |
+| Little Venture | 299586 | [299586-little-venture.json](./299586-little-venture.json) |
 | Little Viking | 197745 | [197745-little-viking.json](./197745-little-viking.json) |
 | Little Walker | 33388 | [33388-little-walker.json](./33388-little-walker.json) |
 | Little Warlings | 181763 | [181763-little-warlings.json](./181763-little-warlings.json) |
@@ -5237,6 +5239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Amidst the Timeless Rift | 284398 | [284398-love-amidst-the-timeless-rift.json](./284398-love-amidst-the-timeless-rift.json) |
 | Love and Berry: Dress Up and Dance! | 123372 | [123372-love-and-berry-dress-up-and-dance.json](./123372-love-and-berry-dress-up-and-dance.json) |
 | Love and Betrayal | 195639 | [195639-love-and-betrayal.json](./195639-love-and-betrayal.json) |
+| Love and Conspiracy | 299529 | [299529-love-and-conspiracy.json](./299529-love-and-conspiracy.json) |
 | Love And Death | 414568 | [414568-love-and-death.json](./414568-love-and-death.json) |
 | Love and Demons | 252074 | [252074-love-and-demons.json](./252074-love-and-demons.json) |
 | Love and Demons | 293846 | [293846-love-and-demons.json](./293846-love-and-demons.json) |
