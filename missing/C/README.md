@@ -1337,6 +1337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Card Streamer Simulator | 343218 | [343218-card-streamer-simulator.json](./343218-card-streamer-simulator.json) |
 | Card Summoner | 309445 | [309445-card-summoner.json](./309445-card-summoner.json) |
 | Card Survival: Fantasy Forest | 290925 | [290925-card-survival-fantasy-forest.json](./290925-card-survival-fantasy-forest.json) |
+| Card TD | 301072 | [301072-card-td.json](./301072-card-td.json) |
 | Card Thief | 28018 | [28018-card-thief.json](./28018-card-thief.json) |
 | Card Throw VR | 119716 | [119716-card-throw-vr.json](./119716-card-throw-vr.json) |
 | Card Tower Defence | 153458 | [153458-card-tower-defence.json](./153458-card-tower-defence.json) |
@@ -2472,6 +2473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catastrophic Cat Command | 309514 | [309514-catastrophic-cat-command.json](./309514-catastrophic-cat-command.json) |
 | Catatattack! | 368083 | [368083-catatattack.json](./368083-catatattack.json) |
 | Catbo | 311477 | [311477-catbo.json](./311477-catbo.json) |
+| CatboyZoom | 301078 | [301078-catboyzoom.json](./301078-catboyzoom.json) |
 | CatBun Idle | 405625 | [405625-catbun-idle.json](./405625-catbun-idle.json) |
 | Catburglar | 110894 | [110894-catburglar.json](./110894-catburglar.json) |
 | Catburglar | 406789 | [406789-catburglar.json](./406789-catburglar.json) |
