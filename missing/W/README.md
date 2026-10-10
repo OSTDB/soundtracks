@@ -1646,6 +1646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Way of Robot | 356301 | [356301-way-of-robot.json](./356301-way-of-robot.json) |
 | Way of the Cossack | 25550 | [25550-way-of-the-cossack.json](./25550-way-of-the-cossack.json) |
 | Way of the Dogg | 20109 | [20109-way-of-the-dogg.json](./20109-way-of-the-dogg.json) |
+| Way of the Exploding Stick | 290866 | [290866-way-of-the-exploding-stick.json](./290866-way-of-the-exploding-stick.json) |
 | Way of the Hunter | 198388 | [198388-way-of-the-hunter.json](./198388-way-of-the-hunter.json) |
 | Way of the Hunter 2 | 383019 | [383019-way-of-the-hunter-2.json](./383019-way-of-the-hunter-2.json) |
 | Way of the Hunter: Free UTV | 403804 | [403804-way-of-the-hunter-free-utv.json](./403804-way-of-the-hunter-free-utv.json) |
