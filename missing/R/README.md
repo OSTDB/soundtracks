@@ -1265,6 +1265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raspberry Coast | 157040 | [157040-raspberry-coast.json](./157040-raspberry-coast.json) |
 | Raspberry Cube | 117515 | [117515-raspberry-cube.json](./117515-raspberry-cube.json) |
 | Raster | 270175 | [270175-raster.json](./270175-raster.json) |
+| Raster | 312267 | [312267-raster.json](./312267-raster.json) |
 | Raster Blaster | 24879 | [24879-raster-blaster.json](./24879-raster-blaster.json) |
 | Raster Fahndung | 92992 | [92992-raster-fahndung.json](./92992-raster-fahndung.json) |
 | Raster Prime: Remix | 162415 | [162415-raster-prime-remix.json](./162415-raster-prime-remix.json) |
@@ -1385,6 +1386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ravenswatch: Legendary Edition | 331840 | [331840-ravenswatch-legendary-edition.json](./331840-ravenswatch-legendary-edition.json) |
 | Ravensword: The Fallen King | 61031 | [61031-ravensword-the-fallen-king.json](./61031-ravensword-the-fallen-king.json) |
 | Ravensword: Undaunted | 155056 | [155056-ravensword-undaunted.json](./155056-ravensword-undaunted.json) |
+| Ravenwood | 312280 | [312280-ravenwood.json](./312280-ravenwood.json) |
 | Ravenwood Academy: A Wizard101 Story | 298165 | [298165-ravenwood-academy-a-wizard101-story.json](./298165-ravenwood-academy-a-wizard101-story.json) |
 | Ravenwood Acres | 268981 | [268981-ravenwood-acres.json](./268981-ravenwood-acres.json) |
 | Ravenwood Drive | 311626 | [311626-ravenwood-drive.json](./311626-ravenwood-drive.json) |
@@ -3185,6 +3187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Replicart | 41390 | [41390-replicart.json](./41390-replicart.json) |
 | Replicators | 98785 | [98785-replicators.json](./98785-replicators.json) |
 | Replicomica | 361252 | [361252-replicomica.json](./361252-replicomica.json) |
+| Replicon | 312315 | [312315-replicon.json](./312315-replicon.json) |
 | Replics | 129765 | [129765-replics.json](./129765-replics.json) |
 | Replics 3 - Behind the Light | 132075 | [132075-replics-3-behind-the-light.json](./132075-replics-3-behind-the-light.json) |
 | Replik Survivors | 266296 | [266296-replik-survivors.json](./266296-replik-survivors.json) |
@@ -5724,6 +5727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket Hat | 329397 | [329397-rocket-hat.json](./329397-rocket-hat.json) |
 | Rocket Hippo! | 107392 | [107392-rocket-hippo.json](./107392-rocket-hippo.json) |
 | Rocket Horizon | 256928 | [256928-rocket-horizon.json](./256928-rocket-horizon.json) |
+| Rocket Hunting | 312268 | [312268-rocket-hunting.json](./312268-rocket-hunting.json) |
 | Rocket Inc | 223426 | [223426-rocket-inc.json](./223426-rocket-inc.json) |
 | Rocket Jockey | 50137 | [50137-rocket-jockey.json](./50137-rocket-jockey.json) |
 | Rocket Joust | 174183 | [174183-rocket-joust.json](./174183-rocket-joust.json) |
@@ -7269,6 +7273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ruin and Rebirth | 376031 | [376031-ruin-and-rebirth.json](./376031-ruin-and-rebirth.json) |
 | Ruin Arm | 38292 | [38292-ruin-arm.json](./38292-ruin-arm.json) |
 | Ruin Hunter Raichi | 392456 | [392456-ruin-hunter-raichi.json](./392456-ruin-hunter-raichi.json) |
+| Ruin of the Fae Realm | 312314 | [312314-ruin-of-the-fae-realm.json](./312314-ruin-of-the-fae-realm.json) |
 | Ruin of the Reckless | 28240 | [28240-ruin-of-the-reckless.json](./28240-ruin-of-the-reckless.json) |
 | Ruin Raiders | 132787 | [132787-ruin-raiders.json](./132787-ruin-raiders.json) |
 | Ruin: Chapter 0 | 400981 | [400981-ruin-chapter-0.json](./400981-ruin-chapter-0.json) |
