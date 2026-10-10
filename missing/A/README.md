@@ -18,6 +18,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Beautiful Ride to Carlisle | 184911 | [184911-a-beautiful-ride-to-carlisle.json](./184911-a-beautiful-ride-to-carlisle.json) |
 | A Beauty Cold and Austere | 138140 | [138140-a-beauty-cold-and-austere.json](./138140-a-beauty-cold-and-austere.json) |
 | A Beaver's Tale | 312657 | [312657-a-beavers-tale.json](./312657-a-beavers-tale.json) |
+| A Bee Movie Game But Every Time You Beat It It Gets Faster | 326590 | [326590-a-bee-movie-game-but-every-time-you-beat-it-it-gets-faster.json](./326590-a-bee-movie-game-but-every-time-you-beat-it-it-gets-faster.json) |
 | A Better Mouse Trap | 71170 | [71170-a-better-mouse-trap.json](./71170-a-better-mouse-trap.json) |
 | A Better Schlo Dating Simulation | 298788 | [298788-a-better-schlo-dating-simulation.json](./298788-a-better-schlo-dating-simulation.json) |
 | A Better World | 345591 | [345591-a-better-world.json](./345591-a-better-world.json) |
@@ -797,6 +798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Walk Through Echoes | 159708 | [159708-a-walk-through-echoes.json](./159708-a-walk-through-echoes.json) |
 | A Walk With Yiayia | 151184 | [151184-a-walk-with-yiayia.json](./151184-a-walk-with-yiayia.json) |
 | A Wanderer's Tale: Celebration of the Century | 266415 | [266415-a-wanderers-tale-celebration-of-the-century.json](./266415-a-wanderers-tale-celebration-of-the-century.json) |
+| A War On Christmas 3: World War C | 326632 | [326632-a-war-on-christmas-3-world-war-c.json](./326632-a-war-on-christmas-3-world-war-c.json) |
 | A War On Christmas: Part 2 | 279773 | [279773-a-war-on-christmas-part-2.json](./279773-a-war-on-christmas-part-2.json) |
 | A Warmer Shade of Summer | 151192 | [151192-a-warmer-shade-of-summer.json](./151192-a-warmer-shade-of-summer.json) |
 | A Wave of Enemies | 154084 | [154084-a-wave-of-enemies.json](./154084-a-wave-of-enemies.json) |
@@ -5826,6 +5828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Magnetism: Pochi no Daisuki | 214434 | [214434-animal-magnetism-pochi-no-daisuki.json](./214434-animal-magnetism-pochi-no-daisuki.json) |
 | Animal Math | 73475 | [73475-animal-math.json](./73475-animal-math.json) |
 | Animal Memory | 151591 | [151591-animal-memory.json](./151591-animal-memory.json) |
+| Animal Night Market | 326859 | [326859-animal-night-market.json](./326859-animal-night-market.json) |
 | Animal Notes | 119707 | [119707-animal-notes.json](./119707-animal-notes.json) |
 | Animal Pairs: Matching & Concentration Game for Toddlers & Kids | 147938 | [147938-animal-pairs-matching-and-concentration-game-for-toddlers-and-kids.json](./147938-animal-pairs-matching-and-concentration-game-for-toddlers-and-kids.json) |
 | Animal Pattern | 335352 | [335352-animal-pattern.json](./335352-animal-pattern.json) |
@@ -8042,6 +8045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arkanoid | 273046 | [273046-arkanoid.json](./273046-arkanoid.json) |
 | Arkanoid | 273047 | [273047-arkanoid.json](./273047-arkanoid.json) |
 | Arkanoid | 273048 | [273048-arkanoid.json](./273048-arkanoid.json) |
+| Arkanoid | 326864 | [326864-arkanoid.json](./326864-arkanoid.json) |
 | Arkanoid | 4595 | [4595-arkanoid.json](./4595-arkanoid.json) |
 | Arkanoid 2000 | 80599 | [80599-arkanoid-2000.json](./80599-arkanoid-2000.json) |
 | Arkanoid Plus! | 50996 | [50996-arkanoid-plus.json](./50996-arkanoid-plus.json) |
