@@ -3239,6 +3239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Sentai Kakuranger | 310198 | [310198-ninja-sentai-kakuranger.json](./310198-ninja-sentai-kakuranger.json) |
 | Ninja Shurican | 183467 | [183467-ninja-shurican.json](./183467-ninja-shurican.json) |
 | Ninja Shuriken Master | 300855 | [300855-ninja-shuriken-master.json](./300855-ninja-shuriken-master.json) |
+| Ninja Slayer: Neo-Saitama In Flames | 298395 | [298395-ninja-slayer-neo-saitama-in-flames.json](./298395-ninja-slayer-neo-saitama-in-flames.json) |
 | Ninja Smasher! | 30625 | [30625-ninja-smasher.json](./30625-ninja-smasher.json) |
 | Ninja Sneaking VS | 244892 | [244892-ninja-sneaking-vs.json](./244892-ninja-sneaking-vs.json) |
 | Ninja Specialist | 207184 | [207184-ninja-specialist.json](./207184-ninja-specialist.json) |
@@ -3556,6 +3557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Light | 150684 | [150684-no-light.json](./150684-no-light.json) |
 | No Lights | 52080 | [52080-no-lights.json](./52080-no-lights.json) |
 | No Limit Drag Racing 2 | 227370 | [227370-no-limit-drag-racing-2.json](./227370-no-limit-drag-racing-2.json) |
+| No Limite | 298406 | [298406-no-limite.json](./298406-no-limite.json) |
 | No Limits 2 | 80606 | [80606-no-limits-2.json](./80606-no-limits-2.json) |
 | No Limits Downhill Skiing | 218006 | [218006-no-limits-downhill-skiing.json](./218006-no-limits-downhill-skiing.json) |
 | No Limits Hydro Extreme | 218008 | [218008-no-limits-hydro-extreme.json](./218008-no-limits-hydro-extreme.json) |
@@ -4571,6 +4573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nuclien | 56279 | [56279-nuclien.json](./56279-nuclien.json) |
 | Nude and Afraid: 11 Day Challenge | 270962 | [270962-nude-and-afraid-11-day-challenge.json](./270962-nude-and-afraid-11-day-challenge.json) |
 | Nudel Tag | 270113 | [270113-nudel-tag.json](./270113-nudel-tag.json) |
+| NudGirls | 298413 | [298413-nudgirls.json](./298413-nudgirls.json) |
 | Nudist Beach Survival Simulator 2 | 171465 | [171465-nudist-beach-survival-simulator-2.json](./171465-nudist-beach-survival-simulator-2.json) |
 | Nudo | 210560 | [210560-nudo.json](./210560-nudo.json) |
 | Nugatory | 399690 | [399690-nugatory.json](./399690-nugatory.json) |
