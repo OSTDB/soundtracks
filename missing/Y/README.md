@@ -659,6 +659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You Are Here | 309621 | [309621-you-are-here.json](./309621-you-are-here.json) |
 | You Are King | 59247 | [59247-you-are-king.json](./59247-you-are-king.json) |
 | You Are Lost | 181158 | [181158-you-are-lost.json](./181158-you-are-lost.json) |
+| You Are Mine 2 | 303296 | [303296-you-are-mine-2.json](./303296-you-are-mine-2.json) |
 | You Are Mine2 Otome Love Story | 231876 | [231876-you-are-mine2-otome-love-story.json](./231876-you-are-mine2-otome-love-story.json) |
 | YOU ARE MY HOME | 300762 | [300762-you-are-my-home.json](./300762-you-are-my-home.json) |
 | You Are My Sanctuary | 109892 | [109892-you-are-my-sanctuary.json](./109892-you-are-my-sanctuary.json) |
