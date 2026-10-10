@@ -4562,6 +4562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loopdio | 321425 | [321425-loopdio.json](./321425-loopdio.json) |
 | Loopdrop | 364696 | [364696-loopdrop.json](./364696-loopdrop.json) |
 | Looped | 285506 | [285506-looped.json](./285506-looped.json) |
+| Looped: Love at first sight | 310711 | [310711-looped-love-at-first-sight.json](./310711-looped-love-at-first-sight.json) |
 | Loopedal | 364642 | [364642-loopedal.json](./364642-loopedal.json) |
 | Looper | 292133 | [292133-looper.json](./292133-looper.json) |
 | Looper | 323827 | [323827-looper.json](./323827-looper.json) |
@@ -5157,6 +5158,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lotion Samurai for Nintendo Switch | 249785 | [249785-lotion-samurai-for-nintendo-switch.json](./249785-lotion-samurai-for-nintendo-switch.json) |
 | LotR: Realms in Exile | 277527 | [277527-lotr-realms-in-exile.json](./277527-lotr-realms-in-exile.json) |
 | Lots of Bugs | 405064 | [405064-lots-of-bugs.json](./405064-lots-of-bugs.json) |
+| Lots of Cats in Every Moment | 310691 | [310691-lots-of-cats-in-every-moment.json](./310691-lots-of-cats-in-every-moment.json) |
+| Lots of Cats in Every Moment: The Whereabouts of the Photo | 310693 | [310693-lots-of-cats-in-every-moment-the-whereabouts-of-the-photo.json](./310693-lots-of-cats-in-every-moment-the-whereabouts-of-the-photo.json) |
 | Lots of Guns | 65466 | [65466-lots-of-guns.json](./65466-lots-of-guns.json) |
 | Lots of Slots | 147892 | [147892-lots-of-slots.json](./147892-lots-of-slots.json) |
 | Lots of Things 2: Travel and Search - Collector's Edition | 307759 | [307759-lots-of-things-2-travel-and-search-collectors-edition.json](./307759-lots-of-things-2-travel-and-search-collectors-edition.json) |
@@ -5249,6 +5252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Connection! | 242789 | [242789-love-connection.json](./242789-love-connection.json) |
 | Love Cooking at Home? Turn your Hobby into a Business! | 156122 | [156122-love-cooking-at-home-turn-your-hobby-into-a-business.json](./156122-love-cooking-at-home-turn-your-hobby-into-a-business.json) |
 | Love Cupid | 199995 | [199995-love-cupid.json](./199995-love-cupid.json) |
+| Love Curse: Find Your Soulmate | 310714 | [310714-love-curse-find-your-soulmate.json](./310714-love-curse-find-your-soulmate.json) |
 | Love D3ath Love | 412296 | [412296-love-d3ath-love.json](./412296-love-d3ath-love.json) |
 | Love Date | 119669 | [119669-love-date.json](./119669-love-date.json) |
 | Love Death | 259259 | [259259-love-death.json](./259259-love-death.json) |
