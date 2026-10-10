@@ -1015,6 +1015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Under a Desert Sun: Seekers of the Cursed Vessel | 372637 | [372637-under-a-desert-sun-seekers-of-the-cursed-vessel.json](./372637-under-a-desert-sun-seekers-of-the-cursed-vessel.json) |
 | Under a Freezing Sea | 143362 | [143362-under-a-freezing-sea.json](./143362-under-a-freezing-sea.json) |
 | Under a Star Called Sun | 135632 | [135632-under-a-star-called-sun.json](./135632-under-a-star-called-sun.json) |
+| Under a Tree with Cherry Blossoms: Love with One's Back | 303300 | [303300-under-a-tree-with-cherry-blossoms-love-with-ones-back.json](./303300-under-a-tree-with-cherry-blossoms-love-with-ones-back.json) |
 | Under Construction: Summer City | 167582 | [167582-under-construction-summer-city.json](./167582-under-construction-summer-city.json) |
 | Under Contract | 219533 | [219533-under-contract.json](./219533-under-contract.json) |
 | Under Control | 176795 | [176795-under-control.json](./176795-under-control.json) |
@@ -1778,6 +1779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unriddle | 187435 | [187435-unriddle.json](./187435-unriddle.json) |
 | Unrivaled | 421359 | [421359-unrivaled.json](./421359-unrivaled.json) |
 | Unroaded | 115440 | [115440-unroaded.json](./115440-unroaded.json) |
+| Unromantic Demon Queen | 303306 | [303306-unromantic-demon-queen.json](./303306-unromantic-demon-queen.json) |
 | Unrooted | 204366 | [204366-unrooted.json](./204366-unrooted.json) |
 | Unruly Tennis | 228121 | [228121-unruly-tennis.json](./228121-unruly-tennis.json) |
 | Unrush | 223420 | [223420-unrush.json](./223420-unrush.json) |
