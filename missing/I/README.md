@@ -21,6 +21,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I am an Air Traffic Controller 4: Airport Naha - Roah | 166066 | [166066-i-am-an-air-traffic-controller-4-airport-naha-roah.json](./166066-i-am-an-air-traffic-controller-4-airport-naha-roah.json) |
 | I am an Air Traffic Controller 4: Airport Narita - RJAA | 310386 | [310386-i-am-an-air-traffic-controller-4-airport-narita-rjaa.json](./310386-i-am-an-air-traffic-controller-4-airport-narita-rjaa.json) |
 | I am an Air Traffic Controller Airport Hero Hawaii | 84545 | [84545-i-am-an-air-traffic-controller-airport-hero-hawaii.json](./84545-i-am-an-air-traffic-controller-airport-hero-hawaii.json) |
+| I am an Air Traffic Controller: Airport Hero Centrair - 20th Anniversary | 323700 | [323700-i-am-an-air-traffic-controller-airport-hero-centrair-20th-anniversary.json](./323700-i-am-an-air-traffic-controller-airport-hero-centrair-20th-anniversary.json) |
 | I am an Air Traffic Controller: Airport Hero Haneda - Sky Day! Variety Pack | 237971 | [237971-i-am-an-air-traffic-controller-airport-hero-haneda-sky-day-variety-pack.json](./237971-i-am-an-air-traffic-controller-airport-hero-haneda-sky-day-variety-pack.json) |
 | I Am An Air Traffic Controller: Airport Hero Naha | 56475 | [56475-i-am-an-air-traffic-controller-airport-hero-naha.json](./56475-i-am-an-air-traffic-controller-airport-hero-naha.json) |
 | I Am An Air Traffic Controller: Airport Hero Narita | 56474 | [56474-i-am-an-air-traffic-controller-airport-hero-narita.json](./56474-i-am-an-air-traffic-controller-airport-hero-narita.json) |
@@ -2510,6 +2511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inhabited Island: Prisoner of Power | 352354 | [352354-inhabited-island-prisoner-of-power.json](./352354-inhabited-island-prisoner-of-power.json) |
 | Inherent Evil - The Haunted Hotel | 114408 | [114408-inherent-evil-the-haunted-hotel.json](./114408-inherent-evil-the-haunted-hotel.json) |
 | Inherit the Earth: Quest for the Orb | 16726 | [16726-inherit-the-earth-quest-for-the-orb.json](./16726-inherit-the-earth-quest-for-the-orb.json) |
+| Inheritance | 323997 | [323997-inheritance.json](./323997-inheritance.json) |
 | Inheritance | 365746 | [365746-inheritance.json](./365746-inheritance.json) |
 | Inheritance of Ash | 322793 | [322793-inheritance-of-ash.json](./322793-inheritance-of-ash.json) |
 | Inherited Shadows | 403838 | [403838-inherited-shadows.json](./403838-inherited-shadows.json) |
