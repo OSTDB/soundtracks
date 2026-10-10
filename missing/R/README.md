@@ -771,6 +771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rain of Reflections | 58544 | [58544-rain-of-reflections.json](./58544-rain-of-reflections.json) |
 | Rain on their Parade! | 252080 | [252080-rain-on-their-parade.json](./252080-rain-on-their-parade.json) |
 | Rain on Your Parade | 129057 | [129057-rain-on-your-parade.json](./129057-rain-on-your-parade.json) |
+| Rain on Your Parade + Just Crow Things | 331909 | [331909-rain-on-your-parade-just-crow-things.json](./331909-rain-on-your-parade-just-crow-things.json) |
 | Rain on Your Parade: Rain on Your DLC | 199914 | [199914-rain-on-your-parade-rain-on-your-dlc.json](./199914-rain-on-your-parade-rain-on-your-dlc.json) |
 | Rain reader | 176313 | [176313-rain-reader.json](./176313-rain-reader.json) |
 | Rain Ruin | 207358 | [207358-rain-ruin.json](./207358-rain-ruin.json) |
@@ -1370,6 +1371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ravensdale | 47424 | [47424-ravensdale.json](./47424-ravensdale.json) |
 | Ravenshade Asylum | 411825 | [411825-ravenshade-asylum.json](./411825-ravenshade-asylum.json) |
 | Ravensthorn | 316730 | [316730-ravensthorn.json](./316730-ravensthorn.json) |
+| Ravenswatch: Legendary Edition | 331840 | [331840-ravenswatch-legendary-edition.json](./331840-ravenswatch-legendary-edition.json) |
 | Ravensword: The Fallen King | 61031 | [61031-ravensword-the-fallen-king.json](./61031-ravensword-the-fallen-king.json) |
 | Ravensword: Undaunted | 155056 | [155056-ravensword-undaunted.json](./155056-ravensword-undaunted.json) |
 | Ravenwood Academy: A Wizard101 Story | 298165 | [298165-ravenwood-academy-a-wizard101-story.json](./298165-ravenwood-academy-a-wizard101-story.json) |
@@ -1671,6 +1673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reactor 09 | 123596 | [123596-reactor-09.json](./123596-reactor-09.json) |
 | Reactor Critical | 406651 | [406651-reactor-critical.json](./406651-reactor-critical.json) |
 | Reactor Tech 2 | 163975 | [163975-reactor-tech-2.json](./163975-reactor-tech-2.json) |
+| ReactorX 3 | 331906 | [331906-reactorx-3.json](./331906-reactorx-3.json) |
 | Reactoryx | 330375 | [330375-reactoryx.json](./330375-reactoryx.json) |
 | Read Only Memories: Neurodiver - Collector's Edition | 292138 | [292138-read-only-memories-neurodiver-collectors-edition.json](./292138-read-only-memories-neurodiver-collectors-edition.json) |
 | Read the Unfinished Donkey Kong Country Story...and then Finish the Adventure! | 328601 | [328601-read-the-unfinished-donkey-kong-country-story-and-then-finish-the-adventure.json](./328601-read-the-unfinished-donkey-kong-country-story-and-then-finish-the-adventure.json) |
@@ -5552,6 +5555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rock 'N Racing Bundle Off Road & Grand Prix | 147797 | [147797-rock-n-racing-bundle-off-road-and-grand-prix.json](./147797-rock-n-racing-bundle-off-road-and-grand-prix.json) |
 | Rock 'N Racing Bundle Off Road & Rally | 147798 | [147798-rock-n-racing-bundle-off-road-and-rally.json](./147798-rock-n-racing-bundle-off-road-and-rally.json) |
 | Rock 'N Racing Off Road | 86249 | [86249-rock-n-racing-off-road.json](./86249-rock-n-racing-off-road.json) |
+| Rock 'N Racing Off Road & Grand Prix | 331907 | [331907-rock-n-racing-off-road-and-grand-prix.json](./331907-rock-n-racing-off-road-and-grand-prix.json) |
 | Rock 'N Racing Off Road DX | 20959 | [20959-rock-n-racing-off-road-dx.json](./20959-rock-n-racing-off-road-dx.json) |
 | Rock 'N Roll | 90647 | [90647-rock-n-roll.json](./90647-rock-n-roll.json) |
 | Rock 'N Roll: G.E.O.S. Wars | 170880 | [170880-rock-n-roll-g-e-o-s-wars.json](./170880-rock-n-roll-g-e-o-s-wars.json) |
