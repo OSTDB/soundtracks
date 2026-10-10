@@ -1929,6 +1929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Basketball Court VR | 32166 | [32166-basketball-court-vr.json](./32166-basketball-court-vr.json) |
 | Basketball Dunk Tournament | 197336 | [197336-basketball-dunk-tournament.json](./197336-basketball-dunk-tournament.json) |
 | Basketball Dynasty Manager 16 | 99175 | [99175-basketball-dynasty-manager-16.json](./99175-basketball-dynasty-manager-16.json) |
+| Basketball FRVR | 305414 | [305414-basketball-frvr.json](./305414-basketball-frvr.json) |
 | Basketball Grand Slam 2024 | 269089 | [269089-basketball-grand-slam-2024.json](./269089-basketball-grand-slam-2024.json) |
 | Basketball Hero | 109174 | [109174-basketball-hero.json](./109174-basketball-hero.json) |
 | Basketball Hero VR | 102198 | [102198-basketball-hero-vr.json](./102198-basketball-hero-vr.json) |
