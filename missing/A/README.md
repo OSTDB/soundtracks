@@ -7200,6 +7200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Fantastic Night Dreams Cotton | 323842 | [323842-arcade-archives-fantastic-night-dreams-cotton.json](./323842-arcade-archives-fantastic-night-dreams-cotton.json) |
 | Arcade Archives: Fighter & Attacker | 304280 | [304280-arcade-archives-fighter-and-attacker.json](./304280-arcade-archives-fighter-and-attacker.json) |
 | Arcade Archives: Fighting Hawk | 200579 | [200579-arcade-archives-fighting-hawk.json](./200579-arcade-archives-fighting-hawk.json) |
+| Arcade Archives: Final Blow | 322833 | [322833-arcade-archives-final-blow.json](./322833-arcade-archives-final-blow.json) |
 | Arcade Archives: Finalizer Super Transformation | 315828 | [315828-arcade-archives-finalizer-super-transformation.json](./315828-arcade-archives-finalizer-super-transformation.json) |
 | Arcade Archives: Flipull | 202800 | [202800-arcade-archives-flipull.json](./202800-arcade-archives-flipull.json) |
 | Arcade Archives: Football Champ | 309045 | [309045-arcade-archives-football-champ.json](./309045-arcade-archives-football-champ.json) |
@@ -7775,6 +7776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ardent Seas | 146258 | [146258-ardent-seas.json](./146258-ardent-seas.json) |
 | Ardent Wilds | 368644 | [368644-ardent-wilds.json](./368644-ardent-wilds.json) |
 | Ardent: Rise | 408274 | [408274-ardent-rise.json](./408274-ardent-rise.json) |
+| Ardente: La Grande Guerre | 322850 | [322850-ardente-la-grande-guerre.json](./322850-ardente-la-grande-guerre.json) |
 | Ardilous | 183523 | [183523-ardilous.json](./183523-ardilous.json) |
 | Ardor | 199386 | [199386-ardor.json](./199386-ardor.json) |
 | Ardor 2 | 365175 | [365175-ardor-2.json](./365175-ardor-2.json) |
