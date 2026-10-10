@@ -1154,6 +1154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NEET Simulator | 113768 | [113768-neet-simulator.json](./113768-neet-simulator.json) |
 | Nefarious Dreams | 330855 | [330855-nefarious-dreams.json](./330855-nefarious-dreams.json) |
 | Nefarium | 192452 | [192452-nefarium.json](./192452-nefarium.json) |
+| Neffy: Moonlight Labyrinth | 330778 | [330778-neffy-moonlight-labyrinth.json](./330778-neffy-moonlight-labyrinth.json) |
 | Neffy: Moonlight Labyrinth X | 369061 | [369061-neffy-moonlight-labyrinth-x.json](./369061-neffy-moonlight-labyrinth-x.json) |
 | Nefiriya and the Sands of Eternity | 331470 | [331470-nefiriya-and-the-sands-of-eternity.json](./331470-nefiriya-and-the-sands-of-eternity.json) |
 | Nefiriya x Super Astro Cat Bundle | 331471 | [331471-nefiriya-x-super-astro-cat-bundle.json](./331471-nefiriya-x-super-astro-cat-bundle.json) |
@@ -2812,6 +2813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightmare in the Dark | 40992 | [40992-nightmare-in-the-dark.json](./40992-nightmare-in-the-dark.json) |
 | Nightmare Invasion | 352749 | [352749-nightmare-invasion.json](./352749-nightmare-invasion.json) |
 | Nightmare Journey 1135 | 402555 | [402555-nightmare-journey-1135.json](./402555-nightmare-journey-1135.json) |
+| Nightmare Kart: The Old Karts | 330684 | [330684-nightmare-kart-the-old-karts.json](./330684-nightmare-kart-the-old-karts.json) |
 | Nightmare Kitchen | 334501 | [334501-nightmare-kitchen.json](./334501-nightmare-kitchen.json) |
 | Nightmare Knight: Sacred Maiden & Fallen Magic | 270955 | [270955-nightmare-knight-sacred-maiden-and-fallen-magic.json](./270955-nightmare-knight-sacred-maiden-and-fallen-magic.json) |
 | Nightmare Knock | 237518 | [237518-nightmare-knock.json](./237518-nightmare-knock.json) |
