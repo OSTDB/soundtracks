@@ -976,6 +976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Late for Love | 176517 | [176517-late-for-love.json](./176517-late-for-love.json) |
 | Late Homework | 313188 | [313188-late-homework.json](./313188-late-homework.json) |
 | Late Hours | 383559 | [383559-late-hours.json](./383559-late-hours.json) |
+| Late Laundry | 312858 | [312858-late-laundry.json](./312858-late-laundry.json) |
 | Late Metro Drive | 374965 | [374965-late-metro-drive.json](./374965-late-metro-drive.json) |
 | Late Ming Fly Guy | 339904 | [339904-late-ming-fly-guy.json](./339904-late-ming-fly-guy.json) |
 | Late Night 1320 | 115654 | [115654-late-night-1320.json](./115654-late-night-1320.json) |
