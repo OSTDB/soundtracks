@@ -418,6 +418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Radical Fishing | 283311 | [283311-radical-fishing.json](./283311-radical-fishing.json) |
 | Radical Heroes: Crimson City Crisis | 31630 | [31630-radical-heroes-crimson-city-crisis.json](./31630-radical-heroes-crimson-city-crisis.json) |
 | Radical Rabbit Stew | 116592 | [116592-radical-rabbit-stew.json](./116592-radical-rabbit-stew.json) |
+| Radical Race | 301098 | [301098-radical-race.json](./301098-radical-race.json) |
 | Radical Rex | 5427 | [5427-radical-rex.json](./5427-radical-rex.json) |
 | Radical Roach | 10748 | [10748-radical-roach.json](./10748-radical-roach.json) |
 | Radical Roach Remastered | 36311 | [36311-radical-roach-remastered.json](./36311-radical-roach-remastered.json) |
@@ -2547,6 +2548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Redden | 83576 | [83576-redden.json](./83576-redden.json) |
 | Redeemart: A Convenient Apocalypse | 226448 | [226448-redeemart-a-convenient-apocalypse.json](./226448-redeemart-a-convenient-apocalypse.json) |
 | Redeemer's Run | 264562 | [264562-redeemers-run.json](./264562-redeemers-run.json) |
+| Redemption | 301064 | [301064-redemption.json](./301064-redemption.json) |
 | Redemption | 306063 | [306063-redemption.json](./306063-redemption.json) |
 | Redemption Cemetery: Bitter Frost | 61076 | [61076-redemption-cemetery-bitter-frost.json](./61076-redemption-cemetery-bitter-frost.json) |
 | Redemption Cemetery: Bitter Frost - Collector's Edition | 30858 | [30858-redemption-cemetery-bitter-frost-collectors-edition.json](./30858-redemption-cemetery-bitter-frost-collectors-edition.json) |
@@ -4897,6 +4899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Risen 3: Titan Lords - Enhanced Edition | 42939 | [42939-risen-3-titan-lords-enhanced-edition.json](./42939-risen-3-titan-lords-enhanced-edition.json) |
 | Risen Dragons | 53514 | [53514-risen-dragons.json](./53514-risen-dragons.json) |
 | Risen Kingdom | 128025 | [128025-risen-kingdom.json](./128025-risen-kingdom.json) |
+| Riser of Babel | 301084 | [301084-riser-of-babel.json](./301084-riser-of-babel.json) |
 | Risiko Chess | 274556 | [274556-risiko-chess.json](./274556-risiko-chess.json) |
 | Risimon | 315709 | [315709-risimon.json](./315709-risimon.json) |
 | Rising Angels: Fates Allegiance | 75215 | [75215-rising-angels-fates-allegiance.json](./75215-rising-angels-fates-allegiance.json) |
