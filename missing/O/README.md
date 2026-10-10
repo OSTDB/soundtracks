@@ -288,6 +288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oceanside | 274198 | [274198-oceanside.json](./274198-oceanside.json) |
 | Oceanside Whispers | 390676 | [390676-oceanside-whispers.json](./390676-oceanside-whispers.json) |
 | Oceanspirit Danish | 57102 | [57102-oceanspirit-danish.json](./57102-oceanspirit-danish.json) |
+| Oceanspirit Dennis: Mighty Pirate | 327231 | [327231-oceanspirit-dennis-mighty-pirate.json](./327231-oceanspirit-dennis-mighty-pirate.json) |
 | Oceanum Mortis | 120810 | [120810-oceanum-mortis.json](./120810-oceanum-mortis.json) |
 | Ocero 3D | 341497 | [341497-ocero-3d.json](./341497-ocero-3d.json) |
 | Ochakai he no Shoutaijou | 246092 | [246092-ochakai-he-no-shoutaijou.json](./246092-ochakai-he-no-shoutaijou.json) |
@@ -1720,6 +1721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oneiric Gardens | 146541 | [146541-oneiric-gardens.json](./146541-oneiric-gardens.json) |
 | Oneiro | 226668 | [226668-oneiro.json](./226668-oneiro.json) |
 | Oneiro Man | 299779 | [299779-oneiro-man.json](./299779-oneiro-man.json) |
+| Oneiro(Phobia/Phrenia) | 327159 | [327159-oneiro-phobia-phrenia.json](./327159-oneiro-phobia-phrenia.json) |
 | Oneirology Online | 276922 | [276922-oneirology-online.json](./276922-oneirology-online.json) |
 | Oneirophobia | 300794 | [300794-oneirophobia.json](./300794-oneirophobia.json) |
 | Oneirophobia | 391714 | [391714-oneirophobia.json](./391714-oneirophobia.json) |
@@ -1989,6 +1991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Open Day | 214622 | [214622-open-day.json](./214622-open-day.json) |
 | Open Doctrines | 417557 | [417557-open-doctrines.json](./417557-open-doctrines.json) |
 | Open Door | 214177 | [214177-open-door.json](./214177-open-door.json) |
+| Open Fire | 327155 | [327155-open-fire.json](./327155-open-fire.json) |
 | Open Fire | 348792 | [348792-open-fire.json](./348792-open-fire.json) |
 | Open Fire: Ready | 389966 | [389966-open-fire-ready.json](./389966-open-fire-ready.json) |
 | Open Fishing 2 | 333003 | [333003-open-fishing-2.json](./333003-open-fishing-2.json) |
