@@ -4176,6 +4176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Descend into Madness | 162837 | [162837-descend-into-madness.json](./162837-descend-into-madness.json) |
 | Descend.gg | 232661 | [232661-descend-gg.json](./232661-descend-gg.json) |
 | Descended | 265589 | [265589-descended.json](./265589-descended.json) |
+| Descenders Next | 312871 | [312871-descenders-next.json](./312871-descenders-next.json) |
 | Descending: House of Nightmares | 171614 | [171614-descending-house-of-nightmares.json](./171614-descending-house-of-nightmares.json) |
 | Descension | 208447 | [208447-descension.json](./208447-descension.json) |
 | Descension | 352183 | [352183-descension.json](./352183-descension.json) |
@@ -4535,6 +4536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destroyer | 26410 | [26410-destroyer.json](./26410-destroyer.json) |
 | Destroyer 7800 | 304197 | [304197-destroyer-7800.json](./304197-destroyer-7800.json) |
 | Destroyer Command | 23456 | [23456-destroyer-command.json](./23456-destroyer-command.json) |
+| Destroyer For Windows | 312840 | [312840-destroyer-for-windows.json](./312840-destroyer-for-windows.json) |
 | Destroyer of Worlds | 144223 | [144223-destroyer-of-worlds.json](./144223-destroyer-of-worlds.json) |
 | Destroyer: Invasion | 50754 | [50754-destroyer-invasion.json](./50754-destroyer-invasion.json) |
 | Destruct | 60511 | [60511-destruct.json](./60511-destruct.json) |
@@ -6877,6 +6879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dodge Racing: Charger vs Challenger | 197942 | [197942-dodge-racing-charger-vs-challenger.json](./197942-dodge-racing-charger-vs-challenger.json) |
 | Dodge Spree | 326170 | [326170-dodge-spree.json](./326170-dodge-spree.json) |
 | Dodge Spree X | 318526 | [318526-dodge-spree-x.json](./318526-dodge-spree-x.json) |
+| Dodge that, Ronald! | 312832 | [312832-dodge-that-ronald.json](./312832-dodge-that-ronald.json) |
 | Dodge the Creeps | 344390 | [344390-dodge-the-creeps.json](./344390-dodge-the-creeps.json) |
 | Dodge These Asteroids | 353961 | [353961-dodge-these-asteroids.json](./353961-dodge-these-asteroids.json) |
 | Dodge These Balls | 147639 | [147639-dodge-these-balls.json](./147639-dodge-these-balls.json) |
