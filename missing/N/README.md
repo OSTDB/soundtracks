@@ -3895,6 +3895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noir Punk | 150240 | [150240-noir-punk.json](./150240-noir-punk.json) |
 | Noir Storm | 216984 | [216984-noir-storm.json](./216984-noir-storm.json) |
 | Noir Total: Deadly Party | 343270 | [343270-noir-total-deadly-party.json](./343270-noir-total-deadly-party.json) |
+| Noir: Dead On Arrival | 327892 | [327892-noir-dead-on-arrival.json](./327892-noir-dead-on-arrival.json) |
 | Noircotics | 312185 | [312185-noircotics.json](./312185-noircotics.json) |
 | Noirmancer | 400955 | [400955-noirmancer.json](./400955-noirmancer.json) |
 | NoirNet: The Neon Enigma | 249188 | [249188-noirnet-the-neon-enigma.json](./249188-noirnet-the-neon-enigma.json) |
