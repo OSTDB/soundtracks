@@ -1121,6 +1121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Underground Business | 406924 | [406924-underground-business.json](./406924-underground-business.json) |
 | Underground Defense Force: Sword and Sorcery and Swarm of Insects | 270108 | [270108-underground-defense-force-sword-and-sorcery-and-swarm-of-insects.json](./270108-underground-defense-force-sword-and-sorcery-and-swarm-of-insects.json) |
 | Underground Dungeon | 192418 | [192418-underground-dungeon.json](./192418-underground-dungeon.json) |
+| Underground Ernie: International Fun Station | 328423 | [328423-underground-ernie-international-fun-station.json](./328423-underground-ernie-international-fun-station.json) |
 | Underground Fortress | 308360 | [308360-underground-fortress.json](./308360-underground-fortress.json) |
 | Underground Life | 172676 | [172676-underground-life.json](./172676-underground-life.json) |
 | Underground Miner | 129673 | [129673-underground-miner.json](./129673-underground-miner.json) |
