@@ -1276,6 +1276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkfall Unholy Wars | 8185 | [8185-darkfall-unholy-wars.json](./8185-darkfall-unholy-wars.json) |
 | Darkfate | 242817 | [242817-darkfate.json](./242817-darkfate.json) |
 | DarkFighter | 163190 | [163190-darkfighter.json](./163190-darkfighter.json) |
+| Darkgate | 319837 | [319837-darkgate.json](./319837-darkgate.json) |
 | Darkheart: Flight of the Harpies | 112741 | [112741-darkheart-flight-of-the-harpies.json](./112741-darkheart-flight-of-the-harpies.json) |
 | Darkheart: Flight of the Harpies - Collector's Edition | 339840 | [339840-darkheart-flight-of-the-harpies-collectors-edition.json](./339840-darkheart-flight-of-the-harpies-collectors-edition.json) |
 | DarkHospital | 285009 | [285009-darkhospital.json](./285009-darkhospital.json) |
@@ -6942,6 +6943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dog Star Adventure | 25588 | [25588-dog-star-adventure.json](./25588-dog-star-adventure.json) |
 | Dog Trainer | 132797 | [132797-dog-trainer.json](./132797-dog-trainer.json) |
 | Dog Veterinary: Training Hospital Near Me | 328551 | [328551-dog-veterinary-training-hospital-near-me.json](./328551-dog-veterinary-training-hospital-near-me.json) |
+| Dog Walking Adventures | 319861 | [319861-dog-walking-adventures.json](./319861-dog-walking-adventures.json) |
 | Dog Walking, Dog Running, and Dog Still | 135783 | [135783-dog-walking-dog-running-and-dog-still.json](./135783-dog-walking-dog-running-and-dog-still.json) |
 | Dog Wash! | 225656 | [225656-dog-wash.json](./225656-dog-wash.json) |
 | Dog Years | 266800 | [266800-dog-years.json](./266800-dog-years.json) |
