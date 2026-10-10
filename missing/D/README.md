@@ -9757,6 +9757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DreamWorks Dragons | 221674 | [221674-dreamworks-dragons.json](./221674-dreamworks-dragons.json) |
 | DreamWorks Dragons: Dawn of New Riders | 111629 | [111629-dreamworks-dragons-dawn-of-new-riders.json](./111629-dreamworks-dragons-dawn-of-new-riders.json) |
 | DreamWorks Dragons: Legends of the Nine Realms | 202418 | [202418-dreamworks-dragons-legends-of-the-nine-realms.json](./202418-dreamworks-dragons-legends-of-the-nine-realms.json) |
+| Dreamworks Dragons: Wild Skies | 321022 | [321022-dreamworks-dragons-wild-skies.json](./321022-dreamworks-dragons-wild-skies.json) |
 | Dreamworks Interactive DVD Game | 364523 | [364523-dreamworks-interactive-dvd-game.json](./364523-dreamworks-interactive-dvd-game.json) |
 | DreamWorks Super Star Kartz | 47435 | [47435-dreamworks-super-star-kartz.json](./47435-dreamworks-super-star-kartz.json) |
 | Dreamworks Voltron VR Chronicles | 55172 | [55172-dreamworks-voltron-vr-chronicles.json](./55172-dreamworks-voltron-vr-chronicles.json) |
@@ -10146,6 +10147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dropzone | 369617 | [369617-dropzone.json](./369617-dropzone.json) |
 | Dropzone | 369618 | [369618-dropzone.json](./369618-dropzone.json) |
 | DropZone | 19546 | [19546-dropzone.json](./19546-dropzone.json) |
+| Drosera: Lady Bad End no Hatsukoi | 321015 | [321015-drosera-lady-bad-end-no-hatsukoi.json](./321015-drosera-lady-bad-end-no-hatsukoi.json) |
 | Drosoph Hotel | 75039 | [75039-drosoph-hotel.json](./75039-drosoph-hotel.json) |
 | Drought | 261442 | [261442-drought.json](./261442-drought.json) |
 | Drova: Forsaken Kin | 141490 | [141490-drova-forsaken-kin.json](./141490-drova-forsaken-kin.json) |
