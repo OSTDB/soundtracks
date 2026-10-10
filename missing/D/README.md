@@ -2887,6 +2887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Decay | 254575 | [254575-decay.json](./254575-decay.json) |
 | Decay | 272018 | [272018-decay.json](./272018-decay.json) |
 | Decay of Logos | 56510 | [56510-decay-of-logos.json](./56510-decay-of-logos.json) |
+| Decay of Opulence | 318128 | [318128-decay-of-opulence.json](./318128-decay-of-opulence.json) |
 | Decay Z : Space Survival | 107152 | [107152-decay-z-space-survival.json](./107152-decay-z-space-survival.json) |
 | Decay: The Mare - Episode 1 | 79950 | [79950-decay-the-mare-episode-1.json](./79950-decay-the-mare-episode-1.json) |
 | Decay: The Mare - Episode 2 | 79949 | [79949-decay-the-mare-episode-2.json](./79949-decay-the-mare-episode-2.json) |
@@ -2896,6 +2897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Decaying Memories | 344409 | [344409-decaying-memories.json](./344409-decaying-memories.json) |
 | Decaying Wires | 335657 | [335657-decaying-wires.json](./335657-decaying-wires.json) |
 | Deceased | 149711 | [149711-deceased.json](./149711-deceased.json) |
+| Deceased.cable | 318158 | [318158-deceased-cable.json](./318158-deceased-cable.json) |
 | Deceit 2 | 239561 | [239561-deceit-2.json](./239561-deceit-2.json) |
 | Deceitful Devotions | 227945 | [227945-deceitful-devotions.json](./227945-deceitful-devotions.json) |
 | Deceive Inc.: Neon Nights | 257432 | [257432-deceive-inc-neon-nights.json](./257432-deceive-inc-neon-nights.json) |
@@ -3213,6 +3215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DeepLight | 413729 | [413729-deeplight.json](./413729-deeplight.json) |
 | Deeply | 390113 | [390113-deeply.json](./390113-deeply.json) |
 | Deepmess | 285015 | [285015-deepmess.json](./285015-deepmess.json) |
+| Deepolis | 318139 | [318139-deepolis.json](./318139-deepolis.json) |
 | DeepOne | 242521 | [242521-deepone.json](./242521-deepone.json) |
 | Deeprealm Odyssey: Adventure game | 208917 | [208917-deeprealm-odyssey-adventure-game.json](./208917-deeprealm-odyssey-adventure-game.json) |
 | Deepsea Salvor | 128375 | [128375-deepsea-salvor.json](./128375-deepsea-salvor.json) |
@@ -4814,6 +4817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil's Dare | 8798 | [8798-devils-dare.json](./8798-devils-dare.json) |
 | Devil's Deck: Astray Destiny | 207370 | [207370-devils-deck-astray-destiny.json](./207370-devils-deck-astray-destiny.json) |
 | Devil's Dice | 412803 | [412803-devils-dice.json](./412803-devils-dice.json) |
+| Devil's Drizzle | 318133 | [318133-devils-drizzle.json](./318133-devils-drizzle.json) |
 | Devil's Dungeon | 190051 | [190051-devils-dungeon.json](./190051-devils-dungeon.json) |
 | Devil's Food | 301952 | [301952-devils-food.json](./301952-devils-food.json) |
 | Devil's Gold | 166056 | [166056-devils-gold.json](./166056-devils-gold.json) |
@@ -5581,6 +5585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diner Bros | 97040 | [97040-diner-bros.json](./97040-diner-bros.json) |
 | Diner Bros 2 | 346700 | [346700-diner-bros-2.json](./346700-diner-bros-2.json) |
 | Diner Bros: Sushi Bros | 169300 | [169300-diner-bros-sushi-bros.json](./169300-diner-bros-sushi-bros.json) |
+| Diner City | 318138 | [318138-diner-city.json](./318138-diner-city.json) |
 | Diner Dash | 85564 | [85564-diner-dash.json](./85564-diner-dash.json) |
 | Diner Dash 2: Restaurant Rescue | 78690 | [78690-diner-dash-2-restaurant-rescue.json](./78690-diner-dash-2-restaurant-rescue.json) |
 | Diner Dash Mobile | 104663 | [104663-diner-dash-mobile.json](./104663-diner-dash-mobile.json) |
@@ -10441,6 +10446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duck Season PC | 119449 | [119449-duck-season-pc.json](./119449-duck-season-pc.json) |
 | Duck Shoot | 330928 | [330928-duck-shoot.json](./330928-duck-shoot.json) |
 | Duck Shoot | 385597 | [385597-duck-shoot.json](./385597-duck-shoot.json) |
+| Duck Side of the Moon | 318167 | [318167-duck-side-of-the-moon.json](./318167-duck-side-of-the-moon.json) |
 | Duck Simulator 2 | 182367 | [182367-duck-simulator-2.json](./182367-duck-simulator-2.json) |
 | Duck Souls+ | 131965 | [131965-duck-souls.json](./131965-duck-souls.json) |
 | Duck Tales SNES | 377743 | [377743-duck-tales-snes.json](./377743-duck-tales-snes.json) |
@@ -10818,6 +10824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Explorer: Warriors of Ancient Arts | 42865 | [42865-dungeon-explorer-warriors-of-ancient-arts.json](./42865-dungeon-explorer-warriors-of-ancient-arts.json) |
 | Dungeon Explorer: Warriors of the Ancient Arts | 20274 | [20274-dungeon-explorer-warriors-of-the-ancient-arts.json](./20274-dungeon-explorer-warriors-of-the-ancient-arts.json) |
 | Dungeon Explorers | 385857 | [385857-dungeon-explorers.json](./385857-dungeon-explorers.json) |
+| Dungeon Faster | 318132 | [318132-dungeon-faster.json](./318132-dungeon-faster.json) |
 | Dungeon Fighter Live: Fall of Hendon Myre | 65266 | [65266-dungeon-fighter-live-fall-of-hendon-myre.json](./65266-dungeon-fighter-live-fall-of-hendon-myre.json) |
 | Dungeon Forge | 373181 | [373181-dungeon-forge.json](./373181-dungeon-forge.json) |
 | Dungeon Frontier | 130294 | [130294-dungeon-frontier.json](./130294-dungeon-frontier.json) |
