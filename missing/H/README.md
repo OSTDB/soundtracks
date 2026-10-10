@@ -3945,6 +3945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexcodle | 313472 | [313472-hexcodle.json](./313472-hexcodle.json) |
 | Hexcraft: Harlequin Fair | 153342 | [153342-hexcraft-harlequin-fair.json](./153342-hexcraft-harlequin-fair.json) |
 | Hexcrawl | 413606 | [413606-hexcrawl.json](./413606-hexcrawl.json) |
+| Hexdo | 312822 | [312822-hexdo.json](./312822-hexdo.json) |
 | Hexdoku | 164902 | [164902-hexdoku.json](./164902-hexdoku.json) |
 | Hexed | 86520 | [86520-hexed.json](./86520-hexed.json) |
 | Hexed Pet Adventures | 393596 | [393596-hexed-pet-adventures.json](./393596-hexed-pet-adventures.json) |
@@ -6585,6 +6586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House Flipper 2: Pets | 370700 | [370700-house-flipper-2-pets.json](./370700-house-flipper-2-pets.json) |
 | House Flipper 2: Scooby-Doo | 347894 | [347894-house-flipper-2-scooby-doo.json](./347894-house-flipper-2-scooby-doo.json) |
 | House Flipper 2: Special Edition | 282056 | [282056-house-flipper-2-special-edition.json](./282056-house-flipper-2-special-edition.json) |
+| House Flipper Hairdreser Bundle | 312839 | [312839-house-flipper-hairdreser-bundle.json](./312839-house-flipper-hairdreser-bundle.json) |
 | House Flipper Simulator | 174666 | [174666-house-flipper-simulator.json](./174666-house-flipper-simulator.json) |
 | House Flipper VR | 129209 | [129209-house-flipper-vr.json](./129209-house-flipper-vr.json) |
 | House Flipper: Apocalypse | 165990 | [165990-house-flipper-apocalypse.json](./165990-house-flipper-apocalypse.json) |
