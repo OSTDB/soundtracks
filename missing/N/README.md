@@ -392,6 +392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Narrow One | 364991 | [364991-narrow-one.json](./364991-narrow-one.json) |
 | Narrow Path | 203380 | [203380-narrow-path.json](./203380-narrow-path.json) |
 | Narrow.One | 148376 | [148376-narrow-one.json](./148376-narrow-one.json) |
+| Naru-Morph! | 291354 | [291354-naru-morph.json](./291354-naru-morph.json) |
 | Naruhodo! The World | 37910 | [37910-naruhodo-the-world.json](./37910-naruhodo-the-world.json) |
 | Naruto Arena Next Generation | 188074 | [188074-naruto-arena-next-generation.json](./188074-naruto-arena-next-generation.json) |
 | Naruto Mobile | 79255 | [79255-naruto-mobile.json](./79255-naruto-mobile.json) |
@@ -3079,6 +3080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nine-Ball Roulette | 325672 | [325672-nine-ball-roulette.json](./325672-nine-ball-roulette.json) |
 | Nine-Tailed Okitsune Tale | 248023 | [248023-nine-tailed-okitsune-tale.json](./248023-nine-tailed-okitsune-tale.json) |
 | Ninefold Promise | 377966 | [377966-ninefold-promise.json](./377966-ninefold-promise.json) |
+| NineHells | 291401 | [291401-ninehells.json](./291401-ninehells.json) |
 | NineLives | 273449 | [273449-ninelives.json](./273449-ninelives.json) |
 | Ninepin Bowling | 54251 | [54251-ninepin-bowling.json](./54251-ninepin-bowling.json) |
 | Nineteen | 128654 | [128654-nineteen.json](./128654-nineteen.json) |
@@ -4770,6 +4772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nuts & Bolts Puzzle | 265749 | [265749-nuts-and-bolts-puzzle.json](./265749-nuts-and-bolts-puzzle.json) |
 | Nuts Physics | 175272 | [175272-nuts-physics.json](./175272-nuts-physics.json) |
 | Nuts Protocol | 207192 | [207192-nuts-protocol.json](./207192-nuts-protocol.json) |
+| NutShot | 291356 | [291356-nutshot.json](./291356-nutshot.json) |
 | NutsMania | 401757 | [401757-nutsmania.json](./401757-nutsmania.json) |
 | Nutty | 299170 | [299170-nutty.json](./299170-nutty.json) |
 | Nutty Motorcars | 215626 | [215626-nutty-motorcars.json](./215626-nutty-motorcars.json) |
