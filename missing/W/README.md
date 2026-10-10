@@ -3670,6 +3670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winning Post | 4240 | [4240-winning-post.json](./4240-winning-post.json) |
 | Winning Post 10 | 240877 | [240877-winning-post-10.json](./240877-winning-post-10.json) |
 | Winning Post 10 2024 | 294217 | [294217-winning-post-10-2024.json](./294217-winning-post-10-2024.json) |
+| Winning Post 10 2025 | 322840 | [322840-winning-post-10-2025.json](./322840-winning-post-10-2025.json) |
 | Winning Post 2 | 37767 | [37767-winning-post-2.json](./37767-winning-post-2.json) |
 | Winning Post 2: Program '96 | 79807 | [79807-winning-post-2-program-96.json](./79807-winning-post-2-program-96.json) |
 | Winning Post 4 | 78744 | [78744-winning-post-4.json](./78744-winning-post-4.json) |
@@ -4898,6 +4899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Darts | 12873 | [12873-world-darts.json](./12873-world-darts.json) |
 | World Destroyers | 30702 | [30702-world-destroyers.json](./30702-world-destroyers.json) |
 | World Destruction League: Thunder Tanks | 49873 | [49873-world-destruction-league-thunder-tanks.json](./49873-world-destruction-league-thunder-tanks.json) |
+| World Drawn | 322822 | [322822-world-drawn.json](./322822-world-drawn.json) |
 | World Driver Championship | 3642 | [3642-world-driver-championship.json](./3642-world-driver-championship.json) |
 | World Eater | 367531 | [367531-world-eater.json](./367531-world-eater.json) |
 | World Election | 143515 | [143515-world-election.json](./143515-world-election.json) |
