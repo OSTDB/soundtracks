@@ -1028,6 +1028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ys X: Nordics - Advanced Pack | 324357 | [324357-ys-x-nordics-advanced-pack.json](./324357-ys-x-nordics-advanced-pack.json) |
 | Ys X: Nordics - Attachment Pack | 324355 | [324355-ys-x-nordics-attachment-pack.json](./324355-ys-x-nordics-attachment-pack.json) |
 | Ys X: Nordics - Costume Pack | 324356 | [324356-ys-x-nordics-costume-pack.json](./324356-ys-x-nordics-costume-pack.json) |
+| Ys X: Nordics - Deluxe Edition | 287579 | [287579-ys-x-nordics-deluxe-edition.json](./287579-ys-x-nordics-deluxe-edition.json) |
 | Ys X: Nordics - Digital Deluxe Edition | 324353 | [324353-ys-x-nordics-digital-deluxe-edition.json](./324353-ys-x-nordics-digital-deluxe-edition.json) |
 | Ys X: Nordics - Digital Ultimate Edition | 324352 | [324352-ys-x-nordics-digital-ultimate-edition.json](./324352-ys-x-nordics-digital-ultimate-edition.json) |
 | Ys X: Nordics - Legendary Cleria Armor | 324354 | [324354-ys-x-nordics-legendary-cleria-armor.json](./324354-ys-x-nordics-legendary-cleria-armor.json) |
