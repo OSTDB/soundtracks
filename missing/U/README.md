@@ -306,6 +306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Dungeons & Dragons | 73282 | [73282-ultimate-dungeons-and-dragons.json](./73282-ultimate-dungeons-and-dragons.json) |
 | Ultimate Dunk Shooter | 360735 | [360735-ultimate-dunk-shooter.json](./360735-ultimate-dunk-shooter.json) |
 | Ultimate Fight Manager 2016 | 33207 | [33207-ultimate-fight-manager-2016.json](./33207-ultimate-fight-manager-2016.json) |
+| Ultimate Firefight Series | 327785 | [327785-ultimate-firefight-series.json](./327785-ultimate-firefight-series.json) |
 | Ultimate Fishing Simulator | 77654 | [77654-ultimate-fishing-simulator.json](./77654-ultimate-fishing-simulator.json) |
 | Ultimate Fishing Simulator 2 | 132748 | [132748-ultimate-fishing-simulator-2.json](./132748-ultimate-fishing-simulator-2.json) |
 | Ultimate Fishing Simulator 2: Delaware Bay | 375299 | [375299-ultimate-fishing-simulator-2-delaware-bay.json](./375299-ultimate-fishing-simulator-2-delaware-bay.json) |
@@ -1077,6 +1078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Under Walls | 289926 | [289926-under-walls.json](./289926-under-walls.json) |
 | Under Waves | 211645 | [211645-under-waves.json](./211645-under-waves.json) |
 | Under What? | 120911 | [120911-under-what.json](./120911-under-what.json) |
+| Under Your Spell | 327779 | [327779-under-your-spell.json](./327779-under-your-spell.json) |
 | Under Zero | 33223 | [33223-under-zero.json](./33223-under-zero.json) |
 | Underboard | 245819 | [245819-underboard.json](./245819-underboard.json) |
 | Undercards | 57109 | [57109-undercards.json](./57109-undercards.json) |
