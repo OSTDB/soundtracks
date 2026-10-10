@@ -1338,6 +1338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Card Quest | 301976 | [301976-card-quest.json](./301976-card-quest.json) |
 | Card Quest | 32328 | [32328-card-quest.json](./32328-card-quest.json) |
 | Card Quest: Simple Card Game | 406084 | [406084-card-quest-simple-card-game.json](./406084-card-quest-simple-card-game.json) |
+| Card Racer | 291901 | [291901-card-racer.json](./291901-card-racer.json) |
 | Card Racing Simulator: Otterrific Arcade | 217917 | [217917-card-racing-simulator-otterrific-arcade.json](./217917-card-racing-simulator-otterrific-arcade.json) |
 | Card Scramble: Viola's Diner | 354966 | [354966-card-scramble-violas-diner.json](./354966-card-scramble-violas-diner.json) |
 | Card Sharks | 392954 | [392954-card-sharks.json](./392954-card-sharks.json) |
@@ -1654,6 +1655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carrie's Order Up! | 24812 | [24812-carries-order-up.json](./24812-carries-order-up.json) |
 | Carrier | 55181 | [55181-carrier.json](./55181-carrier.json) |
 | Carrier | 71183 | [71183-carrier.json](./71183-carrier.json) |
+| Carrier 2: The Next Mutation | 291916 | [291916-carrier-2-the-next-mutation.json](./291916-carrier-2-the-next-mutation.json) |
 | Carrier Aces | 42632 | [42632-carrier-aces.json](./42632-carrier-aces.json) |
 | Carrier Battles 4 Guadalcanal | 242201 | [242201-carrier-battles-4-guadalcanal.json](./242201-carrier-battles-4-guadalcanal.json) |
 | Carrier Battles 4 Guadalcanal: Advanced Fog of War in the Pacific | 170520 | [170520-carrier-battles-4-guadalcanal-advanced-fog-of-war-in-the-pacific.json](./170520-carrier-battles-4-guadalcanal-advanced-fog-of-war-in-the-pacific.json) |
@@ -2810,6 +2812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cave Guessers | 154079 | [154079-cave-guessers.json](./154079-cave-guessers.json) |
 | Cave Halls | 313962 | [313962-cave-halls.json](./313962-cave-halls.json) |
 | Cave Heroes | 227254 | [227254-cave-heroes.json](./227254-cave-heroes.json) |
+| Cave Hikers | 291869 | [291869-cave-hikers.json](./291869-cave-hikers.json) |
 | Cave Hopper | 139468 | [139468-cave-hopper.json](./139468-cave-hopper.json) |
 | Cave Looters | 410829 | [410829-cave-looters.json](./410829-cave-looters.json) |
 | Cave Oasis at Shylake | 380423 | [380423-cave-oasis-at-shylake.json](./380423-cave-oasis-at-shylake.json) |
@@ -3597,6 +3600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Charlie & Lola: My Little Town | 90085 | [90085-charlie-and-lola-my-little-town.json](./90085-charlie-and-lola-my-little-town.json) |
 | Charlie and the Chocolate Factory | 243187 | [243187-charlie-and-the-chocolate-factory.json](./243187-charlie-and-the-chocolate-factory.json) |
 | Charlie and The Chocolate Factory DVD Games | 343343 | [343343-charlie-and-the-chocolate-factory-dvd-games.json](./343343-charlie-and-the-chocolate-factory-dvd-games.json) |
+| Charlie Brown’s All-Stars | 291918 | [291918-charlie-brown-s-all-stars.json](./291918-charlie-brown-s-all-stars.json) |
 | Charlie Foxtrot & The Galaxy of Tomorrow | 166692 | [166692-charlie-foxtrot-and-the-galaxy-of-tomorrow.json](./166692-charlie-foxtrot-and-the-galaxy-of-tomorrow.json) |
 | Charlie from the swamp | 152781 | [152781-charlie-from-the-swamp.json](./152781-charlie-from-the-swamp.json) |
 | Charlie II | 72264 | [72264-charlie-ii.json](./72264-charlie-ii.json) |
@@ -3621,6 +3625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Charm & Clue 2 | 417505 | [417505-charm-and-clue-2.json](./417505-charm-and-clue-2.json) |
 | Charm & Clue 2: Collector's Edition | 416782 | [416782-charm-and-clue-2-collectors-edition.json](./416782-charm-and-clue-2-collectors-edition.json) |
 | Charm & Clue: Collector's Edition | 417506 | [417506-charm-and-clue-collectors-edition.json](./417506-charm-and-clue-collectors-edition.json) |
+| Charm Commerce | 291884 | [291884-charm-commerce.json](./291884-charm-commerce.json) |
 | Charm Fish - Fish Mania | 88557 | [88557-charm-fish-fish-mania.json](./88557-charm-fish-fish-mania.json) |
 | Charm Girls Club Pajama Party | 51041 | [51041-charm-girls-club-pajama-party.json](./51041-charm-girls-club-pajama-party.json) |
 | Charm Girls Club: My Charmed Life | 91626 | [91626-charm-girls-club-my-charmed-life.json](./91626-charm-girls-club-my-charmed-life.json) |
@@ -3884,6 +3889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cherish Pizza ha Ikaga Desu ka | 321467 | [321467-cherish-pizza-ha-ikaga-desu-ka.json](./321467-cherish-pizza-ha-ikaga-desu-ka.json) |
 | Chern | 203196 | [203196-chern.json](./203196-chern.json) |
 | Chernaja Metka | 37048 | [37048-chernaja-metka.json](./37048-chernaja-metka.json) |
+| Cherno | 291902 | [291902-cherno.json](./291902-cherno.json) |
 | Chernobots | 373748 | [373748-chernobots.json](./373748-chernobots.json) |
 | Chernobyl | 228687 | [228687-chernobyl.json](./228687-chernobyl.json) |
 | Chernobyl | 59891 | [59891-chernobyl.json](./59891-chernobyl.json) |
@@ -4934,6 +4940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chromatic Cruiser | 388332 | [388332-chromatic-cruiser.json](./388332-chromatic-cruiser.json) |
 | Chromatic Fantasia EX | 98442 | [98442-chromatic-fantasia-ex.json](./98442-chromatic-fantasia-ex.json) |
 | Chromatic Labyrinth | 167603 | [167603-chromatic-labyrinth.json](./167603-chromatic-labyrinth.json) |
+| Chromatic Memories | 291894 | [291894-chromatic-memories.json](./291894-chromatic-memories.json) |
 | Chromatic Souls | 200734 | [200734-chromatic-souls.json](./200734-chromatic-souls.json) |
 | Chromatic: Color Puzzles | 134425 | [134425-chromatic-color-puzzles.json](./134425-chromatic-color-puzzles.json) |
 | Chromatrix | 295769 | [295769-chromatrix.json](./295769-chromatrix.json) |
@@ -11271,6 +11278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystal Defenders R1 | 21126 | [21126-crystal-defenders-r1.json](./21126-crystal-defenders-r1.json) |
 | Crystal Defenders R2 | 21133 | [21133-crystal-defenders-r2.json](./21133-crystal-defenders-r2.json) |
 | Crystal Edge: Retribution | 394898 | [394898-crystal-edge-retribution.json](./394898-crystal-edge-retribution.json) |
+| Crystal Eyes | 291887 | [291887-crystal-eyes.json](./291887-crystal-eyes.json) |
 | Crystal Fantasy | 68033 | [68033-crystal-fantasy.json](./68033-crystal-fantasy.json) |
 | Crystal Flux | 34850 | [34850-crystal-flux.json](./34850-crystal-flux.json) |
 | Crystal Fortress | 332431 | [332431-crystal-fortress.json](./332431-crystal-fortress.json) |
