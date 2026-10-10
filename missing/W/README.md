@@ -2988,6 +2988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Who Wants to Be a Millionaire: US Movies 90s | 282215 | [282215-who-wants-to-be-a-millionaire-us-movies-90s.json](./282215-who-wants-to-be-a-millionaire-us-movies-90s.json) |
 | Who Wants to Be A Millionaire: US Presidents DLC Pack | 302579 | [302579-who-wants-to-be-a-millionaire-us-presidents-dlc-pack.json](./302579-who-wants-to-be-a-millionaire-us-presidents-dlc-pack.json) |
 | Who Wants To Be A Millionaire? 2013 | 314041 | [314041-who-wants-to-be-a-millionaire-2013.json](./314041-who-wants-to-be-a-millionaire-2013.json) |
+| Who Wants To Be A Millionaire?: Complete Edition | 324358 | [324358-who-wants-to-be-a-millionaire-complete-edition.json](./324358-who-wants-to-be-a-millionaire-complete-edition.json) |
 | Who Wants To Be A Millionaire?: Geography II | 282213 | [282213-who-wants-to-be-a-millionaire-geography-ii.json](./282213-who-wants-to-be-a-millionaire-geography-ii.json) |
 | Who Wants to Be a Murderer? | 292116 | [292116-who-wants-to-be-a-murderer.json](./292116-who-wants-to-be-a-murderer.json) |
 | Who Wants To Be King?! | 406257 | [406257-who-wants-to-be-king.json](./406257-who-wants-to-be-king.json) |
@@ -5310,6 +5311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WorldNeverland: Elnea Kingdom - Modern Yukata Set: Violet | 313791 | [313791-worldneverland-elnea-kingdom-modern-yukata-set-violet.json](./313791-worldneverland-elnea-kingdom-modern-yukata-set-violet.json) |
 | WorldNeverland: Elnea Kingdom - Sugar Donut Fair | 288288 | [288288-worldneverland-elnea-kingdom-sugar-donut-fair.json](./288288-worldneverland-elnea-kingdom-sugar-donut-fair.json) |
 | WorldNeverland: Elnea Kingdom - The Makeover Collection | 259530 | [259530-worldneverland-elnea-kingdom-the-makeover-collection.json](./259530-worldneverland-elnea-kingdom-the-makeover-collection.json) |
+| WorldNeverland: Elnea Kingdom - Wa Mage Wear Set: Navy | 324359 | [324359-worldneverland-elnea-kingdom-wa-mage-wear-set-navy.json](./324359-worldneverland-elnea-kingdom-wa-mage-wear-set-navy.json) |
 | WorldNeverland: Flower Trimmed Wear Set - Sakura | 294856 | [294856-worldneverland-flower-trimmed-wear-set-sakura.json](./294856-worldneverland-flower-trimmed-wear-set-sakura.json) |
 | WorldNeverland: White Modern Wedding Outfit Set | 298593 | [298593-worldneverland-white-modern-wedding-outfit-set.json](./298593-worldneverland-white-modern-wedding-outfit-set.json) |
 | WorldQuest | 101609 | [101609-worldquest.json](./101609-worldquest.json) |
@@ -5783,6 +5785,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WWF No Mercy | 3644 | [3644-wwf-no-mercy.json](./3644-wwf-no-mercy.json) |
 | WWF Rage in the Cage | 5465 | [5465-wwf-rage-in-the-cage.json](./5465-wwf-rage-in-the-cage.json) |
 | WWF Raw | 19771 | [19771-wwf-raw.json](./19771-wwf-raw.json) |
+| WWF Raw | 324537 | [324537-wwf-raw.json](./324537-wwf-raw.json) |
+| WWF Raw | 324544 | [324544-wwf-raw.json](./324544-wwf-raw.json) |
 | WWF Raw: Wrestling's Rudest and Roughest! | 46249 | [46249-wwf-raw-wrestlings-rudest-and-roughest.json](./46249-wwf-raw-wrestlings-rudest-and-roughest.json) |
 | WWF SmackDown! Just Bring It | 6445 | [6445-wwf-smackdown-just-bring-it.json](./6445-wwf-smackdown-just-bring-it.json) |
 | WWF Superstars | 100296 | [100296-wwf-superstars.json](./100296-wwf-superstars.json) |
