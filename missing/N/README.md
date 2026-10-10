@@ -1527,6 +1527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Goddess | 278967 | [278967-neon-goddess.json](./278967-neon-goddess.json) |
 | Neon Hardcore | 51586 | [51586-neon-hardcore.json](./51586-neon-hardcore.json) |
 | Neon Hardcorps | 33429 | [33429-neon-hardcorps.json](./33429-neon-hardcorps.json) |
+| Neon Hearts City | 331383 | [331383-neon-hearts-city.json](./331383-neon-hearts-city.json) |
 | Neon Heights | 278144 | [278144-neon-heights.json](./278144-neon-heights.json) |
 | Neon Idle | 367299 | [367299-neon-idle.json](./367299-neon-idle.json) |
 | Neon Impact | 233464 | [233464-neon-impact.json](./233464-neon-impact.json) |
@@ -2949,6 +2950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nik and Kit Racing | 213351 | [213351-nik-and-kit-racing.json](./213351-nik-and-kit-racing.json) |
 | Nik and Kit: Kit's Adventure | 214013 | [214013-nik-and-kit-kits-adventure.json](./214013-nik-and-kit-kits-adventure.json) |
 | Nik and Kit: Nik's Adventure | 212793 | [212793-nik-and-kit-niks-adventure.json](./212793-nik-and-kit-niks-adventure.json) |
+| Nik Jam the Sage | 331384 | [331384-nik-jam-the-sage.json](./331384-nik-jam-the-sage.json) |
 | Nik Jam Violator | 330715 | [330715-nik-jam-violator.json](./330715-nik-jam-violator.json) |
 | Nik Super Gunventure | 282690 | [282690-nik-super-gunventure.json](./282690-nik-super-gunventure.json) |
 | Nika | 185456 | [185456-nika.json](./185456-nika.json) |
@@ -4618,6 +4620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Numbers Go Up | 401069 | [401069-numbers-go-up.json](./401069-numbers-go-up.json) |
 | Numbershark 5 | 286602 | [286602-numbershark-5.json](./286602-numbershark-5.json) |
 | Numbertron | 202714 | [202714-numbertron.json](./202714-numbertron.json) |
+| Numberzilla | 331380 | [331380-numberzilla.json](./331380-numberzilla.json) |
 | Numbra | 346727 | [346727-numbra.json](./346727-numbra.json) |
 | Numbskull | 308343 | [308343-numbskull.json](./308343-numbskull.json) |
 | Numenclature | 357249 | [357249-numenclature.json](./357249-numenclature.json) |
