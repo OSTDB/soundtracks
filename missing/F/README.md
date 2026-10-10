@@ -5990,6 +5990,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forgotten Sound 2: Destiny | 83545 | [83545-forgotten-sound-2-destiny.json](./83545-forgotten-sound-2-destiny.json) |
 | Forgotten Spirit | 327923 | [327923-forgotten-spirit.json](./327923-forgotten-spirit.json) |
 | Forgotten Symphony | 266420 | [266420-forgotten-symphony.json](./266420-forgotten-symphony.json) |
+| Forgotten Tales | 318150 | [318150-forgotten-tales.json](./318150-forgotten-tales.json) |
+| Forgotten Tales RPG | 318149 | [318149-forgotten-tales-rpg.json](./318149-forgotten-tales-rpg.json) |
 | Forgotten Tales: Day of the Dead | 33244 | [33244-forgotten-tales-day-of-the-dead.json](./33244-forgotten-tales-day-of-the-dead.json) |
 | Forgotten Trace: Thanatos in Nostalgia | 156967 | [156967-forgotten-trace-thanatos-in-nostalgia.json](./156967-forgotten-trace-thanatos-in-nostalgia.json) |
 | Forgotten Trails | 406697 | [406697-forgotten-trails.json](./406697-forgotten-trails.json) |
