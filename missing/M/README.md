@@ -438,6 +438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mado no Naka no Saki ni Aru Mono | 152115 | [152115-mado-no-naka-no-saki-ni-aru-mono.json](./152115-mado-no-naka-no-saki-ni-aru-mono.json) |
 | Madojeongi: Secret of Elysium | 252163 | [252163-madojeongi-secret-of-elysium.json](./252163-madojeongi-secret-of-elysium.json) |
 | Madonna Simulator | 176379 | [176379-madonna-simulator.json](./176379-madonna-simulator.json) |
+| Madoromi Travel | 289225 | [289225-madoromi-travel.json](./289225-madoromi-travel.json) |
 | Madotsuki's Closet | 145675 | [145675-madotsukis-closet.json](./145675-madotsukis-closet.json) |
 | Madou Gakuin R | 46613 | [46613-madou-gakuin-r.json](./46613-madou-gakuin-r.json) |
 | Madou Monogatari | 252164 | [252164-madou-monogatari.json](./252164-madou-monogatari.json) |
@@ -534,6 +535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mag | 178431 | [178431-mag.json](./178431-mag.json) |
 | MAG | 229766 | [229766-mag.json](./229766-mag.json) |
 | MAG | 7365 | [7365-mag.json](./7365-mag.json) |
+| Maga Patalójika | 289222 | [289222-maga-patalojika.json](./289222-maga-patalojika.json) |
 | Magalumina | 392932 | [392932-magalumina.json](./392932-magalumina.json) |
 | Magatsu Barai | 172730 | [172730-magatsu-barai.json](./172730-magatsu-barai.json) |
 | Magatsu Wahrheit | 194004 | [194004-magatsu-wahrheit.json](./194004-magatsu-wahrheit.json) |
@@ -1357,6 +1359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mail To The Moon | 362336 | [362336-mail-to-the-moon.json](./362336-mail-to-the-moon.json) |
 | Mailbag Mayhem | 62191 | [62191-mailbag-mayhem.json](./62191-mailbag-mayhem.json) |
 | Mailfrog | 178040 | [178040-mailfrog.json](./178040-mailfrog.json) |
+| MailRabit | 289260 | [289260-mailrabit.json](./289260-mailrabit.json) |
 | Maimai DX | 130331 | [130331-maimai-dx.json](./130331-maimai-dx.json) |
 | Maimai DX Buddies Plus | 309594 | [309594-maimai-dx-buddies-plus.json](./309594-maimai-dx-buddies-plus.json) |
 | Maimai DX Festival Plus | 243688 | [243688-maimai-dx-festival-plus.json](./243688-maimai-dx-festival-plus.json) |
@@ -5593,6 +5596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meow Defence | 214159 | [214159-meow-defence.json](./214159-meow-defence.json) |
 | Meow Express | 186685 | [186685-meow-express.json](./186685-meow-express.json) |
 | Meow Master: Battle for Catnip | 251726 | [251726-meow-master-battle-for-catnip.json](./251726-meow-master-battle-for-catnip.json) |
+| Meow Meow Wizard Arena | 289256 | [289256-meow-meow-wizard-arena.json](./289256-meow-meow-wizard-arena.json) |
 | Meow Meoww | 265415 | [265415-meow-meoww.json](./265415-meow-meoww.json) |
 | Meow Mission | 322246 | [322246-meow-mission.json](./322246-meow-mission.json) |
 | Meow Moments: Celebrating Frost & Flora | 410375 | [410375-meow-moments-celebrating-frost-and-flora.json](./410375-meow-moments-celebrating-frost-and-flora.json) |
