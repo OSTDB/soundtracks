@@ -3896,6 +3896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Even in Arcadia, There I Am | 136421 | [136421-even-in-arcadia-there-i-am.json](./136421-even-in-arcadia-there-i-am.json) |
 | Even Lovers Drown | 408772 | [408772-even-lovers-drown.json](./408772-even-lovers-drown.json) |
 | Even Native Japanese Struggle Japanese Kanji Fill-in Quiz | 403742 | [403742-even-native-japanese-struggle-japanese-kanji-fill-in-quiz.json](./403742-even-native-japanese-struggle-japanese-kanji-fill-in-quiz.json) |
+| Even Some More Tales from Castle Balderstone | 329528 | [329528-even-some-more-tales-from-castle-balderstone.json](./329528-even-some-more-tales-from-castle-balderstone.json) |
 | Even the Stars | 136865 | [136865-even-the-stars.json](./136865-even-the-stars.json) |
 | Even20: The Interference of Parallels | 373096 | [373096-even20-the-interference-of-parallels.json](./373096-even20-the-interference-of-parallels.json) |
 | Evenfall | 362328 | [362328-evenfall.json](./362328-evenfall.json) |
