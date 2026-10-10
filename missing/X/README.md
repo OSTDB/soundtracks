@@ -655,6 +655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xuece Border | 112990 | [112990-xuece-border.json](./112990-xuece-border.json) |
 | Xuhivan's Autonomous Cube | 216479 | [216479-xuhivans-autonomous-cube.json](./216479-xuhivans-autonomous-cube.json) |
 | Xulaph Kaizo World | 267926 | [267926-xulaph-kaizo-world.json](./267926-xulaph-kaizo-world.json) |
+| Xump 2: Back to Space | 311040 | [311040-xump-2-back-to-space.json](./311040-xump-2-back-to-space.json) |
 | Xump: The Final Run | 153828 | [153828-xump-the-final-run.json](./153828-xump-the-final-run.json) |
 | Xuxa | 281455 | [281455-xuxa.json](./281455-xuxa.json) |
 | XV | 212778 | [212778-xv.json](./212778-xv.json) |
