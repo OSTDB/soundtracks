@@ -630,6 +630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultragun Dreamland | 138728 | [138728-ultragun-dreamland.json](./138728-ultragun-dreamland.json) |
 | Ultrakanoid | 310179 | [310179-ultrakanoid.json](./310179-ultrakanoid.json) |
 | Ultrakill | 124333 | [124333-ultrakill.json](./124333-ultrakill.json) |
+| ULTRAKILL: Masquerade Divinity | 299549 | [299549-ultrakill-masquerade-divinity.json](./299549-ultrakill-masquerade-divinity.json) |
 | Ultraman | 131387 | [131387-ultraman.json](./131387-ultraman.json) |
 | Ultraman | 373643 | [373643-ultraman.json](./373643-ultraman.json) |
 | Ultraman | 42579 | [42579-ultraman.json](./42579-ultraman.json) |
