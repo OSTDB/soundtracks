@@ -1728,6 +1728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KimodameshiGolf | 266976 | [266976-kimodameshigolf.json](./266976-kimodameshigolf.json) |
 | Kimokawaiii | 304184 | [304184-kimokawaiii.json](./304184-kimokawaiii.json) |
 | Kimono Cats | 249774 | [249774-kimono-cats.json](./249774-kimono-cats.json) |
+| Kimono Girls | 286449 | [286449-kimono-girls.json](./286449-kimono-girls.json) |
 | Kin | 84169 | [84169-kin.json](./84169-kin.json) |
 | Kin and Conquest | 400228 | [400228-kin-and-conquest.json](./400228-kin-and-conquest.json) |
 | Kin:D | 202143 | [202143-kin-d.json](./202143-kin-d.json) |
