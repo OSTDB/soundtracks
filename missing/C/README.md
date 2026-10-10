@@ -2352,6 +2352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Train | 177493 | [177493-cat-train.json](./177493-cat-train.json) |
 | Cat Trax | 40689 | [40689-cat-trax.json](./40689-cat-trax.json) |
 | Cat Tree | 326792 | [326792-cat-tree.json](./326792-cat-tree.json) |
+| Cat Trip | 322032 | [322032-cat-trip.json](./322032-cat-trip.json) |
 | Cat Tsunami | 388233 | [388233-cat-tsunami.json](./388233-cat-tsunami.json) |
 | Cat Veterinary: Emergency Hospital Close to Me | 328541 | [328541-cat-veterinary-emergency-hospital-close-to-me.json](./328541-cat-veterinary-emergency-hospital-close-to-me.json) |
 | Cat vs. Corgis | 54448 | [54448-cat-vs-corgis.json](./54448-cat-vs-corgis.json) |
@@ -5534,6 +5535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Z | 34682 | [34682-city-z.json](./34682-city-z.json) |
 | City-Racing | 358887 | [358887-city-racing.json](./358887-city-racing.json) |
 | City: Battle Ground | 345012 | [345012-city-battle-ground.json](./345012-city-battle-ground.json) |
+| City::Ephemera | 322040 | [322040-city-ephemera.json](./322040-city-ephemera.json) |
 | City’s Hero Collection | 328537 | [328537-city-s-hero-collection.json](./328537-city-s-hero-collection.json) |
 | CityBattle: Virtual Earth | 78358 | [78358-citybattle-virtual-earth.json](./78358-citybattle-virtual-earth.json) |
 | CityBeat: The Sorority Shuffle | 171990 | [171990-citybeat-the-sorority-shuffle.json](./171990-citybeat-the-sorority-shuffle.json) |
