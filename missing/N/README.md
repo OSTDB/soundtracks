@@ -3223,6 +3223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Junk Punch | 65760 | [65760-ninja-junk-punch.json](./65760-ninja-junk-punch.json) |
 | Ninja Kamui: Shinobi Origins | 298587 | [298587-ninja-kamui-shinobi-origins.json](./298587-ninja-kamui-shinobi-origins.json) |
 | Ninja Kato 1 | 273452 | [273452-ninja-kato-1.json](./273452-ninja-kato-1.json) |
+| Ninja Kato 2 | 278938 | [278938-ninja-kato-2.json](./278938-ninja-kato-2.json) |
 | Ninja Kato 3 | 297800 | [297800-ninja-kato-3.json](./297800-ninja-kato-3.json) |
 | Ninja Kid | 68360 | [68360-ninja-kid.json](./68360-ninja-kid.json) |
 | Ninja Kiwi Archive | 137601 | [137601-ninja-kiwi-archive.json](./137601-ninja-kiwi-archive.json) |
@@ -4009,6 +4010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nom Nom: Cozy Forest Café | 258535 | [258535-nom-nom-cozy-forest-cafe.json](./258535-nom-nom-cozy-forest-cafe.json) |
 | Nom Plant | 328943 | [328943-nom-plant.json](./328943-nom-plant.json) |
 | Nomad | 403796 | [403796-nomad.json](./403796-nomad.json) |
+| Nomad Defender | 278951 | [278951-nomad-defender.json](./278951-nomad-defender.json) |
 | Nomad Drive | 340570 | [340570-nomad-drive.json](./340570-nomad-drive.json) |
 | Nomad Fleet | 18955 | [18955-nomad-fleet.json](./18955-nomad-fleet.json) |
 | Nomad Idle | 323533 | [323533-nomad-idle.json](./323533-nomad-idle.json) |
