@@ -3350,6 +3350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape the Game | 25848 | [25848-escape-the-game.json](./25848-escape-the-game.json) |
 | Escape the Game: Episode 1 | 170807 | [170807-escape-the-game-episode-1.json](./170807-escape-the-game-episode-1.json) |
 | Escape The Garage | 322275 | [322275-escape-the-garage.json](./322275-escape-the-garage.json) |
+| Escape the Glitch | 287032 | [287032-escape-the-glitch.json](./287032-escape-the-glitch.json) |
 | Escape the Grid VR | 102350 | [102350-escape-the-grid-vr.json](./102350-escape-the-grid-vr.json) |
 | Escape the House | 413116 | [413116-escape-the-house.json](./413116-escape-the-house.json) |
 | Escape the Humans | 362409 | [362409-escape-the-humans.json](./362409-escape-the-humans.json) |
@@ -3800,6 +3801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Euotopia | 261901 | [261901-euotopia.json](./261901-euotopia.json) |
 | Euphionia: The Tree Spirit's Curse | 330965 | [330965-euphionia-the-tree-spirits-curse.json](./330965-euphionia-the-tree-spirits-curse.json) |
 | Euphoria Games Bundle | 302513 | [302513-euphoria-games-bundle.json](./302513-euphoria-games-bundle.json) |
+| Euphoria: Supreme Mechanics | 287033 | [287033-euphoria-supreme-mechanics.json](./287033-euphoria-supreme-mechanics.json) |
 | Euphoria: Supreme Mechanics VR | 377048 | [377048-euphoria-supreme-mechanics-vr.json](./377048-euphoria-supreme-mechanics-vr.json) |
 | Euphory | 62584 | [62584-euphory.json](./62584-euphory.json) |
 | Euplectella | 339100 | [339100-euplectella.json](./339100-euplectella.json) |
