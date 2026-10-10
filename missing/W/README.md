@@ -2579,6 +2579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where Dragon Spirits | 295485 | [295485-where-dragon-spirits.json](./295485-where-dragon-spirits.json) |
 | Where Ferrets | 282228 | [282228-where-ferrets.json](./282228-where-ferrets.json) |
 | Where Giants Fall | 403137 | [403137-where-giants-fall.json](./403137-where-giants-fall.json) |
+| Where Have All the Globbletops Gone? | 298425 | [298425-where-have-all-the-globbletops-gone.json](./298425-where-have-all-the-globbletops-gone.json) |
 | Where I Lived | 224463 | [224463-where-i-lived.json](./224463-where-i-lived.json) |
 | Where in America's Past Is Carmen Sandiego? | 50495 | [50495-where-in-americas-past-is-carmen-sandiego.json](./50495-where-in-americas-past-is-carmen-sandiego.json) |
 | Where in Europe is Carmen Sandiego? | 12824 | [12824-where-in-europe-is-carmen-sandiego.json](./12824-where-in-europe-is-carmen-sandiego.json) |
@@ -2977,6 +2978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Who Is Oscar Lake? | 72622 | [72622-who-is-oscar-lake.json](./72622-who-is-oscar-lake.json) |
 | Who is the Defendant: Deliberately Rough | 312554 | [312554-who-is-the-defendant-deliberately-rough.json](./312554-who-is-the-defendant-deliberately-rough.json) |
 | Who is the Hero of This Game | 195784 | [195784-who-is-the-hero-of-this-game.json](./195784-who-is-the-hero-of-this-game.json) |
+| Who is the Joker? | 298424 | [298424-who-is-the-joker.json](./298424-who-is-the-joker.json) |
 | Who is the Killer: Episode III | 104444 | [104444-who-is-the-killer-episode-iii.json](./104444-who-is-the-killer-episode-iii.json) |
 | Who Is The Killer: Episode IV | 304356 | [304356-who-is-the-killer-episode-iv.json](./304356-who-is-the-killer-episode-iv.json) |
 | Who is the New Maid? | 246076 | [246076-who-is-the-new-maid.json](./246076-who-is-the-new-maid.json) |
