@@ -1254,6 +1254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Underworld Unfinished Business 4: Taking Care of Business | 252294 | [252294-underworld-unfinished-business-4-taking-care-of-business.json](./252294-underworld-unfinished-business-4-taking-care-of-business.json) |
 | Underworld: Allied Expedition | 358515 | [358515-underworld-allied-expedition.json](./358515-underworld-allied-expedition.json) |
 | Underwurlde | 14588 | [14588-underwurlde.json](./14588-underwurlde.json) |
+| Undesired Catch | 316947 | [316947-undesired-catch.json](./316947-undesired-catch.json) |
 | Undetected | 193334 | [193334-undetected.json](./193334-undetected.json) |
 | Undiscovered | 416167 | [416167-undiscovered.json](./416167-undiscovered.json) |
 | Undiscovered House | 149698 | [149698-undiscovered-house.json](./149698-undiscovered-house.json) |
