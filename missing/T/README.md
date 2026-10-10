@@ -5491,6 +5491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Enchanted Cave | 197696 | [197696-the-enchanted-cave.json](./197696-the-enchanted-cave.json) |
 | The Enchanted Cave 2 | 13674 | [13674-the-enchanted-cave-2.json](./13674-the-enchanted-cave-2.json) |
 | The Enchanted Kingdom: Elisa's Adventure | 54440 | [54440-the-enchanted-kingdom-elisas-adventure.json](./54440-the-enchanted-kingdom-elisas-adventure.json) |
+| The Enchanted Turnabout | 306619 | [306619-the-enchanted-turnabout.json](./306619-the-enchanted-turnabout.json) |
 | The Enchanted Worlds | 290020 | [290020-the-enchanted-worlds.json](./290020-the-enchanted-worlds.json) |
 | The Enchanting Islands | 54441 | [54441-the-enchanting-islands.json](./54441-the-enchanting-islands.json) |
 | The End | 329067 | [329067-the-end.json](./329067-the-end.json) |
@@ -9888,6 +9889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Secret Society | 88642 | [88642-the-secret-society.json](./88642-the-secret-society.json) |
 | The Secret Society - Hidden Objects Mystery | 124747 | [124747-the-secret-society-hidden-objects-mystery.json](./124747-the-secret-society-hidden-objects-mystery.json) |
 | The Secret Story 1996 | 396191 | [396191-the-secret-story-1996.json](./396191-the-secret-story-1996.json) |
+| The Secret Turnabout | 306620 | [306620-the-secret-turnabout.json](./306620-the-secret-turnabout.json) |
 | The Secret Workshop of Wishes | 385073 | [385073-the-secret-workshop-of-wishes.json](./385073-the-secret-workshop-of-wishes.json) |
 | The Secret World | 1064 | [1064-the-secret-world.json](./1064-the-secret-world.json) |
 | The Secret World: Ultimate Edition | 35524 | [35524-the-secret-world-ultimate-edition.json](./35524-the-secret-world-ultimate-edition.json) |
@@ -19610,6 +19612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tsuri Spirits: Tsutte Asoberu Suizokukan | 206813 | [206813-tsuri-spirits-tsutte-asoberu-suizokukan.json](./206813-tsuri-spirits-tsutte-asoberu-suizokukan.json) |
 | Tsuri Tarou | 37779 | [37779-tsuri-tarou.json](./37779-tsuri-tarou.json) |
 | Tsurikko Penta | 228358 | [228358-tsurikko-penta.json](./228358-tsurikko-penta.json) |
+| Tsurikkuma | 306727 | [306727-tsurikkuma.json](./306727-tsurikkuma.json) |
 | Tsurimasu | 355224 | [355224-tsurimasu.json](./355224-tsurimasu.json) |
 | Tsuru Teruhito No Jissen | 37646 | [37646-tsuru-teruhito-no-jissen.json](./37646-tsuru-teruhito-no-jissen.json) |
 | Tsuru Teruhito no Jissen Kabushiki Bi-Game | 59431 | [59431-tsuru-teruhito-no-jissen-kabushiki-bi-game.json](./59431-tsuru-teruhito-no-jissen-kabushiki-bi-game.json) |
@@ -19634,6 +19637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TT Isle of Man: Ride on the Edge 3 | 228729 | [228729-tt-isle-of-man-ride-on-the-edge-3.json](./228729-tt-isle-of-man-ride-on-the-edge-3.json) |
 | TTA 1 | 253565 | [253565-tta-1.json](./253565-tta-1.json) |
 | TTT Classic | 374211 | [374211-ttt-classic.json](./374211-ttt-classic.json) |
+| TTT: The Torrential Turnabout | 306621 | [306621-ttt-the-torrential-turnabout.json](./306621-ttt-the-torrential-turnabout.json) |
 | TTV2 | 55301 | [55301-ttv2.json](./55301-ttv2.json) |
 | Tu cara me suena: El videojuego | 332817 | [332817-tu-cara-me-suena-el-videojuego.json](./332817-tu-cara-me-suena-el-videojuego.json) |
 | TU-46 | 120876 | [120876-tu-46.json](./120876-tu-46.json) |
@@ -19887,13 +19891,18 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turnabout Detectives | 309978 | [309978-turnabout-detectives.json](./309978-turnabout-detectives.json) |
 | Turnabout Detectives Redux | 309980 | [309980-turnabout-detectives-redux.json](./309980-turnabout-detectives-redux.json) |
 | Turnabout Divergence | 318785 | [318785-turnabout-divergence.json](./318785-turnabout-divergence.json) |
+| Turnabout for Human Rights | 306628 | [306628-turnabout-for-human-rights.json](./306628-turnabout-for-human-rights.json) |
 | Turnabout Heartache | 308428 | [308428-turnabout-heartache.json](./308428-turnabout-heartache.json) |
 | Turnabout Imperfect | 309997 | [309997-turnabout-imperfect.json](./309997-turnabout-imperfect.json) |
 | Turnabout in Payne and Suffering | 330912 | [330912-turnabout-in-payne-and-suffering.json](./330912-turnabout-in-payne-and-suffering.json) |
 | Turnabout in the Spotlight | 309985 | [309985-turnabout-in-the-spotlight.json](./309985-turnabout-in-the-spotlight.json) |
 | Turnabout Mugging | 309983 | [309983-turnabout-mugging.json](./309983-turnabout-mugging.json) |
+| Turnabout of Courage | 306630 | [306630-turnabout-of-courage.json](./306630-turnabout-of-courage.json) |
 | Turnabout of the Final Day | 306603 | [306603-turnabout-of-the-final-day.json](./306603-turnabout-of-the-final-day.json) |
+| Turnabout Pairs | 306631 | [306631-turnabout-pairs.json](./306631-turnabout-pairs.json) |
+| Turnabout Reality | 306624 | [306624-turnabout-reality.json](./306624-turnabout-reality.json) |
 | Turnabout Remembrances | 310015 | [310015-turnabout-remembrances.json](./310015-turnabout-remembrances.json) |
+| Turnabout Retribution | 306627 | [306627-turnabout-retribution.json](./306627-turnabout-retribution.json) |
 | Turnabout Revivals | 303253 | [303253-turnabout-revivals.json](./303253-turnabout-revivals.json) |
 | Turnabout Revolution | 308531 | [308531-turnabout-revolution.json](./308531-turnabout-revolution.json) |
 | Turnabout Steampunk | 318775 | [318775-turnabout-steampunk.json](./318775-turnabout-steampunk.json) |
