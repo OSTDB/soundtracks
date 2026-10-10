@@ -2951,6 +2951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Celestial Clockwork | 374241 | [374241-celestial-clockwork.json](./374241-celestial-clockwork.json) |
 | Celestial Correspondence | 135027 | [135027-celestial-correspondence.json](./135027-celestial-correspondence.json) |
 | Celestial Crossing | 29983 | [29983-celestial-crossing.json](./29983-celestial-crossing.json) |
+| Celestial Crown | 318119 | [318119-celestial-crown.json](./318119-celestial-crown.json) |
 | Celestial Crusade | 122983 | [122983-celestial-crusade.json](./122983-celestial-crusade.json) |
 | Celestial Drift | 391244 | [391244-celestial-drift.json](./391244-celestial-drift.json) |
 | Celestial Force: Magical Mayhem | 238495 | [238495-celestial-force-magical-mayhem.json](./238495-celestial-force-magical-mayhem.json) |
@@ -4383,6 +4384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chineze | 96712 | [96712-chineze.json](./96712-chineze.json) |
 | Chinmoku no Kantai | 299821 | [299821-chinmoku-no-kantai.json](./299821-chinmoku-no-kantai.json) |
 | Chinomikon | 55269 | [55269-chinomikon.json](./55269-chinomikon.json) |
+| Chior | 318131 | [318131-chior.json](./318131-chior.json) |
 | Chip ‘n Clawz vs. The Brainioids | 333089 | [333089-chip-n-clawz-vs-the-brainioids.json](./333089-chip-n-clawz-vs-the-brainioids.json) |
 | Chip 'n Clawz vs. The Brainioids: Going Underground | 398527 | [398527-chip-n-clawz-vs-the-brainioids-going-underground.json](./398527-chip-n-clawz-vs-the-brainioids-going-underground.json) |
 | Chip 'n Dale SNES Port | 377229 | [377229-chip-n-dale-snes-port.json](./377229-chip-n-dale-snes-port.json) |
@@ -4677,6 +4679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chousoku Henkei Gyrozetter: Albatross no Tsubasa | 59970 | [59970-chousoku-henkei-gyrozetter-albatross-no-tsubasa.json](./59970-chousoku-henkei-gyrozetter-albatross-no-tsubasa.json) |
 | Chousoku Shoujo: Hypersonic Speed Girl | 97906 | [97906-chousoku-shoujo-hypersonic-speed-girl.json](./97906-chousoku-shoujo-hypersonic-speed-girl.json) |
 | Chousoku Spinner | 66073 | [66073-chousoku-spinner.json](./66073-chousoku-spinner.json) |
+| Chowder: Bookin' Cook | 318111 | [318111-chowder-bookin-cook.json](./318111-chowder-bookin-cook.json) |
 | Chowdown Kitty | 301284 | [301284-chowdown-kitty.json](./301284-chowdown-kitty.json) |
 | Chozetsu Rinjin Berabo Man | 42038 | [42038-chozetsu-rinjin-berabo-man.json](./42038-chozetsu-rinjin-berabo-man.json) |
 | Chris and the Badgers | 61592 | [61592-chris-and-the-badgers.json](./61592-chris-and-the-badgers.json) |
@@ -11707,6 +11710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curse of Woney | 365066 | [365066-curse-of-woney.json](./365066-curse-of-woney.json) |
 | Curse of Yggdrasil | 380102 | [380102-curse-of-yggdrasil.json](./380102-curse-of-yggdrasil.json) |
 | Curse Removal Service | 218150 | [218150-curse-removal-service.json](./218150-curse-removal-service.json) |
+| Curse Rounds | 318122 | [318122-curse-rounds.json](./318122-curse-rounds.json) |
 | Curse Seal Rotation | 279896 | [279896-curse-seal-rotation.json](./279896-curse-seal-rotation.json) |
 | Curse That Magic Cat! | 142236 | [142236-curse-that-magic-cat.json](./142236-curse-that-magic-cat.json) |
 | Curse the Cursor | 369028 | [369028-curse-the-cursor.json](./369028-curse-the-cursor.json) |
