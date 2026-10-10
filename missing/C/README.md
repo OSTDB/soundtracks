@@ -1496,6 +1496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cargo Bridge 2 | 197233 | [197233-cargo-bridge-2.json](./197233-cargo-bridge-2.json) |
 | Cargo Company | 148504 | [148504-cargo-company.json](./148504-cargo-company.json) |
 | Cargo Cult: Shoot'n'Loot VR | 30258 | [30258-cargo-cult-shootnloot-vr.json](./30258-cargo-cult-shootnloot-vr.json) |
+| Cargo Hunters | 313453 | [313453-cargo-hunters.json](./313453-cargo-hunters.json) |
 | Cargo King | 344440 | [344440-cargo-king.json](./344440-cargo-king.json) |
 | Cargo Protocol: Cyberpunk Trains | 414148 | [414148-cargo-protocol-cyberpunk-trains.json](./414148-cargo-protocol-cyberpunk-trains.json) |
 | Cargo Runner: Mars | 389050 | [389050-cargo-runner-mars.json](./389050-cargo-runner-mars.json) |
@@ -2965,6 +2966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Celestial Hearts | 141817 | [141817-celestial-hearts.json](./141817-celestial-hearts.json) |
 | Celestial Heights | 180820 | [180820-celestial-heights.json](./180820-celestial-heights.json) |
 | Celestial Impact | 62665 | [62665-celestial-impact.json](./62665-celestial-impact.json) |
+| Celestial Kingdom | 313407 | [313407-celestial-kingdom.json](./313407-celestial-kingdom.json) |
 | Celestial Links | 186251 | [186251-celestial-links.json](./186251-celestial-links.json) |
 | Celestial Orbiter Auranova: Those Who Denounce God | 325643 | [325643-celestial-orbiter-auranova-those-who-denounce-god.json](./325643-celestial-orbiter-auranova-those-who-denounce-god.json) |
 | Celestial Project | 189149 | [189149-celestial-project.json](./189149-celestial-project.json) |
@@ -3533,6 +3535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chariot Race | 47244 | [47244-chariot-race.json](./47244-chariot-race.json) |
 | Chariot: Adventure Through the Sky | 361331 | [361331-chariot-adventure-through-the-sky.json](./361331-chariot-adventure-through-the-sky.json) |
 | Chariot: Royal Gadget Pack | 252764 | [252764-chariot-royal-gadget-pack.json](./252764-chariot-royal-gadget-pack.json) |
+| Charisma | 313445 | [313445-charisma.json](./313445-charisma.json) |
 | Charles the Bee | 258641 | [258641-charles-the-bee.json](./258641-charles-the-bee.json) |
 | Charles: The Full Story | 281991 | [281991-charles-the-full-story.json](./281991-charles-the-full-story.json) |
 | Charley's Day | 218979 | [218979-charleys-day.json](./218979-charleys-day.json) |
@@ -3834,6 +3837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chernobyl: Origins | 196666 | [196666-chernobyl-origins.json](./196666-chernobyl-origins.json) |
 | Chernobyl: Road of Death | 122380 | [122380-chernobyl-road-of-death.json](./122380-chernobyl-road-of-death.json) |
 | Chernobyl: Terrorist Attack | 30844 | [30844-chernobyl-terrorist-attack.json](./30844-chernobyl-terrorist-attack.json) |
+| Chernobylite 2: Exclusion Zone | 313433 | [313433-chernobylite-2-exclusion-zone.json](./313433-chernobylite-2-exclusion-zone.json) |
 | Chernobylite: Black Smoke Pack | 323250 | [323250-chernobylite-black-smoke-pack.json](./323250-chernobylite-black-smoke-pack.json) |
 | Chernobylite: Complete Edition | 323701 | [323701-chernobylite-complete-edition.json](./323701-chernobylite-complete-edition.json) |
 | Chernobylite: Premium Edition | 330198 | [330198-chernobylite-premium-edition.json](./330198-chernobylite-premium-edition.json) |
@@ -12374,6 +12378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cynthia: Hidden in the Moonshadow - Accessory Pack #3 | 313789 | [313789-cynthia-hidden-in-the-moonshadow-accessory-pack-3.json](./313789-cynthia-hidden-in-the-moonshadow-accessory-pack-3.json) |
 | Cynthia: Hidden in the Moonshadow - Anniversary Edition | 331270 | [331270-cynthia-hidden-in-the-moonshadow-anniversary-edition.json](./331270-cynthia-hidden-in-the-moonshadow-anniversary-edition.json) |
 | Cynthia: Hidden in the Moonshadow - Complete Edition | 283152 | [283152-cynthia-hidden-in-the-moonshadow-complete-edition.json](./283152-cynthia-hidden-in-the-moonshadow-complete-edition.json) |
+| Cynthia: Hidden in the Moonshadow - Extended Edition | 313438 | [313438-cynthia-hidden-in-the-moonshadow-extended-edition.json](./313438-cynthia-hidden-in-the-moonshadow-extended-edition.json) |
 | Cynthia: Hidden in the Moonshadow - Gold Edition | 324382 | [324382-cynthia-hidden-in-the-moonshadow-gold-edition.json](./324382-cynthia-hidden-in-the-moonshadow-gold-edition.json) |
 | Cynthia: Hidden in the Moonshadow - Silver Edition | 333681 | [333681-cynthia-hidden-in-the-moonshadow-silver-edition.json](./333681-cynthia-hidden-in-the-moonshadow-silver-edition.json) |
 | Cynthia: Hidden in the Moonshadow - Special Edition | 306491 | [306491-cynthia-hidden-in-the-moonshadow-special-edition.json](./306491-cynthia-hidden-in-the-moonshadow-special-edition.json) |
