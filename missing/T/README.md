@@ -940,6 +940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Talisman | 385400 | [385400-talisman.json](./385400-talisman.json) |
 | Talisman - Frostmarch | 53696 | [53696-talisman-frostmarch.json](./53696-talisman-frostmarch.json) |
 | Talisman Online | 140560 | [140560-talisman-online.json](./140560-talisman-online.json) |
+| Talisman: Digital 5th Edition | 302175 | [302175-talisman-digital-5th-edition.json](./302175-talisman-digital-5th-edition.json) |
 | Talisman: Digital Classic Edition | 337748 | [337748-talisman-digital-classic-edition.json](./337748-talisman-digital-classic-edition.json) |
 | Talisman: Digital Edition | 10952 | [10952-talisman-digital-edition.json](./10952-talisman-digital-edition.json) |
 | Talisman: Digital Edition - 40th Anniversary Edition | 270312 | [270312-talisman-digital-edition-40th-anniversary-edition.json](./270312-talisman-digital-edition-40th-anniversary-edition.json) |
@@ -8752,6 +8753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Necromancer | 80856 | [80856-the-necromancer.json](./80856-the-necromancer.json) |
 | The Necromancer Cometh! | 253472 | [253472-the-necromancer-cometh.json](./253472-the-necromancer-cometh.json) |
 | The Necromancer's Castle | 82462 | [82462-the-necromancers-castle.json](./82462-the-necromancers-castle.json) |
+| The Necromancer's Pact | 302187 | [302187-the-necromancers-pact.json](./302187-the-necromancers-pact.json) |
 | The Necromancer's Tower | 297566 | [297566-the-necromancers-tower.json](./297566-the-necromancers-tower.json) |
 | The Neighbor: Escape Room | 309505 | [309505-the-neighbor-escape-room.json](./309505-the-neighbor-escape-room.json) |
 | The Neighborhood | 180592 | [180592-the-neighborhood.json](./180592-the-neighborhood.json) |
@@ -11946,6 +11948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The You Quiz | 361757 | [361757-the-you-quiz.json](./361757-the-you-quiz.json) |
 | The You Testament | 59920 | [59920-the-you-testament.json](./59920-the-you-testament.json) |
 | The You Testament: The 2D Coming | 234312 | [234312-the-you-testament-the-2d-coming.json](./234312-the-you-testament-the-2d-coming.json) |
+| The Young Captain | 302192 | [302192-the-young-captain.json](./302192-the-young-captain.json) |
 | The Young Gabriel King Chronicles | 122221 | [122221-the-young-gabriel-king-chronicles.json](./122221-the-young-gabriel-king-chronicles.json) |
 | The Young Ones | 40933 | [40933-the-young-ones.json](./40933-the-young-ones.json) |
 | The Youthdrainers | 34701 | [34701-the-youthdrainers.json](./34701-the-youthdrainers.json) |
@@ -12282,6 +12285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thief Collection | 53796 | [53796-thief-collection.json](./53796-thief-collection.json) |
 | Thief Gold | 9227 | [9227-thief-gold.json](./9227-thief-gold.json) |
 | Thief II: The Metal Age | 1 | [1-thief-ii-the-metal-age.json](./1-thief-ii-the-metal-age.json) |
+| Thief Monsters | 302155 | [302155-thief-monsters.json](./302155-thief-monsters.json) |
 | Thief of Hearts | 179697 | [179697-thief-of-hearts.json](./179697-thief-of-hearts.json) |
 | Thief of Smiles | 239745 | [239745-thief-of-smiles.json](./239745-thief-of-smiles.json) |
 | Thief of Thieves: Season One | 95116 | [95116-thief-of-thieves-season-one.json](./95116-thief-of-thieves-season-one.json) |
@@ -12685,6 +12689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Through the Ages | 87726 | [87726-through-the-ages.json](./87726-through-the-ages.json) |
 | Through the Ages: New Leaders & Wonders | 155052 | [155052-through-the-ages-new-leaders-and-wonders.json](./155052-through-the-ages-new-leaders-and-wonders.json) |
 | Through the Edges | 333669 | [333669-through-the-edges.json](./333669-through-the-edges.json) |
+| Through the Fog | 302095 | [302095-through-the-fog.json](./302095-through-the-fog.json) |
 | Through the Fragmentation | 147400 | [147400-through-the-fragmentation.json](./147400-through-the-fragmentation.json) |
 | Through the Frame | 169402 | [169402-through-the-frame.json](./169402-through-the-frame.json) |
 | Through the Galaxy | 312129 | [312129-through-the-galaxy.json](./312129-through-the-galaxy.json) |
@@ -14431,6 +14436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Chao Garden | 341691 | [341691-tiny-chao-garden.json](./341691-tiny-chao-garden.json) |
 | Tiny Chao Garden | 341693 | [341693-tiny-chao-garden.json](./341693-tiny-chao-garden.json) |
 | Tiny Chao Garden | 341694 | [341694-tiny-chao-garden.json](./341694-tiny-chao-garden.json) |
+| Tiny Chao Garden DX | 302178 | [302178-tiny-chao-garden-dx.json](./302178-tiny-chao-garden-dx.json) |
 | Tiny Chills: Not From Ear | 395024 | [395024-tiny-chills-not-from-ear.json](./395024-tiny-chills-not-from-ear.json) |
 | Tiny Clusters | 177477 | [177477-tiny-clusters.json](./177477-tiny-clusters.json) |
 | Tiny Combat Arena | 154015 | [154015-tiny-combat-arena.json](./154015-tiny-combat-arena.json) |
@@ -18026,6 +18032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trainz Railroad Simulator 2019: ZecRail V499 Blue & Gold and Christmas 2019 | 153248 | [153248-trainz-railroad-simulator-2019-zecrail-v499-blue-and-gold-and-christmas-2019.json](./153248-trainz-railroad-simulator-2019-zecrail-v499-blue-and-gold-and-christmas-2019.json) |
 | Trainz Railroad Simulator 2022 | 195792 | [195792-trainz-railroad-simulator-2022.json](./195792-trainz-railroad-simulator-2022.json) |
 | Trainz Railroad Simulator 2022: ATSF B40-8W 500-559 | 354380 | [354380-trainz-railroad-simulator-2022-atsf-b40-8w-500-559.json](./354380-trainz-railroad-simulator-2022-atsf-b40-8w-500-559.json) |
+| Trainz Railroad Simulator 2022: BR Diesel Brake Tenders | 302207 | [302207-trainz-railroad-simulator-2022-br-diesel-brake-tenders.json](./302207-trainz-railroad-simulator-2022-br-diesel-brake-tenders.json) |
 | Trainz Railroad Simulator 2022: CD Bmto292 109 | 276320 | [276320-trainz-railroad-simulator-2022-cd-bmto292-109.json](./276320-trainz-railroad-simulator-2022-cd-bmto292-109.json) |
 | Trainz Railroad Simulator 2022: CD Doubledecker Pack No. 2 | 276313 | [276313-trainz-railroad-simulator-2022-cd-doubledecker-pack-no-2.json](./276313-trainz-railroad-simulator-2022-cd-doubledecker-pack-no-2.json) |
 | Trainz Railroad Simulator 2022: CFR B 26-26 098 | 205039 | [205039-trainz-railroad-simulator-2022-cfr-b-26-26-098.json](./205039-trainz-railroad-simulator-2022-cfr-b-26-26-098.json) |
