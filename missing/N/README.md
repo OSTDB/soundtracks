@@ -2073,6 +2073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Super Mario Bros. U Deluxe: Spot the Difference | 246453 | [246453-new-super-mario-bros-u-deluxe-spot-the-difference.json](./246453-new-super-mario-bros-u-deluxe-spot-the-difference.json) |
 | New Super Mario Bros. U: Insane Edition | 313426 | [313426-new-super-mario-bros-u-insane-edition.json](./313426-new-super-mario-bros-u-insane-edition.json) |
 | New Super Mario Bros. Versus: Cubby's Character Mod | 243978 | [243978-new-super-mario-bros-versus-cubbys-character-mod.json](./243978-new-super-mario-bros-versus-cubbys-character-mod.json) |
+| New Super Mario Bros. Versus: Doodler's Mayhem | 306633 | [306633-new-super-mario-bros-versus-doodlers-mayhem.json](./306633-new-super-mario-bros-versus-doodlers-mayhem.json) |
 | New Super Mario Bros. Versus: Steve's Map Pack | 243976 | [243976-new-super-mario-bros-versus-steves-map-pack.json](./243976-new-super-mario-bros-versus-steves-map-pack.json) |
 | New Super Mario Bros. Wii 2: The Next Levels | 230246 | [230246-new-super-mario-bros-wii-2-the-next-levels.json](./230246-new-super-mario-bros-wii-2-the-next-levels.json) |
 | New Super Mario Bros. Wii Coin World | 132003 | [132003-new-super-mario-bros-wii-coin-world.json](./132003-new-super-mario-bros-wii-coin-world.json) |
