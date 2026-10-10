@@ -141,6 +141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F1 22: Champions Edition | 198261 | [198261-f1-22-champions-edition.json](./198261-f1-22-champions-edition.json) |
 | F1 23: Champions Edition | 248192 | [248192-f1-23-champions-edition.json](./248192-f1-23-champions-edition.json) |
 | F1 24 | 287578 | [287578-f1-24.json](./287578-f1-24.json) |
+| F1 24: Champion Edition | 288653 | [288653-f1-24-champion-edition.json](./288653-f1-24-champion-edition.json) |
 | F1 25 | 336964 | [336964-f1-25.json](./336964-f1-25.json) |
 | F1 25: 2026 Season Edition | 408775 | [408775-f1-25-2026-season-edition.json](./408775-f1-25-2026-season-edition.json) |
 | F1 25: 2026 Season Pack | 408774 | [408774-f1-25-2026-season-pack.json](./408774-f1-25-2026-season-pack.json) |
@@ -2224,6 +2225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feather of Praying | 102970 | [102970-feather-of-praying.json](./102970-feather-of-praying.json) |
 | Feather Park | 218569 | [218569-feather-park.json](./218569-feather-park.json) |
 | Featherbound | 294269 | [294269-featherbound.json](./294269-featherbound.json) |
+| Feathered Escape | 288667 | [288667-feathered-escape.json](./288667-feathered-escape.json) |
 | Feathered Run: Worlds | 224595 | [224595-feathered-run-worlds.json](./224595-feathered-run-worlds.json) |
 | Featherfall | 125367 | [125367-featherfall.json](./125367-featherfall.json) |
 | Featherfall | 129442 | [129442-featherfall.json](./129442-featherfall.json) |
@@ -4463,6 +4465,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flanker 2.0 | 708 | [708-flanker-2-0.json](./708-flanker-2-0.json) |
 | Flanker 2.5 | 709 | [709-flanker-2-5.json](./709-flanker-2-5.json) |
 | Flanker: Call of the Ghost | 353792 | [353792-flanker-call-of-the-ghost.json](./353792-flanker-call-of-the-ghost.json) |
+| Flannville | 288645 | [288645-flannville.json](./288645-flannville.json) |
+| Flannville 2 | 288646 | [288646-flannville-2.json](./288646-flannville-2.json) |
 | Flap Demon | 158646 | [158646-flap-demon.json](./158646-flap-demon.json) |
 | Flap Happy | 307102 | [307102-flap-happy.json](./307102-flap-happy.json) |
 | Flap Legends | 272447 | [272447-flap-legends.json](./272447-flap-legends.json) |
@@ -5728,6 +5732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | For God's Sake, Help Him! | 373647 | [373647-for-gods-sake-help-him.json](./373647-for-gods-sake-help-him.json) |
 | For Hell's Sake | 310027 | [310027-for-hells-sake.json](./310027-for-hells-sake.json) |
 | For Her | 338327 | [338327-for-her.json](./338327-for-her.json) |
+| For Home | 288687 | [288687-for-home.json](./288687-for-home.json) |
 | For Honor: Afeera Hero | 234539 | [234539-for-honor-afeera-hero.json](./234539-for-honor-afeera-hero.json) |
 | For Honor: Assassin's Creed Shadows Hero Skin Bundle | 408889 | [408889-for-honor-assassins-creed-shadows-hero-skin-bundle.json](./408889-for-honor-assassins-creed-shadows-hero-skin-bundle.json) |
 | For Honor: Assassin's Creed Ultimate Hero Skin Bundle | 409029 | [409029-for-honor-assassins-creed-ultimate-hero-skin-bundle.json](./409029-for-honor-assassins-creed-ultimate-hero-skin-bundle.json) |
