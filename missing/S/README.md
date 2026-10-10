@@ -5964,6 +5964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shroomio's Adventure | 185455 | [185455-shroomios-adventure.json](./185455-shroomios-adventure.json) |
 | Shroomscape Zone | 192465 | [192465-shroomscape-zone.json](./192465-shroomscape-zone.json) |
 | Shroomtopia | 286092 | [286092-shroomtopia.json](./286092-shroomtopia.json) |
+| Shrot | 291382 | [291382-shrot.json](./291382-shrot.json) |
 | Shroud | 295999 | [295999-shroud.json](./295999-shroud.json) |
 | Shroud of the Avatar - The Path of Virtue | 95995 | [95995-shroud-of-the-avatar-the-path-of-virtue.json](./95995-shroud-of-the-avatar-the-path-of-virtue.json) |
 | Shroud of the Woods | 389729 | [389729-shroud-of-the-woods.json](./389729-shroud-of-the-woods.json) |
@@ -15358,6 +15359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starbrew Station: Station Mascot 'Pip' Unit | 374090 | [374090-starbrew-station-station-mascot-pip-unit.json](./374090-starbrew-station-station-mascot-pip-unit.json) |
 | Starbrew Station: Symbiotic Sprout Unit | 374089 | [374089-starbrew-station-symbiotic-sprout-unit.json](./374089-starbrew-station-symbiotic-sprout-unit.json) |
 | Starbrew Station: The Galactic Tycoon Unit | 374092 | [374092-starbrew-station-the-galactic-tycoon-unit.json](./374092-starbrew-station-the-galactic-tycoon-unit.json) |
+| Starbridge: The Voyage Home | 291351 | [291351-starbridge-the-voyage-home.json](./291351-starbridge-the-voyage-home.json) |
 | Starbucket | 90854 | [90854-starbucket.json](./90854-starbucket.json) |
 | Starbucks | 378167 | [378167-starbucks.json](./378167-starbucks.json) |
 | Starburst Fever Night | 390669 | [390669-starburst-fever-night.json](./390669-starburst-fever-night.json) |
