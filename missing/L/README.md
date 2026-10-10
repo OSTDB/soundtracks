@@ -3013,6 +3013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lightrise | 34937 | [34937-lightrise.json](./34937-lightrise.json) |
 | Lightrix | 372989 | [372989-lightrix.json](./372989-lightrix.json) |
 | Lightrock | 205065 | [205065-lightrock.json](./205065-lightrock.json) |
+| Lights | 314009 | [314009-lights.json](./314009-lights.json) |
 | Lights and Shadow | 339287 | [339287-lights-and-shadow.json](./339287-lights-and-shadow.json) |
 | Lights e Shades: Safìna | 216210 | [216210-lights-e-shades-safina.json](./216210-lights-e-shades-safina.json) |
 | Lights Off | 100159 | [100159-lights-off.json](./100159-lights-off.json) |
@@ -4142,6 +4143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Locked in Temptation | 385810 | [385810-locked-in-temptation.json](./385810-locked-in-temptation.json) |
 | Locked In VR | 30342 | [30342-locked-in-vr.json](./30342-locked-in-vr.json) |
 | Locked Inside: Rebirth | 177396 | [177396-locked-inside-rebirth.json](./177396-locked-inside-rebirth.json) |
+| Locked Room on Rails | 314014 | [314014-locked-room-on-rails.json](./314014-locked-room-on-rails.json) |
 | Locked Together | 405617 | [405617-locked-together.json](./405617-locked-together.json) |
 | Locked Up | 137990 | [137990-locked-up.json](./137990-locked-up.json) |
 | Locked-In | 146138 | [146138-locked-in.json](./146138-locked-in.json) |
@@ -4954,6 +4956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost in the Amazon | 296057 | [296057-lost-in-the-amazon.json](./296057-lost-in-the-amazon.json) |
 | Lost in the Backrooms | 221756 | [221756-lost-in-the-backrooms.json](./221756-lost-in-the-backrooms.json) |
 | Lost in the Backrooms: Day 100 | 375805 | [375805-lost-in-the-backrooms-day-100.json](./375805-lost-in-the-backrooms-day-100.json) |
+| Lost in the Dark Woods | 313997 | [313997-lost-in-the-dark-woods.json](./313997-lost-in-the-dark-woods.json) |
 | Lost in the Dungeon | 77774 | [77774-lost-in-the-dungeon.json](./77774-lost-in-the-dungeon.json) |
 | Lost in the Fire | 383142 | [383142-lost-in-the-fire.json](./383142-lost-in-the-fire.json) |
 | Lost in the Grotto: Thievery | 344517 | [344517-lost-in-the-grotto-thievery.json](./344517-lost-in-the-grotto-thievery.json) |
@@ -5782,6 +5785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luigi's Mansion: Beyond Origins | 314570 | [314570-luigis-mansion-beyond-origins.json](./314570-luigis-mansion-beyond-origins.json) |
 | Luigi's Mansion: Dark Moon | 2476 | [2476-luigis-mansion-dark-moon.json](./2476-luigis-mansion-dark-moon.json) |
 | Luigi's Mansion: Extra Tangy | 313113 | [313113-luigis-mansion-extra-tangy.json](./313113-luigis-mansion-extra-tangy.json) |
+| Luigi's Mansion: Halloween Haunt | 313969 | [313969-luigis-mansion-halloween-haunt.json](./313969-luigis-mansion-halloween-haunt.json) |
 | Luigi's Mansion: Premium Deluxe | 259268 | [259268-luigis-mansion-premium-deluxe.json](./259268-luigis-mansion-premium-deluxe.json) |
 | Luigi's Mansion: Sweet Home | 308372 | [308372-luigis-mansion-sweet-home.json](./308372-luigis-mansion-sweet-home.json) |
 | Luigi's Misadventures 5: Rougenia Merald's Challenge | 276789 | [276789-luigis-misadventures-5-rougenia-meralds-challenge.json](./276789-luigis-misadventures-5-rougenia-meralds-challenge.json) |
