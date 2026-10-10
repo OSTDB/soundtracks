@@ -3321,6 +3321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantom Shift | 307598 | [307598-phantom-shift.json](./307598-phantom-shift.json) |
 | Phantom Signal | 81703 | [81703-phantom-signal.json](./81703-phantom-signal.json) |
 | Phantom Sol | 125437 | [125437-phantom-sol.json](./125437-phantom-sol.json) |
+| Phantom Squad | 291391 | [291391-phantom-squad.json](./291391-phantom-squad.json) |
 | Phantom Stars | 297184 | [297184-phantom-stars.json](./297184-phantom-stars.json) |
 | Phantom Tank | 321993 | [321993-phantom-tank.json](./321993-phantom-tank.json) |
 | Phantom Ten | 311292 | [311292-phantom-ten.json](./311292-phantom-ten.json) |
@@ -7434,6 +7435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polycore | 369742 | [369742-polycore.json](./369742-polycore.json) |
 | PolyCube | 88232 | [88232-polycube.json](./88232-polycube.json) |
 | Polydangerous | 392468 | [392468-polydangerous.json](./392468-polydangerous.json) |
+| PolyDestroyer | 291370 | [291370-polydestroyer.json](./291370-polydestroyer.json) |
 | Polydeuces | 138132 | [138132-polydeuces.json](./138132-polydeuces.json) |
 | PolyDrift | 309878 | [309878-polydrift.json](./309878-polydrift.json) |
 | Polyemisokos | 205572 | [205572-polyemisokos.json](./205572-polyemisokos.json) |
@@ -7854,6 +7856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Popucom x Arknights Collab Outfit Pack | 378876 | [378876-popucom-x-arknights-collab-outfit-pack.json](./378876-popucom-x-arknights-collab-outfit-pack.json) |
 | Popucom: Too Many Clothes Pack | 378875 | [378875-popucom-too-many-clothes-pack.json](./378875-popucom-too-many-clothes-pack.json) |
 | Population Control | 387497 | [387497-population-control.json](./387497-population-control.json) |
+| Population Goals! | 291374 | [291374-population-goals.json](./291374-population-goals.json) |
 | Population Quiz | 312841 | [312841-population-quiz.json](./312841-population-quiz.json) |
 | Population: One | 139377 | [139377-population-one.json](./139377-population-one.json) |
 | Population: Tire | 135850 | [135850-population-tire.json](./135850-population-tire.json) |
