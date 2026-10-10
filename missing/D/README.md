@@ -4181,6 +4181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Derby Stallion Gold | 123050 | [123050-derby-stallion-gold.json](./123050-derby-stallion-gold.json) |
 | Derby Stallion P | 59387 | [59387-derby-stallion-p.json](./59387-derby-stallion-p.json) |
 | Derby Time Online | 7287 | [7287-derby-time-online.json](./7287-derby-time-online.json) |
+| Derby Tsuku 3: Derby-ba wo Tsukurou! | 288143 | [288143-derby-tsuku-3-derby-ba-wo-tsukurou.json](./288143-derby-tsuku-3-derby-ba-wo-tsukurou.json) |
 | Derby: Extreme Racing | 122131 | [122131-derby-extreme-racing.json](./122131-derby-extreme-racing.json) |
 | Dere Evil.Exe | 104080 | [104080-dere-evil-exe.json](./104080-dere-evil-exe.json) |
 | Dere Quartet | 337578 | [337578-dere-quartet.json](./337578-dere-quartet.json) |
@@ -5691,6 +5692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino | 267359 | [267359-dino.json](./267359-dino.json) |
 | Dino | 272361 | [272361-dino.json](./272361-dino.json) |
 | Dino & Chill | 339938 | [339938-dino-and-chill.json](./339938-dino-and-chill.json) |
+| Dino Adventure Legend | 288130 | [288130-dino-adventure-legend.json](./288130-dino-adventure-legend.json) |
 | Dino Attack | 343258 | [343258-dino-attack.json](./343258-dino-attack.json) |
 | Dino Battle: Jungle Adventure | 235166 | [235166-dino-battle-jungle-adventure.json](./235166-dino-battle-jungle-adventure.json) |
 | Dino Breeder | 64981 | [64981-dino-breeder.json](./64981-dino-breeder.json) |
