@@ -3088,6 +3088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy Renaissance | 298558 | [298558-final-fantasy-renaissance.json](./298558-final-fantasy-renaissance.json) |
 | Final Fantasy Resonance | 405454 | [405454-final-fantasy-resonance.json](./405454-final-fantasy-resonance.json) |
 | Final Fantasy Resonance: Digital Deluxe Edition | 410844 | [410844-final-fantasy-resonance-digital-deluxe-edition.json](./410844-final-fantasy-resonance-digital-deluxe-edition.json) |
+| Final Fantasy Restored & Rebalanced | 295659 | [295659-final-fantasy-restored-and-rebalanced.json](./295659-final-fantasy-restored-and-rebalanced.json) |
 | Final Fantasy Sonic X: Episode 1 | 266863 | [266863-final-fantasy-sonic-x-episode-1.json](./266863-final-fantasy-sonic-x-episode-1.json) |
 | Final Fantasy Tactics | 428 | [428-final-fantasy-tactics.json](./428-final-fantasy-tactics.json) |
 | Final Fantasy Tactics 1.3 | 159064 | [159064-final-fantasy-tactics-1-3.json](./159064-final-fantasy-tactics-1-3.json) |
