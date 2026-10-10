@@ -17827,6 +17827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SU the Son of Gaia | 211795 | [211795-su-the-son-of-gaia.json](./211795-su-the-son-of-gaia.json) |
 | Su-27 Flanker | 22621 | [22621-su-27-flanker.json](./22621-su-27-flanker.json) |
 | Su-27 Flanker Mission Disk | 74051 | [74051-su-27-flanker-mission-disk.json](./74051-su-27-flanker-mission-disk.json) |
+| Su: Unlocking the 4th Dimension | 297903 | [297903-su-unlocking-the-4th-dimension.json](./297903-su-unlocking-the-4th-dimension.json) |
 | SU42: Hired Gun | 345669 | [345669-su42-hired-gun.json](./345669-su42-hired-gun.json) |
 | Su8way | 408704 | [408704-su8way.json](./408704-su8way.json) |
 | Sub Attack | 337208 | [337208-sub-attack.json](./337208-sub-attack.json) |
