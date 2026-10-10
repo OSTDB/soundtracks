@@ -69,6 +69,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | M87 | 200511 | [200511-m87.json](./200511-m87.json) |
 | Ma première visite à la tour du sens | 345578 | [345578-ma-premiere-visite-a-la-tour-du-sens.json](./345578-ma-premiere-visite-a-la-tour-du-sens.json) |
 | Ma Puzzle | 181209 | [181209-ma-puzzle.json](./181209-ma-puzzle.json) |
+| Ma vie en rogue | 328978 | [328978-ma-vie-en-rogue.json](./328978-ma-vie-en-rogue.json) |
 | Ma3 | 252667 | [252667-ma3.json](./252667-ma3.json) |
 | MAAA | 112978 | [112978-maaa.json](./112978-maaa.json) |
 | Mabeop Cheonjamun DS | 124789 | [124789-mabeop-cheonjamun-ds.json](./124789-mabeop-cheonjamun-ds.json) |
@@ -873,11 +874,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magicademia | 148677 | [148677-magicademia.json](./148677-magicademia.json) |
 | Magicafe | 299127 | [299127-magicafe.json](./299127-magicafe.json) |
 | Magical Animal Farm | 366423 | [366423-magical-animal-farm.json](./366423-magical-animal-farm.json) |
+| Magical Backpack | 328977 | [328977-magical-backpack.json](./328977-magical-backpack.json) |
 | Magical Battle Arena | 145447 | [145447-magical-battle-arena.json](./145447-magical-battle-arena.json) |
 | Magical Battle Arena: Complete Form | 61320 | [61320-magical-battle-arena-complete-form.json](./61320-magical-battle-arena-complete-form.json) |
 | Magical Battle Festa | 17218 | [17218-magical-battle-festa.json](./17218-magical-battle-festa.json) |
 | Magical Beat | 52549 | [52549-magical-beat.json](./52549-magical-beat.json) |
 | Magical Blaster | 151741 | [151741-magical-blaster.json](./151741-magical-blaster.json) |
+| Magical Bocco 20541 | 328944 | [328944-magical-bocco-20541.json](./328944-magical-bocco-20541.json) |
 | Magical Boco | 313464 | [313464-magical-boco.json](./313464-magical-boco.json) |
 | Magical Brickout | 25071 | [25071-magical-brickout.json](./25071-magical-brickout.json) |
 | Magical Broom eXtreme | 83616 | [83616-magical-broom-extreme.json](./83616-magical-broom-extreme.json) |
@@ -10514,6 +10517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mosaic Chronicles Deluxe: Complete + | 328837 | [328837-mosaic-chronicles-deluxe-complete.json](./328837-mosaic-chronicles-deluxe-complete.json) |
 | Mosaic Chronicles Deluxe: Extended Edition | 251533 | [251533-mosaic-chronicles-deluxe-extended-edition.json](./251533-mosaic-chronicles-deluxe-extended-edition.json) |
 | Mosaic Chronicles Deluxe: Special Edition | 260688 | [260688-mosaic-chronicles-deluxe-special-edition.json](./260688-mosaic-chronicles-deluxe-special-edition.json) |
+| Mosaic Chronicles Deluxe: Story | 328984 | [328984-mosaic-chronicles-deluxe-story.json](./328984-mosaic-chronicles-deluxe-story.json) |
 | Mosaic Chronicles Deluxe: Ultimate Edition | 243366 | [243366-mosaic-chronicles-deluxe-ultimate-edition.json](./243366-mosaic-chronicles-deluxe-ultimate-edition.json) |
 | Mosaic Chronicles DLC: Nothing Personal | 274664 | [274664-mosaic-chronicles-dlc-nothing-personal.json](./274664-mosaic-chronicles-dlc-nothing-personal.json) |
 | Mosaic Girl Savior | 272367 | [272367-mosaic-girl-savior.json](./272367-mosaic-girl-savior.json) |
