@@ -51,6 +51,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | M.U.S.E. | 61136 | [61136-m-u-s-e.json](./61136-m-u-s-e.json) |
 | M.V.P. | 197957 | [197957-m-v-p.json](./197957-m-v-p.json) |
 | M*A*S*H | 22734 | [22734-m-a-s-h.json](./22734-m-a-s-h.json) |
+| M*A*S*H: The Adventure Game | 327234 | [327234-m-a-s-h-the-adventure-game.json](./327234-m-a-s-h-the-adventure-game.json) |
 | M&M's Beach Party | 50703 | [50703-m-and-ms-beach-party.json](./50703-m-and-ms-beach-party.json) |
 | M&M's Blast! | 49330 | [49330-m-and-ms-blast.json](./49330-m-and-ms-blast.json) |
 | M&M's Kart Racing | 47923 | [47923-m-and-ms-kart-racing.json](./47923-m-and-ms-kart-racing.json) |
@@ -998,11 +999,18 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magicka 2: Special Edition | 118926 | [118926-magicka-2-special-edition.json](./118926-magicka-2-special-edition.json) |
 | Magicka 2: Three Cardinals Robe Pack | 321758 | [321758-magicka-2-three-cardinals-robe-pack.json](./321758-magicka-2-three-cardinals-robe-pack.json) |
 | Magicka Complete Edition | 384629 | [384629-magicka-complete-edition.json](./384629-magicka-complete-edition.json) |
+| Magicka: Aspiring Musician Robes | 327241 | [327241-magicka-aspiring-musician-robes.json](./327241-magicka-aspiring-musician-robes.json) |
 | Magicka: Dungeons and Daemons | 22643 | [22643-magicka-dungeons-and-daemons.json](./22643-magicka-dungeons-and-daemons.json) |
 | Magicka: Final Frontier | 50819 | [50819-magicka-final-frontier.json](./50819-magicka-final-frontier.json) |
 | Magicka: Frozen Lake | 50818 | [50818-magicka-frozen-lake.json](./50818-magicka-frozen-lake.json) |
+| Magicka: Gamer Bundle | 327236 | [327236-magicka-gamer-bundle.json](./327236-magicka-gamer-bundle.json) |
+| Magicka: Heirlooms Item Pack | 327243 | [327243-magicka-heirlooms-item-pack.json](./327243-magicka-heirlooms-item-pack.json) |
+| Magicka: Holiday Spirit Item Pack | 327238 | [327238-magicka-holiday-spirit-item-pack.json](./327238-magicka-holiday-spirit-item-pack.json) |
+| Magicka: Horror Props Item Pack | 327239 | [327239-magicka-horror-props-item-pack.json](./327239-magicka-horror-props-item-pack.json) |
+| Magicka: Mega Villain Robes | 327240 | [327240-magicka-mega-villain-robes.json](./327240-magicka-mega-villain-robes.json) |
 | Magicka: Nippon | 50817 | [50817-magicka-nippon.json](./50817-magicka-nippon.json) |
 | Magicka: Party Robes | 50816 | [50816-magicka-party-robes.json](./50816-magicka-party-robes.json) |
+| Magicka: Peculiar Gadgets Item Pack | 327242 | [327242-magicka-peculiar-gadgets-item-pack.json](./327242-magicka-peculiar-gadgets-item-pack.json) |
 | Magicka: The Other Side of the Coin | 22642 | [22642-magicka-the-other-side-of-the-coin.json](./22642-magicka-the-other-side-of-the-coin.json) |
 | Magicka: The Watchtower | 50815 | [50815-magicka-the-watchtower.json](./50815-magicka-the-watchtower.json) |
 | Magicka: Vietnam | 21781 | [21781-magicka-vietnam.json](./21781-magicka-vietnam.json) |
@@ -7753,6 +7761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Sudoku Keychain | 264240 | [264240-mini-sudoku-keychain.json](./264240-mini-sudoku-keychain.json) |
 | Mini Swim | 412157 | [412157-mini-swim.json](./412157-mini-swim.json) |
 | Mini Switcher | 412213 | [412213-mini-switcher.json](./412213-mini-switcher.json) |
+| Mini Tank Mayhem | 327166 | [327166-mini-tank-mayhem.json](./327166-mini-tank-mayhem.json) |
 | Mini TD | 358424 | [358424-mini-td.json](./358424-mini-td.json) |
 | Mini TD 2: Relax Tower Defense | 305272 | [305272-mini-td-2-relax-tower-defense.json](./305272-mini-td-2-relax-tower-defense.json) |
 | Mini TD 3 | 360499 | [360499-mini-td-3.json](./360499-mini-td-3.json) |
