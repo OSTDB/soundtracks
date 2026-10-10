@@ -4905,6 +4905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Game Maker Series Pollux: Hero in the box | 395668 | [395668-pixel-game-maker-series-pollux-hero-in-the-box.json](./395668-pixel-game-maker-series-pollux-hero-in-the-box.json) |
 | Pixel Game Maker Series: Angel's Blood | 224205 | [224205-pixel-game-maker-series-angels-blood.json](./224205-pixel-game-maker-series-angels-blood.json) |
 | Pixel Game Maker Series: Cat and Castle | 288314 | [288314-pixel-game-maker-series-cat-and-castle.json](./288314-pixel-game-maker-series-cat-and-castle.json) |
+| Pixel Game Maker Series: Chrotopia | 320460 | [320460-pixel-game-maker-series-chrotopia.json](./320460-pixel-game-maker-series-chrotopia.json) |
 | Pixel Game Maker Series: Hunter of Devil | 284954 | [284954-pixel-game-maker-series-hunter-of-devil.json](./284954-pixel-game-maker-series-hunter-of-devil.json) |
 | Pixel Game Maker Series: Isekai Quartet Adventure - Action Game | 152891 | [152891-pixel-game-maker-series-isekai-quartet-adventure-action-game.json](./152891-pixel-game-maker-series-isekai-quartet-adventure-action-game.json) |
 | Pixel Game Maker Series: Jetman | 207891 | [207891-pixel-game-maker-series-jetman.json](./207891-pixel-game-maker-series-jetman.json) |
@@ -8781,10 +8782,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Princess Quest | 286070 | [286070-princess-quest.json](./286070-princess-quest.json) |
 | Princess Quest | 77600 | [77600-princess-quest.json](./77600-princess-quest.json) |
 | Princess Quest Part 1 | 250055 | [250055-princess-quest-part-1.json](./250055-princess-quest-part-1.json) |
+| Princess Rapunzel: The Kingdom's Legacy | 320461 | [320461-princess-rapunzel-the-kingdoms-legacy.json](./320461-princess-rapunzel-the-kingdoms-legacy.json) |
 | Princess Rescue | 46886 | [46886-princess-rescue.json](./46886-princess-rescue.json) |
 | Princess RPG | 196814 | [196814-princess-rpg.json](./196814-princess-rpg.json) |
 | Princess Sahirah is a Spoiled Brat! | 46490 | [46490-princess-sahirah-is-a-spoiled-brat.json](./46490-princess-sahirah-is-a-spoiled-brat.json) |
 | Princess Shall Prevail | 368375 | [368375-princess-shall-prevail.json](./368375-princess-shall-prevail.json) |
+| Princess Snow White: The Enchanted Mirror | 320455 | [320455-princess-snow-white-the-enchanted-mirror.json](./320455-princess-snow-white-the-enchanted-mirror.json) |
 | Princess Solitaire | 176897 | [176897-princess-solitaire.json](./176897-princess-solitaire.json) |
 | Princess Strike! | 63347 | [63347-princess-strike.json](./63347-princess-strike.json) |
 | Princess Tomato in the Salad Kingdom | 48221 | [48221-princess-tomato-in-the-salad-kingdom.json](./48221-princess-tomato-in-the-salad-kingdom.json) |
