@@ -653,6 +653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kart Racing | 381228 | [381228-kart-racing.json](./381228-kart-racing.json) |
 | Kart Racing 3D - Top Car Racer Chaser Action Rally | 101568 | [101568-kart-racing-3d-top-car-racer-chaser-action-rally.json](./101568-kart-racing-3d-top-car-racer-chaser-action-rally.json) |
 | Kart Soccer Party | 398428 | [398428-kart-soccer-party.json](./398428-kart-soccer-party.json) |
+| Kart Them All | 292958 | [292958-kart-them-all.json](./292958-kart-them-all.json) |
 | Kart Wars | 108994 | [108994-kart-wars.json](./108994-kart-wars.json) |
 | Kartia: The Word of Fate | 45222 | [45222-kartia-the-word-of-fate.json](./45222-kartia-the-word-of-fate.json) |
 | Karting Grand Prix Minigame | 389121 | [389121-karting-grand-prix-minigame.json](./389121-karting-grand-prix-minigame.json) |
@@ -3691,6 +3692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kunkun Dream Startles the Soul-Kunkunzi | 358235 | [358235-kunkun-dream-startles-the-soul-kunkunzi.json](./358235-kunkun-dream-startles-the-soul-kunkunzi.json) |
 | Kunkun League | 303619 | [303619-kunkun-league.json](./303619-kunkun-league.json) |
 | Kunkun Terror Express | 296921 | [296921-kunkun-terror-express.json](./296921-kunkun-terror-express.json) |
+| KunKunHome | 292981 | [292981-kunkunhome.json](./292981-kunkunhome.json) |
 | Kunkunkun | 287214 | [287214-kunkunkun.json](./287214-kunkunkun.json) |
 | KunKunNest | 390073 | [390073-kunkunnest.json](./390073-kunkunnest.json) |
 | KunKunNight | 273463 | [273463-kunkunnight.json](./273463-kunkunnight.json) |
