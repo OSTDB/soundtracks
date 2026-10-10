@@ -1838,6 +1838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King God Domain | 159726 | [159726-king-god-domain.json](./159726-king-god-domain.json) |
 | King Hajwala | 153867 | [153867-king-hajwala.json](./153867-king-hajwala.json) |
 | King in the Mountain | 408930 | [408930-king-in-the-mountain.json](./408930-king-in-the-mountain.json) |
+| King in Yellow: Endless Sex Drama | 301647 | [301647-king-in-yellow-endless-sex-drama.json](./301647-king-in-yellow-endless-sex-drama.json) |
 | King Island 2 | 292534 | [292534-king-island-2.json](./292534-king-island-2.json) |
 | King James Bible DX | 358319 | [358319-king-james-bible-dx.json](./358319-king-james-bible-dx.json) |
 | King James Bible for Use on Game Boy | 79876 | [79876-king-james-bible-for-use-on-game-boy.json](./79876-king-james-bible-for-use-on-game-boy.json) |
@@ -2461,6 +2462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kiteretsu Daihyakka: Choujikuu Sugoroku | 37956 | [37956-kiteretsu-daihyakka-choujikuu-sugoroku.json](./37956-kiteretsu-daihyakka-choujikuu-sugoroku.json) |
 | Kiteretsu Daihyakka: Kiteretsu Toki Kyuushutsu Daisakusen Nari | 349444 | [349444-kiteretsu-daihyakka-kiteretsu-toki-kyuushutsu-daisakusen-nari.json](./349444-kiteretsu-daihyakka-kiteretsu-toki-kyuushutsu-daisakusen-nari.json) |
 | Kiteretsu Daihyakka: Koujiki Daihatsumei Nari | 349429 | [349429-kiteretsu-daihyakka-koujiki-daihatsumei-nari.json](./349429-kiteretsu-daihyakka-koujiki-daihatsumei-nari.json) |
+| Kiteretsu Soudan Dial: Heard Mikaishuu Kaii nomi Shutsugen | 301623 | [301623-kiteretsu-soudan-dial-heard-mikaishuu-kaii-nomi-shutsugen.json](./301623-kiteretsu-soudan-dial-heard-mikaishuu-kaii-nomi-shutsugen.json) |
 | Kitesurf Runner | 304379 | [304379-kitesurf-runner.json](./304379-kitesurf-runner.json) |
 | Kiting Mechanics | 239739 | [239739-kiting-mechanics.json](./239739-kiting-mechanics.json) |
 | Kitiplant | 291721 | [291721-kitiplant.json](./291721-kitiplant.json) |
