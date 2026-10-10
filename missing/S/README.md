@@ -1036,6 +1036,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sangoku Rensenki: Omoide Gaeshi + Gakuen Rensenki | 222246 | [222246-sangoku-rensenki-omoide-gaeshi-gakuen-rensenki.json](./222246-sangoku-rensenki-omoide-gaeshi-gakuen-rensenki.json) |
 | Sangoku Stories Ten | 222510 | [222510-sangoku-stories-ten.json](./222510-sangoku-stories-ten.json) |
 | Sangoku Xiangqi | 259096 | [259096-sangoku-xiangqi.json](./259096-sangoku-xiangqi.json) |
+| Sangoku-hime 2: Kouki Houkou, Mezameshi Taiga | 313993 | [313993-sangoku-hime-2-kouki-houkou-mezameshi-taiga.json](./313993-sangoku-hime-2-kouki-houkou-mezameshi-taiga.json) |
+| Sangoku-hime 2: Tenka Hatou, Shishi no Keishousha | 313994 | [313994-sangoku-hime-2-tenka-hatou-shishi-no-keishousha.json](./313994-sangoku-hime-2-tenka-hatou-shishi-no-keishousha.json) |
+| Sangoku-hime 4: Souha Hyakkei, Hanamamoru Chikai | 313995 | [313995-sangoku-hime-4-souha-hyakkei-hanamamoru-chikai.json](./313995-sangoku-hime-4-souha-hyakkei-hanamamoru-chikai.json) |
 | Sangokushi 11: Power Up Kit | 350410 | [350410-sangokushi-11-power-up-kit.json](./350410-sangokushi-11-power-up-kit.json) |
 | Sangokushi 12: Power Up Kit | 350585 | [350585-sangokushi-12-power-up-kit.json](./350585-sangokushi-12-power-up-kit.json) |
 | Sangokushi Dice | 196600 | [196600-sangokushi-dice.json](./196600-sangokushi-dice.json) |
@@ -1317,6 +1320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Satisfaction Drone | 330340 | [330340-satisfaction-drone.json](./330340-satisfaction-drone.json) |
 | Satisfactory 1.1 | 402387 | [402387-satisfactory-1-1.json](./402387-satisfactory-1-1.json) |
 | Satisfactory 1.2 | 402388 | [402388-satisfactory-1-2.json](./402388-satisfactory-1-2.json) |
+| Satisfactory: 1.0 Update | 314012 | [314012-satisfactory-1-0-update.json](./314012-satisfactory-1-0-update.json) |
 | Satisfactory: Update 1 | 222879 | [222879-satisfactory-update-1.json](./222879-satisfactory-update-1.json) |
 | Satisfactory: Update 2 | 222878 | [222878-satisfactory-update-2.json](./222878-satisfactory-update-2.json) |
 | Satisfactory: Update 3 | 222865 | [222865-satisfactory-update-3.json](./222865-satisfactory-update-3.json) |
@@ -1814,6 +1818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SCHiM | 140799 | [140799-schim.json](./140799-schim.json) |
 | Schism | 260885 | [260885-schism.json](./260885-schism.json) |
 | Schism | 266227 | [266227-schism.json](./266227-schism.json) |
+| Schismo's Sideshow | 313985 | [313985-schismos-sideshow.json](./313985-schismos-sideshow.json) |
 | Schizo Dark | 368481 | [368481-schizo-dark.json](./368481-schizo-dark.json) |
 | Schizo Simulator | 133761 | [133761-schizo-simulator.json](./133761-schizo-simulator.json) |
 | Schizofrenia | 78890 | [78890-schizofrenia.json](./78890-schizofrenia.json) |
@@ -4963,6 +4968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shields Up! VR | 102196 | [102196-shields-up-vr.json](./102196-shields-up-vr.json) |
 | Shieldwall Chronicles | 197769 | [197769-shieldwall-chronicles.json](./197769-shieldwall-chronicles.json) |
 | Shieldwall Chronicles: Swords of the North | 112849 | [112849-shieldwall-chronicles-swords-of-the-north.json](./112849-shieldwall-chronicles-swords-of-the-north.json) |
+| Shien Mogui | 313957 | [313957-shien-mogui.json](./313957-shien-mogui.json) |
 | Shien's Revenge | 20173 | [20173-shiens-revenge.json](./20173-shiens-revenge.json) |
 | Shienryu | 92074 | [92074-shienryu.json](./92074-shienryu.json) |
 | Shieven | 330376 | [330376-shieven.json](./330376-shieven.json) |
@@ -8806,6 +8812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smithy Shop | 236538 | [236538-smithy-shop.json](./236538-smithy-shop.json) |
 | SMOD Troopers | 312617 | [312617-smod-troopers.json](./312617-smod-troopers.json) |
 | SMOD: Outbreak | 312616 | [312616-smod-outbreak.json](./312616-smod-outbreak.json) |
+| Smog City | 313958 | [313958-smog-city.json](./313958-smog-city.json) |
 | Smogland | 44095 | [44095-smogland.json](./44095-smogland.json) |
 | Smok: Legend of the Laid-Back Heroes | 216298 | [216298-smok-legend-of-the-laid-back-heroes.json](./216298-smok-legend-of-the-laid-back-heroes.json) |
 | Smoke and Mirrors | 356784 | [356784-smoke-and-mirrors.json](./356784-smoke-and-mirrors.json) |
@@ -10020,6 +10027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire | 243634 | [243634-solitaire.json](./243634-solitaire.json) |
 | Solitaire | 243701 | [243701-solitaire.json](./243701-solitaire.json) |
 | Solitaire | 246627 | [246627-solitaire.json](./246627-solitaire.json) |
+| Solitaire | 313972 | [313972-solitaire.json](./313972-solitaire.json) |
 | Solitaire | 80744 | [80744-solitaire.json](./80744-solitaire.json) |
 | Solitaire | 86374 | [86374-solitaire.json](./86374-solitaire.json) |
 | Solitaire - Classic Game | 91123 | [91123-solitaire-classic-game.json](./91123-solitaire-classic-game.json) |
@@ -14730,6 +14738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Legacy VR | 261782 | [261782-star-legacy-vr.json](./261782-star-legacy-vr.json) |
 | Star Legends Pro (Dreamsky) | 97168 | [97168-star-legends-pro-dreamsky.json](./97168-star-legends-pro-dreamsky.json) |
 | Star Light | 100271 | [100271-star-light.json](./100271-star-light.json) |
+| Star Light Dynamics | 313961 | [313961-star-light-dynamics.json](./313961-star-light-dynamics.json) |
 | Star Loot | 348259 | [348259-star-loot.json](./348259-star-loot.json) |
 | Star Made | 50812 | [50812-star-made.json](./50812-star-made.json) |
 | Star Maidens Chronicle: Definitive Edition | 169368 | [169368-star-maidens-chronicle-definitive-edition.json](./169368-star-maidens-chronicle-definitive-edition.json) |
@@ -15938,6 +15947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SteamCity Chronicles: Rise of the Rose | 123959 | [123959-steamcity-chronicles-rise-of-the-rose.json](./123959-steamcity-chronicles-rise-of-the-rose.json) |
 | SteamDolls | 33028 | [33028-steamdolls.json](./33028-steamdolls.json) |
 | SteamDolls: Order of Chaos | 124261 | [124261-steamdolls-order-of-chaos.json](./124261-steamdolls-order-of-chaos.json) |
+| Steamed Hams, but it's RPGMaker2003! | 314002 | [314002-steamed-hams-but-its-rpgmaker2003.json](./314002-steamed-hams-but-its-rpgmaker2003.json) |
 | Steamed Hams: The Graphic Adventure | 188591 | [188591-steamed-hams-the-graphic-adventure.json](./188591-steamed-hams-the-graphic-adventure.json) |
 | Steamfarer | 13169 | [13169-steamfarer.json](./13169-steamfarer.json) |
 | SteamForge | 339666 | [339666-steamforge.json](./339666-steamforge.json) |
@@ -18942,6 +18952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Dash | 302361 | [302361-super-dash.json](./302361-super-dash.json) |
 | Super Dash Ball | 286634 | [286634-super-dash-ball.json](./286634-super-dash-ball.json) |
 | Super Dashmatch | 95586 | [95586-super-dashmatch.json](./95586-super-dashmatch.json) |
+| Super Dassalo Land | 313971 | [313971-super-dassalo-land.json](./313971-super-dassalo-land.json) |
 | Super Dead Rising 3 Arcade Remix | 21879 | [21879-super-dead-rising-3-arcade-remix.json](./21879-super-dead-rising-3-arcade-remix.json) |
 | Super Death Arena | 30126 | [30126-super-death-arena.json](./30126-super-death-arena.json) |
 | Super Demo World: The Legend Continues | 198224 | [198224-super-demo-world-the-legend-continues.json](./198224-super-demo-world-the-legend-continues.json) |
