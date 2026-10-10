@@ -2249,6 +2249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teeto | 285987 | [285987-teeto.json](./285987-teeto.json) |
 | Teeworlds | 35005 | [35005-teeworlds.json](./35005-teeworlds.json) |
 | Tegra: Post Apocalypse Survival | 231886 | [231886-tegra-post-apocalypse-survival.json](./231886-tegra-post-apocalypse-survival.json) |
+| Tegzer | 288691 | [288691-tegzer.json](./288691-tegzer.json) |
 | Teh Scrunglybois: Working Title | 382920 | [382920-teh-scrunglybois-working-title.json](./382920-teh-scrunglybois-working-title.json) |
 | Tehkan World Cup | 39502 | [39502-tehkan-world-cup.json](./39502-tehkan-world-cup.json) |
 | Tehnodrom | 305968 | [305968-tehnodrom.json](./305968-tehnodrom.json) |
@@ -5220,6 +5221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Devil's Garden | 105280 | [105280-the-devils-garden.json](./105280-the-devils-garden.json) |
 | The Devil's Gospel | 184448 | [184448-the-devils-gospel.json](./184448-the-devils-gospel.json) |
 | The Devil's Men | 7613 | [7613-the-devils-men.json](./7613-the-devils-men.json) |
+| The Devil's Route | 288698 | [288698-the-devils-route.json](./288698-the-devils-route.json) |
 | The Devilry Reservation | 239673 | [239673-the-devilry-reservation.json](./239673-the-devilry-reservation.json) |
 | The Devilry Reservation 2 | 356599 | [356599-the-devilry-reservation-2.json](./356599-the-devilry-reservation-2.json) |
 | The Devilry Reservation: Сhapter II | 263036 | [263036-the-devilry-reservation-hapter-ii.json](./263036-the-devilry-reservation-hapter-ii.json) |
@@ -7929,6 +7931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Zelda: The Hylian Frontier | 324002 | [324002-the-legend-of-zelda-the-hylian-frontier.json](./324002-the-legend-of-zelda-the-hylian-frontier.json) |
 | The Legend of Zelda: The Hylian Phoenix | 324012 | [324012-the-legend-of-zelda-the-hylian-phoenix.json](./324012-the-legend-of-zelda-the-hylian-phoenix.json) |
 | The Legend of Zelda: The Mini Quest | 275620 | [275620-the-legend-of-zelda-the-mini-quest.json](./275620-the-legend-of-zelda-the-mini-quest.json) |
+| The Legend of Zelda: The Minish Cap Randomizer | 288697 | [288697-the-legend-of-zelda-the-minish-cap-randomizer.json](./288697-the-legend-of-zelda-the-minish-cap-randomizer.json) |
 | The Legend of Zelda: The Missing Link | 136392 | [136392-the-legend-of-zelda-the-missing-link.json](./136392-the-legend-of-zelda-the-missing-link.json) |
 | The Legend of Zelda: The Shadowgazer | 323364 | [323364-the-legend-of-zelda-the-shadowgazer.json](./323364-the-legend-of-zelda-the-shadowgazer.json) |
 | The Legend of Zelda: The Wind Waker - Limited Edition | 239007 | [239007-the-legend-of-zelda-the-wind-waker-limited-edition.json](./239007-the-legend-of-zelda-the-wind-waker-limited-edition.json) |
@@ -8574,6 +8577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mirst | 206707 | [206707-the-mirst.json](./206707-the-mirst.json) |
 | The Misadventure of Melon | 120946 | [120946-the-misadventure-of-melon.json](./120946-the-misadventure-of-melon.json) |
 | The Misadventures of Denniz & Diana | 113050 | [113050-the-misadventures-of-denniz-and-diana.json](./113050-the-misadventures-of-denniz-and-diana.json) |
+| The Misadventures of Sigfreid the Dark Elf on Tuesday Night | 288648 | [288648-the-misadventures-of-sigfreid-the-dark-elf-on-tuesday-night.json](./288648-the-misadventures-of-sigfreid-the-dark-elf-on-tuesday-night.json) |
 | The Misadventures of Sir Randolph Doogleberry, British Explorer | 91429 | [91429-the-misadventures-of-sir-randolph-doogleberry-british-explorer.json](./91429-the-misadventures-of-sir-randolph-doogleberry-british-explorer.json) |
 | The Misadventures of Tron Bonne | 1753 | [1753-the-misadventures-of-tron-bonne.json](./1753-the-misadventures-of-tron-bonne.json) |
 | The MisAdventures of Xenos | 241422 | [241422-the-misadventures-of-xenos.json](./241422-the-misadventures-of-xenos.json) |
@@ -9309,6 +9313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The power of chaos | 118369 | [118369-the-power-of-chaos.json](./118369-the-power-of-chaos.json) |
 | The Power of Fish | 382321 | [382321-the-power-of-fish.json](./382321-the-power-of-fish.json) |
 | The Power of Love | 101934 | [101934-the-power-of-love.json](./101934-the-power-of-love.json) |
+| The Powermon Adventure! | 288676 | [288676-the-powermon-adventure.json](./288676-the-powermon-adventure.json) |
 | The Powerpuff Girls | 217930 | [217930-the-powerpuff-girls.json](./217930-the-powerpuff-girls.json) |
 | The Powerpuff Girls: Battle HIM | 49832 | [49832-the-powerpuff-girls-battle-him.json](./49832-the-powerpuff-girls-battle-him.json) |
 | The Powerpuff Girls: Chemical X-Traction | 19421 | [19421-the-powerpuff-girls-chemical-x-traction.json](./19421-the-powerpuff-girls-chemical-x-traction.json) |
@@ -9886,6 +9891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Screen | 369116 | [369116-the-screen.json](./369116-the-screen.json) |
 | The Scroll of Akbar Khan | 232553 | [232553-the-scroll-of-akbar-khan.json](./232553-the-scroll-of-akbar-khan.json) |
 | The Scroll of Black Loong | 298422 | [298422-the-scroll-of-black-loong.json](./298422-the-scroll-of-black-loong.json) |
+| The Scrolling Enigma | 288685 | [288685-the-scrolling-enigma.json](./288685-the-scrolling-enigma.json) |
 | The Scruffs | 73776 | [73776-the-scruffs.json](./73776-the-scruffs.json) |
 | The Scrungeon Depths | 74471 | [74471-the-scrungeon-depths.json](./74471-the-scrungeon-depths.json) |
 | The Sea Has No Claim | 185646 | [185646-the-sea-has-no-claim.json](./185646-the-sea-has-no-claim.json) |
@@ -11795,6 +11801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The White Prison | 262912 | [262912-the-white-prison.json](./262912-the-white-prison.json) |
 | The White Room | 309856 | [309856-the-white-room.json](./309856-the-white-room.json) |
 | The White Wolf of Lokken Mountain | 388321 | [388321-the-white-wolf-of-lokken-mountain.json](./388321-the-white-wolf-of-lokken-mountain.json) |
+| The Whiteout | 288690 | [288690-the-whiteout.json](./288690-the-whiteout.json) |
 | The Whitetail Incident | 159280 | [159280-the-whitetail-incident.json](./159280-the-whitetail-incident.json) |
 | The Whittled Horse | 309461 | [309461-the-whittled-horse.json](./309461-the-whittled-horse.json) |
 | The Whole World is in Check | 185017 | [185017-the-whole-world-is-in-check.json](./185017-the-whole-world-is-in-check.json) |
@@ -19191,6 +19198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Triversal | 143605 | [143605-triversal.json](./143605-triversal.json) |
 | Trivia | 110820 | [110820-trivia.json](./110820-trivia.json) |
 | Trivia 101 | 95590 | [95590-trivia-101.json](./95590-trivia-101.json) |
+| Trivia Beta64 Party | 288704 | [288704-trivia-beta64-party.json](./288704-trivia-beta64-party.json) |
 | Trivia Crack Adventure | 208370 | [208370-trivia-crack-adventure.json](./208370-trivia-crack-adventure.json) |
 | Trivia Crack Explorer | 208369 | [208369-trivia-crack-explorer.json](./208369-trivia-crack-explorer.json) |
 | Trivia Fantasy | 370767 | [370767-trivia-fantasy.json](./370767-trivia-fantasy.json) |
