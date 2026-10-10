@@ -230,6 +230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 10 in 1 games Bundle | 284955 | [284955-10-in-1-games-bundle.json](./284955-10-in-1-games-bundle.json) |
 | 10 Levels: 10 Monsters | 262292 | [262292-10-levels-10-monsters.json](./262292-10-levels-10-monsters.json) |
 | 10 Lines Hero | 296018 | [296018-10-lines-hero.json](./296018-10-lines-hero.json) |
+| 10 Lines Princess | 296223 | [296223-10-lines-princess.json](./296223-10-lines-princess.json) |
 | 10 Little Robots | 76621 | [76621-10-little-robots.json](./76621-10-little-robots.json) |
 | 10 Miles to Safety | 122809 | [122809-10-miles-to-safety.json](./122809-10-miles-to-safety.json) |
 | 10 Million Pixels | 413109 | [413109-10-million-pixels.json](./413109-10-million-pixels.json) |
@@ -1433,6 +1434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3X3 Puzzle | 249269 | [249269-3x3-puzzle.json](./249269-3x3-puzzle.json) |
 | 3x3: Take Two | 312889 | [312889-3x3-take-two.json](./312889-3x3-take-two.json) |
 | 3x3x3: A Mermaid's Tale | 128611 | [128611-3x3x3-a-mermaids-tale.json](./128611-3x3x3-a-mermaids-tale.json) |
+| 3x9 Kingdom: Road of Adventures | 296229 | [296229-3x9-kingdom-road-of-adventures.json](./296229-3x9-kingdom-road-of-adventures.json) |
 | 4 Action Hits Collection | 420699 | [420699-4-action-hits-collection.json](./420699-4-action-hits-collection.json) |
 | 4 Alice : Lorange Journey | 76508 | [76508-4-alice-lorange-journey.json](./76508-4-alice-lorange-journey.json) |
 | 4 Colors Classic Multiplayer | 202767 | [202767-4-colors-classic-multiplayer.json](./202767-4-colors-classic-multiplayer.json) |
