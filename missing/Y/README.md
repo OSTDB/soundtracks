@@ -276,6 +276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Year 500 | 248046 | [248046-year-500.json](./248046-year-500.json) |
 | Year of the Ladybug: Season 1 | 337765 | [337765-year-of-the-ladybug-season-1.json](./337765-year-of-the-ladybug-season-1.json) |
 | Year Walk | 21893 | [21893-year-walk.json](./21893-year-walk.json) |
+| Year3055 | 284831 | [284831-year3055.json](./284831-year3055.json) |
 | Yeardle | 200664 | [200664-yeardle.json](./200664-yeardle.json) |
 | Yearn 2 Learn | 93385 | [93385-yearn-2-learn.json](./93385-yearn-2-learn.json) |
 | Yearn Tyrant's Conquest | 96211 | [96211-yearn-tyrants-conquest.json](./96211-yearn-tyrants-conquest.json) |
