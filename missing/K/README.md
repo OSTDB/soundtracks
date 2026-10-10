@@ -1560,6 +1560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Killbox | 304728 | [304728-killbox.json](./304728-killbox.json) |
 | Killbox | 55702 | [55702-killbox.json](./55702-killbox.json) |
 | Killcolor | 296925 | [296925-killcolor.json](./296925-killcolor.json) |
+| Killdozer Simulator | 291386 | [291386-killdozer-simulator.json](./291386-killdozer-simulator.json) |
 | Killed by Love 99 Times | 368015 | [368015-killed-by-love-99-times.json](./368015-killed-by-love-99-times.json) |
 | Killed Until Dead | 12358 | [12358-killed-until-dead.json](./12358-killed-until-dead.json) |
 | Killego | 384097 | [384097-killego.json](./384097-killego.json) |
