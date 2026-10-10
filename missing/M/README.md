@@ -4764,6 +4764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man VI SNES | 377751 | [377751-mega-man-vi-snes.json](./377751-mega-man-vi-snes.json) |
 | Mega Man W | 403215 | [403215-mega-man-w.json](./403215-mega-man-w.json) |
 | Mega Man World 2 GBC Edition | 306589 | [306589-mega-man-world-2-gbc-edition.json](./306589-mega-man-world-2-gbc-edition.json) |
+| Mega Man World 3 DX | 315770 | [315770-mega-man-world-3-dx.json](./315770-mega-man-world-3-dx.json) |
 | Mega Man X Alpha | 222928 | [222928-mega-man-x-alpha.json](./222928-mega-man-x-alpha.json) |
 | Mega Man X Alpha Kaizo | 268419 | [268419-mega-man-x-alpha-kaizo.json](./268419-mega-man-x-alpha-kaizo.json) |
 | Mega Man X Collection | 4001 | [4001-mega-man-x-collection.json](./4001-mega-man-x-collection.json) |
@@ -10057,6 +10058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moon Village | 119639 | [119639-moon-village.json](./119639-moon-village.json) |
 | Moon Waltz | 201291 | [201291-moon-waltz.json](./201291-moon-waltz.json) |
 | Moon Wars | 287233 | [287233-moon-wars.json](./287233-moon-wars.json) |
+| Moon Watch | 315789 | [315789-moon-watch.json](./315789-moon-watch.json) |
 | Moon Whistle | 166142 | [166142-moon-whistle.json](./166142-moon-whistle.json) |
 | Moon: Premium Edition | 136965 | [136965-moon-premium-edition.json](./136965-moon-premium-edition.json) |
 | Moon: The Final Word | 21222 | [21222-moon-the-final-word.json](./21222-moon-the-final-word.json) |
