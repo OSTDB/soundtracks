@@ -1658,6 +1658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nephise: Ascension | 88057 | [88057-nephise-ascension.json](./88057-nephise-ascension.json) |
 | NEPO Missions | 374410 | [374410-nepo-missions.json](./374410-nepo-missions.json) |
 | Neppachi: 10-renchan de Las Vegas Ryokou | 272455 | [272455-neppachi-10-renchan-de-las-vegas-ryokou.json](./272455-neppachi-10-renchan-de-las-vegas-ryokou.json) |
+| Neptune | 313451 | [313451-neptune.json](./313451-neptune.json) |
 | Neptune | 363812 | [363812-neptune.json](./363812-neptune.json) |
 | Neptune Island | 319796 | [319796-neptune-island.json](./319796-neptune-island.json) |
 | Neptune Spear | 371424 | [371424-neptune-spear.json](./371424-neptune-spear.json) |
@@ -2069,11 +2070,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Super Mario Bros. U but the Floor is Lava | 230760 | [230760-new-super-mario-bros-u-but-the-floor-is-lava.json](./230760-new-super-mario-bros-u-but-the-floor-is-lava.json) |
 | New Super Mario Bros. U Deluxe | 109457 | [109457-new-super-mario-bros-u-deluxe.json](./109457-new-super-mario-bros-u-deluxe.json) |
 | New Super Mario Bros. U Deluxe: Spot the Difference | 246453 | [246453-new-super-mario-bros-u-deluxe-spot-the-difference.json](./246453-new-super-mario-bros-u-deluxe-spot-the-difference.json) |
+| New Super Mario Bros. U: Insane Edition | 313426 | [313426-new-super-mario-bros-u-insane-edition.json](./313426-new-super-mario-bros-u-insane-edition.json) |
 | New Super Mario Bros. Versus: Cubby's Character Mod | 243978 | [243978-new-super-mario-bros-versus-cubbys-character-mod.json](./243978-new-super-mario-bros-versus-cubbys-character-mod.json) |
 | New Super Mario Bros. Versus: Steve's Map Pack | 243976 | [243976-new-super-mario-bros-versus-steves-map-pack.json](./243976-new-super-mario-bros-versus-steves-map-pack.json) |
 | New Super Mario Bros. Wii 2: The Next Levels | 230246 | [230246-new-super-mario-bros-wii-2-the-next-levels.json](./230246-new-super-mario-bros-wii-2-the-next-levels.json) |
 | New Super Mario Bros. Wii Coin World | 132003 | [132003-new-super-mario-bros-wii-coin-world.json](./132003-new-super-mario-bros-wii-coin-world.json) |
 | New Super Mario Bros. Wii DS | 230759 | [230759-new-super-mario-bros-wii-ds.json](./230759-new-super-mario-bros-wii-ds.json) |
+| New Super Mario Bros. Wii: The Prankster Comets | 313432 | [313432-new-super-mario-bros-wii-the-prankster-comets.json](./313432-new-super-mario-bros-wii-the-prankster-comets.json) |
 | New Super Mario Bros.: 1-Up Hunt! | 231648 | [231648-new-super-mario-bros-1-up-hunt.json](./231648-new-super-mario-bros-1-up-hunt.json) |
 | New Super Mario Kart | 250049 | [250049-new-super-mario-kart.json](./250049-new-super-mario-kart.json) |
 | New Super Mario Land | 132641 | [132641-new-super-mario-land.json](./132641-new-super-mario-land.json) |
