@@ -1889,6 +1889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | School of Chaos Online MMORPG | 172545 | [172545-school-of-chaos-online-mmorpg.json](./172545-school-of-chaos-online-mmorpg.json) |
 | School of Dragons: How to Train Your Dragon | 36191 | [36191-school-of-dragons-how-to-train-your-dragon.json](./36191-school-of-dragons-how-to-train-your-dragon.json) |
 | School of Horror | 104148 | [104148-school-of-horror.json](./104148-school-of-horror.json) |
+| School Of Love: Clubs! | 290305 | [290305-school-of-love-clubs.json](./290305-school-of-love-clubs.json) |
 | School of Talent: Suzu-Route | 29932 | [29932-school-of-talent-suzu-route.json](./29932-school-of-talent-suzu-route.json) |
 | School Out Simulator2 | 296443 | [296443-school-out-simulator2.json](./296443-school-out-simulator2.json) |
 | School Out Simulator3 | 296444 | [296444-school-out-simulator3.json](./296444-school-out-simulator3.json) |
@@ -16994,6 +16995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Story of Seasons: Project You can Play with Everyone | 250921 | [250921-story-of-seasons-project-you-can-play-with-everyone.json](./250921-story-of-seasons-project-you-can-play-with-everyone.json) |
 | Story of Seasons: Untitled 2024 | 303822 | [303822-story-of-seasons-untitled-2024.json](./303822-story-of-seasons-untitled-2024.json) |
 | Story of the Green Dragon | 109869 | [109869-story-of-the-green-dragon.json](./109869-story-of-the-green-dragon.json) |
+| Story of the Mirror | 290346 | [290346-story-of-the-mirror.json](./290346-story-of-the-mirror.json) |
 | Story of the Survivor | 33582 | [33582-story-of-the-survivor.json](./33582-story-of-the-survivor.json) |
 | Story of the Survivor: The Escape | 156154 | [156154-story-of-the-survivor-the-escape.json](./156154-story-of-the-survivor-the-escape.json) |
 | Story of You: The Allied Kingdoms | 193477 | [193477-story-of-you-the-allied-kingdoms.json](./193477-story-of-you-the-allied-kingdoms.json) |
@@ -19702,6 +19704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Bros. 3 Advance | 322002 | [322002-super-mario-bros-3-advance.json](./322002-super-mario-bros-3-advance.json) |
 | Super Mario Bros. 3 Game Watch | 172539 | [172539-super-mario-bros-3-game-watch.json](./172539-super-mario-bros-3-game-watch.json) |
 | Super Mario Bros. 3: The Lost Levels | 239902 | [239902-super-mario-bros-3-the-lost-levels.json](./239902-super-mario-bros-3-the-lost-levels.json) |
+| Super Mario Bros. 3: Xmas Edition | 290333 | [290333-super-mario-bros-3-xmas-edition.json](./290333-super-mario-bros-3-xmas-edition.json) |
 | Super Mario Bros. 3+ | 227896 | [227896-super-mario-bros-3.json](./227896-super-mario-bros-3.json) |
 | Super Mario Bros. 35 | 138235 | [138235-super-mario-bros-35.json](./138235-super-mario-bros-35.json) |
 | Super Mario Bros. 3Mix | 144986 | [144986-super-mario-bros-3mix.json](./144986-super-mario-bros-3mix.json) |
