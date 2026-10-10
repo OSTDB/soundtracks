@@ -94,6 +94,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | La Odisea del Fracaso II | 323355 | [323355-la-odisea-del-fracaso-ii.json](./323355-la-odisea-del-fracaso-ii.json) |
 | La Odisea del Fracaso III | 323540 | [323540-la-odisea-del-fracaso-iii.json](./323540-la-odisea-del-fracaso-iii.json) |
 | La Pasion XR | 341033 | [341033-la-pasion-xr.json](./341033-la-pasion-xr.json) |
+| La Patifferie | 307883 | [307883-la-patifferie.json](./307883-la-patifferie.json) |
 | La Peri | 33677 | [33677-la-peri.json](./33677-la-peri.json) |
 | La pesadilla de Illojuan | 302719 | [302719-la-pesadilla-de-illojuan.json](./302719-la-pesadilla-de-illojuan.json) |
 | La Pucelle Tactics | 6760 | [6760-la-pucelle-tactics.json](./6760-la-pucelle-tactics.json) |
