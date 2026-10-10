@@ -1279,6 +1279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Une affaire en or | 93012 | [93012-une-affaire-en-or.json](./93012-une-affaire-en-or.json) |
 | Unearned Bounty | 25715 | [25715-unearned-bounty.json](./25715-unearned-bounty.json) |
 | Unearth | 255974 | [255974-unearth.json](./255974-unearth.json) |
+| Unearthed | 323765 | [323765-unearthed.json](./323765-unearthed.json) |
 | Unearthed | 75400 | [75400-unearthed.json](./75400-unearthed.json) |
 | Unearthed Arsenal | 80237 | [80237-unearthed-arsenal.json](./80237-unearthed-arsenal.json) |
 | Unearthed Inc: The Lost Temple | 30644 | [30644-unearthed-inc-the-lost-temple.json](./30644-unearthed-inc-the-lost-temple.json) |
