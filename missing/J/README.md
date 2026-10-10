@@ -2481,6 +2481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Eat the Rich | 397920 | [397920-just-eat-the-rich.json](./397920-just-eat-the-rich.json) |
 | Just Fajitas | 108592 | [108592-just-fajitas.json](./108592-just-fajitas.json) |
 | Just Find It 2 | 256340 | [256340-just-find-it-2.json](./256340-just-find-it-2.json) |
+| Just Find It 4: Collector's Edition | 332495 | [332495-just-find-it-4-collectors-edition.json](./332495-just-find-it-4-collectors-edition.json) |
 | Just Fishing | 68764 | [68764-just-fishing.json](./68764-just-fishing.json) |
 | Just For Killing Time | 82791 | [82791-just-for-killing-time.json](./82791-just-for-killing-time.json) |
 | Just Forgot to Eat | 415507 | [415507-just-forgot-to-eat.json](./415507-just-forgot-to-eat.json) |
