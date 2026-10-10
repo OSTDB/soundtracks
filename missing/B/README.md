@@ -4683,6 +4683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bike Racer 2018 | 105866 | [105866-bike-racer-2018.json](./105866-bike-racer-2018.json) |
 | Bike Racing | 234695 | [234695-bike-racing.json](./234695-bike-racing.json) |
 | Bike Racing | 91109 | [91109-bike-racing.json](./91109-bike-racing.json) |
+| Bike Racing Moto Bike Games | 296768 | [296768-bike-racing-moto-bike-games.json](./296768-bike-racing-moto-bike-games.json) |
 | Bike Racing: Moto 2018 | 107102 | [107102-bike-racing-moto-2018.json](./107102-bike-racing-moto-2018.json) |
 | Bike Rampage! | 313776 | [313776-bike-rampage.json](./313776-bike-rampage.json) |
 | Bike Ride 3D | 283994 | [283994-bike-ride-3d.json](./283994-bike-ride-3d.json) |
@@ -10285,6 +10286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Builder Simulator | 121345 | [121345-builder-simulator.json](./121345-builder-simulator.json) |
 | Builder Simulator VR | 237080 | [237080-builder-simulator-vr.json](./237080-builder-simulator-vr.json) |
 | Builder: Don't Let me Fall | 137643 | [137643-builder-dont-let-me-fall.json](./137643-builder-dont-let-me-fall.json) |
+| Builderment Idle | 296795 | [296795-builderment-idle.json](./296795-builderment-idle.json) |
 | Builders of China | 139744 | [139744-builders-of-china.json](./139744-builders-of-china.json) |
 | Builders of Egypt | 120901 | [120901-builders-of-egypt.json](./120901-builders-of-egypt.json) |
 | Builders of Greece | 217337 | [217337-builders-of-greece.json](./217337-builders-of-greece.json) |
