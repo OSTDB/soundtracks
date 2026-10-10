@@ -435,6 +435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I.Q Mania | 72151 | [72151-i-q-mania.json](./72151-i-q-mania.json) |
 | I.Q Remix+: Intelligent Qube | 78295 | [78295-i-q-remix-intelligent-qube.json](./78295-i-q-remix-intelligent-qube.json) |
 | I.Rule | 208402 | [208402-i-rule.json](./208402-i-rule.json) |
+| I.S.I.S. | 316922 | [316922-i-s-i-s.json](./316922-i-s-i-s.json) |
 | I.T Never Ends | 388373 | [388373-i-t-never-ends.json](./388373-i-t-never-ends.json) |
 | I'd Kill You as a Worm | 331682 | [331682-id-kill-you-as-a-worm.json](./331682-id-kill-you-as-a-worm.json) |
 | I'd Kiss That Fish | 321616 | [321616-id-kiss-that-fish.json](./321616-id-kiss-that-fish.json) |
@@ -3974,6 +3975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It Devours Our Souls | 184956 | [184956-it-devours-our-souls.json](./184956-it-devours-our-souls.json) |
 | It Doesn't Have to Be Like This | 299125 | [299125-it-doesnt-have-to-be-like-this.json](./299125-it-doesnt-have-to-be-like-this.json) |
 | It Feeds | 207220 | [207220-it-feeds.json](./207220-it-feeds.json) |
+| It Fishes At Night | 316945 | [316945-it-fishes-at-night.json](./316945-it-fishes-at-night.json) |
 | It Girl | 338731 | [338731-it-girl.json](./338731-it-girl.json) |
 | It Goes Away in the End | 312920 | [312920-it-goes-away-in-the-end.json](./312920-it-goes-away-in-the-end.json) |
 | It Goes On | 360495 | [360495-it-goes-on.json](./360495-it-goes-on.json) |
