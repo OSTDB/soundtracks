@@ -2707,6 +2707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perfect World: Ascend | 333123 | [333123-perfect-world-ascend.json](./333123-perfect-world-ascend.json) |
 | Perfect! Pool | 93181 | [93181-perfect-pool.json](./93181-perfect-pool.json) |
 | Perfectdom | 403661 | [403661-perfectdom.json](./403661-perfectdom.json) |
+| Perfected Doom 3 | 330775 | [330775-perfected-doom-3.json](./330775-perfected-doom-3.json) |
 | Perfection | 239906 | [239906-perfection.json](./239906-perfection.json) |
 | Perfection of Wisdom | 35605 | [35605-perfection-of-wisdom.json](./35605-perfection-of-wisdom.json) |
 | Perfection. | 16621 | [16621-perfection.json](./16621-perfection.json) |
@@ -10445,6 +10446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puppet Master: The Game - Curse of the Puppet Master Skin Pack | 255241 | [255241-puppet-master-the-game-curse-of-the-puppet-master-skin-pack.json](./255241-puppet-master-the-game-curse-of-the-puppet-master-skin-pack.json) |
 | Puppet Master: The Game - Dark Horse Skins | 310023 | [310023-puppet-master-the-game-dark-horse-skins.json](./310023-puppet-master-the-game-dark-horse-skins.json) |
 | Puppet Master: The Game - Movie Edition Blade + Execution | 278400 | [278400-puppet-master-the-game-movie-edition-blade-execution.json](./278400-puppet-master-the-game-movie-edition-blade-execution.json) |
+| Puppet Saurus | 330793 | [330793-puppet-saurus.json](./330793-puppet-saurus.json) |
 | Puppet Seed | 349954 | [349954-puppet-seed.json](./349954-puppet-seed.json) |
 | Puppet Tale | 242814 | [242814-puppet-tale.json](./242814-puppet-tale.json) |
 | Puppet Team | 332982 | [332982-puppet-team.json](./332982-puppet-team.json) |
