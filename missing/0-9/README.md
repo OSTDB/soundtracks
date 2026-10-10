@@ -50,6 +50,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | .Hack//Outbreak | 11809 | [11809-hack-outbreak.json](./11809-hack-outbreak.json) |
 | .Hack//Quarantine | 11810 | [11810-hack-quarantine.json](./11810-hack-quarantine.json) |
 | .hack//Versus | 65212 | [65212-hack-versus.json](./65212-hack-versus.json) |
+| .Hack//Vol. 1 LG-Telecom | 300505 | [300505-hack-vol-1-lg-telecom.json](./300505-hack-vol-1-lg-telecom.json) |
 | .Hack//Z.E.R.O. | 390544 | [390544-hack-z-e-r-o.json](./390544-hack-z-e-r-o.json) |
 | .Headspace | 374425 | [374425-headspace.json](./374425-headspace.json) |
 | .kkrieger: Chapter 1 | 94683 | [94683-kkrieger-chapter-1.json](./94683-kkrieger-chapter-1.json) |
@@ -1229,6 +1230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 346469 | 362747 | [362747-346469.json](./362747-346469.json) |
 | 346470 | 362745 | [362745-346470.json](./362745-346470.json) |
 | 346471 | 362746 | [362746-346471.json](./362746-346471.json) |
+| 35 Card Solitaire | 300519 | [300519-35-card-solitaire.json](./300519-35-card-solitaire.json) |
 | 35 Electric | 382899 | [382899-35-electric.json](./382899-35-electric.json) |
 | 3594e: Sangokushi Eiga | 80633 | [80633-3594e-sangokushi-eiga.json](./80633-3594e-sangokushi-eiga.json) |
 | 35MM | 19396 | [19396-35mm.json](./19396-35mm.json) |
@@ -1523,6 +1525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 4A Flyer | 377833 | [377833-4a-flyer.json](./377833-4a-flyer.json) |
 | 4Below | 389691 | [389691-4below.json](./389691-4below.json) |
 | 4D Golf | 219511 | [219511-4d-golf.json](./219511-4d-golf.json) |
+| 4D Prince of Persia | 300521 | [300521-4d-prince-of-persia.json](./300521-4d-prince-of-persia.json) |
 | 4D Sports Tennis | 73308 | [73308-4d-sports-tennis.json](./73308-4d-sports-tennis.json) |
 | 4Fools1 | 349958 | [349958-4fools1.json](./349958-4fools1.json) |
 | 4in1: Bomb Disposer/Armour Force/Black Forest Tale/2nd Space | 77296 | [77296-4in1-bomb-disposer-armour-force-black-forest-tale-2nd-space.json](./77296-4in1-bomb-disposer-armour-force-black-forest-tale-2nd-space.json) |
