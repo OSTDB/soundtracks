@@ -10480,6 +10480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Punch Bomb | 31852 | [31852-punch-bomb.json](./31852-punch-bomb.json) |
 | Punch Boy | 83212 | [83212-punch-boy.json](./83212-punch-boy.json) |
 | Punch Chess | 332237 | [332237-punch-chess.json](./332237-punch-chess.json) |
+| Punch Club 2: Complete Edition | 309630 | [309630-punch-club-2-complete-edition.json](./309630-punch-club-2-complete-edition.json) |
 | Punch Club 2: Fast Forward | 55916 | [55916-punch-club-2-fast-forward.json](./55916-punch-club-2-fast-forward.json) |
 | Punch Club 2: Iron Fist | 301931 | [301931-punch-club-2-iron-fist.json](./301931-punch-club-2-iron-fist.json) |
 | Punch Club: Deluxe Edition | 51882 | [51882-punch-club-deluxe-edition.json](./51882-punch-club-deluxe-edition.json) |
