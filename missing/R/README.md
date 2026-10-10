@@ -707,6 +707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Railgunners | 74440 | [74440-railgunners.json](./74440-railgunners.json) |
 | Railink | 329107 | [329107-railink.json](./329107-railink.json) |
 | RailKing's Model Railroad Simulator | 80190 | [80190-railkings-model-railroad-simulator.json](./80190-railkings-model-railroad-simulator.json) |
+| Railpunk Mayhem | 292426 | [292426-railpunk-mayhem.json](./292426-railpunk-mayhem.json) |
 | RaiLRhythm | 312147 | [312147-railrhythm.json](./312147-railrhythm.json) |
 | Railroad Corporation | 112362 | [112362-railroad-corporation.json](./112362-railroad-corporation.json) |
 | Railroad Corporation 2 | 190449 | [190449-railroad-corporation-2.json](./190449-railroad-corporation-2.json) |
@@ -4618,6 +4619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rightfully, Beary Arms | 197126 | [197126-rightfully-beary-arms.json](./197126-rightfully-beary-arms.json) |
 | Rights of Progression | 229921 | [229921-rights-of-progression.json](./229921-rights-of-progression.json) |
 | Righty Tighty XL | 99653 | [99653-righty-tighty-xl.json](./99653-righty-tighty-xl.json) |
+| Rigid | 292447 | [292447-rigid.json](./292447-rigid.json) |
 | Rigid Chess | 117792 | [117792-rigid-chess.json](./117792-rigid-chess.json) |
 | Rigid Force Redux | 134368 | [134368-rigid-force-redux.json](./134368-rigid-force-redux.json) |
 | Rigid Memory | 205107 | [205107-rigid-memory.json](./205107-rigid-memory.json) |
@@ -6966,6 +6968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Route-16 Collection | 411156 | [411156-route-16-collection.json](./411156-route-16-collection.json) |
 | Route-16 Turbo | 411159 | [411159-route-16-turbo.json](./411159-route-16-turbo.json) |
 | Route-16: R | 411158 | [411158-route-16-r.json](./411158-route-16-r.json) |
+| Route8 | 292412 | [292412-route8.json](./292412-route8.json) |
 | Routemania | 221114 | [221114-routemania.json](./221114-routemania.json) |
 | Router | 68936 | [68936-router.json](./68936-router.json) |
 | Routes | 112509 | [112509-routes.json](./112509-routes.json) |
