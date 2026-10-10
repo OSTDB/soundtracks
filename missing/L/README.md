@@ -526,6 +526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laney, This Won’t Make You Happier | 400973 | [400973-laney-this-won-t-make-you-happier.json](./400973-laney-this-won-t-make-you-happier.json) |
 | Lang Ops: Blank Canvas | 403126 | [403126-lang-ops-blank-canvas.json](./403126-lang-ops-blank-canvas.json) |
 | Lang Ops: Corrupted Files | 403125 | [403125-lang-ops-corrupted-files.json](./403125-lang-ops-corrupted-files.json) |
+| Lang Ops: Greek | 289237 | [289237-lang-ops-greek.json](./289237-lang-ops-greek.json) |
 | Langit Lupa: Office Wars | 382390 | [382390-langit-lupa-office-wars.json](./382390-langit-lupa-office-wars.json) |
 | Làngjì Sānguó | 150636 | [150636-langji-sanguo.json](./150636-langji-sanguo.json) |
 | Langoth | 29756 | [29756-langoth.json](./29756-langoth.json) |
@@ -4409,6 +4410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lone Hero Path | 292416 | [292416-lone-hero-path.json](./292416-lone-hero-path.json) |
 | Lone King | 151046 | [151046-lone-king.json](./151046-lone-king.json) |
 | Lone Labyrinth: Burden of the Just | 352246 | [352246-lone-labyrinth-burden-of-the-just.json](./352246-lone-labyrinth-burden-of-the-just.json) |
+| Lone Lamp | 289239 | [289239-lone-lamp.json](./289239-lone-lamp.json) |
 | Lone McLonegan : A Western Adventure | 153926 | [153926-lone-mclonegan-a-western-adventure.json](./153926-lone-mclonegan-a-western-adventure.json) |
 | Lone Pine | 373641 | [373641-lone-pine.json](./373641-lone-pine.json) |
 | Lone Ruin | 204013 | [204013-lone-ruin.json](./204013-lone-ruin.json) |
@@ -5787,6 +5789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ludaro | 341535 | [341535-ludaro.json](./341535-ludaro.json) |
 | Ludical | 303817 | [303817-ludical.json](./303817-ludical.json) |
 | Ludicrium | 312924 | [312924-ludicrium.json](./312924-ludicrium.json) |
+| Ludicrous Leap | 289243 | [289243-ludicrous-leap.json](./289243-ludicrous-leap.json) |
 | Ludicrous Speed | 102162 | [102162-ludicrous-speed.json](./102162-ludicrous-speed.json) |
 | Ludo Anceint | 142938 | [142938-ludo-anceint.json](./142938-ludo-anceint.json) |
 | Ludo Blitz | 58751 | [58751-ludo-blitz.json](./58751-ludo-blitz.json) |
