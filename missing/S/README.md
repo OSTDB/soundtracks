@@ -10059,6 +10059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire: Classic Card Games | 357184 | [357184-solitaire-classic-card-games.json](./357184-solitaire-classic-card-games.json) |
 | Solitaire: Classic Klondike Card Game | 88289 | [88289-solitaire-classic-klondike-card-game.json](./88289-solitaire-classic-klondike-card-game.json) |
 | Solitaire: Decked Out | 133855 | [133855-solitaire-decked-out.json](./133855-solitaire-decked-out.json) |
+| Solitaire: Draw 1 - Draw 3 | 333120 | [333120-solitaire-draw-1-draw-3.json](./333120-solitaire-draw-1-draw-3.json) |
 | Solitaire: Jack Frost Winter Adventures | 99984 | [99984-solitaire-jack-frost-winter-adventures.json](./99984-solitaire-jack-frost-winter-adventures.json) |
 | Solitaire: Klondike Card Game | 88833 | [88833-solitaire-klondike-card-game.json](./88833-solitaire-klondike-card-game.json) |
 | Solitaire: Klondike Pro | 100998 | [100998-solitaire-klondike-pro.json](./100998-solitaire-klondike-pro.json) |
@@ -12424,6 +12425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spam Runner 2 | 379012 | [379012-spam-runner-2.json](./379012-spam-runner-2.json) |
 | Spam Text | 214196 | [214196-spam-text.json](./214196-spam-text.json) |
 | Spammerina | 309879 | [309879-spammerina.json](./309879-spammerina.json) |
+| Spamware | 333048 | [333048-spamware.json](./333048-spamware.json) |
 | Span of Dream | 400328 | [400328-span-of-dream.json](./400328-span-of-dream.json) |
 | Spangled | 243713 | [243713-spangled.json](./243713-spangled.json) |
 | Spanish 101 | 93542 | [93542-spanish-101.json](./93542-spanish-101.json) |
@@ -16056,6 +16058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stellar Rising | 395790 | [395790-stellar-rising.json](./395790-stellar-rising.json) |
 | Stellar Scrapm'n | 369009 | [369009-stellar-scrapmn.json](./369009-stellar-scrapmn.json) |
 | Stellar Settlers | 272276 | [272276-stellar-settlers.json](./272276-stellar-settlers.json) |
+| Stellar Shapers | 333033 | [333033-stellar-shapers.json](./333033-stellar-shapers.json) |
 | Stellar Shipyard | 388717 | [388717-stellar-shipyard.json](./388717-stellar-shipyard.json) |
 | Stellar Smooch | 60758 | [60758-stellar-smooch.json](./60758-stellar-smooch.json) |
 | Stellar Squad | 101738 | [101738-stellar-squad.json](./101738-stellar-squad.json) |
@@ -16853,6 +16856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strato Supremacy | 245853 | [245853-strato-supremacy.json](./245853-strato-supremacy.json) |
 | Strato-Spear | 268443 | [268443-strato-spear.json](./268443-strato-spear.json) |
 | StratoBash | 28764 | [28764-stratobash.json](./28764-stratobash.json) |
+| Stratogun | 333116 | [333116-stratogun.json](./333116-stratogun.json) |
 | Stratos | 24896 | [24896-stratos.json](./24896-stratos.json) |
 | Stratoskirmish | 234582 | [234582-stratoskirmish.json](./234582-stratoskirmish.json) |
 | Stratosphere Defense | 197856 | [197856-stratosphere-defense.json](./197856-stratosphere-defense.json) |
