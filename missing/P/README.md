@@ -984,6 +984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper Mario: Star Nova | 358284 | [358284-paper-mario-star-nova.json](./358284-paper-mario-star-nova.json) |
 | Paper Mario: Sticker Star | 3350 | [3350-paper-mario-sticker-star.json](./3350-paper-mario-sticker-star.json) |
 | Paper Mario: The Origami King Refolded | 281008 | [281008-paper-mario-the-origami-king-refolded.json](./281008-paper-mario-the-origami-king-refolded.json) |
+| Paper Mario: The Sparkling Lights | 323974 | [323974-paper-mario-the-sparkling-lights.json](./323974-paper-mario-the-sparkling-lights.json) |
 | Paper Mario: The Thousand-Year Door | 266690 | [266690-paper-mario-the-thousand-year-door.json](./266690-paper-mario-the-thousand-year-door.json) |
 | Paper Mario: The Thousand-Year Door | 328663 | [328663-paper-mario-the-thousand-year-door.json](./328663-paper-mario-the-thousand-year-door.json) |
 | Paper Mario: The Thousand-Year Door - Hero Mode | 257966 | [257966-paper-mario-the-thousand-year-door-hero-mode.json](./257966-paper-mario-the-thousand-year-door-hero-mode.json) |
@@ -6631,6 +6632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Blaze Black 2 | 137113 | [137113-pokemon-blaze-black-2.json](./137113-pokemon-blaze-black-2.json) |
 | Pokémon Blazed Glazed | 129808 | [129808-pokemon-blazed-glazed.json](./129808-pokemon-blazed-glazed.json) |
 | Pokémon Blooming Beast | 359976 | [359976-pokemon-blooming-beast.json](./359976-pokemon-blooming-beast.json) |
+| Pokémon Blue Chrome | 323763 | [323763-pokemon-blue-chrome.json](./323763-pokemon-blue-chrome.json) |
 | Pokemon Bois | 250467 | [250467-pokemon-bois.json](./250467-pokemon-bois.json) |
 | Pokémon Box: Ruby & Sapphire | 93046 | [93046-pokemon-box-ruby-and-sapphire.json](./93046-pokemon-box-ruby-and-sapphire.json) |
 | Pokemon Breeder | 196863 | [196863-pokemon-breeder.json](./196863-pokemon-breeder.json) |
@@ -6784,6 +6786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Infinity | 186130 | [186130-pokemon-infinity.json](./186130-pokemon-infinity.json) |
 | Pokémon Insurgence | 18989 | [18989-pokemon-insurgence.json](./18989-pokemon-insurgence.json) |
 | Pokémon Island | 202405 | [202405-pokemon-island.json](./202405-pokemon-island.json) |
+| Pokémon Island | 324004 | [324004-pokemon-island.json](./324004-pokemon-island.json) |
 | Pokémon Jade | 229095 | [229095-pokemon-jade.json](./229095-pokemon-jade.json) |
 | Pokemon Kaisen | 384836 | [384836-pokemon-kaisen.json](./384836-pokemon-kaisen.json) |
 | Pokemon Kalos Crystal | 304731 | [304731-pokemon-kalos-crystal.json](./304731-pokemon-kalos-crystal.json) |
@@ -7730,6 +7733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Populus Run | 145513 | [145513-populus-run.json](./145513-populus-run.json) |
 | PopUp Blockers - Block Web Browser Simulator 2k16 | 100994 | [100994-popup-blockers-block-web-browser-simulator-2k16.json](./100994-popup-blockers-block-web-browser-simulator-2k16.json) |
 | Popup.exe | 398504 | [398504-popup-exe.json](./398504-popup-exe.json) |
+| Poradora vs. Monsters of the World | 324015 | [324015-poradora-vs-monsters-of-the-world.json](./324015-poradora-vs-monsters-of-the-world.json) |
 | Poramid | 185438 | [185438-poramid.json](./185438-poramid.json) |
 | Porcelain Tales | 186031 | [186031-porcelain-tales.json](./186031-porcelain-tales.json) |
 | Porcini | 148999 | [148999-porcini.json](./148999-porcini.json) |
