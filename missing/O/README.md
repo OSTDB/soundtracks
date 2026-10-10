@@ -1323,6 +1323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Once upon a Dungeon | 81885 | [81885-once-upon-a-dungeon.json](./81885-once-upon-a-dungeon.json) |
 | Once upon a Dungeon II | 226727 | [226727-once-upon-a-dungeon-ii.json](./226727-once-upon-a-dungeon-ii.json) |
 | Once Upon a Dungeon: Infinity | 327951 | [327951-once-upon-a-dungeon-infinity.json](./327951-once-upon-a-dungeon-infinity.json) |
+| Once Upon a Fight | 292980 | [292980-once-upon-a-fight.json](./292980-once-upon-a-fight.json) |
 | Once Upon a Forest | 137530 | [137530-once-upon-a-forest.json](./137530-once-upon-a-forest.json) |
 | Once Upon a Galaxy | 305262 | [305262-once-upon-a-galaxy.json](./305262-once-upon-a-galaxy.json) |
 | Once Upon a Jester | 159553 | [159553-once-upon-a-jester.json](./159553-once-upon-a-jester.json) |
@@ -2940,6 +2941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Our Cinderella | 292061 | [292061-our-cinderella.json](./292061-our-cinderella.json) |
 | Our Darkest Night | 30793 | [30793-our-darkest-night.json](./30793-our-darkest-night.json) |
 | Our Dollhouse | 294219 | [294219-our-dollhouse.json](./294219-our-dollhouse.json) |
+| Our Doomed Bunker | 293008 | [293008-our-doomed-bunker.json](./293008-our-doomed-bunker.json) |
 | Our Dying World | 203781 | [203781-our-dying-world.json](./203781-our-dying-world.json) |
 | Our Eyes See No Evil | 361841 | [361841-our-eyes-see-no-evil.json](./361841-our-eyes-see-no-evil.json) |
 | Our Fantasy Quest | 221737 | [221737-our-fantasy-quest.json](./221737-our-fantasy-quest.json) |
