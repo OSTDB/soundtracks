@@ -2476,6 +2476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Sea Crossing | 40773 | [40773-red-sea-crossing.json](./40773-red-sea-crossing.json) |
 | Red Season | 381614 | [381614-red-season.json](./381614-red-season.json) |
 | Red Series | 270665 | [270665-red-series.json](./270665-red-series.json) |
+| Red Silhouette | 285939 | [285939-red-silhouette.json](./285939-red-silhouette.json) |
 | Red Siren: Space Defense | 111541 | [111541-red-siren-space-defense.json](./111541-red-siren-space-defense.json) |
 | Red Sky | 26804 | [26804-red-sky.json](./26804-red-sky.json) |
 | Red Slammer | 271369 | [271369-red-slammer.json](./271369-red-slammer.json) |
@@ -4694,6 +4695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ring of Elysium | 95308 | [95308-ring-of-elysium.json](./95308-ring-of-elysium.json) |
 | Ring of Fire | 115464 | [115464-ring-of-fire.json](./115464-ring-of-fire.json) |
 | Ring of Pain | 115036 | [115036-ring-of-pain.json](./115036-ring-of-pain.json) |
+| Ring of The Devil | 285935 | [285935-ring-of-the-devil.json](./285935-ring-of-the-devil.json) |
 | Ring of Titans | 189162 | [189162-ring-of-titans.json](./189162-ring-of-titans.json) |
 | Ring Out 4x4 | 131317 | [131317-ring-out-4x4.json](./131317-ring-out-4x4.json) |
 | Ring Out!! | 41404 | [41404-ring-out.json](./41404-ring-out.json) |
@@ -4718,6 +4720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ringognir 3 | 68336 | [68336-ringognir-3.json](./68336-ringognir-3.json) |
 | RingoWord | 241335 | [241335-ringoword.json](./241335-ringoword.json) |
 | Rings | 179069 | [179069-rings.json](./179069-rings.json) |
+| Rings of Harmony | 285928 | [285928-rings-of-harmony.json](./285928-rings-of-harmony.json) |
 | Rings of Hell | 160217 | [160217-rings-of-hell.json](./160217-rings-of-hell.json) |
 | Rings of Medusa | 14507 | [14507-rings-of-medusa.json](./14507-rings-of-medusa.json) |
 | Rings of Saturn | 108324 | [108324-rings-of-saturn.json](./108324-rings-of-saturn.json) |
