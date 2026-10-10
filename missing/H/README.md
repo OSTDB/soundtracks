@@ -4577,15 +4577,18 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | High Rollers | 67393 | [67393-high-rollers.json](./67393-high-rollers.json) |
 | High Rollers: Dice Drop Duel | 399737 | [399737-high-rollers-dice-drop-duel.json](./399737-high-rollers-dice-drop-duel.json) |
 | High School Adventure | 311651 | [311651-high-school-adventure.json](./311651-high-school-adventure.json) |
+| High School Athletics Games 3D | 296779 | [296779-high-school-athletics-games-3d.json](./296779-high-school-athletics-games-3d.json) |
 | High School Crush | 86812 | [86812-high-school-crush.json](./86812-high-school-crush.json) |
 | High School Daze: Afterschool Stories | 264349 | [264349-high-school-daze-afterschool-stories.json](./264349-high-school-daze-afterschool-stories.json) |
 | High School Daze: Junior Year | 264348 | [264348-high-school-daze-junior-year.json](./264348-high-school-daze-junior-year.json) |
 | High School Detective: Romance Visual Novel | 300780 | [300780-high-school-detective-romance-visual-novel.json](./300780-high-school-detective-romance-visual-novel.json) |
 | High School Escape 2 | 96702 | [96702-high-school-escape-2.json](./96702-high-school-escape-2.json) |
 | High School Fighters | 231430 | [231430-high-school-fighters.json](./231430-high-school-fighters.json) |
+| High School Games Offline 2023 | 296759 | [296759-high-school-games-offline-2023.json](./296759-high-school-games-offline-2023.json) |
 | High School Girl Life Sim 3D | 297504 | [297504-high-school-girl-life-sim-3d.json](./297504-high-school-girl-life-sim-3d.json) |
 | High School Girl Life Simulator | 102757 | [102757-high-school-girl-life-simulator.json](./102757-high-school-girl-life-simulator.json) |
 | High School Girl Simulator 3D | 299905 | [299905-high-school-girl-simulator-3d.json](./299905-high-school-girl-simulator-3d.json) |
+| High School Love Sim Life Game | 296756 | [296756-high-school-love-sim-life-game.json](./296756-high-school-love-sim-life-game.json) |
 | High School Love: A Visual Novel Romance | 328519 | [328519-high-school-love-a-visual-novel-romance.json](./328519-high-school-love-a-visual-novel-romance.json) |
 | High School Maze 3D | 297633 | [297633-high-school-maze-3d.json](./297633-high-school-maze-3d.json) |
 | High School Musical 2: Work This Out! | 21371 | [21371-high-school-musical-2-work-this-out.json](./21371-high-school-musical-2-work-this-out.json) |
@@ -4963,6 +4966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hisshou! Pachi-Slot Fan | 59911 | [59911-hisshou-pachi-slot-fan.json](./59911-hisshou-pachi-slot-fan.json) |
 | Hissy Fit: Make Snake Break | 347175 | [347175-hissy-fit-make-snake-break.json](./347175-hissy-fit-make-snake-break.json) |
 | Hist Maker | 103183 | [103183-hist-maker.json](./103183-hist-maker.json) |
+| Histerya | 296796 | [296796-histerya.json](./296796-histerya.json) |
 | Histo-Time | 336710 | [336710-histo-time.json](./336710-histo-time.json) |
 | Histoire d'Or | 388318 | [388318-histoire-dor.json](./388318-histoire-dor.json) |
 | Histoire de Lune | 322590 | [322590-histoire-de-lune.json](./322590-histoire-de-lune.json) |
@@ -7408,6 +7412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunting Simulator 2: Beretta Weapon Pack | 224220 | [224220-hunting-simulator-2-beretta-weapon-pack.json](./224220-hunting-simulator-2-beretta-weapon-pack.json) |
 | Hunting Simulator 3 | 323189 | [323189-hunting-simulator-3.json](./323189-hunting-simulator-3.json) |
 | Hunting Simulator VR | 112682 | [112682-hunting-simulator-vr.json](./112682-hunting-simulator-vr.json) |
+| Hunting Sniper | 296765 | [296765-hunting-sniper.json](./296765-hunting-sniper.json) |
 | Hunting Story | 193968 | [193968-hunting-story.json](./193968-hunting-story.json) |
 | Hunting Unlimited 2009 | 30860 | [30860-hunting-unlimited-2009.json](./30860-hunting-unlimited-2009.json) |
 | Hunting World | 398039 | [398039-hunting-world.json](./398039-hunting-world.json) |
