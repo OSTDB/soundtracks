@@ -8371,6 +8371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Futanari Have a Heart Too | 384722 | [384722-futanari-have-a-heart-too.json](./384722-futanari-have-a-heart-too.json) |
 | Futanari Jigsaw Puzzle | 212728 | [212728-futanari-jigsaw-puzzle.json](./212728-futanari-jigsaw-puzzle.json) |
 | Futanari Quest | 99592 | [99592-futanari-quest.json](./99592-futanari-quest.json) |
+| Futanari Sex Adventures: Episode 1 | 316388 | [316388-futanari-sex-adventures-episode-1.json](./316388-futanari-sex-adventures-episode-1.json) |
 | Futanari Sex Adventures: Episode 2 | 311582 | [311582-futanari-sex-adventures-episode-2.json](./311582-futanari-sex-adventures-episode-2.json) |
 | Futanari Sex Adventures: Episode 4 | 368101 | [368101-futanari-sex-adventures-episode-4.json](./368101-futanari-sex-adventures-episode-4.json) |
 | Futanari Sex: BDSM Room | 201564 | [201564-futanari-sex-bdsm-room.json](./201564-futanari-sex-bdsm-room.json) |
