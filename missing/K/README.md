@@ -3387,6 +3387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kotori with a gun | 148384 | [148384-kotori-with-a-gun.json](./148384-kotori-with-a-gun.json) |
 | Kotoro | 218964 | [218964-kotoro.json](./218964-kotoro.json) |
 | Kotowari: Kimi no Kokoro no Koboreta Kakera | 382785 | [382785-kotowari-kimi-no-kokoro-no-koboreta-kakera.json](./382785-kotowari-kimi-no-kokoro-no-koboreta-kakera.json) |
+| Kottabos VR | 289233 | [289233-kottabos-vr.json](./289233-kottabos-vr.json) |
 | Kotyxa | 387053 | [387053-kotyxa.json](./387053-kotyxa.json) |
 | Kouchuu Kakutou: Mushi 1 Grand Prix | 122898 | [122898-kouchuu-kakutou-mushi-1-grand-prix.json](./122898-kouchuu-kakutou-mushi-1-grand-prix.json) |
 | Kouchuu Ouja Mushiking: Mori no Tami no Densetsu - Minna de Tanken! Kouchuu no Mori | 123621 | [123621-kouchuu-ouja-mushiking-mori-no-tami-no-densetsu-minna-de-tanken-kouchuu-no-mori.json](./123621-kouchuu-ouja-mushiking-mori-no-tami-no-densetsu-minna-de-tanken-kouchuu-no-mori.json) |
