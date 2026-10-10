@@ -11995,6 +11995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Music in Motion | 265745 | [265745-music-in-motion.json](./265745-music-in-motion.json) |
 | Music Intro Pro 68K | 265972 | [265972-music-intro-pro-68k.json](./265972-music-intro-pro-68k.json) |
 | Music Maker | 100265 | [100265-music-maker.json](./100265-music-maker.json) |
+| Music Man 3: Last Dance | 295654 | [295654-music-man-3-last-dance.json](./295654-music-man-3-last-dance.json) |
 | Music Master Chopin | 62679 | [62679-music-master-chopin.json](./62679-music-master-chopin.json) |
 | Music of the Spheres | 20107 | [20107-music-of-the-spheres.json](./20107-music-of-the-spheres.json) |
 | Music on: Acoustic Guitar | 79882 | [79882-music-on-acoustic-guitar.json](./79882-music-on-acoustic-guitar.json) |
