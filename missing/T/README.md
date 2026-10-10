@@ -2353,6 +2353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teletubbies: Po's Daily Adventures | 101965 | [101965-teletubbies-pos-daily-adventures.json](./101965-teletubbies-pos-daily-adventures.json) |
 | Teletubbies: Sliding Down the Hill | 307840 | [307840-teletubbies-sliding-down-the-hill.json](./307840-teletubbies-sliding-down-the-hill.json) |
 | Teletubes: Electronic Pet | 314644 | [314644-teletubes-electronic-pet.json](./314644-teletubes-electronic-pet.json) |
+| Television Trivia | 302743 | [302743-television-trivia.json](./302743-television-trivia.json) |
 | Telf AG | 287781 | [287781-telf-ag.json](./287781-telf-ag.json) |
 | Tell a Demon | 51599 | [51599-tell-a-demon.json](./51599-tell-a-demon.json) |
 | Tell It Slant | 318546 | [318546-tell-it-slant.json](./318546-tell-it-slant.json) |
@@ -6059,6 +6060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Frontier | 30929 | [30929-the-frontier.json](./30929-the-frontier.json) |
 | The Frost | 28872 | [28872-the-frost.json](./28872-the-frost.json) |
 | The Frosts: First Ones | 153919 | [153919-the-frosts-first-ones.json](./153919-the-frosts-first-ones.json) |
+| The Frozen Dead Wait | 302733 | [302733-the-frozen-dead-wait.json](./302733-the-frozen-dead-wait.json) |
 | The Frozen Shore | 231462 | [231462-the-frozen-shore.json](./231462-the-frozen-shore.json) |
 | The Fruit Game | 346565 | [346565-the-fruit-game.json](./346565-the-fruit-game.json) |
 | The Fruit of Grisaia | 11456 | [11456-the-fruit-of-grisaia.json](./11456-the-fruit-of-grisaia.json) |
@@ -12160,6 +12162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | There's a Butcher Around | 118016 | [118016-theres-a-butcher-around.json](./118016-theres-a-butcher-around.json) |
 | There's a Rikishi in my House | 199613 | [199613-theres-a-rikishi-in-my-house.json](./199613-theres-a-rikishi-in-my-house.json) |
 | There's Always a Madman: Bring the Thunder | 322680 | [322680-theres-always-a-madman-bring-the-thunder.json](./322680-theres-always-a-madman-bring-the-thunder.json) |
+| There's Always a Madman: Do Your Worst | 302764 | [302764-theres-always-a-madman-do-your-worst.json](./302764-theres-always-a-madman-do-your-worst.json) |
 | There's Always a Madman: Fight or Flight | 251710 | [251710-theres-always-a-madman-fight-or-flight.json](./251710-theres-always-a-madman-fight-or-flight.json) |
 | There's Always a Madman: The MacGuffin | 330968 | [330968-theres-always-a-madman-the-macguffin.json](./330968-theres-always-a-madman-the-macguffin.json) |
 | There's Always a Madman: V.I.C.T.O.R. | 330969 | [330969-theres-always-a-madman-v-i-c-t-o-r.json](./330969-theres-always-a-madman-v-i-c-t-o-r.json) |
