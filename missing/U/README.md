@@ -1990,6 +1990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Upbeat Melody Project | 386257 | [386257-upbeat-melody-project.json](./386257-upbeat-melody-project.json) |
 | Upcreek | 395156 | [395156-upcreek.json](./395156-upcreek.json) |
 | Updive | 150273 | [150273-updive.json](./150273-updive.json) |
+| Upekkha | 313984 | [313984-upekkha.json](./313984-upekkha.json) |
 | UPgrade | 124754 | [124754-upgrade.json](./124754-upgrade.json) |
 | Upgrade Complete | 196800 | [196800-upgrade-complete.json](./196800-upgrade-complete.json) |
 | Upgrade Complete 2 | 196801 | [196801-upgrade-complete-2.json](./196801-upgrade-complete-2.json) |
@@ -2116,6 +2117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Urban Runner | 13789 | [13789-urban-runner.json](./13789-urban-runner.json) |
 | Urban Shadows Racing Tokyo | 371905 | [371905-urban-shadows-racing-tokyo.json](./371905-urban-shadows-racing-tokyo.json) |
 | Urban Showdown | 342217 | [342217-urban-showdown.json](./342217-urban-showdown.json) |
+| Urban Side | 313959 | [313959-urban-side.json](./313959-urban-side.json) |
 | Urban Soldier | 80176 | [80176-urban-soldier.json](./80176-urban-soldier.json) |
 | Urban Space Squirrels | 66362 | [66362-urban-space-squirrels.json](./66362-urban-space-squirrels.json) |
 | Urban Street Fighting | 147476 | [147476-urban-street-fighting.json](./147476-urban-street-fighting.json) |
