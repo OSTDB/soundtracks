@@ -393,6 +393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taiko no Tatsujin: Rhythm Festival - Kawaii Pop Idol Pack | 376441 | [376441-taiko-no-tatsujin-rhythm-festival-kawaii-pop-idol-pack.json](./376441-taiko-no-tatsujin-rhythm-festival-kawaii-pop-idol-pack.json) |
 | Taiko no Tatsujin: Rhythm Festival - Kids' Pack Vol. 4 | 380191 | [380191-taiko-no-tatsujin-rhythm-festival-kids-pack-vol-4.json](./380191-taiko-no-tatsujin-rhythm-festival-kids-pack-vol-4.json) |
 | Taiko no Tatsujin: Rhythm Festival - One Piece Anime Songs Pack | 356186 | [356186-taiko-no-tatsujin-rhythm-festival-one-piece-anime-songs-pack.json](./356186-taiko-no-tatsujin-rhythm-festival-one-piece-anime-songs-pack.json) |
+| Taiko no Tatsujin: Rhythm Festival - The Setlist Edition | 331837 | [331837-taiko-no-tatsujin-rhythm-festival-the-setlist-edition.json](./331837-taiko-no-tatsujin-rhythm-festival-the-setlist-edition.json) |
 | Taiko no Tatsujin: Rhythm Festival - Touhou Project Arrangements Pack Vol. 1 | 356086 | [356086-taiko-no-tatsujin-rhythm-festival-touhou-project-arrangements-pack-vol-1.json](./356086-taiko-no-tatsujin-rhythm-festival-touhou-project-arrangements-pack-vol-1.json) |
 | Taiko no Tatsujin: Rhythm Festival - Touhou Project Arrangements Pack Vol. 2 | 356087 | [356087-taiko-no-tatsujin-rhythm-festival-touhou-project-arrangements-pack-vol-2.json](./356087-taiko-no-tatsujin-rhythm-festival-touhou-project-arrangements-pack-vol-2.json) |
 | Taiko no Tatsujin: Rhythm Festival - Vocaloid Songs Collection | 356197 | [356197-taiko-no-tatsujin-rhythm-festival-vocaloid-songs-collection.json](./356197-taiko-no-tatsujin-rhythm-festival-vocaloid-songs-collection.json) |
@@ -787,6 +788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Graces f | 20444 | [20444-tales-of-graces-f.json](./20444-tales-of-graces-f.json) |
 | Tales of Graces F Remastered | 314945 | [314945-tales-of-graces-f-remastered.json](./314945-tales-of-graces-f-remastered.json) |
 | Tales of Graces F Remastered: Deluxe Edition | 324370 | [324370-tales-of-graces-f-remastered-deluxe-edition.json](./324370-tales-of-graces-f-remastered-deluxe-edition.json) |
+| Tales of Graces F Remastered: Deluxe Upgrade Pack | 331916 | [331916-tales-of-graces-f-remastered-deluxe-upgrade-pack.json](./331916-tales-of-graces-f-remastered-deluxe-upgrade-pack.json) |
 | Tales of Graces F/ Tales of Symphonia Chronicles | 44617 | [44617-tales-of-graces-f-tales-of-symphonia-chronicles.json](./44617-tales-of-graces-f-tales-of-symphonia-chronicles.json) |
 | Tales of Grimace | 317984 | [317984-tales-of-grimace.json](./317984-tales-of-grimace.json) |
 | Tales of Grimm | 193895 | [193895-tales-of-grimm.json](./193895-tales-of-grimm.json) |
@@ -2978,6 +2980,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Test Drive Unlimited | 7215 | [7215-test-drive-unlimited.json](./7215-test-drive-unlimited.json) |
 | Test Drive Unlimited 2 | 7216 | [7216-test-drive-unlimited-2.json](./7216-test-drive-unlimited-2.json) |
 | Test Drive Unlimited Solar Crown | 135671 | [135671-test-drive-unlimited-solar-crown.json](./135671-test-drive-unlimited-solar-crown.json) |
+| Test Drive Unlimited Solar Crown: Gold Edition | 331836 | [331836-test-drive-unlimited-solar-crown-gold-edition.json](./331836-test-drive-unlimited-solar-crown-gold-edition.json) |
+| Test Drive Unlimited Solar Crown: Silver Sharp Edition | 331835 | [331835-test-drive-unlimited-solar-crown-silver-sharp-edition.json](./331835-test-drive-unlimited-solar-crown-silver-sharp-edition.json) |
+| Test Drive Unlimited Solar Crown: Silver Streets Edition | 331834 | [331834-test-drive-unlimited-solar-crown-silver-streets-edition.json](./331834-test-drive-unlimited-solar-crown-silver-streets-edition.json) |
 | Test Drive V-Rally | 45844 | [45844-test-drive-v-rally.json](./45844-test-drive-v-rally.json) |
 | Test Drive: Eve of Destruction | 6197 | [6197-test-drive-eve-of-destruction.json](./6197-test-drive-eve-of-destruction.json) |
 | Test Drive: Off-Road 2 | 45086 | [45086-test-drive-off-road-2.json](./45086-test-drive-off-road-2.json) |
@@ -4343,6 +4348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Casino Empire | 257940 | [257940-the-casino-empire.json](./257940-the-casino-empire.json) |
 | The Casino: Roulette, Video Poker, Slot Machines, Craps, Baccarat | 147952 | [147952-the-casino-roulette-video-poker-slot-machines-craps-baccarat.json](./147952-the-casino-roulette-video-poker-slot-machines-craps-baccarat.json) |
 | The Cassandra Galleries | 86022 | [86022-the-cassandra-galleries.json](./86022-the-cassandra-galleries.json) |
+| The Casting of Frank Stone: Deluxe Edition | 331833 | [331833-the-casting-of-frank-stone-deluxe-edition.json](./331833-the-casting-of-frank-stone-deluxe-edition.json) |
 | The Castle | 121470 | [121470-the-castle.json](./121470-the-castle.json) |
 | The Castle | 223010 | [223010-the-castle.json](./223010-the-castle.json) |
 | The Castle | 259150 | [259150-the-castle.json](./259150-the-castle.json) |
@@ -5607,6 +5613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fable of a Rabbit | 156980 | [156980-the-fable-of-a-rabbit.json](./156980-the-fable-of-a-rabbit.json) |
 | The Fable of Fairy Glen | 355030 | [355030-the-fable-of-fairy-glen.json](./355030-the-fable-of-fairy-glen.json) |
 | The Fable of Ruby | 38498 | [38498-the-fable-of-ruby.json](./38498-the-fable-of-ruby.json) |
+| The Fable: Manga Build Roguelike | 331894 | [331894-the-fable-manga-build-roguelike.json](./331894-the-fable-manga-build-roguelike.json) |
 | The Fabric of the Mind | 238748 | [238748-the-fabric-of-the-mind.json](./238748-the-fabric-of-the-mind.json) |
 | The fabulous Animal Playground | 101003 | [101003-the-fabulous-animal-playground.json](./101003-the-fabulous-animal-playground.json) |
 | The Fabulous Screech | 60521 | [60521-the-fabulous-screech.json](./60521-the-fabulous-screech.json) |
@@ -9937,6 +9944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Shocking World Mysteries | 399791 | [399791-the-shocking-world-mysteries.json](./399791-the-shocking-world-mysteries.json) |
 | The Shoe Dept. | 57481 | [57481-the-shoe-dept.json](./57481-the-shoe-dept.json) |
 | The Shogun Empire | 22130 | [22130-the-shogun-empire.json](./22130-the-shogun-empire.json) |
+| The Shojing | 331892 | [331892-the-shojing.json](./331892-the-shojing.json) |
 | The Shoot | 20408 | [20408-the-shoot.json](./20408-the-shoot.json) |
 | The Shooting & The Helicopter | 203395 | [203395-the-shooting-and-the-helicopter.json](./203395-the-shooting-and-the-helicopter.json) |
 | The Shooting Maguro | 156024 | [156024-the-shooting-maguro.json](./156024-the-shooting-maguro.json) |
@@ -11900,6 +11908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TheHunter: Call of the Wild - Hirschfelden Veteran Cosmetic Pack | 266392 | [266392-thehunter-call-of-the-wild-hirschfelden-veteran-cosmetic-pack.json](./266392-thehunter-call-of-the-wild-hirschfelden-veteran-cosmetic-pack.json) |
 | TheHunter: Call of the Wild - Hunter Power Pack | 266390 | [266390-thehunter-call-of-the-wild-hunter-power-pack.json](./266390-thehunter-call-of-the-wild-hunter-power-pack.json) |
 | TheHunter: Call of the Wild - Medved-Taiga | 154341 | [154341-thehunter-call-of-the-wild-medved-taiga.json](./154341-thehunter-call-of-the-wild-medved-taiga.json) |
+| TheHunter: Call of the Wild - Mississippi Acres Preserve Cosmetic Pack | 331917 | [331917-thehunter-call-of-the-wild-mississippi-acres-preserve-cosmetic-pack.json](./331917-thehunter-call-of-the-wild-mississippi-acres-preserve-cosmetic-pack.json) |
 | TheHunter: Call of the Wild - Modern Rifle Pack | 206793 | [206793-thehunter-call-of-the-wild-modern-rifle-pack.json](./206793-thehunter-call-of-the-wild-modern-rifle-pack.json) |
 | TheHunter: Call of the Wild - New England Mountains | 227336 | [227336-thehunter-call-of-the-wild-new-england-mountains.json](./227336-thehunter-call-of-the-wild-new-england-mountains.json) |
 | TheHunter: Call of the Wild - New Species 2018 | 206824 | [206824-thehunter-call-of-the-wild-new-species-2018.json](./206824-thehunter-call-of-the-wild-new-species-2018.json) |
@@ -11907,6 +11916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TheHunter: Call of the Wild - Remi Warren | 154342 | [154342-thehunter-call-of-the-wild-remi-warren.json](./154342-thehunter-call-of-the-wild-remi-warren.json) |
 | TheHunter: Call of the Wild - Reserve Cosmetics Bundle 1 | 271466 | [271466-thehunter-call-of-the-wild-reserve-cosmetics-bundle-1.json](./271466-thehunter-call-of-the-wild-reserve-cosmetics-bundle-1.json) |
 | TheHunter: Call of the Wild - Saseka Safari Trophy Lodge | 206798 | [206798-thehunter-call-of-the-wild-saseka-safari-trophy-lodge.json](./206798-thehunter-call-of-the-wild-saseka-safari-trophy-lodge.json) |
+| TheHunter: Call of the Wild - Scopes and Crosshairs Pack | 331918 | [331918-thehunter-call-of-the-wild-scopes-and-crosshairs-pack.json](./331918-thehunter-call-of-the-wild-scopes-and-crosshairs-pack.json) |
 | TheHunter: Call of the Wild - Shooting Range | 206821 | [206821-thehunter-call-of-the-wild-shooting-range.json](./206821-thehunter-call-of-the-wild-shooting-range.json) |
 | TheHunter: Call of the Wild - Silver Ridge Peaks | 154339 | [154339-thehunter-call-of-the-wild-silver-ridge-peaks.json](./154339-thehunter-call-of-the-wild-silver-ridge-peaks.json) |
 | TheHunter: Call of the Wild - Smoking Barrels Weapon Pack | 206797 | [206797-thehunter-call-of-the-wild-smoking-barrels-weapon-pack.json](./206797-thehunter-call-of-the-wild-smoking-barrels-weapon-pack.json) |
@@ -15281,6 +15291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomb Raider 1+2+3 | 154439 | [154439-tomb-raider-1-2-3.json](./154439-tomb-raider-1-2-3.json) |
 | Tomb Raider Anthology | 44886 | [44886-tomb-raider-anthology.json](./44886-tomb-raider-anthology.json) |
 | Tomb Raider Collection 1 | 299439 | [299439-tomb-raider-collection-1.json](./299439-tomb-raider-collection-1.json) |
+| Tomb Raider I-VI Remastered | 331905 | [331905-tomb-raider-i-vi-remastered.json](./331905-tomb-raider-i-vi-remastered.json) |
 | Tomb Raider I•II•III Remastered | 266683 | [266683-tomb-raider-i-ii-iii-remastered.json](./266683-tomb-raider-i-ii-iii-remastered.json) |
 | Tomb Raider II | 266698 | [266698-tomb-raider-ii.json](./266698-tomb-raider-ii.json) |
 | Tomb Raider II: Collector's Edition | 159319 | [159319-tomb-raider-ii-collectors-edition.json](./159319-tomb-raider-ii-collectors-edition.json) |
