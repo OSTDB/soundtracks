@@ -1793,6 +1793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unrestrained | 231356 | [231356-unrestrained.json](./231356-unrestrained.json) |
 | Unriddle | 187435 | [187435-unriddle.json](./187435-unriddle.json) |
 | Unrivaled | 421359 | [421359-unrivaled.json](./421359-unrivaled.json) |
+| Unrivaled Heroes | 278933 | [278933-unrivaled-heroes.json](./278933-unrivaled-heroes.json) |
 | Unroaded | 115440 | [115440-unroaded.json](./115440-unroaded.json) |
 | Unromantic Demon Queen | 303306 | [303306-unromantic-demon-queen.json](./303306-unromantic-demon-queen.json) |
 | Unrooted | 204366 | [204366-unrooted.json](./204366-unrooted.json) |
