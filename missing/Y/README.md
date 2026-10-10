@@ -144,6 +144,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | YamYam | 37760 | [37760-yamyam.json](./37760-yamyam.json) |
 | Yan's World | 322103 | [322103-yans-world.json](./322103-yans-world.json) |
 | Yanchat | 333080 | [333080-yanchat.json](./333080-yanchat.json) |
+| Yandere Anime Boyfriend: A Day with Your Husbando Sim | 330223 | [330223-yandere-anime-boyfriend-a-day-with-your-husbando-sim.json](./330223-yandere-anime-boyfriend-a-day-with-your-husbando-sim.json) |
+| Yandere Anime Girlfriend: The Mean Waifu Sim | 330224 | [330224-yandere-anime-girlfriend-the-mean-waifu-sim.json](./330224-yandere-anime-girlfriend-the-mean-waifu-sim.json) |
 | Yandere Escape | 129125 | [129125-yandere-escape.json](./129125-yandere-escape.json) |
 | Yandere Goth BDSM | 372256 | [372256-yandere-goth-bdsm.json](./372256-yandere-goth-bdsm.json) |
 | Yandere Goth BDSM 10 | 372263 | [372263-yandere-goth-bdsm-10.json](./372263-yandere-goth-bdsm-10.json) |
