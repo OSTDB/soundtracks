@@ -3757,6 +3757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | May Angels Fall Down | 257094 | [257094-may-angels-fall-down.json](./257094-may-angels-fall-down.json) |
 | May Blues | 153990 | [153990-may-blues.json](./153990-may-blues.json) |
 | May Club | 73791 | [73791-may-club.json](./73791-may-club.json) |
+| May I Open My Eyes to the Night!? | 303293 | [303293-may-i-open-my-eyes-to-the-night.json](./303293-may-i-open-my-eyes-to-the-night.json) |
 | May I Take Your Order? | 123025 | [123025-may-i-take-your-order.json](./123025-may-i-take-your-order.json) |
 | May Your Memory Be a Blessing | 308422 | [308422-may-your-memory-be-a-blessing.json](./308422-may-your-memory-be-a-blessing.json) |
 | May's Mysteries: The Secret of Dragonville | 17928 | [17928-mays-mysteries-the-secret-of-dragonville.json](./17928-mays-mysteries-the-secret-of-dragonville.json) |
@@ -8694,6 +8695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MLF 2 | 43242 | [43242-mlf-2.json](./43242-mlf-2.json) |
 | MLF: Pro Catch | 406667 | [406667-mlf-pro-catch.json](./406667-mlf-pro-catch.json) |
 | MLG Flappy Bird 420 | 285148 | [285148-mlg-flappy-bird-420.json](./285148-mlg-flappy-bird-420.json) |
+| MLM Lover | 303301 | [303301-mlm-lover.json](./303301-mlm-lover.json) |
 | MM Garden | 335332 | [335332-mm-garden.json](./335332-mm-garden.json) |
 | MMA Arena | 117047 | [117047-mma-arena.json](./117047-mma-arena.json) |
 | MMA Championship | 189178 | [189178-mma-championship.json](./189178-mma-championship.json) |
@@ -12279,6 +12281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Cute Succubus | 224528 | [224528-my-cute-succubus.json](./224528-my-cute-succubus.json) |
 | My Cute Unicorns: Coloring Book | 212272 | [212272-my-cute-unicorns-coloring-book.json](./212272-my-cute-unicorns-coloring-book.json) |
 | My Cute, Pure Boyfriend | 303274 | [303274-my-cute-pure-boyfriend.json](./303274-my-cute-pure-boyfriend.json) |
+| My Cute, Pure Boyfriend 2 | 303294 | [303294-my-cute-pure-boyfriend-2.json](./303294-my-cute-pure-boyfriend-2.json) |
 | My Daily Pets | 270976 | [270976-my-daily-pets.json](./270976-my-daily-pets.json) |
 | My Dangerous Life | 156700 | [156700-my-dangerous-life.json](./156700-my-dangerous-life.json) |
 | My Dating Agency | 307910 | [307910-my-dating-agency.json](./307910-my-dating-agency.json) |
@@ -12638,6 +12641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Little Universe: Xmas Character Pack | 285129 | [285129-my-little-universe-xmas-character-pack.json](./285129-my-little-universe-xmas-character-pack.json) |
 | My Little Work: Garage | 89180 | [89180-my-little-work-garage.json](./89180-my-little-work-garage.json) |
 | My Little Worms | 55718 | [55718-my-little-worms.json](./55718-my-little-worms.json) |
+| My Love 2 | 303286 | [303286-my-love-2.json](./303286-my-love-2.json) |
 | My Love for You is Evermore | 254570 | [254570-my-love-for-you-is-evermore.json](./254570-my-love-for-you-is-evermore.json) |
 | My Love Match | 240855 | [240855-my-love-match.json](./240855-my-love-match.json) |
 | My Lovely Cat: Remastered | 325733 | [325733-my-lovely-cat-remastered.json](./325733-my-lovely-cat-remastered.json) |
