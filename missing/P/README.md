@@ -7354,6 +7354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poly World | 90129 | [90129-poly-world.json](./90129-poly-world.json) |
 | Poly-Net Warriors | 222907 | [222907-poly-net-warriors.json](./222907-poly-net-warriors.json) |
 | Polyamorous Relationships | 179048 | [179048-polyamorous-relationships.json](./179048-polyamorous-relationships.json) |
+| Polyaris | 307263 | [307263-polyaris.json](./307263-polyaris.json) |
 | Polyball | 20348 | [20348-polyball.json](./20348-polyball.json) |
 | Polybius | 24868 | [24868-polybius.json](./24868-polybius.json) |
 | Polybius | 275668 | [275668-polybius.json](./275668-polybius.json) |
@@ -9254,6 +9255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Procedural Death Labyrinth | 137578 | [137578-procedural-death-labyrinth.json](./137578-procedural-death-labyrinth.json) |
 | Procedural Realms | 228701 | [228701-procedural-realms.json](./228701-procedural-realms.json) |
 | Procedural Soccer | 173228 | [173228-procedural-soccer.json](./173228-procedural-soccer.json) |
+| Procelio | 307164 | [307164-procelio.json](./307164-procelio.json) |
 | Procemon: You Must Catch Them | 369727 | [369727-procemon-you-must-catch-them.json](./369727-procemon-you-must-catch-them.json) |
 | Process | 60528 | [60528-process.json](./60528-process.json) |
 | Process of Elimination | 216583 | [216583-process-of-elimination.json](./216583-process-of-elimination.json) |
