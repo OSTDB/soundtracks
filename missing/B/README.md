@@ -1453,6 +1453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barbie Pet Rescue | 19402 | [19402-barbie-pet-rescue.json](./19402-barbie-pet-rescue.json) |
 | Barbie Pet Rescue | 200589 | [200589-barbie-pet-rescue.json](./200589-barbie-pet-rescue.json) |
 | Barbie Photo Designer | 200606 | [200606-barbie-photo-designer.json](./200606-barbie-photo-designer.json) |
+| Barbie Project Friendship | 312287 | [312287-barbie-project-friendship.json](./312287-barbie-project-friendship.json) |
 | Barbie Rewind | 405096 | [405096-barbie-rewind.json](./405096-barbie-rewind.json) |
 | Barbie Sparkle Blast | 97319 | [97319-barbie-sparkle-blast.json](./97319-barbie-sparkle-blast.json) |
 | Barbie Storymaker | 144332 | [144332-barbie-storymaker.json](./144332-barbie-storymaker.json) |
