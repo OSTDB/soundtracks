@@ -78,6 +78,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | J3ss1c4 | 265666 | [265666-j3ss1c4.json](./265666-j3ss1c4.json) |
 | J8 Hero | 370761 | [370761-j8-hero.json](./370761-j8-hero.json) |
 | Ja-in | 274206 | [274206-ja-in.json](./274206-ja-in.json) |
+| Ja'afar's nightmare | 281331 | [281331-jaafars-nightmare.json](./281331-jaafars-nightmare.json) |
 | Jabberwocky | 112284 | [112284-jabberwocky.json](./112284-jabberwocky.json) |
 | Jabberwocky | 181861 | [181861-jabberwocky.json](./181861-jabberwocky.json) |
 | Jacal | 223662 | [223662-jacal.json](./223662-jacal.json) |
@@ -1758,6 +1759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Journey to the Centre of Eddie Smith's Head | 28697 | [28697-journey-to-the-centre-of-eddie-smiths-head.json](./28697-journey-to-the-centre-of-eddie-smiths-head.json) |
 | Journey to the Centre of Nirn | 314286 | [314286-journey-to-the-centre-of-nirn.json](./314286-journey-to-the-centre-of-nirn.json) |
 | Journey to the East | 128552 | [128552-journey-to-the-east.json](./128552-journey-to-the-east.json) |
+| Journey to the End | 281352 | [281352-journey-to-the-end.json](./281352-journey-to-the-end.json) |
 | Journey to the Savage Planet | 113108 | [113108-journey-to-the-savage-planet.json](./113108-journey-to-the-savage-planet.json) |
 | Journey to the Savage Planet: Employee of the Month Edition | 143481 | [143481-journey-to-the-savage-planet-employee-of-the-month-edition.json](./143481-journey-to-the-savage-planet-employee-of-the-month-edition.json) |
 | Journey to the West | 195043 | [195043-journey-to-the-west.json](./195043-journey-to-the-west.json) |
