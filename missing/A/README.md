@@ -435,6 +435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Lucky Hunt With Calista | 385277 | [385277-a-lucky-hunt-with-calista.json](./385277-a-lucky-hunt-with-calista.json) |
 | A Lucky Hunt With: Ione | 392956 | [392956-a-lucky-hunt-with-ione.json](./392956-a-lucky-hunt-with-ione.json) |
 | A Lullaby of Colors | 114901 | [114901-a-lullaby-of-colors.json](./114901-a-lullaby-of-colors.json) |
+| A Machine That Kills You | 307340 | [307340-a-machine-that-kills-you.json](./307340-a-machine-that-kills-you.json) |
 | A Mafia Escape | 351034 | [351034-a-mafia-escape.json](./351034-a-mafia-escape.json) |
 | A Mage Reborn | 207342 | [207342-a-mage-reborn.json](./207342-a-mage-reborn.json) |
 | A Magical Friday Night: Vs. Holy Quintet | 327857 | [327857-a-magical-friday-night-vs-holy-quintet.json](./327857-a-magical-friday-night-vs-holy-quintet.json) |
@@ -946,6 +947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A&E Crime Scene: AR | 95872 | [95872-a-and-e-crime-scene-ar.json](./95872-a-and-e-crime-scene-ar.json) |
 | A2 Racer III: Europa Tour | 44841 | [44841-a2-racer-iii-europa-tour.json](./44841-a2-racer-iii-europa-tour.json) |
 | A2Be: A Science Fiction Narrative | 87810 | [87810-a2be-a-science-fiction-narrative.json](./87810-a2be-a-science-fiction-narrative.json) |
+| A2C: Ayry Seems to be Playtesting a 2D Runner Shooter from Cci | 307165 | [307165-a2c-ayry-seems-to-be-playtesting-a-2d-runner-shooter-from-cci.json](./307165-a2c-ayry-seems-to-be-playtesting-a-2d-runner-shooter-from-cci.json) |
 | A3: Still Alive | 130673 | [130673-a3-still-alive.json](./130673-a3-still-alive.json) |
 | A3! Act! Addict! Actors! | 137535 | [137535-a3-act-addict-actors.json](./137535-a3-act-addict-actors.json) |
 | A320 Airbus: Edition USA | 14595 | [14595-a320-airbus-edition-usa.json](./14595-a320-airbus-edition-usa.json) |
@@ -1145,6 +1147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abraxas | 293244 | [293244-abraxas.json](./293244-abraxas.json) |
 | Abribus | 25751 | [25751-abribus.json](./25751-abribus.json) |
 | Abriss: Build to Destroy | 163860 | [163860-abriss-build-to-destroy.json](./163860-abriss-build-to-destroy.json) |
+| Abrix 2: Diamond Version | 307324 | [307324-abrix-2-diamond-version.json](./307324-abrix-2-diamond-version.json) |
 | Abrix the robot | 33018 | [33018-abrix-the-robot.json](./33018-abrix-the-robot.json) |
 | Abronium Party | 79570 | [79570-abronium-party.json](./79570-abronium-party.json) |
 | Absconding Zatwor | 26838 | [26838-absconding-zatwor.json](./26838-absconding-zatwor.json) |
@@ -1500,6 +1503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Achievement Creator | 103757 | [103757-achievement-creator.json](./103757-achievement-creator.json) |
 | Achievement Dummy | 110387 | [110387-achievement-dummy.json](./110387-achievement-dummy.json) |
 | Achievement Hunter: Alien | 334767 | [334767-achievement-hunter-alien.json](./334767-achievement-hunter-alien.json) |
+| Achievement Hunter: Begins | 307333 | [307333-achievement-hunter-begins.json](./307333-achievement-hunter-begins.json) |
 | Achievement Hunter: Cromulent | 368014 | [368014-achievement-hunter-cromulent.json](./368014-achievement-hunter-cromulent.json) |
 | Achievement Hunter: Darkness 2 | 368352 | [368352-achievement-hunter-darkness-2.json](./368352-achievement-hunter-darkness-2.json) |
 | Achievement Hunter: Dogger | 368355 | [368355-achievement-hunter-dogger.json](./368355-achievement-hunter-dogger.json) |
@@ -5202,6 +5206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amplz Boss Fights | 224110 | [224110-amplz-boss-fights.json](./224110-amplz-boss-fights.json) |
 | Ampsball | 398443 | [398443-ampsball.json](./398443-ampsball.json) |
 | AMR is for amour and also for the 12.7MM anti-material rifle + Planet X | 350539 | [350539-amr-is-for-amour-and-also-for-the-12-7mm-anti-material-rifle-planet-x.json](./350539-amr-is-for-amour-and-also-for-the-12-7mm-anti-material-rifle-planet-x.json) |
+| AMSCII Invasor | 307171 | [307171-amscii-invasor.json](./307171-amscii-invasor.json) |
 | AMseven | 336390 | [336390-amseven.json](./336390-amseven.json) |
 | Amshay | 199383 | [199383-amshay.json](./199383-amshay.json) |
 | Amsterdam Taxi Madness | 73746 | [73746-amsterdam-taxi-madness.json](./73746-amsterdam-taxi-madness.json) |
