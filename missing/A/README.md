@@ -8847,6 +8847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ashihara no Anima | 401842 | [401842-ashihara-no-anima.json](./401842-ashihara-no-anima.json) |
 | Ashimeyama | 177811 | [177811-ashimeyama.json](./177811-ashimeyama.json) |
 | Ashina: The Red Witch | 132762 | [132762-ashina-the-red-witch.json](./132762-ashina-the-red-witch.json) |
+| Ashita Deatta Shoujo | 315209 | [315209-ashita-deatta-shoujo.json](./315209-ashita-deatta-shoujo.json) |
 | Ashita no Joe | 39578 | [39578-ashita-no-joe.json](./39578-ashita-no-joe.json) |
 | Ashita, Hajimete Kanojo to | 211648 | [211648-ashita-hajimete-kanojo-to.json](./211648-ashita-hajimete-kanojo-to.json) |
 | Ashkeep | 212748 | [212748-ashkeep.json](./212748-ashkeep.json) |
