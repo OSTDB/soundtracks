@@ -2083,6 +2083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EndCycle VS | 112819 | [112819-endcycle-vs.json](./112819-endcycle-vs.json) |
 | Endeavor | 228677 | [228677-endeavor.json](./228677-endeavor.json) |
 | Endeavor | 301527 | [301527-endeavor.json](./301527-endeavor.json) |
+| EndeavorOTC | 330777 | [330777-endeavorotc.json](./330777-endeavorotc.json) |
 | Endeavour Survival | 28036 | [28036-endeavour-survival.json](./28036-endeavour-survival.json) |
 | Ender IO | 232676 | [232676-ender-io.json](./232676-ender-io.json) |
 | Ender Magnolia: Bloom in the Mist | 287846 | [287846-ender-magnolia-bloom-in-the-mist.json](./287846-ender-magnolia-bloom-in-the-mist.json) |
@@ -2361,6 +2362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Engraving | 269025 | [269025-engraving.json](./269025-engraving.json) |
 | EnHanced | 110901 | [110901-enhanced.json](./110901-enhanced.json) |
 | Enhanced Militarized Zone | 362474 | [362474-enhanced-militarized-zone.json](./362474-enhanced-militarized-zone.json) |
+| Enhansa Edition | 330677 | [330677-enhansa-edition.json](./330677-enhansa-edition.json) |
 | Enherjar Synergy | 159880 | [159880-enherjar-synergy.json](./159880-enherjar-synergy.json) |
 | Enherjar Synergy: Aplankhan & Sioykos | 192156 | [192156-enherjar-synergy-aplankhan-and-sioykos.json](./192156-enherjar-synergy-aplankhan-and-sioykos.json) |
 | Enigma | 127886 | [127886-enigma.json](./127886-enigma.json) |
