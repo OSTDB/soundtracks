@@ -3838,6 +3838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex Goddess Punishment | 295371 | [295371-sex-goddess-punishment.json](./295371-sex-goddess-punishment.json) |
 | Sex Gym 3D | 237453 | [237453-sex-gym-3d.json](./237453-sex-gym-3d.json) |
 | Sex Halloween | 296601 | [296601-sex-halloween.json](./296601-sex-halloween.json) |
+| SEX HELP | 295647 | [295647-sex-help.json](./295647-sex-help.json) |
 | Sex Hotel Simulator | 253312 | [253312-sex-hotel-simulator.json](./253312-sex-hotel-simulator.json) |
 | Sex Hotel Simulator 18+ | 296600 | [296600-sex-hotel-simulator-18.json](./296600-sex-hotel-simulator-18.json) |
 | Sex House: Orgy Party | 273658 | [273658-sex-house-orgy-party.json](./273658-sex-house-orgy-party.json) |
@@ -12758,6 +12759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speak Out English | 90899 | [90899-speak-out-english.json](./90899-speak-out-english.json) |
 | Speakeasy | 253334 | [253334-speakeasy.json](./253334-speakeasy.json) |
 | Speakeasy Simulator | 375821 | [375821-speakeasy-simulator.json](./375821-speakeasy-simulator.json) |
+| Speakeasy: Last Call | 295668 | [295668-speakeasy-last-call.json](./295668-speakeasy-last-call.json) |
 | Speaker | 178457 | [178457-speaker.json](./178457-speaker.json) |
 | Speaking Simulator 2018 | 111648 | [111648-speaking-simulator-2018.json](./111648-speaking-simulator-2018.json) |
 | Speakrit | 293702 | [293702-speakrit.json](./293702-speakrit.json) |
@@ -14973,6 +14975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Sky 2 | 18462 | [18462-star-sky-2.json](./18462-star-sky-2.json) |
 | Star Sky 2 | 33512 | [33512-star-sky-2.json](./33512-star-sky-2.json) |
 | Star Sky 3 | 109702 | [109702-star-sky-3.json](./109702-star-sky-3.json) |
+| Star Soldier | 295667 | [295667-star-soldier.json](./295667-star-soldier.json) |
 | Star Soldier | 48240 | [48240-star-soldier.json](./48240-star-soldier.json) |
 | Star Soldier vs. DoDonPachi Daioujou Caravan'06 | 365107 | [365107-star-soldier-vs-dodonpachi-daioujou-caravan06.json](./365107-star-soldier-vs-dodonpachi-daioujou-caravan06.json) |
 | Star Sonata 2 | 36276 | [36276-star-sonata-2.json](./36276-star-sonata-2.json) |
@@ -16107,6 +16110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steamulator 2019 | 105102 | [105102-steamulator-2019.json](./105102-steamulator-2019.json) |
 | SteamWorld Build | 232908 | [232908-steamworld-build.json](./232908-steamworld-build.json) |
 | SteamWorld Build & Dig Bundle | 279037 | [279037-steamworld-build-and-dig-bundle.json](./279037-steamworld-build-and-dig-bundle.json) |
+| SteamWorld Build: Deluxe Edition | 295643 | [295643-steamworld-build-deluxe-edition.json](./295643-steamworld-build-deluxe-edition.json) |
 | SteamWorld Dig | 5772 | [5772-steamworld-dig.json](./5772-steamworld-dig.json) |
 | SteamWorld Dig 2 | 27433 | [27433-steamworld-dig-2.json](./27433-steamworld-dig-2.json) |
 | Steamworld Dig 2 + Steamworld Dig | 218691 | [218691-steamworld-dig-2-steamworld-dig.json](./218691-steamworld-dig-2-steamworld-dig.json) |
@@ -17559,6 +17563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strike Force Hydra | 49381 | [49381-strike-force-hydra.json](./49381-strike-force-hydra.json) |
 | Strike Force Kitty | 126486 | [126486-strike-force-kitty.json](./126486-strike-force-kitty.json) |
 | Strike It! | 40910 | [40910-strike-it.json](./40910-strike-it.json) |
+| Strike Master Bowling | 295666 | [295666-strike-master-bowling.json](./295666-strike-master-bowling.json) |
 | Strike of Horror | 112856 | [112856-strike-of-horror.json](./112856-strike-of-horror.json) |
 | Strike of Kings | 56465 | [56465-strike-of-kings.json](./56465-strike-of-kings.json) |
 | Strike of Nations: Empire of Steel | 120238 | [120238-strike-of-nations-empire-of-steel.json](./120238-strike-of-nations-empire-of-steel.json) |
@@ -17820,6 +17825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stygia | 139412 | [139412-stygia.json](./139412-stygia.json) |
 | Stygia II: The Sisters of Stygia | 139413 | [139413-stygia-ii-the-sisters-of-stygia.json](./139413-stygia-ii-the-sisters-of-stygia.json) |
 | Stygian | 141784 | [141784-stygian.json](./141784-stygian.json) |
+| Stygian: Outer Gods | 295657 | [295657-stygian-outer-gods.json](./295657-stygian-outer-gods.json) |
 | Style Book: Cinnamoroll | 123453 | [123453-style-book-cinnamoroll.json](./123453-style-book-cinnamoroll.json) |
 | Style Book: Junior City | 123452 | [123452-style-book-junior-city.json](./123452-style-book-junior-city.json) |
 | Style Lab Makeover | 47980 | [47980-style-lab-makeover.json](./47980-style-lab-makeover.json) |
@@ -22314,6 +22320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synthetic Soul | 276159 | [276159-synthetic-soul.json](./276159-synthetic-soul.json) |
 | Synthetic Soul 2 | 292676 | [292676-synthetic-soul-2.json](./292676-synthetic-soul-2.json) |
 | Synthetic Soul 3 | 310736 | [310736-synthetic-soul-3.json](./310736-synthetic-soul-3.json) |
+| Synthetic Soul: Neon | 295658 | [295658-synthetic-soul-neon.json](./295658-synthetic-soul-neon.json) |
 | SynthetiCell BioClicker | 339423 | [339423-syntheticell-bioclicker.json](./339423-syntheticell-bioclicker.json) |
 | Synthetik: Arena | 112983 | [112983-synthetik-arena.json](./112983-synthetik-arena.json) |
 | Synthetik: Legion Rising | 86395 | [86395-synthetik-legion-rising.json](./86395-synthetik-legion-rising.json) |
