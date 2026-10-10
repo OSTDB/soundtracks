@@ -4684,6 +4684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shattered Legion | 180108 | [180108-shattered-legion.json](./180108-shattered-legion.json) |
 | Shattered Light | 73869 | [73869-shattered-light.json](./73869-shattered-light.json) |
 | Shattered Lights | 118800 | [118800-shattered-lights.json](./118800-shattered-lights.json) |
+| Shattered Melodies | 311221 | [311221-shattered-melodies.json](./311221-shattered-melodies.json) |
 | Shattered Minds: Masquerade | 369714 | [369714-shattered-minds-masquerade.json](./369714-shattered-minds-masquerade.json) |
 | Shattered Palace | 312902 | [312902-shattered-palace.json](./312902-shattered-palace.json) |
 | Shattered Paradise | 387019 | [387019-shattered-paradise.json](./387019-shattered-paradise.json) |
@@ -5541,6 +5542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shoot Out | 38561 | [38561-shoot-out.json](./38561-shoot-out.json) |
 | Shoot Paint | 334747 | [334747-shoot-paint.json](./334747-shoot-paint.json) |
 | Shoot Run | 213353 | [213353-shoot-run.json](./213353-shoot-run.json) |
+| Shoot Shoot Cowboy! | 311230 | [311230-shoot-shoot-cowboy.json](./311230-shoot-shoot-cowboy.json) |
 | Shoot Shoot Mega Pack | 28506 | [28506-shoot-shoot-mega-pack.json](./28506-shoot-shoot-mega-pack.json) |
 | Shoot Shoot Nitori the Golden | 202949 | [202949-shoot-shoot-nitori-the-golden.json](./202949-shoot-shoot-nitori-the-golden.json) |
 | Shoot the Aliens | 330846 | [330846-shoot-the-aliens.json](./330846-shoot-the-aliens.json) |
@@ -8961,6 +8963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snake | 294214 | [294214-snake.json](./294214-snake.json) |
 | Snake | 305744 | [305744-snake.json](./305744-snake.json) |
 | Snake | 307608 | [307608-snake.json](./307608-snake.json) |
+| Snake | 311036 | [311036-snake.json](./311036-snake.json) |
 | Snake | 377165 | [377165-snake.json](./377165-snake.json) |
 | Snake '97: retro phone classic | 89541 | [89541-snake-97-retro-phone-classic.json](./89541-snake-97-retro-phone-classic.json) |
 | Snake & Snake | 56756 | [56756-snake-and-snake.json](./56756-snake-and-snake.json) |
@@ -14859,6 +14862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Shaman | 135111 | [135111-star-shaman.json](./135111-star-shaman.json) |
 | Star Shift Origins | 163193 | [163193-star-shift-origins.json](./163193-star-shift-origins.json) |
 | Star Ship | 18424 | [18424-star-ship.json](./18424-star-ship.json) |
+| Star Shogun | 311160 | [311160-star-shogun.json](./311160-star-shogun.json) |
 | Star Shredders | 81697 | [81697-star-shredders.json](./81697-star-shredders.json) |
 | Star Sign | 217309 | [217309-star-sign.json](./217309-star-sign.json) |
 | Star Sign | 377304 | [377304-star-sign.json](./377304-star-sign.json) |
@@ -17279,6 +17283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Fighter: Duel | 142490 | [142490-street-fighter-duel.json](./142490-street-fighter-duel.json) |
 | Street Fighter: Puzzle Spirits | 60889 | [60889-street-fighter-puzzle-spirits.json](./60889-street-fighter-puzzle-spirits.json) |
 | Street Fighting Grandma | 252264 | [252264-street-fighting-grandma.json](./252264-street-fighting-grandma.json) |
+| Street Flicker | 311235 | [311235-street-flicker.json](./311235-street-flicker.json) |
 | Street Food Restaurant Owner | 327979 | [327979-street-food-restaurant-owner.json](./327979-street-food-restaurant-owner.json) |
 | Street Food South East Asia | 197699 | [197699-street-food-south-east-asia.json](./197699-street-food-south-east-asia.json) |
 | Street Football | 169301 | [169301-street-football.json](./169301-street-football.json) |
