@@ -6680,6 +6680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DK: King of Swing - Hurling for Distance | 231633 | [231633-dk-king-of-swing-hurling-for-distance.json](./231633-dk-king-of-swing-hurling-for-distance.json) |
 | DK64 Randomizer | 206186 | [206186-dk64-randomizer.json](./206186-dk64-randomizer.json) |
 | DKC New Competition Cartridge | 219079 | [219079-dkc-new-competition-cartridge.json](./219079-dkc-new-competition-cartridge.json) |
+| DKC X Mario | 309141 | [309141-dkc-x-mario.json](./309141-dkc-x-mario.json) |
 | DKDC: Donkey Kong Distortion Country | 162830 | [162830-dkdc-donkey-kong-distortion-country.json](./162830-dkdc-donkey-kong-distortion-country.json) |
 | Dkls | 173276 | [173276-dkls.json](./173276-dkls.json) |
 | DKO: Divine Knockout - Starter Edition | 231338 | [231338-dko-divine-knockout-starter-edition.json](./231338-dko-divine-knockout-starter-edition.json) |
@@ -6894,6 +6895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dodgeball Blast | 356208 | [356208-dodgeball-blast.json](./356208-dodgeball-blast.json) |
 | DodgeBall Blitz | 31842 | [31842-dodgeball-blitz.json](./31842-dodgeball-blitz.json) |
 | Dodgeball Dino Duel | 112281 | [112281-dodgeball-dino-duel.json](./112281-dodgeball-dino-duel.json) |
+| Dodgeball Dojo | 309062 | [309062-dodgeball-dojo.json](./309062-dodgeball-dojo.json) |
 | Dodgebrawl | 403171 | [403171-dodgebrawl.json](./403171-dodgebrawl.json) |
 | DodgeCraft | 325101 | [325101-dodgecraft.json](./325101-dodgecraft.json) |
 | Dodgekill | 345687 | [345687-dodgekill.json](./345687-dodgekill.json) |
