@@ -126,6 +126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rabbit Detective | 389983 | [389983-rabbit-detective.json](./389983-rabbit-detective.json) |
 | Rabbit Evolution Merge | 348420 | [348420-rabbit-evolution-merge.json](./348420-rabbit-evolution-merge.json) |
 | Rabbit Hole | 151060 | [151060-rabbit-hole.json](./151060-rabbit-hole.json) |
+| Rabbit Hole | 278955 | [278955-rabbit-hole.json](./278955-rabbit-hole.json) |
 | Rabbit Hole | 289347 | [289347-rabbit-hole.json](./289347-rabbit-hole.json) |
 | Rabbit Hole | 345532 | [345532-rabbit-hole.json](./345532-rabbit-hole.json) |
 | Rabbit Hole | 345533 | [345533-rabbit-hole.json](./345533-rabbit-hole.json) |
@@ -6317,6 +6318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rokka | 157492 | [157492-rokka.json](./157492-rokka.json) |
 | Rokko Chan | 93510 | [93510-rokko-chan.json](./93510-rokko-chan.json) |
 | Roko-Loko no Castelo do Ratozinger Remix | 78042 | [78042-roko-loko-no-castelo-do-ratozinger-remix.json](./78042-roko-loko-no-castelo-do-ratozinger-remix.json) |
+| Roko's Basilisk | 278924 | [278924-rokos-basilisk.json](./278924-rokos-basilisk.json) |
 | Roku and Rei | 303007 | [303007-roku-and-rei.json](./303007-roku-and-rei.json) |
 | Rokudenashi Blues | 48820 | [48820-rokudenashi-blues.json](./48820-rokudenashi-blues.json) |
 | Rokudenashi Blues: Taiketsu! Tokyo Shiten-ou | 37867 | [37867-rokudenashi-blues-taiketsu-tokyo-shiten-ou.json](./37867-rokudenashi-blues-taiketsu-tokyo-shiten-ou.json) |
@@ -7243,6 +7245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rubber Man | 185131 | [185131-rubber-man.json](./185131-rubber-man.json) |
 | Rubber Ninjas | 75143 | [75143-rubber-ninjas.json](./75143-rubber-ninjas.json) |
 | Rubber Royale | 244269 | [244269-rubber-royale.json](./244269-rubber-royale.json) |
+| Rubber Royale: Holiday Prologue | 278939 | [278939-rubber-royale-holiday-prologue.json](./278939-rubber-royale-holiday-prologue.json) |
 | Rubber Sharks | 305980 | [305980-rubber-sharks.json](./305980-rubber-sharks.json) |
 | Rubbish Island | 378890 | [378890-rubbish-island.json](./378890-rubbish-island.json) |
 | Rubble Rampage | 413127 | [413127-rubble-rampage.json](./413127-rubble-rampage.json) |
@@ -7301,6 +7304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rudolph the Red-Nosed Reindeer: Holiday Play Edition | 420697 | [420697-rudolph-the-red-nosed-reindeer-holiday-play-edition.json](./420697-rudolph-the-red-nosed-reindeer-holiday-play-edition.json) |
 | Rudra no Hihou | 15838 | [15838-rudra-no-hihou.json](./15838-rudra-no-hihou.json) |
 | Rue | 165663 | [165663-rue.json](./165663-rue.json) |
+| Ruff City | 278937 | [278937-ruff-city.json](./278937-ruff-city.json) |
 | Ruff Trigger: The Vanocore Conspiracy | 20539 | [20539-ruff-trigger-the-vanocore-conspiracy.json](./20539-ruff-trigger-the-vanocore-conspiracy.json) |
 | Ruffed Up | 406106 | [406106-ruffed-up.json](./406106-ruffed-up.json) |
 | RuffHousin | 178592 | [178592-ruffhousin.json](./178592-ruffhousin.json) |
