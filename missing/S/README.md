@@ -2559,6 +2559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sealed | 306661 | [306661-sealed.json](./306661-sealed.json) |
 | Sealed Bite: Extended | 291228 | [291228-sealed-bite-extended.json](./291228-sealed-bite-extended.json) |
 | Sealed Fortress | 403228 | [403228-sealed-fortress.json](./403228-sealed-fortress.json) |
+| Sealed With a Dragon’s Kiss | 298988 | [298988-sealed-with-a-dragon-s-kiss.json](./298988-sealed-with-a-dragon-s-kiss.json) |
 | Sealer of Dungeons | 211707 | [211707-sealer-of-dungeons.json](./211707-sealer-of-dungeons.json) |
 | Seals From the Frosty Bay | 402302 | [402302-seals-from-the-frosty-bay.json](./402302-seals-from-the-frosty-bay.json) |
 | Seals of the Bygone | 120572 | [120572-seals-of-the-bygone.json](./120572-seals-of-the-bygone.json) |
@@ -6614,6 +6615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SIM Dispatcher | 140311 | [140311-sim-dispatcher.json](./140311-sim-dispatcher.json) |
 | Sim Empire | 116820 | [116820-sim-empire.json](./116820-sim-empire.json) |
 | Sim Junta | 34748 | [34748-sim-junta.json](./34748-sim-junta.json) |
+| Sim Settlements 2 | 298970 | [298970-sim-settlements-2.json](./298970-sim-settlements-2.json) |
 | Sim Sports Raid | 384213 | [384213-sim-sports-raid.json](./384213-sim-sports-raid.json) |
 | Sim Taxi | 271387 | [271387-sim-taxi.json](./271387-sim-taxi.json) |
 | Sim Taxi 2 | 271379 | [271379-sim-taxi-2.json](./271379-sim-taxi-2.json) |
@@ -6795,6 +6797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simple 500 Series Vol. 2: The Misshitsu kara no Dasshutsu | 79351 | [79351-simple-500-series-vol-2-the-misshitsu-kara-no-dasshutsu.json](./79351-simple-500-series-vol-2-the-misshitsu-kara-no-dasshutsu.json) |
 | Simple 500 Series Vol. 3: The Misshitsu kara no Dasshutsu Tsukiyo no Mansion-hen | 65475 | [65475-simple-500-series-vol-3-the-misshitsu-kara-no-dasshutsu-tsukiyo-no-mansion-hen.json](./65475-simple-500-series-vol-3-the-misshitsu-kara-no-dasshutsu-tsukiyo-no-mansion-hen.json) |
 | Simple Arena Robots | 374959 | [374959-simple-arena-robots.json](./374959-simple-arena-robots.json) |
+| Simple Battle FX | 298949 | [298949-simple-battle-fx.json](./298949-simple-battle-fx.json) |
 | Simple Boxing Drills VR | 371587 | [371587-simple-boxing-drills-vr.json](./371587-simple-boxing-drills-vr.json) |
 | Simple Characters 2000 Series Vol. 03: Kamen Rider - The Bike Race | 43812 | [43812-simple-characters-2000-series-vol-03-kamen-rider-the-bike-race.json](./43812-simple-characters-2000-series-vol-03-kamen-rider-the-bike-race.json) |
 | Simple Characters 2000 Series Vol. 10: Sakigake! Otokojuku - The Dodge Ball | 64117 | [64117-simple-characters-2000-series-vol-10-sakigake-otokojuku-the-dodge-ball.json](./64117-simple-characters-2000-series-vol-10-sakigake-otokojuku-the-dodge-ball.json) |
@@ -7074,6 +7077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sins Of Kaleido | 276733 | [276733-sins-of-kaleido.json](./276733-sins-of-kaleido.json) |
 | Sins of Sinister: The Viscera-Eater | 403645 | [403645-sins-of-sinister-the-viscera-eater.json](./403645-sins-of-sinister-the-viscera-eater.json) |
 | Sins of the Demon RPG | 33004 | [33004-sins-of-the-demon-rpg.json](./33004-sins-of-the-demon-rpg.json) |
+| Sins of the Everlasting Twilight | 298995 | [298995-sins-of-the-everlasting-twilight.json](./298995-sins-of-the-everlasting-twilight.json) |
 | Sins OV Cigar | 294944 | [294944-sins-ov-cigar.json](./294944-sins-ov-cigar.json) |
 | Sinsations | 182269 | [182269-sinsations.json](./182269-sinsations.json) |
 | Sinsations 2: Modern Gods | 332432 | [332432-sinsations-2-modern-gods.json](./332432-sinsations-2-modern-gods.json) |
@@ -10464,6 +10468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Songs of Syx | 123861 | [123861-songs-of-syx.json](./123861-songs-of-syx.json) |
 | Songs of the Chalice | 224668 | [224668-songs-of-the-chalice.json](./224668-songs-of-the-chalice.json) |
 | Songs of the Mystics | 175218 | [175218-songs-of-the-mystics.json](./175218-songs-of-the-mystics.json) |
+| Songs of Travel | 298961 | [298961-songs-of-travel.json](./298961-songs-of-travel.json) |
 | Songs2See Game | 90553 | [90553-songs2see-game.json](./90553-songs2see-game.json) |
 | Songtail: Whiskers of Destiny | 389740 | [389740-songtail-whiskers-of-destiny.json](./389740-songtail-whiskers-of-destiny.json) |
 | Sonic & All-Stars Racing Transformed | 2174 | [2174-sonic-and-all-stars-racing-transformed.json](./2174-sonic-and-all-stars-racing-transformed.json) |
@@ -14399,6 +14404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squire of Time | 271224 | [271224-squire-of-time.json](./271224-squire-of-time.json) |
 | Squirgle | 104033 | [104033-squirgle.json](./104033-squirgle.json) |
 | Squirix | 175353 | [175353-squirix.json](./175353-squirix.json) |
+| Squirm | 298947 | [298947-squirm.json](./298947-squirm.json) |
 | Squirm | 37309 | [37309-squirm.json](./37309-squirm.json) |
 | Squirm 16 | 313498 | [313498-squirm-16.json](./313498-squirm-16.json) |
 | Squirrel and Nuts | 239645 | [239645-squirrel-and-nuts.json](./239645-squirrel-and-nuts.json) |
@@ -22162,6 +22168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Syndicate | 213885 | [213885-syndicate.json](./213885-syndicate.json) |
 | Syndicate | 213886 | [213886-syndicate.json](./213886-syndicate.json) |
 | Syndicate | 49 | [49-syndicate.json](./49-syndicate.json) |
+| Syndicate Boyfriend: Gem Heist | 298975 | [298975-syndicate-boyfriend-gem-heist.json](./298975-syndicate-boyfriend-gem-heist.json) |
 | Syndicate of Souls | 267642 | [267642-syndicate-of-souls.json](./267642-syndicate-of-souls.json) |
 | Syndicate Plus | 77198 | [77198-syndicate-plus.json](./77198-syndicate-plus.json) |
 | Syndicate Wars | 214456 | [214456-syndicate-wars.json](./214456-syndicate-wars.json) |
