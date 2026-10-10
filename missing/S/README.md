@@ -19348,6 +19348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Luigi Dreams 2: Tale of the Dream Stone | 323817 | [323817-super-luigi-dreams-2-tale-of-the-dream-stone.json](./323817-super-luigi-dreams-2-tale-of-the-dream-stone.json) |
 | Super Luigi Land Wii | 294783 | [294783-super-luigi-land-wii.json](./294783-super-luigi-land-wii.json) |
 | Super Luigi Odyssey | 282683 | [282683-super-luigi-odyssey.json](./282683-super-luigi-odyssey.json) |
+| Super Luigi Sunburn | 313428 | [313428-super-luigi-sunburn.json](./313428-super-luigi-sunburn.json) |
 | Super Luigi Trick or Treat | 314278 | [314278-super-luigi-trick-or-treat.json](./314278-super-luigi-trick-or-treat.json) |
 | Super Luigi Wii: The Emissary | 259276 | [259276-super-luigi-wii-the-emissary.json](./259276-super-luigi-wii-the-emissary.json) |
 | Super Lumberjack | 371341 | [371341-super-lumberjack.json](./371341-super-lumberjack.json) |
@@ -19399,6 +19400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario 64 DOS Port | 307320 | [307320-super-mario-64-dos-port.json](./307320-super-mario-64-dos-port.json) |
 | Super Mario 64 DS | 22301 | [22301-super-mario-64-ds.json](./22301-super-mario-64-ds.json) |
 | Super Mario 64 DS 2: The New Stars | 294775 | [294775-super-mario-64-ds-2-the-new-stars.json](./294775-super-mario-64-ds-2-the-new-stars.json) |
+| Super Mario 64 DS Online | 313410 | [313410-super-mario-64-ds-online.json](./313410-super-mario-64-ds-online.json) |
 | Super Mario 64 DS Sub Zero | 315013 | [315013-super-mario-64-ds-sub-zero.json](./315013-super-mario-64-ds-sub-zero.json) |
 | Super Mario 64 EX Alo | 307321 | [307321-super-mario-64-ex-alo.json](./307321-super-mario-64-ex-alo.json) |
 | Super Mario 64 FPS | 144163 | [144163-super-mario-64-fps.json](./144163-super-mario-64-fps.json) |
@@ -19532,6 +19534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Bros. Next: The Lost Levels - Part 2 | 315791 | [315791-super-mario-bros-next-the-lost-levels-part-2.json](./315791-super-mario-bros-next-the-lost-levels-part-2.json) |
 | Super Mario Bros. Peach's Adventure | 142383 | [142383-super-mario-bros-peachs-adventure.json](./142383-super-mario-bros-peachs-adventure.json) |
 | Super Mario Bros. Remastered | 358244 | [358244-super-mario-bros-remastered.json](./358244-super-mario-bros-remastered.json) |
+| Super Mario Bros. S | 313430 | [313430-super-mario-bros-s.json](./313430-super-mario-bros-s.json) |
 | Super Mario Bros. SNES | 377742 | [377742-super-mario-bros-snes.json](./377742-super-mario-bros-snes.json) |
 | Super Mario Bros. SNES Days | 321586 | [321586-super-mario-bros-snes-days.json](./321586-super-mario-bros-snes-days.json) |
 | Super Mario Bros. SNES Days 2 | 321585 | [321585-super-mario-bros-snes-days-2.json](./321585-super-mario-bros-snes-days-2.json) |
@@ -19543,6 +19546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Bros.: Raiders of the Painting Realms | 323897 | [323897-super-mario-bros-raiders-of-the-painting-realms.json](./323897-super-mario-bros-raiders-of-the-painting-realms.json) |
 | Super Mario Bros.: The 8th Star | 324087 | [324087-super-mario-bros-the-8th-star.json](./324087-super-mario-bros-the-8th-star.json) |
 | Super Mario Bros.: The Cookie of Destiny | 323353 | [323353-super-mario-bros-the-cookie-of-destiny.json](./323353-super-mario-bros-the-cookie-of-destiny.json) |
+| Super Mario Bros.: The Extra Objects | 313405 | [313405-super-mario-bros-the-extra-objects.json](./313405-super-mario-bros-the-extra-objects.json) |
 | Super Mario Bros.: Two Players Hack | 162716 | [162716-super-mario-bros-two-players-hack.json](./162716-super-mario-bros-two-players-hack.json) |
 | Super Mario Buys Bread | 370294 | [370294-super-mario-buys-bread.json](./370294-super-mario-buys-bread.json) |
 | Super Mario Chronicles | 323870 | [323870-super-mario-chronicles.json](./323870-super-mario-chronicles.json) |
@@ -19559,6 +19563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Epic 3 | 323815 | [323815-super-mario-epic-3.json](./323815-super-mario-epic-3.json) |
 | Super Mario Essex | 351583 | [351583-super-mario-essex.json](./351583-super-mario-essex.json) |
 | Super Mario Fantasy | 300256 | [300256-super-mario-fantasy.json](./300256-super-mario-fantasy.json) |
+| Super Mario Fighter 2 | 313416 | [313416-super-mario-fighter-2.json](./313416-super-mario-fighter-2.json) |
 | Super Mario Flash | 176865 | [176865-super-mario-flash.json](./176865-super-mario-flash.json) |
 | Super Mario Flash 2 | 183605 | [183605-super-mario-flash-2.json](./183605-super-mario-flash-2.json) |
 | Super Mario Flash 2: SMW Remake | 198502 | [198502-super-mario-flash-2-smw-remake.json](./198502-super-mario-flash-2-smw-remake.json) |
@@ -19594,6 +19599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Journey | 324010 | [324010-super-mario-journey.json](./324010-super-mario-journey.json) |
 | Super Mario Journey Lane | 281017 | [281017-super-mario-journey-lane.json](./281017-super-mario-journey-lane.json) |
 | Super Mario Journey to Infinity | 313107 | [313107-super-mario-journey-to-infinity.json](./313107-super-mario-journey-to-infinity.json) |
+| Super Mario Kart 20XX: Enhanced Edition | 313417 | [313417-super-mario-kart-20xx-enhanced-edition.json](./313417-super-mario-kart-20xx-enhanced-edition.json) |
 | Super Mario Kart 8 | 198451 | [198451-super-mario-kart-8.json](./198451-super-mario-kart-8.json) |
 | Super Mario Kart DS | 198450 | [198450-super-mario-kart-ds.json](./198450-super-mario-kart-ds.json) |
 | Super Mario Kart in Sonic Mania+ | 317419 | [317419-super-mario-kart-in-sonic-mania.json](./317419-super-mario-kart-in-sonic-mania.json) |
@@ -19620,8 +19626,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Maker for Nspire | 262660 | [262660-super-mario-maker-for-nspire.json](./262660-super-mario-maker-for-nspire.json) |
 | Super Mario Maker: Key Update! | 364580 | [364580-super-mario-maker-key-update.json](./364580-super-mario-maker-key-update.json) |
 | Super Mario Megamix | 72323 | [72323-super-mario-megamix.json](./72323-super-mario-megamix.json) |
+| Super Mario Meltdown | 313408 | [313408-super-mario-meltdown.json](./313408-super-mario-meltdown.json) |
 | Super Mario MoonShine 64 | 198370 | [198370-super-mario-moonshine-64.json](./198370-super-mario-moonshine-64.json) |
 | Super Mario Nation | 381728 | [381728-super-mario-nation.json](./381728-super-mario-nation.json) |
+| Super Mario Nightfall | 313420 | [313420-super-mario-nightfall.json](./313420-super-mario-nightfall.json) |
 | Super Mario Odyssey 64 | 132640 | [132640-super-mario-odyssey-64.json](./132640-super-mario-odyssey-64.json) |
 | Super Mario Odyssey 64 | 357442 | [357442-super-mario-odyssey-64.json](./357442-super-mario-odyssey-64.json) |
 | Super Mario Odyssey Autumn Isles | 342088 | [342088-super-mario-odyssey-autumn-isles.json](./342088-super-mario-odyssey-autumn-isles.json) |
@@ -19712,6 +19720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario XP: Super Mario Land | 324082 | [324082-super-mario-xp-super-mario-land.json](./324082-super-mario-xp-super-mario-land.json) |
 | Super Mario: Adventure Awaits | 336102 | [336102-super-mario-adventure-awaits.json](./336102-super-mario-adventure-awaits.json) |
 | Super Mario: Blue Twilight | 330332 | [330332-super-mario-blue-twilight.json](./330332-super-mario-blue-twilight.json) |
+| Super Mario: Bob-omb Blast | 313419 | [313419-super-mario-bob-omb-blast.json](./313419-super-mario-bob-omb-blast.json) |
 | Super Mario: Endless Earth | 135177 | [135177-super-mario-endless-earth.json](./135177-super-mario-endless-earth.json) |
 | Super Mario: Fushigi no Koro-koro Party | 132033 | [132033-super-mario-fushigi-no-koro-koro-party.json](./132033-super-mario-fushigi-no-koro-koro-party.json) |
 | Super Mario: Fushigi no Koro-koro Party 2 | 132034 | [132034-super-mario-fushigi-no-koro-koro-party-2.json](./132034-super-mario-fushigi-no-koro-koro-party-2.json) |
@@ -19720,6 +19729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario: Red Scare 2 | 318038 | [318038-super-mario-red-scare-2.json](./318038-super-mario-red-scare-2.json) |
 | Super Mario: Shatters of A Soul | 323871 | [323871-super-mario-shatters-of-a-soul.json](./323871-super-mario-shatters-of-a-soul.json) |
 | Super Mario: The Cursed Forest | 275565 | [275565-super-mario-the-cursed-forest.json](./275565-super-mario-the-cursed-forest.json) |
+| Super Mario: The End of the Stars | 313409 | [313409-super-mario-the-end-of-the-stars.json](./313409-super-mario-the-end-of-the-stars.json) |
 | Super Mario: The Last GBA Quest | 195488 | [195488-super-mario-the-last-gba-quest.json](./195488-super-mario-the-last-gba-quest.json) |
 | Super Mario: The Lost Dreams | 135168 | [135168-super-mario-the-lost-dreams.json](./135168-super-mario-the-lost-dreams.json) |
 | Super Mario: The New Beginning Revival | 339245 | [339245-super-mario-the-new-beginning-revival.json](./339245-super-mario-the-new-beginning-revival.json) |
