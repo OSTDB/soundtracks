@@ -2975,6 +2975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Celeste: Farewell | 122556 | [122556-celeste-farewell.json](./122556-celeste-farewell.json) |
 | Celestia | 183432 | [183432-celestia.json](./183432-celestia.json) |
 | Celestia Ultimate | 249475 | [249475-celestia-ultimate.json](./249475-celestia-ultimate.json) |
+| Celestia: Chain of Fate | 300474 | [300474-celestia-chain-of-fate.json](./300474-celestia-chain-of-fate.json) |
 | Celestiais & Dragões | 240741 | [240741-celestiais-and-dragoes.json](./240741-celestiais-and-dragoes.json) |
 | Celestial Clockwork | 374241 | [374241-celestial-clockwork.json](./374241-celestial-clockwork.json) |
 | Celestial Correspondence | 135027 | [135027-celestial-correspondence.json](./135027-celestial-correspondence.json) |
@@ -3918,6 +3919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess Bomb | 333236 | [333236-chess-bomb.json](./333236-chess-bomb.json) |
 | Chess Boss | 175197 | [175197-chess-boss.json](./175197-chess-boss.json) |
 | Chess Brain: Dark Troops | 157156 | [157156-chess-brain-dark-troops.json](./157156-chess-brain-dark-troops.json) |
+| Chess But All At Once | 300493 | [300493-chess-but-all-at-once.json](./300493-chess-but-all-at-once.json) |
 | Chess Cartoons | 196826 | [196826-chess-cartoons.json](./196826-chess-cartoons.json) |
 | Chess Cats | 248068 | [248068-chess-cats.json](./248068-chess-cats.json) |
 | Chess Challenger | 227821 | [227821-chess-challenger.json](./227821-chess-challenger.json) |
@@ -6268,6 +6270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Closure | 8146 | [8146-closure.json](./8146-closure.json) |
 | Clothes Forever - Styling Game | 90674 | [90674-clothes-forever-styling-game.json](./90674-clothes-forever-styling-game.json) |
 | Clothing Boutique Simulator: Store Manager | 370802 | [370802-clothing-boutique-simulator-store-manager.json](./370802-clothing-boutique-simulator-store-manager.json) |
+| Clothing Store Simulator | 300492 | [300492-clothing-store-simulator.json](./300492-clothing-store-simulator.json) |
 | Clothing Store Simulator | 381799 | [381799-clothing-store-simulator.json](./381799-clothing-store-simulator.json) |
 | Clotilde Soffritti in Never Double Park your Spaceship | 217876 | [217876-clotilde-soffritti-in-never-double-park-your-spaceship.json](./217876-clotilde-soffritti-in-never-double-park-your-spaceship.json) |
 | Clotilde Soffritti in: Never Buy a Used Spaceship | 217875 | [217875-clotilde-soffritti-in-never-buy-a-used-spaceship.json](./217875-clotilde-soffritti-in-never-buy-a-used-spaceship.json) |
@@ -8398,6 +8401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Control Craft 3 | 32849 | [32849-control-craft-3.json](./32849-control-craft-3.json) |
 | Control Freak | 111233 | [111233-control-freak.json](./111233-control-freak.json) |
 | Control Freak | 323799 | [323799-control-freak.json](./323799-control-freak.json) |
+| Control Monger | 300497 | [300497-control-monger.json](./300497-control-monger.json) |
 | Control Resonant | 225582 | [225582-control-resonant.json](./225582-control-resonant.json) |
 | Control Resonant: Digital Deluxe Edition | 418570 | [418570-control-resonant-digital-deluxe-edition.json](./418570-control-resonant-digital-deluxe-edition.json) |
 | Control Room | 333794 | [333794-control-room.json](./333794-control-room.json) |
@@ -8532,6 +8536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cooking Festival | 147632 | [147632-cooking-festival.json](./147632-cooking-festival.json) |
 | Cooking Fever | 87046 | [87046-cooking-fever.json](./87046-cooking-fever.json) |
 | Cooking Fist | 417414 | [417414-cooking-fist.json](./417414-cooking-fist.json) |
+| Cooking for CrabTopia! | 300501 | [300501-cooking-for-crabtopia.json](./300501-cooking-for-crabtopia.json) |
 | Cooking For Ma! | 404941 | [404941-cooking-for-ma.json](./404941-cooking-for-ma.json) |
 | Cooking Joy - Fun Cooking Game | 103872 | [103872-cooking-joy-fun-cooking-game.json](./103872-cooking-joy-fun-cooking-game.json) |
 | Cooking Live | 226690 | [226690-cooking-live.json](./226690-cooking-live.json) |
@@ -9817,6 +9822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crawlspace | 179208 | [179208-crawlspace.json](./179208-crawlspace.json) |
 | Crawlspace | 252728 | [252728-crawlspace.json](./252728-crawlspace.json) |
 | Crawlspace 2 | 231850 | [231850-crawlspace-2.json](./231850-crawlspace-2.json) |
+| Crawlspace Multiplayer | 300526 | [300526-crawlspace-multiplayer.json](./300526-crawlspace-multiplayer.json) |
 | Crawlyard | 166753 | [166753-crawlyard.json](./166753-crawlyard.json) |
 | Crayation: The First Sketch | 379010 | [379010-crayation-the-first-sketch.json](./379010-crayation-the-first-sketch.json) |
 | Crayola Amazing Art Adventure | 360204 | [360204-crayola-amazing-art-adventure.json](./360204-crayola-amazing-art-adventure.json) |
@@ -10931,6 +10937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cruft | 327893 | [327893-cruft.json](./327893-cruft.json) |
 | Cruis'n Exotica | 249136 | [249136-cruisn-exotica.json](./249136-cruisn-exotica.json) |
 | Cruis'n Exotica | 300037 | [300037-cruisn-exotica.json](./300037-cruisn-exotica.json) |
+| Cruis'n USA | 300472 | [300472-cruisn-usa.json](./300472-cruisn-usa.json) |
 | Cruise & Learn: Downtown Collection | 386214 | [386214-cruise-and-learn-downtown-collection.json](./386214-cruise-and-learn-downtown-collection.json) |
 | Cruise Control | 374982 | [374982-cruise-control.json](./374982-cruise-control.json) |
 | Cruise for a Corpse | 2477 | [2477-cruise-for-a-corpse.json](./2477-cruise-for-a-corpse.json) |
