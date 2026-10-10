@@ -644,6 +644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | QuickSwitch | 341315 | [341315-quickswitch.json](./341315-quickswitch.json) |
 | Quidget the Wonderwiener | 314948 | [314948-quidget-the-wonderwiener.json](./314948-quidget-the-wonderwiener.json) |
 | Quiet | 412220 | [412220-quiet.json](./412220-quiet.json) |
+| Quiet as a Mouse | 315230 | [315230-quiet-as-a-mouse.json](./315230-quiet-as-a-mouse.json) |
 | Quiet as a Stone | 104941 | [104941-quiet-as-a-stone.json](./104941-quiet-as-a-stone.json) |
 | Quiet Bruise | 406665 | [406665-quiet-bruise.json](./406665-quiet-bruise.json) |
 | Quiet Christmas | 58236 | [58236-quiet-christmas.json](./58236-quiet-christmas.json) |
