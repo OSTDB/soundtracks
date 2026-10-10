@@ -5564,6 +5564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grim Clicker | 123830 | [123830-grim-clicker.json](./123830-grim-clicker.json) |
 | Grim Dawn: Crucible Mode DLC | 75683 | [75683-grim-dawn-crucible-mode-dlc.json](./75683-grim-dawn-crucible-mode-dlc.json) |
 | Grim Dice | 401023 | [401023-grim-dice.json](./401023-grim-dice.json) |
+| Grim Dungeon | 301103 | [301103-grim-dungeon.json](./301103-grim-dungeon.json) |
 | Grim Ember | 149524 | [149524-grim-ember.json](./149524-grim-ember.json) |
 | Grim Facade: Hidden Sins | 104659 | [104659-grim-facade-hidden-sins.json](./104659-grim-facade-hidden-sins.json) |
 | Grim Facade: Sinister Obsession - Collector's Edition | 28744 | [28744-grim-facade-sinister-obsession-collectors-edition.json](./28744-grim-facade-sinister-obsession-collectors-edition.json) |
@@ -6428,6 +6429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gun Rounds | 134481 | [134481-gun-rounds.json](./134481-gun-rounds.json) |
 | Gun Runner | 319122 | [319122-gun-runner.json](./319122-gun-runner.json) |
 | Gun Runner | 81287 | [81287-gun-runner.json](./81287-gun-runner.json) |
+| Gun Runners | 301081 | [301081-gun-runners.json](./301081-gun-runners.json) |
 | Gun Shop 3 | 301245 | [301245-gun-shop-3.json](./301245-gun-shop-3.json) |
 | Gun Shop Dealer Simulator | 325000 | [325000-gun-shop-dealer-simulator.json](./325000-gun-shop-dealer-simulator.json) |
 | Gun Shop Simulator | 345969 | [345969-gun-shop-simulator.json](./345969-gun-shop-simulator.json) |
