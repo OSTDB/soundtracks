@@ -964,6 +964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Flow | 220586 | [220586-dark-flow.json](./220586-dark-flow.json) |
 | Dark Flowers | 157135 | [157135-dark-flowers.json](./157135-dark-flowers.json) |
 | Dark Flowers: Tiny Starlight | 380211 | [380211-dark-flowers-tiny-starlight.json](./380211-dark-flowers-tiny-starlight.json) |
+| Dark Forest | 279514 | [279514-dark-forest.json](./279514-dark-forest.json) |
 | Dark Forest Project | 169784 | [169784-dark-forest-project.json](./169784-dark-forest-project.json) |
 | Dark Forest Virtual Chatroom | 116253 | [116253-dark-forest-virtual-chatroom.json](./116253-dark-forest-virtual-chatroom.json) |
 | Dark Forest: Lost Story VR | 164923 | [164923-dark-forest-lost-story-vr.json](./164923-dark-forest-lost-story-vr.json) |
@@ -6735,6 +6736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DJMax Respect V: V Extension II Pack | 225055 | [225055-djmax-respect-v-v-extension-ii-pack.json](./225055-djmax-respect-v-v-extension-ii-pack.json) |
 | DJMax Respect V: V Extension III Pack | 226691 | [226691-djmax-respect-v-v-extension-iii-pack.json](./226691-djmax-respect-v-v-extension-iii-pack.json) |
 | DJMax Respect V: V Extension Pack | 225057 | [225057-djmax-respect-v-v-extension-pack.json](./225057-djmax-respect-v-v-extension-pack.json) |
+| DJMax Respect V: V Extension V Pack | 279537 | [279537-djmax-respect-v-v-extension-v-pack.json](./279537-djmax-respect-v-v-extension-v-pack.json) |
 | DJMax Respect V: V Liberty Pack | 307059 | [307059-djmax-respect-v-v-liberty-pack.json](./307059-djmax-respect-v-v-liberty-pack.json) |
 | DJMax Respect: Chunithm Pack | 383046 | [383046-djmax-respect-chunithm-pack.json](./383046-djmax-respect-chunithm-pack.json) |
 | DJMax Respect: Technika3 Pack | 383056 | [383056-djmax-respect-technika3-pack.json](./383056-djmax-respect-technika3-pack.json) |
@@ -9711,6 +9713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Shogi 4K | 391863 | [391863-dream-shogi-4k.json](./391863-dream-shogi-4k.json) |
 | Dream Shopper | 39629 | [39629-dream-shopper.json](./39629-dream-shopper.json) |
 | Dream Sketcher | 255064 | [255064-dream-sketcher.json](./255064-dream-sketcher.json) |
+| Dream Sketcher: The Lost Opera | 279540 | [279540-dream-sketcher-the-lost-opera.json](./279540-dream-sketcher-the-lost-opera.json) |
 | Dream Slayers | 342032 | [342032-dream-slayers.json](./342032-dream-slayers.json) |
 | Dream Soccer '94 | 39627 | [39627-dream-soccer-94.json](./39627-dream-soccer-94.json) |
 | Dream Storm | 189047 | [189047-dream-storm.json](./189047-dream-storm.json) |
@@ -10657,6 +10660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dude Simulator | 37419 | [37419-dude-simulator.json](./37419-dude-simulator.json) |
 | Dude Simulator 3 | 144297 | [144297-dude-simulator-3.json](./144297-dude-simulator-3.json) |
 | Dude Simulator 4 | 164929 | [164929-dude-simulator-4.json](./164929-dude-simulator-4.json) |
+| Dude Simulator Six | 279551 | [279551-dude-simulator-six.json](./279551-dude-simulator-six.json) |
 | Dude The Dark Agent | 399691 | [399691-dude-the-dark-agent.json](./399691-dude-the-dark-agent.json) |
 | Dude Theft Wars | 96569 | [96569-dude-theft-wars.json](./96569-dude-theft-wars.json) |
 | Dude World | 59918 | [59918-dude-world.json](./59918-dude-world.json) |
