@@ -3231,6 +3231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aka Ninja VR | 151087 | [151087-aka-ninja-vr.json](./151087-aka-ninja-vr.json) |
 | Aka no Sekai | 151528 | [151528-aka-no-sekai.json](./151528-aka-no-sekai.json) |
 | Aka to Blue | 69502 | [69502-aka-to-blue.json](./69502-aka-to-blue.json) |
+| Akabos | 330685 | [330685-akabos.json](./330685-akabos.json) |
 | Akagawa Jirou no Yuurei Ressha | 48606 | [48606-akagawa-jirou-no-yuurei-ressha.json](./48606-akagawa-jirou-no-yuurei-ressha.json) |
 | Akagawa Jirou: Majo-tachi no Nemuri | 67712 | [67712-akagawa-jirou-majo-tachi-no-nemuri.json](./67712-akagawa-jirou-majo-tachi-no-nemuri.json) |
 | Akagawa Jirou: Yasoukyoku | 62544 | [62544-akagawa-jirou-yasoukyoku.json](./62544-akagawa-jirou-yasoukyoku.json) |
@@ -3781,6 +3782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Animals: Sandbox | 154463 | [154463-alien-animals-sandbox.json](./154463-alien-animals-sandbox.json) |
 | Alien Apocalypse | 390010 | [390010-alien-apocalypse.json](./390010-alien-apocalypse.json) |
 | Alien Arcade | 206106 | [206106-alien-arcade.json](./206106-alien-arcade.json) |
+| Alien Arcade Classic | 330694 | [330694-alien-arcade-classic.json](./330694-alien-arcade-classic.json) |
 | Alien Archeologist | 411075 | [411075-alien-archeologist.json](./411075-alien-archeologist.json) |
 | Alien Arena | 39532 | [39532-alien-arena.json](./39532-alien-arena.json) |
 | Alien Arena: Warriors of Mars | 51937 | [51937-alien-arena-warriors-of-mars.json](./51937-alien-arena-warriors-of-mars.json) |
