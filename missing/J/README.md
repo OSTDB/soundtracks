@@ -2135,6 +2135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jumplord | 129052 | [129052-jumplord.json](./129052-jumplord.json) |
 | Jumpman | 107090 | [107090-jumpman.json](./107090-jumpman.json) |
 | Jumpman Lives! | 69868 | [69868-jumpman-lives.json](./69868-jumpman-lives.json) |
+| Jumpmaster | 303747 | [303747-jumpmaster.json](./303747-jumpmaster.json) |
 | Jumpng Disable | 329193 | [329193-jumpng-disable.json](./329193-jumpng-disable.json) |
 | Jumpo Joe | 103423 | [103423-jumpo-joe.json](./103423-jumpo-joe.json) |
 | JumpoCalypse | 406124 | [406124-jumpocalypse.json](./406124-jumpocalypse.json) |
