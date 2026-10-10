@@ -6062,6 +6062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disconcordia | 402940 | [402940-disconcordia.json](./402940-disconcordia.json) |
 | Disconnected | 108899 | [108899-disconnected.json](./108899-disconnected.json) |
 | Disconnected | 184066 | [184066-disconnected.json](./184066-disconnected.json) |
+| Discontrolled | 299565 | [299565-discontrolled.json](./299565-discontrolled.json) |
 | Discopup | 327986 | [327986-discopup.json](./327986-discopup.json) |
 | Discordia | 55960 | [55960-discordia.json](./55960-discordia.json) |
 | Discordia by Iron Games | 262343 | [262343-discordia-by-iron-games.json](./262343-discordia-by-iron-games.json) |
@@ -6888,6 +6889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doctor Who: Thirteen | 240494 | [240494-doctor-who-thirteen.json](./240494-doctor-who-thirteen.json) |
 | Doctor Who: Worlds in Time | 66095 | [66095-doctor-who-worlds-in-time.json](./66095-doctor-who-worlds-in-time.json) |
 | Doctor Who's 50th Anniversary | 235305 | [235305-doctor-whos-50th-anniversary.json](./235305-doctor-whos-50th-anniversary.json) |
+| Doctor's Orders | 299532 | [299532-doctors-orders.json](./299532-doctors-orders.json) |
 | Doctrine: C.U.L.T. | 391702 | [391702-doctrine-c-u-l-t.json](./391702-doctrine-c-u-l-t.json) |
 | Dodd Goes To The Museum | 327370 | [327370-dodd-goes-to-the-museum.json](./327370-dodd-goes-to-the-museum.json) |
 | Dodge | 177542 | [177542-dodge.json](./177542-dodge.json) |
@@ -10392,6 +10394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DSS war party | 286071 | [286071-dss-war-party.json](./286071-dss-war-party.json) |
 | Dstroy | 19223 | [19223-dstroy.json](./19223-dstroy.json) |
 | Dsync | 103361 | [103361-dsync.json](./103361-dsync.json) |
+| DT Bloodmasters | 299563 | [299563-dt-bloodmasters.json](./299563-dt-bloodmasters.json) |
 | DT Racer | 44709 | [44709-dt-racer.json](./44709-dt-racer.json) |
 | DT Racer Refueled | 68306 | [68306-dt-racer-refueled.json](./68306-dt-racer-refueled.json) |
 | DT: Lords of Genomes | 65523 | [65523-dt-lords-of-genomes.json](./65523-dt-lords-of-genomes.json) |
