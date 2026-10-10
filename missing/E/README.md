@@ -1502,6 +1502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elf Epizode One | 114356 | [114356-elf-epizode-one.json](./114356-elf-epizode-one.json) |
 | Elf Girl Pinball | 212891 | [212891-elf-girl-pinball.json](./212891-elf-girl-pinball.json) |
 | Elf Girls | 393045 | [393045-elf-girls.json](./393045-elf-girls.json) |
+| Elf Kicker | 285417 | [285417-elf-kicker.json](./285417-elf-kicker.json) |
 | Elf Manor | 126422 | [126422-elf-manor.json](./126422-elf-manor.json) |
 | Elf no Oyome-san: Harem Kon Suishou | 416018 | [416018-elf-no-oyome-san-harem-kon-suishou.json](./416018-elf-no-oyome-san-harem-kon-suishou.json) |
 | Elf of Era! Idols Project | 394774 | [394774-elf-of-era-idols-project.json](./394774-elf-of-era-idols-project.json) |
