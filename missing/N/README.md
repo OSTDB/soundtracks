@@ -1739,6 +1739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Net Versus Shogi | 78078 | [78078-net-versus-shogi.json](./78078-net-versus-shogi.json) |
 | Net Worthless | 410971 | [410971-net-worthless.json](./410971-net-worthless.json) |
 | Net-tac-toe | 276723 | [276723-net-tac-toe.json](./276723-net-tac-toe.json) |
+| Net.Crawl | 309947 | [309947-net-crawl.json](./309947-net-crawl.json) |
 | Netabare ga Hageshisugiru RPG 2: Shinyuu no Shin no Sugata ha Daimaou | 335674 | [335674-netabare-ga-hageshisugiru-rpg-2-shinyuu-no-shin-no-sugata-ha-daimaou.json](./335674-netabare-ga-hageshisugiru-rpg-2-shinyuu-no-shin-no-sugata-ha-daimaou.json) |
 | Netabare ga Hageshisugiru RPG: Saigo no Teki no Shoutai ha Yuusha no Chichi | 335671 | [335671-netabare-ga-hageshisugiru-rpg-saigo-no-teki-no-shoutai-ha-yuusha-no-chichi.json](./335671-netabare-ga-hageshisugiru-rpg-saigo-no-teki-no-shoutai-ha-yuusha-no-chichi.json) |
 | Netannad | 254568 | [254568-netannad.json](./254568-netannad.json) |
@@ -3436,6 +3437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nitro Back | 216985 | [216985-nitro-back.json](./216985-nitro-back.json) |
 | Nitro Ball | 40983 | [40983-nitro-ball.json](./40983-nitro-ball.json) |
 | Nitro Boost Challenge | 72624 | [72624-nitro-boost-challenge.json](./72624-nitro-boost-challenge.json) |
+| Nitro Champagne Tower | 309950 | [309950-nitro-champagne-tower.json](./309950-nitro-champagne-tower.json) |
 | Nitro City Racing | 397875 | [397875-nitro-city-racing.json](./397875-nitro-city-racing.json) |
 | Nitro Derby | 280786 | [280786-nitro-derby.json](./280786-nitro-derby.json) |
 | Nitro Drive | 388976 | [388976-nitro-drive.json](./388976-nitro-drive.json) |
@@ -3690,6 +3692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Way Home: Blammo! | 346798 | [346798-no-way-home-blammo.json](./346798-no-way-home-blammo.json) |
 | No Way Out | 239677 | [239677-no-way-out.json](./239677-no-way-out.json) |
 | No Way Out | 30104 | [30104-no-way-out.json](./30104-no-way-out.json) |
+| No Way Out | 310165 | [310165-no-way-out.json](./310165-no-way-out.json) |
 | No Wings Required | 394322 | [394322-no-wings-required.json](./394322-no-wings-required.json) |
 | No Words to Speak With | 176782 | [176782-no-words-to-speak-with.json](./176782-no-words-to-speak-with.json) |
 | No Worries | 286065 | [286065-no-worries.json](./286065-no-worries.json) |
@@ -4652,6 +4655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Numbers & Nodes | 329017 | [329017-numbers-and-nodes.json](./329017-numbers-and-nodes.json) |
 | Numbers Destiny | 341489 | [341489-numbers-destiny.json](./341489-numbers-destiny.json) |
 | Numbers Go Up | 401069 | [401069-numbers-go-up.json](./401069-numbers-go-up.json) |
+| Numbers.io | 310070 | [310070-numbers-io.json](./310070-numbers-io.json) |
 | Numbershark 5 | 286602 | [286602-numbershark-5.json](./286602-numbershark-5.json) |
 | Numbertron | 202714 | [202714-numbertron.json](./202714-numbertron.json) |
 | Numberzilla | 331380 | [331380-numberzilla.json](./331380-numberzilla.json) |
