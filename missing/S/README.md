@@ -5702,6 +5702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shoppe Keep 2 Character Creator Preview | 83799 | [83799-shoppe-keep-2-character-creator-preview.json](./83799-shoppe-keep-2-character-creator-preview.json) |
 | Shopper's Paradise | 70404 | [70404-shoppers-paradise.json](./70404-shoppers-paradise.json) |
 | Shoppigeons | 181749 | [181749-shoppigeons.json](./181749-shoppigeons.json) |
+| Shopping Benfica | 298426 | [298426-shopping-benfica.json](./298426-shopping-benfica.json) |
 | Shopping Cart Hero 2 | 388042 | [388042-shopping-cart-hero-2.json](./388042-shopping-cart-hero-2.json) |
 | Shopping Cart Pusher | 414831 | [414831-shopping-cart-pusher.json](./414831-shopping-cart-pusher.json) |
 | Shopping Clutter 11: Magical Garden | 284469 | [284469-shopping-clutter-11-magical-garden.json](./284469-shopping-clutter-11-magical-garden.json) |
@@ -8345,6 +8346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slime Simulator Games | 286786 | [286786-slime-simulator-games.json](./286786-slime-simulator-games.json) |
 | Slime Slam | 126967 | [126967-slime-slam.json](./126967-slime-slam.json) |
 | Slime Slayer | 147607 | [147607-slime-slayer.json](./147607-slime-slayer.json) |
+| Slime Slayer | 298419 | [298419-slime-slayer.json](./298419-slime-slayer.json) |
 | Slime Slayer: Endless Loot | 412954 | [412954-slime-slayer-endless-loot.json](./412954-slime-slayer-endless-loot.json) |
 | Slime Smasher EX | 213645 | [213645-slime-smasher-ex.json](./213645-slime-smasher-ex.json) |
 | Slime Store Simulator | 344988 | [344988-slime-store-simulator.json](./344988-slime-store-simulator.json) |
@@ -13105,6 +13107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spellcats: Auto Card Tactics | 236288 | [236288-spellcats-auto-card-tactics.json](./236288-spellcats-auto-card-tactics.json) |
 | Spellchain | 181672 | [181672-spellchain.json](./181672-spellchain.json) |
 | Spellchanted 2D Hidden Object Puzzle Adveture Tile-Matching | 321548 | [321548-spellchanted-2d-hidden-object-puzzle-adveture-tile-matching.json](./321548-spellchanted-2d-hidden-object-puzzle-adveture-tile-matching.json) |
+| Spellcheck | 298392 | [298392-spellcheck.json](./298392-spellcheck.json) |
 | Spelldash | 197149 | [197149-spelldash.json](./197149-spelldash.json) |
 | Spellfall | 60072 | [60072-spellfall.json](./60072-spellfall.json) |
 | Spellfarers | 308580 | [308580-spellfarers.json](./308580-spellfarers.json) |
@@ -20800,6 +20803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supermarket Mania | 23664 | [23664-supermarket-mania.json](./23664-supermarket-mania.json) |
 | Supermarket Mania HD | 24271 | [24271-supermarket-mania-hd.json](./24271-supermarket-mania-hd.json) |
 | Supermarket Security Simulator | 275234 | [275234-supermarket-security-simulator.json](./275234-supermarket-security-simulator.json) |
+| Supermarket Shopping Simulator | 298437 | [298437-supermarket-shopping-simulator.json](./298437-supermarket-shopping-simulator.json) |
 | Supermarket Shriek | 107170 | [107170-supermarket-shriek.json](./107170-supermarket-shriek.json) |
 | Supermarket Simulation Grocery Empire 3D | 305561 | [305561-supermarket-simulation-grocery-empire-3d.json](./305561-supermarket-simulation-grocery-empire-3d.json) |
 | Supermarket Simulator | 274920 | [274920-supermarket-simulator.json](./274920-supermarket-simulator.json) |
@@ -21576,6 +21580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Dreams on Christmas Eve | 334697 | [334697-sweet-dreams-on-christmas-eve.json](./334697-sweet-dreams-on-christmas-eve.json) |
 | Sweet Driver | 372484 | [372484-sweet-driver.json](./372484-sweet-driver.json) |
 | Sweet Dungeon | 159750 | [159750-sweet-dungeon.json](./159750-sweet-dungeon.json) |
+| Sweet Elite | 298429 | [298429-sweet-elite.json](./298429-sweet-elite.json) |
 | Sweet Ex | 392906 | [392906-sweet-ex.json](./392906-sweet-ex.json) |
 | Sweet F. Cake | 134470 | [134470-sweet-f-cake.json](./134470-sweet-f-cake.json) |
 | Sweet fantasy | 29081 | [29081-sweet-fantasy.json](./29081-sweet-fantasy.json) |
