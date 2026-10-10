@@ -700,6 +700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oh Boy Cheese Remastered | 341503 | [341503-oh-boy-cheese-remastered.json](./341503-oh-boy-cheese-remastered.json) |
 | Oh Chute! | 292611 | [292611-oh-chute.json](./292611-oh-chute.json) |
 | Oh Crab! | 129573 | [129573-oh-crab.json](./129573-oh-crab.json) |
+| Oh Deer | 285913 | [285913-oh-deer.json](./285913-oh-deer.json) |
 | Oh Frog | 132242 | [132242-oh-frog.json](./132242-oh-frog.json) |
 | Oh Jeez, Oh No, My Rabbits Are Gone! | 127201 | [127201-oh-jeez-oh-no-my-rabbits-are-gone.json](./127201-oh-jeez-oh-no-my-rabbits-are-gone.json) |
 | Oh Jellies! | 398442 | [398442-oh-jellies.json](./398442-oh-jellies.json) |
@@ -1946,6 +1947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Onlympic Up! | 391698 | [391698-onlympic-up.json](./391698-onlympic-up.json) |
 | OnlySluts: Waifu Match | 384717 | [384717-onlysluts-waifu-match.json](./384717-onlysluts-waifu-match.json) |
 | OnlySociety: Dawn | 223381 | [223381-onlysociety-dawn.json](./223381-onlysociety-dawn.json) |
+| OnlySociety: Secret | 285917 | [285917-onlysociety-secret.json](./285917-onlysociety-secret.json) |
 | Onmitsu Kiritan | 204729 | [204729-onmitsu-kiritan.json](./204729-onmitsu-kiritan.json) |
 | Onmyoji Chess | 194010 | [194010-onmyoji-chess.json](./194010-onmyoji-chess.json) |
 | Onmyoji in the Otherworld: Sayaka's Story | 172005 | [172005-onmyoji-in-the-otherworld-sayakas-story.json](./172005-onmyoji-in-the-otherworld-sayakas-story.json) |
