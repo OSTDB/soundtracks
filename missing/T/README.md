@@ -5818,6 +5818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fazbear Facility | 206591 | [206591-the-fazbear-facility.json](./206591-the-fazbear-facility.json) |
 | The Fear | 94356 | [94356-the-fear.json](./94356-the-fear.json) |
 | The Fear 2: Creepy Scream House | 96745 | [96745-the-fear-2-creepy-scream-house.json](./96745-the-fear-2-creepy-scream-house.json) |
+| The Fear Business | 293553 | [293553-the-fear-business.json](./293553-the-fear-business.json) |
 | The Fear Island | 153866 | [153866-the-fear-island.json](./153866-the-fear-island.json) |
 | The Feast | 228727 | [228727-the-feast.json](./228727-the-feast.json) |
 | The Feast of Madness: A Night of Drowning in Forbidden Temptation | 308876 | [308876-the-feast-of-madness-a-night-of-drowning-in-forbidden-temptation.json](./308876-the-feast-of-madness-a-night-of-drowning-in-forbidden-temptation.json) |
@@ -12638,6 +12639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Three Kingdoms 2019 | 107421 | [107421-three-kingdoms-2019.json](./107421-three-kingdoms-2019.json) |
 | Three Kingdoms 2025 | 368017 | [368017-three-kingdoms-2025.json](./368017-three-kingdoms-2025.json) |
 | Three Kingdoms 21 | 149094 | [149094-three-kingdoms-21.json](./149094-three-kingdoms-21.json) |
+| Three Kingdoms and Martial Arts and Jianghu | 293538 | [293538-three-kingdoms-and-martial-arts-and-jianghu.json](./293538-three-kingdoms-and-martial-arts-and-jianghu.json) |
 | Three Kingdoms Battle Chess | 288441 | [288441-three-kingdoms-battle-chess.json](./288441-three-kingdoms-battle-chess.json) |
 | Three Kingdoms Club Manager | 392310 | [392310-three-kingdoms-club-manager.json](./392310-three-kingdoms-club-manager.json) |
 | Three Kingdoms Fantasy: Miss Meng and the Explosive Boy | 128328 | [128328-three-kingdoms-fantasy-miss-meng-and-the-explosive-boy.json](./128328-three-kingdoms-fantasy-miss-meng-and-the-explosive-boy.json) |
