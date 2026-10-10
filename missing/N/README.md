@@ -1079,6 +1079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nedetskie Skazki | 252821 | [252821-nedetskie-skazki.json](./252821-nedetskie-skazki.json) |
 | Nedia Hotel | 201548 | [201548-nedia-hotel.json](./201548-nedia-hotel.json) |
 | Nedra | 324297 | [324297-nedra.json](./324297-nedra.json) |
+| Nedy's Adventure: The Curse of Vera Deluxe | 324525 | [324525-nedys-adventure-the-curse-of-vera-deluxe.json](./324525-nedys-adventure-the-curse-of-vera-deluxe.json) |
 | Need For Conquest | 157203 | [157203-need-for-conquest.json](./157203-need-for-conquest.json) |
 | Need for Drifting | 249229 | [249229-need-for-drifting.json](./249229-need-for-drifting.json) |
 | Need For Drink | 29014 | [29014-need-for-drink.json](./29014-need-for-drink.json) |
@@ -2756,6 +2757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nighthaw-X3000 | 29181 | [29181-nighthaw-x3000.json](./29181-nighthaw-x3000.json) |
 | Nighthawk | 334329 | [334329-nighthawk.json](./334329-nighthawk.json) |
 | Nighthawk no Shokuzai: Zenpen | 401609 | [401609-nighthawk-no-shokuzai-zenpen.json](./401609-nighthawk-no-shokuzai-zenpen.json) |
+| Nighthold | 324568 | [324568-nighthold.json](./324568-nighthold.json) |
 | Nightin Cage | 351701 | [351701-nightin-cage.json](./351701-nightin-cage.json) |
 | Nightingale Downs | 74112 | [74112-nightingale-downs.json](./74112-nightingale-downs.json) |
 | Nightingale: Birth of the Alliance | 194990 | [194990-nightingale-birth-of-the-alliance.json](./194990-nightingale-birth-of-the-alliance.json) |
