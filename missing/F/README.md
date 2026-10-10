@@ -4555,6 +4555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flat Galaxy: An Idlemare | 387623 | [387623-flat-galaxy-an-idlemare.json](./387623-flat-galaxy-an-idlemare.json) |
 | Flat Heroes | 31898 | [31898-flat-heroes.json](./31898-flat-heroes.json) |
 | Flat Kingdom | 18795 | [18795-flat-kingdom.json](./18795-flat-kingdom.json) |
+| Flat Machine | 304316 | [304316-flat-machine.json](./304316-flat-machine.json) |
 | Flat Path | 31734 | [31734-flat-path.json](./31734-flat-path.json) |
 | Flat Spot | 258129 | [258129-flat-spot.json](./258129-flat-spot.json) |
 | Flat Worlds | 75055 | [75055-flat-worlds.json](./75055-flat-worlds.json) |
@@ -5675,6 +5676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Footsy | 311139 | [311139-footsy.json](./311139-footsy.json) |
 | Footy Ball Tournament 2018 | 104050 | [104050-footy-ball-tournament-2018.json](./104050-footy-ball-tournament-2018.json) |
 | Footy Bash | 271909 | [271909-footy-bash.json](./271909-footy-bash.json) |
+| FootyKitDle | 304250 | [304250-footykitdle.json](./304250-footykitdle.json) |
 | Foqus | 46609 | [46609-foqus.json](./46609-foqus.json) |
 | For a Place by the Putrid Sea | 297600 | [297600-for-a-place-by-the-putrid-sea.json](./297600-for-a-place-by-the-putrid-sea.json) |
 | For a Vast Future: Colour Palette 8 | 288307 | [288307-for-a-vast-future-colour-palette-8.json](./288307-for-a-vast-future-colour-palette-8.json) |
