@@ -1494,6 +1494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legacy Code | 185034 | [185034-legacy-code.json](./185034-legacy-code.json) |
 | Legacy of Aeroja | 193480 | [193480-legacy-of-aeroja.json](./193480-legacy-of-aeroja.json) |
 | Legacy of Ancestors | 346589 | [346589-legacy-of-ancestors.json](./346589-legacy-of-ancestors.json) |
+| Legacy of Animal: Hog's Life 2 | 291390 | [291390-legacy-of-animal-hogs-life-2.json](./291390-legacy-of-animal-hogs-life-2.json) |
 | Legacy of Ashes | 384742 | [384742-legacy-of-ashes.json](./384742-legacy-of-ashes.json) |
 | Legacy of Datura | 168120 | [168120-legacy-of-datura.json](./168120-legacy-of-datura.json) |
 | Legacy of Defense | 345015 | [345015-legacy-of-defense.json](./345015-legacy-of-defense.json) |
@@ -2296,6 +2297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Just Farm | 374846 | [374846-lets-just-farm.json](./374846-lets-just-farm.json) |
 | Let's Kill Hitler: The Game | 253914 | [253914-lets-kill-hitler-the-game.json](./253914-lets-kill-hitler-the-game.json) |
 | Let's Kill Iggy! | 330843 | [330843-lets-kill-iggy.json](./330843-lets-kill-iggy.json) |
+| Let's Kill This Guy With Hammers!!! | 291357 | [291357-lets-kill-this-guy-with-hammers.json](./291357-lets-kill-this-guy-with-hammers.json) |
 | Let's Learn Janggi | 147876 | [147876-lets-learn-janggi.json](./147876-lets-learn-janggi.json) |
 | Let's Learn Japanese! Complete Collection | 306696 | [306696-lets-learn-japanese-complete-collection.json](./306696-lets-learn-japanese-complete-collection.json) |
 | Let's Learn Japanese! Kanji Sudoku | 306440 | [306440-lets-learn-japanese-kanji-sudoku.json](./306440-lets-learn-japanese-kanji-sudoku.json) |
@@ -4645,6 +4647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loot Frog | 404355 | [404355-loot-frog.json](./404355-loot-frog.json) |
 | Loot Goblin Inc. | 337672 | [337672-loot-goblin-inc.json](./337672-loot-goblin-inc.json) |
 | Loot Goblin: An Idle Adventure | 389592 | [389592-loot-goblin-an-idle-adventure.json](./389592-loot-goblin-an-idle-adventure.json) |
+| Loot Goblins | 291366 | [291366-loot-goblins.json](./291366-loot-goblins.json) |
 | Loot Goblins | 406662 | [406662-loot-goblins.json](./406662-loot-goblins.json) |
 | Loot Grind Simulator | 143601 | [143601-loot-grind-simulator.json](./143601-loot-grind-simulator.json) |
 | Loot Hero DX | 17289 | [17289-loot-hero-dx.json](./17289-loot-hero-dx.json) |
