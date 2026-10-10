@@ -126,6 +126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-Man Battle Royale | 66485 | [66485-pac-man-battle-royale.json](./66485-pac-man-battle-royale.json) |
 | Pac-Man Championship Edition | 204672 | [204672-pac-man-championship-edition.json](./204672-pac-man-championship-edition.json) |
 | Pac-Man Collection | 308389 | [308389-pac-man-collection.json](./308389-pac-man-collection.json) |
+| Pac-Man Couchcade | 304234 | [304234-pac-man-couchcade.json](./304234-pac-man-couchcade.json) |
 | Pac-Man Doom | 262564 | [262564-pac-man-doom.json](./262564-pac-man-doom.json) |
 | Pac-Man Double Feature | 378397 | [378397-pac-man-double-feature.json](./378397-pac-man-double-feature.json) |
 | Pac-Man Forever | 396714 | [396714-pac-man-forever.json](./396714-pac-man-forever.json) |
@@ -5390,6 +5391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Piyo Blocks 2 | 175413 | [175413-piyo-blocks-2.json](./175413-piyo-blocks-2.json) |
 | Piyo Puzz: Piyokoro x Puzzle | 328493 | [328493-piyo-puzz-piyokoro-x-puzzle.json](./328493-piyo-puzz-piyokoro-x-puzzle.json) |
 | Piyopoyon | 394481 | [394481-piyopoyon.json](./394481-piyopoyon.json) |
+| Pizz'Amore | 304233 | [304233-pizzamore.json](./304233-pizzamore.json) |
 | Pizza Apocalypse | 169748 | [169748-pizza-apocalypse.json](./169748-pizza-apocalypse.json) |
 | Pizza at Resort 64 | 394367 | [394367-pizza-at-resort-64.json](./394367-pizza-at-resort-64.json) |
 | Pizza Bandit | 258559 | [258559-pizza-bandit.json](./258559-pizza-bandit.json) |
@@ -10810,6 +10812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puss in Boots: Fear Not Hooman | 118204 | [118204-puss-in-boots-fear-not-hooman.json](./118204-puss-in-boots-fear-not-hooman.json) |
 | Puss in Boots: Purrfect Adventures | 298578 | [298578-puss-in-boots-purrfect-adventures.json](./298578-puss-in-boots-purrfect-adventures.json) |
 | Puss in Pants | 359044 | [359044-puss-in-pants.json](./359044-puss-in-pants.json) |
+| Puss in Woods | 304389 | [304389-puss-in-woods.json](./304389-puss-in-woods.json) |
 | Puss! | 81128 | [81128-puss.json](./81128-puss.json) |
 | Pussies Wrestling Dicks | 211928 | [211928-pussies-wrestling-dicks.json](./211928-pussies-wrestling-dicks.json) |
 | Pussy Kingdom: Queen of Passion | 278393 | [278393-pussy-kingdom-queen-of-passion.json](./278393-pussy-kingdom-queen-of-passion.json) |
