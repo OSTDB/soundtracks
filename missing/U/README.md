@@ -1172,6 +1172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undertale 2 | 178026 | [178026-undertale-2.json](./178026-undertale-2.json) |
 | Undertale 2: Overtale | 232519 | [232519-undertale-2-overtale.json](./232519-undertale-2-overtale.json) |
 | Undertale 3D | 324938 | [324938-undertale-3d.json](./324938-undertale-3d.json) |
+| Undertale Green: The Pre-Show | 329622 | [329622-undertale-green-the-pre-show.json](./329622-undertale-green-the-pre-show.json) |
 | Undertale Hard Mode: Director's Cut | 364600 | [364600-undertale-hard-mode-directors-cut.json](./364600-undertale-hard-mode-directors-cut.json) |
 | Undertale Patience | 307154 | [307154-undertale-patience.json](./307154-undertale-patience.json) |
 | Undertale Perseverance | 398006 | [398006-undertale-perseverance.json](./398006-undertale-perseverance.json) |
@@ -1183,6 +1184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undertale Yellow | 136482 | [136482-undertale-yellow.json](./136482-undertale-yellow.json) |
 | Undertale Yellow But Blue | 318536 | [318536-undertale-yellow-but-blue.json](./318536-undertale-yellow-but-blue.json) |
 | Undertale Yellow: Shades of Justice | 351780 | [351780-undertale-yellow-shades-of-justice.json](./351780-undertale-yellow-shades-of-justice.json) |
+| Undertale: Call of the Void - Placek's Take | 329609 | [329609-undertale-call-of-the-void-placeks-take.json](./329609-undertale-call-of-the-void-placeks-take.json) |
 | Undertale: Chara Boss Fight | 283766 | [283766-undertale-chara-boss-fight.json](./283766-undertale-chara-boss-fight.json) |
 | Undertale: Collector's Edition | 136341 | [136341-undertale-collectors-edition.json](./136341-undertale-collectors-edition.json) |
 | Undertale: Disbelief | 136869 | [136869-undertale-disbelief.json](./136869-undertale-disbelief.json) |
