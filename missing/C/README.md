@@ -1818,6 +1818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Casey Noir and Carved Pumpkin's Latte | 353967 | [353967-casey-noir-and-carved-pumpkins-latte.json](./353967-casey-noir-and-carved-pumpkins-latte.json) |
 | Casey Powell Lacrosse 16 | 20969 | [20969-casey-powell-lacrosse-16.json](./20969-casey-powell-lacrosse-16.json) |
 | Casey Powell Lacrosse 18 | 96477 | [96477-casey-powell-lacrosse-18.json](./96477-casey-powell-lacrosse-18.json) |
+| Casey Taylor: Ace Attorney | 302646 | [302646-casey-taylor-ace-attorney.json](./302646-casey-taylor-ace-attorney.json) |
 | Casey's Contraptions | 63646 | [63646-caseys-contraptions.json](./63646-caseys-contraptions.json) |
 | Cash Cleaner Simulator | 297943 | [297943-cash-cleaner-simulator.json](./297943-cash-cleaner-simulator.json) |
 | Cash Cow: Anniversary Edition | 90837 | [90837-cash-cow-anniversary-edition.json](./90837-cash-cow-anniversary-edition.json) |
