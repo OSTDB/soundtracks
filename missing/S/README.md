@@ -2923,6 +2923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sector Strike | 145016 | [145016-sector-strike.json](./145016-sector-strike.json) |
 | Sector Sweep | 224598 | [224598-sector-sweep.json](./224598-sector-sweep.json) |
 | Sector War | 413131 | [413131-sector-war.json](./413131-sector-war.json) |
+| Sector Yama | 289800 | [289800-sector-yama.json](./289800-sector-yama.json) |
 | Sector Zero | 304298 | [304298-sector-zero.json](./304298-sector-zero.json) |
 | Sector Zero | 35783 | [35783-sector-zero.json](./35783-sector-zero.json) |
 | SectorA23 | 182552 | [182552-sectora23.json](./182552-sectora23.json) |
@@ -5506,6 +5507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shock Wave: Operation JumpGate | 4310 | [4310-shock-wave-operation-jumpgate.json](./4310-shock-wave-operation-jumpgate.json) |
 | Shocked | 213458 | [213458-shocked.json](./213458-shocked.json) |
 | Shocking Twist | 308261 | [308261-shocking-twist.json](./308261-shocking-twist.json) |
+| Shockman Collection Vol. 1 | 289766 | [289766-shockman-collection-vol-1.json](./289766-shockman-collection-vol-1.json) |
 | Shockwave | 48084 | [48084-shockwave.json](./48084-shockwave.json) |
 | ShockWave | 323284 | [323284-shockwave.json](./323284-shockwave.json) |
 | Shockwave Assault | 18705 | [18705-shockwave-assault.json](./18705-shockwave-assault.json) |
@@ -5540,6 +5542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shogo: Mobile Armor Division | 12464 | [12464-shogo-mobile-armor-division.json](./12464-shogo-mobile-armor-division.json) |
 | Shogun | 298095 | [298095-shogun.json](./298095-shogun.json) |
 | Shogun Castle | 336590 | [336590-shogun-castle.json](./336590-shogun-castle.json) |
+| Shogun Curse | 289779 | [289779-shogun-curse.json](./289779-shogun-curse.json) |
 | Shogun Showdown | 208533 | [208533-shogun-showdown.json](./208533-shogun-showdown.json) |
 | Shogun Warriors | 39584 | [39584-shogun-warriors.json](./39584-shogun-warriors.json) |
 | Shogun: Total War | 436 | [436-shogun-total-war.json](./436-shogun-total-war.json) |
@@ -9497,6 +9500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snow Wars | 150785 | [150785-snow-wars.json](./150785-snow-wars.json) |
 | Snow Wave | 91551 | [91551-snow-wave.json](./91551-snow-wave.json) |
 | Snow White and the Seven Dwarfs | 77396 | [77396-snow-white-and-the-seven-dwarfs.json](./77396-snow-white-and-the-seven-dwarfs.json) |
+| Snow White Ashes | 289791 | [289791-snow-white-ashes.json](./289791-snow-white-ashes.json) |
 | Snow White in Happily Ever After | 42582 | [42582-snow-white-in-happily-ever-after.json](./42582-snow-white-in-happily-ever-after.json) |
 | Snow White Solitaire: Charmed Kingdom | 81771 | [81771-snow-white-solitaire-charmed-kingdom.json](./81771-snow-white-solitaire-charmed-kingdom.json) |
 | Snow White: Counting Diamond Mine | 198897 | [198897-snow-white-counting-diamond-mine.json](./198897-snow-white-counting-diamond-mine.json) |
@@ -13128,6 +13132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spellbound : The Magic Within | 155981 | [155981-spellbound-the-magic-within.json](./155981-spellbound-the-magic-within.json) |
 | Spellbound Beauties | 385320 | [385320-spellbound-beauties.json](./385320-spellbound-beauties.json) |
 | Spellbound Dizzy | 12362 | [12362-spellbound-dizzy.json](./12362-spellbound-dizzy.json) |
+| Spellbound FPS | 289809 | [289809-spellbound-fps.json](./289809-spellbound-fps.json) |
 | Spellbound Hearts | 286013 | [286013-spellbound-hearts.json](./286013-spellbound-hearts.json) |
 | Spellbound Schoolgirls! | 206950 | [206950-spellbound-schoolgirls.json](./206950-spellbound-schoolgirls.json) |
 | Spellbound Spire | 142428 | [142428-spellbound-spire.json](./142428-spellbound-spire.json) |
@@ -17059,6 +17064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stranded: Mysteries of Time | 65227 | [65227-stranded-mysteries-of-time.json](./65227-stranded-mysteries-of-time.json) |
 | Strands | 293711 | [293711-strands.json](./293711-strands.json) |
 | Strandzha Adventures 3D | 311825 | [311825-strandzha-adventures-3d.json](./311825-strandzha-adventures-3d.json) |
+| Strange | 289790 | [289790-strange.json](./289790-strange.json) |
 | Strange Adventure | 394833 | [394833-strange-adventure.json](./394833-strange-adventure.json) |
 | Strange Aeons | 216861 | [216861-strange-aeons.json](./216861-strange-aeons.json) |
 | Strange Alchemy | 337807 | [337807-strange-alchemy.json](./337807-strange-alchemy.json) |
