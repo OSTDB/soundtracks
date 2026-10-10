@@ -3459,6 +3459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nishimura Kyoutarou Mystery: Super Express Satsujin Jiken | 48801 | [48801-nishimura-kyoutarou-mystery-super-express-satsujin-jiken.json](./48801-nishimura-kyoutarou-mystery-super-express-satsujin-jiken.json) |
 | Nissan Presents Over Drivin' GT-R | 45454 | [45454-nissan-presents-over-drivin-gt-r.json](./45454-nissan-presents-over-drivin-gt-r.json) |
 | Nissan Presents: Over Drivin' Skyline Memorial | 200009 | [200009-nissan-presents-over-drivin-skyline-memorial.json](./200009-nissan-presents-over-drivin-skyline-memorial.json) |
+| Nissebanden i Grønland | 288107 | [288107-nissebanden-i-gr-nland.json](./288107-nissebanden-i-gr-nland.json) |
 | Nitebear on Sleepystreet | 304198 | [304198-nitebear-on-sleepystreet.json](./304198-nitebear-on-sleepystreet.json) |
 | Niteline | 304722 | [304722-niteline.json](./304722-niteline.json) |
 | Nitemare | 276393 | [276393-nitemare.json](./276393-nitemare.json) |
