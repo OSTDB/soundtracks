@@ -2908,6 +2908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Light Fighter | 165018 | [165018-light-fighter.json](./165018-light-fighter.json) |
 | Light Fingers | 69487 | [69487-light-fingers.json](./69487-light-fingers.json) |
 | Light Followers: Blinded by the Dark | 349886 | [349886-light-followers-blinded-by-the-dark.json](./349886-light-followers-blinded-by-the-dark.json) |
+| Light from Above | 288649 | [288649-light-from-above.json](./288649-light-from-above.json) |
 | Light Gravity Cube | 343768 | [343768-light-gravity-cube.json](./343768-light-gravity-cube.json) |
 | Light Gravity Cube | 37042 | [37042-light-gravity-cube.json](./37042-light-gravity-cube.json) |
 | Light Guardian | 330403 | [330403-light-guardian.json](./330403-light-guardian.json) |
