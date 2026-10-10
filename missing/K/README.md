@@ -1253,6 +1253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kick Buds | 401544 | [401544-kick-buds.json](./401544-kick-buds.json) |
 | Kick Buttowski: Loco Launcho | 234895 | [234895-kick-buttowski-loco-launcho.json](./234895-kick-buttowski-loco-launcho.json) |
 | Kick Challenger Air Foot Yasai no Kuni no Ashi Senshi | 41261 | [41261-kick-challenger-air-foot-yasai-no-kuni-no-ashi-senshi.json](./41261-kick-challenger-air-foot-yasai-no-kuni-no-ashi-senshi.json) |
+| Kick Club | 318716 | [318716-kick-club.json](./318716-kick-club.json) |
 | Kick Goal | 40341 | [40341-kick-goal.json](./40341-kick-goal.json) |
 | Kick It | 94198 | [94198-kick-it.json](./94198-kick-it.json) |
 | Kick it, Bunny! | 143109 | [143109-kick-it-bunny.json](./143109-kick-it-bunny.json) |
