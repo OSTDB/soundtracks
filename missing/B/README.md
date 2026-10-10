@@ -5922,6 +5922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blast Lacrosse | 44876 | [44876-blast-lacrosse.json](./44876-blast-lacrosse.json) |
 | Blast Lander | 74125 | [74125-blast-lander.json](./74125-blast-lander.json) |
 | Blast Linkers | 399616 | [399616-blast-linkers.json](./399616-blast-linkers.json) |
+| Blast Monkeys | 300527 | [300527-blast-monkeys.json](./300527-blast-monkeys.json) |
 | Blast Motors | 235298 | [235298-blast-motors.json](./235298-blast-motors.json) |
 | Blast Off | 136855 | [136855-blast-off.json](./136855-blast-off.json) |
 | Blast Off | 46841 | [46841-blast-off.json](./46841-blast-off.json) |
