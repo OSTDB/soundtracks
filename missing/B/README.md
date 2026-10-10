@@ -325,6 +325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backpackers Guide to the Universe | 309344 | [309344-backpackers-guide-to-the-universe.json](./309344-backpackers-guide-to-the-universe.json) |
 | Backroom | 238458 | [238458-backroom.json](./238458-backroom.json) |
 | Backroom Beyond | 206596 | [206596-backroom-beyond.json](./206596-backroom-beyond.json) |
+| Backroom Company | 309554 | [309554-backroom-company.json](./309554-backroom-company.json) |
 | Backrooms | 306424 | [306424-backrooms.json](./306424-backrooms.json) |
 | Backrooms | 379993 | [379993-backrooms.json](./379993-backrooms.json) |
 | Backrooms | 379994 | [379994-backrooms.json](./379994-backrooms.json) |
@@ -2749,6 +2750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battleship | 95434 | [95434-battleship.json](./95434-battleship.json) |
 | Battleship Apollo | 143669 | [143669-battleship-apollo.json](./143669-battleship-apollo.json) |
 | Battleship Athena | 310496 | [310496-battleship-athena.json](./310496-battleship-athena.json) |
+| Battleship Avalon | 309539 | [309539-battleship-avalon.json](./309539-battleship-avalon.json) |
 | Battleship Command | 403062 | [403062-battleship-command.json](./403062-battleship-command.json) |
 | Battleship Crafting | 358484 | [358484-battleship-crafting.json](./358484-battleship-crafting.json) |
 | Battleship Lonewolf | 260651 | [260651-battleship-lonewolf.json](./260651-battleship-lonewolf.json) |
@@ -6415,6 +6417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Sprawl | 406673 | [406673-block-sprawl.json](./406673-block-sprawl.json) |
 | Block Story | 9175 | [9175-block-story.json](./9175-block-story.json) |
 | Block Strike | 28898 | [28898-block-strike.json](./28898-block-strike.json) |
+| Block Tower TD 2 | 309432 | [309432-block-tower-td-2.json](./309432-block-tower-td-2.json) |
 | Block Tricks | 107364 | [107364-block-tricks.json](./107364-block-tricks.json) |
 | Block Trucks Multiplayer Racing | 337655 | [337655-block-trucks-multiplayer-racing.json](./337655-block-trucks-multiplayer-racing.json) |
 | Block Tuner | 124253 | [124253-block-tuner.json](./124253-block-tuner.json) |
@@ -7966,6 +7969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boong-Ga Boong-Ga | 58738 | [58738-boong-ga-boong-ga.json](./58738-boong-ga-boong-ga.json) |
 | Boonka | 317386 | [317386-boonka.json](./317386-boonka.json) |
 | Boons Farm | 108043 | [108043-boons-farm.json](./108043-boons-farm.json) |
+| Booom-Slang! | 309628 | [309628-booom-slang.json](./309628-booom-slang.json) |
 | Booooooooooooooounce | 163817 | [163817-booooooooooooooounce.json](./163817-booooooooooooooounce.json) |
 | Booox | 410222 | [410222-booox.json](./410222-booox.json) |
 | Boopa Zap | 93550 | [93550-boopa-zap.json](./93550-boopa-zap.json) |
