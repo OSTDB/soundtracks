@@ -1719,6 +1719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Improbability | 311485 | [311485-improbability.json](./311485-improbability.json) |
 | Improbability Control Bureau | 264787 | [264787-improbability-control-bureau.json](./264787-improbability-control-bureau.json) |
 | Improbable Soccer | 141236 | [141236-improbable-soccer.json](./141236-improbable-soccer.json) |
+| Impromptu Trip | 285910 | [285910-impromptu-trip.json](./285910-impromptu-trip.json) |
 | Improvised Tactics | 373866 | [373866-improvised-tactics.json](./373866-improvised-tactics.json) |
 | Impulse | 137027 | [137027-impulse.json](./137027-impulse.json) |
 | Impulse Rogue | 199572 | [199572-impulse-rogue.json](./199572-impulse-rogue.json) |
@@ -2449,6 +2450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinity Dungeons | 203569 | [203569-infinity-dungeons.json](./203569-infinity-dungeons.json) |
 | Infinity Fury | 401760 | [401760-infinity-fury.json](./401760-infinity-fury.json) |
 | Infinity Girl | 191217 | [191217-infinity-girl.json](./191217-infinity-girl.json) |
+| Infinity Golf | 285949 | [285949-infinity-golf.json](./285949-infinity-golf.json) |
 | Infinity Inc. | 201614 | [201614-infinity-inc.json](./201614-infinity-inc.json) |
 | Infinity Is What We Will Be | 286102 | [286102-infinity-is-what-we-will-be.json](./286102-infinity-is-what-we-will-be.json) |
 | Infinity Kingdom | 143085 | [143085-infinity-kingdom.json](./143085-infinity-kingdom.json) |
@@ -3788,6 +3790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isekai: Warrior's Kiss | 298997 | [298997-isekai-warriors-kiss.json](./298997-isekai-warriors-kiss.json) |
 | Isekaing: From Zero to Zero | 323548 | [323548-isekaing-from-zero-to-zero.json](./323548-isekaing-from-zero-to-zero.json) |
 | Isekat: Crushed by a Computer, My Beloved Kitten is Transported to a Fantasy World where its Typing Skills Save the Kingdom! | 346161 | [346161-isekat-crushed-by-a-computer-my-beloved-kitten-is-transported-to-a-fantasy-world-where-its-typing-skills-save-the-kingdom.json](./346161-isekat-crushed-by-a-computer-my-beloved-kitten-is-transported-to-a-fantasy-world-where-its-typing-skills-save-the-kingdom.json) |
+| isekizima: Ruins and Tails Journey | 285950 | [285950-isekizima-ruins-and-tails-journey.json](./285950-isekizima-ruins-and-tails-journey.json) |
 | Iselin Saga | 154923 | [154923-iselin-saga.json](./154923-iselin-saga.json) |
 | Isemono | 410422 | [410422-isemono.json](./410422-isemono.json) |
 | ISEPS Idle Particle Simulator | 256524 | [256524-iseps-idle-particle-simulator.json](./256524-iseps-idle-particle-simulator.json) |
