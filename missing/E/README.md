@@ -61,6 +61,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EA Sports College Football 27 | 400601 | [400601-ea-sports-college-football-27.json](./400601-ea-sports-college-football-27.json) |
 | EA Sports College Football 27: Deluxe Edition | 409040 | [409040-ea-sports-college-football-27-deluxe-edition.json](./409040-ea-sports-college-football-27-deluxe-edition.json) |
 | EA Sports Double Header | 78074 | [78074-ea-sports-double-header.json](./78074-ea-sports-double-header.json) |
+| EA Sports F1 2001 | 307801 | [307801-ea-sports-f1-2001.json](./307801-ea-sports-f1-2001.json) |
 | EA Sports Fantasy Football Live Draft Tracker | 72895 | [72895-ea-sports-fantasy-football-live-draft-tracker.json](./72895-ea-sports-fantasy-football-live-draft-tracker.json) |
 | EA Sports Fantasy Football Live Score Tracker | 90929 | [90929-ea-sports-fantasy-football-live-score-tracker.json](./90929-ea-sports-fantasy-football-live-score-tracker.json) |
 | EA Sports FC 25 | 308698 | [308698-ea-sports-fc-25.json](./308698-ea-sports-fc-25.json) |
@@ -4512,6 +4513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exile: Escape from the Pit | 7765 | [7765-exile-escape-from-the-pit.json](./7765-exile-escape-from-the-pit.json) |
 | Exiled from Court | 177356 | [177356-exiled-from-court.json](./177356-exiled-from-court.json) |
 | Exiled Survivors | 278524 | [278524-exiled-survivors.json](./278524-exiled-survivors.json) |
+| Exiler | 307799 | [307799-exiler.json](./307799-exiler.json) |
 | Exiles of Embermark | 95549 | [95549-exiles-of-embermark.json](./95549-exiles-of-embermark.json) |
 | Exilio | 218712 | [218712-exilio.json](./218712-exilio.json) |
 | Eximius: Seize the Frontline | 96094 | [96094-eximius-seize-the-frontline.json](./96094-eximius-seize-the-frontline.json) |
