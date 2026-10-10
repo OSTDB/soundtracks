@@ -509,6 +509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yokai: Spirits Hunt | 122961 | [122961-yokai-spirits-hunt.json](./122961-yokai-spirits-hunt.json) |
 | Yokai's Secret | 138265 | [138265-yokais-secret.json](./138265-yokais-secret.json) |
 | Yokai's Wish | 220732 | [220732-yokais-wish.json](./220732-yokais-wish.json) |
+| Yōkaimaki | 316940 | [316940-yokaimaki.json](./316940-yokaimaki.json) |
 | Yokaiware | 186313 | [186313-yokaiware.json](./186313-yokaiware.json) |
 | Yokaizer: Genki-dou | 385917 | [385917-yokaizer-genki-dou.json](./385917-yokaizer-genki-dou.json) |
 | Yokaizer: Kaiki-dou | 385721 | [385721-yokaizer-kaiki-dou.json](./385721-yokaizer-kaiki-dou.json) |
@@ -1034,6 +1035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ys: Wanderers from Ys | 15450 | [15450-ys-wanderers-from-ys.json](./15450-ys-wanderers-from-ys.json) |
 | Ytbb | 188456 | [188456-ytbb.json](./188456-ytbb.json) |
 | YTP All-Stars | 370903 | [370903-ytp-all-stars.json](./370903-ytp-all-stars.json) |
+| Yttrium | 316918 | [316918-yttrium.json](./316918-yttrium.json) |
 | Yu Crossing Animals | 219037 | [219037-yu-crossing-animals.json](./219037-yu-crossing-animals.json) |
 | Yu Hayami no American Kids: Eigo de Bikkuri | 293911 | [293911-yu-hayami-no-american-kids-eigo-de-bikkuri.json](./293911-yu-hayami-no-american-kids-eigo-de-bikkuri.json) |
 | Yu Hayami no American Kids: Eigo de Talk | 293913 | [293913-yu-hayami-no-american-kids-eigo-de-talk.json](./293913-yu-hayami-no-american-kids-eigo-de-talk.json) |
