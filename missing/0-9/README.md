@@ -1456,6 +1456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 4 in One: Cave Wonders/Earth Defender/Jaguar Bomber/Soccer Champion | 138731 | [138731-4-in-one-cave-wonders-earth-defender-jaguar-bomber-soccer-champion.json](./138731-4-in-one-cave-wonders-earth-defender-jaguar-bomber-soccer-champion.json) |
 | 4 Kingdoms Supremacy | 297056 | [297056-4-kingdoms-supremacy.json](./297056-4-kingdoms-supremacy.json) |
 | 4 Kyouka Perfect Clear DS: Eigo Onsei Tsuki | 269538 | [269538-4-kyouka-perfect-clear-ds-eigo-onsei-tsuki.json](./269538-4-kyouka-perfect-clear-ds-eigo-onsei-tsuki.json) |
+| 4 Leaf Clovers | 302692 | [302692-4-leaf-clovers.json](./302692-4-leaf-clovers.json) |
 | 4 Letters 1 Word | 239120 | [239120-4-letters-1-word.json](./239120-4-letters-1-word.json) |
 | 4 Minutes and 33 Seconds of Uniqueness | 208886 | [208886-4-minutes-and-33-seconds-of-uniqueness.json](./208886-4-minutes-and-33-seconds-of-uniqueness.json) |
 | 4 Months of You | 165650 | [165650-4-months-of-you.json](./165650-4-months-of-you.json) |
