@@ -1591,6 +1591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ells Tales: Chairbound | 358388 | [358388-ells-tales-chairbound.json](./358388-ells-tales-chairbound.json) |
 | Ells Tales: Egg | 302053 | [302053-ells-tales-egg.json](./302053-ells-tales-egg.json) |
 | Ellsydia | 378416 | [378416-ellsydia.json](./378416-ellsydia.json) |
+| Elly's Adventure | 315203 | [315203-ellys-adventure.json](./315203-ellys-adventure.json) |
 | Elm Knight: A Living Body Armor | 91762 | [91762-elm-knight-a-living-body-armor.json](./91762-elm-knight-a-living-body-armor.json) |
 | Elmin | 345588 | [345588-elmin.json](./345588-elmin.json) |
 | Elminage Gothic 3D Remix: Ulm Zakir to Yami no Gishiki | 136933 | [136933-elminage-gothic-3d-remix-ulm-zakir-to-yami-no-gishiki.json](./136933-elminage-gothic-3d-remix-ulm-zakir-to-yami-no-gishiki.json) |
@@ -1844,6 +1845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emma's Armaments | 213017 | [213017-emmas-armaments.json](./213017-emmas-armaments.json) |
 | Emma's World | 299220 | [299220-emmas-world.json](./299220-emmas-world.json) |
 | Emmensity | 356639 | [356639-emmensity.json](./356639-emmensity.json) |
+| Emmerdale DVD Game | 315194 | [315194-emmerdale-dvd-game.json](./315194-emmerdale-dvd-game.json) |
 | Emmitt Smith Football | 42559 | [42559-emmitt-smith-football.json](./42559-emmitt-smith-football.json) |
 | Emmy II | 62195 | [62195-emmy-ii.json](./62195-emmy-ii.json) |
 | Emmy: The Funny Game | 62196 | [62196-emmy-the-funny-game.json](./62196-emmy-the-funny-game.json) |
@@ -3320,6 +3322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape the past Collection | 177053 | [177053-escape-the-past-collection.json](./177053-escape-the-past-collection.json) |
 | Escape the Prison: 3 Days to Freedom | 248657 | [248657-escape-the-prison-3-days-to-freedom.json](./248657-escape-the-prison-3-days-to-freedom.json) |
 | Escape the Quack | 332986 | [332986-escape-the-quack.json](./332986-escape-the-quack.json) |
+| Escape the Reef | 315249 | [315249-escape-the-reef.json](./315249-escape-the-reef.json) |
 | Escape the room | 192157 | [192157-escape-the-room.json](./192157-escape-the-room.json) |
 | Escape the Room | 108954 | [108954-escape-the-room.json](./108954-escape-the-room.json) |
 | Escape the Room | 339772 | [339772-escape-the-room.json](./339772-escape-the-room.json) |
