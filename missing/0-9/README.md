@@ -1885,6 +1885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 8th Avenue | 333576 | [333576-8th-avenue.json](./333576-8th-avenue.json) |
 | 8th Baspis | 308925 | [308925-8th-baspis.json](./308925-8th-baspis.json) |
 | 8th Millenium: War Against The Pagan Gods | 300961 | [300961-8th-millenium-war-against-the-pagan-gods.json](./300961-8th-millenium-war-against-the-pagan-gods.json) |
+| 8th Millennium: War Against the Pagan Gods | 315229 | [315229-8th-millennium-war-against-the-pagan-gods.json](./315229-8th-millennium-war-against-the-pagan-gods.json) |
 | 9 Ball Shootout | 39846 | [39846-9-ball-shootout.json](./39846-9-ball-shootout.json) |
 | 9 Balls | 96944 | [96944-9-balls.json](./96944-9-balls.json) |
 | 9 Childs Street | 207401 | [207401-9-childs-street.json](./207401-9-childs-street.json) |
