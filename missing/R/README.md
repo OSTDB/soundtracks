@@ -1738,6 +1738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Boxing 2: Remastered - Landon Edition | 346002 | [346002-real-boxing-2-remastered-landon-edition.json](./346002-real-boxing-2-remastered-landon-edition.json) |
 | Real Boxing 2: Remastered - Maverick DLC | 393069 | [393069-real-boxing-2-remastered-maverick-dlc.json](./393069-real-boxing-2-remastered-maverick-dlc.json) |
 | Real Boxing 2: Remastered - Platinum Edition | 396926 | [396926-real-boxing-2-remastered-platinum-edition.json](./396926-real-boxing-2-remastered-platinum-edition.json) |
+| Real Boxing 2: Remastered - Stone Edition | 330207 | [330207-real-boxing-2-remastered-stone-edition.json](./330207-real-boxing-2-remastered-stone-edition.json) |
 | Real Bus Mechanic Simulator | 102611 | [102611-real-bus-mechanic-simulator.json](./102611-real-bus-mechanic-simulator.json) |
 | Real Cake Maker | 316187 | [316187-real-cake-maker.json](./316187-real-cake-maker.json) |
 | Real Cake Maker: Complete Edition | 317905 | [317905-real-cake-maker-complete-edition.json](./317905-real-cake-maker-complete-edition.json) |
@@ -1784,6 +1785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Football 2019 | 116353 | [116353-real-football-2019.json](./116353-real-football-2019.json) |
 | Real Girl 3: Virtual Sex | 372120 | [372120-real-girl-3-virtual-sex.json](./372120-real-girl-3-virtual-sex.json) |
 | Real Grand Gangster Mafia war | 231914 | [231914-real-grand-gangster-mafia-war.json](./231914-real-grand-gangster-mafia-war.json) |
+| Real Hentai 4 | 330225 | [330225-real-hentai-4.json](./330225-real-hentai-4.json) |
 | Real Hentai 5 | 332497 | [332497-real-hentai-5.json](./332497-real-hentai-5.json) |
 | Real Hentai Situation! 2 | 194628 | [194628-real-hentai-situation-2.json](./194628-real-hentai-situation-2.json) |
 | Real Hentai Situation! DT | 314991 | [314991-real-hentai-situation-dt.json](./314991-real-hentai-situation-dt.json) |
