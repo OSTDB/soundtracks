@@ -1124,6 +1124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capture Corps: Archipelago | 217867 | [217867-capture-corps-archipelago.json](./217867-capture-corps-archipelago.json) |
 | Capture Creatures | 195252 | [195252-capture-creatures.json](./195252-capture-creatures.json) |
 | Capture the Flag | 23901 | [23901-capture-the-flag.json](./23901-capture-the-flag.json) |
+| Capture the Intelligence | 306725 | [306725-capture-the-intelligence.json](./306725-capture-the-intelligence.json) |
 | Captured | 312193 | [312193-captured.json](./312193-captured.json) |
 | Captured | 413918 | [413918-captured.json](./413918-captured.json) |
 | Captured 2 | 340031 | [340031-captured-2.json](./340031-captured-2.json) |
@@ -3299,6 +3300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Champion Jockey: G1 Jockey & Gallop Racer | 20148 | [20148-champion-jockey-g1-jockey-and-gallop-racer.json](./20148-champion-jockey-g1-jockey-and-gallop-racer.json) |
 | Champion Kendo | 6089 | [6089-champion-kendo.json](./6089-champion-kendo.json) |
 | Champion of Andia | 272282 | [272282-champion-of-andia.json](./272282-champion-of-andia.json) |
+| Champion of Turnabouts | 306618 | [306618-champion-of-turnabouts.json](./306618-champion-of-turnabouts.json) |
 | Champion of Venus | 196636 | [196636-champion-of-venus.json](./196636-champion-of-venus.json) |
 | Champion Pro Wrestling | 6090 | [6090-champion-pro-wrestling.json](./6090-champion-pro-wrestling.json) |
 | Champion ProWres Special | 125978 | [125978-champion-prowres-special.json](./125978-champion-prowres-special.json) |
