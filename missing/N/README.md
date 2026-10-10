@@ -1535,6 +1535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Geometry Dash | 279004 | [279004-neon-geometry-dash.json](./279004-neon-geometry-dash.json) |
 | Neon Girls | 140563 | [140563-neon-girls.json](./140563-neon-girls.json) |
 | Neon Goddess | 278967 | [278967-neon-goddess.json](./278967-neon-goddess.json) |
+| Neon Grid Defenders | 297887 | [297887-neon-grid-defenders.json](./297887-neon-grid-defenders.json) |
 | Neon Hardcore | 51586 | [51586-neon-hardcore.json](./51586-neon-hardcore.json) |
 | Neon Hardcorps | 33429 | [33429-neon-hardcorps.json](./33429-neon-hardcorps.json) |
 | Neon Hearts City | 331383 | [331383-neon-hearts-city.json](./331383-neon-hearts-city.json) |
@@ -2904,6 +2905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NightReaper2 | 388192 | [388192-nightreaper2.json](./388192-nightreaper2.json) |
 | Nightriderz | 159142 | [159142-nightriderz.json](./159142-nightriderz.json) |
 | Nightron Wars | 161729 | [161729-nightron-wars.json](./161729-nightron-wars.json) |
+| Nightrunner | 297899 | [297899-nightrunner.json](./297899-nightrunner.json) |
 | Nights at the Clown Maze | 111611 | [111611-nights-at-the-clown-maze.json](./111611-nights-at-the-clown-maze.json) |
 | Nights at the Convenience Store | 408014 | [408014-nights-at-the-convenience-store.json](./408014-nights-at-the-convenience-store.json) |
 | Nights in Endless Dream | 388366 | [388366-nights-in-endless-dream.json](./388366-nights-in-endless-dream.json) |
