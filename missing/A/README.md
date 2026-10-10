@@ -4395,6 +4395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Allura: The Three Realms | 148970 | [148970-allura-the-three-realms.json](./148970-allura-the-three-realms.json) |
 | Ally Gory: The Great Mushroom Hunt | 171998 | [171998-ally-gory-the-great-mushroom-hunt.json](./171998-ally-gory-the-great-mushroom-hunt.json) |
 | Ally Racer | 138542 | [138542-ally-racer.json](./138542-ally-racer.json) |
+| AllYourArdu | 298954 | [298954-allyourardu.json](./298954-allyourardu.json) |
 | Alma | 80915 | [80915-alma.json](./80915-alma.json) |
 | Almana no Kiseki | 41255 | [41255-almana-no-kiseki.json](./41255-almana-no-kiseki.json) |
 | Almanac of Girlswampwar Territory & The Girls Who Swim as Fertilizer Through the Warm Soil Cloaking the Roots of the Glorious Tree of Eugenics: Giving Birth to a Black Hole in a Walmart Parking Lot at 1am | 131413 | [131413-almanac-of-girlswampwar-territory-and-the-girls-who-swim-as-fertilizer-through-the-warm-soil-cloaking-the-roots-of-the-glorious-tree-of-eugenics-giving-birth-to-a-black-hole-in-a-walmart-parking-lot-at-1am.json](./131413-almanac-of-girlswampwar-territory-and-the-girls-who-swim-as-fertilizer-through-the-warm-soil-cloaking-the-roots-of-the-glorious-tree-of-eugenics-giving-birth-to-a-black-hole-in-a-walmart-parking-lot-at-1am.json) |
@@ -5235,6 +5236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amshay | 199383 | [199383-amshay.json](./199383-amshay.json) |
 | Amsterdam Taxi Madness | 73746 | [73746-amsterdam-taxi-madness.json](./73746-amsterdam-taxi-madness.json) |
 | AmsterDoom | 94385 | [94385-amsterdoom.json](./94385-amsterdoom.json) |
+| Amstrad Compilation Disk Spectrum Plus 3 | 298963 | [298963-amstrad-compilation-disk-spectrum-plus-3.json](./298963-amstrad-compilation-disk-spectrum-plus-3.json) |
 | Amstrad Eterno X | 376589 | [376589-amstrad-eterno-x.json](./376589-amstrad-eterno-x.json) |
 | Amstrad Shuffle Card Games | 60234 | [60234-amstrad-shuffle-card-games.json](./60234-amstrad-shuffle-card-games.json) |
 | AMTAG: Another Medieval Themed Adventure Game | 316714 | [316714-amtag-another-medieval-themed-adventure-game.json](./316714-amtag-another-medieval-themed-adventure-game.json) |
@@ -8166,6 +8168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arkanoid R 2000 | 43807 | [43807-arkanoid-r-2000.json](./43807-arkanoid-r-2000.json) |
 | Arkanoid Returns | 13685 | [13685-arkanoid-returns.json](./13685-arkanoid-returns.json) |
 | Arkanoid vs. Space Invaders | 56018 | [56018-arkanoid-vs-space-invaders.json](./56018-arkanoid-vs-space-invaders.json) |
+| Arkanoid vs. the Occult | 298959 | [298959-arkanoid-vs-the-occult.json](./298959-arkanoid-vs-the-occult.json) |
 | Arkanoid: Amiga Alternate Levels | 268492 | [268492-arkanoid-amiga-alternate-levels.json](./268492-arkanoid-amiga-alternate-levels.json) |
 | Arkanoid: Chinese Edition | 268493 | [268493-arkanoid-chinese-edition.json](./268493-arkanoid-chinese-edition.json) |
 | Arkanoid: Doh It Again | 42636 | [42636-arkanoid-doh-it-again.json](./42636-arkanoid-doh-it-again.json) |
