@@ -302,6 +302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Half Moon ni Kawaru made: Ramiya Ryo no Niji-iro Tamate-bako | 198534 | [198534-half-moon-ni-kawaru-made-ramiya-ryo-no-niji-iro-tamate-bako.json](./198534-half-moon-ni-kawaru-made-ramiya-ryo-no-niji-iro-tamate-bako.json) |
 | Half of Our | 297569 | [297569-half-of-our.json](./297569-half-of-our.json) |
 | Half Past Fate: Romantic Distancing | 143589 | [143589-half-past-fate-romantic-distancing.json](./143589-half-past-fate-romantic-distancing.json) |
+| Half Plan | 301058 | [301058-half-plan.json](./301058-half-plan.json) |
 | Half Step Princess | 410179 | [410179-half-step-princess.json](./410179-half-step-princess.json) |
 | Half-A-Cado | 354953 | [354953-half-a-cado.json](./354953-half-a-cado.json) |
 | Half-Baked Girls | 151801 | [151801-half-baked-girls.json](./151801-half-baked-girls.json) |
@@ -3381,6 +3382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heracles no Eikou II: Titan no Metsubou | 48619 | [48619-heracles-no-eikou-ii-titan-no-metsubou.json](./48619-heracles-no-eikou-ii-titan-no-metsubou.json) |
 | Heracles no Eikou III: Kamigami no Chinmoku | 38257 | [38257-heracles-no-eikou-iii-kamigami-no-chinmoku.json](./38257-heracles-no-eikou-iii-kamigami-no-chinmoku.json) |
 | Heracles no Eikou: Ugokidashita Kamigami | 129545 | [129545-heracles-no-eikou-ugokidashita-kamigami.json](./129545-heracles-no-eikou-ugokidashita-kamigami.json) |
+| Heraean Games | 301083 | [301083-heraean-games.json](./301083-heraean-games.json) |
 | Herakles and The Princess of Troy | 119090 | [119090-herakles-and-the-princess-of-troy.json](./119090-herakles-and-the-princess-of-troy.json) |
 | Herald of Havoc | 211276 | [211276-herald-of-havoc.json](./211276-herald-of-havoc.json) |
 | Herald of the Mists | 310501 | [310501-herald-of-the-mists.json](./310501-herald-of-the-mists.json) |
@@ -6931,6 +6933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoyle Solitaire | 73883 | [73883-hoyle-solitaire.json](./73883-hoyle-solitaire.json) |
 | Hoyle South Beach Solitaire | 210051 | [210051-hoyle-south-beach-solitaire.json](./210051-hoyle-south-beach-solitaire.json) |
 | Hoyle Table Games 2004 | 70940 | [70940-hoyle-table-games-2004.json](./70940-hoyle-table-games-2004.json) |
+| Hoyo | 301074 | [301074-hoyo.json](./301074-hoyo.json) |
 | Hozy | 345443 | [345443-hozy.json](./345443-hozy.json) |
 | HPL: Nyarlathotep Rising | 258223 | [258223-hpl-nyarlathotep-rising.json](./258223-hpl-nyarlathotep-rising.json) |
 | HPRZ: The Syndrome | 149551 | [149551-hprz-the-syndrome.json](./149551-hprz-the-syndrome.json) |
