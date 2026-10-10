@@ -445,6 +445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zeno Clash: Ultimate Edition | 21578 | [21578-zeno-clash-ultimate-edition.json](./21578-zeno-clash-ultimate-edition.json) |
 | Zeno no Nichijou | 284577 | [284577-zeno-no-nichijou.json](./284577-zeno-no-nichijou.json) |
 | Zenodeath | 118828 | [118828-zenodeath.json](./118828-zenodeath.json) |
+| Zenoken | 326633 | [326633-zenoken.json](./326633-zenoken.json) |
 | Zenomatrix | 332450 | [332450-zenomatrix.json](./332450-zenomatrix.json) |
 | Zenonia | 38725 | [38725-zenonia.json](./38725-zenonia.json) |
 | Zenonia 2: The Lost Memories | 39232 | [39232-zenonia-2-the-lost-memories.json](./39232-zenonia-2-the-lost-memories.json) |
