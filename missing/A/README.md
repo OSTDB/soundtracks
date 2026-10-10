@@ -159,6 +159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Day In the Life | 78681 | [78681-a-day-in-the-life.json](./78681-a-day-in-the-life.json) |
 | A Day in the Life Of | 387694 | [387694-a-day-in-the-life-of.json](./387694-a-day-in-the-life-of.json) |
 | A Day in the Life of a Writer | 201647 | [201647-a-day-in-the-life-of-a-writer.json](./201647-a-day-in-the-life-of-a-writer.json) |
+| A Day in the Life of Death | 311741 | [311741-a-day-in-the-life-of-death.json](./311741-a-day-in-the-life-of-death.json) |
 | A Day of Maintenance | 154623 | [154623-a-day-of-maintenance.json](./154623-a-day-of-maintenance.json) |
 | A Day on the Farm | 326582 | [326582-a-day-on-the-farm.json](./326582-a-day-on-the-farm.json) |
 | A Day Out with Ube | 242006 | [242006-a-day-out-with-ube.json](./242006-a-day-out-with-ube.json) |
@@ -1337,6 +1338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Acaratus | 35105 | [35105-acaratus.json](./35105-acaratus.json) |
 | ACardShooter | 118233 | [118233-acardshooter.json](./118233-acardshooter.json) |
 | Acassia | 209660 | [209660-acassia.json](./209660-acassia.json) |
+| ACB Studios | 311745 | [311745-acb-studios.json](./311745-acb-studios.json) |
 | Accel | 114902 | [114902-accel.json](./114902-accel.json) |
 | Accel World vs. Sword Art Online: Deluxe Edition | 65842 | [65842-accel-world-vs-sword-art-online-deluxe-edition.json](./65842-accel-world-vs-sword-art-online-deluxe-edition.json) |
 | Accel World vs. Sword Art Online: Millennium Twilight | 36796 | [36796-accel-world-vs-sword-art-online-millennium-twilight.json](./36796-accel-world-vs-sword-art-online-millennium-twilight.json) |
@@ -6813,6 +6815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apocripha/0 Alex Disk | 204557 | [204557-apocripha-0-alex-disk.json](./204557-apocripha-0-alex-disk.json) |
 | Apocripha/0 Platina Disk | 204560 | [204560-apocripha-0-platina-disk.json](./204560-apocripha-0-platina-disk.json) |
 | Apocrypha | 171416 | [171416-apocrypha.json](./171416-apocrypha.json) |
+| Apogea | 311753 | [311753-apogea.json](./311753-apogea.json) |
 | Apogee | 387719 | [387719-apogee.json](./387719-apogee.json) |
 | Apogee Games: Companion CD-ROM | 119059 | [119059-apogee-games-companion-cd-rom.json](./119059-apogee-games-companion-cd-rom.json) |
 | Apokalypsis | 30817 | [30817-apokalypsis.json](./30817-apokalypsis.json) |
