@@ -2598,6 +2598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ink or Swim | 87014 | [87014-ink-or-swim.json](./87014-ink-or-swim.json) |
 | Ink Paper Minesweeper: L'animal dans la décoration Free Pack | 336346 | [336346-ink-paper-minesweeper-lanimal-dans-la-decoration-free-pack.json](./336346-ink-paper-minesweeper-lanimal-dans-la-decoration-free-pack.json) |
 | Ink Paper Minesweeper: Traditional Japanese Paintings Pack | 336345 | [336345-ink-paper-minesweeper-traditional-japanese-paintings-pack.json](./336345-ink-paper-minesweeper-traditional-japanese-paintings-pack.json) |
+| Ink Reverie | 331367 | [331367-ink-reverie.json](./331367-ink-reverie.json) |
 | Ink Shapes: Book One | 161392 | [161392-ink-shapes-book-one.json](./161392-ink-shapes-book-one.json) |
 | Ink Splash | 411815 | [411815-ink-splash.json](./411815-ink-splash.json) |
 | Ink Wars | 57359 | [57359-ink-wars.json](./57359-ink-wars.json) |
