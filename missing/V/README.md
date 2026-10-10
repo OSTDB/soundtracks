@@ -2270,6 +2270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voxel Galaxy | 126482 | [126482-voxel-galaxy.json](./126482-voxel-galaxy.json) |
 | Voxel Girl | 188042 | [188042-voxel-girl.json](./188042-voxel-girl.json) |
 | Voxel Horizon | 188631 | [188631-voxel-horizon.json](./188631-voxel-horizon.json) |
+| Voxel Hunters | 294055 | [294055-voxel-hunters.json](./294055-voxel-hunters.json) |
 | Voxel Panic | 386379 | [386379-voxel-panic.json](./386379-voxel-panic.json) |
 | Voxel Pirates | 147474 | [147474-voxel-pirates.json](./147474-voxel-pirates.json) |
 | Voxel Playground | 380575 | [380575-voxel-playground.json](./380575-voxel-playground.json) |
