@@ -82,6 +82,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oasis VR | 140520 | [140520-oasis-vr.json](./140520-oasis-vr.json) |
 | OAsys | 368597 | [368597-oasys.json](./368597-oasys.json) |
 | Oath | 169955 | [169955-oath.json](./169955-oath.json) |
+| Oath | 311762 | [311762-oath.json](./311762-oath.json) |
 | Oath of Miko | 171470 | [171470-oath-of-miko.json](./171470-oath-of-miko.json) |
 | Oath of peak | 231920 | [231920-oath-of-peak.json](./231920-oath-of-peak.json) |
 | Oath: There is a You That Remains | 375414 | [375414-oath-there-is-a-you-that-remains.json](./375414-oath-there-is-a-you-that-remains.json) |
@@ -2268,6 +2269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orakyubu | 165076 | [165076-orakyubu.json](./165076-orakyubu.json) |
 | Oral Lessons With Chii-chan | 254753 | [254753-oral-lessons-with-chii-chan.json](./254753-oral-lessons-with-chii-chan.json) |
 | Orange Adventure | 31860 | [31860-orange-adventure.json](./31860-orange-adventure.json) |
+| Orange Blossoms | 311755 | [311755-orange-blossoms.json](./311755-orange-blossoms.json) |
 | Orange Cast: Prologue | 151198 | [151198-orange-cast-prologue.json](./151198-orange-cast-prologue.json) |
 | Orange County | 140573 | [140573-orange-county.json](./140573-orange-county.json) |
 | Orange is True Love | 274199 | [274199-orange-is-true-love.json](./274199-orange-is-true-love.json) |
@@ -3367,6 +3369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Over the Reich | 94393 | [94393-over-the-reich.json](./94393-over-the-reich.json) |
 | Over the Top: The World Arm Wrestling Championship | 94563 | [94563-over-the-top-the-world-arm-wrestling-championship.json](./94563-over-the-top-the-world-arm-wrestling-championship.json) |
 | Over The Top: WWI | 291749 | [291749-over-the-top-wwi.json](./291749-over-the-top-wwi.json) |
+| Over Tooned | 311743 | [311743-over-tooned.json](./311743-over-tooned.json) |
 | Over-Run | 220618 | [220618-over-run.json](./220618-over-run.json) |
 | Over'n Over | 148690 | [148690-overn-over.json](./148690-overn-over.json) |
 | Overage: Child of Chaos | 203306 | [203306-overage-child-of-chaos.json](./203306-overage-child-of-chaos.json) |
