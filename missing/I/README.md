@@ -2174,6 +2174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inevitable | 179067 | [179067-inevitable.json](./179067-inevitable.json) |
 | Inevitable Light | 287219 | [287219-inevitable-light.json](./287219-inevitable-light.json) |
 | Inexistence | 18957 | [18957-inexistence.json](./18957-inexistence.json) |
+| Inexorable | 293002 | [293002-inexorable.json](./293002-inexorable.json) |
 | Inexorable | 351771 | [351771-inexorable.json](./351771-inexorable.json) |
 | Inexperienced Driver | 207193 | [207193-inexperienced-driver.json](./207193-inexperienced-driver.json) |
 | Inexplicable Geeks: Dawn of Just Us | 96279 | [96279-inexplicable-geeks-dawn-of-just-us.json](./96279-inexplicable-geeks-dawn-of-just-us.json) |
@@ -2804,6 +2805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Insectomania | 362737 | [362737-insectomania.json](./362737-insectomania.json) |
 | Insector Hecti in the Interchange | 67272 | [67272-insector-hecti-in-the-interchange.json](./67272-insector-hecti-in-the-interchange.json) |
 | Insectum: Epic Battles of Bugs | 303585 | [303585-insectum-epic-battles-of-bugs.json](./303585-insectum-epic-battles-of-bugs.json) |
+| Inseedious | 292989 | [292989-inseedious.json](./292989-inseedious.json) |
 | Inselnova | 405707 | [405707-inselnova.json](./405707-inselnova.json) |
 | Insensato | 215196 | [215196-insensato.json](./215196-insensato.json) |
 | Inseparable | 140291 | [140291-inseparable.json](./140291-inseparable.json) |
