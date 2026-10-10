@@ -323,6 +323,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backpack Hero | 194504 | [194504-backpack-hero.json](./194504-backpack-hero.json) |
 | Backpack Heroes | 174760 | [174760-backpack-heroes.json](./174760-backpack-heroes.json) |
 | Backpack Jianghu | 391202 | [391202-backpack-jianghu.json](./391202-backpack-jianghu.json) |
+| Backpack Monsters: Survivors | 295115 | [295115-backpack-monsters-survivors.json](./295115-backpack-monsters-survivors.json) |
+| Backpack Quest: Battles And Adventures | 295116 | [295116-backpack-quest-battles-and-adventures.json](./295116-backpack-quest-battles-and-adventures.json) |
 | Backpack Raiders | 383055 | [383055-backpack-raiders.json](./383055-backpack-raiders.json) |
 | Backpacker | 28352 | [28352-backpacker.json](./28352-backpacker.json) |
 | Backpacker 3: Mediterraneo | 129782 | [129782-backpacker-3-mediterraneo.json](./129782-backpacker-3-mediterraneo.json) |
