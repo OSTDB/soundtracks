@@ -1987,6 +1987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ooshige! Momohana Hanten | 227376 | [227376-ooshige-momohana-hanten.json](./227376-ooshige-momohana-hanten.json) |
 | OOTP Baseball Go 23 | 211280 | [211280-ootp-baseball-go-23.json](./211280-ootp-baseball-go-23.json) |
 | OOTP Baseball Go! | 141512 | [141512-ootp-baseball-go.json](./141512-ootp-baseball-go.json) |
+| Ooze Keeper | 318118 | [318118-ooze-keeper.json](./318118-ooze-keeper.json) |
 | Ooze Odyssey | 260231 | [260231-ooze-odyssey.json](./260231-ooze-odyssey.json) |
 | Ooze: Creepy Nights | 57695 | [57695-ooze-creepy-nights.json](./57695-ooze-creepy-nights.json) |
 | Ooze: Creepy Nites | 71746 | [71746-ooze-creepy-nites.json](./71746-ooze-creepy-nites.json) |
@@ -2540,6 +2541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Origami Treasure | 289435 | [289435-origami-treasure.json](./289435-origami-treasure.json) |
 | Origamihero Games 2D Platformer Collection | 212357 | [212357-origamihero-games-2d-platformer-collection.json](./212357-origamihero-games-2d-platformer-collection.json) |
 | Origens: Story Mode 2 | 375449 | [375449-origens-story-mode-2.json](./375449-origens-story-mode-2.json) |
+| Origens: Story Mode Remastered | 318159 | [318159-origens-story-mode-remastered.json](./318159-origens-story-mode-remastered.json) |
 | Origin | 126648 | [126648-origin.json](./126648-origin.json) |
 | Origin | 230895 | [230895-origin.json](./230895-origin.json) |
 | Origin Hunt | 180772 | [180772-origin-hunt.json](./180772-origin-hunt.json) |
