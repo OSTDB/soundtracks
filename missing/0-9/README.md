@@ -968,6 +968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2048 | 312586 | [312586-2048.json](./312586-2048.json) |
 | 2048 | 320269 | [320269-2048.json](./320269-2048.json) |
 | 2048 3D | 268679 | [268679-2048-3d.json](./268679-2048-3d.json) |
+| 2048 Advance | 313462 | [313462-2048-advance.json](./313462-2048-advance.json) |
 | 2048 Animation Puzzle Edition | 181324 | [181324-2048-animation-puzzle-edition.json](./181324-2048-animation-puzzle-edition.json) |
 | 2048 Arms | 382186 | [382186-2048-arms.json](./382186-2048-arms.json) |
 | 2048 Battles | 124274 | [124274-2048-battles.json](./124274-2048-battles.json) |
@@ -1830,6 +1831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 8-in-1 IQ Scale Bundle | 81896 | [81896-8-in-1-iq-scale-bundle.json](./81896-8-in-1-iq-scale-bundle.json) |
 | 80 Days & Overboard! | 212873 | [212873-80-days-and-overboard.json](./212873-80-days-and-overboard.json) |
 | 80.08 | 54444 | [54444-80-08.json](./54444-80-08.json) |
+| 80's BASIC Games | 313458 | [313458-80s-basic-games.json](./313458-80s-basic-games.json) |
 | 80's Mania Pinball | 231321 | [231321-80s-mania-pinball.json](./231321-80s-mania-pinball.json) |
 | 80's Overdrive | 58717 | [58717-80s-overdrive.json](./58717-80s-overdrive.json) |
 | 808 | 357760 | [357760-808.json](./357760-808.json) |
