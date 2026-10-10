@@ -2778,6 +2778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret of Super Seducer | 297753 | [297753-secret-of-super-seducer.json](./297753-secret-of-super-seducer.json) |
 | Secret of the Abbey | 326845 | [326845-secret-of-the-abbey.json](./326845-secret-of-the-abbey.json) |
 | Secret of the Corral | 252124 | [252124-secret-of-the-corral.json](./252124-secret-of-the-corral.json) |
+| Secret of the Island: Escape | 315796 | [315796-secret-of-the-island-escape.json](./315796-secret-of-the-island-escape.json) |
 | Secret of the Lost Cavern | 107393 | [107393-secret-of-the-lost-cavern.json](./107393-secret-of-the-lost-cavern.json) |
 | Secret of the Magic Crystals | 10427 | [10427-secret-of-the-magic-crystals.json](./10427-secret-of-the-magic-crystals.json) |
 | Secret of the Pharaohs | 41556 | [41556-secret-of-the-pharaohs.json](./41556-secret-of-the-pharaohs.json) |
@@ -12285,6 +12286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Struck Run | 113158 | [113158-space-struck-run.json](./113158-space-struck-run.json) |
 | Space Subtraction | 310971 | [310971-space-subtraction.json](./310971-space-subtraction.json) |
 | Space Supermarket Simulator | 356041 | [356041-space-supermarket-simulator.json](./356041-space-supermarket-simulator.json) |
+| Space Surveyor | 315812 | [315812-space-surveyor.json](./315812-space-surveyor.json) |
 | Space Survival | 171402 | [171402-space-survival.json](./171402-space-survival.json) |
 | Space Survival | 183863 | [183863-space-survival.json](./183863-space-survival.json) |
 | Space Survival | 200512 | [200512-space-survival.json](./200512-space-survival.json) |
@@ -14172,6 +14174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Square | 195626 | [195626-square.json](./195626-square.json) |
 | Square | 208591 | [208591-square.json](./208591-square.json) |
 | Square | 247020 | [247020-square.json](./247020-square.json) |
+| Square | 315803 | [315803-square.json](./315803-square.json) |
 | Square & Circles | 352292 | [352292-square-and-circles.json](./352292-square-and-circles.json) |
 | Square Box | 44185 | [44185-square-box.json](./44185-square-box.json) |
 | Square Brain Puzzle | 410836 | [410836-square-brain-puzzle.json](./410836-square-brain-puzzle.json) |
@@ -14451,6 +14454,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stahlfeder: Tekkou Hikuudan | 138746 | [138746-stahlfeder-tekkou-hikuudan.json](./138746-stahlfeder-tekkou-hikuudan.json) |
 | Stahlkampf | 179480 | [179480-stahlkampf.json](./179480-stahlkampf.json) |
 | Stainless Steel | 356243 | [356243-stainless-steel.json](./356243-stainless-steel.json) |
+| Stains and the Giant | 315780 | [315780-stains-and-the-giant.json](./315780-stains-and-the-giant.json) |
+| Stains and the Guru | 315783 | [315783-stains-and-the-guru.json](./315783-stains-and-the-guru.json) |
+| Stains and the Yeti | 315781 | [315781-stains-and-the-yeti.json](./315781-stains-and-the-yeti.json) |
 | Stair Dismount | 19285 | [19285-stair-dismount.json](./19285-stair-dismount.json) |
 | Stair Quest | 148409 | [148409-stair-quest.json](./148409-stair-quest.json) |
 | Stair Tap | 365064 | [365064-stair-tap.json](./365064-stair-tap.json) |
@@ -14990,6 +14996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars Jedi: Survivor - Deluxe Edition | 227942 | [227942-star-wars-jedi-survivor-deluxe-edition.json](./227942-star-wars-jedi-survivor-deluxe-edition.json) |
 | Star Wars Math: Jabba's Game Galaxy | 73254 | [73254-star-wars-math-jabbas-game-galaxy.json](./73254-star-wars-math-jabbas-game-galaxy.json) |
 | Star Wars Mod: Galactic Warfare | 299135 | [299135-star-wars-mod-galactic-warfare.json](./299135-star-wars-mod-galactic-warfare.json) |
+| Star Wars Outlaws: A Pirate's Fortune | 315805 | [315805-star-wars-outlaws-a-pirates-fortune.json](./315805-star-wars-outlaws-a-pirates-fortune.json) |
 | Star Wars Outlaws: Cartel Ronin Bundle | 325857 | [325857-star-wars-outlaws-cartel-ronin-bundle.json](./325857-star-wars-outlaws-cartel-ronin-bundle.json) |
 | Star Wars Outlaws: Deluxe Edition | 331838 | [331838-star-wars-outlaws-deluxe-edition.json](./331838-star-wars-outlaws-deluxe-edition.json) |
 | Star Wars Outlaws: Forest Commando Pack | 325856 | [325856-star-wars-outlaws-forest-commando-pack.json](./325856-star-wars-outlaws-forest-commando-pack.json) |
@@ -14998,6 +15005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars Outlaws: Limited Edition | 297044 | [297044-star-wars-outlaws-limited-edition.json](./297044-star-wars-outlaws-limited-edition.json) |
 | Star Wars Outlaws: Special Edition | 299474 | [299474-star-wars-outlaws-special-edition.json](./299474-star-wars-outlaws-special-edition.json) |
 | Star Wars Outlaws: Ultimate Edition | 299475 | [299475-star-wars-outlaws-ultimate-edition.json](./299475-star-wars-outlaws-ultimate-edition.json) |
+| Star Wars Outlaws: Wild Card | 315804 | [315804-star-wars-outlaws-wild-card.json](./315804-star-wars-outlaws-wild-card.json) |
 | Star Wars Pinball Season 1 Bundle | 99757 | [99757-star-wars-pinball-season-1-bundle.json](./99757-star-wars-pinball-season-1-bundle.json) |
 | Star Wars Rebels: Chopper Chase | 97498 | [97498-star-wars-rebels-chopper-chase.json](./97498-star-wars-rebels-chopper-chase.json) |
 | Star Wars Zero Company | 340113 | [340113-star-wars-zero-company.json](./340113-star-wars-zero-company.json) |
@@ -19497,6 +19505,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Bros. Mini | 321672 | [321672-super-mario-bros-mini.json](./321672-super-mario-bros-mini.json) |
 | Super Mario Bros. MM | 322779 | [322779-super-mario-bros-mm.json](./322779-super-mario-bros-mm.json) |
 | Super Mario Bros. Next | 225548 | [225548-super-mario-bros-next.json](./225548-super-mario-bros-next.json) |
+| Super Mario Bros. Next: Halloween Special | 315792 | [315792-super-mario-bros-next-halloween-special.json](./315792-super-mario-bros-next-halloween-special.json) |
+| Super Mario Bros. Next: Halloween Special DX | 315794 | [315794-super-mario-bros-next-halloween-special-dx.json](./315794-super-mario-bros-next-halloween-special-dx.json) |
+| Super Mario Bros. Next: The Lost Levels - Part 1 | 315790 | [315790-super-mario-bros-next-the-lost-levels-part-1.json](./315790-super-mario-bros-next-the-lost-levels-part-1.json) |
+| Super Mario Bros. Next: The Lost Levels - Part 2 | 315791 | [315791-super-mario-bros-next-the-lost-levels-part-2.json](./315791-super-mario-bros-next-the-lost-levels-part-2.json) |
 | Super Mario Bros. Peach's Adventure | 142383 | [142383-super-mario-bros-peachs-adventure.json](./142383-super-mario-bros-peachs-adventure.json) |
 | Super Mario Bros. Remastered | 358244 | [358244-super-mario-bros-remastered.json](./358244-super-mario-bros-remastered.json) |
 | Super Mario Bros. SNES | 377742 | [377742-super-mario-bros-snes.json](./377742-super-mario-bros-snes.json) |
