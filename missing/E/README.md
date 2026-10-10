@@ -2734,6 +2734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epic Roller Coasters: Oasis | 166650 | [166650-epic-roller-coasters-oasis.json](./166650-epic-roller-coasters-oasis.json) |
 | Epic Roller Coasters: Snow Land | 166643 | [166643-epic-roller-coasters-snow-land.json](./166643-epic-roller-coasters-snow-land.json) |
 | Epic Roller Coasters: Space Station | 166655 | [166655-epic-roller-coasters-space-station.json](./166655-epic-roller-coasters-space-station.json) |
+| Epic Roller Coasters: SpongeBob SquarePants | 279563 | [279563-epic-roller-coasters-spongebob-squarepants.json](./279563-epic-roller-coasters-spongebob-squarepants.json) |
 | Epic Roller Coasters: T-Rex Kingdom | 166646 | [166646-epic-roller-coasters-t-rex-kingdom.json](./166646-epic-roller-coasters-t-rex-kingdom.json) |
 | Epic Roller Coasters: Tuwhena Volcano | 166641 | [166641-epic-roller-coasters-tuwhena-volcano.json](./166641-epic-roller-coasters-tuwhena-volcano.json) |
 | Epic Roller Coasters: Twilight | 166649 | [166649-epic-roller-coasters-twilight.json](./166649-epic-roller-coasters-twilight.json) |
@@ -3386,6 +3387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape the Room Inscryption Door | 221715 | [221715-escape-the-room-inscryption-door.json](./221715-escape-the-room-inscryption-door.json) |
 | Escape the School | 355217 | [355217-escape-the-school.json](./355217-escape-the-school.json) |
 | Escape the SoulKeeper's Forest | 176829 | [176829-escape-the-soulkeepers-forest.json](./176829-escape-the-soulkeepers-forest.json) |
+| Escape the Super Nerdy Dungeon: W100 Master Edition | 279523 | [279523-escape-the-super-nerdy-dungeon-w100-master-edition.json](./279523-escape-the-super-nerdy-dungeon-w100-master-edition.json) |
 | Escape the Tank | 153362 | [153362-escape-the-tank.json](./153362-escape-the-tank.json) |
 | Escape the Testing Facility | 337659 | [337659-escape-the-testing-facility.json](./337659-escape-the-testing-facility.json) |
 | Escape the Tower | 331283 | [331283-escape-the-tower.json](./331283-escape-the-tower.json) |
