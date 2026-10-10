@@ -1960,6 +1960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Incredicer | 373346 | [373346-incredicer.json](./373346-incredicer.json) |
 | IncreKnight | 391822 | [391822-increknight.json](./391822-increknight.json) |
 | Increlution | 158719 | [158719-increlution.json](./158719-increlution.json) |
+| Incremental Dice | 319879 | [319879-incremental-dice.json](./319879-incremental-dice.json) |
 | Incremental Dungeon | 388335 | [388335-incremental-dungeon.json](./388335-incremental-dungeon.json) |
 | Incremental Epic Breakers | 163968 | [163968-incremental-epic-breakers.json](./163968-incremental-epic-breakers.json) |
 | Incremental Epic Breakers: Automation Pack | 171032 | [171032-incremental-epic-breakers-automation-pack.json](./171032-incremental-epic-breakers-automation-pack.json) |
@@ -2980,6 +2981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | InterFishion | 395532 | [395532-interfishion.json](./395532-interfishion.json) |
 | Intergalactic | 263025 | [263025-intergalactic.json](./263025-intergalactic.json) |
 | Intergalactic Ambassador | 141753 | [141753-intergalactic-ambassador.json](./141753-intergalactic-ambassador.json) |
+| Intergalactic Battle Roosters | 319844 | [319844-intergalactic-battle-roosters.json](./319844-intergalactic-battle-roosters.json) |
 | Intergalactic Defenders | 340757 | [340757-intergalactic-defenders.json](./340757-intergalactic-defenders.json) |
 | Intergalactic Ecstasy | 411057 | [411057-intergalactic-ecstasy.json](./411057-intergalactic-ecstasy.json) |
 | Intergalactic Fishing | 111754 | [111754-intergalactic-fishing.json](./111754-intergalactic-fishing.json) |
