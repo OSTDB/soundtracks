@@ -6949,6 +6949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Volt White 2 | 261895 | [261895-pokemon-volt-white-2.json](./261895-pokemon-volt-white-2.json) |
 | Pokémon Wack | 146556 | [146556-pokemon-wack.json](./146556-pokemon-wack.json) |
 | Pokémon Water Red | 221411 | [221411-pokemon-water-red.json](./221411-pokemon-water-red.json) |
+| Pokémon Wave Hello | 328965 | [328965-pokemon-wave-hello.json](./328965-pokemon-wave-hello.json) |
 | Pokémon Waves | 393104 | [393104-pokemon-waves.json](./393104-pokemon-waves.json) |
 | Pokémon Weird Type Fun | 307908 | [307908-pokemon-weird-type-fun.json](./307908-pokemon-weird-type-fun.json) |
 | Pokémon White Version 2 | 8353 | [8353-pokemon-white-version-2.json](./8353-pokemon-white-version-2.json) |
@@ -9129,6 +9130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro-Mahjong Kiwame Next | 97873 | [97873-pro-mahjong-kiwame-next.json](./97873-pro-mahjong-kiwame-next.json) |
 | Pro-Putt Domo | 68059 | [68059-pro-putt-domo.json](./68059-pro-putt-domo.json) |
 | Probability 0 | 16739 | [16739-probability-0.json](./16739-probability-0.json) |
+| Probably Art | 328976 | [328976-probably-art.json](./328976-probably-art.json) |
 | Probably Nothing | 367054 | [367054-probably-nothing.json](./367054-probably-nothing.json) |
 | Probationary Girlfriend | 266319 | [266319-probationary-girlfriend.json](./266319-probationary-girlfriend.json) |
 | Probe One: The Transmitter | 24899 | [24899-probe-one-the-transmitter.json](./24899-probe-one-the-transmitter.json) |
@@ -10032,6 +10034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PSI: Pressure Climbing | 276964 | [276964-psi-pressure-climbing.json](./276964-psi-pressure-climbing.json) |
 | Psichodelya | 17406 | [17406-psichodelya.json](./17406-psichodelya.json) |
 | Psicose? | 129235 | [129235-psicose.json](./129235-psicose.json) |
+| Psicosis | 328938 | [328938-psicosis.json](./328938-psicosis.json) |
 | Psikodelya | 116241 | [116241-psikodelya.json](./116241-psikodelya.json) |
 | Psikodelya: The Mansion of Madness | 170895 | [170895-psikodelya-the-mansion-of-madness.json](./170895-psikodelya-the-mansion-of-madness.json) |
 | Psikyo Collection Vol. 2 | 112290 | [112290-psikyo-collection-vol-2.json](./112290-psikyo-collection-vol-2.json) |
@@ -10105,6 +10108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psycho-Pass: Mandatory Happiness - Limited Edition | 166186 | [166186-psycho-pass-mandatory-happiness-limited-edition.json](./166186-psycho-pass-mandatory-happiness-limited-edition.json) |
 | Psycho-unstable Journey | 180792 | [180792-psycho-unstable-journey.json](./180792-psycho-unstable-journey.json) |
 | Psychoballs | 89401 | [89401-psychoballs.json](./89401-psychoballs.json) |
+| Psychobouldering | 328974 | [328974-psychobouldering.json](./328974-psychobouldering.json) |
 | Psychocat: The Answer | 33811 | [33811-psychocat-the-answer.json](./33811-psychocat-the-answer.json) |
 | PsychoCudgel | 316641 | [316641-psychocudgel.json](./316641-psychocudgel.json) |
 | Psychofinger | 273436 | [273436-psychofinger.json](./273436-psychofinger.json) |
@@ -10506,6 +10510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pure Farming 2018 | 58066 | [58066-pure-farming-2018.json](./58066-pure-farming-2018.json) |
 | Pure Football 2018 | 81926 | [81926-pure-football-2018.json](./81926-pure-football-2018.json) |
 | Pure Heart | 371443 | [371443-pure-heart.json](./371443-pure-heart.json) |
+| Pure Hearts | 329041 | [329041-pure-hearts.json](./329041-pure-hearts.json) |
 | Pure Hearts | 86912 | [86912-pure-hearts.json](./86912-pure-hearts.json) |
 | Pure Hentai: Gallery | 385082 | [385082-pure-hentai-gallery.json](./385082-pure-hentai-gallery.json) |
 | Pure Hentai: Moments | 385081 | [385081-pure-hentai-moments.json](./385081-pure-hentai-moments.json) |
