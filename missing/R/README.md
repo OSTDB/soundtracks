@@ -6822,6 +6822,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rose | 236374 | [236374-rose.json](./236374-rose.json) |
 | Rose | 275122 | [275122-rose.json](./275122-rose.json) |
 | Rose & Camellia | 58842 | [58842-rose-and-camellia.json](./58842-rose-and-camellia.json) |
+| Rose & Camellia & La-Mulana | 284843 | [284843-rose-and-camellia-and-la-mulana.json](./284843-rose-and-camellia-and-la-mulana.json) |
+| Rose & Camellia & La-Mulana | 284845 | [284845-rose-and-camellia-and-la-mulana.json](./284845-rose-and-camellia-and-la-mulana.json) |
+| Rose & Camellia 2 | 284842 | [284842-rose-and-camellia-2.json](./284842-rose-and-camellia-2.json) |
 | Rose & Camellia 2 | 317596 | [317596-rose-and-camellia-2.json](./317596-rose-and-camellia-2.json) |
 | Rose & Camellia 3 | 317597 | [317597-rose-and-camellia-3.json](./317597-rose-and-camellia-3.json) |
 | Rose & Camellia 4 | 317598 | [317598-rose-and-camellia-4.json](./317598-rose-and-camellia-4.json) |
