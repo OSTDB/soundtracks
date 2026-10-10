@@ -914,6 +914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Stand | 220603 | [220603-last-stand.json](./220603-last-stand.json) |
 | Last Stand Delivery | 274456 | [274456-last-stand-delivery.json](./274456-last-stand-delivery.json) |
 | Last Stand: Reborn | 113490 | [113490-last-stand-reborn.json](./113490-last-stand-reborn.json) |
+| Last Standing | 292431 | [292431-last-standing.json](./292431-last-standing.json) |
 | Last Stanza | 105279 | [105279-last-stanza.json](./105279-last-stanza.json) |
 | Last Star | 316097 | [316097-last-star.json](./316097-last-star.json) |
 | Last State | 384198 | [384198-last-state.json](./384198-last-state.json) |
@@ -1096,6 +1097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Law of Creation 2 | 193935 | [193935-law-of-creation-2.json](./193935-law-of-creation-2.json) |
 | Law of Dispute | 295393 | [295393-law-of-dispute.json](./295393-law-of-dispute.json) |
 | Law School | 347220 | [347220-law-school.json](./347220-law-school.json) |
+| Law: Transporter | 292425 | [292425-law-transporter.json](./292425-law-transporter.json) |
 | LawBreakers | 11797 | [11797-lawbreakers.json](./11797-lawbreakers.json) |
 | Lawbringer | 234195 | [234195-lawbringer.json](./234195-lawbringer.json) |
 | Lawgivers | 127880 | [127880-lawgivers.json](./127880-lawgivers.json) |
@@ -2622,6 +2624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liar! Uncover the Truth | 115483 | [115483-liar-uncover-the-truth.json](./115483-liar-uncover-the-truth.json) |
 | Liar's Bar | 317695 | [317695-liars-bar.json](./317695-liars-bar.json) |
 | Liar's Dice | 345540 | [345540-liars-dice.json](./345540-liars-dice.json) |
+| Liar's Game | 292438 | [292438-liars-game.json](./292438-liars-game.json) |
 | Liar’s Line | 382762 | [382762-liar-s-line.json](./382762-liar-s-line.json) |
 | Liar's Lounge | 325003 | [325003-liars-lounge.json](./325003-liars-lounge.json) |
 | Liar's Pub | 327440 | [327440-liars-pub.json](./327440-liars-pub.json) |
@@ -4393,6 +4396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lone Fungus | 146568 | [146568-lone-fungus.json](./146568-lone-fungus.json) |
 | Lone Fungus: Melody of Spores | 264139 | [264139-lone-fungus-melody-of-spores.json](./264139-lone-fungus-melody-of-spores.json) |
 | Lone Fury | 338684 | [338684-lone-fury.json](./338684-lone-fury.json) |
+| Lone Hero Path | 292416 | [292416-lone-hero-path.json](./292416-lone-hero-path.json) |
 | Lone King | 151046 | [151046-lone-king.json](./151046-lone-king.json) |
 | Lone Labyrinth: Burden of the Just | 352246 | [352246-lone-labyrinth-burden-of-the-just.json](./352246-lone-labyrinth-burden-of-the-just.json) |
 | Lone McLonegan : A Western Adventure | 153926 | [153926-lone-mclonegan-a-western-adventure.json](./153926-lone-mclonegan-a-western-adventure.json) |
