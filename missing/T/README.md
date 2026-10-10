@@ -7185,6 +7185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Kill Zone | 235827 | [235827-the-kill-zone.json](./235827-the-kill-zone.json) |
 | The Killbox: Arena Combat | 74293 | [74293-the-killbox-arena-combat.json](./74293-the-killbox-arena-combat.json) |
 | The Killbox: Arena Combat US | 86976 | [86976-the-killbox-arena-combat-us.json](./86976-the-killbox-arena-combat-us.json) |
+| The Killing Antidote | 287004 | [287004-the-killing-antidote.json](./287004-the-killing-antidote.json) |
 | The Kindeman Remedy | 244499 | [244499-the-kindeman-remedy.json](./244499-the-kindeman-remedy.json) |
 | The King & I: Coming Out of Your Shell | 141824 | [141824-the-king-and-i-coming-out-of-your-shell.json](./141824-the-king-and-i-coming-out-of-your-shell.json) |
 | The King and the Crown | 59684 | [59684-the-king-and-the-crown.json](./59684-the-king-and-the-crown.json) |
