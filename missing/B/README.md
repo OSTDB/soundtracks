@@ -4019,6 +4019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Best Fiends | 59922 | [59922-best-fiends.json](./59922-best-fiends.json) |
 | Best Fiends Forever | 57363 | [57363-best-fiends-forever.json](./57363-best-fiends-forever.json) |
 | Best Fighter | 283991 | [283991-best-fighter.json](./283991-best-fighter.json) |
+| Best Friends | 313956 | [313956-best-friends.json](./313956-best-friends.json) |
 | Best Friends Forever | 183442 | [183442-best-friends-forever.json](./183442-best-friends-forever.json) |
 | Best Friends Forever | 227888 | [227888-best-friends-forever.json](./227888-best-friends-forever.json) |
 | Best Friends: Dogs & Cats | 49276 | [49276-best-friends-dogs-and-cats.json](./49276-best-friends-dogs-and-cats.json) |
@@ -9828,6 +9829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BSurfing | 163733 | [163733-bsurfing.json](./163733-bsurfing.json) |
 | BTank | 203898 | [203898-btank.json](./203898-btank.json) |
 | BTD: BTD | 258500 | [258500-btd-btd.json](./258500-btd-btd.json) |
+| BTS Cooking On | 313982 | [313982-bts-cooking-on.json](./313982-bts-cooking-on.json) |
 | BTS Island: In the Seom | 206740 | [206740-bts-island-in-the-seom.json](./206740-bts-island-in-the-seom.json) |
 | BTS Universe Story | 139294 | [139294-bts-universe-story.json](./139294-bts-universe-story.json) |
 | Bù Shàngàn Bù Liànài | 373701 | [373701-bu-shangan-bu-lianai.json](./373701-bu-shangan-bu-lianai.json) |
