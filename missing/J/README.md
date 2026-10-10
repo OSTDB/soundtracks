@@ -864,6 +864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jewel Fever | 246341 | [246341-jewel-fever.json](./246341-jewel-fever.json) |
 | Jewel Fever | 257466 | [257466-jewel-fever.json](./257466-jewel-fever.json) |
 | Jewel Fever | 90740 | [90740-jewel-fever.json](./90740-jewel-fever.json) |
+| Jewel Fever 3 | 328391 | [328391-jewel-fever-3.json](./328391-jewel-fever-3.json) |
 | Jewel Hunter : Lost Temple | 105853 | [105853-jewel-hunter-lost-temple.json](./105853-jewel-hunter-lost-temple.json) |
 | Jewel Jungle Temple | 104579 | [104579-jewel-jungle-temple.json](./104579-jewel-jungle-temple.json) |
 | Jewel Legends: Tree of Life | 85206 | [85206-jewel-legends-tree-of-life.json](./85206-jewel-legends-tree-of-life.json) |
@@ -1899,6 +1900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JuJu | 385374 | [385374-juju.json](./385374-juju.json) |
 | Jujubos | 170936 | [170936-jujubos.json](./170936-jujubos.json) |
 | JuJuJu Club: Potsunen | 255353 | [255353-jujuju-club-potsunen.json](./255353-jujuju-club-potsunen.json) |
+| Jujump | 328447 | [328447-jujump.json](./328447-jujump.json) |
 | Jujutsu Kaisen Rumble: Survivaton | 405441 | [405441-jujutsu-kaisen-rumble-survivaton.json](./405441-jujutsu-kaisen-rumble-survivaton.json) |
 | Jujutsu Kaisen: Cursed Clash | 255396 | [255396-jujutsu-kaisen-cursed-clash.json](./255396-jujutsu-kaisen-cursed-clash.json) |
 | Jujutsu Kaisen: Cursed Clash - Deluxe Edition | 276324 | [276324-jujutsu-kaisen-cursed-clash-deluxe-edition.json](./276324-jujutsu-kaisen-cursed-clash-deluxe-edition.json) |
