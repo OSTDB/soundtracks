@@ -786,6 +786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vellar | 405723 | [405723-vellar.json](./405723-vellar.json) |
 | Velldeselba Senki: Tsubasa no Kunshou | 140026 | [140026-velldeselba-senki-tsubasa-no-kunshou.json](./140026-velldeselba-senki-tsubasa-no-kunshou.json) |
 | Vellum | 273394 | [273394-vellum.json](./273394-vellum.json) |
+| Vellum Quest: Kami no Zanshi | 331895 | [331895-vellum-quest-kami-no-zanshi.json](./331895-vellum-quest-kami-no-zanshi.json) |
 | Vellum: Raid Night Study Hall | 387632 | [387632-vellum-raid-night-study-hall.json](./387632-vellum-raid-night-study-hall.json) |
 | VeLM | 117120 | [117120-velm.json](./117120-velm.json) |
 | Velo | 244347 | [244347-velo.json](./244347-velo.json) |
