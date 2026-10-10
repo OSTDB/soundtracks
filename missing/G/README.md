@@ -120,6 +120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gaben Clicker | 54468 | [54468-gaben-clicker.json](./54468-gaben-clicker.json) |
 | GabeN: The Final Decision | 34448 | [34448-gaben-the-final-decision.json](./34448-gaben-the-final-decision.json) |
 | Gabenwood 2: 99 Hidden Euros | 296513 | [296513-gabenwood-2-99-hidden-euros.json](./296513-gabenwood-2-99-hidden-euros.json) |
+| Gabenwood 3: 99 Hidden Yen | 316965 | [316965-gabenwood-3-99-hidden-yen.json](./316965-gabenwood-3-99-hidden-yen.json) |
 | Gabenwood: 99 Hidden Bucks | 224239 | [224239-gabenwood-99-hidden-bucks.json](./224239-gabenwood-99-hidden-bucks.json) |
 | Gabibbo Massacre | 319168 | [319168-gabibbo-massacre.json](./319168-gabibbo-massacre.json) |
 | Gabriel Knight 3: Blood of the Sacred, Blood of the Damned | 1252 | [1252-gabriel-knight-3-blood-of-the-sacred-blood-of-the-damned.json](./1252-gabriel-knight-3-blood-of-the-sacred-blood-of-the-damned.json) |
@@ -1702,6 +1703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Generative Quest | 267414 | [267414-generative-quest.json](./267414-generative-quest.json) |
 | Generic Brazilian Favela Game with Generic Enemies 2003 | 264894 | [264894-generic-brazilian-favela-game-with-generic-enemies-2003.json](./264894-generic-brazilian-favela-game-with-generic-enemies-2003.json) |
 | Generic Fighter Maybe | 358350 | [358350-generic-fighter-maybe.json](./358350-generic-fighter-maybe.json) |
+| Generic Fishing Game | 316950 | [316950-generic-fishing-game.json](./316950-generic-fishing-game.json) |
 | Generic nonbinary game | 176926 | [176926-generic-nonbinary-game.json](./176926-generic-nonbinary-game.json) |
 | Genesis | 127265 | [127265-genesis.json](./127265-genesis.json) |
 | Genesis | 144583 | [144583-genesis.json](./144583-genesis.json) |
