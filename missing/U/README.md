@@ -1423,6 +1423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unicorn Go | 25958 | [25958-unicorn-go.json](./25958-unicorn-go.json) |
 | Unicorn Overlord: Monarch Edition | 283162 | [283162-unicorn-overlord-monarch-edition.json](./283162-unicorn-overlord-monarch-edition.json) |
 | Unicorn Overlord: Premium Edition | 292141 | [292141-unicorn-overlord-premium-edition.json](./292141-unicorn-overlord-premium-edition.json) |
+| Unicorn Senpai Slap | 303818 | [303818-unicorn-senpai-slap.json](./303818-unicorn-senpai-slap.json) |
 | Unicorn Shake | 177473 | [177473-unicorn-shake.json](./177473-unicorn-shake.json) |
 | Unicorn Smash | 248644 | [248644-unicorn-smash.json](./248644-unicorn-smash.json) |
 | Unicorn Tails | 127228 | [127228-unicorn-tails.json](./127228-unicorn-tails.json) |
