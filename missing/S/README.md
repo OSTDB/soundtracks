@@ -14401,6 +14401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StableBound | 297004 | [297004-stablebound.json](./297004-stablebound.json) |
 | Stablemasters | 415897 | [415897-stablemasters.json](./415897-stablemasters.json) |
 | Stack | 34669 | [34669-stack.json](./34669-stack.json) |
+| Stack 'Em Up | 312826 | [312826-stack-em-up.json](./312826-stack-em-up.json) |
 | Stack Ball Run! | 262331 | [262331-stack-ball-run.json](./262331-stack-ball-run.json) |
 | Stack Columns | 63129 | [63129-stack-columns.json](./63129-stack-columns.json) |
 | Stack It | 216749 | [216749-stack-it.json](./216749-stack-it.json) |
@@ -17623,6 +17624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stug | 180219 | [180219-stug.json](./180219-stug.json) |
 | Stumble And Fall | 310388 | [310388-stumble-and-fall.json](./310388-stumble-and-fall.json) |
 | Stumble Guys: Burger Banger | 331462 | [331462-stumble-guys-burger-banger.json](./331462-stumble-guys-burger-banger.json) |
+| Stumble Guys: Diamond Special Banger | 312838 | [312838-stumble-guys-diamond-special-banger.json](./312838-stumble-guys-diamond-special-banger.json) |
 | Stumble Guys: Founder's Pack Bundle | 313218 | [313218-stumble-guys-founders-pack-bundle.json](./313218-stumble-guys-founders-pack-bundle.json) |
 | Stumble Guys: Polygon Guy Banger | 332037 | [332037-stumble-guys-polygon-guy-banger.json](./332037-stumble-guys-polygon-guy-banger.json) |
 | Stumblehill | 117510 | [117510-stumblehill.json](./117510-stumblehill.json) |
