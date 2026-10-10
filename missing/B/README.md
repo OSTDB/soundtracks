@@ -10237,6 +10237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bugatron Worlds | 307267 | [307267-bugatron-worlds.json](./307267-bugatron-worlds.json) |
 | Bugboy | 329080 | [329080-bugboy.json](./329080-bugboy.json) |
 | BugBurgh | 305268 | [305268-bugburgh.json](./305268-bugburgh.json) |
+| Bugby | 283133 | [283133-bugby.json](./283133-bugby.json) |
 | Bugdas | 113721 | [113721-bugdas.json](./113721-bugdas.json) |
 | Bugdasu | 347301 | [347301-bugdasu.json](./347301-bugdasu.json) |
 | Bugged | 195115 | [195115-bugged.json](./195115-bugged.json) |
