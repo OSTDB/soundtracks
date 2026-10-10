@@ -1890,6 +1890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Manipulated | 28109 | [28109-manipulated.json](./28109-manipulated.json) |
 | Manipulation | 380600 | [380600-manipulation.json](./380600-manipulation.json) |
 | Manipulator of Figure 3 | 335448 | [335448-manipulator-of-figure-3.json](./335448-manipulator-of-figure-3.json) |
+| Manipulus | 322631 | [322631-manipulus.json](./322631-manipulus.json) |
 | Manivore | 343398 | [343398-manivore.json](./343398-manivore.json) |
 | Manji: PSY Yuuki | 142860 | [142860-manji-psy-yuuki.json](./142860-manji-psy-yuuki.json) |
 | Mankind | 260659 | [260659-mankind.json](./260659-mankind.json) |
@@ -5290,6 +5291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memo Box - Memory Challenges | 108625 | [108625-memo-box-memory-challenges.json](./108625-memo-box-memory-challenges.json) |
 | Memo R.I.P. | 400411 | [400411-memo-r-i-p.json](./400411-memo-r-i-p.json) |
 | Memo to the Underlord | 364374 | [364374-memo-to-the-underlord.json](./364374-memo-to-the-underlord.json) |
+| Memocratie | 322636 | [322636-memocratie.json](./322636-memocratie.json) |
 | Memoir '44 Online | 28724 | [28724-memoir-44-online.json](./28724-memoir-44-online.json) |
 | Memoir En Code | 18990 | [18990-memoir-en-code.json](./18990-memoir-en-code.json) |
 | Memoirium | 365108 | [365108-memoirium.json](./365108-memoirium.json) |
@@ -11455,6 +11457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Muffled Warfare | 96550 | [96550-muffled-warfare.json](./96550-muffled-warfare.json) |
 | Muffles' Life Sentence | 329213 | [329213-muffles-life-sentence.json](./329213-muffles-life-sentence.json) |
 | Muffles' Life Sentence: Episode 2 | 339955 | [339955-muffles-life-sentence-episode-2.json](./339955-muffles-life-sentence-episode-2.json) |
+| Mug | 322830 | [322830-mug.json](./322830-mug.json) |
 | Mugamuchuu | 150166 | [150166-mugamuchuu.json](./150166-mugamuchuu.json) |
 | Mugen Abisu | 190959 | [190959-mugen-abisu.json](./190959-mugen-abisu.json) |
 | Mugen no Shinzou | 167613 | [167613-mugen-no-shinzou.json](./167613-mugen-no-shinzou.json) |
