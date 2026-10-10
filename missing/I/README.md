@@ -2707,6 +2707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Innocent Bullet: The False World | 401153 | [401153-innocent-bullet-the-false-world.json](./401153-innocent-bullet-the-false-world.json) |
 | Innocent Critters | 238723 | [238723-innocent-critters.json](./238723-innocent-critters.json) |
 | Innocent Girl | 169369 | [169369-innocent-girl.json](./169369-innocent-girl.json) |
+| Innocent Grape | 298399 | [298399-innocent-grape.json](./298399-innocent-grape.json) |
 | Innocent Life: A Futuristic Harvest Moon | 42852 | [42852-innocent-life-a-futuristic-harvest-moon.json](./42852-innocent-life-a-futuristic-harvest-moon.json) |
 | Innocent Stuck-up Girls! | 251517 | [251517-innocent-stuck-up-girls.json](./251517-innocent-stuck-up-girls.json) |
 | Innocent Tears | 73742 | [73742-innocent-tears.json](./73742-innocent-tears.json) |
