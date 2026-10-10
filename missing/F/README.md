@@ -55,21 +55,42 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F-Zero X Climax | 135258 | [135258-f-zero-x-climax.json](./135258-f-zero-x-climax.json) |
 | F-Zero X Expansion Kit | 78269 | [78269-f-zero-x-expansion-kit.json](./78269-f-zero-x-expansion-kit.json) |
 | F-Zero ZX Overdrive | 173084 | [173084-f-zero-zx-overdrive.json](./173084-f-zero-zx-overdrive.json) |
+| F-Zero: Falcon Densetsu | 329620 | [329620-f-zero-falcon-densetsu.json](./329620-f-zero-falcon-densetsu.json) |
 | F-Zero: Falcon Densetsu | 329645 | [329645-f-zero-falcon-densetsu.json](./329645-f-zero-falcon-densetsu.json) |
+| F-Zero: Falcon Densetsu e+ - Ballute (Astro Robin) | 329613 | [329613-f-zero-falcon-densetsu-e-ballute-astro-robin.json](./329613-f-zero-falcon-densetsu-e-ballute-astro-robin.json) |
 | F-Zero: Falcon Densetsu e+ - Big Blue: Pigeon | 329545 | [329545-f-zero-falcon-densetsu-e-big-blue-pigeon.json](./329545-f-zero-falcon-densetsu-e-big-blue-pigeon.json) |
+| F-Zero: Falcon Densetsu e+ - Elegance Liberty | 329525 | [329525-f-zero-falcon-densetsu-e-elegance-liberty.json](./329525-f-zero-falcon-densetsu-e-elegance-liberty.json) |
+| F-Zero: Falcon Densetsu e+ - Expansion Park (Golden Fox) | 329616 | [329616-f-zero-falcon-densetsu-e-expansion-park-golden-fox.json](./329616-f-zero-falcon-densetsu-e-expansion-park-golden-fox.json) |
+| F-Zero: Falcon Densetsu e+ - Explosion Track (White Cat) | 329615 | [329615-f-zero-falcon-densetsu-e-explosion-track-white-cat.json](./329615-f-zero-falcon-densetsu-e-explosion-track-white-cat.json) |
+| F-Zero: Falcon Densetsu e+ - Fire Field: Rumble Grand | 329536 | [329536-f-zero-falcon-densetsu-e-fire-field-rumble-grand.json](./329536-f-zero-falcon-densetsu-e-fire-field-rumble-grand.json) |
 | F-Zero: Falcon Densetsu e+ - Great Star | 329563 | [329563-f-zero-falcon-densetsu-e-great-star.json](./329563-f-zero-falcon-densetsu-e-great-star.json) |
 | F-Zero: Falcon Densetsu e+ - Hyper Speeder | 329562 | [329562-f-zero-falcon-densetsu-e-hyper-speeder.json](./329562-f-zero-falcon-densetsu-e-hyper-speeder.json) |
 | F-Zero: Falcon Densetsu e+ - Illusion: Ace of Hearts | 329550 | [329550-f-zero-falcon-densetsu-e-illusion-ace-of-hearts.json](./329550-f-zero-falcon-densetsu-e-illusion-ace-of-hearts.json) |
+| F-Zero: Falcon Densetsu e+ - Illusion: Death Hand | 329538 | [329538-f-zero-falcon-densetsu-e-illusion-death-hand.json](./329538-f-zero-falcon-densetsu-e-illusion-death-hand.json) |
+| F-Zero: Falcon Densetsu e+ - Junction (Blue Falcon) | 329612 | [329612-f-zero-falcon-densetsu-e-junction-blue-falcon.json](./329612-f-zero-falcon-densetsu-e-junction-blue-falcon.json) |
 | F-Zero: Falcon Densetsu e+ - King Meteor | 329561 | [329561-f-zero-falcon-densetsu-e-king-meteor.json](./329561-f-zero-falcon-densetsu-e-king-meteor.json) |
 | F-Zero: Falcon Densetsu e+ - Lightning: Grid Maze | 329544 | [329544-f-zero-falcon-densetsu-e-lightning-grid-maze.json](./329544-f-zero-falcon-densetsu-e-lightning-grid-maze.json) |
 | F-Zero: Falcon Densetsu e+ - Lightning: Light Bulb | 329548 | [329548-f-zero-falcon-densetsu-e-lightning-light-bulb.json](./329548-f-zero-falcon-densetsu-e-lightning-light-bulb.json) |
 | F-Zero: Falcon Densetsu e+ - Little Wyvern | 329558 | [329558-f-zero-falcon-densetsu-e-little-wyvern.json](./329558-f-zero-falcon-densetsu-e-little-wyvern.json) |
+| F-Zero: Falcon Densetsu e+ - Mist Flow: Flower 3 | 329540 | [329540-f-zero-falcon-densetsu-e-mist-flow-flower-3.json](./329540-f-zero-falcon-densetsu-e-mist-flow-flower-3.json) |
 | F-Zero: Falcon Densetsu e+ - Mist Flow: Screw | 329552 | [329552-f-zero-falcon-densetsu-e-mist-flow-screw.json](./329552-f-zero-falcon-densetsu-e-mist-flow-screw.json) |
+| F-Zero: Falcon Densetsu e+ - Moon Shadow | 329526 | [329526-f-zero-falcon-densetsu-e-moon-shadow.json](./329526-f-zero-falcon-densetsu-e-moon-shadow.json) |
+| F-Zero: Falcon Densetsu e+ - Mute City: Counter | 329543 | [329543-f-zero-falcon-densetsu-e-mute-city-counter.json](./329543-f-zero-falcon-densetsu-e-mute-city-counter.json) |
+| F-Zero: Falcon Densetsu e+ - Mute City: Tiles Square | 329531 | [329531-f-zero-falcon-densetsu-e-mute-city-tiles-square.json](./329531-f-zero-falcon-densetsu-e-mute-city-tiles-square.json) |
+| F-Zero: Falcon Densetsu e+ - Night Thunder | 329527 | [329527-f-zero-falcon-densetsu-e-night-thunder.json](./329527-f-zero-falcon-densetsu-e-night-thunder.json) |
+| F-Zero: Falcon Densetsu e+ - Port Town: Dukedom Circuit | 329542 | [329542-f-zero-falcon-densetsu-e-port-town-dukedom-circuit.json](./329542-f-zero-falcon-densetsu-e-port-town-dukedom-circuit.json) |
 | F-Zero: Falcon Densetsu e+ - Port Town: Falcon | 329549 | [329549-f-zero-falcon-densetsu-e-port-town-falcon.json](./329549-f-zero-falcon-densetsu-e-port-town-falcon.json) |
 | F-Zero: Falcon Densetsu e+ - Queen Meteor | 329560 | [329560-f-zero-falcon-densetsu-e-queen-meteor.json](./329560-f-zero-falcon-densetsu-e-queen-meteor.json) |
+| F-Zero: Falcon Densetsu e+ - Red Canyon: Best Choice | 329539 | [329539-f-zero-falcon-densetsu-e-red-canyon-best-choice.json](./329539-f-zero-falcon-densetsu-e-red-canyon-best-choice.json) |
+| F-Zero: Falcon Densetsu e+ - Red Canyon: Dirt Dart | 329541 | [329541-f-zero-falcon-densetsu-e-red-canyon-dirt-dart.json](./329541-f-zero-falcon-densetsu-e-red-canyon-dirt-dart.json) |
+| F-Zero: Falcon Densetsu e+ - Red Canyon: Dorakon | 329533 | [329533-f-zero-falcon-densetsu-e-red-canyon-dorakon.json](./329533-f-zero-falcon-densetsu-e-red-canyon-dorakon.json) |
 | F-Zero: Falcon Densetsu e+ - Sand Ocean: Make or Break | 329546 | [329546-f-zero-falcon-densetsu-e-sand-ocean-make-or-break.json](./329546-f-zero-falcon-densetsu-e-sand-ocean-make-or-break.json) |
+| F-Zero: Falcon Densetsu e+ - Sand Ocean: Undulation Wave | 329534 | [329534-f-zero-falcon-densetsu-e-sand-ocean-undulation-wave.json](./329534-f-zero-falcon-densetsu-e-sand-ocean-undulation-wave.json) |
 | F-Zero: Falcon Densetsu e+ - Silence: Kamitoba | 329551 | [329551-f-zero-falcon-densetsu-e-silence-kamitoba.json](./329551-f-zero-falcon-densetsu-e-silence-kamitoba.json) |
+| F-Zero: Falcon Densetsu e+ - Sonic Phantom | 329529 | [329529-f-zero-falcon-densetsu-e-sonic-phantom.json](./329529-f-zero-falcon-densetsu-e-sonic-phantom.json) |
+| F-Zero: Falcon Densetsu e+ - Traditional Park (Dragonbird) | 329617 | [329617-f-zero-falcon-densetsu-e-traditional-park-dragonbird.json](./329617-f-zero-falcon-densetsu-e-traditional-park-dragonbird.json) |
 | F-Zero: Falcon Densetsu e+ - Twin Noritta | 329559 | [329559-f-zero-falcon-densetsu-e-twin-noritta.json](./329559-f-zero-falcon-densetsu-e-twin-noritta.json) |
+| F-Zero: Falcon Densetsu e+ - White Land: Vingt-Cinq Rink | 329535 | [329535-f-zero-falcon-densetsu-e-white-land-vingt-cinq-rink.json](./329535-f-zero-falcon-densetsu-e-white-land-vingt-cinq-rink.json) |
 | F-Zero: Falcon Densetsu e+ - White Land: Yeti Foot | 329553 | [329553-f-zero-falcon-densetsu-e-white-land-yeti-foot.json](./329553-f-zero-falcon-densetsu-e-white-land-yeti-foot.json) |
 | F-Zero: GP Legend | 3493 | [3493-f-zero-gp-legend.json](./3493-f-zero-gp-legend.json) |
 | F-Zero: GP Legend e+ Complete | 173092 | [173092-f-zero-gp-legend-e-complete.json](./173092-f-zero-gp-legend-e-complete.json) |
@@ -2515,6 +2536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fido Dido | 93010 | [93010-fido-dido.json](./93010-fido-dido.json) |
 | FIE Swordplay | 152225 | [152225-fie-swordplay.json](./152225-fie-swordplay.json) |
 | Fief Lord | 348986 | [348986-fief-lord.json](./348986-fief-lord.json) |
+| Fiefdom | 329623 | [329623-fiefdom.json](./329623-fiefdom.json) |
 | Field | 203183 | [203183-field.json](./203183-field.json) |
 | Field & Stream - Trophy Hunting | 115759 | [115759-field-and-stream-trophy-hunting.json](./115759-field-and-stream-trophy-hunting.json) |
 | Field & Stream: Total Outdoorsman Challenge | 67081 | [67081-field-and-stream-total-outdoorsman-challenge.json](./67081-field-and-stream-total-outdoorsman-challenge.json) |
