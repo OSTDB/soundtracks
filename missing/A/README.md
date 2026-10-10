@@ -775,6 +775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Transitional Eve | 397044 | [397044-a-transitional-eve.json](./397044-a-transitional-eve.json) |
 | A Treat and Some Tricks | 312852 | [312852-a-treat-and-some-tricks.json](./312852-a-treat-and-some-tricks.json) |
 | A Trip to the Mall at Night | 359054 | [359054-a-trip-to-the-mall-at-night.json](./359054-a-trip-to-the-mall-at-night.json) |
+| A Trip To The Zoo | 290320 | [290320-a-trip-to-the-zoo.json](./290320-a-trip-to-the-zoo.json) |
 | A Trip to Yugoslavia | 68932 | [68932-a-trip-to-yugoslavia.json](./68932-a-trip-to-yugoslavia.json) |
 | A Trip to Yugoslavia: Director's Cut | 30888 | [30888-a-trip-to-yugoslavia-directors-cut.json](./30888-a-trip-to-yugoslavia-directors-cut.json) |
 | A True Story | 258043 | [258043-a-true-story.json](./258043-a-true-story.json) |
@@ -1570,6 +1571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Acidsoul | 78753 | [78753-acidsoul.json](./78753-acidsoul.json) |
 | Ack-Ack Attack! | 79318 | [79318-ack-ack-attack.json](./79318-ack-ack-attack.json) |
 | ACM 1918 | 129795 | [129795-acm-1918.json](./129795-acm-1918.json) |
+| Acme, Inc. | 290330 | [290330-acme-inc.json](./290330-acme-inc.json) |
 | Acne Attack | 72158 | [72158-acne-attack.json](./72158-acne-attack.json) |
 | Acno's Energizer | 326749 | [326749-acnos-energizer.json](./326749-acnos-energizer.json) |
 | Acolyte Fight! | 112251 | [112251-acolyte-fight.json](./112251-acolyte-fight.json) |
@@ -4609,6 +4611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Altar War | 218585 | [218585-altar-war.json](./218585-altar-war.json) |
 | Altarage | 157150 | [157150-altarage.json](./157150-altarage.json) |
 | Altarays | 161165 | [161165-altarays.json](./161165-altarays.json) |
+| Altarium | 290307 | [290307-altarium.json](./290307-altarium.json) |
 | Altcode | 304115 | [304115-altcode.json](./304115-altcode.json) |
 | AltCoin | 334769 | [334769-altcoin.json](./334769-altcoin.json) |
 | Altdeus: Beyond Chronos - Episode Yamato | 196096 | [196096-altdeus-beyond-chronos-episode-yamato.json](./196096-altdeus-beyond-chronos-episode-yamato.json) |
@@ -5235,6 +5238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ampersand | 34273 | [34273-ampersand.json](./34273-ampersand.json) |
 | Ampguard | 188678 | [188678-ampguard.json](./188678-ampguard.json) |
 | Amphibarium | 384858 | [384858-amphibarium.json](./384858-amphibarium.json) |
+| Amphibian Assault | 290331 | [290331-amphibian-assault.json](./290331-amphibian-assault.json) |
 | Amphigeum | 382443 | [382443-amphigeum.json](./382443-amphigeum.json) |
 | Amphis Game | 381122 | [381122-amphis-game.json](./381122-amphis-game.json) |
 | Amphora Hell | 336556 | [336556-amphora-hell.json](./336556-amphora-hell.json) |
@@ -6607,6 +6611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Antix | 15597 | [15597-antix.json](./15597-antix.json) |
 | Antixonix | 140493 | [140493-antixonix.json](./140493-antixonix.json) |
 | Antiyoy | 25554 | [25554-antiyoy.json](./25554-antiyoy.json) |
+| Antlion Soccer | 290348 | [290348-antlion-soccer.json](./290348-antlion-soccer.json) |
 | Antlions Everywhere | 268034 | [268034-antlions-everywhere.json](./268034-antlions-everywhere.json) |
 | AntMe! | 138000 | [138000-antme.json](./138000-antme.json) |
 | Anton: Conversion Reversion | 326116 | [326116-anton-conversion-reversion.json](./326116-anton-conversion-reversion.json) |
@@ -8141,6 +8146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ark Nova | 338156 | [338156-ark-nova.json](./338156-ark-nova.json) |
 | Ark Odyssey | 319366 | [319366-ark-odyssey.json](./319366-ark-odyssey.json) |
 | Ark of Artemis | 148564 | [148564-ark-of-artemis.json](./148564-ark-of-artemis.json) |
+| Ark of Charon | 290353 | [290353-ark-of-charon.json](./290353-ark-of-charon.json) |
 | Ark of Isolation | 373550 | [373550-ark-of-isolation.json](./373550-ark-of-isolation.json) |
 | Ark of Loif | 167189 | [167189-ark-of-loif.json](./167189-ark-of-loif.json) |
 | Ark of Trisolar | 360692 | [360692-ark-of-trisolar.json](./360692-ark-of-trisolar.json) |
