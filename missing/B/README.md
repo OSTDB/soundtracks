@@ -5489,6 +5489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Heart | 39820 | [39820-black-heart.json](./39820-black-heart.json) |
 | Black Hole | 46790 | [46790-black-hole.json](./46790-black-hole.json) |
 | Black Hole | 85507 | [85507-black-hole.json](./85507-black-hole.json) |
+| Black Hole Escape | 293515 | [293515-black-hole-escape.json](./293515-black-hole-escape.json) |
 | Black Hole Fishing | 346166 | [346166-black-hole-fishing.json](./346166-black-hole-fishing.json) |
 | Black Hole Gun | 413182 | [413182-black-hole-gun.json](./413182-black-hole-gun.json) |
 | Black Hole Interior Explorer | 277534 | [277534-black-hole-interior-explorer.json](./277534-black-hole-interior-explorer.json) |
@@ -7251,6 +7252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boar Farm | 383635 | [383635-boar-farm.json](./383635-boar-farm.json) |
 | Board Battlefield | 83186 | [83186-board-battlefield.json](./83186-board-battlefield.json) |
 | Board Fight | 169314 | [169314-board-fight.json](./169314-board-fight.json) |
+| Board Game Cafe | 293522 | [293522-board-game-cafe.json](./293522-board-game-cafe.json) |
 | Board Game Collection | 100743 | [100743-board-game-collection.json](./100743-board-game-collection.json) |
 | Board Game Online | 60809 | [60809-board-game-online.json](./60809-board-game-online.json) |
 | Board Game Party | 303172 | [303172-board-game-party.json](./303172-board-game-party.json) |
@@ -10724,6 +10726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buried Spirits | 383038 | [383038-buried-spirits.json](./383038-buried-spirits.json) |
 | Buried: An Interactive Story | 33689 | [33689-buried-an-interactive-story.json](./33689-buried-an-interactive-story.json) |
 | Buriki One | 28139 | [28139-buriki-one.json](./28139-buriki-one.json) |
+| Burkina Faso: Radical Insurgency | 293518 | [293518-burkina-faso-radical-insurgency.json](./293518-burkina-faso-radical-insurgency.json) |
 | Burlesque | 292650 | [292650-burlesque.json](./292650-burlesque.json) |
 | Burn | 171449 | [171449-burn.json](./171449-burn.json) |
 | Burn | 311118 | [311118-burn.json](./311118-burn.json) |
@@ -11117,6 +11120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bystander | 75827 | [75827-bystander.json](./75827-bystander.json) |
 | Byte | 301066 | [301066-byte.json](./301066-byte.json) |
 | Byte Bitten | 93183 | [93183-byte-bitten.json](./93183-byte-bitten.json) |
+| Byte Breach | 293509 | [293509-byte-breach.json](./293509-byte-breach.json) |
 | Byte Breakers | 314978 | [314978-byte-breakers.json](./314978-byte-breakers.json) |
 | Byte Family | 30750 | [30750-byte-family.json](./30750-byte-family.json) |
 | Byte Fyte: Multiplayer | 226276 | [226276-byte-fyte-multiplayer.json](./226276-byte-fyte-multiplayer.json) |
