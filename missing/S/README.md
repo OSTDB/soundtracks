@@ -5695,7 +5695,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shopping Clutter 6: Love Is in the Air | 231314 | [231314-shopping-clutter-6-love-is-in-the-air.json](./231314-shopping-clutter-6-love-is-in-the-air.json) |
 | Shopping Clutter 7: Food Detectives | 249371 | [249371-shopping-clutter-7-food-detectives.json](./249371-shopping-clutter-7-food-detectives.json) |
 | Shopping Clutter 8: From Gloom to Bloom | 249372 | [249372-shopping-clutter-8-from-gloom-to-bloom.json](./249372-shopping-clutter-8-from-gloom-to-bloom.json) |
+| Shopping Clutter: Halloween Mystery | 305404 | [305404-shopping-clutter-halloween-mystery.json](./305404-shopping-clutter-halloween-mystery.json) |
+| Shopping Clutter: Spring Blossom | 305403 | [305403-shopping-clutter-spring-blossom.json](./305403-shopping-clutter-spring-blossom.json) |
 | Shopping Clutter: The Best Playground | 200580 | [200580-shopping-clutter-the-best-playground.json](./200580-shopping-clutter-the-best-playground.json) |
+| Shopping Clutter: Winter Break | 305402 | [305402-shopping-clutter-winter-break.json](./305402-shopping-clutter-winter-break.json) |
 | Shopping Empire Tycoon | 157083 | [157083-shopping-empire-tycoon.json](./157083-shopping-empire-tycoon.json) |
 | Shopping Fever | 330812 | [330812-shopping-fever.json](./330812-shopping-fever.json) |
 | Shopping in a Winter Zombieland | 276174 | [276174-shopping-in-a-winter-zombieland.json](./276174-shopping-in-a-winter-zombieland.json) |
@@ -8160,6 +8163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slice | 98705 | [98705-slice.json](./98705-slice.json) |
 | Slice 'Em Up! | 185130 | [185130-slice-em-up.json](./185130-slice-em-up.json) |
 | Slice & Dice | 176099 | [176099-slice-and-dice.json](./176099-slice-and-dice.json) |
+| Slice It All! | 305417 | [305417-slice-it-all.json](./305417-slice-it-all.json) |
 | Slice It! | 147957 | [147957-slice-it.json](./147957-slice-it.json) |
 | Slice It! | 21585 | [21585-slice-it.json](./21585-slice-it.json) |
 | Slice N' Hook | 67335 | [67335-slice-n-hook.json](./67335-slice-n-hook.json) |
@@ -9809,6 +9813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sokobalien | 211129 | [211129-sokobalien.json](./211129-sokobalien.json) |
 | Sokoball of Osaka | 64679 | [64679-sokoball-of-osaka.json](./64679-sokoball-of-osaka.json) |
 | Sokoban | 19573 | [19573-sokoban.json](./19573-sokoban.json) |
+| Sokoban | 305555 | [305555-sokoban.json](./305555-sokoban.json) |
 | Sokoban | 306039 | [306039-sokoban.json](./306039-sokoban.json) |
 | Sokoban | 47946 | [47946-sokoban.json](./47946-sokoban.json) |
 | Sokoban | 6136 | [6136-sokoban.json](./6136-sokoban.json) |
@@ -16880,6 +16885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Story of the Survivor: The Escape | 156154 | [156154-story-of-the-survivor-the-escape.json](./156154-story-of-the-survivor-the-escape.json) |
 | Story of You: The Allied Kingdoms | 193477 | [193477-story-of-you-the-allied-kingdoms.json](./193477-story-of-you-the-allied-kingdoms.json) |
 | Story Teller | 119693 | [119693-story-teller.json](./119693-story-teller.json) |
+| Story Time Bundle | 305486 | [305486-story-time-bundle.json](./305486-story-time-bundle.json) |
 | Story Universe | 122915 | [122915-story-universe.json](./122915-story-universe.json) |
 | Story Walker | 211108 | [211108-story-walker.json](./211108-story-walker.json) |
 | Storyblocks + Cat Games + Soko Games | 335100 | [335100-storyblocks-cat-games-soko-games.json](./335100-storyblocks-cat-games-soko-games.json) |
@@ -17553,6 +17559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strip Poker Night at the Inventory | 134409 | [134409-strip-poker-night-at-the-inventory.json](./134409-strip-poker-night-at-the-inventory.json) |
 | Strip Pot | 13056 | [13056-strip-pot.json](./13056-strip-pot.json) |
 | Strip4 | 93182 | [93182-strip4.json](./93182-strip4.json) |
+| Stripes | 305557 | [305557-stripes.json](./305557-stripes.json) |
 | Striping Fruits | 147410 | [147410-striping-fruits.json](./147410-striping-fruits.json) |
 | Stripper Anya 2: X-MiGuFighters | 75168 | [75168-stripper-anya-2-x-migufighters.json](./75168-stripper-anya-2-x-migufighters.json) |
 | Stripper Anya: Christmas Special | 385311 | [385311-stripper-anya-christmas-special.json](./385311-stripper-anya-christmas-special.json) |
@@ -20730,6 +20737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supermarket Mania HD | 24271 | [24271-supermarket-mania-hd.json](./24271-supermarket-mania-hd.json) |
 | Supermarket Security Simulator | 275234 | [275234-supermarket-security-simulator.json](./275234-supermarket-security-simulator.json) |
 | Supermarket Shriek | 107170 | [107170-supermarket-shriek.json](./107170-supermarket-shriek.json) |
+| Supermarket Simulation Grocery Empire 3D | 305561 | [305561-supermarket-simulation-grocery-empire-3d.json](./305561-supermarket-simulation-grocery-empire-3d.json) |
 | Supermarket Simulator | 274920 | [274920-supermarket-simulator.json](./274920-supermarket-simulator.json) |
 | Supermarket Simulator 2025 | 345970 | [345970-supermarket-simulator-2025.json](./345970-supermarket-simulator-2025.json) |
 | Supermarket Simulator 2026 | 378772 | [378772-supermarket-simulator-2026.json](./378772-supermarket-simulator-2026.json) |
