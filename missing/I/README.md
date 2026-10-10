@@ -4063,6 +4063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It Works: Electronics Repair Simulator | 352231 | [352231-it-works-electronics-repair-simulator.json](./352231-it-works-electronics-repair-simulator.json) |
 | It: Unstoppable | 364059 | [364059-it-unstoppable.json](./364059-it-unstoppable.json) |
 | It's a Beautiful Day | 177526 | [177526-its-a-beautiful-day.json](./177526-its-a-beautiful-day.json) |
+| It's a Block-Pushing Game | 290354 | [290354-its-a-block-pushing-game.json](./290354-its-a-block-pushing-game.json) |
 | It's a Funny Old Game | 73790 | [73790-its-a-funny-old-game.json](./73790-its-a-funny-old-game.json) |
 | It’s A Game Changer | 336637 | [336637-it-s-a-game-changer.json](./336637-it-s-a-game-changer.json) |
 | It's a Gas! | 325080 | [325080-its-a-gas.json](./325080-its-a-gas.json) |
