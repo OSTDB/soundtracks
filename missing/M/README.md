@@ -3938,6 +3938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mazer | 4317 | [4317-mazer.json](./4317-mazer.json) |
 | Mazer Laser | 319341 | [319341-mazer-laser.json](./319341-mazer-laser.json) |
 | Mazera | 94679 | [94679-mazera.json](./94679-mazera.json) |
+| Mazes | 312261 | [312261-mazes.json](./312261-mazes.json) |
 | Mazes and Labyrinths | 104728 | [104728-mazes-and-labyrinths.json](./104728-mazes-and-labyrinths.json) |
 | Mazes and Mages | 102721 | [102721-mazes-and-mages.json](./102721-mazes-and-mages.json) |
 | Mazes and Mages 2 | 121778 | [121778-mazes-and-mages-2.json](./121778-mazes-and-mages-2.json) |
@@ -9059,6 +9060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mole's Quest | 329728 | [329728-moles-quest.json](./329728-moles-quest.json) |
 | Mole's Quest | 343208 | [343208-moles-quest.json](./343208-moles-quest.json) |
 | Mole's World | 245050 | [245050-moles-world.json](./245050-moles-world.json) |
+| Molebasher | 312262 | [312262-molebasher.json](./312262-molebasher.json) |
 | Molecule - a chemistry challenge | 98265 | [98265-molecule-a-chemistry-challenge.json](./98265-molecule-a-chemistry-challenge.json) |
 | Molecule Make Lab | 201133 | [201133-molecule-make-lab.json](./201133-molecule-make-lab.json) |
 | Molecule: A Chemical Challenge | 86584 | [86584-molecule-a-chemical-challenge.json](./86584-molecule-a-chemical-challenge.json) |
