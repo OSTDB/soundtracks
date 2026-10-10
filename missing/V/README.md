@@ -414,6 +414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vampire Saga 3: Break Out | 53936 | [53936-vampire-saga-3-break-out.json](./53936-vampire-saga-3-break-out.json) |
 | Vampire Saga: Pandora's Box | 53935 | [53935-vampire-saga-pandoras-box.json](./53935-vampire-saga-pandoras-box.json) |
 | Vampire Saga: Welcome to Hell Lock | 53934 | [53934-vampire-saga-welcome-to-hell-lock.json](./53934-vampire-saga-welcome-to-hell-lock.json) |
+| Vampire Skills | 316939 | [316939-vampire-skills.json](./316939-vampire-skills.json) |
 | Vampire Slasher Hero | 208955 | [208955-vampire-slasher-hero.json](./208955-vampire-slasher-hero.json) |
 | Vampire Slayer: The Resurrection | 231065 | [231065-vampire-slayer-the-resurrection.json](./231065-vampire-slayer-the-resurrection.json) |
 | Vampire Survivors: 1.5 | 252864 | [252864-vampire-survivors-1-5.json](./252864-vampire-survivors-1-5.json) |
@@ -826,6 +827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Velorys | 419856 | [419856-velorys.json](./419856-velorys.json) |
 | Velucity | 155656 | [155656-velucity.json](./155656-velucity.json) |
 | Velucity: O2Jam Pack 1 | 170381 | [170381-velucity-o2jam-pack-1.json](./170381-velucity-o2jam-pack-1.json) |
+| Velvet 89 | 316956 | [316956-velvet-89.json](./316956-velvet-89.json) |
 | Velvet Dark | 130336 | [130336-velvet-dark.json](./130336-velvet-dark.json) |
 | Velvet Guard | 93771 | [93771-velvet-guard.json](./93771-velvet-guard.json) |
 | Velvet Hammer | 392149 | [392149-velvet-hammer.json](./392149-velvet-hammer.json) |
