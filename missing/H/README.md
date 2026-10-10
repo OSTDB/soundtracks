@@ -1373,6 +1373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harvest | 99400 | [99400-harvest.json](./99400-harvest.json) |
 | Harvest Bliss | 302374 | [302374-harvest-bliss.json](./302374-harvest-bliss.json) |
 | Harvest Cafe | 294386 | [294386-harvest-cafe.json](./294386-harvest-cafe.json) |
+| Harvest Days | 308511 | [308511-harvest-days.json](./308511-harvest-days.json) |
 | Harvest Dice: Abundia’s Blessing | 376539 | [376539-harvest-dice-abundia-s-blessing.json](./376539-harvest-dice-abundia-s-blessing.json) |
 | Harvest Hands | 125419 | [125419-harvest-hands.json](./125419-harvest-hands.json) |
 | Harvest Hustlers | 302363 | [302363-harvest-hustlers.json](./302363-harvest-hustlers.json) |
@@ -2793,6 +2794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HelloWorld: Escape | 369582 | [369582-helloworld-escape.json](./369582-helloworld-escape.json) |
 | HelloWorldFactory | 276841 | [276841-helloworldfactory.json](./276841-helloworldfactory.json) |
 | Hellpit | 228448 | [228448-hellpit.json](./228448-hellpit.json) |
+| Hellpit 3D Platformer | 308517 | [308517-hellpit-3d-platformer.json](./308517-hellpit-3d-platformer.json) |
 | Hellpoint: Blue Sun | 164816 | [164816-hellpoint-blue-sun.json](./164816-hellpoint-blue-sun.json) |
 | Hellpoint: Signature Edition | 139838 | [139838-hellpoint-signature-edition.json](./139838-hellpoint-signature-edition.json) |
 | Hellpoint: Ultimate Edition | 209688 | [209688-hellpoint-ultimate-edition.json](./209688-hellpoint-ultimate-edition.json) |
@@ -2893,6 +2895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai 2+2=4 | 110176 | [110176-hentai-2-2-4.json](./110176-hentai-2-2-4.json) |
 | Hentai 3018 | 102360 | [102360-hentai-3018.json](./102360-hentai-3018.json) |
 | Hentai Abigail | 259833 | [259833-hentai-abigail.json](./259833-hentai-abigail.json) |
+| Hentai Academy | 308516 | [308516-hentai-academy.json](./308516-hentai-academy.json) |
 | Hentai Academy: Academic Stories 1 | 313145 | [313145-hentai-academy-academic-stories-1.json](./313145-hentai-academy-academic-stories-1.json) |
 | Hentai Academy: Academic Stories 2 | 313146 | [313146-hentai-academy-academic-stories-2.json](./313146-hentai-academy-academic-stories-2.json) |
 | Hentai Academy: Academic Stories 3 | 313147 | [313147-hentai-academy-academic-stories-3.json](./313147-hentai-academy-academic-stories-3.json) |
@@ -3025,6 +3028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Girls Special Edition | 263557 | [263557-hentai-girls-special-edition.json](./263557-hentai-girls-special-edition.json) |
 | Hentai Girls: Adorable Angel | 328522 | [328522-hentai-girls-adorable-angel.json](./328522-hentai-girls-adorable-angel.json) |
 | Hentai Girls: Adventure Clicker | 259611 | [259611-hentai-girls-adventure-clicker.json](./259611-hentai-girls-adventure-clicker.json) |
+| Hentai Girls: Amazing America | 308515 | [308515-hentai-girls-amazing-america.json](./308515-hentai-girls-amazing-america.json) |
 | Hentai Girls: Amazing Edition | 294827 | [294827-hentai-girls-amazing-edition.json](./294827-hentai-girls-amazing-edition.json) |
 | Hentai Girls: Autumn Crush | 320445 | [320445-hentai-girls-autumn-crush.json](./320445-hentai-girls-autumn-crush.json) |
 | Hentai Girls: College Romance | 325018 | [325018-hentai-girls-college-romance.json](./325018-hentai-girls-college-romance.json) |
@@ -3199,6 +3203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Shop Simulator | 329572 | [329572-hentai-shop-simulator.json](./329572-hentai-shop-simulator.json) |
 | Hentai Shop Simulator | 338002 | [338002-hentai-shop-simulator.json](./338002-hentai-shop-simulator.json) |
 | Hentai Slash | 340451 | [340451-hentai-slash.json](./340451-hentai-slash.json) |
+| Hentai Solitaire | 308513 | [308513-hentai-solitaire.json](./308513-hentai-solitaire.json) |
 | Hentai Solitaire | 371040 | [371040-hentai-solitaire.json](./371040-hentai-solitaire.json) |
 | Hentai Solitaire: Complete + | 324450 | [324450-hentai-solitaire-complete.json](./324450-hentai-solitaire-complete.json) |
 | Hentai Solitaire: Extended Edition | 315868 | [315868-hentai-solitaire-extended-edition.json](./315868-hentai-solitaire-extended-edition.json) |
@@ -5262,6 +5267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hole io: Warzone | 300945 | [300945-hole-io-warzone.json](./300945-hole-io-warzone.json) |
 | Hole Is Mine | 404881 | [404881-hole-is-mine.json](./404881-hole-is-mine.json) |
 | Hole Land | 40348 | [40348-hole-land.json](./40348-hole-land.json) |
+| Hole Theory | 308512 | [308512-hole-theory.json](./308512-hole-theory.json) |
 | Hole War: The Abyss | 347732 | [347732-hole-war-the-abyss.json](./347732-hole-war-the-abyss.json) |
 | Hole Your Horses: Champion Edition | 394098 | [394098-hole-your-horses-champion-edition.json](./394098-hole-your-horses-champion-edition.json) |
 | Hole-In-One Miniature Golf | 70979 | [70979-hole-in-one-miniature-golf.json](./70979-hole-in-one-miniature-golf.json) |
@@ -5347,6 +5353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hollow Ones | 422102 | [422102-hollow-ones.json](./422102-hollow-ones.json) |
 | Hollow Overhaul | 317521 | [317521-hollow-overhaul.json](./317521-hollow-overhaul.json) |
 | Hollow Park | 203184 | [203184-hollow-park.json](./203184-hollow-park.json) |
+| Hollow Police Emblem: The Visual Novel | 308518 | [308518-hollow-police-emblem-the-visual-novel.json](./308518-hollow-police-emblem-the-visual-novel.json) |
 | Hollow Seeker | 229009 | [229009-hollow-seeker.json](./229009-hollow-seeker.json) |
 | Hollow Sorrow | 355179 | [355179-hollow-sorrow.json](./355179-hollow-sorrow.json) |
 | Hollow Stem | 297792 | [297792-hollow-stem.json](./297792-hollow-stem.json) |
@@ -6263,6 +6270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hostile Dreams 2 | 332458 | [332458-hostile-dreams-2.json](./332458-hostile-dreams-2.json) |
 | Hostile Mars | 151031 | [151031-hostile-mars.json](./151031-hostile-mars.json) |
 | Hostile Space Revived | 97973 | [97973-hostile-space-revived.json](./97973-hostile-space-revived.json) |
+| Hostile Waters | 308449 | [308449-hostile-waters.json](./308449-hostile-waters.json) |
 | Hosting Simulator: 2026 | 406312 | [406312-hosting-simulator-2026.json](./406312-hosting-simulator-2026.json) |
 | Hostyle | 397700 | [397700-hostyle.json](./397700-hostyle.json) |
 | Hot & Hentai | 317548 | [317548-hot-and-hentai.json](./317548-hot-and-hentai.json) |
