@@ -1946,6 +1946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geometrix | 159728 | [159728-geometrix.json](./159728-geometrix.json) |
 | Geometry Arena | 152133 | [152133-geometry-arena.json](./152133-geometry-arena.json) |
 | Geometry Ball Escape | 164795 | [164795-geometry-ball-escape.json](./164795-geometry-ball-escape.json) |
+| Geometry Blaster | 324583 | [324583-geometry-blaster.json](./324583-geometry-blaster.json) |
 | Geometry Boxer | 98768 | [98768-geometry-boxer.json](./98768-geometry-boxer.json) |
 | Geometry Breakers | 369172 | [369172-geometry-breakers.json](./369172-geometry-breakers.json) |
 | Geometry Darkness 2.2 :D | 101984 | [101984-geometry-darkness-2-2-d.json](./101984-geometry-darkness-2-2-d.json) |
