@@ -1221,6 +1221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warrior | 181768 | [181768-warrior.json](./181768-warrior.json) |
 | Warrior | 215906 | [215906-warrior.json](./215906-warrior.json) |
 | Warrior | 274015 | [274015-warrior.json](./274015-warrior.json) |
+| Warrior | 287575 | [287575-warrior.json](./287575-warrior.json) |
 | Warrior Beneath Heaven | 156536 | [156536-warrior-beneath-heaven.json](./156536-warrior-beneath-heaven.json) |
 | Warrior Cats: Clans of the Forest | 412520 | [412520-warrior-cats-clans-of-the-forest.json](./412520-warrior-cats-clans-of-the-forest.json) |
 | Warrior Chef | 270179 | [270179-warrior-chef.json](./270179-warrior-chef.json) |
@@ -1693,6 +1694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wayne's World | 7646 | [7646-waynes-world.json](./7646-waynes-world.json) |
 | WayOut 2: Hex | 27334 | [27334-wayout-2-hex.json](./27334-wayout-2-hex.json) |
 | WayPoint | 335228 | [335228-waypoint.json](./335228-waypoint.json) |
+| Ways | 287594 | [287594-ways.json](./287594-ways.json) |
 | Ways | 323521 | [323521-ways.json](./323521-ways.json) |
 | Ways of Alchemy | 333069 | [333069-ways-of-alchemy.json](./333069-ways-of-alchemy.json) |
 | Ways Unknown | 408278 | [408278-ways-unknown.json](./408278-ways-unknown.json) |
