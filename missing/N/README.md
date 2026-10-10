@@ -1874,6 +1874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Never Forget Me | 31168 | [31168-never-forget-me.json](./31168-never-forget-me.json) |
 | Never Forgotten | 239639 | [239639-never-forgotten.json](./239639-never-forgotten.json) |
 | Never give up! | 30540 | [30540-never-give-up.json](./30540-never-give-up.json) |
+| Never Gives Up Her Dead | 290350 | [290350-never-gives-up-her-dead.json](./290350-never-gives-up-her-dead.json) |
 | Never Go Home | 120880 | [120880-never-go-home.json](./120880-never-go-home.json) |
 | Never Immortal | 235741 | [235741-never-immortal.json](./235741-never-immortal.json) |
 | Never out of Time | 193476 | [193476-never-out-of-time.json](./193476-never-out-of-time.json) |
