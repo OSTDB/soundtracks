@@ -330,6 +330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | October Night Games | 138514 | [138514-october-night-games.json](./138514-october-night-games.json) |
 | October Nightmares | 272341 | [272341-october-nightmares.json](./272341-october-nightmares.json) |
 | October Ordeal | 318511 | [318511-october-ordeal.json](./318511-october-ordeal.json) |
+| October Panic | 319283 | [319283-october-panic.json](./319283-october-panic.json) |
 | OctoCraps | 365169 | [365169-octocraps.json](./365169-octocraps.json) |
 | Octodad | 8110 | [8110-octodad.json](./8110-octodad.json) |
 | Octodad Shorts | 382904 | [382904-octodad-shorts.json](./382904-octodad-shorts.json) |
