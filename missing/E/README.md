@@ -1765,6 +1765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emerald Mine | 37100 | [37100-emerald-mine.json](./37100-emerald-mine.json) |
 | Emerald Mine 3: Professional | 137558 | [137558-emerald-mine-3-professional.json](./137558-emerald-mine-3-professional.json) |
 | Emerald Mine II | 37105 | [37105-emerald-mine-ii.json](./37105-emerald-mine-ii.json) |
+| Emerald Race | 316932 | [316932-emerald-race.json](./316932-emerald-race.json) |
 | Emerald Rush | 97157 | [97157-emerald-rush.json](./97157-emerald-rush.json) |
 | Emerald Shores | 111470 | [111470-emerald-shores.json](./111470-emerald-shores.json) |
 | Emerald Ties | 324698 | [324698-emerald-ties.json](./324698-emerald-ties.json) |
