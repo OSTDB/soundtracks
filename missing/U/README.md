@@ -1022,6 +1022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Under a Desert Sun: Seekers of the Cursed Vessel | 372637 | [372637-under-a-desert-sun-seekers-of-the-cursed-vessel.json](./372637-under-a-desert-sun-seekers-of-the-cursed-vessel.json) |
 | Under a Freezing Sea | 143362 | [143362-under-a-freezing-sea.json](./143362-under-a-freezing-sea.json) |
 | Under a Star Called Sun | 135632 | [135632-under-a-star-called-sun.json](./135632-under-a-star-called-sun.json) |
+| Under A Star Long Cold | 284847 | [284847-under-a-star-long-cold.json](./284847-under-a-star-long-cold.json) |
 | Under a Tree with Cherry Blossoms: Love with One's Back | 303300 | [303300-under-a-tree-with-cherry-blossoms-love-with-ones-back.json](./303300-under-a-tree-with-cherry-blossoms-love-with-ones-back.json) |
 | Under Canopies | 301087 | [301087-under-canopies.json](./301087-under-canopies.json) |
 | Under Construction: Summer City | 167582 | [167582-under-construction-summer-city.json](./167582-under-construction-summer-city.json) |
