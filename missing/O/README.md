@@ -588,6 +588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Office Novice | 180851 | [180851-office-novice.json](./180851-office-novice.json) |
 | Office Outbreak Savior | 333155 | [333155-office-outbreak-savior.json](./333155-office-outbreak-savior.json) |
 | Office Overloaded | 317580 | [317580-office-overloaded.json](./317580-office-overloaded.json) |
+| Office Perks: Act 1 | 297907 | [297907-office-perks-act-1.json](./297907-office-perks-act-1.json) |
 | Office Point Rescue | 159051 | [159051-office-point-rescue.json](./159051-office-point-rescue.json) |
 | Office Race | 102951 | [102951-office-race.json](./102951-office-race.json) |
 | Office Racer | 213045 | [213045-office-racer.json](./213045-office-racer.json) |
@@ -2530,6 +2531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oretachi ni Tsubasa wa Nai -Prelude- | 60572 | [60572-oretachi-ni-tsubasa-wa-nai-prelude.json](./60572-oretachi-ni-tsubasa-wa-nai-prelude.json) |
 | Oretachi no Sabage Versus | 59374 | [59374-oretachi-no-sabage-versus.json](./59374-oretachi-no-sabage-versus.json) |
 | Orf Ski Challange 2016 | 125880 | [125880-orf-ski-challange-2016.json](./125880-orf-ski-challange-2016.json) |
+| Organ Corruption | 297909 | [297909-organ-corruption.json](./297909-organ-corruption.json) |
 | Organ Failure | 383385 | [383385-organ-failure.json](./383385-organ-failure.json) |
 | Organ of Eden | 263002 | [263002-organ-of-eden.json](./263002-organ-of-eden.json) |
 | Organ Quarter Pre-Alpha Demo | 30909 | [30909-organ-quarter-pre-alpha-demo.json](./30909-organ-quarter-pre-alpha-demo.json) |
@@ -2548,6 +2550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Organized Inside | 346555 | [346555-organized-inside.json](./346555-organized-inside.json) |
 | Organosphere | 96117 | [96117-organosphere.json](./96117-organosphere.json) |
 | Orgarhythm | 21009 | [21009-orgarhythm.json](./21009-orgarhythm.json) |
+| Orgasm Academy | 297886 | [297886-orgasm-academy.json](./297886-orgasm-academy.json) |
 | Orgasm Simulator 2023 | 253888 | [253888-orgasm-simulator-2023.json](./253888-orgasm-simulator-2023.json) |
 | Orgasm Simulator 3 | 274686 | [274686-orgasm-simulator-3.json](./274686-orgasm-simulator-3.json) |
 | Orge Battle Gaiden | 75500 | [75500-orge-battle-gaiden.json](./75500-orge-battle-gaiden.json) |
