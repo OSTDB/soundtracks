@@ -142,6 +142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rabbit Knight | 205598 | [205598-rabbit-knight.json](./205598-rabbit-knight.json) |
 | Rabbit on Skateboard | 312206 | [312206-rabbit-on-skateboard.json](./312206-rabbit-on-skateboard.json) |
 | Rabbit Rabbit UFO | 279025 | [279025-rabbit-rabbit-ufo.json](./279025-rabbit-rabbit-ufo.json) |
+| Rabbit Rampage | 293536 | [293536-rabbit-rampage.json](./293536-rabbit-rampage.json) |
 | Rabbit Riot | 149209 | [149209-rabbit-riot.json](./149209-rabbit-riot.json) |
 | Rabbit Run Away | 212466 | [212466-rabbit-run-away.json](./212466-rabbit-run-away.json) |
 | Rabbit Run Carrot Hunt | 361347 | [361347-rabbit-run-carrot-hunt.json](./361347-rabbit-run-carrot-hunt.json) |
@@ -1134,6 +1135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Random Heroes 3 | 59893 | [59893-random-heroes-3.json](./59893-random-heroes-3.json) |
 | Random Isles | 389536 | [389536-random-isles.json](./389536-random-isles.json) |
 | Random Journey | 32261 | [32261-random-journey.json](./32261-random-journey.json) |
+| Random Legion | 293513 | [293513-random-legion.json](./293513-random-legion.json) |
 | Random Number God | 184625 | [184625-random-number-god.json](./184625-random-number-god.json) |
 | Random Platformer | 169785 | [169785-random-platformer.json](./169785-random-platformer.json) |
 | Random Quest | 322233 | [322233-random-quest.json](./322233-random-quest.json) |
@@ -4580,6 +4582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rift of the NecroDancer: VA-11 Hall-A - "Yliad" - Garoad | 401874 | [401874-rift-of-the-necrodancer-va-11-hall-a-yliad-garoad.json](./401874-rift-of-the-necrodancer-va-11-hall-a-yliad-garoad.json) |
 | Rift of the NecroDancer: VA-11 Hall-A Music Pack | 401873 | [401873-rift-of-the-necrodancer-va-11-hall-a-music-pack.json](./401873-rift-of-the-necrodancer-va-11-hall-a-music-pack.json) |
 | Rift Rangers | 226949 | [226949-rift-rangers.json](./226949-rift-rangers.json) |
+| Rift Riff | 293543 | [293543-rift-riff.json](./293543-rift-riff.json) |
 | Rift Runner | 143013 | [143013-rift-runner.json](./143013-rift-runner.json) |
 | Rift Survivors | 273442 | [273442-rift-survivors.json](./273442-rift-survivors.json) |
 | Rift Survivors | 373199 | [373199-rift-survivors.json](./373199-rift-survivors.json) |
