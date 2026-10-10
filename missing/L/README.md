@@ -861,6 +861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Outlander | 224028 | [224028-last-outlander.json](./224028-last-outlander.json) |
 | Last Outpost | 302110 | [302110-last-outpost.json](./302110-last-outpost.json) |
 | Last Patriot | 328972 | [328972-last-patriot.json](./328972-last-patriot.json) |
+| Last Pickup | 323430 | [323430-last-pickup.json](./323430-last-pickup.json) |
 | Last Pill Bar | 415880 | [415880-last-pill-bar.json](./415880-last-pill-bar.json) |
 | Last Pirate: Survival Island | 193960 | [193960-last-pirate-survival-island.json](./193960-last-pirate-survival-island.json) |
 | Last Pirates: Die Together | 397402 | [397402-last-pirates-die-together.json](./397402-last-pirates-die-together.json) |
@@ -2187,6 +2188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let It Happen | 129663 | [129663-let-it-happen.json](./129663-let-it-happen.json) |
 | Let It Ride! | 392938 | [392938-let-it-ride.json](./392938-let-it-ride.json) |
 | Let It Roll | 222244 | [222244-let-it-roll.json](./222244-let-it-roll.json) |
+| Let Me Book | 323433 | [323433-let-me-book.json](./323433-let-me-book.json) |
 | Let Me Die | 419163 | [419163-let-me-die.json](./419163-let-me-die.json) |
 | Let Me Die inside | 166599 | [166599-let-me-die-inside.json](./166599-let-me-die-inside.json) |
 | Let me go | 120336 | [120336-let-me-go.json](./120336-let-me-go.json) |
