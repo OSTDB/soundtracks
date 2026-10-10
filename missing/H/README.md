@@ -368,6 +368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Half-Life: Residual Life | 196836 | [196836-half-life-residual-life.json](./196836-half-life-residual-life.json) |
 | Half-Life: Residual Point | 196837 | [196837-half-life-residual-point.json](./196837-half-life-residual-point.json) |
 | Half-Life: Retrograde | 350502 | [350502-half-life-retrograde.json](./350502-half-life-retrograde.json) |
+| Half-Life: Savior Complex | 331937 | [331937-half-life-savior-complex.json](./331937-half-life-savior-complex.json) |
 | Half-Life: Science and Industry | 221791 | [221791-half-life-science-and-industry.json](./221791-half-life-science-and-industry.json) |
 | Half-Life: Shift-Two | 247554 | [247554-half-life-shift-two.json](./247554-half-life-shift-two.json) |
 | Half-Life: Soldier | 221803 | [221803-half-life-soldier.json](./221803-half-life-soldier.json) |
@@ -2458,7 +2459,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell Let Loose: Deluxe Edition | 273004 | [273004-hell-let-loose-deluxe-edition.json](./273004-hell-let-loose-deluxe-edition.json) |
 | Hell Let Loose: Devotion to Duty | 252863 | [252863-hell-let-loose-devotion-to-duty.json](./252863-hell-let-loose-devotion-to-duty.json) |
 | Hell Let Loose: Long Range Desert Group | 372250 | [372250-hell-let-loose-long-range-desert-group.json](./372250-hell-let-loose-long-range-desert-group.json) |
+| Hell Let Loose: Operation Lüttich Units | 331899 | [331899-hell-let-loose-operation-luttich-units.json](./331899-hell-let-loose-operation-luttich-units.json) |
 | Hell Let Loose: Operation Overlord Units | 366854 | [366854-hell-let-loose-operation-overlord-units.json](./366854-hell-let-loose-operation-overlord-units.json) |
+| Hell Let Loose: Panzer Lehr | 331900 | [331900-hell-let-loose-panzer-lehr.json](./331900-hell-let-loose-panzer-lehr.json) |
 | Hell Let Loose: Pea Dot | 312017 | [312017-hell-let-loose-pea-dot.json](./312017-hell-let-loose-pea-dot.json) |
 | Hell Let Loose: Polish Parachute Brigade Uniform | 312013 | [312013-hell-let-loose-polish-parachute-brigade-uniform.json](./312013-hell-let-loose-polish-parachute-brigade-uniform.json) |
 | Hell Let Loose: Red Devils | 312015 | [312015-hell-let-loose-red-devils.json](./312015-hell-let-loose-red-devils.json) |
@@ -4982,6 +4985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hitman World of Assassination: 25th Anniversary Edition | 347699 | [347699-hitman-world-of-assassination-25th-anniversary-edition.json](./347699-hitman-world-of-assassination-25th-anniversary-edition.json) |
 | Hitman World of Assassination: Bruce Lee | 370132 | [370132-hitman-world-of-assassination-bruce-lee.json](./370132-hitman-world-of-assassination-bruce-lee.json) |
 | Hitman World of Assassination: Deluxe Edition | 279246 | [279246-hitman-world-of-assassination-deluxe-edition.json](./279246-hitman-world-of-assassination-deluxe-edition.json) |
+| Hitman World of Assassination: Episode - Sapienza | 331904 | [331904-hitman-world-of-assassination-episode-sapienza.json](./331904-hitman-world-of-assassination-episode-sapienza.json) |
 | Hitman World of Assassination: Signature Edition | 338082 | [338082-hitman-world-of-assassination-signature-edition.json](./338082-hitman-world-of-assassination-signature-edition.json) |
 | Hitman World of Assassination: The Undying Pack | 287866 | [287866-hitman-world-of-assassination-the-undying-pack.json](./287866-hitman-world-of-assassination-the-undying-pack.json) |
 | Hitman World of Assassination: The Wizard Pack | 405098 | [405098-hitman-world-of-assassination-the-wizard-pack.json](./405098-hitman-world-of-assassination-the-wizard-pack.json) |
