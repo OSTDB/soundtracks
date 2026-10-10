@@ -3970,6 +3970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Living Legends Remastered: Wrath of the Beast - Collector's Edition | 241421 | [241421-living-legends-remastered-wrath-of-the-beast-collectors-edition.json](./241421-living-legends-remastered-wrath-of-the-beast-collectors-edition.json) |
 | Living Legends: Beasts of Bremen | 188004 | [188004-living-legends-beasts-of-bremen.json](./188004-living-legends-beasts-of-bremen.json) |
 | Living Legends: Bound by Wishes - Collector's Edition | 212207 | [212207-living-legends-bound-by-wishes-collectors-edition.json](./212207-living-legends-bound-by-wishes-collectors-edition.json) |
+| Living Legends: Fallen Sky | 295660 | [295660-living-legends-fallen-sky.json](./295660-living-legends-fallen-sky.json) |
 | Living Legends: Frozen Beauty | 62837 | [62837-living-legends-frozen-beauty.json](./62837-living-legends-frozen-beauty.json) |
 | Living Legends: Frozen Beauty Collector's Edition | 355542 | [355542-living-legends-frozen-beauty-collectors-edition.json](./355542-living-legends-frozen-beauty-collectors-edition.json) |
 | Living Legends: Haunting Melody | 355552 | [355552-living-legends-haunting-melody.json](./355552-living-legends-haunting-melody.json) |
