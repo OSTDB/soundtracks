@@ -1361,6 +1361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paranormasight: The Mermaid's Curse | 388426 | [388426-paranormasight-the-mermaids-curse.json](./388426-paranormasight-the-mermaids-curse.json) |
 | Paranormasight: The Seven Mysteries of Honjo | 236694 | [236694-paranormasight-the-seven-mysteries-of-honjo.json](./236694-paranormasight-the-seven-mysteries-of-honjo.json) |
 | ParaParaParadise 2nd mix | 78946 | [78946-paraparaparadise-2nd-mix.json](./78946-paraparaparadise-2nd-mix.json) |
+| Paraplasm: Beyond the Veil | 295160 | [295160-paraplasm-beyond-the-veil.json](./295160-paraplasm-beyond-the-veil.json) |
 | PaRappa the Rapper | 269666 | [269666-parappa-the-rapper.json](./269666-parappa-the-rapper.json) |
 | PaRappa the Rapper: Stage 5 Music A | 324831 | [324831-parappa-the-rapper-stage-5-music-a.json](./324831-parappa-the-rapper-stage-5-music-a.json) |
 | Pararecords | 325020 | [325020-pararecords.json](./325020-pararecords.json) |
@@ -3844,6 +3845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pie O'Clock! | 190965 | [190965-pie-oclock.json](./190965-pie-oclock.json) |
 | Pie Pie Cafeteria | 392248 | [392248-pie-pie-cafeteria.json](./392248-pie-pie-cafeteria.json) |
 | Piece by Piece | 332452 | [332452-piece-by-piece.json](./332452-piece-by-piece.json) |
+| Piece It! | 295143 | [295143-piece-it.json](./295143-piece-it.json) |
 | Piece Link | 278157 | [278157-piece-link.json](./278157-piece-link.json) |
 | Piece O'Cake | 40785 | [40785-piece-ocake.json](./40785-piece-ocake.json) |
 | Piece of Memory 2: Prologue | 48010 | [48010-piece-of-memory-2-prologue.json](./48010-piece-of-memory-2-prologue.json) |
@@ -5066,8 +5068,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Puzzles 2: Christmas | 112743 | [112743-pixel-puzzles-2-christmas.json](./112743-pixel-puzzles-2-christmas.json) |
 | Pixel Puzzles 3: Ukiyo-e Jigsaws | 312692 | [312692-pixel-puzzles-3-ukiyo-e-jigsaws.json](./312692-pixel-puzzles-3-ukiyo-e-jigsaws.json) |
 | Pixel Puzzles 4k: Japan | 163411 | [163411-pixel-puzzles-4k-japan.json](./163411-pixel-puzzles-4k-japan.json) |
+| Pixel Puzzles Aardman Jigsaws | 295126 | [295126-pixel-puzzles-aardman-jigsaws.json](./295126-pixel-puzzles-aardman-jigsaws.json) |
 | Pixel Puzzles Aardman Jigsaws: Morph | 357945 | [357945-pixel-puzzles-aardman-jigsaws-morph.json](./357945-pixel-puzzles-aardman-jigsaws-morph.json) |
+| Pixel Puzzles Aardman Jigsaws: Shaun The Sheep | 295127 | [295127-pixel-puzzles-aardman-jigsaws-shaun-the-sheep.json](./295127-pixel-puzzles-aardman-jigsaws-shaun-the-sheep.json) |
+| Pixel Puzzles Aardman Jigsaws: The Farmers Llamas | 295128 | [295128-pixel-puzzles-aardman-jigsaws-the-farmers-llamas.json](./295128-pixel-puzzles-aardman-jigsaws-the-farmers-llamas.json) |
+| Pixel Puzzles Aardman Jigsaws: Variety Pack 1 | 295129 | [295129-pixel-puzzles-aardman-jigsaws-variety-pack-1.json](./295129-pixel-puzzles-aardman-jigsaws-variety-pack-1.json) |
 | Pixel Puzzles Aardman Jigsaws: Variety Pack 2 | 357946 | [357946-pixel-puzzles-aardman-jigsaws-variety-pack-2.json](./357946-pixel-puzzles-aardman-jigsaws-variety-pack-2.json) |
+| Pixel Puzzles Aardman Jigsaws: Wallace & Gromit - A Matter Of Loaf And Death | 295130 | [295130-pixel-puzzles-aardman-jigsaws-wallace-and-gromit-a-matter-of-loaf-and-death.json](./295130-pixel-puzzles-aardman-jigsaws-wallace-and-gromit-a-matter-of-loaf-and-death.json) |
+| Pixel Puzzles Aardman Jigsaws: Wallace & Gromit - Vacation | 295131 | [295131-pixel-puzzles-aardman-jigsaws-wallace-and-gromit-vacation.json](./295131-pixel-puzzles-aardman-jigsaws-wallace-and-gromit-vacation.json) |
 | Pixel Puzzles Christmas Jigsaws | 389397 | [389397-pixel-puzzles-christmas-jigsaws.json](./389397-pixel-puzzles-christmas-jigsaws.json) |
 | Pixel Puzzles Fantasy Jigsaws | 389396 | [389396-pixel-puzzles-fantasy-jigsaws.json](./389396-pixel-puzzles-fantasy-jigsaws.json) |
 | Pixel Puzzles Japan Jigsaws | 389414 | [389414-pixel-puzzles-japan-jigsaws.json](./389414-pixel-puzzles-japan-jigsaws.json) |
@@ -8602,6 +8610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Presidential Rise | 348293 | [348293-presidential-rise.json](./348293-presidential-rise.json) |
 | Presidential Running Games | 292689 | [292689-presidential-running-games.json](./292689-presidential-running-games.json) |
 | Presidential Social Media Manager | 359345 | [359345-presidential-social-media-manager.json](./359345-presidential-social-media-manager.json) |
+| Presidents Tower Defense | 295158 | [295158-presidents-tower-defense.json](./295158-presidents-tower-defense.json) |
 | PreSim | 88242 | [88242-presim.json](./88242-presim.json) |
 | Press a Button Simulator | 369920 | [369920-press-a-button-simulator.json](./369920-press-a-button-simulator.json) |
 | Press Any Button | 143596 | [143596-press-any-button.json](./143596-press-any-button.json) |
@@ -8771,6 +8780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Primitive Survival | 105361 | [105361-primitive-survival.json](./105361-primitive-survival.json) |
 | Primitive Wars | 27591 | [27591-primitive-wars.json](./27591-primitive-wars.json) |
 | Primland Tale | 345608 | [345608-primland-tale.json](./345608-primland-tale.json) |
+| Primland The Magus | 295138 | [295138-primland-the-magus.json](./295138-primland-the-magus.json) |
 | Primo | 271724 | [271724-primo.json](./271724-primo.json) |
 | Primo Richards: Case 1 | 302150 | [302150-primo-richards-case-1.json](./302150-primo-richards-case-1.json) |
 | Primordial | 158671 | [158671-primordial.json](./158671-primordial.json) |
