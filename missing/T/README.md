@@ -4106,6 +4106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Blackwell Deception | 9037 | [9037-the-blackwell-deception.json](./9037-the-blackwell-deception.json) |
 | The Blackwell Legacy | 9043 | [9043-the-blackwell-legacy.json](./9043-the-blackwell-legacy.json) |
 | The Blackwood Legacy | 320434 | [320434-the-blackwood-legacy.json](./320434-the-blackwood-legacy.json) |
+| The Blades of Ashina | 317519 | [317519-the-blades-of-ashina.json](./317519-the-blades-of-ashina.json) |
 | The Blaggers | 57081 | [57081-the-blaggers.json](./57081-the-blaggers.json) |
 | The Blair Witch Experience | 73541 | [73541-the-blair-witch-experience.json](./73541-the-blair-witch-experience.json) |
 | The Bleakest Keep | 344344 | [344344-the-bleakest-keep.json](./344344-the-bleakest-keep.json) |
@@ -6971,6 +6972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Jianghu | 216790 | [216790-the-jianghu.json](./216790-the-jianghu.json) |
 | The Jig Is Up! | 215152 | [215152-the-jig-is-up.json](./215152-the-jig-is-up.json) |
 | The Jigsaw Puzzle Room | 30168 | [30168-the-jigsaw-puzzle-room.json](./30168-the-jigsaw-puzzle-room.json) |
+| The Jimi Hendrix Case | 317508 | [317508-the-jimi-hendrix-case.json](./317508-the-jimi-hendrix-case.json) |
 | The Jingol | 306972 | [306972-the-jingol.json](./306972-the-jingol.json) |
 | The Johnny Papa | 265124 | [265124-the-johnny-papa.json](./265124-the-johnny-papa.json) |
 | The Joker's Game | 347809 | [347809-the-jokers-game.json](./347809-the-jokers-game.json) |
@@ -7260,6 +7262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ladle Fly | 179723 | [179723-the-ladle-fly.json](./179723-the-ladle-fly.json) |
 | The Lady | 35989 | [35989-the-lady.json](./35989-the-lady.json) |
 | The Lady Puppet | 148385 | [148385-the-lady-puppet.json](./148385-the-lady-puppet.json) |
+| The Lady, The Mage, & The Knight | 317560 | [317560-the-lady-the-mage-and-the-knight.json](./317560-the-lady-the-mage-and-the-knight.json) |
 | The Lair of DOOMestic Animals | 271487 | [271487-the-lair-of-doomestic-animals.json](./271487-the-lair-of-doomestic-animals.json) |
 | The Lair of Nekro Neko | 307695 | [307695-the-lair-of-nekro-neko.json](./307695-the-lair-of-nekro-neko.json) |
 | The Lake House: Children of Silence | 54299 | [54299-the-lake-house-children-of-silence.json](./54299-the-lake-house-children-of-silence.json) |
@@ -15657,6 +15660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toon Blast | 56586 | [56586-toon-blast.json](./56586-toon-blast.json) |
 | Toon Breakout 3D | 328444 | [328444-toon-breakout-3d.json](./328444-toon-breakout-3d.json) |
 | Toon Car: The Great Race | 206758 | [206758-toon-car-the-great-race.json](./206758-toon-car-the-great-race.json) |
+| Toon Cup 2016 | 317547 | [317547-toon-cup-2016.json](./317547-toon-cup-2016.json) |
 | Toon Cup 2018 - Football Game | 112135 | [112135-toon-cup-2018-football-game.json](./112135-toon-cup-2018-football-game.json) |
 | Toon Off | 112245 | [112245-toon-off.json](./112245-toon-off.json) |
 | Toon Panic | 136860 | [136860-toon-panic.json](./136860-toon-panic.json) |
@@ -19700,6 +19704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turbo 84 | 239344 | [239344-turbo-84.json](./239344-turbo-84.json) |
 | Turbo Balls | 347208 | [347208-turbo-balls.json](./347208-turbo-balls.json) |
 | Turbo Boom! | 129625 | [129625-turbo-boom.json](./129625-turbo-boom.json) |
+| Turbo Boost Racing | 317554 | [317554-turbo-boost-racing.json](./317554-turbo-boost-racing.json) |
 | Turbo Booster | 265653 | [265653-turbo-booster.json](./265653-turbo-booster.json) |
 | Turbo Bugs 2 | 416171 | [416171-turbo-bugs-2.json](./416171-turbo-bugs-2.json) |
 | Turbo Bullets | 311822 | [311822-turbo-bullets.json](./311822-turbo-bullets.json) |
