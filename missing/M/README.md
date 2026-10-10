@@ -2670,6 +2670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mars Saga | 70980 | [70980-mars-saga.json](./70980-mars-saga.json) |
 | Mars Survivor: Blue Blaster | 324456 | [324456-mars-survivor-blue-blaster.json](./324456-mars-survivor-blue-blaster.json) |
 | Mars Survivor: Complete Edition | 324372 | [324372-mars-survivor-complete-edition.json](./324372-mars-survivor-complete-edition.json) |
+| Mars Survivor: Explosive Edition | 330201 | [330201-mars-survivor-explosive-edition.json](./330201-mars-survivor-explosive-edition.json) |
 | Mars Survivor: Gold Edition | 385204 | [385204-mars-survivor-gold-edition.json](./385204-mars-survivor-gold-edition.json) |
 | Mars Survivor: Green Gun | 324457 | [324457-mars-survivor-green-gun.json](./324457-mars-survivor-green-gun.json) |
 | Mars Survivor: Red Rifle | 324458 | [324458-mars-survivor-red-rifle.json](./324458-mars-survivor-red-rifle.json) |
@@ -3498,6 +3499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Math Missions | 84446 | [84446-math-missions.json](./84446-math-missions.json) |
 | Math Missions: The Amazing Arcade Adventure Grades 3-5 | 209545 | [209545-math-missions-the-amazing-arcade-adventure-grades-3-5.json](./209545-math-missions-the-amazing-arcade-adventure-grades-3-5.json) |
 | Math Missions: The Race to Spectacle City Arcade K-2 | 209544 | [209544-math-missions-the-race-to-spectacle-city-arcade-k-2.json](./209544-math-missions-the-race-to-spectacle-city-arcade-k-2.json) |
+| Math Muncher | 330211 | [330211-math-muncher.json](./330211-math-muncher.json) |
 | Math Munchers Deluxe | 57659 | [57659-math-munchers-deluxe.json](./57659-math-munchers-deluxe.json) |
 | Math Pals: Monster Mania | 420695 | [420695-math-pals-monster-mania.json](./420695-math-pals-monster-mania.json) |
 | Math Parkour | 241513 | [241513-math-parkour.json](./241513-math-parkour.json) |
@@ -4106,6 +4108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mechafare | 393125 | [393125-mechafare.json](./393125-mechafare.json) |
 | Mechajammer | 152269 | [152269-mechajammer.json](./152269-mechajammer.json) |
 | MechaJourney | 369167 | [369167-mechajourney.json](./369167-mechajourney.json) |
+| Mechaknights Legends | 330107 | [330107-mechaknights-legends.json](./330107-mechaknights-legends.json) |
 | Mechamice | 377276 | [377276-mechamice.json](./377276-mechamice.json) |
 | Mechaneer Resta's Grand Adventure | 236785 | [236785-mechaneer-restas-grand-adventure.json](./236785-mechaneer-restas-grand-adventure.json) |
 | Mechanic 8230 | 151107 | [151107-mechanic-8230.json](./151107-mechanic-8230.json) |
@@ -4821,6 +4824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega R-Type | 276776 | [276776-mega-r-type.json](./276776-mega-r-type.json) |
 | Mega Ramp Moto: Dirt Bike Stunts Simulator | 257883 | [257883-mega-ramp-moto-dirt-bike-stunts-simulator.json](./257883-mega-ramp-moto-dirt-bike-stunts-simulator.json) |
 | Mega Roids | 418527 | [418527-mega-roids.json](./418527-mega-roids.json) |
+| Mega Screen Solitaire | 330210 | [330210-mega-screen-solitaire.json](./330210-mega-screen-solitaire.json) |
 | Mega Serval | 224750 | [224750-mega-serval.json](./224750-mega-serval.json) |
 | Mega Solitaire | 209528 | [209528-mega-solitaire.json](./209528-mega-solitaire.json) |
 | Mega Sports | 94333 | [94333-mega-sports.json](./94333-mega-sports.json) |
@@ -5955,6 +5959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Sonic in Sonic the Hedgehog | 198525 | [198525-metal-sonic-in-sonic-the-hedgehog.json](./198525-metal-sonic-in-sonic-the-hedgehog.json) |
 | Metal Sonic in Sonic the Hedgehog 2 | 129186 | [129186-metal-sonic-in-sonic-the-hedgehog-2.json](./129186-metal-sonic-in-sonic-the-hedgehog-2.json) |
 | Metal Sonic Quest | 337571 | [337571-metal-sonic-quest.json](./337571-metal-sonic-quest.json) |
+| Metal Sonic Quest 2: Return and Revenge | 330119 | [330119-metal-sonic-quest-2-return-and-revenge.json](./330119-metal-sonic-quest-2-return-and-revenge.json) |
 | Metal Sonic Rebooted | 129168 | [129168-metal-sonic-rebooted.json](./129168-metal-sonic-rebooted.json) |
 | Metal Storm | 48170 | [48170-metal-storm.json](./48170-metal-storm.json) |
 | Metal Suits: Counter-Attack | 217505 | [217505-metal-suits-counter-attack.json](./217505-metal-suits-counter-attack.json) |
@@ -10707,6 +10712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moto Rush GT: Mega Edition | 324373 | [324373-moto-rush-gt-mega-edition.json](./324373-moto-rush-gt-mega-edition.json) |
 | Moto Rush GT: NY Edition | 277895 | [277895-moto-rush-gt-ny-edition.json](./277895-moto-rush-gt-ny-edition.json) |
 | Moto Rush GT: Platinium Edition | 275048 | [275048-moto-rush-gt-platinium-edition.json](./275048-moto-rush-gt-platinium-edition.json) |
+| Moto Rush GT: Power Edition | 330202 | [330202-moto-rush-gt-power-edition.json](./330202-moto-rush-gt-power-edition.json) |
 | Moto Rush GT: Prime Edition | 271503 | [271503-moto-rush-gt-prime-edition.json](./271503-moto-rush-gt-prime-edition.json) |
 | Moto Rush GT: Silver Edition | 254688 | [254688-moto-rush-gt-silver-edition.json](./254688-moto-rush-gt-silver-edition.json) |
 | Moto Rush GT: Ultra Edition | 332512 | [332512-moto-rush-gt-ultra-edition.json](./332512-moto-rush-gt-ultra-edition.json) |
