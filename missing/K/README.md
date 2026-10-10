@@ -795,6 +795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaves of Karkhan | 24845 | [24845-kaves-of-karkhan.json](./24845-kaves-of-karkhan.json) |
 | KaveXplorer | 157179 | [157179-kavexplorer.json](./157179-kavexplorer.json) |
 | Kavinsky | 60770 | [60770-kavinsky.json](./60770-kavinsky.json) |
+| Kawã na Terra dos Indígenas Maraguá | 283099 | [283099-kawa-na-terra-dos-indigenas-maragua.json](./283099-kawa-na-terra-dos-indigenas-maragua.json) |
 | Kawaii Anime: Cute Boys Magic World | 409535 | [409535-kawaii-anime-cute-boys-magic-world.json](./409535-kawaii-anime-cute-boys-magic-world.json) |
 | Kawaii Anime: Cute Girls Magic World | 409685 | [409685-kawaii-anime-cute-girls-magic-world.json](./409685-kawaii-anime-cute-girls-magic-world.json) |
 | Kawaii Ano Ko ha Yousha toka Zenzen Shinai: Jiai no Youkou-hen | 376681 | [376681-kawaii-ano-ko-ha-yousha-toka-zenzen-shinai-jiai-no-youkou-hen.json](./376681-kawaii-ano-ko-ha-yousha-toka-zenzen-shinai-jiai-no-youkou-hen.json) |
