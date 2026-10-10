@@ -3630,6 +3630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ReThink | 29260 | [29260-rethink.json](./29260-rethink.json) |
 | ReThink \| Evolved 4 | 132592 | [132592-rethink-evolved-4.json](./132592-rethink-evolved-4.json) |
 | ReThink \| Evolved 5 | 244849 | [244849-rethink-evolved-5.json](./244849-rethink-evolved-5.json) |
+| ReThink 3.5 | 289802 | [289802-rethink-3-5.json](./289802-rethink-3-5.json) |
 | ReThink 4 | 148457 | [148457-rethink-4.json](./148457-rethink-4.json) |
 | Reticle Star | 210097 | [210097-reticle-star.json](./210097-reticle-star.json) |
 | Retimed | 76921 | [76921-retimed.json](./76921-retimed.json) |
@@ -4020,6 +4021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reversi 32 | 197920 | [197920-reversi-32.json](./197920-reversi-32.json) |
 | Reversi also known as Othello | 54948 | [54948-reversi-also-known-as-othello.json](./54948-reversi-also-known-as-othello.json) |
 | Reversi Let's Go | 150264 | [150264-reversi-lets-go.json](./150264-reversi-lets-go.json) |
+| Reversi Temple | 289784 | [289784-reversi-temple.json](./289784-reversi-temple.json) |
 | Reversi X | 106360 | [106360-reversi-x.json](./106360-reversi-x.json) |
 | Reversi xVSx | 295564 | [295564-reversi-xvsx.json](./295564-reversi-xvsx.json) |
 | ReversiBot | 266477 | [266477-reversibot.json](./266477-reversibot.json) |
