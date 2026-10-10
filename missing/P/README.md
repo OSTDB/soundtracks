@@ -2019,6 +2019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pawn Shop Simulator | 208605 | [208605-pawn-shop-simulator.json](./208605-pawn-shop-simulator.json) |
 | Pawn Shop Simulator | 297178 | [297178-pawn-shop-simulator.json](./297178-pawn-shop-simulator.json) |
 | Pawn Shop: Simulator | 347209 | [347209-pawn-shop-simulator.json](./347209-pawn-shop-simulator.json) |
+| Pawn Simulator | 292983 | [292983-pawn-simulator.json](./292983-pawn-simulator.json) |
 | Pawn Stars: The Game | 62015 | [62015-pawn-stars-the-game.json](./62015-pawn-stars-the-game.json) |
 | Pawn Tactics | 26487 | [26487-pawn-tactics.json](./26487-pawn-tactics.json) |
 | Pawn.OS() | 360647 | [360647-pawn-os.json](./360647-pawn-os.json) |
@@ -2443,6 +2444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pen Pals | 145020 | [145020-pen-pals.json](./145020-pen-pals.json) |
 | Pen to Paper | 312299 | [312299-pen-to-paper.json](./312299-pen-to-paper.json) |
 | Pen-chan | 385718 | [385718-pen-chan.json](./385718-pen-chan.json) |
+| Penalty | 292982 | [292982-penalty.json](./292982-penalty.json) |
 | Penalty | 312265 | [312265-penalty.json](./312265-penalty.json) |
 | Penalty Challenge | 311227 | [311227-penalty-challenge.json](./311227-penalty-challenge.json) |
 | Penalty Shooters Footy | 241061 | [241061-penalty-shooters-footy.json](./241061-penalty-shooters-footy.json) |
@@ -2913,6 +2915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Persona5: The Phantom X | 242315 | [242315-persona5-the-phantom-x.json](./242315-persona5-the-phantom-x.json) |
 | Personal Arcade Volume One | 79947 | [79947-personal-arcade-volume-one.json](./79947-personal-arcade-volume-one.json) |
 | Personal Chef to the Stars | 218707 | [218707-personal-chef-to-the-stars.json](./218707-personal-chef-to-the-stars.json) |
+| Personal Finance Simulator | 292977 | [292977-personal-finance-simulator.json](./292977-personal-finance-simulator.json) |
 | Personal Nightmare | 12194 | [12194-personal-nightmare.json](./12194-personal-nightmare.json) |
 | Personal Organizer and Phone Book | 93538 | [93538-personal-organizer-and-phone-book.json](./93538-personal-organizer-and-phone-book.json) |
 | Personal Space | 221835 | [221835-personal-space.json](./221835-personal-space.json) |
@@ -3936,6 +3939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Piggy: Chapter 1 | 246093 | [246093-piggy-chapter-1.json](./246093-piggy-chapter-1.json) |
 | Piggy: Hunt | 170361 | [170361-piggy-hunt.json](./170361-piggy-hunt.json) |
 | Piggy's Farm | 401723 | [401723-piggys-farm.json](./401723-piggys-farm.json) |
+| Piggy's Great Adventure | 292986 | [292986-piggys-great-adventure.json](./292986-piggys-great-adventure.json) |
 | Pight | 275839 | [275839-pight.json](./275839-pight.json) |
 | Pigillionaire | 327256 | [327256-pigillionaire.json](./327256-pigillionaire.json) |
 | Pigkour | 416682 | [416682-pigkour.json](./416682-pigkour.json) |
@@ -5748,6 +5752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PlanetFriend | 133879 | [133879-planetfriend.json](./133879-planetfriend.json) |
 | Planetgore | 255139 | [255139-planetgore.json](./255139-planetgore.json) |
 | Planetiny | 351168 | [351168-planetiny.json](./351168-planetiny.json) |
+| Planetka | 292972 | [292972-planetka.json](./292972-planetka.json) |
 | Planetkillerz: Death of a world in five acts. | 188429 | [188429-planetkillerz-death-of-a-world-in-five-acts.json](./188429-planetkillerz-death-of-a-world-in-five-acts.json) |
 | Planetoid | 13747 | [13747-planetoid.json](./13747-planetoid.json) |
 | Planetoid | 330907 | [330907-planetoid.json](./330907-planetoid.json) |
@@ -6387,6 +6392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Pro Wrestling: Perfect Wrestler | 50036 | [50036-pocket-pro-wrestling-perfect-wrestler.json](./50036-pocket-pro-wrestling-perfect-wrestler.json) |
 | Pocket Pro Yakyuu | 270080 | [270080-pocket-pro-yakyuu.json](./270080-pocket-pro-yakyuu.json) |
 | Pocket Pursuit | 113200 | [113200-pocket-pursuit.json](./113200-pocket-pursuit.json) |
+| Pocket Pusher | 293003 | [293003-pocket-pusher.json](./293003-pocket-pusher.json) |
 | Pocket Pusher: The Citadel | 316387 | [316387-pocket-pusher-the-citadel.json](./316387-pocket-pusher-the-citadel.json) |
 | Pocket Pusher: The Warehouse | 298273 | [298273-pocket-pusher-the-warehouse.json](./298273-pocket-pusher-the-warehouse.json) |
 | Pocket Puyo Puyo Tsuu | 87198 | [87198-pocket-puyo-puyo-tsuu.json](./87198-pocket-puyo-puyo-tsuu.json) |
@@ -7336,6 +7342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polka Sheep | 305335 | [305335-polka-sheep.json](./305335-polka-sheep.json) |
 | Polku! | 366380 | [366380-polku.json](./366380-polku.json) |
 | Pollen | 311239 | [311239-pollen.json](./311239-pollen.json) |
+| Pollie | 292970 | [292970-pollie.json](./292970-pollie.json) |
 | Pollinate or Die | 381615 | [381615-pollinate-or-die.json](./381615-pollinate-or-die.json) |
 | Pollucean | 347792 | [347792-pollucean.json](./347792-pollucean.json) |
 | Pollute & Conquer | 161221 | [161221-pollute-and-conquer.json](./161221-pollute-and-conquer.json) |
@@ -8720,6 +8727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Priest's Artifice: Raguna Series 2 | 98437 | [98437-priests-artifice-raguna-series-2.json](./98437-priests-artifice-raguna-series-2.json) |
 | Prim Rogue | 93803 | [93803-prim-rogue.json](./93803-prim-rogue.json) |
 | Prima: First Rogues | 291233 | [291233-prima-first-rogues.json](./291233-prima-first-rogues.json) |
+| Primage | 292969 | [292969-primage.json](./292969-primage.json) |
 | Primal | 11789 | [11789-primal.json](./11789-primal.json) |
 | Primal Carnage: Evolution | 259812 | [259812-primal-carnage-evolution.json](./259812-primal-carnage-evolution.json) |
 | Primal Carnage: Extinction | 17804 | [17804-primal-carnage-extinction.json](./17804-primal-carnage-extinction.json) |
@@ -9534,6 +9542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Confrontation | 57051 | [57051-project-confrontation.json](./57051-project-confrontation.json) |
 | Project Coreward | 275721 | [275721-project-coreward.json](./275721-project-coreward.json) |
 | Project Corner | 407549 | [407549-project-corner.json](./407549-project-corner.json) |
+| Project Cottontails | 292968 | [292968-project-cottontails.json](./292968-project-cottontails.json) |
 | Project Court 2050 | 190978 | [190978-project-court-2050.json](./190978-project-court-2050.json) |
 | Project Cradle | 286081 | [286081-project-cradle.json](./286081-project-cradle.json) |
 | Project Crimson | 166735 | [166735-project-crimson.json](./166735-project-crimson.json) |
@@ -9553,6 +9562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Demigod | 153945 | [153945-project-demigod.json](./153945-project-demigod.json) |
 | Project Diablo 2 | 285285 | [285285-project-diablo-2.json](./285285-project-diablo-2.json) |
 | Project Discovery: Daidai Daisuki! | 59409 | [59409-project-discovery-daidai-daisuki.json](./59409-project-discovery-daidai-daisuki.json) |
+| Project Down | 292992 | [292992-project-down.json](./292992-project-down.json) |
 | Project Downfall | 113813 | [113813-project-downfall.json](./113813-project-downfall.json) |
 | Project Dream 64 | 315029 | [315029-project-dream-64.json](./315029-project-dream-64.json) |
 | Project Dreamscape | 367272 | [367272-project-dreamscape.json](./367272-project-dreamscape.json) |
