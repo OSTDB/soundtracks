@@ -1185,6 +1185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WarPods | 107865 | [107865-warpods.json](./107865-warpods.json) |
 | Warpside | 108274 | [108274-warpside.json](./108274-warpside.json) |
 | Warpsquad | 216844 | [216844-warpsquad.json](./216844-warpsquad.json) |
+| Warptank | 318726 | [318726-warptank.json](./318726-warptank.json) |
 | WarpVector | 215665 | [215665-warpvector.json](./215665-warpvector.json) |
 | Warpzone Drifter | 111853 | [111853-warpzone-drifter.json](./111853-warpzone-drifter.json) |
 | WarpZone vs. The Dimension | 122148 | [122148-warpzone-vs-the-dimension.json](./122148-warpzone-vs-the-dimension.json) |
@@ -3128,6 +3129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wiki Hunt | 86062 | [86062-wiki-hunt.json](./86062-wiki-hunt.json) |
 | Wiki's Wild Ride | 261759 | [261759-wikis-wild-ride.json](./261759-wikis-wild-ride.json) |
 | WikiAsteroids | 386928 | [386928-wikiasteroids.json](./386928-wikiasteroids.json) |
+| WikiGame | 318710 | [318710-wikigame.json](./318710-wikigame.json) |
 | WikiParty.org | 233584 | [233584-wikiparty-org.json](./233584-wikiparty-org.json) |
 | Wikipedia Gacha | 394176 | [394176-wikipedia-gacha.json](./394176-wikipedia-gacha.json) |
 | Wikitrivia | 212691 | [212691-wikitrivia.json](./212691-wikitrivia.json) |
