@@ -1782,6 +1782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Joy Pony | 54456 | [54456-joy-pony.json](./54456-joy-pony.json) |
 | Joy Striker | 360705 | [360705-joy-striker.json](./360705-joy-striker.json) |
 | Joy the Pug | 144187 | [144187-joy-the-pug.json](./144187-joy-the-pug.json) |
+| Joycoin | 323412 | [323412-joycoin.json](./323412-joycoin.json) |
 | Joydoor | 108061 | [108061-joydoor.json](./108061-joydoor.json) |
 | Joyfess: Martin's Secret Recipe | 126521 | [126521-joyfess-martins-secret-recipe.json](./126521-joyfess-martins-secret-recipe.json) |
 | Joyful Masks | 373160 | [373160-joyful-masks.json](./373160-joyful-masks.json) |
@@ -2046,6 +2047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jump: The David Bowie Interactive CD-ROM | 323913 | [323913-jump-the-david-bowie-interactive-cd-rom.json](./323913-jump-the-david-bowie-interactive-cd-rom.json) |
 | Jump! Jump! Jump! | 80896 | [80896-jump-jump-jump.json](./80896-jump-jump-jump.json) |
 | Jump! Mr. Abe | 330212 | [330212-jump-mr-abe.json](./330212-jump-mr-abe.json) |
+| Jump! The Floor Is... | 323439 | [323439-jump-the-floor-is.json](./323439-jump-the-floor-is.json) |
 | Jump'n Bounce | 78970 | [78970-jumpn-bounce.json](./78970-jumpn-bounce.json) |
 | Jump'n'Brawl | 221123 | [221123-jumpnbrawl.json](./221123-jumpnbrawl.json) |
 | Jump/Die/Live | 166727 | [166727-jump-die-live.json](./166727-jump-die-live.json) |
