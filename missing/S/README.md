@@ -677,6 +677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Salto | 149579 | [149579-salto.json](./149579-salto.json) |
 | Salto Mortadella | 297212 | [297212-salto-mortadella.json](./297212-salto-mortadella.json) |
 | Salto Z | 411097 | [411097-salto-z.json](./411097-salto-z.json) |
+| Saltwater | 299583 | [299583-saltwater.json](./299583-saltwater.json) |
 | Saltwater | 384517 | [384517-saltwater.json](./384517-saltwater.json) |
 | Saltwater Bodies | 325645 | [325645-saltwater-bodies.json](./325645-saltwater-bodies.json) |
 | Saltwater Shells | 250642 | [250642-saltwater-shells.json](./250642-saltwater-shells.json) |
@@ -16655,6 +16656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stimuli | 133226 | [133226-stimuli.json](./133226-stimuli.json) |
 | Sting | 230541 | [230541-sting.json](./230541-sting.json) |
 | Sting & Swing | 398983 | [398983-sting-and-swing.json](./398983-sting-and-swing.json) |
+| Stingray | 299545 | [299545-stingray.json](./299545-stingray.json) |
 | Stink Bug Plague | 133304 | [133304-stink-bug-plague.json](./133304-stink-bug-plague.json) |
 | Stinker Golf | 406107 | [406107-stinker-golf.json](./406107-stinker-golf.json) |
 | Stinkoman 20X6 | 124605 | [124605-stinkoman-20x6.json](./124605-stinkoman-20x6.json) |
@@ -18425,6 +18427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summer Games | 281679 | [281679-summer-games.json](./281679-summer-games.json) |
 | Summer Games | 281682 | [281682-summer-games.json](./281682-summer-games.json) |
 | Summer Games 3D | 88164 | [88164-summer-games-3d.json](./88164-summer-games-3d.json) |
+| Summer Games Challenge | 299528 | [299528-summer-games-challenge.json](./299528-summer-games-challenge.json) |
 | Summer Games Challenge: Jumping & Shooting | 362362 | [362362-summer-games-challenge-jumping-and-shooting.json](./362362-summer-games-challenge-jumping-and-shooting.json) |
 | Summer Games Challenge: Running | 362345 | [362345-summer-games-challenge-running.json](./362345-summer-games-challenge-running.json) |
 | Summer Games Challenge: Swimming | 362346 | [362346-summer-games-challenge-swimming.json](./362346-summer-games-challenge-swimming.json) |
@@ -20505,6 +20508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Sucker: Silly DLC | 351242 | [351242-super-sucker-silly-dlc.json](./351242-super-sucker-silly-dlc.json) |
 | Super Sucker: Smart DLC | 351241 | [351241-super-sucker-smart-dlc.json](./351241-super-sucker-smart-dlc.json) |
 | Super Sudoku | 195526 | [195526-super-sudoku.json](./195526-super-sudoku.json) |
+| Super Sunburnt Siesta Snoozer | 299566 | [299566-super-sunburnt-siesta-snoozer.json](./299566-super-sunburnt-siesta-snoozer.json) |
 | Super Sunny World | 324695 | [324695-super-sunny-world.json](./324695-super-sunny-world.json) |
 | Super Super Fun World | 276937 | [276937-super-super-fun-world.json](./276937-super-super-fun-world.json) |
 | Super Super Super Super | 176331 | [176331-super-super-super-super.json](./176331-super-super-super-super.json) |
@@ -20812,6 +20816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supermurgitroid | 270884 | [270884-supermurgitroid.json](./270884-supermurgitroid.json) |
 | Supernatural | 135124 | [135124-supernatural.json](./135124-supernatural.json) |
 | Supernatural | 303936 | [303936-supernatural.json](./303936-supernatural.json) |
+| Supernatural Investigations | 299531 | [299531-supernatural-investigations.json](./299531-supernatural-investigations.json) |
 | Supernatural Rules Suppress Ghosts | 307777 | [307777-supernatural-rules-suppress-ghosts.json](./307777-supernatural-rules-suppress-ghosts.json) |
 | Supernatural Squad | 333395 | [333395-supernatural-squad.json](./333395-supernatural-squad.json) |
 | Supernatural Story | 129714 | [129714-supernatural-story.json](./129714-supernatural-story.json) |
@@ -20829,6 +20834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Superpantsu Harematchii | 151607 | [151607-superpantsu-harematchii.json](./151607-superpantsu-harematchii.json) |
 | Superpersons University | 277362 | [277362-superpersons-university.json](./277362-superpersons-university.json) |
 | Superpix | 311702 | [311702-superpix.json](./311702-superpix.json) |
+| Superpoke! Pets | 299538 | [299538-superpoke-pets.json](./299538-superpoke-pets.json) |
 | Superpopular | 127308 | [127308-superpopular.json](./127308-superpopular.json) |
 | SuperPower | 23466 | [23466-superpower.json](./23466-superpower.json) |
 | SuperPower 2: Steam Edition | 90586 | [90586-superpower-2-steam-edition.json](./90586-superpower-2-steam-edition.json) |
