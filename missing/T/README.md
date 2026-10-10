@@ -479,6 +479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taima Miko Yuugi | 68673 | [68673-taima-miko-yuugi.json](./68673-taima-miko-yuugi.json) |
 | Taima Toushin Hachikuma Tok | 245929 | [245929-taima-toushin-hachikuma-tok.json](./245929-taima-toushin-hachikuma-tok.json) |
 | Taimanin Asagi | 259866 | [259866-taimanin-asagi.json](./259866-taimanin-asagi.json) |
+| Taimanin Collection: Battle Arena | 301616 | [301616-taimanin-collection-battle-arena.json](./301616-taimanin-collection-battle-arena.json) |
 | Taimanin RPG Extasy | 272920 | [272920-taimanin-rpg-extasy.json](./272920-taimanin-rpg-extasy.json) |
 | Taimanin Squad | 382371 | [382371-taimanin-squad.json](./382371-taimanin-squad.json) |
 | Taimanin Yukikaze | 292222 | [292222-taimanin-yukikaze.json](./292222-taimanin-yukikaze.json) |
@@ -1457,6 +1458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tao Taido | 39585 | [39585-tao-taido.json](./39585-tao-taido.json) |
 | Tao Yuan Shen Chu You Ren Jia | 283374 | [283374-tao-yuan-shen-chu-you-ren-jia.json](./283374-tao-yuan-shen-chu-you-ren-jia.json) |
 | Tao's Adventure: Curse of the Demon Seal | 20495 | [20495-taos-adventure-curse-of-the-demon-seal.json](./20495-taos-adventure-curse-of-the-demon-seal.json) |
+| Taoist Down the Hill | 301621 | [301621-taoist-down-the-hill.json](./301621-taoist-down-the-hill.json) |
 | Taoist Priest Yan | 189028 | [189028-taoist-priest-yan.json](./189028-taoist-priest-yan.json) |
 | Táolí Dìqiú | 158203 | [158203-taoli-diqiu.json](./158203-taoli-diqiu.json) |
 | Taolu | 209944 | [209944-taolu.json](./209944-taolu.json) |
@@ -5085,6 +5087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Deadly Dungeons of Baron Backslash | 181697 | [181697-the-deadly-dungeons-of-baron-backslash.json](./181697-the-deadly-dungeons-of-baron-backslash.json) |
 | The Deadseat | 343226 | [343226-the-deadseat.json](./343226-the-deadseat.json) |
 | The Deal | 30118 | [30118-the-deal.json](./30118-the-deal.json) |
+| The Dearest Person | 301630 | [301630-the-dearest-person.json](./301630-the-dearest-person.json) |
 | The Death and Return of Superman | 453 | [453-the-death-and-return-of-superman.json](./453-the-death-and-return-of-superman.json) |
 | The Death and the Vampire | 409818 | [409818-the-death-and-the-vampire.json](./409818-the-death-and-the-vampire.json) |
 | The Death Forest | 348446 | [348446-the-death-forest.json](./348446-the-death-forest.json) |
