@@ -2360,6 +2360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kisekimura | 149547 | [149547-kisekimura.json](./149547-kisekimura.json) |
 | Kisekimura: ZumiIwa | 202641 | [202641-kisekimura-zumiiwa.json](./202641-kisekimura-zumiiwa.json) |
 | Kisen: Seeker of Aenjan City | 390129 | [390129-kisen-seeker-of-aenjan-city.json](./390129-kisen-seeker-of-aenjan-city.json) |
+| Kisetsu | 308865 | [308865-kisetsu.json](./308865-kisetsu.json) |
 | Kishi Fujii Souta no Shogi Training | 136830 | [136830-kishi-fujii-souta-no-shogi-training.json](./136830-kishi-fujii-souta-no-shogi-training.json) |
 | Kishin Douji Zenki FX: Vajra Fight | 45957 | [45957-kishin-douji-zenki-fx-vajra-fight.json](./45957-kishin-douji-zenki-fx-vajra-fight.json) |
 | Kishin Douji Zenki: Battle Raiden | 67613 | [67613-kishin-douji-zenki-battle-raiden.json](./67613-kishin-douji-zenki-battle-raiden.json) |
