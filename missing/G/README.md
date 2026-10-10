@@ -1245,6 +1245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gas See who likes you | 223942 | [223942-gas-see-who-likes-you.json](./223942-gas-see-who-likes-you.json) |
 | Gas Station 2: Highway Service | 86944 | [86944-gas-station-2-highway-service.json](./86944-gas-station-2-highway-service.json) |
 | Gas Station Inc. | 255753 | [255753-gas-station-inc.json](./255753-gas-station-inc.json) |
+| Gas Station Manager | 327894 | [327894-gas-station-manager.json](./327894-gas-station-manager.json) |
 | Gas Station Manager 2026 | 393475 | [393475-gas-station-manager-2026.json](./393475-gas-station-manager-2026.json) |
 | Gas Station Simulator and Airstrip DLC Bundle | 286511 | [286511-gas-station-simulator-and-airstrip-dlc-bundle.json](./286511-gas-station-simulator-and-airstrip-dlc-bundle.json) |
 | Gas Station Simulator and Party Time DLC Bundle | 331539 | [331539-gas-station-simulator-and-party-time-dlc-bundle.json](./331539-gas-station-simulator-and-party-time-dlc-bundle.json) |
@@ -1339,6 +1340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gato | 19702 | [19702-gato.json](./19702-gato.json) |
 | Gator Brigade | 321565 | [321565-gator-brigade.json](./321565-gator-brigade.json) |
 | Gator Parade | 123533 | [123533-gator-parade.json](./123533-gator-parade.json) |
+| Gats.io | 327907 | [327907-gats-io.json](./327907-gats-io.json) |
 | Gaucho and the Grassland | 192368 | [192368-gaucho-and-the-grassland.json](./192368-gaucho-and-the-grassland.json) |
 | Gaudi: Barcelona no Kaze | 118312 | [118312-gaudi-barcelona-no-kaze.json](./118312-gaudi-barcelona-no-kaze.json) |
 | Gauge | 9837 | [9837-gauge.json](./9837-gauge.json) |
@@ -5414,6 +5416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GreySky&StarNavigator | 373689 | [373689-greysky-and-starnavigator.json](./373689-greysky-and-starnavigator.json) |
 | Greystorm | 73557 | [73557-greystorm.json](./73557-greystorm.json) |
 | Grid | 118871 | [118871-grid.json](./118871-grid.json) |
+| Grid | 327878 | [327878-grid.json](./327878-grid.json) |
 | Grid 2 | 2138 | [2138-grid-2.json](./2138-grid-2.json) |
 | Grid 32 | 274128 | [274128-grid-32.json](./274128-grid-32.json) |
 | Grid Creeps | 122813 | [122813-grid-creeps.json](./122813-grid-creeps.json) |
