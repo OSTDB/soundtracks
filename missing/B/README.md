@@ -2985,6 +2985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beach Fun Summer Challenge | 50739 | [50739-beach-fun-summer-challenge.json](./50739-beach-fun-summer-challenge.json) |
 | Beach Games | 197184 | [197184-beach-games.json](./197184-beach-games.json) |
 | Beach Gas Gas | 247620 | [247620-beach-gas-gas.json](./247620-beach-gas-gas.json) |
+| Beach Girl Block Crush!! | 294060 | [294060-beach-girl-block-crush.json](./294060-beach-girl-block-crush.json) |
 | Beach Girls | 75758 | [75758-beach-girls.json](./75758-beach-girls.json) |
 | Beach Girls 2: Sports in Bikini | 300774 | [300774-beach-girls-2-sports-in-bikini.json](./300774-beach-girls-2-sports-in-bikini.json) |
 | Beach Head 2000 | 17451 | [17451-beach-head-2000.json](./17451-beach-head-2000.json) |
@@ -9816,6 +9817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BrutalAliens | 107903 | [107903-brutalaliens.json](./107903-brutalaliens.json) |
 | Brutalism | 89979 | [89979-brutalism.json](./89979-brutalism.json) |
 | Brutalism22 | 244470 | [244470-brutalism22.json](./244470-brutalism22.json) |
+| Brutalismus: Chapter 1 | 294061 | [294061-brutalismus-chapter-1.json](./294061-brutalismus-chapter-1.json) |
 | Brutalismus: Dystopia | 355076 | [355076-brutalismus-dystopia.json](./355076-brutalismus-dystopia.json) |
 | Brutalist | 308250 | [308250-brutalist.json](./308250-brutalist.json) |
 | Brutalistick VR | 277017 | [277017-brutalistick-vr.json](./277017-brutalistick-vr.json) |
@@ -10095,6 +10097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bud Farm Idle Tycoon | 215104 | [215104-bud-farm-idle-tycoon.json](./215104-bud-farm-idle-tycoon.json) |
 | Bud Farm: Munchie Match | 245347 | [245347-bud-farm-munchie-match.json](./245347-bud-farm-munchie-match.json) |
 | Bud Masters: Battle Edition | 142316 | [142316-bud-masters-battle-edition.json](./142316-bud-masters-battle-edition.json) |
+| Bud Masters: Peace Edition | 294040 | [294040-bud-masters-peace-edition.json](./294040-bud-masters-peace-edition.json) |
 | Bud of Frenzy and Instinct | 108946 | [108946-bud-of-frenzy-and-instinct.json](./108946-bud-of-frenzy-and-instinct.json) |
 | Bud Redhead: The Time Chase | 71558 | [71558-bud-redhead-the-time-chase.json](./71558-bud-redhead-the-time-chase.json) |
 | Bud Spencer & Terence Hill: Slaps and Beans 2 | 244901 | [244901-bud-spencer-and-terence-hill-slaps-and-beans-2.json](./244901-bud-spencer-and-terence-hill-slaps-and-beans-2.json) |
