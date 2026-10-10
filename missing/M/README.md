@@ -3179,6 +3179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master Lander | 187299 | [187299-master-lander.json](./187299-master-lander.json) |
 | Master Leaf Blower | 317024 | [317024-master-leaf-blower.json](./317024-master-leaf-blower.json) |
 | Master Lemon: The Quest for Iceland | 309469 | [309469-master-lemon-the-quest-for-iceland.json](./309469-master-lemon-the-quest-for-iceland.json) |
+| Master Level Maker | 302777 | [302777-master-level-maker.json](./302777-master-level-maker.json) |
 | Master Levels for Doom II | 313171 | [313171-master-levels-for-doom-ii.json](./313171-master-levels-for-doom-ii.json) |
 | Master Levels for Doom II | 8852 | [8852-master-levels-for-doom-ii.json](./8852-master-levels-for-doom-ii.json) |
 | Master Levels For Doom II | 218171 | [218171-master-levels-for-doom-ii.json](./218171-master-levels-for-doom-ii.json) |
@@ -3765,6 +3766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | May's Perfect Romance | 133212 | [133212-mays-perfect-romance.json](./133212-mays-perfect-romance.json) |
 | Maya Adventure | 235232 | [235232-maya-adventure.json](./235232-maya-adventure.json) |
 | Maya Fey: Medium Attorney | 309971 | [309971-maya-fey-medium-attorney.json](./309971-maya-fey-medium-attorney.json) |
+| Maya Fey's Borger Eating Simulator | 302645 | [302645-maya-feys-borger-eating-simulator.json](./302645-maya-feys-borger-eating-simulator.json) |
 | Maya the Bee: Sweet Gold | 49328 | [49328-maya-the-bee-sweet-gold.json](./49328-maya-the-bee-sweet-gold.json) |
 | Maya the Bee: The Great Adventure | 49327 | [49327-maya-the-bee-the-great-adventure.json](./49327-maya-the-bee-the-great-adventure.json) |
 | Maya the Bee: What a Thunderstorm | 71035 | [71035-maya-the-bee-what-a-thunderstorm.json](./71035-maya-the-bee-what-a-thunderstorm.json) |
@@ -6290,6 +6292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mezzanine | 219636 | [219636-mezzanine.json](./219636-mezzanine.json) |
 | Mezzo Piano: Oshare & Lesson | 327597 | [327597-mezzo-piano-oshare-and-lesson.json](./327597-mezzo-piano-oshare-and-lesson.json) |
 | MF-01 Aerostrike | 239701 | [239701-mf-01-aerostrike.json](./239701-mf-01-aerostrike.json) |
+| MFC: Midnight Fight Club | 302769 | [302769-mfc-midnight-fight-club.json](./302769-mfc-midnight-fight-club.json) |
 | MFGGK | 323966 | [323966-mfggk.json](./323966-mfggk.json) |
 | MFGGK2 | 323926 | [323926-mfggk2.json](./323926-mfggk2.json) |
 | MFTK: Survivors | 408193 | [408193-mftk-survivors.json](./408193-mftk-survivors.json) |
@@ -10228,6 +10231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moontorc | 13016 | [13016-moontorc.json](./13016-moontorc.json) |
 | Moontouched | 347880 | [347880-moontouched.json](./347880-moontouched.json) |
 | Moontrain | 205573 | [205573-moontrain.json](./205573-moontrain.json) |
+| Moonvale | 302726 | [302726-moonvale.json](./302726-moonvale.json) |
 | Moonvile | 373307 | [373307-moonvile.json](./373307-moonvile.json) |
 | Moonwakers | 293154 | [293154-moonwakers.json](./293154-moonwakers.json) |
 | Moonwalker | 13017 | [13017-moonwalker.json](./13017-moonwalker.json) |
