@@ -3101,6 +3101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lilith: Rise of the Fallen | 354939 | [354939-lilith-rise-of-the-fallen.json](./354939-lilith-rise-of-the-fallen.json) |
 | Lilith.pk3 | 227765 | [227765-lilith-pk3.json](./227765-lilith-pk3.json) |
 | Lilith's Game | 339998 | [339998-liliths-game.json](./339998-liliths-game.json) |
+| Lilith's Lair | 327235 | [327235-liliths-lair.json](./327235-liliths-lair.json) |
 | Lilith's Syndrome | 297037 | [297037-liliths-syndrome.json](./297037-liliths-syndrome.json) |
 | Lilium | 128653 | [128653-lilium.json](./128653-lilium.json) |
 | Lillie is the Keeper | 232396 | [232396-lillie-is-the-keeper.json](./232396-lillie-is-the-keeper.json) |
@@ -4284,6 +4285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lola's ABC Party - Learn to Read | 88344 | [88344-lolas-abc-party-learn-to-read.json](./88344-lolas-abc-party-learn-to-read.json) |
 | Lola's Alphabet Train - Learn to Read | 88577 | [88577-lolas-alphabet-train-learn-to-read.json](./88577-lolas-alphabet-train-learn-to-read.json) |
 | Lola's Fruity Sudoku | 106747 | [106747-lolas-fruity-sudoku.json](./106747-lolas-fruity-sudoku.json) |
+| Lola's Lutong Bahay | 327154 | [327154-lolas-lutong-bahay.json](./327154-lolas-lutong-bahay.json) |
 | Lola's World of Wonders | 137525 | [137525-lolas-world-of-wonders.json](./137525-lolas-world-of-wonders.json) |
 | Lolagame | 320294 | [320294-lolagame.json](./320294-lolagame.json) |
 | LOLCat Escape | 338932 | [338932-lolcat-escape.json](./338932-lolcat-escape.json) |
