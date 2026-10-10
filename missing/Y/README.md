@@ -201,6 +201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | YARG | 144814 | [144814-yarg.json](./144814-yarg.json) |
 | YARG | 245335 | [245335-yarg.json](./245335-yarg.json) |
 | Yarichin Katei Kyoushi Netori Houkoku: Do-sukebe Kyonyuu Oyakodon | 108937 | [108937-yarichin-katei-kyoushi-netori-houkoku-do-sukebe-kyonyuu-oyakodon.json](./108937-yarichin-katei-kyoushi-netori-houkoku-do-sukebe-kyonyuu-oyakodon.json) |
+| Yarimono: DLC 1 | 315190 | [315190-yarimono-dlc-1.json](./315190-yarimono-dlc-1.json) |
 | Yaris | 21883 | [21883-yaris.json](./21883-yaris.json) |
 | Yarışçı Arazi | 326655 | [326655-yar-sc-arazi.json](./326655-yar-sc-arazi.json) |
 | Yarn | 166614 | [166614-yarn.json](./166614-yarn.json) |
