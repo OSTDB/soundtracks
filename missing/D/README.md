@@ -8415,6 +8415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Downtown Club | 330284 | [330284-downtown-club.json](./330284-downtown-club.json) |
 | Downtown Dodgeball Da yo: Zenin Shuugou!! | 60501 | [60501-downtown-dodgeball-da-yo-zenin-shuugou.json](./60501-downtown-dodgeball-da-yo-zenin-shuugou.json) |
 | Downtown Jam | 207784 | [207784-downtown-jam.json](./207784-downtown-jam.json) |
+| Downtown Journey | 308454 | [308454-downtown-journey.json](./308454-downtown-journey.json) |
 | Downtown Mafia: Gang Wars | 105348 | [105348-downtown-mafia-gang-wars.json](./105348-downtown-mafia-gang-wars.json) |
 | Downtown Nekketsu Jidaigeki | 60562 | [60562-downtown-nekketsu-jidaigeki.json](./60562-downtown-nekketsu-jidaigeki.json) |
 | Downtown Nekketsu Koushinkyoku: Dokodemo Daiundoukai | 49109 | [49109-downtown-nekketsu-koushinkyoku-dokodemo-daiundoukai.json](./49109-downtown-nekketsu-koushinkyoku-dokodemo-daiundoukai.json) |
@@ -8422,6 +8423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Downtown Nekketsu Monogatari EX | 191676 | [191676-downtown-nekketsu-monogatari-ex.json](./191676-downtown-nekketsu-monogatari-ex.json) |
 | Downtown Nekketsu Story | 191641 | [191641-downtown-nekketsu-story.json](./191641-downtown-nekketsu-story.json) |
 | Downtown no Gaki no Tsukai Yaarahen de!! Zettai ni Tsukamatte ha Ikenai Gas Kurobikari Land | 218525 | [218525-downtown-no-gaki-no-tsukai-yaarahen-de-zettai-ni-tsukamatte-ha-ikenai-gas-kurobikari-land.json](./218525-downtown-no-gaki-no-tsukai-yaarahen-de-zettai-ni-tsukamatte-ha-ikenai-gas-kurobikari-land.json) |
+| Downtown Ride | 308445 | [308445-downtown-ride.json](./308445-downtown-ride.json) |
 | Downtown River City Baseball Story: Play Ball, Kunio! | 38277 | [38277-downtown-river-city-baseball-story-play-ball-kunio.json](./38277-downtown-river-city-baseball-story-play-ball-kunio.json) |
 | Downtown Run | 242783 | [242783-downtown-run.json](./242783-downtown-run.json) |
 | Downtown Special Kunio-kun's Historical Period Drama! | 48631 | [48631-downtown-special-kunio-kuns-historical-period-drama.json](./48631-downtown-special-kunio-kuns-historical-period-drama.json) |
