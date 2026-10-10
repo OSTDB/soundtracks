@@ -1322,6 +1322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Village Simulator | 278981 | [278981-fantasy-village-simulator.json](./278981-fantasy-village-simulator.json) |
 | Fantasy Voyagers | 400195 | [400195-fantasy-voyagers.json](./400195-fantasy-voyagers.json) |
 | Fantasy Waifu Collector | 369140 | [369140-fantasy-waifu-collector.json](./369140-fantasy-waifu-collector.json) |
+| Fantasy War Heroes: Chilling Fog | 319273 | [319273-fantasy-war-heroes-chilling-fog.json](./319273-fantasy-war-heroes-chilling-fog.json) |
 | Fantasy Wars | 7332 | [7332-fantasy-wars.json](./7332-fantasy-wars.json) |
 | Fantasy Wars: Endless Heroes | 390601 | [390601-fantasy-wars-endless-heroes.json](./390601-fantasy-wars-endless-heroes.json) |
 | Fantasy World | 68687 | [68687-fantasy-world.json](./68687-fantasy-world.json) |
@@ -3986,6 +3987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fishing For Cats | 309685 | [309685-fishing-for-cats.json](./309685-fishing-for-cats.json) |
 | Fishing for Numbers | 374417 | [374417-fishing-for-numbers.json](./374417-fishing-for-numbers.json) |
 | Fishing Freaks: Bass Rise Plus | 123044 | [123044-fishing-freaks-bass-rise-plus.json](./123044-fishing-freaks-bass-rise-plus.json) |
+| Fishing Grind | 319285 | [319285-fishing-grind.json](./319285-fishing-grind.json) |
 | Fishing Hero | 110240 | [110240-fishing-hero.json](./110240-fishing-hero.json) |
 | Fishing Inc | 390614 | [390614-fishing-inc.json](./390614-fishing-inc.json) |
 | Fishing Kingdom | 195226 | [195226-fishing-kingdom.json](./195226-fishing-kingdom.json) |
@@ -5529,6 +5531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Killer | 188096 | [188096-football-killer.json](./188096-football-killer.json) |
 | Football League 2023 | 223933 | [223933-football-league-2023.json](./223933-football-league-2023.json) |
 | Football League 2026 | 326649 | [326649-football-league-2026.json](./326649-football-league-2026.json) |
+| Football League Cup: Arcade Soccer Simulator | 319316 | [319316-football-league-cup-arcade-soccer-simulator.json](./319316-football-league-cup-arcade-soccer-simulator.json) |
 | Football Legacy | 394539 | [394539-football-legacy.json](./394539-football-legacy.json) |
 | Football Legend | 59080 | [59080-football-legend.json](./59080-football-legend.json) |
 | Football Legends 2025: Complete Edition | 404277 | [404277-football-legends-2025-complete-edition.json](./404277-football-legends-2025-complete-edition.json) |
@@ -6101,6 +6104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Formula Racing Pro 2026: Elite Edition | 404278 | [404278-formula-racing-pro-2026-elite-edition.json](./404278-formula-racing-pro-2026-elite-edition.json) |
 | Formula Racing Pro 2026: GOTY Edition | 399819 | [399819-formula-racing-pro-2026-goty-edition.json](./399819-formula-racing-pro-2026-goty-edition.json) |
 | Formula Racing Pro 2026: Upgrade Edition | 396918 | [396918-formula-racing-pro-2026-upgrade-edition.json](./396918-formula-racing-pro-2026-upgrade-edition.json) |
+| Formula Racing: Grand Prix League | 319317 | [319317-formula-racing-grand-prix-league.json](./319317-formula-racing-grand-prix-league.json) |
 | Formula Top | 199646 | [199646-formula-top.json](./199646-formula-top.json) |
 | Formula Truck 2013 | 36392 | [36392-formula-truck-2013.json](./36392-formula-truck-2013.json) |
 | Formula V20: 1985 | 304140 | [304140-formula-v20-1985.json](./304140-formula-v20-1985.json) |
@@ -7728,6 +7732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fruit Ninja: Puss in Boots | 64749 | [64749-fruit-ninja-puss-in-boots.json](./64749-fruit-ninja-puss-in-boots.json) |
 | Fruit of Choice | 309495 | [309495-fruit-of-choice.json](./309495-fruit-of-choice.json) |
 | Fruit Panic | 56754 | [56754-fruit-panic.json](./56754-fruit-panic.json) |
+| Fruit Party: Suika Casual Puzzle | 319318 | [319318-fruit-party-suika-casual-puzzle.json](./319318-fruit-party-suika-casual-puzzle.json) |
 | Fruit Postal Service | 119777 | [119777-fruit-postal-service.json](./119777-fruit-postal-service.json) |
 | Fruit Row | 149717 | [149717-fruit-row.json](./149717-fruit-row.json) |
 | Fruit Salad | 273892 | [273892-fruit-salad.json](./273892-fruit-salad.json) |
