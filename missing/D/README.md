@@ -3601,8 +3601,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delta-V Racing | 247434 | [247434-delta-v-racing.json](./247434-delta-v-racing.json) |
 | Delta's Discs | 412989 | [412989-deltas-discs.json](./412989-deltas-discs.json) |
 | DeltaBlade 2700 Re:Create | 264661 | [264661-deltablade-2700-re-create.json](./264661-deltablade-2700-re-create.json) |
+| Deltafall | 329604 | [329604-deltafall.json](./329604-deltafall.json) |
 | Deltagun | 336347 | [336347-deltagun.json](./336347-deltagun.json) |
 | Deltagun Deluxe | 336349 | [336349-deltagun-deluxe.json](./336349-deltagun-deluxe.json) |
+| Deltamon | 329605 | [329605-deltamon.json](./329605-deltamon.json) |
 | Deltamount | 384652 | [384652-deltamount.json](./384652-deltamount.json) |
 | Deltaplan Simulator | 51553 | [51553-deltaplan-simulator.json](./51553-deltaplan-simulator.json) |
 | Deltaruined | 329665 | [329665-deltaruined.json](./329665-deltaruined.json) |
@@ -3618,6 +3620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deltarune: Chapter 6 | 408171 | [408171-deltarune-chapter-6.json](./408171-deltarune-chapter-6.json) |
 | Deltarune: Chapter Rewritten - Scampton The Great | 243746 | [243746-deltarune-chapter-rewritten-scampton-the-great.json](./243746-deltarune-chapter-rewritten-scampton-the-great.json) |
 | Deltarune: Hummer Jevil | 352215 | [352215-deltarune-hummer-jevil.json](./352215-deltarune-hummer-jevil.json) |
+| Deltarune: Hypothesis | 329606 | [329606-deltarune-hypothesis.json](./329606-deltarune-hypothesis.json) |
 | Deltarune: Internal Demons | 330253 | [330253-deltarune-internal-demons.json](./330253-deltarune-internal-demons.json) |
 | Deltarune: Master Mode | 336354 | [336354-deltarune-master-mode.json](./336354-deltarune-master-mode.json) |
 | Deltarune: Reimagined - Angelic Altercation | 351779 | [351779-deltarune-reimagined-angelic-altercation.json](./351779-deltarune-reimagined-angelic-altercation.json) |
@@ -10288,6 +10291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dual Brain: Complete Edition | 196178 | [196178-dual-brain-complete-edition.json](./196178-dual-brain-complete-edition.json) |
 | Dual Bus Simulator | 269028 | [269028-dual-bus-simulator.json](./269028-dual-bus-simulator.json) |
 | Dual Cars | 156598 | [156598-dual-cars.json](./156598-dual-cars.json) |
+| Dual Cat: Max | 329601 | [329601-dual-cat-max.json](./329601-dual-cat-max.json) |
 | Dual Chroma | 255266 | [255266-dual-chroma.json](./255266-dual-chroma.json) |
 | Dual Chroma: Academy Carols | 238546 | [238546-dual-chroma-academy-carols.json](./238546-dual-chroma-academy-carols.json) |
 | Dual Chroma: Far Shore | 196699 | [196699-dual-chroma-far-shore.json](./196699-dual-chroma-far-shore.json) |
