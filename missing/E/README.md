@@ -1484,6 +1484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elf-Mail | 178524 | [178524-elf-mail.json](./178524-elf-mail.json) |
 | Elf-World: Three Kingdoms | 61888 | [61888-elf-world-three-kingdoms.json](./61888-elf-world-three-kingdoms.json) |
 | Elf: The Movie | 49301 | [49301-elf-the-movie.json](./49301-elf-the-movie.json) |
+| Elfazar's Hat | 318713 | [318713-elfazars-hat.json](./318713-elfazars-hat.json) |
 | Elfblade | 152209 | [152209-elfblade.json](./152209-elfblade.json) |
 | Elfenberg | 291681 | [291681-elfenberg.json](./291681-elfenberg.json) |
 | Elfengard Hunter Slayer | 302443 | [302443-elfengard-hunter-slayer.json](./302443-elfengard-hunter-slayer.json) |
@@ -2634,6 +2635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epic Dragons | 316063 | [316063-epic-dragons.json](./316063-epic-dragons.json) |
 | Epic Dumpster Bear | 19615 | [19615-epic-dumpster-bear.json](./19615-epic-dumpster-bear.json) |
 | Epic Dumpster Bear 2: He Who Bears Wins | 135146 | [135146-epic-dumpster-bear-2-he-who-bears-wins.json](./135146-epic-dumpster-bear-2-he-who-bears-wins.json) |
+| Epic Empire | 318732 | [318732-epic-empire.json](./318732-epic-empire.json) |
 | Epic Eon | 280337 | [280337-epic-eon.json](./280337-epic-eon.json) |
 | Epic Escapes Dark Seas, Mysteries of Ancient Inventors Atlantis, Elementary My Dear Majesty | 201273 | [201273-epic-escapes-dark-seas-mysteries-of-ancient-inventors-atlantis-elementary-my-dear-majesty.json](./201273-epic-escapes-dark-seas-mysteries-of-ancient-inventors-atlantis-elementary-my-dear-majesty.json) |
 | Epic Fantasy | 165570 | [165570-epic-fantasy.json](./165570-epic-fantasy.json) |
