@@ -1091,6 +1091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sanity Protocol | 355029 | [355029-sanity-protocol.json](./355029-sanity-protocol.json) |
 | Sanity: Aiken's Artifact | 90142 | [90142-sanity-aikens-artifact.json](./90142-sanity-aikens-artifact.json) |
 | Sankai: Another World | 193868 | [193868-sankai-another-world.json](./193868-sankai-another-world.json) |
+| SankakkuDoku | 320456 | [320456-sankakkudoku.json](./320456-sankakkudoku.json) |
 | Sankaku Renai: Love Triangle Trouble - Limited Edition | 167094 | [167094-sankaku-renai-love-triangle-trouble-limited-edition.json](./167094-sankaku-renai-love-triangle-trouble-limited-edition.json) |
 | Sankhara | 156130 | [156130-sankhara.json](./156130-sankhara.json) |
 | Sanki | 178517 | [178517-sanki.json](./178517-sanki.json) |
@@ -2282,6 +2283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scribblenauts Unmasked: A DC Comics Adventure | 5033 | [5033-scribblenauts-unmasked-a-dc-comics-adventure.json](./5033-scribblenauts-unmasked-a-dc-comics-adventure.json) |
 | Scribblequest | 219621 | [219621-scribblequest.json](./219621-scribblequest.json) |
 | Scribbly Walrus | 128571 | [128571-scribbly-walrus.json](./128571-scribbly-walrus.json) |
+| Scribe | 320430 | [320430-scribe.json](./320430-scribe.json) |
 | Scribe RPG | 339089 | [339089-scribe-rpg.json](./339089-scribe-rpg.json) |
 | Scribo Magi | 178922 | [178922-scribo-magi.json](./178922-scribo-magi.json) |
 | Scripps Spelling Bee | 206644 | [206644-scripps-spelling-bee.json](./206644-scripps-spelling-bee.json) |
@@ -7018,6 +7020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sintropia | 337161 | [337161-sintropia.json](./337161-sintropia.json) |
 | Sintropia Fruits Together | 388053 | [388053-sintropia-fruits-together.json](./388053-sintropia-fruits-together.json) |
 | Sinuca de Bar | 396479 | [396479-sinuca-de-bar.json](./396479-sinuca-de-bar.json) |
+| Sinvers on Wheels | 320457 | [320457-sinvers-on-wheels.json](./320457-sinvers-on-wheels.json) |
 | SinxHolic | 219141 | [219141-sinxholic.json](./219141-sinxholic.json) |
 | Sinyaya Boroda | 387015 | [387015-sinyaya-boroda.json](./387015-sinyaya-boroda.json) |
 | Sio and Mysterious Forest | 122214 | [122214-sio-and-mysterious-forest.json](./122214-sio-and-mysterious-forest.json) |
@@ -7247,6 +7250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skatelander | 345149 | [345149-skatelander.json](./345149-skatelander.json) |
 | Skatemasta Tcheco | 118401 | [118401-skatemasta-tcheco.json](./118401-skatemasta-tcheco.json) |
 | SkateNationXL | 272579 | [272579-skatenationxl.json](./272579-skatenationxl.json) |
+| Skater Bunny Simulator | 320459 | [320459-skater-bunny-simulator.json](./320459-skater-bunny-simulator.json) |
 | Skater Frog | 129048 | [129048-skater-frog.json](./129048-skater-frog.json) |
 | Skater Girl - Makeup & Dressup | 87874 | [87874-skater-girl-makeup-and-dressup.json](./87874-skater-girl-makeup-and-dressup.json) |
 | Skater Girl Ice Skating | 103866 | [103866-skater-girl-ice-skating.json](./103866-skater-girl-ice-skating.json) |
@@ -18095,6 +18099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sugoi Girls: Raunchy Rabbit | 345704 | [345704-sugoi-girls-raunchy-rabbit.json](./345704-sugoi-girls-raunchy-rabbit.json) |
 | Sugoi Girls: Sassy Heroine | 315843 | [315843-sugoi-girls-sassy-heroine.json](./315843-sugoi-girls-sassy-heroine.json) |
 | Sugoi Girls: Sexy Steampunk | 333739 | [333739-sugoi-girls-sexy-steampunk.json](./333739-sugoi-girls-sexy-steampunk.json) |
+| Sugoi Girls: Vivacious Vampire | 320458 | [320458-sugoi-girls-vivacious-vampire.json](./320458-sugoi-girls-vivacious-vampire.json) |
 | Sugoi RPG? | 151632 | [151632-sugoi-rpg.json](./151632-sugoi-rpg.json) |
 | Sugoro Quest: Dice Heroes | 330241 | [330241-sugoro-quest-dice-heroes.json](./330241-sugoro-quest-dice-heroes.json) |
 | Sugoro Quest: Dice no Senshi-tachi | 48621 | [48621-sugoro-quest-dice-no-senshi-tachi.json](./48621-sugoro-quest-dice-no-senshi-tachi.json) |
