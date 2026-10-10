@@ -331,6 +331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Hero's Quest pt1 | 213430 | [213430-a-heros-quest-pt1.json](./213430-a-heros-quest-pt1.json) |
 | A Heroine Story | 249856 | [249856-a-heroine-story.json](./249856-a-heroine-story.json) |
 | A Hexagon's Adventures | 184446 | [184446-a-hexagons-adventures.json](./184446-a-hexagons-adventures.json) |
+| A Hidden Mountain Factory | 318157 | [318157-a-hidden-mountain-factory.json](./318157-a-hidden-mountain-factory.json) |
 | A Hideo Kojima Game | 178947 | [178947-a-hideo-kojima-game.json](./178947-a-hideo-kojima-game.json) |
 | A Hole in my Room | 333050 | [333050-a-hole-in-my-room.json](./333050-a-hole-in-my-room.json) |
 | A Holiday Yarn | 183952 | [183952-a-holiday-yarn.json](./183952-a-holiday-yarn.json) |
@@ -3263,6 +3264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akairo Mansion: Horror Edition | 301979 | [301979-akairo-mansion-horror-edition.json](./301979-akairo-mansion-horror-edition.json) |
 | Akairo no Kaii | 244376 | [244376-akairo-no-kaii.json](./244376-akairo-no-kaii.json) |
 | Akairu: A Day Adventure! | 386709 | [386709-akairu-a-day-adventure.json](./386709-akairu-a-day-adventure.json) |
+| Akaku Forest | 318123 | [318123-akaku-forest.json](./318123-akaku-forest.json) |
 | Akakuro | 223961 | [223961-akakuro.json](./223961-akakuro.json) |
 | Akalabeth: World of Doom | 2417 | [2417-akalabeth-world-of-doom.json](./2417-akalabeth-world-of-doom.json) |
 | Akane | 103484 | [103484-akane.json](./103484-akane.json) |
@@ -3552,6 +3554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alder's Blood: Definitive Edition | 173167 | [173167-alders-blood-definitive-edition.json](./173167-alders-blood-definitive-edition.json) |
 | Alder's Blood: Prologue | 129232 | [129232-alders-blood-prologue.json](./129232-alders-blood-prologue.json) |
 | Aldian of Ancients | 317384 | [317384-aldian-of-ancients.json](./317384-aldian-of-ancients.json) |
+| Aldo: Memory of the Kingdom | 318114 | [318114-aldo-memory-of-the-kingdom.json](./318114-aldo-memory-of-the-kingdom.json) |
 | Aldo's Adventure | 14475 | [14475-aldos-adventure.json](./14475-aldos-adventure.json) |
 | Aldora | 304614 | [304614-aldora.json](./304614-aldora.json) |
 | Aldoria | 322382 | [322382-aldoria.json](./322382-aldoria.json) |
@@ -4320,6 +4323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Allogloom | 277935 | [277935-allogloom.json](./277935-allogloom.json) |
 | Allora and the Broken Portal | 125382 | [125382-allora-and-the-broken-portal.json](./125382-allora-and-the-broken-portal.json) |
 | Allotropy | 169472 | [169472-allotropy.json](./169472-allotropy.json) |
+| Alloy: Arena | 318136 | [318136-alloy-arena.json](./318136-alloy-arena.json) |
 | Alloys Over Flowers | 179044 | [179044-alloys-over-flowers.json](./179044-alloys-over-flowers.json) |
 | Allrams Höjdarspel | 383025 | [383025-allrams-hojdarspel.json](./383025-allrams-hojdarspel.json) |
 | Allumeria | 362894 | [362894-allumeria.json](./362894-allumeria.json) |
@@ -6417,6 +6421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Antares | 125343 | [125343-antares.json](./125343-antares.json) |
 | Antares | 132727 | [132727-antares.json](./132727-antares.json) |
 | Antartica | 400962 | [400962-antartica.json](./400962-antartica.json) |
+| AntCity | 318137 | [318137-antcity.json](./318137-antcity.json) |
 | Antcopter | 306036 | [306036-antcopter.json](./306036-antcopter.json) |
 | Anteater | 38523 | [38523-anteater.json](./38523-anteater.json) |
 | Antecrypt | 176341 | [176341-antecrypt.json](./176341-antecrypt.json) |
@@ -10135,6 +10140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Augurium Mortis | 304685 | [304685-augurium-mortis.json](./304685-augurium-mortis.json) |
 | Augury Point | 280298 | [280298-augury-point.json](./280298-augury-point.json) |
 | August 31 | 202240 | [202240-august-31.json](./202240-august-31.json) |
+| August Ends | 318140 | [318140-august-ends.json](./318140-august-ends.json) |
 | August Night | 217858 | [217858-august-night.json](./217858-august-night.json) |
 | Auld Lang Syne: Cat and Mouse | 305361 | [305361-auld-lang-syne-cat-and-mouse.json](./305361-auld-lang-syne-cat-and-mouse.json) |
 | Aum the Game | 369118 | [369118-aum-the-game.json](./369118-aum-the-game.json) |
