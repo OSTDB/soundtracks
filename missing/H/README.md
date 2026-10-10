@@ -385,6 +385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Half-Life: The Infected | 196732 | [196732-half-life-the-infected.json](./196732-half-life-the-infected.json) |
 | Half-Life: Through The City | 309106 | [309106-half-life-through-the-city.json](./309106-half-life-through-the-city.json) |
 | Half-Life: Timeline 1 | 221804 | [221804-half-life-timeline-1.json](./221804-half-life-timeline-1.json) |
+| Half-Life: Ultimate Attack | 285388 | [285388-half-life-ultimate-attack.json](./285388-half-life-ultimate-attack.json) |
 | Half-Life: Uplink | 93071 | [93071-half-life-uplink.json](./93071-half-life-uplink.json) |
 | Half-Life: Uplinked | 221790 | [221790-half-life-uplinked.json](./221790-half-life-uplinked.json) |
 | Half-Life: Visitors | 221854 | [221854-half-life-visitors.json](./221854-half-life-visitors.json) |
@@ -735,6 +736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hanarenga: Takumi no Utage | 338309 | [338309-hanarenga-takumi-no-utage.json](./338309-hanarenga-takumi-no-utage.json) |
 | Hanasaka Tenshi Tenten-kun no Beat Breaker | 228500 | [228500-hanasaka-tenshi-tenten-kun-no-beat-breaker.json](./228500-hanasaka-tenshi-tenten-kun-no-beat-breaker.json) |
 | Hanasaki Work Spring! | 143355 | [143355-hanasaki-work-spring.json](./143355-hanasaki-work-spring.json) |
+| Hanasou | 285382 | [285382-hanasou.json](./285382-hanasou.json) |
 | Hanata-Kadaka!? | 59993 | [59993-hanata-kadaka.json](./59993-hanata-kadaka.json) |
 | Hanayaka Nari, Waga Ichizoku | 61640 | [61640-hanayaka-nari-waga-ichizoku.json](./61640-hanayaka-nari-waga-ichizoku.json) |
 | Hanayaka Nari, Waga Ichizoku Gentou Nostalgie | 60347 | [60347-hanayaka-nari-waga-ichizoku-gentou-nostalgie.json](./60347-hanayaka-nari-waga-ichizoku-gentou-nostalgie.json) |
@@ -3514,6 +3516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero Boy | 31721 | [31721-hero-boy.json](./31721-hero-boy.json) |
 | Hero Bump | 184101 | [184101-hero-bump.json](./184101-hero-bump.json) |
 | Hero Conquest | 83215 | [83215-hero-conquest.json](./83215-hero-conquest.json) |
+| Hero Cummy | 285398 | [285398-hero-cummy.json](./285398-hero-cummy.json) |
 | Hero Defence | 25095 | [25095-hero-defence.json](./25095-hero-defence.json) |
 | Hero Defense: Haunted Island | 80217 | [80217-hero-defense-haunted-island.json](./80217-hero-defense-haunted-island.json) |
 | Hero Dream of School | 114289 | [114289-hero-dream-of-school.json](./114289-hero-dream-of-school.json) |
@@ -6781,6 +6784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Housewarming Gift | 237535 | [237535-housewarming-gift.json](./237535-housewarming-gift.json) |
 | Houshin Engi | 125424 | [125424-houshin-engi.json](./125424-houshin-engi.json) |
 | Houshin Engi 2 | 125423 | [125423-houshin-engi-2.json](./125423-houshin-engi-2.json) |
+| Housle | 285391 | [285391-housle.json](./285391-housle.json) |
 | Hoven the Sages Spinel | 34529 | [34529-hoven-the-sages-spinel.json](./34529-hoven-the-sages-spinel.json) |
 | Hover 2030 | 32897 | [32897-hover-2030.json](./32897-hover-2030.json) |
 | Hover Ace | 54103 | [54103-hover-ace.json](./54103-hover-ace.json) |
