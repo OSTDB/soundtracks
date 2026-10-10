@@ -1672,6 +1672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scarlet 7: The Mightiest Women | 70930 | [70930-scarlet-7-the-mightiest-women.json](./70930-scarlet-7-the-mightiest-women.json) |
 | Scarlet and Blank | 180674 | [180674-scarlet-and-blank.json](./180674-scarlet-and-blank.json) |
 | Scarlet City of Devils | 356880 | [356880-scarlet-city-of-devils.json](./356880-scarlet-city-of-devils.json) |
+| Scarlet Cross | 314618 | [314618-scarlet-cross.json](./314618-scarlet-cross.json) |
 | Scarlet Deer Inn | 143710 | [143710-scarlet-deer-inn.json](./143710-scarlet-deer-inn.json) |
 | Scarlet Defiance: The Wall Between Us | 291149 | [291149-scarlet-defiance-the-wall-between-us.json](./291149-scarlet-defiance-the-wall-between-us.json) |
 | Scarlet Fantasy | 111570 | [111570-scarlet-fantasy.json](./111570-scarlet-fantasy.json) |
@@ -3102,6 +3103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sega Touring Car Championship | 39795 | [39795-sega-touring-car-championship.json](./39795-sega-touring-car-championship.json) |
 | Sega Vintage Collection: Alex Kidd & Co. | 79259 | [79259-sega-vintage-collection-alex-kidd-and-co.json](./79259-sega-vintage-collection-alex-kidd-and-co.json) |
 | Sega Vintage Collection: ToeJam & Earl | 85812 | [85812-sega-vintage-collection-toejam-and-earl.json](./85812-sega-vintage-collection-toejam-and-earl.json) |
+| Sega vs. Capcom: The Next Level | 314615 | [314615-sega-vs-capcom-the-next-level.json](./314615-sega-vs-capcom-the-next-level.json) |
 | Sega World Drivers Championship | 293742 | [293742-sega-world-drivers-championship.json](./293742-sega-world-drivers-championship.json) |
 | Sega World Tournament Golf | 46128 | [46128-sega-world-tournament-golf.json](./46128-sega-world-tournament-golf.json) |
 | Sega Worldwide Soccer 2000: Euro Edition | 46554 | [46554-sega-worldwide-soccer-2000-euro-edition.json](./46554-sega-worldwide-soccer-2000-euro-edition.json) |
@@ -5895,6 +5897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shroom Editor | 320235 | [320235-shroom-editor.json](./320235-shroom-editor.json) |
 | Shroom Keeper | 258616 | [258616-shroom-keeper.json](./258616-shroom-keeper.json) |
 | Shroom Soup | 410074 | [410074-shroom-soup.json](./410074-shroom-soup.json) |
+| Shroom Valley | 314575 | [314575-shroom-valley.json](./314575-shroom-valley.json) |
 | Shroomageddon | 388305 | [388305-shroomageddon.json](./388305-shroomageddon.json) |
 | Shroomer | 346178 | [346178-shroomer.json](./346178-shroomer.json) |
 | Shroomio's Adventure | 185455 | [185455-shroomios-adventure.json](./185455-shroomios-adventure.json) |
@@ -9168,6 +9171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sniper 3D: Fun FPS Shooting | 87378 | [87378-sniper-3d-fun-fps-shooting.json](./87378-sniper-3d-fun-fps-shooting.json) |
 | Sniper and Spotter Climbing a Tower | 125950 | [125950-sniper-and-spotter-climbing-a-tower.json](./125950-sniper-and-spotter-climbing-a-tower.json) |
 | Sniper Assassin | 260888 | [260888-sniper-assassin.json](./260888-sniper-assassin.json) |
+| Sniper Assassin 2 | 314623 | [314623-sniper-assassin-2.json](./314623-sniper-assassin-2.json) |
 | Sniper Assassin 3 | 316087 | [316087-sniper-assassin-3.json](./316087-sniper-assassin-3.json) |
 | Sniper Assassin 3D | 94782 | [94782-sniper-assassin-3d.json](./94782-sniper-assassin-3d.json) |
 | Sniper Assassin 3D Shooter 2 | 104101 | [104101-sniper-assassin-3d-shooter-2.json](./104101-sniper-assassin-3d-shooter-2.json) |
@@ -9915,6 +9919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solaris | 370332 | [370332-solaris.json](./370332-solaris.json) |
 | Solaris | 407505 | [407505-solaris.json](./407505-solaris.json) |
 | Solaris 1.0.4. | 93000 | [93000-solaris-1-0-4.json](./93000-solaris-1-0-4.json) |
+| Solaris 2 | 314613 | [314613-solaris-2.json](./314613-solaris-2.json) |
 | Solaris Assault Tech | 93536 | [93536-solaris-assault-tech.json](./93536-solaris-assault-tech.json) |
 | Solaris Rift | 191198 | [191198-solaris-rift.json](./191198-solaris-rift.json) |
 | Solaris: Off World Combat | 146332 | [146332-solaris-off-world-combat.json](./146332-solaris-off-world-combat.json) |
@@ -19616,6 +19621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Odyssey: Bon-Bones Mountain | 246625 | [246625-super-mario-odyssey-bon-bones-mountain.json](./246625-super-mario-odyssey-bon-bones-mountain.json) |
 | Super Mario Odyssey: Fluffy Bluff Kingdom | 345487 | [345487-super-mario-odyssey-fluffy-bluff-kingdom.json](./345487-super-mario-odyssey-fluffy-bluff-kingdom.json) |
 | Super Mario Odyssey: The Lost Kingdoms | 344010 | [344010-super-mario-odyssey-the-lost-kingdoms.json](./344010-super-mario-odyssey-the-lost-kingdoms.json) |
+| Super Mario Odyssey: Wuhu Kingdom | 314569 | [314569-super-mario-odyssey-wuhu-kingdom.json](./314569-super-mario-odyssey-wuhu-kingdom.json) |
 | Super Mario Outbreak | 198557 | [198557-super-mario-outbreak.json](./198557-super-mario-outbreak.json) |
 | Super Mario Panic | 331984 | [331984-super-mario-panic.json](./331984-super-mario-panic.json) |
 | Super Mario Party | 103339 | [103339-super-mario-party.json](./103339-super-mario-party.json) |
