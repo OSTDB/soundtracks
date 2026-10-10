@@ -800,6 +800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Half of Darkness: Beyond the Spirit's Eye | 59957 | [59957-last-half-of-darkness-beyond-the-spirits-eye.json](./59957-last-half-of-darkness-beyond-the-spirits-eye.json) |
 | Last Half of Darkness: Shadows of the Servants | 59956 | [59956-last-half-of-darkness-shadows-of-the-servants.json](./59956-last-half-of-darkness-shadows-of-the-servants.json) |
 | Last Hammashan: Awakening of a Hero | 364051 | [364051-last-hammashan-awakening-of-a-hero.json](./364051-last-hammashan-awakening-of-a-hero.json) |
+| Last Harem | 297911 | [297911-last-harem.json](./297911-last-harem.json) |
 | Last Harvest | 138779 | [138779-last-harvest.json](./138779-last-harvest.json) |
 | Last Helion | 317863 | [317863-last-helion.json](./317863-last-helion.json) |
 | Last Heroes 2 | 33695 | [33695-last-heroes-2.json](./33695-last-heroes-2.json) |
