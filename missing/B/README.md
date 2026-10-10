@@ -3161,6 +3161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beast Unleashed | 349460 | [349460-beast-unleashed.json](./349460-beast-unleashed.json) |
 | Beast Whalers | 192685 | [192685-beast-whalers.json](./192685-beast-whalers.json) |
 | Beast Wrestler | 46239 | [46239-beast-wrestler.json](./46239-beast-wrestler.json) |
+| Beast: Bio Exo Arena Suit Team | 287551 | [287551-beast-bio-exo-arena-suit-team.json](./287551-beast-bio-exo-arena-suit-team.json) |
 | Beastbound | 323425 | [323425-beastbound.json](./323425-beastbound.json) |
 | Beastfall | 381252 | [381252-beastfall.json](./381252-beastfall.json) |
 | Beastiarium | 30927 | [30927-beastiarium.json](./30927-beastiarium.json) |
