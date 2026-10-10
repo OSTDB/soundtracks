@@ -9589,6 +9589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | So Much Stuff 2 | 245814 | [245814-so-much-stuff-2.json](./245814-so-much-stuff-2.json) |
 | So Much Stuff 2: Collector's Edition | 290425 | [290425-so-much-stuff-2-collectors-edition.json](./290425-so-much-stuff-2-collectors-edition.json) |
 | So Much Stuff 3: Odds & Ends | 257896 | [257896-so-much-stuff-3-odds-and-ends.json](./257896-so-much-stuff-3-odds-and-ends.json) |
+| So Much Stuff 3: Odds & Ends - Collector's Edition | 306053 | [306053-so-much-stuff-3-odds-and-ends-collectors-edition.json](./306053-so-much-stuff-3-odds-and-ends-collectors-edition.json) |
 | So Much Stuff 4: Bits and Bobs - Collector's Edition | 332486 | [332486-so-much-stuff-4-bits-and-bobs-collectors-edition.json](./332486-so-much-stuff-4-bits-and-bobs-collectors-edition.json) |
 | So Much Stuff 5: Mix-Knacks | 336631 | [336631-so-much-stuff-5-mix-knacks.json](./336631-so-much-stuff-5-mix-knacks.json) |
 | So Much Stuff 5: Mix-Knacks - Collector's Edition | 335511 | [335511-so-much-stuff-5-mix-knacks-collectors-edition.json](./335511-so-much-stuff-5-mix-knacks-collectors-edition.json) |
@@ -20228,6 +20229,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Slinger | 192958 | [192958-super-slinger.json](./192958-super-slinger.json) |
 | Super Slyder | 132726 | [132726-super-slyder.json](./132726-super-slyder.json) |
 | Super Smash | 125317 | [125317-super-smash.json](./125317-super-smash.json) |
+| Super Smash Bros Ultimate: Jacky's Outfit and Wig | 306045 | [306045-super-smash-bros-ultimate-jackys-outfit-and-wig.json](./306045-super-smash-bros-ultimate-jackys-outfit-and-wig.json) |
+| Super Smash Bros Ultimate: Judd Hat | 306046 | [306046-super-smash-bros-ultimate-judd-hat.json](./306046-super-smash-bros-ultimate-judd-hat.json) |
 | Super Smash Bros Ultimate: Marie Outfit and Wig | 306607 | [306607-super-smash-bros-ultimate-marie-outfit-and-wig.json](./306607-super-smash-bros-ultimate-marie-outfit-and-wig.json) |
 | Super Smash Bros Ultimate: Martial Artist Gi and Wig | 350408 | [350408-super-smash-bros-ultimate-martial-artist-gi-and-wig.json](./350408-super-smash-bros-ultimate-martial-artist-gi-and-wig.json) |
 | Super Smash Bros Ultimate: Morgana Hat | 306608 | [306608-super-smash-bros-ultimate-morgana-hat.json](./306608-super-smash-bros-ultimate-morgana-hat.json) |
