@@ -64,6 +64,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kabuto Park | 331929 | [331929-kabuto-park.json](./331929-kabuto-park.json) |
 | Kabuto Park + Minami Lane Bundle | 402427 | [402427-kabuto-park-minami-lane-bundle.json](./402427-kabuto-park-minami-lane-bundle.json) |
 | Kaby Arena | 182286 | [182286-kaby-arena.json](./182286-kaby-arena.json) |
+| Kabziman | 331278 | [331278-kabziman.json](./331278-kabziman.json) |
 | Kacau | 390811 | [390811-kacau.json](./390811-kacau.json) |
 | Kachinka | 421328 | [421328-kachinka.json](./421328-kachinka.json) |
 | Kachou Shima Kousaku: Super Business Adventure | 37969 | [37969-kachou-shima-kousaku-super-business-adventure.json](./37969-kachou-shima-kousaku-super-business-adventure.json) |
