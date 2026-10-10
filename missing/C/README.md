@@ -799,6 +799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candy Renovation | 301990 | [301990-candy-renovation.json](./301990-candy-renovation.json) |
 | Candy Scabs | 177508 | [177508-candy-scabs.json](./177508-candy-scabs.json) |
 | Candy Shake Cup | 283298 | [283298-candy-shake-cup.json](./283298-candy-shake-cup.json) |
+| Candy Ship | 297338 | [297338-candy-ship.json](./297338-candy-ship.json) |
 | Candy Shop Simulator: Sweet Start | 346682 | [346682-candy-shop-simulator-sweet-start.json](./346682-candy-shop-simulator-sweet-start.json) |
 | Candy Smash Factory | 96484 | [96484-candy-smash-factory.json](./96484-candy-smash-factory.json) |
 | Candy Snake Master | 83573 | [83573-candy-snake-master.json](./83573-candy-snake-master.json) |
@@ -1523,6 +1524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cargogo | 351260 | [351260-cargogo.json](./351260-cargogo.json) |
 | Cargor | 382415 | [382415-cargor.json](./382415-cargor.json) |
 | CargoRun | 237328 | [237328-cargorun.json](./237328-cargorun.json) |
+| Caribbean Crashers | 297326 | [297326-caribbean-crashers.json](./297326-caribbean-crashers.json) |
 | Caribbean Disaster | 74056 | [74056-caribbean-disaster.json](./74056-caribbean-disaster.json) |
 | Caribbean Jigsaw | 102892 | [102892-caribbean-jigsaw.json](./102892-caribbean-jigsaw.json) |
 | Caribbean Legend: Vile Little God | 337043 | [337043-caribbean-legend-vile-little-god.json](./337043-caribbean-legend-vile-little-god.json) |
@@ -4948,6 +4950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chronicles of Albian 2: The Wizbury School of Magic | 339644 | [339644-chronicles-of-albian-2-the-wizbury-school-of-magic.json](./339644-chronicles-of-albian-2-the-wizbury-school-of-magic.json) |
 | Chronicles of Albian: The Magic Convention | 232567 | [232567-chronicles-of-albian-the-magic-convention.json](./232567-chronicles-of-albian-the-magic-convention.json) |
 | Chronicles of Arcadia | 123541 | [123541-chronicles-of-arcadia.json](./123541-chronicles-of-arcadia.json) |
+| Chronicles Of Crystal: Turn-Basde Epoch | 297367 | [297367-chronicles-of-crystal-turn-basde-epoch.json](./297367-chronicles-of-crystal-turn-basde-epoch.json) |
 | Chronicles of cyberpunk | 75931 | [75931-chronicles-of-cyberpunk.json](./75931-chronicles-of-cyberpunk.json) |
 | Chronicles of Cyberpunk: Deep Sleep | 155499 | [155499-chronicles-of-cyberpunk-deep-sleep.json](./155499-chronicles-of-cyberpunk-deep-sleep.json) |
 | Chronicles of Elyria | 58484 | [58484-chronicles-of-elyria.json](./58484-chronicles-of-elyria.json) |
@@ -6698,6 +6701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Codename: Lovania | 384246 | [384246-codename-lovania.json](./384246-codename-lovania.json) |
 | Codename: Mystery Babylon | 157154 | [157154-codename-mystery-babylon.json](./157154-codename-mystery-babylon.json) |
 | Codename: Nanxiangzi | 288826 | [288826-codename-nanxiangzi.json](./288826-codename-nanxiangzi.json) |
+| Codename: Ocean Keeper | 297366 | [297366-codename-ocean-keeper.json](./297366-codename-ocean-keeper.json) |
 | Codename: Panzers - Cold War | 15762 | [15762-codename-panzers-cold-war.json](./15762-codename-panzers-cold-war.json) |
 | Codename: Panzers - Phase One | 640 | [640-codename-panzers-phase-one.json](./640-codename-panzers-phase-one.json) |
 | Codename: Rogue Fleet | 34446 | [34446-codename-rogue-fleet.json](./34446-codename-rogue-fleet.json) |
@@ -11552,6 +11556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CubicPanic | 98980 | [98980-cubicpanic.json](./98980-cubicpanic.json) |
 | Cubidle | 311473 | [311473-cubidle.json](./311473-cubidle.json) |
 | Cubie Adventure | 97967 | [97967-cubie-adventure.json](./97967-cubie-adventure.json) |
+| Cubieverse | 297339 | [297339-cubieverse.json](./297339-cubieverse.json) |
 | Cubified | 241451 | [241451-cubified.json](./241451-cubified.json) |
 | Cubik | 294301 | [294301-cubik.json](./294301-cubik.json) |
 | Cubikill | 341076 | [341076-cubikill.json](./341076-cubikill.json) |
