@@ -2504,6 +2504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ordesa | 364599 | [364599-ordesa.json](./364599-ordesa.json) |
 | Ordinary Day | 236418 | [236418-ordinary-day.json](./236418-ordinary-day.json) |
 | Ordinary Family | 126433 | [126433-ordinary-family.json](./126433-ordinary-family.json) |
+| Ordinary Stickman Goes For A Walk | 289245 | [289245-ordinary-stickman-goes-for-a-walk.json](./289245-ordinary-stickman-goes-for-a-walk.json) |
 | Ordinem | 114339 | [114339-ordinem.json](./114339-ordinem.json) |
 | Ore Dake no Idol: eye no Sainou | 194594 | [194594-ore-dake-no-idol-eye-no-sainou.json](./194594-ore-dake-no-idol-eye-no-sainou.json) |
 | Ore ga Konna ni Tsuyoi no mo Akira Maeda no Cracker | 280458 | [280458-ore-ga-konna-ni-tsuyoi-no-mo-akira-maeda-no-cracker.json](./280458-ore-ga-konna-ni-tsuyoi-no-mo-akira-maeda-no-cracker.json) |
@@ -3595,6 +3596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overwhelmed | 260712 | [260712-overwhelmed.json](./260712-overwhelmed.json) |
 | OverWing | 337291 | [337291-overwing.json](./337291-overwing.json) |
 | Overworked | 408180 | [408180-overworked.json](./408180-overworked.json) |
+| Overworked Alice | 289226 | [289226-overworked-alice.json](./289226-overworked-alice.json) |
 | Overworld | 139291 | [139291-overworld.json](./139291-overworld.json) |
 | Overwrite | 145926 | [145926-overwrite.json](./145926-overwrite.json) |
 | Overwritten: Defeat the Net | 224630 | [224630-overwritten-defeat-the-net.json](./224630-overwritten-defeat-the-net.json) |
