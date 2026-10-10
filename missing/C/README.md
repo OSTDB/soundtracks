@@ -4869,6 +4869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Christmas Rocket Pudding | 276851 | [276851-christmas-rocket-pudding.json](./276851-christmas-rocket-pudding.json) |
 | Christmas Runner | 276697 | [276697-christmas-runner.json](./276697-christmas-runner.json) |
 | Christmas Rush | 284971 | [284971-christmas-rush.json](./284971-christmas-rush.json) |
+| Christmas Seaman: Omoi o Tsutaeru Mou Hitotsu no Houhou | 283108 | [283108-christmas-seaman-omoi-o-tsutaeru-mou-hitotsu-no-houhou.json](./283108-christmas-seaman-omoi-o-tsutaeru-mou-hitotsu-no-houhou.json) |
 | Christmas Shooter | 213309 | [213309-christmas-shooter.json](./213309-christmas-shooter.json) |
 | Christmas Shopper Simulator | 137466 | [137466-christmas-shopper-simulator.json](./137466-christmas-shopper-simulator.json) |
 | Christmas Smash | 400469 | [400469-christmas-smash.json](./400469-christmas-smash.json) |
@@ -8960,6 +8961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corsairs: Conquest at Sea | 10107 | [10107-corsairs-conquest-at-sea.json](./10107-corsairs-conquest-at-sea.json) |
 | Corsairs: The New Conquerors | 11048 | [11048-corsairs-the-new-conquerors.json](./11048-corsairs-the-new-conquerors.json) |
 | CorsixTH | 127904 | [127904-corsixth.json](./127904-corsixth.json) |
+| Cortex Chaos | 283098 | [283098-cortex-chaos.json](./283098-cortex-chaos.json) |
 | Cortex Chronicles 1: The Trial of Rowan Reed | 290987 | [290987-cortex-chronicles-1-the-trial-of-rowan-reed.json](./290987-cortex-chronicles-1-the-trial-of-rowan-reed.json) |
 | Cortex Chronicles 2: The Ride of Jax Riven | 290988 | [290988-cortex-chronicles-2-the-ride-of-jax-riven.json](./290988-cortex-chronicles-2-the-ride-of-jax-riven.json) |
 | Cortex Chronicles 3: The Escape of Rowan Reed | 290989 | [290989-cortex-chronicles-3-the-escape-of-rowan-reed.json](./290989-cortex-chronicles-3-the-escape-of-rowan-reed.json) |
