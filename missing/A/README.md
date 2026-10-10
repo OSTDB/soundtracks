@@ -5534,6 +5534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Andarigas | 132767 | [132767-andarigas.json](./132767-andarigas.json) |
 | Andarilho | 33289 | [33289-andarilho.json](./33289-andarilho.json) |
 | Andarin Weppes | 257888 | [257888-andarin-weppes.json](./257888-andarin-weppes.json) |
+| Andarin Weppes: Pre-Dementia | 289811 | [289811-andarin-weppes-pre-dementia.json](./289811-andarin-weppes-pre-dementia.json) |
 | AnderKant | 367493 | [367493-anderkant.json](./367493-anderkant.json) |
 | AnderKant 2 | 326243 | [326243-anderkant-2.json](./326243-anderkant-2.json) |
 | AnderKant 4 | 339935 | [339935-anderkant-4.json](./339935-anderkant-4.json) |
@@ -8001,6 +8002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arena Returns | 351798 | [351798-arena-returns.json](./351798-arena-returns.json) |
 | Arena Runner | 92817 | [92817-arena-runner.json](./92817-arena-runner.json) |
 | Arena Story: Rouge And Princess Knight | 239792 | [239792-arena-story-rouge-and-princess-knight.json](./239792-arena-story-rouge-and-princess-knight.json) |
+| Arena Survivors | 289796 | [289796-arena-survivors.json](./289796-arena-survivors.json) |
 | Arena Titans | 94789 | [94789-arena-titans.json](./94789-arena-titans.json) |
 | Arena Warrior | 325022 | [325022-arena-warrior.json](./325022-arena-warrior.json) |
 | Arena Wars Reloaded | 73493 | [73493-arena-wars-reloaded.json](./73493-arena-wars-reloaded.json) |
