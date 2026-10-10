@@ -7038,6 +7038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dogotchi: Virtual Pet - Deluxe Edition | 256265 | [256265-dogotchi-virtual-pet-deluxe-edition.json](./256265-dogotchi-virtual-pet-deluxe-edition.json) |
 | Dogou Souken | 40104 | [40104-dogou-souken.json](./40104-dogou-souken.json) |
 | DogPunk | 391750 | [391750-dogpunk.json](./391750-dogpunk.json) |
+| Dogs | 311240 | [311240-dogs.json](./311240-dogs.json) |
 | Dogs Cyberpuzzle | 203949 | [203949-dogs-cyberpuzzle.json](./203949-dogs-cyberpuzzle.json) |
 | Dogs Day | 238555 | [238555-dogs-day.json](./238555-dogs-day.json) |
 | Dogs of the Dark | 265678 | [265678-dogs-of-the-dark.json](./265678-dogs-of-the-dark.json) |
@@ -7063,6 +7064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dojagi: The Korean Pottery | 112371 | [112371-dojagi-the-korean-pottery.json](./112371-dojagi-the-korean-pottery.json) |
 | Dojini | 108041 | [108041-dojini.json](./108041-dojini.json) |
 | Dojo Assault | 249847 | [249847-dojo-assault.json](./249847-dojo-assault.json) |
+| Dojo City | 311155 | [311155-dojo-city.json](./311155-dojo-city.json) |
 | Dojo Corridor | 147350 | [147350-dojo-corridor.json](./147350-dojo-corridor.json) |
 | Doka 2 Trade | 126439 | [126439-doka-2-trade.json](./126439-doka-2-trade.json) |
 | Doka 2: Guts Out Ninja | 114386 | [114386-doka-2-guts-out-ninja.json](./114386-doka-2-guts-out-ninja.json) |
@@ -8440,6 +8442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr Scrime's Spook School | 13607 | [13607-dr-scrimes-spook-school.json](./13607-dr-scrimes-spook-school.json) |
 | Dr Smart Space Encyclopedia | 242046 | [242046-dr-smart-space-encyclopedia.json](./242046-dr-smart-space-encyclopedia.json) |
 | Dr. Awesome, MicroSurgeon M.D. | 70567 | [70567-dr-awesome-microsurgeon-m-d.json](./70567-dr-awesome-microsurgeon-m-d.json) |
+| Dr. Bloodshot | 311041 | [311041-dr-bloodshot.json](./311041-dr-bloodshot.json) |
 | Dr. Bon Bon Puzzle | 229346 | [229346-dr-bon-bon-puzzle.json](./229346-dr-bon-bon-puzzle.json) |
 | Dr. Bowlatzo's Crazy Bowling | 413498 | [413498-dr-bowlatzos-crazy-bowling.json](./413498-dr-bowlatzos-crazy-bowling.json) |
 | Dr. Brain Thinking Games IQ Adventures | 72726 | [72726-dr-brain-thinking-games-iq-adventures.json](./72726-dr-brain-thinking-games-iq-adventures.json) |
