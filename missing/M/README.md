@@ -6102,6 +6102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metaplace | 78077 | [78077-metaplace.json](./78077-metaplace.json) |
 | Metarun | 234754 | [234754-metarun.json](./234754-metarun.json) |
 | MetaShooter | 211673 | [211673-metashooter.json](./211673-metashooter.json) |
+| MetaSoul | 296764 | [296764-metasoul.json](./296764-metasoul.json) |
 | Metasweeper | 217352 | [217352-metasweeper.json](./217352-metasweeper.json) |
 | Metathrone | 173771 | [173771-metathrone.json](./173771-metathrone.json) |
 | MetaTron | 33213 | [33213-metatron.json](./33213-metatron.json) |
@@ -8948,6 +8949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Modern War by Gree | 39186 | [39186-modern-war-by-gree.json](./39186-modern-war-by-gree.json) |
 | Modern War Simulator: Advance Under Air Raid | 169448 | [169448-modern-war-simulator-advance-under-air-raid.json](./169448-modern-war-simulator-advance-under-air-raid.json) |
 | Modern Warplanes | 193818 | [193818-modern-warplanes.json](./193818-modern-warplanes.json) |
+| Modern Warplanes Sky Fighters | 296770 | [296770-modern-warplanes-sky-fighters.json](./296770-modern-warplanes-sky-fighters.json) |
 | Modern Warrior Special Tactics | 54232 | [54232-modern-warrior-special-tactics.json](./54232-modern-warrior-special-tactics.json) |
 | Modern Warships: Sea Battle Online | 174797 | [174797-modern-warships-sea-battle-online.json](./174797-modern-warships-sea-battle-online.json) |
 | Modern Zombie | 24943 | [24943-modern-zombie.json](./24943-modern-zombie.json) |
