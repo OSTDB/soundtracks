@@ -6803,6 +6803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gym Simulator 26 | 397070 | [397070-gym-simulator-26.json](./397070-gym-simulator-26.json) |
 | Gymnastics Girl | 90349 | [90349-gymnastics-girl.json](./90349-gymnastics-girl.json) |
 | Gynogenesis: The Next Day | 256899 | [256899-gynogenesis-the-next-day.json](./256899-gynogenesis-the-next-day.json) |
+| Gynotai | 319866 | [319866-gynotai.json](./319866-gynotai.json) |
 | Gyossait | 42684 | [42684-gyossait.json](./42684-gyossait.json) |
 | Gyossait: Deluxe Edition | 134001 | [134001-gyossait-deluxe-edition.json](./134001-gyossait-deluxe-edition.json) |
 | Gyousatsu! Spirits: Final Version | 137598 | [137598-gyousatsu-spirits-final-version.json](./137598-gyousatsu-spirits-final-version.json) |
