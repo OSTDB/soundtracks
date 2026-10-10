@@ -5923,6 +5923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Claustrophobic Nights | 267548 | [267548-claustrophobic-nights.json](./267548-claustrophobic-nights.json) |
 | ClaustrophobicCrypt | 311504 | [311504-claustrophobiccrypt.json](./311504-claustrophobiccrypt.json) |
 | Claustrum | 414597 | [414597-claustrum.json](./414597-claustrum.json) |
+| Clavis Kinkygate: Treasure of Danau River | 294033 | [294033-clavis-kinkygate-treasure-of-danau-river.json](./294033-clavis-kinkygate-treasure-of-danau-river.json) |
 | Claw | 176853 | [176853-claw.json](./176853-claw.json) |
 | Claw | 2474 | [2474-claw.json](./2474-claw.json) |
 | Claw Breaker | 105290 | [105290-claw-breaker.json](./105290-claw-breaker.json) |
@@ -7698,6 +7699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Commander Keen: Keen Meets the Meats | 313968 | [313968-commander-keen-keen-meets-the-meats.json](./313968-commander-keen-keen-meets-the-meats.json) |
 | Commander Keen: The Keys of Krodacia | 288345 | [288345-commander-keen-the-keys-of-krodacia.json](./288345-commander-keen-the-keys-of-krodacia.json) |
 | Commander of Battlefront | 333941 | [333941-commander-of-battlefront.json](./333941-commander-of-battlefront.json) |
+| Commander Quest | 294032 | [294032-commander-quest.json](./294032-commander-quest.json) |
 | Commander Tiberius Troubleson | 244340 | [244340-commander-tiberius-troubleson.json](./244340-commander-tiberius-troubleson.json) |
 | Commander: Conquest of the Americas - Colonial Navy | 170860 | [170860-commander-conquest-of-the-americas-colonial-navy.json](./170860-commander-conquest-of-the-americas-colonial-navy.json) |
 | Commander: Europe at War | 324929 | [324929-commander-europe-at-war.json](./324929-commander-europe-at-war.json) |
@@ -11063,6 +11065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crush | 102296 | [102296-crush.json](./102296-crush.json) |
 | Crush | 6753 | [6753-crush.json](./6753-crush.json) |
 | Crush & Squash | 75805 | [75805-crush-and-squash.json](./75805-crush-and-squash.json) |
+| Crush at First Sight | 294068 | [294068-crush-at-first-sight.json](./294068-crush-at-first-sight.json) |
 | Crush Beats: Club Candy | 96763 | [96763-crush-beats-club-candy.json](./96763-crush-beats-club-candy.json) |
 | Crush Crush | 187865 | [187865-crush-crush.json](./187865-crush-crush.json) |
 | Crush Crush: - 18+ Naughty | 279778 | [279778-crush-crush-18-naughty.json](./279778-crush-crush-18-naughty.json) |
@@ -12248,6 +12251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Sensation: MicroLife | 351631 | [351631-cyber-sensation-microlife.json](./351631-cyber-sensation-microlife.json) |
 | Cyber Sentinel | 352329 | [352329-cyber-sentinel.json](./352329-cyber-sentinel.json) |
 | Cyber Seraph | 140447 | [140447-cyber-seraph.json](./140447-cyber-seraph.json) |
+| Cyber Sex | 294054 | [294054-cyber-sex.json](./294054-cyber-sex.json) |
 | Cyber Shard Clicker | 374205 | [374205-cyber-shard-clicker.json](./374205-cyber-shard-clicker.json) |
 | Cyber Slayer | 219672 | [219672-cyber-slayer.json](./219672-cyber-slayer.json) |
 | Cyber Sled | 20626 | [20626-cyber-sled.json](./20626-cyber-sled.json) |
