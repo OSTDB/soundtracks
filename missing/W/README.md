@@ -391,6 +391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wanderer | 95426 | [95426-wanderer.json](./95426-wanderer.json) |
 | Wanderer 2: The Seas of Fortune | 305549 | [305549-wanderer-2-the-seas-of-fortune.json](./305549-wanderer-2-the-seas-of-fortune.json) |
 | Wanderer: Broken Bed | 260327 | [260327-wanderer-broken-bed.json](./260327-wanderer-broken-bed.json) |
+| Wanderer's Guide to Ocean and Islands | 300486 | [300486-wanderers-guide-to-ocean-and-islands.json](./300486-wanderers-guide-to-ocean-and-islands.json) |
 | Wanderer's Shade | 310183 | [310183-wanderers-shade.json](./310183-wanderers-shade.json) |
 | Wanderers | 185030 | [185030-wanderers.json](./185030-wanderers.json) |
 | Wanderers | 377158 | [377158-wanderers.json](./377158-wanderers.json) |
