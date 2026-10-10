@@ -4420,6 +4420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shake Kids | 108959 | [108959-shake-kids.json](./108959-shake-kids.json) |
 | Shake the Baby! | 337068 | [337068-shake-the-baby.json](./337068-shake-the-baby.json) |
 | Shake Your Body | 128317 | [128317-shake-your-body.json](./128317-shake-your-body.json) |
+| Shakedown Rally | 287031 | [287031-shakedown-rally.json](./287031-shakedown-rally.json) |
 | Shakes and Fidget Remastered | 112346 | [112346-shakes-and-fidget-remastered.json](./112346-shakes-and-fidget-remastered.json) |
 | Shaki Shaki Island | 327409 | [327409-shaki-shaki-island.json](./327409-shaki-shaki-island.json) |
 | Shakugan no Shana | 72686 | [72686-shakugan-no-shana.json](./72686-shakugan-no-shana.json) |
@@ -5205,6 +5206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ShineG in the Bullethell | 36498 | [36498-shineg-in-the-bullethell.json](./36498-shineg-in-the-bullethell.json) |
 | Shinehill | 245912 | [245912-shinehill.json](./245912-shinehill.json) |
 | Shines Over | 184589 | [184589-shines-over.json](./184589-shines-over.json) |
+| Shines Over: The Damned | 287034 | [287034-shines-over-the-damned.json](./287034-shines-over-the-damned.json) |
 | Shing!: Limited Edition | 222951 | [222951-shing-limited-edition.json](./222951-shing-limited-edition.json) |
 | Shingakkou Banchou | 330276 | [330276-shingakkou-banchou.json](./330276-shingakkou-banchou.json) |
 | Shingakkou The Gift | 330274 | [330274-shingakkou-the-gift.json](./330274-shingakkou-the-gift.json) |
@@ -10538,6 +10540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic & Knuckles: Newtrogic Panic | 326151 | [326151-sonic-and-knuckles-newtrogic-panic.json](./326151-sonic-and-knuckles-newtrogic-panic.json) |
 | Sonic & Sega All-Stars Racing | 200966 | [200966-sonic-and-sega-all-stars-racing.json](./200966-sonic-and-sega-all-stars-racing.json) |
 | Sonic & Sega All-Stars Racing | 287012 | [287012-sonic-and-sega-all-stars-racing.json](./287012-sonic-and-sega-all-stars-racing.json) |
+| Sonic & Sega All-Stars Racing | 287013 | [287013-sonic-and-sega-all-stars-racing.json](./287013-sonic-and-sega-all-stars-racing.json) |
 | Sonic & Sega All-Stars Racing Arcade | 280800 | [280800-sonic-and-sega-all-stars-racing-arcade.json](./280800-sonic-and-sega-all-stars-racing-arcade.json) |
 | Sonic & Shadow | 330516 | [330516-sonic-and-shadow.json](./330516-sonic-and-shadow.json) |
 | Sonic & Shadow | 336350 | [336350-sonic-and-shadow.json](./336350-sonic-and-shadow.json) |
@@ -11695,6 +11698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sounds of Verity | 89938 | [89938-sounds-of-verity.json](./89938-sounds-of-verity.json) |
 | Sounds of War | 297351 | [297351-sounds-of-war.json](./297351-sounds-of-war.json) |
 | Soundsaber | 184660 | [184660-soundsaber.json](./184660-soundsaber.json) |
+| Soundscape | 286996 | [286996-soundscape.json](./286996-soundscape.json) |
 | Soundscape | 330756 | [330756-soundscape.json](./330756-soundscape.json) |
 | Soundscape VR | 28879 | [28879-soundscape-vr.json](./28879-soundscape-vr.json) |
 | SoundSelf | 61869 | [61869-soundself.json](./61869-soundself.json) |
@@ -13244,6 +13248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spellslinger Towns | 295335 | [295335-spellslinger-towns.json](./295335-spellslinger-towns.json) |
 | Spellsouls - Duel of Legends | 26908 | [26908-spellsouls-duel-of-legends.json](./26908-spellsouls-duel-of-legends.json) |
 | Spellstone | 26794 | [26794-spellstone.json](./26794-spellstone.json) |
+| Spellstrife | 287043 | [287043-spellstrife.json](./287043-spellstrife.json) |
 | Spellsword | 19905 | [19905-spellsword.json](./19905-spellsword.json) |
 | Spellsword | 259262 | [259262-spellsword.json](./259262-spellsword.json) |
 | Spellsword Cards: Origins | 118104 | [118104-spellsword-cards-origins.json](./118104-spellsword-cards-origins.json) |
@@ -18912,6 +18917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Arcade Soccer | 115136 | [115136-super-arcade-soccer.json](./115136-super-arcade-soccer.json) |
 | Super Arcade Soccer 2026 | 405743 | [405743-super-arcade-soccer-2026.json](./405743-super-arcade-soccer-2026.json) |
 | Super Army of Tentacles 3: The Search for Army of Tentacles 2 - Isle of the Cat Girls | 225902 | [225902-super-army-of-tentacles-3-the-search-for-army-of-tentacles-2-isle-of-the-cat-girls.json](./225902-super-army-of-tentacles-3-the-search-for-army-of-tentacles-2-isle-of-the-cat-girls.json) |
+| Super Arter | 287022 | [287022-super-arter.json](./287022-super-arter.json) |
 | Super Artificial Intelligence Psike | 216871 | [216871-super-artificial-intelligence-psike.json](./216871-super-artificial-intelligence-psike.json) |
 | Super Asqr | 199370 | [199370-super-asqr.json](./199370-super-asqr.json) |
 | Super Assfuck RPG | 282096 | [282096-super-assfuck-rpg.json](./282096-super-assfuck-rpg.json) |
