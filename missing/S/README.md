@@ -3300,6 +3300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sen.Tur. | 166043 | [166043-sen-tur.json](./166043-sen-tur.json) |
 | Senalux: Level Pack 3 | 168755 | [168755-senalux-level-pack-3.json](./168755-senalux-level-pack-3.json) |
 | Senalux: Level Pack 4 | 168756 | [168756-senalux-level-pack-4.json](./168756-senalux-level-pack-4.json) |
+| Senbazuru | 288681 | [288681-senbazuru.json](./288681-senbazuru.json) |
 | Send & Defend | 421335 | [421335-send-and-defend.json](./421335-send-and-defend.json) |
 | Send In The Vampires | 386344 | [386344-send-in-the-vampires.json](./386344-send-in-the-vampires.json) |
 | Send It: The Game | 277833 | [277833-send-it-the-game.json](./277833-send-it-the-game.json) |
@@ -8588,6 +8589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slumber | 191202 | [191202-slumber.json](./191202-slumber.json) |
 | Slumber Party | 176925 | [176925-slumber-party.json](./176925-slumber-party.json) |
 | Slumberfish! | 243954 | [243954-slumberfish.json](./243954-slumberfish.json) |
+| Slumberfish!: Catching Z's | 288677 | [288677-slumberfish-catching-zs.json](./288677-slumberfish-catching-zs.json) |
 | Slums of Tetsoidea | 186820 | [186820-slums-of-tetsoidea.json](./186820-slums-of-tetsoidea.json) |
 | Slurpee x Tetris Handheld Game | 365005 | [365005-slurpee-x-tetris-handheld-game.json](./365005-slurpee-x-tetris-handheld-game.json) |
 | Slurpy | 25712 | [25712-slurpy.json](./25712-slurpy.json) |
@@ -9190,6 +9192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snap Together | 276956 | [276956-snap-together.json](./276956-snap-together.json) |
 | Snap Together: New Challenges | 283243 | [283243-snap-together-new-challenges.json](./283243-snap-together-new-challenges.json) |
 | Snap Together: New Challenges | 283257 | [283257-snap-together-new-challenges.json](./283257-snap-together-new-challenges.json) |
+| Snap-A-Game: Classic RPG | 288680 | [288680-snap-a-game-classic-rpg.json](./288680-snap-a-game-classic-rpg.json) |
 | Snap! A Cerrado Adventure | 282117 | [282117-snap-a-cerrado-adventure.json](./282117-snap-a-cerrado-adventure.json) |
 | SnaPaul | 332828 | [332828-snapaul.json](./332828-snapaul.json) |
 | SnapCat: Mia's Cozy Adventure | 381802 | [381802-snapcat-mias-cozy-adventure.json](./381802-snapcat-mias-cozy-adventure.json) |
@@ -14433,6 +14436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squeeballs Party | 21213 | [21213-squeeballs-party.json](./21213-squeeballs-party.json) |
 | Squeek, the meek | 184974 | [184974-squeek-the-meek.json](./184974-squeek-the-meek.json) |
 | Squeen's Adventure 3: Across The Cosmos | 242255 | [242255-squeens-adventure-3-across-the-cosmos.json](./242255-squeens-adventure-3-across-the-cosmos.json) |
+| Squeen's Adventure: Definitive Edition | 288684 | [288684-squeens-adventure-definitive-edition.json](./288684-squeens-adventure-definitive-edition.json) |
 | Squeeze | 344987 | [344987-squeeze.json](./344987-squeeze.json) |
 | Squeeze Box | 22802 | [22802-squeeze-box.json](./22802-squeeze-box.json) |
 | Squeezils | 206708 | [206708-squeezils.json](./206708-squeezils.json) |
@@ -20059,6 +20063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Monkey Ball: Banana Rumble - Godzilla | 322748 | [322748-super-monkey-ball-banana-rumble-godzilla.json](./322748-super-monkey-ball-banana-rumble-godzilla.json) |
 | Super Monkey Ball: Banana Rumble - Hatsune Miku | 322749 | [322749-super-monkey-ball-banana-rumble-hatsune-miku.json](./322749-super-monkey-ball-banana-rumble-hatsune-miku.json) |
 | Super Monkey Ball: Banana Rumble - Knuckles | 309080 | [309080-super-monkey-ball-banana-rumble-knuckles.json](./309080-super-monkey-ball-banana-rumble-knuckles.json) |
+| Super Monkey Ball: Banana Rumble - Launch Edition | 288656 | [288656-super-monkey-ball-banana-rumble-launch-edition.json](./288656-super-monkey-ball-banana-rumble-launch-edition.json) |
 | Super Monkey Ball: Banana Rumble - Sonic | 310655 | [310655-super-monkey-ball-banana-rumble-sonic.json](./310655-super-monkey-ball-banana-rumble-sonic.json) |
 | Super Monkey Ball: Banana Rumble - Sonic and Shadow Skins | 317963 | [317963-super-monkey-ball-banana-rumble-sonic-and-shadow-skins.json](./317963-super-monkey-ball-banana-rumble-sonic-and-shadow-skins.json) |
 | Super Monkey Ball: Banana Rumble - Tails | 309068 | [309068-super-monkey-ball-banana-rumble-tails.json](./309068-super-monkey-ball-banana-rumble-tails.json) |
