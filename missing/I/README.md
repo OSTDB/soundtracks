@@ -1358,6 +1358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Illumina Girls | 222937 | [222937-illumina-girls.json](./222937-illumina-girls.json) |
 | Illuminaria | 180285 | [180285-illuminaria.json](./180285-illuminaria.json) |
 | Illuminate Frame | 267457 | [267457-illuminate-frame.json](./267457-illuminate-frame.json) |
+| Illuminati Online | 304837 | [304837-illuminati-online.json](./304837-illuminati-online.json) |
 | illuminati Simulator VR | 156142 | [156142-illuminati-simulator-vr.json](./156142-illuminati-simulator-vr.json) |
 | Illuminator | 243937 | [243937-illuminator.json](./243937-illuminator.json) |
 | Illuminum | 343923 | [343923-illuminum.json](./343923-illuminum.json) |
