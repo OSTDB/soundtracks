@@ -1488,6 +1488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Faria: Ghosts of the Stream | 32149 | [32149-faria-ghosts-of-the-stream.json](./32149-faria-ghosts-of-the-stream.json) |
 | Faria: Starfall | 59249 | [59249-faria-starfall.json](./59249-faria-starfall.json) |
 | Farjius no Jakoutei: Neo Metal Fantasy | 69862 | [69862-farjius-no-jakoutei-neo-metal-fantasy.json](./69862-farjius-no-jakoutei-neo-metal-fantasy.json) |
+| Farkas: the Last Redhaft | 301088 | [301088-farkas-the-last-redhaft.json](./301088-farkas-the-last-redhaft.json) |
 | Farkle King | 243745 | [243745-farkle-king.json](./243745-farkle-king.json) |
 | Farkle with Friends | 338774 | [338774-farkle-with-friends.json](./338774-farkle-with-friends.json) |
 | Farland Saga | 80838 | [80838-farland-saga.json](./80838-farland-saga.json) |
