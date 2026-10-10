@@ -154,6 +154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Machinika Museum | 163777 | [163777-machinika-museum.json](./163777-machinika-museum.json) |
 | Machiteba Tengoku! Makereba Jigoku! Ryoutsuryuu Ikkakusenkin Daisakusen! | 269588 | [269588-machiteba-tengoku-makereba-jigoku-ryoutsuryuu-ikkakusenkin-daisakusen.json](./269588-machiteba-tengoku-makereba-jigoku-ryoutsuryuu-ikkakusenkin-daisakusen.json) |
 | Machizzle | 139478 | [139478-machizzle.json](./139478-machizzle.json) |
+| Macho Scooping | 291908 | [291908-macho-scooping.json](./291908-macho-scooping.json) |
 | Macho Spinner | 270176 | [270176-macho-spinner.json](./270176-macho-spinner.json) |
 | MachRace | 32865 | [32865-machrace.json](./32865-machrace.json) |
 | Macis | 307068 | [307068-macis.json](./307068-macis.json) |
@@ -3028,6 +3029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mary's Quest | 385338 | [385338-marys-quest.json](./385338-marys-quest.json) |
 | MaryPark St. | 138666 | [138666-marypark-st.json](./138666-marypark-st.json) |
 | MarZ: Tactical Base Defense | 55408 | [55408-marz-tactical-base-defense.json](./55408-marz-tactical-base-defense.json) |
+| Marzia Lost In Space | 291868 | [291868-marzia-lost-in-space.json](./291868-marzia-lost-in-space.json) |
 | Marzu | 389584 | [389584-marzu.json](./389584-marzu.json) |
 | Masackra | 389692 | [389692-masackra.json](./389692-masackra.json) |
 | Masagoro | 153826 | [153826-masagoro.json](./153826-masagoro.json) |
@@ -3655,6 +3657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maven | 92856 | [92856-maven.json](./92856-maven.json) |
 | Maverick Bird | 62172 | [62172-maverick-bird.json](./62172-maverick-bird.json) |
 | Maverick Gunn and the Eye of Oggun | 170347 | [170347-maverick-gunn-and-the-eye-of-oggun.json](./170347-maverick-gunn-and-the-eye-of-oggun.json) |
+| Maverick Hunter | 291917 | [291917-maverick-hunter.json](./291917-maverick-hunter.json) |
 | Mavericks | 349802 | [349802-mavericks.json](./349802-mavericks.json) |
 | Maverta Island | 186844 | [186844-maverta-island.json](./186844-maverta-island.json) |
 | Mavis Beacon Teaches Typing Version 8 | 209541 | [209541-mavis-beacon-teaches-typing-version-8.json](./209541-mavis-beacon-teaches-typing-version-8.json) |
@@ -3774,6 +3777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maya Adventure | 235232 | [235232-maya-adventure.json](./235232-maya-adventure.json) |
 | Maya Fey: Medium Attorney | 309971 | [309971-maya-fey-medium-attorney.json](./309971-maya-fey-medium-attorney.json) |
 | Maya Fey's Borger Eating Simulator | 302645 | [302645-maya-feys-borger-eating-simulator.json](./302645-maya-feys-borger-eating-simulator.json) |
+| Maya Prophecy | 291913 | [291913-maya-prophecy.json](./291913-maya-prophecy.json) |
 | Maya the Bee: Sweet Gold | 49328 | [49328-maya-the-bee-sweet-gold.json](./49328-maya-the-bee-sweet-gold.json) |
 | Maya the Bee: The Great Adventure | 49327 | [49327-maya-the-bee-the-great-adventure.json](./49327-maya-the-bee-the-great-adventure.json) |
 | Maya the Bee: What a Thunderstorm | 71035 | [71035-maya-the-bee-what-a-thunderstorm.json](./71035-maya-the-bee-what-a-thunderstorm.json) |
@@ -6482,6 +6486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Micro Scooter Challenge | 209025 | [209025-micro-scooter-challenge.json](./209025-micro-scooter-challenge.json) |
 | Micro Slaughter Community Project | 221847 | [221847-micro-slaughter-community-project.json](./221847-micro-slaughter-community-project.json) |
 | Micro Smash | 220184 | [220184-micro-smash.json](./220184-micro-smash.json) |
+| Micro Stream RPG | 291907 | [291907-micro-stream-rpg.json](./291907-micro-stream-rpg.json) |
 | Micro Stunt Machina | 195485 | [195485-micro-stunt-machina.json](./195485-micro-stunt-machina.json) |
 | Micro Vendor Adventures | 110796 | [110796-micro-vendor-adventures.json](./110796-micro-vendor-adventures.json) |
 | Micro Wars | 314450 | [314450-micro-wars.json](./314450-micro-wars.json) |
@@ -7035,6 +7040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mika "Dumper" Spin | 91351 | [91351-mika-dumper-spin.json](./91351-mika-dumper-spin.json) |
 | Mika and the Witch's Mountain | 195098 | [195098-mika-and-the-witchs-mountain.json](./195098-mika-and-the-witchs-mountain.json) |
 | Mika Dozer Spin | 90693 | [90693-mika-dozer-spin.json](./90693-mika-dozer-spin.json) |
+| Mika's Battle S | 291893 | [291893-mikas-battle-s.json](./291893-mikas-battle-s.json) |
 | Mikagami Sumika No Seifuku Katsudou | 147446 | [147446-mikagami-sumika-no-seifuku-katsudou.json](./147446-mikagami-sumika-no-seifuku-katsudou.json) |
 | Mikagura Shoujo Tanteidan | 60575 | [60575-mikagura-shoujo-tanteidan.json](./60575-mikagura-shoujo-tanteidan.json) |
 | Mikaira (Archived) | 391701 | [391701-mikaira-archived.json](./391701-mikaira-archived.json) |
