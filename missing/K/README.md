@@ -3219,6 +3219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Konsui Fighter | 105555 | [105555-konsui-fighter.json](./105555-konsui-fighter.json) |
 | Kontra | 238396 | [238396-kontra.json](./238396-kontra.json) |
 | Konung 1 + 2 | 153008 | [153008-konung-1-2.json](./153008-konung-1-2.json) |
+| Koodbool | 308448 | [308448-koodbool.json](./308448-koodbool.json) |
 | Kook | 245829 | [245829-kook.json](./245829-kook.json) |
 | Kooka Bonga | 307215 | [307215-kooka-bonga.json](./307215-kooka-bonga.json) |
 | Kooky Kids Fort Defense | 255958 | [255958-kooky-kids-fort-defense.json](./255958-kooky-kids-fort-defense.json) |
