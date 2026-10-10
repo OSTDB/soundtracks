@@ -1142,6 +1142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Random Thing Game | 236278 | [236278-random-thing-game.json](./236278-random-thing-game.json) |
 | Random War | 118807 | [118807-random-war.json](./118807-random-war.json) |
 | Randomax | 319752 | [319752-randomax.json](./319752-randomax.json) |
+| Randomice | 294044 | [294044-randomice.json](./294044-randomice.json) |
 | RandoMine | 221098 | [221098-randomine.json](./221098-randomine.json) |
 | Randomish | 217400 | [217400-randomish.json](./217400-randomish.json) |
 | Randomlands | 156602 | [156602-randomlands.json](./156602-randomlands.json) |
@@ -3831,6 +3832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Return to Mysterious Island | 17052 | [17052-return-to-mysterious-island.json](./17052-return-to-mysterious-island.json) |
 | Return to Mysterious Island 2 | 17058 | [17058-return-to-mysterious-island-2.json](./17058-return-to-mysterious-island-2.json) |
 | Return to Nangrim | 116280 | [116280-return-to-nangrim.json](./116280-return-to-nangrim.json) |
+| Return to Paradise | 294066 | [294066-return-to-paradise.json](./294066-return-to-paradise.json) |
 | Return to Pirate's Isle | 18527 | [18527-return-to-pirates-isle.json](./18527-return-to-pirates-isle.json) |
 | Return to PopoloCrois: A Story of Seasons Fairytale | 11005 | [11005-return-to-popolocrois-a-story-of-seasons-fairytale.json](./11005-return-to-popolocrois-a-story-of-seasons-fairytale.json) |
 | Return to Ravenholm | 237522 | [237522-return-to-ravenholm.json](./237522-return-to-ravenholm.json) |
@@ -7382,6 +7384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rules! | 80537 | [80537-rules.json](./80537-rules.json) |
 | Ruling Horsestown | 357858 | [357858-ruling-horsestown.json](./357858-ruling-horsestown.json) |
 | Rum N' Gold Royale | 306376 | [306376-rum-n-gold-royale.json](./306376-rum-n-gold-royale.json) |
+| Rum Skulls | 294063 | [294063-rum-skulls.json](./294063-rum-skulls.json) |
 | Ruma | 274210 | [274210-ruma.json](./274210-ruma.json) |
 | Rumblade | 109269 | [109269-rumblade.json](./109269-rumblade.json) |
 | Rumble | 34287 | [34287-rumble.json](./34287-rumble.json) |
