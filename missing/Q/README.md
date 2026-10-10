@@ -507,6 +507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quest 64 "French Vanilla" | 248305 | [248305-quest-64-french-vanilla.json](./248305-quest-64-french-vanilla.json) |
 | Quest Adventure | 133444 | [133444-quest-adventure.json](./133444-quest-adventure.json) |
 | Quest Eternal | 290954 | [290954-quest-eternal.json](./290954-quest-eternal.json) |
+| Quest for Camelot | 307793 | [307793-quest-for-camelot.json](./307793-quest-for-camelot.json) |
 | Quest for Camelot: Dragon Games | 320992 | [320992-quest-for-camelot-dragon-games.json](./320992-quest-for-camelot-dragon-games.json) |
 | Quest for Cathay Kingdom Mah Jong | 367446 | [367446-quest-for-cathay-kingdom-mah-jong.json](./367446-quest-for-cathay-kingdom-mah-jong.json) |
 | Quest for Choices: Ivan's Tale - Chapter 0+1 | 392393 | [392393-quest-for-choices-ivans-tale-chapter-0-1.json](./392393-quest-for-choices-ivans-tale-chapter-0-1.json) |
