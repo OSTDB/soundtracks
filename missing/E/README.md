@@ -1221,6 +1221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eldorado Gate Volume 4 | 5556 | [5556-eldorado-gate-volume-4.json](./5556-eldorado-gate-volume-4.json) |
 | Eldorado Gate Volume 5 | 5557 | [5557-eldorado-gate-volume-5.json](./5557-eldorado-gate-volume-5.json) |
 | Eldorado Gate Volume 7 | 5558 | [5558-eldorado-gate-volume-7.json](./5558-eldorado-gate-volume-7.json) |
+| Eldorante | 297889 | [297889-eldorante.json](./297889-eldorante.json) |
 | Eldoria: The Cursed Crown | 310758 | [310758-eldoria-the-cursed-crown.json](./310758-eldoria-the-cursed-crown.json) |
 | Eldorion: Guardians of the Crystals | 346604 | [346604-eldorion-guardians-of-the-crystals.json](./346604-eldorion-guardians-of-the-crystals.json) |
 | Eldr Legacy | 102881 | [102881-eldr-legacy.json](./102881-eldr-legacy.json) |
@@ -1510,6 +1511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elfmania | 12062 | [12062-elfmania.json](./12062-elfmania.json) |
 | ElfMiner | 360612 | [360612-elfminer.json](./360612-elfminer.json) |
 | Elfo: Rescue Craby | 322345 | [322345-elfo-rescue-craby.json](./322345-elfo-rescue-craby.json) |
+| Elfscape: Ancestors | 297923 | [297923-elfscape-ancestors.json](./297923-elfscape-ancestors.json) |
 | Elfsquad7 | 93501 | [93501-elfsquad7.json](./93501-elfsquad7.json) |
 | Elhosea | 287710 | [287710-elhosea.json](./287710-elhosea.json) |
 | Elidon | 13633 | [13633-elidon.json](./13633-elidon.json) |
@@ -4052,6 +4054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everlast: Undying Tale | 381335 | [381335-everlast-undying-tale.json](./381335-everlast-undying-tale.json) |
 | Everlasting Alchemists | 298999 | [298999-everlasting-alchemists.json](./298999-everlasting-alchemists.json) |
 | Everlasting Guilt | 155084 | [155084-everlasting-guilt.json](./155084-everlasting-guilt.json) |
+| Everlasting Snooze | 297879 | [297879-everlasting-snooze.json](./297879-everlasting-snooze.json) |
 | Everlasting Summer 2 | 385888 | [385888-everlasting-summer-2.json](./385888-everlasting-summer-2.json) |
 | Everlasting Tower | 335661 | [335661-everlasting-tower.json](./335661-everlasting-tower.json) |
 | Everlasting: Per Aspera Ad Terra | 112313 | [112313-everlasting-per-aspera-ad-terra.json](./112313-everlasting-per-aspera-ad-terra.json) |
