@@ -14110,6 +14110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Square Enix Masterpieces: Tomb Raider Bundle | 286664 | [286664-square-enix-masterpieces-tomb-raider-bundle.json](./286664-square-enix-masterpieces-tomb-raider-bundle.json) |
 | Square Fall | 401811 | [401811-square-fall.json](./401811-square-fall.json) |
 | Square Farm | 125349 | [125349-square-farm.json](./125349-square-farm.json) |
+| Square Farm | 326102 | [326102-square-farm.json](./326102-square-farm.json) |
 | Square Fighter | 124706 | [124706-square-fighter.json](./124706-square-fighter.json) |
 | Square Fighters | 131591 | [131591-square-fighters.json](./131591-square-fighters.json) |
 | Square Flood | 58259 | [58259-square-flood.json](./58259-square-flood.json) |
