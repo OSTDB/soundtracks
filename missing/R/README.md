@@ -4475,6 +4475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ridge Racer V: Arcade Battle | 315284 | [315284-ridge-racer-v-arcade-battle.json](./315284-ridge-racer-v-arcade-battle.json) |
 | Ridge Racer: Turbo Mode | 297592 | [297592-ridge-racer-turbo-mode.json](./297592-ridge-racer-turbo-mode.json) |
 | Ridge Runner | 233250 | [233250-ridge-runner.json](./233250-ridge-runner.json) |
+| Ridgeside Village: NPC Adventures | 303305 | [303305-ridgeside-village-npc-adventures.json](./303305-ridgeside-village-npc-adventures.json) |
 | Ridgewood Road | 177397 | [177397-ridgewood-road.json](./177397-ridgewood-road.json) |
 | Ridiculous Bombing Game | 126950 | [126950-ridiculous-bombing-game.json](./126950-ridiculous-bombing-game.json) |
 | Ridiculous Catapult Simulator | 120134 | [120134-ridiculous-catapult-simulator.json](./120134-ridiculous-catapult-simulator.json) |
@@ -7660,6 +7661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Running Late | 300029 | [300029-running-late.json](./300029-running-late.json) |
 | Running Late | 395109 | [395109-running-late.json](./395109-running-late.json) |
 | Running Late 2 | 256842 | [256842-running-late-2.json](./256842-running-late-2.json) |
+| Running Memories | 303311 | [303311-running-memories.json](./303311-running-memories.json) |
 | Running MrBeast | 229338 | [229338-running-mrbeast.json](./229338-running-mrbeast.json) |
 | Running Naked Simulator 2019 | 110810 | [110810-running-naked-simulator-2019.json](./110810-running-naked-simulator-2019.json) |
 | Running Out | 343227 | [343227-running-out.json](./343227-running-out.json) |
