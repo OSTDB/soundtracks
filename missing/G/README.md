@@ -1520,6 +1520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gelatinous: Humanity Lost | 260312 | [260312-gelatinous-humanity-lost.json](./260312-gelatinous-humanity-lost.json) |
 | Gelecard: Guerreiros Gelatinosos | 346216 | [346216-gelecard-guerreiros-gelatinosos.json](./346216-gelecard-guerreiros-gelatinosos.json) |
 | Gelldonia | 156648 | [156648-gelldonia.json](./156648-gelldonia.json) |
+| Gelluloid Domination | 330758 | [330758-gelluloid-domination.json](./330758-gelluloid-domination.json) |
 | Gelluloid Domination: SpaceLab Simulator | 265437 | [265437-gelluloid-domination-spacelab-simulator.json](./265437-gelluloid-domination-spacelab-simulator.json) |
 | Gelocity 1 vs 1 | 416791 | [416791-gelocity-1-vs-1.json](./416791-gelocity-1-vs-1.json) |
 | Gelocity Time Trial | 416792 | [416792-gelocity-time-trial.json](./416792-gelocity-time-trial.json) |
@@ -5130,6 +5131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grayland | 127715 | [127715-grayland.json](./127715-grayland.json) |
 | Grayland | 171899 | [171899-grayland.json](./171899-grayland.json) |
 | Grayland Remastered | 374967 | [374967-grayland-remastered.json](./374967-grayland-remastered.json) |
+| Graymerca | 330779 | [330779-graymerca.json](./330779-graymerca.json) |
 | Grayscale | 217502 | [217502-grayscale.json](./217502-grayscale.json) |
 | Grayscale | 225742 | [225742-grayscale.json](./225742-grayscale.json) |
 | GrayScale | 120921 | [120921-grayscale.json](./120921-grayscale.json) |
@@ -5817,6 +5819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grouphack | 258096 | [258096-grouphack.json](./258096-grouphack.json) |
 | Groups of Seven | 335861 | [335861-groups-of-seven.json](./335861-groups-of-seven.json) |
 | Groupthink | 132576 | [132576-groupthink.json](./132576-groupthink.json) |
+| Grove Fisher | 330680 | [330680-grove-fisher.json](./330680-grove-fisher.json) |
 | Grove Island | 219162 | [219162-grove-island.json](./219162-grove-island.json) |
 | Grove: Nostalgia's End | 192952 | [192952-grove-nostalgias-end.json](./192952-grove-nostalgias-end.json) |
 | Grover's Travels | 333206 | [333206-grovers-travels.json](./333206-grovers-travels.json) |
