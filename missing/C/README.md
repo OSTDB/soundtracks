@@ -6696,6 +6696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CodeWordPlay | 228096 | [228096-codewordplay.json](./228096-codewordplay.json) |
 | Codex of Victory | 27802 | [27802-codex-of-victory.json](./27802-codex-of-victory.json) |
 | Codex: Recall | 419171 | [419171-codex-recall.json](./419171-codex-recall.json) |
+| Coding Day | 302094 | [302094-coding-day.json](./302094-coding-day.json) |
 | Coding With Doc | 372594 | [372594-coding-with-doc.json](./372594-coding-with-doc.json) |
 | CodStar | 316147 | [316147-codstar.json](./316147-codstar.json) |
 | Cody's Nightmare Vacation | 310548 | [310548-codys-nightmare-vacation.json](./310548-codys-nightmare-vacation.json) |
@@ -7991,6 +7992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Confused? | 71490 | [71490-confused.json](./71490-confused.json) |
 | Confusing game | 148340 | [148340-confusing-game.json](./148340-confusing-game.json) |
 | Confusion Constructions | 279074 | [279074-confusion-constructions.json](./279074-confusion-constructions.json) |
+| Confusion Conveyed | 302164 | [302164-confusion-conveyed.json](./302164-confusion-conveyed.json) |
 | Confusion Readily Achieved Perspectively Through Unrealistic Relative Dimensions | 283740 | [283740-confusion-readily-achieved-perspectively-through-unrealistic-relative-dimensions.json](./283740-confusion-readily-achieved-perspectively-through-unrealistic-relative-dimensions.json) |
 | Conga Master | 24445 | [24445-conga-master.json](./24445-conga-master.json) |
 | Congestion 1024 | 196247 | [196247-congestion-1024.json](./196247-congestion-1024.json) |
@@ -8429,6 +8431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conversations With My Anxiety | 134993 | [134993-conversations-with-my-anxiety.json](./134993-conversations-with-my-anxiety.json) |
 | Convertible Wop | 104442 | [104442-convertible-wop.json](./104442-convertible-wop.json) |
 | Conveyor Belt Sushi Simulator | 334129 | [334129-conveyor-belt-sushi-simulator.json](./334129-conveyor-belt-sushi-simulator.json) |
+| Conveyor Con-fusion | 302166 | [302166-conveyor-con-fusion.json](./302166-conveyor-con-fusion.json) |
 | Conveyor VR | 112970 | [112970-conveyor-vr.json](./112970-conveyor-vr.json) |
 | Convict Team Tactics | 326264 | [326264-convict-team-tactics.json](./326264-convict-team-tactics.json) |
 | Convicted Galaxy | 30902 | [30902-convicted-galaxy.json](./30902-convicted-galaxy.json) |
@@ -10293,6 +10296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cricket Captain 2019 | 118777 | [118777-cricket-captain-2019.json](./118777-cricket-captain-2019.json) |
 | Cricket Captain 2021 | 156212 | [156212-cricket-captain-2021.json](./156212-cricket-captain-2021.json) |
 | Cricket Captain 2023 | 252242 | [252242-cricket-captain-2023.json](./252242-cricket-captain-2023.json) |
+| Cricket Captain 2024 | 302184 | [302184-cricket-captain-2024.json](./302184-cricket-captain-2024.json) |
 | Cricket Captain 2025 | 351614 | [351614-cricket-captain-2025.json](./351614-cricket-captain-2025.json) |
 | Cricket Carlson | 125821 | [125821-cricket-carlson.json](./125821-cricket-carlson.json) |
 | Cricket Challenge | 85560 | [85560-cricket-challenge.json](./85560-cricket-challenge.json) |
@@ -10874,6 +10878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crown Trick: Limited Edition | 173112 | [173112-crown-trick-limited-edition.json](./173112-crown-trick-limited-edition.json) |
 | Crown Wars: The Black Prince | 208416 | [208416-crown-wars-the-black-prince.json](./208416-crown-wars-the-black-prince.json) |
 | Crown Wars: The Black Prince - Brotherhood of Light Cosmetic Pack | 290124 | [290124-crown-wars-the-black-prince-brotherhood-of-light-cosmetic-pack.json](./290124-crown-wars-the-black-prince-brotherhood-of-light-cosmetic-pack.json) |
+| Crown Wars: The Black Prince - Sacred Edition | 302179 | [302179-crown-wars-the-black-prince-sacred-edition.json](./302179-crown-wars-the-black-prince-sacred-edition.json) |
 | Crown's Trial | 402270 | [402270-crowns-trial.json](./402270-crowns-trial.json) |
 | Crownbane | 411701 | [411701-crownbane.json](./411701-crownbane.json) |
 | Crownborne | 405528 | [405528-crownborne.json](./405528-crownborne.json) |
@@ -12184,6 +12189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Shard Clicker | 374205 | [374205-cyber-shard-clicker.json](./374205-cyber-shard-clicker.json) |
 | Cyber Slayer | 219672 | [219672-cyber-slayer.json](./219672-cyber-slayer.json) |
 | Cyber Sled | 20626 | [20626-cyber-sled.json](./20626-cyber-sled.json) |
+| Cyber Sleuth Simulacrum | 302157 | [302157-cyber-sleuth-simulacrum.json](./302157-cyber-sleuth-simulacrum.json) |
 | Cyber Soldier Sharaku | 45934 | [45934-cyber-soldier-sharaku.json](./45934-cyber-soldier-sharaku.json) |
 | Cyber Souls | 238591 | [238591-cyber-souls.json](./238591-cyber-souls.json) |
 | Cyber Speedway | 19740 | [19740-cyber-speedway.json](./19740-cyber-speedway.json) |
