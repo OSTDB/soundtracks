@@ -2820,6 +2820,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Persona 3 FES Append-han | 358383 | [358383-persona-3-fes-append-han.json](./358383-persona-3-fes-append-han.json) |
 | Persona 3 FES: Limited Edition | 41865 | [41865-persona-3-fes-limited-edition.json](./41865-persona-3-fes-limited-edition.json) |
 | Persona 3 Illust Puzzle | 289391 | [289391-persona-3-illust-puzzle.json](./289391-persona-3-illust-puzzle.json) |
+| Persona 3 Portable: Kotone Cutscenes Project - PSP Version | 313996 | [313996-persona-3-portable-kotone-cutscenes-project-psp-version.json](./313996-persona-3-portable-kotone-cutscenes-project-psp-version.json) |
+| Persona 3 Portable: Kotone Cutscenes Project - Steam Version | 313978 | [313978-persona-3-portable-kotone-cutscenes-project-steam-version.json](./313978-persona-3-portable-kotone-cutscenes-project-steam-version.json) |
 | Persona 3 Reload: Aigis Edition | 262640 | [262640-persona-3-reload-aigis-edition.json](./262640-persona-3-reload-aigis-edition.json) |
 | Persona 3 Reload: Digital Deluxe Edition | 262642 | [262642-persona-3-reload-digital-deluxe-edition.json](./262642-persona-3-reload-digital-deluxe-edition.json) |
 | Persona 3 Reload: Digital Premium Edition | 262643 | [262643-persona-3-reload-digital-premium-edition.json](./262643-persona-3-reload-digital-premium-edition.json) |
@@ -6654,6 +6656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Battle e: 129-B001 - Gentleman Nils | 355501 | [355501-pokemon-battle-e-129-b001-gentleman-nils.json](./355501-pokemon-battle-e-129-b001-gentleman-nils.json) |
 | Pokémon Battle e: 129-B002 - Lady Astrid | 355503 | [355503-pokemon-battle-e-129-b002-lady-astrid.json](./355503-pokemon-battle-e-129-b002-lady-astrid.json) |
 | Pokémon Battle Online | 323760 | [323760-pokemon-battle-online.json](./323760-pokemon-battle-online.json) |
+| Pokémon Battle Ultimate | 313970 | [313970-pokemon-battle-ultimate.json](./313970-pokemon-battle-ultimate.json) |
 | Pokémon Battle Woods | 229043 | [229043-pokemon-battle-woods.json](./229043-pokemon-battle-woods.json) |
 | Pokémon Berserk Version | 323275 | [323275-pokemon-berserk-version.json](./323275-pokemon-berserk-version.json) |
 | Pokémon Beyond DX | 360180 | [360180-pokemon-beyond-dx.json](./360180-pokemon-beyond-dx.json) |
