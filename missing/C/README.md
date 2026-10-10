@@ -491,6 +491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Toys: Tower Defense! | 275357 | [275357-call-of-toys-tower-defense.json](./275357-call-of-toys-tower-defense.json) |
 | Call of War | 55476 | [55476-call-of-war.json](./55476-call-of-war.json) |
 | Call of Warfront | 404257 | [404257-call-of-warfront.json](./404257-call-of-warfront.json) |
+| Call of Warzone | 332489 | [332489-call-of-warzone.json](./332489-call-of-warzone.json) |
 | Call of Zombie | 252400 | [252400-call-of-zombie.json](./252400-call-of-zombie.json) |
 | Call the Tune | 320883 | [320883-call-the-tune.json](./320883-call-the-tune.json) |
 | Call to Arms | 100182 | [100182-call-to-arms.json](./100182-call-to-arms.json) |
@@ -8800,6 +8801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Epsilon | 48689 | [48689-cosmic-epsilon.json](./48689-cosmic-epsilon.json) |
 | Cosmic Express | 27328 | [27328-cosmic-express.json](./27328-cosmic-express.json) |
 | Cosmic Fantasy 2 | 42003 | [42003-cosmic-fantasy-2.json](./42003-cosmic-fantasy-2.json) |
+| Cosmic Fantasy 3 | 332500 | [332500-cosmic-fantasy-3.json](./332500-cosmic-fantasy-3.json) |
 | Cosmic Fantasy 4: Ginga Shounen Densetsu - Totsunyuuhen: Densetsu he no Prelude | 92990 | [92990-cosmic-fantasy-4-ginga-shounen-densetsu-totsunyuuhen-densetsu-he-no-prelude.json](./92990-cosmic-fantasy-4-ginga-shounen-densetsu-totsunyuuhen-densetsu-he-no-prelude.json) |
 | Cosmic Fantasy 4: Prelude to Legend | 332501 | [332501-cosmic-fantasy-4-prelude-to-legend.json](./332501-cosmic-fantasy-4-prelude-to-legend.json) |
 | Cosmic Fantasy 4: Van's Return | 332502 | [332502-cosmic-fantasy-4-vans-return.json](./332502-cosmic-fantasy-4-vans-return.json) |
