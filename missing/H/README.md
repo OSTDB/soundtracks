@@ -1796,6 +1796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haze of Lucidity: The Fish | 390087 | [390087-haze-of-lucidity-the-fish.json](./390087-haze-of-lucidity-the-fish.json) |
 | Haze Together | 411047 | [411047-haze-together.json](./411047-haze-together.json) |
 | Hazel | 227930 | [227930-hazel.json](./227930-hazel.json) |
+| Hazel & The Deep | 321024 | [321024-hazel-and-the-deep.json](./321024-hazel-and-the-deep.json) |
 | Hazel Sky: Deluxe Edition | 227180 | [227180-hazel-sky-deluxe-edition.json](./227180-hazel-sky-deluxe-edition.json) |
 | Hazelnut Bastille | 36927 | [36927-hazelnut-bastille.json](./36927-hazelnut-bastille.json) |
 | Hazelnut Hex | 218725 | [218725-hazelnut-hex.json](./218725-hazelnut-hex.json) |
@@ -3322,6 +3323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Her | 105347 | [105347-her.json](./105347-her.json) |
 | Her 2: I Want to See You Again | 114821 | [114821-her-2-i-want-to-see-you-again.json](./114821-her-2-i-want-to-see-you-again.json) |
 | Her Apartment | 323898 | [323898-her-apartment.json](./323898-her-apartment.json) |
+| Her Deliverance | 321017 | [321017-her-deliverance.json](./321017-her-deliverance.json) |
 | Her Heart, Anew | 419951 | [419951-her-heart-anew.json](./419951-her-heart-anew.json) |
 | Her Heart's Desire: A Landlord Epic | 224235 | [224235-her-hearts-desire-a-landlord-epic.json](./224235-her-hearts-desire-a-landlord-epic.json) |
 | Her Knights | 78735 | [78735-her-knights.json](./78735-her-knights.json) |
@@ -4949,6 +4951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hit Idol | 343213 | [343213-hit-idol.json](./343213-hit-idol.json) |
 | Hit It Back | 368910 | [368910-hit-it-back.json](./368910-hit-it-back.json) |
 | Hit It! | 78918 | [78918-hit-it.json](./78918-hit-it.json) |
+| Hit Justin Bieber | 321018 | [321018-hit-justin-bieber.json](./321018-hit-justin-bieber.json) |
 | Hit Marmot | 48897 | [48897-hit-marmot.json](./48897-hit-marmot.json) |
 | Hit N 'Rush | 125355 | [125355-hit-n-rush.json](./125355-hit-n-rush.json) |
 | Hit n' Bit | 319010 | [319010-hit-n-bit.json](./319010-hit-n-bit.json) |
