@@ -279,6 +279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Game of Tennis | 92621 | [92621-a-game-of-tennis.json](./92621-a-game-of-tennis.json) |
 | A Game of Thrones: Genesis | 15058 | [15058-a-game-of-thrones-genesis.json](./15058-a-game-of-thrones-genesis.json) |
 | A Game of Thrones: The Board Game - Digital Edition | 139376 | [139376-a-game-of-thrones-the-board-game-digital-edition.json](./139376-a-game-of-thrones-the-board-game-digital-edition.json) |
+| A Game of Turnabouts | 308544 | [308544-a-game-of-turnabouts.json](./308544-a-game-of-turnabouts.json) |
 | A Game That Rhymes With Grug | 351703 | [351703-a-game-that-rhymes-with-grug.json](./351703-a-game-that-rhymes-with-grug.json) |
 | A Game With a Kitty | 74789 | [74789-a-game-with-a-kitty.json](./74789-a-game-with-a-kitty.json) |
 | A Game's Tale | 298889 | [298889-a-games-tale.json](./298889-a-games-tale.json) |
@@ -768,6 +769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A True Story | 258043 | [258043-a-true-story.json](./258043-a-true-story.json) |
 | A Turd's Life | 89975 | [89975-a-turds-life.json](./89975-a-turds-life.json) |
 | A Turnabout Called Justice | 306606 | [306606-a-turnabout-called-justice.json](./306606-a-turnabout-called-justice.json) |
+| A Turnabout On Rails | 308541 | [308541-a-turnabout-on-rails.json](./308541-a-turnabout-on-rails.json) |
 | A Turnabout to El Dorado | 295241 | [295241-a-turnabout-to-el-dorado.json](./295241-a-turnabout-to-el-dorado.json) |
 | A Turtle In A Hare-Machine | 246102 | [246102-a-turtle-in-a-hare-machine.json](./246102-a-turtle-in-a-hare-machine.json) |
 | A Twisted Place | 177828 | [177828-a-twisted-place.json](./177828-a-twisted-place.json) |
@@ -1399,6 +1401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ace Attorney Investigations 2: Prosecutor's Gambit | 307145 | [307145-ace-attorney-investigations-2-prosecutors-gambit.json](./307145-ace-attorney-investigations-2-prosecutors-gambit.json) |
 | Ace Attorney Investigations: Miles Edgeworth | 1430 | [1430-ace-attorney-investigations-miles-edgeworth.json](./1430-ace-attorney-investigations-miles-edgeworth.json) |
 | Ace Attorney Turnabout Collection | 146326 | [146326-ace-attorney-turnabout-collection.json](./146326-ace-attorney-turnabout-collection.json) |
+| Ace Attorney: Athena Cykes - Wisdom at Law | 308533 | [308533-ace-attorney-athena-cykes-wisdom-at-law.json](./308533-ace-attorney-athena-cykes-wisdom-at-law.json) |
 | Ace Attorney: Beyond the Shadows | 308543 | [308543-ace-attorney-beyond-the-shadows.json](./308543-ace-attorney-beyond-the-shadows.json) |
 | Ace Attorney: The Dark Age of Love | 305190 | [305190-ace-attorney-the-dark-age-of-love.json](./305190-ace-attorney-the-dark-age-of-love.json) |
 | Ace Attorney: The Final Trials | 366725 | [366725-ace-attorney-the-final-trials.json](./366725-ace-attorney-the-final-trials.json) |
@@ -2258,6 +2261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aery: Stone Age | 283895 | [283895-aery-stone-age.json](./283895-aery-stone-age.json) |
 | Aery: Surreal World | 411807 | [411807-aery-surreal-world.json](./411807-aery-surreal-world.json) |
 | Aery: The King's Messenger | 393040 | [393040-aery-the-kings-messenger.json](./393040-aery-the-kings-messenger.json) |
+| Aery: Time Traveller Bundle | 308583 | [308583-aery-time-traveller-bundle.json](./308583-aery-time-traveller-bundle.json) |
 | Aery: Viking Saga | 364086 | [364086-aery-viking-saga.json](./364086-aery-viking-saga.json) |
 | Aery: Winter Wonderland | 378997 | [378997-aery-winter-wonderland.json](./378997-aery-winter-wonderland.json) |
 | Aeschylus: Death | 379564 | [379564-aeschylus-death.json](./379564-aeschylus-death.json) |
@@ -2913,6 +2917,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aimee's Cafe | 266520 | [266520-aimees-cafe.json](./266520-aimees-cafe.json) |
 | AimJJang | 379517 | [379517-aimjjang.json](./379517-aimjjang.json) |
 | Aimlabs | 67902 | [67902-aimlabs.json](./67902-aimlabs.json) |
+| Aimlabs: Elite Edition | 308587 | [308587-aimlabs-elite-edition.json](./308587-aimlabs-elite-edition.json) |
+| Aimlabs: Professional Edition | 308588 | [308588-aimlabs-professional-edition.json](./308588-aimlabs-professional-edition.json) |
 | AimRogue | 288747 | [288747-aimrogue.json](./288747-aimrogue.json) |
 | Aimstar.gg | 125882 | [125882-aimstar-gg.json](./125882-aimstar-gg.json) |
 | AimX | 212901 | [212901-aimx.json](./212901-aimx.json) |
@@ -6931,6 +6937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Appli Archives: Nippon Ichi Software Duologue | 56416 | [56416-appli-archives-nippon-ichi-software-duologue.json](./56416-appli-archives-nippon-ichi-software-duologue.json) |
 | Appointment with Death | 316831 | [316831-appointment-with-death.json](./316831-appointment-with-death.json) |
 | Appoooh | 39845 | [39845-appoooh.json](./39845-appoooh.json) |
+| Apprehension Arizona | 308452 | [308452-apprehension-arizona.json](./308452-apprehension-arizona.json) |
 | Apprentice Arriving | 167599 | [167599-apprentice-arriving.json](./167599-apprentice-arriving.json) |
 | Apprentice Knight-Iona | 132667 | [132667-apprentice-knight-iona.json](./132667-apprentice-knight-iona.json) |
 | Approach Trainer | 14261 | [14261-approach-trainer.json](./14261-approach-trainer.json) |
@@ -8524,6 +8531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Art Puzzle | 354421 | [354421-art-puzzle.json](./354421-art-puzzle.json) |
 | Art Rally Simulator | 420675 | [420675-art-rally-simulator.json](./420675-art-rally-simulator.json) |
 | Art School Pocket | 203214 | [203214-art-school-pocket.json](./203214-art-school-pocket.json) |
+| Art Shop Simulator | 308593 | [308593-art-shop-simulator.json](./308593-art-shop-simulator.json) |
 | Art Sqool | 110421 | [110421-art-sqool.json](./110421-art-sqool.json) |
 | Art Strikers | 316070 | [316070-art-strikers.json](./316070-art-strikers.json) |
 | Art Strip Poker | 96021 | [96021-art-strip-poker.json](./96021-art-strip-poker.json) |
