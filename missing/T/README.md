@@ -1874,6 +1874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tazmanian Devil: Munching Madness | 49967 | [49967-tazmanian-devil-munching-madness.json](./49967-tazmanian-devil-munching-madness.json) |
 | Tazz | 293321 | [293321-tazz.json](./293321-tazz.json) |
 | TBH: Task Bar Hero | 372510 | [372510-tbh-task-bar-hero.json](./372510-tbh-task-bar-hero.json) |
+| TBmsTF | 281361 | [281361-tbmstf.json](./281361-tbmstf.json) |
 | TBS Mini-Golf | 246098 | [246098-tbs-mini-golf.json](./246098-tbs-mini-golf.json) |
 | TC Strikers 1 | 169805 | [169805-tc-strikers-1.json](./169805-tc-strikers-1.json) |
 | TC Strikers 2 | 153499 | [153499-tc-strikers-2.json](./153499-tc-strikers-2.json) |
@@ -3062,6 +3063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Test Subject Blue | 172473 | [172473-test-subject-blue.json](./172473-test-subject-blue.json) |
 | Test Subject Complete | 172475 | [172475-test-subject-complete.json](./172475-test-subject-complete.json) |
 | Test Subject Green | 172474 | [172474-test-subject-green.json](./172474-test-subject-green.json) |
+| Test Test Test | 281340 | [281340-test-test-test.json](./281340-test-test-test.json) |
 | Test Tube Titans | 129933 | [129933-test-tube-titans.json](./129933-test-tube-titans.json) |
 | Test Tube Titans: Taster Trial | 157062 | [157062-test-tube-titans-taster-trial.json](./157062-test-tube-titans-taster-trial.json) |
 | Test Your Mario Memory | 231604 | [231604-test-your-mario-memory.json](./231604-test-your-mario-memory.json) |
@@ -6941,6 +6943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Infinity Road | 341160 | [341160-the-infinity-road.json](./341160-the-infinity-road.json) |
 | The Infinity String | 74043 | [74043-the-infinity-string.json](./74043-the-infinity-string.json) |
 | The Infirmity | 267428 | [267428-the-infirmity.json](./267428-the-infirmity.json) |
+| The Inheritance | 281364 | [281364-the-inheritance.json](./281364-the-inheritance.json) |
 | The Inheritance of Crimson Manor | 149163 | [149163-the-inheritance-of-crimson-manor.json](./149163-the-inheritance-of-crimson-manor.json) |
 | The Initial | 44187 | [44187-the-initial.json](./44187-the-initial.json) |
 | The Initiate | 44181 | [44181-the-initiate.json](./44181-the-initiate.json) |
@@ -8268,6 +8271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lost Island | 34248 | [34248-the-lost-island.json](./34248-the-lost-island.json) |
 | The Lost Island of Alanna | 71496 | [71496-the-lost-island-of-alanna.json](./71496-the-lost-island-of-alanna.json) |
 | The lost joystick | 81746 | [81746-the-lost-joystick.json](./81746-the-lost-joystick.json) |
+| The Lost Key | 281322 | [281322-the-lost-key.json](./281322-the-lost-key.json) |
 | The Lost Kingdom | 96537 | [96537-the-lost-kingdom.json](./96537-the-lost-kingdom.json) |
 | The Lost Kingdom Prophecy | 200581 | [200581-the-lost-kingdom-prophecy.json](./200581-the-lost-kingdom-prophecy.json) |
 | The Lost Labyrinth | 166712 | [166712-the-lost-labyrinth.json](./166712-the-lost-labyrinth.json) |
@@ -9374,6 +9378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Princess and the Pauper: Storybook Adventures | 293199 | [293199-the-princess-and-the-pauper-storybook-adventures.json](./293199-the-princess-and-the-pauper-storybook-adventures.json) |
 | The Princess and the Portals | 413868 | [413868-the-princess-and-the-portals.json](./413868-the-princess-and-the-portals.json) |
 | The Princess Bride: The Official Game | 58854 | [58854-the-princess-bride-the-official-game.json](./58854-the-princess-bride-the-official-game.json) |
+| The Princess Cliche | 281310 | [281310-the-princess-cliche.json](./281310-the-princess-cliche.json) |
 | The Princess Guide | 78111 | [78111-the-princess-guide.json](./78111-the-princess-guide.json) |
 | The Princess in the Mirror | 298885 | [298885-the-princess-in-the-mirror.json](./298885-the-princess-in-the-mirror.json) |
 | The Princess of the Tower wants a Hero | 200632 | [200632-the-princess-of-the-tower-wants-a-hero.json](./200632-the-princess-of-the-tower-wants-a-hero.json) |
@@ -10719,6 +10724,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Suicide Forest | 133428 | [133428-the-suicide-forest.json](./133428-the-suicide-forest.json) |
 | The Suicide Game | 179075 | [179075-the-suicide-game.json](./179075-the-suicide-game.json) |
 | The Suitcase | 196559 | [196559-the-suitcase.json](./196559-the-suitcase.json) |
+| The Suite Life of Zack & Cody: Maddie's Snack Encounter | 281326 | [281326-the-suite-life-of-zack-and-cody-maddies-snack-encounter.json](./281326-the-suite-life-of-zack-and-cody-maddies-snack-encounter.json) |
+| The Suite Life of Zack & Cody: Pizza Party Pickup! | 281323 | [281323-the-suite-life-of-zack-and-cody-pizza-party-pickup.json](./281323-the-suite-life-of-zack-and-cody-pizza-party-pickup.json) |
 | The Suite Life of Zack & Cody: Tipton Trouble | 72115 | [72115-the-suite-life-of-zack-and-cody-tipton-trouble.json](./72115-the-suite-life-of-zack-and-cody-tipton-trouble.json) |
 | The Suitor | 301065 | [301065-the-suitor.json](./301065-the-suitor.json) |
 | The Suits Have Gone Mad! | 215722 | [215722-the-suits-have-gone-mad.json](./215722-the-suits-have-gone-mad.json) |
