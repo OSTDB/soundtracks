@@ -689,6 +689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaspar i Nudådalen | 297547 | [297547-kaspar-i-nudadalen.json](./297547-kaspar-i-nudadalen.json) |
 | Kasplat | 258712 | [258712-kasplat.json](./258712-kasplat.json) |
 | Kassei: Road Cycling 2025 | 357207 | [357207-kassei-road-cycling-2025.json](./357207-kassei-road-cycling-2025.json) |
+| Kasumi | 285383 | [285383-kasumi.json](./285383-kasumi.json) |
 | Kasumi Ninja | 40798 | [40798-kasumi-ninja.json](./40798-kasumi-ninja.json) |
 | Kat Trap: Planet of the Cat-Men | 13010 | [13010-kat-trap-planet-of-the-cat-men.json](./13010-kat-trap-planet-of-the-cat-men.json) |
 | Kat-tastic Hidden Object | 405373 | [405373-kat-tastic-hidden-object.json](./405373-kat-tastic-hidden-object.json) |
