@@ -4696,6 +4696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Christmas Crisis | 45937 | [45937-christmas-crisis.json](./45937-christmas-crisis.json) |
 | Christmas Defence | 112774 | [112774-christmas-defence.json](./112774-christmas-defence.json) |
 | Christmas Dentist | 107086 | [107086-christmas-dentist.json](./107086-christmas-dentist.json) |
+| Christmas Drift: Delivery Simulator | 325716 | [325716-christmas-drift-delivery-simulator.json](./325716-christmas-drift-delivery-simulator.json) |
 | Christmas Dropini | 352341 | [352341-christmas-dropini.json](./352341-christmas-dropini.json) |
 | Christmas Escape | 314046 | [314046-christmas-escape.json](./314046-christmas-escape.json) |
 | Christmas Eve: Midnight's Call | 139767 | [139767-christmas-eve-midnights-call.json](./139767-christmas-eve-midnights-call.json) |
@@ -7432,6 +7433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Come on in! Succubus-san: I'll Have Your Semen Tonight, too Hungry Mere Squeezes Out Your Semen | 385838 | [385838-come-on-in-succubus-san-ill-have-your-semen-tonight-too-hungry-mere-squeezes-out-your-semen.json](./385838-come-on-in-succubus-san-ill-have-your-semen-tonight-too-hungry-mere-squeezes-out-your-semen.json) |
 | Come on Kitty | 214521 | [214521-come-on-kitty.json](./214521-come-on-kitty.json) |
 | Come on Picot | 47559 | [47559-come-on-picot.json](./47559-come-on-picot.json) |
+| Come on,Fantasy baby! | 325730 | [325730-come-on-fantasy-baby.json](./325730-come-on-fantasy-baby.json) |
 | Come Out Guys | 389680 | [389680-come-out-guys.json](./389680-come-out-guys.json) |
 | Come Out, Cat | 363947 | [363947-come-out-cat.json](./363947-come-out-cat.json) |
 | Come To Dust | 283730 | [283730-come-to-dust.json](./283730-come-to-dust.json) |
