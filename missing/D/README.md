@@ -7621,6 +7621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donkey Kong Country 2: Brigand Barrage | 162833 | [162833-donkey-kong-country-2-brigand-barrage.json](./162833-donkey-kong-country-2-brigand-barrage.json) |
 | Donkey Kong Country 2: The Lost Levels | 162766 | [162766-donkey-kong-country-2-the-lost-levels.json](./162766-donkey-kong-country-2-the-lost-levels.json) |
 | Donkey Kong Country 3 | 132723 | [132723-donkey-kong-country-3.json](./132723-donkey-kong-country-3.json) |
+| Donkey Kong Country 3: Ascension | 313444 | [313444-donkey-kong-country-3-ascension.json](./313444-donkey-kong-country-3-ascension.json) |
 | Donkey Kong Country 3: Dixie Kong's Double Trouble! | 1094 | [1094-donkey-kong-country-3-dixie-kongs-double-trouble.json](./1094-donkey-kong-country-3-dixie-kongs-double-trouble.json) |
 | Donkey Kong Country 3: Tag Team Trouble | 162834 | [162834-donkey-kong-country-3-tag-team-trouble.json](./162834-donkey-kong-country-3-tag-team-trouble.json) |
 | Donkey Kong Country 4 | 186648 | [186648-donkey-kong-country-4.json](./186648-donkey-kong-country-4.json) |
@@ -9010,6 +9011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Quest VII Reimagined: White Wolf Costume | 375191 | [375191-dragon-quest-vii-reimagined-white-wolf-costume.json](./375191-dragon-quest-vii-reimagined-white-wolf-costume.json) |
 | Dragon Quest VIII: Journey of the Cursed King | 145528 | [145528-dragon-quest-viii-journey-of-the-cursed-king.json](./145528-dragon-quest-viii-journey-of-the-cursed-king.json) |
 | Dragon Quest VIII: Journey of the Cursed King | 205649 | [205649-dragon-quest-viii-journey-of-the-cursed-king.json](./205649-dragon-quest-viii-journey-of-the-cursed-king.json) |
+| Dragon Quest VIII: Journey of the Cursed King - Mobile Remaster | 313424 | [313424-dragon-quest-viii-journey-of-the-cursed-king-mobile-remaster.json](./313424-dragon-quest-viii-journey-of-the-cursed-king-mobile-remaster.json) |
 | Dragon Quest Wars | 1825 | [1825-dragon-quest-wars.json](./1825-dragon-quest-wars.json) |
 | Dragon Quest X Offline: Deluxe Edition | 174127 | [174127-dragon-quest-x-offline-deluxe-edition.json](./174127-dragon-quest-x-offline-deluxe-edition.json) |
 | Dragon Quest X: 5,000-Nen no Tabiji Harukanaru Kyuuri he Online | 136818 | [136818-dragon-quest-x-5-000-nen-no-tabiji-harukanaru-kyuuri-he-online.json](./136818-dragon-quest-x-5-000-nen-no-tabiji-harukanaru-kyuuri-he-online.json) |
@@ -9022,6 +9024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Quest X: Mirai he no Tobira to Madoromi no Shoujo Online | 260191 | [260191-dragon-quest-x-mirai-he-no-tobira-to-madoromi-no-shoujo-online.json](./260191-dragon-quest-x-mirai-he-no-tobira-to-madoromi-no-shoujo-online.json) |
 | Dragon Quest X: Tensei no Eiyuu-tachi Online | 159205 | [159205-dragon-quest-x-tensei-no-eiyuu-tachi-online.json](./159205-dragon-quest-x-tensei-no-eiyuu-tachi-online.json) |
 | Dragon Quest XI S: Echoes of an Elusive Age - Definitive Edition | 110069 | [110069-dragon-quest-xi-s-echoes-of-an-elusive-age-definitive-edition.json](./110069-dragon-quest-xi-s-echoes-of-an-elusive-age-definitive-edition.json) |
+| Dragon Quest XI: Echoes of an Elusive Age S - Ultimate Edition | 313423 | [313423-dragon-quest-xi-echoes-of-an-elusive-age-s-ultimate-edition.json](./313423-dragon-quest-xi-echoes-of-an-elusive-age-s-ultimate-edition.json) |
 | Dragon Quest XII: Beyond Dreams | 149978 | [149978-dragon-quest-xii-beyond-dreams.json](./149978-dragon-quest-xii-beyond-dreams.json) |
 | Dragon Quest: Legacy of the Lost | 300697 | [300697-dragon-quest-legacy-of-the-lost.json](./300697-dragon-quest-legacy-of-the-lost.json) |
 | Dragon Quest: Monster Battle Road II Legends | 70667 | [70667-dragon-quest-monster-battle-road-ii-legends.json](./70667-dragon-quest-monster-battle-road-ii-legends.json) |
