@@ -4958,6 +4958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Floomy | 269022 | [269022-floomy.json](./269022-floomy.json) |
 | Floor | 26645 | [26645-floor.json](./26645-floor.json) |
 | Floor 0 | 334727 | [334727-floor-0.json](./334727-floor-0.json) |
+| Floor 10 Anomaly | 302779 | [302779-floor-10-anomaly.json](./302779-floor-10-anomaly.json) |
 | Floor 100 | 155677 | [155677-floor-100.json](./155677-floor-100.json) |
 | Floor 100 | 370181 | [370181-floor-100.json](./370181-floor-100.json) |
 | Floor 12 | 408074 | [408074-floor-12.json](./408074-floor-12.json) |
