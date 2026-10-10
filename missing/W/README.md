@@ -1541,6 +1541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Watermelon Merge: Strategy Game | 303236 | [303236-watermelon-merge-strategy-game.json](./303236-watermelon-merge-strategy-game.json) |
 | WaterMelon Mosikkaeng | 282246 | [282246-watermelon-mosikkaeng.json](./282246-watermelon-mosikkaeng.json) |
 | Watermelon Simulator | 325627 | [325627-watermelon-simulator.json](./325627-watermelon-simulator.json) |
+| Watermelon's Adventure | 310621 | [310621-watermelons-adventure.json](./310621-watermelons-adventure.json) |
 | Waternet | 210651 | [210651-waternet.json](./210651-waternet.json) |
 | Waternet | 233609 | [233609-waternet.json](./233609-waternet.json) |
 | Waterpark Simulator | 151019 | [151019-waterpark-simulator.json](./151019-waterpark-simulator.json) |
@@ -1668,6 +1669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wayne Gretzky Hockey 3 | 15511 | [15511-wayne-gretzky-hockey-3.json](./15511-wayne-gretzky-hockey-3.json) |
 | Wayne Gretzky's 3D Hockey | 3630 | [3630-wayne-gretzkys-3d-hockey.json](./3630-wayne-gretzkys-3d-hockey.json) |
 | Wayne's World | 198954 | [198954-waynes-world.json](./198954-waynes-world.json) |
+| Wayne's World | 310701 | [310701-waynes-world.json](./310701-waynes-world.json) |
 | Wayne's World | 7646 | [7646-waynes-world.json](./7646-waynes-world.json) |
 | WayOut 2: Hex | 27334 | [27334-wayout-2-hex.json](./27334-wayout-2-hex.json) |
 | WayPoint | 335228 | [335228-waypoint.json](./335228-waypoint.json) |
@@ -2655,6 +2657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where's My Avocado? | 112240 | [112240-wheres-my-avocado.json](./112240-wheres-my-avocado.json) |
 | Where's my Bara Deck? | 342006 | [342006-wheres-my-bara-deck.json](./342006-wheres-my-bara-deck.json) |
 | Where's My Bara Deck? Hardcastle | 393834 | [393834-wheres-my-bara-deck-hardcastle.json](./393834-wheres-my-bara-deck-hardcastle.json) |
+| Where's My Cat? | 310617 | [310617-wheres-my-cat.json](./310617-wheres-my-cat.json) |
 | Where's My Chicken? | 181699 | [181699-wheres-my-chicken.json](./181699-wheres-my-chicken.json) |
 | Where's My Drink...? | 365863 | [365863-wheres-my-drink.json](./365863-wheres-my-drink.json) |
 | Where's My Egg? | 387592 | [387592-wheres-my-egg.json](./387592-wheres-my-egg.json) |
