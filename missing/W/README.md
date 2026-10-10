@@ -2025,6 +2025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Welcome to Levy | 238730 | [238730-welcome-to-levy.json](./238730-welcome-to-levy.json) |
 | Welcome to Light Fields | 93700 | [93700-welcome-to-light-fields.json](./93700-welcome-to-light-fields.json) |
 | Welcome to Lightford | 273391 | [273391-welcome-to-lightford.json](./273391-welcome-to-lightford.json) |
+| Welcome to Maison Chichigami | 330782 | [330782-welcome-to-maison-chichigami.json](./330782-welcome-to-maison-chichigami.json) |
 | Welcome to Moreytown | 28650 | [28650-welcome-to-moreytown.json](./28650-welcome-to-moreytown.json) |
 | Welcome to My Cave | 260652 | [260652-welcome-to-my-cave.json](./260652-welcome-to-my-cave.json) |
 | Welcome to nightmare | 117699 | [117699-welcome-to-nightmare.json](./117699-welcome-to-nightmare.json) |
@@ -5683,6 +5684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wuthering Waves: To the City Set in Amber | 377973 | [377973-wuthering-waves-to-the-city-set-in-amber.json](./377973-wuthering-waves-to-the-city-set-in-amber.json) |
 | Wuthering Waves: To the Shore's End | 317337 | [317337-wuthering-waves-to-the-shores-end.json](./317337-wuthering-waves-to-the-shores-end.json) |
 | Wuthering Waves: Unfading Melody of Life | 355745 | [355745-wuthering-waves-unfading-melody-of-life.json](./355745-wuthering-waves-unfading-melody-of-life.json) |
+| Wuthering Waves: Waves Sing, and the Cerulean Bird Calls | 330678 | [330678-wuthering-waves-waves-sing-and-the-cerulean-bird-calls.json](./330678-wuthering-waves-waves-sing-and-the-cerulean-bird-calls.json) |
 | Wuthering Waves: We Who See the Stars | 381238 | [381238-wuthering-waves-we-who-see-the-stars.json](./381238-wuthering-waves-we-who-see-the-stars.json) |
 | Wuthering Waves: When the Night Knocks | 321376 | [321376-wuthering-waves-when-the-night-knocks.json](./321376-wuthering-waves-when-the-night-knocks.json) |
 | Wuxia Master | 109703 | [109703-wuxia-master.json](./109703-wuxia-master.json) |
