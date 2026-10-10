@@ -3613,6 +3613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wings of Horus | 415980 | [415980-wings-of-horus.json](./415980-wings-of-horus.json) |
 | Wings of Justice | 237449 | [237449-wings-of-justice.json](./237449-wings-of-justice.json) |
 | Wings of Magloryx | 85492 | [85492-wings-of-magloryx.json](./85492-wings-of-magloryx.json) |
+| Wings of Njord | 320438 | [320438-wings-of-njord.json](./320438-wings-of-njord.json) |
 | Wings of Power: WWII Heavy Bombers and Jets | 61709 | [61709-wings-of-power-wwii-heavy-bombers-and-jets.json](./61709-wings-of-power-wwii-heavy-bombers-and-jets.json) |
 | Wings of Prey | 20973 | [20973-wings-of-prey.json](./20973-wings-of-prey.json) |
 | Wings of Prey: Special Edition | 51778 | [51778-wings-of-prey-special-edition.json](./51778-wings-of-prey-special-edition.json) |
@@ -4301,6 +4302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wolfenstein: The Two-Pack | 136205 | [136205-wolfenstein-the-two-pack.json](./136205-wolfenstein-the-two-pack.json) |
 | Wolfenstein: Triple Pack | 152339 | [152339-wolfenstein-triple-pack.json](./152339-wolfenstein-triple-pack.json) |
 | Wolfenstein: Youngblood - Digital Limited Edition | 121640 | [121640-wolfenstein-youngblood-digital-limited-edition.json](./121640-wolfenstein-youngblood-digital-limited-edition.json) |
+| WolfFang Skull Fang: Saturn Tribute Boosted | 320440 | [320440-wolffang-skull-fang-saturn-tribute-boosted.json](./320440-wolffang-skull-fang-saturn-tribute-boosted.json) |
 | Wolfgun | 180777 | [180777-wolfgun.json](./180777-wolfgun.json) |
 | Wolfhound: The Last of the Grey Dogs | 250522 | [250522-wolfhound-the-last-of-the-grey-dogs.json](./250522-wolfhound-the-last-of-the-grey-dogs.json) |
 | Wolfhound: The Way of the Warrior | 250521 | [250521-wolfhound-the-way-of-the-warrior.json](./250521-wolfhound-the-way-of-the-warrior.json) |
