@@ -9347,6 +9347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CR Shinseiki Evangelion: Shito, Futatabi | 78729 | [78729-cr-shinseiki-evangelion-shito-futatabi.json](./78729-cr-shinseiki-evangelion-shito-futatabi.json) |
 | Cr1me Fr0g | 218147 | [218147-cr1me-fr0g.json](./218147-cr1me-fr0g.json) |
 | Cr4ckr | 339332 | [339332-cr4ckr.json](./339332-cr4ckr.json) |
+| cr4nkup | 327782 | [327782-cr4nkup.json](./327782-cr4nkup.json) |
 | Crab and Fish | 218701 | [218701-crab-and-fish.json](./218701-crab-and-fish.json) |
 | Crab Balls | 233477 | [233477-crab-balls.json](./233477-crab-balls.json) |
 | Crab Boat | 291020 | [291020-crab-boat.json](./291020-crab-boat.json) |
@@ -10123,6 +10124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crescite | 262096 | [262096-crescite.json](./262096-crescite.json) |
 | Crest of the Stars | 57940 | [57940-crest-of-the-stars.json](./57940-crest-of-the-stars.json) |
 | Cresteaju | 143094 | [143094-cresteaju.json](./143094-cresteaju.json) |
+| Crestfall | 327897 | [327897-crestfall.json](./327897-crestfall.json) |
 | Creta | 318538 | [318538-creta.json](./318538-creta.json) |
 | Cretaceous Carnage | 146803 | [146803-cretaceous-carnage.json](./146803-cretaceous-carnage.json) |
 | Cretaceous Crunch | 380761 | [380761-cretaceous-crunch.json](./380761-cretaceous-crunch.json) |
@@ -10773,6 +10775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cruel World | 73545 | [73545-cruel-world.json](./73545-cruel-world.json) |
 | Cruellete | 335676 | [335676-cruellete.json](./335676-cruellete.json) |
 | Cruelty | 402295 | [402295-cruelty.json](./402295-cruelty.json) |
+| Cruft | 327893 | [327893-cruft.json](./327893-cruft.json) |
 | Cruis'n Exotica | 249136 | [249136-cruisn-exotica.json](./249136-cruisn-exotica.json) |
 | Cruis'n Exotica | 300037 | [300037-cruisn-exotica.json](./300037-cruisn-exotica.json) |
 | Cruise & Learn: Downtown Collection | 386214 | [386214-cruise-and-learn-downtown-collection.json](./386214-cruise-and-learn-downtown-collection.json) |
@@ -11221,6 +11224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube Defender 2000 | 110123 | [110123-cube-defender-2000.json](./110123-cube-defender-2000.json) |
 | Cube DOA | 120363 | [120363-cube-doa.json](./120363-cube-doa.json) |
 | Cube Droid Holiday Special | 360110 | [360110-cube-droid-holiday-special.json](./360110-cube-droid-holiday-special.json) |
+| Cube Droid Saves the Galaxy | 327774 | [327774-cube-droid-saves-the-galaxy.json](./327774-cube-droid-saves-the-galaxy.json) |
 | Cube Escape | 253984 | [253984-cube-escape.json](./253984-cube-escape.json) |
 | Cube Escape Collection | 133416 | [133416-cube-escape-collection.json](./133416-cube-escape-collection.json) |
 | Cube Escape: Paradox | 100667 | [100667-cube-escape-paradox.json](./100667-cube-escape-paradox.json) |
@@ -11807,6 +11811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Custom Romance City 3D3 | 403817 | [403817-custom-romance-city-3d3.json](./403817-custom-romance-city-3d3.json) |
 | Custom Town | 31597 | [31597-custom-town.json](./31597-custom-town.json) |
 | Customers From Hell: Game For Retail Workers | 148899 | [148899-customers-from-hell-game-for-retail-workers.json](./148899-customers-from-hell-game-for-retail-workers.json) |
+| Customized Girlfriend | 327902 | [327902-customized-girlfriend.json](./327902-customized-girlfriend.json) |
 | Customplay Golf 2010 | 21118 | [21118-customplay-golf-2010.json](./21118-customplay-golf-2010.json) |
 | Cut | 202201 | [202201-cut.json](./202201-cut.json) |
 | Cut 2017 | 91411 | [91411-cut-2017.json](./91411-cut-2017.json) |
@@ -12230,6 +12235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cybotron | 13835 | [13835-cybotron.json](./13835-cybotron.json) |
 | Cybrid | 154359 | [154359-cybrid.json](./154359-cybrid.json) |
 | Cybrix | 261213 | [261213-cybrix.json](./261213-cybrix.json) |
+| Cybrlich and the Death Cult of Labor | 327800 | [327800-cybrlich-and-the-death-cult-of-labor.json](./327800-cybrlich-and-the-death-cult-of-labor.json) |
 | Cybro | 389732 | [389732-cybro.json](./389732-cybro.json) |
 | Cycene | 334851 | [334851-cycene.json](./334851-cycene.json) |
 | Cyclanoid | 57679 | [57679-cyclanoid.json](./57679-cyclanoid.json) |
