@@ -819,6 +819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Velocrash | 414618 | [414618-velocrash.json](./414618-velocrash.json) |
 | Velone | 198247 | [198247-velone.json](./198247-velone.json) |
 | Veloren | 121445 | [121445-veloren.json](./121445-veloren.json) |
+| Veloria: The Knot of Candles | 331277 | [331277-veloria-the-knot-of-candles.json](./331277-veloria-the-knot-of-candles.json) |
 | Velorys | 419856 | [419856-velorys.json](./419856-velorys.json) |
 | Velucity | 155656 | [155656-velucity.json](./155656-velucity.json) |
 | Velucity: O2Jam Pack 1 | 170381 | [170381-velucity-o2jam-pack-1.json](./170381-velucity-o2jam-pack-1.json) |
@@ -1134,6 +1135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vice City Big Mission Pack | 403800 | [403800-vice-city-big-mission-pack.json](./403800-vice-city-big-mission-pack.json) |
 | Vice City Race | 272392 | [272392-vice-city-race.json](./272392-vice-city-race.json) |
 | Vice Undercover | 204447 | [204447-vice-undercover.json](./204447-vice-undercover.json) |
+| Vice: Magic City Mayhem | 331378 | [331378-vice-magic-city-mayhem.json](./331378-vice-magic-city-mayhem.json) |
 | Vicera | 321521 | [321521-vicera.json](./321521-vicera.json) |
 | Vicewave | 141839 | [141839-vicewave.json](./141839-vicewave.json) |
 | Vicious Attack Llama Apocalypse | 44289 | [44289-vicious-attack-llama-apocalypse.json](./44289-vicious-attack-llama-apocalypse.json) |
