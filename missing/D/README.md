@@ -11098,6 +11098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons 3: Extremely Evil Edition | 323413 | [323413-dungeons-3-extremely-evil-edition.json](./323413-dungeons-3-extremely-evil-edition.json) |
 | Dungeons 3: Nintendo Switch Complete Collection | 283207 | [283207-dungeons-3-nintendo-switch-complete-collection.json](./283207-dungeons-3-nintendo-switch-complete-collection.json) |
 | Dungeons 4 | 215915 | [215915-dungeons-4.json](./215915-dungeons-4.json) |
+| Dungeons 4: Nintendo Switch Edition | 319321 | [319321-dungeons-4-nintendo-switch-edition.json](./319321-dungeons-4-nintendo-switch-edition.json) |
 | Dungeons 4: The Good, the Bad and the Evil | 309104 | [309104-dungeons-4-the-good-the-bad-and-the-evil.json](./309104-dungeons-4-the-good-the-bad-and-the-evil.json) |
 | Dungeons Again | 120742 | [120742-dungeons-again.json](./120742-dungeons-again.json) |
 | Dungeons and Dinners | 110117 | [110117-dungeons-and-dinners.json](./110117-dungeons-and-dinners.json) |
