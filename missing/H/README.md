@@ -3521,6 +3521,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero Secret Realm Survivor Roguelike | 366293 | [366293-hero-secret-realm-survivor-roguelike.json](./366293-hero-secret-realm-survivor-roguelike.json) |
 | Hero Siege | 11708 | [11708-hero-siege.json](./11708-hero-siege.json) |
 | Hero Siege Complete | 53188 | [53188-hero-siege-complete.json](./53188-hero-siege-complete.json) |
+| Hero Siege: Bifröst Jötunn Skin | 316383 | [316383-hero-siege-bifrost-jotunn-skin.json](./316383-hero-siege-bifrost-jotunn-skin.json) |
+| Hero Siege: Bifröst Viking Skin | 316382 | [316382-hero-siege-bifrost-viking-skin.json](./316382-hero-siege-bifrost-viking-skin.json) |
 | Hero Siege: Companion Bundle | 224234 | [224234-hero-siege-companion-bundle.json](./224234-hero-siege-companion-bundle.json) |
 | Hero Siege: Gates of Valhalla | 204957 | [204957-hero-siege-gates-of-valhalla.json](./204957-hero-siege-gates-of-valhalla.json) |
 | Hero Siege: Gates of Valhalla - Collector's Edition | 204954 | [204954-hero-siege-gates-of-valhalla-collectors-edition.json](./204954-hero-siege-gates-of-valhalla-collectors-edition.json) |
