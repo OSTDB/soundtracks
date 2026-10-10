@@ -3877,6 +3877,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ben 10: Galactic Racing | 2806 | [2806-ben-10-galactic-racing.json](./2806-ben-10-galactic-racing.json) |
 | Ben 10: Omni-Charge | 363892 | [363892-ben-10-omni-charge.json](./363892-ben-10-omni-charge.json) |
 | Ben 10: Omniverse | 2800 | [2800-ben-10-omniverse.json](./2800-ben-10-omniverse.json) |
+| Ben 10: Omniverse | 287015 | [287015-ben-10-omniverse.json](./287015-ben-10-omniverse.json) |
+| Ben 10: Omniverse | 287016 | [287016-ben-10-omniverse.json](./287016-ben-10-omniverse.json) |
+| Ben 10: Omniverse | 287018 | [287018-ben-10-omniverse.json](./287018-ben-10-omniverse.json) |
+| Ben 10: Omniverse 2 | 287019 | [287019-ben-10-omniverse-2.json](./287019-ben-10-omniverse-2.json) |
+| Ben 10: Omniverse 2 | 287020 | [287020-ben-10-omniverse-2.json](./287020-ben-10-omniverse-2.json) |
 | Ben 10: Omniverse 2 | 5310 | [5310-ben-10-omniverse-2.json](./5310-ben-10-omniverse-2.json) |
 | Ben 10: Power Trip | 136659 | [136659-ben-10-power-trip.json](./136659-ben-10-power-trip.json) |
 | Ben 10: Protector of Earth | 210263 | [210263-ben-10-protector-of-earth.json](./210263-ben-10-protector-of-earth.json) |
@@ -6241,6 +6246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BlindSide | 64386 | [64386-blindside.json](./64386-blindside.json) |
 | BlindSight Event Zero | 186760 | [186760-blindsight-event-zero.json](./186760-blindsight-event-zero.json) |
 | Blindsight: War of the Wardens | 248889 | [248889-blindsight-war-of-the-wardens.json](./248889-blindsight-war-of-the-wardens.json) |
+| Blindsighted | 287052 | [287052-blindsighted.json](./287052-blindsighted.json) |
 | Blindy | 125187 | [125187-blindy.json](./125187-blindy.json) |
 | Blinest | 228731 | [228731-blinest.json](./228731-blinest.json) |
 | Bling Bling Bankruptcy | 363943 | [363943-bling-bling-bankruptcy.json](./363943-bling-bling-bankruptcy.json) |
@@ -10174,6 +10180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bug Adventure | 206691 | [206691-bug-adventure.json](./206691-bug-adventure.json) |
 | Bug Aviators in Theme Park | 116163 | [116163-bug-aviators-in-theme-park.json](./116163-bug-aviators-in-theme-park.json) |
 | Bug Bane Survivors | 366362 | [366362-bug-bane-survivors.json](./366362-bug-bane-survivors.json) |
+| Bug Battle | 287025 | [287025-bug-battle.json](./287025-bug-battle.json) |
 | Bug Bites! | 338860 | [338860-bug-bites.json](./338860-bug-bites.json) |
 | Bug Blaster | 15688 | [15688-bug-blaster.json](./15688-bug-blaster.json) |
 | Bug Blasters: The Exterminators | 46550 | [46550-bug-blasters-the-exterminators.json](./46550-bug-blasters-the-exterminators.json) |
