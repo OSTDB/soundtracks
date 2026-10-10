@@ -1319,6 +1319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tanklike | 163349 | [163349-tanklike.json](./163349-tanklike.json) |
 | Tankman | 121635 | [121635-tankman.json](./121635-tankman.json) |
 | Tankomatron War Robots: Transform Tanks into Bots | 104634 | [104634-tankomatron-war-robots-transform-tanks-into-bots.json](./104634-tankomatron-war-robots-transform-tanks-into-bots.json) |
+| TankOre Mining | 333030 | [333030-tankore-mining.json](./333030-tankore-mining.json) |
 | TankRat | 381208 | [381208-tankrat.json](./381208-tankrat.json) |
 | Tankron | 215883 | [215883-tankron.json](./215883-tankron.json) |
 | Tanks | 102253 | [102253-tanks.json](./102253-tanks.json) |
@@ -2722,6 +2723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terminal 64 | 252820 | [252820-terminal-64.json](./252820-terminal-64.json) |
 | Terminal 69 | 289030 | [289030-terminal-69.json](./289030-terminal-69.json) |
 | Terminal 81R | 339409 | [339409-terminal-81r.json](./339409-terminal-81r.json) |
+| Terminal Bore | 333025 | [333025-terminal-bore.json](./333025-terminal-bore.json) |
 | Terminal Breach | 217394 | [217394-terminal-breach.json](./217394-terminal-breach.json) |
 | Terminal City | 314463 | [314463-terminal-city.json](./314463-terminal-city.json) |
 | Terminal Compression | 331969 | [331969-terminal-compression.json](./331969-terminal-compression.json) |
@@ -9872,6 +9874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Shadow Cosmos | 373142 | [373142-the-shadow-cosmos.json](./373142-the-shadow-cosmos.json) |
 | The Shadow in the Cathedral | 10939 | [10939-the-shadow-in-the-cathedral.json](./10939-the-shadow-in-the-cathedral.json) |
 | The Shadow of Shadows | 377047 | [377047-the-shadow-of-shadows.json](./377047-the-shadow-of-shadows.json) |
+| The Shadow of Swallow | 333045 | [333045-the-shadow-of-swallow.json](./333045-the-shadow-of-swallow.json) |
 | The Shadow of the Evil Tower | 270875 | [270875-the-shadow-of-the-evil-tower.json](./270875-the-shadow-of-the-evil-tower.json) |
 | The Shadow of the Warring States Period | 348872 | [348872-the-shadow-of-the-warring-states-period.json](./348872-the-shadow-of-the-warring-states-period.json) |
 | The Shadow of Yserbius | 54684 | [54684-the-shadow-of-yserbius.json](./54684-the-shadow-of-yserbius.json) |
