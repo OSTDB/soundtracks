@@ -554,6 +554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War Ghost | 121695 | [121695-war-ghost.json](./121695-war-ghost.json) |
 | War Girl | 120779 | [120779-war-girl.json](./120779-war-girl.json) |
 | War Gods | 3628 | [3628-war-gods.json](./3628-war-gods.json) |
+| War Hospital: Supporter Edition | 284858 | [284858-war-hospital-supporter-edition.json](./284858-war-hospital-supporter-edition.json) |
 | War Hunter | 96903 | [96903-war-hunter.json](./96903-war-hunter.json) |
 | War Identity | 139454 | [139454-war-identity.json](./139454-war-identity.json) |
 | War in a Box: Paper Tanks | 17563 | [17563-war-in-a-box-paper-tanks.json](./17563-war-in-a-box-paper-tanks.json) |
@@ -3443,6 +3444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Will O Wing | 412433 | [412433-will-o-wing.json](./412433-will-o-wing.json) |
 | Will of Destiny | 372811 | [372811-will-of-destiny.json](./372811-will-of-destiny.json) |
 | Will of Steel | 23810 | [23810-will-of-steel.json](./23810-will-of-steel.json) |
+| Will The Man Get Frog | 284835 | [284835-will-the-man-get-frog.json](./284835-will-the-man-get-frog.json) |
 | Will There Bee Another? | 225740 | [225740-will-there-bee-another.json](./225740-will-there-bee-another.json) |
 | Will This Bitter Night Bring Change? | 204466 | [204466-will-this-bitter-night-bring-change.json](./204466-will-this-bitter-night-bring-change.json) |
 | Will to Live Online | 74849 | [74849-will-to-live-online.json](./74849-will-to-live-online.json) |
@@ -3892,6 +3894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wired Witch | 413788 | [413788-wired-witch.json](./413788-wired-witch.json) |
 | Wireframe Warfare | 340989 | [340989-wireframe-warfare.json](./340989-wireframe-warfare.json) |
 | Wirehead | 5462 | [5462-wirehead.json](./5462-wirehead.json) |
+| WireWalking | 284836 | [284836-wirewalking.json](./284836-wirewalking.json) |
 | Wirtschaftsgiganten | 98968 | [98968-wirtschaftsgiganten.json](./98968-wirtschaftsgiganten.json) |
 | Wisdom | 149196 | [149196-wisdom.json](./149196-wisdom.json) |
 | WisdomGems | 310091 | [310091-wisdomgems.json](./310091-wisdomgems.json) |
@@ -3936,6 +3939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wisps of the Elements | 312544 | [312544-wisps-of-the-elements.json](./312544-wisps-of-the-elements.json) |
 | Wisps: The Redeeming | 2961 | [2961-wisps-the-redeeming.json](./2961-wisps-the-redeeming.json) |
 | Wissen Heroes | 123501 | [123501-wissen-heroes.json](./123501-wissen-heroes.json) |
+| Wit and Dice | 284838 | [284838-wit-and-dice.json](./284838-wit-and-dice.json) |
 | Witanlore: Dreamtime | 27309 | [27309-witanlore-dreamtime.json](./27309-witanlore-dreamtime.json) |
 | Witch | 120153 | [120153-witch.json](./120153-witch.json) |
 | Witch | 299159 | [299159-witch.json](./299159-witch.json) |
@@ -4038,7 +4042,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witches' Legacy: The Ties That Bind - Collector's Edition | 32735 | [32735-witches-legacy-the-ties-that-bind-collectors-edition.json](./32735-witches-legacy-the-ties-that-bind-collectors-edition.json) |
 | Witcheye | 121440 | [121440-witcheye.json](./121440-witcheye.json) |
 | Witchfiend / Odd Job Eddie | 92845 | [92845-witchfiend-odd-job-eddie.json](./92845-witchfiend-odd-job-eddie.json) |
+| WitchGhost | 284837 | [284837-witchghost.json](./284837-witchghost.json) |
 | Witching Hour | 154077 | [154077-witching-hour.json](./154077-witching-hour.json) |
+| Witching Stone | 284839 | [284839-witching-stone.json](./284839-witching-stone.json) |
 | Witching Tower | 90121 | [90121-witching-tower.json](./90121-witching-tower.json) |
 | Witching Tower: Heroes | 132252 | [132252-witching-tower-heroes.json](./132252-witching-tower-heroes.json) |
 | Witching Well | 304010 | [304010-witching-well.json](./304010-witching-well.json) |
@@ -5007,6 +5013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World in a Moment | 229759 | [229759-world-in-a-moment.json](./229759-world-in-a-moment.json) |
 | World in Conflict | 941 | [941-world-in-conflict.json](./941-world-in-conflict.json) |
 | World in Conflict: Soviet Assault | 9338 | [9338-world-in-conflict-soviet-assault.json](./9338-world-in-conflict-soviet-assault.json) |
+| World in fire | 284833 | [284833-world-in-fire.json](./284833-world-in-fire.json) |
 | World is Lava | 376713 | [376713-world-is-lava.json](./376713-world-is-lava.json) |
 | World Jockey | 37650 | [37650-world-jockey.json](./37650-world-jockey.json) |
 | World Karate Championship | 79620 | [79620-world-karate-championship.json](./79620-world-karate-championship.json) |
