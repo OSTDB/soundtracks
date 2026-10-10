@@ -5774,6 +5774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hontou no Negaigoto | 413744 | [413744-hontou-no-negaigoto.json](./413744-hontou-no-negaigoto.json) |
 | Honu | 369079 | [369079-honu.json](./369079-honu.json) |
 | Honyarara Magic | 98446 | [98446-honyarara-magic.json](./98446-honyarara-magic.json) |
+| Hood RPG | 326099 | [326099-hood-rpg.json](./326099-hood-rpg.json) |
 | Hood Story: Kaito Yamazaki | 216717 | [216717-hood-story-kaito-yamazaki.json](./216717-hood-story-kaito-yamazaki.json) |
 | Hood Warfare | 233644 | [233644-hood-warfare.json](./233644-hood-warfare.json) |
 | Hood: Outlaws & Legends | 136512 | [136512-hood-outlaws-and-legends.json](./136512-hood-outlaws-and-legends.json) |
