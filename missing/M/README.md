@@ -6195,6 +6195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meu Primeiro Laptop da Xuxa | 255339 | [255339-meu-primeiro-laptop-da-xuxa.json](./255339-meu-primeiro-laptop-da-xuxa.json) |
 | Mevo and the Grooveriders | 7963 | [7963-mevo-and-the-grooveriders.json](./7963-mevo-and-the-grooveriders.json) |
 | Mew Mew Chamber for Steam | 90543 | [90543-mew-mew-chamber-for-steam.json](./90543-mew-mew-chamber-for-steam.json) |
+| Mew Mew Power: Cyniclon Invasion | 328424 | [328424-mew-mew-power-cyniclon-invasion.json](./328424-mew-mew-power-cyniclon-invasion.json) |
 | Mew's Under The Truck | 276486 | [276486-mews-under-the-truck.json](./276486-mews-under-the-truck.json) |
 | Méwilo | 38861 | [38861-mewilo.json](./38861-mewilo.json) |
 | Mewing Simulator | 312024 | [312024-mewing-simulator.json](./312024-mewing-simulator.json) |
@@ -8894,6 +8895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moe Slot Beach no Shizuku | 292088 | [292088-moe-slot-beach-no-shizuku.json](./292088-moe-slot-beach-no-shizuku.json) |
 | Moe Waifu H | 240179 | [240179-moe-waifu-h.json](./240179-moe-waifu-h.json) |
 | Moe Waifu H: BlockBlast | 317213 | [317213-moe-waifu-h-blockblast.json](./317213-moe-waifu-h-blockblast.json) |
+| Moe Waifu H: Fantasy | 328442 | [328442-moe-waifu-h-fantasy.json](./328442-moe-waifu-h-fantasy.json) |
 | Moe Waifu H: Push-Box | 337988 | [337988-moe-waifu-h-push-box.json](./337988-moe-waifu-h-push-box.json) |
 | Moe! Ninja Girls | 110797 | [110797-moe-ninja-girls.json](./110797-moe-ninja-girls.json) |
 | Moe's Body Shop | 323790 | [323790-moes-body-shop.json](./323790-moes-body-shop.json) |
@@ -10149,6 +10151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moorhuhn Deluxe | 144593 | [144593-moorhuhn-deluxe.json](./144593-moorhuhn-deluxe.json) |
 | Moorhuhn in Südafrika | 282543 | [282543-moorhuhn-in-sudafrika.json](./282543-moorhuhn-in-sudafrika.json) |
 | Moorhuhn Jump and Run: Traps and Treasures 2 | 196642 | [196642-moorhuhn-jump-and-run-traps-and-treasures-2.json](./196642-moorhuhn-jump-and-run-traps-and-treasures-2.json) |
+| Moorhuhn Kart 4 | 328411 | [328411-moorhuhn-kart-4.json](./328411-moorhuhn-kart-4.json) |
 | Moorhuhn UnfairPlay | 144599 | [144599-moorhuhn-unfairplay.json](./144599-moorhuhn-unfairplay.json) |
 | Moorhuhn VR | 144598 | [144598-moorhuhn-vr.json](./144598-moorhuhn-vr.json) |
 | Moorhuhn: Die ersten 10 Jahre | 265946 | [265946-moorhuhn-die-ersten-10-jahre.json](./265946-moorhuhn-die-ersten-10-jahre.json) |
