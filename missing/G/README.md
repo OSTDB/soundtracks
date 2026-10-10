@@ -1025,6 +1025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ganso! Doubutsu Uranai + Renai Uranai Puzzle | 97855 | [97855-ganso-doubutsu-uranai-renai-uranai-puzzle.json](./97855-ganso-doubutsu-uranai-renai-uranai-puzzle.json) |
 | Ganso!! Yancha-maru | 186733 | [186733-ganso-yancha-maru.json](./186733-ganso-yancha-maru.json) |
 | Gantz: The Game | 78046 | [78046-gantz-the-game.json](./78046-gantz-the-game.json) |
+| Ganyang Setan Alas: The Game | 327167 | [327167-ganyang-setan-alas-the-game.json](./327167-ganyang-setan-alas-the-game.json) |
 | Ganz Schön Clever | 105957 | [105957-ganz-schon-clever.json](./105957-ganz-schon-clever.json) |
 | Gao Gao! 1st: Radical Sequence | 230229 | [230229-gao-gao-1st-radical-sequence.json](./230229-gao-gao-1st-radical-sequence.json) |
 | Gaop | 233657 | [233657-gaop.json](./233657-gaop.json) |
@@ -1574,6 +1575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GemCraft: Frostborn Wrath | 119980 | [119980-gemcraft-frostborn-wrath.json](./119980-gemcraft-frostborn-wrath.json) |
 | Gemcraft: Legacy Collection | 408202 | [408202-gemcraft-legacy-collection.json](./408202-gemcraft-legacy-collection.json) |
 | Gemdance | 124575 | [124575-gemdance.json](./124575-gemdance.json) |
+| Gemerald | 327250 | [327250-gemerald.json](./327250-gemerald.json) |
 | Gemfire | 14501 | [14501-gemfire.json](./14501-gemfire.json) |
 | Gemibears | 233997 | [233997-gemibears.json](./233997-gemibears.json) |
 | Gemini | 139404 | [139404-gemini.json](./139404-gemini.json) |
@@ -2928,6 +2930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glitchers: Hack 'em Up | 263123 | [263123-glitchers-hack-em-up.json](./263123-glitchers-hack-em-up.json) |
 | Glitchery | 386143 | [386143-glitchery.json](./386143-glitchery.json) |
 | Glitchfall | 368817 | [368817-glitchfall.json](./368817-glitchfall.json) |
+| GlitchGuesser | 327464 | [327464-glitchguesser.json](./327464-glitchguesser.json) |
 | Glitchhikers: First Drive | 178009 | [178009-glitchhikers-first-drive.json](./178009-glitchhikers-first-drive.json) |
 | Glitchhikers: The Spaces Between | 186873 | [186873-glitchhikers-the-spaces-between.json](./186873-glitchhikers-the-spaces-between.json) |
 | Glitchhikers: The Spaces Between - Chill Beats Edition | 205228 | [205228-glitchhikers-the-spaces-between-chill-beats-edition.json](./205228-glitchhikers-the-spaces-between-chill-beats-edition.json) |
@@ -3307,6 +3310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go! Sports Ski | 72936 | [72936-go-sports-ski.json](./72936-go-sports-ski.json) |
 | Go! Super Awesome Monkey! | 414329 | [414329-go-super-awesome-monkey.json](./414329-go-super-awesome-monkey.json) |
 | Go!Go! Usa-chan Ressha | 242081 | [242081-go-go-usa-chan-ressha.json](./242081-go-go-usa-chan-ressha.json) |
+| Go!Go!Pizzaboy! | 327459 | [327459-go-go-pizzaboy.json](./327459-go-go-pizzaboy.json) |
 | Goaaal | 200131 | [200131-goaaal.json](./200131-goaaal.json) |
 | Goal 94 | 78065 | [78065-goal-94.json](./78065-goal-94.json) |
 | Goal and Crossbones | 178649 | [178649-goal-and-crossbones.json](./178649-goal-and-crossbones.json) |
@@ -4430,6 +4434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GoVenture Entrepreneur | 203840 | [203840-goventure-entrepreneur.json](./203840-goventure-entrepreneur.json) |
 | GoVenture Micro Business | 31865 | [31865-goventure-micro-business.json](./31865-goventure-micro-business.json) |
 | GoVenture Typing | 117708 | [117708-goventure-typing.json](./117708-goventure-typing.json) |
+| Government Contractors: Arms of Influence | 327249 | [327249-government-contractors-arms-of-influence.json](./327249-government-contractors-arms-of-influence.json) |
 | Government Simulator | 74673 | [74673-government-simulator.json](./74673-government-simulator.json) |
 | Government X | 244481 | [244481-government-x.json](./244481-government-x.json) |
 | Governor of Poker 3 | 33663 | [33663-governor-of-poker-3.json](./33663-governor-of-poker-3.json) |
