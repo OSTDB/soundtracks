@@ -3431,6 +3431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Investigation Stories: Gunsound | 369552 | [369552-investigation-stories-gunsound.json](./369552-investigation-stories-gunsound.json) |
 | Investigator | 32526 | [32526-investigator.json](./32526-investigator.json) |
 | Investigator and the Case of the Unconventional Weapon | 179660 | [179660-investigator-and-the-case-of-the-unconventional-weapon.json](./179660-investigator-and-the-case-of-the-unconventional-weapon.json) |
+| Investigator Trials | 289229 | [289229-investigator-trials.json](./289229-investigator-trials.json) |
 | Investment Run | 319166 | [319166-investment-run.json](./319166-investment-run.json) |
 | Investour | 367050 | [367050-investour.json](./367050-investour.json) |
 | Invincible Cleopatra: Caesar's Dreams | 164946 | [164946-invincible-cleopatra-caesars-dreams.json](./164946-invincible-cleopatra-caesars-dreams.json) |
@@ -3712,6 +3713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IS Defense | 17467 | [17467-is-defense.json](./17467-is-defense.json) |
 | Is Everyone Mad at Me? | 394505 | [394505-is-everyone-mad-at-me.json](./394505-is-everyone-mad-at-me.json) |
 | Is Guilty | 389583 | [389583-is-guilty.json](./389583-is-guilty.json) |
+| Is it different or not? | 289249 | [289249-is-it-different-or-not.json](./289249-is-it-different-or-not.json) |
 | Is it Love ? Nicolae Vampire | 109023 | [109023-is-it-love-nicolae-vampire.json](./109023-is-it-love-nicolae-vampire.json) |
 | Is it Love? Blue Swan Hospital | 116392 | [116392-is-it-love-blue-swan-hospital.json](./116392-is-it-love-blue-swan-hospital.json) |
 | Is it OK to pick up Anomalies at a University? | 301946 | [301946-is-it-ok-to-pick-up-anomalies-at-a-university.json](./301946-is-it-ok-to-pick-up-anomalies-at-a-university.json) |
