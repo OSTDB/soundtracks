@@ -3547,6 +3547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Serflings | 210632 | [210632-serflings.json](./210632-serflings.json) |
 | Sergeant Seymour RobotCop | 39166 | [39166-sergeant-seymour-robotcop.json](./39166-sergeant-seymour-robotcop.json) |
 | Sergeant Squidley: Space Cop! | 236895 | [236895-sergeant-squidley-space-cop.json](./236895-sergeant-squidley-space-cop.json) |
+| Sergei and the Tax Return | 289267 | [289267-sergei-and-the-tax-return.json](./289267-sergei-and-the-tax-return.json) |
 | Serguei's Destiny | 74041 | [74041-sergueis-destiny.json](./74041-sergueis-destiny.json) |
 | Serial Assault: The Memory of the Summer. | 97478 | [97478-serial-assault-the-memory-of-the-summer.json](./97478-serial-assault-the-memory-of-the-summer.json) |
 | Serial Cleaner | 19450 | [19450-serial-cleaner.json](./19450-serial-cleaner.json) |
@@ -7335,6 +7336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skatebird | 111813 | [111813-skatebird.json](./111813-skatebird.json) |
 | Skateboard Crazy | 57599 | [57599-skateboard-crazy.json](./57599-skateboard-crazy.json) |
 | Skateboard Drifting Simulator with Maxwell Cat: The Game | 259231 | [259231-skateboard-drifting-simulator-with-maxwell-cat-the-game.json](./259231-skateboard-drifting-simulator-with-maxwell-cat-the-game.json) |
+| Skateboard Gravity | 289250 | [289250-skateboard-gravity.json](./289250-skateboard-gravity.json) |
 | Skateboard Jam | 324848 | [324848-skateboard-jam.json](./324848-skateboard-jam.json) |
 | Skateboard Kidz | 78881 | [78881-skateboard-kidz.json](./78881-skateboard-kidz.json) |
 | Skateboard Knight | 338300 | [338300-skateboard-knight.json](./338300-skateboard-knight.json) |
@@ -10005,6 +10007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solar Plexus | 40754 | [40754-solar-plexus.json](./40754-solar-plexus.json) |
 | Solar Plexus | 87803 | [87803-solar-plexus.json](./87803-solar-plexus.json) |
 | Solar Purge | 109698 | [109698-solar-purge.json](./109698-solar-purge.json) |
+| Solar Quiz VR | 289234 | [289234-solar-quiz-vr.json](./289234-solar-quiz-vr.json) |
 | Solar Rally | 262469 | [262469-solar-rally.json](./262469-solar-rally.json) |
 | Solar Revival | 193892 | [193892-solar-revival.json](./193892-solar-revival.json) |
 | Solar Rogue | 133421 | [133421-solar-rogue.json](./133421-solar-rogue.json) |
@@ -11542,6 +11545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Souland | 76690 | [76690-souland.json](./76690-souland.json) |
 | Soulash | 118457 | [118457-soulash.json](./118457-soulash.json) |
 | Soulash 2 | 249194 | [249194-soulash-2.json](./249194-soulash-2.json) |
+| Soulbind: Prologue | 289263 | [289263-soulbind-prologue.json](./289263-soulbind-prologue.json) |
 | Soulblade: Dawnbreaker | 380003 | [380003-soulblade-dawnbreaker.json](./380003-soulblade-dawnbreaker.json) |
 | Soulblaze | 325674 | [325674-soulblaze.json](./325674-soulblaze.json) |
 | Soulborn | 132183 | [132183-soulborn.json](./132183-soulborn.json) |
@@ -16770,6 +16774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stocks | 364990 | [364990-stocks.json](./364990-stocks.json) |
 | StockSim | 332623 | [332623-stocksim.json](./332623-stocksim.json) |
 | Stocksynd House | 128767 | [128767-stocksynd-house.json](./128767-stocksynd-house.json) |
+| StoicScape | 289255 | [289255-stoicscape.json](./289255-stoicscape.json) |
 | Stoirs VR | 160156 | [160156-stoirs-vr.json](./160156-stoirs-vr.json) |
 | Stoked | 7195 | [7195-stoked.json](./7195-stoked.json) |
 | Stoked: Big Air Edition | 21107 | [21107-stoked-big-air-edition.json](./21107-stoked-big-air-edition.json) |
@@ -18327,6 +18332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sugarcreek | 204110 | [204110-sugarcreek.json](./204110-sugarcreek.json) |
 | Sugardew Island: Christmas Bundle | 385187 | [385187-sugardew-island-christmas-bundle.json](./385187-sugardew-island-christmas-bundle.json) |
 | Sugardew Island: Christmas Costume | 385178 | [385178-sugardew-island-christmas-costume.json](./385178-sugardew-island-christmas-costume.json) |
+| Sugardew Island: Your Cozy Farm Shop | 289259 | [289259-sugardew-island-your-cozy-farm-shop.json](./289259-sugardew-island-your-cozy-farm-shop.json) |
 | Sugarlawn | 209610 | [209610-sugarlawn.json](./209610-sugarlawn.json) |
 | Sugary Delight | 234619 | [234619-sugary-delight.json](./234619-sugary-delight.json) |
 | Sugary Shifter | 314055 | [314055-sugary-shifter.json](./314055-sugary-shifter.json) |
