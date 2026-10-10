@@ -356,6 +356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valthazar's Sanctum | 266306 | [266306-valthazars-sanctum.json](./266306-valthazars-sanctum.json) |
 | Valthirian Arc: Hero School Story 2 | 163873 | [163873-valthirian-arc-hero-school-story-2.json](./163873-valthirian-arc-hero-school-story-2.json) |
 | Valtica | 413509 | [413509-valtica.json](./413509-valtica.json) |
+| ValueHunt | 281338 | [281338-valuehunt.json](./281338-valuehunt.json) |
 | Valve Complete Pack | 55025 | [55025-valve-complete-pack.json](./55025-valve-complete-pack.json) |
 | Valve Limit R | 198311 | [198311-valve-limit-r.json](./198311-valve-limit-r.json) |
 | Valves | 270717 | [270717-valves.json](./270717-valves.json) |
@@ -1814,6 +1815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Visionarium 2: The Descent | 197379 | [197379-visionarium-2-the-descent.json](./197379-visionarium-2-the-descent.json) |
 | Visions | 61867 | [61867-visions.json](./61867-visions.json) |
 | Visions of Aftermath: Boomtown | 9526 | [9526-visions-of-aftermath-boomtown.json](./9526-visions-of-aftermath-boomtown.json) |
+| Visions of Eternity | 281317 | [281317-visions-of-eternity.json](./281317-visions-of-eternity.json) |
 | Visit Bloofpiter Today | 302510 | [302510-visit-bloofpiter-today.json](./302510-visit-bloofpiter-today.json) |
 | Visit Once | 147469 | [147469-visit-once.json](./147469-visit-once.json) |
 | Visitations | 156610 | [156610-visitations.json](./156610-visitations.json) |
