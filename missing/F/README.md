@@ -2173,6 +2173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fear surrounds | 143693 | [143693-fear-surrounds.json](./143693-fear-surrounds.json) |
 | Fear Survival | 174650 | [174650-fear-survival.json](./174650-fear-survival.json) |
 | Fear Tall Grass | 399074 | [399074-fear-tall-grass.json](./399074-fear-tall-grass.json) |
+| Fear Tape | 298397 | [298397-fear-tape.json](./298397-fear-tape.json) |
 | Fear Tapes: Scrap Yard | 371599 | [371599-fear-tapes-scrap-yard.json](./371599-fear-tapes-scrap-yard.json) |
 | Fear the Dark Unknown: Chloe | 132250 | [132250-fear-the-dark-unknown-chloe.json](./132250-fear-the-dark-unknown-chloe.json) |
 | Fear the Dark Unknown: James | 159722 | [159722-fear-the-dark-unknown-james.json](./159722-fear-the-dark-unknown-james.json) |
@@ -3034,6 +3035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy | 380632 | [380632-final-fantasy.json](./380632-final-fantasy.json) |
 | Final Fantasy | 408304 | [408304-final-fantasy.json](./408304-final-fantasy.json) |
 | Final Fantasy ++ | 214990 | [214990-final-fantasy.json](./214990-final-fantasy.json) |
+| Final Fantasy ++ World of Chaos | 298415 | [298415-final-fantasy-world-of-chaos.json](./298415-final-fantasy-world-of-chaos.json) |
 | Final Fantasy 25th Anniversary Ultimate Box | 282727 | [282727-final-fantasy-25th-anniversary-ultimate-box.json](./282727-final-fantasy-25th-anniversary-ultimate-box.json) |
 | Final Fantasy Adventure DX | 306591 | [306591-final-fantasy-adventure-dx.json](./306591-final-fantasy-adventure-dx.json) |
 | Final Fantasy Agito | 7400 | [7400-final-fantasy-agito.json](./7400-final-fantasy-agito.json) |
@@ -7026,6 +7028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Free the Blobs | 18428 | [18428-free-the-blobs.json](./18428-free-the-blobs.json) |
 | Free the Lazy Dogs | 258516 | [258516-free-the-lazy-dogs.json](./258516-free-the-lazy-dogs.json) |
 | Free Throw Basketball | 147868 | [147868-free-throw-basketball.json](./147868-free-throw-basketball.json) |
+| Free Trader | 298407 | [298407-free-trader.json](./298407-free-trader.json) |
 | Free Will | 291462 | [291462-free-will.json](./291462-free-will.json) |
 | Free Yourself - The Gravity Puzzle Game Starring YOU | 81789 | [81789-free-yourself-the-gravity-puzzle-game-starring-you.json](./81789-free-yourself-the-gravity-puzzle-game-starring-you.json) |
 | Free-Energy | 180576 | [180576-free-energy.json](./180576-free-energy.json) |
