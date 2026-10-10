@@ -1495,6 +1495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hatchwell | 182284 | [182284-hatchwell.json](./182284-hatchwell.json) |
 | Hate Free Heroes RPG | 31682 | [31682-hate-free-heroes-rpg.json](./31682-hate-free-heroes-rpg.json) |
 | Hate Plus | 16542 | [16542-hate-plus.json](./16542-hate-plus.json) |
+| Hateful Days | 292424 | [292424-hateful-days.json](./292424-hateful-days.json) |
 | Haters, kill them all! | 86540 | [86540-haters-kill-them-all.json](./86540-haters-kill-them-all.json) |
 | Hatfall | 11818 | [11818-hatfall.json](./11818-hatfall.json) |
 | Hatland Adventures | 35818 | [35818-hatland-adventures.json](./35818-hatland-adventures.json) |
@@ -2361,6 +2362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hela: Of Mice & Magic | 314449 | [314449-hela-of-mice-and-magic.json](./314449-hela-of-mice-and-magic.json) |
 | Helam: A Stripling Warrior Quest | 65468 | [65468-helam-a-stripling-warrior-quest.json](./65468-helam-a-stripling-warrior-quest.json) |
 | Helbreath | 307147 | [307147-helbreath.json](./307147-helbreath.json) |
+| Helbreath Nemesis | 292432 | [292432-helbreath-nemesis.json](./292432-helbreath-nemesis.json) |
 | Heldric: The Legend of the Shoemaker | 17233 | [17233-heldric-the-legend-of-the-shoemaker.json](./17233-heldric-the-legend-of-the-shoemaker.json) |
 | Helen Keller Simulator | 412205 | [412205-helen-keller-simulator.json](./412205-helen-keller-simulator.json) |
 | Helen's Mysterious Castle | 27991 | [27991-helens-mysterious-castle.json](./27991-helens-mysterious-castle.json) |
@@ -4657,6 +4659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HighSchool Simulator Battle | 297631 | [297631-highschool-simulator-battle.json](./297631-highschool-simulator-battle.json) |
 | Highschool53 | 280340 | [280340-highschool53.json](./280340-highschool53.json) |
 | Highscore | 238592 | [238592-highscore.json](./238592-highscore.json) |
+| HighScore Anomaly Shop | 292442 | [292442-highscore-anomaly-shop.json](./292442-highscore-anomaly-shop.json) |
 | Highscore Processing Unit | 99645 | [99645-highscore-processing-unit.json](./99645-highscore-processing-unit.json) |
 | Highway | 247016 | [247016-highway.json](./247016-highway.json) |
 | Highway | 267410 | [267410-highway.json](./267410-highway.json) |
