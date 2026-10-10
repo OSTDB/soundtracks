@@ -155,6 +155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaikan Phrase: Datenshi Kourin | 269753 | [269753-kaikan-phrase-datenshi-kourin.json](./269753-kaikan-phrase-datenshi-kourin.json) |
 | Kaiketsu Yanchamaru | 40216 | [40216-kaiketsu-yanchamaru.json](./40216-kaiketsu-yanchamaru.json) |
 | Kaiketsu Yanchamaru 3: Taiketsu! Zouringen | 66050 | [66050-kaiketsu-yanchamaru-3-taiketsu-zouringen.json](./66050-kaiketsu-yanchamaru-3-taiketsu-zouringen.json) |
+| Kaiketsu Zorori: Mezase! Itazura King | 307269 | [307269-kaiketsu-zorori-mezase-itazura-king.json](./307269-kaiketsu-zorori-mezase-itazura-king.json) |
 | Kaiki Gensou Yumemonogatari: Kaijuu Kitan Ouja-den | 110137 | [110137-kaiki-gensou-yumemonogatari-kaijuu-kitan-ouja-den.json](./110137-kaiki-gensou-yumemonogatari-kaijuu-kitan-ouja-den.json) |
 | Kaiki Sando | 282243 | [282243-kaiki-sando.json](./282243-kaiki-sando.json) |
 | Kaiki: Okujou no Yuurei to Akuma no Gishiki | 283853 | [283853-kaiki-okujou-no-yuurei-to-akuma-no-gishiki.json](./283853-kaiki-okujou-no-yuurei-to-akuma-no-gishiki.json) |
@@ -3684,6 +3685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kupechestvo | 190211 | [190211-kupechestvo.json](./190211-kupechestvo.json) |
 | Kupimon | 261979 | [261979-kupimon.json](./261979-kupimon.json) |
 | Kur | 130250 | [130250-kur.json](./130250-kur.json) |
+| Kur Tu Teci, Gailīti Manu? | 307170 | [307170-kur-tu-teci-gailiti-manu.json](./307170-kur-tu-teci-gailiti-manu.json) |
 | Kur, Pelīte, Tu Tecēji? | 305384 | [305384-kur-pelite-tu-teceji.json](./305384-kur-pelite-tu-teceji.json) |
 | Kura5: Bonds of the Undying | 139235 | [139235-kura5-bonds-of-the-undying.json](./139235-kura5-bonds-of-the-undying.json) |
 | Kuraburo Kai | 32094 | [32094-kuraburo-kai.json](./32094-kuraburo-kai.json) |
