@@ -2629,6 +2629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Hacking | 318117 | [318117-night-hacking.json](./318117-night-hacking.json) |
 | Night Hazard | 329110 | [329110-night-hazard.json](./329110-night-hazard.json) |
 | Night Head: The Labyrinth | 123475 | [123475-night-head-the-labyrinth.json](./123475-night-head-the-labyrinth.json) |
+| Night Hike | 288696 | [288696-night-hike.json](./288696-night-hike.json) |
 | Night Hike | 385376 | [385376-night-hike.json](./385376-night-hike.json) |
 | Night House | 57503 | [57503-night-house.json](./57503-night-house.json) |
 | Night in the Unpleasant House | 227837 | [227837-night-in-the-unpleasant-house.json](./227837-night-in-the-unpleasant-house.json) |
