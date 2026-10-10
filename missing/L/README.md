@@ -641,6 +641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laser Blast! 4: The Lunasol Encounter | 290344 | [290344-laser-blast-4-the-lunasol-encounter.json](./290344-laser-blast-4-the-lunasol-encounter.json) |
 | Laser Blaster | 58252 | [58252-laser-blaster.json](./58252-laser-blaster.json) |
 | Laser Bounce | 186686 | [186686-laser-bounce.json](./186686-laser-bounce.json) |
+| Laser Bounce | 287024 | [287024-laser-bounce.json](./287024-laser-bounce.json) |
 | Laser Brain Puzzle: Classic Logic Arcade | 251045 | [251045-laser-brain-puzzle-classic-logic-arcade.json](./251045-laser-brain-puzzle-classic-logic-arcade.json) |
 | Laser Cannon 3 | 207814 | [207814-laser-cannon-3.json](./207814-laser-cannon-3.json) |
 | Laser Cat Craft | 244803 | [244803-laser-cat-craft.json](./244803-laser-cat-craft.json) |
@@ -2674,6 +2675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Librarium | 235495 | [235495-librarium.json](./235495-librarium.json) |
 | Library Escape | 400487 | [400487-library-escape.json](./400487-library-escape.json) |
 | Library Fantasy | 128554 | [128554-library-fantasy.json](./128554-library-fantasy.json) |
+| Library Fantasy | 287001 | [287001-library-fantasy.json](./287001-library-fantasy.json) |
 | Library Game | 337640 | [337640-library-game.json](./337640-library-game.json) |
 | Library of Babel | 389018 | [389018-library-of-babel.json](./389018-library-of-babel.json) |
 | Library of Lyria | 309543 | [309543-library-of-lyria.json](./309543-library-of-lyria.json) |
