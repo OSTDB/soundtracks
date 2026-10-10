@@ -521,6 +521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Normal Survey | 393794 | [393794-a-normal-survey.json](./393794-a-normal-survey.json) |
 | A Once Glorious City | 271725 | [271725-a-once-glorious-city.json](./271725-a-once-glorious-city.json) |
 | A Pair of Feathers Squawk Together | 311607 | [311607-a-pair-of-feathers-squawk-together.json](./311607-a-pair-of-feathers-squawk-together.json) |
+| A Paper Mario Puzzle Game | 323741 | [323741-a-paper-mario-puzzle-game.json](./323741-a-paper-mario-puzzle-game.json) |
 | A Paranormal Story | 335399 | [335399-a-paranormal-story.json](./335399-a-paranormal-story.json) |
 | A Park Full of Cats | 276198 | [276198-a-park-full-of-cats.json](./276198-a-park-full-of-cats.json) |
 | A Park Full of Cats: Haunted Ride | 276234 | [276234-a-park-full-of-cats-haunted-ride.json](./276234-a-park-full-of-cats-haunted-ride.json) |
@@ -3378,6 +3379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akumanor Gaiden | 361222 | [361222-akumanor-gaiden.json](./361222-akumanor-gaiden.json) |
 | Akumon Summoner | 393458 | [393458-akumon-summoner.json](./393458-akumon-summoner.json) |
 | Akunin-Akka | 389995 | [389995-akunin-akka.json](./389995-akunin-akka.json) |
+| Akupara Collection | 324009 | [324009-akupara-collection.json](./324009-akupara-collection.json) |
 | Akupara: Action Bundle | 222409 | [222409-akupara-action-bundle.json](./222409-akupara-action-bundle.json) |
 | Akuro & Bahaku 2 | 355211 | [355211-akuro-and-bahaku-2.json](./355211-akuro-and-bahaku-2.json) |
 | Akuro & Bahaku: Jungle Adventure | 325060 | [325060-akuro-and-bahaku-jungle-adventure.json](./325060-akuro-and-bahaku-jungle-adventure.json) |
@@ -4413,6 +4415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alpenglow | 384668 | [384668-alpenglow.json](./384668-alpenglow.json) |
 | Alpha | 117490 | [117490-alpha.json](./117490-alpha.json) |
 | Alpha | 313804 | [313804-alpha.json](./313804-alpha.json) |
+| Alpha 2 | 323996 | [323996-alpha-2.json](./323996-alpha-2.json) |
 | Alpha Accident: Terra Nova | 256878 | [256878-alpha-accident-terra-nova.json](./256878-alpha-accident-terra-nova.json) |
 | Alpha and Omega | 98810 | [98810-alpha-and-omega.json](./98810-alpha-and-omega.json) |
 | Alpha Beam With Ernie | 3252 | [3252-alpha-beam-with-ernie.json](./3252-alpha-beam-with-ernie.json) |
@@ -4842,6 +4845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ambitious Mission | 293897 | [293897-ambitious-mission.json](./293897-ambitious-mission.json) |
 | AmbivalenZ: Niritsu Haihan | 93351 | [93351-ambivalenz-niritsu-haihan.json](./93351-ambivalenz-niritsu-haihan.json) |
 | Amborettio | 170892 | [170892-amborettio.json](./170892-amborettio.json) |
+| Ambroise Niflette & the Gleaned Bell | 323975 | [323975-ambroise-niflette-and-the-gleaned-bell.json](./323975-ambroise-niflette-and-the-gleaned-bell.json) |
 | Ambrose | 401032 | [401032-ambrose.json](./401032-ambrose.json) |
 | Ambrosia | 104239 | [104239-ambrosia.json](./104239-ambrosia.json) |
 | Ambrosia Sky: Act Two | 404879 | [404879-ambrosia-sky-act-two.json](./404879-ambrosia-sky-act-two.json) |
