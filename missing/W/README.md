@@ -1337,6 +1337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warzone | 308473 | [308473-warzone.json](./308473-warzone.json) |
 | WarZone | 370920 | [370920-warzone.json](./370920-warzone.json) |
 | Warzone Chronicles 2: Warfare Shooter Zombie | 315823 | [315823-warzone-chronicles-2-warfare-shooter-zombie.json](./315823-warzone-chronicles-2-warfare-shooter-zombie.json) |
+| Warzone Chronicles: Night Vision | 306550 | [306550-warzone-chronicles-night-vision.json](./306550-warzone-chronicles-night-vision.json) |
 | Warzone Chronicles: Virtual Warfare Shooter | 283217 | [283217-warzone-chronicles-virtual-warfare-shooter.json](./283217-warzone-chronicles-virtual-warfare-shooter.json) |
 | Warzone Chronicles: Virtual Warfare Shooter - Premium Edition | 308795 | [308795-warzone-chronicles-virtual-warfare-shooter-premium-edition.json](./308795-warzone-chronicles-virtual-warfare-shooter-premium-edition.json) |
 | WarZone Flashpoint | 112996 | [112996-warzone-flashpoint.json](./112996-warzone-flashpoint.json) |
@@ -5345,6 +5346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WorldNeverland: Elnea Kingdom - Modern Yukata Set: Violet | 313791 | [313791-worldneverland-elnea-kingdom-modern-yukata-set-violet.json](./313791-worldneverland-elnea-kingdom-modern-yukata-set-violet.json) |
 | WorldNeverland: Elnea Kingdom - Sugar Donut Fair | 288288 | [288288-worldneverland-elnea-kingdom-sugar-donut-fair.json](./288288-worldneverland-elnea-kingdom-sugar-donut-fair.json) |
 | WorldNeverland: Elnea Kingdom - Summer Hiking Wear Set: Lime | 309067 | [309067-worldneverland-elnea-kingdom-summer-hiking-wear-set-lime.json](./309067-worldneverland-elnea-kingdom-summer-hiking-wear-set-lime.json) |
+| WorldNeverland: Elnea Kingdom - Summer Sailor Uniform Set: Bowa | 306548 | [306548-worldneverland-elnea-kingdom-summer-sailor-uniform-set-bowa.json](./306548-worldneverland-elnea-kingdom-summer-sailor-uniform-set-bowa.json) |
 | WorldNeverland: Elnea Kingdom - The Makeover Collection | 259530 | [259530-worldneverland-elnea-kingdom-the-makeover-collection.json](./259530-worldneverland-elnea-kingdom-the-makeover-collection.json) |
 | WorldNeverland: Elnea Kingdom - Wa Mage Wear Set: Navy | 324359 | [324359-worldneverland-elnea-kingdom-wa-mage-wear-set-navy.json](./324359-worldneverland-elnea-kingdom-wa-mage-wear-set-navy.json) |
 | WorldNeverland: Flower Trimmed Wear Set - Sakura | 294856 | [294856-worldneverland-flower-trimmed-wear-set-sakura.json](./294856-worldneverland-flower-trimmed-wear-set-sakura.json) |
