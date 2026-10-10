@@ -4710,6 +4710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AmaranTime | 30172 | [30172-amarantime.json](./30172-amarantime.json) |
 | Amarantus | 201324 | [201324-amarantus.json](./201324-amarantus.json) |
 | Amare Magia | 401186 | [401186-amare-magia.json](./401186-amare-magia.json) |
+| Amarela | 323423 | [323423-amarela.json](./323423-amarela.json) |
 | Amarillo's Butt Slapper | 319679 | [319679-amarillos-butt-slapper.json](./319679-amarillos-butt-slapper.json) |
 | Amatarasu Riddle Star | 122796 | [122796-amatarasu-riddle-star.json](./122796-amatarasu-riddle-star.json) |
 | Amateur League Golf | 202188 | [202188-amateur-league-golf.json](./202188-amateur-league-golf.json) |
