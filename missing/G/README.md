@@ -5524,6 +5524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Griffophone Rider | 417562 | [417562-griffophone-rider.json](./417562-griffophone-rider.json) |
 | Griftlands: Nintendo Switch Edition | 140501 | [140501-griftlands-nintendo-switch-edition.json](./140501-griftlands-nintendo-switch-edition.json) |
 | Grigala Runner | 110140 | [110140-grigala-runner.json](./110140-grigala-runner.json) |
+| Grigore’s Tales: Halloween | 315797 | [315797-grigore-s-tales-halloween.json](./315797-grigore-s-tales-halloween.json) |
 | GrigoriNightDragon | 336581 | [336581-grigorinightdragon.json](./336581-grigorinightdragon.json) |
 | Grill it! Sanma | 370818 | [370818-grill-it-sanma.json](./370818-grill-it-sanma.json) |
 | Grill-Off with Ultra Hand! | 50696 | [50696-grill-off-with-ultra-hand.json](./50696-grill-off-with-ultra-hand.json) |
