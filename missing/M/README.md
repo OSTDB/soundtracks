@@ -5348,6 +5348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memories | 174752 | [174752-memories.json](./174752-memories.json) |
 | Memories | 234107 | [234107-memories.json](./234107-memories.json) |
 | Memories | 269566 | [269566-memories.json](./269566-memories.json) |
+| Memories | 308440 | [308440-memories.json](./308440-memories.json) |
 | Memories | 75428 | [75428-memories.json](./75428-memories.json) |
 | Memories Fade | 170348 | [170348-memories-fade.json](./170348-memories-fade.json) |
 | Memories From Beyond a Coral Sea | 243382 | [243382-memories-from-beyond-a-coral-sea.json](./243382-memories-from-beyond-a-coral-sea.json) |
@@ -11974,6 +11975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Musical Zoo | 79934 | [79934-musical-zoo.json](./79934-musical-zoo.json) |
 | MusicHell | 386951 | [386951-musichell.json](./386951-musichell.json) |
 | Musician | 41563 | [41563-musician.json](./41563-musician.json) |
+| Musician Simulator | 308514 | [308514-musician-simulator.json](./308514-musician-simulator.json) |
 | Musicmenia | 314477 | [314477-musicmenia.json](./314477-musicmenia.json) |
 | Musicus! | 125432 | [125432-musicus.json](./125432-musicus.json) |
 | Musicus! | 185708 | [185708-musicus.json](./185708-musicus.json) |
@@ -13121,6 +13123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Coin | 195557 | [195557-mystery-coin.json](./195557-mystery-coin.json) |
 | Mystery Cruise | 54221 | [54221-mystery-cruise.json](./54221-mystery-cruise.json) |
 | Mystery Crypt | 261520 | [261520-mystery-crypt.json](./261520-mystery-crypt.json) |
+| Mystery Detective Adventure | 308509 | [308509-mystery-detective-adventure.json](./308509-mystery-detective-adventure.json) |
 | Mystery Dungeon | 200184 | [200184-mystery-dungeon.json](./200184-mystery-dungeon.json) |
 | Mystery Dungeon: Shiren the Wanderer | 78341 | [78341-mystery-dungeon-shiren-the-wanderer.json](./78341-mystery-dungeon-shiren-the-wanderer.json) |
 | Mystery Egyptian Kings | 102259 | [102259-mystery-egyptian-kings.json](./102259-mystery-egyptian-kings.json) |
