@@ -2482,6 +2482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Paint 64 | 175957 | [175957-mario-paint-64.json](./175957-mario-paint-64.json) |
 | Mario Paint BS Ban: Yuushou Sakuhin Naizou Version | 150147 | [150147-mario-paint-bs-ban-yuushou-sakuhin-naizou-version.json](./150147-mario-paint-bs-ban-yuushou-sakuhin-naizou-version.json) |
 | Mario Party | 2327 | [2327-mario-party.json](./2327-mario-party.json) |
+| Mario Party 1: Mambo Beach | 283633 | [283633-mario-party-1-mambo-beach.json](./283633-mario-party-1-mambo-beach.json) |
 | Mario Party 1: SNES Rainbow Road | 283421 | [283421-mario-party-1-snes-rainbow-road.json](./283421-mario-party-1-snes-rainbow-road.json) |
 | Mario Party 3 | 2329 | [2329-mario-party-3.json](./2329-mario-party-3.json) |
 | Mario Party 3 StarStruck | 248306 | [248306-mario-party-3-starstruck.json](./248306-mario-party-3-starstruck.json) |
@@ -2494,6 +2495,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Party 7 Bon Voyage | 231602 | [231602-mario-party-7-bon-voyage.json](./231602-mario-party-7-bon-voyage.json) |
 | Mario Party 8 | 328675 | [328675-mario-party-8.json](./328675-mario-party-8.json) |
 | Mario Party Heardle | 203828 | [203828-mario-party-heardle.json](./203828-mario-party-heardle.json) |
+| Mario Party Legacy 1 Vol. 14 | 283630 | [283630-mario-party-legacy-1-vol-14.json](./283630-mario-party-legacy-1-vol-14.json) |
+| Mario Party Legacy 1 Vol. 15 | 283635 | [283635-mario-party-legacy-1-vol-15.json](./283635-mario-party-legacy-1-vol-15.json) |
+| Mario Party Legacy 1 Vol. 16 | 283640 | [283640-mario-party-legacy-1-vol-16.json](./283640-mario-party-legacy-1-vol-16.json) |
+| Mario Party Legacy 1 Vol. 17 | 283645 | [283645-mario-party-legacy-1-vol-17.json](./283645-mario-party-legacy-1-vol-17.json) |
+| Mario Party Legacy 1 Vol. 19 | 283650 | [283650-mario-party-legacy-1-vol-19.json](./283650-mario-party-legacy-1-vol-19.json) |
 | Mario Party Legacy 1 Vol. 2 | 283422 | [283422-mario-party-legacy-1-vol-2.json](./283422-mario-party-legacy-1-vol-2.json) |
 | Mario Party: Fushigi no Koro-koro Catcher 2 | 132044 | [132044-mario-party-fushigi-no-koro-koro-catcher-2.json](./132044-mario-party-fushigi-no-koro-koro-catcher-2.json) |
 | Mario Party: Love Land | 294763 | [294763-mario-party-love-land.json](./294763-mario-party-love-land.json) |
@@ -11267,25 +11273,64 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mozart Requiem | 141726 | [141726-mozart-requiem.json](./141726-mozart-requiem.json) |
 | Mozi | 310080 | [310080-mozi.json](./310080-mozi.json) |
 | Mozzle | 175414 | [175414-mozzle.json](./175414-mozzle.json) |
+| MP1: Blargg's Fire Rivers | 283631 | [283631-mp1-blarggs-fire-rivers.json](./283631-mp1-blarggs-fire-rivers.json) |
+| MP1: Bowser Circle | 283643 | [283643-mp1-bowser-circle.json](./283643-mp1-bowser-circle.json) |
+| MP1: Bowser's Magma Castle | 283634 | [283634-mp1-bowsers-magma-castle.json](./283634-mp1-bowsers-magma-castle.json) |
+| MP1: BuuHuus Markttrubel | 283638 | [283638-mp1-buuhuus-markttrubel.json](./283638-mp1-buuhuus-markttrubel.json) |
 | MP1: Constellation Chaos | 283414 | [283414-mp1-constellation-chaos.json](./283414-mp1-constellation-chaos.json) |
+| MP1: Crazy Space | 283641 | [283641-mp1-crazy-space.json](./283641-mp1-crazy-space.json) |
+| MP1: Dive to the Hearts | 283646 | [283646-mp1-dive-to-the-hearts.json](./283646-mp1-dive-to-the-hearts.json) |
+| MP1: Koopa's Coin Board | 283639 | [283639-mp1-koopas-coin-board.json](./283639-mp1-koopas-coin-board.json) |
+| MP1: Koopa's Underground City | 283649 | [283649-mp1-koopas-underground-city.json](./283649-mp1-koopas-underground-city.json) |
+| MP1: Kopitcha Castle | 283629 | [283629-mp1-kopitcha-castle.json](./283629-mp1-kopitcha-castle.json) |
+| MP1: Magma Pipeland | 283648 | [283648-mp1-magma-pipeland.json](./283648-mp1-magma-pipeland.json) |
+| MP1: Minecraft Madness | 283647 | [283647-mp1-minecraft-madness.json](./283647-mp1-minecraft-madness.json) |
 | MP1: Minecraft Mayhem | 283416 | [283416-mp1-minecraft-mayhem.json](./283416-mp1-minecraft-mayhem.json) |
 | MP1: Monopoly | 283419 | [283419-mp1-monopoly.json](./283419-mp1-monopoly.json) |
 | MP1: Mushroom Gorge | 283420 | [283420-mp1-mushroom-gorge.json](./283420-mp1-mushroom-gorge.json) |
+| MP1: Neon Party | 283644 | [283644-mp1-neon-party.json](./283644-mp1-neon-party.json) |
 | MP1: Pallet Town | 283418 | [283418-mp1-pallet-town.json](./283418-mp1-pallet-town.json) |
 | MP1: Rainbow Road | 283415 | [283415-mp1-rainbow-road.json](./283415-mp1-rainbow-road.json) |
 | MP1: Snowflake Lake | 283412 | [283412-mp1-snowflake-lake.json](./283412-mp1-snowflake-lake.json) |
+| MP1: Snowy Fields | 283627 | [283627-mp1-snowy-fields.json](./283627-mp1-snowy-fields.json) |
 | MP1: Some 1950s BW Nostalgia | 283424 | [283424-mp1-some-1950s-bw-nostalgia.json](./283424-mp1-some-1950s-bw-nostalgia.json) |
+| MP1: Spacial Road | 283636 | [283636-mp1-spacial-road.json](./283636-mp1-spacial-road.json) |
+| MP1: The Great Crossover | 283632 | [283632-mp1-the-great-crossover.json](./283632-mp1-the-great-crossover.json) |
+| MP1: Tropical Trouble | 283642 | [283642-mp1-tropical-trouble.json](./283642-mp1-tropical-trouble.json) |
 | MP1: vila do Chaves | 283423 | [283423-mp1-vila-do-chaves.json](./283423-mp1-vila-do-chaves.json) |
+| MP1: Watch Out! | 283637 | [283637-mp1-watch-out.json](./283637-mp1-watch-out.json) |
 | MP1: Wii Menu | 283425 | [283425-mp1-wii-menu.json](./283425-mp1-wii-menu.json) |
+| MP2: Adventure Land | 283662 | [283662-mp2-adventure-land.json](./283662-mp2-adventure-land.json) |
+| MP2: Beach Bowl Galaxy | 283670 | [283670-mp2-beach-bowl-galaxy.json](./283670-mp2-beach-bowl-galaxy.json) |
 | MP2: Bill Nye's Science Lab | 283777 | [283777-mp2-bill-nyes-science-lab.json](./283777-mp2-bill-nyes-science-lab.json) |
 | MP2: Blue Koopa Land | 283779 | [283779-mp2-blue-koopa-land.json](./283779-mp2-blue-koopa-land.json) |
 | MP2: Calm Isles | 283783 | [283783-mp2-calm-isles.json](./283783-mp2-calm-isles.json) |
+| MP2: Casino Nights | 283663 | [283663-mp2-casino-nights.json](./283663-mp2-casino-nights.json) |
+| MP2: Christmas Outpost | 283673 | [283673-mp2-christmas-outpost.json](./283673-mp2-christmas-outpost.json) |
+| MP2: Damp Jungle | 283669 | [283669-mp2-damp-jungle.json](./283669-mp2-damp-jungle.json) |
 | MP2: Dream Haven | 283678 | [283678-mp2-dream-haven.json](./283678-mp2-dream-haven.json) |
+| MP2: E. Gadd's Garage | 283657 | [283657-mp2-e-gadds-garage.json](./283657-mp2-e-gadds-garage.json) |
+| MP2: Element of Kindness | 283666 | [283666-mp2-element-of-kindness.json](./283666-mp2-element-of-kindness.json) |
+| MP2: Eventide Island | 283661 | [283661-mp2-eventide-island.json](./283661-mp2-eventide-island.json) |
+| MP2: Freezing Fissure | 283652 | [283652-mp2-freezing-fissure.json](./283652-mp2-freezing-fissure.json) |
+| MP2: Frostbite Ruins | 283671 | [283671-mp2-frostbite-ruins.json](./283671-mp2-frostbite-ruins.json) |
+| MP2: Ganon's Spooky Forest | 283665 | [283665-mp2-ganons-spooky-forest.json](./283665-mp2-ganons-spooky-forest.json) |
 | MP2: Hope Land | 283780 | [283780-mp2-hope-land.json](./283780-mp2-hope-land.json) |
+| MP2: Ice Land | 283676 | [283676-mp2-ice-land.json](./283676-mp2-ice-land.json) |
 | MP2: JMGO Sands | 283781 | [283781-mp2-jmgo-sands.json](./283781-mp2-jmgo-sands.json) |
 | MP2: Koopa Kid Land | 283773 | [283773-mp2-koopa-kid-land.json](./283773-mp2-koopa-kid-land.json) |
+| MP2: Music Park | 283654 | [283654-mp2-music-park.json](./283654-mp2-music-park.json) |
+| MP2: Neon Heights | 283656 | [283656-mp2-neon-heights.json](./283656-mp2-neon-heights.json) |
 | MP2: Open RCT2 | 283782 | [283782-mp2-open-rct2.json](./283782-mp2-open-rct2.json) |
 | MP2: Petropolis (Block Party) | 283775 | [283775-mp2-petropolis-block-party.json](./283775-mp2-petropolis-block-party.json) |
+| MP2: Pikmin | 283653 | [283653-mp2-pikmin.json](./283653-mp2-pikmin.json) |
+| MP2: Pinball Land | 283664 | [283664-mp2-pinball-land.json](./283664-mp2-pinball-land.json) |
+| MP2: Shy Guy Jungle | 283674 | [283674-mp2-shy-guy-jungle.json](./283674-mp2-shy-guy-jungle.json) |
+| MP2: Spooky Town | 283668 | [283668-mp2-spooky-town.json](./283668-mp2-spooky-town.json) |
+| MP2: Summer's Lake | 283659 | [283659-mp2-summers-lake.json](./283659-mp2-summers-lake.json) |
+| MP2: Toy Dream | 283655 | [283655-mp2-toy-dream.json](./283655-mp2-toy-dream.json) |
+| MP2: Virtual Land | 283660 | [283660-mp2-virtual-land.json](./283660-mp2-virtual-land.json) |
+| MP2: Warriors | 283658 | [283658-mp2-warriors.json](./283658-mp2-warriors.json) |
 | MP2: Yoshi Valley | 283774 | [283774-mp2-yoshi-valley.json](./283774-mp2-yoshi-valley.json) |
 | MP3: Big Boo's Black Hole Boardwalk | 314580 | [314580-mp3-big-boos-black-hole-boardwalk.json](./314580-mp3-big-boos-black-hole-boardwalk.json) |
 | MP3: DK's Jungle Adventure | 314578 | [314578-mp3-dks-jungle-adventure.json](./314578-mp3-dks-jungle-adventure.json) |
