@@ -6993,6 +6993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Free Bees | 224245 | [224245-free-bees.json](./224245-free-bees.json) |
 | Free Birds: Baby Turkey Trouble | 227825 | [227825-free-birds-baby-turkey-trouble.json](./227825-free-birds-baby-turkey-trouble.json) |
 | Free Bowling 3D | 68507 | [68507-free-bowling-3d.json](./68507-free-bowling-3d.json) |
+| Free Chess | 297904 | [297904-free-chess.json](./297904-free-chess.json) |
 | Free Chess: Brutalist Set | 336482 | [336482-free-chess-brutalist-set.json](./336482-free-chess-brutalist-set.json) |
 | Free Chess: Cheese Set | 305534 | [305534-free-chess-cheese-set.json](./305534-free-chess-cheese-set.json) |
 | Free Chess: Lewis Set | 335500 | [335500-free-chess-lewis-set.json](./335500-free-chess-lewis-set.json) |
@@ -7417,6 +7418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frogatto | 92280 | [92280-frogatto.json](./92280-frogatto.json) |
 | Frogatto & Friends | 343974 | [343974-frogatto-and-friends.json](./343974-frogatto-and-friends.json) |
 | Frogatto & Friends | 343976 | [343976-frogatto-and-friends.json](./343976-frogatto-and-friends.json) |
+| Frogbound: The Legend of Sir Hopper | 297898 | [297898-frogbound-the-legend-of-sir-hopper.json](./297898-frogbound-the-legend-of-sir-hopper.json) |
 | Frogenlav: Skyward Bound | 278418 | [278418-frogenlav-skyward-bound.json](./278418-frogenlav-skyward-bound.json) |
 | Frogfall | 305420 | [305420-frogfall.json](./305420-frogfall.json) |
 | FrogFlop | 313295 | [313295-frogflop.json](./313295-frogflop.json) |
@@ -8233,6 +8235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fura-fura Bouken Flan-chan: Kaizoku Zaihou Tanken-tai | 205070 | [205070-fura-fura-bouken-flan-chan-kaizoku-zaihou-tanken-tai.json](./205070-fura-fura-bouken-flan-chan-kaizoku-zaihou-tanken-tai.json) |
 | Fura-fura Puzzrumia! | 204670 | [204670-fura-fura-puzzrumia.json](./204670-fura-fura-puzzrumia.json) |
 | Furball | 92127 | [92127-furball.json](./92127-furball.json) |
+| Furball Blitz! | 297873 | [297873-furball-blitz.json](./297873-furball-blitz.json) |
 | Furball Farm | 324317 | [324317-furball-farm.json](./324317-furball-farm.json) |
 | FurBalls Racing | 207299 | [207299-furballs-racing.json](./207299-furballs-racing.json) |
 | Furby Island | 233987 | [233987-furby-island.json](./233987-furby-island.json) |
