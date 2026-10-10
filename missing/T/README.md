@@ -277,6 +277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TacticsLand | 311805 | [311805-tacticsland.json](./311805-tacticsland.json) |
 | Tactile Wars | 76564 | [76564-tactile-wars.json](./76564-tactile-wars.json) |
 | Tactilite | 397160 | [397160-tactilite.json](./397160-tactilite.json) |
+| Tactishia | 297894 | [297894-tactishia.json](./297894-tactishia.json) |
 | Tactix | 379981 | [379981-tactix.json](./379981-tactix.json) |
 | Tactorius | 397994 | [397994-tactorius.json](./397994-tactorius.json) |
 | Tactris | 384800 | [384800-tactris.json](./384800-tactris.json) |
@@ -1240,6 +1241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank Defense Division | 31760 | [31760-tank-defense-division.json](./31760-tank-defense-division.json) |
 | Tank Domination | 343877 | [343877-tank-domination.json](./343877-tank-domination.json) |
 | Tank Elite | 82130 | [82130-tank-elite.json](./82130-tank-elite.json) |
+| Tank Factory Simulator | 297878 | [297878-tank-factory-simulator.json](./297878-tank-factory-simulator.json) |
 | Tank Fantastic | 153000 | [153000-tank-fantastic.json](./153000-tank-fantastic.json) |
 | Tank Force | 39504 | [39504-tank-force.json](./39504-tank-force.json) |
 | Tank Force | 81329 | [81329-tank-force.json](./81329-tank-force.json) |
@@ -1673,6 +1675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tarzan: Lord of the Jungle | 228974 | [228974-tarzan-lord-of-the-jungle.json](./228974-tarzan-lord-of-the-jungle.json) |
 | Tasac | 48805 | [48805-tasac.json](./48805-tasac.json) |
 | Tasac 2010 | 195060 | [195060-tasac-2010.json](./195060-tasac-2010.json) |
+| Tasha Keies & Clavyce: Enigmes Et Trésors A Travers Les Âges | 297914 | [297914-tasha-keies-and-clavyce-enigmes-et-tresors-a-travers-les-ages.json](./297914-tasha-keies-and-clavyce-enigmes-et-tresors-a-travers-les-ages.json) |
 | Tashikani | 298155 | [298155-tashikani.json](./298155-tashikani.json) |
 | Tashio Tempo | 403579 | [403579-tashio-tempo.json](./403579-tashio-tempo.json) |
 | Task Attack | 106957 | [106957-task-attack.json](./106957-task-attack.json) |
@@ -3484,6 +3487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventures of Elliot: The Millennium Tales | 358534 | [358534-the-adventures-of-elliot-the-millennium-tales.json](./358534-the-adventures-of-elliot-the-millennium-tales.json) |
 | The Adventures of Elliot: The Millennium Tales - Digital Deluxe Edition | 395685 | [395685-the-adventures-of-elliot-the-millennium-tales-digital-deluxe-edition.json](./395685-the-adventures-of-elliot-the-millennium-tales-digital-deluxe-edition.json) |
 | The Adventures of Emilie in Paris | 380639 | [380639-the-adventures-of-emilie-in-paris.json](./380639-the-adventures-of-emilie-in-paris.json) |
+| The Adventures of Emoji 4: Fly High Mouse - Remastered | 297884 | [297884-the-adventures-of-emoji-4-fly-high-mouse-remastered.json](./297884-the-adventures-of-emoji-4-fly-high-mouse-remastered.json) |
 | The Adventures of Golly | 116858 | [116858-the-adventures-of-golly.json](./116858-the-adventures-of-golly.json) |
 | The Adventures of Graham | 398329 | [398329-the-adventures-of-graham.json](./398329-the-adventures-of-graham.json) |
 | The Adventures of Harry: The evidence Under the Underwear | 345123 | [345123-the-adventures-of-harry-the-evidence-under-the-underwear.json](./345123-the-adventures-of-harry-the-evidence-under-the-underwear.json) |
@@ -9255,6 +9259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Political Machine 2024: Cabinet of Curiosities | 275697 | [275697-the-political-machine-2024-cabinet-of-curiosities.json](./275697-the-political-machine-2024-cabinet-of-curiosities.json) |
 | The Political Process | 127113 | [127113-the-political-process.json](./127113-the-political-process.json) |
 | The Pong P | 219177 | [219177-the-pong-p.json](./219177-the-pong-p.json) |
+| The Pool Rooms | 297895 | [297895-the-pool-rooms.json](./297895-the-pool-rooms.json) |
 | The Pools | 333740 | [333740-the-pools.json](./333740-the-pools.json) |
 | The Pope: Power & Sin | 132697 | [132697-the-pope-power-and-sin.json](./132697-the-pope-power-and-sin.json) |
 | The Population Must Grow | 366738 | [366738-the-population-must-grow.json](./366738-the-population-must-grow.json) |
@@ -14008,6 +14013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tile Jong | 336379 | [336379-tile-jong.json](./336379-tile-jong.json) |
 | Tile Master | 220185 | [220185-tile-master.json](./220185-tile-master.json) |
 | Tile Rider | 35625 | [35625-tile-rider.json](./35625-tile-rider.json) |
+| Tile Slider | 297922 | [297922-tile-slider.json](./297922-tile-slider.json) |
 | Tile Snap | 230227 | [230227-tile-snap.json](./230227-tile-snap.json) |
 | Tile Springs | 331376 | [331376-tile-springs.json](./331376-tile-springs.json) |
 | Tile Star 2 | 233080 | [233080-tile-star-2.json](./233080-tile-star-2.json) |
@@ -15484,6 +15490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomb of Syrinx | 37292 | [37292-tomb-of-syrinx.json](./37292-tomb-of-syrinx.json) |
 | Tomb of the Bloodletter | 334195 | [334195-tomb-of-the-bloodletter.json](./334195-tomb-of-the-bloodletter.json) |
 | Tomb of the Brain | 291011 | [291011-tomb-of-the-brain.json](./291011-tomb-of-the-brain.json) |
+| Tomb of the Brave | 297890 | [297890-tomb-of-the-brave.json](./297890-tomb-of-the-brave.json) |
 | Tomb of the Dash | 199630 | [199630-tomb-of-the-dash.json](./199630-tomb-of-the-dash.json) |
 | Tomb of the Dead | 219684 | [219684-tomb-of-the-dead.json](./219684-tomb-of-the-dead.json) |
 | Tomb of the Endless | 323806 | [323806-tomb-of-the-endless.json](./323806-tomb-of-the-endless.json) |
@@ -17166,6 +17173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trading Card Inspector | 360751 | [360751-trading-card-inspector.json](./360751-trading-card-inspector.json) |
 | Trading Simulator | 274563 | [274563-trading-simulator.json](./274563-trading-simulator.json) |
 | Trading Simulator | 290421 | [290421-trading-simulator.json](./290421-trading-simulator.json) |
+| Trading Towns | 297880 | [297880-trading-towns.json](./297880-trading-towns.json) |
 | Traditional Braves with Sess-AI 2.0 | 387668 | [387668-traditional-braves-with-sess-ai-2-0.json](./387668-traditional-braves-with-sess-ai-2-0.json) |
 | Traditional Story | 241460 | [241460-traditional-story.json](./241460-traditional-story.json) |
 | Traditional Tactics | 122293 | [122293-traditional-tactics.json](./122293-traditional-tactics.json) |
