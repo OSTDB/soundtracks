@@ -2978,6 +2978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Error #53 | 63010 | [63010-error-53.json](./63010-error-53.json) |
 | Error 0: New World Found | 178685 | [178685-error-0-new-world-found.json](./178685-error-0-new-world-found.json) |
 | Error 2351 | 399833 | [399833-error-2351.json](./399833-error-2351.json) |
+| Error 259 | 285927 | [285927-error-259.json](./285927-error-259.json) |
 | Error 44 | 214443 | [214443-error-44.json](./214443-error-44.json) |
 | Error Codes | 325654 | [325654-error-codes.json](./325654-error-codes.json) |
 | Error Loop | 329948 | [329948-error-loop.json](./329948-error-loop.json) |
@@ -3484,6 +3485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eslander | 120993 | [120993-eslander.json](./120993-eslander.json) |
 | ESmart 2.0 | 269605 | [269605-esmart-2-0.json](./269605-esmart-2-0.json) |
 | ESMO: Esports Manager Online | 375291 | [375291-esmo-esports-manager-online.json](./375291-esmo-esports-manager-online.json) |
+| Esoria | 285900 | [285900-esoria.json](./285900-esoria.json) |
 | EsoTarot VR | 236270 | [236270-esotarot-vr.json](./236270-esotarot-vr.json) |
 | Esoterica Order | 311588 | [311588-esoterica-order.json](./311588-esoterica-order.json) |
 | ESP Ra.De. | 91379 | [91379-esp-ra-de.json](./91379-esp-ra-de.json) |
@@ -4475,6 +4477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | eXceed 3rd: Jade Penetrate Black Package | 10967 | [10967-exceed-3rd-jade-penetrate-black-package.json](./10967-exceed-3rd-jade-penetrate-black-package.json) |
 | Exceed Gear | 298676 | [298676-exceed-gear.json](./298676-exceed-gear.json) |
 | eXceed Gun Bullet Children | 9290 | [9290-exceed-gun-bullet-children.json](./9290-exceed-gun-bullet-children.json) |
+| Excelios | 285932 | [285932-excelios.json](./285932-excelios.json) |
 | Excellent | 373738 | [373738-excellent.json](./373738-excellent.json) |
 | Excellent Card Games | 100283 | [100283-excellent-card-games.json](./100283-excellent-card-games.json) |
 | Excellent Expectations | 76520 | [76520-excellent-expectations.json](./76520-excellent-expectations.json) |
@@ -4982,6 +4985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eye of the Temple | 95018 | [95018-eye-of-the-temple.json](./95018-eye-of-the-temple.json) |
 | Eye on the world | 258731 | [258731-eye-on-the-world.json](./258731-eye-on-the-world.json) |
 | Eye on You! | 340046 | [340046-eye-on-you.json](./340046-eye-on-you.json) |
+| Eye see fun | 285924 | [285924-eye-see-fun.json](./285924-eye-see-fun.json) |
 | Eye to Eye | 366718 | [366718-eye-to-eye.json](./366718-eye-to-eye.json) |
 | Eye Transplant : ER Emergency Hospital | 100855 | [100855-eye-transplant-er-emergency-hospital.json](./100855-eye-transplant-er-emergency-hospital.json) |
 | Eye-Create | 84457 | [84457-eye-create.json](./84457-eye-create.json) |
