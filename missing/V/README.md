@@ -556,6 +556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vanquish Evil | 349317 | [349317-vanquish-evil.json](./349317-vanquish-evil.json) |
 | Vanran | 361912 | [361912-vanran.json](./361912-vanran.json) |
 | Vantage Master Portable | 196855 | [196855-vantage-master-portable.json](./196855-vantage-master-portable.json) |
+| VanySlash | 297333 | [297333-vanyslash.json](./297333-vanyslash.json) |
 | vApe Escape | 115700 | [115700-vape-escape.json](./115700-vape-escape.json) |
 | Vape Store Miami | 406824 | [406824-vape-store-miami.json](./406824-vape-store-miami.json) |
 | Vapinupituru | 393537 | [393537-vapinupituru.json](./393537-vapinupituru.json) |
