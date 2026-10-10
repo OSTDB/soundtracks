@@ -5566,6 +5566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lovely Sweet Dream | 172766 | [172766-lovely-sweet-dream.json](./172766-lovely-sweet-dream.json) |
 | Lovely Tesserae | 382311 | [382311-lovely-tesserae.json](./382311-lovely-tesserae.json) |
 | Lovely Trap | 213839 | [213839-lovely-trap.json](./213839-lovely-trap.json) |
+| Lovely Warriors | 286448 | [286448-lovely-warriors.json](./286448-lovely-warriors.json) |
 | Lovely x Cation 1 & 2 | 79306 | [79306-lovely-x-cation-1-and-2.json](./79306-lovely-x-cation-1-and-2.json) |
 | Lovelydoll/Wildmachine | 188559 | [188559-lovelydoll-wildmachine.json](./188559-lovelydoll-wildmachine.json) |
 | Lover | 299149 | [299149-lover.json](./299149-lover.json) |
