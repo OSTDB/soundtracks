@@ -3319,6 +3319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rescue Team 8 | 122212 | [122212-rescue-team-8.json](./122212-rescue-team-8.json) |
 | Rescue Team: Ancient Guardian - Collector's Edition | 338779 | [338779-rescue-team-ancient-guardian-collectors-edition.json](./338779-rescue-team-ancient-guardian-collectors-edition.json) |
 | Rescue Team: Attack of the Atom - Collector's Edition | 337626 | [337626-rescue-team-attack-of-the-atom-collectors-edition.json](./337626-rescue-team-attack-of-the-atom-collectors-edition.json) |
+| Rescue Team: Clouded Mind | 311217 | [311217-rescue-team-clouded-mind.json](./311217-rescue-team-clouded-mind.json) |
 | Rescue Team: Evil Genius | 122409 | [122409-rescue-team-evil-genius.json](./122409-rescue-team-evil-genius.json) |
 | Rescue Team: Heist of the Century | 195206 | [195206-rescue-team-heist-of-the-century.json](./195206-rescue-team-heist-of-the-century.json) |
 | Rescue Team: Legion of Destruction | 410458 | [410458-rescue-team-legion-of-destruction.json](./410458-rescue-team-legion-of-destruction.json) |
@@ -7479,6 +7480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run, Puppet Run! | 413487 | [413487-run-puppet-run.json](./413487-run-puppet-run.json) |
 | Run, Run, Monsters! | 108024 | [108024-run-run-monsters.json](./108024-run-run-monsters.json) |
 | Run, Veggies! | 358878 | [358878-run-veggies.json](./358878-run-veggies.json) |
+| Run, Vivian Run | 311238 | [311238-run-vivian-run.json](./311238-run-vivian-run.json) |
 | Run! | 100256 | [100256-run.json](./100256-run.json) |
 | Run! | 219064 | [219064-run.json](./219064-run.json) |
 | Run! Bunny | 120922 | [120922-run-bunny.json](./120922-run-bunny.json) |
