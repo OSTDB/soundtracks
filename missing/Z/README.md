@@ -1304,6 +1304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zoo Tycoon 2: Paranoia! | 381976 | [381976-zoo-tycoon-2-paranoia.json](./381976-zoo-tycoon-2-paranoia.json) |
 | Zoo Tycoon 2032 | 176848 | [176848-zoo-tycoon-2032.json](./176848-zoo-tycoon-2032.json) |
 | Zoo Tycoon DS | 18598 | [18598-zoo-tycoon-ds.json](./18598-zoo-tycoon-ds.json) |
+| Zoo Tycoon Friends | 299574 | [299574-zoo-tycoon-friends.json](./299574-zoo-tycoon-friends.json) |
 | Zoo Tycoon: Dinosaur Digs | 27807 | [27807-zoo-tycoon-dinosaur-digs.json](./27807-zoo-tycoon-dinosaur-digs.json) |
 | Zoo Tycoon: Marine Mania | 23769 | [23769-zoo-tycoon-marine-mania.json](./23769-zoo-tycoon-marine-mania.json) |
 | Zoo Vet | 79929 | [79929-zoo-vet.json](./79929-zoo-vet.json) |
