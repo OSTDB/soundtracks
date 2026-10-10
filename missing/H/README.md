@@ -2266,6 +2266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heavyweight Thunder | 69875 | [69875-heavyweight-thunder.json](./69875-heavyweight-thunder.json) |
 | Heavyweight Transport Simulator 3 | 53183 | [53183-heavyweight-transport-simulator-3.json](./53183-heavyweight-transport-simulator-3.json) |
 | Hebereke | 291621 | [291621-hebereke.json](./291621-hebereke.json) |
+| Hebereke: Enjoy Edition | 291350 | [291350-hebereke-enjoy-edition.json](./291350-hebereke-enjoy-edition.json) |
 | Hebereke's Popoon | 42610 | [42610-heberekes-popoon.json](./42610-heberekes-popoon.json) |
 | Hebi no Inochi | 288873 | [288873-hebi-no-inochi.json](./288873-hebi-no-inochi.json) |
 | Hecatomb | 398404 | [398404-hecatomb.json](./398404-hecatomb.json) |
@@ -4191,6 +4192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Clues: Mystery Scene Challenge | 409532 | [409532-hidden-clues-mystery-scene-challenge.json](./409532-hidden-clues-mystery-scene-challenge.json) |
 | Hidden Collection | 86714 | [86714-hidden-collection.json](./86714-hidden-collection.json) |
 | Hidden Collection - Fun Seek and Find Hidden Object Puzzles | 90370 | [90370-hidden-collection-fun-seek-and-find-hidden-object-puzzles.json](./90370-hidden-collection-fun-seek-and-find-hidden-object-puzzles.json) |
+| Hidden Cosmo Cats: Bonus Level | 291364 | [291364-hidden-cosmo-cats-bonus-level.json](./291364-hidden-cosmo-cats-bonus-level.json) |
 | Hidden Cubes | 74459 | [74459-hidden-cubes.json](./74459-hidden-cubes.json) |
 | Hidden Cursed Crypt | 323930 | [323930-hidden-cursed-crypt.json](./323930-hidden-cursed-crypt.json) |
 | Hidden Desire | 220035 | [220035-hidden-desire.json](./220035-hidden-desire.json) |
@@ -4473,6 +4475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Western | 192819 | [192819-hidden-western.json](./192819-hidden-western.json) |
 | Hidden Western Top-Down 3D | 277827 | [277827-hidden-western-top-down-3d.json](./277827-hidden-western-top-down-3d.json) |
 | Hidden Wings and Paws | 304620 | [304620-hidden-wings-and-paws.json](./304620-hidden-wings-and-paws.json) |
+| Hidden Winter Cats: Bonus Level | 291353 | [291353-hidden-winter-cats-bonus-level.json](./291353-hidden-winter-cats-bonus-level.json) |
 | Hidden Words | 170534 | [170534-hidden-words.json](./170534-hidden-words.json) |
 | Hidden Words and Pictures Game | 108490 | [108490-hidden-words-and-pictures-game.json](./108490-hidden-words-and-pictures-game.json) |
 | Hidden Words! | 241336 | [241336-hidden-words.json](./241336-hidden-words.json) |
@@ -5171,6 +5174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hlína | 335501 | [335501-hlina.json](./335501-hlina.json) |
 | Hlípa | 131414 | [131414-hlipa.json](./131414-hlipa.json) |
 | Hmph! Hmph! Yowai | 289454 | [289454-hmph-hmph-yowai.json](./289454-hmph-hmph-yowai.json) |
+| Hnefatafl Online | 291399 | [291399-hnefatafl-online.json](./291399-hnefatafl-online.json) |
 | Ho Ho Ho Sokoban | 411131 | [411131-ho-ho-ho-sokoban.json](./411131-ho-ho-ho-sokoban.json) |
 | Ho-Ho-Home Invasion | 141655 | [141655-ho-ho-home-invasion.json](./141655-ho-ho-home-invasion.json) |
 | Ho-Ho-Maze! | 340476 | [340476-ho-ho-maze.json](./340476-ho-ho-maze.json) |
@@ -6005,6 +6009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hopeless 2: Cave Escape | 56271 | [56271-hopeless-2-cave-escape.json](./56271-hopeless-2-cave-escape.json) |
 | Hopeless 3: Dark Hollow Earth | 56274 | [56274-hopeless-3-dark-hollow-earth.json](./56274-hopeless-3-dark-hollow-earth.json) |
 | Hopeless Dregs | 156658 | [156658-hopeless-dregs.json](./156658-hopeless-dregs.json) |
+| Hopeless Sea | 291395 | [291395-hopeless-sea.json](./291395-hopeless-sea.json) |
 | Hopeless: Football Cup | 56273 | [56273-hopeless-football-cup.json](./56273-hopeless-football-cup.json) |
 | Hopeless: Space Shooting | 56278 | [56278-hopeless-space-shooting.json](./56278-hopeless-space-shooting.json) |
 | Hopeless: The Dark Cave | 56270 | [56270-hopeless-the-dark-cave.json](./56270-hopeless-the-dark-cave.json) |
@@ -6100,6 +6105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horizon Walker | 330256 | [330256-horizon-walker.json](./330256-horizon-walker.json) |
 | Horizon X | 57645 | [57645-horizon-x.json](./57645-horizon-x.json) |
 | Horizon Zero Dawn: Complete Edition | 72870 | [72870-horizon-zero-dawn-complete-edition.json](./72870-horizon-zero-dawn-complete-edition.json) |
+| Horizon's Edge | 291381 | [291381-horizons-edge.json](./291381-horizons-edge.json) |
 | Horizon's Gate | 131620 | [131620-horizons-gate.json](./131620-horizons-gate.json) |
 | Horizons Light | 376466 | [376466-horizons-light.json](./376466-horizons-light.json) |
 | Horizons of Achaea | 381358 | [381358-horizons-of-achaea.json](./381358-horizons-of-achaea.json) |
