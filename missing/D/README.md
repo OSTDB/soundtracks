@@ -2696,6 +2696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death in the Water 2 | 222355 | [222355-death-in-the-water-2.json](./222355-death-in-the-water-2.json) |
 | Death in Unison | 301383 | [301383-death-in-unison.json](./301383-death-in-unison.json) |
 | Death In Your Dice | 334740 | [334740-death-in-your-dice.json](./334740-death-in-your-dice.json) |
+| Death Inn Ⅱ :The Immortal Is Coming | 284288 | [284288-death-inn-ii-the-immortal-is-coming.json](./284288-death-inn-ii-the-immortal-is-coming.json) |
 | Death is better than Hell | 51971 | [51971-death-is-better-than-hell.json](./51971-death-is-better-than-hell.json) |
 | Death Jr: Root of Evil | 90656 | [90656-death-jr-root-of-evil.json](./90656-death-jr-root-of-evil.json) |
 | Death Jr. | 45988 | [45988-death-jr.json](./45988-death-jr.json) |
@@ -9553,6 +9554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Alone | 56033 | [56033-dream-alone.json](./56033-dream-alone.json) |
 | Dream Angling | 100319 | [100319-dream-angling.json](./100319-dream-angling.json) |
 | Dream Animal | 376759 | [376759-dream-animal.json](./376759-dream-animal.json) |
+| Dream Antique | 284315 | [284315-dream-antique.json](./284315-dream-antique.json) |
 | Dream Big 2 | 156992 | [156992-dream-big-2.json](./156992-dream-big-2.json) |
 | Dream Blast: Jewel Pops | 224073 | [224073-dream-blast-jewel-pops.json](./224073-dream-blast-jewel-pops.json) |
 | Dream Book | 167124 | [167124-dream-book.json](./167124-dream-book.json) |
