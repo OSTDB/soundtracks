@@ -1675,6 +1675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farmwand | 260239 | [260239-farmwand.json](./260239-farmwand.json) |
 | Farmyard Fun | 40686 | [40686-farmyard-fun.json](./40686-farmyard-fun.json) |
 | Farmyard Pals Jigsaw Puzzles | 357881 | [357881-farmyard-pals-jigsaw-puzzles.json](./357881-farmyard-pals-jigsaw-puzzles.json) |
+| Farmyard Survivors | 332969 | [332969-farmyard-survivors.json](./332969-farmyard-survivors.json) |
 | FarmZone | 159738 | [159738-farmzone.json](./159738-farmzone.json) |
 | Farocar | 92980 | [92980-farocar.json](./92980-farocar.json) |
 | Faroda | 362765 | [362765-faroda.json](./362765-faroda.json) |
@@ -3569,6 +3570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Fu | 102618 | [102618-fire-fu.json](./102618-fire-fu.json) |
 | Fire Galaxy | 73352 | [73352-fire-galaxy.json](./73352-fire-galaxy.json) |
 | Fire Hawk | 40135 | [40135-fire-hawk.json](./40135-fire-hawk.json) |
+| Fire Hero: Pixel Rescue | 332967 | [332967-fire-hero-pixel-rescue.json](./332967-fire-hero-pixel-rescue.json) |
 | Fire Hoops | 94413 | [94413-fire-hoops.json](./94413-fire-hoops.json) |
 | Fire Hose | 212296 | [212296-fire-hose.json](./212296-fire-hose.json) |
 | Fire in the Dark | 346696 | [346696-fire-in-the-dark.json](./346696-fire-in-the-dark.json) |
@@ -4549,6 +4551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flesh Everest | 207356 | [207356-flesh-everest.json](./207356-flesh-everest.json) |
 | Flesh Made Fear: Summer in Rotwood | 375804 | [375804-flesh-made-fear-summer-in-rotwood.json](./375804-flesh-made-fear-summer-in-rotwood.json) |
 | Flesh of the Killer | 159219 | [159219-flesh-of-the-killer.json](./159219-flesh-of-the-killer.json) |
+| Flesh Psychosis | 333041 | [333041-flesh-psychosis.json](./333041-flesh-psychosis.json) |
 | Flesharmonic | 271178 | [271178-flesharmonic.json](./271178-flesharmonic.json) |
 | FleshBound | 327453 | [327453-fleshbound.json](./327453-fleshbound.json) |
 | FleshBound | 397043 | [397043-fleshbound.json](./397043-fleshbound.json) |
