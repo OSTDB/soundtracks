@@ -154,6 +154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UFO Shooting | 312273 | [312273-ufo-shooting.json](./312273-ufo-shooting.json) |
 | UFO Sightings Simulator | 282255 | [282255-ufo-sightings-simulator.json](./282255-ufo-sightings-simulator.json) |
 | UFO Slide Racing | 265744 | [265744-ufo-slide-racing.json](./265744-ufo-slide-racing.json) |
+| Ufo snowboard | 288702 | [288702-ufo-snowboard.json](./288702-ufo-snowboard.json) |
 | UFO vs. Bikini | 152501 | [152501-ufo-vs-bikini.json](./152501-ufo-vs-bikini.json) |
 | UFO-Man | 320962 | [320962-ufo-man.json](./320962-ufo-man.json) |
 | UFO: A Day in the Life | 44742 | [44742-ufo-a-day-in-the-life.json](./44742-ufo-a-day-in-the-life.json) |
