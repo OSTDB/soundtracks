@@ -2902,6 +2902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terrahawks: The Battlehawk | 385725 | [385725-terrahawks-the-battlehawk.json](./385725-terrahawks-the-battlehawk.json) |
 | Terrain Defender | 402381 | [402381-terrain-defender.json](./402381-terrain-defender.json) |
 | Terrain of Magical Expertise | 72762 | [72762-terrain-of-magical-expertise.json](./72762-terrain-of-magical-expertise.json) |
+| TerraKids: Save The World Kidos! | 285425 | [285425-terrakids-save-the-world-kidos.json](./285425-terrakids-save-the-world-kidos.json) |
 | Terralysia | 284591 | [284591-terralysia.json](./284591-terralysia.json) |
 | Terramachi: Battle Card Game | 215007 | [215007-terramachi-battle-card-game.json](./215007-terramachi-battle-card-game.json) |
 | TerraMartis4x | 157050 | [157050-terramartis4x.json](./157050-terramartis4x.json) |
@@ -9129,6 +9130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Paper Time Travelers | 347302 | [347302-the-paper-time-travelers.json](./347302-the-paper-time-travelers.json) |
 | The Paper Trials | 264585 | [264585-the-paper-trials.json](./264585-the-paper-trials.json) |
 | The Paper Trials: Chapter 2 | 267427 | [267427-the-paper-trials-chapter-2.json](./267427-the-paper-trials-chapter-2.json) |
+| The Paper Trials: Chapter 3 | 285420 | [285420-the-paper-trials-chapter-3.json](./285420-the-paper-trials-chapter-3.json) |
 | The Paracelsian Project | 244726 | [244726-the-paracelsian-project.json](./244726-the-paracelsian-project.json) |
 | The Paradixion: Laboratory | 262474 | [262474-the-paradixion-laboratory.json](./262474-the-paradixion-laboratory.json) |
 | The Paradixion: Restroom | 368589 | [368589-the-paradixion-restroom.json](./368589-the-paradixion-restroom.json) |
