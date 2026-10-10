@@ -4158,6 +4158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goodbye Cendrillon | 285991 | [285991-goodbye-cendrillon.json](./285991-goodbye-cendrillon.json) |
 | Goodbye Deponia: Premium Edition | 54069 | [54069-goodbye-deponia-premium-edition.json](./54069-goodbye-deponia-premium-edition.json) |
 | Goodbye Dreaming | 132666 | [132666-goodbye-dreaming.json](./132666-goodbye-dreaming.json) |
+| Goodbye Monster | 325139 | [325139-goodbye-monster.json](./325139-goodbye-monster.json) |
 | Goodbye Page | 374964 | [374964-goodbye-page.json](./374964-goodbye-page.json) |
 | Goodbye World | 376046 | [376046-goodbye-world.json](./376046-goodbye-world.json) |
 | Goodbye, Doggy | 135905 | [135905-goodbye-doggy.json](./135905-goodbye-doggy.json) |
@@ -4468,6 +4469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grabanakki | 180782 | [180782-grabanakki.json](./180782-grabanakki.json) |
 | Grabatron | 174643 | [174643-grabatron.json](./174643-grabatron.json) |
 | GrabBag | 107936 | [107936-grabbag.json](./107936-grabbag.json) |
+| Grabbed by the Ghoulies | 324860 | [324860-grabbed-by-the-ghoulies.json](./324860-grabbed-by-the-ghoulies.json) |
 | Grabbed by the Ghoulies | 5849 | [5849-grabbed-by-the-ghoulies.json](./5849-grabbed-by-the-ghoulies.json) |
 | Grabbers in the Woods | 294426 | [294426-grabbers-in-the-woods.json](./294426-grabbers-in-the-woods.json) |
 | Grabitoons | 231049 | [231049-grabitoons.json](./231049-grabitoons.json) |
