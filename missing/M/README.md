@@ -3833,6 +3833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mayo Mayo | 321605 | [321605-mayo-mayo.json](./321605-mayo-mayo.json) |
 | Mayohiga | 151530 | [151530-mayohiga.json](./151530-mayohiga.json) |
 | Mayoi Shopping Street | 365861 | [365861-mayoi-shopping-street.json](./365861-mayoi-shopping-street.json) |
+| Mayonaka 10 Chome | 301093 | [301093-mayonaka-10-chome.json](./301093-mayonaka-10-chome.json) |
 | Mayonez | 106538 | [106538-mayonez.json](./106538-mayonez.json) |
 | Mayor May Knott | 249857 | [249857-mayor-may-knott.json](./249857-mayor-may-knott.json) |
 | Mayor Moon | 121434 | [121434-mayor-moon.json](./121434-mayor-moon.json) |
