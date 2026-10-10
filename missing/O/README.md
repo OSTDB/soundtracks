@@ -661,6 +661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ofuxë the Guardian of Nature | 291216 | [291216-ofuxe-the-guardian-of-nature.json](./291216-ofuxe-the-guardian-of-nature.json) |
 | OG Fun Monke Horror | 382754 | [382754-og-fun-monke-horror.json](./382754-og-fun-monke-horror.json) |
 | OG Memory: Spring 2K24 | 310072 | [310072-og-memory-spring-2k24.json](./310072-og-memory-spring-2k24.json) |
+| OG Memory: Synthwave Boats | 289780 | [289780-og-memory-synthwave-boats.json](./289780-og-memory-synthwave-boats.json) |
 | OG Memory: Synthwave Vampires | 341501 | [341501-og-memory-synthwave-vampires.json](./341501-og-memory-synthwave-vampires.json) |
 | OG Memory: Winter 2K23 | 288784 | [288784-og-memory-winter-2k23.json](./288784-og-memory-winter-2k23.json) |
 | OG Puzzlers: Kira Maus | 277582 | [277582-og-puzzlers-kira-maus.json](./277582-og-puzzlers-kira-maus.json) |
