@@ -2842,6 +2842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whispers of Prague: The Executioner's Last Cut | 287708 | [287708-whispers-of-prague-the-executioners-last-cut.json](./287708-whispers-of-prague-the-executioners-last-cut.json) |
 | Whispers of Satan | 140943 | [140943-whispers-of-satan.json](./140943-whispers-of-satan.json) |
 | Whispers of Silence | 296517 | [296517-whispers-of-silence.json](./296517-whispers-of-silence.json) |
+| Whispers Of Sylvan Grove | 297362 | [297362-whispers-of-sylvan-grove.json](./297362-whispers-of-sylvan-grove.json) |
 | Whispers of The Abyss | 301269 | [301269-whispers-of-the-abyss.json](./301269-whispers-of-the-abyss.json) |
 | Whispers of the Ancients | 137973 | [137973-whispers-of-the-ancients.json](./137973-whispers-of-the-ancients.json) |
 | Whispers of the Citadel | 275136 | [275136-whispers-of-the-citadel.json](./275136-whispers-of-the-citadel.json) |
