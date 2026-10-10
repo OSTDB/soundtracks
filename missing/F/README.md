@@ -5469,6 +5469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Follow the White Rabbit VR | 122178 | [122178-follow-the-white-rabbit-vr.json](./122178-follow-the-white-rabbit-vr.json) |
 | Follow Us | 383027 | [383027-follow-us.json](./383027-follow-us.json) |
 | Follow You | 218129 | [218129-follow-you.json](./218129-follow-you.json) |
+| Followed by Death | 288125 | [288125-followed-by-death.json](./288125-followed-by-death.json) |
 | Follower | 383354 | [383354-follower.json](./383354-follower.json) |
 | Follower A | 178510 | [178510-follower-a.json](./178510-follower-a.json) |
 | Follower:Sacrifice | 99006 | [99006-follower-sacrifice.json](./99006-follower-sacrifice.json) |
@@ -5934,6 +5935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forest Pop | 218724 | [218724-forest-pop.json](./218724-forest-pop.json) |
 | Forest Puzzle | 209561 | [209561-forest-puzzle.json](./209561-forest-puzzle.json) |
 | Forest Ranger Services: Episode 1 | 340232 | [340232-forest-ranger-services-episode-1.json](./340232-forest-ranger-services-episode-1.json) |
+| Forest Ranger Services: The Pilot | 288117 | [288117-forest-ranger-services-the-pilot.json](./288117-forest-ranger-services-the-pilot.json) |
 | Forest Reigns | 328032 | [328032-forest-reigns.json](./328032-forest-reigns.json) |
 | Forest Restoration | 361744 | [361744-forest-restoration.json](./361744-forest-restoration.json) |
 | Forest Rites | 360707 | [360707-forest-rites.json](./360707-forest-rites.json) |
