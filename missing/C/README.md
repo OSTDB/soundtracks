@@ -8496,6 +8496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Convicted Galaxy | 30902 | [30902-convicted-galaxy.json](./30902-convicted-galaxy.json) |
 | Conviction | 260181 | [260181-conviction.json](./260181-conviction.json) |
 | Conviction Chronicles | 404993 | [404993-conviction-chronicles.json](./404993-conviction-chronicles.json) |
+| Conviction: The Glory Of Kraft | 291352 | [291352-conviction-the-glory-of-kraft.json](./291352-conviction-the-glory-of-kraft.json) |
 | Convicts | 340878 | [340878-convicts.json](./340878-convicts.json) |
 | Convoluted Incident: Pinch me | 368373 | [368373-convoluted-incident-pinch-me.json](./368373-convoluted-incident-pinch-me.json) |
 | Convrgence | 269281 | [269281-convrgence.json](./269281-convrgence.json) |
@@ -9079,6 +9080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmo and Yuuko: A Space Adventure | 178958 | [178958-cosmo-and-yuuko-a-space-adventure.json](./178958-cosmo-and-yuuko-a-space-adventure.json) |
 | Cosmo Angel | 92148 | [92148-cosmo-angel.json](./92148-cosmo-angel.json) |
 | Cosmo Cargo | 394499 | [394499-cosmo-cargo.json](./394499-cosmo-cargo.json) |
+| Cosmo Cats | 291360 | [291360-cosmo-cats.json](./291360-cosmo-cats.json) |
 | Cosmo Duel | 95576 | [95576-cosmo-duel.json](./95576-cosmo-duel.json) |
 | Cosmo Fighter II | 112162 | [112162-cosmo-fighter-ii.json](./112162-cosmo-fighter-ii.json) |
 | Cosmo Flight | 346052 | [346052-cosmo-flight.json](./346052-cosmo-flight.json) |
@@ -11285,6 +11287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystal Gal Mahjong | 123070 | [123070-crystal-gal-mahjong.json](./123070-crystal-gal-mahjong.json) |
 | Crystal Gal Mahjong II | 123071 | [123071-crystal-gal-mahjong-ii.json](./123071-crystal-gal-mahjong-ii.json) |
 | Crystal Garden | 386998 | [386998-crystal-garden.json](./386998-crystal-garden.json) |
+| Crystal Guard TD | 291368 | [291368-crystal-guard-td.json](./291368-crystal-guard-td.json) |
 | Crystal Guardian | 296668 | [296668-crystal-guardian.json](./296668-crystal-guardian.json) |
 | Crystal Guardians | 316058 | [316058-crystal-guardians.json](./316058-crystal-guardians.json) |
 | Crystal Hammer | 15921 | [15921-crystal-hammer.json](./15921-crystal-hammer.json) |
@@ -11537,6 +11540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CubeDood in the Memory Snatcher | 239336 | [239336-cubedood-in-the-memory-snatcher.json](./239336-cubedood-in-the-memory-snatcher.json) |
 | CubeeRun Memories | 284983 | [284983-cubeerun-memories.json](./284983-cubeerun-memories.json) |
 | CubeGate | 266178 | [266178-cubegate.json](./266178-cubegate.json) |
+| CubeGod | 291371 | [291371-cubegod.json](./291371-cubegod.json) |
 | CubeGun | 17372 | [17372-cubegun.json](./17372-cubegun.json) |
 | Cubeism 2: Baroque Edition | 218149 | [218149-cubeism-2-baroque-edition.json](./218149-cubeism-2-baroque-edition.json) |
 | Cubeka | 129626 | [129626-cubeka.json](./129626-cubeka.json) |
