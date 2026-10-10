@@ -759,6 +759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bakuretsu Hunter | 45423 | [45423-bakuretsu-hunter.json](./45423-bakuretsu-hunter.json) |
 | Bakuretsu Hunter R | 45421 | [45421-bakuretsu-hunter-r.json](./45421-bakuretsu-hunter-r.json) |
 | Bakuretsu Hunters: Mahjong Special | 123058 | [123058-bakuretsu-hunters-mahjong-special.json](./123058-bakuretsu-hunters-mahjong-special.json) |
+| Bakurokei Haishinsha vs. Kuzukei Utaite vs. Menhera Stalker | 285387 | [285387-bakurokei-haishinsha-vs-kuzukei-utaite-vs-menhera-stalker.json](./285387-bakurokei-haishinsha-vs-kuzukei-utaite-vs-menhera-stalker.json) |
 | Bakuryuu Sentai Abaranger | 130409 | [130409-bakuryuu-sentai-abaranger.json](./130409-bakuryuu-sentai-abaranger.json) |
 | Bakushou!! All Yoshimoto Quiz Ou Ketteisen DX | 45422 | [45422-bakushou-all-yoshimoto-quiz-ou-ketteisen-dx.json](./45422-bakushou-all-yoshimoto-quiz-ou-ketteisen-dx.json) |
 | Bakushou!! All Yoshimoto Quiz-Ou Ketteisen | 245247 | [245247-bakushou-all-yoshimoto-quiz-ou-ketteisen.json](./245247-bakushou-all-yoshimoto-quiz-ou-ketteisen.json) |
@@ -10224,6 +10225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bug World | 14472 | [14472-bug-world.json](./14472-bug-world.json) |
 | Bug-o-Buster | 322985 | [322985-bug-o-buster.json](./322985-bug-o-buster.json) |
 | Bug’s Quest for Tapes | 354570 | [354570-bug-s-quest-for-tapes.json](./354570-bug-s-quest-for-tapes.json) |
+| Bug×Bug | 285389 | [285389-bug-bug.json](./285389-bug-bug.json) |
 | BugAboo | 391796 | [391796-bugaboo.json](./391796-bugaboo.json) |
 | Bugaboo Pocket | 198221 | [198221-bugaboo-pocket.json](./198221-bugaboo-pocket.json) |
 | BuGarden | 392302 | [392302-bugarden.json](./392302-bugarden.json) |
