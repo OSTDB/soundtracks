@@ -1251,6 +1251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abyss School | 270862 | [270862-abyss-school.json](./270862-abyss-school.json) |
 | Abyss Seeker: What Do You See Deep in The Abyss | 324893 | [324893-abyss-seeker-what-do-you-see-deep-in-the-abyss.json](./324893-abyss-seeker-what-do-you-see-deep-in-the-abyss.json) |
 | Abyss Soul Lotus | 216799 | [216799-abyss-soul-lotus.json](./216799-abyss-soul-lotus.json) |
+| Abyss Survivors | 311261 | [311261-abyss-survivors.json](./311261-abyss-survivors.json) |
 | Abyss Unchained | 331349 | [331349-abyss-unchained.json](./331349-abyss-unchained.json) |
 | Abyss Vaulter | 341612 | [341612-abyss-vaulter.json](./341612-abyss-vaulter.json) |
 | Abyss World | 235746 | [235746-abyss-world.json](./235746-abyss-world.json) |
