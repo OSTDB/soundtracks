@@ -6257,6 +6257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anomalith: Anomaly Zone Countermeasures DLC Set | 404267 | [404267-anomalith-anomaly-zone-countermeasures-dlc-set.json](./404267-anomalith-anomaly-zone-countermeasures-dlc-set.json) |
 | Anomalith: Digital Deluxe Edition | 404273 | [404273-anomalith-digital-deluxe-edition.json](./404273-anomalith-digital-deluxe-edition.json) |
 | Anomalogenos | 404998 | [404998-anomalogenos.json](./404998-anomalogenos.json) |
+| Anomalous Adventure | 309951 | [309951-anomalous-adventure.json](./309951-anomalous-adventure.json) |
 | Anomalous Materials | 252095 | [252095-anomalous-materials.json](./252095-anomalous-materials.json) |
 | Anomalous Veil | 407323 | [407323-anomalous-veil.json](./407323-anomalous-veil.json) |
 | Anomalous Zone | 211434 | [211434-anomalous-zone.json](./211434-anomalous-zone.json) |
