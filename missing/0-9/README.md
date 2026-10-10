@@ -156,6 +156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 0x0 | 294768 | [294768-0x0.json](./294768-0x0.json) |
 | 1 4 the $ | 301397 | [301397-1-4-the.json](./301397-1-4-the.json) |
 | 1 Across 2 Down | 38857 | [38857-1-across-2-down.json](./38857-1-across-2-down.json) |
+| 1 Agile Altercation | 316924 | [316924-1-agile-altercation.json](./316924-1-agile-altercation.json) |
 | 1 Bit Survivor | 233992 | [233992-1-bit-survivor.json](./233992-1-bit-survivor.json) |
 | 1 Hop | 171045 | [171045-1-hop.json](./171045-1-hop.json) |
 | 1 Hungry Peasant | 252117 | [252117-1-hungry-peasant.json](./252117-1-hungry-peasant.json) |
@@ -349,6 +350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Hidden ASCII Cats | 401847 | [401847-100-hidden-ascii-cats.json](./401847-100-hidden-ascii-cats.json) |
 | 100 Hidden Capybaras | 321544 | [321544-100-hidden-capybaras.json](./321544-100-hidden-capybaras.json) |
 | 100 Hidden Cats in America | 330686 | [330686-100-hidden-cats-in-america.json](./330686-100-hidden-cats-in-america.json) |
+| 100 hidden Cats: Kitty House | 316960 | [316960-100-hidden-cats-kitty-house.json](./316960-100-hidden-cats-kitty-house.json) |
 | 100 Hidden Cats: Kitty House 2 | 320321 | [320321-100-hidden-cats-kitty-house-2.json](./320321-100-hidden-cats-kitty-house-2.json) |
 | 100 Hidden Cats: Ninja | 334123 | [334123-100-hidden-cats-ninja.json](./334123-100-hidden-cats-ninja.json) |
 | 100 Hidden Cats: Playground | 330560 | [330560-100-hidden-cats-playground.json](./330560-100-hidden-cats-playground.json) |
@@ -504,6 +506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 101 Cats in Kyoto | 383064 | [383064-101-cats-in-kyoto.json](./383064-101-cats-in-kyoto.json) |
 | 101 Cats in Las Vegas | 308931 | [308931-101-cats-in-las-vegas.json](./308931-101-cats-in-las-vegas.json) |
 | 101 Cats in London | 337607 | [337607-101-cats-in-london.json](./337607-101-cats-in-london.json) |
+| 101 Cats in Los Angeles | 316957 | [316957-101-cats-in-los-angeles.json](./316957-101-cats-in-los-angeles.json) |
 | 101 Cats in Macau | 366739 | [366739-101-cats-in-macau.json](./366739-101-cats-in-macau.json) |
 | 101 Cats in Madrid | 326082 | [326082-101-cats-in-madrid.json](./326082-101-cats-in-madrid.json) |
 | 101 Cats in Miami | 326081 | [326081-101-cats-in-miami.json](./326081-101-cats-in-miami.json) |
@@ -517,6 +520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 101 Cats in Sydney | 407533 | [407533-101-cats-in-sydney.json](./407533-101-cats-in-sydney.json) |
 | 101 Cats in Tokyo | 322089 | [322089-101-cats-in-tokyo.json](./322089-101-cats-in-tokyo.json) |
 | 101 Cats in Vienna | 337611 | [337611-101-cats-in-vienna.json](./337611-101-cats-in-vienna.json) |
+| 101 Cute Dogs: Find & Paint | 316961 | [316961-101-cute-dogs-find-and-paint.json](./316961-101-cute-dogs-find-and-paint.json) |
 | 101 Cute Playland Dogs: Find & Paint | 320328 | [320328-101-cute-playland-dogs-find-and-paint.json](./320328-101-cute-playland-dogs-find-and-paint.json) |
 | 101 Dalmatians | 200492 | [200492-101-dalmatians.json](./200492-101-dalmatians.json) |
 | 101 Dogs Hidden in Amsterdam | 369993 | [369993-101-dogs-hidden-in-amsterdam.json](./369993-101-dogs-hidden-in-amsterdam.json) |
@@ -887,6 +891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2-in-1 Kart Racing Bundle | 331455 | [331455-2-in-1-kart-racing-bundle.json](./331455-2-in-1-kart-racing-bundle.json) |
 | 2-taku de Koishite Mune-kyun | 251629 | [251629-2-taku-de-koishite-mune-kyun.json](./251629-2-taku-de-koishite-mune-kyun.json) |
 | 2: A Game About Everyone's Favourite Sorting System! | 181739 | [181739-2-a-game-about-everyones-favourite-sorting-system.json](./181739-2-a-game-about-everyones-favourite-sorting-system.json) |
+| 2.5 Dimensional Seduction: Angels on Stage! | 316946 | [316946-2-5-dimensional-seduction-angels-on-stage.json](./316946-2-5-dimensional-seduction-angels-on-stage.json) |
 | 2/29 | 288841 | [288841-2-29.json](./288841-2-29.json) |
 | 20 All-Time Favorites | 91382 | [91382-20-all-time-favorites.json](./91382-20-all-time-favorites.json) |
 | 20 Billion Wives | 56146 | [56146-20-billion-wives.json](./56146-20-billion-wives.json) |
