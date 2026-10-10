@@ -1630,6 +1630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Way of the Hunter: Free UTV | 403804 | [403804-way-of-the-hunter-free-utv.json](./403804-way-of-the-hunter-free-utv.json) |
 | Way of the Hunter: Hunter's Pack | 325657 | [325657-way-of-the-hunter-hunters-pack.json](./325657-way-of-the-hunter-hunters-pack.json) |
 | Way of the Hunter: Kawasaki UTV Pack | 376283 | [376283-way-of-the-hunter-kawasaki-utv-pack.json](./376283-way-of-the-hunter-kawasaki-utv-pack.json) |
+| Way of the Hunter: Lintukoto Reserve | 312278 | [312278-way-of-the-hunter-lintukoto-reserve.json](./312278-way-of-the-hunter-lintukoto-reserve.json) |
 | Way of the Hunter: Map Pack 1 | 378557 | [378557-way-of-the-hunter-map-pack-1.json](./378557-way-of-the-hunter-map-pack-1.json) |
 | Way of the Hunter: Outfits Pack | 311101 | [311101-way-of-the-hunter-outfits-pack.json](./311101-way-of-the-hunter-outfits-pack.json) |
 | Way of the Hunter: Steyr Arms Pack | 272878 | [272878-way-of-the-hunter-steyr-arms-pack.json](./272878-way-of-the-hunter-steyr-arms-pack.json) |
@@ -5563,6 +5564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wrecked: Revenge Revisited | 9863 | [9863-wrecked-revenge-revisited.json](./9863-wrecked-revenge-revisited.json) |
 | Wrecker | 127762 | [127762-wrecker.json](./127762-wrecker.json) |
 | Wreckers | 94670 | [94670-wreckers.json](./94670-wreckers.json) |
+| Wreckfest 2 | 312277 | [312277-wreckfest-2.json](./312277-wreckfest-2.json) |
 | Wreckfest: American All-Stars Car Pack | 223692 | [223692-wreckfest-american-all-stars-car-pack.json](./223692-wreckfest-american-all-stars-car-pack.json) |
 | Wreckfest: Backwoods Bangers Car Pack | 223693 | [223693-wreckfest-backwoods-bangers-car-pack.json](./223693-wreckfest-backwoods-bangers-car-pack.json) |
 | Wreckfest: Banger Racing Car Pack | 223694 | [223694-wreckfest-banger-racing-car-pack.json](./223694-wreckfest-banger-racing-car-pack.json) |
