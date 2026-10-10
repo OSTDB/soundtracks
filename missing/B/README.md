@@ -1393,6 +1393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bara Boarders | 183046 | [183046-bara-boarders.json](./183046-bara-boarders.json) |
 | Bara no Ki ni Bara no Hanasaku Fandisk | 218954 | [218954-bara-no-ki-ni-bara-no-hanasaku-fandisk.json](./218954-bara-no-ki-ni-bara-no-hanasaku-fandisk.json) |
 | Bara no Ki ni: Bara no Hanasaku | 56522 | [56522-bara-no-ki-ni-bara-no-hanasaku.json](./56522-bara-no-ki-ni-bara-no-hanasaku.json) |
+| Bara to Tsubaki to Fata Morgana | 284844 | [284844-bara-to-tsubaki-to-fata-morgana.json](./284844-bara-to-tsubaki-to-fata-morgana.json) |
 | Baraban: Master of Bargain | 367490 | [367490-baraban-master-of-bargain.json](./367490-baraban-master-of-bargain.json) |
 | Barack Fu: The Adventures of Dirty Barry | 407397 | [407397-barack-fu-the-adventures-of-dirty-barry.json](./407397-barack-fu-the-adventures-of-dirty-barry.json) |
 | Baradroid: A Gay Visual Novel | 211088 | [211088-baradroid-a-gay-visual-novel.json](./211088-baradroid-a-gay-visual-novel.json) |
@@ -3448,6 +3449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beautiful Sakura: Fashion Club | 327971 | [327971-beautiful-sakura-fashion-club.json](./327971-beautiful-sakura-fashion-club.json) |
 | Beautiful Sakura: Running Club | 327973 | [327973-beautiful-sakura-running-club.json](./327973-beautiful-sakura-running-club.json) |
 | Beautiful Sakura: Surfing Club | 265240 | [265240-beautiful-sakura-surfing-club.json](./265240-beautiful-sakura-surfing-club.json) |
+| Beautiful Sakura: Volleyball Club | 284861 | [284861-beautiful-sakura-volleyball-club.json](./284861-beautiful-sakura-volleyball-club.json) |
 | Beautiful Summer | 367578 | [367578-beautiful-summer.json](./367578-beautiful-summer.json) |
 | Beautiful Ugly | 343375 | [343375-beautiful-ugly.json](./343375-beautiful-ugly.json) |
 | Beautiful Warrior Hibiki's Captive Violation Days | 82828 | [82828-beautiful-warrior-hibikis-captive-violation-days.json](./82828-beautiful-warrior-hibikis-captive-violation-days.json) |
