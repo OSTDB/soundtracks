@@ -3772,6 +3772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kurumi Diary | 233476 | [233476-kurumi-diary.json](./233476-kurumi-diary.json) |
 | Kurumi-chan A-so-bo | 97385 | [97385-kurumi-chan-a-so-bo.json](./97385-kurumi-chan-a-so-bo.json) |
 | Kurupara! | 37364 | [37364-kurupara.json](./37364-kurupara.json) |
+| Kururin Cafe | 288094 | [288094-kururin-cafe.json](./288094-kururin-cafe.json) |
 | Kururin Donuts: Okashi Recipe | 228453 | [228453-kururin-donuts-okashi-recipe.json](./228453-kururin-donuts-okashi-recipe.json) |
 | Kururin Squash! | 1471 | [1471-kururin-squash.json](./1471-kururin-squash.json) |
 | Kururin Sushi | 222321 | [222321-kururin-sushi.json](./222321-kururin-sushi.json) |
