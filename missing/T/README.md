@@ -460,6 +460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tails of War | 279261 | [279261-tails-of-war.json](./279261-tails-of-war.json) |
 | Tails on Lost Lands | 334729 | [334729-tails-on-lost-lands.json](./334729-tails-on-lost-lands.json) |
 | Tails to the Rescue | 330308 | [330308-tails-to-the-rescue.json](./330308-tails-to-the-rescue.json) |
+| Tails: Cosmic Rush 2.0 | 332459 | [332459-tails-cosmic-rush-2-0.json](./332459-tails-cosmic-rush-2-0.json) |
 | Tails: The Game | 330706 | [330706-tails-the-game.json](./330706-tails-the-game.json) |
 | Tails' Adventures 2 | 336355 | [336355-tails-adventures-2.json](./336355-tails-adventures-2.json) |
 | Tails' High Flying Adventure | 331391 | [331391-tails-high-flying-adventure.json](./331391-tails-high-flying-adventure.json) |
@@ -4123,6 +4124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Body Monstrous | 176502 | [176502-the-body-monstrous.json](./176502-the-body-monstrous.json) |
 | The Body Transparent | 362430 | [362430-the-body-transparent.json](./362430-the-body-transparent.json) |
 | The Body VR: Journey Inside a Cell | 33268 | [33268-the-body-vr-journey-inside-a-cell.json](./33268-the-body-vr-journey-inside-a-cell.json) |
+| The Bodycam Shooter | 332498 | [332498-the-bodycam-shooter.json](./332498-the-bodycam-shooter.json) |
 | The Bog's Heart | 176963 | [176963-the-bogs-heart.json](./176963-the-bogs-heart.json) |
 | The Boggy Region | 260940 | [260940-the-boggy-region.json](./260940-the-boggy-region.json) |
 | The Bogtavern | 236259 | [236259-the-bogtavern.json](./236259-the-bogtavern.json) |
@@ -9633,6 +9635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Runesmith | 376438 | [376438-the-runesmith.json](./376438-the-runesmith.json) |
 | The Running Dead | 183333 | [183333-the-running-dead.json](./183333-the-running-dead.json) |
 | The Running Man | 168630 | [168630-the-running-man.json](./168630-the-running-man.json) |
+| The Running Toaster | 332483 | [332483-the-running-toaster.json](./332483-the-running-toaster.json) |
 | The Rupture | 137972 | [137972-the-rupture.json](./137972-the-rupture.json) |
 | The Rush: The Veronica Story | 145577 | [145577-the-rush-the-veronica-story.json](./145577-the-rush-the-veronica-story.json) |
 | The Russian Roulette Game: PR | 292522 | [292522-the-russian-roulette-game-pr.json](./292522-the-russian-roulette-game-pr.json) |
@@ -14612,6 +14615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TMNT: Splintered Fate Heroes Bundle | 370828 | [370828-tmnt-splintered-fate-heroes-bundle.json](./370828-tmnt-splintered-fate-heroes-bundle.json) |
 | TMNT: The Power of 4 | 146241 | [146241-tmnt-the-power-of-4.json](./146241-tmnt-the-power-of-4.json) |
 | tModLoader | 134157 | [134157-tmodloader.json](./134157-tmodloader.json) |
+| TModLoader: Metroid Mod | 332466 | [332466-tmodloader-metroid-mod.json](./332466-tmodloader-metroid-mod.json) |
 | TNA Impact! | 5228 | [5228-tna-impact.json](./5228-tna-impact.json) |
 | TNA vs. ROH | 256926 | [256926-tna-vs-roh.json](./256926-tna-vs-roh.json) |
 | TNA Wrestling | 81239 | [81239-tna-wrestling.json](./81239-tna-wrestling.json) |
