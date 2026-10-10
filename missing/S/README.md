@@ -7099,6 +7099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sink Again | 140383 | [140383-sink-again.json](./140383-sink-again.json) |
 | Sink and Score | 373658 | [373658-sink-and-score.json](./373658-sink-and-score.json) |
 | Sink Sub Pro | 379984 | [379984-sink-sub-pro.json](./379984-sink-sub-pro.json) |
+| Sink the Fish | 282539 | [282539-sink-the-fish.json](./282539-sink-the-fish.json) |
 | Sink the Fish: Spy Kit | 282542 | [282542-sink-the-fish-spy-kit.json](./282542-sink-the-fish-spy-kit.json) |
 | Sink/Swim | 179006 | [179006-sink-swim.json](./179006-sink-swim.json) |
 | Sinking Inn | 151111 | [151111-sinking-inn.json](./151111-sinking-inn.json) |
@@ -7993,6 +7994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slam Dunk Basketball | 245410 | [245410-slam-dunk-basketball.json](./245410-slam-dunk-basketball.json) |
 | Slam Dunk Basketball 2 | 259142 | [259142-slam-dunk-basketball-2.json](./259142-slam-dunk-basketball-2.json) |
 | Slam Dunk: Kyougou Makkou Taiketsu! | 78307 | [78307-slam-dunk-kyougou-makkou-taiketsu.json](./78307-slam-dunk-kyougou-makkou-taiketsu.json) |
+| Slam Dunk: Shouri he no Starting 5 | 282497 | [282497-slam-dunk-shouri-he-no-starting-5.json](./282497-slam-dunk-shouri-he-no-starting-5.json) |
 | Slam Land | 98407 | [98407-slam-land.json](./98407-slam-land.json) |
 | Slam Poets | 399698 | [399698-slam-poets.json](./399698-slam-poets.json) |
 | Slam Racer | 270277 | [270277-slam-racer.json](./270277-slam-racer.json) |
@@ -15438,6 +15440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starcraft | 417642 | [417642-starcraft.json](./417642-starcraft.json) |
 | StarCraft II: Campaign Collection | 356059 | [356059-starcraft-ii-campaign-collection.json](./356059-starcraft-ii-campaign-collection.json) |
 | StarCraft II: Legacy of the Void - Collector's Edition | 51293 | [51293-starcraft-ii-legacy-of-the-void-collectors-edition.json](./51293-starcraft-ii-legacy-of-the-void-collectors-edition.json) |
+| StarCraft II: Wings of Liberty - Collector's Edition | 282514 | [282514-starcraft-ii-wings-of-liberty-collectors-edition.json](./282514-starcraft-ii-wings-of-liberty-collectors-edition.json) |
 | StarCraft: Evolution Complete | 305329 | [305329-starcraft-evolution-complete.json](./305329-starcraft-evolution-complete.json) |
 | Starcraft: Ghost | 11355 | [11355-starcraft-ghost.json](./11355-starcraft-ghost.json) |
 | StarCraft: Insurrection | 75401 | [75401-starcraft-insurrection.json](./75401-starcraft-insurrection.json) |
@@ -18100,6 +18103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Subterranean Library | 271304 | [271304-subterranean-library.json](./271304-subterranean-library.json) |
 | Subterranean Siege | 271495 | [271495-subterranean-siege.json](./271495-subterranean-siege.json) |
 | Subterranean Stryker | 13037 | [13037-subterranean-stryker.json](./13037-subterranean-stryker.json) |
+| Subterror | 282522 | [282522-subterror.json](./282522-subterror.json) |
 | Subterror | 291576 | [291576-subterror.json](./291576-subterror.json) |
 | Subtext | 115546 | [115546-subtext.json](./115546-subtext.json) |
 | Subtracto | 372536 | [372536-subtracto.json](./372536-subtracto.json) |
@@ -20097,6 +20101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Momotaro Dentetsu DX | 38344 | [38344-super-momotaro-dentetsu-dx.json](./38344-super-momotaro-dentetsu-dx.json) |
 | Super Momotaro Dentetsu II | 37810 | [37810-super-momotaro-dentetsu-ii.json](./37810-super-momotaro-dentetsu-ii.json) |
 | Super Momotaro Dentetsu III | 38343 | [38343-super-momotaro-dentetsu-iii.json](./38343-super-momotaro-dentetsu-iii.json) |
+| Super Momotarou Dentetsu III | 282486 | [282486-super-momotarou-dentetsu-iii.json](./282486-super-momotarou-dentetsu-iii.json) |
 | Super Monaco GP | 4528 | [4528-super-monaco-gp.json](./4528-super-monaco-gp.json) |
 | Super Monk War Z | 151038 | [151038-super-monk-war-z.json](./151038-super-monk-war-z.json) |
 | Super Monkey Ball | 2927 | [2927-super-monkey-ball.json](./2927-super-monkey-ball.json) |
