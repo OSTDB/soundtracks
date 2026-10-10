@@ -2722,6 +2722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cautionary Tale | 176453 | [176453-cautionary-tale.json](./176453-cautionary-tale.json) |
 | Cautious V | 229641 | [229641-cautious-v.json](./229641-cautious-v.json) |
 | Cavalry Battle 3000 | 353896 | [353896-cavalry-battle-3000.json](./353896-cavalry-battle-3000.json) |
+| Cavalry Charge | 326296 | [326296-cavalry-charge.json](./326296-cavalry-charge.json) |
 | Cave | 141816 | [141816-cave.json](./141816-cave.json) |
 | Cave Bad | 144105 | [144105-cave-bad.json](./144105-cave-bad.json) |
 | Cave Bowling | 87262 | [87262-cave-bowling.json](./87262-cave-bowling.json) |
@@ -4687,6 +4688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Christmas Cats | 230968 | [230968-christmas-cats.json](./230968-christmas-cats.json) |
 | Christmas Cats Revenge | 127073 | [127073-christmas-cats-revenge.json](./127073-christmas-cats-revenge.json) |
 | Christmas Celebration With Sakuya Izayoi | 192698 | [192698-christmas-celebration-with-sakuya-izayoi.json](./192698-christmas-celebration-with-sakuya-izayoi.json) |
+| Christmas Chaos | 326293 | [326293-christmas-chaos.json](./326293-christmas-chaos.json) |
 | Christmas Clash | 277601 | [277601-christmas-clash.json](./277601-christmas-clash.json) |
 | Christmas Clicker: Idle Gift Builder | 113001 | [113001-christmas-clicker-idle-gift-builder.json](./113001-christmas-clicker-idle-gift-builder.json) |
 | Christmas Corp | 284970 | [284970-christmas-corp.json](./284970-christmas-corp.json) |
@@ -7392,6 +7394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CombatArms: Reloaded | 110906 | [110906-combatarms-reloaded.json](./110906-combatarms-reloaded.json) |
 | Combate Monero | 117622 | [117622-combate-monero.json](./117622-combate-monero.json) |
 | Combi Pool | 291603 | [291603-combi-pool.json](./291603-combi-pool.json) |
+| Combi Ring Advanced | 326129 | [326129-combi-ring-advanced.json](./326129-combi-ring-advanced.json) |
 | Combination Lock | 70436 | [70436-combination-lock.json](./70436-combination-lock.json) |
 | Combine Destiny | 222417 | [222417-combine-destiny.json](./222417-combine-destiny.json) |
 | Combine War Toys | 111029 | [111029-combine-war-toys.json](./111029-combine-war-toys.json) |
