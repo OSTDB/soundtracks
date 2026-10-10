@@ -5161,6 +5161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Racing 2 | 20559 | [20559-world-racing-2.json](./20559-world-racing-2.json) |
 | World Racing 2: Champion Edition | 231399 | [231399-world-racing-2-champion-edition.json](./231399-world-racing-2-champion-edition.json) |
 | World Rally | 46834 | [46834-world-rally.json](./46834-world-rally.json) |
+| World Rally Arcade | 319276 | [319276-world-rally-arcade.json](./319276-world-rally-arcade.json) |
 | World Rally Championship | 8313 | [8313-world-rally-championship.json](./8313-world-rally-championship.json) |
 | World Reborn | 49502 | [49502-world-reborn.json](./49502-world-reborn.json) |
 | World Revolution | 84454 | [84454-world-revolution.json](./84454-world-revolution.json) |
