@@ -1628,6 +1628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Party Party Time + Ultra Pack Set | 260684 | [260684-party-party-time-ultra-pack-set.json](./260684-party-party-time-ultra-pack-set.json) |
 | Party Party Time 2 + Duo Pack Set | 304813 | [304813-party-party-time-2-duo-pack-set.json](./304813-party-party-time-2-duo-pack-set.json) |
 | Party Party Time 2: Lively Party Pack | 374168 | [374168-party-party-time-2-lively-party-pack.json](./374168-party-party-time-2-lively-party-pack.json) |
+| Party Party Time 2: Party Spirit Pack | 310078 | [310078-party-party-time-2-party-spirit-pack.json](./310078-party-party-time-2-party-spirit-pack.json) |
 | Party Party Time 3 | 324133 | [324133-party-party-time-3.json](./324133-party-party-time-3.json) |
 | Party Party Time: Character Skin Pack 2 | 256460 | [256460-party-party-time-character-skin-pack-2.json](./256460-party-party-time-character-skin-pack-2.json) |
 | Party Party Time: Happy Happy Pack | 259855 | [259855-party-party-time-happy-happy-pack.json](./259855-party-party-time-happy-happy-pack.json) |
@@ -4628,6 +4629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirate Coast Escape 4 | 315644 | [315644-pirate-coast-escape-4.json](./315644-pirate-coast-escape-4.json) |
 | Pirate Code | 62727 | [62727-pirate-code.json](./62727-pirate-code.json) |
 | Pirate Coin Dozer | 60624 | [60624-pirate-coin-dozer.json](./60624-pirate-coin-dozer.json) |
+| Pirate Combat Trainer | 310162 | [310162-pirate-combat-trainer.json](./310162-pirate-combat-trainer.json) |
 | Pirate Cove Simulator | 326381 | [326381-pirate-cove-simulator.json](./326381-pirate-cove-simulator.json) |
 | Pirate Cubes | 85720 | [85720-pirate-cubes.json](./85720-pirate-cubes.json) |
 | Pirate Dawn | 62414 | [62414-pirate-dawn.json](./62414-pirate-dawn.json) |
@@ -5583,6 +5585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Flipper | 394893 | [394893-planet-flipper.json](./394893-planet-flipper.json) |
 | Planet G | 209972 | [209972-planet-g.json](./209972-planet-g.json) |
 | Planet Gallery | 379124 | [379124-planet-gallery.json](./379124-planet-gallery.json) |
+| Planet Game | 310149 | [310149-planet-game.json](./310149-planet-game.json) |
 | Planet Genesis 2 | 107092 | [107092-planet-genesis-2.json](./107092-planet-genesis-2.json) |
 | Planet Graveyard | 323416 | [323416-planet-graveyard.json](./323416-planet-graveyard.json) |
 | Planet Guardian VR | 76519 | [76519-planet-guardian-vr.json](./76519-planet-guardian-vr.json) |
@@ -8679,6 +8682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Primal Roar: Jurassic Dinosaur Era | 220652 | [220652-primal-roar-jurassic-dinosaur-era.json](./220652-primal-roar-jurassic-dinosaur-era.json) |
 | Primal Slideee | 336669 | [336669-primal-slideee.json](./336669-primal-slideee.json) |
 | Primal Survival | 391773 | [391773-primal-survival.json](./391773-primal-survival.json) |
+| Primal Survival Wars | 310150 | [310150-primal-survival-wars.json](./310150-primal-survival-wars.json) |
 | Primal Survivors | 224627 | [224627-primal-survivors.json](./224627-primal-survivors.json) |
 | Primal Threat | 173048 | [173048-primal-threat.json](./173048-primal-threat.json) |
 | Primals.io | 80884 | [80884-primals-io.json](./80884-primals-io.json) |
