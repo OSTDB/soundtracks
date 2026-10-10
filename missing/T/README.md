@@ -6201,6 +6201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ghoul's Forest | 144804 | [144804-the-ghouls-forest.json](./144804-the-ghouls-forest.json) |
 | The Ghoul's Forest 2 | 144840 | [144840-the-ghouls-forest-2.json](./144840-the-ghouls-forest-2.json) |
 | The Ghoul's Forest 3 | 144841 | [144841-the-ghouls-forest-3.json](./144841-the-ghouls-forest-3.json) |
+| The Giant Crab in Space | 301063 | [301063-the-giant-crab-in-space.json](./301063-the-giant-crab-in-space.json) |
 | The Giant of Torridge Island | 192984 | [192984-the-giant-of-torridge-island.json](./192984-the-giant-of-torridge-island.json) |
 | The GIF Game | 297813 | [297813-the-gif-game.json](./297813-the-gif-game.json) |
 | The Gift | 192151 | [192151-the-gift.json](./192151-the-gift.json) |
@@ -8764,6 +8765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Neptune Diaries | 177889 | [177889-the-neptune-diaries.json](./177889-the-neptune-diaries.json) |
 | The Neroe | 199492 | [199492-the-neroe.json](./199492-the-neroe.json) |
 | The Nerve Game | 180256 | [180256-the-nerve-game.json](./180256-the-nerve-game.json) |
+| The Netcode Conflict | 301060 | [301060-the-netcode-conflict.json](./301060-the-netcode-conflict.json) |
 | The NetherWorld | 271766 | [271766-the-netherworld.json](./271766-the-netherworld.json) |
 | The Netrunner Awaken1ng | 182393 | [182393-the-netrunner-awaken1ng.json](./182393-the-netrunner-awaken1ng.json) |
 | The Network | 21777 | [21777-the-network.json](./21777-the-network.json) |
@@ -10052,6 +10054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Shell Part III: Paradiso | 141751 | [141751-the-shell-part-iii-paradiso.json](./141751-the-shell-part-iii-paradiso.json) |
 | The Sheltered | 36492 | [36492-the-sheltered.json](./36492-the-sheltered.json) |
 | The Shenanigans of Cherry and Trix | 127374 | [127374-the-shenanigans-of-cherry-and-trix.json](./127374-the-shenanigans-of-cherry-and-trix.json) |
+| The Sheng's Written: Journey of Hoo | 301056 | [301056-the-shengs-written-journey-of-hoo.json](./301056-the-shengs-written-journey-of-hoo.json) |
 | The Shepherd | 154070 | [154070-the-shepherd.json](./154070-the-shepherd.json) |
 | The Sheriff's Town | 264206 | [264206-the-sheriffs-town.json](./264206-the-sheriffs-town.json) |
 | The Shifting Cavern | 258424 | [258424-the-shifting-cavern.json](./258424-the-shifting-cavern.json) |
@@ -10637,6 +10640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Suicide Game | 179075 | [179075-the-suicide-game.json](./179075-the-suicide-game.json) |
 | The Suitcase | 196559 | [196559-the-suitcase.json](./196559-the-suitcase.json) |
 | The Suite Life of Zack & Cody: Tipton Trouble | 72115 | [72115-the-suite-life-of-zack-and-cody-tipton-trouble.json](./72115-the-suite-life-of-zack-and-cody-tipton-trouble.json) |
+| The Suitor | 301065 | [301065-the-suitor.json](./301065-the-suitor.json) |
 | The Suits Have Gone Mad! | 215722 | [215722-the-suits-have-gone-mad.json](./215722-the-suits-have-gone-mad.json) |
 | The Sullen Boku Girls Alliance | 225634 | [225634-the-sullen-boku-girls-alliance.json](./225634-the-sullen-boku-girls-alliance.json) |
 | The Sultan's Labyrinth | 64720 | [64720-the-sultans-labyrinth.json](./64720-the-sultans-labyrinth.json) |
@@ -12517,6 +12521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thorne - Death Merchants | 33265 | [33265-thorne-death-merchants.json](./33265-thorne-death-merchants.json) |
 | Thorner | 410353 | [410353-thorner.json](./410353-thorner.json) |
 | Thorns & Spells | 47299 | [47299-thorns-and-spells.json](./47299-thorns-and-spells.json) |
+| Thorns: Adlia | 301067 | [301067-thorns-adlia.json](./301067-thorns-adlia.json) |
 | Thoroughbred Breeder | 37789 | [37789-thoroughbred-breeder.json](./37789-thoroughbred-breeder.json) |
 | Thoroughbred Breeder II | 37788 | [37788-thoroughbred-breeder-ii.json](./37788-thoroughbred-breeder-ii.json) |
 | Thoroughbred Breeder III | 37787 | [37787-thoroughbred-breeder-iii.json](./37787-thoroughbred-breeder-iii.json) |
@@ -16362,6 +16367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Fan-made Virtual Autography | 151683 | [151683-touhou-fan-made-virtual-autography.json](./151683-touhou-fan-made-virtual-autography.json) |
 | Touhou Fantasy | 387333 | [387333-touhou-fantasy.json](./387333-touhou-fantasy.json) |
 | Touhou Fantasy Destination | 256332 | [256332-touhou-fantasy-destination.json](./256332-touhou-fantasy-destination.json) |
+| Touhou Flower Fight | 301104 | [301104-touhou-flower-fight.json](./301104-touhou-flower-fight.json) |
 | Touhou Fractured Transience | 238468 | [238468-touhou-fractured-transience.json](./238468-touhou-fractured-transience.json) |
 | Touhou Fumo Racing | 193872 | [193872-touhou-fumo-racing.json](./193872-touhou-fumo-racing.json) |
 | Touhou Fuumaroku: The Story of Eastern Wind | 375562 | [375562-touhou-fuumaroku-the-story-of-eastern-wind.json](./375562-touhou-fuumaroku-the-story-of-eastern-wind.json) |
