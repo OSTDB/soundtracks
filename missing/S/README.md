@@ -4344,6 +4344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shaiya | 85841 | [85841-shaiya.json](./85841-shaiya.json) |
 | Shajra Namla | 286773 | [286773-shajra-namla.json](./286773-shajra-namla.json) |
 | Shakadou-san no Jun'ai Road | 182226 | [182226-shakadou-san-no-junai-road.json](./182226-shakadou-san-no-junai-road.json) |
+| Shakatto Tambourine! | 328951 | [328951-shakatto-tambourine.json](./328951-shakatto-tambourine.json) |
 | Shake | 343962 | [343962-shake.json](./343962-shake.json) |
 | Shake | 383508 | [383508-shake.json](./383508-shake.json) |
 | Shake | 399840 | [399840-shake.json](./399840-shake.json) |
@@ -6377,6 +6378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Scope 3 | 329121 | [329121-silent-scope-3.json](./329121-silent-scope-3.json) |
 | Silent Scope 3 | 44630 | [44630-silent-scope-3.json](./44630-silent-scope-3.json) |
 | Silent Scope Complete | 6052 | [6052-silent-scope-complete.json](./6052-silent-scope-complete.json) |
+| Silent Scope EX | 328952 | [328952-silent-scope-ex.json](./328952-silent-scope-ex.json) |
 | Silent Scope: Bone Eater | 159150 | [159150-silent-scope-bone-eater.json](./159150-silent-scope-bone-eater.json) |
 | Silent Scream | 236209 | [236209-silent-scream.json](./236209-silent-scream.json) |
 | Silent Scream 2 | 368512 | [368512-silent-scream-2.json](./368512-silent-scream-2.json) |
