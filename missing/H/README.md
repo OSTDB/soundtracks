@@ -1504,6 +1504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hatfall | 11818 | [11818-hatfall.json](./11818-hatfall.json) |
 | Hatland Adventures | 35818 | [35818-hatland-adventures.json](./35818-hatland-adventures.json) |
 | HatMania | 223388 | [223388-hatmania.json](./223388-hatmania.json) |
+| Hatomo Battles the Yomi Demons | 281316 | [281316-hatomo-battles-the-yomi-demons.json](./281316-hatomo-battles-the-yomi-demons.json) |
 | Hatone | 260620 | [260620-hatone.json](./260620-hatone.json) |
 | Hatris | 40063 | [40063-hatris.json](./40063-hatris.json) |
 | Hats and Guns | 334215 | [334215-hats-and-guns.json](./334215-hats-and-guns.json) |
@@ -6687,6 +6688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House Designer: Fix & Flip | 107134 | [107134-house-designer-fix-and-flip.json](./107134-house-designer-fix-and-flip.json) |
 | House Escape | 102270 | [102270-house-escape.json](./102270-house-escape.json) |
 | House Fixer Simulator | 401125 | [401125-house-fixer-simulator.json](./401125-house-fixer-simulator.json) |
+| House Flip | 281329 | [281329-house-flip.json](./281329-house-flip.json) |
 | House Flipper | 27744 | [27744-house-flipper.json](./27744-house-flipper.json) |
 | House Flipper 2 | 191797 | [191797-house-flipper-2.json](./191797-house-flipper-2.json) |
 | House Flipper 2: Co-op DLC | 402395 | [402395-house-flipper-2-co-op-dlc.json](./402395-house-flipper-2-co-op-dlc.json) |
