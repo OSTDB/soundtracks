@@ -10598,6 +10598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Frontiers: Digital Deluxe Edition | 214559 | [214559-sonic-frontiers-digital-deluxe-edition.json](./214559-sonic-frontiers-digital-deluxe-edition.json) |
 | Sonic Frontiers: Holiday Cheer Suit | 352840 | [352840-sonic-frontiers-holiday-cheer-suit.json](./352840-sonic-frontiers-holiday-cheer-suit.json) |
 | Sonic Frontiers: Sonic’s Birthday Bash | 254487 | [254487-sonic-frontiers-sonic-s-birthday-bash.json](./254487-sonic-frontiers-sonic-s-birthday-bash.json) |
+| Sonic Frost | 316970 | [316970-sonic-frost.json](./316970-sonic-frost.json) |
 | Sonic Fusion | 326819 | [326819-sonic-fusion.json](./326819-sonic-fusion.json) |
 | Sonic Gaiden | 305282 | [305282-sonic-gaiden.json](./305282-sonic-gaiden.json) |
 | Sonic Gallery | 330528 | [330528-sonic-gallery.json](./330528-sonic-gallery.json) |
@@ -10934,6 +10935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic the Hedgehog: Time Attacked | 228594 | [228594-sonic-the-hedgehog-time-attacked.json](./228594-sonic-the-hedgehog-time-attacked.json) |
 | Sonic the Hedgehog's Gameworld | 52188 | [52188-sonic-the-hedgehogs-gameworld.json](./52188-sonic-the-hedgehogs-gameworld.json) |
 | Sonic The New Adventure | 321078 | [321078-sonic-the-new-adventure.json](./321078-sonic-the-new-adventure.json) |
+| Sonic the Sketchhog: Episode 2 | 316933 | [316933-sonic-the-sketchhog-episode-2.json](./316933-sonic-the-sketchhog-episode-2.json) |
 | Sonic ThirdScape | 330821 | [330821-sonic-thirdscape.json](./330821-sonic-thirdscape.json) |
 | Sonic Time Twisted | 125154 | [125154-sonic-time-twisted.json](./125154-sonic-time-twisted.json) |
 | Sonic Totem | 334734 | [334734-sonic-totem.json](./334734-sonic-totem.json) |
@@ -10998,6 +11000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic XN | 331666 | [331666-sonic-xn.json](./331666-sonic-xn.json) |
 | Sonic Xperience | 332573 | [332573-sonic-xperience.json](./332573-sonic-xperience.json) |
 | Sonic Xtreme 2D | 315027 | [315027-sonic-xtreme-2d.json](./315027-sonic-xtreme-2d.json) |
+| Sonic Zones | 316934 | [316934-sonic-zones.json](./316934-sonic-zones.json) |
 | Sonic Zoom | 270223 | [270223-sonic-zoom.json](./270223-sonic-zoom.json) |
 | Sonic: After the Sequel | 19722 | [19722-sonic-after-the-sequel.json](./19722-sonic-after-the-sequel.json) |
 | Sonic: Before the Sequel | 19723 | [19723-sonic-before-the-sequel.json](./19723-sonic-before-the-sequel.json) |
@@ -20439,6 +20442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Wonder Boy in Monster Land | 327845 | [327845-super-wonder-boy-in-monster-land.json](./327845-super-wonder-boy-in-monster-land.json) |
 | Super Word Challenge | 208351 | [208351-super-word-challenge.json](./208351-super-word-challenge.json) |
 | Super Words | 258216 | [258216-super-words.json](./258216-super-words.json) |
+| Super World of Goo | 316963 | [316963-super-world-of-goo.json](./316963-super-world-of-goo.json) |
 | Super World Run: Bosses | 253004 | [253004-super-world-run-bosses.json](./253004-super-world-run-bosses.json) |
 | Super World Stadium '99 | 311293 | [311293-super-world-stadium-99.json](./311293-super-world-stadium-99.json) |
 | Super Worms | 347103 | [347103-super-worms.json](./347103-super-worms.json) |
