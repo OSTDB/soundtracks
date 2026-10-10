@@ -8534,6 +8534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Most Searched Playground | 280229 | [280229-the-most-searched-playground.json](./280229-the-most-searched-playground.json) |
 | The Most Searched Playground: Paris 2024 | 311458 | [311458-the-most-searched-playground-paris-2024.json](./311458-the-most-searched-playground-paris-2024.json) |
 | The Most Terrible Time of the Year | 318418 | [318418-the-most-terrible-time-of-the-year.json](./318418-the-most-terrible-time-of-the-year.json) |
+| The Motel | 329520 | [329520-the-motel.json](./329520-the-motel.json) |
 | The Moth Inside Me | 333644 | [333644-the-moth-inside-me.json](./333644-the-moth-inside-me.json) |
 | The Moth Oracle's Poem | 135774 | [135774-the-moth-oracles-poem.json](./135774-the-moth-oracles-poem.json) |
 | The Mother Deer | 330544 | [330544-the-mother-deer.json](./330544-the-mother-deer.json) |
@@ -8911,6 +8912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Outer Frame | 399859 | [399859-the-outer-frame.json](./399859-the-outer-frame.json) |
 | The Outer Reaches | 345703 | [345703-the-outer-reaches.json](./345703-the-outer-reaches.json) |
 | The Outer Rim: Survivor | 97344 | [97344-the-outer-rim-survivor.json](./97344-the-outer-rim-survivor.json) |
+| The Outer Side | 329611 | [329611-the-outer-side.json](./329611-the-outer-side.json) |
 | The Outer Space Bugs | 224751 | [224751-the-outer-space-bugs.json](./224751-the-outer-space-bugs.json) |
 | The Outer Worlds 2: Premium Edition | 348309 | [348309-the-outer-worlds-2-premium-edition.json](./348309-the-outer-worlds-2-premium-edition.json) |
 | The Outer Worlds: Expansion Pass | 293732 | [293732-the-outer-worlds-expansion-pass.json](./293732-the-outer-worlds-expansion-pass.json) |
