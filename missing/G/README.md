@@ -5216,6 +5216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Greebly Gambit | 407336 | [407336-greebly-gambit.json](./407336-greebly-gambit.json) |
 | Greed | 129623 | [129623-greed.json](./129623-greed.json) |
 | Greed | 204991 | [204991-greed.json](./204991-greed.json) |
+| Greed & Darkness | 328409 | [328409-greed-and-darkness.json](./328409-greed-and-darkness.json) |
 | Greed 3: Old Enemies Returning | 115702 | [115702-greed-3-old-enemies-returning.json](./115702-greed-3-old-enemies-returning.json) |
 | Greed Adventure | 102323 | [102323-greed-adventure.json](./102323-greed-adventure.json) |
 | Greed and Fear and the Rest | 295857 | [295857-greed-and-fear-and-the-rest.json](./295857-greed-and-fear-and-the-rest.json) |
