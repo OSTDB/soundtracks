@@ -1975,6 +1975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weird War: The Unknown Episode of World War II | 129543 | [129543-weird-war-the-unknown-episode-of-world-war-ii.json](./129543-weird-war-the-unknown-episode-of-world-war-ii.json) |
 | Weird Water World | 409629 | [409629-weird-water-world.json](./409629-weird-water-world.json) |
 | Weird West: Definitive Edition | 250504 | [250504-weird-west-definitive-edition.json](./250504-weird-west-definitive-edition.json) |
+| Weird Wormholes | 323438 | [323438-weird-wormholes.json](./323438-weird-wormholes.json) |
 | Weird: Truth is Stranger than Fiction | 69217 | [69217-weird-truth-is-stranger-than-fiction.json](./69217-weird-truth-is-stranger-than-fiction.json) |
 | Weirdlands | 144978 | [144978-weirdlands.json](./144978-weirdlands.json) |
 | WeirdParisGame | 353872 | [353872-weirdparisgame.json](./353872-weirdparisgame.json) |
