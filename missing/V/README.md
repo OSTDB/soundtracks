@@ -690,6 +690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vectrexit | 273915 | [273915-vectrexit.json](./273915-vectrexit.json) |
 | Vectris | 273099 | [273099-vectris.json](./273099-vectris.json) |
 | VectroMirror | 140006 | [140006-vectromirror.json](./140006-vectromirror.json) |
+| Vectron | 287572 | [287572-vectron.json](./287572-vectron.json) |
 | Vectron | 295639 | [295639-vectron.json](./295639-vectron.json) |
 | Vecxis | 59058 | [59058-vecxis.json](./59058-vecxis.json) |
 | Ved | 126673 | [126673-ved.json](./126673-ved.json) |
@@ -1276,6 +1277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Videocart-26: Alien Invasion | 18604 | [18604-videocart-26-alien-invasion.json](./18604-videocart-26-alien-invasion.json) |
 | Videocart-27: Pac-Man | 245385 | [245385-videocart-27-pac-man.json](./245385-videocart-27-pac-man.json) |
 | Videoclub Simulator | 339093 | [339093-videoclub-simulator.json](./339093-videoclub-simulator.json) |
+| Videogame 12 Jogos | 287573 | [287573-videogame-12-jogos.json](./287573-videogame-12-jogos.json) |
 | Videogame Heardle | 203193 | [203193-videogame-heardle.json](./203193-videogame-heardle.json) |
 | Videogames! The Videogame Trivia Videogame | 64217 | [64217-videogames-the-videogame-trivia-videogame.json](./64217-videogames-the-videogame-trivia-videogame.json) |
 | VideoHole: Episode 1 | 132757 | [132757-videohole-episode-1.json](./132757-videohole-episode-1.json) |
@@ -2166,6 +2168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Volley Balley | 90895 | [90895-volley-balley.json](./90895-volley-balley.json) |
 | Volley Sumos | 193727 | [193727-volley-sumos.json](./193727-volley-sumos.json) |
 | Volleyball | 109446 | [109446-volleyball.json](./109446-volleyball.json) |
+| Volleyball | 287574 | [287574-volleyball.json](./287574-volleyball.json) |
 | Volleyball Challenge | 43244 | [43244-volleyball-challenge.json](./43244-volleyball-challenge.json) |
 | Volleyball Champions 3D | 323322 | [323322-volleyball-champions-3d.json](./323322-volleyball-champions-3d.json) |
 | Volleyball Fever | 120026 | [120026-volleyball-fever.json](./120026-volleyball-fever.json) |
