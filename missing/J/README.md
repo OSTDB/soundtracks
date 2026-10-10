@@ -1182,6 +1182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsaw Realms: Oasis | 389066 | [389066-jigsaw-realms-oasis.json](./389066-jigsaw-realms-oasis.json) |
 | Jigsaw Realms: Villages | 386370 | [386370-jigsaw-realms-villages.json](./386370-jigsaw-realms-villages.json) |
 | Jigsaw Rogue | 355182 | [355182-jigsaw-rogue.json](./355182-jigsaw-rogue.json) |
+| Jigsaw Royal Princess | 295684 | [295684-jigsaw-royal-princess.json](./295684-jigsaw-royal-princess.json) |
 | Jigsaw Swimsuit | 326186 | [326186-jigsaw-swimsuit.json](./326186-jigsaw-swimsuit.json) |
 | Jigsaw Tetra | 147981 | [147981-jigsaw-tetra.json](./147981-jigsaw-tetra.json) |
 | Jigsaw Tile | 243736 | [243736-jigsaw-tile.json](./243736-jigsaw-tile.json) |
