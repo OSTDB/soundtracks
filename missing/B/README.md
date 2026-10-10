@@ -2023,6 +2023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baten Kaitos I & II HD Remaster | 236711 | [236711-baten-kaitos-i-and-ii-hd-remaster.json](./236711-baten-kaitos-i-and-ii-hd-remaster.json) |
 | Baten Kaitos Origins | 3796 | [3796-baten-kaitos-origins.json](./3796-baten-kaitos-origins.json) |
 | Baten Kaitos: Eternal Wings and the Lost Ocean | 3795 | [3795-baten-kaitos-eternal-wings-and-the-lost-ocean.json](./3795-baten-kaitos-eternal-wings-and-the-lost-ocean.json) |
+| Bathhouse Creatures | 331274 | [331274-bathhouse-creatures.json](./331274-bathhouse-creatures.json) |
 | Bathos | 92842 | [92842-bathos.json](./92842-bathos.json) |
 | Bathroom Chef | 101627 | [101627-bathroom-chef.json](./101627-bathroom-chef.json) |
 | Bathysphere | 415144 | [415144-bathysphere.json](./415144-bathysphere.json) |
@@ -7123,6 +7124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BMX Burner | 349261 | [349261-bmx-burner.json](./349261-bmx-burner.json) |
 | BMX Challenge | 220189 | [220189-bmx-challenge.json](./220189-bmx-challenge.json) |
 | BMX City Run | 345464 | [345464-bmx-city-run.json](./345464-bmx-city-run.json) |
+| BMX for Life | 331375 | [331375-bmx-for-life.json](./331375-bmx-for-life.json) |
 | BMX Freestyle | 323850 | [323850-bmx-freestyle.json](./323850-bmx-freestyle.json) |
 | BMX on the Moon | 15680 | [15680-bmx-on-the-moon.json](./15680-bmx-on-the-moon.json) |
 | BMX Pipe | 102770 | [102770-bmx-pipe.json](./102770-bmx-pipe.json) |
@@ -9824,6 +9826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Guppies | 230344 | [230344-bubble-guppies.json](./230344-bubble-guppies.json) |
 | Bubble Hero | 246436 | [246436-bubble-hero.json](./246436-bubble-hero.json) |
 | Bubble Investor | 361727 | [361727-bubble-investor.json](./361727-bubble-investor.json) |
+| Bubble Jam | 331366 | [331366-bubble-jam.json](./331366-bubble-jam.json) |
 | Bubble Jcat | 183950 | [183950-bubble-jcat.json](./183950-bubble-jcat.json) |
 | Bubble Jungle | 31209 | [31209-bubble-jungle.json](./31209-bubble-jungle.json) |
 | Bubble Labs VR | 31324 | [31324-bubble-labs-vr.json](./31324-bubble-labs-vr.json) |
