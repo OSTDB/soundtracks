@@ -2353,6 +2353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Tsunami | 388233 | [388233-cat-tsunami.json](./388233-cat-tsunami.json) |
 | Cat Veterinary: Emergency Hospital Close to Me | 328541 | [328541-cat-veterinary-emergency-hospital-close-to-me.json](./328541-cat-veterinary-emergency-hospital-close-to-me.json) |
 | Cat vs. Corgis | 54448 | [54448-cat-vs-corgis.json](./54448-cat-vs-corgis.json) |
+| Cat vs. Dog | 323977 | [323977-cat-vs-dog.json](./323977-cat-vs-dog.json) |
 | Cat Walker Simulator | 176439 | [176439-cat-walker-simulator.json](./176439-cat-walker-simulator.json) |
 | Cat Warfare | 107806 | [107806-cat-warfare.json](./107806-cat-warfare.json) |
 | Cat Warrior | 281983 | [281983-cat-warrior.json](./281983-cat-warrior.json) |
@@ -3818,6 +3819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chernobyl: Road of Death | 122380 | [122380-chernobyl-road-of-death.json](./122380-chernobyl-road-of-death.json) |
 | Chernobyl: Terrorist Attack | 30844 | [30844-chernobyl-terrorist-attack.json](./30844-chernobyl-terrorist-attack.json) |
 | Chernobylite: Black Smoke Pack | 323250 | [323250-chernobylite-black-smoke-pack.json](./323250-chernobylite-black-smoke-pack.json) |
+| Chernobylite: Complete Edition | 323701 | [323701-chernobylite-complete-edition.json](./323701-chernobylite-complete-edition.json) |
 | Chernobylite: Premium Edition | 330198 | [330198-chernobylite-premium-edition.json](./330198-chernobylite-premium-edition.json) |
 | Chernobylite: Season 1 - Blue Flames | 222932 | [222932-chernobylite-season-1-blue-flames.json](./222932-chernobylite-season-1-blue-flames.json) |
 | Chernobylite: Season 2 - Red Trees | 222933 | [222933-chernobylite-season-2-red-trees.json](./222933-chernobylite-season-2-red-trees.json) |
@@ -10238,6 +10240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CrimeCraft Bleedout | 51265 | [51265-crimecraft-bleedout.json](./51265-crimecraft-bleedout.json) |
 | Crimes Against Slimes | 322649 | [322649-crimes-against-slimes.json](./322649-crimes-against-slimes.json) |
 | Crimes of Passion | 313795 | [313795-crimes-of-passion.json](./313795-crimes-of-passion.json) |
+| Crimes of Passion 3 | 323994 | [323994-crimes-of-passion-3.json](./323994-crimes-of-passion-3.json) |
 | Crimes of Passion II | 313796 | [313796-crimes-of-passion-ii.json](./313796-crimes-of-passion-ii.json) |
 | Crimes of Passion: The Proposal | 313797 | [313797-crimes-of-passion-the-proposal.json](./313797-crimes-of-passion-the-proposal.json) |
 | Crimes: Open Cases | 299858 | [299858-crimes-open-cases.json](./299858-crimes-open-cases.json) |
