@@ -2385,6 +2385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NHL 25 | 314499 | [314499-nhl-25.json](./314499-nhl-25.json) |
 | NHL 27 | 408771 | [408771-nhl-27.json](./408771-nhl-27.json) |
 | NHL 27: Deluxe Edition | 410860 | [410860-nhl-27-deluxe-edition.json](./410860-nhl-27-deluxe-edition.json) |
+| NHL 2K10 | 287014 | [287014-nhl-2k10.json](./287014-nhl-2k10.json) |
 | NHL 2K2 | 8840 | [8840-nhl-2k2.json](./8840-nhl-2k2.json) |
 | NHL 2K3 | 4045 | [4045-nhl-2k3.json](./4045-nhl-2k3.json) |
 | NHL 2K6 | 5965 | [5965-nhl-2k6.json](./5965-nhl-2k6.json) |
