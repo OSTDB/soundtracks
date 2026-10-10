@@ -660,6 +660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OG Memory: Synthwave Vampires | 341501 | [341501-og-memory-synthwave-vampires.json](./341501-og-memory-synthwave-vampires.json) |
 | OG Memory: Winter 2K23 | 288784 | [288784-og-memory-winter-2k23.json](./288784-og-memory-winter-2k23.json) |
 | OG Puzzlers: Kira Maus | 277582 | [277582-og-puzzlers-kira-maus.json](./277582-og-puzzlers-kira-maus.json) |
+| OG Puzzlers: Spring 2K24 | 303667 | [303667-og-puzzlers-spring-2k24.json](./303667-og-puzzlers-spring-2k24.json) |
 | OG Puzzlers: Synthwave Astronauts | 292253 | [292253-og-puzzlers-synthwave-astronauts.json](./292253-og-puzzlers-synthwave-astronauts.json) |
 | OG Puzzlers: Synthwave Cars | 288788 | [288788-og-puzzlers-synthwave-cars.json](./288788-og-puzzlers-synthwave-cars.json) |
 | OG Puzzlers: Synthwave Dinosaurs | 291234 | [291234-og-puzzlers-synthwave-dinosaurs.json](./291234-og-puzzlers-synthwave-dinosaurs.json) |
@@ -997,6 +998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Omawari-san: Koitsu Desu. - Kai | 376687 | [376687-omawari-san-koitsu-desu-kai.json](./376687-omawari-san-koitsu-desu-kai.json) |
 | Omber | 208576 | [208576-omber.json](./208576-omber.json) |
 | Ombra | 120894 | [120894-ombra.json](./120894-ombra.json) |
+| OMD, Noobs! | 303826 | [303826-omd-noobs.json](./303826-omd-noobs.json) |
 | Omega | 336352 | [336352-omega.json](./336352-omega.json) |
 | Omega 13 | 250434 | [250434-omega-13.json](./250434-omega-13.json) |
 | Omega Assault | 94867 | [94867-omega-assault.json](./94867-omega-assault.json) |
