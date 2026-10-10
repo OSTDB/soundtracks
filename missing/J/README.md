@@ -236,6 +236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jail Break | 28826 | [28826-jail-break.json](./28826-jail-break.json) |
 | Jail Dice: Roll to Break | 347343 | [347343-jail-dice-roll-to-break.json](./347343-jail-dice-roll-to-break.json) |
 | Jail Escape | 322159 | [322159-jail-escape.json](./322159-jail-escape.json) |
+| Jail Escape Plan VR | 291871 | [291871-jail-escape-plan-vr.json](./291871-jail-escape-plan-vr.json) |
 | Jailbird Nocturne | 364530 | [364530-jailbird-nocturne.json](./364530-jailbird-nocturne.json) |
 | Jailbirdman | 362356 | [362356-jailbirdman.json](./362356-jailbirdman.json) |
 | Jailbirds | 337052 | [337052-jailbirds.json](./337052-jailbirds.json) |
