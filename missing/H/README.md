@@ -2720,6 +2720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello Kitty Kruisers with Sanrio Friends | 62781 | [62781-hello-kitty-kruisers-with-sanrio-friends.json](./62781-hello-kitty-kruisers-with-sanrio-friends.json) |
 | Hello Kitty Lunchbox | 225660 | [225660-hello-kitty-lunchbox.json](./225660-hello-kitty-lunchbox.json) |
 | Hello Kitty Mahjong | 292106 | [292106-hello-kitty-mahjong.json](./292106-hello-kitty-mahjong.json) |
+| Hello Kitty Music Party | 288137 | [288137-hello-kitty-music-party.json](./288137-hello-kitty-music-party.json) |
 | Hello Kitty My Dream Store | 334062 | [334062-hello-kitty-my-dream-store.json](./334062-hello-kitty-my-dream-store.json) |
 | Hello Kitty no 'Otonaru' Mail | 279598 | [279598-hello-kitty-no-otonaru-mail.json](./279598-hello-kitty-no-otonaru-mail.json) |
 | Hello Kitty no Beads Koubou | 228559 | [228559-hello-kitty-no-beads-koubou.json](./228559-hello-kitty-no-beads-koubou.json) |
@@ -2737,6 +2738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello Kitty no Tanoshii Omiseyasan | 279604 | [279604-hello-kitty-no-tanoshii-omiseyasan.json](./279604-hello-kitty-no-tanoshii-omiseyasan.json) |
 | Hello Kitty no Waku-waku Quiz | 61677 | [61677-hello-kitty-no-waku-waku-quiz.json](./61677-hello-kitty-no-waku-waku-quiz.json) |
 | Hello Kitty Online | 3685 | [3685-hello-kitty-online.json](./3685-hello-kitty-online.json) |
+| Hello Kitty Orchard | 288136 | [288136-hello-kitty-orchard.json](./288136-hello-kitty-orchard.json) |
 | Hello Kitty Pocket Camera | 207263 | [207263-hello-kitty-pocket-camera.json](./207263-hello-kitty-pocket-camera.json) |
 | Hello Kitty Racing Adventures | 279606 | [279606-hello-kitty-racing-adventures.json](./279606-hello-kitty-racing-adventures.json) |
 | Hello Kitty Skyland | 382441 | [382441-hello-kitty-skyland.json](./382441-hello-kitty-skyland.json) |
@@ -2761,6 +2763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello Kitty: Tennis School | 205626 | [205626-hello-kitty-tennis-school.json](./205626-hello-kitty-tennis-school.json) |
 | Hello Kitty: White Present | 284433 | [284433-hello-kitty-white-present.json](./284433-hello-kitty-white-present.json) |
 | Hello Kitty: Yume no Kuni Daibouken | 76186 | [76186-hello-kitty-yume-no-kuni-daibouken.json](./76186-hello-kitty-yume-no-kuni-daibouken.json) |
+| Hello Kitty's Big Fun Deluxe | 288138 | [288138-hello-kittys-big-fun-deluxe.json](./288138-hello-kittys-big-fun-deluxe.json) |
 | Hello Kitty's Cube Frenzy | 299461 | [299461-hello-kittys-cube-frenzy.json](./299461-hello-kittys-cube-frenzy.json) |
 | Hello Kitty's The Land of Hidden Objects: DokokanaArcana | 284432 | [284432-hello-kittys-the-land-of-hidden-objects-dokokanaarcana.json](./284432-hello-kittys-the-land-of-hidden-objects-dokokanaarcana.json) |
 | Hello Lady! | 95168 | [95168-hello-lady.json](./95168-hello-lady.json) |
@@ -6019,6 +6022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hopfall | 370126 | [370126-hopfall.json](./370126-hopfall.json) |
 | HopHop Fox | 309546 | [309546-hophop-fox.json](./309546-hophop-fox.json) |
 | Hoping Forest | 236896 | [236896-hoping-forest.json](./236896-hoping-forest.json) |
+| Hoping This Finds You Well | 288091 | [288091-hoping-this-finds-you-well.json](./288091-hoping-this-finds-you-well.json) |
 | Hopkins FBI | 93389 | [93389-hopkins-fbi.json](./93389-hopkins-fbi.json) |
 | Hoples | 152504 | [152504-hoples.json](./152504-hoples.json) |
 | Hoplichess | 156013 | [156013-hoplichess.json](./156013-hoplichess.json) |
