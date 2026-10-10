@@ -511,6 +511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ragdoll Rumble | 318990 | [318990-ragdoll-rumble.json](./318990-ragdoll-rumble.json) |
 | Ragdoll Slayer | 219646 | [219646-ragdoll-slayer.json](./219646-ragdoll-slayer.json) |
 | Ragdoll Toss | 179124 | [179124-ragdoll-toss.json](./179124-ragdoll-toss.json) |
+| Ragdoll Training Center | 319884 | [319884-ragdoll-training-center.json](./319884-ragdoll-training-center.json) |
 | Ragdoll Wreckage: Zombie Farts | 285688 | [285688-ragdoll-wreckage-zombie-farts.json](./285688-ragdoll-wreckage-zombie-farts.json) |
 | RagDollJoe | 115788 | [115788-ragdolljoe.json](./115788-ragdolljoe.json) |
 | Ragdolls Playground: The Sandbox | 188908 | [188908-ragdolls-playground-the-sandbox.json](./188908-ragdolls-playground-the-sandbox.json) |
@@ -1403,6 +1404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rawbots | 62969 | [62969-rawbots.json](./62969-rawbots.json) |
 | Rawisland | 267449 | [267449-rawisland.json](./267449-rawisland.json) |
 | Rawmen: Sakura Gusoku Cosmetic Set | 370316 | [370316-rawmen-sakura-gusoku-cosmetic-set.json](./370316-rawmen-sakura-gusoku-cosmetic-set.json) |
+| RAWR: Little Hungry Dragon | 319860 | [319860-rawr-little-hungry-dragon.json](./319860-rawr-little-hungry-dragon.json) |
 | Rawring Candies | 359359 | [359359-rawring-candies.json](./359359-rawring-candies.json) |
 | Rawshire the Last Hatchling | 158214 | [158214-rawshire-the-last-hatchling.json](./158214-rawshire-the-last-hatchling.json) |
 | Rawyokan | 334915 | [334915-rawyokan.json](./334915-rawyokan.json) |
@@ -3575,6 +3577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resver | 392273 | [392273-resver.json](./392273-resver.json) |
 | Resync | 241489 | [241489-resync.json](./241489-resync.json) |
 | Resynth | 107388 | [107388-resynth.json](./107388-resynth.json) |
+| Retail Mage | 319885 | [319885-retail-mage.json](./319885-retail-mage.json) |
 | Retail Rivals | 402476 | [402476-retail-rivals.json](./402476-retail-rivals.json) |
 | Retail Royale | 151096 | [151096-retail-royale.json](./151096-retail-royale.json) |
 | Retailer Tycoon | 148672 | [148672-retailer-tycoon.json](./148672-retailer-tycoon.json) |
