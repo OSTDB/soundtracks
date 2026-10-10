@@ -2327,6 +2327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Play! Oink Games: Nine Tiles | 241310 | [241310-lets-play-oink-games-nine-tiles.json](./241310-lets-play-oink-games-nine-tiles.json) |
 | Let's Play! Oink Games: Rafter Five | 275559 | [275559-lets-play-oink-games-rafter-five.json](./275559-lets-play-oink-games-rafter-five.json) |
 | Let's Puzzle: Celestial Wonders Pack | 298256 | [298256-lets-puzzle-celestial-wonders-pack.json](./298256-lets-puzzle-celestial-wonders-pack.json) |
+| Let's Puzzle: Verdant Realms Pack | 303671 | [303671-lets-puzzle-verdant-realms-pack.json](./303671-lets-puzzle-verdant-realms-pack.json) |
 | Let's Quip | 61896 | [61896-lets-quip.json](./61896-lets-quip.json) |
 | Let's Return Home Together | 350967 | [350967-lets-return-home-together.json](./350967-lets-return-home-together.json) |
 | Let's Ride! Championship Dreams | 72136 | [72136-lets-ride-championship-dreams.json](./72136-lets-ride-championship-dreams.json) |
@@ -5744,6 +5745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucy's Journey | 258735 | [258735-lucys-journey.json](./258735-lucys-journey.json) |
 | Lucy's World | 229001 | [229001-lucys-world.json](./229001-lucys-world.json) |
 | Ludaro | 341535 | [341535-ludaro.json](./341535-ludaro.json) |
+| Ludical | 303817 | [303817-ludical.json](./303817-ludical.json) |
 | Ludicrium | 312924 | [312924-ludicrium.json](./312924-ludicrium.json) |
 | Ludicrous Speed | 102162 | [102162-ludicrous-speed.json](./102162-ludicrous-speed.json) |
 | Ludo Anceint | 142938 | [142938-ludo-anceint.json](./142938-ludo-anceint.json) |
