@@ -862,6 +862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rainboy | 178082 | [178082-rainboy.json](./178082-rainboy.json) |
 | Rainchaser | 315623 | [315623-rainchaser.json](./315623-rainchaser.json) |
 | Raincore | 400214 | [400214-raincore.json](./400214-raincore.json) |
+| Raincouver | 328432 | [328432-raincouver.json](./328432-raincouver.json) |
 | Raindancer | 125396 | [125396-raindancer.json](./125396-raindancer.json) |
 | Raindrop Sprinters | 259612 | [259612-raindrop-sprinters.json](./259612-raindrop-sprinters.json) |
 | Raindrops | 170468 | [170468-raindrops.json](./170468-raindrops.json) |
@@ -4229,6 +4230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Richman 9 | 125453 | [125453-richman-9.json](./125453-richman-9.json) |
 | Richman Fight | 75132 | [75132-richman-fight.json](./75132-richman-fight.json) |
 | Richman Online | 125441 | [125441-richman-online.json](./125441-richman-online.json) |
+| Richman: Clasic | 328434 | [328434-richman-clasic.json](./328434-richman-clasic.json) |
 | Richup.io | 141249 | [141249-richup-io.json](./141249-richup-io.json) |
 | Richy's Nightmares | 104955 | [104955-richys-nightmares.json](./104955-richys-nightmares.json) |
 | Rick and Josh adventures | 195620 | [195620-rick-and-josh-adventures.json](./195620-rick-and-josh-adventures.json) |
@@ -6557,6 +6559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rookie Boxing | 319776 | [319776-rookie-boxing.json](./319776-rookie-boxing.json) |
 | Rookie Guard and the Queen | 280259 | [280259-rookie-guard-and-the-queen.json](./280259-rookie-guard-and-the-queen.json) |
 | Rookie Math Pro | 102205 | [102205-rookie-math-pro.json](./102205-rookie-math-pro.json) |
+| Rookie Table Tennis | 328445 | [328445-rookie-table-tennis.json](./328445-rookie-table-tennis.json) |
 | Rookie Tank | 116357 | [116357-rookie-tank.json](./116357-rookie-tank.json) |
 | Rooks Keep | 17373 | [17373-rooks-keep.json](./17373-rooks-keep.json) |
 | RookStar | 264220 | [264220-rookstar.json](./264220-rookstar.json) |
