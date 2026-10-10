@@ -4542,6 +4542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Woohoo!: Game - Skee Madness | 304019 | [304019-woohoo-game-skee-madness.json](./304019-woohoo-game-skee-madness.json) |
 | Woohoo!: Game - Triangles | 304020 | [304020-woohoo-game-triangles.json](./304020-woohoo-game-triangles.json) |
 | Woohoo!: Game - WordSearch | 304021 | [304021-woohoo-game-wordsearch.json](./304021-woohoo-game-wordsearch.json) |
+| Woohoo!: Game "Escape & Evade" | 316377 | [316377-woohoo-game-escape-and-evade.json](./316377-woohoo-game-escape-and-evade.json) |
 | Woohoojin Bridges | 112119 | [112119-woohoojin-bridges.json](./112119-woohoojin-bridges.json) |
 | Wool | 377141 | [377141-wool.json](./377141-wool.json) |
 | Woolfe: The Red Hood Diaries | 11647 | [11647-woolfe-the-red-hood-diaries.json](./11647-woolfe-the-red-hood-diaries.json) |
