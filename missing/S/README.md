@@ -16059,6 +16059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steel Division: Normandy 44 | 27475 | [27475-steel-division-normandy-44.json](./27475-steel-division-normandy-44.json) |
 | Steel Division: Normandy 44 - Deluxe Edition | 53667 | [53667-steel-division-normandy-44-deluxe-edition.json](./53667-steel-division-normandy-44-deluxe-edition.json) |
 | Steel Dragon Ex | 43341 | [43341-steel-dragon-ex.json](./43341-steel-dragon-ex.json) |
+| Steel Driver | 307989 | [307989-steel-driver.json](./307989-steel-driver.json) |
 | Steel Dungeon | 110162 | [110162-steel-dungeon.json](./110162-steel-dungeon.json) |
 | Steel Eagle: Cave Mission | 169287 | [169287-steel-eagle-cave-mission.json](./169287-steel-eagle-cave-mission.json) |
 | Steel Empire | 45536 | [45536-steel-empire.json](./45536-steel-empire.json) |
@@ -18466,6 +18467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summum Aeterna | 204692 | [204692-summum-aeterna.json](./204692-summum-aeterna.json) |
 | Sumo | 281686 | [281686-sumo.json](./281686-sumo.json) |
 | Sumo | 303084 | [303084-sumo.json](./303084-sumo.json) |
+| Sumo Rumble | 307974 | [307974-sumo-rumble.json](./307974-sumo-rumble.json) |
 | Sumoman | 28026 | [28026-sumoman.json](./28026-sumoman.json) |
 | Sumou | 385812 | [385812-sumou.json](./385812-sumou.json) |
 | Sump | 278460 | [278460-sump.json](./278460-sump.json) |
@@ -19195,6 +19197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Holobunnies: Pause Café | 135649 | [135649-super-holobunnies-pause-cafe.json](./135649-super-holobunnies-pause-cafe.json) |
 | Super Hoodie Bros | 378771 | [378771-super-hoodie-bros.json](./378771-super-hoodie-bros.json) |
 | Super Hook Girl | 307969 | [307969-super-hook-girl.json](./307969-super-hook-girl.json) |
+| Super Hook Girl Gaiden: For Smile Giving Birthday | 307972 | [307972-super-hook-girl-gaiden-for-smile-giving-birthday.json](./307972-super-hook-girl-gaiden-for-smile-giving-birthday.json) |
 | Super Hoopers | 234705 | [234705-super-hoopers.json](./234705-super-hoopers.json) |
 | Super Hoops 2 | 378784 | [378784-super-hoops-2.json](./378784-super-hoops-2.json) |
 | Super Hornet F/A-18F | 49289 | [49289-super-hornet-f-a-18f.json](./49289-super-hornet-f-a-18f.json) |
@@ -20733,6 +20736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supermurgitroid | 270884 | [270884-supermurgitroid.json](./270884-supermurgitroid.json) |
 | Supernatural | 135124 | [135124-supernatural.json](./135124-supernatural.json) |
 | Supernatural | 303936 | [303936-supernatural.json](./303936-supernatural.json) |
+| Supernatural Rules Suppress Ghosts | 307777 | [307777-supernatural-rules-suppress-ghosts.json](./307777-supernatural-rules-suppress-ghosts.json) |
 | Supernatural Squad | 333395 | [333395-supernatural-squad.json](./333395-supernatural-squad.json) |
 | Supernatural Story | 129714 | [129714-supernatural-story.json](./129714-supernatural-story.json) |
 | Supernatural Super Squad Fight! | 114933 | [114933-supernatural-super-squad-fight.json](./114933-supernatural-super-squad-fight.json) |
