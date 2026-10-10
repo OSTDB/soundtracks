@@ -3617,6 +3617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Session: Skate Sim - Brandalised Pack | 231325 | [231325-session-skate-sim-brandalised-pack.json](./231325-session-skate-sim-brandalised-pack.json) |
 | Session: Skate Sim - Deluxe Edition | 218488 | [218488-session-skate-sim-deluxe-edition.json](./218488-session-skate-sim-deluxe-edition.json) |
 | Session: Skate Sim - Year 1 Pack | 285110 | [285110-session-skate-sim-year-1-pack.json](./285110-session-skate-sim-year-1-pack.json) |
+| Session: Skate Sim - Year Two Pack | 331911 | [331911-session-skate-sim-year-two-pack.json](./331911-session-skate-sim-year-two-pack.json) |
 | Session: Skate Sim Waterpark & Chris Cole | 357406 | [357406-session-skate-sim-waterpark-and-chris-cole.json](./357406-session-skate-sim-waterpark-and-chris-cole.json) |
 | Session: Skate Sim Year One & Two Edition | 331843 | [331843-session-skate-sim-year-one-and-two-edition.json](./331843-session-skate-sim-year-one-and-two-edition.json) |
 | Set 'N Det | 186861 | [186861-set-n-det.json](./186861-set-n-det.json) |
@@ -10901,6 +10902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic X | 54549 | [54549-sonic-x.json](./54549-sonic-x.json) |
 | Sonic X Bowling | 299872 | [299872-sonic-x-bowling.json](./299872-sonic-x-bowling.json) |
 | Sonic X Shadow Generations: Day One Edition | 381127 | [381127-sonic-x-shadow-generations-day-one-edition.json](./381127-sonic-x-shadow-generations-day-one-edition.json) |
+| Sonic X Shadow Generations: Digital Deluxe Upgrade | 331901 | [331901-sonic-x-shadow-generations-digital-deluxe-upgrade.json](./331901-sonic-x-shadow-generations-digital-deluxe-upgrade.json) |
 | Sonic X Shadow Generations: Sonic Jam Skin | 323393 | [323393-sonic-x-shadow-generations-sonic-jam-skin.json](./323393-sonic-x-shadow-generations-sonic-jam-skin.json) |
 | Sonic X Shadow Generations: Sonic the Hedgehog 3 Movie Pack | 325688 | [325688-sonic-x-shadow-generations-sonic-the-hedgehog-3-movie-pack.json](./325688-sonic-x-shadow-generations-sonic-the-hedgehog-3-movie-pack.json) |
 | Sonic X Snake | 233053 | [233053-sonic-x-snake.json](./233053-sonic-x-snake.json) |
@@ -13680,6 +13682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spooky's Jumpscare Mansion Plus | 356227 | [356227-spookys-jumpscare-mansion-plus.json](./356227-spookys-jumpscare-mansion-plus.json) |
 | SpookyKillers | 191121 | [191121-spookykillers.json](./191121-spookykillers.json) |
 | Spookynakki | 275810 | [275810-spookynakki.json](./275810-spookynakki.json) |
+| Spookytale | 331934 | [331934-spookytale.json](./331934-spookytale.json) |
 | Spookyville | 299409 | [299409-spookyville.json](./299409-spookyville.json) |
 | Spoolside | 87814 | [87814-spoolside.json](./87814-spoolside.json) |
 | Spoonman: Ballad of a Bonehead | 307708 | [307708-spoonman-ballad-of-a-bonehead.json](./307708-spoonman-ballad-of-a-bonehead.json) |
@@ -13777,6 +13780,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sportsman's Double Play | 63648 | [63648-sportsmans-double-play.json](./63648-sportsmans-double-play.json) |
 | Sportsman's Pack: Cabela's Big Game Hunter 2005 & Rapala Pro Fishing | 78930 | [78930-sportsmans-pack-cabelas-big-game-hunter-2005-and-rapala-pro-fishing.json](./78930-sportsmans-pack-cabelas-big-game-hunter-2005-and-rapala-pro-fishing.json) |
 | Spot | 119584 | [119584-spot.json](./119584-spot.json) |
+| Spot Challenge Vol. 1 | 331912 | [331912-spot-challenge-vol-1.json](./331912-spot-challenge-vol-1.json) |
+| Spot Challenge Vol. 2 | 331921 | [331921-spot-challenge-vol-2.json](./331921-spot-challenge-vol-2.json) |
 | Spot Girls Difference | 114330 | [114330-spot-girls-difference.json](./114330-spot-girls-difference.json) |
 | Spot Goes to Hollywood | 4454 | [4454-spot-goes-to-hollywood.json](./4454-spot-goes-to-hollywood.json) |
 | Spot It | 320341 | [320341-spot-it.json](./320341-spot-it.json) |
@@ -14875,6 +14880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars Math: Jabba's Game Galaxy | 73254 | [73254-star-wars-math-jabbas-game-galaxy.json](./73254-star-wars-math-jabbas-game-galaxy.json) |
 | Star Wars Mod: Galactic Warfare | 299135 | [299135-star-wars-mod-galactic-warfare.json](./299135-star-wars-mod-galactic-warfare.json) |
 | Star Wars Outlaws: Cartel Ronin Bundle | 325857 | [325857-star-wars-outlaws-cartel-ronin-bundle.json](./325857-star-wars-outlaws-cartel-ronin-bundle.json) |
+| Star Wars Outlaws: Deluxe Edition | 331838 | [331838-star-wars-outlaws-deluxe-edition.json](./331838-star-wars-outlaws-deluxe-edition.json) |
 | Star Wars Outlaws: Forest Commando Pack | 325856 | [325856-star-wars-outlaws-forest-commando-pack.json](./325856-star-wars-outlaws-forest-commando-pack.json) |
 | Star Wars Outlaws: Gold Edition | 297043 | [297043-star-wars-outlaws-gold-edition.json](./297043-star-wars-outlaws-gold-edition.json) |
 | Star Wars Outlaws: Hunter's Legacy Bundle | 325858 | [325858-star-wars-outlaws-hunters-legacy-bundle.json](./325858-star-wars-outlaws-hunters-legacy-bundle.json) |
@@ -16094,6 +16100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stellaris: Astral Planes | 272910 | [272910-stellaris-astral-planes.json](./272910-stellaris-astral-planes.json) |
 | Stellaris: BioGenesis | 336706 | [336706-stellaris-biogenesis.json](./336706-stellaris-biogenesis.json) |
 | Stellaris: Console Edition | 111150 | [111150-stellaris-console-edition.json](./111150-stellaris-console-edition.json) |
+| Stellaris: Console Edition - Starter Edition | 331839 | [331839-stellaris-console-edition-starter-edition.json](./331839-stellaris-console-edition-starter-edition.json) |
 | Stellaris: Console Edition - The Royal | 198396 | [198396-stellaris-console-edition-the-royal.json](./198396-stellaris-console-edition-the-royal.json) |
 | Stellaris: Cosmic Storms | 298124 | [298124-stellaris-cosmic-storms.json](./298124-stellaris-cosmic-storms.json) |
 | Stellaris: Distant Stars | 114427 | [114427-stellaris-distant-stars.json](./114427-stellaris-distant-stars.json) |
@@ -21540,6 +21547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword Art Online: Fractured Daydream - Demon King Costume Set | 324426 | [324426-sword-art-online-fractured-daydream-demon-king-costume-set.json](./324426-sword-art-online-fractured-daydream-demon-king-costume-set.json) |
 | Sword Art Online: Fractured Daydream - DLC 1 Worlds Beyond 1 | 324442 | [324442-sword-art-online-fractured-daydream-dlc-1-worlds-beyond-1.json](./324442-sword-art-online-fractured-daydream-dlc-1-worlds-beyond-1.json) |
 | Sword Art Online: Fractured Daydream - Premium Edition | 308793 | [308793-sword-art-online-fractured-daydream-premium-edition.json](./308793-sword-art-online-fractured-daydream-premium-edition.json) |
+| Sword Art Online: Fractured Daydream - Premium Upgrade | 331914 | [331914-sword-art-online-fractured-daydream-premium-upgrade.json](./331914-sword-art-online-fractured-daydream-premium-upgrade.json) |
 | Sword Art Online: Fractured Daydream - Symphony of a Dazzling Dawn | 356799 | [356799-sword-art-online-fractured-daydream-symphony-of-a-dazzling-dawn.json](./356799-sword-art-online-fractured-daydream-symphony-of-a-dazzling-dawn.json) |
 | Sword Art Online: Hollow Fragment | 9618 | [9618-sword-art-online-hollow-fragment.json](./9618-sword-art-online-hollow-fragment.json) |
 | Sword Art Online: Hollow Realization - Limited Edition | 212317 | [212317-sword-art-online-hollow-realization-limited-edition.json](./212317-sword-art-online-hollow-realization-limited-edition.json) |
