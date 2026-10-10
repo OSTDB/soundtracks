@@ -981,6 +981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aakihiko Aruberutasu Adisony Apurinsu Azumeragi | 377418 | [377418-aakihiko-aruberutasu-adisony-apurinsu-azumeragi.json](./377418-aakihiko-aruberutasu-adisony-apurinsu-azumeragi.json) |
 | Aam Aadmi | 377419 | [377419-aam-aadmi.json](./377419-aam-aadmi.json) |
 | Aanl: The Rectum Adventure | 94415 | [94415-aanl-the-rectum-adventure.json](./94415-aanl-the-rectum-adventure.json) |
+| Aard and Wyzz: The rise of minions | 309102 | [309102-aard-and-wyzz-the-rise-of-minions.json](./309102-aard-and-wyzz-the-rise-of-minions.json) |
 | Aardwolf MUD | 228684 | [228684-aardwolf-mud.json](./228684-aardwolf-mud.json) |
 | Aargon Deluxe | 70984 | [70984-aargon-deluxe.json](./70984-aargon-deluxe.json) |
 | AAron | 398511 | [398511-aaron.json](./398511-aaron.json) |
@@ -6162,6 +6163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Annie Android: Automated Affection | 165510 | [165510-annie-android-automated-affection.json](./165510-annie-android-automated-affection.json) |
 | Annihilate the Spance | 192985 | [192985-annihilate-the-spance.json](./192985-annihilate-the-spance.json) |
 | Annihilation | 289380 | [289380-annihilation.json](./289380-annihilation.json) |
+| Annihilation Plan | 308866 | [308866-annihilation-plan.json](./308866-annihilation-plan.json) |
 | Annihilation: Space Tycoon | 255794 | [255794-annihilation-space-tycoon.json](./255794-annihilation-space-tycoon.json) |
 | Annihilator | 277486 | [277486-annihilator.json](./277486-annihilator.json) |
 | Annihilator | 293348 | [293348-annihilator.json](./293348-annihilator.json) |
@@ -10269,6 +10271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Auto Defense | 256249 | [256249-auto-defense.json](./256249-auto-defense.json) |
 | Auto Derby Casino | 391770 | [391770-auto-derby-casino.json](./391770-auto-derby-casino.json) |
 | Auto Empire Tycoon | 405097 | [405097-auto-empire-tycoon.json](./405097-auto-empire-tycoon.json) |
+| Auto Empire: Dealer Car Simulator | 309001 | [309001-auto-empire-dealer-car-simulator.json](./309001-auto-empire-dealer-car-simulator.json) |
 | Auto Fire | 122211 | [122211-auto-fire.json](./122211-auto-fire.json) |
 | Auto Hill Climb | 237658 | [237658-auto-hill-climb.json](./237658-auto-hill-climb.json) |
 | Auto Hustle | 313456 | [313456-auto-hustle.json](./313456-auto-hustle.json) |
@@ -10709,6 +10712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AX: Portal Slayers | 291710 | [291710-ax-portal-slayers.json](./291710-ax-portal-slayers.json) |
 | Axan Ships | 120152 | [120152-axan-ships.json](./120152-axan-ships.json) |
 | Axan Ships: Low Poly | 118348 | [118348-axan-ships-low-poly.json](./118348-axan-ships-low-poly.json) |
+| Axe Ace | 309000 | [309000-axe-ace.json](./309000-axe-ace.json) |
 | Axe And Claw | 400457 | [400457-axe-and-claw.json](./400457-axe-and-claw.json) |
 | Axe Champ Shoot Out | 322659 | [322659-axe-champ-shoot-out.json](./322659-axe-champ-shoot-out.json) |
 | Axe Champ! | 107663 | [107663-axe-champ.json](./107663-axe-champ.json) |
