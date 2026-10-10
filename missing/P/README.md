@@ -744,6 +744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paneltia Story: Karen no Daibouken | 97339 | [97339-paneltia-story-karen-no-daibouken.json](./97339-paneltia-story-karen-no-daibouken.json) |
 | Panfu | 89508 | [89508-panfu.json](./89508-panfu.json) |
 | Pang & Bang | 110963 | [110963-pang-and-bang.json](./110963-pang-and-bang.json) |
+| Pang Pang Terrible | 287571 | [287571-pang-pang-terrible.json](./287571-pang-pang-terrible.json) |
 | Pang Pom's | 40373 | [40373-pang-poms.json](./40373-pang-poms.json) |
 | Pang: Magical Michael | 66524 | [66524-pang-magical-michael.json](./66524-pang-magical-michael.json) |
 | Pang! 3 | 39510 | [39510-pang-3.json](./39510-pang-3.json) |
@@ -2490,6 +2491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pengu | 177520 | [177520-pengu.json](./177520-pengu.json) |
 | Pengu Never Left | 187399 | [187399-pengu-never-left.json](./187399-pengu-never-left.json) |
 | Penguemic: Word Domination | 61870 | [61870-penguemic-word-domination.json](./61870-penguemic-word-domination.json) |
+| Penguin | 287541 | [287541-penguin.json](./287541-penguin.json) |
 | Penguin | 345635 | [345635-penguin.json](./345635-penguin.json) |
 | Penguin | 393624 | [393624-penguin.json](./393624-penguin.json) |
 | Penguin Adventure | 37065 | [37065-penguin-adventure.json](./37065-penguin-adventure.json) |
@@ -4196,6 +4198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball | 131483 | [131483-pinball.json](./131483-pinball.json) |
 | Pinball | 131514 | [131514-pinball.json](./131514-pinball.json) |
 | Pinball | 131522 | [131522-pinball.json](./131522-pinball.json) |
+| Pinball | 287542 | [287542-pinball.json](./287542-pinball.json) |
 | Pinball | 312266 | [312266-pinball.json](./312266-pinball.json) |
 | Pinball | 44636 | [44636-pinball.json](./44636-pinball.json) |
 | Pinball | 82093 | [82093-pinball.json](./82093-pinball.json) |
@@ -4533,6 +4536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pink Panther | 219014 | [219014-pink-panther.json](./219014-pink-panther.json) |
 | Pink Panther: Pinkadelic Pursuit | 140700 | [140700-pink-panther-pinkadelic-pursuit.json](./140700-pink-panther-pinkadelic-pursuit.json) |
 | Pink Panther: Pinkadelic Pursuit | 8108 | [8108-pink-panther-pinkadelic-pursuit.json](./8108-pink-panther-pinkadelic-pursuit.json) |
+| Pink Pong | 287585 | [287585-pink-pong.json](./287585-pink-pong.json) |
 | Pink Rage Otome | 51569 | [51569-pink-rage-otome.json](./51569-pink-rage-otome.json) |
 | Pink River | 143471 | [143471-pink-river.json](./143471-pink-river.json) |
 | Pink Sweets: Ibara Sorekara | 66444 | [66444-pink-sweets-ibara-sorekara.json](./66444-pink-sweets-ibara-sorekara.json) |
@@ -5972,6 +5976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Play Ball | 40401 | [40401-play-ball.json](./40401-play-ball.json) |
 | Play Ball | 95401 | [95401-play-ball.json](./95401-play-ball.json) |
 | Play Boy | 93514 | [93514-play-boy.json](./93514-play-boy.json) |
+| Play Cards | 287543 | [287543-play-cards.json](./287543-play-cards.json) |
 | Play Chess with Lady Bongcloud | 255696 | [255696-play-chess-with-lady-bongcloud.json](./255696-play-chess-with-lady-bongcloud.json) |
 | Play Club | 22478 | [22478-play-club.json](./22478-play-club.json) |
 | Play Cubes with Uncle Billy | 84539 | [84539-play-cubes-with-uncle-billy.json](./84539-play-cubes-with-uncle-billy.json) |
@@ -6258,6 +6263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plus Plum 2 | 62227 | [62227-plus-plum-2.json](./62227-plus-plum-2.json) |
 | Plus Ultra: Legado | 276828 | [276828-plus-ultra-legado.json](./276828-plus-ultra-legado.json) |
 | Plush | 24629 | [24629-plush.json](./24629-plush.json) |
+| Plush Dog | 287544 | [287544-plush-dog.json](./287544-plush-dog.json) |
 | Plush Parade | 391336 | [391336-plush-parade.json](./391336-plush-parade.json) |
 | Plush Shop Simulator | 349852 | [349852-plush-shop-simulator.json](./349852-plush-shop-simulator.json) |
 | Plush Wars | 88753 | [88753-plush-wars.json](./88753-plush-wars.json) |
@@ -10535,6 +10541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pulsonic Electronic Baseball | 245418 | [245418-pulsonic-electronic-baseball.json](./245418-pulsonic-electronic-baseball.json) |
 | Pulstar | 7255 | [7255-pulstar.json](./7255-pulstar.json) |
 | Pulsus | 138524 | [138524-pulsus.json](./138524-pulsus.json) |
+| Pulver | 287545 | [287545-pulver.json](./287545-pulver.json) |
 | Pulzar | 304294 | [304294-pulzar.json](./304294-pulzar.json) |
 | PulzAR | 93544 | [93544-pulzar.json](./93544-pulzar.json) |
 | Pum | 119053 | [119053-pum.json](./119053-pum.json) |
@@ -10992,6 +10999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzelate | 78745 | [78745-puzzelate.json](./78745-puzzelate.json) |
 | Puzzgun | 98684 | [98684-puzzgun.json](./98684-puzzgun.json) |
 | Puzzl9 | 178650 | [178650-puzzl9.json](./178650-puzzl9.json) |
+| Puzzle | 287546 | [287546-puzzle.json](./287546-puzzle.json) |
 | Puzzle & Action: Treasure Hunt | 123590 | [123590-puzzle-and-action-treasure-hunt.json](./123590-puzzle-and-action-treasure-hunt.json) |
 | Puzzle & Chess | 156558 | [156558-puzzle-and-chess.json](./156558-puzzle-and-chess.json) |
 | Puzzle & Dragons | 8590 | [8590-puzzle-and-dragons.json](./8590-puzzle-and-dragons.json) |
