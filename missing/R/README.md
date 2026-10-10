@@ -610,6 +610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raid 2000 | 30955 | [30955-raid-2000.json](./30955-raid-2000.json) |
 | Raid 2020 | 48211 | [48211-raid-2020.json](./48211-raid-2020.json) |
 | Raid Arena | 313305 | [313305-raid-arena.json](./313305-raid-arena.json) |
+| Raid Auctus | 328948 | [328948-raid-auctus.json](./328948-raid-auctus.json) |
 | Raid Gaza! | 318205 | [318205-raid-gaza.json](./318205-raid-gaza.json) |
 | Raid Haven | 418577 | [418577-raid-haven.json](./418577-raid-haven.json) |
 | Raid Land | 130721 | [130721-raid-land.json](./130721-raid-land.json) |
@@ -2598,6 +2599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Redrock | 270721 | [270721-redrock.json](./270721-redrock.json) |
 | Redroom | 367532 | [367532-redroom.json](./367532-redroom.json) |
 | ReDrop | 347773 | [347773-redrop.json](./347773-redrop.json) |
+| RedShift | 328963 | [328963-redshift.json](./328963-redshift.json) |
 | Redshift VR | 111067 | [111067-redshift-vr.json](./111067-redshift-vr.json) |
 | Redshirt | 9220 | [9220-redshirt.json](./9220-redshirt.json) |
 | RedStory and the Last Glimmer | 244711 | [244711-redstory-and-the-last-glimmer.json](./244711-redstory-and-the-last-glimmer.json) |
