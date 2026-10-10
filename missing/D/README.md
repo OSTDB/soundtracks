@@ -2289,6 +2289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Space Nokia | 323812 | [323812-dead-space-nokia.json](./323812-dead-space-nokia.json) |
 | Dead Space: Collector's Edition | 229975 | [229975-dead-space-collectors-edition.json](./229975-dead-space-collectors-edition.json) |
 | Dead Space: Deluxe Edition | 222945 | [222945-dead-space-deluxe-edition.json](./222945-dead-space-deluxe-edition.json) |
+| Dead Space: Flash | 315227 | [315227-dead-space-flash.json](./315227-dead-space-flash.json) |
 | Dead Space: Ignition | 20450 | [20450-dead-space-ignition.json](./20450-dead-space-ignition.json) |
 | Dead Spawn | 121710 | [121710-dead-spawn.json](./121710-dead-spawn.json) |
 | Dead Spell | 400250 | [400250-dead-spell.json](./400250-dead-spell.json) |
@@ -3893,6 +3894,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demonk | 347239 | [347239-demonk.json](./347239-demonk.json) |
 | DeMonkey | 302122 | [302122-demonkey.json](./302122-demonkey.json) |
 | Demonology: Incubus - Chapter 5 | 319659 | [319659-demonology-incubus-chapter-5.json](./319659-demonology-incubus-chapter-5.json) |
+| Demonology: Incubus: Chapter 1 | 315244 | [315244-demonology-incubus-chapter-1.json](./315244-demonology-incubus-chapter-1.json) |
+| Demonology: Incubus: Chapter 2 | 315246 | [315246-demonology-incubus-chapter-2.json](./315246-demonology-incubus-chapter-2.json) |
+| Demonology: Incubus: Chapter 3 | 315247 | [315247-demonology-incubus-chapter-3.json](./315247-demonology-incubus-chapter-3.json) |
+| Demonology: Incubus: Chapter 4 | 315248 | [315248-demonology-incubus-chapter-4.json](./315248-demonology-incubus-chapter-4.json) |
 | Demonology: Incubus: Chapter 6 | 349987 | [349987-demonology-incubus-chapter-6.json](./349987-demonology-incubus-chapter-6.json) |
 | Demonology: Incubus: Chapter 7 | 350653 | [350653-demonology-incubus-chapter-7.json](./350653-demonology-incubus-chapter-7.json) |
 | Demonophobia | 195267 | [195267-demonophobia.json](./195267-demonophobia.json) |
@@ -10559,6 +10564,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duelyst Origins | 318636 | [318636-duelyst-origins.json](./318636-duelyst-origins.json) |
 | Duelyst: Blitz | 352370 | [352370-duelyst-blitz.json](./352370-duelyst-blitz.json) |
 | Duelyst: Shim'zar | 22812 | [22812-duelyst-shimzar.json](./22812-duelyst-shimzar.json) |
+| Duendes in Christmas | 315250 | [315250-duendes-in-christmas.json](./315250-duendes-in-christmas.json) |
+| Duendes in Christmas 2 | 315251 | [315251-duendes-in-christmas-2.json](./315251-duendes-in-christmas-2.json) |
 | Duendes in New Year | 315252 | [315252-duendes-in-new-year.json](./315252-duendes-in-new-year.json) |
 | Duendes in New Year 2 | 315254 | [315254-duendes-in-new-year-2.json](./315254-duendes-in-new-year-2.json) |
 | Duet | 142364 | [142364-duet.json](./142364-duet.json) |
