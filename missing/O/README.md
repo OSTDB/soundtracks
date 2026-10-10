@@ -485,6 +485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Of Moons and Mania | 256320 | [256320-of-moons-and-mania.json](./256320-of-moons-and-mania.json) |
 | Of Piers & Bays | 397903 | [397903-of-piers-and-bays.json](./397903-of-piers-and-bays.json) |
 | Of Pith and Pumpkins | 185415 | [185415-of-pith-and-pumpkins.json](./185415-of-pith-and-pumpkins.json) |
+| Of Roots and Gears | 333052 | [333052-of-roots-and-gears.json](./333052-of-roots-and-gears.json) |
 | Of Ships & Scoundrels | 110279 | [110279-of-ships-and-scoundrels.json](./110279-of-ships-and-scoundrels.json) |
 | Of the Devil: Episode 0 | 383570 | [383570-of-the-devil-episode-0.json](./383570-of-the-devil-episode-0.json) |
 | Of the Devil: Episode 1 | 330913 | [330913-of-the-devil-episode-1.json](./330913-of-the-devil-episode-1.json) |
