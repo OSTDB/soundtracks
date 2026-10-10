@@ -3082,6 +3082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy III + Final Fantasy IV: Double Pack Edition | 301387 | [301387-final-fantasy-iii-final-fantasy-iv-double-pack-edition.json](./301387-final-fantasy-iii-final-fantasy-iv-double-pack-edition.json) |
 | Final Fantasy IV | 158983 | [158983-final-fantasy-iv.json](./158983-final-fantasy-iv.json) |
 | Final Fantasy IV | 282725 | [282725-final-fantasy-iv.json](./282725-final-fantasy-iv.json) |
+| Final Fantasy IV | 283093 | [283093-final-fantasy-iv.json](./283093-final-fantasy-iv.json) |
 | Final Fantasy IV | 283313 | [283313-final-fantasy-iv.json](./283313-final-fantasy-iv.json) |
 | Final Fantasy IV | 380634 | [380634-final-fantasy-iv.json](./380634-final-fantasy-iv.json) |
 | Final Fantasy IV Advance | 406 | [406-final-fantasy-iv-advance.json](./406-final-fantasy-iv-advance.json) |
