@@ -1950,6 +1950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heart of a Knight | 322078 | [322078-heart-of-a-knight.json](./322078-heart-of-a-knight.json) |
 | Heart of a Warrior | 190072 | [190072-heart-of-a-warrior.json](./190072-heart-of-a-warrior.json) |
 | Heart of Africa | 13874 | [13874-heart-of-africa.json](./13874-heart-of-africa.json) |
+| Heart of Artemisa | 318121 | [318121-heart-of-artemisa.json](./318121-heart-of-artemisa.json) |
 | Heart of China | 12139 | [12139-heart-of-china.json](./12139-heart-of-china.json) |
 | Heart of Crown Online | 217292 | [217292-heart-of-crown-online.json](./217292-heart-of-crown-online.json) |
 | Heart of Darkness | 6433 | [6433-heart-of-darkness.json](./6433-heart-of-darkness.json) |
@@ -3710,6 +3711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes of Tomorrow: Hidden Potential | 392321 | [392321-heroes-of-tomorrow-hidden-potential.json](./392321-heroes-of-tomorrow-hidden-potential.json) |
 | Heroes of Umbra | 3226 | [3226-heroes-of-umbra.json](./3226-heroes-of-umbra.json) |
 | Heroes of Valhalla | 224104 | [224104-heroes-of-valhalla.json](./224104-heroes-of-valhalla.json) |
+| Heroes of Valor | 318142 | [318142-heroes-of-valor.json](./318142-heroes-of-valor.json) |
 | Heroes of War | 227471 | [227471-heroes-of-war.json](./227471-heroes-of-war.json) |
 | Heroes of War | 286215 | [286215-heroes-of-war.json](./286215-heroes-of-war.json) |
 | Heroes of Warland | 112141 | [112141-heroes-of-warland.json](./112141-heroes-of-warland.json) |
