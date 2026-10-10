@@ -2099,6 +2099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wendetta 2175 | 38840 | [38840-wendetta-2175.json](./38840-wendetta-2175.json) |
 | Wendigo | 252727 | [252727-wendigo.json](./252727-wendigo.json) |
 | Wendigo | 253331 | [253331-wendigo.json](./253331-wendigo.json) |
+| Wendigo Blue | 329521 | [329521-wendigo-blue.json](./329521-wendigo-blue.json) |
 | Wendigo's Outside | 341525 | [341525-wendigos-outside.json](./341525-wendigos-outside.json) |
 | Wendy Whedon | 151537 | [151537-wendy-whedon.json](./151537-wendy-whedon.json) |
 | Wendy: Der Traum von Arizona | 98949 | [98949-wendy-der-traum-von-arizona.json](./98949-wendy-der-traum-von-arizona.json) |
