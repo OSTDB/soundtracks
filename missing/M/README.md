@@ -1216,7 +1216,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong Pretty Girls Battle | 28584 | [28584-mahjong-pretty-girls-battle.json](./28584-mahjong-pretty-girls-battle.json) |
 | Mahjong Pretty Girls Battle: School Girls Edition | 34986 | [34986-mahjong-pretty-girls-battle-school-girls-edition.json](./34986-mahjong-pretty-girls-battle-school-girls-edition.json) |
 | Mahjong Pretty Manga Girls | 105105 | [105105-mahjong-pretty-manga-girls.json](./105105-mahjong-pretty-manga-girls.json) |
+| Mahjong Quest | 286435 | [286435-mahjong-quest.json](./286435-mahjong-quest.json) |
 | Mahjong Quest Collection | 27850 | [27850-mahjong-quest-collection.json](./27850-mahjong-quest-collection.json) |
+| Mahjong Quest II | 286436 | [286436-mahjong-quest-ii.json](./286436-mahjong-quest-ii.json) |
+| Mahjong Quest III: Balance of Life | 286437 | [286437-mahjong-quest-iii-balance-of-life.json](./286437-mahjong-quest-iii-balance-of-life.json) |
 | Mahjong Realms | 336012 | [336012-mahjong-realms.json](./336012-mahjong-realms.json) |
 | Mahjong Roadshow | 29205 | [29205-mahjong-roadshow.json](./29205-mahjong-roadshow.json) |
 | Mahjong Route | 355207 | [355207-mahjong-route.json](./355207-mahjong-route.json) |
@@ -5478,7 +5481,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memory Match Saga: Expansion Pack 9 | 167328 | [167328-memory-match-saga-expansion-pack-9.json](./167328-memory-match-saga-expansion-pack-9.json) |
 | Memory Maze | 156710 | [156710-memory-maze.json](./156710-memory-maze.json) |
 | Memory Mosaic | 243792 | [243792-memory-mosaic.json](./243792-memory-mosaic.json) |
+| Memory Novel: Lesbian Romance | 286476 | [286476-memory-novel-lesbian-romance.json](./286476-memory-novel-lesbian-romance.json) |
 | Memory Novel: Mile High Club | 196146 | [196146-memory-novel-mile-high-club.json](./196146-memory-novel-mile-high-club.json) |
+| Memory Novel: The Sex Sauna | 286474 | [286474-memory-novel-the-sex-sauna.json](./286474-memory-novel-the-sex-sauna.json) |
+| Memory Novel: The Threesome | 286477 | [286477-memory-novel-the-threesome.json](./286477-memory-novel-the-threesome.json) |
 | Memory Oblivion: CnGalGirl | 393824 | [393824-memory-oblivion-cngalgirl.json](./393824-memory-oblivion-cngalgirl.json) |
 | Memory of a Broken Dimension | 24950 | [24950-memory-of-a-broken-dimension.json](./24950-memory-of-a-broken-dimension.json) |
 | Memory of Camping | 224120 | [224120-memory-of-camping.json](./224120-memory-of-camping.json) |
@@ -5491,7 +5497,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memory Patches | 264660 | [264660-memory-patches.json](./264660-memory-patches.json) |
 | Memory Puzzle: Futanari Doctor | 204945 | [204945-memory-puzzle-futanari-doctor.json](./204945-memory-puzzle-futanari-doctor.json) |
 | Memory Puzzle: Futanari Gym | 368623 | [368623-memory-puzzle-futanari-gym.json](./368623-memory-puzzle-futanari-gym.json) |
+| Memory Puzzle: Hentai Angels | 286465 | [286465-memory-puzzle-hentai-angels.json](./286465-memory-puzzle-hentai-angels.json) |
+| Memory Puzzle: Mystery Mermaids | 286467 | [286467-memory-puzzle-mystery-mermaids.json](./286467-memory-puzzle-mystery-mermaids.json) |
 | Memory Puzzle: Neko Girls | 286496 | [286496-memory-puzzle-neko-girls.json](./286496-memory-puzzle-neko-girls.json) |
+| Memory Puzzle: Sexy Fairies | 286469 | [286469-memory-puzzle-sexy-fairies.json](./286469-memory-puzzle-sexy-fairies.json) |
 | Memory Quickie | 310754 | [310754-memory-quickie.json](./310754-memory-quickie.json) |
 | Memory Recoil | 338793 | [338793-memory-recoil.json](./338793-memory-recoil.json) |
 | Memory Shake | 341465 | [341465-memory-shake.json](./341465-memory-shake.json) |
@@ -7161,6 +7170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Milk | 229592 | [229592-milk.json](./229592-milk.json) |
 | Milk | 314396 | [314396-milk.json](./314396-milk.json) |
 | Milk and Cookies | 132233 | [132233-milk-and-cookies.json](./132233-milk-and-cookies.json) |
+| Milk Bottle and Monster Girl | 286466 | [286466-milk-bottle-and-monster-girl.json](./286466-milk-bottle-and-monster-girl.json) |
 | Milk Bottle and Monster Girl 2 | 202212 | [202212-milk-bottle-and-monster-girl-2.json](./202212-milk-bottle-and-monster-girl-2.json) |
 | Milk Farm | 103664 | [103664-milk-farm.json](./103664-milk-farm.json) |
 | Milk Farm Tycoon | 243708 | [243708-milk-farm-tycoon.json](./243708-milk-farm-tycoon.json) |
