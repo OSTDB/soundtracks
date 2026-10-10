@@ -670,6 +670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ogre Battle: The March of the Black Queen | 9805 | [9805-ogre-battle-the-march-of-the-black-queen.json](./9805-ogre-battle-the-march-of-the-black-queen.json) |
 | Ogre Chambers 2222 | 369740 | [369740-ogre-chambers-2222.json](./369740-ogre-chambers-2222.json) |
 | Ogre Chambers DX | 239795 | [239795-ogre-chambers-dx.json](./239795-ogre-chambers-dx.json) |
+| Ogre Labs | 310703 | [310703-ogre-labs.json](./310703-ogre-labs.json) |
 | Ogre Stampede | 413480 | [413480-ogre-stampede.json](./413480-ogre-stampede.json) |
 | Ogre's Ambition 2 | 82775 | [82775-ogres-ambition-2.json](./82775-ogres-ambition-2.json) |
 | Ogrez | 119605 | [119605-ogrez.json](./119605-ogrez.json) |
@@ -1222,6 +1223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | On a Summer Night | 263773 | [263773-on-a-summer-night.json](./263773-on-a-summer-night.json) |
 | On Air | 122173 | [122173-on-air.json](./122173-on-air.json) |
 | On Air Island | 255179 | [255179-on-air-island.json](./255179-on-air-island.json) |
+| On All Clear Days | 310716 | [310716-on-all-clear-days.json](./310716-on-all-clear-days.json) |
 | On Any Journey | 339378 | [339378-on-any-journey.json](./339378-on-any-journey.json) |
 | On August 11, A Ship Sailed Into Port | 135704 | [135704-on-august-11-a-ship-sailed-into-port.json](./135704-on-august-11-a-ship-sailed-into-port.json) |
 | On Bees | 128545 | [128545-on-bees.json](./128545-on-bees.json) |
@@ -2531,6 +2533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orguss | 6121 | [6121-orguss.json](./6121-orguss.json) |
 | Oricmunch | 137472 | [137472-oricmunch.json](./137472-oricmunch.json) |
 | Orient Arcadia | 197331 | [197331-orient-arcadia.json](./197331-orient-arcadia.json) |
+| Orient on the Murder Express | 310491 | [310491-orient-on-the-murder-express.json](./310491-orient-on-the-murder-express.json) |
 | Oriental Blue: Ao no Tengai | 49414 | [49414-oriental-blue-ao-no-tengai.json](./49414-oriental-blue-ao-no-tengai.json) |
 | Oriental Dreams | 54263 | [54263-oriental-dreams.json](./54263-oriental-dreams.json) |
 | Oriental Empires | 35526 | [35526-oriental-empires.json](./35526-oriental-empires.json) |
