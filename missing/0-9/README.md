@@ -694,6 +694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1500 DS Spirits Vol. 5: Hanafuda | 79546 | [79546-1500-ds-spirits-vol-5-hanafuda.json](./79546-1500-ds-spirits-vol-5-hanafuda.json) |
 | 1500DS Spirits Vol. 6: Trump | 79186 | [79186-1500ds-spirits-vol-6-trump.json](./79186-1500ds-spirits-vol-6-trump.json) |
 | 1500DS Spirits Vol. 7: Chess | 79959 | [79959-1500ds-spirits-vol-7-chess.json](./79959-1500ds-spirits-vol-7-chess.json) |
+| 155th Anniversary of the Pony Express | 288131 | [288131-155th-anniversary-of-the-pony-express.json](./288131-155th-anniversary-of-the-pony-express.json) |
 | 15th Prison | 316431 | [316431-15th-prison.json](./316431-15th-prison.json) |
 | 15x15 | 109473 | [109473-15x15.json](./109473-15x15.json) |
 | 16 | 263010 | [263010-16.json](./263010-16.json) |
@@ -934,6 +935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2001: A Space Odyssey | 238083 | [238083-2001-a-space-odyssey.json](./238083-2001-a-space-odyssey.json) |
 | 2002 FIFA World Cup | 240360 | [240360-2002-fifa-world-cup.json](./240360-2002-fifa-world-cup.json) |
 | 2003 AtariAge Holiday Cart | 70419 | [70419-2003-atariage-holiday-cart.json](./70419-2003-atariage-holiday-cart.json) |
+| 2004 | 288145 | [288145-2004.json](./288145-2004.json) |
 | 2004 Real Soccer | 116344 | [116344-2004-real-soccer.json](./116344-2004-real-soccer.json) |
 | 2005 Minigame Multicart | 40792 | [40792-2005-minigame-multicart.json](./40792-2005-minigame-multicart.json) |
 | 2005 Real Soccer | 116345 | [116345-2005-real-soccer.json](./116345-2005-real-soccer.json) |
