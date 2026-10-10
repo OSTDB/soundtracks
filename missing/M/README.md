@@ -7095,6 +7095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Milanoir | 37852 | [37852-milanoir.json](./37852-milanoir.json) |
 | Milanoir: Special Edition | 28358 | [28358-milanoir-special-edition.json](./28358-milanoir-special-edition.json) |
 | Milcham: From the Ashes of Hearts | 319077 | [319077-milcham-from-the-ashes-of-hearts.json](./319077-milcham-from-the-ashes-of-hearts.json) |
+| Mildred's Tarot Battle | 291400 | [291400-mildreds-tarot-battle.json](./291400-mildreds-tarot-battle.json) |
 | Mile 27 | 413767 | [413767-mile-27.json](./413767-mile-27.json) |
 | Mile Bones | 83480 | [83480-mile-bones.json](./83480-mile-bones.json) |
 | Mile High Pinball | 6266 | [6266-mile-high-pinball.json](./6266-mile-high-pinball.json) |
@@ -13073,6 +13074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mylo uronil | 110143 | [110143-mylo-uronil.json](./110143-mylo-uronil.json) |
 | MyMan | 93150 | [93150-myman.json](./93150-myman.json) |
 | MyNBA2K16 | 79975 | [79975-mynba2k16.json](./79975-mynba2k16.json) |
+| Myoka: First Person View | 291376 | [291376-myoka-first-person-view.json](./291376-myoka-first-person-view.json) |
 | Myopia | 362445 | [362445-myopia.json](./362445-myopia.json) |
 | Myosotis | 362891 | [362891-myosotis.json](./362891-myosotis.json) |
 | MyPopgoes | 243687 | [243687-mypopgoes.json](./243687-mypopgoes.json) |
