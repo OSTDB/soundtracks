@@ -213,6 +213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uktena 64 | 392159 | [392159-uktena-64.json](./392159-uktena-64.json) |
 | Uldor Dread Arena | 247096 | [247096-uldor-dread-arena.json](./247096-uldor-dread-arena.json) |
 | UldreVoid | 133206 | [133206-uldrevoid.json](./133206-uldrevoid.json) |
+| Ulia Chronicles | 304913 | [304913-ulia-chronicles.json](./304913-ulia-chronicles.json) |
 | Uligo: A Slime's Hike | 200429 | [200429-uligo-a-slimes-hike.json](./200429-uligo-a-slimes-hike.json) |
 | Ulimek | 279892 | [279892-ulimek.json](./279892-ulimek.json) |
 | Ulitsa Dimitrova | 175881 | [175881-ulitsa-dimitrova.json](./175881-ulitsa-dimitrova.json) |
@@ -995,6 +996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undead Run | 163741 | [163741-undead-run.json](./163741-undead-run.json) |
 | Undead Slayer | 46755 | [46755-undead-slayer.json](./46755-undead-slayer.json) |
 | Undead Souls | 55496 | [55496-undead-souls.json](./55496-undead-souls.json) |
+| Undead Trail: Haunting Shadows | 304851 | [304851-undead-trail-haunting-shadows.json](./304851-undead-trail-haunting-shadows.json) |
 | Undead Uprising | 270871 | [270871-undead-uprising.json](./270871-undead-uprising.json) |
 | Undead Village | 244375 | [244375-undead-village.json](./244375-undead-village.json) |
 | Undead vs. Plants | 18120 | [18120-undead-vs-plants.json](./18120-undead-vs-plants.json) |
@@ -2314,14 +2316,19 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uzzuzzu My Pet | 242056 | [242056-uzzuzzu-my-pet.json](./242056-uzzuzzu-my-pet.json) |
 | Uzzuzzu My Pet: Golf Dash - Amazing Edition | 328811 | [328811-uzzuzzu-my-pet-golf-dash-amazing-edition.json](./328811-uzzuzzu-my-pet-golf-dash-amazing-edition.json) |
 | Uzzuzzu My Pet: Golf Dash - Boo's Challenge | 283297 | [283297-uzzuzzu-my-pet-golf-dash-boos-challenge.json](./283297-uzzuzzu-my-pet-golf-dash-boos-challenge.json) |
+| Uzzuzzu My Pet: Golf Dash - Complete Edition | 304772 | [304772-uzzuzzu-my-pet-golf-dash-complete-edition.json](./304772-uzzuzzu-my-pet-golf-dash-complete-edition.json) |
+| Uzzuzzu My Pet: Golf Dash - Definitive Edition | 304771 | [304771-uzzuzzu-my-pet-golf-dash-definitive-edition.json](./304771-uzzuzzu-my-pet-golf-dash-definitive-edition.json) |
 | Uzzuzzu My Pet: Golf Dash - Deluxe Edition | 288277 | [288277-uzzuzzu-my-pet-golf-dash-deluxe-edition.json](./288277-uzzuzzu-my-pet-golf-dash-deluxe-edition.json) |
 | Uzzuzzu My Pet: Golf Dash - Director's Cut | 328821 | [328821-uzzuzzu-my-pet-golf-dash-directors-cut.json](./328821-uzzuzzu-my-pet-golf-dash-directors-cut.json) |
+| Uzzuzzu My Pet: Golf Dash - Extended Edition | 304768 | [304768-uzzuzzu-my-pet-golf-dash-extended-edition.json](./304768-uzzuzzu-my-pet-golf-dash-extended-edition.json) |
 | Uzzuzzu My Pet: Golf Dash - GOTY Edition | 328812 | [328812-uzzuzzu-my-pet-golf-dash-goty-edition.json](./328812-uzzuzzu-my-pet-golf-dash-goty-edition.json) |
 | Uzzuzzu My Pet: Golf Dash - Happy Edition | 328813 | [328813-uzzuzzu-my-pet-golf-dash-happy-edition.json](./328813-uzzuzzu-my-pet-golf-dash-happy-edition.json) |
 | Uzzuzzu My Pet: Golf Dash - Kung's Challenge | 283272 | [283272-uzzuzzu-my-pet-golf-dash-kungs-challenge.json](./283272-uzzuzzu-my-pet-golf-dash-kungs-challenge.json) |
 | Uzzuzzu My Pet: Golf Dash - Legendary Edition | 328814 | [328814-uzzuzzu-my-pet-golf-dash-legendary-edition.json](./328814-uzzuzzu-my-pet-golf-dash-legendary-edition.json) |
 | Uzzuzzu My Pet: Golf Dash - Magnificent Edition | 328815 | [328815-uzzuzzu-my-pet-golf-dash-magnificent-edition.json](./328815-uzzuzzu-my-pet-golf-dash-magnificent-edition.json) |
 | Uzzuzzu My Pet: Golf Dash - Platinum Edition | 328816 | [328816-uzzuzzu-my-pet-golf-dash-platinum-edition.json](./328816-uzzuzzu-my-pet-golf-dash-platinum-edition.json) |
+| Uzzuzzu My Pet: Golf Dash - Premium Edition | 304770 | [304770-uzzuzzu-my-pet-golf-dash-premium-edition.json](./304770-uzzuzzu-my-pet-golf-dash-premium-edition.json) |
+| Uzzuzzu My Pet: Golf Dash - Special Edition | 304769 | [304769-uzzuzzu-my-pet-golf-dash-special-edition.json](./304769-uzzuzzu-my-pet-golf-dash-special-edition.json) |
 | Uzzuzzu My Pet: Golf Dash - Superb Edition | 328817 | [328817-uzzuzzu-my-pet-golf-dash-superb-edition.json](./328817-uzzuzzu-my-pet-golf-dash-superb-edition.json) |
 | Uzzuzzu My Pet: Golf Dash - Ta's Challenge | 283230 | [283230-uzzuzzu-my-pet-golf-dash-tas-challenge.json](./283230-uzzuzzu-my-pet-golf-dash-tas-challenge.json) |
 | Uzzuzzu My Pet: Golf Dash - Tary's Challenge | 283229 | [283229-uzzuzzu-my-pet-golf-dash-tarys-challenge.json](./283229-uzzuzzu-my-pet-golf-dash-tarys-challenge.json) |
