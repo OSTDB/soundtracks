@@ -5532,6 +5532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shoot Yourself With a Rifle | 336531 | [336531-shoot-yourself-with-a-rifle.json](./336531-shoot-yourself-with-a-rifle.json) |
 | Shoot-No-Shoot | 107805 | [107805-shoot-no-shoot.json](./107805-shoot-no-shoot.json) |
 | Shoot-Out | 71588 | [71588-shoot-out.json](./71588-shoot-out.json) |
+| Shoot, I Got Abducted! | 327227 | [327227-shoot-i-got-abducted.json](./327227-shoot-i-got-abducted.json) |
 | Shoot! | 188437 | [188437-shoot.json](./188437-shoot.json) |
 | Shoot! & Ahhhhh | 385816 | [385816-shoot-and-ahhhhh.json](./385816-shoot-and-ahhhhh.json) |
 | Shoot! VR | 230948 | [230948-shoot-vr.json](./230948-shoot-vr.json) |
@@ -7059,6 +7060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sister Lumina and the Hypnosis Cult | 327395 | [327395-sister-lumina-and-the-hypnosis-cult.json](./327395-sister-lumina-and-the-hypnosis-cult.json) |
 | Sister Other Paranoia | 383129 | [383129-sister-other-paranoia.json](./383129-sister-other-paranoia.json) |
 | Sister Princess: Re Pure | 49815 | [49815-sister-princess-re-pure.json](./49815-sister-princess-re-pure.json) |
+| Sister Ray | 327245 | [327245-sister-ray.json](./327245-sister-ray.json) |
 | Sister Red | 385867 | [385867-sister-red.json](./385867-sister-red.json) |
 | Sister Slave: Faithful Girl's Slave Training | 83230 | [83230-sister-slave-faithful-girls-slave-training.json](./83230-sister-slave-faithful-girls-slave-training.json) |
 | Sister Square's Escape | 101098 | [101098-sister-squares-escape.json](./101098-sister-squares-escape.json) |
@@ -7448,6 +7450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skippy's Grand Escape | 334335 | [334335-skippys-grand-escape.json](./334335-skippys-grand-escape.json) |
 | Skirmish | 13756 | [13756-skirmish.json](./13756-skirmish.json) |
 | Skirmish | 257946 | [257946-skirmish.json](./257946-skirmish.json) |
+| Skirmish | 327165 | [327165-skirmish.json](./327165-skirmish.json) |
 | Skirmish Line: Mad Jack | 172129 | [172129-skirmish-line-mad-jack.json](./172129-skirmish-line-mad-jack.json) |
 | Skirmishers | 223368 | [223368-skirmishers.json](./223368-skirmishers.json) |
 | Skitt | 138735 | [138735-skitt.json](./138735-skitt.json) |
@@ -15214,6 +15217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stargate | 281049 | [281049-stargate.json](./281049-stargate.json) |
 | Stargate | 281050 | [281050-stargate.json](./281050-stargate.json) |
 | Stargate | 346142 | [346142-stargate.json](./346142-stargate.json) |
+| Stargate Adventure | 327226 | [327226-stargate-adventure.json](./327226-stargate-adventure.json) |
 | Stargate Bullet | 379896 | [379896-stargate-bullet.json](./379896-stargate-bullet.json) |
 | Stargate Network | 316724 | [316724-stargate-network.json](./316724-stargate-network.json) |
 | Stargate Online TCG | 21529 | [21529-stargate-online-tcg.json](./21529-stargate-online-tcg.json) |
@@ -16827,6 +16831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stranger of Sword City 2 | 19801 | [19801-stranger-of-sword-city-2.json](./19801-stranger-of-sword-city-2.json) |
 | Stranger of Sword City: Limited Edition | 42681 | [42681-stranger-of-sword-city-limited-edition.json](./42681-stranger-of-sword-city-limited-edition.json) |
 | Stranger Than Heaven | 325599 | [325599-stranger-than-heaven.json](./325599-stranger-than-heaven.json) |
+| Stranger Things | 327225 | [327225-stranger-things.json](./327225-stranger-things.json) |
 | Stranger Things VR | 225668 | [225668-stranger-things-vr.json](./225668-stranger-things-vr.json) |
 | Stranger Things: 1984 | 72765 | [72765-stranger-things-1984.json](./72765-stranger-things-1984.json) |
 | Stranger Things: Puzzle Tales | 197248 | [197248-stranger-things-puzzle-tales.json](./197248-stranger-things-puzzle-tales.json) |
