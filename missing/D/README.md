@@ -10430,6 +10430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ducati World: Racing Challenge | 45856 | [45856-ducati-world-racing-challenge.json](./45856-ducati-world-racing-challenge.json) |
 | Duck 'n' Cover | 75869 | [75869-duck-n-cover.json](./75869-duck-n-cover.json) |
 | Duck Adventure | 210646 | [210646-duck-adventure.json](./210646-duck-adventure.json) |
+| Duck Adventures | 310085 | [310085-duck-adventures.json](./310085-duck-adventures.json) |
 | Duck and the Land of Flightless Birds | 189932 | [189932-duck-and-the-land-of-flightless-birds.json](./189932-duck-and-the-land-of-flightless-birds.json) |
 | Duck Attack | 180707 | [180707-duck-attack.json](./180707-duck-attack.json) |
 | Duck Bow Hunt | 88217 | [88217-duck-bow-hunt.json](./88217-duck-bow-hunt.json) |
