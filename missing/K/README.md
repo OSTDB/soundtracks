@@ -1845,6 +1845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King in the Mountain | 408930 | [408930-king-in-the-mountain.json](./408930-king-in-the-mountain.json) |
 | King in Yellow: Endless Sex Drama | 301647 | [301647-king-in-yellow-endless-sex-drama.json](./301647-king-in-yellow-endless-sex-drama.json) |
 | King Island 2 | 292534 | [292534-king-island-2.json](./292534-king-island-2.json) |
+| King Island 3 | 293534 | [293534-king-island-3.json](./293534-king-island-3.json) |
 | King James Bible DX | 358319 | [358319-king-james-bible-dx.json](./358319-king-james-bible-dx.json) |
 | King James Bible for Use on Game Boy | 79876 | [79876-king-james-bible-for-use-on-game-boy.json](./79876-king-james-bible-for-use-on-game-boy.json) |
 | King Kaiju | 25924 | [25924-king-kaiju.json](./25924-king-kaiju.json) |
