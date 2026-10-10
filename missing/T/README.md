@@ -1343,6 +1343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tanks for the Memories | 65264 | [65264-tanks-for-the-memories.json](./65264-tanks-for-the-memories.json) |
 | Tanks Logic Puzzle | 339418 | [339418-tanks-logic-puzzle.json](./339418-tanks-logic-puzzle.json) |
 | Tanks Meet Zombies | 81672 | [81672-tanks-meet-zombies.json](./81672-tanks-meet-zombies.json) |
+| Tanks of Freedom II | 309548 | [309548-tanks-of-freedom-ii.json](./309548-tanks-of-freedom-ii.json) |
 | Tanks Online | 384275 | [384275-tanks-online.json](./384275-tanks-online.json) |
 | Tanks Racing Sim | 339417 | [339417-tanks-racing-sim.json](./339417-tanks-racing-sim.json) |
 | Tanks Rebirth | 357342 | [357342-tanks-rebirth.json](./357342-tanks-rebirth.json) |
@@ -1553,6 +1554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tape Worm | 46891 | [46891-tape-worm.json](./46891-tape-worm.json) |
 | Tape Zero | 26921 | [26921-tape-zero.json](./26921-tape-zero.json) |
 | Tapeçaria | 334711 | [334711-tapecaria.json](./334711-tapecaria.json) |
+| Tapeheads | 309551 | [309551-tapeheads.json](./309551-tapeheads.json) |
 | Tapes of Entities | 370204 | [370204-tapes-of-entities.json](./370204-tapes-of-entities.json) |
 | Tapes of Fear: Smile | 337062 | [337062-tapes-of-fear-smile.json](./337062-tapes-of-fear-smile.json) |
 | Tapestry | 216327 | [216327-tapestry.json](./216327-tapestry.json) |
@@ -10793,6 +10795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Terraces | 303018 | [303018-the-terraces.json](./303018-the-terraces.json) |
 | The Terrible Old Man | 122170 | [122170-the-terrible-old-man.json](./122170-the-terrible-old-man.json) |
 | The Terrible Old Man: Collector's Edition | 156100 | [156100-the-terrible-old-man-collectors-edition.json](./156100-the-terrible-old-man-collectors-edition.json) |
+| The Territory of Egg 2 | 309559 | [309559-the-territory-of-egg-2.json](./309559-the-territory-of-egg-2.json) |
 | The Terror At Freddy's | 338912 | [338912-the-terror-at-freddys.json](./338912-the-terror-at-freddys.json) |
 | The Terrors of Trantoss | 232557 | [232557-the-terrors-of-trantoss.json](./232557-the-terrors-of-trantoss.json) |
 | The test of beauty | 161645 | [161645-the-test-of-beauty.json](./161645-the-test-of-beauty.json) |
@@ -10848,6 +10851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Thing With Mistletoes | 29589 | [29589-the-thing-with-mistletoes.json](./29589-the-thing-with-mistletoes.json) |
 | The Thing You Can't Defeat | 251239 | [251239-the-thing-you-cant-defeat.json](./251239-the-thing-you-cant-defeat.json) |
 | The Thing: Remastered - Deluxe Edition | 383010 | [383010-the-thing-remastered-deluxe-edition.json](./383010-the-thing-remastered-deluxe-edition.json) |
+| The Thing: Station Survival | 309620 | [309620-the-thing-station-survival.json](./309620-the-thing-station-survival.json) |
 | The Things We Don't See: 10 Interactive Stories of Horror, Mystery, and the Unknown | 415192 | [415192-the-things-we-dont-see-10-interactive-stories-of-horror-mystery-and-the-unknown.json](./415192-the-things-we-dont-see-10-interactive-stories-of-horror-mystery-and-the-unknown.json) |
 | The Things We Lost in the Flood | 118170 | [118170-the-things-we-lost-in-the-flood.json](./118170-the-things-we-lost-in-the-flood.json) |
 | The Thinker | 294210 | [294210-the-thinker.json](./294210-the-thinker.json) |
@@ -18860,6 +18864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trident's Wake | 74813 | [74813-tridents-wake.json](./74813-tridents-wake.json) |
 | Tridle | 228715 | [228715-tridle.json](./228715-tridle.json) |
 | Tridonis | 62749 | [62749-tridonis.json](./62749-tridonis.json) |
+| Trifecta | 309556 | [309556-trifecta.json](./309556-trifecta.json) |
 | Trifide | 94381 | [94381-trifide.json](./94381-trifide.json) |
 | Trifoil | 312574 | [312574-trifoil.json](./312574-trifoil.json) |
 | Triga | 199652 | [199652-triga.json](./199652-triga.json) |
