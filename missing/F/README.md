@@ -257,6 +257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Faceball 2000 DX | 279728 | [279728-faceball-2000-dx.json](./279728-faceball-2000-dx.json) |
 | Faceball Captain | 356203 | [356203-faceball-captain.json](./356203-faceball-captain.json) |
 | Faced | 181377 | [181377-faced.json](./181377-faced.json) |
+| Faceless | 293539 | [293539-faceless.json](./293539-faceless.json) |
 | Faceless | 320882 | [320882-faceless.json](./320882-faceless.json) |
 | Faceless | 340047 | [340047-faceless.json](./340047-faceless.json) |
 | Faceless: Prologue | 320880 | [320880-faceless-prologue.json](./320880-faceless-prologue.json) |
@@ -4133,6 +4134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fiskal Clif | 303744 | [303744-fiskal-clif.json](./303744-fiskal-clif.json) |
 | Fisraduth: Castle of Tyramis | 321337 | [321337-fisraduth-castle-of-tyramis.json](./321337-fisraduth-castle-of-tyramis.json) |
 | Fission | 164917 | [164917-fission.json](./164917-fission.json) |
+| Fission | 293548 | [293548-fission.json](./293548-fission.json) |
 | Fission | 381021 | [381021-fission.json](./381021-fission.json) |
 | Fission Superstar X | 90312 | [90312-fission-superstar-x.json](./90312-fission-superstar-x.json) |
 | Fissure | 201624 | [201624-fissure.json](./201624-fissure.json) |
@@ -5021,6 +5023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Floral Gutter | 350619 | [350619-floral-gutter.json](./350619-floral-gutter.json) |
 | Floral Town | 158098 | [158098-floral-town.json](./158098-floral-town.json) |
 | Floralgraphic Memory | 265620 | [265620-floralgraphic-memory.json](./265620-floralgraphic-memory.json) |
+| Floralis | 293514 | [293514-floralis.json](./293514-floralis.json) |
 | FloraMancer: Seeds and Spells | 235982 | [235982-floramancer-seeds-and-spells.json](./235982-floramancer-seeds-and-spells.json) |
 | Floramino | 364361 | [364361-floramino.json](./364361-floramino.json) |
 | Florani Match | 392295 | [392295-florani-match.json](./392295-florani-match.json) |
@@ -5417,6 +5420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FolcDark | 275671 | [275671-folcdark.json](./275671-folcdark.json) |
 | FolcDark: Part I | 265119 | [265119-folcdark-part-i.json](./265119-folcdark-part-i.json) |
 | FolcDark: Part II | 274025 | [274025-folcdark-part-ii.json](./274025-folcdark-part-ii.json) |
+| Folclore | 293547 | [293547-folclore.json](./293547-folclore.json) |
 | Fold & Cut | 255744 | [255744-fold-and-cut.json](./255744-fold-and-cut.json) |
 | Fold the World | 348800 | [348800-fold-the-world.json](./348800-fold-the-world.json) |
 | Folded Fables: Tidy Up The Dragon Hoard | 420591 | [420591-folded-fables-tidy-up-the-dragon-hoard.json](./420591-folded-fables-tidy-up-the-dragon-hoard.json) |
@@ -8118,6 +8122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Funball | 94946 | [94946-funball.json](./94946-funball.json) |
 | Funbox Ultimate Slots Bundle | 317549 | [317549-funbox-ultimate-slots-bundle.json](./317549-funbox-ultimate-slots-bundle.json) |
 | Function | 119618 | [119618-function.json](./119618-function.json) |
+| Function Ball | 293503 | [293503-function-ball.json](./293503-function-ball.json) |
 | Function.Repair | 63827 | [63827-function-repair.json](./63827-function-repair.json) |
 | Functional: Trees | 296599 | [296599-functional-trees.json](./296599-functional-trees.json) |
 | Fundación 3M España: The Recycling Heroes | 377228 | [377228-fundacion-3m-espana-the-recycling-heroes.json](./377228-fundacion-3m-espana-the-recycling-heroes.json) |
