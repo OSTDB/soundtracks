@@ -5970,6 +5970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hop Up | 323308 | [323308-hop-up.json](./323308-hop-up.json) |
 | Hop-Co-Op | 410944 | [410944-hop-co-op.json](./410944-hop-co-op.json) |
 | Hop: The Movie | 254792 | [254792-hop-the-movie.json](./254792-hop-the-movie.json) |
+| Hop'n & Bop'n | 290831 | [290831-hopn-and-bopn.json](./290831-hopn-and-bopn.json) |
 | Hop'N'Hoard | 394846 | [394846-hopnhoard.json](./394846-hopnhoard.json) |
 | Hopa: Mini test Quest | 183999 | [183999-hopa-mini-test-quest.json](./183999-hopa-mini-test-quest.json) |
 | HopDodge | 200149 | [200149-hopdodge.json](./200149-hopdodge.json) |
