@@ -156,6 +156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rabbit's Hop | 373330 | [373330-rabbits-hop.json](./373330-rabbits-hop.json) |
 | Rabbit's Quest | 142342 | [142342-rabbits-quest.json](./142342-rabbits-quest.json) |
 | RabbitJack's Casino | 67960 | [67960-rabbitjacks-casino.json](./67960-rabbitjacks-casino.json) |
+| Rabbits and Magic | 315787 | [315787-rabbits-and-magic.json](./315787-rabbits-and-magic.json) |
 | Rabby in the Land of Sweets | 165646 | [165646-rabby-in-the-land-of-sweets.json](./165646-rabby-in-the-land-of-sweets.json) |
 | Rabdonut | 219106 | [219106-rabdonut.json](./219106-rabdonut.json) |
 | Rabengeist: The Tale of Lizzie Ulm | 413483 | [413483-rabengeist-the-tale-of-lizzie-ulm.json](./413483-rabengeist-the-tale-of-lizzie-ulm.json) |
