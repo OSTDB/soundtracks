@@ -2151,6 +2151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leo & Mia: Animal Rescue | 327280 | [327280-leo-and-mia-animal-rescue.json](./327280-leo-and-mia-animal-rescue.json) |
 | Leo And Tig | 389063 | [389063-leo-and-tig.json](./389063-leo-and-tig.json) |
 | Leo Spanish Spelling Complete | 108614 | [108614-leo-spanish-spelling-complete.json](./108614-leo-spanish-spelling-complete.json) |
+| Leo Steel | 284855 | [284855-leo-steel.json](./284855-leo-steel.json) |
 | Leo the Amazing Cat | 177422 | [177422-leo-the-amazing-cat.json](./177422-leo-the-amazing-cat.json) |
 | Leo the Firefighter Cat | 287582 | [287582-leo-the-firefighter-cat.json](./287582-leo-the-firefighter-cat.json) |
 | Leo the Lion | 124823 | [124823-leo-the-lion.json](./124823-leo-the-lion.json) |
@@ -3099,9 +3100,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Like a Dragon Gaiden: The Man Who Erased His Name - Deluxe Edition | 275808 | [275808-like-a-dragon-gaiden-the-man-who-erased-his-name-deluxe-edition.json](./275808-like-a-dragon-gaiden-the-man-who-erased-his-name-deluxe-edition.json) |
 | Like a Dragon Series Starter Pack | 311046 | [311046-like-a-dragon-series-starter-pack.json](./311046-like-a-dragon-series-starter-pack.json) |
 | Like a Dragon: Infinite Wealth - Assorted Outfit Bundle | 288216 | [288216-like-a-dragon-infinite-wealth-assorted-outfit-bundle.json](./288216-like-a-dragon-infinite-wealth-assorted-outfit-bundle.json) |
+| Like a Dragon: Infinite Wealth - Deluxe Edition | 284856 | [284856-like-a-dragon-infinite-wealth-deluxe-edition.json](./284856-like-a-dragon-infinite-wealth-deluxe-edition.json) |
 | Like a Dragon: Infinite Wealth - Master Vacation Bundle | 288217 | [288217-like-a-dragon-infinite-wealth-master-vacation-bundle.json](./288217-like-a-dragon-infinite-wealth-master-vacation-bundle.json) |
 | Like a Dragon: Infinite Wealth - Special Job Set | 288219 | [288219-like-a-dragon-infinite-wealth-special-job-set.json](./288219-like-a-dragon-infinite-wealth-special-job-set.json) |
 | Like a Dragon: Infinite Wealth - Special Outfit: Hello Work Employee (Ichiban) | 288221 | [288221-like-a-dragon-infinite-wealth-special-outfit-hello-work-employee-ichiban.json](./288221-like-a-dragon-infinite-wealth-special-outfit-hello-work-employee-ichiban.json) |
+| Like a Dragon: Infinite Wealth - Ultimate Edition | 284866 | [284866-like-a-dragon-infinite-wealth-ultimate-edition.json](./284866-like-a-dragon-infinite-wealth-ultimate-edition.json) |
 | Like a Dragon: Infinite Wealth - Yakuza CD Collection Set | 288218 | [288218-like-a-dragon-infinite-wealth-yakuza-cd-collection-set.json](./288218-like-a-dragon-infinite-wealth-yakuza-cd-collection-set.json) |
 | Like a Dragon: Ishin! - Gun Upgrade Materials Kit | 239215 | [239215-like-a-dragon-ishin-gun-upgrade-materials-kit.json](./239215-like-a-dragon-ishin-gun-upgrade-materials-kit.json) |
 | Like a Dragon: Ishin! - Shinsengumi Captain's Set | 239212 | [239212-like-a-dragon-ishin-shinsengumi-captains-set.json](./239212-like-a-dragon-ishin-shinsengumi-captains-set.json) |
