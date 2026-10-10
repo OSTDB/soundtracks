@@ -3140,6 +3140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lim Beyond One-on-One Basketball | 254782 | [254782-lim-beyond-one-on-one-basketball.json](./254782-lim-beyond-one-on-one-basketball.json) |
 | Limacina Open Season | 398564 | [398564-limacina-open-season.json](./398564-limacina-open-season.json) |
 | Limax.io | 54892 | [54892-limax-io.json](./54892-limax-io.json) |
+| Limb Chopper | 323985 | [323985-limb-chopper.json](./323985-limb-chopper.json) |
 | Limb Hunter | 156222 | [156222-limb-hunter.json](./156222-limb-hunter.json) |
 | Limb Lobber | 395707 | [395707-limb-lobber.json](./395707-limb-lobber.json) |
 | Limb: Origins | 337086 | [337086-limb-origins.json](./337086-limb-origins.json) |
@@ -3718,6 +3719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Princess | 70945 | [70945-little-princess.json](./70945-little-princess.json) |
 | Little Princess: Marl Oukoku no Ningyou Hime 2 | 43903 | [43903-little-princess-marl-oukoku-no-ningyou-hime-2.json](./43903-little-princess-marl-oukoku-no-ningyou-hime-2.json) |
 | Little Problems | 272792 | [272792-little-problems.json](./272792-little-problems.json) |
+| Little Raccoon | 323766 | [323766-little-raccoon.json](./323766-little-raccoon.json) |
 | Little Racer | 124023 | [124023-little-racer.json](./124023-little-racer.json) |
 | Little Racers | 91735 | [91735-little-racers.json](./91735-little-racers.json) |
 | Little Racers + Red Wings: American Aces | 287884 | [287884-little-racers-red-wings-american-aces.json](./287884-little-racers-red-wings-american-aces.json) |
@@ -5776,6 +5778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lulu Fighter for LOL | 243096 | [243096-lulu-fighter-for-lol.json](./243096-lulu-fighter-for-lol.json) |
 | Lulu's Temple | 195696 | [195696-lulus-temple.json](./195696-lulus-temple.json) |
 | Lum: Hide from Nightmares | 211180 | [211180-lum-hide-from-nightmares.json](./211180-lum-hide-from-nightmares.json) |
+| Luma | 323981 | [323981-luma.json](./323981-luma.json) |
 | Luma Island | 293035 | [293035-luma-island.json](./293035-luma-island.json) |
 | Luma Island: Pirates | 347822 | [347822-luma-island-pirates.json](./347822-luma-island-pirates.json) |
 | LumaWorlds | 411677 | [411677-lumaworlds.json](./411677-lumaworlds.json) |
@@ -6141,6 +6144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lynn: The Girl Drawn on Puzzles | 130233 | [130233-lynn-the-girl-drawn-on-puzzles.json](./130233-lynn-the-girl-drawn-on-puzzles.json) |
 | Lynne | 105107 | [105107-lynne.json](./105107-lynne.json) |
 | LyokoVR | 169337 | [169337-lyokovr.json](./169337-lyokovr.json) |
+| Lyra | 323986 | [323986-lyra.json](./323986-lyra.json) |
 | Lyra and the Echo of the Abyss | 345696 | [345696-lyra-and-the-echo-of-the-abyss.json](./345696-lyra-and-the-echo-of-the-abyss.json) |
 | Lyratha: Labyrinth - Survival Escape | 115682 | [115682-lyratha-labyrinth-survival-escape.json](./115682-lyratha-labyrinth-survival-escape.json) |
 | LyraVR | 29923 | [29923-lyravr.json](./29923-lyravr.json) |
