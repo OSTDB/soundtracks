@@ -9822,6 +9822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Second Reproduction: Reunion | 383596 | [383596-the-second-reproduction-reunion.json](./383596-the-second-reproduction-reunion.json) |
 | The Second Sight: Dead Reckoning | 331138 | [331138-the-second-sight-dead-reckoning.json](./331138-the-second-sight-dead-reckoning.json) |
 | The Secret Atelier | 288991 | [288991-the-secret-atelier.json](./288991-the-secret-atelier.json) |
+| The Secret Behind the Exam Paper | 314610 | [314610-the-secret-behind-the-exam-paper.json](./314610-the-secret-behind-the-exam-paper.json) |
 | The Secret Blue Forest | 155971 | [155971-the-secret-blue-forest.json](./155971-the-secret-blue-forest.json) |
 | The Secret Chronicles of Dr. M. | 134077 | [134077-the-secret-chronicles-of-dr-m.json](./134077-the-secret-chronicles-of-dr-m.json) |
 | The Secret Codes of C.Y.P.H.E.R.: Operation Wildlife | 68739 | [68739-the-secret-codes-of-c-y-p-h-e-r-operation-wildlife.json](./68739-the-secret-codes-of-c-y-p-h-e-r-operation-wildlife.json) |
@@ -12923,6 +12924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tie Dye | 237634 | [237634-tie-dye.json](./237634-tie-dye.json) |
 | Tie-Break | 37284 | [37284-tie-break.json](./37284-tie-break.json) |
 | Tie: A Game About Depression | 326716 | [326716-tie-a-game-about-depression.json](./326716-tie-a-game-about-depression.json) |
+| Tiebreak: Ace Edition | 314602 | [314602-tiebreak-ace-edition.json](./314602-tiebreak-ace-edition.json) |
 | Tiebreak+ | 334667 | [334667-tiebreak.json](./334667-tiebreak.json) |
 | Tiebreaker | 93017 | [93017-tiebreaker.json](./93017-tiebreaker.json) |
 | Tiebreakers | 403216 | [403216-tiebreakers.json](./403216-tiebreakers.json) |
