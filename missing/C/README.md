@@ -769,6 +769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candy Fall | 148980 | [148980-candy-fall.json](./148980-candy-fall.json) |
 | Candy Girl | 382784 | [382784-candy-girl.json](./382784-candy-girl.json) |
 | Candy Hair Salon | 90898 | [90898-candy-hair-salon.json](./90898-candy-hair-salon.json) |
+| Candy Hentai | 301662 | [301662-candy-hentai.json](./301662-candy-hentai.json) |
 | Candy Jump featuring Frosty | 147131 | [147131-candy-jump-featuring-frosty.json](./147131-candy-jump-featuring-frosty.json) |
 | Candy Kingdom | 31395 | [31395-candy-kingdom.json](./31395-candy-kingdom.json) |
 | Candy land | 154401 | [154401-candy-land.json](./154401-candy-land.json) |
@@ -2204,6 +2205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat and Dog Adventure | 95564 | [95564-cat-and-dog-adventure.json](./95564-cat-and-dog-adventure.json) |
 | Cat and Dog Salon: Joyful Pets | 87166 | [87166-cat-and-dog-salon-joyful-pets.json](./87166-cat-and-dog-salon-joyful-pets.json) |
 | Cat and Ghostly Road | 114073 | [114073-cat-and-ghostly-road.json](./114073-cat-and-ghostly-road.json) |
+| Cat And Life | 301620 | [301620-cat-and-life.json](./301620-cat-and-life.json) |
 | Cat and Shadow and Death's Four Friends | 374070 | [374070-cat-and-shadow-and-deaths-four-friends.json](./374070-cat-and-shadow-and-deaths-four-friends.json) |
 | Cat Apartment | 264135 | [264135-cat-apartment.json](./264135-cat-apartment.json) |
 | Cat Apocalypse | 304854 | [304854-cat-apocalypse.json](./304854-cat-apocalypse.json) |
@@ -6958,6 +6960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | College Bowl | 249183 | [249183-college-bowl.json](./249183-college-bowl.json) |
 | College Brawl 2 | 233505 | [233505-college-brawl-2.json](./233505-college-brawl-2.json) |
 | College Craze | 210863 | [210863-college-craze.json](./210863-college-craze.json) |
+| College Diaries | 301626 | [301626-college-diaries.json](./301626-college-diaries.json) |
 | College Football Revamped | 150058 | [150058-college-football-revamped.json](./150058-college-football-revamped.json) |
 | College Football USA 96 | 46536 | [46536-college-football-usa-96.json](./46536-college-football-usa-96.json) |
 | College Football USA 97 | 46537 | [46537-college-football-usa-97.json](./46537-college-football-usa-97.json) |
@@ -11583,6 +11586,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cuccchi | 159156 | [159156-cuccchi.json](./159156-cuccchi.json) |
 | Cucina Stellata: Starred Cuisine | 341891 | [341891-cucina-stellata-starred-cuisine.json](./341891-cucina-stellata-starred-cuisine.json) |
 | Cuckold Life Simulator | 375972 | [375972-cuckold-life-simulator.json](./375972-cuckold-life-simulator.json) |
+| Cuckold Sex: Episode 1 | 301643 | [301643-cuckold-sex-episode-1.json](./301643-cuckold-sex-episode-1.json) |
+| Cuckold Sex: Episode 2 | 301645 | [301645-cuckold-sex-episode-2.json](./301645-cuckold-sex-episode-2.json) |
 | Cuckold Sex: Episode 3 | 316392 | [316392-cuckold-sex-episode-3.json](./316392-cuckold-sex-episode-3.json) |
 | Cuckold Sex: Episode 5 | 339353 | [339353-cuckold-sex-episode-5.json](./339353-cuckold-sex-episode-5.json) |
 | Cuckold Sex: Episode 6 | 371062 | [371062-cuckold-sex-episode-6.json](./371062-cuckold-sex-episode-6.json) |
@@ -12159,6 +12164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Lab | 379029 | [379029-cyber-lab.json](./379029-cyber-lab.json) |
 | Cyber Lancer | 210572 | [210572-cyber-lancer.json](./210572-cyber-lancer.json) |
 | Cyber Lemur | 150749 | [150749-cyber-lemur.json](./150749-cyber-lemur.json) |
+| Cyber Loop | 301617 | [301617-cyber-loop.json](./301617-cyber-loop.json) |
 | Cyber Love Story | 345987 | [345987-cyber-love-story.json](./345987-cyber-love-story.json) |
 | Cyber Lust | 241988 | [241988-cyber-lust.json](./241988-cyber-lust.json) |
 | Cyber Manhunt: Hello World | 188493 | [188493-cyber-manhunt-hello-world.json](./188493-cyber-manhunt-hello-world.json) |
