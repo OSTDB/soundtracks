@@ -5714,6 +5714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rock Paper Scissors: The Roguelike Puzzle Game | 410207 | [410207-rock-paper-scissors-the-roguelike-puzzle-game.json](./410207-rock-paper-scissors-the-roguelike-puzzle-game.json) |
 | Rock Paper Shift | 137433 | [137433-rock-paper-shift.json](./137433-rock-paper-shift.json) |
 | Rock Paper Smash | 213464 | [213464-rock-paper-smash.json](./213464-rock-paper-smash.json) |
+| Rock Pit | 288108 | [288108-rock-pit.json](./288108-rock-pit.json) |
 | Rock Quest: A Rhythm Adventure | 346173 | [346173-rock-quest-a-rhythm-adventure.json](./346173-rock-quest-a-rhythm-adventure.json) |
 | Rock Rock Rock | 326105 | [326105-rock-rock-rock.json](./326105-rock-rock-rock.json) |
 | Rock Run | 103988 | [103988-rock-run.json](./103988-rock-run.json) |
@@ -5928,6 +5929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rockman no Huángjīn Dìguó | 66918 | [66918-rockman-no-huangjin-diguo.json](./66918-rockman-no-huangjin-diguo.json) |
 | Rockman Online | 66610 | [66610-rockman-online.json](./66610-rockman-online.json) |
 | Rockman Strategy | 84307 | [84307-rockman-strategy.json](./84307-rockman-strategy.json) |
+| Rockman Tennis | 288142 | [288142-rockman-tennis.json](./288142-rockman-tennis.json) |
 | Rockman The Puzzle Battle | 290956 | [290956-rockman-the-puzzle-battle.json](./290956-rockman-the-puzzle-battle.json) |
 | RockMan VII: Showdown of Destiny! | 42550 | [42550-rockman-vii-showdown-of-destiny.json](./42550-rockman-vii-showdown-of-destiny.json) |
 | Rockman X Shùxué Xuànfēng | 290873 | [290873-rockman-x-shuxue-xuanfeng.json](./290873-rockman-x-shuxue-xuanfeng.json) |
