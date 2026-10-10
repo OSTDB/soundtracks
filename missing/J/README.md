@@ -2591,6 +2591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Justice League: Save Planet Earth | 245459 | [245459-justice-league-save-planet-earth.json](./245459-justice-league-save-planet-earth.json) |
 | Justice League: The Rescue | 245458 | [245458-justice-league-the-rescue.json](./245458-justice-league-the-rescue.json) |
 | Justice Legion | 103359 | [103359-justice-legion.json](./103359-justice-legion.json) |
+| Justice Ninja Casey | 326645 | [326645-justice-ninja-casey.json](./326645-justice-ninja-casey.json) |
 | Justice Online | 104711 | [104711-justice-online.json](./104711-justice-online.json) |
 | Justice Project | 398968 | [398968-justice-project.json](./398968-justice-project.json) |
 | Justice Seeker: Unsafe Data | 236772 | [236772-justice-seeker-unsafe-data.json](./236772-justice-seeker-unsafe-data.json) |
