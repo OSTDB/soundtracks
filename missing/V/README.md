@@ -1580,6 +1580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtua Fighter 5: Ultimate Showdown | 148696 | [148696-virtua-fighter-5-ultimate-showdown.json](./148696-virtua-fighter-5-ultimate-showdown.json) |
 | Virtua Fighter Animation | 1548 | [1548-virtua-fighter-animation.json](./1548-virtua-fighter-animation.json) |
 | Virtua Fighter CG Portrait Series Vol. 8: Lion Rafale | 97818 | [97818-virtua-fighter-cg-portrait-series-vol-8-lion-rafale.json](./97818-virtua-fighter-cg-portrait-series-vol-8-lion-rafale.json) |
+| Virtua Fighter Cool Champ | 295133 | [295133-virtua-fighter-cool-champ.json](./295133-virtua-fighter-cool-champ.json) |
 | Virtua Fighter Crossroads | 325598 | [325598-virtua-fighter-crossroads.json](./325598-virtua-fighter-crossroads.json) |
 | Virtua Fighter PC | 1546 | [1546-virtua-fighter-pc.json](./1546-virtua-fighter-pc.json) |
 | Virtua Fighter Remix | 145524 | [145524-virtua-fighter-remix.json](./145524-virtua-fighter-remix.json) |
@@ -2060,6 +2061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Void Scout | 320727 | [320727-void-scout.json](./320727-void-scout.json) |
 | Void Scrappers | 211688 | [211688-void-scrappers.json](./211688-void-scrappers.json) |
 | Void Sols | 223109 | [223109-void-sols.json](./223109-void-sols.json) |
+| Void Soul | 295132 | [295132-void-soul.json](./295132-void-soul.json) |
 | Void Stealer: Bodycam Horror | 317975 | [317975-void-stealer-bodycam-horror.json](./317975-void-stealer-bodycam-horror.json) |
 | Void Step | 419159 | [419159-void-step.json](./419159-void-step.json) |
 | Void Stranger | 178900 | [178900-void-stranger.json](./178900-void-stranger.json) |
