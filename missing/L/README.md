@@ -2516,6 +2516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Level Tank | 207317 | [207317-level-tank.json](./207317-level-tank.json) |
 | Level Up 80 | 311640 | [311640-level-up-80.json](./311640-level-up-80.json) |
 | Level Up Boxing VR | 270115 | [270115-level-up-boxing-vr.json](./270115-level-up-boxing-vr.json) |
+| Level Up Bus | 296782 | [296782-level-up-bus.json](./296782-level-up-bus.json) |
 | Level up Everything! | 333068 | [333068-level-up-everything.json](./333068-level-up-everything.json) |
 | Level Up Simulator | 389117 | [389117-level-up-simulator.json](./389117-level-up-simulator.json) |
 | Level Up Your Body | 270129 | [270129-level-up-your-body.json](./270129-level-up-your-body.json) |
@@ -2801,6 +2802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life Simulator | 169945 | [169945-life-simulator.json](./169945-life-simulator.json) |
 | Life Simulator | 231930 | [231930-life-simulator.json](./231930-life-simulator.json) |
 | Life Simulator | 360186 | [360186-life-simulator.json](./360186-life-simulator.json) |
+| Life Simulator 2 | 296757 | [296757-life-simulator-2.json](./296757-life-simulator-2.json) |
 | Life source | 117093 | [117093-life-source.json](./117093-life-source.json) |
 | Life Stage, Virtual House | 37122 | [37122-life-stage-virtual-house.json](./37122-life-stage-virtual-house.json) |
 | Life The Game | 326720 | [326720-life-the-game.json](./326720-life-the-game.json) |
@@ -5550,6 +5552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lovers’ Fun! | 402457 | [402457-lovers-fun.json](./402457-lovers-fun.json) |
 | Lovesick | 413796 | [413796-lovesick.json](./413796-lovesick.json) |
 | LoveSoTea | 250279 | [250279-lovesotea.json](./250279-lovesotea.json) |
+| LoveUnholyc: Dark Fantasy Love | 296785 | [296785-loveunholyc-dark-fantasy-love.json](./296785-loveunholyc-dark-fantasy-love.json) |
 | Lovin House | 153845 | [153845-lovin-house.json](./153845-lovin-house.json) |
 | Loving Deads: The House of the Dead EX | 72769 | [72769-loving-deads-the-house-of-the-dead-ex.json](./72769-loving-deads-the-house-of-the-dead-ex.json) |
 | Loving You Fully | 159873 | [159873-loving-you-fully.json](./159873-loving-you-fully.json) |
