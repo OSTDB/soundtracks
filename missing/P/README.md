@@ -6433,6 +6433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poka-poka Mama Koi Onsen: Mommy's Warm Hot Sprint | 288432 | [288432-poka-poka-mama-koi-onsen-mommys-warm-hot-sprint.json](./288432-poka-poka-mama-koi-onsen-mommys-warm-hot-sprint.json) |
 | Pokaboo | 197851 | [197851-pokaboo.json](./197851-pokaboo.json) |
 | Poké Everworld Online | 389447 | [389447-poke-everworld-online.json](./389447-poke-everworld-online.json) |
+| Poké Floats: Melee | 324526 | [324526-poke-floats-melee.json](./324526-poke-floats-melee.json) |
 | Poke Genie | 103549 | [103549-poke-genie.json](./103549-poke-genie.json) |
 | Poke Mission 97 | 322761 | [322761-poke-mission-97.json](./322761-poke-mission-97.json) |
 | Poke the Stray Cat | 221703 | [221703-poke-the-stray-cat.json](./221703-poke-the-stray-cat.json) |
@@ -6724,6 +6725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Eterna Emoción | 333642 | [333642-pokemon-eterna-emocion.json](./333642-pokemon-eterna-emocion.json) |
 | Pokémon Eternal X | 233652 | [233652-pokemon-eternal-x.json](./233652-pokemon-eternal-x.json) |
 | Pokémon Feuergrün Edition | 205126 | [205126-pokemon-feuergrun-edition.json](./205126-pokemon-feuergrun-edition.json) |
+| Pokemon Find The Alphabets | 324527 | [324527-pokemon-find-the-alphabets.json](./324527-pokemon-find-the-alphabets.json) |
 | Pokémon Fire Ash | 135871 | [135871-pokemon-fire-ash.json](./135871-pokemon-fire-ash.json) |
 | Pokémon Fire Black | 399254 | [399254-pokemon-fire-black.json](./399254-pokemon-fire-black.json) |
 | Pokémon Fire Red Extended | 305997 | [305997-pokemon-fire-red-extended.json](./305997-pokemon-fire-red-extended.json) |
@@ -8273,6 +8275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PowerWash Simulator: Back to the Future Special Pack | 276978 | [276978-powerwash-simulator-back-to-the-future-special-pack.json](./276978-powerwash-simulator-back-to-the-future-special-pack.json) |
 | PowerWash Simulator: Cruise Ship Sun Deck - Summer 2024 | 312018 | [312018-powerwash-simulator-cruise-ship-sun-deck-summer-2024.json](./312018-powerwash-simulator-cruise-ship-sun-deck-summer-2024.json) |
 | PowerWash Simulator: Halloween Seasonal 2024 | 320757 | [320757-powerwash-simulator-halloween-seasonal-2024.json](./320757-powerwash-simulator-halloween-seasonal-2024.json) |
+| PowerWash Simulator: Ice Rink - Winter 2024 | 324567 | [324567-powerwash-simulator-ice-rink-winter-2024.json](./324567-powerwash-simulator-ice-rink-winter-2024.json) |
 | PowerWash Simulator: Muckingham Files - Part 5 | 340590 | [340590-powerwash-simulator-muckingham-files-part-5.json](./340590-powerwash-simulator-muckingham-files-part-5.json) |
 | PowerWash Simulator: Santa's Workshop - Winter 2023 | 280540 | [280540-powerwash-simulator-santas-workshop-winter-2023.json](./280540-powerwash-simulator-santas-workshop-winter-2023.json) |
 | PowerWash Simulator: Shrek Special Pack | 314930 | [314930-powerwash-simulator-shrek-special-pack.json](./314930-powerwash-simulator-shrek-special-pack.json) |
@@ -8379,6 +8382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Predictors | 219666 | [219666-predictors.json](./219666-predictors.json) |
 | Preekarity | 319653 | [319653-preekarity.json](./319653-preekarity.json) |
 | Pref Club | 80796 | [80796-pref-club.json](./80796-pref-club.json) |
+| Preface: Undiscovered World | 324577 | [324577-preface-undiscovered-world.json](./324577-preface-undiscovered-world.json) |
 | Pregnancy | 35722 | [35722-pregnancy.json](./35722-pregnancy.json) |
 | Pregnant Mom Emergency Surgery | 99421 | [99421-pregnant-mom-emergency-surgery.json](./99421-pregnant-mom-emergency-surgery.json) |
 | Pregnant Mom Virtual Family Neighbor Helper | 96001 | [96001-pregnant-mom-virtual-family-neighbor-helper.json](./96001-pregnant-mom-virtual-family-neighbor-helper.json) |
@@ -9296,6 +9300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Aeroes | 330342 | [330342-project-aeroes.json](./330342-project-aeroes.json) |
 | Project Aftershock | 94753 | [94753-project-aftershock.json](./94753-project-aftershock.json) |
 | Project Agora | 140326 | [140326-project-agora.json](./140326-project-agora.json) |
+| Project Alpha | 324347 | [324347-project-alpha.json](./324347-project-alpha.json) |
 | Project Alpha 002 | 30943 | [30943-project-alpha-002.json](./30943-project-alpha-002.json) |
 | Project Angels | 203310 | [203310-project-angels.json](./203310-project-angels.json) |
 | Project Anomaly | 193952 | [193952-project-anomaly.json](./193952-project-anomaly.json) |
@@ -9833,6 +9838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Projekt: Passion - Season 2 | 297187 | [297187-projekt-passion-season-2.json](./297187-projekt-passion-season-2.json) |
 | Prokshov | 143728 | [143728-prokshov.json](./143728-prokshov.json) |
 | Prologue | 127345 | [127345-prologue.json](./127345-prologue.json) |
+| Prologue: Go Wayback! | 324576 | [324576-prologue-go-wayback.json](./324576-prologue-go-wayback.json) |
 | Promessa | 329677 | [329677-promessa.json](./329677-promessa.json) |
 | Promethean Thirst | 405695 | [405695-promethean-thirst.json](./405695-promethean-thirst.json) |
 | Prometheus Unbound | 182896 | [182896-prometheus-unbound.json](./182896-prometheus-unbound.json) |
