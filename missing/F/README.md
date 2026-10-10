@@ -3016,6 +3016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Boss | 410170 | [410170-final-boss.json](./410170-final-boss.json) |
 | Final Bravely | 29899 | [29899-final-bravely.json](./29899-final-bravely.json) |
 | Final Clash: Buried Treasures | 109547 | [109547-final-clash-buried-treasures.json](./109547-final-clash-buried-treasures.json) |
+| Final Clue Oakloon | 285409 | [285409-final-clue-oakloon.json](./285409-final-clue-oakloon.json) |
 | Final Combat | 195066 | [195066-final-combat.json](./195066-final-combat.json) |
 | Final Command | 71586 | [71586-final-command.json](./71586-final-command.json) |
 | Final Commando: Akai Yousai | 41266 | [41266-final-commando-akai-yousai.json](./41266-final-commando-akai-yousai.json) |
@@ -6547,6 +6548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forza Motorsport: 2019 Toyota 86 TRD SE | 295479 | [295479-forza-motorsport-2019-toyota-86-trd-se.json](./295479-forza-motorsport-2019-toyota-86-trd-se.json) |
 | Forza Motorsport: 2020 Audi TT RS Coupe | 295482 | [295482-forza-motorsport-2020-audi-tt-rs-coupe.json](./295482-forza-motorsport-2020-audi-tt-rs-coupe.json) |
 | Forza Motorsport: 2020 Lexus #14 VASSER SULLIVAN RC F GT3 | 295478 | [295478-forza-motorsport-2020-lexus-14-vasser-sullivan-rc-f-gt3.json](./295478-forza-motorsport-2020-lexus-14-vasser-sullivan-rc-f-gt3.json) |
+| Forza Motorsport: 2021 Cadillac #31 Whelen Racing DPi-V.R | 285380 | [285380-forza-motorsport-2021-cadillac-31-whelen-racing-dpi-v-r.json](./285380-forza-motorsport-2021-cadillac-31-whelen-racing-dpi-v-r.json) |
 | Forza Motorsport: 2024 Ford Mustang Dark Horse | 361778 | [361778-forza-motorsport-2024-ford-mustang-dark-horse.json](./361778-forza-motorsport-2024-ford-mustang-dark-horse.json) |
 | Forza Motorsport: Deluxe Edition | 271467 | [271467-forza-motorsport-deluxe-edition.json](./271467-forza-motorsport-deluxe-edition.json) |
 | Forza Motorsport: Porsche 963 Combo | 316395 | [316395-forza-motorsport-porsche-963-combo.json](./316395-forza-motorsport-porsche-963-combo.json) |
