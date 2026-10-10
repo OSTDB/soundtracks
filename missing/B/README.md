@@ -8038,6 +8038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boom! | 203894 | [203894-boom.json](./203894-boom.json) |
 | Boom! | 251582 | [251582-boom.json](./251582-boom.json) |
 | Boom! Boom! | 115691 | [115691-boom-boom.json](./115691-boom-boom.json) |
+| Boom! Buster | 278963 | [278963-boom-buster.json](./278963-boom-buster.json) |
 | Boom! Maze | 86421 | [86421-boom-maze.json](./86421-boom-maze.json) |
 | Boom! Tanks | 62778 | [62778-boom-tanks.json](./62778-boom-tanks.json) |
 | Boom! VR | 158069 | [158069-boom-vr.json](./158069-boom-vr.json) |
