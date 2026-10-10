@@ -2599,6 +2599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Guardian | 123527 | [123527-night-guardian.json](./123527-night-guardian.json) |
 | Night Gunner | 46078 | [46078-night-gunner.json](./46078-night-gunner.json) |
 | Night Gunner: Final Mission | 55843 | [55843-night-gunner-final-mission.json](./55843-night-gunner-final-mission.json) |
+| Night Hacking | 318117 | [318117-night-hacking.json](./318117-night-hacking.json) |
 | Night Hazard | 329110 | [329110-night-hazard.json](./329110-night-hazard.json) |
 | Night Head: The Labyrinth | 123475 | [123475-night-head-the-labyrinth.json](./123475-night-head-the-labyrinth.json) |
 | Night Hike | 385376 | [385376-night-hike.json](./385376-night-hike.json) |
