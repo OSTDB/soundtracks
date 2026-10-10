@@ -2464,6 +2464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadly Moves | 46225 | [46225-deadly-moves.json](./46225-deadly-moves.json) |
 | Deadly Night | 207405 | [207405-deadly-night.json](./207405-deadly-night.json) |
 | Deadly Nightmare | 190084 | [190084-deadly-nightmare.json](./190084-deadly-nightmare.json) |
+| Deadly Nightmare Unwanted Heritage | 278934 | [278934-deadly-nightmare-unwanted-heritage.json](./278934-deadly-nightmare-unwanted-heritage.json) |
 | Deadly Parkour | 295407 | [295407-deadly-parkour.json](./295407-deadly-parkour.json) |
 | Deadly Path | 118264 | [118264-deadly-path.json](./118264-deadly-path.json) |
 | Deadly Premonition | 1276 | [1276-deadly-premonition.json](./1276-deadly-premonition.json) |
@@ -5926,6 +5927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dire Island | 290482 | [290482-dire-island.json](./290482-dire-island.json) |
 | Dire Vengeance | 170344 | [170344-dire-vengeance.json](./170344-dire-vengeance.json) |
 | Dire Vengeance: Deluxe | 223570 | [223570-dire-vengeance-deluxe.json](./223570-dire-vengeance-deluxe.json) |
+| Dire: Flesh and Phobia | 278916 | [278916-dire-flesh-and-phobia.json](./278916-dire-flesh-and-phobia.json) |
 | Direct | 70706 | [70706-direct.json](./70706-direct.json) |
 | Direct-X | 292146 | [292146-direct-x.json](./292146-direct-x.json) |
 | Direction! Level Up! | 306359 | [306359-direction-level-up.json](./306359-direction-level-up.json) |
@@ -9889,6 +9891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamsend: Wintersong | 411537 | [411537-dreamsend-wintersong.json](./411537-dreamsend-wintersong.json) |
 | Dreamshard | 132750 | [132750-dreamshard.json](./132750-dreamshard.json) |
 | DreamShock | 316159 | [316159-dreamshock.json](./316159-dreamshock.json) |
+| Dreamshot Fantasia | 278914 | [278914-dreamshot-fantasia.json](./278914-dreamshot-fantasia.json) |
 | DreamSleuth: hidden object adventure quest lite | 88311 | [88311-dreamsleuth-hidden-object-adventure-quest-lite.json](./88311-dreamsleuth-hidden-object-adventure-quest-lite.json) |
 | Dreamspace | 323342 | [323342-dreamspace.json](./323342-dreamspace.json) |
 | Dreamspaces | 181682 | [181682-dreamspaces.json](./181682-dreamspaces.json) |
@@ -10801,6 +10804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dumb Ways to Draw | 231864 | [231864-dumb-ways-to-draw.json](./231864-dumb-ways-to-draw.json) |
 | Dumb Ways to Draw 2 | 231861 | [231861-dumb-ways-to-draw-2.json](./231861-dumb-ways-to-draw-2.json) |
 | Dumb Ways to Survive | 297229 | [297229-dumb-ways-to-survive.json](./297229-dumb-ways-to-survive.json) |
+| Dumball Rush | 278950 | [278950-dumball-rush.json](./278950-dumball-rush.json) |
 | Dumbass Survivors | 344338 | [344338-dumbass-survivors.json](./344338-dumbass-survivors.json) |
 | Dumbino | 307569 | [307569-dumbino.json](./307569-dumbino.json) |
 | Dumbot | 330173 | [330173-dumbot.json](./330173-dumbot.json) |
