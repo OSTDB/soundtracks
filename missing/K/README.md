@@ -2550,8 +2550,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kiwi | 186256 | [186256-kiwi.json](./186256-kiwi.json) |
 | Kiwi | 306688 | [306688-kiwi.json](./306688-kiwi.json) |
 | Kiwi 64 | 128579 | [128579-kiwi-64.json](./128579-kiwi-64.json) |
+| Kiwi Climber | 306719 | [306719-kiwi-climber.json](./306719-kiwi-climber.json) |
 | Kiwi Farm | 246101 | [246101-kiwi-farm.json](./246101-kiwi-farm.json) |
 | Kiwi Game | 306689 | [306689-kiwi-game.json](./306689-kiwi-game.json) |
+| Kiwi Hop | 306716 | [306716-kiwi-hop.json](./306716-kiwi-hop.json) |
+| Kiwi In Arms | 306718 | [306718-kiwi-in-arms.json](./306718-kiwi-in-arms.json) |
+| Kiwi Khaos | 306715 | [306715-kiwi-khaos.json](./306715-kiwi-khaos.json) |
+| Kiwi Life | 306713 | [306713-kiwi-life.json](./306713-kiwi-life.json) |
 | Kiwi: Airborne | 306690 | [306690-kiwi-airborne.json](./306690-kiwi-airborne.json) |
 | Kiwi'n | 309450 | [309450-kiwin.json](./309450-kiwin.json) |
 | Kiwi's Adventure | 367946 | [367946-kiwis-adventure.json](./367946-kiwis-adventure.json) |
