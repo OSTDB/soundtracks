@@ -2712,6 +2712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epic Word Search Holiday Special | 85123 | [85123-epic-word-search-holiday-special.json](./85123-epic-word-search-holiday-special.json) |
 | Epic World | 126970 | [126970-epic-world.json](./126970-epic-world.json) |
 | Epic Zombies | 293620 | [293620-epic-zombies.json](./293620-epic-zombies.json) |
+| Epic! The Humorous RPG | 313992 | [313992-epic-the-humorous-rpg.json](./313992-epic-the-humorous-rpg.json) |
 | Epica | 31048 | [31048-epica.json](./31048-epica.json) |
 | Epicedium | 102797 | [102797-epicedium.json](./102797-epicedium.json) |
 | Epicenter VR | 212168 | [212168-epicenter-vr.json](./212168-epicenter-vr.json) |
