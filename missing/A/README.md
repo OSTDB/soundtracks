@@ -1152,6 +1152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Absolute Territory: The Space Combat Simulator | 137997 | [137997-absolute-territory-the-space-combat-simulator.json](./137997-absolute-territory-the-space-combat-simulator.json) |
 | Absolute VR Experiences | 104064 | [104064-absolute-vr-experiences.json](./104064-absolute-vr-experiences.json) |
 | Absolute X | 92602 | [92602-absolute-x.json](./92602-absolute-x.json) |
+| Absolute-Full-Life | 316948 | [316948-absolute-full-life.json](./316948-absolute-full-life.json) |
 | Absolute: Asse raus! | 92288 | [92288-absolute-asse-raus.json](./92288-absolute-asse-raus.json) |
 | Absolute: Blazing Infinity | 78616 | [78616-absolute-blazing-infinity.json](./78616-absolute-blazing-infinity.json) |
 | Absolutely Goode Championship | 161358 | [161358-absolutely-goode-championship.json](./161358-absolutely-goode-championship.json) |
@@ -3995,6 +3996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aliens | 13680 | [13680-aliens.json](./13680-aliens.json) |
 | Aliens | 186868 | [186868-aliens.json](./186868-aliens.json) |
 | Aliens | 290101 | [290101-aliens.json](./290101-aliens.json) |
+| Aliens | 316929 | [316929-aliens.json](./316929-aliens.json) |
 | Aliens Adventure | 149488 | [149488-aliens-adventure.json](./149488-aliens-adventure.json) |
 | Aliens After Ava | 211212 | [211212-aliens-after-ava.json](./211212-aliens-after-ava.json) |
 | Aliens and Asteroids | 296515 | [296515-aliens-and-asteroids.json](./296515-aliens-and-asteroids.json) |
@@ -4279,6 +4281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Allegro Molto ga Ikinokoru Game | 416658 | [416658-allegro-molto-ga-ikinokoru-game.json](./416658-allegro-molto-ga-ikinokoru-game.json) |
 | Allegro Molto wo Hakobu Game | 339094 | [339094-allegro-molto-wo-hakobu-game.json](./339094-allegro-molto-wo-hakobu-game.json) |
 | Allegro Molto wo Kiku Game | 355188 | [355188-allegro-molto-wo-kiku-game.json](./355188-allegro-molto-wo-kiku-game.json) |
+| Allegro: The Melodic Warrior | 316973 | [316973-allegro-the-melodic-warrior.json](./316973-allegro-the-melodic-warrior.json) |
 | Allemand avec Rayman | 193347 | [193347-allemand-avec-rayman.json](./193347-allemand-avec-rayman.json) |
 | Allergenium | 107395 | [107395-allergenium.json](./107395-allergenium.json) |
 | Allergy Assassin | 180717 | [180717-allergy-assassin.json](./180717-allergy-assassin.json) |
