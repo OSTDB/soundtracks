@@ -21,6 +21,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Bee Movie Game But Every Time You Beat It It Gets Faster | 326590 | [326590-a-bee-movie-game-but-every-time-you-beat-it-it-gets-faster.json](./326590-a-bee-movie-game-but-every-time-you-beat-it-it-gets-faster.json) |
 | A Better Mouse Trap | 71170 | [71170-a-better-mouse-trap.json](./71170-a-better-mouse-trap.json) |
 | A Better Schlo Dating Simulation | 298788 | [298788-a-better-schlo-dating-simulation.json](./298788-a-better-schlo-dating-simulation.json) |
+| A Better World | 325726 | [325726-a-better-world.json](./325726-a-better-world.json) |
 | A Better World | 345591 | [345591-a-better-world.json](./345591-a-better-world.json) |
 | A Bewitching Revolution | 124258 | [124258-a-bewitching-revolution.json](./124258-a-bewitching-revolution.json) |
 | A Bibelot: Prototo | 314676 | [314676-a-bibelot-prototo.json](./314676-a-bibelot-prototo.json) |
