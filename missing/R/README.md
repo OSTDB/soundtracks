@@ -3137,6 +3137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RepairBot | 114403 | [114403-repairbot.json](./114403-repairbot.json) |
 | Repairny | 204073 | [204073-repairny.json](./204073-repairny.json) |
 | Reparative | 177376 | [177376-reparative.json](./177376-reparative.json) |
+| Repeat After Death | 327162 | [327162-repeat-after-death.json](./327162-repeat-after-death.json) |
 | Repeat It Back To Me | 397840 | [397840-repeat-it-back-to-me.json](./397840-repeat-it-back-to-me.json) |
 | Repeat the Ending | 275602 | [275602-repeat-the-ending.json](./275602-repeat-the-ending.json) |
 | Repeater | 374837 | [374837-repeater.json](./374837-repeater.json) |
@@ -6658,6 +6659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rootless | 377198 | [377198-rootless.json](./377198-rootless.json) |
 | Rootlify | 413110 | [413110-rootlify.json](./413110-rootlify.json) |
 | Rootman: Bodycam Horror Footage | 238197 | [238197-rootman-bodycam-horror-footage.json](./238197-rootman-bodycam-horror-footage.json) |
+| Rootmare | 327164 | [327164-rootmare.json](./327164-rootmare.json) |
 | Rootnote | 402529 | [402529-rootnote.json](./402529-rootnote.json) |
 | Roots | 249440 | [249440-roots.json](./249440-roots.json) |
 | Roots And Sprouts | 401539 | [401539-roots-and-sprouts.json](./401539-roots-and-sprouts.json) |
