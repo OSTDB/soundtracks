@@ -1716,6 +1716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Generation Zero: Fnix Rising | 150087 | [150087-generation-zero-fnix-rising.json](./150087-generation-zero-fnix-rising.json) |
 | Generation Zero: Gold Bundle | 284859 | [284859-generation-zero-gold-bundle.json](./284859-generation-zero-gold-bundle.json) |
 | Generation Zero: Motorbikes Pack | 234917 | [234917-generation-zero-motorbikes-pack.json](./234917-generation-zero-motorbikes-pack.json) |
+| Generation Zero: Reinforced Flakmoped Pack | 280141 | [280141-generation-zero-reinforced-flakmoped-pack.json](./280141-generation-zero-reinforced-flakmoped-pack.json) |
 | Generation Zero: Resistance Bundle | 164785 | [164785-generation-zero-resistance-bundle.json](./164785-generation-zero-resistance-bundle.json) |
 | Generation Zero: Rivals and Experimental Weapons | 234932 | [234932-generation-zero-rivals-and-experimental-weapons.json](./234932-generation-zero-rivals-and-experimental-weapons.json) |
 | Generation Zero: Schweet Vanity Pack | 226798 | [226798-generation-zero-schweet-vanity-pack.json](./226798-generation-zero-schweet-vanity-pack.json) |
