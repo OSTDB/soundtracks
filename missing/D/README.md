@@ -5022,6 +5022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diablo IV: Season of Divine Intervention | 380541 | [380541-diablo-iv-season-of-divine-intervention.json](./380541-diablo-iv-season-of-divine-intervention.json) |
 | Diablo IV: Season of Hatred Rising | 314387 | [314387-diablo-iv-season-of-hatred-rising.json](./314387-diablo-iv-season-of-hatred-rising.json) |
 | Diablo IV: Season of Infernal Chaos | 372053 | [372053-diablo-iv-season-of-infernal-chaos.json](./372053-diablo-iv-season-of-infernal-chaos.json) |
+| Diablo IV: Season of the Construct | 283102 | [283102-diablo-iv-season-of-the-construct.json](./283102-diablo-iv-season-of-the-construct.json) |
 | Diablo IV: Season of the Infernal Hordes | 312216 | [312216-diablo-iv-season-of-the-infernal-hordes.json](./312216-diablo-iv-season-of-the-infernal-hordes.json) |
 | Diablo IV: Season of Witchcraft | 328937 | [328937-diablo-iv-season-of-witchcraft.json](./328937-diablo-iv-season-of-witchcraft.json) |
 | Diablo IV: Sins of the Horadrim | 352222 | [352222-diablo-iv-sins-of-the-horadrim.json](./352222-diablo-iv-sins-of-the-horadrim.json) |
@@ -6001,6 +6002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dis Pontibus 2 | 203950 | [203950-dis-pontibus-2.json](./203950-dis-pontibus-2.json) |
 | Disappearance of the Literature Club | 333611 | [333611-disappearance-of-the-literature-club.json](./333611-disappearance-of-the-literature-club.json) |
 | Disappearance Time | 71012 | [71012-disappearance-time.json](./71012-disappearance-time.json) |
+| Disappearance: Takeshi. You were right. That Abandoned Village is Too Bad | 283096 | [283096-disappearance-takeshi-you-were-right-that-abandoned-village-is-too-bad.json](./283096-disappearance-takeshi-you-were-right-that-abandoned-village-is-too-bad.json) |
 | Disassembly 3D | 75660 | [75660-disassembly-3d.json](./75660-disassembly-3d.json) |
 | Disaster | 186809 | [186809-disaster.json](./186809-disaster.json) |
 | Disaster Area | 236283 | [236283-disaster-area.json](./236283-disaster-area.json) |
@@ -6161,6 +6163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disgaea 7: Vows of the Virtueless - Cosmetic Set | 270298 | [270298-disgaea-7-vows-of-the-virtueless-cosmetic-set.json](./270298-disgaea-7-vows-of-the-virtueless-cosmetic-set.json) |
 | Disgaea 7: Vows of the Virtueless - Costumes Set | 270294 | [270294-disgaea-7-vows-of-the-virtueless-costumes-set.json](./270294-disgaea-7-vows-of-the-virtueless-costumes-set.json) |
 | Disgaea 7: Vows of the Virtueless - Digital Deluxe Edition | 270295 | [270295-disgaea-7-vows-of-the-virtueless-digital-deluxe-edition.json](./270295-disgaea-7-vows-of-the-virtueless-digital-deluxe-edition.json) |
+| Disgaea 7: Vows of the Virtueless - Limited Edition | 283125 | [283125-disgaea-7-vows-of-the-virtueless-limited-edition.json](./283125-disgaea-7-vows-of-the-virtueless-limited-edition.json) |
 | Disgaea 7: Vows of the Virtueless - Season Pass | 270287 | [270287-disgaea-7-vows-of-the-virtueless-season-pass.json](./270287-disgaea-7-vows-of-the-virtueless-season-pass.json) |
 | Disgaea D2: A Brighter Darkness | 7299 | [7299-disgaea-d2-a-brighter-darkness.json](./7299-disgaea-d2-a-brighter-darkness.json) |
 | Disgaea Infinite | 21742 | [21742-disgaea-infinite.json](./21742-disgaea-infinite.json) |
@@ -9719,6 +9722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Travel Agency! | 197244 | [197244-dream-travel-agency.json](./197244-dream-travel-agency.json) |
 | Dream Trials | 371412 | [371412-dream-trials.json](./371412-dream-trials.json) |
 | Dream Trigger 3D | 21141 | [21141-dream-trigger-3d.json](./21141-dream-trigger-3d.json) |
+| Dream Tube | 283122 | [283122-dream-tube.json](./283122-dream-tube.json) |
 | Dream TV | 93573 | [93573-dream-tv.json](./93573-dream-tv.json) |
 | Dream Undercity | 248065 | [248065-dream-undercity.json](./248065-dream-undercity.json) |
 | Dream Univrse | 30784 | [30784-dream-univrse.json](./30784-dream-univrse.json) |
