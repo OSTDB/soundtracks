@@ -575,6 +575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sakura Succubus 3 | 152892 | [152892-sakura-succubus-3.json](./152892-sakura-succubus-3.json) |
 | Sakura Succubus 5 | 193262 | [193262-sakura-succubus-5.json](./193262-sakura-succubus-5.json) |
 | Sakura Succubus 8 | 353952 | [353952-sakura-succubus-8.json](./353952-sakura-succubus-8.json) |
+| Sakura Succubus 9 | 315199 | [315199-sakura-succubus-9.json](./315199-sakura-succubus-9.json) |
 | Sakura Succubus Bundle | 203228 | [203228-sakura-succubus-bundle.json](./203228-sakura-succubus-bundle.json) |
 | Sakura Sunshine | 215911 | [215911-sakura-sunshine.json](./215911-sakura-sunshine.json) |
 | Sakura Sweetheart | 135893 | [135893-sakura-sweetheart.json](./135893-sakura-sweetheart.json) |
@@ -4820,6 +4821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shelled Flame | 182528 | [182528-shelled-flame.json](./182528-shelled-flame.json) |
 | Shelley Duvall's It's a Bird's Life | 79294 | [79294-shelley-duvalls-its-a-birds-life.json](./79294-shelley-duvalls-its-a-birds-life.json) |
 | Shelley Duvall's Tales of Digby the Dog | 336740 | [336740-shelley-duvalls-tales-of-digby-the-dog.json](./336740-shelley-duvalls-tales-of-digby-the-dog.json) |
+| Shelley Manor | 315223 | [315223-shelley-manor.json](./315223-shelley-manor.json) |
 | ShellFire | 193826 | [193826-shellfire.json](./193826-shellfire.json) |
 | Shellguard: Starbound Expansion Remastered | 357316 | [357316-shellguard-starbound-expansion-remastered.json](./357316-shellguard-starbound-expansion-remastered.json) |
 | Shellie's Secret | 378169 | [378169-shellies-secret.json](./378169-shellies-secret.json) |
@@ -14142,6 +14144,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sqdef | 194297 | [194297-sqdef.json](./194297-sqdef.json) |
 | SQGT | 332647 | [332647-sqgt.json](./332647-sqgt.json) |
 | Sqiek | 78903 | [78903-sqiek.json](./78903-sqiek.json) |
+| Sqij | 315197 | [315197-sqij.json](./315197-sqij.json) |
+| Sqij Arcade | 315198 | [315198-sqij-arcade.json](./315198-sqij-arcade.json) |
+| Sqij'd | 315196 | [315196-sqijd.json](./315196-sqijd.json) |
 | SQL Murder Mystery | 401188 | [401188-sql-murder-mystery.json](./401188-sql-murder-mystery.json) |
 | SQR | 333793 | [333793-sqr.json](./333793-sqr.json) |
 | Sqr 3 | 334766 | [334766-sqr-3.json](./334766-sqr-3.json) |
