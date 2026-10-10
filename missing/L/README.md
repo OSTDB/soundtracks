@@ -1465,6 +1465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lefties' Righteous Arcade Emporium | 289305 | [289305-lefties-righteous-arcade-emporium.json](./289305-lefties-righteous-arcade-emporium.json) |
 | Leftovers | 221977 | [221977-leftovers.json](./221977-leftovers.json) |
 | Lefty | 178636 | [178636-lefty.json](./178636-lefty.json) |
+| Lefty | 309955 | [309955-lefty.json](./309955-lefty.json) |
 | Leg Day: Four Steps Through Hell | 415992 | [415992-leg-day-four-steps-through-hell.json](./415992-leg-day-four-steps-through-hell.json) |
 | Legacies of Dondoran | 228999 | [228999-legacies-of-dondoran.json](./228999-legacies-of-dondoran.json) |
 | Legacy | 159240 | [159240-legacy.json](./159240-legacy.json) |
