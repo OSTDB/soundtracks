@@ -3029,6 +3029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Who Wants To Be A Millionaire? 2013 | 314041 | [314041-who-wants-to-be-a-millionaire-2013.json](./314041-who-wants-to-be-a-millionaire-2013.json) |
 | Who Wants To Be A Millionaire?: Complete Edition | 324358 | [324358-who-wants-to-be-a-millionaire-complete-edition.json](./324358-who-wants-to-be-a-millionaire-complete-edition.json) |
 | Who Wants To Be A Millionaire?: Geography II | 282213 | [282213-who-wants-to-be-a-millionaire-geography-ii.json](./282213-who-wants-to-be-a-millionaire-geography-ii.json) |
+| Who Wants To Be A Millionaire?: Tintin Pack | 296250 | [296250-who-wants-to-be-a-millionaire-tintin-pack.json](./296250-who-wants-to-be-a-millionaire-tintin-pack.json) |
 | Who Wants to Be a Murderer? | 292116 | [292116-who-wants-to-be-a-murderer.json](./292116-who-wants-to-be-a-murderer.json) |
 | Who Wants To Be King?! | 406257 | [406257-who-wants-to-be-king.json](./406257-who-wants-to-be-king.json) |
 | Who Wants to Beat Up a Millionaire | 45848 | [45848-who-wants-to-beat-up-a-millionaire.json](./45848-who-wants-to-beat-up-a-millionaire.json) |
@@ -5818,6 +5819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WWE 2K24: ECW Punk Pack | 311076 | [311076-wwe-2k24-ecw-punk-pack.json](./311076-wwe-2k24-ecw-punk-pack.json) |
 | WWE 2K24: Global Superstars Pack | 332035 | [332035-wwe-2k24-global-superstars-pack.json](./332035-wwe-2k24-global-superstars-pack.json) |
 | WWE 2K24: MyRISE Mega-Boost | 332034 | [332034-wwe-2k24-myrise-mega-boost.json](./332034-wwe-2k24-myrise-mega-boost.json) |
+| WWE 2K24: Nightmare Family Pack | 296252 | [296252-wwe-2k24-nightmare-family-pack.json](./296252-wwe-2k24-nightmare-family-pack.json) |
 | WWE 2K24: Pat McAfee Show Pack | 332036 | [332036-wwe-2k24-pat-mcafee-show-pack.json](./332036-wwe-2k24-pat-mcafee-show-pack.json) |
 | WWE 2K24: Post Malone & Friends Pack | 322712 | [322712-wwe-2k24-post-malone-and-friends-pack.json](./322712-wwe-2k24-post-malone-and-friends-pack.json) |
 | WWE 2K24: WCW Pack | 332033 | [332033-wwe-2k24-wcw-pack.json](./332033-wwe-2k24-wcw-pack.json) |
