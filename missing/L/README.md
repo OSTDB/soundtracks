@@ -3560,6 +3560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Duty 1 | 249444 | [249444-little-duty-1.json](./249444-little-duty-1.json) |
 | Little Eden | 260208 | [260208-little-eden.json](./260208-little-eden.json) |
 | Little Einsteins | 231500 | [231500-little-einsteins.json](./231500-little-einsteins.json) |
+| Little Fairy Dress Up | 332496 | [332496-little-fairy-dress-up.json](./332496-little-fairy-dress-up.json) |
 | Little Farm Island | 385326 | [385326-little-farm-island.json](./385326-little-farm-island.json) |
 | Little Fiefdom: Medieval | 390259 | [390259-little-fiefdom-medieval.json](./390259-little-fiefdom-medieval.json) |
 | Little fight | 84477 | [84477-little-fight.json](./84477-little-fight.json) |
@@ -5758,6 +5759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lullaby | 256805 | [256805-lullaby.json](./256805-lullaby.json) |
 | Lullaby Data | 311639 | [311639-lullaby-data.json](./311639-lullaby-data.json) |
 | Lullaby Days | 166703 | [166703-lullaby-days.json](./166703-lullaby-days.json) |
+| Lullaby of Lost Soul | 332460 | [332460-lullaby-of-lost-soul.json](./332460-lullaby-of-lost-soul.json) |
 | Lulu & Ennoi: Sacred Suit Girls | 119621 | [119621-lulu-and-ennoi-sacred-suit-girls.json](./119621-lulu-and-ennoi-sacred-suit-girls.json) |
 | Lulu Fighter for LOL | 243096 | [243096-lulu-fighter-for-lol.json](./243096-lulu-fighter-for-lol.json) |
 | Lulu's Temple | 195696 | [195696-lulus-temple.json](./195696-lulus-temple.json) |
