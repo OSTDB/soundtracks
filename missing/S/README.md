@@ -1797,6 +1797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scene It? Comedy Movies | 66154 | [66154-scene-it-comedy-movies.json](./66154-scene-it-comedy-movies.json) |
 | Scene It? Doctor Who | 213945 | [213945-scene-it-doctor-who.json](./213945-scene-it-doctor-who.json) |
 | Scene It? Harry Potter | 66155 | [66155-scene-it-harry-potter.json](./66155-scene-it-harry-potter.json) |
+| Scene It? Movie Mania | 287549 | [287549-scene-it-movie-mania.json](./287549-scene-it-movie-mania.json) |
 | Scene It? Movie Night | 41581 | [41581-scene-it-movie-night.json](./41581-scene-it-movie-night.json) |
 | Scene It? Movie Night: Mega Movies | 65511 | [65511-scene-it-movie-night-mega-movies.json](./65511-scene-it-movie-night-mega-movies.json) |
 | Scene it? The Simpsons: Deluxe Edition | 23789 | [23789-scene-it-the-simpsons-deluxe-edition.json](./23789-scene-it-the-simpsons-deluxe-edition.json) |
@@ -2532,6 +2533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea Wolves | 73517 | [73517-sea-wolves.json](./73517-sea-wolves.json) |
 | Sea World | 246503 | [246503-sea-world.json](./246503-sea-world.json) |
 | Sea-Doo Hydrocross | 264853 | [264853-sea-doo-hydrocross.json](./264853-sea-doo-hydrocross.json) |
+| Sea-Man | 287550 | [287550-sea-man.json](./287550-sea-man.json) |
 | Seabed Frog | 211956 | [211956-seabed-frog.json](./211956-seabed-frog.json) |
 | Seabed Settlers | 310101 | [310101-seabed-settlers.json](./310101-seabed-settlers.json) |
 | SeaBlade | 47320 | [47320-seablade.json](./47320-seablade.json) |
@@ -5500,6 +5502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shnipers | 56484 | [56484-shnipers.json](./56484-shnipers.json) |
 | Sho Chiku Bai Pachinko | 41526 | [41526-sho-chiku-bai-pachinko.json](./41526-sho-chiku-bai-pachinko.json) |
 | Shoal | 172039 | [172039-shoal.json](./172039-shoal.json) |
+| Shock | 287552 | [287552-shock.json](./287552-shock.json) |
 | Shock Hop | 243089 | [243089-shock-hop.json](./243089-shock-hop.json) |
 | Shock Tactics | 18811 | [18811-shock-tactics.json](./18811-shock-tactics.json) |
 | Shock Troopers: 2nd Squad | 32778 | [32778-shock-troopers-2nd-squad.json](./32778-shock-troopers-2nd-squad.json) |
@@ -5571,6 +5574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ShooMachi | 142937 | [142937-shoomachi.json](./142937-shoomachi.json) |
 | Shoomer Booter | 287717 | [287717-shoomer-booter.json](./287717-shoomer-booter.json) |
 | Shooper Nova | 296512 | [296512-shooper-nova.json](./296512-shooper-nova.json) |
+| Shoot | 287553 | [287553-shoot.json](./287553-shoot.json) |
 | Shoot 'n' Smash | 340374 | [340374-shoot-n-smash.json](./340374-shoot-n-smash.json) |
 | Shoot & Destroy | 318527 | [318527-shoot-and-destroy.json](./318527-shoot-and-destroy.json) |
 | Shoot & Destroy X | 326169 | [326169-shoot-and-destroy-x.json](./326169-shoot-and-destroy-x.json) |
@@ -5676,6 +5680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shooting Trilogy | 61465 | [61465-shooting-trilogy.json](./61465-shooting-trilogy.json) |
 | Shooting Type | 163854 | [163854-shooting-type.json](./163854-shooting-type.json) |
 | Shooting Zombie | 245053 | [245053-shooting-zombie.json](./245053-shooting-zombie.json) |
+| Shootout | 287555 | [287555-shootout.json](./287555-shootout.json) |
 | ShootOut | 411615 | [411615-shootout.json](./411615-shootout.json) |
 | Shootout at the OK Galaxy | 24810 | [24810-shootout-at-the-ok-galaxy.json](./24810-shootout-at-the-ok-galaxy.json) |
 | Shootout on Cash Island | 28998 | [28998-shootout-on-cash-island.json](./28998-shootout-on-cash-island.json) |
@@ -5790,6 +5795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shot Online | 20574 | [20574-shot-online.json](./20574-shot-online.json) |
 | Shot Online Golf: World Championship | 70858 | [70858-shot-online-golf-world-championship.json](./70858-shot-online-golf-world-championship.json) |
 | Shot Online: Golf Battle | 233119 | [233119-shot-online-golf-battle.json](./233119-shot-online-golf-battle.json) |
+| Shot Put | 287556 | [287556-shot-put.json](./287556-shot-put.json) |
 | Shot Supreme | 253856 | [253856-shot-supreme.json](./253856-shot-supreme.json) |
 | Shot the Body | 126572 | [126572-shot-the-body.json](./126572-shot-the-body.json) |
 | Shot.io | 77424 | [77424-shot-io.json](./77424-shot-io.json) |
@@ -6450,6 +6456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent House | 177304 | [177304-silent-house.json](./177304-silent-house.json) |
 | Silent Hunt | 374694 | [374694-silent-hunt.json](./374694-silent-hunt.json) |
 | Silent Hunter | 15517 | [15517-silent-hunter.json](./15517-silent-hunter.json) |
+| Silent Hunter | 287557 | [287557-silent-hunter.json](./287557-silent-hunter.json) |
 | Silent Hunter 4: Wolves of the Pacific - U-Boat Missions | 994 | [994-silent-hunter-4-wolves-of-the-pacific-u-boat-missions.json](./994-silent-hunter-4-wolves-of-the-pacific-u-boat-missions.json) |
 | Silent Hunter 5: Battle of the Atlantic | 995 | [995-silent-hunter-5-battle-of-the-atlantic.json](./995-silent-hunter-5-battle-of-the-atlantic.json) |
 | Silent Hunter III | 870 | [870-silent-hunter-iii.json](./870-silent-hunter-iii.json) |
@@ -8545,6 +8552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slot! Pro Advance: Takarabune & Ooedo Sakura Fubuki 2 | 49813 | [49813-slot-pro-advance-takarabune-and-ooedo-sakura-fubuki-2.json](./49813-slot-pro-advance-takarabune-and-ooedo-sakura-fubuki-2.json) |
 | Slotbound | 411536 | [411536-slotbound.json](./411536-slotbound.json) |
 | Slotpark | 360765 | [360765-slotpark.json](./360765-slotpark.json) |
+| Slots | 287558 | [287558-slots.json](./287558-slots.json) |
 | Slots & Slaughter | 411731 | [411731-slots-and-slaughter.json](./411731-slots-and-slaughter.json) |
 | Slots Ancient | 232572 | [232572-slots-ancient.json](./232572-slots-ancient.json) |
 | Slots of Poker at Aces Casino | 147974 | [147974-slots-of-poker-at-aces-casino.json](./147974-slots-of-poker-at-aces-casino.json) |
@@ -9283,6 +9291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sniks | 121518 | [121518-sniks.json](./121518-sniks.json) |
 | Snip It! | 292247 | [292247-snip-it.json](./292247-snip-it.json) |
 | Snipe Hunt | 198313 | [198313-snipe-hunt.json](./198313-snipe-hunt.json) |
+| Sniper | 287559 | [287559-sniper.json](./287559-sniper.json) |
 | Sniper 3D | 311780 | [311780-sniper-3d.json](./311780-sniper-3d.json) |
 | Sniper 3D: Fun FPS Shooting | 87378 | [87378-sniper-3d-fun-fps-shooting.json](./87378-sniper-3d-fun-fps-shooting.json) |
 | Sniper and Spotter Climbing a Tower | 125950 | [125950-sniper-and-spotter-climbing-a-tower.json](./125950-sniper-and-spotter-climbing-a-tower.json) |
@@ -10934,6 +10943,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Robo Blast 2: Frontiers Adaptation Project | 264858 | [264858-sonic-robo-blast-2-frontiers-adaptation-project.json](./264858-sonic-robo-blast-2-frontiers-adaptation-project.json) |
 | Sonic Robo Blast 2: Heroes | 304182 | [304182-sonic-robo-blast-2-heroes.json](./304182-sonic-robo-blast-2-heroes.json) |
 | Sonic Robo Blast 2: N64 Mario | 307659 | [307659-sonic-robo-blast-2-n64-mario.json](./307659-sonic-robo-blast-2-n64-mario.json) |
+| Sonic Robo Blast 2: Official Level Design Collab 2023 - Round 1 | 287586 | [287586-sonic-robo-blast-2-official-level-design-collab-2023-round-1.json](./287586-sonic-robo-blast-2-official-level-design-collab-2023-round-1.json) |
+| Sonic Robo Blast 2: Official Level Design Collab 2023 - Round 2 | 287581 | [287581-sonic-robo-blast-2-official-level-design-collab-2023-round-2.json](./287581-sonic-robo-blast-2-official-level-design-collab-2023-round-2.json) |
 | Sonic Robo Blast 2: Official Level Design Contest - Autumn 2020 | 287674 | [287674-sonic-robo-blast-2-official-level-design-contest-autumn-2020.json](./287674-sonic-robo-blast-2-official-level-design-contest-autumn-2020.json) |
 | Sonic Robo Blast 2: Official Level Design Contest 2021- Round 1 | 287670 | [287670-sonic-robo-blast-2-official-level-design-contest-2021-round-1.json](./287670-sonic-robo-blast-2-official-level-design-contest-2021-round-1.json) |
 | Sonic Robo Blast 2: Official Level Design Contest 2021- Round 2 | 287668 | [287668-sonic-robo-blast-2-official-level-design-contest-2021-round-2.json](./287668-sonic-robo-blast-2-official-level-design-contest-2021-round-2.json) |
@@ -13251,6 +13262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spelp | 232711 | [232711-spelp.json](./232711-spelp.json) |
 | Speluncaphobia | 236414 | [236414-speluncaphobia.json](./236414-speluncaphobia.json) |
 | SpeluNikki | 269738 | [269738-spelunikki.json](./269738-spelunikki.json) |
+| Spelunker | 287593 | [287593-spelunker.json](./287593-spelunker.json) |
 | Spelunker Black | 81451 | [81451-spelunker-black.json](./81451-spelunker-black.json) |
 | Spelunker HD | 45281 | [45281-spelunker-hd.json](./45281-spelunker-hd.json) |
 | Spelunker HD Deluxe: Limited Edition | 167149 | [167149-spelunker-hd-deluxe-limited-edition.json](./167149-spelunker-hd-deluxe-limited-edition.json) |
@@ -14711,6 +14723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Arthur Densetsu I: Wakusei Mephius | 65513 | [65513-star-arthur-densetsu-i-wakusei-mephius.json](./65513-star-arthur-densetsu-i-wakusei-mephius.json) |
 | Star Ash Fleet | 345081 | [345081-star-ash-fleet.json](./345081-star-ash-fleet.json) |
 | Star Assault | 53653 | [53653-star-assault.json](./53653-star-assault.json) |
+| Star Attack | 287560 | [287560-star-attack.json](./287560-star-attack.json) |
 | Star Ball | 84472 | [84472-star-ball.json](./84472-star-ball.json) |
 | Star Battalion | 203231 | [203231-star-battalion.json](./203231-star-battalion.json) |
 | Star Beads | 329007 | [329007-star-beads.json](./329007-star-beads.json) |
@@ -17720,6 +17733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stroker | 84315 | [84315-stroker.json](./84315-stroker.json) |
 | Stroll | 216862 | [216862-stroll.json](./216862-stroll.json) |
 | Stromberg: Büro ist Krieg | 112274 | [112274-stromberg-buro-ist-krieg.json](./112274-stromberg-buro-ist-krieg.json) |
+| Strong | 287561 | [287561-strong.json](./287561-strong.json) |
 | Strong Bad's Cool Game for Attractive People | 9463 | [9463-strong-bads-cool-game-for-attractive-people.json](./9463-strong-bads-cool-game-for-attractive-people.json) |
 | Strong Bad's Cool Game for Attractive People Episode 1: Homestar Ruiner | 28984 | [28984-strong-bads-cool-game-for-attractive-people-episode-1-homestar-ruiner.json](./28984-strong-bads-cool-game-for-attractive-people-episode-1-homestar-ruiner.json) |
 | Strong Bad's Cool Game for Attractive People Episode 2: Strong Badia the Free | 50176 | [50176-strong-bads-cool-game-for-attractive-people-episode-2-strong-badia-the-free.json](./50176-strong-bads-cool-game-for-attractive-people-episode-2-strong-badia-the-free.json) |
@@ -19252,6 +19266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Fighter | 247061 | [247061-super-fighter.json](./247061-super-fighter.json) |
 | Super Fighter | 69919 | [69919-super-fighter.json](./69919-super-fighter.json) |
 | Super Fighting Jam | 257686 | [257686-super-fighting-jam.json](./257686-super-fighting-jam.json) |
+| Super Fights | 287562 | [287562-super-fights.json](./287562-super-fights.json) |
 | Super Filovirus Sisters! | 185451 | [185451-super-filovirus-sisters.json](./185451-super-filovirus-sisters.json) |
 | Super Final Strike | 255736 | [255736-super-final-strike.json](./255736-super-final-strike.json) |
 | Super Fire Pro Wrestling | 38283 | [38283-super-fire-pro-wrestling.json](./38283-super-fire-pro-wrestling.json) |
@@ -20233,6 +20248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super QuickHook | 78901 | [78901-super-quickhook.json](./78901-super-quickhook.json) |
 | Super R.B.I. Baseball | 5332 | [5332-super-r-b-i-baseball.json](./5332-super-r-b-i-baseball.json) |
 | Super Rabbit | 246482 | [246482-super-rabbit.json](./246482-super-rabbit.json) |
+| Super Racing | 287563 | [287563-super-racing.json](./287563-super-racing.json) |
 | Super Racing | 46103 | [46103-super-racing.json](./46103-super-racing.json) |
 | Super Radish Witch | 135618 | [135618-super-radish-witch.json](./135618-super-radish-witch.json) |
 | Super Raft Boat Classic | 144142 | [144142-super-raft-boat-classic.json](./144142-super-raft-boat-classic.json) |
@@ -21054,6 +21070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suprotyv | 402376 | [402376-suprotyv.json](./402376-suprotyv.json) |
 | Suqare: Hired Gun | 333171 | [333171-suqare-hired-gun.json](./333171-suqare-hired-gun.json) |
 | Sur | 159127 | [159127-sur.json](./159127-sur.json) |
+| Sur LC | 287564 | [287564-sur-lc.json](./287564-sur-lc.json) |
 | Sur Tout Le Trajet | 179013 | [179013-sur-tout-le-trajet.json](./179013-sur-tout-le-trajet.json) |
 | Sura: Shattered Star | 412474 | [412474-sura-shattered-star.json](./412474-sura-shattered-star.json) |
 | Surabaya Inferno | 150676 | [150676-surabaya-inferno.json](./150676-surabaya-inferno.json) |
