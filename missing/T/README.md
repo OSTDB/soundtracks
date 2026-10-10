@@ -4102,6 +4102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Blackwell Convergence | 9039 | [9039-the-blackwell-convergence.json](./9039-the-blackwell-convergence.json) |
 | The Blackwell Deception | 9037 | [9037-the-blackwell-deception.json](./9037-the-blackwell-deception.json) |
 | The Blackwell Legacy | 9043 | [9043-the-blackwell-legacy.json](./9043-the-blackwell-legacy.json) |
+| The Blackwood Legacy | 320434 | [320434-the-blackwood-legacy.json](./320434-the-blackwood-legacy.json) |
 | The Blaggers | 57081 | [57081-the-blaggers.json](./57081-the-blaggers.json) |
 | The Blair Witch Experience | 73541 | [73541-the-blair-witch-experience.json](./73541-the-blair-witch-experience.json) |
 | The Bleakest Keep | 344344 | [344344-the-bleakest-keep.json](./344344-the-bleakest-keep.json) |
@@ -7578,6 +7579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legacy 2 | 95830 | [95830-the-legacy-2.json](./95830-the-legacy-2.json) |
 | The Legacy of Griselda | 409056 | [409056-the-legacy-of-griselda.json](./409056-the-legacy-of-griselda.json) |
 | The Legacy of Lunatic Omsk | 321748 | [321748-the-legacy-of-lunatic-omsk.json](./321748-the-legacy-of-lunatic-omsk.json) |
+| The Legacy of Robin Hood | 320470 | [320470-the-legacy-of-robin-hood.json](./320470-the-legacy-of-robin-hood.json) |
 | The Legacy: Realm of Terror | 79233 | [79233-the-legacy-realm-of-terror.json](./79233-the-legacy-realm-of-terror.json) |
 | The Legacy: The Tree of Might | 112988 | [112988-the-legacy-the-tree-of-might.json](./112988-the-legacy-the-tree-of-might.json) |
 | The Legend Beyond Legends | 302441 | [302441-the-legend-beyond-legends.json](./302441-the-legend-beyond-legends.json) |
@@ -18491,6 +18493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasures of the Smithsonian | 46547 | [46547-treasures-of-the-smithsonian.json](./46547-treasures-of-the-smithsonian.json) |
 | TreasureTails | 386422 | [386422-treasuretails.json](./386422-treasuretails.json) |
 | Treat Fighter | 109507 | [109507-treat-fighter.json](./109507-treat-fighter.json) |
+| Treat-Seeking Tricksters | 320432 | [320432-treat-seeking-tricksters.json](./320432-treat-seeking-tricksters.json) |
 | Treble Cat | 89690 | [89690-treble-cat.json](./89690-treble-cat.json) |
 | Treble-Basie | 390756 | [390756-treble-basie.json](./390756-treble-basie.json) |
 | Trebuchet | 36086 | [36086-trebuchet.json](./36086-trebuchet.json) |
