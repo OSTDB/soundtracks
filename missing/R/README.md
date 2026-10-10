@@ -600,6 +600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ragnarok: The Lost Memories | 175719 | [175719-ragnarok-the-lost-memories.json](./175719-ragnarok-the-lost-memories.json) |
 | Ragnarok: War of Gods | 323174 | [323174-ragnarok-war-of-gods.json](./323174-ragnarok-war-of-gods.json) |
 | Ragnarra: Might of Muskets | 163841 | [163841-ragnarra-might-of-muskets.json](./163841-ragnarra-might-of-muskets.json) |
+| RagnaTales MMORPG | 320479 | [320479-ragnatales-mmorpg.json](./320479-ragnatales-mmorpg.json) |
 | Ragozin on Moon | 156691 | [156691-ragozin-on-moon.json](./156691-ragozin-on-moon.json) |
 | Rags to Dishes | 142946 | [142946-rags-to-dishes.json](./142946-rags-to-dishes.json) |
 | Rags to Liches | 304175 | [304175-rags-to-liches.json](./304175-rags-to-liches.json) |
