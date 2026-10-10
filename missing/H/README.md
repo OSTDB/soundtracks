@@ -5016,6 +5016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hitman 3 | 134595 | [134595-hitman-3.json](./134595-hitman-3.json) |
 | Hitman 3 Access Pass: Hitman 1 GOTY Edition | 233574 | [233574-hitman-3-access-pass-hitman-1-goty-edition.json](./233574-hitman-3-access-pass-hitman-1-goty-edition.json) |
 | Hitman 3 Access Pass: Hitman 2 Standard | 233572 | [233572-hitman-3-access-pass-hitman-2-standard.json](./233572-hitman-3-access-pass-hitman-2-standard.json) |
+| Hitman 3 VR: Reloaded | 304322 | [304322-hitman-3-vr-reloaded.json](./304322-hitman-3-vr-reloaded.json) |
 | Hitman 3: Cloud Version | 140502 | [140502-hitman-3-cloud-version.json](./140502-hitman-3-cloud-version.json) |
 | Hitman 3: Patient Zero Requiem | 381244 | [381244-hitman-3-patient-zero-requiem.json](./381244-hitman-3-patient-zero-requiem.json) |
 | Hitman 3: The Banker Pack | 357256 | [357256-hitman-3-the-banker-pack.json](./357256-hitman-3-the-banker-pack.json) |
