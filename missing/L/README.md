@@ -131,6 +131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lab Boom | 290087 | [290087-lab-boom.json](./290087-lab-boom.json) |
 | Lab BreakOut | 158533 | [158533-lab-breakout.json](./158533-lab-breakout.json) |
 | Lab Cat | 298782 | [298782-lab-cat.json](./298782-lab-cat.json) |
+| Lab Cats | 332972 | [332972-lab-cats.json](./332972-lab-cats.json) |
 | Lab Chaos | 138533 | [138533-lab-chaos.json](./138533-lab-chaos.json) |
 | Lab Craft Survival | 150786 | [150786-lab-craft-survival.json](./150786-lab-craft-survival.json) |
 | Lab Crisis | 205580 | [205580-lab-crisis.json](./205580-lab-crisis.json) |
@@ -263,6 +264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laden vs. USA | 307675 | [307675-laden-vs-usa.json](./307675-laden-vs-usa.json) |
 | Ladies | 109732 | [109732-ladies.json](./109732-ladies.json) |
 | Ladies and Gentlemen, It's the Turnabout Show! | 318803 | [318803-ladies-and-gentlemen-its-the-turnabout-show.json](./318803-ladies-and-gentlemen-its-the-turnabout-show.json) |
+| Ladies I'm Ready | 333058 | [333058-ladies-im-ready.json](./333058-ladies-im-ready.json) |
 | Ladies of Sorrow: Night One | 323551 | [323551-ladies-of-sorrow-night-one.json](./323551-ladies-of-sorrow-night-one.json) |
 | Ladies, Don't Tempt My Immortality | 384297 | [384297-ladies-dont-tempt-my-immortality.json](./384297-ladies-dont-tempt-my-immortality.json) |
 | Ladra | 34769 | [34769-ladra.json](./34769-ladra.json) |
