@@ -5402,6 +5402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pizza Bar Tycoon: Legendary Edition | 332508 | [332508-pizza-bar-tycoon-legendary-edition.json](./332508-pizza-bar-tycoon-legendary-edition.json) |
 | Pizza Bar Tycoon: Multiplayer Edition | 247594 | [247594-pizza-bar-tycoon-multiplayer-edition.json](./247594-pizza-bar-tycoon-multiplayer-edition.json) |
 | Pizza Bar Tycoon: Multiplayer Mode | 246888 | [246888-pizza-bar-tycoon-multiplayer-mode.json](./246888-pizza-bar-tycoon-multiplayer-mode.json) |
+| Pizza Boy | 303746 | [303746-pizza-boy.json](./303746-pizza-boy.json) |
 | Pizza Boy | 94182 | [94182-pizza-boy.json](./94182-pizza-boy.json) |
 | Pizza Chef | 40758 | [40758-pizza-chef.json](./40758-pizza-chef.json) |
 | Pizza City | 225591 | [225591-pizza-city.json](./225591-pizza-city.json) |
@@ -5782,6 +5783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plants in Rush | 287718 | [287718-plants-in-rush.json](./287718-plants-in-rush.json) |
 | Plants on Fire | 408106 | [408106-plants-on-fire.json](./408106-plants-on-fire.json) |
 | Plants vs Zombies Expansion | 366941 | [366941-plants-vs-zombies-expansion.json](./366941-plants-vs-zombies-expansion.json) |
+| Plants vs Zombies: Garden Warfare - Garden Variety | 303743 | [303743-plants-vs-zombies-garden-warfare-garden-variety.json](./303743-plants-vs-zombies-garden-warfare-garden-variety.json) |
 | Plants vs Zombies: Neighborhood Defense | 336549 | [336549-plants-vs-zombies-neighborhood-defense.json](./336549-plants-vs-zombies-neighborhood-defense.json) |
 | Plants vs. Zombies | 163213 | [163213-plants-vs-zombies.json](./163213-plants-vs-zombies.json) |
 | Plants vs. Zombies | 264243 | [264243-plants-vs-zombies.json](./264243-plants-vs-zombies.json) |
@@ -6804,6 +6806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon FireRed Deluxe | 338914 | [338914-pokemon-firered-deluxe.json](./338914-pokemon-firered-deluxe.json) |
 | Pokémon Fool's Gold | 136877 | [136877-pokemon-fools-gold.json](./136877-pokemon-fools-gold.json) |
 | Pokémon FR Advanced Challenge | 136412 | [136412-pokemon-fr-advanced-challenge.json](./136412-pokemon-fr-advanced-challenge.json) |
+| Pokémon Frienda | 303820 | [303820-pokemon-frienda.json](./303820-pokemon-frienda.json) |
 | Pokémon Friends | 356551 | [356551-pokemon-friends.json](./356551-pokemon-friends.json) |
 | Pokemon Fused Dimensions | 327270 | [327270-pokemon-fused-dimensions.json](./327270-pokemon-fused-dimensions.json) |
 | Pokémon Fushigi no Dungeon: Ikuzo! Arashi no Boukendan | 103512 | [103512-pokemon-fushigi-no-dungeon-ikuzo-arashi-no-boukendan.json](./103512-pokemon-fushigi-no-dungeon-ikuzo-arashi-no-boukendan.json) |
@@ -11199,6 +11202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PuzzleKid | 133164 | [133164-puzzlekid.json](./133164-puzzlekid.json) |
 | PuzzleLand | 261997 | [261997-puzzleland.json](./261997-puzzleland.json) |
 | Puzzlelicious | 88260 | [88260-puzzlelicious.json](./88260-puzzlelicious.json) |
+| Puzzlemazed | 303663 | [303663-puzzlemazed.json](./303663-puzzlemazed.json) |
 | Puzzler | 104252 | [104252-puzzler.json](./104252-puzzler.json) |
 | Puzzler Clover | 69300 | [69300-puzzler-clover.json](./69300-puzzler-clover.json) |
 | Puzzler World | 308990 | [308990-puzzler-world.json](./308990-puzzler-world.json) |
@@ -11364,6 +11368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pyromania | 325671 | [325671-pyromania.json](./325671-pyromania.json) |
 | Pyrosynchist | 370690 | [370690-pyrosynchist.json](./370690-pyrosynchist.json) |
 | Pyrotechnica | 74029 | [74029-pyrotechnica.json](./74029-pyrotechnica.json) |
+| Pyrphoros | 303823 | [303823-pyrphoros.json](./303823-pyrphoros.json) |
 | Pyrrhic Paradise: Dissemble | 303085 | [303085-pyrrhic-paradise-dissemble.json](./303085-pyrrhic-paradise-dissemble.json) |
 | Pyrrhic Tales: Prelude to Darkness | 70347 | [70347-pyrrhic-tales-prelude-to-darkness.json](./70347-pyrrhic-tales-prelude-to-darkness.json) |
 | PyRunner | 318517 | [318517-pyrunner.json](./318517-pyrunner.json) |
