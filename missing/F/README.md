@@ -5585,6 +5585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Fred | 104468 | [104468-football-fred.json](./104468-football-fred.json) |
 | Football Frenzy | 39649 | [39649-football-frenzy.json](./39649-football-frenzy.json) |
 | Football Fury | 42551 | [42551-football-fury.json](./42551-football-fury.json) |
+| Football Games 2023 Offline | 296773 | [296773-football-games-2023-offline.json](./296773-football-games-2023-offline.json) |
 | Football Games Room | 100259 | [100259-football-games-room.json](./100259-football-games-room.json) |
 | Football General Manager | 90206 | [90206-football-general-manager.json](./90206-football-general-manager.json) |
 | Football girl | 161366 | [161366-football-girl.json](./161366-football-girl.json) |
