@@ -1007,6 +1007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vertical Strike Endless Challenge | 28293 | [28293-vertical-strike-endless-challenge.json](./28293-vertical-strike-endless-challenge.json) |
 | Verticality | 306971 | [306971-verticality.json](./306971-verticality.json) |
 | Verticopolis | 410821 | [410821-verticopolis.json](./410821-verticopolis.json) |
+| Verticow | 330117 | [330117-verticow.json](./330117-verticow.json) |
 | Vertig8 | 303071 | [303071-vertig8.json](./303071-vertig8.json) |
 | VertiGhoul | 344537 | [344537-vertighoul.json](./344537-vertighoul.json) |
 | Vertigo | 167195 | [167195-vertigo.json](./167195-vertigo.json) |
