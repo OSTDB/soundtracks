@@ -3473,6 +3473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phoenix Wright: Ace Attorney - The Contempt of Court: Refined Edition | 376867 | [376867-phoenix-wright-ace-attorney-the-contempt-of-court-refined-edition.json](./376867-phoenix-wright-ace-attorney-the-contempt-of-court-refined-edition.json) |
 | Phoenix Wright: Ace Attorney - The Jakkid Series | 302601 | [302601-phoenix-wright-ace-attorney-the-jakkid-series.json](./302601-phoenix-wright-ace-attorney-the-jakkid-series.json) |
 | Phoenix Wright: Ace Attorney - The Return of Ryunosuke Naruhodo | 302608 | [302608-phoenix-wright-ace-attorney-the-return-of-ryunosuke-naruhodo.json](./302608-phoenix-wright-ace-attorney-the-return-of-ryunosuke-naruhodo.json) |
+| Phoenix Wright: Ace Attorney - Trials After Justice | 298969 | [298969-phoenix-wright-ace-attorney-trials-after-justice.json](./298969-phoenix-wright-ace-attorney-trials-after-justice.json) |
 | Phoenix Wright: Ace Attorney - Trials and Tribulations | 1428 | [1428-phoenix-wright-ace-attorney-trials-and-tribulations.json](./1428-phoenix-wright-ace-attorney-trials-and-tribulations.json) |
 | Phoenix Wright: Ace Attorney - Trials and Tribulations | 221287 | [221287-phoenix-wright-ace-attorney-trials-and-tribulations.json](./221287-phoenix-wright-ace-attorney-trials-and-tribulations.json) |
 | Phoenix Wright: Ace Attorney - Truth and Consequences | 302651 | [302651-phoenix-wright-ace-attorney-truth-and-consequences.json](./302651-phoenix-wright-ace-attorney-truth-and-consequences.json) |
@@ -6902,6 +6903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Mystery Dungeon: Origins | 365792 | [365792-pokemon-mystery-dungeon-origins.json](./365792-pokemon-mystery-dungeon-origins.json) |
 | Pokémon Mystery Dungeon: Outlaw's Paradise | 294718 | [294718-pokemon-mystery-dungeon-outlaws-paradise.json](./294718-pokemon-mystery-dungeon-outlaws-paradise.json) |
 | Pokémon Mystery Dungeon: Red Rescue Team | 2319 | [2319-pokemon-mystery-dungeon-red-rescue-team.json](./2319-pokemon-mystery-dungeon-red-rescue-team.json) |
+| Pokémon Mystery Dungeon: Special Episode 0 - In A Dark Past | 298965 | [298965-pokemon-mystery-dungeon-special-episode-0-in-a-dark-past.json](./298965-pokemon-mystery-dungeon-special-episode-0-in-a-dark-past.json) |
 | Pokémon Mystery Dungeon: Turnabout Dimension | 210550 | [210550-pokemon-mystery-dungeon-turnabout-dimension.json](./210550-pokemon-mystery-dungeon-turnabout-dimension.json) |
 | Pokémon Nameless FireRed Project | 213034 | [213034-pokemon-nameless-firered-project.json](./213034-pokemon-nameless-firered-project.json) |
 | Pokémon Nameless Version | 381791 | [381791-pokemon-nameless-version.json](./381791-pokemon-nameless-version.json) |
