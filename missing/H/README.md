@@ -2374,6 +2374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Helichoppy | 383698 | [383698-helichoppy.json](./383698-helichoppy.json) |
 | Heliconian: Starship Crew Control | 133403 | [133403-heliconian-starship-crew-control.json](./133403-heliconian-starship-crew-control.json) |
 | Helicops | 78924 | [78924-helicops.json](./78924-helicops.json) |
+| Helicopter | 312256 | [312256-helicopter.json](./312256-helicopter.json) |
 | Helicopter 2015: Natural Disasters | 53184 | [53184-helicopter-2015-natural-disasters.json](./53184-helicopter-2015-natural-disasters.json) |
 | Helicopter Flight Simulator | 319980 | [319980-helicopter-flight-simulator.json](./319980-helicopter-flight-simulator.json) |
 | Helicopter Gunship DEX | 208606 | [208606-helicopter-gunship-dex.json](./208606-helicopter-gunship-dex.json) |
