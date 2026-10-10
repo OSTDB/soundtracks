@@ -2585,6 +2585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tennis | 131536 | [131536-tennis.json](./131536-tennis.json) |
 | Tennis | 20461 | [20461-tennis.json](./20461-tennis.json) |
 | Tennis | 217967 | [217967-tennis.json](./217967-tennis.json) |
+| Tennis | 295670 | [295670-tennis.json](./295670-tennis.json) |
 | Tennis | 358838 | [358838-tennis.json](./358838-tennis.json) |
 | Tennis | 64208 | [64208-tennis.json](./64208-tennis.json) |
 | Tennis | 74548 | [74548-tennis.json](./74548-tennis.json) |
@@ -2891,6 +2892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terraria 2 | 3021 | [3021-terraria-2.json](./3021-terraria-2.json) |
 | Terraria: Bigger and Boulder | 386978 | [386978-terraria-bigger-and-boulder.json](./386978-terraria-bigger-and-boulder.json) |
 | Terraria: Calamity Mod | 141229 | [141229-terraria-calamity-mod.json](./141229-terraria-calamity-mod.json) |
+| Terraria: Journey's End | 295662 | [295662-terraria-journeys-end.json](./295662-terraria-journeys-end.json) |
 | Terraria: Lunar Veil Mod | 361816 | [361816-terraria-lunar-veil-mod.json](./361816-terraria-lunar-veil-mod.json) |
 | Terraria: Mod of Redemption | 223036 | [223036-terraria-mod-of-redemption.json](./223036-terraria-mod-of-redemption.json) |
 | Terraria: Otherworld | 25677 | [25677-terraria-otherworld.json](./25677-terraria-otherworld.json) |
@@ -3175,6 +3177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetris: The Grand Master Ace | 25025 | [25025-tetris-the-grand-master-ace.json](./25025-tetris-the-grand-master-ace.json) |
 | Tetris26 | 40669 | [40669-tetris26.json](./40669-tetris26.json) |
 | Tetrisphere | 3612 | [3612-tetrisphere.json](./3612-tetrisphere.json) |
+| Tetrisweeper | 295637 | [295637-tetrisweeper.json](./295637-tetrisweeper.json) |
 | Tetrius | 147325 | [147325-tetrius.json](./147325-tetrius.json) |
 | Tetro Runner | 386245 | [386245-tetro-runner.json](./386245-tetro-runner.json) |
 | Tetrogue | 413659 | [413659-tetrogue.json](./413659-tetrogue.json) |
@@ -6989,6 +6992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Italianeer | 105552 | [105552-the-italianeer.json](./105552-the-italianeer.json) |
 | The Itchy & Scratchy Game | 368895 | [368895-the-itchy-and-scratchy-game.json](./368895-the-itchy-and-scratchy-game.json) |
 | The Jackbox Big Bang Bundle | 376263 | [376263-the-jackbox-big-bang-bundle.json](./376263-the-jackbox-big-bang-bundle.json) |
+| The Jackbox Decade Bundle | 295644 | [295644-the-jackbox-decade-bundle.json](./295644-the-jackbox-decade-bundle.json) |
 | The Jackbox Naughty Pack | 299591 | [299591-the-jackbox-naughty-pack.json](./299591-the-jackbox-naughty-pack.json) |
 | The Jackbox Party Pack 11 | 338919 | [338919-the-jackbox-party-pack-11.json](./338919-the-jackbox-party-pack-11.json) |
 | The Jackbox Party Pack 3 | 19082 | [19082-the-jackbox-party-pack-3.json](./19082-the-jackbox-party-pack-3.json) |
@@ -16812,6 +16816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower! Simulator 3: LEBL Airport | 278505 | [278505-tower-simulator-3-lebl-airport.json](./278505-tower-simulator-3-lebl-airport.json) |
 | Tower! Simulator 3: LFPG Airport | 396506 | [396506-tower-simulator-3-lfpg-airport.json](./396506-tower-simulator-3-lfpg-airport.json) |
 | Tower! Simulator 3: LGAV Airport | 396512 | [396512-tower-simulator-3-lgav-airport.json](./396512-tower-simulator-3-lgav-airport.json) |
+| Tower! Simulator 3: LPPT Airport | 295651 | [295651-tower-simulator-3-lppt-airport.json](./295651-tower-simulator-3-lppt-airport.json) |
 | Tower! Simulator 3: LSZH Airport | 353325 | [353325-tower-simulator-3-lszh-airport.json](./353325-tower-simulator-3-lszh-airport.json) |
 | Tower! Simulator 3: MMPR Airport | 289932 | [289932-tower-simulator-3-mmpr-airport.json](./289932-tower-simulator-3-mmpr-airport.json) |
 | Tower! Simulator 3: OMDB Airport | 236836 | [236836-tower-simulator-3-omdb-airport.json](./236836-tower-simulator-3-omdb-airport.json) |
@@ -19889,6 +19894,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turbo Finger Swipe | 9237 | [9237-turbo-finger-swipe.json](./9237-turbo-finger-swipe.json) |
 | Turbo Girl | 39140 | [39140-turbo-girl.json](./39140-turbo-girl.json) |
 | Turbo Golf Racing | 194736 | [194736-turbo-golf-racing.json](./194736-turbo-golf-racing.json) |
+| Turbo Golf Racing: Deep Space Bundle | 295641 | [295641-turbo-golf-racing-deep-space-bundle.json](./295641-turbo-golf-racing-deep-space-bundle.json) |
+| Turbo Golf Racing: Ultimate Bundle | 295642 | [295642-turbo-golf-racing-ultimate-bundle.json](./295642-turbo-golf-racing-ultimate-bundle.json) |
 | Turbo Hovercraft | 359418 | [359418-turbo-hovercraft.json](./359418-turbo-hovercraft.json) |
 | Turbo Kid | 212164 | [212164-turbo-kid.json](./212164-turbo-kid.json) |
 | Turbo Kids | 240348 | [240348-turbo-kids.json](./240348-turbo-kids.json) |
@@ -20200,6 +20207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twin Breaker: A Sacred Symbols Adventure | 130613 | [130613-twin-breaker-a-sacred-symbols-adventure.json](./130613-twin-breaker-a-sacred-symbols-adventure.json) |
 | Twin Brothers | 55473 | [55473-twin-brothers.json](./55473-twin-brothers.json) |
 | Twin Calibre: 688 Attack Sub + Chuck Yeager's Air Combat | 86086 | [86086-twin-calibre-688-attack-sub-chuck-yeagers-air-combat.json](./86086-twin-calibre-688-attack-sub-chuck-yeagers-air-combat.json) |
+| Twin Cam Turbo | 295673 | [295673-twin-cam-turbo.json](./295673-twin-cam-turbo.json) |
 | Twin Cards | 277866 | [277866-twin-cards.json](./277866-twin-cards.json) |
 | Twin Circle | 192299 | [192299-twin-circle.json](./192299-twin-circle.json) |
 | Twin Cobra | 384136 | [384136-twin-cobra.json](./384136-twin-cobra.json) |
