@@ -1530,6 +1530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Night at Flumpty's | 266224 | [266224-one-night-at-flumptys.json](./266224-one-night-at-flumptys.json) |
 | One Night at Flumpty's 2 | 126456 | [126456-one-night-at-flumptys-2.json](./126456-one-night-at-flumptys-2.json) |
 | One Night at Flumpty's 2 | 266226 | [266226-one-night-at-flumptys-2.json](./266226-one-night-at-flumptys-2.json) |
+| One Night at Flumpty's 2 | 296213 | [296213-one-night-at-flumptys-2.json](./296213-one-night-at-flumptys-2.json) |
 | One Night at Flumpty's 3 | 178400 | [178400-one-night-at-flumptys-3.json](./178400-one-night-at-flumptys-3.json) |
 | One Night At Freddy's | 273951 | [273951-one-night-at-freddys.json](./273951-one-night-at-freddys.json) |
 | One Night At Herobrine's | 280446 | [280446-one-night-at-herobrines.json](./280446-one-night-at-herobrines.json) |
