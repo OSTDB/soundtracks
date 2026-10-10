@@ -2038,6 +2038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Techno Boy | 86529 | [86529-techno-boy.json](./86529-techno-boy.json) |
 | Techno Cop | 132021 | [132021-techno-cop.json](./132021-techno-cop.json) |
 | Techno Cop | 22746 | [22746-techno-cop.json](./22746-techno-cop.json) |
+| Techno Drive | 319867 | [319867-techno-drive.json](./319867-techno-drive.json) |
 | Techno Prank | 345553 | [345553-techno-prank.json](./345553-techno-prank.json) |
 | Techno Tanks | 146223 | [146223-techno-tanks.json](./146223-techno-tanks.json) |
 | Techno: 2Kill | 391766 | [391766-techno-2kill.json](./391766-techno-2kill.json) |
@@ -2934,6 +2935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terror Squid | 122182 | [122182-terror-squid.json](./122182-terror-squid.json) |
 | Terror Type: A.L.C.H.E.M.Y. | 338318 | [338318-terror-type-a-l-c-h-e-m-y.json](./338318-terror-type-a-l-c-h-e-m-y.json) |
 | Terrorarium | 115014 | [115014-terrorarium.json](./115014-terrorarium.json) |
+| Terrorbytes | 319843 | [319843-terrorbytes.json](./319843-terrorbytes.json) |
 | Terrorfest | 313882 | [313882-terrorfest.json](./313882-terrorfest.json) |
 | Terrorhedron | 17378 | [17378-terrorhedron.json](./17378-terrorhedron.json) |
 | Terrorist Apartment | 107844 | [107844-terrorist-apartment.json](./107844-terrorist-apartment.json) |
@@ -19453,6 +19455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tsugunohi | 139179 | [139179-tsugunohi.json](./139179-tsugunohi.json) |
 | Tsugunohi: A Voice from Yesteryear | 270873 | [270873-tsugunohi-a-voice-from-yesteryear.json](./270873-tsugunohi-a-voice-from-yesteryear.json) |
 | Tsugunohi: Supernatural Supermarket | 234297 | [234297-tsugunohi-supernatural-supermarket.json](./234297-tsugunohi-supernatural-supermarket.json) |
+| Tsugunohi: Supernatural Supermarket | 319850 | [319850-tsugunohi-supernatural-supermarket.json](./319850-tsugunohi-supernatural-supermarket.json) |
 | Tsugunohi: The Chamber of Phantom Name | 340941 | [340941-tsugunohi-the-chamber-of-phantom-name.json](./340941-tsugunohi-the-chamber-of-phantom-name.json) |
 | Tsuki Adventure | 182457 | [182457-tsuki-adventure.json](./182457-tsuki-adventure.json) |
 | Tsuki ha Higashi ni Hi ha Nishi ni: Operation Sanctuary | 165566 | [165566-tsuki-ha-higashi-ni-hi-ha-nishi-ni-operation-sanctuary.json](./165566-tsuki-ha-higashi-ni-hi-ha-nishi-ni-operation-sanctuary.json) |
