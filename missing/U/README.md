@@ -2170,6 +2170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Urbek City Builder | 151535 | [151535-urbek-city-builder.json](./151535-urbek-city-builder.json) |
 | Urbek City Builder: Defend the City | 236234 | [236234-urbek-city-builder-defend-the-city.json](./236234-urbek-city-builder-defend-the-city.json) |
 | Urbex | 399156 | [399156-urbex.json](./399156-urbex.json) |
+| Urbex Alone | 285406 | [285406-urbex-alone.json](./285406-urbex-alone.json) |
 | URBO | 271173 | [271173-urbo.json](./271173-urbo.json) |
 | Urcicus | 391836 | [391836-urcicus.json](./391836-urcicus.json) |
 | Urd Monster | 179535 | [179535-urd-monster.json](./179535-urd-monster.json) |
