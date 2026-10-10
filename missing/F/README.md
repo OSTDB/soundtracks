@@ -4243,6 +4243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Nights at Pikachu's | 360770 | [360770-five-nights-at-pikachus.json](./360770-five-nights-at-pikachus.json) |
 | Five Nights At Pingas | 403829 | [403829-five-nights-at-pingas.json](./403829-five-nights-at-pingas.json) |
 | Five Nights At PT's II | 412393 | [412393-five-nights-at-pts-ii.json](./412393-five-nights-at-pts-ii.json) |
+| Five Nights at Raiden's | 327792 | [327792-five-nights-at-raidens.json](./327792-five-nights-at-raidens.json) |
 | Five Nights at Roner's: Remastered | 330734 | [330734-five-nights-at-roners-remastered.json](./330734-five-nights-at-roners-remastered.json) |
 | Five Nights at Silver Pine | 297079 | [297079-five-nights-at-silver-pine.json](./297079-five-nights-at-silver-pine.json) |
 | Five Nights at Sonic's 3 Reburned | 182216 | [182216-five-nights-at-sonics-3-reburned.json](./182216-five-nights-at-sonics-3-reburned.json) |
@@ -5737,6 +5738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forced: Eternal Arenas | 80540 | [80540-forced-eternal-arenas.json](./80540-forced-eternal-arenas.json) |
 | Forceline | 63579 | [63579-forceline.json](./63579-forceline.json) |
 | Forces of Ether | 312137 | [312137-forces-of-ether.json](./312137-forces-of-ether.json) |
+| Ford Bold Moves Street Racing | 327790 | [327790-ford-bold-moves-street-racing.json](./327790-ford-bold-moves-street-racing.json) |
 | Ford Bold Moves Street Racing | 43384 | [43384-ford-bold-moves-street-racing.json](./43384-ford-bold-moves-street-racing.json) |
 | Ford Mustang: The Legend Lives | 43306 | [43306-ford-mustang-the-legend-lives.json](./43306-ford-mustang-the-legend-lives.json) |
 | Ford Racing | 4867 | [4867-ford-racing.json](./4867-ford-racing.json) |
@@ -5993,6 +5995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forklift & Box | 164262 | [164262-forklift-and-box.json](./164262-forklift-and-box.json) |
 | Forklift 2024: The Simulation | 251016 | [251016-forklift-2024-the-simulation.json](./251016-forklift-2024-the-simulation.json) |
 | Forklift 2025 Simulator | 368147 | [368147-forklift-2025-simulator.json](./368147-forklift-2025-simulator.json) |
+| Forklift Certified | 327884 | [327884-forklift-certified.json](./327884-forklift-certified.json) |
 | Forklift Certified: Stacked and Loaded | 344518 | [344518-forklift-certified-stacked-and-loaded.json](./344518-forklift-certified-stacked-and-loaded.json) |
 | Forklift Extreme | 207892 | [207892-forklift-extreme.json](./207892-forklift-extreme.json) |
 | Forklift Extreme: Santa's Workshop | 231287 | [231287-forklift-extreme-santas-workshop.json](./231287-forklift-extreme-santas-workshop.json) |
