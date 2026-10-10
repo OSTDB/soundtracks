@@ -24,6 +24,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | B-24 | 44127 | [44127-b-24.json](./44127-b-24.json) |
 | B-Boy | 20565 | [20565-b-boy.json](./20565-b-boy.json) |
 | B-Cubed | 159169 | [159169-b-cubed.json](./159169-b-cubed.json) |
+| B-Daman | 325729 | [325729-b-daman.json](./325729-b-daman.json) |
 | B-e-e-t-l-e | 178507 | [178507-b-e-e-t-l-e.json](./178507-b-e-e-t-l-e.json) |
 | B-e-e-t-l-e: Be right back! | 366937 | [366937-b-e-e-t-l-e-be-right-back.json](./366937-b-e-e-t-l-e-be-right-back.json) |
 | B-Line | 370237 | [370237-b-line.json](./370237-b-line.json) |
@@ -7416,6 +7417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boku no Soushiki ni Youkoso: Happy Rebirthday | 335700 | [335700-boku-no-soushiki-ni-youkoso-happy-rebirthday.json](./335700-boku-no-soushiki-ni-youkoso-happy-rebirthday.json) |
 | Boku no Tennis Jinsei | 69362 | [69362-boku-no-tennis-jinsei.json](./69362-boku-no-tennis-jinsei.json) |
 | Boku no Tsuri Monogatari | 196563 | [196563-boku-no-tsuri-monogatari.json](./196563-boku-no-tsuri-monogatari.json) |
+| Boku to Iu Mono | 325731 | [325731-boku-to-iu-mono.json](./325731-boku-to-iu-mono.json) |
 | Boku to Joi no Shinsatsu Nisshi [Nurse Enjoy Pack] | 146110 | [146110-boku-to-joi-no-shinsatsu-nisshi-nurse-enjoy-pack.json](./146110-boku-to-joi-no-shinsatsu-nisshi-nurse-enjoy-pack.json) |
 | Boku to Joi no Shinsatsu Nisshi: Premium Edition | 146113 | [146113-boku-to-joi-no-shinsatsu-nisshi-premium-edition.json](./146113-boku-to-joi-no-shinsatsu-nisshi-premium-edition.json) |
 | Boku to Kare no Kiken na Doukyo Seikatsu | 203875 | [203875-boku-to-kare-no-kiken-na-doukyo-seikatsu.json](./203875-boku-to-kare-no-kiken-na-doukyo-seikatsu.json) |
@@ -8563,6 +8565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boxing School II | 342182 | [342182-boxing-school-ii.json](./342182-boxing-school-ii.json) |
 | Boxing Simulator | 356026 | [356026-boxing-simulator.json](./356026-boxing-simulator.json) |
 | Boxing Star | 105868 | [105868-boxing-star.json](./105868-boxing-star.json) |
+| Boxing Star: Match 3 | 325734 | [325734-boxing-star-match-3.json](./325734-boxing-star-match-3.json) |
 | Boxing Surgery Simulator 2000 | 183515 | [183515-boxing-surgery-simulator-2000.json](./183515-boxing-surgery-simulator-2000.json) |
 | BoxLoop | 207542 | [207542-boxloop.json](./207542-boxloop.json) |
 | BoxMaker | 52078 | [52078-boxmaker.json](./52078-boxmaker.json) |
