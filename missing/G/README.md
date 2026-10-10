@@ -3461,6 +3461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GoblinAmerica | 271228 | [271228-goblinamerica.json](./271228-goblinamerica.json) |
 | Goblinfall: Defend Da Fort | 419939 | [419939-goblinfall-defend-da-fort.json](./419939-goblinfall-defend-da-fort.json) |
 | Goblinna's Garden | 374063 | [374063-goblinnas-garden.json](./374063-goblinnas-garden.json) |
+| Goblins | 306054 | [306054-goblins.json](./306054-goblins.json) |
 | Goblins Can Conquer | 404972 | [404972-goblins-can-conquer.json](./404972-goblins-can-conquer.json) |
 | Goblins Factory | 213003 | [213003-goblins-factory.json](./213003-goblins-factory.json) |
 | Goblins Never Die | 258446 | [258446-goblins-never-die.json](./258446-goblins-never-die.json) |
