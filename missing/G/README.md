@@ -5191,6 +5191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravity's Edge | 386942 | [386942-gravitys-edge.json](./386942-gravitys-edge.json) |
 | Gravity+ | 84530 | [84530-gravity.json](./84530-gravity.json) |
 | GravityBall | 409647 | [409647-gravityball.json](./409647-gravityball.json) |
+| Gravityscape DX | 287590 | [287590-gravityscape-dx.json](./287590-gravityscape-dx.json) |
 | GravityTunnelVR | 52773 | [52773-gravitytunnelvr.json](./52773-gravitytunnelvr.json) |
 | GravPool | 32180 | [32180-gravpool.json](./32180-gravpool.json) |
 | GravSheep | 90904 | [90904-gravsheep.json](./90904-gravsheep.json) |
