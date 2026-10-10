@@ -2764,6 +2764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AI Battle Royale Generator | 148364 | [148364-ai-battle-royale-generator.json](./148364-ai-battle-royale-generator.json) |
 | AI Confidential | 304595 | [304595-ai-confidential.json](./304595-ai-confidential.json) |
 | Ai Dawn | 368678 | [368678-ai-dawn.json](./368678-ai-dawn.json) |
+| AI Doctor | 319307 | [319307-ai-doctor.json](./319307-ai-doctor.json) |
 | AI Dungeon | 203870 | [203870-ai-dungeon.json](./203870-ai-dungeon.json) |
 | Ai ga Mie Hajimetara | 151840 | [151840-ai-ga-mie-hajimetara.json](./151840-ai-ga-mie-hajimetara.json) |
 | AI ha Sabaku no Bara no Yume o Miru | 82936 | [82936-ai-ha-sabaku-no-bara-no-yume-o-miru.json](./82936-ai-ha-sabaku-no-bara-no-yume-o-miru.json) |
@@ -7729,6 +7730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ArcLand | 141806 | [141806-arcland.json](./141806-arcland.json) |
 | Arclands | 156147 | [156147-arclands.json](./156147-arclands.json) |
 | Arclight Cascade | 34722 | [34722-arclight-cascade.json](./34722-arclight-cascade.json) |
+| Arclight City | 319293 | [319293-arclight-city.json](./319293-arclight-city.json) |
 | Arco | 263903 | [263903-arco.json](./263903-arco.json) |
 | Arcobaleno! | 59394 | [59394-arcobaleno.json](./59394-arcobaleno.json) |
 | Arcostate | 412355 | [412355-arcostate.json](./412355-arcostate.json) |
