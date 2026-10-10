@@ -484,6 +484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Painturio | 188609 | [188609-painturio.json](./188609-painturio.json) |
 | Painwives | 419852 | [419852-painwives.json](./419852-painwives.json) |
 | Paio Hazard | 134630 | [134630-paio-hazard.json](./134630-paio-hazard.json) |
+| Pair Horror | 309061 | [309061-pair-horror.json](./309061-pair-horror.json) |
 | Pair Horror + Haunted Pack Set | 328990 | [328990-pair-horror-haunted-pack-set.json](./328990-pair-horror-haunted-pack-set.json) |
 | Pair Master | 347196 | [347196-pair-master.json](./347196-pair-master.json) |
 | Pair Matching Puzzle Connect | 163440 | [163440-pair-matching-puzzle-connect.json](./163440-pair-matching-puzzle-connect.json) |
@@ -1136,6 +1137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Papyrus | 49864 | [49864-papyrus.json](./49864-papyrus.json) |
 | Papyrus : La Vengeance d'Aker | 56874 | [56874-papyrus-la-vengeance-daker.json](./56874-papyrus-la-vengeance-daker.json) |
 | Papyrus: Le Secret de la Cité Perdue | 56866 | [56866-papyrus-le-secret-de-la-cite-perdue.json](./56866-papyrus-le-secret-de-la-cite-perdue.json) |
+| Paqman | 308984 | [308984-paqman.json](./308984-paqman.json) |
 | Par 1 Golf | 200103 | [200103-par-1-golf.json](./200103-par-1-golf.json) |
 | Par 1 Golf 10 | 200181 | [200181-par-1-golf-10.json](./200181-par-1-golf-10.json) |
 | Par 1 Golf 5 | 197667 | [197667-par-1-golf-5.json](./197667-par-1-golf-5.json) |
@@ -3879,6 +3881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pigeon Hater | 336116 | [336116-pigeon-hater.json](./336116-pigeon-hater.json) |
 | Pigeon Hunter | 369121 | [369121-pigeon-hunter.json](./369121-pigeon-hunter.json) |
 | Pigeon Protocol | 245880 | [245880-pigeon-protocol.json](./245880-pigeon-protocol.json) |
+| Pigeon Sim: Bird Simulator - Lady Pigeon DLC | 309063 | [309063-pigeon-sim-bird-simulator-lady-pigeon-dlc.json](./309063-pigeon-sim-bird-simulator-lady-pigeon-dlc.json) |
 | Pigeon Simulator | 120304 | [120304-pigeon-simulator.json](./120304-pigeon-simulator.json) |
 | Pigeon Simulator Survival | 296459 | [296459-pigeon-simulator-survival.json](./296459-pigeon-simulator-survival.json) |
 | Pigeon Strike | 246000 | [246000-pigeon-strike.json](./246000-pigeon-strike.json) |
@@ -8000,6 +8003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Postknight | 27329 | [27329-postknight.json](./27329-postknight.json) |
 | Postknight World | 337704 | [337704-postknight-world.json](./337704-postknight-world.json) |
 | PostLife | 294275 | [294275-postlife.json](./294275-postlife.json) |
+| Postman Pat | 308979 | [308979-postman-pat.json](./308979-postman-pat.json) |
 | Postman Pat | 72122 | [72122-postman-pat.json](./72122-postman-pat.json) |
 | Postman Pat 2 | 68691 | [68691-postman-pat-2.json](./68691-postman-pat-2.json) |
 | Postman Pat 3: To the Rescue | 64095 | [64095-postman-pat-3-to-the-rescue.json](./64095-postman-pat-3-to-the-rescue.json) |
@@ -8343,6 +8347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PowerWash Simulator: Cruise Ship Sun Deck - Summer 2024 | 312018 | [312018-powerwash-simulator-cruise-ship-sun-deck-summer-2024.json](./312018-powerwash-simulator-cruise-ship-sun-deck-summer-2024.json) |
 | PowerWash Simulator: Halloween Seasonal 2024 | 320757 | [320757-powerwash-simulator-halloween-seasonal-2024.json](./320757-powerwash-simulator-halloween-seasonal-2024.json) |
 | PowerWash Simulator: Ice Rink - Winter 2024 | 324567 | [324567-powerwash-simulator-ice-rink-winter-2024.json](./324567-powerwash-simulator-ice-rink-winter-2024.json) |
+| PowerWash Simulator: Muckingham Files - Part 3 | 309064 | [309064-powerwash-simulator-muckingham-files-part-3.json](./309064-powerwash-simulator-muckingham-files-part-3.json) |
 | PowerWash Simulator: Muckingham Files - Part 5 | 340590 | [340590-powerwash-simulator-muckingham-files-part-5.json](./340590-powerwash-simulator-muckingham-files-part-5.json) |
 | PowerWash Simulator: Santa's Workshop - Winter 2023 | 280540 | [280540-powerwash-simulator-santas-workshop-winter-2023.json](./280540-powerwash-simulator-santas-workshop-winter-2023.json) |
 | PowerWash Simulator: Shrek Special Pack | 314930 | [314930-powerwash-simulator-shrek-special-pack.json](./314930-powerwash-simulator-shrek-special-pack.json) |
@@ -11176,6 +11181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzlelicious | 88260 | [88260-puzzlelicious.json](./88260-puzzlelicious.json) |
 | Puzzler | 104252 | [104252-puzzler.json](./104252-puzzler.json) |
 | Puzzler Clover | 69300 | [69300-puzzler-clover.json](./69300-puzzler-clover.json) |
+| Puzzler World | 308990 | [308990-puzzler-world.json](./308990-puzzler-world.json) |
 | Puzzlerama | 289567 | [289567-puzzlerama.json](./289567-puzzlerama.json) |
 | Puzzlerio | 270945 | [270945-puzzlerio.json](./270945-puzzlerio.json) |
 | Puzzles & Chaos | 301582 | [301582-puzzles-and-chaos.json](./301582-puzzles-and-chaos.json) |
