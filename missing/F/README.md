@@ -2703,7 +2703,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FIFA Street 3 | 240359 | [240359-fifa-street-3.json](./240359-fifa-street-3.json) |
 | FIFA Street 3 | 7304 | [7304-fifa-street-3.json](./7304-fifa-street-3.json) |
 | FIFA Superstars | 304276 | [304276-fifa-superstars.json](./304276-fifa-superstars.json) |
+| FIFA Women’s World Cup 2023 | 317511 | [317511-fifa-women-s-world-cup-2023.json](./317511-fifa-women-s-world-cup-2023.json) |
 | FIFA World | 7433 | [7433-fifa-world.json](./7433-fifa-world.json) |
+| FIFA World Cup 2022 | 317509 | [317509-fifa-world-cup-2022.json](./317509-fifa-world-cup-2022.json) |
 | FIFA World Cup Germany 2006 | 240285 | [240285-fifa-world-cup-germany-2006.json](./240285-fifa-world-cup-germany-2006.json) |
 | FIFA World Cup Germany 2006 | 49300 | [49300-fifa-world-cup-germany-2006.json](./49300-fifa-world-cup-germany-2006.json) |
 | FIFA World Cup: Launch Edition | 404400 | [404400-fifa-world-cup-launch-edition.json](./404400-fifa-world-cup-launch-edition.json) |
@@ -3665,6 +3667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fireball Spam | 243788 | [243788-fireball-spam.json](./243788-fireball-spam.json) |
 | Fireball Wizard | 192846 | [192846-fireball-wizard.json](./192846-fireball-wizard.json) |
 | Firebase Defence | 110519 | [110519-firebase-defence.json](./110519-firebase-defence.json) |
+| Firebat: Revolution | 317550 | [317550-firebat-revolution.json](./317550-firebat-revolution.json) |
 | Firebird - The Unfinished | 99215 | [99215-firebird-the-unfinished.json](./99215-firebird-the-unfinished.json) |
 | Firebird: Tale of the Stolen Light | 381017 | [381017-firebird-tale-of-the-stolen-light.json](./381017-firebird-tale-of-the-stolen-light.json) |
 | Fireblaster | 69256 | [69256-fireblaster.json](./69256-fireblaster.json) |
@@ -8014,6 +8017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Funbag Fantasy 4: Brother Astor | 210718 | [210718-funbag-fantasy-4-brother-astor.json](./210718-funbag-fantasy-4-brother-astor.json) |
 | Funbag Fantasy: Sideboob Story | 127949 | [127949-funbag-fantasy-sideboob-story.json](./127949-funbag-fantasy-sideboob-story.json) |
 | Funball | 94946 | [94946-funball.json](./94946-funball.json) |
+| Funbox Ultimate Slots Bundle | 317549 | [317549-funbox-ultimate-slots-bundle.json](./317549-funbox-ultimate-slots-bundle.json) |
 | Function | 119618 | [119618-function.json](./119618-function.json) |
 | Function.Repair | 63827 | [63827-function-repair.json](./63827-function-repair.json) |
 | Functional: Trees | 296599 | [296599-functional-trees.json](./296599-functional-trees.json) |
