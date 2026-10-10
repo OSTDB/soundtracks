@@ -699,6 +699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales & Dragons: Merge Puzzle | 254178 | [254178-tales-and-dragons-merge-puzzle.json](./254178-tales-and-dragons-merge-puzzle.json) |
 | Tales AFar | 233497 | [233497-tales-afar.json](./233497-tales-afar.json) |
 | Tales Beyond the Tomb: No Witnesses | 407331 | [407331-tales-beyond-the-tomb-no-witnesses.json](./407331-tales-beyond-the-tomb-no-witnesses.json) |
+| Tales Beyond the Tomb: Pineville Night Stalker | 322838 | [322838-tales-beyond-the-tomb-pineville-night-stalker.json](./322838-tales-beyond-the-tomb-pineville-night-stalker.json) |
 | Tales Beyond the Tomb: Route 86 | 362327 | [362327-tales-beyond-the-tomb-route-86.json](./362327-tales-beyond-the-tomb-route-86.json) |
 | Tales Beyond the Tomb: The Farm's Secret | 326746 | [326746-tales-beyond-the-tomb-the-farms-secret.json](./326746-tales-beyond-the-tomb-the-farms-secret.json) |
 | Tales Beyond the Tomb: The Last Vigil | 329762 | [329762-tales-beyond-the-tomb-the-last-vigil.json](./329762-tales-beyond-the-tomb-the-last-vigil.json) |
@@ -8500,6 +8501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mnemograph | 337304 | [337304-the-mnemograph.json](./337304-the-mnemograph.json) |
 | The Moaning Words | 60913 | [60913-the-moaning-words.json](./60913-the-moaning-words.json) |
 | The Möbius Strip | 366731 | [366731-the-mobius-strip.json](./366731-the-mobius-strip.json) |
+| The Mobius: Apartment | 322635 | [322635-the-mobius-apartment.json](./322635-the-mobius-apartment.json) |
 | The Modern Atlas | 404779 | [404779-the-modern-atlas.json](./404779-the-modern-atlas.json) |
 | The Mofflys: Invasion Mayhem | 278509 | [278509-the-mofflys-invasion-mayhem.json](./278509-the-mofflys-invasion-mayhem.json) |
 | The Moment We Met | 110910 | [110910-the-moment-we-met.json](./110910-the-moment-we-met.json) |
@@ -10596,6 +10598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Superfluous | 31953 | [31953-the-superfluous.json](./31953-the-superfluous.json) |
 | The Superfluous Sand | 133398 | [133398-the-superfluous-sand.json](./133398-the-superfluous-sand.json) |
 | The Superlatives: Aetherfall | 74668 | [74668-the-superlatives-aetherfall.json](./74668-the-superlatives-aetherfall.json) |
+| The Supernatural Power Troll | 322844 | [322844-the-supernatural-power-troll.json](./322844-the-supernatural-power-troll.json) |
 | The Supper | 128289 | [128289-the-supper.json](./128289-the-supper.json) |
 | The Supplier's Complex | 343201 | [343201-the-suppliers-complex.json](./343201-the-suppliers-complex.json) |
 | The Surfeit: Episode 1 | 170497 | [170497-the-surfeit-episode-1.json](./170497-the-surfeit-episode-1.json) |
@@ -11344,6 +11347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Urinal Game | 60050 | [60050-the-urinal-game.json](./60050-the-urinal-game.json) |
 | The USB Stick Found in the Grass | 169467 | [169467-the-usb-stick-found-in-the-grass.json](./169467-the-usb-stick-found-in-the-grass.json) |
 | The Useful Dead | 62830 | [62830-the-useful-dead.json](./62830-the-useful-dead.json) |
+| The Useless App | 322815 | [322815-the-useless-app.json](./322815-the-useless-app.json) |
 | The Usurper: The Mines Of Qyntarr | 15516 | [15516-the-usurper-the-mines-of-qyntarr.json](./15516-the-usurper-the-mines-of-qyntarr.json) |
 | The V Anomaly | 390539 | [390539-the-v-anomaly.json](./390539-the-v-anomaly.json) |
 | The Valiant: Coat of Arms collection | 257533 | [257533-the-valiant-coat-of-arms-collection.json](./257533-the-valiant-coat-of-arms-collection.json) |
@@ -11732,6 +11736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wizard | 236332 | [236332-the-wizard.json](./236332-the-wizard.json) |
 | The Wizard and The Slug | 139400 | [139400-the-wizard-and-the-slug.json](./139400-the-wizard-and-the-slug.json) |
 | The Wizard Game | 149092 | [149092-the-wizard-game.json](./149092-the-wizard-game.json) |
+| The Wizard Gnome Quest | 322823 | [322823-the-wizard-gnome-quest.json](./322823-the-wizard-gnome-quest.json) |
 | The Wizard Needs Food, Badly! | 330717 | [330717-the-wizard-needs-food-badly.json](./330717-the-wizard-needs-food-badly.json) |
 | The Wizard of Bug | 345980 | [345980-the-wizard-of-bug.json](./345980-the-wizard-of-bug.json) |
 | The Wizard of Gloss | 400537 | [400537-the-wizard-of-gloss.json](./400537-the-wizard-of-gloss.json) |
@@ -15365,6 +15370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomb Raider Level Editor | 130808 | [130808-tomb-raider-level-editor.json](./130808-tomb-raider-level-editor.json) |
 | Tomb Raider Reloaded | 143139 | [143139-tomb-raider-reloaded.json](./143139-tomb-raider-reloaded.json) |
 | Tomb Raider Starring Lara Croft | 36878 | [36878-tomb-raider-starring-lara-croft.json](./36878-tomb-raider-starring-lara-croft.json) |
+| Tomb Raider VR: Lara's Escape | 322639 | [322639-tomb-raider-vr-laras-escape.json](./322639-tomb-raider-vr-laras-escape.json) |
 | Tomb Raider: Anniversary | 370001 | [370001-tomb-raider-anniversary.json](./370001-tomb-raider-anniversary.json) |
 | Tomb Raider: Anniversary | 381690 | [381690-tomb-raider-anniversary.json](./381690-tomb-raider-anniversary.json) |
 | Tomb Raider: Anniversary - Collectors Edition | 202972 | [202972-tomb-raider-anniversary-collectors-edition.json](./202972-tomb-raider-anniversary-collectors-edition.json) |
@@ -16194,6 +16200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Blooming Chaos 2: Chara Pack Special - Mystia Lorelei | 169324 | [169324-touhou-blooming-chaos-2-chara-pack-special-mystia-lorelei.json](./169324-touhou-blooming-chaos-2-chara-pack-special-mystia-lorelei.json) |
 | Touhou Blooming Soul | 203848 | [203848-touhou-blooming-soul.json](./203848-touhou-blooming-soul.json) |
 | Touhou Cannonball | 111052 | [111052-touhou-cannonball.json](./111052-touhou-cannonball.json) |
+| Touhou Chaos of Black Loong | 322860 | [322860-touhou-chaos-of-black-loong.json](./322860-touhou-chaos-of-black-loong.json) |
 | Touhou Chouseisho: Sapphire Panlogism | 181892 | [181892-touhou-chouseisho-sapphire-panlogism.json](./181892-touhou-chouseisho-sapphire-panlogism.json) |
 | Touhou Chronicle of Youkai Prayers | 356567 | [356567-touhou-chronicle-of-youkai-prayers.json](./356567-touhou-chronicle-of-youkai-prayers.json) |
 | Touhou Chronicles: Tales of the Two Immortals | 372059 | [372059-touhou-chronicles-tales-of-the-two-immortals.json](./372059-touhou-chronicles-tales-of-the-two-immortals.json) |
@@ -16474,6 +16481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Towards the Pantheon | 25316 | [25316-towards-the-pantheon.json](./25316-towards-the-pantheon.json) |
 | Towards the Sky | 144749 | [144749-towards-the-sky.json](./144749-towards-the-sky.json) |
 | Towards the Stars | 150689 | [150689-towards-the-stars.json](./150689-towards-the-stars.json) |
+| Towel Day | 322831 | [322831-towel-day.json](./322831-towel-day.json) |
 | Towel Required! | 223667 | [223667-towel-required.json](./223667-towel-required.json) |
 | Towelket: One More Time 2 (Karaage Tanpopo) | 146883 | [146883-towelket-one-more-time-2-karaage-tanpopo.json](./146883-towelket-one-more-time-2-karaage-tanpopo.json) |
 | Towelket: One More Time 3 Karaage Tanpopo | 146554 | [146554-towelket-one-more-time-3-karaage-tanpopo.json](./146554-towelket-one-more-time-3-karaage-tanpopo.json) |
