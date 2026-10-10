@@ -2287,6 +2287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Manor | 79976 | [79976-ghost-manor.json](./79976-ghost-manor.json) |
 | Ghost Marine Shooter Pro | 87536 | [87536-ghost-marine-shooter-pro.json](./87536-ghost-marine-shooter-pro.json) |
 | Ghost Master | 726 | [726-ghost-master.json](./726-ghost-master.json) |
+| Ghost Master: Complete Edition | 290310 | [290310-ghost-master-complete-edition.json](./290310-ghost-master-complete-edition.json) |
 | Ghost Master: Resurrection | 334665 | [334665-ghost-master-resurrection.json](./334665-ghost-master-resurrection.json) |
 | Ghost Master: Resurrection - Between Worlds | 396128 | [396128-ghost-master-resurrection-between-worlds.json](./396128-ghost-master-resurrection-between-worlds.json) |
 | Ghost Master: Resurrection - Blood & Stone | 396129 | [396129-ghost-master-resurrection-blood-and-stone.json](./396129-ghost-master-resurrection-blood-and-stone.json) |
