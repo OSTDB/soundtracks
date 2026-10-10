@@ -1001,6 +1001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Verses of Hope | 313199 | [313199-verses-of-hope.json](./313199-verses-of-hope.json) |
 | Version Fille | 125947 | [125947-version-fille.json](./125947-version-fille.json) |
 | Version Three: Invisible Raid | 258035 | [258035-version-three-invisible-raid.json](./258035-version-three-invisible-raid.json) |
+| Versus | 285907 | [285907-versus.json](./285907-versus.json) |
 | Versus in the Dark | 325021 | [325021-versus-in-the-dark.json](./325021-versus-in-the-dark.json) |
 | Versus One | 387056 | [387056-versus-one.json](./387056-versus-one.json) |
 | Versus One | 391755 | [391755-versus-one.json](./391755-versus-one.json) |
