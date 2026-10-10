@@ -1836,6 +1836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Only Down! | 257379 | [257379-only-down.json](./257379-only-down.json) |
 | Only Drive | 279105 | [279105-only-drive.json](./279105-only-drive.json) |
 | Only Faces Remain | 382917 | [382917-only-faces-remain.json](./382917-only-faces-remain.json) |
+| Only False | 330674 | [330674-only-false.json](./330674-only-false.json) |
 | Only Farms | 420533 | [420533-only-farms.json](./420533-only-farms.json) |
 | Only for Gamers | 333191 | [333191-only-for-gamers.json](./333191-only-for-gamers.json) |
 | Only Fortress | 266277 | [266277-only-fortress.json](./266277-only-fortress.json) |
@@ -2094,6 +2095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operation Food to Gold | 278385 | [278385-operation-food-to-gold.json](./278385-operation-food-to-gold.json) |
 | Operation Fungus | 124576 | [124576-operation-fungus.json](./124576-operation-fungus.json) |
 | Operation Gekkou | 210688 | [210688-operation-gekkou.json](./210688-operation-gekkou.json) |
+| Operation Get Bike Back 2: Pedal Recall | 330766 | [330766-operation-get-bike-back-2-pedal-recall.json](./330766-operation-get-bike-back-2-pedal-recall.json) |
 | Operation H.O.P.E. | 392784 | [392784-operation-h-o-p-e.json](./392784-operation-h-o-p-e.json) |
 | Operation Hongkong | 28698 | [28698-operation-hongkong.json](./28698-operation-hongkong.json) |
 | Operation HuntingHawk : Breakthrough | 367938 | [367938-operation-huntinghawk-breakthrough.json](./367938-operation-huntinghawk-breakthrough.json) |
@@ -2180,6 +2182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Opi Popi | 398690 | [398690-opi-popi.json](./398690-opi-popi.json) |
 | Opia | 322946 | [322946-opia.json](./322946-opia.json) |
 | Opioid visions 88 | 319687 | [319687-opioid-visions-88.json](./319687-opioid-visions-88.json) |
+| Oplero | 330672 | [330672-oplero.json](./330672-oplero.json) |
 | Oplitak | 155982 | [155982-oplitak.json](./155982-oplitak.json) |
 | Opollo | 360718 | [360718-opollo.json](./360718-opollo.json) |
 | Oppai Academy Big, Bouncy, Booby Babes! | 147454 | [147454-oppai-academy-big-bouncy-booby-babes.json](./147454-oppai-academy-big-bouncy-booby-babes.json) |
