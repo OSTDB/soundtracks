@@ -77,6 +77,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | B360 | 133393 | [133393-b360.json](./133393-b360.json) |
 | B67 | 138742 | [138742-b67.json](./138742-b67.json) |
 | B99 | 133265 | [133265-b99.json](./133265-b99.json) |
+| B99 Overclocked | 288664 | [288664-b99-overclocked.json](./288664-b99-overclocked.json) |
 | Ba Quartet X | 276296 | [276296-ba-quartet-x.json](./276296-ba-quartet-x.json) |
 | Baa-Baa Blitz: The Sheeps kebab Incident | 359024 | [359024-baa-baa-blitz-the-sheeps-kebab-incident.json](./359024-baa-baa-blitz-the-sheeps-kebab-incident.json) |
 | Baa! Never Stop Bleating | 295565 | [295565-baa-never-stop-bleating.json](./295565-baa-never-stop-bleating.json) |
@@ -10675,6 +10676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burden RPG | 388403 | [388403-burden-rpg.json](./388403-burden-rpg.json) |
 | Burden Street Station | 347812 | [347812-burden-street-station.json](./347812-burden-street-station.json) |
 | Burdock 2 | 353766 | [353766-burdock-2.json](./353766-burdock-2.json) |
+| Bureau of Contacts | 288669 | [288669-bureau-of-contacts.json](./288669-bureau-of-contacts.json) |
 | Bureaucromancer | 408233 | [408233-bureaucromancer.json](./408233-bureaucromancer.json) |
 | Burg Battle | 153391 | [153391-burg-battle.json](./153391-burg-battle.json) |
 | Burg Schreckenstein: Der Dieb von Burg Schreckenstein | 376559 | [376559-burg-schreckenstein-der-dieb-von-burg-schreckenstein.json](./376559-burg-schreckenstein-der-dieb-von-burg-schreckenstein.json) |
