@@ -590,6 +590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Variant 22 | 234674 | [234674-variant-22.json](./234674-variant-22.json) |
 | Variant: Limits | 69317 | [69317-variant-limits.json](./69317-variant-limits.json) |
 | Varicella | 9519 | [9519-varicella.json](./9519-varicella.json) |
+| VariDungeon | 307350 | [307350-varidungeon.json](./307350-varidungeon.json) |
 | Varion | 87960 | [87960-varion.json](./87960-varion.json) |
 | Various Daylife: Mobile | 233061 | [233061-various-daylife-mobile.json](./233061-various-daylife-mobile.json) |
 | Varista | 258600 | [258600-varista.json](./258600-varista.json) |
@@ -634,6 +635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vavio | 181923 | [181923-vavio.json](./181923-vavio.json) |
 | Vay | 304287 | [304287-vay.json](./304287-vay.json) |
 | Vayan | 216494 | [216494-vayan.json](./216494-vayan.json) |
+| Vaygren: Lustful Temptation | 307173 | [307173-vaygren-lustful-temptation.json](./307173-vaygren-lustful-temptation.json) |
 | Vazial Saga XX | 166633 | [166633-vazial-saga-xx.json](./166633-vazial-saga-xx.json) |
 | VB Mario Land | 175949 | [175949-vb-mario-land.json](./175949-vb-mario-land.json) |
 | VBS1 | 94962 | [94962-vbs1.json](./94962-vbs1.json) |
