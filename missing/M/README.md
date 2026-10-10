@@ -2921,6 +2921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvel Super Heroes in War of the Gems | 42656 | [42656-marvel-super-heroes-in-war-of-the-gems.json](./42656-marvel-super-heroes-in-war-of-the-gems.json) |
 | Marvel Super Heroes vs. Street Fighter | 8245 | [8245-marvel-super-heroes-vs-street-fighter.json](./8245-marvel-super-heroes-vs-street-fighter.json) |
 | Marvel Super Heroes: War Of The Gems | 271768 | [271768-marvel-super-heroes-war-of-the-gems.json](./271768-marvel-super-heroes-war-of-the-gems.json) |
+| Marvel Super-Heroes | 290325 | [290325-marvel-super-heroes.json](./290325-marvel-super-heroes.json) |
 | Marvel Tokon: Fighting Souls - Year 1 Character and Stage Pass | 411741 | [411741-marvel-tokon-fighting-souls-year-1-character-and-stage-pass.json](./411741-marvel-tokon-fighting-souls-year-1-character-and-stage-pass.json) |
 | Marvel Tokon: Fighting Souls - Year 1 DLC Character: Phoenix Cyclops | 411743 | [411743-marvel-tokon-fighting-souls-year-1-dlc-character-phoenix-cyclops.json](./411743-marvel-tokon-fighting-souls-year-1-dlc-character-phoenix-cyclops.json) |
 | Marvel Trading Card Game | 21955 | [21955-marvel-trading-card-game.json](./21955-marvel-trading-card-game.json) |
@@ -9070,6 +9071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mohism | 152378 | [152378-mohism.json](./152378-mohism.json) |
 | MoHo | 176877 | [176877-moho.json](./176877-moho.json) |
 | Mohrta | 298795 | [298795-mohrta.json](./298795-mohrta.json) |
+| MoHun Online | 290316 | [290316-mohun-online.json](./290316-mohun-online.json) |
 | Moi Mei: Hidden Objects | 199655 | [199655-moi-mei-hidden-objects.json](./199655-moi-mei-hidden-objects.json) |
 | Moi Moi Heroes | 275125 | [275125-moi-moi-heroes.json](./275125-moi-moi-heroes.json) |
 | Moira | 182523 | [182523-moira.json](./182523-moira.json) |
@@ -12373,6 +12375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Downtown | 153981 | [153981-my-downtown.json](./153981-my-downtown.json) |
 | My Dragon Party | 197258 | [197258-my-dragon-party.json](./197258-my-dragon-party.json) |
 | My Dragon: Virtual Pet Game | 331361 | [331361-my-dragon-virtual-pet-game.json](./331361-my-dragon-virtual-pet-game.json) |
+| My Dream Day | 290326 | [290326-my-dream-day.json](./290326-my-dream-day.json) |
 | My Dream Girl | 173841 | [173841-my-dream-girl.json](./173841-my-dream-girl.json) |
 | My Dream Girls | 173836 | [173836-my-dream-girls.json](./173836-my-dream-girls.json) |
 | My Dream is to Be a Model, Not a Maid! | 212806 | [212806-my-dream-is-to-be-a-model-not-a-maid.json](./212806-my-dream-is-to-be-a-model-not-a-maid.json) |
@@ -12421,6 +12424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Father My Son | 188684 | [188684-my-father-my-son.json](./188684-my-father-my-son.json) |
 | My Father's House | 265318 | [265318-my-fathers-house.json](./265318-my-fathers-house.json) |
 | My Father's Secret | 170351 | [170351-my-fathers-secret.json](./170351-my-fathers-secret.json) |
+| My Favorite Doll | 290328 | [290328-my-favorite-doll.json](./290328-my-favorite-doll.json) |
 | My Favorite Dream Girls | 401695 | [401695-my-favorite-dream-girls.json](./401695-my-favorite-dream-girls.json) |
 | My Favorite Match | 179510 | [179510-my-favorite-match.json](./179510-my-favorite-match.json) |
 | My Favorite Monster | 261305 | [261305-my-favorite-monster.json](./261305-my-favorite-monster.json) |
