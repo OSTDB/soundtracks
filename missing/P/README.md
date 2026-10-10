@@ -3864,6 +3864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pie Jackers | 209963 | [209963-pie-jackers.json](./209963-pie-jackers.json) |
 | Pie O'Clock! | 190965 | [190965-pie-oclock.json](./190965-pie-oclock.json) |
 | Pie Pie Cafeteria | 392248 | [392248-pie-pie-cafeteria.json](./392248-pie-pie-cafeteria.json) |
+| Pie-Man | 287026 | [287026-pie-man.json](./287026-pie-man.json) |
 | Piece by Piece | 332452 | [332452-piece-by-piece.json](./332452-piece-by-piece.json) |
 | Piece It! | 295143 | [295143-piece-it.json](./295143-piece-it.json) |
 | Piece Link | 278157 | [278157-piece-link.json](./278157-piece-link.json) |
@@ -7667,6 +7668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pool Shark | 169226 | [169226-pool-shark.json](./169226-pool-shark.json) |
 | Pool Shark 2 | 5984 | [5984-pool-shark-2.json](./5984-pool-shark-2.json) |
 | Pool Sharks | 92437 | [92437-pool-sharks.json](./92437-pool-sharks.json) |
+| Pool Together 2 | 287039 | [287039-pool-together-2.json](./287039-pool-together-2.json) |
 | Pool Together Bundle | 315842 | [315842-pool-together-bundle.json](./315842-pool-together-bundle.json) |
 | Pool Tour Master | 22379 | [22379-pool-tour-master.json](./22379-pool-tour-master.json) |
 | Pool: 8 Ball Billiards | 173139 | [173139-pool-8-ball-billiards.json](./173139-pool-8-ball-billiards.json) |
@@ -9633,6 +9635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Frontier | 286067 | [286067-project-frontier.json](./286067-project-frontier.json) |
 | Project G | 32773 | [32773-project-g.json](./32773-project-g.json) |
 | Project Gaiaray | 71022 | [71022-project-gaiaray.json](./71022-project-gaiaray.json) |
+| Project Galaxy | 286997 | [286997-project-galaxy.json](./286997-project-galaxy.json) |
 | Project Genesis | 114409 | [114409-project-genesis.json](./114409-project-genesis.json) |
 | Project Genom | 24907 | [24907-project-genom.json](./24907-project-genom.json) |
 | Project Genom: Gold Avalon Pack | 225569 | [225569-project-genom-gold-avalon-pack.json](./225569-project-genom-gold-avalon-pack.json) |
@@ -9819,6 +9822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Rocket: Invasion Resurgence | 297188 | [297188-project-rocket-invasion-resurgence.json](./297188-project-rocket-invasion-resurgence.json) |
 | Project Rod3nt | 401073 | [401073-project-rod3nt.json](./401073-project-rod3nt.json) |
 | Project Rogueteers | 316772 | [316772-project-rogueteers.json](./316772-project-rogueteers.json) |
+| Project Roll | 287040 | [287040-project-roll.json](./287040-project-roll.json) |
 | Project Romboid | 207300 | [207300-project-romboid.json](./207300-project-romboid.json) |
 | Project Root | 17145 | [17145-project-root.json](./17145-project-root.json) |
 | Project Rope Tool | 310136 | [310136-project-rope-tool.json](./310136-project-rope-tool.json) |
