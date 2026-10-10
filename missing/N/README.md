@@ -2164,6 +2164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | News Agency Simulator | 127852 | [127852-news-agency-simulator.json](./127852-news-agency-simulator.json) |
 | News Reacts | 197127 | [197127-news-reacts.json](./197127-news-reacts.json) |
 | News Roll | 385361 | [385361-news-roll.json](./385361-news-roll.json) |
+| Newspaper Day | 319833 | [319833-newspaper-day.json](./319833-newspaper-day.json) |
 | Newspaper Puzzle Challenge: Sudoku Edition | 210035 | [210035-newspaper-puzzle-challenge-sudoku-edition.json](./210035-newspaper-puzzle-challenge-sudoku-edition.json) |
 | Newsun | 324519 | [324519-newsun.json](./324519-newsun.json) |
 | Newt One | 98145 | [98145-newt-one.json](./98145-newt-one.json) |
