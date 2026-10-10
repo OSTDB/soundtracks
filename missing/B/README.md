@@ -2908,6 +2908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BDSM Sex: Episode 2 | 295381 | [295381-bdsm-sex-episode-2.json](./295381-bdsm-sex-episode-2.json) |
 | BDSM Sex: Episode 3 | 295382 | [295382-bdsm-sex-episode-3.json](./295382-bdsm-sex-episode-3.json) |
 | BDSM Sex: Episode 4 | 295383 | [295383-bdsm-sex-episode-4.json](./295383-bdsm-sex-episode-4.json) |
+| BDSM Sex: Episode 5 | 301644 | [301644-bdsm-sex-episode-5.json](./301644-bdsm-sex-episode-5.json) |
 | BDSM Sex: Episode 6 | 302081 | [302081-bdsm-sex-episode-6.json](./302081-bdsm-sex-episode-6.json) |
 | BDSM Sex: Futanari | 417409 | [417409-bdsm-sex-futanari.json](./417409-bdsm-sex-futanari.json) |
 | Be | 207329 | [207329-be.json](./207329-be.json) |
@@ -6037,6 +6038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blazing Aries | 153904 | [153904-blazing-aries.json](./153904-blazing-aries.json) |
 | Blazing Chrome | 55042 | [55042-blazing-chrome.json](./55042-blazing-chrome.json) |
 | Blazing Core | 91140 | [91140-blazing-core.json](./91140-blazing-core.json) |
+| Blazing Crow | 301619 | [301619-blazing-crow.json](./301619-blazing-crow.json) |
 | Blazing Dragon | 258502 | [258502-blazing-dragon.json](./258502-blazing-dragon.json) |
 | Blazing Dragon Slayer · Divine Weapon Awakening | 358508 | [358508-blazing-dragon-slayer-divine-weapon-awakening.json](./358508-blazing-dragon-slayer-divine-weapon-awakening.json) |
 | Blazing Dragons | 45514 | [45514-blazing-dragons.json](./45514-blazing-dragons.json) |
