@@ -3884,6 +3884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexbot Colony | 279848 | [279848-hexbot-colony.json](./279848-hexbot-colony.json) |
 | Hexbound | 345412 | [345412-hexbound.json](./345412-hexbound.json) |
 | HexCasters | 181250 | [181250-hexcasters.json](./181250-hexcasters.json) |
+| Hexcavator | 333029 | [333029-hexcavator.json](./333029-hexcavator.json) |
 | Hexceed: Alphard | 397883 | [397883-hexceed-alphard.json](./397883-hexceed-alphard.json) |
 | hexceed: Animo | 155694 | [155694-hexceed-animo.json](./155694-hexceed-animo.json) |
 | Hexceed: Aquila | 397882 | [397882-hexceed-aquila.json](./397882-hexceed-aquila.json) |
