@@ -666,6 +666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 14Days in Dream | 93745 | [93745-14days-in-dream.json](./93745-14days-in-dream.json) |
 | 15 Days | 26208 | [26208-15-days.json](./26208-15-days.json) |
 | 15 Defense | 90474 | [90474-15-defense.json](./90474-15-defense.json) |
+| 15 in 1 Family Games Mega Collection | 332488 | [332488-15-in-1-family-games-mega-collection.json](./332488-15-in-1-family-games-mega-collection.json) |
 | 15 in 1 Solitaire | 187457 | [187457-15-in-1-solitaire.json](./187457-15-in-1-solitaire.json) |
 | 15 Minutes | 308342 | [308342-15-minutes.json](./308342-15-minutes.json) |
 | 15 Minutes | 355071 | [355071-15-minutes.json](./355071-15-minutes.json) |
