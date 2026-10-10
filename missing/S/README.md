@@ -2203,6 +2203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scrandle | 342592 | [342592-scrandle.json](./342592-scrandle.json) |
 | Scrap Age | 280468 | [280468-scrap-age.json](./280468-scrap-age.json) |
 | Scrap Age Survivors | 306498 | [306498-scrap-age-survivors.json](./306498-scrap-age-survivors.json) |
+| Scrap and Battery | 284297 | [284297-scrap-and-battery.json](./284297-scrap-and-battery.json) |
 | Scrap Attack | 81924 | [81924-scrap-attack.json](./81924-scrap-attack.json) |
 | Scrap Bringer | 172130 | [172130-scrap-bringer.json](./172130-scrap-bringer.json) |
 | Scrap Clicker | 397173 | [397173-scrap-clicker.json](./397173-scrap-clicker.json) |
@@ -2490,6 +2491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea of Lies: Tide of Treachery - Collector's Edition | 102942 | [102942-sea-of-lies-tide-of-treachery-collectors-edition.json](./102942-sea-of-lies-tide-of-treachery-collectors-edition.json) |
 | Sea of Memories | 102381 | [102381-sea-of-memories.json](./102381-sea-of-memories.json) |
 | Sea of ​Mutation | 309688 | [309688-sea-of-mutation.json](./309688-sea-of-mutation.json) |
+| Sea of Phantom Flowers | 284289 | [284289-sea-of-phantom-flowers.json](./284289-sea-of-phantom-flowers.json) |
 | Sea of Pirates | 408791 | [408791-sea-of-pirates.json](./408791-sea-of-pirates.json) |
 | Sea of Radiation | 286005 | [286005-sea-of-radiation.json](./286005-sea-of-radiation.json) |
 | Sea of Radiation 2 | 360154 | [360154-sea-of-radiation-2.json](./360154-sea-of-radiation-2.json) |
@@ -3040,6 +3042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seeking Evil: The Wendigo | 28148 | [28148-seeking-evil-the-wendigo.json](./28148-seeking-evil-the-wendigo.json) |
 | Seeking for Puppies | 359415 | [359415-seeking-for-puppies.json](./359415-seeking-for-puppies.json) |
 | Seeking Light | 210698 | [210698-seeking-light.json](./210698-seeking-light.json) |
+| Seeking Light: Chapter 1 | 284277 | [284277-seeking-light-chapter-1.json](./284277-seeking-light-chapter-1.json) |
 | Seeking Revenge | 158225 | [158225-seeking-revenge.json](./158225-seeking-revenge.json) |
 | Seeking the Guardian | 344400 | [344400-seeking-the-guardian.json](./344400-seeking-the-guardian.json) |
 | SeekIt: Max Dublin's Treasure | 306021 | [306021-seekit-max-dublins-treasure.json](./306021-seekit-max-dublins-treasure.json) |
@@ -3897,6 +3900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex Simulator: Gym Girls | 385041 | [385041-sex-simulator-gym-girls.json](./385041-sex-simulator-gym-girls.json) |
 | Sex Simulator: Hot Sauna | 237281 | [237281-sex-simulator-hot-sauna.json](./237281-sex-simulator-hot-sauna.json) |
 | Sex Simulator: Love Room | 385046 | [385046-sex-simulator-love-room.json](./385046-sex-simulator-love-room.json) |
+| Sex Simulator: Naughty Trainer | 284296 | [284296-sex-simulator-naughty-trainer.json](./284296-sex-simulator-naughty-trainer.json) |
 | Sex Simulator: Naughty Waitress | 275002 | [275002-sex-simulator-naughty-waitress.json](./275002-sex-simulator-naughty-waitress.json) |
 | Sex Simulator: Office Affairs | 385043 | [385043-sex-simulator-office-affairs.json](./385043-sex-simulator-office-affairs.json) |
 | Sex Simulator: Office Promotion | 266493 | [266493-sex-simulator-office-promotion.json](./266493-sex-simulator-office-promotion.json) |
