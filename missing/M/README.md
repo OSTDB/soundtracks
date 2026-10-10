@@ -9384,6 +9384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monk & The Misfit Monsters | 413622 | [413622-monk-and-the-misfit-monsters.json](./413622-monk-and-the-misfit-monsters.json) |
 | Monk Took Book | 393839 | [393839-monk-took-book.json](./393839-monk-took-book.json) |
 | Monkaru Fanta: Yuusha to Suishou no Shoujo | 348924 | [348924-monkaru-fanta-yuusha-to-suishou-no-shoujo.json](./348924-monkaru-fanta-yuusha-to-suishou-no-shoujo.json) |
+| Monke Island: Rise of the Beast | 283115 | [283115-monke-island-rise-of-the-beast.json](./283115-monke-island-rise-of-the-beast.json) |
 | Monkee Game | 269230 | [269230-monkee-game.json](./269230-monkee-game.json) |
 | Monkeround | 326219 | [326219-monkeround.json](./326219-monkeround.json) |
 | Monkey | 305464 | [305464-monkey.json](./305464-monkey.json) |
@@ -10742,6 +10743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moscow Metro Wars | 348415 | [348415-moscow-metro-wars.json](./348415-moscow-metro-wars.json) |
 | Moscow Rush | 120765 | [120765-moscow-rush.json](./120765-moscow-rush.json) |
 | Moscow to Berlin: Red Siege | 20541 | [20541-moscow-to-berlin-red-siege.json](./20541-moscow-to-berlin-red-siege.json) |
+| Moses & Plato: Last Train to Clawville | 283084 | [283084-moses-and-plato-last-train-to-clawville.json](./283084-moses-and-plato-last-train-to-clawville.json) |
 | Moses: Old Testament Adventure #1 | 100018 | [100018-moses-old-testament-adventure-1.json](./100018-moses-old-testament-adventure-1.json) |
 | Mosh Lift | 283798 | [283798-mosh-lift.json](./283798-mosh-lift.json) |
 | Mosh Pit Simulator | 109545 | [109545-mosh-pit-simulator.json](./109545-mosh-pit-simulator.json) |
@@ -10904,6 +10906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moto Rush GT: Add-on Edition | 404282 | [404282-moto-rush-gt-add-on-edition.json](./404282-moto-rush-gt-add-on-edition.json) |
 | Moto Rush GT: Advanced Edition | 315871 | [315871-moto-rush-gt-advanced-edition.json](./315871-moto-rush-gt-advanced-edition.json) |
 | Moto Rush GT: Back To School Edition | 263541 | [263541-moto-rush-gt-back-to-school-edition.json](./263541-moto-rush-gt-back-to-school-edition.json) |
+| Moto Rush GT: Complete Edition | 283137 | [283137-moto-rush-gt-complete-edition.json](./283137-moto-rush-gt-complete-edition.json) |
 | Moto Rush GT: Comprehensive Edition | 399823 | [399823-moto-rush-gt-comprehensive-edition.json](./399823-moto-rush-gt-comprehensive-edition.json) |
 | Moto Rush GT: Core Edition | 396922 | [396922-moto-rush-gt-core-edition.json](./396922-moto-rush-gt-core-edition.json) |
 | Moto Rush GT: Definitive Edition | 283139 | [283139-moto-rush-gt-definitive-edition.json](./283139-moto-rush-gt-definitive-edition.json) |
@@ -10920,6 +10923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moto Rush GT: Power Edition | 330202 | [330202-moto-rush-gt-power-edition.json](./330202-moto-rush-gt-power-edition.json) |
 | Moto Rush GT: Prime Edition | 271503 | [271503-moto-rush-gt-prime-edition.json](./271503-moto-rush-gt-prime-edition.json) |
 | Moto Rush GT: Silver Edition | 254688 | [254688-moto-rush-gt-silver-edition.json](./254688-moto-rush-gt-silver-edition.json) |
+| Moto Rush GT: Ultimate Edition | 283138 | [283138-moto-rush-gt-ultimate-edition.json](./283138-moto-rush-gt-ultimate-edition.json) |
 | Moto Rush GT: Ultra Edition | 332512 | [332512-moto-rush-gt-ultra-edition.json](./332512-moto-rush-gt-ultra-edition.json) |
 | Moto Trophy VR | 226147 | [226147-moto-trophy-vr.json](./226147-moto-trophy-vr.json) |
 | Moto Wheelie | 257469 | [257469-moto-wheelie.json](./257469-moto-wheelie.json) |
