@@ -867,6 +867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panzer Corps 2: Axis Operations - 1945 | 248896 | [248896-panzer-corps-2-axis-operations-1945.json](./248896-panzer-corps-2-axis-operations-1945.json) |
 | Panzer Corps 2: Axis Operations - Spanish Civil War | 155049 | [155049-panzer-corps-2-axis-operations-spanish-civil-war.json](./155049-panzer-corps-2-axis-operations-spanish-civil-war.json) |
 | Panzer Corps 2: Elite - Ghost Division | 370129 | [370129-panzer-corps-2-elite-ghost-division.json](./370129-panzer-corps-2-elite-ghost-division.json) |
+| Panzer Corps 2: War Stories - Fall of Poland | 312303 | [312303-panzer-corps-2-war-stories-fall-of-poland.json](./312303-panzer-corps-2-war-stories-fall-of-poland.json) |
 | Panzer Corps: Allied Corps | 124793 | [124793-panzer-corps-allied-corps.json](./124793-panzer-corps-allied-corps.json) |
 | Panzer Corps: Soviet Corps | 124838 | [124838-panzer-corps-soviet-corps.json](./124838-panzer-corps-soviet-corps.json) |
 | Panzer Corps: US Corps | 124806 | [124806-panzer-corps-us-corps.json](./124806-panzer-corps-us-corps.json) |
@@ -2416,7 +2417,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pen Island VR | 31169 | [31169-pen-island-vr.json](./31169-pen-island-vr.json) |
 | Pen Pal Princess | 188942 | [188942-pen-pal-princess.json](./188942-pen-pal-princess.json) |
 | Pen Pals | 145020 | [145020-pen-pals.json](./145020-pen-pals.json) |
+| Pen to Paper | 312299 | [312299-pen-to-paper.json](./312299-pen-to-paper.json) |
 | Pen-chan | 385718 | [385718-pen-chan.json](./385718-pen-chan.json) |
+| Penalty | 312265 | [312265-penalty.json](./312265-penalty.json) |
 | Penalty Shooters Footy | 241061 | [241061-penalty-shooters-footy.json](./241061-penalty-shooters-footy.json) |
 | Penalty Soccer 2012 | 259560 | [259560-penalty-soccer-2012.json](./259560-penalty-soccer-2012.json) |
 | Penance | 135017 | [135017-penance.json](./135017-penance.json) |
@@ -3941,6 +3944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pikmin 2 Regrown | 299745 | [299745-pikmin-2-regrown.json](./299745-pikmin-2-regrown.json) |
 | Pikmin 2 WorldWide | 313357 | [313357-pikmin-2-worldwide.json](./313357-pikmin-2-worldwide.json) |
 | Pikmin 2: Caveless Edition | 270726 | [270726-pikmin-2-caveless-edition.json](./270726-pikmin-2-caveless-edition.json) |
+| Pikmin 2: New Year | 312294 | [312294-pikmin-2-new-year.json](./312294-pikmin-2-new-year.json) |
 | Pikmin 2D | 387584 | [387584-pikmin-2d.json](./387584-pikmin-2d.json) |
 | Pikmin 3 | 2241 | [2241-pikmin-3.json](./2241-pikmin-3.json) |
 | Pikmin 3 Deluxe | 136498 | [136498-pikmin-3-deluxe.json](./136498-pikmin-3-deluxe.json) |
@@ -4002,6 +4006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pikmin Stellar | 313356 | [313356-pikmin-stellar.json](./313356-pikmin-stellar.json) |
 | Pikmin Treasure Hunt | 342714 | [342714-pikmin-treasure-hunt.json](./342714-pikmin-treasure-hunt.json) |
 | Pikmin: Return to PNF-404 | 313353 | [313353-pikmin-return-to-pnf-404.json](./313353-pikmin-return-to-pnf-404.json) |
+| Pikmin.com SpaceForce | 312310 | [312310-pikmin-com-spaceforce.json](./312310-pikmin-com-spaceforce.json) |
 | Piko Fox! | 336610 | [336610-piko-fox.json](./336610-piko-fox.json) |
 | Piko Interactive Arcade 1 | 251707 | [251707-piko-interactive-arcade-1.json](./251707-piko-interactive-arcade-1.json) |
 | Piko Interactive Collection 1 | 130691 | [130691-piko-interactive-collection-1.json](./130691-piko-interactive-collection-1.json) |
@@ -4132,6 +4137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball | 131483 | [131483-pinball.json](./131483-pinball.json) |
 | Pinball | 131514 | [131514-pinball.json](./131514-pinball.json) |
 | Pinball | 131522 | [131522-pinball.json](./131522-pinball.json) |
+| Pinball | 312266 | [312266-pinball.json](./312266-pinball.json) |
 | Pinball | 44636 | [44636-pinball.json](./44636-pinball.json) |
 | Pinball | 82093 | [82093-pinball.json](./82093-pinball.json) |
 | Pinball | 86428 | [86428-pinball.json](./86428-pinball.json) |
@@ -6828,6 +6834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokemon Kaisen | 384836 | [384836-pokemon-kaisen.json](./384836-pokemon-kaisen.json) |
 | Pokemon Kalos Crystal | 304731 | [304731-pokemon-kalos-crystal.json](./304731-pokemon-kalos-crystal.json) |
 | Pokémon Kanto Ultimate | 250926 | [250926-pokemon-kanto-ultimate.json](./250926-pokemon-kanto-ultimate.json) |
+| Pokémon Keishou | 312313 | [312313-pokemon-keishou.json](./312313-pokemon-keishou.json) |
 | Pokémon Lazarus | 337439 | [337439-pokemon-lazarus.json](./337439-pokemon-lazarus.json) |
 | Pokémon Lazy Green | 343374 | [343374-pokemon-lazy-green.json](./343374-pokemon-lazy-green.json) |
 | Pokémon League of Legends | 229045 | [229045-pokemon-league-of-legends.json](./229045-pokemon-league-of-legends.json) |
