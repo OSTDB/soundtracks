@@ -1894,6 +1894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King of Kingdoms | 224030 | [224030-king-of-kingdoms.json](./224030-king-of-kingdoms.json) |
 | King of Kings | 231927 | [231927-king-of-kings.json](./231927-king-of-kings.json) |
 | King of Kinks | 195121 | [195121-king-of-kinks.json](./195121-king-of-kinks.json) |
+| King of Kung Fu | 285918 | [285918-king-of-kung-fu.json](./285918-king-of-kung-fu.json) |
 | King of Light | 237463 | [237463-king-of-light.json](./237463-king-of-light.json) |
 | King of Meat | 314255 | [314255-king-of-meat.json](./314255-king-of-meat.json) |
 | King of Mobius | 228597 | [228597-king-of-mobius.json](./228597-king-of-mobius.json) |
@@ -2769,6 +2770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knight's Destiny | 149037 | [149037-knights-destiny.json](./149037-knights-destiny.json) |
 | Knight's Dungeon | 360631 | [360631-knights-dungeon.json](./360631-knights-dungeon.json) |
 | Knight's Edge | 165534 | [165534-knights-edge.json](./165534-knights-edge.json) |
+| Knight's Empire | 285945 | [285945-knights-empire.json](./285945-knights-empire.json) |
 | Knight's Errand | 371470 | [371470-knights-errand.json](./371470-knights-errand.json) |
 | Knight's Fly | 394446 | [394446-knights-fly.json](./394446-knights-fly.json) |
 | Knight's move | 112357 | [112357-knights-move.json](./112357-knights-move.json) |
@@ -3466,6 +3468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kraken | 74458 | [74458-kraken.json](./74458-kraken.json) |
 | Kraken Academy: End of the World Edition | 169200 | [169200-kraken-academy-end-of-the-world-edition.json](./169200-kraken-academy-end-of-the-world-edition.json) |
 | Kraken Attack | 318228 | [318228-kraken-attack.json](./318228-kraken-attack.json) |
+| Kraken Attack! | 285904 | [285904-kraken-attack.json](./285904-kraken-attack.json) |
 | Kraken City | 325652 | [325652-kraken-city.json](./325652-kraken-city.json) |
 | Kraken Cleaning | 401776 | [401776-kraken-cleaning.json](./401776-kraken-cleaning.json) |
 | Kraken Invasion: RPG Idle | 233504 | [233504-kraken-invasion-rpg-idle.json](./233504-kraken-invasion-rpg-idle.json) |
