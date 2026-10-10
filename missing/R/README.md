@@ -4977,6 +4977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Risky Chronicles and the Curse of Destiny | 296595 | [296595-risky-chronicles-and-the-curse-of-destiny.json](./296595-risky-chronicles-and-the-curse-of-destiny.json) |
 | Risky Roads | 300993 | [300993-risky-roads.json](./300993-risky-roads.json) |
 | Risky Sanctuary | 261772 | [261772-risky-sanctuary.json](./261772-risky-sanctuary.json) |
+| Risorgimento Represso | 300506 | [300506-risorgimento-represso.json](./300506-risorgimento-represso.json) |
 | Ristar | 7431 | [7431-ristar.json](./7431-ristar.json) |
 | Ristorante Amore | 57173 | [57173-ristorante-amore.json](./57173-ristorante-amore.json) |
 | risTroyka | 142890 | [142890-ristroyka.json](./142890-ristroyka.json) |
