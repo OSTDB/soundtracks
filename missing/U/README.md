@@ -151,6 +151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UFO No! | 180046 | [180046-ufo-no.json](./180046-ufo-no.json) |
 | UFO on Tape: First Contact | 117010 | [117010-ufo-on-tape-first-contact.json](./117010-ufo-on-tape-first-contact.json) |
 | UFO Ride | 294725 | [294725-ufo-ride.json](./294725-ufo-ride.json) |
+| UFO Shooting | 312273 | [312273-ufo-shooting.json](./312273-ufo-shooting.json) |
 | UFO Sightings Simulator | 282255 | [282255-ufo-sightings-simulator.json](./282255-ufo-sightings-simulator.json) |
 | UFO Slide Racing | 265744 | [265744-ufo-slide-racing.json](./265744-ufo-slide-racing.json) |
 | UFO vs. Bikini | 152501 | [152501-ufo-vs-bikini.json](./152501-ufo-vs-bikini.json) |
