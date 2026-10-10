@@ -6048,6 +6048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forgotten Saga | 145572 | [145572-forgotten-saga.json](./145572-forgotten-saga.json) |
 | Forgotten Seas | 233582 | [233582-forgotten-seas.json](./233582-forgotten-seas.json) |
 | Forgotten Signal: Portal | 348389 | [348389-forgotten-signal-portal.json](./348389-forgotten-signal-portal.json) |
+| Forgotten Skies | 300465 | [300465-forgotten-skies.json](./300465-forgotten-skies.json) |
 | Forgotten Sound 1: Revelation | 83595 | [83595-forgotten-sound-1-revelation.json](./83595-forgotten-sound-1-revelation.json) |
 | Forgotten Sound 2: Destiny | 83545 | [83545-forgotten-sound-2-destiny.json](./83545-forgotten-sound-2-destiny.json) |
 | Forgotten Spirit | 327923 | [327923-forgotten-spirit.json](./327923-forgotten-spirit.json) |
@@ -7109,6 +7110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freeway Fiasco | 203837 | [203837-freeway-fiasco.json](./203837-freeway-fiasco.json) |
 | Freeway Fury: Annihilation | 318188 | [318188-freeway-fury-annihilation.json](./318188-freeway-fury-annihilation.json) |
 | Freewheelin | 253023 | [253023-freewheelin.json](./253023-freewheelin.json) |
+| FreeWorld | 300503 | [300503-freeworld.json](./300503-freeworld.json) |
 | Freeze | 25884 | [25884-freeze.json](./25884-freeze.json) |
 | Freeze the Core | 187292 | [187292-freeze-the-core.json](./187292-freeze-the-core.json) |
 | Freeze the Time | 187429 | [187429-freeze-the-time.json](./187429-freeze-the-time.json) |
