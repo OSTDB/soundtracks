@@ -2855,6 +2855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rejuvan | 302966 | [302966-rejuvan.json](./302966-rejuvan.json) |
 | Rekea: GOTY Edition | 181333 | [181333-rekea-goty-edition.json](./181333-rekea-goty-edition.json) |
 | Rekesh Gaal | 292232 | [292232-rekesh-gaal.json](./292232-rekesh-gaal.json) |
+| Rekindle | 318709 | [318709-rekindle.json](./318709-rekindle.json) |
 | Rekindled | 404192 | [404192-rekindled.json](./404192-rekindled.json) |
 | Rekindled Trails | 342079 | [342079-rekindled-trails.json](./342079-rekindled-trails.json) |
 | Rekindling The Flame | 276833 | [276833-rekindling-the-flame.json](./276833-rekindling-the-flame.json) |
@@ -5636,6 +5637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rock of Destruction! | 104114 | [104114-rock-of-destruction.json](./104114-rock-of-destruction.json) |
 | Rock of the Dead | 7163 | [7163-rock-of-the-dead.json](./7163-rock-of-the-dead.json) |
 | Rock On | 37658 | [37658-rock-on.json](./37658-rock-on.json) |
+| Rock On! Island | 318739 | [318739-rock-on-island.json](./318739-rock-on-island.json) |
 | Rock Paper Clicker | 191856 | [191856-rock-paper-clicker.json](./191856-rock-paper-clicker.json) |
 | Rock Paper Everything | 312010 | [312010-rock-paper-everything.json](./312010-rock-paper-everything.json) |
 | Rock Paper Kill | 412545 | [412545-rock-paper-kill.json](./412545-rock-paper-kill.json) |
