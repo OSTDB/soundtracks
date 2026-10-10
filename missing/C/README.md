@@ -1791,6 +1791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Casebook Trilogy: Special Edition | 67277 | [67277-casebook-trilogy-special-edition.json](./67277-casebook-trilogy-special-edition.json) |
 | Casebook: Episode 0 - The Missing Urn | 335437 | [335437-casebook-episode-0-the-missing-urn.json](./335437-casebook-episode-0-the-missing-urn.json) |
 | CaseCracker2 | 301425 | [301425-casecracker2.json](./301425-casecracker2.json) |
+| Casemate | 333027 | [333027-casemate.json](./333027-casemate.json) |
 | Casenology | 382778 | [382778-casenology.json](./382778-casenology.json) |
 | Cases of Stolen Beauty | 341084 | [341084-cases-of-stolen-beauty.json](./341084-cases-of-stolen-beauty.json) |
 | Casey Duck: Butter Duck | 218408 | [218408-casey-duck-butter-duck.json](./218408-casey-duck-butter-duck.json) |
@@ -2605,6 +2606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cats Around Us: Black Cat | 347859 | [347859-cats-around-us-black-cat.json](./347859-cats-around-us-black-cat.json) |
 | Cats Away | 352180 | [352180-cats-away.json](./352180-cats-away.json) |
 | Cats Bounce Ball | 338189 | [338189-cats-bounce-ball.json](./338189-cats-bounce-ball.json) |
+| Cats Contrast | 332970 | [332970-cats-contrast.json](./332970-cats-contrast.json) |
 | Cats Diner | 392948 | [392948-cats-diner.json](./392948-cats-diner.json) |
 | Cats Epic Puzzles | 334827 | [334827-cats-epic-puzzles.json](./334827-cats-epic-puzzles.json) |
 | Cats Fighters | 239621 | [239621-cats-fighters.json](./239621-cats-fighters.json) |
@@ -2670,6 +2672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cattlieb | 349851 | [349851-cattlieb.json](./349851-cattlieb.json) |
 | Catto Chateau | 366387 | [366387-catto-chateau.json](./366387-catto-chateau.json) |
 | Catto's Post Office | 304835 | [304835-cattos-post-office.json](./304835-cattos-post-office.json) |
+| CatTris | 332968 | [332968-cattris.json](./332968-cattris.json) |
 | Catty & Batty: The Spirit Guide | 143470 | [143470-catty-and-batty-the-spirit-guide.json](./143470-catty-and-batty-the-spirit-guide.json) |
 | Catty Battle | 129816 | [129816-catty-battle.json](./129816-catty-battle.json) |
 | Catty Cathy | 281982 | [281982-catty-cathy.json](./281982-catty-cathy.json) |
@@ -2748,6 +2751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cave of the Skinwalker | 358856 | [358856-cave-of-the-skinwalker.json](./358856-cave-of-the-skinwalker.json) |
 | Cave of the Word Wizard | 144879 | [144879-cave-of-the-word-wizard.json](./144879-cave-of-the-word-wizard.json) |
 | Cave of Treats | 408803 | [408803-cave-of-treats.json](./408803-cave-of-treats.json) |
+| Cave Path | 333028 | [333028-cave-path.json](./333028-cave-path.json) |
 | Cave Quest | 127874 | [127874-cave-quest.json](./127874-cave-quest.json) |
 | Cave Quest 2 | 157484 | [157484-cave-quest-2.json](./157484-cave-quest-2.json) |
 | Cave Quest 3 | 217275 | [217275-cave-quest-3.json](./217275-cave-quest-3.json) |
@@ -5893,6 +5897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clever Kids: Creepy Crawlies | 268113 | [268113-clever-kids-creepy-crawlies.json](./268113-clever-kids-creepy-crawlies.json) |
 | Clever Kids: Pirates | 122904 | [122904-clever-kids-pirates.json](./122904-clever-kids-pirates.json) |
 | Cliax Codec | 404970 | [404970-cliax-codec.json](./404970-cliax-codec.json) |
+| Clic the ABC 123 Laptop | 333121 | [333121-clic-the-abc-123-laptop.json](./333121-clic-the-abc-123-laptop.json) |
 | Cliché Adventure | 159712 | [159712-cliche-adventure.json](./159712-cliche-adventure.json) |
 | Click and Conquer | 342682 | [342682-click-and-conquer.json](./342682-click-and-conquer.json) |
 | Click and Relax | 153420 | [153420-click-and-relax.json](./153420-click-and-relax.json) |
@@ -6385,6 +6390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coagulation Station | 313307 | [313307-coagulation-station.json](./313307-coagulation-station.json) |
 | Coal Duty | 405677 | [405677-coal-duty.json](./405677-coal-duty.json) |
 | Coal Escape | 194025 | [194025-coal-escape.json](./194025-coal-escape.json) |
+| Coal LLC | 333026 | [333026-coal-llc.json](./333026-coal-llc.json) |
 | Coal Man Clicker | 334835 | [334835-coal-man-clicker.json](./334835-coal-man-clicker.json) |
 | Coal Mining Inc. | 237653 | [237653-coal-mining-inc.json](./237653-coal-mining-inc.json) |
 | Coal Rush: Tap a Train | 179585 | [179585-coal-rush-tap-a-train.json](./179585-coal-rush-tap-a-train.json) |
@@ -6807,6 +6813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Collapse! Crunch | 73327 | [73327-collapse-crunch.json](./73327-collapse-crunch.json) |
 | Collapsed | 118801 | [118801-collapsed.json](./118801-collapsed.json) |
 | Collapsed Galaxy II | 248895 | [248895-collapsed-galaxy-ii.json](./248895-collapsed-galaxy-ii.json) |
+| Collapsed Horizon | 333031 | [333031-collapsed-horizon.json](./333031-collapsed-horizon.json) |
 | Collapsing | 258713 | [258713-collapsing.json](./258713-collapsing.json) |
 | Collapsing HD | 175289 | [175289-collapsing-hd.json](./175289-collapsing-hd.json) |
 | Collapsus | 99413 | [99413-collapsus.json](./99413-collapsus.json) |
@@ -10763,6 +10770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cruncher | 60202 | [60202-cruncher.json](./60202-cruncher.json) |
 | Crunchies Munchies | 336084 | [336084-crunchies-munchies.json](./336084-crunchies-munchies.json) |
 | Crunchy Numbers Math Arcade | 205082 | [205082-crunchy-numbers-math-arcade.json](./205082-crunchy-numbers-math-arcade.json) |
+| Crunda | 333043 | [333043-crunda.json](./333043-crunda.json) |
 | Crusade in Europe | 25922 | [25922-crusade-in-europe.json](./25922-crusade-in-europe.json) |
 | Crusade of Deitra | 173296 | [173296-crusade-of-deitra.json](./173296-crusade-of-deitra.json) |
 | Crusade of Destiny | 66721 | [66721-crusade-of-destiny.json](./66721-crusade-of-destiny.json) |
@@ -10902,6 +10910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crypt Sweeper | 381973 | [381973-crypt-sweeper.json](./381973-crypt-sweeper.json) |
 | Crypt Underworld | 109072 | [109072-crypt-underworld.json](./109072-crypt-underworld.json) |
 | Crypt-Oink Racing Friends | 130823 | [130823-crypt-oink-racing-friends.json](./130823-crypt-oink-racing-friends.json) |
+| Cryptage | 333114 | [333114-cryptage.json](./333114-cryptage.json) |
 | Cryptic | 122425 | [122425-cryptic.json](./122425-cryptic.json) |
 | Cryptic Castle | 146854 | [146854-cryptic-castle.json](./146854-cryptic-castle.json) |
 | Cryptic Caverns | 173810 | [173810-cryptic-caverns.json](./173810-cryptic-caverns.json) |
