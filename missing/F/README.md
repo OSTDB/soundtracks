@@ -6234,6 +6234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortnite Festival: Season 14 | 403035 | [403035-fortnite-festival-season-14.json](./403035-fortnite-festival-season-14.json) |
 | Fortnite Festival: Season 15 | 411844 | [411844-fortnite-festival-season-15.json](./411844-fortnite-festival-season-15.json) |
 | Fortnite Festival: Season 3 | 299445 | [299445-fortnite-festival-season-3.json](./299445-fortnite-festival-season-3.json) |
+| Fortnite Festival: Season 5 | 313434 | [313434-fortnite-festival-season-5.json](./313434-fortnite-festival-season-5.json) |
 | Fortnite Festival: Season 6 | 322820 | [322820-fortnite-festival-season-6.json](./322820-fortnite-festival-season-6.json) |
 | Fortnite Festival: Season 8 | 339230 | [339230-fortnite-festival-season-8.json](./339230-fortnite-festival-season-8.json) |
 | Fortnite Festival: Shelter | 375401 | [375401-fortnite-festival-shelter.json](./375401-fortnite-festival-shelter.json) |
@@ -6500,6 +6501,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fountain | 395120 | [395120-fountain.json](./395120-fountain.json) |
 | Fountain of Dreams | 73799 | [73799-fountain-of-dreams.json](./73799-fountain-of-dreams.json) |
 | Fountains: Shattered Shape | 414457 | [414457-fountains-shattered-shape.json](./414457-fountains-shattered-shape.json) |
+| Fountaintale | 313435 | [313435-fountaintale.json](./313435-fountaintale.json) |
+| Fountaintale: Chapter 1 | 313436 | [313436-fountaintale-chapter-1.json](./313436-fountaintale-chapter-1.json) |
 | Four | 37306 | [37306-four.json](./37306-four.json) |
 | Four Before Midnight | 297560 | [297560-four-before-midnight.json](./297560-four-before-midnight.json) |
 | Four Card Solitaire | 94675 | [94675-four-card-solitaire.json](./94675-four-card-solitaire.json) |
