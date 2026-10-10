@@ -2501,6 +2501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Die Already | 134784 | [134784-just-die-already.json](./134784-just-die-already.json) |
 | Just Die Neon | 55693 | [55693-just-die-neon.json](./55693-just-die-neon.json) |
 | Just Dismantle | 393137 | [393137-just-dismantle.json](./393137-just-dismantle.json) |
+| Just Dodge, LOL | 289247 | [289247-just-dodge-lol.json](./289247-just-dodge-lol.json) |
 | Just Drift It ! | 122412 | [122412-just-drift-it.json](./122412-just-drift-it.json) |
 | Just Drive | 215590 | [215590-just-drive.json](./215590-just-drive.json) |
 | Just Drive | 286004 | [286004-just-drive.json](./286004-just-drive.json) |
