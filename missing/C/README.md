@@ -1169,6 +1169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Factory Simulator | 232166 | [232166-car-factory-simulator.json](./232166-car-factory-simulator.json) |
 | Car Factory Tycoon | 230372 | [230372-car-factory-tycoon.json](./230372-car-factory-tycoon.json) |
 | Car Fighter | 47539 | [47539-car-fighter.json](./47539-car-fighter.json) |
+| Car Flipper Simulator 25 | 328441 | [328441-car-flipper-simulator-25.json](./328441-car-flipper-simulator-25.json) |
 | Car For Sale Simulator 2023: PickUp & SUV | 359608 | [359608-car-for-sale-simulator-2023-pickup-and-suv.json](./359608-car-for-sale-simulator-2023-pickup-and-suv.json) |
 | Car for Trade | 267352 | [267352-car-for-trade.json](./267352-car-for-trade.json) |
 | Car Game | 176820 | [176820-car-game.json](./176820-car-game.json) |
@@ -2604,6 +2605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cats and Seek: Dino Park | 284413 | [284413-cats-and-seek-dino-park.json](./284413-cats-and-seek-dino-park.json) |
 | Cats and Seek: Kyoto | 291419 | [291419-cats-and-seek-kyoto.json](./291419-cats-and-seek-kyoto.json) |
 | Cats and Seek: Osaka | 275525 | [275525-cats-and-seek-osaka.json](./275525-cats-and-seek-osaka.json) |
+| Cats and Seek: Toge Land | 328415 | [328415-cats-and-seek-toge-land.json](./328415-cats-and-seek-toge-land.json) |
 | Cats and Seek: Tokyo | 315298 | [315298-cats-and-seek-tokyo.json](./315298-cats-and-seek-tokyo.json) |
 | Cats are Cute: Pop Time! | 322124 | [322124-cats-are-cute-pop-time.json](./322124-cats-are-cute-pop-time.json) |
 | Cats Are Jerks | 232172 | [232172-cats-are-jerks.json](./232172-cats-are-jerks.json) |
@@ -7685,6 +7687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Compass Rose | 124632 | [124632-compass-rose.json](./124632-compass-rose.json) |
 | Compassion | 179680 | [179680-compassion.json](./179680-compassion.json) |
 | Compensated Girl | 369100 | [369100-compensated-girl.json](./369100-compensated-girl.json) |
+| Compensation Not Guaranteed | 328419 | [328419-compensation-not-guaranteed.json](./328419-compensation-not-guaranteed.json) |
 | Competition Karate | 25780 | [25780-competition-karate.json](./25780-competition-karate.json) |
 | Competitive Checkers | 262583 | [262583-competitive-checkers.json](./262583-competitive-checkers.json) |
 | Compilation Assassin's Creed: Brotherhood + Revelations | 151207 | [151207-compilation-assassins-creed-brotherhood-revelations.json](./151207-compilation-assassins-creed-brotherhood-revelations.json) |
@@ -8064,6 +8067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Constancia | 177326 | [177326-constancia.json](./177326-constancia.json) |
 | Constantine | 236004 | [236004-constantine.json](./236004-constantine.json) |
 | Constantine | 5787 | [5787-constantine.json](./5787-constantine.json) |
+| Constantine Scores | 328420 | [328420-constantine-scores.json](./328420-constantine-scores.json) |
 | Constellar | 380082 | [380082-constellar.json](./380082-constellar.json) |
 | Constellation Courier | 309127 | [309127-constellation-courier.json](./309127-constellation-courier.json) |
 | Constellation Distantia | 30090 | [30090-constellation-distantia.json](./30090-constellation-distantia.json) |
@@ -8546,6 +8550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Copy Editor | 142730 | [142730-copy-editor.json](./142730-copy-editor.json) |
 | Copy Editor: A RegEx Puzzle | 158623 | [158623-copy-editor-a-regex-puzzle.json](./158623-copy-editor-a-regex-puzzle.json) |
 | Copy Kitty | 22443 | [22443-copy-kitty.json](./22443-copy-kitty.json) |
+| Copy The Line | 328438 | [328438-copy-the-line.json](./328438-copy-the-line.json) |
 | Copy: Two Man Too Many | 359010 | [359010-copy-two-man-too-many.json](./359010-copy-two-man-too-many.json) |
 | Copycat | 171650 | [171650-copycat.json](./171650-copycat.json) |
 | Copycat | 255631 | [255631-copycat.json](./255631-copycat.json) |
