@@ -1638,6 +1638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jonathan's Adventure 3 | 397996 | [397996-jonathans-adventure-3.json](./397996-jonathans-adventure-3.json) |
 | Jonathan's Adventure! Pricker Edition | 397783 | [397783-jonathans-adventure-pricker-edition.json](./397783-jonathans-adventure-pricker-edition.json) |
 | Jones in the Fast Lane | 7473 | [7473-jones-in-the-fast-lane.json](./7473-jones-in-the-fast-lane.json) |
+| Jonesville | 290837 | [290837-jonesville.json](./290837-jonesville.json) |
 | Jong Kyu Pon | 342147 | [342147-jong-kyu-pon.json](./342147-jong-kyu-pon.json) |
 | Jongbou | 92298 | [92298-jongbou.json](./92298-jongbou.json) |
 | JongRo 3_Street | 283411 | [283411-jongro-3-street.json](./283411-jongro-3-street.json) |
