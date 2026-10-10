@@ -3803,6 +3803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Firewall | 230955 | [230955-firewall.json](./230955-firewall.json) |
 | Firewall Ultra | 215777 | [215777-firewall-ultra.json](./215777-firewall-ultra.json) |
 | Firewall Zero Hour | 76966 | [76966-firewall-zero-hour.json](./76966-firewall-zero-hour.json) |
+| Firewall: Cyber Defense | 295152 | [295152-firewall-cyber-defense.json](./295152-firewall-cyber-defense.json) |
 | Firewall: Man vs. Machine | 217880 | [217880-firewall-man-vs-machine.json](./217880-firewall-man-vs-machine.json) |
 | Firewatch: Audio Tour | 251228 | [251228-firewatch-audio-tour.json](./251228-firewatch-audio-tour.json) |
 | Firewerx | 195185 | [195185-firewerx.json](./195185-firewerx.json) |
@@ -4535,6 +4536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flash Focus: Vision Training in Minutes a Day | 21912 | [21912-flash-focus-vision-training-in-minutes-a-day.json](./21912-flash-focus-vision-training-in-minutes-a-day.json) |
 | Flash Gordon | 218420 | [218420-flash-gordon.json](./218420-flash-gordon.json) |
 | Flash Gordon | 22735 | [22735-flash-gordon.json](./22735-flash-gordon.json) |
+| Flash Party: 2023 Hero Pack | 295122 | [295122-flash-party-2023-hero-pack.json](./295122-flash-party-2023-hero-pack.json) |
 | Flash Point | 114159 | [114159-flash-point.json](./114159-flash-point.json) |
 | Flash Point | 46793 | [46793-flash-point.json](./46793-flash-point.json) |
 | Flash Point Korea: AH-64D Longbow | 710 | [710-flash-point-korea-ah-64d-longbow.json](./710-flash-point-korea-ah-64d-longbow.json) |
@@ -5532,6 +5534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fool's Gold | 381029 | [381029-fools-gold.json](./381029-fools-gold.json) |
 | Fool's Paradise | 149410 | [149410-fools-paradise.json](./149410-fools-paradise.json) |
 | Fool's Pub | 325264 | [325264-fools-pub.json](./325264-fools-pub.json) |
+| FoolHut Pack: 3 games in 1 | 295123 | [295123-foolhut-pack-3-games-in-1.json](./295123-foolhut-pack-3-games-in-1.json) |
 | Foolish Mortals | 217011 | [217011-foolish-mortals.json](./217011-foolish-mortals.json) |
 | Foonda | 196172 | [196172-foonda.json](./196172-foonda.json) |
 | Foosball - Street Edition | 17113 | [17113-foosball-street-edition.json](./17113-foosball-street-edition.json) |
@@ -5978,6 +5981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forgekeepers | 332542 | [332542-forgekeepers.json](./332542-forgekeepers.json) |
 | ForgeRun | 374047 | [374047-forgerun.json](./374047-forgerun.json) |
 | Forget Me Not: Palette | 64474 | [64474-forget-me-not-palette.json](./64474-forget-me-not-palette.json) |
+| Forget Something? | 295156 | [295156-forget-something.json](./295156-forget-something.json) |
 | Forget the Brakes | 134604 | [134604-forget-the-brakes.json](./134604-forget-the-brakes.json) |
 | Forget the Golden Witch | 193352 | [193352-forget-the-golden-witch.json](./193352-forget-the-golden-witch.json) |
 | Forget Westbury Falls: Disc One | 192960 | [192960-forget-westbury-falls-disc-one.json](./192960-forget-westbury-falls-disc-one.json) |
