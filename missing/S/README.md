@@ -1198,7 +1198,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sanyo Pachinko Paradise 4 | 55954 | [55954-sanyo-pachinko-paradise-4.json](./55954-sanyo-pachinko-paradise-4.json) |
 | Sanyo Pachinko Paradise 7: Edokko Gen-san | 138539 | [138539-sanyo-pachinko-paradise-7-edokko-gen-san.json](./138539-sanyo-pachinko-paradise-7-edokko-gen-san.json) |
 | Sanyo Pachinko Paradise 8: Shin Umi Monogatari | 60901 | [60901-sanyo-pachinko-paradise-8-shin-umi-monogatari.json](./60901-sanyo-pachinko-paradise-8-shin-umi-monogatari.json) |
+| Sanyou Pachinko Paradise 11: Shin Umi to Saraba Gintama no Ookami | 326852 | [326852-sanyou-pachinko-paradise-11-shin-umi-to-saraba-gintama-no-ookami.json](./326852-sanyou-pachinko-paradise-11-shin-umi-to-saraba-gintama-no-ookami.json) |
 | Sanyou Pachinko Paradise 5: Ukiuki Tairyouki | 138685 | [138685-sanyou-pachinko-paradise-5-ukiuki-tairyouki.json](./138685-sanyou-pachinko-paradise-5-ukiuki-tairyouki.json) |
+| Sanyou Pachinko Paradise 9: Shin Umi Okawari! | 326851 | [326851-sanyou-pachinko-paradise-9-shin-umi-okawari.json](./326851-sanyou-pachinko-paradise-9-shin-umi-okawari.json) |
 | Sanzen Sekai Yuugi: Re Multi Universe Myself | 103175 | [103175-sanzen-sekai-yuugi-re-multi-universe-myself.json](./103175-sanzen-sekai-yuugi-re-multi-universe-myself.json) |
 | Sanzensekai no Ko wo Koroshi | 399061 | [399061-sanzensekai-no-ko-wo-koroshi.json](./399061-sanzensekai-no-ko-wo-koroshi.json) |
 | Sǎoléi Màoxiǎn Tán 2: Lùlùmǔ de Màoxiǎn | 163896 | [163896-saolei-maoxian-tan-2-lulumu-de-maoxian.json](./163896-saolei-maoxian-tan-2-lulumu-de-maoxian.json) |
@@ -2763,6 +2765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret of Mana: Relocalized | 249276 | [249276-secret-of-mana-relocalized.json](./249276-secret-of-mana-relocalized.json) |
 | Secret of Qwerty | 124581 | [124581-secret-of-qwerty.json](./124581-secret-of-qwerty.json) |
 | Secret of Super Seducer | 297753 | [297753-secret-of-super-seducer.json](./297753-secret-of-super-seducer.json) |
+| Secret of the Abbey | 326845 | [326845-secret-of-the-abbey.json](./326845-secret-of-the-abbey.json) |
 | Secret of the Corral | 252124 | [252124-secret-of-the-corral.json](./252124-secret-of-the-corral.json) |
 | Secret of the Lost Cavern | 107393 | [107393-secret-of-the-lost-cavern.json](./107393-secret-of-the-lost-cavern.json) |
 | Secret of the Magic Crystals | 10427 | [10427-secret-of-the-magic-crystals.json](./10427-secret-of-the-magic-crystals.json) |
@@ -5671,6 +5674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shoppy Mart | 60067 | [60067-shoppy-mart.json](./60067-shoppy-mart.json) |
 | Shoppy Mart: Steam Edition | 90633 | [90633-shoppy-mart-steam-edition.json](./90633-shoppy-mart-steam-edition.json) |
 | Shore Doodle | 340373 | [340373-shore-doodle.json](./340373-shore-doodle.json) |
+| Shore of Jord | 326861 | [326861-shore-of-jord.json](./326861-shore-of-jord.json) |
 | Shores of Hazeron | 66413 | [66413-shores-of-hazeron.json](./66413-shores-of-hazeron.json) |
 | Short 'n Quick | 274203 | [274203-short-n-quick.json](./274203-short-n-quick.json) |
 | Short 'n Quick 2 | 274204 | [274204-short-n-quick-2.json](./274204-short-n-quick-2.json) |
@@ -7066,6 +7070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sister Square's Escape | 101098 | [101098-sister-squares-escape.json](./101098-sister-squares-escape.json) |
 | Sister Travel | 111718 | [111718-sister-travel.json](./111718-sister-travel.json) |
 | Sister's Dream | 202330 | [202330-sisters-dream.json](./202330-sisters-dream.json) |
+| Sister's Little Helper | 326660 | [326660-sisters-little-helper.json](./326660-sisters-little-helper.json) |
 | Sisterhood | 159752 | [159752-sisterhood.json](./159752-sisterhood.json) |
 | Sisterly Bliss: Don't Let Mom Find Out | 415277 | [415277-sisterly-bliss-dont-let-mom-find-out.json](./415277-sisterly-bliss-dont-let-mom-find-out.json) |
 | Sisters of Silent Liberty | 154410 | [154410-sisters-of-silent-liberty.json](./154410-sisters-of-silent-liberty.json) |
@@ -21803,6 +21808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Symbio | 346012 | [346012-symbio.json](./346012-symbio.json) |
 | Symbiogenesis | 302964 | [302964-symbiogenesis.json](./302964-symbiogenesis.json) |
 | Symbiosis | 302916 | [302916-symbiosis.json](./302916-symbiosis.json) |
+| Symbiosis | 326843 | [326843-symbiosis.json](./326843-symbiosis.json) |
 | Symbiote | 369458 | [369458-symbiote.json](./369458-symbiote.json) |
 | Symbiotic Love | 159361 | [159361-symbiotic-love.json](./159361-symbiotic-love.json) |
 | Symbol | 229930 | [229930-symbol.json](./229930-symbol.json) |
@@ -21900,6 +21906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synonymy | 35925 | [35925-synonymy.json](./35925-synonymy.json) |
 | Synopsis Quest | 66166 | [66166-synopsis-quest.json](./66166-synopsis-quest.json) |
 | SyntaxBomb | 183012 | [183012-syntaxbomb.json](./183012-syntaxbomb.json) |
+| Syntaxia | 326573 | [326573-syntaxia.json](./326573-syntaxia.json) |
 | Synth Ark | 317234 | [317234-synth-ark.json](./317234-synth-ark.json) |
 | Synth Beasts | 250479 | [250479-synth-beasts.json](./250479-synth-beasts.json) |
 | Synth Drift | 163887 | [163887-synth-drift.json](./163887-synth-drift.json) |
