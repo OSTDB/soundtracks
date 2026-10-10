@@ -491,6 +491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Of Moons and Mania | 256320 | [256320-of-moons-and-mania.json](./256320-of-moons-and-mania.json) |
 | Of Piers & Bays | 397903 | [397903-of-piers-and-bays.json](./397903-of-piers-and-bays.json) |
 | Of Pith and Pumpkins | 185415 | [185415-of-pith-and-pumpkins.json](./185415-of-pith-and-pumpkins.json) |
+| Of Potions and Spells | 312820 | [312820-of-potions-and-spells.json](./312820-of-potions-and-spells.json) |
 | Of Roots and Gears | 333052 | [333052-of-roots-and-gears.json](./333052-of-roots-and-gears.json) |
 | Of Ships & Scoundrels | 110279 | [110279-of-ships-and-scoundrels.json](./110279-of-ships-and-scoundrels.json) |
 | Of the Devil: Episode 0 | 383570 | [383570-of-the-devil-episode-0.json](./383570-of-the-devil-episode-0.json) |
@@ -1890,6 +1891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Only Trump: Up To Presidents! | 341509 | [341509-only-trump-up-to-presidents.json](./341509-only-trump-up-to-presidents.json) |
 | Only Tung Tung Sahur Up | 349425 | [349425-only-tung-tung-sahur-up.json](./349425-only-tung-tung-sahur-up.json) |
 | Only Up 2025 | 367590 | [367590-only-up-2025.json](./367590-only-up-2025.json) |
+| Only Up Rush | 312845 | [312845-only-up-rush.json](./312845-only-up-rush.json) |
 | Only Up Samarkand | 277328 | [277328-only-up-samarkand.json](./277328-only-up-samarkand.json) |
 | Only Up: Skibidi | 310922 | [310922-only-up-skibidi.json](./310922-only-up-skibidi.json) |
 | Only Up: Skibidi Together | 297819 | [297819-only-up-skibidi-together.json](./297819-only-up-skibidi-together.json) |
@@ -3077,6 +3079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outbreak Zero | 365085 | [365085-outbreak-zero.json](./365085-outbreak-zero.json) |
 | Outbreak Zombie Plague | 291528 | [291528-outbreak-zombie-plague.json](./291528-outbreak-zombie-plague.json) |
 | Outbreak Zombie Survival Collection | 399800 | [399800-outbreak-zombie-survival-collection.json](./399800-outbreak-zombie-survival-collection.json) |
+| Outbreak: Anthology of Death Collection | 312837 | [312837-outbreak-anthology-of-death-collection.json](./312837-outbreak-anthology-of-death-collection.json) |
 | Outbreak: Blood & Teeth Collection | 304365 | [304365-outbreak-blood-and-teeth-collection.json](./304365-outbreak-blood-and-teeth-collection.json) |
 | Outbreak: Blood and Death Collection | 331433 | [331433-outbreak-blood-and-death-collection.json](./331433-outbreak-blood-and-death-collection.json) |
 | Outbreak: Campout Collection | 331432 | [331432-outbreak-campout-collection.json](./331432-outbreak-campout-collection.json) |
