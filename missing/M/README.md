@@ -4014,6 +4014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meal: Mystery Escape Room | 311828 | [311828-meal-mystery-escape-room.json](./311828-meal-mystery-escape-room.json) |
 | Mealmate | 388308 | [388308-mealmate.json](./388308-mealmate.json) |
 | Mealmates | 151009 | [151009-mealmates.json](./151009-mealmates.json) |
+| Mean Bean Tsuu | 321399 | [321399-mean-bean-tsuu.json](./321399-mean-bean-tsuu.json) |
 | Mean Beans | 236289 | [236289-mean-beans.json](./236289-mean-beans.json) |
 | Mean City | 47154 | [47154-mean-city.json](./47154-mean-city.json) |
 | Mean Girls | 150035 | [150035-mean-girls.json](./150035-mean-girls.json) |
@@ -7001,6 +7002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miko Gakkou Monogatari: Kaede Episode | 36177 | [36177-miko-gakkou-monogatari-kaede-episode.json](./36177-miko-gakkou-monogatari-kaede-episode.json) |
 | Miko Gakkou: Second Year | 36169 | [36169-miko-gakkou-second-year.json](./36169-miko-gakkou-second-year.json) |
 | Miko Kanna Noukin Taimaki | 82738 | [82738-miko-kanna-noukin-taimaki.json](./82738-miko-kanna-noukin-taimaki.json) |
+| Miko Miko Nurse | 321402 | [321402-miko-miko-nurse.json](./321402-miko-miko-nurse.json) |
 | Miko Monogatari! | 222277 | [222277-miko-monogatari.json](./222277-miko-monogatari.json) |
 | Miko no Kanata: Curious Tales from Oguni Shrine - Zero | 387081 | [387081-miko-no-kanata-curious-tales-from-oguni-shrine-zero.json](./387081-miko-no-kanata-curious-tales-from-oguni-shrine-zero.json) |
 | Miko x Miko Sisters: Kagura-kei no Miko to Akuryou | 333522 | [333522-miko-x-miko-sisters-kagura-kei-no-miko-to-akuryou.json](./333522-miko-x-miko-sisters-kagura-kei-no-miko-to-akuryou.json) |
@@ -8616,6 +8618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MLB Manager 2015 | 279628 | [279628-mlb-manager-2015.json](./279628-mlb-manager-2015.json) |
 | MLB Manager 2018 | 96270 | [96270-mlb-manager-2018.json](./96270-mlb-manager-2018.json) |
 | MLB Perfect Inning | 323161 | [323161-mlb-perfect-inning.json](./323161-mlb-perfect-inning.json) |
+| MLB Perfect Inning 24 | 321667 | [321667-mlb-perfect-inning-24.json](./321667-mlb-perfect-inning-24.json) |
 | MLB Perfect Inning Live | 96295 | [96295-mlb-perfect-inning-live.json](./96295-mlb-perfect-inning-live.json) |
 | MLB Power Pros 2008 | 5010 | [5010-mlb-power-pros-2008.json](./5010-mlb-power-pros-2008.json) |
 | MLB Rivals | 255104 | [255104-mlb-rivals.json](./255104-mlb-rivals.json) |
@@ -11847,6 +11850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mushroom Mountain | 248114 | [248114-mushroom-mountain.json](./248114-mushroom-mountain.json) |
 | Mushroom Musical | 208857 | [208857-mushroom-musical.json](./208857-mushroom-musical.json) |
 | Mushroom Nook | 390241 | [390241-mushroom-nook.json](./390241-mushroom-nook.json) |
+| Mushroom Oasis | 321644 | [321644-mushroom-oasis.json](./321644-mushroom-oasis.json) |
 | Mushroom Pancakes | 321538 | [321538-mushroom-pancakes.json](./321538-mushroom-pancakes.json) |
 | Mushroom Path | 261837 | [261837-mushroom-path.json](./261837-mushroom-path.json) |
 | Mushroom Picker Simulator | 149045 | [149045-mushroom-picker-simulator.json](./149045-mushroom-picker-simulator.json) |
