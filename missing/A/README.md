@@ -7987,6 +7987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ario | 293346 | [293346-ario.json](./293346-ario.json) |
 | Aripi | 158136 | [158136-aripi.json](./158136-aripi.json) |
 | Aris | 344428 | [344428-aris.json](./344428-aris.json) |
+| Aris Arcanum | 324531 | [324531-aris-arcanum.json](./324531-aris-arcanum.json) |
 | Arise | 362992 | [362992-arise.json](./362992-arise.json) |
 | Arise: A Simple Story | 122563 | [122563-arise-a-simple-story.json](./122563-arise-a-simple-story.json) |
 | Arise: A Simple Story - Definitive Edition | 199171 | [199171-arise-a-simple-story-definitive-edition.json](./199171-arise-a-simple-story-definitive-edition.json) |
