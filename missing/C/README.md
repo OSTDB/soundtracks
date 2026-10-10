@@ -2308,6 +2308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Mail Co. | 406739 | [406739-cat-mail-co.json](./406739-cat-mail-co.json) |
 | Cat Meat | 32911 | [32911-cat-meat.json](./32911-cat-meat.json) |
 | Cat Meme Clicker | 391214 | [391214-cat-meme-clicker.json](./391214-cat-meme-clicker.json) |
+| Cat Memories - Find the Hidden Stories | 305973 | [305973-cat-memories-find-the-hidden-stories.json](./305973-cat-memories-find-the-hidden-stories.json) |
 | Cat MeowMart: Supermarket Simulator | 328567 | [328567-cat-meowmart-supermarket-simulator.json](./328567-cat-meowmart-supermarket-simulator.json) |
 | Cat Minesweeper | 396599 | [396599-cat-minesweeper.json](./396599-cat-minesweeper.json) |
 | Cat Museum | 193857 | [193857-cat-museum.json](./193857-cat-museum.json) |
@@ -2887,6 +2888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cazzarion: Drone Attack | 320760 | [320760-cazzarion-drone-attack.json](./320760-cazzarion-drone-attack.json) |
 | Cazzarion: Drone Flight | 317566 | [317566-cazzarion-drone-flight.json](./317566-cazzarion-drone-flight.json) |
 | Cazzarion: Fishing | 335091 | [335091-cazzarion-fishing.json](./335091-cazzarion-fishing.json) |
+| Cazzarion: Flak Battle | 306051 | [306051-cazzarion-flak-battle.json](./306051-cazzarion-flak-battle.json) |
 | Cazzarion: Ghost Frenzy | 293899 | [293899-cazzarion-ghost-frenzy.json](./293899-cazzarion-ghost-frenzy.json) |
 | Cazzarion: Gunslinger | 294683 | [294683-cazzarion-gunslinger.json](./294683-cazzarion-gunslinger.json) |
 | Cazzarion: Hell Biker | 334491 | [334491-cazzarion-hell-biker.json](./334491-cazzarion-hell-biker.json) |
@@ -10195,6 +10197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creepy Tale 2 | 154262 | [154262-creepy-tale-2.json](./154262-creepy-tale-2.json) |
 | Creepy Tale 3: Ingrid Penance | 211024 | [211024-creepy-tale-3-ingrid-penance.json](./211024-creepy-tale-3-ingrid-penance.json) |
 | Creepy Tale Bundle | 193739 | [193739-creepy-tale-bundle.json](./193739-creepy-tale-bundle.json) |
+| Creepy Tales | 305978 | [305978-creepy-tales.json](./305978-creepy-tales.json) |
 | Creepy Vision | 114823 | [114823-creepy-vision.json](./114823-creepy-vision.json) |
 | Creepy Waves FM: Bugs Fixer | 322724 | [322724-creepy-waves-fm-bugs-fixer.json](./322724-creepy-waves-fm-bugs-fixer.json) |
 | CreepyDates | 408876 | [408876-creepydates.json](./408876-creepydates.json) |
@@ -10351,6 +10354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crimson Angel | 339339 | [339339-crimson-angel.json](./339339-crimson-angel.json) |
 | Crimson Asylum | 322663 | [322663-crimson-asylum.json](./322663-crimson-asylum.json) |
 | Crimson Broadcast | 395765 | [395765-crimson-broadcast.json](./395765-crimson-broadcast.json) |
+| Crimson Capes | 305969 | [305969-crimson-capes.json](./305969-crimson-capes.json) |
 | Crimson Connect Origin | 238521 | [238521-crimson-connect-origin.json](./238521-crimson-connect-origin.json) |
 | Crimson Crime: Sniper Mission | 220163 | [220163-crimson-crime-sniper-mission.json](./220163-crimson-crime-sniper-mission.json) |
 | Crimson Defense | 95226 | [95226-crimson-defense.json](./95226-crimson-defense.json) |
