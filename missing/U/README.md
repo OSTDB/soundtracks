@@ -67,6 +67,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ubiquatopia | 187286 | [187286-ubiquatopia.json](./187286-ubiquatopia.json) |
 | UBoat | 32283 | [32283-uboat.json](./32283-uboat.json) |
 | Uboat Attack | 220203 | [220203-uboat-attack.json](./220203-uboat-attack.json) |
+| Uboat Attack | 314607 | [314607-uboat-attack.json](./314607-uboat-attack.json) |
 | Uboat Attack: Cloverfield DLC | 316235 | [316235-uboat-attack-cloverfield-dlc.json](./316235-uboat-attack-cloverfield-dlc.json) |
 | Uboat Attack: Complete Edition | 317245 | [317245-uboat-attack-complete-edition.json](./317245-uboat-attack-complete-edition.json) |
 | Uboat Attack: Gold Edition | 385212 | [385212-uboat-attack-gold-edition.json](./385212-uboat-attack-gold-edition.json) |
