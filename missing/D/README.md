@@ -3191,6 +3191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deeper Than Hell | 295792 | [295792-deeper-than-hell.json](./295792-deeper-than-hell.json) |
 | Deeper You Go | 346746 | [346746-deeper-you-go.json](./346746-deeper-you-go.json) |
 | Deepest Depth | 320186 | [320186-deepest-depth.json](./320186-deepest-depth.json) |
+| Deepest Fear | 324579 | [324579-deepest-fear.json](./324579-deepest-fear.json) |
 | Deepest Grievances | 397865 | [397865-deepest-grievances.json](./397865-deepest-grievances.json) |
 | Deepest Oblivion | 271813 | [271813-deepest-oblivion.json](./271813-deepest-oblivion.json) |
 | Deepest Regret | 280434 | [280434-deepest-regret.json](./280434-deepest-regret.json) |
@@ -9982,6 +9983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Driverio | 219108 | [219108-driverio.json](./219108-driverio.json) |
 | Driverio 2 | 223518 | [223518-driverio-2.json](./223518-driverio-2.json) |
 | Drivers Ed Portable | 70425 | [70425-drivers-ed-portable.json](./70425-drivers-ed-portable.json) |
+| Drivers of the Apocalypse | 324586 | [324586-drivers-of-the-apocalypse.json](./324586-drivers-of-the-apocalypse.json) |
 | DriveWave | 374953 | [374953-drivewave.json](./374953-drivewave.json) |
 | Driving Academy 2018 Simulator | 86972 | [86972-driving-academy-2018-simulator.json](./86972-driving-academy-2018-simulator.json) |
 | Driving Alone at Night | 181797 | [181797-driving-alone-at-night.json](./181797-driving-alone-at-night.json) |
