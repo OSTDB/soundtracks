@@ -1842,6 +1842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King Crab | 388292 | [388292-king-crab.json](./388292-king-crab.json) |
 | King Cribbage | 73223 | [73223-king-cribbage.json](./73223-king-cribbage.json) |
 | King Datchi | 244890 | [244890-king-datchi.json](./244890-king-datchi.json) |
+| King Drift and Hajwalah | 287554 | [287554-king-drift-and-hajwalah.json](./287554-king-drift-and-hajwalah.json) |
 | King Erik | 112725 | [112725-king-erik.json](./112725-king-erik.json) |
 | King Exit | 63715 | [63715-king-exit.json](./63715-king-exit.json) |
 | King Flappy | 97460 | [97460-king-flappy.json](./97460-king-flappy.json) |
@@ -1988,6 +1989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King's Knight: Wrath of the Dark Dragon | 24010 | [24010-kings-knight-wrath-of-the-dark-dragon.json](./24010-kings-knight-wrath-of-the-dark-dragon.json) |
 | King's League II | 113688 | [113688-kings-league-ii.json](./113688-kings-league-ii.json) |
 | King's Mug | 393138 | [393138-kings-mug.json](./393138-kings-mug.json) |
+| King's Odyssey | 287589 | [287589-kings-odyssey.json](./287589-kings-odyssey.json) |
 | King's Path Solitaire | 201053 | [201053-kings-path-solitaire.json](./201053-kings-path-solitaire.json) |
 | King's Quest | 8260 | [8260-kings-quest.json](./8260-kings-quest.json) |
 | King's Quest 4+5+6 | 154935 | [154935-kings-quest-4-5-6.json](./154935-kings-quest-4-5-6.json) |
