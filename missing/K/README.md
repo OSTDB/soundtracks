@@ -2534,6 +2534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kitty Letter | 145044 | [145044-kitty-letter.json](./145044-kitty-letter.json) |
 | Kitty Loves Birds | 346601 | [346601-kitty-loves-birds.json](./346601-kitty-loves-birds.json) |
 | Kitty Meow Meow City Heroes - Cats to the Rescue! | 95880 | [95880-kitty-meow-meow-city-heroes-cats-to-the-rescue.json](./95880-kitty-meow-meow-city-heroes-cats-to-the-rescue.json) |
+| Kitty Patrol: Paw Showtime | 296236 | [296236-kitty-patrol-paw-showtime.json](./296236-kitty-patrol-paw-showtime.json) |
 | Kitty Pig | 291001 | [291001-kitty-pig.json](./291001-kitty-pig.json) |
 | Kitty Play | 105079 | [105079-kitty-play.json](./105079-kitty-play.json) |
 | Kitty Powers' Matchmaker Makeover | 388047 | [388047-kitty-powers-matchmaker-makeover.json](./388047-kitty-powers-matchmaker-makeover.json) |
@@ -3066,6 +3067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koinori | 415117 | [415117-koinori.json](./415117-koinori.json) |
 | Koinu de Kururin | 412988 | [412988-koinu-de-kururin.json](./412988-koinu-de-kururin.json) |
 | Koioto Se Piace | 386255 | [386255-koioto-se-piace.json](./386255-koioto-se-piace.json) |
+| Koishi Adventure | 296241 | [296241-koishi-adventure.json](./296241-koishi-adventure.json) |
 | Koishi's Lumo | 132280 | [132280-koishis-lumo.json](./132280-koishis-lumo.json) |
 | Koishite Doki-doki Choice Messe & Date | 251610 | [251610-koishite-doki-doki-choice-messe-and-date.json](./251610-koishite-doki-doki-choice-messe-and-date.json) |
 | Koisuru Otome to Shugo no Tate Portable | 198249 | [198249-koisuru-otome-to-shugo-no-tate-portable.json](./198249-koisuru-otome-to-shugo-no-tate-portable.json) |
