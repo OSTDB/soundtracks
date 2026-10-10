@@ -617,6 +617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 12 Labours of Hercules XIII: Wonder-ful Builder - Collector's Edition | 338908 | [338908-12-labours-of-hercules-xiii-wonder-ful-builder-collectors-edition.json](./338908-12-labours-of-hercules-xiii-wonder-ful-builder-collectors-edition.json) |
 | 12 Labours of Hercules XIV: Message in a Bottle | 221170 | [221170-12-labours-of-hercules-xiv-message-in-a-bottle.json](./221170-12-labours-of-hercules-xiv-message-in-a-bottle.json) |
 | 12 Labours of Hercules XIV: Message in a Bottle - Collector's Edition | 338911 | [338911-12-labours-of-hercules-xiv-message-in-a-bottle-collectors-edition.json](./338911-12-labours-of-hercules-xiv-message-in-a-bottle-collectors-edition.json) |
+| 12 Labours of Hercules XVI: Olympic Bugs | 283082 | [283082-12-labours-of-hercules-xvi-olympic-bugs.json](./283082-12-labours-of-hercules-xvi-olympic-bugs.json) |
 | 12 Labours of Hercules XVII: Feathered Fury | 318605 | [318605-12-labours-of-hercules-xvii-feathered-fury.json](./318605-12-labours-of-hercules-xvii-feathered-fury.json) |
 | 12 Labours of Hercules XVIII: Ghost Sheep | 355039 | [355039-12-labours-of-hercules-xviii-ghost-sheep.json](./355039-12-labours-of-hercules-xviii-ghost-sheep.json) |
 | 12 Labours of Hercules XVIII: Ghost Sheep - Collector's Edition | 356770 | [356770-12-labours-of-hercules-xviii-ghost-sheep-collectors-edition.json](./356770-12-labours-of-hercules-xviii-ghost-sheep-collectors-edition.json) |
@@ -747,6 +748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1870: Cyberpunk Forever | 145279 | [145279-1870-cyberpunk-forever.json](./145279-1870-cyberpunk-forever.json) |
 | 1873 | 316846 | [316846-1873.json](./316846-1873.json) |
 | 1893: A World's Fair Mystery | 12374 | [12374-1893-a-worlds-fair-mystery.json](./12374-1893-a-worlds-fair-mystery.json) |
+| 18Hell: Lost | 283081 | [283081-18hell-lost.json](./283081-18hell-lost.json) |
 | 18Korea | 192177 | [192177-18korea.json](./192177-18korea.json) |
 | 18th Airborne | 299485 | [299485-18th-airborne.json](./299485-18th-airborne.json) |
 | 18th Floor | 333761 | [333761-18th-floor.json](./333761-18th-floor.json) |
@@ -789,6 +791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 198X | 100562 | [100562-198x.json](./100562-198x.json) |
 | 1990 | 219506 | [219506-1990.json](./219506-1990.json) |
 | 1990: Die 1993'er Edition | 38854 | [38854-1990-die-1993er-edition.json](./38854-1990-die-1993er-edition.json) |
+| 1991 | 283080 | [283080-1991.json](./283080-1991.json) |
 | 1991 Du Ma Racing | 22428 | [22428-1991-du-ma-racing.json](./22428-1991-du-ma-racing.json) |
 | 1993 Shenandoah | 137426 | [137426-1993-shenandoah.json](./137426-1993-shenandoah.json) |
 | 1993 Space Machine | 19390 | [19390-1993-space-machine.json](./19390-1993-space-machine.json) |
@@ -944,6 +947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2006 FIFA World Cup | 240284 | [240284-2006-fifa-world-cup.json](./240284-2006-fifa-world-cup.json) |
 | 2006 FIFA World Cup | 5474 | [5474-2006-fifa-world-cup.json](./5474-2006-fifa-world-cup.json) |
 | 2006 Real Soccer | 116346 | [116346-2006-real-soccer.json](./116346-2006-real-soccer.json) |
+| 2007 | 283079 | [283079-2007.json](./283079-2007.json) |
 | 2010 FIFA World Cup South Africa | 240362 | [240362-2010-fifa-world-cup-south-africa.json](./240362-2010-fifa-world-cup-south-africa.json) |
 | 2010 FIFA World Cup South Africa | 240363 | [240363-2010-fifa-world-cup-south-africa.json](./240363-2010-fifa-world-cup-south-africa.json) |
 | 2010: The Graphic Action Game | 12290 | [12290-2010-the-graphic-action-game.json](./12290-2010-the-graphic-action-game.json) |
