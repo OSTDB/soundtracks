@@ -4722,6 +4722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amato | 391273 | [391273-amato.json](./391273-amato.json) |
 | Amatsu Misora ni! Kumo no Hatate ni | 62263 | [62263-amatsu-misora-ni-kumo-no-hatate-ni.json](./62263-amatsu-misora-ni-kumo-no-hatate-ni.json) |
 | Amatsu Sora ni Saku | 309672 | [309672-amatsu-sora-ni-saku.json](./309672-amatsu-sora-ni-saku.json) |
+| Amatsuki Mahjong | 321045 | [321045-amatsuki-mahjong.json](./321045-amatsuki-mahjong.json) |
 | Amatsuko | 383153 | [383153-amatsuko.json](./383153-amatsuko.json) |
 | Amaya's Lost Soul | 213982 | [213982-amayas-lost-soul.json](./213982-amayas-lost-soul.json) |
 | Amayakashi na Kanojo: Boseiteki na Ayakashi Musume to Ama Ero Seikatsu Hajimemasu | 194578 | [194578-amayakashi-na-kanojo-boseiteki-na-ayakashi-musume-to-ama-ero-seikatsu-hajimemasu.json](./194578-amayakashi-na-kanojo-boseiteki-na-ayakashi-musume-to-ama-ero-seikatsu-hajimemasu.json) |
@@ -5881,6 +5882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Trainer Simulator | 226236 | [226236-animal-trainer-simulator.json](./226236-animal-trainer-simulator.json) |
 | Animal Unite | 212472 | [212472-animal-unite.json](./212472-animal-unite.json) |
 | Animal Up! | 121703 | [121703-animal-up.json](./121703-animal-up.json) |
+| Animal Use Protocol | 321054 | [321054-animal-use-protocol.json](./321054-animal-use-protocol.json) |
 | Animal Village Rescue | 232170 | [232170-animal-village-rescue.json](./232170-animal-village-rescue.json) |
 | Animal Voyage: Island Adventure | 38901 | [38901-animal-voyage-island-adventure.json](./38901-animal-voyage-island-adventure.json) |
 | Animal Warfare Battle Simulator | 127872 | [127872-animal-warfare-battle-simulator.json](./127872-animal-warfare-battle-simulator.json) |
@@ -6846,6 +6848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apple Catch | 317457 | [317457-apple-catch.json](./317457-apple-catch.json) |
 | Apple Cider Spider | 12254 | [12254-apple-cider-spider.json](./12254-apple-cider-spider.json) |
 | Apple Clicker | 314410 | [314410-apple-clicker.json](./314410-apple-clicker.json) |
+| Apple Climbers | 321030 | [321030-apple-climbers.json](./321030-apple-climbers.json) |
 | Apple Grove Picking Games | 116098 | [116098-apple-grove-picking-games.json](./116098-apple-grove-picking-games.json) |
 | Apple Hopper | 158526 | [158526-apple-hopper.json](./158526-apple-hopper.json) |
 | Apple Jack | 91905 | [91905-apple-jack.json](./91905-apple-jack.json) |
@@ -9550,6 +9553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astrox: Hostile Space Excavation | 34133 | [34133-astrox-hostile-space-excavation.json](./34133-astrox-hostile-space-excavation.json) |
 | Astrozombies | 138617 | [138617-astrozombies.json](./138617-astrozombies.json) |
 | Astrozone | 104240 | [104240-astrozone.json](./104240-astrozone.json) |
+| Astrumis: Survive Together | 321058 | [321058-astrumis-survive-together.json](./321058-astrumis-survive-together.json) |
 | Astrune Academy | 303834 | [303834-astrune-academy.json](./303834-astrune-academy.json) |
 | Astyanax | 9036 | [9036-astyanax.json](./9036-astyanax.json) |
 | Asu Kano! Asu mo Kanojo to Issho! | 209141 | [209141-asu-kano-asu-mo-kanojo-to-issho.json](./209141-asu-kano-asu-mo-kanojo-to-issho.json) |
