@@ -565,6 +565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echoes of Steel | 277851 | [277851-echoes-of-steel.json](./277851-echoes-of-steel.json) |
 | Echoes of Stella | 403011 | [403011-echoes-of-stella.json](./403011-echoes-of-stella.json) |
 | Echoes of the Abyss | 290524 | [290524-echoes-of-the-abyss.json](./290524-echoes-of-the-abyss.json) |
+| Echoes of the Ashen | 290833 | [290833-echoes-of-the-ashen.json](./290833-echoes-of-the-ashen.json) |
 | Echoes of The Backrooms | 303053 | [303053-echoes-of-the-backrooms.json](./303053-echoes-of-the-backrooms.json) |
 | Echoes of the Core | 365840 | [365840-echoes-of-the-core.json](./365840-echoes-of-the-core.json) |
 | Echoes of the Court | 366349 | [366349-echoes-of-the-court.json](./366349-echoes-of-the-court.json) |
@@ -4684,6 +4685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ExoSoul | 257974 | [257974-exosoul.json](./257974-exosoul.json) |
 | ExoSphere | 57048 | [57048-exosphere.json](./57048-exosphere.json) |
 | Exostorm | 35725 | [35725-exostorm.json](./35725-exostorm.json) |
+| Exosuit | 290864 | [290864-exosuit.json](./290864-exosuit.json) |
 | ExoTanks MOBA | 119528 | [119528-exotanks-moba.json](./119528-exotanks-moba.json) |
 | Exotic | 186847 | [186847-exotic.json](./186847-exotic.json) |
 | Exotic Kosmos | 258971 | [258971-exotic-kosmos.json](./258971-exotic-kosmos.json) |
