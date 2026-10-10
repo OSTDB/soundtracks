@@ -10812,6 +10812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pursuer | 115577 | [115577-pursuer.json](./115577-pursuer.json) |
 | Pursuing Susie | 84534 | [84534-pursuing-susie.json](./84534-pursuing-susie.json) |
 | Pursuit Force: Extreme Justice | 299391 | [299391-pursuit-force-extreme-justice.json](./299391-pursuit-force-extreme-justice.json) |
+| Pursuit of Laughter | 291900 | [291900-pursuit-of-laughter.json](./291900-pursuit-of-laughter.json) |
 | Pursuit of Light | 104272 | [104272-pursuit-of-light.json](./104272-pursuit-of-light.json) |
 | Pursuit of Power 2 | 30866 | [30866-pursuit-of-power-2.json](./30866-pursuit-of-power-2.json) |
 | Pursuit of Redemption | 148979 | [148979-pursuit-of-redemption.json](./148979-pursuit-of-redemption.json) |
