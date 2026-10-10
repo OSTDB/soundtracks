@@ -505,6 +505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 101 Cats in London | 337607 | [337607-101-cats-in-london.json](./337607-101-cats-in-london.json) |
 | 101 Cats in Macau | 366739 | [366739-101-cats-in-macau.json](./366739-101-cats-in-macau.json) |
 | 101 Cats in Madrid | 326082 | [326082-101-cats-in-madrid.json](./326082-101-cats-in-madrid.json) |
+| 101 Cats in Miami | 326081 | [326081-101-cats-in-miami.json](./326081-101-cats-in-miami.json) |
 | 101 Cats in Milan | 337608 | [337608-101-cats-in-milan.json](./337608-101-cats-in-milan.json) |
 | 101 Cats in Moscow | 372340 | [372340-101-cats-in-moscow.json](./372340-101-cats-in-moscow.json) |
 | 101 Cats in Munich | 407534 | [407534-101-cats-in-munich.json](./407534-101-cats-in-munich.json) |
@@ -546,6 +547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1024 | 61866 | [61866-1024.json](./61866-1024.json) |
 | 1024 Cement Mixer | 308273 | [308273-1024-cement-mixer.json](./308273-1024-cement-mixer.json) |
 | 103 | 108413 | [108413-103.json](./108413-103.json) |
+| 108 Silly Ways to Die | 326083 | [326083-108-silly-ways-to-die.json](./326083-108-silly-ways-to-die.json) |
 | 1080° Avalanche | 3774 | [3774-1080-avalanche.json](./3774-1080-avalanche.json) |
 | 10Battle | 230219 | [230219-10battle.json](./230219-10battle.json) |
 | 10hit | 357179 | [357179-10hit.json](./357179-10hit.json) |
@@ -561,6 +563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 10mg: Snaaak | 141097 | [141097-10mg-snaaak.json](./141097-10mg-snaaak.json) |
 | 10mg: Stroke | 139899 | [139899-10mg-stroke.json](./139899-10mg-stroke.json) |
 | 10mg: You are such a Soft and Round Kitten. | 139903 | [139903-10mg-you-are-such-a-soft-and-round-kitten.json](./139903-10mg-you-are-such-a-soft-and-round-kitten.json) |
+| 10min Heroes | 326085 | [326085-10min-heroes.json](./326085-10min-heroes.json) |
 | 10Minutes | 258997 | [258997-10minutes.json](./258997-10minutes.json) |
 | 10n: Ten Power N | 392455 | [392455-10n-ten-power-n.json](./392455-10n-ten-power-n.json) |
 | 10s | 397234 | [397234-10s.json](./397234-10s.json) |
