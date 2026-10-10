@@ -132,6 +132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaidann | 290470 | [290470-kaidann.json](./290470-kaidann.json) |
 | Kaidi Armed With a Cat | 113501 | [113501-kaidi-armed-with-a-cat.json](./113501-kaidi-armed-with-a-cat.json) |
 | Kaido Genkai | 349376 | [349376-kaido-genkai.json](./349376-kaido-genkai.json) |
+| Kaidop | 297901 | [297901-kaidop.json](./297901-kaidop.json) |
 | Kaidou ni Kisu | 380806 | [380806-kaidou-ni-kisu.json](./380806-kaidou-ni-kisu.json) |
 | Kaigrad | 163969 | [163969-kaigrad.json](./163969-kaigrad.json) |
 | Kaii Judge Labyrinth | 288431 | [288431-kaii-judge-labyrinth.json](./288431-kaii-judge-labyrinth.json) |
