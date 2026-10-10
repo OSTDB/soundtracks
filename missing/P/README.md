@@ -7613,6 +7613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pool Live Pro | 38947 | [38947-pool-live-pro.json](./38947-pool-live-pro.json) |
 | Pool Lounge | 264241 | [264241-pool-lounge.json](./264241-pool-lounge.json) |
 | Pool Master | 43257 | [43257-pool-master.json](./43257-pool-master.json) |
+| Pool Nation | 294557 | [294557-pool-nation.json](./294557-pool-nation.json) |
 | Pool Nation FX - Lite | 15692 | [15692-pool-nation-fx-lite.json](./15692-pool-nation-fx-lite.json) |
 | Pool Nation Snooker Bundle | 112733 | [112733-pool-nation-snooker-bundle.json](./112733-pool-nation-snooker-bundle.json) |
 | Pool of Death | 32795 | [32795-pool-of-death.json](./32795-pool-of-death.json) |
@@ -9761,6 +9762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Ravensdale | 63335 | [63335-project-ravensdale.json](./63335-project-ravensdale.json) |
 | Project Raze: Fall of Terra | 379859 | [379859-project-raze-fall-of-terra.json](./379859-project-raze-fall-of-terra.json) |
 | Project Re-Rainbow | 321785 | [321785-project-re-rainbow.json](./321785-project-re-rainbow.json) |
+| Project Reality | 294572 | [294572-project-reality.json](./294572-project-reality.json) |
 | Project Reality | 315026 | [315026-project-reality.json](./315026-project-reality.json) |
 | Project Reality 2 | 2942 | [2942-project-reality-2.json](./2942-project-reality-2.json) |
 | Project Rebearth | 301075 | [301075-project-rebearth.json](./301075-project-rebearth.json) |
@@ -9806,6 +9808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Shikai | 329733 | [329733-project-shikai.json](./329733-project-shikai.json) |
 | Project Shiver Wing | 212452 | [212452-project-shiver-wing.json](./212452-project-shiver-wing.json) |
 | Project Shore | 103516 | [103516-project-shore.json](./103516-project-shore.json) |
+| Project Shoreline | 294550 | [294550-project-shoreline.json](./294550-project-shoreline.json) |
 | Project Silver Shield | 297893 | [297893-project-silver-shield.json](./297893-project-silver-shield.json) |
 | Project Silverfish | 298641 | [298641-project-silverfish.json](./298641-project-silverfish.json) |
 | Project SJHG | 320519 | [320519-project-sjhg.json](./320519-project-sjhg.json) |
