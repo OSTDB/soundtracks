@@ -1701,6 +1701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haustor's Abbey | 278467 | [278467-haustors-abbey.json](./278467-haustors-abbey.json) |
 | Haustoria | 130922 | [130922-haustoria.json](./130922-haustoria.json) |
 | Haut | 349382 | [349382-haut.json](./349382-haut.json) |
+| Have a Good Day | 302778 | [302778-have-a-good-day.json](./302778-have-a-good-day.json) |
 | Have a N.I.C.E. day! | 71710 | [71710-have-a-n-i-c-e-day.json](./71710-have-a-n-i-c-e-day.json) |
 | Have an Ice Day | 364962 | [364962-have-an-ice-day.json](./364962-have-an-ice-day.json) |
 | Have Fun Together | 259605 | [259605-have-fun-together.json](./259605-have-fun-together.json) |
@@ -6281,6 +6282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Host Security Guard | 278641 | [278641-host-security-guard.json](./278641-host-security-guard.json) |
 | Hostage Heart | 417565 | [417565-hostage-heart.json](./417565-hostage-heart.json) |
 | Hostages | 343204 | [343204-hostages.json](./343204-hostages.json) |
+| Hostia me acabo de acordar de lo que he soñao hoy, que puta paranoia | 302734 | [302734-hostia-me-acabo-de-acordar-de-lo-que-he-sonao-hoy-que-puta-paranoia.json](./302734-hostia-me-acabo-de-acordar-de-lo-que-he-sonao-hoy-que-puta-paranoia.json) |
 | Hostil | 75816 | [75816-hostil.json](./75816-hostil.json) |
 | Hostile Dreams | 239784 | [239784-hostile-dreams.json](./239784-hostile-dreams.json) |
 | Hostile Dreams 2 | 332458 | [332458-hostile-dreams-2.json](./332458-hostile-dreams-2.json) |
