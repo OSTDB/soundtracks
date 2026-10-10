@@ -4009,6 +4009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Big 6 | 65241 | [65241-the-big-6.json](./65241-the-big-6.json) |
 | The Big Adventure | 339216 | [339216-the-big-adventure.json](./339216-the-big-adventure.json) |
 | The Big Bang Theory Game | 325084 | [325084-the-big-bang-theory-game.json](./325084-the-big-bang-theory-game.json) |
+| The Big Bell Race | 318740 | [318740-the-big-bell-race.json](./318740-the-big-bell-race.json) |
 | The Big Capitalist 3 | 106758 | [106758-the-big-capitalist-3.json](./106758-the-big-capitalist-3.json) |
 | The Big Catch | 217819 | [217819-the-big-catch.json](./217819-the-big-catch.json) |
 | The Big City | 270702 | [270702-the-big-city.json](./270702-the-big-city.json) |
@@ -8780,6 +8781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Nights on Arcade | 267073 | [267073-the-nights-on-arcade.json](./267073-the-nights-on-arcade.json) |
 | The Nightshift Code | 16076 | [16076-the-nightshift-code.json](./16076-the-nightshift-code.json) |
 | The Nightwatch | 289977 | [289977-the-nightwatch.json](./289977-the-nightwatch.json) |
+| The Nile God | 318719 | [318719-the-nile-god.json](./318719-the-nile-god.json) |
 | The Nine Rebirths | 326291 | [326291-the-nine-rebirths.json](./326291-the-nine-rebirths.json) |
 | The Ninja | 346067 | [346067-the-ninja.json](./346067-the-ninja.json) |
 | The Ninja Gaiden as Interpreted by MiniMacro Sound | 311650 | [311650-the-ninja-gaiden-as-interpreted-by-minimacro-sound.json](./311650-the-ninja-gaiden-as-interpreted-by-minimacro-sound.json) |
@@ -10486,6 +10488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Stargazers | 33478 | [33478-the-stargazers.json](./33478-the-stargazers.json) |
 | The Stars are Right | 391346 | [391346-the-stars-are-right.json](./391346-the-stars-are-right.json) |
 | The Stars Here Below | 228985 | [228985-the-stars-here-below.json](./228985-the-stars-here-below.json) |
+| The Stars Under Lockehurst | 318722 | [318722-the-stars-under-lockehurst.json](./318722-the-stars-under-lockehurst.json) |
 | The Stars We Lost To Grief | 271250 | [271250-the-stars-we-lost-to-grief.json](./271250-the-stars-we-lost-to-grief.json) |
 | The Starship Damrey | 20853 | [20853-the-starship-damrey.json](./20853-the-starship-damrey.json) |
 | The State of Nowhere | 289961 | [289961-the-state-of-nowhere.json](./289961-the-state-of-nowhere.json) |
@@ -10821,6 +10824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Third Shift | 139451 | [139451-the-third-shift.json](./139451-the-third-shift.json) |
 | The Third Tourist | 356563 | [356563-the-third-tourist.json](./356563-the-third-tourist.json) |
 | The Thirst of Hearts | 54343 | [54343-the-thirst-of-hearts.json](./54343-the-thirst-of-hearts.json) |
+| The Thirst Road | 318735 | [318735-the-thirst-road.json](./318735-the-thirst-road.json) |
 | The Thirteenth Floor | 177309 | [177309-the-thirteenth-floor.json](./177309-the-thirteenth-floor.json) |
 | The Thirty Nine Steps | 63664 | [63664-the-thirty-nine-steps.json](./63664-the-thirty-nine-steps.json) |
 | The Thorns of War | 183445 | [183445-the-thorns-of-war.json](./183445-the-thorns-of-war.json) |
@@ -15881,6 +15885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tornado Emergency | 301244 | [301244-tornado-emergency.json](./301244-tornado-emergency.json) |
 | Tornado Jockey | 80133 | [80133-tornado-jockey.json](./80133-tornado-jockey.json) |
 | Tornado Mania! | 241466 | [241466-tornado-mania.json](./241466-tornado-mania.json) |
+| Tornado Mania! 3D | 318731 | [318731-tornado-mania-3d.json](./318731-tornado-mania-3d.json) |
 | Tornado Raid / Tornado Blade | 297722 | [297722-tornado-raid-tornado-blade.json](./297722-tornado-raid-tornado-blade.json) |
 | Tornado: Low Level | 23052 | [23052-tornado-low-level.json](./23052-tornado-low-level.json) |
 | Tornado: Research and Rescue | 249891 | [249891-tornado-research-and-rescue.json](./249891-tornado-research-and-rescue.json) |
@@ -16585,6 +16590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower of Hanoi | 188579 | [188579-tower-of-hanoi.json](./188579-tower-of-hanoi.json) |
 | Tower of Heresy | 127799 | [127799-tower-of-heresy.json](./127799-tower-of-heresy.json) |
 | Tower Of Lies | 291520 | [291520-tower-of-lies.json](./291520-tower-of-lies.json) |
+| Tower of Madness | 318692 | [318692-tower-of-madness.json](./318692-tower-of-madness.json) |
 | Tower of Magic | 170275 | [170275-tower-of-magic.json](./170275-tower-of-magic.json) |
 | Tower of Minak | 299842 | [299842-tower-of-minak.json](./299842-tower-of-minak.json) |
 | Tower of Modula | 340542 | [340542-tower-of-modula.json](./340542-tower-of-modula.json) |
@@ -16966,6 +16972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Track & Field II | 20903 | [20903-track-and-field-ii.json](./20903-track-and-field-ii.json) |
 | Track & Field in Barcelona | 48893 | [48893-track-and-field-in-barcelona.json](./48893-track-and-field-in-barcelona.json) |
 | Track Attack: Changes Everything | 251202 | [251202-track-attack-changes-everything.json](./251202-track-attack-changes-everything.json) |
+| Track Craft | 318717 | [318717-track-craft.json](./318717-track-craft.json) |
 | Track Masters Pro | 338953 | [338953-track-masters-pro.json](./338953-track-masters-pro.json) |
 | Track My Train | 356645 | [356645-track-my-train.json](./356645-track-my-train.json) |
 | Track No.9 | 339808 | [339808-track-no-9.json](./339808-track-no-9.json) |
