@@ -4183,6 +4183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five in One | 210648 | [210648-five-in-one.json](./210648-five-in-one.json) |
 | Five Islands Escape | 315768 | [315768-five-islands-escape.json](./315768-five-islands-escape.json) |
 | Five Keys to Exit | 86433 | [86433-five-keys-to-exit.json](./86433-five-keys-to-exit.json) |
+| Five Lethal Demons | 315201 | [315201-five-lethal-demons.json](./315201-five-lethal-demons.json) |
 | Five Letter Words | 104115 | [104115-five-letter-words.json](./104115-five-letter-words.json) |
 | Five Mysterious Murders | 374759 | [374759-five-mysterious-murders.json](./374759-five-mysterious-murders.json) |
 | Five Nations: Renegades | 259059 | [259059-five-nations-renegades.json](./259059-five-nations-renegades.json) |
