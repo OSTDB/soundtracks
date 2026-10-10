@@ -1163,6 +1163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undersea Escape | 315599 | [315599-undersea-escape.json](./315599-undersea-escape.json) |
 | Understanding of the Abyss | 151733 | [151733-understanding-of-the-abyss.json](./151733-understanding-of-the-abyss.json) |
 | Understeel | 382204 | [382204-understeel.json](./382204-understeel.json) |
+| Underswap: Distrust the Game 2 | 331930 | [331930-underswap-distrust-the-game-2.json](./331930-underswap-distrust-the-game-2.json) |
 | Underswap: Echoed | 329656 | [329656-underswap-echoed.json](./329656-underswap-echoed.json) |
 | Underswap: Nuts in Bolts Don't Actually | 183991 | [183991-underswap-nuts-in-bolts-dont-actually.json](./183991-underswap-nuts-in-bolts-dont-actually.json) |
 | Underswap: The Reckoning | 329667 | [329667-underswap-the-reckoning.json](./329667-underswap-the-reckoning.json) |
@@ -1190,6 +1191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undertale: Remembering the Genocides | 335675 | [335675-undertale-remembering-the-genocides.json](./335675-undertale-remembering-the-genocides.json) |
 | Undertale: Thanatos! | 330251 | [330251-undertale-thanatos.json](./330251-undertale-thanatos.json) |
 | Undertale: The Final Run | 223676 | [223676-undertale-the-final-run.json](./223676-undertale-the-final-run.json) |
+| Undertale: The Otherground | 331933 | [331933-undertale-the-otherground.json](./331933-undertale-the-otherground.json) |
 | Undertale: True Genocide | 280771 | [280771-undertale-true-genocide.json](./280771-undertale-true-genocide.json) |
 | Undertale: Wildfire | 314045 | [314045-undertale-wildfire.json](./314045-undertale-wildfire.json) |
 | UndertaleForFree | 397049 | [397049-undertaleforfree.json](./397049-undertaleforfree.json) |
