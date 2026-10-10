@@ -1796,6 +1796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Manascape | 257933 | [257933-manascape.json](./257933-manascape.json) |
 | Manastone | 388263 | [388263-manastone.json](./388263-manastone.json) |
 | Manatee | 311249 | [311249-manatee.json](./311249-manatee.json) |
+| Manatsu no Zangai | 285385 | [285385-manatsu-no-zangai.json](./285385-manatsu-no-zangai.json) |
 | Manaulyn | 296971 | [296971-manaulyn.json](./296971-manaulyn.json) |
 | Manbomber | 283749 | [283749-manbomber.json](./283749-manbomber.json) |
 | Mancala | 89473 | [89473-mancala.json](./89473-mancala.json) |
@@ -5183,6 +5184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MeiQi 2024 | 322036 | [322036-meiqi-2024.json](./322036-meiqi-2024.json) |
 | Meiro | 126508 | [126508-meiro.json](./126508-meiro.json) |
 | Meiro Master | 197253 | [197253-meiro-master.json](./197253-meiro-master.json) |
+| Meisa no Sekai | 285386 | [285386-meisa-no-sekai.json](./285386-meisa-no-sekai.json) |
 | Měishàonián Mèng Gōngchǎng 3: Chóngshēng | 116981 | [116981-meishaonian-meng-gongchang-3-chongsheng.json](./116981-meishaonian-meng-gongchang-3-chongsheng.json) |
 | Meister | 113670 | [113670-meister.json](./113670-meister.json) |
 | MeisterPower | 383980 | [383980-meisterpower.json](./383980-meisterpower.json) |
@@ -7890,6 +7892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Soccer Star | 414515 | [414515-mini-soccer-star.json](./414515-mini-soccer-star.json) |
 | Mini Speedy Racers | 240212 | [240212-mini-speedy-racers.json](./240212-mini-speedy-racers.json) |
 | Mini Spheres | 72311 | [72311-mini-spheres.json](./72311-mini-spheres.json) |
+| Mini Star Imposters | 285419 | [285419-mini-star-imposters.json](./285419-mini-star-imposters.json) |
 | Mini Star Quest | 344948 | [344948-mini-star-quest.json](./344948-mini-star-quest.json) |
 | Mini Star Survivor | 262902 | [262902-mini-star-survivor.json](./262902-mini-star-survivor.json) |
 | Mini Stasol | 366918 | [366918-mini-stasol.json](./366918-mini-stasol.json) |
@@ -11087,6 +11090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moulder | 375402 | [375402-moulder.json](./375402-moulder.json) |
 | Mouldy Old Void | 303020 | [303020-mouldy-old-void.json](./303020-mouldy-old-void.json) |
 | Moulin Rouge Senki: Melville no Honoo | 48816 | [48816-moulin-rouge-senki-melville-no-honoo.json](./48816-moulin-rouge-senki-melville-no-honoo.json) |
+| Moundville Factory Lost Tape 89 | 285402 | [285402-moundville-factory-lost-tape-89.json](./285402-moundville-factory-lost-tape-89.json) |
 | Mount & Blade Collection | 54229 | [54229-mount-and-blade-collection.json](./54229-mount-and-blade-collection.json) |
 | Mount & Blade Full Collection | 53364 | [53364-mount-and-blade-full-collection.json](./53364-mount-and-blade-full-collection.json) |
 | Mount & Blade II: Bannerlord | 9608 | [9608-mount-and-blade-ii-bannerlord.json](./9608-mount-and-blade-ii-bannerlord.json) |
