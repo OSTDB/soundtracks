@@ -665,6 +665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nautilus | 24937 | [24937-nautilus.json](./24937-nautilus.json) |
 | Nautilus Epoch | 166780 | [166780-nautilus-epoch.json](./166780-nautilus-epoch.json) |
 | Nautus | 414355 | [414355-nautus.json](./414355-nautus.json) |
+| Nav | 293504 | [293504-nav.json](./293504-nav.json) |
 | Nav's Endless Nightmare | 182537 | [182537-navs-endless-nightmare.json](./182537-navs-endless-nightmare.json) |
 | Naval Action: Admiralty Connection | 155560 | [155560-naval-action-admiralty-connection.json](./155560-naval-action-admiralty-connection.json) |
 | Naval Action: Hercules | 155562 | [155562-naval-action-hercules.json](./155562-naval-action-hercules.json) |
