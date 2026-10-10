@@ -3465,6 +3465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dekaron | 60258 | [60258-dekaron.json](./60258-dekaron.json) |
 | Dekaron G | 224071 | [224071-dekaron-g.json](./224071-dekaron-g.json) |
 | Dekaron M | 165416 | [165416-dekaron-m.json](./165416-dekaron-m.json) |
+| Dekiai Heart Candy Kun. | 327899 | [327899-dekiai-heart-candy-kun.json](./327899-dekiai-heart-candy-kun.json) |
 | Dekinai Watashi ga, Kurikaesu. | 402473 | [402473-dekinai-watashi-ga-kurikaesu.json](./402473-dekinai-watashi-ga-kurikaesu.json) |
 | Dekisugi Tingle Pack | 100169 | [100169-dekisugi-tingle-pack.json](./100169-dekisugi-tingle-pack.json) |
 | Dekitayo Mama! Mitsugo no Kuma-San - Onna no Ko | 124664 | [124664-dekitayo-mama-mitsugo-no-kuma-san-onna-no-ko.json](./124664-dekitayo-mama-mitsugo-no-kuma-san-onna-no-ko.json) |
@@ -4130,6 +4131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dérive | 183412 | [183412-derive.json](./183412-derive.json) |
 | Deriver | 401714 | [401714-deriver.json](./401714-deriver.json) |
 | Dermapis | 359056 | [359056-dermapis.json](./359056-dermapis.json) |
+| Dermimi's! | 327898 | [327898-dermimis.json](./327898-dermimis.json) |
 | Derpy Dinos | 74433 | [74433-derpy-dinos.json](./74433-derpy-dinos.json) |
 | Derpy Fish | 356078 | [356078-derpy-fish.json](./356078-derpy-fish.json) |
 | Derpy Pirates! The Search for the Bungalow | 126425 | [126425-derpy-pirates-the-search-for-the-bungalow.json](./126425-derpy-pirates-the-search-for-the-bungalow.json) |
@@ -4248,6 +4250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desertopia | 244804 | [244804-desertopia.json](./244804-desertopia.json) |
 | Deserved | 391598 | [391598-deserved.json](./391598-deserved.json) |
 | Desespejos | 181799 | [181799-desespejos.json](./181799-desespejos.json) |
+| Desierto | 327872 | [327872-desierto.json](./327872-desierto.json) |
 | Design A Train | 106083 | [106083-design-a-train.json](./106083-design-a-train.json) |
 | Design It Girl! | 96306 | [96306-design-it-girl.json](./96306-design-it-girl.json) |
 | Design it, Drive it: Speedboats | 32081 | [32081-design-it-drive-it-speedboats.json](./32081-design-it-drive-it-speedboats.json) |
