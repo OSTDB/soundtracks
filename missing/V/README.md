@@ -690,6 +690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vectrexit | 273915 | [273915-vectrexit.json](./273915-vectrexit.json) |
 | Vectris | 273099 | [273099-vectris.json](./273099-vectris.json) |
 | VectroMirror | 140006 | [140006-vectromirror.json](./140006-vectromirror.json) |
+| Vectron | 295639 | [295639-vectron.json](./295639-vectron.json) |
 | Vecxis | 59058 | [59058-vecxis.json](./59058-vecxis.json) |
 | Ved | 126673 | [126673-ved.json](./126673-ved.json) |
 | Ved: Journey Beyond the Cube | 346240 | [346240-ved-journey-beyond-the-cube.json](./346240-ved-journey-beyond-the-cube.json) |
