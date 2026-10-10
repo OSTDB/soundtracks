@@ -427,6 +427,18 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty: Infinite Warfare - Jackal Assault | 80632 | [80632-call-of-duty-infinite-warfare-jackal-assault.json](./80632-call-of-duty-infinite-warfare-jackal-assault.json) |
 | Call of Duty: Infinite Warfare - Launch Edition | 82447 | [82447-call-of-duty-infinite-warfare-launch-edition.json](./82447-call-of-duty-infinite-warfare-launch-edition.json) |
 | Call of Duty: Infinite Warfare - Legacy Edition | 42896 | [42896-call-of-duty-infinite-warfare-legacy-edition.json](./42896-call-of-duty-infinite-warfare-legacy-edition.json) |
+| Call of Duty: League - Atlanta FaZe Team Pack 2024 | 281931 | [281931-call-of-duty-league-atlanta-faze-team-pack-2024.json](./281931-call-of-duty-league-atlanta-faze-team-pack-2024.json) |
+| Call of Duty: League - Boston Breach Team Pack 2024 | 281935 | [281935-call-of-duty-league-boston-breach-team-pack-2024.json](./281935-call-of-duty-league-boston-breach-team-pack-2024.json) |
+| Call of Duty: League - Carolina Royal Ravens Team Pack 2024 | 281932 | [281932-call-of-duty-league-carolina-royal-ravens-team-pack-2024.json](./281932-call-of-duty-league-carolina-royal-ravens-team-pack-2024.json) |
+| Call of Duty: League - Los Angeles Guerrillas Team Pack 2024 | 281933 | [281933-call-of-duty-league-los-angeles-guerrillas-team-pack-2024.json](./281933-call-of-duty-league-los-angeles-guerrillas-team-pack-2024.json) |
+| Call of Duty: League - Los Angeles Thieves Team Pack 2024 | 281934 | [281934-call-of-duty-league-los-angeles-thieves-team-pack-2024.json](./281934-call-of-duty-league-los-angeles-thieves-team-pack-2024.json) |
+| Call of Duty: League - Miami Heretics Team Pack 2024 | 281936 | [281936-call-of-duty-league-miami-heretics-team-pack-2024.json](./281936-call-of-duty-league-miami-heretics-team-pack-2024.json) |
+| Call of Duty: League - Minnesota ROKKR Team Pack 2024 | 281937 | [281937-call-of-duty-league-minnesota-rokkr-team-pack-2024.json](./281937-call-of-duty-league-minnesota-rokkr-team-pack-2024.json) |
+| Call of Duty: League - New York Subliners Team Pack 2024 | 281938 | [281938-call-of-duty-league-new-york-subliners-team-pack-2024.json](./281938-call-of-duty-league-new-york-subliners-team-pack-2024.json) |
+| Call of Duty: League - OpTic Texas Team Pack 2024 | 281939 | [281939-call-of-duty-league-optic-texas-team-pack-2024.json](./281939-call-of-duty-league-optic-texas-team-pack-2024.json) |
+| Call of Duty: League - Seattle Surge Team Pack 2024 | 281940 | [281940-call-of-duty-league-seattle-surge-team-pack-2024.json](./281940-call-of-duty-league-seattle-surge-team-pack-2024.json) |
+| Call of Duty: League - Toronto Ultra Team Pack 2024 | 281941 | [281941-call-of-duty-league-toronto-ultra-team-pack-2024.json](./281941-call-of-duty-league-toronto-ultra-team-pack-2024.json) |
+| Call of Duty: League - Vegas Legion Team Pack 2024 | 281942 | [281942-call-of-duty-league-vegas-legion-team-pack-2024.json](./281942-call-of-duty-league-vegas-legion-team-pack-2024.json) |
 | Call of Duty: Legacy | 294560 | [294560-call-of-duty-legacy.json](./294560-call-of-duty-legacy.json) |
 | Call of Duty: Modern Warfare - Precision Edition | 136342 | [136342-call-of-duty-modern-warfare-precision-edition.json](./136342-call-of-duty-modern-warfare-precision-edition.json) |
 | Call of Duty: Modern Warfare - Reflex Edition | 21199 | [21199-call-of-duty-modern-warfare-reflex-edition.json](./21199-call-of-duty-modern-warfare-reflex-edition.json) |
@@ -2725,6 +2737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cats vs Trolls | 394763 | [394763-cats-vs-trolls.json](./394763-cats-vs-trolls.json) |
 | Cats vs. Aliens | 295561 | [295561-cats-vs-aliens.json](./295561-cats-vs-aliens.json) |
 | Cats vs. Dogs | 365543 | [365543-cats-vs-dogs.json](./365543-cats-vs-dogs.json) |
+| Cats vs. Ghosts | 281981 | [281981-cats-vs-ghosts.json](./281981-cats-vs-ghosts.json) |
 | Cats vs. Rats | 372029 | [372029-cats-vs-rats.json](./372029-cats-vs-rats.json) |
 | Cats War | 303723 | [303723-cats-war.json](./303723-cats-war.json) |
 | Cats With Guns | 328962 | [328962-cats-with-guns.json](./328962-cats-with-guns.json) |
@@ -3323,6 +3336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chambered | 385381 | [385381-chambered.json](./385381-chambered.json) |
 | Chambered | 40708 | [40708-chambered.json](./40708-chambered.json) |
 | Chamberlore | 378435 | [378435-chamberlore.json](./378435-chamberlore.json) |
+| Chambers | 281980 | [281980-chambers.json](./281980-chambers.json) |
 | Chambers & Crops | 346255 | [346255-chambers-and-crops.json](./346255-chambers-and-crops.json) |
 | Chambers of Devious Design | 153886 | [153886-chambers-of-devious-design.json](./153886-chambers-of-devious-design.json) |
 | Chambers of Shaolin | 11997 | [11997-chambers-of-shaolin.json](./11997-chambers-of-shaolin.json) |
