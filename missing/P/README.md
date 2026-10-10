@@ -1360,6 +1360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parasitic Descent | 319117 | [319117-parasitic-descent.json](./319117-parasitic-descent.json) |
 | Parasitus: Ninja Zero | 93628 | [93628-parasitus-ninja-zero.json](./93628-parasitus-ninja-zero.json) |
 | Parasocial Climbing | 371745 | [371745-parasocial-climbing.json](./371745-parasocial-climbing.json) |
+| Parasocial! Paranoia! Paradise! | 326570 | [326570-parasocial-paranoia-paradise.json](./326570-parasocial-paranoia-paradise.json) |
 | Parasol Fall | 231632 | [231632-parasol-fall.json](./231632-parasol-fall.json) |
 | Parasol Stars: Rainbow Islands 2 | 39027 | [39027-parasol-stars-rainbow-islands-2.json](./39027-parasol-stars-rainbow-islands-2.json) |
 | Parasol Stars: Rainbow Islands II | 316080 | [316080-parasol-stars-rainbow-islands-ii.json](./316080-parasol-stars-rainbow-islands-ii.json) |
@@ -2638,6 +2639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perdition's Gate Resurgence | 329215 | [329215-perditions-gate-resurgence.json](./329215-perditions-gate-resurgence.json) |
 | Pereelous | 347710 | [347710-pereelous.json](./347710-pereelous.json) |
 | Peregrin | 29934 | [29934-peregrin.json](./29934-peregrin.json) |
+| Perennial Dusk: Kinsenka | 326641 | [326641-perennial-dusk-kinsenka.json](./326641-perennial-dusk-kinsenka.json) |
 | Perennial Order | 149935 | [149935-perennial-order.json](./149935-perennial-order.json) |
 | Perestroika | 180293 | [180293-perestroika.json](./180293-perestroika.json) |
 | Perfect Ace 2: The Championships | 43247 | [43247-perfect-ace-2-the-championships.json](./43247-perfect-ace-2-the-championships.json) |
@@ -7182,6 +7184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Police Trainer | 39838 | [39838-police-trainer.json](./39838-police-trainer.json) |
 | Police Transporter Simulator | 220650 | [220650-police-transporter-simulator.json](./220650-police-transporter-simulator.json) |
 | Police Truck | 90805 | [90805-police-truck.json](./90805-police-truck.json) |
+| Police vs Thief: Violent Chasing | 326652 | [326652-police-vs-thief-violent-chasing.json](./326652-police-vs-thief-violent-chasing.json) |
 | Police vs. Gangster New York 3D | 267349 | [267349-police-vs-gangster-new-york-3d.json](./267349-police-vs-gangster-new-york-3d.json) |
 | Police X Heroine Lovepatrina! Love na Rhythm de Taiho Shimasu! | 152332 | [152332-police-x-heroine-lovepatrina-love-na-rhythm-de-taiho-shimasu.json](./152332-police-x-heroine-lovepatrina-love-na-rhythm-de-taiho-shimasu.json) |
 | Police: Chase Down | 82131 | [82131-police-chase-down.json](./82131-police-chase-down.json) |
@@ -7675,6 +7678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poppet Quest | 358933 | [358933-poppet-quest.json](./358933-poppet-quest.json) |
 | Poppi | 181301 | [181301-poppi.json](./181301-poppi.json) |
 | Poppie Land | 360133 | [360133-poppie-land.json](./360133-poppie-land.json) |
+| Poppin & Jupa: Pocket Adventure | 326853 | [326853-poppin-and-jupa-pocket-adventure.json](./326853-poppin-and-jupa-pocket-adventure.json) |
 | Poppin Bottles | 28099 | [28099-poppin-bottles.json](./28099-poppin-bottles.json) |
 | Poppin' Donuts | 157215 | [157215-poppin-donuts.json](./157215-poppin-donuts.json) |
 | Poppit! Bingo | 354991 | [354991-poppit-bingo.json](./354991-poppit-bingo.json) |
@@ -9380,6 +9384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project D | 305783 | [305783-project-d.json](./305783-project-d.json) |
 | Project D: Human Risen | 126632 | [126632-project-d-human-risen.json](./126632-project-d-human-risen.json) |
 | Project Dark | 244818 | [244818-project-dark.json](./244818-project-dark.json) |
+| Project Darkness | 326863 | [326863-project-darkness.json](./326863-project-darkness.json) |
 | Project Death Strikers | 211272 | [211272-project-death-strikers.json](./211272-project-death-strikers.json) |
 | Project DeepWeb | 120422 | [120422-project-deepweb.json](./120422-project-deepweb.json) |
 | Project DeepWeb: Eternal Nightmare | 366712 | [366712-project-deepweb-eternal-nightmare.json](./366712-project-deepweb-eternal-nightmare.json) |
