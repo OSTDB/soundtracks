@@ -582,6 +582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yore VR | 26140 | [26140-yore-vr.json](./26140-yore-vr.json) |
 | Yorg | 121719 | [121719-yorg.json](./121719-yorg.json) |
 | Yorg.io | 101699 | [101699-yorg-io.json](./101699-yorg-io.json) |
+| Yori's Journey: Forgotten Origins | 304767 | [304767-yoris-journey-forgotten-origins.json](./304767-yoris-journey-forgotten-origins.json) |
 | Yorigami Market | 269580 | [269580-yorigami-market.json](./269580-yorigami-market.json) |
 | Yorisoi Delivery | 308924 | [308924-yorisoi-delivery.json](./308924-yorisoi-delivery.json) |
 | Yorkshire's Great Race | 237962 | [237962-yorkshires-great-race.json](./237962-yorkshires-great-race.json) |
