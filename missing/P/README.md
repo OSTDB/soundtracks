@@ -3945,6 +3945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pig vs Box | 368287 | [368287-pig-vs-box.json](./368287-pig-vs-box.json) |
 | Pig vs. Box | 366219 | [366219-pig-vs-box.json](./366219-pig-vs-box.json) |
 | Pigbert | 361766 | [361766-pigbert.json](./361766-pigbert.json) |
+| Pigbook | 278936 | [278936-pigbook.json](./278936-pigbook.json) |
 | Pigebomb | 307228 | [307228-pigebomb.json](./307228-pigebomb.json) |
 | Pigeon | 311457 | [311457-pigeon.json](./311457-pigeon.json) |
 | Pigeon Coo-lette | 362394 | [362394-pigeon-coo-lette.json](./362394-pigeon-coo-lette.json) |
@@ -9796,6 +9797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project MSfiX'D | 202415 | [202415-project-msfixd.json](./202415-project-msfixd.json) |
 | Project MSX | 133858 | [133858-project-msx.json](./133858-project-msx.json) |
 | Project MT | 363567 | [363567-project-mt.json](./363567-project-mt.json) |
+| Project MW | 278929 | [278929-project-mw.json](./278929-project-mw.json) |
 | Project N.E.X.T | 278534 | [278534-project-n-e-x-t.json](./278534-project-n-e-x-t.json) |
 | Project Nasu | 270954 | [270954-project-nasu.json](./270954-project-nasu.json) |
 | Project Nautilus | 199399 | [199399-project-nautilus.json](./199399-project-nautilus.json) |
