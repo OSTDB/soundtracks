@@ -2122,6 +2122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | End the Endless | 338716 | [338716-end-the-endless.json](./338716-end-the-endless.json) |
 | End Them, Soldier! | 347690 | [347690-end-them-soldier.json](./347690-end-them-soldier.json) |
 | End War RTS 2 | 160234 | [160234-end-war-rts-2.json](./160234-end-war-rts-2.json) |
+| End's beginning | 310715 | [310715-ends-beginning.json](./310715-ends-beginning.json) |
 | Endangered | 32077 | [32077-endangered.json](./32077-endangered.json) |
 | Endangered Proposition | 119599 | [119599-endangered-proposition.json](./119599-endangered-proposition.json) |
 | Endarchy | 327340 | [327340-endarchy.json](./327340-endarchy.json) |
