@@ -3536,6 +3536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Windy Mystletainn | 284344 | [284344-windy-mystletainn.json](./284344-windy-mystletainn.json) |
 | Windy Waltz | 248682 | [248682-windy-waltz.json](./248682-windy-waltz.json) |
 | Windy x Windam | 94899 | [94899-windy-x-windam.json](./94899-windy-x-windam.json) |
+| Wine Factory Simulator | 332485 | [332485-wine-factory-simulator.json](./332485-wine-factory-simulator.json) |
 | Wine Tycoon | 201074 | [201074-wine-tycoon.json](./201074-wine-tycoon.json) |
 | Winery Simulator | 216836 | [216836-winery-simulator.json](./216836-winery-simulator.json) |
 | WinFish 3 - Fly Fishing | 129767 | [129767-winfish-3-fly-fishing.json](./129767-winfish-3-fly-fishing.json) |
