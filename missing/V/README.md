@@ -1050,6 +1050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vesper's Hunt | 366979 | [366979-vespers-hunt.json](./366979-vespers-hunt.json) |
 | Vespera | 408878 | [408878-vespera.json](./408878-vespera.json) |
 | Vespera_Hotel | 296105 | [296105-vespera-hotel.json](./296105-vespera-hotel.json) |
+| Vesperal Times | 318110 | [318110-vesperal-times.json](./318110-vesperal-times.json) |
 | Vesperia Bononia | 332268 | [332268-vesperia-bononia.json](./332268-vesperia-bononia.json) |
 | Vesperis | 391754 | [391754-vesperis.json](./391754-vesperis.json) |
 | Vespia: Shield of Aberration | 333119 | [333119-vespia-shield-of-aberration.json](./333119-vespia-shield-of-aberration.json) |
