@@ -5065,6 +5065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bird Bump | 338240 | [338240-bird-bump.json](./338240-bird-bump.json) |
 | Bird Coloring | 348303 | [348303-bird-coloring.json](./348303-bird-coloring.json) |
 | Bird Fall | 37150 | [37150-bird-fall.json](./37150-bird-fall.json) |
+| Bird Feather: Aquamarine World | 297917 | [297917-bird-feather-aquamarine-world.json](./297917-bird-feather-aquamarine-world.json) |
 | Bird Game | 349937 | [349937-bird-game.json](./349937-bird-game.json) |
 | Bird Game | 394488 | [394488-bird-game.json](./394488-bird-game.json) |
 | Bird Game + | 117932 | [117932-bird-game.json](./117932-bird-game.json) |
@@ -5222,6 +5223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bishoujo Wrestler Retsuden: Blizzard Yuki Rannyuu!! | 38275 | [38275-bishoujo-wrestler-retsuden-blizzard-yuki-rannyuu.json](./38275-bishoujo-wrestler-retsuden-blizzard-yuki-rannyuu.json) |
 | Bismarck: Death of a Battleship | 15674 | [15674-bismarck-death-of-a-battleship.json](./15674-bismarck-death-of-a-battleship.json) |
 | Bismarck: The North Sea Chase | 14308 | [14308-bismarck-the-north-sea-chase.json](./14308-bismarck-the-north-sea-chase.json) |
+| Bison Battle Machine | 297906 | [297906-bison-battle-machine.json](./297906-bison-battle-machine.json) |
 | Bist du zu schwach oder Stark | 156568 | [156568-bist-du-zu-schwach-oder-stark.json](./156568-bist-du-zu-schwach-oder-stark.json) |
 | Bistro Blitz | 278709 | [278709-bistro-blitz.json](./278709-bistro-blitz.json) |
 | Bistro Days | 139481 | [139481-bistro-days.json](./139481-bistro-days.json) |
@@ -6901,6 +6903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloody Downsizing | 224665 | [224665-bloody-downsizing.json](./224665-bloody-downsizing.json) |
 | Bloody Ending | 129672 | [129672-bloody-ending.json](./129672-bloody-ending.json) |
 | Bloody Faerie | 89948 | [89948-bloody-faerie.json](./89948-bloody-faerie.json) |
+| Bloody Feet | 297874 | [297874-bloody-feet.json](./297874-bloody-feet.json) |
 | Bloody Fun Day | 386991 | [386991-bloody-fun-day.json](./386991-bloody-fun-day.json) |
 | Bloody Good Friends | 284018 | [284018-bloody-good-friends.json](./284018-bloody-good-friends.json) |
 | Bloody Good Times | 52475 | [52475-bloody-good-times.json](./52475-bloody-good-times.json) |
