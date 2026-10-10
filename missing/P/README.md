@@ -3595,6 +3595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Picaro | 361315 | [361315-picaro.json](./361315-picaro.json) |
 | PicaSim - Flight Simulator | 108517 | [108517-picasim-flight-simulator.json](./108517-picasim-flight-simulator.json) |
 | Picassio | 309584 | [309584-picassio.json](./309584-picassio.json) |
+| Picayune Dreams: Contamination | 332481 | [332481-picayune-dreams-contamination.json](./332481-picayune-dreams-contamination.json) |
 | Picbox | 93505 | [93505-picbox.json](./93505-picbox.json) |
 | Piccadilly's Puzzle Museum | 126015 | [126015-piccadillys-puzzle-museum.json](./126015-piccadillys-puzzle-museum.json) |
 | Piccross Adventure House | 102819 | [102819-piccross-adventure-house.json](./102819-piccross-adventure-house.json) |
@@ -8193,6 +8194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Tower | 113671 | [113671-power-tower.json](./113671-power-tower.json) |
 | Power Up | 94571 | [94571-power-up.json](./94571-power-up.json) |
 | Power Ups that Kill! | 51165 | [51165-power-ups-that-kill.json](./51165-power-ups-that-kill.json) |
+| Power Volleyball | 332477 | [332477-power-volleyball.json](./332477-power-volleyball.json) |
 | Power, Corruption & Lies | 57646 | [57646-power-corruption-and-lies.json](./57646-power-corruption-and-lies.json) |
 | Power: The Game | 122275 | [122275-power-the-game.json](./122275-power-the-game.json) |
 | Power's Out | 142150 | [142150-powers-out.json](./142150-powers-out.json) |
