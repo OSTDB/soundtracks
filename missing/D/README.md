@@ -6593,6 +6593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Divine Miko Koyori | 122451 | [122451-divine-miko-koyori.json](./122451-divine-miko-koyori.json) |
 | Divine Orders | 333108 | [333108-divine-orders.json](./333108-divine-orders.json) |
 | Divine Right | 175240 | [175240-divine-right.json](./175240-divine-right.json) |
+| Divine Rush | 295638 | [295638-divine-rush.json](./295638-divine-rush.json) |
 | Divine Sin | 373151 | [373151-divine-sin.json](./373151-divine-sin.json) |
 | Divine Souls | 36303 | [36303-divine-souls.json](./36303-divine-souls.json) |
 | Divine Souls Online | 51264 | [51264-divine-souls-online.json](./51264-divine-souls-online.json) |
@@ -9722,6 +9723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamer's Web | 181760 | [181760-dreamers-web.json](./181760-dreamers-web.json) |
 | Dreamers Disease | 291453 | [291453-dreamers-disease.json](./291453-dreamers-disease.json) |
 | Dreamers: A Nostalgic Adventure | 274441 | [274441-dreamers-a-nostalgic-adventure.json](./274441-dreamers-a-nostalgic-adventure.json) |
+| Dreamers: Digital Deluxe Edition | 295646 | [295646-dreamers-digital-deluxe-edition.json](./295646-dreamers-digital-deluxe-edition.json) |
 | Dreamescape | 180063 | [180063-dreamescape.json](./180063-dreamescape.json) |
 | DreamEscape | 328960 | [328960-dreamescape.json](./328960-dreamescape.json) |
 | Dreamfall: The Longest Journey | 1961 | [1961-dreamfall-the-longest-journey.json](./1961-dreamfall-the-longest-journey.json) |
