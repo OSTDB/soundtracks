@@ -2199,6 +2199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | US Long Trucks : Road Simulator | 46495 | [46495-us-long-trucks-road-simulator.json](./46495-us-long-trucks-road-simulator.json) |
 | US Police ATV Quad Bike Plane Transport Game | 100964 | [100964-us-police-atv-quad-bike-plane-transport-game.json](./100964-us-police-atv-quad-bike-plane-transport-game.json) |
 | US Presidents Quiz Tutor | 90841 | [90841-us-presidents-quiz-tutor.json](./90841-us-presidents-quiz-tutor.json) |
+| US School Simulator Game | 296766 | [296766-us-school-simulator-game.json](./296766-us-school-simulator-game.json) |
 | US Spy: Mission in Russia | 129260 | [129260-us-spy-mission-in-russia.json](./129260-us-spy-mission-in-russia.json) |
 | Us vs. Them | 232014 | [232014-us-vs-them.json](./232014-us-vs-them.json) |
 | Us vs. Them | 25631 | [25631-us-vs-them.json](./25631-us-vs-them.json) |
