@@ -897,6 +897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keep It Running | 283747 | [283747-keep-it-running.json](./283747-keep-it-running.json) |
 | Keep It Running: Together | 330692 | [330692-keep-it-running-together.json](./330692-keep-it-running-together.json) |
 | Keep It Steady! | 295893 | [295893-keep-it-steady.json](./295893-keep-it-steady.json) |
+| Keep it Up | 312824 | [312824-keep-it-up.json](./312824-keep-it-up.json) |
 | Keep Keepers | 272363 | [272363-keep-keepers.json](./272363-keep-keepers.json) |
 | Keep Killing | 257889 | [257889-keep-killing.json](./257889-keep-killing.json) |
 | Keep looking | 158185 | [158185-keep-looking.json](./158185-keep-looking.json) |
