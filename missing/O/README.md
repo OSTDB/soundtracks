@@ -309,6 +309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ocon | 329061 | [329061-ocon.json](./329061-ocon.json) |
 | Ocopoco | 175397 | [175397-ocopoco.json](./175397-ocopoco.json) |
 | Ocraft | 256236 | [256236-ocraft.json](./256236-ocraft.json) |
+| OCRPG | 291909 | [291909-ocrpg.json](./291909-ocrpg.json) |
 | Oct 14 | 341498 | [341498-oct-14.json](./341498-oct-14.json) |
 | Octagon | 356063 | [356063-octagon.json](./356063-octagon.json) |
 | Octagon - A Minimal Arcade Game with Maximum Challenge | 91180 | [91180-octagon-a-minimal-arcade-game-with-maximum-challenge.json](./91180-octagon-a-minimal-arcade-game-with-maximum-challenge.json) |
@@ -1496,6 +1497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One More Brick | 87170 | [87170-one-more-brick.json](./87170-one-more-brick.json) |
 | One More Core | 399868 | [399868-one-more-core.json](./399868-one-more-core.json) |
 | One More Dash | 260105 | [260105-one-more-dash.json](./260105-one-more-dash.json) |
+| One More Day | 291885 | [291885-one-more-day.json](./291885-one-more-day.json) |
 | One More Dig! | 405576 | [405576-one-more-dig.json](./405576-one-more-dig.json) |
 | One More Dream | 216981 | [216981-one-more-dream.json](./216981-one-more-dream.json) |
 | One More Dungeon 2 | 157115 | [157115-one-more-dungeon-2.json](./157115-one-more-dungeon-2.json) |
