@@ -5370,6 +5370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gretel: The Lost Tale | 323501 | [323501-gretel-the-lost-tale.json](./323501-gretel-the-lost-tale.json) |
 | Gretel's Honesty | 330894 | [330894-gretels-honesty.json](./330894-gretels-honesty.json) |
 | Gretzky NHL 2005 | 24162 | [24162-gretzky-nhl-2005.json](./24162-gretzky-nhl-2005.json) |
+| Grex | 331371 | [331371-grex.json](./331371-grex.json) |
 | Grexovka Village | 386411 | [386411-grexovka-village.json](./386411-grexovka-village.json) |
 | Grey Area | 240765 | [240765-grey-area.json](./240765-grey-area.json) |
 | Grey Block | 190454 | [190454-grey-block.json](./190454-grey-block.json) |
@@ -6443,6 +6444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gundam Heroes | 98560 | [98560-gundam-heroes.json](./98560-gundam-heroes.json) |
 | Gundam Memories: Tatakai no Kioku | 80467 | [80467-gundam-memories-tatakai-no-kioku.json](./80467-gundam-memories-tatakai-no-kioku.json) |
 | Gundam Musou Special | 43450 | [43450-gundam-musou-special.json](./43450-gundam-musou-special.json) |
+| Gundam Nova | 331365 | [331365-gundam-nova.json](./331365-gundam-nova.json) |
 | Gundam Online Wars | 79279 | [79279-gundam-online-wars.json](./79279-gundam-online-wars.json) |
 | Gundam Robot | 47534 | [47534-gundam-robot.json](./47534-gundam-robot.json) |
 | Gundam Side Story 0079: Rise From the Ashes | 45859 | [45859-gundam-side-story-0079-rise-from-the-ashes.json](./45859-gundam-side-story-0079-rise-from-the-ashes.json) |
