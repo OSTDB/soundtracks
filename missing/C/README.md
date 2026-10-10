@@ -3774,6 +3774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Checkers Royale | 96309 | [96309-checkers-royale.json](./96309-checkers-royale.json) |
 | Checkers RPG: Online Battles | 261829 | [261829-checkers-rpg-online-battles.json](./261829-checkers-rpg-online-battles.json) |
 | Checkers Saga | 58275 | [58275-checkers-saga.json](./58275-checkers-saga.json) |
+| Checkers Twist | 284815 | [284815-checkers-twist.json](./284815-checkers-twist.json) |
 | Checkers World | 88663 | [88663-checkers-world.json](./88663-checkers-world.json) |
 | Checkers: Playdate | 315767 | [315767-checkers-playdate.json](./315767-checkers-playdate.json) |
 | Checkers' Birthday Party | 381936 | [381936-checkers-birthday-party.json](./381936-checkers-birthday-party.json) |
@@ -3787,6 +3788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Checkmate! My Shogi Club President can't be this Cute! | 253997 | [253997-checkmate-my-shogi-club-president-cant-be-this-cute.json](./253997-checkmate-my-shogi-club-president-cant-be-this-cute.json) |
 | Checkmates | 57371 | [57371-checkmates.json](./57371-checkmates.json) |
 | CheckOut | 325579 | [325579-checkout.json](./325579-checkout.json) |
+| Checkout! | 284816 | [284816-checkout.json](./284816-checkout.json) |
 | Checkpoint Gary | 281371 | [281371-checkpoint-gary.json](./281371-checkpoint-gary.json) |
 | Checkpoint Madness HD | 338829 | [338829-checkpoint-madness-hd.json](./338829-checkpoint-madness-hd.json) |
 | Cheddly and Cloud's Crazy Adventure | 332222 | [332222-cheddly-and-clouds-crazy-adventure.json](./332222-cheddly-and-clouds-crazy-adventure.json) |
@@ -3864,6 +3866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chef's Tail | 144247 | [144247-chefs-tail.json](./144247-chefs-tail.json) |
 | Chefcito Asesino | 298694 | [298694-chefcito-asesino.json](./298694-chefcito-asesino.json) |
 | Chefrens Pyramid | 142454 | [142454-chefrens-pyramid.json](./142454-chefrens-pyramid.json) |
+| Chefs Together | 284817 | [284817-chefs-together.json](./284817-chefs-together.json) |
 | Chefware | 376535 | [376535-chefware.json](./376535-chefware.json) |
 | Chefy-Chef | 192671 | [192671-chefy-chef.json](./192671-chefy-chef.json) |
 | Cheggers' Party Quiz | 43216 | [43216-cheggers-party-quiz.json](./43216-cheggers-party-quiz.json) |
@@ -4055,6 +4058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chessie Chicken | 195611 | [195611-chessie-chicken.json](./195611-chessie-chicken.json) |
 | Chesskoban Bishop | 189106 | [189106-chesskoban-bishop.json](./189106-chesskoban-bishop.json) |
 | Chesskoban Cyber | 195144 | [195144-chesskoban-cyber.json](./195144-chesskoban-cyber.json) |
+| Chesslike | 284818 | [284818-chesslike.json](./284818-chesslike.json) |
 | ChessLocke | 144118 | [144118-chesslocke.json](./144118-chesslocke.json) |
 | Chessmaster | 23562 | [23562-chessmaster.json](./23562-chessmaster.json) |
 | Chessmaster | 23714 | [23714-chessmaster.json](./23714-chessmaster.json) |
@@ -6007,6 +6011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cleaner Boy | 331133 | [331133-cleaner-boy.json](./331133-cleaner-boy.json) |
 | Cleaner Company | 346684 | [346684-cleaner-company.json](./346684-cleaner-company.json) |
 | Cleaner Simulator 2026 | 391254 | [391254-cleaner-simulator-2026.json](./391254-cleaner-simulator-2026.json) |
+| CleanFall | 284819 | [284819-cleanfall.json](./284819-cleanfall.json) |
 | Cleaning Girls | 258174 | [258174-cleaning-girls.json](./258174-cleaning-girls.json) |
 | Cleaning house | 176350 | [176350-cleaning-house.json](./176350-cleaning-house.json) |
 | Cleaning Queens 2: Sparkling Palace | 293367 | [293367-cleaning-queens-2-sparkling-palace.json](./293367-cleaning-queens-2-sparkling-palace.json) |
@@ -6095,6 +6100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Click the Clown 2020 | 142437 | [142437-click-the-clown-2020.json](./142437-click-the-clown-2020.json) |
 | Click the Shape | 362476 | [362476-click-the-shape.json](./362476-click-the-shape.json) |
 | Click to 13 | 288334 | [288334-click-to-13.json](./288334-click-to-13.json) |
+| Click To Clear | 284821 | [284821-click-to-clear.json](./284821-click-to-clear.json) |
 | Click to Continue | 343847 | [343847-click-to-continue.json](./343847-click-to-continue.json) |
 | Click To Eleven | 298656 | [298656-click-to-eleven.json](./298656-click-to-eleven.json) |
 | Click to Obsolete | 413167 | [413167-click-to-obsolete.json](./413167-click-to-obsolete.json) |
@@ -6145,6 +6151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clicks Of Courage | 249717 | [249717-clicks-of-courage.json](./249717-clicks-of-courage.json) |
 | ClickShot | 381739 | [381739-clickshot.json](./381739-clickshot.json) |
 | ClickTown | 391315 | [391315-clicktown.json](./391315-clicktown.json) |
+| Clicky | 284822 | [284822-clicky.json](./284822-clicky.json) |
 | Clicky & Yo | 389962 | [389962-clicky-and-yo.json](./389962-clicky-and-yo.json) |
 | Clicky Coven | 317990 | [317990-clicky-coven.json](./317990-clicky-coven.json) |
 | Clicky Islands | 388729 | [388729-clicky-islands.json](./388729-clicky-islands.json) |
@@ -6170,6 +6177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Climb and Fall Dice Adventure | 242205 | [242205-climb-and-fall-dice-adventure.json](./242205-climb-and-fall-dice-adventure.json) |
 | Climb Challenge | 125385 | [125385-climb-challenge.json](./125385-climb-challenge.json) |
 | Climb Challenge: Castle | 213019 | [213019-climb-challenge-castle.json](./213019-climb-challenge-castle.json) |
+| Climb Challenge: Find Items Cyberpunk | 284823 | [284823-climb-challenge-find-items-cyberpunk.json](./284823-climb-challenge-find-items-cyberpunk.json) |
 | Climb Driver | 393058 | [393058-climb-driver.json](./393058-climb-driver.json) |
 | Climb Fling | 239636 | [239636-climb-fling.json](./239636-climb-fling.json) |
 | Climb It | 273910 | [273910-climb-it.json](./273910-climb-it.json) |
@@ -6186,6 +6194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Climber | 125338 | [125338-climber.json](./125338-climber.json) |
 | Climber | 195035 | [195035-climber.json](./195035-climber.json) |
 | Climber | 269843 | [269843-climber.json](./269843-climber.json) |
+| Climber Animals: Together | 284824 | [284824-climber-animals-together.json](./284824-climber-animals-together.json) |
 | Climber Girl | 350635 | [350635-climber-girl.json](./350635-climber-girl.json) |
 | Climber Toys: Together | 399269 | [399269-climber-toys-together.json](./399269-climber-toys-together.json) |
 | Climber: Sky is the Limit | 129701 | [129701-climber-sky-is-the-limit.json](./129701-climber-sky-is-the-limit.json) |
@@ -6236,6 +6245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clock Tower Madness | 386273 | [386273-clock-tower-madness.json](./386273-clock-tower-madness.json) |
 | Clock Tower: Rewind | 256465 | [256465-clock-tower-rewind.json](./256465-clock-tower-rewind.json) |
 | Clock World | 398579 | [398579-clock-world.json](./398579-clock-world.json) |
+| Clocked | 284827 | [284827-clocked.json](./284827-clocked.json) |
 | Clockfall | 391888 | [391888-clockfall.json](./391888-clockfall.json) |
 | Clocks | 41369 | [41369-clocks.json](./41369-clocks.json) |
 | Clockwatch | 315694 | [315694-clockwatch.json](./315694-clockwatch.json) |
@@ -6393,6 +6403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cloudy & Stormy: Pawtastic Adventure | 333911 | [333911-cloudy-and-stormy-pawtastic-adventure.json](./333911-cloudy-and-stormy-pawtastic-adventure.json) |
 | Cloudy Day | 361267 | [361267-cloudy-day.json](./361267-cloudy-day.json) |
 | Cloudy Days | 236949 | [236949-cloudy-days.json](./236949-cloudy-days.json) |
+| Cloudy Valley | 284826 | [284826-cloudy-valley.json](./284826-cloudy-valley.json) |
 | Cloudy with a Chance of Kittens | 345140 | [345140-cloudy-with-a-chance-of-kittens.json](./345140-cloudy-with-a-chance-of-kittens.json) |
 | Cloudy with a Chance of Meatballs | 4767 | [4767-cloudy-with-a-chance-of-meatballs.json](./4767-cloudy-with-a-chance-of-meatballs.json) |
 | Clout | 105528 | [105528-clout.json](./105528-clout.json) |
@@ -6492,6 +6503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clueless: The CD-ROM | 69852 | [69852-clueless-the-cd-rom.json](./69852-clueless-the-cd-rom.json) |
 | Clues By Sam | 352878 | [352878-clues-by-sam.json](./352878-clues-by-sam.json) |
 | Cluju | 386327 | [386327-cluju.json](./386327-cluju.json) |
+| Clumsy Cannon | 284825 | [284825-clumsy-cannon.json](./284825-clumsy-cannon.json) |
 | Clumsy Cat | 259242 | [259242-clumsy-cat.json](./259242-clumsy-cat.json) |
 | Clumsy Climber | 105782 | [105782-clumsy-climber.json](./105782-clumsy-climber.json) |
 | Clumsy Fighting | 104613 | [104613-clumsy-fighting.json](./104613-clumsy-fighting.json) |
@@ -6654,6 +6666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Code 9 | 55681 | [55681-code-9.json](./55681-code-9.json) |
 | Code Adventure | 179182 | [179182-code-adventure.json](./179182-code-adventure.json) |
 | Code Adventures | 108271 | [108271-code-adventures.json](./108271-code-adventures.json) |
+| Code Alpha: The Final Frontier | 284828 | [284828-code-alpha-the-final-frontier.json](./284828-code-alpha-the-final-frontier.json) |
 | Code angel | 153943 | [153943-code-angel.json](./153943-code-angel.json) |
 | Code Blue | 401137 | [401137-code-blue.json](./401137-code-blue.json) |
 | Code Breaker | 380076 | [380076-code-breaker.json](./380076-code-breaker.json) |
