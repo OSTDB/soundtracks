@@ -23,6 +23,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | T-Rex Time Machine | 76919 | [76919-t-rex-time-machine.json](./76919-t-rex-time-machine.json) |
 | T-Shirt Kingdom | 414837 | [414837-t-shirt-kingdom.json](./414837-t-shirt-kingdom.json) |
 | T-Zer0 | 69588 | [69588-t-zer0.json](./69588-t-zer0.json) |
+| T:ME Salvo | 308987 | [308987-t-me-salvo.json](./308987-t-me-salvo.json) |
 | T. N. T. Bomb Bomb | 92142 | [92142-t-n-t-bomb-bomb.json](./92142-t-n-t-bomb-bomb.json) |
 | T.A.P. | 114329 | [114329-t-a-p.json](./114329-t-a-p.json) |
 | T.B.M: The Blueppers Mayhem | 362385 | [362385-t-b-m-the-blueppers-mayhem.json](./362385-t-b-m-the-blueppers-mayhem.json) |
@@ -7455,6 +7456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Monsters | 132735 | [132735-the-last-monsters.json](./132735-the-last-monsters.json) |
 | The Last Mothership | 390765 | [390765-the-last-mothership.json](./390765-the-last-mothership.json) |
 | The Last Night | 18285 | [18285-the-last-night.json](./18285-the-last-night.json) |
+| The Last Ninja | 308996 | [308996-the-last-ninja.json](./308996-the-last-ninja.json) |
 | The Last Ninja | 8400 | [8400-the-last-ninja.json](./8400-the-last-ninja.json) |
 | The Last Ninja Collection + Bonus Games | 362742 | [362742-the-last-ninja-collection-bonus-games.json](./362742-the-last-ninja-collection-bonus-games.json) |
 | The Last Ninja Twins | 370282 | [370282-the-last-ninja-twins.json](./370282-the-last-ninja-twins.json) |
@@ -12273,6 +12275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thief Simulator | 61616 | [61616-thief-simulator.json](./61616-thief-simulator.json) |
 | Thief Simulator VR | 114932 | [114932-thief-simulator-vr.json](./114932-thief-simulator-vr.json) |
 | Thief Simulator VR: Greenview Street | 208840 | [208840-thief-simulator-vr-greenview-street.json](./208840-thief-simulator-vr-greenview-street.json) |
+| Thief Simulator: Heist Master | 308992 | [308992-thief-simulator-heist-master.json](./308992-thief-simulator-heist-master.json) |
 | Thief Simulator: Luxury Houses | 193192 | [193192-thief-simulator-luxury-houses.json](./193192-thief-simulator-luxury-houses.json) |
 | Thief Simulator: Mastermind Edition | 362344 | [362344-thief-simulator-mastermind-edition.json](./362344-thief-simulator-mastermind-edition.json) |
 | Thief VR: Legacy of Shadow | 347124 | [347124-thief-vr-legacy-of-shadow.json](./347124-thief-vr-legacy-of-shadow.json) |
