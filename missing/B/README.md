@@ -2332,6 +2332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Kart 64 | 248308 | [248308-battle-kart-64.json](./248308-battle-kart-64.json) |
 | Battle Kid: Fortress of Peril | 11145 | [11145-battle-kid-fortress-of-peril.json](./11145-battle-kid-fortress-of-peril.json) |
 | Battle Kingdom | 419147 | [419147-battle-kingdom.json](./419147-battle-kingdom.json) |
+| Battle Kitty | 322249 | [322249-battle-kitty.json](./322249-battle-kitty.json) |
 | Battle Leet | 265727 | [265727-battle-leet.json](./265727-battle-leet.json) |
 | Battle Legends | 144805 | [144805-battle-legends.json](./144805-battle-legends.json) |
 | Battle Legends Arena | 196573 | [196573-battle-legends-arena.json](./196573-battle-legends-arena.json) |
@@ -3028,6 +3029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bean Wizard Eviscerates the Gonklins | 406252 | [406252-bean-wizard-eviscerates-the-gonklins.json](./406252-bean-wizard-eviscerates-the-gonklins.json) |
 | Bean's Quest 2: Bean Dreams | 26919 | [26919-beans-quest-2-bean-dreams.json](./26919-beans-quest-2-bean-dreams.json) |
 | Beanotown Racing | 57608 | [57608-beanotown-racing.json](./57608-beanotown-racing.json) |
+| Beanrise | 322273 | [322273-beanrise.json](./322273-beanrise.json) |
 | Beans Dash | 256255 | [256255-beans-dash.json](./256255-beans-dash.json) |
 | BeanShooter | 256359 | [256359-beanshooter.json](./256359-beanshooter.json) |
 | Beany Bopper | 11138 | [11138-beany-bopper.json](./11138-beany-bopper.json) |
@@ -10004,6 +10006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buddy Shell | 328071 | [328071-buddy-shell.json](./328071-buddy-shell.json) |
 | Buddy Shell 2 | 328070 | [328070-buddy-shell-2.json](./328070-buddy-shell-2.json) |
 | Buddy Simulator 1984 | 132333 | [132333-buddy-simulator-1984.json](./132333-buddy-simulator-1984.json) |
+| Buddy Thunderstruck: The Maybe Pile | 322248 | [322248-buddy-thunderstruck-the-maybe-pile.json](./322248-buddy-thunderstruck-the-maybe-pile.json) |
 | Buddy Toss | 106736 | [106736-buddy-toss.json](./106736-buddy-toss.json) |
 | Buddy, No! | 234191 | [234191-buddy-no.json](./234191-buddy-no.json) |
 | Buddy's Creative Quest! | 157983 | [157983-buddys-creative-quest.json](./157983-buddys-creative-quest.json) |
