@@ -3037,6 +3037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Who's Your Weapon | 181664 | [181664-whos-your-weapon.json](./181664-whos-your-weapon.json) |
 | Whodunchat | 418675 | [418675-whodunchat.json](./418675-whodunchat.json) |
 | Whodunnit | 387577 | [387577-whodunnit.json](./387577-whodunnit.json) |
+| Whole New Ball Game | 304313 | [304313-whole-new-ball-game.json](./304313-whole-new-ball-game.json) |
 | Whole Note | 322037 | [322037-whole-note.json](./322037-whole-note.json) |
 | Wholesome Cats | 133322 | [133322-wholesome-cats.json](./133322-wholesome-cats.json) |
 | Wholesome Slaughter | 143014 | [143014-wholesome-slaughter.json](./143014-wholesome-slaughter.json) |
