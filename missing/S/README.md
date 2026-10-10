@@ -424,6 +424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saimin Reiki | 59036 | [59036-saimin-reiki.json](./59036-saimin-reiki.json) |
 | Saimin School Days: Hypnotic School Days | 239000 | [239000-saimin-school-days-hypnotic-school-days.json](./239000-saimin-school-days-hypnotic-school-days.json) |
 | Saint | 94739 | [94739-saint.json](./94739-saint.json) |
+| Saint & Sinner | 332478 | [332478-saint-and-sinner.json](./332478-saint-and-sinner.json) |
 | Saint Dragon | 12207 | [12207-saint-dragon.json](./12207-saint-dragon.json) |
 | Saint Emiliana | 132743 | [132743-saint-emiliana.json](./132743-saint-emiliana.json) |
 | Saint Estella Gakuin no Shichi-nin no Majo | 77937 | [77937-saint-estella-gakuin-no-shichi-nin-no-majo.json](./77937-saint-estella-gakuin-no-shichi-nin-no-majo.json) |
@@ -2225,6 +2226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Screamer Rally | 7142 | [7142-screamer-rally.json](./7142-screamer-rally.json) |
 | Screaming Abdabs | 137425 | [137425-screaming-abdabs.json](./137425-screaming-abdabs.json) |
 | Screaming Eagles | 54511 | [54511-screaming-eagles.json](./54511-screaming-eagles.json) |
+| Screaming Head | 332464 | [332464-screaming-head.json](./332464-screaming-head.json) |
 | Screaming in the Basement | 329180 | [329180-screaming-in-the-basement.json](./329180-screaming-in-the-basement.json) |
 | Screaming Savage Blood Death | 311100 | [311100-screaming-savage-blood-death.json](./311100-screaming-savage-blood-death.json) |
 | Screaming Skies | 201070 | [201070-screaming-skies.json](./201070-screaming-skies.json) |
@@ -4257,6 +4259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadows 2: Perfidia | 29178 | [29178-shadows-2-perfidia.json](./29178-shadows-2-perfidia.json) |
 | Shadows Behind the Throne 2 | 158178 | [158178-shadows-behind-the-throne-2.json](./158178-shadows-behind-the-throne-2.json) |
 | Shadows Beneath the Badge: An Undercover Affair | 337705 | [337705-shadows-beneath-the-badge-an-undercover-affair.json](./337705-shadows-beneath-the-badge-an-undercover-affair.json) |
+| Shadows Bounce Once | 332484 | [332484-shadows-bounce-once.json](./332484-shadows-bounce-once.json) |
 | Shadows Fall | 332547 | [332547-shadows-fall.json](./332547-shadows-fall.json) |
 | Shadows in Silence | 285574 | [285574-shadows-in-silence.json](./285574-shadows-in-silence.json) |
 | Shadows in the City | 302480 | [302480-shadows-in-the-city.json](./302480-shadows-in-the-city.json) |
@@ -9489,6 +9492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | So Much Stuff 2 | 245814 | [245814-so-much-stuff-2.json](./245814-so-much-stuff-2.json) |
 | So Much Stuff 2: Collector's Edition | 290425 | [290425-so-much-stuff-2-collectors-edition.json](./290425-so-much-stuff-2-collectors-edition.json) |
 | So Much Stuff 3: Odds & Ends | 257896 | [257896-so-much-stuff-3-odds-and-ends.json](./257896-so-much-stuff-3-odds-and-ends.json) |
+| So Much Stuff 4: Bits and Bobs - Collector's Edition | 332486 | [332486-so-much-stuff-4-bits-and-bobs-collectors-edition.json](./332486-so-much-stuff-4-bits-and-bobs-collectors-edition.json) |
 | So Much Stuff 5: Mix-Knacks | 336631 | [336631-so-much-stuff-5-mix-knacks.json](./336631-so-much-stuff-5-mix-knacks.json) |
 | So Much Stuff 5: Mix-Knacks - Collector's Edition | 335511 | [335511-so-much-stuff-5-mix-knacks-collectors-edition.json](./335511-so-much-stuff-5-mix-knacks-collectors-edition.json) |
 | So Much Stuff: Collector's Edition | 251596 | [251596-so-much-stuff-collectors-edition.json](./251596-so-much-stuff-collectors-edition.json) |
@@ -10567,6 +10571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic In The Timeline Of Madness | 266512 | [266512-sonic-in-the-timeline-of-madness.json](./266512-sonic-in-the-timeline-of-madness.json) |
 | Sonic In VaporWave Island | 237293 | [237293-sonic-in-vaporwave-island.json](./237293-sonic-in-vaporwave-island.json) |
 | Sonic Incursion | 326998 | [326998-sonic-incursion.json](./326998-sonic-incursion.json) |
+| Sonic Inferno | 332457 | [332457-sonic-inferno.json](./332457-sonic-inferno.json) |
 | Sonic Infinity | 317347 | [317347-sonic-infinity.json](./317347-sonic-infinity.json) |
 | Sonic Infinity Engine: Crisis City | 326153 | [326153-sonic-infinity-engine-crisis-city.json](./326153-sonic-infinity-engine-crisis-city.json) |
 | Sonic Inflation 2: Battle | 140539 | [140539-sonic-inflation-2-battle.json](./140539-sonic-inflation-2-battle.json) |
@@ -10581,6 +10586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Jump 2 | 133941 | [133941-sonic-jump-2.json](./133941-sonic-jump-2.json) |
 | Sonic Kart 3DX | 261278 | [261278-sonic-kart-3dx.json](./261278-sonic-kart-3dx.json) |
 | Sonic Ki | 326148 | [326148-sonic-ki.json](./326148-sonic-ki.json) |
+| Sonic Labyrinth | 332465 | [332465-sonic-labyrinth.json](./332465-sonic-labyrinth.json) |
 | Sonic Labyrinth | 387060 | [387060-sonic-labyrinth.json](./387060-sonic-labyrinth.json) |
 | Sonic Legacy | 314502 | [314502-sonic-legacy.json](./314502-sonic-legacy.json) |
 | Sonic Legends | 301520 | [301520-sonic-legends.json](./301520-sonic-legends.json) |
@@ -13945,6 +13951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spy Guy Animals Junior | 308495 | [308495-spy-guy-animals-junior.json](./308495-spy-guy-animals-junior.json) |
 | Spy Guy Animals Junior: Untypical Animals | 387685 | [387685-spy-guy-animals-junior-untypical-animals.json](./387685-spy-guy-animals-junior-untypical-animals.json) |
 | Spy Guy Christmas | 381803 | [381803-spy-guy-christmas.json](./381803-spy-guy-christmas.json) |
+| Spy Guy Cosmos | 332499 | [332499-spy-guy-cosmos.json](./332499-spy-guy-cosmos.json) |
 | Spy Guy Cosmos: Cosmos Edition | 333725 | [333725-spy-guy-cosmos-cosmos-edition.json](./333725-spy-guy-cosmos-cosmos-edition.json) |
 | Spy Guy Europe | 395211 | [395211-spy-guy-europe.json](./395211-spy-guy-europe.json) |
 | Spy Guy Hidden Objects Poland | 400194 | [400194-spy-guy-hidden-objects-poland.json](./400194-spy-guy-hidden-objects-poland.json) |
@@ -17095,6 +17102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Fighter V: SFL2020 NASR Costumes Bundle | 332657 | [332657-street-fighter-v-sfl2020-nasr-costumes-bundle.json](./332657-street-fighter-v-sfl2020-nasr-costumes-bundle.json) |
 | Street Fighter V: SFL2020 UYU Costumes Bundle | 332656 | [332656-street-fighter-v-sfl2020-uyu-costumes-bundle.json](./332656-street-fighter-v-sfl2020-uyu-costumes-bundle.json) |
 | Street Fighter V: Story Costume Pack Season 1-3 | 342577 | [342577-street-fighter-v-story-costume-pack-season-1-3.json](./342577-street-fighter-v-story-costume-pack-season-1-3.json) |
+| Street Fighter V: Zeku | 332476 | [332476-street-fighter-v-zeku.json](./332476-street-fighter-v-zeku.json) |
 | Street Fighter VI 12 Peoples | 263664 | [263664-street-fighter-vi-12-peoples.json](./263664-street-fighter-vi-12-peoples.json) |
 | Street Fighter x All Capcom | 55064 | [55064-street-fighter-x-all-capcom.json](./55064-street-fighter-x-all-capcom.json) |
 | Street Fighter X All Capcom | 80847 | [80847-street-fighter-x-all-capcom.json](./80847-street-fighter-x-all-capcom.json) |
@@ -20739,6 +20747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survival & Horror: Mortanis Prisoners Prologue | 253422 | [253422-survival-and-horror-mortanis-prisoners-prologue.json](./253422-survival-and-horror-mortanis-prisoners-prologue.json) |
 | Survival & Horror: The Damned City | 244750 | [244750-survival-and-horror-the-damned-city.json](./244750-survival-and-horror-the-damned-city.json) |
 | Survival Academy | 223379 | [223379-survival-academy.json](./223379-survival-academy.json) |
+| Survival Adventures Collection | 332487 | [332487-survival-adventures-collection.json](./332487-survival-adventures-collection.json) |
 | Survival After War | 319773 | [319773-survival-after-war.json](./319773-survival-after-war.json) |
 | Survival Arena | 76568 | [76568-survival-arena.json](./76568-survival-arena.json) |
 | Survival Arts | 39586 | [39586-survival-arts.json](./39586-survival-arts.json) |
