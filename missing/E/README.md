@@ -1157,6 +1157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elaborate Lands | 188584 | [188584-elaborate-lands.json](./188584-elaborate-lands.json) |
 | Elan Plus | 166161 | [166161-elan-plus.json](./166161-elan-plus.json) |
 | Elana Champion of Lust | 198549 | [198549-elana-champion-of-lust.json](./198549-elana-champion-of-lust.json) |
+| Elara's Light | 318127 | [318127-elaras-light.json](./318127-elaras-light.json) |
 | Elarel | 83922 | [83922-elarel.json](./83922-elarel.json) |
 | Elarienne | 348777 | [348777-elarienne.json](./348777-elarienne.json) |
 | Elarooh | 61086 | [61086-elarooh.json](./61086-elarooh.json) |
@@ -4251,6 +4252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evil Twin | 352319 | [352319-evil-twin.json](./352319-evil-twin.json) |
 | Evil Twin: Cyprien's Chronicles | 18332 | [18332-evil-twin-cypriens-chronicles.json](./18332-evil-twin-cypriens-chronicles.json) |
 | Evil Unleashed | 269118 | [269118-evil-unleashed.json](./269118-evil-unleashed.json) |
+| Evil Vents | 318112 | [318112-evil-vents.json](./318112-evil-vents.json) |
 | Evil Water Ep1 | 339380 | [339380-evil-water-ep1.json](./339380-evil-water-ep1.json) |
 | Evil West: Signature Edition | 223534 | [223534-evil-west-signature-edition.json](./223534-evil-west-signature-edition.json) |
 | Evil World Hopsca | 336001 | [336001-evil-world-hopsca.json](./336001-evil-world-hopsca.json) |
