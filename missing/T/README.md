@@ -6666,6 +6666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hockey Experiment | 62725 | [62725-the-hockey-experiment.json](./62725-the-hockey-experiment.json) |
 | The Hoff vs Hitler | 342741 | [342741-the-hoff-vs-hitler.json](./342741-the-hoff-vs-hitler.json) |
 | The Hokkaido Serial Murder Case: The Okhotsk Disappearance - Memories in Ice, Tearful Figurine | 287889 | [287889-the-hokkaido-serial-murder-case-the-okhotsk-disappearance-memories-in-ice-tearful-figurine.json](./287889-the-hokkaido-serial-murder-case-the-okhotsk-disappearance-memories-in-ice-tearful-figurine.json) |
+| The Hole in Blueblack Lake | 283121 | [283121-the-hole-in-blueblack-lake.json](./283121-the-hole-in-blueblack-lake.json) |
 | The Hole in the Cabin | 231527 | [231527-the-hole-in-the-cabin.json](./231527-the-hole-in-the-cabin.json) |
 | The Hole Keeper | 370270 | [370270-the-hole-keeper.json](./370270-the-hole-keeper.json) |
 | The Hole Story | 35579 | [35579-the-hole-story.json](./35579-the-hole-story.json) |
@@ -16782,6 +16783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower of Cards | 199455 | [199455-tower-of-cards.json](./199455-tower-of-cards.json) |
 | Tower of Dal Gurak | 271953 | [271953-tower-of-dal-gurak.json](./271953-tower-of-dal-gurak.json) |
 | Tower of Darkness | 217990 | [217990-tower-of-darkness.json](./217990-tower-of-darkness.json) |
+| Tower of Destiny | 283131 | [283131-tower-of-destiny.json](./283131-tower-of-destiny.json) |
 | Tower of Doom | 150499 | [150499-tower-of-doom.json](./150499-tower-of-doom.json) |
 | Tower of Doom VR | 310921 | [310921-tower-of-doom-vr.json](./310921-tower-of-doom-vr.json) |
 | Tower of Dreams | 265705 | [265705-tower-of-dreams.json](./265705-tower-of-dreams.json) |
@@ -17050,6 +17052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toxic Terror: Episode 2 - The Lich's Lair | 170391 | [170391-toxic-terror-episode-2-the-lichs-lair.json](./170391-toxic-terror-episode-2-the-lichs-lair.json) |
 | Toxic Therapy | 306420 | [306420-toxic-therapy.json](./306420-toxic-therapy.json) |
 | Toxic Toads | 322973 | [322973-toxic-toads.json](./322973-toxic-toads.json) |
+| Toxic Tomb | 283086 | [283086-toxic-tomb.json](./283086-toxic-tomb.json) |
 | Toxic Yuri | 397186 | [397186-toxic-yuri.json](./397186-toxic-yuri.json) |
 | Toxicity | 263022 | [263022-toxicity.json](./263022-toxicity.json) |
 | Toxicity | 300417 | [300417-toxicity.json](./300417-toxicity.json) |
@@ -19075,6 +19078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trigonarium | 34718 | [34718-trigonarium.json](./34718-trigonarium.json) |
 | Trigonometric Equations | 399883 | [399883-trigonometric-equations.json](./399883-trigonometric-equations.json) |
 | Trigonometry | 75792 | [75792-trigonometry.json](./75792-trigonometry.json) |
+| Trigonometry Dash | 283128 | [283128-trigonometry-dash.json](./283128-trigonometry-dash.json) |
 | Trihard | 183008 | [183008-trihard.json](./183008-trihard.json) |
 | Triku | 316628 | [316628-triku.json](./316628-triku.json) |
 | Trilby: The Art of Theft | 72890 | [72890-trilby-the-art-of-theft.json](./72890-trilby-the-art-of-theft.json) |
