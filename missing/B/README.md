@@ -3331,6 +3331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | beatmania complete MIX | 94744 | [94744-beatmania-complete-mix.json](./94744-beatmania-complete-mix.json) |
 | beatmania complete MIX 2 | 92674 | [92674-beatmania-complete-mix-2.json](./92674-beatmania-complete-mix-2.json) |
 | beatmania DA!! | 134407 | [134407-beatmania-da.json](./134407-beatmania-da.json) |
+| Beatmania featuring Dreams Come True | 308989 | [308989-beatmania-featuring-dreams-come-true.json](./308989-beatmania-featuring-dreams-come-true.json) |
 | Beatmania for WonderSwan | 135089 | [135089-beatmania-for-wonderswan.json](./135089-beatmania-for-wonderswan.json) |
 | Beatmania GB | 91769 | [91769-beatmania-gb.json](./91769-beatmania-gb.json) |
 | Beatmania GB2 Gotcha Mix | 92604 | [92604-beatmania-gb2-gotcha-mix.json](./92604-beatmania-gb2-gotcha-mix.json) |
@@ -7295,6 +7296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boba | 239588 | [239588-boba.json](./239588-boba.json) |
 | Boba Avoider | 413031 | [413031-boba-avoider.json](./413031-boba-avoider.json) |
 | Boba Cafe Simulator | 346644 | [346644-boba-cafe-simulator.json](./346644-boba-cafe-simulator.json) |
+| Boba Monsters | 309140 | [309140-boba-monsters.json](./309140-boba-monsters.json) |
 | Boba Tale | 199622 | [199622-boba-tale.json](./199622-boba-tale.json) |
 | Boba Tea Shop Simulator | 244236 | [244236-boba-tea-shop-simulator.json](./244236-boba-tea-shop-simulator.json) |
 | Bobanook! | 390788 | [390788-bobanook.json](./390788-bobanook.json) |
@@ -8490,6 +8492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bowling Fever: Power Edition | 399811 | [399811-bowling-fever-power-edition.json](./399811-bowling-fever-power-edition.json) |
 | Bowling Fever: Superior Edition | 317915 | [317915-bowling-fever-superior-edition.json](./317915-bowling-fever-superior-edition.json) |
 | Bowling Game 3D | 88584 | [88584-bowling-game-3d.json](./88584-bowling-game-3d.json) |
+| Bowling in a Skate Park | 309002 | [309002-bowling-in-a-skate-park.json](./309002-bowling-in-a-skate-park.json) |
 | Bowling Islands | 234616 | [234616-bowling-islands.json](./234616-bowling-islands.json) |
 | Bowling Party | 58257 | [58257-bowling-party.json](./58257-bowling-party.json) |
 | Bowling Street | 96913 | [96913-bowling-street.json](./96913-bowling-street.json) |
