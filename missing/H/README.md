@@ -687,6 +687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hamster Playground: Spooky Hamster House | 226708 | [226708-hamster-playground-spooky-hamster-house.json](./226708-hamster-playground-spooky-hamster-house.json) |
 | Hamster Scramble | 125655 | [125655-hamster-scramble.json](./125655-hamster-scramble.json) |
 | Hamster Town | 222833 | [222833-hamster-town.json](./222833-hamster-town.json) |
+| Hamster Tycoon: Cake Maker | 294037 | [294037-hamster-tycoon-cake-maker.json](./294037-hamster-tycoon-cake-maker.json) |
 | Hamster, Eat, Run | 406668 | [406668-hamster-eat-run.json](./406668-hamster-eat-run.json) |
 | Hamsterball | 45288 | [45288-hamsterball.json](./45288-hamsterball.json) |
 | Hamsterball | 70100 | [70100-hamsterball.json](./70100-hamsterball.json) |
@@ -977,6 +978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Holidays: Christmas Miracle | 337270 | [337270-happy-holidays-christmas-miracle.json](./337270-happy-holidays-christmas-miracle.json) |
 | Happy Homes | 178932 | [178932-happy-homes.json](./178932-happy-homes.json) |
 | Happy Hop | 413913 | [413913-happy-hop.json](./413913-happy-hop.json) |
+| Happy Horny Hell | 294070 | [294070-happy-horny-hell.json](./294070-happy-horny-hell.json) |
 | Happy Hospital | 305846 | [305846-happy-hospital.json](./305846-happy-hospital.json) |
 | Happy Hotel | 280793 | [280793-happy-hotel.json](./280793-happy-hotel.json) |
 | Happy Hotel | 322132 | [322132-happy-hotel.json](./322132-happy-hotel.json) |
@@ -1075,6 +1077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harbinger's Horse GT | 183586 | [183586-harbingers-horse-gt.json](./183586-harbingers-horse-gt.json) |
 | Harbingers of Desspair | 320959 | [320959-harbingers-of-desspair.json](./320959-harbingers-of-desspair.json) |
 | Harbingers of Destiny | 392412 | [392412-harbingers-of-destiny.json](./392412-harbingers-of-destiny.json) |
+| Harbor Captain | 294042 | [294042-harbor-captain.json](./294042-harbor-captain.json) |
 | Harbor Escape | 40671 | [40671-harbor-escape.json](./40671-harbor-escape.json) |
 | Harbor Havoc 3D | 181165 | [181165-harbor-havoc-3d.json](./181165-harbor-havoc-3d.json) |
 | Harbor Master | 67604 | [67604-harbor-master.json](./67604-harbor-master.json) |
@@ -2646,6 +2649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hellgate | 125403 | [125403-hellgate.json](./125403-hellgate.json) |
 | Hellgate | 291043 | [291043-hellgate.json](./291043-hellgate.json) |
 | Hellgate VR | 158718 | [158718-hellgate-vr.json](./158718-hellgate-vr.json) |
+| Hellgate: Redemption | 294051 | [294051-hellgate-redemption.json](./294051-hellgate-redemption.json) |
 | Hellgate: Tokyo | 67279 | [67279-hellgate-tokyo.json](./67279-hellgate-tokyo.json) |
 | HellHeart Breaker | 351687 | [351687-hellheart-breaker.json](./351687-hellheart-breaker.json) |
 | Hellhole | 186266 | [186266-hellhole.json](./186266-hellhole.json) |
@@ -3126,6 +3130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Magic Academy | 368625 | [368625-hentai-magic-academy.json](./368625-hentai-magic-academy.json) |
 | Hentai MagicalGirl | 237403 | [237403-hentai-magicalgirl.json](./237403-hentai-magicalgirl.json) |
 | Hentai Maid Club | 149429 | [149429-hentai-maid-club.json](./149429-hentai-maid-club.json) |
+| Hentai Maid Momoka | 294019 | [294019-hentai-maid-momoka.json](./294019-hentai-maid-momoka.json) |
 | Hentai Match 3 | 155000 | [155000-hentai-match-3.json](./155000-hentai-match-3.json) |
 | Hentai Math Teacher | 370003 | [370003-hentai-math-teacher.json](./370003-hentai-math-teacher.json) |
 | Hentai Mature Milf | 371368 | [371368-hentai-mature-milf.json](./371368-hentai-mature-milf.json) |
@@ -3401,6 +3406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Herb Seek Slash | 345688 | [345688-herb-seek-slash.json](./345688-herb-seek-slash.json) |
 | Herb Tea Man | 391724 | [391724-herb-tea-man.json](./391724-herb-tea-man.json) |
 | Herbal Haven | 374797 | [374797-herbal-haven.json](./374797-herbal-haven.json) |
+| Herbal Hunter | 294057 | [294057-herbal-hunter.json](./294057-herbal-hunter.json) |
 | Herbal Remedies | 266203 | [266203-herbal-remedies.json](./266203-herbal-remedies.json) |
 | Herbalist Simulator | 127826 | [127826-herbalist-simulator.json](./127826-herbalist-simulator.json) |
 | Herbert's Dummy Run | 30217 | [30217-herberts-dummy-run.json](./30217-herberts-dummy-run.json) |
@@ -3715,6 +3721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes of Might and Magic IV: Winds of War | 369 | [369-heroes-of-might-and-magic-iv-winds-of-war.json](./369-heroes-of-might-and-magic-iv-winds-of-war.json) |
 | Heroes of Might and Magic V: Bundle | 154441 | [154441-heroes-of-might-and-magic-v-bundle.json](./154441-heroes-of-might-and-magic-v-bundle.json) |
 | Heroes of Might and Magic V: Tribes of the East | 372 | [372-heroes-of-might-and-magic-v-tribes-of-the-east.json](./372-heroes-of-might-and-magic-v-tribes-of-the-east.json) |
+| Heroes of Mount Dragon | 294053 | [294053-heroes-of-mount-dragon.json](./294053-heroes-of-mount-dragon.json) |
 | Heroes of Nature 4 in 1 | 332023 | [332023-heroes-of-nature-4-in-1.json](./332023-heroes-of-nature-4-in-1.json) |
 | Heroes of Newerth | 763 | [763-heroes-of-newerth.json](./763-heroes-of-newerth.json) |
 | Heroes of Newerth Reborn | 376014 | [376014-heroes-of-newerth-reborn.json](./376014-heroes-of-newerth-reborn.json) |
