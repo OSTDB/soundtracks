@@ -616,6 +616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nature Escapes | 215635 | [215635-nature-escapes.json](./215635-nature-escapes.json) |
 | Nature Escapes 2 | 235182 | [235182-nature-escapes-2.json](./235182-nature-escapes-2.json) |
 | Nature Escapes 3: Collector's Edition | 286198 | [286198-nature-escapes-3-collectors-edition.json](./286198-nature-escapes-3-collectors-edition.json) |
+| Nature Escapes 4: Collector's Edition | 320480 | [320480-nature-escapes-4-collectors-edition.json](./320480-nature-escapes-4-collectors-edition.json) |
 | Nature Escapes 5: Collector's Edition | 385087 | [385087-nature-escapes-5-collectors-edition.json](./385087-nature-escapes-5-collectors-edition.json) |
 | Nature Flight Module | 377997 | [377997-nature-flight-module.json](./377997-nature-flight-module.json) |
 | Nature Jurassic Module | 377998 | [377998-nature-jurassic-module.json](./377998-nature-jurassic-module.json) |
