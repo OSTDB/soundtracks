@@ -1841,6 +1841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FastBall 2 F. | 259077 | [259077-fastball-2-f.json](./259077-fastball-2-f.json) |
 | Faster Harder More Challenging Q*bert | 39671 | [39671-faster-harder-more-challenging-q-bert.json](./39671-faster-harder-more-challenging-q-bert.json) |
 | Faster Racer Boom Boom | 255259 | [255259-faster-racer-boom-boom.json](./255259-faster-racer-boom-boom.json) |
+| Faster Than Bolt | 308997 | [308997-faster-than-bolt.json](./308997-faster-than-bolt.json) |
 | Faster Than Death | 383629 | [383629-faster-than-death.json](./383629-faster-than-death.json) |
 | Faster than light? | 178437 | [178437-faster-than-light.json](./178437-faster-than-light.json) |
 | Fastest 1 | 122854 | [122854-fastest-1.json](./122854-fastest-1.json) |
@@ -2248,6 +2249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feed Me Oil 2 | 39207 | [39207-feed-me-oil-2.json](./39207-feed-me-oil-2.json) |
 | Feed Me Oil 2: Liquid Puzzle Adventure | 108499 | [108499-feed-me-oil-2-liquid-puzzle-adventure.json](./108499-feed-me-oil-2-liquid-puzzle-adventure.json) |
 | Feed My Alien | 60629 | [60629-feed-my-alien.json](./60629-feed-my-alien.json) |
+| Feed My Raptor | 308998 | [308998-feed-my-raptor.json](./308998-feed-my-raptor.json) |
 | Feed My Raptor 2 | 340528 | [340528-feed-my-raptor-2.json](./340528-feed-my-raptor-2.json) |
 | Feed My Raptor VR | 391839 | [391839-feed-my-raptor-vr.json](./391839-feed-my-raptor-vr.json) |
 | Feed of Comfort | 176238 | [176238-feed-of-comfort.json](./176238-feed-of-comfort.json) |
