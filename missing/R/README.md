@@ -5218,6 +5218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RoadCraft: Rebuild Edition | 374732 | [374732-roadcraft-rebuild-edition.json](./374732-roadcraft-rebuild-edition.json) |
 | RoadCraft: Reclaim Expansion | 394795 | [394795-roadcraft-reclaim-expansion.json](./394795-roadcraft-reclaim-expansion.json) |
 | RoadCraft: Year 1 Pass | 397905 | [397905-roadcraft-year-1-pass.json](./397905-roadcraft-year-1-pass.json) |
+| Roadies: Unsung Heroes | 313447 | [313447-roadies-unsung-heroes.json](./313447-roadies-unsung-heroes.json) |
 | Roadkill | 13054 | [13054-roadkill.json](./13054-roadkill.json) |
 | RoadKill | 4089 | [4089-roadkill.json](./4089-roadkill.json) |
 | Roadkill Raceway | 235176 | [235176-roadkill-raceway.json](./235176-roadkill-raceway.json) |
