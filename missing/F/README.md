@@ -1201,6 +1201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Conquest Tactics | 25559 | [25559-fantasy-conquest-tactics.json](./25559-fantasy-conquest-tactics.json) |
 | Fantasy Creature Jigsaws | 292257 | [292257-fantasy-creature-jigsaws.json](./292257-fantasy-creature-jigsaws.json) |
 | Fantasy Dash | 188027 | [188027-fantasy-dash.json](./188027-fantasy-dash.json) |
+| Fantasy Dungeon | 285946 | [285946-fantasy-dungeon.json](./285946-fantasy-dungeon.json) |
 | Fantasy Dynasty: Le Château Deretic | 99639 | [99639-fantasy-dynasty-le-chateau-deretic.json](./99639-fantasy-dynasty-le-chateau-deretic.json) |
 | Fantasy Earth: Zero | 51192 | [51192-fantasy-earth-zero.json](./51192-fantasy-earth-zero.json) |
 | Fantasy Empires | 70451 | [70451-fantasy-empires.json](./70451-fantasy-empires.json) |
@@ -7184,6 +7185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freiwillig | 151072 | [151072-freiwillig.json](./151072-freiwillig.json) |
 | Fremdganger: The Cheating Demon | 240297 | [240297-fremdganger-the-cheating-demon.json](./240297-fremdganger-the-cheating-demon.json) |
 | French Crime | 132048 | [132048-french-crime.json](./132048-french-crime.json) |
+| French Fries Pusher Friends | 285937 | [285937-french-fries-pusher-friends.json](./285937-french-fries-pusher-friends.json) |
 | French with Rayman | 193346 | [193346-french-with-rayman.json](./193346-french-with-rayman.json) |
 | Frenesis | 47146 | [47146-frenesis.json](./47146-frenesis.json) |
 | Frenetika | 372083 | [372083-frenetika.json](./372083-frenetika.json) |
