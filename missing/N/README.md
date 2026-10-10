@@ -508,6 +508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nascence | 129649 | [129649-nascence.json](./129649-nascence.json) |
 | Naser: Son of Man | 138240 | [138240-naser-son-of-man.json](./138240-naser-son-of-man.json) |
 | Nash Racing 2: Muscle cars | 68598 | [68598-nash-racing-2-muscle-cars.json](./68598-nash-racing-2-muscle-cars.json) |
+| Nash Racing: Battle | 294069 | [294069-nash-racing-battle.json](./294069-nash-racing-battle.json) |
 | NashBored | 113449 | [113449-nashbored.json](./113449-nashbored.json) |
 | Nashijiru Action! Funassyi no Yukai na Ohanassyi | 222508 | [222508-nashijiru-action-funassyi-no-yukai-na-ohanassyi.json](./222508-nashijiru-action-funassyi-no-yukai-na-ohanassyi.json) |
 | NASL Soccer | 5688 | [5688-nasl-soccer.json](./5688-nasl-soccer.json) |
@@ -3595,6 +3596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Man's Sky: Next Generation | 221637 | [221637-no-mans-sky-next-generation.json](./221637-no-mans-sky-next-generation.json) |
 | No Man's Sky: Nintendo Switch Edition | 191418 | [191418-no-mans-sky-nintendo-switch-edition.json](./191418-no-mans-sky-nintendo-switch-edition.json) |
 | No Man's Sky: Omega | 287088 | [287088-no-mans-sky-omega.json](./287088-no-mans-sky-omega.json) |
+| No Man's Sky: Orbital | 294064 | [294064-no-mans-sky-orbital.json](./294064-no-mans-sky-orbital.json) |
 | No Man's Sky: Origins | 221638 | [221638-no-mans-sky-origins.json](./221638-no-mans-sky-origins.json) |
 | No Man's Sky: Starborn Phoenix Ship | 325562 | [325562-no-mans-sky-starborn-phoenix-ship.json](./325562-no-mans-sky-starborn-phoenix-ship.json) |
 | No Man's Sky: Synthesis | 222424 | [222424-no-mans-sky-synthesis.json](./222424-no-mans-sky-synthesis.json) |
