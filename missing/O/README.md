@@ -2551,6 +2551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oriental Legend | 39575 | [39575-oriental-legend.json](./39575-oriental-legend.json) |
 | Oriental Legend 2 | 82753 | [82753-oriental-legend-2.json](./82753-oriental-legend-2.json) |
 | Oriental Legend Super | 82749 | [82749-oriental-legend-super.json](./82749-oriental-legend-super.json) |
+| Oriental Valley x Village Head Yiang Crossover Bundle DLC | 305545 | [305545-oriental-valley-x-village-head-yiang-crossover-bundle-dlc.json](./305545-oriental-valley-x-village-head-yiang-crossover-bundle-dlc.json) |
 | Orifoldium | 326282 | [326282-orifoldium.json](./326282-orifoldium.json) |
 | Origame | 152916 | [152916-origame.json](./152916-origame.json) |
 | Origami Angel: Feeling Not Found | 319139 | [319139-origami-angel-feeling-not-found.json](./319139-origami-angel-feeling-not-found.json) |
