@@ -3492,6 +3492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overwatch 2: My Hero Academia | 317819 | [317819-overwatch-2-my-hero-academia.json](./317819-overwatch-2-my-hero-academia.json) |
 | Overwatch 2: PlayStation Plus Mega Bundle | 316064 | [316064-overwatch-2-playstation-plus-mega-bundle.json](./316064-overwatch-2-playstation-plus-mega-bundle.json) |
 | Overwatch 2: Season 13 - Spellbinder | 319357 | [319357-overwatch-2-season-13-spellbinder.json](./319357-overwatch-2-season-13-spellbinder.json) |
+| Overwatch 2: Season 15 - Honor & Glory | 331286 | [331286-overwatch-2-season-15-honor-and-glory.json](./331286-overwatch-2-season-15-honor-and-glory.json) |
 | Overwatch 2: Season 16 - Stadium | 341007 | [341007-overwatch-2-season-16-stadium.json](./341007-overwatch-2-season-16-stadium.json) |
 | Overwatch 2: Season 17 - Powered Up! | 350615 | [350615-overwatch-2-season-17-powered-up.json](./350615-overwatch-2-season-17-powered-up.json) |
 | Overwatch 2: Season 18 - Stadium Quickplay | 362281 | [362281-overwatch-2-season-18-stadium-quickplay.json](./362281-overwatch-2-season-18-stadium-quickplay.json) |
