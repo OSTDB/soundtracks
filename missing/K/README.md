@@ -1810,6 +1810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King Arthur's Heir | 23970 | [23970-king-arthurs-heir.json](./23970-king-arthurs-heir.json) |
 | King Arthur's K.O.R.T. | 69839 | [69839-king-arthurs-k-o-r-t.json](./69839-king-arthurs-k-o-r-t.json) |
 | King Arthur's Magic Castle | 213275 | [213275-king-arthurs-magic-castle.json](./213275-king-arthurs-magic-castle.json) |
+| King Arthur's Quest | 316360 | [316360-king-arthurs-quest.json](./316360-king-arthurs-quest.json) |
 | King Assassination | 420540 | [420540-king-assassination.json](./420540-king-assassination.json) |
 | King Bandido | 22136 | [22136-king-bandido.json](./22136-king-bandido.json) |
 | King Battle | 82342 | [82342-king-battle.json](./82342-king-battle.json) |
@@ -2672,6 +2673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knight Foretold | 252802 | [252802-knight-foretold.json](./252802-knight-foretold.json) |
 | Knight Fortix 2 | 42770 | [42770-knight-fortix-2.json](./42770-knight-fortix-2.json) |
 | Knight Games | 26437 | [26437-knight-games.json](./26437-knight-games.json) |
+| Knight George | 316342 | [316342-knight-george.json](./316342-knight-george.json) |
 | Knight Ghost | 46740 | [46740-knight-ghost.json](./46740-knight-ghost.json) |
 | Knight Girl: Match 3 Puzzle | 254155 | [254155-knight-girl-match-3-puzzle.json](./254155-knight-girl-match-3-puzzle.json) |
 | Knight Guy in Low Res World: Castle Days | 306667 | [306667-knight-guy-in-low-res-world-castle-days.json](./306667-knight-guy-in-low-res-world-castle-days.json) |
