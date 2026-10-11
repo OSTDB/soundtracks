@@ -2493,6 +2493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghosts 'n Goblins 64 | 297480 | [297480-ghosts-n-goblins-64.json](./297480-ghosts-n-goblins-64.json) |
 | Ghosts 'N Goblins: Gold Knights II | 63647 | [63647-ghosts-n-goblins-gold-knights-ii.json](./63647-ghosts-n-goblins-gold-knights-ii.json) |
 | Ghosts I-IV for Quake | 131580 | [131580-ghosts-i-iv-for-quake.json](./131580-ghosts-i-iv-for-quake.json) |
+| Ghosts of Aliens | 255617 | [255617-ghosts-of-aliens.json](./255617-ghosts-of-aliens.json) |
 | Ghosts of Tabor | 204034 | [204034-ghosts-of-tabor.json](./204034-ghosts-of-tabor.json) |
 | Ghosts of Tabor: Florida Man DLC | 393139 | [393139-ghosts-of-tabor-florida-man-dlc.json](./393139-ghosts-of-tabor-florida-man-dlc.json) |
 | Ghosts of Tabor: Taran Tactical JW3 | 273829 | [273829-ghosts-of-tabor-taran-tactical-jw3.json](./273829-ghosts-of-tabor-taran-tactical-jw3.json) |
@@ -5908,6 +5909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Groove Coaster 3EX Dream Party | 364411 | [364411-groove-coaster-3ex-dream-party.json](./364411-groove-coaster-3ex-dream-party.json) |
 | Groove Coaster 4 Starlight Road | 126466 | [126466-groove-coaster-4-starlight-road.json](./126466-groove-coaster-4-starlight-road.json) |
 | Groove Coaster 4EX Infinity Highway | 383978 | [383978-groove-coaster-4ex-infinity-highway.json](./383978-groove-coaster-4ex-infinity-highway.json) |
+| Groove Coaster 4MAX: Diamond Galaxy | 255567 | [255567-groove-coaster-4max-diamond-galaxy.json](./255567-groove-coaster-4max-diamond-galaxy.json) |
 | Groove Coaster AC | 126462 | [126462-groove-coaster-ac.json](./126462-groove-coaster-ac.json) |
 | Groove Coaster EX | 126463 | [126463-groove-coaster-ex.json](./126463-groove-coaster-ex.json) |
 | Groove Coaster for Steam | 104523 | [104523-groove-coaster-for-steam.json](./104523-groove-coaster-for-steam.json) |
