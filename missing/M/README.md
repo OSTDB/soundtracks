@@ -3719,6 +3719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Max Beyond | 259519 | [259519-max-beyond.json](./259519-max-beyond.json) |
 | Max Bradshaw and the Zombie Invasion | 197250 | [197250-max-bradshaw-and-the-zombie-invasion.json](./197250-max-bradshaw-and-the-zombie-invasion.json) |
 | Max Capacitor | 208258 | [208258-max-capacitor.json](./208258-max-capacitor.json) |
+| Max Capacity | 267300 | [267300-max-capacity.json](./267300-max-capacity.json) |
 | Max Craft 2: New World HD | 96703 | [96703-max-craft-2-new-world-hd.json](./96703-max-craft-2-new-world-hd.json) |
 | Max Cross | 413621 | [413621-max-cross.json](./413621-max-cross.json) |
 | Max Downforce | 182948 | [182948-max-downforce.json](./182948-max-downforce.json) |
@@ -4153,6 +4154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meccha! Taiko no Tatsujin DS: 7-tsu no Shima no Daibouken | 72548 | [72548-meccha-taiko-no-tatsujin-ds-7-tsu-no-shima-no-daibouken.json](./72548-meccha-taiko-no-tatsujin-ds-7-tsu-no-shima-no-daibouken.json) |
 | Mech | 110274 | [110274-mech.json](./110274-mech.json) |
 | Mech 4X | 395899 | [395899-mech-4x.json](./395899-mech-4x.json) |
+| Mech Academy | 267302 | [267302-mech-academy.json](./267302-mech-academy.json) |
 | Mech Ace Combat Trainer | 31880 | [31880-mech-ace-combat-trainer.json](./31880-mech-ace-combat-trainer.json) |
 | Mech Armada | 145929 | [145929-mech-armada.json](./145929-mech-armada.json) |
 | Mech Assembler: Model Kit Builder Simulator | 346632 | [346632-mech-assembler-model-kit-builder-simulator.json](./346632-mech-assembler-model-kit-builder-simulator.json) |
@@ -4559,6 +4561,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meet Your Maker | 212710 | [212710-meet-your-maker.json](./212710-meet-your-maker.json) |
 | Meet Your Maker: Deluxe Edition | 243798 | [243798-meet-your-maker-deluxe-edition.json](./243798-meet-your-maker-deluxe-edition.json) |
 | Meet Your Maker: Scorched Necropolis | 248093 | [248093-meet-your-maker-scorched-necropolis.json](./248093-meet-your-maker-scorched-necropolis.json) |
+| Meet Your Maker: Sector 2 Arsenal Pack | 267277 | [267277-meet-your-maker-sector-2-arsenal-pack.json](./267277-meet-your-maker-sector-2-arsenal-pack.json) |
+| Meet Your Maker: Sector 2 Cosmetic Collection | 267293 | [267293-meet-your-maker-sector-2-cosmetic-collection.json](./267293-meet-your-maker-sector-2-cosmetic-collection.json) |
 | Meet Your Maker: Sector 3 Arsenal Pack | 284882 | [284882-meet-your-maker-sector-3-arsenal-pack.json](./284882-meet-your-maker-sector-3-arsenal-pack.json) |
 | Meet.Hunter | 96479 | [96479-meet-hunter.json](./96479-meet-hunter.json) |
 | Meet'N'Fuck Denise Milani | 221728 | [221728-meetnfuck-denise-milani.json](./221728-meetnfuck-denise-milani.json) |
@@ -6864,6 +6868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight at the Disco | 265325 | [265325-midnight-at-the-disco.json](./265325-midnight-at-the-disco.json) |
 | Midnight Awake | 104153 | [104153-midnight-awake.json](./104153-midnight-awake.json) |
 | Midnight Bike | 158146 | [158146-midnight-bike.json](./158146-midnight-bike.json) |
+| Midnight Blood Rush | 267272 | [267272-midnight-blood-rush.json](./267272-midnight-blood-rush.json) |
 | Midnight Blues | 173305 | [173305-midnight-blues.json](./173305-midnight-blues.json) |
 | Midnight Bowling | 21802 | [21802-midnight-bowling.json](./21802-midnight-bowling.json) |
 | Midnight Building | 93172 | [93172-midnight-building.json](./93172-midnight-building.json) |
@@ -11103,6 +11108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motorsport Manager | 19293 | [19293-motorsport-manager.json](./19293-motorsport-manager.json) |
 | Motorsport Manager - GT Series | 53365 | [53365-motorsport-manager-gt-series.json](./53365-motorsport-manager-gt-series.json) |
 | Motorsport Manager 2 | 408153 | [408153-motorsport-manager-2.json](./408153-motorsport-manager-2.json) |
+| Motorsport Manager 4 | 267311 | [267311-motorsport-manager-4.json](./267311-motorsport-manager-4.json) |
 | Motorsport Manager Mobile 3 | 105772 | [105772-motorsport-manager-mobile-3.json](./105772-motorsport-manager-mobile-3.json) |
 | Motorstorm Pacific Rift: Adrenaline Expansion | 277234 | [277234-motorstorm-pacific-rift-adrenaline-expansion.json](./277234-motorstorm-pacific-rift-adrenaline-expansion.json) |
 | Motorstorm Pacific Rift: Speed Expansion | 277233 | [277233-motorstorm-pacific-rift-speed-expansion.json](./277233-motorstorm-pacific-rift-speed-expansion.json) |
