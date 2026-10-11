@@ -14251,6 +14251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiger Woods PGA Tour 14: Masters Historic Edition | 21694 | [21694-tiger-woods-pga-tour-14-masters-historic-edition.json](./21694-tiger-woods-pga-tour-14-masters-historic-edition.json) |
 | Tiger Woods PGA Tour 2000 | 249152 | [249152-tiger-woods-pga-tour-2000.json](./249152-tiger-woods-pga-tour-2000.json) |
 | Tiger Woods PGA Tour 2003 | 904 | [904-tiger-woods-pga-tour-2003.json](./904-tiger-woods-pga-tour-2003.json) |
+| Tiger Woods PGA Tour 2004 | 243023 | [243023-tiger-woods-pga-tour-2004.json](./243023-tiger-woods-pga-tour-2004.json) |
 | Tiger Woods PGA Tour 2004 | 905 | [905-tiger-woods-pga-tour-2004.json](./905-tiger-woods-pga-tour-2004.json) |
 | Tiger Woods PGA Tour 2007 | 42805 | [42805-tiger-woods-pga-tour-2007.json](./42805-tiger-woods-pga-tour-2007.json) |
 | Tiger Woods PGA Tour 2008 | 51234 | [51234-tiger-woods-pga-tour-2008.json](./51234-tiger-woods-pga-tour-2008.json) |
@@ -15730,6 +15731,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom Clancy's Splinter Cell: Blacklist - 5th Freedom Edition | 44568 | [44568-tom-clancys-splinter-cell-blacklist-5th-freedom-edition.json](./44568-tom-clancys-splinter-cell-blacklist-5th-freedom-edition.json) |
 | Tom Clancy's Splinter Cell: Blacklist - Digital Deluxe Edition | 53944 | [53944-tom-clancys-splinter-cell-blacklist-digital-deluxe-edition.json](./53944-tom-clancys-splinter-cell-blacklist-digital-deluxe-edition.json) |
 | Tom Clancy's Splinter Cell: Blacklist - Upper Echelon Edition | 76983 | [76983-tom-clancys-splinter-cell-blacklist-upper-echelon-edition.json](./76983-tom-clancys-splinter-cell-blacklist-upper-echelon-edition.json) |
+| Tom Clancy's Splinter Cell: Chaos Theory | 243020 | [243020-tom-clancys-splinter-cell-chaos-theory.json](./243020-tom-clancys-splinter-cell-chaos-theory.json) |
+| Tom Clancy's Splinter Cell: Chaos Theory | 243021 | [243021-tom-clancys-splinter-cell-chaos-theory.json](./243021-tom-clancys-splinter-cell-chaos-theory.json) |
 | Tom Clancy's Splinter Cell: Chaos Theory HD | 100004 | [100004-tom-clancys-splinter-cell-chaos-theory-hd.json](./100004-tom-clancys-splinter-cell-chaos-theory-hd.json) |
 | Tom Clancy's Splinter Cell: Conviction - Insurgency Pack | 11010 | [11010-tom-clancys-splinter-cell-conviction-insurgency-pack.json](./11010-tom-clancys-splinter-cell-conviction-insurgency-pack.json) |
 | Tom Clancy's Splinter Cell: Double Agent | 182225 | [182225-tom-clancys-splinter-cell-double-agent.json](./182225-tom-clancys-splinter-cell-double-agent.json) |
