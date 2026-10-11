@@ -790,6 +790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Edge of the End | 367498 | [367498-edge-of-the-end.json](./367498-edge-of-the-end.json) |
 | Edge of War | 262885 | [262885-edge-of-war.json](./262885-edge-of-war.json) |
 | Edge Out : Escape Game | 90891 | [90891-edge-out-escape-game.json](./90891-edge-out-escape-game.json) |
+| Edge Road | 258904 | [258904-edge-road.json](./258904-edge-road.json) |
 | Edge Run | 197935 | [197935-edge-run.json](./197935-edge-run.json) |
 | Edge: Mech-Ascent | 230303 | [230303-edge-mech-ascent.json](./230303-edge-mech-ascent.json) |
 | Edgeless | 291146 | [291146-edgeless.json](./291146-edgeless.json) |
