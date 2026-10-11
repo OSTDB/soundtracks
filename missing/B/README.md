@@ -196,6 +196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Babylonia | 120695 | [120695-babylonia.json](./120695-babylonia.json) |
 | BabyRace | 255122 | [255122-babyrace.json](./255122-babyrace.json) |
 | Babysitter Simulator | 203902 | [203902-babysitter-simulator.json](./203902-babysitter-simulator.json) |
+| Babysitter Steve | 245197 | [245197-babysitter-steve.json](./245197-babysitter-steve.json) |
 | Babysitting Fun | 310540 | [310540-babysitting-fun.json](./310540-babysitting-fun.json) |
 | Babysitting Mania | 47979 | [47979-babysitting-mania.json](./47979-babysitting-mania.json) |
 | Babysitting Party | 92669 | [92669-babysitting-party.json](./92669-babysitting-party.json) |
@@ -4775,6 +4776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bike Banditz | 216262 | [216262-bike-banditz.json](./216262-bike-banditz.json) |
 | Bike Baron | 65290 | [65290-bike-baron.json](./65290-bike-baron.json) |
 | Bike Baron 2 | 160225 | [160225-bike-baron-2.json](./160225-bike-baron-2.json) |
+| Bike Bites | 245190 | [245190-bike-bites.json](./245190-bike-bites.json) |
 | Bike Blast | 116396 | [116396-bike-blast.json](./116396-bike-blast.json) |
 | Bike Courier: Bistro Express Delivery | 283296 | [283296-bike-courier-bistro-express-delivery.json](./283296-bike-courier-bistro-express-delivery.json) |
 | Bike Dash Excite! | 105230 | [105230-bike-dash-excite.json](./105230-bike-dash-excite.json) |
@@ -6479,6 +6481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Arena | 384098 | [384098-block-arena.json](./384098-block-arena.json) |
 | Block Beast | 353794 | [353794-block-beast.json](./353794-block-beast.json) |
 | Block Blast | 130896 | [130896-block-blast.json](./130896-block-blast.json) |
+| Block Blaster | 245184 | [245184-block-blaster.json](./245184-block-blaster.json) |
 | Block Blitz | 207280 | [207280-block-blitz.json](./207280-block-blitz.json) |
 | Block Block | 46763 | [46763-block-block.json](./46763-block-block.json) |
 | Block Block Block | 347845 | [347845-block-block-block.json](./347845-block-block-block.json) |
@@ -8583,6 +8586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bouncing Over It with friends | 106406 | [106406-bouncing-over-it-with-friends.json](./106406-bouncing-over-it-with-friends.json) |
 | Bouncing Rainbow | 259629 | [259629-bouncing-rainbow.json](./259629-bouncing-rainbow.json) |
 | Bouncing Slime: Impossible Levels | 343985 | [343985-bouncing-slime-impossible-levels.json](./343985-bouncing-slime-impossible-levels.json) |
+| Bouncy Ball | 245201 | [245201-bouncy-ball.json](./245201-bouncy-ball.json) |
 | Bouncy Bean | 388187 | [388187-bouncy-bean.json](./388187-bouncy-bean.json) |
 | Bouncy Brain | 388273 | [388273-bouncy-brain.json](./388273-bouncy-brain.json) |
 | Bouncy Bread | 338014 | [338014-bouncy-bread.json](./338014-bouncy-bread.json) |
@@ -10946,6 +10950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burger Memory Game | 240919 | [240919-burger-memory-game.json](./240919-burger-memory-game.json) |
 | Burger Night | 158708 | [158708-burger-night.json](./158708-burger-night.json) |
 | Burger Patrol | 189928 | [189928-burger-patrol.json](./189928-burger-patrol.json) |
+| Burger Please! | 245208 | [245208-burger-please.json](./245208-burger-please.json) |
 | Burger Race | 327840 | [327840-burger-race.json](./327840-burger-race.json) |
 | Burger Restaurant Simulator | 261339 | [261339-burger-restaurant-simulator.json](./261339-burger-restaurant-simulator.json) |
 | Burger Rush | 71525 | [71525-burger-rush.json](./71525-burger-rush.json) |
