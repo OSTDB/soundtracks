@@ -91,6 +91,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cabela's Big Game Hunter 2009 | 206695 | [206695-cabelas-big-game-hunter-2009.json](./206695-cabelas-big-game-hunter-2009.json) |
 | Cabela's Big Game Hunter III | 73772 | [73772-cabelas-big-game-hunter-iii.json](./73772-cabelas-big-game-hunter-iii.json) |
 | Cabela's Big Game Hunter: 2004 Season | 69861 | [69861-cabelas-big-game-hunter-2004-season.json](./69861-cabelas-big-game-hunter-2004-season.json) |
+| Cabela's Big Game Hunter: 2005 Adventures | 242469 | [242469-cabelas-big-game-hunter-2005-adventures.json](./242469-cabelas-big-game-hunter-2005-adventures.json) |
 | Cabela's Big Game Hunter: Hunting Party | 20219 | [20219-cabelas-big-game-hunter-hunting-party.json](./20219-cabelas-big-game-hunter-hunting-party.json) |
 | Cabela's Big Game Hunter: Ultimate Challenge | 45298 | [45298-cabelas-big-game-hunter-ultimate-challenge.json](./45298-cabelas-big-game-hunter-ultimate-challenge.json) |
 | Cabela's Dangerous Hunts | 5763 | [5763-cabelas-dangerous-hunts.json](./5763-cabelas-dangerous-hunts.json) |
@@ -2858,6 +2859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cause of Death | 91937 | [91937-cause-of-death.json](./91937-cause-of-death.json) |
 | Cause to Exist | 365174 | [365174-cause-to-exist.json](./365174-cause-to-exist.json) |
 | Causeway | 105406 | [105406-causeway.json](./105406-causeway.json) |
+| Causeway | 242445 | [242445-causeway.json](./242445-causeway.json) |
 | Caution | 229590 | [229590-caution.json](./229590-caution.json) |
 | Caution Ahead: Part 2 | 305142 | [305142-caution-ahead-part-2.json](./305142-caution-ahead-part-2.json) |
 | Caution Wet Paint | 405733 | [405733-caution-wet-paint.json](./405733-caution-wet-paint.json) |
@@ -4247,6 +4249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chibi Maruko-chan no Okashi de Piihyarara | 218369 | [218369-chibi-maruko-chan-no-okashi-de-piihyarara.json](./218369-chibi-maruko-chan-no-okashi-de-piihyarara.json) |
 | Chibi Maruko-chan: Maru-chan Ame wo Morai ni Iku no Maki | 284443 | [284443-chibi-maruko-chan-maru-chan-ame-wo-morai-ni-iku-no-maki.json](./284443-chibi-maruko-chan-maru-chan-ame-wo-morai-ni-iku-no-maki.json) |
 | Chibi Maruko-chan: Okozukai Daisakusen! | 79542 | [79542-chibi-maruko-chan-okozukai-daisakusen.json](./79542-chibi-maruko-chan-okozukai-daisakusen.json) |
+| Chibi Ninja Shino-kun: Treasure of Demon Tower | 242442 | [242442-chibi-ninja-shino-kun-treasure-of-demon-tower.json](./242442-chibi-ninja-shino-kun-treasure-of-demon-tower.json) |
 | Chibi Reboot | 336690 | [336690-chibi-reboot.json](./336690-chibi-reboot.json) |
 | Chibi Survivor Weather Lord - Survival | 89189 | [89189-chibi-survivor-weather-lord-survival.json](./89189-chibi-survivor-weather-lord-survival.json) |
 | Chibi Town | 395539 | [395539-chibi-town.json](./395539-chibi-town.json) |
@@ -11855,6 +11858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CubeRace | 114953 | [114953-cuberace.json](./114953-cuberace.json) |
 | Cuberio | 390081 | [390081-cuberio.json](./390081-cuberio.json) |
 | CubeRun | 89268 | [89268-cuberun.json](./89268-cuberun.json) |
+| CubeRun 2 | 242444 | [242444-cuberun-2.json](./242444-cuberun-2.json) |
 | Cuberuns | 210631 | [210631-cuberuns.json](./210631-cuberuns.json) |
 | Cubes | 247072 | [247072-cubes.json](./247072-cubes.json) |
 | Cubes and More Cubes | 180221 | [180221-cubes-and-more-cubes.json](./180221-cubes-and-more-cubes.json) |
