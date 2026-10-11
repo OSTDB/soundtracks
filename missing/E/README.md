@@ -3444,6 +3444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape: Tutankhamen's Tomb | 88453 | [88453-escape-tutankhamens-tomb.json](./88453-escape-tutankhamens-tomb.json) |
 | Escape: Underground | 149490 | [149490-escape-underground.json](./149490-escape-underground.json) |
 | Escape: VR | 29157 | [29157-escape-vr.json](./29157-escape-vr.json) |
+| Escape! | 270026 | [270026-escape.json](./270026-escape.json) |
 | Escape! | 89659 | [89659-escape.json](./89659-escape.json) |
 | Escape! Sloths and Palm Trees Island | 174625 | [174625-escape-sloths-and-palm-trees-island.json](./174625-escape-sloths-and-palm-trees-island.json) |
 | Escape30DayCircle | 360650 | [360650-escape30daycircle.json](./360650-escape30daycircle.json) |
@@ -4853,6 +4854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exposure Office Simulator | 309892 | [309892-exposure-office-simulator.json](./309892-exposure-office-simulator.json) |
 | Express 404 | 415326 | [415326-express-404.json](./415326-express-404.json) |
 | Express Courier Pro: Urban Bike Delivery Simulator 2024! | 300862 | [300862-express-courier-pro-urban-bike-delivery-simulator-2024.json](./300862-express-courier-pro-urban-bike-delivery-simulator-2024.json) |
+| Express Hero | 270045 | [270045-express-hero.json](./270045-express-hero.json) |
 | Express Raider | 13654 | [13654-express-raider.json](./13654-express-raider.json) |
 | Express Simulator | 152463 | [152463-express-simulator.json](./152463-express-simulator.json) |
 | Exquisite Corpse | 273568 | [273568-exquisite-corpse.json](./273568-exquisite-corpse.json) |
