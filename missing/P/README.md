@@ -8809,7 +8809,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Primal Carnage: Extinction - Mercenary Megapack | 241963 | [241963-primal-carnage-extinction-mercenary-megapack.json](./241963-primal-carnage-extinction-mercenary-megapack.json) |
 | Primal Carnage: Extinction - Prehistoric Legacy | 241962 | [241962-primal-carnage-extinction-prehistoric-legacy.json](./241962-primal-carnage-extinction-prehistoric-legacy.json) |
 | Primal Carnage: Extinction - Ultimate Bruiser Pack | 274973 | [274973-primal-carnage-extinction-ultimate-bruiser-pack.json](./274973-primal-carnage-extinction-ultimate-bruiser-pack.json) |
+| Primal Carnage: Extinction - Ultimate Flyer Pack | 274956 | [274956-primal-carnage-extinction-ultimate-flyer-pack.json](./274956-primal-carnage-extinction-ultimate-flyer-pack.json) |
+| Primal Carnage: Extinction - Ultimate Raptor Pack | 274958 | [274958-primal-carnage-extinction-ultimate-raptor-pack.json](./274958-primal-carnage-extinction-ultimate-raptor-pack.json) |
 | Primal Carnage: Extinction - Ultimate Spitter Pack | 274974 | [274974-primal-carnage-extinction-ultimate-spitter-pack.json](./274974-primal-carnage-extinction-ultimate-spitter-pack.json) |
+| Primal Carnage: Extinction - Ultimate Tyrant Pack | 274957 | [274957-primal-carnage-extinction-ultimate-tyrant-pack.json](./274957-primal-carnage-extinction-ultimate-tyrant-pack.json) |
 | Primal Carnage: Genesis | 80564 | [80564-primal-carnage-genesis.json](./80564-primal-carnage-genesis.json) |
 | Primal Chronicles | 336618 | [336618-primal-chronicles.json](./336618-primal-chronicles.json) |
 | Primal Dinosaur Shooter: Dino Killer | 374672 | [374672-primal-dinosaur-shooter-dino-killer.json](./374672-primal-dinosaur-shooter-dino-killer.json) |
@@ -9930,6 +9933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Starship X: Limited Edition | 167083 | [167083-project-starship-x-limited-edition.json](./167083-project-starship-x-limited-edition.json) |
 | Project Stormos | 62025 | [62025-project-stormos.json](./62025-project-stormos.json) |
 | Project Stratarch | 259260 | [259260-project-stratarch.json](./259260-project-stratarch.json) |
+| Project Subtrahend | 274948 | [274948-project-subtrahend.json](./274948-project-subtrahend.json) |
 | Project Summit | 153376 | [153376-project-summit.json](./153376-project-summit.json) |
 | Project T | 301327 | [301327-project-t.json](./301327-project-t.json) |
 | Project T.A.G | 388334 | [388334-project-t-a-g.json](./388334-project-t-a-g.json) |
