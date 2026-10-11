@@ -3646,6 +3646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal Chrysalis Dream | 395569 | [395569-eternal-chrysalis-dream.json](./395569-eternal-chrysalis-dream.json) |
 | Eternal City | 90889 | [90889-eternal-city.json](./90889-eternal-city.json) |
 | Eternal Cycle | 148908 | [148908-eternal-cycle.json](./148908-eternal-cycle.json) |
+| Eternal Damnation | 264549 | [264549-eternal-damnation.json](./264549-eternal-damnation.json) |
 | Eternal Damnation | 66350 | [66350-eternal-damnation.json](./66350-eternal-damnation.json) |
 | Eternal Dark Winter | 370859 | [370859-eternal-dark-winter.json](./370859-eternal-dark-winter.json) |
 | Eternal Decay Souls | 387493 | [387493-eternal-decay-souls.json](./387493-eternal-decay-souls.json) |
