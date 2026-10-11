@@ -3359,6 +3359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Line Wobbler | 219119 | [219119-line-wobbler.json](./219119-line-wobbler.json) |
 | Line: Disney Tsum Tsum | 38886 | [38886-line-disney-tsum-tsum.json](./38886-line-disney-tsum-tsum.json) |
 | Line: Monster Farm | 246913 | [246913-line-monster-farm.json](./246913-line-monster-farm.json) |
+| Line's Guarder | 252607 | [252607-lines-guarder.json](./252607-lines-guarder.json) |
 | Lineage | 388008 | [388008-lineage.json](./388008-lineage.json) |
 | Lineage | 75854 | [75854-lineage.json](./75854-lineage.json) |
 | Lineage 2: Revolution | 75977 | [75977-lineage-2-revolution.json](./75977-lineage-2-revolution.json) |
