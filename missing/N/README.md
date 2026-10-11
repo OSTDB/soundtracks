@@ -1638,6 +1638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Struct: Die Augen der Welt | 17571 | [17571-neon-struct-die-augen-der-welt.json](./17571-neon-struct-die-augen-der-welt.json) |
 | Neon Sundown | 193421 | [193421-neon-sundown.json](./193421-neon-sundown.json) |
 | Neon Survivor | 418542 | [418542-neon-survivor.json](./418542-neon-survivor.json) |
+| Neon Survivors | 245759 | [245759-neon-survivors.json](./245759-neon-survivors.json) |
 | Neon Sword | 107169 | [107169-neon-sword.json](./107169-neon-sword.json) |
 | Neon Tail | 119431 | [119431-neon-tail.json](./119431-neon-tail.json) |
 | Neon Tide | 120912 | [120912-neon-tide.json](./120912-neon-tide.json) |
@@ -1870,6 +1871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NeuroReal VR | 100819 | [100819-neuroreal-vr.json](./100819-neuroreal-vr.json) |
 | Neurose Neurones | 310766 | [310766-neurose-neurones.json](./310766-neurose-neurones.json) |
 | Neuroshima Hex | 22276 | [22276-neuroshima-hex.json](./22276-neuroshima-hex.json) |
+| Neurosis | 245760 | [245760-neurosis.json](./245760-neurosis.json) |
 | Neuroslop | 409579 | [409579-neuroslop.json](./409579-neuroslop.json) |
 | NeuroSquad | 234042 | [234042-neurosquad.json](./234042-neurosquad.json) |
 | NeuroVoider: Deluxe Edition | 53413 | [53413-neurovoider-deluxe-edition.json](./53413-neurovoider-deluxe-edition.json) |
@@ -2584,6 +2586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nidhogg | 5551 | [5551-nidhogg.json](./5551-nidhogg.json) |
 | Nidhogg 2 | 24482 | [24482-nidhogg-2.json](./24482-nidhogg-2.json) |
 | Nidia | 57189 | [57189-nidia.json](./57189-nidia.json) |
+| Nidus | 245762 | [245762-nidus.json](./245762-nidus.json) |
 | Nie no Hakoniwa: Dollhouse of Offerings | 268012 | [268012-nie-no-hakoniwa-dollhouse-of-offerings.json](./268012-nie-no-hakoniwa-dollhouse-of-offerings.json) |
 | NieR Re[in]carnation | 132005 | [132005-nier-re-in-carnation.json](./132005-nier-re-in-carnation.json) |
 | NieR Re[in]carnation: The People and the World | 259669 | [259669-nier-re-in-carnation-the-people-and-the-world.json](./259669-nier-re-in-carnation-the-people-and-the-world.json) |
