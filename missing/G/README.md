@@ -5645,6 +5645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grigore’s Tales: Halloween | 315797 | [315797-grigore-s-tales-halloween.json](./315797-grigore-s-tales-halloween.json) |
 | GrigoriNightDragon | 336581 | [336581-grigorinightdragon.json](./336581-grigorinightdragon.json) |
 | Grill it! Sanma | 370818 | [370818-grill-it-sanma.json](./370818-grill-it-sanma.json) |
+| Grill on Wheels | 272214 | [272214-grill-on-wheels.json](./272214-grill-on-wheels.json) |
 | Grill-Off with Ultra Hand! | 50696 | [50696-grill-off-with-ultra-hand.json](./50696-grill-off-with-ultra-hand.json) |
 | Grille Logic | 286580 | [286580-grille-logic.json](./286580-grille-logic.json) |
 | Grim | 196319 | [196319-grim.json](./196319-grim.json) |
@@ -6928,6 +6929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gwiryungdan: Joseon's Twelve | 291361 | [291361-gwiryungdan-joseons-twelve.json](./291361-gwiryungdan-joseons-twelve.json) |
 | Gwonchong Sonyeo Kiugi | 234637 | [234637-gwonchong-sonyeo-kiugi.json](./234637-gwonchong-sonyeo-kiugi.json) |
 | GX Monsters | 257005 | [257005-gx-monsters.json](./257005-gx-monsters.json) |
+| GX Sudoku | 272200 | [272200-gx-sudoku.json](./272200-gx-sudoku.json) |
 | Gyaku Katei Kyoushi: Kanojo wa Boku no Sensei ni Shite Dorei | 411593 | [411593-gyaku-katei-kyoushi-kanojo-wa-boku-no-sensei-ni-shite-dorei.json](./411593-gyaku-katei-kyoushi-kanojo-wa-boku-no-sensei-ni-shite-dorei.json) |
 | Gyakuten Hanafuda | 256331 | [256331-gyakuten-hanafuda.json](./256331-gyakuten-hanafuda.json) |
 | Gyakuten Kenji 2 | 84972 | [84972-gyakuten-kenji-2.json](./84972-gyakuten-kenji-2.json) |
