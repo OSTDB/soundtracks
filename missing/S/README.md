@@ -10103,6 +10103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sokos | 33053 | [33053-sokos.json](./33053-sokos.json) |
 | Sokoseed | 295487 | [295487-sokoseed.json](./295487-sokoseed.json) |
 | Sokosignal | 219596 | [219596-sokosignal.json](./219596-sokosignal.json) |
+| SokoSolitaire | 244669 | [244669-sokosolitaire.json](./244669-sokosolitaire.json) |
 | Sokotale | 141851 | [141851-sokotale.json](./141851-sokotale.json) |
 | SokoTerm | 379050 | [379050-sokoterm.json](./379050-sokoterm.json) |
 | Sokowand | 335261 | [335261-sokowand.json](./335261-sokowand.json) |
@@ -14821,6 +14822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stacker | 75715 | [75715-stacker.json](./75715-stacker.json) |
 | Stackflow | 361687 | [361687-stackflow.json](./361687-stackflow.json) |
 | StackFortress | 88012 | [88012-stackfortress.json](./88012-stackfortress.json) |
+| StackHoops | 244698 | [244698-stackhoops.json](./244698-stackhoops.json) |
 | Stacking | 4851 | [4851-stacking.json](./4851-stacking.json) |
 | Stacking Fairy | 293866 | [293866-stacking-fairy.json](./293866-stacking-fairy.json) |
 | StacKit | 353764 | [353764-stackit.json](./353764-stackit.json) |
@@ -15674,6 +15676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stardom 2000 | 380431 | [380431-stardom-2000.json](./380431-stardom-2000.json) |
 | Stardom 3 | 371627 | [371627-stardom-3.json](./371627-stardom-3.json) |
 | Stardom Warriors: LaSalle Ishii's Childs Quest | 340027 | [340027-stardom-warriors-lasalle-ishiis-childs-quest.json](./340027-stardom-warriors-lasalle-ishiis-childs-quest.json) |
+| Stardome | 244687 | [244687-stardome.json](./244687-stardome.json) |
 | Stardream | 349984 | [349984-stardream.json](./349984-stardream.json) |
 | StarDrive 2 | 13660 | [13660-stardrive-2.json](./13660-stardrive-2.json) |
 | StarDrive 2: Deluxe Edition | 53661 | [53661-stardrive-2-deluxe-edition.json](./53661-stardrive-2-deluxe-edition.json) |
@@ -17229,6 +17232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stormbridge | 327329 | [327329-stormbridge.json](./327329-stormbridge.json) |
 | Stormbringer | 13036 | [13036-stormbringer.json](./13036-stormbringer.json) |
 | Stormbroken | 363920 | [363920-stormbroken.json](./363920-stormbroken.json) |
+| StormEdge: Wind of Change | 244691 | [244691-stormedge-wind-of-change.json](./244691-stormedge-wind-of-change.json) |
 | Stormfall: Age of War | 21677 | [21677-stormfall-age-of-war.json](./21677-stormfall-age-of-war.json) |
 | Stormfall: Saga of Survival | 105787 | [105787-stormfall-saga-of-survival.json](./105787-stormfall-saga-of-survival.json) |
 | Stormforge | 305188 | [305188-stormforge.json](./305188-stormforge.json) |
@@ -19795,6 +19799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Jigsaw Puzzle: Generations - Portugal | 266808 | [266808-super-jigsaw-puzzle-generations-portugal.json](./266808-super-jigsaw-puzzle-generations-portugal.json) |
 | Super Jigsaw Puzzle: Generations - Puppies 2 | 353463 | [353463-super-jigsaw-puzzle-generations-puppies-2.json](./353463-super-jigsaw-puzzle-generations-puppies-2.json) |
 | Super Jigsaw Puzzle: Generations - Puppies Puzzles | 155633 | [155633-super-jigsaw-puzzle-generations-puppies-puzzles.json](./155633-super-jigsaw-puzzle-generations-puppies-puzzles.json) |
+| Super Jigsaw Puzzle: Generations - Random Animals 3 | 244656 | [244656-super-jigsaw-puzzle-generations-random-animals-3.json](./244656-super-jigsaw-puzzle-generations-random-animals-3.json) |
 | Super Jigsaw Puzzle: Generations - Random Animals 4 | 304664 | [304664-super-jigsaw-puzzle-generations-random-animals-4.json](./304664-super-jigsaw-puzzle-generations-random-animals-4.json) |
 | Super Jigsaw Puzzle: Generations - Random Animals Puzzles | 155604 | [155604-super-jigsaw-puzzle-generations-random-animals-puzzles.json](./155604-super-jigsaw-puzzle-generations-random-animals-puzzles.json) |
 | Super Jigsaw Puzzle: Generations - Random Puzzles 2 | 155636 | [155636-super-jigsaw-puzzle-generations-random-puzzles-2.json](./155636-super-jigsaw-puzzle-generations-random-puzzles-2.json) |
@@ -21062,6 +21067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Valis IV | 38411 | [38411-super-valis-iv.json](./38411-super-valis-iv.json) |
 | Super Vanilla World | 223029 | [223029-super-vanilla-world.json](./223029-super-vanilla-world.json) |
 | Super Versus | 114291 | [114291-super-versus.json](./114291-super-versus.json) |
+| Super VHS | 244683 | [244683-super-vhs.json](./244683-super-vhs.json) |
 | Super Video Golf | 249343 | [249343-super-video-golf.json](./249343-super-video-golf.json) |
 | Super Vili | 160167 | [160167-super-vili.json](./160167-super-vili.json) |
 | Super Visual Soccer | 125980 | [125980-super-visual-soccer.json](./125980-super-visual-soccer.json) |
