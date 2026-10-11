@@ -736,6 +736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naxat Stadium | 37670 | [37670-naxat-stadium.json](./37670-naxat-stadium.json) |
 | Naxos | 199402 | [199402-naxos.json](./199402-naxos.json) |
 | Nayati River | 165404 | [165404-nayati-river.json](./165404-nayati-river.json) |
+| Nayla's Castle | 260025 | [260025-naylas-castle.json](./260025-naylas-castle.json) |
 | Nayra's Popstactic Adventures in Cadiz | 114752 | [114752-nayras-popstactic-adventures-in-cadiz.json](./114752-nayras-popstactic-adventures-in-cadiz.json) |
 | Nayuta no Kiseki | 284431 | [284431-nayuta-no-kiseki.json](./284431-nayuta-no-kiseki.json) |
 | Nayuta no Kiseki: Limited Edition | 284434 | [284434-nayuta-no-kiseki-limited-edition.json](./284434-nayuta-no-kiseki-limited-edition.json) |
@@ -4712,7 +4713,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Numb: Just Don't Think About It | 255103 | [255103-numb-just-dont-think-about-it.json](./255103-numb-just-dont-think-about-it.json) |
 | Numbako | 419190 | [419190-numbako.json](./419190-numbako.json) |
 | Numbala | 111453 | [111453-numbala.json](./111453-numbala.json) |
-| Number 1! | 405429 | [405429-number-1.json](./405429-number-1.json) |
 | Number 7 | 291000 | [291000-number-7.json](./291000-number-7.json) |
 | Number 99 | 221095 | [221095-number-99.json](./221095-number-99.json) |
 | Number Chain - Logic Puzzle | 96048 | [96048-number-chain-logic-puzzle.json](./96048-number-chain-logic-puzzle.json) |
