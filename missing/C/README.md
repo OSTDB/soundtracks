@@ -9822,6 +9822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cranks & Goggles | 56297 | [56297-cranks-and-goggles.json](./56297-cranks-and-goggles.json) |
 | Cranks and Goggles | 26619 | [26619-cranks-and-goggles.json](./26619-cranks-and-goggles.json) |
 | Cranks Playdate Baseball | 273673 | [273673-cranks-playdate-baseball.json](./273673-cranks-playdate-baseball.json) |
+| CrankShaft | 268925 | [268925-crankshaft.json](./268925-crankshaft.json) |
 | Crankstone | 361914 | [361914-crankstone.json](./361914-crankstone.json) |
 | Crankventure Capitalist | 314494 | [314494-crankventure-capitalist.json](./314494-crankventure-capitalist.json) |
 | Cranky Bird | 207285 | [207285-cranky-bird.json](./207285-cranky-bird.json) |
@@ -9967,6 +9968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crashday: Redline Edition | 50093 | [50093-crashday-redline-edition.json](./50093-crashday-redline-edition.json) |
 | Crashed | 329598 | [329598-crashed.json](./329598-crashed.json) |
 | Crashimals | 120893 | [120893-crashimals.json](./120893-crashimals.json) |
+| Crashimals | 268931 | [268931-crashimals.json](./268931-crashimals.json) |
 | Crashing Race | 172598 | [172598-crashing-race.json](./172598-crashing-race.json) |
 | Crashland | 144349 | [144349-crashland.json](./144349-crashland.json) |
 | Crashlands | 15389 | [15389-crashlands.json](./15389-crashlands.json) |
