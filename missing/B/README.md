@@ -1108,6 +1108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balls Out | 119651 | [119651-balls-out.json](./119651-balls-out.json) |
 | Balls Out of Control | 154994 | [154994-balls-out-of-control.json](./154994-balls-out-of-control.json) |
 | Balls Rolling-Plumber, Slither, Line, Fill & Fun! | 108486 | [108486-balls-rolling-plumber-slither-line-fill-and-fun.json](./108486-balls-rolling-plumber-slither-line-fill-and-fun.json) |
+| Balls vs. Maze | 240104 | [240104-balls-vs-maze.json](./240104-balls-vs-maze.json) |
 | Balls! | 99982 | [99982-balls.json](./99982-balls.json) |
 | Balls! Balls! | 163395 | [163395-balls-balls.json](./163395-balls-balls.json) |
 | Balls! Virtual Reality Cricket | 31580 | [31580-balls-virtual-reality-cricket.json](./31580-balls-virtual-reality-cricket.json) |
@@ -5856,6 +5857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blacksmith Forger | 231063 | [231063-blacksmith-forger.json](./231063-blacksmith-forger.json) |
 | BlackSmith HIT | 31917 | [31917-blacksmith-hit.json](./31917-blacksmith-hit.json) |
 | Blacksmith Legends | 159348 | [159348-blacksmith-legends.json](./159348-blacksmith-legends.json) |
+| Blacksmith Master | 240253 | [240253-blacksmith-master.json](./240253-blacksmith-master.json) |
 | Blacksmith of the Sand Kingdom | 142258 | [142258-blacksmith-of-the-sand-kingdom.json](./142258-blacksmith-of-the-sand-kingdom.json) |
 | Blacksmith Shop Simulator | 344980 | [344980-blacksmith-shop-simulator.json](./344980-blacksmith-shop-simulator.json) |
 | Blacksmith Simulator | 353951 | [353951-blacksmith-simulator.json](./353951-blacksmith-simulator.json) |
@@ -8721,6 +8723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bow-wow Battle | 398481 | [398481-bow-wow-battle.json](./398481-bow-wow-battle.json) |
 | Bowels of the Beast | 283801 | [283801-bowels-of-the-beast.json](./283801-bowels-of-the-beast.json) |
 | Bowerwhelm | 202423 | [202423-bowerwhelm.json](./202423-bowerwhelm.json) |
+| Bowl 'Em Down | 240106 | [240106-bowl-em-down.json](./240106-bowl-em-down.json) |
 | Bowl-O-Rama | 40271 | [40271-bowl-o-rama.json](./40271-bowl-o-rama.json) |
 | Bowled | 403557 | [403557-bowled.json](./403557-bowled.json) |
 | Bowlers | 384080 | [384080-bowlers.json](./384080-bowlers.json) |
