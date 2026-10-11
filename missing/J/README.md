@@ -315,6 +315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | James Bond 007: Agent Under Fire | 1643 | [1643-james-bond-007-agent-under-fire.json](./1643-james-bond-007-agent-under-fire.json) |
 | James Bond 007: Everything or Nothing | 1644 | [1644-james-bond-007-everything-or-nothing.json](./1644-james-bond-007-everything-or-nothing.json) |
 | James Bond 007: From Russia with Love | 1645 | [1645-james-bond-007-from-russia-with-love.json](./1645-james-bond-007-from-russia-with-love.json) |
+| James Bond 007: From Russia with Love | 248548 | [248548-james-bond-007-from-russia-with-love.json](./248548-james-bond-007-from-russia-with-love.json) |
 | James Bond 007: Goldfinger | 1633 | [1633-james-bond-007-goldfinger.json](./1633-james-bond-007-goldfinger.json) |
 | James Bond 007: Nightfire | 290069 | [290069-james-bond-007-nightfire.json](./290069-james-bond-007-nightfire.json) |
 | James Bond 007: Quantum of Solace | 1646 | [1646-james-bond-007-quantum-of-solace.json](./1646-james-bond-007-quantum-of-solace.json) |
