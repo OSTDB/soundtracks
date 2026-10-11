@@ -5451,6 +5451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memories: Millennium Girl | 263206 | [263206-memories-millennium-girl.json](./263206-memories-millennium-girl.json) |
 | Memories: Remember Me | 378008 | [378008-memories-remember-me.json](./378008-memories-remember-me.json) |
 | Memories: Silenced | 403100 | [403100-memories-silenced.json](./403100-memories-silenced.json) |
+| Memorion | 273824 | [273824-memorion.json](./273824-memorion.json) |
 | Memorise: Creation | 112969 | [112969-memorise-creation.json](./112969-memorise-creation.json) |
 | Memorize 2 | 100760 | [100760-memorize-2.json](./100760-memorize-2.json) |
 | Memorize 3 | 100753 | [100753-memorize-3.json](./100753-memorize-3.json) |
@@ -6914,6 +6915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight on the Milky Way | 161175 | [161175-midnight-on-the-milky-way.json](./161175-midnight-on-the-milky-way.json) |
 | Midnight Outlaw: 6 Hours to Sun Up | 29192 | [29192-midnight-outlaw-6-hours-to-sun-up.json](./29192-midnight-outlaw-6-hours-to-sun-up.json) |
 | Midnight Pool | 21800 | [21800-midnight-pool.json](./21800-midnight-pool.json) |
+| Midnight Pool 3 | 273841 | [273841-midnight-pool-3.json](./273841-midnight-pool-3.json) |
 | Midnight Postman | 342907 | [342907-midnight-postman.json](./342907-midnight-postman.json) |
 | Midnight Pulse | 106157 | [106157-midnight-pulse.json](./106157-midnight-pulse.json) |
 | Midnight Racer | 290523 | [290523-midnight-racer.json](./290523-midnight-racer.json) |
