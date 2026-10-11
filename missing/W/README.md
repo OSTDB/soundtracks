@@ -806,6 +806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warehouse Simulator: Forklift Driver | 190070 | [190070-warehouse-simulator-forklift-driver.json](./190070-warehouse-simulator-forklift-driver.json) |
 | Warehuman | 201685 | [201685-warehuman.json](./201685-warehuman.json) |
 | Warera Mitsurin Tankentai!! | 179034 | [179034-warera-mitsurin-tankentai.json](./179034-warera-mitsurin-tankentai.json) |
+| Warf | 262881 | [262881-warf.json](./262881-warf.json) |
 | Warface | 1912 | [1912-warface.json](./1912-warface.json) |
 | Warface: Chernobyl | 114759 | [114759-warface-chernobyl.json](./114759-warface-chernobyl.json) |
 | Warface: Clutch | 284415 | [284415-warface-clutch.json](./284415-warface-clutch.json) |
@@ -3946,6 +3947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WireWalking | 284836 | [284836-wirewalking.json](./284836-wirewalking.json) |
 | Wirtschaftsgiganten | 98968 | [98968-wirtschaftsgiganten.json](./98968-wirtschaftsgiganten.json) |
 | Wisdom | 149196 | [149196-wisdom.json](./149196-wisdom.json) |
+| Wisdom Watcher | 262854 | [262854-wisdom-watcher.json](./262854-wisdom-watcher.json) |
 | WisdomGems | 310091 | [310091-wisdomgems.json](./310091-wisdomgems.json) |
 | Wise Escape From Prison | 368022 | [368022-wise-escape-from-prison.json](./368022-wise-escape-from-prison.json) |
 | Wise in the Heights | 358330 | [358330-wise-in-the-heights.json](./358330-wise-in-the-heights.json) |
@@ -4999,6 +5001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Class Baseball | 37734 | [37734-world-class-baseball.json](./37734-world-class-baseball.json) |
 | World Class Fussball/Soccer | 175907 | [175907-world-class-fussball-soccer.json](./175907-world-class-fussball-soccer.json) |
 | World Class Golf | 239338 | [239338-world-class-golf.json](./239338-world-class-golf.json) |
+| World Class Leaderboard Golf | 262861 | [262861-world-class-leaderboard-golf.json](./262861-world-class-leaderboard-golf.json) |
 | World Class Rugby 2 | 37766 | [37766-world-class-rugby-2.json](./37766-world-class-rugby-2.json) |
 | World Class Rugby 2: Kokunai Gekitou-hen '93 | 60508 | [60508-world-class-rugby-2-kokunai-gekitou-hen-93.json](./60508-world-class-rugby-2-kokunai-gekitou-hen-93.json) |
 | World Class Rugby: Five Nations Edition | 396768 | [396768-world-class-rugby-five-nations-edition.json](./396768-world-class-rugby-five-nations-edition.json) |
