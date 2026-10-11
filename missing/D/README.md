@@ -3605,6 +3605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delicious Letters | 176982 | [176982-delicious-letters.json](./176982-delicious-letters.json) |
 | Delicious Vinyl DJ | 21778 | [21778-delicious-vinyl-dj.json](./21778-delicious-vinyl-dj.json) |
 | Delicious World | 227476 | [227476-delicious-world.json](./227476-delicious-world.json) |
+| Delicious: Cooking and Romance | 270063 | [270063-delicious-cooking-and-romance.json](./270063-delicious-cooking-and-romance.json) |
 | Delicious: Emily's Big Surprise | 322569 | [322569-delicious-emilys-big-surprise.json](./322569-delicious-emilys-big-surprise.json) |
 | Delicious: Emily's Holiday Season | 89536 | [89536-delicious-emilys-holiday-season.json](./89536-delicious-emilys-holiday-season.json) |
 | Delicious: Emily's Honeymoon Cruise | 145628 | [145628-delicious-emilys-honeymoon-cruise.json](./145628-delicious-emilys-honeymoon-cruise.json) |
@@ -7509,6 +7510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Crash: The Political Game | 159863 | [159863-dont-crash-the-political-game.json](./159863-dont-crash-the-political-game.json) |
 | Don't Cross the Line | 85091 | [85091-dont-cross-the-line.json](./85091-dont-cross-the-line.json) |
 | Don't Cut Your Hand 2 | 158729 | [158729-dont-cut-your-hand-2.json](./158729-dont-cut-your-hand-2.json) |
+| Don't Destroy Your Friends | 270024 | [270024-dont-destroy-your-friends.json](./270024-dont-destroy-your-friends.json) |
 | Don't Die | 151570 | [151570-dont-die.json](./151570-dont-die.json) |
 | Don't Die | 343339 | [343339-dont-die.json](./343339-dont-die.json) |
 | Don't Die Alone | 256788 | [256788-dont-die-alone.json](./256788-dont-die-alone.json) |
@@ -8751,6 +8753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dracula's Castle | 277490 | [277490-draculas-castle.json](./277490-draculas-castle.json) |
 | Dracula's Legacy | 34613 | [34613-draculas-legacy.json](./34613-draculas-legacy.json) |
 | Dracula's Library | 43142 | [43142-draculas-library.json](./43142-draculas-library.json) |
+| Dracula's Prey: A Nightmare in Rome | 270020 | [270020-draculas-prey-a-nightmare-in-rome.json](./270020-draculas-prey-a-nightmare-in-rome.json) |
 | Dracula's Secret | 73228 | [73228-draculas-secret.json](./73228-draculas-secret.json) |
 | Dracula’s Vengeance | 249206 | [249206-dracula-s-vengeance.json](./249206-dracula-s-vengeance.json) |
 | Draculator II: Byte of the Draculator | 168389 | [168389-draculator-ii-byte-of-the-draculator.json](./168389-draculator-ii-byte-of-the-draculator.json) |
@@ -8771,6 +8774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draft Day Sports: Pro Basketball 2023 | 226201 | [226201-draft-day-sports-pro-basketball-2023.json](./226201-draft-day-sports-pro-basketball-2023.json) |
 | Draft Day Sports: Pro Basketball 26 | 375553 | [375553-draft-day-sports-pro-basketball-26.json](./375553-draft-day-sports-pro-basketball-26.json) |
 | Draft Day Sports: Pro Football 2016 | 102142 | [102142-draft-day-sports-pro-football-2016.json](./102142-draft-day-sports-pro-football-2016.json) |
+| Draft Day Sports: Pro Football 2024 | 270031 | [270031-draft-day-sports-pro-football-2024.json](./270031-draft-day-sports-pro-football-2024.json) |
 | Draft Day Sports: Pro Golf | 105388 | [105388-draft-day-sports-pro-golf.json](./105388-draft-day-sports-pro-golf.json) |
 | Drafting Tales | 116055 | [116055-drafting-tales.json](./116055-drafting-tales.json) |
 | DraftPunk | 388916 | [388916-draftpunk.json](./388916-draftpunk.json) |
