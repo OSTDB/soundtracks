@@ -1627,6 +1627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FarmCraft | 264584 | [264584-farmcraft.json](./264584-farmcraft.json) |
 | Farmcraft 2 | 411590 | [411590-farmcraft-2.json](./411590-farmcraft-2.json) |
 | FarmD | 368102 | [368102-farmd.json](./368102-farmd.json) |
+| Farmdale | 266125 | [266125-farmdale.json](./266125-farmdale.json) |
 | Farmer Adventure | 186831 | [186831-farmer-adventure.json](./186831-farmer-adventure.json) |
 | Farmer Against Potatoes Idle | 199507 | [199507-farmer-against-potatoes-idle.json](./199507-farmer-against-potatoes-idle.json) |
 | Farmer and Zombie | 286008 | [286008-farmer-and-zombie.json](./286008-farmer-and-zombie.json) |
@@ -1886,6 +1887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fat 2 Fit! | 152289 | [152289-fat-2-fit.json](./152289-fat-2-fit.json) |
 | Fat Albert | 320981 | [320981-fat-albert.json](./320981-fat-albert.json) |
 | Fat Baby | 186036 | [186036-fat-baby.json](./186036-fat-baby.json) |
+| Fat Birds | 266134 | [266134-fat-birds.json](./266134-fat-birds.json) |
 | Fat Birds Build a Bridge! | 88447 | [88447-fat-birds-build-a-bridge.json](./88447-fat-birds-build-a-bridge.json) |
 | Fat Cat & Airship | 243177 | [243177-fat-cat-and-airship.json](./243177-fat-cat-and-airship.json) |
 | Fat Chicken | 17891 | [17891-fat-chicken.json](./17891-fat-chicken.json) |
@@ -2991,6 +2993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fill Up the Hole | 346799 | [346799-fill-up-the-hole.json](./346799-fill-up-the-hole.json) |
 | Fill Up! | 34379 | [34379-fill-up.json](./34379-fill-up.json) |
 | Fille Fatale Compassion | 388211 | [388211-fille-fatale-compassion.json](./388211-fille-fatale-compassion.json) |
+| Filled to the Limit | 266113 | [266113-filled-to-the-limit.json](./266113-filled-to-the-limit.json) |
 | Filler | 261210 | [261210-filler.json](./261210-filler.json) |
 | Filler | 308441 | [308441-filler.json](./308441-filler.json) |
 | Fillet Fury | 337288 | [337288-fillet-fury.json](./337288-fillet-fury.json) |
@@ -4577,6 +4580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flappy Souls | 249191 | [249191-flappy-souls.json](./249191-flappy-souls.json) |
 | Flappy Spaceship | 185420 | [185420-flappy-spaceship.json](./185420-flappy-spaceship.json) |
 | Flappy Special | 64124 | [64124-flappy-special.json](./64124-flappy-special.json) |
+| Flappy Toss | 266151 | [266151-flappy-toss.json](./266151-flappy-toss.json) |
 | Flappy Trumpadore | 28206 | [28206-flappy-trumpadore.json](./28206-flappy-trumpadore.json) |
 | Flappy Ugandan Knuckles | 308965 | [308965-flappy-ugandan-knuckles.json](./308965-flappy-ugandan-knuckles.json) |
 | Flappy Wings | 226423 | [226423-flappy-wings.json](./226423-flappy-wings.json) |
@@ -5320,6 +5324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fly Together! | 146215 | [146215-fly-together.json](./146215-fly-together.json) |
 | Fly Wars | 59662 | [59662-fly-wars.json](./59662-fly-wars.json) |
 | Fly Wheel | 272213 | [272213-fly-wheel.json](./272213-fly-wheel.json) |
+| Fly With The Yellow Crane | 266116 | [266116-fly-with-the-yellow-crane.json](./266116-fly-with-the-yellow-crane.json) |
 | Fly, Glowfly! | 34117 | [34117-fly-glowfly.json](./34117-fly-glowfly.json) |
 | FLY: Forever Loving You | 179676 | [179676-fly-forever-loving-you.json](./179676-fly-forever-loving-you.json) |
 | Fly! | 69847 | [69847-fly.json](./69847-fly.json) |
@@ -6473,6 +6478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortress 2 Blue | 340237 | [340237-fortress-2-blue.json](./340237-fortress-2-blue.json) |
 | Fortress Connected | 410476 | [410476-fortress-connected.json](./410476-fortress-connected.json) |
 | Fortress Conquest | 175219 | [175219-fortress-conquest.json](./175219-fortress-conquest.json) |
+| Fortress Defense | 266117 | [266117-fortress-defense.json](./266117-fortress-defense.json) |
 | Fortress Europe | 61897 | [61897-fortress-europe.json](./61897-fortress-europe.json) |
 | Fortress Forge | 310928 | [310928-fortress-forge.json](./310928-fortress-forge.json) |
 | Fortress Guardian | 394140 | [394140-fortress-guardian.json](./394140-fortress-guardian.json) |
