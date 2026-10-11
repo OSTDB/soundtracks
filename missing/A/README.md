@@ -5284,6 +5284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Among Us: Crewmate Edition | 155093 | [155093-among-us-crewmate-edition.json](./155093-among-us-crewmate-edition.json) |
 | Among Us: Ejected Edition | 155092 | [155092-among-us-ejected-edition.json](./155092-among-us-ejected-edition.json) |
 | Among Us: Impostor Edition | 155094 | [155094-among-us-impostor-edition.json](./155094-among-us-impostor-edition.json) |
+| Among Us: The Fungle | 266689 | [266689-among-us-the-fungle.json](./266689-among-us-the-fungle.json) |
 | Among Waifus 18+ | 188409 | [188409-among-waifus-18.json](./188409-among-waifus-18.json) |
 | Among Walls | 196674 | [196674-among-walls.json](./196674-among-walls.json) |
 | Amora | 102876 | [102876-amora.json](./102876-amora.json) |
@@ -6453,6 +6454,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Another Century's Episode: R | 7270 | [7270-another-centurys-episode-r.json](./7270-another-centurys-episode-r.json) |
 | Another Chance | 253484 | [253484-another-chance.json](./253484-another-chance.json) |
 | Another Christmas Game | 326043 | [326043-another-christmas-game.json](./326043-another-christmas-game.json) |
+| Another Code: R - A Journey into Lost Memories | 266696 | [266696-another-code-r-a-journey-into-lost-memories.json](./266696-another-code-r-a-journey-into-lost-memories.json) |
+| Another Code: Two Memories | 266694 | [266694-another-code-two-memories.json](./266694-another-code-two-memories.json) |
 | Another Crab's Treasure: Year of the Crab | 349894 | [349894-another-crabs-treasure-year-of-the-crab.json](./349894-another-crabs-treasure-year-of-the-crab.json) |
 | Another Crabs Treasure Prototype | 371331 | [371331-another-crabs-treasure-prototype.json](./371331-another-crabs-treasure-prototype.json) |
 | Another Crusade | 135681 | [135681-another-crusade.json](./135681-another-crusade.json) |
