@@ -4390,6 +4390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loli Racing | 292291 | [292291-loli-racing.json](./292291-loli-racing.json) |
 | Lolita 2 | 66128 | [66128-lolita-2.json](./66128-lolita-2.json) |
 | Lolita Expedition | 370885 | [370885-lolita-expedition.json](./370885-lolita-expedition.json) |
+| Lollihop | 277811 | [277811-lollihop.json](./277811-lollihop.json) |
 | Lollipop | 198329 | [198329-lollipop.json](./198329-lollipop.json) |
 | Lollipop Chainsaw | 1284 | [1284-lollipop-chainsaw.json](./1284-lollipop-chainsaw.json) |
 | Lollipop Chainsaw RePop: Nintendo Switch 2 Edition | 401101 | [401101-lollipop-chainsaw-repop-nintendo-switch-2-edition.json](./401101-lollipop-chainsaw-repop-nintendo-switch-2-edition.json) |
@@ -5702,6 +5703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucid Cycle | 149940 | [149940-lucid-cycle.json](./149940-lucid-cycle.json) |
 | Lucid Deep | 132774 | [132774-lucid-deep.json](./132774-lucid-deep.json) |
 | Lucid Dream | 202933 | [202933-lucid-dream.json](./202933-lucid-dream.json) |
+| Lucid Night | 277800 | [277800-lucid-night.json](./277800-lucid-night.json) |
 | Lucid Nightmares | 355126 | [355126-lucid-nightmares.json](./355126-lucid-nightmares.json) |
 | Lucid Path | 108065 | [108065-lucid-path.json](./108065-lucid-path.json) |
 | Lucid Soul | 153488 | [153488-lucid-soul.json](./153488-lucid-soul.json) |
