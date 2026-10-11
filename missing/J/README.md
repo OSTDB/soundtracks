@@ -789,6 +789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jet Set Willy: Online | 92850 | [92850-jet-set-willy-online.json](./92850-jet-set-willy-online.json) |
 | Jet Ski Addition | 397204 | [397204-jet-ski-addition.json](./397204-jet-ski-addition.json) |
 | Jet Ski Driving | 231943 | [231943-jet-ski-driving.json](./231943-jet-ski-driving.json) |
+| Jet Ski Mania: Aquatic Adrenaline Rush | 276119 | [276119-jet-ski-mania-aquatic-adrenaline-rush.json](./276119-jet-ski-mania-aquatic-adrenaline-rush.json) |
 | Jet Skiing | 246506 | [246506-jet-skiing.json](./246506-jet-skiing.json) |
 | Jet Trains | 174200 | [174200-jet-trains.json](./174200-jet-trains.json) |
 | Jet-Getters | 61715 | [61715-jet-getters.json](./61715-jet-getters.json) |
