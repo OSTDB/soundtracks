@@ -2737,6 +2737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Warbots | 345089 | [345089-age-of-warbots.json](./345089-age-of-warbots.json) |
 | Age of Warscape | 28209 | [28209-age-of-warscape.json](./28209-age-of-warscape.json) |
 | Age of Wonders | 589 | [589-age-of-wonders.json](./589-age-of-wonders.json) |
+| Age of Wonders 4: Dragon Dawn | 252621 | [252621-age-of-wonders-4-dragon-dawn.json](./252621-age-of-wonders-4-dragon-dawn.json) |
 | Age of Wonders 4: Empires & Ashes | 259051 | [259051-age-of-wonders-4-empires-and-ashes.json](./259051-age-of-wonders-4-empires-and-ashes.json) |
 | Age of Wonders 4: Expansion Pass | 293731 | [293731-age-of-wonders-4-expansion-pass.json](./293731-age-of-wonders-4-expansion-pass.json) |
 | Age of Wonders 4: Herald of Glory | 371134 | [371134-age-of-wonders-4-herald-of-glory.json](./371134-age-of-wonders-4-herald-of-glory.json) |
@@ -6571,6 +6572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Another Way of Gettin' Paid | 319235 | [319235-another-way-of-gettin-paid.json](./319235-another-way-of-gettin-paid.json) |
 | Another Way Out | 316762 | [316762-another-way-out.json](./316762-another-way-out.json) |
 | Another World | 176847 | [176847-another-world.json](./176847-another-world.json) |
+| Another World | 252601 | [252601-another-world.json](./252601-another-world.json) |
 | Another World | 343435 | [343435-another-world.json](./343435-another-world.json) |
 | Another World | 343437 | [343437-another-world.json](./343437-another-world.json) |
 | Another World | 392454 | [392454-another-world.json](./392454-another-world.json) |
@@ -8772,6 +8774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Art-Therapy: Diamonds | 388337 | [388337-art-therapy-diamonds.json](./388337-art-therapy-diamonds.json) |
 | Art-Therapy: Jigsaw Puzzle | 357873 | [357873-art-therapy-jigsaw-puzzle.json](./357873-art-therapy-jigsaw-puzzle.json) |
 | Art-Therapy: Portraits | 389119 | [389119-art-therapy-portraits.json](./389119-art-therapy-portraits.json) |
+| Art: Das Kunstmagazin Puzzle: Echter Puzzlespass für Unterwegs | 252659 | [252659-art-das-kunstmagazin-puzzle-echter-puzzlespass-fur-unterwegs.json](./252659-art-das-kunstmagazin-puzzle-echter-puzzlespass-fur-unterwegs.json) |
 | Art&.. More | 263659 | [263659-art-and-more.json](./263659-art-and-more.json) |
 | Art7 | 208429 | [208429-art7.json](./208429-art7.json) |
 | Artania | 54998 | [54998-artania.json](./54998-artania.json) |
@@ -11117,6 +11120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Azera Online | 76612 | [76612-azera-online.json](./76612-azera-online.json) |
 | Azhar Erriad: Destruction | 362760 | [362760-azhar-erriad-destruction.json](./362760-azhar-erriad-destruction.json) |
 | Azimech | 156220 | [156220-azimech.json](./156220-azimech.json) |
+| Azimuth | 252655 | [252655-azimuth.json](./252655-azimuth.json) |
 | Azimuth | 395550 | [395550-azimuth.json](./395550-azimuth.json) |
 | Azimuth: Head Alignment Kit | 13829 | [13829-azimuth-head-alignment-kit.json](./13829-azimuth-head-alignment-kit.json) |
 | Azito | 63270 | [63270-azito.json](./63270-azito.json) |
