@@ -4853,7 +4853,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | She Was 98 | 385327 | [385327-she-was-98.json](./385327-she-was-98.json) |
 | She Who Fights Monsters: Choice Edition | 186168 | [186168-she-who-fights-monsters-choice-edition.json](./186168-she-who-fights-monsters-choice-edition.json) |
 | She Will Shoot | 173250 | [173250-she-will-shoot.json](./173250-she-will-shoot.json) |
-| SHE: Seraphim Helix Experiment | 404877 | [404877-she-seraphim-helix-experiment.json](./404877-she-seraphim-helix-experiment.json) |
 | She's a Bit Sluggish | 179109 | [179109-shes-a-bit-sluggish.json](./179109-shes-a-bit-sluggish.json) |
 | She's Got a Thing for a Spring | 217773 | [217773-shes-got-a-thing-for-a-spring.json](./217773-shes-got-a-thing-for-a-spring.json) |
 | She's Leaving | 342811 | [342811-shes-leaving.json](./342811-shes-leaving.json) |
@@ -14135,6 +14134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sporos | 203314 | [203314-sporos.json](./203314-sporos.json) |
 | Sport & Fun: Swimming - Amazing Edition | 283165 | [283165-sport-and-fun-swimming-amazing-edition.json](./283165-sport-and-fun-swimming-amazing-edition.json) |
 | Sport & Fun: Swimming - Complete + | 328836 | [328836-sport-and-fun-swimming-complete.json](./328836-sport-and-fun-swimming-complete.json) |
+| Sport & Fun: Swimming - Complete Edition | 260052 | [260052-sport-and-fun-swimming-complete-edition.json](./260052-sport-and-fun-swimming-complete-edition.json) |
 | Sport & Fun: Swimming - Director's Cut | 271834 | [271834-sport-and-fun-swimming-directors-cut.json](./271834-sport-and-fun-swimming-directors-cut.json) |
 | Sport & Fun: Swimming - Extended Edition | 246887 | [246887-sport-and-fun-swimming-extended-edition.json](./246887-sport-and-fun-swimming-extended-edition.json) |
 | Sport & Fun: Swimming - GOTY Edition | 277908 | [277908-sport-and-fun-swimming-goty-edition.json](./277908-sport-and-fun-swimming-goty-edition.json) |
@@ -16830,6 +16830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StickMan vs. MagicWorld | 265596 | [265596-stickman-vs-magicworld.json](./265596-stickman-vs-magicworld.json) |
 | Stickman War Lightsaber Games | 100746 | [100746-stickman-war-lightsaber-games.json](./100746-stickman-war-lightsaber-games.json) |
 | Stickman War: Stick Fight Army | 248160 | [248160-stickman-war-stick-fight-army.json](./248160-stickman-war-stick-fight-army.json) |
+| Stickman Warriors | 260057 | [260057-stickman-warriors.json](./260057-stickman-warriors.json) |
 | Stickman Warriors | 323203 | [323203-stickman-warriors.json](./323203-stickman-warriors.json) |
 | Stickman Warriors Craft | 100834 | [100834-stickman-warriors-craft.json](./100834-stickman-warriors-craft.json) |
 | Stickman World | 87250 | [87250-stickman-world.json](./87250-stickman-world.json) |
@@ -18175,6 +18176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Submachine 3: The Loop | 129548 | [129548-submachine-3-the-loop.json](./129548-submachine-3-the-loop.json) |
 | Submachine 4: The Lab | 129549 | [129549-submachine-4-the-lab.json](./129549-submachine-4-the-lab.json) |
 | Submachine 5: The Root | 129550 | [129550-submachine-5-the-root.json](./129550-submachine-5-the-root.json) |
+| Submachine 5: The Root | 260066 | [260066-submachine-5-the-root.json](./260066-submachine-5-the-root.json) |
 | Submachine 6: The Edge | 129551 | [129551-submachine-6-the-edge.json](./129551-submachine-6-the-edge.json) |
 | Submachine 6: The Edge | 260728 | [260728-submachine-6-the-edge.json](./260728-submachine-6-the-edge.json) |
 | Submachine 7: The Core | 129552 | [129552-submachine-7-the-core.json](./129552-submachine-7-the-core.json) |
