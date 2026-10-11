@@ -1209,6 +1209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garfield Labyrinth | 153452 | [153452-garfield-labyrinth.json](./153452-garfield-labyrinth.json) |
 | Garfield Rush | 130887 | [130887-garfield-rush.json](./130887-garfield-rush.json) |
 | Garfield Snack Time | 99217 | [99217-garfield-snack-time.json](./99217-garfield-snack-time.json) |
+| Garfield Trivia Game | 253795 | [253795-garfield-trivia-game.json](./253795-garfield-trivia-game.json) |
 | Garfield: A Tail of Two Kitties - Garfield's Maze Game | 325089 | [325089-garfield-a-tail-of-two-kitties-garfields-maze-game.json](./325089-garfield-a-tail-of-two-kitties-garfields-maze-game.json) |
 | Garfield: A Tail of Two Kitties - Odie's Photo Album Game | 325088 | [325088-garfield-a-tail-of-two-kitties-odies-photo-album-game.json](./325088-garfield-a-tail-of-two-kitties-odies-photo-album-game.json) |
 | Garfield: Attack of the Mutant Lasagna | 73339 | [73339-garfield-attack-of-the-mutant-lasagna.json](./73339-garfield-attack-of-the-mutant-lasagna.json) |
