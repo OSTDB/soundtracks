@@ -813,6 +813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NBA 2K22: NBA 75th Anniversary Edition | 158594 | [158594-nba-2k22-nba-75th-anniversary-edition.json](./158594-nba-2k22-nba-75th-anniversary-edition.json) |
 | NBA 2K22: WNBA 25th Anniversary Edition | 158595 | [158595-nba-2k22-wnba-25th-anniversary-edition.json](./158595-nba-2k22-wnba-25th-anniversary-edition.json) |
 | NBA 2K24: 25th Anniversary Edition | 265738 | [265738-nba-2k24-25th-anniversary-edition.json](./265738-nba-2k24-25th-anniversary-edition.json) |
+| NBA 2K24: Black Mamba Edition | 256201 | [256201-nba-2k24-black-mamba-edition.json](./256201-nba-2k24-black-mamba-edition.json) |
 | NBA 2K25 | 308034 | [308034-nba-2k25.json](./308034-nba-2k25.json) |
 | NBA 2K25 x TopSpin 2K25 Bundle | 331476 | [331476-nba-2k25-x-topspin-2k25-bundle.json](./331476-nba-2k25-x-topspin-2k25-bundle.json) |
 | NBA 2K25 x WWE 2K24 Bundle | 331477 | [331477-nba-2k25-x-wwe-2k24-bundle.json](./331477-nba-2k25-x-wwe-2k24-bundle.json) |
@@ -4716,6 +4717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Numanuin | 235364 | [235364-numanuin.json](./235364-numanuin.json) |
 | Numb Nimbus | 271183 | [271183-numb-nimbus.json](./271183-numb-nimbus.json) |
 | Numb: Just Don't Think About It | 255103 | [255103-numb-just-dont-think-about-it.json](./255103-numb-just-dont-think-about-it.json) |
+| Numb3r Catch3r | 256164 | [256164-numb3r-catch3r.json](./256164-numb3r-catch3r.json) |
 | Numbako | 419190 | [419190-numbako.json](./419190-numbako.json) |
 | Numbala | 111453 | [111453-numbala.json](./111453-numbala.json) |
 | Number 7 | 291000 | [291000-number-7.json](./291000-number-7.json) |
