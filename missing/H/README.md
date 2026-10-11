@@ -6321,6 +6321,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horse | 114273 | [114273-horse.json](./114273-horse.json) |
 | Horse & Horse | 401802 | [401802-horse-and-horse.json](./401802-horse-and-horse.json) |
 | Horse 2 | 339396 | [339396-horse-2.json](./339396-horse-2.json) |
+| Horse Club Adventures 2: Gold Edition | 252625 | [252625-horse-club-adventures-2-gold-edition.json](./252625-horse-club-adventures-2-gold-edition.json) |
+| Horse Club Adventures 2: Secrets of Skeifa | 252624 | [252624-horse-club-adventures-2-secrets-of-skeifa.json](./252624-horse-club-adventures-2-secrets-of-skeifa.json) |
+| Horse Club Adventures: Complete Collection | 252627 | [252627-horse-club-adventures-complete-collection.json](./252627-horse-club-adventures-complete-collection.json) |
 | Horse Dash | 349806 | [349806-horse-dash.json](./349806-horse-dash.json) |
 | Horse Divorce | 178032 | [178032-horse-divorce.json](./178032-horse-divorce.json) |
 | Horse Evolutions | 357853 | [357853-horse-evolutions.json](./357853-horse-evolutions.json) |
