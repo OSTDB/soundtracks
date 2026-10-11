@@ -3072,6 +3072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Intergalactic Fishing | 111754 | [111754-intergalactic-fishing.json](./111754-intergalactic-fishing.json) |
 | Intergalactic Galactic Dinosaur Banana | 85537 | [85537-intergalactic-galactic-dinosaur-banana.json](./85537-intergalactic-galactic-dinosaur-banana.json) |
 | Intergalactic Gus | 109482 | [109482-intergalactic-gus.json](./109482-intergalactic-gus.json) |
+| Intergalactic Mystery | 258913 | [258913-intergalactic-mystery.json](./258913-intergalactic-mystery.json) |
 | Intergalactic Panic!! | 236967 | [236967-intergalactic-panic.json](./236967-intergalactic-panic.json) |
 | Intergalactic Space Rescue | 85517 | [85517-intergalactic-space-rescue.json](./85517-intergalactic-space-rescue.json) |
 | Intergalactic Taxi Co. | 201124 | [201124-intergalactic-taxi-co.json](./201124-intergalactic-taxi-co.json) |
