@@ -3979,6 +3979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isle of Jura Fishing Trip: Ultimate Edition | 251689 | [251689-isle-of-jura-fishing-trip-ultimate-edition.json](./251689-isle-of-jura-fishing-trip-ultimate-edition.json) |
 | Isle of Lament | 375990 | [375990-isle-of-lament.json](./375990-isle-of-lament.json) |
 | Isle of Leil | 236331 | [236331-isle-of-leil.json](./236331-isle-of-leil.json) |
+| Isle of Maligree | 260582 | [260582-isle-of-maligree.json](./260582-isle-of-maligree.json) |
 | Isle of Rein | 207397 | [207397-isle-of-rein.json](./207397-isle-of-rein.json) |
 | Isle of Reveries | 311611 | [311611-isle-of-reveries.json](./311611-isle-of-reveries.json) |
 | Isle of Skye | 105479 | [105479-isle-of-skye.json](./105479-isle-of-skye.json) |
