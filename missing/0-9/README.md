@@ -400,6 +400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Ninja Cats | 283034 | [283034-100-ninja-cats.json](./283034-100-ninja-cats.json) |
 | 100 Percent Star | 45233 | [45233-100-percent-star.json](./45233-100-percent-star.json) |
 | 100 Pics Quiz | 70890 | [70890-100-pics-quiz.json](./70890-100-pics-quiz.json) |
+| 100 Pumpkins 2 | 272777 | [272777-100-pumpkins-2.json](./272777-100-pumpkins-2.json) |
 | 100 Radioactive Cats | 379455 | [379455-100-radioactive-cats.json](./379455-100-radioactive-cats.json) |
 | 100 Rogues | 22347 | [22347-100-rogues.json](./22347-100-rogues.json) |
 | 100 Romantic Cats | 287352 | [287352-100-romantic-cats.json](./287352-100-romantic-cats.json) |
