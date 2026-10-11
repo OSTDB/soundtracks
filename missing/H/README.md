@@ -2502,6 +2502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell Inspector's Mod of Stupidity | 280765 | [280765-hell-inspectors-mod-of-stupidity.json](./280765-hell-inspectors-mod-of-stupidity.json) |
 | Hell Invades Heaven | 190165 | [190165-hell-invades-heaven.json](./190165-hell-invades-heaven.json) |
 | Hell Is Empty, Demons Are Playing Apokerlypse | 399129 | [399129-hell-is-empty-demons-are-playing-apokerlypse.json](./399129-hell-is-empty-demons-are-playing-apokerlypse.json) |
+| Hell is Others: Good Neighbor Pack | 262886 | [262886-hell-is-others-good-neighbor-pack.json](./262886-hell-is-others-good-neighbor-pack.json) |
 | Hell is Us: Deluxe Edition | 331310 | [331310-hell-is-us-deluxe-edition.json](./331310-hell-is-us-deluxe-edition.json) |
 | Hell Is Us: Hollow Walker Pack | 360092 | [360092-hell-is-us-hollow-walker-pack.json](./360092-hell-is-us-hollow-walker-pack.json) |
 | Hell Is Us: Military Pack | 360094 | [360094-hell-is-us-military-pack.json](./360094-hell-is-us-military-pack.json) |
@@ -2559,6 +2560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell Survive | 75787 | [75787-hell-survive.json](./75787-hell-survive.json) |
 | Hell Survivors | 302694 | [302694-hell-survivors.json](./302694-hell-survivors.json) |
 | Hell Takes All | 278137 | [278137-hell-takes-all.json](./278137-hell-takes-all.json) |
+| Hell Throne | 262845 | [262845-hell-throne.json](./262845-hell-throne.json) |
 | Hell to Raze | 132702 | [132702-hell-to-raze.json](./132702-hell-to-raze.json) |
 | Hell Trigger | 253440 | [253440-hell-trigger.json](./253440-hell-trigger.json) |
 | Hell Unearthed | 261445 | [261445-hell-unearthed.json](./261445-hell-unearthed.json) |
@@ -3472,6 +3474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Here There Be Bears | 247993 | [247993-here-there-be-bears.json](./247993-here-there-be-bears.json) |
 | Here They Lie | 19572 | [19572-here-they-lie.json](./19572-here-they-lie.json) |
 | Here to There | 204419 | [204419-here-to-there.json](./204419-here-to-there.json) |
+| Here We Exist | 262846 | [262846-here-we-exist.json](./262846-here-we-exist.json) |
 | Hereafter | 287147 | [287147-hereafter.json](./287147-hereafter.json) |
 | Hereafter | 47988 | [47988-hereafter.json](./47988-hereafter.json) |
 | Hereford 1642 | 190138 | [190138-hereford-1642.json](./190138-hereford-1642.json) |
@@ -5047,6 +5050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Historic Fighters | 161370 | [161370-historic-fighters.json](./161370-historic-fighters.json) |
 | Historical Invaders | 291880 | [291880-historical-invaders.json](./291880-historical-invaders.json) |
 | Historical Trilogy | 218494 | [218494-historical-trilogy.json](./218494-historical-trilogy.json) |
+| HistoriCity: Florence | 262859 | [262859-historicity-florence.json](./262859-historicity-florence.json) |
 | Historium VR - Relive the history of Bruges | 30290 | [30290-historium-vr-relive-the-history-of-bruges.json](./30290-historium-vr-relive-the-history-of-bruges.json) |
 | History in Letters - The Eternal Alchemist | 36226 | [36226-history-in-letters-the-eternal-alchemist.json](./36226-history-in-letters-the-eternal-alchemist.json) |
 | History Lesson | 139388 | [139388-history-lesson.json](./139388-history-lesson.json) |
@@ -6185,6 +6189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hormones of the Dead | 405601 | [405601-hormones-of-the-dead.json](./405601-hormones-of-the-dead.json) |
 | Horn and Shields | 319959 | [319959-horn-and-shields.json](./319959-horn-and-shields.json) |
 | Horn of Balance | 296912 | [296912-horn-of-balance.json](./296912-horn-of-balance.json) |
+| Horn Sounds | 262887 | [262887-horn-sounds.json](./262887-horn-sounds.json) |
 | Horn-Nie | 291037 | [291037-horn-nie.json](./291037-horn-nie.json) |
 | Hornet the Vanguard | 303572 | [303572-hornet-the-vanguard.json](./303572-hornet-the-vanguard.json) |
 | Horns of Fear | 74436 | [74436-horns-of-fear.json](./74436-horns-of-fear.json) |
