@@ -2953,6 +2953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nights at the Convenience Store | 408014 | [408014-nights-at-the-convenience-store.json](./408014-nights-at-the-convenience-store.json) |
 | Nights in Endless Dream | 388366 | [388366-nights-in-endless-dream.json](./388366-nights-in-endless-dream.json) |
 | Nights into Dreams | 199025 | [199025-nights-into-dreams.json](./199025-nights-into-dreams.json) |
+| Nights into Dreams: Pizza Tower | 265072 | [265072-nights-into-dreams-pizza-tower.json](./265072-nights-into-dreams-pizza-tower.json) |
 | Nights Into Dreams: Score Attack | 309017 | [309017-nights-into-dreams-score-attack.json](./309017-nights-into-dreams-score-attack.json) |
 | Nights of Azure 2: Bonus Costume - Blue High School Uniform | 396394 | [396394-nights-of-azure-2-bonus-costume-blue-high-school-uniform.json](./396394-nights-of-azure-2-bonus-costume-blue-high-school-uniform.json) |
 | Nights of Azure: GS Saikyou Combo Set - Super Limited Edition | 212324 | [212324-nights-of-azure-gs-saikyou-combo-set-super-limited-edition.json](./212324-nights-of-azure-gs-saikyou-combo-set-super-limited-edition.json) |
