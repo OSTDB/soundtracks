@@ -3165,6 +3165,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy VII & Final Fantasy VIII Remastered Twin Pack | 127879 | [127879-final-fantasy-vii-and-final-fantasy-viii-remastered-twin-pack.json](./127879-final-fantasy-vii-and-final-fantasy-viii-remastered-twin-pack.json) |
 | Final Fantasy VII + VIII Double Pack | 55049 | [55049-final-fantasy-vii-viii-double-pack.json](./55049-final-fantasy-vii-viii-double-pack.json) |
 | Final Fantasy VII G-Bike | 7398 | [7398-final-fantasy-vii-g-bike.json](./7398-final-fantasy-vii-g-bike.json) |
+| Final Fantasy VII Rebirth: Collector's Edition | 266735 | [266735-final-fantasy-vii-rebirth-collectors-edition.json](./266735-final-fantasy-vii-rebirth-collectors-edition.json) |
+| Final Fantasy VII Rebirth: Deluxe Edition | 266734 | [266734-final-fantasy-vii-rebirth-deluxe-edition.json](./266734-final-fantasy-vii-rebirth-deluxe-edition.json) |
+| Final Fantasy VII Rebirth: Digital Deluxe Edition | 266733 | [266733-final-fantasy-vii-rebirth-digital-deluxe-edition.json](./266733-final-fantasy-vii-rebirth-digital-deluxe-edition.json) |
+| Final Fantasy VII Remake & Rebirth: Digital Deluxe Twin Pack | 266738 | [266738-final-fantasy-vii-remake-and-rebirth-digital-deluxe-twin-pack.json](./266738-final-fantasy-vii-remake-and-rebirth-digital-deluxe-twin-pack.json) |
+| Final Fantasy VII Remake & Rebirth: Twin Pack | 266737 | [266737-final-fantasy-vii-remake-and-rebirth-twin-pack.json](./266737-final-fantasy-vii-remake-and-rebirth-twin-pack.json) |
 | Final Fantasy VII Remake Series Trilogy Edition | 416148 | [416148-final-fantasy-vii-remake-series-trilogy-edition.json](./416148-final-fantasy-vii-remake-series-trilogy-edition.json) |
 | Final Fantasy VII Remake: 1st Class Edition | 136353 | [136353-final-fantasy-vii-remake-1st-class-edition.json](./136353-final-fantasy-vii-remake-1st-class-edition.json) |
 | Final Fantasy VII Remake: Digital Deluxe Edition | 119576 | [119576-final-fantasy-vii-remake-digital-deluxe-edition.json](./119576-final-fantasy-vii-remake-digital-deluxe-edition.json) |
@@ -4245,6 +4250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fitness Boxing | 103371 | [103371-fitness-boxing.json](./103371-fitness-boxing.json) |
 | Fitness Boxing 2: Rhythm & Exercise | 138952 | [138952-fitness-boxing-2-rhythm-and-exercise.json](./138952-fitness-boxing-2-rhythm-and-exercise.json) |
 | Fitness Boxing 3: Your Personal Trainer | 314941 | [314941-fitness-boxing-3-your-personal-trainer.json](./314941-fitness-boxing-3-your-personal-trainer.json) |
+| Fitness Boxing feat. Hatsune Miku | 266725 | [266725-fitness-boxing-feat-hatsune-miku.json](./266725-fitness-boxing-feat-hatsune-miku.json) |
 | Fitness Boxing Fist of the North Star | 217551 | [217551-fitness-boxing-fist-of-the-north-star.json](./217551-fitness-boxing-fist-of-the-north-star.json) |
 | Fitness Boxing: Fist of the North Star - Expansion Pack | 279869 | [279869-fitness-boxing-fist-of-the-north-star-expansion-pack.json](./279869-fitness-boxing-fist-of-the-north-star-expansion-pack.json) |
 | Fitness Dash | 16078 | [16078-fitness-dash.json](./16078-fitness-dash.json) |
@@ -5706,6 +5712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Manager 2022 Mobile | 187830 | [187830-football-manager-2022-mobile.json](./187830-football-manager-2022-mobile.json) |
 | Football Manager 2024 | 266382 | [266382-football-manager-2024.json](./266382-football-manager-2024.json) |
 | Football Manager 2024 Mobile | 295327 | [295327-football-manager-2024-mobile.json](./295327-football-manager-2024-mobile.json) |
+| Football Manager 2024 Touch | 266727 | [266727-football-manager-2024-touch.json](./266727-football-manager-2024-touch.json) |
 | Football Manager 26 | 365487 | [365487-football-manager-26.json](./365487-football-manager-26.json) |
 | Football Manager 26 Console | 367571 | [367571-football-manager-26-console.json](./367571-football-manager-26-console.json) |
 | Football Manager 26 Mobile | 367576 | [367576-football-manager-26-mobile.json](./367576-football-manager-26-mobile.json) |
