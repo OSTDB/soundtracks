@@ -1282,6 +1282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eleanor's Handmaid | 253967 | [253967-eleanors-handmaid.json](./253967-eleanors-handmaid.json) |
 | Elearning Development Intern | 116115 | [116115-elearning-development-intern.json](./116115-elearning-development-intern.json) |
 | EleBall | 302944 | [302944-eleball.json](./302944-eleball.json) |
+| Elebeater VR | 250242 | [250242-elebeater-vr.json](./250242-elebeater-vr.json) |
 | Elebits: The Adventures of Kai and Zero | 2748 | [2748-elebits-the-adventures-of-kai-and-zero.json](./2748-elebits-the-adventures-of-kai-and-zero.json) |
 | Elecade | 400907 | [400907-elecade.json](./400907-elecade.json) |
 | ElecHead | 129518 | [129518-elechead.json](./129518-elechead.json) |
@@ -2513,6 +2514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enjaulados | 361285 | [361285-enjaulados.json](./361285-enjaulados.json) |
 | Enjoy Amoy & Sisters | 404874 | [404874-enjoy-amoy-and-sisters.json](./404874-enjoy-amoy-and-sisters.json) |
 | Enjoy Summer Maximum | 418860 | [418860-enjoy-summer-maximum.json](./418860-enjoy-summer-maximum.json) |
+| Enjoy the Diner | 250232 | [250232-enjoy-the-diner.json](./250232-enjoy-the-diner.json) |
 | Enjoy: Futari no Ecchi na Joi to Eroero Kenshuu Taiken | 413846 | [413846-enjoy-futari-no-ecchi-na-joi-to-eroero-kenshuu-taiken.json](./413846-enjoy-futari-no-ecchi-na-joi-to-eroero-kenshuu-taiken.json) |
 | EnJoyTyping | 291145 | [291145-enjoytyping.json](./291145-enjoytyping.json) |
 | EnjoyUp's 3 in 1 | 390511 | [390511-enjoyups-3-in-1.json](./390511-enjoyups-3-in-1.json) |
