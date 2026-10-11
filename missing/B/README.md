@@ -971,6 +971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ball Sort | 240194 | [240194-ball-sort.json](./240194-ball-sort.json) |
 | Ball Sort Puzzle | 180152 | [180152-ball-sort-puzzle.json](./180152-ball-sort-puzzle.json) |
 | Ball Space | 369735 | [369735-ball-space.json](./369735-ball-space.json) |
+| Ball til You Fall | 242464 | [242464-ball-til-you-fall.json](./242464-ball-til-you-fall.json) |
 | Ball Torture | 205242 | [205242-ball-torture.json](./205242-ball-torture.json) |
 | Ball Tour | 297718 | [297718-ball-tour.json](./297718-ball-tour.json) |
 | Ball Travel | 351755 | [351755-ball-travel.json](./351755-ball-travel.json) |
@@ -5963,6 +5964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blades Adrift | 176272 | [176272-blades-adrift.json](./176272-blades-adrift.json) |
 | Blades and Bullets | 277279 | [277279-blades-and-bullets.json](./277279-blades-and-bullets.json) |
 | Blades and Rings | 82122 | [82122-blades-and-rings.json](./82122-blades-and-rings.json) |
+| Blades Away | 242463 | [242463-blades-away.json](./242463-blades-away.json) |
 | Blades of Avernum | 73536 | [73536-blades-of-avernum.json](./73536-blades-of-avernum.json) |
 | Blades of Brim | 28822 | [28822-blades-of-brim.json](./28822-blades-of-brim.json) |
 | Blades of Exile | 19579 | [19579-blades-of-exile.json](./19579-blades-of-exile.json) |
@@ -10187,6 +10189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Bobble Classic | 332248 | [332248-bubble-bobble-classic.json](./332248-bubble-bobble-classic.json) |
 | Bubble Bobble Double Shot | 20672 | [20672-bubble-bobble-double-shot.json](./20672-bubble-bobble-double-shot.json) |
 | Bubble Bobble Evolution | 38483 | [38483-bubble-bobble-evolution.json](./38483-bubble-bobble-evolution.json) |
+| Bubble Bobble for Kakao | 242470 | [242470-bubble-bobble-for-kakao.json](./242470-bubble-bobble-for-kakao.json) |
 | Bubble Bobble Micro Player | 246300 | [246300-bubble-bobble-micro-player.json](./246300-bubble-bobble-micro-player.json) |
 | Bubble Bobble Nostalgie | 251020 | [251020-bubble-bobble-nostalgie.json](./251020-bubble-bobble-nostalgie.json) |
 | Bubble Bobble Part 2 | 7801 | [7801-bubble-bobble-part-2.json](./7801-bubble-bobble-part-2.json) |
@@ -11085,6 +11088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burning Sword: Death Sun | 272780 | [272780-burning-sword-death-sun.json](./272780-burning-sword-death-sun.json) |
 | Burning Tail Banquet | 403789 | [403789-burning-tail-banquet.json](./403789-burning-tail-banquet.json) |
 | Burning Tenshi | 184970 | [184970-burning-tenshi.json](./184970-burning-tenshi.json) |
+| Burning Tracks | 242465 | [242465-burning-tracks.json](./242465-burning-tracks.json) |
 | Burning Vengeance | 241520 | [241520-burning-vengeance.json](./241520-burning-vengeance.json) |
 | Burning Wall | 281976 | [281976-burning-wall.json](./281976-burning-wall.json) |
 | Burning, Crackling | 396540 | [396540-burning-crackling.json](./396540-burning-crackling.json) |
