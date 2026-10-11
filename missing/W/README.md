@@ -373,7 +373,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wamu Wamu | 132020 | [132020-wamu-wamu.json](./132020-wamu-wamu.json) |
 | Wan Chai Connection | 62134 | [62134-wan-chai-connection.json](./62134-wan-chai-connection.json) |
 | Wan Nyan Dobutsu Byouin: Suteki na Juui-San ni Narou! | 222539 | [222539-wan-nyan-dobutsu-byouin-suteki-na-juui-san-ni-narou.json](./222539-wan-nyan-dobutsu-byouin-suteki-na-juui-san-ni-narou.json) |
+| Wan Nyan Doubutsu Byouin | 275626 | [275626-wan-nyan-doubutsu-byouin.json](./275626-wan-nyan-doubutsu-byouin.json) |
+| Wan Nyan Doubutsu Byouin | 275628 | [275628-wan-nyan-doubutsu-byouin.json](./275628-wan-nyan-doubutsu-byouin.json) |
 | Wan Nyan Doubutsu Byouin: Pet no Oisha-san ni Narou! | 136863 | [136863-wan-nyan-doubutsu-byouin-pet-no-oisha-san-ni-narou.json](./136863-wan-nyan-doubutsu-byouin-pet-no-oisha-san-ni-narou.json) |
+| Wan Nyan Pet Shop | 275625 | [275625-wan-nyan-pet-shop.json](./275625-wan-nyan-pet-shop.json) |
 | Wan Nyan Slash | 123027 | [123027-wan-nyan-slash.json](./123027-wan-nyan-slash.json) |
 | Wanagiri | 319024 | [319024-wanagiri.json](./319024-wanagiri.json) |
 | Wanaka Farm | 172770 | [172770-wanaka-farm.json](./172770-wanaka-farm.json) |
@@ -2763,6 +2766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | While Waiting My Turn | 253382 | [253382-while-waiting-my-turn.json](./253382-while-waiting-my-turn.json) |
 | While You Are Downloading | 87963 | [87963-while-you-are-downloading.json](./87963-while-you-are-downloading.json) |
 | Whim | 216830 | [216830-whim.json](./216830-whim.json) |
+| Whimel Academy | 275558 | [275558-whimel-academy.json](./275558-whimel-academy.json) |
 | Whimpact! | 378538 | [378538-whimpact.json](./378538-whimpact.json) |
 | Whimre | 252228 | [252228-whimre.json](./252228-whimre.json) |
 | Whimsy Bake ＆ Craft | 349469 | [349469-whimsy-bake-and-craft.json](./349469-whimsy-bake-and-craft.json) |
