@@ -5253,6 +5253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Wizard: The Mirror Kingdom | 57355 | [57355-world-of-wizard-the-mirror-kingdom.json](./57355-world-of-wizard-the-mirror-kingdom.json) |
 | World of Wizards | 82030 | [82030-world-of-wizards.json](./82030-world-of-wizards.json) |
 | World of Wonder | 147396 | [147396-world-of-wonder.json](./147396-world-of-wonder.json) |
+| World of Yggdrasil | 270054 | [270054-world-of-yggdrasil.json](./270054-world-of-yggdrasil.json) |
 | World of Zoo | 5287 | [5287-world-of-zoo.json](./5287-world-of-zoo.json) |
 | World on Fire | 117171 | [117171-world-on-fire.json](./117171-world-on-fire.json) |
 | World on Paper | 307572 | [307572-world-on-paper.json](./307572-world-on-paper.json) |
