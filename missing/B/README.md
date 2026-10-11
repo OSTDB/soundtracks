@@ -8846,6 +8846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Braaains! | 207284 | [207284-braaains.json](./207284-braaains.json) |
 | Braains.io | 193807 | [193807-braains-io.json](./193807-braains-io.json) |
 | Bracer | 403818 | [403818-bracer.json](./403818-bracer.json) |
+| BraceUp VR | 267297 | [267297-braceup-vr.json](./267297-braceup-vr.json) |
 | BrackenSack: A Dashkin game | 83181 | [83181-brackensack-a-dashkin-game.json](./83181-brackensack-a-dashkin-game.json) |
 | Bracket Chain | 279765 | [279765-bracket-chain.json](./279765-bracket-chain.json) |
 | Bracket City | 341031 | [341031-bracket-city.json](./341031-bracket-city.json) |
@@ -10490,6 +10491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bulk Dominoes VR: Kinetic Rush | 160141 | [160141-bulk-dominoes-vr-kinetic-rush.json](./160141-bulk-dominoes-vr-kinetic-rush.json) |
 | Bulk Slash | 45462 | [45462-bulk-slash.json](./45462-bulk-slash.json) |
 | Bulken | 273826 | [273826-bulken.json](./273826-bulken.json) |
+| Bull Chase! | 267323 | [267323-bull-chase.json](./267323-bull-chase.json) |
 | Bull Fight | 46499 | [46499-bull-fight.json](./46499-bull-fight.json) |
 | Bull Fighter | 40273 | [40273-bull-fighter.json](./40273-bull-fighter.json) |
 | Bull King of Circus | 243741 | [243741-bull-king-of-circus.json](./243741-bull-king-of-circus.json) |
