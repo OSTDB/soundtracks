@@ -2087,6 +2087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Open Season | 4055 | [4055-open-season.json](./4055-open-season.json) |
 | Open Sesame | 40679 | [40679-open-sesame.json](./40679-open-sesame.json) |
 | Open Solomon's Key | 184409 | [184409-open-solomons-key.json](./184409-open-solomons-key.json) |
+| Open Sonic the Hedgehog | 266710 | [266710-open-sonic-the-hedgehog.json](./266710-open-sonic-the-hedgehog.json) |
 | Open Sorcery | 27444 | [27444-open-sorcery.json](./27444-open-sorcery.json) |
 | Open Source Objects: The Game | 361751 | [361751-open-source-objects-the-game.json](./361751-open-source-objects-the-game.json) |
 | Open Space Collection | 196306 | [196306-open-space-collection.json](./196306-open-space-collection.json) |
