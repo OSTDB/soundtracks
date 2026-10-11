@@ -3305,6 +3305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Tales: Office Sex Handler | 389606 | [389606-hentai-tales-office-sex-handler.json](./389606-hentai-tales-office-sex-handler.json) |
 | Hentai Tales: Saimin Kouhai | 340454 | [340454-hentai-tales-saimin-kouhai.json](./340454-hentai-tales-saimin-kouhai.json) |
 | Hentai Tales: Scent Of Mixed | 340455 | [340455-hentai-tales-scent-of-mixed.json](./340455-hentai-tales-scent-of-mixed.json) |
+| Hentai Tales: Sex Apartment | 275532 | [275532-hentai-tales-sex-apartment.json](./275532-hentai-tales-sex-apartment.json) |
 | Hentai Tales: Strange Land Apaku | 312721 | [312721-hentai-tales-strange-land-apaku.json](./312721-hentai-tales-strange-land-apaku.json) |
 | Hentai Tales: Taboo Sisters | 340456 | [340456-hentai-tales-taboo-sisters.json](./340456-hentai-tales-taboo-sisters.json) |
 | Hentai Tales: The Brave and Demon | 340457 | [340457-hentai-tales-the-brave-and-demon.json](./340457-hentai-tales-the-brave-and-demon.json) |
