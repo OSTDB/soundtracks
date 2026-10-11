@@ -1014,6 +1014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gangnam Style Massacre | 216768 | [216768-gangnam-style-massacre.json](./216768-gangnam-style-massacre.json) |
 | Gangs of Asia | 360068 | [360068-gangs-of-asia.json](./360068-gangs-of-asia.json) |
 | Gangs of Rikton | 167592 | [167592-gangs-of-rikton.json](./167592-gangs-of-rikton.json) |
+| Gangs of Sherwood: Lionheart Edition | 271679 | [271679-gangs-of-sherwood-lionheart-edition.json](./271679-gangs-of-sherwood-lionheart-edition.json) |
 | Gangs of Space | 54522 | [54522-gangs-of-space.json](./54522-gangs-of-space.json) |
 | Gangs of the street | 285379 | [285379-gangs-of-the-street.json](./285379-gangs-of-the-street.json) |
 | Gangs on New York | 345581 | [345581-gangs-on-new-york.json](./345581-gangs-on-new-york.json) |
@@ -2018,6 +2019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geometry Rush | 102366 | [102366-geometry-rush.json](./102366-geometry-rush.json) |
 | Geometry Shooter | 312769 | [312769-geometry-shooter.json](./312769-geometry-shooter.json) |
 | Geometry Shooter Pro | 320386 | [320386-geometry-shooter-pro.json](./320386-geometry-shooter-pro.json) |
+| Geometry Survivor | 271641 | [271641-geometry-survivor.json](./271641-geometry-survivor.json) |
 | Geometry Wars: Retro Evolved | 15756 | [15756-geometry-wars-retro-evolved.json](./15756-geometry-wars-retro-evolved.json) |
 | Geometry Waves | 195565 | [195565-geometry-waves.json](./195565-geometry-waves.json) |
 | Geomoth Boot Sequence | 289312 | [289312-geomoth-boot-sequence.json](./289312-geomoth-boot-sequence.json) |
@@ -2046,6 +2048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geostorm | 74514 | [74514-geostorm.json](./74514-geostorm.json) |
 | GeoStrategic | 294056 | [294056-geostrategic.json](./294056-geostrategic.json) |
 | Geotastic | 142722 | [142722-geotastic.json](./142722-geotastic.json) |
+| Geotra | 271642 | [271642-geotra.json](./271642-geotra.json) |
 | GeoWar | 127316 | [127316-geowar.json](./127316-geowar.json) |
 | Geppaku: Monogatari | 342664 | [342664-geppaku-monogatari.json](./342664-geppaku-monogatari.json) |
 | Geppetto | 333094 | [333094-geppetto.json](./333094-geppetto.json) |
@@ -3107,6 +3110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gloomy Eyes + Arise: A Simple Story | 377274 | [377274-gloomy-eyes-arise-a-simple-story.json](./377274-gloomy-eyes-arise-a-simple-story.json) |
 | Gloomy Island | 278133 | [278133-gloomy-island.json](./278133-gloomy-island.json) |
 | Gloomy Tales: Horrific Show - Collector's Edition | 225010 | [225010-gloomy-tales-horrific-show-collectors-edition.json](./225010-gloomy-tales-horrific-show-collectors-edition.json) |
+| Gloomy Tales: One-Way Ticket - Collector's Edition | 271643 | [271643-gloomy-tales-one-way-ticket-collectors-edition.json](./271643-gloomy-tales-one-way-ticket-collectors-edition.json) |
 | Gloomy Toons | 140995 | [140995-gloomy-toons.json](./140995-gloomy-toons.json) |
 | Gloomy Village | 265348 | [265348-gloomy-village.json](./265348-gloomy-village.json) |
 | Gloop | 236955 | [236955-gloop.json](./236955-gloop.json) |
