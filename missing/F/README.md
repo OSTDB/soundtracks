@@ -3069,6 +3069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy | 408304 | [408304-final-fantasy.json](./408304-final-fantasy.json) |
 | Final Fantasy ++ | 214990 | [214990-final-fantasy.json](./214990-final-fantasy.json) |
 | Final Fantasy ++ World of Chaos | 298415 | [298415-final-fantasy-world-of-chaos.json](./298415-final-fantasy-world-of-chaos.json) |
+| Final Fantasy 2.0 | 269470 | [269470-final-fantasy-2-0.json](./269470-final-fantasy-2-0.json) |
 | Final Fantasy 25th Anniversary Ultimate Box | 282727 | [282727-final-fantasy-25th-anniversary-ultimate-box.json](./282727-final-fantasy-25th-anniversary-ultimate-box.json) |
 | Final Fantasy Adventure DX | 306591 | [306591-final-fantasy-adventure-dx.json](./306591-final-fantasy-adventure-dx.json) |
 | Final Fantasy Agito | 7400 | [7400-final-fantasy-agito.json](./7400-final-fantasy-agito.json) |
