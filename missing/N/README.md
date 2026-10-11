@@ -2478,6 +2478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nib, the Pen is Mightier AS a Sword | 141011 | [141011-nib-the-pen-is-mightier-as-a-sword.json](./141011-nib-the-pen-is-mightier-as-a-sword.json) |
 | Nibansen Plus | 295470 | [295470-nibansen-plus.json](./295470-nibansen-plus.json) |
 | Nibble Quest | 410235 | [410235-nibble-quest.json](./410235-nibble-quest.json) |
+| Nibble: Pizza Delivery | 254997 | [254997-nibble-pizza-delivery.json](./254997-nibble-pizza-delivery.json) |
 | Nibbles | 88657 | [88657-nibbles.json](./88657-nibbles.json) |
 | Nibeos | 303489 | [303489-nibeos.json](./303489-nibeos.json) |
 | Nibiru | 120155 | [120155-nibiru.json](./120155-nibiru.json) |
