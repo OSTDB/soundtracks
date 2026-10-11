@@ -1348,6 +1348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Pong | 176772 | [176772-3d-pong.json](./176772-3d-pong.json) |
 | 3D Pool All Stars | 92596 | [92596-3d-pool-all-stars.json](./92596-3d-pool-all-stars.json) |
 | 3D Pool Game | 88273 | [88273-3d-pool-game.json](./88273-3d-pool-game.json) |
+| 3D PrintMaster Simulator | 273297 | [273297-3d-printmaster-simulator.json](./273297-3d-printmaster-simulator.json) |
 | 3D Puyo Puyo 2: Tsuu | 87195 | [87195-3d-puyo-puyo-2-tsuu.json](./87195-3d-puyo-puyo-2-tsuu.json) |
 | 3D Puzzle Dark Fantasy | 357751 | [357751-3d-puzzle-dark-fantasy.json](./357751-3d-puzzle-dark-fantasy.json) |
 | 3D Puzzle: Abandoned Prison | 308949 | [308949-3d-puzzle-abandoned-prison.json](./308949-3d-puzzle-abandoned-prison.json) |
