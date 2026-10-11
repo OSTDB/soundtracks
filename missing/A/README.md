@@ -684,6 +684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Smithing Game | 405058 | [405058-a-smithing-game.json](./405058-a-smithing-game.json) |
 | A Smoker's Story | 312731 | [312731-a-smokers-story.json](./312731-a-smokers-story.json) |
 | A Snake's Tale | 43140 | [43140-a-snakes-tale.json](./43140-a-snakes-tale.json) |
+| A Snowman's Chance | 244154 | [244154-a-snowmans-chance.json](./244154-a-snowmans-chance.json) |
 | A Sold House | 133785 | [133785-a-sold-house.json](./133785-a-sold-house.json) |
 | A Soldier's Struggle | 385712 | [385712-a-soldiers-struggle.json](./385712-a-soldiers-struggle.json) |
 | A Song of Sunlight | 265534 | [265534-a-song-of-sunlight.json](./265534-a-song-of-sunlight.json) |
@@ -2182,6 +2183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures in the Galaxy of Fantabulous Wonderment | 23739 | [23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json](./23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json) |
 | Adventures in the Light & Dark | 102316 | [102316-adventures-in-the-light-and-dark.json](./102316-adventures-in-the-light-and-dark.json) |
 | Adventures in the Magic Kingdom | 8130 | [8130-adventures-in-the-magic-kingdom.json](./8130-adventures-in-the-magic-kingdom.json) |
+| Adventures In Time & Space | 342233 | [342233-adventures-in-time-and-space.json](./342233-adventures-in-time-and-space.json) |
 | Adventures of a Radish | 134695 | [134695-adventures-of-a-radish.json](./134695-adventures-of-a-radish.json) |
 | Adventures of Abrix | 29918 | [29918-adventures-of-abrix.json](./29918-adventures-of-abrix.json) |
 | Adventures of Beetlejuice: Skeletons in the Closet | 50826 | [50826-adventures-of-beetlejuice-skeletons-in-the-closet.json](./50826-adventures-of-beetlejuice-skeletons-in-the-closet.json) |
@@ -5583,6 +5585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ancient Islands | 192031 | [192031-ancient-islands.json](./192031-ancient-islands.json) |
 | Ancient Islands | 192835 | [192835-ancient-islands.json](./192835-ancient-islands.json) |
 | Ancient Keys DX | 321448 | [321448-ancient-keys-dx.json](./321448-ancient-keys-dx.json) |
+| Ancient Kingdoms | 244176 | [244176-ancient-kingdoms.json](./244176-ancient-kingdoms.json) |
 | Ancient Legacy 2: The Curse | 107069 | [107069-ancient-legacy-2-the-curse.json](./107069-ancient-legacy-2-the-curse.json) |
 | Ancient Magic: Bazuu! Mahou Sekai | 15892 | [15892-ancient-magic-bazuu-mahou-sekai.json](./15892-ancient-magic-bazuu-mahou-sekai.json) |
 | Ancient Mahjong | 267370 | [267370-ancient-mahjong.json](./267370-ancient-mahjong.json) |
@@ -9856,6 +9859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astronomic Date | 238614 | [238614-astronomic-date.json](./238614-astronomic-date.json) |
 | Astronomica: The Quest for the Edge of the Universe | 71538 | [71538-astronomica-the-quest-for-the-edge-of-the-universe.json](./71538-astronomica-the-quest-for-the-edge-of-the-universe.json) |
 | Astronomicon | 321527 | [321527-astronomicon.json](./321527-astronomicon.json) |
+| Astronomics | 244168 | [244168-astronomics.json](./244168-astronomics.json) |
 | Astronomics Rise of a New Empire | 244513 | [244513-astronomics-rise-of-a-new-empire.json](./244513-astronomics-rise-of-a-new-empire.json) |
 | Astronomy Lab on PC | 391692 | [391692-astronomy-lab-on-pc.json](./391692-astronomy-lab-on-pc.json) |
 | Astronot | 22270 | [22270-astronot.json](./22270-astronot.json) |
@@ -11108,6 +11112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aya | 324963 | [324963-aya.json](./324963-aya.json) |
 | Aya & Naya | 260882 | [260882-aya-and-naya.json](./260882-aya-and-naya.json) |
 | Aya Go | 91740 | [91740-aya-go.json](./91740-aya-go.json) |
+| Aya: The Tale of Tails | 244161 | [244161-aya-the-tale-of-tails.json](./244161-aya-the-tale-of-tails.json) |
 | Ayakashi & Sweets | 298879 | [298879-ayakashi-and-sweets.json](./298879-ayakashi-and-sweets.json) |
 | Ayakashi Gohan: Okawari! | 200008 | [200008-ayakashi-gohan-okawari.json](./200008-ayakashi-gohan-okawari.json) |
 | Ayakashi Gohan: Oomori! | 200007 | [200007-ayakashi-gohan-oomori.json](./200007-ayakashi-gohan-oomori.json) |
