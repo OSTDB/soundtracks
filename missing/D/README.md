@@ -640,6 +640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Danger Crew | 117623 | [117623-danger-crew.json](./117623-danger-crew.json) |
 | Danger Dash | 332559 | [332559-danger-dash.json](./332559-danger-dash.json) |
 | Danger Drone | 278550 | [278550-danger-drone.json](./278550-danger-drone.json) |
+| Danger Drop | 254377 | [254377-danger-drop.json](./254377-danger-drop.json) |
 | Danger Forever | 169866 | [169866-danger-forever.json](./169866-danger-forever.json) |
 | Danger Freak | 66777 | [66777-danger-freak.json](./66777-danger-freak.json) |
 | Danger Girl | 45226 | [45226-danger-girl.json](./45226-danger-girl.json) |
@@ -2111,6 +2112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead City | 317824 | [317824-dead-city.json](./317824-dead-city.json) |
 | Dead City: Red Protocol | 421333 | [421333-dead-city-red-protocol.json](./421333-dead-city-red-protocol.json) |
 | Dead City: Sci-Fi Pack | 254051 | [254051-dead-city-sci-fi-pack.json](./254051-dead-city-sci-fi-pack.json) |
+| Dead City: Street Fighter Pack | 254382 | [254382-dead-city-street-fighter-pack.json](./254382-dead-city-street-fighter-pack.json) |
 | Dead Covid-19 in space | 150525 | [150525-dead-covid-19-in-space.json](./150525-dead-covid-19-in-space.json) |
 | Dead Crossway Zompell Survival Zombie | 298441 | [298441-dead-crossway-zompell-survival-zombie.json](./298441-dead-crossway-zompell-survival-zombie.json) |
 | Dead Cubes | 129755 | [129755-dead-cubes.json](./129755-dead-cubes.json) |
