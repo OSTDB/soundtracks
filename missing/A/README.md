@@ -3403,6 +3403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akai Ito | 73494 | [73494-akai-ito.json](./73494-akai-ito.json) |
 | Akai Ito & Aoi Shiro HD Remaster | 227974 | [227974-akai-ito-and-aoi-shiro-hd-remaster.json](./227974-akai-ito-and-aoi-shiro-hd-remaster.json) |
 | Akai Ito DS | 206021 | [206021-akai-ito-ds.json](./206021-akai-ito-ds.json) |
+| Akai Ito: HD Remaster | 246870 | [246870-akai-ito-hd-remaster.json](./246870-akai-ito-hd-remaster.json) |
 | Akai Katana Shin | 78617 | [78617-akai-katana-shin.json](./78617-akai-katana-shin.json) |
 | Akai Majo | 330910 | [330910-akai-majo.json](./330910-akai-majo.json) |
 | Akai Onna | 277961 | [277961-akai-onna.json](./277961-akai-onna.json) |
@@ -4854,6 +4855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amakta | 358989 | [358989-amakta.json](./358989-amakta.json) |
 | Amakuchi! Dairoujou | 67368 | [67368-amakuchi-dairoujou.json](./67368-amakuchi-dairoujou.json) |
 | Amalgam | 396419 | [396419-amalgam.json](./396419-amalgam.json) |
+| Amalgamare | 246859 | [246859-amalgamare.json](./246859-amalgamare.json) |
 | Amalgoom | 346646 | [346646-amalgoom.json](./346646-amalgoom.json) |
 | Amalgun | 347764 | [347764-amalgun.json](./347764-amalgun.json) |
 | Amalie | 358431 | [358431-amalie.json](./358431-amalie.json) |
@@ -4926,6 +4928,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amaze St.Patrick | 114548 | [114548-amaze-st-patrick.json](./114548-amaze-st-patrick.json) |
 | Amaze: Halloween | 110183 | [110183-amaze-halloween.json](./110183-amaze-halloween.json) |
 | Amaze! | 246648 | [246648-amaze.json](./246648-amaze.json) |
+| Amaze!: Level Pack 1 | 246871 | [246871-amaze-level-pack-1.json](./246871-amaze-level-pack-1.json) |
+| Amaze!: Level Pack 2 | 246872 | [246872-amaze-level-pack-2.json](./246872-amaze-level-pack-2.json) |
 | Amaze'd | 105299 | [105299-amazed.json](./105299-amazed.json) |
 | Amazeballs! | 360668 | [360668-amazeballs.json](./360668-amazeballs.json) |
 | AmazeBowl | 104070 | [104070-amazebowl.json](./104070-amazebowl.json) |
@@ -5597,6 +5601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ancient Rus vs. Lizards | 277013 | [277013-ancient-rus-vs-lizards.json](./277013-ancient-rus-vs-lizards.json) |
 | Ancient Russian Life Simulator | 278177 | [278177-ancient-russian-life-simulator.json](./278177-ancient-russian-life-simulator.json) |
 | Ancient Sacrifice | 236297 | [236297-ancient-sacrifice.json](./236297-ancient-sacrifice.json) |
+| Ancient Saga: Vikings Journey - End of the story | 246860 | [246860-ancient-saga-vikings-journey-end-of-the-story.json](./246860-ancient-saga-vikings-journey-end-of-the-story.json) |
 | Ancient Savo | 303161 | [303161-ancient-savo.json](./303161-ancient-savo.json) |
 | Ancient Scroll | 303162 | [303162-ancient-scroll.json](./303162-ancient-scroll.json) |
 | Ancient Shadows: Awakening | 351121 | [351121-ancient-shadows-awakening.json](./351121-ancient-shadows-awakening.json) |
@@ -6842,6 +6847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aohri's Uprising | 254023 | [254023-aohris-uprising.json](./254023-aohris-uprising.json) |
 | Aoi | 226233 | [226233-aoi.json](./226233-aoi.json) |
 | Aoi Shiro | 165554 | [165554-aoi-shiro.json](./165554-aoi-shiro.json) |
+| Aoi Shiro: HD Remaster | 246873 | [246873-aoi-shiro-hd-remaster.json](./246873-aoi-shiro-hd-remaster.json) |
 | Aoi Sora no Neosphere Doki-doki Adventure Effective E | 408136 | [408136-aoi-sora-no-neosphere-doki-doki-adventure-effective-e.json](./408136-aoi-sora-no-neosphere-doki-doki-adventure-effective-e.json) |
 | Aoi Tori: L'Oiseau Bleu | 394867 | [394867-aoi-tori-loiseau-bleu.json](./394867-aoi-tori-loiseau-bleu.json) |
 | Aoi Umi no Tristia: Hatsumei Koubou Funtou ki | 407995 | [407995-aoi-umi-no-tristia-hatsumei-koubou-funtou-ki.json](./407995-aoi-umi-no-tristia-hatsumei-koubou-funtou-ki.json) |
@@ -7449,6 +7455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: City Connection | 99558 | [99558-arcade-archives-city-connection.json](./99558-arcade-archives-city-connection.json) |
 | Arcade Archives: Clu Clu Land | 68356 | [68356-arcade-archives-clu-clu-land.json](./68356-arcade-archives-clu-clu-land.json) |
 | Arcade Archives: Cosmo Gang The Puzzle | 282491 | [282491-arcade-archives-cosmo-gang-the-puzzle.json](./282491-arcade-archives-cosmo-gang-the-puzzle.json) |
+| Arcade Archives: Cosmo Gang the Video | 246874 | [246874-arcade-archives-cosmo-gang-the-video.json](./246874-arcade-archives-cosmo-gang-the-video.json) |
 | Arcade Archives: Cosmo Police Galivan | 99566 | [99566-arcade-archives-cosmo-police-galivan.json](./99566-arcade-archives-cosmo-police-galivan.json) |
 | Arcade Archives: Crazy Balloon | 351223 | [351223-arcade-archives-crazy-balloon.json](./351223-arcade-archives-crazy-balloon.json) |
 | Arcade Archives: Crime Fighters | 147106 | [147106-arcade-archives-crime-fighters.json](./147106-arcade-archives-crime-fighters.json) |
@@ -9420,6 +9427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assetto Corsa Competizione | 89444 | [89444-assetto-corsa-competizione.json](./89444-assetto-corsa-competizione.json) |
 | Assetto Corsa Competizione DLC Pack | 266247 | [266247-assetto-corsa-competizione-dlc-pack.json](./266247-assetto-corsa-competizione-dlc-pack.json) |
 | Assetto Corsa Competizione: 2020 GT World Challenge Pack | 168372 | [168372-assetto-corsa-competizione-2020-gt-world-challenge-pack.json](./168372-assetto-corsa-competizione-2020-gt-world-challenge-pack.json) |
+| Assetto Corsa Competizione: 2023 GT World Challenge Pack | 246861 | [246861-assetto-corsa-competizione-2023-gt-world-challenge-pack.json](./246861-assetto-corsa-competizione-2023-gt-world-challenge-pack.json) |
 | Assetto Corsa Competizione: American Track Pack | 208627 | [208627-assetto-corsa-competizione-american-track-pack.json](./208627-assetto-corsa-competizione-american-track-pack.json) |
 | Assetto Corsa Competizione: British GT Pack | 168371 | [168371-assetto-corsa-competizione-british-gt-pack.json](./168371-assetto-corsa-competizione-british-gt-pack.json) |
 | Assetto Corsa Competizione: GT Racing Game Bundle | 288862 | [288862-assetto-corsa-competizione-gt-racing-game-bundle.json](./288862-assetto-corsa-competizione-gt-racing-game-bundle.json) |
@@ -10049,6 +10057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atelier Marie | 329384 | [329384-atelier-marie.json](./329384-atelier-marie.json) |
 | Atelier Marie & Elie: The Alchemist of Salburg | 329357 | [329357-atelier-marie-and-elie-the-alchemist-of-salburg.json](./329357-atelier-marie-and-elie-the-alchemist-of-salburg.json) |
 | Atelier Marie Remake: The Alchemist of Salburg | 236698 | [236698-atelier-marie-remake-the-alchemist-of-salburg.json](./236698-atelier-marie-remake-the-alchemist-of-salburg.json) |
+| Atelier Marie Remake: The Alchemist of Salburg - Digital Deluxe Edition | 246875 | [246875-atelier-marie-remake-the-alchemist-of-salburg-digital-deluxe-edition.json](./246875-atelier-marie-remake-the-alchemist-of-salburg-digital-deluxe-edition.json) |
 | Atelier Marie: Puzzle Workshop | 329391 | [329391-atelier-marie-puzzle-workshop.json](./329391-atelier-marie-puzzle-workshop.json) |
 | Atelier Marie: The Alchemist of Salburg | 26439 | [26439-atelier-marie-the-alchemist-of-salburg.json](./26439-atelier-marie-the-alchemist-of-salburg.json) |
 | Atelier Meruru: The Apprentice of Arland | 7277 | [7277-atelier-meruru-the-apprentice-of-arland.json](./7277-atelier-meruru-the-apprentice-of-arland.json) |
@@ -10571,6 +10580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Auto Jurassic Knights | 370866 | [370866-auto-jurassic-knights.json](./370866-auto-jurassic-knights.json) |
 | Auto Legends | 312257 | [312257-auto-legends.json](./312257-auto-legends.json) |
 | Auto Mechanic | 167164 | [167164-auto-mechanic.json](./167164-auto-mechanic.json) |
+| Auto Mechanic Sim | 246865 | [246865-auto-mechanic-sim.json](./246865-auto-mechanic-sim.json) |
 | Auto Modellista | 3791 | [3791-auto-modellista.json](./3791-auto-modellista.json) |
 | Auto Museum 64 | 182903 | [182903-auto-museum-64.json](./182903-auto-museum-64.json) |
 | Auto Puzzle Defense | 182292 | [182292-auto-puzzle-defense.json](./182292-auto-puzzle-defense.json) |
