@@ -4422,6 +4422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GoopW | 274019 | [274019-goopw.json](./274019-goopw.json) |
 | Goos Hunt | 337182 | [337182-goos-hunt.json](./337182-goos-hunt.json) |
 | Goose Goose Duck | 144442 | [144442-goose-goose-duck.json](./144442-goose-goose-duck.json) |
+| Goose Ronnie | 241877 | [241877-goose-ronnie.json](./241877-goose-ronnie.json) |
 | Goose Simulator | 199063 | [199063-goose-simulator.json](./199063-goose-simulator.json) |
 | Goose vs. Marine Apocalypse | 269472 | [269472-goose-vs-marine-apocalypse.json](./269472-goose-vs-marine-apocalypse.json) |
 | Goose.io | 130858 | [130858-goose-io.json](./130858-goose-io.json) |
