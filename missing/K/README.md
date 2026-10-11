@@ -3559,6 +3559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kreed | 95498 | [95498-kreed.json](./95498-kreed.json) |
 | Kreed: Battle for Savitar | 69822 | [69822-kreed-battle-for-savitar.json](./69822-kreed-battle-for-savitar.json) |
 | Kreedz Climbing | 37396 | [37396-kreedz-climbing.json](./37396-kreedz-climbing.json) |
+| Kreeps | 246826 | [246826-kreeps.json](./246826-kreeps.json) |
 | Kreepy Krawlers | 171468 | [171468-kreepy-krawlers.json](./171468-kreepy-krawlers.json) |
 | Krell | 93032 | [93032-krell.json](./93032-krell.json) |
 | Kremlin 3D | 320717 | [320717-kremlin-3d.json](./320717-kremlin-3d.json) |
