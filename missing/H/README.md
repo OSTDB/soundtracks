@@ -3158,7 +3158,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Island | 226187 | [226187-hentai-island.json](./226187-hentai-island.json) |
 | Hentai Jigsaw Girls 2 | 162840 | [162840-hentai-jigsaw-girls-2.json](./162840-hentai-jigsaw-girls-2.json) |
 | Hentai Jigsaw Photo Studio: Neko Girls | 286747 | [286747-hentai-jigsaw-photo-studio-neko-girls.json](./286747-hentai-jigsaw-photo-studio-neko-girls.json) |
+| Hentai Jigsaw Puzzle | 252056 | [252056-hentai-jigsaw-puzzle.json](./252056-hentai-jigsaw-puzzle.json) |
 | Hentai Jigsaw Puzzle 2 | 188496 | [188496-hentai-jigsaw-puzzle-2.json](./188496-hentai-jigsaw-puzzle-2.json) |
+| Hentai Jigsaw Puzzle 2 | 252057 | [252057-hentai-jigsaw-puzzle-2.json](./252057-hentai-jigsaw-puzzle-2.json) |
 | Hentai Jigsaw Puzzle Collection: Autumn | 371234 | [371234-hentai-jigsaw-puzzle-collection-autumn.json](./371234-hentai-jigsaw-puzzle-collection-autumn.json) |
 | Hentai Jigsaw Puzzle Collection: Christmas Edition | 235476 | [235476-hentai-jigsaw-puzzle-collection-christmas-edition.json](./235476-hentai-jigsaw-puzzle-collection-christmas-edition.json) |
 | Hentai Jigsaw Puzzle Collection: Spring Edition | 263218 | [263218-hentai-jigsaw-puzzle-collection-spring-edition.json](./263218-hentai-jigsaw-puzzle-collection-spring-edition.json) |
