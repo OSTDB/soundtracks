@@ -1392,6 +1392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Acceleration of Suguri | 78639 | [78639-acceleration-of-suguri.json](./78639-acceleration-of-suguri.json) |
 | Acceleration of Suguri X-Edition | 44596 | [44596-acceleration-of-suguri-x-edition.json](./44596-acceleration-of-suguri-x-edition.json) |
 | Acceleration of Suguri: X-Edition HD | 30251 | [30251-acceleration-of-suguri-x-edition-hd.json](./30251-acceleration-of-suguri-x-edition-hd.json) |
+| Acceleration of Suguri: Y-Edition | 265071 | [265071-acceleration-of-suguri-y-edition.json](./265071-acceleration-of-suguri-y-edition.json) |
 | Accelerator Operator | 373345 | [373345-accelerator-operator.json](./373345-accelerator-operator.json) |
 | Acceptable Losses | 379459 | [379459-acceptable-losses.json](./379459-acceptable-losses.json) |
 | Access Block | 277863 | [277863-access-block.json](./277863-access-block.json) |
