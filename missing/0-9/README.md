@@ -930,12 +930,26 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 20 Days | 371267 | [371267-20-days.json](./371267-20-days.json) |
 | 20 Doors | 256769 | [256769-20-doors.json](./256769-20-doors.json) |
 | 20 em 1 | 94700 | [94700-20-em-1.json](./94700-20-em-1.json) |
+| 20 em 1: Game 1 | 245217 | [245217-20-em-1-game-1.json](./245217-20-em-1-game-1.json) |
+| 20 em 1: Game 10 | 245227 | [245227-20-em-1-game-10.json](./245227-20-em-1-game-10.json) |
+| 20 em 1: Game 11 | 245229 | [245229-20-em-1-game-11.json](./245229-20-em-1-game-11.json) |
+| 20 em 1: Game 12 | 245230 | [245230-20-em-1-game-12.json](./245230-20-em-1-game-12.json) |
+| 20 em 1: Game 13 | 245231 | [245231-20-em-1-game-13.json](./245231-20-em-1-game-13.json) |
+| 20 em 1: Game 14 | 245232 | [245232-20-em-1-game-14.json](./245232-20-em-1-game-14.json) |
 | 20 em 1: Game 15 | 245233 | [245233-20-em-1-game-15.json](./245233-20-em-1-game-15.json) |
 | 20 em 1: Game 16 | 245234 | [245234-20-em-1-game-16.json](./245234-20-em-1-game-16.json) |
 | 20 em 1: Game 17 | 245235 | [245235-20-em-1-game-17.json](./245235-20-em-1-game-17.json) |
 | 20 em 1: Game 18 | 245236 | [245236-20-em-1-game-18.json](./245236-20-em-1-game-18.json) |
 | 20 em 1: Game 19 | 245237 | [245237-20-em-1-game-19.json](./245237-20-em-1-game-19.json) |
+| 20 em 1: Game 2 | 245218 | [245218-20-em-1-game-2.json](./245218-20-em-1-game-2.json) |
 | 20 em 1: Game 20 | 245238 | [245238-20-em-1-game-20.json](./245238-20-em-1-game-20.json) |
+| 20 em 1: Game 3 | 245219 | [245219-20-em-1-game-3.json](./245219-20-em-1-game-3.json) |
+| 20 em 1: Game 4 | 245220 | [245220-20-em-1-game-4.json](./245220-20-em-1-game-4.json) |
+| 20 em 1: Game 5 | 245222 | [245222-20-em-1-game-5.json](./245222-20-em-1-game-5.json) |
+| 20 em 1: Game 6 | 245223 | [245223-20-em-1-game-6.json](./245223-20-em-1-game-6.json) |
+| 20 em 1: Game 7 | 245224 | [245224-20-em-1-game-7.json](./245224-20-em-1-game-7.json) |
+| 20 em 1: Game 8 | 245225 | [245225-20-em-1-game-8.json](./245225-20-em-1-game-8.json) |
+| 20 em 1: Game 9 | 245226 | [245226-20-em-1-game-9.json](./245226-20-em-1-game-9.json) |
 | 20 Floors | 405472 | [405472-20-floors.json](./405472-20-floors.json) |
 | 20 in 1 Family Games Mega Collection | 386365 | [386365-20-in-1-family-games-mega-collection.json](./386365-20-in-1-family-games-mega-collection.json) |
 | 20 Minute Metropolis | 124263 | [124263-20-minute-metropolis.json](./124263-20-minute-metropolis.json) |
