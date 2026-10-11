@@ -1701,6 +1701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neptunia: Virtual Stars - VIP Edition | 186890 | [186890-neptunia-virtual-stars-vip-edition.json](./186890-neptunia-virtual-stars-vip-edition.json) |
 | Neratte chu | 40989 | [40989-neratte-chu.json](./40989-neratte-chu.json) |
 | Nerd Blocks | 254673 | [254673-nerd-blocks.json](./254673-nerd-blocks.json) |
+| Nerd Survivors | 272740 | [272740-nerd-survivors.json](./272740-nerd-survivors.json) |
 | Nerds & Ammo | 391585 | [391585-nerds-and-ammo.json](./391585-nerds-and-ammo.json) |
 | Nerds Rope: Follow the Leader Game | 373535 | [373535-nerds-rope-follow-the-leader-game.json](./373535-nerds-rope-follow-the-leader-game.json) |
 | Nerdtastic Norman & The Soul Fragments | 295400 | [295400-nerdtastic-norman-and-the-soul-fragments.json](./295400-nerdtastic-norman-and-the-soul-fragments.json) |
