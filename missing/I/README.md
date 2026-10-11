@@ -1952,6 +1952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Incarnation | 276263 | [276263-incarnation.json](./276263-incarnation.json) |
 | Incarnation: Flame | 174823 | [174823-incarnation-flame.json](./174823-incarnation-flame.json) |
 | Incaved | 217356 | [217356-incaved.json](./217356-incaved.json) |
+| Incaved Runner | 270036 | [270036-incaved-runner.json](./270036-incaved-runner.json) |
 | Incel Simulator | 315286 | [315286-incel-simulator.json](./315286-incel-simulator.json) |
 | Incel Syndrome | 156721 | [156721-incel-syndrome.json](./156721-incel-syndrome.json) |
 | InCell | 12302 | [12302-incell.json](./12302-incell.json) |
