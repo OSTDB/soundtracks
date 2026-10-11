@@ -4433,6 +4433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medieval Builders: Strongholds & Castles | 236908 | [236908-medieval-builders-strongholds-and-castles.json](./236908-medieval-builders-strongholds-and-castles.json) |
 | Medieval Businessman | 311218 | [311218-medieval-businessman.json](./311218-medieval-businessman.json) |
 | Medieval Castle Siege Defense vs. Invaders | 406083 | [406083-medieval-castle-siege-defense-vs-invaders.json](./406083-medieval-castle-siege-defense-vs-invaders.json) |
+| Medieval Clicker Blacksmith | 256735 | [256735-medieval-clicker-blacksmith.json](./256735-medieval-clicker-blacksmith.json) |
 | Medieval Coin Hunt | 368540 | [368540-medieval-coin-hunt.json](./368540-medieval-coin-hunt.json) |
 | Medieval Combat: Age of Glory | 216354 | [216354-medieval-combat-age-of-glory.json](./216354-medieval-combat-age-of-glory.json) |
 | Medieval Conquest | 305948 | [305948-medieval-conquest.json](./305948-medieval-conquest.json) |
@@ -5603,6 +5604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Men in Black: The Game | 12898 | [12898-men-in-black-the-game.json](./12898-men-in-black-the-game.json) |
 | Men in Black: The Series | 240165 | [240165-men-in-black-the-series.json](./240165-men-in-black-the-series.json) |
 | Men in Black: The Series | 49285 | [49285-men-in-black-the-series.json](./49285-men-in-black-the-series.json) |
+| Men in Pants | 256750 | [256750-men-in-pants.json](./256750-men-in-pants.json) |
 | Men of Conviction | 316357 | [316357-men-of-conviction.json](./316357-men-of-conviction.json) |
 | Men of Valor | 5913 | [5913-men-of-valor.json](./5913-men-of-valor.json) |
 | Men of War | 9854 | [9854-men-of-war.json](./9854-men-of-war.json) |
@@ -11005,6 +11007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moto Racer 4: Deluxe Edition | 25019 | [25019-moto-racer-4-deluxe-edition.json](./25019-moto-racer-4-deluxe-edition.json) |
 | Moto Racer Collection | 36248 | [36248-moto-racer-collection.json](./36248-moto-racer-collection.json) |
 | Moto Racer DS | 10564 | [10564-moto-racer-ds.json](./10564-moto-racer-ds.json) |
+| Moto Racer Simulator GT Games | 256759 | [256759-moto-racer-simulator-gt-games.json](./256759-moto-racer-simulator-gt-games.json) |
 | Moto Racing 3D | 87081 | [87081-moto-racing-3d.json](./87081-moto-racing-3d.json) |
 | Moto Racing Highway Traffic | 395772 | [395772-moto-racing-highway-traffic.json](./395772-moto-racing-highway-traffic.json) |
 | Moto Rally Racing VR | 288785 | [288785-moto-rally-racing-vr.json](./288785-moto-rally-racing-vr.json) |
