@@ -318,6 +318,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daisy's Garden | 336605 | [336605-daisys-garden.json](./336605-daisys-garden.json) |
 | DaisyPop | 230230 | [230230-daisypop.json](./230230-daisypop.json) |
 | Daito Giken Koushiki Pachi-Slot Simulator: Hihouden - Ossu! Banchou: Yoshimune DS | 269571 | [269571-daito-giken-koushiki-pachi-slot-simulator-hihouden-ossu-banchou-yoshimune-ds.json](./269571-daito-giken-koushiki-pachi-slot-simulator-hihouden-ossu-banchou-yoshimune-ds.json) |
+| Daito Giken Koushiki Pachi-Slot Simulator: Ossu! Banchou Portable | 269490 | [269490-daito-giken-koushiki-pachi-slot-simulator-ossu-banchou-portable.json](./269490-daito-giken-koushiki-pachi-slot-simulator-ossu-banchou-portable.json) |
+| Daito Giken Koushiki Pachi-Slot Simulator: Ossu! Misao + Maguro Densetsu Portable | 269491 | [269491-daito-giken-koushiki-pachi-slot-simulator-ossu-misao-maguro-densetsu-portable.json](./269491-daito-giken-koushiki-pachi-slot-simulator-ossu-misao-maguro-densetsu-portable.json) |
 | Daito Giken Koushiki Pachislot Simulator: 24- Twenty-Four | 65550 | [65550-daito-giken-koushiki-pachislot-simulator-24-twenty-four.json](./65550-daito-giken-koushiki-pachislot-simulator-24-twenty-four.json) |
 | Daitoride | 93512 | [93512-daitoride.json](./93512-daitoride.json) |
 | Daitoshokan no Hitsujikai: Dreaming Sheep | 125812 | [125812-daitoshokan-no-hitsujikai-dreaming-sheep.json](./125812-daitoshokan-no-hitsujikai-dreaming-sheep.json) |
@@ -3973,6 +3975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demonic Crusade | 298896 | [298896-demonic-crusade.json](./298896-demonic-crusade.json) |
 | Demonic Defence 3 | 380695 | [380695-demonic-defence-3.json](./380695-demonic-defence-3.json) |
 | Demonic Destruction! | 261451 | [261451-demonic-destruction.json](./261451-demonic-destruction.json) |
+| Demonic Episode | 269479 | [269479-demonic-episode.json](./269479-demonic-episode.json) |
 | Demonic Gauntlet | 403120 | [403120-demonic-gauntlet.json](./403120-demonic-gauntlet.json) |
 | Demonic Karma Summoner | 85083 | [85083-demonic-karma-summoner.json](./85083-demonic-karma-summoner.json) |
 | Demonic Kiss | 371388 | [371388-demonic-kiss.json](./371388-demonic-kiss.json) |
@@ -4229,6 +4232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Derby Stallion Expert Kit | 123055 | [123055-derby-stallion-expert-kit.json](./123055-derby-stallion-expert-kit.json) |
 | Derby Stallion Gold | 123050 | [123050-derby-stallion-gold.json](./123050-derby-stallion-gold.json) |
 | Derby Stallion P | 59387 | [59387-derby-stallion-p.json](./59387-derby-stallion-p.json) |
+| Derby Time 2006 | 269489 | [269489-derby-time-2006.json](./269489-derby-time-2006.json) |
 | Derby Time Online | 7287 | [7287-derby-time-online.json](./7287-derby-time-online.json) |
 | Derby Tsuku 3: Derby-ba wo Tsukurou! | 288143 | [288143-derby-tsuku-3-derby-ba-wo-tsukurou.json](./288143-derby-tsuku-3-derby-ba-wo-tsukurou.json) |
 | Derby: Extreme Racing | 122131 | [122131-derby-extreme-racing.json](./122131-derby-extreme-racing.json) |
@@ -8234,6 +8238,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doraijin | 129674 | [129674-doraijin.json](./129674-doraijin.json) |
 | DoraKone | 116849 | [116849-dorakone.json](./116849-dorakone.json) |
 | Dorapan | 66753 | [66753-dorapan.json](./66753-dorapan.json) |
+| DoraSlot: Bakuenchi! Kyojin no Hoshi II | 269492 | [269492-doraslot-bakuenchi-kyojin-no-hoshi-ii.json](./269492-doraslot-bakuenchi-kyojin-no-hoshi-ii.json) |
+| DoraSlot: Oki-Slot-Ou! Pioneer 12 | 269493 | [269493-doraslot-oki-slot-ou-pioneer-12.json](./269493-doraslot-oki-slot-ou-pioneer-12.json) |
+| DoraSlot: Shuyaku ha Zenigata | 269494 | [269494-doraslot-shuyaku-ha-zenigata.json](./269494-doraslot-shuyaku-ha-zenigata.json) |
 | Dorasyeoda | 278528 | [278528-dorasyeoda.json](./278528-dorasyeoda.json) |
 | Dorc | 415087 | [415087-dorc.json](./415087-dorc.json) |
 | Dord | 223668 | [223668-dord.json](./223668-dord.json) |
@@ -11477,6 +11484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dusk 12: Deadly Zone | 17738 | [17738-dusk-12-deadly-zone.json](./17738-dusk-12-deadly-zone.json) |
 | Dusk Diver: Special Limited Edition | 167119 | [167119-dusk-diver-special-limited-edition.json](./167119-dusk-diver-special-limited-edition.json) |
 | Dusk Golem's Anthology of Horror | 124193 | [124193-dusk-golems-anthology-of-horror.json](./124193-dusk-golems-anthology-of-horror.json) |
+| Dusk HD | 269503 | [269503-dusk-hd.json](./269503-dusk-hd.json) |
 | Dusk Hunters | 402561 | [402561-dusk-hunters.json](./402561-dusk-hunters.json) |
 | Dusk of the Cage | 237949 | [237949-dusk-of-the-cage.json](./237949-dusk-of-the-cage.json) |
 | Dusk of the wasteland age | 163351 | [163351-dusk-of-the-wasteland-age.json](./163351-dusk-of-the-wasteland-age.json) |
