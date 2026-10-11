@@ -125,6 +125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Machine Challenger | 301254 | [301254-machine-challenger.json](./301254-machine-challenger.json) |
 | Machine Craft: Scrap Survival | 361793 | [361793-machine-craft-scrap-survival.json](./361793-machine-craft-scrap-survival.json) |
 | Machine Crisis | 76711 | [76711-machine-crisis.json](./76711-machine-crisis.json) |
+| Machine Fable | 270037 | [270037-machine-fable.json](./270037-machine-fable.json) |
 | Machine Gun Knight | 387025 | [387025-machine-gun-knight.json](./387025-machine-gun-knight.json) |
 | Machine Gun Mages | 221751 | [221751-machine-gun-mages.json](./221751-machine-gun-mages.json) |
 | Machine Heart | 248897 | [248897-machine-heart.json](./248897-machine-heart.json) |
@@ -1988,6 +1989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Manus Dei | 269226 | [269226-manus-dei.json](./269226-manus-dei.json) |
 | Manx TT Super Bike | 36572 | [36572-manx-tt-super-bike.json](./36572-manx-tt-super-bike.json) |
 | Many Crimes of Serenity Falls | 301917 | [301917-many-crimes-of-serenity-falls.json](./301917-many-crimes-of-serenity-falls.json) |
+| Many Eyed | 270051 | [270051-many-eyed.json](./270051-many-eyed.json) |
 | Many Faces | 127823 | [127823-many-faces.json](./127823-many-faces.json) |
 | Many Mini Typing Games | 295147 | [295147-many-mini-typing-games.json](./295147-many-mini-typing-games.json) |
 | Many Nights a Whisper | 335230 | [335230-many-nights-a-whisper.json](./335230-many-nights-a-whisper.json) |
@@ -2158,6 +2160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Märchen Maze | 212861 | [212861-marchen-maze.json](./212861-marchen-maze.json) |
 | Marchen Veil | 41337 | [41337-marchen-veil.json](./41337-marchen-veil.json) |
 | Marchen Veil I | 240177 | [240177-marchen-veil-i.json](./240177-marchen-veil-i.json) |
+| Marchenkanna | 270034 | [270034-marchenkanna.json](./270034-marchenkanna.json) |
 | Marchers | 109160 | [109160-marchers.json](./109160-marchers.json) |
 | Marching Order | 330151 | [330151-marching-order.json](./330151-marching-order.json) |
 | Marching Simulator | 96516 | [96516-marching-simulator.json](./96516-marching-simulator.json) |
@@ -9974,6 +9977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Train Collection | 346010 | [346010-monster-train-collection.json](./346010-monster-train-collection.json) |
 | Monster Train: The Last Divinity | 148116 | [148116-monster-train-the-last-divinity.json](./148116-monster-train-the-last-divinity.json) |
 | Monster Trampoline | 113477 | [113477-monster-trampoline.json](./113477-monster-trampoline.json) |
+| Monster Traveler | 270058 | [270058-monster-traveler.json](./270058-monster-traveler.json) |
 | Monster Trivia | 100119 | [100119-monster-trivia.json](./100119-monster-trivia.json) |
 | Monster Truck Championship | 132220 | [132220-monster-truck-championship.json](./132220-monster-truck-championship.json) |
 | Monster Truck Championship: Rebel Hunter Edition | 164784 | [164784-monster-truck-championship-rebel-hunter-edition.json](./164784-monster-truck-championship-rebel-hunter-edition.json) |
@@ -12180,6 +12184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Musical Chairs | 214009 | [214009-musical-chairs.json](./214009-musical-chairs.json) |
 | Musical Chairs with Bulldozers and Other Heavy Equipment | 232003 | [232003-musical-chairs-with-bulldozers-and-other-heavy-equipment.json](./232003-musical-chairs-with-bulldozers-and-other-heavy-equipment.json) |
 | Musical de Primeiro de Abril | 243404 | [243404-musical-de-primeiro-de-abril.json](./243404-musical-de-primeiro-de-abril.json) |
+| Musical Dominotes | 270066 | [270066-musical-dominotes.json](./270066-musical-dominotes.json) |
 | Musical Range | 30819 | [30819-musical-range.json](./30819-musical-range.json) |
 | Musical Reflex | 80937 | [80937-musical-reflex.json](./80937-musical-reflex.json) |
 | Musical Studio | 87123 | [87123-musical-studio.json](./87123-musical-studio.json) |
