@@ -164,6 +164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haegemonia: Legions of Iron | 8785 | [8785-haegemonia-legions-of-iron.json](./8785-haegemonia-legions-of-iron.json) |
 | Haegemonia: The Solon Heritage | 17299 | [17299-haegemonia-the-solon-heritage.json](./17299-haegemonia-the-solon-heritage.json) |
 | Haemo | 133934 | [133934-haemo.json](./133934-haemo.json) |
+| Haengbulhaeng: Haengbogui Sijageun Jigeumbuteo | 264543 | [264543-haengbulhaeng-haengbogui-sijageun-jigeumbuteo.json](./264543-haengbulhaeng-haengbogui-sijageun-jigeumbuteo.json) |
 | Haeven | 31930 | [31930-haeven.json](./31930-haeven.json) |
 | Hafermann | 177297 | [177297-hafermann.json](./177297-hafermann.json) |
 | Haffy DX | 336168 | [336168-haffy-dx.json](./336168-haffy-dx.json) |
@@ -5688,6 +5689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Home's Embrace | 177403 | [177403-homes-embrace.json](./177403-homes-embrace.json) |
 | Homebody | 202698 | [202698-homebody.json](./202698-homebody.json) |
 | Homebound | 178519 | [178519-homebound.json](./178519-homebound.json) |
+| Homebound | 264550 | [264550-homebound.json](./264550-homebound.json) |
 | Homebound | 27682 | [27682-homebound.json](./27682-homebound.json) |
 | Homebound Mariana | 302124 | [302124-homebound-mariana.json](./302124-homebound-mariana.json) |
 | Homebound: Escape Room | 391344 | [391344-homebound-escape-room.json](./391344-homebound-escape-room.json) |
