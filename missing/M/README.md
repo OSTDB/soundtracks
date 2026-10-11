@@ -10218,6 +10218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonbeeps: Fireflies | 99177 | [99177-moonbeeps-fireflies.json](./99177-moonbeeps-fireflies.json) |
 | Moonblood | 257418 | [257418-moonblood.json](./257418-moonblood.json) |
 | Moonbreaker | 214405 | [214405-moonbreaker.json](./214405-moonbreaker.json) |
+| MoonBright | 275549 | [275549-moonbright.json](./275549-moonbright.json) |
 | Moonbringer | 413478 | [413478-moonbringer.json](./413478-moonbringer.json) |
 | Mooncake Shop | 100989 | [100989-mooncake-shop.json](./100989-mooncake-shop.json) |
 | Mooncat's Trio | 308976 | [308976-mooncats-trio.json](./308976-mooncats-trio.json) |
