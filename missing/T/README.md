@@ -221,6 +221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TacOps | 77252 | [77252-tacops.json](./77252-tacops.json) |
 | Tacs Classic Collection | 403728 | [403728-tacs-classic-collection.json](./403728-tacs-classic-collection.json) |
 | TacTac Prologue | 198383 | [198383-tactac-prologue.json](./198383-tactac-prologue.json) |
+| TacTanks | 258409 | [258409-tactanks.json](./258409-tactanks.json) |
 | Tactera | 81169 | [81169-tactera.json](./81169-tactera.json) |
 | Tactful | 287565 | [287565-tactful.json](./287565-tactful.json) |
 | Tacti-Cat | 265926 | [265926-tacti-cat.json](./265926-tacti-cat.json) |
@@ -268,6 +269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tactics Arena Online | 69301 | [69301-tactics-arena-online.json](./69301-tactics-arena-online.json) |
 | Tactics Despair: Falling Fellows | 82846 | [82846-tactics-despair-falling-fellows.json](./82846-tactics-despair-falling-fellows.json) |
 | Tactics Formula | 141163 | [141163-tactics-formula.json](./141163-tactics-formula.json) |
+| Tactics Greed | 258369 | [258369-tactics-greed.json](./258369-tactics-greed.json) |
 | Tactics Maiden | 207856 | [207856-tactics-maiden.json](./207856-tactics-maiden.json) |
 | Tactics Maiden Remastered | 106557 | [106557-tactics-maiden-remastered.json](./106557-tactics-maiden-remastered.json) |
 | Tactics Ogre: The Knight of Lodis | 6635 | [6635-tactics-ogre-the-knight-of-lodis.json](./6635-tactics-ogre-the-knight-of-lodis.json) |
@@ -3580,6 +3582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventures of Nerdstan | 250348 | [250348-the-adventures-of-nerdstan.json](./250348-the-adventures-of-nerdstan.json) |
 | The Adventures of Nick & Willikins | 87182 | [87182-the-adventures-of-nick-and-willikins.json](./87182-the-adventures-of-nick-and-willikins.json) |
 | The Adventures of Oddley | 320742 | [320742-the-adventures-of-oddley.json](./320742-the-adventures-of-oddley.json) |
+| The Adventures of Panzer 2 | 258379 | [258379-the-adventures-of-panzer-2.json](./258379-the-adventures-of-panzer-2.json) |
 | The Adventures of Panzer: Legacy Collection | 283211 | [283211-the-adventures-of-panzer-legacy-collection.json](./283211-the-adventures-of-panzer-legacy-collection.json) |
 | The Adventures of Penny & Lou | 336707 | [336707-the-adventures-of-penny-and-lou.json](./336707-the-adventures-of-penny-and-lou.json) |
 | The Adventures of Peter Rabbit & Benjamin Bunny | 206209 | [206209-the-adventures-of-peter-rabbit-and-benjamin-bunny.json](./206209-the-adventures-of-peter-rabbit-and-benjamin-bunny.json) |
@@ -6536,6 +6539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Guardian Legend: Secret Edition | 269778 | [269778-the-guardian-legend-secret-edition.json](./269778-the-guardian-legend-secret-edition.json) |
 | The Guardian Shift | 313446 | [313446-the-guardian-shift.json](./313446-the-guardian-shift.json) |
 | The Guardians of the Secret Garden | 349305 | [349305-the-guardians-of-the-secret-garden.json](./349305-the-guardians-of-the-secret-garden.json) |
+| The Guest | 258393 | [258393-the-guest.json](./258393-the-guest.json) |
 | The Guest: Home Alone | 394171 | [394171-the-guest-home-alone.json](./394171-the-guest-home-alone.json) |
 | The Guestlist | 244381 | [244381-the-guestlist.json](./244381-the-guestlist.json) |
 | The Guides | 96263 | [96263-the-guides.json](./96263-the-guides.json) |
@@ -16059,6 +16063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Top Gear Rally | 3617 | [3617-top-gear-rally.json](./3617-top-gear-rally.json) |
 | Top Gear: Dare Devil | 43274 | [43274-top-gear-dare-devil.json](./43274-top-gear-dare-devil.json) |
 | Top Gear: Stunt School SSR | 257363 | [257363-top-gear-stunt-school-ssr.json](./257363-top-gear-stunt-school-ssr.json) |
+| Top Gnome | 258366 | [258366-top-gnome.json](./258366-top-gnome.json) |
 | Top God: Idle Heroes | 303038 | [303038-top-god-idle-heroes.json](./303038-top-god-idle-heroes.json) |
 | Top Gun | 18021 | [18021-top-gun.json](./18021-top-gun.json) |
 | Top Gun | 187357 | [187357-top-gun.json](./187357-top-gun.json) |
