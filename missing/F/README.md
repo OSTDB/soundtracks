@@ -6243,6 +6243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Formic Fortress | 405590 | [405590-formic-fortress.json](./405590-formic-fortress.json) |
 | Formido | 372243 | [372243-formido.json](./372243-formido.json) |
 | Formidolosa Nocte | 282839 | [282839-formidolosa-nocte.json](./282839-formidolosa-nocte.json) |
+| Formilion | 261747 | [261747-formilion.json](./261747-formilion.json) |
 | Formino | 175411 | [175411-formino.json](./175411-formino.json) |
 | Formless Adventure | 44232 | [44232-formless-adventure.json](./44232-formless-adventure.json) |
 | Formless Star | 343872 | [343872-formless-star.json](./343872-formless-star.json) |
