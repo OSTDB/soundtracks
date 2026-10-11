@@ -120,6 +120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earl Weaver Baseball II | 66097 | [66097-earl-weaver-baseball-ii.json](./66097-earl-weaver-baseball-ii.json) |
 | Early Kingdom | 363411 | [363411-early-kingdom.json](./363411-early-kingdom.json) |
 | Early Mellow | 296394 | [296394-early-mellow.json](./296394-early-mellow.json) |
+| Early-blooming Black Lily: Hana to Itsuki no Naisho no Hanashi 1 | 276135 | [276135-early-blooming-black-lily-hana-to-itsuki-no-naisho-no-hanashi-1.json](./276135-early-blooming-black-lily-hana-to-itsuki-no-naisho-no-hanashi-1.json) |
 | Early-blooming Black Lily: Itsuki-chan no Obentou | 273344 | [273344-early-blooming-black-lily-itsuki-chan-no-obentou.json](./273344-early-blooming-black-lily-itsuki-chan-no-obentou.json) |
 | Early-blooming Black Lily: Moshi Mo-series | 275613 | [275613-early-blooming-black-lily-moshi-mo-series.json](./275613-early-blooming-black-lily-moshi-mo-series.json) |
 | Earn to Die | 80713 | [80713-earn-to-die.json](./80713-earn-to-die.json) |
@@ -4894,6 +4895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extraneum | 178441 | [178441-extraneum.json](./178441-extraneum.json) |
 | Extraordinary Ball | 368605 | [368605-extraordinary-ball.json](./368605-extraordinary-ball.json) |
 | Extraordinary Detective Marshall | 299728 | [299728-extraordinary-detective-marshall.json](./299728-extraordinary-detective-marshall.json) |
+| Extraordinary: Immortal | 276134 | [276134-extraordinary-immortal.json](./276134-extraordinary-immortal.json) |
 | Extrapower Attack of Darkforce | 191751 | [191751-extrapower-attack-of-darkforce.json](./191751-extrapower-attack-of-darkforce.json) |
 | Extrapower Giant Fist | 191749 | [191749-extrapower-giant-fist.json](./191749-extrapower-giant-fist.json) |
 | Extrapower Star Resistance | 191696 | [191696-extrapower-star-resistance.json](./191696-extrapower-star-resistance.json) |
