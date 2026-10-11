@@ -4321,6 +4321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MechCom 2 | 105984 | [105984-mechcom-2.json](./105984-mechcom-2.json) |
 | MechCommander | 19193 | [19193-mechcommander.json](./19193-mechcommander.json) |
 | MechCorp | 102886 | [102886-mechcorp.json](./102886-mechcorp.json) |
+| MechCrisis | 243562 | [243562-mechcrisis.json](./243562-mechcrisis.json) |
 | MechCube: Dark Stories | 174283 | [174283-mechcube-dark-stories.json](./174283-mechcube-dark-stories.json) |
 | MechCube: Escape | 121387 | [121387-mechcube-escape.json](./121387-mechcube-escape.json) |
 | Mechenosets | 311065 | [311065-mechenosets.json](./311065-mechenosets.json) |
