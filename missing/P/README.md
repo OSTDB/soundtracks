@@ -3626,6 +3626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Photon Cube | 104057 | [104057-photon-cube.json](./104057-photon-cube.json) |
 | Photon Flux | 68703 | [68703-photon-flux.json](./68703-photon-flux.json) |
 | Photon Rush | 44197 | [44197-photon-rush.json](./44197-photon-rush.json) |
+| Photon: Planet Regenerator | 250272 | [250272-photon-planet-regenerator.json](./250272-photon-planet-regenerator.json) |
 | Photon: The Ultimate Game on Planet Earth | 64657 | [64657-photon-the-ultimate-game-on-planet-earth.json](./64657-photon-the-ultimate-game-on-planet-earth.json) |
 | Photoncytosis | 421345 | [421345-photoncytosis.json](./421345-photoncytosis.json) |
 | Photons | 288759 | [288759-photons.json](./288759-photons.json) |
@@ -7644,6 +7645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polystrike | 414144 | [414144-polystrike.json](./414144-polystrike.json) |
 | PolyTap | 341565 | [341565-polytap.json](./341565-polytap.json) |
 | Polytone | 174831 | [174831-polytone.json](./174831-polytone.json) |
+| Polytope | 250218 | [250218-polytope.json](./250218-polytope.json) |
 | Polytrack | 293354 | [293354-polytrack.json](./293354-polytrack.json) |
 | Polyturbo Drift Racing Simulator | 275036 | [275036-polyturbo-drift-racing-simulator.json](./275036-polyturbo-drift-racing-simulator.json) |
 | Polywar | 326772 | [326772-polywar.json](./326772-polywar.json) |
@@ -11139,6 +11141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Putrid/Sharp | 404947 | [404947-putrid-sharp.json](./404947-putrid-sharp.json) |
 | Putrika 2nd.Cut: For the Exquisite Attire | 352368 | [352368-putrika-2nd-cut-for-the-exquisite-attire.json](./352368-putrika-2nd-cut-for-the-exquisite-attire.json) |
 | Putt Nutz | 59458 | [59458-putt-nutz.json](./59458-putt-nutz.json) |
+| Putt Party | 250223 | [250223-putt-party.json](./250223-putt-party.json) |
 | Putt Putt Golf | 41311 | [41311-putt-putt-golf.json](./41311-putt-putt-golf.json) |
 | Putt Putt Golf 3D | 175419 | [175419-putt-putt-golf-3d.json](./175419-putt-putt-golf-3d.json) |
 | Putt Putt World - AR Mini Golf | 105898 | [105898-putt-putt-world-ar-mini-golf.json](./105898-putt-putt-world-ar-mini-golf.json) |
