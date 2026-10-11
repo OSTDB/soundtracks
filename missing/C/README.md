@@ -4864,6 +4864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chris Brackett's Kamikaze Karp | 101490 | [101490-chris-bracketts-kamikaze-karp.json](./101490-chris-bracketts-kamikaze-karp.json) |
 | Chris Moneymaker's World Poker Championship | 68636 | [68636-chris-moneymakers-world-poker-championship.json](./68636-chris-moneymakers-world-poker-championship.json) |
 | Chris's Classroom | 400904 | [400904-chriss-classroom.json](./400904-chriss-classroom.json) |
+| Christ's Revenge: Ascension | 255598 | [255598-christs-revenge-ascension.json](./255598-christs-revenge-ascension.json) |
 | Christa & Tonyo | 352857 | [352857-christa-and-tonyo.json](./352857-christa-and-tonyo.json) |
 | Christian Matchups | 95423 | [95423-christian-matchups.json](./95423-christian-matchups.json) |
 | Christine | 92150 | [92150-christine.json](./92150-christine.json) |
@@ -6322,6 +6323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CliveWareGold | 396008 | [396008-clivewaregold.json](./396008-clivewaregold.json) |
 | Clix | 97990 | [97990-clix.json](./97990-clix.json) |
 | Cloacaphobia | 285395 | [285395-cloacaphobia.json](./285395-cloacaphobia.json) |
+| Cloak & Dagger: Shadow Operations | 255576 | [255576-cloak-and-dagger-shadow-operations.json](./255576-cloak-and-dagger-shadow-operations.json) |
 | Cloak And Coin | 365810 | [365810-cloak-and-coin.json](./365810-cloak-and-coin.json) |
 | Cloak Hero | 258494 | [258494-cloak-hero.json](./258494-cloak-hero.json) |
 | Cloaked Protocol | 284977 | [284977-cloaked-protocol.json](./284977-cloaked-protocol.json) |
@@ -7459,7 +7461,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coloring Game: Expansion Pack No. 3 | 161256 | [161256-coloring-game-expansion-pack-no-3.json](./161256-coloring-game-expansion-pack-no-3.json) |
 | Coloring Game: Girls | 255329 | [255329-coloring-game-girls.json](./255329-coloring-game-girls.json) |
 | Coloring Game: Little City | 130402 | [130402-coloring-game-little-city.json](./130402-coloring-game-little-city.json) |
+| Coloring Game: Little City - No.1 | 255590 | [255590-coloring-game-little-city-no-1.json](./255590-coloring-game-little-city-no-1.json) |
+| Coloring Game: Little City - No.2 | 255592 | [255592-coloring-game-little-city-no-2.json](./255592-coloring-game-little-city-no-2.json) |
+| Coloring Game: Little City - No.3 | 255593 | [255593-coloring-game-little-city-no-3.json](./255593-coloring-game-little-city-no-3.json) |
+| Coloring Game: Little City - No.4 | 255594 | [255594-coloring-game-little-city-no-4.json](./255594-coloring-game-little-city-no-4.json) |
+| Coloring Game: Little City - No.5 | 255595 | [255595-coloring-game-little-city-no-5.json](./255595-coloring-game-little-city-no-5.json) |
+| Coloring Game: Mini Pack | 255588 | [255588-coloring-game-mini-pack.json](./255588-coloring-game-mini-pack.json) |
 | Coloring Game: Studio | 273998 | [273998-coloring-game-studio.json](./273998-coloring-game-studio.json) |
+| Coloring Game: The Family | 255589 | [255589-coloring-game-the-family.json](./255589-coloring-game-the-family.json) |
 | Coloring Games for Families+ | 415287 | [415287-coloring-games-for-families.json](./415287-coloring-games-for-families.json) |
 | Coloring Pages: Lumberhill Tales | 316917 | [316917-coloring-pages-lumberhill-tales.json](./316917-coloring-pages-lumberhill-tales.json) |
 | Coloring Pixels: Advent 3 Pack | 225002 | [225002-coloring-pixels-advent-3-pack.json](./225002-coloring-pixels-advent-3-pack.json) |
@@ -12217,6 +12226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curtain Call | 197133 | [197133-curtain-call.json](./197133-curtain-call.json) |
 | Curtain Call | 319673 | [319673-curtain-call.json](./319673-curtain-call.json) |
 | Curtain Call | 405046 | [405046-curtain-call.json](./405046-curtain-call.json) |
+| Curtain Call Crusade | 255570 | [255570-curtain-call-crusade.json](./255570-curtain-call-crusade.json) |
 | Curtain Drop | 352828 | [352828-curtain-drop.json](./352828-curtain-drop.json) |
 | Curtainfall | 367613 | [367613-curtainfall.json](./367613-curtainfall.json) |
 | Curtiss | 40739 | [40739-curtiss.json](./40739-curtiss.json) |
