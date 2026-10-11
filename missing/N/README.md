@@ -77,6 +77,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nahlakh | 94013 | [94013-nahlakh.json](./94013-nahlakh.json) |
 | Naiad | 180277 | [180277-naiad.json](./180277-naiad.json) |
 | Naïca | 118959 | [118959-naica.json](./118959-naica.json) |
+| Naiko's Room | 277797 | [277797-naikos-room.json](./277797-naikos-room.json) |
 | Nail 'n Scale | 49035 | [49035-nail-n-scale.json](./49035-nail-n-scale.json) |
 | Nail Salon | 89198 | [89198-nail-salon.json](./89198-nail-salon.json) |
 | Nail'd | 7096 | [7096-naild.json](./7096-naild.json) |
@@ -2764,6 +2765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night/Shade: You're the Drug | 142961 | [142961-night-shade-youre-the-drug.json](./142961-night-shade-youre-the-drug.json) |
 | Night&Scape | 237052 | [237052-night-and-scape.json](./237052-night-and-scape.json) |
 | Nightbanes | 9518 | [9518-nightbanes.json](./9518-nightbanes.json) |
+| Nightbeast VR | 277769 | [277769-nightbeast-vr.json](./277769-nightbeast-vr.json) |
 | Nightbird Society | 196309 | [196309-nightbird-society.json](./196309-nightbird-society.json) |
 | Nightbloom | 138110 | [138110-nightbloom.json](./138110-nightbloom.json) |
 | Nightboarder | 179031 | [179031-nightboarder.json](./179031-nightboarder.json) |
