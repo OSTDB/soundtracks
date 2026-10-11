@@ -2378,6 +2378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Helbreath | 307147 | [307147-helbreath.json](./307147-helbreath.json) |
 | Helbreath Nemesis | 292432 | [292432-helbreath-nemesis.json](./292432-helbreath-nemesis.json) |
 | Heldric: The Legend of the Shoemaker | 17233 | [17233-heldric-the-legend-of-the-shoemaker.json](./17233-heldric-the-legend-of-the-shoemaker.json) |
+| Helen | 272210 | [272210-helen.json](./272210-helen.json) |
 | Helen Keller Simulator | 412205 | [412205-helen-keller-simulator.json](./412205-helen-keller-simulator.json) |
 | Helen's Mysterious Castle | 27991 | [27991-helens-mysterious-castle.json](./27991-helens-mysterious-castle.json) |
 | Helena: Cloud District | 416638 | [416638-helena-cloud-district.json](./416638-helena-cloud-district.json) |
@@ -2510,6 +2511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell Let Loose: Deluxe Edition | 273004 | [273004-hell-let-loose-deluxe-edition.json](./273004-hell-let-loose-deluxe-edition.json) |
 | Hell Let Loose: Devotion to Duty | 252863 | [252863-hell-let-loose-devotion-to-duty.json](./252863-hell-let-loose-devotion-to-duty.json) |
 | Hell Let Loose: Long Range Desert Group | 372250 | [372250-hell-let-loose-long-range-desert-group.json](./372250-hell-let-loose-long-range-desert-group.json) |
+| Hell Let Loose: Luftwaffe Eagles | 272194 | [272194-hell-let-loose-luftwaffe-eagles.json](./272194-hell-let-loose-luftwaffe-eagles.json) |
 | Hell Let Loose: Oak Leaf | 305547 | [305547-hell-let-loose-oak-leaf.json](./305547-hell-let-loose-oak-leaf.json) |
 | Hell Let Loose: Operation Lüttich Units | 331899 | [331899-hell-let-loose-operation-luttich-units.json](./331899-hell-let-loose-operation-luttich-units.json) |
 | Hell Let Loose: Operation Overlord Units | 366854 | [366854-hell-let-loose-operation-overlord-units.json](./366854-hell-let-loose-operation-overlord-units.json) |
@@ -3136,6 +3138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Hospital | 371360 | [371360-hentai-hospital.json](./371360-hentai-hospital.json) |
 | Hentai House Wife | 371369 | [371369-hentai-house-wife.json](./371369-hentai-house-wife.json) |
 | Hentai House: Next Door | 403713 | [403713-hentai-house-next-door.json](./403713-hentai-house-next-door.json) |
+| Hentai Hunter | 272223 | [272223-hentai-hunter.json](./272223-hentai-hunter.json) |
 | Hentai in the Forest | 155689 | [155689-hentai-in-the-forest.json](./155689-hentai-in-the-forest.json) |
 | Hentai Island | 226187 | [226187-hentai-island.json](./226187-hentai-island.json) |
 | Hentai Jigsaw Girls 2 | 162840 | [162840-hentai-jigsaw-girls-2.json](./162840-hentai-jigsaw-girls-2.json) |
