@@ -4544,6 +4544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RideOp | 72415 | [72415-rideop.json](./72415-rideop.json) |
 | RideOp: New Heights - Expansion pack | 226950 | [226950-rideop-new-heights-expansion-pack.json](./226950-rideop-new-heights-expansion-pack.json) |
 | Rider | 87651 | [87651-rider.json](./87651-rider.json) |
+| Rider Among Dead | 240134 | [240134-rider-among-dead.json](./240134-rider-among-dead.json) |
 | Rider Worlds | 256748 | [256748-rider-worlds.json](./256748-rider-worlds.json) |
 | Rider's Spirits | 38214 | [38214-riders-spirits.json](./38214-riders-spirits.json) |
 | Rider's World: I Want to Ride! | 163942 | [163942-riders-world-i-want-to-ride.json](./163942-riders-world-i-want-to-ride.json) |
