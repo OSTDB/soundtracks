@@ -2419,6 +2419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Puzzle | 380062 | [380062-cat-puzzle.json](./380062-cat-puzzle.json) |
 | Cat Quest III: Tavern Tales | 347866 | [347866-cat-quest-iii-tavern-tales.json](./347866-cat-quest-iii-tavern-tales.json) |
 | Cat Quest: The Fur-tastic Trilogy | 313223 | [313223-cat-quest-the-fur-tastic-trilogy.json](./313223-cat-quest-the-fur-tastic-trilogy.json) |
+| Cat Raid | 255010 | [255010-cat-raid.json](./255010-cat-raid.json) |
 | Cat Rescue | 329530 | [329530-cat-rescue.json](./329530-cat-rescue.json) |
 | Cat Rescue Inc. | 345650 | [345650-cat-rescue-inc.json](./345650-cat-rescue-inc.json) |
 | Cat Runner 2018 | 99414 | [99414-cat-runner-2018.json](./99414-cat-runner-2018.json) |
@@ -6147,6 +6148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clem | 203449 | [203449-clem.json](./203449-clem.json) |
 | Clency and Livia | 284293 | [284293-clency-and-livia.json](./284293-clency-and-livia.json) |
 | Cleo: A Pirate's Tale - Deluxe Edition | 186887 | [186887-cleo-a-pirates-tale-deluxe-edition.json](./186887-cleo-a-pirates-tale-deluxe-edition.json) |
+| Cleopatra Fortune Plus | 254954 | [254954-cleopatra-fortune-plus.json](./254954-cleopatra-fortune-plus.json) |
 | Cleopatra Fortune: S-Tribute | 225886 | [225886-cleopatra-fortune-s-tribute.json](./225886-cleopatra-fortune-s-tribute.json) |
 | Cleopatra no Mahou | 41328 | [41328-cleopatra-no-mahou.json](./41328-cleopatra-no-mahou.json) |
 | Clériga | 300674 | [300674-cleriga.json](./300674-cleriga.json) |
