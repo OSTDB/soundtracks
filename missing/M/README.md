@@ -5082,6 +5082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MegaMan NT Warrior Advanced PET: Battle Chip - ThunderBall | 352963 | [352963-megaman-nt-warrior-advanced-pet-battle-chip-thunderball.json](./352963-megaman-nt-warrior-advanced-pet-battle-chip-thunderball.json) |
 | MegaMan NT Warrior Advanced PET: Battle Chip - WideSword | 352939 | [352939-megaman-nt-warrior-advanced-pet-battle-chip-widesword.json](./352939-megaman-nt-warrior-advanced-pet-battle-chip-widesword.json) |
 | MegaMan NT Warrior Advanced PET: Battle Chip - Wind | 352947 | [352947-megaman-nt-warrior-advanced-pet-battle-chip-wind.json](./352947-megaman-nt-warrior-advanced-pet-battle-chip-wind.json) |
+| Megaman RPG | 263421 | [263421-megaman-rpg.json](./263421-megaman-rpg.json) |
 | Megaman Sprite Christmas | 172595 | [172595-megaman-sprite-christmas.json](./172595-megaman-sprite-christmas.json) |
 | MegaMan Super Charged | 320359 | [320359-megaman-super-charged.json](./320359-megaman-super-charged.json) |
 | Megaman Triple Threat | 326813 | [326813-megaman-triple-threat.json](./326813-megaman-triple-threat.json) |
@@ -7288,6 +7289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Millennium Dawn: A Modern Day Mod | 256450 | [256450-millennium-dawn-a-modern-day-mod.json](./256450-millennium-dawn-a-modern-day-mod.json) |
 | Millennium GamePak Gold | 273905 | [273905-millennium-gamepak-gold.json](./273905-millennium-gamepak-gold.json) |
 | Millennium Gamepak Platinum | 273906 | [273906-millennium-gamepak-platinum.json](./273906-millennium-gamepak-platinum.json) |
+| Millennium Mini-Episode | 263422 | [263422-millennium-mini-episode.json](./263422-millennium-mini-episode.json) |
 | Millennium Mission | 274731 | [274731-millennium-mission.json](./274731-millennium-mission.json) |
 | Millennium Racer: Y2K Fighters | 79897 | [79897-millennium-racer-y2k-fighters.json](./79897-millennium-racer-y2k-fighters.json) |
 | Millennium Runners | 336121 | [336121-millennium-runners.json](./336121-millennium-runners.json) |
@@ -8775,6 +8777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mizuki Shigeru no Yokai Butou-den | 60593 | [60593-mizuki-shigeru-no-yokai-butou-den.json](./60593-mizuki-shigeru-no-yokai-butou-den.json) |
 | Mizuki Shigeru no Yokai Hyakki Yakou | 37924 | [37924-mizuki-shigeru-no-yokai-hyakki-yakou.json](./37924-mizuki-shigeru-no-yokai-hyakki-yakou.json) |
 | Mizuki Shigeru no Yokai Shashinkan | 43963 | [43963-mizuki-shigeru-no-yokai-shashinkan.json](./43963-mizuki-shigeru-no-yokai-shashinkan.json) |
+| Mizuki Shigeru no Youkai Zukan: Soushuu-hen | 263394 | [263394-mizuki-shigeru-no-youkai-zukan-soushuu-hen.json](./263394-mizuki-shigeru-no-youkai-zukan-soushuu-hen.json) |
 | Mizushima Shinji no Daikoushien | 48772 | [48772-mizushima-shinji-no-daikoushien.json](./48772-mizushima-shinji-no-daikoushien.json) |
 | Mizz Survival | 243767 | [243767-mizz-survival.json](./243767-mizz-survival.json) |
 | MJ | 130945 | [130945-mj.json](./130945-mj.json) |
@@ -10096,6 +10099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monstre de Coiffure | 207822 | [207822-monstre-de-coiffure.json](./207822-monstre-de-coiffure.json) |
 | Monstress Academy | 83802 | [83802-monstress-academy.json](./83802-monstress-academy.json) |
 | Monstrix TCG Card Shop | 334083 | [334083-monstrix-tcg-card-shop.json](./334083-monstrix-tcg-card-shop.json) |
+| Monstro Giganto | 263375 | [263375-monstro-giganto.json](./263375-monstro-giganto.json) |
 | Monstro Maestro | 382763 | [382763-monstro-maestro.json](./382763-monstro-maestro.json) |
 | Monstrocity | 179554 | [179554-monstrocity.json](./179554-monstrocity.json) |
 | Monstromania | 19343 | [19343-monstromania.json](./19343-monstromania.json) |
