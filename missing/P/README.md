@@ -7603,6 +7603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polyrhythm Mania | 182445 | [182445-polyrhythm-mania.json](./182445-polyrhythm-mania.json) |
 | Polyrhythm Master | 235175 | [235175-polyrhythm-master.json](./235175-polyrhythm-master.json) |
 | Polyroll | 87936 | [87936-polyroll.json](./87936-polyroll.json) |
+| Polyroll Pocket | 258399 | [258399-polyroll-pocket.json](./258399-polyroll-pocket.json) |
 | PolyRoyale | 364034 | [364034-polyroyale.json](./364034-polyroyale.json) |
 | Polyrun | 120960 | [120960-polyrun.json](./120960-polyrun.json) |
 | Polysemy‌ | 326187 | [326187-polysemy.json](./326187-polysemy.json) |
