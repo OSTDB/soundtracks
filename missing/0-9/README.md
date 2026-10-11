@@ -484,6 +484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1001 Crystal Mazes Collection | 66625 | [66625-1001-crystal-mazes-collection.json](./66625-1001-crystal-mazes-collection.json) |
 | 1001 Jigsaw Detective | 166639 | [166639-1001-jigsaw-detective.json](./166639-1001-jigsaw-detective.json) |
 | 1001 Jigsaw Detective 3 | 268027 | [268027-1001-jigsaw-detective-3.json](./268027-1001-jigsaw-detective-3.json) |
+| 1001 Jigsaw Detective 4 | 262879 | [262879-1001-jigsaw-detective-4.json](./262879-1001-jigsaw-detective-4.json) |
 | 1001 Jigsaw World Tour China | 261313 | [261313-1001-jigsaw-world-tour-china.json](./261313-1001-jigsaw-world-tour-china.json) |
 | 1001 Jigsaw World Tour South Korea | 273353 | [273353-1001-jigsaw-world-tour-south-korea.json](./273353-1001-jigsaw-world-tour-south-korea.json) |
 | 1001 Jigsaw World Tour: Europe | 96827 | [96827-1001-jigsaw-world-tour-europe.json](./96827-1001-jigsaw-world-tour-europe.json) |
@@ -1013,6 +1014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2088: The Cryllan Mission | 57377 | [57377-2088-the-cryllan-mission.json](./57377-2088-the-cryllan-mission.json) |
 | 2088: The Cryllan Mission - The Second Scenario | 57374 | [57374-2088-the-cryllan-mission-the-second-scenario.json](./57374-2088-the-cryllan-mission-the-second-scenario.json) |
 | 2089: Space Divided | 159112 | [159112-2089-space-divided.json](./159112-2089-space-divided.json) |
+| 2099 Gravity Havoc | 262852 | [262852-2099-gravity-havoc.json](./262852-2099-gravity-havoc.json) |
 | 20b | 169819 | [169819-20b.json](./169819-20b.json) |
 | 20MTD: Emberpath | 275552 | [275552-20mtd-emberpath.json](./275552-20mtd-emberpath.json) |
 | 20Q | 320398 | [320398-20q.json](./320398-20q.json) |
