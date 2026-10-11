@@ -525,6 +525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echoes Beyond the Stars | 386304 | [386304-echoes-beyond-the-stars.json](./386304-echoes-beyond-the-stars.json) |
 | Echoes From Ciudadela | 387335 | [387335-echoes-from-ciudadela.json](./387335-echoes-from-ciudadela.json) |
 | Echoes from the Abyss | 309135 | [309135-echoes-from-the-abyss.json](./309135-echoes-from-the-abyss.json) |
+| Echoes From The Threshold 2 | 267289 | [267289-echoes-from-the-threshold-2.json](./267289-echoes-from-the-threshold-2.json) |
 | Echoes Ⅱ | 303505 | [303505-echoes-ii.json](./303505-echoes-ii.json) |
 | Echoes III | 107373 | [107373-echoes-iii.json](./107373-echoes-iii.json) |
 | Echoes In Static | 395879 | [395879-echoes-in-static.json](./395879-echoes-in-static.json) |
@@ -1765,6 +1766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Embers of the Gods | 403648 | [403648-embers-of-the-gods.json](./403648-embers-of-the-gods.json) |
 | Embers of the Night | 348863 | [348863-embers-of-the-night.json](./348863-embers-of-the-night.json) |
 | Embers of the Zombie Battlemage: Halloween | 211755 | [211755-embers-of-the-zombie-battlemage-halloween.json](./211755-embers-of-the-zombie-battlemage-halloween.json) |
+| Embers: Return to Dragonland | 267273 | [267273-embers-return-to-dragonland.json](./267273-embers-return-to-dragonland.json) |
 | Embershade | 323259 | [323259-embershade.json](./323259-embershade.json) |
 | EmberStride | 374137 | [374137-emberstride.json](./374137-emberstride.json) |
 | Embervale.TV | 239577 | [239577-embervale-tv.json](./239577-embervale-tv.json) |
