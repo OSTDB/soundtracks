@@ -1068,6 +1068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ken ga Kimi for S | 144572 | [144572-ken-ga-kimi-for-s.json](./144572-ken-ga-kimi-for-s.json) |
 | Ken Griffey Jr. Presents Major League Baseball | 299308 | [299308-ken-griffey-jr-presents-major-league-baseball.json](./299308-ken-griffey-jr-presents-major-league-baseball.json) |
 | Ken Griffey Jr.'s Horrible Tower | 382786 | [382786-ken-griffey-jr-s-horrible-tower.json](./382786-ken-griffey-jr-s-horrible-tower.json) |
+| Ken Griffey Jr.'s Slugfest | 249120 | [249120-ken-griffey-jr-s-slugfest.json](./249120-ken-griffey-jr-s-slugfest.json) |
 | Ken Griffey Jr.'s Slugfest | 3531 | [3531-ken-griffey-jr-s-slugfest.json](./3531-ken-griffey-jr-s-slugfest.json) |
 | Ken Griffey Jr.'s Winning Run | 42507 | [42507-ken-griffey-jr-s-winning-run.json](./42507-ken-griffey-jr-s-winning-run.json) |
 | Ken to Mahou to Gakuen Mono: Anniversary Edition | 96495 | [96495-ken-to-mahou-to-gakuen-mono-anniversary-edition.json](./96495-ken-to-mahou-to-gakuen-mono-anniversary-edition.json) |
@@ -1235,6 +1236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keystone Kapers | 12311 | [12311-keystone-kapers.json](./12311-keystone-kapers.json) |
 | Keystone Kapers | 198792 | [198792-keystone-kapers.json](./198792-keystone-kapers.json) |
 | Keystone Library | 226428 | [226428-keystone-library.json](./226428-keystone-library.json) |
+| Keystone Titans VR | 249074 | [249074-keystone-titans-vr.json](./249074-keystone-titans-vr.json) |
 | keyWars | 96848 | [96848-keywars.json](./96848-keywars.json) |
 | Keyword 2: Nightfall | 276657 | [276657-keyword-2-nightfall.json](./276657-keyword-2-nightfall.json) |
 | KeyWords | 72079 | [72079-keywords.json](./72079-keywords.json) |
