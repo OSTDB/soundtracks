@@ -2987,6 +2987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sedap! A Culinary Adventure | 273429 | [273429-sedap-a-culinary-adventure.json](./273429-sedap-a-culinary-adventure.json) |
 | Sedecktion | 297213 | [297213-sedecktion.json](./297213-sedecktion.json) |
 | Sedomairi | 159706 | [159706-sedomairi.json](./159706-sedomairi.json) |
+| Seduce Her Harem | 257865 | [257865-seduce-her-harem.json](./257865-seduce-her-harem.json) |
 | Seduce Me the Otome | 19075 | [19075-seduce-me-the-otome.json](./19075-seduce-me-the-otome.json) |
 | Seduce Me the Otome: Episode Series | 145559 | [145559-seduce-me-the-otome-episode-series.json](./145559-seduce-me-the-otome-episode-series.json) |
 | Seduce Me: The Complete Story | 134665 | [134665-seduce-me-the-complete-story.json](./134665-seduce-me-the-complete-story.json) |
@@ -3928,6 +3929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex Prison | 175795 | [175795-sex-prison.json](./175795-sex-prison.json) |
 | Sex Prison VR | 368090 | [368090-sex-prison-vr.json](./368090-sex-prison-vr.json) |
 | Sex Restaurant: Kuronekotei | 108938 | [108938-sex-restaurant-kuronekotei.json](./108938-sex-restaurant-kuronekotei.json) |
+| Sex Rhythm: Onsen | 257846 | [257846-sex-rhythm-onsen.json](./257846-sex-rhythm-onsen.json) |
 | Sex Room: 18+ | 235270 | [235270-sex-room-18.json](./235270-sex-room-18.json) |
 | Sex Search | 230950 | [230950-sex-search.json](./230950-sex-search.json) |
 | Sex Search 2: Ultimate | 204430 | [204430-sex-search-2-ultimate.json](./204430-sex-search-2-ultimate.json) |
@@ -9850,6 +9852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soccer Brawl | 39843 | [39843-soccer-brawl.json](./39843-soccer-brawl.json) |
 | Soccer But Different | 209666 | [209666-soccer-but-different.json](./209666-soccer-but-different.json) |
 | Soccer Championship | 108468 | [108468-soccer-championship.json](./108468-soccer-championship.json) |
+| Soccer Clicker | 257874 | [257874-soccer-clicker.json](./257874-soccer-clicker.json) |
 | Soccer Club Life Playing Manager | 141514 | [141514-soccer-club-life-playing-manager.json](./141514-soccer-club-life-playing-manager.json) |
 | Soccer Club Story | 92485 | [92485-soccer-club-story.json](./92485-soccer-club-story.json) |
 | Soccer Clubs | 235998 | [235998-soccer-clubs.json](./235998-soccer-clubs.json) |
@@ -11687,6 +11690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soulash | 118457 | [118457-soulash.json](./118457-soulash.json) |
 | Soulash 2 | 249194 | [249194-soulash-2.json](./249194-soulash-2.json) |
 | Soulbind: Prologue | 289263 | [289263-soulbind-prologue.json](./289263-soulbind-prologue.json) |
+| Soulbind: Tales of the Underworld | 257866 | [257866-soulbind-tales-of-the-underworld.json](./257866-soulbind-tales-of-the-underworld.json) |
 | Soulblade: Dawnbreaker | 380003 | [380003-soulblade-dawnbreaker.json](./380003-soulblade-dawnbreaker.json) |
 | Soulblaze | 325674 | [325674-soulblaze.json](./325674-soulblaze.json) |
 | Soulborn | 132183 | [132183-soulborn.json](./132183-soulborn.json) |
