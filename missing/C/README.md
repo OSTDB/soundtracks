@@ -494,6 +494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Elyndra | 321573 | [321573-call-of-elyndra.json](./321573-call-of-elyndra.json) |
 | Call of Farming | 259583 | [259583-call-of-farming.json](./259583-call-of-farming.json) |
 | Call of Farming: Together | 278741 | [278741-call-of-farming-together.json](./278741-call-of-farming-together.json) |
+| Call of FireWork | 274972 | [274972-call-of-firework.json](./274972-call-of-firework.json) |
 | Call of Fries | 116977 | [116977-call-of-fries.json](./116977-call-of-fries.json) |
 | Call of Hentai Neko | 367511 | [367511-call-of-hentai-neko.json](./367511-call-of-hentai-neko.json) |
 | Call of Honor: Shooter of Warfare | 328095 | [328095-call-of-honor-shooter-of-warfare.json](./328095-call-of-honor-shooter-of-warfare.json) |
@@ -7188,6 +7189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Blind: The Game | 231397 | [231397-color-blind-the-game.json](./231397-color-blind-the-game.json) |
 | Color Block Jam | 339436 | [339436-color-block-jam.json](./339436-color-block-jam.json) |
 | Color Blocks - Relax Puzzle | 130854 | [130854-color-blocks-relax-puzzle.json](./130854-color-blocks-relax-puzzle.json) |
+| Color Bomb! | 274954 | [274954-color-bomb.json](./274954-color-bomb.json) |
 | Color Bound | 181663 | [181663-color-bound.json](./181663-color-bound.json) |
 | Color Breakers | 151018 | [151018-color-breakers.json](./151018-color-breakers.json) |
 | Color Breakers 2 | 338877 | [338877-color-breakers-2.json](./338877-color-breakers-2.json) |
