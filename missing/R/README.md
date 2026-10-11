@@ -7798,6 +7798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Running Beehind | 399694 | [399694-running-beehind.json](./399694-running-beehind.json) |
 | Running Black | 120990 | [120990-running-black.json](./120990-running-black.json) |
 | Running Challenge | 190152 | [190152-running-challenge.json](./190152-running-challenge.json) |
+| Running Circles | 251504 | [251504-running-circles.json](./251504-running-circles.json) |
 | Running Crazy | 271910 | [271910-running-crazy.json](./271910-running-crazy.json) |
 | Running Education | 148459 | [148459-running-education.json](./148459-running-education.json) |
 | Running Fox | 267061 | [267061-running-fox.json](./267061-running-fox.json) |
