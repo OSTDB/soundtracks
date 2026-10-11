@@ -2269,6 +2269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kinoko-nun | 379907 | [379907-kinoko-nun.json](./379907-kinoko-nun.json) |
 | KiNoKoe: Tree's Voice | 217259 | [217259-kinokoe-trees-voice.json](./217259-kinokoe-trees-voice.json) |
 | Kinshin Ingo Doteigari | 108945 | [108945-kinshin-ingo-doteigari.json](./108945-kinshin-ingo-doteigari.json) |
+| Kinstrife | 277774 | [277774-kinstrife.json](./277774-kinstrife.json) |
 | Kintsugi | 135682 | [135682-kintsugi.json](./135682-kintsugi.json) |
 | Kintsugi | 396400 | [396400-kintsugi.json](./396400-kintsugi.json) |
 | Kintsugi: A Journey Through the Broken Pieces | 339927 | [339927-kintsugi-a-journey-through-the-broken-pieces.json](./339927-kintsugi-a-journey-through-the-broken-pieces.json) |
