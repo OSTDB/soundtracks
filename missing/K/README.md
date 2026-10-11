@@ -2494,6 +2494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kitchen Confidence | 236855 | [236855-kitchen-confidence.json](./236855-kitchen-confidence.json) |
 | Kitchen Gore | 355042 | [355042-kitchen-gore.json](./355042-kitchen-gore.json) |
 | Kitchen Island VR | 158593 | [158593-kitchen-island-vr.json](./158593-kitchen-island-vr.json) |
+| Kitchen Madness | 258905 | [258905-kitchen-madness.json](./258905-kitchen-madness.json) |
 | Kitchen master | 26648 | [26648-kitchen-master.json](./26648-kitchen-master.json) |
 | Kitchen of Gods | 408241 | [408241-kitchen-of-gods.json](./408241-kitchen-of-gods.json) |
 | Kitchen Scramble: Cooking Game | 123439 | [123439-kitchen-scramble-cooking-game.json](./123439-kitchen-scramble-cooking-game.json) |
@@ -2979,6 +2980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knockout Kings 2001 | 44747 | [44747-knockout-kings-2001.json](./44747-knockout-kings-2001.json) |
 | Knockout Kings 2003 | 50571 | [50571-knockout-kings-2003.json](./50571-knockout-kings-2003.json) |
 | Knockout League | 32859 | [32859-knockout-league.json](./32859-knockout-league.json) |
+| Knockout Master | 258938 | [258938-knockout-master.json](./258938-knockout-master.json) |
 | Knockout Party | 51161 | [51161-knockout-party.json](./51161-knockout-party.json) |
 | Knockout Peoples: Chotto Zankoku na Hakurankai | 260745 | [260745-knockout-peoples-chotto-zankoku-na-hakurankai.json](./260745-knockout-peoples-chotto-zankoku-na-hakurankai.json) |
 | Knockturne | 340886 | [340886-knockturne.json](./340886-knockturne.json) |
@@ -3052,6 +3054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kobold Underground Agency | 296923 | [296923-kobold-underground-agency.json](./296923-kobold-underground-agency.json) |
 | Kobold: Chapter I | 112055 | [112055-kobold-chapter-i.json](./112055-kobold-chapter-i.json) |
 | KoboldKare | 344381 | [344381-koboldkare.json](./344381-koboldkare.json) |
+| KoboldKroniken | 258939 | [258939-koboldkroniken.json](./258939-koboldkroniken.json) |
 | Koboomballs | 112845 | [112845-koboomballs.json](./112845-koboomballs.json) |
 | Kobyashi Naru | 52204 | [52204-kobyashi-naru.json](./52204-kobyashi-naru.json) |
 | KochiKame: Ryo-san's Billion-yen Beat | 402892 | [402892-kochikame-ryo-sans-billion-yen-beat.json](./402892-kochikame-ryo-sans-billion-yen-beat.json) |
