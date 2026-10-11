@@ -607,6 +607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Palitoman Adventure | 408085 | [408085-palitoman-adventure.json](./408085-palitoman-adventure.json) |
 | Palitron | 58199 | [58199-palitron.json](./58199-palitron.json) |
 | Palladise Island: Legendary Space | 228089 | [228089-palladise-island-legendary-space.json](./228089-palladise-island-legendary-space.json) |
+| Palladium | 250813 | [250813-palladium.json](./250813-palladium.json) |
 | Palladium: Adventure in Greece | 132798 | [132798-palladium-adventure-in-greece.json](./132798-palladium-adventure-in-greece.json) |
 | Pallas of Vines | 129762 | [129762-pallas-of-vines.json](./129762-pallas-of-vines.json) |
 | Pallet | 250971 | [250971-pallet.json](./250971-pallet.json) |
@@ -5016,6 +5017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Boy: The Legend of Tain | 219674 | [219674-pixel-boy-the-legend-of-tain.json](./219674-pixel-boy-the-legend-of-tain.json) |
 | Pixel Brave | 396944 | [396944-pixel-brave.json](./396944-pixel-brave.json) |
 | Pixel Builder | 105962 | [105962-pixel-builder.json](./105962-pixel-builder.json) |
+| Pixel Cafe | 250826 | [250826-pixel-cafe.json](./250826-pixel-cafe.json) |
 | Pixel Cafe Dreamy Interiors | 378963 | [378963-pixel-cafe-dreamy-interiors.json](./378963-pixel-cafe-dreamy-interiors.json) |
 | Pixel Cafe: Definitive Edition | 400200 | [400200-pixel-cafe-definitive-edition.json](./400200-pixel-cafe-definitive-edition.json) |
 | Pixel Cafe: Discovery Edition | 395682 | [395682-pixel-cafe-discovery-edition.json](./395682-pixel-cafe-discovery-edition.json) |
@@ -8940,6 +8942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Primal Rage | 370309 | [370309-primal-rage.json](./370309-primal-rage.json) |
 | Primal Rage | 4271 | [4271-primal-rage.json](./4271-primal-rage.json) |
 | Primal Rage II | 167154 | [167154-primal-rage-ii.json](./167154-primal-rage-ii.json) |
+| Primal Rift | 250810 | [250810-primal-rift.json](./250810-primal-rift.json) |
 | Primal Roar: Jurassic Dinosaur Era | 220652 | [220652-primal-roar-jurassic-dinosaur-era.json](./220652-primal-roar-jurassic-dinosaur-era.json) |
 | Primal Slideee | 336669 | [336669-primal-slideee.json](./336669-primal-slideee.json) |
 | Primal Survival | 391773 | [391773-primal-survival.json](./391773-primal-survival.json) |
