@@ -3080,6 +3080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Girls: Complete + | 324466 | [324466-hentai-girls-complete.json](./324466-hentai-girls-complete.json) |
 | Hentai Girls: Contact | 281523 | [281523-hentai-girls-contact.json](./281523-hentai-girls-contact.json) |
 | Hentai Girls: Crazy Cowgirl | 317284 | [317284-hentai-girls-crazy-cowgirl.json](./317284-hentai-girls-crazy-cowgirl.json) |
+| Hentai Girls: Definitive Edition | 273319 | [273319-hentai-girls-definitive-edition.json](./273319-hentai-girls-definitive-edition.json) |
 | Hentai Girls: Deluxe Edition | 254644 | [254644-hentai-girls-deluxe-edition.json](./254644-hentai-girls-deluxe-edition.json) |
 | Hentai Girls: Director's Cut | 284501 | [284501-hentai-girls-directors-cut.json](./284501-hentai-girls-directors-cut.json) |
 | Hentai Girls: DJ Romance | 347201 | [347201-hentai-girls-dj-romance.json](./347201-hentai-girls-dj-romance.json) |
@@ -3352,6 +3353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai World: Complete Edition | 262327 | [262327-hentai-world-complete-edition.json](./262327-hentai-world-complete-edition.json) |
 | Hentai World: Definitive Edition | 259578 | [259578-hentai-world-definitive-edition.json](./259578-hentai-world-definitive-edition.json) |
 | Hentai World: Deluxe Edition | 252208 | [252208-hentai-world-deluxe-edition.json](./252208-hentai-world-deluxe-edition.json) |
+| Hentai World: Director's Cut | 273318 | [273318-hentai-world-directors-cut.json](./273318-hentai-world-directors-cut.json) |
 | Hentai World: Expanded Edition | 260683 | [260683-hentai-world-expanded-edition.json](./260683-hentai-world-expanded-edition.json) |
 | Hentai World: Foxy Akane | 251687 | [251687-hentai-world-foxy-akane.json](./251687-hentai-world-foxy-akane.json) |
 | Hentai World: Happy Edition | 279873 | [279873-hentai-world-happy-edition.json](./279873-hentai-world-happy-edition.json) |
@@ -7759,6 +7761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HyperCore: Out of Dimension | 120887 | [120887-hypercore-out-of-dimension.json](./120887-hypercore-out-of-dimension.json) |
 | HyperCore: Rhythm Bullet Hell | 122388 | [122388-hypercore-rhythm-bullet-hell.json](./122388-hypercore-rhythm-bullet-hell.json) |
 | Hypercoven | 256784 | [256784-hypercoven.json](./256784-hypercoven.json) |
+| Hypercube: Source | 273293 | [273293-hypercube-source.json](./273293-hypercube-source.json) |
 | HyperCycle League | 383979 | [383979-hypercycle-league.json](./383979-hypercycle-league.json) |
 | Hyperdimension Neptunia | 7319 | [7319-hyperdimension-neptunia.json](./7319-hyperdimension-neptunia.json) |
 | Hyperdimension Neptunia Re;Birth 1 Plus: Limited Edition | 167043 | [167043-hyperdimension-neptunia-re-birth-1-plus-limited-edition.json](./167043-hyperdimension-neptunia-re-birth-1-plus-limited-edition.json) |
