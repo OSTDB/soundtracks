@@ -10272,6 +10272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Silver Lining | 50807 | [50807-the-silver-lining.json](./50807-the-silver-lining.json) |
 | The Simen Rumors | 397220 | [397220-the-simen-rumors.json](./397220-the-simen-rumors.json) |
 | The Simpler Times | 421354 | [421354-the-simpler-times.json](./421354-the-simpler-times.json) |
+| The Simplest Game in the World | 262872 | [262872-the-simplest-game-in-the-world.json](./262872-the-simplest-game-in-the-world.json) |
 | The Simpsons | 198885 | [198885-the-simpsons.json](./198885-the-simpsons.json) |
 | The Simpsons | 198887 | [198887-the-simpsons.json](./198887-the-simpsons.json) |
 | The Simpsons | 198888 | [198888-the-simpsons.json](./198888-the-simpsons.json) |
@@ -15783,6 +15784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomica de Asobou! | 327612 | [327612-tomica-de-asobou.json](./327612-tomica-de-asobou.json) |
 | Tomika Town o Tsukurou! | 376536 | [376536-tomika-town-o-tsukurou.json](./376536-tomika-town-o-tsukurou.json) |
 | Tommy and the Monster Prison | 359919 | [359919-tommy-and-the-monster-prison.json](./359919-tommy-and-the-monster-prison.json) |
+| Tommy Gun Witches | 262893 | [262893-tommy-gun-witches.json](./262893-tommy-gun-witches.json) |
 | Tommy Is My Hero! | 272853 | [272853-tommy-is-my-hero.json](./272853-tommy-is-my-hero.json) |
 | Tommy's Hollywords | 71146 | [71146-tommys-hollywords.json](./71146-tommys-hollywords.json) |
 | Tommygun's Frag | 387516 | [387516-tommyguns-frag.json](./387516-tommyguns-frag.json) |
