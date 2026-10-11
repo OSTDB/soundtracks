@@ -1532,6 +1532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Water City | 268472 | [268472-water-city.json](./268472-water-city.json) |
 | Water Clock | 106620 | [106620-water-clock.json](./106620-water-clock.json) |
 | Water Connect Puzzle | 213379 | [213379-water-connect-puzzle.json](./213379-water-connect-puzzle.json) |
+| Water Defense | 253813 | [253813-water-defense.json](./253813-water-defense.json) |
 | Water Delivery | 318626 | [318626-water-delivery.json](./318626-water-delivery.json) |
 | Water Density | 76530 | [76530-water-density.json](./76530-water-density.json) |
 | Water Drift | 153381 | [153381-water-drift.json](./153381-water-drift.json) |
@@ -2913,6 +2914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whispers: Last Hope | 29720 | [29720-whispers-last-hope.json](./29720-whispers-last-hope.json) |
 | Whisperstring | 329970 | [329970-whisperstring.json](./329970-whisperstring.json) |
 | Whisperwind | 150284 | [150284-whisperwind.json](./150284-whisperwind.json) |
+| Whispike Survivors: Sword of the Necromancer | 253812 | [253812-whispike-survivors-sword-of-the-necromancer.json](./253812-whispike-survivors-sword-of-the-necromancer.json) |
 | Whistle Pig | 350451 | [350451-whistle-pig.json](./350451-whistle-pig.json) |
 | Whistle! Dai 37-kai Tokyo-to Chuugakkou Sougou Taiiku Soccer Taikai | 386986 | [386986-whistle-dai-37-kai-tokyo-to-chuugakkou-sougou-taiiku-soccer-taikai.json](./386986-whistle-dai-37-kai-tokyo-to-chuugakkou-sougou-taiiku-soccer-taikai.json) |
 | Whistle1 | 402524 | [402524-whistle1.json](./402524-whistle1.json) |
@@ -3509,6 +3511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Will: The Beginning | 368050 | [368050-will-the-beginning.json](./368050-will-the-beginning.json) |
 | Willblade: King's Labyrinth | 413491 | [413491-willblade-kings-labyrinth.json](./413491-willblade-kings-labyrinth.json) |
 | Willful | 44190 | [44190-willful.json](./44190-willful.json) |
+| William and Sly | 253811 | [253811-william-and-sly.json](./253811-william-and-sly.json) |
 | William Shatner's TekWar | 8686 | [8686-william-shatners-tekwar.json](./8686-william-shatners-tekwar.json) |
 | William's Love Prelude | 127849 | [127849-williams-love-prelude.json](./127849-williams-love-prelude.json) |
 | Williams Arcade Classics | 199435 | [199435-williams-arcade-classics.json](./199435-williams-arcade-classics.json) |
@@ -3774,6 +3777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winnie-the-Bear: Honey Run | 326697 | [326697-winnie-the-bear-honey-run.json](./326697-winnie-the-bear-honey-run.json) |
 | Winnie-the-Pooh Hops for Honey | 349335 | [349335-winnie-the-pooh-hops-for-honey.json](./349335-winnie-the-pooh-hops-for-honey.json) |
 | Winnie-the-Pooh: Black Honey | 366261 | [366261-winnie-the-pooh-black-honey.json](./366261-winnie-the-pooh-black-honey.json) |
+| Winnie-the-Pooh: Realm of Torment | 253809 | [253809-winnie-the-pooh-realm-of-torment.json](./253809-winnie-the-pooh-realm-of-torment.json) |
 | Winning Eleven Play Maker 2010: Aoki Samurai no Chousen | 268207 | [268207-winning-eleven-play-maker-2010-aoki-samurai-no-chousen.json](./268207-winning-eleven-play-maker-2010-aoki-samurai-no-chousen.json) |
 | Winning Eleven: Pro Evolution Soccer 2007 | 220951 | [220951-winning-eleven-pro-evolution-soccer-2007.json](./220951-winning-eleven-pro-evolution-soccer-2007.json) |
 | Winning Eleven: Pro Evolution Soccer 2007 | 43233 | [43233-winning-eleven-pro-evolution-soccer-2007.json](./43233-winning-eleven-pro-evolution-soccer-2007.json) |
@@ -3963,6 +3967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wish | 196225 | [196225-wish.json](./196225-wish.json) |
 | Wish - Israfil Saga | 94897 | [94897-wish-israfil-saga.json](./94897-wish-israfil-saga.json) |
 | Wish -tale of the sixteenth night of lunar month- | 34684 | [34684-wish-tale-of-the-sixteenth-night-of-lunar-month.json](./34684-wish-tale-of-the-sixteenth-night-of-lunar-month.json) |
+| Wish a Wish | 253810 | [253810-wish-a-wish.json](./253810-wish-a-wish.json) |
 | Wish Eater | 288464 | [288464-wish-eater.json](./288464-wish-eater.json) |
 | Wish Giver | 110921 | [110921-wish-giver.json](./110921-wish-giver.json) |
 | Wish of Abyss Dungeon | 195143 | [195143-wish-of-abyss-dungeon.json](./195143-wish-of-abyss-dungeon.json) |
@@ -4151,6 +4156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Withering Kingdom: Flurry of Arrows | 57721 | [57721-withering-kingdom-flurry-of-arrows.json](./57721-withering-kingdom-flurry-of-arrows.json) |
 | Withering Realms | 329964 | [329964-withering-realms.json](./329964-withering-realms.json) |
 | Withering Rush | 225598 | [225598-withering-rush.json](./225598-withering-rush.json) |
+| Withering Way | 253807 | [253807-withering-way.json](./253807-withering-way.json) |
 | Withers | 166570 | [166570-withers.json](./166570-withers.json) |
 | Witherspring Wilds | 391858 | [391858-witherspring-wilds.json](./391858-witherspring-wilds.json) |
 | Within | 377145 | [377145-within.json](./377145-within.json) |
@@ -4397,6 +4403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wolf Pack: Howling Spirits | 395665 | [395665-wolf-pack-howling-spirits.json](./395665-wolf-pack-howling-spirits.json) |
 | Wolf Ridge | 132578 | [132578-wolf-ridge.json](./132578-wolf-ridge.json) |
 | Wolf Riot | 193491 | [193491-wolf-riot.json](./193491-wolf-riot.json) |
+| Wolf Simulator | 253803 | [253803-wolf-simulator.json](./253803-wolf-simulator.json) |
 | Wolf Souls: Arena | 324331 | [324331-wolf-souls-arena.json](./324331-wolf-souls-arena.json) |
 | Wolf Tales: Online RPG Sim | 145950 | [145950-wolf-tales-online-rpg-sim.json](./145950-wolf-tales-online-rpg-sim.json) |
 | Wolf The Lone Hunt | 274968 | [274968-wolf-the-lone-hunt.json](./274968-wolf-the-lone-hunt.json) |
@@ -4685,6 +4692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WooLoop: Magic Pack | 319347 | [319347-wooloop-magic-pack.json](./319347-wooloop-magic-pack.json) |
 | WooLoop: Nature Pack | 275813 | [275813-wooloop-nature-pack.json](./275813-wooloop-nature-pack.json) |
 | WooLoop: Science Pack | 288918 | [288918-wooloop-science-pack.json](./288918-wooloop-science-pack.json) |
+| WooLoop: Space Pack | 253805 | [253805-wooloop-space-pack.json](./253805-wooloop-space-pack.json) |
 | WooLoop: Video Games Pack | 301829 | [301829-wooloop-video-games-pack.json](./301829-wooloop-video-games-pack.json) |
 | Wooly Blast: Adorable Riddles | 101517 | [101517-wooly-blast-adorable-riddles.json](./101517-wooly-blast-adorable-riddles.json) |
 | Wooly Rockbottom and the Quest for the Golden Beard of Thor! | 325254 | [325254-wooly-rockbottom-and-the-quest-for-the-golden-beard-of-thor.json](./325254-wooly-rockbottom-and-the-quest-for-the-golden-beard-of-thor.json) |
@@ -5783,6 +5791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wrong Escape | 302420 | [302420-wrong-escape.json](./302420-wrong-escape.json) |
 | Wrong Floor | 177032 | [177032-wrong-floor.json](./177032-wrong-floor.json) |
 | Wrong Floor | 348898 | [348898-wrong-floor.json](./348898-wrong-floor.json) |
+| Wrong God | 253808 | [253808-wrong-god.json](./253808-wrong-god.json) |
 | Wronged Us | 190482 | [190482-wronged-us.json](./190482-wronged-us.json) |
 | Wrongly Accused | 293337 | [293337-wrongly-accused.json](./293337-wrongly-accused.json) |
 | Wrongly Accused | 384115 | [384115-wrongly-accused.json](./384115-wrongly-accused.json) |
