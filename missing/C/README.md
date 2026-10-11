@@ -510,6 +510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Myth | 153969 | [153969-call-of-myth.json](./153969-call-of-myth.json) |
 | Call of Nature: Jigsaw Puzzle | 103531 | [103531-call-of-nature-jigsaw-puzzle.json](./103531-call-of-nature-jigsaw-puzzle.json) |
 | Call of Otechestvo Donbass | 117636 | [117636-call-of-otechestvo-donbass.json](./117636-call-of-otechestvo-donbass.json) |
+| Call of Outlaws | 256734 | [256734-call-of-outlaws.json](./256734-call-of-outlaws.json) |
 | Call of Pixel: Close Quarters | 112948 | [112948-call-of-pixel-close-quarters.json](./112948-call-of-pixel-close-quarters.json) |
 | Call of Senpai: Waifu Warfare | 192379 | [192379-call-of-senpai-waifu-warfare.json](./192379-call-of-senpai-waifu-warfare.json) |
 | Call of Sentinels | 264152 | [264152-call-of-sentinels.json](./264152-call-of-sentinels.json) |
@@ -2007,6 +2008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CasterLords | 120116 | [120116-casterlords.json](./120116-casterlords.json) |
 | Castillon | 332247 | [332247-castillon.json](./332247-castillon.json) |
 | Casting Clicker | 367202 | [367202-casting-clicker.json](./367202-casting-clicker.json) |
+| Casting Shadows | 256733 | [256733-casting-shadows.json](./256733-casting-shadows.json) |
 | CastingPlz | 289540 | [289540-castingplz.json](./289540-castingplz.json) |
 | Castle | 166672 | [166672-castle.json](./166672-castle.json) |
 | Castle | 331325 | [331325-castle.json](./331325-castle.json) |
@@ -2820,6 +2822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cauldron Tale | 293508 | [293508-cauldron-tale.json](./293508-cauldron-tale.json) |
 | Cauldrons of War: Barbarossa | 169923 | [169923-cauldrons-of-war-barbarossa.json](./169923-cauldrons-of-war-barbarossa.json) |
 | Cauliflower Power | 136402 | [136402-cauliflower-power.json](./136402-cauliflower-power.json) |
+| Causal Effect | 256721 | [256721-causal-effect.json](./256721-causal-effect.json) |
 | Causal Loop | 339820 | [339820-causal-loop.json](./339820-causal-loop.json) |
 | Causal Nexus | 236256 | [236256-causal-nexus.json](./236256-causal-nexus.json) |
 | Causality | 151182 | [151182-causality.json](./151182-causality.json) |
