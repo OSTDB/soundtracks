@@ -2044,6 +2044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KingAndSlaves | 122401 | [122401-kingandslaves.json](./122401-kingandslaves.json) |
 | Kingdom | 277325 | [277325-kingdom.json](./277325-kingdom.json) |
 | Kingdom | 372233 | [372233-kingdom.json](./372233-kingdom.json) |
+| Kingdom Adventurers | 256175 | [256175-kingdom-adventurers.json](./256175-kingdom-adventurers.json) |
 | Kingdom at War | 84254 | [84254-kingdom-at-war.json](./84254-kingdom-at-war.json) |
 | Kingdom Bash | 58076 | [58076-kingdom-bash.json](./58076-kingdom-bash.json) |
 | Kingdom Builder | 61049 | [61049-kingdom-builder.json](./61049-kingdom-builder.json) |
