@@ -3650,6 +3650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero's Descent | 74363 | [74363-heros-descent.json](./74363-heros-descent.json) |
 | Hero's Destiny | 396481 | [396481-heros-destiny.json](./396481-heros-destiny.json) |
 | Hero's Everyday Life | 157706 | [157706-heros-everyday-life.json](./157706-heros-everyday-life.json) |
+| Hero's Fever Dream | 255558 | [255558-heros-fever-dream.json](./255558-heros-fever-dream.json) |
 | Hero's Hand | 335866 | [335866-heros-hand.json](./335866-heros-hand.json) |
 | Hero's Heart | 50485 | [50485-heros-heart.json](./50485-heros-heart.json) |
 | Hero's Hour 2 | 381190 | [381190-heros-hour-2.json](./381190-heros-hour-2.json) |
@@ -5683,6 +5684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Home Restoration VR | 264772 | [264772-home-restoration-vr.json](./264772-home-restoration-vr.json) |
 | Home Run Derby | 73330 | [73330-home-run-derby.json](./73330-home-run-derby.json) |
 | Home Run Derby VR | 100337 | [100337-home-run-derby-vr.json](./100337-home-run-derby-vr.json) |
+| Home Run Derby: vs Fairy Tales | 255582 | [255582-home-run-derby-vs-fairy-tales.json](./255582-home-run-derby-vs-fairy-tales.json) |
 | Home Run High | 109008 | [109008-home-run-high.json](./109008-home-run-high.json) |
 | Home Run King | 242809 | [242809-home-run-king.json](./242809-home-run-king.json) |
 | Home Run King | 3947 | [3947-home-run-king.json](./3947-home-run-king.json) |
