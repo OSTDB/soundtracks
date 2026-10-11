@@ -2026,6 +2026,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Star Wars II | 286107 | [286107-lego-star-wars-ii.json](./286107-lego-star-wars-ii.json) |
 | LEGO Star Wars II: The Original Trilogy | 190 | [190-lego-star-wars-ii-the-original-trilogy.json](./190-lego-star-wars-ii-the-original-trilogy.json) |
 | LEGO Star Wars II: The Original Trilogy | 194937 | [194937-lego-star-wars-ii-the-original-trilogy.json](./194937-lego-star-wars-ii-the-original-trilogy.json) |
+| LEGO Star Wars II: The Original Trilogy | 248527 | [248527-lego-star-wars-ii-the-original-trilogy.json](./248527-lego-star-wars-ii-the-original-trilogy.json) |
+| LEGO Star Wars II: The Original Trilogy | 248528 | [248528-lego-star-wars-ii-the-original-trilogy.json](./248528-lego-star-wars-ii-the-original-trilogy.json) |
 | LEGO Star Wars III: The Clone Wars | 194948 | [194948-lego-star-wars-iii-the-clone-wars.json](./194948-lego-star-wars-iii-the-clone-wars.json) |
 | LEGO Star Wars III: The Clone Wars | 250156 | [250156-lego-star-wars-iii-the-clone-wars.json](./250156-lego-star-wars-iii-the-clone-wars.json) |
 | Lego Star Wars the Force Awakens - First Order Siege of Takodana Level Pack | 355113 | [355113-lego-star-wars-the-force-awakens-first-order-siege-of-takodana-level-pack.json](./355113-lego-star-wars-the-force-awakens-first-order-siege-of-takodana-level-pack.json) |
