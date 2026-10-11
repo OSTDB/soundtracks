@@ -1054,6 +1054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abandoned: Chestnut Lodge Asylum | 34552 | [34552-abandoned-chestnut-lodge-asylum.json](./34552-abandoned-chestnut-lodge-asylum.json) |
 | Abandoned: Discovery Island | 272811 | [272811-abandoned-discovery-island.json](./272811-abandoned-discovery-island.json) |
 | Abandoned: Discovery Island - Jeff The Killer | 242614 | [242614-abandoned-discovery-island-jeff-the-killer.json](./242614-abandoned-discovery-island-jeff-the-killer.json) |
+| Abandoning Spies | 260616 | [260616-abandoning-spies.json](./260616-abandoning-spies.json) |
 | Abandonment | 114259 | [114259-abandonment.json](./114259-abandonment.json) |
 | Abarenbou Tengu | 215127 | [215127-abarenbou-tengu.json](./215127-abarenbou-tengu.json) |
 | Abashed | 329610 | [329610-abashed.json](./329610-abashed.json) |
@@ -4030,6 +4031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Invasion Tower Defense | 30829 | [30829-alien-invasion-tower-defense.json](./30829-alien-invasion-tower-defense.json) |
 | Alien Jihad | 92308 | [92308-alien-jihad.json](./92308-alien-jihad.json) |
 | Alien Kingdom | 120760 | [120760-alien-kingdom.json](./120760-alien-kingdom.json) |
+| Alien Land | 260604 | [260604-alien-land.json](./260604-alien-land.json) |
 | Alien Lander | 282113 | [282113-alien-lander.json](./282113-alien-lander.json) |
 | Alien Legacy | 14419 | [14419-alien-legacy.json](./14419-alien-legacy.json) |
 | Alien Legion | 14243 | [14243-alien-legion.json](./14243-alien-legion.json) |
@@ -5915,6 +5917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angst: A Tale of Survival | 320716 | [320716-angst-a-tale-of-survival.json](./320716-angst-a-tale-of-survival.json) |
 | Angstrom Station VR | 132669 | [132669-angstrom-station-vr.json](./132669-angstrom-station-vr.json) |
 | Angular Momentum | 326754 | [326754-angular-momentum.json](./326754-angular-momentum.json) |
+| Angular Velocity | 260609 | [260609-angular-velocity.json](./260609-angular-velocity.json) |
 | Anguna: Warriors of Virtue | 49509 | [49509-anguna-warriors-of-virtue.json](./49509-anguna-warriors-of-virtue.json) |
 | Angus Hates Aliens | 33165 | [33165-angus-hates-aliens.json](./33165-angus-hates-aliens.json) |
 | Anhedonia: Sanctuary of Ash | 408915 | [408915-anhedonia-sanctuary-of-ash.json](./408915-anhedonia-sanctuary-of-ash.json) |
