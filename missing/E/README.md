@@ -2056,6 +2056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EmyLiveShow: Dangers & Mysteries Tale | 311055 | [311055-emyliveshow-dangers-and-mysteries-tale.json](./311055-emyliveshow-dangers-and-mysteries-tale.json) |
 | EmyLiveShow: Hentai Puzzle Game | 264774 | [264774-emyliveshow-hentai-puzzle-game.json](./264774-emyliveshow-hentai-puzzle-game.json) |
 | Emzombed | 267473 | [267473-emzombed.json](./267473-emzombed.json) |
+| En Campaña | 262267 | [262267-en-campana.json](./262267-en-campana.json) |
 | En Passant | 234059 | [234059-en-passant.json](./234059-en-passant.json) |
 | En Route 66 | 221216 | [221216-en-route-66.json](./221216-en-route-66.json) |
 | En Svensk Tiger | 179469 | [179469-en-svensk-tiger.json](./179469-en-svensk-tiger.json) |
@@ -3650,6 +3651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal Chrysalis Dream | 395569 | [395569-eternal-chrysalis-dream.json](./395569-eternal-chrysalis-dream.json) |
 | Eternal City | 90889 | [90889-eternal-city.json](./90889-eternal-city.json) |
 | Eternal Cycle | 148908 | [148908-eternal-cycle.json](./148908-eternal-cycle.json) |
+| Eternal Damnation | 262265 | [262265-eternal-damnation.json](./262265-eternal-damnation.json) |
 | Eternal Damnation | 264549 | [264549-eternal-damnation.json](./264549-eternal-damnation.json) |
 | Eternal Damnation | 66350 | [66350-eternal-damnation.json](./66350-eternal-damnation.json) |
 | Eternal Dark Winter | 370859 | [370859-eternal-dark-winter.json](./370859-eternal-dark-winter.json) |
