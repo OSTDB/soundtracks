@@ -3358,6 +3358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Witch | 296949 | [296949-hentai-witch.json](./296949-hentai-witch.json) |
 | Hentai Woman | 111585 | [111585-hentai-woman.json](./111585-hentai-woman.json) |
 | Hentai Words | 104151 | [104151-hentai-words.json](./104151-hentai-words.json) |
+| Hentai World | 251490 | [251490-hentai-world.json](./251490-hentai-world.json) |
 | Hentai World Apocalove | 371396 | [371396-hentai-world-apocalove.json](./371396-hentai-world-apocalove.json) |
 | Hentai World Bikini | 340460 | [340460-hentai-world-bikini.json](./340460-hentai-world-bikini.json) |
 | Hentai World Bunny | 349956 | [349956-hentai-world-bunny.json](./349956-hentai-world-bunny.json) |
@@ -4764,12 +4765,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Highway Traffic Pro | 387664 | [387664-highway-traffic-pro.json](./387664-highway-traffic-pro.json) |
 | Highway Traffic Racer | 168638 | [168638-highway-traffic-racer.json](./168638-highway-traffic-racer.json) |
 | Highway Traffic Racer | 251675 | [251675-highway-traffic-racer.json](./251675-highway-traffic-racer.json) |
+| Highway Traffic Racer: Car Racing Simulator | 251491 | [251491-highway-traffic-racer-car-racing-simulator.json](./251491-highway-traffic-racer-car-racing-simulator.json) |
 | Highway Trouble | 322597 | [322597-highway-trouble.json](./322597-highway-trouble.json) |
 | Highway Trouble 2 | 322599 | [322599-highway-trouble-2.json](./322599-highway-trouble-2.json) |
 | Highway Wars | 88041 | [88041-highway-wars.json](./88041-highway-wars.json) |
 | Highway Zombie Survival: Car Apocalypse | 306544 | [306544-highway-zombie-survival-car-apocalypse.json](./306544-highway-zombie-survival-car-apocalypse.json) |
 | Higurashi Daybreak Portable | 38477 | [38477-higurashi-daybreak-portable.json](./38477-higurashi-daybreak-portable.json) |
 | Higurashi Daybreak Portable: Mega Edition | 38478 | [38478-higurashi-daybreak-portable-mega-edition.json](./38478-higurashi-daybreak-portable-mega-edition.json) |
+| Higurashi no Naku Koro ni Hou | 251461 | [251461-higurashi-no-naku-koro-ni-hou.json](./251461-higurashi-no-naku-koro-ni-hou.json) |
+| Higurashi no Naku Koro ni Hou + Origin | 251513 | [251513-higurashi-no-naku-koro-ni-hou-origin.json](./251513-higurashi-no-naku-koro-ni-hou-origin.json) |
 | Higurashi no Naku Koro ni Hou: Complete Edition | 136817 | [136817-higurashi-no-naku-koro-ni-hou-complete-edition.json](./136817-higurashi-no-naku-koro-ni-hou-complete-edition.json) |
 | Higurashi no Naku Koro ni Hou: EG The Best | 136779 | [136779-higurashi-no-naku-koro-ni-hou-eg-the-best.json](./136779-higurashi-no-naku-koro-ni-hou-eg-the-best.json) |
 | Higurashi no Naku Koro ni Hou: Hinamizawa Teiryuujo | 263492 | [263492-higurashi-no-naku-koro-ni-hou-hinamizawa-teiryuujo.json](./263492-higurashi-no-naku-koro-ni-hou-hinamizawa-teiryuujo.json) |
@@ -4810,6 +4814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Higurashi no Naku Koro ni Matsuri: Ch.8 Minagoroshi-hen | 262694 | [262694-higurashi-no-naku-koro-ni-matsuri-ch-8-minagoroshi-hen.json](./262694-higurashi-no-naku-koro-ni-matsuri-ch-8-minagoroshi-hen.json) |
 | Higurashi no Naku Koro ni Matsuri: Final Chapter - Miotsukushi-hen | 262697 | [262697-higurashi-no-naku-koro-ni-matsuri-final-chapter-miotsukushi-hen.json](./262697-higurashi-no-naku-koro-ni-matsuri-final-chapter-miotsukushi-hen.json) |
 | Higurashi no Naku Koro ni Matsuri: Kakera Asobi | 262698 | [262698-higurashi-no-naku-koro-ni-matsuri-kakera-asobi.json](./262698-higurashi-no-naku-koro-ni-matsuri-kakera-asobi.json) |
+| Higurashi no Naku Koro ni Origin | 251465 | [251465-higurashi-no-naku-koro-ni-origin.json](./251465-higurashi-no-naku-koro-ni-origin.json) |
 | Higurashi no Naku Koro ni Rei | 248201 | [248201-higurashi-no-naku-koro-ni-rei.json](./248201-higurashi-no-naku-koro-ni-rei.json) |
 | Higurashi no Naku Koro ni Sui | 60788 | [60788-higurashi-no-naku-koro-ni-sui.json](./60788-higurashi-no-naku-koro-ni-sui.json) |
 | Higurashi no Naku Koro ni: Ch.1 Onikakushi-hen | 248182 | [248182-higurashi-no-naku-koro-ni-ch-1-onikakushi-hen.json](./248182-higurashi-no-naku-koro-ni-ch-1-onikakushi-hen.json) |
