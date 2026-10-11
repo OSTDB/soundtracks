@@ -1001,6 +1001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sandbox | 251826 | [251826-sandbox.json](./251826-sandbox.json) |
 | Sandbox | 368087 | [368087-sandbox.json](./368087-sandbox.json) |
 | Sandbox Planet | 256534 | [256534-sandbox-planet.json](./256534-sandbox-planet.json) |
+| Sandbox Skyline | 244129 | [244129-sandbox-skyline.json](./244129-sandbox-skyline.json) |
 | Sandbox World | 265552 | [265552-sandbox-world.json](./265552-sandbox-world.json) |
 | Sandcastle | 268655 | [268655-sandcastle.json](./268655-sandcastle.json) |
 | Sandcastle Builder | 62457 | [62457-sandcastle-builder.json](./62457-sandcastle-builder.json) |
@@ -4883,6 +4884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | She Was 98 | 385327 | [385327-she-was-98.json](./385327-she-was-98.json) |
 | She Who Fights Monsters: Choice Edition | 186168 | [186168-she-who-fights-monsters-choice-edition.json](./186168-she-who-fights-monsters-choice-edition.json) |
 | She Will Shoot | 173250 | [173250-she-will-shoot.json](./173250-she-will-shoot.json) |
+| SHE: Seraphim Helix Experiment | 404877 | [404877-she-seraphim-helix-experiment.json](./404877-she-seraphim-helix-experiment.json) |
 | She's a Bit Sluggish | 179109 | [179109-shes-a-bit-sluggish.json](./179109-shes-a-bit-sluggish.json) |
 | She's Got a Thing for a Spring | 217773 | [217773-shes-got-a-thing-for-a-spring.json](./217773-shes-got-a-thing-for-a-spring.json) |
 | She's Leaving | 342811 | [342811-shes-leaving.json](./342811-shes-leaving.json) |
@@ -9798,6 +9800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SnowRunner: Year 3 Pass | 230832 | [230832-snowrunner-year-3-pass.json](./230832-snowrunner-year-3-pass.json) |
 | SnowRunner: Year 4 Pass | 284961 | [284961-snowrunner-year-4-pass.json](./284961-snowrunner-year-4-pass.json) |
 | SnowRunner: Year 5 Pass | 397753 | [397753-snowrunner-year-5-pass.json](./397753-snowrunner-year-5-pass.json) |
+| Snowscapes | 244145 | [244145-snowscapes.json](./244145-snowscapes.json) |
 | Snowsquall Grip | 302375 | [302375-snowsquall-grip.json](./302375-snowsquall-grip.json) |
 | Snowstorm | 405717 | [405717-snowstorm.json](./405717-snowstorm.json) |
 | Snowtracked | 216888 | [216888-snowtracked.json](./216888-snowtracked.json) |
@@ -10088,6 +10091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sokodice | 147080 | [147080-sokodice.json](./147080-sokodice.json) |
 | SokoFarm | 292237 | [292237-sokofarm.json](./292237-sokofarm.json) |
 | SokoFrog | 219593 | [219593-sokofrog.json](./219593-sokofrog.json) |
+| SokoLab | 244173 | [244173-sokolab.json](./244173-sokolab.json) |
 | SokoMage | 235205 | [235205-sokomage.json](./235205-sokomage.json) |
 | SokoMania | 76167 | [76167-sokomania.json](./76167-sokomania.json) |
 | Sokomania 2: Cool Job | 61460 | [61460-sokomania-2-cool-job.json](./61460-sokomania-2-cool-job.json) |
