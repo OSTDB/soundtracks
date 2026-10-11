@@ -702,6 +702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vectorium | 65787 | [65787-vectorium.json](./65787-vectorium.json) |
 | Vectorman | 310698 | [310698-vectorman.json](./310698-vectorman.json) |
 | VectorMan | 16033 | [16033-vectorman.json](./16033-vectorman.json) |
+| Vectoroids | 252611 | [252611-vectoroids.json](./252611-vectoroids.json) |
 | Vectors | 172042 | [172042-vectors.json](./172042-vectors.json) |
 | Vectrace | 46507 | [46507-vectrace.json](./46507-vectrace.json) |
 | Vectrexagon | 46518 | [46518-vectrexagon.json](./46518-vectrexagon.json) |
@@ -1475,6 +1476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Villain Master: Dead or Alive | 197356 | [197356-villain-master-dead-or-alive.json](./197356-villain-master-dead-or-alive.json) |
 | Villain Project | 225638 | [225638-villain-project.json](./225638-villain-project.json) |
 | Villain's Legacy 2 | 349273 | [349273-villains-legacy-2.json](./349273-villains-legacy-2.json) |
+| Villainess Idolized By Everyone | 252654 | [252654-villainess-idolized-by-everyone.json](./252654-villainess-idolized-by-everyone.json) |
 | Villainous | 319976 | [319976-villainous.json](./319976-villainous.json) |
 | Villainous Valentine | 313750 | [313750-villainous-valentine.json](./313750-villainous-valentine.json) |
 | Villains Corp. | 252136 | [252136-villains-corp.json](./252136-villains-corp.json) |
