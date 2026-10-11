@@ -3058,6 +3058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Who Wants to Be a Millionaire | 81512 | [81512-who-wants-to-be-a-millionaire.json](./81512-who-wants-to-be-a-millionaire.json) |
 | Who Wants To Be A Millionaire 2010 | 311654 | [311654-who-wants-to-be-a-millionaire-2010.json](./311654-who-wants-to-be-a-millionaire-2010.json) |
 | Who Wants to Be a Millionaire: 2012 Edition | 65596 | [65596-who-wants-to-be-a-millionaire-2012-edition.json](./65596-who-wants-to-be-a-millionaire-2012-edition.json) |
+| Who Wants to Be a Millionaire: 2nd Edition | 265057 | [265057-who-wants-to-be-a-millionaire-2nd-edition.json](./265057-who-wants-to-be-a-millionaire-2nd-edition.json) |
 | Who Wants to Be a Millionaire: 2nd Edition | 309014 | [309014-who-wants-to-be-a-millionaire-2nd-edition.json](./309014-who-wants-to-be-a-millionaire-2nd-edition.json) |
 | Who Wants to Be a Millionaire: 2nd Edition | 311655 | [311655-who-wants-to-be-a-millionaire-2nd-edition.json](./311655-who-wants-to-be-a-millionaire-2nd-edition.json) |
 | Who Wants to Be a Millionaire: Hitchcock DLC Pack | 289323 | [289323-who-wants-to-be-a-millionaire-hitchcock-dlc-pack.json](./289323-who-wants-to-be-a-millionaire-hitchcock-dlc-pack.json) |
@@ -5513,6 +5514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wormhole | 374611 | [374611-wormhole.json](./374611-wormhole.json) |
 | Wormhole Cafe | 235709 | [235709-wormhole-cafe.json](./235709-wormhole-cafe.json) |
 | Wormhole Warfare | 176995 | [176995-wormhole-warfare.json](./176995-wormhole-warfare.json) |
+| Wormhole: Battle for Planet Earth | 265091 | [265091-wormhole-battle-for-planet-earth.json](./265091-wormhole-battle-for-planet-earth.json) |
 | Wormi | 269083 | [269083-wormi.json](./269083-wormi.json) |
 | Worming from Home | 386933 | [386933-worming-from-home.json](./386933-worming-from-home.json) |
 | Wormix | 315030 | [315030-wormix.json](./315030-wormix.json) |
