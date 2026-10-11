@@ -1374,6 +1374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ElektraGlide | 13632 | [13632-elektraglide.json](./13632-elektraglide.json) |
 | Elektrik | 76153 | [76153-elektrik.json](./76153-elektrik.json) |
 | Elektrosoul | 207197 | [207197-elektrosoul.json](./207197-elektrosoul.json) |
+| Elemancer | 258397 | [258397-elemancer.json](./258397-elemancer.json) |
 | Elemasta | 342021 | [342021-elemasta.json](./342021-elemasta.json) |
 | Elemates | 207525 | [207525-elemates.json](./207525-elemates.json) |
 | Elemencraft | 194012 | [194012-elemencraft.json](./194012-elemencraft.json) |
@@ -3026,6 +3027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Error: Girlfriend Not Found | 406289 | [406289-error-girlfriend-not-found.json](./406289-error-girlfriend-not-found.json) |
 | Error: Slasher Alert | 176251 | [176251-error-slasher-alert.json](./176251-error-slasher-alert.json) |
 | Error422 | 280743 | [280743-error422.json](./280743-error422.json) |
+| Errships | 258403 | [258403-errships.json](./258403-errships.json) |
 | Ersatz | 59238 | [59238-ersatz.json](./59238-ersatz.json) |
 | Erst Kerf | 130906 | [130906-erst-kerf.json](./130906-erst-kerf.json) |
 | Erth | 134673 | [134673-erth.json](./134673-erth.json) |
