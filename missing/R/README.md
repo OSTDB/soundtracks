@@ -3525,7 +3525,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resident Evil: Operation Raccoon City - Echo Six Prologue Mission | 405577 | [405577-resident-evil-operation-raccoon-city-echo-six-prologue-mission.json](./405577-resident-evil-operation-raccoon-city-echo-six-prologue-mission.json) |
 | Resident Evil: Operation Raccoon City - Special Edition | 41859 | [41859-resident-evil-operation-raccoon-city-special-edition.json](./41859-resident-evil-operation-raccoon-city-special-edition.json) |
 | Resident Evil: Revelations | 150045 | [150045-resident-evil-revelations.json](./150045-resident-evil-revelations.json) |
-| Resident Evil: Revelations | 978 | [978-resident-evil-revelations.json](./978-resident-evil-revelations.json) |
 | Resident Evil: Revelations - Circle Pad Pro Bundle | 89903 | [89903-resident-evil-revelations-circle-pad-pro-bundle.json](./89903-resident-evil-revelations-circle-pad-pro-bundle.json) |
 | Resident Evil: Revelations - Unveiled Edition (Limited Edition) | 89927 | [89927-resident-evil-revelations-unveiled-edition-limited-edition.json](./89927-resident-evil-revelations-unveiled-edition-limited-edition.json) |
 | Resident Evil: Revelations - Unveiled Edition BSAA Watch Set | 89925 | [89925-resident-evil-revelations-unveiled-edition-bsaa-watch-set.json](./89925-resident-evil-revelations-unveiled-edition-bsaa-watch-set.json) |
