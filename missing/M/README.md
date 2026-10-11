@@ -3446,6 +3446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Match Day | 39123 | [39123-match-day.json](./39123-match-day.json) |
 | Match Day & International Match Day | 403172 | [403172-match-day-and-international-match-day.json](./403172-match-day-and-international-match-day.json) |
 | Match Day II | 39122 | [39122-match-day-ii.json](./39122-match-day-ii.json) |
+| Match Gem 99 | 261701 | [261701-match-gem-99.json](./261701-match-gem-99.json) |
 | Match Gems Evolved | 101969 | [101969-match-gems-evolved.json](./101969-match-gems-evolved.json) |
 | Match Hit: Puzzle Fighter | 273884 | [273884-match-hit-puzzle-fighter.json](./273884-match-hit-puzzle-fighter.json) |
 | Match it | 337989 | [337989-match-it.json](./337989-match-it.json) |
@@ -11724,6 +11725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MTB Dirt | 154999 | [154999-mtb-dirt.json](./154999-mtb-dirt.json) |
 | MTB DirtCross | 298860 | [298860-mtb-dirtcross.json](./298860-mtb-dirtcross.json) |
 | MTB Downhill Simulator | 53389 | [53389-mtb-downhill-simulator.json](./53389-mtb-downhill-simulator.json) |
+| MTBF | 261698 | [261698-mtbf.json](./261698-mtbf.json) |
 | MTF: Moth To a Flame | 379980 | [379980-mtf-moth-to-a-flame.json](./379980-mtf-moth-to-a-flame.json) |
 | Mtn Chaos | 257963 | [257963-mtn-chaos.json](./257963-mtn-chaos.json) |
 | MTP Target | 71566 | [71566-mtp-target.json](./71566-mtp-target.json) |
