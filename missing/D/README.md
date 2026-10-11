@@ -5693,6 +5693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dimension of Monster Girls | 89608 | [89608-dimension-of-monster-girls.json](./89608-dimension-of-monster-girls.json) |
 | Dimension of the Boomed | 251546 | [251546-dimension-of-the-boomed.json](./251546-dimension-of-the-boomed.json) |
 | Dimension of the Diminished | 271723 | [271723-dimension-of-the-diminished.json](./271723-dimension-of-the-diminished.json) |
+| Dimension Painter | 256183 | [256183-dimension-painter.json](./256183-dimension-painter.json) |
 | Dimension Ranger | 349330 | [349330-dimension-ranger.json](./349330-dimension-ranger.json) |
 | Dimension Shift | 323884 | [323884-dimension-shift.json](./323884-dimension-shift.json) |
 | Dimension Summoner: Hero Arena 3D Fantasy RPG | 95873 | [95873-dimension-summoner-hero-arena-3d-fantasy-rpg.json](./95873-dimension-summoner-hero-arena-3d-fantasy-rpg.json) |
@@ -8364,6 +8365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dotonon | 341677 | [341677-dotonon.json](./341677-dotonon.json) |
 | Dotori | 143600 | [143600-dotori.json](./143600-dotori.json) |
 | Dots | 76631 | [76631-dots.json](./76631-dots.json) |
+| Dots & Boxes | 256165 | [256165-dots-and-boxes.json](./256165-dots-and-boxes.json) |
 | Dots & Co: A Puzzle Adventure | 57149 | [57149-dots-and-co-a-puzzle-adventure.json](./57149-dots-and-co-a-puzzle-adventure.json) |
 | Dots and Boxes - Dino Fury Edition | 107117 | [107117-dots-and-boxes-dino-fury-edition.json](./107117-dots-and-boxes-dino-fury-edition.json) |
 | Dots and Dashes | 188674 | [188674-dots-and-dashes.json](./188674-dots-and-dashes.json) |
@@ -10547,6 +10549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drunk Puppet | 110354 | [110354-drunk-puppet.json](./110354-drunk-puppet.json) |
 | Drunk Santa Simulator | 127074 | [127074-drunk-santa-simulator.json](./127074-drunk-santa-simulator.json) |
 | Drunk Sonic | 330864 | [330864-drunk-sonic.json](./330864-drunk-sonic.json) |
+| Drunk Trucker Joe 3D Truck Driving Race | 256189 | [256189-drunk-trucker-joe-3d-truck-driving-race.json](./256189-drunk-trucker-joe-3d-truck-driving-race.json) |
 | Drunk Woodcutter | 397835 | [397835-drunk-woodcutter.json](./397835-drunk-woodcutter.json) |
 | Drunk-Fu: Wasted Masters | 28906 | [28906-drunk-fu-wasted-masters.json](./28906-drunk-fu-wasted-masters.json) |
 | Drunkard Quiz Show Hyoutan | 115684 | [115684-drunkard-quiz-show-hyoutan.json](./115684-drunkard-quiz-show-hyoutan.json) |
