@@ -234,6 +234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | X-Plane 12: Aerosoft - Airport Marseille | 252227 | [252227-x-plane-12-aerosoft-airport-marseille.json](./252227-x-plane-12-aerosoft-airport-marseille.json) |
 | X-Plane 12: Aerosoft - Airport Menorca | 266303 | [266303-x-plane-12-aerosoft-airport-menorca.json](./266303-x-plane-12-aerosoft-airport-menorca.json) |
 | X-Plane 12: Aerosoft - Airport Milano Malpensa | 254651 | [254651-x-plane-12-aerosoft-airport-milano-malpensa.json](./254651-x-plane-12-aerosoft-airport-milano-malpensa.json) |
+| X-Plane 12: Aerosoft - Seychelles XP | 264514 | [264514-x-plane-12-aerosoft-seychelles-xp.json](./264514-x-plane-12-aerosoft-seychelles-xp.json) |
 | X-Plane 12: Aerosoft - Society Islands XP: Tahiti & Windward Islands | 289881 | [289881-x-plane-12-aerosoft-society-islands-xp-tahiti-and-windward-islands.json](./289881-x-plane-12-aerosoft-society-islands-xp-tahiti-and-windward-islands.json) |
 | X-Plane 6 | 72091 | [72091-x-plane-6.json](./72091-x-plane-6.json) |
 | X-Plane 8 | 94229 | [94229-x-plane-8.json](./94229-x-plane-8.json) |
@@ -452,6 +453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xerd no Densetsu | 298848 | [298848-xerd-no-densetsu.json](./298848-xerd-no-densetsu.json) |
 | Xerd no Densetsu 2: Xerd!! Gishin no Ryouiki | 298851 | [298851-xerd-no-densetsu-2-xerd-gishin-no-ryouiki.json](./298851-xerd-no-densetsu-2-xerd-gishin-no-ryouiki.json) |
 | Xermatt Redux | 196089 | [196089-xermatt-redux.json](./196089-xermatt-redux.json) |
+| Xerme | 264517 | [264517-xerme.json](./264517-xerme.json) |
 | Xerminus | 371897 | [371897-xerminus.json](./371897-xerminus.json) |
 | Xerxes | 295671 | [295671-xerxes.json](./295671-xerxes.json) |
 | Xerxesia | 267998 | [267998-xerxesia.json](./267998-xerxesia.json) |
