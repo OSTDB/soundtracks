@@ -374,6 +374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Want an Identity | 327229 | [327229-i-want-an-identity.json](./327229-i-want-an-identity.json) |
 | I Want My Mommy | 40789 | [40789-i-want-my-mommy.json](./40789-i-want-my-mommy.json) |
 | I Want To Be A Circle When I Grow Up. | 396545 | [396545-i-want-to-be-a-circle-when-i-grow-up.json](./396545-i-want-to-be-a-circle-when-i-grow-up.json) |
+| I Want to be Alive | 252610 | [252610-i-want-to-be-alive.json](./252610-i-want-to-be-alive.json) |
 | I Want to Be Human | 36433 | [36433-i-want-to-be-human.json](./36433-i-want-to-be-human.json) |
 | I Want to be Popular! | 183902 | [183902-i-want-to-be-popular.json](./183902-i-want-to-be-popular.json) |
 | I Want to Believe | 319728 | [319728-i-want-to-believe.json](./319728-i-want-to-believe.json) |
@@ -2549,6 +2550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Influence | 210032 | [210032-influence.json](./210032-influence.json) |
 | Influenced | 179675 | [179675-influenced.json](./179675-influenced.json) |
 | Influent Language Learning Game | 17037 | [17037-influent-language-learning-game.json](./17037-influent-language-learning-game.json) |
+| Influent: Definitive Edition | 252604 | [252604-influent-definitive-edition.json](./252604-influent-definitive-edition.json) |
 | Influenza A | 135775 | [135775-influenza-a.json](./135775-influenza-a.json) |
 | InFlux | 2938 | [2938-influx.json](./2938-influx.json) |
 | Info Fighter | 360510 | [360510-info-fighter.json](./360510-info-fighter.json) |
