@@ -5631,6 +5631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Placid Plastic Duck VR | 338550 | [338550-placid-plastic-duck-vr.json](./338550-placid-plastic-duck-vr.json) |
 | Plague | 185680 | [185680-plague.json](./185680-plague.json) |
 | Plague Alchemist | 368291 | [368291-plague-alchemist.json](./368291-plague-alchemist.json) |
+| Plague Attack the World | 258916 | [258916-plague-attack-the-world.json](./258916-plague-attack-the-world.json) |
 | Plague Breaker | 155974 | [155974-plague-breaker.json](./155974-plague-breaker.json) |
 | Plague Doctor | 287790 | [287790-plague-doctor.json](./287790-plague-doctor.json) |
 | Plague Doctor and Panacea | 365211 | [365211-plague-doctor-and-panacea.json](./365211-plague-doctor-and-panacea.json) |
@@ -7681,6 +7682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pongs | 178609 | [178609-pongs.json](./178609-pongs.json) |
 | Pongspin | 253390 | [253390-pongspin.json](./253390-pongspin.json) |
 | Pongu | 24565 | [24565-pongu.json](./24565-pongu.json) |
+| Ponk's Jam: The Tulip Thief | 258902 | [258902-ponks-jam-the-tulip-thief.json](./258902-ponks-jam-the-tulip-thief.json) |
 | Ponkle | 111218 | [111218-ponkle.json](./111218-ponkle.json) |
 | Ponon! Deluxe | 263576 | [263576-ponon-deluxe.json](./263576-ponon-deluxe.json) |
 | PonPonTown | 372986 | [372986-ponpontown.json](./372986-ponpontown.json) |
