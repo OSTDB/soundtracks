@@ -367,6 +367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saibara Rieko no Mahjong Hourouki | 37866 | [37866-saibara-rieko-no-mahjong-hourouki.json](./37866-saibara-rieko-no-mahjong-hourouki.json) |
 | SaiBorRai | 292674 | [292674-saiborrai.json](./292674-saiborrai.json) |
 | Saier's Light | 103177 | [103177-saiers-light.json](./103177-saiers-light.json) |
+| Saigo no Nindou | 265040 | [265040-saigo-no-nindou.json](./265040-saigo-no-nindou.json) |
 | Saigo no Uta | 166588 | [166588-saigo-no-uta.json](./166588-saigo-no-uta.json) |
 | Saigon: The Final Days | 73871 | [73871-saigon-the-final-days.json](./73871-saigon-the-final-days.json) |
 | Saihai no Yukue | 302503 | [302503-saihai-no-yukue.json](./302503-saihai-no-yukue.json) |
@@ -577,6 +578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sakura Sakura: Haru Urara | 269524 | [269524-sakura-sakura-haru-urara.json](./269524-sakura-sakura-haru-urara.json) |
 | Sakura Sakura: Limited Edition | 212330 | [212330-sakura-sakura-limited-edition.json](./212330-sakura-sakura-limited-edition.json) |
 | Sakura Santa | 34032 | [34032-sakura-santa.json](./34032-sakura-santa.json) |
+| Sakura School Love | 265086 | [265086-sakura-school-love.json](./265086-sakura-school-love.json) |
 | Sakura School Simulator | 208944 | [208944-sakura-school-simulator.json](./208944-sakura-school-simulator.json) |
 | Sakura Stars | 132662 | [132662-sakura-stars.json](./132662-sakura-stars.json) |
 | Sakura Street: Tycoon | 296786 | [296786-sakura-street-tycoon.json](./296786-sakura-street-tycoon.json) |
@@ -1958,6 +1960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Schrödinger's Rat | 21776 | [21776-schrodingers-rat.json](./21776-schrodingers-rat.json) |
 | Schwarzenberg | 86063 | [86063-schwarzenberg.json](./86063-schwarzenberg.json) |
 | Schwarzerblitz | 118188 | [118188-schwarzerblitz.json](./118188-schwarzerblitz.json) |
+| Schwarzerblitz: 8-Colors Star Guardians Collaboration Costumes - Chapter 1 | 265083 | [265083-schwarzerblitz-8-colors-star-guardians-collaboration-costumes-chapter-1.json](./265083-schwarzerblitz-8-colors-star-guardians-collaboration-costumes-chapter-1.json) |
 | Schwarzesmarken Kouketsu no Monshou / Junkyousha-tachi | 86089 | [86089-schwarzesmarken-kouketsu-no-monshou-junkyousha-tachi.json](./86089-schwarzesmarken-kouketsu-no-monshou-junkyousha-tachi.json) |
 | Schwebebahn Simulator 2013 | 241490 | [241490-schwebebahn-simulator-2013.json](./241490-schwebebahn-simulator-2013.json) |
 | Schwerkraftprojektionsgerät | 139155 | [139155-schwerkraftprojektionsgerat.json](./139155-schwerkraftprojektionsgerat.json) |
@@ -10818,6 +10821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Eclipse | 316339 | [316339-sonic-eclipse.json](./316339-sonic-eclipse.json) |
 | Sonic Elementals | 333959 | [333959-sonic-elementals.json](./333959-sonic-elementals.json) |
 | Sonic Emerald Madness | 316340 | [316340-sonic-emerald-madness.json](./316340-sonic-emerald-madness.json) |
+| Sonic Encore | 265070 | [265070-sonic-encore.json](./265070-sonic-encore.json) |
 | Sonic Endless Adventure | 316343 | [316343-sonic-endless-adventure.json](./316343-sonic-endless-adventure.json) |
 | Sonic Epoch | 330789 | [330789-sonic-epoch.json](./330789-sonic-epoch.json) |
 | Sonic Epsilon | 332553 | [332553-sonic-epsilon.json](./332553-sonic-epsilon.json) |
@@ -12431,6 +12435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Quest I: Roger Wilco in the Sarien Encounter | 77194 | [77194-space-quest-i-roger-wilco-in-the-sarien-encounter.json](./77194-space-quest-i-roger-wilco-in-the-sarien-encounter.json) |
 | Space Quest II: Roger Wilco in Vohaul's Revenge | 84150 | [84150-space-quest-ii-roger-wilco-in-vohauls-revenge.json](./84150-space-quest-ii-roger-wilco-in-vohauls-revenge.json) |
 | Space Quest III: The Pirates Of Pestulon | 30 | [30-space-quest-iii-the-pirates-of-pestulon.json](./30-space-quest-iii-the-pirates-of-pestulon.json) |
+| Space Quest: Incinerations | 265067 | [265067-space-quest-incinerations.json](./265067-space-quest-incinerations.json) |
 | Space Quest: The Lost Chapter | 349896 | [349896-space-quest-the-lost-chapter.json](./349896-space-quest-the-lost-chapter.json) |
 | Space Quiz | 74456 | [74456-space-quiz.json](./74456-space-quiz.json) |
 | Space Rabbits in Space | 114895 | [114895-space-rabbits-in-space.json](./114895-space-rabbits-in-space.json) |
@@ -15109,6 +15114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Realms: Frontiers Promos | 163286 | [163286-star-realms-frontiers-promos.json](./163286-star-realms-frontiers-promos.json) |
 | Star Realms: Full Version | 163277 | [163277-star-realms-full-version.json](./163277-star-realms-full-version.json) |
 | Star Realms: Heroes | 163278 | [163278-star-realms-heroes.json](./163278-star-realms-heroes.json) |
+| Star Realms: High Alert - Heroes | 265080 | [265080-star-realms-high-alert-heroes.json](./265080-star-realms-high-alert-heroes.json) |
 | Star Realms: High Alert - Invasion | 292643 | [292643-star-realms-high-alert-invasion.json](./292643-star-realms-high-alert-invasion.json) |
 | Star Realms: Stellar Allies | 163285 | [163285-star-realms-stellar-allies.json](./163285-star-realms-stellar-allies.json) |
 | Star Realms: United - Assault | 163289 | [163289-star-realms-united-assault.json](./163289-star-realms-united-assault.json) |
@@ -19951,6 +19957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Bros. SNES Days | 321586 | [321586-super-mario-bros-snes-days.json](./321586-super-mario-bros-snes-days.json) |
 | Super Mario Bros. SNES Days 2 | 321585 | [321585-super-mario-bros-snes-days-2.json](./321585-super-mario-bros-snes-days-2.json) |
 | Super Mario Bros. Star Scramble 2: Ghost Island | 215251 | [215251-super-mario-bros-star-scramble-2-ghost-island.json](./215251-super-mario-bros-star-scramble-2-ghost-island.json) |
+| Super Mario Bros. Star Scramble DX | 265069 | [265069-super-mario-bros-star-scramble-dx.json](./265069-super-mario-bros-star-scramble-dx.json) |
 | Super Mario Bros. Wonder | 254339 | [254339-super-mario-bros-wonder.json](./254339-super-mario-bros-wonder.json) |
 | Super Mario Bros. Wonder: Nintendo Switch 2 Edition + Meetup in Bellabel Park | 366881 | [366881-super-mario-bros-wonder-nintendo-switch-2-edition-meetup-in-bellabel-park.json](./366881-super-mario-bros-wonder-nintendo-switch-2-edition-meetup-in-bellabel-park.json) |
 | Super Mario Bros. Wonderland 1987 | 307720 | [307720-super-mario-bros-wonderland-1987.json](./307720-super-mario-bros-wonderland-1987.json) |
@@ -21224,6 +21231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supposedly Wonderful Future | 72491 | [72491-supposedly-wonderful-future.json](./72491-supposedly-wonderful-future.json) |
 | Supra Binyot Lande 2: Melpert's Quest for Booti | 334637 | [334637-supra-binyot-lande-2-melperts-quest-for-booti.json](./334637-supra-binyot-lande-2-melperts-quest-for-booti.json) |
 | Supra Mayro Kratt | 300345 | [300345-supra-mayro-kratt.json](./300345-supra-mayro-kratt.json) |
+| Supra Smash Bross Devolution | 265074 | [265074-supra-smash-bross-devolution.json](./265074-supra-smash-bross-devolution.json) |
 | Suprabac.io | 243380 | [243380-suprabac-io.json](./243380-suprabac-io.json) |
 | Supracore | 251854 | [251854-supracore.json](./251854-supracore.json) |
 | Supraland | 89354 | [89354-supraland.json](./89354-supraland.json) |
@@ -22525,6 +22533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synonym Match | 105759 | [105759-synonym-match.json](./105759-synonym-match.json) |
 | Synonymy | 35925 | [35925-synonymy.json](./35925-synonymy.json) |
 | Synopsis Quest | 66166 | [66166-synopsis-quest.json](./66166-synopsis-quest.json) |
+| Synopsle | 265056 | [265056-synopsle.json](./265056-synopsle.json) |
 | SyntaxBomb | 183012 | [183012-syntaxbomb.json](./183012-syntaxbomb.json) |
 | Syntaxia | 326573 | [326573-syntaxia.json](./326573-syntaxia.json) |
 | Synth Ark | 317234 | [317234-synth-ark.json](./317234-synth-ark.json) |
