@@ -6162,6 +6162,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lunnye Devitsy | 16491 | [16491-lunnye-devitsy.json](./16491-lunnye-devitsy.json) |
 | Lunorbit | 342850 | [342850-lunorbit.json](./342850-lunorbit.json) |
 | Lunorbit Deluxe | 342852 | [342852-lunorbit-deluxe.json](./342852-lunorbit-deluxe.json) |
+| Luntik Knows the World | 268371 | [268371-luntik-knows-the-world.json](./268371-luntik-knows-the-world.json) |
+| Luntik Learns Letters | 268373 | [268373-luntik-learns-letters.json](./268373-luntik-learns-letters.json) |
+| Luntik Learns Numbers | 268369 | [268369-luntik-learns-numbers.json](./268369-luntik-learns-numbers.json) |
 | Luòchén zhī Yù | 114382 | [114382-luochen-zhi-yu.json](./114382-luochen-zhi-yu.json) |
 | Luonnonvoimat | 390771 | [390771-luonnonvoimat.json](./390771-luonnonvoimat.json) |
 | Lupin III | 290867 | [290867-lupin-iii.json](./290867-lupin-iii.json) |
