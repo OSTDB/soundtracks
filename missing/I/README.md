@@ -3565,7 +3565,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IQ Jump | 194295 | [194295-iq-jump.json](./194295-iq-jump.json) |
 | IQ Logic Codes: Number & Letter Puzzles | 415062 | [415062-iq-logic-codes-number-and-letter-puzzles.json](./415062-iq-logic-codes-number-and-letter-puzzles.json) |
 | IQ Test | 85623 | [85623-iq-test.json](./85623-iq-test.json) |
-| IQ Under Construction | 403627 | [403627-iq-under-construction.json](./403627-iq-under-construction.json) |
 | IQ Wars | 89171 | [89171-iq-wars.json](./89171-iq-wars.json) |
 | Iquarium | 80169 | [80169-iquarium.json](./80169-iquarium.json) |
 | iQuest Math: Grade 5 | 318741 | [318741-iquest-math-grade-5.json](./318741-iquest-math-grade-5.json) |
@@ -3976,6 +3975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isle of Jura Fishing Trip: Complete Edition | 268564 | [268564-isle-of-jura-fishing-trip-complete-edition.json](./268564-isle-of-jura-fishing-trip-complete-edition.json) |
 | Isle of Jura Fishing Trip: Definitive Edition | 263552 | [263552-isle-of-jura-fishing-trip-definitive-edition.json](./263552-isle-of-jura-fishing-trip-definitive-edition.json) |
 | Isle of Jura Fishing Trip: Extended Edition | 251536 | [251536-isle-of-jura-fishing-trip-extended-edition.json](./251536-isle-of-jura-fishing-trip-extended-edition.json) |
+| Isle of Jura Fishing Trip: Premium Edition | 260050 | [260050-isle-of-jura-fishing-trip-premium-edition.json](./260050-isle-of-jura-fishing-trip-premium-edition.json) |
 | Isle of Jura Fishing Trip: Ultimate Edition | 251689 | [251689-isle-of-jura-fishing-trip-ultimate-edition.json](./251689-isle-of-jura-fishing-trip-ultimate-edition.json) |
 | Isle of Lament | 375990 | [375990-isle-of-lament.json](./375990-isle-of-lament.json) |
 | Isle of Leil | 236331 | [236331-isle-of-leil.json](./236331-isle-of-leil.json) |
