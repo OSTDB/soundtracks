@@ -4282,6 +4282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All Contact Lost | 68590 | [68590-all-contact-lost.json](./68590-all-contact-lost.json) |
 | All Cossacks and American Conquest | 144965 | [144965-all-cossacks-and-american-conquest.json](./144965-all-cossacks-and-american-conquest.json) |
 | All Day Dying: Redux Edition | 229129 | [229129-all-day-dying-redux-edition.json](./229129-all-day-dying-redux-edition.json) |
+| All Day Nippon | 241880 | [241880-all-day-nippon.json](./241880-all-day-nippon.json) |
 | All Doe's Life | 301283 | [301283-all-does-life.json](./301283-all-does-life.json) |
 | All Dogs Go to Heaven: Activity Center | 205117 | [205117-all-dogs-go-to-heaven-activity-center.json](./205117-all-dogs-go-to-heaven-activity-center.json) |
 | All Dream Long A Flower Storm | 164999 | [164999-all-dream-long-a-flower-storm.json](./164999-all-dream-long-a-flower-storm.json) |
@@ -5940,6 +5941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angry King | 111220 | [111220-angry-king.json](./111220-angry-king.json) |
 | Angry Mother Earth | 265562 | [265562-angry-mother-earth.json](./265562-angry-mother-earth.json) |
 | Angry Mountain Gods | 183440 | [183440-angry-mountain-gods.json](./183440-angry-mountain-gods.json) |
+| Angry Neighbor: The Temporary Neighbor | 241838 | [241838-angry-neighbor-the-temporary-neighbor.json](./241838-angry-neighbor-the-temporary-neighbor.json) |
 | Angry Penguin | 294597 | [294597-angry-penguin.json](./294597-angry-penguin.json) |
 | Angry Peppa | 320890 | [320890-angry-peppa.json](./320890-angry-peppa.json) |
 | Angry Piggies Space | 281332 | [281332-angry-piggies-space.json](./281332-angry-piggies-space.json) |
