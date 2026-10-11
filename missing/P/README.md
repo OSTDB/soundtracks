@@ -6358,6 +6358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plutonia: Revisited Community Project | 138167 | [138167-plutonia-revisited-community-project.json](./138167-plutonia-revisited-community-project.json) |
 | Plutonium | 28597 | [28597-plutonium.json](./28597-plutonium.json) |
 | Plutonium Pirates | 102363 | [102363-plutonium-pirates.json](./102363-plutonium-pirates.json) |
+| Plutonium Sandpit | 263425 | [263425-plutonium-sandpit.json](./263425-plutonium-sandpit.json) |
 | Plutonium T6 Multiplayer | 315118 | [315118-plutonium-t6-multiplayer.json](./315118-plutonium-t6-multiplayer.json) |
 | Plutonium: Kilimanjaro Oddysey | 321044 | [321044-plutonium-kilimanjaro-oddysey.json](./321044-plutonium-kilimanjaro-oddysey.json) |
 | Ply | 178950 | [178950-ply.json](./178950-ply.json) |
