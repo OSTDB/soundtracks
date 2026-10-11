@@ -350,6 +350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Gallery | 105899 | [105899-galactic-gallery.json](./105899-galactic-gallery.json) |
 | Galactic Gardener | 313101 | [313101-galactic-gardener.json](./313101-galactic-gardener.json) |
 | Galactic Gardener | 377587 | [377587-galactic-gardener.json](./377587-galactic-gardener.json) |
+| Galactic Getaway | 240825 | [240825-galactic-getaway.json](./240825-galactic-getaway.json) |
 | Galactic Gladiators | 186342 | [186342-galactic-gladiators.json](./186342-galactic-gladiators.json) |
 | Galactic Gladiators | 22488 | [22488-galactic-gladiators.json](./22488-galactic-gladiators.json) |
 | Galactic Gladiators | 5473 | [5473-galactic-gladiators.json](./5473-galactic-gladiators.json) |
@@ -3764,6 +3765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gods & Guardians | 256840 | [256840-gods-and-guardians.json](./256840-gods-and-guardians.json) |
 | Gods & Heroes | 13858 | [13858-gods-and-heroes.json](./13858-gods-and-heroes.json) |
 | Gods & Heroes: Rome Rising | 10368 | [10368-gods-and-heroes-rome-rising.json](./10368-gods-and-heroes-rome-rising.json) |
+| Gods Against Machines | 240703 | [240703-gods-against-machines.json](./240703-gods-against-machines.json) |
 | Gods and Idols | 33950 | [33950-gods-and-idols.json](./33950-gods-and-idols.json) |
 | Gods and Nemesis: of Ghosts from Dragons | 31884 | [31884-gods-and-nemesis-of-ghosts-from-dragons.json](./31884-gods-and-nemesis-of-ghosts-from-dragons.json) |
 | Gods of Almagest | 214514 | [214514-gods-of-almagest.json](./214514-gods-of-almagest.json) |
@@ -4283,6 +4285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Good Kill! | 304708 | [304708-good-kill.json](./304708-good-kill.json) |
 | Good Knight's Sleep | 369021 | [369021-good-knights-sleep.json](./369021-good-knights-sleep.json) |
 | Good Lord! Everyone at the Reunion For My Religious All-Girls School Is a Trans Man... And They're Hot?! | 307341 | [307341-good-lord-everyone-at-the-reunion-for-my-religious-all-girls-school-is-a-trans-man-and-theyre-hot.json](./307341-good-lord-everyone-at-the-reunion-for-my-religious-all-girls-school-is-a-trans-man-and-theyre-hot.json) |
+| Good Luck Baby! | 240712 | [240712-good-luck-baby.json](./240712-good-luck-baby.json) |
 | Good Luck Citizen | 305777 | [305777-good-luck-citizen.json](./305777-good-luck-citizen.json) |
 | Good Luck Crossing | 344393 | [344393-good-luck-crossing.json](./344393-good-luck-crossing.json) |
 | Good Luck Have Fun | 202723 | [202723-good-luck-have-fun.json](./202723-good-luck-have-fun.json) |
