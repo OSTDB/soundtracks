@@ -214,6 +214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gain Ground | 237311 | [237311-gain-ground.json](./237311-gain-ground.json) |
 | Gain Ground | 3129 | [3129-gain-ground.json](./3129-gain-ground.json) |
 | Gain Ground SX | 42013 | [42013-gain-ground-sx.json](./42013-gain-ground-sx.json) |
+| Gainax Renzoku Satsujin Jiken: Ero | 257832 | [257832-gainax-renzoku-satsujin-jiken-ero.json](./257832-gainax-renzoku-satsujin-jiken-ero.json) |
 | Gairaldia 6 | 175297 | [175297-gairaldia-6.json](./175297-gairaldia-6.json) |
 | Gaishin Senki: Millennium Sword | 264307 | [264307-gaishin-senki-millennium-sword.json](./264307-gaishin-senki-millennium-sword.json) |
 | Gaist Crusher God | 84559 | [84559-gaist-crusher-god.json](./84559-gaist-crusher-god.json) |
@@ -3246,6 +3247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gnome Enchanted Jigsaw Puzzles: Expansion Pack 1 | 257390 | [257390-gnome-enchanted-jigsaw-puzzles-expansion-pack-1.json](./257390-gnome-enchanted-jigsaw-puzzles-expansion-pack-1.json) |
 | Gnome Enchanted Jigsaw Puzzles: Expansion Pack 10 | 260755 | [260755-gnome-enchanted-jigsaw-puzzles-expansion-pack-10.json](./260755-gnome-enchanted-jigsaw-puzzles-expansion-pack-10.json) |
 | Gnome Enchanted Jigsaw Puzzles: Expansion Pack 2 | 257389 | [257389-gnome-enchanted-jigsaw-puzzles-expansion-pack-2.json](./257389-gnome-enchanted-jigsaw-puzzles-expansion-pack-2.json) |
+| Gnome Enchanted Jigsaw Puzzles: Expansion Pack 3 | 257863 | [257863-gnome-enchanted-jigsaw-puzzles-expansion-pack-3.json](./257863-gnome-enchanted-jigsaw-puzzles-expansion-pack-3.json) |
 | Gnome Enchanted Jigsaw Puzzles: Expansion Pack 4 | 258948 | [258948-gnome-enchanted-jigsaw-puzzles-expansion-pack-4.json](./258948-gnome-enchanted-jigsaw-puzzles-expansion-pack-4.json) |
 | Gnome Enchanted Jigsaw Puzzles: Expansion Pack 9 | 260876 | [260876-gnome-enchanted-jigsaw-puzzles-expansion-pack-9.json](./260876-gnome-enchanted-jigsaw-puzzles-expansion-pack-9.json) |
 | Gnome Escape | 314409 | [314409-gnome-escape.json](./314409-gnome-escape.json) |
@@ -4937,6 +4939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grandma's Guide to the Grand Outside | 415110 | [415110-grandmas-guide-to-the-grand-outside.json](./415110-grandmas-guide-to-the-grand-outside.json) |
 | Grandma's House: College Days | 274923 | [274923-grandmas-house-college-days.json](./274923-grandmas-house-college-days.json) |
 | Grandma's Kitchen | 264007 | [264007-grandmas-kitchen.json](./264007-grandmas-kitchen.json) |
+| Grandma's Legacy VR: The Mystery Puzzle Solving Escape Room Game | 257867 | [257867-grandmas-legacy-vr-the-mystery-puzzle-solving-escape-room-game.json](./257867-grandmas-legacy-vr-the-mystery-puzzle-solving-escape-room-game.json) |
 | Grandma's Little Store | 379046 | [379046-grandmas-little-store.json](./379046-grandmas-little-store.json) |
 | Grandma(88) | 260251 | [260251-grandma-88.json](./260251-grandma-88.json) |
 | Grandman's Unbearable Existence | 334730 | [334730-grandmans-unbearable-existence.json](./334730-grandmans-unbearable-existence.json) |
