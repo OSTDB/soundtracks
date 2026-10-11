@@ -778,6 +778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candlelight | 200472 | [200472-candlelight.json](./200472-candlelight.json) |
 | Candlelight | 276456 | [276456-candlelight.json](./276456-candlelight.json) |
 | Candlelight | 33296 | [33296-candlelight.json](./33296-candlelight.json) |
+| Candlelight: Lament | 247937 | [247937-candlelight-lament.json](./247937-candlelight-lament.json) |
 | Candleman:find yourself | 130755 | [130755-candleman-find-yourself.json](./130755-candleman-find-yourself.json) |
 | Candlemass | 257297 | [257297-candlemass.json](./257297-candlemass.json) |
 | Candles | 178946 | [178946-candles.json](./178946-candles.json) |
@@ -1582,6 +1583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cargogo | 351260 | [351260-cargogo.json](./351260-cargogo.json) |
 | Cargor | 382415 | [382415-cargor.json](./382415-cargor.json) |
 | CargoRun | 237328 | [237328-cargorun.json](./237328-cargorun.json) |
+| CargoSpace | 247956 | [247956-cargospace.json](./247956-cargospace.json) |
 | Caribbean Crashers | 297326 | [297326-caribbean-crashers.json](./297326-caribbean-crashers.json) |
 | Caribbean Disaster | 74056 | [74056-caribbean-disaster.json](./74056-caribbean-disaster.json) |
 | Caribbean Jigsaw | 102892 | [102892-caribbean-jigsaw.json](./102892-caribbean-jigsaw.json) |
@@ -1985,6 +1987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cast Away: The Oddysee | 311061 | [311061-cast-away-the-oddysee.json](./311061-cast-away-the-oddysee.json) |
 | Cast Cats | 312755 | [312755-cast-cats.json](./312755-cast-cats.json) |
 | Cast Dice Away | 324901 | [324901-cast-dice-away.json](./324901-cast-dice-away.json) |
+| Cast Out Colony | 247958 | [247958-cast-out-colony.json](./247958-cast-out-colony.json) |
 | Cast Piercer | 170879 | [170879-cast-piercer.json](./170879-cast-piercer.json) |
 | Cast VR | 132206 | [132206-cast-vr.json](./132206-cast-vr.json) |
 | Castan | 197116 | [197116-castan.json](./197116-castan.json) |
@@ -6074,6 +6077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clawbert: ToyTown | 96831 | [96831-clawbert-toytown.json](./96831-clawbert-toytown.json) |
 | Clawberta | 192191 | [192191-clawberta.json](./192191-clawberta.json) |
 | Clawed | 342028 | [342028-clawed.json](./342028-clawed.json) |
+| Clawed Cult | 247939 | [247939-clawed-cult.json](./247939-clawed-cult.json) |
 | Clawface | 89670 | [89670-clawface.json](./89670-clawface.json) |
 | Clawfish | 152190 | [152190-clawfish.json](./152190-clawfish.json) |
 | Clawless Coin | 405526 | [405526-clawless-coin.json](./405526-clawless-coin.json) |
