@@ -821,6 +821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game Of Puzzles: Dragons | 248922 | [248922-game-of-puzzles-dragons.json](./248922-game-of-puzzles-dragons.json) |
 | Game of Puzzles: Slavic Mythology | 163415 | [163415-game-of-puzzles-slavic-mythology.json](./163415-game-of-puzzles-slavic-mythology.json) |
 | Game of Roads | 174364 | [174364-game-of-roads.json](./174364-game-of-roads.json) |
+| Game of Rollink | 244662 | [244662-game-of-rollink.json](./244662-game-of-rollink.json) |
 | Game of Seven | 199468 | [199468-game-of-seven.json](./199468-game-of-seven.json) |
 | Game of Skulls | 232062 | [232062-game-of-skulls.json](./232062-game-of-skulls.json) |
 | Game of Small Squares | 105757 | [105757-game-of-small-squares.json](./105757-game-of-small-squares.json) |
