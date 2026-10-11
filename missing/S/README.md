@@ -9565,6 +9565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snoring | 408057 | [408057-snoring.json](./408057-snoring.json) |
 | Snot Pop! | 412499 | [412499-snot-pop.json](./412499-snot-pop.json) |
 | Snot Put | 270761 | [270761-snot-put.json](./270761-snot-put.json) |
+| Snotty's Sewer | 253845 | [253845-snottys-sewer.json](./253845-snottys-sewer.json) |
 | SnOut 2 | 192827 | [192827-snout-2.json](./192827-snout-2.json) |
 | Snout About | 361827 | [361827-snout-about.json](./361827-snout-about.json) |
 | Snout Clout | 184930 | [184930-snout-clout.json](./184930-snout-clout.json) |
@@ -12983,6 +12984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spear of Destiny: Mission 3 - Ultimate Challenge | 50429 | [50429-spear-of-destiny-mission-3-ultimate-challenge.json](./50429-spear-of-destiny-mission-3-ultimate-challenge.json) |
 | Spear of Destiny: The Final Journey | 177043 | [177043-spear-of-destiny-the-final-journey.json](./177043-spear-of-destiny-the-final-journey.json) |
 | Spear of Destiny: The Kaiseki - Director's Cut | 228098 | [228098-spear-of-destiny-the-kaiseki-directors-cut.json](./228098-spear-of-destiny-the-kaiseki-directors-cut.json) |
+| Spear Song | 253846 | [253846-spear-song.json](./253846-spear-song.json) |
 | Spear Throwing Challange | 135619 | [135619-spear-throwing-challange.json](./135619-spear-throwing-challange.json) |
 | Spearain | 320301 | [320301-spearain.json](./320301-spearain.json) |
 | Speard | 257322 | [257322-speard.json](./257322-speard.json) |
@@ -15092,6 +15094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Jolt | 127960 | [127960-star-jolt.json](./127960-star-jolt.json) |
 | Star Keeper | 255251 | [255251-star-keeper.json](./255251-star-keeper.json) |
 | Star Knight | 46756 | [46756-star-knight.json](./46756-star-knight.json) |
+| Star Knight: Order of the Vortex | 253847 | [253847-star-knight-order-of-the-vortex.json](./253847-star-knight-order-of-the-vortex.json) |
 | Star Knightess Aura | 192746 | [192746-star-knightess-aura.json](./192746-star-knightess-aura.json) |
 | Star League Baseball | 307766 | [307766-star-league-baseball.json](./307766-star-league-baseball.json) |
 | Star Legacy | 351693 | [351693-star-legacy.json](./351693-star-legacy.json) |
@@ -17983,6 +17986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strong Protection | 236338 | [236338-strong-protection.json](./236338-strong-protection.json) |
 | Strong: Search for the Mightiest Person | 246975 | [246975-strong-search-for-the-mightiest-person.json](./246975-strong-search-for-the-mightiest-person.json) |
 | StrongBadZone | 135863 | [135863-strongbadzone.json](./135863-strongbadzone.json) |
+| Strongblade: Match 3 Puzzle and Match-3 Adventure | 253848 | [253848-strongblade-match-3-puzzle-and-match-3-adventure.json](./253848-strongblade-match-3-puzzle-and-match-3-adventure.json) |
 | Strongford Penitentiary Lost Tape 91 | 285401 | [285401-strongford-penitentiary-lost-tape-91.json](./285401-strongford-penitentiary-lost-tape-91.json) |
 | Stronghold | 18539 | [18539-stronghold.json](./18539-stronghold.json) |
 | Stronghold | 965 | [965-stronghold.json](./965-stronghold.json) |
@@ -18332,6 +18336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Subway Simulator | 87982 | [87982-subway-simulator.json](./87982-subway-simulator.json) |
 | Subway Simulator 10: New York Edition | 91348 | [91348-subway-simulator-10-new-york-edition.json](./91348-subway-simulator-10-new-york-edition.json) |
 | Subway Simulator: Moscow Train | 171903 | [171903-subway-simulator-moscow-train.json](./171903-subway-simulator-moscow-train.json) |
+| Subway Simulator: Underground Train Ride | 253844 | [253844-subway-simulator-underground-train-ride.json](./253844-subway-simulator-underground-train-ride.json) |
 | Subway Surfers | 251589 | [251589-subway-surfers.json](./251589-subway-surfers.json) |
 | Subway Surfers 2018 - Pet vs Police | 103450 | [103450-subway-surfers-2018-pet-vs-police.json](./103450-subway-surfers-2018-pet-vs-police.json) |
 | Subway Surfers Blast | 247170 | [247170-subway-surfers-blast.json](./247170-subway-surfers-blast.json) |
@@ -19708,6 +19713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Jigsaw Puzzle: Generations - Christmas Puzzles | 155585 | [155585-super-jigsaw-puzzle-generations-christmas-puzzles.json](./155585-super-jigsaw-puzzle-generations-christmas-puzzles.json) |
 | Super Jigsaw Puzzle: Generations - Cities 2 | 235728 | [235728-super-jigsaw-puzzle-generations-cities-2.json](./235728-super-jigsaw-puzzle-generations-cities-2.json) |
 | Super Jigsaw Puzzle: Generations - Colorful | 155580 | [155580-super-jigsaw-puzzle-generations-colorful.json](./155580-super-jigsaw-puzzle-generations-colorful.json) |
+| Super Jigsaw Puzzle: Generations - Desert | 253843 | [253843-super-jigsaw-puzzle-generations-desert.json](./253843-super-jigsaw-puzzle-generations-desert.json) |
 | Super Jigsaw Puzzle: Generations - Dogs 2 | 293064 | [293064-super-jigsaw-puzzle-generations-dogs-2.json](./293064-super-jigsaw-puzzle-generations-dogs-2.json) |
 | Super Jigsaw Puzzle: Generations - Dogs Puzzles | 155619 | [155619-super-jigsaw-puzzle-generations-dogs-puzzles.json](./155619-super-jigsaw-puzzle-generations-dogs-puzzles.json) |
 | Super Jigsaw Puzzle: Generations - Egypt | 258993 | [258993-super-jigsaw-puzzle-generations-egypt.json](./258993-super-jigsaw-puzzle-generations-egypt.json) |
@@ -21526,6 +21532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survival Prototype X | 302354 | [302354-survival-prototype-x.json](./302354-survival-prototype-x.json) |
 | Survival Quiz City: Festival Edition | 266714 | [266714-survival-quiz-city-festival-edition.json](./266714-survival-quiz-city-festival-edition.json) |
 | Survival Raft Simulator: Lost at Sea | 282142 | [282142-survival-raft-simulator-lost-at-sea.json](./282142-survival-raft-simulator-lost-at-sea.json) |
+| Survival Revelation: End of Days | 253842 | [253842-survival-revelation-end-of-days.json](./253842-survival-revelation-end-of-days.json) |
 | Survival RPG 2: The Temple Ruins | 169463 | [169463-survival-rpg-2-the-temple-ruins.json](./169463-survival-rpg-2-the-temple-ruins.json) |
 | Survival RPG 4: Haunted Manor | 264332 | [264332-survival-rpg-4-haunted-manor.json](./264332-survival-rpg-4-haunted-manor.json) |
 | Survival RPG: The Lost Treasure | 167295 | [167295-survival-rpg-the-lost-treasure.json](./167295-survival-rpg-the-lost-treasure.json) |
@@ -21533,6 +21540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survival Simulator | 166203 | [166203-survival-simulator.json](./166203-survival-simulator.json) |
 | Survival Simulator | 175714 | [175714-survival-simulator.json](./175714-survival-simulator.json) |
 | Survival Sisters | 195693 | [195693-survival-sisters.json](./195693-survival-sisters.json) |
+| Survival Sisters: 2048＋1 | 253841 | [253841-survival-sisters-2048-1.json](./253841-survival-sisters-2048-1.json) |
 | Survival Space: Unlimited Shooting | 83571 | [83571-survival-space-unlimited-shooting.json](./83571-survival-space-unlimited-shooting.json) |
 | Survival Sprint | 243117 | [243117-survival-sprint.json](./243117-survival-sprint.json) |
 | Survival Story | 291535 | [291535-survival-story.json](./291535-survival-story.json) |
