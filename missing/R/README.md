@@ -2446,6 +2446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Johnson's Chronicles: One Against All | 25177 | [25177-red-johnsons-chronicles-one-against-all.json](./25177-red-johnsons-chronicles-one-against-all.json) |
 | Red Lake | 35589 | [35589-red-lake.json](./35589-red-lake.json) |
 | Red Land | 372671 | [372671-red-land.json](./372671-red-land.json) |
+| Red Lands | 244679 | [244679-red-lands.json](./244679-red-lands.json) |
 | Red Leaves | 343285 | [343285-red-leaves.json](./343285-red-leaves.json) |
 | Red Letter Day 2 | 253043 | [253043-red-letter-day-2.json](./253043-red-letter-day-2.json) |
 | Red Light | 345432 | [345432-red-light.json](./345432-red-light.json) |
@@ -4679,6 +4680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riftopia | 346234 | [346234-riftopia.json](./346234-riftopia.json) |
 | Riftshot | 417536 | [417536-riftshot.json](./417536-riftshot.json) |
 | RiftStar Raiders | 27103 | [27103-riftstar-raiders.json](./27103-riftstar-raiders.json) |
+| Riftstorm | 244671 | [244671-riftstorm.json](./244671-riftstorm.json) |
 | Riftwalker | 178679 | [178679-riftwalker.json](./178679-riftwalker.json) |
 | Riftwalker | 381181 | [381181-riftwalker.json](./381181-riftwalker.json) |
 | Rig'n' Roll: Cut-Throat Highway | 209162 | [209162-rign-roll-cut-throat-highway.json](./209162-rign-roll-cut-throat-highway.json) |
@@ -5435,6 +5437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robin Hood's Quest | 43558 | [43558-robin-hoods-quest.json](./43558-robin-hoods-quest.json) |
 | Robin Lloyd no Bouken | 62988 | [62988-robin-lloyd-no-bouken.json](./62988-robin-lloyd-no-bouken.json) |
 | Robin Morningwood Adventure: A Gay RPG | 156097 | [156097-robin-morningwood-adventure-a-gay-rpg.json](./156097-robin-morningwood-adventure-a-gay-rpg.json) |
+| Robin Morningwood Adventure: Attack of the Gay Clones | 244694 | [244694-robin-morningwood-adventure-attack-of-the-gay-clones.json](./244694-robin-morningwood-adventure-attack-of-the-gay-clones.json) |
 | Robin of Loxley the Legend of Sherwood | 74517 | [74517-robin-of-loxley-the-legend-of-sherwood.json](./74517-robin-of-loxley-the-legend-of-sherwood.json) |
 | Robin of Sherlock | 26448 | [26448-robin-of-sherlock.json](./26448-robin-of-sherlock.json) |
 | Robin of Sherwood: The Touchstones of Rhiannon | 73825 | [73825-robin-of-sherwood-the-touchstones-of-rhiannon.json](./73825-robin-of-sherwood-the-touchstones-of-rhiannon.json) |
@@ -6902,6 +6905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ropoko | 370822 | [370822-ropoko.json](./370822-ropoko.json) |
 | Roppongi Hunters | 202746 | [202746-roppongi-hunters.json](./202746-roppongi-hunters.json) |
 | Roppongi Sadistic Night | 395566 | [395566-roppongi-sadistic-night.json](./395566-roppongi-sadistic-night.json) |
+| Ropu Barastu No X | 244680 | [244680-ropu-barastu-no-x.json](./244680-ropu-barastu-no-x.json) |
 | Ropuka | 386712 | [386712-ropuka.json](./386712-ropuka.json) |
 | Rorke's Drift | 72107 | [72107-rorkes-drift.json](./72107-rorkes-drift.json) |
 | Rorrim | 84852 | [84852-rorrim.json](./84852-rorrim.json) |
