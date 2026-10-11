@@ -1410,6 +1410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saucer Arena | 348957 | [348957-saucer-arena.json](./348957-saucer-arena.json) |
 | Saucer Attack! | 59645 | [59645-saucer-attack.json](./59645-saucer-attack.json) |
 | Saucer Destruction 3: Armagedon | 337204 | [337204-saucer-destruction-3-armagedon.json](./337204-saucer-destruction-3-armagedon.json) |
+| Saucers | 245744 | [245744-saucers.json](./245744-saucers.json) |
 | Saucy Boy Adventures | 210095 | [210095-saucy-boy-adventures.json](./210095-saucy-boy-adventures.json) |
 | Saucy Devil Gordon | 310660 | [310660-saucy-devil-gordon.json](./310660-saucy-devil-gordon.json) |
 | Saucy Devil Gordon 2 | 310661 | [310661-saucy-devil-gordon-2.json](./310661-saucy-devil-gordon-2.json) |
@@ -8595,6 +8596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slingo Deluxe Bundle | 208921 | [208921-slingo-deluxe-bundle.json](./208921-slingo-deluxe-bundle.json) |
 | Slingo Quest Hawaii | 73807 | [73807-slingo-quest-hawaii.json](./73807-slingo-quest-hawaii.json) |
 | Slingoween | 338940 | [338940-slingoween.json](./338940-slingoween.json) |
+| Slingshell, by Muno! | 245729 | [245729-slingshell-by-muno.json](./245729-slingshell-by-muno.json) |
 | Slingshot | 60577 | [60577-slingshot.json](./60577-slingshot.json) |
 | Slingshot Assist | 26842 | [26842-slingshot-assist.json](./26842-slingshot-assist.json) |
 | Slingshot Battle | 241418 | [241418-slingshot-battle.json](./241418-slingshot-battle.json) |
@@ -11830,6 +11832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soulsworn | 395107 | [395107-soulsworn.json](./395107-soulsworn.json) |
 | Soultia | 130939 | [130939-soultia.json](./130939-soultia.json) |
 | SoulTrigger | 372606 | [372606-soultrigger.json](./372606-soultrigger.json) |
+| Soulvester vs. Lil' Beezey | 245730 | [245730-soulvester-vs-lil-beezey.json](./245730-soulvester-vs-lil-beezey.json) |
 | Soulveyor | 216724 | [216724-soulveyor.json](./216724-soulveyor.json) |
 | SoulWander | 348785 | [348785-soulwander.json](./348785-soulwander.json) |
 | Soulward | 183458 | [183458-soulward.json](./183458-soulward.json) |
@@ -20515,6 +20518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Peko 35 | 266904 | [266904-super-peko-35.json](./266904-super-peko-35.json) |
 | Super Penguin Ball & Chain | 343433 | [343433-super-penguin-ball-and-chain.json](./343433-super-penguin-ball-and-chain.json) |
 | Super Perspective | 65841 | [65841-super-perspective.json](./65841-super-perspective.json) |
+| Super Pet Hero | 245758 | [245758-super-pet-hero.json](./245758-super-pet-hero.json) |
 | Super Phantom Cat | 90979 | [90979-super-phantom-cat.json](./90979-super-phantom-cat.json) |
 | Super Picture Cross | 272913 | [272913-super-picture-cross.json](./272913-super-picture-cross.json) |
 | Super Pig | 120989 | [120989-super-pig.json](./120989-super-pig.json) |
@@ -20853,6 +20857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Snake Block DX | 267971 | [267971-super-snake-block-dx.json](./267971-super-snake-block-dx.json) |
 | Super Snot Put | 326727 | [326727-super-snot-put.json](./326727-super-snot-put.json) |
 | Super Snowball Sunday | 74334 | [74334-super-snowball-sunday.json](./74334-super-snowball-sunday.json) |
+| Super Soakdown | 245731 | [245731-super-soakdown.json](./245731-super-soakdown.json) |
 | Super Soccer | 172784 | [172784-super-soccer.json](./172784-super-soccer.json) |
 | Super Soccer | 292605 | [292605-super-soccer.json](./292605-super-soccer.json) |
 | Super Soccer | 346772 | [346772-super-soccer.json](./346772-super-soccer.json) |
@@ -21092,6 +21097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Yuki Onna-chan | 154423 | [154423-super-yuki-onna-chan.json](./154423-super-yuki-onna-chan.json) |
 | Super Yum Yum | 306006 | [306006-super-yum-yum.json](./306006-super-yum-yum.json) |
 | Super Zangyura | 151652 | [151652-super-zangyura.json](./151652-super-zangyura.json) |
+| Super Zeek | 245766 | [245766-super-zeek.json](./245766-super-zeek.json) |
 | Super Zoo Story | 142957 | [142957-super-zoo-story.json](./142957-super-zoo-story.json) |
 | Super Zugan: Hakotenjou kara no Shoutai | 60498 | [60498-super-zugan-hakotenjou-kara-no-shoutai.json](./60498-super-zugan-hakotenjou-kara-no-shoutai.json) |
 | Super ZZT | 46656 | [46656-super-zzt.json](./46656-super-zzt.json) |
@@ -22128,6 +22134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Shell | 328043 | [328043-sweet-shell.json](./328043-sweet-shell.json) |
 | Sweet Shine | 159825 | [159825-sweet-shine.json](./159825-sweet-shine.json) |
 | Sweet Shop | 90376 | [90376-sweet-shop.json](./90376-sweet-shop.json) |
+| Sweet Sins: Kawaii Run | 245755 | [245755-sweet-sins-kawaii-run.json](./245755-sweet-sins-kawaii-run.json) |
 | Sweet Slave | 339442 | [339442-sweet-slave.json](./339442-sweet-slave.json) |
 | Sweet Sleep | 229729 | [229729-sweet-sleep.json](./229729-sweet-sleep.json) |
 | Sweet Solitaire: School Witch | 133232 | [133232-sweet-solitaire-school-witch.json](./133232-sweet-solitaire-school-witch.json) |
