@@ -2497,6 +2497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghrian | 26526 | [26526-ghrian.json](./26526-ghrian.json) |
 | Ghunter | 322112 | [322112-ghunter.json](./322112-ghunter.json) |
 | Ghurka | 295672 | [295672-ghurka.json](./295672-ghurka.json) |
+| GI King!: Sanbiki no Yosouya | 277804 | [277804-gi-king-sanbiki-no-yosouya.json](./277804-gi-king-sanbiki-no-yosouya.json) |
 | GI Racing 2.0 | 32095 | [32095-gi-racing-2-0.json](./32095-gi-racing-2-0.json) |
 | Giagachan | 218132 | [218132-giagachan.json](./218132-giagachan.json) |
 | Giana Sisters | 213394 | [213394-giana-sisters.json](./213394-giana-sisters.json) |
@@ -4858,6 +4859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grande Fratello: Il Gioco | 300371 | [300371-grande-fratello-il-gioco.json](./300371-grande-fratello-il-gioco.json) |
 | Grander Musashi RV | 228555 | [228555-grander-musashi-rv.json](./228555-grander-musashi-rv.json) |
 | Grandfather | 417497 | [417497-grandfather.json](./417497-grandfather.json) |
+| Grandfather Simulator | 277813 | [277813-grandfather-simulator.json](./277813-grandfather-simulator.json) |
 | Grandia | 361321 | [361321-grandia.json](./361321-grandia.json) |
 | Grandia | 4127 | [4127-grandia.json](./4127-grandia.json) |
 | Grandia HD Collection | 107214 | [107214-grandia-hd-collection.json](./107214-grandia-hd-collection.json) |
