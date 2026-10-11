@@ -839,6 +839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallout 3: Game of the Year Edition | 21892 | [21892-fallout-3-game-of-the-year-edition.json](./21892-fallout-3-game-of-the-year-edition.json) |
 | Fallout 3: Mothership Zeta | 10300 | [10300-fallout-3-mothership-zeta.json](./10300-fallout-3-mothership-zeta.json) |
 | Fallout 3: Point Lookout | 10302 | [10302-fallout-3-point-lookout.json](./10302-fallout-3-point-lookout.json) |
+| Fallout 3: Remaster | 267307 | [267307-fallout-3-remaster.json](./267307-fallout-3-remaster.json) |
 | Fallout 3: Survival Edition | 72381 | [72381-fallout-3-survival-edition.json](./72381-fallout-3-survival-edition.json) |
 | Fallout 3: The Pitt & Fallout 3: Operation Anchorage | 202170 | [202170-fallout-3-the-pitt-and-fallout-3-operation-anchorage.json](./202170-fallout-3-the-pitt-and-fallout-3-operation-anchorage.json) |
 | Fallout 4: Anniversary Edition | 375089 | [375089-fallout-4-anniversary-edition.json](./375089-fallout-4-anniversary-edition.json) |
@@ -5287,6 +5288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fly for Fly | 380403 | [380403-fly-for-fly.json](./380403-fly-for-fly.json) |
 | Fly Fu | 52209 | [52209-fly-fu.json](./52209-fly-fu.json) |
 | Fly Guy | 230512 | [230512-fly-guy.json](./230512-fly-guy.json) |
+| Fly Guys | 267286 | [267286-fly-guys.json](./267286-fly-guys.json) |
 | Fly Hands | 291090 | [291090-fly-hands.json](./291090-fly-hands.json) |
 | Fly Hard | 306372 | [306372-fly-hard.json](./306372-fly-hard.json) |
 | Fly Hard | 381027 | [381027-fly-hard.json](./381027-fly-hard.json) |
@@ -6881,6 +6883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fragment of CISCD | 244357 | [244357-fragment-of-ciscd.json](./244357-fragment-of-ciscd.json) |
 | Fragment of Humanity | 224246 | [224246-fragment-of-humanity.json](./224246-fragment-of-humanity.json) |
 | Fragment of Marine | 114179 | [114179-fragment-of-marine.json](./114179-fragment-of-marine.json) |
+| Fragment: A Story in Growing | 267279 | [267279-fragment-a-story-in-growing.json](./267279-fragment-a-story-in-growing.json) |
 | fragment:AM | 218146 | [218146-fragment-am.json](./218146-fragment-am.json) |
 | Fragment's Note 2 | 197251 | [197251-fragments-note-2.json](./197251-fragments-note-2.json) |
 | Fragment's Note+ | 221086 | [221086-fragments-note.json](./221086-fragments-note.json) |
