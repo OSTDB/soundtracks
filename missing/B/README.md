@@ -1788,6 +1788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barro | 95668 | [95668-barro.json](./95668-barro.json) |
 | Barro 2020 | 123866 | [123866-barro-2020.json](./123866-barro-2020.json) |
 | Barro F | 130225 | [130225-barro-f.json](./130225-barro-f.json) |
+| Barro F22 | 249694 | [249694-barro-f22.json](./249694-barro-f22.json) |
 | Barro F22: Pack #1 | 298414 | [298414-barro-f22-pack-1.json](./298414-barro-f22-pack-1.json) |
 | Barro F22: Pack #2 | 322730 | [322730-barro-f22-pack-2.json](./322730-barro-f22-pack-2.json) |
 | Barro F25 | 339931 | [339931-barro-f25.json](./339931-barro-f25.json) |
@@ -3035,6 +3036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beach Cafe: Caribbean Sand | 232988 | [232988-beach-cafe-caribbean-sand.json](./232988-beach-cafe-caribbean-sand.json) |
 | Beach Club Simulator | 292638 | [292638-beach-club-simulator.json](./292638-beach-club-simulator.json) |
 | Beach Club Simulator 2024 | 289429 | [289429-beach-club-simulator-2024.json](./289429-beach-club-simulator-2024.json) |
+| Beach Club Tycoon | 249683 | [249683-beach-club-tycoon.json](./249683-beach-club-tycoon.json) |
 | Beach de Reach! | 45418 | [45418-beach-de-reach.json](./45418-beach-de-reach.json) |
 | Beach Festival World Championship 1997 | 255362 | [255362-beach-festival-world-championship-1997.json](./255362-beach-festival-world-championship-1997.json) |
 | Beach Friends | 376465 | [376465-beach-friends.json](./376465-beach-friends.json) |
@@ -3120,6 +3122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bean There Won That | 311497 | [311497-bean-there-won-that.json](./311497-bean-there-won-that.json) |
 | Bean Wizard Eviscerates the Gonklins | 406252 | [406252-bean-wizard-eviscerates-the-gonklins.json](./406252-bean-wizard-eviscerates-the-gonklins.json) |
 | Bean's Quest 2: Bean Dreams | 26919 | [26919-beans-quest-2-bean-dreams.json](./26919-beans-quest-2-bean-dreams.json) |
+| BeanKind by Ketnipz | 249657 | [249657-beankind-by-ketnipz.json](./249657-beankind-by-ketnipz.json) |
 | Beanotown Racing | 57608 | [57608-beanotown-racing.json](./57608-beanotown-racing.json) |
 | Beanrise | 322273 | [322273-beanrise.json](./322273-beanrise.json) |
 | Beans Dash | 256255 | [256255-beans-dash.json](./256255-beans-dash.json) |
@@ -3288,6 +3291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat It!: Christmas Edition | 68649 | [68649-beat-it-christmas-edition.json](./68649-beat-it-christmas-edition.json) |
 | Beat Me! Puppetonia Tournament | 156515 | [156515-beat-me-puppetonia-tournament.json](./156515-beat-me-puppetonia-tournament.json) |
 | Beat Monsters | 119003 | [119003-beat-monsters.json](./119003-beat-monsters.json) |
+| Beat Mp3 | 249687 | [249687-beat-mp3.json](./249687-beat-mp3.json) |
 | Beat MP3 for YouTube | 213380 | [213380-beat-mp3-for-youtube.json](./213380-beat-mp3-for-youtube.json) |
 | Beat Nebula | 25609 | [25609-beat-nebula.json](./25609-beat-nebula.json) |
 | Beat of Life | 347311 | [347311-beat-of-life.json](./347311-beat-of-life.json) |
@@ -5576,6 +5580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Fighter: Super Shadow Fight | 103887 | [103887-black-fighter-super-shadow-fight.json](./103887-black-fighter-super-shadow-fight.json) |
 | Black Fire | 46087 | [46087-black-fire.json](./46087-black-fire.json) |
 | Black Flower | 400966 | [400966-black-flower.json](./400966-black-flower.json) |
+| Black Friday | 249699 | [249699-black-friday.json](./249699-black-friday.json) |
 | Black Friday: The Game | 68600 | [68600-black-friday-the-game.json](./68600-black-friday-the-game.json) |
 | Black Geyser: Couriers of Darkness - Tales of the Moon Cult | 379444 | [379444-black-geyser-couriers-of-darkness-tales-of-the-moon-cult.json](./379444-black-geyser-couriers-of-darkness-tales-of-the-moon-cult.json) |
 | Black Goat | 355193 | [355193-black-goat.json](./355193-black-goat.json) |
