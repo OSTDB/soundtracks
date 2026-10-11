@@ -155,6 +155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jackpot | 246954 | [246954-jackpot.json](./246954-jackpot.json) |
 | Jackpot | 312259 | [312259-jackpot.json](./312259-jackpot.json) |
 | Jackpot | 84321 | [84321-jackpot.json](./84321-jackpot.json) |
+| Jackpot 2 | 266152 | [266152-jackpot-2.json](./266152-jackpot-2.json) |
 | Jackpot 777 | 85201 | [85201-jackpot-777.json](./85201-jackpot-777.json) |
 | Jackpot Buffalo Slots | 393538 | [393538-jackpot-buffalo-slots.json](./393538-jackpot-buffalo-slots.json) |
 | Jackpot Crash Course | 374296 | [374296-jackpot-crash-course.json](./374296-jackpot-crash-course.json) |
@@ -2049,6 +2050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jump Penguin Final | 279256 | [279256-jump-penguin-final.json](./279256-jump-penguin-final.json) |
 | Jump Protocol | 411816 | [411816-jump-protocol.json](./411816-jump-protocol.json) |
 | Jump Puzzle | 244369 | [244369-jump-puzzle.json](./244369-jump-puzzle.json) |
+| Jump Queen | 266119 | [266119-jump-queen.json](./266119-jump-queen.json) |
 | Jump Race | 324998 | [324998-jump-race.json](./324998-jump-race.json) |
 | Jump Runner | 200543 | [200543-jump-runner.json](./200543-jump-runner.json) |
 | Jump Shot | 46858 | [46858-jump-shot.json](./46858-jump-shot.json) |
