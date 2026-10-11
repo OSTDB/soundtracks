@@ -1661,6 +1661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farmer's Father: Save the Innocence | 211660 | [211660-farmers-father-save-the-innocence.json](./211660-farmers-father-save-the-innocence.json) |
 | Farmer’s Market Simulator | 348393 | [348393-farmer-s-market-simulator.json](./348393-farmer-s-market-simulator.json) |
 | Farmerama | 92459 | [92459-farmerama.json](./92459-farmerama.json) |
+| Farmers 2050 | 249667 | [249667-farmers-2050.json](./249667-farmers-2050.json) |
 | Farmers Co-op: Out of This World | 165609 | [165609-farmers-co-op-out-of-this-world.json](./165609-farmers-co-op-out-of-this-world.json) |
 | Farmers Rebellion | 40137 | [40137-farmers-rebellion.json](./40137-farmers-rebellion.json) |
 | FarmFury! | 62576 | [62576-farmfury.json](./62576-farmfury.json) |
@@ -3352,6 +3353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Passage | 370844 | [370844-final-passage.json](./370844-final-passage.json) |
 | Final Payload | 394502 | [394502-final-payload.json](./394502-final-payload.json) |
 | Final Profit: A Shop RPG | 196721 | [196721-final-profit-a-shop-rpg.json](./196721-final-profit-a-shop-rpg.json) |
+| Final Project | 249676 | [249676-final-project.json](./249676-final-project.json) |
 | Final Quest | 31732 | [31732-final-quest.json](./31732-final-quest.json) |
 | Final Racing | 206761 | [206761-final-racing.json](./206761-final-racing.json) |
 | Final Redoubt: Zombie Apocalypse | 329590 | [329590-final-redoubt-zombie-apocalypse.json](./329590-final-redoubt-zombie-apocalypse.json) |
@@ -5623,6 +5625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Food Maze | 234678 | [234678-food-maze.json](./234678-food-maze.json) |
 | Food Monster and Animals Memory Match | 82354 | [82354-food-monster-and-animals-memory-match.json](./82354-food-monster-and-animals-memory-match.json) |
 | Food Poppers | 189031 | [189031-food-poppers.json](./189031-food-poppers.json) |
+| Food Street: Restaurant Game | 249666 | [249666-food-street-restaurant-game.json](./249666-food-street-restaurant-game.json) |
 | Food Truck Chef | 105841 | [105841-food-truck-chef.json](./105841-food-truck-chef.json) |
 | Food Truck Monopoly | 348875 | [348875-food-truck-monopoly.json](./348875-food-truck-monopoly.json) |
 | Food Truck Shop Simulator | 350537 | [350537-food-truck-shop-simulator.json](./350537-food-truck-shop-simulator.json) |
