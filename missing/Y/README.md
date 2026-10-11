@@ -636,6 +636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yoshimi-kun wa Game Bakkari | 356152 | [356152-yoshimi-kun-wa-game-bakkari.json](./356152-yoshimi-kun-wa-game-bakkari.json) |
 | Yoshimoto Mahjong Club | 382990 | [382990-yoshimoto-mahjong-club.json](./382990-yoshimoto-mahjong-club.json) |
 | Yoshinoya | 43426 | [43426-yoshinoya.json](./43426-yoshinoya.json) |
+| Yoshitsune-ki | 263951 | [263951-yoshitsune-ki.json](./263951-yoshitsune-ki.json) |
 | Yoshiwara | 328615 | [328615-yoshiwara.json](./328615-yoshiwara.json) |
 | Yoshiwara Higanbana | 153489 | [153489-yoshiwara-higanbana.json](./153489-yoshiwara-higanbana.json) |
 | Yoshiwara Higanbana: Kuon no Chigiri | 110335 | [110335-yoshiwara-higanbana-kuon-no-chigiri.json](./110335-yoshiwara-higanbana-kuon-no-chigiri.json) |
