@@ -4329,6 +4329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rich Life Simulator VR | 50520 | [50520-rich-life-simulator-vr.json](./50520-rich-life-simulator-vr.json) |
 | Rich Mahogany and Human Leather-Bound Books | 271749 | [271749-rich-mahogany-and-human-leather-bound-books.json](./271749-rich-mahogany-and-human-leather-bound-books.json) |
 | Rich Man | 175826 | [175826-rich-man.json](./175826-rich-man.json) |
+| Rich Maser: Cash King | 254960 | [254960-rich-maser-cash-king.json](./254960-rich-maser-cash-king.json) |
 | Rich Party | 370860 | [370860-rich-party.json](./370860-rich-party.json) |
 | Rich River | 391203 | [391203-rich-river.json](./391203-rich-river.json) |
 | Rich School Girl Simulator | 300324 | [300324-rich-school-girl-simulator.json](./300324-rich-school-girl-simulator.json) |
@@ -5831,6 +5832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket Carz Racing | 260195 | [260195-rocket-carz-racing.json](./260195-rocket-carz-racing.json) |
 | Rocket Cave Adventure | 160227 | [160227-rocket-cave-adventure.json](./160227-rocket-cave-adventure.json) |
 | Rocket Chameleon | 58750 | [58750-rocket-chameleon.json](./58750-rocket-chameleon.json) |
+| Rocket Chicken | 254975 | [254975-rocket-chicken.json](./254975-rocket-chicken.json) |
 | Rocket Coaster | 82928 | [82928-rocket-coaster.json](./82928-rocket-coaster.json) |
 | Rocket Control | 242478 | [242478-rocket-control.json](./242478-rocket-control.json) |
 | Rocket Cows | 195730 | [195730-rocket-cows.json](./195730-rocket-cows.json) |
@@ -7110,6 +7112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rowtropia | 260628 | [260628-rowtropia.json](./260628-rowtropia.json) |
 | Rox | 50066 | [50066-rox.json](./50066-rox.json) |
 | Rox II | 315507 | [315507-rox-ii.json](./315507-rox-ii.json) |
+| Rox III | 254996 | [254996-rox-iii.json](./254996-rox-iii.json) |
 | Roxanne | 382316 | [382316-roxanne.json](./382316-roxanne.json) |
 | Roxanne The Forgotten Path | 365846 | [365846-roxanne-the-forgotten-path.json](./365846-roxanne-the-forgotten-path.json) |
 | Roxy Raccoon | 159290 | [159290-roxy-raccoon.json](./159290-roxy-raccoon.json) |
