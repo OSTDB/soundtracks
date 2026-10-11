@@ -621,6 +621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War of the Mars | 151075 | [151075-war-of-the-mars.json](./151075-war-of-the-mars.json) |
 | War of the Monsters | 3208 | [3208-war-of-the-monsters.json](./3208-war-of-the-monsters.json) |
 | War of the Ring | 356066 | [356066-war-of-the-ring.json](./356066-war-of-the-ring.json) |
+| War of the Robots | 273285 | [273285-war-of-the-robots.json](./273285-war-of-the-robots.json) |
 | War of the Roses | 1385 | [1385-war-of-the-roses.json](./1385-war-of-the-roses.json) |
 | War of the Roses: Kingmaker | 11040 | [11040-war-of-the-roses-kingmaker.json](./11040-war-of-the-roses-kingmaker.json) |
 | War of the Seraphim | 117056 | [117056-war-of-the-seraphim.json](./117056-war-of-the-seraphim.json) |
@@ -714,6 +715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War Wind | 929 | [929-war-wind.json](./929-war-wind.json) |
 | War Wind II: Human Onslaught | 51780 | [51780-war-wind-ii-human-onslaught.json](./51780-war-wind-ii-human-onslaught.json) |
 | War Yards | 139480 | [139480-war-yards.json](./139480-war-yards.json) |
+| War Zone Soldier: Battle Royale Shooter | 273303 | [273303-war-zone-soldier-battle-royale-shooter.json](./273303-war-zone-soldier-battle-royale-shooter.json) |
 | War-Torn | 344913 | [344913-war-torn.json](./344913-war-torn.json) |
 | War, the Game | 17838 | [17838-war-the-game.json](./17838-war-the-game.json) |
 | War: 13th Day | 75221 | [75221-war-13th-day.json](./75221-war-13th-day.json) |
@@ -862,6 +864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WarGames: Defcon 1 | 45028 | [45028-wargames-defcon-1.json](./45028-wargames-defcon-1.json) |
 | Wargle | 291151 | [291151-wargle.json](./291151-wargle.json) |
 | Wargroove | 27441 | [27441-wargroove.json](./27441-wargroove.json) |
+| Wargroove + Wargroove 2 Bundle | 273304 | [273304-wargroove-wargroove-2-bundle.json](./273304-wargroove-wargroove-2-bundle.json) |
 | Wargroove 2 | 241149 | [241149-wargroove-2.json](./241149-wargroove-2.json) |
 | Wargroove: Double Trouble Bundle | 221778 | [221778-wargroove-double-trouble-bundle.json](./221778-wargroove-double-trouble-bundle.json) |
 | WarGround | 114441 | [114441-warground.json](./114441-warground.json) |
@@ -5858,6 +5861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WWE 2K22: Season Pass | 293720 | [293720-wwe-2k22-season-pass.json](./293720-wwe-2k22-season-pass.json) |
 | WWE 2K23 | 233028 | [233028-wwe-2k23.json](./233028-wwe-2k23.json) |
 | WWE 2K23: Bad Bunny Bonus Pack | 263147 | [263147-wwe-2k23-bad-bunny-bonus-pack.json](./263147-wwe-2k23-bad-bunny-bonus-pack.json) |
+| WWE 2K23: Bad Bunny Edition | 273338 | [273338-wwe-2k23-bad-bunny-edition.json](./273338-wwe-2k23-bad-bunny-edition.json) |
 | WWE 2K23: Bad Bunny Edition - Bonus Pack | 273348 | [273348-wwe-2k23-bad-bunny-edition-bonus-pack.json](./273348-wwe-2k23-bad-bunny-edition-bonus-pack.json) |
 | WWE 2K23: Cross-Gen Digital Edition | 241078 | [241078-wwe-2k23-cross-gen-digital-edition.json](./241078-wwe-2k23-cross-gen-digital-edition.json) |
 | WWE 2K23: Deluxe Edition | 234209 | [234209-wwe-2k23-deluxe-edition.json](./234209-wwe-2k23-deluxe-edition.json) |
