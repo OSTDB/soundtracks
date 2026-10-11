@@ -7403,6 +7403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boba | 177569 | [177569-boba.json](./177569-boba.json) |
 | Boba | 239588 | [239588-boba.json](./239588-boba.json) |
 | Boba Avoider | 413031 | [413031-boba-avoider.json](./413031-boba-avoider.json) |
+| Boba Bar: Bubble Tea Tycoon | 276209 | [276209-boba-bar-bubble-tea-tycoon.json](./276209-boba-bar-bubble-tea-tycoon.json) |
 | Boba Cafe Simulator | 346644 | [346644-boba-cafe-simulator.json](./346644-boba-cafe-simulator.json) |
 | Boba Monsters | 309140 | [309140-boba-monsters.json](./309140-boba-monsters.json) |
 | Boba Tale | 199622 | [199622-boba-tale.json](./199622-boba-tale.json) |
