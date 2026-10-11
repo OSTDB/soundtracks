@@ -2053,6 +2053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Kind of Adventure | 35089 | [35089-new-kind-of-adventure.json](./35089-new-kind-of-adventure.json) |
 | New Lands 1 | 252390 | [252390-new-lands-1.json](./252390-new-lands-1.json) |
 | New Lands 2 | 254061 | [254061-new-lands-2.json](./254061-new-lands-2.json) |
+| New Lands 3: Paradise Island | 254384 | [254384-new-lands-3-paradise-island.json](./254384-new-lands-3-paradise-island.json) |
 | New Lands: Legends of Tenkai - Collector's Edition | 369014 | [369014-new-lands-legends-of-tenkai-collectors-edition.json](./369014-new-lands-legends-of-tenkai-collectors-edition.json) |
 | New Legend of Sword and Fairy | 77971 | [77971-new-legend-of-sword-and-fairy.json](./77971-new-legend-of-sword-and-fairy.json) |
 | New Legends | 18268 | [18268-new-legends.json](./18268-new-legends.json) |
