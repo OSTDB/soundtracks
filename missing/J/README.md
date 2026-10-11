@@ -521,6 +521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jaunt | 154382 | [154382-jaunt.json](./154382-jaunt.json) |
 | Java Jim in Square Shaped Trouble | 37069 | [37069-java-jim-in-square-shaped-trouble.json](./37069-java-jim-in-square-shaped-trouble.json) |
 | Java Journey | 303589 | [303589-java-journey.json](./303589-java-journey.json) |
+| Java Saga | 250847 | [250847-java-saga.json](./250847-java-saga.json) |
 | Java-Klingsburg | 146769 | [146769-java-klingsburg.json](./146769-java-klingsburg.json) |
 | Javaders | 128578 | [128578-javaders.json](./128578-javaders.json) |
 | Javel-ein | 133300 | [133300-javel-ein.json](./133300-javel-ein.json) |
@@ -2248,6 +2249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jungle Catz | 291786 | [291786-jungle-catz.json](./291786-jungle-catz.json) |
 | Jungle Crash Land | 66151 | [66151-jungle-crash-land.json](./66151-jungle-crash-land.json) |
 | Jungle Drummer | 305139 | [305139-jungle-drummer.json](./305139-jungle-drummer.json) |
+| Jungle Gems VR | 250845 | [250845-jungle-gems-vr.json](./250845-jungle-gems-vr.json) |
 | Jungle Guardians | 112720 | [112720-jungle-guardians.json](./112720-jungle-guardians.json) |
 | Jungle Heat: War of Clans | 56576 | [56576-jungle-heat-war-of-clans.json](./56576-jungle-heat-war-of-clans.json) |
 | Jungle Hunt | 282065 | [282065-jungle-hunt.json](./282065-jungle-hunt.json) |
