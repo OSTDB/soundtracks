@@ -399,6 +399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oddment | 297169 | [297169-oddment.json](./297169-oddment.json) |
 | Odds at Oddity | 389986 | [389986-odds-at-oddity.json](./389986-odds-at-oddity.json) |
 | Oddsmaker | 255718 | [255718-oddsmaker.json](./255718-oddsmaker.json) |
+| Oddsparks: An Automation Adventure | 261144 | [261144-oddsparks-an-automation-adventure.json](./261144-oddsparks-an-automation-adventure.json) |
 | Oddsparks: An Automation Adventure - Animal Costumes Pack | 366853 | [366853-oddsparks-an-automation-adventure-animal-costumes-pack.json](./366853-oddsparks-an-automation-adventure-animal-costumes-pack.json) |
 | Oddsparks: An Automation Adventure - Deluxe Edition | 403586 | [403586-oddsparks-an-automation-adventure-deluxe-edition.json](./403586-oddsparks-an-automation-adventure-deluxe-edition.json) |
 | Oddsparks: An Automation Adventure - Deluxe Upgrade | 403587 | [403587-oddsparks-an-automation-adventure-deluxe-upgrade.json](./403587-oddsparks-an-automation-adventure-deluxe-upgrade.json) |
@@ -425,6 +426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ode to a Moon | 111059 | [111059-ode-to-a-moon.json](./111059-ode-to-a-moon.json) |
 | Ode to Heroes | 137645 | [137645-ode-to-heroes.json](./137645-ode-to-heroes.json) |
 | Ode to My Hometown's Craft Fair | 176461 | [176461-ode-to-my-hometowns-craft-fair.json](./176461-ode-to-my-hometowns-craft-fair.json) |
+| Ode to the Odonata | 261169 | [261169-ode-to-the-odonata.json](./261169-ode-to-the-odonata.json) |
 | Odeio Sonhar | 307048 | [307048-odeio-sonhar.json](./307048-odeio-sonhar.json) |
 | Odekake Takorin: Choigae | 222527 | [222527-odekake-takorin-choigae.json](./222527-odekake-takorin-choigae.json) |
 | Odell Lake | 93132 | [93132-odell-lake.json](./93132-odell-lake.json) |
@@ -1485,6 +1487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Late Night: Mobile | 102625 | [102625-one-late-night-mobile.json](./102625-one-late-night-mobile.json) |
 | One Left | 184458 | [184458-one-left.json](./184458-one-left.json) |
 | One Life | 197239 | [197239-one-life.json](./197239-one-life.json) |
+| One Life Clicker | 261153 | [261153-one-life-clicker.json](./261153-one-life-clicker.json) |
 | One Life to Alice | 260228 | [260228-one-life-to-alice.json](./260228-one-life-to-alice.json) |
 | One Life: Parkour Project | 318781 | [318781-one-life-parkour-project.json](./318781-one-life-parkour-project.json) |
 | One Line | 189960 | [189960-one-line.json](./189960-one-line.json) |
