@@ -1268,6 +1268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abyss | 12288 | [12288-abyss.json](./12288-abyss.json) |
 | Abyss | 193294 | [193294-abyss.json](./193294-abyss.json) |
 | Abyss | 210669 | [210669-abyss.json](./210669-abyss.json) |
+| Abyss | 249689 | [249689-abyss.json](./249689-abyss.json) |
 | Abyss | 80512 | [80512-abyss.json](./80512-abyss.json) |
 | Abyss | 8524 | [8524-abyss.json](./8524-abyss.json) |
 | Abyss and Dungeon | 292164 | [292164-abyss-and-dungeon.json](./292164-abyss-and-dungeon.json) |
@@ -5608,6 +5609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ancient Tribe | 84886 | [84886-ancient-tribe.json](./84886-ancient-tribe.json) |
 | Ancient TriPeaks | 202099 | [202099-ancient-tripeaks.json](./202099-ancient-tripeaks.json) |
 | Ancient Viking | 262855 | [262855-ancient-viking.json](./262855-ancient-viking.json) |
+| Ancient Village 2 | 249685 | [249685-ancient-village-2.json](./249685-ancient-village-2.json) |
 | Ancient War: Three Kingdoms | 113695 | [113695-ancient-war-three-kingdoms.json](./113695-ancient-war-three-kingdoms.json) |
 | Ancient Warfare 3 | 76670 | [76670-ancient-warfare-3.json](./76670-ancient-warfare-3.json) |
 | Ancient Warlords: Aequilibrium | 102219 | [102219-ancient-warlords-aequilibrium.json](./102219-ancient-warlords-aequilibrium.json) |
@@ -5683,6 +5685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Andromeda One | 292695 | [292695-andromeda-one.json](./292695-andromeda-one.json) |
 | Andromeda Overdrive | 265420 | [265420-andromeda-overdrive.json](./265420-andromeda-overdrive.json) |
 | Andromeda Six: Team Time with Oppo | 256361 | [256361-andromeda-six-team-time-with-oppo.json](./256361-andromeda-six-team-time-with-oppo.json) |
+| Andromeda SS | 249705 | [249705-andromeda-ss.json](./249705-andromeda-ss.json) |
 | Andromeda Survivors | 219677 | [219677-andromeda-survivors.json](./219677-andromeda-survivors.json) |
 | Andromeda Zombies Colonies | 233221 | [233221-andromeda-zombies-colonies.json](./233221-andromeda-zombies-colonies.json) |
 | Andromeda: Rebirth of Humanity | 148973 | [148973-andromeda-rebirth-of-humanity.json](./148973-andromeda-rebirth-of-humanity.json) |
@@ -7099,6 +7102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apple Hopper | 158526 | [158526-apple-hopper.json](./158526-apple-hopper.json) |
 | Apple Jack | 91905 | [91905-apple-jack.json](./91905-apple-jack.json) |
 | Apple Jack 1&2 | 35716 | [35716-apple-jack-1-and-2.json](./35716-apple-jack-1-and-2.json) |
+| Apple Knight 2 | 249682 | [249682-apple-knight-2.json](./249682-apple-knight-2.json) |
 | Apple Man | 333670 | [333670-apple-man.json](./333670-apple-man.json) |
 | Apple Man Sam | 395502 | [395502-apple-man-sam.json](./395502-apple-man-sam.json) |
 | Apple Panic | 12255 | [12255-apple-panic.json](./12255-apple-panic.json) |
