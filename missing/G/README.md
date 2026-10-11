@@ -1235,6 +1235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garin Game: Curse of Revival Ceremony | 214747 | [214747-garin-game-curse-of-revival-ceremony.json](./214747-garin-game-curse-of-revival-ceremony.json) |
 | Garland Boy | 327187 | [327187-garland-boy.json](./327187-garland-boy.json) |
 | Garlic | 132685 | [132685-garlic.json](./132685-garlic.json) |
+| Garlic Builder | 263985 | [263985-garlic-builder.json](./263985-garlic-builder.json) |
 | Garlock Online | 34785 | [34785-garlock-online.json](./34785-garlock-online.json) |
 | Garmm Adventurer Vol.1 | 276259 | [276259-garmm-adventurer-vol-1.json](./276259-garmm-adventurer-vol-1.json) |
 | Garn47 | 300792 | [300792-garn47.json](./300792-garn47.json) |
