@@ -3586,6 +3586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kryftolike | 176994 | [176994-kryftolike.json](./176994-kryftolike.json) |
 | Krypt | 204948 | [204948-krypt.json](./204948-krypt.json) |
 | KryptCrawler | 51521 | [51521-kryptcrawler.json](./51521-kryptcrawler.json) |
+| Kryptonite: Flamez Hedgehog | 266700 | [266700-kryptonite-flamez-hedgehog.json](./266700-kryptonite-flamez-hedgehog.json) |
 | Kryptoria | 229633 | [229633-kryptoria.json](./229633-kryptoria.json) |
 | Krysolov | 343848 | [343848-krysolov.json](./343848-krysolov.json) |
 | Krystal Kart AR | 145438 | [145438-krystal-kart-ar.json](./145438-krystal-kart-ar.json) |
