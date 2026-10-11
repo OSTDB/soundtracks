@@ -4778,10 +4778,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deus Ex: Breach | 30494 | [30494-deus-ex-breach.json](./30494-deus-ex-breach.json) |
 | Deus Ex: Collection | 52883 | [52883-deus-ex-collection.json](./52883-deus-ex-collection.json) |
 | Deus Ex: Game of the Year Edition | 25358 | [25358-deus-ex-game-of-the-year-edition.json](./25358-deus-ex-game-of-the-year-edition.json) |
+| Deus Ex: Greasel of the Year Edition | 275624 | [275624-deus-ex-greasel-of-the-year-edition.json](./275624-deus-ex-greasel-of-the-year-edition.json) |
 | Deus Ex: Human Revolution - Augmented Edition | 47412 | [47412-deus-ex-human-revolution-augmented-edition.json](./47412-deus-ex-human-revolution-augmented-edition.json) |
 | Deus Ex: Human Revolution - Complete Edition | 118891 | [118891-deus-ex-human-revolution-complete-edition.json](./118891-deus-ex-human-revolution-complete-edition.json) |
 | Deus Ex: Human Revolution - Director's Cut | 9740 | [9740-deus-ex-human-revolution-directors-cut.json](./9740-deus-ex-human-revolution-directors-cut.json) |
 | Deus Ex: Invisible War | 42 | [42-deus-ex-invisible-war.json](./42-deus-ex-invisible-war.json) |
+| Deus Ex: Malkavian Mod | 275623 | [275623-deus-ex-malkavian-mod.json](./275623-deus-ex-malkavian-mod.json) |
 | Deus Ex: Mankind Divided - Assault Pack | 374695 | [374695-deus-ex-mankind-divided-assault-pack.json](./374695-deus-ex-mankind-divided-assault-pack.json) |
 | Deus Ex: Mankind Divided - Day One Edition | 46024 | [46024-deus-ex-mankind-divided-day-one-edition.json](./46024-deus-ex-mankind-divided-day-one-edition.json) |
 | Deus Ex: Mankind Divided - Digital Deluxe Edition | 164802 | [164802-deus-ex-mankind-divided-digital-deluxe-edition.json](./164802-deus-ex-mankind-divided-digital-deluxe-edition.json) |
@@ -6788,6 +6790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dmod | 275917 | [275917-dmod.json](./275917-dmod.json) |
 | dMuse | 98978 | [98978-dmuse.json](./98978-dmuse.json) |
 | DMX Presents: Unnecessary Hypeman Hero | 138266 | [138266-dmx-presents-unnecessary-hypeman-hero.json](./138266-dmx-presents-unnecessary-hypeman-hero.json) |
+| DMZ | 275542 | [275542-dmz.json](./275542-dmz.json) |
 | DMZ Adventure 2 | 331110 | [331110-dmz-adventure-2.json](./331110-dmz-adventure-2.json) |
 | DMZ: Nuclear Survival | 340001 | [340001-dmz-nuclear-survival.json](./340001-dmz-nuclear-survival.json) |
 | DNA | 126523 | [126523-dna.json](./126523-dna.json) |
