@@ -3116,6 +3116,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy Resonance: Digital Deluxe Edition | 410844 | [410844-final-fantasy-resonance-digital-deluxe-edition.json](./410844-final-fantasy-resonance-digital-deluxe-edition.json) |
 | Final Fantasy Restored & Rebalanced | 295659 | [295659-final-fantasy-restored-and-rebalanced.json](./295659-final-fantasy-restored-and-rebalanced.json) |
 | Final Fantasy Sonic X: Episode 1 | 266863 | [266863-final-fantasy-sonic-x-episode-1.json](./266863-final-fantasy-sonic-x-episode-1.json) |
+| Final Fantasy Sonic X: Episode 2 | 274407 | [274407-final-fantasy-sonic-x-episode-2.json](./274407-final-fantasy-sonic-x-episode-2.json) |
+| Final Fantasy Sonic X: Episode 3 | 274408 | [274408-final-fantasy-sonic-x-episode-3.json](./274408-final-fantasy-sonic-x-episode-3.json) |
+| Final Fantasy Sonic X: Episode 4 | 274409 | [274409-final-fantasy-sonic-x-episode-4.json](./274409-final-fantasy-sonic-x-episode-4.json) |
+| Final Fantasy Sonic X: Episode 5 | 274410 | [274410-final-fantasy-sonic-x-episode-5.json](./274410-final-fantasy-sonic-x-episode-5.json) |
+| Final Fantasy Sonic X: Episode 6 | 274411 | [274411-final-fantasy-sonic-x-episode-6.json](./274411-final-fantasy-sonic-x-episode-6.json) |
 | Final Fantasy Tactics | 428 | [428-final-fantasy-tactics.json](./428-final-fantasy-tactics.json) |
 | Final Fantasy Tactics 1.3 | 159064 | [159064-final-fantasy-tactics-1-3.json](./159064-final-fantasy-tactics-1-3.json) |
 | Final Fantasy Tactics Advance X | 222987 | [222987-final-fantasy-tactics-advance-x.json](./222987-final-fantasy-tactics-advance-x.json) |
@@ -3625,6 +3630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Emblem: Dark Stone | 335828 | [335828-fire-emblem-dark-stone.json](./335828-fire-emblem-dark-stone.json) |
 | Fire Emblem: Deity Device | 270674 | [270674-fire-emblem-deity-device.json](./270674-fire-emblem-deity-device.json) |
 | Fire Emblem: Dream of Five - Definitive Edition | 316621 | [316621-fire-emblem-dream-of-five-definitive-edition.json](./316621-fire-emblem-dream-of-five-definitive-edition.json) |
+| Fire Emblem: Drums of War | 274389 | [274389-fire-emblem-drums-of-war.json](./274389-fire-emblem-drums-of-war.json) |
 | Fire emblem: Emulation Theory | 375371 | [375371-fire-emblem-emulation-theory.json](./375371-fire-emblem-emulation-theory.json) |
 | Fire Emblem: Fortune's Weave | 366896 | [366896-fire-emblem-fortunes-weave.json](./366896-fire-emblem-fortunes-weave.json) |
 | Fire Emblem: Four Kings - Deposition | 214495 | [214495-fire-emblem-four-kings-deposition.json](./214495-fire-emblem-four-kings-deposition.json) |
@@ -6875,6 +6881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fragments of Truth: An MCF Story | 416703 | [416703-fragments-of-truth-an-mcf-story.json](./416703-fragments-of-truth-an-mcf-story.json) |
 | Fragments of Truth: An MCF Story - Collector's Edition | 345419 | [345419-fragments-of-truth-an-mcf-story-collectors-edition.json](./345419-fragments-of-truth-an-mcf-story-collectors-edition.json) |
 | FragMiner | 398561 | [398561-fragminer.json](./398561-fragminer.json) |
+| Fragor Portum | 274432 | [274432-fragor-portum.json](./274432-fragor-portum.json) |
 | Fragport | 260956 | [260956-fragport.json](./260956-fragport.json) |
 | FragPunk: Toys Awaken - Season 2: Chapter 2 | 362276 | [362276-fragpunk-toys-awaken-season-2-chapter-2.json](./362276-fragpunk-toys-awaken-season-2-chapter-2.json) |
 | Fragrance Tale | 58175 | [58175-fragrance-tale.json](./58175-fragrance-tale.json) |
