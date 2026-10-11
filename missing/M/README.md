@@ -84,6 +84,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mabinogi Mobile | 188377 | [188377-mabinogi-mobile.json](./188377-mabinogi-mobile.json) |
 | Maboroshi Tsukiyo | 128379 | [128379-maboroshi-tsukiyo.json](./128379-maboroshi-tsukiyo.json) |
 | Maboshi's Arcade | 21788 | [21788-maboshis-arcade.json](./21788-maboshis-arcade.json) |
+| Mabus 3000 | 245781 | [245781-mabus-3000.json](./245781-mabus-3000.json) |
 | Macabre no Zantou: Remnants of the Macabre | 309363 | [309363-macabre-no-zantou-remnants-of-the-macabre.json](./309363-macabre-no-zantou-remnants-of-the-macabre.json) |
 | Macadam: Futari Yogari | 66125 | [66125-macadam-futari-yogari.json](./66125-macadam-futari-yogari.json) |
 | Macaroni Houren-sou Interactive | 234183 | [234183-macaroni-houren-sou-interactive.json](./234183-macaroni-houren-sou-interactive.json) |
@@ -2653,6 +2654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marionette Handler | 77566 | [77566-marionette-handler.json](./77566-marionette-handler.json) |
 | Marionette Handler 2 | 77567 | [77567-marionette-handler-2.json](./77567-marionette-handler-2.json) |
 | Marionette lab | 152979 | [152979-marionette-lab.json](./152979-marionette-lab.json) |
+| Marionette Mates | 245752 | [245752-marionette-mates.json](./245752-marionette-mates.json) |
 | MarionetteAI | 41970 | [41970-marionetteai.json](./41970-marionetteai.json) |
 | MarioQuest 2: Sonic Returns | 381729 | [381729-marioquest-2-sonic-returns.json](./381729-marioquest-2-sonic-returns.json) |
 | MarioQuest 3: The Ghost of SEGA | 318033 | [318033-marioquest-3-the-ghost-of-sega.json](./318033-marioquest-3-the-ghost-of-sega.json) |
@@ -4273,6 +4275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mechanic Legends | 314472 | [314472-mechanic-legends.json](./314472-mechanic-legends.json) |
 | Mechanic Master | 23822 | [23822-mechanic-master.json](./23822-mechanic-master.json) |
 | Mechanic Miner | 77754 | [77754-mechanic-miner.json](./77754-mechanic-miner.json) |
+| Mechanic Story | 245738 | [245738-mechanic-story.json](./245738-mechanic-story.json) |
 | Mechanic Supermarket 2024 | 321487 | [321487-mechanic-supermarket-2024.json](./321487-mechanic-supermarket-2024.json) |
 | Mechanic Supermarket Simulator | 320436 | [320436-mechanic-supermarket-simulator.json](./320436-mechanic-supermarket-simulator.json) |
 | Mechanica | 129155 | [129155-mechanica.json](./129155-mechanica.json) |
@@ -9103,6 +9106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Model Builder: Titan-Forge DLC No.2 | 243158 | [243158-model-builder-titan-forge-dlc-no-2.json](./243158-model-builder-titan-forge-dlc-no-2.json) |
 | Model City | 149188 | [149188-model-city.json](./149188-model-city.json) |
 | Model Debut3 #Nicola | 320463 | [320463-model-debut3-nicola.json](./320463-model-debut3-nicola.json) |
+| Model Eight | 245750 | [245750-model-eight.json](./245750-model-eight.json) |
 | Model Employee | 274732 | [274732-model-employee.json](./274732-model-employee.json) |
 | Model Kit Shop Simulator | 397829 | [397829-model-kit-shop-simulator.json](./397829-model-kit-shop-simulator.json) |
 | Model Melissa | 286521 | [286521-model-melissa.json](./286521-model-melissa.json) |
@@ -11107,6 +11111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motocross Maniacs | 73130 | [73130-motocross-maniacs.json](./73130-motocross-maniacs.json) |
 | Motocross Maniacs 2 | 49891 | [49891-motocross-maniacs-2.json](./49891-motocross-maniacs-2.json) |
 | Motocross Maniacs Advance | 23475 | [23475-motocross-maniacs-advance.json](./23475-motocross-maniacs-advance.json) |
+| Motocross Mayhem | 245746 | [245746-motocross-mayhem.json](./245746-motocross-mayhem.json) |
 | Motocross Meltdown | 343969 | [343969-motocross-meltdown.json](./343969-motocross-meltdown.json) |
 | Motocross Mini Outrun | 255034 | [255034-motocross-mini-outrun.json](./255034-motocross-mini-outrun.json) |
 | Motocross Racer | 23841 | [23841-motocross-racer.json](./23841-motocross-racer.json) |
@@ -12882,6 +12887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Husband is a Stranger | 352144 | [352144-my-husband-is-a-stranger.json](./352144-my-husband-is-a-stranger.json) |
 | My Ice Cream Maker | 408069 | [408069-my-ice-cream-maker.json](./408069-my-ice-cream-maker.json) |
 | My Idle Witch | 395589 | [395589-my-idle-witch.json](./395589-my-idle-witch.json) |
+| My Illegal Cafe | 245749 | [245749-my-illegal-cafe.json](./245749-my-illegal-cafe.json) |
 | My Immortal Sect is Very Powerful | 309673 | [309673-my-immortal-sect-is-very-powerful.json](./309673-my-immortal-sect-is-very-powerful.json) |
 | My Incubi Harem | 235348 | [235348-my-incubi-harem.json](./235348-my-incubi-harem.json) |
 | My Infamous Dungeon | 365537 | [365537-my-infamous-dungeon.json](./365537-my-infamous-dungeon.json) |
