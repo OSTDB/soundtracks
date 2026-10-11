@@ -3143,6 +3143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Like a Dragon: Infinite Wealth - Ultimate Edition | 284866 | [284866-like-a-dragon-infinite-wealth-ultimate-edition.json](./284866-like-a-dragon-infinite-wealth-ultimate-edition.json) |
 | Like a Dragon: Infinite Wealth - Yakuza CD Collection Set | 288218 | [288218-like-a-dragon-infinite-wealth-yakuza-cd-collection-set.json](./288218-like-a-dragon-infinite-wealth-yakuza-cd-collection-set.json) |
 | Like a Dragon: Ishin! - Gun Upgrade Materials Kit | 239215 | [239215-like-a-dragon-ishin-gun-upgrade-materials-kit.json](./239215-like-a-dragon-ishin-gun-upgrade-materials-kit.json) |
+| Like a Dragon: Ishin! - Ryoma Growth Support | 247390 | [247390-like-a-dragon-ishin-ryoma-growth-support.json](./247390-like-a-dragon-ishin-ryoma-growth-support.json) |
 | Like a Dragon: Ishin! - Shinsengumi Captain's Set | 239212 | [239212-like-a-dragon-ishin-shinsengumi-captains-set.json](./239212-like-a-dragon-ishin-shinsengumi-captains-set.json) |
 | Like a Dragon: Ishin! - Sword Upgrade Materials Kit | 239214 | [239214-like-a-dragon-ishin-sword-upgrade-materials-kit.json](./239214-like-a-dragon-ishin-sword-upgrade-materials-kit.json) |
 | Like a Dragon: Ishin! - Third Division Armament Expansion Kit | 239213 | [239213-like-a-dragon-ishin-third-division-armament-expansion-kit.json](./239213-like-a-dragon-ishin-third-division-armament-expansion-kit.json) |
@@ -3500,6 +3501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lion | 9565 | [9565-lion.json](./9565-lion.json) |
 | Lion Bubble Tosser: The Queen of the Safari | 259078 | [259078-lion-bubble-tosser-the-queen-of-the-safari.json](./259078-lion-bubble-tosser-the-queen-of-the-safari.json) |
 | Lion Heart Soushuu-hen | 207202 | [207202-lion-heart-soushuu-hen.json](./207202-lion-heart-soushuu-hen.json) |
+| Lion King 3 | 247408 | [247408-lion-king-3.json](./247408-lion-king-3.json) |
 | Lion Pig: Frozen Run | 259238 | [259238-lion-pig-frozen-run.json](./259238-lion-pig-frozen-run.json) |
 | Lion Quest Infinity | 157519 | [157519-lion-quest-infinity.json](./157519-lion-quest-infinity.json) |
 | Lion Tamer | 346061 | [346061-lion-tamer.json](./346061-lion-tamer.json) |
