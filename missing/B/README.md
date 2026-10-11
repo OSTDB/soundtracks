@@ -1380,6 +1380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Banzai Dice | 232367 | [232367-banzai-dice.json](./232367-banzai-dice.json) |
 | Banzai Escape 2 | 129645 | [129645-banzai-escape-2.json](./129645-banzai-escape-2.json) |
 | Banzai Escape 2: Subterranean - KTactical | 297781 | [297781-banzai-escape-2-subterranean-ktactical.json](./297781-banzai-escape-2-subterranean-ktactical.json) |
+| Banzai Escape 2: Subterranean - Tesla Technology | 275517 | [275517-banzai-escape-2-subterranean-tesla-technology.json](./275517-banzai-escape-2-subterranean-tesla-technology.json) |
 | Banzai Hentai! | 368516 | [368516-banzai-hentai.json](./368516-banzai-hentai.json) |
 | Banzai Mario World | 132855 | [132855-banzai-mario-world.json](./132855-banzai-mario-world.json) |
 | Banzai Pecan: The Last Hope For the Young Century | 35947 | [35947-banzai-pecan-the-last-hope-for-the-young-century.json](./35947-banzai-pecan-the-last-hope-for-the-young-century.json) |
@@ -8873,6 +8874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brain on Physics Boxs Puzzles | 86990 | [86990-brain-on-physics-boxs-puzzles.json](./86990-brain-on-physics-boxs-puzzles.json) |
 | Brain On: Can You Pass It? | 224089 | [224089-brain-on-can-you-pass-it.json](./224089-brain-on-can-you-pass-it.json) |
 | Brain Out: Can You Pass It? | 312644 | [312644-brain-out-can-you-pass-it.json](./312644-brain-out-can-you-pass-it.json) |
+| Brain Overload: Calculate | 275519 | [275519-brain-overload-calculate.json](./275519-brain-overload-calculate.json) |
 | Brain Party | 70629 | [70629-brain-party.json](./70629-brain-party.json) |
 | Brain Pump | 116155 | [116155-brain-pump.json](./116155-brain-pump.json) |
 | Brain Puzzle | 90203 | [90203-brain-puzzle.json](./90203-brain-puzzle.json) |
@@ -9653,6 +9655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bring Honey Home | 150635 | [150635-bring-honey-home.json](./150635-bring-honey-home.json) |
 | Bring me a man, Santa | 159727 | [159727-bring-me-a-man-santa.json](./159727-bring-me-a-man-santa.json) |
 | Bring Me Down | 241350 | [241350-bring-me-down.json](./241350-bring-me-down.json) |
+| Bring Me that Shawarma | 275524 | [275524-bring-me-that-shawarma.json](./275524-bring-me-that-shawarma.json) |
 | Bring Me that Shawarma: Supporter Pack | 316385 | [316385-bring-me-that-shawarma-supporter-pack.json](./316385-bring-me-that-shawarma-supporter-pack.json) |
 | Bring Me... | 317318 | [317318-bring-me.json](./317318-bring-me.json) |
 | Bring the Book Back | 338330 | [338330-bring-the-book-back.json](./338330-bring-the-book-back.json) |
@@ -10825,6 +10828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burglar Hunt | 310541 | [310541-burglar-hunt.json](./310541-burglar-hunt.json) |
 | Burglar Inc | 290923 | [290923-burglar-inc.json](./290923-burglar-inc.json) |
 | Burglar X | 40982 | [40982-burglar-x.json](./40982-burglar-x.json) |
+| Burglar's Bazaar | 275516 | [275516-burglars-bazaar.json](./275516-burglars-bazaar.json) |
 | Burgle Bros | 75825 | [75825-burgle-bros.json](./75825-burgle-bros.json) |
 | Burgle Supply Company | 372804 | [372804-burgle-supply-company.json](./372804-burgle-supply-company.json) |
 | Burial Ground | 375554 | [375554-burial-ground.json](./375554-burial-ground.json) |
