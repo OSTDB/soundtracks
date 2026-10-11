@@ -433,6 +433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairy Boyfriend | 298882 | [298882-fairy-boyfriend.json](./298882-fairy-boyfriend.json) |
 | Fairy Bubble | 172100 | [172100-fairy-bubble.json](./172100-fairy-bubble.json) |
 | Fairy Carrots | 276838 | [276838-fairy-carrots.json](./276838-fairy-carrots.json) |
+| Fairy Comedy: A Love Hard To Find | 275527 | [275527-fairy-comedy-a-love-hard-to-find.json](./275527-fairy-comedy-a-love-hard-to-find.json) |
 | Fairy Elements | 214643 | [214643-fairy-elements.json](./214643-fairy-elements.json) |
 | Fairy Escape | 99632 | [99632-fairy-escape.json](./99632-fairy-escape.json) |
 | Fairy Fencer F: Advent Dark Force - Deluxe Edition | 186883 | [186883-fairy-fencer-f-advent-dark-force-deluxe-edition.json](./186883-fairy-fencer-f-advent-dark-force-deluxe-edition.json) |
@@ -805,6 +806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Falling Down XR | 269013 | [269013-falling-down-xr.json](./269013-falling-down-xr.json) |
 | Falling Duke Nukem | 369758 | [369758-falling-duke-nukem.json](./369758-falling-duke-nukem.json) |
 | Falling Flower | 340055 | [340055-falling-flower.json](./340055-falling-flower.json) |
+| Falling for Beans | 275539 | [275539-falling-for-beans.json](./275539-falling-for-beans.json) |
 | Falling for Yaoguais | 333569 | [333569-falling-for-yaoguais.json](./333569-falling-for-yaoguais.json) |
 | Falling From the Rabbit Hole | 228348 | [228348-falling-from-the-rabbit-hole.json](./228348-falling-from-the-rabbit-hole.json) |
 | Falling Frontier | 132621 | [132621-falling-frontier.json](./132621-falling-frontier.json) |
@@ -3809,6 +3811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fireplace | 68630 | [68630-fireplace.json](./68630-fireplace.json) |
 | Fireplace Simulator | 337615 | [337615-fireplace-simulator.json](./337615-fireplace-simulator.json) |
 | Firepower 2000 | 19778 | [19778-firepower-2000.json](./19778-firepower-2000.json) |
+| Firepower Forge | 275546 | [275546-firepower-forge.json](./275546-firepower-forge.json) |
 | FireRun | 255250 | [255250-firerun.json](./255250-firerun.json) |
 | Fires At Midnight | 133350 | [133350-fires-at-midnight.json](./133350-fires-at-midnight.json) |
 | Firescape | 342731 | [342731-firescape.json](./342731-firescape.json) |
