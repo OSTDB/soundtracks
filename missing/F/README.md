@@ -1266,6 +1266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Jigsaw Puzzles | 231992 | [231992-fantasy-jigsaw-puzzles.json](./231992-fantasy-jigsaw-puzzles.json) |
 | Fantasy Jigsaw Puzzles: Dragons | 236825 | [236825-fantasy-jigsaw-puzzles-dragons.json](./236825-fantasy-jigsaw-puzzles-dragons.json) |
 | Fantasy Jigsaw Puzzles: Dwarves | 235467 | [235467-fantasy-jigsaw-puzzles-dwarves.json](./235467-fantasy-jigsaw-puzzles-dwarves.json) |
+| Fantasy Jigsaw Puzzles: High Seas | 244172 | [244172-fantasy-jigsaw-puzzles-high-seas.json](./244172-fantasy-jigsaw-puzzles-high-seas.json) |
 | Fantasy Jigsaw Puzzles: Lost Empires | 296423 | [296423-fantasy-jigsaw-puzzles-lost-empires.json](./296423-fantasy-jigsaw-puzzles-lost-empires.json) |
 | Fantasy Jigsaw Puzzles: Magic | 231869 | [231869-fantasy-jigsaw-puzzles-magic.json](./231869-fantasy-jigsaw-puzzles-magic.json) |
 | Fantasy Jigsaw Puzzles: Northlands | 234341 | [234341-fantasy-jigsaw-puzzles-northlands.json](./234341-fantasy-jigsaw-puzzles-northlands.json) |
@@ -1534,6 +1535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farland Story FX | 45953 | [45953-farland-story-fx.json](./45953-farland-story-fx.json) |
 | Farland Story: Daichi no Kizuna | 70455 | [70455-farland-story-daichi-no-kizuna.json](./70455-farland-story-daichi-no-kizuna.json) |
 | Farlands Journey | 301337 | [301337-farlands-journey.json](./301337-farlands-journey.json) |
+| Farlands: First Landing | 244124 | [244124-farlands-first-landing.json](./244124-farlands-first-landing.json) |
 | Farlands: Tiny Harvest | 378287 | [378287-farlands-tiny-harvest.json](./378287-farlands-tiny-harvest.json) |
 | Farlight 84 | 142862 | [142862-farlight-84.json](./142862-farlight-84.json) |
 | Farlight Explorers | 35681 | [35681-farlight-explorers.json](./35681-farlight-explorers.json) |
@@ -5756,6 +5758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football League Cup: Arcade Soccer Simulator | 319316 | [319316-football-league-cup-arcade-soccer-simulator.json](./319316-football-league-cup-arcade-soccer-simulator.json) |
 | Football Legacy | 394539 | [394539-football-legacy.json](./394539-football-legacy.json) |
 | Football Legend | 59080 | [59080-football-legend.json](./59080-football-legend.json) |
+| Football Legends 2025: Complete Edition | 404277 | [404277-football-legends-2025-complete-edition.json](./404277-football-legends-2025-complete-edition.json) |
 | Football Legends 2025: Diamond Edition | 399818 | [399818-football-legends-2025-diamond-edition.json](./399818-football-legends-2025-diamond-edition.json) |
 | Football Legends 2025: Gold Edition | 396917 | [396917-football-legends-2025-gold-edition.json](./396917-football-legends-2025-gold-edition.json) |
 | Football Life 2023 | 225767 | [225767-football-life-2023.json](./225767-football-life-2023.json) |
