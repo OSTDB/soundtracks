@@ -5071,6 +5071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shift Stack | 181695 | [181695-shift-stack.json](./181695-shift-stack.json) |
 | Shift'n Slay | 319738 | [319738-shiftn-slay.json](./319738-shiftn-slay.json) |
 | Shifted | 238978 | [238978-shifted.json](./238978-shifted.json) |
+| Shifted | 273289 | [273289-shifted.json](./273289-shifted.json) |
 | Shifted Heart | 235987 | [235987-shifted-heart.json](./235987-shifted-heart.json) |
 | Shifted VR | 137439 | [137439-shifted-vr.json](./137439-shifted-vr.json) |
 | Shifters | 43557 | [43557-shifters.json](./43557-shifters.json) |
@@ -11094,6 +11095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic the Hedgehog 2 | 112897 | [112897-sonic-the-hedgehog-2.json](./112897-sonic-the-hedgehog-2.json) |
 | Sonic the Hedgehog 2 | 202256 | [202256-sonic-the-hedgehog-2.json](./202256-sonic-the-hedgehog-2.json) |
 | Sonic the Hedgehog 2 | 239069 | [239069-sonic-the-hedgehog-2.json](./239069-sonic-the-hedgehog-2.json) |
+| Sonic the Hedgehog 2 | 273286 | [273286-sonic-the-hedgehog-2.json](./273286-sonic-the-hedgehog-2.json) |
 | Sonic the Hedgehog 2: Absolute | 198256 | [198256-sonic-the-hedgehog-2-absolute.json](./198256-sonic-the-hedgehog-2-absolute.json) |
 | Sonic The Hedgehog 2: Archives | 332835 | [332835-sonic-the-hedgehog-2-archives.json](./332835-sonic-the-hedgehog-2-archives.json) |
 | Sonic the Hedgehog 2: Frenzy | 393093 | [393093-sonic-the-hedgehog-2-frenzy.json](./393093-sonic-the-hedgehog-2-frenzy.json) |
@@ -12143,6 +12145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Fuss | 31387 | [31387-space-fuss.json](./31387-space-fuss.json) |
 | Space Galaga | 62563 | [62563-space-galaga.json](./62563-space-galaga.json) |
 | Space Game | 312741 | [312741-space-game.json](./312741-space-game.json) |
+| Space Games: Galaxy Attack | 273313 | [273313-space-games-galaxy-attack.json](./273313-space-games-galaxy-attack.json) |
 | Space Garbage | 277600 | [277600-space-garbage.json](./277600-space-garbage.json) |
 | Space Gate Rush | 259565 | [259565-space-gate-rush.json](./259565-space-gate-rush.json) |
 | Space Gears | 241497 | [241497-space-gears.json](./241497-space-gears.json) |
@@ -13608,6 +13611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spin Path 2 | 394554 | [394554-spin-path-2.json](./394554-spin-path-2.json) |
 | Spin Quest: A Slot Adventure | 220670 | [220670-spin-quest-a-slot-adventure.json](./220670-spin-quest-a-slot-adventure.json) |
 | Spin Rhythm XD: Chillhop | 332606 | [332606-spin-rhythm-xd-chillhop.json](./332606-spin-rhythm-xd-chillhop.json) |
+| Spin Rhythm XD: Supporter Pack DLC | 273312 | [273312-spin-rhythm-xd-supporter-pack-dlc.json](./273312-spin-rhythm-xd-supporter-pack-dlc.json) |
 | Spin Royale | 344459 | [344459-spin-royale.json](./344459-spin-royale.json) |
 | Spin Spell | 63556 | [63556-spin-spell.json](./63556-spin-spell.json) |
 | Spin Squared | 174281 | [174281-spin-squared.json](./174281-spin-squared.json) |
@@ -17434,6 +17438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Air Hockey | 175185 | [175185-street-air-hockey.json](./175185-street-air-hockey.json) |
 | Street Artist Simulator | 211270 | [211270-street-artist-simulator.json](./211270-street-artist-simulator.json) |
 | Street Basket Challenge | 236833 | [236833-street-basket-challenge.json](./236833-street-basket-challenge.json) |
+| Street Basketball Club: Sport Throw Simulator | 273314 | [273314-street-basketball-club-sport-throw-simulator.json](./273314-street-basketball-club-sport-throw-simulator.json) |
 | Street Basketball Superstars | 227371 | [227371-street-basketball-superstars.json](./227371-street-basketball-superstars.json) |
 | Street Basketball: Premium Edition | 411839 | [411839-street-basketball-premium-edition.json](./411839-street-basketball-premium-edition.json) |
 | Street Beat | 69836 | [69836-street-beat.json](./69836-street-beat.json) |
