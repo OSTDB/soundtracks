@@ -6566,6 +6566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Micro Mouse Game | 91957 | [91957-micro-mouse-game.json](./91957-micro-mouse-game.json) |
 | Micro Murder: But It's Robots So It's OK | 181238 | [181238-micro-murder-but-its-robots-so-its-ok.json](./181238-micro-murder-but-its-robots-so-its-ok.json) |
 | Micro Ninja | 314647 | [314647-micro-ninja.json](./314647-micro-ninja.json) |
+| Micro Olympics | 261175 | [261175-micro-olympics.json](./261175-micro-olympics.json) |
 | Micro Olympics on Mars | 261456 | [261456-micro-olympics-on-mars.json](./261456-micro-olympics-on-mars.json) |
 | Micro Overdrive: Home Tour | 383068 | [383068-micro-overdrive-home-tour.json](./383068-micro-overdrive-home-tour.json) |
 | Micro Pico Racers | 96665 | [96665-micro-pico-racers.json](./96665-micro-pico-racers.json) |
@@ -9316,6 +9317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Momo's Conflict | 207526 | [207526-momos-conflict.json](./207526-momos-conflict.json) |
 | Momo's Diary | 212780 | [212780-momos-diary.json](./212780-momos-diary.json) |
 | Momochan's Brain is So Crazy! | 388979 | [388979-momochans-brain-is-so-crazy.json](./388979-momochans-brain-is-so-crazy.json) |
+| Momodora 0: Day of Birth | 261191 | [261191-momodora-0-day-of-birth.json](./261191-momodora-0-day-of-birth.json) |
 | Momodora III | 17436 | [17436-momodora-iii.json](./17436-momodora-iii.json) |
 | Momodora: Moonlit Farewell | 188088 | [188088-momodora-moonlit-farewell.json](./188088-momodora-moonlit-farewell.json) |
 | Momoe Link | 183052 | [183052-momoe-link.json](./183052-momoe-link.json) |
@@ -12331,6 +12333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mutual Assured Destruction Simulator | 326389 | [326389-mutual-assured-destruction-simulator.json](./326389-mutual-assured-destruction-simulator.json) |
 | Mutual Place | 252920 | [252920-mutual-place.json](./252920-mutual-place.json) |
 | Mutual Secret | 107386 | [107386-mutual-secret.json](./107386-mutual-secret.json) |
+| Mutus Meteora | 261190 | [261190-mutus-meteora.json](./261190-mutus-meteora.json) |
 | Muumit ja Taikalamppu | 178047 | [178047-muumit-ja-taikalamppu.json](./178047-muumit-ja-taikalamppu.json) |
 | Muv-Luv | 11778 | [11778-muv-luv.json](./11778-muv-luv.json) |
 | Muv-Luv Photonflowers* | 11803 | [11803-muv-luv-photonflowers.json](./11803-muv-luv-photonflowers.json) |
@@ -12478,6 +12481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Cake Shop HD | 104607 | [104607-my-cake-shop-hd.json](./104607-my-cake-shop-hd.json) |
 | My Caligula | 323241 | [323241-my-caligula.json](./323241-my-caligula.json) |
 | My Camp of Memories | 348388 | [348388-my-camp-of-memories.json](./348388-my-camp-of-memories.json) |
+| My Camp of Memories: Episode 1 | 261157 | [261157-my-camp-of-memories-episode-1.json](./261157-my-camp-of-memories-episode-1.json) |
 | My Candy Love | 58621 | [58621-my-candy-love.json](./58621-my-candy-love.json) |
 | My Candy Love: High School Life | 186654 | [186654-my-candy-love-high-school-life.json](./186654-my-candy-love-high-school-life.json) |
 | My Candy Love: New Gen | 227973 | [227973-my-candy-love-new-gen.json](./227973-my-candy-love-new-gen.json) |
@@ -12792,6 +12796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My House and I Got Transported To Another World | 278147 | [278147-my-house-and-i-got-transported-to-another-world.json](./278147-my-house-and-i-got-transported-to-another-world.json) |
 | My House is Haunted | 219656 | [219656-my-house-is-haunted.json](./219656-my-house-is-haunted.json) |
 | My Housetopia | 373874 | [373874-my-housetopia.json](./373874-my-housetopia.json) |
+| My Hunting Adventure Time | 261156 | [261156-my-hunting-adventure-time.json](./261156-my-hunting-adventure-time.json) |
 | My Husband is a Stranger | 352144 | [352144-my-husband-is-a-stranger.json](./352144-my-husband-is-a-stranger.json) |
 | My Ice Cream Maker | 408069 | [408069-my-ice-cream-maker.json](./408069-my-ice-cream-maker.json) |
 | My Idle Witch | 395589 | [395589-my-idle-witch.json](./395589-my-idle-witch.json) |
