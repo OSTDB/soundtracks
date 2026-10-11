@@ -1561,6 +1561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farm Frenzy: Forever and Ever! | 201279 | [201279-farm-frenzy-forever-and-ever.json](./201279-farm-frenzy-forever-and-ever.json) |
 | Farm Frenzy: Heave Ho | 34629 | [34629-farm-frenzy-heave-ho.json](./34629-farm-frenzy-heave-ho.json) |
 | Farm Frenzy: Viking Heroes | 53057 | [53057-farm-frenzy-viking-heroes.json](./53057-farm-frenzy-viking-heroes.json) |
+| Farm Garden Simulator | 263963 | [263963-farm-garden-simulator.json](./263963-farm-garden-simulator.json) |
 | Farm Girl am Nil | 85883 | [85883-farm-girl-am-nil.json](./85883-farm-girl-am-nil.json) |
 | Farm Heroes Super Saga | 101079 | [101079-farm-heroes-super-saga.json](./101079-farm-heroes-super-saga.json) |
 | Farm Idle Game | 371738 | [371738-farm-idle-game.json](./371738-farm-idle-game.json) |
