@@ -997,6 +997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Family Farm Seaside | 104104 | [104104-family-farm-seaside.json](./104104-family-farm-seaside.json) |
 | Family Fest Presents Movie Games | 70671 | [70671-family-fest-presents-movie-games.json](./70671-family-fest-presents-movie-games.json) |
 | Family Feud | 159244 | [159244-family-feud.json](./159244-family-feud.json) |
+| Family Feud | 257844 | [257844-family-feud.json](./257844-family-feud.json) |
 | Family Feud | 320767 | [320767-family-feud.json](./320767-family-feud.json) |
 | Family Feud | 37112 | [37112-family-feud.json](./37112-family-feud.json) |
 | Family Feud & Friends | 86099 | [86099-family-feud-and-friends.json](./86099-family-feud-and-friends.json) |
@@ -1021,6 +1022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Family Guy Pinball | 81362 | [81362-family-guy-pinball.json](./81362-family-guy-pinball.json) |
 | Family Guy: Back to the Multiverse | 264870 | [264870-family-guy-back-to-the-multiverse.json](./264870-family-guy-back-to-the-multiverse.json) |
 | Family Guy: Back to the Multiverse | 264871 | [264871-family-guy-back-to-the-multiverse.json](./264871-family-guy-back-to-the-multiverse.json) |
+| Family Guy: Stewie 2.0 | 257843 | [257843-family-guy-stewie-2-0.json](./257843-family-guy-stewie-2-0.json) |
 | Family Guy: The Quest for Stuff | 38908 | [38908-family-guy-the-quest-for-stuff.json](./38908-family-guy-the-quest-for-stuff.json) |
 | Family Guy: Time Warped | 66114 | [66114-family-guy-time-warped.json](./66114-family-guy-time-warped.json) |
 | Family Igo: Super Strong | 83472 | [83472-family-igo-super-strong.json](./83472-family-igo-super-strong.json) |
@@ -2678,6 +2680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fierce Tales: The Dog's Heart | 139777 | [139777-fierce-tales-the-dogs-heart.json](./139777-fierce-tales-the-dogs-heart.json) |
 | Fierce Tales: The Dog's Heart - Collector's Edition | 22135 | [22135-fierce-tales-the-dogs-heart-collectors-edition.json](./22135-fierce-tales-the-dogs-heart-collectors-edition.json) |
 | Fierce Tide | 188405 | [188405-fierce-tide.json](./188405-fierce-tide.json) |
+| Fiery Arrow | 257876 | [257876-fiery-arrow.json](./257876-fiery-arrow.json) |
 | Fiery Melody | 180094 | [180094-fiery-melody.json](./180094-fiery-melody.json) |
 | Fiesta | 51217 | [51217-fiesta.json](./51217-fiesta.json) |
 | Fiete Match | 175273 | [175273-fiete-match.json](./175273-fiete-match.json) |
@@ -5123,6 +5126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Floret Bond | 178035 | [178035-floret-bond.json](./178035-floret-bond.json) |
 | Floria | 328417 | [328417-floria.json](./328417-floria.json) |
 | Floribella | 187868 | [187868-floribella.json](./187868-floribella.json) |
+| Florida Love Stories | 257847 | [257847-florida-love-stories.json](./257847-florida-love-stories.json) |
 | Florida Man: Hurricane Hijinks | 153377 | [153377-florida-man-hurricane-hijinks.json](./153377-florida-man-hurricane-hijinks.json) |
 | Florida Road Trip | 179985 | [179985-florida-road-trip.json](./179985-florida-road-trip.json) |
 | Florida Simulator 1986 | 158545 | [158545-florida-simulator-1986.json](./158545-florida-simulator-1986.json) |
