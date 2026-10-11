@@ -1103,6 +1103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fanciful Diamonds | 359398 | [359398-fanciful-diamonds.json](./359398-fanciful-diamonds.json) |
 | Fancy | 247033 | [247033-fancy.json](./247033-fancy.json) |
 | Fancy Birds | 222207 | [222207-fancy-birds.json](./222207-fancy-birds.json) |
+| Fancy Cakes: Merge Adventure | 240108 | [240108-fancy-cakes-merge-adventure.json](./240108-fancy-cakes-merge-adventure.json) |
 | Fancy Island | 172735 | [172735-fancy-island.json](./172735-fancy-island.json) |
 | Fancy Match | 246545 | [246545-fancy-match.json](./246545-fancy-match.json) |
 | Fancy Nancy: Tea Party Time! | 66370 | [66370-fancy-nancy-tea-party-time.json](./66370-fancy-nancy-tea-party-time.json) |
@@ -1119,6 +1120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fāngkuài Liánméng | 114161 | [114161-fangkuai-lianmeng.json](./114161-fangkuai-lianmeng.json) |
 | Fangs | 172477 | [172477-fangs.json](./172477-fangs.json) |
 | Fangs and Friends | 176436 | [176436-fangs-and-friends.json](./176436-fangs-and-friends.json) |
+| Fangs Out 2 | 240257 | [240257-fangs-out-2.json](./240257-fangs-out-2.json) |
 | Fangs: The Saga of Wolf Blood | 221965 | [221965-fangs-the-saga-of-wolf-blood.json](./221965-fangs-the-saga-of-wolf-blood.json) |
 | Fangtopia | 349380 | [349380-fangtopia.json](./349380-fangtopia.json) |
 | Fangun | 243570 | [243570-fangun.json](./243570-fangun.json) |
@@ -7554,6 +7556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frisbros | 163871 | [163871-frisbros.json](./163871-frisbros.json) |
 | Frisia: Tales & Tides | 280303 | [280303-frisia-tales-and-tides.json](./280303-frisia-tales-and-tides.json) |
 | Frisky Business | 27986 | [27986-frisky-business.json](./27986-frisky-business.json) |
+| Frisky Tom | 240117 | [240117-frisky-tom.json](./240117-frisky-tom.json) |
 | Frisky Tom | 282833 | [282833-frisky-tom.json](./282833-frisky-tom.json) |
 | Frisson | 197226 | [197226-frisson.json](./197226-frisson.json) |
 | Frisson | 288793 | [288793-frisson.json](./288793-frisson.json) |
@@ -8576,6 +8579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furry Sex: Poker | 212192 | [212192-furry-sex-poker.json](./212192-furry-sex-poker.json) |
 | Furry Sexy Girls | 375951 | [375951-furry-sexy-girls.json](./375951-furry-sexy-girls.json) |
 | Furry Shades of Gay | 165025 | [165025-furry-shades-of-gay.json](./165025-furry-shades-of-gay.json) |
+| Furry Shakespeare: Dashing Dinosaurs & Sexy Centaurs | 240137 | [240137-furry-shakespeare-dashing-dinosaurs-and-sexy-centaurs.json](./240137-furry-shakespeare-dashing-dinosaurs-and-sexy-centaurs.json) |
 | Furry Shakespeare: Emperor Penguin Lear | 133180 | [133180-furry-shakespeare-emperor-penguin-lear.json](./133180-furry-shakespeare-emperor-penguin-lear.json) |
 | Furry Shakespeare: Love's Lizards Lost | 128973 | [128973-furry-shakespeare-loves-lizards-lost.json](./128973-furry-shakespeare-loves-lizards-lost.json) |
 | Furry Shakespeare: Oops! All Dragons! | 152805 | [152805-furry-shakespeare-oops-all-dragons.json](./152805-furry-shakespeare-oops-all-dragons.json) |
