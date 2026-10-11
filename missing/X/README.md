@@ -66,6 +66,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | X-Men | 81251 | [81251-x-men.json](./81251-x-men.json) |
 | X-Men 2: Battle | 343821 | [343821-x-men-2-battle.json](./343821-x-men-2-battle.json) |
 | X-Men Cartoon Maker | 130739 | [130739-x-men-cartoon-maker.json](./130739-x-men-cartoon-maker.json) |
+| X-Men Legends | 242996 | [242996-x-men-legends.json](./242996-x-men-legends.json) |
 | X-Men Legends II: Rise of Apocalypse | 245310 | [245310-x-men-legends-ii-rise-of-apocalypse.json](./245310-x-men-legends-ii-rise-of-apocalypse.json) |
 | X-Men Legends II: Rise of Apocalypse | 44495 | [44495-x-men-legends-ii-rise-of-apocalypse.json](./44495-x-men-legends-ii-rise-of-apocalypse.json) |
 | X-Men Origins: Wolverine | 209931 | [209931-x-men-origins-wolverine.json](./209931-x-men-origins-wolverine.json) |
@@ -380,6 +381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xenoage Plus | 145605 | [145605-xenoage-plus.json](./145605-xenoage-plus.json) |
 | Xenoage: Knight of the Rihas | 145575 | [145575-xenoage-knight-of-the-rihas.json](./145575-xenoage-knight-of-the-rihas.json) |
 | Xenoblade Chronicles 2 | 26766 | [26766-xenoblade-chronicles-2.json](./26766-xenoblade-chronicles-2.json) |
+| Xenoblade Chronicles 2: Nintendo Switch 2 Edition | 405447 | [405447-xenoblade-chronicles-2-nintendo-switch-2-edition.json](./405447-xenoblade-chronicles-2-nintendo-switch-2-edition.json) |
 | Xenoblade Chronicles 3 | 191411 | [191411-xenoblade-chronicles-3.json](./191411-xenoblade-chronicles-3.json) |
 | Xenoblade Chronicles 3: Future Redeemed | 236669 | [236669-xenoblade-chronicles-3-future-redeemed.json](./236669-xenoblade-chronicles-3-future-redeemed.json) |
 | Xenoblade Chronicles 3: Nintendo Switch 2 Edition | 405448 | [405448-xenoblade-chronicles-3-nintendo-switch-2-edition.json](./405448-xenoblade-chronicles-3-nintendo-switch-2-edition.json) |
