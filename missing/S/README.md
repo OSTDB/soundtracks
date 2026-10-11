@@ -11662,6 +11662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Tolerance | 211757 | [211757-soul-tolerance.json](./211757-soul-tolerance.json) |
 | Soul Unleashed | 213335 | [213335-soul-unleashed.json](./213335-soul-unleashed.json) |
 | Soul Void Redux | 312222 | [312222-soul-void-redux.json](./312222-soul-void-redux.json) |
+| Soul War | 262889 | [262889-soul-war.json](./262889-soul-war.json) |
 | Soul Warden Professional Academy | 288829 | [288829-soul-warden-professional-academy.json](./288829-soul-warden-professional-academy.json) |
 | Soul Warrior Battle | 231432 | [231432-soul-warrior-battle.json](./231432-soul-warrior-battle.json) |
 | Soul Wars | 112228 | [112228-soul-wars.json](./112228-soul-wars.json) |
@@ -15639,6 +15640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starfighter Renegade | 149226 | [149226-starfighter-renegade.json](./149226-starfighter-renegade.json) |
 | Starfighter: Eclipse | 142958 | [142958-starfighter-eclipse.json](./142958-starfighter-eclipse.json) |
 | Starfinder: Afterlight | 358807 | [358807-starfinder-afterlight.json](./358807-starfinder-afterlight.json) |
+| Starfire Skies | 262868 | [262868-starfire-skies.json](./262868-starfire-skies.json) |
 | Starfleet Encounter | 13763 | [13763-starfleet-encounter.json](./13763-starfleet-encounter.json) |
 | Starflight 1+2 | 154450 | [154450-starflight-1-2.json](./154450-starflight-1-2.json) |
 | Starflight II: Trade Routes of the Cloud Nebula | 12777 | [12777-starflight-ii-trade-routes-of-the-cloud-nebula.json](./12777-starflight-ii-trade-routes-of-the-cloud-nebula.json) |
@@ -20467,6 +20469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Ranger | 377710 | [377710-super-ranger.json](./377710-super-ranger.json) |
 | Super Rare Mixtape: Horror Edition | 272829 | [272829-super-rare-mixtape-horror-edition.json](./272829-super-rare-mixtape-horror-edition.json) |
 | Super Real AI | 399844 | [399844-super-real-ai.json](./399844-super-real-ai.json) |
+| Super Real Basketball | 262867 | [262867-super-real-basketball.json](./262867-super-real-basketball.json) |
 | Super Real Fishing | 282663 | [282663-super-real-fishing.json](./282663-super-real-fishing.json) |
 | Super Real Hanafuda: Koi Koi Shimasho | 130299 | [130299-super-real-hanafuda-koi-koi-shimasho.json](./130299-super-real-hanafuda-koi-koi-shimasho.json) |
 | Super Real Mahjong | 75408 | [75408-super-real-mahjong.json](./75408-super-real-mahjong.json) |
