@@ -314,13 +314,20 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madden Football | 131420 | [131420-madden-football.json](./131420-madden-football.json) |
 | Madden genesis | 178024 | [178024-madden-genesis.json](./178024-madden-genesis.json) |
 | Madden NFL '95 | 282501 | [282501-madden-nfl-95.json](./282501-madden-nfl-95.json) |
+| Madden NFL 06 | 243004 | [243004-madden-nfl-06.json](./243004-madden-nfl-06.json) |
+| Madden NFL 06 | 243005 | [243005-madden-nfl-06.json](./243005-madden-nfl-06.json) |
+| Madden NFL 06 | 243006 | [243006-madden-nfl-06.json](./243006-madden-nfl-06.json) |
 | Madden NFL 06 | 5906 | [5906-madden-nfl-06.json](./5906-madden-nfl-06.json) |
+| Madden NFL 07 | 243008 | [243008-madden-nfl-07.json](./243008-madden-nfl-07.json) |
+| Madden NFL 07 | 243009 | [243009-madden-nfl-07.json](./243009-madden-nfl-07.json) |
+| Madden NFL 07 | 243010 | [243010-madden-nfl-07.json](./243010-madden-nfl-07.json) |
 | Madden NFL 07 | 243011 | [243011-madden-nfl-07.json](./243011-madden-nfl-07.json) |
 | Madden NFL 07 | 4983 | [4983-madden-nfl-07.json](./4983-madden-nfl-07.json) |
 | Madden NFL 07: Hall of Fame Edition | 23795 | [23795-madden-nfl-07-hall-of-fame-edition.json](./23795-madden-nfl-07-hall-of-fame-edition.json) |
 | Madden NFL 08 | 229188 | [229188-madden-nfl-08.json](./229188-madden-nfl-08.json) |
 | Madden NFL 08 | 229190 | [229190-madden-nfl-08.json](./229190-madden-nfl-08.json) |
 | Madden NFL 08 | 229191 | [229191-madden-nfl-08.json](./229191-madden-nfl-08.json) |
+| Madden NFL 08 | 243014 | [243014-madden-nfl-08.json](./243014-madden-nfl-08.json) |
 | Madden NFL 09 | 229195 | [229195-madden-nfl-09.json](./229195-madden-nfl-09.json) |
 | Madden NFL 09 | 229197 | [229197-madden-nfl-09.json](./229197-madden-nfl-09.json) |
 | Madden NFL 09 | 229198 | [229198-madden-nfl-09.json](./229198-madden-nfl-09.json) |
@@ -359,6 +366,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madden NFL 2001 | 243263 | [243263-madden-nfl-2001.json](./243263-madden-nfl-2001.json) |
 | Madden NFL 2001 | 3538 | [3538-madden-nfl-2001.json](./3538-madden-nfl-2001.json) |
 | Madden NFL 2001 | 44887 | [44887-madden-nfl-2001.json](./44887-madden-nfl-2001.json) |
+| Madden NFL 2002 | 242999 | [242999-madden-nfl-2002.json](./242999-madden-nfl-2002.json) |
+| Madden NFL 2002 | 243000 | [243000-madden-nfl-2002.json](./243000-madden-nfl-2002.json) |
+| Madden NFL 2002 | 243001 | [243001-madden-nfl-2002.json](./243001-madden-nfl-2002.json) |
 | Madden NFL 2002 | 3539 | [3539-madden-nfl-2002.json](./3539-madden-nfl-2002.json) |
 | Madden NFL 2003 | 243290 | [243290-madden-nfl-2003.json](./243290-madden-nfl-2003.json) |
 | Madden NFL 2003 | 243291 | [243291-madden-nfl-2003.json](./243291-madden-nfl-2003.json) |
@@ -11564,6 +11574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr Ninja | 208060 | [208060-mr-ninja.json](./208060-mr-ninja.json) |
 | Mr Octopus | 234003 | [234003-mr-octopus.json](./234003-mr-octopus.json) |
 | Mr Rabbit's Alphabet Forest Adventure | 44168 | [44168-mr-rabbits-alphabet-forest-adventure.json](./44168-mr-rabbits-alphabet-forest-adventure.json) |
+| Mr Rabbit's Cambridge: Point and Click Adventure | 242973 | [242973-mr-rabbits-cambridge-point-and-click-adventure.json](./242973-mr-rabbits-cambridge-point-and-click-adventure.json) |
 | MR Racer | 343459 | [343459-mr-racer.json](./343459-mr-racer.json) |
 | MR Racer Stunt Mania | 349888 | [349888-mr-racer-stunt-mania.json](./349888-mr-racer-stunt-mania.json) |
 | Mr Right Simulator | 348795 | [348795-mr-right-simulator.json](./348795-mr-right-simulator.json) |
