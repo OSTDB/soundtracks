@@ -4299,6 +4299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Book of Prosperity | 404356 | [404356-the-book-of-prosperity.json](./404356-the-book-of-prosperity.json) |
 | The Book of the Dead | 273287 | [273287-the-book-of-the-dead.json](./273287-the-book-of-the-dead.json) |
 | The Book of Three | 79561 | [79561-the-book-of-three.json](./79561-the-book-of-three.json) |
+| The Book of Warriors | 250259 | [250259-the-book-of-warriors.json](./250259-the-book-of-warriors.json) |
 | The Book of Weapons | 197360 | [197360-the-book-of-weapons.json](./197360-the-book-of-weapons.json) |
 | The Book of Yorle: Save the Countryside | 174154 | [174154-the-book-of-yorle-save-the-countryside.json](./174154-the-book-of-yorle-save-the-countryside.json) |
 | The Book of Yorle: Save the Village | 169964 | [169964-the-book-of-yorle-save-the-village.json](./169964-the-book-of-yorle-save-the-village.json) |
@@ -15552,6 +15553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokyo Necro | 60484 | [60484-tokyo-necro.json](./60484-tokyo-necro.json) |
 | Tokyo Ogre Gate | 84488 | [84488-tokyo-ogre-gate.json](./84488-tokyo-ogre-gate.json) |
 | Tokyo Pachi-Slot Adventure | 48877 | [48877-tokyo-pachi-slot-adventure.json](./48877-tokyo-pachi-slot-adventure.json) |
+| Tokyo Pinball | 250264 | [250264-tokyo-pinball.json](./250264-tokyo-pinball.json) |
 | Tokyo Revengers Pazuribe! | 254572 | [254572-tokyo-revengers-pazuribe.json](./254572-tokyo-revengers-pazuribe.json) |
 | Tokyo Revengers: Last Mission | 321649 | [321649-tokyo-revengers-last-mission.json](./321649-tokyo-revengers-last-mission.json) |
 | Tokyo Road Race | 43303 | [43303-tokyo-road-race.json](./43303-tokyo-road-race.json) |
@@ -17366,6 +17368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toybox Tussle | 383076 | [383076-toybox-tussle.json](./383076-toybox-tussle.json) |
 | ToyBoxers! | 403180 | [403180-toyboxers.json](./403180-toyboxers.json) |
 | ToyCamp | 384507 | [384507-toycamp.json](./384507-toycamp.json) |
+| Toyforming | 250273 | [250273-toyforming.json](./250273-toyforming.json) |
 | Toyful Wonderworld | 292453 | [292453-toyful-wonderworld.json](./292453-toyful-wonderworld.json) |
 | Toyland Racing | 73764 | [73764-toyland-racing.json](./73764-toyland-racing.json) |
 | Toyland Tussle | 352375 | [352375-toyland-tussle.json](./352375-toyland-tussle.json) |
