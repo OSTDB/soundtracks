@@ -900,6 +900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Deception: Chapter 2 | 168826 | [168826-dark-deception-chapter-2.json](./168826-dark-deception-chapter-2.json) |
 | Dark Deception: Chapter 3 | 168827 | [168827-dark-deception-chapter-3.json](./168827-dark-deception-chapter-3.json) |
 | Dark Deception: Chapter 4 | 168829 | [168829-dark-deception-chapter-4.json](./168829-dark-deception-chapter-4.json) |
+| Dark Deception: Chapter 5 | 258364 | [258364-dark-deception-chapter-5.json](./258364-dark-deception-chapter-5.json) |
 | Dark Deception: Complete Edition | 169206 | [169206-dark-deception-complete-edition.json](./169206-dark-deception-complete-edition.json) |
 | Dark Deception: Monsters & Mortals - House of Ashes | 292864 | [292864-dark-deception-monsters-and-mortals-house-of-ashes.json](./292864-dark-deception-monsters-and-mortals-house-of-ashes.json) |
 | Dark Deception: Monsters & Mortals - The Coma 2: Vicious Sisters | 292869 | [292869-dark-deception-monsters-and-mortals-the-coma-2-vicious-sisters.json](./292869-dark-deception-monsters-and-mortals-the-coma-2-vicious-sisters.json) |
