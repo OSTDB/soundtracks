@@ -3187,6 +3187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Internity | 295883 | [295883-internity.json](./295883-internity.json) |
 | Interns of Ecstasy Island | 217847 | [217847-interns-of-ecstasy-island.json](./217847-interns-of-ecstasy-island.json) |
 | Internship Adventure | 179526 | [179526-internship-adventure.json](./179526-internship-adventure.json) |
+| Internull | 247942 | [247942-internull.json](./247942-internull.json) |
 | Interphase | 129210 | [129210-interphase.json](./129210-interphase.json) |
 | Interplanet Ex | 178982 | [178982-interplanet-ex.json](./178982-interplanet-ex.json) |
 | Interplanetary Gardener | 151290 | [151290-interplanetary-gardener.json](./151290-interplanetary-gardener.json) |
