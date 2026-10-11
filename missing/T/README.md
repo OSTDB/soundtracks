@@ -4973,6 +4973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Curator | 386474 | [386474-the-curator.json](./386474-the-curator.json) |
 | The Cure | 171376 | [171376-the-cure.json](./171376-the-cure.json) |
 | The Cure | 184647 | [184647-the-cure.json](./184647-the-cure.json) |
+| The Cure | 241273 | [241273-the-cure.json](./241273-the-cure.json) |
 | The Cure | 71449 | [71449-the-cure.json](./71449-the-cure.json) |
 | The Curio Society: Eclipse Over Mesina | 19344 | [19344-the-curio-society-eclipse-over-mesina.json](./19344-the-curio-society-eclipse-over-mesina.json) |
 | The Curio Society: New Order HD | 91336 | [91336-the-curio-society-new-order-hd.json](./91336-the-curio-society-new-order-hd.json) |
@@ -6719,6 +6720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hero Business | 180656 | [180656-the-hero-business.json](./180656-the-hero-business.json) |
 | The Hero gives up!... Wait, What!? | 265582 | [265582-the-hero-gives-up-wait-what.json](./265582-the-hero-gives-up-wait-what.json) |
 | The Hero Is Too Powerful so Let's Pleeeease Settle This Peacefully! | 372806 | [372806-the-hero-is-too-powerful-so-lets-pleeeease-settle-this-peacefully.json](./372806-the-hero-is-too-powerful-so-lets-pleeeease-settle-this-peacefully.json) |
+| The Hero Journey in Yggdrasil | 241274 | [241274-the-hero-journey-in-yggdrasil.json](./241274-the-hero-journey-in-yggdrasil.json) |
 | The Hero of Bangaona | 173067 | [173067-the-hero-of-bangaona.json](./173067-the-hero-of-bangaona.json) |
 | The Hero of Destiny Was Killed by the Final Boss | 386940 | [386940-the-hero-of-destiny-was-killed-by-the-final-boss.json](./386940-the-hero-of-destiny-was-killed-by-the-final-boss.json) |
 | The Hero Of Pixel Spire | 370912 | [370912-the-hero-of-pixel-spire.json](./370912-the-hero-of-pixel-spire.json) |
@@ -7904,6 +7906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Legacy | 11317 | [11317-the-legend-of-legacy.json](./11317-the-legend-of-legacy.json) |
 | The Legend of Legacy: HD Remastered | 268421 | [268421-the-legend-of-legacy-hd-remastered.json](./268421-the-legend-of-legacy-hd-remastered.json) |
 | The Legend of Lobodestroyo vs. La Liga de Los Villanos | 79199 | [79199-the-legend-of-lobodestroyo-vs-la-liga-de-los-villanos.json](./79199-the-legend-of-lobodestroyo-vs-la-liga-de-los-villanos.json) |
+| The Legend of Lorosity | 241267 | [241267-the-legend-of-lorosity.json](./241267-the-legend-of-lorosity.json) |
 | The Legend of Lotus Spring | 71044 | [71044-the-legend-of-lotus-spring.json](./71044-the-legend-of-lotus-spring.json) |
 | The Legend of Lumina | 302360 | [302360-the-legend-of-lumina.json](./302360-the-legend-of-lumina.json) |
 | The Legend of Mala Tokmachka | 414149 | [414149-the-legend-of-mala-tokmachka.json](./414149-the-legend-of-mala-tokmachka.json) |
@@ -13267,6 +13270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tidal Tribe | 116582 | [116582-tidal-tribe.json](./116582-tidal-tribe.json) |
 | Tidalis | 10991 | [10991-tidalis.json](./10991-tidalis.json) |
 | Tiddy Bounce | 156061 | [156061-tiddy-bounce.json](./156061-tiddy-bounce.json) |
+| Tide Girl: Phenomena | 241266 | [241266-tide-girl-phenomena.json](./241266-tide-girl-phenomena.json) |
 | Tide of Lone Stars | 412910 | [412910-tide-of-lone-stars.json](./412910-tide-of-lone-stars.json) |
 | Tide of Thieves | 216501 | [216501-tide-of-thieves.json](./216501-tide-of-thieves.json) |
 | Tide Up | 194387 | [194387-tide-up.json](./194387-tide-up.json) |
@@ -16298,6 +16302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tori-Emaki | 206084 | [206084-tori-emaki.json](./206084-tori-emaki.json) |
 | Toricky S | 151650 | [151650-toricky-s.json](./151650-toricky-s.json) |
 | Torico's B-day Gift Hunt | 232968 | [232968-toricos-b-day-gift-hunt.json](./232968-toricos-b-day-gift-hunt.json) |
+| Torico's Mine Quest! | 241265 | [241265-toricos-mine-quest.json](./241265-toricos-mine-quest.json) |
 | Toridama 2: Brave Challenge | 300841 | [300841-toridama-2-brave-challenge.json](./300841-toridama-2-brave-challenge.json) |
 | Toridama: Brave Challenge | 114887 | [114887-toridama-brave-challenge.json](./114887-toridama-brave-challenge.json) |
 | Toride | 37784 | [37784-toride.json](./37784-toride.json) |
