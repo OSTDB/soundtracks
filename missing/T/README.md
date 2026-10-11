@@ -876,6 +876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Popolon | 360137 | [360137-tales-of-popolon.json](./360137-tales-of-popolon.json) |
 | Tales of Rebirth | 1205 | [1205-tales-of-rebirth.json](./1205-tales-of-rebirth.json) |
 | Tales of Rein Ravine | 319551 | [319551-tales-of-rein-ravine.json](./319551-tales-of-rein-ravine.json) |
+| Tales of Seikyu | 245733 | [245733-tales-of-seikyu.json](./245733-tales-of-seikyu.json) |
 | Tales of Shadowland | 185644 | [185644-tales-of-shadowland.json](./185644-tales-of-shadowland.json) |
 | Tales of Sorrow: Strawsbrough Town | 114358 | [114358-tales-of-sorrow-strawsbrough-town.json](./114358-tales-of-sorrow-strawsbrough-town.json) |
 | Tales of Spark | 225103 | [225103-tales-of-spark.json](./225103-tales-of-spark.json) |
@@ -2771,6 +2772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tentaculon | 57487 | [57487-tentaculon.json](./57487-tentaculon.json) |
 | Tentacult! | 32872 | [32872-tentacult.json](./32872-tentacult.json) |
 | Tentador Leches | 179500 | [179500-tentador-leches.json](./179500-tentador-leches.json) |
+| Tentaizu | 245747 | [245747-tentaizu.json](./245747-tentaizu.json) |
 | Tentama | 392870 | [392870-tentama.json](./392870-tentama.json) |
 | Tenth Degree | 340980 | [340980-tenth-degree.json](./340980-tenth-degree.json) |
 | Tentis | 56894 | [56894-tentis.json](./56894-tentis.json) |
@@ -3834,6 +3836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Artifactory | 334179 | [334179-the-artifactory.json](./334179-the-artifactory.json) |
 | The Artifacts of Marvelous Birds | 278627 | [278627-the-artifacts-of-marvelous-birds.json](./278627-the-artifacts-of-marvelous-birds.json) |
 | The Artisan of Glimmith | 383145 | [383145-the-artisan-of-glimmith.json](./383145-the-artisan-of-glimmith.json) |
+| The Artist: Act One | 245732 | [245732-the-artist-act-one.json](./245732-the-artist-act-one.json) |
 | The Asafo Journey | 220672 | [220672-the-asafo-journey.json](./220672-the-asafo-journey.json) |
 | The Ascent of the Gothic Tower | 228967 | [228967-the-ascent-of-the-gothic-tower.json](./228967-the-ascent-of-the-gothic-tower.json) |
 | The Ascent: CyberSec Pack | 276306 | [276306-the-ascent-cybersec-pack.json](./276306-the-ascent-cybersec-pack.json) |
@@ -7398,6 +7401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Kingdom of Gardenia | 138517 | [138517-the-kingdom-of-gardenia.json](./138517-the-kingdom-of-gardenia.json) |
 | The Kingdom of God | 371479 | [371479-the-kingdom-of-god.json](./371479-the-kingdom-of-god.json) |
 | The Kingdoms of Ædloran | 389674 | [389674-the-kingdoms-of-dloran.json](./389674-the-kingdoms-of-dloran.json) |
+| The Kingpin | 245775 | [245775-the-kingpin.json](./245775-the-kingpin.json) |
 | The Kings Crusade | 2039 | [2039-the-kings-crusade.json](./2039-the-kings-crusade.json) |
 | The Kings Crusade: Arabian Nights | 10975 | [10975-the-kings-crusade-arabian-nights.json](./10975-the-kings-crusade-arabian-nights.json) |
 | The Kings Crusade: New Allies | 10976 | [10976-the-kings-crusade-new-allies.json](./10976-the-kings-crusade-new-allies.json) |
@@ -12066,6 +12070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Witch of Fern Island: Spooky Witch Pack | 322728 | [322728-the-witch-of-fern-island-spooky-witch-pack.json](./322728-the-witch-of-fern-island-spooky-witch-pack.json) |
 | The Witch of Fern Island: Wonderful Witch Pack | 289949 | [289949-the-witch-of-fern-island-wonderful-witch-pack.json](./289949-the-witch-of-fern-island-wonderful-witch-pack.json) |
 | The Witch of Sherdorne Forest | 248112 | [248112-the-witch-of-sherdorne-forest.json](./248112-the-witch-of-sherdorne-forest.json) |
+| The Witch, Wife, & the Wish | 245735 | [245735-the-witch-wife-and-the-wish.json](./245735-the-witch-wife-and-the-wish.json) |
 | The Witch's Cauldron | 240731 | [240731-the-witchs-cauldron.json](./240731-the-witchs-cauldron.json) |
 | The Witch's Cauldron: Supporter Pack | 309647 | [309647-the-witchs-cauldron-supporter-pack.json](./309647-the-witchs-cauldron-supporter-pack.json) |
 | The Witch's Cookbook | 257995 | [257995-the-witchs-cookbook.json](./257995-the-witchs-cookbook.json) |
@@ -12853,6 +12858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Threads of Time | 317820 | [317820-threads-of-time.json](./317820-threads-of-time.json) |
 | Threads of War | 296691 | [296691-threads-of-war.json](./296691-threads-of-war.json) |
 | Threat | 94410 | [94410-threat.json](./94410-threat.json) |
+| Threat Actor | 245745 | [245745-threat-actor.json](./245745-threat-actor.json) |
 | Three Alpha One Nine | 312133 | [312133-three-alpha-one-nine.json](./312133-three-alpha-one-nine.json) |
 | Three Bosses | 174323 | [174323-three-bosses.json](./174323-three-bosses.json) |
 | Three Color Cannon | 360001 | [360001-three-color-cannon.json](./360001-three-color-cannon.json) |
@@ -20354,6 +20360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turn Me On | 121399 | [121399-turn-me-on.json](./121399-turn-me-on.json) |
 | Turn on the Light: Jigsaw | 253445 | [253445-turn-on-the-light-jigsaw.json](./253445-turn-on-the-light-jigsaw.json) |
 | Turn on the Lights Carefully | 238750 | [238750-turn-on-the-lights-carefully.json](./238750-turn-on-the-lights-carefully.json) |
+| Turn on the lights! Brain Game | 245782 | [245782-turn-on-the-lights-brain-game.json](./245782-turn-on-the-lights-brain-game.json) |
 | Turn Run | 105124 | [105124-turn-run.json](./105124-turn-run.json) |
 | Turn Tack | 197919 | [197919-turn-tack.json](./197919-turn-tack.json) |
 | Turn the Line! | 190005 | [190005-turn-the-line.json](./190005-turn-the-line.json) |
