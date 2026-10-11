@@ -1794,6 +1794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Man of War | 62287 | [62287-man-of-war.json](./62287-man-of-war.json) |
 | Man of War II: Chains of Command | 73835 | [73835-man-of-war-ii-chains-of-command.json](./73835-man-of-war-ii-chains-of-command.json) |
 | Man or Vampire | 112264 | [112264-man-or-vampire.json](./112264-man-or-vampire.json) |
+| Man Overboard! | 242454 | [242454-man-overboard.json](./242454-man-overboard.json) |
 | Man Sa Yarbah Al Malyoon | 301363 | [301363-man-sa-yarbah-al-malyoon.json](./301363-man-sa-yarbah-al-malyoon.json) |
 | Man vs Machine | 150062 | [150062-man-vs-machine.json](./150062-man-vs-machine.json) |
 | Man Vs. Missiles | 83195 | [83195-man-vs-missiles.json](./83195-man-vs-missiles.json) |
@@ -2420,6 +2421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Kart Arcade GP VR | 48711 | [48711-mario-kart-arcade-gp-vr.json](./48711-mario-kart-arcade-gp-vr.json) |
 | Mario Kart Black | 358436 | [358436-mario-kart-black.json](./358436-mario-kart-black.json) |
 | Mario Kart CW | 151835 | [151835-mario-kart-cw.json](./151835-mario-kart-cw.json) |
+| Mario Kart DS N64 Circuit | 242435 | [242435-mario-kart-ds-n64-circuit.json](./242435-mario-kart-ds-n64-circuit.json) |
 | Mario Kart DS: GameCube Grand Prix | 313347 | [313347-mario-kart-ds-gamecube-grand-prix.json](./313347-mario-kart-ds-gamecube-grand-prix.json) |
 | Mario Kart PC | 294712 | [294712-mario-kart-pc.json](./294712-mario-kart-pc.json) |
 | Mario Kart R | 42204 | [42204-mario-kart-r.json](./42204-mario-kart-r.json) |
@@ -3104,6 +3106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mary Skelter: Nightmares Remake | 44474 | [44474-mary-skelter-nightmares-remake.json](./44474-mary-skelter-nightmares-remake.json) |
 | Mary X | 249247 | [249247-mary-x.json](./249247-mary-x.json) |
 | Mary-Kate and Ashley: Girls Night Out | 49391 | [49391-mary-kate-and-ashley-girls-night-out.json](./49391-mary-kate-and-ashley-girls-night-out.json) |
+| Mary-Kate and Ashley: Sweet 16 - Licensed to Drive | 242426 | [242426-mary-kate-and-ashley-sweet-16-licensed-to-drive.json](./242426-mary-kate-and-ashley-sweet-16-licensed-to-drive.json) |
 | Mary-Kate and Ashley: Winners Circle | 49966 | [49966-mary-kate-and-ashley-winners-circle.json](./49966-mary-kate-and-ashley-winners-circle.json) |
 | Mary's Adventure | 82758 | [82758-marys-adventure.json](./82758-marys-adventure.json) |
 | Mary's Arcade: Service Pack | 288832 | [288832-marys-arcade-service-pack.json](./288832-marys-arcade-service-pack.json) |
@@ -8914,6 +8917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MLB Rivals | 255104 | [255104-mlb-rivals.json](./255104-mlb-rivals.json) |
 | MLB Slam! | 47568 | [47568-mlb-slam.json](./47568-mlb-slam.json) |
 | MLB Slugfest 2003 | 47334 | [47334-mlb-slugfest-2003.json](./47334-mlb-slugfest-2003.json) |
+| MLB Tap Baseball 2023 | 242462 | [242462-mlb-tap-baseball-2023.json](./242462-mlb-tap-baseball-2023.json) |
 | MLB Tap Sports Baseball 2017 | 90064 | [90064-mlb-tap-sports-baseball-2017.json](./90064-mlb-tap-sports-baseball-2017.json) |
 | MLB Tap Sports Baseball 2020 | 220210 | [220210-mlb-tap-sports-baseball-2020.json](./220210-mlb-tap-sports-baseball-2020.json) |
 | MLB Tap Sports Baseball 2022 | 196590 | [196590-mlb-tap-sports-baseball-2022.json](./196590-mlb-tap-sports-baseball-2022.json) |
