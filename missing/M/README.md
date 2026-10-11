@@ -99,6 +99,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MacGuffin | 34526 | [34526-macguffin.json](./34526-macguffin.json) |
 | Mach K9 | 300348 | [300348-mach-k9.json](./300348-mach-k9.json) |
 | Mach's noch einmal, Sven | 206794 | [206794-machs-noch-einmal-sven.json](./206794-machs-noch-einmal-sven.json) |
+| Machete | 257290 | [257290-machete.json](./257290-machete.json) |
 | Machi | 279747 | [279747-machi.json](./279747-machi.json) |
 | Machi Knights: Blood Bagos | 115662 | [115662-machi-knights-blood-bagos.json](./115662-machi-knights-blood-bagos.json) |
 | Machi Koro With Everyone | 266751 | [266751-machi-koro-with-everyone.json](./266751-machi-koro-with-everyone.json) |
@@ -1112,6 +1113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magnetic Pull | 118324 | [118324-magnetic-pull.json](./118324-magnetic-pull.json) |
 | Magnetica | 20526 | [20526-magnetica.json](./20526-magnetica.json) |
 | Magnetica Twist | 21826 | [21826-magnetica-twist.json](./21826-magnetica-twist.json) |
+| Magnetism Rally | 257263 | [257263-magnetism-rally.json](./257263-magnetism-rally.json) |
 | Magnetized | 31113 | [31113-magnetized.json](./31113-magnetized.json) |
 | Magnetized Knight | 115795 | [115795-magnetized-knight.json](./115795-magnetized-knight.json) |
 | Magnetoresistive | 180597 | [180597-magnetoresistive.json](./180597-magnetoresistive.json) |
@@ -5425,6 +5427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memocratie | 322636 | [322636-memocratie.json](./322636-memocratie.json) |
 | Memoir '44 Online | 28724 | [28724-memoir-44-online.json](./28724-memoir-44-online.json) |
 | Memoir En Code | 18990 | [18990-memoir-en-code.json](./18990-memoir-en-code.json) |
+| Mémoire 0079 | 257276 | [257276-memoire-0079.json](./257276-memoire-0079.json) |
 | Memoirium | 365108 | [365108-memoirium.json](./365108-memoirium.json) |
 | Memoirs of Murder: Behind the Scenes | 322580 | [322580-memoirs-of-murder-behind-the-scenes.json](./322580-memoirs-of-murder-behind-the-scenes.json) |
 | Memoirs of Murder: Resorting to Revenge | 322579 | [322579-memoirs-of-murder-resorting-to-revenge.json](./322579-memoirs-of-murder-resorting-to-revenge.json) |
@@ -6477,6 +6480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MiaouVSRG | 351047 | [351047-miaouvsrg.json](./351047-miaouvsrg.json) |
 | Miaow.Emma | 296977 | [296977-miaow-emma.json](./296977-miaow-emma.json) |
 | Miasma | 253908 | [253908-miasma.json](./253908-miasma.json) |
+| Miasma | 257289 | [257289-miasma.json](./257289-miasma.json) |
 | Miasma Caves | 95179 | [95179-miasma-caves.json](./95179-miasma-caves.json) |
 | Miasmata | 11062 | [11062-miasmata.json](./11062-miasmata.json) |
 | Miautemágica | 393559 | [393559-miautemagica.json](./393559-miautemagica.json) |
@@ -11796,6 +11800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mudoba | 236302 | [236302-mudoba.json](./236302-mudoba.json) |
 | Mudoku: Next Sudoku | 292267 | [292267-mudoku-next-sudoku.json](./292267-mudoku-next-sudoku.json) |
 | MudRunner | 54789 | [54789-mudrunner.json](./54789-mudrunner.json) |
+| Mue | 257262 | [257262-mue.json](./257262-mue.json) |
 | Mueitou: Shinsou-hen | 261203 | [261203-mueitou-shinsou-hen.json](./261203-mueitou-shinsou-hen.json) |
 | Muffin Knight | 9268 | [9268-muffin-knight.json](./9268-muffin-knight.json) |
 | Muffins on Stream | 239307 | [239307-muffins-on-stream.json](./239307-muffins-on-stream.json) |
@@ -12292,6 +12297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Musya: The Classic Japanese Tale of Horror | 36740 | [36740-musya-the-classic-japanese-tale-of-horror.json](./36740-musya-the-classic-japanese-tale-of-horror.json) |
 | Musynx | 75992 | [75992-musynx.json](./75992-musynx.json) |
 | Musynx: House Theme | 255749 | [255749-musynx-house-theme.json](./255749-musynx-house-theme.json) |
+| Mutabor | 257301 | [257301-mutabor.json](./257301-mutabor.json) |
 | Mutagenic | 210690 | [210690-mutagenic.json](./210690-mutagenic.json) |
 | Mutagenic 2 | 390610 | [390610-mutagenic-2.json](./390610-mutagenic-2.json) |
 | Mutan Zone | 39120 | [39120-mutan-zone.json](./39120-mutan-zone.json) |
@@ -12679,6 +12685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Flower | 266888 | [266888-my-flower.json](./266888-my-flower.json) |
 | My Fluffy Life | 163745 | [163745-my-fluffy-life.json](./163745-my-fluffy-life.json) |
 | My Football Game | 206770 | [206770-my-football-game.json](./206770-my-football-game.json) |
+| My Forced Yakuza Fiancée | 257313 | [257313-my-forced-yakuza-fiancee.json](./257313-my-forced-yakuza-fiancee.json) |
 | My Forest Spirit Girlfriend | 207205 | [207205-my-forest-spirit-girlfriend.json](./207205-my-forest-spirit-girlfriend.json) |
 | My Forged Wedding: Party | 238422 | [238422-my-forged-wedding-party.json](./238422-my-forged-wedding-party.json) |
 | My Fox Sister | 107738 | [107738-my-fox-sister.json](./107738-my-fox-sister.json) |
