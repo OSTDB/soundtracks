@@ -270,6 +270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Back to Skool | 26419 | [26419-back-to-skool.json](./26419-back-to-skool.json) |
 | Back to Stone | 19217 | [19217-back-to-stone.json](./19217-back-to-stone.json) |
 | Back to the Collis | 244708 | [244708-back-to-the-collis.json](./244708-back-to-the-collis.json) |
+| Back to the Dark | 243606 | [243606-back-to-the-dark.json](./243606-back-to-the-dark.json) |
 | Back to the Dawn | 200544 | [200544-back-to-the-dawn.json](./200544-back-to-the-dawn.json) |
 | Back to the Edo | 307963 | [307963-back-to-the-edo.json](./307963-back-to-the-edo.json) |
 | Back to the Fooker: Zombie Fooker 2 | 273820 | [273820-back-to-the-fooker-zombie-fooker-2.json](./273820-back-to-the-fooker-zombie-fooker-2.json) |
@@ -3272,6 +3273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat Bop: Pop Star Clicker | 243742 | [243742-beat-bop-pop-star-clicker.json](./243742-beat-bop-pop-star-clicker.json) |
 | Beat Boxers | 110997 | [110997-beat-boxers.json](./110997-beat-boxers.json) |
 | Beat Boxing | 120129 | [120129-beat-boxing.json](./120129-beat-boxing.json) |
+| Beat Bricks | 243605 | [243605-beat-bricks.json](./243605-beat-bricks.json) |
 | Beat Bros | 52633 | [52633-beat-bros.json](./52633-beat-bros.json) |
 | Beat Bulwark | 351179 | [351179-beat-bulwark.json](./351179-beat-bulwark.json) |
 | Beat Cop | 18860 | [18860-beat-cop.json](./18860-beat-cop.json) |
@@ -4217,6 +4219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Betrayal At Club Low | 194803 | [194803-betrayal-at-club-low.json](./194803-betrayal-at-club-low.json) |
 | Betrayal Beach: Supporter Pack | 310051 | [310051-betrayal-beach-supporter-pack.json](./310051-betrayal-beach-supporter-pack.json) |
 | Betrayal Collection | 30409 | [30409-betrayal-collection.json](./30409-betrayal-collection.json) |
+| Betrayal of Blood | 243585 | [243585-betrayal-of-blood.json](./243585-betrayal-of-blood.json) |
 | Betrayal.io | 139300 | [139300-betrayal-io.json](./139300-betrayal-io.json) |
 | Betrayed Alliance: Book 2 | 239894 | [239894-betrayed-alliance-book-2.json](./239894-betrayed-alliance-book-2.json) |
 | Betrayer | 7711 | [7711-betrayer.json](./7711-betrayer.json) |
@@ -6176,6 +6179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BlazeSky | 131611 | [131611-blazesky.json](./131611-blazesky.json) |
 | Blazin' Aces | 61107 | [61107-blazin-aces.json](./61107-blazin-aces.json) |
 | Blazing 8s | 254426 | [254426-blazing-8s.json](./254426-blazing-8s.json) |
+| Blazing Ace | 243594 | [243594-blazing-ace.json](./243594-blazing-ace.json) |
 | Blazing Angels: Squadrons of WWII | 3124 | [3124-blazing-angels-squadrons-of-wwii.json](./3124-blazing-angels-squadrons-of-wwii.json) |
 | Blazing Aries | 153904 | [153904-blazing-aries.json](./153904-blazing-aries.json) |
 | Blazing Chrome | 55042 | [55042-blazing-chrome.json](./55042-blazing-chrome.json) |
@@ -8147,6 +8151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boom Karts: Multiplayer Kart Racing | 144982 | [144982-boom-karts-multiplayer-kart-racing.json](./144982-boom-karts-multiplayer-kart-racing.json) |
 | Boom Lift Operator | 298156 | [298156-boom-lift-operator.json](./298156-boom-lift-operator.json) |
 | Boom Robots | 312094 | [312094-boom-robots.json](./312094-boom-robots.json) |
+| Boom Royale | 243592 | [243592-boom-royale.json](./243592-boom-royale.json) |
 | Boom Shocketa: Rocket Storm | 217303 | [217303-boom-shocketa-rocket-storm.json](./217303-boom-shocketa-rocket-storm.json) |
 | Boom Slayer | 234671 | [234671-boom-slayer.json](./234671-boom-slayer.json) |
 | Boom Slingers | 142879 | [142879-boom-slingers.json](./142879-boom-slingers.json) |
@@ -8177,6 +8182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boomer Simulator | 142729 | [142729-boomer-simulator.json](./142729-boomer-simulator.json) |
 | Boomer Zombie | 211250 | [211250-boomer-zombie.json](./211250-boomer-zombie.json) |
 | Boomerang | 279059 | [279059-boomerang.json](./279059-boomerang.json) |
+| Boomerang Battles | 243593 | [243593-boomerang-battles.json](./243593-boomerang-battles.json) |
 | Boomerang Fu: Deluxe Edition | 324381 | [324381-boomerang-fu-deluxe-edition.json](./324381-boomerang-fu-deluxe-edition.json) |
 | Boomerang Fu: Fresh Flavors Pack | 226265 | [226265-boomerang-fu-fresh-flavors-pack.json](./226265-boomerang-fu-fresh-flavors-pack.json) |
 | Boomerang RPG | 297248 | [297248-boomerang-rpg.json](./297248-boomerang-rpg.json) |
@@ -8446,6 +8452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bots & Belts | 139484 | [139484-bots-and-belts.json](./139484-bots-and-belts.json) |
 | Bots & Mods | 291725 | [291725-bots-and-mods.json](./291725-bots-and-mods.json) |
 | Bots Can Feel Too | 200045 | [200045-bots-can-feel-too.json](./200045-bots-can-feel-too.json) |
+| Bots Chaos | 243595 | [243595-bots-chaos.json](./243595-bots-chaos.json) |
 | Bots Crusher Arena | 203895 | [203895-bots-crusher-arena.json](./203895-bots-crusher-arena.json) |
 | Bots n' Bugs | 183979 | [183979-bots-n-bugs.json](./183979-bots-n-bugs.json) |
 | Bots Rush | 112350 | [112350-bots-rush.json](./112350-bots-rush.json) |
@@ -8963,6 +8970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brain Challenge Deluxe | 44587 | [44587-brain-challenge-deluxe.json](./44587-brain-challenge-deluxe.json) |
 | Brain Code | 321500 | [321500-brain-code.json](./321500-brain-code.json) |
 | Brain Damage | 239192 | [239192-brain-damage.json](./239192-brain-damage.json) |
+| Brain Damage | 243591 | [243591-brain-damage.json](./243591-brain-damage.json) |
 | Brain Deluxe | 68641 | [68641-brain-deluxe.json](./68641-brain-deluxe.json) |
 | Brain Dots: Draw and Solve | 104701 | [104701-brain-dots-draw-and-solve.json](./104701-brain-dots-draw-and-solve.json) |
 | Brain Drain | 210267 | [210267-brain-drain.json](./210267-brain-drain.json) |
@@ -11389,6 +11397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Byakuya Monogatari: Winchester-ke no Matsuei | 287633 | [287633-byakuya-monogatari-winchester-ke-no-matsuei.json](./287633-byakuya-monogatari-winchester-ke-no-matsuei.json) |
 | Byakuya Museum | 249723 | [249723-byakuya-museum.json](./249723-byakuya-museum.json) |
 | Bye Bye Bonnie | 415153 | [415153-bye-bye-bonnie.json](./415153-bye-bye-bonnie.json) |
+| Bye Bye Swingby | 243589 | [243589-bye-bye-swingby.json](./243589-bye-bye-swingby.json) |
 | Bye Bye! Police! | 384866 | [384866-bye-bye-police.json](./384866-bye-bye-police.json) |
 | Bye Sweet Carole: Deluxe Edition | 401673 | [401673-bye-sweet-carole-deluxe-edition.json](./401673-bye-sweet-carole-deluxe-edition.json) |
 | Bye-Bye Bindings! | 368364 | [368364-bye-bye-bindings.json](./368364-bye-bye-bindings.json) |
