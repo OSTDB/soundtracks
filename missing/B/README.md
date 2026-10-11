@@ -5101,6 +5101,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bionic Shield: Battle for Space Nebula Omega | 189123 | [189123-bionic-shield-battle-for-space-nebula-omega.json](./189123-bionic-shield-battle-for-space-nebula-omega.json) |
 | Bionic Slammer | 236324 | [236324-bionic-slammer.json](./236324-bionic-slammer.json) |
 | Bionicle Defenders | 343283 | [343283-bionicle-defenders.json](./343283-bionicle-defenders.json) |
+| Bionicle Heroes | 248510 | [248510-bionicle-heroes.json](./248510-bionicle-heroes.json) |
+| Bionicle Heroes | 248511 | [248511-bionicle-heroes.json](./248511-bionicle-heroes.json) |
 | Bionicle Heroes: DOOM | 135832 | [135832-bionicle-heroes-doom.json](./135832-bionicle-heroes-doom.json) |
 | Bionicle Metru Nui: City of Legends - Stop the Morbuzakh | 279236 | [279236-bionicle-metru-nui-city-of-legends-stop-the-morbuzakh.json](./279236-bionicle-metru-nui-city-of-legends-stop-the-morbuzakh.json) |
 | Bionicle: City of Legends | 175995 | [175995-bionicle-city-of-legends.json](./175995-bionicle-city-of-legends.json) |
@@ -9111,6 +9113,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bratz Rhythm & Style: Tweevils Pack | 365567 | [365567-bratz-rhythm-and-style-tweevils-pack.json](./365567-bratz-rhythm-and-style-tweevils-pack.json) |
 | Bratz World: The Jet Set | 230422 | [230422-bratz-world-the-jet-set.json](./230422-bratz-world-the-jet-set.json) |
 | Bratz: Flaunt Your Fashion - Pretty 'N' Punk Fashion Pack | 301569 | [301569-bratz-flaunt-your-fashion-pretty-n-punk-fashion-pack.json](./301569-bratz-flaunt-your-fashion-pretty-n-punk-fashion-pack.json) |
+| Bratz: Forever Diamondz | 248532 | [248532-bratz-forever-diamondz.json](./248532-bratz-forever-diamondz.json) |
+| Bratz: Forever Diamondz | 248533 | [248533-bratz-forever-diamondz.json](./248533-bratz-forever-diamondz.json) |
 | Bratz: Girlz Really Rock | 43248 | [43248-bratz-girlz-really-rock.json](./43248-bratz-girlz-really-rock.json) |
 | Bratz: The Movie | 248612 | [248612-bratz-the-movie.json](./248612-bratz-the-movie.json) |
 | Brave | 216126 | [216126-brave.json](./216126-brave.json) |
