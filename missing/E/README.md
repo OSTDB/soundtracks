@@ -64,6 +64,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EA Sports F1 2001 | 307801 | [307801-ea-sports-f1-2001.json](./307801-ea-sports-f1-2001.json) |
 | EA Sports Fantasy Football Live Draft Tracker | 72895 | [72895-ea-sports-fantasy-football-live-draft-tracker.json](./72895-ea-sports-fantasy-football-live-draft-tracker.json) |
 | EA Sports Fantasy Football Live Score Tracker | 90929 | [90929-ea-sports-fantasy-football-live-score-tracker.json](./90929-ea-sports-fantasy-football-live-score-tracker.json) |
+| EA Sports FC 24: Ultimate Edition | 256169 | [256169-ea-sports-fc-24-ultimate-edition.json](./256169-ea-sports-fc-24-ultimate-edition.json) |
 | EA Sports FC 25 | 308698 | [308698-ea-sports-fc-25.json](./308698-ea-sports-fc-25.json) |
 | EA Sports FC 25: Ultimate Edition | 309043 | [309043-ea-sports-fc-25-ultimate-edition.json](./309043-ea-sports-fc-25-ultimate-edition.json) |
 | EA Sports FC 26: Icons Edition | 397889 | [397889-ea-sports-fc-26-icons-edition.json](./397889-ea-sports-fc-26-icons-edition.json) |
@@ -2099,6 +2100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enchanted Kingdom: The Secret of the Golden Lamp | 187903 | [187903-enchanted-kingdom-the-secret-of-the-golden-lamp.json](./187903-enchanted-kingdom-the-secret-of-the-golden-lamp.json) |
 | Enchanted Kingdom: The Secret of the Golden Lamp - Collector's Edition | 168306 | [168306-enchanted-kingdom-the-secret-of-the-golden-lamp-collectors-edition.json](./168306-enchanted-kingdom-the-secret-of-the-golden-lamp-collectors-edition.json) |
 | Enchanted Memories | 386148 | [386148-enchanted-memories.json](./386148-enchanted-memories.json) |
+| Enchanted Portals: Tales Edition | 256171 | [256171-enchanted-portals-tales-edition.json](./256171-enchanted-portals-tales-edition.json) |
 | Enchanted Scepters | 31186 | [31186-enchanted-scepters.json](./31186-enchanted-scepters.json) |
 | Enchanted Solitaire | 386133 | [386133-enchanted-solitaire.json](./386133-enchanted-solitaire.json) |
 | Enchanted Solitaire 2 | 386123 | [386123-enchanted-solitaire-2.json](./386123-enchanted-solitaire-2.json) |
