@@ -4841,6 +4841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chou Mashin Eiyuuden Wataru: Mazekko Monster | 66064 | [66064-chou-mashin-eiyuuden-wataru-mazekko-monster.json](./66064-chou-mashin-eiyuuden-wataru-mazekko-monster.json) |
 | Chou Mashin Eiyuuden Wataru: Mazekko Monster 2 | 66065 | [66065-chou-mashin-eiyuuden-wataru-mazekko-monster-2.json](./66065-chou-mashin-eiyuuden-wataru-mazekko-monster-2.json) |
 | Chou Meisaku Suiri Adventure DS: Raymond Chandler Gensaku - Saraba Itoshiki Hito yo | 269583 | [269583-chou-meisaku-suiri-adventure-ds-raymond-chandler-gensaku-saraba-itoshiki-hito-yo.json](./269583-chou-meisaku-suiri-adventure-ds-raymond-chandler-gensaku-saraba-itoshiki-hito-yo.json) |
+| Chou Nanmon Nazotoki Chousenjou | 251511 | [251511-chou-nanmon-nazotoki-chousenjou.json](./251511-chou-nanmon-nazotoki-chousenjou.json) |
 | Chou Sentou-chuu: Battle for Money | 280328 | [280328-chou-sentou-chuu-battle-for-money.json](./280328-chou-sentou-chuu-battle-for-money.json) |
 | Chou Tousouchuu & Chou Sentouchuu Double Pack | 107656 | [107656-chou-tousouchuu-and-chou-sentouchuu-double-pack.json](./107656-chou-tousouchuu-and-chou-sentouchuu-double-pack.json) |
 | Chou Yakkyou Miracle Nine | 45541 | [45541-chou-yakkyou-miracle-nine.json](./45541-chou-yakkyou-miracle-nine.json) |
@@ -6630,6 +6631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clumsy Rush: Ultimate Guys - Decorations Pack 12 | 251665 | [251665-clumsy-rush-ultimate-guys-decorations-pack-12.json](./251665-clumsy-rush-ultimate-guys-decorations-pack-12.json) |
 | Clumsy Rush: Ultimate Guys - Extended Edition | 238064 | [238064-clumsy-rush-ultimate-guys-extended-edition.json](./238064-clumsy-rush-ultimate-guys-extended-edition.json) |
 | Clumsy Rush: Ultimate Guys - GOTY Edition | 246878 | [246878-clumsy-rush-ultimate-guys-goty-edition.json](./246878-clumsy-rush-ultimate-guys-goty-edition.json) |
+| Clumsy Rush: Ultimate Guys - Legendary Edition | 251494 | [251494-clumsy-rush-ultimate-guys-legendary-edition.json](./251494-clumsy-rush-ultimate-guys-legendary-edition.json) |
 | Clumsy Rush: Ultimate Guys - Magnificent Edition | 266158 | [266158-clumsy-rush-ultimate-guys-magnificent-edition.json](./266158-clumsy-rush-ultimate-guys-magnificent-edition.json) |
 | Clumsy Rush: Ultimate Guys - Platinum Edition | 241399 | [241399-clumsy-rush-ultimate-guys-platinum-edition.json](./241399-clumsy-rush-ultimate-guys-platinum-edition.json) |
 | Clumsy Rush: Ultimate Guys - Special Edition | 223571 | [223571-clumsy-rush-ultimate-guys-special-edition.json](./223571-clumsy-rush-ultimate-guys-special-edition.json) |
@@ -8903,6 +8905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coppy Tour | 369693 | [369693-coppy-tour.json](./369693-coppy-tour.json) |
 | Cops | 307344 | [307344-cops.json](./307344-cops.json) |
 | Cops and Robbers Fight | 105917 | [105917-cops-and-robbers-fight.json](./105917-cops-and-robbers-fight.json) |
+| Cops and Robbers! | 251506 | [251506-cops-and-robbers.json](./251506-cops-and-robbers.json) |
 | Cops L.A. Police | 259492 | [259492-cops-l-a-police.json](./259492-cops-l-a-police.json) |
 | Cops N Robbers: Pixel Craft Gun | 400445 | [400445-cops-n-robbers-pixel-craft-gun.json](./400445-cops-n-robbers-pixel-craft-gun.json) |
 | Cops N Robbers: Prison Games 1 | 400441 | [400441-cops-n-robbers-prison-games-1.json](./400441-cops-n-robbers-prison-games-1.json) |
@@ -9641,6 +9644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cowz.io | 352143 | [352143-cowz-io.json](./352143-cowz-io.json) |
 | Coyote: An Old West Vignette | 292443 | [292443-coyote-an-old-west-vignette.json](./292443-coyote-an-old-west-vignette.json) |
 | Cozmic Fantasy 2: Bouken Shounen Pan | 251628 | [251628-cozmic-fantasy-2-bouken-shounen-pan.json](./251628-cozmic-fantasy-2-bouken-shounen-pan.json) |
+| Cozmic Fantasy: Bouken Shounen Yuu | 251495 | [251495-cozmic-fantasy-bouken-shounen-yuu.json](./251495-cozmic-fantasy-bouken-shounen-yuu.json) |
 | Cozy | 179745 | [179745-cozy.json](./179745-cozy.json) |
 | Cozy Aquarium | 339315 | [339315-cozy-aquarium.json](./339315-cozy-aquarium.json) |
 | Cozy Autumn Bug Hunt | 339890 | [339890-cozy-autumn-bug-hunt.json](./339890-cozy-autumn-bug-hunt.json) |
