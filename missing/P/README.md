@@ -3257,6 +3257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phalanstery | 74286 | [74286-phalanstery.json](./74286-phalanstery.json) |
 | Phalanx | 6532 | [6532-phalanx.json](./6532-phalanx.json) |
 | Phalanx of Resistance | 130143 | [130143-phalanx-of-resistance.json](./130143-phalanx-of-resistance.json) |
+| Phanotia: Interlude I-Aubzan Abbey | 254372 | [254372-phanotia-interlude-i-aubzan-abbey.json](./254372-phanotia-interlude-i-aubzan-abbey.json) |
 | Phantaruk | 20788 | [20788-phantaruk.json](./20788-phantaruk.json) |
 | Phantasia | 192152 | [192152-phantasia.json](./192152-phantasia.json) |
 | Phantasie 3: The Wrath of Nikademus | 5562 | [5562-phantasie-3-the-wrath-of-nikademus.json](./5562-phantasie-3-the-wrath-of-nikademus.json) |
