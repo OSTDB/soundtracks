@@ -8748,6 +8748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Future Cop: LAPD | 11235 | [11235-future-cop-lapd.json](./11235-future-cop-lapd.json) |
 | Future Fighter | 304139 | [304139-future-fighter.json](./304139-future-fighter.json) |
 | Future Flappy | 89290 | [89290-future-flappy.json](./89290-future-flappy.json) |
+| Future Front | 241283 | [241283-future-front.json](./241283-future-front.json) |
 | Future Futures - Command Z | 116320 | [116320-future-futures-command-z.json](./116320-future-futures-command-z.json) |
 | Future Ghost | 86230 | [86230-future-ghost.json](./86230-future-ghost.json) |
 | Future GPX Cyber Formula: Road to the Evolution | 4150 | [4150-future-gpx-cyber-formula-road-to-the-evolution.json](./4150-future-gpx-cyber-formula-road-to-the-evolution.json) |
