@@ -156,6 +156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rabbit's All-Comers Mapping Project | 260958 | [260958-rabbits-all-comers-mapping-project.json](./260958-rabbits-all-comers-mapping-project.json) |
 | Rabbit's All-Comers Mapping Project 2022 | 260962 | [260962-rabbits-all-comers-mapping-project-2022.json](./260962-rabbits-all-comers-mapping-project-2022.json) |
 | Rabbit's All-Comers Mapping Project 2023 | 260963 | [260963-rabbits-all-comers-mapping-project-2023.json](./260963-rabbits-all-comers-mapping-project-2023.json) |
+| Rabbit's Fall | 265524 | [265524-rabbits-fall.json](./265524-rabbits-fall.json) |
 | Rabbit's Hop | 373330 | [373330-rabbits-hop.json](./373330-rabbits-hop.json) |
 | Rabbit's Quest | 142342 | [142342-rabbits-quest.json](./142342-rabbits-quest.json) |
 | RabbitJack's Casino | 67960 | [67960-rabbitjacks-casino.json](./67960-rabbitjacks-casino.json) |
@@ -1787,6 +1788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Boxing 2: Remastered - Maverick DLC | 393069 | [393069-real-boxing-2-remastered-maverick-dlc.json](./393069-real-boxing-2-remastered-maverick-dlc.json) |
 | Real Boxing 2: Remastered - Platinum Edition | 396926 | [396926-real-boxing-2-remastered-platinum-edition.json](./396926-real-boxing-2-remastered-platinum-edition.json) |
 | Real Boxing 2: Remastered - Stone Edition | 330207 | [330207-real-boxing-2-remastered-stone-edition.json](./330207-real-boxing-2-remastered-stone-edition.json) |
+| Real Boxing: Steel Champions VR | 265543 | [265543-real-boxing-steel-champions-vr.json](./265543-real-boxing-steel-champions-vr.json) |
 | Real Bus Mechanic Simulator | 102611 | [102611-real-bus-mechanic-simulator.json](./102611-real-bus-mechanic-simulator.json) |
 | Real Cake Maker | 316187 | [316187-real-cake-maker.json](./316187-real-cake-maker.json) |
 | Real Cake Maker: Complete Edition | 317905 | [317905-real-cake-maker-complete-edition.json](./317905-real-cake-maker-complete-edition.json) |
@@ -3200,6 +3202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RentPoly | 384250 | [384250-rentpoly.json](./384250-rentpoly.json) |
 | Renxia | 278696 | [278696-renxia.json](./278696-renxia.json) |
 | Reouija Sleepover | 214436 | [214436-reouija-sleepover.json](./214436-reouija-sleepover.json) |
+| Repair Adventure | 265531 | [265531-repair-adventure.json](./265531-repair-adventure.json) |
 | Repair Plane | 303790 | [303790-repair-plane.json](./303790-repair-plane.json) |
 | Repair Programming | 181140 | [181140-repair-programming.json](./181140-repair-programming.json) |
 | Repair Shop | 181317 | [181317-repair-shop.json](./181317-repair-shop.json) |
@@ -3562,6 +3565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ReSoul: Jack | 374443 | [374443-resoul-jack.json](./374443-resoul-jack.json) |
 | Resource Recon | 295352 | [295352-resource-recon.json](./295352-resource-recon.json) |
 | Resource War: Soul Squad Alpha | 299420 | [299420-resource-war-soul-squad-alpha.json](./299420-resource-war-soul-squad-alpha.json) |
+| Resourceful.World | 265544 | [265544-resourceful-world.json](./265544-resourceful-world.json) |
 | Resourcer | 245945 | [245945-resourcer.json](./245945-resourcer.json) |
 | Respawn | 203851 | [203851-respawn.json](./203851-respawn.json) |
 | Respawnables: Special Forces | 94784 | [94784-respawnables-special-forces.json](./94784-respawnables-special-forces.json) |
@@ -6773,6 +6777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roommates | 297205 | [297205-roommates.json](./297205-roommates.json) |
 | Roommates with Benefits | 313802 | [313802-roommates-with-benefits.json](./313802-roommates-with-benefits.json) |
 | RoomRental | 94190 | [94190-roomrental.json](./94190-roomrental.json) |
+| Rooms | 265556 | [265556-rooms.json](./265556-rooms.json) |
 | Rooms | 388930 | [388930-rooms.json](./388930-rooms.json) |
 | Rooms of Dread | 232027 | [232027-rooms-of-dread.json](./232027-rooms-of-dread.json) |
 | Rooms: The Adventure of Anne & George | 110803 | [110803-rooms-the-adventure-of-anne-and-george.json](./110803-rooms-the-adventure-of-anne-and-george.json) |
@@ -7822,6 +7827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rush and Blush | 333782 | [333782-rush-and-blush.json](./333782-rush-and-blush.json) |
 | Rush Back | 270680 | [270680-rush-back.json](./270680-rush-back.json) |
 | Rush City | 270573 | [270573-rush-city.json](./270573-rush-city.json) |
+| Rush Commander | 265564 | [265564-rush-commander.json](./265564-rush-commander.json) |
 | Rush Delivery | 304850 | [304850-rush-delivery.json](./304850-rush-delivery.json) |
 | Rush For Glory | 10803 | [10803-rush-for-glory.json](./10803-rush-for-glory.json) |
 | Rush for Gold: California | 33345 | [33345-rush-for-gold-california.json](./33345-rush-for-gold-california.json) |
