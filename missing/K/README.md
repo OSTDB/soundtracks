@@ -662,6 +662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kart Crazy Race Simulator Game | 264118 | [264118-kart-crazy-race-simulator-game.json](./264118-kart-crazy-race-simulator-game.json) |
 | Kart Fighter | 48577 | [48577-kart-fighter.json](./48577-kart-fighter.json) |
 | Kart Krashers | 23588 | [23588-kart-krashers.json](./23588-kart-krashers.json) |
+| Kart Life | 260589 | [260589-kart-life.json](./260589-kart-life.json) |
 | Kart Racing | 381228 | [381228-kart-racing.json](./381228-kart-racing.json) |
 | Kart Racing 3D - Top Car Racer Chaser Action Rally | 101568 | [101568-kart-racing-3d-top-car-racer-chaser-action-rally.json](./101568-kart-racing-3d-top-car-racer-chaser-action-rally.json) |
 | Kart Soccer Party | 398428 | [398428-kart-soccer-party.json](./398428-kart-soccer-party.json) |
@@ -2152,6 +2153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Rush Vengeance: Pirate Kings | 327784 | [327784-kingdom-rush-vengeance-pirate-kings.json](./327784-kingdom-rush-vengeance-pirate-kings.json) |
 | Kingdom Rush Vengeance: Pirate Kings Campaign | 346006 | [346006-kingdom-rush-vengeance-pirate-kings-campaign.json](./346006-kingdom-rush-vengeance-pirate-kings-campaign.json) |
 | Kingdom Rush: Battles | 365682 | [365682-kingdom-rush-battles.json](./365682-kingdom-rush-battles.json) |
+| Kingdom Simulator | 260601 | [260601-kingdom-simulator.json](./260601-kingdom-simulator.json) |
 | Kingdom Traveler | 189080 | [189080-kingdom-traveler.json](./189080-kingdom-traveler.json) |
 | Kingdom Treasury Collection | 121422 | [121422-kingdom-treasury-collection.json](./121422-kingdom-treasury-collection.json) |
 | Kingdom Two Crowns | 27436 | [27436-kingdom-two-crowns.json](./27436-kingdom-two-crowns.json) |
