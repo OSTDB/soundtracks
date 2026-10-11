@@ -728,6 +728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 16 Tiles Mahjong | 46523 | [46523-16-tiles-mahjong.json](./46523-16-tiles-mahjong.json) |
 | 16-Bit Xmas 2011 | 134472 | [134472-16-bit-xmas-2011.json](./134472-16-bit-xmas-2011.json) |
 | 16: The Ultimate 15 Puzzle | 357974 | [357974-16-the-ultimate-15-puzzle.json](./357974-16-the-ultimate-15-puzzle.json) |
+| 1630: The Thirty Years' War | 244700 | [244700-1630-the-thirty-years-war.json](./244700-1630-the-thirty-years-war.json) |
 | 16Bit Rhythm Land | 213860 | [213860-16bit-rhythm-land.json](./213860-16bit-rhythm-land.json) |
 | 16bit-Collection Athena Vol. 01 | 97891 | [97891-16bit-collection-athena-vol-01.json](./97891-16bit-collection-athena-vol-01.json) |
 | 16bit-Collection Culture Brain Vol. 02 | 97888 | [97888-16bit-collection-culture-brain-vol-02.json](./97888-16bit-collection-culture-brain-vol-02.json) |
