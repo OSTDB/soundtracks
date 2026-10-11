@@ -5378,6 +5378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bit Rat: Singularity | 134485 | [134485-bit-rat-singularity.json](./134485-bit-rat-singularity.json) |
 | Bit Shifter | 34699 | [34699-bit-shifter.json](./34699-bit-shifter.json) |
 | Bit Sword | 190032 | [190032-bit-sword.json](./190032-bit-sword.json) |
+| Bit the Apple, So What? | 249069 | [249069-bit-the-apple-so-what.json](./249069-bit-the-apple-so-what.json) |
 | Bit-Cremental: Fishistry | 325629 | [325629-bit-cremental-fishistry.json](./325629-bit-cremental-fishistry.json) |
 | Bit-cremental: Fishistry Color | 387693 | [387693-bit-cremental-fishistry-color.json](./387693-bit-cremental-fishistry-color.json) |
 | Bit.Saw | 60775 | [60775-bit-saw.json](./60775-bit-saw.json) |
@@ -8503,6 +8504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bouldering Robot 3D | 192272 | [192272-bouldering-robot-3d.json](./192272-bouldering-robot-3d.json) |
 | Boulders and Bombs | 23965 | [23965-boulders-and-bombs.json](./23965-boulders-and-bombs.json) |
 | Boule & Bill: Holiday time! | 67961 | [67961-boule-and-bill-holiday-time.json](./67961-boule-and-bill-holiday-time.json) |
+| Boule Petanque | 249113 | [249113-boule-petanque.json](./249113-boule-petanque.json) |
 | BouleMan | 349508 | [349508-bouleman.json](./349508-bouleman.json) |
 | Boulette Hell | 223377 | [223377-boulette-hell.json](./223377-boulette-hell.json) |
 | Bounce | 172047 | [172047-bounce.json](./172047-bounce.json) |
