@@ -291,6 +291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Safe Climbing | 127831 | [127831-safe-climbing.json](./127831-safe-climbing.json) |
 | Safe Cracker | 340547 | [340547-safe-cracker.json](./340547-safe-cracker.json) |
 | Safe Harbor | 181131 | [181131-safe-harbor.json](./181131-safe-harbor.json) |
+| Safe Haven | 261168 | [261168-safe-haven.json](./261168-safe-haven.json) |
 | Safe House | 278370 | [278370-safe-house.json](./278370-safe-house.json) |
 | Safe House | 392132 | [392132-safe-house.json](./392132-safe-house.json) |
 | Safe House | 99588 | [99588-safe-house.json](./99588-safe-house.json) |
@@ -2108,6 +2109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scourge | 408288 | [408288-scourge.json](./408288-scourge.json) |
 | Scourge of Scavengers | 348274 | [348274-scourge-of-scavengers.json](./348274-scourge-of-scavengers.json) |
 | Scourge of the Village | 277947 | [277947-scourge-of-the-village.json](./277947-scourge-of-the-village.json) |
+| Scourge of Viscerus | 261182 | [261182-scourge-of-viscerus.json](./261182-scourge-of-viscerus.json) |
 | Scourge of War: Gettysburg | 77312 | [77312-scourge-of-war-gettysburg.json](./77312-scourge-of-war-gettysburg.json) |
 | Scourge of War: Remastered | 278377 | [278377-scourge-of-war-remastered.json](./278377-scourge-of-war-remastered.json) |
 | Scourge of War: Waterloo - Ligny | 171038 | [171038-scourge-of-war-waterloo-ligny.json](./171038-scourge-of-war-waterloo-ligny.json) |
@@ -2549,6 +2551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea of Thieves: The Legend of Monkey Island | 252829 | [252829-sea-of-thieves-the-legend-of-monkey-island.json](./252829-sea-of-thieves-the-legend-of-monkey-island.json) |
 | Sea of Thieves: Wild Things - Season 15 | 354372 | [354372-sea-of-thieves-wild-things-season-15.json](./354372-sea-of-thieves-wild-things-season-15.json) |
 | Sea of Tranquility | 347655 | [347655-sea-of-tranquility.json](./347655-sea-of-tranquility.json) |
+| Sea of Treasures | 261152 | [261152-sea-of-treasures.json](./261152-sea-of-treasures.json) |
 | Sea of World | 292537 | [292537-sea-of-world.json](./292537-sea-of-world.json) |
 | Sea Plumber 2 | 205029 | [205029-sea-plumber-2.json](./205029-sea-plumber-2.json) |
 | Sea Power: Naval Combat in the Missile Age | 217518 | [217518-sea-power-naval-combat-in-the-missile-age.json](./217518-sea-power-naval-combat-in-the-missile-age.json) |
@@ -15637,6 +15640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starfighter Galaxy Defender VR | 175209 | [175209-starfighter-galaxy-defender-vr.json](./175209-starfighter-galaxy-defender-vr.json) |
 | Starfighter Inc. | 56301 | [56301-starfighter-inc.json](./56301-starfighter-inc.json) |
 | Starfighter Origins | 28262 | [28262-starfighter-origins.json](./28262-starfighter-origins.json) |
+| Starfighter Overkill | 261160 | [261160-starfighter-overkill.json](./261160-starfighter-overkill.json) |
 | StarFighter R&D HD Edition | 134689 | [134689-starfighter-r-and-d-hd-edition.json](./134689-starfighter-r-and-d-hd-edition.json) |
 | Starfighter Renegade | 149226 | [149226-starfighter-renegade.json](./149226-starfighter-renegade.json) |
 | Starfighter: Eclipse | 142958 | [142958-starfighter-eclipse.json](./142958-starfighter-eclipse.json) |
@@ -18754,6 +18758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summer Nightmare | 29895 | [29895-summer-nightmare.json](./29895-summer-nightmare.json) |
 | Summer of '58 | 159221 | [159221-summer-of-58.json](./159221-summer-of-58.json) |
 | Summer of '69 | 224578 | [224578-summer-of-69.json](./224578-summer-of-69.json) |
+| Summer Party Time + Survival Pack Set | 261165 | [261165-summer-party-time-survival-pack-set.json](./261165-summer-party-time-survival-pack-set.json) |
 | Summer Paws | 122378 | [122378-summer-paws.json](./122378-summer-paws.json) |
 | Summer Pleasure | 210876 | [210876-summer-pleasure.json](./210876-summer-pleasure.json) |
 | Summer Pockets | 87682 | [87682-summer-pockets.json](./87682-summer-pockets.json) |
@@ -19083,6 +19088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Alfred Chicken | 44455 | [44455-super-alfred-chicken.json](./44455-super-alfred-chicken.json) |
 | Super Algebrawl | 283889 | [283889-super-algebrawl.json](./283889-super-algebrawl.json) |
 | Super Alice Dolls! | 294717 | [294717-super-alice-dolls.json](./294717-super-alice-dolls.json) |
+| Super Alicorn Sisters: Return of the Tantabus | 261187 | [261187-super-alicorn-sisters-return-of-the-tantabus.json](./261187-super-alicorn-sisters-return-of-the-tantabus.json) |
 | Super Alien | 146294 | [146294-super-alien.json](./146294-super-alien.json) |
 | Super Alloy Ranger | 200550 | [200550-super-alloy-ranger.json](./200550-super-alloy-ranger.json) |
 | Super Alpaca Bros. | 114336 | [114336-super-alpaca-bros.json](./114336-super-alpaca-bros.json) |
@@ -20031,6 +20037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario In Element World | 267978 | [267978-super-mario-in-element-world.json](./267978-super-mario-in-element-world.json) |
 | Super Mario In Element World 2: The Master Hand Revenge | 267980 | [267980-super-mario-in-element-world-2-the-master-hand-revenge.json](./267980-super-mario-in-element-world-2-the-master-hand-revenge.json) |
 | Super Mario in Marooned on Mars! | 321451 | [321451-super-mario-in-marooned-on-mars.json](./321451-super-mario-in-marooned-on-mars.json) |
+| Super Mario Infinity 2: The Cursed Gem | 261142 | [261142-super-mario-infinity-2-the-cursed-gem.json](./261142-super-mario-infinity-2-the-cursed-gem.json) |
 | Super Mario Infinity: Mystery of the Magic Wand | 260850 | [260850-super-mario-infinity-mystery-of-the-magic-wand.json](./260850-super-mario-infinity-mystery-of-the-magic-wand.json) |
 | Super Mario Journey | 324010 | [324010-super-mario-journey.json](./324010-super-mario-journey.json) |
 | Super Mario Journey Lane | 281017 | [281017-super-mario-journey-lane.json](./281017-super-mario-journey-lane.json) |
