@@ -8523,6 +8523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slimepatch | 392904 | [392904-slimepatch.json](./392904-slimepatch.json) |
 | Slimepocalypse | 340362 | [340362-slimepocalypse.json](./340362-slimepocalypse.json) |
 | Slimer | 184489 | [184489-slimer.json](./184489-slimer.json) |
+| Slimeria | 259497 | [259497-slimeria.json](./259497-slimeria.json) |
 | Slimes RPG | 110782 | [110782-slimes-rpg.json](./110782-slimes-rpg.json) |
 | SlimeSlider | 188453 | [188453-slimeslider.json](./188453-slimeslider.json) |
 | SlimeTrials | 185607 | [185607-slimetrials.json](./185607-slimetrials.json) |
@@ -10247,6 +10248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soliopop | 288985 | [288985-soliopop.json](./288985-soliopop.json) |
 | Solipsis | 391885 | [391885-solipsis.json](./391885-solipsis.json) |
 | Solipsism Reigns | 183434 | [183434-solipsism-reigns.json](./183434-solipsism-reigns.json) |
+| Solipsism Reigns BxG | 259478 | [259478-solipsism-reigns-bxg.json](./259478-solipsism-reigns-bxg.json) |
 | Solipsistic | 409582 | [409582-solipsistic.json](./409582-solipsistic.json) |
 | Solipskier | 76132 | [76132-solipskier.json](./76132-solipskier.json) |
 | Solir | 332529 | [332529-solir.json](./332529-solir.json) |
@@ -13733,6 +13735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spiraling Snow | 246547 | [246547-spiraling-snow.json](./246547-spiraling-snow.json) |
 | Spire Horizon | 257687 | [257687-spire-horizon.json](./257687-spire-horizon.json) |
 | Spire Horizon Online | 304871 | [304871-spire-horizon-online.json](./304871-spire-horizon-online.json) |
+| Spire Horizon: Companion Expansion | 259496 | [259496-spire-horizon-companion-expansion.json](./259496-spire-horizon-companion-expansion.json) |
 | Spire of Ash | 396601 | [396601-spire-of-ash.json](./396601-spire-of-ash.json) |
 | Spire of Glory | 227947 | [227947-spire-of-glory.json](./227947-spire-of-glory.json) |
 | Spire of Lust & Fetish | 257953 | [257953-spire-of-lust-and-fetish.json](./257953-spire-of-lust-and-fetish.json) |
@@ -14839,6 +14842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stan | 326277 | [326277-stan.json](./326277-stan.json) |
 | StanÇact: Sexy Tenacious Girls | 264621 | [264621-stancact-sexy-tenacious-girls.json](./264621-stancact-sexy-tenacious-girls.json) |
 | Stand 'em Up | 152153 | [152153-stand-em-up.json](./152153-stand-em-up.json) |
+| Stand and Fight | 259448 | [259448-stand-and-fight.json](./259448-stand-and-fight.json) |
 | Stand By Me | 145432 | [145432-stand-by-me.json](./145432-stand-by-me.json) |
 | Stand My Heroes | 197377 | [197377-stand-my-heroes.json](./197377-stand-my-heroes.json) |
 | Stand O'Food | 66976 | [66976-stand-ofood.json](./66976-stand-ofood.json) |
