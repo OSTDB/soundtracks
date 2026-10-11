@@ -896,6 +896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gamedev Beatdown | 127986 | [127986-gamedev-beatdown.json](./127986-gamedev-beatdown.json) |
 | GameDev Clicker: Tap & Build | 411085 | [411085-gamedev-clicker-tap-and-build.json](./411085-gamedev-clicker-tap-and-build.json) |
 | Gamedev simulator | 130958 | [130958-gamedev-simulator.json](./130958-gamedev-simulator.json) |
+| GameDev Trash | 260573 | [260573-gamedev-trash.json](./260573-gamedev-trash.json) |
 | Gamedog | 292842 | [292842-gamedog.json](./292842-gamedog.json) |
 | Gamefest Puzzle Classic | 209592 | [209592-gamefest-puzzle-classic.json](./209592-gamefest-puzzle-classic.json) |
 | GameGuru | 59978 | [59978-gameguru.json](./59978-gameguru.json) |
@@ -4477,6 +4478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gosdooma | 292427 | [292427-gosdooma.json](./292427-gosdooma.json) |
 | Gosen-sou | 221413 | [221413-gosen-sou.json](./221413-gosen-sou.json) |
 | Gosick Rogue | 341909 | [341909-gosick-rogue.json](./341909-gosick-rogue.json) |
+| GoSickRogue | 260591 | [260591-gosickrogue.json](./260591-gosickrogue.json) |
 | Gospel of Eve | 225268 | [225268-gospel-of-eve.json](./225268-gospel-of-eve.json) |
 | Gossamer | 212184 | [212184-gossamer.json](./212184-gossamer.json) |
 | Gossamer Matrix | 211722 | [211722-gossamer-matrix.json](./211722-gossamer-matrix.json) |
