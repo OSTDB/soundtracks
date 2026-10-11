@@ -1666,6 +1666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Killing Kiss | 191905 | [191905-killing-kiss.json](./191905-killing-kiss.json) |
 | Killing Machine | 355234 | [355234-killing-machine.json](./355234-killing-machine.json) |
 | Killing Machine Loves Slime Prince | 300694 | [300694-killing-machine-loves-slime-prince.json](./300694-killing-machine-loves-slime-prince.json) |
+| Killing Machine: Movement | 263388 | [263388-killing-machine-movement.json](./263388-killing-machine-movement.json) |
 | Killing Moon | 74725 | [74725-killing-moon.json](./74725-killing-moon.json) |
 | Killing Room | 25254 | [25254-killing-room.json](./25254-killing-room.json) |
 | Killing Time | 4334 | [4334-killing-time.json](./4334-killing-time.json) |
@@ -3721,6 +3722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kung-Fu Taikun | 40220 | [40220-kung-fu-taikun.json](./40220-kung-fu-taikun.json) |
 | Kungen | 192690 | [192690-kungen.json](./192690-kungen.json) |
 | Kungfu | 274525 | [274525-kungfu.json](./274525-kungfu.json) |
+| KungFu | 263427 | [263427-kungfu.json](./263427-kungfu.json) |
 | Kungfu & Monster | 128951 | [128951-kungfu-and-monster.json](./128951-kungfu-and-monster.json) |
 | Kungfu 2 | 344993 | [344993-kungfu-2.json](./344993-kungfu-2.json) |
 | Kungfu Beggar | 75795 | [75795-kungfu-beggar.json](./75795-kungfu-beggar.json) |
