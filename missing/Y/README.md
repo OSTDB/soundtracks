@@ -957,6 +957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | YouTD 2 | 383589 | [383589-youtd-2.json](./383589-youtd-2.json) |
 | Youth Feather | 121705 | [121705-youth-feather.json](./121705-youth-feather.json) |
 | Youthink? | 102775 | [102775-youthink.json](./102775-youthink.json) |
+| Youtooz Presents: Five Nights at Freddy's | 265061 | [265061-youtooz-presents-five-nights-at-freddys.json](./265061-youtooz-presents-five-nights-at-freddys.json) |
 | YouTube Snake | 239129 | [239129-youtube-snake.json](./239129-youtube-snake.json) |
 | YouTube: Missile Command | 337716 | [337716-youtube-missile-command.json](./337716-youtube-missile-command.json) |
 | Youtuber Boys: Love Behind the Camera | 403722 | [403722-youtuber-boys-love-behind-the-camera.json](./403722-youtuber-boys-love-behind-the-camera.json) |
