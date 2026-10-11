@@ -433,6 +433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaga Assault | 58475 | [58475-galaga-assault.json](./58475-galaga-assault.json) |
 | Galaga Legions | 21347 | [21347-galaga-legions.json](./21347-galaga-legions.json) |
 | Galaga Legions DX | 10762 | [10762-galaga-legions-dx.json](./10762-galaga-legions-dx.json) |
+| Galaga Micro Player | 246301 | [246301-galaga-micro-player.json](./246301-galaga-micro-player.json) |
 | Galaga Remix | 21872 | [21872-galaga-remix.json](./21872-galaga-remix.json) |
 | Galaga Wars | 58309 | [58309-galaga-wars.json](./58309-galaga-wars.json) |
 | Galaga Wars+ | 291975 | [291975-galaga-wars.json](./291975-galaga-wars.json) |
