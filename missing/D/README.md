@@ -4272,6 +4272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deru | 258698 | [258698-deru.json](./258698-deru.json) |
 | Dervish | 13589 | [13589-dervish.json](./13589-dervish.json) |
 | Des Blood VR | 81472 | [81472-des-blood-vr.json](./81472-des-blood-vr.json) |
+| Des Racines et des Graines | 261724 | [261724-des-racines-et-des-graines.json](./261724-des-racines-et-des-graines.json) |
 | Desafio Quiz | 357376 | [357376-desafio-quiz.json](./357376-desafio-quiz.json) |
 | Desastre Colectivo | 135077 | [135077-desastre-colectivo.json](./135077-desastre-colectivo.json) |
 | Descend | 264044 | [264044-descend.json](./264044-descend.json) |
