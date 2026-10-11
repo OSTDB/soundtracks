@@ -10099,6 +10099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Craving Wisps | 403210 | [403210-craving-wisps.json](./403210-craving-wisps.json) |
 | Crawl | 11049 | [11049-crawl.json](./11049-crawl.json) |
 | Crawl | 295634 | [295634-crawl.json](./295634-crawl.json) |
+| Crawl On One | 249660 | [249660-crawl-on-one.json](./249660-crawl-on-one.json) |
 | Crawl Space | 186064 | [186064-crawl-space.json](./186064-crawl-space.json) |
 | Crawl Space: The Mansion | 74674 | [74674-crawl-space-the-mansion.json](./74674-crawl-space-the-mansion.json) |
 | Crawl Tactics | 211211 | [211211-crawl-tactics.json](./211211-crawl-tactics.json) |
