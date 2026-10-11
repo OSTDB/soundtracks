@@ -4519,6 +4519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Almistice | 274010 | [274010-almistice.json](./274010-almistice.json) |
 | Almond Ridge | 270753 | [270753-almond-ridge.json](./270753-almond-ridge.json) |
 | Almos a Dream Painter's Tale | 415125 | [415125-almos-a-dream-painters-tale.json](./415125-almos-a-dream-painters-tale.json) |
+| Almost | 244670 | [244670-almost.json](./244670-almost.json) |
 | Almost Alive | 105356 | [105356-almost-alive.json](./105356-almost-alive.json) |
 | Almost Heroic | 179538 | [179538-almost-heroic.json](./179538-almost-heroic.json) |
 | Almost Impossible! | 58303 | [58303-almost-impossible.json](./58303-almost-impossible.json) |
@@ -4800,6 +4801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alvastia Chronicles | 113623 | [113623-alvastia-chronicles.json](./113623-alvastia-chronicles.json) |
 | Alvegia Online | 218397 | [218397-alvegia-online.json](./218397-alvegia-online.json) |
 | Alveole | 164863 | [164863-alveole.json](./164863-alveole.json) |
+| Alveron: Withering Roots | 244651 | [244651-alveron-withering-roots.json](./244651-alveron-withering-roots.json) |
 | Alvin and the Chipmunks | 4669 | [4669-alvin-and-the-chipmunks.json](./4669-alvin-and-the-chipmunks.json) |
 | Alvin's Chipmunk Nut Goody Bars | 320993 | [320993-alvins-chipmunk-nut-goody-bars.json](./320993-alvins-chipmunk-nut-goody-bars.json) |
 | Alvo | 75119 | [75119-alvo.json](./75119-alvo.json) |
@@ -5480,6 +5482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ananias | 56898 | [56898-ananias.json](./56898-ananias.json) |
 | Ananke | 221293 | [221293-ananke.json](./221293-ananke.json) |
 | Ananse and the Pot of Wisdom | 251827 | [251827-ananse-and-the-pot-of-wisdom.json](./251827-ananse-and-the-pot-of-wisdom.json) |
+| Anant Shrankhla | 244664 | [244664-anant-shrankhla.json](./244664-anant-shrankhla.json) |
 | Anaon | 274031 | [274031-anaon.json](./274031-anaon.json) |
 | Anarch | 184403 | [184403-anarch.json](./184403-anarch.json) |
 | Anarchy | 201298 | [201298-anarchy.json](./201298-anarchy.json) |
@@ -8383,6 +8386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arkball | 102392 | [102392-arkball.json](./102392-arkball.json) |
 | Arkedo Series: 02 Swap! | 80166 | [80166-arkedo-series-02-swap.json](./80166-arkedo-series-02-swap.json) |
 | Arkell | 199453 | [199453-arkell.json](./199453-arkell.json) |
+| Arkem | 244684 | [244684-arkem.json](./244684-arkem.json) |
 | Arken | 177337 | [177337-arken.json](./177337-arken.json) |
 | Arker: The Legend of Ohm | 164864 | [164864-arker-the-legend-of-ohm.json](./164864-arker-the-legend-of-ohm.json) |
 | Arkfront | 182204 | [182204-arkfront.json](./182204-arkfront.json) |
@@ -10204,6 +10208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atmocity | 90077 | [90077-atmocity.json](./90077-atmocity.json) |
 | Atmoids | 92833 | [92833-atmoids.json](./92833-atmoids.json) |
 | Atmos | 398400 | [398400-atmos.json](./398400-atmos.json) |
+| Atmosfar | 244677 | [244677-atmosfar.json](./244677-atmosfar.json) |
 | Atmosfear: The Third Dimension | 324940 | [324940-atmosfear-the-third-dimension.json](./324940-atmosfear-the-third-dimension.json) |
 | Atmosfear: The Third Dimension | 73340 | [73340-atmosfear-the-third-dimension.json](./73340-atmosfear-the-third-dimension.json) |
 | Atmospheric Extinction | 259745 | [259745-atmospheric-extinction.json](./259745-atmospheric-extinction.json) |
