@@ -3958,6 +3958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze of Adventures | 81745 | [81745-maze-of-adventures.json](./81745-maze-of-adventures.json) |
 | Maze of Bears | 186321 | [186321-maze-of-bears.json](./186321-maze-of-bears.json) |
 | Maze of Doors | 414417 | [414417-maze-of-doors.json](./414417-maze-of-doors.json) |
+| Maze of Fear | 260590 | [260590-maze-of-fear.json](./260590-maze-of-fear.json) |
 | Maze of Flott | 266672 | [266672-maze-of-flott.json](./266672-maze-of-flott.json) |
 | Maze of Infection | 93719 | [93719-maze-of-infection.json](./93719-maze-of-infection.json) |
 | Maze of Mayhem | 329726 | [329726-maze-of-mayhem.json](./329726-maze-of-mayhem.json) |
@@ -9277,6 +9278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moloch Kombinat | 410886 | [410886-moloch-kombinat.json](./410886-moloch-kombinat.json) |
 | Moloch's Priest | 144244 | [144244-molochs-priest.json](./144244-molochs-priest.json) |
 | Moloko | 157006 | [157006-moloko.json](./157006-moloko.json) |
+| Molt | 260571 | [260571-molt.json](./260571-molt.json) |
 | Molten Horn | 243293 | [243293-molten-horn.json](./243293-molten-horn.json) |
 | Molten Winds: Open Editon | 288375 | [288375-molten-winds-open-editon.json](./288375-molten-winds-open-editon.json) |
 | Molytropia: Cloud in Shape of Hurt | 220679 | [220679-molytropia-cloud-in-shape-of-hurt.json](./220679-molytropia-cloud-in-shape-of-hurt.json) |
@@ -10539,6 +10541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moribund | 27882 | [27882-moribund.json](./27882-moribund.json) |
 | Moribund Gold: A Pirate Adventure | 401054 | [401054-moribund-gold-a-pirate-adventure.json](./401054-moribund-gold-a-pirate-adventure.json) |
 | Moribunderland | 183964 | [183964-moribunderland.json](./183964-moribunderland.json) |
+| Morigami | 260613 | [260613-morigami.json](./260613-morigami.json) |
 | Morikomori Life | 262977 | [262977-morikomori-life.json](./262977-morikomori-life.json) |
 | Morimiya Middle School Shooting | 134131 | [134131-morimiya-middle-school-shooting.json](./134131-morimiya-middle-school-shooting.json) |
 | Morita Kazuo no Shogi | 48817 | [48817-morita-kazuo-no-shogi.json](./48817-morita-kazuo-no-shogi.json) |
