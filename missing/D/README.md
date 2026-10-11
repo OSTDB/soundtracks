@@ -1767,6 +1767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Day in the Life | 177323 | [177323-day-in-the-life.json](./177323-day-in-the-life.json) |
 | Day Island | 135747 | [135747-day-island.json](./135747-day-island.json) |
 | Day of Atonement | 307889 | [307889-day-of-atonement.json](./307889-day-of-atonement.json) |
+| Day Of Dead | 246856 | [246856-day-of-dead.json](./246856-day-of-dead.json) |
 | Day of Defeat | 7551 | [7551-day-of-defeat.json](./7551-day-of-defeat.json) |
 | Day of Destruction | 81328 | [81328-day-of-destruction.json](./81328-day-of-destruction.json) |
 | Day of Dragons: Acid Spitter Drake | 170364 | [170364-day-of-dragons-acid-spitter-drake.json](./170364-day-of-dragons-acid-spitter-drake.json) |
@@ -6030,6 +6031,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dirappen Restoration | 265700 | [265700-dirappen-restoration.json](./265700-dirappen-restoration.json) |
 | Dire | 182830 | [182830-dire.json](./182830-dire.json) |
 | Dire Destiny: Time Travel | 217227 | [217227-dire-destiny-time-travel.json](./217227-dire-destiny-time-travel.json) |
+| Dire Destiny: Time Travel-Gambler | 246841 | [246841-dire-destiny-time-travel-gambler.json](./246841-dire-destiny-time-travel-gambler.json) |
+| Dire Destiny: Time Travel-Mech Pilot | 246842 | [246842-dire-destiny-time-travel-mech-pilot.json](./246842-dire-destiny-time-travel-mech-pilot.json) |
 | Dire Echo | 376541 | [376541-dire-echo.json](./376541-dire-echo.json) |
 | Dire Island | 290482 | [290482-dire-island.json](./290482-dire-island.json) |
 | Dire Vengeance | 170344 | [170344-dire-vengeance.json](./170344-dire-vengeance.json) |
@@ -6109,6 +6112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dirty Phrase Frenzy | 104718 | [104718-dirty-phrase-frenzy.json](./104718-dirty-phrase-frenzy.json) |
 | Dirty Piano Lessons | 371387 | [371387-dirty-piano-lessons.json](./371387-dirty-piano-lessons.json) |
 | Dirty Piggy | 364995 | [364995-dirty-piggy.json](./364995-dirty-piggy.json) |
+| Dirty Room: Chapter 4 | 246843 | [246843-dirty-room-chapter-4.json](./246843-dirty-room-chapter-4.json) |
 | Dirty Rotten Bounders | 285023 | [285023-dirty-rotten-bounders.json](./285023-dirty-rotten-bounders.json) |
 | Dirty Streamer Puzzle | 244832 | [244832-dirty-streamer-puzzle.json](./244832-dirty-streamer-puzzle.json) |
 | Dirty Teachers | 368091 | [368091-dirty-teachers.json](./368091-dirty-teachers.json) |
@@ -6423,8 +6427,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney Speedstorm: Buzz Lightyear Pack | 366995 | [366995-disney-speedstorm-buzz-lightyear-pack.json](./366995-disney-speedstorm-buzz-lightyear-pack.json) |
 | Disney Speedstorm: Season 8 - Journey of Emotions | 310114 | [310114-disney-speedstorm-season-8-journey-of-emotions.json](./310114-disney-speedstorm-season-8-journey-of-emotions.json) |
 | Disney Speedstorm: Special Pack | 374697 | [374697-disney-speedstorm-special-pack.json](./374697-disney-speedstorm-special-pack.json) |
+| Disney Speedstorm: Standard Founder's Pack | 246844 | [246844-disney-speedstorm-standard-founders-pack.json](./246844-disney-speedstorm-standard-founders-pack.json) |
 | Disney Speedstorm: Sulley Pack | 366992 | [366992-disney-speedstorm-sulley-pack.json](./366992-disney-speedstorm-sulley-pack.json) |
 | Disney Speedstorm: The Genie Pack | 366991 | [366991-disney-speedstorm-the-genie-pack.json](./366991-disney-speedstorm-the-genie-pack.json) |
+| Disney Speedstorm: Ultimate Founder's Pack | 246845 | [246845-disney-speedstorm-ultimate-founders-pack.json](./246845-disney-speedstorm-ultimate-founders-pack.json) |
 | Disney Speedstorm: Welcome Pack | 366988 | [366988-disney-speedstorm-welcome-pack.json](./366988-disney-speedstorm-welcome-pack.json) |
 | Disney SpellStruck | 248583 | [248583-disney-spellstruck.json](./248583-disney-spellstruck.json) |
 | Disney Sports Basketball | 243192 | [243192-disney-sports-basketball.json](./243192-disney-sports-basketball.json) |
@@ -7557,6 +7563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don Dim Dum | 248899 | [248899-don-dim-dum.json](./248899-don-dim-dum.json) |
 | Don Doko Don 2 | 48696 | [48696-don-doko-don-2.json](./48696-don-doko-don-2.json) |
 | Don Duality | 234640 | [234640-don-duality.json](./234640-don-duality.json) |
+| Don Duality: Initiation | 246847 | [246847-don-duality-initiation.json](./246847-don-duality-initiation.json) |
 | Don Flatus: Poop Hunter | 157478 | [157478-don-flatus-poop-hunter.json](./157478-don-flatus-poop-hunter.json) |
 | Don Juan | 13602 | [13602-don-juan.json](./13602-don-juan.json) |
 | Don King Boxing | 21289 | [21289-don-king-boxing.json](./21289-don-king-boxing.json) |
@@ -8688,6 +8695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr Nakamoto's Digital Eggs | 200039 | [200039-dr-nakamotos-digital-eggs.json](./200039-dr-nakamotos-digital-eggs.json) |
 | Dr Scrime's Spook School | 13607 | [13607-dr-scrimes-spook-school.json](./13607-dr-scrimes-spook-school.json) |
 | Dr Smart Space Encyclopedia | 242046 | [242046-dr-smart-space-encyclopedia.json](./242046-dr-smart-space-encyclopedia.json) |
+| Dr Wan | 246849 | [246849-dr-wan.json](./246849-dr-wan.json) |
 | Dr. Awesome, MicroSurgeon M.D. | 70567 | [70567-dr-awesome-microsurgeon-m-d.json](./70567-dr-awesome-microsurgeon-m-d.json) |
 | Dr. Bloodshot | 311041 | [311041-dr-bloodshot.json](./311041-dr-bloodshot.json) |
 | Dr. Bon Bon Puzzle | 229346 | [229346-dr-bon-bon-puzzle.json](./229346-dr-bon-bon-puzzle.json) |
