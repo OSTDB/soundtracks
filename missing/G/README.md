@@ -597,6 +597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy Trek | 197717 | [197717-galaxy-trek.json](./197717-galaxy-trek.json) |
 | Galaxy Trek | 285458 | [285458-galaxy-trek.json](./285458-galaxy-trek.json) |
 | Galaxy Trucker | 60538 | [60538-galaxy-trucker.json](./60538-galaxy-trucker.json) |
+| Galaxy War: The New Colony | 249658 | [249658-galaxy-war-the-new-colony.json](./249658-galaxy-war-the-new-colony.json) |
 | Galaxy Warfighter | 131984 | [131984-galaxy-warfighter.json](./131984-galaxy-warfighter.json) |
 | Galaxy Warrior | 152319 | [152319-galaxy-warrior.json](./152319-galaxy-warrior.json) |
 | Galaxy Wars 4 | 385552 | [385552-galaxy-wars-4.json](./385552-galaxy-wars-4.json) |
@@ -1566,6 +1567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geki Atsu!! Pachige Damashii Vol.2: Evangelion - Shinjitsu no Tsubasa | 178404 | [178404-geki-atsu-pachige-damashii-vol-2-evangelion-shinjitsu-no-tsubasa.json](./178404-geki-atsu-pachige-damashii-vol-2-evangelion-shinjitsu-no-tsubasa.json) |
 | Geki Kuukan Pro Baseball: At the End of the Century 1999 | 302700 | [302700-geki-kuukan-pro-baseball-at-the-end-of-the-century-1999.json](./302700-geki-kuukan-pro-baseball-at-the-end-of-the-century-1999.json) |
 | Geki Yaba Runner Habanero | 222389 | [222389-geki-yaba-runner-habanero.json](./222389-geki-yaba-runner-habanero.json) |
+| Gekiatsu!! Pachige Tamashii Max Evangelion 7 x Seimei no Kodou | 249698 | [249698-gekiatsu-pachige-tamashii-max-evangelion-7-x-seimei-no-kodou.json](./249698-gekiatsu-pachige-tamashii-max-evangelion-7-x-seimei-no-kodou.json) |
 | Gekibo: Gekisha Boy | 43199 | [43199-gekibo-gekisha-boy.json](./43199-gekibo-gekisha-boy.json) |
 | Gekiden Youitan: Ep.1 | 83244 | [83244-gekiden-youitan-ep-1.json](./83244-gekiden-youitan-ep-1.json) |
 | Gekifu Bakegyamon: Ayakashi Fighting | 61346 | [61346-gekifu-bakegyamon-ayakashi-fighting.json](./61346-gekifu-bakegyamon-ayakashi-fighting.json) |
@@ -2869,6 +2871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girls' RPG: Cinderella Life | 92477 | [92477-girls-rpg-cinderella-life.json](./92477-girls-rpg-cinderella-life.json) |
 | Girp | 137545 | [137545-girp.json](./137545-girp.json) |
 | GiseiHero | 149096 | [149096-giseihero.json](./149096-giseihero.json) |
+| Giselle | 249703 | [249703-giselle.json](./249703-giselle.json) |
 | Gish | 8384 | [8384-gish.json](./8384-gish.json) |
 | Git Gud | 330269 | [330269-git-gud.json](./330269-git-gud.json) |
 | Git Up! | 335498 | [335498-git-up.json](./335498-git-up.json) |
