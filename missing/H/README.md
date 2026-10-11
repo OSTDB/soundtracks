@@ -804,6 +804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Handsome Mr. Frog | 31905 | [31905-handsome-mr-frog.json](./31905-handsome-mr-frog.json) |
 | HandsON | 158232 | [158232-handson.json](./158232-handson.json) |
 | Handwalk | 402355 | [402355-handwalk.json](./402355-handwalk.json) |
+| Handwriting Fantasy | 244658 | [244658-handwriting-fantasy.json](./244658-handwriting-fantasy.json) |
 | Handwriting HD | 93838 | [93838-handwriting-hd.json](./93838-handwriting-hd.json) |
 | Handy | 120835 | [120835-handy.json](./120835-handy.json) |
 | Handy Farm: Roguelike | 385602 | [385602-handy-farm-roguelike.json](./385602-handy-farm-roguelike.json) |
@@ -5017,6 +5018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hired Ops | 35145 | [35145-hired-ops.json](./35145-hired-ops.json) |
 | Hired Stars | 373169 | [373169-hired-stars.json](./373169-hired-stars.json) |
 | Hired Team: Trial Gold | 73849 | [73849-hired-team-trial-gold.json](./73849-hired-team-trial-gold.json) |
+| Hired: Assassin Simulator | 244673 | [244673-hired-assassin-simulator.json](./244673-hired-assassin-simulator.json) |
 | Hirilun | 151062 | [151062-hirilun.json](./151062-hirilun.json) |
 | Hiro's Harvest Season | 76532 | [76532-hiros-harvest-season.json](./76532-hiros-harvest-season.json) |
 | Hirocato: The Delivery Hero | 253934 | [253934-hirocato-the-delivery-hero.json](./253934-hirocato-the-delivery-hero.json) |
