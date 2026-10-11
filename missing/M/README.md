@@ -523,6 +523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mafia Romania | 369676 | [369676-mafia-romania.json](./369676-mafia-romania.json) |
 | Mafia Rush | 20727 | [20727-mafia-rush.json](./20727-mafia-rush.json) |
 | Mafia Simulator | 304570 | [304570-mafia-simulator.json](./304570-mafia-simulator.json) |
+| Mafia Thief | 277870 | [277870-mafia-thief.json](./277870-mafia-thief.json) |
 | Mafia Transporter 3D - Transportation Simulator for Mafia Racing Drivers 9+ | 88379 | [88379-mafia-transporter-3d-transportation-simulator-for-mafia-racing-drivers-9.json](./88379-mafia-transporter-3d-transportation-simulator-for-mafia-racing-drivers-9.json) |
 | Mafia Wars | 52206 | [52206-mafia-wars.json](./52206-mafia-wars.json) |
 | Mafia Wars Shakedown | 65555 | [65555-mafia-wars-shakedown.json](./65555-mafia-wars-shakedown.json) |
@@ -7402,6 +7403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mind Over Matter | 209508 | [209508-mind-over-matter.json](./209508-mind-over-matter.json) |
 | Mind Over Melee Radio | 169768 | [169768-mind-over-melee-radio.json](./169768-mind-over-melee-radio.json) |
 | Mind Over Monarchy | 347339 | [347339-mind-over-monarchy.json](./347339-mind-over-monarchy.json) |
+| Mind Palace | 277775 | [277775-mind-palace.json](./277775-mind-palace.json) |
 | Mind Palace | 307594 | [307594-mind-palace.json](./307594-mind-palace.json) |
 | Mind Parasitic | 412901 | [412901-mind-parasitic.json](./412901-mind-parasitic.json) |
 | Mind Prober | 71750 | [71750-mind-prober.json](./71750-mind-prober.json) |
@@ -8391,6 +8393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miss Mantis | 307288 | [307288-miss-mantis.json](./307288-miss-mantis.json) |
 | Miss Moonlight | 305354 | [305354-miss-moonlight.json](./305354-miss-moonlight.json) |
 | Miss Neko | 127915 | [127915-miss-neko.json](./127915-miss-neko.json) |
+| Miss Neko: Pirates | 277783 | [277783-miss-neko-pirates.json](./277783-miss-neko-pirates.json) |
 | Miss Paint | 285565 | [285565-miss-paint.json](./285565-miss-paint.json) |
 | Miss Paint: Part 1 | 275142 | [275142-miss-paint-part-1.json](./275142-miss-paint-part-1.json) |
 | Miss Peach | 264593 | [264593-miss-peach.json](./264593-miss-peach.json) |
@@ -13175,6 +13178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mycubium | 356294 | [356294-mycubium.json](./356294-mycubium.json) |
 | MyDear.exe | 399763 | [399763-mydear-exe.json](./399763-mydear-exe.json) |
 | MyDearest.exe | 391745 | [391745-mydearest-exe.json](./391745-mydearest-exe.json) |
+| Mydhia Online | 277878 | [277878-mydhia-online.json](./277878-mydhia-online.json) |
 | MyDream | 35794 | [35794-mydream.json](./35794-mydream.json) |
 | MyDU | 365704 | [365704-mydu.json](./365704-mydu.json) |
 | Myeong Wol | 125894 | [125894-myeong-wol.json](./125894-myeong-wol.json) |
