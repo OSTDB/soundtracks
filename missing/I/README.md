@@ -408,6 +408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Will Be There | 180634 | [180634-i-will-be-there.json](./180634-i-will-be-there.json) |
 | I Will Be Your Eyes | 126649 | [126649-i-will-be-your-eyes.json](./126649-i-will-be-your-eyes.json) |
 | I Will Become a Swordsman | 284343 | [284343-i-will-become-a-swordsman.json](./284343-i-will-become-a-swordsman.json) |
+| I will Blow up the Earth Muahahahahahahaha!!! | 239565 | [239565-i-will-blow-up-the-earth-muahahahahahahaha.json](./239565-i-will-blow-up-the-earth-muahahahahahahaha.json) |
 | I Will Definitely Be the CEO! | 400969 | [400969-i-will-definitely-be-the-ceo.json](./400969-i-will-definitely-be-the-ceo.json) |
 | I Will Drown A Guy | 385891 | [385891-i-will-drown-a-guy.json](./385891-i-will-drown-a-guy.json) |
 | I will eat you | 126957 | [126957-i-will-eat-you.json](./126957-i-will-eat-you.json) |
@@ -454,6 +455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I.Q Intelligent Qube | 215363 | [215363-i-q-intelligent-qube.json](./215363-i-q-intelligent-qube.json) |
 | I.Q Mania | 72151 | [72151-i-q-mania.json](./72151-i-q-mania.json) |
 | I.Q Remix+: Intelligent Qube | 78295 | [78295-i-q-remix-intelligent-qube.json](./78295-i-q-remix-intelligent-qube.json) |
+| I.R.P. Intelligent Rackety Paradise | 239532 | [239532-i-r-p-intelligent-rackety-paradise.json](./239532-i-r-p-intelligent-rackety-paradise.json) |
 | I.Rule | 208402 | [208402-i-rule.json](./208402-i-rule.json) |
 | I.S.I.S. | 316922 | [316922-i-s-i-s.json](./316922-i-s-i-s.json) |
 | I.T Never Ends | 388373 | [388373-i-t-never-ends.json](./388373-i-t-never-ends.json) |
