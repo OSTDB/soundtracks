@@ -9543,6 +9543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Punisher: No Mercy | 21287 | [21287-the-punisher-no-mercy.json](./21287-the-punisher-no-mercy.json) |
 | The Punisher: The Ultimate Payback! | 49028 | [49028-the-punisher-the-ultimate-payback.json](./49028-the-punisher-the-ultimate-payback.json) |
 | The Puppet Master | 30910 | [30910-the-puppet-master.json](./30910-the-puppet-master.json) |
+| The Puppeteer | 252010 | [252010-the-puppeteer.json](./252010-the-puppeteer.json) |
 | The Pure Bundle | 82409 | [82409-the-pure-bundle.json](./82409-the-pure-bundle.json) |
 | The Pure Wargame | 72279 | [72279-the-pure-wargame.json](./72279-the-pure-wargame.json) |
 | The Purgatory and the Stolen Souls | 239285 | [239285-the-purgatory-and-the-stolen-souls.json](./239285-the-purgatory-and-the-stolen-souls.json) |
@@ -12517,6 +12518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | They See Us | 342780 | [342780-they-see-us.json](./342780-they-see-us.json) |
 | They Sold a Million 3 | 70061 | [70061-they-sold-a-million-3.json](./70061-they-sold-a-million-3.json) |
 | They Sold a Million II | 73335 | [73335-they-sold-a-million-ii.json](./73335-they-sold-a-million-ii.json) |
+| They Speak From The Abyss: Zenith | 252033 | [252033-they-speak-from-the-abyss-zenith.json](./252033-they-speak-from-the-abyss-zenith.json) |
 | They Started It | 181224 | [181224-they-started-it.json](./181224-they-started-it.json) |
 | They Stop for Gas at Night | 404445 | [404445-they-stop-for-gas-at-night.json](./404445-they-stop-for-gas-at-night.json) |
 | They That Feast | 113036 | [113036-they-that-feast.json](./113036-they-that-feast.json) |
@@ -17371,6 +17373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toys Moto | 107664 | [107664-toys-moto.json](./107664-toys-moto.json) |
 | Toys Pop | 101078 | [101078-toys-pop.json](./101078-toys-pop.json) |
 | Toys vs. Monsters | 85451 | [85451-toys-vs-monsters.json](./85451-toys-vs-monsters.json) |
+| Toys vs. Nightmares | 252060 | [252060-toys-vs-nightmares.json](./252060-toys-vs-nightmares.json) |
 | Toys: Crash Arena | 221396 | [221396-toys-crash-arena.json](./221396-toys-crash-arena.json) |
 | ToyShot VR | 112982 | [112982-toyshot-vr.json](./112982-toyshot-vr.json) |
 | Toytopia | 273291 | [273291-toytopia.json](./273291-toytopia.json) |
@@ -18770,6 +18773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trauma: Broken Paradise | 238494 | [238494-trauma-broken-paradise.json](./238494-trauma-broken-paradise.json) |
 | TraumaCore Violence | 236518 | [236518-traumacore-violence.json](./236518-traumacore-violence.json) |
 | Traumada | 199363 | [199363-traumada.json](./199363-traumada.json) |
+| Traumakt-4.Sexe | 252035 | [252035-traumakt-4-sexe.json](./252035-traumakt-4-sexe.json) |
 | Traumatarium | 268457 | [268457-traumatarium.json](./268457-traumatarium.json) |
 | Traumatarium: Penitent | 307745 | [307745-traumatarium-penitent.json](./307745-traumatarium-penitent.json) |
 | Träumerei: Chapter 0 | 280929 | [280929-traumerei-chapter-0.json](./280929-traumerei-chapter-0.json) |
