@@ -73,6 +73,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Am Not What Remains | 176498 | [176498-i-am-not-what-remains.json](./176498-i-am-not-what-remains.json) |
 | I Am Overburdened | 74212 | [74212-i-am-overburdened.json](./74212-i-am-overburdened.json) |
 | I Am Part-time Worker!! | 303549 | [303549-i-am-part-time-worker.json](./303549-i-am-part-time-worker.json) |
+| I am Rabbit | 256727 | [256727-i-am-rabbit.json](./256727-i-am-rabbit.json) |
 | I Am Reptile | 345086 | [345086-i-am-reptile.json](./345086-i-am-reptile.json) |
 | I Am Ripper | 342772 | [342772-i-am-ripper.json](./342772-i-am-ripper.json) |
 | I Am Robot | 340499 | [340499-i-am-robot.json](./340499-i-am-robot.json) |
@@ -2352,6 +2353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | InfiniSweeper | 375573 | [375573-infinisweeper.json](./375573-infinisweeper.json) |
 | Infinita Strada | 61682 | [61682-infinita-strada.json](./61682-infinita-strada.json) |
 | InfinitasDM | 30546 | [30546-infinitasdm.json](./30546-infinitasdm.json) |
+| Infinite Ancient: Room Escape | 256739 | [256739-infinite-ancient-room-escape.json](./256739-infinite-ancient-room-escape.json) |
 | Infinite Backrooms | 405531 | [405531-infinite-backrooms.json](./405531-infinite-backrooms.json) |
 | Infinite Ball Well | 384513 | [384513-infinite-ball-well.json](./384513-infinite-ball-well.json) |
 | Infinite Block Puzzle | 98792 | [98792-infinite-block-puzzle.json](./98792-infinite-block-puzzle.json) |
