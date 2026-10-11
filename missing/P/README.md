@@ -64,6 +64,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-01 | 267566 | [267566-pac-01.json](./267566-pac-01.json) |
 | Pac-Athlon | 320352 | [320352-pac-athlon.json](./320352-pac-athlon.json) |
 | Pac-Attack | 239188 | [239188-pac-attack.json](./239188-pac-attack.json) |
+| Pac-Attack | 240120 | [240120-pac-attack.json](./240120-pac-attack.json) |
+| Pac-Attack | 240122 | [240122-pac-attack.json](./240122-pac-attack.json) |
 | Pac-Attack | 282487 | [282487-pac-attack.json](./282487-pac-attack.json) |
 | Pac-Avoid | 62242 | [62242-pac-avoid.json](./62242-pac-avoid.json) |
 | Pac-Boy & Mouse | 86097 | [86097-pac-boy-and-mouse.json](./86097-pac-boy-and-mouse.json) |
@@ -1195,6 +1197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parable Academy | 346708 | [346708-parable-academy.json](./346708-parable-academy.json) |
 | Parables of the Set Apart: The Pursuit of Wisdom | 387530 | [387530-parables-of-the-set-apart-the-pursuit-of-wisdom.json](./387530-parables-of-the-set-apart-the-pursuit-of-wisdom.json) |
 | Parabolus | 82317 | [82317-parabolus.json](./82317-parabolus.json) |
+| Parabox | 240113 | [240113-parabox.json](./240113-parabox.json) |
 | Paracelsus no Maken | 112517 | [112517-paracelsus-no-maken.json](./112517-paracelsus-no-maken.json) |
 | Parachute | 40678 | [40678-parachute.json](./40678-parachute.json) |
 | Parachute 22 | 205098 | [205098-parachute-22.json](./205098-parachute-22.json) |
@@ -9362,6 +9365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pritto Prisoner: DLC Skin - Zoch | 381843 | [381843-pritto-prisoner-dlc-skin-zoch.json](./381843-pritto-prisoner-dlc-skin-zoch.json) |
 | Pritto Prisoner: Robot Skin - Bloody Pack | 381844 | [381844-pritto-prisoner-robot-skin-bloody-pack.json](./381844-pritto-prisoner-robot-skin-bloody-pack.json) |
 | Pritto Prisoner: Ultimate Poopie Edition | 381805 | [381805-pritto-prisoner-ultimate-poopie-edition.json](./381805-pritto-prisoner-ultimate-poopie-edition.json) |
+| Private Crusade | 240132 | [240132-private-crusade.json](./240132-private-crusade.json) |
 | Private Dance VR | 286534 | [286534-private-dance-vr.json](./286534-private-dance-vr.json) |
 | Private Detective Punch Drunk: PDPD | 77365 | [77365-private-detective-punch-drunk-pdpd.json](./77365-private-detective-punch-drunk-pdpd.json) |
 | Private Eye | 10999 | [10999-private-eye.json](./10999-private-eye.json) |
