@@ -10528,6 +10528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonak | 356648 | [356648-sonak.json](./356648-sonak.json) |
 | Sonar | 418276 | [418276-sonar.json](./418276-sonar.json) |
 | Sonar Beat | 113841 | [113841-sonar-beat.json](./113841-sonar-beat.json) |
+| Sonata | 271137 | [271137-sonata.json](./271137-sonata.json) |
 | Sonata Theory | 155028 | [155028-sonata-theory.json](./155028-sonata-theory.json) |
 | Sonatina | 305474 | [305474-sonatina.json](./305474-sonatina.json) |
 | Sonder: Lights of Little Tokyo | 219589 | [219589-sonder-lights-of-little-tokyo.json](./219589-sonder-lights-of-little-tokyo.json) |
@@ -14077,6 +14078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SporeBloom | 304716 | [304716-sporebloom.json](./304716-sporebloom.json) |
 | Sporeborn Dark | 272907 | [272907-sporeborn-dark.json](./272907-sporeborn-dark.json) |
 | Sporeborne | 367535 | [367535-sporeborne.json](./367535-sporeborne.json) |
+| Sporestory | 271126 | [271126-sporestory.json](./271126-sporestory.json) |
 | Sporos | 203314 | [203314-sporos.json](./203314-sporos.json) |
 | Sport & Fun: Swimming - Amazing Edition | 283165 | [283165-sport-and-fun-swimming-amazing-edition.json](./283165-sport-and-fun-swimming-amazing-edition.json) |
 | Sport & Fun: Swimming - Complete + | 328836 | [328836-sport-and-fun-swimming-complete.json](./328836-sport-and-fun-swimming-complete.json) |
@@ -18525,6 +18527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suiheisen made Nan Mile?: Deep Blue Sky & Pure White Wings | 59776 | [59776-suiheisen-made-nan-mile-deep-blue-sky-and-pure-white-wings.json](./59776-suiheisen-made-nan-mile-deep-blue-sky-and-pure-white-wings.json) |
 | Suika | 132085 | [132085-suika.json](./132085-suika.json) |
 | Suika Animal Kingdom | 322066 | [322066-suika-animal-kingdom.json](./322066-suika-animal-kingdom.json) |
+| Suika Combination | 271153 | [271153-suika-combination.json](./271153-suika-combination.json) |
 | Suika Dish More Plates | 276166 | [276166-suika-dish-more-plates.json](./276166-suika-dish-more-plates.json) |
 | Suika Game | 221740 | [221740-suika-game.json](./221740-suika-game.json) |
 | Suika Game But Bouncy | 300536 | [300536-suika-game-but-bouncy.json](./300536-suika-game-but-bouncy.json) |
@@ -19489,6 +19492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Hero VR | 99637 | [99637-super-hero-vr.json](./99637-super-hero-vr.json) |
 | Super Heroine Chronicle | 63311 | [63311-super-heroine-chronicle.json](./63311-super-heroine-chronicle.json) |
 | Super High Ball: Pinball Platformer | 133372 | [133372-super-high-ball-pinball-platformer.json](./133372-super-high-ball-pinball-platformer.json) |
+| Super High School Danger Course | 271128 | [271128-super-high-school-danger-course.json](./271128-super-high-school-danger-course.json) |
 | Super Hiking Simulator 2020: After | 172117 | [172117-super-hiking-simulator-2020-after.json](./172117-super-hiking-simulator-2020-after.json) |
 | Super Hiking Simulator 2020: Puzzles | 163422 | [163422-super-hiking-simulator-2020-puzzles.json](./163422-super-hiking-simulator-2020-puzzles.json) |
 | Super Hind | 44475 | [44475-super-hind.json](./44475-super-hind.json) |
@@ -22128,6 +22132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword Art Online: Hollow Realization Collector's Edition | 132182 | [132182-sword-art-online-hollow-realization-collectors-edition.json](./132182-sword-art-online-hollow-realization-collectors-edition.json) |
 | Sword Art Online: Integral Factor | 68441 | [68441-sword-art-online-integral-factor.json](./68441-sword-art-online-integral-factor.json) |
 | Sword Art Online: Last Recollection - Black Swordsman Swords Skins Set | 275831 | [275831-sword-art-online-last-recollection-black-swordsman-swords-skins-set.json](./275831-sword-art-online-last-recollection-black-swordsman-swords-skins-set.json) |
+| Sword Art Online: Last Recollection - Deluxe Edition | 271125 | [271125-sword-art-online-last-recollection-deluxe-edition.json](./271125-sword-art-online-last-recollection-deluxe-edition.json) |
 | Sword Art Online: Last Recollection - Digital Premium Edition | 271473 | [271473-sword-art-online-last-recollection-digital-premium-edition.json](./271473-sword-art-online-last-recollection-digital-premium-edition.json) |
 | Sword Art Online: Lost Song - Limited Edition | 313299 | [313299-sword-art-online-lost-song-limited-edition.json](./313299-sword-art-online-lost-song-limited-edition.json) |
 | Sword Art Online: Unleash Blading | 318998 | [318998-sword-art-online-unleash-blading.json](./318998-sword-art-online-unleash-blading.json) |
