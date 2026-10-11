@@ -701,6 +701,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ed, Edd n Eddy: The Mis-Edventures | 2722 | [2722-ed-edd-n-eddy-the-mis-edventures.json](./2722-ed-edd-n-eddy-the-mis-edventures.json) |
 | Ed, Edd n Eddy's Candy Machine Deluxe | 196798 | [196798-ed-edd-n-eddys-candy-machine-deluxe.json](./196798-ed-edd-n-eddys-candy-machine-deluxe.json) |
 | Edain Mod | 356216 | [356216-edain-mod.json](./356216-edain-mod.json) |
+| Edd the Duck | 265043 | [265043-edd-the-duck.json](./265043-edd-the-duck.json) |
+| Edd the Duck 2: Back with a Quack! | 265044 | [265044-edd-the-duck-2-back-with-a-quack.json](./265044-edd-the-duck-2-back-with-a-quack.json) |
 | Edd the Duck! | 79981 | [79981-edd-the-duck.json](./79981-edd-the-duck.json) |
 | Edda Café | 144115 | [144115-edda-cafe.json](./144115-edda-cafe.json) |
 | Edda Physics 1 | 389084 | [389084-edda-physics-1.json](./389084-edda-physics-1.json) |
@@ -1463,6 +1465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elephant Hunter Hunter | 133991 | [133991-elephant-hunter-hunter.json](./133991-elephant-hunter-hunter.json) |
 | Elephant Preschool Playtime | 108595 | [108595-elephant-preschool-playtime.json](./108595-elephant-preschool-playtime.json) |
 | Elephant Rave | 276834 | [276834-elephant-rave.json](./276834-elephant-rave.json) |
+| Elephant Rave 2 | 265084 | [265084-elephant-rave-2.json](./265084-elephant-rave-2.json) |
 | Elephantasy: Flipside | 235706 | [235706-elephantasy-flipside.json](./235706-elephantasy-flipside.json) |
 | Elepong | 69367 | [69367-elepong.json](./69367-elepong.json) |
 | Elerena | 153855 | [153855-elerena.json](./153855-elerena.json) |
@@ -1712,6 +1715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elvira: The Arcade Game | 39035 | [39035-elvira-the-arcade-game.json](./39035-elvira-the-arcade-game.json) |
 | Elvira's Horror Pack | 71476 | [71476-elviras-horror-pack.json](./71476-elviras-horror-pack.json) |
 | Elyndor | 402563 | [402563-elyndor.json](./402563-elyndor.json) |
+| Elysian Echoes | 265093 | [265093-elysian-echoes.json](./265093-elysian-echoes.json) |
 | Elysian Eclipse | 236282 | [236282-elysian-eclipse.json](./236282-elysian-eclipse.json) |
 | Elysian Siege | 351637 | [351637-elysian-siege.json](./351637-elysian-siege.json) |
 | Elysion 2: Genes of the saints | 225882 | [225882-elysion-2-genes-of-the-saints.json](./225882-elysion-2-genes-of-the-saints.json) |
