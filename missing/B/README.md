@@ -941,6 +941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ball of Adventure | 220051 | [220051-ball-of-adventure.json](./220051-ball-of-adventure.json) |
 | Ball of Paint | 334752 | [334752-ball-of-paint.json](./334752-ball-of-paint.json) |
 | Ball of Poo | 276855 | [276855-ball-of-poo.json](./276855-ball-of-poo.json) |
+| Ball of Woe | 253267 | [253267-ball-of-woe.json](./253267-ball-of-woe.json) |
 | Ball of Wonder | 31897 | [31897-ball-of-wonder.json](./31897-ball-of-wonder.json) |
 | Ball Out | 262962 | [262962-ball-out.json](./262962-ball-out.json) |
 | Ball Pain | 193465 | [193465-ball-pain.json](./193465-ball-pain.json) |
@@ -3533,6 +3534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beaver Fun | 216355 | [216355-beaver-fun.json](./216355-beaver-fun.json) |
 | Beaver Fun River Run: Steam Edition | 162715 | [162715-beaver-fun-river-run-steam-edition.json](./162715-beaver-fun-river-run-steam-edition.json) |
 | Beaver Rampage | 341543 | [341543-beaver-rampage.json](./341543-beaver-rampage.json) |
+| BeaverKarts | 253254 | [253254-beaverkarts.json](./253254-beaverkarts.json) |
 | Beavers | 12350 | [12350-beavers.json](./12350-beavers.json) |
 | Beavers Be Dammed | 81704 | [81704-beavers-be-dammed.json](./81704-beavers-be-dammed.json) |
 | Bebder Game: Bebder Than the Rest | 209389 | [209389-bebder-game-bebder-than-the-rest.json](./209389-bebder-game-bebder-than-the-rest.json) |
@@ -5386,6 +5388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bitcoin Bounce | 208314 | [208314-bitcoin-bounce.json](./208314-bitcoin-bounce.json) |
 | Bitcoin Collector | 53209 | [53209-bitcoin-collector.json](./53209-bitcoin-collector.json) |
 | Bitcoin Collector: Spinners Attack | 68665 | [68665-bitcoin-collector-spinners-attack.json](./68665-bitcoin-collector-spinners-attack.json) |
+| Bitcoin Escape | 253283 | [253283-bitcoin-escape.json](./253283-bitcoin-escape.json) |
 | Bitcoin highway | 83587 | [83587-bitcoin-highway.json](./83587-bitcoin-highway.json) |
 | Bitcoin Man Clicker | 251654 | [251654-bitcoin-man-clicker.json](./251654-bitcoin-man-clicker.json) |
 | Bitcoin Miner | 89602 | [89602-bitcoin-miner.json](./89602-bitcoin-miner.json) |
@@ -10136,6 +10139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Bobble The Revival | 335465 | [335465-bubble-bobble-the-revival.json](./335465-bubble-bobble-the-revival.json) |
 | Bubble Bobble: Return of Great Dragon | 321668 | [321668-bubble-bobble-return-of-great-dragon.json](./321668-bubble-bobble-return-of-great-dragon.json) |
 | Bubble Bobble: Sugar Dungeons - Deluxe Edition | 376241 | [376241-bubble-bobble-sugar-dungeons-deluxe-edition.json](./376241-bubble-bobble-sugar-dungeons-deluxe-edition.json) |
+| Bubble Box: 6 In 1 | 253257 | [253257-bubble-box-6-in-1.json](./253257-bubble-box-6-in-1.json) |
 | Bubble Boy | 59804 | [59804-bubble-boy.json](./59804-bubble-boy.json) |
 | Bubble Breaking | 168337 | [168337-bubble-breaking.json](./168337-bubble-breaking.json) |
 | Bubble Breeze Pop | 76633 | [76633-bubble-breeze-pop.json](./76633-bubble-breeze-pop.json) |
