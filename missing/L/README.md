@@ -196,6 +196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Labyrinth Master | 356672 | [356672-labyrinth-master.json](./356672-labyrinth-master.json) |
 | Labyrinth of Aetheria | 403615 | [403615-labyrinth-of-aetheria.json](./403615-labyrinth-of-aetheria.json) |
 | Labyrinth of Anxiety | 413128 | [413128-labyrinth-of-anxiety.json](./413128-labyrinth-of-anxiety.json) |
+| Labyrinth of Axarith | 244697 | [244697-labyrinth-of-axarith.json](./244697-labyrinth-of-axarith.json) |
 | Labyrinth of death | 191177 | [191177-labyrinth-of-death.json](./191177-labyrinth-of-death.json) |
 | Labyrinth of Eclipse | 314301 | [314301-labyrinth-of-eclipse.json](./314301-labyrinth-of-eclipse.json) |
 | Labyrinth of Galleria: The Moon Society - Great Boots Quest | 232466 | [232466-labyrinth-of-galleria-the-moon-society-great-boots-quest.json](./232466-labyrinth-of-galleria-the-moon-society-great-boots-quest.json) |
@@ -1112,6 +1113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lavender Station | 404205 | [404205-lavender-station.json](./404205-lavender-station.json) |
 | Lavender Woods | 185491 | [185491-lavender-woods.json](./185491-lavender-woods.json) |
 | Lavender's Botanicals | 295913 | [295913-lavenders-botanicals.json](./295913-lavenders-botanicals.json) |
+| Lavrock: Last Fortress | 244655 | [244655-lavrock-last-fortress.json](./244655-lavrock-last-fortress.json) |
 | Lavrynthos | 236907 | [236907-lavrynthos.json](./236907-lavrynthos.json) |
 | Law & Order II: Double or Nothing | 70027 | [70027-law-and-order-ii-double-or-nothing.json](./70027-law-and-order-ii-double-or-nothing.json) |
 | Law & Order: Legacies | 18874 | [18874-law-and-order-legacies.json](./18874-law-and-order-legacies.json) |
@@ -2652,6 +2654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Li'l Taffer | 323377 | [323377-lil-taffer.json](./323377-lil-taffer.json) |
 | Liam and the Disaster of the Week | 362205 | [362205-liam-and-the-disaster-of-the-week.json](./362205-liam-and-the-disaster-of-the-week.json) |
 | Liam FitzRoy Kills Everyone: The Game Part Zero | 278746 | [278746-liam-fitzroy-kills-everyone-the-game-part-zero.json](./278746-liam-fitzroy-kills-everyone-the-game-part-zero.json) |
+| Liam_99 | 244696 | [244696-liam-99.json](./244696-liam-99.json) |
 | Liam's Journey | 211686 | [211686-liams-journey.json](./211686-liams-journey.json) |
 | Lián Yīxiē Xiǎo Qīngxīn de Lièqí Gùshì | 128313 | [128313-lian-yixie-xiao-qingxin-de-lieqi-gushi.json](./128313-lian-yixie-xiao-qingxin-de-lieqi-gushi.json) |
 | Liàn yǔ wèi xiē zhī yǔ | 367448 | [367448-lian-yu-wei-xie-zhi-yu.json](./367448-lian-yu-wei-xie-zhi-yu.json) |
@@ -2982,6 +2985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Light of the Past | 199480 | [199480-light-of-the-past.json](./199480-light-of-the-past.json) |
 | Light of Tomorrow | 167667 | [167667-light-of-tomorrow.json](./167667-light-of-tomorrow.json) |
 | Light of Veilendor | 261779 | [261779-light-of-veilendor.json](./261779-light-of-veilendor.json) |
+| Light On | 244660 | [244660-light-on.json](./244660-light-on.json) |
 | Light on Earth | 383971 | [383971-light-on-earth.json](./383971-light-on-earth.json) |
 | Light Paradox | 190068 | [190068-light-paradox.json](./190068-light-paradox.json) |
 | Light Path | 292978 | [292978-light-path.json](./292978-light-path.json) |
