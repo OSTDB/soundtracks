@@ -3452,6 +3452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defendo | 305438 | [305438-defendo.json](./305438-defendo.json) |
 | Defendoooooor!! | 55229 | [55229-defendoooooor.json](./55229-defendoooooor.json) |
 | Defendron | 260378 | [260378-defendron.json](./260378-defendron.json) |
+| Defense Cards | 267298 | [267298-defense-cards.json](./267298-defense-cards.json) |
 | Defense Clicker | 74600 | [74600-defense-clicker.json](./74600-defense-clicker.json) |
 | Defense Corp: Earth | 113168 | [113168-defense-corp-earth.json](./113168-defense-corp-earth.json) |
 | Defense Derby | 247465 | [247465-defense-derby.json](./247465-defense-derby.json) |
@@ -4947,6 +4948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil's Island | 313102 | [313102-devils-island.json](./313102-devils-island.json) |
 | Devil's Island Pinball | 70331 | [70331-devils-island-pinball.json](./70331-devils-island-pinball.json) |
 | Devil's Kiss | 130127 | [130127-devils-kiss.json](./130127-devils-kiss.json) |
+| Devil's Mansion | 267318 | [267318-devils-mansion.json](./267318-devils-mansion.json) |
 | Devil's Menu | 372588 | [372588-devils-menu.json](./372588-devils-menu.json) |
 | Devil’s Propose | 254609 | [254609-devil-s-propose.json](./254609-devil-s-propose.json) |
 | Devil's Revenge | 69855 | [69855-devils-revenge.json](./69855-devils-revenge.json) |
@@ -6243,6 +6245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dishonest | 120934 | [120934-dishonest.json](./120934-dishonest.json) |
 | Dishonored 2: Collector's Edition | 136269 | [136269-dishonored-2-collectors-edition.json](./136269-dishonored-2-collectors-edition.json) |
 | Dishonored 2: Steelbook Edition | 308562 | [308562-dishonored-2-steelbook-edition.json](./308562-dishonored-2-steelbook-edition.json) |
+| Dishonored 3 | 267308 | [267308-dishonored-3.json](./267308-dishonored-3.json) |
 | Dishonored: Death of the Outsider | 37030 | [37030-dishonored-death-of-the-outsider.json](./37030-dishonored-death-of-the-outsider.json) |
 | Dishonored: Definitive Edition | 20863 | [20863-dishonored-definitive-edition.json](./20863-dishonored-definitive-edition.json) |
 | Dishonored: Void Walker Arsenal | 14571 | [14571-dishonored-void-walker-arsenal.json](./14571-dishonored-void-walker-arsenal.json) |
@@ -6627,6 +6630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dive! | 70110 | [70110-dive.json](./70110-dive.json) |
 | Divekick | 4759 | [4759-divekick.json](./4759-divekick.json) |
 | Divekick: Addition Edition + | 20226 | [20226-divekick-addition-edition.json](./20226-divekick-addition-edition.json) |
+| Diver | 267291 | [267291-diver.json](./267291-diver.json) |
 | Diver Boy | 39871 | [39871-diver-boy.json](./39871-diver-boy.json) |
 | Diver, Catch & Cook Simulator | 386212 | [386212-diver-catch-and-cook-simulator.json](./386212-diver-catch-and-cook-simulator.json) |
 | Diver: Deep Water Adventures | 63282 | [63282-diver-deep-water-adventures.json](./63282-diver-deep-water-adventures.json) |
@@ -7392,6 +7396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Domestic Dog | 36006 | [36006-domestic-dog.json](./36006-domestic-dog.json) |
 | Domestic Dog Simulator | 60358 | [60358-domestic-dog-simulator.json](./60358-domestic-dog-simulator.json) |
 | Domestic Elementalism | 207217 | [207217-domestic-elementalism.json](./207217-domestic-elementalism.json) |
+| Domestic Revolt | 267271 | [267271-domestic-revolt.json](./267271-domestic-revolt.json) |
 | DomiCard | 107904 | [107904-domicard.json](./107904-domicard.json) |
 | DomiDo | 118144 | [118144-domido.json](./118144-domido.json) |
 | Dominacy | 109058 | [109058-dominacy.json](./109058-dominacy.json) |
@@ -7920,6 +7925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doodle God: Fantasy World of Magic | 186346 | [186346-doodle-god-fantasy-world-of-magic.json](./186346-doodle-god-fantasy-world-of-magic.json) |
 | Doodle God: Genesis Secrets | 99617 | [99617-doodle-god-genesis-secrets.json](./99617-doodle-god-genesis-secrets.json) |
 | Doodle God: Merge Evolution | 334699 | [334699-doodle-god-merge-evolution.json](./334699-doodle-god-merge-evolution.json) |
+| Doodle Harmony | 267284 | [267284-doodle-harmony.json](./267284-doodle-harmony.json) |
 | Doodle Harmony Idle Merge | 303487 | [303487-doodle-harmony-idle-merge.json](./303487-doodle-harmony-idle-merge.json) |
 | Doodle Hex | 21475 | [21475-doodle-hex.json](./21475-doodle-hex.json) |
 | Doodle Hunt: Halloween Rush | 320331 | [320331-doodle-hunt-halloween-rush.json](./320331-doodle-hunt-halloween-rush.json) |
@@ -9268,6 +9274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Tavern | 62715 | [62715-dragon-tavern.json](./62715-dragon-tavern.json) |
 | Dragon Tax Return Simulator 2015 | 182973 | [182973-dragon-tax-return-simulator-2015.json](./182973-dragon-tax-return-simulator-2015.json) |
 | Dragon Title | 295804 | [295804-dragon-title.json](./295804-dragon-title.json) |
+| Dragon Tower | 267292 | [267292-dragon-tower.json](./267292-dragon-tower.json) |
 | Dragon Trails | 173289 | [173289-dragon-trails.json](./173289-dragon-trails.json) |
 | Dragon Tycoon Edge | 97321 | [97321-dragon-tycoon-edge.json](./97321-dragon-tycoon-edge.json) |
 | Dragon Up | 205060 | [205060-dragon-up.json](./205060-dragon-up.json) |
@@ -10438,6 +10445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drum Legend | 277023 | [277023-drum-legend.json](./277023-drum-legend.json) |
 | Drum Revolution | 337842 | [337842-drum-revolution.json](./337842-drum-revolution.json) |
 | Drumbeat Quest | 174229 | [174229-drumbeat-quest.json](./174229-drumbeat-quest.json) |
+| Drumblox | 267313 | [267313-drumblox.json](./267313-drumblox.json) |
 | Drumguy | 329050 | [329050-drumguy.json](./329050-drumguy.json) |
 | DrumMania 3rdMix | 188662 | [188662-drummania-3rdmix.json](./188662-drummania-3rdmix.json) |
 | Drump Simulator | 407362 | [407362-drump-simulator.json](./407362-drump-simulator.json) |
