@@ -1689,6 +1689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Important things | 412569 | [412569-important-things.json](./412569-important-things.json) |
 | Impossamole | 12611 | [12611-impossamole.json](./12611-impossamole.json) |
 | Impossiball | 26641 | [26641-impossiball.json](./26641-impossiball.json) |
+| Impossible | 272198 | [272198-impossible.json](./272198-impossible.json) |
 | Impossible Bottles | 105407 | [105407-impossible-bottles.json](./105407-impossible-bottles.json) |
 | Impossible Bunny Challenge | 272763 | [272763-impossible-bunny-challenge.json](./272763-impossible-bunny-challenge.json) |
 | Impossible Caves | 105927 | [105927-impossible-caves.json](./105927-impossible-caves.json) |
@@ -3151,6 +3152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | International Volleyball 2004 | 204700 | [204700-international-volleyball-2004.json](./204700-international-volleyball-2004.json) |
 | Internet Addicted Youth 2005 | 259080 | [259080-internet-addicted-youth-2005.json](./259080-internet-addicted-youth-2005.json) |
 | Internet Cafe 98 | 412441 | [412441-internet-cafe-98.json](./412441-internet-cafe-98.json) |
+| Internet Cafe Evolution | 272209 | [272209-internet-cafe-evolution.json](./272209-internet-cafe-evolution.json) |
 | Internet Cafe Manager 2025 | 323306 | [323306-internet-cafe-manager-2025.json](./323306-internet-cafe-manager-2025.json) |
 | Internet Cafe Simulator 2025 | 324999 | [324999-internet-cafe-simulator-2025.json](./324999-internet-cafe-simulator-2025.json) |
 | Internet Entrepreneurship Simulator | 348781 | [348781-internet-entrepreneurship-simulator.json](./348781-internet-entrepreneurship-simulator.json) |
