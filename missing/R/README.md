@@ -325,6 +325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Racing Heroes | 197338 | [197338-racing-heroes.json](./197338-racing-heroes.json) |
 | Racing in Car | 86989 | [86989-racing-in-car.json](./86989-racing-in-car.json) |
 | Racing in Car 2 | 100326 | [100326-racing-in-car-2.json](./100326-racing-in-car-2.json) |
+| Racing in Motor | 253278 | [253278-racing-in-motor.json](./253278-racing-in-motor.json) |
 | Racing Juke | 151097 | [151097-racing-juke.json](./151097-racing-juke.json) |
 | Racing Karts | 186913 | [186913-racing-karts.json](./186913-racing-karts.json) |
 | Racing Lagoon | 76182 | [76182-racing-lagoon.json](./76182-racing-lagoon.json) |
@@ -2480,6 +2481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red points | 111735 | [111735-red-points.json](./111735-red-points.json) |
 | Red Protocol | 412491 | [412491-red-protocol.json](./412491-red-protocol.json) |
 | Red Rebellion | 224554 | [224554-red-rebellion.json](./224554-red-rebellion.json) |
+| Red Remover Blast | 253266 | [253266-red-remover-blast.json](./253266-red-remover-blast.json) |
 | Red Riddles | 376135 | [376135-red-riddles.json](./376135-red-riddles.json) |
 | Red Riding Hood | 179695 | [179695-red-riding-hood.json](./179695-red-riding-hood.json) |
 | Red Riding Hood | 225309 | [225309-red-riding-hood.json](./225309-red-riding-hood.json) |
