@@ -13609,6 +13609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spiders | 46871 | [46871-spiders.json](./46871-spiders.json) |
 | Spiders Everywhere | 187375 | [187375-spiders-everywhere.json](./187375-spiders-everywhere.json) |
 | Spiders in the Bath | 256223 | [256223-spiders-in-the-bath.json](./256223-spiders-in-the-bath.json) |
+| Spidersilk | 262266 | [262266-spidersilk.json](./262266-spidersilk.json) |
 | Spidertronic | 302479 | [302479-spidertronic.json](./302479-spidertronic.json) |
 | Spidey & His Amazing Friends | 230277 | [230277-spidey-and-his-amazing-friends.json](./230277-spidey-and-his-amazing-friends.json) |
 | Spidle Tridle | 101730 | [101730-spidle-tridle.json](./101730-spidle-tridle.json) |
@@ -16908,6 +16909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stillwater Remastered | 280424 | [280424-stillwater-remastered.json](./280424-stillwater-remastered.json) |
 | Stillwell | 390600 | [390600-stillwell.json](./390600-stillwell.json) |
 | Stimmings | 264614 | [264614-stimmings.json](./264614-stimmings.json) |
+| Stimulants | 262268 | [262268-stimulants.json](./262268-stimulants.json) |
 | Stimulation Clicker | 327636 | [327636-stimulation-clicker.json](./327636-stimulation-clicker.json) |
 | Stimuli | 133226 | [133226-stimuli.json](./133226-stimuli.json) |
 | Sting | 230541 | [230541-sting.json](./230541-sting.json) |
@@ -18876,6 +18878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sun Haven: Toy Pack | 306511 | [306511-sun-haven-toy-pack.json](./306511-sun-haven-toy-pack.json) |
 | Sun Haven: Trick or Treat Pack | 272917 | [272917-sun-haven-trick-or-treat-pack.json](./272917-sun-haven-trick-or-treat-pack.json) |
 | Sun Is Dead | 294274 | [294274-sun-is-dead.json](./294274-sun-is-dead.json) |
+| Sun Lotion On My Curvy Asscheeks | 262269 | [262269-sun-lotion-on-my-curvy-asscheeks.json](./262269-sun-lotion-on-my-curvy-asscheeks.json) |
 | Sun Meadow | 385076 | [385076-sun-meadow.json](./385076-sun-meadow.json) |
 | Sun Meiqi Mystery: Yuer Hutong | 154922 | [154922-sun-meiqi-mystery-yuer-hutong.json](./154922-sun-meiqi-mystery-yuer-hutong.json) |
 | Sūn Měiqí Yí'àn: Dì-sān Jì | 149468 | [149468-sun-meiqi-yian-di-san-ji.json](./149468-sun-meiqi-yian-di-san-ji.json) |
@@ -21886,6 +21889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Baby Girl Summer Camp | 104489 | [104489-sweet-baby-girl-summer-camp.json](./104489-sweet-baby-girl-summer-camp.json) |
 | Sweet Bakery Tycoon | 150268 | [150268-sweet-bakery-tycoon.json](./150268-sweet-bakery-tycoon.json) |
 | Sweet Bakery Tycoon: Complete Edition | 284931 | [284931-sweet-bakery-tycoon-complete-edition.json](./284931-sweet-bakery-tycoon-complete-edition.json) |
+| Sweet Bakery Tycoon: Couch Co-op Edition | 262236 | [262236-sweet-bakery-tycoon-couch-co-op-edition.json](./262236-sweet-bakery-tycoon-couch-co-op-edition.json) |
 | Sweet Bakery Tycoon: Expansion Pack 1 | 237913 | [237913-sweet-bakery-tycoon-expansion-pack-1.json](./237913-sweet-bakery-tycoon-expansion-pack-1.json) |
 | Sweet Bakery Tycoon: Expansion Pack 2 | 237914 | [237914-sweet-bakery-tycoon-expansion-pack-2.json](./237914-sweet-bakery-tycoon-expansion-pack-2.json) |
 | Sweet Bakery Tycoon: Extended Edition | 213345 | [213345-sweet-bakery-tycoon-extended-edition.json](./213345-sweet-bakery-tycoon-extended-edition.json) |
