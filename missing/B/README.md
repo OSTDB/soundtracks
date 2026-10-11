@@ -473,6 +473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backyard NBA Basketball | 93185 | [93185-backyard-nba-basketball.json](./93185-backyard-nba-basketball.json) |
 | Backyard Paintball | 415453 | [415453-backyard-paintball.json](./415453-backyard-paintball.json) |
 | Backyard Parking 3D | 83579 | [83579-backyard-parking-3d.json](./83579-backyard-parking-3d.json) |
+| Backyard Rain Soundscape | 256207 | [256207-backyard-rain-soundscape.json](./256207-backyard-rain-soundscape.json) |
 | Backyard Skateboarding | 248633 | [248633-backyard-skateboarding.json](./248633-backyard-skateboarding.json) |
 | Backyard Skateboarding | 49312 | [49312-backyard-skateboarding.json](./49312-backyard-skateboarding.json) |
 | Backyard Skateboarding | 72939 | [72939-backyard-skateboarding.json](./72939-backyard-skateboarding.json) |
@@ -4775,6 +4776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bike Rampage! | 313776 | [313776-bike-rampage.json](./313776-bike-rampage.json) |
 | Bike Ride 3D | 283994 | [283994-bike-ride-3d.json](./283994-bike-ride-3d.json) |
 | Bike Rider DX3: Time Rider | 222357 | [222357-bike-rider-dx3-time-rider.json](./222357-bike-rider-dx3-time-rider.json) |
+| Bike Rivals | 256188 | [256188-bike-rivals.json](./256188-bike-rivals.json) |
 | Bike Rush | 227508 | [227508-bike-rush.json](./227508-bike-rush.json) |
 | Bike Rush | 73170 | [73170-bike-rush.json](./73170-bike-rush.json) |
 | Bike Stunt Master | 105960 | [105960-bike-stunt-master.json](./105960-bike-stunt-master.json) |
@@ -7401,6 +7403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boat Racer | 367594 | [367594-boat-racer.json](./367594-boat-racer.json) |
 | Boat Rage | 235377 | [235377-boat-rage.json](./235377-boat-rage.json) |
 | Boat Rescue Simulator Mobile | 228116 | [228116-boat-rescue-simulator-mobile.json](./228116-boat-rescue-simulator-mobile.json) |
+| Boat Sim | 256212 | [256212-boat-sim.json](./256212-boat-sim.json) |
 | Boat Sim Elite | 90595 | [90595-boat-sim-elite.json](./90595-boat-sim-elite.json) |
 | Boat Sim Pro | 101653 | [101653-boat-sim-pro.json](./101653-boat-sim-pro.json) |
 | Boat Simulator | 231082 | [231082-boat-simulator.json](./231082-boat-simulator.json) |
