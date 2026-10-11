@@ -10571,6 +10571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crime Spree | 42771 | [42771-crime-spree.json](./42771-crime-spree.json) |
 | Crime Stories: Days of Vengeance | 105247 | [105247-crime-stories-days-of-vengeance.json](./105247-crime-stories-days-of-vengeance.json) |
 | Crime Wave | 23837 | [23837-crime-wave.json](./23837-crime-wave.json) |
+| Crime Zone | 262240 | [262240-crime-zone.json](./262240-crime-zone.json) |
 | CrimeBloc | 347795 | [347795-crimebloc.json](./347795-crimebloc.json) |
 | CrimeBot 2: Unsolved Cold Case | 324862 | [324862-crimebot-2-unsolved-cold-case.json](./324862-crimebot-2-unsolved-cold-case.json) |
 | CrimeBound Chronicles | 345109 | [345109-crimebound-chronicles.json](./345109-crimebound-chronicles.json) |
@@ -12540,6 +12541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cybergenic Ranger: Secret of the 7th Planet | 74000 | [74000-cybergenic-ranger-secret-of-the-7th-planet.json](./74000-cybergenic-ranger-secret-of-the-7th-planet.json) |
 | CyberGladiators | 50149 | [50149-cybergladiators.json](./50149-cybergladiators.json) |
 | CyberGlide VR | 120319 | [120319-cyberglide-vr.json](./120319-cyberglide-vr.json) |
+| CyberGroove | 262263 | [262263-cybergroove.json](./262263-cybergroove.json) |
 | CyberHeroes Arena DX | 235300 | [235300-cyberheroes-arena-dx.json](./235300-cyberheroes-arena-dx.json) |
 | Cyberhold | 186156 | [186156-cyberhold.json](./186156-cyberhold.json) |
 | CyberHoney | 310171 | [310171-cyberhoney.json](./310171-cyberhoney.json) |
