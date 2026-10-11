@@ -1529,6 +1529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Data East's Arcade Alley | 84185 | [84185-data-easts-arcade-alley.json](./84185-data-easts-arcade-alley.json) |
 | Data East's Hoops | 97330 | [97330-data-easts-hoops.json](./97330-data-easts-hoops.json) |
 | Data Fantasy | 392127 | [392127-data-fantasy.json](./392127-data-fantasy.json) |
+| Data Garden | 272773 | [272773-data-garden.json](./272773-data-garden.json) |
 | Data Hacker: Corruption | 17954 | [17954-data-hacker-corruption.json](./17954-data-hacker-corruption.json) |
 | Data Hacker: Reboot | 10168 | [10168-data-hacker-reboot.json](./10168-data-hacker-reboot.json) |
 | Data Link: Cyberpunk Racing | 234328 | [234328-data-link-cyberpunk-racing.json](./234328-data-link-cyberpunk-racing.json) |
@@ -5811,6 +5812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino Tamers | 146333 | [146333-dino-tamers.json](./146333-dino-tamers.json) |
 | Dino Time Raiders | 388161 | [388161-dino-time-raiders.json](./388161-dino-time-raiders.json) |
 | Dino Tour VR | 286787 | [286787-dino-tour-vr.json](./286787-dino-tour-vr.json) |
+| Dino Tower Arena | 272768 | [272768-dino-tower-arena.json](./272768-dino-tower-arena.json) |
 | Dino Tribe: New Era | 309366 | [309366-dino-tribe-new-era.json](./309366-dino-tribe-new-era.json) |
 | Dino Wars | 23918 | [23918-dino-wars.json](./23918-dino-wars.json) |
 | Dino-D | 199479 | [199479-dino-d.json](./199479-dino-d.json) |
