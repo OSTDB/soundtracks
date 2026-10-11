@@ -1915,6 +1915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PathoBlasta VS | 276188 | [276188-pathoblasta-vs.json](./276188-pathoblasta-vs.json) |
 | Pathogen | 201641 | [201641-pathogen.json](./201641-pathogen.json) |
 | Pathogen | 213588 | [213588-pathogen.json](./213588-pathogen.json) |
+| Pathogen | 257288 | [257288-pathogen.json](./257288-pathogen.json) |
 | Pathogen Purge: Tower Defense | 273825 | [273825-pathogen-purge-tower-defense.json](./273825-pathogen-purge-tower-defense.json) |
 | Pathogen-X | 143064 | [143064-pathogen-x.json](./143064-pathogen-x.json) |
 | Pathogen: Code Omega | 400467 | [400467-pathogen-code-omega.json](./400467-pathogen-code-omega.json) |
@@ -3508,6 +3509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phobos Vector Prime | 108933 | [108933-phobos-vector-prime.json](./108933-phobos-vector-prime.json) |
 | Phobos Vector Prime: The First Ring | 111057 | [111057-phobos-vector-prime-the-first-ring.json](./111057-phobos-vector-prime-the-first-ring.json) |
 | Phobos: Anomaly Reborn | 255623 | [255623-phobos-anomaly-reborn.json](./255623-phobos-anomaly-reborn.json) |
+| Phobos: Relive The Nightmare | 257305 | [257305-phobos-relive-the-nightmare.json](./257305-phobos-relive-the-nightmare.json) |
 | PhobosDeimos Anomaly | 263449 | [263449-phobosdeimos-anomaly.json](./263449-phobosdeimos-anomaly.json) |
 | Phocas Island 2 | 256859 | [256859-phocas-island-2.json](./256859-phocas-island-2.json) |
 | Phoebe Bridgers Song Crafter | 179607 | [179607-phoebe-bridgers-song-crafter.json](./179607-phoebe-bridgers-song-crafter.json) |
