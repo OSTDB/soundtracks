@@ -2616,6 +2616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deal of the Dead Final Cut | 292769 | [292769-deal-of-the-dead-final-cut.json](./292769-deal-of-the-dead-final-cut.json) |
 | Deal or No Deal | 220081 | [220081-deal-or-no-deal.json](./220081-deal-or-no-deal.json) |
 | Deal or No Deal | 233990 | [233990-deal-or-no-deal.json](./233990-deal-or-no-deal.json) |
+| Deal or No Deal: Das Interaktive DVD-Spiel | 242434 | [242434-deal-or-no-deal-das-interaktive-dvd-spiel.json](./242434-deal-or-no-deal-das-interaktive-dvd-spiel.json) |
 | Deal or No Deal: DVD Game | 319737 | [319737-deal-or-no-deal-dvd-game.json](./319737-deal-or-no-deal-dvd-game.json) |
 | Deal or No Deal: Secret Vault Games | 209006 | [209006-deal-or-no-deal-secret-vault-games.json](./209006-deal-or-no-deal-secret-vault-games.json) |
 | Deal or No Deal: Special Edition | 51036 | [51036-deal-or-no-deal-special-edition.json](./51036-deal-or-no-deal-special-edition.json) |
