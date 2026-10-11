@@ -434,6 +434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madness of the Architect | 83550 | [83550-madness-of-the-architect.json](./83550-madness-of-the-architect.json) |
 | Madness of the Coastal Structure | 183340 | [183340-madness-of-the-coastal-structure.json](./183340-madness-of-the-coastal-structure.json) |
 | Madness of the Science | 346156 | [346156-madness-of-the-science.json](./346156-madness-of-the-science.json) |
+| Madness Project Nexus: Legacy of the S-3LF Eater | 269488 | [269488-madness-project-nexus-legacy-of-the-s-3lf-eater.json](./269488-madness-project-nexus-legacy-of-the-s-3lf-eater.json) |
 | Madness Retaliation | 123425 | [123425-madness-retaliation.json](./123425-madness-retaliation.json) |
 | Madness Starts Young | 386873 | [386873-madness-starts-young.json](./386873-madness-starts-young.json) |
 | MadnessMadnessMadness | 283738 | [283738-madnessmadnessmadness.json](./283738-madnessmadnessmadness.json) |
@@ -1140,6 +1141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magus Tower | 304721 | [304721-magus-tower.json](./304721-magus-tower.json) |
 | Magusian | 392390 | [392390-magusian.json](./392390-magusian.json) |
 | MaguSphere: Magical Cannon Girls | 122296 | [122296-magusphere-magical-cannon-girls.json](./122296-magusphere-magical-cannon-girls.json) |
+| MagusTale Eternity: Seikaiju to Koisuru Mahou Tsukai | 269498 | [269498-magustale-eternity-seikaiju-to-koisuru-mahou-tsukai.json](./269498-magustale-eternity-seikaiju-to-koisuru-mahou-tsukai.json) |
 | Magyarock VR | 198443 | [198443-magyarock-vr.json](./198443-magyarock-vr.json) |
 | Mah Jong Quest | 131399 | [131399-mah-jong-quest.json](./131399-mah-jong-quest.json) |
 | Mah Jong Solitaire 2 | 86699 | [86699-mah-jong-solitaire-2.json](./86699-mah-jong-solitaire-2.json) |
@@ -2697,6 +2699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marooned: Arcanus Island | 7445 | [7445-marooned-arcanus-island.json](./7445-marooned-arcanus-island.json) |
 | Marquee Candle | 350021 | [350021-marquee-candle.json](./350021-marquee-candle.json) |
 | Marriage or Pervert: The Small Penis Warrior & The Perverted Magician | 82909 | [82909-marriage-or-pervert-the-small-penis-warrior-and-the-perverted-magician.json](./82909-marriage-or-pervert-the-small-penis-warrior-and-the-perverted-magician.json) |
+| Marriage Royale: Prism Story | 269499 | [269499-marriage-royale-prism-story.json](./269499-marriage-royale-prism-story.json) |
 | Marriage to the Demon Wife! | 202197 | [202197-marriage-to-the-demon-wife.json](./202197-marriage-to-the-demon-wife.json) |
 | Married Girls' Night School | 249750 | [249750-married-girls-night-school.json](./249750-married-girls-night-school.json) |
 | Married in Red | 307253 | [307253-married-in-red.json](./307253-married-in-red.json) |
@@ -5702,6 +5705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mercenaries 2: World in Flames | 2684 | [2684-mercenaries-2-world-in-flames.json](./2684-mercenaries-2-world-in-flames.json) |
 | Mercenaries Blaze: Dawn of the Twin Dragons | 141648 | [141648-mercenaries-blaze-dawn-of-the-twin-dragons.json](./141648-mercenaries-blaze-dawn-of-the-twin-dragons.json) |
 | Mercenaries of Astonia | 115487 | [115487-mercenaries-of-astonia.json](./115487-mercenaries-of-astonia.json) |
+| Mercenaries of the Kingdom: First Blood | 269481 | [269481-mercenaries-of-the-kingdom-first-blood.json](./269481-mercenaries-of-the-kingdom-first-blood.json) |
 | Mercenaries of War | 323257 | [323257-mercenaries-of-war.json](./323257-mercenaries-of-war.json) |
 | Mercenaries Saga | 82082 | [82082-mercenaries-saga.json](./82082-mercenaries-saga.json) |
 | Mercenaries Saga 2 | 77691 | [77691-mercenaries-saga-2.json](./77691-mercenaries-saga-2.json) |
@@ -13355,6 +13359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Case Files: The Riddle of Mrs. Bishop - Collector's Edition | 360039 | [360039-mystery-case-files-the-riddle-of-mrs-bishop-collectors-edition.json](./360039-mystery-case-files-the-riddle-of-mrs-bishop-collectors-edition.json) |
 | Mystery Castle | 19889 | [19889-mystery-castle.json](./19889-mystery-castle.json) |
 | Mystery Cat | 257519 | [257519-mystery-cat.json](./257519-mystery-cat.json) |
+| Mystery Channel | 269502 | [269502-mystery-channel.json](./269502-mystery-channel.json) |
 | Mystery Chronicles: Murder Among Friends | 64727 | [64727-mystery-chronicles-murder-among-friends.json](./64727-mystery-chronicles-murder-among-friends.json) |
 | Mystery Chronicles: One Way Heroics | 124745 | [124745-mystery-chronicles-one-way-heroics.json](./124745-mystery-chronicles-one-way-heroics.json) |
 | Mystery Circle | 37916 | [37916-mystery-circle.json](./37916-mystery-circle.json) |
