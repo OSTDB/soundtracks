@@ -1674,6 +1674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gen.loss | 307213 | [307213-gen-loss.json](./307213-gen-loss.json) |
 | Genba no Kizuna | 235738 | [235738-genba-no-kizuna.json](./235738-genba-no-kizuna.json) |
 | Genbu's Favour | 322556 | [322556-genbus-favour.json](./322556-genbus-favour.json) |
+| Gendai Daisenryaku: Isshoku Sokuhatsu Gunji Balance Houkai | 269495 | [269495-gendai-daisenryaku-isshoku-sokuhatsu-gunji-balance-houkai.json](./269495-gendai-daisenryaku-isshoku-sokuhatsu-gunji-balance-houkai.json) |
 | Gendai Daisenryaku: Ultimate War | 231510 | [231510-gendai-daisenryaku-ultimate-war.json](./231510-gendai-daisenryaku-ultimate-war.json) |
 | Gender Dysphoria | 177502 | [177502-gender-dysphoria.json](./177502-gender-dysphoria.json) |
 | Gender Euphoria VN | 183906 | [183906-gender-euphoria-vn.json](./183906-gender-euphoria-vn.json) |
@@ -4364,6 +4365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goos Hunt | 337182 | [337182-goos-hunt.json](./337182-goos-hunt.json) |
 | Goose Goose Duck | 144442 | [144442-goose-goose-duck.json](./144442-goose-goose-duck.json) |
 | Goose Simulator | 199063 | [199063-goose-simulator.json](./199063-goose-simulator.json) |
+| Goose vs. Marine Apocalypse | 269472 | [269472-goose-vs-marine-apocalypse.json](./269472-goose-vs-marine-apocalypse.json) |
 | Goose.io | 130858 | [130858-goose-io.json](./130858-goose-io.json) |
 | Goosebumps HorrorTown | 100554 | [100554-goosebumps-horrortown.json](./100554-goosebumps-horrortown.json) |
 | Goosebumps Night of Scares | 79275 | [79275-goosebumps-night-of-scares.json](./79275-goosebumps-night-of-scares.json) |
@@ -6846,6 +6848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guntris | 311824 | [311824-guntris.json](./311824-guntris.json) |
 | Guntu Western Front June, 1944 | 62288 | [62288-guntu-western-front-june-1944.json](./62288-guntu-western-front-june-1944.json) |
 | Gunvein | 211693 | [211693-gunvein.json](./211693-gunvein.json) |
+| GunViper | 269484 | [269484-gunviper.json](./269484-gunviper.json) |
 | Gunvolt Chronicles: Luminous Avenger iX - Extra Mission: "VS ???" | 170842 | [170842-gunvolt-chronicles-luminous-avenger-ix-extra-mission-vs.json](./170842-gunvolt-chronicles-luminous-avenger-ix-extra-mission-vs.json) |
 | Gunvolt Chronicles: Luminous Avenger iX 2 - Jason Frudnick | 196153 | [196153-gunvolt-chronicles-luminous-avenger-ix-2-jason-frudnick.json](./196153-gunvolt-chronicles-luminous-avenger-ix-2-jason-frudnick.json) |
 | Gunvolt Chronicles: Luminous Avenger iX2 - Special DLC Boss: Kirin | 199931 | [199931-gunvolt-chronicles-luminous-avenger-ix2-special-dlc-boss-kirin.json](./199931-gunvolt-chronicles-luminous-avenger-ix2-special-dlc-boss-kirin.json) |
