@@ -18071,11 +18071,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strongblade: Match 3 Puzzle and Match-3 Adventure | 253848 | [253848-strongblade-match-3-puzzle-and-match-3-adventure.json](./253848-strongblade-match-3-puzzle-and-match-3-adventure.json) |
 | Strongford Penitentiary Lost Tape 91 | 285401 | [285401-strongford-penitentiary-lost-tape-91.json](./285401-strongford-penitentiary-lost-tape-91.json) |
 | Stronghold | 18539 | [18539-stronghold.json](./18539-stronghold.json) |
-| Stronghold | 965 | [965-stronghold.json](./965-stronghold.json) |
 | Stronghold 2 | 9460 | [9460-stronghold-2.json](./9460-stronghold-2.json) |
 | Stronghold 3 Gold | 54411 | [54411-stronghold-3-gold.json](./54411-stronghold-3-gold.json) |
 | Stronghold Collection | 21771 | [21771-stronghold-collection.json](./21771-stronghold-collection.json) |
-| Stronghold Crusader | 964 | [964-stronghold-crusader.json](./964-stronghold-crusader.json) |
 | Stronghold Crusader 2: Special Edition | 51936 | [51936-stronghold-crusader-2-special-edition.json](./51936-stronghold-crusader-2-special-edition.json) |
 | Stronghold Crusader HD | 29211 | [29211-stronghold-crusader-hd.json](./29211-stronghold-crusader-hd.json) |
 | Stronghold Crusader II: Delivering Justice mini-campaign | 87806 | [87806-stronghold-crusader-ii-delivering-justice-mini-campaign.json](./87806-stronghold-crusader-ii-delivering-justice-mini-campaign.json) |
