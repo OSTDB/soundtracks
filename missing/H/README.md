@@ -1045,6 +1045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Sumotori Dreams | 102237 | [102237-happy-sumotori-dreams.json](./102237-happy-sumotori-dreams.json) |
 | Happy Tails Zoo Keeper | 54077 | [54077-happy-tails-zoo-keeper.json](./54077-happy-tails-zoo-keeper.json) |
 | Happy Telepathy | 286218 | [286218-happy-telepathy.json](./286218-happy-telepathy.json) |
+| Happy Tennis | 246282 | [246282-happy-tennis.json](./246282-happy-tennis.json) |
 | Happy Time | 362282 | [362282-happy-time.json](./362282-happy-time.json) |
 | Happy Time Circus | 262576 | [262576-happy-time-circus.json](./262576-happy-time-circus.json) |
 | Happy Time Circus II | 262577 | [262577-happy-time-circus-ii.json](./262577-happy-time-circus-ii.json) |
