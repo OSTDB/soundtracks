@@ -5959,6 +5959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blandia Plus | 41409 | [41409-blandia-plus.json](./41409-blandia-plus.json) |
 | Blandville | 177393 | [177393-blandville.json](./177393-blandville.json) |
 | Blank | 127800 | [127800-blank.json](./127800-blank.json) |
+| Blank Blood | 266670 | [266670-blank-blood.json](./266670-blank-blood.json) |
 | Blank Dream | 47005 | [47005-blank-dream.json](./47005-blank-dream.json) |
 | Blank Frame | 181888 | [181888-blank-frame.json](./181888-blank-frame.json) |
 | Blank Light | 376869 | [376869-blank-light.json](./376869-blank-light.json) |
