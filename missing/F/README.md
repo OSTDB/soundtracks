@@ -6545,6 +6545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forza Motorsport | 3073 | [3073-forza-motorsport.json](./3073-forza-motorsport.json) |
 | Forza Motorsport 2: Limited Collector's Edition | 47469 | [47469-forza-motorsport-2-limited-collectors-edition.json](./47469-forza-motorsport-2-limited-collectors-edition.json) |
 | Forza Motorsport 2: The Complete Collection | 380672 | [380672-forza-motorsport-2-the-complete-collection.json](./380672-forza-motorsport-2-the-complete-collection.json) |
+| Forza Motorsport 2017: Jackie Chan DC Racing Oreca 07 | 274955 | [274955-forza-motorsport-2017-jackie-chan-dc-racing-oreca-07.json](./274955-forza-motorsport-2017-jackie-chan-dc-racing-oreca-07.json) |
 | Forza Motorsport 2018 Mercedes-AMG GT3 | 278521 | [278521-forza-motorsport-2018-mercedes-amg-gt3.json](./278521-forza-motorsport-2018-mercedes-amg-gt3.json) |
 | Forza Motorsport 2019: McLaren #03 720S GT3 | 277790 | [277790-forza-motorsport-2019-mclaren-03-720s-gt3.json](./277790-forza-motorsport-2019-mclaren-03-720s-gt3.json) |
 | Forza Motorsport 3: Limited Collector's Edition | 47471 | [47471-forza-motorsport-3-limited-collectors-edition.json](./47471-forza-motorsport-3-limited-collectors-edition.json) |
