@@ -1383,6 +1383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elemental Adventure | 226451 | [226451-elemental-adventure.json](./226451-elemental-adventure.json) |
 | Elemental Angel II | 192420 | [192420-elemental-angel-ii.json](./192420-elemental-angel-ii.json) |
 | Elemental Angel III | 198492 | [198492-elemental-angel-iii.json](./198492-elemental-angel-iii.json) |
+| Elemental Ascent | 276676 | [276676-elemental-ascent.json](./276676-elemental-ascent.json) |
 | Elemental Battlefields | 188999 | [188999-elemental-battlefields.json](./188999-elemental-battlefields.json) |
 | Elemental Combat | 55223 | [55223-elemental-combat.json](./55223-elemental-combat.json) |
 | Elemental Empire | 297816 | [297816-elemental-empire.json](./297816-elemental-empire.json) |
@@ -4303,6 +4304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evil Manor | 137485 | [137485-evil-manor.json](./137485-evil-manor.json) |
 | Evil Maze 2 | 111637 | [111637-evil-maze-2.json](./111637-evil-maze-2.json) |
 | Evil Maze 2: Lava Dungeon | 193292 | [193292-evil-maze-2-lava-dungeon.json](./193292-evil-maze-2-lava-dungeon.json) |
+| Evil Mountains | 276675 | [276675-evil-mountains.json](./276675-evil-mountains.json) |
 | Evil Next Door | 217366 | [217366-evil-next-door.json](./217366-evil-next-door.json) |
 | Evil Night | 94718 | [94718-evil-night.json](./94718-evil-night.json) |
 | Evil Nightmares | 219652 | [219652-evil-nightmares.json](./219652-evil-nightmares.json) |
