@@ -3563,6 +3563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alabaster | 60017 | [60017-alabaster.json](./60017-alabaster.json) |
 | Alaca | 272778 | [272778-alaca.json](./272778-alaca.json) |
 | Alacrity | 368899 | [368899-alacrity.json](./368899-alacrity.json) |
+| Alacrity Golf | 246280 | [246280-alacrity-golf.json](./246280-alacrity-golf.json) |
 | Aladdin | 204504 | [204504-aladdin.json](./204504-aladdin.json) |
 | Aladdin | 204505 | [204505-aladdin.json](./204505-aladdin.json) |
 | Aladdin II | 242085 | [242085-aladdin-ii.json](./242085-aladdin-ii.json) |
@@ -5870,8 +5871,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angry Birds Breaker | 280802 | [280802-angry-birds-breaker.json](./280802-angry-birds-breaker.json) |
 | Angry Birds Champions | 87865 | [87865-angry-birds-champions.json](./87865-angry-birds-champions.json) |
 | Angry Birds Dice | 264224 | [264224-angry-birds-dice.json](./264224-angry-birds-dice.json) |
+| Angry Birds Dice Adventure | 246307 | [246307-angry-birds-dice-adventure.json](./246307-angry-birds-dice-adventure.json) |
 | Angry Birds Double Crossed | 240248 | [240248-angry-birds-double-crossed.json](./240248-angry-birds-double-crossed.json) |
 | Angry Birds Dream Blast | 114424 | [114424-angry-birds-dream-blast.json](./114424-angry-birds-dream-blast.json) |
+| Angry Birds Electronic Handheld Game | 246306 | [246306-angry-birds-electronic-handheld-game.json](./246306-angry-birds-electronic-handheld-game.json) |
 | Angry Birds Epic | 19276 | [19276-angry-birds-epic.json](./19276-angry-birds-epic.json) |
 | Angry Birds Explore | 398679 | [398679-angry-birds-explore.json](./398679-angry-birds-explore.json) |
 | Angry Birds Fight! | 60226 | [60226-angry-birds-fight.json](./60226-angry-birds-fight.json) |
@@ -10597,6 +10600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Auto Tuktuk Mafia | 411587 | [411587-auto-tuktuk-mafia.json](./411587-auto-tuktuk-mafia.json) |
 | Auto World Tycoon | 164240 | [164240-auto-world-tycoon.json](./164240-auto-world-tycoon.json) |
 | Auto WWII Equips | 374825 | [374825-auto-wwii-equips.json](./374825-auto-wwii-equips.json) |
+| Auto X | 246311 | [246311-auto-x.json](./246311-auto-x.json) |
 | Auto-Upturn | 48692 | [48692-auto-upturn.json](./48692-auto-upturn.json) |
 | Autobahn Chaos | 179138 | [179138-autobahn-chaos.json](./179138-autobahn-chaos.json) |
 | Autobahn Police Simulator 2 | 76616 | [76616-autobahn-police-simulator-2.json](./76616-autobahn-police-simulator-2.json) |
