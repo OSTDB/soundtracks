@@ -3139,6 +3139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sega GT 2002 / Jet Set Radio Future | 144128 | [144128-sega-gt-2002-jet-set-radio-future.json](./144128-sega-gt-2002-jet-set-radio-future.json) |
 | Sega GT Online | 6040 | [6040-sega-gt-online.json](./6040-sega-gt-online.json) |
 | Sega Legends | 108842 | [108842-sega-legends.json](./108842-sega-legends.json) |
+| Sega Master System Brawl | 266667 | [266667-sega-master-system-brawl.json](./266667-sega-master-system-brawl.json) |
 | Sega Mega Drive Portable Video Game Player | 202781 | [202781-sega-mega-drive-portable-video-game-player.json](./202781-sega-mega-drive-portable-video-game-player.json) |
 | Sega Mega Drive Portable Video Game Player: Streets of Rage Special Edition | 202782 | [202782-sega-mega-drive-portable-video-game-player-streets-of-rage-special-edition.json](./202782-sega-mega-drive-portable-video-game-player-streets-of-rage-special-edition.json) |
 | Sega Net Mahjong MJ | 130811 | [130811-sega-net-mahjong-mj.json](./130811-sega-net-mahjong-mj.json) |
@@ -6907,6 +6908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simple DS Series Vol. 20: The Senkan | 203407 | [203407-simple-ds-series-vol-20-the-senkan.json](./203407-simple-ds-series-vol-20-the-senkan.json) |
 | Simple DS Series Vol. 26: The Quiz 30,000-Mon | 203408 | [203408-simple-ds-series-vol-26-the-quiz-30-000-mon.json](./203408-simple-ds-series-vol-26-the-quiz-30-000-mon.json) |
 | Simple DS Series Vol. 28: The Illust Puzzle & Suuji Puzzle 2 | 203410 | [203410-simple-ds-series-vol-28-the-illust-puzzle-and-suuji-puzzle-2.json](./203410-simple-ds-series-vol-28-the-illust-puzzle-and-suuji-puzzle-2.json) |
+| Simple DS Series vol. 39: The Shouboutai | 266677 | [266677-simple-ds-series-vol-39-the-shouboutai.json](./266677-simple-ds-series-vol-39-the-shouboutai.json) |
 | Simple DS Series Vol. 9: Atama ga Yoku Naru - The Me no Training | 203403 | [203403-simple-ds-series-vol-9-atama-ga-yoku-naru-the-me-no-training.json](./203403-simple-ds-series-vol-9-atama-ga-yoku-naru-the-me-no-training.json) |
 | Simple Fear | 157046 | [157046-simple-fear.json](./157046-simple-fear.json) |
 | Simple Fight 2 | 310135 | [310135-simple-fight-2.json](./310135-simple-fight-2.json) |
@@ -10650,6 +10652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic 2006 | 310952 | [310952-sonic-2006.json](./310952-sonic-2006.json) |
 | Sonic 2006 2D | 352302 | [352302-sonic-2006-2d.json](./352302-sonic-2006-2d.json) |
 | Sonic 2011 | 301380 | [301380-sonic-2011.json](./301380-sonic-2011.json) |
+| Sonic 2099 | 266711 | [266711-sonic-2099.json](./266711-sonic-2099.json) |
 | Sonic 3 & Amy Rose | 201293 | [201293-sonic-3-and-amy-rose.json](./201293-sonic-3-and-amy-rose.json) |
 | Sonic 3 & Knuckles Battle Race | 277230 | [277230-sonic-3-and-knuckles-battle-race.json](./277230-sonic-3-and-knuckles-battle-race.json) |
 | Sonic 3 & Knuckles: Deluxe | 330320 | [330320-sonic-3-and-knuckles-deluxe.json](./330320-sonic-3-and-knuckles-deluxe.json) |
@@ -14399,6 +14402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spy vs. Spy II: The Island Caper | 12772 | [12772-spy-vs-spy-ii-the-island-caper.json](./12772-spy-vs-spy-ii-the-island-caper.json) |
 | Spy vs. Spy: Operation - Booby Trap | 48925 | [48925-spy-vs-spy-operation-booby-trap.json](./48925-spy-vs-spy-operation-booby-trap.json) |
 | Spy Vs. Spy: Volumes I & II | 77397 | [77397-spy-vs-spy-volumes-i-and-ii.json](./77397-spy-vs-spy-volumes-i-and-ii.json) |
+| Spy x Anya: Operation Memories | 266678 | [266678-spy-x-anya-operation-memories.json](./266678-spy-x-anya-operation-memories.json) |
 | Spy x Anya: Operation Memories - Deluxe Outing Pack | 308814 | [308814-spy-x-anya-operation-memories-deluxe-outing-pack.json](./308814-spy-x-anya-operation-memories-deluxe-outing-pack.json) |
 | Spy x Anya: Operation Memories - Excited Outifit Pack | 308815 | [308815-spy-x-anya-operation-memories-excited-outifit-pack.json](./308815-spy-x-anya-operation-memories-excited-outifit-pack.json) |
 | Spy x Anya: Operation Memories - Thrilling Outfit Pack | 308816 | [308816-spy-x-anya-operation-memories-thrilling-outfit-pack.json](./308816-spy-x-anya-operation-memories-thrilling-outfit-pack.json) |
@@ -17389,6 +17393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stray Blade | 141505 | [141505-stray-blade.json](./141505-stray-blade.json) |
 | Stray Blade: Valley of Strays | 276825 | [276825-stray-blade-valley-of-strays.json](./276825-stray-blade-valley-of-strays.json) |
 | Stray Cat Crossing | 21641 | [21641-stray-cat-crossing.json](./21641-stray-cat-crossing.json) |
+| Stray Children | 266692 | [266692-stray-children.json](./266692-stray-children.json) |
 | Stray Dog: Nobody Cares | 414475 | [414475-stray-dog-nobody-cares.json](./414475-stray-dog-nobody-cares.json) |
 | Stray Gods: Orpheus | 307335 | [307335-stray-gods-orpheus.json](./307335-stray-gods-orpheus.json) |
 | Stray Gods: Orpheus Edition | 385325 | [385325-stray-gods-orpheus-edition.json](./385325-stray-gods-orpheus-edition.json) |
@@ -21416,6 +21421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survival Overgrowth | 106729 | [106729-survival-overgrowth.json](./106729-survival-overgrowth.json) |
 | Survival Project | 65002 | [65002-survival-project.json](./65002-survival-project.json) |
 | Survival Prototype X | 302354 | [302354-survival-prototype-x.json](./302354-survival-prototype-x.json) |
+| Survival Quiz City: Festival Edition | 266714 | [266714-survival-quiz-city-festival-edition.json](./266714-survival-quiz-city-festival-edition.json) |
 | Survival Raft Simulator: Lost at Sea | 282142 | [282142-survival-raft-simulator-lost-at-sea.json](./282142-survival-raft-simulator-lost-at-sea.json) |
 | Survival RPG 2: The Temple Ruins | 169463 | [169463-survival-rpg-2-the-temple-ruins.json](./169463-survival-rpg-2-the-temple-ruins.json) |
 | Survival RPG 4: Haunted Manor | 264332 | [264332-survival-rpg-4-haunted-manor.json](./264332-survival-rpg-4-haunted-manor.json) |
