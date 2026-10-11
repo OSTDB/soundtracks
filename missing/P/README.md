@@ -574,6 +574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PalaDog HD | 235148 | [235148-paladog-hd.json](./235148-paladog-hd.json) |
 | Palais de Reine | 130397 | [130397-palais-de-reine.json](./130397-palais-de-reine.json) |
 | Palamedes II: Star Twinkles | 48808 | [48808-palamedes-ii-star-twinkles.json](./48808-palamedes-ii-star-twinkles.json) |
+| Palavras Cruzadas: O Globo | 252063 | [252063-palavras-cruzadas-o-globo.json](./252063-palavras-cruzadas-o-globo.json) |
 | Palavrinhas | 329784 | [329784-palavrinhas.json](./329784-palavrinhas.json) |
 | Pale Carnations | 239316 | [239316-pale-carnations.json](./239316-pale-carnations.json) |
 | Pale Coins | 253876 | [253876-pale-coins.json](./253876-pale-coins.json) |
@@ -733,6 +734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pandora: First Contact - Eclipse of Nashira | 170827 | [170827-pandora-first-contact-eclipse-of-nashira.json](./170827-pandora-first-contact-eclipse-of-nashira.json) |
 | Pandora: Kimi no Namae wo, Boku ha Shiru | 221825 | [221825-pandora-kimi-no-namae-wo-boku-ha-shiru.json](./221825-pandora-kimi-no-namae-wo-boku-ha-shiru.json) |
 | Pandora: Purge of Pride | 62995 | [62995-pandora-purge-of-pride.json](./62995-pandora-purge-of-pride.json) |
+| Pandora's Box | 252016 | [252016-pandoras-box.json](./252016-pandoras-box.json) |
 | Pandora's Box | 330803 | [330803-pandoras-box.json](./330803-pandoras-box.json) |
 | Pandora's Box | 76200 | [76200-pandoras-box.json](./76200-pandoras-box.json) |
 | Pandora's Box 2 | 330804 | [330804-pandoras-box-2.json](./330804-pandoras-box-2.json) |
@@ -6997,6 +6999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokemon Garbage Gold | 305295 | [305295-pokemon-garbage-gold.json](./305295-pokemon-garbage-gold.json) |
 | Pokémon Garden | 253801 | [253801-pokemon-garden.json](./253801-pokemon-garden.json) |
 | Pokémon Garnet | 323792 | [323792-pokemon-garnet.json](./323792-pokemon-garnet.json) |
+| Pokémon Giovanni Origins | 252055 | [252055-pokemon-giovanni-origins.json](./252055-pokemon-giovanni-origins.json) |
 | Pokémon Glacial Chronicles | 360193 | [360193-pokemon-glacial-chronicles.json](./360193-pokemon-glacial-chronicles.json) |
 | Pokémon Go: Adventures Abound | 383002 | [383002-pokemon-go-adventures-abound.json](./383002-pokemon-go-adventures-abound.json) |
 | Pokémon Go: Delightful Days | 382998 | [382998-pokemon-go-delightful-days.json](./382998-pokemon-go-delightful-days.json) |
