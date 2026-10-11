@@ -430,6 +430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kandria | 144622 | [144622-kandria.json](./144622-kandria.json) |
 | Kandume Monsters | 228571 | [228571-kandume-monsters.json](./228571-kandume-monsters.json) |
 | Kandume Monsters Parfait | 228572 | [228572-kandume-monsters-parfait.json](./228572-kandume-monsters-parfait.json) |
+| Kandyland | 261742 | [261742-kandyland.json](./261742-kandyland.json) |
 | Kane & Lynch 2: Dog Days - Multiplayer Masks Pack | 164424 | [164424-kane-and-lynch-2-dog-days-multiplayer-masks-pack.json](./164424-kane-and-lynch-2-dog-days-multiplayer-masks-pack.json) |
 | Kane & Lynch 2: Dog Days - The Doggie Bag | 164410 | [164410-kane-and-lynch-2-dog-days-the-doggie-bag.json](./164410-kane-and-lynch-2-dog-days-the-doggie-bag.json) |
 | Kane & Lynch Collection | 53243 | [53243-kane-and-lynch-collection.json](./53243-kane-and-lynch-collection.json) |
@@ -1679,6 +1680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KillJoy | 271934 | [271934-killjoy.json](./271934-killjoy.json) |
 | Killmage | 292452 | [292452-killmage.json](./292452-killmage.json) |
 | Killmaiden | 295895 | [295895-killmaiden.json](./295895-killmaiden.json) |
+| Killon | 261718 | [261718-killon.json](./261718-killon.json) |
 | Killover | 361815 | [361815-killover.json](./361815-killover.json) |
 | Killpaku! | 321380 | [321380-killpaku.json](./321380-killpaku.json) |
 | Killrun | 145940 | [145940-killrun.json](./145940-killrun.json) |
