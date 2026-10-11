@@ -300,6 +300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pack BD Heroes vol.1 | 293934 | [293934-pack-bd-heroes-vol-1.json](./293934-pack-bd-heroes-vol-1.json) |
 | Pack Everything You Can | 296245 | [296245-pack-everything-you-can.json](./296245-pack-everything-you-can.json) |
 | Pack Lunch | 371273 | [371273-pack-lunch.json](./371273-pack-lunch.json) |
+| Pack Man in Rio | 241281 | [241281-pack-man-in-rio.json](./241281-pack-man-in-rio.json) |
 | Pack Master | 135651 | [135651-pack-master.json](./135651-pack-master.json) |
 | Pack Master | 358434 | [358434-pack-master.json](./358434-pack-master.json) |
 | Pack My Stuff | 197142 | [197142-pack-my-stuff.json](./197142-pack-my-stuff.json) |
@@ -2051,6 +2052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paw Patrol World: Rescue Knights - Costume Pack | 272225 | [272225-paw-patrol-world-rescue-knights-costume-pack.json](./272225-paw-patrol-world-rescue-knights-costume-pack.json) |
 | Paw Patrol World: The Mighty Movie - Costume Pack | 272230 | [272230-paw-patrol-world-the-mighty-movie-costume-pack.json](./272230-paw-patrol-world-the-mighty-movie-costume-pack.json) |
 | Paw Patrol World: Ultimate Rescue - Costume Pack | 272229 | [272229-paw-patrol-world-ultimate-rescue-costume-pack.json](./272229-paw-patrol-world-ultimate-rescue-costume-pack.json) |
+| Paw Patrol: Grand Prix - Pup Treat Arena | 241408 | [241408-paw-patrol-grand-prix-pup-treat-arena.json](./241408-paw-patrol-grand-prix-pup-treat-arena.json) |
 | Paw Patrol: Laptop Infantil | 294467 | [294467-paw-patrol-laptop-infantil.json](./294467-paw-patrol-laptop-infantil.json) |
 | PAW Patrol: Storm Rescuers | 230328 | [230328-paw-patrol-storm-rescuers.json](./230328-paw-patrol-storm-rescuers.json) |
 | Paw Patrol: The Movie Learning Phone | 274652 | [274652-paw-patrol-the-movie-learning-phone.json](./274652-paw-patrol-the-movie-learning-phone.json) |
@@ -3666,6 +3668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phyrexia | 208055 | [208055-phyrexia.json](./208055-phyrexia.json) |
 | Physical Contact: Picture Place | 74348 | [74348-physical-contact-picture-place.json](./74348-physical-contact-picture-place.json) |
 | Physical Contact: Speed | 51409 | [51409-physical-contact-speed.json](./51409-physical-contact-speed.json) |
+| Physical Layer | 241282 | [241282-physical-layer.json](./241282-physical-layer.json) |
 | Physical Spheres | 305519 | [305519-physical-spheres.json](./305519-physical-spheres.json) |
 | Physical Train: Chamland National Railway | 374625 | [374625-physical-train-chamland-national-railway.json](./374625-physical-train-chamland-national-railway.json) |
 | Physicality | 202361 | [202361-physicality.json](./202361-physicality.json) |
@@ -8087,6 +8090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Porn Pizza Delivery Boy | 369674 | [369674-porn-pizza-delivery-boy.json](./369674-porn-pizza-delivery-boy.json) |
 | Porn Star Fake Interview | 385892 | [385892-porn-star-fake-interview.json](./385892-porn-star-fake-interview.json) |
 | Porn Star Island | 385795 | [385795-porn-star-island.json](./385795-porn-star-island.json) |
+| Porndle | 241406 | [241406-porndle.json](./241406-porndle.json) |
 | Porno Empire | 270786 | [270786-porno-empire.json](./270786-porno-empire.json) |
 | Porno Party: Sailor Fuku to Yakyuken - The Yakyuken Game | 96310 | [96310-porno-party-sailor-fuku-to-yakyuken-the-yakyuken-game.json](./96310-porno-party-sailor-fuku-to-yakyuken-the-yakyuken-game.json) |
 | Pornocrates | 158065 | [158065-pornocrates.json](./158065-pornocrates.json) |
@@ -10535,6 +10539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psycho | 320238 | [320238-psycho.json](./320238-psycho.json) |
 | Psycho | 378393 | [378393-psycho.json](./378393-psycho.json) |
 | Psycho Boy: Dasshutsu Game | 223968 | [223968-psycho-boy-dasshutsu-game.json](./223968-psycho-boy-dasshutsu-game.json) |
+| Psycho Boys | 241407 | [241407-psycho-boys.json](./241407-psycho-boys.json) |
 | Psycho Casket | 408287 | [408287-psycho-casket.json](./408287-psycho-casket.json) |
 | Psycho Dream | 42420 | [42420-psycho-dream.json](./42420-psycho-dream.json) |
 | Psycho Dreams | 291019 | [291019-psycho-dreams.json](./291019-psycho-dreams.json) |
