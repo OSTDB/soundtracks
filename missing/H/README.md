@@ -1392,6 +1392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harvest Days | 308511 | [308511-harvest-days.json](./308511-harvest-days.json) |
 | Harvest Dice: Abundia’s Blessing | 376539 | [376539-harvest-dice-abundia-s-blessing.json](./376539-harvest-dice-abundia-s-blessing.json) |
 | Harvest Hands | 125419 | [125419-harvest-hands.json](./125419-harvest-hands.json) |
+| Harvest Havoc | 276664 | [276664-harvest-havoc.json](./276664-harvest-havoc.json) |
 | Harvest Hustlers | 302363 | [302363-harvest-hustlers.json](./302363-harvest-hustlers.json) |
 | Harvest Island: Beginnings | 159878 | [159878-harvest-island-beginnings.json](./159878-harvest-island-beginnings.json) |
 | Harvest Island: Ending Expansion | 358240 | [358240-harvest-island-ending-expansion.json](./358240-harvest-island-ending-expansion.json) |
@@ -4312,6 +4313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Object Classic: Treasures II | 209037 | [209037-hidden-object-classic-treasures-ii.json](./209037-hidden-object-classic-treasures-ii.json) |
 | Hidden Object Fairy Tales | 101345 | [101345-hidden-object-fairy-tales.json](./101345-hidden-object-fairy-tales.json) |
 | Hidden Object Mystery: Ghostly Manor | 105961 | [105961-hidden-object-mystery-ghostly-manor.json](./105961-hidden-object-mystery-ghostly-manor.json) |
+| Hidden Object Secrets: Family Revenge - Collector's Edition | 276663 | [276663-hidden-object-secrets-family-revenge-collectors-edition.json](./276663-hidden-object-secrets-family-revenge-collectors-edition.json) |
 | Hidden Object Vacation | 217016 | [217016-hidden-object-vacation.json](./217016-hidden-object-vacation.json) |
 | Hidden Object Wedding Day | 100741 | [100741-hidden-object-wedding-day.json](./100741-hidden-object-wedding-day.json) |
 | Hidden Object: Aliens - The Arrival | 98401 | [98401-hidden-object-aliens-the-arrival.json](./98401-hidden-object-aliens-the-arrival.json) |
