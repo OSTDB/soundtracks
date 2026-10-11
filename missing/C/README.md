@@ -2883,6 +2883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cave Story 3D | 11783 | [11783-cave-story-3d.json](./11783-cave-story-3d.json) |
 | Cave Story Sex RPG 2007 | 145470 | [145470-cave-story-sex-rpg-2007.json](./145470-cave-story-sex-rpg-2007.json) |
 | Cave Story with a Fourth Ending | 384657 | [384657-cave-story-with-a-fourth-ending.json](./384657-cave-story-with-a-fourth-ending.json) |
+| Cave Story: The Desolate | 265068 | [265068-cave-story-the-desolate.json](./265068-cave-story-the-desolate.json) |
 | Cave Swing | 242564 | [242564-cave-swing.json](./242564-cave-swing.json) |
 | Cave Up | 334848 | [334848-cave-up.json](./334848-cave-up.json) |
 | Cave Walker | 73226 | [73226-cave-walker.json](./73226-cave-walker.json) |
@@ -4577,6 +4578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chiseler | 361764 | [361764-chiseler.json](./361764-chiseler.json) |
 | Chishiki Runner | 114328 | [114328-chishiki-runner.json](./114328-chishiki-runner.json) |
 | Chit Chat Party! | 420680 | [420680-chit-chat-party.json](./420680-chit-chat-party.json) |
+| Chital's Mini Adventure | 265076 | [265076-chitals-mini-adventure.json](./265076-chitals-mini-adventure.json) |
 | Chitei Chousasen ni Hibiku Kodoku | 376678 | [376678-chitei-chousasen-ni-hibiku-kodoku.json](./376678-chitei-chousasen-ni-hibiku-kodoku.json) |
 | Chitei Kekkadou: The Blood Flower Dungeon | 137616 | [137616-chitei-kekkadou-the-blood-flower-dungeon.json](./137616-chitei-kekkadou-the-blood-flower-dungeon.json) |
 | Chitei Tairiku Orudoora | 41379 | [41379-chitei-tairiku-orudoora.json](./41379-chitei-tairiku-orudoora.json) |
@@ -4826,6 +4828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Choujin Baseball Stadium | 222225 | [222225-choujin-baseball-stadium.json](./222225-choujin-baseball-stadium.json) |
 | Choujin Baseball Stadium: Nekketsu Story | 222398 | [222398-choujin-baseball-stadium-nekketsu-story.json](./222398-choujin-baseball-stadium-nekketsu-story.json) |
 | Choujin Heiki Zeroigar | 45960 | [45960-choujin-heiki-zeroigar.json](./45960-choujin-heiki-zeroigar.json) |
+| Choujin Sentai Jetman | 265066 | [265066-choujin-sentai-jetman.json](./265066-choujin-sentai-jetman.json) |
 | Choujin Sentai Jetman | 318559 | [318559-choujin-sentai-jetman.json](./318559-choujin-sentai-jetman.json) |
 | Choujirou | 133318 | [133318-choujirou.json](./133318-choujirou.json) |
 | Chouon RPG: Ushinawareta Ototoi Mura | 142962 | [142962-chouon-rpg-ushinawareta-ototoi-mura.json](./142962-chouon-rpg-ushinawareta-ototoi-mura.json) |
@@ -7345,6 +7348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colored Shapes | 158627 | [158627-colored-shapes.json](./158627-colored-shapes.json) |
 | Colorelli | 80125 | [80125-colorelli.json](./80125-colorelli.json) |
 | Colorfall | 404788 | [404788-colorfall.json](./404788-colorfall.json) |
+| Colorfle | 265042 | [265042-colorfle.json](./265042-colorfle.json) |
 | ColorFold | 108273 | [108273-colorfold.json](./108273-colorfold.json) |
 | Colorful | 212229 | [212229-colorful.json](./212229-colorful.json) |
 | Colorful | 289575 | [289575-colorful.json](./289575-colorful.json) |
