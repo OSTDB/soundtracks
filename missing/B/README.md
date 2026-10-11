@@ -3177,6 +3177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BearPit | 338719 | [338719-bearpit.json](./338719-bearpit.json) |
 | Bearricade | 327199 | [327199-bearricade.json](./327199-bearricade.json) |
 | Bears vs. Art | 251024 | [251024-bears-vs-art.json](./251024-bears-vs-art.json) |
+| Bearskull | 243039 | [243039-bearskull.json](./243039-bearskull.json) |
 | Bearslayer | 33059 | [33059-bearslayer.json](./33059-bearslayer.json) |
 | Bearstone Campsite | 346607 | [346607-bearstone-campsite.json](./346607-bearstone-campsite.json) |
 | Beary the Hatchet | 269679 | [269679-beary-the-hatchet.json](./269679-beary-the-hatchet.json) |
@@ -8550,6 +8551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bounce Gun | 291375 | [291375-bounce-gun.json](./291375-bounce-gun.json) |
 | Bounce House | 262487 | [262487-bounce-house.json](./262487-bounce-house.json) |
 | Bounce It | 363033 | [363033-bounce-it.json](./363033-bounce-it.json) |
+| Bounce Journey | 242977 | [242977-bounce-journey.json](./242977-bounce-journey.json) |
 | Bounce Lounge | 233232 | [233232-bounce-lounge.json](./233232-bounce-lounge.json) |
 | Bounce Mania | 146849 | [146849-bounce-mania.json](./146849-bounce-mania.json) |
 | Bounce On 2: Drallo's Demise | 182297 | [182297-bounce-on-2-drallos-demise.json](./182297-bounce-on-2-drallos-demise.json) |
