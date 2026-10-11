@@ -1253,6 +1253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warriors & Mages | 173270 | [173270-warriors-and-mages.json](./173270-warriors-and-mages.json) |
 | Warriors All-Stars: Treasure Box | 212334 | [212334-warriors-all-stars-treasure-box.json](./212334-warriors-all-stars-treasure-box.json) |
 | Warriors Match Connect Classic | 235231 | [235231-warriors-match-connect-classic.json](./235231-warriors-match-connect-classic.json) |
+| Warriors of Dust | 278350 | [278350-warriors-of-dust.json](./278350-warriors-of-dust.json) |
 | Warriors of Nova Thera | 314443 | [314443-warriors-of-nova-thera.json](./314443-warriors-of-nova-thera.json) |
 | Warriors of Ragnarök | 123578 | [123578-warriors-of-ragnarok.json](./123578-warriors-of-ragnarok.json) |
 | Warriors of Ras | 68871 | [68871-warriors-of-ras.json](./68871-warriors-of-ras.json) |
