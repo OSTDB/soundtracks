@@ -954,6 +954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Drummer VR | 29993 | [29993-happy-drummer-vr.json](./29993-happy-drummer-vr.json) |
 | Happy Empire | 31693 | [31693-happy-empire.json](./31693-happy-empire.json) |
 | Happy Empire 2: The Lost Relic | 105989 | [105989-happy-empire-2-the-lost-relic.json](./105989-happy-empire-2-the-lost-relic.json) |
+| Happy Fall | 274388 | [274388-happy-fall.json](./274388-happy-fall.json) |
 | Happy Farm | 246337 | [246337-happy-farm.json](./246337-happy-farm.json) |
 | Happy Farm | 62236 | [62236-happy-farm.json](./62236-happy-farm.json) |
 | Happy Farm: Field's Puzzle | 378421 | [378421-happy-farm-fields-puzzle.json](./378421-happy-farm-fields-puzzle.json) |
@@ -2517,6 +2518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell Let Loose: Red Marshall | 371222 | [371222-hell-let-loose-red-marshall.json](./371222-hell-let-loose-red-marshall.json) |
 | Hell Let Loose: Silver Vanguard | 371225 | [371225-hell-let-loose-silver-vanguard.json](./371225-hell-let-loose-silver-vanguard.json) |
 | Hell Let Loose: Skull Bucket | 371227 | [371227-hell-let-loose-skull-bucket.json](./371227-hell-let-loose-skull-bucket.json) |
+| Hell Let Loose: Soviet Bundle | 274433 | [274433-hell-let-loose-soviet-bundle.json](./274433-hell-let-loose-soviet-bundle.json) |
 | Hell Let Loose: Spearhead Edition | 187975 | [187975-hell-let-loose-spearhead-edition.json](./187975-hell-let-loose-spearhead-edition.json) |
 | Hell Let Loose: Ultimate Edition | 273003 | [273003-hell-let-loose-ultimate-edition.json](./273003-hell-let-loose-ultimate-edition.json) |
 | Hell Let Loose: Wacht am Rhein Units | 332022 | [332022-hell-let-loose-wacht-am-rhein-units.json](./332022-hell-let-loose-wacht-am-rhein-units.json) |
