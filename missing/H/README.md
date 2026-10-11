@@ -3004,6 +3004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai BunnyGirl | 226162 | [226162-hentai-bunnygirl.json](./226162-hentai-bunnygirl.json) |
 | Hentai Cafe | 371373 | [371373-hentai-cafe.json](./371373-hentai-cafe.json) |
 | Hentai Cast: Podcast Simulator | 212195 | [212195-hentai-cast-podcast-simulator.json](./212195-hentai-cast-podcast-simulator.json) |
+| Hentai Casual Jigsaw: Witches | 245768 | [245768-hentai-casual-jigsaw-witches.json](./245768-hentai-casual-jigsaw-witches.json) |
 | Hentai Casual Slider 2 | 234736 | [234736-hentai-casual-slider-2.json](./234736-hentai-casual-slider-2.json) |
 | Hentai Casual Swap 3 | 371402 | [371402-hentai-casual-swap-3.json](./371402-hentai-casual-swap-3.json) |
 | Hentai Celestia | 369376 | [369376-hentai-celestia.json](./369376-hentai-celestia.json) |
@@ -3262,6 +3263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Puzzle: Naughty Nurses | 340445 | [340445-hentai-puzzle-naughty-nurses.json](./340445-hentai-puzzle-naughty-nurses.json) |
 | Hentai Puzzle: Tropical Seduction | 340446 | [340446-hentai-puzzle-tropical-seduction.json](./340446-hentai-puzzle-tropical-seduction.json) |
 | Hentai Puzzle: Winter Passion | 340447 | [340447-hentai-puzzle-winter-passion.json](./340447-hentai-puzzle-winter-passion.json) |
+| Hentai Puzzles: Attack on Tight Panties | 245767 | [245767-hentai-puzzles-attack-on-tight-panties.json](./245767-hentai-puzzles-attack-on-tight-panties.json) |
 | Hentai Queens | 149431 | [149431-hentai-queens.json](./149431-hentai-queens.json) |
 | Hentai Rika | 340448 | [340448-hentai-rika.json](./340448-hentai-rika.json) |
 | Hentai Room | 230781 | [230781-hentai-room.json](./230781-hentai-room.json) |
