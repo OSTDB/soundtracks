@@ -36,6 +36,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | V-Lover! | 351035 | [351035-v-lover.json](./351035-v-lover.json) |
 | V-Master Cross | 240903 | [240903-v-master-cross.json](./240903-v-master-cross.json) |
 | V-Pong | 272844 | [272844-v-pong.json](./272844-v-pong.json) |
+| V-Rally 3 | 243024 | [243024-v-rally-3.json](./243024-v-rally-3.json) |
 | V-Rally 3 | 4227 | [4227-v-rally-3.json](./4227-v-rally-3.json) |
 | V-Rally 4: Ultimate Edition | 110832 | [110832-v-rally-4-ultimate-edition.json](./110832-v-rally-4-ultimate-edition.json) |
 | V-Ray | 138709 | [138709-v-ray.json](./138709-v-ray.json) |
