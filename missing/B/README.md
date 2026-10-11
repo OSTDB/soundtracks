@@ -842,6 +842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baldies | 90071 | [90071-baldies.json](./90071-baldies.json) |
 | Baldis Basics 2: High School | 105781 | [105781-baldis-basics-2-high-school.json](./105781-baldis-basics-2-high-school.json) |
 | Baldis Basics Calculator Sim | 106637 | [106637-baldis-basics-calculator-sim.json](./106637-baldis-basics-calculator-sim.json) |
+| Baldo: The Elemental Temples | 241842 | [241842-baldo-the-elemental-temples.json](./241842-baldo-the-elemental-temples.json) |
 | Baldo: The Guardian Owls - The Three Fairies Edition | 200682 | [200682-baldo-the-guardian-owls-the-three-fairies-edition.json](./200682-baldo-the-guardian-owls-the-three-fairies-edition.json) |
 | Baldoo | 116822 | [116822-baldoo.json](./116822-baldoo.json) |
 | Baldr Bringer | 71194 | [71194-baldr-bringer.json](./71194-baldr-bringer.json) |
@@ -5689,6 +5690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Raven | 330354 | [330354-black-raven.json](./330354-black-raven.json) |
 | Black Raven: New Missions | 299546 | [299546-black-raven-new-missions.json](./299546-black-raven-new-missions.json) |
 | Black Relic | 227909 | [227909-black-relic.json](./227909-black-relic.json) |
+| Black Reliquary | 241882 | [241882-black-reliquary.json](./241882-black-reliquary.json) |
 | Black Resin | 142278 | [142278-black-resin.json](./142278-black-resin.json) |
 | Black River | 29661 | [29661-black-river.json](./29661-black-river.json) |
 | Black Robinia | 59420 | [59420-black-robinia.json](./59420-black-robinia.json) |
@@ -6293,6 +6295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blight Doctors | 415867 | [415867-blight-doctors.json](./415867-blight-doctors.json) |
 | Blight Dream | 121029 | [121029-blight-dream.json](./121029-blight-dream.json) |
 | Blight Night | 343404 | [343404-blight-night.json](./343404-blight-night.json) |
+| Blight Night: You Are Not Safe | 242000 | [242000-blight-night-you-are-not-safe.json](./242000-blight-night-you-are-not-safe.json) |
 | Blightborn | 338714 | [338714-blightborn.json](./338714-blightborn.json) |
 | Blightbound | 133932 | [133932-blightbound.json](./133932-blightbound.json) |
 | Blighted | 347662 | [347662-blighted.json](./347662-blighted.json) |
