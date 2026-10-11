@@ -6062,6 +6062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lunar Escape | 178642 | [178642-lunar-escape.json](./178642-lunar-escape.json) |
 | Lunar Explorer | 28715 | [28715-lunar-explorer.json](./28715-lunar-explorer.json) |
 | Lunar Flight | 10524 | [10524-lunar-flight.json](./10524-lunar-flight.json) |
+| Lunar Glow Stellar Dance | 278331 | [278331-lunar-glow-stellar-dance.json](./278331-lunar-glow-stellar-dance.json) |
 | Lunar Impact | 340506 | [340506-lunar-impact.json](./340506-lunar-impact.json) |
 | Lunar Jetman | 7852 | [7852-lunar-jetman.json](./7852-lunar-jetman.json) |
 | Lunar Knights | 9887 | [9887-lunar-knights.json](./9887-lunar-knights.json) |
