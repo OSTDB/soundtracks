@@ -1180,6 +1180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ranger’s Path: National Park Simulator | 366709 | [366709-ranger-s-path-national-park-simulator.json](./366709-ranger-s-path-national-park-simulator.json) |
 | Rangerdog | 152160 | [152160-rangerdog.json](./152160-rangerdog.json) |
 | Rangers | 138744 | [138744-rangers.json](./138744-rangers.json) |
+| Rangers Club Football | 267876 | [267876-rangers-club-football.json](./267876-rangers-club-football.json) |
 | Rangers Football Coach Season 2001-2002 | 59385 | [59385-rangers-football-coach-season-2001-2002.json](./59385-rangers-football-coach-season-2001-2002.json) |
 | Rangers of Oblivion | 113636 | [113636-rangers-of-oblivion.json](./113636-rangers-of-oblivion.json) |
 | Rangi | 54836 | [54836-rangi.json](./54836-rangi.json) |
@@ -6134,6 +6135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Bones | 184451 | [184451-rogue-bones.json](./184451-rogue-bones.json) |
 | Rogue Bricks | 370898 | [370898-rogue-bricks.json](./370898-rogue-bricks.json) |
 | Rogue Buddies - Aztek Gold | 96227 | [96227-rogue-buddies-aztek-gold.json](./96227-rogue-buddies-aztek-gold.json) |
+| Rogue Cards | 267871 | [267871-rogue-cards.json](./267871-rogue-cards.json) |
 | Rogue Carrier | 409641 | [409641-rogue-carrier.json](./409641-rogue-carrier.json) |
 | Rogue Citadel | 299379 | [299379-rogue-citadel.json](./299379-rogue-citadel.json) |
 | Rogue City: Casual Top Down Shooter | 266434 | [266434-rogue-city-casual-top-down-shooter.json](./266434-rogue-city-casual-top-down-shooter.json) |
