@@ -6607,6 +6607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blockiverse: Camouflage | 106144 | [106144-blockiverse-camouflage.json](./106144-blockiverse-camouflage.json) |
 | BlockJump | 273822 | [273822-blockjump.json](./273822-blockjump.json) |
 | Blockle | 36497 | [36497-blockle.json](./36497-blockle.json) |
+| Blocklords | 262888 | [262888-blocklords.json](./262888-blocklords.json) |
 | Blockman 1988 | 225722 | [225722-blockman-1988.json](./225722-blockman-1988.json) |
 | Blockman 1989 | 186646 | [186646-blockman-1989.json](./186646-blockman-1989.json) |
 | Blockman Returns | 56427 | [56427-blockman-returns.json](./56427-blockman-returns.json) |
@@ -8765,6 +8766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boxes World | 247013 | [247013-boxes-world.json](./247013-boxes-world.json) |
 | Boxes: Lost Fragments | 219729 | [219729-boxes-lost-fragments.json](./219729-boxes-lost-fragments.json) |
 | BoxesWithGuns | 20198 | [20198-boxeswithguns.json](./20198-boxeswithguns.json) |
+| BoxFight | 262894 | [262894-boxfight.json](./262894-boxfight.json) |
 | Boxguy Adventure | 358322 | [358322-boxguy-adventure.json](./358322-boxguy-adventure.json) |
 | Boxguy Adventure 2 | 358292 | [358292-boxguy-adventure-2.json](./358292-boxguy-adventure-2.json) |
 | Boxhead: A Halloween Special | 373637 | [373637-boxhead-a-halloween-special.json](./373637-boxhead-a-halloween-special.json) |
