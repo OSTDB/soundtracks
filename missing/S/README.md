@@ -7785,6 +7785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skullmonkeys | 10917 | [10917-skullmonkeys.json](./10917-skullmonkeys.json) |
 | Skullnight | 195587 | [195587-skullnight.json](./195587-skullnight.json) |
 | SkullPirates | 76869 | [76869-skullpirates.json](./76869-skullpirates.json) |
+| Skullpogo | 242471 | [242471-skullpogo.json](./242471-skullpogo.json) |
 | Skulls of Olympus | 291903 | [291903-skulls-of-olympus.json](./291903-skulls-of-olympus.json) |
 | Skulls of the Shogun: Bone-A-Fide Edition | 51906 | [51906-skulls-of-the-shogun-bone-a-fide-edition.json](./51906-skulls-of-the-shogun-bone-a-fide-edition.json) |
 | SkullSP | 329973 | [329973-skullsp.json](./329973-skullsp.json) |
@@ -9679,6 +9680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snowball | 147827 | [147827-snowball.json](./147827-snowball.json) |
 | Snowball Bustout | 146737 | [146737-snowball-bustout.json](./146737-snowball-bustout.json) |
 | SnowBall Champions | 239632 | [239632-snowball-champions.json](./239632-snowball-champions.json) |
+| Snowball Christmas Festival | 242436 | [242436-snowball-christmas-festival.json](./242436-snowball-christmas-festival.json) |
 | Snowball Collections Bubble | 147079 | [147079-snowball-collections-bubble.json](./147079-snowball-collections-bubble.json) |
 | Snowball Fall Down | 208622 | [208622-snowball-fall-down.json](./208622-snowball-fall-down.json) |
 | Snowball Fight | 296001 | [296001-snowball-fight.json](./296001-snowball-fight.json) |
@@ -14073,6 +14075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpongeBob SquarePants Bubble Rush! | 307852 | [307852-spongebob-squarepants-bubble-rush.json](./307852-spongebob-squarepants-bubble-rush.json) |
 | SpongeBob SquarePants Bubblegram | 382926 | [382926-spongebob-squarepants-bubblegram.json](./382926-spongebob-squarepants-bubblegram.json) |
 | SpongeBob SquarePants featuring Nicktoons: Globs of Doom | 280432 | [280432-spongebob-squarepants-featuring-nicktoons-globs-of-doom.json](./280432-spongebob-squarepants-featuring-nicktoons-globs-of-doom.json) |
+| SpongeBob SquarePants in Jellyfishin' | 242430 | [242430-spongebob-squarepants-in-jellyfishin.json](./242430-spongebob-squarepants-in-jellyfishin.json) |
 | SpongeBob SquarePants Saves the Krusty Krab | 135810 | [135810-spongebob-squarepants-saves-the-krusty-krab.json](./135810-spongebob-squarepants-saves-the-krusty-krab.json) |
 | SpongeBob SquarePants Talking Heads | 382919 | [382919-spongebob-squarepants-talking-heads.json](./382919-spongebob-squarepants-talking-heads.json) |
 | SpongeBob SquarePants: A Day in the Life of a Sponge | 73000 | [73000-spongebob-squarepants-a-day-in-the-life-of-a-sponge.json](./73000-spongebob-squarepants-a-day-in-the-life-of-a-sponge.json) |
@@ -21167,6 +21170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SuperDucks | 357363 | [357363-superducks.json](./357363-superducks.json) |
 | SuperDungeon MegaCorp | 190995 | [190995-superdungeon-megacorp.json](./190995-superdungeon-megacorp.json) |
 | Superfetch Dog | 263656 | [263656-superfetch-dog.json](./263656-superfetch-dog.json) |
+| Superfidos | 242448 | [242448-superfidos.json](./242448-superfidos.json) |
 | Superfight | 34372 | [34372-superfight.json](./34372-superfight.json) |
 | Superfight: The Digital Deck | 161215 | [161215-superfight-the-digital-deck.json](./161215-superfight-the-digital-deck.json) |
 | Superfight: The History Deck | 161216 | [161216-superfight-the-history-deck.json](./161216-superfight-the-history-deck.json) |
@@ -22238,6 +22242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swiftle | 327426 | [327426-swiftle.json](./327426-swiftle.json) |
 | Swiggart's Last Will | 252810 | [252810-swiggarts-last-will.json](./252810-swiggarts-last-will.json) |
 | Swigridova kletba | 182294 | [182294-swigridova-kletba.json](./182294-swigridova-kletba.json) |
+| Swim Meet | 242453 | [242453-swim-meet.json](./242453-swim-meet.json) |
 | Swim! Sacabambaspis | 276470 | [276470-swim-sacabambaspis.json](./276470-swim-sacabambaspis.json) |
 | Swimcraft | 410911 | [410911-swimcraft.json](./410911-swimcraft.json) |
 | Swimmer Away | 347354 | [347354-swimmer-away.json](./347354-swimmer-away.json) |
