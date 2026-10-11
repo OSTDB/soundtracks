@@ -1701,6 +1701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dawn of Survivor | 312140 | [312140-dawn-of-survivor.json](./312140-dawn-of-survivor.json) |
 | Dawn of the Breakers | 106972 | [106972-dawn-of-the-breakers.json](./106972-dawn-of-the-breakers.json) |
 | Dawn of the Celestialpod | 99159 | [99159-dawn-of-the-celestialpod.json](./99159-dawn-of-the-celestialpod.json) |
+| Dawn of the Damned | 259477 | [259477-dawn-of-the-damned.json](./259477-dawn-of-the-damned.json) |
 | Dawn of the Dead | 262432 | [262432-dawn-of-the-dead.json](./262432-dawn-of-the-dead.json) |
 | Dawn of the Dead | 356149 | [356149-dawn-of-the-dead.json](./356149-dawn-of-the-dead.json) |
 | Dawn of the Devs | 23847 | [23847-dawn-of-the-devs.json](./23847-dawn-of-the-devs.json) |
@@ -6487,6 +6488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney's The Lion King | 198801 | [198801-disneys-the-lion-king.json](./198801-disneys-the-lion-king.json) |
 | Disney's The Lion King | 204572 | [204572-disneys-the-lion-king.json](./204572-disneys-the-lion-king.json) |
 | Disney's The Lion King 1 1/2 | 79813 | [79813-disneys-the-lion-king-1-1-2.json](./79813-disneys-the-lion-king-1-1-2.json) |
+| Disney's The Lion King: Simba's Mighty Adventure | 259481 | [259481-disneys-the-lion-king-simbas-mighty-adventure.json](./259481-disneys-the-lion-king-simbas-mighty-adventure.json) |
 | Disney's The Lion King: Simba's Mighty Adventure | 45228 | [45228-disneys-the-lion-king-simbas-mighty-adventure.json](./45228-disneys-the-lion-king-simbas-mighty-adventure.json) |
 | Disney's The Little Mermaid | 198802 | [198802-disneys-the-little-mermaid.json](./198802-disneys-the-little-mermaid.json) |
 | Disney's The Little Mermaid | 198803 | [198803-disneys-the-little-mermaid.json](./198803-disneys-the-little-mermaid.json) |
@@ -7359,6 +7361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doll Parts | 347793 | [347793-doll-parts.json](./347793-doll-parts.json) |
 | Doll Recollect | 299737 | [299737-doll-recollect.json](./299737-doll-recollect.json) |
 | Doll's Ingram | 131585 | [131585-dolls-ingram.json](./131585-dolls-ingram.json) |
+| Doll's Liminal | 259467 | [259467-dolls-liminal.json](./259467-dolls-liminal.json) |
 | Dolla World | 82332 | [82332-dolla-world.json](./82332-dolla-world.json) |
 | Dollal Simulator 2018 | 89261 | [89261-dollal-simulator-2018.json](./89261-dollal-simulator-2018.json) |
 | Dollar | 336664 | [336664-dollar.json](./336664-dollar.json) |
@@ -10636,6 +10639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DualPenSports | 25179 | [25179-dualpensports.json](./25179-dualpensports.json) |
 | DualVerse86 | 373175 | [373175-dualverse86.json](./373175-dualverse86.json) |
 | Duàndāo Kè | 166674 | [166674-duandao-ke.json](./166674-duandao-ke.json) |
+| Duas Vidas | 259450 | [259450-duas-vidas.json](./259450-duas-vidas.json) |
 | Duat: Beyond Light & Shadow | 415919 | [415919-duat-beyond-light-and-shadow.json](./415919-duat-beyond-light-and-shadow.json) |
 | Dub Dash | 19977 | [19977-dub-dash.json](./19977-dub-dash.json) |
 | Dub Together | 413849 | [413849-dub-together.json](./413849-dub-together.json) |
