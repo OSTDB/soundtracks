@@ -1259,6 +1259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sarah: Story of a Young Thief | 302967 | [302967-sarah-story-of-a-young-thief.json](./302967-sarah-story-of-a-young-thief.json) |
 | Sarah's Adventure: Time Travel | 304862 | [304862-sarahs-adventure-time-travel.json](./304862-sarahs-adventure-time-travel.json) |
 | Sarah's Great Adventure | 371898 | [371898-sarahs-great-adventure.json](./371898-sarahs-great-adventure.json) |
+| Saraman Union | 274924 | [274924-saraman-union.json](./274924-saraman-union.json) |
 | Sarara's Little Shop | 61564 | [61564-sararas-little-shop.json](./61564-sararas-little-shop.json) |
 | Saratoga | 297605 | [297605-saratoga.json](./297605-saratoga.json) |
 | Sarawak | 132677 | [132677-sarawak.json](./132677-sarawak.json) |
@@ -1452,6 +1453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Savage: Ultimate Boss Fight | 225075 | [225075-savage-ultimate-boss-fight.json](./225075-savage-ultimate-boss-fight.json) |
 | Savanna | 346098 | [346098-savanna.json](./346098-savanna.json) |
 | Savanna Shot VR | 102391 | [102391-savanna-shot-vr.json](./102391-savanna-shot-vr.json) |
+| Savanna Story Diamond Edition | 274921 | [274921-savanna-story-diamond-edition.json](./274921-savanna-story-diamond-edition.json) |
 | Savannah Runnah | 243610 | [243610-savannah-runnah.json](./243610-savannah-runnah.json) |
 | Savant: Ascent | 7879 | [7879-savant-ascent.json](./7879-savant-ascent.json) |
 | Savant: Ascent - Anniversary Edition | 245867 | [245867-savant-ascent-anniversary-edition.json](./245867-savant-ascent-anniversary-edition.json) |
@@ -1711,6 +1713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scarlet Nexus: Brain Eater Pack 3 | 224473 | [224473-scarlet-nexus-brain-eater-pack-3.json](./224473-scarlet-nexus-brain-eater-pack-3.json) |
 | Scarlet Nexus: Ultimate Edition | 188044 | [188044-scarlet-nexus-ultimate-edition.json](./188044-scarlet-nexus-ultimate-edition.json) |
 | Scarlet Prism | 413819 | [413819-scarlet-prism.json](./413819-scarlet-prism.json) |
+| Scarlet Rain | 274945 | [274945-scarlet-rain.json](./274945-scarlet-rain.json) |
 | Scarlet Republics | 156693 | [156693-scarlet-republics.json](./156693-scarlet-republics.json) |
 | Scarlet Sails | 59689 | [59689-scarlet-sails.json](./59689-scarlet-sails.json) |
 | Scarlet Sand Sojourn | 266202 | [266202-scarlet-sand-sojourn.json](./266202-scarlet-sand-sojourn.json) |
@@ -15532,6 +15535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stardust Escape | 373158 | [373158-stardust-escape.json](./373158-stardust-escape.json) |
 | Stardust League | 222391 | [222391-stardust-league.json](./222391-stardust-league.json) |
 | Stardust Odyssey | 122994 | [122994-stardust-odyssey.json](./122994-stardust-odyssey.json) |
+| Stardust Rain | 274965 | [274965-stardust-rain.json](./274965-stardust-rain.json) |
 | Stardust Sandbox | 393604 | [393604-stardust-sandbox.json](./393604-stardust-sandbox.json) |
 | Stardust Skate | 334846 | [334846-stardust-skate.json](./334846-stardust-skate.json) |
 | Stardust Valkyries | 215712 | [215712-stardust-valkyries.json](./215712-stardust-valkyries.json) |
@@ -17210,6 +17214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strange Things | 75775 | [75775-strange-things.json](./75775-strange-things.json) |
 | Strange Toilet | 294975 | [294975-strange-toilet.json](./294975-strange-toilet.json) |
 | Strange Winds | 383637 | [383637-strange-winds.json](./383637-strange-winds.json) |
+| Strange World | 274966 | [274966-strange-world.json](./274966-strange-world.json) |
 | Strange Zoo | 415139 | [415139-strange-zoo.json](./415139-strange-zoo.json) |
 | Strangeland | 103219 | [103219-strangeland.json](./103219-strangeland.json) |
 | Strangeland: The Last Colony | 401618 | [401618-strangeland-the-last-colony.json](./401618-strangeland-the-last-colony.json) |
@@ -21382,6 +21387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survive Now | 240724 | [240724-survive-now.json](./240724-survive-now.json) |
 | Survive on Raft | 125851 | [125851-survive-on-raft.json](./125851-survive-on-raft.json) |
 | Survive or Thrive | 148521 | [148521-survive-or-thrive.json](./148521-survive-or-thrive.json) |
+| Survive Planet Yubglub | 274934 | [274934-survive-planet-yubglub.json](./274934-survive-planet-yubglub.json) |
 | Survive Ten Days | 306094 | [306094-survive-ten-days.json](./306094-survive-ten-days.json) |
 | Survive the Apocalypse | 404208 | [404208-survive-the-apocalypse.json](./404208-survive-the-apocalypse.json) |
 | Survive the Backrooms! | 192961 | [192961-survive-the-backrooms.json](./192961-survive-the-backrooms.json) |
@@ -22358,6 +22364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Symulator Tuska 2014 | 62204 | [62204-symulator-tuska-2014.json](./62204-symulator-tuska-2014.json) |
 | Syn-Chorus 01: The New Life | 339424 | [339424-syn-chorus-01-the-new-life.json](./339424-syn-chorus-01-the-new-life.json) |
 | Synaesthete | 79917 | [79917-synaesthete.json](./79917-synaesthete.json) |
+| Synami's Speedmaps | 274946 | [274946-synamis-speedmaps.json](./274946-synamis-speedmaps.json) |
 | Synapse | 239381 | [239381-synapse.json](./239381-synapse.json) |
 | Synapse | 58318 | [58318-synapse.json](./58318-synapse.json) |
 | Synapse Chronicles | 405017 | [405017-synapse-chronicles.json](./405017-synapse-chronicles.json) |
