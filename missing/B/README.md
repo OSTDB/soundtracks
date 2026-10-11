@@ -64,6 +64,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | B.O.B.2 | 303812 | [303812-b-o-b-2.json](./303812-b-o-b-2.json) |
 | B.O.D.A.: Send the Plant Home | 183967 | [183967-b-o-d-a-send-the-plant-home.json](./183967-b-o-d-a-send-the-plant-home.json) |
 | B.o.o.o. | 178676 | [178676-b-o-o-o.json](./178676-b-o-o-o.json) |
+| B.O.T.S.S.: Battle of the Solar System | 254972 | [254972-b-o-t-s-s-battle-of-the-solar-system.json](./254972-b-o-t-s-s-battle-of-the-solar-system.json) |
 | B.O.W II VR | 251830 | [251830-b-o-w-ii-vr.json](./251830-b-o-w-ii-vr.json) |
 | B.U.D.D. | 265677 | [265677-b-u-d-d.json](./265677-b-u-d-d.json) |
 | B.U.G. Force | 166725 | [166725-b-u-g-force.json](./166725-b-u-g-force.json) |
@@ -5063,6 +5064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Biomechanical Toy | 39613 | [39613-biomechanical-toy.json](./39613-biomechanical-toy.json) |
 | Biomeinoes | 275877 | [275877-biomeinoes.json](./275877-biomeinoes.json) |
 | BioMenace Remastered | 373528 | [373528-biomenace-remastered.json](./373528-biomenace-remastered.json) |
+| Biomes | 254993 | [254993-biomes.json](./254993-biomes.json) |
 | Biomes: Survival Era | 217412 | [217412-biomes-survival-era.json](./217412-biomes-survival-era.json) |
 | BioMetal | 10685 | [10685-biometal.json](./10685-biometal.json) |
 | BioMeteor | 377824 | [377824-biometeor.json](./377824-biometeor.json) |
@@ -10225,6 +10227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubbles | 38537 | [38537-bubbles.json](./38537-bubbles.json) |
 | Bubbles in the Air | 347093 | [347093-bubbles-in-the-air.json](./347093-bubbles-in-the-air.json) |
 | Bubbles Master | 230848 | [230848-bubbles-master.json](./230848-bubbles-master.json) |
+| Bubbles Popper 2 | 255009 | [255009-bubbles-popper-2.json](./255009-bubbles-popper-2.json) |
 | Bubbles Shot | 187430 | [187430-bubbles-shot.json](./187430-bubbles-shot.json) |
 | Bubbles Swimsuit | 225063 | [225063-bubbles-swimsuit.json](./225063-bubbles-swimsuit.json) |
 | Bubbles the Cat | 112934 | [112934-bubbles-the-cat.json](./112934-bubbles-the-cat.json) |
@@ -10379,6 +10382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bug Village | 94203 | [94203-bug-village.json](./94203-bug-village.json) |
 | Bug World | 14472 | [14472-bug-world.json](./14472-bug-world.json) |
 | Bug-o-Buster | 322985 | [322985-bug-o-buster.json](./322985-bug-o-buster.json) |
+| Bug: Beetles Underground | 254999 | [254999-bug-beetles-underground.json](./254999-bug-beetles-underground.json) |
 | Bug’s Quest for Tapes | 354570 | [354570-bug-s-quest-for-tapes.json](./354570-bug-s-quest-for-tapes.json) |
 | Bug×Bug | 285389 | [285389-bug-bug.json](./285389-bug-bug.json) |
 | BugAboo | 391796 | [391796-bugaboo.json](./391796-bugaboo.json) |
