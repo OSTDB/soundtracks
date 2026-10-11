@@ -5454,6 +5454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Earth Sucks | 337278 | [337278-the-earth-sucks.json](./337278-the-earth-sucks.json) |
 | The Easiest Way | 364660 | [364660-the-easiest-way.json](./364660-the-easiest-way.json) |
 | The Eastermansion | 252296 | [252296-the-eastermansion.json](./252296-the-eastermansion.json) |
+| The Eastern Drive | 261741 | [261741-the-eastern-drive.json](./261741-the-eastern-drive.json) |
 | The Eastern Edge | 341897 | [341897-the-eastern-edge.json](./341897-the-eastern-edge.json) |
 | The Eastern Sacrifice | 273659 | [273659-the-eastern-sacrifice.json](./273659-the-eastern-sacrifice.json) |
 | The Ebb and Flow of the Tide | 146196 | [146196-the-ebb-and-flow-of-the-tide.json](./146196-the-ebb-and-flow-of-the-tide.json) |
@@ -7887,6 +7888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of The Sacred Stone EX | 371336 | [371336-the-legend-of-the-sacred-stone-ex.json](./371336-the-legend-of-the-sacred-stone-ex.json) |
 | The Legend of the Spirit Bird | 172520 | [172520-the-legend-of-the-spirit-bird.json](./172520-the-legend-of-the-spirit-bird.json) |
 | The Legend of the War Axe | 190129 | [190129-the-legend-of-the-war-axe.json](./190129-the-legend-of-the-war-axe.json) |
+| The Legend of Tiny Man | 261721 | [261721-the-legend-of-tiny-man.json](./261721-the-legend-of-tiny-man.json) |
 | The Legend of White Whale | 243945 | [243945-the-legend-of-white-whale.json](./243945-the-legend-of-white-whale.json) |
 | The Legend of Xanadu | 73824 | [73824-the-legend-of-xanadu.json](./73824-the-legend-of-xanadu.json) |
 | The Legend of Xanadu II | 78738 | [78738-the-legend-of-xanadu-ii.json](./78738-the-legend-of-xanadu-ii.json) |
@@ -8351,6 +8353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lost Painter | 386120 | [386120-the-lost-painter.json](./386120-the-lost-painter.json) |
 | The Lost Penguin | 302038 | [302038-the-lost-penguin.json](./302038-the-lost-penguin.json) |
 | The Lost Pisces | 26987 | [26987-the-lost-pisces.json](./26987-the-lost-pisces.json) |
+| The Lost Prince | 261737 | [261737-the-lost-prince.json](./261737-the-lost-prince.json) |
 | The Lost Resort | 87558 | [87558-the-lost-resort.json](./87558-the-lost-resort.json) |
 | The Lost Ride | 46560 | [46560-the-lost-ride.json](./46560-the-lost-ride.json) |
 | The Lost Robot: Jigsaw Puzzle Stories | 155470 | [155470-the-lost-robot-jigsaw-puzzle-stories.json](./155470-the-lost-robot-jigsaw-puzzle-stories.json) |
@@ -11700,6 +11703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Voice: La Plus Belle Voix | 268433 | [268433-the-voice-la-plus-belle-voix.json](./268433-the-voice-la-plus-belle-voix.json) |
 | The Voices Games 2D Collection | 208590 | [208590-the-voices-games-2d-collection.json](./208590-the-voices-games-2d-collection.json) |
 | The Voices Games 3D Collection | 211776 | [211776-the-voices-games-3d-collection.json](./211776-the-voices-games-3d-collection.json) |
+| The Void | 261703 | [261703-the-void.json](./261703-the-void.json) |
 | The Void | 3273 | [3273-the-void.json](./3273-the-void.json) |
 | The Void | 357725 | [357725-the-void.json](./357725-the-void.json) |
 | The Void Below | 333167 | [333167-the-void-below.json](./333167-the-void-below.json) |
@@ -14647,6 +14651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Chao Garden | 341693 | [341693-tiny-chao-garden.json](./341693-tiny-chao-garden.json) |
 | Tiny Chao Garden | 341694 | [341694-tiny-chao-garden.json](./341694-tiny-chao-garden.json) |
 | Tiny Chao Garden DX | 302178 | [302178-tiny-chao-garden-dx.json](./302178-tiny-chao-garden-dx.json) |
+| Tiny Chaos | 261716 | [261716-tiny-chaos.json](./261716-tiny-chaos.json) |
 | Tiny Chills: Not From Ear | 395024 | [395024-tiny-chills-not-from-ear.json](./395024-tiny-chills-not-from-ear.json) |
 | Tiny Circumstance | 296209 | [296209-tiny-circumstance.json](./296209-tiny-circumstance.json) |
 | Tiny Clusters | 177477 | [177477-tiny-clusters.json](./177477-tiny-clusters.json) |
