@@ -2588,6 +2588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oricmunch | 137472 | [137472-oricmunch.json](./137472-oricmunch.json) |
 | Orient Arcadia | 197331 | [197331-orient-arcadia.json](./197331-orient-arcadia.json) |
 | Orient on the Murder Express | 310491 | [310491-orient-on-the-murder-express.json](./310491-orient-on-the-murder-express.json) |
+| Oriental Blue | 271139 | [271139-oriental-blue.json](./271139-oriental-blue.json) |
 | Oriental Blue: Ao no Tengai | 49414 | [49414-oriental-blue-ao-no-tengai.json](./49414-oriental-blue-ao-no-tengai.json) |
 | Oriental Dreams | 54263 | [54263-oriental-dreams.json](./54263-oriental-dreams.json) |
 | Oriental Empires | 35526 | [35526-oriental-empires.json](./35526-oriental-empires.json) |
