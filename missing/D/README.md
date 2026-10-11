@@ -1151,6 +1151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Secrets | 53912 | [53912-dark-secrets.json](./53912-dark-secrets.json) |
 | Dark Secrets Mystery Files | 399627 | [399627-dark-secrets-mystery-files.json](./399627-dark-secrets-mystery-files.json) |
 | Dark Sector | 6959 | [6959-dark-sector.json](./6959-dark-sector.json) |
+| Dark Seed | 247395 | [247395-dark-seed.json](./247395-dark-seed.json) |
 | Dark Seeker | 151698 | [151698-dark-seeker.json](./151698-dark-seeker.json) |
 | Dark Sentinel | 391739 | [391739-dark-sentinel.json](./391739-dark-sentinel.json) |
 | Dark Seraphim | 314614 | [314614-dark-seraphim.json](./314614-dark-seraphim.json) |
@@ -4923,6 +4924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil in the Details | 103959 | [103959-devil-in-the-details.json](./103959-devil-in-the-details.json) |
 | Devil in the Pines | 67598 | [67598-devil-in-the-pines.json](./67598-devil-in-the-pines.json) |
 | Devil Inside Us: Roots of Evil | 150782 | [150782-devil-inside-us-roots-of-evil.json](./150782-devil-inside-us-roots-of-evil.json) |
+| Devil Island | 247392 | [247392-devil-island.json](./247392-devil-island.json) |
 | Devil Jam | 291855 | [291855-devil-jam.json](./291855-devil-jam.json) |
 | Devil Legion: Battle war | 193889 | [193889-devil-legion-battle-war.json](./193889-devil-legion-battle-war.json) |
 | Devil Mail | 318758 | [318758-devil-mail.json](./318758-devil-mail.json) |
@@ -5565,12 +5567,17 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digi-Dodgy | 336676 | [336676-digi-dodgy.json](./336676-digi-dodgy.json) |
 | Digi-Doll | 345964 | [345964-digi-doll.json](./345964-digi-doll.json) |
 | Digiclimb | 402281 | [402281-digiclimb.json](./402281-digiclimb.json) |
+| Digimon 2 | 247398 | [247398-digimon-2.json](./247398-digimon-2.json) |
 | Digimon 20th Anniversary Digivice | 270626 | [270626-digimon-20th-anniversary-digivice.json](./270626-digimon-20th-anniversary-digivice.json) |
+| Digimon 6 | 247399 | [247399-digimon-6.json](./247399-digimon-6.json) |
+| Digimon Adventure | 247397 | [247397-digimon-adventure.json](./247397-digimon-adventure.json) |
 | Digimon Adventure Trading Card Game | 276115 | [276115-digimon-adventure-trading-card-game.json](./276115-digimon-adventure-trading-card-game.json) |
 | Digimon All-Star Rumble | 9286 | [9286-digimon-all-star-rumble.json](./9286-digimon-all-star-rumble.json) |
 | Digimon Alysion | 336087 | [336087-digimon-alysion.json](./336087-digimon-alysion.json) |
 | Digimon Collectors | 108999 | [108999-digimon-collectors.json](./108999-digimon-collectors.json) |
 | Digimon Color Monster Hunter 20th Edition | 335863 | [335863-digimon-color-monster-hunter-20th-edition.json](./335863-digimon-color-monster-hunter-20th-edition.json) |
+| Digimon Crystal Version II | 247401 | [247401-digimon-crystal-version-ii.json](./247401-digimon-crystal-version-ii.json) |
+| Digimon D-3 | 247402 | [247402-digimon-d-3.json](./247402-digimon-d-3.json) |
 | Digimon Davis and Veemon | 203236 | [203236-digimon-davis-and-veemon.json](./203236-digimon-davis-and-veemon.json) |
 | Digimon Digital Card Battle | 44819 | [44819-digimon-digital-card-battle.json](./44819-digimon-digital-card-battle.json) |
 | Digimon Fortune | 56488 | [56488-digimon-fortune.json](./56488-digimon-fortune.json) |
@@ -5580,6 +5587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digimon Linkz | 58622 | [58622-digimon-linkz.json](./58622-digimon-linkz.json) |
 | Digimon Masters Online | 25791 | [25791-digimon-masters-online.json](./25791-digimon-masters-online.json) |
 | Digimon New Century | 174707 | [174707-digimon-new-century.json](./174707-digimon-new-century.json) |
+| Digimon Pocket | 247403 | [247403-digimon-pocket.json](./247403-digimon-pocket.json) |
 | Digimon Story Cyber Sleuth: Complete Edition | 120551 | [120551-digimon-story-cyber-sleuth-complete-edition.json](./120551-digimon-story-cyber-sleuth-complete-edition.json) |
 | Digimon Story Time Stranger: Deluxe Edition | 390528 | [390528-digimon-story-time-stranger-deluxe-edition.json](./390528-digimon-story-time-stranger-deluxe-edition.json) |
 | Digimon Story Time Stranger: Ultimate Edition | 390529 | [390529-digimon-story-time-stranger-ultimate-edition.json](./390529-digimon-story-time-stranger-ultimate-edition.json) |
@@ -5653,6 +5661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digital Monster X | 274145 | [274145-digital-monster-x.json](./274145-digital-monster-x.json) |
 | Digital Monster X Ver.2 | 274146 | [274146-digital-monster-x-ver-2.json](./274146-digital-monster-x-ver-2.json) |
 | Digital Monster: Net Driver | 294204 | [294204-digital-monster-net-driver.json](./294204-digital-monster-net-driver.json) |
+| Digital Monsters 3 | 247407 | [247407-digital-monsters-3.json](./247407-digital-monsters-3.json) |
 | Digital Paint: Paintball 2 | 67950 | [67950-digital-paint-paintball-2.json](./67950-digital-paint-paintball-2.json) |
 | Digital Paintball Redux | 117785 | [117785-digital-paintball-redux.json](./117785-digital-paintball-redux.json) |
 | Digital Pinball: Last Gladiators | 19737 | [19737-digital-pinball-last-gladiators.json](./19737-digital-pinball-last-gladiators.json) |
@@ -7817,6 +7826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donkey Kong | 305300 | [305300-donkey-kong.json](./305300-donkey-kong.json) |
 | Donkey Kong | 40922 | [40922-donkey-kong.json](./40922-donkey-kong.json) |
 | Donkey Kong "Special Edition" | 305301 | [305301-donkey-kong-special-edition.json](./305301-donkey-kong-special-edition.json) |
+| Donkey Kong 2 | 247404 | [247404-donkey-kong-2.json](./247404-donkey-kong-2.json) |
 | Donkey Kong 2: The Rise of Jumpman! | 234768 | [234768-donkey-kong-2-the-rise-of-jumpman.json](./234768-donkey-kong-2-the-rise-of-jumpman.json) |
 | Donkey Kong 3 | 145239 | [145239-donkey-kong-3.json](./145239-donkey-kong-3.json) |
 | Donkey Kong 3 | 178167 | [178167-donkey-kong-3.json](./178167-donkey-kong-3.json) |
@@ -8235,6 +8245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dope Wars Mean Streets | 294287 | [294287-dope-wars-mean-streets.json](./294287-dope-wars-mean-streets.json) |
 | DopeMine Arena | 194556 | [194556-dopemine-arena.json](./194556-dopemine-arena.json) |
 | DopePie Survivors 3D | 390265 | [390265-dopepie-survivors-3d.json](./390265-dopepie-survivors-3d.json) |
+| Doppa | 247425 | [247425-doppa.json](./247425-doppa.json) |
 | Doppelganger | 180112 | [180112-doppelganger.json](./180112-doppelganger.json) |
 | Doppelganger | 180598 | [180598-doppelganger.json](./180598-doppelganger.json) |
 | Doppelgänger | 275029 | [275029-doppelganger.json](./275029-doppelganger.json) |
