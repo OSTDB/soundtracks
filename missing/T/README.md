@@ -3862,6 +3862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Backrooms | 401676 | [401676-the-backrooms.json](./401676-the-backrooms.json) |
 | The Backrooms Anthology | 236894 | [236894-the-backrooms-anthology.json](./236894-the-backrooms-anthology.json) |
 | The Backrooms Company | 293614 | [293614-the-backrooms-company.json](./293614-the-backrooms-company.json) |
+| The Backrooms Exploration | 276116 | [276116-the-backrooms-exploration.json](./276116-the-backrooms-exploration.json) |
 | The Backrooms Footage | 213973 | [213973-the-backrooms-footage.json](./213973-the-backrooms-footage.json) |
 | The Backrooms Game | 130726 | [130726-the-backrooms-game.json](./130726-the-backrooms-game.json) |
 | The Backrooms Multiplayer | 219565 | [219565-the-backrooms-multiplayer.json](./219565-the-backrooms-multiplayer.json) |
@@ -6080,6 +6081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Forgotten Sprites | 87986 | [87986-the-forgotten-sprites.json](./87986-the-forgotten-sprites.json) |
 | The Forgotten Tapes: Analog Nightmares | 231353 | [231353-the-forgotten-tapes-analog-nightmares.json](./231353-the-forgotten-tapes-analog-nightmares.json) |
 | The Forgotten Tapes: Twisted Forms | 245944 | [245944-the-forgotten-tapes-twisted-forms.json](./245944-the-forgotten-tapes-twisted-forms.json) |
+| The Forgotten Tribe | 276121 | [276121-the-forgotten-tribe.json](./276121-the-forgotten-tribe.json) |
 | The Forgotten Village | 337488 | [337488-the-forgotten-village.json](./337488-the-forgotten-village.json) |
 | The Forgotten Village of Gondomayit | 268215 | [268215-the-forgotten-village-of-gondomayit.json](./268215-the-forgotten-village-of-gondomayit.json) |
 | The Forgotten Villages of Gondomayit 2" Kost Karangsari | 285569 | [285569-the-forgotten-villages-of-gondomayit-2-kost-karangsari.json](./285569-the-forgotten-villages-of-gondomayit-2-kost-karangsari.json) |
@@ -10572,6 +10574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sound of Fireworks: The Haiku | 160266 | [160266-the-sound-of-fireworks-the-haiku.json](./160266-the-sound-of-fireworks-the-haiku.json) |
 | The Sound of Piano | 410190 | [410190-the-sound-of-piano.json](./410190-the-sound-of-piano.json) |
 | The Source | 249923 | [249923-the-source.json](./249923-the-source.json) |
+| The Source | 276141 | [276141-the-source.json](./276141-the-source.json) |
 | The source of evil | 29790 | [29790-the-source-of-evil.json](./29790-the-source-of-evil.json) |
 | The Source of the Nightmare Storms | 126625 | [126625-the-source-of-the-nightmare-storms.json](./126625-the-source-of-the-nightmare-storms.json) |
 | The South Island | 304381 | [304381-the-south-island.json](./304381-the-south-island.json) |
@@ -10883,6 +10886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tarot Experience VR | 257684 | [257684-the-tarot-experience-vr.json](./257684-the-tarot-experience-vr.json) |
 | The Tartarus Loop | 410449 | [410449-the-tartarus-loop.json](./410449-the-tartarus-loop.json) |
 | The Tartine's Show | 263657 | [263657-the-tartines-show.json](./263657-the-tartines-show.json) |
+| The Tau Experiment | 276144 | [276144-the-tau-experiment.json](./276144-the-tau-experiment.json) |
 | The Tavern | 36596 | [36596-the-tavern.json](./36596-the-tavern.json) |
 | The Tavern In the Woods | 347191 | [347191-the-tavern-in-the-woods.json](./347191-the-tavern-in-the-woods.json) |
 | The Tavern of Magic | 86413 | [86413-the-tavern-of-magic.json](./86413-the-tavern-of-magic.json) |
@@ -11641,6 +11645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Void Between | 282022 | [282022-the-void-between.json](./282022-the-void-between.json) |
 | The Void Chronicles: One's Desolation | 285908 | [285908-the-void-chronicles-ones-desolation.json](./285908-the-void-chronicles-ones-desolation.json) |
 | The Void Corridors | 337123 | [337123-the-void-corridors.json](./337123-the-void-corridors.json) |
+| The Void Project | 276145 | [276145-the-void-project.json](./276145-the-void-project.json) |
 | The Void Rolls Back | 256785 | [256785-the-void-rolls-back.json](./256785-the-void-rolls-back.json) |
 | The Volcano | 125463 | [125463-the-volcano.json](./125463-the-volcano.json) |
 | The Volleyball B | 214475 | [214475-the-volleyball-b.json](./214475-the-volleyball-b.json) |
@@ -14841,6 +14846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Titan Slayer II | 111078 | [111078-titan-slayer-ii.json](./111078-titan-slayer-ii.json) |
 | Titan Souls: Digital Special Edition | 53807 | [53807-titan-souls-digital-special-edition.json](./53807-titan-souls-digital-special-edition.json) |
 | Titan Station | 217319 | [217319-titan-station.json](./217319-titan-station.json) |
+| Titan Station: VR | 276146 | [276146-titan-station-vr.json](./276146-titan-station-vr.json) |
 | Titan Survival | 267676 | [267676-titan-survival.json](./267676-titan-survival.json) |
 | Titan Tank Rumble | 85442 | [85442-titan-tank-rumble.json](./85442-titan-tank-rumble.json) |
 | Titan-3D | 53806 | [53806-titan-3d.json](./53806-titan-3d.json) |
@@ -15069,6 +15075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | To the Stars and Beyond! | 117572 | [117572-to-the-stars-and-beyond.json](./117572-to-the-stars-and-beyond.json) |
 | To the Stars Idle | 396212 | [396212-to-the-stars-idle.json](./396212-to-the-stars-idle.json) |
 | To the Sunset | 374781 | [374781-to-the-sunset.json](./374781-to-the-sunset.json) |
+| To the Tavern | 276147 | [276147-to-the-tavern.json](./276147-to-the-tavern.json) |
 | To the Top | 219534 | [219534-to-the-top.json](./219534-to-the-top.json) |
 | To the Top, Mammoth! | 192013 | [192013-to-the-top-mammoth.json](./192013-to-the-top-mammoth.json) |
 | To The Trenches | 401663 | [401663-to-the-trenches.json](./401663-to-the-trenches.json) |
@@ -16597,6 +16604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Mario: Imperishable Night | 214996 | [214996-touhou-mario-imperishable-night.json](./214996-touhou-mario-imperishable-night.json) |
 | Touhou Mashousei: Fairies of Sorcery | 280178 | [280178-touhou-mashousei-fairies-of-sorcery.json](./280178-touhou-mashousei-fairies-of-sorcery.json) |
 | Touhou Mechanical Scrollery | 130061 | [130061-touhou-mechanical-scrollery.json](./130061-touhou-mechanical-scrollery.json) |
+| Touhou Meijinka: Song of Divine Tempest | 276143 | [276143-touhou-meijinka-song-of-divine-tempest.json](./276143-touhou-meijinka-song-of-divine-tempest.json) |
 | Touhou Meisuishu: Resurrection of Heaven's Liquor | 375382 | [375382-touhou-meisuishu-resurrection-of-heavens-liquor.json](./375382-touhou-meisuishu-resurrection-of-heavens-liquor.json) |
 | Touhou Mini Map | 292828 | [292828-touhou-mini-map.json](./292828-touhou-mini-map.json) |
 | Touhou Mix | 193870 | [193870-touhou-mix.json](./193870-touhou-mix.json) |
@@ -16843,6 +16851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower of Guns | 16880 | [16880-tower-of-guns.json](./16880-tower-of-guns.json) |
 | Tower of Hanoi | 188579 | [188579-tower-of-hanoi.json](./188579-tower-of-hanoi.json) |
 | Tower of Heresy | 127799 | [127799-tower-of-heresy.json](./127799-tower-of-heresy.json) |
+| Tower of Hidden Waifus | 276142 | [276142-tower-of-hidden-waifus.json](./276142-tower-of-hidden-waifus.json) |
 | Tower Of Lies | 291520 | [291520-tower-of-lies.json](./291520-tower-of-lies.json) |
 | Tower of Madness | 318692 | [318692-tower-of-madness.json](./318692-tower-of-madness.json) |
 | Tower of Magic | 170275 | [170275-tower-of-magic.json](./170275-tower-of-magic.json) |
@@ -17830,6 +17839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train to Nowhere | 309617 | [309617-train-to-nowhere.json](./309617-train-to-nowhere.json) |
 | Train to Sachsenhausen | 400563 | [400563-train-to-sachsenhausen.json](./400563-train-to-sachsenhausen.json) |
 | Train Toremaru: Connect & Solve | 159159 | [159159-train-toremaru-connect-and-solve.json](./159159-train-toremaru-connect-and-solve.json) |
+| Train Traffic Manager | 276126 | [276126-train-traffic-manager.json](./276126-train-traffic-manager.json) |
 | Train Traffic Manager: Deluxe Edition | 298576 | [298576-train-traffic-manager-deluxe-edition.json](./298576-train-traffic-manager-deluxe-edition.json) |
 | Train Traffic Manager: Diamond Edition | 317244 | [317244-train-traffic-manager-diamond-edition.json](./317244-train-traffic-manager-diamond-edition.json) |
 | Train Traffic Manager: Gold Edition | 308794 | [308794-train-traffic-manager-gold-edition.json](./308794-train-traffic-manager-gold-edition.json) |
@@ -19993,6 +20003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TunnelWorm | 87108 | [87108-tunnelworm.json](./87108-tunnelworm.json) |
 | Tunnet | 244339 | [244339-tunnet.json](./244339-tunnet.json) |
 | Tunshi Kongming Legends | 110342 | [110342-tunshi-kongming-legends.json](./110342-tunshi-kongming-legends.json) |
+| TunsTan | 276148 | [276148-tunstan.json](./276148-tunstan.json) |
 | TunTun | 310008 | [310008-tuntun.json](./310008-tuntun.json) |
 | Tuōlājī | 104116 | [104116-tuolaji.json](./104116-tuolaji.json) |
 | Tuōtuōlālā Xiǎofēi Zhèn | 415512 | [415512-tuotuolala-xiaofei-zhen.json](./415512-tuotuolala-xiaofei-zhen.json) |
@@ -20525,6 +20536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Two girls punch me repeatedly | 162746 | [162746-two-girls-punch-me-repeatedly.json](./162746-two-girls-punch-me-repeatedly.json) |
 | Two Guns | 117680 | [117680-two-guns.json](./117680-two-guns.json) |
 | Two Handed Mage | 187223 | [187223-two-handed-mage.json](./187223-two-handed-mage.json) |
+| Two Hands Eggs | 276149 | [276149-two-hands-eggs.json](./276149-two-hands-eggs.json) |
 | Two Hands Hospital Assistant Simulator | 370007 | [370007-two-hands-hospital-assistant-simulator.json](./370007-two-hands-hospital-assistant-simulator.json) |
 | Two Heads of the Coin | 86082 | [86082-two-heads-of-the-coin.json](./86082-two-heads-of-the-coin.json) |
 | Two Hoops | 234317 | [234317-two-hoops.json](./234317-two-hoops.json) |
