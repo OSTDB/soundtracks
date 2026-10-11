@@ -1372,6 +1372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zoop | 20615 | [20615-zoop.json](./20615-zoop.json) |
 | Zoop | 301393 | [301393-zoop.json](./301393-zoop.json) |
 | Zoop | 301395 | [301395-zoop.json](./301395-zoop.json) |
+| Zoopaloola | 277235 | [277235-zoopaloola.json](./277235-zoopaloola.json) |
 | Zooparasite | 308918 | [308918-zooparasite.json](./308918-zooparasite.json) |
 | Zooplop | 278103 | [278103-zooplop.json](./278103-zooplop.json) |
 | Zooports: The Football | 145303 | [145303-zooports-the-football.json](./145303-zooports-the-football.json) |
