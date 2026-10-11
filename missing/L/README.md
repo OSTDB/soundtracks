@@ -756,6 +756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Course | 356289 | [356289-last-course.json](./356289-last-course.json) |
 | Last Dawn | 236847 | [236847-last-dawn.json](./236847-last-dawn.json) |
 | Last Day | 224026 | [224026-last-day.json](./224026-last-day.json) |
+| Last Day Lockdown | 272758 | [272758-last-day-lockdown.json](./272758-last-day-lockdown.json) |
 | Last Day of June | 36543 | [36543-last-day-of-june.json](./36543-last-day-of-june.json) |
 | Last Day of Rome | 119551 | [119551-last-day-of-rome.json](./119551-last-day-of-rome.json) |
 | Last Day Rules: Survival | 174717 | [174717-last-day-rules-survival.json](./174717-last-day-rules-survival.json) |
@@ -1632,6 +1633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of Mortal | 203852 | [203852-legend-of-mortal.json](./203852-legend-of-mortal.json) |
 | Legend of Mysteria RPG | 53268 | [53268-legend-of-mysteria-rpg.json](./53268-legend-of-mysteria-rpg.json) |
 | Legend of Parry King | 309506 | [309506-legend-of-parry-king.json](./309506-legend-of-parry-king.json) |
+| Legend Of Peks: Halloween Horror | 272753 | [272753-legend-of-peks-halloween-horror.json](./272753-legend-of-peks-halloween-horror.json) |
 | Legend of Penguin | 290996 | [290996-legend-of-penguin.json](./290996-legend-of-penguin.json) |
 | Legend of Pirates:Sailing Log | 89506 | [89506-legend-of-pirates-sailing-log.json](./89506-legend-of-pirates-sailing-log.json) |
 | Legend of Pong Lonng Fighter Sunny'na | 267930 | [267930-legend-of-pong-lonng-fighter-sunnyna.json](./267930-legend-of-pong-lonng-fighter-sunnyna.json) |
