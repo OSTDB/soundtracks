@@ -11885,6 +11885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mung Daal Odyssey | 326589 | [326589-mung-daal-odyssey.json](./326589-mung-daal-odyssey.json) |
 | Munich Bus Simulator | 36440 | [36440-munich-bus-simulator.json](./36440-munich-bus-simulator.json) |
 | Munkiki's Castles | 111740 | [111740-munkikis-castles.json](./111740-munkikis-castles.json) |
+| Munlay Online | 271682 | [271682-munlay-online.json](./271682-munlay-online.json) |
 | Munro's Tweetcarts | 183420 | [183420-munros-tweetcarts.json](./183420-munros-tweetcarts.json) |
 | Mupo | 389656 | [389656-mupo.json](./389656-mupo.json) |
 | Muppet Adventure: Chaos at the Carnival | 3257 | [3257-muppet-adventure-chaos-at-the-carnival.json](./3257-muppet-adventure-chaos-at-the-carnival.json) |
