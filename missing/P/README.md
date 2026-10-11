@@ -4332,6 +4332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball Breakout 2 | 112114 | [112114-pinball-breakout-2.json](./112114-pinball-breakout-2.json) |
 | Pinball Breeze | 354432 | [354432-pinball-breeze.json](./354432-pinball-breeze.json) |
 | Pinball Challenge Deluxe | 49361 | [49361-pinball-challenge-deluxe.json](./49361-pinball-challenge-deluxe.json) |
+| Pinball Champ '95 | 266680 | [266680-pinball-champ-95.json](./266680-pinball-champ-95.json) |
 | Pinball Crush | 353810 | [353810-pinball-crush.json](./353810-pinball-crush.json) |
 | Pinball Crystal Caliburn II | 103573 | [103573-pinball-crystal-caliburn-ii.json](./103573-pinball-crystal-caliburn-ii.json) |
 | Pinball Deluxe | 209958 | [209958-pinball-deluxe.json](./209958-pinball-deluxe.json) |
