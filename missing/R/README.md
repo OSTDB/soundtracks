@@ -1298,6 +1298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raster Prime: Remix | 162415 | [162415-raster-prime-remix.json](./162415-raster-prime-remix.json) |
 | RasterFire | 412570 | [412570-rasterfire.json](./412570-rasterfire.json) |
 | Rat Arena | 106585 | [106585-rat-arena.json](./106585-rat-arena.json) |
+| Rat Catcher | 257862 | [257862-rat-catcher.json](./257862-rat-catcher.json) |
 | Rat Climber | 330135 | [330135-rat-climber.json](./330135-rat-climber.json) |
 | Rat Farm | 414418 | [414418-rat-farm.json](./414418-rat-farm.json) |
 | Rat Hotel | 296230 | [296230-rat-hotel.json](./296230-rat-hotel.json) |
@@ -3172,6 +3173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Renegade Legion: Interceptor | 73333 | [73333-renegade-legion-interceptor.json](./73333-renegade-legion-interceptor.json) |
 | Renegade Ops: Coldstrike Campaign | 140394 | [140394-renegade-ops-coldstrike-campaign.json](./140394-renegade-ops-coldstrike-campaign.json) |
 | Renegade Ops: Reinforcement Pack | 140393 | [140393-renegade-ops-reinforcement-pack.json](./140393-renegade-ops-reinforcement-pack.json) |
+| Renegade Racing | 257872 | [257872-renegade-racing.json](./257872-renegade-racing.json) |
 | Renegade Racing | 328010 | [328010-renegade-racing.json](./328010-renegade-racing.json) |
 | Renegade Run | 405710 | [405710-renegade-run.json](./405710-renegade-run.json) |
 | Renegade Rush | 339854 | [339854-renegade-rush.json](./339854-renegade-rush.json) |
