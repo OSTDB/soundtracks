@@ -3671,6 +3671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire From Heaven | 73888 | [73888-fire-from-heaven.json](./73888-fire-from-heaven.json) |
 | Fire Fu | 102618 | [102618-fire-fu.json](./102618-fire-fu.json) |
 | Fire Galaxy | 73352 | [73352-fire-galaxy.json](./73352-fire-galaxy.json) |
+| Fire Guardian | 277780 | [277780-fire-guardian.json](./277780-fire-guardian.json) |
 | Fire Hawk | 40135 | [40135-fire-hawk.json](./40135-fire-hawk.json) |
 | Fire Hero: Pixel Rescue | 332967 | [332967-fire-hero-pixel-rescue.json](./332967-fire-hero-pixel-rescue.json) |
 | Fire Hoops | 94413 | [94413-fire-hoops.json](./94413-fire-hoops.json) |
@@ -4324,6 +4325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Nights at Freddy's: Sister Location | 19320 | [19320-five-nights-at-freddys-sister-location.json](./19320-five-nights-at-freddys-sister-location.json) |
 | Five Nights at Freddy's: Sister Location | 241462 | [241462-five-nights-at-freddys-sister-location.json](./241462-five-nights-at-freddys-sister-location.json) |
 | Five Nights at Freddy's: Sister Location VR | 191642 | [191642-five-nights-at-freddys-sister-location-vr.json](./191642-five-nights-at-freddys-sister-location-vr.json) |
+| Five Nights at Freddys: 1993 | 277871 | [277871-five-nights-at-freddys-1993.json](./277871-five-nights-at-freddys-1993.json) |
 | Five Nights at Frickbear's | 395008 | [395008-five-nights-at-frickbears.json](./395008-five-nights-at-frickbears.json) |
 | Five Nights at Frickbear's 3 | 341540 | [341540-five-nights-at-frickbears-3.json](./341540-five-nights-at-frickbears-3.json) |
 | Five Nights at Frickbears 2 | 395010 | [395010-five-nights-at-frickbears-2.json](./395010-five-nights-at-frickbears-2.json) |
@@ -6538,6 +6540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forza Motorsport 2: Limited Collector's Edition | 47469 | [47469-forza-motorsport-2-limited-collectors-edition.json](./47469-forza-motorsport-2-limited-collectors-edition.json) |
 | Forza Motorsport 2: The Complete Collection | 380672 | [380672-forza-motorsport-2-the-complete-collection.json](./380672-forza-motorsport-2-the-complete-collection.json) |
 | Forza Motorsport 2018 Mercedes-AMG GT3 | 278521 | [278521-forza-motorsport-2018-mercedes-amg-gt3.json](./278521-forza-motorsport-2018-mercedes-amg-gt3.json) |
+| Forza Motorsport 2019: McLaren #03 720S GT3 | 277790 | [277790-forza-motorsport-2019-mclaren-03-720s-gt3.json](./277790-forza-motorsport-2019-mclaren-03-720s-gt3.json) |
 | Forza Motorsport 3: Limited Collector's Edition | 47471 | [47471-forza-motorsport-3-limited-collectors-edition.json](./47471-forza-motorsport-3-limited-collectors-edition.json) |
 | Forza Motorsport 4 | 3068 | [3068-forza-motorsport-4.json](./3068-forza-motorsport-4.json) |
 | Forza Motorsport 4: Essentials Edition | 47395 | [47395-forza-motorsport-4-essentials-edition.json](./47395-forza-motorsport-4-essentials-edition.json) |
