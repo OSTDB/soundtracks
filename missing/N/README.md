@@ -2106,6 +2106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Super Mario Bros. 5: Clone Tag Team 2 | 146279 | [146279-new-super-mario-bros-5-clone-tag-team-2.json](./146279-new-super-mario-bros-5-clone-tag-team-2.json) |
 | New Super Mario Bros. Deluxe | 107234 | [107234-new-super-mario-bros-deluxe.json](./107234-new-super-mario-bros-deluxe.json) |
 | New Super Mario Bros. DS Co-Op | 294785 | [294785-new-super-mario-bros-ds-co-op.json](./294785-new-super-mario-bros-ds-co-op.json) |
+| New Super Mario Bros. F | 255602 | [255602-new-super-mario-bros-f.json](./255602-new-super-mario-bros-f.json) |
 | New Super Mario Bros. Mii | 175961 | [175961-new-super-mario-bros-mii.json](./175961-new-super-mario-bros-mii.json) |
 | New Super Mario Bros. The Missing Italian | 394344 | [394344-new-super-mario-bros-the-missing-italian.json](./394344-new-super-mario-bros-the-missing-italian.json) |
 | New Super Mario Bros. U | 2171 | [2171-new-super-mario-bros-u.json](./2171-new-super-mario-bros-u.json) |
@@ -2122,6 +2123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Super Mario Bros. Wii DS | 230759 | [230759-new-super-mario-bros-wii-ds.json](./230759-new-super-mario-bros-wii-ds.json) |
 | New Super Mario Bros. Wii: The Prankster Comets | 313432 | [313432-new-super-mario-bros-wii-the-prankster-comets.json](./313432-new-super-mario-bros-wii-the-prankster-comets.json) |
 | New Super Mario Bros.: 1-Up Hunt! | 231648 | [231648-new-super-mario-bros-1-up-hunt.json](./231648-new-super-mario-bros-1-up-hunt.json) |
+| New Super Mario Castle | 255604 | [255604-new-super-mario-castle.json](./255604-new-super-mario-castle.json) |
 | New Super Mario Kart | 250049 | [250049-new-super-mario-kart.json](./250049-new-super-mario-kart.json) |
 | New Super Mario Land | 132641 | [132641-new-super-mario-land.json](./132641-new-super-mario-land.json) |
 | New Super Mario Lost Worlds | 394349 | [394349-new-super-mario-lost-worlds.json](./394349-new-super-mario-lost-worlds.json) |
