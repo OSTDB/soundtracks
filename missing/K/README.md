@@ -1884,6 +1884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King Krieg Survivors | 295683 | [295683-king-krieg-survivors.json](./295683-king-krieg-survivors.json) |
 | King Lucas | 26371 | [26371-king-lucas.json](./26371-king-lucas.json) |
 | King NooB | 180054 | [180054-king-noob.json](./180054-king-noob.json) |
+| King of Avalon | 265517 | [265517-king-of-avalon.json](./265517-king-of-avalon.json) |
 | King of Bali | 50547 | [50547-king-of-bali.json](./50547-king-of-bali.json) |
 | King of Bees in Fantasy Land | 139310 | [139310-king-of-bees-in-fantasy-land.json](./139310-king-of-bees-in-fantasy-land.json) |
 | King of BMX | 91979 | [91979-king-of-bmx.json](./91979-king-of-bmx.json) |
