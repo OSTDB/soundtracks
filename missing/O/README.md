@@ -1096,6 +1096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OMG: One More Goal! | 157072 | [157072-omg-one-more-goal.json](./157072-omg-one-more-goal.json) |
 | OMG: Our Manic Game | 66420 | [66420-omg-our-manic-game.json](./66420-omg-our-manic-game.json) |
 | OMG!: Overhead Micro Game | 379711 | [379711-omg-overhead-micro-game.json](./379711-omg-overhead-micro-game.json) |
+| Omh | 277227 | [277227-omh.json](./277227-omh.json) |
 | Omi Oh My AI | 215393 | [215393-omi-oh-my-ai.json](./215393-omi-oh-my-ai.json) |
 | Omicroid | 107675 | [107675-omicroid.json](./107675-omicroid.json) |
 | Omicron: Coronavirus Battlegrounds | 393453 | [393453-omicron-coronavirus-battlegrounds.json](./393453-omicron-coronavirus-battlegrounds.json) |
