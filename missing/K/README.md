@@ -933,6 +933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keep Talking and Nobody Explodes | 13226 | [13226-keep-talking-and-nobody-explodes.json](./13226-keep-talking-and-nobody-explodes.json) |
 | Keep the Balance | 50038 | [50038-keep-the-balance.json](./50038-keep-the-balance.json) |
 | Keep The Beat | 381598 | [381598-keep-the-beat.json](./381598-keep-the-beat.json) |
+| Keep The Fire: Survival Simulator | 276127 | [276127-keep-the-fire-survival-simulator.json](./276127-keep-the-fire-survival-simulator.json) |
 | Keep the Heroes Out | 276656 | [276656-keep-the-heroes-out.json](./276656-keep-the-heroes-out.json) |
 | Keep Them Below | 59037 | [59037-keep-them-below.json](./59037-keep-them-below.json) |
 | Keep to the Blue | 416861 | [416861-keep-to-the-blue.json](./416861-keep-to-the-blue.json) |
