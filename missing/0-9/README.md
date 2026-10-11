@@ -658,6 +658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 13 Letters | 98416 | [98416-13-letters.json](./98416-13-letters.json) |
 | 13 Masca | 405725 | [405725-13-masca.json](./405725-13-masca.json) |
 | 13 Page | 201304 | [201304-13-page.json](./201304-13-page.json) |
+| 13 Rosas | 270620 | [270620-13-rosas.json](./270620-13-rosas.json) |
 | 13 Seconds | 283868 | [283868-13-seconds.json](./283868-13-seconds.json) |
 | 13 Thieves | 234074 | [234074-13-thieves.json](./234074-13-thieves.json) |
 | 13 Wood St | 152479 | [152479-13-wood-st.json](./152479-13-wood-st.json) |
