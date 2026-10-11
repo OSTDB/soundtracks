@@ -3543,6 +3543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Senua | 405072 | [405072-senua.json](./405072-senua.json) |
 | Senza Peso | 32225 | [32225-senza-peso.json](./32225-senza-peso.json) |
 | Seoirye | 257680 | [257680-seoirye.json](./257680-seoirye.json) |
+| Seonbi: Scholar of Joseon | 247949 | [247949-seonbi-scholar-of-joseon.json](./247949-seonbi-scholar-of-joseon.json) |
 | Seoul 2033 | 215092 | [215092-seoul-2033.json](./215092-seoul-2033.json) |
 | Seoul Apocalypse | 256454 | [256454-seoul-apocalypse.json](./256454-seoul-apocalypse.json) |
 | Seoul Exorcist 1111 | 347761 | [347761-seoul-exorcist-1111.json](./347761-seoul-exorcist-1111.json) |
@@ -10454,6 +10455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solo Flight | 25037 | [25037-solo-flight.json](./25037-solo-flight.json) |
 | Solo Flight | 289550 | [289550-solo-flight.json](./289550-solo-flight.json) |
 | Solo Fox | 143369 | [143369-solo-fox.json](./143369-solo-fox.json) |
+| Solo Hunt: Ten Floor | 247926 | [247926-solo-hunt-ten-floor.json](./247926-solo-hunt-ten-floor.json) |
 | Solo King: Single Player - Texas Hold'em Poker | 130130 | [130130-solo-king-single-player-texas-holdem-poker.json](./130130-solo-king-single-player-texas-holdem-poker.json) |
 | Solo Leveling: Arise Overdrive | 349302 | [349302-solo-leveling-arise-overdrive.json](./349302-solo-leveling-arise-overdrive.json) |
 | Solo Noble | 175374 | [175374-solo-noble.json](./175374-solo-noble.json) |
@@ -11732,6 +11734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soulblade: Dawnbreaker | 380003 | [380003-soulblade-dawnbreaker.json](./380003-soulblade-dawnbreaker.json) |
 | Soulblaze | 325674 | [325674-soulblaze.json](./325674-soulblaze.json) |
 | Soulborn | 132183 | [132183-soulborn.json](./132183-soulborn.json) |
+| Soulbound | 247967 | [247967-soulbound.json](./247967-soulbound.json) |
 | SoulBound | 215932 | [215932-soulbound.json](./215932-soulbound.json) |
 | Soulbound Steel | 159791 | [159791-soulbound-steel.json](./159791-soulbound-steel.json) |
 | SoulCalibur II | 1565 | [1565-soulcalibur-ii.json](./1565-soulcalibur-ii.json) |
@@ -13692,6 +13695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spikeout: Battle Street | 6056 | [6056-spikeout-battle-street.json](./6056-spikeout-battle-street.json) |
 | SpikeOut: Final Edition | 319157 | [319157-spikeout-final-edition.json](./319157-spikeout-final-edition.json) |
 | Spiker | 46869 | [46869-spiker.json](./46869-spiker.json) |
+| SpikerMan X | 247947 | [247947-spikerman-x.json](./247947-spikerman-x.json) |
 | Spikers Battle | 39791 | [39791-spikers-battle.json](./39791-spikers-battle.json) |
 | Spikes Are Dangerous | 118434 | [118434-spikes-are-dangerous.json](./118434-spikes-are-dangerous.json) |
 | Spikeventure | 345641 | [345641-spikeventure.json](./345641-spikeventure.json) |
@@ -18224,6 +18228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Subbuteo | 21457 | [21457-subbuteo.json](./21457-subbuteo.json) |
 | Subconscious | 177386 | [177386-subconscious.json](./177386-subconscious.json) |
 | Subconsciousism | 396225 | [396225-subconsciousism.json](./396225-subconsciousism.json) |
+| Subcrew | 247965 | [247965-subcrew.json](./247965-subcrew.json) |
 | Subcube | 126555 | [126555-subcube.json](./126555-subcube.json) |
 | Subdivided | 132770 | [132770-subdivided.json](./132770-subdivided.json) |
 | Subdivision | 387706 | [387706-subdivision.json](./387706-subdivision.json) |
@@ -21898,6 +21903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swans At The Welkin | 390718 | [390718-swans-at-the-welkin.json](./390718-swans-at-the-welkin.json) |
 | Swap | 177370 | [177370-swap.json](./177370-swap.json) |
 | Swap | 219556 | [219556-swap.json](./219556-swap.json) |
+| Swap | 247928 | [247928-swap.json](./247928-swap.json) |
 | Swap | 93171 | [93171-swap.json](./93171-swap.json) |
 | Swap Blocks | 44217 | [44217-swap-blocks.json](./44217-swap-blocks.json) |
 | Swap Fire | 336655 | [336655-swap-fire.json](./336655-swap-fire.json) |
