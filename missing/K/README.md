@@ -571,6 +571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Karaoke Squad | 364693 | [364693-karaoke-squad.json](./364693-karaoke-squad.json) |
 | Karaoke Studio | 79252 | [79252-karaoke-studio.json](./79252-karaoke-studio.json) |
 | Karate | 14253 | [14253-karate.json](./14253-karate.json) |
+| Karate | 250219 | [250219-karate.json](./250219-karate.json) |
 | Karate Beasts | 215591 | [215591-karate-beasts.json](./215591-karate-beasts.json) |
 | Karate Blazers | 39579 | [39579-karate-blazers.json](./39579-karate-blazers.json) |
 | Karate Bros | 336067 | [336067-karate-bros.json](./336067-karate-bros.json) |
@@ -1885,6 +1886,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King Island 3 | 293534 | [293534-king-island-3.json](./293534-king-island-3.json) |
 | King James Bible DX | 358319 | [358319-king-james-bible-dx.json](./358319-king-james-bible-dx.json) |
 | King James Bible for Use on Game Boy | 79876 | [79876-king-james-bible-for-use-on-game-boy.json](./79876-king-james-bible-for-use-on-game-boy.json) |
+| King K Roller | 250227 | [250227-king-k-roller.json](./250227-king-k-roller.json) |
+| King K Roller 2 | 250228 | [250228-king-k-roller-2.json](./250228-king-k-roller-2.json) |
 | King Kaiju | 25924 | [25924-king-kaiju.json](./25924-king-kaiju.json) |
 | King Kong | 18763 | [18763-king-kong.json](./18763-king-kong.json) |
 | King Kong | 198793 | [198793-king-kong.json](./198793-king-kong.json) |
@@ -3433,6 +3436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kotoko's a Little Weird | 290687 | [290687-kotokos-a-little-weird.json](./290687-kotokos-a-little-weird.json) |
 | Kotomasho: I Can't Believe This Neet Guy Turned Into a Magical Girl! | 203532 | [203532-kotomasho-i-cant-believe-this-neet-guy-turned-into-a-magical-girl.json](./203532-kotomasho-i-cant-believe-this-neet-guy-turned-into-a-magical-girl.json) |
 | Kotone no Shuki Shuki Polynesian Sex | 398693 | [398693-kotone-no-shuki-shuki-polynesian-sex.json](./398693-kotone-no-shuki-shuki-polynesian-sex.json) |
+| Kotonoha Lernado | 250245 | [250245-kotonoha-lernado.json](./250245-kotonoha-lernado.json) |
 | Kotori no Tsubasa | 405511 | [405511-kotori-no-tsubasa.json](./405511-kotori-no-tsubasa.json) |
 | Kotori with a gun | 148384 | [148384-kotori-with-a-gun.json](./148384-kotori-with-a-gun.json) |
 | Kotoro | 218964 | [218964-kotoro.json](./218964-kotoro.json) |
