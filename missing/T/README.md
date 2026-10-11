@@ -5656,6 +5656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Enemies Are You | 112255 | [112255-the-enemies-are-you.json](./112255-the-enemies-are-you.json) |
 | The Enemy Approached the Walls | 224536 | [224536-the-enemy-approached-the-walls.json](./224536-the-enemy-approached-the-walls.json) |
 | The Enemy Below | 151010 | [151010-the-enemy-below.json](./151010-the-enemy-below.json) |
+| The Enemy Weapons Are Better | 247369 | [247369-the-enemy-weapons-are-better.json](./247369-the-enemy-weapons-are-better.json) |
 | The Enforcer | 154344 | [154344-the-enforcer.json](./154344-the-enforcer.json) |
 | The Enforcer | 60493 | [60493-the-enforcer.json](./60493-the-enforcer.json) |
 | The Engraved Dispatch | 181366 | [181366-the-engraved-dispatch.json](./181366-the-engraved-dispatch.json) |
@@ -6517,6 +6518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Great Urban Battle | 260142 | [260142-the-great-urban-battle.json](./260142-the-great-urban-battle.json) |
 | The Great Villainess: Strategy of Lily | 259708 | [259708-the-great-villainess-strategy-of-lily.json](./259708-the-great-villainess-strategy-of-lily.json) |
 | The Great Waldo Search | 275020 | [275020-the-great-waldo-search.json](./275020-the-great-waldo-search.json) |
+| The Great War 3032 | 247368 | [247368-the-great-war-3032.json](./247368-the-great-war-3032.json) |
 | The Great War: Western Front | 214505 | [214505-the-great-war-western-front.json](./214505-the-great-war-western-front.json) |
 | The Great Whale Road | 19788 | [19788-the-great-whale-road.json](./19788-the-great-whale-road.json) |
 | The Great Wizards Tournament | 123443 | [123443-the-great-wizards-tournament.json](./123443-the-great-wizards-tournament.json) |
@@ -16157,6 +16159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Top Management II | 37785 | [37785-top-management-ii.json](./37785-top-management-ii.json) |
 | Top Model 3D | 84948 | [84948-top-model-3d.json](./84948-top-model-3d.json) |
 | Top Model Makeover - Girls Makeup & Dress Up Games | 90216 | [90216-top-model-makeover-girls-makeup-and-dress-up-games.json](./90216-top-model-makeover-girls-makeup-and-dress-up-games.json) |
+| Top PUA | 247424 | [247424-top-pua.json](./247424-top-pua.json) |
 | Top Race | 236832 | [236832-top-race.json](./236832-top-race.json) |
 | Top Run | 129126 | [129126-top-run.json](./129126-top-run.json) |
 | Top Runner | 172532 | [172532-top-runner.json](./172532-top-runner.json) |
