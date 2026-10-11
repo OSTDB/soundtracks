@@ -1384,6 +1384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jissen Pachinko Hisshouhou! CR Aladdin Destiny EX | 82311 | [82311-jissen-pachinko-hisshouhou-cr-aladdin-destiny-ex.json](./82311-jissen-pachinko-hisshouhou-cr-aladdin-destiny-ex.json) |
 | Jissen Pachinko Hisshouhou! CR Sakura Taisen | 62126 | [62126-jissen-pachinko-hisshouhou-cr-sakura-taisen.json](./62126-jissen-pachinko-hisshouhou-cr-sakura-taisen.json) |
 | Jissen Pachinko Hisshouhou! CR Salaryman Kintarou | 82308 | [82308-jissen-pachinko-hisshouhou-cr-salaryman-kintarou.json](./82308-jissen-pachinko-hisshouhou-cr-salaryman-kintarou.json) |
+| Jissou Land | 262843 | [262843-jissou-land.json](./262843-jissou-land.json) |
 | Jitaku Keibiin no Oshigoto | 358485 | [358485-jitaku-keibiin-no-oshigoto.json](./358485-jitaku-keibiin-no-oshigoto.json) |
 | Jitaku Keibin | 316645 | [316645-jitaku-keibin.json](./316645-jitaku-keibin.json) |
 | Jitsu Squad | 145440 | [145440-jitsu-squad.json](./145440-jitsu-squad.json) |
