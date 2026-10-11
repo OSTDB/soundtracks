@@ -247,6 +247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valiant Hearts: The Collection | 290111 | [290111-valiant-hearts-the-collection.json](./290111-valiant-hearts-the-collection.json) |
 | Valiant Rooster | 262413 | [262413-valiant-rooster.json](./262413-valiant-rooster.json) |
 | Valiant: Or, Val's guide to having a broken vag | 249441 | [249441-valiant-or-vals-guide-to-having-a-broken-vag.json](./249441-valiant-or-vals-guide-to-having-a-broken-vag.json) |
+| Validus Mortis | 262245 | [262245-validus-mortis.json](./262245-validus-mortis.json) |
 | Valient Worlds: Adventure of Falken | 338578 | [338578-valient-worlds-adventure-of-falken.json](./338578-valient-worlds-adventure-of-falken.json) |
 | Valis | 262085 | [262085-valis.json](./262085-valis.json) |
 | Valis II | 37608 | [37608-valis-ii.json](./37608-valis-ii.json) |
@@ -355,6 +356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valor Time | 107911 | [107911-valor-time.json](./107911-valor-time.json) |
 | Valora Survival | 219521 | [219521-valora-survival.json](./219521-valora-survival.json) |
 | Valora Valley Golf | 45467 | [45467-valora-valley-golf.json](./45467-valora-valley-golf.json) |
+| Valorant : Antivax Addition | 262272 | [262272-valorant-antivax-addition.json](./262272-valorant-antivax-addition.json) |
 | Valorborn | 369923 | [369923-valorborn.json](./369923-valorborn.json) |
 | Valorbound | 222900 | [222900-valorbound.json](./222900-valorbound.json) |
 | Valravn | 244363 | [244363-valravn.json](./244363-valravn.json) |
@@ -1494,6 +1496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vindictus | 7887 | [7887-vindictus.json](./7887-vindictus.json) |
 | Vindilis | 373088 | [373088-vindilis.json](./373088-vindilis.json) |
 | Vine | 128625 | [128625-vine.json](./128625-vine.json) |
+| Vine Mapping Contest 2016 | 262280 | [262280-vine-mapping-contest-2016.json](./262280-vine-mapping-contest-2016.json) |
 | Vine Realms | 135907 | [135907-vine-realms.json](./135907-vine-realms.json) |
 | Vine Runners | 185514 | [185514-vine-runners.json](./185514-vine-runners.json) |
 | Vine Time | 317424 | [317424-vine-time.json](./317424-vine-time.json) |
@@ -1724,6 +1727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual Pool Hall | 93142 | [93142-virtual-pool-hall.json](./93142-virtual-pool-hall.json) |
 | Virtual Pro Wrestling 2: Oudou Keishou | 3625 | [3625-virtual-pro-wrestling-2-oudou-keishou.json](./3625-virtual-pro-wrestling-2-oudou-keishou.json) |
 | Virtual Pro Wrestling 64 | 3626 | [3626-virtual-pro-wrestling-64.json](./3626-virtual-pro-wrestling-64.json) |
+| Virtual Pro-Wrestling 2: Freem Edition | 262223 | [262223-virtual-pro-wrestling-2-freem-edition.json](./262223-virtual-pro-wrestling-2-freem-edition.json) |
 | Virtual Puppet Reika | 64209 | [64209-virtual-puppet-reika.json](./64209-virtual-puppet-reika.json) |
 | Virtual Race Car Engineer 2018 | 74361 | [74361-virtual-race-car-engineer-2018.json](./74361-virtual-race-car-engineer-2018.json) |
 | Virtual Race Car Engineer 2020 | 237454 | [237454-virtual-race-car-engineer-2020.json](./237454-virtual-race-car-engineer-2020.json) |
