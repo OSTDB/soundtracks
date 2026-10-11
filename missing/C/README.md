@@ -284,6 +284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cal II | 77989 | [77989-cal-ii.json](./77989-cal-ii.json) |
 | Cal Ripken Jr. Baseball | 46230 | [46230-cal-ripken-jr-baseball.json](./46230-cal-ripken-jr-baseball.json) |
 | Cal Ripken's Real Baseball | 65253 | [65253-cal-ripkens-real-baseball.json](./65253-cal-ripkens-real-baseball.json) |
+| Cala a Boca, Galvão! | 260069 | [260069-cala-a-boca-galvao.json](./260069-cala-a-boca-galvao.json) |
 | Caladria Chronicles | 114913 | [114913-caladria-chronicles.json](./114913-caladria-chronicles.json) |
 | Caladria Chronicles Volume 2 | 230972 | [230972-caladria-chronicles-volume-2.json](./230972-caladria-chronicles-volume-2.json) |
 | Caladrius | 47482 | [47482-caladrius.json](./47482-caladrius.json) |
@@ -2304,7 +2305,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Clinic Simulator: Vet Hospital | 364075 | [364075-cat-clinic-simulator-vet-hospital.json](./364075-cat-clinic-simulator-vet-hospital.json) |
 | Cat Cosmic Puzzle | 347317 | [347317-cat-cosmic-puzzle.json](./347317-cat-cosmic-puzzle.json) |
 | Cat Couple | 334804 | [334804-cat-couple.json](./334804-cat-couple.json) |
-| Cat Craft | 404190 | [404190-cat-craft.json](./404190-cat-craft.json) |
 | Cat Crisis | 412438 | [412438-cat-crisis.json](./412438-cat-crisis.json) |
 | Cat Dance | 178007 | [178007-cat-dance.json](./178007-cat-dance.json) |
 | Cat Dash Go | 236232 | [236232-cat-dash-go.json](./236232-cat-dash-go.json) |
@@ -5463,6 +5463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Citadel Combat Cards | 131343 | [131343-citadel-combat-cards.json](./131343-citadel-combat-cards.json) |
 | Citadel of Fire | 271812 | [271812-citadel-of-fire.json](./271812-citadel-of-fire.json) |
 | Citadel of the Dead | 169981 | [169981-citadel-of-the-dead.json](./169981-citadel-of-the-dead.json) |
+| Citadel Remonstered | 260071 | [260071-citadel-remonstered.json](./260071-citadel-remonstered.json) |
 | Citadel Siege | 360659 | [360659-citadel-siege.json](./360659-citadel-siege.json) |
 | Citadel Siege 2 | 365168 | [365168-citadel-siege-2.json](./365168-citadel-siege-2.json) |
 | Citadel Stormer 2 | 235855 | [235855-citadel-stormer-2.json](./235855-citadel-stormer-2.json) |
@@ -7291,7 +7292,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Math | 89573 | [89573-color-math.json](./89573-color-math.json) |
 | Color Maze | 184114 | [184114-color-maze.json](./184114-color-maze.json) |
 | Color Me !!! for Mac | 99375 | [99375-color-me-for-mac.json](./99375-color-me-for-mac.json) |
-| Color Move 2 | 407246 | [407246-color-move-2.json](./407246-color-move-2.json) |
 | Color Muse | 368618 | [368618-color-muse.json](./368618-color-muse.json) |
 | Color Ninjas | 181782 | [181782-color-ninjas.json](./181782-color-ninjas.json) |
 | Color Objects For Kids | 89645 | [89645-color-objects-for-kids.json](./89645-color-objects-for-kids.json) |
@@ -8720,7 +8720,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cooking Arena: 6 in 1 Edition | 270297 | [270297-cooking-arena-6-in-1-edition.json](./270297-cooking-arena-6-in-1-edition.json) |
 | Cooking Arena: 8 in 1 Edition | 273331 | [273331-cooking-arena-8-in-1-edition.json](./273331-cooking-arena-8-in-1-edition.json) |
 | Cooking Arena: 9 in 1 Edition | 275892 | [275892-cooking-arena-9-in-1-edition.json](./275892-cooking-arena-9-in-1-edition.json) |
+| Cooking Arena: Breakfast Bar Tycoon | 260042 | [260042-cooking-arena-breakfast-bar-tycoon.json](./260042-cooking-arena-breakfast-bar-tycoon.json) |
+| Cooking Arena: Burger Chef Tycoon | 260037 | [260037-cooking-arena-burger-chef-tycoon.json](./260037-cooking-arena-burger-chef-tycoon.json) |
+| Cooking Arena: Food Truck Tycoon Asian Cuisine | 260035 | [260035-cooking-arena-food-truck-tycoon-asian-cuisine.json](./260035-cooking-arena-food-truck-tycoon-asian-cuisine.json) |
+| Cooking Arena: Pancake Bar Tycoon | 260039 | [260039-cooking-arena-pancake-bar-tycoon.json](./260039-cooking-arena-pancake-bar-tycoon.json) |
+| Cooking Arena: Pizza Bar Tycoon | 260038 | [260038-cooking-arena-pizza-bar-tycoon.json](./260038-cooking-arena-pizza-bar-tycoon.json) |
+| Cooking Arena: Salad Bar Tycoon | 260041 | [260041-cooking-arena-salad-bar-tycoon.json](./260041-cooking-arena-salad-bar-tycoon.json) |
 | Cooking Arena: Sushi Master | 308810 | [308810-cooking-arena-sushi-master.json](./308810-cooking-arena-sushi-master.json) |
+| Cooking Arena: Sushi Time! | 260040 | [260040-cooking-arena-sushi-time.json](./260040-cooking-arena-sushi-time.json) |
+| Cooking Arena: Sweet Bakery Tycoon | 260036 | [260036-cooking-arena-sweet-bakery-tycoon.json](./260036-cooking-arena-sweet-bakery-tycoon.json) |
 | Cooking Arena: Value Edition | 399814 | [399814-cooking-arena-value-edition.json](./399814-cooking-arena-value-edition.json) |
 | Cooking by the Numbers | 364616 | [364616-cooking-by-the-numbers.json](./364616-cooking-by-the-numbers.json) |
 | Cooking Champions | 119017 | [119017-cooking-champions.json](./119017-cooking-champions.json) |
