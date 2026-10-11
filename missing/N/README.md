@@ -1888,6 +1888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Never Ending Corridor | 387559 | [387559-never-ending-corridor.json](./387559-never-ending-corridor.json) |
 | Never Ending Dungeon | 193932 | [193932-never-ending-dungeon.json](./193932-never-ending-dungeon.json) |
 | Never Ending Night | 35919 | [35919-never-ending-night.json](./35919-never-ending-night.json) |
+| Never Ending Nightmare | 262247 | [262247-never-ending-nightmare.json](./262247-never-ending-nightmare.json) |
 | Never Ends Act | 208441 | [208441-never-ends-act.json](./208441-never-ends-act.json) |
 | Never Experiment On Cats! | 332830 | [332830-never-experiment-on-cats.json](./332830-never-experiment-on-cats.json) |
 | Never Fall | 334187 | [334187-never-fall.json](./334187-never-fall.json) |
@@ -4409,6 +4410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Notebook Ninja Fights | 144751 | [144751-notebook-ninja-fights.json](./144751-notebook-ninja-fights.json) |
 | Notebook Workshop | 406205 | [406205-notebook-workshop.json](./406205-notebook-workshop.json) |
 | Notes of Obsession | 56895 | [56895-notes-of-obsession.json](./56895-notes-of-obsession.json) |
+| Notes of the Outskirts | 262255 | [262255-notes-of-the-outskirts.json](./262255-notes-of-the-outskirts.json) |
 | Notes on Crying | 181918 | [181918-notes-on-crying.json](./181918-notes-on-crying.json) |
 | Nother | 30899 | [30899-nother.json](./30899-nother.json) |
 | Nothin' But Net | 32206 | [32206-nothin-but-net.json](./32206-nothin-but-net.json) |
