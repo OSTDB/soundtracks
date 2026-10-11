@@ -1131,6 +1131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abomination | 71602 | [71602-abomination.json](./71602-abomination.json) |
 | Abomination Ops | 355575 | [355575-abomination-ops.json](./355575-abomination-ops.json) |
 | Abomination Tower | 36011 | [36011-abomination-tower.json](./36011-abomination-tower.json) |
+| Abondoned Village | 277282 | [277282-abondoned-village.json](./277282-abondoned-village.json) |
 | Aborigenus | 110070 | [110070-aborigenus.json](./110070-aborigenus.json) |
 | Abort, Retry, Fail | 201227 | [201227-abort-retry-fail.json](./201227-abort-retry-fail.json) |
 | About a Boy | 349801 | [349801-about-a-boy.json](./349801-about-a-boy.json) |
@@ -8031,6 +8032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arena Masters: Legend Begins | 77587 | [77587-arena-masters-legend-begins.json](./77587-arena-masters-legend-begins.json) |
 | Arena of Block Puzzle | 302437 | [302437-arena-of-block-puzzle.json](./302437-arena-of-block-puzzle.json) |
 | Arena of Dreams | 305266 | [305266-arena-of-dreams.json](./305266-arena-of-dreams.json) |
+| Arena of Faith | 277259 | [277259-arena-of-faith.json](./277259-arena-of-faith.json) |
 | Arena of Heroes | 63657 | [63657-arena-of-heroes.json](./63657-arena-of-heroes.json) |
 | Arena of Ruins | 159787 | [159787-arena-of-ruins.json](./159787-arena-of-ruins.json) |
 | Arena of Speed: Fast and Furious | 174832 | [174832-arena-of-speed-fast-and-furious.json](./174832-arena-of-speed-fast-and-furious.json) |
