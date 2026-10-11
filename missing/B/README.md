@@ -1440,6 +1440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barbarossa | 44448 | [44448-barbarossa.json](./44448-barbarossa.json) |
 | Barbarossa Remake | 255664 | [255664-barbarossa-remake.json](./255664-barbarossa-remake.json) |
 | Barbarous 2: Tavern Wars | 192944 | [192944-barbarous-2-tavern-wars.json](./192944-barbarous-2-tavern-wars.json) |
+| Barbarous: Family Secrets | 277263 | [277263-barbarous-family-secrets.json](./277263-barbarous-family-secrets.json) |
 | Barbarous: Survivor's Quest | 401104 | [401104-barbarous-survivors-quest.json](./401104-barbarous-survivors-quest.json) |
 | Barbarous: Tavern of Emyr | 126471 | [126471-barbarous-tavern-of-emyr.json](./126471-barbarous-tavern-of-emyr.json) |
 | BarBarQ | 82149 | [82149-barbarq.json](./82149-barbarq.json) |
@@ -8733,6 +8734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boxing Fighting Def Jam NY | 196582 | [196582-boxing-fighting-def-jam-ny.json](./196582-boxing-fighting-def-jam-ny.json) |
 | Boxing Go | 293112 | [293112-boxing-go.json](./293112-boxing-go.json) |
 | Boxing Gym Story | 174339 | [174339-boxing-gym-story.json](./174339-boxing-gym-story.json) |
+| Boxing Legend | 277320 | [277320-boxing-legend.json](./277320-boxing-legend.json) |
 | Boxing Legends of the Ring | 38366 | [38366-boxing-legends-of-the-ring.json](./38366-boxing-legends-of-the-ring.json) |
 | Boxing Life Simulator | 407483 | [407483-boxing-life-simulator.json](./407483-boxing-life-simulator.json) |
 | Boxing Revolution: Boxing Games - Knock Out | 104434 | [104434-boxing-revolution-boxing-games-knock-out.json](./104434-boxing-revolution-boxing-games-knock-out.json) |
@@ -10168,6 +10170,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buck Bumble | 3368 | [3368-buck-bumble.json](./3368-buck-bumble.json) |
 | Buck Rogers: Matrix Cubed | 14499 | [14499-buck-rogers-matrix-cubed.json](./14499-buck-rogers-matrix-cubed.json) |
 | Buck Rogers: Planet of Zoom | 11142 | [11142-buck-rogers-planet-of-zoom.json](./11142-buck-rogers-planet-of-zoom.json) |
+| Buck Rogers: Planet of Zoom | 277225 | [277225-buck-rogers-planet-of-zoom.json](./277225-buck-rogers-planet-of-zoom.json) |
+| Buck Rogers: Planet of Zoom | 277226 | [277226-buck-rogers-planet-of-zoom.json](./277226-buck-rogers-planet-of-zoom.json) |
 | Buck Trucker in Rowdy Business | 352200 | [352200-buck-trucker-in-rowdy-business.json](./352200-buck-trucker-in-rowdy-business.json) |
 | Buck Up and Drive! | 153515 | [153515-buck-up-and-drive.json](./153515-buck-up-and-drive.json) |
 | Buck Velvet | 385940 | [385940-buck-velvet.json](./385940-buck-velvet.json) |
