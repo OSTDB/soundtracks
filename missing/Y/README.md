@@ -460,6 +460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | YoBro | 37730 | [37730-yobro.json](./37730-yobro.json) |
 | Yoda | 327966 | [327966-yoda.json](./327966-yoda.json) |
 | Yoda's Escape | 243820 | [243820-yodas-escape.json](./243820-yodas-escape.json) |
+| Yodel-Oh! | 253298 | [253298-yodel-oh.json](./253298-yodel-oh.json) |
 | Yodobongingi | 234635 | [234635-yodobongingi.json](./234635-yodobongingi.json) |
 | Yodoyabashi Oyasama Club | 254505 | [254505-yodoyabashi-oyasama-club.json](./254505-yodoyabashi-oyasama-club.json) |
 | Yog-Sothoth's Yard | 250278 | [250278-yog-sothoths-yard.json](./250278-yog-sothoths-yard.json) |
