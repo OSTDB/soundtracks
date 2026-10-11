@@ -662,6 +662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallen Enchantress: Legendary Heroes - The Dead World DLC | 168380 | [168380-fallen-enchantress-legendary-heroes-the-dead-world-dlc.json](./168380-fallen-enchantress-legendary-heroes-the-dead-world-dlc.json) |
 | Fallen Evolution | 334792 | [334792-fallen-evolution.json](./334792-fallen-evolution.json) |
 | Fallen Fates | 345579 | [345579-fallen-fates.json](./345579-fallen-fates.json) |
+| Fallen Force | 254407 | [254407-fallen-force.json](./254407-fallen-force.json) |
 | Fallen from Grace | 271220 | [271220-fallen-from-grace.json](./271220-fallen-from-grace.json) |
 | Fallen GF | 297733 | [297733-fallen-gf.json](./297733-fallen-gf.json) |
 | Fallen Gods | 58297 | [58297-fallen-gods.json](./58297-fallen-gods.json) |
@@ -2176,6 +2177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fear & Hunger 3 | 324308 | [324308-fear-and-hunger-3.json](./324308-fear-and-hunger-3.json) |
 | Fear & Respect | 70423 | [70423-fear-and-respect.json](./70423-fear-and-respect.json) |
 | Fear Academy | 345079 | [345079-fear-academy.json](./345079-fear-academy.json) |
+| Fear Assessment+ | 254396 | [254396-fear-assessment.json](./254396-fear-assessment.json) |
 | Fear Calibration | 303072 | [303072-fear-calibration.json](./303072-fear-calibration.json) |
 | Fear Dog The Bolota Escape | 379159 | [379159-fear-dog-the-bolota-escape.json](./379159-fear-dog-the-bolota-escape.json) |
 | Fear Effect | 320361 | [320361-fear-effect.json](./320361-fear-effect.json) |
@@ -4578,6 +4580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flappy Dot Up! | 232056 | [232056-flappy-dot-up.json](./232056-flappy-dot-up.json) |
 | Flappy Dragon | 316049 | [316049-flappy-dragon.json](./316049-flappy-dragon.json) |
 | Flappy Dunk | 87053 | [87053-flappy-dunk.json](./87053-flappy-dunk.json) |
+| Flappy Eros | 254411 | [254411-flappy-eros.json](./254411-flappy-eros.json) |
 | Flappy Fighter | 118311 | [118311-flappy-fighter.json](./118311-flappy-fighter.json) |
 | Flappy Fire | 90184 | [90184-flappy-fire.json](./90184-flappy-fire.json) |
 | Flappy Golf | 107648 | [107648-flappy-golf.json](./107648-flappy-golf.json) |
