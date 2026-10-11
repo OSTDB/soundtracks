@@ -1039,6 +1039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ram! | 94218 | [94218-ram.json](./94218-ram.json) |
 | Rama | 13782 | [13782-rama.json](./13782-rama.json) |
 | Rama's Quest | 289013 | [289013-ramas-quest.json](./289013-ramas-quest.json) |
+| Ramas' Call: Twisted Timing | 261734 | [261734-ramas-call-twisted-timing.json](./261734-ramas-call-twisted-timing.json) |
 | Ramble | 102587 | [102587-ramble.json](./102587-ramble.json) |
 | Ramble Planet | 152374 | [152374-ramble-planet.json](./152374-ramble-planet.json) |
 | Rambling with my friend | 183367 | [183367-rambling-with-my-friend.json](./183367-rambling-with-my-friend.json) |
@@ -5285,6 +5286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road to Olympus | 345974 | [345974-road-to-olympus.json](./345974-road-to-olympus.json) |
 | Road to Scrubville: A Bijuu Mike Fangame | 230254 | [230254-road-to-scrubville-a-bijuu-mike-fangame.json](./230254-road-to-scrubville-a-bijuu-mike-fangame.json) |
 | Road To Siren Hills: Dark Journey | 304112 | [304112-road-to-siren-hills-dark-journey.json](./304112-road-to-siren-hills-dark-journey.json) |
+| Road to Top G | 261699 | [261699-road-to-top-g.json](./261699-road-to-top-g.json) |
 | Road to Valhalla | 312077 | [312077-road-to-valhalla.json](./312077-road-to-valhalla.json) |
 | Road To Valhalla: Carola | 290537 | [290537-road-to-valhalla-carola.json](./290537-road-to-valhalla-carola.json) |
 | Road to Valor: WW2 | 169274 | [169274-road-to-valor-ww2.json](./169274-road-to-valor-ww2.json) |
@@ -6642,6 +6644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Romby | 50508 | [50508-romby.json](./50508-romby.json) |
 | Rome 2077: Tactics | 187526 | [187526-rome-2077-tactics.json](./187526-rome-2077-tactics.json) |
 | Rome Empire War: Strategy Games | 175702 | [175702-rome-empire-war-strategy-games.json](./175702-rome-empire-war-strategy-games.json) |
+| Rome Frontiers | 261727 | [261727-rome-frontiers.json](./261727-rome-frontiers.json) |
 | Rome Pathway to Power | 171554 | [171554-rome-pathway-to-power.json](./171554-rome-pathway-to-power.json) |
 | Rome: Caesar's Will | 73781 | [73781-rome-caesars-will.json](./73781-rome-caesars-will.json) |
 | Rome: Card Battles | 414490 | [414490-rome-card-battles.json](./414490-rome-card-battles.json) |
@@ -7667,6 +7670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rune Factory: Guardians of Azuma - Rune Factory 4 Bachelorette Outfit Bundle | 351193 | [351193-rune-factory-guardians-of-azuma-rune-factory-4-bachelorette-outfit-bundle.json](./351193-rune-factory-guardians-of-azuma-rune-factory-4-bachelorette-outfit-bundle.json) |
 | Rune Factory: Guardians of Azuma - Story of Seasons Bundle | 377761 | [377761-rune-factory-guardians-of-azuma-story-of-seasons-bundle.json](./377761-rune-factory-guardians-of-azuma-story-of-seasons-bundle.json) |
 | Rune Factory: Tides of Destiny | 5133 | [5133-rune-factory-tides-of-destiny.json](./5133-rune-factory-tides-of-destiny.json) |
+| Rune Gate | 261738 | [261738-rune-gate.json](./261738-rune-gate.json) |
 | Rune Girl | 118976 | [118976-rune-girl.json](./118976-rune-girl.json) |
 | Rune Golf | 260245 | [260245-rune-golf.json](./260245-rune-golf.json) |
 | Rune Gunner | 383475 | [383475-rune-gunner.json](./383475-rune-gunner.json) |
