@@ -1554,6 +1554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elfsquad7 | 93501 | [93501-elfsquad7.json](./93501-elfsquad7.json) |
 | Elhosea | 287710 | [287710-elhosea.json](./287710-elhosea.json) |
 | Elidon | 13633 | [13633-elidon.json](./13633-elidon.json) |
+| Elidriel | 252024 | [252024-elidriel.json](./252024-elidriel.json) |
 | Elif | 186689 | [186689-elif.json](./186689-elif.json) |
 | Elifoot | 91631 | [91631-elifoot.json](./91631-elifoot.json) |
 | Elimination | 207732 | [207732-elimination.json](./207732-elimination.json) |
@@ -4084,6 +4085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Event World VR | 295523 | [295523-event-world-vr.json](./295523-event-world-vr.json) |
 | Event-D | 113016 | [113016-event-d.json](./113016-event-d.json) |
 | Event[0] | 18397 | [18397-event-0.json](./18397-event-0.json) |
+| Eventide | 252026 | [252026-eventide.json](./252026-eventide.json) |
 | Eventide 2: The Sorcerers Mirror | 31825 | [31825-eventide-2-the-sorcerers-mirror.json](./31825-eventide-2-the-sorcerers-mirror.json) |
 | Eventide 3: Legacy of Legends | 68713 | [68713-eventide-3-legacy-of-legends.json](./68713-eventide-3-legacy-of-legends.json) |
 | Eventide Escape | 83952 | [83952-eventide-escape.json](./83952-eventide-escape.json) |
@@ -4654,6 +4656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exit 3: Painter | 75497 | [75497-exit-3-painter.json](./75497-exit-3-painter.json) |
 | Exit Control | 368486 | [368486-exit-control.json](./368486-exit-control.json) |
 | Exit From | 119692 | [119692-exit-from.json](./119692-exit-from.json) |
+| Exit From: Director's Cut | 252014 | [252014-exit-from-directors-cut.json](./252014-exit-from-directors-cut.json) |
 | Exit Kun | 285666 | [285666-exit-kun.json](./285666-exit-kun.json) |
 | Exit Lab 15 Rooms | 390525 | [390525-exit-lab-15-rooms.json](./390525-exit-lab-15-rooms.json) |
 | Exit Lab Beginner Level | 390494 | [390494-exit-lab-beginner-level.json](./390494-exit-lab-beginner-level.json) |
