@@ -9833,6 +9833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Hunter Rise + Sunbreak: Deluxe Edition | 208042 | [208042-monster-hunter-rise-sunbreak-deluxe-edition.json](./208042-monster-hunter-rise-sunbreak-deluxe-edition.json) |
 | Monster Hunter Rise: Bonus Update | 252384 | [252384-monster-hunter-rise-bonus-update.json](./252384-monster-hunter-rise-bonus-update.json) |
 | Monster Hunter Rise: Collector's Edition | 139971 | [139971-monster-hunter-rise-collectors-edition.json](./139971-monster-hunter-rise-collectors-edition.json) |
+| Monster Hunter Rise: Cute & Cuddly Collection DLC Pack | 252631 | [252631-monster-hunter-rise-cute-and-cuddly-collection-dlc-pack.json](./252631-monster-hunter-rise-cute-and-cuddly-collection-dlc-pack.json) |
 | Monster Hunter Rise: Deluxe Edition | 139943 | [139943-monster-hunter-rise-deluxe-edition.json](./139943-monster-hunter-rise-deluxe-edition.json) |
 | Monster Hunter Rise: DLC Pack 1 | 222856 | [222856-monster-hunter-rise-dlc-pack-1.json](./222856-monster-hunter-rise-dlc-pack-1.json) |
 | Monster Hunter Rise: DLC Pack 10 | 246890 | [246890-monster-hunter-rise-dlc-pack-10.json](./246890-monster-hunter-rise-dlc-pack-10.json) |
@@ -9842,6 +9843,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Hunter Rise: DLC Pack 5 | 223591 | [223591-monster-hunter-rise-dlc-pack-5.json](./223591-monster-hunter-rise-dlc-pack-5.json) |
 | Monster Hunter Rise: DLC Pack 6 | 223578 | [223578-monster-hunter-rise-dlc-pack-6.json](./223578-monster-hunter-rise-dlc-pack-6.json) |
 | Monster Hunter Rise: DLC Pack 9 | 270289 | [270289-monster-hunter-rise-dlc-pack-9.json](./270289-monster-hunter-rise-dlc-pack-9.json) |
+| Monster Hunter Rise: Kamura Collection DLC Pack | 252632 | [252632-monster-hunter-rise-kamura-collection-dlc-pack.json](./252632-monster-hunter-rise-kamura-collection-dlc-pack.json) |
+| Monster Hunter Rise: Kingdom Collection DLC Pack | 252630 | [252630-monster-hunter-rise-kingdom-collection-dlc-pack.json](./252630-monster-hunter-rise-kingdom-collection-dlc-pack.json) |
 | Monster Hunter Rise: Sunbreak | 172425 | [172425-monster-hunter-rise-sunbreak.json](./172425-monster-hunter-rise-sunbreak.json) |
 | Monster Hunter Rise: Title Update 1 | 252379 | [252379-monster-hunter-rise-title-update-1.json](./252379-monster-hunter-rise-title-update-1.json) |
 | Monster Hunter Rise: Title Update 2 | 252380 | [252380-monster-hunter-rise-title-update-2.json](./252380-monster-hunter-rise-title-update-2.json) |
@@ -11004,6 +11007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MotionSports: Play for Real | 2658 | [2658-motionsports-play-for-real.json](./2658-motionsports-play-for-real.json) |
 | Motivational Hero | 170272 | [170272-motivational-hero.json](./170272-motivational-hero.json) |
 | Motivo | 39759 | [39759-motivo.json](./39759-motivo.json) |
+| Moto | 252606 | [252606-moto.json](./252606-moto.json) |
 | Moto Championship 26 | 385089 | [385089-moto-championship-26.json](./385089-moto-championship-26.json) |
 | Moto Extreme | 70342 | [70342-moto-extreme.json](./70342-moto-extreme.json) |
 | Moto GP: Ultimate racing technology | 8268 | [8268-moto-gp-ultimate-racing-technology.json](./8268-moto-gp-ultimate-racing-technology.json) |
@@ -13426,6 +13430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mysterious Stars: A Fairy Tale | 61456 | [61456-mysterious-stars-a-fairy-tale.json](./61456-mysterious-stars-a-fairy-tale.json) |
 | Mysterious Stars: The Samurai | 61458 | [61458-mysterious-stars-the-samurai.json](./61458-mysterious-stars-the-samurai.json) |
 | Mysterious Stars: The Singer | 61459 | [61459-mysterious-stars-the-singer.json](./61459-mysterious-stars-the-singer.json) |
+| Mysterious Thief Emerald | 252652 | [252652-mysterious-thief-emerald.json](./252652-mysterious-thief-emerald.json) |
 | Mysterious Unnamed Space Game | 184092 | [184092-mysterious-unnamed-space-game.json](./184092-mysterious-unnamed-space-game.json) |
 | Mysterious Voyage: Set sail | 303069 | [303069-mysterious-voyage-set-sail.json](./303069-mysterious-voyage-set-sail.json) |
 | Mysterious warrior | 165679 | [165679-mysterious-warrior.json](./165679-mysterious-warrior.json) |
