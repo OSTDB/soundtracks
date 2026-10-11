@@ -7431,6 +7431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coloring Pixels: Gothic Pack | 354617 | [354617-coloring-pixels-gothic-pack.json](./354617-coloring-pixels-gothic-pack.json) |
 | Coloring Pixels: Halloween 3 Pack | 222817 | [222817-coloring-pixels-halloween-3-pack.json](./222817-coloring-pixels-halloween-3-pack.json) |
 | Coloring Pixels: Halloween 4 Pack | 222818 | [222818-coloring-pixels-halloween-4-pack.json](./222818-coloring-pixels-halloween-4-pack.json) |
+| Coloring Pixels: Halloween 5 Pack | 271132 | [271132-coloring-pixels-halloween-5-pack.json](./271132-coloring-pixels-halloween-5-pack.json) |
 | Coloring Pixels: Halloween 6 Pack | 351620 | [351620-coloring-pixels-halloween-6-pack.json](./351620-coloring-pixels-halloween-6-pack.json) |
 | Coloring Pixels: Illusions Pack | 225003 | [225003-coloring-pixels-illusions-pack.json](./225003-coloring-pixels-illusions-pack.json) |
 | Coloring Pixels: Insects Pack | 225004 | [225004-coloring-pixels-insects-pack.json](./225004-coloring-pixels-insects-pack.json) |
@@ -11302,6 +11303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crypt Underworld | 109072 | [109072-crypt-underworld.json](./109072-crypt-underworld.json) |
 | Crypt-Oink Racing Friends | 130823 | [130823-crypt-oink-racing-friends.json](./130823-crypt-oink-racing-friends.json) |
 | Cryptage | 333114 | [333114-cryptage.json](./333114-cryptage.json) |
+| CryptaSync Cyber: Urban Depths | 271111 | [271111-cryptasync-cyber-urban-depths.json](./271111-cryptasync-cyber-urban-depths.json) |
 | Cryptic | 122425 | [122425-cryptic.json](./122425-cryptic.json) |
 | Cryptic Castle | 146854 | [146854-cryptic-castle.json](./146854-cryptic-castle.json) |
 | Cryptic Caverns | 173810 | [173810-cryptic-caverns.json](./173810-cryptic-caverns.json) |
