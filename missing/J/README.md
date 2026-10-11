@@ -817,6 +817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JetFighter: The Adventure | 50490 | [50490-jetfighter-the-adventure.json](./50490-jetfighter-the-adventure.json) |
 | Jetlad | 117786 | [117786-jetlad.json](./117786-jetlad.json) |
 | Jetman | 92852 | [92852-jetman.json](./92852-jetman.json) |
+| JetMan Galactic | 241874 | [241874-jetman-galactic.json](./241874-jetman-galactic.json) |
 | Jetman Hero: Jetpack Shooter | 223553 | [223553-jetman-hero-jetpack-shooter.json](./223553-jetman-hero-jetpack-shooter.json) |
 | JetmanGo | 68467 | [68467-jetmango.json](./68467-jetmango.json) |
 | Jetpac Refuelled | 7854 | [7854-jetpac-refuelled.json](./7854-jetpac-refuelled.json) |
@@ -2681,6 +2682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Juukou Senki: Bullet Battlers | 228567 | [228567-juukou-senki-bullet-battlers.json](./228567-juukou-senki-bullet-battlers.json) |
 | Juuouki | 86410 | [86410-juuouki.json](./86410-juuouki.json) |
 | Juurin | 93986 | [93986-juurin.json](./93986-juurin.json) |
+| Juurru | 241839 | [241839-juurru.json](./241839-juurru.json) |
 | Juuryoku Shisen-shou | 206352 | [206352-juuryoku-shisen-shou.json](./206352-juuryoku-shisen-shou.json) |
 | Juuyoku no Jousai | 134624 | [134624-juuyoku-no-jousai.json](./134624-juuyoku-no-jousai.json) |
 | Juuzaengi: Engetsu Sangoku Den 1 & 2 | 135859 | [135859-juuzaengi-engetsu-sangoku-den-1-and-2.json](./135859-juuzaengi-engetsu-sangoku-den-1-and-2.json) |
