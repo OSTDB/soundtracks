@@ -3016,6 +3016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cebolinha & Floquinho | 216292 | [216292-cebolinha-and-floquinho.json](./216292-cebolinha-and-floquinho.json) |
 | Cebus | 400341 | [400341-cebus.json](./400341-cebus.json) |
 | Cecco Collection | 138018 | [138018-cecco-collection.json](./138018-cecco-collection.json) |
+| Cecelia | 259498 | [259498-cecelia.json](./259498-cecelia.json) |
 | Ceci and the Gnomes | 207812 | [207812-ceci-and-the-gnomes.json](./207812-ceci-and-the-gnomes.json) |
 | Cecil Hollow | 253613 | [253613-cecil-hollow.json](./253613-cecil-hollow.json) |
 | Cecil Run | 129007 | [129007-cecil-run.json](./129007-cecil-run.json) |
@@ -4515,6 +4516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chinese Checkers | 71190 | [71190-chinese-checkers.json](./71190-chinese-checkers.json) |
 | Chinese Checkers Deluxe | 67983 | [67983-chinese-checkers-deluxe.json](./67983-chinese-checkers-deluxe.json) |
 | Chinese Chess Deluxe | 146922 | [146922-chinese-chess-deluxe.json](./146922-chinese-chess-deluxe.json) |
+| Chinese Chess Wargame | 259502 | [259502-chinese-chess-wargame.json](./259502-chinese-chess-wargame.json) |
 | Chinese Chess: Elephant Game | 72872 | [72872-chinese-chess-elephant-game.json](./72872-chinese-chess-elephant-game.json) |
 | Chinese Culinary Shop | 276221 | [276221-chinese-culinary-shop.json](./276221-chinese-culinary-shop.json) |
 | Chinese Driving Test Simulator | 189929 | [189929-chinese-driving-test-simulator.json](./189929-chinese-driving-test-simulator.json) |
@@ -5105,6 +5107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chrono | 341329 | [341329-chrono.json](./341329-chrono.json) |
 | Chrono Ark: High Roller | 314900 | [314900-chrono-ark-high-roller.json](./314900-chrono-ark-high-roller.json) |
 | Chrono Ark: Summer Twilight | 310011 | [310011-chrono-ark-summer-twilight.json](./310011-chrono-ark-summer-twilight.json) |
+| Chrono Belt: Ayakashibito & Bullet Butlers Crossover Disc | 259484 | [259484-chrono-belt-ayakashibito-and-bullet-butlers-crossover-disc.json](./259484-chrono-belt-ayakashibito-and-bullet-butlers-crossover-disc.json) |
 | Chrono CCG | 381788 | [381788-chrono-ccg.json](./381788-chrono-ccg.json) |
 | Chrono Circle | 216287 | [216287-chrono-circle.json](./216287-chrono-circle.json) |
 | Chrono Clash: Fantasy Tactics | 114911 | [114911-chrono-clash-fantasy-tactics.json](./114911-chrono-clash-fantasy-tactics.json) |
@@ -5129,6 +5132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chrono Trigger+ | 219077 | [219077-chrono-trigger.json](./219077-chrono-trigger.json) |
 | Chrono Wars | 60604 | [60604-chrono-wars.json](./60604-chrono-wars.json) |
 | Chrono's Arena | 126628 | [126628-chronos-arena.json](./126628-chronos-arena.json) |
+| ChronoBelt SchwarzOath: Ayakashibito & Bullet Butlers Crossover Disk | 259485 | [259485-chronobelt-schwarzoath-ayakashibito-and-bullet-butlers-crossover-disk.json](./259485-chronobelt-schwarzoath-ayakashibito-and-bullet-butlers-crossover-disk.json) |
 | ChronoBlade | 63877 | [63877-chronoblade.json](./63877-chronoblade.json) |
 | Chronoblast Maximum Force | 129532 | [129532-chronoblast-maximum-force.json](./129532-chronoblast-maximum-force.json) |
 | ChronoBreach | 117045 | [117045-chronobreach.json](./117045-chronobreach.json) |
@@ -6154,6 +6158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Click Cluck | 381145 | [381145-click-cluck.json](./381145-click-cluck.json) |
 | Click Defense | 119722 | [119722-click-defense.json](./119722-click-defense.json) |
 | Click Deity | 246660 | [246660-click-deity.json](./246660-click-deity.json) |
+| Click Dungeon | 259503 | [259503-click-dungeon.json](./259503-click-dungeon.json) |
 | Click for Biscuits! | 133766 | [133766-click-for-biscuits.json](./133766-click-for-biscuits.json) |
 | Click For Cash: Cashed Out | 265944 | [265944-click-for-cash-cashed-out.json](./265944-click-for-cash-cashed-out.json) |
 | Click Here | 264761 | [264761-click-here.json](./264761-click-here.json) |
@@ -6161,6 +6166,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Click Lovers | 203927 | [203927-click-lovers.json](./203927-click-lovers.json) |
 | Click Mage | 320391 | [320391-click-mage.json](./320391-click-mage.json) |
 | Click Manga: Click no Hi | 260113 | [260113-click-manga-click-no-hi.json](./260113-click-manga-click-no-hi.json) |
+| Click Manga: Ginga Eiyuu Densetsu 1 | 259486 | [259486-click-manga-ginga-eiyuu-densetsu-1.json](./259486-click-manga-ginga-eiyuu-densetsu-1.json) |
+| Click Manga: Ginga Eiyuu Densetsu 2 | 259487 | [259487-click-manga-ginga-eiyuu-densetsu-2.json](./259487-click-manga-ginga-eiyuu-densetsu-2.json) |
 | Click Manga: Opera Za no Kaijin | 260111 | [260111-click-manga-opera-za-no-kaijin.json](./260111-click-manga-opera-za-no-kaijin.json) |
 | Click Me Harder | 365165 | [365165-click-me-harder.json](./365165-click-me-harder.json) |
 | Click On Cups Together | 309480 | [309480-click-on-cups-together.json](./309480-click-on-cups-together.json) |
@@ -8864,6 +8871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coppy Tour | 369693 | [369693-coppy-tour.json](./369693-coppy-tour.json) |
 | Cops | 307344 | [307344-cops.json](./307344-cops.json) |
 | Cops and Robbers Fight | 105917 | [105917-cops-and-robbers-fight.json](./105917-cops-and-robbers-fight.json) |
+| Cops L.A. Police | 259492 | [259492-cops-l-a-police.json](./259492-cops-l-a-police.json) |
 | Cops N Robbers: Pixel Craft Gun | 400445 | [400445-cops-n-robbers-pixel-craft-gun.json](./400445-cops-n-robbers-pixel-craft-gun.json) |
 | Cops N Robbers: Prison Games 1 | 400441 | [400441-cops-n-robbers-prison-games-1.json](./400441-cops-n-robbers-prison-games-1.json) |
 | Cops N Robbers: Prison Games 2 | 400443 | [400443-cops-n-robbers-prison-games-2.json](./400443-cops-n-robbers-prison-games-2.json) |
@@ -11032,6 +11040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crossroads: Lucky Edition | 113241 | [113241-crossroads-lucky-edition.json](./113241-crossroads-lucky-edition.json) |
 | Crossroads: On a Just Path - Collector's Edition | 187306 | [187306-crossroads-on-a-just-path-collectors-edition.json](./187306-crossroads-on-a-just-path-collectors-edition.json) |
 | Crossroads: What Was Lost | 417713 | [417713-crossroads-what-was-lost.json](./417713-crossroads-what-was-lost.json) |
+| Crossroads: What Was Lost - Collector's Edition | 259504 | [259504-crossroads-what-was-lost-collectors-edition.json](./259504-crossroads-what-was-lost-collectors-edition.json) |
 | Crosstown | 389643 | [389643-crosstown.json](./389643-crosstown.json) |
 | CrossTown 1: Giften | 122315 | [122315-crosstown-1-giften.json](./122315-crosstown-1-giften.json) |
 | Crosstown Carnage | 326653 | [326653-crosstown-carnage.json](./326653-crosstown-carnage.json) |
@@ -12457,6 +12466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Paranoia | 408058 | [408058-cyber-paranoia.json](./408058-cyber-paranoia.json) |
 | Cyber Parkour | 317387 | [317387-cyber-parkour.json](./317387-cyber-parkour.json) |
 | Cyber Photographer | 68036 | [68036-cyber-photographer.json](./68036-cyber-photographer.json) |
+| Cyber Prison Management | 259505 | [259505-cyber-prison-management.json](./259505-cyber-prison-management.json) |
 | Cyber Protocol Prologue | 213340 | [213340-cyber-protocol-prologue.json](./213340-cyber-protocol-prologue.json) |
 | Cyber Puncake | 276680 | [276680-cyber-puncake.json](./276680-cyber-puncake.json) |
 | Cyber Racer | 120151 | [120151-cyber-racer.json](./120151-cyber-racer.json) |
@@ -12491,6 +12501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Stadium Series: Base Wars | 9876 | [9876-cyber-stadium-series-base-wars.json](./9876-cyber-stadium-series-base-wars.json) |
 | Cyber Storm | 289798 | [289798-cyber-storm.json](./289798-cyber-storm.json) |
 | Cyber Storm | 342291 | [342291-cyber-storm.json](./342291-cyber-storm.json) |
+| Cyber Storm Edge | 259456 | [259456-cyber-storm-edge.json](./259456-cyber-storm-edge.json) |
 | Cyber Storm Edge 64 | 294866 | [294866-cyber-storm-edge-64.json](./294866-cyber-storm-edge-64.json) |
 | Cyber Strider | 248028 | [248028-cyber-strider.json](./248028-cyber-strider.json) |
 | Cyber Strike | 194001 | [194001-cyber-strike.json](./194001-cyber-strike.json) |
