@@ -826,6 +826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle accelerator | 101743 | [101743-idle-accelerator.json](./101743-idle-accelerator.json) |
 | Idle Acorns | 365117 | [365117-idle-acorns.json](./365117-idle-acorns.json) |
 | Idle Adventure | 75814 | [75814-idle-adventure.json](./75814-idle-adventure.json) |
+| Idle Aircraft Carrier | 256176 | [256176-idle-aircraft-carrier.json](./256176-idle-aircraft-carrier.json) |
 | Idle Airport CEO | 340518 | [340518-idle-airport-ceo.json](./340518-idle-airport-ceo.json) |
 | Idle Angels | 171895 | [171895-idle-angels.json](./171895-idle-angels.json) |
 | Idle Angels: Realm of Goddess | 260112 | [260112-idle-angels-realm-of-goddess.json](./260112-idle-angels-realm-of-goddess.json) |
@@ -2101,6 +2102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Indiemon Card Adventure | 62720 | [62720-indiemon-card-adventure.json](./62720-indiemon-card-adventure.json) |
 | Indiemon: Earth Nation - Villain Version | 62721 | [62721-indiemon-earth-nation-villain-version.json](./62721-indiemon-earth-nation-villain-version.json) |
 | Indiepocalypse #3 | 248808 | [248808-indiepocalypse-3.json](./248808-indiepocalypse-3.json) |
+| Indiepocalypse #42 | 256179 | [256179-indiepocalypse-42.json](./256179-indiepocalypse-42.json) |
 | Indiepocalypse #57 | 362705 | [362705-indiepocalypse-57.json](./362705-indiepocalypse-57.json) |
 | Indiepocalypse #58 | 362706 | [362706-indiepocalypse-58.json](./362706-indiepocalypse-58.json) |
 | Indiepocalypse #59 | 362707 | [362707-indiepocalypse-59.json](./362707-indiepocalypse-59.json) |
