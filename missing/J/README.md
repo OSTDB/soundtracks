@@ -1099,6 +1099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsaw Puzzle Pack: Pixel Puzzles Ultimate - Fitness | 255014 | [255014-jigsaw-puzzle-pack-pixel-puzzles-ultimate-fitness.json](./255014-jigsaw-puzzle-pack-pixel-puzzles-ultimate-fitness.json) |
 | Jigsaw Puzzle Pack: Pixel Puzzles Ultimate - Halloween 5 | 274583 | [274583-jigsaw-puzzle-pack-pixel-puzzles-ultimate-halloween-5.json](./274583-jigsaw-puzzle-pack-pixel-puzzles-ultimate-halloween-5.json) |
 | Jigsaw Puzzle Pack: Pixel Puzzles Ultimate - Jiu Jitsu | 243159 | [243159-jigsaw-puzzle-pack-pixel-puzzles-ultimate-jiu-jitsu.json](./243159-jigsaw-puzzle-pack-pixel-puzzles-ultimate-jiu-jitsu.json) |
+| Jigsaw Puzzle Pack: Pixel Puzzles Ultimate - Psychedelic | 266739 | [266739-jigsaw-puzzle-pack-pixel-puzzles-ultimate-psychedelic.json](./266739-jigsaw-puzzle-pack-pixel-puzzles-ultimate-psychedelic.json) |
 | Jigsaw Puzzle Pack: Pixel Puzzles Ultimate - Variety Pack 22 | 270193 | [270193-jigsaw-puzzle-pack-pixel-puzzles-ultimate-variety-pack-22.json](./270193-jigsaw-puzzle-pack-pixel-puzzles-ultimate-variety-pack-22.json) |
 | Jigsaw Puzzle Pack: Pixel Puzzles Ultimate - Variety Pack 7XS | 263506 | [263506-jigsaw-puzzle-pack-pixel-puzzles-ultimate-variety-pack-7xs.json](./263506-jigsaw-puzzle-pack-pixel-puzzles-ultimate-variety-pack-7xs.json) |
 | Jigsaw Puzzle Pack: Pixel Puzzles Ultimate Germany 2 | 272326 | [272326-jigsaw-puzzle-pack-pixel-puzzles-ultimate-germany-2.json](./272326-jigsaw-puzzle-pack-pixel-puzzles-ultimate-germany-2.json) |
