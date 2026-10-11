@@ -540,6 +540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rage of Destiny | 162836 | [162836-rage-of-destiny.json](./162836-rage-of-destiny.json) |
 | Rage of Mages | 13154 | [13154-rage-of-mages.json](./13154-rage-of-mages.json) |
 | Rage of Mages II: Necromancer | 13155 | [13155-rage-of-mages-ii-necromancer.json](./13155-rage-of-mages-ii-necromancer.json) |
+| Rage of Mechs | 260584 | [260584-rage-of-mechs.json](./260584-rage-of-mechs.json) |
 | Rage of the Battlemage | 32135 | [32135-rage-of-the-battlemage.json](./32135-rage-of-the-battlemage.json) |
 | Rage of the Dragons NEO | 296483 | [296483-rage-of-the-dragons-neo.json](./296483-rage-of-the-dragons-neo.json) |
 | Rage of the Wasteland | 157137 | [157137-rage-of-the-wasteland.json](./157137-rage-of-the-wasteland.json) |
@@ -8019,6 +8020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ruth's Journey | 133861 | [133861-ruths-journey.json](./133861-ruths-journey.json) |
 | Ruthless Carnage Hotline | 313225 | [313225-ruthless-carnage-hotline.json](./313225-ruthless-carnage-hotline.json) |
 | Ruthless Safari | 52777 | [52777-ruthless-safari.json](./52777-ruthless-safari.json) |
+| Ruthless:1 | 260608 | [260608-ruthless-1.json](./260608-ruthless-1.json) |
 | Ruthnar Online | 293325 | [293325-ruthnar-online.json](./293325-ruthnar-online.json) |
 | Rutrum | 406896 | [406896-rutrum.json](./406896-rutrum.json) |
 | Rutterkin | 416685 | [416685-rutterkin.json](./416685-rutterkin.json) |
