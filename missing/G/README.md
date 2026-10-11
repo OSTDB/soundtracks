@@ -314,6 +314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Civilizations III: Worlds in Crisis | 155080 | [155080-galactic-civilizations-iii-worlds-in-crisis.json](./155080-galactic-civilizations-iii-worlds-in-crisis.json) |
 | Galactic Civilizations III: Worlds in Crisis DLC | 163381 | [163381-galactic-civilizations-iii-worlds-in-crisis-dlc.json](./163381-galactic-civilizations-iii-worlds-in-crisis-dlc.json) |
 | Galactic Civilizations IV | 169178 | [169178-galactic-civilizations-iv.json](./169178-galactic-civilizations-iv.json) |
+| Galactic Civilizations IV: Supernova | 247423 | [247423-galactic-civilizations-iv-supernova.json](./247423-galactic-civilizations-iv-supernova.json) |
 | Galactic Civilizations IV: Tales of Centauron | 277000 | [277000-galactic-civilizations-iv-tales-of-centauron.json](./277000-galactic-civilizations-iv-tales-of-centauron.json) |
 | Galactic Civilizations IV: Tales of the Arnor | 277001 | [277001-galactic-civilizations-iv-tales-of-the-arnor.json](./277001-galactic-civilizations-iv-tales-of-the-arnor.json) |
 | Galactic Civilizations IV: Warlords | 277002 | [277002-galactic-civilizations-iv-warlords.json](./277002-galactic-civilizations-iv-warlords.json) |
@@ -5306,6 +5307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravity Storm: First Mission | 329586 | [329586-gravity-storm-first-mission.json](./329586-gravity-storm-first-mission.json) |
 | Gravity Strikers | 388319 | [388319-gravity-strikers.json](./388319-gravity-strikers.json) |
 | Gravity Swap 64 | 202107 | [202107-gravity-swap-64.json](./202107-gravity-swap-64.json) |
+| Gravity Switch | 247415 | [247415-gravity-switch.json](./247415-gravity-switch.json) |
 | Gravity Tilt | 266394 | [266394-gravity-tilt.json](./266394-gravity-tilt.json) |
 | Gravity Up | 318424 | [318424-gravity-up.json](./318424-gravity-up.json) |
 | Gravity Vector | 104791 | [104791-gravity-vector.json](./104791-gravity-vector.json) |
