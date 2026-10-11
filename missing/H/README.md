@@ -3779,6 +3779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes of Steel RPG | 36360 | [36360-heroes-of-steel-rpg.json](./36360-heroes-of-steel-rpg.json) |
 | Heroes of Steel Tactics RPG | 53191 | [53191-heroes-of-steel-tactics-rpg.json](./53191-heroes-of-steel-tactics-rpg.json) |
 | Heroes of the 357th | 15474 | [15474-heroes-of-the-357th.json](./15474-heroes-of-the-357th.json) |
+| Heroes of the Ashenwatch | 267850 | [267850-heroes-of-the-ashenwatch.json](./267850-heroes-of-the-ashenwatch.json) |
 | Heroes of the Citadel | 285583 | [285583-heroes-of-the-citadel.json](./285583-heroes-of-the-citadel.json) |
 | Heroes of the Dark | 194999 | [194999-heroes-of-the-dark.json](./194999-heroes-of-the-dark.json) |
 | Heroes of the Galaxy | 195162 | [195162-heroes-of-the-galaxy.json](./195162-heroes-of-the-galaxy.json) |
@@ -6782,6 +6783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House of Jigsaw: The Best of Macro Photography | 273475 | [273475-house-of-jigsaw-the-best-of-macro-photography.json](./273475-house-of-jigsaw-the-best-of-macro-photography.json) |
 | House of Jigsaw: Urban Lifestyle | 273474 | [273474-house-of-jigsaw-urban-lifestyle.json](./273474-house-of-jigsaw-urban-lifestyle.json) |
 | House of Jigsaw: Vintage Revival | 273473 | [273473-house-of-jigsaw-vintage-revival.json](./273473-house-of-jigsaw-vintage-revival.json) |
+| House of Legacy | 267849 | [267849-house-of-legacy.json](./267849-house-of-legacy.json) |
 | House of Lost Souls | 333624 | [333624-house-of-lost-souls.json](./333624-house-of-lost-souls.json) |
 | House of Necrosis | 206009 | [206009-house-of-necrosis.json](./206009-house-of-necrosis.json) |
 | House of Nowhere | 385861 | [385861-house-of-nowhere.json](./385861-house-of-nowhere.json) |
