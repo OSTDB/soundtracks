@@ -4053,6 +4053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Beginner Investor | 384087 | [384087-the-beginner-investor.json](./384087-the-beginner-investor.json) |
 | The Beginning of the End | 58853 | [58853-the-beginning-of-the-end.json](./58853-the-beginning-of-the-end.json) |
 | The Beginning of the End (part 1) | 262428 | [262428-the-beginning-of-the-end-part-1.json](./262428-the-beginning-of-the-end-part-1.json) |
+| The Beginning of the End: Part 2 | 263390 | [263390-the-beginning-of-the-end-part-2.json](./263390-the-beginning-of-the-end-part-2.json) |
 | The Bell | 120254 | [120254-the-bell.json](./120254-the-bell.json) |
 | The Bell Echoes | 304655 | [304655-the-bell-echoes.json](./304655-the-bell-echoes.json) |
 | The Bells' Arietta | 313334 | [313334-the-bells-arietta.json](./313334-the-bells-arietta.json) |
@@ -5093,6 +5094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dark World | 221234 | [221234-the-dark-world.json](./221234-the-dark-world.json) |
 | The Darked | 142227 | [142227-the-darked.json](./142227-the-darked.json) |
 | The Darkened Halls | 275701 | [275701-the-darkened-halls.json](./275701-the-darkened-halls.json) |
+| The Darkened Outpost | 263424 | [263424-the-darkened-outpost.json](./263424-the-darkened-outpost.json) |
 | The Darkening: Episode 1 | 262433 | [262433-the-darkening-episode-1.json](./262433-the-darkening-episode-1.json) |
 | The Darkening: Episode 2 | 262434 | [262434-the-darkening-episode-2.json](./262434-the-darkening-episode-2.json) |
 | The Darkest Emptiness | 219552 | [219552-the-darkest-emptiness.json](./219552-the-darkest-emptiness.json) |
@@ -8561,6 +8563,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Maze: L'ultimo soldato | 381333 | [381333-the-maze-lultimo-soldato.json](./381333-the-maze-lultimo-soldato.json) |
 | The McCarthy Chronicles: Episode 1 | 171983 | [171983-the-mccarthy-chronicles-episode-1.json](./171983-the-mccarthy-chronicles-episode-1.json) |
 | The Mean Craps Machine | 69507 | [69507-the-mean-craps-machine.json](./69507-the-mean-craps-machine.json) |
+| The Mean Green | 263415 | [263415-the-mean-green.json](./263415-the-mean-green.json) |
+| The Mean Green 2 | 263416 | [263416-the-mean-green-2.json](./263416-the-mean-green-2.json) |
 | The Meaning | 203303 | [203303-the-meaning.json](./203303-the-meaning.json) |
 | The Meaning of Auri | 349310 | [349310-the-meaning-of-auri.json](./349310-the-meaning-of-auri.json) |
 | The Meaning of Life | 379154 | [379154-the-meaning-of-life.json](./379154-the-meaning-of-life.json) |
@@ -11716,6 +11720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wagadu Chronicles | 241973 | [241973-the-wagadu-chronicles.json](./241973-the-wagadu-chronicles.json) |
 | The Wager | 125414 | [125414-the-wager.json](./125414-the-wager.json) |
 | The Waifu Game | 292681 | [292681-the-waifu-game.json](./292681-the-waifu-game.json) |
+| The Wailing Horde | 263418 | [263418-the-wailing-horde.json](./263418-the-wailing-horde.json) |
 | The Wailing of the Forest | 385062 | [385062-the-wailing-of-the-forest.json](./385062-the-wailing-of-the-forest.json) |
 | The Wait | 128605 | [128605-the-wait.json](./128605-the-wait.json) |
 | The Waiting Room | 74695 | [74695-the-waiting-room.json](./74695-the-waiting-room.json) |
