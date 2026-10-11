@@ -307,6 +307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Package chaos | 411698 | [411698-package-chaos.json](./411698-package-chaos.json) |
 | Package Inspector | 195697 | [195697-package-inspector.json](./195697-package-inspector.json) |
 | Package Man | 131395 | [131395-package-man.json](./131395-package-man.json) |
+| Package Runner | 260615 | [260615-package-runner.json](./260615-package-runner.json) |
 | Package Rush | 215594 | [215594-package-rush.json](./215594-package-rush.json) |
 | Package Stower VR | 350492 | [350492-package-stower-vr.json](./350492-package-stower-vr.json) |
 | Packed Bus 3D | 220196 | [220196-packed-bus-3d.json](./220196-packed-bus-3d.json) |
@@ -1264,6 +1265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paradroid | 22518 | [22518-paradroid.json](./22518-paradroid.json) |
 | Paradroid 90 | 13253 | [13253-paradroid-90.json](./13253-paradroid-90.json) |
 | Paraedolon | 320011 | [320011-paraedolon.json](./320011-paraedolon.json) |
+| Parafron | 260607 | [260607-parafron.json](./260607-parafron.json) |
 | Paragnosia | 320184 | [320184-paragnosia.json](./320184-paragnosia.json) |
 | Paragnosia: Museum | 365305 | [365305-paragnosia-museum.json](./365305-paragnosia-museum.json) |
 | Paragon of Time | 339907 | [339907-paragon-of-time.json](./339907-paragon-of-time.json) |
@@ -10968,6 +10970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Purrfect Rescue | 279259 | [279259-purrfect-rescue.json](./279259-purrfect-rescue.json) |
 | Purrfect Spirits | 112249 | [112249-purrfect-spirits.json](./112249-purrfect-spirits.json) |
 | Purrfect Stall | 371958 | [371958-purrfect-stall.json](./371958-purrfect-stall.json) |
+| Purrfect Survivors | 260617 | [260617-purrfect-survivors.json](./260617-purrfect-survivors.json) |
 | Purrfect Tanks: The Yarnpocalypse | 391064 | [391064-purrfect-tanks-the-yarnpocalypse.json](./391064-purrfect-tanks-the-yarnpocalypse.json) |
 | Purrfectly Ever After | 150041 | [150041-purrfectly-ever-after.json](./150041-purrfectly-ever-after.json) |
 | Purrkour | 122925 | [122925-purrkour.json](./122925-purrkour.json) |
