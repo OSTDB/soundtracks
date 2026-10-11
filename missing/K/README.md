@@ -1265,6 +1265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kiara and My Ara Ara Adventure | 156149 | [156149-kiara-and-my-ara-ara-adventure.json](./156149-kiara-and-my-ara-ara-adventure.json) |
 | Kiara and the Case of the Missing Chocolates | 181844 | [181844-kiara-and-the-case-of-the-missing-chocolates.json](./181844-kiara-and-the-case-of-the-missing-chocolates.json) |
 | Kibble Cats | 410233 | [410233-kibble-cats.json](./410233-kibble-cats.json) |
+| Kibitz Bugs | 273852 | [273852-kibitz-bugs.json](./273852-kibitz-bugs.json) |
 | Kiborg | 249998 | [249998-kiborg.json](./249998-kiborg.json) |
 | Kiborg: Arena | 306565 | [306565-kiborg-arena.json](./306565-kiborg-arena.json) |
 | Kiborg: Descent | 393609 | [393609-kiborg-descent.json](./393609-kiborg-descent.json) |
@@ -3149,6 +3150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kokurase: Episode 2 | 167800 | [167800-kokurase-episode-2.json](./167800-kokurase-episode-2.json) |
 | Kokurase: Episode 3 | 167799 | [167799-kokurase-episode-3.json](./167799-kokurase-episode-3.json) |
 | Kokuriko | 296922 | [296922-kokuriko.json](./296922-kokuriko.json) |
+| Kokusai Shitei Kaii 124-gou Tokyo Haison | 273851 | [273851-kokusai-shitei-kaii-124-gou-tokyo-haison.json](./273851-kokusai-shitei-kaii-124-gou-tokyo-haison.json) |
 | Kokuu Hyouryo Nirgends | 65283 | [65283-kokuu-hyouryo-nirgends.json](./65283-kokuu-hyouryo-nirgends.json) |
 | Kokuu Hyouryuu Nirgends | 45951 | [45951-kokuu-hyouryuu-nirgends.json](./45951-kokuu-hyouryuu-nirgends.json) |
 | Kolb Antarctica Experience | 96830 | [96830-kolb-antarctica-experience.json](./96830-kolb-antarctica-experience.json) |
