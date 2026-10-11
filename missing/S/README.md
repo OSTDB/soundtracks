@@ -7480,6 +7480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skelemania | 183059 | [183059-skelemania.json](./183059-skelemania.json) |
 | Skelemental: Monk's Fury | 295881 | [295881-skelemental-monks-fury.json](./295881-skelemental-monks-fury.json) |
 | Skeleport Energy | 276765 | [276765-skeleport-energy.json](./276765-skeleport-energy.json) |
+| Skeler Boy | 260594 | [260594-skeler-boy.json](./260594-skeler-boy.json) |
 | Skelerun | 198513 | [198513-skelerun.json](./198513-skelerun.json) |
 | Skeleseller | 328397 | [328397-skeleseller.json](./328397-skeleseller.json) |
 | Skeleskeleskelter | 234560 | [234560-skeleskeleskelter.json](./234560-skeleskeleskelter.json) |
@@ -8562,6 +8563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slingshot Fun Collection | 386213 | [386213-slingshot-fun-collection.json](./386213-slingshot-fun-collection.json) |
 | Slingshot Hero VR | 50546 | [50546-slingshot-hero-vr.json](./50546-slingshot-hero-vr.json) |
 | Slingshot Pilot | 373208 | [373208-slingshot-pilot.json](./373208-slingshot-pilot.json) |
+| Slingshot Protocol | 260572 | [260572-slingshot-protocol.json](./260572-slingshot-protocol.json) |
 | Slingshot Quest | 391715 | [391715-slingshot-quest.json](./391715-slingshot-quest.json) |
 | Slingshot Ride | 421373 | [421373-slingshot-ride.json](./421373-slingshot-ride.json) |
 | Slingshot Rush | 253008 | [253008-slingshot-rush.json](./253008-slingshot-rush.json) |
@@ -16370,6 +16372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steel Defence | 374431 | [374431-steel-defence.json](./374431-steel-defence.json) |
 | Steel Defier | 211680 | [211680-steel-defier.json](./211680-steel-defier.json) |
 | Steel Diver | 6891 | [6891-steel-diver.json](./6891-steel-diver.json) |
+| Steel Division 2: Men of Steel | 260599 | [260599-steel-division-2-men-of-steel.json](./260599-steel-division-2-men-of-steel.json) |
 | Steel Division 2: Nemesis - Battle of Rimini | 143080 | [143080-steel-division-2-nemesis-battle-of-rimini.json](./143080-steel-division-2-nemesis-battle-of-rimini.json) |
 | Steel Division 2: Nemesis #4 - Storming Toulon | 157535 | [157535-steel-division-2-nemesis-4-storming-toulon.json](./157535-steel-division-2-nemesis-4-storming-toulon.json) |
 | Steel Division 2: Reinforcement Pack #11 | 157542 | [157542-steel-division-2-reinforcement-pack-11.json](./157542-steel-division-2-reinforcement-pack-11.json) |
@@ -17805,6 +17808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strike Force 1940 | 413464 | [413464-strike-force-1940.json](./413464-strike-force-1940.json) |
 | Strike Force 2: Terrorist Hunt | 147654 | [147654-strike-force-2-terrorist-hunt.json](./147654-strike-force-2-terrorist-hunt.json) |
 | Strike Force 2004 | 273012 | [273012-strike-force-2004.json](./273012-strike-force-2004.json) |
+| Strike Force 3 | 260606 | [260606-strike-force-3.json](./260606-strike-force-3.json) |
 | Strike Force Bowling | 4185 | [4185-strike-force-bowling.json](./4185-strike-force-bowling.json) |
 | Strike Force Harrier | 26480 | [26480-strike-force-harrier.json](./26480-strike-force-harrier.json) |
 | Strike Force Heroes | 213516 | [213516-strike-force-heroes.json](./213516-strike-force-heroes.json) |
