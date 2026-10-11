@@ -2423,6 +2423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Tsunami | 388233 | [388233-cat-tsunami.json](./388233-cat-tsunami.json) |
 | Cat Veterinary: Emergency Hospital Close to Me | 328541 | [328541-cat-veterinary-emergency-hospital-close-to-me.json](./328541-cat-veterinary-emergency-hospital-close-to-me.json) |
 | Cat vs. Corgis | 54448 | [54448-cat-vs-corgis.json](./54448-cat-vs-corgis.json) |
+| Cat vs. Dog | 277869 | [277869-cat-vs-dog.json](./277869-cat-vs-dog.json) |
 | Cat vs. Dog | 323977 | [323977-cat-vs-dog.json](./323977-cat-vs-dog.json) |
 | Cat Walker Simulator | 176439 | [176439-cat-walker-simulator.json](./176439-cat-walker-simulator.json) |
 | Cat Warfare | 107806 | [107806-cat-warfare.json](./107806-cat-warfare.json) |
@@ -3050,6 +3051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Celestial Links | 186251 | [186251-celestial-links.json](./186251-celestial-links.json) |
 | Celestial Orbiter Auranova: Those Who Denounce God | 325643 | [325643-celestial-orbiter-auranova-those-who-denounce-god.json](./325643-celestial-orbiter-auranova-those-who-denounce-god.json) |
 | Celestial Project | 189149 | [189149-celestial-project.json](./189149-celestial-project.json) |
+| Celestial Return | 277763 | [277763-celestial-return.json](./277763-celestial-return.json) |
 | Celestial Rune Consortium: Shadows of Ascension | 293627 | [293627-celestial-rune-consortium-shadows-of-ascension.json](./293627-celestial-rune-consortium-shadows-of-ascension.json) |
 | Celestial Soul | 316144 | [316144-celestial-soul.json](./316144-celestial-soul.json) |
 | Celestial Tear: Lost World | 211170 | [211170-celestial-tear-lost-world.json](./211170-celestial-tear-lost-world.json) |
@@ -3737,6 +3739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ChasingCube | 243083 | [243083-chasingcube.json](./243083-chasingcube.json) |
 | Chasm | 255661 | [255661-chasm.json](./255661-chasm.json) |
 | Chasm Bound | 250896 | [250896-chasm-bound.json](./250896-chasm-bound.json) |
+| Chasm Crawl | 277761 | [277761-chasm-crawl.json](./277761-chasm-crawl.json) |
 | Chat Arena | 115424 | [115424-chat-arena.json](./115424-chat-arena.json) |
 | Chat Guess Games | 280857 | [280857-chat-guess-games.json](./280857-chat-guess-games.json) |
 | Chat Showdown - A twitch streamer's game! | 81261 | [81261-chat-showdown-a-twitch-streamers-game.json](./81261-chat-showdown-a-twitch-streamers-game.json) |
@@ -7855,6 +7858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Commuter | 189160 | [189160-commuter.json](./189160-commuter.json) |
 | Comp IV | 245533 | [245533-comp-iv.json](./245533-comp-iv.json) |
 | Compact Cyber Arcade: Disney Frozen Elsa | 246551 | [246551-compact-cyber-arcade-disney-frozen-elsa.json](./246551-compact-cyber-arcade-disney-frozen-elsa.json) |
+| Compact Cyber Arcade: Ultimate Spider-Man | 277799 | [277799-compact-cyber-arcade-ultimate-spider-man.json](./277799-compact-cyber-arcade-ultimate-spider-man.json) |
 | Compadrone: Land Wars | 360761 | [360761-compadrone-land-wars.json](./360761-compadrone-land-wars.json) |
 | Companion | 30884 | [30884-companion.json](./30884-companion.json) |
 | Companion of Darkness | 342630 | [342630-companion-of-darkness.json](./342630-companion-of-darkness.json) |
@@ -9319,6 +9323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Counter Spell Reforged | 122853 | [122853-counter-spell-reforged.json](./122853-counter-spell-reforged.json) |
 | Counter Terrorism - Minesweeper | 127025 | [127025-counter-terrorism-minesweeper.json](./127025-counter-terrorism-minesweeper.json) |
 | Counter-Fall | 127746 | [127746-counter-fall.json](./127746-counter-fall.json) |
+| Counter-Strike 1 Anthology | 277809 | [277809-counter-strike-1-anthology.json](./277809-counter-strike-1-anthology.json) |
 | Counter-Strike NEO: White Memories | 143558 | [143558-counter-strike-neo-white-memories.json](./143558-counter-strike-neo-white-memories.json) |
 | Counter-Strike Online | 77251 | [77251-counter-strike-online.json](./77251-counter-strike-online.json) |
 | Counter-Strike Techno: Zombies | 332267 | [332267-counter-strike-techno-zombies.json](./332267-counter-strike-techno-zombies.json) |
@@ -11208,6 +11213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cry of Monster | 367403 | [367403-cry-of-monster.json](./367403-cry-of-monster.json) |
 | Cryep | 98751 | [98751-cryep.json](./98751-cryep.json) |
 | Cryght | 188029 | [188029-cryght.json](./188029-cryght.json) |
+| Crying Alone | 277781 | [277781-crying-alone.json](./277781-crying-alone.json) |
 | Crying Aseimei Sendou | 45540 | [45540-crying-aseimei-sendou.json](./45540-crying-aseimei-sendou.json) |
 | Crying is not Enough | 99085 | [99085-crying-is-not-enough.json](./99085-crying-is-not-enough.json) |
 | Crying Pony | 245950 | [245950-crying-pony.json](./245950-crying-pony.json) |
