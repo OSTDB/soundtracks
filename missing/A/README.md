@@ -4379,6 +4379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All-Star Baseball '99 | 10663 | [10663-all-star-baseball-99.json](./10663-all-star-baseball-99.json) |
 | All-Star Baseball '99 | 248745 | [248745-all-star-baseball-99.json](./248745-all-star-baseball-99.json) |
 | All-Star Baseball 2000 | 10658 | [10658-all-star-baseball-2000.json](./10658-all-star-baseball-2000.json) |
+| All-Star Baseball 2000 | 270060 | [270060-all-star-baseball-2000.json](./270060-all-star-baseball-2000.json) |
 | All-Star Baseball 2001 | 249134 | [249134-all-star-baseball-2001.json](./249134-all-star-baseball-2001.json) |
 | All-Star Baseball 2001 | 69229 | [69229-all-star-baseball-2001.json](./69229-all-star-baseball-2001.json) |
 | All-Star Baseball 2002 | 10624 | [10624-all-star-baseball-2002.json](./10624-all-star-baseball-2002.json) |
@@ -8740,10 +8741,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arthur: Wizard Academy | 343420 | [343420-arthur-wizard-academy.json](./343420-arthur-wizard-academy.json) |
 | Arthur's 1st Grade | 70988 | [70988-arthurs-1st-grade.json](./70988-arthurs-1st-grade.json) |
 | Arthur's Absolutely Fun Day! | 49917 | [49917-arthurs-absolutely-fun-day.json](./49917-arthurs-absolutely-fun-day.json) |
+| Arthur's Computer Adventure | 270029 | [270029-arthurs-computer-adventure.json](./270029-arthurs-computer-adventure.json) |
 | Arthur's Nightmare | 105527 | [105527-arthurs-nightmare.json](./105527-arthurs-nightmare.json) |
 | Arthur's Pet Chase | 70918 | [70918-arthurs-pet-chase.json](./70918-arthurs-pet-chase.json) |
 | Arthur's Quest: Battle for the Kingdom | 68902 | [68902-arthurs-quest-battle-for-the-kingdom.json](./68902-arthurs-quest-battle-for-the-kingdom.json) |
 | Arthur's Reading Games | 59948 | [59948-arthurs-reading-games.json](./59948-arthurs-reading-games.json) |
+| Arthur's Reading Race | 270021 | [270021-arthurs-reading-race.json](./270021-arthurs-reading-race.json) |
 | Arthur's Revenge | 141141 | [141141-arthurs-revenge.json](./141141-arthurs-revenge.json) |
 | Arthur’s Tale | 405578 | [405578-arthur-s-tale.json](./405578-arthur-s-tale.json) |
 | Arthur's Thinking Games | 186061 | [186061-arthurs-thinking-games.json](./186061-arthurs-thinking-games.json) |
@@ -9383,6 +9386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asterix & Friends | 23621 | [23621-asterix-and-friends.json](./23621-asterix-and-friends.json) |
 | Astérix & Obélix | 228475 | [228475-asterix-and-obelix.json](./228475-asterix-and-obelix.json) |
 | Astérix & Obélix | 347901 | [347901-asterix-and-obelix.json](./347901-asterix-and-obelix.json) |
+| Asterix & Obelix Take on Caesar | 270061 | [270061-asterix-and-obelix-take-on-caesar.json](./270061-asterix-and-obelix-take-on-caesar.json) |
 | Astérix & Obelix Take on Caesar | 62150 | [62150-asterix-and-obelix-take-on-caesar.json](./62150-asterix-and-obelix-take-on-caesar.json) |
 | Astérix & Obélix XXL | 210711 | [210711-asterix-and-obelix-xxl.json](./210711-asterix-and-obelix-xxl.json) |
 | Astérix & Obélix XXL 2: Mission: Las Vegum | 81480 | [81480-asterix-and-obelix-xxl-2-mission-las-vegum.json](./81480-asterix-and-obelix-xxl-2-mission-las-vegum.json) |
@@ -9464,6 +9468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asteroids | 80932 | [80932-asteroids.json](./80932-asteroids.json) |
 | Asteroids | 89564 | [89564-asteroids.json](./89564-asteroids.json) |
 | Asteroids & Super Breakout | 78656 | [78656-asteroids-and-super-breakout.json](./78656-asteroids-and-super-breakout.json) |
+| Asteroids ++ | 270049 | [270049-asteroids.json](./270049-asteroids.json) |
 | Asteroids Arcade | 417452 | [417452-asteroids-arcade.json](./417452-asteroids-arcade.json) |
 | Asteroids Bangers | 178980 | [178980-asteroids-bangers.json](./178980-asteroids-bangers.json) |
 | Asteroids Belt: Try to Survive! | 164232 | [164232-asteroids-belt-try-to-survive.json](./164232-asteroids-belt-try-to-survive.json) |
@@ -9557,6 +9562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astral Maze: Escape the Horror | 304677 | [304677-astral-maze-escape-the-horror.json](./304677-astral-maze-escape-the-horror.json) |
 | Astral Ooze | 348345 | [348345-astral-ooze.json](./348345-astral-ooze.json) |
 | Astral Outcast | 298246 | [298246-astral-outcast.json](./298246-astral-outcast.json) |
+| Astral Party | 270039 | [270039-astral-party.json](./270039-astral-party.json) |
 | Astral Planes | 365821 | [365821-astral-planes.json](./365821-astral-planes.json) |
 | Astral Quester | 265590 | [265590-astral-quester.json](./265590-astral-quester.json) |
 | Astral Rift | 293000 | [293000-astral-rift.json](./293000-astral-rift.json) |
