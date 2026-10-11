@@ -3948,6 +3948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex Simulator: Bar Staff | 280342 | [280342-sex-simulator-bar-staff.json](./280342-sex-simulator-bar-staff.json) |
 | Sex Simulator: BDSM | 385042 | [385042-sex-simulator-bdsm.json](./385042-sex-simulator-bdsm.json) |
 | Sex Simulator: BDSM 2 | 253849 | [253849-sex-simulator-bdsm-2.json](./253849-sex-simulator-bdsm-2.json) |
+| Sex Simulator: Beach Resort | 254370 | [254370-sex-simulator-beach-resort.json](./254370-sex-simulator-beach-resort.json) |
 | Sex Simulator: CamGirl Audition 2 | 263761 | [263761-sex-simulator-camgirl-audition-2.json](./263761-sex-simulator-camgirl-audition-2.json) |
 | Sex Simulator: Dirty Doctor | 385044 | [385044-sex-simulator-dirty-doctor.json](./385044-sex-simulator-dirty-doctor.json) |
 | Sex Simulator: Futanari BDSM | 253850 | [253850-sex-simulator-futanari-bdsm.json](./253850-sex-simulator-futanari-bdsm.json) |
@@ -3972,6 +3973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex Story: Cuckold Life - Episode 9 | 274689 | [274689-sex-story-cuckold-life-episode-9.json](./274689-sex-story-cuckold-life-episode-9.json) |
 | Sex Story: Ruby and Hunter - Episode 1 | 252672 | [252672-sex-story-ruby-and-hunter-episode-1.json](./252672-sex-story-ruby-and-hunter-episode-1.json) |
 | Sex Story: Ruby and Hunter - Episode 2 | 253851 | [253851-sex-story-ruby-and-hunter-episode-2.json](./253851-sex-story-ruby-and-hunter-episode-2.json) |
+| Sex Story: Ruby and Hunter - Episode 3 | 254368 | [254368-sex-story-ruby-and-hunter-episode-3.json](./254368-sex-story-ruby-and-hunter-episode-3.json) |
 | Sex Story: Ruby and Hunter - Episode 4 | 256527 | [256527-sex-story-ruby-and-hunter-episode-4.json](./256527-sex-story-ruby-and-hunter-episode-4.json) |
 | Sex Survivals | 253852 | [253852-sex-survivals.json](./253852-sex-survivals.json) |
 | Sex Teacher | 226140 | [226140-sex-teacher.json](./226140-sex-teacher.json) |
@@ -13899,6 +13901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spitfire: Moonpies Mission | 307950 | [307950-spitfire-moonpies-mission.json](./307950-spitfire-moonpies-mission.json) |
 | Spitkiss | 98074 | [98074-spitkiss.json](./98074-spitkiss.json) |
 | Spitlings | 114483 | [114483-spitlings.json](./114483-spitlings.json) |
+| Spitter Man vs. The Pooping Birds | 254392 | [254392-spitter-man-vs-the-pooping-birds.json](./254392-spitter-man-vs-the-pooping-birds.json) |
 | Spitting Image | 13081 | [13081-spitting-image.json](./13081-spitting-image.json) |
 | Spitting Z | 156517 | [156517-spitting-z.json](./156517-spitting-z.json) |
 | Splash | 170363 | [170363-splash.json](./170363-splash.json) |
@@ -22003,6 +22006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Fantasy | 339464 | [339464-sweet-fantasy.json](./339464-sweet-fantasy.json) |
 | Sweet Fantasy World | 339463 | [339463-sweet-fantasy-world.json](./339463-sweet-fantasy-world.json) |
 | Sweet Farm | 392907 | [392907-sweet-farm.json](./392907-sweet-farm.json) |
+| Sweet Feets | 254383 | [254383-sweet-feets.json](./254383-sweet-feets.json) |
 | Sweet Fruitcake | 118974 | [118974-sweet-fruitcake.json](./118974-sweet-fruitcake.json) |
 | Sweet Fruits from the Magical Tree | 185104 | [185104-sweet-fruits-from-the-magical-tree.json](./185104-sweet-fruits-from-the-magical-tree.json) |
 | Sweet Fuse: At Your Side | 20103 | [20103-sweet-fuse-at-your-side.json](./20103-sweet-fuse-at-your-side.json) |
@@ -22379,6 +22383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword's Soul Duel | 159636 | [159636-swords-soul-duel.json](./159636-swords-soul-duel.json) |
 | Sword&Magic | 226153 | [226153-sword-and-magic.json](./226153-sword-and-magic.json) |
 | Swordash | 259564 | [259564-swordash.json](./259564-swordash.json) |
+| Swordbird Song: The Iron Owl Tower | 254364 | [254364-swordbird-song-the-iron-owl-tower.json](./254364-swordbird-song-the-iron-owl-tower.json) |
 | SwordBorn | 356051 | [356051-swordborn.json](./356051-swordborn.json) |
 | Swordbreaker the Game | 34192 | [34192-swordbreaker-the-game.json](./34192-swordbreaker-the-game.json) |
 | Swordbreaker: Back to the Castle | 113751 | [113751-swordbreaker-back-to-the-castle.json](./113751-swordbreaker-back-to-the-castle.json) |
