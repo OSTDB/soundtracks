@@ -5926,6 +5926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forest God | 313255 | [313255-forest-god.json](./313255-forest-god.json) |
 | Forest Grump | 199471 | [199471-forest-grump.json](./199471-forest-grump.json) |
 | Forest Guardian | 147859 | [147859-forest-guardian.json](./147859-forest-guardian.json) |
+| Forest Guardian Battle Chess | 278343 | [278343-forest-guardian-battle-chess.json](./278343-forest-guardian-battle-chess.json) |
 | Forest Harvester Tractor 3D | 89941 | [89941-forest-harvester-tractor-3d.json](./89941-forest-harvester-tractor-3d.json) |
 | Forest Heroes | 311581 | [311581-forest-heroes.json](./311581-forest-heroes.json) |
 | Forest Hills: The Last Year | 292310 | [292310-forest-hills-the-last-year.json](./292310-forest-hills-the-last-year.json) |
