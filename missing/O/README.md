@@ -1386,6 +1386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ondal | 345022 | [345022-ondal.json](./345022-ondal.json) |
 | Ondeki | 148410 | [148410-ondeki.json](./148410-ondeki.json) |
 | Onder | 159781 | [159781-onder.json](./159781-onder.json) |
+| One | 247411 | [247411-one.json](./247411-one.json) |
 | One | 78060 | [78060-one.json](./78060-one.json) |
 | One Armed Bandit | 236354 | [236354-one-armed-bandit.json](./236354-one-armed-bandit.json) |
 | One Barbarian Futa Tribe Chapter 1: Violet | 297170 | [297170-one-barbarian-futa-tribe-chapter-1-violet.json](./297170-one-barbarian-futa-tribe-chapter-1-violet.json) |
