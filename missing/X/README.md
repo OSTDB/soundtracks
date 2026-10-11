@@ -345,6 +345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xecuter | 133346 | [133346-xecuter.json](./133346-xecuter.json) |
 | Xecutor | 55021 | [55021-xecutor.json](./55021-xecutor.json) |
 | Xediss | 67359 | [67359-xediss.json](./67359-xediss.json) |
+| XeeWar | 242450 | [242450-xeewar.json](./242450-xeewar.json) |
 | Xega Brain Trainer | 241534 | [241534-xega-brain-trainer.json](./241534-xega-brain-trainer.json) |
 | XeGrader | 352364 | [352364-xegrader.json](./352364-xegrader.json) |
 | XeGrader Plus | 388057 | [388057-xegrader-plus.json](./388057-xegrader-plus.json) |
