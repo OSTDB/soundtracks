@@ -345,6 +345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Wanna Be the Cat | 76580 | [76580-i-wanna-be-the-cat.json](./76580-i-wanna-be-the-cat.json) |
 | I Wanna Be the Co-op | 108829 | [108829-i-wanna-be-the-co-op.json](./108829-i-wanna-be-the-co-op.json) |
 | I Wanna Be the Creator | 110912 | [110912-i-wanna-be-the-creator.json](./110912-i-wanna-be-the-creator.json) |
+| I Wanna Be The Crimson Needle | 243038 | [243038-i-wanna-be-the-crimson-needle.json](./243038-i-wanna-be-the-crimson-needle.json) |
 | I Wanna Be the Guy | 14143 | [14143-i-wanna-be-the-guy.json](./14143-i-wanna-be-the-guy.json) |
 | I Wanna Be The Guy Remastered | 328426 | [328426-i-wanna-be-the-guy-remastered.json](./328426-i-wanna-be-the-guy-remastered.json) |
 | I Wanna Be the Guy: Gaiden | 80531 | [80531-i-wanna-be-the-guy-gaiden.json](./80531-i-wanna-be-the-guy-gaiden.json) |
