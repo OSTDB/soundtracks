@@ -6090,6 +6090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Slug 3: Classic Edition | 347164 | [347164-metal-slug-3-classic-edition.json](./347164-metal-slug-3-classic-edition.json) |
 | Metal Slug Advance | 1406 | [1406-metal-slug-advance.json](./1406-metal-slug-advance.json) |
 | Metal Slug Anthology | 5004 | [5004-metal-slug-anthology.json](./5004-metal-slug-anthology.json) |
+| Metal Slug Bundle | 271120 | [271120-metal-slug-bundle.json](./271120-metal-slug-bundle.json) |
 | Metal Slug Collection | 51223 | [51223-metal-slug-collection.json](./51223-metal-slug-collection.json) |
 | Metal Slug Defense | 35593 | [35593-metal-slug-defense.json](./35593-metal-slug-defense.json) |
 | Metal Slug Defense: "KOF Pack" Vol.1 | 405013 | [405013-metal-slug-defense-kof-pack-vol-1.json](./405013-metal-slug-defense-kof-pack-vol-1.json) |
