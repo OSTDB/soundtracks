@@ -3336,6 +3336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat Speller | 398545 | [398545-beat-speller.json](./398545-beat-speller.json) |
 | Beat Stage | 408101 | [408101-beat-stage.json](./408101-beat-stage.json) |
 | Beat Stickman: Infinity Clones | 112072 | [112072-beat-stickman-infinity-clones.json](./112072-beat-stickman-infinity-clones.json) |
+| Beat Survival | 264541 | [264541-beat-survival.json](./264541-beat-survival.json) |
 | Beat the Beat! | 262376 | [262376-beat-the-beat.json](./262376-beat-the-beat.json) |
 | Beat the Beats | 281956 | [281956-beat-the-beats.json](./281956-beat-the-beats.json) |
 | Beat the Bird | 247076 | [247076-beat-the-bird.json](./247076-beat-the-bird.json) |
