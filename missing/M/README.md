@@ -6185,6 +6185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metamorph | 368137 | [368137-metamorph.json](./368137-metamorph.json) |
 | Metamorphic | 27474 | [27474-metamorphic.json](./27474-metamorphic.json) |
 | MetaMorphic Rippers | 223165 | [223165-metamorphic-rippers.json](./223165-metamorphic-rippers.json) |
+| Metamorphism | 259461 | [259461-metamorphism.json](./259461-metamorphism.json) |
 | Metamorphosis | 115657 | [115657-metamorphosis.json](./115657-metamorphosis.json) |
 | Metamorphosis | 131990 | [131990-metamorphosis.json](./131990-metamorphosis.json) |
 | Metamorphosis | 319216 | [319216-metamorphosis.json](./319216-metamorphosis.json) |
@@ -11086,6 +11087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MotoGP 3 | 5938 | [5938-motogp-3.json](./5938-motogp-3.json) |
 | MotoGP Guru Racing 25/26 | 196554 | [196554-motogp-guru-racing-25-26.json](./196554-motogp-guru-racing-25-26.json) |
 | MotoGP4 | 20536 | [20536-motogp4.json](./20536-motogp4.json) |
+| Motoko Hime Adventure | 259489 | [259489-motoko-hime-adventure.json](./259489-motoko-hime-adventure.json) |
 | Motoko-chan no Wonder Kitchen | 37920 | [37920-motoko-chan-no-wonder-kitchen.json](./37920-motoko-chan-no-wonder-kitchen.json) |
 | Motomancer: Auto Battle | 181939 | [181939-motomancer-auto-battle.json](./181939-motomancer-auto-battle.json) |
 | Motor City Online | 23809 | [23809-motor-city-online.json](./23809-motor-city-online.json) |
