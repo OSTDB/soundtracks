@@ -139,6 +139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saban's VR Troopers | 19718 | [19718-sabans-vr-troopers.json](./19718-sabans-vr-troopers.json) |
 | Sabat Fight Arena | 116110 | [116110-sabat-fight-arena.json](./116110-sabat-fight-arena.json) |
 | Sabbat of the Witch | 105342 | [105342-sabbat-of-the-witch.json](./105342-sabbat-of-the-witch.json) |
+| Sabbath | 275548 | [275548-sabbath.json](./275548-sabbath.json) |
 | Saber Fight VR | 127529 | [127529-saber-fight-vr.json](./127529-saber-fight-vr.json) |
 | Saber Marionette J: Battle Sabers | 44821 | [44821-saber-marionette-j-battle-sabers.json](./44821-saber-marionette-j-battle-sabers.json) |
 | Saber Punks | 152309 | [152309-saber-punks.json](./152309-saber-punks.json) |
@@ -3549,6 +3550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seraphixial | 392164 | [392164-seraphixial.json](./392164-seraphixial.json) |
 | Serbia '14 | 131997 | [131997-serbia-14.json](./131997-serbia-14.json) |
 | Serega Madness Pixel Adventures | 295276 | [295276-serega-madness-pixel-adventures.json](./295276-serega-madness-pixel-adventures.json) |
+| Seren Nova | 275531 | [275531-seren-nova.json](./275531-seren-nova.json) |
 | Serena | 14528 | [14528-serena.json](./14528-serena.json) |
 | Serena | 325536 | [325536-serena.json](./325536-serena.json) |
 | Serenade of the Sirens | 107411 | [107411-serenade-of-the-sirens.json](./107411-serenade-of-the-sirens.json) |
@@ -6487,6 +6489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Hill: Play Novel | 77257 | [77257-silent-hill-play-novel.json](./77257-silent-hill-play-novel.json) |
 | Silent Hill: Shattered Memories | 486 | [486-silent-hill-shattered-memories.json](./486-silent-hill-shattered-memories.json) |
 | Silent Hill: The Arcade | 324910 | [324910-silent-hill-the-arcade.json](./324910-silent-hill-the-arcade.json) |
+| Silent Hill: The Gallows | 275627 | [275627-silent-hill-the-gallows.json](./275627-silent-hill-the-gallows.json) |
 | Silent Hill: Townfall | 222342 | [222342-silent-hill-townfall.json](./222342-silent-hill-townfall.json) |
 | Silent Hill: Townfall - Day One Edition | 420561 | [420561-silent-hill-townfall-day-one-edition.json](./420561-silent-hill-townfall-day-one-edition.json) |
 | Silent Hills | 7611 | [7611-silent-hills.json](./7611-silent-hills.json) |
@@ -7900,6 +7903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skyfighter Arcade | 233632 | [233632-skyfighter-arcade.json](./233632-skyfighter-arcade.json) |
 | Skyfish II: Eat Your Peas | 79367 | [79367-skyfish-ii-eat-your-peas.json](./79367-skyfish-ii-eat-your-peas.json) |
 | Skyfish Rising | 340366 | [340366-skyfish-rising.json](./340366-skyfish-rising.json) |
+| SkyFly | 275515 | [275515-skyfly.json](./275515-skyfly.json) |
 | Skyforce | 174856 | [174856-skyforce.json](./174856-skyforce.json) |
 | Skyforge Trails | 401097 | [401097-skyforge-trails.json](./401097-skyforge-trails.json) |
 | Skyforge: Bounty Hunter Collector's Edition | 167666 | [167666-skyforge-bounty-hunter-collectors-edition.json](./167666-skyforge-bounty-hunter-collectors-edition.json) |
@@ -8218,6 +8222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sleepover Rules | 177815 | [177815-sleepover-rules.json](./177815-sleepover-rules.json) |
 | Sleepover: Rewake | 374808 | [374808-sleepover-rewake.json](./374808-sleepover-rewake.json) |
 | Sleepthrough | 230264 | [230264-sleepthrough.json](./230264-sleepthrough.json) |
+| SleepWalk | 275557 | [275557-sleepwalk.json](./275557-sleepwalk.json) |
 | Sleepwalker | 13079 | [13079-sleepwalker.json](./13079-sleepwalker.json) |
 | Sleepwalker | 96686 | [96686-sleepwalker.json](./96686-sleepwalker.json) |
 | SleepWalker | 117718 | [117718-sleepwalker.json](./117718-sleepwalker.json) |
@@ -12931,6 +12936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Special Forces Pack | 100208 | [100208-special-forces-pack.json](./100208-special-forces-pack.json) |
 | Special Forces Strike: Tactical Swat Shooter | 290426 | [290426-special-forces-strike-tactical-swat-shooter.json](./290426-special-forces-strike-tactical-swat-shooter.json) |
 | Special Forces VR | 41964 | [41964-special-forces-vr.json](./41964-special-forces-vr.json) |
+| Special Forces War: Zombie Attack | 275538 | [275538-special-forces-war-zombie-attack.json](./275538-special-forces-war-zombie-attack.json) |
 | Special Forces: Operation Blood II | 137424 | [137424-special-forces-operation-blood-ii.json](./137424-special-forces-operation-blood-ii.json) |
 | Special Forces: Team X | 16403 | [16403-special-forces-team-x.json](./16403-special-forces-team-x.json) |
 | Special girls | 178512 | [178512-special-girls.json](./178512-special-girls.json) |
@@ -17086,6 +17092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Story of Seasons | 8608 | [8608-story-of-seasons.json](./8608-story-of-seasons.json) |
 | Story of Seasons (Tentative Title) | 85534 | [85534-story-of-seasons-tentative-title.json](./85534-story-of-seasons-tentative-title.json) |
 | Story of Seasons: A Wonderful Life | 217553 | [217553-story-of-seasons-a-wonderful-life.json](./217553-story-of-seasons-a-wonderful-life.json) |
+| Story of Seasons: A Wonderful Life - Mukumuku Outfit | 275526 | [275526-story-of-seasons-a-wonderful-life-mukumuku-outfit.json](./275526-story-of-seasons-a-wonderful-life-mukumuku-outfit.json) |
 | Story of Seasons: Friends of Mineral Town | 120300 | [120300-story-of-seasons-friends-of-mineral-town.json](./120300-story-of-seasons-friends-of-mineral-town.json) |
 | Story of Seasons: Grand Bazaar | 337026 | [337026-story-of-seasons-grand-bazaar.json](./337026-story-of-seasons-grand-bazaar.json) |
 | Story of Seasons: Grand Bazaar - Digital Deluxe Edition | 342241 | [342241-story-of-seasons-grand-bazaar-digital-deluxe-edition.json](./342241-story-of-seasons-grand-bazaar-digital-deluxe-edition.json) |
@@ -18776,6 +18783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sūn Měiqí Yí'àn: Dì-sān Jì | 149468 | [149468-sun-meiqi-yian-di-san-ji.json](./149468-sun-meiqi-yian-di-san-ji.json) |
 | Sun Rush | 244517 | [244517-sun-rush.json](./244517-sun-rush.json) |
 | Sun Scorcher | 356781 | [356781-sun-scorcher.json](./356781-sun-scorcher.json) |
+| Sun Spear | 275523 | [275523-sun-spear.json](./275523-sun-spear.json) |
 | Sun Sport Fishing: Keiryuu-ou | 37889 | [37889-sun-sport-fishing-keiryuu-ou.json](./37889-sun-sport-fishing-keiryuu-ou.json) |
 | Sun Temple Shootout | 87697 | [87697-sun-temple-shootout.json](./87697-sun-temple-shootout.json) |
 | Sun Wukong VS Robot | 113725 | [113725-sun-wukong-vs-robot.json](./113725-sun-wukong-vs-robot.json) |
