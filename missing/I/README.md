@@ -1047,6 +1047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Run | 258389 | [258389-idle-run.json](./258389-idle-run.json) |
 | Idle Saga | 318215 | [318215-idle-saga.json](./318215-idle-saga.json) |
 | Idle Sailor | 390740 | [390740-idle-sailor.json](./390740-idle-sailor.json) |
+| Idle Sand Tycoon | 245205 | [245205-idle-sand-tycoon.json](./245205-idle-sand-tycoon.json) |
 | Idle School Simulator | 299903 | [299903-idle-school-simulator.json](./299903-idle-school-simulator.json) |
 | Idle Shapes | 226164 | [226164-idle-shapes.json](./226164-idle-shapes.json) |
 | Idle ShowOff | 368683 | [368683-idle-showoff.json](./368683-idle-showoff.json) |
@@ -3391,6 +3392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Intrusive Thoughts | 325517 | [325517-intrusive-thoughts.json](./325517-intrusive-thoughts.json) |
 | Inu Dai Suki! | 46604 | [46604-inu-dai-suki.json](./46604-inu-dai-suki.json) |
 | Inu no Osanpo | 169323 | [169323-inu-no-osanpo.json](./169323-inu-no-osanpo.json) |
+| Inu Oh | 245221 | [245221-inu-oh.json](./245221-inu-oh.json) |
 | Inu to Neko, Tokidoki Panda | 410088 | [410088-inu-to-neko-tokidoki-panda.json](./410088-inu-to-neko-tokidoki-panda.json) |
 | Inua: A Story in Ice and Time | 159773 | [159773-inua-a-story-in-ice-and-time.json](./159773-inua-a-story-in-ice-and-time.json) |
 | Inugamike no Ichizoku | 130701 | [130701-inugamike-no-ichizoku.json](./130701-inugamike-no-ichizoku.json) |
