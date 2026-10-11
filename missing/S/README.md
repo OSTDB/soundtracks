@@ -10615,6 +10615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic 2006 2D | 352302 | [352302-sonic-2006-2d.json](./352302-sonic-2006-2d.json) |
 | Sonic 2011 | 301380 | [301380-sonic-2011.json](./301380-sonic-2011.json) |
 | Sonic 3 & Amy Rose | 201293 | [201293-sonic-3-and-amy-rose.json](./201293-sonic-3-and-amy-rose.json) |
+| Sonic 3 & Knuckles Battle Race | 277230 | [277230-sonic-3-and-knuckles-battle-race.json](./277230-sonic-3-and-knuckles-battle-race.json) |
 | Sonic 3 & Knuckles: Deluxe | 330320 | [330320-sonic-3-and-knuckles-deluxe.json](./330320-sonic-3-and-knuckles-deluxe.json) |
 | Sonic 3 & Sally Acorn | 201295 | [201295-sonic-3-and-sally-acorn.json](./201295-sonic-3-and-sally-acorn.json) |
 | Sonic 3 & Tenna | 329666 | [329666-sonic-3-and-tenna.json](./329666-sonic-3-and-tenna.json) |
