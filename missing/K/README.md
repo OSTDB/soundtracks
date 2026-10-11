@@ -3190,6 +3190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Komodo 3K Arena | 393110 | [393110-komodo-3k-arena.json](./393110-komodo-3k-arena.json) |
 | Komori Fruit Rush | 126633 | [126633-komori-fruit-rush.json](./126633-komori-fruit-rush.json) |
 | Komparet | 415481 | [415481-komparet.json](./415481-komparet.json) |
+| Kompete | 271681 | [271681-kompete.json](./271681-kompete.json) |
 | Kőműves Kelemen | 120803 | [120803-komuves-kelemen.json](./120803-komuves-kelemen.json) |
 | Kona | 14404 | [14404-kona.json](./14404-kona.json) |
 | Kona & Snowrabbit | 286230 | [286230-kona-and-snowrabbit.json](./286230-kona-and-snowrabbit.json) |
