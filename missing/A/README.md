@@ -232,6 +232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Firefighter's Boxing Matches | 179136 | [179136-a-firefighters-boxing-matches.json](./179136-a-firefighters-boxing-matches.json) |
 | A Firelit Room | 196619 | [196619-a-firelit-room.json](./196619-a-firelit-room.json) |
 | A Firm Handshake | 176349 | [176349-a-firm-handshake.json](./176349-a-firm-handshake.json) |
+| A Fisherman's Tale 2 | 239554 | [239554-a-fishermans-tale-2.json](./239554-a-fishermans-tale-2.json) |
 | A Fishy RPG | 181101 | [181101-a-fishy-rpg.json](./181101-a-fishy-rpg.json) |
 | A Five-Day Tour in the Morgue | 117580 | [117580-a-five-day-tour-in-the-morgue.json](./117580-a-five-day-tour-in-the-morgue.json) |
 | A Flappy Bird in Real Life | 111077 | [111077-a-flappy-bird-in-real-life.json](./111077-a-flappy-bird-in-real-life.json) |
@@ -4902,6 +4903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amant | 258183 | [258183-amant.json](./258183-amant.json) |
 | Amanthi | 141853 | [141853-amanthi.json](./141853-amanthi.json) |
 | Amaoto to Taikutsu | 395504 | [395504-amaoto-to-taikutsu.json](./395504-amaoto-to-taikutsu.json) |
+| Amaranth | 239560 | [239560-amaranth.json](./239560-amaranth.json) |
 | Amaranth III | 69264 | [69264-amaranth-iii.json](./69264-amaranth-iii.json) |
 | Amaranthine | 33200 | [33200-amaranthine.json](./33200-amaranthine.json) |
 | Amaranthine Voyage: Legacy of the Guardians - Collector's Edition | 416874 | [416874-amaranthine-voyage-legacy-of-the-guardians-collectors-edition.json](./416874-amaranthine-voyage-legacy-of-the-guardians-collectors-edition.json) |
