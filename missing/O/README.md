@@ -2395,6 +2395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orbit 2D | 415446 | [415446-orbit-2d.json](./415446-orbit-2d.json) |
 | Orbit Angler | 297586 | [297586-orbit-angler.json](./297586-orbit-angler.json) |
 | Orbit Drop | 120339 | [120339-orbit-drop.json](./120339-orbit-drop.json) |
+| Orbit Express | 258401 | [258401-orbit-express.json](./258401-orbit-express.json) |
 | Orbit Maze | 347189 | [347189-orbit-maze.json](./347189-orbit-maze.json) |
 | Orbit One | 405604 | [405604-orbit-one.json](./405604-orbit-one.json) |
 | Orbit Putt | 323779 | [323779-orbit-putt.json](./323779-orbit-putt.json) |
@@ -2984,6 +2985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Our Church and Halloween: Story One | 146311 | [146311-our-church-and-halloween-story-one.json](./146311-our-church-and-halloween-story-one.json) |
 | Our Church and Halloween: Story Three | 147942 | [147942-our-church-and-halloween-story-three.json](./147942-our-church-and-halloween-story-three.json) |
 | Our Cinderella | 292061 | [292061-our-cinderella.json](./292061-our-cinderella.json) |
+| Our Dark Heart | 258376 | [258376-our-dark-heart.json](./258376-our-dark-heart.json) |
 | Our Darkest Night | 30793 | [30793-our-darkest-night.json](./30793-our-darkest-night.json) |
 | Our Dollhouse | 294219 | [294219-our-dollhouse.json](./294219-our-dollhouse.json) |
 | Our Doomed Bunker | 293008 | [293008-our-doomed-bunker.json](./293008-our-doomed-bunker.json) |
@@ -3370,6 +3372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outrunner | 28802 | [28802-outrunner.json](./28802-outrunner.json) |
 | Outrunner 2 | 96630 | [96630-outrunner-2.json](./96630-outrunner-2.json) |
 | Outrunner 3 | 113191 | [113191-outrunner-3.json](./113191-outrunner-3.json) |
+| Outrunner: Neon Nights | 258371 | [258371-outrunner-neon-nights.json](./258371-outrunner-neon-nights.json) |
 | OutRunners | 39574 | [39574-outrunners.json](./39574-outrunners.json) |
 | Outsanity | 343304 | [343304-outsanity.json](./343304-outsanity.json) |
 | Outscore | 182529 | [182529-outscore.json](./182529-outscore.json) |
