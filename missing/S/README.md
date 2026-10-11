@@ -4000,6 +4000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex, Drugs, and Beer Can | 247553 | [247553-sex-drugs-and-beer-can.json](./247553-sex-drugs-and-beer-can.json) |
 | Sex, Love & Girls | 235689 | [235689-sex-love-and-girls.json](./235689-sex-love-and-girls.json) |
 | Sex, Stocks & Cocks | 301653 | [301653-sex-stocks-and-cocks.json](./301653-sex-stocks-and-cocks.json) |
+| Sexaginta Quattuordle | 249700 | [249700-sexaginta-quattuordle.json](./249700-sexaginta-quattuordle.json) |
 | Sexbot | 277364 | [277364-sexbot.json](./277364-sexbot.json) |
 | Sexcraft: Sofiya and the Lewd Clan | 170365 | [170365-sexcraft-sofiya-and-the-lewd-clan.json](./170365-sexcraft-sofiya-and-the-lewd-clan.json) |
 | Sexdivers | 324680 | [324680-sexdivers.json](./324680-sexdivers.json) |
@@ -11818,6 +11819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soulward | 183458 | [183458-soulward.json](./183458-soulward.json) |
 | SoulWorker | 57372 | [57372-soulworker.json](./57372-soulworker.json) |
 | Soulworker Academia | 143053 | [143053-soulworker-academia.json](./143053-soulworker-academia.json) |
+| Soulworker Urban Strategy | 249680 | [249680-soulworker-urban-strategy.json](./249680-soulworker-urban-strategy.json) |
 | SoulWorker: Anime Legends | 200736 | [200736-soulworker-anime-legends.json](./200736-soulworker-anime-legends.json) |
 | Soumei: Crescent Moon | 382781 | [382781-soumei-crescent-moon.json](./382781-soumei-crescent-moon.json) |
 | Sound Balling 2 | 379542 | [379542-sound-balling-2.json](./379542-sound-balling-2.json) |
@@ -18398,6 +18400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Succubus: Elysian Fields | 337829 | [337829-succubus-elysian-fields.json](./337829-succubus-elysian-fields.json) |
 | Succubus: Hellish Orgy VR | 256180 | [256180-succubus-hellish-orgy-vr.json](./256180-succubus-hellish-orgy-vr.json) |
 | Succubus: Onoskelis | 216209 | [216209-succubus-onoskelis.json](./216209-succubus-onoskelis.json) |
+| Succubus: Red Goddess | 249664 | [249664-succubus-red-goddess.json](./249664-succubus-red-goddess.json) |
 | Succubus: Sex Story | 269203 | [269203-succubus-sex-story.json](./269203-succubus-sex-story.json) |
 | Succubuses Love Creampie | 169424 | [169424-succubuses-love-creampie.json](./169424-succubuses-love-creampie.json) |
 | Succulent | 20252 | [20252-succulent.json](./20252-succulent.json) |
