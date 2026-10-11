@@ -1167,6 +1167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VIA | 377289 | [377289-via.json](./377289-via.json) |
 | Via Negativa | 186623 | [186623-via-negativa.json](./186623-via-negativa.json) |
 | Viaerium | 74331 | [74331-viaerium.json](./74331-viaerium.json) |
+| Viaja Baraja | 241256 | [241256-viaja-baraja.json](./241256-viaja-baraja.json) |
 | Viaje al centro de la Tierra | 138807 | [138807-viaje-al-centro-de-la-tierra.json](./138807-viaje-al-centro-de-la-tierra.json) |
 | Vianiato PopOut | 334757 | [334757-vianiato-popout.json](./334757-vianiato-popout.json) |
 | Viarkanoid | 89373 | [89373-viarkanoid.json](./89373-viarkanoid.json) |
@@ -2269,6 +2270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Volzerk: Monsters and Lands Unknown | 231295 | [231295-volzerk-monsters-and-lands-unknown.json](./231295-volzerk-monsters-and-lands-unknown.json) |
 | Vom Drachentöten | 389120 | [389120-vom-drachentoten.json](./389120-vom-drachentoten.json) |
 | Vomitoreum | 142271 | [142271-vomitoreum.json](./142271-vomitoreum.json) |
+| Vona: She | 241263 | [241263-vona-she.json](./241263-vona-she.json) |
 | VonGarland Castle: Sacrilege of the Night | 264526 | [264526-vongarland-castle-sacrilege-of-the-night.json](./264526-vongarland-castle-sacrilege-of-the-night.json) |
 | VoodLoop | 364566 | [364566-voodloop.json](./364566-voodloop.json) |
 | Voodoo Dolls | 319806 | [319806-voodoo-dolls.json](./319806-voodoo-dolls.json) |
