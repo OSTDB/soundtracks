@@ -20289,6 +20289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mega Baseball 2: Red Rock Park | 171907 | [171907-super-mega-baseball-2-red-rock-park.json](./171907-super-mega-baseball-2-red-rock-park.json) |
 | Super Mega Baseball 3 | 131946 | [131946-super-mega-baseball-3.json](./131946-super-mega-baseball-3.json) |
 | Super Mega Baseball 4: Castillo Arena Stadium | 266742 | [266742-super-mega-baseball-4-castillo-arena-stadium.json](./266742-super-mega-baseball-4-castillo-arena-stadium.json) |
+| Super Mega Baseball 4: Peril Point Stadium | 252626 | [252626-super-mega-baseball-4-peril-point-stadium.json](./252626-super-mega-baseball-4-peril-point-stadium.json) |
 | Super Mega Bob | 34676 | [34676-super-mega-bob.json](./34676-super-mega-bob.json) |
 | Super Mega Bread | 185485 | [185485-super-mega-bread.json](./185485-super-mega-bread.json) |
 | Super Mega Drive 3: 10 Super Jogos | 302165 | [302165-super-mega-drive-3-10-super-jogos.json](./302165-super-mega-drive-3-10-super-jogos.json) |
@@ -21966,6 +21967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Baby Girl Mermaid Life | 108852 | [108852-sweet-baby-girl-mermaid-life.json](./108852-sweet-baby-girl-mermaid-life.json) |
 | Sweet Baby Girl Summer Camp | 104489 | [104489-sweet-baby-girl-summer-camp.json](./104489-sweet-baby-girl-summer-camp.json) |
 | Sweet Bakery Tycoon | 150268 | [150268-sweet-bakery-tycoon.json](./150268-sweet-bakery-tycoon.json) |
+| Sweet Bakery Tycoon: Co-op Edition | 252623 | [252623-sweet-bakery-tycoon-co-op-edition.json](./252623-sweet-bakery-tycoon-co-op-edition.json) |
 | Sweet Bakery Tycoon: Complete Edition | 284931 | [284931-sweet-bakery-tycoon-complete-edition.json](./284931-sweet-bakery-tycoon-complete-edition.json) |
 | Sweet Bakery Tycoon: Couch Co-op Edition | 262236 | [262236-sweet-bakery-tycoon-couch-co-op-edition.json](./262236-sweet-bakery-tycoon-couch-co-op-edition.json) |
 | Sweet Bakery Tycoon: Expansion Pack 1 | 237913 | [237913-sweet-bakery-tycoon-expansion-pack-1.json](./237913-sweet-bakery-tycoon-expansion-pack-1.json) |
