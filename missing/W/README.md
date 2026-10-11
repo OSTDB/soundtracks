@@ -2994,6 +2994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | White Wolf: Treasure Hunter 2 | 273382 | [273382-white-wolf-treasure-hunter-2.json](./273382-white-wolf-treasure-hunter-2.json) |
 | White-Water Domo | 68060 | [68060-white-water-domo.json](./68060-white-water-domo.json) |
 | WhiteBird | 119670 | [119670-whitebird.json](./119670-whitebird.json) |
+| WhiteClothes | 247941 | [247941-whiteclothes.json](./247941-whiteclothes.json) |
 | WhiteJill | 355572 | [355572-whitejill.json](./355572-whitejill.json) |
 | Whitemare | 274137 | [274137-whitemare.json](./274137-whitemare.json) |
 | Whitemare 2 | 274138 | [274138-whitemare-2.json](./274138-whitemare-2.json) |
