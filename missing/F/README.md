@@ -3564,12 +3564,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Finger Champion | 245326 | [245326-finger-champion.json](./245326-finger-champion.json) |
 | Finger Connection | 66619 | [66619-finger-connection.json](./66619-finger-connection.json) |
 | Finger Cuts | 315830 | [315830-finger-cuts.json](./315830-finger-cuts.json) |
+| Finger Dash | 253264 | [253264-finger-dash.json](./253264-finger-dash.json) |
 | Finger Driver | 87049 | [87049-finger-driver.json](./87049-finger-driver.json) |
 | Finger Fitness | 187217 | [187217-finger-fitness.json](./187217-finger-fitness.json) |
 | Finger Flashing | 69870 | [69870-finger-flashing.json](./69870-finger-flashing.json) |
 | Finger Football | 88556 | [88556-finger-football.json](./88556-finger-football.json) |
 | Finger Football: Goal in One | 238549 | [238549-finger-football-goal-in-one.json](./238549-finger-football-goal-in-one.json) |
 | Finger Football: Goal in One + Two | 262491 | [262491-finger-football-goal-in-one-two.json](./262491-finger-football-goal-in-one-two.json) |
+| Finger Gravity | 253263 | [253263-finger-gravity.json](./253263-finger-gravity.json) |
 | Finger Maniac | 262351 | [262351-finger-maniac.json](./262351-finger-maniac.json) |
 | Finger Ninja | 82006 | [82006-finger-ninja.json](./82006-finger-ninja.json) |
 | Finger on the Roof! Go! Rooftop Runner! | 214568 | [214568-finger-on-the-roof-go-rooftop-runner.json](./214568-finger-on-the-roof-go-rooftop-runner.json) |
@@ -3591,6 +3593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fingers' Dating | 232971 | [232971-fingers-dating.json](./232971-fingers-dating.json) |
 | Fingerspelling Unleashed: BANZSL Edition | 238726 | [238726-fingerspelling-unleashed-banzsl-edition.json](./238726-fingerspelling-unleashed-banzsl-edition.json) |
 | Fingertip Balance | 254440 | [254440-fingertip-balance.json](./254440-fingertip-balance.json) |
+| Fingertrainer | 253279 | [253279-fingertrainer.json](./253279-fingertrainer.json) |
 | Fingerzilla | 343470 | [343470-fingerzilla.json](./343470-fingerzilla.json) |
 | Fingie Bandits | 380765 | [380765-fingie-bandits.json](./380765-fingie-bandits.json) |
 | Fingore Fighter | 237439 | [237439-fingore-fighter.json](./237439-fingore-fighter.json) |
@@ -4452,6 +4455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fix My Truck: Offroad Pickup | 104670 | [104670-fix-my-truck-offroad-pickup.json](./104670-fix-my-truck-offroad-pickup.json) |
 | Fix Race | 90187 | [90187-fix-race.json](./90187-fix-race.json) |
 | Fix the Lab! | 265929 | [265929-fix-the-lab.json](./265929-fix-the-lab.json) |
+| Fix the Leaks | 253258 | [253258-fix-the-leaks.json](./253258-fix-the-leaks.json) |
 | Fix This House | 319060 | [319060-fix-this-house.json](./319060-fix-this-house.json) |
 | Fix und Foxi Adventskalender | 91550 | [91550-fix-und-foxi-adventskalender.json](./91550-fix-und-foxi-adventskalender.json) |
 | Fix und Foxi Familienspiele | 81400 | [81400-fix-und-foxi-familienspiele.json](./81400-fix-und-foxi-familienspiele.json) |
@@ -7947,6 +7951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fruit Attack | 70621 | [70621-fruit-attack.json](./70621-fruit-attack.json) |
 | Fruit Attack!! | 314606 | [314606-fruit-attack.json](./314606-fruit-attack.json) |
 | Fruit Basket TV | 196858 | [196858-fruit-basket-tv.json](./196858-fruit-basket-tv.json) |
+| Fruit Battle: Survival | 253276 | [253276-fruit-battle-survival.json](./253276-fruit-battle-survival.json) |
 | Fruit Blade | 268018 | [268018-fruit-blade.json](./268018-fruit-blade.json) |
 | Fruit Bonanza | 195698 | [195698-fruit-bonanza.json](./195698-fruit-bonanza.json) |
 | Fruit Box | 261223 | [261223-fruit-box.json](./261223-fruit-box.json) |
