@@ -427,6 +427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taikunda | 401731 | [401731-taikunda.json](./401731-taikunda.json) |
 | Taikyoku Igo: Goliath | 37797 | [37797-taikyoku-igo-goliath.json](./37797-taikyoku-igo-goliath.json) |
 | Taikyoku Igo: Idaten | 37796 | [37796-taikyoku-igo-idaten.json](./37796-taikyoku-igo-idaten.json) |
+| Taikyoku Renju | 257312 | [257312-taikyoku-renju.json](./257312-taikyoku-renju.json) |
 | Tail 'Gator | 49063 | [49063-tail-gator.json](./49063-tail-gator.json) |
 | Tail & Trails | 259525 | [259525-tail-and-trails.json](./259525-tail-and-trails.json) |
 | Tail and Сhaos | 410312 | [410312-tail-and-haos.json](./410312-tail-and-haos.json) |
@@ -3408,6 +3409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The "Quiet, Please!" Collection | 95193 | [95193-the-quiet-please-collection.json](./95193-the-quiet-please-collection.json) |
 | The $100,000 Pyramid | 12372 | [12372-the-100-000-pyramid.json](./12372-the-100-000-pyramid.json) |
 | The 10th Planet | 200421 | [200421-the-10th-planet.json](./200421-the-10th-planet.json) |
+| The 10x10 Project | 257285 | [257285-the-10x10-project.json](./257285-the-10x10-project.json) |
 | The 11th Hour | 2203 | [2203-the-11th-hour.json](./2203-the-11th-hour.json) |
 | The 12 Days of Doomas! | 262565 | [262565-the-12-days-of-doomas.json](./262565-the-12-days-of-doomas.json) |
 | The 13th Doll: A Fan Game of The 7th Guest | 120368 | [120368-the-13th-doll-a-fan-game-of-the-7th-guest.json](./120368-the-13th-doll-a-fan-game-of-the-7th-guest.json) |
@@ -5810,6 +5812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fall of Lazarus | 28679 | [28679-the-fall-of-lazarus.json](./28679-the-fall-of-lazarus.json) |
 | The Fall of Magic Castle | 378368 | [378368-the-fall-of-magic-castle.json](./378368-the-fall-of-magic-castle.json) |
 | The Fall of Nemesis: Clash of the Kaijujin | 62681 | [62681-the-fall-of-nemesis-clash-of-the-kaijujin.json](./62681-the-fall-of-nemesis-clash-of-the-kaijujin.json) |
+| The Fall of Porcupine: Last Days of Summer | 257281 | [257281-the-fall-of-porcupine-last-days-of-summer.json](./257281-the-fall-of-porcupine-last-days-of-summer.json) |
 | The Fall of Rallys Factory: Episode 2 - It's for Science | 186347 | [186347-the-fall-of-rallys-factory-episode-2-its-for-science.json](./186347-the-fall-of-rallys-factory-episode-2-its-for-science.json) |
 | The Fall of Rome | 262401 | [262401-the-fall-of-rome.json](./262401-the-fall-of-rome.json) |
 | The Fall of the Dungeon Guardians: Enhanced Edition | 269289 | [269289-the-fall-of-the-dungeon-guardians-enhanced-edition.json](./269289-the-fall-of-the-dungeon-guardians-enhanced-edition.json) |
@@ -6325,6 +6328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Girl With The Bow | 354515 | [354515-the-girl-with-the-bow.json](./354515-the-girl-with-the-bow.json) |
 | The Girl's Moving Castle | 291759 | [291759-the-girls-moving-castle.json](./291759-the-girls-moving-castle.json) |
 | The Girlfriend From My Novel | 211727 | [211727-the-girlfriend-from-my-novel.json](./211727-the-girlfriend-from-my-novel.json) |
+| The Given | 257265 | [257265-the-given.json](./257265-the-given.json) |
 | The Glacial Strain | 293696 | [293696-the-glacial-strain.json](./293696-the-glacial-strain.json) |
 | The Gladiator: Road of the Sword | 39853 | [39853-the-gladiator-road-of-the-sword.json](./39853-the-gladiator-road-of-the-sword.json) |
 | The Gladiators of Rome | 27619 | [27619-the-gladiators-of-rome.json](./27619-the-gladiators-of-rome.json) |
@@ -9682,6 +9686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Reasons for It. | 397080 | [397080-the-reasons-for-it.json](./397080-the-reasons-for-it.json) |
 | The Rebel | 33275 | [33275-the-rebel.json](./33275-the-rebel.json) |
 | The Rebellion | 385370 | [385370-the-rebellion.json](./385370-the-rebellion.json) |
+| The Rebirth | 257304 | [257304-the-rebirth.json](./257304-the-rebirth.json) |
 | The Rebirth | 327223 | [327223-the-rebirth.json](./327223-the-rebirth.json) |
 | The Rebirth of Kingdom Lo | 244868 | [244868-the-rebirth-of-kingdom-lo.json](./244868-the-rebirth-of-kingdom-lo.json) |
 | The Reconstruction | 130894 | [130894-the-reconstruction.json](./130894-the-reconstruction.json) |
@@ -10816,6 +10821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Substance of Things | 174359 | [174359-the-substance-of-things.json](./174359-the-substance-of-things.json) |
 | The Suburb: Not Just Dinner | 176766 | [176766-the-suburb-not-just-dinner.json](./176766-the-suburb-not-just-dinner.json) |
 | The Succubi Trap | 74354 | [74354-the-succubi-trap.json](./74354-the-succubi-trap.json) |
+| The Sudoku Challenge! | 257311 | [257311-the-sudoku-challenge.json](./257311-the-sudoku-challenge.json) |
 | The Sueño | 86088 | [86088-the-sueno.json](./86088-the-sueno.json) |
 | The Suffering: Ties That Bind | 6181 | [6181-the-suffering-ties-that-bind.json](./6181-the-suffering-ties-that-bind.json) |
 | The Suicide Forest | 133428 | [133428-the-suicide-forest.json](./133428-the-suicide-forest.json) |
