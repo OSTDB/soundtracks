@@ -1384,6 +1384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Acceleration of Suguri: X-Edition HD | 30251 | [30251-acceleration-of-suguri-x-edition-hd.json](./30251-acceleration-of-suguri-x-edition-hd.json) |
 | Accelerator Operator | 373345 | [373345-accelerator-operator.json](./373345-accelerator-operator.json) |
 | Acceptable Losses | 379459 | [379459-acceptable-losses.json](./379459-acceptable-losses.json) |
+| Access Block | 277863 | [277863-access-block.json](./277863-access-block.json) |
 | Access Code Zero | 174269 | [174269-access-code-zero.json](./174269-access-code-zero.json) |
 | Access: EnTree | 312667 | [312667-access-entree.json](./312667-access-entree.json) |
 | Accident | 202774 | [202774-accident.json](./202774-accident.json) |
@@ -4215,6 +4216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All Dogs Go to Heaven: Activity Center | 205117 | [205117-all-dogs-go-to-heaven-activity-center.json](./205117-all-dogs-go-to-heaven-activity-center.json) |
 | All Dream Long A Flower Storm | 164999 | [164999-all-dream-long-a-flower-storm.json](./164999-all-dream-long-a-flower-storm.json) |
 | All Elite Wresting: Fight Forever - Giant Swing in the Ring | 287119 | [287119-all-elite-wresting-fight-forever-giant-swing-in-the-ring.json](./287119-all-elite-wresting-fight-forever-giant-swing-in-the-ring.json) |
+| All Elite Wrestling: Fight Forever - Dynamite featuring The Acclaimed | 277788 | [277788-all-elite-wrestling-fight-forever-dynamite-featuring-the-acclaimed.json](./277788-all-elite-wrestling-fight-forever-dynamite-featuring-the-acclaimed.json) |
 | All Elite Wrestling: Fight Forever - Elite Beats and Stampede Expansion | 301012 | [301012-all-elite-wrestling-fight-forever-elite-beats-and-stampede-expansion.json](./301012-all-elite-wrestling-fight-forever-elite-beats-and-stampede-expansion.json) |
 | All Elite Wrestling: Fight Forever - Freebie 4 da Fans | 287120 | [287120-all-elite-wrestling-fight-forever-freebie-4-da-fans.json](./287120-all-elite-wrestling-fight-forever-freebie-4-da-fans.json) |
 | All Elite Wrestling: Fight Forever - FTR: Revival Pack | 254679 | [254679-all-elite-wrestling-fight-forever-ftr-revival-pack.json](./254679-all-elite-wrestling-fight-forever-ftr-revival-pack.json) |
@@ -6857,6 +6859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apex Racer | 321514 | [321514-apex-racer.json](./321514-apex-racer.json) |
 | Apex Racer | 321515 | [321515-apex-racer.json](./321515-apex-racer.json) |
 | Apex Rebels | 275576 | [275576-apex-rebels.json](./275576-apex-rebels.json) |
+| Apex Rush | 277785 | [277785-apex-rush.json](./277785-apex-rush.json) |
 | Apex Sweeper | 403755 | [403755-apex-sweeper.json](./403755-apex-sweeper.json) |
 | Aphasia | 422086 | [422086-aphasia.json](./422086-aphasia.json) |
 | Aphelion | 171599 | [171599-aphelion.json](./171599-aphelion.json) |
@@ -9388,6 +9391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asteroid Challenge | 85505 | [85505-asteroid-challenge.json](./85505-asteroid-challenge.json) |
 | Asteroid Command | 245270 | [245270-asteroid-command.json](./245270-asteroid-command.json) |
 | Asteroid Commando | 317363 | [317363-asteroid-commando.json](./317363-asteroid-commando.json) |
+| Asteroid Core | 277789 | [277789-asteroid-core.json](./277789-asteroid-core.json) |
 | Asteroid Deathmatch | 111472 | [111472-asteroid-deathmatch.json](./111472-asteroid-deathmatch.json) |
 | Asteroid Deflector XL | 90195 | [90195-asteroid-deflector-xl.json](./90195-asteroid-deflector-xl.json) |
 | Asteroid Dodger | 140465 | [140465-asteroid-dodger.json](./140465-asteroid-dodger.json) |
