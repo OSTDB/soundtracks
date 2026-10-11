@@ -3825,6 +3825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Check In, Knock Out | 59936 | [59936-check-in-knock-out.json](./59936-check-in-knock-out.json) |
 | Check it Out! | 196918 | [196918-check-it-out.json](./196918-check-it-out.json) |
 | Check Man | 39609 | [39609-check-man.json](./39609-check-man.json) |
+| Check the Room 13 | 252025 | [252025-check-the-room-13.json](./252025-check-the-room-13.json) |
 | Check vs. Mate: Dark Desert DLC | 142983 | [142983-check-vs-mate-dark-desert-dlc.json](./142983-check-vs-mate-dark-desert-dlc.json) |
 | Check vs. Mate: Floating Island DLC | 142984 | [142984-check-vs-mate-floating-island-dlc.json](./142984-check-vs-mate-floating-island-dlc.json) |
 | Check-In Chaos | 410448 | [410448-check-in-chaos.json](./410448-check-in-chaos.json) |
@@ -9114,6 +9115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corruption: Political Simulator Strategy | 271476 | [271476-corruption-political-simulator-strategy.json](./271476-corruption-political-simulator-strategy.json) |
 | Corsair | 80501 | [80501-corsair.json](./80501-corsair.json) |
 | Corsair Cove | 398638 | [398638-corsair-cove.json](./398638-corsair-cove.json) |
+| Corsairs: Battle of the Caribbean | 252037 | [252037-corsairs-battle-of-the-caribbean.json](./252037-corsairs-battle-of-the-caribbean.json) |
 | Corsairs: Conquest at Sea | 10107 | [10107-corsairs-conquest-at-sea.json](./10107-corsairs-conquest-at-sea.json) |
 | Corsairs: The New Conquerors | 11048 | [11048-corsairs-the-new-conquerors.json](./11048-corsairs-the-new-conquerors.json) |
 | CorsixTH | 127904 | [127904-corsixth.json](./127904-corsixth.json) |
@@ -12429,6 +12431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cutthroats | 12260 | [12260-cutthroats.json](./12260-cutthroats.json) |
 | Cutting Grass with Nail Clippers: The Game | 366285 | [366285-cutting-grass-with-nail-clippers-the-game.json](./366285-cutting-grass-with-nail-clippers-the-game.json) |
 | Cutting Hedge | 176913 | [176913-cutting-hedge.json](./176913-cutting-hedge.json) |
+| Cuttlefish | 252018 | [252018-cuttlefish.json](./252018-cuttlefish.json) |
 | Cuttlemania! | 159270 | [159270-cuttlemania.json](./159270-cuttlemania.json) |
 | Cuub | 278163 | [278163-cuub.json](./278163-cuub.json) |
 | Cuyo | 132617 | [132617-cuyo.json](./132617-cuyo.json) |
