@@ -5108,6 +5108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shichisei Toushin Guyferd: Crown Kaimetsu Sakusen | 229700 | [229700-shichisei-toushin-guyferd-crown-kaimetsu-sakusen.json](./229700-shichisei-toushin-guyferd-crown-kaimetsu-sakusen.json) |
 | Shichu Suimei Pitagraph | 222821 | [222821-shichu-suimei-pitagraph.json](./222821-shichu-suimei-pitagraph.json) |
 | Shield Arena | 412958 | [412958-shield-arena.json](./412958-shield-arena.json) |
+| Shield Blast | 239534 | [239534-shield-blast.json](./239534-shield-blast.json) |
 | Shield Cat | 143478 | [143478-shield-cat.json](./143478-shield-cat.json) |
 | Shield Hero | 351630 | [351630-shield-hero.json](./351630-shield-hero.json) |
 | Shield Hero Rise | 188386 | [188386-shield-hero-rise.json](./188386-shield-hero-rise.json) |
@@ -7010,6 +7011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simple Series Vol. 5: The Judo | 409012 | [409012-simple-series-vol-5-the-judo.json](./409012-simple-series-vol-5-the-judo.json) |
 | Simple Simulation | 202663 | [202663-simple-simulation.json](./202663-simple-simulation.json) |
 | Simple Snooker | 264617 | [264617-simple-snooker.json](./264617-simple-snooker.json) |
+| Simple Solitaire | 239545 | [239545-simple-solitaire.json](./239545-simple-solitaire.json) |
 | Simple Solitaire | 264616 | [264616-simple-solitaire.json](./264616-simple-solitaire.json) |
 | Simple Story: Alex | 90395 | [90395-simple-story-alex.json](./90395-simple-story-alex.json) |
 | Simple Story: Alex - Two Guys | 172132 | [172132-simple-story-alex-two-guys.json](./172132-simple-story-alex-two-guys.json) |
@@ -7347,6 +7349,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sisyphus Simulator | 352151 | [352151-sisyphus-simulator.json](./352151-sisyphus-simulator.json) |
 | Sisypush | 236358 | [236358-sisypush.json](./236358-sisypush.json) |
 | Sit 'N Survive | 186113 | [186113-sit-n-survive.json](./186113-sit-n-survive.json) |
+| Sit and Spin Adventure | 239542 | [239542-sit-and-spin-adventure.json](./239542-sit-and-spin-adventure.json) |
+| Sit and Spin Adventure 2: Truth - Reason: Second Final | 239543 | [239543-sit-and-spin-adventure-2-truth-reason-second-final.json](./239543-sit-and-spin-adventure-2-truth-reason-second-final.json) |
 | Sit-Ups Workout | 187466 | [187466-sit-ups-workout.json](./187466-sit-ups-workout.json) |
 | Site Z-374 | 308271 | [308271-site-z-374.json](./308271-site-z-374.json) |
 | Sitnalta | 268762 | [268762-sitnalta.json](./268762-sitnalta.json) |
@@ -14337,6 +14341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpotCat vs. The Cheddar Mafia In Europe | 388199 | [388199-spotcat-vs-the-cheddar-mafia-in-europe.json](./388199-spotcat-vs-the-cheddar-mafia-in-europe.json) |
 | SpotCat vs. The Cheddar Mafia In The Americas | 385079 | [385079-spotcat-vs-the-cheddar-mafia-in-the-americas.json](./385079-spotcat-vs-the-cheddar-mafia-in-the-americas.json) |
 | Spotfight | 216877 | [216877-spotfight.json](./216877-spotfight.json) |
+| Spotle | 239568 | [239568-spotle.json](./239568-spotle.json) |
 | Spotless | 275089 | [275089-spotless.json](./275089-spotless.json) |
 | Spotlight | 277565 | [277565-spotlight.json](./277565-spotlight.json) |
 | Spotlight | 279739 | [279739-spotlight.json](./279739-spotlight.json) |
@@ -16894,6 +16899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stickman and the Sword of Legends | 246925 | [246925-stickman-and-the-sword-of-legends.json](./246925-stickman-and-the-sword-of-legends.json) |
 | Stickman Arc Hero Fight | 235234 | [235234-stickman-arc-hero-fight.json](./235234-stickman-arc-hero-fight.json) |
 | Stickman Archer Fight | 86932 | [86932-stickman-archer-fight.json](./86932-stickman-archer-fight.json) |
+| Stickman Archer Online | 239550 | [239550-stickman-archer-online.json](./239550-stickman-archer-online.json) |
 | Stickman Archers: Archery Rampage | 101575 | [101575-stickman-archers-archery-rampage.json](./101575-stickman-archers-archery-rampage.json) |
 | Stickman Base Jumper | 108645 | [108645-stickman-base-jumper.json](./108645-stickman-base-jumper.json) |
 | Stickman Battle War | 231893 | [231893-stickman-battle-war.json](./231893-stickman-battle-war.json) |
@@ -17558,6 +17564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stray Souls: Stolen Memories | 87224 | [87224-stray-souls-stolen-memories.json](./87224-stray-souls-stolen-memories.json) |
 | Stray Souls: Stolen Memories - Collector's Edition | 53676 | [53676-stray-souls-stolen-memories-collectors-edition.json](./53676-stray-souls-stolen-memories-collectors-edition.json) |
 | Stray Tekirs | 346127 | [346127-stray-tekirs.json](./346127-stray-tekirs.json) |
+| Stray: Iam8bit Exclusive Edition | 239540 | [239540-stray-iam8bit-exclusive-edition.json](./239540-stray-iam8bit-exclusive-edition.json) |
 | Straya | 149516 | [149516-straya.json](./149516-straya.json) |
 | Straycloud | 404931 | [404931-straycloud.json](./404931-straycloud.json) |
 | StrayDoll Conflict | 156005 | [156005-straydoll-conflict.json](./156005-straydoll-conflict.json) |
@@ -19517,6 +19524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Dead Rising 3 Arcade Remix | 21879 | [21879-super-dead-rising-3-arcade-remix.json](./21879-super-dead-rising-3-arcade-remix.json) |
 | Super Death Arena | 30126 | [30126-super-death-arena.json](./30126-super-death-arena.json) |
 | Super Demo World: The Legend Continues | 198224 | [198224-super-demo-world-the-legend-continues.json](./198224-super-demo-world-the-legend-continues.json) |
+| Super Depth | 239567 | [239567-super-depth.json](./239567-super-depth.json) |
 | Super Destronaut | 31859 | [31859-super-destronaut.json](./31859-super-destronaut.json) |
 | Super Destronaut 2: Go Duck Yourself | 84917 | [84917-super-destronaut-2-go-duck-yourself.json](./84917-super-destronaut-2-go-duck-yourself.json) |
 | Super Destronaut 3D | 84916 | [84916-super-destronaut-3d.json](./84916-super-destronaut-3d.json) |
@@ -21267,6 +21275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Superman | 68440 | [68440-superman.json](./68440-superman.json) |
 | Superman in Supervillain Showdown | 220123 | [220123-superman-in-supervillain-showdown.json](./220123-superman-in-supervillain-showdown.json) |
 | Superman Returns: The Videogame | 6182 | [6182-superman-returns-the-videogame.json](./6182-superman-returns-the-videogame.json) |
+| Superman: Battle for Metropolis | 239553 | [239553-superman-battle-for-metropolis.json](./239553-superman-battle-for-metropolis.json) |
 | Superman: Luther no Yabou | 349440 | [349440-superman-luther-no-yabou.json](./349440-superman-luther-no-yabou.json) |
 | Superman: Man of Steel | 18463 | [18463-superman-man-of-steel.json](./18463-superman-man-of-steel.json) |
 | Superman: Man of Steel | 264862 | [264862-superman-man-of-steel.json](./264862-superman-man-of-steel.json) |
@@ -21410,6 +21419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supipara: Chapter 2 | 90149 | [90149-supipara-chapter-2.json](./90149-supipara-chapter-2.json) |
 | Supotto Spot | 379574 | [379574-supotto-spot.json](./379574-supotto-spot.json) |
 | Suppa Ninja | 397833 | [397833-suppa-ninja.json](./397833-suppa-ninja.json) |
+| Supplementaries | 239531 | [239531-supplementaries.json](./239531-supplementaries.json) |
 | Supplice | 165070 | [165070-supplice.json](./165070-supplice.json) |
 | Supply Chain Expansion | 373746 | [373746-supply-chain-expansion.json](./373746-supply-chain-expansion.json) |
 | Supposedly Wonderful Future | 72491 | [72491-supposedly-wonderful-future.json](./72491-supposedly-wonderful-future.json) |
@@ -21588,6 +21598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survival Bowling | 262340 | [262340-survival-bowling.json](./262340-survival-bowling.json) |
 | Survival Bunker | 268946 | [268946-survival-bunker.json](./268946-survival-bunker.json) |
 | Survival Camp | 127662 | [127662-survival-camp.json](./127662-survival-camp.json) |
+| Survival City | 239564 | [239564-survival-city.json](./239564-survival-city.json) |
 | Survival City | 346260 | [346260-survival-city.json](./346260-survival-city.json) |
 | Survival Crisis | 237673 | [237673-survival-crisis.json](./237673-survival-crisis.json) |
 | Survival Crisis Z | 94707 | [94707-survival-crisis-z.json](./94707-survival-crisis-z.json) |
