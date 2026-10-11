@@ -323,6 +323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tago Akira no Atama no Taisou Dai-3-Shuu: Fushigi no Kuni no Nazotoki Otogibanashi | 402968 | [402968-tago-akira-no-atama-no-taisou-dai-3-shuu-fushigi-no-kuni-no-nazotoki-otogibanashi.json](./402968-tago-akira-no-atama-no-taisou-dai-3-shuu-fushigi-no-kuni-no-nazotoki-otogibanashi.json) |
 | Tago Akira no Atama no Taisou Dai-4-Shuu: Time Machine no Nazotoki Daibouken | 402969 | [402969-tago-akira-no-atama-no-taisou-dai-4-shuu-time-machine-no-nazotoki-daibouken.json](./402969-tago-akira-no-atama-no-taisou-dai-4-shuu-time-machine-no-nazotoki-daibouken.json) |
 | TagPro | 9604 | [9604-tagpro.json](./9604-tagpro.json) |
+| TagTime | 274962 | [274962-tagtime.json](./274962-tagtime.json) |
 | Taguan | 377978 | [377978-taguan.json](./377978-taguan.json) |
 | Tahira: Echoes of the Astral Empire | 20753 | [20753-tahira-echoes-of-the-astral-empire.json](./20753-tahira-echoes-of-the-astral-empire.json) |
 | Tahitian Driftin' | 334311 | [334311-tahitian-driftin.json](./334311-tahitian-driftin.json) |
@@ -519,6 +520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taisen! Koori Oni | 227366 | [227366-taisen-koori-oni.json](./227366-taisen-koori-oni.json) |
 | Taisen!! Ka to Chan no Kororonpe! | 72947 | [72947-taisen-ka-to-chan-no-kororonpe.json](./72947-taisen-ka-to-chan-no-kororonpe.json) |
 | Taisho Romance Theater | 366031 | [366031-taisho-romance-theater.json](./366031-taisho-romance-theater.json) |
+| Taisho Taxi Service | 274938 | [274938-taisho-taxi-service.json](./274938-taisho-taxi-service.json) |
 | Taisho x Alice Epilogue | 153498 | [153498-taisho-x-alice-epilogue.json](./153498-taisho-x-alice-epilogue.json) |
 | Taisho x Alice: Episode 3 | 150505 | [150505-taisho-x-alice-episode-3.json](./150505-taisho-x-alice-episode-3.json) |
 | Taisho x Alice: Heads & Tails! | 201613 | [201613-taisho-x-alice-heads-and-tails.json](./201613-taisho-x-alice-heads-and-tails.json) |
@@ -3956,6 +3958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Baseball 2003 | 61401 | [61401-the-baseball-2003.json](./61401-the-baseball-2003.json) |
 | The Baseball T | 217912 | [217912-the-baseball-t.json](./217912-the-baseball-t.json) |
 | The Based Turnabout | 308419 | [308419-the-based-turnabout.json](./308419-the-based-turnabout.json) |
+| The Basement | 274942 | [274942-the-basement.json](./274942-the-basement.json) |
 | The Basement | 282493 | [282493-the-basement.json](./282493-the-basement.json) |
 | The Basement's Calling | 338314 | [338314-the-basements-calling.json](./338314-the-basements-calling.json) |
 | The Basketball Quiz | 219173 | [219173-the-basketball-quiz.json](./219173-the-basketball-quiz.json) |
@@ -6567,6 +6570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hate Flow | 261454 | [261454-the-hate-flow.json](./261454-the-hate-flow.json) |
 | The Hateful Dead | 31367 | [31367-the-hateful-dead.json](./31367-the-hateful-dead.json) |
 | The Haunted Dolls | 157181 | [157181-the-haunted-dolls.json](./157181-the-haunted-dolls.json) |
+| The Haunted Farm | 274937 | [274937-the-haunted-farm.json](./274937-the-haunted-farm.json) |
 | The Haunted Graveyard | 110343 | [110343-the-haunted-graveyard.json](./110343-the-haunted-graveyard.json) |
 | The Haunted Hospice | 259285 | [259285-the-haunted-hospice.json](./259285-the-haunted-hospice.json) |
 | The Haunted House | 314061 | [314061-the-haunted-house.json](./314061-the-haunted-house.json) |
@@ -16421,6 +16425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touch Detective 3 + The Complete Case Files | 222231 | [222231-touch-detective-3-the-complete-case-files.json](./222231-touch-detective-3-the-complete-case-files.json) |
 | Touch Down Football Solitaire | 108077 | [108077-touch-down-football-solitaire.json](./108077-touch-down-football-solitaire.json) |
 | Touch Fish | 348258 | [348258-touch-fish.json](./348258-touch-fish.json) |
+| Touch Force | 274935 | [274935-touch-force.json](./274935-touch-force.json) |
 | Touch Game Party | 124103 | [124103-touch-game-party.json](./124103-touch-game-party.json) |
 | Touch Love | 219542 | [219542-touch-love.json](./219542-touch-love.json) |
 | Touch Me | 225597 | [225597-touch-me.json](./225597-touch-me.json) |
@@ -19869,6 +19874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TT Isle of Man: Ride on the Edge | 81220 | [81220-tt-isle-of-man-ride-on-the-edge.json](./81220-tt-isle-of-man-ride-on-the-edge.json) |
 | TT Isle of Man: Ride on the Edge 3 | 228729 | [228729-tt-isle-of-man-ride-on-the-edge-3.json](./228729-tt-isle-of-man-ride-on-the-edge-3.json) |
 | TTA 1 | 253565 | [253565-tta-1.json](./253565-tta-1.json) |
+| TTPP | 274926 | [274926-ttpp.json](./274926-ttpp.json) |
 | TTT Classic | 374211 | [374211-ttt-classic.json](./374211-ttt-classic.json) |
 | TTT: The Torrential Turnabout | 306621 | [306621-ttt-the-torrential-turnabout.json](./306621-ttt-the-torrential-turnabout.json) |
 | TTV2 | 55301 | [55301-ttv2.json](./55301-ttv2.json) |
@@ -19979,6 +19985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tuning Champions | 215912 | [215912-tuning-champions.json](./215912-tuning-champions.json) |
 | Tuning Club Online | 199946 | [199946-tuning-club-online.json](./199946-tuning-club-online.json) |
 | Tunnel 19 | 358865 | [358865-tunnel-19.json](./358865-tunnel-19.json) |
+| Tunnel Adventure | 274969 | [274969-tunnel-adventure.json](./274969-tunnel-adventure.json) |
 | Tunnel Assault | 298627 | [298627-tunnel-assault.json](./298627-tunnel-assault.json) |
 | Tunnel B1 | 12900 | [12900-tunnel-b1.json](./12900-tunnel-b1.json) |
 | Tunnel Ball 3D | 257362 | [257362-tunnel-ball-3d.json](./257362-tunnel-ball-3d.json) |
