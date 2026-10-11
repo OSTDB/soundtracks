@@ -10420,6 +10420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Builders of Greece | 217337 | [217337-builders-of-greece.json](./217337-builders-of-greece.json) |
 | Buildest | 155709 | [155709-buildest.json](./155709-buildest.json) |
 | Building & Co | 79285 | [79285-building-and-co.json](./79285-building-and-co.json) |
+| Building & Fighter | 273296 | [273296-building-and-fighter.json](./273296-building-and-fighter.json) |
 | Building 37 | 185603 | [185603-building-37.json](./185603-building-37.json) |
 | Building 847 | 160214 | [160214-building-847.json](./160214-building-847.json) |
 | Building Block Heroes | 55257 | [55257-building-block-heroes.json](./55257-building-block-heroes.json) |
