@@ -645,6 +645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Sexy Tour With: Fiona | 338166 | [338166-a-sexy-tour-with-fiona.json](./338166-a-sexy-tour-with-fiona.json) |
 | A Shade Darker Than Gray | 338167 | [338167-a-shade-darker-than-gray.json](./338167-a-shade-darker-than-gray.json) |
 | A Shadow in Space | 383719 | [383719-a-shadow-in-space.json](./383719-a-shadow-in-space.json) |
+| A Shadow of Time | 247966 | [247966-a-shadow-of-time.json](./247966-a-shadow-of-time.json) |
 | A Shard of Mine | 243418 | [243418-a-shard-of-mine.json](./243418-a-shard-of-mine.json) |
 | A Shiver in Time | 177853 | [177853-a-shiver-in-time.json](./177853-a-shiver-in-time.json) |
 | A Shlong Adventure | 372122 | [372122-a-shlong-adventure.json](./372122-a-shlong-adventure.json) |
@@ -4523,6 +4524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Almost There: The Platformer | 113722 | [113722-almost-there-the-platformer.json](./113722-almost-there-the-platformer.json) |
 | Alnahsha Run | 202235 | [202235-alnahsha-run.json](./202235-alnahsha-run.json) |
 | Alnam no Kiba: Juuzoku Juuni Shinto Densetsu | 108919 | [108919-alnam-no-kiba-juuzoku-juuni-shinto-densetsu.json](./108919-alnam-no-kiba-juuzoku-juuni-shinto-densetsu.json) |
+| Alnico Smithery | 247931 | [247931-alnico-smithery.json](./247931-alnico-smithery.json) |
 | Alnory | 60195 | [60195-alnory.json](./60195-alnory.json) |
 | Aloft | 204375 | [204375-aloft.json](./204375-aloft.json) |
 | Aloha Play | 91408 | [91408-aloha-play.json](./91408-aloha-play.json) |
@@ -5017,6 +5019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amber: Journeys Beyond | 12390 | [12390-amber-journeys-beyond.json](./12390-amber-journeys-beyond.json) |
 | Amber's Airline: 7 Wonders | 116726 | [116726-ambers-airline-7-wonders.json](./116726-ambers-airline-7-wonders.json) |
 | Amber's Blood | 58025 | [58025-ambers-blood.json](./58025-ambers-blood.json) |
+| Amber's Tale | 247948 | [247948-ambers-tale.json](./247948-ambers-tale.json) |
 | Amber's Tales: The Isle of Dead Ships | 58024 | [58024-ambers-tales-the-isle-of-dead-ships.json](./58024-ambers-tales-the-isle-of-dead-ships.json) |
 | AmberCity | 101062 | [101062-ambercity.json](./101062-ambercity.json) |
 | Amberial Dreams | 107773 | [107773-amberial-dreams.json](./107773-amberial-dreams.json) |
@@ -6045,6 +6048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Jam | 23658 | [23658-animal-jam.json](./23658-animal-jam.json) |
 | Animal Jam Classic | 316795 | [316795-animal-jam-classic.json](./316795-animal-jam-classic.json) |
 | Animal Jigsaw Puzzle | 99976 | [99976-animal-jigsaw-puzzle.json](./99976-animal-jigsaw-puzzle.json) |
+| Animal Jigsaw VR | 247971 | [247971-animal-jigsaw-vr.json](./247971-animal-jigsaw-vr.json) |
 | Animal Kingdom 2 | 271660 | [271660-animal-kingdom-2.json](./271660-animal-kingdom-2.json) |
 | Animal Kingdom 3 | 337279 | [337279-animal-kingdom-3.json](./337279-animal-kingdom-3.json) |
 | Animal Kostume | 249878 | [249878-animal-kostume.json](./249878-animal-kostume.json) |
@@ -6308,6 +6312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anita's Camp | 310539 | [310539-anitas-camp.json](./310539-anitas-camp.json) |
 | Anita's Job | 310538 | [310538-anitas-job.json](./310538-anitas-job.json) |
 | Anivenge | 182374 | [182374-anivenge.json](./182374-anivenge.json) |
+| Aniwars | 247938 | [247938-aniwars.json](./247938-aniwars.json) |
 | Anjail! | 407307 | [407307-anjail.json](./407307-anjail.json) |
 | Anjelo's Province | 265702 | [265702-anjelos-province.json](./265702-anjelos-province.json) |
 | Anjos do Duelo | 393109 | [393109-anjos-do-duelo.json](./393109-anjos-do-duelo.json) |
@@ -7832,6 +7837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcane Tower Defense | 237077 | [237077-arcane-tower-defense.json](./237077-arcane-tower-defense.json) |
 | Arcane Tower Survivors | 342641 | [342641-arcane-tower-survivors.json](./342641-arcane-tower-survivors.json) |
 | Arcane Walker | 154998 | [154998-arcane-walker.json](./154998-arcane-walker.json) |
+| Arcane Warlords | 247950 | [247950-arcane-warlords.json](./247950-arcane-warlords.json) |
 | Arcane Waters | 152824 | [152824-arcane-waters.json](./152824-arcane-waters.json) |
 | Arcane Worlds | 16923 | [16923-arcane-worlds.json](./16923-arcane-worlds.json) |
 | Arcane: League of Legends - Ready to unlock the world of Arcane? | 324100 | [324100-arcane-league-of-legends-ready-to-unlock-the-world-of-arcane.json](./324100-arcane-league-of-legends-ready-to-unlock-the-world-of-arcane.json) |
@@ -10981,6 +10987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Awful Fantasy III | 339242 | [339242-awful-fantasy-iii.json](./339242-awful-fantasy-iii.json) |
 | Awful Kidnapper | 300410 | [300410-awful-kidnapper.json](./300410-awful-kidnapper.json) |
 | Awful Mario World | 314897 | [314897-awful-mario-world.json](./314897-awful-mario-world.json) |
+| Awita: Journey of Hope | 247968 | [247968-awita-journey-of-hope.json](./247968-awita-journey-of-hope.json) |
 | Awkward Date Hero | 109621 | [109621-awkward-date-hero.json](./109621-awkward-date-hero.json) |
 | Awkward Dimensions | 22380 | [22380-awkward-dimensions.json](./22380-awkward-dimensions.json) |
 | Awkward Dimensions Redux | 22381 | [22381-awkward-dimensions-redux.json](./22381-awkward-dimensions-redux.json) |
