@@ -2940,6 +2940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Persona 5: Take Your Heart - Premium Edition | 41866 | [41866-persona-5-take-your-heart-premium-edition.json](./41866-persona-5-take-your-heart-premium-edition.json) |
 | Persona 6 | 405088 | [405088-persona-6.json](./405088-persona-6.json) |
 | Persona Ain Soph | 71159 | [71159-persona-ain-soph.json](./71159-persona-ain-soph.json) |
+| Persona Collection | 271123 | [271123-persona-collection.json](./271123-persona-collection.json) |
 | Persona Q: Shadow of the Labyrinth | 6887 | [6887-persona-q-shadow-of-the-labyrinth.json](./6887-persona-q-shadow-of-the-labyrinth.json) |
 | Persona Q: Shadow of the Labyrinth - Wild Cards Premium Edition | 41871 | [41871-persona-q-shadow-of-the-labyrinth-wild-cards-premium-edition.json](./41871-persona-q-shadow-of-the-labyrinth-wild-cards-premium-edition.json) |
 | Persona Q2: New Cinema Labyrinth - Showtime Premium Edition | 136347 | [136347-persona-q2-new-cinema-labyrinth-showtime-premium-edition.json](./136347-persona-q2-new-cinema-labyrinth-showtime-premium-edition.json) |
