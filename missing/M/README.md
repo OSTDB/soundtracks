@@ -819,6 +819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Realm | 316636 | [316636-magic-realm.json](./316636-magic-realm.json) |
 | Magic Realm Obby | 391250 | [391250-magic-realm-obby.json](./391250-magic-realm-obby.json) |
 | Magic Realm: Online | 102934 | [102934-magic-realm-online.json](./102934-magic-realm-online.json) |
+| Magic Research | 241876 | [241876-magic-research.json](./241876-magic-research.json) |
 | Magic Revenge: Casual Idle RPG | 180234 | [180234-magic-revenge-casual-idle-rpg.json](./180234-magic-revenge-casual-idle-rpg.json) |
 | Magic Rune Stone | 333367 | [333367-magic-rune-stone.json](./333367-magic-rune-stone.json) |
 | Magic Runes | 291714 | [291714-magic-runes.json](./291714-magic-runes.json) |
@@ -13620,6 +13621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Solitaire: Powerful Alchemist 3 | 214006 | [214006-mystery-solitaire-powerful-alchemist-3.json](./214006-mystery-solitaire-powerful-alchemist-3.json) |
 | Mystery Solitaire: Secret Island | 65176 | [65176-mystery-solitaire-secret-island.json](./65176-mystery-solitaire-secret-island.json) |
 | Mystery Solitaire: The Black Raven | 138013 | [138013-mystery-solitaire-the-black-raven.json](./138013-mystery-solitaire-the-black-raven.json) |
+| Mystery Solitaire: The Black Raven 4 | 241884 | [241884-mystery-solitaire-the-black-raven-4.json](./241884-mystery-solitaire-the-black-raven-4.json) |
 | Mystery Solitaire: The Black Raven 5 | 254756 | [254756-mystery-solitaire-the-black-raven-5.json](./254756-mystery-solitaire-the-black-raven-5.json) |
 | Mystery Solitaire: The Black Raven 6 | 341352 | [341352-mystery-solitaire-the-black-raven-6.json](./341352-mystery-solitaire-the-black-raven-6.json) |
 | Mystery Solving! BrainQuiz | 283278 | [283278-mystery-solving-brainquiz.json](./283278-mystery-solving-brainquiz.json) |
