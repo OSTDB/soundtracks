@@ -3254,6 +3254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Beyond | 124696 | [124696-wild-beyond.json](./124696-wild-beyond.json) |
 | Wild Bird Hunter America | 88619 | [88619-wild-bird-hunter-america.json](./88619-wild-bird-hunter-america.json) |
 | Wild Blue Skies | 335296 | [335296-wild-blue-skies.json](./335296-wild-blue-skies.json) |
+| Wild Boater | 254983 | [254983-wild-boater.json](./254983-wild-boater.json) |
 | Wild Buster: Heroes of Titan | 75152 | [75152-wild-buster-heroes-of-titan.json](./75152-wild-buster-heroes-of-titan.json) |
 | Wild Card | 37349 | [37349-wild-card.json](./37349-wild-card.json) |
 | Wild Card Football: Legacy RB Pack | 291703 | [291703-wild-card-football-legacy-rb-pack.json](./291703-wild-card-football-legacy-rb-pack.json) |
