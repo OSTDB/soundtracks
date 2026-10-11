@@ -1465,6 +1465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elementum | 285025 | [285025-elementum.json](./285025-elementum.json) |
 | Elementyle | 309513 | [309513-elementyle.json](./309513-elementyle.json) |
 | EleMetals: Deluxe Edition | 212283 | [212283-elemetals-deluxe-edition.json](./212283-elemetals-deluxe-edition.json) |
+| Elemix! | 254998 | [254998-elemix.json](./254998-elemix.json) |
 | Elena's Journal: Unfinished Expedition | 207789 | [207789-elenas-journal-unfinished-expedition.json](./207789-elenas-journal-unfinished-expedition.json) |
 | ElePass: Only Elephants Can Unlock the Passcode | 317855 | [317855-elepass-only-elephants-can-unlock-the-passcode.json](./317855-elepass-only-elephants-can-unlock-the-passcode.json) |
 | Elephant Express VR | 30191 | [30191-elephant-express-vr.json](./30191-elephant-express-vr.json) |
@@ -2496,6 +2497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enigma Squad: Animal Chaos | 298978 | [298978-enigma-squad-animal-chaos.json](./298978-enigma-squad-animal-chaos.json) |
 | Enigmarble | 269024 | [269024-enigmarble.json](./269024-enigmarble.json) |
 | Enigmarella | 190223 | [190223-enigmarella.json](./190223-enigmarella.json) |
+| Enigmas da Escuridão | 254992 | [254992-enigmas-da-escuridao.json](./254992-enigmas-da-escuridao.json) |
 | Enigmata: Stellar War | 118317 | [118317-enigmata-stellar-war.json](./118317-enigmata-stellar-war.json) |
 | Enigmatica 2: Expert | 255663 | [255663-enigmatica-2-expert.json](./255663-enigmatica-2-expert.json) |
 | Enigmatis 3: The Shadow of Karkhala | 32291 | [32291-enigmatis-3-the-shadow-of-karkhala.json](./32291-enigmatis-3-the-shadow-of-karkhala.json) |
@@ -3649,6 +3651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | eTabu | 23909 | [23909-etabu.json](./23909-etabu.json) |
 | ETC: Earthquake Test Centre | 221661 | [221661-etc-earthquake-test-centre.json](./221661-etc-earthquake-test-centre.json) |
 | ETC: Earthquake Test Centre 2 | 221662 | [221662-etc-earthquake-test-centre-2.json](./221662-etc-earthquake-test-centre-2.json) |
+| Etcetera | 255000 | [255000-etcetera.json](./255000-etcetera.json) |
 | Etch a Sketch | 51398 | [51398-etch-a-sketch.json](./51398-etch-a-sketch.json) |
 | Etched Memories | 382765 | [382765-etched-memories.json](./382765-etched-memories.json) |
 | ETea | 319066 | [319066-etea.json](./319066-etea.json) |
