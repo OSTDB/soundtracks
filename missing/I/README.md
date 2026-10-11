@@ -89,6 +89,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I am Tasi | 133396 | [133396-i-am-tasi.json](./133396-i-am-tasi.json) |
 | I Am the Captain Now | 153402 | [153402-i-am-the-captain-now.json](./153402-i-am-the-captain-now.json) |
 | I Am The Caretaker | 177315 | [177315-i-am-the-caretaker.json](./177315-i-am-the-caretaker.json) |
+| I Am the Exorcist | 243560 | [243560-i-am-the-exorcist.json](./243560-i-am-the-exorcist.json) |
 | I Am the Hero | 32172 | [32172-i-am-the-hero.json](./32172-i-am-the-hero.json) |
 | I Am The Registered Environmental Engineer | 309562 | [309562-i-am-the-registered-environmental-engineer.json](./309562-i-am-the-registered-environmental-engineer.json) |
 | I Am the Sun | 183369 | [183369-i-am-the-sun.json](./183369-i-am-the-sun.json) |
@@ -916,6 +917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Cinema Empire | 231937 | [231937-idle-cinema-empire.json](./231937-idle-cinema-empire.json) |
 | Idle Cinema Tycoon | 369567 | [369567-idle-cinema-tycoon.json](./369567-idle-cinema-tycoon.json) |
 | Idle City Empire | 101068 | [101068-idle-city-empire.json](./101068-idle-city-empire.json) |
+| Idle Clans | 243561 | [243561-idle-clans.json](./243561-idle-clans.json) |
 | Idle Colony | 299782 | [299782-idle-colony.json](./299782-idle-colony.json) |
 | Idle Colors | 402893 | [402893-idle-colors.json](./402893-idle-colors.json) |
 | Idle Command: Supply Frontline | 320465 | [320465-idle-command-supply-frontline.json](./320465-idle-command-supply-frontline.json) |
