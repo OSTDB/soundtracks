@@ -1113,6 +1113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Prospect | 128994 | [128994-dark-prospect.json](./128994-dark-prospect.json) |
 | Dark Quest | 145651 | [145651-dark-quest.json](./145651-dark-quest.json) |
 | Dark Quest | 27488 | [27488-dark-quest.json](./27488-dark-quest.json) |
+| Dark Quest 3 | 246295 | [246295-dark-quest-3.json](./246295-dark-quest-3.json) |
 | Dark Quest 4 | 345656 | [345656-dark-quest-4.json](./345656-dark-quest-4.json) |
 | Dark Quest: Remastered | 389079 | [389079-dark-quest-remastered.json](./389079-dark-quest-remastered.json) |
 | Dark Raider | 127398 | [127398-dark-raider.json](./127398-dark-raider.json) |
@@ -3295,6 +3296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Space: Operation Copernicus | 15513 | [15513-deep-space-operation-copernicus.json](./15513-deep-space-operation-copernicus.json) |
 | Deep State | 281560 | [281560-deep-state.json](./281560-deep-state.json) |
 | Deep Stories Bundle | 218689 | [218689-deep-stories-bundle.json](./218689-deep-stories-bundle.json) |
+| Deep Storm | 246323 | [246323-deep-storm.json](./246323-deep-storm.json) |
 | Deep Strike | 13583 | [13583-deep-strike.json](./13583-deep-strike.json) |
 | Deep the Game: The Darkest Cave | 169957 | [169957-deep-the-game-the-darkest-cave.json](./169957-deep-the-game-the-darkest-cave.json) |
 | Deep Town | 98532 | [98532-deep-town.json](./98532-deep-town.json) |
@@ -3397,6 +3399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defect Process | 173029 | [173029-defect-process.json](./173029-defect-process.json) |
 | Defective | 343738 | [343738-defective.json](./343738-defective.json) |
 | Defence Agent Gaya | 82906 | [82906-defence-agent-gaya.json](./82906-defence-agent-gaya.json) |
+| Defence Mission | 246324 | [246324-defence-mission.json](./246324-defence-mission.json) |
 | Defence of the Arcane Realms | 298679 | [298679-defence-of-the-arcane-realms.json](./298679-defence-of-the-arcane-realms.json) |
 | Defence War | 131322 | [131322-defence-war.json](./131322-defence-war.json) |
 | Defend Against Cats | 388169 | [388169-defend-against-cats.json](./388169-defend-against-cats.json) |
@@ -8920,6 +8923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragluttony | 190230 | [190230-dragluttony.json](./190230-dragluttony.json) |
 | Drago Noka | 203939 | [203939-drago-noka.json](./203939-drago-noka.json) |
 | Dragon | 216764 | [216764-dragon.json](./216764-dragon.json) |
+| Dragon | 246325 | [246325-dragon.json](./246325-dragon.json) |
 | Dragon & Colonies | 55950 | [55950-dragon-and-colonies.json](./55950-dragon-and-colonies.json) |
 | Dragon & Elfs | 227507 | [227507-dragon-and-elfs.json](./227507-dragon-and-elfs.json) |
 | Dragon & Knights | 200747 | [200747-dragon-and-knights.json](./200747-dragon-and-knights.json) |
@@ -9743,6 +9747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Blast: Jewel Pops | 224073 | [224073-dream-blast-jewel-pops.json](./224073-dream-blast-jewel-pops.json) |
 | Dream Book | 167124 | [167124-dream-book.json](./167124-dream-book.json) |
 | Dream Boundary | 347715 | [347715-dream-boundary.json](./347715-dream-boundary.json) |
+| Dream Bubble | 246326 | [246326-dream-bubble.json](./246326-dream-bubble.json) |
 | Dream Bubblez | 103491 | [103491-dream-bubblez.json](./103491-dream-bubblez.json) |
 | Dream Builder: Amusement Park | 294200 | [294200-dream-builder-amusement-park.json](./294200-dream-builder-amusement-park.json) |
 | Dream Busters | 192825 | [192825-dream-busters.json](./192825-dream-busters.json) |
@@ -10908,6 +10913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duendes in New Year 2 | 315254 | [315254-duendes-in-new-year-2.json](./315254-duendes-in-new-year-2.json) |
 | Duet | 142364 | [142364-duet.json](./142364-duet.json) |
 | Duet | 17219 | [17219-duet.json](./17219-duet.json) |
+| Duet Cats | 246309 | [246309-duet-cats.json](./246309-duet-cats.json) |
 | Duet Night Abyss: Paradise Prelude | 413601 | [413601-duet-night-abyss-paradise-prelude.json](./413601-duet-night-abyss-paradise-prelude.json) |
 | Duet Night Abyss: Silver Torrent, Rising Star | 413599 | [413599-duet-night-abyss-silver-torrent-rising-star.json](./413599-duet-night-abyss-silver-torrent-rising-star.json) |
 | Dufe: Masquerade | 179749 | [179749-dufe-masquerade.json](./179749-dufe-masquerade.json) |
