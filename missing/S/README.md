@@ -290,6 +290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Safe Climbing | 127831 | [127831-safe-climbing.json](./127831-safe-climbing.json) |
 | Safe Cracker | 340547 | [340547-safe-cracker.json](./340547-safe-cracker.json) |
 | Safe Harbor | 181131 | [181131-safe-harbor.json](./181131-safe-harbor.json) |
+| Safe House | 278370 | [278370-safe-house.json](./278370-safe-house.json) |
 | Safe House | 392132 | [392132-safe-house.json](./392132-safe-house.json) |
 | Safe House | 99588 | [99588-safe-house.json](./99588-safe-house.json) |
 | Safe Journey | 175941 | [175941-safe-journey.json](./175941-safe-journey.json) |
@@ -1761,6 +1762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scary Neighbor Survival | 100854 | [100854-scary-neighbor-survival.json](./100854-scary-neighbor-survival.json) |
 | Scary Nikki | 229668 | [229668-scary-nikki.json](./229668-scary-nikki.json) |
 | Scary Pictures: Yavez - Seven Deadly Sins | 235859 | [235859-scary-pictures-yavez-seven-deadly-sins.json](./235859-scary-pictures-yavez-seven-deadly-sins.json) |
+| Scary Psycho Lady Simulator | 278376 | [278376-scary-psycho-lady-simulator.json](./278376-scary-psycho-lady-simulator.json) |
 | Scary Robber: Home Clash | 227484 | [227484-scary-robber-home-clash.json](./227484-scary-robber-home-clash.json) |
 | Scary School | 296762 | [296762-scary-school.json](./296762-scary-school.json) |
 | Scary Shadow Spot: Bitter Glass | 328228 | [328228-scary-shadow-spot-bitter-glass.json](./328228-scary-shadow-spot-bitter-glass.json) |
@@ -2086,6 +2088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scourge of Scavengers | 348274 | [348274-scourge-of-scavengers.json](./348274-scourge-of-scavengers.json) |
 | Scourge of the Village | 277947 | [277947-scourge-of-the-village.json](./277947-scourge-of-the-village.json) |
 | Scourge of War: Gettysburg | 77312 | [77312-scourge-of-war-gettysburg.json](./77312-scourge-of-war-gettysburg.json) |
+| Scourge of War: Remastered | 278377 | [278377-scourge-of-war-remastered.json](./278377-scourge-of-war-remastered.json) |
 | Scourge of War: Waterloo - Ligny | 171038 | [171038-scourge-of-war-waterloo-ligny.json](./171038-scourge-of-war-waterloo-ligny.json) |
 | Scourge of War: Waterloo - Quatre Bras | 171039 | [171039-scourge-of-war-waterloo-quatre-bras.json](./171039-scourge-of-war-waterloo-quatre-bras.json) |
 | Scourge of War: Waterloo - Wavre | 171040 | [171040-scourge-of-war-waterloo-wavre.json](./171040-scourge-of-war-waterloo-wavre.json) |
@@ -2650,6 +2653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seasick | 219617 | [219617-seasick.json](./219617-seasick.json) |
 | Seaside Drive | 318723 | [318723-seaside-drive.json](./318723-seaside-drive.json) |
 | Seaside Fireflies | 336612 | [336612-seaside-fireflies.json](./336612-seaside-fireflies.json) |
+| Seaside Schemes | 278378 | [278378-seaside-schemes.json](./278378-seaside-schemes.json) |
 | Seaside Special | 47199 | [47199-seaside-special.json](./47199-seaside-special.json) |
 | SeaSkulls | 176260 | [176260-seaskulls.json](./176260-seaskulls.json) |
 | Season 31 | 370675 | [370675-season-31.json](./370675-season-31.json) |
@@ -5807,6 +5811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Short Maps for Short People 3 | 281358 | [281358-short-maps-for-short-people-3.json](./281358-short-maps-for-short-people-3.json) |
 | Short Memories | 340372 | [340372-short-memories.json](./340372-short-memories.json) |
 | Short Night | 266773 | [266773-short-night.json](./266773-short-night.json) |
+| Short Sad Stories | 278364 | [278364-short-sad-stories.json](./278364-short-sad-stories.json) |
 | Short Short Fictions | 369103 | [369103-short-short-fictions.json](./369103-short-short-fictions.json) |
 | Short Snow | 309867 | [309867-short-snow.json](./309867-short-snow.json) |
 | Short Stax | 385853 | [385853-short-stax.json](./385853-short-stax.json) |
@@ -11494,6 +11499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Delivery | 167591 | [167591-soul-delivery.json](./167591-soul-delivery.json) |
 | Soul Demon Hunters | 371977 | [371977-soul-demon-hunters.json](./371977-soul-demon-hunters.json) |
 | Soul Destiny | 125967 | [125967-soul-destiny.json](./125967-soul-destiny.json) |
+| Soul device | 278365 | [278365-soul-device.json](./278365-soul-device.json) |
 | Soul Devourer | 259853 | [259853-soul-devourer.json](./259853-soul-devourer.json) |
 | Soul Eater: Battle Resonance | 44527 | [44527-soul-eater-battle-resonance.json](./44527-soul-eater-battle-resonance.json) |
 | Soul Elegy | 165666 | [165666-soul-elegy.json](./165666-soul-elegy.json) |
@@ -15520,6 +15526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starfall Defenders | 350433 | [350433-starfall-defenders.json](./350433-starfall-defenders.json) |
 | Starfall Numbers | 74753 | [74753-starfall-numbers.json](./74753-starfall-numbers.json) |
 | Starfall Online | 131612 | [131612-starfall-online.json](./131612-starfall-online.json) |
+| Starfall Serenity | 278366 | [278366-starfall-serenity.json](./278366-starfall-serenity.json) |
 | Starfall: Operation Outro | 298037 | [298037-starfall-operation-outro.json](./298037-starfall-operation-outro.json) |
 | Starfeld | 55953 | [55953-starfeld.json](./55953-starfeld.json) |
 | Starfell | 372792 | [372792-starfell.json](./372792-starfell.json) |
