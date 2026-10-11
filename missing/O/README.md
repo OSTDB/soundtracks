@@ -455,6 +455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Odyssee Die | 356843 | [356843-odyssee-die.json](./356843-odyssee-die.json) |
 | Odysseus Kosmos and his Robot Quest | 65838 | [65838-odysseus-kosmos-and-his-robot-quest.json](./65838-odysseus-kosmos-and-his-robot-quest.json) |
 | Odysseus Kosmos and his Robot Quest: Episode 1 | 81812 | [81812-odysseus-kosmos-and-his-robot-quest-episode-1.json](./81812-odysseus-kosmos-and-his-robot-quest-episode-1.json) |
+| Odyssey Island | 272739 | [272739-odyssey-island.json](./272739-odyssey-island.json) |
 | Odyssey Kingdoms Expansion | 344012 | [344012-odyssey-kingdoms-expansion.json](./344012-odyssey-kingdoms-expansion.json) |
 | Odyssey of Dremid'ir | 216747 | [216747-odyssey-of-dremidir.json](./216747-odyssey-of-dremidir.json) |
 | Odyssey of the Explorer | 302108 | [302108-odyssey-of-the-explorer.json](./302108-odyssey-of-the-explorer.json) |
@@ -1360,6 +1361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Once Upon a Time in the 70s | 325545 | [325545-once-upon-a-time-in-the-70s.json](./325545-once-upon-a-time-in-the-70s.json) |
 | Once Upon a Time in the Colony | 173233 | [173233-once-upon-a-time-in-the-colony.json](./173233-once-upon-a-time-in-the-colony.json) |
 | Once Upon a Time on Halloween | 223569 | [223569-once-upon-a-time-on-halloween.json](./223569-once-upon-a-time-on-halloween.json) |
+| Once Upon a Time There was a Twin-Tailed Sister Princess Who Was Very Unfriendly. | 272738 | [272738-once-upon-a-time-there-was-a-twin-tailed-sister-princess-who-was-very-unfriendly.json](./272738-once-upon-a-time-there-was-a-twin-tailed-sister-princess-who-was-very-unfriendly.json) |
 | Once Upon a Time... Life: Origins | 212171 | [212171-once-upon-a-time-life-origins.json](./212171-once-upon-a-time-life-origins.json) |
 | Once Upon an All Hallow's Eve | 29718 | [29718-once-upon-an-all-hallows-eve.json](./29718-once-upon-an-all-hallows-eve.json) |
 | Once Upon an Electric Dream | 132802 | [132802-once-upon-an-electric-dream.json](./132802-once-upon-an-electric-dream.json) |
@@ -1936,6 +1938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Only the Rich May Die | 270940 | [270940-only-the-rich-may-die.json](./270940-only-the-rich-may-die.json) |
 | Only Trump: Up To Presidents! | 341509 | [341509-only-trump-up-to-presidents.json](./341509-only-trump-up-to-presidents.json) |
 | Only Tung Tung Sahur Up | 349425 | [349425-only-tung-tung-sahur-up.json](./349425-only-tung-tung-sahur-up.json) |
+| Only Up 2 | 272735 | [272735-only-up-2.json](./272735-only-up-2.json) |
 | Only Up 2025 | 367590 | [367590-only-up-2025.json](./367590-only-up-2025.json) |
 | Only Up Rush | 312845 | [312845-only-up-rush.json](./312845-only-up-rush.json) |
 | Only Up Samarkand | 277328 | [277328-only-up-samarkand.json](./277328-only-up-samarkand.json) |
@@ -2444,6 +2447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orc Incursion | 292754 | [292754-orc-incursion.json](./292754-orc-incursion.json) |
 | Orc Invasion Tower | 219266 | [219266-orc-invasion-tower.json](./219266-orc-invasion-tower.json) |
 | Orc Massage | 127920 | [127920-orc-massage.json](./127920-orc-massage.json) |
+| Orc Survivor | 272736 | [272736-orc-survivor.json](./272736-orc-survivor.json) |
 | Orc vs. Undead | 191062 | [191062-orc-vs-undead.json](./191062-orc-vs-undead.json) |
 | Orca | 301336 | [301336-orca.json](./301336-orca.json) |
 | Orch Star | 76615 | [76615-orch-star.json](./76615-orch-star.json) |
