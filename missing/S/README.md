@@ -4438,6 +4438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shady Business | 408028 | [408028-shady-business.json](./408028-shady-business.json) |
 | Shady Lewd Kart: Wild Woody Character Pack | 295113 | [295113-shady-lewd-kart-wild-woody-character-pack.json](./295113-shady-lewd-kart-wild-woody-character-pack.json) |
 | Shady O'Grady's Overnight Sensation | 391234 | [391234-shady-ogradys-overnight-sensation.json](./391234-shady-ogradys-overnight-sensation.json) |
+| Shady Trial | 269467 | [269467-shady-trial.json](./269467-shady-trial.json) |
 | Shady Wars | 260764 | [260764-shady-wars.json](./260764-shady-wars.json) |
 | Shady's Poopong: 22nd Anniversary Edition | 60618 | [60618-shadys-poopong-22nd-anniversary-edition.json](./60618-shadys-poopong-22nd-anniversary-edition.json) |
 | Shady's Stone Smash | 63567 | [63567-shadys-stone-smash.json](./63567-shadys-stone-smash.json) |
@@ -11502,6 +11503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soukou Musume (Armored Girls) | 71599 | [71599-soukou-musume-armored-girls.json](./71599-soukou-musume-armored-girls.json) |
 | Soukou Seiki Ysphere ~Ingyaku no Sennou Kaizou~ | 133247 | [133247-soukou-seiki-ysphere-ingyaku-no-sennou-kaizou.json](./133247-soukou-seiki-ysphere-ingyaku-no-sennou-kaizou.json) |
 | Soukyuu Guren-tai | 44759 | [44759-soukyuu-guren-tai.json](./44759-soukyuu-guren-tai.json) |
+| Soukyuu no Fafner: Dead Aggressor | 269516 | [269516-soukyuu-no-fafner-dead-aggressor.json](./269516-soukyuu-no-fafner-dead-aggressor.json) |
 | Soul | 196565 | [196565-soul.json](./196565-soul.json) |
 | Soul | 199577 | [199577-soul.json](./199577-soul.json) |
 | Soul | 76174 | [76174-soul.json](./76174-soul.json) |
@@ -14928,6 +14930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Discord | 196621 | [196621-star-discord.json](./196621-star-discord.json) |
 | Star Drifter | 13761 | [13761-star-drifter.json](./13761-star-drifter.json) |
 | Star Drifter | 32473 | [32473-star-drifter.json](./32473-star-drifter.json) |
+| Star Driver: Kagayaki no Takuto - Ginga Bishounen Densetsu | 269504 | [269504-star-driver-kagayaki-no-takuto-ginga-bishounen-densetsu.json](./269504-star-driver-kagayaki-no-takuto-ginga-bishounen-densetsu.json) |
 | Star Drives | 187464 | [187464-star-drives.json](./187464-star-drives.json) |
 | Star Dust: A Journey Through Space | 161349 | [161349-star-dust-a-journey-through-space.json](./161349-star-dust-a-journey-through-space.json) |
 | Star Dust: The Book of Earth (VR) | 29931 | [29931-star-dust-the-book-of-earth-vr.json](./29931-star-dust-the-book-of-earth-vr.json) |
@@ -17472,6 +17475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Corner Heartbeat Snaps | 416070 | [416070-street-corner-heartbeat-snaps.json](./416070-street-corner-heartbeat-snaps.json) |
 | Street Cred Football | 71471 | [71471-street-cred-football.json](./71471-street-cred-football.json) |
 | Street Cricket Champions | 194275 | [194275-street-cricket-champions.json](./194275-street-cricket-champions.json) |
+| Street Cricket Champions 2 | 269505 | [269505-street-cricket-champions-2.json](./269505-street-cricket-champions-2.json) |
 | Street Dance | 200003 | [200003-street-dance.json](./200003-street-dance.json) |
 | Street Defenders | 357270 | [357270-street-defenders.json](./357270-street-defenders.json) |
 | Street Drag Racing Car Driving Simulator 2022 Games | 231066 | [231066-street-drag-racing-car-driving-simulator-2022-games.json](./231066-street-drag-racing-car-driving-simulator-2022-games.json) |
