@@ -1192,6 +1192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capybara: The Story of Sisyphus | 291546 | [291546-capybara-the-story-of-sisyphus.json](./291546-capybara-the-story-of-sisyphus.json) |
 | Capybara: The Story of Sisyphus - Extra Content | 335467 | [335467-capybara-the-story-of-sisyphus-extra-content.json](./335467-capybara-the-story-of-sisyphus-extra-content.json) |
 | Capybara's Happytime | 346215 | [346215-capybaras-happytime.json](./346215-capybaras-happytime.json) |
+| Capybro | 263945 | [263945-capybro.json](./263945-capybro.json) |
 | Capyvarias | 390806 | [390806-capyvarias.json](./390806-capyvarias.json) |
 | Car and Driver | 72042 | [72042-car-and-driver.json](./72042-car-and-driver.json) |
 | Car Challenge | 410240 | [410240-car-challenge.json](./410240-car-challenge.json) |
@@ -1243,6 +1244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Mechanic Simulator VR | 119714 | [119714-car-mechanic-simulator-vr.json](./119714-car-mechanic-simulator-vr.json) |
 | Car Mechanic Simulator: Pocket Edition | 122871 | [122871-car-mechanic-simulator-pocket-edition.json](./122871-car-mechanic-simulator-pocket-edition.json) |
 | Car Mechanic Simulator: Pocket Edition 2 | 196825 | [196825-car-mechanic-simulator-pocket-edition-2.json](./196825-car-mechanic-simulator-pocket-edition-2.json) |
+| Car Mechanic: City Driving | 263971 | [263971-car-mechanic-city-driving.json](./263971-car-mechanic-city-driving.json) |
 | Car on a Stick | 123623 | [123623-car-on-a-stick.json](./123623-car-on-a-stick.json) |
 | Car Parking | 226295 | [226295-car-parking.json](./226295-car-parking.json) |
 | Car Parking - Test Drive and Parking Simulator | 88298 | [88298-car-parking-test-drive-and-parking-simulator.json](./88298-car-parking-test-drive-and-parking-simulator.json) |
@@ -2032,6 +2034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Dice | 200035 | [200035-castle-dice.json](./200035-castle-dice.json) |
 | Castle Diorama | 183398 | [183398-castle-diorama.json](./183398-castle-diorama.json) |
 | Castle Elsinore | 146106 | [146106-castle-elsinore.json](./146106-castle-elsinore.json) |
+| Castle Empire | 263969 | [263969-castle-empire.json](./263969-castle-empire.json) |
 | Castle Evalon | 323931 | [323931-castle-evalon.json](./323931-castle-evalon.json) |
 | Castle Explorer | 79838 | [79838-castle-explorer.json](./79838-castle-explorer.json) |
 | Castle Explorer: The Dark Below | 174172 | [174172-castle-explorer-the-dark-below.json](./174172-castle-explorer-the-dark-below.json) |
@@ -7028,6 +7031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cold Sweat | 323508 | [323508-cold-sweat.json](./323508-cold-sweat.json) |
 | Cold Vengeance | 26877 | [26877-cold-vengeance.json](./26877-cold-vengeance.json) |
 | Cold Verdict | 188943 | [188943-cold-verdict.json](./188943-cold-verdict.json) |
+| Cold Verdict 2 | 263989 | [263989-cold-verdict-2.json](./263989-cold-verdict-2.json) |
 | Cold Verdict 3 | 371862 | [371862-cold-verdict-3.json](./371862-cold-verdict-3.json) |
 | Cold VR | 296392 | [296392-cold-vr.json](./296392-cold-vr.json) |
 | Cold War Commander | 67982 | [67982-cold-war-commander.json](./67982-cold-war-commander.json) |
@@ -9273,6 +9277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmos Quest V: The New Beginning | 98472 | [98472-cosmos-quest-v-the-new-beginning.json](./98472-cosmos-quest-v-the-new-beginning.json) |
 | Cosmos Remake | 179032 | [179032-cosmos-remake.json](./179032-cosmos-remake.json) |
 | Cosmos Rings | 197752 | [197752-cosmos-rings.json](./197752-cosmos-rings.json) |
+| Cosmos: Stella Returns | 263981 | [263981-cosmos-stella-returns.json](./263981-cosmos-stella-returns.json) |
 | Cosmosa | 117548 | [117548-cosmosa.json](./117548-cosmosa.json) |
 | Cosmoscope | 158200 | [158200-cosmoscope.json](./158200-cosmoscope.json) |
 | Cosmoswat | 386514 | [386514-cosmoswat.json](./386514-cosmoswat.json) |
