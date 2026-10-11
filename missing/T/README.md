@@ -1789,6 +1789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tattoos and Tulips | 257976 | [257976-tattoos-and-tulips.json](./257976-tattoos-and-tulips.json) |
 | TattooVR | 326179 | [326179-tattoovr.json](./326179-tattoovr.json) |
 | Tatvalok | 380542 | [380542-tatvalok.json](./380542-tatvalok.json) |
+| Tau | 256210 | [256210-tau.json](./256210-tau.json) |
 | Tau Defense | 120859 | [120859-tau-defense.json](./120859-tau-defense.json) |
 | TAU-09 | 392942 | [392942-tau-09.json](./392942-tau-09.json) |
 | TauCeti Unknown Origin | 130911 | [130911-tauceti-unknown-origin.json](./130911-tauceti-unknown-origin.json) |
@@ -7828,6 +7829,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Heroes: Trails in the Sky SC | 16665 | [16665-the-legend-of-heroes-trails-in-the-sky-sc.json](./16665-the-legend-of-heroes-trails-in-the-sky-sc.json) |
 | The Legend of Heroes: Trails in the Sky the 3rd | 28101 | [28101-the-legend-of-heroes-trails-in-the-sky-the-3rd.json](./28101-the-legend-of-heroes-trails-in-the-sky-the-3rd.json) |
 | The Legend of Heroes: Trails into Reverie | 136673 | [136673-the-legend-of-heroes-trails-into-reverie.json](./136673-the-legend-of-heroes-trails-into-reverie.json) |
+| The Legend of Heroes: Trails into Reverie - Advanced Set 1 | 256204 | [256204-the-legend-of-heroes-trails-into-reverie-advanced-set-1.json](./256204-the-legend-of-heroes-trails-into-reverie-advanced-set-1.json) |
+| The Legend of Heroes: Trails into Reverie - Advanced Set 2 | 256203 | [256203-the-legend-of-heroes-trails-into-reverie-advanced-set-2.json](./256203-the-legend-of-heroes-trails-into-reverie-advanced-set-2.json) |
 | The Legend of Heroes: Trails into Reverie - Complete Cosmetics | 256256 | [256256-the-legend-of-heroes-trails-into-reverie-complete-cosmetics.json](./256256-the-legend-of-heroes-trails-into-reverie-complete-cosmetics.json) |
 | The Legend of Heroes: Trails into Reverie - Deluxe Edition | 225777 | [225777-the-legend-of-heroes-trails-into-reverie-deluxe-edition.json](./225777-the-legend-of-heroes-trails-into-reverie-deluxe-edition.json) |
 | The Legend of Heroes: Trails into Reverie - Premium Cosmetic Set | 251673 | [251673-the-legend-of-heroes-trails-into-reverie-premium-cosmetic-set.json](./251673-the-legend-of-heroes-trails-into-reverie-premium-cosmetic-set.json) |
@@ -19513,6 +19516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trolls vs. Vikings: Reborn | 331285 | [331285-trolls-vs-vikings-reborn.json](./331285-trolls-vs-vikings-reborn.json) |
 | Trollskog | 24834 | [24834-trollskog.json](./24834-trollskog.json) |
 | Trollz: Hair Affair! | 49375 | [49375-trollz-hair-affair.json](./49375-trollz-hair-affair.json) |
+| Trololo: The Game | 256199 | [256199-trololo-the-game.json](./256199-trololo-the-game.json) |
 | Trom | 288316 | [288316-trom.json](./288316-trom.json) |
 | Troma Presents Poultrygeist | 305952 | [305952-troma-presents-poultrygeist.json](./305952-troma-presents-poultrygeist.json) |
 | Tromaball | 93143 | [93143-tromaball.json](./93143-tromaball.json) |
