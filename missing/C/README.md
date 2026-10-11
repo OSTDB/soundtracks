@@ -1942,6 +1942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Casinopia: The Blackjack | 71246 | [71246-casinopia-the-blackjack.json](./71246-casinopia-the-blackjack.json) |
 | CasinoRPG | 82057 | [82057-casinorpg.json](./82057-casinorpg.json) |
 | Casio Handheld Games CG-5X emulator for ZX Spectrum | 279735 | [279735-casio-handheld-games-cg-5x-emulator-for-zx-spectrum.json](./279735-casio-handheld-games-cg-5x-emulator-for-zx-spectrum.json) |
+| Casio Mario World | 257840 | [257840-casio-mario-world.json](./257840-casio-mario-world.json) |
 | Casketball Queen | 311684 | [311684-casketball-queen.json](./311684-casketball-queen.json) |
 | Casos Extravagantes Poco Complicados | 151531 | [151531-casos-extravagantes-poco-complicados.json](./151531-casos-extravagantes-poco-complicados.json) |
 | Casper | 215181 | [215181-casper.json](./215181-casper.json) |
@@ -6691,6 +6692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cobb Can Move | 401154 | [401154-cobb-can-move.json](./401154-cobb-can-move.json) |
 | Cobble and Trouble | 182986 | [182986-cobble-and-trouble.json](./182986-cobble-and-trouble.json) |
 | Cobi Golf Shots | 96283 | [96283-cobi-golf-shots.json](./96283-cobi-golf-shots.json) |
+| Cobi Shoot | 257873 | [257873-cobi-shoot.json](./257873-cobi-shoot.json) |
 | Cobi Treasure | 9798 | [9798-cobi-treasure.json](./9798-cobi-treasure.json) |
 | Cobi Treasure Deluxe | 10097 | [10097-cobi-treasure-deluxe.json](./10097-cobi-treasure-deluxe.json) |
 | Cobots | 145901 | [145901-cobots.json](./145901-cobots.json) |
@@ -9907,6 +9909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crash 'N' Burn | 5789 | [5789-crash-n-burn.json](./5789-crash-n-burn.json) |
 | Crash 'n' the Boys: Street Challenge | 48291 | [48291-crash-n-the-boys-street-challenge.json](./48291-crash-n-the-boys-street-challenge.json) |
 | Crash & Bump | 212807 | [212807-crash-and-bump.json](./212807-crash-and-bump.json) |
+| Crash & Burn | 257828 | [257828-crash-and-burn.json](./257828-crash-and-burn.json) |
 | Crash & Spyro Super Pack Volume 1 | 56561 | [56561-crash-and-spyro-super-pack-volume-1.json](./56561-crash-and-spyro-super-pack-volume-1.json) |
 | Crash & Spyro Super Pack Volume 2 | 56560 | [56560-crash-and-spyro-super-pack-volume-2.json](./56560-crash-and-spyro-super-pack-volume-2.json) |
 | Crash & Spyro Super Pack Volume 3 | 68345 | [68345-crash-and-spyro-super-pack-volume-3.json](./68345-crash-and-spyro-super-pack-volume-3.json) |
