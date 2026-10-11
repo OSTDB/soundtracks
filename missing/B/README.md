@@ -894,6 +894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ball Bounce Maze | 166611 | [166611-ball-bounce-maze.json](./166611-ball-bounce-maze.json) |
 | Ball Boy Simulator | 412511 | [412511-ball-boy-simulator.json](./412511-ball-boy-simulator.json) |
 | Ball Brawl 3D | 154620 | [154620-ball-brawl-3d.json](./154620-ball-brawl-3d.json) |
+| Ball Breaker | 271113 | [271113-ball-breaker.json](./271113-ball-breaker.json) |
 | Ball Breaker 3D | 78036 | [78036-ball-breaker-3d.json](./78036-ball-breaker-3d.json) |
 | Ball Breakers | 45231 | [45231-ball-breakers.json](./45231-ball-breakers.json) |
 | Ball Breakers Corp. | 70051 | [70051-ball-breakers-corp.json](./70051-ball-breakers-corp.json) |
@@ -5119,6 +5120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bipt | 338239 | [338239-bipt.json](./338239-bipt.json) |
 | Birb Game | 343803 | [343803-birb-game.json](./343803-birb-game.json) |
 | Birbout! | 148910 | [148910-birbout.json](./148910-birbout.json) |
+| Birch Simulator | 271136 | [271136-birch-simulator.json](./271136-birch-simulator.json) |
 | Birchwood | 325714 | [325714-birchwood.json](./325714-birchwood.json) |
 | Bird | 159829 | [159829-bird.json](./159829-bird.json) |
 | Bird | 170496 | [170496-bird.json](./170496-bird.json) |
