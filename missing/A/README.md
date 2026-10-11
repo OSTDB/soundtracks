@@ -942,6 +942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A.E. | 282086 | [282086-a-e.json](./282086-a-e.json) |
 | A.I am Monster | 26569 | [26569-a-i-am-monster.json](./26569-a-i-am-monster.json) |
 | A.I: Mnemosyne | 374224 | [374224-a-i-mnemosyne.json](./374224-a-i-mnemosyne.json) |
+| A.I. A New Kind of Love | 254953 | [254953-a-i-a-new-kind-of-love.json](./254953-a-i-a-new-kind-of-love.json) |
 | A.I. An Experience With Artificial Intelligence | 73556 | [73556-a-i-an-experience-with-artificial-intelligence.json](./73556-a-i-an-experience-with-artificial-intelligence.json) |
 | A.I. Invasion | 34855 | [34855-a-i-invasion.json](./34855-a-i-invasion.json) |
 | A.I. Invasion: Road of Rodan | 164435 | [164435-a-i-invasion-road-of-rodan.json](./164435-a-i-invasion-road-of-rodan.json) |
