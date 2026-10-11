@@ -5393,6 +5393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dream Where Even Though You’ve Been Done With School for Years You Have to Go Back to School Because of a Class You Forgot About | 239211 | [239211-the-dream-where-even-though-you-ve-been-done-with-school-for-years-you-have-to-go-back-to-school-because-of-a-class-you-forgot-about.json](./239211-the-dream-where-even-though-you-ve-been-done-with-school-for-years-you-have-to-go-back-to-school-because-of-a-class-you-forgot-about.json) |
 | The Dreambox | 150103 | [150103-the-dreambox.json](./150103-the-dreambox.json) |
 | The Dreamer | 323211 | [323211-the-dreamer.json](./323211-the-dreamer.json) |
+| The Dreamer Must Die | 259449 | [259449-the-dreamer-must-die.json](./259449-the-dreamer-must-die.json) |
 | The Dreamers Foresight | 313479 | [313479-the-dreamers-foresight.json](./313479-the-dreamers-foresight.json) |
 | The Dreaming City Chronicles: Quest for the Vanished World | 406302 | [406302-the-dreaming-city-chronicles-quest-for-the-vanished-world.json](./406302-the-dreaming-city-chronicles-quest-for-the-vanished-world.json) |
 | The Dreamland | 343779 | [343779-the-dreamland.json](./343779-the-dreamland.json) |
@@ -6412,6 +6413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Grave robber | 189121 | [189121-the-grave-robber.json](./189121-the-grave-robber.json) |
 | The Gravedigger | 311267 | [311267-the-gravedigger.json](./311267-the-gravedigger.json) |
 | The Gravehouse | 224569 | [224569-the-gravehouse.json](./224569-the-gravehouse.json) |
+| The Graveyard Shift | 259476 | [259476-the-graveyard-shift.json](./259476-the-graveyard-shift.json) |
 | The Gravity Box | 113578 | [113578-the-gravity-box.json](./113578-the-gravity-box.json) |
 | The Gravity Trickster | 257328 | [257328-the-gravity-trickster.json](./257328-the-gravity-trickster.json) |
 | The Gray Cowl of Nocturnal | 320928 | [320928-the-gray-cowl-of-nocturnal.json](./320928-the-gray-cowl-of-nocturnal.json) |
@@ -6755,6 +6757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hospital | 231534 | [231534-the-hospital.json](./231534-the-hospital.json) |
 | The Hospital of Fear | 274505 | [274505-the-hospital-of-fear.json](./274505-the-hospital-of-fear.json) |
 | The Host | 334057 | [334057-the-host.json](./334057-the-host.json) |
+| The Hostage | 259480 | [259480-the-hostage.json](./259480-the-hostage.json) |
 | The Hostel: Night Terrors | 249842 | [249842-the-hostel-night-terrors.json](./249842-the-hostel-night-terrors.json) |
 | The Hot Dog would Explode | 109750 | [109750-the-hot-dog-would-explode.json](./109750-the-hot-dog-would-explode.json) |
 | The Hotel | 220675 | [220675-the-hotel.json](./220675-the-hotel.json) |
@@ -17302,6 +17305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toyland Racing | 73764 | [73764-toyland-racing.json](./73764-toyland-racing.json) |
 | Toyland Tussle | 352375 | [352375-toyland-tussle.json](./352375-toyland-tussle.json) |
 | Toymaker | 10941 | [10941-toymaker.json](./10941-toymaker.json) |
+| ToyMaker | 259495 | [259495-toymaker.json](./259495-toymaker.json) |
 | Toymaker: Threads of Joy | 388917 | [388917-toymaker-threads-of-joy.json](./388917-toymaker-threads-of-joy.json) |
 | Toynip | 219545 | [219545-toynip.json](./219545-toynip.json) |
 | Toypunk | 403575 | [403575-toypunk.json](./403575-toypunk.json) |
