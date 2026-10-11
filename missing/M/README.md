@@ -1791,6 +1791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Manabi Get! | 222205 | [222205-manabi-get.json](./222205-manabi-get.json) |
 | Manacaster | 334054 | [334054-manacaster.json](./334054-manacaster.json) |
 | Manacle | 238453 | [238453-manacle.json](./238453-manacle.json) |
+| Manaclysm | 258388 | [258388-manaclysm.json](./258388-manaclysm.json) |
 | ManaCollect | 11572 | [11572-manacollect.json](./11572-manacollect.json) |
 | Manacrest Online | 133310 | [133310-manacrest-online.json](./133310-manacrest-online.json) |
 | Manafall | 244186 | [244186-manafall.json](./244186-manafall.json) |
@@ -6551,6 +6552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Micro Battles 3 | 240845 | [240845-micro-battles-3.json](./240845-micro-battles-3.json) |
 | Micro Commandos | 71460 | [71460-micro-commandos.json](./71460-micro-commandos.json) |
 | Micro Games for Playdade! | 266242 | [266242-micro-games-for-playdade.json](./266242-micro-games-for-playdade.json) |
+| Micro Games: Volume 1 | 258368 | [258368-micro-games-volume-1.json](./258368-micro-games-volume-1.json) |
 | Micro Machines | 250468 | [250468-micro-machines.json](./250468-micro-machines.json) |
 | Micro Machines | 250470 | [250470-micro-machines.json](./250470-micro-machines.json) |
 | Micro Machines | 250471 | [250471-micro-machines.json](./250471-micro-machines.json) |
