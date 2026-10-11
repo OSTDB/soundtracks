@@ -4095,6 +4095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golf-Like | 385215 | [385215-golf-like.json](./385215-golf-like.json) |
 | Golf: Become Human | 181680 | [181680-golf-become-human.json](./181680-golf-become-human.json) |
 | Golf: Hole in One | 253579 | [253579-golf-hole-in-one.json](./253579-golf-hole-in-one.json) |
+| Golf: Hole in Two | 273321 | [273321-golf-hole-in-two.json](./273321-golf-hole-in-two.json) |
 | Golf: Minigolf | 376710 | [376710-golf-minigolf.json](./376710-golf-minigolf.json) |
 | Golf: Tee it Up! | 20794 | [20794-golf-tee-it-up.json](./20794-golf-tee-it-up.json) |
 | Golf: The Ultimate Collection | 314665 | [314665-golf-the-ultimate-collection.json](./314665-golf-the-ultimate-collection.json) |
@@ -6659,7 +6660,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gungrave G.O.R.E: Blood Heat | 370130 | [370130-gungrave-g-o-r-e-blood-heat.json](./370130-gungrave-g-o-r-e-blood-heat.json) |
 | Gungrave G.O.R.E: Complete Bundle | 331528 | [331528-gungrave-g-o-r-e-complete-bundle.json](./331528-gungrave-g-o-r-e-complete-bundle.json) |
 | Gungrave G.O.R.E: Street Grave | 357271 | [357271-gungrave-g-o-r-e-street-grave.json](./357271-gungrave-g-o-r-e-street-grave.json) |
+| Gungrave G.O.R.E: Ultimate Enhanced Edition - Character Pass | 273330 | [273330-gungrave-g-o-r-e-ultimate-enhanced-edition-character-pass.json](./273330-gungrave-g-o-r-e-ultimate-enhanced-edition-character-pass.json) |
+| Gungrave G.O.R.E: Ultimate Enhanced Edition - Deluxe Edition | 273332 | [273332-gungrave-g-o-r-e-ultimate-enhanced-edition-deluxe-edition.json](./273332-gungrave-g-o-r-e-ultimate-enhanced-edition-deluxe-edition.json) |
 | Gungrave G.O.R.E: Ultimate Enhanced Edition - Harry Macdowel | 275046 | [275046-gungrave-g-o-r-e-ultimate-enhanced-edition-harry-macdowel.json](./275046-gungrave-g-o-r-e-ultimate-enhanced-edition-harry-macdowel.json) |
+| Gungrave G.O.R.E: Ultimate Enhanced Edition - Time Limited | 273301 | [273301-gungrave-g-o-r-e-ultimate-enhanced-edition-time-limited.json](./273301-gungrave-g-o-r-e-ultimate-enhanced-edition-time-limited.json) |
+| Gungrave G.O.R.E: Ultimate Enhanced Edition - Young Gun Grave | 273300 | [273300-gungrave-g-o-r-e-ultimate-enhanced-edition-young-gun-grave.json](./273300-gungrave-g-o-r-e-ultimate-enhanced-edition-young-gun-grave.json) |
 | Gungrave VR U.N | 115562 | [115562-gungrave-vr-u-n.json](./115562-gungrave-vr-u-n.json) |
 | Gungrave VR: Loaded Coffin Edition | 166230 | [166230-gungrave-vr-loaded-coffin-edition.json](./166230-gungrave-vr-loaded-coffin-edition.json) |
 | Gunheart | 36615 | [36615-gunheart.json](./36615-gunheart.json) |
