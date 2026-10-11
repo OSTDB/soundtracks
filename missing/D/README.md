@@ -5803,6 +5803,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino Hazard: Chronos Blackout | 138547 | [138547-dino-hazard-chronos-blackout.json](./138547-dino-hazard-chronos-blackout.json) |
 | Dino Hex Trap | 412565 | [412565-dino-hex-trap.json](./412565-dino-hex-trap.json) |
 | Dino Hunt | 150081 | [150081-dino-hunt.json](./150081-dino-hunt.json) |
+| Dino Hunt | 265089 | [265089-dino-hunt.json](./265089-dino-hunt.json) |
+| Dino Hunt 2 | 265090 | [265090-dino-hunt-2.json](./265090-dino-hunt-2.json) |
 | Dino Jnr. in Canyon Capers | 57167 | [57167-dino-jnr-in-canyon-capers.json](./57167-dino-jnr-in-canyon-capers.json) |
 | Dino King Battle: Taiko Kara no Hyouryuusha | 269741 | [269741-dino-king-battle-taiko-kara-no-hyouryuusha.json](./269741-dino-king-battle-taiko-kara-no-hyouryuusha.json) |
 | Dino Kingdom | 115545 | [115545-dino-kingdom.json](./115545-dino-kingdom.json) |
