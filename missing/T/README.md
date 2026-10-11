@@ -2020,6 +2020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tear Ring Saga Series: Berwick Saga: Lazberia Chronicle Chapter 174 | 80578 | [80578-tear-ring-saga-series-berwick-saga-lazberia-chronicle-chapter-174.json](./80578-tear-ring-saga-series-berwick-saga-lazberia-chronicle-chapter-174.json) |
 | Tear Ripple | 305305 | [305305-tear-ripple.json](./305305-tear-ripple.json) |
 | Teardown: Creative Mode | 252848 | [252848-teardown-creative-mode.json](./252848-teardown-creative-mode.json) |
+| Teardown: Deluxe Edition | 270589 | [270589-teardown-deluxe-edition.json](./270589-teardown-deluxe-edition.json) |
 | Teardown: Folkrace | 307673 | [307673-teardown-folkrace.json](./307673-teardown-folkrace.json) |
 | Teardown: Time Campers | 276809 | [276809-teardown-time-campers.json](./276809-teardown-time-campers.json) |
 | Teared | 287186 | [287186-teared.json](./287186-teared.json) |
@@ -5398,6 +5399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Duck Song Game | 205616 | [205616-the-duck-song-game.json](./205616-the-duck-song-game.json) |
 | The Ducksuckers | 195245 | [195245-the-ducksuckers.json](./195245-the-ducksuckers.json) |
 | The Duduk Master | 232433 | [232433-the-duduk-master.json](./232433-the-duduk-master.json) |
+| The Duel | 270577 | [270577-the-duel.json](./270577-the-duel.json) |
 | The Duel: Reloaded | 124668 | [124668-the-duel-reloaded.json](./124668-the-duel-reloaded.json) |
 | The Dukes of Hazzard: Racing for Home | 144950 | [144950-the-dukes-of-hazzard-racing-for-home.json](./144950-the-dukes-of-hazzard-racing-for-home.json) |
 | The Dukes of Hazzard: Racing for Home | 49889 | [49889-the-dukes-of-hazzard-racing-for-home.json](./49889-the-dukes-of-hazzard-racing-for-home.json) |
@@ -7848,6 +7850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Spyro: A New Beginning | 300392 | [300392-the-legend-of-spyro-a-new-beginning.json](./300392-the-legend-of-spyro-a-new-beginning.json) |
 | The Legend of Spyro: Dawn of the Dragon | 299540 | [299540-the-legend-of-spyro-dawn-of-the-dragon.json](./299540-the-legend-of-spyro-dawn-of-the-dragon.json) |
 | The Legend of Spyro: The Eternal Night | 300393 | [300393-the-legend-of-spyro-the-eternal-night.json](./300393-the-legend-of-spyro-the-eternal-night.json) |
+| The Legend of Steel Empire | 270587 | [270587-the-legend-of-steel-empire.json](./270587-the-legend-of-steel-empire.json) |
 | The Legend of Studentenfutter | 185534 | [185534-the-legend-of-studentenfutter.json](./185534-the-legend-of-studentenfutter.json) |
 | The Legend of Sword and Fairy 4: Remake | 383008 | [383008-the-legend-of-sword-and-fairy-4-remake.json](./383008-the-legend-of-sword-and-fairy-4-remake.json) |
 | The Legend of Sword and Fairy 5 | 57033 | [57033-the-legend-of-sword-and-fairy-5.json](./57033-the-legend-of-sword-and-fairy-5.json) |
@@ -16365,6 +16368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total War: Warhammer III - Thrones of Decay: Malakai | 296622 | [296622-total-war-warhammer-iii-thrones-of-decay-malakai.json](./296622-total-war-warhammer-iii-thrones-of-decay-malakai.json) |
 | Total War: Warhammer III - Thrones of Decay: Tamurkhan | 296621 | [296621-total-war-warhammer-iii-thrones-of-decay-tamurkhan.json](./296621-total-war-warhammer-iii-thrones-of-decay-tamurkhan.json) |
 | Total War: Warhammer III - Update 3.1 | 251222 | [251222-total-war-warhammer-iii-update-3-1.json](./251222-total-war-warhammer-iii-update-3-1.json) |
+| Total War: Warhammer Trilogy | 270579 | [270579-total-war-warhammer-trilogy.json](./270579-total-war-warhammer-trilogy.json) |
 | Total World Liberation | 224607 | [224607-total-world-liberation.json](./224607-total-world-liberation.json) |
 | Total Zugzwang | 310145 | [310145-total-zugzwang.json](./310145-total-zugzwang.json) |
 | Totaled! | 6214 | [6214-totaled.json](./6214-totaled.json) |
