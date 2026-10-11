@@ -126,6 +126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cacoma Knight in Bizyland | 42734 | [42734-cacoma-knight-in-bizyland.json](./42734-cacoma-knight-in-bizyland.json) |
 | Cactiverse | 314668 | [314668-cactiverse.json](./314668-cactiverse.json) |
 | Cactu-sama 2 | 204542 | [204542-cactu-sama-2.json](./204542-cactu-sama-2.json) |
+| Cactus | 261719 | [261719-cactus.json](./261719-cactus.json) |
 | Cactus | 357740 | [357740-cactus.json](./357740-cactus.json) |
 | Cactus Arcade | 141791 | [141791-cactus-arcade.json](./141791-cactus-arcade.json) |
 | Cactus Arcade II | 141792 | [141792-cactus-arcade-ii.json](./141792-cactus-arcade-ii.json) |
@@ -1900,6 +1901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CashGrab: Refunded | 350952 | [350952-cashgrab-refunded.json](./350952-cashgrab-refunded.json) |
 | Cashier of Grocery Shop: Profession | 102772 | [102772-cashier-of-grocery-shop-profession.json](./102772-cashier-of-grocery-shop-profession.json) |
 | Cashier Sim | 296450 | [296450-cashier-sim.json](./296450-cashier-sim.json) |
+| Cashier Simulator | 261723 | [261723-cashier-simulator.json](./261723-cashier-simulator.json) |
 | Cashtronauts | 34834 | [34834-cashtronauts.json](./34834-cashtronauts.json) |
 | Casino Black Jack | 336095 | [336095-casino-black-jack.json](./336095-casino-black-jack.json) |
 | Casino Blackjack | 86560 | [86560-casino-blackjack.json](./86560-casino-blackjack.json) |
@@ -4771,6 +4773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chordosis | 266874 | [266874-chordosis.json](./266874-chordosis.json) |
 | Chords Enchanter | 292685 | [292685-chords-enchanter.json](./292685-chords-enchanter.json) |
 | Choreo: Legend of Loco | 232002 | [232002-choreo-legend-of-loco.json](./232002-choreo-legend-of-loco.json) |
+| Chores of Corruption | 261728 | [261728-chores-of-corruption.json](./261728-chores-of-corruption.json) |
 | Chorizo | 217409 | [217409-chorizo.json](./217409-chorizo.json) |
 | Chornobyl Breakout | 372279 | [372279-chornobyl-breakout.json](./372279-chornobyl-breakout.json) |
 | Choro 2021 | 186127 | [186127-choro-2021.json](./186127-choro-2021.json) |
@@ -5034,6 +5037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chromo XY | 103558 | [103558-chromo-xy.json](./103558-chromo-xy.json) |
 | Chromocide: Prism of Sin | 294171 | [294171-chromocide-prism-of-sin.json](./294171-chromocide-prism-of-sin.json) |
 | Chromosome Evil | 116334 | [116334-chromosome-evil.json](./116334-chromosome-evil.json) |
+| Chromosome Evil 2 | 261720 | [261720-chromosome-evil-2.json](./261720-chromosome-evil-2.json) |
 | Chromosome Evil: Map Editor | 232462 | [232462-chromosome-evil-map-editor.json](./232462-chromosome-evil-map-editor.json) |
 | Chromosome Evil: New Weapon & Weapons Customization | 230808 | [230808-chromosome-evil-new-weapon-and-weapons-customization.json](./230808-chromosome-evil-new-weapon-and-weapons-customization.json) |
 | Chrona & Sirona | 413716 | [413716-chrona-and-sirona.json](./413716-chrona-and-sirona.json) |
@@ -7096,6 +7100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Collared | 133984 | [133984-collared.json](./133984-collared.json) |
 | Collateral | 380080 | [380080-collateral.json](./380080-collateral.json) |
 | Collateral Dungeon | 290958 | [290958-collateral-dungeon.json](./290958-collateral-dungeon.json) |
+| Collecstar | 261744 | [261744-collecstar.json](./261744-collecstar.json) |
 | Collect Baby Oil | 329679 | [329679-collect-baby-oil.json](./329679-collect-baby-oil.json) |
 | Collect Call | 288764 | [288764-collect-call.json](./288764-collect-call.json) |
 | Collect iT 3D | 233123 | [233123-collect-it-3d.json](./233123-collect-it-3d.json) |
@@ -9110,6 +9115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Causeway: Trailblazer II | 40936 | [40936-cosmic-causeway-trailblazer-ii.json](./40936-cosmic-causeway-trailblazer-ii.json) |
 | Cosmic Challenge Racing | 196336 | [196336-cosmic-challenge-racing.json](./196336-cosmic-challenge-racing.json) |
 | Cosmic Chicken | 103657 | [103657-cosmic-chicken.json](./103657-cosmic-chicken.json) |
+| Cosmic Cleaner | 261726 | [261726-cosmic-cleaner.json](./261726-cosmic-cleaner.json) |
 | Cosmic Cleaner | 380083 | [380083-cosmic-cleaner.json](./380083-cosmic-cleaner.json) |
 | Cosmic Coliseum | 223515 | [223515-cosmic-coliseum.json](./223515-cosmic-coliseum.json) |
 | Cosmic Collapse | 275327 | [275327-cosmic-collapse.json](./275327-cosmic-collapse.json) |
