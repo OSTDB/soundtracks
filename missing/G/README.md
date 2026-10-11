@@ -4234,6 +4234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GooBall | 146187 | [146187-gooball.json](./146187-gooball.json) |
 | Goober Arena | 320378 | [320378-goober-arena.json](./320378-goober-arena.json) |
 | Goobers | 411751 | [411751-goobers.json](./411751-goobers.json) |
+| GoobnBalloonsDX | 244153 | [244153-goobnballoonsdx.json](./244153-goobnballoonsdx.json) |
 | Gooboo | 371616 | [371616-gooboo.json](./371616-gooboo.json) |
 | Goobs | 354042 | [354042-goobs.json](./354042-goobs.json) |
 | Gooch Grundy's X-Decathlon | 73797 | [73797-gooch-grundys-x-decathlon.json](./73797-gooch-grundys-x-decathlon.json) |
@@ -6069,6 +6070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grow Island | 78848 | [78848-grow-island.json](./78848-grow-island.json) |
 | Grow Recovery | 175835 | [175835-grow-recovery.json](./175835-grow-recovery.json) |
 | Grow RPG | 175831 | [175831-grow-rpg.json](./175831-grow-rpg.json) |
+| Grow the Seed | 244158 | [244158-grow-the-seed.json](./244158-grow-the-seed.json) |
 | Grow Tower | 175830 | [175830-grow-tower.json](./175830-grow-tower.json) |
 | Grow Turret | 248155 | [248155-grow-turret.json](./248155-grow-turret.json) |
 | Grow Up | 19552 | [19552-grow-up.json](./19552-grow-up.json) |
