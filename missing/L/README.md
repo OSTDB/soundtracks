@@ -4068,6 +4068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lizard Slayer | 405618 | [405618-lizard-slayer.json](./405618-lizard-slayer.json) |
 | Lizard State | 396531 | [396531-lizard-state.json](./396531-lizard-state.json) |
 | Lizard Survival Duo | 369728 | [369728-lizard-survival-duo.json](./369728-lizard-survival-duo.json) |
+| Lizard Survivors: Battle for Hyperborea | 272234 | [272234-lizard-survivors-battle-for-hyperborea.json](./272234-lizard-survivors-battle-for-hyperborea.json) |
 | Lizard Tower: The Abyss | 283751 | [283751-lizard-tower-the-abyss.json](./283751-lizard-tower-the-abyss.json) |
 | Lizardmen | 72178 | [72178-lizardmen.json](./72178-lizardmen.json) |
 | Lizardquest-Alien waters | 115035 | [115035-lizardquest-alien-waters.json](./115035-lizardquest-alien-waters.json) |
