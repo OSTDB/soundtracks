@@ -1294,6 +1294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car-Toon Chaos | 298170 | [298170-car-toon-chaos.json](./298170-car-toon-chaos.json) |
 | Car! | 314670 | [314670-car.json](./314670-car.json) |
 | Cara Night | 46618 | [46618-cara-night.json](./46618-cara-night.json) |
+| Carachnophobia | 267861 | [267861-carachnophobia.json](./267861-carachnophobia.json) |
 | Caracoland | 112963 | [112963-caracoland.json](./112963-caracoland.json) |
 | Caracolino | 293236 | [293236-caracolino.json](./293236-caracolino.json) |
 | Caramel Port | 114558 | [114558-caramel-port.json](./114558-caramel-port.json) |
@@ -1858,6 +1859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Case Hunter | 320287 | [320287-case-hunter.json](./320287-case-hunter.json) |
 | Case Kovacs: Agent 228 | 171467 | [171467-case-kovacs-agent-228.json](./171467-case-kovacs-agent-228.json) |
 | Case No.1: Rose Academy | 370266 | [370266-case-no-1-rose-academy.json](./370266-case-no-1-rose-academy.json) |
+| Case of the Mysterious Death of Keiko Haraeda | 267862 | [267862-case-of-the-mysterious-death-of-keiko-haraeda.json](./267862-case-of-the-mysterious-death-of-keiko-haraeda.json) |
 | Case Records: Lost Night | 334350 | [334350-case-records-lost-night.json](./334350-case-records-lost-night.json) |
 | Case Simulator Weapons and Armors | 111619 | [111619-case-simulator-weapons-and-armors.json](./111619-case-simulator-weapons-and-armors.json) |
 | Case Solved: The London Files | 392811 | [392811-case-solved-the-london-files.json](./392811-case-solved-the-london-files.json) |
@@ -2265,6 +2267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Apocalypse | 304854 | [304854-cat-apocalypse.json](./304854-cat-apocalypse.json) |
 | Cat Architect | 182875 | [182875-cat-architect.json](./182875-cat-architect.json) |
 | Cat Astro Phi | 314672 | [314672-cat-astro-phi.json](./314672-cat-astro-phi.json) |
+| Cat Attack | 267855 | [267855-cat-attack.json](./267855-cat-attack.json) |
 | Cat Attack | 56882 | [56882-cat-attack.json](./56882-cat-attack.json) |
 | Cat Bait | 310418 | [310418-cat-bait.json](./310418-cat-bait.json) |
 | Cat Ball: Gravity Maze | 273375 | [273375-cat-ball-gravity-maze.json](./273375-cat-ball-gravity-maze.json) |
@@ -4646,6 +4649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Choconoa | 113639 | [113639-choconoa.json](./113639-choconoa.json) |
 | Chocotto Land Online | 243781 | [243781-chocotto-land-online.json](./243781-chocotto-land-online.json) |
 | Chogue | 105114 | [105114-chogue.json](./105114-chogue.json) |
+| Choice Clash: What Would You Rather? | 267857 | [267857-choice-clash-what-would-you-rather.json](./267857-choice-clash-what-would-you-rather.json) |
 | Choice Matters | 312752 | [312752-choice-matters.json](./312752-choice-matters.json) |
 | Choice of Alexandria | 19483 | [19483-choice-of-alexandria.json](./19483-choice-of-alexandria.json) |
 | Choice of Life: Floors | 390183 | [390183-choice-of-life-floors.json](./390183-choice-of-life-floors.json) |
@@ -6479,6 +6483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cloverheart | 140019 | [140019-cloverheart.json](./140019-cloverheart.json) |
 | Clown | 169966 | [169966-clown.json](./169966-clown.json) |
 | Clown | 359365 | [359365-clown.json](./359365-clown.json) |
+| Clown Art | 267856 | [267856-clown-art.json](./267856-clown-art.json) |
 | Clown Camp | 346081 | [346081-clown-camp.json](./346081-clown-camp.json) |
 | Clown House | 90599 | [90599-clown-house.json](./90599-clown-house.json) |
 | Clown House: Lunacy | 381610 | [381610-clown-house-lunacy.json](./381610-clown-house-lunacy.json) |
