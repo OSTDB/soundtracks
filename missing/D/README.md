@@ -9456,6 +9456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draw and Color: Kawaii - Magnificent Edition | 268554 | [268554-draw-and-color-kawaii-magnificent-edition.json](./268554-draw-and-color-kawaii-magnificent-edition.json) |
 | Draw and Color: Kawaii - Platinum Edition | 247589 | [247589-draw-and-color-kawaii-platinum-edition.json](./247589-draw-and-color-kawaii-platinum-edition.json) |
 | Draw and Color: Kawaii - Superb Edition | 270293 | [270293-draw-and-color-kawaii-superb-edition.json](./270293-draw-and-color-kawaii-superb-edition.json) |
+| Draw and Color: Kawaii - Ultra Deluxe | 273333 | [273333-draw-and-color-kawaii-ultra-deluxe.json](./273333-draw-and-color-kawaii-ultra-deluxe.json) |
 | Draw and Go! | 276129 | [276129-draw-and-go.json](./276129-draw-and-go.json) |
 | Draw and Lie | 147973 | [147973-draw-and-lie.json](./147973-draw-and-lie.json) |
 | Draw Around | 142402 | [142402-draw-around.json](./142402-draw-around.json) |
@@ -9934,6 +9935,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamwillow | 184661 | [184661-dreamwillow.json](./184661-dreamwillow.json) |
 | DreamWoods 2 | 361164 | [361164-dreamwoods-2.json](./361164-dreamwoods-2.json) |
 | Dreamworks 2-in-1 Party Pack | 130311 | [130311-dreamworks-2-in-1-party-pack.json](./130311-dreamworks-2-in-1-party-pack.json) |
+| DreamWorks All-Star Kart Racing: Rally Edition | 273334 | [273334-dreamworks-all-star-kart-racing-rally-edition.json](./273334-dreamworks-all-star-kart-racing-rally-edition.json) |
+| DreamWorks All-Star Kart Racing: Rally Pack | 273335 | [273335-dreamworks-all-star-kart-racing-rally-pack.json](./273335-dreamworks-all-star-kart-racing-rally-pack.json) |
 | Dreamworks Animation | 220087 | [220087-dreamworks-animation.json](./220087-dreamworks-animation.json) |
 | DreamWorks Dragons | 221674 | [221674-dreamworks-dragons.json](./221674-dreamworks-dragons.json) |
 | DreamWorks Dragons: Dawn of New Riders | 111629 | [111629-dreamworks-dragons-dawn-of-new-riders.json](./111629-dreamworks-dragons-dawn-of-new-riders.json) |
@@ -11033,6 +11036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Hotpot | 404814 | [404814-dungeon-hotpot.json](./404814-dungeon-hotpot.json) |
 | Dungeon Hunter | 23258 | [23258-dungeon-hunter.json](./23258-dungeon-hunter.json) |
 | Dungeon Hunter | 332435 | [332435-dungeon-hunter.json](./332435-dungeon-hunter.json) |
+| Dungeon Hunter 6 | 273292 | [273292-dungeon-hunter-6.json](./273292-dungeon-hunter-6.json) |
 | Dungeon Hunter Champions | 97279 | [97279-dungeon-hunter-champions.json](./97279-dungeon-hunter-champions.json) |
 | Dungeon Hunter Survival | 240881 | [240881-dungeon-hunter-survival.json](./240881-dungeon-hunter-survival.json) |
 | Dungeon Hunter: Alliance | 21140 | [21140-dungeon-hunter-alliance.json](./21140-dungeon-hunter-alliance.json) |
@@ -11735,6 +11739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dys: Eternal Space Jail RPG | 142362 | [142362-dys-eternal-space-jail-rpg.json](./142362-dys-eternal-space-jail-rpg.json) |
 | Dys4ia | 15850 | [15850-dys4ia.json](./15850-dys4ia.json) |
 | Dysarmia | 304896 | [304896-dysarmia.json](./304896-dysarmia.json) |
+| Dyschronia: Chronos Alternate - Definitive Edition | 273326 | [273326-dyschronia-chronos-alternate-definitive-edition.json](./273326-dyschronia-chronos-alternate-definitive-edition.json) |
 | Dyschronia: Chronos Alternate - Dual Edition | 273637 | [273637-dyschronia-chronos-alternate-dual-edition.json](./273637-dyschronia-chronos-alternate-dual-edition.json) |
 | Dyscourse | 16504 | [16504-dyscourse.json](./16504-dyscourse.json) |
 | Dysis | 62817 | [62817-dysis.json](./62817-dysis.json) |
