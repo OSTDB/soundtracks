@@ -4438,6 +4438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lohotronshchik: Crazy Loto | 280887 | [280887-lohotronshchik-crazy-loto.json](./280887-lohotronshchik-crazy-loto.json) |
 | Loihtija | 176518 | [176518-loihtija.json](./176518-loihtija.json) |
 | Lok Digital | 226734 | [226734-lok-digital.json](./226734-lok-digital.json) |
+| Lokaa | 239693 | [239693-lokaa.json](./239693-lokaa.json) |
 | Lokam Dating Sim | 241435 | [241435-lokam-dating-sim.json](./241435-lokam-dating-sim.json) |
 | Lokapala | 224018 | [224018-lokapala.json](./224018-lokapala.json) |
 | Loki | 19358 | [19358-loki.json](./19358-loki.json) |
@@ -4900,6 +4901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lorem Gioco | 381681 | [381681-lorem-gioco.json](./381681-lorem-gioco.json) |
 | Loren the Amazon Princess | 16480 | [16480-loren-the-amazon-princess.json](./16480-loren-the-amazon-princess.json) |
 | Loren the Amazon Princess: The Castle Of N'Mar | 171634 | [171634-loren-the-amazon-princess-the-castle-of-nmar.json](./171634-loren-the-amazon-princess-the-castle-of-nmar.json) |
+| Lorena and the Land of Ruins | 239694 | [239694-lorena-and-the-land-of-ruins.json](./239694-lorena-and-the-land-of-ruins.json) |
 | Lorenzo il Magnifico | 117174 | [117174-lorenzo-il-magnifico.json](./117174-lorenzo-il-magnifico.json) |
 | Lorenzo the Runner | 274040 | [274040-lorenzo-the-runner.json](./274040-lorenzo-the-runner.json) |
 | Lorera | 135769 | [135769-lorera.json](./135769-lorera.json) |
@@ -5709,6 +5711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Low G Man: The Low Gravity Man | 48028 | [48028-low-g-man-the-low-gravity-man.json](./48028-low-g-man-the-low-gravity-man.json) |
 | Low Grav Racer | 63231 | [63231-low-grav-racer.json](./63231-low-grav-racer.json) |
 | Low Mem Sky | 181253 | [181253-low-mem-sky.json](./181253-low-mem-sky.json) |
+| Low Oxygen | 239697 | [239697-low-oxygen.json](./239697-low-oxygen.json) |
 | Low Poly Flight Simulator | 411572 | [411572-low-poly-flight-simulator.json](./411572-low-poly-flight-simulator.json) |
 | Low Poly Mouse Game | 381961 | [381961-low-poly-mouse-game.json](./381961-low-poly-mouse-game.json) |
 | Low Taper Fade 3D | 382534 | [382534-low-taper-fade-3d.json](./382534-low-taper-fade-3d.json) |
