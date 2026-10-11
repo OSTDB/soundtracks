@@ -3891,6 +3891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroine Dream 2 | 61565 | [61565-heroine-dream-2.json](./61565-heroine-dream-2.json) |
 | Heroine Dusk | 181260 | [181260-heroine-dusk.json](./181260-heroine-dusk.json) |
 | Heroine of the Sniper | 118673 | [118673-heroine-of-the-sniper.json](./118673-heroine-of-the-sniper.json) |
+| Heroine's Claw | 243035 | [243035-heroines-claw.json](./243035-heroines-claw.json) |
 | Heroine's Quest: The Herald of Ragnarok | 36441 | [36441-heroines-quest-the-herald-of-ragnarok.json](./36441-heroines-quest-the-herald-of-ragnarok.json) |
 | Heroines Fantasy Inherit | 284290 | [284290-heroines-fantasy-inherit.json](./284290-heroines-fantasy-inherit.json) |
 | Heroines of Swords & Spells | 130129 | [130129-heroines-of-swords-and-spells.json](./130129-heroines-of-swords-and-spells.json) |
@@ -4647,6 +4648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | High Frontier | 15832 | [15832-high-frontier.json](./15832-high-frontier.json) |
 | High Frontier 4 All | 404412 | [404412-high-frontier-4-all.json](./404412-high-frontier-4-all.json) |
 | High Fructose | 277011 | [277011-high-fructose.json](./277011-high-fructose.json) |
+| High Für 3 Score | 243019 | [243019-high-fur-3-score.json](./243019-high-fur-3-score.json) |
 | High Heat Baseball 1999 | 68250 | [68250-high-heat-baseball-1999.json](./68250-high-heat-baseball-1999.json) |
 | High Heat Baseball 2000 | 746 | [746-high-heat-baseball-2000.json](./746-high-heat-baseball-2000.json) |
 | High Heat Major League Baseball 2002 | 248754 | [248754-high-heat-major-league-baseball-2002.json](./248754-high-heat-major-league-baseball-2002.json) |
