@@ -1939,6 +1939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Patient Zero: Plague Idle | 388417 | [388417-patient-zero-plague-idle.json](./388417-patient-zero-plague-idle.json) |
 | PatientZ: Survivalist | 27727 | [27727-patientz-survivalist.json](./27727-patientz-survivalist.json) |
 | Patisserie Palette | 185418 | [185418-patisserie-palette.json](./185418-patisserie-palette.json) |
+| Patito Feo | 269500 | [269500-patito-feo.json](./269500-patito-feo.json) |
 | Patlabor the Case Files | 395699 | [395699-patlabor-the-case-files.json](./395699-patlabor-the-case-files.json) |
 | Patlabor: Come Back Mini-Pato | 75899 | [75899-patlabor-come-back-mini-pato.json](./75899-patlabor-come-back-mini-pato.json) |
 | Patlabor: The Mobile Police | 75896 | [75896-patlabor-the-mobile-police.json](./75896-patlabor-the-mobile-police.json) |
@@ -6083,6 +6084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Playdate Season 3 | 398535 | [398535-playdate-season-3.json](./398535-playdate-season-3.json) |
 | PlayDice | 212686 | [212686-playdice.json](./212686-playdice.json) |
 | Playdle | 272477 | [272477-playdle.json](./272477-playdle.json) |
+| PlayEnglish | 269501 | [269501-playenglish.json](./269501-playenglish.json) |
 | Player 9 | 132095 | [132095-player-9.json](./132095-player-9.json) |
 | Player Goes Jump | 286785 | [286785-player-goes-jump.json](./286785-player-goes-jump.json) |
 | Player Killers' Exchange | 108935 | [108935-player-killers-exchange.json](./108935-player-killers-exchange.json) |
@@ -6328,6 +6330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pluto's Ascent: Celestial Card | 395515 | [395515-plutos-ascent-celestial-card.json](./395515-plutos-ascent-celestial-card.json) |
 | Pluto's Sheep-Dog Day | 246516 | [246516-plutos-sheep-dog-day.json](./246516-plutos-sheep-dog-day.json) |
 | Pluto's Tears | 176974 | [176974-plutos-tears.json](./176974-plutos-tears.json) |
+| Plutonia 1024: The Plutinya Exeriment | 269468 | [269468-plutonia-1024-the-plutinya-exeriment.json](./269468-plutonia-1024-the-plutinya-exeriment.json) |
 | Plutonia 3: Going to Surface | 260951 | [260951-plutonia-3-going-to-surface.json](./260951-plutonia-3-going-to-surface.json) |
 | Plutonia 4: Back to Your Hole | 260952 | [260952-plutonia-4-back-to-your-hole.json](./260952-plutonia-4-back-to-your-hole.json) |
 | Plutonia 7: Going to the Hell | 260953 | [260953-plutonia-7-going-to-the-hell.json](./260953-plutonia-7-going-to-the-hell.json) |
