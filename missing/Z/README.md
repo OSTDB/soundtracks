@@ -136,6 +136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zako Slayer | 228073 | [228073-zako-slayer.json](./228073-zako-slayer.json) |
 | Zakon | 212177 | [212177-zakon.json](./212177-zakon.json) |
 | Zaku | 62001 | [62001-zaku.json](./62001-zaku.json) |
+| Zakuro | 250246 | [250246-zakuro.json](./250246-zakuro.json) |
 | Zakuro no Aji | 37748 | [37748-zakuro-no-aji.json](./37748-zakuro-no-aji.json) |
 | Zakuzaku Actors | 201615 | [201615-zakuzaku-actors.json](./201615-zakuzaku-actors.json) |
 | Zalera Spark | 310935 | [310935-zalera-spark.json](./310935-zalera-spark.json) |
