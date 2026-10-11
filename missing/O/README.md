@@ -321,6 +321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Octamari Rescue | 32844 | [32844-octamari-rescue.json](./32844-octamari-rescue.json) |
 | Octane100 | 359571 | [359571-octane100.json](./359571-octane100.json) |
 | Octapolis | 55030 | [55030-octapolis.json](./55030-octapolis.json) |
+| OctaRace | 273818 | [273818-octarace.json](./273818-octarace.json) |
 | Octarina | 150760 | [150760-octarina.json](./150760-octarina.json) |
 | Octave | 180675 | [180675-octave.json](./180675-octave.json) |
 | Octavian | 169153 | [169153-octavian.json](./169153-octavian.json) |
