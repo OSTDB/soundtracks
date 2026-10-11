@@ -1036,6 +1036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Talismania Deluxe | 27814 | [27814-talismania-deluxe.json](./27814-talismania-deluxe.json) |
 | Talk About Something in the Nowhere | 419142 | [419142-talk-about-something-in-the-nowhere.json](./419142-talk-about-something-in-the-nowhere.json) |
 | Talk it Out | 123458 | [123458-talk-it-out.json](./123458-talk-it-out.json) |
+| Talk Tac Toe Lite | 253271 | [253271-talk-tac-toe-lite.json](./253271-talk-tac-toe-lite.json) |
 | Talk To Me | 134586 | [134586-talk-to-me.json](./134586-talk-to-me.json) |
 | Talk to Strangers | 252403 | [252403-talk-to-strangers.json](./252403-talk-to-strangers.json) |
 | Talk to Yuno | 111005 | [111005-talk-to-yuno.json](./111005-talk-to-yuno.json) |
@@ -3273,6 +3274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tex Murphy: Mean Streets + Martian Memorandum | 83575 | [83575-tex-murphy-mean-streets-martian-memorandum.json](./83575-tex-murphy-mean-streets-martian-memorandum.json) |
 | Tex Murphy: Overseer | 5544 | [5544-tex-murphy-overseer.json](./5544-tex-murphy-overseer.json) |
 | Tex Murphy: The Pandora Directive | 17424 | [17424-tex-murphy-the-pandora-directive.json](./17424-tex-murphy-the-pandora-directive.json) |
+| Tex'em | 253287 | [253287-texem.json](./253287-texem.json) |
 | Texas 42 HD | 101042 | [101042-texas-42-hd.json](./101042-texas-42-hd.json) |
 | Texas Butcher | 125257 | [125257-texas-butcher.json](./125257-texas-butcher.json) |
 | Texas Chainsaw Dodge | 307613 | [307613-texas-chainsaw-dodge.json](./307613-texas-chainsaw-dodge.json) |
@@ -20408,6 +20410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turtle: Voidrunner | 74355 | [74355-turtle-voidrunner.json](./74355-turtle-voidrunner.json) |
 | Turtles | 23686 | [23686-turtles.json](./23686-turtles.json) |
 | Turtles | 346135 | [346135-turtles.json](./346135-turtles.json) |
+| Turtles, Huh?: Learn to Fly | 253270 | [253270-turtles-huh-learn-to-fly.json](./253270-turtles-huh-learn-to-fly.json) |
 | Turtles! | 194455 | [194455-turtles.json](./194455-turtles.json) |
 | TurtleSkate | 398572 | [398572-turtleskate.json](./398572-turtleskate.json) |
 | Turtoa: Global Rhythm | 163884 | [163884-turtoa-global-rhythm.json](./163884-turtoa-global-rhythm.json) |
