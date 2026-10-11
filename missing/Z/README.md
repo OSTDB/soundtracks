@@ -1441,6 +1441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ztar Attack Rebooted | 135231 | [135231-ztar-attack-rebooted.json](./135231-ztar-attack-rebooted.json) |
 | Ztar Attack: Mario Escape from the Jail - Definitive Edition | 215166 | [215166-ztar-attack-mario-escape-from-the-jail-definitive-edition.json](./215166-ztar-attack-mario-escape-from-the-jail-definitive-edition.json) |
 | ZTetris | 225752 | [225752-ztetris.json](./225752-ztetris.json) |
+| Zubash | 262891 | [262891-zubash.json](./262891-zubash.json) |
 | Zueirama | 110641 | [110641-zueirama.json](./110641-zueirama.json) |
 | Zueirama 2077 | 323276 | [323276-zueirama-2077.json](./323276-zueirama-2077.json) |
 | Zug in Sicht | 383972 | [383972-zug-in-sicht.json](./383972-zug-in-sicht.json) |
