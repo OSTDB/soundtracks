@@ -180,6 +180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uggies Garden | 128472 | [128472-uggies-garden.json](./128472-uggies-garden.json) |
 | Ugh! | 11685 | [11685-ugh.json](./11685-ugh.json) |
 | Ugly Americans: Apocalypsegeddon | 20618 | [20618-ugly-americans-apocalypsegeddon.json](./20618-ugly-americans-apocalypsegeddon.json) |
+| Ugly Button Adventure | 273853 | [273853-ugly-button-adventure.json](./273853-ugly-button-adventure.json) |
 | Ugmania | 368675 | [368675-ugmania.json](./368675-ugmania.json) |
 | Ugoku Sushi Bar | 395584 | [395584-ugoku-sushi-bar.json](./395584-ugoku-sushi-bar.json) |
 | Uh Oh Airlines | 340986 | [340986-uh-oh-airlines.json](./340986-uh-oh-airlines.json) |
