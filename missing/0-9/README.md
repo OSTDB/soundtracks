@@ -1517,6 +1517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 4 in 1: Hudson | 293738 | [293738-4-in-1-hudson.json](./293738-4-in-1-hudson.json) |
 | 4 in 1: Meine Tierarztpraxis + Meine Tierpension + Mein Gestuet + Mein Pferd | 269535 | [269535-4-in-1-meine-tierarztpraxis-meine-tierpension-mein-gestuet-mein-pferd.json](./269535-4-in-1-meine-tierarztpraxis-meine-tierpension-mein-gestuet-mein-pferd.json) |
 | 4 in 1: Nintendo | 293735 | [293735-4-in-1-nintendo.json](./293735-4-in-1-nintendo.json) |
+| 4 In a Blow | 242460 | [242460-4-in-a-blow.json](./242460-4-in-a-blow.json) |
 | 4 in a Row | 294841 | [294841-4-in-a-row.json](./294841-4-in-a-row.json) |
 | 4 in One: Cave Wonders/Earth Defender/Jaguar Bomber/Soccer Champion | 138731 | [138731-4-in-one-cave-wonders-earth-defender-jaguar-bomber-soccer-champion.json](./138731-4-in-one-cave-wonders-earth-defender-jaguar-bomber-soccer-champion.json) |
 | 4 Kingdoms Supremacy | 297056 | [297056-4-kingdoms-supremacy.json](./297056-4-kingdoms-supremacy.json) |
