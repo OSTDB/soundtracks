@@ -740,6 +740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Canada Break | 208582 | [208582-canada-break.json](./208582-canada-break.json) |
 | Canada Break: Head to Head | 209618 | [209618-canada-break-head-to-head.json](./209618-canada-break-head-to-head.json) |
 | Canada Clash | 418736 | [418736-canada-clash.json](./418736-canada-clash.json) |
+| Canadian Higurashi | 254361 | [254361-canadian-higurashi.json](./254361-canadian-higurashi.json) |
 | Canadian Robot Racing League | 127175 | [127175-canadian-robot-racing-league.json](./127175-canadian-robot-racing-league.json) |
 | Canal Control | 243702 | [243702-canal-control.json](./243702-canal-control.json) |
 | Canal Towns | 197335 | [197335-canal-towns.json](./197335-canal-towns.json) |
@@ -1280,6 +1281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Racing Master: Car Game 3D | 288982 | [288982-car-racing-master-car-game-3d.json](./288982-car-racing-master-car-game-3d.json) |
 | Car Racing: Highway Driving Simulator - Premium Edition | 283153 | [283153-car-racing-highway-driving-simulator-premium-edition.json](./283153-car-racing-highway-driving-simulator-premium-edition.json) |
 | Car Rental Simulator | 380054 | [380054-car-rental-simulator.json](./380054-car-rental-simulator.json) |
+| Car Rush I | 254387 | [254387-car-rush-i.json](./254387-car-rush-i.json) |
 | Car Saler Simulator 2023 | 267347 | [267347-car-saler-simulator-2023.json](./267347-car-saler-simulator-2023.json) |
 | Car Sales Simulator | 403738 | [403738-car-sales-simulator.json](./403738-car-sales-simulator.json) |
 | Car Sales Simulator | 407368 | [407368-car-sales-simulator.json](./407368-car-sales-simulator.json) |
@@ -1442,6 +1444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cardfight!! Vanguard: Dear Days - Character Set 02: Toshiki Kai | 226283 | [226283-cardfight-vanguard-dear-days-character-set-02-toshiki-kai.json](./226283-cardfight-vanguard-dear-days-character-set-02-toshiki-kai.json) |
 | Cardfight!! Vanguard: Dear Days - Character Set 03: Ren Suzugamori | 226284 | [226284-cardfight-vanguard-dear-days-character-set-03-ren-suzugamori.json](./226284-cardfight-vanguard-dear-days-character-set-03-ren-suzugamori.json) |
 | Cardfight!! Vanguard: Dear Days - Character Set 06: Taizo Kiyokura | 251101 | [251101-cardfight-vanguard-dear-days-character-set-06-taizo-kiyokura.json](./251101-cardfight-vanguard-dear-days-character-set-06-taizo-kiyokura.json) |
+| Cardfight!! Vanguard: Dear Days - Character Set 07 - Chrono Shindou | 254380 | [254380-cardfight-vanguard-dear-days-character-set-07-chrono-shindou.json](./254380-cardfight-vanguard-dear-days-character-set-07-chrono-shindou.json) |
 | Cardfight!! Vanguard: Dear Days - Character Set 07: Chrono Shindou | 254676 | [254676-cardfight-vanguard-dear-days-character-set-07-chrono-shindou.json](./254676-cardfight-vanguard-dear-days-character-set-07-chrono-shindou.json) |
 | Cardfight!! Vanguard: Dear Days - Rare Card Set 01 D-BT01: Genesis of the Five Greats | 226285 | [226285-cardfight-vanguard-dear-days-rare-card-set-01-d-bt01-genesis-of-the-five-greats.json](./226285-cardfight-vanguard-dear-days-rare-card-set-01-d-bt01-genesis-of-the-five-greats.json) |
 | Cardfight!! Vanguard: Dear Days - Rare Card Set 02 D-BT02: A Brush with the Legends | 226286 | [226286-cardfight-vanguard-dear-days-rare-card-set-02-d-bt02-a-brush-with-the-legends.json](./226286-cardfight-vanguard-dear-days-rare-card-set-02-d-bt02-a-brush-with-the-legends.json) |
@@ -1811,6 +1814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cartoon Network Racing | 289039 | [289039-cartoon-network-racing.json](./289039-cartoon-network-racing.json) |
 | Cartoon Network TKO | 234704 | [234704-cartoon-network-tko.json](./234704-cartoon-network-tko.json) |
 | Cartoon Network Universe: FusionFall | 2811 | [2811-cartoon-network-universe-fusionfall.json](./2811-cartoon-network-universe-fusionfall.json) |
+| Cartoon Network: Battle Crashers | 254362 | [254362-cartoon-network-battle-crashers.json](./254362-cartoon-network-battle-crashers.json) |
 | Cartoon Network: Punch Time Explosion XL | 21151 | [21151-cartoon-network-punch-time-explosion-xl.json](./21151-cartoon-network-punch-time-explosion-xl.json) |
 | Cartoon Network: Toon Jam! | 206759 | [206759-cartoon-network-toon-jam.json](./206759-cartoon-network-toon-jam.json) |
 | Cartoon Pet Game | 335068 | [335068-cartoon-pet-game.json](./335068-cartoon-pet-game.json) |
@@ -2078,6 +2082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle of Elite | 125406 | [125406-castle-of-elite.json](./125406-castle-of-elite.json) |
 | Castle of Full Moon | 213985 | [213985-castle-of-full-moon.json](./213985-castle-of-full-moon.json) |
 | Castle of Heart | 69014 | [69014-castle-of-heart.json](./69014-castle-of-heart.json) |
+| Castle of Heart + Jet Kave Adventure Bundle | 254412 | [254412-castle-of-heart-jet-kave-adventure-bundle.json](./254412-castle-of-heart-jet-kave-adventure-bundle.json) |
 | Castle of Heart: Retold | 344472 | [344472-castle-of-heart-retold.json](./344472-castle-of-heart-retold.json) |
 | Castle of Horrors: The Awful Tortures | 276474 | [276474-castle-of-horrors-the-awful-tortures.json](./276474-castle-of-horrors-the-awful-tortures.json) |
 | Castle of Illusion Starring Mickey Mouse | 11495 | [11495-castle-of-illusion-starring-mickey-mouse.json](./11495-castle-of-illusion-starring-mickey-mouse.json) |
@@ -5427,6 +5432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Circuit Runner | 311634 | [311634-circuit-runner.json](./311634-circuit-runner.json) |
 | Circuit Stance | 392123 | [392123-circuit-stance.json](./392123-circuit-stance.json) |
 | Circuit Strike.One | 68244 | [68244-circuit-strike-one.json](./68244-circuit-strike-one.json) |
+| Circuit Superstars DLC: Top Gear - The Stig Challenge | 254379 | [254379-circuit-superstars-dlc-top-gear-the-stig-challenge.json](./254379-circuit-superstars-dlc-top-gear-the-stig-challenge.json) |
 | Circuit USA | 281556 | [281556-circuit-usa.json](./281556-circuit-usa.json) |
 | Circuit: Demolition Derby 2 | 82147 | [82147-circuit-demolition-derby-2.json](./82147-circuit-demolition-derby-2.json) |
 | Circuit: Laser Maze | 190460 | [190460-circuit-laser-maze.json](./190460-circuit-laser-maze.json) |
@@ -7552,6 +7558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colors! Platform | 199607 | [199607-colors-platform.json](./199607-colors-platform.json) |
 | Colors’ Heartbeat | 235480 | [235480-colors-heartbeat.json](./235480-colors-heartbeat.json) |
 | ColorSense | 182516 | [182516-colorsense.json](./182516-colorsense.json) |
+| Colorspace | 254398 | [254398-colorspace.json](./254398-colorspace.json) |
 | ColorSpill Ball | 334751 | [334751-colorspill-ball.json](./334751-colorspill-ball.json) |
 | ColorTris | 178620 | [178620-colortris.json](./178620-colortris.json) |
 | ColorUs : My Coloring Books | 99401 | [99401-colorus-my-coloring-books.json](./99401-colorus-my-coloring-books.json) |
@@ -8925,6 +8932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coral Quest | 164269 | [164269-coral-quest.json](./164269-coral-quest.json) |
 | Coral: A Halo Fan Game | 142245 | [142245-coral-a-halo-fan-game.json](./142245-coral-a-halo-fan-game.json) |
 | Corala: Deity's Loom | 388388 | [388388-corala-deitys-loom.json](./388388-corala-deitys-loom.json) |
+| Coraland: The Worst Rescuer | 254378 | [254378-coraland-the-worst-rescuer.json](./254378-coraland-the-worst-rescuer.json) |
 | Coralia and the Ocean of Stars | 391253 | [391253-coralia-and-the-ocean-of-stars.json](./391253-coralia-and-the-ocean-of-stars.json) |
 | Coraline | 210273 | [210273-coraline.json](./210273-coraline.json) |
 | Corallo | 202243 | [202243-corallo.json](./202243-corallo.json) |
@@ -10149,6 +10157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Boom | 147386 | [147386-crazy-boom.json](./147386-crazy-boom.json) |
 | Crazy Boss | 238401 | [238401-crazy-boss.json](./238401-crazy-boss.json) |
 | Crazy Bowling | 96840 | [96840-crazy-bowling.json](./96840-crazy-bowling.json) |
+| Crazy Brain | 254381 | [254381-crazy-brain.json](./254381-crazy-brain.json) |
 | Crazy Buggy Racing | 29107 | [29107-crazy-buggy-racing.json](./29107-crazy-buggy-racing.json) |
 | Crazy Bugs! | 248572 | [248572-crazy-bugs.json](./248572-crazy-bugs.json) |
 | Crazy Bus | 268477 | [268477-crazy-bus.json](./268477-crazy-bus.json) |
