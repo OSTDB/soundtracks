@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-11T17:30:14.542Z",
-  "total_soundtracks": 1459,
+  "generated_at": "2026-10-11T17:30:26.024Z",
+  "total_soundtracks": 1460,
   "games": [
     {
       "igdb_id": 7522,
@@ -13373,6 +13373,20 @@
           "spotify_url": "https://open.spotify.com/album/2FHAI9AvSlX3aUzPXPGLIz",
           "apple_music_url": "https://music.apple.com/us/album/stronghold-original-game-soundtrack/1188232615",
           "album_link_url": "https://album.link/i/1188232615"
+        }
+      ]
+    },
+    {
+      "igdb_id": 964,
+      "game_name": "Stronghold Crusader",
+      "game_url": "https://ostdb.net/games/stronghold-crusader",
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/62/e2/87/62e287cc-38c2-a0a5-575c-50bd3723eac3/artwork.jpg/600x600bb.jpg",
+      "albums": [
+        {
+          "album_name": "Stronghold Crusader (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/50F2mUOZU5YFPcFCNi13Xv",
+          "apple_music_url": "https://music.apple.com/us/album/stronghold-crusader-original-game-soundtrack/1187963762",
+          "album_link_url": "https://album.link/i/1187963762"
         }
       ]
     },
