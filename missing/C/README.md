@@ -1269,6 +1269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Parking Real Driving Sim | 274976 | [274976-car-parking-real-driving-sim.json](./274976-car-parking-real-driving-sim.json) |
 | Car Parking Simulator 3D Game | 105929 | [105929-car-parking-simulator-3d-game.json](./105929-car-parking-simulator-3d-game.json) |
 | Car Parking: New Cars | 226296 | [226296-car-parking-new-cars.json](./226296-car-parking-new-cars.json) |
+| Car Parkour | 246867 | [246867-car-parkour.json](./246867-car-parkour.json) |
 | Car Parkour Together | 381147 | [381147-car-parkour-together.json](./381147-car-parkour-together.json) |
 | Car Physics Simulator | 154085 | [154085-car-physics-simulator.json](./154085-car-physics-simulator.json) |
 | Car Physics Simulator: Trucks + Missions DLC | 155107 | [155107-car-physics-simulator-trucks-missions-dlc.json](./155107-car-physics-simulator-trucks-missions-dlc.json) |
@@ -2440,6 +2441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Rescue Inc. | 345650 | [345650-cat-rescue-inc.json](./345650-cat-rescue-inc.json) |
 | Cat Runner 2018 | 99414 | [99414-cat-runner-2018.json](./99414-cat-runner-2018.json) |
 | Cat Screen | 410234 | [410234-cat-screen.json](./410234-cat-screen.json) |
+| Cat Search in Medieval Times | 246839 | [246839-cat-search-in-medieval-times.json](./246839-cat-search-in-medieval-times.json) |
 | Cat Secretary | 292419 | [292419-cat-secretary.json](./292419-cat-secretary.json) |
 | Cat Short Way | 296510 | [296510-cat-short-way.json](./296510-cat-short-way.json) |
 | Cat Sim Online: Play With Cats | 103863 | [103863-cat-sim-online-play-with-cats.json](./103863-cat-sim-online-play-with-cats.json) |
@@ -6665,6 +6667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cluster Fly | 226305 | [226305-cluster-fly.json](./226305-cluster-fly.json) |
 | Cluster Gun | 134997 | [134997-cluster-gun.json](./134997-cluster-gun.json) |
 | Cluster Six | 58756 | [58756-cluster-six.json](./58756-cluster-six.json) |
+| Cluster Tower | 246853 | [246853-cluster-tower.json](./246853-cluster-tower.json) |
 | Cluster Tumble | 118156 | [118156-cluster-tumble.json](./118156-cluster-tumble.json) |
 | Clusterball | 10349 | [10349-clusterball.json](./10349-clusterball.json) |
 | Clusterball Arcade | 63838 | [63838-clusterball-arcade.json](./63838-clusterball-arcade.json) |
@@ -8860,6 +8863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cool Kid Cody: Season 1 - Episode 07 | 202732 | [202732-cool-kid-cody-season-1-episode-07.json](./202732-cool-kid-cody-season-1-episode-07.json) |
 | Cool Kid Cody: Season 1 - Episode 10 | 204960 | [204960-cool-kid-cody-season-1-episode-10.json](./204960-cool-kid-cody-season-1-episode-10.json) |
 | Cool Kid Cody: Season 2 - Episode 02 | 247660 | [247660-cool-kid-cody-season-2-episode-02.json](./247660-cool-kid-cody-season-2-episode-02.json) |
+| Cool Kid Cody: Season 2 - Episode 03 | 246854 | [246854-cool-kid-cody-season-2-episode-03.json](./246854-cool-kid-cody-season-2-episode-03.json) |
 | Cool Kid Cody: Season 2 - Episode 04 | 248017 | [248017-cool-kid-cody-season-2-episode-04.json](./248017-cool-kid-cody-season-2-episode-04.json) |
 | Cool Kid Cody: Season 2 - Episode 05 | 248816 | [248816-cool-kid-cody-season-2-episode-05.json](./248816-cool-kid-cody-season-2-episode-05.json) |
 | Cool Kid Cody: Season 2 - Episode 09 | 253977 | [253977-cool-kid-cody-season-2-episode-09.json](./253977-cool-kid-cody-season-2-episode-09.json) |
@@ -11288,6 +11292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crunchies Munchies | 336084 | [336084-crunchies-munchies.json](./336084-crunchies-munchies.json) |
 | Crunchy Numbers Math Arcade | 205082 | [205082-crunchy-numbers-math-arcade.json](./205082-crunchy-numbers-math-arcade.json) |
 | Crunda | 333043 | [333043-crunda.json](./333043-crunda.json) |
+| Cruo Domine | 246857 | [246857-cruo-domine.json](./246857-cruo-domine.json) |
 | Crusade in Europe | 25922 | [25922-crusade-in-europe.json](./25922-crusade-in-europe.json) |
 | Crusade of Deitra | 173296 | [173296-crusade-of-deitra.json](./173296-crusade-of-deitra.json) |
 | Crusade of Destiny | 66721 | [66721-crusade-of-destiny.json](./66721-crusade-of-destiny.json) |
@@ -12230,6 +12235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursed House 2 | 362928 | [362928-cursed-house-2.json](./362928-cursed-house-2.json) |
 | Cursed House 7 | 337215 | [337215-cursed-house-7.json](./337215-cursed-house-7.json) |
 | Cursed House Escape | 315581 | [315581-cursed-house-escape.json](./315581-cursed-house-escape.json) |
+| Cursed House Match 3 Puzzle | 246855 | [246855-cursed-house-match-3-puzzle.json](./246855-cursed-house-match-3-puzzle.json) |
 | Cursed Island | 176289 | [176289-cursed-island.json](./176289-cursed-island.json) |
 | Cursed Land | 297237 | [297237-cursed-land.json](./297237-cursed-land.json) |
 | Cursed Legacy | 370707 | [370707-cursed-legacy.json](./370707-cursed-legacy.json) |
