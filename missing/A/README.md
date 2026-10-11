@@ -5443,6 +5443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anata o Yurusanai | 59396 | [59396-anata-o-yurusanai.json](./59396-anata-o-yurusanai.json) |
 | Anata wa Watashi no Danna-sama | 163233 | [163233-anata-wa-watashi-no-danna-sama.json](./163233-anata-wa-watashi-no-danna-sama.json) |
 | Anathema | 54688 | [54688-anathema.json](./54688-anathema.json) |
+| Anathema Tower Defense | 272227 | [272227-anathema-tower-defense.json](./272227-anathema-tower-defense.json) |
 | Anatidae | 149472 | [149472-anatidae.json](./149472-anatidae.json) |
 | Anatomy of the Terrible | 347741 | [347741-anatomy-of-the-terrible.json](./347741-anatomy-of-the-terrible.json) |
 | Anaza Aku Yatsu: Another World | 67353 | [67353-anaza-aku-yatsu-another-world.json](./67353-anaza-aku-yatsu-another-world.json) |
@@ -7837,6 +7838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Archery Physics Objects Destruction Apple shooter | 100824 | [100824-archery-physics-objects-destruction-apple-shooter.json](./100824-archery-physics-objects-destruction-apple-shooter.json) |
 | Archery Practice VR | 29558 | [29558-archery-practice-vr.json](./29558-archery-practice-vr.json) |
 | Archery Pro | 311606 | [311606-archery-pro.json](./311606-archery-pro.json) |
+| Archery Red | 272199 | [272199-archery-red.json](./272199-archery-red.json) |
 | Archery Showdown | 272788 | [272788-archery-showdown.json](./272788-archery-showdown.json) |
 | Archery Simulator | 217379 | [217379-archery-simulator.json](./217379-archery-simulator.json) |
 | Archery Simulator | 332264 | [332264-archery-simulator.json](./332264-archery-simulator.json) |
