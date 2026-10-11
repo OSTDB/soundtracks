@@ -1969,6 +1969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Schrödinger's Dungeon | 381845 | [381845-schrodingers-dungeon.json](./381845-schrodingers-dungeon.json) |
 | Schrödinger’s Maze | 358477 | [358477-schrodinger-s-maze.json](./358477-schrodinger-s-maze.json) |
 | Schrödinger's Rat | 21776 | [21776-schrodingers-rat.json](./21776-schrodingers-rat.json) |
+| Schrott | 250820 | [250820-schrott.json](./250820-schrott.json) |
 | Schwarzenberg | 86063 | [86063-schwarzenberg.json](./86063-schwarzenberg.json) |
 | Schwarzerblitz | 118188 | [118188-schwarzerblitz.json](./118188-schwarzerblitz.json) |
 | Schwarzerblitz: 8-Colors Star Guardians Collaboration Costumes - Chapter 1 | 265083 | [265083-schwarzerblitz-8-colors-star-guardians-collaboration-costumes-chapter-1.json](./265083-schwarzerblitz-8-colors-star-guardians-collaboration-costumes-chapter-1.json) |
@@ -2952,6 +2953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sectant | 144259 | [144259-sectant.json](./144259-sectant.json) |
 | Section 13 | 215221 | [215221-section-13.json](./215221-section-13.json) |
 | Section 8 | 7184 | [7184-section-8.json](./7184-section-8.json) |
+| Section Gamma | 250836 | [250836-section-gamma.json](./250836-section-gamma.json) |
 | Section Six | 149023 | [149023-section-six.json](./149023-section-six.json) |
 | Section Z | 206629 | [206629-section-z.json](./206629-section-z.json) |
 | Section-Z | 285595 | [285595-section-z.json](./285595-section-z.json) |
@@ -4656,6 +4658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shapefighter | 333401 | [333401-shapefighter.json](./333401-shapefighter.json) |
 | ShapeGrid | 189048 | [189048-shapegrid.json](./189048-shapegrid.json) |
 | Shapeguard | 264023 | [264023-shapeguard.json](./264023-shapeguard.json) |
+| ShapeHero Factory | 250848 | [250848-shapehero-factory.json](./250848-shapehero-factory.json) |
 | Shapeland | 366298 | [366298-shapeland.json](./366298-shapeland.json) |
 | Shapemonger | 406141 | [406141-shapemonger.json](./406141-shapemonger.json) |
 | ShapeNeon Chaos | 157119 | [157119-shapeneon-chaos.json](./157119-shapeneon-chaos.json) |
@@ -8547,6 +8550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slimer | 184489 | [184489-slimer.json](./184489-slimer.json) |
 | Slimeria | 259497 | [259497-slimeria.json](./259497-slimeria.json) |
 | Slimes RPG | 110782 | [110782-slimes-rpg.json](./110782-slimes-rpg.json) |
+| Slimes: Cannon Combat | 250841 | [250841-slimes-cannon-combat.json](./250841-slimes-cannon-combat.json) |
 | SlimeSlider | 188453 | [188453-slimeslider.json](./188453-slimeslider.json) |
 | SlimeTrials | 185607 | [185607-slimetrials.json](./185607-slimetrials.json) |
 | Slimeward | 373084 | [373084-slimeward.json](./373084-slimeward.json) |
@@ -9670,6 +9674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snowboard Hero | 256184 | [256184-snowboard-hero.json](./256184-snowboard-hero.json) |
 | Snowboard Kids | 3342 | [3342-snowboard-kids.json](./3342-snowboard-kids.json) |
 | Snowboard Kids Plus | 72103 | [72103-snowboard-kids-plus.json](./72103-snowboard-kids-plus.json) |
+| Snowboard League | 250822 | [250822-snowboard-league.json](./250822-snowboard-league.json) |
 | Snowboard Legends | 322988 | [322988-snowboard-legends.json](./322988-snowboard-legends.json) |
 | Snowboard Madness | 325274 | [325274-snowboard-madness.json](./325274-snowboard-madness.json) |
 | Snowboard Park 2004 Season Pass | 205119 | [205119-snowboard-park-2004-season-pass.json](./205119-snowboard-park-2004-season-pass.json) |
@@ -13761,6 +13766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spiral of War | 270785 | [270785-spiral-of-war.json](./270785-spiral-of-war.json) |
 | Spiral Roll | 273860 | [273860-spiral-roll.json](./273860-spiral-roll.json) |
 | Spiral Smash | 244871 | [244871-spiral-smash.json](./244871-spiral-smash.json) |
+| Spiral Up | 250812 | [250812-spiral-up.json](./250812-spiral-up.json) |
 | Spiral Wave | 42045 | [42045-spiral-wave.json](./42045-spiral-wave.json) |
 | Spiral!! | 399062 | [399062-spiral.json](./399062-spiral.json) |
 | Spiralagon | 122342 | [122342-spiralagon.json](./122342-spiralagon.json) |
@@ -14866,6 +14872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stalker 1: Path of Fire | 63351 | [63351-stalker-1-path-of-fire.json](./63351-stalker-1-path-of-fire.json) |
 | Stalker 2 | 314379 | [314379-stalker-2.json](./314379-stalker-2.json) |
 | Stalker Defender Bunker 3D | 89238 | [89238-stalker-defender-bunker-3d.json](./89238-stalker-defender-bunker-3d.json) |
+| Stalker Girl | 250839 | [250839-stalker-girl.json](./250839-stalker-girl.json) |
 | Stalker Together | 327831 | [327831-stalker-together.json](./327831-stalker-together.json) |
 | Stalker: Spatial Trap | 321516 | [321516-stalker-spatial-trap.json](./321516-stalker-spatial-trap.json) |
 | Stalker: The Way of Survival | 314373 | [314373-stalker-the-way-of-survival.json](./314373-stalker-the-way-of-survival.json) |
@@ -20660,6 +20667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Sea Serpent Simulator | 176965 | [176965-super-sea-serpent-simulator.json](./176965-super-sea-serpent-simulator.json) |
 | Super Seals Float | 149594 | [149594-super-seals-float.json](./149594-super-seals-float.json) |
 | Super Sean 007 | 239736 | [239736-super-sean-007.json](./239736-super-sean-007.json) |
+| Super Sean 008: Xelar's Revenge | 250831 | [250831-super-sean-008-xelars-revenge.json](./250831-super-sean-008-xelars-revenge.json) |
 | Super Seducer | 76397 | [76397-super-seducer.json](./76397-super-seducer.json) |
 | Super Seducer 2 | 103232 | [103232-super-seducer-2.json](./103232-super-seducer-2.json) |
 | Super Seeker | 111568 | [111568-super-seeker.json](./111568-super-seeker.json) |
