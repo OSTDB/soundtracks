@@ -2845,6 +2845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BattleTech: Flashpoint | 107258 | [107258-battletech-flashpoint.json](./107258-battletech-flashpoint.json) |
 | BattleTech: Heavy Metal | 155087 | [155087-battletech-heavy-metal.json](./155087-battletech-heavy-metal.json) |
 | BattleTech: The Crescent Hawks' Revenge | 19185 | [19185-battletech-the-crescent-hawks-revenge.json](./19185-battletech-the-crescent-hawks-revenge.json) |
+| Battlethorne | 272207 | [272207-battlethorne.json](./272207-battlethorne.json) |
 | Battlethorne: Reckoning | 370907 | [370907-battlethorne-reckoning.json](./370907-battlethorne-reckoning.json) |
 | BattleTime | 31886 | [31886-battletime.json](./31886-battletime.json) |
 | Battletoads | 262942 | [262942-battletoads.json](./262942-battletoads.json) |
@@ -5645,6 +5646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Shadow | 365197 | [365197-black-shadow.json](./365197-black-shadow.json) |
 | Black Sheep | 172703 | [172703-black-sheep.json](./172703-black-sheep.json) |
 | Black Sheep | 202262 | [202262-black-sheep.json](./202262-black-sheep.json) |
+| Black Sheep | 272215 | [272215-black-sheep.json](./272215-black-sheep.json) |
 | Black Sheep Town | 217805 | [217805-black-sheep-town.json](./217805-black-sheep-town.json) |
 | Black Sigil: Blade of the Exiled | 21124 | [21124-black-sigil-blade-of-the-exiled.json](./21124-black-sigil-blade-of-the-exiled.json) |
 | Black Sign | 145592 | [145592-black-sign.json](./145592-black-sign.json) |
@@ -10847,6 +10849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burgle Supply Company | 372804 | [372804-burgle-supply-company.json](./372804-burgle-supply-company.json) |
 | Burial Ground | 375554 | [375554-burial-ground.json](./375554-burial-ground.json) |
 | BuriBoard | 173256 | [173256-buriboard.json](./173256-buriboard.json) |
+| Buried | 272235 | [272235-buried.json](./272235-buried.json) |
 | Buried | 380046 | [380046-buried.json](./380046-buried.json) |
 | Buried Alive: Breathless Rescue | 258999 | [258999-buried-alive-breathless-rescue.json](./258999-buried-alive-breathless-rescue.json) |
 | Buried Beneath | 108849 | [108849-buried-beneath.json](./108849-buried-beneath.json) |
