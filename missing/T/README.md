@@ -916,6 +916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of the Unknown: Volume I - The Bard's Tale | 394228 | [394228-tales-of-the-unknown-volume-i-the-bards-tale.json](./394228-tales-of-the-unknown-volume-i-the-bards-tale.json) |
 | Tales of the Unknown: Volume I - The Bard's Tale | 394230 | [394230-tales-of-the-unknown-volume-i-the-bards-tale.json](./394230-tales-of-the-unknown-volume-i-the-bards-tale.json) |
 | Tales of the Unknown: Volume I - The Bard's Tale | 394234 | [394234-tales-of-the-unknown-volume-i-the-bards-tale.json](./394234-tales-of-the-unknown-volume-i-the-bards-tale.json) |
+| Tales of the Vagabond | 244676 | [244676-tales-of-the-vagabond.json](./244676-tales-of-the-vagabond.json) |
 | Tales of The White Knight | 320546 | [320546-tales-of-the-white-knight.json](./320546-tales-of-the-white-knight.json) |
 | Tales of the Withered | 358456 | [358456-tales-of-the-withered.json](./358456-tales-of-the-withered.json) |
 | Tales of the World: Dice Adventure | 294586 | [294586-tales-of-the-world-dice-adventure.json](./294586-tales-of-the-world-dice-adventure.json) |
@@ -16098,6 +16099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toon Skate: True Freedom Racing | 232577 | [232577-toon-skate-true-freedom-racing.json](./232577-toon-skate-true-freedom-racing.json) |
 | Toon Tanks | 84947 | [84947-toon-tanks.json](./84947-toon-tanks.json) |
 | Toon Team | 236337 | [236337-toon-team.json](./236337-toon-team.json) |
+| Toon Toon Racing | 244650 | [244650-toon-toon-racing.json](./244650-toon-toon-racing.json) |
 | Toon Troops Strategy | 307868 | [307868-toon-troops-strategy.json](./307868-toon-troops-strategy.json) |
 | Toon War | 86238 | [86238-toon-war.json](./86238-toon-war.json) |
 | Toon Wars: Tank Battles | 87898 | [87898-toon-wars-tank-battles.json](./87898-toon-wars-tank-battles.json) |
@@ -16338,6 +16340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toro! Let's Party! | 65566 | [65566-toro-lets-party.json](./65566-toro-lets-party.json) |
 | Toro's Story App: Heart Pounding Nya | 246074 | [246074-toros-story-app-heart-pounding-nya.json](./246074-toros-story-app-heart-pounding-nya.json) |
 | Toroa: Skycall | 204521 | [204521-toroa-skycall.json](./204521-toroa-skycall.json) |
+| Toroidal: Awaiting the Spring | 244699 | [244699-toroidal-awaiting-the-spring.json](./244699-toroidal-awaiting-the-spring.json) |
 | Torpedo Alley | 314417 | [314417-torpedo-alley.json](./314417-torpedo-alley.json) |
 | Torpedo Boat | 239648 | [239648-torpedo-boat.json](./239648-torpedo-boat.json) |
 | Torpedo Fire | 23998 | [23998-torpedo-fire.json](./23998-torpedo-fire.json) |
@@ -20632,6 +20635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twin Stick | 278345 | [278345-twin-stick.json](./278345-twin-stick.json) |
 | Twin Stick Heroes | 141875 | [141875-twin-stick-heroes.json](./141875-twin-stick-heroes.json) |
 | Twin Stick Tanks | 157075 | [157075-twin-stick-tanks.json](./157075-twin-stick-tanks.json) |
+| Twin Stick Tennis | 244689 | [244689-twin-stick-tennis.json](./244689-twin-stick-tennis.json) |
 | Twin Tornado | 363889 | [363889-twin-tornado.json](./363889-twin-tornado.json) |
 | Twin Trials | 357165 | [357165-twin-trials.json](./357165-twin-trials.json) |
 | Twin Turbo V8 | 13042 | [13042-twin-turbo-v8.json](./13042-twin-turbo-v8.json) |
@@ -20973,6 +20977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tyre Trax | 269057 | [269057-tyre-trax.json](./269057-tyre-trax.json) |
 | Tyrfing Cycle \|Vanilla\| | 90587 | [90587-tyrfing-cycle-vanilla.json](./90587-tyrfing-cycle-vanilla.json) |
 | Tyrian's Towers | 416657 | [416657-tyrians-towers.json](./416657-tyrians-towers.json) |
+| Tyrium | 244701 | [244701-tyrium.json](./244701-tyrium.json) |
 | Tyrofeud | 335239 | [335239-tyrofeud.json](./335239-tyrofeud.json) |
 | Tyrone Soulz | 264535 | [264535-tyrone-soulz.json](./264535-tyrone-soulz.json) |
 | Tyroom vs. Typing Gunner | 188499 | [188499-tyroom-vs-typing-gunner.json](./188499-tyroom-vs-typing-gunner.json) |
