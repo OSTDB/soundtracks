@@ -606,6 +606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jeff Wayne's The War of the Worlds | 129581 | [129581-jeff-waynes-the-war-of-the-worlds.json](./129581-jeff-waynes-the-war-of-the-worlds.json) |
 | Jeff Wayne's The War of the Worlds | 65238 | [65238-jeff-waynes-the-war-of-the-worlds.json](./65238-jeff-waynes-the-war-of-the-worlds.json) |
 | Jeff-16 | 150638 | [150638-jeff-16.json](./150638-jeff-16.json) |
+| Jeff: The Hungry Fish | 244675 | [244675-jeff-the-hungry-fish.json](./244675-jeff-the-hungry-fish.json) |
 | Jeff's No. 1 Bass Fishing | 215763 | [215763-jeffs-no-1-bass-fishing.json](./215763-jeffs-no-1-bass-fishing.json) |
 | Jeff's Shoot'Em Up | 42494 | [42494-jeffs-shootem-up.json](./42494-jeffs-shootem-up.json) |
 | JEFN | 256529 | [256529-jefn.json](./256529-jefn.json) |
