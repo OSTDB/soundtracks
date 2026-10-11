@@ -1685,6 +1685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tarisland | 254235 | [254235-tarisland.json](./254235-tarisland.json) |
 | Tarisland: Season 1 - Blight Dragon Elegy | 314403 | [314403-tarisland-season-1-blight-dragon-elegy.json](./314403-tarisland-season-1-blight-dragon-elegy.json) |
 | Tarkus and the Crystal of Fear | 122954 | [122954-tarkus-and-the-crystal-of-fear.json](./122954-tarkus-and-the-crystal-of-fear.json) |
+| Tarnished Blood | 250840 | [250840-tarnished-blood.json](./250840-tarnished-blood.json) |
 | Tarnsman's Projectile Hell | 262435 | [262435-tarnsmans-projectile-hell.json](./262435-tarnsmans-projectile-hell.json) |
 | Taro | 126637 | [126637-taro.json](./126637-taro.json) |
 | Taro Is Back | 415094 | [415094-taro-is-back.json](./415094-taro-is-back.json) |
@@ -4012,6 +4013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Battle for Murk | 102884 | [102884-the-battle-for-murk.json](./102884-the-battle-for-murk.json) |
 | The Battle for Sector 219 | 33184 | [33184-the-battle-for-sector-219.json](./33184-the-battle-for-sector-219.json) |
 | The Battle for the Hut | 99671 | [99671-the-battle-for-the-hut.json](./99671-the-battle-for-the-hut.json) |
+| The Battle for Vega | 250838 | [250838-the-battle-for-vega.json](./250838-the-battle-for-vega.json) |
 | The Battle of Angels | 156603 | [156603-the-battle-of-angels.json](./156603-the-battle-of-angels.json) |
 | The Battle of Aurinoxia | 304368 | [304368-the-battle-of-aurinoxia.json](./304368-the-battle-of-aurinoxia.json) |
 | The Battle of Embers | 287206 | [287206-the-battle-of-embers.json](./287206-the-battle-of-embers.json) |
@@ -6761,6 +6763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Homestead | 119567 | [119567-the-homestead.json](./119567-the-homestead.json) |
 | The Homestead Invasion | 81667 | [81667-the-homestead-invasion.json](./81667-the-homestead-invasion.json) |
 | The Honest Little Fisher | 383066 | [383066-the-honest-little-fisher.json](./383066-the-honest-little-fisher.json) |
+| The Honeypot Murders | 250850 | [250850-the-honeypot-murders.json](./250850-the-honeypot-murders.json) |
 | The Hong Kong Massacre | 27069 | [27069-the-hong-kong-massacre.json](./27069-the-hong-kong-massacre.json) |
 | The Honours Project | 368372 | [368372-the-honours-project.json](./368372-the-honours-project.json) |
 | The Hopebringer | 151114 | [151114-the-hopebringer.json](./151114-the-hopebringer.json) |
@@ -8894,6 +8897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mystery of the Crystal Portal | 88605 | [88605-the-mystery-of-the-crystal-portal.json](./88605-the-mystery-of-the-crystal-portal.json) |
 | The Mystery of the Crystal Portal: Beyond the Horizon | 140614 | [140614-the-mystery-of-the-crystal-portal-beyond-the-horizon.json](./140614-the-mystery-of-the-crystal-portal-beyond-the-horizon.json) |
 | The Mystery of the Mary Celeste | 206229 | [206229-the-mystery-of-the-mary-celeste.json](./206229-the-mystery-of-the-mary-celeste.json) |
+| The Mystery of the Moon | 250828 | [250828-the-mystery-of-the-moon.json](./250828-the-mystery-of-the-moon.json) |
 | The Mystery of the Nautilus | 73345 | [73345-the-mystery-of-the-nautilus.json](./73345-the-mystery-of-the-nautilus.json) |
 | The Mystery of the Planet Venus | 307619 | [307619-the-mystery-of-the-planet-venus.json](./307619-the-mystery-of-the-planet-venus.json) |
 | The Mystery of the Village's Sacred Tree | 273662 | [273662-the-mystery-of-the-villages-sacred-tree.json](./273662-the-mystery-of-the-villages-sacred-tree.json) |
@@ -9933,6 +9937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Royal Marines Commando | 9370 | [9370-the-royal-marines-commando.json](./9370-the-royal-marines-commando.json) |
 | The Royal Office of Magick Affairs | 315654 | [315654-the-royal-office-of-magick-affairs.json](./315654-the-royal-office-of-magick-affairs.json) |
 | The Royal Rebel Casino | 369365 | [369365-the-royal-rebel-casino.json](./369365-the-royal-rebel-casino.json) |
+| The RPG | 250819 | [250819-the-rpg.json](./250819-the-rpg.json) |
 | The Rub Rabbits! | 20488 | [20488-the-rub-rabbits.json](./20488-the-rub-rabbits.json) |
 | The Ruby Court | 298436 | [298436-the-ruby-court.json](./298436-the-ruby-court.json) |
 | The Rugrats Movie | 198879 | [198879-the-rugrats-movie.json](./198879-the-rugrats-movie.json) |
@@ -16407,6 +16412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total War: Elysium | 121439 | [121439-total-war-elysium.json](./121439-total-war-elysium.json) |
 | Total War: Medieval II | 197695 | [197695-total-war-medieval-ii.json](./197695-total-war-medieval-ii.json) |
 | Total War: New World | 356258 | [356258-total-war-new-world.json](./356258-total-war-new-world.json) |
+| Total War: Pharaoh - Deluxe Edition | 250854 | [250854-total-war-pharaoh-deluxe-edition.json](./250854-total-war-pharaoh-deluxe-edition.json) |
 | Total War: Pharaoh - Dynasty Edition | 250863 | [250863-total-war-pharaoh-dynasty-edition.json](./250863-total-war-pharaoh-dynasty-edition.json) |
 | Total War: Pharaoh Dynasties | 333730 | [333730-total-war-pharaoh-dynasties.json](./333730-total-war-pharaoh-dynasties.json) |
 | Total War: Rome II | 2359 | [2359-total-war-rome-ii.json](./2359-total-war-rome-ii.json) |
@@ -18900,6 +18906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasure Blast Quest | 398030 | [398030-treasure-blast-quest.json](./398030-treasure-blast-quest.json) |
 | Treasure Bolt | 81213 | [81213-treasure-bolt.json](./81213-treasure-bolt.json) |
 | Treasure Buster | 230217 | [230217-treasure-buster.json](./230217-treasure-buster.json) |
+| Treasure Chest Clicker | 250852 | [250852-treasure-chest-clicker.json](./250852-treasure-chest-clicker.json) |
 | Treasure Chest Corps: Fight Demons to Restore the Barrier | 118392 | [118392-treasure-chest-corps-fight-demons-to-restore-the-barrier.json](./118392-treasure-chest-corps-fight-demons-to-restore-the-barrier.json) |
 | Treasure Clicker | 398041 | [398041-treasure-clicker.json](./398041-treasure-clicker.json) |
 | Treasure Cove! + Treasure Mountain! | 93125 | [93125-treasure-cove-treasure-mountain.json](./93125-treasure-cove-treasure-mountain.json) |
