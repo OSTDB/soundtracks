@@ -1952,6 +1952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Untold Stories 9: Castlemania | 355146 | [355146-untold-stories-9-castlemania.json](./355146-untold-stories-9-castlemania.json) |
 | Untold Story | 311636 | [311636-untold-story.json](./311636-untold-story.json) |
 | Untold Tales Adventure & Story-Rich Bundle | 401783 | [401783-untold-tales-adventure-and-story-rich-bundle.json](./401783-untold-tales-adventure-and-story-rich-bundle.json) |
+| Untold Tales of Citadale: The Shadow Maker | 272228 | [272228-untold-tales-of-citadale-the-shadow-maker.json](./272228-untold-tales-of-citadale-the-shadow-maker.json) |
 | Untold Tales: A Scarlet Way | 312567 | [312567-untold-tales-a-scarlet-way.json](./312567-untold-tales-a-scarlet-way.json) |
 | Untouchable | 101594 | [101594-untouchable.json](./101594-untouchable.json) |
 | Untouchable | 195063 | [195063-untouchable.json](./195063-untouchable.json) |
