@@ -3761,6 +3761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winkeltje: The Little Shop | 114493 | [114493-winkeltje-the-little-shop.json](./114493-winkeltje-the-little-shop.json) |
 | Winky the Little Bear | 213857 | [213857-winky-the-little-bear.json](./213857-winky-the-little-bear.json) |
 | Winky Trap | 131582 | [131582-winky-trap.json](./131582-winky-trap.json) |
+| Winlinez | 246313 | [246313-winlinez.json](./246313-winlinez.json) |
 | Winner | 130946 | [130946-winner.json](./130946-winner.json) |
 | Winner In Life | 338363 | [338363-winner-in-life.json](./338363-winner-in-life.json) |
 | Winner IV | 170845 | [170845-winner-iv.json](./170845-winner-iv.json) |
