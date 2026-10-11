@@ -1027,6 +1027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper Nebula | 213445 | [213445-paper-nebula.json](./213445-paper-nebula.json) |
 | Paper Nomad: Master Edition | 311733 | [311733-paper-nomad-master-edition.json](./311733-paper-nomad-master-edition.json) |
 | Paper Pal | 305481 | [305481-paper-pal.json](./305481-paper-pal.json) |
+| Paper Perjury | 262865 | [262865-paper-perjury.json](./262865-paper-perjury.json) |
 | Paper Pilgrim | 140629 | [140629-paper-pilgrim.json](./140629-paper-pilgrim.json) |
 | Paper Pilot | 369706 | [369706-paper-pilot.json](./369706-paper-pilot.json) |
 | Paper Pinball | 65588 | [65588-paper-pinball.json](./65588-paper-pinball.json) |
@@ -3389,6 +3390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantom Zone: Talon Fictions | 210897 | [210897-phantom-zone-talon-fictions.json](./210897-phantom-zone-talon-fictions.json) |
 | Phantom: Covert Ops | 118872 | [118872-phantom-covert-ops.json](./118872-phantom-covert-ops.json) |
 | Phantom: Phantom of Inferno - Nitro Archive | 413191 | [413191-phantom-phantom-of-inferno-nitro-archive.json](./413191-phantom-phantom-of-inferno-nitro-archive.json) |
+| Phantom's Call | 262858 | [262858-phantoms-call.json](./262858-phantoms-call.json) |
 | Phantomas | 37029 | [37029-phantomas.json](./37029-phantomas.json) |
 | Phantomas 2 | 45344 | [45344-phantomas-2.json](./45344-phantomas-2.json) |
 | Phantomphobia: Yijie | 331945 | [331945-phantomphobia-yijie.json](./331945-phantomphobia-yijie.json) |
@@ -4993,6 +4995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Chess | 416592 | [416592-pixel-chess.json](./416592-pixel-chess.json) |
 | Pixel Chess Idle RPG | 414174 | [414174-pixel-chess-idle-rpg.json](./414174-pixel-chess-idle-rpg.json) |
 | Pixel Collector | 312165 | [312165-pixel-collector.json](./312165-pixel-collector.json) |
+| Pixel Colony | 262875 | [262875-pixel-colony.json](./262875-pixel-colony.json) |
 | Pixel Coloring Book Game | 106566 | [106566-pixel-coloring-book-game.json](./106566-pixel-coloring-book-game.json) |
 | Pixel Coloring Paint | 283262 | [283262-pixel-coloring-paint.json](./283262-pixel-coloring-paint.json) |
 | Pixel Combat | 149088 | [149088-pixel-combat.json](./149088-pixel-combat.json) |
