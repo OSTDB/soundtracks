@@ -1319,6 +1319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leafy Season | 330228 | [330228-leafy-season.json](./330228-leafy-season.json) |
 | Leafy Trails Collection | 294838 | [294838-leafy-trails-collection.json](./294838-leafy-trails-collection.json) |
 | Leafy Trails: Lost Soul | 265518 | [265518-leafy-trails-lost-soul.json](./265518-leafy-trails-lost-soul.json) |
+| Leafy Trails: Magic Tree | 264556 | [264556-leafy-trails-magic-tree.json](./264556-leafy-trails-magic-tree.json) |
 | League Bowling | 40206 | [40206-league-bowling.json](./40206-league-bowling.json) |
 | League Manager 2023 | 235696 | [235696-league-manager-2023.json](./235696-league-manager-2023.json) |
 | League of Abyss | 312573 | [312573-league-of-abyss.json](./312573-league-of-abyss.json) |
@@ -3510,6 +3511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liquid Metal: Alien Attack | 56565 | [56565-liquid-metal-alien-attack.json](./56565-liquid-metal-alien-attack.json) |
 | Liquid Pinball | 30357 | [30357-liquid-pinball.json](./30357-liquid-pinball.json) |
 | Liquid Space | 127078 | [127078-liquid-space.json](./127078-liquid-space.json) |
+| Liquid Space | 264554 | [264554-liquid-space.json](./264554-liquid-space.json) |
 | Liquid Sugar | 357193 | [357193-liquid-sugar.json](./357193-liquid-sugar.json) |
 | Liquid War | 51250 | [51250-liquid-war.json](./51250-liquid-war.json) |
 | Liquidation | 168703 | [168703-liquidation.json](./168703-liquidation.json) |
