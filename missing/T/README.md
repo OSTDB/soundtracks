@@ -3367,6 +3367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | That Crazy World | 71006 | [71006-that-crazy-world.json](./71006-that-crazy-world.json) |
 | That Dam Level | 59660 | [59660-that-dam-level.json](./59660-that-dam-level.json) |
 | That Dragon, Cancer | 15925 | [15925-that-dragon-cancer.json](./15925-that-dragon-cancer.json) |
+| That Endless Night: 1931 | 240259 | [240259-that-endless-night-1931.json](./240259-that-endless-night-1931.json) |
 | That Friday Again | 391720 | [391720-that-friday-again.json](./391720-that-friday-again.json) |
 | That Golf Game | 213358 | [213358-that-golf-game.json](./213358-that-golf-game.json) |
 | That Gravity Glow | 290120 | [290120-that-gravity-glow.json](./290120-that-gravity-glow.json) |
@@ -6381,6 +6382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Glued | 344878 | [344878-the-glued.json](./344878-the-glued.json) |
 | The Goalkeeper | 70946 | [70946-the-goalkeeper.json](./70946-the-goalkeeper.json) |
 | The Goatman | 104034 | [104034-the-goatman.json](./104034-the-goatman.json) |
+| The Goblin is Out | 240123 | [240123-the-goblin-is-out.json](./240123-the-goblin-is-out.json) |
 | The Goblin Tavern | 352912 | [352912-the-goblin-tavern.json](./352912-the-goblin-tavern.json) |
 | The Goblins are Coming | 246949 | [246949-the-goblins-are-coming.json](./246949-the-goblins-are-coming.json) |
 | The Goblinseekers | 269187 | [269187-the-goblinseekers.json](./269187-the-goblinseekers.json) |
@@ -12015,6 +12017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Whisper of the Abyss: Echo of Eden | 311256 | [311256-the-whisper-of-the-abyss-echo-of-eden.json](./311256-the-whisper-of-the-abyss-echo-of-eden.json) |
 | The Whisper Soul | 232966 | [232966-the-whisper-soul.json](./232966-the-whisper-soul.json) |
 | The Whispered World | 7145 | [7145-the-whispered-world.json](./7145-the-whispered-world.json) |
+| The Whisperer | 240127 | [240127-the-whisperer.json](./240127-the-whisperer.json) |
 | The Whisperer in Darkness | 33700 | [33700-the-whisperer-in-darkness.json](./33700-the-whisperer-in-darkness.json) |
 | The Whispering Bones | 389400 | [389400-the-whispering-bones.json](./389400-the-whispering-bones.json) |
 | The Whispering Woods | 335361 | [335361-the-whispering-woods.json](./335361-the-whispering-woods.json) |
@@ -14355,6 +14358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiles of Hope: Matching Games | 331373 | [331373-tiles-of-hope-matching-games.json](./331373-tiles-of-hope-matching-games.json) |
 | Tiles of War | 396027 | [396027-tiles-of-war.json](./396027-tiles-of-war.json) |
 | Tiles Shooter Puzzle Cube | 128315 | [128315-tiles-shooter-puzzle-cube.json](./128315-tiles-shooter-puzzle-cube.json) |
+| Tiles Town | 240118 | [240118-tiles-town.json](./240118-tiles-town.json) |
 | Tilescapes | 350518 | [350518-tilescapes.json](./350518-tilescapes.json) |
 | Tileshire | 413042 | [413042-tileshire.json](./413042-tileshire.json) |
 | Tilesweeper | 104139 | [104139-tilesweeper.json](./104139-tilesweeper.json) |
