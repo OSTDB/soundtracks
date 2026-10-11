@@ -1812,6 +1812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scavenger | 74443 | [74443-scavenger.json](./74443-scavenger.json) |
 | Scavenger | 92066 | [92066-scavenger.json](./92066-scavenger.json) |
 | Scavenger Hunt: Italy | 257327 | [257327-scavenger-hunt-italy.json](./257327-scavenger-hunt-italy.json) |
+| Scavenger Hunt: Switzerland | 253256 | [253256-scavenger-hunt-switzerland.json](./253256-scavenger-hunt-switzerland.json) |
 | Scavenger Skirmish: Mortal World | 105372 | [105372-scavenger-skirmish-mortal-world.json](./105372-scavenger-skirmish-mortal-world.json) |
 | Scavenger SV-4 | 82347 | [82347-scavenger-sv-4.json](./82347-scavenger-sv-4.json) |
 | Scavenger T.O.M | 365179 | [365179-scavenger-t-o-m.json](./365179-scavenger-t-o-m.json) |
@@ -5747,6 +5748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shooting Gallery for Playdate | 230786 | [230786-shooting-gallery-for-playdate.json](./230786-shooting-gallery-for-playdate.json) |
 | Shooting Gallery Mayhem | 117516 | [117516-shooting-gallery-mayhem.json](./117516-shooting-gallery-mayhem.json) |
 | Shooting Game Kari | 211718 | [211718-shooting-game-kari.json](./211718-shooting-game-kari.json) |
+| Shooting Genius | 253280 | [253280-shooting-genius.json](./253280-shooting-genius.json) |
 | Shooting girl | 201669 | [201669-shooting-girl.json](./201669-shooting-girl.json) |
 | Shooting Hunter Terrorist | 103155 | [103155-shooting-hunter-terrorist.json](./103155-shooting-hunter-terrorist.json) |
 | Shooting King | 105518 | [105518-shooting-king.json](./105518-shooting-king.json) |
