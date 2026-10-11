@@ -1324,6 +1324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paranoia | 165050 | [165050-paranoia.json](./165050-paranoia.json) |
 | Paranoia 2: Savior | 123592 | [123592-paranoia-2-savior.json](./123592-paranoia-2-savior.json) |
 | Paranoia: Happiness is Mandatory | 117313 | [117313-paranoia-happiness-is-mandatory.json](./117313-paranoia-happiness-is-mandatory.json) |
+| Paranoia: The Game Edition | 255574 | [255574-paranoia-the-game-edition.json](./255574-paranoia-the-game-edition.json) |
 | Paranoia: The Official Video Game | 90105 | [90105-paranoia-the-official-video-game.json](./90105-paranoia-the-official-video-game.json) |
 | Paranoiak | 208326 | [208326-paranoiak.json](./208326-paranoiak.json) |
 | Paranoid | 111861 | [111861-paranoid.json](./111861-paranoid.json) |
@@ -2354,6 +2355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pearl Rising | 314054 | [314054-pearl-rising.json](./314054-pearl-rising.json) |
 | Pearl's Peril | 86803 | [86803-pearls-peril.json](./86803-pearls-peril.json) |
 | Pearlessential | 337732 | [337732-pearlessential.json](./337732-pearlessential.json) |
+| Pearlglow Cafe: Sweet Crumb Kisses | 255571 | [255571-pearlglow-cafe-sweet-crumb-kisses.json](./255571-pearlglow-cafe-sweet-crumb-kisses.json) |
 | Pearls | 246501 | [246501-pearls.json](./246501-pearls.json) |
 | Pearls of the Oceans | 164974 | [164974-pearls-of-the-oceans.json](./164974-pearls-of-the-oceans.json) |
 | Pearls of Wisdom | 384267 | [384267-pearls-of-wisdom.json](./384267-pearls-of-wisdom.json) |
@@ -4177,6 +4179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pill Fight | 345017 | [345017-pill-fight.json](./345017-pill-fight.json) |
 | Pill Mania | 101074 | [101074-pill-mania.json](./101074-pill-mania.json) |
 | Pill Puzzle | 156080 | [156080-pill-puzzle.json](./156080-pill-puzzle.json) |
+| Pilla's Paradise | 255573 | [255573-pillas-paradise.json](./255573-pillas-paradise.json) |
 | Pillaged Village: Humbled by Savages | 315133 | [315133-pillaged-village-humbled-by-savages.json](./315133-pillaged-village-humbled-by-savages.json) |
 | Pillar of Gods | 337077 | [337077-pillar-of-gods.json](./337077-pillar-of-gods.json) |
 | Pillar of Salt | 361729 | [361729-pillar-of-salt.json](./361729-pillar-of-salt.json) |
@@ -4547,6 +4550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinewood Derby | 209961 | [209961-pinewood-derby.json](./209961-pinewood-derby.json) |
 | Pinewood Island | 69388 | [69388-pinewood-island.json](./69388-pinewood-island.json) |
 | Pinewood Valley | 239719 | [239719-pinewood-valley.json](./239719-pinewood-valley.json) |
+| Pinfall | 255615 | [255615-pinfall.json](./255615-pinfall.json) |
 | Pinfinity: Incremental Pinball | 405086 | [405086-pinfinity-incremental-pinball.json](./405086-pinfinity-incremental-pinball.json) |
 | Ping | 267965 | [267965-ping.json](./267965-ping.json) |
 | Ping | 307600 | [307600-ping.json](./307600-ping.json) |
