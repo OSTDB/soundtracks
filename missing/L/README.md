@@ -3852,6 +3852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Robot Stories | 149588 | [149588-little-robot-stories.json](./149588-little-robot-stories.json) |
 | Little Rock, MI | 203379 | [203379-little-rock-mi.json](./203379-little-rock-mi.json) |
 | Little Rocket Girl | 62250 | [62250-little-rocket-girl.json](./62250-little-rocket-girl.json) |
+| Little Rocketman | 263420 | [263420-little-rocketman.json](./263420-little-rocketman.json) |
 | Little Rooms | 341173 | [341173-little-rooms.json](./341173-little-rooms.json) |
 | Little Runmo | 275803 | [275803-little-runmo.json](./275803-little-runmo.json) |
 | Little Samson | 375604 | [375604-little-samson.json](./375604-little-samson.json) |
