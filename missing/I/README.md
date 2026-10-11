@@ -1323,6 +1323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ikusaaaaaaan! | 151697 | [151697-ikusaaaaaaan.json](./151697-ikusaaaaaaan.json) |
 | Ikuzo | 253923 | [253923-ikuzo.json](./253923-ikuzo.json) |
 | Il | 159732 | [159732-il.json](./159732-il.json) |
+| Il Destino R | 257278 | [257278-il-destino-r.json](./257278-il-destino-r.json) |
 | Il Divino: Michelangelo's Sistine Ceiling in VR | 130925 | [130925-il-divino-michelangelos-sistine-ceiling-in-vr.json](./130925-il-divino-michelangelos-sistine-ceiling-in-vr.json) |
 | Il Dule | 396201 | [396201-il-dule.json](./396201-il-dule.json) |
 | Il Filo Conduttore | 134699 | [134699-il-filo-conduttore.json](./134699-il-filo-conduttore.json) |
