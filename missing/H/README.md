@@ -1777,6 +1777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hawked: Master of Realities Expansion Pass | 332020 | [332020-hawked-master-of-realities-expansion-pass.json](./332020-hawked-master-of-realities-expansion-pass.json) |
 | Hawked: Realities Expansion Pass | 332021 | [332021-hawked-realities-expansion-pass.json](./332021-hawked-realities-expansion-pass.json) |
 | Hawked: Ruby Raider Pack | 278667 | [278667-hawked-ruby-raider-pack.json](./278667-hawked-ruby-raider-pack.json) |
+| Hawken Reborn | 249704 | [249704-hawken-reborn.json](./249704-hawken-reborn.json) |
 | Hawken Skate Boarder | 321781 | [321781-hawken-skate-boarder.json](./321781-hawken-skate-boarder.json) |
 | Hawkquest | 77373 | [77373-hawkquest.json](./77373-hawkquest.json) |
 | Hawks of Bruyland | 329961 | [329961-hawks-of-bruyland.json](./329961-hawks-of-bruyland.json) |
@@ -2426,6 +2427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Helicops | 78924 | [78924-helicops.json](./78924-helicops.json) |
 | Helicopter | 312256 | [312256-helicopter.json](./312256-helicopter.json) |
 | Helicopter 2015: Natural Disasters | 53184 | [53184-helicopter-2015-natural-disasters.json](./53184-helicopter-2015-natural-disasters.json) |
+| Helicopter Escape 3D | 249679 | [249679-helicopter-escape-3d.json](./249679-helicopter-escape-3d.json) |
 | Helicopter Flight Simulator | 319980 | [319980-helicopter-flight-simulator.json](./319980-helicopter-flight-simulator.json) |
 | Helicopter Gunship DEX | 208606 | [208606-helicopter-gunship-dex.json](./208606-helicopter-gunship-dex.json) |
 | Helicopter Mission | 73853 | [73853-helicopter-mission.json](./73853-helicopter-mission.json) |
