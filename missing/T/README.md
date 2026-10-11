@@ -5815,6 +5815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fairly OddParents: Clash With the Anti-World | 18256 | [18256-the-fairly-oddparents-clash-with-the-anti-world.json](./18256-the-fairly-oddparents-clash-with-the-anti-world.json) |
 | The Fairly OddParents: Enter the Cleft | 18257 | [18257-the-fairly-oddparents-enter-the-cleft.json](./18257-the-fairly-oddparents-enter-the-cleft.json) |
 | The Fairly OddParents: Fairies of Fury | 325004 | [325004-the-fairly-oddparents-fairies-of-fury.json](./325004-the-fairly-oddparents-fairies-of-fury.json) |
+| The Fairly OddParents: Shadow Showdown | 248497 | [248497-the-fairly-oddparents-shadow-showdown.json](./248497-the-fairly-oddparents-shadow-showdown.json) |
 | The Fairly OddParents: Shadow Showdown | 332836 | [332836-the-fairly-oddparents-shadow-showdown.json](./332836-the-fairly-oddparents-shadow-showdown.json) |
 | The Fairway Club | 264572 | [264572-the-fairway-club.json](./264572-the-fairway-club.json) |
 | The Fairy's Song | 140405 | [140405-the-fairys-song.json](./140405-the-fairys-song.json) |
@@ -6535,6 +6536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Grey Dream | 260325 | [260325-the-grey-dream.json](./260325-the-grey-dream.json) |
 | The Grid | 407546 | [407546-the-grid.json](./407546-the-grid.json) |
 | The Griffon Legend | 202975 | [202975-the-griffon-legend.json](./202975-the-griffon-legend.json) |
+| The Grim Adventures of Billy & Mandy | 248521 | [248521-the-grim-adventures-of-billy-and-mandy.json](./248521-the-grim-adventures-of-billy-and-mandy.json) |
 | The Grim and I | 120837 | [120837-the-grim-and-i.json](./120837-the-grim-and-i.json) |
 | The Grim Ending | 148919 | [148919-the-grim-ending.json](./148919-the-grim-ending.json) |
 | The Grim Nightmare of Nibras | 207792 | [207792-the-grim-nightmare-of-nibras.json](./207792-the-grim-nightmare-of-nibras.json) |
@@ -6997,6 +6999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Incredibles | 3782 | [3782-the-incredibles.json](./3782-the-incredibles.json) |
 | The Incredibles: Jack-Jack's Escape | 264251 | [264251-the-incredibles-jack-jacks-escape.json](./264251-the-incredibles-jack-jacks-escape.json) |
 | The Incredibles: Mission Incredible | 213375 | [213375-the-incredibles-mission-incredible.json](./213375-the-incredibles-mission-incredible.json) |
+| The Incredibles: Rise of the Underminer | 248549 | [248549-the-incredibles-rise-of-the-underminer.json](./248549-the-incredibles-rise-of-the-underminer.json) |
 | The Incredibles: Rise of the Underminer | 3955 | [3955-the-incredibles-rise-of-the-underminer.json](./3955-the-incredibles-rise-of-the-underminer.json) |
 | The Incredibles: When Danger Calls | 18261 | [18261-the-incredibles-when-danger-calls.json](./18261-the-incredibles-when-danger-calls.json) |
 | The Indespensible T_DUNNxx.WAD Series : For Heretic | 268625 | [268625-the-indespensible-t-dunnxx-wad-series-for-heretic.json](./268625-the-indespensible-t-dunnxx-wad-series-for-heretic.json) |
@@ -7916,6 +7919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Sky Stones | 307951 | [307951-the-legend-of-sky-stones.json](./307951-the-legend-of-sky-stones.json) |
 | The Legend of Snow Maiden | 298598 | [298598-the-legend-of-snow-maiden.json](./298598-the-legend-of-snow-maiden.json) |
 | The Legend of Spyro: A New Beginning | 206652 | [206652-the-legend-of-spyro-a-new-beginning.json](./206652-the-legend-of-spyro-a-new-beginning.json) |
+| The Legend of Spyro: A New Beginning | 248520 | [248520-the-legend-of-spyro-a-new-beginning.json](./248520-the-legend-of-spyro-a-new-beginning.json) |
 | The Legend of Spyro: A New Beginning | 300392 | [300392-the-legend-of-spyro-a-new-beginning.json](./300392-the-legend-of-spyro-a-new-beginning.json) |
 | The Legend of Spyro: Dawn of the Dragon | 299540 | [299540-the-legend-of-spyro-dawn-of-the-dragon.json](./299540-the-legend-of-spyro-dawn-of-the-dragon.json) |
 | The Legend of Spyro: The Eternal Night | 300393 | [300393-the-legend-of-spyro-the-eternal-night.json](./300393-the-legend-of-spyro-the-eternal-night.json) |
@@ -15103,6 +15107,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tlicolity Eyes: Twinkle Showtime | 240522 | [240522-tlicolity-eyes-twinkle-showtime.json](./240522-tlicolity-eyes-twinkle-showtime.json) |
 | TLO: Casmita | 253817 | [253817-tlo-casmita.json](./253817-tlo-casmita.json) |
 | TMNT | 146283 | [146283-tmnt.json](./146283-tmnt.json) |
+| TMNT | 248512 | [248512-tmnt.json](./248512-tmnt.json) |
+| TMNT | 248513 | [248513-tmnt.json](./248513-tmnt.json) |
 | TMNT | 3817 | [3817-tmnt.json](./3817-tmnt.json) |
 | TMNT: Mutant Melee | 4201 | [4201-tmnt-mutant-melee.json](./4201-tmnt-mutant-melee.json) |
 | TMNT: Ninja Adventures | 64469 | [64469-tmnt-ninja-adventures.json](./64469-tmnt-ninja-adventures.json) |
@@ -15820,6 +15826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomb Raider: Hashep Oasis | 328588 | [328588-tomb-raider-hashep-oasis.json](./328588-tomb-raider-hashep-oasis.json) |
 | Tomb Raider: Legacy of Atlantis | 381235 | [381235-tomb-raider-legacy-of-atlantis.json](./381235-tomb-raider-legacy-of-atlantis.json) |
 | Tomb Raider: Legend | 146717 | [146717-tomb-raider-legend.json](./146717-tomb-raider-legend.json) |
+| Tomb Raider: Legend | 248536 | [248536-tomb-raider-legend.json](./248536-tomb-raider-legend.json) |
 | Tomb Raider: Legend | 305560 | [305560-tomb-raider-legend.json](./305560-tomb-raider-legend.json) |
 | Tomb Raider: Lost and Found | 408978 | [408978-tomb-raider-lost-and-found.json](./408978-tomb-raider-lost-and-found.json) |
 | Tomb Raider: Shanty Town | 172133 | [172133-tomb-raider-shanty-town.json](./172133-tomb-raider-shanty-town.json) |
@@ -20849,6 +20856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ty the Tasmanian Tiger 2: Bush Rescue | 210497 | [210497-ty-the-tasmanian-tiger-2-bush-rescue.json](./210497-ty-the-tasmanian-tiger-2-bush-rescue.json) |
 | TY the Tasmanian Tiger 2: Bush Rescue HD | 147845 | [147845-ty-the-tasmanian-tiger-2-bush-rescue-hd.json](./147845-ty-the-tasmanian-tiger-2-bush-rescue-hd.json) |
 | Ty the Tasmanian Tiger 3: Night of the Quinkan | 1324 | [1324-ty-the-tasmanian-tiger-3-night-of-the-quinkan.json](./1324-ty-the-tasmanian-tiger-3-night-of-the-quinkan.json) |
+| Ty the Tasmanian Tiger 3: Night of the Quinkan | 248505 | [248505-ty-the-tasmanian-tiger-3-night-of-the-quinkan.json](./248505-ty-the-tasmanian-tiger-3-night-of-the-quinkan.json) |
 | TY the Tasmanian Tiger 4 | 12876 | [12876-ty-the-tasmanian-tiger-4.json](./12876-ty-the-tasmanian-tiger-4.json) |
 | TY the Tasmanian Tiger 4: Bush Rescue Returns | 264559 | [264559-ty-the-tasmanian-tiger-4-bush-rescue-returns.json](./264559-ty-the-tasmanian-tiger-4-bush-rescue-returns.json) |
 | Ty the Tasmanian Tiger 4: Gunyip! | 307671 | [307671-ty-the-tasmanian-tiger-4-gunyip.json](./307671-ty-the-tasmanian-tiger-4-gunyip.json) |
