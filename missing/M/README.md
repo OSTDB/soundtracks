@@ -3106,6 +3106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mask Two Two | 198378 | [198378-mask-two-two.json](./198378-mask-two-two.json) |
 | Mask Two Two | 40937 | [40937-mask-two-two.json](./40937-mask-two-two.json) |
 | Mask: Beyond Lies | 255988 | [255988-mask-beyond-lies.json](./255988-mask-beyond-lies.json) |
+| Maska | 270592 | [270592-maska.json](./270592-maska.json) |
 | Maskarable | 315108 | [315108-maskarable.json](./315108-maskarable.json) |
 | Masked | 120940 | [120940-masked.json](./120940-masked.json) |
 | Masked and Mysterious | 75196 | [75196-masked-and-mysterious.json](./75196-masked-and-mysterious.json) |
@@ -5923,6 +5924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meta Form | 198485 | [198485-meta-form.json](./198485-meta-form.json) |
 | Meta Fox | 39689 | [39689-meta-fox.json](./39689-meta-fox.json) |
 | Meta Knightmare Ultra | 271411 | [271411-meta-knightmare-ultra.json](./271411-meta-knightmare-ultra.json) |
+| Meta Lordz | 270594 | [270594-meta-lordz.json](./270594-meta-lordz.json) |
 | Meta Match | 302199 | [302199-meta-match.json](./302199-meta-match.json) |
 | Meta Nanos: Rumble Race | 263521 | [263521-meta-nanos-rumble-race.json](./263521-meta-nanos-rumble-race.json) |
 | Meta Pong | 304823 | [304823-meta-pong.json](./304823-meta-pong.json) |
@@ -10245,6 +10247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moondrop | 185019 | [185019-moondrop.json](./185019-moondrop.json) |
 | Moondusk Masquerade | 334499 | [334499-moondusk-masquerade.json](./334499-moondusk-masquerade.json) |
 | Moondust: Knuckles Tech Demos | 127835 | [127835-moondust-knuckles-tech-demos.json](./127835-moondust-knuckles-tech-demos.json) |
+| Moonfall | 270603 | [270603-moonfall.json](./270603-moonfall.json) |
 | Moonfall Voyage | 264052 | [264052-moonfall-voyage.json](./264052-moonfall-voyage.json) |
 | MoonFall: Butterfly Lovers | 190099 | [190099-moonfall-butterfly-lovers.json](./190099-moonfall-butterfly-lovers.json) |
 | Moonfang | 175751 | [175751-moonfang.json](./175751-moonfang.json) |
@@ -12798,6 +12801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Little Friend Chibi | 391738 | [391738-my-little-friend-chibi.json](./391738-my-little-friend-chibi.json) |
 | My Little Fruit Juice Booth | 153820 | [153820-my-little-fruit-juice-booth.json](./153820-my-little-fruit-juice-booth.json) |
 | My Little Garden | 261528 | [261528-my-little-garden.json](./261528-my-little-garden.json) |
+| My Little Guessy | 270618 | [270618-my-little-guessy.json](./270618-my-little-guessy.json) |
 | My Little Haven | 381800 | [381800-my-little-haven.json](./381800-my-little-haven.json) |
 | My Little Helper: Spring Cleaning | 146117 | [146117-my-little-helper-spring-cleaning.json](./146117-my-little-helper-spring-cleaning.json) |
 | My Little Kitties | 20759 | [20759-my-little-kitties.json](./20759-my-little-kitties.json) |
