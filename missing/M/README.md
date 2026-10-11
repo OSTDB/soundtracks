@@ -1774,6 +1774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mana Khemia: Alchemists of Al-Revis - Premium Edition | 43308 | [43308-mana-khemia-alchemists-of-al-revis-premium-edition.json](./43308-mana-khemia-alchemists-of-al-revis-premium-edition.json) |
 | Mana Land | 369063 | [369063-mana-land.json](./369063-mana-land.json) |
 | Mana Monsters | 321504 | [321504-mana-monsters.json](./321504-mana-monsters.json) |
+| Mana Quest | 272201 | [272201-mana-quest.json](./272201-mana-quest.json) |
 | Mana Sisters | 255261 | [255261-mana-sisters.json](./255261-mana-sisters.json) |
 | Mana Smack | 346542 | [346542-mana-smack.json](./346542-mana-smack.json) |
 | Mana Spark | 50745 | [50745-mana-spark.json](./50745-mana-spark.json) |
@@ -8842,6 +8843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mo The Moai | 335378 | [335378-mo-the-moai.json](./335378-mo-the-moai.json) |
 | Mó Xiān Cǎihóng Qiú | 359473 | [359473-mo-xian-caihong-qiu.json](./359473-mo-xian-caihong-qiu.json) |
 | Mó Xiān Duì Duì Pèng | 359472 | [359472-mo-xian-dui-dui-peng.json](./359472-mo-xian-dui-dui-peng.json) |
+| Mo.co | 272187 | [272187-mo-co.json](./272187-mo-co.json) |
 | Moadra | 190169 | [190169-moadra.json](./190169-moadra.json) |
 | Moai 3: Trade Mission | 58646 | [58646-moai-3-trade-mission.json](./58646-moai-3-trade-mission.json) |
 | Moai 3: Trade Mission - Collector's Edition | 33654 | [33654-moai-3-trade-mission-collectors-edition.json](./33654-moai-3-trade-mission-collectors-edition.json) |
