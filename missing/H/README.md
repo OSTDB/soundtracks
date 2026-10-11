@@ -2485,6 +2485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell Frontier | 319652 | [319652-hell-frontier.json](./319652-hell-frontier.json) |
 | Hell Froze Over | 342151 | [342151-hell-froze-over.json](./342151-hell-froze-over.json) |
 | Hell Galaxy | 277918 | [277918-hell-galaxy.json](./277918-hell-galaxy.json) |
+| Hell Games | 272760 | [272760-hell-games.json](./272760-hell-games.json) |
 | Hell Green Blue | 203842 | [203842-hell-green-blue.json](./203842-hell-green-blue.json) |
 | Hell Grocery | 219826 | [219826-hell-grocery.json](./219826-hell-grocery.json) |
 | Hell Ground | 256827 | [256827-hell-ground.json](./256827-hell-ground.json) |
@@ -3687,6 +3688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes Chronicles: The Sword of Frost | 8140 | [8140-heroes-chronicles-the-sword-of-frost.json](./8140-heroes-chronicles-the-sword-of-frost.json) |
 | Heroes Chronicles: Warlords of the Wasteland | 7845 | [7845-heroes-chronicles-warlords-of-the-wasteland.json](./7845-heroes-chronicles-warlords-of-the-wasteland.json) |
 | Heroes Clash | 226778 | [226778-heroes-clash.json](./226778-heroes-clash.json) |
+| Heroes de Peronia | 272761 | [272761-heroes-de-peronia.json](./272761-heroes-de-peronia.json) |
 | Heroes For Hire | 295559 | [295559-heroes-for-hire.json](./295559-heroes-for-hire.json) |
 | Heroes Forces | 126990 | [126990-heroes-forces.json](./126990-heroes-forces.json) |
 | Heroes Guard: The Journal | 200041 | [200041-heroes-guard-the-journal.json](./200041-heroes-guard-the-journal.json) |
@@ -7839,6 +7841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HyperParasite | 101257 | [101257-hyperparasite.json](./101257-hyperparasite.json) |
 | HyperPop | 298664 | [298664-hyperpop.json](./298664-hyperpop.json) |
 | HyperPortals | 195712 | [195712-hyperportals.json](./195712-hyperportals.json) |
+| Hyperrail Detective | 272762 | [272762-hyperrail-detective.json](./272762-hyperrail-detective.json) |
 | Hyperscale | 410398 | [410398-hyperscale.json](./410398-hyperscale.json) |
 | Hypership Out of Control | 35659 | [35659-hypership-out-of-control.json](./35659-hypership-out-of-control.json) |
 | HyperShot | 142704 | [142704-hypershot.json](./142704-hypershot.json) |
