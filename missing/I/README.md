@@ -2883,6 +2883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inside | 266747 | [266747-inside.json](./266747-inside.json) |
 | Inside | 80481 | [80481-inside.json](./80481-inside.json) |
 | Inside a Dead Skyscraper | 316687 | [316687-inside-a-dead-skyscraper.json](./316687-inside-a-dead-skyscraper.json) |
+| Inside a Dungeon | 244661 | [244661-inside-a-dungeon.json](./244661-inside-a-dungeon.json) |
 | Inside Darkness | 396703 | [396703-inside-darkness.json](./396703-inside-darkness.json) |
 | Inside Depth 6 | 144581 | [144581-inside-depth-6.json](./144581-inside-depth-6.json) |
 | Inside Explorer | 148966 | [148966-inside-explorer.json](./148966-inside-explorer.json) |
@@ -2972,6 +2973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | InstaDoom WAD Of The Year Edition | 217803 | [217803-instadoom-wad-of-the-year-edition.json](./217803-instadoom-wad-of-the-year-edition.json) |
 | Install Fee Tycoon | 269006 | [269006-install-fee-tycoon.json](./269006-install-fee-tycoon.json) |
 | Install Wizard | 147353 | [147353-install-wizard.json](./147353-install-wizard.json) |
+| Instance Destroy | 244663 | [244663-instance-destroy.json](./244663-instance-destroy.json) |
 | Instant Anastasia | 356833 | [356833-instant-anastasia.json](./356833-instant-anastasia.json) |
 | Instant Armory | 303587 | [303587-instant-armory.json](./303587-instant-armory.json) |
 | Instant Family Fun Bundle | 406801 | [406801-instant-family-fun-bundle.json](./406801-instant-family-fun-bundle.json) |
@@ -4234,6 +4236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Item Frenzy | 328516 | [328516-item-frenzy.json](./328516-item-frenzy.json) |
 | Item Shop Simulator | 406226 | [406226-item-shop-simulator.json](./406226-item-shop-simulator.json) |
 | Item Synthesis and Dungeon Exploration | 196124 | [196124-item-synthesis-and-dungeon-exploration.json](./196124-item-synthesis-and-dungeon-exploration.json) |
+| ItemDay | 244659 | [244659-itemday.json](./244659-itemday.json) |
 | Iter | 398493 | [398493-iter.json](./398493-iter.json) |
 | Iter-8 | 316071 | [316071-iter-8.json](./316071-iter-8.json) |
 | Iteration Factor | 154573 | [154573-iteration-factor.json](./154573-iteration-factor.json) |
