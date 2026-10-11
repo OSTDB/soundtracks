@@ -2692,6 +2692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Crimson OX | 40106 | [40106-death-crimson-ox.json](./40106-death-crimson-ox.json) |
 | Death Crown | 90270 | [90270-death-crown.json](./90270-death-crown.json) |
 | Death Crown: Era of Human | 171920 | [171920-death-crown-era-of-human.json](./171920-death-crown-era-of-human.json) |
+| Death Crown: Immortal Edition | 262890 | [262890-death-crown-immortal-edition.json](./262890-death-crown-immortal-edition.json) |
 | Death Cube | 199096 | [199096-death-cube.json](./199096-death-cube.json) |
 | Death Damnation | 192253 | [192253-death-damnation.json](./192253-death-damnation.json) |
 | Death Dealers | 137403 | [137403-death-dealers.json](./137403-death-dealers.json) |
@@ -4411,6 +4412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desktop Aquarium | 348834 | [348834-desktop-aquarium.json](./348834-desktop-aquarium.json) |
 | Desktop Baseball | 119525 | [119525-desktop-baseball.json](./119525-desktop-baseball.json) |
 | Desktop Basketball | 147851 | [147851-desktop-basketball.json](./147851-desktop-basketball.json) |
+| Desktop Basketball 2 | 262880 | [262880-desktop-basketball-2.json](./262880-desktop-basketball-2.json) |
 | Desktop Blocks | 368549 | [368549-desktop-blocks.json](./368549-desktop-blocks.json) |
 | Desktop Bouncer | 416030 | [416030-desktop-bouncer.json](./416030-desktop-bouncer.json) |
 | Desktop Cat Cafe | 330383 | [330383-desktop-cat-cafe.json](./330383-desktop-cat-cafe.json) |
@@ -6015,6 +6017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dirt Bike Extreme | 87160 | [87160-dirt-bike-extreme.json](./87160-dirt-bike-extreme.json) |
 | Dirt Bike Extreme 3D | 330237 | [330237-dirt-bike-extreme-3d.json](./330237-dirt-bike-extreme-3d.json) |
 | Dirt Bike Motocross Stunts | 387009 | [387009-dirt-bike-motocross-stunts.json](./387009-dirt-bike-motocross-stunts.json) |
+| Dirt Bike Racer Simulator | 262848 | [262848-dirt-bike-racer-simulator.json](./262848-dirt-bike-racer-simulator.json) |
 | Dirt Bike Retro | 147637 | [147637-dirt-bike-retro.json](./147637-dirt-bike-retro.json) |
 | Dirt Dash | 39827 | [39827-dirt-dash.json](./39827-dirt-dash.json) |
 | Dirt Fox | 364396 | [364396-dirt-fox.json](./364396-dirt-fox.json) |
@@ -11106,6 +11109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Hunter Survival | 240881 | [240881-dungeon-hunter-survival.json](./240881-dungeon-hunter-survival.json) |
 | Dungeon Hunter: Alliance | 21140 | [21140-dungeon-hunter-alliance.json](./21140-dungeon-hunter-alliance.json) |
 | Dungeon in a Bottle | 222353 | [222353-dungeon-in-a-bottle.json](./222353-dungeon-in-a-bottle.json) |
+| Dungeon Inn | 262882 | [262882-dungeon-inn.json](./262882-dungeon-inn.json) |
 | Dungeon Island | 137550 | [137550-dungeon-island.json](./137550-dungeon-island.json) |
 | Dungeon Janitor | 345605 | [345605-dungeon-janitor.json](./345605-dungeon-janitor.json) |
 | Dungeon Janitor | 345607 | [345607-dungeon-janitor.json](./345607-dungeon-janitor.json) |
