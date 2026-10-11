@@ -1880,6 +1880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Online Circle Pong | 75000 | [75000-online-circle-pong.json](./75000-online-circle-pong.json) |
 | Online FNAF | 271388 | [271388-online-fnaf.json](./271388-online-fnaf.json) |
 | Online Mouse Maze Game | 366344 | [366344-online-mouse-maze-game.json](./366344-online-mouse-maze-game.json) |
+| Online Obsession | 268969 | [268969-online-obsession.json](./268969-online-obsession.json) |
 | Online Open World RPG | 234078 | [234078-online-open-world-rpg.json](./234078-online-open-world-rpg.json) |
 | Online Retro Tennis | 156702 | [156702-online-retro-tennis.json](./156702-online-retro-tennis.json) |
 | Online Simulator | 119698 | [119698-online-simulator.json](./119698-online-simulator.json) |
