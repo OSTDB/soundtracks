@@ -5624,6 +5624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DigitalDNA Zombies | 83197 | [83197-digitaldna-zombies.json](./83197-digitaldna-zombies.json) |
 | Digitalink | 344989 | [344989-digitalink.json](./344989-digitalink.json) |
 | Digitalter | 285019 | [285019-digitalter.json](./285019-digitalter.json) |
+| Digitris | 267866 | [267866-digitris.json](./267866-digitris.json) |
 | Digits | 245928 | [245928-digits.json](./245928-digits.json) |
 | Digits Jigsaw Puzzle - Numbers and Operations | 100749 | [100749-digits-jigsaw-puzzle-numbers-and-operations.json](./100749-digits-jigsaw-puzzle-numbers-and-operations.json) |
 | Digitwars - The Grigits | 101766 | [101766-digitwars-the-grigits.json](./101766-digitwars-the-grigits.json) |
