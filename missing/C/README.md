@@ -29,6 +29,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | C.A.S.T | 327463 | [327463-c-a-s-t.json](./327463-c-a-s-t.json) |
 | C.A.T.: Cyber Attack Team | 5762 | [5762-c-a-t-cyber-attack-team.json](./5762-c-a-t-cyber-attack-team.json) |
 | C.A.T.S.: Carefully Attempting Not to Screw Up | 120743 | [120743-c-a-t-s-carefully-attempting-not-to-screw-up.json](./120743-c-a-t-s-carefully-attempting-not-to-screw-up.json) |
+| C.B.T | 249075 | [249075-c-b-t.json](./249075-c-b-t.json) |
 | C.E.O. | 19793 | [19793-c-e-o.json](./19793-c-e-o.json) |
 | C.H.A.O.S Tournament | 117726 | [117726-c-h-a-o-s-tournament.json](./117726-c-h-a-o-s-tournament.json) |
 | C.I.E.B The Backrooms Project | 265402 | [265402-c-i-e-b-the-backrooms-project.json](./265402-c-i-e-b-the-backrooms-project.json) |
@@ -671,6 +672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Campido | 111756 | [111756-campido.json](./111756-campido.json) |
 | Camping Builder | 192838 | [192838-camping-builder.json](./192838-camping-builder.json) |
 | Camping Mama: Outdoor Adventures | 47942 | [47942-camping-mama-outdoor-adventures.json](./47942-camping-mama-outdoor-adventures.json) |
+| Camping Park Simulator | 249079 | [249079-camping-park-simulator.json](./249079-camping-park-simulator.json) |
 | Camping Simulator: The Squad | 150072 | [150072-camping-simulator-the-squad.json](./150072-camping-simulator-the-squad.json) |
 | Camping Tycoon | 62979 | [62979-camping-tycoon.json](./62979-camping-tycoon.json) |
 | Camping Vlog Simulator 2024 | 275544 | [275544-camping-vlog-simulator-2024.json](./275544-camping-vlog-simulator-2024.json) |
@@ -3124,6 +3126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cell to Singularity | 112925 | [112925-cell-to-singularity.json](./112925-cell-to-singularity.json) |
 | Cell to Singularity: Evolution | 259562 | [259562-cell-to-singularity-evolution.json](./259562-cell-to-singularity-evolution.json) |
 | Cell Tune | 134618 | [134618-cell-tune.json](./134618-cell-tune.json) |
+| Cell Wars | 249077 | [249077-cell-wars.json](./249077-cell-wars.json) |
 | Cell: Idle Factory Incremental | 248150 | [248150-cell-idle-factory-incremental.json](./248150-cell-idle-factory-incremental.json) |
 | Cellar | 188520 | [188520-cellar.json](./188520-cellar.json) |
 | Cellar | 33323 | [33323-cellar.json](./33323-cellar.json) |
@@ -6397,6 +6400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clone Hero: Guitar Hero Tracklist | 294143 | [294143-clone-hero-guitar-hero-tracklist.json](./294143-clone-hero-guitar-hero-tracklist.json) |
 | Clone-A-Doodle-Doo | 357350 | [357350-clone-a-doodle-doo.json](./357350-clone-a-doodle-doo.json) |
 | Clones Run | 322999 | [322999-clones-run.json](./322999-clones-run.json) |
+| CloneZWars | 249089 | [249089-clonezwars.json](./249089-clonezwars.json) |
 | Cloning Chaos | 302489 | [302489-cloning-chaos.json](./302489-cloning-chaos.json) |
 | Clonizer | 257887 | [257887-clonizer.json](./257887-clonizer.json) |
 | Clonk | 94332 | [94332-clonk.json](./94332-clonk.json) |
@@ -12579,6 +12583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Taxi Simulator | 284948 | [284948-cyber-taxi-simulator.json](./284948-cyber-taxi-simulator.json) |
 | Cyber Tetris | 213986 | [213986-cyber-tetris.json](./213986-cyber-tetris.json) |
 | Cyber Theater | 218153 | [218153-cyber-theater.json](./218153-cyber-theater.json) |
+| Cyber Tiger | 249117 | [249117-cyber-tiger.json](./249117-cyber-tiger.json) |
 | Cyber Tiger | 3431 | [3431-cyber-tiger.json](./3431-cyber-tiger.json) |
 | Cyber Tile | 297082 | [297082-cyber-tile.json](./297082-cyber-tile.json) |
 | Cyber Tower | 267098 | [267098-cyber-tower.json](./267098-cyber-tower.json) |
