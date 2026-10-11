@@ -675,6 +675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallen Kingdom: A Mario PC Port Retake | 298277 | [298277-fallen-kingdom-a-mario-pc-port-retake.json](./298277-fallen-kingdom-a-mario-pc-port-retake.json) |
 | Fallen Knight: Rise of the Fallen | 367514 | [367514-fallen-knight-rise-of-the-fallen.json](./367514-fallen-knight-rise-of-the-fallen.json) |
 | Fallen Leaf | 141083 | [141083-fallen-leaf.json](./141083-fallen-leaf.json) |
+| Fallen Leaves | 257294 | [257294-fallen-leaves.json](./257294-fallen-leaves.json) |
 | Fallen Leaves | 57504 | [57504-fallen-leaves.json](./57504-fallen-leaves.json) |
 | Fallen Legion Revenants | 135342 | [135342-fallen-legion-revenants.json](./135342-fallen-legion-revenants.json) |
 | Fallen Legion Revenants: Vanguard Edition | 139961 | [139961-fallen-legion-revenants-vanguard-edition.json](./139961-fallen-legion-revenants-vanguard-edition.json) |
@@ -8706,6 +8707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Future War Tactics: SOF vs. Alien Invasion - Turn-based Strategy | 348829 | [348829-future-war-tactics-sof-vs-alien-invasion-turn-based-strategy.json](./348829-future-war-tactics-sof-vs-alien-invasion-turn-based-strategy.json) |
 | Future War: Reborn | 78061 | [78061-future-war-reborn.json](./78061-future-war-reborn.json) |
 | Future Wars | 2478 | [2478-future-wars.json](./2478-future-wars.json) |
+| Future Weapon | 257271 | [257271-future-weapon.json](./257271-future-weapon.json) |
 | Future Zero | 378172 | [378172-future-zero.json](./378172-future-zero.json) |
 | Future? No Thanks! | 358273 | [358273-future-no-thanks.json](./358273-future-no-thanks.json) |
 | Futurejam | 89661 | [89661-futurejam.json](./89661-futurejam.json) |
