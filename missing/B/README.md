@@ -2479,6 +2479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle of Guang | 358489 | [358489-battle-of-guang.json](./358489-battle-of-guang.json) |
 | Battle of Guardians | 238646 | [238646-battle-of-guardians.json](./238646-battle-of-guardians.json) |
 | Battle of Heroes 3 | 196877 | [196877-battle-of-heroes-3.json](./196877-battle-of-heroes-3.json) |
+| Battle of Hořice 1423 | 240716 | [240716-battle-of-horice-1423.json](./240716-battle-of-horice-1423.json) |
 | Battle of Hoth | 339851 | [339851-battle-of-hoth.json](./339851-battle-of-hoth.json) |
 | Battle of Keys | 90152 | [90152-battle-of-keys.json](./90152-battle-of-keys.json) |
 | Battle of Kingdom | 7772 | [7772-battle-of-kingdom.json](./7772-battle-of-kingdom.json) |
@@ -3115,6 +3116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beamdog Ultimate Collector's Pack | 136374 | [136374-beamdog-ultimate-collectors-pack.json](./136374-beamdog-ultimate-collectors-pack.json) |
 | Beamdown | 338198 | [338198-beamdown.json](./338198-beamdown.json) |
 | Beaming | 406150 | [406150-beaming.json](./406150-beaming.json) |
+| Beaming Stingray | 240820 | [240820-beaming-stingray.json](./240820-beaming-stingray.json) |
 | BeamStruggle | 367616 | [367616-beamstruggle.json](./367616-beamstruggle.json) |
 | Bean | 311237 | [311237-bean.json](./311237-bean.json) |
 | Bean | 370205 | [370205-bean.json](./370205-bean.json) |
@@ -7027,6 +7029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloodseed: The Last Helsing | 361286 | [361286-bloodseed-the-last-helsing.json](./361286-bloodseed-the-last-helsing.json) |
 | BloodShade | 394209 | [394209-bloodshade.json](./394209-bloodshade.json) |
 | Bloodshed | 317982 | [317982-bloodshed.json](./317982-bloodshed.json) |
+| Bloodshell: Conviction | 240684 | [240684-bloodshell-conviction.json](./240684-bloodshell-conviction.json) |
 | Bloodshore | 177056 | [177056-bloodshore.json](./177056-bloodshore.json) |
 | Bloodshot | 398969 | [398969-bloodshot.json](./398969-bloodshot.json) |
 | Bloodshots | 277436 | [277436-bloodshots.json](./277436-bloodshots.json) |
