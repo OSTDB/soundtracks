@@ -960,6 +960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Jewelry | 48670 | [48670-magical-jewelry.json](./48670-magical-jewelry.json) |
 | Magical Kids Doropie | 48333 | [48333-magical-kids-doropie.json](./48333-magical-kids-doropie.json) |
 | Magical Literary Heroine Natsuki Saves The Literature Club! | 334273 | [334273-magical-literary-heroine-natsuki-saves-the-literature-club.json](./334273-magical-literary-heroine-natsuki-saves-the-literature-club.json) |
+| Magical Magic World | 250261 | [250261-magical-magic-world.json](./250261-magical-magic-world.json) |
 | Magical Makeover | 139311 | [139311-magical-makeover.json](./139311-magical-makeover.json) |
 | Magical Manifest | 382546 | [382546-magical-manifest.json](./382546-magical-manifest.json) |
 | Magical Merge: Fairy Adventure | 309501 | [309501-magical-merge-fairy-adventure.json](./309501-magical-merge-fairy-adventure.json) |
@@ -4060,6 +4061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MazM: The Phantom of the Opera | 125865 | [125865-mazm-the-phantom-of-the-opera.json](./125865-mazm-the-phantom-of-the-opera.json) |
 | Mazovian Adventure | 128961 | [128961-mazovian-adventure.json](./128961-mazovian-adventure.json) |
 | Mazy | 385576 | [385576-mazy.json](./385576-mazy.json) |
+| MazyMazes | 250267 | [250267-mazymazes.json](./250267-mazymazes.json) |
 | Mazzle Christmas | 329040 | [329040-mazzle-christmas.json](./329040-mazzle-christmas.json) |
 | Mbembe Radio | 300988 | [300988-mbembe-radio.json](./300988-mbembe-radio.json) |
 | MBOS | 315509 | [315509-mbos.json](./315509-mbos.json) |
@@ -5628,6 +5630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Men of War: Assault Squad 2 - Ostfront Veteranen | 168217 | [168217-men-of-war-assault-squad-2-ostfront-veteranen.json](./168217-men-of-war-assault-squad-2-ostfront-veteranen.json) |
 | Men of War: Condemned Heroes | 10546 | [10546-men-of-war-condemned-heroes.json](./10546-men-of-war-condemned-heroes.json) |
 | Men of War: Vietnam | 9855 | [9855-men-of-war-vietnam.json](./9855-men-of-war-vietnam.json) |
+| Men on the Flying Trapeze | 250217 | [250217-men-on-the-flying-trapeze.json](./250217-men-on-the-flying-trapeze.json) |
 | Men's Room Mayhem | 52590 | [52590-mens-room-mayhem.json](./52590-mens-room-mayhem.json) |
 | Menace | 262664 | [262664-menace.json](./262664-menace.json) |
 | Menace | 8064 | [8064-menace.json](./8064-menace.json) |
@@ -9771,6 +9774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Feeder | 344917 | [344917-monster-feeder.json](./344917-monster-feeder.json) |
 | Monster Fight | 196665 | [196665-monster-fight.json](./196665-monster-fight.json) |
 | Monster Fighter | 199360 | [199360-monster-fighter.json](./199360-monster-fighter.json) |
+| Monster Fishing | 250249 | [250249-monster-fishing.json](./250249-monster-fishing.json) |
 | Monster Fishing 2018 | 102766 | [102766-monster-fishing-2018.json](./102766-monster-fishing-2018.json) |
 | Monster Fishing Legends | 108277 | [108277-monster-fishing-legends.json](./108277-monster-fishing-legends.json) |
 | Monster Fishing: Fishing Life RPG | 233510 | [233510-monster-fishing-fishing-life-rpg.json](./233510-monster-fishing-fishing-life-rpg.json) |
