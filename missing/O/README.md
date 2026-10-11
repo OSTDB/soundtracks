@@ -2111,6 +2111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Open Sorcery | 27444 | [27444-open-sorcery.json](./27444-open-sorcery.json) |
 | Open Source Objects: The Game | 361751 | [361751-open-source-objects-the-game.json](./361751-open-source-objects-the-game.json) |
 | Open Space Collection | 196306 | [196306-open-space-collection.json](./196306-open-space-collection.json) |
+| Open Spaces SE | 245763 | [245763-open-spaces-se.json](./245763-open-spaces-se.json) |
 | Open Star Fighter | 339288 | [339288-open-star-fighter.json](./339288-open-star-fighter.json) |
 | Open Starbound | 354644 | [354644-open-starbound.json](./354644-open-starbound.json) |
 | Open Surge | 230243 | [230243-open-surge.json](./230243-open-surge.json) |
