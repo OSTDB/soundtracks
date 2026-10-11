@@ -13,6 +13,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Aventura Máxica de Merliño | 362969 | [362969-a-aventura-maxica-de-merlino.json](./362969-a-aventura-maxica-de-merlino.json) |
 | A Baby CEO?! | 391884 | [391884-a-baby-ceo.json](./391884-a-baby-ceo.json) |
 | A Bad Clicker | 337787 | [337787-a-bad-clicker.json](./337787-a-bad-clicker.json) |
+| A Balloon Game | 266127 | [266127-a-balloon-game.json](./266127-a-balloon-game.json) |
 | A Bark in the Dark | 225289 | [225289-a-bark-in-the-dark.json](./225289-a-bark-in-the-dark.json) |
 | A Bear's Night Out | 124606 | [124606-a-bears-night-out.json](./124606-a-bears-night-out.json) |
 | A Beautiful Ride to Carlisle | 184911 | [184911-a-beautiful-ride-to-carlisle.json](./184911-a-beautiful-ride-to-carlisle.json) |
@@ -27,6 +28,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Bibelot: Prototo | 314676 | [314676-a-bibelot-prototo.json](./314676-a-bibelot-prototo.json) |
 | A Bibelot: Y-Break | 332593 | [332593-a-bibelot-y-break.json](./332593-a-bibelot-y-break.json) |
 | A Bibelot: Y-Type | 324951 | [324951-a-bibelot-y-type.json](./324951-a-bibelot-y-type.json) |
+| A Bike Ride to the Creek | 266135 | [266135-a-bike-ride-to-the-creek.json](./266135-a-bike-ride-to-the-creek.json) |
 | A Bird's Tale | 207242 | [207242-a-birds-tale.json](./207242-a-birds-tale.json) |
 | A Birthday Present | 254033 | [254033-a-birthday-present.json](./254033-a-birthday-present.json) |
 | A Bit of Light | 179020 | [179020-a-bit-of-light.json](./179020-a-bit-of-light.json) |
@@ -2277,6 +2279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aerobat | 18199 | [18199-aerobat.json](./18199-aerobat.json) |
 | Aerobots | 120425 | [120425-aerobots.json](./120425-aerobots.json) |
 | Aerocraft | 134973 | [134973-aerocraft.json](./134973-aerocraft.json) |
+| Aerodangle | 266123 | [266123-aerodangle.json](./266123-aerodangle.json) |
 | Aerofly FS 1 Flight Simulator | 28220 | [28220-aerofly-fs-1-flight-simulator.json](./28220-aerofly-fs-1-flight-simulator.json) |
 | Aerofly FS 2 Flight Simulator: Just Flight - Cessna 152 | 162744 | [162744-aerofly-fs-2-flight-simulator-just-flight-cessna-152.json](./162744-aerofly-fs-2-flight-simulator-just-flight-cessna-152.json) |
 | Aerofly FS 2 Flight Simulator: Just Flight - Duchess | 162742 | [162742-aerofly-fs-2-flight-simulator-just-flight-duchess.json](./162742-aerofly-fs-2-flight-simulator-just-flight-duchess.json) |
@@ -3474,6 +3477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aknadach | 391056 | [391056-aknadach.json](./391056-aknadach.json) |
 | Akogare 2 | 328074 | [328074-akogare-2.json](./328074-akogare-2.json) |
 | Akogare no Onna Joushi ga Shin'ya no Office de Onatteru Tokoro o Mite kara Hajimaru Himitsu no Kankei. | 230237 | [230237-akogare-no-onna-joushi-ga-shinya-no-office-de-onatteru-tokoro-o-mite-kara-hajimaru-himitsu-no-kankei.json](./230237-akogare-no-onna-joushi-ga-shinya-no-office-de-onatteru-tokoro-o-mite-kara-hajimaru-himitsu-no-kankei.json) |
+| Akpala | 266122 | [266122-akpala.json](./266122-akpala.json) |
 | Akron | 306990 | [306990-akron.json](./306990-akron.json) |
 | Aksun | 330327 | [330327-aksun.json](./330327-aksun.json) |
 | Akte Europa | 19584 | [19584-akte-europa.json](./19584-akte-europa.json) |
@@ -7263,6 +7267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ArachnoSplat | 126406 | [126406-arachnosplat.json](./126406-arachnosplat.json) |
 | Aracnidium | 193462 | [193462-aracnidium.json](./193462-aracnidium.json) |
 | Aracore Astromining Ventures | 337661 | [337661-aracore-astromining-ventures.json](./337661-aracore-astromining-ventures.json) |
+| Aradena: Battlegrounds | 266121 | [266121-aradena-battlegrounds.json](./266121-aradena-battlegrounds.json) |
 | Arae: Requiem of a Lonely Spirit | 133784 | [133784-arae-requiem-of-a-lonely-spirit.json](./133784-arae-requiem-of-a-lonely-spirit.json) |
 | Arafinn Kontor | 203850 | [203850-arafinn-kontor.json](./203850-arafinn-kontor.json) |
 | Aragami | 18853 | [18853-aragami.json](./18853-aragami.json) |
@@ -8121,6 +8126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arevan | 34906 | [34906-arevan.json](./34906-arevan.json) |
 | Arevoatl seven coins | 102921 | [102921-arevoatl-seven-coins.json](./102921-arevoatl-seven-coins.json) |
 | Arex | 55886 | [55886-arex.json](./55886-arex.json) |
+| Argamasa | 266133 | [266133-argamasa.json](./266133-argamasa.json) |
 | Argebe | 333513 | [333513-argebe.json](./333513-argebe.json) |
 | Argentum Forever | 337051 | [337051-argentum-forever.json](./337051-argentum-forever.json) |
 | Argentum Online | 176876 | [176876-argentum-online.json](./176876-argentum-online.json) |
@@ -9347,6 +9353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assetto Corsa Competizione: American Track Pack | 208627 | [208627-assetto-corsa-competizione-american-track-pack.json](./208627-assetto-corsa-competizione-american-track-pack.json) |
 | Assetto Corsa Competizione: British GT Pack | 168371 | [168371-assetto-corsa-competizione-british-gt-pack.json](./168371-assetto-corsa-competizione-british-gt-pack.json) |
 | Assetto Corsa Competizione: GT Racing Game Bundle | 288862 | [288862-assetto-corsa-competizione-gt-racing-game-bundle.json](./288862-assetto-corsa-competizione-gt-racing-game-bundle.json) |
+| Assetto Corsa EVO | 266155 | [266155-assetto-corsa-evo.json](./266155-assetto-corsa-evo.json) |
 | Assetto Corsa Mobile | 174267 | [174267-assetto-corsa-mobile.json](./174267-assetto-corsa-mobile.json) |
 | Assetto Corsa: Dream Pack 1 | 168900 | [168900-assetto-corsa-dream-pack-1.json](./168900-assetto-corsa-dream-pack-1.json) |
 | Assetto Corsa: Dream Pack 2 | 168899 | [168899-assetto-corsa-dream-pack-2.json](./168899-assetto-corsa-dream-pack-2.json) |
@@ -9494,6 +9501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asteroids Recharged: Pro Arcade Edition | 350549 | [350549-asteroids-recharged-pro-arcade-edition.json](./350549-asteroids-recharged-pro-arcade-edition.json) |
 | Asteroids RX | 178987 | [178987-asteroids-rx.json](./178987-asteroids-rx.json) |
 | Asteroids Space Shooter | 178631 | [178631-asteroids-space-shooter.json](./178631-asteroids-space-shooter.json) |
+| Asteroids Star Fields | 266112 | [266112-asteroids-star-fields.json](./266112-asteroids-star-fields.json) |
 | Asteroids, Inc. | 175839 | [175839-asteroids-inc.json](./175839-asteroids-inc.json) |
 | Asteroids: Evolved | 329634 | [329634-asteroids-evolved.json](./329634-asteroids-evolved.json) |
 | Asteroids: Gunner | 64402 | [64402-asteroids-gunner.json](./64402-asteroids-gunner.json) |
@@ -10856,6 +10864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Awankening. | 397083 | [397083-awankening.json](./397083-awankening.json) |
 | Awara | 244395 | [244395-awara.json](./244395-awara.json) |
 | Award Winners: Platinum Edition | 115782 | [115782-award-winners-platinum-edition.json](./115782-award-winners-platinum-edition.json) |
+| Award Winning Game Pack | 266160 | [266160-award-winning-game-pack.json](./266160-award-winning-game-pack.json) |
 | Awarded Platformer Bundle | 273336 | [273336-awarded-platformer-bundle.json](./273336-awarded-platformer-bundle.json) |
 | Aware | 395142 | [395142-aware.json](./395142-aware.json) |
 | Awareness | 244880 | [244880-awareness.json](./244880-awareness.json) |
