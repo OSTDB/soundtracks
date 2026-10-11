@@ -319,6 +319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Dating: Harem in Space Station | 292635 | [292635-galactic-dating-harem-in-space-station.json](./292635-galactic-dating-harem-in-space-station.json) |
 | Galactic Deck Clash | 373680 | [373680-galactic-deck-clash.json](./373680-galactic-deck-clash.json) |
 | Galactic Defender | 261338 | [261338-galactic-defender.json](./261338-galactic-defender.json) |
+| Galactic Defenders | 263392 | [263392-galactic-defenders.json](./263392-galactic-defenders.json) |
 | Galactic Dominion | 107858 | [107858-galactic-dominion.json](./107858-galactic-dominion.json) |
 | Galactic Dream: Rage of War | 1031 | [1031-galactic-dream-rage-of-war.json](./1031-galactic-dream-rage-of-war.json) |
 | Galactic Driver | 88209 | [88209-galactic-driver.json](./88209-galactic-driver.json) |
@@ -967,6 +968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gamma Collexion | 80129 | [80129-gamma-collexion.json](./80129-gamma-collexion.json) |
 | Gamma Force in Pit of a Thousand Screams | 59854 | [59854-gamma-force-in-pit-of-a-thousand-screams.json](./59854-gamma-force-in-pit-of-a-thousand-screams.json) |
 | Gamma Goblins | 59664 | [59664-gamma-goblins.json](./59664-gamma-goblins.json) |
+| Gamma Labs | 263413 | [263413-gamma-labs.json](./263413-gamma-labs.json) |
 | Gamma Nocturne 1 | 211698 | [211698-gamma-nocturne-1.json](./211698-gamma-nocturne-1.json) |
 | Gamma Protocol | 285592 | [285592-gamma-protocol.json](./285592-gamma-protocol.json) |
 | Gamma-Attack | 40667 | [40667-gamma-attack.json](./40667-gamma-attack.json) |
@@ -4412,6 +4414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gordon Ramsay Dash | 58306 | [58306-gordon-ramsay-dash.json](./58306-gordon-ramsay-dash.json) |
 | Gordost' Ulypa: VR-legendy Chuvashii | 368897 | [368897-gordost-ulypa-vr-legendy-chuvashii.json](./368897-gordost-ulypa-vr-legendy-chuvashii.json) |
 | Gordy | 356584 | [356584-gordy.json](./356584-gordy.json) |
+| Gore | 263419 | [263419-gore.json](./263419-gore.json) |
 | Gore | 371991 | [371991-gore.json](./371991-gore.json) |
 | Gore Crush | 323728 | [323728-gore-crush.json](./323728-gore-crush.json) |
 | Gore: Ultimate Soldier | 46969 | [46969-gore-ultimate-soldier.json](./46969-gore-ultimate-soldier.json) |
