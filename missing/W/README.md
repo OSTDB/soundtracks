@@ -361,6 +361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Walpurgisnacht | 252086 | [252086-walpurgisnacht.json](./252086-walpurgisnacht.json) |
 | Walrus Fly | 406690 | [406690-walrus-fly.json](./406690-walrus-fly.json) |
 | Walrus Run | 292436 | [292436-walrus-run.json](./292436-walrus-run.json) |
+| Walstikski | 241262 | [241262-walstikski.json](./241262-walstikski.json) |
 | Walt Disney World Quest: Magical Racing Tour | 8129 | [8129-walt-disney-world-quest-magical-racing-tour.json](./8129-walt-disney-world-quest-magical-racing-tour.json) |
 | Walt Disney's Snow White and the Seven Dwarfs | 59938 | [59938-walt-disneys-snow-white-and-the-seven-dwarfs.json](./59938-walt-disneys-snow-white-and-the-seven-dwarfs.json) |
 | Walt Disney's Snow White and the Seven Dwarves | 198896 | [198896-walt-disneys-snow-white-and-the-seven-dwarves.json](./198896-walt-disneys-snow-white-and-the-seven-dwarves.json) |
@@ -3938,6 +3939,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wipeout Fusion | 1541 | [1541-wipeout-fusion.json](./1541-wipeout-fusion.json) |
 | Wipeout In the Zone | 20166 | [20166-wipeout-in-the-zone.json](./20166-wipeout-in-the-zone.json) |
 | Wipeout Pure | 1542 | [1542-wipeout-pure.json](./1542-wipeout-pure.json) |
+| Wipeout Pure: Classic Pack | 241254 | [241254-wipeout-pure-classic-pack.json](./241254-wipeout-pure-classic-pack.json) |
+| Wipeout Pure: Delta Pack | 241253 | [241253-wipeout-pure-delta-pack.json](./241253-wipeout-pure-delta-pack.json) |
+| Wipeout Pure: Gamma Pack | 241252 | [241252-wipeout-pure-gamma-pack.json](./241252-wipeout-pure-gamma-pack.json) |
 | Wipeout XL | 1538 | [1538-wipeout-xl.json](./1538-wipeout-xl.json) |
 | WipeOuters | 203917 | [203917-wipeouters.json](./203917-wipeouters.json) |
 | Wiper | 312020 | [312020-wiper.json](./312020-wiper.json) |
@@ -4254,6 +4258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizard of Wings | 309550 | [309550-wizard-of-wings.json](./309550-wizard-of-wings.json) |
 | Wizard of Wor | 282083 | [282083-wizard-of-wor.json](./282083-wizard-of-wor.json) |
 | Wizard of Wor | 282084 | [282084-wizard-of-wor.json](./282084-wizard-of-wor.json) |
+| Wizard of Wyndmoor | 241261 | [241261-wizard-of-wyndmoor.json](./241261-wizard-of-wyndmoor.json) |
 | Wizard Pinball | 19753 | [19753-wizard-pinball.json](./19753-wizard-pinball.json) |
 | Wizard Pool | 386287 | [386287-wizard-pool.json](./386287-wizard-pool.json) |
 | Wizard Pulse | 304573 | [304573-wizard-pulse.json](./304573-wizard-pulse.json) |
