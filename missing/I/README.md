@@ -3629,6 +3629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Irmão Grande & Brasileiro 2 | 163461 | [163461-irmao-grande-and-brasileiro-2.json](./163461-irmao-grande-and-brasileiro-2.json) |
 | Iroase no Hate ni | 284601 | [284601-iroase-no-hate-ni.json](./284601-iroase-no-hate-ni.json) |
 | Irochi Mikke! | 276464 | [276464-irochi-mikke.json](./276464-irochi-mikke.json) |
+| Iromaze Ink Shop | 250244 | [250244-iromaze-ink-shop.json](./250244-iromaze-ink-shop.json) |
 | Iron & Blood: Warriors of Ravenloft | 20608 | [20608-iron-and-blood-warriors-of-ravenloft.json](./20608-iron-and-blood-warriors-of-ravenloft.json) |
 | Iron & Ivory | 401037 | [401037-iron-and-ivory.json](./401037-iron-and-ivory.json) |
 | Iron & Rust: Complete Edition | 183985 | [183985-iron-and-rust-complete-edition.json](./183985-iron-and-rust-complete-edition.json) |
