@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-11T16:55:13.934Z",
-  "total_soundtracks": 1458,
+  "generated_at": "2026-10-11T17:30:14.542Z",
+  "total_soundtracks": 1459,
   "games": [
     {
       "igdb_id": 7522,
@@ -13359,6 +13359,20 @@
           "spotify_url": "https://music.apple.com/us/album/street-fighter-v-arcade-edition-original-soundtrack/1341577409?uo=4",
           "apple_music_url": null,
           "album_link_url": "https://album.link/i/1341577409"
+        }
+      ]
+    },
+    {
+      "igdb_id": 965,
+      "game_name": "Stronghold",
+      "game_url": "https://ostdb.net/games/stronghold",
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/49/97/83/499783f4-1694-7d30-ea1b-883c95988ec8/artwork.jpg/600x600bb.jpg",
+      "albums": [
+        {
+          "album_name": "Stronghold (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2FHAI9AvSlX3aUzPXPGLIz",
+          "apple_music_url": "https://music.apple.com/us/album/stronghold-original-game-soundtrack/1188232615",
+          "album_link_url": "https://album.link/i/1188232615"
         }
       ]
     },
