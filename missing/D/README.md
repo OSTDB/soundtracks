@@ -648,6 +648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Danger Girl | 45226 | [45226-danger-girl.json](./45226-danger-girl.json) |
 | Danger Horizon | 329178 | [329178-danger-horizon.json](./329178-danger-horizon.json) |
 | Danger in Body | 247982 | [247982-danger-in-body.json](./247982-danger-in-body.json) |
+| Danger is Near | 247923 | [247923-danger-is-near.json](./247923-danger-is-near.json) |
 | Danger Mouse in Double Trouble | 13569 | [13569-danger-mouse-in-double-trouble.json](./13569-danger-mouse-in-double-trouble.json) |
 | Danger Mouse in Making Whoopee! | 13570 | [13570-danger-mouse-in-making-whoopee.json](./13570-danger-mouse-in-making-whoopee.json) |
 | Danger Mouse: The Danger Games | 85557 | [85557-danger-mouse-the-danger-games.json](./85557-danger-mouse-the-danger-games.json) |
@@ -1611,6 +1612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dating 4 Girls | 400931 | [400931-dating-4-girls.json](./400931-dating-4-girls.json) |
 | Dating after becoming Vtuber | 276682 | [276682-dating-after-becoming-vtuber.json](./276682-dating-after-becoming-vtuber.json) |
 | Dating and Dragons: A Love Quest | 351272 | [351272-dating-and-dragons-a-love-quest.json](./351272-dating-and-dragons-a-love-quest.json) |
+| Dating Izzie | 247925 | [247925-dating-izzie.json](./247925-dating-izzie.json) |
 | Dating Maze | 401694 | [401694-dating-maze.json](./401694-dating-maze.json) |
 | Dating My High School Bully | 205817 | [205817-dating-my-high-school-bully.json](./205817-dating-my-high-school-bully.json) |
 | Dating of the Future | 349276 | [349276-dating-of-the-future.json](./349276-dating-of-the-future.json) |
@@ -3083,6 +3085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Declan Moses | 418761 | [418761-declan-moses.json](./418761-declan-moses.json) |
 | Decline | 326202 | [326202-decline.json](./326202-decline.json) |
 | Decline | 406895 | [406895-decline.json](./406895-decline.json) |
+| Deco Deck | 247929 | [247929-deco-deck.json](./247929-deco-deck.json) |
 | Deco: Block Simulator | 151661 | [151661-deco-block-simulator.json](./151661-deco-block-simulator.json) |
 | Decodence | 351568 | [351568-decodence.json](./351568-decodence.json) |
 | Decoherence | 97966 | [97966-decoherence.json](./97966-decoherence.json) |
@@ -11552,6 +11555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dunkle Manöver | 92851 | [92851-dunkle-manover.json](./92851-dunkle-manover.json) |
 | Dunkle Schatten 3: Tod in der Südkurve | 124684 | [124684-dunkle-schatten-3-tod-in-der-sudkurve.json](./124684-dunkle-schatten-3-tod-in-der-sudkurve.json) |
 | Dunkypung | 113637 | [113637-dunkypung.json](./113637-dunkypung.json) |
+| Dunland: Survivors Story | 247953 | [247953-dunland-survivors-story.json](./247953-dunland-survivors-story.json) |
 | Dunlight: Random Defense | 248157 | [248157-dunlight-random-defense.json](./248157-dunlight-random-defense.json) |
 | Dunnigan's Trail | 154009 | [154009-dunnigans-trail.json](./154009-dunnigans-trail.json) |
 | Dunrog | 124203 | [124203-dunrog.json](./124203-dunrog.json) |
