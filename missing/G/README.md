@@ -6087,6 +6087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guard of Wonderland VR | 88126 | [88126-guard-of-wonderland-vr.json](./88126-guard-of-wonderland-vr.json) |
 | Guard the Future | 117574 | [117574-guard-the-future.json](./117574-guard-the-future.json) |
 | Guarded | 313893 | [313893-guarded.json](./313893-guarded.json) |
+| GuardGrave | 275536 | [275536-guardgrave.json](./275536-guardgrave.json) |
 | Guardian | 15542 | [15542-guardian.json](./15542-guardian.json) |
 | Guardian | 37295 | [37295-guardian.json](./37295-guardian.json) |
 | Guardian | 55133 | [55133-guardian.json](./55133-guardian.json) |
