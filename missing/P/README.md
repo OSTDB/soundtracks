@@ -2847,6 +2847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perish Parade | 352880 | [352880-perish-parade.json](./352880-perish-parade.json) |
 | Perish Song | 197259 | [197259-perish-song.json](./197259-perish-song.json) |
 | Perish the Thoth | 271458 | [271458-perish-the-thoth.json](./271458-perish-the-thoth.json) |
+| Perish: Exodus | 261143 | [261143-perish-exodus.json](./261143-perish-exodus.json) |
 | Perisno | 356202 | [356202-perisno.json](./356202-perisno.json) |
 | Perk Up | 372990 | [372990-perk-up.json](./372990-perk-up.json) |
 | Perkele! Suomi 100 vuotta | 74390 | [74390-perkele-suomi-100-vuotta.json](./74390-perkele-suomi-100-vuotta.json) |
@@ -4462,6 +4463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball Illusions | 6025 | [6025-pinball-illusions.json](./6025-pinball-illusions.json) |
 | Pinball Inside: A VR Arcade Game | 29187 | [29187-pinball-inside-a-vr-arcade-game.json](./29187-pinball-inside-a-vr-arcade-game.json) |
 | Pinball Jam | 187479 | [187479-pinball-jam.json](./187479-pinball-jam.json) |
+| Pinball Kingdom | 261155 | [261155-pinball-kingdom.json](./261155-pinball-kingdom.json) |
 | Pinball League: Hardhat Zone | 296220 | [296220-pinball-league-hardhat-zone.json](./296220-pinball-league-hardhat-zone.json) |
 | Pinball Lockdown | 133432 | [133432-pinball-lockdown.json](./133432-pinball-lockdown.json) |
 | Pinball M: Bethesda Pinball | 386717 | [386717-pinball-m-bethesda-pinball.json](./386717-pinball-m-bethesda-pinball.json) |
@@ -8460,6 +8462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Serve 3D Tennis | 20641 | [20641-power-serve-3d-tennis.json](./20641-power-serve-3d-tennis.json) |
 | Power Shovel | 44741 | [44741-power-shovel.json](./44741-power-shovel.json) |
 | Power Sink | 236781 | [236781-power-sink.json](./236781-power-sink.json) |
+| Power Slap | 261159 | [261159-power-slap.json](./261159-power-slap.json) |
 | Power Slave | 45972 | [45972-power-slave.json](./45972-power-slave.json) |
 | Power Sled | 130872 | [130872-power-sled.json](./130872-power-sled.json) |
 | Power Soccer | 320968 | [320968-power-soccer.json](./320968-power-soccer.json) |
@@ -8614,6 +8617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pre-Odyssey: Odysseus, Penelope and Her Ducks | 204550 | [204550-pre-odyssey-odysseus-penelope-and-her-ducks.json](./204550-pre-odyssey-odysseus-penelope-and-her-ducks.json) |
 | Pre-RON MI5 Bob | 71007 | [71007-pre-ron-mi5-bob.json](./71007-pre-ron-mi5-bob.json) |
 | Pre-Shave | 149732 | [149732-pre-shave.json](./149732-pre-shave.json) |
+| Preacher | 261176 | [261176-preacher.json](./261176-preacher.json) |
 | Prebillian | 40398 | [40398-prebillian.json](./40398-prebillian.json) |
 | Precept | 328001 | [328001-precept.json](./328001-precept.json) |
 | Prechara! Daifugo | 283757 | [283757-prechara-daifugo.json](./283757-prechara-daifugo.json) |
@@ -10710,6 +10714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pumpkin Farmer | 158177 | [158177-pumpkin-farmer.json](./158177-pumpkin-farmer.json) |
 | Pumpkin Game | 272744 | [272744-pumpkin-game.json](./272744-pumpkin-game.json) |
 | Pumpkin Ghost | 272269 | [272269-pumpkin-ghost.json](./272269-pumpkin-ghost.json) |
+| Pumpkin Hell | 261167 | [261167-pumpkin-hell.json](./261167-pumpkin-hell.json) |
 | Pumpkin Invasion | 180025 | [180025-pumpkin-invasion.json](./180025-pumpkin-invasion.json) |
 | Pumpkin Jam | 269562 | [269562-pumpkin-jam.json](./269562-pumpkin-jam.json) |
 | PumpKin Majo | 235704 | [235704-pumpkin-majo.json](./235704-pumpkin-majo.json) |
