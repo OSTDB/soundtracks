@@ -688,6 +688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You Are Peter Shorts | 248919 | [248919-you-are-peter-shorts.json](./248919-you-are-peter-shorts.json) |
 | You Are Sick | 239671 | [239671-you-are-sick.json](./239671-you-are-sick.json) |
 | You are SpamZapper 3.1 | 210535 | [210535-you-are-spamzapper-3-1.json](./210535-you-are-spamzapper-3-1.json) |
+| You Are Speed | 244139 | [244139-you-are-speed.json](./244139-you-are-speed.json) |
 | You are standing in a cave... | 57471 | [57471-you-are-standing-in-a-cave.json](./57471-you-are-standing-in-a-cave.json) |
 | You are the Apple of My Eye | 99028 | [99028-you-are-the-apple-of-my-eye.json](./99028-you-are-the-apple-of-my-eye.json) |
 | You Are the Dinner | 220733 | [220733-you-are-the-dinner.json](./220733-you-are-the-dinner.json) |
@@ -970,6 +971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | YouTube: Missile Command | 337716 | [337716-youtube-missile-command.json](./337716-youtube-missile-command.json) |
 | Youtuber Boys: Love Behind the Camera | 403722 | [403722-youtuber-boys-love-behind-the-camera.json](./403722-youtuber-boys-love-behind-the-camera.json) |
 | Youtuber Girls: Love Behind the Camera | 404266 | [404266-youtuber-girls-love-behind-the-camera.json](./404266-youtuber-girls-love-behind-the-camera.json) |
+| Youtuber Survivors | 244155 | [244155-youtuber-survivors.json](./244155-youtuber-survivors.json) |
 | Youtubers Clicker | 54332 | [54332-youtubers-clicker.json](./54332-youtubers-clicker.json) |
 | Youtubers Life | 19331 | [19331-youtubers-life.json](./19331-youtubers-life.json) |
 | Youtubers Life - Cooking Channel | 89533 | [89533-youtubers-life-cooking-channel.json](./89533-youtubers-life-cooking-channel.json) |
