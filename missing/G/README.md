@@ -1361,6 +1361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gates of Mirnah | 148998 | [148998-gates-of-mirnah.json](./148998-gates-of-mirnah.json) |
 | Gates of Nowhere | 50892 | [50892-gates-of-nowhere.json](./50892-gates-of-nowhere.json) |
 | Gates of Osiris | 61899 | [61899-gates-of-osiris.json](./61899-gates-of-osiris.json) |
+| Gates of the Mind | 261733 | [261733-gates-of-the-mind.json](./261733-gates-of-the-mind.json) |
 | Gates of War | 235168 | [235168-gates-of-war.json](./235168-gates-of-war.json) |
 | Gates of Yomi | 274480 | [274480-gates-of-yomi.json](./274480-gates-of-yomi.json) |
 | Gates of Zendocon | 6035 | [6035-gates-of-zendocon.json](./6035-gates-of-zendocon.json) |
@@ -3095,6 +3096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Globy | 326061 | [326061-globy.json](./326061-globy.json) |
 | Glocktopus | 397195 | [397195-glocktopus.json](./397195-glocktopus.json) |
 | Gloctopus | 345682 | [345682-gloctopus.json](./345682-gloctopus.json) |
+| Gloggy | 261697 | [261697-gloggy.json](./261697-gloggy.json) |
 | Glogwillette | 306968 | [306968-glogwillette.json](./306968-glogwillette.json) |
 | Gloom | 151203 | [151203-gloom.json](./151203-gloom.json) |
 | Gloom | 3030 | [3030-gloom.json](./3030-gloom.json) |
@@ -5558,6 +5560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grey Heritage: Noble Duty | 266425 | [266425-grey-heritage-noble-duty.json](./266425-grey-heritage-noble-duty.json) |
 | Grey Instinct | 159305 | [159305-grey-instinct.json](./159305-grey-instinct.json) |
 | Grey Instinct: Part 2 | 235774 | [235774-grey-instinct-part-2.json](./235774-grey-instinct-part-2.json) |
+| Grey Lines | 261725 | [261725-grey-lines.json](./261725-grey-lines.json) |
 | Grey Lucidity | 154055 | [154055-grey-lucidity.json](./154055-grey-lucidity.json) |
 | Grey Phobia | 32925 | [32925-grey-phobia.json](./32925-grey-phobia.json) |
 | Grey Scout | 139213 | [139213-grey-scout.json](./139213-grey-scout.json) |
@@ -5673,6 +5676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grill-Off with Ultra Hand! | 50696 | [50696-grill-off-with-ultra-hand.json](./50696-grill-off-with-ultra-hand.json) |
 | Grille Logic | 286580 | [286580-grille-logic.json](./286580-grille-logic.json) |
 | Grim | 196319 | [196319-grim.json](./196319-grim.json) |
+| Grim | 261740 | [261740-grim.json](./261740-grim.json) |
 | Grim | 379863 | [379863-grim.json](./379863-grim.json) |
 | Grim | 391785 | [391785-grim.json](./391785-grim.json) |
 | Grim Borough | 297238 | [297238-grim-borough.json](./297238-grim-borough.json) |
