@@ -3042,6 +3042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nikoli no Puzzle V: Hitori ni Shitekure | 64935 | [64935-nikoli-no-puzzle-v-hitori-ni-shitekure.json](./64935-nikoli-no-puzzle-v-hitori-ni-shitekure.json) |
 | Nikoli no Puzzle V: Kakuro | 83880 | [83880-nikoli-no-puzzle-v-kakuro.json](./83880-nikoli-no-puzzle-v-kakuro.json) |
 | Nikoli no Puzzle V: Masyu | 64933 | [64933-nikoli-no-puzzle-v-masyu.json](./64933-nikoli-no-puzzle-v-masyu.json) |
+| Nikoli no Sudoku Lite Dai-San-Shuu | 269519 | [269519-nikoli-no-sudoku-lite-dai-san-shuu.json](./269519-nikoli-no-sudoku-lite-dai-san-shuu.json) |
 | Nikoli Sudoku | 97443 | [97443-nikoli-sudoku.json](./97443-nikoli-sudoku.json) |
 | Nil Admirari no Tenbin: Irodori Nadeshiko | 136831 | [136831-nil-admirari-no-tenbin-irodori-nadeshiko.json](./136831-nil-admirari-no-tenbin-irodori-nadeshiko.json) |
 | Nil Admirari no Tenbin: Twin Pack | 200560 | [200560-nil-admirari-no-tenbin-twin-pack.json](./200560-nil-admirari-no-tenbin-twin-pack.json) |
@@ -3454,6 +3455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nippon Ichi no Meikantoku | 48803 | [48803-nippon-ichi-no-meikantoku.json](./48803-nippon-ichi-no-meikantoku.json) |
 | Nippon Marathon | 87673 | [87673-nippon-marathon.json](./87673-nippon-marathon.json) |
 | Nippon Marathon 2: Daijoubu | 326644 | [326644-nippon-marathon-2-daijoubu.json](./326644-nippon-marathon-2-daijoubu.json) |
+| Nippon no Asoko de | 269518 | [269518-nippon-no-asoko-de.json](./269518-nippon-no-asoko-de.json) |
 | Nippon Pro Mahjong: Renmei Kounin Motto 20-bai! Mahjgong ga Tsuyoku naru Houhou - Hatsu Chuukyuu-sha-hen | 125913 | [125913-nippon-pro-mahjong-renmei-kounin-motto-20-bai-mahjgong-ga-tsuyoku-naru-houhou-hatsu-chuukyuu-sha-hen.json](./125913-nippon-pro-mahjong-renmei-kounin-motto-20-bai-mahjgong-ga-tsuyoku-naru-houhou-hatsu-chuukyuu-sha-hen.json) |
 | Nippon Suugaku Kentei Kyoukai Kounin: Suuken DS - Otona ga Tokenai!? Kodomo no Sansuu | 269615 | [269615-nippon-suugaku-kentei-kyoukai-kounin-suuken-ds-otona-ga-tokenai-kodomo-no-sansuu.json](./269615-nippon-suugaku-kentei-kyoukai-kounin-suuken-ds-otona-ga-tokenai-kodomo-no-sansuu.json) |
 | Nira | 126207 | [126207-nira.json](./126207-nira.json) |
@@ -3856,6 +3858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nobunaga’s Ambition: Rebirth - Treasure Box Limited Edition | 212328 | [212328-nobunaga-s-ambition-rebirth-treasure-box-limited-edition.json](./212328-nobunaga-s-ambition-rebirth-treasure-box-limited-edition.json) |
 | Nobunaga's Ambition: Rise to Power | 21503 | [21503-nobunagas-ambition-rise-to-power.json](./21503-nobunagas-ambition-rise-to-power.json) |
 | NOBUNAGA'S AMBITION: Sengoku Gunyuuden | 90573 | [90573-nobunagas-ambition-sengoku-gunyuuden.json](./90573-nobunagas-ambition-sengoku-gunyuuden.json) |
+| Nobunaga's Ambition: Shouseiroku | 269520 | [269520-nobunagas-ambition-shouseiroku.json](./269520-nobunagas-ambition-shouseiroku.json) |
 | Nobunaga's Ambition: Soutenroku | 307184 | [307184-nobunagas-ambition-soutenroku.json](./307184-nobunagas-ambition-soutenroku.json) |
 | Nobunaga's Ambition: Souzou - Dokuganryutatsu Scenario | 150668 | [150668-nobunagas-ambition-souzou-dokuganryutatsu-scenario.json](./150668-nobunagas-ambition-souzou-dokuganryutatsu-scenario.json) |
 | Nobunaga's Ambition: Souzou - Itsukushima Scenario | 150675 | [150675-nobunagas-ambition-souzou-itsukushima-scenario.json](./150675-nobunagas-ambition-souzou-itsukushima-scenario.json) |
