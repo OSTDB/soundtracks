@@ -6019,6 +6019,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shredoka: Magical Girl Skateboarding | 396723 | [396723-shredoka-magical-girl-skateboarding.json](./396723-shredoka-magical-girl-skateboarding.json) |
 | Shredsauce | 131358 | [131358-shredsauce.json](./131358-shredsauce.json) |
 | Shredz64 | 84268 | [84268-shredz64.json](./84268-shredz64.json) |
+| Shrek 2 | 248500 | [248500-shrek-2.json](./248500-shrek-2.json) |
+| Shrek 2 | 248501 | [248501-shrek-2.json](./248501-shrek-2.json) |
 | Shrek 2 | 3668 | [3668-shrek-2.json](./3668-shrek-2.json) |
 | Shrek 2 Activity Center: Twisted Fairy Tale Fun | 208994 | [208994-shrek-2-activity-center-twisted-fairy-tale-fun.json](./208994-shrek-2-activity-center-twisted-fairy-tale-fun.json) |
 | Shrek 2: Castle Run | 230273 | [230273-shrek-2-castle-run.json](./230273-shrek-2-castle-run.json) |
@@ -6027,6 +6029,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shrek Game Land Activity Center | 9208 | [9208-shrek-game-land-activity-center.json](./9208-shrek-game-land-activity-center.json) |
 | Shrek Playtime is Ogre | 302687 | [302687-shrek-playtime-is-ogre.json](./302687-shrek-playtime-is-ogre.json) |
 | Shrek Playtime is Ogre 2 | 302685 | [302685-shrek-playtime-is-ogre-2.json](./302685-shrek-playtime-is-ogre-2.json) |
+| Shrek Smash n' Crash Racing | 248506 | [248506-shrek-smash-n-crash-racing.json](./248506-shrek-smash-n-crash-racing.json) |
+| Shrek Smash n' Crash Racing | 248507 | [248507-shrek-smash-n-crash-racing.json](./248507-shrek-smash-n-crash-racing.json) |
+| Shrek Smash n' Crash Racing | 248508 | [248508-shrek-smash-n-crash-racing.json](./248508-shrek-smash-n-crash-racing.json) |
 | Shrek Smash n' Crash Racing | 3671 | [3671-shrek-smash-n-crash-racing.json](./3671-shrek-smash-n-crash-racing.json) |
 | Shrek Sugar Fever | 97357 | [97357-shrek-sugar-fever.json](./97357-shrek-sugar-fever.json) |
 | Shrek SuperSlam | 10628 | [10628-shrek-superslam.json](./10628-shrek-superslam.json) |
@@ -14069,6 +14074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpongeBob SquarePants: Krabby Quest | 141000 | [141000-spongebob-squarepants-krabby-quest.json](./141000-spongebob-squarepants-krabby-quest.json) |
 | SpongeBob SquarePants: Krusty Kollection | 8069 | [8069-spongebob-squarepants-krusty-kollection.json](./8069-spongebob-squarepants-krusty-kollection.json) |
 | SpongeBob SquarePants: Lights, Camera, Pants! | 210724 | [210724-spongebob-squarepants-lights-camera-pants.json](./210724-spongebob-squarepants-lights-camera-pants.json) |
+| SpongeBob SquarePants: Lights, Camera, Pants! | 248553 | [248553-spongebob-squarepants-lights-camera-pants.json](./248553-spongebob-squarepants-lights-camera-pants.json) |
 | SpongeBob SquarePants: Model Sponge | 228488 | [228488-spongebob-squarepants-model-sponge.json](./228488-spongebob-squarepants-model-sponge.json) |
 | SpongeBob SquarePants: Nighty Nightmare | 18301 | [18301-spongebob-squarepants-nighty-nightmare.json](./18301-spongebob-squarepants-nighty-nightmare.json) |
 | SpongeBob SquarePants: Plankton's Robotic Revenge | 194951 | [194951-spongebob-squarepants-planktons-robotic-revenge.json](./194951-spongebob-squarepants-planktons-robotic-revenge.json) |
@@ -20373,6 +20379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Monk War Z | 151038 | [151038-super-monk-war-z.json](./151038-super-monk-war-z.json) |
 | Super Monkey Ball | 2927 | [2927-super-monkey-ball.json](./2927-super-monkey-ball.json) |
 | Super Monkey Ball 2 | 2928 | [2928-super-monkey-ball-2.json](./2928-super-monkey-ball-2.json) |
+| Super Monkey Ball Adventure | 248530 | [248530-super-monkey-ball-adventure.json](./248530-super-monkey-ball-adventure.json) |
 | Super Monkey Ball Jr. | 6622 | [6622-super-monkey-ball-jr.json](./6622-super-monkey-ball-jr.json) |
 | Super Monkey Ball Stardust | 352178 | [352178-super-monkey-ball-stardust.json](./352178-super-monkey-ball-stardust.json) |
 | Super Monkey Ball: Banana Blitz | 5200 | [5200-super-monkey-ball-banana-blitz.json](./5200-super-monkey-ball-banana-blitz.json) |
@@ -21405,6 +21412,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surf Ninjas | 38836 | [38836-surf-ninjas.json](./38836-surf-ninjas.json) |
 | Surf Park | 270883 | [270883-surf-park.json](./270883-surf-park.json) |
 | Surf Planet | 337567 | [337567-surf-planet.json](./337567-surf-planet.json) |
+| Surf's Up | 248517 | [248517-surfs-up.json](./248517-surfs-up.json) |
+| Surf's Up | 248518 | [248518-surfs-up.json](./248518-surfs-up.json) |
 | Surf's Up | 283113 | [283113-surfs-up.json](./283113-surfs-up.json) |
 | Surf's Up | 381757 | [381757-surfs-up.json](./381757-surfs-up.json) |
 | Surf's Up | 4191 | [4191-surfs-up.json](./4191-surfs-up.json) |
