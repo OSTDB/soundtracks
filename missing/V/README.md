@@ -359,6 +359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valorant : Antivax Addition | 262272 | [262272-valorant-antivax-addition.json](./262272-valorant-antivax-addition.json) |
 | Valorborn | 369923 | [369923-valorborn.json](./369923-valorborn.json) |
 | Valorbound | 222900 | [222900-valorbound.json](./222900-valorbound.json) |
+| Valorous | 258408 | [258408-valorous.json](./258408-valorous.json) |
 | Valravn | 244363 | [244363-valravn.json](./244363-valravn.json) |
 | Valthazar's Sanctum | 266306 | [266306-valthazars-sanctum.json](./266306-valthazars-sanctum.json) |
 | Valthirian Arc: Hero School Story 2 | 163873 | [163873-valthirian-arc-hero-school-story-2.json](./163873-valthirian-arc-hero-school-story-2.json) |
@@ -1566,6 +1567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Viral | 265255 | [265255-viral.json](./265255-viral.json) |
 | Viral Cry | 87821 | [87821-viral-cry.json](./87821-viral-cry.json) |
 | Viral Descent | 408705 | [408705-viral-descent.json](./408705-viral-descent.json) |
+| Viral Fear | 258400 | [258400-viral-fear.json](./258400-viral-fear.json) |
 | Viral Firar | 166698 | [166698-viral-firar.json](./166698-viral-firar.json) |
 | Viral Hunters | 390204 | [390204-viral-hunters.json](./390204-viral-hunters.json) |
 | Viral Multiplayer | 340556 | [340556-viral-multiplayer.json](./340556-viral-multiplayer.json) |
@@ -2581,6 +2583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vroom Vroom !!! | 87527 | [87527-vroom-vroom.json](./87527-vroom-vroom.json) |
 | Vroom Vroom Valley | 253444 | [253444-vroom-vroom-valley.json](./253444-vroom-vroom-valley.json) |
 | Vroomist | 32915 | [32915-vroomist.json](./32915-vroomist.json) |
+| VRosty | 258363 | [258363-vrosty.json](./258363-vrosty.json) |
 | VRQ Test | 99032 | [99032-vrq-test.json](./99032-vrq-test.json) |
 | VRQB | 30052 | [30052-vrqb.json](./30052-vrqb.json) |
 | VRRCC | 118361 | [118361-vrrcc.json](./118361-vrrcc.json) |
