@@ -1350,6 +1350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Satiszone | 332420 | [332420-satiszone.json](./332420-satiszone.json) |
 | Sato Killing Time Chat.exe | 395020 | [395020-sato-killing-time-chat-exe.json](./395020-sato-killing-time-chat-exe.json) |
 | Satogaeri | 192382 | [192382-satogaeri.json](./192382-satogaeri.json) |
+| Satolite | 271685 | [271685-satolite.json](./271685-satolite.json) |
 | Satomi Hakkenden | 48860 | [48860-satomi-hakkenden.json](./48860-satomi-hakkenden.json) |
 | Satomi Hakkenden Hachitama no Ki | 220573 | [220573-satomi-hakkenden-hachitama-no-ki.json](./220573-satomi-hakkenden-hachitama-no-ki.json) |
 | Satomi Hakkenden Hamaji Hime no Ki | 220574 | [220574-satomi-hakkenden-hamaji-hime-no-ki.json](./220574-satomi-hakkenden-hamaji-hime-no-ki.json) |
@@ -10113,6 +10114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solaris | 407505 | [407505-solaris.json](./407505-solaris.json) |
 | Solaris 1.0.4. | 93000 | [93000-solaris-1-0-4.json](./93000-solaris-1-0-4.json) |
 | Solaris 2 | 314613 | [314613-solaris-2.json](./314613-solaris-2.json) |
+| Solaris Arcana: The Eye of the Soothsayer | 271684 | [271684-solaris-arcana-the-eye-of-the-soothsayer.json](./271684-solaris-arcana-the-eye-of-the-soothsayer.json) |
 | Solaris Assault Tech | 93536 | [93536-solaris-assault-tech.json](./93536-solaris-assault-tech.json) |
 | Solaris Rift | 191198 | [191198-solaris-rift.json](./191198-solaris-rift.json) |
 | Solaris: Off World Combat | 146332 | [146332-solaris-off-world-combat.json](./146332-solaris-off-world-combat.json) |
