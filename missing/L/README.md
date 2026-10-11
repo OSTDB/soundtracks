@@ -4911,6 +4911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Los Pilarcitos | 398368 | [398368-los-pilarcitos.json](./398368-los-pilarcitos.json) |
 | Los Pingheros | 301109 | [301109-los-pingheros.json](./301109-los-pingheros.json) |
 | Los Reinos de Aethermoor | 396577 | [396577-los-reinos-de-aethermoor.json](./396577-los-reinos-de-aethermoor.json) |
+| Los Rostros del Bosque | 241258 | [241258-los-rostros-del-bosque.json](./241258-los-rostros-del-bosque.json) |
 | Los Secretos de Altura | 323849 | [323849-los-secretos-de-altura.json](./323849-los-secretos-de-altura.json) |
 | Lose 95 | 201112 | [201112-lose-95.json](./201112-lose-95.json) |
 | Lose Control | 178632 | [178632-lose-control.json](./178632-lose-control.json) |
@@ -6322,6 +6323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lustful Ponies 2 | 215607 | [215607-lustful-ponies-2.json](./215607-lustful-ponies-2.json) |
 | Lustful Professor | 369158 | [369158-lustful-professor.json](./369158-lustful-professor.json) |
 | Lustful Roommates | 367287 | [367287-lustful-roommates.json](./367287-lustful-roommates.json) |
+| Lustless | 241251 | [241251-lustless.json](./241251-lustless.json) |
 | Lustra: Lachea’s Tale | 346790 | [346790-lustra-lachea-s-tale.json](./346790-lustra-lachea-s-tale.json) |
 | Lustrous Heart | 298994 | [298994-lustrous-heart.json](./298994-lustrous-heart.json) |
 | Lusty Bubbles: Animated Edition | 395845 | [395845-lusty-bubbles-animated-edition.json](./395845-lusty-bubbles-animated-edition.json) |
