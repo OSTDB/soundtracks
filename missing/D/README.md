@@ -9940,6 +9940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamworks Dragons: Wild Skies | 321022 | [321022-dreamworks-dragons-wild-skies.json](./321022-dreamworks-dragons-wild-skies.json) |
 | Dreamworks Interactive DVD Game | 364523 | [364523-dreamworks-interactive-dvd-game.json](./364523-dreamworks-interactive-dvd-game.json) |
 | DreamWorks Super Star Kartz | 47435 | [47435-dreamworks-super-star-kartz.json](./47435-dreamworks-super-star-kartz.json) |
+| DreamWorks Trolls Remix Rescue Deluxe Edition | 274420 | [274420-dreamworks-trolls-remix-rescue-deluxe-edition.json](./274420-dreamworks-trolls-remix-rescue-deluxe-edition.json) |
 | Dreamworks Voltron VR Chronicles | 55172 | [55172-dreamworks-voltron-vr-chronicles.json](./55172-dreamworks-voltron-vr-chronicles.json) |
 | Dreamworks' Shark Tale | 4148 | [4148-dreamworks-shark-tale.json](./4148-dreamworks-shark-tale.json) |
 | Dreamworks' Universe of Legends | 82114 | [82114-dreamworks-universe-of-legends.json](./82114-dreamworks-universe-of-legends.json) |
@@ -10243,6 +10244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drone Dash | 343746 | [343746-drone-dash.json](./343746-drone-dash.json) |
 | Drone Delivery Express: City Simulator | 389052 | [389052-drone-delivery-express-city-simulator.json](./389052-drone-delivery-express-city-simulator.json) |
 | Drone Delivery Simulator | 286211 | [286211-drone-delivery-simulator.json](./286211-drone-delivery-simulator.json) |
+| Drone Flight Simulator Online | 274379 | [274379-drone-flight-simulator-online.json](./274379-drone-flight-simulator-online.json) |
 | Drone Gladiator | 154057 | [154057-drone-gladiator.json](./154057-drone-gladiator.json) |
 | Drone Investigations | 127866 | [127866-drone-investigations.json](./127866-drone-investigations.json) |
 | Drone Lander | 23859 | [23859-drone-lander.json](./23859-drone-lander.json) |
