@@ -3929,6 +3929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wipeout 3 Special Edition | 44855 | [44855-wipeout-3-special-edition.json](./44855-wipeout-3-special-edition.json) |
 | Wipeout 64 | 1539 | [1539-wipeout-64.json](./1539-wipeout-64.json) |
 | Wipeout Create & Crash | 47441 | [47441-wipeout-create-and-crash.json](./47441-wipeout-create-and-crash.json) |
+| Wipeout Dash 2 | 253259 | [253259-wipeout-dash-2.json](./253259-wipeout-dash-2.json) |
 | Wipeout Fusion | 1541 | [1541-wipeout-fusion.json](./1541-wipeout-fusion.json) |
 | Wipeout In the Zone | 20166 | [20166-wipeout-in-the-zone.json](./20166-wipeout-in-the-zone.json) |
 | Wipeout Pure | 1542 | [1542-wipeout-pure.json](./1542-wipeout-pure.json) |
@@ -5605,6 +5606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wormwood | 216819 | [216819-wormwood.json](./216819-wormwood.json) |
 | Wormwood | 274728 | [274728-wormwood.json](./274728-wormwood.json) |
 | wormzilla.io | 397845 | [397845-wormzilla-io.json](./397845-wormzilla-io.json) |
+| Worrrm Rebirth | 253253 | [253253-worrrm-rebirth.json](./253253-worrrm-rebirth.json) |
 | Worry | 91960 | [91960-worry.json](./91960-worry.json) |
 | Worry Eaters: Dada Land | 88804 | [88804-worry-eaters-dada-land.json](./88804-worry-eaters-dada-land.json) |
 | Worry_Bead | 233039 | [233039-worry-bead.json](./233039-worry-bead.json) |
