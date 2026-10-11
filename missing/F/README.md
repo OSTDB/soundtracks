@@ -5853,6 +5853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | For Honor: Varangian Guard - Hero | 289921 | [289921-for-honor-varangian-guard-hero.json](./289921-for-honor-varangian-guard-hero.json) |
 | For Honor: Warmonger Hero | 170436 | [170436-for-honor-warmonger-hero.json](./170436-for-honor-warmonger-hero.json) |
 | For Honor: Yasuke the Brave – Shugoki Hero Skin | 408963 | [408963-for-honor-yasuke-the-brave-shugoki-hero-skin.json](./408963-for-honor-yasuke-the-brave-shugoki-hero-skin.json) |
+| For Honor: Year 1 - Heroes Bundle | 256746 | [256746-for-honor-year-1-heroes-bundle.json](./256746-for-honor-year-1-heroes-bundle.json) |
 | For I, the Moon | 216276 | [216276-for-i-the-moon.json](./216276-for-i-the-moon.json) |
 | For Love of Evil | 271779 | [271779-for-love-of-evil.json](./271779-for-love-of-evil.json) |
 | For Madman Only | 183379 | [183379-for-madman-only.json](./183379-for-madman-only.json) |
@@ -8291,6 +8292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Funfair Ride Simulator 4 | 100770 | [100770-funfair-ride-simulator-4.json](./100770-funfair-ride-simulator-4.json) |
 | Funfair Tycoon | 397775 | [397775-funfair-tycoon.json](./397775-funfair-tycoon.json) |
 | FunFly | 175198 | [175198-funfly.json](./175198-funfly.json) |
+| Fung | 256716 | [256716-fung.json](./256716-fung.json) |
 | Fungal Colony Sim 2 | 365139 | [365139-fungal-colony-sim-2.json](./365139-fungal-colony-sim-2.json) |
 | Fungal Colony Simulator | 257690 | [257690-fungal-colony-simulator.json](./257690-fungal-colony-simulator.json) |
 | FungEye | 291235 | [291235-fungeye.json](./291235-fungeye.json) |
