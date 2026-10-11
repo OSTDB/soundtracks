@@ -258,6 +258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UltiMahjong | 289928 | [289928-ultimahjong.json](./289928-ultimahjong.json) |
 | Ultimate 1v1 | 125902 | [125902-ultimate-1v1.json](./125902-ultimate-1v1.json) |
 | Ultimate 20-Game Bundle | 392766 | [392766-ultimate-20-game-bundle.json](./392766-ultimate-20-game-bundle.json) |
+| Ultimate 4x4 Offroad Parking Trucks: Car Driving Racing Simulator 2023 | 242976 | [242976-ultimate-4x4-offroad-parking-trucks-car-driving-racing-simulator-2023.json](./242976-ultimate-4x4-offroad-parking-trucks-car-driving-racing-simulator-2023.json) |
 | Ultimate 8 Ball Pool | 415309 | [415309-ultimate-8-ball-pool.json](./415309-ultimate-8-ball-pool.json) |
 | Ultimate Action 4 Pack | 85749 | [85749-ultimate-action-4-pack.json](./85749-ultimate-action-4-pack.json) |
 | Ultimate Action Hero | 124708 | [124708-ultimate-action-hero.json](./124708-ultimate-action-hero.json) |
