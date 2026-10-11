@@ -887,6 +887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Champions: Minute the Marut Familiar Pack | 274658 | [274658-idle-champions-minute-the-marut-familiar-pack.json](./274658-idle-champions-minute-the-marut-familiar-pack.json) |
 | Idle Champions: Ms. Squiggles the Octopus Familiar Pack | 306079 | [306079-idle-champions-ms-squiggles-the-octopus-familiar-pack.json](./306079-idle-champions-ms-squiggles-the-octopus-familiar-pack.json) |
 | Idle Champions: Mythic Freely Skin & Feat Pack | 255982 | [255982-idle-champions-mythic-freely-skin-and-feat-pack.json](./255982-idle-champions-mythic-freely-skin-and-feat-pack.json) |
+| Idle Champions: Mythic Ishi Skin & Feat Pack | 254376 | [254376-idle-champions-mythic-ishi-skin-and-feat-pack.json](./254376-idle-champions-mythic-ishi-skin-and-feat-pack.json) |
 | Idle Champions: Sherlock Combs the Bee Familiar Pack | 313698 | [313698-idle-champions-sherlock-combs-the-bee-familiar-pack.json](./313698-idle-champions-sherlock-combs-the-bee-familiar-pack.json) |
 | Idle Champions: Solarya the Ki-rin Familiar Pack | 306075 | [306075-idle-champions-solarya-the-ki-rin-familiar-pack.json](./306075-idle-champions-solarya-the-ki-rin-familiar-pack.json) |
 | Idle Champions: Spelljammer Pilot Celeste Skin & Feat Pack | 274959 | [274959-idle-champions-spelljammer-pilot-celeste-skin-and-feat-pack.json](./274959-idle-champions-spelljammer-pilot-celeste-skin-and-feat-pack.json) |
