@@ -1,10 +1,9 @@
 {
-  "_readme": "Fill in the fields below, then delete this _readme line. See ../SUBMITTING.md for full instructions.",
   "igdb_id": "7335",
   "game_name": "Splatoon",
-  "album_name": "",
-  "spotify_url": "",
-  "apple_music_url": "",
-  "album_link_url": "",
-  "album_cover_url": ""
+  "album_name": "Splatoon Music Collection",
+  "spotify_url": "https://open.spotify.com/album/6POBRQZ8YDIvZA2uzkS208",
+  "apple_music_url": "https://music.apple.com/us/album/splatoon-music-collection/1588103103",
+  "album_link_url": "https://album.link/i/1588103103",
+  "album_cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/00/cb/cb/00cbcb40-5136-94be-9ec0-ba37a811b587/194152767017_cover.jpg/600x600bb.jpg"
 }
