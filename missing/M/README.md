@@ -1963,6 +1963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ManServant: Gay Visual Novel | 229115 | [229115-manservant-gay-visual-novel.json](./229115-manservant-gay-visual-novel.json) |
 | Mansion | 269861 | [269861-mansion.json](./269861-mansion.json) |
 | Mansion 2 | 269863 | [269863-mansion-2.json](./269863-mansion-2.json) |
+| Mansion At Midnight | 272749 | [272749-mansion-at-midnight.json](./272749-mansion-at-midnight.json) |
 | Mansion of Hidden Souls | 5402 | [5402-mansion-of-hidden-souls.json](./5402-mansion-of-hidden-souls.json) |
 | Mansion of Horrors | 102362 | [102362-mansion-of-horrors.json](./102362-mansion-of-horrors.json) |
 | Mansion of the Dead | 337486 | [337486-mansion-of-the-dead.json](./337486-mansion-of-the-dead.json) |
@@ -2174,6 +2175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mare Nostrvm | 137077 | [137077-mare-nostrvm.json](./137077-mare-nostrvm.json) |
 | MareDare | 348962 | [348962-maredare.json](./348962-maredare.json) |
 | Marée Noire | 179012 | [179012-maree-noire.json](./179012-maree-noire.json) |
+| Mareld | 272748 | [272748-mareld.json](./272748-mareld.json) |
 | MareQuest | 230240 | [230240-marequest.json](./230240-marequest.json) |
 | Marfa | 337039 | [337039-marfa.json](./337039-marfa.json) |
 | Marfusha: Sentinel Girls | 143638 | [143638-marfusha-sentinel-girls.json](./143638-marfusha-sentinel-girls.json) |
@@ -2696,6 +2698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Married in Red | 307253 | [307253-married-in-red.json](./307253-married-in-red.json) |
 | Married Woman Eilla's NTR RPG: Two Man Cell Journey with Obeying a Douchey Guy | 82852 | [82852-married-woman-eillas-ntr-rpg-two-man-cell-journey-with-obeying-a-douchey-guy.json](./82852-married-woman-eillas-ntr-rpg-two-man-cell-journey-with-obeying-a-douchey-guy.json) |
 | Marron Helps a Friend | 122947 | [122947-marron-helps-a-friend.json](./122947-marron-helps-a-friend.json) |
+| Marron's Day | 272750 | [272750-marrons-day.json](./272750-marrons-day.json) |
 | Marrow | 269569 | [269569-marrow.json](./269569-marrow.json) |
 | Marrow | 30484 | [30484-marrow.json](./30484-marrow.json) |
 | Marrow Marrow | 369775 | [369775-marrow-marrow.json](./369775-marrow-marrow.json) |
@@ -2780,6 +2783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marshmallow Nights | 177833 | [177833-marshmallow-nights.json](./177833-marshmallow-nights.json) |
 | Marshmallow Penguins VR | 185433 | [185433-marshmallow-penguins-vr.json](./185433-marshmallow-penguins-vr.json) |
 | Marshmallow Tank | 132572 | [132572-marshmallow-tank.json](./132572-marshmallow-tank.json) |
+| Marshmallows On Halloween | 272747 | [272747-marshmallows-on-halloween.json](./272747-marshmallows-on-halloween.json) |
 | Marshmellow Day Spa | 114153 | [114153-marshmellow-day-spa.json](./114153-marshmellow-day-spa.json) |
 | Marsi's Adventures | 228375 | [228375-marsis-adventures.json](./228375-marsis-adventures.json) |
 | Marsport | 45327 | [45327-marsport.json](./45327-marsport.json) |
@@ -3859,6 +3863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mayhem in Monsterland | 18550 | [18550-mayhem-in-monsterland.json](./18550-mayhem-in-monsterland.json) |
 | Mayhem in Single Valley | 116780 | [116780-mayhem-in-single-valley.json](./116780-mayhem-in-single-valley.json) |
 | Mayhem Maidens | 333375 | [333375-mayhem-maidens.json](./333375-mayhem-maidens.json) |
+| Mayhem Mail | 272746 | [272746-mayhem-mail.json](./272746-mayhem-mail.json) |
 | Mayhem Motorsports Collection | 283208 | [283208-mayhem-motorsports-collection.json](./283208-mayhem-motorsports-collection.json) |
 | Mayhem Pantera | 271807 | [271807-mayhem-pantera.json](./271807-mayhem-pantera.json) |
 | Mayhem Space Cinema | 158103 | [158103-mayhem-space-cinema.json](./158103-mayhem-space-cinema.json) |
