@@ -1237,6 +1237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Victory | 23570 | [23570-victory.json](./23570-victory.json) |
 | Victory | 95445 | [95445-victory.json](./95445-victory.json) |
 | Victory and Glory: Napoleon | 33552 | [33552-victory-and-glory-napoleon.json](./33552-victory-and-glory-napoleon.json) |
+| Victory at Sea Atlantic | 261743 | [261743-victory-at-sea-atlantic.json](./261743-victory-at-sea-atlantic.json) |
 | Victory At Sea Ironclad | 171417 | [171417-victory-at-sea-ironclad.json](./171417-victory-at-sea-ironclad.json) |
 | Victory At Sea Pacific | 104004 | [104004-victory-at-sea-pacific.json](./104004-victory-at-sea-pacific.json) |
 | Victory Banner | 361819 | [361819-victory-banner.json](./361819-victory-banner.json) |
@@ -2042,6 +2043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Void Breach | 127708 | [127708-void-breach.json](./127708-void-breach.json) |
 | Void Captains | 410395 | [410395-void-captains.json](./410395-void-captains.json) |
 | Void Carrier | 304698 | [304698-void-carrier.json](./304698-void-carrier.json) |
+| Void Chaser | 261709 | [261709-void-chaser.json](./261709-void-chaser.json) |
 | Void Climber | 316062 | [316062-void-climber.json](./316062-void-climber.json) |
 | Void Collector | 333773 | [333773-void-collector.json](./333773-void-collector.json) |
 | Void Crawlers | 404966 | [404966-void-crawlers.json](./404966-void-crawlers.json) |
