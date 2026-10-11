@@ -175,6 +175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Labyrinth | 249273 | [249273-labyrinth.json](./249273-labyrinth.json) |
 | Labyrinth | 25102 | [25102-labyrinth.json](./25102-labyrinth.json) |
 | Labyrinth | 260387 | [260387-labyrinth.json](./260387-labyrinth.json) |
+| Labyrinth | 270022 | [270022-labyrinth.json](./270022-labyrinth.json) |
 | Labyrinth | 285158 | [285158-labyrinth.json](./285158-labyrinth.json) |
 | Labyrinth | 312260 | [312260-labyrinth.json](./312260-labyrinth.json) |
 | Labyrinth | 319126 | [319126-labyrinth.json](./319126-labyrinth.json) |
@@ -616,6 +617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laruaville 4 Christmas Match 3 Puzzle | 227874 | [227874-laruaville-4-christmas-match-3-puzzle.json](./227874-laruaville-4-christmas-match-3-puzzle.json) |
 | Laruaville 5 | 265602 | [265602-laruaville-5.json](./265602-laruaville-5.json) |
 | Laruaville 8 | 270079 | [270079-laruaville-8.json](./270079-laruaville-8.json) |
+| Laruaville 9 | 270047 | [270047-laruaville-9.json](./270047-laruaville-9.json) |
 | Larva Mortus | 15780 | [15780-larva-mortus.json](./15780-larva-mortus.json) |
 | Las Diablas Blackjack | 84187 | [84187-las-diablas-blackjack.json](./84187-las-diablas-blackjack.json) |
 | Las gafas nuevas del yayo Carmelo | 314380 | [314380-las-gafas-nuevas-del-yayo-carmelo.json](./314380-las-gafas-nuevas-del-yayo-carmelo.json) |
@@ -4005,6 +4007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Living Books: Stellaluna | 229068 | [229068-living-books-stellaluna.json](./229068-living-books-stellaluna.json) |
 | Living Cell | 253399 | [253399-living-cell.json](./253399-living-cell.json) |
 | Living Dark | 77355 | [77355-living-dark.json](./77355-living-dark.json) |
+| Living Dolls Rebirth Alpha | 270030 | [270030-living-dolls-rebirth-alpha.json](./270030-living-dolls-rebirth-alpha.json) |
 | Living in 2020 | 368909 | [368909-living-in-2020.json](./368909-living-in-2020.json) |
 | Living in a Brothel | 304293 | [304293-living-in-a-brothel.json](./304293-living-in-a-brothel.json) |
 | Living in Spring | 297364 | [297364-living-in-spring.json](./297364-living-in-spring.json) |
