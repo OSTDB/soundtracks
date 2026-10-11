@@ -5506,6 +5506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Blood | 379357 | [379357-black-blood.json](./379357-black-blood.json) |
 | Black Border: Border Simulator | 174205 | [174205-black-border-border-simulator.json](./174205-black-border-border-simulator.json) |
 | Black Box LSS: The Merciful Savior | 259160 | [259160-black-box-lss-the-merciful-savior.json](./259160-black-box-lss-the-merciful-savior.json) |
+| Black Box Lss: The Shining Immortal | 258385 | [258385-black-box-lss-the-shining-immortal.json](./258385-black-box-lss-the-shining-immortal.json) |
 | Black Box VR | 140619 | [140619-black-box-vr.json](./140619-black-box-vr.json) |
 | Black Box: Hacker Day One | 406161 | [406161-black-box-hacker-day-one.json](./406161-black-box-hacker-day-one.json) |
 | Black Butler: Phantom & Ghost | 115532 | [115532-black-butler-phantom-and-ghost.json](./115532-black-butler-phantom-and-ghost.json) |
@@ -7024,6 +7025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloody Heaven | 263995 | [263995-bloody-heaven.json](./263995-bloody-heaven.json) |
 | Bloody Heck | 261548 | [261548-bloody-heck.json](./261548-bloody-heck.json) |
 | Bloody Hell | 213501 | [213501-bloody-hell.json](./213501-bloody-hell.json) |
+| Bloody Hills | 258378 | [258378-bloody-hills.json](./258378-bloody-hills.json) |
 | Bloody Layne | 174794 | [174794-bloody-layne.json](./174794-bloody-layne.json) |
 | Bloody Mary's Mansion | 90225 | [90225-bloody-marys-mansion.json](./90225-bloody-marys-mansion.json) |
 | Bloody Merc | 152814 | [152814-bloody-merc.json](./152814-bloody-merc.json) |
@@ -7386,6 +7388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boat Builder: Andy's Story | 224597 | [224597-boat-builder-andys-story.json](./224597-boat-builder-andys-story.json) |
 | Boat Crew | 167803 | [167803-boat-crew.json](./167803-boat-crew.json) |
 | Boat House | 313352 | [313352-boat-house.json](./313352-boat-house.json) |
+| Boat Party | 258402 | [258402-boat-party.json](./258402-boat-party.json) |
 | Boat Prom | 141015 | [141015-boat-prom.json](./141015-boat-prom.json) |
 | Boat Race Teiou | 199964 | [199964-boat-race-teiou.json](./199964-boat-race-teiou.json) |
 | Boat Racer | 367594 | [367594-boat-racer.json](./367594-boat-racer.json) |
@@ -7893,6 +7896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bondstones | 302696 | [302696-bondstones.json](./302696-bondstones.json) |
 | Bone and Arrow | 293108 | [293108-bone-and-arrow.json](./293108-bone-and-arrow.json) |
 | Bone App the Teeth | 179076 | [179076-bone-app-the-teeth.json](./179076-bone-app-the-teeth.json) |
+| Bone Born | 258367 | [258367-bone-born.json](./258367-bone-born.json) |
 | Bone Boy | 246952 | [246952-bone-boy.json](./246952-bone-boy.json) |
 | Bone Dust | 236774 | [236774-bone-dust.json](./236774-bone-dust.json) |
 | Bone Marrow | 129624 | [129624-bone-marrow.json](./129624-bone-marrow.json) |
@@ -10782,6 +10786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bunny Game | 236230 | [236230-bunny-game.json](./236230-bunny-game.json) |
 | Bunny Garden 2 | 375379 | [375379-bunny-garden-2.json](./375379-bunny-garden-2.json) |
 | Bunny Girl Story | 201844 | [201844-bunny-girl-story.json](./201844-bunny-girl-story.json) |
+| Bunny Guys! | 258361 | [258361-bunny-guys.json](./258361-bunny-guys.json) |
 | Bunny Haven | 383737 | [383737-bunny-haven.json](./383737-bunny-haven.json) |
 | Bunny Hill | 139879 | [139879-bunny-hill.json](./139879-bunny-hill.json) |
 | Bunny Hop | 174124 | [174124-bunny-hop.json](./174124-bunny-hop.json) |
