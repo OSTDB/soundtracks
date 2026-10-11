@@ -589,6 +589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War Machine | 93015 | [93015-war-machine.json](./93015-war-machine.json) |
 | War Machines | 86933 | [86933-war-machines.json](./86933-war-machines.json) |
 | War Machines: Tanks Battle Game | 260867 | [260867-war-machines-tanks-battle-game.json](./260867-war-machines-tanks-battle-game.json) |
+| War Mahjong | 254405 | [254405-war-mahjong.json](./254405-war-mahjong.json) |
 | War Mines: WW1 | 152721 | [152721-war-mines-ww1.json](./152721-war-mines-ww1.json) |
 | War Never Changes | 333590 | [333590-war-never-changes.json](./333590-war-never-changes.json) |
 | War Obelisks | 218977 | [218977-war-obelisks.json](./218977-war-obelisks.json) |
