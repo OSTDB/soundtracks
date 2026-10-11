@@ -1417,6 +1417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Acceptable Losses | 379459 | [379459-acceptable-losses.json](./379459-acceptable-losses.json) |
 | Access Block | 277863 | [277863-access-block.json](./277863-access-block.json) |
 | Access Code Zero | 174269 | [174269-access-code-zero.json](./174269-access-code-zero.json) |
+| Access Denied: Escape | 240807 | [240807-access-denied-escape.json](./240807-access-denied-escape.json) |
 | Access: EnTree | 312667 | [312667-access-entree.json](./312667-access-entree.json) |
 | Accident | 202774 | [202774-accident.json](./202774-accident.json) |
 | Accident | 97907 | [97907-accident.json](./97907-accident.json) |
@@ -2025,6 +2026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Academy | 118175 | [118175-adventure-academy.json](./118175-adventure-academy.json) |
 | AdVenture Ages | 146547 | [146547-adventure-ages.json](./146547-adventure-ages.json) |
 | Adventure Apes and the Mayan Mystery | 33017 | [33017-adventure-apes-and-the-mayan-mystery.json](./33017-adventure-apes-and-the-mayan-mystery.json) |
+| Adventure Apple Robots | 240822 | [240822-adventure-apple-robots.json](./240822-adventure-apple-robots.json) |
 | Adventure Ball 3D Balancer | 249451 | [249451-adventure-ball-3d-balancer.json](./249451-adventure-ball-3d-balancer.json) |
 | Adventure Bar Story | 279048 | [279048-adventure-bar-story.json](./279048-adventure-bar-story.json) |
 | Adventure Boss | 181154 | [181154-adventure-boss.json](./181154-adventure-boss.json) |
@@ -4599,6 +4601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alpaca Run | 62451 | [62451-alpaca-run.json](./62451-alpaca-run.json) |
 | Alpaca Sprint | 247670 | [247670-alpaca-sprint.json](./247670-alpaca-sprint.json) |
 | Alpaca Wonders Why | 280175 | [280175-alpaca-wonders-why.json](./280175-alpaca-wonders-why.json) |
+| Alpacalypse | 240819 | [240819-alpacalypse.json](./240819-alpacalypse.json) |
 | Alpacapaca Dash 1 + 2 Bundle | 331445 | [331445-alpacapaca-dash-1-2-bundle.json](./331445-alpacapaca-dash-1-2-bundle.json) |
 | Alpacapaca Dash 2 | 331444 | [331444-alpacapaca-dash-2.json](./331444-alpacapaca-dash-2.json) |
 | Alpacas X Cats Bundle | 331446 | [331446-alpacas-x-cats-bundle.json](./331446-alpacas-x-cats-bundle.json) |
