@@ -458,6 +458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naruto: Ninja Destiny II - European Version | 64486 | [64486-naruto-ninja-destiny-ii-european-version.json](./64486-naruto-ninja-destiny-ii-european-version.json) |
 | Naruto: Ninja Masters | 80120 | [80120-naruto-ninja-masters.json](./80120-naruto-ninja-masters.json) |
 | Naruto: Path of the Ninja | 21372 | [21372-naruto-path-of-the-ninja.json](./21372-naruto-path-of-the-ninja.json) |
+| Naruto: Path of the Ninja | 246846 | [246846-naruto-path-of-the-ninja.json](./246846-naruto-path-of-the-ninja.json) |
 | Naruto: Path of the Ninja 2 | 21375 | [21375-naruto-path-of-the-ninja-2.json](./21375-naruto-path-of-the-ninja-2.json) |
 | Naruto: Powerful Shippuden | 20846 | [20846-naruto-powerful-shippuden.json](./20846-naruto-powerful-shippuden.json) |
 | Naruto: Shinobi Collection Shippuranbu | 139193 | [139193-naruto-shinobi-collection-shippuranbu.json](./139193-naruto-shinobi-collection-shippuranbu.json) |
