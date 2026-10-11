@@ -4437,6 +4437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medieval Life Simulator | 384222 | [384222-medieval-life-simulator.json](./384222-medieval-life-simulator.json) |
 | Medieval Lords: Soldier Kings of Europe | 69876 | [69876-medieval-lords-soldier-kings-of-europe.json](./69876-medieval-lords-soldier-kings-of-europe.json) |
 | Medieval Machines Builder | 154071 | [154071-medieval-machines-builder.json](./154071-medieval-machines-builder.json) |
+| Medieval Machines Builder: First Siege | 277261 | [277261-medieval-machines-builder-first-siege.json](./277261-medieval-machines-builder-first-siege.json) |
 | Medieval Market | 387027 | [387027-medieval-market.json](./387027-medieval-market.json) |
 | Medieval Masters Collection | 131581 | [131581-medieval-masters-collection.json](./131581-medieval-masters-collection.json) |
 | Medieval Match Master | 323307 | [323307-medieval-match-master.json](./323307-medieval-match-master.json) |
@@ -11065,6 +11066,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motorsport Manager - GT Series | 53365 | [53365-motorsport-manager-gt-series.json](./53365-motorsport-manager-gt-series.json) |
 | Motorsport Manager 2 | 408153 | [408153-motorsport-manager-2.json](./408153-motorsport-manager-2.json) |
 | Motorsport Manager Mobile 3 | 105772 | [105772-motorsport-manager-mobile-3.json](./105772-motorsport-manager-mobile-3.json) |
+| Motorstorm Pacific Rift: Adrenaline Expansion | 277234 | [277234-motorstorm-pacific-rift-adrenaline-expansion.json](./277234-motorstorm-pacific-rift-adrenaline-expansion.json) |
+| Motorstorm Pacific Rift: Speed Expansion | 277233 | [277233-motorstorm-pacific-rift-speed-expansion.json](./277233-motorstorm-pacific-rift-speed-expansion.json) |
 | Motorstorm: 3D Rift | 74322 | [74322-motorstorm-3d-rift.json](./74322-motorstorm-3d-rift.json) |
 | MotorStorm: Apocalypse | 2555 | [2555-motorstorm-apocalypse.json](./2555-motorstorm-apocalypse.json) |
 | MotorStorm: Pacific Rift | 2554 | [2554-motorstorm-pacific-rift.json](./2554-motorstorm-pacific-rift.json) |
