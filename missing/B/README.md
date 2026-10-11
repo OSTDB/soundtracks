@@ -379,7 +379,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backrooms VS | 250942 | [250942-backrooms-vs.json](./250942-backrooms-vs.json) |
 | Backrooms: Between Lost Dimension | 304101 | [304101-backrooms-between-lost-dimension.json](./304101-backrooms-between-lost-dimension.json) |
 | Backrooms: Beyond One Year | 289230 | [289230-backrooms-beyond-one-year.json](./289230-backrooms-beyond-one-year.json) |
-| Backrooms: Blackhole | 404886 | [404886-backrooms-blackhole.json](./404886-backrooms-blackhole.json) |
 | Backrooms: Code Yellow | 416594 | [416594-backrooms-code-yellow.json](./416594-backrooms-code-yellow.json) |
 | Backrooms: Duck Escape | 378180 | [378180-backrooms-duck-escape.json](./378180-backrooms-duck-escape.json) |
 | Backrooms: Eight Levels | 281947 | [281947-backrooms-eight-levels.json](./281947-backrooms-eight-levels.json) |
@@ -597,6 +596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Piggies | 19902 | [19902-bad-piggies.json](./19902-bad-piggies.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -8929,6 +8929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brain Off | 172101 | [172101-brain-off.json](./172101-brain-off.json) |
 | Brain on Physics Boxs Puzzles | 86990 | [86990-brain-on-physics-boxs-puzzles.json](./86990-brain-on-physics-boxs-puzzles.json) |
 | Brain On: Can You Pass It? | 224089 | [224089-brain-on-can-you-pass-it.json](./224089-brain-on-can-you-pass-it.json) |
+| Brain On: Dot Physics | 260046 | [260046-brain-on-dot-physics.json](./260046-brain-on-dot-physics.json) |
 | Brain Out: Can You Pass It? | 312644 | [312644-brain-out-can-you-pass-it.json](./312644-brain-out-can-you-pass-it.json) |
 | Brain Overload: Calculate | 275519 | [275519-brain-overload-calculate.json](./275519-brain-overload-calculate.json) |
 | Brain Party | 70629 | [70629-brain-party.json](./70629-brain-party.json) |
@@ -9361,6 +9362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breakfast Bar Tycoon | 144578 | [144578-breakfast-bar-tycoon.json](./144578-breakfast-bar-tycoon.json) |
 | Breakfast Bar Tycoon + Expansion pack | 238015 | [238015-breakfast-bar-tycoon-expansion-pack.json](./238015-breakfast-bar-tycoon-expansion-pack.json) |
 | Breakfast Bar Tycoon: Complete Edition | 199897 | [199897-breakfast-bar-tycoon-complete-edition.json](./199897-breakfast-bar-tycoon-complete-edition.json) |
+| Breakfast Bar Tycoon: Couch Co-op Edition | 260049 | [260049-breakfast-bar-tycoon-couch-co-op-edition.json](./260049-breakfast-bar-tycoon-couch-co-op-edition.json) |
 | Breakfast Bar Tycoon: Definitive Edition | 333719 | [333719-breakfast-bar-tycoon-definitive-edition.json](./333719-breakfast-bar-tycoon-definitive-edition.json) |
 | Breakfast Bar Tycoon: Expansion Pack | 238017 | [238017-breakfast-bar-tycoon-expansion-pack.json](./238017-breakfast-bar-tycoon-expansion-pack.json) |
 | Breakfast Bar Tycoon: Super Edition | 315875 | [315875-breakfast-bar-tycoon-super-edition.json](./315875-breakfast-bar-tycoon-super-edition.json) |
@@ -11085,6 +11087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bus Simulator 3D | 241060 | [241060-bus-simulator-3d.json](./241060-bus-simulator-3d.json) |
 | Bus Simulator Vietnam | 384614 | [384614-bus-simulator-vietnam.json](./384614-bus-simulator-vietnam.json) |
 | Bus Simulator: City Driving Ultimate | 264902 | [264902-bus-simulator-city-driving-ultimate.json](./264902-bus-simulator-city-driving-ultimate.json) |
+| Bus Simulator: Original | 260056 | [260056-bus-simulator-original.json](./260056-bus-simulator-original.json) |
 | Bus Stop | 301921 | [301921-bus-stop.json](./301921-bus-stop.json) |
 | Bus stop in the fog | 159877 | [159877-bus-stop-in-the-fog.json](./159877-bus-stop-in-the-fog.json) |
 | Bus Stop Shuffle | 361264 | [361264-bus-stop-shuffle.json](./361264-bus-stop-shuffle.json) |
