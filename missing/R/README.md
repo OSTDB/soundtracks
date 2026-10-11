@@ -1873,6 +1873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Soccer 2011 | 116348 | [116348-real-soccer-2011.json](./116348-real-soccer-2011.json) |
 | Real Sound: Kaze no Regret | 66624 | [66624-real-sound-kaze-no-regret.json](./66624-real-sound-kaze-no-regret.json) |
 | Real Steel World Robot Boxing | 111751 | [111751-real-steel-world-robot-boxing.json](./111751-real-steel-world-robot-boxing.json) |
+| Real Stories: Veterinaire | 268390 | [268390-real-stories-veterinaire.json](./268390-real-stories-veterinaire.json) |
 | Real Tennis | 100200 | [100200-real-tennis.json](./100200-real-tennis.json) |
 | Real Tennis 2018 | 99104 | [99104-real-tennis-2018.json](./99104-real-tennis-2018.json) |
 | Real Time Assist Replay Time | 251243 | [251243-real-time-assist-replay-time.json](./251243-real-time-assist-replay-time.json) |
@@ -3787,6 +3788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retrograde Arena: Deathmatch Pack | 226967 | [226967-retrograde-arena-deathmatch-pack.json](./226967-retrograde-arena-deathmatch-pack.json) |
 | Retrogram | 197742 | [197742-retrogram.json](./197742-retrogram.json) |
 | Retroid | 181176 | [181176-retroid.json](./181176-retroid.json) |
+| Retroid | 268414 | [268414-retroid.json](./268414-retroid.json) |
 | Retrojam 3 | 384214 | [384214-retrojam-3.json](./384214-retrojam-3.json) |
 | Retrojam 4 | 384216 | [384216-retrojam-4.json](./384216-retrojam-4.json) |
 | Retrojam I | 314285 | [314285-retrojam-i.json](./314285-retrojam-i.json) |
@@ -4679,6 +4681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rilakkuma na Mainichi | 49796 | [49796-rilakkuma-na-mainichi.json](./49796-rilakkuma-na-mainichi.json) |
 | Rilakkuma Nakayoshi Collection | 222506 | [222506-rilakkuma-nakayoshi-collection.json](./222506-rilakkuma-nakayoshi-collection.json) |
 | Rilakkuma Rhythm: Mattari Kibun de Da Run Run Run | 284429 | [284429-rilakkuma-rhythm-mattari-kibun-de-da-run-run-run.json](./284429-rilakkuma-rhythm-mattari-kibun-de-da-run-run-run.json) |
+| Rilakkuma: Minna de Goyururi Seikatsu | 268407 | [268407-rilakkuma-minna-de-goyururi-seikatsu.json](./268407-rilakkuma-minna-de-goyururi-seikatsu.json) |
 | Rilakkuma: Ojama Shitemasu 2-shuukan | 70593 | [70593-rilakkuma-ojama-shitemasu-2-shuukan.json](./70593-rilakkuma-ojama-shitemasu-2-shuukan.json) |
 | Riley & Rochelle | 210694 | [210694-riley-and-rochelle.json](./210694-riley-and-rochelle.json) |
 | Riley in the Abyss | 239704 | [239704-riley-in-the-abyss.json](./239704-riley-in-the-abyss.json) |
@@ -5969,9 +5972,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rockman The Puzzle Battle | 290956 | [290956-rockman-the-puzzle-battle.json](./290956-rockman-the-puzzle-battle.json) |
 | RockMan VII: Showdown of Destiny! | 42550 | [42550-rockman-vii-showdown-of-destiny.json](./42550-rockman-vii-showdown-of-destiny.json) |
 | Rockman X Shùxué Xuànfēng | 290873 | [290873-rockman-x-shuxue-xuanfeng.json](./290873-rockman-x-shuxue-xuanfeng.json) |
+| Rockman X: New Year 2017 | 268410 | [268410-rockman-x-new-year-2017.json](./268410-rockman-x-new-year-2017.json) |
 | Rockman X: New Year 2023 | 282079 | [282079-rockman-x-new-year-2023.json](./282079-rockman-x-new-year-2023.json) |
 | Rockman X3 | 256302 | [256302-rockman-x3.json](./256302-rockman-x3.json) |
 | Rockman X3 Buster Battle | 225258 | [225258-rockman-x3-buster-battle.json](./225258-rockman-x3-buster-battle.json) |
+| Rockman X3: Damage Boost | 268408 | [268408-rockman-x3-damage-boost.json](./268408-rockman-x3-damage-boost.json) |
 | Rockman X3: New Year 2021 | 282077 | [282077-rockman-x3-new-year-2021.json](./282077-rockman-x3-new-year-2021.json) |
 | Rockman X3: New Year 2022 | 282078 | [282078-rockman-x3-new-year-2022.json](./282078-rockman-x3-new-year-2022.json) |
 | Rockman Xover | 64138 | [64138-rockman-xover.json](./64138-rockman-xover.json) |
