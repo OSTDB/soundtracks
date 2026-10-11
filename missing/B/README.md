@@ -4964,6 +4964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bingo Pinball Gameroom: United Manhattan | 265163 | [265163-bingo-pinball-gameroom-united-manhattan.json](./265163-bingo-pinball-gameroom-united-manhattan.json) |
 | Bingo Pinball Gameroom: United Mexico | 265162 | [265162-bingo-pinball-gameroom-united-mexico.json](./265162-bingo-pinball-gameroom-united-mexico.json) |
 | Bingo Pinball Gameroom: United Rio | 265161 | [265161-bingo-pinball-gameroom-united-rio.json](./265161-bingo-pinball-gameroom-united-rio.json) |
+| Bingo Pinball Gameroom: United Starlet | 265081 | [265081-bingo-pinball-gameroom-united-starlet.json](./265081-bingo-pinball-gameroom-united-starlet.json) |
 | Bingo Pop | 101516 | [101516-bingo-pop.json](./101516-bingo-pop.json) |
 | Bingo Roulette | 404213 | [404213-bingo-roulette.json](./404213-bingo-roulette.json) |
 | Bingo TV | 276406 | [276406-bingo-tv.json](./276406-bingo-tv.json) |
@@ -10051,6 +10052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bub Block | 157985 | [157985-bub-block.json](./157985-bub-block.json) |
 | Bub-O Burst | 319075 | [319075-bub-o-burst.json](./319075-bub-o-burst.json) |
 | Bub-O Escape | 280739 | [280739-bub-o-escape.json](./280739-bub-o-escape.json) |
+| Bub's Big Blowout! | 265065 | [265065-bubs-big-blowout.json](./265065-bubs-big-blowout.json) |
 | Buba | 120348 | [120348-buba.json](./120348-buba.json) |
 | Bubba Yuga | 383523 | [383523-bubba-yuga.json](./383523-bubba-yuga.json) |
 | Bubbaruka! | 149483 | [149483-bubbaruka.json](./149483-bubbaruka.json) |
@@ -11232,6 +11234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buzz Cut Simulation | 277313 | [277313-buzz-cut-simulation.json](./277313-buzz-cut-simulation.json) |
 | Buzz is a VTuber: I want to be famous, even if it's just a game | 301887 | [301887-buzz-is-a-vtuber-i-want-to-be-famous-even-if-its-just-a-game.json](./301887-buzz-is-a-vtuber-i-want-to-be-famous-even-if-its-just-a-game.json) |
 | Buzz Lightyear of Star Command | 19675 | [19675-buzz-lightyear-of-star-command.json](./19675-buzz-lightyear-of-star-command.json) |
+| Buzz Lightyear of Star Command | 265047 | [265047-buzz-lightyear-of-star-command.json](./265047-buzz-lightyear-of-star-command.json) |
 | Buzz Lightyear of Star Command | 282150 | [282150-buzz-lightyear-of-star-command.json](./282150-buzz-lightyear-of-star-command.json) |
 | Buzz Off, Buddy | 383521 | [383521-buzz-off-buddy.json](./383521-buzz-off-buddy.json) |
 | Buzz or Die | 295233 | [295233-buzz-or-die.json](./295233-buzz-or-die.json) |
