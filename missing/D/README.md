@@ -8970,6 +8970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball: The Breakers - Season 6 | 307756 | [307756-dragon-ball-the-breakers-season-6.json](./307756-dragon-ball-the-breakers-season-6.json) |
 | Dragon Ball: Xenoverse | 7408 | [7408-dragon-ball-xenoverse.json](./7408-dragon-ball-xenoverse.json) |
 | Dragon Ball: Xenoverse - Day One Edition | 363936 | [363936-dragon-ball-xenoverse-day-one-edition.json](./363936-dragon-ball-xenoverse-day-one-edition.json) |
+| Dragon Ball: Xenoverse - Resurrection F Pack | 268923 | [268923-dragon-ball-xenoverse-resurrection-f-pack.json](./268923-dragon-ball-xenoverse-resurrection-f-pack.json) |
 | Dragon Ball: Xenoverse - Season Pass | 269071 | [269071-dragon-ball-xenoverse-season-pass.json](./269071-dragon-ball-xenoverse-season-pass.json) |
 | Dragon Ball: Xenoverse - Time Travel Edition | 118894 | [118894-dragon-ball-xenoverse-time-travel-edition.json](./118894-dragon-ball-xenoverse-time-travel-edition.json) |
 | Dragon Ball: Xenoverse + GT Pack 1 Bundle | 99784 | [99784-dragon-ball-xenoverse-gt-pack-1-bundle.json](./99784-dragon-ball-xenoverse-gt-pack-1-bundle.json) |
