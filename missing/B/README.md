@@ -1946,6 +1946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Basic Platformer | 305908 | [305908-basic-platformer.json](./305908-basic-platformer.json) |
 | Basic Warfare | 127728 | [127728-basic-warfare.json](./127728-basic-warfare.json) |
 | Basics in Airport: Education & Learning | 107127 | [107127-basics-in-airport-education-and-learning.json](./107127-basics-in-airport-education-and-learning.json) |
+| Basics In Intermediate Filmmaking | 258898 | [258898-basics-in-intermediate-filmmaking.json](./258898-basics-in-intermediate-filmmaking.json) |
 | Basil and the Isles of Spice | 334213 | [334213-basil-and-the-isles-of-spice.json](./334213-basil-and-the-isles-of-spice.json) |
 | Basil Goes O.U.T.S.I.D.E. | 202260 | [202260-basil-goes-o-u-t-s-i-d-e.json](./202260-basil-goes-o-u-t-s-i-d-e.json) |
 | Basileia Romaion 1736 | 356264 | [356264-basileia-romaion-1736.json](./356264-basileia-romaion-1736.json) |
@@ -3056,6 +3057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beach Secrets | 312172 | [312172-beach-secrets.json](./312172-beach-secrets.json) |
 | Beach Soccer | 52450 | [52450-beach-soccer.json](./52450-beach-soccer.json) |
 | Beach Tennis | 323840 | [323840-beach-tennis.json](./323840-beach-tennis.json) |
+| Beach Vacation Simulator | 258908 | [258908-beach-vacation-simulator.json](./258908-beach-vacation-simulator.json) |
 | Beach Volley Hot Sports | 52449 | [52449-beach-volley-hot-sports.json](./52449-beach-volley-hot-sports.json) |
 | Beach Volleyball 2016 | 175203 | [175203-beach-volleyball-2016.json](./175203-beach-volleyball-2016.json) |
 | Beach Volleyball Girl Shizuku | 288134 | [288134-beach-volleyball-girl-shizuku.json](./288134-beach-volleyball-girl-shizuku.json) |
@@ -8803,6 +8805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boxing School | 110119 | [110119-boxing-school.json](./110119-boxing-school.json) |
 | Boxing School II | 342182 | [342182-boxing-school-ii.json](./342182-boxing-school-ii.json) |
 | Boxing School: Solo Career Mode | 276688 | [276688-boxing-school-solo-career-mode.json](./276688-boxing-school-solo-career-mode.json) |
+| Boxing Simulator | 258914 | [258914-boxing-simulator.json](./258914-boxing-simulator.json) |
 | Boxing Simulator | 356026 | [356026-boxing-simulator.json](./356026-boxing-simulator.json) |
 | Boxing Star | 105868 | [105868-boxing-star.json](./105868-boxing-star.json) |
 | Boxing Star: Match 3 | 325734 | [325734-boxing-star-match-3.json](./325734-boxing-star-match-3.json) |
