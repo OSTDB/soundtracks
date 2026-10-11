@@ -1265,6 +1265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abyss Kitchen | 341028 | [341028-abyss-kitchen.json](./341028-abyss-kitchen.json) |
 | Abyss Knights | 350375 | [350375-abyss-knights.json](./350375-abyss-knights.json) |
 | Abyss Looters | 312663 | [312663-abyss-looters.json](./312663-abyss-looters.json) |
+| Abyss Manager Idle | 271667 | [271667-abyss-manager-idle.json](./271667-abyss-manager-idle.json) |
 | Abyss Odyssey | 14414 | [14414-abyss-odyssey.json](./14414-abyss-odyssey.json) |
 | Abyss Odyssey: Extended Dream Edition | 21110 | [21110-abyss-odyssey-extended-dream-edition.json](./21110-abyss-odyssey-extended-dream-edition.json) |
 | Abyss of Doom | 403689 | [403689-abyss-of-doom.json](./403689-abyss-of-doom.json) |
@@ -2358,6 +2359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aetherglen | 347806 | [347806-aetherglen.json](./347806-aetherglen.json) |
 | Aetherial | 357786 | [357786-aetherial.json](./357786-aetherial.json) |
 | Aetherica: Echoes of Exodus | 391868 | [391868-aetherica-echoes-of-exodus.json](./391868-aetherica-echoes-of-exodus.json) |
+| Aetherift | 271668 | [271668-aetherift.json](./271668-aetherift.json) |
 | Aetheris | 199436 | [199436-aetheris.json](./199436-aetheris.json) |
 | Aetherise | 298439 | [298439-aetherise.json](./298439-aetherise.json) |
 | AetherShot | 318055 | [318055-aethershot.json](./318055-aethershot.json) |
@@ -2379,6 +2381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Affairs of the Court: Choice of Romance - Death to the Princess | 171426 | [171426-affairs-of-the-court-choice-of-romance-death-to-the-princess.json](./171426-affairs-of-the-court-choice-of-romance-death-to-the-princess.json) |
 | Affairs of the Court: Choice of Romance - Play as the Consort | 224490 | [224490-affairs-of-the-court-choice-of-romance-play-as-the-consort.json](./224490-affairs-of-the-court-choice-of-romance-play-as-the-consort.json) |
 | Affari Tuoi: Il Gioco Interattivo in DVD | 319739 | [319739-affari-tuoi-il-gioco-interattivo-in-dvd.json](./319739-affari-tuoi-il-gioco-interattivo-in-dvd.json) |
+| Affectionate Annie | 271669 | [271669-affectionate-annie.json](./271669-affectionate-annie.json) |
 | Affiliated Homies | 357796 | [357796-affiliated-homies.json](./357796-affiliated-homies.json) |
 | Affinity | 144199 | [144199-affinity.json](./144199-affinity.json) |
 | Affinity: Fallen from Paradise | 211262 | [211262-affinity-fallen-from-paradise.json](./211262-affinity-fallen-from-paradise.json) |
@@ -2713,6 +2716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Wonders: Shadow Magic | 591 | [591-age-of-wonders-shadow-magic.json](./591-age-of-wonders-shadow-magic.json) |
 | Age of Wushu 2 | 26643 | [26643-age-of-wushu-2.json](./26643-age-of-wushu-2.json) |
 | Age of Wushu Dynasty | 23661 | [23661-age-of-wushu-dynasty.json](./23661-age-of-wushu-dynasty.json) |
+| Age of Zalmoxis: Rise of the Fallen | 271676 | [271676-age-of-zalmoxis-rise-of-the-fallen.json](./271676-age-of-zalmoxis-rise-of-the-fallen.json) |
 | Age of Zombies | 8628 | [8628-age-of-zombies.json](./8628-age-of-zombies.json) |
 | Age-age the Zero-Yon Shinya | 122955 | [122955-age-age-the-zero-yon-shinya.json](./122955-age-age-the-zero-yon-shinya.json) |
 | Agebringer | 379513 | [379513-agebringer.json](./379513-agebringer.json) |
@@ -3971,6 +3975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Garden | 298438 | [298438-alien-garden.json](./298438-alien-garden.json) |
 | Alien Gate | 46611 | [46611-alien-gate.json](./46611-alien-gate.json) |
 | Alien Girl | 183909 | [183909-alien-girl.json](./183909-alien-girl.json) |
+| Alien Girls | 271670 | [271670-alien-girls.json](./271670-alien-girls.json) |
 | Alien Gladiator | 207529 | [207529-alien-gladiator.json](./207529-alien-gladiator.json) |
 | Alien Hallway | 16246 | [16246-alien-hallway.json](./16246-alien-hallway.json) |
 | Alien Hallway 2 | 72351 | [72351-alien-hallway-2.json](./72351-alien-hallway-2.json) |
@@ -4483,6 +4488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alone House | 419949 | [419949-alone-house.json](./419949-alone-house.json) |
 | Alone In a Dream | 156665 | [156665-alone-in-a-dream.json](./156665-alone-in-a-dream.json) |
 | Alone In Hell | 217852 | [217852-alone-in-hell.json](./217852-alone-in-hell.json) |
+| Alone in Space | 271671 | [271671-alone-in-space.json](./271671-alone-in-space.json) |
 | Alone in Space | 33499 | [33499-alone-in-space.json](./33499-alone-in-space.json) |
 | Alone in the Dark | 1956 | [1956-alone-in-the-dark.json](./1956-alone-in-the-dark.json) |
 | Alone in the Dark | 287174 | [287174-alone-in-the-dark.json](./287174-alone-in-the-dark.json) |
@@ -4756,6 +4762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Always Surrender | 283401 | [283401-always-surrender.json](./283401-always-surrender.json) |
 | Always Together | 393647 | [393647-always-together.json](./393647-always-together.json) |
 | Alys vs. the Phantom Feline Foe | 314370 | [314370-alys-vs-the-phantom-feline-foe.json](./314370-alys-vs-the-phantom-feline-foe.json) |
+| Alyssa | 271659 | [271659-alyssa.json](./271659-alyssa.json) |
 | Alyssa's Quest | 310536 | [310536-alyssas-quest.json](./310536-alyssas-quest.json) |
 | Alyssa's Unlikely Trap | 278630 | [278630-alyssas-unlikely-trap.json](./278630-alyssas-unlikely-trap.json) |
 | Alzara: Radiant Echoes | 300878 | [300878-alzara-radiant-echoes.json](./300878-alzara-radiant-echoes.json) |
@@ -5973,6 +5980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Jam | 23658 | [23658-animal-jam.json](./23658-animal-jam.json) |
 | Animal Jam Classic | 316795 | [316795-animal-jam-classic.json](./316795-animal-jam-classic.json) |
 | Animal Jigsaw Puzzle | 99976 | [99976-animal-jigsaw-puzzle.json](./99976-animal-jigsaw-puzzle.json) |
+| Animal Kingdom 2 | 271660 | [271660-animal-kingdom-2.json](./271660-animal-kingdom-2.json) |
 | Animal Kingdom 3 | 337279 | [337279-animal-kingdom-3.json](./337279-animal-kingdom-3.json) |
 | Animal Kostume | 249878 | [249878-animal-kostume.json](./249878-animal-kostume.json) |
 | Animal Learning Puzzle for Toddlers and Kids | 147939 | [147939-animal-learning-puzzle-for-toddlers-and-kids.json](./147939-animal-learning-puzzle-for-toddlers-and-kids.json) |
@@ -6780,6 +6788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apache | 600 | [600-apache.json](./600-apache.json) |
 | Apache Overkill | 42782 | [42782-apache-overkill.json](./42782-apache-overkill.json) |
 | Apache Strike | 137662 | [137662-apache-strike.json](./137662-apache-strike.json) |
+| Apacies: Creatures of the Old West | 271662 | [271662-apacies-creatures-of-the-old-west.json](./271662-apacies-creatures-of-the-old-west.json) |
 | Apano Sin | 14259 | [14259-apano-sin.json](./14259-apano-sin.json) |
 | Apano Syn Fighter | 304571 | [304571-apano-syn-fighter.json](./304571-apano-syn-fighter.json) |
 | Apart | 415185 | [415185-apart.json](./415185-apart.json) |
@@ -6821,6 +6830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ape Out | 27719 | [27719-ape-out.json](./27719-ape-out.json) |
 | Ape Quest | 42799 | [42799-ape-quest.json](./42799-ape-quest.json) |
 | Ape Reunion | 271267 | [271267-ape-reunion.json](./271267-ape-reunion.json) |
+| Ape Squad | 271677 | [271677-ape-squad.json](./271677-ape-squad.json) |
 | Apeiron: Tower Defense | 170856 | [170856-apeiron-tower-defense.json](./170856-apeiron-tower-defense.json) |
 | Aperion Cyberstorm | 14385 | [14385-aperion-cyberstorm.json](./14385-aperion-cyberstorm.json) |
 | Aperture | 287217 | [287217-aperture.json](./287217-aperture.json) |
@@ -7094,6 +7104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aqua Moto Racing | 63835 | [63835-aqua-moto-racing.json](./63835-aqua-moto-racing.json) |
 | Aqua Moto Racing 2 | 63836 | [63836-aqua-moto-racing-2.json](./63836-aqua-moto-racing-2.json) |
 | Aqua Moto Racing 3D | 78741 | [78741-aqua-moto-racing-3d.json](./78741-aqua-moto-racing-3d.json) |
+| Aqua Pals | 271661 | [271661-aqua-pals.json](./271661-aqua-pals.json) |
 | Aqua Panic | 364355 | [364355-aqua-panic.json](./364355-aqua-panic.json) |
 | Aqua Panic!: Heaven Pack | 169307 | [169307-aqua-panic-heaven-pack.json](./169307-aqua-panic-heaven-pack.json) |
 | Aqua Paradise: Boku no Suizokukan | 62543 | [62543-aqua-paradise-boku-no-suizokukan.json](./62543-aqua-paradise-boku-no-suizokukan.json) |
