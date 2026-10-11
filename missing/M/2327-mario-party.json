@@ -1,10 +1,9 @@
 {
-  "_readme": "Fill in the fields below, then delete this _readme line. See ../SUBMITTING.md for full instructions.",
   "igdb_id": "2327",
   "game_name": "Mario Party",
-  "album_name": "",
-  "spotify_url": "",
-  "apple_music_url": "",
-  "album_link_url": "",
-  "album_cover_url": ""
+  "album_name": "The Mario Party Soundtrack",
+  "spotify_url": "https://open.spotify.com/album/3v2O2PGheaEaX1uD5dAk6Y",
+  "apple_music_url": "https://music.apple.com/us/album/the-mario-party-soundtrack-single/1740766956",
+  "album_link_url": "https://album.link/i/1740766956",
+  "album_cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/93/3d/be/933dbe59-f0db-932a-9194-9655e2c92c74/artwork.jpg/600x600bb.jpg"
 }
