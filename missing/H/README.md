@@ -2493,6 +2493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell Guide | 130852 | [130852-hell-guide.json](./130852-hell-guide.json) |
 | Hell Heroes | 226720 | [226720-hell-heroes.json](./226720-hell-heroes.json) |
 | Hell Hospital | 414424 | [414424-hell-hospital.json](./414424-hell-hospital.json) |
+| Hell Hunter: Anti-Nomen | 270032 | [270032-hell-hunter-anti-nomen.json](./270032-hell-hunter-anti-nomen.json) |
 | Hell Hunter: Damned Soul | 272380 | [272380-hell-hunter-damned-soul.json](./272380-hell-hunter-damned-soul.json) |
 | Hell in a Can | 271762 | [271762-hell-in-a-can.json](./271762-hell-in-a-can.json) |
 | Hell Inspector's Mod of Stupidity | 280765 | [280765-hell-inspectors-mod-of-stupidity.json](./280765-hell-inspectors-mod-of-stupidity.json) |
@@ -6459,6 +6460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Milf 5 | 286748 | [286748-hot-milf-5.json](./286748-hot-milf-5.json) |
 | Hot Milf 9 | 224222 | [224222-hot-milf-9.json](./224222-hot-milf-9.json) |
 | Hot MILF VR | 344432 | [344432-hot-milf-vr.json](./344432-hot-milf-vr.json) |
+| Hot Noon | 270065 | [270065-hot-noon.json](./270065-hot-noon.json) |
 | Hot Office: Sex Story | 296910 | [296910-hot-office-sex-story.json](./296910-hot-office-sex-story.json) |
 | Hot Pinball | 398447 | [398447-hot-pinball.json](./398447-hot-pinball.json) |
 | Hot Pink | 100468 | [100468-hot-pink.json](./100468-hot-pink.json) |
