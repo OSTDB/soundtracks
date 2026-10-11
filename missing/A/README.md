@@ -2189,6 +2189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures of Dino Riki | 8741 | [8741-adventures-of-dino-riki.json](./8741-adventures-of-dino-riki.json) |
 | Adventures of Heroes | 65783 | [65783-adventures-of-heroes.json](./65783-adventures-of-heroes.json) |
 | Adventures of Jack: Platformer | 58245 | [58245-adventures-of-jack-platformer.json](./58245-adventures-of-jack-platformer.json) |
+| Adventures of JoJo & ToTo | 253261 | [253261-adventures-of-jojo-and-toto.json](./253261-adventures-of-jojo-and-toto.json) |
 | Adventures of JQ Jones: "Isle of the Serpent Empress" | 132676 | [132676-adventures-of-jq-jones-isle-of-the-serpent-empress.json](./132676-adventures-of-jq-jones-isle-of-the-serpent-empress.json) |
 | Adventures of Julia | 176317 | [176317-adventures-of-julia.json](./176317-adventures-of-julia.json) |
 | Adventures of Lolo 2 | 6472 | [6472-adventures-of-lolo-2.json](./6472-adventures-of-lolo-2.json) |
@@ -4663,6 +4664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alphapoint | 244329 | [244329-alphapoint.json](./244329-alphapoint.json) |
 | Alphaputt | 134386 | [134386-alphaputt.json](./134386-alphaputt.json) |
 | AlphaSwap | 234071 | [234071-alphaswap.json](./234071-alphaswap.json) |
+| Alphaville | 253284 | [253284-alphaville.json](./253284-alphaville.json) |
 | Alpine Alpaca | 181218 | [181218-alpine-alpaca.json](./181218-alpine-alpaca.json) |
 | Alpine Crawler Wild | 174199 | [174199-alpine-crawler-wild.json](./174199-alpine-crawler-wild.json) |
 | Alpine Crawler World | 174342 | [174342-alpine-crawler-world.json](./174342-alpine-crawler-world.json) |
