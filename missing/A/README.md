@@ -505,6 +505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Mystic Journey With: Nova | 392947 | [392947-a-mystic-journey-with-nova.json](./392947-a-mystic-journey-with-nova.json) |
 | A Mystic Journey With: Terra | 392951 | [392951-a-mystic-journey-with-terra.json](./392951-a-mystic-journey-with-terra.json) |
 | A Nanobot | 233124 | [233124-a-nanobot.json](./233124-a-nanobot.json) |
+| A Nest for Us | 259499 | [259499-a-nest-for-us.json](./259499-a-nest-for-us.json) |
 | A New Adventure: FaYoh 2 | 131374 | [131374-a-new-adventure-fayoh-2.json](./131374-a-new-adventure-fayoh-2.json) |
 | A New Don | 183433 | [183433-a-new-don.json](./183433-a-new-don.json) |
 | A New Leaf: Memories | 167583 | [167583-a-new-leaf-memories.json](./167583-a-new-leaf-memories.json) |
@@ -1240,6 +1241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Absum | 366999 | [366999-absum.json](./366999-absum.json) |
 | Absurbia: A Trashy Satire of Suburban Outcries | 159858 | [159858-absurbia-a-trashy-satire-of-suburban-outcries.json](./159858-absurbia-a-trashy-satire-of-suburban-outcries.json) |
 | Absurd | 240208 | [240208-absurd.json](./240208-absurd.json) |
+| Absurd Story: Back Home | 259500 | [259500-absurd-story-back-home.json](./259500-absurd-story-back-home.json) |
 | Absurd Trolley Problems | 267592 | [267592-absurd-trolley-problems.json](./267592-absurd-trolley-problems.json) |
 | Absurdika: Rebuild | 342800 | [342800-absurdika-rebuild.json](./342800-absurdika-rebuild.json) |
 | Absurdistan | 166671 | [166671-absurdistan.json](./166671-absurdistan.json) |
@@ -1317,6 +1319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AbyssalCraft | 232418 | [232418-abyssalcraft.json](./232418-abyssalcraft.json) |
 | AbyssalRestaurant | 312662 | [312662-abyssalrestaurant.json](./312662-abyssalrestaurant.json) |
 | Abyssdia | 363049 | [363049-abyssdia.json](./363049-abyssdia.json) |
+| Abyssey | 259501 | [259501-abyssey.json](./259501-abyssey.json) |
 | Abyssfall: Seekers Within | 337706 | [337706-abyssfall-seekers-within.json](./337706-abyssfall-seekers-within.json) |
 | Abyssmare | 254032 | [254032-abyssmare.json](./254032-abyssmare.json) |
 | Abyssopelagia | 145511 | [145511-abyssopelagia.json](./145511-abyssopelagia.json) |
@@ -4746,6 +4749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alterum | 390173 | [390173-alterum.json](./390173-alterum.json) |
 | AlterVerse: Disruption | 70394 | [70394-alterverse-disruption.json](./70394-alterverse-disruption.json) |
 | Alterworld | 312173 | [312173-alterworld.json](./312173-alterworld.json) |
+| Altf4 | 259468 | [259468-altf4.json](./259468-altf4.json) |
 | Altf42 | 226217 | [226217-altf42.json](./226217-altf42.json) |
 | Altheia: The Wrath of Aferi | 151818 | [151818-altheia-the-wrath-of-aferi.json](./151818-altheia-the-wrath-of-aferi.json) |
 | Altitude | 2357 | [2357-altitude.json](./2357-altitude.json) |
