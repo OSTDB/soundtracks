@@ -5671,6 +5671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Andrew's Nightmare | 296516 | [296516-andrews-nightmare.json](./296516-andrews-nightmare.json) |
 | Andria | 339909 | [339909-andria.json](./339909-andria.json) |
 | Andrii's Horror | 52580 | [52580-andriis-horror.json](./52580-andriis-horror.json) |
+| Andrio's World | 247373 | [247373-andrios-world.json](./247373-andrios-world.json) |
 | Andro Dunos | 39622 | [39622-andro-dunos.json](./39622-andro-dunos.json) |
 | Andro's World | 99111 | [99111-andros-world.json](./99111-andros-world.json) |
 | Android | 391270 | [391270-android.json](./391270-android.json) |
@@ -7476,6 +7477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Formation Z | 147105 | [147105-arcade-archives-formation-z.json](./147105-arcade-archives-formation-z.json) |
 | Arcade Archives: Galactic Warriors | 378778 | [378778-arcade-archives-galactic-warriors.json](./378778-arcade-archives-galactic-warriors.json) |
 | Arcade Archives: Galaga | 230364 | [230364-arcade-archives-galaga.json](./230364-arcade-archives-galaga.json) |
+| Arcade Archives: Galaga '88 | 247421 | [247421-arcade-archives-galaga-88.json](./247421-arcade-archives-galaga-88.json) |
 | Arcade Archives: Gangbusters | 340530 | [340530-arcade-archives-gangbusters.json](./340530-arcade-archives-gangbusters.json) |
 | Arcade Archives: Gee Bee | 371413 | [371413-arcade-archives-gee-bee.json](./371413-arcade-archives-gee-bee.json) |
 | Arcade Archives: Gemini Wing | 146343 | [146343-arcade-archives-gemini-wing.json](./146343-arcade-archives-gemini-wing.json) |
