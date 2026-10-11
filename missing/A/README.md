@@ -6448,6 +6448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anomalith: Digital Deluxe Edition | 404273 | [404273-anomalith-digital-deluxe-edition.json](./404273-anomalith-digital-deluxe-edition.json) |
 | Anomalogenos | 404998 | [404998-anomalogenos.json](./404998-anomalogenos.json) |
 | Anomalous Adventure | 309951 | [309951-anomalous-adventure.json](./309951-anomalous-adventure.json) |
+| Anomalous City | 250274 | [250274-anomalous-city.json](./250274-anomalous-city.json) |
 | Anomalous Materials | 252095 | [252095-anomalous-materials.json](./252095-anomalous-materials.json) |
 | Anomalous Veil | 407323 | [407323-anomalous-veil.json](./407323-anomalous-veil.json) |
 | Anomalous Zone | 211434 | [211434-anomalous-zone.json](./211434-anomalous-zone.json) |
@@ -6684,6 +6685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anti-Opoly | 35916 | [35916-anti-opoly.json](./35916-anti-opoly.json) |
 | Anti-Sane | 236798 | [236798-anti-sane.json](./236798-anti-sane.json) |
 | Anti-TuringTest | 371914 | [371914-anti-turingtest.json](./371914-anti-turingtest.json) |
+| Anti-World Island | 250251 | [250251-anti-world-island.json](./250251-anti-world-island.json) |
 | ANti: Virus Destroyer | 105265 | [105265-anti-virus-destroyer.json](./105265-anti-virus-destroyer.json) |
 | AntiAir | 304199 | [304199-antiair.json](./304199-antiair.json) |
 | AntiAir Mini | 380795 | [380795-antiair-mini.json](./380795-antiair-mini.json) |
