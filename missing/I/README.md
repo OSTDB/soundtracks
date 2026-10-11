@@ -202,6 +202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Got Trapped in the Succubus's Dream! | 264810 | [264810-i-got-trapped-in-the-succubuss-dream.json](./264810-i-got-trapped-in-the-succubuss-dream.json) |
 | I Got Turned Into a Girl and This Yuri Death Angel Will Only Turn Me Back if I Can Find All the Hidden Props | 395106 | [395106-i-got-turned-into-a-girl-and-this-yuri-death-angel-will-only-turn-me-back-if-i-can-find-all-the-hidden-props.json](./395106-i-got-turned-into-a-girl-and-this-yuri-death-angel-will-only-turn-me-back-if-i-can-find-all-the-hidden-props.json) |
 | I H8 Ur Face | 197910 | [197910-i-h8-ur-face.json](./197910-i-h8-ur-face.json) |
+| I Had a Plan! | 245780 | [245780-i-had-a-plan.json](./245780-i-had-a-plan.json) |
 | I Had Another Dream About You Last Night | 142403 | [142403-i-had-another-dream-about-you-last-night.json](./142403-i-had-another-dream-about-you-last-night.json) |
 | I Had the Strangest Dream, Ivan | 201327 | [201327-i-had-the-strangest-dream-ivan.json](./201327-i-had-the-strangest-dream-ivan.json) |
 | I Hate Heroes | 98988 | [98988-i-hate-heroes.json](./98988-i-hate-heroes.json) |
@@ -1449,6 +1450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ImageStriker2 | 230796 | [230796-imagestriker2.json](./230796-imagestriker2.json) |
 | Imagicard: PAW Patrol | 137612 | [137612-imagicard-paw-patrol.json](./137612-imagicard-paw-patrol.json) |
 | ImaginAction | 210082 | [210082-imaginaction.json](./210082-imaginaction.json) |
+| Imaginal Voyages | 245779 | [245779-imaginal-voyages.json](./245779-imaginal-voyages.json) |
 | Imaginarium | 126614 | [126614-imaginarium.json](./126614-imaginarium.json) |
 | Imaginary Chaos Fight | 340509 | [340509-imaginary-chaos-fight.json](./340509-imaginary-chaos-fight.json) |
 | Imaginary Friend Asylum | 273459 | [273459-imaginary-friend-asylum.json](./273459-imaginary-friend-asylum.json) |
@@ -4104,6 +4106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It Came From Within | 197203 | [197203-it-came-from-within.json](./197203-it-came-from-within.json) |
 | IT Clicker: Dinosaur in the Code World | 251002 | [251002-it-clicker-dinosaur-in-the-code-world.json](./251002-it-clicker-dinosaur-in-the-code-world.json) |
 | It Comes at Night | 412190 | [412190-it-comes-at-night.json](./412190-it-comes-at-night.json) |
+| It Consumes | 245778 | [245778-it-consumes.json](./245778-it-consumes.json) |
 | It Devours Our Souls | 184956 | [184956-it-devours-our-souls.json](./184956-it-devours-our-souls.json) |
 | It Doesn't Have to Be Like This | 299125 | [299125-it-doesnt-have-to-be-like-this.json](./299125-it-doesnt-have-to-be-like-this.json) |
 | It Feeds | 207220 | [207220-it-feeds.json](./207220-it-feeds.json) |
