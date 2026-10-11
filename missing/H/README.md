@@ -5215,6 +5215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hitozuma Unyu Saimin NTR Ben ~Namatame Miki no Yokubou~ | 59263 | [59263-hitozuma-unyu-saimin-ntr-ben-namatame-miki-no-yokubou.json](./59263-hitozuma-unyu-saimin-ntr-ben-namatame-miki-no-yokubou.json) |
 | Hitozuma Unyu Saimin NTR Ben ~Sudou Junko no Yuuwaku~ | 59261 | [59261-hitozuma-unyu-saimin-ntr-ben-sudou-junko-no-yuuwaku.json](./59261-hitozuma-unyu-saimin-ntr-ben-sudou-junko-no-yuuwaku.json) |
 | Hitstream | 268454 | [268454-hitstream.json](./268454-hitstream.json) |
+| Hitstun | 242446 | [242446-hitstun.json](./242446-hitstun.json) |
 | Hitsuji no Hakobune | 408308 | [408308-hitsuji-no-hakobune.json](./408308-hitsuji-no-hakobune.json) |
 | Hitting Mices | 212730 | [212730-hitting-mices.json](./212730-hitting-mices.json) |
 | HitTube | 323426 | [323426-hittube.json](./323426-hittube.json) |
@@ -6253,6 +6254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horny Fighter | 105090 | [105090-horny-fighter.json](./105090-horny-fighter.json) |
 | Horny Girls Hentai | 161327 | [161327-horny-girls-hentai.json](./161327-horny-girls-hentai.json) |
 | Horny Honey | 156628 | [156628-horny-honey.json](./156628-horny-honey.json) |
+| Horny Hotel Maids | 242437 | [242437-horny-hotel-maids.json](./242437-horny-hotel-maids.json) |
 | Horny Housewives 2 | 340484 | [340484-horny-housewives-2.json](./340484-horny-housewives-2.json) |
 | Horny Massage Clinic | 411063 | [411063-horny-massage-clinic.json](./411063-horny-massage-clinic.json) |
 | Horny Punishment | 212182 | [212182-horny-punishment.json](./212182-horny-punishment.json) |
