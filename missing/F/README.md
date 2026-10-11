@@ -4595,6 +4595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flappy Bat 3 | 347231 | [347231-flappy-bat-3.json](./347231-flappy-bat-3.json) |
 | Flappy Bee | 169471 | [169471-flappy-bee.json](./169471-flappy-bee.json) |
 | Flappy Bird | 195491 | [195491-flappy-bird.json](./195491-flappy-bird.json) |
+| Flappy Bird | 239547 | [239547-flappy-bird.json](./239547-flappy-bird.json) |
 | Flappy Bird | 298312 | [298312-flappy-bird.json](./298312-flappy-bird.json) |
 | Flappy Bird | 316744 | [316744-flappy-bird.json](./316744-flappy-bird.json) |
 | Flappy Bird | 339269 | [339269-flappy-bird.json](./339269-flappy-bird.json) |
@@ -4607,6 +4608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flappy Camel | 283767 | [283767-flappy-camel.json](./283767-flappy-camel.json) |
 | Flappy Cato | 413158 | [413158-flappy-cato.json](./413158-flappy-cato.json) |
 | Flappy Coq | 376044 | [376044-flappy-coq.json](./376044-flappy-coq.json) |
+| Flappy Crush | 239546 | [239546-flappy-crush.json](./239546-flappy-crush.json) |
 | Flappy Cube | 179195 | [179195-flappy-cube.json](./179195-flappy-cube.json) |
 | Flappy Daft Punk | 231468 | [231468-flappy-daft-punk.json](./231468-flappy-daft-punk.json) |
 | Flappy Defense | 60041 | [60041-flappy-defense.json](./60041-flappy-defense.json) |
@@ -6910,6 +6912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FR34KS | 412538 | [412538-fr34ks.json](./412538-fr34ks.json) |
 | Fracas | 25691 | [25691-fracas.json](./25691-fracas.json) |
 | Fracas | 321414 | [321414-fracas.json](./321414-fracas.json) |
+| Fracctal Monsters | 239544 | [239544-fracctal-monsters.json](./239544-fracctal-monsters.json) |
 | Fracctal TCG | 370305 | [370305-fracctal-tcg.json](./370305-fracctal-tcg.json) |
 | Frackin' Universe | 279760 | [279760-frackin-universe.json](./279760-frackin-universe.json) |
 | Fractal | 30192 | [30192-fractal.json](./30192-fractal.json) |
@@ -7673,6 +7676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frogger | 218581 | [218581-frogger.json](./218581-frogger.json) |
 | Frogger | 218590 | [218590-frogger.json](./218590-frogger.json) |
 | Frogger | 218591 | [218591-frogger.json](./218591-frogger.json) |
+| Frogger | 239552 | [239552-frogger.json](./239552-frogger.json) |
 | Frogger | 240485 | [240485-frogger.json](./240485-frogger.json) |
 | Frogger | 246398 | [246398-frogger.json](./246398-frogger.json) |
 | Frogger | 261991 | [261991-frogger.json](./261991-frogger.json) |
