@@ -4204,6 +4204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Der Große Preis von Raddorf | 98955 | [98955-der-gro-e-preis-von-raddorf.json](./98955-der-gro-e-preis-von-raddorf.json) |
 | Der Königsruf | 369627 | [369627-der-konigsruf.json](./369627-der-konigsruf.json) |
 | Der Langrisser | 77634 | [77634-der-langrisser.json](./77634-der-langrisser.json) |
+| Der Pfad des Pinguins | 262242 | [262242-der-pfad-des-pinguins.json](./262242-der-pfad-des-pinguins.json) |
 | Der Planer | 86048 | [86048-der-planer.json](./86048-der-planer.json) |
 | Der Planer 3 | 92964 | [92964-der-planer-3.json](./92964-der-planer-3.json) |
 | Der Schatz im Silbersee | 72045 | [72045-der-schatz-im-silbersee.json](./72045-der-schatz-im-silbersee.json) |
@@ -6180,6 +6181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Discover the Ocean | 229220 | [229220-discover-the-ocean.json](./229220-discover-the-ocean.json) |
 | Discover The World | 375321 | [375321-discover-the-world.json](./375321-discover-the-world.json) |
 | Discovering Colors - Animals (Coloring Book) | 106572 | [106572-discovering-colors-animals-coloring-book.json](./106572-discovering-colors-animals-coloring-book.json) |
+| Discovering Endangered Wildlife | 262258 | [262258-discovering-endangered-wildlife.json](./262258-discovering-endangered-wildlife.json) |
 | Discovering Galimore | 294154 | [294154-discovering-galimore.json](./294154-discovering-galimore.json) |
 | Discovering Space 2 | 32205 | [32205-discovering-space-2.json](./32205-discovering-space-2.json) |
 | Discovering the Dinosaurs | 105755 | [105755-discovering-the-dinosaurs.json](./105755-discovering-the-dinosaurs.json) |
@@ -6645,6 +6647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diver: Deep Water Adventures | 63282 | [63282-diver-deep-water-adventures.json](./63282-diver-deep-water-adventures.json) |
 | Diver's | 373028 | [373028-divers.json](./373028-divers.json) |
 | Diver's Dream | 180281 | [180281-divers-dream.json](./180281-divers-dream.json) |
+| Divergence | 262279 | [262279-divergence.json](./262279-divergence.json) |
 | Divergence | 276673 | [276673-divergence.json](./276673-divergence.json) |
 | Divergence: Year Zero | 31287 | [31287-divergence-year-zero.json](./31287-divergence-year-zero.json) |
 | Divergences | 356267 | [356267-divergences.json](./356267-divergences.json) |
@@ -8033,6 +8036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doom III | 319655 | [319655-doom-iii.json](./319655-doom-iii.json) |
 | DooM in the Dark 2 | 131323 | [131323-doom-in-the-dark-2.json](./131323-doom-in-the-dark-2.json) |
 | Doom Incarnate | 201183 | [201183-doom-incarnate.json](./201183-doom-incarnate.json) |
+| Doom Mapping Contest II: Hellectric Boogaloo | 262281 | [262281-doom-mapping-contest-ii-hellectric-boogaloo.json](./262281-doom-mapping-contest-ii-hellectric-boogaloo.json) |
 | Doom Raider: Crypt of the Vile | 256817 | [256817-doom-raider-crypt-of-the-vile.json](./256817-doom-raider-crypt-of-the-vile.json) |
 | Doom Rails | 16116 | [16116-doom-rails.json](./16116-doom-rails.json) |
 | Doom Reborn | 365242 | [365242-doom-reborn.json](./365242-doom-reborn.json) |
@@ -8758,6 +8762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dracula 4: The Shadow of the Dragon | 9090 | [9090-dracula-4-the-shadow-of-the-dragon.json](./9090-dracula-4-the-shadow-of-the-dragon.json) |
 | Dracula 4+5 | 154936 | [154936-dracula-4-5.json](./154936-dracula-4-5.json) |
 | Dracula 5: The Blood Legacy | 9094 | [9094-dracula-5-the-blood-legacy.json](./9094-dracula-5-the-blood-legacy.json) |
+| Dracula Cha Cha | 262275 | [262275-dracula-cha-cha.json](./262275-dracula-cha-cha.json) |
 | Dracula City Master: Idle Army | 232394 | [232394-dracula-city-master-idle-army.json](./232394-dracula-city-master-idle-army.json) |
 | Dracula Frames | 168320 | [168320-dracula-frames.json](./168320-dracula-frames.json) |
 | Dracula Hakushaku | 66111 | [66111-dracula-hakushaku.json](./66111-dracula-hakushaku.json) |
