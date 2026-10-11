@@ -1974,6 +1974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Fun Pack | 279031 | [279031-lego-fun-pack.json](./279031-lego-fun-pack.json) |
 | LEGO Harry Potter Collection | 315367 | [315367-lego-harry-potter-collection.json](./315367-lego-harry-potter-collection.json) |
 | Lego Harry Potter Years 5-7: Character pack | 255376 | [255376-lego-harry-potter-years-5-7-character-pack.json](./255376-lego-harry-potter-years-5-7-character-pack.json) |
+| LEGO Harry Potter: The Battle for Hogwarts | 242439 | [242439-lego-harry-potter-the-battle-for-hogwarts.json](./242439-lego-harry-potter-the-battle-for-hogwarts.json) |
 | LEGO Harry Potter: Years 1-4 | 3149 | [3149-lego-harry-potter-years-1-4.json](./3149-lego-harry-potter-years-1-4.json) |
 | LEGO Hero Factory: Brain Attack | 193329 | [193329-lego-hero-factory-brain-attack.json](./193329-lego-hero-factory-brain-attack.json) |
 | LEGO Hero Factory: Breakout | 232701 | [232701-lego-hero-factory-breakout.json](./232701-lego-hero-factory-breakout.json) |
@@ -2279,6 +2280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let Your Egg People Grow Into Large Trees | 248804 | [248804-let-your-egg-people-grow-into-large-trees.json](./248804-let-your-egg-people-grow-into-large-trees.json) |
 | Let Yourself Out, Eddie Kaspbrak! | 158724 | [158724-let-yourself-out-eddie-kaspbrak.json](./158724-let-yourself-out-eddie-kaspbrak.json) |
 | Let's Aim Shooting Gallery | 308520 | [308520-lets-aim-shooting-gallery.json](./308520-lets-aim-shooting-gallery.json) |
+| Let's Aim! Crane Game | 407274 | [407274-lets-aim-crane-game.json](./407274-lets-aim-crane-game.json) |
 | Let's Aim! Ring Toss | 328506 | [328506-lets-aim-ring-toss.json](./328506-lets-aim-ring-toss.json) |
 | Let's Attack Crazy Cross | 283389 | [283389-lets-attack-crazy-cross.json](./283389-lets-attack-crazy-cross.json) |
 | Let's Be a Mouse | 273470 | [273470-lets-be-a-mouse.json](./273470-lets-be-a-mouse.json) |
@@ -2329,6 +2331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Go Jungle!: Lost on the Island of Spice | 69304 | [69304-lets-go-jungle-lost-on-the-island-of-spice.json](./69304-lets-go-jungle-lost-on-the-island-of-spice.json) |
 | Let's Go Nuts! | 99700 | [99700-lets-go-nuts.json](./99700-lets-go-nuts.json) |
 | Let's Go Read: An Island Adventure | 122277 | [122277-lets-go-read-an-island-adventure.json](./122277-lets-go-read-an-island-adventure.json) |
+| Let's Go Run | 242452 | [242452-lets-go-run.json](./242452-lets-go-run.json) |
 | Let's Go Thingio!: Re:Thingio Side A | 323753 | [323753-lets-go-thingio-re-thingio-side-a.json](./323753-lets-go-thingio-re-thingio-side-a.json) |
 | Let's Go To The Circus | 299150 | [299150-lets-go-to-the-circus.json](./299150-lets-go-to-the-circus.json) |
 | Let's go! Brave | 269184 | [269184-lets-go-brave.json](./269184-lets-go-brave.json) |
