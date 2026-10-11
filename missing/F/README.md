@@ -2257,6 +2257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Featherfall | 129442 | [129442-featherfall.json](./129442-featherfall.json) |
 | Featherpunk Prime | 18404 | [18404-featherpunk-prime.json](./18404-featherpunk-prime.json) |
 | February 2003 | 252076 | [252076-february-2003.json](./252076-february-2003.json) |
+| February of Cards | 258370 | [258370-february-of-cards.json](./258370-february-of-cards.json) |
 | Februus Depth | 271185 | [271185-februus-depth.json](./271185-februus-depth.json) |
 | Fech the Ferret | 156607 | [156607-fech-the-ferret.json](./156607-fech-the-ferret.json) |
 | FED Chairman | 391733 | [391733-fed-chairman.json](./391733-fed-chairman.json) |
