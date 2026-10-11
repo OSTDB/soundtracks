@@ -1677,6 +1677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Impermanence | 365837 | [365837-impermanence.json](./365837-impermanence.json) |
 | Impermanence | 404915 | [404915-impermanence.json](./404915-impermanence.json) |
 | Impersonal | 340503 | [340503-impersonal.json](./340503-impersonal.json) |
+| Impetus | 266701 | [266701-impetus.json](./266701-impetus.json) |
 | Impetus | 327977 | [327977-impetus.json](./327977-impetus.json) |
 | Impetus: Clamor in Portis | 135276 | [135276-impetus-clamor-in-portis.json](./135276-impetus-clamor-in-portis.json) |
 | Impious | 309678 | [309678-impious.json](./309678-impious.json) |
