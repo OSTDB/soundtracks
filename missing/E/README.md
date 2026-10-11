@@ -2489,6 +2489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enhansa Edition | 330677 | [330677-enhansa-edition.json](./330677-enhansa-edition.json) |
 | Enherjar Synergy | 159880 | [159880-enherjar-synergy.json](./159880-enherjar-synergy.json) |
 | Enherjar Synergy: Aplankhan & Sioykos | 192156 | [192156-enherjar-synergy-aplankhan-and-sioykos.json](./192156-enherjar-synergy-aplankhan-and-sioykos.json) |
+| Enid | 247418 | [247418-enid.json](./247418-enid.json) |
 | Enigma | 127886 | [127886-enigma.json](./127886-enigma.json) |
 | Enigma | 241344 | [241344-enigma.json](./241344-enigma.json) |
 | Enigma Da Parda | 335881 | [335881-enigma-da-parda.json](./335881-enigma-da-parda.json) |
@@ -3760,6 +3761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal Sunrise | 384295 | [384295-eternal-sunrise.json](./384295-eternal-sunrise.json) |
 | Eternal Supreme | 210881 | [210881-eternal-supreme.json](./210881-eternal-supreme.json) |
 | Eternal Survival | 341100 | [341100-eternal-survival.json](./341100-eternal-survival.json) |
+| Eternal Survivor | 247427 | [247427-eternal-survivor.json](./247427-eternal-survivor.json) |
 | Eternal Threads | 116400 | [116400-eternal-threads.json](./116400-eternal-threads.json) |
 | Eternal Tombs | 186118 | [186118-eternal-tombs.json](./186118-eternal-tombs.json) |
 | Eternal Towers | 420598 | [420598-eternal-towers.json](./420598-eternal-towers.json) |
@@ -3865,6 +3867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eufloria Classic | 321480 | [321480-eufloria-classic.json](./321480-eufloria-classic.json) |
 | Eufloria HD | 15395 | [15395-eufloria-hd.json](./15395-eufloria-hd.json) |
 | Eugenics | 18426 | [18426-eugenics.json](./18426-eugenics.json) |
+| Eukarion Tales 2 | 247422 | [247422-eukarion-tales-2.json](./247422-eukarion-tales-2.json) |
 | Eukarion Tales: Origins | 259581 | [259581-eukarion-tales-origins.json](./259581-eukarion-tales-origins.json) |
 | Euler Wars | 130166 | [130166-euler-wars.json](./130166-euler-wars.json) |
 | Eulogy for Nonno | 374813 | [374813-eulogy-for-nonno.json](./374813-eulogy-for-nonno.json) |
@@ -4157,6 +4160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everise | 388980 | [388980-everise.json](./388980-everise.json) |
 | Everlands | 200130 | [200130-everlands.json](./200130-everlands.json) |
 | Everlast: Undying Tale | 381335 | [381335-everlast-undying-tale.json](./381335-everlast-undying-tale.json) |
+| Everlasting Abundance | 247420 | [247420-everlasting-abundance.json](./247420-everlasting-abundance.json) |
 | Everlasting Alchemists | 298999 | [298999-everlasting-alchemists.json](./298999-everlasting-alchemists.json) |
 | Everlasting Flowers | 261194 | [261194-everlasting-flowers.json](./261194-everlasting-flowers.json) |
 | Everlasting Guilt | 155084 | [155084-everlasting-guilt.json](./155084-everlasting-guilt.json) |
