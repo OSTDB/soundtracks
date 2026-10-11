@@ -7545,6 +7545,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colour Switch Dash | 87018 | [87018-colour-switch-dash.json](./87018-colour-switch-dash.json) |
 | Colourblind | 235830 | [235830-colourblind.json](./235830-colourblind.json) |
 | Colourise | 29897 | [29897-colourise.json](./29897-colourise.json) |
+| ColourPod | 263379 | [263379-colourpod.json](./263379-colourpod.json) |
+| ColourPod 2: DimensionPod | 263381 | [263381-colourpod-2-dimensionpod.json](./263381-colourpod-2-dimensionpod.json) |
 | ColourS | 229381 | [229381-colours.json](./229381-colours.json) |
 | Colours and Symbols | 173240 | [173240-colours-and-symbols.json](./173240-colours-and-symbols.json) |
 | Colourspace | 321459 | [321459-colourspace.json](./321459-colourspace.json) |
