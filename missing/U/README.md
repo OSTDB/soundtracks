@@ -831,6 +831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unannounced Survival Game | 125919 | [125919-unannounced-survival-game.json](./125919-unannounced-survival-game.json) |
 | Unanswered | 401529 | [401529-unanswered.json](./401529-unanswered.json) |
 | Unauthorised | 393570 | [393570-unauthorised.json](./393570-unauthorised.json) |
+| Unavailed | 268940 | [268940-unavailed.json](./268940-unavailed.json) |
 | Unavowed | 27867 | [27867-unavowed.json](./27867-unavowed.json) |
 | Unawake | 173247 | [173247-unawake.json](./173247-unawake.json) |
 | UNB | 335890 | [335890-unb.json](./335890-unb.json) |
@@ -1107,6 +1108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Under the Weather | 145925 | [145925-under-the-weather.json](./145925-under-the-weather.json) |
 | Under the Witch: Beginnings | 267365 | [267365-under-the-witch-beginnings.json](./267365-under-the-witch-beginnings.json) |
 | Under the Witch's Trial | 247201 | [247201-under-the-witchs-trial.json](./247201-under-the-witchs-trial.json) |
+| Under The Yoke | 268939 | [268939-under-the-yoke.json](./268939-under-the-yoke.json) |
 | Under Tower Idle | 405585 | [405585-under-tower-idle.json](./405585-under-tower-idle.json) |
 | Under Walls | 289926 | [289926-under-walls.json](./289926-under-walls.json) |
 | Under Waves | 211645 | [211645-under-waves.json](./211645-under-waves.json) |
@@ -1521,6 +1523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unity of Command II: Blitzkrieg | 166052 | [166052-unity-of-command-ii-blitzkrieg.json](./166052-unity-of-command-ii-blitzkrieg.json) |
 | Unity of Command II: Desert Fox | 235798 | [235798-unity-of-command-ii-desert-fox.json](./235798-unity-of-command-ii-desert-fox.json) |
 | Unity of Command II: Desert Rats | 207363 | [207363-unity-of-command-ii-desert-rats.json](./207363-unity-of-command-ii-desert-rats.json) |
+| Unity of Command II: Kursk | 268938 | [268938-unity-of-command-ii-kursk.json](./268938-unity-of-command-ii-kursk.json) |
 | Unity of Command II: Moscow 41 | 166051 | [166051-unity-of-command-ii-moscow-41.json](./166051-unity-of-command-ii-moscow-41.json) |
 | Unity of Command II: Stalingrad | 196058 | [196058-unity-of-command-ii-stalingrad.json](./196058-unity-of-command-ii-stalingrad.json) |
 | Unity of Command: Black Turn | 171631 | [171631-unity-of-command-black-turn.json](./171631-unity-of-command-black-turn.json) |
@@ -2166,6 +2169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Urban Street Fighting | 147476 | [147476-urban-street-fighting.json](./147476-urban-street-fighting.json) |
 | Urban Survival | 148957 | [148957-urban-survival.json](./148957-urban-survival.json) |
 | Urban Survival Simulator: The Bum's Journey | 309053 | [309053-urban-survival-simulator-the-bums-journey.json](./309053-urban-survival-simulator-the-bums-journey.json) |
+| Urban Taxi Simulator | 268937 | [268937-urban-taxi-simulator.json](./268937-urban-taxi-simulator.json) |
 | Urban Terror | 9532 | [9532-urban-terror.json](./9532-urban-terror.json) |
 | Urban Trial Freestyle | 196841 | [196841-urban-trial-freestyle.json](./196841-urban-trial-freestyle.json) |
 | Urban Trial Freestyle 2 | 57841 | [57841-urban-trial-freestyle-2.json](./57841-urban-trial-freestyle-2.json) |
@@ -2253,6 +2257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Useless Timmy | 372650 | [372650-useless-timmy.json](./372650-useless-timmy.json) |
 | User Is Typing // Message Sent | 134687 | [134687-user-is-typing-message-sent.json](./134687-user-is-typing-message-sent.json) |
 | Usersleepwalker | 352134 | [352134-usersleepwalker.json](./352134-usersleepwalker.json) |
+| Usher. | 268936 | [268936-usher.json](./268936-usher.json) |
 | Ushinawareta Mirai wo Motomete | 76601 | [76601-ushinawareta-mirai-wo-motomete.json](./76601-ushinawareta-mirai-wo-motomete.json) |
 | Ushio to Tora | 38380 | [38380-ushio-to-tora.json](./38380-ushio-to-tora.json) |
 | Ushio to Tora: Shinen no Daiyou | 48554 | [48554-ushio-to-tora-shinen-no-daiyou.json](./48554-ushio-to-tora-shinen-no-daiyou.json) |
