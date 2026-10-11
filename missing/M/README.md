@@ -9751,6 +9751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster High: Beauty Shop | 89146 | [89146-monster-high-beauty-shop.json](./89146-monster-high-beauty-shop.json) |
 | Monster High: Minis Mania | 232507 | [232507-monster-high-minis-mania.json](./232507-monster-high-minis-mania.json) |
 | Monster High: New Ghoul in School | 19318 | [19318-monster-high-new-ghoul-in-school.json](./19318-monster-high-new-ghoul-in-school.json) |
+| Monster Home | 263987 | [263987-monster-home.json](./263987-monster-home.json) |
 | Monster Hospital - Kids Game | 90368 | [90368-monster-hospital-kids-game.json](./90368-monster-hospital-kids-game.json) |
 | Monster House | 112156 | [112156-monster-house.json](./112156-monster-house.json) |
 | Monster House Racing | 376708 | [376708-monster-house-racing.json](./376708-monster-house-racing.json) |
