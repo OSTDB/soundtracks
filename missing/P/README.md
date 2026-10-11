@@ -461,6 +461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paint the Town Red | 13192 | [13192-paint-the-town-red.json](./13192-paint-the-town-red.json) |
 | Paint to Pixel | 192959 | [192959-paint-to-pixel.json](./192959-paint-to-pixel.json) |
 | Paint Warfare | 131324 | [131324-paint-warfare.json](./131324-paint-warfare.json) |
+| Paint Works | 268399 | [268399-paint-works.json](./268399-paint-works.json) |
 | Paint-a'-Way | 271825 | [271825-paint-a-way.json](./271825-paint-a-way.json) |
 | Paint-guin | 310060 | [310060-paint-guin.json](./310060-paint-guin.json) |
 | Paintball 3: Candy Match Factory | 270960 | [270960-paintball-3-candy-match-factory.json](./270960-paintball-3-candy-match-factory.json) |
@@ -951,6 +952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper Angel | 247522 | [247522-paper-angel.json](./247522-paper-angel.json) |
 | Paper Animal Adventure | 204515 | [204515-paper-animal-adventure.json](./204515-paper-animal-adventure.json) |
 | Paper Beast | 117293 | [117293-paper-beast.json](./117293-paper-beast.json) |
+| Paper Beast: Enhanced Edition | 268370 | [268370-paper-beast-enhanced-edition.json](./268370-paper-beast-enhanced-edition.json) |
 | Paper Beast: Folded Edition | 140295 | [140295-paper-beast-folded-edition.json](./140295-paper-beast-folded-edition.json) |
 | Paper Beast: VR Upgrade for Folded Edition | 381754 | [381754-paper-beast-vr-upgrade-for-folded-edition.json](./381754-paper-beast-vr-upgrade-for-folded-edition.json) |
 | Paper Bleed | 350019 | [350019-paper-bleed.json](./350019-paper-bleed.json) |
@@ -1636,6 +1638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Party Down | 209415 | [209415-party-down.json](./209415-party-down.json) |
 | Party Friends | 215693 | [215693-party-friends.json](./215693-party-friends.json) |
 | Party Friends | 279111 | [279111-party-friends.json](./279111-party-friends.json) |
+| Party Game Box 100 | 268401 | [268401-party-game-box-100.json](./268401-party-game-box-100.json) |
 | Party Games | 296237 | [296237-party-games.json](./296237-party-games.json) |
 | Party Games: 15 in 1 | 147911 | [147911-party-games-15-in-1.json](./147911-party-games-15-in-1.json) |
 | Party Golf | 31009 | [31009-party-golf.json](./31009-party-golf.json) |
@@ -2447,6 +2450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pejes vs. Zombies | 158578 | [158578-pejes-vs-zombies.json](./158578-pejes-vs-zombies.json) |
 | Peki Manor | 212464 | [212464-peki-manor.json](./212464-peki-manor.json) |
 | Pekin Express - La Route de l'Himalaya | 145698 | [145698-pekin-express-la-route-de-lhimalaya.json](./145698-pekin-express-la-route-de-lhimalaya.json) |
+| Pékin Express: La Route des Dragons | 268402 | [268402-pekin-express-la-route-des-dragons.json](./268402-pekin-express-la-route-des-dragons.json) |
 | Pekka Kana 2 | 94449 | [94449-pekka-kana-2.json](./94449-pekka-kana-2.json) |
 | Pekko Robot | 240280 | [240280-pekko-robot.json](./240280-pekko-robot.json) |
 | Pekku | 360061 | [360061-pekku.json](./360061-pekku.json) |
@@ -5661,6 +5665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Assault | 89936 | [89936-planet-assault.json](./89936-planet-assault.json) |
 | Planet B24 | 154374 | [154374-planet-b24.json](./154374-planet-b24.json) |
 | Planet Ballet | 179051 | [179051-planet-ballet.json](./179051-planet-ballet.json) |
+| Planet Basket 2009 2010 | 268383 | [268383-planet-basket-2009-2010.json](./268383-planet-basket-2009-2010.json) |
 | Planet Blood | 156591 | [156591-planet-blood.json](./156591-planet-blood.json) |
 | Planet Bom Bom | 345486 | [345486-planet-bom-bom.json](./345486-planet-bom-bom.json) |
 | Planet Centauri | 34841 | [34841-planet-centauri.json](./34841-planet-centauri.json) |
@@ -7931,6 +7936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PopSlinger | 186701 | [186701-popslinger.json](./186701-popslinger.json) |
 | PopSlinger Vol. 1 & 2: Loveless Series Bundle | 328492 | [328492-popslinger-vol-1-and-2-loveless-series-bundle.json](./328492-popslinger-vol-1-and-2-loveless-series-bundle.json) |
 | PopSlinger vol. 2: Loveless | 319397 | [319397-popslinger-vol-2-loveless.json](./319397-popslinger-vol-2-loveless.json) |
+| Popstars | 268384 | [268384-popstars.json](./268384-popstars.json) |
 | Popstars | 92843 | [92843-popstars.json](./92843-popstars.json) |
 | Popstars: Deine Chance | 259723 | [259723-popstars-deine-chance.json](./259723-popstars-deine-chance.json) |
 | Poptile | 214620 | [214620-poptile.json](./214620-poptile.json) |
@@ -9323,6 +9329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Gamer Tycoon | 103471 | [103471-pro-gamer-tycoon.json](./103471-pro-gamer-tycoon.json) |
 | Pro Golf | 385778 | [385778-pro-golf.json](./385778-pro-golf.json) |
 | Pro Golf Challenge | 96930 | [96930-pro-golf-challenge.json](./96930-pro-golf-challenge.json) |
+| Pro Golfer Saru | 268386 | [268386-pro-golfer-saru.json](./268386-pro-golfer-saru.json) |
 | Pro Gymnast Simulator | 128347 | [128347-pro-gymnast-simulator.json](./128347-pro-gymnast-simulator.json) |
 | Pro Gymnast Simulator + Brawl Chess | 219051 | [219051-pro-gymnast-simulator-brawl-chess.json](./219051-pro-gymnast-simulator-brawl-chess.json) |
 | Pro Gymnast Simulator + Clumsy Rush | 218456 | [218456-pro-gymnast-simulator-clumsy-rush.json](./218456-pro-gymnast-simulator-clumsy-rush.json) |
@@ -11315,6 +11322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Scape Mini | 66979 | [66979-puzzle-scape-mini.json](./66979-puzzle-scape-mini.json) |
 | Puzzle Scenery | 312683 | [312683-puzzle-scenery.json](./312683-puzzle-scenery.json) |
 | Puzzle Sculpt | 313770 | [313770-puzzle-sculpt.json](./313770-puzzle-sculpt.json) |
+| Puzzle Series Vol. 1: Sudoku | 268387 | [268387-puzzle-series-vol-1-sudoku.json](./268387-puzzle-series-vol-1-sudoku.json) |
 | Puzzle Series Vol. 12: Akari | 184569 | [184569-puzzle-series-vol-12-akari.json](./184569-puzzle-series-vol-12-akari.json) |
 | Puzzle Series: Jigsaw Puzzle - Koneko Mekuri-hen | 344572 | [344572-puzzle-series-jigsaw-puzzle-koneko-mekuri-hen.json](./344572-puzzle-series-jigsaw-puzzle-koneko-mekuri-hen.json) |
 | Puzzle Sigma | 176420 | [176420-puzzle-sigma.json](./176420-puzzle-sigma.json) |
