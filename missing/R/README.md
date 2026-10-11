@@ -194,6 +194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raccoon Out | 300017 | [300017-raccoon-out.json](./300017-raccoon-out.json) |
 | Raccoon Packer | 403184 | [403184-raccoon-packer.json](./403184-raccoon-packer.json) |
 | Raccoon Party | 401696 | [401696-raccoon-party.json](./401696-raccoon-party.json) |
+| Raccoon Pizza Rush | 256737 | [256737-raccoon-pizza-rush.json](./256737-raccoon-pizza-rush.json) |
 | Raccoon Rascal | 38262 | [38262-raccoon-rascal.json](./38262-raccoon-rascal.json) |
 | Raccoon Rascals | 230211 | [230211-raccoon-rascals.json](./230211-raccoon-rascals.json) |
 | Raccoon Roller | 211218 | [211218-raccoon-roller.json](./211218-raccoon-roller.json) |
@@ -2788,6 +2789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reflex Unit AR | 197758 | [197758-reflex-unit-ar.json](./197758-reflex-unit-ar.json) |
 | Reflex Unit: Strike Ops | 304653 | [304653-reflex-unit-strike-ops.json](./304653-reflex-unit-strike-ops.json) |
 | Reflexia Prototype ver. | 224749 | [224749-reflexia-prototype-ver.json](./224749-reflexia-prototype-ver.json) |
+| Reflow | 256755 | [256755-reflow.json](./256755-reflow.json) |
 | Reforged TD | 150586 | [150586-reforged-td.json](./150586-reforged-td.json) |
 | Reformers Intl Ver | 102250 | [102250-reformers-intl-ver.json](./102250-reformers-intl-ver.json) |
 | Reformpunk | 367604 | [367604-reformpunk.json](./367604-reformpunk.json) |
@@ -4520,6 +4522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RideOp | 72415 | [72415-rideop.json](./72415-rideop.json) |
 | RideOp: New Heights - Expansion pack | 226950 | [226950-rideop-new-heights-expansion-pack.json](./226950-rideop-new-heights-expansion-pack.json) |
 | Rider | 87651 | [87651-rider.json](./87651-rider.json) |
+| Rider Worlds | 256748 | [256748-rider-worlds.json](./256748-rider-worlds.json) |
 | Rider's Spirits | 38214 | [38214-riders-spirits.json](./38214-riders-spirits.json) |
 | Rider's World: I Want to Ride! | 163942 | [163942-riders-world-i-want-to-ride.json](./163942-riders-world-i-want-to-ride.json) |
 | Riders 2491 | 158706 | [158706-riders-2491.json](./158706-riders-2491.json) |
