@@ -1887,6 +1887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Head Bangerz | 265761 | [265761-head-bangerz.json](./265761-head-bangerz.json) |
 | Head Boxing | 90785 | [90785-head-boxing.json](./90785-head-boxing.json) |
 | Head Bumper: Editcraft | 164428 | [164428-head-bumper-editcraft.json](./164428-head-bumper-editcraft.json) |
+| Head Coach Tactics | 244140 | [244140-head-coach-tactics.json](./244140-head-coach-tactics.json) |
 | Head Coach v3 | 70477 | [70477-head-coach-v3.json](./70477-head-coach-v3.json) |
 | Head Collector VR | 309436 | [309436-head-collector-vr.json](./309436-head-collector-vr.json) |
 | Head Games | 152351 | [152351-head-games.json](./152351-head-games.json) |
