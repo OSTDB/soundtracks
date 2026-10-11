@@ -7751,6 +7751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Laws of Probability | 409407 | [409407-the-laws-of-probability.json](./409407-the-laws-of-probability.json) |
 | The Lays of Althas : Sundered Order | 7575 | [7575-the-lays-of-althas-sundered-order.json](./7575-the-lays-of-althas-sundered-order.json) |
 | The Leak | 270109 | [270109-the-leak.json](./270109-the-leak.json) |
+| The Lécuyer Cult | 254984 | [254984-the-lecuyer-cult.json](./254984-the-lecuyer-cult.json) |
 | The Ledge | 262425 | [262425-the-ledge.json](./262425-the-ledge.json) |
 | The Leeds Devil | 188514 | [188514-the-leeds-devil.json](./188514-the-leeds-devil.json) |
 | The Left Behind | 263982 | [263982-the-left-behind.json](./263982-the-left-behind.json) |
@@ -10051,6 +10052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Secret Chronicles of Dr. M. | 134077 | [134077-the-secret-chronicles-of-dr-m.json](./134077-the-secret-chronicles-of-dr-m.json) |
 | The Secret Codes of C.Y.P.H.E.R.: Operation Wildlife | 68739 | [68739-the-secret-codes-of-c-y-p-h-e-r-operation-wildlife.json](./68739-the-secret-codes-of-c-y-p-h-e-r-operation-wildlife.json) |
 | The Secret Fake Ring | 352327 | [352327-the-secret-fake-ring.json](./352327-the-secret-fake-ring.json) |
+| The Secret Ingredient is... | 254988 | [254988-the-secret-ingredient-is.json](./254988-the-secret-ingredient-is.json) |
 | The Secret Installation | 271315 | [271315-the-secret-installation.json](./271315-the-secret-installation.json) |
 | The Secret Island of Dr. Quandary | 46654 | [46654-the-secret-island-of-dr-quandary.json](./46654-the-secret-island-of-dr-quandary.json) |
 | The Secret Life of Pets: Unleashed | 58324 | [58324-the-secret-life-of-pets-unleashed.json](./58324-the-secret-life-of-pets-unleashed.json) |
@@ -13202,6 +13204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tideborne | 378363 | [378363-tideborne.json](./378363-tideborne.json) |
 | Tideborne Haven | 402429 | [402429-tideborne-haven.json](./402429-tideborne-haven.json) |
 | Tides Odyssey | 315777 | [315777-tides-odyssey.json](./315777-tides-odyssey.json) |
+| Tides of Despair | 255013 | [255013-tides-of-despair.json](./255013-tides-of-despair.json) |
 | Tides of Dominion | 256419 | [256419-tides-of-dominion.json](./256419-tides-of-dominion.json) |
 | Tides of Existence | 126504 | [126504-tides-of-existence.json](./126504-tides-of-existence.json) |
 | Tides of Tethys | 307832 | [307832-tides-of-tethys.json](./307832-tides-of-tethys.json) |
@@ -15348,6 +15351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Together Again | 261995 | [261995-together-again.json](./261995-together-again.json) |
 | Together Again: A "Lake's Funland" Story | 400432 | [400432-together-again-a-lakes-funland-story.json](./400432-together-again-a-lakes-funland-story.json) |
 | Together Bnb | 146310 | [146310-together-bnb.json](./146310-together-bnb.json) |
+| Together in the Sky | 254952 | [254952-together-in-the-sky.json](./254952-together-in-the-sky.json) |
 | Together My Headers | 190977 | [190977-together-my-headers.json](./190977-together-my-headers.json) |
 | Together Tree: Romance 911 | 244494 | [244494-together-tree-romance-911.json](./244494-together-tree-romance-911.json) |
 | Together VR | 90151 | [90151-together-vr.json](./90151-together-vr.json) |
@@ -17300,6 +17304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toy Story: Free! Interactive DVD-ROM | 325573 | [325573-toy-story-free-interactive-dvd-rom.json](./325573-toy-story-free-interactive-dvd-rom.json) |
 | Toy Stunt Bike: Tiptop's Trials | 106979 | [106979-toy-stunt-bike-tiptops-trials.json](./106979-toy-stunt-bike-tiptops-trials.json) |
 | Toy Stunt Bike: Tiptop's Trials | 108249 | [108249-toy-stunt-bike-tiptops-trials.json](./108249-toy-stunt-bike-tiptops-trials.json) |
+| Toy Swipe | 255007 | [255007-toy-swipe.json](./255007-toy-swipe.json) |
 | Toy Tactics | 204089 | [204089-toy-tactics.json](./204089-toy-tactics.json) |
 | Toy Tale: The Forgotten Factory | 330242 | [330242-toy-tale-the-forgotten-factory.json](./330242-toy-tale-the-forgotten-factory.json) |
 | Toy Tanks | 149450 | [149450-toy-tanks.json](./149450-toy-tanks.json) |
@@ -18648,6 +18653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trapped Dead | 9443 | [9443-trapped-dead.json](./9443-trapped-dead.json) |
 | Trapped Dead: Lockdown | 17508 | [17508-trapped-dead-lockdown.json](./17508-trapped-dead-lockdown.json) |
 | Trapped Girl X | 255677 | [255677-trapped-girl-x.json](./255677-trapped-girl-x.json) |
+| Trapped Girls | 254973 | [254973-trapped-girls.json](./254973-trapped-girls.json) |
 | Trapped Guys | 149707 | [149707-trapped-guys.json](./149707-trapped-guys.json) |
 | Trapped in a Cage | 267067 | [267067-trapped-in-a-cage.json](./267067-trapped-in-a-cage.json) |
 | Trapped in Fear | 126965 | [126965-trapped-in-fear.json](./126965-trapped-in-fear.json) |
@@ -20739,6 +20745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Two Sedans Driving Simulator | 195618 | [195618-two-sedans-driving-simulator.json](./195618-two-sedans-driving-simulator.json) |
 | Two Sides of the Same Turnabout | 310420 | [310420-two-sides-of-the-same-turnabout.json](./310420-two-sides-of-the-same-turnabout.json) |
 | Two Skateboards Driving Simulator | 224566 | [224566-two-skateboards-driving-simulator.json](./224566-two-skateboards-driving-simulator.json) |
+| Two Slices of Love | 254986 | [254986-two-slices-of-love.json](./254986-two-slices-of-love.json) |
 | Two Strikes | 149693 | [149693-two-strikes.json](./149693-two-strikes.json) |
 | Two Strikes: Baki Hanma | 372085 | [372085-two-strikes-baki-hanma.json](./372085-two-strikes-baki-hanma.json) |
 | Two Tamarind Seeds | 179106 | [179106-two-tamarind-seeds.json](./179106-two-tamarind-seeds.json) |
