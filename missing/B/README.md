@@ -6980,6 +6980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloody Fun Day | 386991 | [386991-bloody-fun-day.json](./386991-bloody-fun-day.json) |
 | Bloody Good Friends | 284018 | [284018-bloody-good-friends.json](./284018-bloody-good-friends.json) |
 | Bloody Good Times | 52475 | [52475-bloody-good-times.json](./52475-bloody-good-times.json) |
+| Bloody Harry | 274390 | [274390-bloody-harry.json](./274390-bloody-harry.json) |
 | Bloody Heaven | 263995 | [263995-bloody-heaven.json](./263995-bloody-heaven.json) |
 | Bloody Heck | 261548 | [261548-bloody-heck.json](./261548-bloody-heck.json) |
 | Bloody Hell | 213501 | [213501-bloody-hell.json](./213501-bloody-hell.json) |
