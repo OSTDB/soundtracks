@@ -1,10 +1,9 @@
 {
-  "_readme": "Fill in the fields below, then delete this _readme line. See ../SUBMITTING.md for full instructions.",
   "igdb_id": "5565",
   "game_name": "Golden Axe",
-  "album_name": "",
-  "spotify_url": "",
-  "apple_music_url": "",
-  "album_link_url": "",
-  "album_cover_url": ""
+  "album_name": "Golden Axe The Music",
+  "spotify_url": "https://open.spotify.com/album/05PU3OQUhK72yz87Mxv06w",
+  "apple_music_url": "https://music.apple.com/us/album/golden-axe-the-music/990212026",
+  "album_link_url": "https://album.link/i/990212026",
+  "album_cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music1/v4/2d/6a/ec/2d6aecc5-a5bb-e43c-ac23-20fc161957ef/sega.jpg/600x600bb.jpg"
 }
