@@ -1030,6 +1030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Roboto | 152888 | [152888-idle-roboto.json](./152888-idle-roboto.json) |
 | Idle Robots | 255795 | [255795-idle-robots.json](./255795-idle-robots.json) |
 | Idle RPG: The Game is Bugged! | 292135 | [292135-idle-rpg-the-game-is-bugged.json](./292135-idle-rpg-the-game-is-bugged.json) |
+| Idle Run | 258389 | [258389-idle-run.json](./258389-idle-run.json) |
 | Idle Saga | 318215 | [318215-idle-saga.json](./318215-idle-saga.json) |
 | Idle Sailor | 390740 | [390740-idle-sailor.json](./390740-idle-sailor.json) |
 | Idle School Simulator | 299903 | [299903-idle-school-simulator.json](./299903-idle-school-simulator.json) |
