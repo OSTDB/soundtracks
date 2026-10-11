@@ -1209,6 +1209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iggle Pop! | 62441 | [62441-iggle-pop.json](./62441-iggle-pop.json) |
 | Iggy & Java | 274526 | [274526-iggy-and-java.json](./274526-iggy-and-java.json) |
 | IGKnight | 238720 | [238720-igknight.json](./238720-igknight.json) |
+| Iglacia | 273295 | [273295-iglacia.json](./273295-iglacia.json) |
 | Ignatius | 169375 | [169375-ignatius.json](./169375-ignatius.json) |
 | Ignatius: Reunited | 235164 | [235164-ignatius-reunited.json](./235164-ignatius-reunited.json) |
 | Ignis | 294170 | [294170-ignis.json](./294170-ignis.json) |
