@@ -2276,6 +2276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Apocalypse | 304854 | [304854-cat-apocalypse.json](./304854-cat-apocalypse.json) |
 | Cat Architect | 182875 | [182875-cat-architect.json](./182875-cat-architect.json) |
 | Cat Astro Phi | 314672 | [314672-cat-astro-phi.json](./314672-cat-astro-phi.json) |
+| Cat at Home | 260592 | [260592-cat-at-home.json](./260592-cat-at-home.json) |
 | Cat Attack | 267855 | [267855-cat-attack.json](./267855-cat-attack.json) |
 | Cat Attack | 56882 | [56882-cat-attack.json](./56882-cat-attack.json) |
 | Cat Bait | 310418 | [310418-cat-bait.json](./310418-cat-bait.json) |
@@ -6415,6 +6416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Closing Doors | 368632 | [368632-closing-doors.json](./368632-closing-doors.json) |
 | Closing Shift | 279895 | [279895-closing-shift.json](./279895-closing-shift.json) |
 | Closing Shift | 412551 | [412551-closing-shift.json](./412551-closing-shift.json) |
+| Closing Time | 260576 | [260576-closing-time.json](./260576-closing-time.json) |
 | Clostrophobia: Vol 1 | 293650 | [293650-clostrophobia-vol-1.json](./293650-clostrophobia-vol-1.json) |
 | Closure | 201622 | [201622-closure.json](./201622-closure.json) |
 | Closure | 8146 | [8146-closure.json](./8146-closure.json) |
