@@ -51,6 +51,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F-Zero DSX | 313346 | [313346-f-zero-dsx.json](./313346-f-zero-dsx.json) |
 | F-Zero GX | 3492 | [3492-f-zero-gx.json](./3492-f-zero-gx.json) |
 | F-Zero GX Demake Overdrive | 290106 | [290106-f-zero-gx-demake-overdrive.json](./290106-f-zero-gx-demake-overdrive.json) |
+| F-Zero Pocket | 265055 | [265055-f-zero-pocket.json](./265055-f-zero-pocket.json) |
 | F-Zero X | 3489 | [3489-f-zero-x.json](./3489-f-zero-x.json) |
 | F-Zero X Climax | 135258 | [135258-f-zero-x-climax.json](./135258-f-zero-x-climax.json) |
 | F-Zero X Expansion Kit | 78269 | [78269-f-zero-x-expansion-kit.json](./78269-f-zero-x-expansion-kit.json) |
@@ -5457,6 +5458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FNaF Ultimate Edition | 281319 | [281319-fnaf-ultimate-edition.json](./281319-fnaf-ultimate-edition.json) |
 | FNaF World Randomizer | 237325 | [237325-fnaf-world-randomizer.json](./237325-fnaf-world-randomizer.json) |
 | FNaF World Redacted | 362810 | [362810-fnaf-world-redacted.json](./362810-fnaf-world-redacted.json) |
+| FNaF World: Outplay | 265063 | [265063-fnaf-world-outplay.json](./265063-fnaf-world-outplay.json) |
 | FNAF: Killer in Purple 2 | 383052 | [383052-fnaf-killer-in-purple-2.json](./383052-fnaf-killer-in-purple-2.json) |
 | FNaF: Wii U Edition | 357443 | [357443-fnaf-wii-u-edition.json](./357443-fnaf-wii-u-edition.json) |
 | FNAFMIN | 358249 | [358249-fnafmin.json](./358249-fnafmin.json) |
