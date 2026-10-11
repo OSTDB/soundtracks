@@ -552,6 +552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taival | 398552 | [398552-taival.json](./398552-taival.json) |
 | Taiwan 2013 | 291988 | [291988-taiwan-2013.json](./291988-taiwan-2013.json) |
 | Taiwan Coolfox | 351603 | [351603-taiwan-coolfox.json](./351603-taiwan-coolfox.json) |
+| Taiwan Daheng | 253798 | [253798-taiwan-daheng.json](./253798-taiwan-daheng.json) |
 | Taiwan Mahjong | 125867 | [125867-taiwan-mahjong.json](./125867-taiwan-mahjong.json) |
 | Taiwan Mahjong | 334658 | [334658-taiwan-mahjong.json](./334658-taiwan-mahjong.json) |
 | Taiwan Monster Fruit: Prologue | 146216 | [146216-taiwan-monster-fruit-prologue.json](./146216-taiwan-monster-fruit-prologue.json) |
@@ -1157,6 +1158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tambourine Tangerine | 315617 | [315617-tambourine-tangerine.json](./315617-tambourine-tangerine.json) |
 | Tame It Too! | 310745 | [310745-tame-it-too.json](./310745-tame-it-too.json) |
 | Tamer Saga | 56489 | [56489-tamer-saga.json](./56489-tamer-saga.json) |
+| Tamer Vale | 253840 | [253840-tamer-vale.json](./253840-tamer-vale.json) |
 | Tamerlane | 233633 | [233633-tamerlane.json](./233633-tamerlane.json) |
 | Tametsi | 72423 | [72423-tametsi.json](./72423-tametsi.json) |
 | Tamiigi and the War O' Bunnies | 337106 | [337106-tamiigi-and-the-war-o-bunnies.json](./337106-tamiigi-and-the-war-o-bunnies.json) |
@@ -1741,6 +1743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taste of Seduction | 212198 | [212198-taste-of-seduction.json](./212198-taste-of-seduction.json) |
 | Taste of Sweet Magic | 217784 | [217784-taste-of-sweet-magic.json](./217784-taste-of-sweet-magic.json) |
 | Taste of the Wind | 366249 | [366249-taste-of-the-wind.json](./366249-taste-of-the-wind.json) |
+| Taste of Victory | 253839 | [253839-taste-of-victory.json](./253839-taste-of-victory.json) |
 | Taste of War | 232929 | [232929-taste-of-war.json](./232929-taste-of-war.json) |
 | TasteMaker | 143630 | [143630-tastemaker.json](./143630-tastemaker.json) |
 | Tasty Arena | 151109 | [151109-tasty-arena.json](./151109-tasty-arena.json) |
@@ -2109,6 +2112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Technolympus | 256786 | [256786-technolympus.json](./256786-technolympus.json) |
 | TechnoMagic | 187370 | [187370-technomagic.json](./187370-technomagic.json) |
 | Technophobia: Dead Metal Tournament | 224519 | [224519-technophobia-dead-metal-tournament.json](./224519-technophobia-dead-metal-tournament.json) |
+| Technophobia: Do Androids go to Heaven? | 253838 | [253838-technophobia-do-androids-go-to-heaven.json](./253838-technophobia-do-androids-go-to-heaven.json) |
 | Technopoly: Industrial Empire | 233093 | [233093-technopoly-industrial-empire.json](./233093-technopoly-industrial-empire.json) |
 | TechnoRun | 9251 | [9251-technorun.json](./9251-technorun.json) |
 | TechnoRunner | 156037 | [156037-technorunner.json](./156037-technorunner.json) |
@@ -3661,6 +3665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Alpha 001 | 168369 | [168369-the-alpha-001.json](./168369-the-alpha-001.json) |
 | The Alpha Wolf | 244258 | [244258-the-alpha-wolf.json](./244258-the-alpha-wolf.json) |
 | The Alpine Encounter | 12252 | [12252-the-alpine-encounter.json](./12252-the-alpine-encounter.json) |
+| The Alpine Express | 253837 | [253837-the-alpine-express.json](./253837-the-alpine-express.json) |
 | The Alpinist | 201610 | [201610-the-alpinist.json](./201610-the-alpinist.json) |
 | The Alternate Universe | 405648 | [405648-the-alternate-universe.json](./405648-the-alternate-universe.json) |
 | The Alters: Last Variable | 404914 | [404914-the-alters-last-variable.json](./404914-the-alters-last-variable.json) |
@@ -5099,6 +5104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dark Third | 128597 | [128597-the-dark-third.json](./128597-the-dark-third.json) |
 | The Dark Throne | 187232 | [187232-the-dark-throne.json](./187232-the-dark-throne.json) |
 | The Dark Tide | 312035 | [312035-the-dark-tide.json](./312035-the-dark-tide.json) |
+| The Dark Tones: Loss | 253836 | [253836-the-dark-tones-loss.json](./253836-the-dark-tones-loss.json) |
 | The Dark Tower | 264047 | [264047-the-dark-tower.json](./264047-the-dark-tower.json) |
 | The Dark Tower | 264226 | [264226-the-dark-tower.json](./264226-the-dark-tower.json) |
 | The Dark Triad | 271225 | [271225-the-dark-triad.json](./271225-the-dark-triad.json) |
@@ -5181,6 +5187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The DeadLine | 377590 | [377590-the-deadline.json](./377590-the-deadline.json) |
 | The Deadly Cursed Enjmin Steamroller in: The Bloody Killing on Wheel in the Atrium | 227468 | [227468-the-deadly-cursed-enjmin-steamroller-in-the-bloody-killing-on-wheel-in-the-atrium.json](./227468-the-deadly-cursed-enjmin-steamroller-in-the-bloody-killing-on-wheel-in-the-atrium.json) |
 | The Deadly Dungeons of Baron Backslash | 181697 | [181697-the-deadly-dungeons-of-baron-backslash.json](./181697-the-deadly-dungeons-of-baron-backslash.json) |
+| The Deadly Path | 253835 | [253835-the-deadly-path.json](./253835-the-deadly-path.json) |
 | The Deadseat | 343226 | [343226-the-deadseat.json](./343226-the-deadseat.json) |
 | The Deal | 30118 | [30118-the-deal.json](./30118-the-deal.json) |
 | The Dearest Person | 301630 | [301630-the-dearest-person.json](./301630-the-dearest-person.json) |
@@ -5627,6 +5634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The End: Pronton | 240749 | [240749-the-end-pronton.json](./240749-the-end-pronton.json) |
 | The Endless Adventure | 165686 | [165686-the-endless-adventure.json](./165686-the-endless-adventure.json) |
 | The Endless Backgate | 372807 | [372807-the-endless-backgate.json](./372807-the-endless-backgate.json) |
+| The Endless Dream | 253833 | [253833-the-endless-dream.json](./253833-the-endless-dream.json) |
 | The Endless Elegy at the Flowercape | 366936 | [366936-the-endless-elegy-at-the-flowercape.json](./366936-the-endless-elegy-at-the-flowercape.json) |
 | The Endless Express | 26669 | [26669-the-endless-express.json](./26669-the-endless-express.json) |
 | The Endless Forest | 13585 | [13585-the-endless-forest.json](./13585-the-endless-forest.json) |
@@ -10753,6 +10761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Stars We Lost To Grief | 271250 | [271250-the-stars-we-lost-to-grief.json](./271250-the-stars-we-lost-to-grief.json) |
 | The Starship Damrey | 20853 | [20853-the-starship-damrey.json](./20853-the-starship-damrey.json) |
 | The State of Nowhere | 289961 | [289961-the-state-of-nowhere.json](./289961-the-state-of-nowhere.json) |
+| The Static | 253832 | [253832-the-static.json](./253832-the-static.json) |
 | The Static | 408196 | [408196-the-static.json](./408196-the-static.json) |
 | The Static Speaks My Name | 11765 | [11765-the-static-speaks-my-name.json](./11765-the-static-speaks-my-name.json) |
 | The Station | 337572 | [337572-the-station.json](./337572-the-station.json) |
@@ -11149,6 +11158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Time Machine | 278354 | [278354-the-time-machine.json](./278354-the-time-machine.json) |
 | The Time Machine: Trapped in Time | 93704 | [93704-the-time-machine-trapped-in-time.json](./93704-the-time-machine-trapped-in-time.json) |
 | The Time of Awakening | 115138 | [115138-the-time-of-awakening.json](./115138-the-time-of-awakening.json) |
+| The Time Plague | 253831 | [253831-the-time-plague.json](./253831-the-time-plague.json) |
 | The Time Warp of Dr. Brain | 72309 | [72309-the-time-warp-of-dr-brain.json](./72309-the-time-warp-of-dr-brain.json) |
 | The Time Watcher | 192289 | [192289-the-time-watcher.json](./192289-the-time-watcher.json) |
 | The Timeless Battle | 19800 | [19800-the-timeless-battle.json](./19800-the-timeless-battle.json) |
@@ -12630,6 +12640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Third Shift | 344998 | [344998-third-shift.json](./344998-third-shift.json) |
 | Third Walker | 406239 | [406239-third-walker.json](./406239-third-walker.json) |
 | Third Wild | 208600 | [208600-third-wild.json](./208600-third-wild.json) |
+| Third World: The Bottom Dimension | 253830 | [253830-third-world-the-bottom-dimension.json](./253830-third-world-the-bottom-dimension.json) |
 | ThirdMiracle | 197764 | [197764-thirdmiracle.json](./197764-thirdmiracle.json) |
 | Thirst | 31836 | [31836-thirst.json](./31836-thirst.json) |
 | Thirsty | 310941 | [310941-thirsty.json](./310941-thirsty.json) |
@@ -14405,6 +14416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Killers | 8939 | [8939-time-killers.json](./8939-time-killers.json) |
 | Time Kings: Modern War in Medieval Age | 401093 | [401093-time-kings-modern-war-in-medieval-age.json](./401093-time-kings-modern-war-in-medieval-age.json) |
 | Time Knight Adventures | 164322 | [164322-time-knight-adventures.json](./164322-time-knight-adventures.json) |
+| Time Knight vs. Zombies | 253828 | [253828-time-knight-vs-zombies.json](./253828-time-knight-vs-zombies.json) |
 | Time Leap Paradise Super Live! | 31077 | [31077-time-leap-paradise-super-live.json](./31077-time-leap-paradise-super-live.json) |
 | Time Limit Harvest | 248045 | [248045-time-limit-harvest.json](./248045-time-limit-harvest.json) |
 | Time Loader | 140868 | [140868-time-loader.json](./140868-time-loader.json) |
@@ -15065,6 +15077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tlicolity Eyes Vol. 2 | 240520 | [240520-tlicolity-eyes-vol-2.json](./240520-tlicolity-eyes-vol-2.json) |
 | Tlicolity Eyes Vol. 3 | 240521 | [240521-tlicolity-eyes-vol-3.json](./240521-tlicolity-eyes-vol-3.json) |
 | Tlicolity Eyes: Twinkle Showtime | 240522 | [240522-tlicolity-eyes-twinkle-showtime.json](./240522-tlicolity-eyes-twinkle-showtime.json) |
+| TLO: Casmita | 253817 | [253817-tlo-casmita.json](./253817-tlo-casmita.json) |
 | TMNT | 146283 | [146283-tmnt.json](./146283-tmnt.json) |
 | TMNT | 3817 | [3817-tmnt.json](./3817-tmnt.json) |
 | TMNT: Mutant Melee | 4201 | [4201-tmnt-mutant-melee.json](./4201-tmnt-mutant-melee.json) |
@@ -18744,6 +18757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trauma Center: Second Opinion | 1524 | [1524-trauma-center-second-opinion.json](./1524-trauma-center-second-opinion.json) |
 | Trauma Pets | 409415 | [409415-trauma-pets.json](./409415-trauma-pets.json) |
 | Trauma Playground | 422143 | [422143-trauma-playground.json](./422143-trauma-playground.json) |
+| Trauma Squad | 253818 | [253818-trauma-squad.json](./253818-trauma-squad.json) |
 | Trauma: Broken Paradise | 238494 | [238494-trauma-broken-paradise.json](./238494-trauma-broken-paradise.json) |
 | TraumaCore Violence | 236518 | [236518-traumacore-violence.json](./236518-traumacore-violence.json) |
 | Traumada | 199363 | [199363-traumada.json](./199363-traumada.json) |
@@ -19050,6 +19064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trevor Sorensen's Star Legions | 54398 | [54398-trevor-sorensens-star-legions.json](./54398-trevor-sorensens-star-legions.json) |
 | TRex Hero | 306381 | [306381-trex-hero.json](./306381-trex-hero.json) |
 | Tri Breaker: A Sacred Symbols Odyssey | 322644 | [322644-tri-breaker-a-sacred-symbols-odyssey.json](./322644-tri-breaker-a-sacred-symbols-odyssey.json) |
+| Tri City Monsters | 253816 | [253816-tri-city-monsters.json](./253816-tri-city-monsters.json) |
 | Tri Focuser: Outside the Traditional World | 246673 | [246673-tri-focuser-outside-the-traditional-world.json](./246673-tri-focuser-outside-the-traditional-world.json) |
 | Tri Wing | 88248 | [88248-tri-wing.json](./88248-tri-wing.json) |
 | Tri Zone | 130869 | [130869-tri-zone.json](./130869-tri-zone.json) |
@@ -20280,6 +20295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turn | 82013 | [82013-turn.json](./82013-turn.json) |
 | Turn and Burn: The F-14 Dogfight Simulator | 49058 | [49058-turn-and-burn-the-f-14-dogfight-simulator.json](./49058-turn-and-burn-the-f-14-dogfight-simulator.json) |
 | Turn Around Turtle: Show and Tell | 206648 | [206648-turn-around-turtle-show-and-tell.json](./206648-turn-around-turtle-show-and-tell.json) |
+| Turn By Turn Villain | 253820 | [253820-turn-by-turn-villain.json](./253820-turn-by-turn-villain.json) |
 | Turn Chase | 135053 | [135053-turn-chase.json](./135053-turn-chase.json) |
 | Turn It Around | 21236 | [21236-turn-it-around.json](./21236-turn-it-around.json) |
 | Turn it! | 371430 | [371430-turn-it.json](./371430-turn-it.json) |
@@ -20479,6 +20495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twilight Lovers | 298983 | [298983-twilight-lovers.json](./298983-twilight-lovers.json) |
 | Twilight Mahjongg | 73225 | [73225-twilight-mahjongg.json](./73225-twilight-mahjongg.json) |
 | Twilight Manor | 289929 | [289929-twilight-manor.json](./289929-twilight-manor.json) |
+| Twilight Memoria: Freedom | 253819 | [253819-twilight-memoria-freedom.json](./253819-twilight-memoria-freedom.json) |
 | Twilight Moonflower | 380224 | [380224-twilight-moonflower.json](./380224-twilight-moonflower.json) |
 | Twilight of Humanity | 181157 | [181157-twilight-of-humanity.json](./181157-twilight-of-humanity.json) |
 | Twilight of the Gods | 223436 | [223436-twilight-of-the-gods.json](./223436-twilight-of-the-gods.json) |
@@ -20876,6 +20893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tyr | 371867 | [371867-tyr.json](./371867-tyr.json) |
 | Tyr: Chains of Valhalla | 96750 | [96750-tyr-chains-of-valhalla.json](./96750-tyr-chains-of-valhalla.json) |
 | Tyrannical Chickens | 278726 | [278726-tyrannical-chickens.json](./278726-tyrannical-chickens.json) |
+| Tyrannis: Co-Prosperity | 253824 | [253824-tyrannis-co-prosperity.json](./253824-tyrannis-co-prosperity.json) |
 | Tyrannizer | 270741 | [270741-tyrannizer.json](./270741-tyrannizer.json) |
 | Tyrannosaurus Tex | 159036 | [159036-tyrannosaurus-tex.json](./159036-tyrannosaurus-tex.json) |
 | Tyranny: Archon Edition | 51797 | [51797-tyranny-archon-edition.json](./51797-tyranny-archon-edition.json) |
