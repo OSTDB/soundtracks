@@ -353,6 +353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wallykazam: Enchanted Adventures | 230410 | [230410-wallykazam-enchanted-adventures.json](./230410-wallykazam-enchanted-adventures.json) |
 | Walpurgis Night: Unmyeong-ui Gil 2 | 145620 | [145620-walpurgis-night-unmyeong-ui-gil-2.json](./145620-walpurgis-night-unmyeong-ui-gil-2.json) |
 | Walpurgis Quintet | 205253 | [205253-walpurgis-quintet.json](./205253-walpurgis-quintet.json) |
+| Walpurgis Raid | 277764 | [277764-walpurgis-raid.json](./277764-walpurgis-raid.json) |
 | Walpurgis: Enkan no Meikyuu | 205252 | [205252-walpurgis-enkan-no-meikyuu.json](./205252-walpurgis-enkan-no-meikyuu.json) |
 | Walpurgisnacht | 252086 | [252086-walpurgisnacht.json](./252086-walpurgisnacht.json) |
 | Walrus Fly | 406690 | [406690-walrus-fly.json](./406690-walrus-fly.json) |
@@ -1811,6 +1812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We Love Katamari REROLL+ Royal Reverie: Special Edition | 251688 | [251688-we-love-katamari-reroll-royal-reverie-special-edition.json](./251688-we-love-katamari-reroll-royal-reverie-special-edition.json) |
 | We Met in May | 119482 | [119482-we-met-in-may.json](./119482-we-met-in-may.json) |
 | We Need an Army | 363952 | [363952-we-need-an-army.json](./363952-we-need-an-army.json) |
+| We Need More Guns | 277778 | [277778-we-need-more-guns.json](./277778-we-need-more-guns.json) |
 | We Need More Steam! | 282221 | [282221-we-need-more-steam.json](./282221-we-need-more-steam.json) |
 | We Need the Sun | 185610 | [185610-we-need-the-sun.json](./185610-we-need-the-sun.json) |
 | We Need To Go Deeper: Complete Edition | 367309 | [367309-we-need-to-go-deeper-complete-edition.json](./367309-we-need-to-go-deeper-complete-edition.json) |
