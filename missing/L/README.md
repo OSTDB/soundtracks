@@ -4547,6 +4547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Longbow Anthology | 70358 | [70358-longbow-anthology.json](./70358-longbow-anthology.json) |
 | LongCat | 123539 | [123539-longcat.json](./123539-longcat.json) |
 | Longcat Journey | 290314 | [290314-longcat-journey.json](./290314-longcat-journey.json) |
+| Longest River | 267319 | [267319-longest-river.json](./267319-longest-river.json) |
 | Longevity Yin and Yang | 375865 | [375865-longevity-yin-and-yang.json](./375865-longevity-yin-and-yang.json) |
 | Longeyed Proj. | 223429 | [223429-longeyed-proj.json](./223429-longeyed-proj.json) |
 | Longhaus | 178523 | [178523-longhaus.json](./178523-longhaus.json) |
@@ -6046,6 +6047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luna Crabs | 71054 | [71054-luna-crabs.json](./71054-luna-crabs.json) |
 | Luna de Selene | 383349 | [383349-luna-de-selene.json](./383349-luna-de-selene.json) |
 | Luna in Silver Shards | 271233 | [271233-luna-in-silver-shards.json](./271233-luna-in-silver-shards.json) |
+| Luna League Soccer | 267324 | [267324-luna-league-soccer.json](./267324-luna-league-soccer.json) |
 | Luna Online | 93982 | [93982-luna-online.json](./93982-luna-online.json) |
 | Luna Sanctus | 121563 | [121563-luna-sanctus.json](./121563-luna-sanctus.json) |
 | Luna Sky RDX | 118734 | [118734-luna-sky-rdx.json](./118734-luna-sky-rdx.json) |
