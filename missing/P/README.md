@@ -962,6 +962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper Bride | 190178 | [190178-paper-bride.json](./190178-paper-bride.json) |
 | Paper Bride 2: Zangling Village | 200630 | [200630-paper-bride-2-zangling-village.json](./200630-paper-bride-2-zangling-village.json) |
 | Paper Bride 4: Bound Love | 236258 | [236258-paper-bride-4-bound-love.json](./236258-paper-bride-4-bound-love.json) |
+| Paper Bride 5 Two Lifetimes | 267828 | [267828-paper-bride-5-two-lifetimes.json](./267828-paper-bride-5-two-lifetimes.json) |
 | Paper Bride 6: Nightmare | 326046 | [326046-paper-bride-6-nightmare.json](./326046-paper-bride-6-nightmare.json) |
 | Paper Cages | 178670 | [178670-paper-cages.json](./178670-paper-cages.json) |
 | Paper Champion | 242800 | [242800-paper-champion.json](./242800-paper-champion.json) |
@@ -1766,6 +1767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Past Fate | 123029 | [123029-past-fate.json](./123029-past-fate.json) |
 | Past Hope | 326672 | [326672-past-hope.json](./326672-past-hope.json) |
 | Past Memories | 266830 | [266830-past-memories.json](./266830-past-memories.json) |
+| Past Memos | 267827 | [267827-past-memos.json](./267827-past-memos.json) |
 | Past Mistakes: Act I | 347296 | [347296-past-mistakes-act-i.json](./347296-past-mistakes-act-i.json) |
 | Past Synergy | 195079 | [195079-past-synergy.json](./195079-past-synergy.json) |
 | Pasta La Vista Super Mario Bros. | 392840 | [392840-pasta-la-vista-super-mario-bros.json](./392840-pasta-la-vista-super-mario-bros.json) |
@@ -9274,6 +9276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Basketball Manager 2019 | 111574 | [111574-pro-basketball-manager-2019.json](./111574-pro-basketball-manager-2019.json) |
 | Pro Basketball Manager 2022 | 182397 | [182397-pro-basketball-manager-2022.json](./182397-pro-basketball-manager-2022.json) |
 | Pro Basketball Manager 2023 | 220656 | [220656-pro-basketball-manager-2023.json](./220656-pro-basketball-manager-2023.json) |
+| Pro Basketball Manager 2024 | 267826 | [267826-pro-basketball-manager-2024.json](./267826-pro-basketball-manager-2024.json) |
 | Pro Basketball Manager 2025 | 316054 | [316054-pro-basketball-manager-2025.json](./316054-pro-basketball-manager-2025.json) |
 | Pro Basketball Manager 2026 | 371609 | [371609-pro-basketball-manager-2026.json](./371609-pro-basketball-manager-2026.json) |
 | Pro Bass Fishing 2003 | 27599 | [27599-pro-bass-fishing-2003.json](./27599-pro-bass-fishing-2003.json) |
@@ -9820,6 +9823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Malice | 220660 | [220660-project-malice.json](./220660-project-malice.json) |
 | Project Mansion | 317605 | [317605-project-mansion.json](./317605-project-mansion.json) |
 | Project Martians | 165698 | [165698-project-martians.json](./165698-project-martians.json) |
+| Project Maverick | 267873 | [267873-project-maverick.json](./267873-project-maverick.json) |
 | Project Maze | 365001 | [365001-project-maze.json](./365001-project-maze.json) |
 | Project Maze | 68586 | [68586-project-maze.json](./68586-project-maze.json) |
 | Project Mekuru | 85587 | [85587-project-mekuru.json](./85587-project-mekuru.json) |
@@ -10831,6 +10835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Purah's Lab | 279688 | [279688-purahs-lab.json](./279688-purahs-lab.json) |
 | Purarger Collector!! | 384805 | [384805-purarger-collector.json](./384805-purarger-collector.json) |
 | Purdy's Night Flight | 335109 | [335109-purdys-night-flight.json](./335109-purdys-night-flight.json) |
+| Pure Badminton | 267825 | [267825-pure-badminton.json](./267825-pure-badminton.json) |
 | Pure Blood | 310933 | [310933-pure-blood.json](./310933-pure-blood.json) |
 | Pure Chaotix | 326817 | [326817-pure-chaotix.json](./326817-pure-chaotix.json) |
 | Pure Chess: Grandmaster Edition | 82428 | [82428-pure-chess-grandmaster-edition.json](./82428-pure-chess-grandmaster-edition.json) |
