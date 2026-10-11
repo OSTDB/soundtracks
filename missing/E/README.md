@@ -3037,6 +3037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape | 154377 | [154377-escape.json](./154377-escape.json) |
 | Escape | 175910 | [175910-escape.json](./175910-escape.json) |
 | Escape | 230863 | [230863-escape.json](./230863-escape.json) |
+| Escape | 274428 | [274428-escape.json](./274428-escape.json) |
 | Escape | 295270 | [295270-escape.json](./295270-escape.json) |
 | Escape | 305450 | [305450-escape.json](./305450-escape.json) |
 | Escape | 305451 | [305451-escape.json](./305451-escape.json) |
