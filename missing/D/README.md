@@ -442,6 +442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dance Central Spotlight: Gotye ft. Kimbra - "Somebody That I Used to Know" | 353208 | [353208-dance-central-spotlight-gotye-ft-kimbra-somebody-that-i-used-to-know.json](./353208-dance-central-spotlight-gotye-ft-kimbra-somebody-that-i-used-to-know.json) |
 | Dance Central Spotlight: Mark Ronson ft. Bruno Mars - "Uptown Funk" | 353210 | [353210-dance-central-spotlight-mark-ronson-ft-bruno-mars-uptown-funk.json](./353210-dance-central-spotlight-mark-ronson-ft-bruno-mars-uptown-funk.json) |
 | Dance Central Spotlight: The Pussycat Dolls ft. Busta Rhymes - "Don't Cha" | 353211 | [353211-dance-central-spotlight-the-pussycat-dolls-ft-busta-rhymes-dont-cha.json](./353211-dance-central-spotlight-the-pussycat-dolls-ft-busta-rhymes-dont-cha.json) |
+| Dance Dance Revolution | 250255 | [250255-dance-dance-revolution.json](./250255-dance-dance-revolution.json) |
 | Dance Dance Revolution 2nd Mix: Dreamcast Edition | 268647 | [268647-dance-dance-revolution-2nd-mix-dreamcast-edition.json](./268647-dance-dance-revolution-2nd-mix-dreamcast-edition.json) |
 | Dance Dance Revolution 2ndMix | 77640 | [77640-dance-dance-revolution-2ndmix.json](./77640-dance-dance-revolution-2ndmix.json) |
 | Dance Dance Revolution 2ndReMix: Append Club Version Vol. 1 | 132807 | [132807-dance-dance-revolution-2ndremix-append-club-version-vol-1.json](./132807-dance-dance-revolution-2ndremix-append-club-version-vol-1.json) |
@@ -2430,6 +2431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadcraft: Deluxe Edition | 199896 | [199896-deadcraft-deluxe-edition.json](./199896-deadcraft-deluxe-edition.json) |
 | Deadcraft: Digital Deluxe Edition | 221250 | [221250-deadcraft-digital-deluxe-edition.json](./221250-deadcraft-digital-deluxe-edition.json) |
 | Deaded | 238738 | [238738-deaded.json](./238738-deaded.json) |
+| Deadenders | 250230 | [250230-deadenders.json](./250230-deadenders.json) |
 | Deadeus | 122405 | [122405-deadeus.json](./122405-deadeus.json) |
 | DeadEye | 116340 | [116340-deadeye.json](./116340-deadeye.json) |
 | DeadEye | 393750 | [393750-deadeye.json](./393750-deadeye.json) |
@@ -3247,6 +3249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Sea Hunter 2 | 95989 | [95989-deep-sea-hunter-2.json](./95989-deep-sea-hunter-2.json) |
 | Deep Sea Marble Pop | 146901 | [146901-deep-sea-marble-pop.json](./146901-deep-sea-marble-pop.json) |
 | Deep Sea Puzzle | 382453 | [382453-deep-sea-puzzle.json](./382453-deep-sea-puzzle.json) |
+| Deep Sea Sweep | 250257 | [250257-deep-sea-sweep.json](./250257-deep-sea-sweep.json) |
 | Deep Sea Tycoon: Diver's Paradise | 146201 | [146201-deep-sea-tycoon-divers-paradise.json](./146201-deep-sea-tycoon-divers-paradise.json) |
 | Deep Sea Valentine | 143485 | [143485-deep-sea-valentine.json](./143485-deep-sea-valentine.json) |
 | Deep Sheol | 372838 | [372838-deep-sheol.json](./372838-deep-sheol.json) |
@@ -4125,6 +4128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Densha de GO! Tokubetsu-hen: Fukkatsu Shouwa no Yamanotesen | 66660 | [66660-densha-de-go-tokubetsu-hen-fukkatsu-shouwa-no-yamanotesen.json](./66660-densha-de-go-tokubetsu-hen-fukkatsu-shouwa-no-yamanotesen.json) |
 | Densha Unten Shirei! Tokaido-hen | 221739 | [221739-densha-unten-shirei-tokaido-hen.json](./221739-densha-unten-shirei-tokaido-hen.json) |
 | Densha Unten Shirei! Tokyo-wan-hen | 221738 | [221738-densha-unten-shirei-tokyo-wan-hen.json](./221738-densha-unten-shirei-tokyo-wan-hen.json) |
+| Densha-zukuri no Popo | 250235 | [250235-densha-zukuri-no-popo.json](./250235-densha-zukuri-no-popo.json) |
 | Denshattack: Digital Deluxe Edition | 410845 | [410845-denshattack-digital-deluxe-edition.json](./410845-denshattack-digital-deluxe-edition.json) |
 | Denshattack: Hanafuda Throwback | 410848 | [410848-denshattack-hanafuda-throwback.json](./410848-denshattack-hanafuda-throwback.json) |
 | Denshattack: Seasonal Skins Pack | 410847 | [410847-denshattack-seasonal-skins-pack.json](./410847-denshattack-seasonal-skins-pack.json) |
@@ -9298,6 +9302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Sinker | 38504 | [38504-dragon-sinker.json](./38504-dragon-sinker.json) |
 | Dragon Sisters | 43265 | [43265-dragon-sisters.json](./43265-dragon-sisters.json) |
 | Dragon Slaughter | 144604 | [144604-dragon-slaughter.json](./144604-dragon-slaughter.json) |
+| Dragon Slayer | 250231 | [250231-dragon-slayer.json](./250231-dragon-slayer.json) |
 | Dragon Slayer | 293747 | [293747-dragon-slayer.json](./293747-dragon-slayer.json) |
 | Dragon Slayer | 80519 | [80519-dragon-slayer.json](./80519-dragon-slayer.json) |
 | Dragon Slayer and The Leaf Town | 348966 | [348966-dragon-slayer-and-the-leaf-town.json](./348966-dragon-slayer-and-the-leaf-town.json) |
@@ -9641,6 +9646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DRazor | 156084 | [156084-drazor.json](./156084-drazor.json) |
 | Dread | 130910 | [130910-dread.json](./130910-dread.json) |
 | Dread Chess | 338338 | [338338-dread-chess.json](./338338-dread-chess.json) |
+| Dread Dawn | 250233 | [250233-dread-dawn.json](./250233-dread-dawn.json) |
 | Dread Delusion: Rise of the Skeletons | 272835 | [272835-dread-delusion-rise-of-the-skeletons.json](./272835-dread-delusion-rise-of-the-skeletons.json) |
 | Dread Dice | 184444 | [184444-dread-dice.json](./184444-dread-dice.json) |
 | Dread Flats | 351690 | [351690-dread-flats.json](./351690-dread-flats.json) |
@@ -10456,6 +10462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dropsol | 251755 | [251755-dropsol.json](./251755-dropsol.json) |
 | Dropsy | 11488 | [11488-dropsy.json](./11488-dropsy.json) |
 | Droptch | 164920 | [164920-droptch.json](./164920-droptch.json) |
+| Droptic | 250265 | [250265-droptic.json](./250265-droptic.json) |
 | DropZap | 174182 | [174182-dropzap.json](./174182-dropzap.json) |
 | Dropzone | 30116 | [30116-dropzone.json](./30116-dropzone.json) |
 | Dropzone | 369616 | [369616-dropzone.json](./369616-dropzone.json) |
