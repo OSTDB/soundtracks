@@ -3579,6 +3579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ser Jorryn | 379867 | [379867-ser-jorryn.json](./379867-ser-jorryn.json) |
 | Sera Dion: Survivor | 344879 | [344879-sera-dion-survivor.json](./344879-sera-dion-survivor.json) |
 | Serafina's Crown | 33338 | [33338-serafinas-crown.json](./33338-serafinas-crown.json) |
+| Serafina's Saga: Awakened | 252012 | [252012-serafinas-saga-awakened.json](./252012-serafinas-saga-awakened.json) |
 | Serania: Path of the Scion | 258008 | [258008-serania-path-of-the-scion.json](./258008-serania-path-of-the-scion.json) |
 | Seraph of the End: The Origin of Fate | 13638 | [13638-seraph-of-the-end-the-origin-of-fate.json](./13638-seraph-of-the-end-the-origin-of-fate.json) |
 | Seraph: In the Darkness | 277875 | [277875-seraph-in-the-darkness.json](./277875-seraph-in-the-darkness.json) |
@@ -18536,6 +18537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudoku: Classic Sudoku Puzzle | 356882 | [356882-sudoku-classic-sudoku-puzzle.json](./356882-sudoku-classic-sudoku-puzzle.json) |
 | Sudoku: Game for Kids | 283225 | [283225-sudoku-game-for-kids.json](./283225-sudoku-game-for-kids.json) |
 | Sudoku: NESWorld Edition | 195523 | [195523-sudoku-nesworld-edition.json](./195523-sudoku-nesworld-edition.json) |
+| Sudoku: O Globo | 252065 | [252065-sudoku-o-globo.json](./252065-sudoku-o-globo.json) |
 | Sudoku: Powered by Jamdat | 275649 | [275649-sudoku-powered-by-jamdat.json](./275649-sudoku-powered-by-jamdat.json) |
 | Sudoku: The Clean One | 180244 | [180244-sudoku-the-clean-one.json](./180244-sudoku-the-clean-one.json) |
 | Sudoku: Tied Up & Bound | 275648 | [275648-sudoku-tied-up-and-bound.json](./275648-sudoku-tied-up-and-bound.json) |
