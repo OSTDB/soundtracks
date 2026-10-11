@@ -1127,6 +1127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eizoku | 134519 | [134519-eizoku.json](./134519-eizoku.json) |
 | EJ Puzzles: Hooked | 85106 | [85106-ej-puzzles-hooked.json](./85106-ej-puzzles-hooked.json) |
 | Eject Bombin' | 182923 | [182923-eject-bombin.json](./182923-eject-bombin.json) |
+| Ekans | 260588 | [260588-ekans.json](./260588-ekans.json) |
 | Ekholux | 374399 | [374399-ekholux.json](./374399-ekholux.json) |
 | Eklips | 174180 | [174180-eklips.json](./174180-eklips.json) |
 | Eko | 223673 | [223673-eko.json](./223673-eko.json) |
@@ -3194,6 +3195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape from Rowei | 200529 | [200529-escape-from-rowei.json](./200529-escape-from-rowei.json) |
 | Escape From Ruby Castle | 149034 | [149034-escape-from-ruby-castle.json](./149034-escape-from-ruby-castle.json) |
 | Escape From Russia | 368672 | [368672-escape-from-russia.json](./368672-escape-from-russia.json) |
+| Escape from Russia: Mobilization Madness | 260579 | [260579-escape-from-russia-mobilization-madness.json](./260579-escape-from-russia-mobilization-madness.json) |
 | Escape From School | 167681 | [167681-escape-from-school.json](./167681-escape-from-school.json) |
 | Escape From School: F.E.L.I.K | 235472 | [235472-escape-from-school-f-e-l-i-k.json](./235472-escape-from-school-f-e-l-i-k.json) |
 | Escape from Scientology Land | 237493 | [237493-escape-from-scientology-land.json](./237493-escape-from-scientology-land.json) |
@@ -4784,6 +4786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Expedition Amazon | 23898 | [23898-expedition-amazon.json](./23898-expedition-amazon.json) |
 | Expedition Astra | 288777 | [288777-expedition-astra.json](./288777-expedition-astra.json) |
 | Expedition to the Backrooms | 324305 | [324305-expedition-to-the-backrooms.json](./324305-expedition-to-the-backrooms.json) |
+| Expedition Wildlife | 260618 | [260618-expedition-wildlife.json](./260618-expedition-wildlife.json) |
 | Expedition Zero | 142883 | [142883-expedition-zero.json](./142883-expedition-zero.json) |
 | Expedition: Crushing Depth | 276293 | [276293-expedition-crushing-depth.json](./276293-expedition-crushing-depth.json) |
 | Expedition: Into Darkness | 324300 | [324300-expedition-into-darkness.json](./324300-expedition-into-darkness.json) |
