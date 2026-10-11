@@ -839,6 +839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Memo | 194340 | [194340-tales-of-memo.json](./194340-tales-of-memo.json) |
 | Tales of Middle Earth | 326278 | [326278-tales-of-middle-earth.json](./326278-tales-of-middle-earth.json) |
 | Tales of Miravia | 339420 | [339420-tales-of-miravia.json](./339420-tales-of-miravia.json) |
+| Tales of Mist | 260581 | [260581-tales-of-mist.json](./260581-tales-of-mist.json) |
 | Tales of Misteria | 204551 | [204551-tales-of-misteria.json](./204551-tales-of-misteria.json) |
 | Tales of Mobile: Craymel Lab | 294599 | [294599-tales-of-mobile-craymel-lab.json](./294599-tales-of-mobile-craymel-lab.json) |
 | Tales of Mobile: Groovy Arche | 294600 | [294600-tales-of-mobile-groovy-arche.json](./294600-tales-of-mobile-groovy-arche.json) |
@@ -2925,6 +2926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terrain Defender | 402381 | [402381-terrain-defender.json](./402381-terrain-defender.json) |
 | Terrain of Magical Expertise | 72762 | [72762-terrain-of-magical-expertise.json](./72762-terrain-of-magical-expertise.json) |
 | TerraKids: Save The World Kidos! | 285425 | [285425-terrakids-save-the-world-kidos.json](./285425-terrakids-save-the-world-kidos.json) |
+| Terralora | 260614 | [260614-terralora.json](./260614-terralora.json) |
 | Terralysia | 284591 | [284591-terralysia.json](./284591-terralysia.json) |
 | Terramachi: Battle Card Game | 215007 | [215007-terramachi-battle-card-game.json](./215007-terramachi-battle-card-game.json) |
 | TerraMartis4x | 157050 | [157050-terramartis4x.json](./157050-terramartis4x.json) |
@@ -3228,6 +3230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetrisweeper | 295637 | [295637-tetrisweeper.json](./295637-tetrisweeper.json) |
 | Tetrius | 147325 | [147325-tetrius.json](./147325-tetrius.json) |
 | Tetro Runner | 386245 | [386245-tetro-runner.json](./386245-tetro-runner.json) |
+| Tetrocombat | 260598 | [260598-tetrocombat.json](./260598-tetrocombat.json) |
 | Tetrogue | 413659 | [413659-tetrogue.json](./413659-tetrogue.json) |
 | Tetrogue Dragons | 164266 | [164266-tetrogue-dragons.json](./164266-tetrogue-dragons.json) |
 | Tetromino Attack | 117808 | [117808-tetromino-attack.json](./117808-tetromino-attack.json) |
@@ -4229,6 +4232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Blue Chamber | 247540 | [247540-the-blue-chamber.json](./247540-the-blue-chamber.json) |
 | The Blue Katana | 185122 | [185122-the-blue-katana.json](./185122-the-blue-katana.json) |
 | The Blue Marlin | 48104 | [48104-the-blue-marlin.json](./48104-the-blue-marlin.json) |
+| The Blue Stars | 260578 | [260578-the-blue-stars.json](./260578-the-blue-stars.json) |
 | The Blue Zula VR Concert Series | 110500 | [110500-the-blue-zula-vr-concert-series.json](./110500-the-blue-zula-vr-concert-series.json) |
 | The Blue-diamond Damsel in Distress | 336386 | [336386-the-blue-diamond-damsel-in-distress.json](./336386-the-blue-diamond-damsel-in-distress.json) |
 | The Blue-G Interactive Vector Archive 77-97 | 406232 | [406232-the-blue-g-interactive-vector-archive-77-97.json](./406232-the-blue-g-interactive-vector-archive-77-97.json) |
@@ -7215,6 +7219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Jungle Book 2 | 186649 | [186649-the-jungle-book-2.json](./186649-the-jungle-book-2.json) |
 | The Jungle Book: Mowgli's Run | 58644 | [58644-the-jungle-book-mowglis-run.json](./58644-the-jungle-book-mowglis-run.json) |
 | The Junuary Project | 233603 | [233603-the-junuary-project.json](./233603-the-junuary-project.json) |
+| The Jusou | 260595 | [260595-the-jusou.json](./260595-the-jusou.json) |
 | The Jusou 3 | 289994 | [289994-the-jusou-3.json](./289994-the-jusou-3.json) |
 | The Justitia Files | 232955 | [232955-the-justitia-files.json](./232955-the-justitia-files.json) |
 | The Kabuki Phantom | 298973 | [298973-the-kabuki-phantom.json](./298973-the-kabuki-phantom.json) |
@@ -7408,6 +7413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lake House: Children of Silence | 54299 | [54299-the-lake-house-children-of-silence.json](./54299-the-lake-house-children-of-silence.json) |
 | The Lamb of the Sabbath is Standing Upon the Hill | 346651 | [346651-the-lamb-of-the-sabbath-is-standing-upon-the-hill.json](./346651-the-lamb-of-the-sabbath-is-standing-upon-the-hill.json) |
 | The Lamplighters League | 240893 | [240893-the-lamplighters-league.json](./240893-the-lamplighters-league.json) |
+| The Lancaster Leak: Crisis at Call Center | 260586 | [260586-the-lancaster-leak-crisis-at-call-center.json](./260586-the-lancaster-leak-crisis-at-call-center.json) |
 | The Land | 64929 | [64929-the-land.json](./64929-the-land.json) |
 | The Land Before Time | 69555 | [69555-the-land-before-time.json](./69555-the-land-before-time.json) |
 | The Land Before Time Animated MovieBook | 329643 | [329643-the-land-before-time-animated-moviebook.json](./329643-the-land-before-time-animated-moviebook.json) |
@@ -9910,6 +9916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Running Man | 168630 | [168630-the-running-man.json](./168630-the-running-man.json) |
 | The Running Toaster | 332483 | [332483-the-running-toaster.json](./332483-the-running-toaster.json) |
 | The Rupture | 137972 | [137972-the-rupture.json](./137972-the-rupture.json) |
+| The Rush | 260603 | [260603-the-rush.json](./260603-the-rush.json) |
 | The Rush: The Veronica Story | 145577 | [145577-the-rush-the-veronica-story.json](./145577-the-rush-the-veronica-story.json) |
 | The Russian Doll | 280733 | [280733-the-russian-doll.json](./280733-the-russian-doll.json) |
 | The Russian Roulette Game: PR | 292522 | [292522-the-russian-roulette-game-pr.json](./292522-the-russian-roulette-game-pr.json) |
@@ -12505,6 +12512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thief Simulator: Heist Master | 308992 | [308992-thief-simulator-heist-master.json](./308992-thief-simulator-heist-master.json) |
 | Thief Simulator: Luxury Houses | 193192 | [193192-thief-simulator-luxury-houses.json](./193192-thief-simulator-luxury-houses.json) |
 | Thief Simulator: Mastermind Edition | 362344 | [362344-thief-simulator-mastermind-edition.json](./362344-thief-simulator-mastermind-edition.json) |
+| Thief Simulator: Shopping Center | 260570 | [260570-thief-simulator-shopping-center.json](./260570-thief-simulator-shopping-center.json) |
 | Thief VR: Legacy of Shadow | 347124 | [347124-thief-vr-legacy-of-shadow.json](./347124-thief-vr-legacy-of-shadow.json) |
 | Thief: Master Thief Edition | 53797 | [53797-thief-master-thief-edition.json](./53797-thief-master-thief-edition.json) |
 | Thief: The Bank Heist | 117274 | [117274-thief-the-bank-heist.json](./117274-thief-the-bank-heist.json) |
