@@ -3233,6 +3233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reply All | 350055 | [350055-reply-all.json](./350055-reply-all.json) |
 | Report II | 322812 | [322812-report-ii.json](./322812-report-ii.json) |
 | Report III | 322813 | [322813-report-iii.json](./322813-report-iii.json) |
+| Report on the Death of Robert Evergreen | 277322 | [277322-report-on-the-death-of-robert-evergreen.json](./277322-report-on-the-death-of-robert-evergreen.json) |
 | Report One | 322808 | [322808-report-one.json](./322808-report-one.json) |
 | Report One: Operation Alive | 322809 | [322809-report-one-operation-alive.json](./322809-report-one-operation-alive.json) |
 | Report: Horror Haul | 345705 | [345705-report-horror-haul.json](./345705-report-horror-haul.json) |
