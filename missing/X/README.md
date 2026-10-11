@@ -478,6 +478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | XG Blast! | 21254 | [21254-xg-blast.json](./21254-xg-blast.json) |
 | XGA | 316695 | [316695-xga.json](./316695-xga.json) |
 | XGun-Weapon Evolution | 31178 | [31178-xgun-weapon-evolution.json](./31178-xgun-weapon-evolution.json) |
+| Xheres | 239690 | [239690-xheres.json](./239690-xheres.json) |
 | Xi | 335683 | [335683-xi.json](./335683-xi.json) |
 | Xi (sai) Little | 37314 | [37314-xi-sai-little.json](./37314-xi-sai-little.json) |
 | Xi Coliseum | 334216 | [334216-xi-coliseum.json](./334216-xi-coliseum.json) |
