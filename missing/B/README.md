@@ -1314,6 +1314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Banisher | 346243 | [346243-banisher.json](./346243-banisher.json) |
 | Banishers: Ghosts of New Eden | 228539 | [228539-banishers-ghosts-of-new-eden.json](./228539-banishers-ghosts-of-new-eden.json) |
 | Banishers: Ghosts of New Eden - Wanderer Set DLC | 312879 | [312879-banishers-ghosts-of-new-eden-wanderer-set-dlc.json](./312879-banishers-ghosts-of-new-eden-wanderer-set-dlc.json) |
+| Banishers: Ghosts of New Eden – Collector’s Edition | 252615 | [252615-banishers-ghosts-of-new-eden-collector-s-edition.json](./252615-banishers-ghosts-of-new-eden-collector-s-edition.json) |
 | Banishing Racer | 7763 | [7763-banishing-racer.json](./7763-banishing-racer.json) |
 | Banja | 93537 | [93537-banja.json](./93537-banja.json) |
 | Banja Band | 293216 | [293216-banja-band.json](./293216-banja-band.json) |
@@ -4723,6 +4724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big-Time Butter Baron | 313178 | [313178-big-time-butter-baron.json](./313178-big-time-butter-baron.json) |
 | Big's Fishing Derby | 129179 | [129179-bigs-fishing-derby.json](./129179-bigs-fishing-derby.json) |
 | Big's Fishing Quest | 329400 | [329400-bigs-fishing-quest.json](./329400-bigs-fishing-quest.json) |
+| Big2Small | 252646 | [252646-big2small.json](./252646-big2small.json) |
 | BigBang Beat: 1st Impression | 133328 | [133328-bigbang-beat-1st-impression.json](./133328-bigbang-beat-1st-impression.json) |
 | BigBang Beat: Revolve | 133329 | [133329-bigbang-beat-revolve.json](./133329-bigbang-beat-revolve.json) |
 | BigChick | 158002 | [158002-bigchick.json](./158002-bigchick.json) |
@@ -7335,6 +7337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bluff: Fun Family Card Game | 227852 | [227852-bluff-fun-family-card-game.json](./227852-bluff-fun-family-card-game.json) |
 | Bluk | 57735 | [57735-bluk.json](./57735-bluk.json) |
 | Blukaty | 291241 | [291241-blukaty.json](./291241-blukaty.json) |
+| Blumen & Muster Puzzle: Echter Puzzlespass für Unterwegs | 252657 | [252657-blumen-and-muster-puzzle-echter-puzzlespass-fur-unterwegs.json](./252657-blumen-and-muster-puzzle-echter-puzzlespass-fur-unterwegs.json) |
 | Blumenmacht | 78913 | [78913-blumenmacht.json](./78913-blumenmacht.json) |
 | Blumgi Castle | 219262 | [219262-blumgi-castle.json](./219262-blumgi-castle.json) |
 | Blumgi Soccer | 303170 | [303170-blumgi-soccer.json](./303170-blumgi-soccer.json) |
@@ -8284,6 +8287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boreal Tenebrae | 195729 | [195729-boreal-tenebrae.json](./195729-boreal-tenebrae.json) |
 | Boreal Tenebrae Act 0 | 404353 | [404353-boreal-tenebrae-act-0.json](./404353-boreal-tenebrae-act-0.json) |
 | Boreal Tenebrae Deluxe | 242626 | [242626-boreal-tenebrae-deluxe.json](./242626-boreal-tenebrae-deluxe.json) |
+| Boreal Tenebrae Deluxe: Special Edition | 252633 | [252633-boreal-tenebrae-deluxe-special-edition.json](./252633-boreal-tenebrae-deluxe-special-edition.json) |
 | Boreal Tenebrae: Deluxe Definitive Edition | 259582 | [259582-boreal-tenebrae-deluxe-definitive-edition.json](./259582-boreal-tenebrae-deluxe-definitive-edition.json) |
 | Boreal Tenebrae: Deluxe Extended Edition | 250366 | [250366-boreal-tenebrae-deluxe-extended-edition.json](./250366-boreal-tenebrae-deluxe-extended-edition.json) |
 | Boreal Tenebrae: Deluxe Ultimate Edition | 247753 | [247753-boreal-tenebrae-deluxe-ultimate-edition.json](./247753-boreal-tenebrae-deluxe-ultimate-edition.json) |
@@ -10878,6 +10882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burg Schreckenstein: Der Dieb von Burg Schreckenstein | 376559 | [376559-burg-schreckenstein-der-dieb-von-burg-schreckenstein.json](./376559-burg-schreckenstein-der-dieb-von-burg-schreckenstein.json) |
 | Burgaholic | 343793 | [343793-burgaholic.json](./343793-burgaholic.json) |
 | Burgal's Bounty | 205604 | [205604-burgals-bounty.json](./205604-burgals-bounty.json) |
+| BurgardTime | 252649 | [252649-burgardtime.json](./252649-burgardtime.json) |
 | Burger | 302367 | [302367-burger.json](./302367-burger.json) |
 | Burger Bois | 347908 | [347908-burger-bois.json](./347908-burger-bois.json) |
 | Burger Bots Inc. | 365101 | [365101-burger-bots-inc.json](./365101-burger-bots-inc.json) |
