@@ -455,7 +455,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxia Reloaded | 175175 | [175175-galaxia-reloaded.json](./175175-galaxia-reloaded.json) |
 | Galaxian | 143370 | [143370-galaxian.json](./143370-galaxian.json) |
 | Galaxian | 239166 | [239166-galaxian.json](./239166-galaxian.json) |
+| Galaxian | 277242 | [277242-galaxian.json](./277242-galaxian.json) |
+| Galaxian | 277245 | [277245-galaxian.json](./277245-galaxian.json) |
+| Galaxian | 277246 | [277246-galaxian.json](./277246-galaxian.json) |
+| Galaxian | 277249 | [277249-galaxian.json](./277249-galaxian.json) |
+| Galaxian | 277250 | [277250-galaxian.json](./277250-galaxian.json) |
 | Galaxian | 277251 | [277251-galaxian.json](./277251-galaxian.json) |
+| Galaxian | 277253 | [277253-galaxian.json](./277253-galaxian.json) |
+| Galaxian | 277254 | [277254-galaxian.json](./277254-galaxian.json) |
 | Galaxian | 277384 | [277384-galaxian.json](./277384-galaxian.json) |
 | Galaxian | 277385 | [277385-galaxian.json](./277385-galaxian.json) |
 | Galaxian | 277386 | [277386-galaxian.json](./277386-galaxian.json) |
@@ -2988,6 +2995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glitched Lightning | 267463 | [267463-glitched-lightning.json](./267463-glitched-lightning.json) |
 | Glitched Out | 274482 | [274482-glitched-out.json](./274482-glitched-out.json) |
 | Glitcheon | 143557 | [143557-glitcheon.json](./143557-glitcheon.json) |
+| Glitcher | 277232 | [277232-glitcher.json](./277232-glitcher.json) |
 | Glitchers | 120332 | [120332-glitchers.json](./120332-glitchers.json) |
 | Glitchers: Hack 'em Up | 263123 | [263123-glitchers-hack-em-up.json](./263123-glitchers-hack-em-up.json) |
 | Glitchery | 386143 | [386143-glitchery.json](./386143-glitchery.json) |
@@ -3551,6 +3559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | God Eater: Off Shot - Twin Pack Vol. 7 | 216269 | [216269-god-eater-off-shot-twin-pack-vol-7.json](./216269-god-eater-off-shot-twin-pack-vol-7.json) |
 | GoD Factory: Wingmen | 12514 | [12514-god-factory-wingmen.json](./12514-god-factory-wingmen.json) |
 | God Fishing | 358872 | [358872-god-fishing.json](./358872-god-fishing.json) |
+| God For A Day | 277267 | [277267-god-for-a-day.json](./277267-god-for-a-day.json) |
 | God Girl | 250927 | [250927-god-girl.json](./250927-god-girl.json) |
 | God Give Me One More Chance | 400282 | [400282-god-give-me-one-more-chance.json](./400282-god-give-me-one-more-chance.json) |
 | God Hates Charades | 60899 | [60899-god-hates-charades.json](./60899-god-hates-charades.json) |
@@ -6052,6 +6061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gǔ Mù Lì Yǐng | 319747 | [319747-gu-mu-li-ying.json](./319747-gu-mu-li-ying.json) |
 | Gu Zhen Ren: Reverend Insanity | 358472 | [358472-gu-zhen-ren-reverend-insanity.json](./358472-gu-zhen-ren-reverend-insanity.json) |
 | Gu-gu Ganmo: Run-run Odekake Date Da ze ii | 349414 | [349414-gu-gu-ganmo-run-run-odekake-date-da-ze-ii.json](./349414-gu-gu-ganmo-run-run-odekake-date-da-ze-ii.json) |
+| Gu-L | 277228 | [277228-gu-l.json](./277228-gu-l.json) |
 | Gua-Le-Ni | 186662 | [186662-gua-le-ni.json](./186662-gua-le-ni.json) |
 | Guac' a Mole | 85170 | [85170-guac-a-mole.json](./85170-guac-a-mole.json) |
 | Guacamelee! 2 Complete | 119074 | [119074-guacamelee-2-complete.json](./119074-guacamelee-2-complete.json) |
