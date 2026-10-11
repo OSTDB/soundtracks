@@ -3076,6 +3076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nindash: Skull Valley | 93836 | [93836-nindash-skull-valley.json](./93836-nindash-skull-valley.json) |
 | Nindo: Guardian of the Starlit Shadow | 342050 | [342050-nindo-guardian-of-the-starlit-shadow.json](./342050-nindo-guardian-of-the-starlit-shadow.json) |
 | Nine | 82014 | [82014-nine.json](./82014-nine.json) |
+| Nine Days | 273811 | [273811-nine-days.json](./273811-nine-days.json) |
 | Nine Errand | 274512 | [274512-nine-errand.json](./274512-nine-errand.json) |
 | Nine Hentai Babes | 368513 | [368513-nine-hentai-babes.json](./368513-nine-hentai-babes.json) |
 | Nine Hole Ninja | 298818 | [298818-nine-hole-ninja.json](./298818-nine-hole-ninja.json) |
