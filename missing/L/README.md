@@ -3187,6 +3187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lilian: The beginning of the end | 183038 | [183038-lilian-the-beginning-of-the-end.json](./183038-lilian-the-beginning-of-the-end.json) |
 | Lilim Wants to Lv Up | 275138 | [275138-lilim-wants-to-lv-up.json](./275138-lilim-wants-to-lv-up.json) |
 | Lilith | 413898 | [413898-lilith.json](./413898-lilith.json) |
+| Lilith + Eve | 257837 | [257837-lilith-eve.json](./257837-lilith-eve.json) |
 | Lilith Hall | 266877 | [266877-lilith-hall.json](./266877-lilith-hall.json) |
 | Lilith Rising: Season 2 | 296929 | [296929-lilith-rising-season-2.json](./296929-lilith-rising-season-2.json) |
 | Lilith Wants to Buy Your Soul | 244745 | [244745-lilith-wants-to-buy-your-soul.json](./244745-lilith-wants-to-buy-your-soul.json) |
@@ -6051,6 +6052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luminyte | 152720 | [152720-luminyte.json](./152720-luminyte.json) |
 | Lumiric Stage | 412264 | [412264-lumiric-stage.json](./412264-lumiric-stage.json) |
 | Lumisar | 416813 | [416813-lumisar.json](./416813-lumisar.json) |
+| Lumiterra: Embers of the Legacy | 257878 | [257878-lumiterra-embers-of-the-legacy.json](./257878-lumiterra-embers-of-the-legacy.json) |
 | Lumiva Legacy | 265697 | [265697-lumiva-legacy.json](./265697-lumiva-legacy.json) |
 | Lumm-e | 304831 | [304831-lumm-e.json](./304831-lumm-e.json) |
 | Lumo | 19850 | [19850-lumo.json](./19850-lumo.json) |
