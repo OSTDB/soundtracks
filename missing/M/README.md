@@ -7045,6 +7045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mighty Math Zoo Zillions | 313286 | [313286-mighty-math-zoo-zillions.json](./313286-mighty-math-zoo-zillions.json) |
 | Mighty Math: Calculating Crew | 313278 | [313278-mighty-math-calculating-crew.json](./313278-mighty-math-calculating-crew.json) |
 | Mighty Mike (Power Pete) | 72658 | [72658-mighty-mike-power-pete.json](./72658-mighty-mike-power-pete.json) |
+| Mighty Mini Golf | 276212 | [276212-mighty-mini-golf.json](./276212-mighty-mini-golf.json) |
 | Mighty Monkey | 40389 | [40389-mighty-monkey.json](./40389-mighty-monkey.json) |
 | Mighty Monster Mayhem | 29622 | [29622-mighty-monster-mayhem.json](./29622-mighty-monster-mayhem.json) |
 | Mighty Monsters | 176867 | [176867-mighty-monsters.json](./176867-mighty-monsters.json) |
