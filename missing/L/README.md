@@ -459,6 +459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Land of Viewers | 204095 | [204095-land-of-viewers.json](./204095-land-of-viewers.json) |
 | Land of War: The Beginning | 122376 | [122376-land-of-war-the-beginning.json](./122376-land-of-war-the-beginning.json) |
 | Land of Warriors - Epic War | 100612 | [100612-land-of-warriors-epic-war.json](./100612-land-of-warriors-epic-war.json) |
+| Land of Zombies | 245777 | [245777-land-of-zombies.json](./245777-land-of-zombies.json) |
 | Land of Zombies | 302387 | [302387-land-of-zombies.json](./302387-land-of-zombies.json) |
 | Land of Zympaia | 132761 | [132761-land-of-zympaia.json](./132761-land-of-zympaia.json) |
 | Land of Zympaia: The New Light | 191047 | [191047-land-of-zympaia-the-new-light.json](./191047-land-of-zympaia-the-new-light.json) |
@@ -5103,6 +5104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost in the Grotto: Thievery | 344517 | [344517-lost-in-the-grotto-thievery.json](./344517-lost-in-the-grotto-thievery.json) |
 | Lost in the Hole | 401605 | [401605-lost-in-the-hole.json](./401605-lost-in-the-hole.json) |
 | Lost in the Mine | 306377 | [306377-lost-in-the-mine.json](./306377-lost-in-the-mine.json) |
+| Lost In The Murk | 245776 | [245776-lost-in-the-murk.json](./245776-lost-in-the-murk.json) |
 | Lost in the Mythic Island | 100306 | [100306-lost-in-the-mythic-island.json](./100306-lost-in-the-mythic-island.json) |
 | Lost in the Nightmare | 71719 | [71719-lost-in-the-nightmare.json](./71719-lost-in-the-nightmare.json) |
 | Lost in the Open | 208609 | [208609-lost-in-the-open.json](./208609-lost-in-the-open.json) |
@@ -6248,6 +6250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lure | 139953 | [139953-lure.json](./139953-lure.json) |
 | Lure of the Temptress | 8482 | [8482-lure-of-the-temptress.json](./8482-lure-of-the-temptress.json) |
 | Lure: The King's Gold | 120167 | [120167-lure-the-kings-gold.json](./120167-lure-the-kings-gold.json) |
+| Lured | 245753 | [245753-lured.json](./245753-lured.json) |
 | Lurk and Rouse | 217316 | [217316-lurk-and-rouse.json](./217316-lurk-and-rouse.json) |
 | Lurk in Abyss | 390141 | [390141-lurk-in-abyss.json](./390141-lurk-in-abyss.json) |
 | Lurker Legends | 162425 | [162425-lurker-legends.json](./162425-lurker-legends.json) |
