@@ -960,6 +960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Walpurgis | 255051 | [255051-last-walpurgis.json](./255051-last-walpurgis.json) |
 | Last War | 285070 | [285070-last-war.json](./285070-last-war.json) |
 | Last War 2044 | 89406 | [89406-last-war-2044.json](./89406-last-war-2044.json) |
+| Last Warrior | 266713 | [266713-last-warrior.json](./266713-last-warrior.json) |
 | Last Watchtower | 376669 | [376669-last-watchtower.json](./376669-last-watchtower.json) |
 | Last Week | 123003 | [123003-last-week.json](./123003-last-week.json) |
 | Last Week of a King | 288227 | [288227-last-week-of-a-king.json](./288227-last-week-of-a-king.json) |
@@ -2070,6 +2071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LeHweng LeHweng | 156683 | [156683-lehweng-lehweng.json](./156683-lehweng-lehweng.json) |
 | Leikkaus | 413620 | [413620-leikkaus.json](./413620-leikkaus.json) |
 | Leila | 258420 | [258420-leila.json](./258420-leila.json) |
+| Léinǔ Jīshén | 266666 | [266666-leinu-jishen.json](./266666-leinu-jishen.json) |
 | Leiria: Stargazer | 202865 | [202865-leiria-stargazer.json](./202865-leiria-stargazer.json) |
 | Leisure Suit Larry 2: Goes Looking for Love (in Several Wrong Places) | 8656 | [8656-leisure-suit-larry-2-goes-looking-for-love-in-several-wrong-places.json](./8656-leisure-suit-larry-2-goes-looking-for-love-in-several-wrong-places.json) |
 | Leisure Suit Larry 5: Passionate Patti Does a Little Undercover Work | 2910 | [2910-leisure-suit-larry-5-passionate-patti-does-a-little-undercover-work.json](./2910-leisure-suit-larry-5-passionate-patti-does-a-little-undercover-work.json) |
@@ -2530,6 +2532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lettuce Fish | 404977 | [404977-lettuce-fish.json](./404977-lettuce-fish.json) |
 | Letux Game | 199469 | [199469-letux-game.json](./199469-letux-game.json) |
 | Letzte Worte VR | 111587 | [111587-letzte-worte-vr.json](./111587-letzte-worte-vr.json) |
+| Leucistic Wyvern | 266657 | [266657-leucistic-wyvern.json](./266657-leucistic-wyvern.json) |
 | Levana Horror Tale | 316356 | [316356-levana-horror-tale.json](./316356-levana-horror-tale.json) |
 | Levania | 367018 | [367018-levania.json](./367018-levania.json) |
 | Levantar La Botella | 364512 | [364512-levantar-la-botella.json](./364512-levantar-la-botella.json) |
