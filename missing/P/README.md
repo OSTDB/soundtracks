@@ -1243,6 +1243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paradise Never: The Revolution Fails | 14398 | [14398-paradise-never-the-revolution-fails.json](./14398-paradise-never-the-revolution-fails.json) |
 | Paradise of Freedom | 332539 | [332539-paradise-of-freedom.json](./332539-paradise-of-freedom.json) |
 | Paradise Sea | 406743 | [406743-paradise-sea.json](./406743-paradise-sea.json) |
+| Paradise Sex | 245764 | [245764-paradise-sex.json](./245764-paradise-sex.json) |
 | Paradise Shooting 2!! | 311808 | [311808-paradise-shooting-2.json](./311808-paradise-shooting-2.json) |
 | Paradise Shooting!! | 297174 | [297174-paradise-shooting.json](./297174-paradise-shooting.json) |
 | Paradise Sickness | 270769 | [270769-paradise-sickness.json](./270769-paradise-sickness.json) |
@@ -3809,9 +3810,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pickmos | 395697 | [395697-pickmos.json](./395697-pickmos.json) |
 | Pickochet | 388959 | [388959-pickochet.json](./388959-pickochet.json) |
 | Pickup 'N' Packup! | 323260 | [323260-pickup-n-packup.json](./323260-pickup-n-packup.json) |
+| Pickup Artist Trouble | 245765 | [245765-pickup-artist-trouble.json](./245765-pickup-artist-trouble.json) |
 | PickUp Express | 72956 | [72956-pickup-express.json](./72956-pickup-express.json) |
 | Pickup One | 202753 | [202753-pickup-one.json](./202753-pickup-one.json) |
 | Pickup Point Simulator | 304613 | [304613-pickup-point-simulator.json](./304613-pickup-point-simulator.json) |
+| Picme | 245739 | [245739-picme.json](./245739-picme.json) |
 | Picnic | 22817 | [22817-picnic.json](./22817-picnic.json) |
 | Picnic Girls | 376760 | [376760-picnic-girls.json](./376760-picnic-girls.json) |
 | Picnic Paranoia | 18560 | [18560-picnic-paranoia.json](./18560-picnic-paranoia.json) |
@@ -3974,6 +3977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pieces of Me | 318759 | [318759-pieces-of-me.json](./318759-pieces-of-me.json) |
 | Pieces of My Heart | 246635 | [246635-pieces-of-my-heart.json](./246635-pieces-of-my-heart.json) |
 | Pieces of the Kingdom | 377965 | [377965-pieces-of-the-kingdom.json](./377965-pieces-of-the-kingdom.json) |
+| PieClicker | 245740 | [245740-pieclicker.json](./245740-pieclicker.json) |
 | Piecrust | 311699 | [311699-piecrust.json](./311699-piecrust.json) |
 | Pieklo | 274135 | [274135-pieklo.json](./274135-pieklo.json) |
 | Pien | 144144 | [144144-pien.json](./144144-pien.json) |
@@ -10909,6 +10913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puppet: Hide And Seek | 302934 | [302934-puppet-hide-and-seek.json](./302934-puppet-hide-and-seek.json) |
 | Puppeteer | 212232 | [212232-puppeteer.json](./212232-puppeteer.json) |
 | Puppeteer: Control | 261836 | [261836-puppeteer-control.json](./261836-puppeteer-control.json) |
+| Puppetmaster: Pose Viewer | 245741 | [245741-puppetmaster-pose-viewer.json](./245741-puppetmaster-pose-viewer.json) |
 | PuppeTNetiK: Speedrun Challenge | 152365 | [152365-puppetnetik-speedrun-challenge.json](./152365-puppetnetik-speedrun-challenge.json) |
 | PuppetShow: Destiny Undone | 63571 | [63571-puppetshow-destiny-undone.json](./63571-puppetshow-destiny-undone.json) |
 | PuppetShow: Destiny Undone - Collector's Edition | 105749 | [105749-puppetshow-destiny-undone-collectors-edition.json](./105749-puppetshow-destiny-undone-collectors-edition.json) |
