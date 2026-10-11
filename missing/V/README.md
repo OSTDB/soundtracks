@@ -139,6 +139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vagrant Shifter | 286129 | [286129-vagrant-shifter.json](./286129-vagrant-shifter.json) |
 | Vagrant Story | 2216 | [2216-vagrant-story.json](./2216-vagrant-story.json) |
 | Vagrant Strider | 272384 | [272384-vagrant-strider.json](./272384-vagrant-strider.json) |
+| Vagrient | 276152 | [276152-vagrient.json](./276152-vagrient.json) |
 | Vagrus: The Riven Realms - At the Heart of Ruin | 375174 | [375174-vagrus-the-riven-realms-at-the-heart-of-ruin.json](./375174-vagrus-the-riven-realms-at-the-heart-of-ruin.json) |
 | Vagrus: The Riven Realms - Centurion Edition | 186892 | [186892-vagrus-the-riven-realms-centurion-edition.json](./186892-vagrus-the-riven-realms-centurion-edition.json) |
 | Vagrus: The Riven Realms - Old Acquaintances | 298116 | [298116-vagrus-the-riven-realms-old-acquaintances.json](./298116-vagrus-the-riven-realms-old-acquaintances.json) |
