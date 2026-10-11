@@ -1,10 +1,9 @@
 {
-  "_readme": "Fill in the fields below, then delete this _readme line. See ../SUBMITTING.md for full instructions.",
   "igdb_id": "7858",
   "game_name": "Sonic Adventure 2",
-  "album_name": "",
-  "spotify_url": "",
-  "apple_music_url": "",
-  "album_link_url": "",
-  "album_cover_url": ""
+  "album_name": "Sonic Adventure 2 Original Soundtrack (vol.1)",
+  "spotify_url": "https://open.spotify.com/album/2mnhCObpHcTNkT9PEeYrkn",
+  "apple_music_url": "https://music.apple.com/us/album/sonic-adventure-2-original-soundtrack-vol-1/929920745",
+  "album_link_url": "https://album.link/i/929920745",
+  "album_cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/6d/f0/6a/6df06a57-fd59-9c04-dfc3-1b975d50fc0b/ADV2_Vol1.jpg/600x600bb.jpg"
 }
