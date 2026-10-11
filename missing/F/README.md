@@ -1214,6 +1214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Beauties: Sigrún Level Pack | 312107 | [312107-fantasy-beauties-sigrun-level-pack.json](./312107-fantasy-beauties-sigrun-level-pack.json) |
 | Fantasy Blacksmith Simulator | 410333 | [410333-fantasy-blacksmith-simulator.json](./410333-fantasy-blacksmith-simulator.json) |
 | Fantasy Blade | 188393 | [188393-fantasy-blade.json](./188393-fantasy-blade.json) |
+| Fantasy Boy | 240828 | [240828-fantasy-boy.json](./240828-fantasy-boy.json) |
 | Fantasy Brothel Manager | 359037 | [359037-fantasy-brothel-manager.json](./359037-fantasy-brothel-manager.json) |
 | Fantasy Burger | 354537 | [354537-fantasy-burger.json](./354537-fantasy-burger.json) |
 | Fantasy Cascade: Episode 1 - Overspill | 218166 | [218166-fantasy-cascade-episode-1-overspill.json](./218166-fantasy-cascade-episode-1-overspill.json) |
@@ -6937,6 +6938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fractured Fury | 244216 | [244216-fractured-fury.json](./244216-fractured-fury.json) |
 | Fractured Lands | 102871 | [102871-fractured-lands.json](./102871-fractured-lands.json) |
 | Fractured Library | 366699 | [366699-fractured-library.json](./366699-fractured-library.json) |
+| Fractured Light | 240830 | [240830-fractured-light.json](./240830-fractured-light.json) |
 | Fractured Mind | 294273 | [294273-fractured-mind.json](./294273-fractured-mind.json) |
 | Fractured Perception | 336149 | [336149-fractured-perception.json](./336149-fractured-perception.json) |
 | Fractured Skyline | 116426 | [116426-fractured-skyline.json](./116426-fractured-skyline.json) |
@@ -6968,6 +6970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fragile Ascent | 292010 | [292010-fragile-ascent.json](./292010-fragile-ascent.json) |
 | Fragile Box | 129681 | [129681-fragile-box.json](./129681-fragile-box.json) |
 | Fragile Equilibrium | 113757 | [113757-fragile-equilibrium.json](./113757-fragile-equilibrium.json) |
+| Fragile Feelings | 240688 | [240688-fragile-feelings.json](./240688-fragile-feelings.json) |
 | Fragile Hero and the Immortal Frog | 353830 | [353830-fragile-hero-and-the-immortal-frog.json](./353830-fragile-hero-and-the-immortal-frog.json) |
 | Fragile Peace | 370264 | [370264-fragile-peace.json](./370264-fragile-peace.json) |
 | Fragile Reflection | 309533 | [309533-fragile-reflection.json](./309533-fragile-reflection.json) |
