@@ -1881,6 +1881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Batman 3: Beyond Gotham | 7685 | [7685-lego-batman-3-beyond-gotham.json](./7685-lego-batman-3-beyond-gotham.json) |
 | LEGO Batman 3: Beyond Gotham - Dark Knight | 266232 | [266232-lego-batman-3-beyond-gotham-dark-knight.json](./266232-lego-batman-3-beyond-gotham-dark-knight.json) |
 | LEGO Batman 3: Beyond Gotham - Premium Edition | 118897 | [118897-lego-batman-3-beyond-gotham-premium-edition.json](./118897-lego-batman-3-beyond-gotham-premium-edition.json) |
+| Lego Batman 3: Beyond Gotham Rainbow Character Pack | 254995 | [254995-lego-batman-3-beyond-gotham-rainbow-character-pack.json](./254995-lego-batman-3-beyond-gotham-rainbow-character-pack.json) |
 | LEGO Batman Trilogy | 125173 | [125173-lego-batman-trilogy.json](./125173-lego-batman-trilogy.json) |
 | LEGO Batman: Legacy of the Dark Knight - Arkham Trilogy Pack | 401703 | [401703-lego-batman-legacy-of-the-dark-knight-arkham-trilogy-pack.json](./401703-lego-batman-legacy-of-the-dark-knight-arkham-trilogy-pack.json) |
 | LEGO Batman: Legacy of the Dark Knight - Batman Beyond Pack | 404392 | [404392-lego-batman-legacy-of-the-dark-knight-batman-beyond-pack.json](./404392-lego-batman-legacy-of-the-dark-knight-batman-beyond-pack.json) |
@@ -3438,6 +3439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Link Penguins | 391224 | [391224-link-penguins.json](./391224-link-penguins.json) |
 | Link the animals | 117774 | [117774-link-the-animals.json](./117774-link-the-animals.json) |
 | Link Tower | 320810 | [320810-link-tower.json](./320810-link-tower.json) |
+| Link Track | 255012 | [255012-link-track.json](./255012-link-track.json) |
 | Link Twin | 29055 | [29055-link-twin.json](./29055-link-twin.json) |
 | Link Wars | 153317 | [153317-link-wars.json](./153317-link-wars.json) |
 | Link: The Faces of Evil | 8532 | [8532-link-the-faces-of-evil.json](./8532-link-the-faces-of-evil.json) |
@@ -4029,6 +4031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Living Books: Little Monster at School | 45917 | [45917-living-books-little-monster-at-school.json](./45917-living-books-little-monster-at-school.json) |
 | Living Books: Sheila Rae, the Brave | 71796 | [71796-living-books-sheila-rae-the-brave.json](./71796-living-books-sheila-rae-the-brave.json) |
 | Living Books: Stellaluna | 229068 | [229068-living-books-stellaluna.json](./229068-living-books-stellaluna.json) |
+| Living Books: The Cat in the Hat | 254971 | [254971-living-books-the-cat-in-the-hat.json](./254971-living-books-the-cat-in-the-hat.json) |
 | Living Cell | 253399 | [253399-living-cell.json](./253399-living-cell.json) |
 | Living Dark | 77355 | [77355-living-dark.json](./77355-living-dark.json) |
 | Living Dolls Rebirth Alpha | 270030 | [270030-living-dolls-rebirth-alpha.json](./270030-living-dolls-rebirth-alpha.json) |
@@ -4350,6 +4353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Logic Light | 170898 | [170898-logic-light.json](./170898-logic-light.json) |
 | Logic Mahjong Souryuu | 326087 | [326087-logic-mahjong-souryuu.json](./326087-logic-mahjong-souryuu.json) |
 | Logic Master Detective 2 | 175188 | [175188-logic-master-detective-2.json](./175188-logic-master-detective-2.json) |
+| Logic Master Detective 3 | 255006 | [255006-logic-master-detective-3.json](./255006-logic-master-detective-3.json) |
 | Logic Missile | 33382 | [33382-logic-missile.json](./33382-logic-missile.json) |
 | Logic Path | 392451 | [392451-logic-path.json](./392451-logic-path.json) |
 | Logic Pic | 212273 | [212273-logic-pic.json](./212273-logic-pic.json) |
