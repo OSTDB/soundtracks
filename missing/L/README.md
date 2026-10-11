@@ -1341,6 +1341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | League of Maidens: Standard Edition | 343745 | [343745-league-of-maidens-standard-edition.json](./343745-league-of-maidens-standard-edition.json) |
 | League of Mermaids | 34920 | [34920-league-of-mermaids.json](./34920-league-of-mermaids.json) |
 | League of Piss | 383041 | [383041-league-of-piss.json](./383041-league-of-piss.json) |
+| League of Speedrunners | 277265 | [277265-league-of-speedrunners.json](./277265-league-of-speedrunners.json) |
 | League of Stickman | 99720 | [99720-league-of-stickman.json](./99720-league-of-stickman.json) |
 | League of Stickman 2 | 174638 | [174638-league-of-stickman-2.json](./174638-league-of-stickman-2.json) |
 | League of Stickman: (Dreamsky)Warriors | 105871 | [105871-league-of-stickman-dreamsky-warriors.json](./105871-league-of-stickman-dreamsky-warriors.json) |
@@ -3962,6 +3963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Live Mystery: The Worst Behind the Scenes in History | 316146 | [316146-live-mystery-the-worst-behind-the-scenes-in-history.json](./316146-live-mystery-the-worst-behind-the-scenes-in-history.json) |
 | Live or Die | 191091 | [191091-live-or-die.json](./191091-live-or-die.json) |
 | Live or Die | 213850 | [213850-live-or-die.json](./213850-live-or-die.json) |
+| Live or Die | 277238 | [277238-live-or-die.json](./277238-live-or-die.json) |
 | Live or Die: Survival | 106527 | [106527-live-or-die-survival.json](./106527-live-or-die-survival.json) |
 | Live Penalty | 140913 | [140913-live-penalty.json](./140913-live-penalty.json) |
 | LIve Pict | 278724 | [278724-live-pict.json](./278724-live-pict.json) |
@@ -4513,6 +4515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Long Live Caesar | 166717 | [166717-long-live-caesar.json](./166717-long-live-caesar.json) |
 | Long Live the Axe | 122858 | [122858-long-live-the-axe.json](./122858-long-live-the-axe.json) |
 | Long Live The Emperor | 419953 | [419953-long-live-the-emperor.json](./419953-long-live-the-emperor.json) |
+| Long Lost | 277321 | [277321-long-lost.json](./277321-long-lost.json) |
 | Long Nardy | 264362 | [264362-long-nardy.json](./264362-long-nardy.json) |
 | Long Night | 16941 | [16941-long-night.json](./16941-long-night.json) |
 | Long Road | 148914 | [148914-long-road.json](./148914-long-road.json) |
