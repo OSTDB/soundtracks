@@ -1288,6 +1288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gas Station Simulator: Can Touch This DLC | 298596 | [298596-gas-station-simulator-can-touch-this-dlc.json](./298596-gas-station-simulator-can-touch-this-dlc.json) |
 | Gas Station Simulator: DLC Pack | 267415 | [267415-gas-station-simulator-dlc-pack.json](./267415-gas-station-simulator-dlc-pack.json) |
 | Gas Station Simulator: RV Camp | 346728 | [346728-gas-station-simulator-rv-camp.json](./346728-gas-station-simulator-rv-camp.json) |
+| Gas Station Simulator: Tidal Wave DLC | 267296 | [267296-gas-station-simulator-tidal-wave-dlc.json](./267296-gas-station-simulator-tidal-wave-dlc.json) |
 | Gas Station Sketch | 131553 | [131553-gas-station-sketch.json](./131553-gas-station-sketch.json) |
 | Gas Station Story | 285699 | [285699-gas-station-story.json](./285699-gas-station-story.json) |
 | Gas Station Tycoon | 261835 | [261835-gas-station-tycoon.json](./261835-gas-station-tycoon.json) |
@@ -2497,6 +2498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghostwire Tokyo: Spider's Thread | 246125 | [246125-ghostwire-tokyo-spiders-thread.json](./246125-ghostwire-tokyo-spiders-thread.json) |
 | Ghostwire: Tokyo - Deluxe Edition | 192309 | [192309-ghostwire-tokyo-deluxe-edition.json](./192309-ghostwire-tokyo-deluxe-edition.json) |
 | Ghostwire: Tokyo - Prelude: The Corrupted Casefile | 194210 | [194210-ghostwire-tokyo-prelude-the-corrupted-casefile.json](./194210-ghostwire-tokyo-prelude-the-corrupted-casefile.json) |
+| Ghostwire: Tokyo 2 | 267309 | [267309-ghostwire-tokyo-2.json](./267309-ghostwire-tokyo-2.json) |
 | Ghostwriter Workshop | 330950 | [330950-ghostwriter-workshop.json](./330950-ghostwriter-workshop.json) |
 | GhostX | 375396 | [375396-ghostx.json](./375396-ghostx.json) |
 | Ghosty | 156049 | [156049-ghosty.json](./156049-ghosty.json) |
