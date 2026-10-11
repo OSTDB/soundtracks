@@ -699,6 +699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rail Wars! | 86197 | [86197-rail-wars.json](./86197-rail-wars.json) |
 | Rail&Write | 184416 | [184416-rail-and-write.json](./184416-rail-and-write.json) |
 | Railborn | 348300 | [348300-railborn.json](./348300-railborn.json) |
+| Railbreak | 272195 | [272195-railbreak.json](./272195-railbreak.json) |
 | Railbreak: 90s Throwback Collection | 335102 | [335102-railbreak-90s-throwback-collection.json](./335102-railbreak-90s-throwback-collection.json) |
 | Railbreak: Arcade Onslaught Collection | 331405 | [331405-railbreak-arcade-onslaught-collection.json](./331405-railbreak-arcade-onslaught-collection.json) |
 | Railbreak: Neon Carnage Collection | 331406 | [331406-railbreak-neon-carnage-collection.json](./331406-railbreak-neon-carnage-collection.json) |
@@ -3315,6 +3316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rescue 2: Everyday Heroes | 53500 | [53500-rescue-2-everyday-heroes.json](./53500-rescue-2-everyday-heroes.json) |
 | Rescue 911 | 219016 | [219016-rescue-911.json](./219016-rescue-911.json) |
 | Rescue Bear Operation | 31743 | [31743-rescue-bear-operation.json](./31743-rescue-bear-operation.json) |
+| Rescue Cable | 272196 | [272196-rescue-cable.json](./272196-rescue-cable.json) |
 | Rescue Dash: Time Management Simulator | 230927 | [230927-rescue-dash-time-management-simulator.json](./230927-rescue-dash-time-management-simulator.json) |
 | Rescue Frenzy | 53501 | [53501-rescue-frenzy.json](./53501-rescue-frenzy.json) |
 | Rescue Friends Solitaire | 156544 | [156544-rescue-friends-solitaire.json](./156544-rescue-friends-solitaire.json) |
