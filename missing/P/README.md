@@ -887,6 +887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panzer Corps 2: Axis Operations - 1942 | 159689 | [159689-panzer-corps-2-axis-operations-1942.json](./159689-panzer-corps-2-axis-operations-1942.json) |
 | Panzer Corps 2: Axis Operations - 1944 | 220620 | [220620-panzer-corps-2-axis-operations-1944.json](./220620-panzer-corps-2-axis-operations-1944.json) |
 | Panzer Corps 2: Axis Operations - 1945 | 248896 | [248896-panzer-corps-2-axis-operations-1945.json](./248896-panzer-corps-2-axis-operations-1945.json) |
+| Panzer Corps 2: Axis Operations - 1946 | 270062 | [270062-panzer-corps-2-axis-operations-1946.json](./270062-panzer-corps-2-axis-operations-1946.json) |
 | Panzer Corps 2: Axis Operations - Spanish Civil War | 155049 | [155049-panzer-corps-2-axis-operations-spanish-civil-war.json](./155049-panzer-corps-2-axis-operations-spanish-civil-war.json) |
 | Panzer Corps 2: Elite - Ghost Division | 370129 | [370129-panzer-corps-2-elite-ghost-division.json](./370129-panzer-corps-2-elite-ghost-division.json) |
 | Panzer Corps 2: War Stories - Fall of Poland | 312303 | [312303-panzer-corps-2-war-stories-fall-of-poland.json](./312303-panzer-corps-2-war-stories-fall-of-poland.json) |
@@ -1610,6 +1611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Partisans 1941: Extended Edition | 193743 | [193743-partisans-1941-extended-edition.json](./193743-partisans-1941-extended-edition.json) |
 | Partition Sector | 144383 | [144383-partition-sector.json](./144383-partition-sector.json) |
 | Partivity! | 115655 | [115655-partivity.json](./115655-partivity.json) |
+| Partizan | 270055 | [270055-partizan.json](./270055-partizan.json) |
 | Partner In TV!!! O-Uchi ni Wan-chan ga Yattekita | 327623 | [327623-partner-in-tv-o-uchi-ni-wan-chan-ga-yattekita.json](./327623-partner-in-tv-o-uchi-ni-wan-chan-ga-yattekita.json) |
 | Partum Artifex | 186115 | [186115-partum-artifex.json](./186115-partum-artifex.json) |
 | Partway | 422092 | [422092-partway.json](./422092-partway.json) |
@@ -5117,6 +5119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Petkeeper | 213838 | [213838-pixel-petkeeper.json](./213838-pixel-petkeeper.json) |
 | Pixel Pileup Party | 130201 | [130201-pixel-pileup-party.json](./130201-pixel-pileup-party.json) |
 | Pixel Piracy | 5590 | [5590-pixel-piracy.json](./5590-pixel-piracy.json) |
+| Pixel Piracy Online | 270040 | [270040-pixel-piracy-online.json](./270040-pixel-piracy-online.json) |
 | Pixel Pirate | 195572 | [195572-pixel-pirate.json](./195572-pixel-pirate.json) |
 | Pixel Pirate | 342859 | [342859-pixel-pirate.json](./342859-pixel-pirate.json) |
 | Pixel Pirates | 53460 | [53460-pixel-pirates.json](./53460-pixel-pirates.json) |
@@ -9981,6 +9984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Wand: Land of Leng | 379537 | [379537-project-wand-land-of-leng.json](./379537-project-wand-land-of-leng.json) |
 | Project Warlock 2-pack | 223544 | [223544-project-warlock-2-pack.json](./223544-project-warlock-2-pack.json) |
 | Project Warlock II | 152272 | [152272-project-warlock-ii.json](./152272-project-warlock-ii.json) |
+| Project Warlock: Lost Chapters | 270023 | [270023-project-warlock-lost-chapters.json](./270023-project-warlock-lost-chapters.json) |
 | Project Watcher | 260218 | [260218-project-watcher.json](./260218-project-watcher.json) |
 | Project Waves | 114434 | [114434-project-waves.json](./114434-project-waves.json) |
 | Project Werewolf | 306099 | [306099-project-werewolf.json](./306099-project-werewolf.json) |
