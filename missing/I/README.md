@@ -600,6 +600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Icarus: Holdfast Outpost | 262456 | [262456-icarus-holdfast-outpost.json](./262456-icarus-holdfast-outpost.json) |
 | Icarus: Homestead Content Pack | 392438 | [392438-icarus-homestead-content-pack.json](./392438-icarus-homestead-content-pack.json) |
 | Icarus: Iceholm Outpost | 262457 | [262457-icarus-iceholm-outpost.json](./262457-icarus-iceholm-outpost.json) |
+| Icarus: Industrial Furniture Pack | 276206 | [276206-icarus-industrial-furniture-pack.json](./276206-icarus-industrial-furniture-pack.json) |
 | Icarus: Styx Map Pack | 204686 | [204686-icarus-styx-map-pack.json](./204686-icarus-styx-map-pack.json) |
 | Icarus: Tecton Outpost | 262458 | [262458-icarus-tecton-outpost.json](./262458-icarus-tecton-outpost.json) |
 | Icarus: The Day 4 | 65736 | [65736-icarus-the-day-4.json](./65736-icarus-the-day-4.json) |
@@ -2173,6 +2174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | iNeko | 84453 | [84453-ineko.json](./84453-ineko.json) |
 | Inertia | 261311 | [261311-inertia.json](./261311-inertia.json) |
 | Inertia | 54694 | [54694-inertia.json](./54694-inertia.json) |
+| Inertia 2 | 276128 | [276128-inertia-2.json](./276128-inertia-2.json) |
 | Inertia Ball | 264803 | [264803-inertia-ball.json](./264803-inertia-ball.json) |
 | Inertia: Redux | 208838 | [208838-inertia-redux.json](./208838-inertia-redux.json) |
 | Inertia: Redux | 208858 | [208858-inertia-redux.json](./208858-inertia-redux.json) |
