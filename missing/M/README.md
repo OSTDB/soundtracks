@@ -8027,6 +8027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Soccer Star | 414515 | [414515-mini-soccer-star.json](./414515-mini-soccer-star.json) |
 | Mini Speedy Racers | 240212 | [240212-mini-speedy-racers.json](./240212-mini-speedy-racers.json) |
 | Mini Spheres | 72311 | [72311-mini-spheres.json](./72311-mini-spheres.json) |
+| Mini Sports | 244693 | [244693-mini-sports.json](./244693-mini-sports.json) |
 | Mini Star Imposters | 285419 | [285419-mini-star-imposters.json](./285419-mini-star-imposters.json) |
 | Mini Star Quest | 344948 | [344948-mini-star-quest.json](./344948-mini-star-quest.json) |
 | Mini Star Survivor | 262902 | [262902-mini-star-survivor.json](./262902-mini-star-survivor.json) |
