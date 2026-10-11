@@ -1215,6 +1215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Factory Tycoon | 230372 | [230372-car-factory-tycoon.json](./230372-car-factory-tycoon.json) |
 | Car Fighter | 47539 | [47539-car-fighter.json](./47539-car-fighter.json) |
 | Car Flipper Simulator 25 | 328441 | [328441-car-flipper-simulator-25.json](./328441-car-flipper-simulator-25.json) |
+| Car for Sale Simulator 2023: Car Mechanic, Wash, Car Flipper | 273327 | [273327-car-for-sale-simulator-2023-car-mechanic-wash-car-flipper.json](./273327-car-for-sale-simulator-2023-car-mechanic-wash-car-flipper.json) |
 | Car For Sale Simulator 2023: PickUp & SUV | 359608 | [359608-car-for-sale-simulator-2023-pickup-and-suv.json](./359608-car-for-sale-simulator-2023-pickup-and-suv.json) |
 | Car for Trade | 267352 | [267352-car-for-trade.json](./267352-car-for-trade.json) |
 | Car Game | 176820 | [176820-car-game.json](./176820-car-game.json) |
@@ -1971,6 +1972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castaway Diary: Portal to the Unknown Isles | 398422 | [398422-castaway-diary-portal-to-the-unknown-isles.json](./398422-castaway-diary-portal-to-the-unknown-isles.json) |
 | Castaway Hand | 326195 | [326195-castaway-hand.json](./326195-castaway-hand.json) |
 | Castaway II: Isle of the Titans | 141759 | [141759-castaway-ii-isle-of-the-titans.json](./141759-castaway-ii-isle-of-the-titans.json) |
+| Castaway of Steel | 273328 | [273328-castaway-of-steel.json](./273328-castaway-of-steel.json) |
 | Castaway on a Weird Island | 174198 | [174198-castaway-on-a-weird-island.json](./174198-castaway-on-a-weird-island.json) |
 | Castaway Paradise | 36279 | [36279-castaway-paradise.json](./36279-castaway-paradise.json) |
 | Castaway Paradise - Animal Sim Island | 107089 | [107089-castaway-paradise-animal-sim-island.json](./107089-castaway-paradise-animal-sim-island.json) |
@@ -2701,6 +2703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cats Around Us: Black Cat | 347859 | [347859-cats-around-us-black-cat.json](./347859-cats-around-us-black-cat.json) |
 | Cats Away | 352180 | [352180-cats-away.json](./352180-cats-away.json) |
 | Cats Bounce Ball | 338189 | [338189-cats-bounce-ball.json](./338189-cats-bounce-ball.json) |
+| Cats Bundle | 273329 | [273329-cats-bundle.json](./273329-cats-bundle.json) |
 | Cats Contrast | 332970 | [332970-cats-contrast.json](./332970-cats-contrast.json) |
 | Cats Diner | 392948 | [392948-cats-diner.json](./392948-cats-diner.json) |
 | Cats Epic Puzzles | 334827 | [334827-cats-epic-puzzles.json](./334827-cats-epic-puzzles.json) |
@@ -6202,6 +6205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clientele | 213020 | [213020-clientele.json](./213020-clientele.json) |
 | Cliff Kingdom | 401152 | [401152-cliff-kingdom.json](./401152-cliff-kingdom.json) |
 | Cliff Rush 3D | 322986 | [322986-cliff-rush-3d.json](./322986-cliff-rush-3d.json) |
+| CliffDivers | 273294 | [273294-cliffdivers.json](./273294-cliffdivers.json) |
 | Cliffed | 92163 | [92163-cliffed.json](./92163-cliffed.json) |
 | Cliffhanger | 5370 | [5370-cliffhanger.json](./5370-cliffhanger.json) |
 | Cliffhanger | 81446 | [81446-cliffhanger.json](./81446-cliffhanger.json) |
@@ -8665,6 +8669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cooking Arena: 3 in 1 Edition | 283176 | [283176-cooking-arena-3-in-1-edition.json](./283176-cooking-arena-3-in-1-edition.json) |
 | Cooking Arena: 5 in 1 Edition | 266171 | [266171-cooking-arena-5-in-1-edition.json](./266171-cooking-arena-5-in-1-edition.json) |
 | Cooking Arena: 6 in 1 Edition | 270297 | [270297-cooking-arena-6-in-1-edition.json](./270297-cooking-arena-6-in-1-edition.json) |
+| Cooking Arena: 8 in 1 Edition | 273331 | [273331-cooking-arena-8-in-1-edition.json](./273331-cooking-arena-8-in-1-edition.json) |
 | Cooking Arena: 9 in 1 Edition | 275892 | [275892-cooking-arena-9-in-1-edition.json](./275892-cooking-arena-9-in-1-edition.json) |
 | Cooking Arena: Sushi Master | 308810 | [308810-cooking-arena-sushi-master.json](./308810-cooking-arena-sushi-master.json) |
 | Cooking Arena: Value Edition | 399814 | [399814-cooking-arena-value-edition.json](./399814-cooking-arena-value-edition.json) |
@@ -8696,6 +8701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cooking Simulator: Sushi | 273371 | [273371-cooking-simulator-sushi.json](./273371-cooking-simulator-sushi.json) |
 | Cooking Time! | 369725 | [369725-cooking-time.json](./369725-cooking-time.json) |
 | Cooking Trip: Back on the Road | 120385 | [120385-cooking-trip-back-on-the-road.json](./120385-cooking-trip-back-on-the-road.json) |
+| Cooking Trip: Collector's Edition | 273341 | [273341-cooking-trip-collectors-edition.json](./273341-cooking-trip-collectors-edition.json) |
 | Cooking Trip: New Challenge - Collector's Edition | 276299 | [276299-cooking-trip-new-challenge-collectors-edition.json](./276299-cooking-trip-new-challenge-collectors-edition.json) |
 | Cooking Truck | 227475 | [227475-cooking-truck.json](./227475-cooking-truck.json) |
 | Cooking Tycoons - 3 in 1 Bundle Upgrade Edition | 399815 | [399815-cooking-tycoons-3-in-1-bundle-upgrade-edition.json](./399815-cooking-tycoons-3-in-1-bundle-upgrade-edition.json) |
