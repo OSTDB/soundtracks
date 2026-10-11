@@ -1683,6 +1683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Party Party Time 2: Party Spirit Pack | 310078 | [310078-party-party-time-2-party-spirit-pack.json](./310078-party-party-time-2-party-spirit-pack.json) |
 | Party Party Time 3 | 324133 | [324133-party-party-time-3.json](./324133-party-party-time-3.json) |
 | Party Party Time: Character Skin Pack 2 | 256460 | [256460-party-party-time-character-skin-pack-2.json](./256460-party-party-time-character-skin-pack-2.json) |
+| Party Party Time: Excitement Pack | 253804 | [253804-party-party-time-excitement-pack.json](./253804-party-party-time-excitement-pack.json) |
 | Party Party Time: Happy Happy Pack | 259855 | [259855-party-party-time-happy-happy-pack.json](./259855-party-party-time-happy-happy-pack.json) |
 | Party Party Time: Party Harder Pack | 233000 | [233000-party-party-time-party-harder-pack.json](./233000-party-party-time-party-harder-pack.json) |
 | Party Party Time: Party Power Pack | 294021 | [294021-party-party-time-party-power-pack.json](./294021-party-party-time-party-power-pack.json) |
@@ -6989,6 +6990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Gaia Version | 136997 | [136997-pokemon-gaia-version.json](./136997-pokemon-gaia-version.json) |
 | Pokémon Gamma Emerald | 342762 | [342762-pokemon-gamma-emerald.json](./342762-pokemon-gamma-emerald.json) |
 | Pokemon Garbage Gold | 305295 | [305295-pokemon-garbage-gold.json](./305295-pokemon-garbage-gold.json) |
+| Pokémon Garden | 253801 | [253801-pokemon-garden.json](./253801-pokemon-garden.json) |
 | Pokémon Garnet | 323792 | [323792-pokemon-garnet.json](./323792-pokemon-garnet.json) |
 | Pokémon Glacial Chronicles | 360193 | [360193-pokemon-glacial-chronicles.json](./360193-pokemon-glacial-chronicles.json) |
 | Pokémon Go: Adventures Abound | 383002 | [383002-pokemon-go-adventures-abound.json](./383002-pokemon-go-adventures-abound.json) |
@@ -10640,6 +10642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puffins: Let's Fish! | 84802 | [84802-puffins-lets-fish.json](./84802-puffins-lets-fish.json) |
 | Puffins: Let's Race! | 80215 | [80215-puffins-lets-race.json](./80215-puffins-lets-race.json) |
 | Puffins: Let's Roll | 66695 | [66695-puffins-lets-roll.json](./66695-puffins-lets-roll.json) |
+| Puffle Paddle 3DS | 253797 | [253797-puffle-paddle-3ds.json](./253797-puffle-paddle-3ds.json) |
 | Pufflings: Journey Through a Fantasy World | 397921 | [397921-pufflings-journey-through-a-fantasy-world.json](./397921-pufflings-journey-through-a-fantasy-world.json) |
 | Puffmin Quest | 313354 | [313354-puffmin-quest.json](./313354-puffmin-quest.json) |
 | Puffy Dog Puzzle | 379005 | [379005-puffy-dog-puzzle.json](./379005-puffy-dog-puzzle.json) |
