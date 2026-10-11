@@ -2094,6 +2094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Indie Gems Bundle - Explosions Edition | 147802 | [147802-indie-gems-bundle-explosions-edition.json](./147802-indie-gems-bundle-explosions-edition.json) |
 | Indie Gems Bundle - Nonograms edition | 147794 | [147794-indie-gems-bundle-nonograms-edition.json](./147794-indie-gems-bundle-nonograms-edition.json) |
 | Indie Gems Bundle: JRPG Edition | 129805 | [129805-indie-gems-bundle-jrpg-edition.json](./129805-indie-gems-bundle-jrpg-edition.json) |
+| Indie Heroes Collection 3 | 252064 | [252064-indie-heroes-collection-3.json](./252064-indie-heroes-collection-3.json) |
 | Indie Jane and the Snake Tower | 240198 | [240198-indie-jane-and-the-snake-tower.json](./240198-indie-jane-and-the-snake-tower.json) |
 | Indie Nights | 274481 | [274481-indie-nights.json](./274481-indie-nights.json) |
 | Indie Nights: Nightmare in Yellow Pine | 277289 | [277289-indie-nights-nightmare-in-yellow-pine.json](./277289-indie-nights-nightmare-in-yellow-pine.json) |
@@ -3235,6 +3236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Interstellar Plunderer | 287003 | [287003-interstellar-plunderer.json](./287003-interstellar-plunderer.json) |
 | Interstellar Prime | 74289 | [74289-interstellar-prime.json](./74289-interstellar-prime.json) |
 | Interstellar Rogue | 119457 | [119457-interstellar-rogue.json](./119457-interstellar-rogue.json) |
+| Interstellar Sentinel | 252027 | [252027-interstellar-sentinel.json](./252027-interstellar-sentinel.json) |
 | Interstellar Space: Genesis | 110011 | [110011-interstellar-space-genesis.json](./110011-interstellar-space-genesis.json) |
 | Interstellar Space: Genesis - Evolving Empires | 200502 | [200502-interstellar-space-genesis-evolving-empires.json](./200502-interstellar-space-genesis-evolving-empires.json) |
 | Interstellar Space: Genesis - Terrains Pack | 289473 | [289473-interstellar-space-genesis-terrains-pack.json](./289473-interstellar-space-genesis-terrains-pack.json) |
