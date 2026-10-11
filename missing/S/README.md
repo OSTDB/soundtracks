@@ -1506,6 +1506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Save Our Ship | 40697 | [40697-save-our-ship.json](./40697-save-our-ship.json) |
 | Save Our Solar System | 243055 | [243055-save-our-solar-system.json](./243055-save-our-solar-system.json) |
 | Save Our Spirit | 206662 | [206662-save-our-spirit.json](./206662-save-our-spirit.json) |
+| Save Room: The Merchant | 256726 | [256726-save-room-the-merchant.json](./256726-save-room-the-merchant.json) |
 | Save Santa | 219611 | [219611-save-santa.json](./219611-save-santa.json) |
 | Save Scream and Run | 319279 | [319279-save-scream-and-run.json](./319279-save-scream-and-run.json) |
 | Save Snegurochka | 99021 | [99021-save-snegurochka.json](./99021-save-snegurochka.json) |
@@ -2051,6 +2052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scooter's Magic Castle | 72173 | [72173-scooters-magic-castle.json](./72173-scooters-magic-castle.json) |
 | SCOP | 251085 | [251085-scop.json](./251085-scop.json) |
 | Scopa | 100012 | [100012-scopa.json](./100012-scopa.json) |
+| Scopaesthesia | 256720 | [256720-scopaesthesia.json](./256720-scopaesthesia.json) |
 | Scopecreep | 370891 | [370891-scopecreep.json](./370891-scopecreep.json) |
 | Scopic | 132865 | [132865-scopic.json](./132865-scopic.json) |
 | Scopophobia | 361678 | [361678-scopophobia.json](./361678-scopophobia.json) |
@@ -2303,6 +2305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Screaming in the Basement | 329180 | [329180-screaming-in-the-basement.json](./329180-screaming-in-the-basement.json) |
 | Screaming Savage Blood Death | 311100 | [311100-screaming-savage-blood-death.json](./311100-screaming-savage-blood-death.json) |
 | Screaming Skies | 201070 | [201070-screaming-skies.json](./201070-screaming-skies.json) |
+| Screams from the Past | 256731 | [256731-screams-from-the-past.json](./256731-screams-from-the-past.json) |
 | Screamy Ski | 56286 | [56286-screamy-ski.json](./56286-screamy-ski.json) |
 | Scree | 236371 | [236371-scree.json](./236371-scree.json) |
 | Screen | 300716 | [300716-screen.json](./300716-screen.json) |
@@ -2586,6 +2589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seafarer | 296463 | [296463-seafarer.json](./296463-seafarer.json) |
 | Seafarer: The Ship Sim | 334351 | [334351-seafarer-the-ship-sim.json](./334351-seafarer-the-ship-sim.json) |
 | Seafarer's Gambit | 329172 | [329172-seafarers-gambit.json](./329172-seafarers-gambit.json) |
+| SeaFeud | 256729 | [256729-seafeud.json](./256729-seafeud.json) |
 | Seafight | 59655 | [59655-seafight.json](./59655-seafight.json) |
 | Seaflower | 313194 | [313194-seaflower.json](./313194-seaflower.json) |
 | Seaforge: Shores of Atlantis | 415872 | [415872-seaforge-shores-of-atlantis.json](./415872-seaforge-shores-of-atlantis.json) |
@@ -2891,6 +2895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret Wives' Club | 80592 | [80592-secret-wives-club.json](./80592-secret-wives-club.json) |
 | Secret Word Gardens | 416175 | [416175-secret-word-gardens.json](./416175-secret-word-gardens.json) |
 | Secret Writers Society | 206628 | [206628-secret-writers-society.json](./206628-secret-writers-society.json) |
+| SecretHitler.io | 256764 | [256764-secrethitler-io.json](./256764-secrethitler-io.json) |
 | Secrets | 179171 | [179171-secrets.json](./179171-secrets.json) |
 | Secrets After Class | 303297 | [303297-secrets-after-class.json](./303297-secrets-after-class.json) |
 | Secrets Agent | 136440 | [136440-secrets-agent.json](./136440-secrets-agent.json) |
@@ -13967,6 +13972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Split Signal | 128970 | [128970-split-signal.json](./128970-split-signal.json) |
 | Split Souls | 369634 | [369634-split-souls.json](./369634-split-souls.json) |
 | Split Tactics | 386281 | [386281-split-tactics.json](./386281-split-tactics.json) |
+| Split the Ball | 256753 | [256753-split-the-ball.json](./256753-split-the-ball.json) |
 | Split Times | 368502 | [368502-split-times.json](./368502-split-times.json) |
 | Split/Second | 2150 | [2150-split-second.json](./2150-split-second.json) |
 | Splitgate | 114684 | [114684-splitgate.json](./114684-splitgate.json) |
@@ -16832,6 +16838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stickman Puzzle | 348297 | [348297-stickman-puzzle.json](./348297-stickman-puzzle.json) |
 | Stickman PVP Warriors PRO online | 95858 | [95858-stickman-pvp-warriors-pro-online.json](./95858-stickman-pvp-warriors-pro-online.json) |
 | Stickman PvP Wars Online | 102239 | [102239-stickman-pvp-wars-online.json](./102239-stickman-pvp-wars-online.json) |
+| Stickman Ragdoll | 256736 | [256736-stickman-ragdoll.json](./256736-stickman-ragdoll.json) |
 | Stickman Red boy and Blue girl | 231892 | [231892-stickman-red-boy-and-blue-girl.json](./231892-stickman-red-boy-and-blue-girl.json) |
 | Stickman Revenge: Demon Slayer | 323201 | [323201-stickman-revenge-demon-slayer.json](./323201-stickman-revenge-demon-slayer.json) |
 | Stickman Rope Dismount | 102243 | [102243-stickman-rope-dismount.json](./102243-stickman-rope-dismount.json) |
@@ -17043,6 +17050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stonehold | 354950 | [354950-stonehold.json](./354950-stonehold.json) |
 | Stonekeep | 253 | [253-stonekeep.json](./253-stonekeep.json) |
 | Stonemachia | 300028 | [300028-stonemachia.json](./300028-stonemachia.json) |
+| Stoneman's Adventure | 256725 | [256725-stonemans-adventure.json](./256725-stonemans-adventure.json) |
 | Stones Keeper: King Aurelius | 212863 | [212863-stones-keeper-king-aurelius.json](./212863-stones-keeper-king-aurelius.json) |
 | Stones of Harlath | 152747 | [152747-stones-of-harlath.json](./152747-stones-of-harlath.json) |
 | Stones of Solace | 120284 | [120284-stones-of-solace.json](./120284-stones-of-solace.json) |
@@ -17295,6 +17303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strange Horticulture | 186597 | [186597-strange-horticulture.json](./186597-strange-horticulture.json) |
 | Strange House | 236241 | [236241-strange-house.json](./236241-strange-house.json) |
 | Strange Investigations: Becoming | 187952 | [187952-strange-investigations-becoming.json](./187952-strange-investigations-becoming.json) |
+| Strange Investigations: Secrets Can be Deadly - Collector's Edition | 256713 | [256713-strange-investigations-secrets-can-be-deadly-collectors-edition.json](./256713-strange-investigations-secrets-can-be-deadly-collectors-edition.json) |
 | Strange Investigations: Truth Will Out - Collector's Edition | 356764 | [356764-strange-investigations-truth-will-out-collectors-edition.json](./356764-strange-investigations-truth-will-out-collectors-edition.json) |
 | Strange Labyrinth | 310096 | [310096-strange-labyrinth.json](./310096-strange-labyrinth.json) |
 | Strange Loop | 26433 | [26433-strange-loop.json](./26433-strange-loop.json) |
@@ -19546,6 +19555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Goldfish Scooping | 410835 | [410835-super-goldfish-scooping.json](./410835-super-goldfish-scooping.json) |
 | Super Golf | 109212 | [109212-super-golf.json](./109212-super-golf.json) |
 | Super Golf 2018 | 102972 | [102972-super-golf-2018.json](./102972-super-golf-2018.json) |
+| Super Golf World | 256751 | [256751-super-golf-world.json](./256751-super-golf-world.json) |
 | Super Goo Goo | 35563 | [35563-super-goo-goo.json](./35563-super-goo-goo.json) |
 | Super Gorilla Quest | 264235 | [264235-super-gorilla-quest.json](./264235-super-gorilla-quest.json) |
 | Super Gorilla Quest 2: A Space Chimpanzee | 347230 | [347230-super-gorilla-quest-2-a-space-chimpanzee.json](./347230-super-gorilla-quest-2-a-space-chimpanzee.json) |
@@ -20461,6 +20471,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Plumber | 104802 | [104802-super-plumber.json](./104802-super-plumber.json) |
 | Super Pocket Tennis | 44500 | [44500-super-pocket-tennis.json](./44500-super-pocket-tennis.json) |
 | Super Pocket: Atari Edition | 327197 | [327197-super-pocket-atari-edition.json](./327197-super-pocket-atari-edition.json) |
+| Super Pocket: Capcom Edition | 256711 | [256711-super-pocket-capcom-edition.json](./256711-super-pocket-capcom-edition.json) |
+| Super Pocket: Taito Edition | 256710 | [256710-super-pocket-taito-edition.json](./256710-super-pocket-taito-edition.json) |
 | Super Pole Position | 108506 | [108506-super-pole-position.json](./108506-super-pole-position.json) |
 | Super Pong | 64120 | [64120-super-pong.json](./64120-super-pong.json) |
 | Super Pool | 13765 | [13765-super-pool.json](./13765-super-pool.json) |
