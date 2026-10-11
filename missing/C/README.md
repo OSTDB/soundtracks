@@ -7708,6 +7708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Comet Tycoon | 349881 | [349881-comet-tycoon.json](./349881-comet-tycoon.json) |
 | Comets Wake | 76918 | [76918-comets-wake.json](./76918-comets-wake.json) |
 | Comfort | 134414 | [134414-comfort.json](./134414-comfort.json) |
+| Comfort Zone | 266724 | [266724-comfort-zone.json](./266724-comfort-zone.json) |
 | Comforting Sounds | 183924 | [183924-comforting-sounds.json](./183924-comforting-sounds.json) |
 | Comfwee Café | 393517 | [393517-comfwee-cafe.json](./393517-comfwee-cafe.json) |
 | Comfy Cosmos | 339897 | [339897-comfy-cosmos.json](./339897-comfy-cosmos.json) |
