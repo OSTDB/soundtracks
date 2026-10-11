@@ -1327,6 +1327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paramedium: 2 | 179750 | [179750-paramedium-2.json](./179750-paramedium-2.json) |
 | Paramedium: A Noise in the Attic | 82485 | [82485-paramedium-a-noise-in-the-attic.json](./82485-paramedium-a-noise-in-the-attic.json) |
 | Paramelancholia | 332654 | [332654-paramelancholia.json](./332654-paramelancholia.json) |
+| Parametric Engine | 240698 | [240698-parametric-engine.json](./240698-parametric-engine.json) |
 | Paramnesia: Escape Together | 244489 | [244489-paramnesia-escape-together.json](./244489-paramnesia-escape-together.json) |
 | Paramount Hero | 212843 | [212843-paramount-hero.json](./212843-paramount-hero.json) |
 | Paranatural | 310763 | [310763-paranatural.json](./310763-paranatural.json) |
@@ -4958,6 +4959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pitball: Winter Waifus | 239218 | [239218-pitball-winter-waifus.json](./239218-pitball-winter-waifus.json) |
 | Pitch & Pixel | 405605 | [405605-pitch-and-pixel.json](./405605-pitch-and-pixel.json) |
 | Pitch Black | 223685 | [223685-pitch-black.json](./223685-pitch-black.json) |
+| Pitch Black | 240704 | [240704-pitch-black.json](./240704-pitch-black.json) |
 | Pitch Black | 278440 | [278440-pitch-black.json](./278440-pitch-black.json) |
 | Pitch Black Peak | 363316 | [363316-pitch-black-peak.json](./363316-pitch-black-peak.json) |
 | Pitch Black Serenade | 177433 | [177433-pitch-black-serenade.json](./177433-pitch-black-serenade.json) |
