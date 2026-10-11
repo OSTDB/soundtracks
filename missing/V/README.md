@@ -920,6 +920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Venture Towns | 65498 | [65498-venture-towns.json](./65498-venture-towns.json) |
 | Venture Valley | 148946 | [148946-venture-valley.json](./148946-venture-valley.json) |
 | Venture Within | 199395 | [199395-venture-within.json](./199395-venture-within.json) |
+| Venture's Gauntlet VR | 261189 | [261189-ventures-gauntlet-vr.json](./261189-ventures-gauntlet-vr.json) |
 | Venture’s Gauntlet VR: Multiplayer Update | 306960 | [306960-venture-s-gauntlet-vr-multiplayer-update.json](./306960-venture-s-gauntlet-vr-multiplayer-update.json) |
 | VentureVerse: Legend of Ulora | 108623 | [108623-ventureverse-legend-of-ulora.json](./108623-ventureverse-legend-of-ulora.json) |
 | Venturous in the Footsteps of the Fallen | 269565 | [269565-venturous-in-the-footsteps-of-the-fallen.json](./269565-venturous-in-the-footsteps-of-the-fallen.json) |
