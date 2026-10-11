@@ -5310,6 +5310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road to Morrow | 172669 | [172669-road-to-morrow.json](./172669-road-to-morrow.json) |
 | Road to Moscow | 25613 | [25613-road-to-moscow.json](./25613-road-to-moscow.json) |
 | Road to Olympus | 345974 | [345974-road-to-olympus.json](./345974-road-to-olympus.json) |
+| Road to Salvation | 245742 | [245742-road-to-salvation.json](./245742-road-to-salvation.json) |
 | Road to Scrubville: A Bijuu Mike Fangame | 230254 | [230254-road-to-scrubville-a-bijuu-mike-fangame.json](./230254-road-to-scrubville-a-bijuu-mike-fangame.json) |
 | Road To Siren Hills: Dark Journey | 304112 | [304112-road-to-siren-hills-dark-journey.json](./304112-road-to-siren-hills-dark-journey.json) |
 | Road to Top G | 261699 | [261699-road-to-top-g.json](./261699-road-to-top-g.json) |
@@ -6473,6 +6474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roller Stars | 149017 | [149017-roller-stars.json](./149017-roller-stars.json) |
 | Roller-Skating | 328498 | [328498-roller-skating.json](./328498-roller-skating.json) |
 | Rollerball | 298843 | [298843-rollerball.json](./298843-rollerball.json) |
+| RollerBall | 245736 | [245736-rollerball.json](./245736-rollerball.json) |
 | RollerBaller | 158511 | [158511-rollerballer.json](./158511-rollerballer.json) |
 | Rollerblade Racer | 48204 | [48204-rollerblade-racer.json](./48204-rollerblade-racer.json) |
 | Rollerboy 2 | 293644 | [293644-rollerboy-2.json](./293644-rollerboy-2.json) |
@@ -7555,6 +7557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run & Gun: Banditos | 109513 | [109513-run-and-gun-banditos.json](./109513-run-and-gun-banditos.json) |
 | Run & Jump Guy | 304363 | [304363-run-and-jump-guy.json](./304363-run-and-jump-guy.json) |
 | Run 2 | 80484 | [80484-run-2.json](./80484-run-2.json) |
+| Run a Café | 245743 | [245743-run-a-cafe.json](./245743-run-a-cafe.json) |
 | Run and Fire | 274566 | [274566-run-and-fire.json](./274566-run-and-fire.json) |
 | Run and Fire | 35499 | [35499-run-and-fire.json](./35499-run-and-fire.json) |
 | Run and Gun | 283765 | [283765-run-and-gun.json](./283765-run-and-gun.json) |
