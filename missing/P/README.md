@@ -199,6 +199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PacaPomo | 310189 | [310189-pacapomo.json](./310189-pacapomo.json) |
 | Pacapong | 176335 | [176335-pacapong.json](./176335-pacapong.json) |
 | Pacar | 6122 | [6122-pacar.json](./6122-pacar.json) |
+| Paccie | 241879 | [241879-paccie.json](./241879-paccie.json) |
 | Pacebreaker: An Experiment in AI-Perfected Exercise | 208343 | [208343-pacebreaker-an-experiment-in-ai-perfected-exercise.json](./208343-pacebreaker-an-experiment-in-ai-perfected-exercise.json) |
 | Pacewar | 322776 | [322776-pacewar.json](./322776-pacewar.json) |
 | PachaMama | 186272 | [186272-pachamama.json](./186272-pachamama.json) |
@@ -700,6 +701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panda vs Lightning | 98796 | [98796-panda-vs-lightning.json](./98796-panda-vs-lightning.json) |
 | Panda vs. Bugs | 196555 | [196555-panda-vs-bugs.json](./196555-panda-vs-bugs.json) |
 | Panda? | 287715 | [287715-panda.json](./287715-panda.json) |
+| Panda's Village | 241886 | [241886-pandas-village.json](./241886-pandas-village.json) |
 | PandaBomber | 367559 | [367559-pandabomber.json](./367559-pandabomber.json) |
 | Pandaclip: The Black Thief | 296763 | [296763-pandaclip-the-black-thief.json](./296763-pandaclip-the-black-thief.json) |
 | Pandamonium | 345520 | [345520-pandamonium.json](./345520-pandamonium.json) |
@@ -2632,6 +2634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Penny Dreadfuls: Sweeney Todd - Premium Edition | 208877 | [208877-penny-dreadfuls-sweeney-todd-premium-edition.json](./208877-penny-dreadfuls-sweeney-todd-premium-edition.json) |
 | Penny for Your Potion | 356255 | [356255-penny-for-your-potion.json](./356255-penny-for-your-potion.json) |
 | Penny For Your Thoughts | 367052 | [367052-penny-for-your-thoughts.json](./367052-penny-for-your-thoughts.json) |
+| Penny Larceny: Gig Economy Supervillain | 241861 | [241861-penny-larceny-gig-economy-supervillain.json](./241861-penny-larceny-gig-economy-supervillain.json) |
 | Penny Potluck | 413501 | [413501-penny-potluck.json](./413501-penny-potluck.json) |
 | Penny Racers | 133238 | [133238-penny-racers.json](./133238-penny-racers.json) |
 | Penny RPG: Shadows of the Lost - A Blood City Tale | 149611 | [149611-penny-rpg-shadows-of-the-lost-a-blood-city-tale.json](./149611-penny-rpg-shadows-of-the-lost-a-blood-city-tale.json) |
@@ -2821,6 +2824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perfect Slices | 253282 | [253282-perfect-slices.json](./253282-perfect-slices.json) |
 | Perfect Split | 173804 | [173804-perfect-split.json](./173804-perfect-split.json) |
 | Perfect Stride | 9612 | [9612-perfect-stride.json](./9612-perfect-stride.json) |
+| Perfect Swing | 241867 | [241867-perfect-swing.json](./241867-perfect-swing.json) |
 | Perfect Tense: Maggot Therapy | 331958 | [331958-perfect-tense-maggot-therapy.json](./331958-perfect-tense-maggot-therapy.json) |
 | Perfect Thog | 408732 | [408732-perfect-thog.json](./408732-perfect-thog.json) |
 | Perfect Tides: Station to Station | 215695 | [215695-perfect-tides-station-to-station.json](./215695-perfect-tides-station-to-station.json) |
@@ -4206,6 +4210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pill Fight | 345017 | [345017-pill-fight.json](./345017-pill-fight.json) |
 | Pill Mania | 101074 | [101074-pill-mania.json](./101074-pill-mania.json) |
 | Pill Puzzle | 156080 | [156080-pill-puzzle.json](./156080-pill-puzzle.json) |
+| Pill Puzzle | 241868 | [241868-pill-puzzle.json](./241868-pill-puzzle.json) |
 | Pilla's Paradise | 255573 | [255573-pillas-paradise.json](./255573-pillas-paradise.json) |
 | Pillaged Village: Humbled by Savages | 315133 | [315133-pillaged-village-humbled-by-savages.json](./315133-pillaged-village-humbled-by-savages.json) |
 | Pillar of Gods | 337077 | [337077-pillar-of-gods.json](./337077-pillar-of-gods.json) |
@@ -7795,6 +7800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pool Academy | 279207 | [279207-pool-academy.json](./279207-pool-academy.json) |
 | Pool Adventure | 191221 | [191221-pool-adventure.json](./191221-pool-adventure.json) |
 | Pool Ball Battle Royale | 235679 | [235679-pool-ball-battle-royale.json](./235679-pool-ball-battle-royale.json) |
+| Pool Billiards 3D | 241869 | [241869-pool-billiards-3d.json](./241869-pool-billiards-3d.json) |
 | Pool Break 3D Billiards 8 Ball, 9 Ball, Snooker | 100147 | [100147-pool-break-3d-billiards-8-ball-9-ball-snooker.json](./100147-pool-break-3d-billiards-8-ball-9-ball-snooker.json) |
 | Pool Break Pro 3D Billiards | 96292 | [96292-pool-break-pro-3d-billiards.json](./96292-pool-break-pro-3d-billiards.json) |
 | Pool Club kara no Dasshutsu | 358493 | [358493-pool-club-kara-no-dasshutsu.json](./358493-pool-club-kara-no-dasshutsu.json) |
@@ -10663,6 +10669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puckoff | 191060 | [191060-puckoff.json](./191060-puckoff.json) |
 | Puda + The Kid | 263198 | [263198-puda-the-kid.json](./263198-puda-the-kid.json) |
 | Pudding | 312022 | [312022-pudding.json](./312022-pudding.json) |
+| Pudding Chess | 241866 | [241866-pudding-chess.json](./241866-pudding-chess.json) |
 | Pudding Frog | 334201 | [334201-pudding-frog.json](./334201-pudding-frog.json) |
 | Pudding Juice | 301840 | [301840-pudding-juice.json](./301840-pudding-juice.json) |
 | Pudding Monster | 120805 | [120805-pudding-monster.json](./120805-pudding-monster.json) |
