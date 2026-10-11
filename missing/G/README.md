@@ -6401,13 +6401,17 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guilty Gear: Strive - Additional Character 8: Bedman? | 250309 | [250309-guilty-gear-strive-additional-character-8-bedman.json](./250309-guilty-gear-strive-additional-character-8-bedman.json) |
 | Guilty Gear: Strive - Additional Character 9: Asuka R♯ | 250311 | [250311-guilty-gear-strive-additional-character-9-asuka-r.json](./250311-guilty-gear-strive-additional-character-9-asuka-r.json) |
 | Guilty Gear: Strive - Additional Character Color Pack | 254504 | [254504-guilty-gear-strive-additional-character-color-pack.json](./254504-guilty-gear-strive-additional-character-color-pack.json) |
+| Guilty Gear: Strive - Additional Character Color Pack 2 | 254966 | [254966-guilty-gear-strive-additional-character-color-pack-2.json](./254966-guilty-gear-strive-additional-character-color-pack-2.json) |
 | Guilty Gear: Strive - Another Story | 254515 | [254515-guilty-gear-strive-another-story.json](./254515-guilty-gear-strive-another-story.json) |
 | Guilty Gear: Strive - Daredevil Edition | 263513 | [263513-guilty-gear-strive-daredevil-edition.json](./263513-guilty-gear-strive-daredevil-edition.json) |
 | Guilty Gear: Strive - Nintendo Switch Edition | 315335 | [315335-guilty-gear-strive-nintendo-switch-edition.json](./315335-guilty-gear-strive-nintendo-switch-edition.json) |
+| Guilty Gear: Strive - Season Pass 1 | 254962 | [254962-guilty-gear-strive-season-pass-1.json](./254962-guilty-gear-strive-season-pass-1.json) |
+| Guilty Gear: Strive - Season Pass 2 | 254967 | [254967-guilty-gear-strive-season-pass-2.json](./254967-guilty-gear-strive-season-pass-2.json) |
 | Guilty Gear: Strive - Special Colors for Sol and Ky | 254507 | [254507-guilty-gear-strive-special-colors-for-sol-and-ky.json](./254507-guilty-gear-strive-special-colors-for-sol-and-ky.json) |
 | Guilty Gear: Strive - Ultimate Edition | 139986 | [139986-guilty-gear-strive-ultimate-edition.json](./139986-guilty-gear-strive-ultimate-edition.json) |
 | Guilty Gear: Strive - Ultimate Edition 2022 | 255116 | [255116-guilty-gear-strive-ultimate-edition-2022.json](./255116-guilty-gear-strive-ultimate-edition-2022.json) |
 | Guilty Gear: Strive - Ultimate Edition Contents Kit | 255113 | [255113-guilty-gear-strive-ultimate-edition-contents-kit.json](./255113-guilty-gear-strive-ultimate-edition-contents-kit.json) |
+| Guilty Gear: Strive + Season Pass 1 | 254965 | [254965-guilty-gear-strive-season-pass-1.json](./254965-guilty-gear-strive-season-pass-1.json) |
 | Guilty Me | 254433 | [254433-guilty-me.json](./254433-guilty-me.json) |
 | Guilty Parade: Episode 3 | 196050 | [196050-guilty-parade-episode-3.json](./196050-guilty-parade-episode-3.json) |
 | Guilty Party | 66982 | [66982-guilty-party.json](./66982-guilty-party.json) |
