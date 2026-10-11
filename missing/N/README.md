@@ -666,6 +666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naughty Young Wife | 97937 | [97937-naughty-young-wife.json](./97937-naughty-young-wife.json) |
 | Nauka Prediel | 202401 | [202401-nauka-prediel.json](./202401-nauka-prediel.json) |
 | Naus | 304916 | [304916-naus.json](./304916-naus.json) |
+| Nautical Dispute | 257856 | [257856-nautical-dispute.json](./257856-nautical-dispute.json) |
 | Nautical Life | 95190 | [95190-nautical-life.json](./95190-nautical-life.json) |
 | Nautical Survival | 295505 | [295505-nautical-survival.json](./295505-nautical-survival.json) |
 | Nauticell | 324516 | [324516-nauticell.json](./324516-nauticell.json) |
@@ -1833,6 +1834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neural Gear | 93545 | [93545-neural-gear.json](./93545-neural-gear.json) |
 | Neural Maze | 415283 | [415283-neural-maze.json](./415283-neural-maze.json) |
 | Neural Nest | 244206 | [244206-neural-nest.json](./244206-neural-nest.json) |
+| Neural Nexus | 257849 | [257849-neural-nexus.json](./257849-neural-nexus.json) |
 | Neural Requiem | 389662 | [389662-neural-requiem.json](./389662-neural-requiem.json) |
 | Neural Rot | 374239 | [374239-neural-rot.json](./374239-neural-rot.json) |
 | Neural Synapse | 297159 | [297159-neural-synapse.json](./297159-neural-synapse.json) |
