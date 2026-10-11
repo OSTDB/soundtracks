@@ -3049,6 +3049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pet Rock Duty | 278994 | [278994-pet-rock-duty.json](./278994-pet-rock-duty.json) |
 | Pet Run | 59488 | [59488-pet-run.json](./59488-pet-run.json) |
 | Pet Shop Hop | 208863 | [208863-pet-shop-hop.json](./208863-pet-shop-hop.json) |
+| Pet Shop Monogatari DS 2 | 259490 | [259490-pet-shop-monogatari-ds-2.json](./259490-pet-shop-monogatari-ds-2.json) |
 | Pet Shop Simulator | 248906 | [248906-pet-shop-simulator.json](./248906-pet-shop-simulator.json) |
 | Pet Shop Snacks | 123374 | [123374-pet-shop-snacks.json](./123374-pet-shop-snacks.json) |
 | Pet Shop Snacks: Expansion Pack 1 | 237981 | [237981-pet-shop-snacks-expansion-pack-1.json](./237981-pet-shop-snacks-expansion-pack-1.json) |
@@ -8997,6 +8998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prince Rystiya's Starship | 341556 | [341556-prince-rystiyas-starship.json](./341556-prince-rystiyas-starship.json) |
 | Princes of Darkness | 356034 | [356034-princes-of-darkness.json](./356034-princes-of-darkness.json) |
 | Princes of Qing | 402961 | [402961-princes-of-qing.json](./402961-princes-of-qing.json) |
+| Princesa das Nuvens | 259458 | [259458-princesa-das-nuvens.json](./259458-princesa-das-nuvens.json) |
 | Princess | 187431 | [187431-princess.json](./187431-princess.json) |
 | Princess & Conquest | 128008 | [128008-princess-and-conquest.json](./128008-princess-and-conquest.json) |
 | Princess & Goblin | 193874 | [193874-princess-and-goblin.json](./193874-princess-and-goblin.json) |
@@ -10380,6 +10382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pseudo-Haunting | 272948 | [272948-pseudo-haunting.json](./272948-pseudo-haunting.json) |
 | Pseudoku | 337638 | [337638-pseudoku.json](./337638-pseudoku.json) |
 | Pseudomod | 281309 | [281309-pseudomod.json](./281309-pseudomod.json) |
+| Pseudoregalia: Jam Ver. | 259465 | [259465-pseudoregalia-jam-ver.json](./259465-pseudoregalia-jam-ver.json) |
 | PseudoSanity | 372635 | [372635-pseudosanity.json](./372635-pseudosanity.json) |
 | Psi Academy: Orientation | 341439 | [341439-psi-academy-orientation.json](./341439-psi-academy-orientation.json) |
 | Psi Chess | 58251 | [58251-psi-chess.json](./58251-psi-chess.json) |
