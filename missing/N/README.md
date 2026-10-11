@@ -2563,6 +2563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nicktoons Unite! | 202111 | [202111-nicktoons-unite.json](./202111-nicktoons-unite.json) |
 | Nicktoons Volleyball | 243826 | [243826-nicktoons-volleyball.json](./243826-nicktoons-volleyball.json) |
 | Nicktoons: Attack of the Toybots | 2774 | [2774-nicktoons-attack-of-the-toybots.json](./2774-nicktoons-attack-of-the-toybots.json) |
+| Nicktoons: Battle for Volcano Island | 248519 | [248519-nicktoons-battle-for-volcano-island.json](./248519-nicktoons-battle-for-volcano-island.json) |
 | Nicktoons: Movin' | 7982 | [7982-nicktoons-movin.json](./7982-nicktoons-movin.json) |
 | Nicktoons: Snap Shot | 308564 | [308564-nicktoons-snap-shot.json](./308564-nicktoons-snap-shot.json) |
 | Nicky: The Home Alone Golf Ball | 95614 | [95614-nicky-the-home-alone-golf-ball.json](./95614-nicky-the-home-alone-golf-ball.json) |
