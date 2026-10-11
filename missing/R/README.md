@@ -4296,6 +4296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rich City | 298112 | [298112-rich-city.json](./298112-rich-city.json) |
 | Rich Code | 96231 | [96231-rich-code.json](./96231-rich-code.json) |
 | Rich Diamond | 209167 | [209167-rich-diamond.json](./209167-rich-diamond.json) |
+| Rich Everyone | 270052 | [270052-rich-everyone.json](./270052-rich-everyone.json) |
 | Rich Girl Fashion Mall | 103561 | [103561-rich-girl-fashion-mall.json](./103561-rich-girl-fashion-mall.json) |
 | Rich Girls | 286499 | [286499-rich-girls.json](./286499-rich-girls.json) |
 | Rich Lady's Slave Role Play | 199616 | [199616-rich-ladys-slave-role-play.json](./199616-rich-ladys-slave-role-play.json) |
@@ -7557,6 +7558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run Pizza Run | 275705 | [275705-run-pizza-run.json](./275705-run-pizza-run.json) |
 | Run Pizza Run 2 | 332988 | [332988-run-pizza-run-2.json](./332988-run-pizza-run-2.json) |
 | Run Ralph Run | 158112 | [158112-run-ralph-run.json](./158112-run-ralph-run.json) |
+| Run Ran! Side Scrollers | 270018 | [270018-run-ran-side-scrollers.json](./270018-run-ran-side-scrollers.json) |
 | Run Roll Rumble | 120936 | [120936-run-roll-rumble.json](./120936-run-roll-rumble.json) |
 | Run Ronaldo Run | 252823 | [252823-run-ronaldo-run.json](./252823-run-ronaldo-run.json) |
 | RUN ROOMS: VR | 75403 | [75403-run-rooms-vr.json](./75403-run-rooms-vr.json) |
