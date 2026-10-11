@@ -1375,6 +1375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Maze | 382550 | [382550-3d-maze.json](./382550-3d-maze.json) |
 | 3D Mega Rides Avenger | 56918 | [56918-3d-mega-rides-avenger.json](./56918-3d-mega-rides-avenger.json) |
 | 3D Mine Storm | 41982 | [41982-3d-mine-storm.json](./41982-3d-mine-storm.json) |
+| 3D Miner | 242978 | [242978-3d-miner.json](./242978-3d-miner.json) |
 | 3D Minesweeper | 384102 | [384102-3d-minesweeper.json](./384102-3d-minesweeper.json) |
 | 3D MiniGolf | 143059 | [143059-3d-minigolf.json](./143059-3d-minigolf.json) |
 | 3D MiniGolf | 147887 | [147887-3d-minigolf.json](./147887-3d-minigolf.json) |
