@@ -1830,6 +1830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daymare Town 4 | 62702 | [62702-daymare-town-4.json](./62702-daymare-town-4.json) |
 | Daymare: 1994 Sandcastle - Limited Edition | 277376 | [277376-daymare-1994-sandcastle-limited-edition.json](./277376-daymare-1994-sandcastle-limited-edition.json) |
 | Days After | 169990 | [169990-days-after.json](./169990-days-after.json) |
+| Days End: Becoming Blackbird | 256743 | [256743-days-end-becoming-blackbird.json](./256743-days-end-becoming-blackbird.json) |
 | Days Gone By | 127102 | [127102-days-gone-by.json](./127102-days-gone-by.json) |
 | Days Gone: Special Edition | 117508 | [117508-days-gone-special-edition.json](./117508-days-gone-special-edition.json) |
 | Days Like A Nightmare | 285451 | [285451-days-like-a-nightmare.json](./285451-days-like-a-nightmare.json) |
@@ -4228,6 +4229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Derail: Sacrifice | 351057 | [351057-derail-sacrifice.json](./351057-derail-sacrifice.json) |
 | Derange | 129099 | [129099-derange.json](./129099-derange.json) |
 | Deranged Rabbits | 33389 | [33389-deranged-rabbits.json](./33389-deranged-rabbits.json) |
+| Derby Baseball | 256712 | [256712-derby-baseball.json](./256712-derby-baseball.json) |
 | Derby Champion Club | 386250 | [386250-derby-champion-club.json](./386250-derby-champion-club.json) |
 | Derby Day | 356288 | [356288-derby-day.json](./356288-derby-day.json) |
 | Derby Dynasty: Horse Racing RPG | 415194 | [415194-derby-dynasty-horse-racing-rpg.json](./415194-derby-dynasty-horse-racing-rpg.json) |
