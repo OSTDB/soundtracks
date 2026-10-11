@@ -321,6 +321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quantum Eternity | 169237 | [169237-quantum-eternity.json](./169237-quantum-eternity.json) |
 | Quantum Eye | 391737 | [391737-quantum-eye.json](./391737-quantum-eye.json) |
 | Quantum Flux | 34608 | [34608-quantum-flux.json](./34608-quantum-flux.json) |
+| Quantum Galaxy | 249659 | [249659-quantum-galaxy.json](./249659-quantum-galaxy.json) |
 | Quantum Hell | 413862 | [413862-quantum-hell.json](./413862-quantum-hell.json) |
 | Quantum Joe | 326098 | [326098-quantum-joe.json](./326098-quantum-joe.json) |
 | Quantum Lake | 26604 | [26604-quantum-lake.json](./26604-quantum-lake.json) |
