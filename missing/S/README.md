@@ -11071,6 +11071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Team Arena | 330964 | [330964-sonic-team-arena.json](./330964-sonic-team-arena.json) |
 | Sonic Tennis DX | 261295 | [261295-sonic-tennis-dx.json](./261295-sonic-tennis-dx.json) |
 | Sonic Test Labs | 265209 | [265209-sonic-test-labs.json](./265209-sonic-test-labs.json) |
+| Sonic the Broad Jump | 274392 | [274392-sonic-the-broad-jump.json](./274392-sonic-the-broad-jump.json) |
 | Sonic the Fighters 2 | 331300 | [331300-sonic-the-fighters-2.json](./331300-sonic-the-fighters-2.json) |
 | Sonic the Fighters Blitz | 321766 | [321766-sonic-the-fighters-blitz.json](./321766-sonic-the-fighters-blitz.json) |
 | Sonic The Funk | 392430 | [392430-sonic-the-funk.json](./392430-sonic-the-funk.json) |
@@ -14627,6 +14628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | St Dragon | 45235 | [45235-st-dragon.json](./45235-st-dragon.json) |
 | ST Wars | 44081 | [44081-st-wars.json](./44081-st-wars.json) |
 | ST World | 269857 | [269857-st-world.json](./269857-st-world.json) |
+| St. Luminous Jogakuin | 274401 | [274401-st-luminous-jogakuin.json](./274401-st-luminous-jogakuin.json) |
 | St. Maria Village | 295315 | [295315-st-maria-village.json](./295315-st-maria-village.json) |
 | St. Nick | 42198 | [42198-st-nick.json](./42198-st-nick.json) |
 | St. Nick's: Dash Away All! | 184931 | [184931-st-nicks-dash-away-all.json](./184931-st-nicks-dash-away-all.json) |
@@ -17275,6 +17277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strategic Command: World War I | 129592 | [129592-strategic-command-world-war-i.json](./129592-strategic-command-world-war-i.json) |
 | Strategic Command: World War I - Empires in Turmoil | 262929 | [262929-strategic-command-world-war-i-empires-in-turmoil.json](./262929-strategic-command-world-war-i-empires-in-turmoil.json) |
 | Strategic Conquest | 72934 | [72934-strategic-conquest.json](./72934-strategic-conquest.json) |
+| Strategic Mind Complete Franchise Bundle | 274431 | [274431-strategic-mind-complete-franchise-bundle.json](./274431-strategic-mind-complete-franchise-bundle.json) |
 | Strategic Mind: Fight for Dominance | 257425 | [257425-strategic-mind-fight-for-dominance.json](./257425-strategic-mind-fight-for-dominance.json) |
 | Strategic Mind: Fight for Dominance + Kaiju Wars - Fight Monsters Bundle | 289417 | [289417-strategic-mind-fight-for-dominance-kaiju-wars-fight-monsters-bundle.json](./289417-strategic-mind-fight-for-dominance-kaiju-wars-fight-monsters-bundle.json) |
 | Strategic Simulations: Commander's Collection | 73779 | [73779-strategic-simulations-commanders-collection.json](./73779-strategic-simulations-commanders-collection.json) |
@@ -18641,6 +18644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summer Heat | 278092 | [278092-summer-heat.json](./278092-summer-heat.json) |
 | Summer Horrordays | 177492 | [177492-summer-horrordays.json](./177492-summer-horrordays.json) |
 | Summer in Mara + Deiland Bundle | 188018 | [188018-summer-in-mara-deiland-bundle.json](./188018-summer-in-mara-deiland-bundle.json) |
+| Summer in Mara + Koa and the Five Pirates of Mara | 274429 | [274429-summer-in-mara-koa-and-the-five-pirates-of-mara.json](./274429-summer-in-mara-koa-and-the-five-pirates-of-mara.json) |
 | Summer In Mara: Collector's Edition | 172589 | [172589-summer-in-mara-collectors-edition.json](./172589-summer-in-mara-collectors-edition.json) |
 | Summer In Memoria | 196784 | [196784-summer-in-memoria.json](./196784-summer-in-memoria.json) |
 | Summer In The City | 356733 | [356733-summer-in-the-city.json](./356733-summer-in-the-city.json) |
