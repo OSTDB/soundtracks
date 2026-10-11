@@ -7670,6 +7670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hydrophobia | 210061 | [210061-hydrophobia.json](./210061-hydrophobia.json) |
 | Hydroplane: Riptide Racers | 278549 | [278549-hydroplane-riptide-racers.json](./278549-hydroplane-riptide-racers.json) |
 | Hydroplant Tycoon | 343289 | [343289-hydroplant-tycoon.json](./343289-hydroplant-tycoon.json) |
+| Hydrosphere | 257291 | [257291-hydrosphere.json](./257291-hydrosphere.json) |
 | Hyena Simulator | 86848 | [86848-hyena-simulator.json](./86848-hyena-simulator.json) |
 | Hyena Squad | 175206 | [175206-hyena-squad.json](./175206-hyena-squad.json) |
 | Hyenas | 206103 | [206103-hyenas.json](./206103-hyenas.json) |
