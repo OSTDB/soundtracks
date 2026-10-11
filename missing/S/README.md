@@ -3540,6 +3540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Serafina's Crown | 33338 | [33338-serafinas-crown.json](./33338-serafinas-crown.json) |
 | Serania: Path of the Scion | 258008 | [258008-serania-path-of-the-scion.json](./258008-serania-path-of-the-scion.json) |
 | Seraph of the End: The Origin of Fate | 13638 | [13638-seraph-of-the-end-the-origin-of-fate.json](./13638-seraph-of-the-end-the-origin-of-fate.json) |
+| Seraph: In the Darkness | 277875 | [277875-seraph-in-the-darkness.json](./277875-seraph-in-the-darkness.json) |
 | Seraphic Destroyer: Puzzles | 163419 | [163419-seraphic-destroyer-puzzles.json](./163419-seraphic-destroyer-puzzles.json) |
 | Seraphim | 266759 | [266759-seraphim.json](./266759-seraphim.json) |
 | Seraphim: Master of Legend | 146537 | [146537-seraphim-master-of-legend.json](./146537-seraphim-master-of-legend.json) |
@@ -6219,6 +6220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sid Meier's Civilization VI: Persia and Macedon Civilization & Scenario Pack | 164405 | [164405-sid-meiers-civilization-vi-persia-and-macedon-civilization-and-scenario-pack.json](./164405-sid-meiers-civilization-vi-persia-and-macedon-civilization-and-scenario-pack.json) |
 | Sid Meier's Civilization VI: Platinum Edition | 136199 | [136199-sid-meiers-civilization-vi-platinum-edition.json](./136199-sid-meiers-civilization-vi-platinum-edition.json) |
 | Sid Meier's Civilization VI: Poland Civilization & Scenario Pack | 164399 | [164399-sid-meiers-civilization-vi-poland-civilization-and-scenario-pack.json](./164399-sid-meiers-civilization-vi-poland-civilization-and-scenario-pack.json) |
+| Sid Meier's Civilization VI: Porfirio Diaz Pack | 277798 | [277798-sid-meiers-civilization-vi-porfirio-diaz-pack.json](./277798-sid-meiers-civilization-vi-porfirio-diaz-pack.json) |
 | Sid Meier's Civilization VI: Shinra Pack | 276934 | [276934-sid-meiers-civilization-vi-shinra-pack.json](./276934-sid-meiers-civilization-vi-shinra-pack.json) |
 | Sid Meier's Civilization VI: Sun and Moon of Teyvat Pack | 278052 | [278052-sid-meiers-civilization-vi-sun-and-moon-of-teyvat-pack.json](./278052-sid-meiers-civilization-vi-sun-and-moon-of-teyvat-pack.json) |
 | Sid Meier's Civilization VI: Super Mario Leaders Pack | 276935 | [276935-sid-meiers-civilization-vi-super-mario-leaders-pack.json](./276935-sid-meiers-civilization-vi-super-mario-leaders-pack.json) |
@@ -7245,6 +7247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sisyphus | 151619 | [151619-sisyphus.json](./151619-sisyphus.json) |
 | Sisyphus | 340369 | [340369-sisyphus.json](./340369-sisyphus.json) |
 | Sisyphus Is a Bug | 372456 | [372456-sisyphus-is-a-bug.json](./372456-sisyphus-is-a-bug.json) |
+| Sisyphus Paradox | 277812 | [277812-sisyphus-paradox.json](./277812-sisyphus-paradox.json) |
 | Sisyphus Simulator | 352151 | [352151-sisyphus-simulator.json](./352151-sisyphus-simulator.json) |
 | Sisypush | 236358 | [236358-sisypush.json](./236358-sisypush.json) |
 | Sit 'N Survive | 186113 | [186113-sit-n-survive.json](./186113-sit-n-survive.json) |
@@ -7942,6 +7945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skyline Bowling: Spooky Edition | 376246 | [376246-skyline-bowling-spooky-edition.json](./376246-skyline-bowling-spooky-edition.json) |
 | Skyline Drift Simulator 2 | 103652 | [103652-skyline-drift-simulator-2.json](./103652-skyline-drift-simulator-2.json) |
 | Skyline Skaters | 6029 | [6029-skyline-skaters.json](./6029-skyline-skaters.json) |
+| Skyline Sprint: Turbo Tracks | 277765 | [277765-skyline-sprint-turbo-tracks.json](./277765-skyline-sprint-turbo-tracks.json) |
 | Skyline Sprinters | 263058 | [263058-skyline-sprinters.json](./263058-skyline-sprinters.json) |
 | Skylords Reborn | 122901 | [122901-skylords-reborn.json](./122901-skylords-reborn.json) |
 | Skylost | 201710 | [201710-skylost.json](./201710-skylost.json) |
@@ -9651,8 +9655,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SnowRunner: Freightliner & Western Star Dual Pack | 366855 | [366855-snowrunner-freightliner-and-western-star-dual-pack.json](./366855-snowrunner-freightliner-and-western-star-dual-pack.json) |
 | SnowRunner: GMC Brigadier | 148154 | [148154-snowrunner-gmc-brigadier.json](./148154-snowrunner-gmc-brigadier.json) |
 | SnowRunner: High Roller Pack | 148150 | [148150-snowrunner-high-roller-pack.json](./148150-snowrunner-high-roller-pack.json) |
+| SnowRunner: Jack of All Treads Tire Pack | 277786 | [277786-snowrunner-jack-of-all-treads-tire-pack.json](./277786-snowrunner-jack-of-all-treads-tire-pack.json) |
 | SnowRunner: Jeep Dual Pack | 169995 | [169995-snowrunner-jeep-dual-pack.json](./169995-snowrunner-jeep-dual-pack.json) |
 | SnowRunner: Kenworth Dual Pack | 397798 | [397798-snowrunner-kenworth-dual-pack.json](./397798-snowrunner-kenworth-dual-pack.json) |
+| SnowRunner: Kenworth W990 | 277787 | [277787-snowrunner-kenworth-w990.json](./277787-snowrunner-kenworth-w990.json) |
 | SnowRunner: Land Rover Dual Pack | 204931 | [204931-snowrunner-land-rover-dual-pack.json](./204931-snowrunner-land-rover-dual-pack.json) |
 | SnowRunner: Loaded Dice Vinyl Wrap | 148151 | [148151-snowrunner-loaded-dice-vinyl-wrap.json](./148151-snowrunner-loaded-dice-vinyl-wrap.json) |
 | SnowRunner: Mack Dual Pack | 397797 | [397797-snowrunner-mack-dual-pack.json](./397797-snowrunner-mack-dual-pack.json) |
@@ -10338,6 +10344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solium Infernum: Belphegor, Paragon of Impiety | 298101 | [298101-solium-infernum-belphegor-paragon-of-impiety.json](./298101-solium-infernum-belphegor-paragon-of-impiety.json) |
 | Sollarion | 238586 | [238586-sollarion.json](./238586-sollarion.json) |
 | Solm | 183079 | [183079-solm.json](./183079-solm.json) |
+| Solo | 277771 | [277771-solo.json](./277771-solo.json) |
 | Solo | 28315 | [28315-solo.json](./28315-solo.json) |
 | Solo Chess | 372985 | [372985-solo-chess.json](./372985-solo-chess.json) |
 | Solo Crisis | 62975 | [62975-solo-crisis.json](./62975-solo-crisis.json) |
@@ -11869,6 +11876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space 1889 | 73866 | [73866-space-1889.json](./73866-space-1889.json) |
 | Space 2: Breakthrough Gaming Arcade | 145669 | [145669-space-2-breakthrough-gaming-arcade.json](./145669-space-2-breakthrough-gaming-arcade.json) |
 | Space Abyss | 159642 | [159642-space-abyss.json](./159642-space-abyss.json) |
+| Space Accident VR | 277766 | [277766-space-accident-vr.json](./277766-space-accident-vr.json) |
 | Space Ace | 100161 | [100161-space-ace.json](./100161-space-ace.json) |
 | Space Ace | 363032 | [363032-space-ace.json](./363032-space-ace.json) |
 | Space Ace | 5454 | [5454-space-ace.json](./5454-space-ace.json) |
@@ -17349,6 +17357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strayed: Toon Revolver | 382419 | [382419-strayed-toon-revolver.json](./382419-strayed-toon-revolver.json) |
 | Strays of Rage | 341679 | [341679-strays-of-rage.json](./341679-strays-of-rage.json) |
 | Strays POV Tales | 403727 | [403727-strays-pov-tales.json](./403727-strays-pov-tales.json) |
+| StrayShot | 277808 | [277808-strayshot.json](./277808-strayshot.json) |
 | Strazeal | 121483 | [121483-strazeal.json](./121483-strazeal.json) |
 | Stream - Circuit Puzzle | 102128 | [102128-stream-circuit-puzzle.json](./102128-stream-circuit-puzzle.json) |
 | Stream Avatars | 52432 | [52432-stream-avatars.json](./52432-stream-avatars.json) |
