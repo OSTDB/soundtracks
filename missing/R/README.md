@@ -5511,6 +5511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RoboHero | 388195 | [388195-robohero.json](./388195-robohero.json) |
 | Roboholic | 203227 | [203227-roboholic.json](./203227-roboholic.json) |
 | RoboHunt | 253320 | [253320-robohunt.json](./253320-robohunt.json) |
+| RoboHunters | 262244 | [262244-robohunters.json](./262244-robohunters.json) |
 | RoboJep | 165691 | [165691-robojep.json](./165691-robojep.json) |
 | Robokill | 361334 | [361334-robokill.json](./361334-robokill.json) |
 | RoboKong | 137571 | [137571-robokong.json](./137571-robokong.json) |
