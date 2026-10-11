@@ -2252,6 +2252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead of the Sea | 235708 | [235708-dead-of-the-sea.json](./235708-dead-of-the-sea.json) |
 | Dead of Winter: The Long Night | 25654 | [25654-dead-of-winter-the-long-night.json](./25654-dead-of-winter-the-long-night.json) |
 | Dead Oil | 346549 | [346549-dead-oil.json](./346549-dead-oil.json) |
+| Dead On Arrival | 249086 | [249086-dead-on-arrival.json](./249086-dead-on-arrival.json) |
 | Dead on Time | 13574 | [13574-dead-on-time.json](./13574-dead-on-time.json) |
 | Dead or Alive | 1387 | [1387-dead-or-alive.json](./1387-dead-or-alive.json) |
 | Dead or Alive | 210621 | [210621-dead-or-alive.json](./210621-dead-or-alive.json) |
@@ -4797,6 +4798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detective_Psychic | 103182 | [103182-detective-psychic.json](./103182-detective-psychic.json) |
 | Detective: Minerva Case | 275334 | [275334-detective-minerva-case.json](./275334-detective-minerva-case.json) |
 | Detective: Scene Crime | 358219 | [358219-detective-scene-crime.json](./358219-detective-scene-crime.json) |
+| Detective: Stella Porta case | 249072 | [249072-detective-stella-porta-case.json](./249072-detective-stella-porta-case.json) |
 | Detective: The Motel | 292988 | [292988-detective-the-motel.json](./292988-detective-the-motel.json) |
 | Detective: The Mountain City | 203951 | [203951-detective-the-mountain-city.json](./203951-detective-the-mountain-city.json) |
 | Detective: The Test | 336114 | [336114-detective-the-test.json](./336114-detective-the-test.json) |
