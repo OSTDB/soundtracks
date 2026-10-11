@@ -1485,6 +1485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RayCity | 116391 | [116391-raycity.json](./116391-raycity.json) |
 | RayCity | 388167 | [388167-raycity.json](./388167-raycity.json) |
 | Rayer Shoot | 266673 | [266673-rayer-shoot.json](./266673-rayer-shoot.json) |
+| Rayflector | 243609 | [243609-rayflector.json](./243609-rayflector.json) |
 | RayForce | 22349 | [22349-rayforce.json](./22349-rayforce.json) |
 | Raygraze | 196323 | [196323-raygraze.json](./196323-raygraze.json) |
 | RaylaX | 97848 | [97848-raylax.json](./97848-raylax.json) |
