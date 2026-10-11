@@ -2228,6 +2228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endings | 165668 | [165668-endings.json](./165668-endings.json) |
 | Endless Alice Crysis: Ai to Dokuyaku | 204988 | [204988-endless-alice-crysis-ai-to-dokuyaku.json](./204988-endless-alice-crysis-ai-to-dokuyaku.json) |
 | Endless Alice: Nana-iro Mahoutsukai Kiki Ippatsu! | 204986 | [204986-endless-alice-nana-iro-mahoutsukai-kiki-ippatsu.json](./204986-endless-alice-nana-iro-mahoutsukai-kiki-ippatsu.json) |
+| Endless Anime Golf | 245773 | [245773-endless-anime-golf.json](./245773-endless-anime-golf.json) |
 | Endless Apocalypse | 249246 | [249246-endless-apocalypse.json](./249246-endless-apocalypse.json) |
 | Endless Ascent | 289423 | [289423-endless-ascent.json](./289423-endless-ascent.json) |
 | Endless Asphalt | 382950 | [382950-endless-asphalt.json](./382950-endless-asphalt.json) |
@@ -2622,6 +2623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Entity Strike | 343303 | [343303-entity-strike.json](./343303-entity-strike.json) |
 | Entity: A Horror Escape | 105790 | [105790-entity-a-horror-escape.json](./105790-entity-a-horror-escape.json) |
 | Entity: The Black Day | 260168 | [260168-entity-the-black-day.json](./260168-entity-the-black-day.json) |
+| Entogious | 245772 | [245772-entogious.json](./245772-entogious.json) |
 | Entombed | 22820 | [22820-entombed.json](./22820-entombed.json) |
 | Entomophobia | 195153 | [195153-entomophobia.json](./195153-entomophobia.json) |
 | Entomorph: Plague of the Darkfall | 3138 | [3138-entomorph-plague-of-the-darkfall.json](./3138-entomorph-plague-of-the-darkfall.json) |
