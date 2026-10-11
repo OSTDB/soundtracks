@@ -289,6 +289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yedoma Globula | 140051 | [140051-yedoma-globula.json](./140051-yedoma-globula.json) |
 | Yeeps | 304187 | [304187-yeeps.json](./304187-yeeps.json) |
 | Yeerk Pool | 257435 | [257435-yeerk-pool.json](./257435-yeerk-pool.json) |
+| Yeet | 264516 | [264516-yeet.json](./264516-yeet.json) |
 | YEKO | 394811 | [394811-yeko.json](./394811-yeko.json) |
 | Yelaxot | 59065 | [59065-yelaxot.json](./59065-yelaxot.json) |
 | Yeli Orog | 104331 | [104331-yeli-orog.json](./104331-yeli-orog.json) |
@@ -814,6 +815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You're My Hero | 55934 | [55934-youre-my-hero.json](./55934-youre-my-hero.json) |
 | You're My Penguin | 254650 | [254650-youre-my-penguin.json](./254650-youre-my-penguin.json) |
 | You're Not a Rogue | 141657 | [141657-youre-not-a-rogue.json](./141657-youre-not-a-rogue.json) |
+| You're Not Family | 264515 | [264515-youre-not-family.json](./264515-youre-not-family.json) |
 | You're the Boss | 415950 | [415950-youre-the-boss.json](./415950-youre-the-boss.json) |
 | You're the OS! | 261911 | [261911-youre-the-os.json](./261911-youre-the-os.json) |
 | You're Under Arrest | 311062 | [311062-youre-under-arrest.json](./311062-youre-under-arrest.json) |
