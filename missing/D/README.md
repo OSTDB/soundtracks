@@ -381,6 +381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Damatte Watashi no Muko ni Nare! Reona After | 60370 | [60370-damatte-watashi-no-muko-ni-nare-reona-after.json](./60370-damatte-watashi-no-muko-ni-nare-reona-after.json) |
 | DamCell: Princess Run | 175299 | [175299-damcell-princess-run.json](./175299-damcell-princess-run.json) |
 | Dame Tu Cosita | 334917 | [334917-dame-tu-cosita.json](./334917-dame-tu-cosita.json) |
+| Damien: The Game | 239538 | [239538-damien-the-game.json](./239538-damien-the-game.json) |
 | Damn Daniel: Basket Game | 252818 | [252818-damn-daniel-basket-game.json](./252818-damn-daniel-basket-game.json) |
 | Damn Daniel: White Vans Adventure | 201236 | [201236-damn-daniel-white-vans-adventure.json](./201236-damn-daniel-white-vans-adventure.json) |
 | Damn Dog | 313198 | [313198-damn-dog.json](./313198-damn-dog.json) |
@@ -821,6 +822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Adelita | 350419 | [350419-dark-adelita.json](./350419-dark-adelita.json) |
 | Dark Adventure | 38529 | [38529-dark-adventure.json](./38529-dark-adventure.json) |
 | Dark Aegis | 416790 | [416790-dark-aegis.json](./416790-dark-aegis.json) |
+| Dark Age Empires | 239691 | [239691-dark-age-empires.json](./239691-dark-age-empires.json) |
 | Dark Age Legends | 244667 | [244667-dark-age-legends.json](./244667-dark-age-legends.json) |
 | Dark Age of Camelot: Catacombs | 20202 | [20202-dark-age-of-camelot-catacombs.json](./20202-dark-age-of-camelot-catacombs.json) |
 | Dark Age of Camelot: Labyrinth of the Minotaur | 21415 | [21415-dark-age-of-camelot-labyrinth-of-the-minotaur.json](./21415-dark-age-of-camelot-labyrinth-of-the-minotaur.json) |
@@ -9518,6 +9520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DragonRealms | 66380 | [66380-dragonrealms.json](./66380-dragonrealms.json) |
 | Dragons and Elves | 355191 | [355191-dragons-and-elves.json](./355191-dragons-and-elves.json) |
 | Dragons and Titans | 10195 | [10195-dragons-and-titans.json](./10195-dragons-and-titans.json) |
+| Dragons Heart | 239692 | [239692-dragons-heart.json](./239692-dragons-heart.json) |
 | Dragons in Space | 194349 | [194349-dragons-in-space.json](./194349-dragons-in-space.json) |
 | Dragons of Atlantis | 303231 | [303231-dragons-of-atlantis.json](./303231-dragons-of-atlantis.json) |
 | Dragons of Elanthia | 62998 | [62998-dragons-of-elanthia.json](./62998-dragons-of-elanthia.json) |
@@ -11986,6 +11989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dystofarm | 275347 | [275347-dystofarm.json](./275347-dystofarm.json) |
 | Dystopia | 108428 | [108428-dystopia.json](./108428-dystopia.json) |
 | Dystopia RPG | 376132 | [376132-dystopia-rpg.json](./376132-dystopia-rpg.json) |
+| Dystopian Debugger | 239689 | [239689-dystopian-debugger.json](./239689-dystopian-debugger.json) |
 | Dystopian Nights | 119610 | [119610-dystopian-nights.json](./119610-dystopian-nights.json) |
 | Dystopy | 30748 | [30748-dystopy.json](./30748-dystopy.json) |
 | Dystoria | 27387 | [27387-dystoria.json](./27387-dystoria.json) |
