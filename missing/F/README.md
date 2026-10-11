@@ -6526,6 +6526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forward to the Past | 396034 | [396034-forward-to-the-past.json](./396034-forward-to-the-past.json) |
 | Forward Toward Uranus X | 401897 | [401897-forward-toward-uranus-x.json](./401897-forward-toward-uranus-x.json) |
 | Forward Winds | 206594 | [206594-forward-winds.json](./206594-forward-winds.json) |
+| Forwards | 270042 | [270042-forwards.json](./270042-forwards.json) |
 | Forwards Compatible | 271742 | [271742-forwards-compatible.json](./271742-forwards-compatible.json) |
 | Foryster | 312225 | [312225-foryster.json](./312225-foryster.json) |
 | Forza Horizon | 3047 | [3047-forza-horizon.json](./3047-forza-horizon.json) |
@@ -7373,6 +7374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Friend Hunt | 276777 | [276777-friend-hunt.json](./276777-friend-hunt.json) |
 | Friend Network | 52229 | [52229-friend-network.json](./52229-friend-network.json) |
 | Friend on the Go | 217243 | [217243-friend-on-the-go.json](./217243-friend-on-the-go.json) |
+| Friend Ship | 270043 | [270043-friend-ship.json](./270043-friend-ship.json) |
 | Friend Sighting | 129662 | [129662-friend-sighting.json](./129662-friend-sighting.json) |
 | Friendly | 202253 | [202253-friendly.json](./202253-friendly.json) |
 | Friendly Facade | 232528 | [232528-friendly-facade.json](./232528-friendly-facade.json) |
@@ -8432,6 +8434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furry Love 2 | 165026 | [165026-furry-love-2.json](./165026-furry-love-2.json) |
 | Furry Meow | 224241 | [224241-furry-meow.json](./224241-furry-meow.json) |
 | Furry Milfs | 248815 | [248815-furry-milfs.json](./248815-furry-milfs.json) |
+| Furry Necromancer | 270046 | [270046-furry-necromancer.json](./270046-furry-necromancer.json) |
 | Furry Nights | 201585 | [201585-furry-nights.json](./201585-furry-nights.json) |
 | Furry Orgasm | 208830 | [208830-furry-orgasm.json](./208830-furry-orgasm.json) |
 | Furry OwO | 236936 | [236936-furry-owo.json](./236936-furry-owo.json) |
