@@ -481,6 +481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vampires Die | 346630 | [346630-vampires-die.json](./346630-vampires-die.json) |
 | Vampires Fable | 316731 | [316731-vampires-fable.json](./316731-vampires-fable.json) |
 | Vampires vs. Zombies | 53933 | [53933-vampires-vs-zombies.json](./53933-vampires-vs-zombies.json) |
+| Vampires: Bloodlord Rising | 278348 | [278348-vampires-bloodlord-rising.json](./278348-vampires-bloodlord-rising.json) |
 | Vampires: Bloodlust | 68009 | [68009-vampires-bloodlust.json](./68009-vampires-bloodlust.json) |
 | Vampires' Melody | 169435 | [169435-vampires-melody.json](./169435-vampires-melody.json) |
 | Vampireville: haunted castle adventure | 175295 | [175295-vampireville-haunted-castle-adventure.json](./175295-vampireville-haunted-castle-adventure.json) |
@@ -2130,6 +2131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voidspeed Outlaw | 157026 | [157026-voidspeed-outlaw.json](./157026-voidspeed-outlaw.json) |
 | Voidstalker | 381926 | [381926-voidstalker.json](./381926-voidstalker.json) |
 | Voidstorm | 309549 | [309549-voidstorm.json](./309549-voidstorm.json) |
+| Voidwalker | 278349 | [278349-voidwalker.json](./278349-voidwalker.json) |
 | Voidwalker | 385383 | [385383-voidwalker.json](./385383-voidwalker.json) |
 | VoidWalker: Call of Insomnia | 345080 | [345080-voidwalker-call-of-insomnia.json](./345080-voidwalker-call-of-insomnia.json) |
 | Voidwalkers: Astora's Darkness | 170939 | [170939-voidwalkers-astoras-darkness.json](./170939-voidwalkers-astoras-darkness.json) |
