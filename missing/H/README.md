@@ -4751,7 +4751,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Higurashi no Naku Koro ni Hou: Complete Edition | 136817 | [136817-higurashi-no-naku-koro-ni-hou-complete-edition.json](./136817-higurashi-no-naku-koro-ni-hou-complete-edition.json) |
 | Higurashi no Naku Koro ni Hou: EG The Best | 136779 | [136779-higurashi-no-naku-koro-ni-hou-eg-the-best.json](./136779-higurashi-no-naku-koro-ni-hou-eg-the-best.json) |
 | Higurashi no Naku Koro ni Hou: Hinamizawa Teiryuujo | 263492 | [263492-higurashi-no-naku-koro-ni-hou-hinamizawa-teiryuujo.json](./263492-higurashi-no-naku-koro-ni-hou-hinamizawa-teiryuujo.json) |
+| Higurashi no Naku Koro ni Hou: Hinamizawa Teiryuujo | 263934 | [263934-higurashi-no-naku-koro-ni-hou-hinamizawa-teiryuujo.json](./263934-higurashi-no-naku-koro-ni-hou-hinamizawa-teiryuujo.json) |
 | Higurashi no Naku Koro ni Hou: Kamikashimashi-hen | 263493 | [263493-higurashi-no-naku-koro-ni-hou-kamikashimashi-hen.json](./263493-higurashi-no-naku-koro-ni-hou-kamikashimashi-hen.json) |
+| Higurashi no Naku Koro ni Hou: Kamikashimashi-hen | 263932 | [263932-higurashi-no-naku-koro-ni-hou-kamikashimashi-hen.json](./263932-higurashi-no-naku-koro-ni-hou-kamikashimashi-hen.json) |
 | Higurashi no Naku Koro ni Hou: Outbreak | 263490 | [263490-higurashi-no-naku-koro-ni-hou-outbreak.json](./263490-higurashi-no-naku-koro-ni-hou-outbreak.json) |
 | Higurashi no Naku Koro ni Hou+: Mehagashi-hen | 263660 | [263660-higurashi-no-naku-koro-ni-hou-mehagashi-hen.json](./263660-higurashi-no-naku-koro-ni-hou-mehagashi-hen.json) |
 | Higurashi no Naku Koro ni Iki | 136769 | [136769-higurashi-no-naku-koro-ni-iki.json](./136769-higurashi-no-naku-koro-ni-iki.json) |
@@ -6389,6 +6391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Host no Abunai Sekai | 264091 | [264091-host-no-abunai-sekai.json](./264091-host-no-abunai-sekai.json) |
 | Host Security Guard | 278641 | [278641-host-security-guard.json](./278641-host-security-guard.json) |
 | Hostage Heart | 417565 | [417565-hostage-heart.json](./417565-hostage-heart.json) |
+| HostageHub | 263988 | [263988-hostagehub.json](./263988-hostagehub.json) |
 | Hostages | 343204 | [343204-hostages.json](./343204-hostages.json) |
 | Hostia me acabo de acordar de lo que he soñao hoy, que puta paranoia | 302734 | [302734-hostia-me-acabo-de-acordar-de-lo-que-he-sonao-hoy-que-puta-paranoia.json](./302734-hostia-me-acabo-de-acordar-de-lo-que-he-sonao-hoy-que-puta-paranoia.json) |
 | Hostil | 75816 | [75816-hostil.json](./75816-hostil.json) |
@@ -6604,6 +6607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hotel Anatolia | 29328 | [29328-hotel-anatolia.json](./29328-hotel-anatolia.json) |
 | Hotel Blind | 33139 | [33139-hotel-blind.json](./33139-hotel-blind.json) |
 | Hotel City | 182312 | [182312-hotel-city.json](./182312-hotel-city.json) |
+| Hotel Clover | 263984 | [263984-hotel-clover.json](./263984-hotel-clover.json) |
 | Hotel Dash Deluxe | 96724 | [96724-hotel-dash-deluxe.json](./96724-hotel-dash-deluxe.json) |
 | Hotel Dash Suite Success | 16171 | [16171-hotel-dash-suite-success.json](./16171-hotel-dash-suite-success.json) |
 | Hotel Dash: Suite Success Deluxe | 175305 | [175305-hotel-dash-suite-success-deluxe.json](./175305-hotel-dash-suite-success-deluxe.json) |
@@ -7263,6 +7267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Humble Zombie | 343765 | [343765-humble-zombie.json](./343765-humble-zombie.json) |
 | Humblets | 349461 | [349461-humblets.json](./349461-humblets.json) |
 | Humbug | 57637 | [57637-humbug.json](./57637-humbug.json) |
+| Humbug Tales: Keeper of the Swarm | 263974 | [263974-humbug-tales-keeper-of-the-swarm.json](./263974-humbug-tales-keeper-of-the-swarm.json) |
 | Hume Index | 276218 | [276218-hume-index.json](./276218-hume-index.json) |
 | Humerous | 282795 | [282795-humerous.json](./282795-humerous.json) |
 | Hummer | 92631 | [92631-hummer.json](./92631-hummer.json) |
@@ -7648,6 +7653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hylics 2 | 98469 | [98469-hylics-2.json](./98469-hylics-2.json) |
 | Hymeno Striker: Akashicverse Minigame | 171597 | [171597-hymeno-striker-akashicverse-minigame.json](./171597-hymeno-striker-akashicverse-minigame.json) |
 | Hymn | 183937 | [183937-hymn.json](./183937-hymn.json) |
+| Hymn to the Earless God | 263959 | [263959-hymn-to-the-earless-god.json](./263959-hymn-to-the-earless-god.json) |
 | Hyokkori Hyoutan-jima: Takaramono Tocchae! | 346028 | [346028-hyokkori-hyoutan-jima-takaramono-tocchae.json](./346028-hyokkori-hyoutan-jima-takaramono-tocchae.json) |
 | Hyouji Gazou Henkou Kanou Typing | 301609 | [301609-hyouji-gazou-henkou-kanou-typing.json](./301609-hyouji-gazou-henkou-kanou-typing.json) |
 | Hyoukin Kyoushitsu | 385741 | [385741-hyoukin-kyoushitsu.json](./385741-hyoukin-kyoushitsu.json) |
