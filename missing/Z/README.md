@@ -1135,6 +1135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Towns | 129216 | [129216-zombie-towns.json](./129216-zombie-towns.json) |
 | Zombie Trailer Park | 219045 | [219045-zombie-trailer-park.json](./219045-zombie-trailer-park.json) |
 | Zombie Train | 199984 | [199984-zombie-train.json](./199984-zombie-train.json) |
+| Zombie Train | 240101 | [240101-zombie-train.json](./240101-zombie-train.json) |
 | Zombie Training Simulator | 33451 | [33451-zombie-training-simulator.json](./33451-zombie-training-simulator.json) |
 | Zombie Trigger | 31737 | [31737-zombie-trigger.json](./31737-zombie-trigger.json) |
 | Zombie Tycoon | 9295 | [9295-zombie-tycoon.json](./9295-zombie-tycoon.json) |
