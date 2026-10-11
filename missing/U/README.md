@@ -345,6 +345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate FPS Challenge | 299175 | [299175-ultimate-fps-challenge.json](./299175-ultimate-fps-challenge.json) |
 | Ultimate Front | 255142 | [255142-ultimate-front.json](./255142-ultimate-front.json) |
 | Ultimate Gamepak | 273907 | [273907-ultimate-gamepak.json](./273907-ultimate-gamepak.json) |
+| Ultimate Games Bundle | 273337 | [273337-ultimate-games-bundle.json](./273337-ultimate-games-bundle.json) |
 | Ultimate Gem | 259537 | [259537-ultimate-gem.json](./259537-ultimate-gem.json) |
 | Ultimate General: American Revolution - Premium Edition | 304390 | [304390-ultimate-general-american-revolution-premium-edition.json](./304390-ultimate-general-american-revolution-premium-edition.json) |
 | Ultimate General: Gettysburg | 8424 | [8424-ultimate-general-gettysburg.json](./8424-ultimate-general-gettysburg.json) |
@@ -2127,6 +2128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Urban Flow: Back to School Edition | 270789 | [270789-urban-flow-back-to-school-edition.json](./270789-urban-flow-back-to-school-edition.json) |
 | Urban Flow: Combo Edition | 328809 | [328809-urban-flow-combo-edition.json](./328809-urban-flow-combo-edition.json) |
 | Urban Flow: Complete Edition | 240226 | [240226-urban-flow-complete-edition.json](./240226-urban-flow-complete-edition.json) |
+| Urban Flow: Diamond Edition | 273302 | [273302-urban-flow-diamond-edition.json](./273302-urban-flow-diamond-edition.json) |
 | Urban Flow: Elite Edition | 268544 | [268544-urban-flow-elite-edition.json](./268544-urban-flow-elite-edition.json) |
 | Urban Flow: Epic Edition | 328808 | [328808-urban-flow-epic-edition.json](./328808-urban-flow-epic-edition.json) |
 | Urban Flow: Expansion Pack | 237927 | [237927-urban-flow-expansion-pack.json](./237927-urban-flow-expansion-pack.json) |
