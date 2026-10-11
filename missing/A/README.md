@@ -517,6 +517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Night Before the Deadline | 145625 | [145625-a-night-before-the-deadline.json](./145625-a-night-before-the-deadline.json) |
 | A Night In Kyosaka | 154086 | [154086-a-night-in-kyosaka.json](./154086-a-night-in-kyosaka.json) |
 | A Night in Omar's Burger | 249928 | [249928-a-night-in-omars-burger.json](./249928-a-night-in-omars-burger.json) |
+| A Night in Prison | 258896 | [258896-a-night-in-prison.json](./258896-a-night-in-prison.json) |
 | A Night in Vanet Manor | 147243 | [147243-a-night-in-vanet-manor.json](./147243-a-night-in-vanet-manor.json) |
 | A Night On The Farm | 266431 | [266431-a-night-on-the-farm.json](./266431-a-night-on-the-farm.json) |
 | A Night Out | 183927 | [183927-a-night-out.json](./183927-a-night-out.json) |
@@ -2395,6 +2396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AEW: Fight Forever - All Season Pass Bundle | 312091 | [312091-aew-fight-forever-all-season-pass-bundle.json](./312091-aew-fight-forever-all-season-pass-bundle.json) |
 | AEW: Fight Forever - Bring the Boom Edition | 279885 | [279885-aew-fight-forever-bring-the-boom-edition.json](./279885-aew-fight-forever-bring-the-boom-edition.json) |
 | AEW: Fight Forever - Elite Edition | 251670 | [251670-aew-fight-forever-elite-edition.json](./251670-aew-fight-forever-elite-edition.json) |
+| Aexia | 258924 | [258924-aexia.json](./258924-aexia.json) |
 | Afallon | 283879 | [283879-afallon.json](./283879-afallon.json) |
 | Affair | 279084 | [279084-affair.json](./279084-affair.json) |
 | Affairs of the Court: Choice of Romance | 32355 | [32355-affairs-of-the-court-choice-of-romance.json](./32355-affairs-of-the-court-choice-of-romance.json) |
@@ -4696,6 +4698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Altarage | 157150 | [157150-altarage.json](./157150-altarage.json) |
 | Altarays | 161165 | [161165-altarays.json](./161165-altarays.json) |
 | Altarium | 290307 | [290307-altarium.json](./290307-altarium.json) |
+| Altars of Madness | 258891 | [258891-altars-of-madness.json](./258891-altars-of-madness.json) |
 | Altcode | 304115 | [304115-altcode.json](./304115-altcode.json) |
 | AltCoin | 334769 | [334769-altcoin.json](./334769-altcoin.json) |
 | Altdeus: Beyond Chronos - Episode Yamato | 196096 | [196096-altdeus-beyond-chronos-episode-yamato.json](./196096-altdeus-beyond-chronos-episode-yamato.json) |
