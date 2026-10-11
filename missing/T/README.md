@@ -1777,6 +1777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tattoo Studio Simulator | 371414 | [371414-tattoo-studio-simulator.json](./371414-tattoo-studio-simulator.json) |
 | Tattoo Tycoon | 312271 | [312271-tattoo-tycoon.json](./312271-tattoo-tycoon.json) |
 | Tattoon Master | 362978 | [362978-tattoon-master.json](./362978-tattoon-master.json) |
+| Tattoos and Theirs Meanings | 266159 | [266159-tattoos-and-theirs-meanings.json](./266159-tattoos-and-theirs-meanings.json) |
 | Tattoos and Tulips | 257976 | [257976-tattoos-and-tulips.json](./257976-tattoos-and-tulips.json) |
 | TattooVR | 326179 | [326179-tattoovr.json](./326179-tattoovr.json) |
 | Tatvalok | 380542 | [380542-tatvalok.json](./380542-tatvalok.json) |
@@ -14178,6 +14179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tile Springs | 331376 | [331376-tile-springs.json](./331376-tile-springs.json) |
 | Tile Star 2 | 233080 | [233080-tile-star-2.json](./233080-tile-star-2.json) |
 | Tile Tale | 204975 | [204975-tile-tale.json](./204975-tile-tale.json) |
+| Tile Tale | 266150 | [266150-tile-tale.json](./266150-tile-tale.json) |
 | Tile Tales: Pirate | 325250 | [325250-tile-tales-pirate.json](./325250-tile-tales-pirate.json) |
 | Tile Tempest | 373338 | [373338-tile-tempest.json](./373338-tile-tempest.json) |
 | Tile Triple 3D | 227509 | [227509-tile-triple-3d.json](./227509-tile-triple-3d.json) |
