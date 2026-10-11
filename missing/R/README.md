@@ -1604,6 +1604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RC Racers II | 71728 | [71728-rc-racers-ii.json](./71728-rc-racers-ii.json) |
 | RC Racing Off Road 2.0 | 32233 | [32233-rc-racing-off-road-2-0.json](./32233-rc-racing-off-road-2-0.json) |
 | RC Revenge Pro | 43253 | [43253-rc-revenge-pro.json](./43253-rc-revenge-pro.json) |
+| RC Revolution | 247924 | [247924-rc-revolution.json](./247924-rc-revolution.json) |
 | RC Robot Adventure Game | 223953 | [223953-rc-robot-adventure-game.json](./223953-rc-robot-adventure-game.json) |
 | RC SIM 2022 | 369554 | [369554-rc-sim-2022.json](./369554-rc-sim-2022.json) |
 | RC Simulation 2.0 | 34978 | [34978-rc-simulation-2-0.json](./34978-rc-simulation-2-0.json) |
@@ -1867,6 +1868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Mother Simulator | 105783 | [105783-real-mother-simulator.json](./105783-real-mother-simulator.json) |
 | Real Motion Fishing: Hooked! Again | 67289 | [67289-real-motion-fishing-hooked-again.json](./67289-real-motion-fishing-hooked-again.json) |
 | Real Motocross Driving Simulator | 259814 | [259814-real-motocross-driving-simulator.json](./259814-real-motocross-driving-simulator.json) |
+| Real Nightmares | 247972 | [247972-real-nightmares.json](./247972-real-nightmares.json) |
 | Real Pinball | 4266 | [4266-real-pinball.json](./4266-real-pinball.json) |
 | Real Play | 22484 | [22484-real-play.json](./22484-real-play.json) |
 | Real Play Golf | 43215 | [43215-real-play-golf.json](./43215-real-play-golf.json) |
@@ -2532,6 +2534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Stone Online | 35737 | [35737-red-stone-online.json](./35737-red-stone-online.json) |
 | Red Storm Survival | 96035 | [96035-red-storm-survival.json](./96035-red-storm-survival.json) |
 | Red Sun Raiders | 130272 | [130272-red-sun-raiders.json](./130272-red-sun-raiders.json) |
+| Red Sunrise | 247963 | [247963-red-sunrise.json](./247963-red-sunrise.json) |
 | Red Supreme | 337733 | [337733-red-supreme.json](./337733-red-supreme.json) |
 | Red Tag Rendezvous | 180769 | [180769-red-tag-rendezvous.json](./180769-red-tag-rendezvous.json) |
 | Red Tape | 226968 | [226968-red-tape.json](./226968-red-tape.json) |
