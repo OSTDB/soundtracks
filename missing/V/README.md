@@ -1518,6 +1518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Violet | 265152 | [265152-violet.json](./265152-violet.json) |
 | Violet Cycle | 81245 | [81245-violet-cycle.json](./81245-violet-cycle.json) |
 | Violet Girl | 169777 | [169777-violet-girl.json](./169777-violet-girl.json) |
+| Violet Kingdom | 273807 | [273807-violet-kingdom.json](./273807-violet-kingdom.json) |
 | Violet Memoir | 177887 | [177887-violet-memoir.json](./177887-violet-memoir.json) |
 | Violet rE:-The Final reExistence- | 120781 | [120781-violet-re-the-final-reexistence.json](./120781-violet-re-the-final-reexistence.json) |
 | Violet's Party Mania | 219518 | [219518-violets-party-mania.json](./219518-violets-party-mania.json) |
