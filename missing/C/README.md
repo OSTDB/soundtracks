@@ -2155,6 +2155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castlepoint | 189036 | [189036-castlepoint.json](./189036-castlepoint.json) |
 | Castlequest | 330925 | [330925-castlequest.json](./330925-castlequest.json) |
 | Castlequest | 48070 | [48070-castlequest.json](./48070-castlequest.json) |
+| Castlerama | 256185 | [256185-castlerama.json](./256185-castlerama.json) |
 | Castles | 11267 | [11267-castles.json](./11267-castles.json) |
 | Castles & Castellans | 406688 | [406688-castles-and-castellans.json](./406688-castles-and-castellans.json) |
 | Castles & Catapults | 155006 | [155006-castles-and-catapults.json](./155006-castles-and-catapults.json) |
@@ -3102,6 +3103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CELL 0: Cyber Entertainment Leisure Lounge | 326756 | [326756-cell-0-cyber-entertainment-leisure-lounge.json](./326756-cell-0-cyber-entertainment-leisure-lounge.json) |
 | Cell Bound | 254495 | [254495-cell-bound.json](./254495-cell-bound.json) |
 | Cell Command | 323507 | [323507-cell-command.json](./323507-cell-command.json) |
+| Cell Corp | 256163 | [256163-cell-corp.json](./256163-cell-corp.json) |
 | Cell HD: emergence | 36137 | [36137-cell-hd-emergence.json](./36137-cell-hd-emergence.json) |
 | Cell of Empireo | 175966 | [175966-cell-of-empireo.json](./175966-cell-of-empireo.json) |
 | Cell of Empireo: Isoi Sanemitsu no Records | 243655 | [243655-cell-of-empireo-isoi-sanemitsu-no-records.json](./243655-cell-of-empireo-isoi-sanemitsu-no-records.json) |
@@ -9940,6 +9942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crash Bandicoot: Warped | 135451 | [135451-crash-bandicoot-warped.json](./135451-crash-bandicoot-warped.json) |
 | Crash Bash | 1195 | [1195-crash-bash.json](./1195-crash-bash.json) |
 | Crash Bash: Collector's Edition | 45212 | [45212-crash-bash-collectors-edition.json](./45212-crash-bash-collectors-edition.json) |
+| Crash Birds | 256198 | [256198-crash-birds.json](./256198-crash-birds.json) |
 | Crash Bugs Cake Defense | 353954 | [353954-crash-bugs-cake-defense.json](./353954-crash-bugs-cake-defense.json) |
 | Crash Cam | 251738 | [251738-crash-cam.json](./251738-crash-cam.json) |
 | Crash Car Mania | 318520 | [318520-crash-car-mania.json](./318520-crash-car-mania.json) |
@@ -10208,6 +10211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Farm 2 | 120354 | [120354-crazy-farm-2.json](./120354-crazy-farm-2.json) |
 | Crazy Farm: Roguelike Idle Building Game | 412497 | [412497-crazy-farm-roguelike-idle-building-game.json](./412497-crazy-farm-roguelike-idle-building-game.json) |
 | Crazy Fatties | 188930 | [188930-crazy-fatties.json](./188930-crazy-fatties.json) |
+| Crazy Fishing Champion | 256200 | [256200-crazy-fishing-champion.json](./256200-crazy-fishing-champion.json) |
 | Crazy Flasher 3 | 62165 | [62165-crazy-flasher-3.json](./62165-crazy-flasher-3.json) |
 | Crazy Flasher Series 2021 | 157146 | [157146-crazy-flasher-series-2021.json](./157146-crazy-flasher-series-2021.json) |
 | Crazy Flies | 31058 | [31058-crazy-flies.json](./31058-crazy-flies.json) |
@@ -11765,6 +11769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cuberuns | 210631 | [210631-cuberuns.json](./210631-cuberuns.json) |
 | Cubes | 247072 | [247072-cubes.json](./247072-cubes.json) |
 | Cubes and More Cubes | 180221 | [180221-cubes-and-more-cubes.json](./180221-cubes-and-more-cubes.json) |
+| Cubes Control | 256167 | [256167-cubes-control.json](./256167-cubes-control.json) |
 | Cubes Crush Legend | 174819 | [174819-cubes-crush-legend.json](./174819-cubes-crush-legend.json) |
 | Cubes Problem | 347102 | [347102-cubes-problem.json](./347102-cubes-problem.json) |
 | Cubes: Procedural Wonders | 240339 | [240339-cubes-procedural-wonders.json](./240339-cubes-procedural-wonders.json) |
