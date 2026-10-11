@@ -2039,6 +2039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead by Daylight: A Binding of Kin Chapter | 168867 | [168867-dead-by-daylight-a-binding-of-kin-chapter.json](./168867-dead-by-daylight-a-binding-of-kin-chapter.json) |
 | Dead by Daylight: A Lullaby for the Dark Chapter | 76224 | [76224-dead-by-daylight-a-lullaby-for-the-dark-chapter.json](./76224-dead-by-daylight-a-lullaby-for-the-dark-chapter.json) |
 | Dead by Daylight: A Nightmare on Elm Street | 76226 | [76226-dead-by-daylight-a-nightmare-on-elm-street.json](./76226-dead-by-daylight-a-nightmare-on-elm-street.json) |
+| Dead by Daylight: Alien Chapter Pack | 263939 | [263939-dead-by-daylight-alien-chapter-pack.json](./263939-dead-by-daylight-alien-chapter-pack.json) |
 | Dead by Daylight: All Things Wicked Chapter | 290845 | [290845-dead-by-daylight-all-things-wicked-chapter.json](./290845-dead-by-daylight-all-things-wicked-chapter.json) |
 | Dead by Daylight: All-Kill Chapter | 154346 | [154346-dead-by-daylight-all-kill-chapter.json](./154346-dead-by-daylight-all-kill-chapter.json) |
 | Dead by Daylight: Attack on Titan - Armored Pack | 254687 | [254687-dead-by-daylight-attack-on-titan-armored-pack.json](./254687-dead-by-daylight-attack-on-titan-armored-pack.json) |
@@ -4175,6 +4176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Depthbound Descent | 403793 | [403793-depthbound-descent.json](./403793-depthbound-descent.json) |
 | DepthLess | 349450 | [349450-depthless.json](./349450-depthless.json) |
 | DepthMera | 55511 | [55511-depthmera.json](./55511-depthmera.json) |
+| Depthris | 263973 | [263973-depthris.json](./263973-depthris.json) |
 | Depths Of Apollyon | 351123 | [351123-depths-of-apollyon.json](./351123-depths-of-apollyon.json) |
 | Depths of Betrayal | 175800 | [175800-depths-of-betrayal.json](./175800-depths-of-betrayal.json) |
 | Depths of Dread | 32174 | [32174-depths-of-dread.json](./32174-depths-of-dread.json) |
