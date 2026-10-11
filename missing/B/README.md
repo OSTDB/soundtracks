@@ -3276,6 +3276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat Hazard | 7404 | [7404-beat-hazard.json](./7404-beat-hazard.json) |
 | Beat Hazard 3 | 199447 | [199447-beat-hazard-3.json](./199447-beat-hazard-3.json) |
 | Beat Hazard Arcade | 368084 | [368084-beat-hazard-arcade.json](./368084-beat-hazard-arcade.json) |
+| Beat Head | 255581 | [255581-beat-head.json](./255581-beat-head.json) |
 | Beat Hopper | 96049 | [96049-beat-hopper.json](./96049-beat-hopper.json) |
 | Beat in Zero | 297343 | [297343-beat-in-zero.json](./297343-beat-in-zero.json) |
 | Beat It! | 66758 | [66758-beat-it.json](./66758-beat-it.json) |
@@ -10778,6 +10779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bunny | 354653 | [354653-bunny.json](./354653-bunny.json) |
 | Bunny Adventure | 147918 | [147918-bunny-adventure.json](./147918-bunny-adventure.json) |
 | Bunny Adventure | 86397 | [86397-bunny-adventure.json](./86397-bunny-adventure.json) |
+| Bunny Battle Nemesis | 255612 | [255612-bunny-battle-nemesis.json](./255612-bunny-battle-nemesis.json) |
 | Bunny Black | 115727 | [115727-bunny-black.json](./115727-bunny-black.json) |
 | Bunny Bond | 265395 | [265395-bunny-bond.json](./265395-bunny-bond.json) |
 | Bunny Bounce | 33450 | [33450-bunny-bounce.json](./33450-bunny-bounce.json) |
