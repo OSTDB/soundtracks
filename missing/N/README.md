@@ -862,6 +862,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NBA Jam: 1990's On Fire Edition | 318696 | [318696-nba-jam-1990s-on-fire-edition.json](./318696-nba-jam-1990s-on-fire-edition.json) |
 | NBA Jam: Legends On Fire Edition | 242257 | [242257-nba-jam-legends-on-fire-edition.json](./242257-nba-jam-legends-on-fire-edition.json) |
 | NBA Jam: On Fire Edition | 21076 | [21076-nba-jam-on-fire-edition.json](./21076-nba-jam-on-fire-edition.json) |
+| NBA Live 06 | 242985 | [242985-nba-live-06.json](./242985-nba-live-06.json) |
+| NBA Live 06 | 242986 | [242986-nba-live-06.json](./242986-nba-live-06.json) |
+| NBA Live 06 | 242987 | [242987-nba-live-06.json](./242987-nba-live-06.json) |
 | NBA Live 06 | 4034 | [4034-nba-live-06.json](./4034-nba-live-06.json) |
 | NBA Live 07 | 248770 | [248770-nba-live-07.json](./248770-nba-live-07.json) |
 | NBA Live 07 | 248771 | [248771-nba-live-07.json](./248771-nba-live-07.json) |
@@ -1153,6 +1156,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Need for Speed: Hot Pursuit - Super Bundle | 118857 | [118857-need-for-speed-hot-pursuit-super-bundle.json](./118857-need-for-speed-hot-pursuit-super-bundle.json) |
 | Need for speed: Mobile | 322164 | [322164-need-for-speed-mobile.json](./322164-need-for-speed-mobile.json) |
 | Need for Speed: Most Wanted | 210161 | [210161-need-for-speed-most-wanted.json](./210161-need-for-speed-most-wanted.json) |
+| Need for Speed: Most Wanted | 242991 | [242991-need-for-speed-most-wanted.json](./242991-need-for-speed-most-wanted.json) |
+| Need for Speed: Most Wanted | 242992 | [242992-need-for-speed-most-wanted.json](./242992-need-for-speed-most-wanted.json) |
 | Need for Speed: Most Wanted | 243048 | [243048-need-for-speed-most-wanted.json](./243048-need-for-speed-most-wanted.json) |
 | Need for Speed: Most Wanted | 248205 | [248205-need-for-speed-most-wanted.json](./248205-need-for-speed-most-wanted.json) |
 | Need for Speed: Most Wanted | 248206 | [248206-need-for-speed-most-wanted.json](./248206-need-for-speed-most-wanted.json) |
@@ -1235,6 +1240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neighbourhood Cat | 214510 | [214510-neighbourhood-cat.json](./214510-neighbourhood-cat.json) |
 | Neighbourhood Necromancer | 36451 | [36451-neighbourhood-necromancer.json](./36451-neighbourhood-necromancer.json) |
 | Neighbours back From Hell | 139447 | [139447-neighbours-back-from-hell.json](./139447-neighbours-back-from-hell.json) |
+| Neighbours from Hell | 243025 | [243025-neighbours-from-hell.json](./243025-neighbours-from-hell.json) |
 | Neighbours from Hell | 3132 | [3132-neighbours-from-hell.json](./3132-neighbours-from-hell.json) |
 | Neighbours from Hell Compilation | 53411 | [53411-neighbours-from-hell-compilation.json](./53411-neighbours-from-hell-compilation.json) |
 | Neighbours: The Adventure | 267373 | [267373-neighbours-the-adventure.json](./267373-neighbours-the-adventure.json) |
@@ -3942,6 +3948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nocked! True Tales of Robin Hood | 118139 | [118139-nocked-true-tales-of-robin-hood.json](./118139-nocked-true-tales-of-robin-hood.json) |
 | Nocko | 157004 | [157004-nocko.json](./157004-nocko.json) |
 | Nocky el Armadillo | 372048 | [372048-nocky-el-armadillo.json](./372048-nocky-el-armadillo.json) |
+| Noclip VR | 242984 | [242984-noclip-vr.json](./242984-noclip-vr.json) |
 | Noct | 12978 | [12978-noct.json](./12978-noct.json) |
 | Noctambulo | 363279 | [363279-noctambulo.json](./363279-noctambulo.json) |
 | Noctem | 169754 | [169754-noctem.json](./169754-noctem.json) |
