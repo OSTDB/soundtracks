@@ -2157,6 +2157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Urban Flow: London Rules | 237925 | [237925-urban-flow-london-rules.json](./237925-urban-flow-london-rules.json) |
 | Urban Flow: Mega Edition | 328807 | [328807-urban-flow-mega-edition.json](./328807-urban-flow-mega-edition.json) |
 | Urban Flow: Platinum Edition | 238741 | [238741-urban-flow-platinum-edition.json](./238741-urban-flow-platinum-edition.json) |
+| Urban Flow: Platinum Edition | 251493 | [251493-urban-flow-platinum-edition.json](./251493-urban-flow-platinum-edition.json) |
 | Urban Flow: Prime Edition | 242625 | [242625-urban-flow-prime-edition.json](./242625-urban-flow-prime-edition.json) |
 | Urban Flow: Pro Edition | 399829 | [399829-urban-flow-pro-edition.json](./399829-urban-flow-pro-edition.json) |
 | Urban Flow: Silver Edition | 250390 | [250390-urban-flow-silver-edition.json](./250390-urban-flow-silver-edition.json) |
