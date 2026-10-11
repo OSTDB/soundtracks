@@ -5023,6 +5023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ameagari no Hanaby | 104847 | [104847-ameagari-no-hanaby.json](./104847-ameagari-no-hanaby.json) |
 | Ameizu | 311595 | [311595-ameizu.json](./311595-ameizu.json) |
 | Amelia and Terror of the Night: Story Book for Kids | 68945 | [68945-amelia-and-terror-of-the-night-story-book-for-kids.json](./68945-amelia-and-terror-of-the-night-story-book-for-kids.json) |
+| Amelia Watson Case File no.420 | 269474 | [269474-amelia-watson-case-file-no-420.json](./269474-amelia-watson-case-file-no-420.json) |
 | Amelia's Curse | 87972 | [87972-amelias-curse.json](./87972-amelias-curse.json) |
 | Amelia's Diner | 300769 | [300769-amelias-diner.json](./300769-amelias-diner.json) |
 | Amelia's Garden | 319780 | [319780-amelias-garden.json](./319780-amelias-garden.json) |
