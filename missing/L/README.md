@@ -1200,6 +1200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lazaret | 211740 | [211740-lazaret.json](./211740-lazaret.json) |
 | Lazaretto | 36454 | [36454-lazaretto.json](./36454-lazaretto.json) |
 | Lazarian | 23917 | [23917-lazarian.json](./23917-lazarian.json) |
+| Lazarus A.D. 2222 | 258384 | [258384-lazarus-a-d-2222.json](./258384-lazarus-a-d-2222.json) |
 | Lazarus Doom | 198354 | [198354-lazarus-doom.json](./198354-lazarus-doom.json) |
 | Lazer Command | 40335 | [40335-lazer-command.json](./40335-lazer-command.json) |
 | Lazer Tag | 54536 | [54536-lazer-tag.json](./54536-lazer-tag.json) |
@@ -3769,6 +3770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Monk | 73534 | [73534-little-monk.json](./73534-little-monk.json) |
 | Little Monkey King's Big Quest | 265137 | [265137-little-monkey-kings-big-quest.json](./265137-little-monkey-kings-big-quest.json) |
 | Little Monkeys Eat Bananas | 151030 | [151030-little-monkeys-eat-bananas.json](./151030-little-monkeys-eat-bananas.json) |
+| Little Monster | 258375 | [258375-little-monster.json](./258375-little-monster.json) |
 | Little Monster Games | 87243 | [87243-little-monster-games.json](./87243-little-monster-games.json) |
 | Little Mouse's Encyclopedia + Brawl Chess | 199638 | [199638-little-mouses-encyclopedia-brawl-chess.json](./199638-little-mouses-encyclopedia-brawl-chess.json) |
 | Little Mouse's Encyclopedia + Cat's Cosmic Atlas | 277891 | [277891-little-mouses-encyclopedia-cats-cosmic-atlas.json](./277891-little-mouses-encyclopedia-cats-cosmic-atlas.json) |
@@ -4339,6 +4341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Logic Bombs | 353412 | [353412-logic-bombs.json](./353412-logic-bombs.json) |
 | Logic Circuit: Marble Puzzle | 210854 | [210854-logic-circuit-marble-puzzle.json](./210854-logic-circuit-marble-puzzle.json) |
 | Logic Cubes | 381792 | [381792-logic-cubes.json](./381792-logic-cubes.json) |
+| Logic Escape | 258407 | [258407-logic-escape.json](./258407-logic-escape.json) |
 | Logic Games Bundle | 242075 | [242075-logic-games-bundle.json](./242075-logic-games-bundle.json) |
 | Logic Island | 256290 | [256290-logic-island.json](./256290-logic-island.json) |
 | Logic Leap | 361070 | [361070-logic-leap.json](./361070-logic-leap.json) |
