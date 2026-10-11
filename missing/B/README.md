@@ -9787,6 +9787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brocante Game: Blister Hunter | 263020 | [263020-brocante-game-blister-hunter.json](./263020-brocante-game-blister-hunter.json) |
 | Broccoli Quest | 176873 | [176873-broccoli-quest.json](./176873-broccoli-quest.json) |
 | Broccoli Quest II: The Dark Sacrament | 176874 | [176874-broccoli-quest-ii-the-dark-sacrament.json](./176874-broccoli-quest-ii-the-dark-sacrament.json) |
+| BroChicken | 253806 | [253806-brochicken.json](./253806-brochicken.json) |
 | Brødrene Mortensens Jul | 129815 | [129815-br-drene-mortensens-jul.json](./129815-br-drene-mortensens-jul.json) |
 | Broforce: Forever | 260721 | [260721-broforce-forever.json](./260721-broforce-forever.json) |
 | Brok Complete Bundle | 384200 | [384200-brok-complete-bundle.json](./384200-brok-complete-bundle.json) |
