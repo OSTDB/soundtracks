@@ -710,6 +710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jera | 121578 | [121578-jera.json](./121578-jera.json) |
 | Jeremiah | 181691 | [181691-jeremiah.json](./181691-jeremiah.json) |
 | Jeremy Goes Jumping | 128469 | [128469-jeremy-goes-jumping.json](./128469-jeremy-goes-jumping.json) |
+| Jeremy McGrath Supercross 2000 | 249119 | [249119-jeremy-mcgrath-supercross-2000.json](./249119-jeremy-mcgrath-supercross-2000.json) |
 | Jeremy McGrath Supercross 98 | 4125 | [4125-jeremy-mcgrath-supercross-98.json](./4125-jeremy-mcgrath-supercross-98.json) |
 | Jeremy McGrath Supercross World | 3960 | [3960-jeremy-mcgrath-supercross-world.json](./3960-jeremy-mcgrath-supercross-world.json) |
 | Jeremy McGrath's Offroad | 20828 | [20828-jeremy-mcgraths-offroad.json](./20828-jeremy-mcgraths-offroad.json) |
