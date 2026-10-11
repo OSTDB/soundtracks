@@ -570,6 +570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dandara: Trials of Fear - Enhanced Edition | 155057 | [155057-dandara-trials-of-fear-enhanced-edition.json](./155057-dandara-trials-of-fear-enhanced-edition.json) |
 | Dandara: Trials of Fear Edition | 129536 | [129536-dandara-trials-of-fear-edition.json](./129536-dandara-trials-of-fear-edition.json) |
 | Dandelion | 181343 | [181343-dandelion.json](./181343-dandelion.json) |
+| Dandelion Planet | 277777 | [277777-dandelion-planet.json](./277777-dandelion-planet.json) |
 | Dandelion Void | 343376 | [343376-dandelion-void.json](./343376-dandelion-void.json) |
 | Dandelion: Wishes Brought to You | 17800 | [17800-dandelion-wishes-brought-to-you.json](./17800-dandelion-wishes-brought-to-you.json) |
 | Dandelions in the Sky | 135756 | [135756-dandelions-in-the-sky.json](./135756-dandelions-in-the-sky.json) |
@@ -820,6 +821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Alleys: Penumbra Motel | 139755 | [139755-dark-alleys-penumbra-motel.json](./139755-dark-alleys-penumbra-motel.json) |
 | Dark Alliances | 381339 | [381339-dark-alliances.json](./381339-dark-alliances.json) |
 | Dark and Bright | 51552 | [51552-dark-and-bright.json](./51552-dark-and-bright.json) |
+| Dark and Evil | 277773 | [277773-dark-and-evil.json](./277773-dark-and-evil.json) |
 | Dark and Forgotten | 262599 | [262599-dark-and-forgotten.json](./262599-dark-and-forgotten.json) |
 | Dark and Light | 251093 | [251093-dark-and-light.json](./251093-dark-and-light.json) |
 | Dark and Light | 26973 | [26973-dark-and-light.json](./26973-dark-and-light.json) |
@@ -2540,6 +2542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadtective Academy | 397403 | [397403-deadtective-academy.json](./397403-deadtective-academy.json) |
 | DeadTruth: The Dark Path Ahead | 30110 | [30110-deadtruth-the-dark-path-ahead.json](./30110-deadtruth-the-dark-path-ahead.json) |
 | Deadvale | 395804 | [395804-deadvale.json](./395804-deadvale.json) |
+| Deadville | 277772 | [277772-deadville.json](./277772-deadville.json) |
 | Deadwar: Old Lies | 94730 | [94730-deadwar-old-lies.json](./94730-deadwar-old-lies.json) |
 | Deadwater Saloon | 190136 | [190136-deadwater-saloon.json](./190136-deadwater-saloon.json) |
 | Deadweight | 34839 | [34839-deadweight.json](./34839-deadweight.json) |
