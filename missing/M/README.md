@@ -998,6 +998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MagicArchitect | 284268 | [284268-magicarchitect.json](./284268-magicarchitect.json) |
 | MagiCarnage | 211730 | [211730-magicarnage.json](./211730-magicarnage.json) |
 | MagiCats Builder: Infinite Pack | 170312 | [170312-magicats-builder-infinite-pack.json](./170312-magicats-builder-infinite-pack.json) |
+| MagicBeans | 257857 | [257857-magicbeans.json](./257857-magicbeans.json) |
 | Magician | 319093 | [319093-magician.json](./319093-magician.json) |
 | Magician | 94209 | [94209-magician.json](./94209-magician.json) |
 | Magician Lord | 19109 | [19109-magician-lord.json](./19109-magician-lord.json) |
@@ -1537,6 +1538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Make Border Great Again! | 74345 | [74345-make-border-great-again.json](./74345-make-border-great-again.json) |
 | Make Candy | 175368 | [175368-make-candy.json](./175368-make-candy.json) |
 | Make Capybara Happy | 335248 | [335248-make-capybara-happy.json](./335248-make-capybara-happy.json) |
+| Make Dogs in Temple Jump 2020 | 257875 | [257875-make-dogs-in-temple-jump-2020.json](./257875-make-dogs-in-temple-jump-2020.json) |
 | Make Friends | 381118 | [381118-make-friends.json](./381118-make-friends.json) |
 | Make Haste! | 141771 | [141771-make-haste.json](./141771-make-haste.json) |
 | Make Her Real | 414407 | [414407-make-her-real.json](./414407-make-her-real.json) |
@@ -4113,6 +4115,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mealmates | 151009 | [151009-mealmates.json](./151009-mealmates.json) |
 | Mean Bean Tsuu | 321399 | [321399-mean-bean-tsuu.json](./321399-mean-bean-tsuu.json) |
 | Mean Beans | 236289 | [236289-mean-beans.json](./236289-mean-beans.json) |
+| Mean Beans: Gotta Have It Hat Pack | 257858 | [257858-mean-beans-gotta-have-it-hat-pack.json](./257858-mean-beans-gotta-have-it-hat-pack.json) |
+| Mean Beans: I Paid Money For This Pack | 257860 | [257860-mean-beans-i-paid-money-for-this-pack.json](./257860-mean-beans-i-paid-money-for-this-pack.json) |
+| Mean Beans: Manly Hat Pack | 257861 | [257861-mean-beans-manly-hat-pack.json](./257861-mean-beans-manly-hat-pack.json) |
+| Mean Beans: Party Hat Pack | 257859 | [257859-mean-beans-party-hat-pack.json](./257859-mean-beans-party-hat-pack.json) |
 | Mean City | 47154 | [47154-mean-city.json](./47154-mean-city.json) |
 | Mean Girls | 150035 | [150035-mean-girls.json](./150035-mean-girls.json) |
 | Meander | 108986 | [108986-meander.json](./108986-meander.json) |
@@ -13124,6 +13130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Sudoku: Classic 9x9 Medium 2 | 321995 | [321995-my-sudoku-classic-9x9-medium-2.json](./321995-my-sudoku-classic-9x9-medium-2.json) |
 | My Sudoku: Classic 9x9 Medium 3 | 321976 | [321976-my-sudoku-classic-9x9-medium-3.json](./321976-my-sudoku-classic-9x9-medium-3.json) |
 | My Sugar Mommy is a Futanari | 215637 | [215637-my-sugar-mommy-is-a-futanari.json](./215637-my-sugar-mommy-is-a-futanari.json) |
+| My Summer Adventure: Memories of Another Life | 257842 | [257842-my-summer-adventure-memories-of-another-life.json](./257842-my-summer-adventure-memories-of-another-life.json) |
 | My Summer Adventure: Memories of Another Life - Day 1 | 240809 | [240809-my-summer-adventure-memories-of-another-life-day-1.json](./240809-my-summer-adventure-memories-of-another-life-day-1.json) |
 | My Summer Car | 21453 | [21453-my-summer-car.json](./21453-my-summer-car.json) |
 | My Summer Drive | 342210 | [342210-my-summer-drive.json](./342210-my-summer-drive.json) |
@@ -13598,6 +13605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystic Melee | 33218 | [33218-mystic-melee.json](./33218-mystic-melee.json) |
 | Mystic Merchant | 348189 | [348189-mystic-merchant.json](./348189-mystic-merchant.json) |
 | Mystic Messenger | 27259 | [27259-mystic-messenger.json](./27259-mystic-messenger.json) |
+| Mystic Messenger: April Fool's 2017 DLC | 257839 | [257839-mystic-messenger-april-fools-2017-dlc.json](./257839-mystic-messenger-april-fools-2017-dlc.json) |
 | Mystic Midway: Phantom Express | 45911 | [45911-mystic-midway-phantom-express.json](./45911-mystic-midway-phantom-express.json) |
 | Mystic Midway: Rest in Pieces | 45910 | [45910-mystic-midway-rest-in-pieces.json](./45910-mystic-midway-rest-in-pieces.json) |
 | Mystic Mine | 54245 | [54245-mystic-mine.json](./54245-mystic-mine.json) |
