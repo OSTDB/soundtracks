@@ -523,6 +523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy Fight: Universal Warriors | 39531 | [39531-galaxy-fight-universal-warriors.json](./39531-galaxy-fight-universal-warriors.json) |
 | Galaxy Fighters | 200023 | [200023-galaxy-fighters.json](./200023-galaxy-fighters.json) |
 | Galaxy Flavored Heroes | 306563 | [306563-galaxy-flavored-heroes.json](./306563-galaxy-flavored-heroes.json) |
+| Galaxy Force | 273849 | [273849-galaxy-force.json](./273849-galaxy-force.json) |
 | Galaxy Force | 45651 | [45651-galaxy-force.json](./45651-galaxy-force.json) |
 | Galaxy Force II | 6799 | [6799-galaxy-force-ii.json](./6799-galaxy-force-ii.json) |
 | Galaxy Fräulein Yuna 2: Eien no Princess | 64689 | [64689-galaxy-fraulein-yuna-2-eien-no-princess.json](./64689-galaxy-fraulein-yuna-2-eien-no-princess.json) |
@@ -2478,6 +2479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghosts I-IV for Quake | 131580 | [131580-ghosts-i-iv-for-quake.json](./131580-ghosts-i-iv-for-quake.json) |
 | Ghosts of Tabor | 204034 | [204034-ghosts-of-tabor.json](./204034-ghosts-of-tabor.json) |
 | Ghosts of Tabor: Florida Man DLC | 393139 | [393139-ghosts-of-tabor-florida-man-dlc.json](./393139-ghosts-of-tabor-florida-man-dlc.json) |
+| Ghosts of Tabor: Taran Tactical JW3 | 273829 | [273829-ghosts-of-tabor-taran-tactical-jw3.json](./273829-ghosts-of-tabor-taran-tactical-jw3.json) |
 | Ghosts of the Past: Bones of Meadows Town - Collector's Edition | 381378 | [381378-ghosts-of-the-past-bones-of-meadows-town-collectors-edition.json](./381378-ghosts-of-the-past-bones-of-meadows-town-collectors-edition.json) |
 | Ghosts of the Tozai Line | 416661 | [416661-ghosts-of-the-tozai-line.json](./416661-ghosts-of-the-tozai-line.json) |
 | Ghosts of Trastevere | 372652 | [372652-ghosts-of-trastevere.json](./372652-ghosts-of-trastevere.json) |
@@ -2742,6 +2744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girl with a Big Sword | 110174 | [110174-girl-with-a-big-sword.json](./110174-girl-with-a-big-sword.json) |
 | Girl with a Heart of | 64906 | [64906-girl-with-a-heart-of.json](./64906-girl-with-a-heart-of.json) |
 | Girl With Gun | 390203 | [390203-girl-with-gun.json](./390203-girl-with-gun.json) |
+| Girl X Island | 273814 | [273814-girl-x-island.json](./273814-girl-x-island.json) |
 | Girl Zone | 66945 | [66945-girl-zone.json](./66945-girl-zone.json) |
 | Girl!Panic!!! | 415108 | [415108-girl-panic.json](./415108-girl-panic.json) |
 | Girl.exe | 171401 | [171401-girl-exe.json](./171401-girl-exe.json) |
@@ -4585,6 +4588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grackon's Curse | 117020 | [117020-grackons-curse.json](./117020-grackons-curse.json) |
 | Grade Sword | 245883 | [245883-grade-sword.json](./245883-grade-sword.json) |
 | Grader Simulator: Road Work | 231948 | [231948-grader-simulator-road-work.json](./231948-grader-simulator-road-work.json) |
+| Gradient Flow | 273827 | [273827-gradient-flow.json](./273827-gradient-flow.json) |
 | Gradiently | 142702 | [142702-gradiently.json](./142702-gradiently.json) |
 | Gradius | 1476 | [1476-gradius.json](./1476-gradius.json) |
 | Gradius | 213191 | [213191-gradius.json](./213191-gradius.json) |
