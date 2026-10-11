@@ -5158,6 +5158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Poops: Number Two | 143480 | [143480-pixel-poops-number-two.json](./143480-pixel-poops-number-two.json) |
 | Pixel Princess Arena | 269219 | [269219-pixel-princess-arena.json](./269219-pixel-princess-arena.json) |
 | Pixel Privateers | 27405 | [27405-pixel-privateers.json](./27405-pixel-privateers.json) |
+| Pixel Pro Golf | 256752 | [256752-pixel-pro-golf.json](./256752-pixel-pro-golf.json) |
 | Pixel Pro Tennis | 213643 | [213643-pixel-pro-tennis.json](./213643-pixel-pro-tennis.json) |
 | Pixel Pro Winter Sports | 243175 | [243175-pixel-pro-winter-sports.json](./243175-pixel-pro-winter-sports.json) |
 | Pixel Punk | 252275 | [252275-pixel-punk.json](./252275-pixel-punk.json) |
@@ -7397,6 +7398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Police Chase | 157550 | [157550-police-chase.json](./157550-police-chase.json) |
 | Police Chase Crime: Racing Car | 107672 | [107672-police-chase-crime-racing-car.json](./107672-police-chase-crime-racing-car.json) |
 | Police Chopper | 87917 | [87917-police-chopper.json](./87917-police-chopper.json) |
+| Police Cop Hot Pursuit | 256758 | [256758-police-cop-hot-pursuit.json](./256758-police-cop-hot-pursuit.json) |
 | Police Detective: Tokyo Beat | 381362 | [381362-police-detective-tokyo-beat.json](./381362-police-detective-tokyo-beat.json) |
 | Police Enforcement VR : 1-K-27 | 97014 | [97014-police-enforcement-vr-1-k-27.json](./97014-police-enforcement-vr-1-k-27.json) |
 | Police Girls | 393765 | [393765-police-girls.json](./393765-police-girls.json) |
@@ -8549,6 +8551,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Powerslam | 101679 | [101679-powerslam.json](./101679-powerslam.json) |
 | PowerSlave | 188071 | [188071-powerslave.json](./188071-powerslave.json) |
 | PowerSlave: Exhumed | 165054 | [165054-powerslave-exhumed.json](./165054-powerslave-exhumed.json) |
+| Powerstar Golf: Burning Sands | 256747 | [256747-powerstar-golf-burning-sands.json](./256747-powerstar-golf-burning-sands.json) |
+| Powerstar Golf: City Park | 256745 | [256745-powerstar-golf-city-park.json](./256745-powerstar-golf-city-park.json) |
 | Powerstar Golf: Emperor's Garden | 249733 | [249733-powerstar-golf-emperors-garden.json](./249733-powerstar-golf-emperors-garden.json) |
 | Powerstar Golf: Rocky Ridge | 249724 | [249724-powerstar-golf-rocky-ridge.json](./249724-powerstar-golf-rocky-ridge.json) |
 | Powerup | 327194 | [327194-powerup.json](./327194-powerup.json) |
@@ -11400,6 +11404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Together: Animals Jigsaw Super Pack | 241311 | [241311-puzzle-together-animals-jigsaw-super-pack.json](./241311-puzzle-together-animals-jigsaw-super-pack.json) |
 | Puzzle Together: Architecture Jigsaw Super Pack | 241312 | [241312-puzzle-together-architecture-jigsaw-super-pack.json](./241312-puzzle-together-architecture-jigsaw-super-pack.json) |
 | Puzzle Together: Great Paintings Jigsaw Super Pack | 241313 | [241313-puzzle-together-great-paintings-jigsaw-super-pack.json](./241313-puzzle-together-great-paintings-jigsaw-super-pack.json) |
+| Puzzle Together: Jigsaw Super Variety Pack | 256714 | [256714-puzzle-together-jigsaw-super-variety-pack.json](./256714-puzzle-together-jigsaw-super-variety-pack.json) |
 | Puzzle Tower | 129089 | [129089-puzzle-tower.json](./129089-puzzle-tower.json) |
 | Puzzle toys | 268979 | [268979-puzzle-toys.json](./268979-puzzle-toys.json) |
 | Puzzle Trains | 89276 | [89276-puzzle-trains.json](./89276-puzzle-trains.json) |
