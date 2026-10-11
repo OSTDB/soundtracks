@@ -2327,6 +2327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NFL Flick Quarterback | 58189 | [58189-nfl-flick-quarterback.json](./58189-nfl-flick-quarterback.json) |
 | NFL Football | 175899 | [175899-nfl-football.json](./175899-nfl-football.json) |
 | NFL Football | 198836 | [198836-nfl-football.json](./198836-nfl-football.json) |
+| NFL Football | 259471 | [259471-nfl-football.json](./259471-nfl-football.json) |
 | NFL Football | 64743 | [64743-nfl-football.json](./64743-nfl-football.json) |
 | NFL Football | 78935 | [78935-nfl-football.json](./78935-nfl-football.json) |
 | NFL Football | 78936 | [78936-nfl-football.json](./78936-nfl-football.json) |
