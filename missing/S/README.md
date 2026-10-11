@@ -4135,6 +4135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow City Mysteries: A Clockwork Noir | 290546 | [290546-shadow-city-mysteries-a-clockwork-noir.json](./290546-shadow-city-mysteries-a-clockwork-noir.json) |
 | Shadow Code: Lucy | 297217 | [297217-shadow-code-lucy.json](./297217-shadow-code-lucy.json) |
 | Shadow Complex Remastered | 19009 | [19009-shadow-complex-remastered.json](./19009-shadow-complex-remastered.json) |
+| Shadow Corridor 2: Ama no Yohira | 258410 | [258410-shadow-corridor-2-ama-no-yohira.json](./258410-shadow-corridor-2-ama-no-yohira.json) |
 | Shadow Council: The Puppeteers | 102949 | [102949-shadow-council-the-puppeteers.json](./102949-shadow-council-the-puppeteers.json) |
 | Shadow Dancer | 308420 | [308420-shadow-dancer.json](./308420-shadow-dancer.json) |
 | Shadow Dancer | 6876 | [6876-shadow-dancer.json](./6876-shadow-dancer.json) |
@@ -5983,6 +5984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shred BackCountry | 174268 | [174268-shred-backcountry.json](./174268-shred-backcountry.json) |
 | Shred It! | 20017 | [20017-shred-it.json](./20017-shred-it.json) |
 | Shred Off | 331955 | [331955-shred-off.json](./331955-shred-off.json) |
+| Shred the Undead | 258381 | [258381-shred-the-undead.json](./258381-shred-the-undead.json) |
 | Shred-A-Bunch! | 248030 | [248030-shred-a-bunch.json](./248030-shred-a-bunch.json) |
 | Shred! | 34974 | [34974-shred.json](./34974-shred.json) |
 | Shred! 2 - ft Sam Pilgrim | 104447 | [104447-shred-2-ft-sam-pilgrim.json](./104447-shred-2-ft-sam-pilgrim.json) |
@@ -9304,6 +9306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snap-A-Game: Classic RPG | 288680 | [288680-snap-a-game-classic-rpg.json](./288680-snap-a-game-classic-rpg.json) |
 | Snap! A Cerrado Adventure | 282117 | [282117-snap-a-cerrado-adventure.json](./282117-snap-a-cerrado-adventure.json) |
 | SnaPaul | 332828 | [332828-snapaul.json](./332828-snapaul.json) |
+| Snapback | 258365 | [258365-snapback.json](./258365-snapback.json) |
 | SnapCat: Mia's Cozy Adventure | 381802 | [381802-snapcat-mias-cozy-adventure.json](./381802-snapcat-mias-cozy-adventure.json) |
 | Snapdots | 62193 | [62193-snapdots.json](./62193-snapdots.json) |
 | Snapdragon | 118947 | [118947-snapdragon.json](./118947-snapdragon.json) |
@@ -14073,6 +14076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spooky Bodies | 343392 | [343392-spooky-bodies.json](./343392-spooky-bodies.json) |
 | Spooky Castle | 47235 | [47235-spooky-castle.json](./47235-spooky-castle.json) |
 | Spooky Chase | 136485 | [136485-spooky-chase.json](./136485-spooky-chase.json) |
+| Spooky Crew: Mask of the Mysterium | 258372 | [258372-spooky-crew-mask-of-the-mysterium.json](./258372-spooky-crew-mask-of-the-mysterium.json) |
 | Spooky Dating Sim | 374222 | [374222-spooky-dating-sim.json](./374222-spooky-dating-sim.json) |
 | Spooky Dice | 184443 | [184443-spooky-dice.json](./184443-spooky-dice.json) |
 | Spooky Dwellers 2: Collector's Edition | 272350 | [272350-spooky-dwellers-2-collectors-edition.json](./272350-spooky-dwellers-2-collectors-edition.json) |
@@ -14599,7 +14603,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squeakross: Home Squeak Home | 305074 | [305074-squeakross-home-squeak-home.json](./305074-squeakross-home-squeak-home.json) |
 | Squeaky Clean | 146552 | [146552-squeaky-clean.json](./146552-squeaky-clean.json) |
 | Squeeballs Party | 21213 | [21213-squeeballs-party.json](./21213-squeeballs-party.json) |
+| Squeebing Up the Tower of Friendship | 258406 | [258406-squeebing-up-the-tower-of-friendship.json](./258406-squeebing-up-the-tower-of-friendship.json) |
 | Squeek, the meek | 184974 | [184974-squeek-the-meek.json](./184974-squeek-the-meek.json) |
+| Squeeks: Trickshot Festival | 258395 | [258395-squeeks-trickshot-festival.json](./258395-squeeks-trickshot-festival.json) |
 | Squeen's Adventure 3: Across The Cosmos | 242255 | [242255-squeens-adventure-3-across-the-cosmos.json](./242255-squeens-adventure-3-across-the-cosmos.json) |
 | Squeen's Adventure: Definitive Edition | 288684 | [288684-squeens-adventure-definitive-edition.json](./288684-squeens-adventure-definitive-edition.json) |
 | Squeeze | 344987 | [344987-squeeze.json](./344987-squeeze.json) |
