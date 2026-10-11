@@ -5370,6 +5370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Donut Gallery | 386735 | [386735-the-donut-gallery.json](./386735-the-donut-gallery.json) |
 | The Doodle Palette | 377964 | [377964-the-doodle-palette.json](./377964-the-doodle-palette.json) |
 | The Doom Beneath | 175429 | [175429-the-doom-beneath.json](./175429-the-doom-beneath.json) |
+| The Doomsland: Survivors | 245202 | [245202-the-doomsland-survivors.json](./245202-the-doomsland-survivors.json) |
 | The Door | 150501 | [150501-the-door.json](./150501-the-door.json) |
 | The Door | 246123 | [246123-the-door.json](./246123-the-door.json) |
 | The Door | 284286 | [284286-the-door.json](./284286-the-door.json) |
