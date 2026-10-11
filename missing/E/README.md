@@ -2972,6 +2972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Erophone | 156555 | [156555-erophone.json](./156555-erophone.json) |
 | Erophone:Re | 239715 | [239715-erophone-re.json](./239715-erophone-re.json) |
 | Eros Fantasy | 199606 | [199606-eros-fantasy.json](./199606-eros-fantasy.json) |
+| Eros Lights: Strip-Club | 271117 | [271117-eros-lights-strip-club.json](./271117-eros-lights-strip-club.json) |
 | Eros Myth | 176467 | [176467-eros-myth.json](./176467-eros-myth.json) |
 | Erosion | 177437 | [177437-erosion.json](./177437-erosion.json) |
 | Erostasis | 222826 | [222826-erostasis.json](./222826-erostasis.json) |
@@ -3374,6 +3375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape the Game: Episode 1 | 170807 | [170807-escape-the-game-episode-1.json](./170807-escape-the-game-episode-1.json) |
 | Escape The Garage | 322275 | [322275-escape-the-garage.json](./322275-escape-the-garage.json) |
 | Escape the Glitch | 287032 | [287032-escape-the-glitch.json](./287032-escape-the-glitch.json) |
+| Escape the Glubinka | 271112 | [271112-escape-the-glubinka.json](./271112-escape-the-glubinka.json) |
 | Escape the Grid VR | 102350 | [102350-escape-the-grid-vr.json](./102350-escape-the-grid-vr.json) |
 | Escape the House | 413116 | [413116-escape-the-house.json](./413116-escape-the-house.json) |
 | Escape the Humans | 362409 | [362409-escape-the-humans.json](./362409-escape-the-humans.json) |
