@@ -1324,6 +1324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkmoor Manor | 102791 | [102791-darkmoor-manor.json](./102791-darkmoor-manor.json) |
 | Darkness | 145589 | [145589-darkness.json](./145589-darkness.json) |
 | Darkness Ahead | 30821 | [30821-darkness-ahead.json](./30821-darkness-ahead.json) |
+| Darkness and Fear: Eerie Shadows | 271658 | [271658-darkness-and-fear-eerie-shadows.json](./271658-darkness-and-fear-eerie-shadows.json) |
 | Darkness and Flame: Born of Fire | 31292 | [31292-darkness-and-flame-born-of-fire.json](./31292-darkness-and-flame-born-of-fire.json) |
 | Darkness and Flame: Enemy in Reflection | 127207 | [127207-darkness-and-flame-enemy-in-reflection.json](./127207-darkness-and-flame-enemy-in-reflection.json) |
 | Darkness and Flame: Missing Memories | 75079 | [75079-darkness-and-flame-missing-memories.json](./75079-darkness-and-flame-missing-memories.json) |
@@ -2197,6 +2198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Matter | 102806 | [102806-dead-matter.json](./102806-dead-matter.json) |
 | Dead Mayhem | 105305 | [105305-dead-mayhem.json](./105305-dead-mayhem.json) |
 | Dead Maze | 55494 | [55494-dead-maze.json](./55494-dead-maze.json) |
+| Dead Meat | 271654 | [271654-dead-meat.json](./271654-dead-meat.json) |
 | Dead Meets Lead | 65444 | [65444-dead-meets-lead.json](./65444-dead-meets-lead.json) |
 | Dead Mire | 249199 | [249199-dead-mire.json](./249199-dead-mire.json) |
 | Dead Moon: Revenge on Phobos | 51509 | [51509-dead-moon-revenge-on-phobos.json](./51509-dead-moon-revenge-on-phobos.json) |
@@ -2766,6 +2768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Pit Explorer | 339929 | [339929-death-pit-explorer.json](./339929-death-pit-explorer.json) |
 | Death Plunder | 311174 | [311174-death-plunder.json](./311174-death-plunder.json) |
 | Death Pong | 390585 | [390585-death-pong.json](./390585-death-pong.json) |
+| Death Rabbit | 271655 | [271655-death-rabbit.json](./271655-death-rabbit.json) |
 | Death Rabbit Arena | 250867 | [250867-death-rabbit-arena.json](./250867-death-rabbit-arena.json) |
 | Death Race | 110376 | [110376-death-race.json](./110376-death-race.json) |
 | Death Race | 8561 | [8561-death-race.json](./8561-death-race.json) |
@@ -4095,6 +4098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deorum Online | 121412 | [121412-deorum-online.json](./121412-deorum-online.json) |
 | Deosurge | 183080 | [183080-deosurge.json](./183080-deosurge.json) |
 | Departed Away | 265112 | [265112-departed-away.json](./265112-departed-away.json) |
+| Department 14 | 271656 | [271656-department-14.json](./271656-department-14.json) |
 | Department of Collections | 306029 | [306029-department-of-collections.json](./306029-department-of-collections.json) |
 | Department of Missing Persons | 400287 | [400287-department-of-missing-persons.json](./400287-department-of-missing-persons.json) |
 | Departure | 96681 | [96681-departure.json](./96681-departure.json) |
@@ -7126,6 +7130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doggy | 304054 | [304054-doggy.json](./304054-doggy.json) |
 | Doggy Don't Care | 251749 | [251749-doggy-dont-care.json](./251749-doggy-dont-care.json) |
 | Doggy Quest: The Dark Forest | 378410 | [378410-doggy-quest-the-dark-forest.json](./378410-doggy-quest-the-dark-forest.json) |
+| Doggy Up! | 271657 | [271657-doggy-up.json](./271657-doggy-up.json) |
 | Doggy Waiter 2 | 319678 | [319678-doggy-waiter-2.json](./319678-doggy-waiter-2.json) |
 | DogHotel | 101582 | [101582-doghotel.json](./101582-doghotel.json) |
 | Doghouse 2 | 216167 | [216167-doghouse-2.json](./216167-doghouse-2.json) |
@@ -9742,6 +9747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Shopper | 39629 | [39629-dream-shopper.json](./39629-dream-shopper.json) |
 | Dream Sketcher | 255064 | [255064-dream-sketcher.json](./255064-dream-sketcher.json) |
 | Dream Sketcher: The Lost Opera | 279540 | [279540-dream-sketcher-the-lost-opera.json](./279540-dream-sketcher-the-lost-opera.json) |
+| Dream Slayer | 271692 | [271692-dream-slayer.json](./271692-dream-slayer.json) |
 | Dream Slayers | 342032 | [342032-dream-slayers.json](./342032-dream-slayers.json) |
 | Dream Soccer '94 | 39627 | [39627-dream-soccer-94.json](./39627-dream-soccer-94.json) |
 | Dream Storm | 189047 | [189047-dream-storm.json](./189047-dream-storm.json) |
