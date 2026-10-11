@@ -1955,6 +1955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heal The Survivors | 322130 | [322130-heal-the-survivors.json](./322130-heal-the-survivors.json) |
 | Heal Them All | 34299 | [34299-heal-them-all.json](./34299-heal-them-all.json) |
 | Heal: Pocket Edition | 208010 | [208010-heal-pocket-edition.json](./208010-heal-pocket-edition.json) |
+| Healer | 257850 | [257850-healer.json](./257850-healer.json) |
 | Healer Simulator | 96675 | [96675-healer-simulator.json](./96675-healer-simulator.json) |
 | Healer's Quest | 29380 | [29380-healers-quest.json](./29380-healers-quest.json) |
 | Healer's Quest: Pocket Wand | 197759 | [197759-healers-quest-pocket-wand.json](./197759-healers-quest-pocket-wand.json) |
@@ -4875,6 +4876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hill Climbing 2 | 213385 | [213385-hill-climbing-2.json](./213385-hill-climbing-2.json) |
 | Hill Defender | 349933 | [349933-hill-defender.json](./349933-hill-defender.json) |
 | Hill Dig: The Boring Adventure | 249900 | [249900-hill-dig-the-boring-adventure.json](./249900-hill-dig-the-boring-adventure.json) |
+| Hill Dirt Master 3 | 257871 | [257871-hill-dirt-master-3.json](./257871-hill-dirt-master-3.json) |
 | Hill Racer | 106760 | [106760-hill-racer.json](./106760-hill-racer.json) |
 | Hill Racer Champions | 106768 | [106768-hill-racer-champions.json](./106768-hill-racer-champions.json) |
 | Hill Ridge Lost & Found | 57505 | [57505-hill-ridge-lost-and-found.json](./57505-hill-ridge-lost-and-found.json) |
