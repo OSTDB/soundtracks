@@ -3396,6 +3396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find 100 Ducks and Blast Them! | 333916 | [333916-find-100-ducks-and-blast-them.json](./333916-find-100-ducks-and-blast-them.json) |
 | Find 100 Ducks and Blast Them...in Space!!! | 391317 | [391317-find-100-ducks-and-blast-them-in-space.json](./391317-find-100-ducks-and-blast-them-in-space.json) |
 | Find 101 Doomers: Deluxe Content | 291372 | [291372-find-101-doomers-deluxe-content.json](./291372-find-101-doomers-deluxe-content.json) |
+| Find 2: Block Hit | 256194 | [256194-find-2-block-hit.json](./256194-find-2-block-hit.json) |
 | Find 5 differences! | 348956 | [348956-find-5-differences.json](./348956-find-5-differences.json) |
 | Find A Way | 155005 | [155005-find-a-way.json](./155005-find-a-way.json) |
 | Find a way out: Abode of darkness. | 192799 | [192799-find-a-way-out-abode-of-darkness.json](./192799-find-a-way-out-abode-of-darkness.json) |
@@ -8007,6 +8008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fruitee! | 377949 | [377949-fruitee.json](./377949-fruitee.json) |
 | Fruitimo! | 352216 | [352216-fruitimo.json](./352216-fruitimo.json) |
 | Fruitio | 294288 | [294288-fruitio.json](./294288-fruitio.json) |
+| Fruitito | 256192 | [256192-fruitito.json](./256192-fruitito.json) |
 | Fruits | 314413 | [314413-fruits.json](./314413-fruits.json) |
 | Fruits | 94535 | [94535-fruits.json](./94535-fruits.json) |
 | Fruits - Connect the Dots and Add Colors | 87908 | [87908-fruits-connect-the-dots-and-add-colors.json](./87908-fruits-connect-the-dots-and-add-colors.json) |
