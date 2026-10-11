@@ -2984,6 +2984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Light Up the Dark | 404960 | [404960-light-up-the-dark.json](./404960-light-up-the-dark.json) |
 | Light Up the Holidays | 110953 | [110953-light-up-the-holidays.json](./110953-light-up-the-holidays.json) |
 | Light Up the Room | 161371 | [161371-light-up-the-room.json](./161371-light-up-the-room.json) |
+| Light Up The Sky | 275518 | [275518-light-up-the-sky.json](./275518-light-up-the-sky.json) |
 | Light Weaver | 183381 | [183381-light-weaver.json](./183381-light-weaver.json) |
 | Light-Bot | 63577 | [63577-light-bot.json](./63577-light-bot.json) |
 | Light-Bringer | 360644 | [360644-light-bringer.json](./360644-light-bringer.json) |
@@ -3593,6 +3594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Bit War | 147259 | [147259-little-bit-war.json](./147259-little-bit-war.json) |
 | Little Bo Reap | 244308 | [244308-little-bo-reap.json](./244308-little-bo-reap.json) |
 | Little Boats of Farewell | 193730 | [193730-little-boats-of-farewell.json](./193730-little-boats-of-farewell.json) |
+| Little Bombers Returns | 275554 | [275554-little-bombers-returns.json](./275554-little-bombers-returns.json) |
 | Little Boo and the Spectral Orbs | 386232 | [386232-little-boo-and-the-spectral-orbs.json](./386232-little-boo-and-the-spectral-orbs.json) |
 | Little Britain: The Video Game | 8557 | [8557-little-britain-the-video-game.json](./8557-little-britain-the-video-game.json) |
 | Little Bug | 28318 | [28318-little-bug.json](./28318-little-bug.json) |
@@ -5017,6 +5019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost In Memories | 303634 | [303634-lost-in-memories.json](./303634-lost-in-memories.json) |
 | Lost in Memory | 228087 | [228087-lost-in-memory.json](./228087-lost-in-memory.json) |
 | Lost In Night | 90202 | [90202-lost-in-night.json](./90202-lost-in-night.json) |
+| Lost in Nowhere | 275556 | [275556-lost-in-nowhere.json](./275556-lost-in-nowhere.json) |
 | Lost in Paradise | 20528 | [20528-lost-in-paradise.json](./20528-lost-in-paradise.json) |
 | Lost in Paradise | 416689 | [416689-lost-in-paradise.json](./416689-lost-in-paradise.json) |
 | Lost in Play | 150462 | [150462-lost-in-play.json](./150462-lost-in-play.json) |
@@ -5706,6 +5709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucid Cycle | 149940 | [149940-lucid-cycle.json](./149940-lucid-cycle.json) |
 | Lucid Deep | 132774 | [132774-lucid-deep.json](./132774-lucid-deep.json) |
 | Lucid Dream | 202933 | [202933-lucid-dream.json](./202933-lucid-dream.json) |
+| Lucid Echoes | 275537 | [275537-lucid-echoes.json](./275537-lucid-echoes.json) |
 | Lucid Night | 277800 | [277800-lucid-night.json](./277800-lucid-night.json) |
 | Lucid Nightmares | 355126 | [355126-lucid-nightmares.json](./355126-lucid-nightmares.json) |
 | Lucid Path | 108065 | [108065-lucid-path.json](./108065-lucid-path.json) |
