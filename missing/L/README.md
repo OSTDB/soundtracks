@@ -4585,6 +4585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loom | 267418 | [267418-loom.json](./267418-loom.json) |
 | Loom Path | 332831 | [332831-loom-path.json](./332831-loom-path.json) |
 | Loomchild | 418773 | [418773-loomchild.json](./418773-loomchild.json) |
+| Loona Landa | 271127 | [271127-loona-landa.json](./271127-loona-landa.json) |
 | Looney Tune Dash | 101947 | [101947-looney-tune-dash.json](./101947-looney-tune-dash.json) |
 | Looney Tunes | 290324 | [290324-looney-tunes.json](./290324-looney-tunes.json) |
 | Looney Tunes Racing | 292791 | [292791-looney-tunes-racing.json](./292791-looney-tunes-racing.json) |
