@@ -4228,6 +4228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizard Willy | 71038 | [71038-wizard-willy.json](./71038-wizard-willy.json) |
 | Wizard With a Gun | 152204 | [152204-wizard-with-a-gun.json](./152204-wizard-with-a-gun.json) |
 | Wizard with a Gun: Bounty Hunter Pack | 293391 | [293391-wizard-with-a-gun-bounty-hunter-pack.json](./293391-wizard-with-a-gun-bounty-hunter-pack.json) |
+| Wizard with a Gun: Deluxe Edition | 270585 | [270585-wizard-with-a-gun-deluxe-edition.json](./270585-wizard-with-a-gun-deluxe-edition.json) |
 | Wizard with a Gun: Gunmancer Pack | 272325 | [272325-wizard-with-a-gun-gunmancer-pack.json](./272325-wizard-with-a-gun-gunmancer-pack.json) |
 | Wizard's Adventure | 186243 | [186243-wizards-adventure.json](./186243-wizards-adventure.json) |
 | Wizard's Beard | 277606 | [277606-wizards-beard.json](./277606-wizards-beard.json) |
