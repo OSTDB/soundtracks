@@ -1160,6 +1160,17 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Banana Co. | 275881 | [275881-banana-co.json](./275881-banana-co.json) |
 | Banana Cowboy | 304692 | [304692-banana-cowboy.json](./304692-banana-cowboy.json) |
 | Banana Dash | 97325 | [97325-banana-dash.json](./97325-banana-dash.json) |
+| Banana Drama: All Animals Pack | 278332 | [278332-banana-drama-all-animals-pack.json](./278332-banana-drama-all-animals-pack.json) |
+| Banana Drama: Alpaca | 278333 | [278333-banana-drama-alpaca.json](./278333-banana-drama-alpaca.json) |
+| Banana Drama: Balanced Animals Pack | 278334 | [278334-banana-drama-balanced-animals-pack.json](./278334-banana-drama-balanced-animals-pack.json) |
+| Banana Drama: Cockatoo | 278335 | [278335-banana-drama-cockatoo.json](./278335-banana-drama-cockatoo.json) |
+| Banana Drama: Cow | 278336 | [278336-banana-drama-cow.json](./278336-banana-drama-cow.json) |
+| Banana Drama: Deer | 278337 | [278337-banana-drama-deer.json](./278337-banana-drama-deer.json) |
+| Banana Drama: Giraffe | 278338 | [278338-banana-drama-giraffe.json](./278338-banana-drama-giraffe.json) |
+| Banana Drama: Lion King | 278341 | [278341-banana-drama-lion-king.json](./278341-banana-drama-lion-king.json) |
+| Banana Drama: Strong Defense Animals Pack | 278339 | [278339-banana-drama-strong-defense-animals-pack.json](./278339-banana-drama-strong-defense-animals-pack.json) |
+| Banana Drama: Strong Offense Animals Pack | 278340 | [278340-banana-drama-strong-offense-animals-pack.json](./278340-banana-drama-strong-offense-animals-pack.json) |
+| Banana Drama: Tiger | 278342 | [278342-banana-drama-tiger.json](./278342-banana-drama-tiger.json) |
 | Banana Extreme | 329069 | [329069-banana-extreme.json](./329069-banana-extreme.json) |
 | Banana for Scale | 130341 | [130341-banana-for-scale.json](./130341-banana-for-scale.json) |
 | Banana girl | 106606 | [106606-banana-girl.json](./106606-banana-girl.json) |
@@ -10434,6 +10445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bulldozer | 116949 | [116949-bulldozer.json](./116949-bulldozer.json) |
 | Bulldozer Bob | 146921 | [146921-bulldozer-bob.json](./146921-bulldozer-bob.json) |
 | Bulldozer Crash | 227466 | [227466-bulldozer-crash.json](./227466-bulldozer-crash.json) |
+| Bulldozer Tycoon: Construction Simulator | 278329 | [278329-bulldozer-tycoon-construction-simulator.json](./278329-bulldozer-tycoon-construction-simulator.json) |
 | Bulle | 178590 | [178590-bulle.json](./178590-bulle.json) |
 | Bullet | 84189 | [84189-bullet.json](./84189-bullet.json) |
 | Bullet Angel | 143101 | [143101-bullet-angel.json](./143101-bullet-angel.json) |
