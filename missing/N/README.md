@@ -2072,6 +2072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Ludo | 232365 | [232365-new-ludo.json](./232365-new-ludo.json) |
 | New Magic Sword | 163906 | [163906-new-magic-sword.json](./163906-new-magic-sword.json) |
 | New Mario Kart Deluxe | 314574 | [314574-new-mario-kart-deluxe.json](./314574-new-mario-kart-deluxe.json) |
+| New Master Quest | 252059 | [252059-new-master-quest.json](./252059-new-master-quest.json) |
 | New Meat | 329030 | [329030-new-meat.json](./329030-new-meat.json) |
 | New Nightmare Cafe 4 | 339222 | [339222-new-nightmare-cafe-4.json](./339222-new-nightmare-cafe-4.json) |
 | New Nightmare Cafe 5 | 339223 | [339223-new-nightmare-cafe-5.json](./339223-new-nightmare-cafe-5.json) |
