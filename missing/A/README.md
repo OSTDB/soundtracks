@@ -647,6 +647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Short Game About Nothing | 395167 | [395167-a-short-game-about-nothing.json](./395167-a-short-game-about-nothing.json) |
 | A Show of Hands | 52563 | [52563-a-show-of-hands.json](./52563-a-show-of-hands.json) |
 | A Show of Kindness | 112465 | [112465-a-show-of-kindness.json](./112465-a-show-of-kindness.json) |
+| A Silent Statue | 274939 | [274939-a-silent-statue.json](./274939-a-silent-statue.json) |
 | A Silent Wood | 61318 | [61318-a-silent-wood.json](./61318-a-silent-wood.json) |
 | A Silly Goofy Dream 2 | 253477 | [253477-a-silly-goofy-dream-2.json](./253477-a-silly-goofy-dream-2.json) |
 | A Simple Ball Game | 345073 | [345073-a-simple-ball-game.json](./345073-a-simple-ball-game.json) |
@@ -5904,6 +5905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Across: Afrika | 236964 | [236964-animal-across-afrika.json](./236964-animal-across-afrika.json) |
 | Animal Adventure | 337813 | [337813-animal-adventure.json](./337813-animal-adventure.json) |
 | Animal Adventure Downhill Rush | 269084 | [269084-animal-adventure-downhill-rush.json](./269084-animal-adventure-downhill-rush.json) |
+| Animal Arena | 274950 | [274950-animal-arena.json](./274950-animal-arena.json) |
 | Animal Away Jam | 297651 | [297651-animal-away-jam.json](./297651-animal-away-jam.json) |
 | Animal Babysister Fighter | 200474 | [200474-animal-babysister-fighter.json](./200474-animal-babysister-fighter.json) |
 | Animal Battle Arena | 315808 | [315808-animal-battle-arena.json](./315808-animal-battle-arena.json) |
@@ -10719,6 +10721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aviator | 13694 | [13694-aviator.json](./13694-aviator.json) |
 | Aviator Arcade II | 182926 | [182926-aviator-arcade-ii.json](./182926-aviator-arcade-ii.json) |
 | Aviator: Air Combat | 226161 | [226161-aviator-air-combat.json](./226161-aviator-air-combat.json) |
+| Aviators | 274928 | [274928-aviators.json](./274928-aviators.json) |
 | Aviators | 31776 | [31776-aviators.json](./31776-aviators.json) |
 | Aviators VR | 280343 | [280343-aviators-vr.json](./280343-aviators-vr.json) |
 | Aviatrix | 279044 | [279044-aviatrix.json](./279044-aviatrix.json) |
