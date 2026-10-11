@@ -4096,6 +4096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witchfiend / Odd Job Eddie | 92845 | [92845-witchfiend-odd-job-eddie.json](./92845-witchfiend-odd-job-eddie.json) |
 | WitchGhost | 284837 | [284837-witchghost.json](./284837-witchghost.json) |
 | Witching Hour | 154077 | [154077-witching-hour.json](./154077-witching-hour.json) |
+| Witching Hour | 261158 | [261158-witching-hour.json](./261158-witching-hour.json) |
 | Witching Stone | 284839 | [284839-witching-stone.json](./284839-witching-stone.json) |
 | Witching Tower | 90121 | [90121-witching-tower.json](./90121-witching-tower.json) |
 | Witching Tower: Heroes | 132252 | [132252-witching-tower-heroes.json](./132252-witching-tower-heroes.json) |
@@ -5324,6 +5325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Soccer | 12893 | [12893-world-soccer.json](./12893-world-soccer.json) |
 | World Soccer | 13087 | [13087-world-soccer.json](./13087-world-soccer.json) |
 | World Soccer Challenge | 255739 | [255739-world-soccer-challenge.json](./255739-world-soccer-challenge.json) |
+| World Soccer Champs | 261178 | [261178-world-soccer-champs.json](./261178-world-soccer-champs.json) |
 | World Soccer Cup 2022 | 221691 | [221691-world-soccer-cup-2022.json](./221691-world-soccer-cup-2022.json) |
 | World Soccer Finals | 38560 | [38560-world-soccer-finals.json](./38560-world-soccer-finals.json) |
 | World Soccer Kid | 196827 | [196827-world-soccer-kid.json](./196827-world-soccer-kid.json) |
