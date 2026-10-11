@@ -3032,6 +3032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CC & SH Smash Hits | 74303 | [74303-cc-and-sh-smash-hits.json](./74303-cc-and-sh-smash-hits.json) |
 | CCCP Calls! | 100490 | [100490-cccp-calls.json](./100490-cccp-calls.json) |
 | CCTV | 264863 | [264863-cctv.json](./264863-cctv.json) |
+| CD 2: Trap Master | 244668 | [244668-cd-2-trap-master.json](./244668-cd-2-trap-master.json) |
 | CD Battle: Hikari no Yuushi-tachi | 267948 | [267948-cd-battle-hikari-no-yuushi-tachi.json](./267948-cd-battle-hikari-no-yuushi-tachi.json) |
 | CD-i Donkey Kong Game | 231479 | [231479-cd-i-donkey-kong-game.json](./231479-cd-i-donkey-kong-game.json) |
 | CD-i Golgo 13 | 218002 | [218002-cd-i-golgo-13.json](./218002-cd-i-golgo-13.json) |
@@ -3879,6 +3880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Checkmate! | 108057 | [108057-checkmate.json](./108057-checkmate.json) |
 | Checkmate! My Shogi Club President can't be this Cute! | 253997 | [253997-checkmate-my-shogi-club-president-cant-be-this-cute.json](./253997-checkmate-my-shogi-club-president-cant-be-this-cute.json) |
 | Checkmates | 57371 | [57371-checkmates.json](./57371-checkmates.json) |
+| CheckMaze | 244678 | [244678-checkmaze.json](./244678-checkmaze.json) |
 | CheckOut | 325579 | [325579-checkout.json](./325579-checkout.json) |
 | Checkout! | 284816 | [284816-checkout.json](./284816-checkout.json) |
 | Checkpoint Gary | 281371 | [281371-checkpoint-gary.json](./281371-checkpoint-gary.json) |
