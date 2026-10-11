@@ -3001,6 +3001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aim God | 203784 | [203784-aim-god.json](./203784-aim-god.json) |
 | Aim in Space | 274513 | [274513-aim-in-space.json](./274513-aim-in-space.json) |
 | Aim Lab Mobile | 226768 | [226768-aim-lab-mobile.json](./226768-aim-lab-mobile.json) |
+| Aim Llama | 256191 | [256191-aim-llama.json](./256191-aim-llama.json) |
 | Aim Master | 110913 | [110913-aim-master.json](./110913-aim-master.json) |
 | Aim Master H | 169787 | [169787-aim-master-h.json](./169787-aim-master-h.json) |
 | Aim Sex | 297058 | [297058-aim-sex.json](./297058-aim-sex.json) |
