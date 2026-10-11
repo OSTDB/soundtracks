@@ -1453,6 +1453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barbarium | 200559 | [200559-barbarium.json](./200559-barbarium.json) |
 | Barbarization | 311491 | [311491-barbarization.json](./311491-barbarization.json) |
 | Barbaros | 153487 | [153487-barbaros.json](./153487-barbaros.json) |
+| Barbarossa | 252021 | [252021-barbarossa.json](./252021-barbarossa.json) |
 | Barbarossa | 44448 | [44448-barbarossa.json](./44448-barbarossa.json) |
 | Barbarossa Remake | 255664 | [255664-barbarossa-remake.json](./255664-barbarossa-remake.json) |
 | Barbarous 2: Tavern Wars | 192944 | [192944-barbarous-2-tavern-wars.json](./192944-barbarous-2-tavern-wars.json) |
@@ -3773,6 +3774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Behind the Hydra's Eyes | 374585 | [374585-behind-the-hydras-eyes.json](./374585-behind-the-hydras-eyes.json) |
 | Behind the Iron Gate | 14294 | [14294-behind-the-iron-gate.json](./14294-behind-the-iron-gate.json) |
 | Behind The Mask Bundle | 308578 | [308578-behind-the-mask-bundle.json](./308578-behind-the-mask-bundle.json) |
+| Behind the Red Dais | 252036 | [252036-behind-the-red-dais.json](./252036-behind-the-red-dais.json) |
 | Behind the Reflection | 52446 | [52446-behind-the-reflection.json](./52446-behind-the-reflection.json) |
 | Behind the Reflection 2: Witch's Revenge | 52445 | [52445-behind-the-reflection-2-witchs-revenge.json](./52445-behind-the-reflection-2-witchs-revenge.json) |
 | Behind the Screen & Defoliation | 194974 | [194974-behind-the-screen-and-defoliation.json](./194974-behind-the-screen-and-defoliation.json) |
@@ -7073,6 +7075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloom Again | 408260 | [408260-bloom-again.json](./408260-bloom-again.json) |
 | Bloom Barrage | 240206 | [240206-bloom-barrage.json](./240206-bloom-barrage.json) |
 | Bloom Blast | 392809 | [392809-bloom-blast.json](./392809-bloom-blast.json) |
+| Bloom Defender | 252054 | [252054-bloom-defender.json](./252054-bloom-defender.json) |
 | Bloom for Me | 358327 | [358327-bloom-for-me.json](./358327-bloom-for-me.json) |
 | Bloom Paradise | 347310 | [347310-bloom-paradise.json](./347310-bloom-paradise.json) |
 | Bloom Runner | 258175 | [258175-bloom-runner.json](./258175-bloom-runner.json) |
@@ -10532,6 +10535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BuildNow GG | 333186 | [333186-buildnow-gg.json](./333186-buildnow-gg.json) |
 | Buildozer Simulator | 321489 | [321489-buildozer-simulator.json](./321489-buildozer-simulator.json) |
 | Buildville | 102745 | [102745-buildville.json](./102745-buildville.json) |
+| Buildy Stacky 2 | 252017 | [252017-buildy-stacky-2.json](./252017-buildy-stacky-2.json) |
 | Built by Force | 372457 | [372457-built-by-force.json](./372457-built-by-force.json) |
 | Built Different | 215029 | [215029-built-different.json](./215029-built-different.json) |
 | Built for Speed | 242681 | [242681-built-for-speed.json](./242681-built-for-speed.json) |
