@@ -3859,6 +3859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iseran: Isekai Rantou | 257675 | [257675-iseran-isekai-rantou.json](./257675-iseran-isekai-rantou.json) |
 | Isernsmith | 382331 | [382331-isernsmith.json](./382331-isernsmith.json) |
 | Iseshima Mystery Annai: Itsuwari no Kuro Shinju | 120849 | [120849-iseshima-mystery-annai-itsuwari-no-kuro-shinju.json](./120849-iseshima-mystery-annai-itsuwari-no-kuro-shinju.json) |
+| Isha no Mahou Toshoshitsu | 249708 | [249708-isha-no-mahou-toshoshitsu.json](./249708-isha-no-mahou-toshoshitsu.json) |
 | Isha's Magic Book Decoding | 334701 | [334701-ishas-magic-book-decoding.json](./334701-ishas-magic-book-decoding.json) |
 | Ishar: Legend of the Fortress | 10856 | [10856-ishar-legend-of-the-fortress.json](./10856-ishar-legend-of-the-fortress.json) |
 | Ishara: Bane of the Seas | 133966 | [133966-ishara-bane-of-the-seas.json](./133966-ishara-bane-of-the-seas.json) |
