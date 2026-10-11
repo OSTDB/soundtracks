@@ -1290,6 +1290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Chess Black and White | 245258 | [245258-3d-chess-black-and-white.json](./245258-3d-chess-black-and-white.json) |
 | 3D Chess Q14 | 289455 | [289455-3d-chess-q14.json](./289455-3d-chess-q14.json) |
 | 3D Chess: Nocca Nocca | 151674 | [151674-3d-chess-nocca-nocca.json](./151674-3d-chess-nocca-nocca.json) |
+| 3D City | 271675 | [271675-3d-city.json](./271675-3d-city.json) |
 | 3D Classics: Kirby's Adventure | 84617 | [84617-3d-classics-kirbys-adventure.json](./84617-3d-classics-kirbys-adventure.json) |
 | 3D Columns | 202926 | [202926-3d-columns.json](./202926-3d-columns.json) |
 | 3D Combat Zone | 203863 | [203863-3d-combat-zone.json](./203863-3d-combat-zone.json) |
