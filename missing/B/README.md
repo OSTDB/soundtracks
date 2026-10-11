@@ -5167,6 +5167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bird Brigade | 385221 | [385221-bird-brigade.json](./385221-bird-brigade.json) |
 | Bird Builder | 177474 | [177474-bird-builder.json](./177474-bird-builder.json) |
 | Bird Bump | 338240 | [338240-bird-bump.json](./338240-bird-bump.json) |
+| Bird Climb | 251509 | [251509-bird-climb.json](./251509-bird-climb.json) |
 | Bird Coloring | 348303 | [348303-bird-coloring.json](./348303-bird-coloring.json) |
 | Bird Fall | 37150 | [37150-bird-fall.json](./37150-bird-fall.json) |
 | Bird Feather: Aquamarine World | 297917 | [297917-bird-feather-aquamarine-world.json](./297917-bird-feather-aquamarine-world.json) |
@@ -6149,6 +6150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blaze and the Monster Machines: Axle City Racers | 148547 | [148547-blaze-and-the-monster-machines-axle-city-racers.json](./148547-blaze-and-the-monster-machines-axle-city-racers.json) |
 | Blaze of Storm | 331874 | [331874-blaze-of-storm.json](./331874-blaze-of-storm.json) |
 | Blaze Out | 94698 | [94698-blaze-out.json](./94698-blaze-out.json) |
+| Blaze Union: Story to Reach the Future | 251467 | [251467-blaze-union-story-to-reach-the-future.json](./251467-blaze-union-story-to-reach-the-future.json) |
 | Blazend | 186691 | [186691-blazend.json](./186691-blazend.json) |
 | Blazeo | 406326 | [406326-blazeo.json](./406326-blazeo.json) |
 | BlazePunk | 415092 | [415092-blazepunk.json](./415092-blazepunk.json) |
@@ -9394,6 +9396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breakfast at Twilight | 271771 | [271771-breakfast-at-twilight.json](./271771-breakfast-at-twilight.json) |
 | Breakfast Bar Tycoon | 144578 | [144578-breakfast-bar-tycoon.json](./144578-breakfast-bar-tycoon.json) |
 | Breakfast Bar Tycoon + Expansion pack | 238015 | [238015-breakfast-bar-tycoon-expansion-pack.json](./238015-breakfast-bar-tycoon-expansion-pack.json) |
+| Breakfast Bar Tycoon: Co-op Edition | 251492 | [251492-breakfast-bar-tycoon-co-op-edition.json](./251492-breakfast-bar-tycoon-co-op-edition.json) |
 | Breakfast Bar Tycoon: Complete Edition | 199897 | [199897-breakfast-bar-tycoon-complete-edition.json](./199897-breakfast-bar-tycoon-complete-edition.json) |
 | Breakfast Bar Tycoon: Couch Co-op Edition | 260049 | [260049-breakfast-bar-tycoon-couch-co-op-edition.json](./260049-breakfast-bar-tycoon-couch-co-op-edition.json) |
 | Breakfast Bar Tycoon: Definitive Edition | 333719 | [333719-breakfast-bar-tycoon-definitive-edition.json](./333719-breakfast-bar-tycoon-definitive-edition.json) |
