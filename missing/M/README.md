@@ -717,6 +717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic gravity | 76636 | [76636-magic-gravity.json](./76636-magic-gravity.json) |
 | Magic Griddlers | 156671 | [156671-magic-griddlers.json](./156671-magic-griddlers.json) |
 | Magic Griddlers 2 | 101555 | [101555-magic-griddlers-2.json](./101555-magic-griddlers-2.json) |
+| Magic Guardians: Lily's Awakening Story | 245206 | [245206-magic-guardians-lilys-awakening-story.json](./245206-magic-guardians-lilys-awakening-story.json) |
 | Magic Gun | 115171 | [115171-magic-gun.json](./115171-magic-gun.json) |
 | Magic Guqin | 197702 | [197702-magic-guqin.json](./197702-magic-guqin.json) |
 | Magic Halloween Escape | 315601 | [315601-magic-halloween-escape.json](./315601-magic-halloween-escape.json) |
@@ -2750,6 +2751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mars Base | 194273 | [194273-mars-base.json](./194273-mars-base.json) |
 | Mars Base Alley | 390237 | [390237-mars-base-alley.json](./390237-mars-base-alley.json) |
 | Mars Base Excavation Incident | 271746 | [271746-mars-base-excavation-incident.json](./271746-mars-base-excavation-incident.json) |
+| Mars Blade | 245228 | [245228-mars-blade.json](./245228-mars-blade.json) |
 | Mars Cars | 22498 | [22498-mars-cars.json](./22498-mars-cars.json) |
 | Mars Chaos Madness | 111452 | [111452-mars-chaos-madness.json](./111452-mars-chaos-madness.json) |
 | Mars Colony Builder | 151145 | [151145-mars-colony-builder.json](./151145-mars-colony-builder.json) |
@@ -7975,6 +7977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Golf Worlds VR | 186810 | [186810-mini-golf-worlds-vr.json](./186810-mini-golf-worlds-vr.json) |
 | Mini Guns | 55846 | [55846-mini-guns.json](./55846-mini-guns.json) |
 | Mini Healer | 101692 | [101692-mini-healer.json](./101692-mini-healer.json) |
+| Mini Hi-Fi City | 245209 | [245209-mini-hi-fi-city.json](./245209-mini-hi-fi-city.json) |
 | Mini Hockey Champ! | 74502 | [74502-mini-hockey-champ.json](./74502-mini-hockey-champ.json) |
 | Mini Hockey VR | 55478 | [55478-mini-hockey-vr.json](./55478-mini-hockey-vr.json) |
 | Mini Island Challenge Bundle | 147426 | [147426-mini-island-challenge-bundle.json](./147426-mini-island-challenge-bundle.json) |
@@ -10083,6 +10086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Train: The Last Divinity | 148116 | [148116-monster-train-the-last-divinity.json](./148116-monster-train-the-last-divinity.json) |
 | Monster Trampoline | 113477 | [113477-monster-trampoline.json](./113477-monster-trampoline.json) |
 | Monster Traveler | 270058 | [270058-monster-traveler.json](./270058-monster-traveler.json) |
+| Monster Trek | 245194 | [245194-monster-trek.json](./245194-monster-trek.json) |
 | Monster Trivia | 100119 | [100119-monster-trivia.json](./100119-monster-trivia.json) |
 | Monster Truck Championship | 132220 | [132220-monster-truck-championship.json](./132220-monster-truck-championship.json) |
 | Monster Truck Championship: Rebel Hunter Edition | 164784 | [164784-monster-truck-championship-rebel-hunter-edition.json](./164784-monster-truck-championship-rebel-hunter-edition.json) |
@@ -12330,6 +12334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Musicus! | 185708 | [185708-musicus.json](./185708-musicus.json) |
 | MusicVR Episode 1: Tr3s Lunas | 70978 | [70978-musicvr-episode-1-tr3s-lunas.json](./70978-musicvr-episode-1-tr3s-lunas.json) |
 | MusicVR Episode 2: Maestro | 71447 | [71447-musicvr-episode-2-maestro.json](./71447-musicvr-episode-2-maestro.json) |
+| Musiverse | 245189 | [245189-musiverse.json](./245189-musiverse.json) |
 | Musix | 138596 | [138596-musix.json](./138596-musix.json) |
 | Musket & Pike: Seven Years War | 132004 | [132004-musket-and-pike-seven-years-war.json](./132004-musket-and-pike-seven-years-war.json) |
 | Musket Smoke | 262593 | [262593-musket-smoke.json](./262593-musket-smoke.json) |
