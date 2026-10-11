@@ -5113,6 +5113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dark Throne | 187232 | [187232-the-dark-throne.json](./187232-the-dark-throne.json) |
 | The Dark Tide | 312035 | [312035-the-dark-tide.json](./312035-the-dark-tide.json) |
 | The Dark Tones: Loss | 253836 | [253836-the-dark-tones-loss.json](./253836-the-dark-tones-loss.json) |
+| The Dark Tower | 249081 | [249081-the-dark-tower.json](./249081-the-dark-tower.json) |
 | The Dark Tower | 264047 | [264047-the-dark-tower.json](./264047-the-dark-tower.json) |
 | The Dark Tower | 264226 | [264226-the-dark-tower.json](./264226-the-dark-tower.json) |
 | The Dark Triad | 271225 | [271225-the-dark-triad.json](./271225-the-dark-triad.json) |
@@ -7765,6 +7766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Launching Section | 275825 | [275825-the-launching-section.json](./275825-the-launching-section.json) |
 | The Lavarish Facility | 341647 | [341647-the-lavarish-facility.json](./341647-the-lavarish-facility.json) |
 | The Law | 186173 | [186173-the-law.json](./186173-the-law.json) |
+| The Lawn Zapper | 249095 | [249095-the-lawn-zapper.json](./249095-the-lawn-zapper.json) |
 | The Lawnmower Man | 388206 | [388206-the-lawnmower-man.json](./388206-the-lawnmower-man.json) |
 | The Laws of Probability | 409407 | [409407-the-laws-of-probability.json](./409407-the-laws-of-probability.json) |
 | The Lays of Althas : Sundered Order | 7575 | [7575-the-lays-of-althas-sundered-order.json](./7575-the-lays-of-althas-sundered-order.json) |
@@ -9262,6 +9264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Paper Trials: Chapter 2 | 267427 | [267427-the-paper-trials-chapter-2.json](./267427-the-paper-trials-chapter-2.json) |
 | The Paper Trials: Chapter 3 | 285420 | [285420-the-paper-trials-chapter-3.json](./285420-the-paper-trials-chapter-3.json) |
 | The Paracelsian Project | 244726 | [244726-the-paracelsian-project.json](./244726-the-paracelsian-project.json) |
+| The Paradell | 249078 | [249078-the-paradell.json](./249078-the-paradell.json) |
 | The Paradixion: Laboratory | 262474 | [262474-the-paradixion-laboratory.json](./262474-the-paradixion-laboratory.json) |
 | The Paradixion: Restroom | 368589 | [368589-the-paradixion-restroom.json](./368589-the-paradixion-restroom.json) |
 | The Paradixion: Son's Room | 250493 | [250493-the-paradixion-sons-room.json](./250493-the-paradixion-sons-room.json) |
@@ -15313,6 +15316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tobari Dream Ocean + Nightmare | 276950 | [276950-tobari-dream-ocean-nightmare.json](./276950-tobari-dream-ocean-nightmare.json) |
 | Tobari Dream Ocean: Nightmare | 277229 | [277229-tobari-dream-ocean-nightmare.json](./277229-tobari-dream-ocean-nightmare.json) |
 | Tobby The Dog | 289942 | [289942-tobby-the-dog.json](./289942-tobby-the-dog.json) |
+| Tobe's Great Escape | 249105 | [249105-tobes-great-escape.json](./249105-tobes-great-escape.json) |
 | Tobe's Hookshot Escape | 248880 | [248880-tobes-hookshot-escape.json](./248880-tobes-hookshot-escape.json) |
 | Tobe's Vertical Adventure | 249141 | [249141-tobes-vertical-adventure.json](./249141-tobes-vertical-adventure.json) |
 | Toberu yo! Honoka-chan | 405509 | [405509-toberu-yo-honoka-chan.json](./405509-toberu-yo-honoka-chan.json) |
@@ -16923,6 +16927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tournament Paintball VR | 159766 | [159766-tournament-paintball-vr.json](./159766-tournament-paintball-vr.json) |
 | Tournament Pool | 396580 | [396580-tournament-pool.json](./396580-tournament-pool.json) |
 | Tournament Pool | 51162 | [51162-tournament-pool.json](./51162-tournament-pool.json) |
+| Tournament Pro Golf | 249093 | [249093-tournament-pro-golf.json](./249093-tournament-pro-golf.json) |
 | Tournament Tennis | 40904 | [40904-tournament-tennis.json](./40904-tournament-tennis.json) |
 | Tournament Tower | 273412 | [273412-tournament-tower.json](./273412-tournament-tower.json) |
 | Tournament: Blood & Steel | 119051 | [119051-tournament-blood-and-steel.json](./119051-tournament-blood-and-steel.json) |
