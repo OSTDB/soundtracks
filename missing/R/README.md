@@ -2103,6 +2103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rebels & Redcoats | 122394 | [122394-rebels-and-redcoats.json](./122394-rebels-and-redcoats.json) |
 | Rebels Prison Escape | 71233 | [71233-rebels-prison-escape.json](./71233-rebels-prison-escape.json) |
 | Rebels: Under the Spell of Magic | 150777 | [150777-rebels-under-the-spell-of-magic.json](./150777-rebels-under-the-spell-of-magic.json) |
+| Rebels: Under the Spell of Magic - Chapter 4 | 267285 | [267285-rebels-under-the-spell-of-magic-chapter-4.json](./267285-rebels-under-the-spell-of-magic-chapter-4.json) |
 | Rebels: Under the Spell of Magic - Chapter 5 | 384218 | [384218-rebels-under-the-spell-of-magic-chapter-5.json](./384218-rebels-under-the-spell-of-magic-chapter-5.json) |
 | Rebelstar II: Alien Encounter | 104242 | [104242-rebelstar-ii-alien-encounter.json](./104242-rebelstar-ii-alien-encounter.json) |
 | Rebelstar: Tactical Command | 6554 | [6554-rebelstar-tactical-command.json](./6554-rebelstar-tactical-command.json) |
