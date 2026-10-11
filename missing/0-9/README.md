@@ -58,6 +58,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | '90s Football Stars | 103883 | [103883-90s-football-stars.json](./103883-90s-football-stars.json) |
 | '90s Super GP | 51541 | [51541-90s-super-gp.json](./51541-90s-super-gp.json) |
 | '94 Super World Cup Chuggu | 130825 | [130825-94-super-world-cup-chuggu.json](./130825-94-super-world-cup-chuggu.json) |
+| '96 Flag Rally | 249090 | [249090-96-flag-rally.json](./249090-96-flag-rally.json) |
 | '98 Year Koushien | 58510 | [58510-98-year-koushien.json](./58510-98-year-koushien.json) |
 | 'Allo 'Allo! Cartoon Fun! | 14249 | [14249-allo-allo-cartoon-fun.json](./14249-allo-allo-cartoon-fun.json) |
 | 'Er*Bert | 98236 | [98236-er-bert.json](./98236-er-bert.json) |
