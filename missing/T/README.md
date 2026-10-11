@@ -908,6 +908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of the Odd: Brain Hotel | 60510 | [60510-tales-of-the-odd-brain-hotel.json](./60510-tales-of-the-odd-brain-hotel.json) |
 | Tales of the Orient: The Rising Sun | 27247 | [27247-tales-of-the-orient-the-rising-sun.json](./27247-tales-of-the-orient-the-rising-sun.json) |
 | Tales of the Rays | 26906 | [26906-tales-of-the-rays.json](./26906-tales-of-the-rays.json) |
+| Tales of the Rays: Fairy's Requiem | 242466 | [242466-tales-of-the-rays-fairys-requiem.json](./242466-tales-of-the-rays-fairys-requiem.json) |
 | Tales of the Rays: Last Cradle | 242627 | [242627-tales-of-the-rays-last-cradle.json](./242627-tales-of-the-rays-last-cradle.json) |
 | Tales of the Rays: Recollection | 242630 | [242630-tales-of-the-rays-recollection.json](./242630-tales-of-the-rays-recollection.json) |
 | Tales of the Tavern | 304568 | [304568-tales-of-the-tavern.json](./304568-tales-of-the-tavern.json) |
@@ -3579,6 +3580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventures of Jason and the Argonauts | 114926 | [114926-the-adventures-of-jason-and-the-argonauts.json](./114926-the-adventures-of-jason-and-the-argonauts.json) |
 | The Adventures of Jerry Mouse: The Rescue of Nibbles | 233613 | [233613-the-adventures-of-jerry-mouse-the-rescue-of-nibbles.json](./233613-the-adventures-of-jerry-mouse-the-rescue-of-nibbles.json) |
 | The Adventures of Jimmy Neutron Boy Genius: Attack of the Twonkies | 3779 | [3779-the-adventures-of-jimmy-neutron-boy-genius-attack-of-the-twonkies.json](./3779-the-adventures-of-jimmy-neutron-boy-genius-attack-of-the-twonkies.json) |
+| The Adventures of Jimmy Neutron Boy Genius: Jet Fusion | 242423 | [242423-the-adventures-of-jimmy-neutron-boy-genius-jet-fusion.json](./242423-the-adventures-of-jimmy-neutron-boy-genius-jet-fusion.json) |
 | The Adventures of JP and Cosmo: A Friend Indeed... | 58050 | [58050-the-adventures-of-jp-and-cosmo-a-friend-indeed.json](./58050-the-adventures-of-jp-and-cosmo-a-friend-indeed.json) |
 | The Adventures of King Dengotti | 206208 | [206208-the-adventures-of-king-dengotti.json](./206208-the-adventures-of-king-dengotti.json) |
 | The Adventures of Kroma | 392993 | [392993-the-adventures-of-kroma.json](./392993-the-adventures-of-kroma.json) |
@@ -9854,6 +9856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Riddle of Blossom Island | 182293 | [182293-the-riddle-of-blossom-island.json](./182293-the-riddle-of-blossom-island.json) |
 | The Riddle Room | 53782 | [53782-the-riddle-room.json](./53782-the-riddle-room.json) |
 | The Riddle Room 2 | 53781 | [53781-the-riddle-room-2.json](./53781-the-riddle-room-2.json) |
+| The Riddler | 242447 | [242447-the-riddler.json](./242447-the-riddler.json) |
 | The Ridiculous Hat | 100351 | [100351-the-ridiculous-hat.json](./100351-the-ridiculous-hat.json) |
 | The Riflemen | 207311 | [207311-the-riflemen.json](./207311-the-riflemen.json) |
 | The Rift | 116300 | [116300-the-rift.json](./116300-the-rift.json) |
@@ -11626,6 +11629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Undergrounders | 339847 | [339847-the-undergrounders.json](./339847-the-undergrounders.json) |
 | The Undermall | 394454 | [394454-the-undermall.json](./394454-the-undermall.json) |
 | The Undersea | 273819 | [273819-the-undersea.json](./273819-the-undersea.json) |
+| The Underside | 242468 | [242468-the-underside.json](./242468-the-underside.json) |
 | The Underworld | 271804 | [271804-the-underworld.json](./271804-the-underworld.json) |
 | The Underworld | 71175 | [71175-the-underworld.json](./71175-the-underworld.json) |
 | The Undying Beast | 177310 | [177310-the-undying-beast.json](./177310-the-undying-beast.json) |
@@ -19245,6 +19249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tribe of the Accord | 268221 | [268221-tribe-of-the-accord.json](./268221-tribe-of-the-accord.json) |
 | Tribe Quest | 258998 | [258998-tribe-quest.json](./258998-tribe-quest.json) |
 | Tribe War | 211122 | [211122-tribe-war.json](./211122-tribe-war.json) |
+| Tribefort | 242428 | [242428-tribefort.json](./242428-tribefort.json) |
 | TribeQuest: Red Killer | 34771 | [34771-tribequest-red-killer.json](./34771-tribequest-red-killer.json) |
 | Tribes | 348754 | [348754-tribes.json](./348754-tribes.json) |
 | Tribes 2 | 922 | [922-tribes-2.json](./922-tribes-2.json) |
