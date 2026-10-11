@@ -5579,6 +5579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The End of Gameplay | 343235 | [343235-the-end-of-gameplay.json](./343235-the-end-of-gameplay.json) |
 | The End of History | 310154 | [310154-the-end-of-history.json](./310154-the-end-of-history.json) |
 | The End of Labyronia: Nerubis | 158695 | [158695-the-end-of-labyronia-nerubis.json](./158695-the-end-of-labyronia-nerubis.json) |
+| The End of Nowhere | 272197 | [272197-the-end-of-nowhere.json](./272197-the-end-of-nowhere.json) |
 | The End of Sanity | 296452 | [296452-the-end-of-sanity.json](./296452-the-end-of-sanity.json) |
 | The End of Solace | 271751 | [271751-the-end-of-solace.json](./271751-the-end-of-solace.json) |
 | The End of the Age | 379162 | [379162-the-end-of-the-age.json](./379162-the-end-of-the-age.json) |
@@ -7445,6 +7446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last City | 202724 | [202724-the-last-city.json](./202724-the-last-city.json) |
 | The Last City | 202725 | [202725-the-last-city.json](./202725-the-last-city.json) |
 | The Last Cohort | 141528 | [141528-the-last-cohort.json](./141528-the-last-cohort.json) |
+| The Last Commander | 272218 | [272218-the-last-commander.json](./272218-the-last-commander.json) |
 | The Last Contact | 112776 | [112776-the-last-contact.json](./112776-the-last-contact.json) |
 | The Last Corpse Forge: Survivor | 342186 | [342186-the-last-corpse-forge-survivor.json](./342186-the-last-corpse-forge-survivor.json) |
 | The Last Cosmonaut | 413594 | [413594-the-last-cosmonaut.json](./413594-the-last-cosmonaut.json) |
@@ -10766,6 +10768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sum of All Fears | 248466 | [248466-the-sum-of-all-fears.json](./248466-the-sum-of-all-fears.json) |
 | The Sumerian Game | 231395 | [231395-the-sumerian-game.json](./231395-the-sumerian-game.json) |
 | The Summit High | 178666 | [178666-the-summit-high.json](./178666-the-summit-high.json) |
+| The Summit Library | 272202 | [272202-the-summit-library.json](./272202-the-summit-library.json) |
 | The Summon | 235710 | [235710-the-summon.json](./235710-the-summon.json) |
 | The Summoner | 156978 | [156978-the-summoner.json](./156978-the-summoner.json) |
 | The Summoning | 50134 | [50134-the-summoning.json](./50134-the-summoning.json) |
@@ -15939,6 +15942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toonix! | 103171 | [103171-toonix.json](./103171-toonix.json) |
 | Toonkars Racer | 202763 | [202763-toonkars-racer.json](./202763-toonkars-racer.json) |
 | Toons City | 201664 | [201664-toons-city.json](./201664-toons-city.json) |
+| Toonsters: Crossing Worlds | 272185 | [272185-toonsters-crossing-worlds.json](./272185-toonsters-crossing-worlds.json) |
 | Toontown Online | 25326 | [25326-toontown-online.json](./25326-toontown-online.json) |
 | Toontown Realms | 134489 | [134489-toontown-realms.json](./134489-toontown-realms.json) |
 | Toontown Rewritten | 134488 | [134488-toontown-rewritten.json](./134488-toontown-rewritten.json) |
@@ -19353,6 +19357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trivial Trivia | 246905 | [246905-trivial-trivia.json](./246905-trivial-trivia.json) |
 | Triviaverse | 256884 | [256884-triviaverse.json](./256884-triviaverse.json) |
 | Trix and the Horny Tower | 367016 | [367016-trix-and-the-horny-tower.json](./367016-trix-and-the-horny-tower.json) |
+| Trix: Witching World | 272233 | [272233-trix-witching-world.json](./272233-trix-witching-world.json) |
 | Trixology | 381231 | [381231-trixology.json](./381231-trixology.json) |
 | Trizeal | 93063 | [93063-trizeal.json](./93063-trizeal.json) |
 | Trizeal Remix | 32927 | [32927-trizeal-remix.json](./32927-trizeal-remix.json) |
