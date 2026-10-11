@@ -617,6 +617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laruaville 2 | 262486 | [262486-laruaville-2.json](./262486-laruaville-2.json) |
 | Laruaville 4 Christmas Match 3 Puzzle | 227874 | [227874-laruaville-4-christmas-match-3-puzzle.json](./227874-laruaville-4-christmas-match-3-puzzle.json) |
 | Laruaville 5 | 265602 | [265602-laruaville-5.json](./265602-laruaville-5.json) |
+| Laruaville 6 | 265537 | [265537-laruaville-6.json](./265537-laruaville-6.json) |
 | Laruaville 8 | 270079 | [270079-laruaville-8.json](./270079-laruaville-8.json) |
 | Laruaville 9 | 270047 | [270047-laruaville-9.json](./270047-laruaville-9.json) |
 | Larva Mortus | 15780 | [15780-larva-mortus.json](./15780-larva-mortus.json) |
@@ -1317,6 +1318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leaftaker | 411043 | [411043-leaftaker.json](./411043-leaftaker.json) |
 | Leafy Season | 330228 | [330228-leafy-season.json](./330228-leafy-season.json) |
 | Leafy Trails Collection | 294838 | [294838-leafy-trails-collection.json](./294838-leafy-trails-collection.json) |
+| Leafy Trails: Lost Soul | 265518 | [265518-leafy-trails-lost-soul.json](./265518-leafy-trails-lost-soul.json) |
 | League Bowling | 40206 | [40206-league-bowling.json](./40206-league-bowling.json) |
 | League Manager 2023 | 235696 | [235696-league-manager-2023.json](./235696-league-manager-2023.json) |
 | League of Abyss | 312573 | [312573-league-of-abyss.json](./312573-league-of-abyss.json) |
