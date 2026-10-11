@@ -566,6 +566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tak 2: The Staff of Dreams | 2779 | [2779-tak-2-the-staff-of-dreams.json](./2779-tak-2-the-staff-of-dreams.json) |
 | Tak: The Great Juju Challenge | 210254 | [210254-tak-the-great-juju-challenge.json](./210254-tak-the-great-juju-challenge.json) |
 | Tak: The Great Juju Challenge | 210255 | [210255-tak-the-great-juju-challenge.json](./210255-tak-the-great-juju-challenge.json) |
+| Taka Taka | 244162 | [244162-taka-taka.json](./244162-taka-taka.json) |
 | Takahashi Akiko no Mahjong Seminar | 54944 | [54944-takahashi-akiko-no-mahjong-seminar.json](./54944-takahashi-akiko-no-mahjong-seminar.json) |
 | Takahashi Meijin no Bouken-jima IV | 84868 | [84868-takahashi-meijin-no-bouken-jima-iv.json](./84868-takahashi-meijin-no-bouken-jima-iv.json) |
 | Takahashi Meijin no Bug-tte Honey | 48662 | [48662-takahashi-meijin-no-bug-tte-honey.json](./48662-takahashi-meijin-no-bug-tte-honey.json) |
@@ -8936,6 +8937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mythical City | 264232 | [264232-the-mythical-city.json](./264232-the-mythical-city.json) |
 | The Mythical City 4 | 327828 | [327828-the-mythical-city-4.json](./327828-the-mythical-city-4.json) |
 | The Naked Brothers Band: The Video Game | 47955 | [47955-the-naked-brothers-band-the-video-game.json](./47955-the-naked-brothers-band-the-video-game.json) |
+| The Name I Wear | 408022 | [408022-the-name-i-wear.json](./408022-the-name-i-wear.json) |
 | The Nameless | 178458 | [178458-the-nameless.json](./178458-the-nameless.json) |
 | The Nameless Braves: Heaven | 207749 | [207749-the-nameless-braves-heaven.json](./207749-the-nameless-braves-heaven.json) |
 | The Nameless City | 303312 | [303312-the-nameless-city.json](./303312-the-nameless-city.json) |
@@ -14878,6 +14880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Strife | 158083 | [158083-tiny-strife.json](./158083-tiny-strife.json) |
 | Tiny Striker | 23408 | [23408-tiny-striker.json](./23408-tiny-striker.json) |
 | Tiny Striker: World Football | 86939 | [86939-tiny-striker-world-football.json](./86939-tiny-striker-world-football.json) |
+| Tiny Survivors | 244131 | [244131-tiny-survivors.json](./244131-tiny-survivors.json) |
 | Tiny Survivors | 413902 | [413902-tiny-survivors.json](./413902-tiny-survivors.json) |
 | Tiny T | 171445 | [171445-tiny-t.json](./171445-tiny-t.json) |
 | Tiny Tactics | 210879 | [210879-tiny-tactics.json](./210879-tiny-tactics.json) |
@@ -15030,6 +15033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Titan Survival | 267676 | [267676-titan-survival.json](./267676-titan-survival.json) |
 | Titan Tank Rumble | 85442 | [85442-titan-tank-rumble.json](./85442-titan-tank-rumble.json) |
 | Titan-3D | 53806 | [53806-titan-3d.json](./53806-titan-3d.json) |
+| Titan: The Ascension | 244152 | [244152-titan-the-ascension.json](./244152-titan-the-ascension.json) |
 | Titan78 | 190147 | [190147-titan78.json](./190147-titan78.json) |
 | Titanfall 2: Angel City's Most Wanted Bundle | 170861 | [170861-titanfall-2-angel-citys-most-wanted-bundle.json](./170861-titanfall-2-angel-citys-most-wanted-bundle.json) |
 | Titanfall 2: Deluxe Edition | 53805 | [53805-titanfall-2-deluxe-edition.json](./53805-titanfall-2-deluxe-edition.json) |
@@ -18561,6 +18565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TramSim Vienna | 140471 | [140471-tramsim-vienna.json](./140471-tramsim-vienna.json) |
 | Trance | 187267 | [187267-trance.json](./187267-trance.json) |
 | Trance-Pacific | 92860 | [92860-trance-pacific.json](./92860-trance-pacific.json) |
+| Tranquil Garden: Adventurer's Edition | 244156 | [244156-tranquil-garden-adventurers-edition.json](./244156-tranquil-garden-adventurers-edition.json) |
 | Tranquil Isle | 240790 | [240790-tranquil-isle.json](./240790-tranquil-isle.json) |
 | Tranquility I | 131336 | [131336-tranquility-i.json](./131336-tranquility-i.json) |
 | Tranquillizer Gun | 6128 | [6128-tranquillizer-gun.json](./6128-tranquillizer-gun.json) |
