@@ -2178,6 +2178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wendigo | 252727 | [252727-wendigo.json](./252727-wendigo.json) |
 | Wendigo | 253331 | [253331-wendigo.json](./253331-wendigo.json) |
 | Wendigo Blue | 329521 | [329521-wendigo-blue.json](./329521-wendigo-blue.json) |
+| Wendigo Hunter | 244174 | [244174-wendigo-hunter.json](./244174-wendigo-hunter.json) |
 | Wendigo's Outside | 341525 | [341525-wendigos-outside.json](./341525-wendigos-outside.json) |
 | Wendy Whedon | 151537 | [151537-wendy-whedon.json](./151537-wendy-whedon.json) |
 | Wendy: Der Traum von Arizona | 98949 | [98949-wendy-der-traum-von-arizona.json](./98949-wendy-der-traum-von-arizona.json) |
@@ -2524,6 +2525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wheel World | 255091 | [255091-wheel-world.json](./255091-wheel-world.json) |
 | Wheelbarrow Warrior | 107365 | [107365-wheelbarrow-warrior.json](./107365-wheelbarrow-warrior.json) |
 | Wheelborn | 282222 | [282222-wheelborn.json](./282222-wheelborn.json) |
+| Wheelchair for Two | 406738 | [406738-wheelchair-for-two.json](./406738-wheelchair-for-two.json) |
 | Wheelchair Simulator | 103157 | [103157-wheelchair-simulator.json](./103157-wheelchair-simulator.json) |
 | Wheelchair Simulator VR | 100463 | [100463-wheelchair-simulator-vr.json](./100463-wheelchair-simulator-vr.json) |
 | Wheeled Warriors: Ultimate Destruction | 216832 | [216832-wheeled-warriors-ultimate-destruction.json](./216832-wheeled-warriors-ultimate-destruction.json) |
@@ -3962,6 +3964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wisdom Watcher | 262854 | [262854-wisdom-watcher.json](./262854-wisdom-watcher.json) |
 | WisdomGems | 310091 | [310091-wisdomgems.json](./310091-wisdomgems.json) |
 | Wise Escape From Prison | 368022 | [368022-wise-escape-from-prison.json](./368022-wise-escape-from-prison.json) |
+| Wise Garden | 244165 | [244165-wise-garden.json](./244165-wise-garden.json) |
 | Wise in the Heights | 358330 | [358330-wise-in-the-heights.json](./358330-wise-in-the-heights.json) |
 | WiseBall | 94400 | [94400-wiseball.json](./94400-wiseball.json) |
 | Wisegal | 9366 | [9366-wisegal.json](./9366-wisegal.json) |
