@@ -513,6 +513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Van-Van Car | 38556 | [38556-van-van-car.json](./38556-van-van-car.json) |
 | Vanakan 405 | 382291 | [382291-vanakan-405.json](./382291-vanakan-405.json) |
 | Vanakatu | 302066 | [302066-vanakatu.json](./302066-vanakatu.json) |
+| VanBay: Mosh it Up | 268935 | [268935-vanbay-mosh-it-up.json](./268935-vanbay-mosh-it-up.json) |
 | Vandal Hearts II | 6543 | [6543-vandal-hearts-ii.json](./6543-vandal-hearts-ii.json) |
 | Vandalhalla | 153934 | [153934-vandalhalla.json](./153934-vandalhalla.json) |
 | Vandozer | 137469 | [137469-vandozer.json](./137469-vandozer.json) |
@@ -1903,6 +1904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Viva Project | 316814 | [316814-viva-project.json](./316814-viva-project.json) |
 | Viva Veloce | 306602 | [306602-viva-veloce.json](./306602-viva-veloce.json) |
 | Vivaion | 263520 | [263520-vivaion.json](./263520-vivaion.json) |
+| Vivaland: Dream House | 268932 | [268932-vivaland-dream-house.json](./268932-vivaland-dream-house.json) |
 | Vivaldia | 140477 | [140477-vivaldia.json](./140477-vivaldia.json) |
 | Vivaldia 2 | 272358 | [272358-vivaldia-2.json](./272358-vivaldia-2.json) |
 | Vivarium: Summer Vacay Update | 354376 | [354376-vivarium-summer-vacay-update.json](./354376-vivarium-summer-vacay-update.json) |
