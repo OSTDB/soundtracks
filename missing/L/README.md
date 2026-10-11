@@ -5248,6 +5248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LotS: Light on the Sea | 400371 | [400371-lots-light-on-the-sea.json](./400371-lots-light-on-the-sea.json) |
 | Lotsa Blocks | 56580 | [56580-lotsa-blocks.json](./56580-lotsa-blocks.json) |
 | Lotte | 245815 | [245815-lotte.json](./245815-lotte.json) |
+| Lotte’s Forest: The Tale of Love | 274403 | [274403-lotte-s-forest-the-tale-of-love.json](./274403-lotte-s-forest-the-tale-of-love.json) |
 | Lottery Center Simulator | 369723 | [369723-lottery-center-simulator.json](./369723-lottery-center-simulator.json) |
 | Lottery Winner | 278932 | [278932-lottery-winner.json](./278932-lottery-winner.json) |
 | Lottie! | 388890 | [388890-lottie.json](./388890-lottie.json) |
