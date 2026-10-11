@@ -4882,6 +4882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise Eterna Bundle | 314601 | [314601-rise-eterna-bundle.json](./314601-rise-eterna-bundle.json) |
 | Rise Eterna War | 290503 | [290503-rise-eterna-war.json](./290503-rise-eterna-war.json) |
 | Rise for the Fight | 253514 | [253514-rise-for-the-fight.json](./253514-rise-for-the-fight.json) |
+| Rise from Disaster | 245212 | [245212-rise-from-disaster.json](./245212-rise-from-disaster.json) |
 | Rise High | 81240 | [81240-rise-high.json](./81240-rise-high.json) |
 | Rise of a Legend | 319094 | [319094-rise-of-a-legend.json](./319094-rise-of-a-legend.json) |
 | Rise of Ages | 111564 | [111564-rise-of-ages.json](./111564-rise-of-ages.json) |
@@ -5213,6 +5214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rixer | 260242 | [260242-rixer.json](./260242-rixer.json) |
 | Riyou Kiyaku | 418728 | [418728-riyou-kiyaku.json](./418728-riyou-kiyaku.json) |
 | Rize of the Summonds | 25594 | [25594-rize-of-the-summonds.json](./25594-rize-of-the-summonds.json) |
+| Rizline | 245214 | [245214-rizline.json](./245214-rizline.json) |
 | Rizuhuritan! Rhythmic Flip (Re)Turn | 339977 | [339977-rizuhuritan-rhythmic-flip-re-turn.json](./339977-rizuhuritan-rhythmic-flip-re-turn.json) |
 | Rizzoli and Isles: The Boston Butcher | 57370 | [57370-rizzoli-and-isles-the-boston-butcher.json](./57370-rizzoli-and-isles-the-boston-butcher.json) |
 | Rizzoli and Isles: The Masterpiece Murders | 57369 | [57369-rizzoli-and-isles-the-masterpiece-murders.json](./57369-rizzoli-and-isles-the-masterpiece-murders.json) |
