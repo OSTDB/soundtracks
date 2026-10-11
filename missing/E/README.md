@@ -1962,6 +1962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Empire of the Dead Souls | 93748 | [93748-empire-of-the-dead-souls.json](./93748-empire-of-the-dead-souls.json) |
 | Empire of the Fallen Steel | 37388 | [37388-empire-of-the-fallen-steel.json](./37388-empire-of-the-fallen-steel.json) |
 | Empire of the Gods | 33662 | [33662-empire-of-the-gods.json](./33662-empire-of-the-gods.json) |
+| Empire of the Golden Witch | 277241 | [277241-empire-of-the-golden-witch.json](./277241-empire-of-the-golden-witch.json) |
 | Empire of the Insects | 350011 | [350011-empire-of-the-insects.json](./350011-empire-of-the-insects.json) |
 | Empire of the Over-Mind | 18470 | [18470-empire-of-the-over-mind.json](./18470-empire-of-the-over-mind.json) |
 | Empire of the Wicked | 157982 | [157982-empire-of-the-wicked.json](./157982-empire-of-the-wicked.json) |
