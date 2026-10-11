@@ -414,6 +414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairies Coloring Book + | 88278 | [88278-fairies-coloring-book.json](./88278-fairies-coloring-book.json) |
 | Fairies Praying To Heaven 2: Great Devil's Return Match | 285541 | [285541-fairies-praying-to-heaven-2-great-devils-return-match.json](./285541-fairies-praying-to-heaven-2-great-devils-return-match.json) |
 | Fairies vs Bugs | 369148 | [369148-fairies-vs-bugs.json](./369148-fairies-vs-bugs.json) |
+| FairiTeller | 272203 | [272203-fairiteller.json](./272203-fairiteller.json) |
 | Fairlight | 12995 | [12995-fairlight.json](./12995-fairlight.json) |
 | Fairlight II: Trail of Darkness | 26444 | [26444-fairlight-ii-trail-of-darkness.json](./26444-fairlight-ii-trail-of-darkness.json) |
 | Fairlight: A Prelude | 40962 | [40962-fairlight-a-prelude.json](./40962-fairlight-a-prelude.json) |
@@ -5301,6 +5302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fly to Kuma | 58788 | [58788-fly-to-kuma.json](./58788-fly-to-kuma.json) |
 | Fly Together! | 146215 | [146215-fly-together.json](./146215-fly-together.json) |
 | Fly Wars | 59662 | [59662-fly-wars.json](./59662-fly-wars.json) |
+| Fly Wheel | 272213 | [272213-fly-wheel.json](./272213-fly-wheel.json) |
 | Fly, Glowfly! | 34117 | [34117-fly-glowfly.json](./34117-fly-glowfly.json) |
 | FLY: Forever Loving You | 179676 | [179676-fly-forever-loving-you.json](./179676-fly-forever-loving-you.json) |
 | Fly! | 69847 | [69847-fly.json](./69847-fly.json) |
