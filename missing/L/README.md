@@ -550,6 +550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Langrisser V: The End of Legend | 78665 | [78665-langrisser-v-the-end-of-legend.json](./78665-langrisser-v-the-end-of-legend.json) |
 | Langrisser: Hikari no Matsuei | 42010 | [42010-langrisser-hikari-no-matsuei.json](./42010-langrisser-hikari-no-matsuei.json) |
 | Langrisser: Sea of Sword | 411065 | [411065-langrisser-sea-of-sword.json](./411065-langrisser-sea-of-sword.json) |
+| Language Adventure | 240699 | [240699-language-adventure.json](./240699-language-adventure.json) |
 | LanguageGuessr | 259618 | [259618-languageguessr.json](./259618-languageguessr.json) |
 | Laniakea | 304714 | [304714-laniakea.json](./304714-laniakea.json) |
 | Lanista: Shadows and Dust | 294283 | [294283-lanista-shadows-and-dust.json](./294283-lanista-shadows-and-dust.json) |
@@ -2685,6 +2686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Libble Rabble | 37945 | [37945-libble-rabble.json](./37945-libble-rabble.json) |
 | Libe | 332854 | [332854-libe.json](./332854-libe.json) |
 | Liber | 163198 | [163198-liber.json](./163198-liber.json) |
+| Liber 2: Lost in time | 240821 | [240821-liber-2-lost-in-time.json](./240821-liber-2-lost-in-time.json) |
 | Liberal Crime Squad | 70579 | [70579-liberal-crime-squad.json](./70579-liberal-crime-squad.json) |
 | Liberate 1024 | 312923 | [312923-liberate-1024.json](./312923-liberate-1024.json) |
 | Liberated: For the Homeland | 170885 | [170885-liberated-for-the-homeland.json](./170885-liberated-for-the-homeland.json) |
@@ -4629,12 +4631,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Looking For Cats In a Badly Drawn Forest: Extra Content | 292678 | [292678-looking-for-cats-in-a-badly-drawn-forest-extra-content.json](./292678-looking-for-cats-in-a-badly-drawn-forest-extra-content.json) |
 | Looking for Cold Girls | 291692 | [291692-looking-for-cold-girls.json](./291692-looking-for-cold-girls.json) |
 | Looking For Healer | 63003 | [63003-looking-for-healer.json](./63003-looking-for-healer.json) |
+| Looking for Lokae | 240709 | [240709-looking-for-lokae.json](./240709-looking-for-lokae.json) |
 | Looking for Something | 316653 | [316653-looking-for-something.json](./316653-looking-for-something.json) |
 | Looking for Waifu | 363322 | [363322-looking-for-waifu.json](./363322-looking-for-waifu.json) |
 | Looking Glass | 186605 | [186605-looking-glass.json](./186605-looking-glass.json) |
 | Looking Up | 391322 | [391322-looking-up.json](./391322-looking-up.json) |
 | Looking Up I See Only a Ceiling | 224733 | [224733-looking-up-i-see-only-a-ceiling.json](./224733-looking-up-i-see-only-a-ceiling.json) |
 | Lookouts | 177910 | [177910-lookouts.json](./177910-lookouts.json) |
+| Loom | 240705 | [240705-loom.json](./240705-loom.json) |
 | Loom | 267418 | [267418-loom.json](./267418-loom.json) |
 | Loom Path | 332831 | [332831-loom-path.json](./332831-loom-path.json) |
 | Loomchild | 418773 | [418773-loomchild.json](./418773-loomchild.json) |
