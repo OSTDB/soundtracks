@@ -5749,6 +5749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Pilots | 59647 | [59647-planet-pilots.json](./59647-planet-pilots.json) |
 | Planet Protector VR | 67939 | [67939-planet-protector-vr.json](./67939-planet-protector-vr.json) |
 | Planet Puzzle League | 23093 | [23093-planet-puzzle-league.json](./23093-planet-puzzle-league.json) |
+| Planet Quest | 266142 | [266142-planet-quest.json](./266142-planet-quest.json) |
 | Planet Quiz: Learn & Discover | 187494 | [187494-planet-quiz-learn-and-discover.json](./187494-planet-quiz-learn-and-discover.json) |
 | Planet Quiz: Learn & Discover - DLC Oceans | 238030 | [238030-planet-quiz-learn-and-discover-dlc-oceans.json](./238030-planet-quiz-learn-and-discover-dlc-oceans.json) |
 | Planet Quiz: Learn & Discover - Forest Life | 227776 | [227776-planet-quiz-learn-and-discover-forest-life.json](./227776-planet-quiz-learn-and-discover-forest-life.json) |
@@ -7023,6 +7024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Mystery Dungeon: Red Rescue Team | 2319 | [2319-pokemon-mystery-dungeon-red-rescue-team.json](./2319-pokemon-mystery-dungeon-red-rescue-team.json) |
 | Pokémon Mystery Dungeon: Special Episode 0 - In A Dark Past | 298965 | [298965-pokemon-mystery-dungeon-special-episode-0-in-a-dark-past.json](./298965-pokemon-mystery-dungeon-special-episode-0-in-a-dark-past.json) |
 | Pokémon Mystery Dungeon: Turnabout Dimension | 210550 | [210550-pokemon-mystery-dungeon-turnabout-dimension.json](./210550-pokemon-mystery-dungeon-turnabout-dimension.json) |
+| Pokémon Myth | 266156 | [266156-pokemon-myth.json](./266156-pokemon-myth.json) |
 | Pokémon Nameless FireRed Project | 213034 | [213034-pokemon-nameless-firered-project.json](./213034-pokemon-nameless-firered-project.json) |
 | Pokémon Nameless Version | 381791 | [381791-pokemon-nameless-version.json](./381791-pokemon-nameless-version.json) |
 | Pokémon Nightmare Version: Invasion | 279053 | [279053-pokemon-nightmare-version-invasion.json](./279053-pokemon-nightmare-version-invasion.json) |
