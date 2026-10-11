@@ -6831,6 +6831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Root Connections | 249911 | [249911-root-connections.json](./249911-root-connections.json) |
 | Root Double: Before Crime * After Days | 79295 | [79295-root-double-before-crime-after-days.json](./79295-root-double-before-crime-after-days.json) |
 | Root Infinity Rexx | 61660 | [61660-root-infinity-rexx.json](./61660-root-infinity-rexx.json) |
+| Root Infinity Rexx: Limited Edition | 254365 | [254365-root-infinity-rexx-limited-edition.json](./254365-root-infinity-rexx-limited-edition.json) |
 | Root Letter: Limited Premium Box | 207921 | [207921-root-letter-limited-premium-box.json](./207921-root-letter-limited-premium-box.json) |
 | Root of All Evil | 57105 | [57105-root-of-all-evil.json](./57105-root-of-all-evil.json) |
 | Root of Evil: Origins | 142839 | [142839-root-of-evil-origins.json](./142839-root-of-evil-origins.json) |
