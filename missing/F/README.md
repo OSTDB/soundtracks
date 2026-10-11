@@ -2110,6 +2110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fathoms | 415121 | [415121-fathoms.json](./415121-fathoms.json) |
 | Fatigue | 341613 | [341613-fatigue.json](./341613-fatigue.json) |
 | Fatimopolis | 409636 | [409636-fatimopolis.json](./409636-fatimopolis.json) |
+| Fatman Adventures | 250229 | [250229-fatman-adventures.json](./250229-fatman-adventures.json) |
 | Fatrifice | 244496 | [244496-fatrifice.json](./244496-fatrifice.json) |
 | Fatrifice 2 | 262941 | [262941-fatrifice-2.json](./262941-fatrifice-2.json) |
 | Fatrifice 3 | 334211 | [334211-fatrifice-3.json](./334211-fatrifice-3.json) |
@@ -4027,6 +4028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fish man avoiding fishing | 119671 | [119671-fish-man-avoiding-fishing.json](./119671-fish-man-avoiding-fishing.json) |
 | Fish Market | 391052 | [391052-fish-market.json](./391052-fish-market.json) |
 | Fish Memory | 150678 | [150678-fish-memory.json](./150678-fish-memory.json) |
+| Fish or Chicken | 250254 | [250254-fish-or-chicken.json](./250254-fish-or-chicken.json) |
 | Fish or Die | 34778 | [34778-fish-or-die.json](./34778-fish-or-die.json) |
 | Fish Orbit | 390543 | [390543-fish-orbit.json](./390543-fish-orbit.json) |
 | Fish Party Online | 250385 | [250385-fish-party-online.json](./250385-fish-party-online.json) |
@@ -7338,6 +7340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fresh Tracks | 335842 | [335842-fresh-tracks.json](./335842-fresh-tracks.json) |
 | Fresh Tracks Snowboarding | 344907 | [344907-fresh-tracks-snowboarding.json](./344907-fresh-tracks-snowboarding.json) |
 | Fresh Tracks VR | 380569 | [380569-fresh-tracks-vr.json](./380569-fresh-tracks-vr.json) |
+| FreshCharge Ruru | 250269 | [250269-freshcharge-ruru.json](./250269-freshcharge-ruru.json) |
 | Freshly Frosted | 117697 | [117697-freshly-frosted.json](./117697-freshly-frosted.json) |
 | Freshman Magic: Spellbooks and Tangled Sheets | 201010 | [201010-freshman-magic-spellbooks-and-tangled-sheets.json](./201010-freshman-magic-spellbooks-and-tangled-sheets.json) |
 | Freshwater Fishing Simulator | 68987 | [68987-freshwater-fishing-simulator.json](./68987-freshwater-fishing-simulator.json) |
