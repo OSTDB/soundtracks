@@ -960,6 +960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oli One: Sneak in | 235378 | [235378-oli-one-sneak-in.json](./235378-oli-one-sneak-in.json) |
 | Olinda Fighters | 415941 | [415941-olinda-fighters.json](./415941-olinda-fighters.json) |
 | Oliver & Spike: Dimension Jumpers | 63894 | [63894-oliver-and-spike-dimension-jumpers.json](./63894-oliver-and-spike-dimension-jumpers.json) |
+| Oliver's Tale | 248502 | [248502-olivers-tale.json](./248502-olivers-tale.json) |
 | Olivers äventyr: Drakens förbannelse | 320948 | [320948-olivers-aventyr-drakens-forbannelse.json](./320948-olivers-aventyr-drakens-forbannelse.json) |
 | Olivia | 230395 | [230395-olivia.json](./230395-olivia.json) |
 | Olivia | 402267 | [402267-olivia.json](./402267-olivia.json) |
@@ -2097,6 +2098,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Open Rails | 89985 | [89985-open-rails.json](./89985-open-rails.json) |
 | Open Saber Plus | 343918 | [343918-open-saber-plus.json](./343918-open-saber-plus.json) |
 | Open School World | 297505 | [297505-open-school-world.json](./297505-open-school-world.json) |
+| Open Season | 248522 | [248522-open-season.json](./248522-open-season.json) |
+| Open Season | 248523 | [248523-open-season.json](./248523-open-season.json) |
+| Open Season | 248524 | [248524-open-season.json](./248524-open-season.json) |
+| Open Season | 248525 | [248525-open-season.json](./248525-open-season.json) |
 | Open Season | 4055 | [4055-open-season.json](./4055-open-season.json) |
 | Open Sesame | 40679 | [40679-open-sesame.json](./40679-open-sesame.json) |
 | Open Solomon's Key | 184409 | [184409-open-solomons-key.json](./184409-open-solomons-key.json) |
