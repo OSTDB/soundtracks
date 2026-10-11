@@ -5669,6 +5669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roburst | 199647 | [199647-roburst.json](./199647-roburst.json) |
 | Robzawar | 295395 | [295395-robzawar.json](./295395-robzawar.json) |
 | Roc 'N Rope | 25727 | [25727-roc-n-rope.json](./25727-roc-n-rope.json) |
+| Roc's Odyssey | 268954 | [268954-rocs-odyssey.json](./268954-rocs-odyssey.json) |
 | Roccio Quest | 326104 | [326104-roccio-quest.json](./326104-roccio-quest.json) |
 | Rocco | 78015 | [78015-rocco.json](./78015-rocco.json) |
 | Rocco's Inferno | 197147 | [197147-roccos-inferno.json](./197147-roccos-inferno.json) |
