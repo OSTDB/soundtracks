@@ -1401,6 +1401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baoxiao Duobiqiu | 97353 | [97353-baoxiao-duobiqiu.json](./97353-baoxiao-duobiqiu.json) |
 | Bàoxiào Sānguó | 92605 | [92605-baoxiao-sanguo.json](./92605-baoxiao-sanguo.json) |
 | Bapbap | 186656 | [186656-bapbap.json](./186656-bapbap.json) |
+| Baphomet's Satellite | 262273 | [262273-baphomets-satellite.json](./262273-baphomets-satellite.json) |
 | Baptism | 75922 | [75922-baptism.json](./75922-baptism.json) |
 | Baptism of Fire | 189140 | [189140-baptism-of-fire.json](./189140-baptism-of-fire.json) |
 | Baptisterio | 326615 | [326615-baptisterio.json](./326615-baptisterio.json) |
@@ -6920,6 +6921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloodgrounds | 303164 | [303164-bloodgrounds.json](./303164-bloodgrounds.json) |
 | Bloodhound | 195382 | [195382-bloodhound.json](./195382-bloodhound.json) |
 | Bloodia | 118394 | [118394-bloodia.json](./118394-bloodia.json) |
+| Bloodicide | 262270 | [262270-bloodicide.json](./262270-bloodicide.json) |
 | BloodKeeper | 143037 | [143037-bloodkeeper.json](./143037-bloodkeeper.json) |
 | Bloodkill: Goreblast Overkill | 332642 | [332642-bloodkill-goreblast-overkill.json](./332642-bloodkill-goreblast-overkill.json) |
 | Bloodland Battle Royale | 124564 | [124564-bloodland-battle-royale.json](./124564-bloodland-battle-royale.json) |
@@ -7708,6 +7710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomb Man | 78266 | [78266-bomb-man.json](./78266-bomb-man.json) |
 | Bomb Meirin | 204406 | [204406-bomb-meirin.json](./204406-bomb-meirin.json) |
 | Bomb Riders | 108407 | [108407-bomb-riders.json](./108407-bomb-riders.json) |
+| Bomb Rush Cyberfunk: Base & Jay | 262252 | [262252-bomb-rush-cyberfunk-base-and-jay.json](./262252-bomb-rush-cyberfunk-base-and-jay.json) |
 | Bomb Rush Cyberfunk: Exclusive Edition | 379972 | [379972-bomb-rush-cyberfunk-exclusive-edition.json](./379972-bomb-rush-cyberfunk-exclusive-edition.json) |
 | Bomb Squad | 5662 | [5662-bomb-squad.json](./5662-bomb-squad.json) |
 | Bomb Squad Academy | 28012 | [28012-bomb-squad-academy.json](./28012-bomb-squad-academy.json) |
@@ -8024,6 +8027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Book of Beasts | 141179 | [141179-book-of-beasts.json](./141179-book-of-beasts.json) |
 | Book of Coin | 221113 | [221113-book-of-coin.json](./221113-book-of-coin.json) |
 | Book of Demons | 22747 | [22747-book-of-demons.json](./22747-book-of-demons.json) |
+| Book of Hours: Perpetual Edition DLC | 262230 | [262230-book-of-hours-perpetual-edition-dlc.json](./262230-book-of-hours-perpetual-edition-dlc.json) |
 | Book of Korvald | 389046 | [389046-book-of-korvald.json](./389046-book-of-korvald.json) |
 | Book of Mario | 159321 | [159321-book-of-mario.json](./159321-book-of-mario.json) |
 | Book of Mario: Thousands of Doors | 159323 | [159323-book-of-mario-thousands-of-doors.json](./159323-book-of-mario-thousands-of-doors.json) |
