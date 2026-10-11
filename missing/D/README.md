@@ -1688,6 +1688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dawn of H'btakh: Get Lost and Die | 58487 | [58487-dawn-of-hbtakh-get-lost-and-die.json](./58487-dawn-of-hbtakh-get-lost-and-die.json) |
 | Dawn of Heroes | 19721 | [19721-dawn-of-heroes.json](./19721-dawn-of-heroes.json) |
 | Dawn of Hope: Thunder Daughter | 103870 | [103870-dawn-of-hope-thunder-daughter.json](./103870-dawn-of-hope-thunder-daughter.json) |
+| Dawn of Insolence | 271110 | [271110-dawn-of-insolence.json](./271110-dawn-of-insolence.json) |
 | Dawn of Magic | 11024 | [11024-dawn-of-magic.json](./11024-dawn-of-magic.json) |
 | Dawn of Magic 2 | 11025 | [11025-dawn-of-magic-2.json](./11025-dawn-of-magic-2.json) |
 | Dawn of Man | 102163 | [102163-dawn-of-man.json](./102163-dawn-of-man.json) |
@@ -1875,14 +1876,31 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DC Super Hero Girls: Food Fight | 316786 | [316786-dc-super-hero-girls-food-fight.json](./316786-dc-super-hero-girls-food-fight.json) |
 | DC Super Hero Girls: Teen Power | 143617 | [143617-dc-super-hero-girls-teen-power.json](./143617-dc-super-hero-girls-teen-power.json) |
 | DC Universe Online | 576 | [576-dc-universe-online.json](./576-dc-universe-online.json) |
+| DC Universe Online: Episode 1 - Fight for the light | 271143 | [271143-dc-universe-online-episode-1-fight-for-the-light.json](./271143-dc-universe-online-episode-1-fight-for-the-light.json) |
+| DC Universe Online: Episode 10 - Amazon Fury Part I | 271155 | [271155-dc-universe-online-episode-10-amazon-fury-part-i.json](./271155-dc-universe-online-episode-10-amazon-fury-part-i.json) |
+| DC Universe Online: Episode 11 - Halls of Power Part I | 271157 | [271157-dc-universe-online-episode-11-halls-of-power-part-i.json](./271157-dc-universe-online-episode-11-halls-of-power-part-i.json) |
+| DC Universe Online: Episode 12 - War of the Light Part II | 271158 | [271158-dc-universe-online-episode-12-war-of-the-light-part-ii.json](./271158-dc-universe-online-episode-12-war-of-the-light-part-ii.json) |
+| DC Universe Online: Episode 13 - Amazon Fury Part II | 271159 | [271159-dc-universe-online-episode-13-amazon-fury-part-ii.json](./271159-dc-universe-online-episode-13-amazon-fury-part-ii.json) |
+| DC Universe Online: Episode 14 - Halls of Power Part II | 271160 | [271160-dc-universe-online-episode-14-halls-of-power-part-ii.json](./271160-dc-universe-online-episode-14-halls-of-power-part-ii.json) |
+| DC Universe Online: Episode 15 - Bombshells Paradox & Corrupted Zamaron | 271161 | [271161-dc-universe-online-episode-15-bombshells-paradox-and-corrupted-zamaron.json](./271161-dc-universe-online-episode-15-bombshells-paradox-and-corrupted-zamaron.json) |
+| DC Universe Online: Episode 16 - Desecrated Cathedral and Oa Under Siege | 271162 | [271162-dc-universe-online-episode-16-desecrated-cathedral-and-oa-under-siege.json](./271162-dc-universe-online-episode-16-desecrated-cathedral-and-oa-under-siege.json) |
 | DC Universe Online: Episode 17 - Unholy Matrimony & The Flash Museum Burglary | 271163 | [271163-dc-universe-online-episode-17-unholy-matrimony-and-the-flash-museum-burglary.json](./271163-dc-universe-online-episode-17-unholy-matrimony-and-the-flash-museum-burglary.json) |
 | DC Universe Online: Episode 18 - The Demon's Pit and Blackest Day | 271164 | [271164-dc-universe-online-episode-18-the-demons-pit-and-blackest-day.json](./271164-dc-universe-online-episode-18-the-demons-pit-and-blackest-day.json) |
 | DC Universe Online: Episode 19 - The Demon's Plan and Deep Desires | 271165 | [271165-dc-universe-online-episode-19-the-demons-plan-and-deep-desires.json](./271165-dc-universe-online-episode-19-the-demons-plan-and-deep-desires.json) |
+| DC Universe Online: Episode 2 - Lightning Strikes | 271145 | [271145-dc-universe-online-episode-2-lightning-strikes.json](./271145-dc-universe-online-episode-2-lightning-strikes.json) |
 | DC Universe Online: Episode 20 - Blackest Night & Wastelands Wonderland | 271166 | [271166-dc-universe-online-episode-20-blackest-night-and-wastelands-wonderland.json](./271166-dc-universe-online-episode-20-blackest-night-and-wastelands-wonderland.json) |
 | DC Universe Online: Episode 21 - Prison Break and The First Piece | 271167 | [271167-dc-universe-online-episode-21-prison-break-and-the-first-piece.json](./271167-dc-universe-online-episode-21-prison-break-and-the-first-piece.json) |
 | DC Universe Online: Episode 22 - Science Spire and The Phantom Zone | 271168 | [271168-dc-universe-online-episode-22-science-spire-and-the-phantom-zone.json](./271168-dc-universe-online-episode-22-science-spire-and-the-phantom-zone.json) |
 | DC Universe Online: Episode 23 - The Will of Darkseid and Brainiac's Bottle Ship | 271169 | [271169-dc-universe-online-episode-23-the-will-of-darkseid-and-brainiacs-bottle-ship.json](./271169-dc-universe-online-episode-23-the-will-of-darkseid-and-brainiacs-bottle-ship.json) |
+| DC Universe Online: Episode 3 - The Battle for Earth | 271146 | [271146-dc-universe-online-episode-3-the-battle-for-earth.json](./271146-dc-universe-online-episode-3-the-battle-for-earth.json) |
+| DC Universe Online: Episode 4 - The Last Laugh | 271147 | [271147-dc-universe-online-episode-4-the-last-laugh.json](./271147-dc-universe-online-episode-4-the-last-laugh.json) |
 | DC Universe Online: Episode 45 - Shock to the System | 248600 | [248600-dc-universe-online-episode-45-shock-to-the-system.json](./248600-dc-universe-online-episode-45-shock-to-the-system.json) |
+| DC Universe Online: Episode 46 - Justice League Dark | 271141 | [271141-dc-universe-online-episode-46-justice-league-dark.json](./271141-dc-universe-online-episode-46-justice-league-dark.json) |
+| DC Universe Online: Episode 5 - Hand of Fate | 271148 | [271148-dc-universe-online-episode-5-hand-of-fate.json](./271148-dc-universe-online-episode-5-hand-of-fate.json) |
+| DC Universe Online: Episode 6 - Home Turf | 271149 | [271149-dc-universe-online-episode-6-home-turf.json](./271149-dc-universe-online-episode-6-home-turf.json) |
+| DC Universe Online: Episode 7 - Origin Crisis | 271151 | [271151-dc-universe-online-episode-7-origin-crisis.json](./271151-dc-universe-online-episode-7-origin-crisis.json) |
+| DC Universe Online: Episode 8 - Sons of Trigon | 271152 | [271152-dc-universe-online-episode-8-sons-of-trigon.json](./271152-dc-universe-online-episode-8-sons-of-trigon.json) |
+| DC Universe Online: Episode 9 - War of the Light Part I | 271154 | [271154-dc-universe-online-episode-9-war-of-the-light-part-i.json](./271154-dc-universe-online-episode-9-war-of-the-light-part-i.json) |
 | DC Universe Online: Episode Pack I | 161187 | [161187-dc-universe-online-episode-pack-i.json](./161187-dc-universe-online-episode-pack-i.json) |
 | DC Wonder: Unlimited | 43496 | [43496-dc-wonder-unlimited.json](./43496-dc-wonder-unlimited.json) |
 | DC: Batman Bat-Tech Edition | 309605 | [309605-dc-batman-bat-tech-edition.json](./309605-dc-batman-bat-tech-edition.json) |
@@ -9939,6 +9957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamtone | 310960 | [310960-dreamtone.json](./310960-dreamtone.json) |
 | Dreamvibe | 192276 | [192276-dreamvibe.json](./192276-dreamvibe.json) |
 | Dreamwalker | 239716 | [239716-dreamwalker.json](./239716-dreamwalker.json) |
+| Dreamwalker | 271150 | [271150-dreamwalker.json](./271150-dreamwalker.json) |
 | Dreamwalker | 333021 | [333021-dreamwalker.json](./333021-dreamwalker.json) |
 | DreamWatcher | 145430 | [145430-dreamwatcher.json](./145430-dreamwatcher.json) |
 | Dreamwater | 252385 | [252385-dreamwater.json](./252385-dreamwater.json) |
@@ -11040,6 +11059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Gambit Boy | 89666 | [89666-dungeon-gambit-boy.json](./89666-dungeon-gambit-boy.json) |
 | Dungeon Gatekeeper | 391774 | [391774-dungeon-gatekeeper.json](./391774-dungeon-gatekeeper.json) |
 | Dungeon Gems | 348737 | [348737-dungeon-gems.json](./348737-dungeon-gems.json) |
+| Dungeon Girl | 271115 | [271115-dungeon-girl.json](./271115-dungeon-girl.json) |
 | Dungeon Girl Scouts | 210693 | [210693-dungeon-girl-scouts.json](./210693-dungeon-girl-scouts.json) |
 | Dungeon Golf | 244507 | [244507-dungeon-golf.json](./244507-dungeon-golf.json) |
 | Dungeon Hearts DX | 85103 | [85103-dungeon-hearts-dx.json](./85103-dungeon-hearts-dx.json) |
