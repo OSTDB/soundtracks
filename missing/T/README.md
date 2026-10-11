@@ -7093,6 +7093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The JerryMaya Detective Agency | 330249 | [330249-the-jerrymaya-detective-agency.json](./330249-the-jerrymaya-detective-agency.json) |
 | The Jester's Revenge | 289993 | [289993-the-jesters-revenge.json](./289993-the-jesters-revenge.json) |
 | The Jetsons: Invasion of the Planet Pirates | 42511 | [42511-the-jetsons-invasion-of-the-planet-pirates.json](./42511-the-jetsons-invasion-of-the-planet-pirates.json) |
+| The Jetsons: Space Race | 263937 | [263937-the-jetsons-space-race.json](./263937-the-jetsons-space-race.json) |
 | The Jetsons: The Computer Game | 70475 | [70475-the-jetsons-the-computer-game.json](./70475-the-jetsons-the-computer-game.json) |
 | The Jhonson Parable | 229670 | [229670-the-jhonson-parable.json](./229670-the-jhonson-parable.json) |
 | The Jiang Shi | 284282 | [284282-the-jiang-shi.json](./284282-the-jiang-shi.json) |
@@ -7722,6 +7723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Leak | 270109 | [270109-the-leak.json](./270109-the-leak.json) |
 | The Ledge | 262425 | [262425-the-ledge.json](./262425-the-ledge.json) |
 | The Leeds Devil | 188514 | [188514-the-leeds-devil.json](./188514-the-leeds-devil.json) |
+| The Left Behind | 263982 | [263982-the-left-behind.json](./263982-the-left-behind.json) |
 | The Left Eye | 351114 | [351114-the-left-eye.json](./351114-the-left-eye.json) |
 | The Legacy | 12437 | [12437-the-legacy.json](./12437-the-legacy.json) |
 | The Legacy | 378776 | [378776-the-legacy.json](./378776-the-legacy.json) |
@@ -10898,6 +10900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tale of Food | 246983 | [246983-the-tale-of-food.json](./246983-the-tale-of-food.json) |
 | The Tale of Greenbrier | 117819 | [117819-the-tale-of-greenbrier.json](./117819-the-tale-of-greenbrier.json) |
 | The Tale of Knightess Milia | 82922 | [82922-the-tale-of-knightess-milia.json](./82922-the-tale-of-knightess-milia.json) |
+| The Tale of Lumi | 263990 | [263990-the-tale-of-lumi.json](./263990-the-tale-of-lumi.json) |
 | The Tale of Mara & Moa | 294025 | [294025-the-tale-of-mara-and-moa.json](./294025-the-tale-of-mara-and-moa.json) |
 | The Tale of Marena's Deft | 298716 | [298716-the-tale-of-marenas-deft.json](./298716-the-tale-of-marenas-deft.json) |
 | The Tale of Onogoro | 196312 | [196312-the-tale-of-onogoro.json](./196312-the-tale-of-onogoro.json) |
@@ -14796,6 +14799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Toon Adventures: Wacky Sports Challenge | 8051 | [8051-tiny-toon-adventures-wacky-sports-challenge.json](./8051-tiny-toon-adventures-wacky-sports-challenge.json) |
 | Tiny Tots | 360719 | [360719-tiny-tots.json](./360719-tiny-tots.json) |
 | Tiny Touchdown | 241058 | [241058-tiny-touchdown.json](./241058-tiny-touchdown.json) |
+| Tiny Touring Cars | 263961 | [263961-tiny-touring-cars.json](./263961-tiny-touring-cars.json) |
 | Tiny Tower Vegas | 60892 | [60892-tiny-tower-vegas.json](./60892-tiny-tower-vegas.json) |
 | Tiny Town Mail | 202131 | [202131-tiny-town-mail.json](./202131-tiny-town-mail.json) |
 | Tiny Town VR | 51976 | [51976-tiny-town-vr.json](./51976-tiny-town-vr.json) |
@@ -18393,6 +18397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Traitor | 275639 | [275639-traitor.json](./275639-traitor.json) |
 | Traitor | 372252 | [372252-traitor.json](./372252-traitor.json) |
 | Traitor Nightly | 183454 | [183454-traitor-nightly.json](./183454-traitor-nightly.json) |
+| Traitorous Trek | 263967 | [263967-traitorous-trek.json](./263967-traitorous-trek.json) |
 | Traitors Gate 2 | 24107 | [24107-traitors-gate-2.json](./24107-traitors-gate-2.json) |
 | Traitors in Salem | 181143 | [181143-traitors-in-salem.json](./181143-traitors-in-salem.json) |
 | Traitors in the Hood | 258081 | [258081-traitors-in-the-hood.json](./258081-traitors-in-the-hood.json) |
