@@ -8728,6 +8728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Future & Girls | 368121 | [368121-future-and-girls.json](./368121-future-and-girls.json) |
 | Future Avoid | 307583 | [307583-future-avoid.json](./307583-future-avoid.json) |
 | Future Bike Simulator | 13061 | [13061-future-bike-simulator.json](./13061-future-bike-simulator.json) |
+| Future Breach 64 | 244682 | [244682-future-breach-64.json](./244682-future-breach-64.json) |
 | Future Card Buddyfight Mezase! Buddy Champion! | 222542 | [222542-future-card-buddyfight-mezase-buddy-champion.json](./222542-future-card-buddyfight-mezase-buddy-champion.json) |
 | Future Card Buddyfight: Tanjou! Oretachi no Saikyou Buddy! | 222545 | [222545-future-card-buddyfight-tanjou-oretachi-no-saikyou-buddy.json](./222545-future-card-buddyfight-tanjou-oretachi-no-saikyou-buddy.json) |
 | Future Cat Sailor | 298814 | [298814-future-cat-sailor.json](./298814-future-cat-sailor.json) |
