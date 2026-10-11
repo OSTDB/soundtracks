@@ -164,6 +164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-Man World 2 Re-Pac x Sonic the Hedgehog | 361843 | [361843-pac-man-world-2-re-pac-x-sonic-the-hedgehog.json](./361843-pac-man-world-2-re-pac-x-sonic-the-hedgehog.json) |
 | Pac-Man World 3 | 243196 | [243196-pac-man-world-3.json](./243196-pac-man-world-3.json) |
 | Pac-Man World 3 | 4064 | [4064-pac-man-world-3.json](./4064-pac-man-world-3.json) |
+| Pac-Man World Rally | 248531 | [248531-pac-man-world-rally.json](./248531-pac-man-world-rally.json) |
 | Pac-Man World Re-Pac | 206811 | [206811-pac-man-world-re-pac.json](./206811-pac-man-world-re-pac.json) |
 | Pac-Man: Adventures in Time | 78239 | [78239-pac-man-adventures-in-time.json](./78239-pac-man-adventures-in-time.json) |
 | Pac-Man: Championship Edition DX | 21737 | [21737-pac-man-championship-edition-dx.json](./21737-pac-man-championship-edition-dx.json) |
@@ -3106,6 +3107,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pete's World | 375575 | [375575-petes-world.json](./375575-petes-world.json) |
 | Peter Frankl: Puzzle no Tou | 254499 | [254499-peter-frankl-puzzle-no-tou.json](./254499-peter-frankl-puzzle-no-tou.json) |
 | Peter Griffin Bike | 343930 | [343930-peter-griffin-bike.json](./343930-peter-griffin-bike.json) |
+| Peter Jackson's King Kong: The Official Game of the Movie | 248541 | [248541-peter-jacksons-king-kong-the-official-game-of-the-movie.json](./248541-peter-jacksons-king-kong-the-official-game-of-the-movie.json) |
+| Peter Jackson's King Kong: The Official Game of the Movie | 248542 | [248542-peter-jacksons-king-kong-the-official-game-of-the-movie.json](./248542-peter-jacksons-king-kong-the-official-game-of-the-movie.json) |
+| Peter Jackson's King Kong: The Official Game of the Movie | 248543 | [248543-peter-jacksons-king-kong-the-official-game-of-the-movie.json](./248543-peter-jacksons-king-kong-the-official-game-of-the-movie.json) |
 | Peter Padder Pauleypop | 181167 | [181167-peter-padder-pauleypop.json](./181167-peter-padder-pauleypop.json) |
 | Peter Pan | 95405 | [95405-peter-pan.json](./95405-peter-pan.json) |
 | Peter Pan: A Story Painting Adventure | 327871 | [327871-peter-pan-a-story-painting-adventure.json](./327871-peter-pan-a-story-painting-adventure.json) |
@@ -11172,6 +11176,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puyo Ponyo Lines | 260895 | [260895-puyo-ponyo-lines.json](./260895-puyo-ponyo-lines.json) |
 | Puyo Pop | 23455 | [23455-puyo-pop.json](./23455-puyo-pop.json) |
 | Puyo Pop | 81459 | [81459-puyo-pop.json](./81459-puyo-pop.json) |
+| Puyo Pop Fever | 248503 | [248503-puyo-pop-fever.json](./248503-puyo-pop-fever.json) |
+| Puyo Pop Fever | 248504 | [248504-puyo-pop-fever.json](./248504-puyo-pop-fever.json) |
 | Puyo Pop Fever DX | 251499 | [251499-puyo-pop-fever-dx.json](./251499-puyo-pop-fever-dx.json) |
 | Puyo Puyo | 146876 | [146876-puyo-puyo.json](./146876-puyo-puyo.json) |
 | Puyo Puyo | 249773 | [249773-puyo-puyo.json](./249773-puyo-puyo.json) |
