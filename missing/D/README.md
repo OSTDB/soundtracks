@@ -899,6 +899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Days of Horror | 102181 | [102181-dark-days-of-horror.json](./102181-dark-days-of-horror.json) |
 | Dark Days: Devil Hunt | 224605 | [224605-dark-days-devil-hunt.json](./224605-dark-days-devil-hunt.json) |
 | Dark Days: Zombie Survival | 197372 | [197372-dark-days-zombie-survival.json](./197372-dark-days-zombie-survival.json) |
+| Dark Dead | 243582 | [243582-dark-dead.json](./243582-dark-dead.json) |
 | Dark Dealings | 167252 | [167252-dark-dealings.json](./167252-dark-dealings.json) |
 | Dark December | 367568 | [367568-dark-december.json](./367568-dark-december.json) |
 | Dark Deception | 61859 | [61859-dark-deception.json](./61859-dark-deception.json) |
@@ -3173,6 +3174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Cut | 176264 | [176264-deep-cut.json](./176264-deep-cut.json) |
 | Deep Dark Block | 334247 | [334247-deep-dark-block.json](./334247-deep-dark-block.json) |
 | Deep Dark Dungeon | 32229 | [32229-deep-dark-dungeon.json](./32229-deep-dark-dungeon.json) |
+| Deep Dark Dungeon of Anglaus | 243583 | [243583-deep-dark-dungeon-of-anglaus.json](./243583-deep-dark-dungeon-of-anglaus.json) |
 | Deep Dark Fight | 81702 | [81702-deep-dark-fight.json](./81702-deep-dark-fight.json) |
 | Deep Dark Forest | 151724 | [151724-deep-dark-forest.json](./151724-deep-dark-forest.json) |
 | Deep Dark Space | 282012 | [282012-deep-dark-space.json](./282012-deep-dark-space.json) |
@@ -5691,6 +5693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digitwars - The Grigits | 101766 | [101766-digitwars-the-grigits.json](./101766-digitwars-the-grigits.json) |
 | Dignacia | 253454 | [253454-dignacia.json](./253454-dignacia.json) |
 | DigRun | 197777 | [197777-digrun.json](./197777-digrun.json) |
+| Digs Mini Icy | 243584 | [243584-digs-mini-icy.json](./243584-digs-mini-icy.json) |
 | Digs03 | 271303 | [271303-digs03.json](./271303-digs03.json) |
 | Digscovery | 249791 | [249791-digscovery.json](./249791-digscovery.json) |
 | Digseum | 325317 | [325317-digseum.json](./325317-digseum.json) |
@@ -7725,6 +7728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Punch Me | 265613 | [265613-dont-punch-me.json](./265613-dont-punch-me.json) |
 | Don't Push Me | 188444 | [188444-dont-push-me.json](./188444-dont-push-me.json) |
 | Don't Push Your Luck | 400304 | [400304-dont-push-your-luck.json](./400304-dont-push-your-luck.json) |
+| Don't Rage | 243576 | [243576-dont-rage.json](./243576-dont-rage.json) |
 | Don't Remember | 236878 | [236878-dont-remember.json](./236878-dont-remember.json) |
 | Don't Save the Princess | 111468 | [111468-dont-save-the-princess.json](./111468-dont-save-the-princess.json) |
 | Don't Scream Together | 376018 | [376018-dont-scream-together.json](./376018-dont-scream-together.json) |
@@ -8366,6 +8370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dorman's Attraction: Upgraded & Advanced | 396897 | [396897-dormans-attraction-upgraded-and-advanced.json](./396897-dormans-attraction-upgraded-and-advanced.json) |
 | Dormant | 313496 | [313496-dormant.json](./313496-dormant.json) |
 | Dormitabis | 230514 | [230514-dormitabis.json](./230514-dormitabis.json) |
+| Dormitory Hentai Clicker | 243575 | [243575-dormitory-hentai-clicker.json](./243575-dormitory-hentai-clicker.json) |
 | Doronko Wanko | 290647 | [290647-doronko-wanko.json](./290647-doronko-wanko.json) |
 | Doronko Wanko: Bulldog | 356790 | [356790-doronko-wanko-bulldog.json](./356790-doronko-wanko-bulldog.json) |
 | Doronko Wanko: Corgi | 356793 | [356793-doronko-wanko-corgi.json](./356793-doronko-wanko-corgi.json) |
@@ -10192,6 +10197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drift Go | 211770 | [211770-drift-go.json](./211770-drift-go.json) |
 | Drift Highway: Retro Console Edition | 365855 | [365855-drift-highway-retro-console-edition.json](./365855-drift-highway-retro-console-edition.json) |
 | Drift Hunters | 145530 | [145530-drift-hunters.json](./145530-drift-hunters.json) |
+| Drift Island | 243590 | [243590-drift-island.json](./243590-drift-island.json) |
 | Drift It! | 87013 | [87013-drift-it.json](./87013-drift-it.json) |
 | Drift Journey: Nitro | 214499 | [214499-drift-journey-nitro.json](./214499-drift-journey-nitro.json) |
 | Drift King Shuto-kou Battle 2: Tsuchiya Keiichi & Bandou Masaaki | 46582 | [46582-drift-king-shuto-kou-battle-2-tsuchiya-keiichi-and-bandou-masaaki.json](./46582-drift-king-shuto-kou-battle-2-tsuchiya-keiichi-and-bandou-masaaki.json) |
