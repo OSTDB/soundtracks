@@ -3707,6 +3707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Animal Detectives | 206190 | [206190-the-animal-detectives.json](./206190-the-animal-detectives.json) |
 | The Animal Half | 97986 | [97986-the-animal-half.json](./97986-the-animal-half.json) |
 | The Animals of Farthing Wood | 364539 | [364539-the-animals-of-farthing-wood.json](./364539-the-animals-of-farthing-wood.json) |
+| The Anime Super Remix: Kyojin no Hoshi | 268391 | [268391-the-anime-super-remix-kyojin-no-hoshi.json](./268391-the-anime-super-remix-kyojin-no-hoshi.json) |
 | The Annual Ghost Town Pumpkin Festival | 141145 | [141145-the-annual-ghost-town-pumpkin-festival.json](./141145-the-annual-ghost-town-pumpkin-festival.json) |
 | The Anointed: David Saves Keilah | 215030 | [215030-the-anointed-david-saves-keilah.json](./215030-the-anointed-david-saves-keilah.json) |
 | The Anomaly | 271300 | [271300-the-anomaly.json](./271300-the-anomaly.json) |
@@ -7889,6 +7890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Zelda: A Link to the Dream | 243669 | [243669-the-legend-of-zelda-a-link-to-the-dream.json](./243669-the-legend-of-zelda-a-link-to-the-dream.json) |
 | The Legend of Zelda: A Link to the Islands | 213893 | [213893-the-legend-of-zelda-a-link-to-the-islands.json](./213893-the-legend-of-zelda-a-link-to-the-islands.json) |
 | The Legend of Zelda: A Link to the Past | 229416 | [229416-the-legend-of-zelda-a-link-to-the-past.json](./229416-the-legend-of-zelda-a-link-to-the-past.json) |
+| The Legend of Zelda: A Link to the Past - Hylian Legacy | 268404 | [268404-the-legend-of-zelda-a-link-to-the-past-hylian-legacy.json](./268404-the-legend-of-zelda-a-link-to-the-past-hylian-legacy.json) |
 | The Legend of Zelda: A Link to the Past & Four Swords | 77336 | [77336-the-legend-of-zelda-a-link-to-the-past-and-four-swords.json](./77336-the-legend-of-zelda-a-link-to-the-past-and-four-swords.json) |
 | The Legend of Zelda: A Link to the Past Redux | 219073 | [219073-the-legend-of-zelda-a-link-to-the-past-redux.json](./219073-the-legend-of-zelda-a-link-to-the-past-redux.json) |
 | The Legend of Zelda: A Link to the Proto | 249317 | [249317-the-legend-of-zelda-a-link-to-the-proto.json](./249317-the-legend-of-zelda-a-link-to-the-proto.json) |
@@ -7914,6 +7916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Zelda: Dungeon Rush | 268674 | [268674-the-legend-of-zelda-dungeon-rush.json](./268674-the-legend-of-zelda-dungeon-rush.json) |
 | The Legend of Zelda: Dungeons of Infinity | 316720 | [316720-the-legend-of-zelda-dungeons-of-infinity.json](./316720-the-legend-of-zelda-dungeons-of-infinity.json) |
 | The Legend of Zelda: Echoes of Aurelia | 323202 | [323202-the-legend-of-zelda-echoes-of-aurelia.json](./323202-the-legend-of-zelda-echoes-of-aurelia.json) |
+| The Legend of Zelda: Echoes of the Past | 268405 | [268405-the-legend-of-zelda-echoes-of-the-past.json](./268405-the-legend-of-zelda-echoes-of-the-past.json) |
 | The Legend of Zelda: Echoes of Wisdom | 306149 | [306149-the-legend-of-zelda-echoes-of-wisdom.json](./306149-the-legend-of-zelda-echoes-of-wisdom.json) |
 | The Legend of Zelda: Era of Decline | 301519 | [301519-the-legend-of-zelda-era-of-decline.json](./301519-the-legend-of-zelda-era-of-decline.json) |
 | The Legend of Zelda: Fall of Hyrule | 250514 | [250514-the-legend-of-zelda-fall-of-hyrule.json](./250514-the-legend-of-zelda-fall-of-hyrule.json) |
@@ -7965,6 +7968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Zelda: Perils of Darkness | 213041 | [213041-the-legend-of-zelda-perils-of-darkness.json](./213041-the-legend-of-zelda-perils-of-darkness.json) |
 | The Legend of Zelda: Petrie's Challenge | 268675 | [268675-the-legend-of-zelda-petries-challenge.json](./268675-the-legend-of-zelda-petries-challenge.json) |
 | The Legend of Zelda: Picross | 172690 | [172690-the-legend-of-zelda-picross.json](./172690-the-legend-of-zelda-picross.json) |
+| The Legend of Zelda: PuzzleDude's Quest | 268406 | [268406-the-legend-of-zelda-puzzledudes-quest.json](./268406-the-legend-of-zelda-puzzledudes-quest.json) |
 | The Legend of Zelda: Relics of the Past | 250319 | [250319-the-legend-of-zelda-relics-of-the-past.json](./250319-the-legend-of-zelda-relics-of-the-past.json) |
 | The Legend of Zelda: Return of the Hylian SE | 243616 | [243616-the-legend-of-zelda-return-of-the-hylian-se.json](./243616-the-legend-of-zelda-return-of-the-hylian-se.json) |
 | The Legend of Zelda: Revival | 277873 | [277873-the-legend-of-zelda-revival.json](./277873-the-legend-of-zelda-revival.json) |
@@ -19584,6 +19588,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Truck Life: Gansu | 170814 | [170814-truck-life-gansu.json](./170814-truck-life-gansu.json) |
 | Truck Life: Hainan | 170815 | [170815-truck-life-hainan.json](./170815-truck-life-hainan.json) |
 | Truck Life: TaiWan | 170816 | [170816-truck-life-taiwan.json](./170816-truck-life-taiwan.json) |
+| Truck Loader | 268385 | [268385-truck-loader.json](./268385-truck-loader.json) |
+| Truck Loader 2 | 268395 | [268395-truck-loader-2.json](./268395-truck-loader-2.json) |
 | Truck Loader 3 | 268634 | [268634-truck-loader-3.json](./268634-truck-loader-3.json) |
 | Truck Loader 4 | 268643 | [268643-truck-loader-4.json](./268643-truck-loader-4.json) |
 | Truck Loader 5 | 268645 | [268645-truck-loader-5.json](./268645-truck-loader-5.json) |
