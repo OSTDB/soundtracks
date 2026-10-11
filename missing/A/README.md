@@ -1970,6 +1970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Advanced Shells II | 308380 | [308380-advanced-shells-ii.json](./308380-advanced-shells-ii.json) |
 | Advanced Shells III | 308382 | [308382-advanced-shells-iii.json](./308382-advanced-shells-iii.json) |
 | Advanced Sorcerian | 182238 | [182238-advanced-sorcerian.json](./182238-advanced-sorcerian.json) |
+| Advanced Spanner-X: Endless Fire | 268388 | [268388-advanced-spanner-x-endless-fire.json](./268388-advanced-spanner-x-endless-fire.json) |
 | Advanced T-Robots | 322052 | [322052-advanced-t-robots.json](./322052-advanced-t-robots.json) |
 | Advanced World War Sen-nen Teikoku no Koubou: Last of the Millennium | 45448 | [45448-advanced-world-war-sen-nen-teikoku-no-koubou-last-of-the-millennium.json](./45448-advanced-world-war-sen-nen-teikoku-no-koubou-last-of-the-millennium.json) |
 | Advaria: Chronicles of Immortality | 283898 | [283898-advaria-chronicles-of-immortality.json](./283898-advaria-chronicles-of-immortality.json) |
