@@ -143,6 +143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Machine of Madness | 409547 | [409547-machine-of-madness.json](./409547-machine-of-madness.json) |
 | Machine of the Wasteland | 347725 | [347725-machine-of-the-wasteland.json](./347725-machine-of-the-wasteland.json) |
 | Machine Party | 397811 | [397811-machine-party.json](./397811-machine-party.json) |
+| Machine Phantasm | 254399 | [254399-machine-phantasm.json](./254399-machine-phantasm.json) |
 | Machine Ruin Self-Destruction Masturbation Life of the Sky Temple | 189971 | [189971-machine-ruin-self-destruction-masturbation-life-of-the-sky-temple.json](./189971-machine-ruin-self-destruction-masturbation-life-of-the-sky-temple.json) |
 | Machine Tower 2984 | 357848 | [357848-machine-tower-2984.json](./357848-machine-tower-2984.json) |
 | Machine With a Big Gun | 103479 | [103479-machine-with-a-big-gun.json](./103479-machine-with-a-big-gun.json) |
@@ -2085,6 +2086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marauder | 18488 | [18488-marauder.json](./18488-marauder.json) |
 | Marauder | 55054 | [55054-marauder.json](./55054-marauder.json) |
 | Marauder Knight | 367296 | [367296-marauder-knight.json](./367296-marauder-knight.json) |
+| Marauder of Dystopia: The Weakest Go To The Wall | 254397 | [254397-marauder-of-dystopia-the-weakest-go-to-the-wall.json](./254397-marauder-of-dystopia-the-weakest-go-to-the-wall.json) |
 | Marauders | 132995 | [132995-marauders.json](./132995-marauders.json) |
 | Marbella Vice | 371620 | [371620-marbella-vice.json](./371620-marbella-vice.json) |
 | Marbellous | 311465 | [311465-marbellous.json](./311465-marbellous.json) |
@@ -3385,6 +3387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mastermind | 95406 | [95406-mastermind.json](./95406-mastermind.json) |
 | Mastermind - Cows and Bulls Free Word Game | 89711 | [89711-mastermind-cows-and-bulls-free-word-game.json](./89711-mastermind-cows-and-bulls-free-word-game.json) |
 | Mastermind Classic | 135001 | [135001-mastermind-classic.json](./135001-mastermind-classic.json) |
+| Masternoid | 254402 | [254402-masternoid.json](./254402-masternoid.json) |
 | Masterpack for Doom II | 300701 | [300701-masterpack-for-doom-ii.json](./300701-masterpack-for-doom-ii.json) |
 | Masterpiece | 351033 | [351033-masterpiece.json](./351033-masterpiece.json) |
 | Masterpiece Mansion | 209553 | [209553-masterpiece-mansion.json](./209553-masterpiece-mansion.json) |
@@ -7729,6 +7732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft: Story Mode - Episode 7: Access Denied | 127055 | [127055-minecraft-story-mode-episode-7-access-denied.json](./127055-minecraft-story-mode-episode-7-access-denied.json) |
 | Minecraft: Story Mode - Season Two | 44158 | [44158-minecraft-story-mode-season-two.json](./44158-minecraft-story-mode-season-two.json) |
 | Minecraft: Story Mode Season Two - Episode 1: Hero in Residence | 91298 | [91298-minecraft-story-mode-season-two-episode-1-hero-in-residence.json](./91298-minecraft-story-mode-season-two-episode-1-hero-in-residence.json) |
+| Minecraft: Summer of Arcade Skin Pack | 254395 | [254395-minecraft-summer-of-arcade-skin-pack.json](./254395-minecraft-summer-of-arcade-skin-pack.json) |
 | Minecraft: Super Mario Mash-up | 234773 | [234773-minecraft-super-mario-mash-up.json](./234773-minecraft-super-mario-mash-up.json) |
 | Minecraft: Teenage Mutant Ninja Turtles | 259850 | [259850-minecraft-teenage-mutant-ninja-turtles.json](./259850-minecraft-teenage-mutant-ninja-turtles.json) |
 | Minecraft: Tetris | 311740 | [311740-minecraft-tetris.json](./311740-minecraft-tetris.json) |
@@ -8692,6 +8696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mistful Crimson Morning | 341911 | [341911-mistful-crimson-morning.json](./341911-mistful-crimson-morning.json) |
 | Mistia - The Kingdom of Krasten | 140464 | [140464-mistia-the-kingdom-of-krasten.json](./140464-mistia-the-kingdom-of-krasten.json) |
 | Misticheskii Ostrov | 99185 | [99185-misticheskii-ostrov.json](./99185-misticheskii-ostrov.json) |
+| Mistified | 254375 | [254375-mistified.json](./254375-mistified.json) |
 | Mistletoe Hotel | 323731 | [323731-mistletoe-hotel.json](./323731-mistletoe-hotel.json) |
 | Mistover | 116145 | [116145-mistover.json](./116145-mistover.json) |
 | Mistress Marigold's Home Improvement | 369774 | [369774-mistress-marigolds-home-improvement.json](./369774-mistress-marigolds-home-improvement.json) |
