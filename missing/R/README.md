@@ -792,6 +792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rain reader | 176313 | [176313-rain-reader.json](./176313-rain-reader.json) |
 | Rain Ruin | 207358 | [207358-rain-ruin.json](./207358-rain-ruin.json) |
 | Rain Station Z | 410414 | [410414-rain-station-z.json](./410414-rain-station-z.json) |
+| Rain Tactics | 274384 | [274384-rain-tactics.json](./274384-rain-tactics.json) |
 | Rain World: Deluxe Edition | 290437 | [290437-rain-world-deluxe-edition.json](./290437-rain-world-deluxe-edition.json) |
 | Rain World: Slugcat's Lifecycle Edition | 370699 | [370699-rain-world-slugcats-lifecycle-edition.json](./370699-rain-world-slugcats-lifecycle-edition.json) |
 | Rain World: The Watcher | 297737 | [297737-rain-world-the-watcher.json](./297737-rain-world-the-watcher.json) |
@@ -2374,6 +2375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Embrace: Paradisus | 186332 | [186332-red-embrace-paradisus.json](./186332-red-embrace-paradisus.json) |
 | Red End | 292233 | [292233-red-end.json](./292233-red-end.json) |
 | Red Entity | 181917 | [181917-red-entity.json](./181917-red-entity.json) |
+| Red Eye | 274378 | [274378-red-eye.json](./274378-red-eye.json) |
 | Red Eyes | 103195 | [103195-red-eyes.json](./103195-red-eyes.json) |
 | Red Faction | 215080 | [215080-red-faction.json](./215080-red-faction.json) |
 | Red Faction Collection | 53495 | [53495-red-faction-collection.json](./53495-red-faction-collection.json) |
