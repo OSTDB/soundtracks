@@ -1008,6 +1008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2088: The Cryllan Mission - The Second Scenario | 57374 | [57374-2088-the-cryllan-mission-the-second-scenario.json](./57374-2088-the-cryllan-mission-the-second-scenario.json) |
 | 2089: Space Divided | 159112 | [159112-2089-space-divided.json](./159112-2089-space-divided.json) |
 | 20b | 169819 | [169819-20b.json](./169819-20b.json) |
+| 20MTD: Emberpath | 275552 | [275552-20mtd-emberpath.json](./275552-20mtd-emberpath.json) |
 | 20Q | 320398 | [320398-20q.json](./320398-20q.json) |
 | 20Q: The Simpsons | 320399 | [320399-20q-the-simpsons.json](./320399-20q-the-simpsons.json) |
 | 20Something | 29673 | [29673-20something.json](./29673-20something.json) |
