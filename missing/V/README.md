@@ -2277,6 +2277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vortex Rolling | 152743 | [152743-vortex-rolling.json](./152743-vortex-rolling.json) |
 | Vortex: The Gateway | 34348 | [34348-vortex-the-gateway.json](./34348-vortex-the-gateway.json) |
 | VortexWars2 | 101759 | [101759-vortexwars2.json](./101759-vortexwars2.json) |
+| Vortix | 260569 | [260569-vortix.json](./260569-vortix.json) |
 | Vortle | 186286 | [186286-vortle.json](./186286-vortle.json) |
 | VortX | 375264 | [375264-vortx.json](./375264-vortx.json) |
 | Vorzain | 413494 | [413494-vorzain.json](./413494-vorzain.json) |
