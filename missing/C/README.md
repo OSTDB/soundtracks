@@ -1209,6 +1209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capybara's Happytime | 346215 | [346215-capybaras-happytime.json](./346215-capybaras-happytime.json) |
 | Capybro | 263945 | [263945-capybro.json](./263945-capybro.json) |
 | Capyvarias | 390806 | [390806-capyvarias.json](./390806-capyvarias.json) |
+| Car | 243586 | [243586-car.json](./243586-car.json) |
 | Car and Driver | 72042 | [72042-car-and-driver.json](./72042-car-and-driver.json) |
 | Car Challenge | 410240 | [410240-car-challenge.json](./410240-car-challenge.json) |
 | Car Combine Mania | 342280 | [342280-car-combine-mania.json](./342280-car-combine-mania.json) |
@@ -1935,6 +1936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Casino Crime | 372784 | [372784-casino-crime.json](./372784-casino-crime.json) |
 | Casino De Pink | 41372 | [41372-casino-de-pink.json](./41372-casino-de-pink.json) |
 | Casino FunPak | 117931 | [117931-casino-funpak.json](./117931-casino-funpak.json) |
+| Casino Heist | 243587 | [243587-casino-heist.json](./243587-casino-heist.json) |
 | Casino Heist: Aruba | 327449 | [327449-casino-heist-aruba.json](./327449-casino-heist-aruba.json) |
 | Casino Heist: Escape Room | 302052 | [302052-casino-heist-escape-room.json](./302052-casino-heist-escape-room.json) |
 | Casino Inc: The Management | 70951 | [70951-casino-inc-the-management.json](./70951-casino-inc-the-management.json) |
@@ -3111,6 +3113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Celestial Links | 186251 | [186251-celestial-links.json](./186251-celestial-links.json) |
 | Celestial Orbiter Auranova: Those Who Denounce God | 325643 | [325643-celestial-orbiter-auranova-those-who-denounce-god.json](./325643-celestial-orbiter-auranova-those-who-denounce-god.json) |
 | Celestial Project | 189149 | [189149-celestial-project.json](./189149-celestial-project.json) |
+| Celestial Raider | 243588 | [243588-celestial-raider.json](./243588-celestial-raider.json) |
 | Celestial Return | 277763 | [277763-celestial-return.json](./277763-celestial-return.json) |
 | Celestial Rune Consortium: Shadows of Ascension | 293627 | [293627-celestial-rune-consortium-shadows-of-ascension.json](./293627-celestial-rune-consortium-shadows-of-ascension.json) |
 | Celestial Soul | 316144 | [316144-celestial-soul.json](./316144-celestial-soul.json) |
@@ -3310,6 +3313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chain Crisis | 271288 | [271288-chain-crisis.json](./271288-chain-crisis.json) |
 | Chain Crusher | 124771 | [124771-chain-crusher.json](./124771-chain-crusher.json) |
 | Chain Fury | 181756 | [181756-chain-fury.json](./181756-chain-fury.json) |
+| Chain Ninja | 243577 | [243577-chain-ninja.json](./243577-chain-ninja.json) |
 | Chain of Eroticism | 163400 | [163400-chain-of-eroticism.json](./163400-chain-of-eroticism.json) |
 | Chain Quest | 200106 | [200106-chain-quest.json](./200106-chain-quest.json) |
 | Chain Reaction | 264566 | [264566-chain-reaction.json](./264566-chain-reaction.json) |
@@ -5031,6 +5035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Christmas Yarn 3: Collector's Edition | 337271 | [337271-christmas-yarn-3-collectors-edition.json](./337271-christmas-yarn-3-collectors-edition.json) |
 | Christmas: Dark Side | 286006 | [286006-christmas-dark-side.json](./286006-christmas-dark-side.json) |
 | Christmasdius | 63887 | [63887-christmasdius.json](./63887-christmasdius.json) |
+| Christmasjong | 243578 | [243578-christmasjong.json](./243578-christmasjong.json) |
 | Christmasville: The Missing Santa Adventures | 89195 | [89195-christmasville-the-missing-santa-adventures.json](./89195-christmasville-the-missing-santa-adventures.json) |
 | Christminster | 60021 | [60021-christminster.json](./60021-christminster.json) |
 | Chrith: Ai no Tabidachi | 137980 | [137980-chrith-ai-no-tabidachi.json](./137980-chrith-ai-no-tabidachi.json) |
@@ -10372,6 +10377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Plant Shop | 17214 | [17214-crazy-plant-shop.json](./17214-crazy-plant-shop.json) |
 | Crazy Plus | 264781 | [264781-crazy-plus.json](./264781-crazy-plus.json) |
 | Crazy Pocket | 413613 | [413613-crazy-pocket.json](./413613-crazy-pocket.json) |
+| Crazy Prisoner | 243579 | [243579-crazy-prisoner.json](./243579-crazy-prisoner.json) |
 | Crazy Projectile | 143966 | [143966-crazy-projectile.json](./143966-crazy-projectile.json) |
 | Crazy Puzzle | 358935 | [358935-crazy-puzzle.json](./358935-crazy-puzzle.json) |
 | Crazy Quader | 91587 | [91587-crazy-quader.json](./91587-crazy-quader.json) |
@@ -11131,6 +11137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CrossTown 1: Giften | 122315 | [122315-crosstown-1-giften.json](./122315-crosstown-1-giften.json) |
 | Crosstown Carnage | 326653 | [326653-crosstown-carnage.json](./326653-crosstown-carnage.json) |
 | CrossTrix | 114258 | [114258-crosstrix.json](./114258-crosstrix.json) |
+| Crosswalks | 243580 | [243580-crosswalks.json](./243580-crosswalks.json) |
 | Crosswinds | 404394 | [404394-crosswinds.json](./404394-crosswinds.json) |
 | Crossword | 271687 | [271687-crossword.json](./271687-crossword.json) |
 | Crossword | 402255 | [402255-crossword.json](./402255-crossword.json) |
@@ -11532,6 +11539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cryspace | 240746 | [240746-cryspace.json](./240746-cryspace.json) |
 | Crystal | 145275 | [145275-crystal.json](./145275-crystal.json) |
 | Crystal Anomaly | 194379 | [194379-crystal-anomaly.json](./194379-crystal-anomaly.json) |
+| Crystal Blast VR | 243581 | [243581-crystal-blast-vr.json](./243581-crystal-blast-vr.json) |
 | Crystal Breaker | 284978 | [284978-crystal-breaker.json](./284978-crystal-breaker.json) |
 | Crystal Breaker Inc. | 419156 | [419156-crystal-breaker-inc.json](./419156-crystal-breaker-inc.json) |
 | Crystal Calamity | 350496 | [350496-crystal-calamity.json](./350496-crystal-calamity.json) |
