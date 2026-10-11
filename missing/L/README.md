@@ -2261,6 +2261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let Sleeping Dogs Lie | 343920 | [343920-let-sleeping-dogs-lie.json](./343920-let-sleeping-dogs-lie.json) |
 | Let Them Breathe: Selena's Awakening | 312151 | [312151-let-them-breathe-selenas-awakening.json](./312151-let-them-breathe-selenas-awakening.json) |
 | Let Them Come: Onslaught | 257928 | [257928-let-them-come-onslaught.json](./257928-let-them-come-onslaught.json) |
+| Let Them Fight | 262841 | [262841-let-them-fight.json](./262841-let-them-fight.json) |
 | Let There Be Cat! | 183539 | [183539-let-there-be-cat.json](./183539-let-there-be-cat.json) |
 | Let There Be Life | 35984 | [35984-let-there-be-life.json](./35984-let-there-be-life.json) |
 | Let There Be Smite! | 414288 | [414288-let-there-be-smite.json](./414288-let-there-be-smite.json) |
@@ -2883,6 +2884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lifeline: Halfway to Infinity | 56888 | [56888-lifeline-halfway-to-infinity.json](./56888-lifeline-halfway-to-infinity.json) |
 | Lifeline: Silent Night | 39254 | [39254-lifeline-silent-night.json](./39254-lifeline-silent-night.json) |
 | Lifeline: Whiteout | 57911 | [57911-lifeline-whiteout.json](./57911-lifeline-whiteout.json) |
+| Lifelong | 262851 | [262851-lifelong.json](./262851-lifelong.json) |
 | LifePaths | 414351 | [414351-lifepaths.json](./414351-lifepaths.json) |
 | Lifesigns | 143575 | [143575-lifesigns.json](./143575-lifesigns.json) |
 | LifeSigns: Surgical Unit | 18600 | [18600-lifesigns-surgical-unit.json](./18600-lifesigns-surgical-unit.json) |
