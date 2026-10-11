@@ -775,6 +775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candlelight | 276456 | [276456-candlelight.json](./276456-candlelight.json) |
 | Candlelight | 33296 | [33296-candlelight.json](./33296-candlelight.json) |
 | Candleman:find yourself | 130755 | [130755-candleman-find-yourself.json](./130755-candleman-find-yourself.json) |
+| Candlemass | 257297 | [257297-candlemass.json](./257297-candlemass.json) |
 | Candles | 178946 | [178946-candles.json](./178946-candles.json) |
 | Candles Aren't Eternal | 386385 | [386385-candles-arent-eternal.json](./386385-candles-arent-eternal.json) |
 | Candles of the Damned | 271491 | [271491-candles-of-the-damned.json](./271491-candles-of-the-damned.json) |
@@ -7599,6 +7600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Comando Rio | 297097 | [297097-comando-rio.json](./297097-comando-rio.json) |
 | Comando Tracer | 138800 | [138800-comando-tracer.json](./138800-comando-tracer.json) |
 | Comanomaly | 382375 | [382375-comanomaly.json](./382375-comanomaly.json) |
+| Comatose | 257307 | [257307-comatose.json](./257307-comatose.json) |
 | Comatose | 369778 | [369778-comatose.json](./369778-comatose.json) |
 | Comb Rider | 362415 | [362415-comb-rider.json](./362415-comb-rider.json) |
 | Combat | 131545 | [131545-combat.json](./131545-combat.json) |
