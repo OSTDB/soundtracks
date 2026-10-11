@@ -401,6 +401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lamia's Game Room | 33724 | [33724-lamias-game-room.json](./33724-lamias-game-room.json) |
 | Lamina Island | 224537 | [224537-lamina-island.json](./224537-lamina-island.json) |
 | Lamo | 121465 | [121465-lamo.json](./121465-lamo.json) |
+| Lamp and Vamp | 240111 | [240111-lamp-and-vamp.json](./240111-lamp-and-vamp.json) |
 | Lamp Head | 29284 | [29284-lamp-head.json](./29284-lamp-head.json) |
 | Lamp of Aladdin | 23922 | [23922-lamp-of-aladdin.json](./23922-lamp-of-aladdin.json) |
 | Lamp Post | 290872 | [290872-lamp-post.json](./290872-lamp-post.json) |
@@ -1053,6 +1054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Latmos Explorer | 263975 | [263975-latmos-explorer.json](./263975-latmos-explorer.json) |
 | Latte Stand Tycoon + | 130214 | [130214-latte-stand-tycoon.json](./130214-latte-stand-tycoon.json) |
 | Lattice 200EC7 | 143664 | [143664-lattice-200ec7.json](./143664-lattice-200ec7.json) |
+| Lattice Dancer | 240129 | [240129-lattice-dancer.json](./240129-lattice-dancer.json) |
 | Latto-Latto Simulator | 233453 | [233453-latto-latto-simulator.json](./233453-latto-latto-simulator.json) |
 | Laugh & Learn: Animal Sounds | 101577 | [101577-laugh-and-learn-animal-sounds.json](./101577-laugh-and-learn-animal-sounds.json) |
 | Laughing in the Wind Mobile | 174880 | [174880-laughing-in-the-wind-mobile.json](./174880-laughing-in-the-wind-mobile.json) |
@@ -2453,6 +2455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's zig zag | 81655 | [81655-lets-zig-zag.json](./81655-lets-zig-zag.json) |
 | Let's! Revolution! | 242101 | [242101-lets-revolution.json](./242101-lets-revolution.json) |
 | Let's! Splat! Machigai Sagashi | 222528 | [222528-lets-splat-machigai-sagashi.json](./222528-lets-splat-machigai-sagashi.json) |
+| Leta Adventure | 240128 | [240128-leta-adventure.json](./240128-leta-adventure.json) |
 | Lethal | 355235 | [355235-lethal.json](./355235-lethal.json) |
 | Lethal Application | 256555 | [256555-lethal-application.json](./256555-lethal-application.json) |
 | Lethal Beach | 267109 | [267109-lethal-beach.json](./267109-lethal-beach.json) |
@@ -5851,6 +5854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucky Luke | 265060 | [265060-lucky-luke.json](./265060-lucky-luke.json) |
 | Lucky Luke Shoot & Hit | 197849 | [197849-lucky-luke-shoot-and-hit.json](./197849-lucky-luke-shoot-and-hit.json) |
 | Lucky Luke: Desperado Train | 50027 | [50027-lucky-luke-desperado-train.json](./50027-lucky-luke-desperado-train.json) |
+| Lucky Luke: Nitroglycerine | 240263 | [240263-lucky-luke-nitroglycerine.json](./240263-lucky-luke-nitroglycerine.json) |
 | Lucky Luke: Nitroglycerine | 240264 | [240264-lucky-luke-nitroglycerine.json](./240264-lucky-luke-nitroglycerine.json) |
 | Lucky Luke: Nitroglycerine | 240268 | [240268-lucky-luke-nitroglycerine.json](./240268-lucky-luke-nitroglycerine.json) |
 | Lucky Luke: Nitroglycerine | 240272 | [240272-lucky-luke-nitroglycerine.json](./240272-lucky-luke-nitroglycerine.json) |
