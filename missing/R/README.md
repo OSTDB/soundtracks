@@ -3936,6 +3936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revelation One Trivia Quiz Game | 99374 | [99374-revelation-one-trivia-quiz-game.json](./99374-revelation-one-trivia-quiz-game.json) |
 | Revelation Trestan | 110507 | [110507-revelation-trestan.json](./110507-revelation-trestan.json) |
 | Revelations 2012 | 16279 | [16279-revelations-2012.json](./16279-revelations-2012.json) |
+| Revelations: The Demon Slayer | 265052 | [265052-revelations-the-demon-slayer.json](./265052-revelations-the-demon-slayer.json) |
 | Revella | 344368 | [344368-revella.json](./344368-revella.json) |
 | Revenant | 242007 | [242007-revenant.json](./242007-revenant.json) |
 | Revenant | 283101 | [283101-revenant.json](./283101-revenant.json) |
@@ -7648,6 +7649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rune Defender | 296676 | [296676-rune-defender.json](./296676-rune-defender.json) |
 | Rune Dice | 345982 | [345982-rune-dice.json](./345982-rune-dice.json) |
 | Rune Factory 3 Special | 217557 | [217557-rune-factory-3-special.json](./217557-rune-factory-3-special.json) |
+| Rune Factory 3 Special: Another Episode Pack | 265077 | [265077-rune-factory-3-special-another-episode-pack.json](./265077-rune-factory-3-special-another-episode-pack.json) |
 | Rune Factory 3 Special: Digital Deluxe Edition | 261329 | [261329-rune-factory-3-special-digital-deluxe-edition.json](./261329-rune-factory-3-special-digital-deluxe-edition.json) |
 | Rune Factory 3: A Fantasy Harvest Moon | 9640 | [9640-rune-factory-3-a-fantasy-harvest-moon.json](./9640-rune-factory-3-a-fantasy-harvest-moon.json) |
 | Rune Factory 4 | 6874 | [6874-rune-factory-4.json](./6874-rune-factory-4.json) |
