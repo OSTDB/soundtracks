@@ -2413,6 +2413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fency Krabby | 185146 | [185146-fency-krabby.json](./185146-fency-krabby.json) |
 | Fenestra | 405641 | [405641-fenestra.json](./405641-fenestra.json) |
 | Fenestra: My Focus, Her Future | 415956 | [415956-fenestra-my-focus-her-future.json](./415956-fenestra-my-focus-her-future.json) |
+| Feng Qi Chang'an: Yu Gu Ren | 271674 | [271674-feng-qi-changan-yu-gu-ren.json](./271674-feng-qi-changan-yu-gu-ren.json) |
 | Feng Shen Bang 2023 | 267005 | [267005-feng-shen-bang-2023.json](./267005-feng-shen-bang-2023.json) |
 | Feng Shui: Meowjong | 348796 | [348796-feng-shui-meowjong.json](./348796-feng-shui-meowjong.json) |
 | Fengdu: Chronicles of Battle | 318064 | [318064-fengdu-chronicles-of-battle.json](./318064-fengdu-chronicles-of-battle.json) |
@@ -4828,6 +4829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fling with a Tiefling | 322001 | [322001-fling-with-a-tiefling.json](./322001-fling-with-a-tiefling.json) |
 | Fling! | 264361 | [264361-fling.json](./264361-fling.json) |
 | Fling! | 343986 | [343986-fling.json](./343986-fling.json) |
+| Flinger | 271691 | [271691-flinger.json](./271691-flinger.json) |
 | Flingin' Poo | 394475 | [394475-flingin-poo.json](./394475-flingin-poo.json) |
 | Flingleberries! | 171418 | [171418-flingleberries.json](./171418-flingleberries.json) |
 | Flint | 368493 | [368493-flint.json](./368493-flint.json) |
