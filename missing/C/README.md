@@ -6235,6 +6235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Climberia | 18355 | [18355-climberia.json](./18355-climberia.json) |
 | Climbing Back to the Mothership | 336698 | [336698-climbing-back-to-the-mothership.json](./336698-climbing-back-to-the-mothership.json) |
 | Climbing Challenge | 246434 | [246434-climbing-challenge.json](./246434-climbing-challenge.json) |
+| Climbing Challenge | 276672 | [276672-climbing-challenge.json](./276672-climbing-challenge.json) |
 | Climbing Flail | 119649 | [119649-climbing-flail.json](./119649-climbing-flail.json) |
 | Climbing Mountain Sins | 257915 | [257915-climbing-mountain-sins.json](./257915-climbing-mountain-sins.json) |
 | Climbing Over It with a Spear | 259737 | [259737-climbing-over-it-with-a-spear.json](./259737-climbing-over-it-with-a-spear.json) |
@@ -6814,6 +6815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CodeRunner | 200029 | [200029-coderunner.json](./200029-coderunner.json) |
 | CodeStrike | 368500 | [368500-codestrike.json](./368500-codestrike.json) |
 | CodeWordPlay | 228096 | [228096-codewordplay.json](./228096-codewordplay.json) |
+| CodeX | 276671 | [276671-codex.json](./276671-codex.json) |
 | Codex of Victory | 27802 | [27802-codex-of-victory.json](./27802-codex-of-victory.json) |
 | Codex: Recall | 419171 | [419171-codex-recall.json](./419171-codex-recall.json) |
 | Coding Day | 302094 | [302094-coding-day.json](./302094-coding-day.json) |
@@ -7259,6 +7261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Soul: Memories | 124229 | [124229-color-soul-memories.json](./124229-color-soul-memories.json) |
 | Color Souls | 167604 | [167604-color-souls.json](./167604-color-souls.json) |
 | Color Spin | 96917 | [96917-color-spin.json](./96917-color-spin.json) |
+| Color Splash: Animals | 276677 | [276677-color-splash-animals.json](./276677-color-splash-animals.json) |
 | Color Splash: Birds | 264764 | [264764-color-splash-birds.json](./264764-color-splash-birds.json) |
 | Color Splash: Butterflies | 380804 | [380804-color-splash-butterflies.json](./380804-color-splash-butterflies.json) |
 | Color Splash: Dinosaurs | 291082 | [291082-color-splash-dinosaurs.json](./291082-color-splash-dinosaurs.json) |
@@ -8253,6 +8256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conquista: Tide of Wills | 415116 | [415116-conquista-tide-of-wills.json](./415116-conquista-tide-of-wills.json) |
 | Conquistador | 236918 | [236918-conquistador.json](./236918-conquistador.json) |
 | Conquistador | 323803 | [323803-conquistador.json](./323803-conquistador.json) |
+| Conquistador Rex | 276678 | [276678-conquistador-rex.json](./276678-conquistador-rex.json) |
 | Conquistadorio | 258438 | [258438-conquistadorio.json](./258438-conquistadorio.json) |
 | Conrad Stevenson's Paranormal P.I. | 190151 | [190151-conrad-stevensons-paranormal-p-i.json](./190151-conrad-stevensons-paranormal-p-i.json) |
 | Conrad's Quest | 261418 | [261418-conrads-quest.json](./261418-conrads-quest.json) |
@@ -12348,6 +12352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Loop | 301617 | [301617-cyber-loop.json](./301617-cyber-loop.json) |
 | Cyber Love Story | 345987 | [345987-cyber-love-story.json](./345987-cyber-love-story.json) |
 | Cyber Lust | 241988 | [241988-cyber-lust.json](./241988-cyber-lust.json) |
+| Cyber Manhunt 2: New World | 276679 | [276679-cyber-manhunt-2-new-world.json](./276679-cyber-manhunt-2-new-world.json) |
 | Cyber Manhunt: Hello World | 188493 | [188493-cyber-manhunt-hello-world.json](./188493-cyber-manhunt-hello-world.json) |
 | Cyber Neon Bundle | 246880 | [246880-cyber-neon-bundle.json](./246880-cyber-neon-bundle.json) |
 | Cyber Noah | 156015 | [156015-cyber-noah.json](./156015-cyber-noah.json) |
@@ -12356,6 +12361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Parkour | 317387 | [317387-cyber-parkour.json](./317387-cyber-parkour.json) |
 | Cyber Photographer | 68036 | [68036-cyber-photographer.json](./68036-cyber-photographer.json) |
 | Cyber Protocol Prologue | 213340 | [213340-cyber-protocol-prologue.json](./213340-cyber-protocol-prologue.json) |
+| Cyber Puncake | 276680 | [276680-cyber-puncake.json](./276680-cyber-puncake.json) |
 | Cyber Racer | 120151 | [120151-cyber-racer.json](./120151-cyber-racer.json) |
 | Cyber Rage: Retribution | 116827 | [116827-cyber-rage-retribution.json](./116827-cyber-rage-retribution.json) |
 | Cyber Rail | 267468 | [267468-cyber-rail.json](./267468-cyber-rail.json) |
@@ -12373,6 +12379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Sensation: MicroLife | 351631 | [351631-cyber-sensation-microlife.json](./351631-cyber-sensation-microlife.json) |
 | Cyber Sentinel | 352329 | [352329-cyber-sentinel.json](./352329-cyber-sentinel.json) |
 | Cyber Seraph | 140447 | [140447-cyber-seraph.json](./140447-cyber-seraph.json) |
+| Cyber Serpent | 276681 | [276681-cyber-serpent.json](./276681-cyber-serpent.json) |
 | Cyber Sex | 294054 | [294054-cyber-sex.json](./294054-cyber-sex.json) |
 | Cyber Shard Clicker | 374205 | [374205-cyber-shard-clicker.json](./374205-cyber-shard-clicker.json) |
 | Cyber Slayer | 219672 | [219672-cyber-slayer.json](./219672-cyber-slayer.json) |
