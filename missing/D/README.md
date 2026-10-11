@@ -5336,6 +5336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Did You See That? | 416647 | [416647-did-you-see-that.json](./416647-did-you-see-that.json) |
 | Dìdào Zhàn | 397993 | [397993-didao-zhan.json](./397993-didao-zhan.json) |
 | Diddl in the Cheesecakeland Diddl en Diddland | 269742 | [269742-diddl-in-the-cheesecakeland-diddl-en-diddland.json](./269742-diddl-in-the-cheesecakeland-diddl-en-diddland.json) |
+| Diddl Puzzle: Echter Puzzlespass für Unterwegs | 252660 | [252660-diddl-puzzle-echter-puzzlespass-fur-unterwegs.json](./252660-diddl-puzzle-echter-puzzlespass-fur-unterwegs.json) |
 | Diddy | 327454 | [327454-diddy.json](./327454-diddy.json) |
 | Diddy Kong Racing | 2723 | [2723-diddy-kong-racing.json](./2723-diddy-kong-racing.json) |
 | Diddy Kong Racing DS: Timber's Balloon Pop | 231630 | [231630-diddy-kong-racing-ds-timbers-balloon-pop.json](./231630-diddy-kong-racing-ds-timbers-balloon-pop.json) |
@@ -5431,6 +5432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diego: Mission Red Tomato | 160211 | [160211-diego-mission-red-tomato.json](./160211-diego-mission-red-tomato.json) |
 | Diemi | 375352 | [375352-diemi.json](./375352-diemi.json) |
 | Dien Bien Phu | 78921 | [78921-dien-bien-phu.json](./78921-dien-bien-phu.json) |
+| Diener Dates | 252653 | [252653-diener-dates.json](./252653-diener-dates.json) |
 | Diep.io | 19341 | [19341-diep-io.json](./19341-diep-io.json) |
 | Diercke Das Geographie-Quiz | 269743 | [269743-diercke-das-geographie-quiz.json](./269743-diercke-das-geographie-quiz.json) |
 | Diercke: Junior-Quiz Geographie | 269744 | [269744-diercke-junior-quiz-geographie.json](./269744-diercke-junior-quiz-geographie.json) |
@@ -9025,6 +9027,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball: Sparking! Zero - Ultimate Edition | 307191 | [307191-dragon-ball-sparking-zero-ultimate-edition.json](./307191-dragon-ball-sparking-zero-ultimate-edition.json) |
 | Dragon Ball: Strongest Warrior | 174895 | [174895-dragon-ball-strongest-warrior.json](./174895-dragon-ball-strongest-warrior.json) |
 | Dragon Ball: The Breakers | 182179 | [182179-dragon-ball-the-breakers.json](./182179-dragon-ball-the-breakers.json) |
+| Dragon Ball: The Breakers - Season 1 | 252641 | [252641-dragon-ball-the-breakers-season-1.json](./252641-dragon-ball-the-breakers-season-1.json) |
+| Dragon Ball: The Breakers - Season 2 | 252642 | [252642-dragon-ball-the-breakers-season-2.json](./252642-dragon-ball-the-breakers-season-2.json) |
+| Dragon Ball: The Breakers - Season 3 | 252643 | [252643-dragon-ball-the-breakers-season-3.json](./252643-dragon-ball-the-breakers-season-3.json) |
 | Dragon Ball: The Breakers - Season 6 | 307756 | [307756-dragon-ball-the-breakers-season-6.json](./307756-dragon-ball-the-breakers-season-6.json) |
 | Dragon Ball: Xenoverse | 7408 | [7408-dragon-ball-xenoverse.json](./7408-dragon-ball-xenoverse.json) |
 | Dragon Ball: Xenoverse - Day One Edition | 363936 | [363936-dragon-ball-xenoverse-day-one-edition.json](./363936-dragon-ball-xenoverse-day-one-edition.json) |
@@ -11012,6 +11017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon & Fighter: Spirit | 142154 | [142154-dungeon-and-fighter-spirit.json](./142154-dungeon-and-fighter-spirit.json) |
 | Dungeon & Guarder | 92312 | [92312-dungeon-and-guarder.json](./92312-dungeon-and-guarder.json) |
 | Dungeon & Heros | 168125 | [168125-dungeon-and-heros.json](./168125-dungeon-and-heros.json) |
+| Dungeon & Tales: Warriors and Dragons | 252628 | [252628-dungeon-and-tales-warriors-and-dragons.json](./252628-dungeon-and-tales-warriors-and-dragons.json) |
 | Dungeon 100 | 192663 | [192663-dungeon-100.json](./192663-dungeon-100.json) |
 | Dungeon 3D: Eastern | 277583 | [277583-dungeon-3d-eastern.json](./277583-dungeon-3d-eastern.json) |
 | Dungeon Abyss | 253275 | [253275-dungeon-abyss.json](./253275-dungeon-abyss.json) |
@@ -11050,6 +11056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Boss: Respawned | 251660 | [251660-dungeon-boss-respawned.json](./251660-dungeon-boss-respawned.json) |
 | Dungeon Bosses | 118225 | [118225-dungeon-bosses.json](./118225-dungeon-bosses.json) |
 | Dungeon Brawl | 373095 | [373095-dungeon-brawl.json](./373095-dungeon-brawl.json) |
+| Dungeon Breakout: Chapter 1 | 252616 | [252616-dungeon-breakout-chapter-1.json](./252616-dungeon-breakout-chapter-1.json) |
 | Dungeon Brewmaster | 98734 | [98734-dungeon-brewmaster.json](./98734-dungeon-brewmaster.json) |
 | Dungeon Builder S | 44199 | [44199-dungeon-builder-s.json](./44199-dungeon-builder-s.json) |
 | Dungeon Buster Ex-Plores | 66169 | [66169-dungeon-buster-ex-plores.json](./66169-dungeon-buster-ex-plores.json) |
@@ -11168,6 +11175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Killer | 400474 | [400474-dungeon-killer.json](./400474-dungeon-killer.json) |
 | Dungeon Killing | 355210 | [355210-dungeon-killing.json](./355210-dungeon-killing.json) |
 | Dungeon King | 236411 | [236411-dungeon-king.json](./236411-dungeon-king.json) |
+| Dungeon Knight | 252600 | [252600-dungeon-knight.json](./252600-dungeon-knight.json) |
 | Dungeon Land | 66059 | [66059-dungeon-land.json](./66059-dungeon-land.json) |
 | Dungeon Legend | 242491 | [242491-dungeon-legend.json](./242491-dungeon-legend.json) |
 | Dungeon Legend Party | 348373 | [348373-dungeon-legend-party.json](./348373-dungeon-legend-party.json) |
