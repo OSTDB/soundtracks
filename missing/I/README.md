@@ -303,6 +303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Saw a Flying Saucer | 369092 | [369092-i-saw-a-flying-saucer.json](./369092-i-saw-a-flying-saucer.json) |
 | I Saw A Strange Little Man | 301368 | [301368-i-saw-a-strange-little-man.json](./301368-i-saw-a-strange-little-man.json) |
 | I saw IT | 105429 | [105429-i-saw-it.json](./105429-i-saw-it.json) |
+| I Scream | 276653 | [276653-i-scream.json](./276653-i-scream.json) |
 | I Scream Ice Cream | 358298 | [358298-i-scream-ice-cream.json](./358298-i-scream-ice-cream.json) |
 | I See You | 113642 | [113642-i-see-you.json](./113642-i-see-you.json) |
 | I See You | 135609 | [135609-i-see-you.json](./135609-i-see-you.json) |
@@ -982,6 +983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle magic herb | 215681 | [215681-idle-magic-herb.json](./215681-idle-magic-herb.json) |
 | Idle Magic Legend | 252282 | [252282-idle-magic-legend.json](./252282-idle-magic-legend.json) |
 | Idle Magic School | 281449 | [281449-idle-magic-school.json](./281449-idle-magic-school.json) |
+| Idle Mall Tycoon | 276650 | [276650-idle-mall-tycoon.json](./276650-idle-mall-tycoon.json) |
 | Idle Mars Colony | 233621 | [233621-idle-mars-colony.json](./233621-idle-mars-colony.json) |
 | Idle Mining Company | 255801 | [255801-idle-mining-company.json](./255801-idle-mining-company.json) |
 | Idle Mining Empire | 218700 | [218700-idle-mining-empire.json](./218700-idle-mining-empire.json) |
@@ -3261,6 +3263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Into the Gorian's Den | 275014 | [275014-into-the-gorians-den.json](./275014-into-the-gorians-den.json) |
 | Into the Grid | 277005 | [277005-into-the-grid.json](./277005-into-the-grid.json) |
 | Into The Haunted Land | 403833 | [403833-into-the-haunted-land.json](./403833-into-the-haunted-land.json) |
+| Into the Hive | 276749 | [276749-into-the-hive.json](./276749-into-the-hive.json) |
 | Into the Inferno | 258629 | [258629-into-the-inferno.json](./258629-into-the-inferno.json) |
 | Into the Loop | 153843 | [153843-into-the-loop.json](./153843-into-the-loop.json) |
 | Into the M.A.W. | 309857 | [309857-into-the-m-a-w.json](./309857-into-the-m-a-w.json) |
@@ -3273,6 +3276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Into The Mountain | 394511 | [394511-into-the-mountain.json](./394511-into-the-mountain.json) |
 | Into the Necrovale | 234176 | [234176-into-the-necrovale.json](./234176-into-the-necrovale.json) |
 | Into The Net | 343844 | [343844-into-the-net.json](./343844-into-the-net.json) |
+| Into The Noid | 276651 | [276651-into-the-noid.json](./276651-into-the-noid.json) |
 | Into the Planet's Flesh | 401626 | [401626-into-the-planets-flesh.json](./401626-into-the-planets-flesh.json) |
 | Into the Radius | 115062 | [115062-into-the-radius.json](./115062-into-the-radius.json) |
 | Into the Radius 2 | 279128 | [279128-into-the-radius-2.json](./279128-into-the-radius-2.json) |
@@ -3712,6 +3716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Irony Curtain: From Matryoshka with Love - Revolutionary Edition | 124830 | [124830-irony-curtain-from-matryoshka-with-love-revolutionary-edition.json](./124830-irony-curtain-from-matryoshka-with-love-revolutionary-edition.json) |
 | Irori | 184067 | [184067-irori.json](./184067-irori.json) |
 | Iros | 270410 | [270410-iros.json](./270410-iros.json) |
+| Irotoridori No Sekai: The Colorful World | 276652 | [276652-irotoridori-no-sekai-the-colorful-world.json](./276652-irotoridori-no-sekai-the-colorful-world.json) |
 | Irotoridori no Sekai: World's End Rebirth | 61144 | [61144-irotoridori-no-sekai-worlds-end-rebirth.json](./61144-irotoridori-no-sekai-worlds-end-rebirth.json) |
 | Irradiant Skies | 385591 | [385591-irradiant-skies.json](./385591-irradiant-skies.json) |
 | Irradiate 235 | 359603 | [359603-irradiate-235.json](./359603-irradiate-235.json) |
@@ -4098,6 +4103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It's A Wipe! | 17982 | [17982-its-a-wipe.json](./17982-its-a-wipe.json) |
 | It's a Wrap! | 167573 | [167573-its-a-wrap.json](./167573-its-a-wrap.json) |
 | It's About the Journey | 121548 | [121548-its-about-the-journey.json](./121548-its-about-the-journey.json) |
+| It's All Connected | 276654 | [276654-its-all-connected.json](./276654-its-all-connected.json) |
 | It's all in your mind | 181394 | [181394-its-all-in-your-mind.json](./181394-its-all-in-your-mind.json) |
 | It's All Over | 353769 | [353769-its-all-over.json](./353769-its-all-over.json) |
 | It's Always Monday | 26222 | [26222-its-always-monday.json](./26222-its-always-monday.json) |
