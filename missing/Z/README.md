@@ -681,6 +681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ziggy Kids Racing | 246971 | [246971-ziggy-kids-racing.json](./246971-ziggy-kids-racing.json) |
 | Ziggy Putts | 58188 | [58188-ziggy-putts.json](./58188-ziggy-putts.json) |
 | Ziggy Road | 235136 | [235136-ziggy-road.json](./235136-ziggy-road.json) |
+| Ziggy Zaggy | 276120 | [276120-ziggy-zaggy.json](./276120-ziggy-zaggy.json) |
 | Ziggy's Labyrinth | 286573 | [286573-ziggys-labyrinth.json](./286573-ziggys-labyrinth.json) |
 | ZigZag | 231998 | [231998-zigzag.json](./231998-zigzag.json) |
 | ZigZag | 26920 | [26920-zigzag.json](./26920-zigzag.json) |
@@ -1013,6 +1014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Mutant DNA | 128959 | [128959-zombie-mutant-dna.json](./128959-zombie-mutant-dna.json) |
 | Zombie Mutant Run | 262338 | [262338-zombie-mutant-run.json](./262338-zombie-mutant-run.json) |
 | Zombie Nation | 48201 | [48201-zombie-nation.json](./48201-zombie-nation.json) |
+| Zombie Night | 276140 | [276140-zombie-night.json](./276140-zombie-night.json) |
 | Zombie Night Defense | 300829 | [300829-zombie-night-defense.json](./300829-zombie-night-defense.json) |
 | Zombie Night Terror | 9546 | [9546-zombie-night-terror.json](./9546-zombie-night-terror.json) |
 | Zombie Night Terror: Collector's Edition | 194408 | [194408-zombie-night-terror-collectors-edition.json](./194408-zombie-night-terror-collectors-edition.json) |
