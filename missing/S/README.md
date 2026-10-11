@@ -7555,6 +7555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sker Ritual: Stranger Danger | 241317 | [241317-sker-ritual-stranger-danger.json](./241317-sker-ritual-stranger-danger.json) |
 | Sker Ritual: The Quiet Ones | 235843 | [235843-sker-ritual-the-quiet-ones.json](./235843-sker-ritual-the-quiet-ones.json) |
 | Sketch Doom | 247518 | [247518-sketch-doom.json](./247518-sketch-doom.json) |
+| Sketch Heads | 250224 | [250224-sketch-heads.json](./250224-sketch-heads.json) |
 | Sketch Magician | 347100 | [347100-sketch-magician.json](./347100-sketch-magician.json) |
 | Sketch of a job that you had | 184090 | [184090-sketch-of-a-job-that-you-had.json](./184090-sketch-of-a-job-that-you-had.json) |
 | Sketch Tales | 13161 | [13161-sketch-tales.json](./13161-sketch-tales.json) |
@@ -7987,6 +7988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skyguard 0: Air Arcade | 259097 | [259097-skyguard-0-air-arcade.json](./259097-skyguard-0-air-arcade.json) |
 | Skyhammer | 40807 | [40807-skyhammer.json](./40807-skyhammer.json) |
 | SKYHILL: Black Mist | 117770 | [117770-skyhill-black-mist.json](./117770-skyhill-black-mist.json) |
+| Skyhood's Innocent Six | 250256 | [250256-skyhoods-innocent-six.json](./250256-skyhoods-innocent-six.json) |
 | Skyhook | 19303 | [19303-skyhook.json](./19303-skyhook.json) |
 | SkyIsland | 238062 | [238062-skyisland.json](./238062-skyisland.json) |
 | Skyjet | 47245 | [47245-skyjet.json](./47245-skyjet.json) |
@@ -10667,6 +10669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Songs of Steel: Hispania | 277369 | [277369-songs-of-steel-hispania.json](./277369-songs-of-steel-hispania.json) |
 | Songs of Syx | 123861 | [123861-songs-of-syx.json](./123861-songs-of-syx.json) |
 | Songs of the Chalice | 224668 | [224668-songs-of-the-chalice.json](./224668-songs-of-the-chalice.json) |
+| Songs of the Hmong | 250243 | [250243-songs-of-the-hmong.json](./250243-songs-of-the-hmong.json) |
 | Songs of the Mystics | 175218 | [175218-songs-of-the-mystics.json](./175218-songs-of-the-mystics.json) |
 | Songs of Travel | 298961 | [298961-songs-of-travel.json](./298961-songs-of-travel.json) |
 | Songs2See Game | 90553 | [90553-songs2see-game.json](./90553-songs2see-game.json) |
@@ -11747,6 +11750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soulcaster | 150680 | [150680-soulcaster.json](./150680-soulcaster.json) |
 | Soulcaster: Part I & II | 33074 | [33074-soulcaster-part-i-and-ii.json](./33074-soulcaster-part-i-and-ii.json) |
 | Soulchain | 342042 | [342042-soulchain.json](./342042-soulchain.json) |
+| Soulchemist Renafine | 250248 | [250248-soulchemist-renafine.json](./250248-soulchemist-renafine.json) |
 | Soulcreek | 229616 | [229616-soulcreek.json](./229616-soulcreek.json) |
 | Soulcrusher | 255881 | [255881-soulcrusher.json](./255881-soulcrusher.json) |
 | Souldead | 216895 | [216895-souldead.json](./216895-souldead.json) |
@@ -12512,6 +12516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Rangers: Quest and Space Rangers HD | 53647 | [53647-space-rangers-quest-and-space-rangers-hd.json](./53647-space-rangers-quest-and-space-rangers-hd.json) |
 | Space raven quest - Tiny planet | 120965 | [120965-space-raven-quest-tiny-planet.json](./120965-space-raven-quest-tiny-planet.json) |
 | Space Rebellion | 66930 | [66930-space-rebellion.json](./66930-space-rebellion.json) |
+| Space Recall | 250275 | [250275-space-recall.json](./250275-space-recall.json) |
 | Space Redemption | 130254 | [130254-space-redemption.json](./130254-space-redemption.json) |
 | Space Reign | 173047 | [173047-space-reign.json](./173047-space-reign.json) |
 | Space Renegades: The Series | 73859 | [73859-space-renegades-the-series.json](./73859-space-renegades-the-series.json) |
