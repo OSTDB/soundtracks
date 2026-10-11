@@ -17878,6 +17878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Simulator: Falmouth Branch Route Add-On | 156488 | [156488-train-simulator-falmouth-branch-route-add-on.json](./156488-train-simulator-falmouth-branch-route-add-on.json) |
 | Train Simulator: Feather River Canyon Enhanced: Oroville - Portola | 293691 | [293691-train-simulator-feather-river-canyon-enhanced-oroville-portola.json](./293691-train-simulator-feather-river-canyon-enhanced-oroville-portola.json) |
 | Train Simulator: Giselabahn: Saalfelden - Wörgl Route Add-On | 156478 | [156478-train-simulator-giselabahn-saalfelden-worgl-route-add-on.json](./156478-train-simulator-giselabahn-saalfelden-worgl-route-add-on.json) |
+| Train Simulator: Glasgow to Dunblane and Alloa Route | 264546 | [264546-train-simulator-glasgow-to-dunblane-and-alloa-route.json](./264546-train-simulator-glasgow-to-dunblane-and-alloa-route.json) |
 | Train Simulator: Isle of Wight Route Add-On | 156483 | [156483-train-simulator-isle-of-wight-route-add-on.json](./156483-train-simulator-isle-of-wight-route-add-on.json) |
 | Train Simulator: London Subway | 103448 | [103448-train-simulator-london-subway.json](./103448-train-simulator-london-subway.json) |
 | Train Simulator: London Subway | 103488 | [103488-train-simulator-london-subway.json](./103488-train-simulator-london-subway.json) |
@@ -18732,6 +18733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Traveler's Game | 256315 | [256315-travelers-game.json](./256315-travelers-game.json) |
 | Traveler's Refrain | 287784 | [287784-travelers-refrain.json](./287784-travelers-refrain.json) |
 | Traveler's Refrain x Dreamscaper | 396437 | [396437-travelers-refrain-x-dreamscaper.json](./396437-travelers-refrain-x-dreamscaper.json) |
+| Traveler's Tavern | 264539 | [264539-travelers-tavern.json](./264539-travelers-tavern.json) |
 | Travelers in Space Crack | 193424 | [193424-travelers-in-space-crack.json](./193424-travelers-in-space-crack.json) |
 | Traveller's Hymn | 319560 | [319560-travellers-hymn.json](./319560-travellers-hymn.json) |
 | Travellers | 172033 | [172033-travellers.json](./172033-travellers.json) |
@@ -19680,6 +19682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trudge | 409399 | [409399-trudge.json](./409399-trudge.json) |
 | Trudy's Time and Place House | 265978 | [265978-trudys-time-and-place-house.json](./265978-trudys-time-and-place-house.json) |
 | True Abstraction: Plus | 265598 | [265598-true-abstraction-plus.json](./265598-true-abstraction-plus.json) |
+| True Abstraction: Rewind | 264538 | [264538-true-abstraction-rewind.json](./264538-true-abstraction-rewind.json) |
 | True Backgammon HD | 87922 | [87922-true-backgammon-hd.json](./87922-true-backgammon-hd.json) |
 | True Beauty | 242019 | [242019-true-beauty.json](./242019-true-beauty.json) |
 | True Colors | 120714 | [120714-true-colors.json](./120714-true-colors.json) |
@@ -20138,6 +20141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turbo Sprint | 229785 | [229785-turbo-sprint.json](./229785-turbo-sprint.json) |
 | Turbo Stars | 352166 | [352166-turbo-stars.json](./352166-turbo-stars.json) |
 | Turbo Subs | 206070 | [206070-turbo-subs.json](./206070-turbo-subs.json) |
+| Turbo Tails | 264537 | [264537-turbo-tails.json](./264537-turbo-tails.json) |
 | Turbo Tempest | 153953 | [153953-turbo-tempest.json](./153953-turbo-tempest.json) |
 | Turbo Titans | 391883 | [391883-turbo-titans.json](./391883-turbo-titans.json) |
 | Turbo Trainz | 206637 | [206637-turbo-trainz.json](./206637-turbo-trainz.json) |
@@ -20582,6 +20586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twisty Board 2 | 233998 | [233998-twisty-board-2.json](./233998-twisty-board-2.json) |
 | Twisty Hollow | 344956 | [344956-twisty-hollow.json](./344956-twisty-hollow.json) |
 | Twisty Planets Space Puzzle | 83577 | [83577-twisty-planets-space-puzzle.json](./83577-twisty-planets-space-puzzle.json) |
+| Twisty Puzzle World | 264536 | [264536-twisty-puzzle-world.json](./264536-twisty-puzzle-world.json) |
 | Twisty Road! | 87660 | [87660-twisty-road.json](./87660-twisty-road.json) |
 | Twisty Tracks | 73999 | [73999-twisty-tracks.json](./73999-twisty-tracks.json) |
 | Twisty's Asylum Escapades | 31940 | [31940-twistys-asylum-escapades.json](./31940-twistys-asylum-escapades.json) |
@@ -20703,6 +20708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TY the Tasmanian Tiger 2: Bush Rescue HD | 147845 | [147845-ty-the-tasmanian-tiger-2-bush-rescue-hd.json](./147845-ty-the-tasmanian-tiger-2-bush-rescue-hd.json) |
 | Ty the Tasmanian Tiger 3: Night of the Quinkan | 1324 | [1324-ty-the-tasmanian-tiger-3-night-of-the-quinkan.json](./1324-ty-the-tasmanian-tiger-3-night-of-the-quinkan.json) |
 | TY the Tasmanian Tiger 4 | 12876 | [12876-ty-the-tasmanian-tiger-4.json](./12876-ty-the-tasmanian-tiger-4.json) |
+| TY the Tasmanian Tiger 4: Bush Rescue Returns | 264559 | [264559-ty-the-tasmanian-tiger-4-bush-rescue-returns.json](./264559-ty-the-tasmanian-tiger-4-bush-rescue-returns.json) |
 | Ty the Tasmanian Tiger 4: Gunyip! | 307671 | [307671-ty-the-tasmanian-tiger-4-gunyip.json](./307671-ty-the-tasmanian-tiger-4-gunyip.json) |
 | Ty the Tasmanian Tiger: Bush Rescue Bundle | 336490 | [336490-ty-the-tasmanian-tiger-bush-rescue-bundle.json](./336490-ty-the-tasmanian-tiger-bush-rescue-bundle.json) |
 | Tyalband | 276310 | [276310-tyalband.json](./276310-tyalband.json) |
@@ -20800,6 +20806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tyrfing Cycle \|Vanilla\| | 90587 | [90587-tyrfing-cycle-vanilla.json](./90587-tyrfing-cycle-vanilla.json) |
 | Tyrian's Towers | 416657 | [416657-tyrians-towers.json](./416657-tyrians-towers.json) |
 | Tyrofeud | 335239 | [335239-tyrofeud.json](./335239-tyrofeud.json) |
+| Tyrone Soulz | 264535 | [264535-tyrone-soulz.json](./264535-tyrone-soulz.json) |
 | Tyroom vs. Typing Gunner | 188499 | [188499-tyroom-vs-typing-gunner.json](./188499-tyroom-vs-typing-gunner.json) |
 | Tyto | 398472 | [398472-tyto.json](./398472-tyto.json) |
 | Tyto Ecology | 33243 | [33243-tyto-ecology.json](./33243-tyto-ecology.json) |
