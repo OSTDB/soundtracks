@@ -2164,6 +2164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | March of Giants | 363900 | [363900-march-of-giants.json](./363900-march-of-giants.json) |
 | March of History | 116432 | [116432-march-of-history.json](./116432-march-of-history.json) |
 | March of Shrooms | 215020 | [215020-march-of-shrooms.json](./215020-march-of-shrooms.json) |
+| March of the Drunken Sailors | 254994 | [254994-march-of-the-drunken-sailors.json](./254994-march-of-the-drunken-sailors.json) |
 | March of the Living | 18901 | [18901-march-of-the-living.json](./18901-march-of-the-living.json) |
 | March of the Penguins | 20648 | [20648-march-of-the-penguins.json](./20648-march-of-the-penguins.json) |
 | March of War: StormSiege | 170494 | [170494-march-of-war-stormsiege.json](./170494-march-of-war-stormsiege.json) |
