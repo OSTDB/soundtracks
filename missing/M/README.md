@@ -988,6 +988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Truck Adventure | 39477 | [39477-magical-truck-adventure.json](./39477-magical-truck-adventure.json) |
 | Magical Twirler Angel Rabbie | 408264 | [408264-magical-twirler-angel-rabbie.json](./408264-magical-twirler-angel-rabbie.json) |
 | Magical Valkyrie Lyristia | 153949 | [153949-magical-valkyrie-lyristia.json](./153949-magical-valkyrie-lyristia.json) |
+| Magical Warrior Diamond Heart | 266691 | [266691-magical-warrior-diamond-heart.json](./266691-magical-warrior-diamond-heart.json) |
 | Magical Whip: Wizards of Phantasmal Forest | 65562 | [65562-magical-whip-wizards-of-phantasmal-forest.json](./65562-magical-whip-wizards-of-phantasmal-forest.json) |
 | Magical Witch Bell and Her Non-Magical Friends | 177884 | [177884-magical-witch-bell-and-her-non-magical-friends.json](./177884-magical-witch-bell-and-her-non-magical-friends.json) |
 | Magical Zunou Power!! DS | 70411 | [70411-magical-zunou-power-ds.json](./70411-magical-zunou-power-ds.json) |
@@ -1914,6 +1915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Manic Miners | 31839 | [31839-manic-miners.json](./31839-manic-miners.json) |
 | Manic Monkey Mayhem | 68233 | [68233-manic-monkey-mayhem.json](./68233-manic-monkey-mayhem.json) |
 | Manic Panic Ghosts | 97676 | [97676-manic-panic-ghosts.json](./97676-manic-panic-ghosts.json) |
+| Manic the Lad: Rage Against the Maniac | 266702 | [266702-manic-the-lad-rage-against-the-maniac.json](./266702-manic-the-lad-rage-against-the-maniac.json) |
 | Manic Troll | 246468 | [246468-manic-troll.json](./246468-manic-troll.json) |
 | Manic you and depressed me | 357816 | [357816-manic-you-and-depressed-me.json](./357816-manic-you-and-depressed-me.json) |
 | Manic: Unknown World | 394758 | [394758-manic-unknown-world.json](./394758-manic-unknown-world.json) |
@@ -3947,6 +3949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze of Adventures | 81745 | [81745-maze-of-adventures.json](./81745-maze-of-adventures.json) |
 | Maze of Bears | 186321 | [186321-maze-of-bears.json](./186321-maze-of-bears.json) |
 | Maze of Doors | 414417 | [414417-maze-of-doors.json](./414417-maze-of-doors.json) |
+| Maze of Flott | 266672 | [266672-maze-of-flott.json](./266672-maze-of-flott.json) |
 | Maze of Infection | 93719 | [93719-maze-of-infection.json](./93719-maze-of-infection.json) |
 | Maze of Mayhem | 329726 | [329726-maze-of-mayhem.json](./329726-maze-of-mayhem.json) |
 | Maze of Memories | 367303 | [367303-maze-of-memories.json](./367303-maze-of-memories.json) |
@@ -7988,6 +7991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini-Moni. Shakatto Tambourine! Dapyon! | 69262 | [69262-mini-moni-shakatto-tambourine-dapyon.json](./69262-mini-moni-shakatto-tambourine-dapyon.json) |
 | Mini-Moni. Step Pyon Pyon Pyon | 243282 | [243282-mini-moni-step-pyon-pyon-pyon.json](./243282-mini-moni-step-pyon-pyon-pyon.json) |
 | Mini-U: Mosaic | 175408 | [175408-mini-u-mosaic.json](./175408-mini-u-mosaic.json) |
+| Mini-Vaders | 266656 | [266656-mini-vaders.json](./266656-mini-vaders.json) |
 | Mini-Yonku Let's & Go!! Power WGP 2 | 37927 | [37927-mini-yonku-lets-and-go-power-wgp-2.json](./37927-mini-yonku-lets-and-go-power-wgp-2.json) |
 | Mini-Yonku Shining Scorpion: Let's & Go!! | 38218 | [38218-mini-yonku-shining-scorpion-lets-and-go.json](./38218-mini-yonku-shining-scorpion-lets-and-go.json) |
 | Mini's Magic World | 33339 | [33339-minis-magic-world.json](./33339-minis-magic-world.json) |
@@ -11450,6 +11454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MR Racer Stunt Mania | 349888 | [349888-mr-racer-stunt-mania.json](./349888-mr-racer-stunt-mania.json) |
 | Mr Right Simulator | 348795 | [348795-mr-right-simulator.json](./348795-mr-right-simulator.json) |
 | Mr Snuggles Dungeon Adventure | 310748 | [310748-mr-snuggles-dungeon-adventure.json](./310748-mr-snuggles-dungeon-adventure.json) |
+| Mr Stumps Dentures | 266708 | [266708-mr-stumps-dentures.json](./266708-mr-stumps-dentures.json) |
 | Mr Toilet | 369174 | [369174-mr-toilet.json](./369174-mr-toilet.json) |
 | Mr Tomato Adventures | 341342 | [341342-mr-tomato-adventures.json](./341342-mr-tomato-adventures.json) |
 | Mr Trials | 147849 | [147849-mr-trials.json](./147849-mr-trials.json) |
