@@ -4045,6 +4045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evel Knievel | 348405 | [348405-evel-knievel.json](./348405-evel-knievel.json) |
 | Evel Knievel Evel-ution | 23533 | [23533-evel-knievel-evel-ution.json](./23533-evel-knievel-evel-ution.json) |
 | Eveline | 416057 | [416057-eveline.json](./416057-eveline.json) |
+| Evelone Wrath | 260032 | [260032-evelone-wrath.json](./260032-evelone-wrath.json) |
 | Even Heroes Die | 197217 | [197217-even-heroes-die.json](./197217-even-heroes-die.json) |
 | Even if Tempest | 186104 | [186104-even-if-tempest.json](./186104-even-if-tempest.json) |
 | Even in Arcadia | 135022 | [135022-even-in-arcadia.json](./135022-even-in-arcadia.json) |
@@ -4395,6 +4396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eviltech: Soul of Megawad | 261823 | [261823-eviltech-soul-of-megawad.json](./261823-eviltech-soul-of-megawad.json) |
 | EvilTrap | 297067 | [297067-eviltrap.json](./297067-eviltrap.json) |
 | Eviron's Chronicles | 161378 | [161378-evirons-chronicles.json](./161378-evirons-chronicles.json) |
+| EviscerateThisGirl.com | 260064 | [260064-evisceratethisgirl-com.json](./260064-evisceratethisgirl-com.json) |
 | Eviternity II | 279772 | [279772-eviternity-ii.json](./279772-eviternity-ii.json) |
 | Evkworld | 120379 | [120379-evkworld.json](./120379-evkworld.json) |
 | Evo Defense | 395564 | [395564-evo-defense.json](./395564-evo-defense.json) |
