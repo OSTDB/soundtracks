@@ -4174,6 +4174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Mansion 2 | 374144 | [374144-shadow-mansion-2.json](./374144-shadow-mansion-2.json) |
 | Shadow Mantis | 377086 | [377086-shadow-mantis.json](./377086-shadow-mantis.json) |
 | Shadow Matching Puzzles | 231904 | [231904-shadow-matching-puzzles.json](./231904-shadow-matching-puzzles.json) |
+| Shadow Mate | 267281 | [267281-shadow-mate.json](./267281-shadow-mate.json) |
 | Shadow Mist | 28905 | [28905-shadow-mist.json](./28905-shadow-mist.json) |
 | Shadow Monarchs Rise | 374071 | [374071-shadow-monarchs-rise.json](./374071-shadow-monarchs-rise.json) |
 | Shadow Ninja: Apocalypse | 34777 | [34777-shadow-ninja-apocalypse.json](./34777-shadow-ninja-apocalypse.json) |
@@ -7796,6 +7797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky is Arrows | 62128 | [62128-sky-is-arrows.json](./62128-sky-is-arrows.json) |
 | Sky is Arrows: Dragon Bracer Item Chest | 252231 | [252231-sky-is-arrows-dragon-bracer-item-chest.json](./252231-sky-is-arrows-dragon-bracer-item-chest.json) |
 | Sky Island | 308257 | [308257-sky-island.json](./308257-sky-island.json) |
+| Sky Islands | 267317 | [267317-sky-islands.json](./267317-sky-islands.json) |
 | Sky Jaguar | 69543 | [69543-sky-jaguar.json](./69543-sky-jaguar.json) |
 | Sky Jaguar 2 | 138250 | [138250-sky-jaguar-2.json](./138250-sky-jaguar-2.json) |
 | Sky Jinks | 18529 | [18529-sky-jinks.json](./18529-sky-jinks.json) |
@@ -15679,6 +15681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starlife | 413802 | [413802-starlife.json](./413802-starlife.json) |
 | Starlight | 181804 | [181804-starlight.json](./181804-starlight.json) |
 | Starlight | 247552 | [247552-starlight.json](./247552-starlight.json) |
+| StarLight | 267312 | [267312-starlight.json](./267312-starlight.json) |
 | Starlight Attack | 198520 | [198520-starlight-attack.json](./198520-starlight-attack.json) |
 | Starlight Cove | 415987 | [415987-starlight-cove.json](./415987-starlight-cove.json) |
 | Starlight Explorers | 179204 | [179204-starlight-explorers.json](./179204-starlight-explorers.json) |
@@ -15966,6 +15969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starship Command: Orion Spur | 362739 | [362739-starship-command-orion-spur.json](./362739-starship-command-orion-spur.json) |
 | Starship Commander | 108965 | [108965-starship-commander.json](./108965-starship-commander.json) |
 | Starship Crafter | 392237 | [392237-starship-crafter.json](./392237-starship-crafter.json) |
+| Starship Danger! | 267315 | [267315-starship-danger.json](./267315-starship-danger.json) |
 | Starship Defender | 268022 | [268022-starship-defender.json](./268022-starship-defender.json) |
 | Starship Dice | 373195 | [373195-starship-dice.json](./373195-starship-dice.json) |
 | Starship Eleven | 358805 | [358805-starship-eleven.json](./358805-starship-eleven.json) |
@@ -17724,6 +17728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stress Ball | 285448 | [285448-stress-ball.json](./285448-stress-ball.json) |
 | Stress Random | 169752 | [169752-stress-random.json](./169752-stress-random.json) |
 | Stress Test | 200168 | [200168-stress-test.json](./200168-stress-test.json) |
+| Stress testing | 267301 | [267301-stress-testing.json](./267301-stress-testing.json) |
 | Stress, Out! | 258716 | [258716-stress-out.json](./258716-stress-out.json) |
 | StressRoom | 301256 | [301256-stressroom.json](./301256-stressroom.json) |
 | Stretch Armstrong: The Breakout | 256871 | [256871-stretch-armstrong-the-breakout.json](./256871-stretch-armstrong-the-breakout.json) |
@@ -17819,6 +17824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strikers 1945 Plus | 72911 | [72911-strikers-1945-plus.json](./72911-strikers-1945-plus.json) |
 | Strikers 2020 | 118840 | [118840-strikers-2020.json](./118840-strikers-2020.json) |
 | Strikers Club | 343323 | [343323-strikers-club.json](./343323-strikers-club.json) |
+| Strikers1945: RE | 267316 | [267316-strikers1945-re.json](./267316-strikers1945-re.json) |
 | Strikewave: Nightly Underground Fighter | 349945 | [349945-strikewave-nightly-underground-fighter.json](./349945-strikewave-nightly-underground-fighter.json) |
 | Striking Wine | 372815 | [372815-striking-wine.json](./372815-striking-wine.json) |
 | Strimko | 54408 | [54408-strimko.json](./54408-strimko.json) |
