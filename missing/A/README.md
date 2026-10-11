@@ -757,6 +757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Thin Line | 28030 | [28030-a-thin-line.json](./28030-a-thin-line.json) |
 | A Thousand Mouths to Scream | 338179 | [338179-a-thousand-mouths-to-scream.json](./338179-a-thousand-mouths-to-scream.json) |
 | A thousand words that I could tell you | 257539 | [257539-a-thousand-words-that-i-could-tell-you.json](./257539-a-thousand-words-that-i-could-tell-you.json) |
+| A Thug's Ascension | 250817 | [250817-a-thugs-ascension.json](./250817-a-thugs-ascension.json) |
 | A Time of Life | 166666 | [166666-a-time-of-life.json](./166666-a-time-of-life.json) |
 | A Timeless Carol | 112305 | [112305-a-timeless-carol.json](./112305-a-timeless-carol.json) |
 | A Timeless Story | 124669 | [124669-a-timeless-story.json](./124669-a-timeless-story.json) |
@@ -7819,6 +7820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcane Shores | 343800 | [343800-arcane-shores.json](./343800-arcane-shores.json) |
 | Arcane Sorcery | 34548 | [34548-arcane-sorcery.json](./34548-arcane-sorcery.json) |
 | Arcane Soul | 193966 | [193966-arcane-soul.json](./193966-arcane-soul.json) |
+| Arcane Survivors | 250825 | [250825-arcane-survivors.json](./250825-arcane-survivors.json) |
 | Arcane TD | 307297 | [307297-arcane-td.json](./307297-arcane-td.json) |
 | Arcane Tower | 175238 | [175238-arcane-tower.json](./175238-arcane-tower.json) |
 | Arcane Tower Defense | 237077 | [237077-arcane-tower-defense.json](./237077-arcane-tower-defense.json) |
