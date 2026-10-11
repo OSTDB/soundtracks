@@ -1961,6 +1961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ViviEon | 120830 | [120830-vivieon.json](./120830-vivieon.json) |
 | Viviparous Dumpling | 354449 | [354449-viviparous-dumpling.json](./354449-viviparous-dumpling.json) |
 | Vivisection | 396584 | [396584-vivisection.json](./396584-vivisection.json) |
+| Vivitter for Nintendo Switch | 251470 | [251470-vivitter-for-nintendo-switch.json](./251470-vivitter-for-nintendo-switch.json) |
 | Vivitter: Additional Mini-game - "Hole-in-one" | 308772 | [308772-vivitter-additional-mini-game-hole-in-one.json](./308772-vivitter-additional-mini-game-hole-in-one.json) |
 | Vivitter: Additional Mini-game - "Kiss Game" | 308785 | [308785-vivitter-additional-mini-game-kiss-game.json](./308785-vivitter-additional-mini-game-kiss-game.json) |
 | Vivitter: Additional Mini-game - "Leaning Tower" | 308783 | [308783-vivitter-additional-mini-game-leaning-tower.json](./308783-vivitter-additional-mini-game-leaning-tower.json) |
