@@ -430,6 +430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BackSlap | 349318 | [349318-backslap.json](./349318-backslap.json) |
 | Backspace | 343467 | [343467-backspace.json](./343467-backspace.json) |
 | Backspace Backspace Backspace | 309500 | [309500-backspace-backspace-backspace.json](./309500-backspace-backspace-backspace.json) |
+| Backstab | 271663 | [271663-backstab.json](./271663-backstab.json) |
 | BackStab HD | 19257 | [19257-backstab-hd.json](./19257-backstab-hd.json) |
 | Backstage | 206727 | [206727-backstage.json](./206727-backstage.json) |
 | Backstage at Naked Porn Battle | 280204 | [280204-backstage-at-naked-porn-battle.json](./280204-backstage-at-naked-porn-battle.json) |
@@ -527,6 +528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Bots Battle Arena | 166699 | [166699-bad-bots-battle-arena.json](./166699-bad-bots-battle-arena.json) |
 | Bad Bots Rises | 27758 | [27758-bad-bots-rises.json](./27758-bad-bots-rises.json) |
 | Bad Boy Brother | 376758 | [376758-bad-boy-brother.json](./376758-bad-boy-brother.json) |
+| Bad Boy's Bad Day | 271664 | [271664-bad-boys-bad-day.json](./271664-bad-boys-bad-day.json) |
 | Bad Business | 118304 | [118304-bad-business.json](./118304-bad-business.json) |
 | Bad Bytes | 391826 | [391826-bad-bytes.json](./391826-bad-bytes.json) |
 | Bad Capybara | 410831 | [410831-bad-capybara.json](./410831-bad-capybara.json) |
@@ -566,6 +568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Guy Adventure | 151136 | [151136-bad-guy-adventure.json](./151136-bad-guy-adventure.json) |
 | Bad Guy: Neighborhood | 193494 | [193494-bad-guy-neighborhood.json](./193494-bad-guy-neighborhood.json) |
 | Bad Guys at School | 128352 | [128352-bad-guys-at-school.json](./128352-bad-guys-at-school.json) |
+| Bad Guys Good Boys | 271665 | [271665-bad-guys-good-boys.json](./271665-bad-guys-good-boys.json) |
 | Bad Heroes | 373206 | [373206-bad-heroes.json](./373206-bad-heroes.json) |
 | Bad Hombre | 119660 | [119660-bad-hombre.json](./119660-bad-hombre.json) |
 | Bad Hop Baseball | 235368 | [235368-bad-hop-baseball.json](./235368-bad-hop-baseball.json) |
@@ -692,6 +695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baise Lesbienne! | 206731 | [206731-baise-lesbienne.json](./206731-baise-lesbienne.json) |
 | Baitcore | 415189 | [415189-baitcore.json](./415189-baitcore.json) |
 | Bàito | 312125 | [312125-baito.json](./312125-baito.json) |
+| Baito Fight!!: Part-time Devil Hunter | 271688 | [271688-baito-fight-part-time-devil-hunter.json](./271688-baito-fight-part-time-devil-hunter.json) |
 | Baja or Bust | 259245 | [259245-baja-or-bust.json](./259245-baja-or-bust.json) |
 | Bajka | 348315 | [348315-bajka.json](./348315-bajka.json) |
 | Bajoran Mercenary Adventure! | 116807 | [116807-bajoran-mercenary-adventure.json](./116807-bajoran-mercenary-adventure.json) |
@@ -4628,6 +4632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Klondike: Classic Solitaire | 168335 | [168335-big-klondike-classic-solitaire.json](./168335-big-klondike-classic-solitaire.json) |
 | Big Klondike: FreeCell Solitaire | 289855 | [289855-big-klondike-freecell-solitaire.json](./289855-big-klondike-freecell-solitaire.json) |
 | Big Klondike: Pyramid | 275075 | [275075-big-klondike-pyramid.json](./275075-big-klondike-pyramid.json) |
+| Big Klondike: Spider Solitaire | 271666 | [271666-big-klondike-spider-solitaire.json](./271666-big-klondike-spider-solitaire.json) |
 | Big Klondike: Tri Peaks Solitaire | 277350 | [277350-big-klondike-tri-peaks-solitaire.json](./277350-big-klondike-tri-peaks-solitaire.json) |
 | Big League Slugger Baseball | 43878 | [43878-big-league-slugger-baseball.json](./43878-big-league-slugger-baseball.json) |
 | Big League Sports | 20223 | [20223-big-league-sports.json](./20223-big-league-sports.json) |
@@ -5924,6 +5929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BladeShield | 30566 | [30566-bladeshield.json](./30566-bladeshield.json) |
 | Bladesong | 254662 | [254662-bladesong.json](./254662-bladesong.json) |
 | Bladestorm: The Hundred Years' War | 6919 | [6919-bladestorm-the-hundred-years-war.json](./6919-bladestorm-the-hundred-years-war.json) |
+| Blagmoz | 271672 | [271672-blagmoz.json](./271672-blagmoz.json) |
 | Blaine Bananatree | 97458 | [97458-blaine-bananatree.json](./97458-blaine-bananatree.json) |
 | Blair Witch | 119298 | [119298-blair-witch.json](./119298-blair-witch.json) |
 | Blair Witch Volume 2: The Legend of Coffin Rock | 18490 | [18490-blair-witch-volume-2-the-legend-of-coffin-rock.json](./18490-blair-witch-volume-2-the-legend-of-coffin-rock.json) |
@@ -7541,6 +7547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bogy Men | 60206 | [60206-bogy-men.json](./60206-bogy-men.json) |
 | Bohemian Cupid | 338666 | [338666-bohemian-cupid.json](./338666-bohemian-cupid.json) |
 | Bohemian Yard | 217866 | [217866-bohemian-yard.json](./217866-bohemian-yard.json) |
+| Bohnice: Within the Mind | 271678 | [271678-bohnice-within-the-mind.json](./271678-bohnice-within-the-mind.json) |
 | Bohrdom | 112947 | [112947-bohrdom.json](./112947-bohrdom.json) |
 | Boid | 17646 | [17646-boid.json](./17646-boid.json) |
 | Boil Cabbage Make Soup | 414516 | [414516-boil-cabbage-make-soup.json](./414516-boil-cabbage-make-soup.json) |
@@ -8561,6 +8568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bounty Below | 192707 | [192707-bounty-below.json](./192707-bounty-below.json) |
 | Bounty Bob Strikes Back! | 12305 | [12305-bounty-bob-strikes-back.json](./12305-bounty-bob-strikes-back.json) |
 | Bounty Bots | 235286 | [235286-bounty-bots.json](./235286-bounty-bots.json) |
+| Bounty City: 3-Way Battle | 271649 | [271649-bounty-city-3-way-battle.json](./271649-bounty-city-3-way-battle.json) |
 | Bounty Drag Racing: Import Modified Pack 1 | 267074 | [267074-bounty-drag-racing-import-modified-pack-1.json](./267074-bounty-drag-racing-import-modified-pack-1.json) |
 | Bounty Drag Racing: Outlaw Pack 3 | 267075 | [267075-bounty-drag-racing-outlaw-pack-3.json](./267075-bounty-drag-racing-outlaw-pack-3.json) |
 | Bounty Drag Racing: Outlaw Pack 4 | 296251 | [296251-bounty-drag-racing-outlaw-pack-4.json](./296251-bounty-drag-racing-outlaw-pack-4.json) |
@@ -8689,6 +8697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Box Maze | 31758 | [31758-box-maze.json](./31758-box-maze.json) |
 | Box Maze 2: Agent Cubert | 65830 | [65830-box-maze-2-agent-cubert.json](./65830-box-maze-2-agent-cubert.json) |
 | Box Maze Extreme | 95197 | [95197-box-maze-extreme.json](./95197-box-maze-extreme.json) |
+| Box Ninja | 271648 | [271648-box-ninja.json](./271648-box-ninja.json) |
 | Box of Limes | 182996 | [182996-box-of-limes.json](./182996-box-of-limes.json) |
 | Box Office Boss | 239303 | [239303-box-office-boss.json](./239303-box-office-boss.json) |
 | Box Office Game | 319225 | [319225-box-office-game.json](./319225-box-office-game.json) |
