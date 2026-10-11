@@ -1006,6 +1006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aard and Wyzz: The rise of minions | 309102 | [309102-aard-and-wyzz-the-rise-of-minions.json](./309102-aard-and-wyzz-the-rise-of-minions.json) |
 | Aardwolf MUD | 228684 | [228684-aardwolf-mud.json](./228684-aardwolf-mud.json) |
 | Aargon Deluxe | 70984 | [70984-aargon-deluxe.json](./70984-aargon-deluxe.json) |
+| Aarik: and the Ruined Kingdom | 276707 | [276707-aarik-and-the-ruined-kingdom.json](./276707-aarik-and-the-ruined-kingdom.json) |
 | AAron | 398511 | [398511-aaron.json](./398511-aaron.json) |
 | Aaron Stone | 282238 | [282238-aaron-stone.json](./282238-aaron-stone.json) |
 | Aaron vs. Ruth: Battle of the Big Bats | 69280 | [69280-aaron-vs-ruth-battle-of-the-big-bats.json](./69280-aaron-vs-ruth-battle-of-the-big-bats.json) |
@@ -2225,6 +2226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aeon's End: The Depths | 148507 | [148507-aeons-end-the-depths.json](./148507-aeons-end-the-depths.json) |
 | Aeons Past | 223482 | [223482-aeons-past.json](./223482-aeons-past.json) |
 | Aequitas Orbis | 75064 | [75064-aequitas-orbis.json](./75064-aequitas-orbis.json) |
+| Aequor | 276752 | [276752-aequor.json](./276752-aequor.json) |
 | Aera Flying Heroes | 337796 | [337796-aera-flying-heroes.json](./337796-aera-flying-heroes.json) |
 | Aerannis | 20028 | [20028-aerannis.json](./20028-aerannis.json) |
 | Aerea | 27794 | [27794-aerea.json](./27794-aerea.json) |
@@ -2504,6 +2506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Afterlife Beans | 164979 | [164979-afterlife-beans.json](./164979-afterlife-beans.json) |
 | Afterlife Connections LLC | 307715 | [307715-afterlife-connections-llc.json](./307715-afterlife-connections-llc.json) |
 | Afterlife Harem | 316822 | [316822-afterlife-harem.json](./316822-afterlife-harem.json) |
+| Afterlife Pharmaceuticals | 276745 | [276745-afterlife-pharmaceuticals.json](./276745-afterlife-pharmaceuticals.json) |
 | Afterlife Reverie | 337799 | [337799-afterlife-reverie.json](./337799-afterlife-reverie.json) |
 | Afterlife VR | 146139 | [146139-afterlife-vr.json](./146139-afterlife-vr.json) |
 | Afterlife: Rickard's Quest | 306641 | [306641-afterlife-rickards-quest.json](./306641-afterlife-rickards-quest.json) |
