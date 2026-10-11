@@ -375,6 +375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saihate no Ima | 62736 | [62736-saihate-no-ima.json](./62736-saihate-no-ima.json) |
 | Saihate Station | 301102 | [301102-saihate-station.json](./301102-saihate-station.json) |
 | Saihate Station: Twilight Railway | 337103 | [337103-saihate-station-twilight-railway.json](./337103-saihate-station-twilight-railway.json) |
+| Saikai Sotsugyou Ryokou '98 | 263954 | [263954-saikai-sotsugyou-ryokou-98.json](./263954-saikai-sotsugyou-ryokou-98.json) |
 | Saikin Koi Shiteru? | 123410 | [123410-saikin-koi-shiteru.json](./123410-saikin-koi-shiteru.json) |
 | Saikin MMO | 306083 | [306083-saikin-mmo.json](./306083-saikin-mmo.json) |
 | Saikko-nee to Death Game | 301025 | [301025-saikko-nee-to-death-game.json](./301025-saikko-nee-to-death-game.json) |
@@ -5429,6 +5430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ship of Love | 340376 | [340376-ship-of-love.json](./340376-ship-of-love.json) |
 | Ship of the Line | 73845 | [73845-ship-of-the-line.json](./73845-ship-of-the-line.json) |
 | Ship on Wheels | 311574 | [311574-ship-on-wheels.json](./311574-ship-on-wheels.json) |
+| Ship Regulus | 263970 | [263970-ship-regulus.json](./263970-ship-regulus.json) |
 | Ship Shape | 263590 | [263590-ship-shape.json](./263590-ship-shape.json) |
 | Ship Sim 2020 | 146819 | [146819-ship-sim-2020.json](./146819-ship-sim-2020.json) |
 | Ship Simulator | 327584 | [327584-ship-simulator.json](./327584-ship-simulator.json) |
@@ -5645,6 +5647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shoot Bubble Deluxe | 312882 | [312882-shoot-bubble-deluxe.json](./312882-shoot-bubble-deluxe.json) |
 | Shoot Coin Yen: Exchange Puzzle | 227495 | [227495-shoot-coin-yen-exchange-puzzle.json](./227495-shoot-coin-yen-exchange-puzzle.json) |
 | Shoot Defense 3D | 220059 | [220059-shoot-defense-3d.json](./220059-shoot-defense-3d.json) |
+| Shoot For Fun's Sake | 263960 | [263960-shoot-for-funs-sake.json](./263960-shoot-for-funs-sake.json) |
 | Shoot For The Stars | 335902 | [335902-shoot-for-the-stars.json](./335902-shoot-for-the-stars.json) |
 | Shoot Giant Robots and Wallrun | 293688 | [293688-shoot-giant-robots-and-wallrun.json](./293688-shoot-giant-robots-and-wallrun.json) |
 | Shoot Girl | 113022 | [113022-shoot-girl.json](./113022-shoot-girl.json) |
@@ -11504,6 +11507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sotidrokhima | 226396 | [226396-sotidrokhima.json](./226396-sotidrokhima.json) |
 | Soto Nemuri | 229671 | [229671-soto-nemuri.json](./229671-soto-nemuri.json) |
 | Sotsugyou Crossworld | 108838 | [108838-sotsugyou-crossworld.json](./108838-sotsugyou-crossworld.json) |
+| Sotsugyou Ryokou | 263955 | [263955-sotsugyou-ryokou.json](./263955-sotsugyou-ryokou.json) |
 | Sotsugyou: Graduation | 242774 | [242774-sotsugyou-graduation.json](./242774-sotsugyou-graduation.json) |
 | Sotsugyou: Graduation - Final | 268543 | [268543-sotsugyou-graduation-final.json](./268543-sotsugyou-graduation-final.json) |
 | Sottaku | 388986 | [388986-sottaku.json](./388986-sottaku.json) |
@@ -19924,6 +19928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Bros. 3 | 158723 | [158723-super-mario-bros-3.json](./158723-super-mario-bros-3.json) |
 | Super Mario Bros. 3 | 270351 | [270351-super-mario-bros-3.json](./270351-super-mario-bros-3.json) |
 | Super Mario Bros. 3 Advance | 322002 | [322002-super-mario-bros-3-advance.json](./322002-super-mario-bros-3-advance.json) |
+| Super Mario Bros. 3 Alpha | 263935 | [263935-super-mario-bros-3-alpha.json](./263935-super-mario-bros-3-alpha.json) |
 | Super Mario Bros. 3 Game Watch | 172539 | [172539-super-mario-bros-3-game-watch.json](./172539-super-mario-bros-3-game-watch.json) |
 | Super Mario Bros. 3: The Lost Levels | 239902 | [239902-super-mario-bros-3-the-lost-levels.json](./239902-super-mario-bros-3-the-lost-levels.json) |
 | Super Mario Bros. 3: Xmas Edition | 290333 | [290333-super-mario-bros-3-xmas-edition.json](./290333-super-mario-bros-3-xmas-edition.json) |
