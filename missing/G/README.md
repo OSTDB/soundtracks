@@ -656,6 +656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gallop Racer Online | 310712 | [310712-gallop-racer-online.json](./310712-gallop-racer-online.json) |
 | Gallows | 95186 | [95186-gallows.json](./95186-gallows.json) |
 | Gallows Choice | 108052 | [108052-gallows-choice.json](./108052-gallows-choice.json) |
+| GallowsHill | 265529 | [265529-gallowshill.json](./265529-gallowshill.json) |
 | Galmedes | 40147 | [40147-galmedes.json](./40147-galmedes.json) |
 | Galosphere | 341045 | [341045-galosphere.json](./341045-galosphere.json) |
 | Galppo Club | 92132 | [92132-galppo-club.json](./92132-galppo-club.json) |
