@@ -121,6 +121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naki no Ryuu: Mahjong Hishou-den | 37912 | [37912-naki-no-ryuu-mahjong-hishou-den.json](./37912-naki-no-ryuu-mahjong-hishou-den.json) |
 | Nakiti Generations | 31762 | [31762-nakiti-generations.json](./31762-nakiti-generations.json) |
 | Nakoruru: Anohito kara no Okurimono | 57624 | [57624-nakoruru-anohito-kara-no-okurimono.json](./57624-nakoruru-anohito-kara-no-okurimono.json) |
+| Nakwon: Last Paradise | 266732 | [266732-nakwon-last-paradise.json](./266732-nakwon-last-paradise.json) |
 | Nalogi 2 | 96899 | [96899-nalogi-2.json](./96899-nalogi-2.json) |
 | Nam-1975 | 95471 | [95471-nam-1975.json](./95471-nam-1975.json) |
 | Nama Chuukei 68 | 98256 | [98256-nama-chuukei-68.json](./98256-nama-chuukei-68.json) |
@@ -1434,7 +1435,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neo Planet | 61574 | [61574-neo-planet.json](./61574-neo-planet.json) |
 | Neo Racing Genesis | 305747 | [305747-neo-racing-genesis.json](./305747-neo-racing-genesis.json) |
 | NEO Scavenger | 8756 | [8756-neo-scavenger.json](./8756-neo-scavenger.json) |
+| Neo Sonic 2 | 266707 | [266707-neo-sonic-2.json](./266707-neo-sonic-2.json) |
+| Neo Sonic 3 | 266706 | [266706-neo-sonic-3.json](./266706-neo-sonic-3.json) |
 | Neo Sonic Universe | 299876 | [299876-neo-sonic-universe.json](./299876-neo-sonic-universe.json) |
+| Neo Sonic: God Speed 2 | 266704 | [266704-neo-sonic-god-speed-2.json](./266704-neo-sonic-god-speed-2.json) |
 | Neo Spectrum | 179998 | [179998-neo-spectrum.json](./179998-neo-spectrum.json) |
 | Neo Static | 336607 | [336607-neo-static.json](./336607-neo-static.json) |
 | Neo Steam: The Shattered Continent | 51198 | [51198-neo-steam-the-shattered-continent.json](./51198-neo-steam-the-shattered-continent.json) |
