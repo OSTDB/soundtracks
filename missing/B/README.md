@@ -10243,6 +10243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bud Spencer & Terence Hill: Slaps and Beans 2 | 244901 | [244901-bud-spencer-and-terence-hill-slaps-and-beans-2.json](./244901-bud-spencer-and-terence-hill-slaps-and-beans-2.json) |
 | Bud Tucker in Double Trouble | 19240 | [19240-bud-tucker-in-double-trouble.json](./19240-bud-tucker-in-double-trouble.json) |
 | Buddha Finger | 22188 | [22188-buddha-finger.json](./22188-buddha-finger.json) |
+| Buddhagillie | 268400 | [268400-buddhagillie.json](./268400-buddhagillie.json) |
 | Buddi Bot: Your Machine Learning AI Helper With Advanced Neural Networking! | 166720 | [166720-buddi-bot-your-machine-learning-ai-helper-with-advanced-neural-networking.json](./166720-buddi-bot-your-machine-learning-ai-helper-with-advanced-neural-networking.json) |
 | Buddies in a Ball | 349905 | [349905-buddies-in-a-ball.json](./349905-buddies-in-a-ball.json) |
 | Budding Destiny | 316649 | [316649-budding-destiny.json](./316649-budding-destiny.json) |
