@@ -4568,6 +4568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chip Buster | 13703 | [13703-chip-buster.json](./13703-chip-buster.json) |
 | Chip McCallahan in Sonic the Hedgehog 2 | 323860 | [323860-chip-mccallahan-in-sonic-the-hedgehog-2.json](./323860-chip-mccallahan-in-sonic-the-hedgehog-2.json) |
 | Chip Off the Ol' Stumbling Block | 221108 | [221108-chip-off-the-ol-stumbling-block.json](./221108-chip-off-the-ol-stumbling-block.json) |
+| Chip-8 Emulator | 252650 | [252650-chip-8-emulator.json](./252650-chip-8-emulator.json) |
 | Chip-Boi | 177954 | [177954-chip-boi.json](./177954-chip-boi.json) |
 | Chip-chan Kick! | 45961 | [45961-chip-chan-kick.json](./45961-chip-chan-kick.json) |
 | Chip's Challenge | 282555 | [282555-chips-challenge.json](./282555-chips-challenge.json) |
@@ -7852,6 +7853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Command Ops: Battles for Greece | 74324 | [74324-command-ops-battles-for-greece.json](./74324-command-ops-battles-for-greece.json) |
 | Command Ops: Highway to the Reich | 63093 | [63093-command-ops-highway-to-the-reich.json](./63093-command-ops-highway-to-the-reich.json) |
 | Command Thousands Troops | 391144 | [391144-command-thousands-troops.json](./391144-command-thousands-troops.json) |
+| Command War : Super Special Battle & War Game | 252637 | [252637-command-war-super-special-battle-and-war-game.json](./252637-command-war-super-special-battle-and-war-game.json) |
 | Command-Ω Omega | 357814 | [357814-command-omega.json](./357814-command-omega.json) |
 | Command: Aces of the Deep | 72276 | [72276-command-aces-of-the-deep.json](./72276-command-aces-of-the-deep.json) |
 | Command: Modern Air / Naval Operations | 79974 | [79974-command-modern-air-naval-operations.json](./79974-command-modern-air-naval-operations.json) |
