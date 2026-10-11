@@ -947,6 +947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Canyon Watch | 266264 | [266264-canyon-watch.json](./266264-canyon-watch.json) |
 | CanYouSurvive? | 104159 | [104159-canyousurvive.json](./104159-canyousurvive.json) |
 | CanYouTilt | 41488 | [41488-canyoutilt.json](./41488-canyoutilt.json) |
+| Caona | 247380 | [247380-caona.json](./247380-caona.json) |
 | Cap'n Carnage | 14374 | [14374-capn-carnage.json](./14374-capn-carnage.json) |
 | Cap'n Magneto | 344336 | [344336-capn-magneto.json](./344336-capn-magneto.json) |
 | Cap'n Marcela's Winter Wonderland | 310543 | [310543-capn-marcelas-winter-wonderland.json](./310543-capn-marcelas-winter-wonderland.json) |
@@ -2087,6 +2088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle of Deceit | 7779 | [7779-castle-of-deceit.json](./7779-castle-of-deceit.json) |
 | Castle of Doom | 215380 | [215380-castle-of-doom.json](./215380-castle-of-doom.json) |
 | Castle of Dr. Brain | 7722 | [7722-castle-of-dr-brain.json](./7722-castle-of-dr-brain.json) |
+| Castle of Dracula | 247393 | [247393-castle-of-dracula.json](./247393-castle-of-dracula.json) |
 | Castle of Dragon | 18832 | [18832-castle-of-dragon.json](./18832-castle-of-dragon.json) |
 | Castle of Elite | 125406 | [125406-castle-of-elite.json](./125406-castle-of-elite.json) |
 | Castle of Full Moon | 213985 | [213985-castle-of-full-moon.json](./213985-castle-of-full-moon.json) |
@@ -3391,6 +3393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chamber Shift | 393536 | [393536-chamber-shift.json](./393536-chamber-shift.json) |
 | Chamber Survival | 298692 | [298692-chamber-survival.json](./298692-chamber-survival.json) |
 | Chamber.Repeat(); | 186053 | [186053-chamber-repeat.json](./186053-chamber-repeat.json) |
+| Chamberbound | 247363 | [247363-chamberbound.json](./247363-chamberbound.json) |
 | Chambered | 385381 | [385381-chambered.json](./385381-chambered.json) |
 | Chambered | 40708 | [40708-chambered.json](./40708-chambered.json) |
 | Chamberflame | 275540 | [275540-chamberflame.json](./275540-chamberflame.json) |
@@ -4481,6 +4484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chilled Chicken | 262421 | [262421-chilled-chicken.json](./262421-chilled-chicken.json) |
 | Chiller | 11727 | [11727-chiller.json](./11727-chiller.json) |
 | Chiller | 229644 | [229644-chiller.json](./229644-chiller.json) |
+| Chiller | 247378 | [247378-chiller.json](./247378-chiller.json) |
 | Chilli Con Valley | 187200 | [187200-chilli-con-valley.json](./187200-chilli-con-valley.json) |
 | Chillin' | 308265 | [308265-chillin.json](./308265-chillin.json) |
 | Chilling Urban Legends | 409670 | [409670-chilling-urban-legends.json](./409670-chilling-urban-legends.json) |
@@ -5209,6 +5213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chrysanthemum: On the Way to Sweet Dreams | 391235 | [391235-chrysanthemum-on-the-way-to-sweet-dreams.json](./391235-chrysanthemum-on-the-way-to-sweet-dreams.json) |
 | Chrysler Classic Racing | 51042 | [51042-chrysler-classic-racing.json](./51042-chrysler-classic-racing.json) |
 | Chthonian TD | 406144 | [406144-chthonian-td.json](./406144-chthonian-td.json) |
+| Chu Da D | 247391 | [247391-chu-da-d.json](./247391-chu-da-d.json) |
 | Chu x Chu Idol | 321408 | [321408-chu-x-chu-idol.json](./321408-chu-x-chu-idol.json) |
 | Chu!! Karate Uranai Voxel | 407442 | [407442-chu-karate-uranai-voxel.json](./407442-chu-karate-uranai-voxel.json) |
 | Chu's Dynasty | 66164 | [66164-chus-dynasty.json](./66164-chus-dynasty.json) |
@@ -6881,6 +6886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Codename Cure | 35653 | [35653-codename-cure.json](./35653-codename-cure.json) |
 | Codename Cygnus | 63001 | [63001-codename-cygnus.json](./63001-codename-cygnus.json) |
 | Codename Eagle | 344 | [344-codename-eagle.json](./344-codename-eagle.json) |
+| Codename Jin Yiwei | 247379 | [247379-codename-jin-yiwei.json](./247379-codename-jin-yiwei.json) |
 | Codename Kids Next Door: Operation B.E.S.T. | 342736 | [342736-codename-kids-next-door-operation-b-e-s-t.json](./342736-codename-kids-next-door-operation-b-e-s-t.json) |
 | Codename Kids Next Door: Tummy Trouble | 349934 | [349934-codename-kids-next-door-tummy-trouble.json](./349934-codename-kids-next-door-tummy-trouble.json) |
 | Codename Madruga | 252897 | [252897-codename-madruga.json](./252897-codename-madruga.json) |
@@ -7912,6 +7918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Commander: Europe at War | 324929 | [324929-commander-europe-at-war.json](./324929-commander-europe-at-war.json) |
 | Commander: Modern War | 234017 | [234017-commander-modern-war.json](./234017-commander-modern-war.json) |
 | Commander: The Great War | 17607 | [17607-commander-the-great-war.json](./17607-commander-the-great-war.json) |
+| Commander: World War II | 247417 | [247417-commander-world-war-ii.json](./247417-commander-world-war-ii.json) |
 | Commander: Zombie Wars | 258969 | [258969-commander-zombie-wars.json](./258969-commander-zombie-wars.json) |
 | Commander.io | 208914 | [208914-commander-io.json](./208914-commander-io.json) |
 | Commanders of the Void | 379872 | [379872-commanders-of-the-void.json](./379872-commanders-of-the-void.json) |
@@ -12210,6 +12217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursed Fables: A Voice to Die For - Collector's Edition | 260422 | [260422-cursed-fables-a-voice-to-die-for-collectors-edition.json](./260422-cursed-fables-a-voice-to-die-for-collectors-edition.json) |
 | Cursed Fables: Before the Clock Strikes | 318568 | [318568-cursed-fables-before-the-clock-strikes.json](./318568-cursed-fables-before-the-clock-strikes.json) |
 | Cursed Fables: Before the Clock Strikes - Collector's Edition | 362841 | [362841-cursed-fables-before-the-clock-strikes-collectors-edition.json](./362841-cursed-fables-before-the-clock-strikes-collectors-edition.json) |
+| Cursed Fables: Twisted Tower | 247419 | [247419-cursed-fables-twisted-tower.json](./247419-cursed-fables-twisted-tower.json) |
 | Cursed Fables: Twisted Tower - Collector's Edition | 236203 | [236203-cursed-fables-twisted-tower-collectors-edition.json](./236203-cursed-fables-twisted-tower-collectors-edition.json) |
 | Cursed Gun | 396895 | [396895-cursed-gun.json](./396895-cursed-gun.json) |
 | Cursed Halls | 244217 | [244217-cursed-halls.json](./244217-cursed-halls.json) |
