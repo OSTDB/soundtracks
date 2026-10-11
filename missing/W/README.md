@@ -3997,6 +3997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wishseeker | 415089 | [415089-wishseeker.json](./415089-wishseeker.json) |
 | Wishy Washy | 133163 | [133163-wishy-washy.json](./133163-wishy-washy.json) |
 | Wisly and the Chickens! | 165508 | [165508-wisly-and-the-chickens.json](./165508-wisly-and-the-chickens.json) |
+| Wisp Catacombs | 244690 | [244690-wisp-catacombs.json](./244690-wisp-catacombs.json) |
 | Wisp Child | 265257 | [265257-wisp-child.json](./265257-wisp-child.json) |
 | Wispera | 216825 | [216825-wispera.json](./216825-wispera.json) |
 | Wisplight | 248008 | [248008-wisplight.json](./248008-wisplight.json) |
