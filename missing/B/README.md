@@ -8769,6 +8769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Box It Up! Inc. | 306634 | [306634-box-it-up-inc.json](./306634-box-it-up-inc.json) |
 | Box Kid Adventures | 128453 | [128453-box-kid-adventures.json](./128453-box-kid-adventures.json) |
 | Box King | 337297 | [337297-box-king.json](./337297-box-king.json) |
+| Box Maker | 247396 | [247396-box-maker.json](./247396-box-maker.json) |
 | Box Maze | 31758 | [31758-box-maze.json](./31758-box-maze.json) |
 | Box Maze 2: Agent Cubert | 65830 | [65830-box-maze-2-agent-cubert.json](./65830-box-maze-2-agent-cubert.json) |
 | Box Maze Extreme | 95197 | [95197-box-maze-extreme.json](./95197-box-maze-extreme.json) |
@@ -10288,6 +10289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buccaneer | 165522 | [165522-buccaneer.json](./165522-buccaneer.json) |
 | Buccaneer Blitz | 335990 | [335990-buccaneer-blitz.json](./335990-buccaneer-blitz.json) |
 | Buccaneer's Bounty | 69825 | [69825-buccaneers-bounty.json](./69825-buccaneers-bounty.json) |
+| Buccaneers | 247389 | [247389-buccaneers.json](./247389-buccaneers.json) |
 | Buccaneers Shipshape | 203899 | [203899-buccaneers-shipshape.json](./203899-buccaneers-shipshape.json) |
 | Buciyo 5 | 307829 | [307829-buciyo-5.json](./307829-buciyo-5.json) |
 | Buck | 33521 | [33521-buck.json](./33521-buck.json) |
