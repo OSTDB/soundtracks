@@ -3218,6 +3218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master Mind | 92855 | [92855-master-mind.json](./92855-master-mind.json) |
 | Master Minesweeper | 90698 | [90698-master-minesweeper.json](./90698-master-minesweeper.json) |
 | Master Ninja | 15539 | [15539-master-ninja.json](./15539-master-ninja.json) |
+| Master Ninja: Shuriken Killer | 278330 | [278330-master-ninja-shuriken-killer.json](./278330-master-ninja-shuriken-killer.json) |
 | Master of 4 Swords | 360666 | [360666-master-of-4-swords.json](./360666-master-of-4-swords.json) |
 | Master of Alchemy - Rise of the Mechanologists | 54208 | [54208-master-of-alchemy-rise-of-the-mechanologists.json](./54208-master-of-alchemy-rise-of-the-mechanologists.json) |
 | Master of Bow | 328449 | [328449-master-of-bow.json](./328449-master-of-bow.json) |
@@ -7430,6 +7431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mind-Machine Interface | 27763 | [27763-mind-machine-interface.json](./27763-mind-machine-interface.json) |
 | Mind, Body & Soul: Nutrition Matters | 209013 | [209013-mind-body-and-soul-nutrition-matters.json](./209013-mind-body-and-soul-nutrition-matters.json) |
 | Mind: Path to Thalamus | 8876 | [8876-mind-path-to-thalamus.json](./8876-mind-path-to-thalamus.json) |
+| Mind's Descent Bundle | 278328 | [278328-minds-descent-bundle.json](./278328-minds-descent-bundle.json) |
 | Mind's Eye | 71151 | [71151-minds-eye.json](./71151-minds-eye.json) |
 | Mind's Eye Macrogolf | 361239 | [361239-minds-eye-macrogolf.json](./361239-minds-eye-macrogolf.json) |
 | Mind's Eye: Secrets of the Forgotten | 54239 | [54239-minds-eye-secrets-of-the-forgotten.json](./54239-minds-eye-secrets-of-the-forgotten.json) |
