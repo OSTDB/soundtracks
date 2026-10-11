@@ -3064,6 +3064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deck of Memories | 348344 | [348344-deck-of-memories.json](./348344-deck-of-memories.json) |
 | Deck of Souls | 252356 | [252356-deck-of-souls.json](./252356-deck-of-souls.json) |
 | Deck of Stabs | 346745 | [346745-deck-of-stabs.json](./346745-deck-of-stabs.json) |
+| Deck of the Dead | 240689 | [240689-deck-of-the-dead.json](./240689-deck-of-the-dead.json) |
 | Deck Remover | 295535 | [295535-deck-remover.json](./295535-deck-remover.json) |
 | Deck the Halls, Gieves | 371403 | [371403-deck-the-halls-gieves.json](./371403-deck-the-halls-gieves.json) |
 | Deck the Underhalls | 326803 | [326803-deck-the-underhalls.json](./326803-deck-the-underhalls.json) |
@@ -3492,6 +3493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defendo | 305438 | [305438-defendo.json](./305438-defendo.json) |
 | Defendoooooor!! | 55229 | [55229-defendoooooor.json](./55229-defendoooooor.json) |
 | Defendron | 260378 | [260378-defendron.json](./260378-defendron.json) |
+| Defendun | 240681 | [240681-defendun.json](./240681-defendun.json) |
 | Defense Cards | 267298 | [267298-defense-cards.json](./267298-defense-cards.json) |
 | Defense Clicker | 74600 | [74600-defense-clicker.json](./74600-defense-clicker.json) |
 | Defense Corp: Earth | 113168 | [113168-defense-corp-earth.json](./113168-defense-corp-earth.json) |
@@ -4932,6 +4934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil Gate | 403692 | [403692-devil-gate.json](./403692-devil-gate.json) |
 | Devil Girl Needs Massages | 111183 | [111183-devil-girl-needs-massages.json](./111183-devil-girl-needs-massages.json) |
 | Devil Hunter: Raider | 357372 | [357372-devil-hunter-raider.json](./357372-devil-hunter-raider.json) |
+| Devil Hunters | 240714 | [240714-devil-hunters.json](./240714-devil-hunters.json) |
 | Devil In My House | 311781 | [311781-devil-in-my-house.json](./311781-devil-in-my-house.json) |
 | Devil in the Details | 103959 | [103959-devil-in-the-details.json](./103959-devil-in-the-details.json) |
 | Devil in the Pines | 67598 | [67598-devil-in-the-pines.json](./67598-devil-in-the-pines.json) |
@@ -5925,6 +5928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino's Offline Adventure | 195208 | [195208-dinos-offline-adventure.json](./195208-dinos-offline-adventure.json) |
 | Dinobag's Arcade | 169749 | [169749-dinobags-arcade.json](./169749-dinobags-arcade.json) |
 | Dinoblade | 330174 | [330174-dinoblade.json](./330174-dinoblade.json) |
+| Dinobot and Tiara Present: ApplePop | 240826 | [240826-dinobot-and-tiara-present-applepop.json](./240826-dinobot-and-tiara-present-applepop.json) |
 | DinoBox | 417416 | [417416-dinobox.json](./417416-dinobox.json) |
 | Dinobreak | 264154 | [264154-dinobreak.json](./264154-dinobreak.json) |
 | Dinobreak Killer Crisis Collection | 270302 | [270302-dinobreak-killer-crisis-collection.json](./270302-dinobreak-killer-crisis-collection.json) |
@@ -11975,6 +11979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dysterra | 144573 | [144573-dysterra.json](./144573-dysterra.json) |
 | Dysthanasia | 378381 | [378381-dysthanasia.json](./378381-dysthanasia.json) |
 | Dysto-wanderer | 319016 | [319016-dysto-wanderer.json](./319016-dysto-wanderer.json) |
+| Dystobel | 240687 | [240687-dystobel.json](./240687-dystobel.json) |
 | Dystofarm | 275347 | [275347-dystofarm.json](./275347-dystofarm.json) |
 | Dystopia | 108428 | [108428-dystopia.json](./108428-dystopia.json) |
 | Dystopia RPG | 376132 | [376132-dystopia-rpg.json](./376132-dystopia-rpg.json) |
