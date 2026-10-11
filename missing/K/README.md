@@ -869,6 +869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaz Ball | 81735 | [81735-kaz-ball.json](./81735-kaz-ball.json) |
 | Kaz: Pushing the Virtual Divide | 22147 | [22147-kaz-pushing-the-virtual-divide.json](./22147-kaz-pushing-the-virtual-divide.json) |
 | Kaz's Adventure | 207768 | [207768-kazs-adventure.json](./207768-kazs-adventure.json) |
+| Kazak | 239685 | [239685-kazak.json](./239685-kazak.json) |
 | Kazakh ' Jack | 144941 | [144941-kazakh-jack.json](./144941-kazakh-jack.json) |
 | Kaze no Keishousha | 408763 | [408763-kaze-no-keishousha.json](./408763-kaze-no-keishousha.json) |
 | Kaze no Tansakusha 2: Shadow Kingdom | 270633 | [270633-kaze-no-tansakusha-2-shadow-kingdom.json](./270633-kaze-no-tansakusha-2-shadow-kingdom.json) |
