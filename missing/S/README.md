@@ -8465,6 +8465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slime vs. Mushroom 2 | 225581 | [225581-slime-vs-mushroom-2.json](./225581-slime-vs-mushroom-2.json) |
 | Slime wants music! | 232004 | [232004-slime-wants-music.json](./232004-slime-wants-music.json) |
 | Slime Warrior | 260758 | [260758-slime-warrior.json](./260758-slime-warrior.json) |
+| Slime Wars | 272219 | [272219-slime-wars.json](./272219-slime-wars.json) |
 | Slime Wars | 292544 | [292544-slime-wars.json](./292544-slime-wars.json) |
 | Slime Weapon Master | 297614 | [297614-slime-weapon-master.json](./297614-slime-weapon-master.json) |
 | Slime World | 41999 | [41999-slime-world.json](./41999-slime-world.json) |
@@ -11331,6 +11332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sophia - My Little Sis | 86824 | [86824-sophia-my-little-sis.json](./86824-sophia-my-little-sis.json) |
 | Sophia and the Mansion of Doubt | 82897 | [82897-sophia-and-the-mansion-of-doubt.json](./82897-sophia-and-the-mansion-of-doubt.json) |
 | Sophia’s Animal Clinic: Mission Wildlife Park | 380652 | [380652-sophia-s-animal-clinic-mission-wildlife-park.json](./380652-sophia-s-animal-clinic-mission-wildlife-park.json) |
+| Sophia's Spa | 272222 | [272222-sophias-spa.json](./272222-sophias-spa.json) |
 | Sophia's World | 173129 | [173129-sophias-world.json](./173129-sophias-world.json) |
 | Sophias Pizza Restaurant | 293636 | [293636-sophias-pizza-restaurant.json](./293636-sophias-pizza-restaurant.json) |
 | Sophica: Temples of Mystery | 114526 | [114526-sophica-temples-of-mystery.json](./114526-sophica-temples-of-mystery.json) |
@@ -14717,6 +14719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Staged: Open House | 397249 | [397249-staged-open-house.json](./397249-staged-open-house.json) |
 | Stagehand Survival Simulator | 239733 | [239733-stagehand-survival-simulator.json](./239733-stagehand-survival-simulator.json) |
 | Stagehand: A Reverse Platformer | 97306 | [97306-stagehand-a-reverse-platformer.json](./97306-stagehand-a-reverse-platformer.json) |
+| Stagelands: Eternal Defense | 272232 | [272232-stagelands-eternal-defense.json](./272232-stagelands-eternal-defense.json) |
 | Stages of Life | 250397 | [250397-stages-of-life.json](./250397-stages-of-life.json) |
 | StageTime | 334255 | [334255-stagetime.json](./334255-stagetime.json) |
 | Stagger 1 | 40250 | [40250-stagger-1.json](./40250-stagger-1.json) |
@@ -16545,6 +16548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stellaris: Toxoids Species Pack | 223546 | [223546-stellaris-toxoids-species-pack.json](./223546-stellaris-toxoids-species-pack.json) |
 | Stellarons Superstars: Detectives of the Scarlet Horizons | 300838 | [300838-stellarons-superstars-detectives-of-the-scarlet-horizons.json](./300838-stellarons-superstars-detectives-of-the-scarlet-horizons.json) |
 | StellarPlans | 295334 | [295334-stellarplans.json](./295334-stellarplans.json) |
+| Stellarune | 272221 | [272221-stellarune.json](./272221-stellarune.json) |
 | Stellifier | 317018 | [317018-stellifier.json](./317018-stellifier.json) |
 | Stellights | 102102 | [102102-stellights.json](./102102-stellights.json) |
 | Stellona | 152861 | [152861-stellona.json](./152861-stellona.json) |
@@ -17643,6 +17647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Streetdance 3D | 9466 | [9466-streetdance-3d.json](./9466-streetdance-3d.json) |
 | Streetdog BMX | 280252 | [280252-streetdog-bmx.json](./280252-streetdog-bmx.json) |
 | Streetkix Freestyle | 52865 | [52865-streetkix-freestyle.json](./52865-streetkix-freestyle.json) |
+| Streetoir | 272226 | [272226-streetoir.json](./272226-streetoir.json) |
 | Streets of Fear | 351754 | [351754-streets-of-fear.json](./351754-streets-of-fear.json) |
 | Streets of Fortuna | 305186 | [305186-streets-of-fortuna.json](./305186-streets-of-fortuna.json) |
 | Streets of Fury EX | 20151 | [20151-streets-of-fury-ex.json](./20151-streets-of-fury-ex.json) |
