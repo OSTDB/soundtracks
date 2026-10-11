@@ -2575,6 +2575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lewd & Nude: Anime Collector | 368112 | [368112-lewd-and-nude-anime-collector.json](./368112-lewd-and-nude-anime-collector.json) |
 | Lewd Anime Racing | 235725 | [235725-lewd-anime-racing.json](./235725-lewd-anime-racing.json) |
 | Lewd Beach | 367201 | [367201-lewd-beach.json](./367201-lewd-beach.json) |
+| Lewd Cell | 274970 | [274970-lewd-cell.json](./274970-lewd-cell.json) |
 | Lewd Delivery | 235352 | [235352-lewd-delivery.json](./235352-lewd-delivery.json) |
 | Lewd Guest | 215643 | [215643-lewd-guest.json](./215643-lewd-guest.json) |
 | Lewd Gym | 207337 | [207337-lewd-gym.json](./207337-lewd-gym.json) |
@@ -4142,6 +4143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lobster Bay | 42145 | [42145-lobster-bay.json](./42145-lobster-bay.json) |
 | Lobster Empire | 52769 | [52769-lobster-empire.json](./52769-lobster-empire.json) |
 | Lobster Game | 190469 | [190469-lobster-game.json](./190469-lobster-game.json) |
+| Loca Deserta: Odesa | 274925 | [274925-loca-deserta-odesa.json](./274925-loca-deserta-odesa.json) |
 | Loca-Love My Commuting Crush | 120792 | [120792-loca-love-my-commuting-crush.json](./120792-loca-love-my-commuting-crush.json) |
 | Loca-Love My Cute Roommate | 110774 | [110774-loca-love-my-cute-roommate.json](./110774-loca-love-my-cute-roommate.json) |
 | Loca-Love: My Pure Priestess | 146302 | [146302-loca-love-my-pure-priestess.json](./146302-loca-love-my-pure-priestess.json) |
