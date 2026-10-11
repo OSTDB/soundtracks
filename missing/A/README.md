@@ -8922,6 +8922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | As Above AtumRa So Below | 235772 | [235772-as-above-atumra-so-below.json](./235772-as-above-atumra-so-below.json) |
 | As Aventuras da Abelhinha Maya | 273877 | [273877-as-aventuras-da-abelhinha-maya.json](./273877-as-aventuras-da-abelhinha-maya.json) |
 | As Aventuras de Kiwi | 306710 | [306710-as-aventuras-de-kiwi.json](./306710-as-aventuras-de-kiwi.json) |
+| As Aventuras de Zé Baldinho | 252049 | [252049-as-aventuras-de-ze-baldinho.json](./252049-as-aventuras-de-ze-baldinho.json) |
 | As Cold as the Grave | 176924 | [176924-as-cold-as-the-grave.json](./176924-as-cold-as-the-grave.json) |
 | As Crônicas de Mar Céu | 247988 | [247988-as-cronicas-de-mar-ceu.json](./247988-as-cronicas-de-mar-ceu.json) |
 | As Far as the Eye | 129107 | [129107-as-far-as-the-eye.json](./129107-as-far-as-the-eye.json) |
@@ -8951,6 +8952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ascape | 229046 | [229046-ascape.json](./229046-ascape.json) |
 | Ascend | 120794 | [120794-ascend.json](./120794-ascend.json) |
 | Ascend From Nine Mountains | 374310 | [374310-ascend-from-nine-mountains.json](./374310-ascend-from-nine-mountains.json) |
+| Ascend of Arlo | 252011 | [252011-ascend-of-arlo.json](./252011-ascend-of-arlo.json) |
 | Ascend to Zero | 316425 | [316425-ascend-to-zero.json](./316425-ascend-to-zero.json) |
 | Ascendance | 117530 | [117530-ascendance.json](./117530-ascendance.json) |
 | Ascendance | 178456 | [178456-ascendance.json](./178456-ascendance.json) |
