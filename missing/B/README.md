@@ -4518,6 +4518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Ballers VR | 277509 | [277509-big-ballers-vr.json](./277509-big-ballers-vr.json) |
 | Big Balls | 387701 | [387701-big-balls.json](./387701-big-balls.json) |
 | Big Band Survivors | 374786 | [374786-big-band-survivors.json](./374786-big-band-survivors.json) |
+| Big Bang | 263386 | [263386-big-bang.json](./263386-big-bang.json) |
 | Big Bang Billiards | 75819 | [75819-big-bang-billiards.json](./75819-big-bang-billiards.json) |
 | Big Bang Board Games | 78654 | [78654-big-bang-board-games.json](./78654-big-bang-board-games.json) |
 | Big Bang Brain Games | 84461 | [84461-big-bang-brain-games.json](./84461-big-bang-brain-games.json) |
@@ -6773,6 +6774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood Expedition | 384638 | [384638-blood-expedition.json](./384638-blood-expedition.json) |
 | Blood Field | 153932 | [153932-blood-field.json](./153932-blood-field.json) |
 | Blood Fighter Round Battle | 417707 | [417707-blood-fighter-round-battle.json](./417707-blood-fighter-round-battle.json) |
+| Blood Flows Where My Shotgun Blows | 263405 | [263405-blood-flows-where-my-shotgun-blows.json](./263405-blood-flows-where-my-shotgun-blows.json) |
 | Blood for Poppies | 165531 | [165531-blood-for-poppies.json](./165531-blood-for-poppies.json) |
 | Blood for the Queen | 383070 | [383070-blood-for-the-queen.json](./383070-blood-for-the-queen.json) |
 | Blood for the Throne | 370202 | [370202-blood-for-the-throne.json](./370202-blood-for-the-throne.json) |
@@ -6839,6 +6841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood On The Streets | 284012 | [284012-blood-on-the-streets.json](./284012-blood-on-the-streets.json) |
 | Blood On The Thames | 293105 | [293105-blood-on-the-thames.json](./293105-blood-on-the-thames.json) |
 | Blood Opera Crescendo | 120693 | [120693-blood-opera-crescendo.json](./120693-blood-opera-crescendo.json) |
+| Blood Orange | 263377 | [263377-blood-orange.json](./263377-blood-orange.json) |
 | Blood Orange: Definitive Edition | 273369 | [273369-blood-orange-definitive-edition.json](./273369-blood-orange-definitive-edition.json) |
 | Blood Pact | 239873 | [239873-blood-pact.json](./239873-blood-pact.json) |
 | Blood Pact: Premium Edition | 239876 | [239876-blood-pact-premium-edition.json](./239876-blood-pact-premium-edition.json) |
@@ -9887,6 +9890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brotherhood | 275114 | [275114-brotherhood.json](./275114-brotherhood.json) |
 | Brotherhood of Pain | 388937 | [388937-brotherhood-of-pain.json](./388937-brotherhood-of-pain.json) |
 | Brotherhood of Ruin 2024: Element Temple Research Complex | 311464 | [311464-brotherhood-of-ruin-2024-element-temple-research-complex.json](./311464-brotherhood-of-ruin-2024-element-temple-research-complex.json) |
+| Brotherhood of Ruin: The Lost Temple | 263426 | [263426-brotherhood-of-ruin-the-lost-temple.json](./263426-brotherhood-of-ruin-the-lost-temple.json) |
 | Brotherhood of Violence II | 89517 | [89517-brotherhood-of-violence-ii.json](./89517-brotherhood-of-violence-ii.json) |
 | Brothers | 193446 | [193446-brothers.json](./193446-brothers.json) |
 | Brothers Conflict: Brilliant Blue | 45991 | [45991-brothers-conflict-brilliant-blue.json](./45991-brothers-conflict-brilliant-blue.json) |
