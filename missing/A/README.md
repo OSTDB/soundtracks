@@ -1033,6 +1033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abab | 311802 | [311802-abab.json](./311802-abab.json) |
 | Abacus Finch | 143967 | [143967-abacus-finch.json](./143967-abacus-finch.json) |
 | Abaddon | 305287 | [305287-abaddon.json](./305287-abaddon.json) |
+| Abaddon's Veil | 255600 | [255600-abaddons-veil.json](./255600-abaddons-veil.json) |
 | Abadox: The Deadly Inner War | 7903 | [7903-abadox-the-deadly-inner-war.json](./7903-abadox-the-deadly-inner-war.json) |
 | AbalaBurn | 43819 | [43819-abalaburn.json](./43819-abalaburn.json) |
 | Abalone | 9939 | [9939-abalone.json](./9939-abalone.json) |
@@ -6826,6 +6827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aoi Umi no Tristia: Hatsumei Koubou Funtou ki | 407995 | [407995-aoi-umi-no-tristia-hatsumei-koubou-funtou-ki.json](./407995-aoi-umi-no-tristia-hatsumei-koubou-funtou-ki.json) |
 | Aoi Umi no Tristia: Nanoca Flanka Hatsumei Koubou ki | 68255 | [68255-aoi-umi-no-tristia-nanoca-flanka-hatsumei-koubou-ki.json](./68255-aoi-umi-no-tristia-nanoca-flanka-hatsumei-koubou-ki.json) |
 | Aoitenryuu: The Arcade | 68258 | [68258-aoitenryuu-the-arcade.json](./68258-aoitenryuu-the-arcade.json) |
+| Aojuji Hospital: Tokyo Eidolic Anatomy Division | 255596 | [255596-aojuji-hospital-tokyo-eidolic-anatomy-division.json](./255596-aojuji-hospital-tokyo-eidolic-anatomy-division.json) |
 | Aokana: Four Rhythms Across the Blue | 54630 | [54630-aokana-four-rhythms-across-the-blue.json](./54630-aokana-four-rhythms-across-the-blue.json) |
 | Aokana: Four Rhythms Across the Blue Extra1 | 124028 | [124028-aokana-four-rhythms-across-the-blue-extra1.json](./124028-aokana-four-rhythms-across-the-blue-extra1.json) |
 | Aoki Densetsu Shoot! | 228474 | [228474-aoki-densetsu-shoot.json](./228474-aoki-densetsu-shoot.json) |
@@ -9950,6 +9952,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atari Collection 1 | 130813 | [130813-atari-collection-1.json](./130813-atari-collection-1.json) |
 | Atari Collection 2 | 130814 | [130814-atari-collection-2.json](./130814-atari-collection-2.json) |
 | Atari Collection: Brettspiele | 70357 | [70357-atari-collection-brettspiele.json](./70357-atari-collection-brettspiele.json) |
+| Atari Collection: Racing | 255608 | [255608-atari-collection-racing.json](./255608-atari-collection-racing.json) |
+| Atari Collection: Strategie | 255607 | [255607-atari-collection-strategie.json](./255607-atari-collection-strategie.json) |
 | Atari Couchcade | 304235 | [304235-atari-couchcade.json](./304235-atari-couchcade.json) |
 | Atari Flashback | 245961 | [245961-atari-flashback.json](./245961-atari-flashback.json) |
 | Atari Flashback 2 | 245962 | [245962-atari-flashback-2.json](./245962-atari-flashback-2.json) |
