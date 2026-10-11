@@ -3383,6 +3383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Champion Soccer | 6092 | [6092-champion-soccer.json](./6092-champion-soccer.json) |
 | Champion Strike: Hero Clash | 221645 | [221645-champion-strike-hero-clash.json](./221645-champion-strike-hero-clash.json) |
 | Champion Tennis | 6093 | [6093-champion-tennis.json](./6093-champion-tennis.json) |
+| Champions | 278368 | [278368-champions.json](./278368-champions.json) |
 | Champions and Challengers | 174739 | [174739-champions-and-challengers.json](./174739-champions-and-challengers.json) |
 | Champions Arena | 296218 | [296218-champions-arena.json](./296218-champions-arena.json) |
 | Champions of Aerial | 75429 | [75429-champions-of-aerial.json](./75429-champions-of-aerial.json) |
