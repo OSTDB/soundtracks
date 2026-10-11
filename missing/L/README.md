@@ -5159,6 +5159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost My Collection of Fish 2 | 387626 | [387626-lost-my-collection-of-fish-2.json](./387626-lost-my-collection-of-fish-2.json) |
 | Lost Nomad | 297630 | [297630-lost-nomad.json](./297630-lost-nomad.json) |
 | Lost Oasis | 334099 | [334099-lost-oasis.json](./334099-lost-oasis.json) |
+| Lost Oath | 260600 | [260600-lost-oath.json](./260600-lost-oath.json) |
 | Lost Oddies | 243097 | [243097-lost-oddies.json](./243097-lost-oddies.json) |
 | Lost Odyssey: Seeker of the Deep! | 120313 | [120313-lost-odyssey-seeker-of-the-deep.json](./120313-lost-odyssey-seeker-of-the-deep.json) |
 | Lost Orbit: Terminal Velocity | 120185 | [120185-lost-orbit-terminal-velocity.json](./120185-lost-orbit-terminal-velocity.json) |
