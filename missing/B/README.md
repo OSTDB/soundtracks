@@ -2924,6 +2924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bayern Munich Club Football | 267885 | [267885-bayern-munich-club-football.json](./267885-bayern-munich-club-football.json) |
 | Bayern Munich Club Football 2005 | 267901 | [267901-bayern-munich-club-football-2005.json](./267901-bayern-munich-club-football-2005.json) |
 | Bayla Bunny | 32833 | [32833-bayla-bunny.json](./32833-bayla-bunny.json) |
+| Bayoen Syokin Sougaku 50,000 Yen Sohdatsu Quiz | 239569 | [239569-bayoen-syokin-sougaku-50-000-yen-sohdatsu-quiz.json](./239569-bayoen-syokin-sougaku-50-000-yen-sohdatsu-quiz.json) |
 | Bayonetta 2 | 279336 | [279336-bayonetta-2.json](./279336-bayonetta-2.json) |
 | Bayonetta 2: Bonus Edition | 51154 | [51154-bayonetta-2-bonus-edition.json](./51154-bayonetta-2-bonus-edition.json) |
 | Bayonetta 2: First Print Edition | 51187 | [51187-bayonetta-2-first-print-edition.json](./51187-bayonetta-2-first-print-edition.json) |
@@ -3734,6 +3735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Before I Forget | 122372 | [122372-before-i-forget.json](./122372-before-i-forget.json) |
 | Before I Go | 283988 | [283988-before-i-go.json](./283988-before-i-go.json) |
 | Before Nightfall | 271311 | [271311-before-nightfall.json](./271311-before-nightfall.json) |
+| Before Resignation | 239688 | [239688-before-resignation.json](./239688-before-resignation.json) |
 | Before the Battery's Over | 148986 | [148986-before-the-batterys-over.json](./148986-before-the-batterys-over.json) |
 | Before the Blood | 93790 | [93790-before-the-blood.json](./93790-before-the-blood.json) |
 | Before the Dawn | 235362 | [235362-before-the-dawn.json](./235362-before-the-dawn.json) |
@@ -7081,6 +7083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloody Heck | 261548 | [261548-bloody-heck.json](./261548-bloody-heck.json) |
 | Bloody Hell | 213501 | [213501-bloody-hell.json](./213501-bloody-hell.json) |
 | Bloody Hills | 258378 | [258378-bloody-hills.json](./258378-bloody-hills.json) |
+| Bloody Horror Plant | 239684 | [239684-bloody-horror-plant.json](./239684-bloody-horror-plant.json) |
 | Bloody Layne | 174794 | [174794-bloody-layne.json](./174794-bloody-layne.json) |
 | Bloody Mary's Mansion | 90225 | [90225-bloody-marys-mansion.json](./90225-bloody-marys-mansion.json) |
 | Bloody Merc | 152814 | [152814-bloody-merc.json](./152814-bloody-merc.json) |
