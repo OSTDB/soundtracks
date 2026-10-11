@@ -1512,6 +1512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haters, kill them all! | 86540 | [86540-haters-kill-them-all.json](./86540-haters-kill-them-all.json) |
 | Hatetris | 280702 | [280702-hatetris.json](./280702-hatetris.json) |
 | Hatfall | 11818 | [11818-hatfall.json](./11818-hatfall.json) |
+| HatLand | 247970 | [247970-hatland.json](./247970-hatland.json) |
 | Hatland Adventures | 35818 | [35818-hatland-adventures.json](./35818-hatland-adventures.json) |
 | HatMania | 223388 | [223388-hatmania.json](./223388-hatmania.json) |
 | Hatomo Battles the Yomi Demons | 281316 | [281316-hatomo-battles-the-yomi-demons.json](./281316-hatomo-battles-the-yomi-demons.json) |
@@ -2988,6 +2989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Balls 3D: Sexy Girls | 390497 | [390497-hentai-balls-3d-sexy-girls.json](./390497-hentai-balls-3d-sexy-girls.json) |
 | Hentai Bath | 371039 | [371039-hentai-bath.json](./371039-hentai-bath.json) |
 | Hentai Beach Girls | 167703 | [167703-hentai-beach-girls.json](./167703-hentai-beach-girls.json) |
+| Hentai Beach Memories | 247940 | [247940-hentai-beach-memories.json](./247940-hentai-beach-memories.json) |
 | Hentai Beauties | 265618 | [265618-hentai-beauties.json](./265618-hentai-beauties.json) |
 | Hentai beautiful girls 4 | 164427 | [164427-hentai-beautiful-girls-4.json](./164427-hentai-beautiful-girls-4.json) |
 | Hentai Beauty | 226172 | [226172-hentai-beauty.json](./226172-hentai-beauty.json) |
@@ -7751,6 +7753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyper Hardcore | 129529 | [129529-hyper-hardcore.json](./129529-hyper-hardcore.json) |
 | Hyper Hentai Devil Hell | 247781 | [247781-hyper-hentai-devil-hell.json](./247781-hyper-hentai-devil-hell.json) |
 | Hyper Hentai Elf Attendant | 245927 | [245927-hyper-hentai-elf-attendant.json](./245927-hyper-hentai-elf-attendant.json) |
+| Hyper HitBoxing | 247943 | [247943-hyper-hitboxing.json](./247943-hyper-hitboxing.json) |
 | Hyper Hostess | 240888 | [240888-hyper-hostess.json](./240888-hyper-hostess.json) |
 | Hyper Knights | 29410 | [29410-hyper-knights.json](./29410-hyper-knights.json) |
 | Hyper Light Breaker | 194965 | [194965-hyper-light-breaker.json](./194965-hyper-light-breaker.json) |
