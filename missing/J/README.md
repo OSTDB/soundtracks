@@ -1720,6 +1720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Journey | 298669 | [298669-journey.json](./298669-journey.json) |
 | Journey Across Japan: Mysteries of Mt Aso | 326149 | [326149-journey-across-japan-mysteries-of-mt-aso.json](./326149-journey-across-japan-mysteries-of-mt-aso.json) |
 | Journey Back to Dreamspace | 394470 | [394470-journey-back-to-dreamspace.json](./394470-journey-back-to-dreamspace.json) |
+| Journey Beyond the Edge of the World | 261717 | [261717-journey-beyond-the-edge-of-the-world.json](./261717-journey-beyond-the-edge-of-the-world.json) |
 | Journey Escape | 22415 | [22415-journey-escape.json](./22415-journey-escape.json) |
 | Journey Express | 238502 | [238502-journey-express.json](./238502-journey-express.json) |
 | Journey For Elysium | 120758 | [120758-journey-for-elysium.json](./120758-journey-for-elysium.json) |
