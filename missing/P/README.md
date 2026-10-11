@@ -4640,6 +4640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PinkMan Adventure | 185492 | [185492-pinkman-adventure.json](./185492-pinkman-adventure.json) |
 | Pinko Linko's School | 310675 | [310675-pinko-linkos-school.json](./310675-pinko-linkos-school.json) |
 | Pinku Kult: Hex Mortis | 168696 | [168696-pinku-kult-hex-mortis.json](./168696-pinku-kult-hex-mortis.json) |
+| Pinky | 249094 | [249094-pinky.json](./249094-pinky.json) |
 | Pinky and the Brain: The Master Plan | 49360 | [49360-pinky-and-the-brain-the-master-plan.json](./49360-pinky-and-the-brain-the-master-plan.json) |
 | Pinky Promise Manifesto | 176440 | [176440-pinky-promise-manifesto.json](./176440-pinky-promise-manifesto.json) |
 | Pinky Spots Leg Massage | 64467 | [64467-pinky-spots-leg-massage.json](./64467-pinky-spots-leg-massage.json) |
@@ -5704,6 +5705,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planes and Trains and Automobiles | 209381 | [209381-planes-and-trains-and-automobiles.json](./209381-planes-and-trains-and-automobiles.json) |
 | Planes Combat | 278150 | [278150-planes-combat.json](./278150-planes-combat.json) |
 | Planes Journey | 150256 | [150256-planes-journey.json](./150256-planes-journey.json) |
+| Planes: Fire & Rescue | 249103 | [249103-planes-fire-and-rescue.json](./249103-planes-fire-and-rescue.json) |
+| Planes: Fire & Rescue | 249104 | [249104-planes-fire-and-rescue.json](./249104-planes-fire-and-rescue.json) |
 | Planes: Interactive Storybook | 230399 | [230399-planes-interactive-storybook.json](./230399-planes-interactive-storybook.json) |
 | Planes.io | 194038 | [194038-planes-io.json](./194038-planes-io.json) |
 | Planescape Torment: Enhanced Edition - Digital Deluxe | 53462 | [53462-planescape-torment-enhanced-edition-digital-deluxe.json](./53462-planescape-torment-enhanced-edition-digital-deluxe.json) |
@@ -6121,6 +6124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Play With Gilbert: A Small Tail | 157722 | [157722-play-with-gilbert-a-small-tail.json](./157722-play-with-gilbert-a-small-tail.json) |
 | Play With Kizami | 105579 | [105579-play-with-kizami.json](./105579-play-with-kizami.json) |
 | Play With Me | 182885 | [182885-play-with-me.json](./182885-play-with-me.json) |
+| Play With Me | 249068 | [249068-play-with-me.json](./249068-play-with-me.json) |
 | Play With My Balls | 309674 | [309674-play-with-my-balls.json](./309674-play-with-my-balls.json) |
 | Play-Doh Creations | 270611 | [270611-play-doh-creations.json](./270611-play-doh-creations.json) |
 | Play'te Spinna | 290991 | [290991-playte-spinna.json](./290991-playte-spinna.json) |
@@ -6905,6 +6909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Channel-e: Line Art Card - Jirachi | 354533 | [354533-pokemon-channel-e-line-art-card-jirachi.json](./354533-pokemon-channel-e-line-art-card-jirachi.json) |
 | Pokémon Channel-e: Line Art Card - The Kyogre Constellation | 354534 | [354534-pokemon-channel-e-line-art-card-the-kyogre-constellation.json](./354534-pokemon-channel-e-line-art-card-the-kyogre-constellation.json) |
 | Pokémon Channel-e: Line Art Card - The Pikachu Star | 354532 | [354532-pokemon-channel-e-line-art-card-the-pikachu-star.json](./354532-pokemon-channel-e-line-art-card-the-pikachu-star.json) |
+| Pokémon Chess | 249112 | [249112-pokemon-chess.json](./249112-pokemon-chess.json) |
 | Pokemon Classic | 409748 | [409748-pokemon-classic.json](./409748-pokemon-classic.json) |
 | Pokémon Clover | 129810 | [129810-pokemon-clover.json](./129810-pokemon-clover.json) |
 | Pokémon Coda | 360178 | [360178-pokemon-coda.json](./360178-pokemon-coda.json) |
@@ -7383,6 +7388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polaria | 374601 | [374601-polaria.json](./374601-polaria.json) |
 | Polariball | 356205 | [356205-polariball.json](./356205-polariball.json) |
 | Polaris | 380125 | [380125-polaris.json](./380125-polaris.json) |
+| Polaris SnoCross | 249122 | [249122-polaris-snocross.json](./249122-polaris-snocross.json) |
 | Polarities | 133177 | [133177-polarities.json](./133177-polarities.json) |
 | Polarity Switch | 176342 | [176342-polarity-switch.json](./176342-polarity-switch.json) |
 | Polarity Warthog | 323225 | [323225-polarity-warthog.json](./323225-polarity-warthog.json) |
