@@ -2587,6 +2587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age After Age | 379512 | [379512-age-after-age.json](./379512-age-after-age.json) |
 | Age of 2048 | 100988 | [100988-age-of-2048.json](./100988-age-of-2048.json) |
 | Age of 2048: World | 106373 | [106373-age-of-2048-world.json](./106373-age-of-2048-world.json) |
+| Age of Advent | 276208 | [276208-age-of-advent.json](./276208-age-of-advent.json) |
 | Age of AI: North America | 96931 | [96931-age-of-ai-north-america.json](./96931-age-of-ai-north-america.json) |
 | Age of Anthemius | 356226 | [356226-age-of-anthemius.json](./356226-age-of-anthemius.json) |
 | Age of Ants | 275672 | [275672-age-of-ants.json](./275672-age-of-ants.json) |
@@ -3007,6 +3008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air | 270385 | [270385-air.json](./270385-air.json) |
 | Air | 270403 | [270403-air.json](./270403-air.json) |
 | Air Ace | 180650 | [180650-air-ace.json](./180650-air-ace.json) |
+| Air Aces | 276117 | [276117-air-aces.json](./276117-air-aces.json) |
 | Air Attack | 171370 | [171370-air-attack.json](./171370-air-attack.json) |
 | Air Attack | 38522 | [38522-air-attack.json](./38522-air-attack.json) |
 | Air Attack 2 | 266740 | [266740-air-attack-2.json](./266740-air-attack-2.json) |
