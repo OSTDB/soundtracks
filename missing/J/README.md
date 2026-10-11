@@ -647,6 +647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JellyCar | 95422 | [95422-jellycar.json](./95422-jellycar.json) |
 | JellyCar | 9635 | [9635-jellycar.json](./9635-jellycar.json) |
 | JellyCar 3 | 228601 | [228601-jellycar-3.json](./228601-jellycar-3.json) |
+| JellyCod | 265540 | [265540-jellycod.json](./265540-jellycod.json) |
 | Jellydad Hero | 180135 | [180135-jellydad-hero.json](./180135-jellydad-hero.json) |
 | JellyFish | 321429 | [321429-jellyfish.json](./321429-jellyfish.json) |
 | Jellyfish Archipelago | 272019 | [272019-jellyfish-archipelago.json](./272019-jellyfish-archipelago.json) |
@@ -1811,6 +1812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Joy Exhibition | 56177 | [56177-joy-exhibition.json](./56177-joy-exhibition.json) |
 | Joy Flight | 221100 | [221100-joy-flight.json](./221100-joy-flight.json) |
 | Joy Life | 259084 | [259084-joy-life.json](./259084-joy-life.json) |
+| Joy Life 2 | 265557 | [265557-joy-life-2.json](./265557-joy-life-2.json) |
 | Joy Life 3 | 273461 | [273461-joy-life-3.json](./273461-joy-life-3.json) |
 | Joy Life 4 | 336636 | [336636-joy-life-4.json](./336636-joy-life-4.json) |
 | Joy Malignant | 398696 | [398696-joy-malignant.json](./398696-joy-malignant.json) |
