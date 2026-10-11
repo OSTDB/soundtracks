@@ -3184,6 +3184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Magic Academy | 368625 | [368625-hentai-magic-academy.json](./368625-hentai-magic-academy.json) |
 | Hentai MagicalGirl | 237403 | [237403-hentai-magicalgirl.json](./237403-hentai-magicalgirl.json) |
 | Hentai Maid Club | 149429 | [149429-hentai-maid-club.json](./149429-hentai-maid-club.json) |
+| Hentai Maid Memories | 246840 | [246840-hentai-maid-memories.json](./246840-hentai-maid-memories.json) |
 | Hentai Maid Momoka | 294019 | [294019-hentai-maid-momoka.json](./294019-hentai-maid-momoka.json) |
 | Hentai Match 3 | 155000 | [155000-hentai-match-3.json](./155000-hentai-match-3.json) |
 | Hentai Math Teacher | 370003 | [370003-hentai-math-teacher.json](./370003-hentai-math-teacher.json) |
@@ -4039,6 +4040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | hexceed: Effugium | 204298 | [204298-hexceed-effugium.json](./204298-hexceed-effugium.json) |
 | Hexceed: Exsupero Pack | 224229 | [224229-hexceed-exsupero-pack.json](./224229-hexceed-exsupero-pack.json) |
 | Hexceed: Flavum Pack | 295124 | [295124-hexceed-flavum-pack.json](./295124-hexceed-flavum-pack.json) |
+| Hexceed: Ignis Pack | 246837 | [246837-hexceed-ignis-pack.json](./246837-hexceed-ignis-pack.json) |
 | Hexceed: Incipiam | 224228 | [224228-hexceed-incipiam.json](./224228-hexceed-incipiam.json) |
 | Hexceed: Insulam | 201595 | [201595-hexceed-insulam.json](./201595-hexceed-insulam.json) |
 | hexceed: Inventa Pack | 155691 | [155691-hexceed-inventa-pack.json](./155691-hexceed-inventa-pack.json) |
@@ -6292,6 +6294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horror Ken | 262374 | [262374-horror-ken.json](./262374-horror-ken.json) |
 | Horror Legends | 111603 | [111603-horror-legends.json](./111603-horror-legends.json) |
 | Horror Loop | 259590 | [259590-horror-loop.json](./259590-horror-loop.json) |
+| Horror Maze 2 | 246838 | [246838-horror-maze-2.json](./246838-horror-maze-2.json) |
 | Horror Maze: Sci-Fi Edition | 110155 | [110155-horror-maze-sci-fi-edition.json](./110155-horror-maze-sci-fi-edition.json) |
 | Horror Night with Tung Tung Tung Sahur | 351096 | [351096-horror-night-with-tung-tung-tung-sahur.json](./351096-horror-night-with-tung-tung-tung-sahur.json) |
 | Horror Night: Spooky Night Vol. 1 | 221735 | [221735-horror-night-spooky-night-vol-1.json](./221735-horror-night-spooky-night-vol-1.json) |
