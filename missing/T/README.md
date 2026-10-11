@@ -16093,6 +16093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Top Gunner | 17477 | [17477-top-gunner.json](./17477-top-gunner.json) |
 | Top Heroes | 321427 | [321427-top-heroes.json](./321427-top-heroes.json) |
 | Top Hunter: Roddy & Cathy | 46520 | [46520-top-hunter-roddy-and-cathy.json](./46520-top-hunter-roddy-and-cathy.json) |
+| Top Jump | 255584 | [255584-top-jump.json](./255584-top-jump.json) |
 | Top Management II | 37785 | [37785-top-management-ii.json](./37785-top-management-ii.json) |
 | Top Model 3D | 84948 | [84948-top-model-3d.json](./84948-top-model-3d.json) |
 | Top Model Makeover - Girls Makeup & Dress Up Games | 90216 | [90216-top-model-makeover-girls-makeup-and-dress-up-games.json](./90216-top-model-makeover-girls-makeup-and-dress-up-games.json) |
@@ -19932,6 +19933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tsubasa Chronicle | 68230 | [68230-tsubasa-chronicle.json](./68230-tsubasa-chronicle.json) |
 | Tsubasa Chronicle Vol. 2 | 124108 | [124108-tsubasa-chronicle-vol-2.json](./124108-tsubasa-chronicle-vol-2.json) |
 | Tsubasa Heaven | 406831 | [406831-tsubasa-heaven.json](./406831-tsubasa-heaven.json) |
+| Tsubasa no Oka no Hime: A Red and Blue Moon Finite Loop | 255620 | [255620-tsubasa-no-oka-no-hime-a-red-and-blue-moon-finite-loop.json](./255620-tsubasa-no-oka-no-hime-a-red-and-blue-moon-finite-loop.json) |
 | TsucnenT's Treasures | 369225 | [369225-tsucnents-treasures.json](./369225-tsucnents-treasures.json) |
 | TsucnenT's Treasures II | 369226 | [369226-tsucnents-treasures-ii.json](./369226-tsucnents-treasures-ii.json) |
 | Tsugi no Giseisha wo Oshirase Shimasu: Kimi to Ko no Hateru Kotonai Kurayami wo | 340532 | [340532-tsugi-no-giseisha-wo-oshirase-shimasu-kimi-to-ko-no-hateru-kotonai-kurayami-wo.json](./340532-tsugi-no-giseisha-wo-oshirase-shimasu-kimi-to-ko-no-hateru-kotonai-kurayami-wo.json) |
