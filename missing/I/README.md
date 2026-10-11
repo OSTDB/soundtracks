@@ -1008,6 +1008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Pizza Business | 373736 | [373736-idle-pizza-business.json](./373736-idle-pizza-business.json) |
 | Idle Pizza Empire | 235299 | [235299-idle-pizza-empire.json](./235299-idle-pizza-empire.json) |
 | Idle Planet Miner | 361818 | [361818-idle-planet-miner.json](./361818-idle-planet-miner.json) |
+| Idle Plant Game | 277782 | [277782-idle-plant-game.json](./277782-idle-plant-game.json) |
 | Idle Portal Guardian | 118372 | [118372-idle-portal-guardian.json](./118372-idle-portal-guardian.json) |
 | Idle Quest Giver | 247210 | [247210-idle-quest-giver.json](./247210-idle-quest-giver.json) |
 | Idle Racing GO: Car Clicker Tycoon | 113604 | [113604-idle-racing-go-car-clicker-tycoon.json](./113604-idle-racing-go-car-clicker-tycoon.json) |
@@ -1760,6 +1761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In Cold Blood | 9680 | [9680-in-cold-blood.json](./9680-in-cold-blood.json) |
 | In Corporeal | 287220 | [287220-in-corporeal.json](./287220-in-corporeal.json) |
 | In Darkness | 83570 | [83570-in-darkness.json](./83570-in-darkness.json) |
+| In Darkness We Hide | 277779 | [277779-in-darkness-we-hide.json](./277779-in-darkness-we-hide.json) |
 | In Death Unchained | 135118 | [135118-in-death-unchained.json](./135118-in-death-unchained.json) |
 | In Death We Love | 329374 | [329374-in-death-we-love.json](./329374-in-death-we-love.json) |
 | In Drmzzz | 225288 | [225288-in-drmzzz.json](./225288-in-drmzzz.json) |
