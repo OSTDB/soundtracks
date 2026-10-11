@@ -337,6 +337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call Each New Year | 104082 | [104082-call-each-new-year.json](./104082-call-each-new-year.json) |
 | Call from the Abyss | 291179 | [291179-call-from-the-abyss.json](./291179-call-from-the-abyss.json) |
 | Call From the Darkness | 337465 | [337465-call-from-the-darkness.json](./337465-call-from-the-darkness.json) |
+| Call fur Help | 271647 | [271647-call-fur-help.json](./271647-call-fur-help.json) |
 | Call Hating 2000 | 290497 | [290497-call-hating-2000.json](./290497-call-hating-2000.json) |
 | Call Me Cera | 163982 | [163982-call-me-cera.json](./163982-call-me-cera.json) |
 | Call Me Emperor | 221961 | [221961-call-me-emperor.json](./221961-call-me-emperor.json) |
@@ -1817,6 +1818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carved Brink | 356881 | [356881-carved-brink.json](./356881-carved-brink.json) |
 | Carved In Stone | 321351 | [321351-carved-in-stone.json](./321351-carved-in-stone.json) |
 | Carved Out | 251724 | [251724-carved-out.json](./251724-carved-out.json) |
+| Carvival | 271650 | [271650-carvival.json](./271650-carvival.json) |
 | Carwarz.io | 219269 | [219269-carwarz-io.json](./219269-carwarz-io.json) |
 | Carwash Tycoon | 72738 | [72738-carwash-tycoon.json](./72738-carwash-tycoon.json) |
 | CarX Drift Racing 2 | 129793 | [129793-carx-drift-racing-2.json](./129793-carx-drift-racing-2.json) |
@@ -4095,6 +4097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chessemble | 372052 | [372052-chessemble.json](./372052-chessemble.json) |
 | ChesseR | 78700 | [78700-chesser.json](./78700-chesser.json) |
 | Chessie Chicken | 195611 | [195611-chessie-chicken.json](./195611-chessie-chicken.json) |
+| Chessium: 3D Chess Battle | 271646 | [271646-chessium-3d-chess-battle.json](./271646-chessium-3d-chess-battle.json) |
 | Chesskoban Bishop | 189106 | [189106-chesskoban-bishop.json](./189106-chesskoban-bishop.json) |
 | Chesskoban Cyber | 195144 | [195144-chesskoban-cyber.json](./195144-chesskoban-cyber.json) |
 | Chesslike | 284818 | [284818-chesslike.json](./284818-chesslike.json) |
@@ -4403,6 +4406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Children of Saturn | 312134 | [312134-children-of-saturn.json](./312134-children-of-saturn.json) |
 | Children of Silentown | 121016 | [121016-children-of-silentown.json](./121016-children-of-silentown.json) |
 | Children of the Flower | 316684 | [316684-children-of-the-flower.json](./316684-children-of-the-flower.json) |
+| Children of the Forest | 271645 | [271645-children-of-the-forest.json](./271645-children-of-the-forest.json) |
 | Children of the Galaxy | 30304 | [30304-children-of-the-galaxy.json](./30304-children-of-the-galaxy.json) |
 | Children of the Gate | 57902 | [57902-children-of-the-gate.json](./57902-children-of-the-gate.json) |
 | Children of the Nile: Enhanced Edition | 27834 | [27834-children-of-the-nile-enhanced-edition.json](./27834-children-of-the-nile-enhanced-edition.json) |
@@ -5217,6 +5221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chunkers | 207347 | [207347-chunkers.json](./207347-chunkers.json) |
 | Chunkout | 92305 | [92305-chunkout.json](./92305-chunkout.json) |
 | Chunky Jump! | 347853 | [347853-chunky-jump.json](./347853-chunky-jump.json) |
+| Chunky Tomato | 271644 | [271644-chunky-tomato.json](./271644-chunky-tomato.json) |
 | Chuno | 295141 | [295141-chuno.json](./295141-chuno.json) |
 | Chup's Quest | 243946 | [243946-chups-quest.json](./243946-chups-quest.json) |
 | Chupacabra | 59225 | [59225-chupacabra.json](./59225-chupacabra.json) |
@@ -7127,6 +7132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | College Seduction | 379536 | [379536-college-seduction.json](./379536-college-seduction.json) |
 | College Sex Fest 2024 | 297095 | [297095-college-sex-fest-2024.json](./297095-college-sex-fest-2024.json) |
 | College Sex Party | 265776 | [265776-college-sex-party.json](./265776-college-sex-party.json) |
+| College Sex: Episode 2 | 271651 | [271651-college-sex-episode-2.json](./271651-college-sex-episode-2.json) |
 | College Sex: Episode 5 | 278944 | [278944-college-sex-episode-5.json](./278944-college-sex-episode-5.json) |
 | College Sex: Episode 6 | 285603 | [285603-college-sex-episode-6.json](./285603-college-sex-episode-6.json) |
 | College Slam | 365698 | [365698-college-slam.json](./365698-college-slam.json) |
@@ -7322,6 +7328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ColorCode | 55481 | [55481-colorcode.json](./55481-colorcode.json) |
 | ColorCoordination | 270086 | [270086-colorcoordination.json](./270086-colorcoordination.json) |
 | ColorCube | 208378 | [208378-colorcube.json](./208378-colorcube.json) |
+| Colored Eyes Girls | 271652 | [271652-colored-eyes-girls.json](./271652-colored-eyes-girls.json) |
 | Colored Shapes | 158627 | [158627-colored-shapes.json](./158627-colored-shapes.json) |
 | Colorelli | 80125 | [80125-colorelli.json](./80125-colorelli.json) |
 | Colorfall | 404788 | [404788-colorfall.json](./404788-colorfall.json) |
@@ -9419,6 +9426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CoupButat | 242568 | [242568-coupbutat.json](./242568-coupbutat.json) |
 | Couple Life 3D | 224066 | [224066-couple-life-3d.json](./224066-couple-life-3d.json) |
 | Couple-Cultivation Saves the World | 324669 | [324669-couple-cultivation-saves-the-world.json](./324669-couple-cultivation-saves-the-world.json) |
+| Couples | 271690 | [271690-couples.json](./271690-couples.json) |
 | Coupling | 357425 | [357425-coupling.json](./357425-coupling.json) |
 | Courage | 207519 | [207519-courage.json](./207519-courage.json) |
 | Courage | 25768 | [25768-courage.json](./25768-courage.json) |
@@ -9615,6 +9623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cozy Trip | 264146 | [264146-cozy-trip.json](./264146-cozy-trip.json) |
 | Cozy Twinkie | 406805 | [406805-cozy-twinkie.json](./406805-cozy-twinkie.json) |
 | Cozy Twinkie | 406806 | [406806-cozy-twinkie.json](./406806-cozy-twinkie.json) |
+| Cozy Village | 271653 | [271653-cozy-village.json](./271653-cozy-village.json) |
 | Cozy Wandering in Scarlet and Amber | 145276 | [145276-cozy-wandering-in-scarlet-and-amber.json](./145276-cozy-wandering-in-scarlet-and-amber.json) |
 | CozyCat Simulator | 293133 | [293133-cozycat-simulator.json](./293133-cozycat-simulator.json) |
 | Cozycult | 364057 | [364057-cozycult.json](./364057-cozycult.json) |
@@ -9784,6 +9793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crane Quandry | 101009 | [101009-crane-quandry.json](./101009-crane-quandry.json) |
 | Cranes | 99642 | [99642-cranes.json](./99642-cranes.json) |
 | Crank | 331113 | [331113-crank.json](./331113-crank.json) |
+| Crank & Watch: Ball | 271689 | [271689-crank-and-watch-ball.json](./271689-crank-and-watch-ball.json) |
 | Crank & Watch: Octopus | 267964 | [267964-crank-and-watch-octopus.json](./267964-crank-and-watch-octopus.json) |
 | Crank and Shoot!! | 274681 | [274681-crank-and-shoot.json](./274681-crank-and-shoot.json) |
 | Crank Chaos | 418588 | [418588-crank-chaos.json](./418588-crank-chaos.json) |
@@ -10975,6 +10985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crosstown Carnage | 326653 | [326653-crosstown-carnage.json](./326653-crosstown-carnage.json) |
 | CrossTrix | 114258 | [114258-crosstrix.json](./114258-crosstrix.json) |
 | Crosswinds | 404394 | [404394-crosswinds.json](./404394-crosswinds.json) |
+| Crossword | 271687 | [271687-crossword.json](./271687-crossword.json) |
 | Crossword | 402255 | [402255-crossword.json](./402255-crossword.json) |
 | Crossword AI | 417451 | [417451-crossword-ai.json](./417451-crossword-ai.json) |
 | Crossword Champ | 58273 | [58273-crossword-champ.json](./58273-crossword-champ.json) |
