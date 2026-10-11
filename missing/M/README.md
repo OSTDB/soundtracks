@@ -5194,6 +5194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meikyuu Gou Mayoroba | 321059 | [321059-meikyuu-gou-mayoroba.json](./321059-meikyuu-gou-mayoroba.json) |
 | Meikyuu Jiin Dababa | 41290 | [41290-meikyuu-jiin-dababa.json](./41290-meikyuu-jiin-dababa.json) |
 | Meikyuu Machi no Grace | 212893 | [212893-meikyuu-machi-no-grace.json](./212893-meikyuu-machi-no-grace.json) |
+| Meikyuu no Dollpolis | 268926 | [268926-meikyuu-no-dollpolis.json](./268926-meikyuu-no-dollpolis.json) |
 | Meikyuu Ryuuki | 284319 | [284319-meikyuu-ryuuki.json](./284319-meikyuu-ryuuki.json) |
 | Meikyuu Xross Blood | 25664 | [25664-meikyuu-xross-blood.json](./25664-meikyuu-xross-blood.json) |
 | MeiMeiDance | 55672 | [55672-meimeidance.json](./55672-meimeidance.json) |
