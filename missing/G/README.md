@@ -4089,6 +4089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golf Navigator Vol.3 | 203769 | [203769-golf-navigator-vol-3.json](./203769-golf-navigator-vol-3.json) |
 | Golf Navigator Vol.4 | 203770 | [203770-golf-navigator-vol-4.json](./203770-golf-navigator-vol-4.json) |
 | Golf Odyssey | 242680 | [242680-golf-odyssey.json](./242680-golf-odyssey.json) |
+| Golf Odyssey 2 | 253274 | [253274-golf-odyssey-2.json](./253274-golf-odyssey-2.json) |
 | Golf Odyssey 2 DX | 269003 | [269003-golf-odyssey-2-dx.json](./269003-golf-odyssey-2-dx.json) |
 | Golf Of America | 351647 | [351647-golf-of-america.json](./351647-golf-of-america.json) |
 | Golf of the Dead | 181705 | [181705-golf-of-the-dead.json](./181705-golf-of-the-dead.json) |
@@ -6232,6 +6233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guarding Goddess | 207331 | [207331-guarding-goddess.json](./207331-guarding-goddess.json) |
 | Guardiões da Natureza: Mamíferos | 290089 | [290089-guardioes-da-natureza-mamiferos.json](./290089-guardioes-da-natureza-mamiferos.json) |
 | Guardiões do Mundo: estados brasileiros | 290088 | [290088-guardioes-do-mundo-estados-brasileiros.json](./290088-guardioes-do-mundo-estados-brasileiros.json) |
+| Guards II: Chaos in Hell | 253297 | [253297-guards-ii-chaos-in-hell.json](./253297-guards-ii-chaos-in-hell.json) |
 | Guards of the Gate | 90168 | [90168-guards-of-the-gate.json](./90168-guards-of-the-gate.json) |
 | Guards!: Vanguard Supporter Pack | 289322 | [289322-guards-vanguard-supporter-pack.json](./289322-guards-vanguard-supporter-pack.json) |
 | Guarrd the Rum | 176800 | [176800-guarrd-the-rum.json](./176800-guarrd-the-rum.json) |
