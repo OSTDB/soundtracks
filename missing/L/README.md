@@ -1361,6 +1361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | League of War: VR Arena | 54661 | [54661-league-of-war-vr-arena.json](./54661-league-of-war-vr-arena.json) |
 | League Space | 173220 | [173220-league-space.json](./173220-league-space.json) |
 | League Star | 100870 | [100870-league-star.json](./100870-league-star.json) |
+| League TD | 261746 | [261746-league-td.json](./261746-league-td.json) |
 | Leak Elite | 136385 | [136385-leak-elite.json](./136385-leak-elite.json) |
 | Leaks In Space | 369563 | [369563-leaks-in-space.json](./369563-leaks-in-space.json) |
 | Leander | 12173 | [12173-leander.json](./12173-leander.json) |
