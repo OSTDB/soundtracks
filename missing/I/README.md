@@ -3595,6 +3595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IQ Jump | 194295 | [194295-iq-jump.json](./194295-iq-jump.json) |
 | IQ Logic Codes: Number & Letter Puzzles | 415062 | [415062-iq-logic-codes-number-and-letter-puzzles.json](./415062-iq-logic-codes-number-and-letter-puzzles.json) |
 | IQ Test | 85623 | [85623-iq-test.json](./85623-iq-test.json) |
+| IQ Under Construction | 403627 | [403627-iq-under-construction.json](./403627-iq-under-construction.json) |
 | IQ Wars | 89171 | [89171-iq-wars.json](./89171-iq-wars.json) |
 | Iquarium | 80169 | [80169-iquarium.json](./80169-iquarium.json) |
 | iQuest Math: Grade 5 | 318741 | [318741-iquest-math-grade-5.json](./318741-iquest-math-grade-5.json) |
@@ -4173,6 +4174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It's All Over | 353769 | [353769-its-all-over.json](./353769-its-all-over.json) |
 | It's Always Monday | 26222 | [26222-its-always-monday.json](./26222-its-always-monday.json) |
 | It's Always Sunny: The Gang Goes Mobile | 110286 | [110286-its-always-sunny-the-gang-goes-mobile.json](./110286-its-always-sunny-the-gang-goes-mobile.json) |
+| It's Barbaric: Euroza | 244164 | [244164-its-barbaric-euroza.json](./244164-its-barbaric-euroza.json) |
 | It's Breaking Out | 358347 | [358347-its-breaking-out.json](./358347-its-breaking-out.json) |
 | It's Chopping Time!: Gold Edition | 406871 | [406871-its-chopping-time-gold-edition.json](./406871-its-chopping-time-gold-edition.json) |
 | It's Christmas Bundle! | 234307 | [234307-its-christmas-bundle.json](./234307-its-christmas-bundle.json) |
