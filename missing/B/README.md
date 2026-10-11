@@ -8917,6 +8917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brain Puzzles Bundle 12 in 1 | 301533 | [301533-brain-puzzles-bundle-12-in-1.json](./301533-brain-puzzles-bundle-12-in-1.json) |
 | Brain Quest Grades 3 & 4 | 68941 | [68941-brain-quest-grades-3-and-4.json](./68941-brain-quest-grades-3-and-4.json) |
 | Brain Quest Grades 5 & 6 | 68940 | [68940-brain-quest-grades-5-and-6.json](./68940-brain-quest-grades-5-and-6.json) |
+| Brain Quiz | 266120 | [266120-brain-quiz.json](./266120-brain-quiz.json) |
 | Brain Rot Excellence | 251062 | [251062-brain-rot-excellence.json](./251062-brain-rot-excellence.json) |
 | Brain Runner: Dreamcore Movement Shooter | 414137 | [414137-brain-runner-dreamcore-movement-shooter.json](./414137-brain-runner-dreamcore-movement-shooter.json) |
 | Brain Sanguo | 158666 | [158666-brain-sanguo.json](./158666-brain-sanguo.json) |
@@ -10139,6 +10140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Shooter Mission | 102576 | [102576-bubble-shooter-mission.json](./102576-bubble-shooter-mission.json) |
 | Bubble Shooter: Fashion Bird | 108444 | [108444-bubble-shooter-fashion-bird.json](./108444-bubble-shooter-fashion-bird.json) |
 | Bubble Shooter! Tournaments | 78387 | [78387-bubble-shooter-tournaments.json](./78387-bubble-shooter-tournaments.json) |
+| Bubble Shooting Robots | 266138 | [266138-bubble-shooting-robots.json](./266138-bubble-shooting-robots.json) |
 | Bubble Soccer | 117505 | [117505-bubble-soccer.json](./117505-bubble-soccer.json) |
 | Bubble Spinner | 144252 | [144252-bubble-spinner.json](./144252-bubble-spinner.json) |
 | Bubble Squad | 104136 | [104136-bubble-squad.json](./104136-bubble-squad.json) |
@@ -10264,6 +10266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buddy Toss | 106736 | [106736-buddy-toss.json](./106736-buddy-toss.json) |
 | Buddy, No! | 234191 | [234191-buddy-no.json](./234191-buddy-no.json) |
 | Buddy's Creative Quest! | 157983 | [157983-buddys-creative-quest.json](./157983-buddys-creative-quest.json) |
+| Buddyman Run | 266129 | [266129-buddyman-run.json](./266129-buddyman-run.json) |
 | Budget Backrooms | 266290 | [266290-budget-backrooms.json](./266290-budget-backrooms.json) |
 | Budget Cuts | 18970 | [18970-budget-cuts.json](./18970-budget-cuts.json) |
 | Budget Cuts 2: Mission Insolvency | 119340 | [119340-budget-cuts-2-mission-insolvency.json](./119340-budget-cuts-2-mission-insolvency.json) |
