@@ -2464,6 +2464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Letherfall | 373540 | [373540-letherfall.json](./373540-letherfall.json) |
 | Lethis: Path of Progress II | 116438 | [116438-lethis-path-of-progress-ii.json](./116438-lethis-path-of-progress-ii.json) |
 | Leticia Land | 183464 | [183464-leticia-land.json](./183464-leticia-land.json) |
+| Letifer | 267831 | [267831-letifer.json](./267831-letifer.json) |
 | LetMeSee | 406295 | [406295-letmesee.json](./406295-letmesee.json) |
 | Letris 4 | 233103 | [233103-letris-4.json](./233103-letris-4.json) |
 | Letris Power: Word puzzle game | 89239 | [89239-letris-power-word-puzzle-game.json](./89239-letris-power-word-puzzle-game.json) |
@@ -3197,6 +3198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lily Adventuresses! Episode 4: The Ancienaut beneath the Mask | 419954 | [419954-lily-adventuresses-episode-4-the-ancienaut-beneath-the-mask.json](./419954-lily-adventuresses-episode-4-the-ancienaut-beneath-the-mask.json) |
 | Lily Bergamo | 52542 | [52542-lily-bergamo.json](./52542-lily-bergamo.json) |
 | Lily Fantasia | 278975 | [278975-lily-fantasia.json](./278975-lily-fantasia.json) |
+| Lily in Puzzle World | 267832 | [267832-lily-in-puzzle-world.json](./267832-lily-in-puzzle-world.json) |
 | Lily of Swampville | 58605 | [58605-lily-of-swampville.json](./58605-lily-of-swampville.json) |
 | Lily of the Hollow | 115038 | [115038-lily-of-the-hollow.json](./115038-lily-of-the-hollow.json) |
 | Lily of the Hollow: Resurrection | 147829 | [147829-lily-of-the-hollow-resurrection.json](./147829-lily-of-the-hollow-resurrection.json) |
@@ -6061,6 +6063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luna's Postcards Around the World | 343381 | [343381-lunas-postcards-around-the-world.json](./343381-lunas-postcards-around-the-world.json) |
 | Luna's Room | 397237 | [397237-lunas-room.json](./397237-lunas-room.json) |
 | Luna's Seek and Find | 343383 | [343383-lunas-seek-and-find.json](./343383-lunas-seek-and-find.json) |
+| Luna's Tale | 267833 | [267833-lunas-tale.json](./267833-lunas-tale.json) |
 | Luna's Twilight | 319211 | [319211-lunas-twilight.json](./319211-lunas-twilight.json) |
 | Luna's Wandering Stars | 17983 | [17983-lunas-wandering-stars.json](./17983-lunas-wandering-stars.json) |
 | Luna's World Packages | 343382 | [343382-lunas-world-packages.json](./343382-lunas-world-packages.json) |
