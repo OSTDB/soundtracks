@@ -4756,6 +4756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dethcube | 148487 | [148487-dethcube.json](./148487-dethcube.json) |
 | DethKarz | 51252 | [51252-dethkarz.json](./51252-dethkarz.json) |
 | Dethrone | 182977 | [182977-dethrone.json](./182977-dethrone.json) |
+| Dethrone | 273810 | [273810-dethrone.json](./273810-dethrone.json) |
 | Dethroned | 240813 | [240813-dethroned.json](./240813-dethroned.json) |
 | Dethroned! | 62012 | [62012-dethroned.json](./62012-dethroned.json) |
 | Detonation | 119563 | [119563-detonation.json](./119563-detonation.json) |
