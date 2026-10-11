@@ -7246,6 +7246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Lemon | 126656 | [126656-blue-lemon.json](./126656-blue-lemon.json) |
 | Blue Lightning | 12364 | [12364-blue-lightning.json](./12364-blue-lightning.json) |
 | Blue Madonna | 52473 | [52473-blue-madonna.json](./52473-blue-madonna.json) |
+| Blue Maiden | 247944 | [247944-blue-maiden.json](./247944-blue-maiden.json) |
 | Blue Man Adventure | 412516 | [412516-blue-man-adventure.json](./412516-blue-man-adventure.json) |
 | Blue Max 2001 | 13818 | [13818-blue-max-2001.json](./13818-blue-max-2001.json) |
 | Blue Mint | 340216 | [340216-blue-mint.json](./340216-blue-mint.json) |
