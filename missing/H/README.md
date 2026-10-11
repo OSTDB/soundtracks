@@ -3958,6 +3958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexa Fusion 2048 | 364558 | [364558-hexa-fusion-2048.json](./364558-hexa-fusion-2048.json) |
 | Hexa Harmony | 364055 | [364055-hexa-harmony.json](./364055-hexa-harmony.json) |
 | Hexa Hysteria | 314384 | [314384-hexa-hysteria.json](./314384-hexa-hysteria.json) |
+| Hexa Knot | 255011 | [255011-hexa-knot.json](./255011-hexa-knot.json) |
 | Hexa Merge | 383054 | [383054-hexa-merge.json](./383054-hexa-merge.json) |
 | Hexa Puzzle Saga | 248330 | [248330-hexa-puzzle-saga.json](./248330-hexa-puzzle-saga.json) |
 | Hexa River | 320374 | [320374-hexa-river.json](./320374-hexa-river.json) |
