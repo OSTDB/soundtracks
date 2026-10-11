@@ -4123,6 +4123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fishing | 358837 | [358837-fishing.json](./358837-fishing.json) |
 | Fishing Adventure | 299454 | [299454-fishing-adventure.json](./299454-fishing-adventure.json) |
 | FIshing Adventure VR | 127004 | [127004-fishing-adventure-vr.json](./127004-fishing-adventure-vr.json) |
+| Fishing and Girls | 242979 | [242979-fishing-and-girls.json](./242979-fishing-and-girls.json) |
 | Fishing at the Lake Full of Cats | 375583 | [375583-fishing-at-the-lake-full-of-cats.json](./375583-fishing-at-the-lake-full-of-cats.json) |
 | Fishing Blast | 299526 | [299526-fishing-blast.json](./299526-fishing-blast.json) |
 | Fishing Cat's Slack-off Diary | 392862 | [392862-fishing-cats-slack-off-diary.json](./392862-fishing-cats-slack-off-diary.json) |
