@@ -8757,6 +8757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miyamoto | 320443 | [320443-miyamoto.json](./320443-miyamoto.json) |
 | Miyamoto S | 188460 | [188460-miyamoto-s.json](./188460-miyamoto-s.json) |
 | Miyazato San Kyoudai Naizou: Sega Golf Club | 7454 | [7454-miyazato-san-kyoudai-naizou-sega-golf-club.json](./7454-miyazato-san-kyoudai-naizou-sega-golf-club.json) |
+| Miyu's Cursed Store | 265547 | [265547-miyus-cursed-store.json](./265547-miyus-cursed-store.json) |
 | Miyuki the Shoubushi | 67375 | [67375-miyuki-the-shoubushi.json](./67375-miyuki-the-shoubushi.json) |
 | Mizari Loves Company | 385056 | [385056-mizari-loves-company.json](./385056-mizari-loves-company.json) |
 | Mizbak's Adventure | 37653 | [37653-mizbaks-adventure.json](./37653-mizbaks-adventure.json) |
