@@ -2671,6 +2671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where is Mrs Peregrine? | 318772 | [318772-where-is-mrs-peregrine.json](./318772-where-is-mrs-peregrine.json) |
 | Where is my Brain!? | 29888 | [29888-where-is-my-brain.json](./29888-where-is-my-brain.json) |
 | Where Is My Cat | 302421 | [302421-where-is-my-cat.json](./302421-where-is-my-cat.json) |
+| Where Is My Crown? | 242451 | [242451-where-is-my-crown.json](./242451-where-is-my-crown.json) |
 | Where Is My Family | 118792 | [118792-where-is-my-family.json](./118792-where-is-my-family.json) |
 | Where Is My Hat? | 345652 | [345652-where-is-my-hat.json](./345652-where-is-my-hat.json) |
 | Where is My Home? | 410996 | [410996-where-is-my-home.json](./410996-where-is-my-home.json) |
