@@ -1398,6 +1398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vikings vs. Dragons | 241541 | [241541-vikings-vs-dragons.json](./241541-vikings-vs-dragons.json) |
 | Vikings Wars | 128981 | [128981-vikings-wars.json](./128981-vikings-wars.json) |
 | Vikings: Age of the Axe | 149504 | [149504-vikings-age-of-the-axe.json](./149504-vikings-age-of-the-axe.json) |
+| Vikings: Valhalla | 266144 | [266144-vikings-valhalla.json](./266144-vikings-valhalla.json) |
 | Vikings: Valhalla Saga | 228120 | [228120-vikings-valhalla-saga.json](./228120-vikings-valhalla-saga.json) |
 | Vikings: War of Clans | 44118 | [44118-vikings-war-of-clans.json](./44118-vikings-war-of-clans.json) |
 | VikingScape | 269197 | [269197-vikingscape.json](./269197-vikingscape.json) |
