@@ -10168,6 +10168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Labs VR | 31324 | [31324-bubble-labs-vr.json](./31324-bubble-labs-vr.json) |
 | Bubble Lead | 359371 | [359371-bubble-lead.json](./359371-bubble-lead.json) |
 | Bubble Mags | 90388 | [90388-bubble-mags.json](./90388-bubble-mags.json) |
+| Bubble Melody | 254410 | [254410-bubble-melody.json](./254410-bubble-melody.json) |
 | Bubble Milf | 297360 | [297360-bubble-milf.json](./297360-bubble-milf.json) |
 | Bubble Mix 3 in 1 Plus | 90685 | [90685-bubble-mix-3-in-1-plus.json](./90685-bubble-mix-3-in-1-plus.json) |
 | Bubble People | 173265 | [173265-bubble-people.json](./173265-bubble-people.json) |
