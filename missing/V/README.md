@@ -1984,6 +1984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vodobanka | 207831 | [207831-vodobanka.json](./207831-vodobanka.json) |
 | Vogue | 183884 | [183884-vogue.json](./183884-vogue.json) |
 | Vogue, the Explorer | 104154 | [104154-vogue-the-explorer.json](./104154-vogue-the-explorer.json) |
+| Vogvhathos | 267275 | [267275-vogvhathos.json](./267275-vogvhathos.json) |
 | Vohenn | 387538 | [387538-vohenn.json](./387538-vohenn.json) |
 | Voi | 25788 | [25788-voi.json](./25788-voi.json) |
 | Voice | 191246 | [191246-voice.json](./191246-voice.json) |
