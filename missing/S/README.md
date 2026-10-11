@@ -1863,6 +1863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Schlo Pink and Purple | 298791 | [298791-schlo-pink-and-purple.json](./298791-schlo-pink-and-purple.json) |
 | Schlo: Final Stand | 298789 | [298789-schlo-final-stand.json](./298789-schlo-final-stand.json) |
 | Schloss der Wölfe | 323389 | [323389-schloss-der-wolfe.json](./323389-schloss-der-wolfe.json) |
+| Schlosshelden | 270017 | [270017-schlosshelden.json](./270017-schlosshelden.json) |
 | Schmaragon | 230265 | [230265-schmaragon.json](./230265-schmaragon.json) |
 | Schmeiser Robo | 40413 | [40413-schmeiser-robo.json](./40413-schmeiser-robo.json) |
 | Schmutznik | 153910 | [153910-schmutznik.json](./153910-schmutznik.json) |
@@ -2204,6 +2205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ScrabWordle | 228716 | [228716-scrabwordle.json](./228716-scrabwordle.json) |
 | Scraftion | 152851 | [152851-scraftion.json](./152851-scraftion.json) |
 | Scram 20 | 79316 | [79316-scram-20.json](./79316-scram-20.json) |
+| Scram: Scrammer's Pack | 270035 | [270035-scram-scrammers-pack.json](./270035-scram-scrammers-pack.json) |
 | Scramball | 339900 | [339900-scramball.json](./339900-scramball.json) |
 | Scramble | 246400 | [246400-scramble.json](./246400-scramble.json) |
 | Scramble | 297494 | [297494-scramble.json](./297494-scramble.json) |
