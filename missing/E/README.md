@@ -1517,6 +1517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elf Bowling: Collector's Edition | 61343 | [61343-elf-bowling-collectors-edition.json](./61343-elf-bowling-collectors-edition.json) |
 | Elf Cat Jeff | 185425 | [185425-elf-cat-jeff.json](./185425-elf-cat-jeff.json) |
 | Elf Epizode One | 114356 | [114356-elf-epizode-one.json](./114356-elf-epizode-one.json) |
+| Elf Gets Pissed | 261183 | [261183-elf-gets-pissed.json](./261183-elf-gets-pissed.json) |
 | Elf Girl Pinball | 212891 | [212891-elf-girl-pinball.json](./212891-elf-girl-pinball.json) |
 | Elf Girls | 393045 | [393045-elf-girls.json](./393045-elf-girls.json) |
 | Elf Kicker | 285417 | [285417-elf-kicker.json](./285417-elf-kicker.json) |
@@ -4132,6 +4133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everlands | 200130 | [200130-everlands.json](./200130-everlands.json) |
 | Everlast: Undying Tale | 381335 | [381335-everlast-undying-tale.json](./381335-everlast-undying-tale.json) |
 | Everlasting Alchemists | 298999 | [298999-everlasting-alchemists.json](./298999-everlasting-alchemists.json) |
+| Everlasting Flowers | 261194 | [261194-everlasting-flowers.json](./261194-everlasting-flowers.json) |
 | Everlasting Guilt | 155084 | [155084-everlasting-guilt.json](./155084-everlasting-guilt.json) |
 | Everlasting Snooze | 297879 | [297879-everlasting-snooze.json](./297879-everlasting-snooze.json) |
 | Everlasting Summer 2 | 385888 | [385888-everlasting-summer-2.json](./385888-everlasting-summer-2.json) |
@@ -4877,6 +4879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Express Hero | 270045 | [270045-express-hero.json](./270045-express-hero.json) |
 | Express Raider | 13654 | [13654-express-raider.json](./13654-express-raider.json) |
 | Express Simulator | 152463 | [152463-express-simulator.json](./152463-express-simulator.json) |
+| Exquisite Amethyst | 261170 | [261170-exquisite-amethyst.json](./261170-exquisite-amethyst.json) |
 | Exquisite Corpse | 273568 | [273568-exquisite-corpse.json](./273568-exquisite-corpse.json) |
 | Exquisite Fishing | 235874 | [235874-exquisite-fishing.json](./235874-exquisite-fishing.json) |
 | Exquisite Girls | 372121 | [372121-exquisite-girls.json](./372121-exquisite-girls.json) |
