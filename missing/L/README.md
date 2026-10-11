@@ -4686,6 +4686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Looper | 323827 | [323827-looper.json](./323827-looper.json) |
 | Looper | 406189 | [406189-looper.json](./406189-looper.json) |
 | Looper Looper | 255997 | [255997-looper-looper.json](./255997-looper-looper.json) |
+| Looper Tactics | 250252 | [250252-looper-tactics.json](./250252-looper-tactics.json) |
 | Looper! | 103982 | [103982-looper.json](./103982-looper.json) |
 | LooperLands | 291984 | [291984-looperlands.json](./291984-looperlands.json) |
 | Loopers | 140632 | [140632-loopers.json](./140632-loopers.json) |
@@ -6182,6 +6183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lunatic Dawn: Legend Pack | 286755 | [286755-lunatic-dawn-legend-pack.json](./286755-lunatic-dawn-legend-pack.json) |
 | Lunatic Dawn: Passage of the Book | 229141 | [229141-lunatic-dawn-passage-of-the-book.json](./229141-lunatic-dawn-passage-of-the-book.json) |
 | Lunatic Dawn: The Third Book | 375378 | [375378-lunatic-dawn-the-third-book.json](./375378-lunatic-dawn-the-third-book.json) |
+| Lunatic Den | 250266 | [250266-lunatic-den.json](./250266-lunatic-den.json) |
 | Lunatic Fringe | 133956 | [133956-lunatic-fringe.json](./133956-lunatic-fringe.json) |
 | Lunatic Rave 2 | 79901 | [79901-lunatic-rave-2.json](./79901-lunatic-rave-2.json) |
 | Lunavoid | 356023 | [356023-lunavoid.json](./356023-lunavoid.json) |
