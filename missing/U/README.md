@@ -1275,6 +1275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Underworld | 174107 | [174107-underworld.json](./174107-underworld.json) |
 | Underworld | 343436 | [343436-underworld.json](./343436-underworld.json) |
 | Underworld | 349298 | [349298-underworld.json](./349298-underworld.json) |
+| Underworld Adventures | 256715 | [256715-underworld-adventures.json](./256715-underworld-adventures.json) |
 | Underworld Ascendant | 19466 | [19466-underworld-ascendant.json](./19466-underworld-ascendant.json) |
 | Underworld Capital Incident | 146232 | [146232-underworld-capital-incident.json](./146232-underworld-capital-incident.json) |
 | Underworld Defense | 259515 | [259515-underworld-defense.json](./259515-underworld-defense.json) |
