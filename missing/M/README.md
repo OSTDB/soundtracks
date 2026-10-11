@@ -1516,6 +1516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Makaimura Gaiden: The Demon Darkness | 84640 | [84640-makaimura-gaiden-the-demon-darkness.json](./84640-makaimura-gaiden-the-demon-darkness.json) |
 | Makaimura Online | 63297 | [63297-makaimura-online.json](./63297-makaimura-online.json) |
 | Makber | 165419 | [165419-makber.json](./165419-makber.json) |
+| Make a Cake | 266136 | [266136-make-a-cake.json](./266136-make-a-cake.json) |
 | Make a Friend | 201828 | [201828-make-a-friend.json](./201828-make-a-friend.json) |
 | Make A Fun Awesome Boss 3: Friendship Always Best | 304216 | [304216-make-a-fun-awesome-boss-3-friendship-always-best.json](./304216-make-a-fun-awesome-boss-3-friendship-always-best.json) |
 | Make a Good Level Contest X3: The Movie - The Contest: The Game | 304213 | [304213-make-a-good-level-contest-x3-the-movie-the-contest-the-game.json](./304213-make-a-good-level-contest-x3-the-movie-the-contest-the-game.json) |
@@ -3568,6 +3569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Math Combat Challenge | 55124 | [55124-math-combat-challenge.json](./55124-math-combat-challenge.json) |
 | Math Duel | 251043 | [251043-math-duel.json](./251043-math-duel.json) |
 | Math Evolve: A Fun Math Game | 175372 | [175372-math-evolve-a-fun-math-game.json](./175372-math-evolve-a-fun-math-game.json) |
+| Math Fight | 266126 | [266126-math-fight.json](./266126-math-fight.json) |
 | Math Fight: Multiplayer Game | 251531 | [251531-math-fight-multiplayer-game.json](./251531-math-fight-multiplayer-game.json) |
 | Math for Kids | 89519 | [89519-math-for-kids.json](./89519-math-for-kids.json) |
 | Math for the Real World | 301358 | [301358-math-for-the-real-world.json](./301358-math-for-the-real-world.json) |
@@ -3642,6 +3644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maths Circus Act 6 | 76592 | [76592-maths-circus-act-6.json](./76592-maths-circus-act-6.json) |
 | Maths Planets | 105932 | [105932-maths-planets.json](./105932-maths-planets.json) |
 | Maths Play: Have Fun with Numbers! | 159043 | [159043-maths-play-have-fun-with-numbers.json](./159043-maths-play-have-fun-with-numbers.json) |
+| Maths War | 266147 | [266147-maths-war.json](./266147-maths-war.json) |
 | Mathshot | 298806 | [298806-mathshot.json](./298806-mathshot.json) |
 | MathsJack | 56567 | [56567-mathsjack.json](./56567-mathsjack.json) |
 | Mathville | 387698 | [387698-mathville.json](./387698-mathville.json) |
@@ -3943,6 +3946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze Mart | 208248 | [208248-maze-mart.json](./208248-maze-mart.json) |
 | Maze Master | 94010 | [94010-maze-master.json](./94010-maze-master.json) |
 | Maze Masters | 148913 | [148913-maze-masters.json](./148913-maze-masters.json) |
+| Maze Monsters | 266111 | [266111-maze-monsters.json](./266111-maze-monsters.json) |
 | Maze Nightmare: Edge of Darkness | 379710 | [379710-maze-nightmare-edge-of-darkness.json](./379710-maze-nightmare-edge-of-darkness.json) |
 | Maze Ninja | 115141 | [115141-maze-ninja.json](./115141-maze-ninja.json) |
 | Maze of Acheron | 172098 | [172098-maze-of-acheron.json](./172098-maze-of-acheron.json) |
@@ -12504,6 +12508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Cute Unicorns: Coloring Book | 212272 | [212272-my-cute-unicorns-coloring-book.json](./212272-my-cute-unicorns-coloring-book.json) |
 | My Cute, Pure Boyfriend | 303274 | [303274-my-cute-pure-boyfriend.json](./303274-my-cute-pure-boyfriend.json) |
 | My Cute, Pure Boyfriend 2 | 303294 | [303294-my-cute-pure-boyfriend-2.json](./303294-my-cute-pure-boyfriend-2.json) |
+| My Daddy, My Christmas | 266140 | [266140-my-daddy-my-christmas.json](./266140-my-daddy-my-christmas.json) |
 | My Daily Pets | 270976 | [270976-my-daily-pets.json](./270976-my-daily-pets.json) |
 | My Dangerous Life | 156700 | [156700-my-dangerous-life.json](./156700-my-dangerous-life.json) |
 | My Dating Agency | 307910 | [307910-my-dating-agency.json](./307910-my-dating-agency.json) |
@@ -13241,6 +13246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MyDearest.exe | 391745 | [391745-mydearest-exe.json](./391745-mydearest-exe.json) |
 | Mydhia Online | 277878 | [277878-mydhia-online.json](./277878-mydhia-online.json) |
 | MyDream | 35794 | [35794-mydream.json](./35794-mydream.json) |
+| MyDream Universe: Build Solar | 266137 | [266137-mydream-universe-build-solar.json](./266137-mydream-universe-build-solar.json) |
 | MyDU | 365704 | [365704-mydu.json](./365704-mydu.json) |
 | Myeong Wol | 125894 | [125894-myeong-wol.json](./125894-myeong-wol.json) |
 | Myether | 184888 | [184888-myether.json](./184888-myether.json) |
