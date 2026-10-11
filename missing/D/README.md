@@ -1595,6 +1595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Date Senbei | 412450 | [412450-date-senbei.json](./412450-date-senbei.json) |
 | Date Teacher | 397193 | [397193-date-teacher.json](./397193-date-teacher.json) |
 | Date the Difference | 392299 | [392299-date-the-difference.json](./392299-date-the-difference.json) |
+| Date Time: Melissa, Morris, Anna | 244166 | [244166-date-time-melissa-morris-anna.json](./244166-date-time-melissa-morris-anna.json) |
 | Date Treat | 146520 | [146520-date-treat.json](./146520-date-treat.json) |
 | Date Us, You Won't | 215229 | [215229-date-us-you-wont.json](./215229-date-us-you-wont.json) |
 | Date Warp | 17400 | [17400-date-warp.json](./17400-date-warp.json) |
@@ -2742,6 +2743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Flags | 374746 | [374746-death-flags.json](./374746-death-flags.json) |
 | Death Flush | 140622 | [140622-death-flush.json](./140622-death-flush.json) |
 | Death Forest: Seikin | 385186 | [385186-death-forest-seikin.json](./385186-death-forest-seikin.json) |
+| Death From Above | 244133 | [244133-death-from-above.json](./244133-death-from-above.json) |
 | Death From Above: Complete Edition | 336140 | [336140-death-from-above-complete-edition.json](./336140-death-from-above-complete-edition.json) |
 | Death from Unknown: Survival | 93710 | [93710-death-from-unknown-survival.json](./93710-death-from-unknown-survival.json) |
 | Death Front | 277514 | [277514-death-front.json](./277514-death-front.json) |
@@ -5467,6 +5469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diesel Power | 29805 | [29805-diesel-power.json](./29805-diesel-power.json) |
 | Diesel Punch | 135753 | [135753-diesel-punch.json](./135753-diesel-punch.json) |
 | Diesel the Pug Warrior | 232922 | [232922-diesel-the-pug-warrior.json](./232922-diesel-the-pug-warrior.json) |
+| DieselDome: Oil & Blood | 244127 | [244127-dieseldome-oil-and-blood.json](./244127-dieseldome-oil-and-blood.json) |
 | Dieselpunk Wars | 114168 | [114168-dieselpunk-wars.json](./114168-dieselpunk-wars.json) |
 | Diesuki Dungeon | 376868 | [376868-diesuki-dungeon.json](./376868-diesuki-dungeon.json) |
 | Diet Family | 267649 | [267649-diet-family.json](./267649-diet-family.json) |
@@ -5735,6 +5738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dimension Warrior | 334232 | [334232-dimension-warrior.json](./334232-dimension-warrior.json) |
 | Dimension X | 246067 | [246067-dimension-x.json](./246067-dimension-x.json) |
 | Dimensional | 26578 | [26578-dimensional.json](./26578-dimensional.json) |
+| Dimensional Animals | 244160 | [244160-dimensional-animals.json](./244160-dimensional-animals.json) |
 | Dimensional Dexterity | 252179 | [252179-dimensional-dexterity.json](./252179-dimensional-dexterity.json) |
 | Dimensional Double Shift | 317856 | [317856-dimensional-double-shift.json](./317856-dimensional-double-shift.json) |
 | Dimensional Fighter Epsilon3 | 62593 | [62593-dimensional-fighter-epsilon3.json](./62593-dimensional-fighter-epsilon3.json) |
@@ -6175,6 +6179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disc Station MSX #09 | 266482 | [266482-disc-station-msx-09.json](./266482-disc-station-msx-09.json) |
 | Disc Station MSX #11 | 266489 | [266489-disc-station-msx-11.json](./266489-disc-station-msx-11.json) |
 | Discard All Hope | 350614 | [350614-discard-all-hope.json](./350614-discard-all-hope.json) |
+| Discarded Empire | 244128 | [244128-discarded-empire.json](./244128-discarded-empire.json) |
 | Discarded Memories: Mysteries of the Past | 261838 | [261838-discarded-memories-mysteries-of-the-past.json](./261838-discarded-memories-mysteries-of-the-past.json) |
 | Discarnate | 265628 | [265628-discarnate.json](./265628-discarnate.json) |
 | Discharge | 117040 | [117040-discharge.json](./117040-discharge.json) |
@@ -9429,6 +9434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon's Delightful Day | 395164 | [395164-dragons-delightful-day.json](./395164-dragons-delightful-day.json) |
 | Dragon's Dogma | 3968 | [3968-dragons-dogma.json](./3968-dragons-dogma.json) |
 | Dragon's Dogma II: Dark Arisen | 408164 | [408164-dragons-dogma-ii-dark-arisen.json](./408164-dragons-dogma-ii-dark-arisen.json) |
+| Dragon's Dogma II: Dark Arisen Expansion | 405433 | [405433-dragons-dogma-ii-dark-arisen-expansion.json](./405433-dragons-dogma-ii-dark-arisen-expansion.json) |
 | Dragon's Dogma II: Deluxe Edition | 288657 | [288657-dragons-dogma-ii-deluxe-edition.json](./288657-dragons-dogma-ii-deluxe-edition.json) |
 | Dragon's Dogma II: Dragon's Dogma Music & Sound Collection - Custom Sounds | 308568 | [308568-dragons-dogma-ii-dragons-dogma-music-and-sound-collection-custom-sounds.json](./308568-dragons-dogma-ii-dragons-dogma-music-and-sound-collection-custom-sounds.json) |
 | Dragon's Dogma Online | 26985 | [26985-dragons-dogma-online.json](./26985-dragons-dogma-online.json) |
