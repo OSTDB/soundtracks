@@ -824,6 +824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Falling Frontier | 132621 | [132621-falling-frontier.json](./132621-falling-frontier.json) |
 | Falling Guys | 361739 | [361739-falling-guys.json](./361739-falling-guys.json) |
 | Falling in Reverse Heardle | 371468 | [371468-falling-in-reverse-heardle.json](./371468-falling-in-reverse-heardle.json) |
+| Falling Into Dreams | 247962 | [247962-falling-into-dreams.json](./247962-falling-into-dreams.json) |
 | Falling Into You | 218165 | [218165-falling-into-you.json](./218165-falling-into-you.json) |
 | Falling Kwadrats | 179203 | [179203-falling-kwadrats.json](./179203-falling-kwadrats.json) |
 | Falling Light | 391763 | [391763-falling-light.json](./391763-falling-light.json) |
@@ -6829,6 +6830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foxhole | 27091 | [27091-foxhole.json](./27091-foxhole.json) |
 | FoxHunt | 115719 | [115719-foxhunt.json](./115719-foxhunt.json) |
 | Foxingdale: The Magical Stones of Kentaroo | 273492 | [273492-foxingdale-the-magical-stones-of-kentaroo.json](./273492-foxingdale-the-magical-stones-of-kentaroo.json) |
+| Foxnox | 247969 | [247969-foxnox.json](./247969-foxnox.json) |
 | Foxo | 372039 | [372039-foxo.json](./372039-foxo.json) |
 | Foxo's Fun Schoolhouse | 310685 | [310685-foxos-fun-schoolhouse.json](./310685-foxos-fun-schoolhouse.json) |
 | FoxRun | 340241 | [340241-foxrun.json](./340241-foxrun.json) |
@@ -8505,6 +8507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furry Fantasy | 207794 | [207794-furry-fantasy.json](./207794-furry-fantasy.json) |
 | Furry Farm | 329099 | [329099-furry-farm.json](./329099-furry-farm.json) |
 | Furry Feet Girls | 301999 | [301999-furry-feet-girls.json](./301999-furry-feet-girls.json) |
+| Furry Femboys | 247961 | [247961-furry-femboys.json](./247961-furry-femboys.json) |
 | Furry Fetishists | 286501 | [286501-furry-fetishists.json](./286501-furry-fetishists.json) |
 | Furry from Outer Space | 310485 | [310485-furry-from-outer-space.json](./310485-furry-from-outer-space.json) |
 | Furry Furries | 244386 | [244386-furry-furries.json](./244386-furry-furries.json) |
