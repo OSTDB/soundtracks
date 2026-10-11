@@ -524,6 +524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taisho x Alice Epilogue | 153498 | [153498-taisho-x-alice-epilogue.json](./153498-taisho-x-alice-epilogue.json) |
 | Taisho x Alice: Episode 3 | 150505 | [150505-taisho-x-alice-episode-3.json](./150505-taisho-x-alice-episode-3.json) |
 | Taisho x Alice: Heads & Tails! | 201613 | [201613-taisho-x-alice-heads-and-tails.json](./201613-taisho-x-alice-heads-and-tails.json) |
+| Taisho Yakyuu Musume: Otometachi no Seishun Nikki | 269515 | [269515-taisho-yakyuu-musume-otometachi-no-seishun-nikki.json](./269515-taisho-yakyuu-musume-otometachi-no-seishun-nikki.json) |
 | Taisho Zombi Roman (Plus) | 150657 | [150657-taisho-zombi-roman-plus.json](./150657-taisho-zombi-roman-plus.json) |
 | Taishou Kitan: Kotonoha Sakura | 218956 | [218956-taishou-kitan-kotonoha-sakura.json](./218956-taishou-kitan-kotonoha-sakura.json) |
 | Taishou Mebiusline Hitotsumi | 141897 | [141897-taishou-mebiusline-hitotsumi.json](./141897-taishou-mebiusline-hitotsumi.json) |
@@ -1458,6 +1459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tantei Opera Milky Holmes 2 | 150117 | [150117-tantei-opera-milky-holmes-2.json](./150117-tantei-opera-milky-holmes-2.json) |
 | Tantei Shinshi Dash! | 122873 | [122873-tantei-shinshi-dash.json](./122873-tantei-shinshi-dash.json) |
 | Tantei Toki to Yukiyama Kaishi Densetsu Satsujin Jiken | 150118 | [150118-tantei-toki-to-yukiyama-kaishi-densetsu-satsujin-jiken.json](./150118-tantei-toki-to-yukiyama-kaishi-densetsu-satsujin-jiken.json) |
+| Tanteibu: The Detective Club - Angou to Misshitsu to Kaijin to | 269513 | [269513-tanteibu-the-detective-club-angou-to-misshitsu-to-kaijin-to.json](./269513-tanteibu-the-detective-club-angou-to-misshitsu-to-kaijin-to.json) |
 | Tanteidan X | 356073 | [356073-tanteidan-x.json](./356073-tanteidan-x.json) |
 | Tanthious | 211785 | [211785-tanthious.json](./211785-tanthious.json) |
 | Tantibus | 124589 | [124589-tantibus.json](./124589-tantibus.json) |
@@ -2259,6 +2261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teething | 63797 | [63797-teething.json](./63797-teething.json) |
 | Teeto | 285987 | [285987-teeto.json](./285987-teeto.json) |
 | Teeworlds | 35005 | [35005-teeworlds.json](./35005-teeworlds.json) |
+| Tegami Bachi: Kokoro Tsumugu-mono he | 269514 | [269514-tegami-bachi-kokoro-tsumugu-mono-he.json](./269514-tegami-bachi-kokoro-tsumugu-mono-he.json) |
 | Tegra: Post Apocalypse Survival | 231886 | [231886-tegra-post-apocalypse-survival.json](./231886-tegra-post-apocalypse-survival.json) |
 | Tegzer | 288691 | [288691-tegzer.json](./288691-tegzer.json) |
 | Teh Scrunglybois: Working Title | 382920 | [382920-teh-scrunglybois-working-title.json](./382920-teh-scrunglybois-working-title.json) |
@@ -15194,6 +15197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tobi Tsukihime | 169159 | [169159-tobi-tsukihime.json](./169159-tobi-tsukihime.json) |
 | Tobia's Animal Farm | 301965 | [301965-tobias-animal-farm.json](./301965-tobias-animal-farm.json) |
 | Tobichiyon X | 311750 | [311750-tobichiyon-x.json](./311750-tobichiyon-x.json) |
+| Tobidase! Trouble Hanafuda Douchuuki | 269512 | [269512-tobidase-trouble-hanafuda-douchuuki.json](./269512-tobidase-trouble-hanafuda-douchuuki.json) |
 | Tobimarisa | 97511 | [97511-tobimarisa.json](./97511-tobimarisa.json) |
 | Tobitaro | 391152 | [391152-tobitaro.json](./391152-tobitaro.json) |
 | Tobla: Divine Path | 279132 | [279132-tobla-divine-path.json](./279132-tobla-divine-path.json) |
@@ -20525,6 +20529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twisted Tales: Night night Scarlett | 178653 | [178653-twisted-tales-night-night-scarlett.json](./178653-twisted-tales-night-night-scarlett.json) |
 | Twisted Tangle | 254744 | [254744-twisted-tangle.json](./254744-twisted-tangle.json) |
 | Twisted to the Roots | 309529 | [309529-twisted-to-the-roots.json](./309529-twisted-to-the-roots.json) |
+| Twisted Tower | 269507 | [269507-twisted-tower.json](./269507-twisted-tower.json) |
 | Twisted Waters | 295283 | [295283-twisted-waters.json](./295283-twisted-waters.json) |
 | Twisted Worlds | 32918 | [32918-twisted-worlds.json](./32918-twisted-worlds.json) |
 | Twisted: The Game Show | 4321 | [4321-twisted-the-game-show.json](./4321-twisted-the-game-show.json) |
