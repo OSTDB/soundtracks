@@ -806,6 +806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rain98 | 339805 | [339805-rain98.json](./339805-rain98.json) |
 | Rainblocks | 212297 | [212297-rainblocks.json](./212297-rainblocks.json) |
 | Rainbow | 196629 | [196629-rainbow.json](./196629-rainbow.json) |
+| Rainbow | 264558 | [264558-rainbow.json](./264558-rainbow.json) |
 | Rainbow | 359417 | [359417-rainbow.json](./359417-rainbow.json) |
 | Rainbow Aliceland | 206725 | [206725-rainbow-aliceland.json](./206725-rainbow-aliceland.json) |
 | Rainbow Billy: The Book of Fears | 391844 | [391844-rainbow-billy-the-book-of-fears.json](./391844-rainbow-billy-the-book-of-fears.json) |
