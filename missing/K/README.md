@@ -1159,6 +1159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kestrel | 152386 | [152386-kestrel.json](./152386-kestrel.json) |
 | Ketamina | 249848 | [249848-ketamina.json](./249848-ketamina.json) |
 | Ketchapp Summer Sports | 246960 | [246960-ketchapp-summer-sports.json](./246960-ketchapp-summer-sports.json) |
+| Ketchapp Tennis | 257877 | [257877-ketchapp-tennis.json](./257877-ketchapp-tennis.json) |
 | Kether | 45921 | [45921-kether.json](./45921-kether.json) |
 | KetnetKick | 94236 | [94236-ketnetkick.json](./94236-ketnetkick.json) |
 | Ketris | 182540 | [182540-ketris.json](./182540-ketris.json) |
