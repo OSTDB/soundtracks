@@ -487,6 +487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xiangqi: The Chinese Chess | 266301 | [266301-xiangqi-the-chinese-chess.json](./266301-xiangqi-the-chinese-chess.json) |
 | Xiāngshān 31 Hào | 120938 | [120938-xiangshan-31-hao.json](./120938-xiangshan-31-hao.json) |
 | Xiàngsù Nányǒu Yǔyīn: Wánzhěng Bǎn | 161382 | [161382-xiangsu-nanyou-yuyin-wanzheng-ban.json](./161382-xiangsu-nanyou-yuyin-wanzheng-ban.json) |
+| Xiàngzhe Xīngchén yǔ Shēnyuān | 269475 | [269475-xiangzhe-xingchen-yu-shenyuan.json](./269475-xiangzhe-xingchen-yu-shenyuan.json) |
 | Xiānjiànjué Wǎngluòbǎn | 161328 | [161328-xianjianjue-wangluoban.json](./161328-xianjianjue-wangluoban.json) |
 | Xiānxiá Díchén Lù | 316674 | [316674-xianxia-dichen-lu.json](./316674-xianxia-dichen-lu.json) |
 | Xiānyù | 113647 | [113647-xianyu.json](./113647-xianyu.json) |
