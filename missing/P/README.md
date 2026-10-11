@@ -7647,6 +7647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pong Temple | 190725 | [190725-pong-temple.json](./190725-pong-temple.json) |
 | Pong Toss Pro: Frat Party Games | 84810 | [84810-pong-toss-pro-frat-party-games.json](./84810-pong-toss-pro-frat-party-games.json) |
 | Pong: Evolved | 329631 | [329631-pong-evolved.json](./329631-pong-evolved.json) |
+| Pong: The Next Level | 265058 | [265058-pong-the-next-level.json](./265058-pong-the-next-level.json) |
 | Pongarena | 137615 | [137615-pongarena.json](./137615-pongarena.json) |
 | PongBall | 255993 | [255993-pongball.json](./255993-pongball.json) |
 | Pongémon | 285035 | [285035-pongemon.json](./285035-pongemon.json) |
@@ -8449,6 +8450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Solenoid | 251845 | [251845-power-solenoid.json](./251845-power-solenoid.json) |
 | Power Solenoid: BennyJr | 332608 | [332608-power-solenoid-bennyjr.json](./332608-power-solenoid-bennyjr.json) |
 | Power Sphere | 53471 | [53471-power-sphere.json](./53471-power-sphere.json) |
+| Power Spike: Pro Beach Volleyball | 265059 | [265059-power-spike-pro-beach-volleyball.json](./265059-power-spike-pro-beach-volleyball.json) |
 | Power Spike: Pro Beach Volleyball | 44888 | [44888-power-spike-pro-beach-volleyball.json](./44888-power-spike-pro-beach-volleyball.json) |
 | Power Spikes | 38569 | [38569-power-spikes.json](./38569-power-spikes.json) |
 | Power Stakes | 301385 | [301385-power-stakes.json](./301385-power-stakes.json) |
