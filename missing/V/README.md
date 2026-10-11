@@ -170,6 +170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valakas: Immortal | 154393 | [154393-valakas-immortal.json](./154393-valakas-immortal.json) |
 | Valbrace | 318603 | [318603-valbrace.json](./318603-valbrace.json) |
 | Valcarta: Rise of the Demon | 32887 | [32887-valcarta-rise-of-the-demon.json](./32887-valcarta-rise-of-the-demon.json) |
+| Valdamour | 264531 | [264531-valdamour.json](./264531-valdamour.json) |
 | Valdis | 377296 | [377296-valdis.json](./377296-valdis.json) |
 | Valdis Story: Abyssal City | 6134 | [6134-valdis-story-abyssal-city.json](./6134-valdis-story-abyssal-city.json) |
 | Vale | 263012 | [263012-vale.json](./263012-vale.json) |
@@ -603,6 +604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Various Daylife: Mobile | 233061 | [233061-various-daylife-mobile.json](./233061-various-daylife-mobile.json) |
 | Varista | 258600 | [258600-varista.json](./258600-varista.json) |
 | VariTale | 71508 | [71508-varitale.json](./71508-varitale.json) |
+| Varkij: Dream and Nightmare | 264530 | [264530-varkij-dream-and-nightmare.json](./264530-varkij-dream-and-nightmare.json) |
 | Varkon | 95368 | [95368-varkon.json](./95368-varkon.json) |
 | Varlet | 341552 | [341552-varlet.json](./341552-varlet.json) |
 | Varmintz | 9063 | [9063-varmintz.json](./9063-varmintz.json) |
@@ -615,6 +617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Varyznex | 329154 | [329154-varyznex.json](./329154-varyznex.json) |
 | Vasilis | 113489 | [113489-vasilis.json](./113489-vasilis.json) |
 | Vasilisa the Beautiful | 360566 | [360566-vasilisa-the-beautiful.json](./360566-vasilisa-the-beautiful.json) |
+| Vasilisas Torment | 264524 | [264524-vasilisas-torment.json](./264524-vasilisas-torment.json) |
 | Vassoul | 384251 | [384251-vassoul.json](./384251-vassoul.json) |
 | Vast | 116103 | [116103-vast.json](./116103-vast.json) |
 | Vast Haven-1 VR | 350495 | [350495-vast-haven-1-vr.json](./350495-vast-haven-1-vr.json) |
@@ -626,6 +629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vastynex | 184398 | [184398-vastynex.json](./184398-vastynex.json) |
 | Vatlva | 22503 | [22503-vatlva.json](./22503-vatlva.json) |
 | VATSim | 56506 | [56506-vatsim.json](./56506-vatsim.json) |
+| Vault Apocalypsis | 264529 | [264529-vault-apocalypsis.json](./264529-vault-apocalypsis.json) |
 | Vault Assault | 40731 | [40731-vault-assault.json](./40731-vault-assault.json) |
 | Vault Circuit | 212743 | [212743-vault-circuit.json](./212743-vault-circuit.json) |
 | Vault Cracker | 17370 | [17370-vault-cracker.json](./17370-vault-cracker.json) |
@@ -1546,6 +1550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virago World | 374738 | [374738-virago-world.json](./374738-virago-world.json) |
 | Virago: Herstory | 226184 | [226184-virago-herstory.json](./226184-virago-herstory.json) |
 | Virago: Herstory 2 | 374735 | [374735-virago-herstory-2.json](./374735-virago-herstory-2.json) |
+| Virago: Reality New | 264528 | [264528-virago-reality-new.json](./264528-virago-reality-new.json) |
 | Virago: Trepidation | 219517 | [219517-virago-trepidation.json](./219517-virago-trepidation.json) |
 | Virago: What If | 374745 | [374745-virago-what-if.json](./374745-virago-what-if.json) |
 | Viral | 265255 | [265255-viral.json](./265255-viral.json) |
@@ -1828,6 +1833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Visions | 61867 | [61867-visions.json](./61867-visions.json) |
 | Visions of Aftermath: Boomtown | 9526 | [9526-visions-of-aftermath-boomtown.json](./9526-visions-of-aftermath-boomtown.json) |
 | Visions of Eternity | 281317 | [281317-visions-of-eternity.json](./281317-visions-of-eternity.json) |
+| Visions of Evil | 264525 | [264525-visions-of-evil.json](./264525-visions-of-evil.json) |
 | Visit Bloofpiter Today | 302510 | [302510-visit-bloofpiter-today.json](./302510-visit-bloofpiter-today.json) |
 | Visit Once | 147469 | [147469-visit-once.json](./147469-visit-once.json) |
 | Visitations | 156610 | [156610-visitations.json](./156610-visitations.json) |
@@ -2233,6 +2239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Volzerk: Monsters and Lands Unknown | 231295 | [231295-volzerk-monsters-and-lands-unknown.json](./231295-volzerk-monsters-and-lands-unknown.json) |
 | Vom Drachentöten | 389120 | [389120-vom-drachentoten.json](./389120-vom-drachentoten.json) |
 | Vomitoreum | 142271 | [142271-vomitoreum.json](./142271-vomitoreum.json) |
+| VonGarland Castle: Sacrilege of the Night | 264526 | [264526-vongarland-castle-sacrilege-of-the-night.json](./264526-vongarland-castle-sacrilege-of-the-night.json) |
 | VoodLoop | 364566 | [364566-voodloop.json](./364566-voodloop.json) |
 | Voodoo Dolls | 319806 | [319806-voodoo-dolls.json](./319806-voodoo-dolls.json) |
 | Voodoo Fishin' | 350020 | [350020-voodoo-fishin.json](./350020-voodoo-fishin.json) |
