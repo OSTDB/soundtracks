@@ -1611,6 +1611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted Hotel | 146857 | [146857-haunted-hotel.json](./146857-haunted-hotel.json) |
 | Haunted Hotel | 31063 | [31063-haunted-hotel.json](./31063-haunted-hotel.json) |
 | Haunted Hotel II: Believe the Lies | 36450 | [36450-haunted-hotel-ii-believe-the-lies.json](./36450-haunted-hotel-ii-believe-the-lies.json) |
+| Haunted Hotel XVI: Beyond the Page - Collector's Edition | 261151 | [261151-haunted-hotel-xvi-beyond-the-page-collectors-edition.json](./261151-haunted-hotel-xvi-beyond-the-page-collectors-edition.json) |
 | Haunted Hotel: A Past Redeemed | 182399 | [182399-haunted-hotel-a-past-redeemed.json](./182399-haunted-hotel-a-past-redeemed.json) |
 | Haunted Hotel: A Past Redeemed - Collector's Edition | 152889 | [152889-haunted-hotel-a-past-redeemed-collectors-edition.json](./152889-haunted-hotel-a-past-redeemed-collectors-edition.json) |
 | Haunted Hotel: Ancient Bane | 180306 | [180306-haunted-hotel-ancient-bane.json](./180306-haunted-hotel-ancient-bane.json) |
