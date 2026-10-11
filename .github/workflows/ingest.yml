@@ -12,6 +12,9 @@ permissions:
 
 jobs:
   ingest:
+    # ostdbbot (the soundtracks-sync worker) only pushes empty missing/
+    # placeholders and index pages straight to main; there is nothing to ingest.
+    if: github.actor != 'ostdbbot'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -113,5 +116,12 @@ jobs:
             git config user.name "ostdb-bot"
             git config user.email "bot@ostdb.net"
             git commit -m "Remove processed submissions"
-            git push
+            # The sync worker commits to main every few minutes, so the push
+            # can race it; rebase onto the new main and try again.
+            for attempt in 1 2 3 4 5; do
+              if git push; then exit 0; fi
+              sleep $((attempt * 5))
+              git pull --rebase --quiet origin main
+            done
+            echo "::warning::Could not remove processed files (main kept moving). They were ingested; the worker cleans up missing/ placeholders on its next sync."
           fi
