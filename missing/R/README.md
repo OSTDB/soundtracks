@@ -4984,6 +4984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Risk | 82434 | [82434-risk.json](./82434-risk.json) |
 | Risk & Riches | 333646 | [333646-risk-and-riches.json](./333646-risk-and-riches.json) |
 | Risk Battleship Clue | 138001 | [138001-risk-battleship-clue.json](./138001-risk-battleship-clue.json) |
+| Risk of Pain | 278372 | [278372-risk-of-pain.json](./278372-risk-of-pain.json) |
 | Risk of Rain | 3173 | [3173-risk-of-rain.json](./3173-risk-of-rain.json) |
 | Risk of Rain 2 + Survivors of the Void | 201040 | [201040-risk-of-rain-2-survivors-of-the-void.json](./201040-risk-of-rain-2-survivors-of-the-void.json) |
 | Risk of Rain 2: Aetherium | 310531 | [310531-risk-of-rain-2-aetherium.json](./310531-risk-of-rain-2-aetherium.json) |
@@ -5098,6 +5099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rivals with Benefits | 313803 | [313803-rivals-with-benefits.json](./313803-rivals-with-benefits.json) |
 | Rivals: Esports Manager | 327799 | [327799-rivals-esports-manager.json](./327799-rivals-esports-manager.json) |
 | Rivals' Duel | 277611 | [277611-rivals-duel.json](./277611-rivals-duel.json) |
+| Rivandy | 278373 | [278373-rivandy.json](./278373-rivandy.json) |
 | Rive: Blue Box Limited Edition | 202220 | [202220-rive-blue-box-limited-edition.json](./202220-rive-blue-box-limited-edition.json) |
 | Rive: Orange Box Limited Edition | 202219 | [202219-rive-orange-box-limited-edition.json](./202219-rive-orange-box-limited-edition.json) |
 | Riven Crown | 339237 | [339237-riven-crown.json](./339237-riven-crown.json) |
@@ -6882,6 +6884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | rOt 3D | 119783 | [119783-rot-3d.json](./119783-rot-3d.json) |
 | Rot Forever | 371260 | [371260-rot-forever.json](./371260-rot-forever.json) |
 | Rot Gut | 34656 | [34656-rot-gut.json](./34656-rot-gut.json) |
+| Rot In Hell | 278374 | [278374-rot-in-hell.json](./278374-rot-in-hell.json) |
 | Rot in Paradise | 318124 | [318124-rot-in-paradise.json](./318124-rot-in-paradise.json) |
 | Rot Splatation | 409809 | [409809-rot-splatation.json](./409809-rot-splatation.json) |
 | Rot: Purgatory Hill | 182811 | [182811-rot-purgatory-hill.json](./182811-rot-purgatory-hill.json) |
