@@ -915,6 +915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai Wars | 32025 | [32025-samurai-wars.json](./32025-samurai-wars.json) |
 | Samurai Wish | 107890 | [107890-samurai-wish.json](./107890-samurai-wish.json) |
 | Samurai Zero | 139375 | [139375-samurai-zero.json](./139375-samurai-zero.json) |
+| Samurai: Japan Warrior Fighter | 267869 | [267869-samurai-japan-warrior-fighter.json](./267869-samurai-japan-warrior-fighter.json) |
 | Samurai: Ronin's Path | 127764 | [127764-samurai-ronins-path.json](./127764-samurai-ronins-path.json) |
 | Samurai's Odyssey | 372991 | [372991-samurais-odyssey.json](./372991-samurais-odyssey.json) |
 | Samurai's Path | 379884 | [379884-samurais-path.json](./379884-samurais-path.json) |
@@ -4663,6 +4664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ShaQu | 358233 | [358233-shaqu.json](./358233-shaqu.json) |
 | Shard of Kronos | 163967 | [163967-shard-of-kronos.json](./163967-shard-of-kronos.json) |
 | Shard of Spring | 2884 | [2884-shard-of-spring.json](./2884-shard-of-spring.json) |
+| Shard Seekers | 267823 | [267823-shard-seekers.json](./267823-shard-seekers.json) |
 | Shard Squad | 323529 | [323529-shard-squad.json](./323529-shard-squad.json) |
 | Shardbound | 27747 | [27747-shardbound.json](./27747-shardbound.json) |
 | Shardbreakers | 351254 | [351254-shardbreakers.json](./351254-shardbreakers.json) |
@@ -17161,6 +17163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Story of the Survivor: The Escape | 156154 | [156154-story-of-the-survivor-the-escape.json](./156154-story-of-the-survivor-the-escape.json) |
 | Story of You: The Allied Kingdoms | 193477 | [193477-story-of-you-the-allied-kingdoms.json](./193477-story-of-you-the-allied-kingdoms.json) |
 | Story Teller | 119693 | [119693-story-teller.json](./119693-story-teller.json) |
+| Story Time | 267824 | [267824-story-time.json](./267824-story-time.json) |
 | Story Time Bundle | 305486 | [305486-story-time-bundle.json](./305486-story-time-bundle.json) |
 | Story Universe | 122915 | [122915-story-universe.json](./122915-story-universe.json) |
 | Story Walker | 211108 | [211108-story-walker.json](./211108-story-walker.json) |
