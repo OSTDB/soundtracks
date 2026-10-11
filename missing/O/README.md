@@ -2213,6 +2213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operation Whirlwind | 23964 | [23964-operation-whirlwind.json](./23964-operation-whirlwind.json) |
 | Operation Wolf 3 | 40377 | [40377-operation-wolf-3.json](./40377-operation-wolf-3.json) |
 | Operation Wolf Returns: First Mission | 218213 | [218213-operation-wolf-returns-first-mission.json](./218213-operation-wolf-returns-first-mission.json) |
+| Operation Wolf Returns: First Mission - Rescue Edition | 270583 | [270583-operation-wolf-returns-first-mission-rescue-edition.json](./270583-operation-wolf-returns-first-mission-rescue-edition.json) |
 | Operation Wolfenstein | 179472 | [179472-operation-wolfenstein.json](./179472-operation-wolfenstein.json) |
 | Operation Z.E.R.O.: OutNumbuh'd! | 234540 | [234540-operation-z-e-r-o-outnumbuhd.json](./234540-operation-z-e-r-o-outnumbuhd.json) |
 | Operation Zero | 333014 | [333014-operation-zero.json](./333014-operation-zero.json) |
