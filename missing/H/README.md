@@ -3551,6 +3551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hermit and Pig | 252738 | [252738-hermit-and-pig.json](./252738-hermit-and-pig.json) |
 | Hermit Computer | 402440 | [402440-hermit-computer.json](./402440-hermit-computer.json) |
 | Hermit: an Underwater Tale | 211955 | [211955-hermit-an-underwater-tale.json](./211955-hermit-an-underwater-tale.json) |
+| Hermit's Tic-Tac-Toe | 243608 | [243608-hermits-tic-tac-toe.json](./243608-hermits-tic-tac-toe.json) |
 | Hermitage Strange Case Files | 99435 | [99435-hermitage-strange-case-files.json](./99435-hermitage-strange-case-files.json) |
 | Hermitage: Strange Case Files | 130256 | [130256-hermitage-strange-case-files.json](./130256-hermitage-strange-case-files.json) |
 | Hero | 313746 | [313746-hero.json](./313746-hero.json) |
