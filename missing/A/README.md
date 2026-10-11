@@ -2402,6 +2402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Affiliated Homies | 357796 | [357796-affiliated-homies.json](./357796-affiliated-homies.json) |
 | Affinity | 144199 | [144199-affinity.json](./144199-affinity.json) |
 | Affinity: Fallen from Paradise | 211262 | [211262-affinity-fallen-from-paradise.json](./211262-affinity-fallen-from-paradise.json) |
+| Afflicted | 261188 | [261188-afflicted.json](./261188-afflicted.json) |
 | Affliction | 28913 | [28913-affliction.json](./28913-affliction.json) |
 | Affogato | 210654 | [210654-affogato.json](./210654-affogato.json) |
 | Affordable Healthcare | 297763 | [297763-affordable-healthcare.json](./297763-affordable-healthcare.json) |
@@ -5168,6 +5169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | American Truck Simulator: Mack Pinnacle | 353408 | [353408-american-truck-simulator-mack-pinnacle.json](./353408-american-truck-simulator-mack-pinnacle.json) |
 | American Truck Simulator: Missouri | 281308 | [281308-american-truck-simulator-missouri.json](./281308-american-truck-simulator-missouri.json) |
 | American Truck Simulator: Montana | 195585 | [195585-american-truck-simulator-montana.json](./195585-american-truck-simulator-montana.json) |
+| American Truck Simulator: Nebraska | 261149 | [261149-american-truck-simulator-nebraska.json](./261149-american-truck-simulator-nebraska.json) |
 | American Truck Simulator: Oregon | 115773 | [115773-american-truck-simulator-oregon.json](./115773-american-truck-simulator-oregon.json) |
 | American Truck Simulator: Pink Ribbon Charity Pack | 353398 | [353398-american-truck-simulator-pink-ribbon-charity-pack.json](./353398-american-truck-simulator-pink-ribbon-charity-pack.json) |
 | American Truck Simulator: Retrowave Paint Jobs Pack | 353405 | [353405-american-truck-simulator-retrowave-paint-jobs-pack.json](./353405-american-truck-simulator-retrowave-paint-jobs-pack.json) |
@@ -5805,6 +5807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angle Me | 232390 | [232390-angle-me.json](./232390-angle-me.json) |
 | Angle of Attack | 16064 | [16064-angle-of-attack.json](./16064-angle-of-attack.json) |
 | Angle Wars | 132598 | [132598-angle-wars.json](./132598-angle-wars.json) |
+| Angle. | 261162 | [261162-angle.json](./261162-angle.json) |
 | Angler Dangler | 386681 | [386681-angler-dangler.json](./386681-angler-dangler.json) |
 | Angler King | 249778 | [249778-angler-king.json](./249778-angler-king.json) |
 | Angler Quest | 290711 | [290711-angler-quest.json](./290711-angler-quest.json) |
