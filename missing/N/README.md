@@ -94,7 +94,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naive Riri | 236511 | [236511-naive-riri.json](./236511-naive-riri.json) |
 | Nak | 330344 | [330344-nak.json](./330344-nak.json) |
 | Nak Sim: Fallen Warriors | 153380 | [153380-nak-sim-fallen-warriors.json](./153380-nak-sim-fallen-warriors.json) |
+| Nakadashi Banzai | 249100 | [249100-nakadashi-banzai.json](./249100-nakadashi-banzai.json) |
 | Nakadashi Banzai 4 | 163920 | [163920-nakadashi-banzai-4.json](./163920-nakadashi-banzai-4.json) |
+| Nakadashi Banzai 5 | 249102 | [249102-nakadashi-banzai-5.json](./249102-nakadashi-banzai-5.json) |
 | Nakajima Satoru F-1 Hero GB: World Championship '91 | 94204 | [94204-nakajima-satoru-f-1-hero-gb-world-championship-91.json](./94204-nakajima-satoru-f-1-hero-gb-world-championship-91.json) |
 | Nakajima Satoru Kanshuu: F-1 Hero '94 | 37914 | [37914-nakajima-satoru-kanshuu-f-1-hero-94.json](./37914-nakajima-satoru-kanshuu-f-1-hero-94.json) |
 | Nakajima Satoru: F-1 Hero | 48302 | [48302-nakajima-satoru-f-1-hero.json](./48302-nakajima-satoru-f-1-hero.json) |
@@ -853,6 +855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NBA Jam | 88923 | [88923-nba-jam.json](./88923-nba-jam.json) |
 | NBA Jam | 8995 | [8995-nba-jam.json](./8995-nba-jam.json) |
 | NBA Jam 2001 | 49903 | [49903-nba-jam-2001.json](./49903-nba-jam-2001.json) |
+| NBA Jam 99 | 249121 | [249121-nba-jam-99.json](./249121-nba-jam-99.json) |
 | NBA Jam Extreme | 40205 | [40205-nba-jam-extreme.json](./40205-nba-jam-extreme.json) |
 | NBA Jam Tournament Edition | 19712 | [19712-nba-jam-tournament-edition.json](./19712-nba-jam-tournament-edition.json) |
 | NBA Jam: 1990's On Fire Edition | 318696 | [318696-nba-jam-1990s-on-fire-edition.json](./318696-nba-jam-1990s-on-fire-edition.json) |
