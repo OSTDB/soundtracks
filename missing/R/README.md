@@ -3689,6 +3689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retrieval | 405598 | [405598-retrieval.json](./405598-retrieval.json) |
 | Retrieving the Past: Steam Edition | 195241 | [195241-retrieving-the-past-steam-edition.json](./195241-retrieving-the-past-steam-edition.json) |
 | ReTrime | 414466 | [414466-retrime.json](./414466-retrime.json) |
+| Retris | 258360 | [258360-retris.json](./258360-retris.json) |
 | Retro | 171479 | [171479-retro.json](./171479-retro.json) |
 | Retro Abyss | 221677 | [221677-retro-abyss.json](./221677-retro-abyss.json) |
 | Retro Adventure | 308399 | [308399-retro-adventure.json](./308399-retro-adventure.json) |
@@ -3833,6 +3834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retrowave Drift | 148911 | [148911-retrowave-drift.json](./148911-retrowave-drift.json) |
 | Retrowave Hexon | 159857 | [159857-retrowave-hexon.json](./159857-retrowave-hexon.json) |
 | Retrowave Illusions: Aesthetics Edition | 250304 | [250304-retrowave-illusions-aesthetics-edition.json](./250304-retrowave-illusions-aesthetics-edition.json) |
+| Retrowave World | 258383 | [258383-retrowave-world.json](./258383-retrowave-world.json) |
 | Retrozen | 298417 | [298417-retrozen.json](./298417-retrozen.json) |
 | Retrys | 355576 | [355576-retrys.json](./355576-retrys.json) |
 | Retsnom | 34946 | [34946-retsnom.json](./34946-retsnom.json) |
@@ -6831,6 +6833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rootbound | 315102 | [315102-rootbound.json](./315102-rootbound.json) |
 | Rooted | 194616 | [194616-rooted.json](./194616-rooted.json) |
 | Rooten | 155659 | [155659-rooten.json](./155659-rooten.json) |
+| RootKeeper | 258396 | [258396-rootkeeper.json](./258396-rootkeeper.json) |
 | Rootless | 183036 | [183036-rootless.json](./183036-rootless.json) |
 | Rootless | 377198 | [377198-rootless.json](./377198-rootless.json) |
 | Rootlify | 413110 | [413110-rootlify.json](./413110-rootlify.json) |
