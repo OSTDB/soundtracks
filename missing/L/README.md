@@ -2047,6 +2047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Star Wars: The Skywalker Saga - The Mandalorian: Season 2 - Character Pack | 201139 | [201139-lego-star-wars-the-skywalker-saga-the-mandalorian-season-2-character-pack.json](./201139-lego-star-wars-the-skywalker-saga-the-mandalorian-season-2-character-pack.json) |
 | LEGO Star Wars: The Skywalker Saga - Trooper Pack | 201140 | [201140-lego-star-wars-the-skywalker-saga-trooper-pack.json](./201140-lego-star-wars-the-skywalker-saga-trooper-pack.json) |
 | LEGO Studios Backlot | 125320 | [125320-lego-studios-backlot.json](./125320-lego-studios-backlot.json) |
+| LEGO Stunt Rally | 265050 | [265050-lego-stunt-rally.json](./265050-lego-stunt-rally.json) |
 | LEGO Stunt Rally | 4112 | [4112-lego-stunt-rally.json](./4112-lego-stunt-rally.json) |
 | LEGO Super Heroes: Thor | 228414 | [228414-lego-super-heroes-thor.json](./228414-lego-super-heroes-thor.json) |
 | LEGO Super Mario Goal | 328610 | [328610-lego-super-mario-goal.json](./328610-lego-super-mario-goal.json) |
@@ -4601,6 +4602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loomchild | 418773 | [418773-loomchild.json](./418773-loomchild.json) |
 | Loona Landa | 271127 | [271127-loona-landa.json](./271127-loona-landa.json) |
 | Looney Tune Dash | 101947 | [101947-looney-tune-dash.json](./101947-looney-tune-dash.json) |
+| Looney Tunes | 265041 | [265041-looney-tunes.json](./265041-looney-tunes.json) |
 | Looney Tunes | 290324 | [290324-looney-tunes.json](./290324-looney-tunes.json) |
 | Looney Tunes Racing | 292791 | [292791-looney-tunes-racing.json](./292791-looney-tunes-racing.json) |
 | Looney Tunes Racing | 8135 | [8135-looney-tunes-racing.json](./8135-looney-tunes-racing.json) |
@@ -5792,6 +5794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucky Joe | 160168 | [160168-lucky-joe.json](./160168-lucky-joe.json) |
 | Lucky Lawn Mower | 359413 | [359413-lucky-lawn-mower.json](./359413-lucky-lawn-mower.json) |
 | Lucky Luke | 198806 | [198806-lucky-luke.json](./198806-lucky-luke.json) |
+| Lucky Luke | 265060 | [265060-lucky-luke.json](./265060-lucky-luke.json) |
 | Lucky Luke Shoot & Hit | 197849 | [197849-lucky-luke-shoot-and-hit.json](./197849-lucky-luke-shoot-and-hit.json) |
 | Lucky Luke: Desperado Train | 50027 | [50027-lucky-luke-desperado-train.json](./50027-lucky-luke-desperado-train.json) |
 | Lucky Luke: Nitroglycerine | 240264 | [240264-lucky-luke-nitroglycerine.json](./240264-lucky-luke-nitroglycerine.json) |
@@ -6335,6 +6338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LyokoVR | 169337 | [169337-lyokovr.json](./169337-lyokovr.json) |
 | Lyra | 323986 | [323986-lyra.json](./323986-lyra.json) |
 | Lyra and the Echo of the Abyss | 345696 | [345696-lyra-and-the-echo-of-the-abyss.json](./345696-lyra-and-the-echo-of-the-abyss.json) |
+| Lyra the Tenrec | 265073 | [265073-lyra-the-tenrec.json](./265073-lyra-the-tenrec.json) |
 | Lyratha: Labyrinth - Survival Escape | 115682 | [115682-lyratha-labyrinth-survival-escape.json](./115682-lyratha-labyrinth-survival-escape.json) |
 | LyraVR | 29923 | [29923-lyravr.json](./29923-lyravr.json) |
 | Lyre | 182275 | [182275-lyre.json](./182275-lyre.json) |
