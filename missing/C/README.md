@@ -663,6 +663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Camping Mama: Outdoor Adventures | 47942 | [47942-camping-mama-outdoor-adventures.json](./47942-camping-mama-outdoor-adventures.json) |
 | Camping Simulator: The Squad | 150072 | [150072-camping-simulator-the-squad.json](./150072-camping-simulator-the-squad.json) |
 | Camping Tycoon | 62979 | [62979-camping-tycoon.json](./62979-camping-tycoon.json) |
+| Camping Vlog Simulator 2024 | 275544 | [275544-camping-vlog-simulator-2024.json](./275544-camping-vlog-simulator-2024.json) |
 | Camping with girls | 106154 | [106154-camping-with-girls.json](./106154-camping-with-girls.json) |
 | Campire of Oasis: The Story | 397659 | [397659-campire-of-oasis-the-story.json](./397659-campire-of-oasis-the-story.json) |
 | Camplandia | 249872 | [249872-camplandia.json](./249872-camplandia.json) |
@@ -1806,6 +1807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cartridge Monsters | 158030 | [158030-cartridge-monsters.json](./158030-cartridge-monsters.json) |
 | Cartridge Monsters: Rebirth | 278920 | [278920-cartridge-monsters-rebirth.json](./278920-cartridge-monsters-rebirth.json) |
 | Carts Battle | 310071 | [310071-carts-battle.json](./310071-carts-battle.json) |
+| Cartuchito World: Canella Edition | 275621 | [275621-cartuchito-world-canella-edition.json](./275621-cartuchito-world-canella-edition.json) |
 | Carvalho: Los Pájaros de Bangkok | 138790 | [138790-carvalho-los-pajaros-de-bangkok.json](./138790-carvalho-los-pajaros-de-bangkok.json) |
 | Carve The Cave Together | 414602 | [414602-carve-the-cave-together.json](./414602-carve-the-cave-together.json) |
 | Carved Brink | 356881 | [356881-carved-brink.json](./356881-carved-brink.json) |
@@ -3344,6 +3346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chamber.Repeat(); | 186053 | [186053-chamber-repeat.json](./186053-chamber-repeat.json) |
 | Chambered | 385381 | [385381-chambered.json](./385381-chambered.json) |
 | Chambered | 40708 | [40708-chambered.json](./40708-chambered.json) |
+| Chamberflame | 275540 | [275540-chamberflame.json](./275540-chamberflame.json) |
 | Chamberlore | 378435 | [378435-chamberlore.json](./378435-chamberlore.json) |
 | Chambers | 281980 | [281980-chambers.json](./281980-chambers.json) |
 | Chambers & Crops | 346255 | [346255-chambers-and-crops.json](./346255-chambers-and-crops.json) |
@@ -12155,6 +12158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Custom Order Maid 3D2: Sweet, Affectionate, and Devoted Long-lost Friend GP-01fb | 311718 | [311718-custom-order-maid-3d2-sweet-affectionate-and-devoted-long-lost-friend-gp-01fb.json](./311718-custom-order-maid-3d2-sweet-affectionate-and-devoted-long-lost-friend-gp-01fb.json) |
 | Custom Order Maid 3D2: Sweet, Affectionate, and Devoted Long-lost Friend GP-02 | 311717 | [311717-custom-order-maid-3d2-sweet-affectionate-and-devoted-long-lost-friend-gp-02.json](./311717-custom-order-maid-3d2-sweet-affectionate-and-devoted-long-lost-friend-gp-02.json) |
 | Custom Order Maid 3D2&2.5+: X1+Vol.01 | 311723 | [311723-custom-order-maid-3d2-and-2-5-x1-vol-01.json](./311723-custom-order-maid-3d2-and-2-5-x1-vol-01.json) |
+| Custom Order Maild 3D2: It's a Night Magic Love Hotel Karaoke All in Pack | 275541 | [275541-custom-order-maild-3d2-its-a-night-magic-love-hotel-karaoke-all-in-pack.json](./275541-custom-order-maild-3d2-its-a-night-magic-love-hotel-karaoke-all-in-pack.json) |
 | Custom Robo | 3465 | [3465-custom-robo.json](./3465-custom-robo.json) |
 | Custom Robo Arena | 3466 | [3466-custom-robo-arena.json](./3466-custom-robo-arena.json) |
 | Custom Robo Arena Redux | 219276 | [219276-custom-robo-arena-redux.json](./219276-custom-robo-arena-redux.json) |
