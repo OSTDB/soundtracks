@@ -940,6 +940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uncle Chop's Rocket Shop: Deluxe Edition | 327460 | [327460-uncle-chops-rocket-shop-deluxe-edition.json](./327460-uncle-chops-rocket-shop-deluxe-edition.json) |
 | Uncle Chuck Incorporated | 319871 | [319871-uncle-chuck-incorporated.json](./319871-uncle-chuck-incorporated.json) |
 | Uncle Henry's Playhouse | 20197 | [20197-uncle-henrys-playhouse.json](./20197-uncle-henrys-playhouse.json) |
+| Uncle Kenny: The Game | 241264 | [241264-uncle-kenny-the-game.json](./241264-uncle-kenny-the-game.json) |
 | Uncle Lee’s Cookbook: Five Recipes for Disaster | 373161 | [373161-uncle-lee-s-cookbook-five-recipes-for-disaster.json](./373161-uncle-lee-s-cookbook-five-recipes-for-disaster.json) |
 | Uncle Neighbor | 126415 | [126415-uncle-neighbor.json](./126415-uncle-neighbor.json) |
 | Uncle Office: Uncle Dating Simulator | 174089 | [174089-uncle-office-uncle-dating-simulator.json](./174089-uncle-office-uncle-dating-simulator.json) |
