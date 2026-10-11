@@ -4228,6 +4228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eversion | 14402 | [14402-eversion.json](./14402-eversion.json) |
 | Everslash | 122424 | [122424-everslash.json](./122424-everslash.json) |
 | Everslaught Invasion | 252108 | [252108-everslaught-invasion.json](./252108-everslaught-invasion.json) |
+| Everspace 2: Stellar Edition | 246298 | [246298-everspace-2-stellar-edition.json](./246298-everspace-2-stellar-edition.json) |
 | Everspace 2: Titans | 315185 | [315185-everspace-2-titans.json](./315185-everspace-2-titans.json) |
 | Everspace: Stellar Edition | 102126 | [102126-everspace-stellar-edition.json](./102126-everspace-stellar-edition.json) |
 | Everstill Valley | 394899 | [394899-everstill-valley.json](./394899-everstill-valley.json) |
