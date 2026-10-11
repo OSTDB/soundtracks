@@ -1044,6 +1044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Latest Issue | 329097 | [329097-latest-issue.json](./329097-latest-issue.json) |
 | Latex, Leather, Lipstick, Love, Lust | 340901 | [340901-latex-leather-lipstick-love-lust.json](./340901-latex-leather-lipstick-love-lust.json) |
 | Latin America Empire 2027 | 219664 | [219664-latin-america-empire-2027.json](./219664-latin-america-empire-2027.json) |
+| Latmos Explorer | 263975 | [263975-latmos-explorer.json](./263975-latmos-explorer.json) |
 | Latte Stand Tycoon + | 130214 | [130214-latte-stand-tycoon.json](./130214-latte-stand-tycoon.json) |
 | Lattice 200EC7 | 143664 | [143664-lattice-200ec7.json](./143664-lattice-200ec7.json) |
 | Latto-Latto Simulator | 233453 | [233453-latto-latto-simulator.json](./233453-latto-latto-simulator.json) |
@@ -3550,6 +3551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lisle Engle Heavy Distance | 253918 | [253918-lisle-engle-heavy-distance.json](./253918-lisle-engle-heavy-distance.json) |
 | Lisparuga | 176996 | [176996-lisparuga.json](./176996-lisparuga.json) |
 | Lisssn | 82335 | [82335-lisssn.json](./82335-lisssn.json) |
+| List 118 | 263952 | [263952-list-118.json](./263952-list-118.json) |
 | List Animals Until Failure | 388370 | [388370-list-animals-until-failure.json](./388370-list-animals-until-failure.json) |
 | Listed | 361868 | [361868-listed.json](./361868-listed.json) |
 | Listen | 151582 | [151582-listen.json](./151582-listen.json) |
