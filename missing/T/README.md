@@ -2607,6 +2607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tenebrum | 268458 | [268458-tenebrum.json](./268458-tenebrum.json) |
 | Tenebyss | 341096 | [341096-tenebyss.json](./341096-tenebyss.json) |
 | Tenement | 279041 | [279041-tenement.json](./279041-tenement.json) |
+| Tenet of the Spark | 249701 | [249701-tenet-of-the-spark.json](./249701-tenet-of-the-spark.json) |
 | Tenfold Loop | 290856 | [290856-tenfold-loop.json](./290856-tenfold-loop.json) |
 | Tenfold Tales | 365831 | [365831-tenfold-tales.json](./365831-tenfold-tales.json) |
 | Tengai Makyou Zero: Shonen Jump no Shou | 186735 | [186735-tengai-makyou-zero-shonen-jump-no-shou.json](./186735-tengai-makyou-zero-shonen-jump-no-shou.json) |
@@ -8251,6 +8252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Long Run | 136230 | [136230-the-long-run.json](./136230-the-long-run.json) |
 | The Long Sky VR | 132790 | [132790-the-long-sky-vr.json](./132790-the-long-sky-vr.json) |
 | The Long Tale | 342144 | [342144-the-long-tale.json](./342144-the-long-tale.json) |
+| The Long Way | 249684 | [249684-the-long-way.json](./249684-the-long-way.json) |
 | The Long Way Home | 390118 | [390118-the-long-way-home.json](./390118-the-long-way-home.json) |
 | The Long Winter: I Am Not an Animal | 390646 | [390646-the-long-winter-i-am-not-an-animal.json](./390646-the-long-winter-i-am-not-an-animal.json) |
 | The Longed-for Revenge of Undecember | 358280 | [358280-the-longed-for-revenge-of-undecember.json](./358280-the-longed-for-revenge-of-undecember.json) |
@@ -13035,6 +13037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thumbling | 289947 | [289947-thumbling.json](./289947-thumbling.json) |
 | Thumpies | 66730 | [66730-thumpies.json](./66730-thumpies.json) |
 | Thumps & Blows | 348327 | [348327-thumps-and-blows.json](./348327-thumps-and-blows.json) |
+| Thunder | 249655 | [249655-thunder.json](./249655-thunder.json) |
 | Thunder Alley | 49340 | [49340-thunder-alley.json](./49340-thunder-alley.json) |
 | Thunder and Line-ing | 389707 | [389707-thunder-and-line-ing.json](./389707-thunder-and-line-ing.json) |
 | Thunder Blade | 12862 | [12862-thunder-blade.json](./12862-thunder-blade.json) |
@@ -15459,6 +15462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toki Tori Collection | 122202 | [122202-toki-tori-collection.json](./122202-toki-tori-collection.json) |
 | Toki Tori: Ultimate Edition | 342781 | [342781-toki-tori-ultimate-edition.json](./342781-toki-tori-ultimate-edition.json) |
 | Toki: Retrollector | 112962 | [112962-toki-retrollector.json](./112962-toki-retrollector.json) |
+| Tokidoki Frenzies | 249656 | [249656-tokidoki-frenzies.json](./249656-tokidoki-frenzies.json) |
 | Tokigeon | 398399 | [398399-tokigeon.json](./398399-tokigeon.json) |
 | Tokimeki Card Paradise: Koi no Royal Straight Flush | 310969 | [310969-tokimeki-card-paradise-koi-no-royal-straight-flush.json](./310969-tokimeki-card-paradise-koi-no-royal-straight-flush.json) |
 | Tokimeki Dream Series 1: Ohanaya-san ni Narou! | 49845 | [49845-tokimeki-dream-series-1-ohanaya-san-ni-narou.json](./49845-tokimeki-dream-series-1-ohanaya-san-ni-narou.json) |
@@ -17528,6 +17532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Traffic Road | 353949 | [353949-traffic-road.json](./353949-traffic-road.json) |
 | Traffic Rush | 87886 | [87886-traffic-rush.json](./87886-traffic-rush.json) |
 | Traffic Rush: Ultimate Drive | 413090 | [413090-traffic-rush-ultimate-drive.json](./413090-traffic-rush-ultimate-drive.json) |
+| Traffic Tour Classic | 249690 | [249690-traffic-tour-classic.json](./249690-traffic-tour-classic.json) |
 | Traffic V | 149931 | [149931-traffic-v.json](./149931-traffic-v.json) |
 | Traffic X | 68096 | [68096-traffic-x.json](./68096-traffic-x.json) |
 | Traffic.io Car Games & Race | 240188 | [240188-traffic-io-car-games-and-race.json](./240188-traffic-io-car-games-and-race.json) |
@@ -19280,6 +19285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tricky Thief | 240180 | [240180-tricky-thief.json](./240180-tricky-thief.json) |
 | Tricky Towers | 21623 | [21623-tricky-towers.json](./21623-tricky-towers.json) |
 | Tricky Tracks | 229335 | [229335-tricky-tracks.json](./229335-tricky-tracks.json) |
+| Tricky Tracks 2010 | 249710 | [249710-tricky-tracks-2010.json](./249710-tricky-tracks-2010.json) |
 | Tricky Truck | 20183 | [20183-tricky-truck.json](./20183-tricky-truck.json) |
 | Tricky Truck | 22651 | [22651-tricky-truck.json](./22651-tricky-truck.json) |
 | Tricky Tube | 106524 | [106524-tricky-tube.json](./106524-tricky-tube.json) |
