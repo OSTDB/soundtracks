@@ -3643,6 +3643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Man's Sky: Aquarius | 315656 | [315656-no-mans-sky-aquarius.json](./315656-no-mans-sky-aquarius.json) |
 | No Man's Sky: Companions | 221636 | [221636-no-mans-sky-companions.json](./221636-no-mans-sky-companions.json) |
 | No Man's Sky: Desolation | 221742 | [221742-no-mans-sky-desolation.json](./221742-no-mans-sky-desolation.json) |
+| No Man's Sky: Echoes | 262883 | [262883-no-mans-sky-echoes.json](./262883-no-mans-sky-echoes.json) |
 | No Man's Sky: Living Ship | 222237 | [222237-no-mans-sky-living-ship.json](./222237-no-mans-sky-living-ship.json) |
 | No Man's Sky: Next Generation | 221637 | [221637-no-mans-sky-next-generation.json](./221637-no-mans-sky-next-generation.json) |
 | No Man's Sky: Nintendo Switch Edition | 191418 | [191418-no-mans-sky-nintendo-switch-edition.json](./191418-no-mans-sky-nintendo-switch-edition.json) |
@@ -4574,6 +4575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NS Kakuro | 91105 | [91105-ns-kakuro.json](./91105-ns-kakuro.json) |
 | NSFW: Not a Simulator for Working | 25606 | [25606-nsfw-not-a-simulator-for-working.json](./25606-nsfw-not-a-simulator-for-working.json) |
 | NSFWare | 125879 | [125879-nsfware.json](./125879-nsfware.json) |
+| NSG: Missing Tales | 262871 | [262871-nsg-missing-tales.json](./262871-nsg-missing-tales.json) |
 | NSMB Mario Vs Luigi: KKT's Gooffy little Mod | 328407 | [328407-nsmb-mario-vs-luigi-kkts-gooffy-little-mod.json](./328407-nsmb-mario-vs-luigi-kkts-gooffy-little-mod.json) |
 | NSMB: Mario vs. Luigi Online | 212845 | [212845-nsmb-mario-vs-luigi-online.json](./212845-nsmb-mario-vs-luigi-online.json) |
 | NSR: Night Street Racing | 397954 | [397954-nsr-night-street-racing.json](./397954-nsr-night-street-racing.json) |
@@ -4724,6 +4726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Number Munchers | 128661 | [128661-number-munchers.json](./128661-number-munchers.json) |
 | Number Munchers | 50339 | [50339-number-munchers.json](./50339-number-munchers.json) |
 | Number Munchers Tribute | 71767 | [71767-number-munchers-tribute.json](./71767-number-munchers-tribute.json) |
+| Number One Fighter | 262892 | [262892-number-one-fighter.json](./262892-number-one-fighter.json) |
 | Number One Kill | 313843 | [313843-number-one-kill.json](./313843-number-one-kill.json) |
 | Number One Kill Extra | 313855 | [313855-number-one-kill-extra.json](./313855-number-one-kill-extra.json) |
 | Number One Kill The Next Generation | 313844 | [313844-number-one-kill-the-next-generation.json](./313844-number-one-kill-the-next-generation.json) |
