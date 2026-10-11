@@ -2594,6 +2594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enter the Chronosphere | 177862 | [177862-enter-the-chronosphere.json](./177862-enter-the-chronosphere.json) |
 | Enter the Construct | 117016 | [117016-enter-the-construct.json](./117016-enter-the-construct.json) |
 | Enter the Cum | 203946 | [203946-enter-the-cum.json](./203946-enter-the-cum.json) |
+| Enter the Cyberjungle | 241853 | [241853-enter-the-cyberjungle.json](./241853-enter-the-cyberjungle.json) |
 | Enter the Depths | 406137 | [406137-enter-the-depths.json](./406137-enter-the-depths.json) |
 | Enter the Flesh Again | 105110 | [105110-enter-the-flesh-again.json](./105110-enter-the-flesh-again.json) |
 | Enter the Gungeon: A Farewell to Arms | 118942 | [118942-enter-the-gungeon-a-farewell-to-arms.json](./118942-enter-the-gungeon-a-farewell-to-arms.json) |
