@@ -5269,6 +5269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dice vs. Monsters | 184619 | [184619-dice-vs-monsters.json](./184619-dice-vs-monsters.json) |
 | Dice With Death | 328406 | [328406-dice-with-death.json](./328406-dice-with-death.json) |
 | Dice with the Devil: Rerolled | 333015 | [333015-dice-with-the-devil-rerolled.json](./333015-dice-with-the-devil-rerolled.json) |
+| Dice World | 250832 | [250832-dice-world.json](./250832-dice-world.json) |
 | Dice-Zee!: Dice Pak - "Autumn Auras" | 291087 | [291087-dice-zee-dice-pak-autumn-auras.json](./291087-dice-zee-dice-pak-autumn-auras.json) |
 | Dice-Zee!: Dice Pak - "Contemporary Cool" | 291086 | [291086-dice-zee-dice-pak-contemporary-cool.json](./291086-dice-zee-dice-pak-contemporary-cool.json) |
 | Dice-Zee!: Dice Pak - "Gold & Pearls" | 291690 | [291690-dice-zee-dice-pak-gold-and-pearls.json](./291690-dice-zee-dice-pak-gold-and-pearls.json) |
