@@ -24,6 +24,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | R-Type | 210582 | [210582-r-type.json](./210582-r-type.json) |
 | R-Type | 260765 | [260765-r-type.json](./260765-r-type.json) |
 | R-Type | 263373 | [263373-r-type.json](./263373-r-type.json) |
+| R-Type | 263376 | [263376-r-type.json](./263376-r-type.json) |
 | R-Type | 279055 | [279055-r-type.json](./279055-r-type.json) |
 | R-Type | 279221 | [279221-r-type.json](./279221-r-type.json) |
 | R-Type Complete CD | 210583 | [210583-r-type-complete-cd.json](./210583-r-type-complete-cd.json) |
@@ -4975,6 +4976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Risimon | 315709 | [315709-risimon.json](./315709-risimon.json) |
 | Rising Angels: Fates Allegiance | 75215 | [75215-rising-angels-fates-allegiance.json](./75215-rising-angels-fates-allegiance.json) |
 | Rising Army | 302925 | [302925-rising-army.json](./302925-rising-army.json) |
+| Rising Blood | 263408 | [263408-rising-blood.json](./263408-rising-blood.json) |
 | Rising Board 3D | 23675 | [23675-rising-board-3d.json](./23675-rising-board-3d.json) |
 | Rising City | 236875 | [236875-rising-city.json](./236875-rising-city.json) |
 | Rising Constellation | 139367 | [139367-rising-constellation.json](./139367-rising-constellation.json) |
