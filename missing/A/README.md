@@ -2493,10 +2493,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | After the Fall: Launch Edition | 196313 | [196313-after-the-fall-launch-edition.json](./196313-after-the-fall-launch-edition.json) |
 | After the Melodrama Novel | 379500 | [379500-after-the-melodrama-novel.json](./379500-after-the-melodrama-novel.json) |
 | After the Meteor Shower | 230940 | [230940-after-the-meteor-shower.json](./230940-after-the-meteor-shower.json) |
+| After the Storm | 263979 | [263979-after-the-storm.json](./263979-after-the-storm.json) |
 | After the Stream Went Dark | 396010 | [396010-after-the-stream-went-dark.json](./396010-after-the-stream-went-dark.json) |
 | After the Suns | 119533 | [119533-after-the-suns.json](./119533-after-the-suns.json) |
 | After the Wane | 387356 | [387356-after-the-wane.json](./387356-after-the-wane.json) |
 | After the War | 5713 | [5713-after-the-war.json](./5713-after-the-war.json) |
+| After University | 263980 | [263980-after-university.json](./263980-after-university.json) |
 | After Wave: Downfall | 212284 | [212284-after-wave-downfall.json](./212284-after-wave-downfall.json) |
 | After Work | 360586 | [360586-after-work.json](./360586-after-work.json) |
 | After Work | 417423 | [417423-after-work.json](./417423-after-work.json) |
@@ -4643,6 +4645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alpine Alpaca | 181218 | [181218-alpine-alpaca.json](./181218-alpine-alpaca.json) |
 | Alpine Crawler Wild | 174199 | [174199-alpine-crawler-wild.json](./174199-alpine-crawler-wild.json) |
 | Alpine Crawler World | 174342 | [174342-alpine-crawler-world.json](./174342-alpine-crawler-world.json) |
+| Alpine Lake | 263964 | [263964-alpine-lake.json](./263964-alpine-lake.json) |
 | Alpine Racer | 38526 | [38526-alpine-racer.json](./38526-alpine-racer.json) |
 | Alpine Racer 2 | 38525 | [38525-alpine-racer-2.json](./38525-alpine-racer-2.json) |
 | Alpine Racer 3 | 68269 | [68269-alpine-racer-3.json](./68269-alpine-racer-3.json) |
@@ -6748,6 +6751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anvil Empires | 243273 | [243273-anvil-empires.json](./243273-anvil-empires.json) |
 | Anvil Life | 212235 | [212235-anvil-life.json](./212235-anvil-life.json) |
 | Anvil of Dawn | 2427 | [2427-anvil-of-dawn.json](./2427-anvil-of-dawn.json) |
+| Anvil of Tristheim | 263977 | [263977-anvil-of-tristheim.json](./263977-anvil-of-tristheim.json) |
 | Anvil Survivors | 396403 | [396403-anvil-survivors.json](./396403-anvil-survivors.json) |
 | Anvillage | 207793 | [207793-anvillage.json](./207793-anvillage.json) |
 | AnXiens | 174642 | [174642-anxiens.json](./174642-anxiens.json) |
