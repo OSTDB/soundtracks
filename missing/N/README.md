@@ -3164,6 +3164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Five-O | 287869 | [287869-ninja-five-o.json](./287869-ninja-five-o.json) |
 | Ninja Five-O | 6524 | [6524-ninja-five-o.json](./6524-ninja-five-o.json) |
 | Ninja Flip | 300856 | [300856-ninja-flip.json](./300856-ninja-flip.json) |
+| Ninja Forest Maze | 274963 | [274963-ninja-forest-maze.json](./274963-ninja-forest-maze.json) |
 | Ninja Frog | 93523 | [93523-ninja-frog.json](./93523-ninja-frog.json) |
 | Ninja from Hell vs. Reptiloids | 105346 | [105346-ninja-from-hell-vs-reptiloids.json](./105346-ninja-from-hell-vs-reptiloids.json) |
 | Ninja Fun | 213897 | [213897-ninja-fun.json](./213897-ninja-fun.json) |
@@ -3676,6 +3677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Place for the Dissident | 141136 | [141136-no-place-for-the-dissident.json](./141136-no-place-for-the-dissident.json) |
 | No Place Like Home | 142251 | [142251-no-place-like-home.json](./142251-no-place-like-home.json) |
 | No Plumbing Required | 58506 | [58506-no-plumbing-required.json](./58506-no-plumbing-required.json) |
+| No Pressure: Hive War | 274961 | [274961-no-pressure-hive-war.json](./274961-no-pressure-hive-war.json) |
 | No Prey, No Pay | 176458 | [176458-no-prey-no-pay.json](./176458-no-prey-no-pay.json) |
 | No Prospect Company | 99087 | [99087-no-prospect-company.json](./99087-no-prospect-company.json) |
 | No Random Novels | 226127 | [226127-no-random-novels.json](./226127-no-random-novels.json) |
@@ -4786,6 +4788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nusnur | 330248 | [330248-nusnur.json](./330248-nusnur.json) |
 | Nusrat | 19495 | [19495-nusrat.json](./19495-nusrat.json) |
 | Nusunde Asobo! Dorobou Youchien | 222254 | [222254-nusunde-asobo-dorobou-youchien.json](./222254-nusunde-asobo-dorobou-youchien.json) |
+| Nut City Blues | 274936 | [274936-nut-city-blues.json](./274936-nut-city-blues.json) |
 | Nutcracker | 115758 | [115758-nutcracker.json](./115758-nutcracker.json) |
 | Nutjitsu | 19966 | [19966-nutjitsu.json](./19966-nutjitsu.json) |
 | Nutjitsu: Reforged | 52645 | [52645-nutjitsu-reforged.json](./52645-nutjitsu-reforged.json) |
