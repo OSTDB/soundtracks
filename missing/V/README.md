@@ -2137,6 +2137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Void/Breaker | 339626 | [339626-void-breaker.json](./339626-void-breaker.json) |
 | Voidblade | 392912 | [392912-voidblade.json](./392912-voidblade.json) |
 | Voidblade Shadows of The Realm | 374064 | [374064-voidblade-shadows-of-the-realm.json](./374064-voidblade-shadows-of-the-realm.json) |
+| Voidblazers | 253286 | [253286-voidblazers.json](./253286-voidblazers.json) |
 | Voidbloom | 410248 | [410248-voidbloom.json](./410248-voidbloom.json) |
 | Voidborn | 211924 | [211924-voidborn.json](./211924-voidborn.json) |
 | VoidCraft Island Chronicles: Sky Survival | 322401 | [322401-voidcraft-island-chronicles-sky-survival.json](./322401-voidcraft-island-chronicles-sky-survival.json) |
