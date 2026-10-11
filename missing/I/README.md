@@ -2303,6 +2303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infested Planet: Planetary Campaign | 53231 | [53231-infested-planet-planetary-campaign.json](./53231-infested-planet-planetary-campaign.json) |
 | Infested: Space Colony | 148929 | [148929-infested-space-colony.json](./148929-infested-space-colony.json) |
 | Infestor | 146841 | [146841-infestor.json](./146841-infestor.json) |
+| InfestStation | 275535 | [275535-infeststation.json](./275535-infeststation.json) |
 | Infestus | 235456 | [235456-infestus.json](./235456-infestus.json) |
 | Infferno | 127724 | [127724-infferno.json](./127724-infferno.json) |
 | Infidel | 12157 | [12157-infidel.json](./12157-infidel.json) |
@@ -2402,6 +2403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Roads | 245261 | [245261-infinite-roads.json](./245261-infinite-roads.json) |
 | Infinite Robotics | 279000 | [279000-infinite-robotics.json](./279000-infinite-robotics.json) |
 | Infinite Ruins | 394091 | [394091-infinite-ruins.json](./394091-infinite-ruins.json) |
+| Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
 | Infinite Shooter | 33103 | [33103-infinite-shooter.json](./33103-infinite-shooter.json) |
@@ -2490,6 +2492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinity Runner Bot | 297639 | [297639-infinity-runner-bot.json](./297639-infinity-runner-bot.json) |
 | Infinity Saga | 33358 | [33358-infinity-saga.json](./33358-infinity-saga.json) |
 | Infinity Ship | 401818 | [401818-infinity-ship.json](./401818-infinity-ship.json) |
+| Infinity Sky | 275534 | [275534-infinity-sky.json](./275534-infinity-sky.json) |
 | Infinity Slime Dungeon | 321754 | [321754-infinity-slime-dungeon.json](./321754-infinity-slime-dungeon.json) |
 | Infinity Souls | 196576 | [196576-infinity-souls.json](./196576-infinity-souls.json) |
 | Infinity Square | 147349 | [147349-infinity-square.json](./147349-infinity-square.json) |
