@@ -152,6 +152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Commissioned Some Cats | 237295 | [237295-i-commissioned-some-cats.json](./237295-i-commissioned-some-cats.json) |
 | I Commissioned Some Cats 2 | 264551 | [264551-i-commissioned-some-cats-2.json](./264551-i-commissioned-some-cats-2.json) |
 | I Commissioned Some Cats 5 | 270126 | [270126-i-commissioned-some-cats-5.json](./270126-i-commissioned-some-cats-5.json) |
+| I Commissioned Some Dogs | 241292 | [241292-i-commissioned-some-dogs.json](./241292-i-commissioned-some-dogs.json) |
 | I Commissioned Some Frogs 2 | 270131 | [270131-i-commissioned-some-frogs-2.json](./270131-i-commissioned-some-frogs-2.json) |
 | I Commissioned Some Invisible People 0 | 292546 | [292546-i-commissioned-some-invisible-people-0.json](./292546-i-commissioned-some-invisible-people-0.json) |
 | I Commissioned Some Ladybugs 3 | 287071 | [287071-i-commissioned-some-ladybugs-3.json](./287071-i-commissioned-some-ladybugs-3.json) |
@@ -1927,6 +1928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In Time | 380768 | [380768-in-time.json](./380768-in-time.json) |
 | In to the 029 | 207783 | [207783-in-to-the-029.json](./207783-in-to-the-029.json) |
 | In Tran Sit | 184612 | [184612-in-tran-sit.json](./184612-in-tran-sit.json) |
+| In Ukrainian Soil | 241276 | [241276-in-ukrainian-soil.json](./241276-in-ukrainian-soil.json) |
 | In Vein | 181320 | [181320-in-vein.json](./181320-in-vein.json) |
 | In Verbis Virtus | 16560 | [16560-in-verbis-virtus.json](./16560-in-verbis-virtus.json) |
 | In Vitra | 30310 | [30310-in-vitra.json](./30310-in-vitra.json) |
