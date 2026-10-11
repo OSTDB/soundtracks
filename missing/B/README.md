@@ -1026,6 +1026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ballloon Gentleman | 60909 | [60909-ballloon-gentleman.json](./60909-ballloon-gentleman.json) |
 | Balloball: Ribbit & Rescue | 388214 | [388214-balloball-ribbit-and-rescue.json](./388214-balloball-ribbit-and-rescue.json) |
 | Ballochet 3 | 79272 | [79272-ballochet-3.json](./79272-ballochet-3.json) |
+| Balloo's Mall | 261730 | [261730-balloos-mall.json](./261730-balloos-mall.json) |
 | Balloon | 379997 | [379997-balloon.json](./379997-balloon.json) |
 | Balloon Azuna | 167589 | [167589-balloon-azuna.json](./167589-balloon-azuna.json) |
 | Balloon Bash | 413495 | [413495-balloon-bash.json](./413495-balloon-bash.json) |
@@ -1474,6 +1475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barbie as the Island Princess | 3309 | [3309-barbie-as-the-island-princess.json](./3309-barbie-as-the-island-princess.json) |
 | Barbie as the Princess and the Pauper | 200590 | [200590-barbie-as-the-princess-and-the-pauper.json](./200590-barbie-as-the-princess-and-the-pauper.json) |
 | Barbie Beauty Styler | 200601 | [200601-barbie-beauty-styler.json](./200601-barbie-beauty-styler.json) |
+| Barbie Color Creations | 261705 | [261705-barbie-color-creations.json](./261705-barbie-color-creations.json) |
 | Barbie Dance Party | 421385 | [421385-barbie-dance-party.json](./421385-barbie-dance-party.json) |
 | Barbie Dreamhouse Adventures | 255335 | [255335-barbie-dreamhouse-adventures.json](./255335-barbie-dreamhouse-adventures.json) |
 | Barbie Epic Road Trip | 228355 | [228355-barbie-epic-road-trip.json](./228355-barbie-epic-road-trip.json) |
@@ -1509,6 +1511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barbie Sparkle Blast | 97319 | [97319-barbie-sparkle-blast.json](./97319-barbie-sparkle-blast.json) |
 | Barbie Storymaker | 144332 | [144332-barbie-storymaker.json](./144332-barbie-storymaker.json) |
 | Barbie Super Sports | 3313 | [3313-barbie-super-sports.json](./3313-barbie-super-sports.json) |
+| Barbie: Dreamtopia - Magical Hair | 261704 | [261704-barbie-dreamtopia-magical-hair.json](./261704-barbie-dreamtopia-magical-hair.json) |
 | Barbie: Explorer | 3314 | [3314-barbie-explorer.json](./3314-barbie-explorer.json) |
 | Barbie: Fairytopia | 273990 | [273990-barbie-fairytopia.json](./273990-barbie-fairytopia.json) |
 | Barbie: Fun & Fashion Dogs | 117136 | [117136-barbie-fun-and-fashion-dogs.json](./117136-barbie-fun-and-fashion-dogs.json) |
@@ -10419,6 +10422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Build A Bank Tycoon | 394381 | [394381-build-a-bank-tycoon.json](./394381-build-a-bank-tycoon.json) |
 | Build a Bridge! | 114190 | [114190-build-a-bridge.json](./114190-build-a-bridge.json) |
 | Build a Cat Tower to reach the Fish | 413102 | [413102-build-a-cat-tower-to-reach-the-fish.json](./413102-build-a-cat-tower-to-reach-the-fish.json) |
+| Build a City Block | 261735 | [261735-build-a-city-block.json](./261735-build-a-city-block.json) |
 | Build a Flexible Brain! Shape Search | 401110 | [401110-build-a-flexible-brain-shape-search.json](./401110-build-a-flexible-brain-shape-search.json) |
 | Build A Friend | 304855 | [304855-build-a-friend.json](./304855-build-a-friend.json) |
 | Build a Game Universe | 34814 | [34814-build-a-game-universe.json](./34814-build-a-game-universe.json) |
