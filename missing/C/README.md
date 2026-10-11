@@ -1336,6 +1336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Card Chronicles: Devious Deck | 312308 | [312308-card-chronicles-devious-deck.json](./312308-card-chronicles-devious-deck.json) |
 | Card Coder | 328022 | [328022-card-coder.json](./328022-card-coder.json) |
 | Card Collection Simulator | 378372 | [378372-card-collection-simulator.json](./378372-card-collection-simulator.json) |
+| Card Collector And Card Girls | 266115 | [266115-card-collector-and-card-girls.json](./266115-card-collector-and-card-girls.json) |
 | Card Colony | 383343 | [383343-card-colony.json](./383343-card-colony.json) |
 | Card Conquest | 378427 | [378427-card-conquest.json](./378427-card-conquest.json) |
 | Card Crawl 2 | 404815 | [404815-card-crawl-2.json](./404815-card-crawl-2.json) |
@@ -1453,6 +1454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cardfight!!: Additional Card Set Vol.6 [D-BT09] - Dragontree Invasion | 267666 | [267666-cardfight-additional-card-set-vol-6-d-bt09-dragontree-invasion.json](./267666-cardfight-additional-card-set-vol-6-d-bt09-dragontree-invasion.json) |
 | Cardfight!!: Rare Card Set 14 [D-BT09] - Dragontree Invasion | 267441 | [267441-cardfight-rare-card-set-14-d-bt09-dragontree-invasion.json](./267441-cardfight-rare-card-set-14-d-bt09-dragontree-invasion.json) |
 | CardForge | 397837 | [397837-cardforge.json](./397837-cardforge.json) |
+| Cardia | 266114 | [266114-cardia.json](./266114-cardia.json) |
 | Cardiac Powder | 226294 | [226294-cardiac-powder.json](./226294-cardiac-powder.json) |
 | Cardiganical | 107777 | [107777-cardiganical.json](./107777-cardiganical.json) |
 | Cardinal Arc: Konton no Fuusatsu | 43284 | [43284-cardinal-arc-konton-no-fuusatsu.json](./43284-cardinal-arc-konton-no-fuusatsu.json) |
@@ -6584,6 +6586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clumsy Rush: Ultimate Guys - Decorations Pack 12 | 251665 | [251665-clumsy-rush-ultimate-guys-decorations-pack-12.json](./251665-clumsy-rush-ultimate-guys-decorations-pack-12.json) |
 | Clumsy Rush: Ultimate Guys - Extended Edition | 238064 | [238064-clumsy-rush-ultimate-guys-extended-edition.json](./238064-clumsy-rush-ultimate-guys-extended-edition.json) |
 | Clumsy Rush: Ultimate Guys - GOTY Edition | 246878 | [246878-clumsy-rush-ultimate-guys-goty-edition.json](./246878-clumsy-rush-ultimate-guys-goty-edition.json) |
+| Clumsy Rush: Ultimate Guys - Magnificent Edition | 266158 | [266158-clumsy-rush-ultimate-guys-magnificent-edition.json](./266158-clumsy-rush-ultimate-guys-magnificent-edition.json) |
 | Clumsy Rush: Ultimate Guys - Platinum Edition | 241399 | [241399-clumsy-rush-ultimate-guys-platinum-edition.json](./241399-clumsy-rush-ultimate-guys-platinum-edition.json) |
 | Clumsy Rush: Ultimate Guys - Special Edition | 223571 | [223571-clumsy-rush-ultimate-guys-special-edition.json](./223571-clumsy-rush-ultimate-guys-special-edition.json) |
 | Clumsy Rush: Ultimate Guys - Superb Edition | 271504 | [271504-clumsy-rush-ultimate-guys-superb-edition.json](./271504-clumsy-rush-ultimate-guys-superb-edition.json) |
