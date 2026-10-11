@@ -1596,6 +1596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elite Forces: WWII - Desert Rats | 23470 | [23470-elite-forces-wwii-desert-rats.json](./23470-elite-forces-wwii-desert-rats.json) |
 | Elite Plus | 100209 | [100209-elite-plus.json](./100209-elite-plus.json) |
 | Elite Shooter: Sniper Killer | 175696 | [175696-elite-shooter-sniper-killer.json](./175696-elite-shooter-sniper-killer.json) |
+| Elite Sniper Shooter 2 | 245215 | [245215-elite-sniper-shooter-2.json](./245215-elite-sniper-shooter-2.json) |
 | Elite Soldier: Modern Gun Shooter and Tank Combat | 272490 | [272490-elite-soldier-modern-gun-shooter-and-tank-combat.json](./272490-elite-soldier-modern-gun-shooter-and-tank-combat.json) |
 | Elite Sports Gaming Football | 358359 | [358359-elite-sports-gaming-football.json](./358359-elite-sports-gaming-football.json) |
 | Elite Star Fighter | 117506 | [117506-elite-star-fighter.json](./117506-elite-star-fighter.json) |
