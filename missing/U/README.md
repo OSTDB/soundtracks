@@ -1698,6 +1698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unnamed Pogo Game | 410176 | [410176-unnamed-pogo-game.json](./410176-unnamed-pogo-game.json) |
 | Unnamed Project | 286012 | [286012-unnamed-project.json](./286012-unnamed-project.json) |
 | Unnamed Shovel Knight Sequel | 305758 | [305758-unnamed-shovel-knight-sequel.json](./305758-unnamed-shovel-knight-sequel.json) |
+| Unnamed Space Idle | 258933 | [258933-unnamed-space-idle.json](./258933-unnamed-space-idle.json) |
 | Unnatural | 104951 | [104951-unnatural.json](./104951-unnatural.json) |
 | Unnatural Freaks: Episode 1 Wolf At Evergreen | 166605 | [166605-unnatural-freaks-episode-1-wolf-at-evergreen.json](./166605-unnatural-freaks-episode-1-wolf-at-evergreen.json) |
 | Unnatural Investigations | 191077 | [191077-unnatural-investigations.json](./191077-unnatural-investigations.json) |
