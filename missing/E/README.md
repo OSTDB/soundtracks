@@ -1468,6 +1468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elementyle | 309513 | [309513-elementyle.json](./309513-elementyle.json) |
 | EleMetals: Deluxe Edition | 212283 | [212283-elemetals-deluxe-edition.json](./212283-elemetals-deluxe-edition.json) |
 | Elemix! | 254998 | [254998-elemix.json](./254998-elemix.json) |
+| Elena's Journal: To Atlantis | 247960 | [247960-elenas-journal-to-atlantis.json](./247960-elenas-journal-to-atlantis.json) |
 | Elena's Journal: Unfinished Expedition | 207789 | [207789-elenas-journal-unfinished-expedition.json](./207789-elenas-journal-unfinished-expedition.json) |
 | ElePass: Only Elephants Can Unlock the Passcode | 317855 | [317855-elepass-only-elephants-can-unlock-the-passcode.json](./317855-elepass-only-elephants-can-unlock-the-passcode.json) |
 | Elephant Express VR | 30191 | [30191-elephant-express-vr.json](./30191-elephant-express-vr.json) |
