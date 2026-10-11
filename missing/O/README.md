@@ -3082,6 +3082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Out of Fuel | 257358 | [257358-out-of-fuel.json](./257358-out-of-fuel.json) |
 | Out of Galaxy: Gin no Koushika | 408871 | [408871-out-of-galaxy-gin-no-koushika.json](./408871-out-of-galaxy-gin-no-koushika.json) |
 | Out of Gas | 288325 | [288325-out-of-gas.json](./288325-out-of-gas.json) |
+| Out of Hand | 260055 | [260055-out-of-hand.json](./260055-out-of-hand.json) |
 | Out of Hand: Deluxe | 330138 | [330138-out-of-hand-deluxe.json](./330138-out-of-hand-deluxe.json) |
 | Out of Hands | 211231 | [211231-out-of-hands.json](./211231-out-of-hands.json) |
 | Out Of Memories | 320933 | [320933-out-of-memories.json](./320933-out-of-memories.json) |
@@ -3276,6 +3277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outlanders: Heir of the Roads | 236879 | [236879-outlanders-heir-of-the-roads.json](./236879-outlanders-heir-of-the-roads.json) |
 | Outlanders: Home is Where the Heart is | 277431 | [277431-outlanders-home-is-where-the-heart-is.json](./277431-outlanders-home-is-where-the-heart-is.json) |
 | Outlanders: Hunt and Survive | 348854 | [348854-outlanders-hunt-and-survive.json](./348854-outlanders-hunt-and-survive.json) |
+| Outlanders: Life of Yolotli | 260033 | [260033-outlanders-life-of-yolotli.json](./260033-outlanders-life-of-yolotli.json) |
 | Outlanders: The Keeper's Shanty | 298174 | [298174-outlanders-the-keepers-shanty.json](./298174-outlanders-the-keepers-shanty.json) |
 | Outlandia | 192747 | [192747-outlandia.json](./192747-outlandia.json) |
 | Outlands | 69495 | [69495-outlands.json](./69495-outlands.json) |
