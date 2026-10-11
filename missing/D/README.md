@@ -6,6 +6,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 
 | Game | IGDB ID | File |
 |---|---|---|
+| D Laser | 272186 | [272186-d-laser.json](./272186-d-laser.json) |
 | D Life | 253973 | [253973-d-life.json](./253973-d-life.json) |
 | D Missile | 304278 | [304278-d-missile.json](./304278-d-missile.json) |
 | D or D | 250004 | [250004-d-or-d.json](./250004-d-or-d.json) |
@@ -4218,6 +4219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Derelict Void | 144606 | [144606-derelict-void.json](./144606-derelict-void.json) |
 | Dereliction Derby | 262553 | [262553-dereliction-derby.json](./262553-dereliction-derby.json) |
 | Dereology Chime | 409782 | [409782-dereology-chime.json](./409782-dereology-chime.json) |
+| DeResolution | 272189 | [272189-deresolution.json](./272189-deresolution.json) |
 | Derf Party | 303475 | [303475-derf-party.json](./303475-derf-party.json) |
 | Deriva | 348329 | [348329-deriva.json](./348329-deriva.json) |
 | Dérive | 183412 | [183412-derive.json](./183412-derive.json) |
@@ -9662,6 +9664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Gate | 45234 | [45234-dream-gate.json](./45234-dream-gate.json) |
 | Dream Genie | 201294 | [201294-dream-genie.json](./201294-dream-genie.json) |
 | Dream Girlfriend | 208979 | [208979-dream-girlfriend.json](./208979-dream-girlfriend.json) |
+| Dream Girlfriend: Doomer Girl | 272208 | [272208-dream-girlfriend-doomer-girl.json](./272208-dream-girlfriend-doomer-girl.json) |
 | Dream Girlfriend: Twitch Thot | 368106 | [368106-dream-girlfriend-twitch-thot.json](./368106-dream-girlfriend-twitch-thot.json) |
 | Dream Girls VR | 111725 | [111725-dream-girls-vr.json](./111725-dream-girls-vr.json) |
 | Dream Golf VR | 74441 | [74441-dream-golf-vr.json](./74441-dream-golf-vr.json) |
