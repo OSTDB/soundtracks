@@ -76,6 +76,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | "Hello, world." | 130306 | [130306-hello-world.json](./130306-hello-world.json) |
 | "I'm sorry! I'll do whatever you want!" She said... | 98496 | [98496-im-sorry-ill-do-whatever-you-want-she-said.json](./98496-im-sorry-ill-do-whatever-you-want-she-said.json) |
 | "Life" not found; | 195592 | [195592-life-not-found.json](./195592-life-not-found.json) |
+| "Omori" "Mod" Made to Appeal to "Omori" "Fans" | 255559 | [255559-omori-mod-made-to-appeal-to-omori-fans.json](./255559-omori-mod-made-to-appeal-to-omori-fans.json) |
 | "Out" file#01 | 237475 | [237475-out-file-01.json](./237475-out-file-01.json) |
 | "Out2" out of file | 237476 | [237476-out2-out-of-file.json](./237476-out2-out-of-file.json) |
 | "Two Draw" | 74340 | [74340-two-draw.json](./74340-two-draw.json) |
@@ -99,6 +100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | /R | 329554 | [329554-r.json](./329554-r.json) |
 | \\\//\\/\\\/// | 139880 | [139880-.json](./139880-.json) |
 | & in the War I Find You | 178584 | [178584-and-in-the-war-i-find-you.json](./178584-and-in-the-war-i-find-you.json) |
+| &0 | 255619 | [255619-and-0.json](./255619-and-0.json) |
 | #1 Pastime Bundle | 192408 | [192408-1-pastime-bundle.json](./192408-1-pastime-bundle.json) |
 | #1 Sudokus | 187309 | [187309-1-sudokus.json](./187309-1-sudokus.json) |
 | #7-J5Z: The Driftwood Experiment | 343447 | [343447-7-j5z-the-driftwood-experiment.json](./343447-7-j5z-the-driftwood-experiment.json) |
