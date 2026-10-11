@@ -4464,6 +4464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ride 4: Bonus Pack 09 | 159663 | [159663-ride-4-bonus-pack-09.json](./159663-ride-4-bonus-pack-09.json) |
 | Ride 4: Bonus Pack 10 | 159657 | [159657-ride-4-bonus-pack-10.json](./159657-ride-4-bonus-pack-10.json) |
 | Ride 4: Bonus Pack 11 | 159659 | [159659-ride-4-bonus-pack-11.json](./159659-ride-4-bonus-pack-11.json) |
+| Ride 4: Bonus Pack 12 | 262844 | [262844-ride-4-bonus-pack-12.json](./262844-ride-4-bonus-pack-12.json) |
 | Ride 4: Bonus Pack 13 | 165987 | [165987-ride-4-bonus-pack-13.json](./165987-ride-4-bonus-pack-13.json) |
 | Ride 4: Bonus Pack 14 | 190708 | [190708-ride-4-bonus-pack-14.json](./190708-ride-4-bonus-pack-14.json) |
 | Ride 4: European Bikes Pack | 159658 | [159658-ride-4-european-bikes-pack.json](./159658-ride-4-european-bikes-pack.json) |
