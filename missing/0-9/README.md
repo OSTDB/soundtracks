@@ -173,6 +173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1 Minute RPG | 63151 | [63151-1-minute-rpg.json](./63151-1-minute-rpg.json) |
 | 1 Moment of Time: Silentville | 32199 | [32199-1-moment-of-time-silentville.json](./32199-1-moment-of-time-silentville.json) |
 | 1 on 1 Government | 39809 | [39809-1-on-1-government.json](./39809-1-on-1-government.json) |
+| 1 or 3 Addictive Puzzle Game | 250238 | [250238-1-or-3-addictive-puzzle-game.json](./250238-1-or-3-addictive-puzzle-game.json) |
 | 1 Screen Platformer | 97902 | [97902-1-screen-platformer.json](./97902-1-screen-platformer.json) |
 | 1 Screen Platformer 2 | 133473 | [133473-1-screen-platformer-2.json](./133473-1-screen-platformer-2.json) |
 | 1 Shot 1 Kill | 297759 | [297759-1-shot-1-kill.json](./297759-1-shot-1-kill.json) |
@@ -995,6 +996,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2048 | 312586 | [312586-2048.json](./312586-2048.json) |
 | 2048 | 320269 | [320269-2048.json](./320269-2048.json) |
 | 2048 3D | 268679 | [268679-2048-3d.json](./268679-2048-3d.json) |
+| 2048 8x8 | 250216 | [250216-2048-8x8.json](./250216-2048-8x8.json) |
+| 2048 9x9 | 250236 | [250236-2048-9x9.json](./250236-2048-9x9.json) |
 | 2048 Advance | 313462 | [313462-2048-advance.json](./313462-2048-advance.json) |
 | 2048 Animation Puzzle Edition | 181324 | [181324-2048-animation-puzzle-edition.json](./181324-2048-animation-puzzle-edition.json) |
 | 2048 Arms | 382186 | [382186-2048-arms.json](./382186-2048-arms.json) |
