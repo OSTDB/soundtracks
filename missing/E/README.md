@@ -3651,6 +3651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal | 303056 | [303056-eternal.json](./303056-eternal.json) |
 | Eternal | 357727 | [357727-eternal.json](./357727-eternal.json) |
 | Eternal Affairs | 347767 | [347767-eternal-affairs.json](./347767-eternal-affairs.json) |
+| Eternal Afterlife | 257851 | [257851-eternal-afterlife.json](./257851-eternal-afterlife.json) |
 | Eternal Battlefield | 126600 | [126600-eternal-battlefield.json](./126600-eternal-battlefield.json) |
 | Eternal Burden | 291892 | [291892-eternal-burden.json](./291892-eternal-burden.json) |
 | Eternal Champions | 4477 | [4477-eternal-champions.json](./4477-eternal-champions.json) |
