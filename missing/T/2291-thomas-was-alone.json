@@ -1,10 +1,9 @@
 {
-  "_readme": "Fill in the fields below, then delete this _readme line. See ../SUBMITTING.md for full instructions.",
   "igdb_id": "2291",
   "game_name": "Thomas Was Alone",
-  "album_name": "",
-  "spotify_url": "",
-  "apple_music_url": "",
-  "album_link_url": "",
-  "album_cover_url": ""
+  "album_name": "Thomas Was Alone Ost",
+  "spotify_url": "https://open.spotify.com/album/0Iw5Z8FWMPL28DC44z2kda",
+  "apple_music_url": "https://music.apple.com/us/album/thomas-was-alone-original-soundtrack/576915445",
+  "album_link_url": "https://album.link/i/576915445",
+  "album_cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f9/bf/ff/f9bfffaf-f81e-d43f-75c0-31c8932ac470/859709153322_cover.tif/600x600bb.jpg"
 }
