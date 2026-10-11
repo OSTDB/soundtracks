@@ -461,6 +461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wangan Midnight Maximum Tune 5DX+ | 315271 | [315271-wangan-midnight-maximum-tune-5dx.json](./315271-wangan-midnight-maximum-tune-5dx.json) |
 | Wangan Midnight Maximum Tune 6 | 112234 | [112234-wangan-midnight-maximum-tune-6.json](./112234-wangan-midnight-maximum-tune-6.json) |
 | Wangan Midnight Maximum Tune 6 RR+ | 315272 | [315272-wangan-midnight-maximum-tune-6-rr.json](./315272-wangan-midnight-maximum-tune-6-rr.json) |
+| Wangan Midnight Portable | 269511 | [269511-wangan-midnight-portable.json](./269511-wangan-midnight-portable.json) |
 | Wangan Midnight: R | 215170 | [215170-wangan-midnight-r.json](./215170-wangan-midnight-r.json) |
 | Wangan Sensen Red City | 231525 | [231525-wangan-sensen-red-city.json](./231525-wangan-sensen-red-city.json) |
 | Wangan Trial | 182444 | [182444-wangan-trial.json](./182444-wangan-trial.json) |
@@ -2036,6 +2037,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weirdlands | 144978 | [144978-weirdlands.json](./144978-weirdlands.json) |
 | WeirdParisGame | 353872 | [353872-weirdparisgame.json](./353872-weirdparisgame.json) |
 | Weirdshine | 395557 | [395557-weirdshine.json](./395557-weirdshine.json) |
+| Weiss Schwarz Portable: 2nd Turn | 269508 | [269508-weiss-schwarz-portable-2nd-turn.json](./269508-weiss-schwarz-portable-2nd-turn.json) |
+| Weiss Schwarz Portable: Boost Schwarz | 269506 | [269506-weiss-schwarz-portable-boost-schwarz.json](./269506-weiss-schwarz-portable-boost-schwarz.json) |
 | WeJam | 119678 | [119678-wejam.json](./119678-wejam.json) |
 | Wekele Wordle | 329557 | [329557-wekele-wordle.json](./329557-wekele-wordle.json) |
 | Wéko The Mask Gatherer | 270724 | [270724-weko-the-mask-gatherer.json](./270724-weko-the-mask-gatherer.json) |
@@ -3552,6 +3555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Win the Game! | 96197 | [96197-win-the-game.json](./96197-win-the-game.json) |
 | Win the White House | 207837 | [207837-win-the-white-house.json](./207837-win-the-white-house.json) |
 | Win With Steadily | 116297 | [116297-win-with-steadily.json](./116297-win-with-steadily.json) |
+| Win-TOEIC Beginners' LC | 269510 | [269510-win-toeic-beginners-lc.json](./269510-win-toeic-beginners-lc.json) |
 | Win, Lose or Draw | 359461 | [359461-win-lose-or-draw.json](./359461-win-lose-or-draw.json) |
 | Win, Lose or Draw | 48093 | [48093-win-lose-or-draw.json](./48093-win-lose-or-draw.json) |
 | Wincars Racer | 33292 | [33292-wincars-racer.json](./33292-wincars-racer.json) |
@@ -3765,6 +3769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winning Post 4 | 78744 | [78744-winning-post-4.json](./78744-winning-post-4.json) |
 | Winning Post 5 Maximum 2003 | 354943 | [354943-winning-post-5-maximum-2003.json](./354943-winning-post-5-maximum-2003.json) |
 | Winning Post 6 | 65013 | [65013-winning-post-6.json](./65013-winning-post-6.json) |
+| Winning Post 6 2008 | 269509 | [269509-winning-post-6-2008.json](./269509-winning-post-6-2008.json) |
 | Winning Post 7 2010 | 194007 | [194007-winning-post-7-2010.json](./194007-winning-post-7-2010.json) |
 | Winning Post 7 Maximum 2007 | 7484 | [7484-winning-post-7-maximum-2007.json](./7484-winning-post-7-maximum-2007.json) |
 | Winning Post 7 Maximum 2008 | 5283 | [5283-winning-post-7-maximum-2008.json](./5283-winning-post-7-maximum-2008.json) |
