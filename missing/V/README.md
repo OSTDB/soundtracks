@@ -21,6 +21,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | V poiskakh Atlantidy | 111215 | [111215-v-poiskakh-atlantidy.json](./111215-v-poiskakh-atlantidy.json) |
 | V Rising | 148228 | [148228-v-rising.json](./148228-v-rising.json) |
 | V Rising: Founder's Pack - Eldest Bloodline | 297468 | [297468-v-rising-founders-pack-eldest-bloodline.json](./297468-v-rising-founders-pack-eldest-bloodline.json) |
+| V Rising: Haunted Nights Castle Pack | 272217 | [272217-v-rising-haunted-nights-castle-pack.json](./272217-v-rising-haunted-nights-castle-pack.json) |
 | V Rising: Invaders of Oakvale | 339621 | [339621-v-rising-invaders-of-oakvale.json](./339621-v-rising-invaders-of-oakvale.json) |
 | V Rising: Razer Night Serpent Pack | 297495 | [297495-v-rising-razer-night-serpent-pack.json](./297495-v-rising-razer-night-serpent-pack.json) |
 | V Rising: Sinister Evolution Pack | 297497 | [297497-v-rising-sinister-evolution-pack.json](./297497-v-rising-sinister-evolution-pack.json) |
@@ -734,6 +735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vegas Stakes | 38410 | [38410-vegas-stakes.json](./38410-vegas-stakes.json) |
 | Vegas Stakes | 85469 | [85469-vegas-stakes.json](./85469-vegas-stakes.json) |
 | Vege Bubble Shoot | 278490 | [278490-vege-bubble-shoot.json](./278490-vege-bubble-shoot.json) |
+| VegeMine | 272192 | [272192-vegemine.json](./272192-vegemine.json) |
 | Vegetable Game | 191569 | [191569-vegetable-game.json](./191569-vegetable-game.json) |
 | Vegetable Valley Nightmare | 216303 | [216303-vegetable-valley-nightmare.json](./216303-vegetable-valley-nightmare.json) |
 | Vegetables Deluxe C64 | 135016 | [135016-vegetables-deluxe-c64.json](./135016-vegetables-deluxe-c64.json) |
