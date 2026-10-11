@@ -1561,6 +1561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parkour Tag | 163991 | [163991-parkour-tag.json](./163991-parkour-tag.json) |
 | Parkour Trials | 346757 | [346757-parkour-trials.json](./346757-parkour-trials.json) |
 | ParkourMan | 105335 | [105335-parkourman.json](./105335-parkourman.json) |
+| Parks and Rekt | 257870 | [257870-parks-and-rekt.json](./257870-parks-and-rekt.json) |
 | Parkside: Decayed Soul Manipulation | 264793 | [264793-parkside-decayed-soul-manipulation.json](./264793-parkside-decayed-soul-manipulation.json) |
 | ParkTo | 215694 | [215694-parkto.json](./215694-parkto.json) |
 | Parkur 44 | 152843 | [152843-parkur-44.json](./152843-parkur-44.json) |
@@ -1841,6 +1842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Path of Exile 2: Runes of Aldur | 403535 | [403535-path-of-exile-2-runes-of-aldur.json](./403535-path-of-exile-2-runes-of-aldur.json) |
 | Path of Exile 2: The Last of the Druids | 378276 | [378276-path-of-exile-2-the-last-of-the-druids.json](./378276-path-of-exile-2-the-last-of-the-druids.json) |
 | Path of Exile 2: The Third Edict | 380175 | [380175-path-of-exile-2-the-third-edict.json](./380175-path-of-exile-2-the-third-edict.json) |
+| Path of Exile: Crucible | 257831 | [257831-path-of-exile-crucible.json](./257831-path-of-exile-crucible.json) |
 | Path of Exile: Echoes of the Atlas | 142400 | [142400-path-of-exile-echoes-of-the-atlas.json](./142400-path-of-exile-echoes-of-the-atlas.json) |
 | Path of Exile: Forbidden Sanctum | 228596 | [228596-path-of-exile-forbidden-sanctum.json](./228596-path-of-exile-forbidden-sanctum.json) |
 | Path of Exile: King of the Faridun Supporter Pack | 332030 | [332030-path-of-exile-king-of-the-faridun-supporter-pack.json](./332030-path-of-exile-king-of-the-faridun-supporter-pack.json) |
@@ -6207,6 +6209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Please Come to The Castle | 349906 | [349906-please-come-to-the-castle.json](./349906-please-come-to-the-castle.json) |
 | Please Do Not Climb on the Dinosaurs | 383970 | [383970-please-do-not-climb-on-the-dinosaurs.json](./383970-please-do-not-climb-on-the-dinosaurs.json) |
 | Please Don't Feed the Creatures of the Deep | 323272 | [323272-please-dont-feed-the-creatures-of-the-deep.json](./323272-please-dont-feed-the-creatures-of-the-deep.json) |
+| Please Don't Hate Christmas | 257838 | [257838-please-dont-hate-christmas.json](./257838-please-dont-hate-christmas.json) |
 | Please Don't Understand Me | 394861 | [394861-please-dont-understand-me.json](./394861-please-dont-understand-me.json) |
 | Please Duology | 189040 | [189040-please-duology.json](./189040-please-duology.json) |
 | Please Find Me | 120173 | [120173-please-find-me.json](./120173-please-find-me.json) |
@@ -8220,6 +8223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pot Farm - Grass Roots | 39215 | [39215-pot-farm-grass-roots.json](./39215-pot-farm-grass-roots.json) |
 | Pot Farmer | 235972 | [235972-pot-farmer.json](./235972-pot-farmer.json) |
 | Pot Man | 241452 | [241452-pot-man.json](./241452-pot-man.json) |
+| Pot of Gold | 257827 | [257827-pot-of-gold.json](./257827-pot-of-gold.json) |
 | Potat | 372535 | [372535-potat.json](./372535-potat.json) |
 | Potata: Chapter One | 127148 | [127148-potata-chapter-one.json](./127148-potata-chapter-one.json) |
 | Potata: Fairy Flower | 116044 | [116044-potata-fairy-flower.json](./116044-potata-fairy-flower.json) |
