@@ -273,6 +273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yeah Yeah Beebiss I | 228361 | [228361-yeah-yeah-beebiss-i.json](./228361-yeah-yeah-beebiss-i.json) |
 | Yeah Yeah Beebiss II | 187861 | [187861-yeah-yeah-beebiss-ii.json](./187861-yeah-yeah-beebiss-ii.json) |
 | Yeah! Fighting Girl | 216804 | [216804-yeah-fighting-girl.json](./216804-yeah-fighting-girl.json) |
+| Yeah! You Want "Those Games", Right? So Here You Go! Now, Let's See You Clear Them! | 257267 | [257267-yeah-you-want-those-games-right-so-here-you-go-now-lets-see-you-clear-them.json](./257267-yeah-you-want-those-games-right-so-here-you-go-now-lets-see-you-clear-them.json) |
 | Year 2088 Classic | 276276 | [276276-year-2088-classic.json](./276276-year-2088-classic.json) |
 | Year 500 | 248046 | [248046-year-500.json](./248046-year-500.json) |
 | Year of the Ladybug: Season 1 | 337765 | [337765-year-of-the-ladybug-season-1.json](./337765-year-of-the-ladybug-season-1.json) |
@@ -693,6 +694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You are the Judge! | 238472 | [238472-you-are-the-judge.json](./238472-you-are-the-judge.json) |
 | You Are the Loading Screen | 407355 | [407355-you-are-the-loading-screen.json](./407355-you-are-the-loading-screen.json) |
 | You are the Muncher | 179556 | [179556-you-are-the-muncher.json](./179556-you-are-the-muncher.json) |
+| You Are The Road | 257277 | [257277-you-are-the-road.json](./257277-you-are-the-road.json) |
 | You Are The Victim | 277542 | [277542-you-are-the-victim.json](./277542-you-are-the-victim.json) |
 | You are the Weapon | 230309 | [230309-you-are-the-weapon.json](./230309-you-are-the-weapon.json) |
 | You Are the Wormhole | 128621 | [128621-you-are-the-wormhole.json](./128621-you-are-the-wormhole.json) |
