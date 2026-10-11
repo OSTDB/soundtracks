@@ -3159,6 +3159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Lady | 110742 | [110742-hentai-lady.json](./110742-hentai-lady.json) |
 | Hentai Ladyboy Ren | 367051 | [367051-hentai-ladyboy-ren.json](./367051-hentai-ladyboy-ren.json) |
 | Hentai Link | 340438 | [340438-hentai-link.json](./340438-hentai-link.json) |
+| Hentai Literature Club | 262221 | [262221-hentai-literature-club.json](./262221-hentai-literature-club.json) |
 | Hentai Lucia | 339914 | [339914-hentai-lucia.json](./339914-hentai-lucia.json) |
 | Hentai Lunara | 376108 | [376108-hentai-lunara.json](./376108-hentai-lunara.json) |
 | Hentai Lust | 256923 | [256923-hentai-lust.json](./256923-hentai-lust.json) |
@@ -4019,6 +4020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexceed: Insulam | 201595 | [201595-hexceed-insulam.json](./201595-hexceed-insulam.json) |
 | hexceed: Inventa Pack | 155691 | [155691-hexceed-inventa-pack.json](./155691-hexceed-inventa-pack.json) |
 | hexceed: Iter Pack | 155697 | [155697-hexceed-iter-pack.json](./155697-hexceed-iter-pack.json) |
+| Hexceed: Metallicum Pack | 262249 | [262249-hexceed-metallicum-pack.json](./262249-hexceed-metallicum-pack.json) |
 | Hexceed: Progressum | 202762 | [202762-hexceed-progressum.json](./202762-hexceed-progressum.json) |
 | Hexceed: Rimor | 204296 | [204296-hexceed-rimor.json](./204296-hexceed-rimor.json) |
 | Hexceed: Rubrum | 295865 | [295865-hexceed-rubrum.json](./295865-hexceed-rubrum.json) |
