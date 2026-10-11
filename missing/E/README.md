@@ -4437,6 +4437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evilot | 63386 | [63386-evilot.json](./63386-evilot.json) |
 | Eviltech: Soul of Megawad | 261823 | [261823-eviltech-soul-of-megawad.json](./261823-eviltech-soul-of-megawad.json) |
 | EvilTrap | 297067 | [297067-eviltrap.json](./297067-eviltrap.json) |
+| EvilUp | 240133 | [240133-evilup.json](./240133-evilup.json) |
 | Eviron's Chronicles | 161378 | [161378-evirons-chronicles.json](./161378-evirons-chronicles.json) |
 | EviscerateThisGirl.com | 260064 | [260064-evisceratethisgirl-com.json](./260064-evisceratethisgirl-com.json) |
 | Eviternity II | 279772 | [279772-eviternity-ii.json](./279772-eviternity-ii.json) |
