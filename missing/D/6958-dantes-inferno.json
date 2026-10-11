@@ -1,10 +1,9 @@
 {
-  "_readme": "Fill in the fields below, then delete this _readme line. See ../SUBMITTING.md for full instructions.",
   "igdb_id": "6958",
   "game_name": "Dante's Inferno",
-  "album_name": "",
-  "spotify_url": "",
-  "apple_music_url": "",
-  "album_link_url": "",
-  "album_cover_url": ""
+  "album_name": "Dante's Inferno (Original Soundtrack)",
+  "spotify_url": "https://open.spotify.com/album/4XLcCHRxAfThCUdwNKLkAo",
+  "apple_music_url": "https://music.apple.com/us/album/dantes-inferno-original-soundtrack/1489508147",
+  "album_link_url": "https://album.link/i/1489508147",
+  "album_cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/e0/64/ff/e064ff89-2470-0c12-bf7b-47c10f41580b/780163557824.jpg/600x600bb.jpg"
 }
