@@ -1469,6 +1469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raycast Racer | 185508 | [185508-raycast-racer.json](./185508-raycast-racer.json) |
 | RayCity | 116391 | [116391-raycity.json](./116391-raycity.json) |
 | RayCity | 388167 | [388167-raycity.json](./388167-raycity.json) |
+| Rayer Shoot | 266673 | [266673-rayer-shoot.json](./266673-rayer-shoot.json) |
 | RayForce | 22349 | [22349-rayforce.json](./22349-rayforce.json) |
 | Raygraze | 196323 | [196323-raygraze.json](./196323-raygraze.json) |
 | RaylaX | 97848 | [97848-raylax.json](./97848-raylax.json) |
@@ -5358,6 +5359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rob Blanc III: The Temporal Terrorists | 171553 | [171553-rob-blanc-iii-the-temporal-terrorists.json](./171553-rob-blanc-iii-the-temporal-terrorists.json) |
 | Rob'n Run | 183029 | [183029-robn-run.json](./183029-robn-run.json) |
 | Robbbot | 73877 | [73877-robbbot.json](./73877-robbbot.json) |
+| Robbeary | 266675 | [266675-robbeary.json](./266675-robbeary.json) |
 | Robbed Money | 147384 | [147384-robbed-money.json](./147384-robbed-money.json) |
 | Robber | 254535 | [254535-robber.json](./254535-robber.json) |
 | Robber | 385579 | [385579-robber.json](./385579-robber.json) |
@@ -6560,6 +6562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Romance of the Forgotten Kingdom | 63109 | [63109-romance-of-the-forgotten-kingdom.json](./63109-romance-of-the-forgotten-kingdom.json) |
 | Romance of the Three Kingdom Touch | 21956 | [21956-romance-of-the-three-kingdom-touch.json](./21956-romance-of-the-three-kingdom-touch.json) |
 | Romance of the Three Kingdoms | 392223 | [392223-romance-of-the-three-kingdoms.json](./392223-romance-of-the-three-kingdoms.json) |
+| Romance of the Three Kingdoms 8 Remake | 266723 | [266723-romance-of-the-three-kingdoms-8-remake.json](./266723-romance-of-the-three-kingdoms-8-remake.json) |
 | Romance of The Three Kingdoms 8 Remake: Digital Deluxe Edition | 317904 | [317904-romance-of-the-three-kingdoms-8-remake-digital-deluxe-edition.json](./317904-romance-of-the-three-kingdoms-8-remake-digital-deluxe-edition.json) |
 | Romance of the Three Kingdoms Hadou | 371351 | [371351-romance-of-the-three-kingdoms-hadou.json](./371351-romance-of-the-three-kingdoms-hadou.json) |
 | Romance of the Three Kingdoms II | 350627 | [350627-romance-of-the-three-kingdoms-ii.json](./350627-romance-of-the-three-kingdoms-ii.json) |
