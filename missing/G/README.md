@@ -1375,6 +1375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gateway | 248204 | [248204-gateway.json](./248204-gateway.json) |
 | Gateway II: Homeworld | 51391 | [51391-gateway-ii-homeworld.json](./51391-gateway-ii-homeworld.json) |
 | Gateway to English: Eigo de Go! | 245313 | [245313-gateway-to-english-eigo-de-go.json](./245313-gateway-to-english-eigo-de-go.json) |
+| Gateway to Hell | 252038 | [252038-gateway-to-hell.json](./252038-gateway-to-hell.json) |
 | Gateway to Karos | 13720 | [13720-gateway-to-karos.json](./13720-gateway-to-karos.json) |
 | Gateway to the Kulikovo Field: The Battle of Yepifan | 276204 | [276204-gateway-to-the-kulikovo-field-the-battle-of-yepifan.json](./276204-gateway-to-the-kulikovo-field-the-battle-of-yepifan.json) |
 | Gateworlds | 270155 | [270155-gateworlds.json](./270155-gateworlds.json) |
@@ -1492,6 +1493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gearend | 29963 | [29963-gearend.json](./29963-gearend.json) |
 | GearGrit | 292410 | [292410-geargrit.json](./292410-geargrit.json) |
 | Gearguns: Tank Offensive | 31375 | [31375-gearguns-tank-offensive.json](./31375-gearguns-tank-offensive.json) |
+| Gearhead Karting | 252019 | [252019-gearhead-karting.json](./252019-gearhead-karting.json) |
 | GearHead: Arena | 181230 | [181230-gearhead-arena.json](./181230-gearhead-arena.json) |
 | Gearlock: Episode 1 | 381719 | [381719-gearlock-episode-1.json](./381719-gearlock-episode-1.json) |
 | Gears Forever | 297511 | [297511-gears-forever.json](./297511-gears-forever.json) |
@@ -1874,6 +1876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genkai! Yamazumi Battle | 222374 | [222374-genkai-yamazumi-battle.json](./222374-genkai-yamazumi-battle.json) |
 | Genki Village | 143036 | [143036-genki-village.json](./143036-genki-village.json) |
 | GenMobile | 202810 | [202810-genmobile.json](./202810-genmobile.json) |
+| Gennady | 252013 | [252013-gennady.json](./252013-gennady.json) |
 | Geno 2 the Generals' Orders | 265933 | [265933-geno-2-the-generals-orders.json](./265933-geno-2-the-generals-orders.json) |
 | Geno the Fallen King | 126410 | [126410-geno-the-fallen-king.json](./126410-geno-the-fallen-king.json) |
 | Genocide | 212859 | [212859-genocide.json](./212859-genocide.json) |
