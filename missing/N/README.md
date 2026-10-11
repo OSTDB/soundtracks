@@ -1348,6 +1348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nekopara Vol. 1 | 26653 | [26653-nekopara-vol-1.json](./26653-nekopara-vol-1.json) |
 | Nekopara Vol. 3 | 29271 | [29271-nekopara-vol-3.json](./29271-nekopara-vol-3.json) |
 | Nekopara Vol. 4 | 35254 | [35254-nekopara-vol-4.json](./35254-nekopara-vol-4.json) |
+| Nekopirate | 244149 | [244149-nekopirate.json](./244149-nekopirate.json) |
 | Nekopter | 156018 | [156018-nekopter.json](./156018-nekopter.json) |
 | Nekoroid | 152144 | [152144-nekoroid.json](./152144-nekoroid.json) |
 | Nekoto | 296594 | [296594-nekoto.json](./296594-nekoto.json) |
@@ -3276,6 +3277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Kato 2 | 278938 | [278938-ninja-kato-2.json](./278938-ninja-kato-2.json) |
 | Ninja Kato 3 | 297800 | [297800-ninja-kato-3.json](./297800-ninja-kato-3.json) |
 | Ninja Kid | 68360 | [68360-ninja-kid.json](./68360-ninja-kid.json) |
+| Ninja Kidz: Time Masters | 244141 | [244141-ninja-kidz-time-masters.json](./244141-ninja-kidz-time-masters.json) |
 | Ninja Kiwi Archive | 137601 | [137601-ninja-kiwi-archive.json](./137601-ninja-kiwi-archive.json) |
 | Ninja Knight | 133897 | [133897-ninja-knight.json](./133897-ninja-knight.json) |
 | Ninja Kunoichi | 169763 | [169763-ninja-kunoichi.json](./169763-ninja-kunoichi.json) |
@@ -4742,6 +4744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Numb3r Catch3r | 256164 | [256164-numb3r-catch3r.json](./256164-numb3r-catch3r.json) |
 | Numbako | 419190 | [419190-numbako.json](./419190-numbako.json) |
 | Numbala | 111453 | [111453-numbala.json](./111453-numbala.json) |
+| Number 1! | 405429 | [405429-number-1.json](./405429-number-1.json) |
 | Number 7 | 291000 | [291000-number-7.json](./291000-number-7.json) |
 | Number 99 | 221095 | [221095-number-99.json](./221095-number-99.json) |
 | Number Chain - Logic Puzzle | 96048 | [96048-number-chain-logic-puzzle.json](./96048-number-chain-logic-puzzle.json) |
