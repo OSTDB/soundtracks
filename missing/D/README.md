@@ -2854,6 +2854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Zone | 144854 | [144854-death-zone.json](./144854-death-zone.json) |
 | Death, Soul & Robots | 245854 | [245854-death-soul-and-robots.json](./245854-death-soul-and-robots.json) |
 | Death? Preposterous! | 133985 | [133985-death-preposterous.json](./133985-death-preposterous.json) |
+| Death's Dichotomy | 261173 | [261173-deaths-dichotomy.json](./261173-deaths-dichotomy.json) |
 | Death's Door: Ultimate Edition | 206673 | [206673-deaths-door-ultimate-edition.json](./206673-deaths-door-ultimate-edition.json) |
 | Death's Gambit: Afterlife - Ashes of Vados | 193750 | [193750-deaths-gambit-afterlife-ashes-of-vados.json](./193750-deaths-gambit-afterlife-ashes-of-vados.json) |
 | Death's Life | 32030 | [32030-deaths-life.json](./32030-deaths-life.json) |
@@ -3968,6 +3969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon's Winter | 12046 | [12046-demons-winter.json](./12046-demons-winter.json) |
 | Demon's World | 39634 | [39634-demons-world.json](./39634-demons-world.json) |
 | Demon&Fairy | 75521 | [75521-demon-and-fairy.json](./75521-demon-and-fairy.json) |
+| Demonastery | 261174 | [261174-demonastery.json](./261174-demonastery.json) |
 | Demonborg Mining Co | 367391 | [367391-demonborg-mining-co.json](./367391-demonborg-mining-co.json) |
 | DemonCountdown | 272250 | [272250-demoncountdown.json](./272250-demoncountdown.json) |
 | DemonCrawl: Arena Plus | 172150 | [172150-demoncrawl-arena-plus.json](./172150-demoncrawl-arena-plus.json) |
@@ -7082,6 +7084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DoDoon | 390178 | [390178-dodoon.json](./390178-dodoon.json) |
 | Does Canned Rice Dream of a Napkin Heap? | 141752 | [141752-does-canned-rice-dream-of-a-napkin-heap.json](./141752-does-canned-rice-dream-of-a-napkin-heap.json) |
 | Does It Shoot? | 88174 | [88174-does-it-shoot.json](./88174-does-it-shoot.json) |
+| Does it Stack? | 261196 | [261196-does-it-stack.json](./261196-does-it-stack.json) |
 | Does It Stack?: Full Stack Edition | 278672 | [278672-does-it-stack-full-stack-edition.json](./278672-does-it-stack-full-stack-edition.json) |
 | Does Money Grow on Trees | 184999 | [184999-does-money-grow-on-trees.json](./184999-does-money-grow-on-trees.json) |
 | Does The Moon Dream | 363054 | [363054-does-the-moon-dream.json](./363054-does-the-moon-dream.json) |
@@ -7966,6 +7969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doodle Wipeout | 390195 | [390195-doodle-wipeout.json](./390195-doodle-wipeout.json) |
 | Doodle Words | 90879 | [90879-doodle-words.json](./90879-doodle-words.json) |
 | Doodle World | 142429 | [142429-doodle-world.json](./142429-doodle-world.json) |
+| Doodle World: Redrawn | 261150 | [261150-doodle-world-redrawn.json](./261150-doodle-world-redrawn.json) |
 | DoodleBob and the Magic Pencil | 341323 | [341323-doodlebob-and-the-magic-pencil.json](./341323-doodlebob-and-the-magic-pencil.json) |
 | DoodleBob and the Magic Pencil DX | 341325 | [341325-doodlebob-and-the-magic-pencil-dx.json](./341325-doodlebob-and-the-magic-pencil-dx.json) |
 | Doodlebug | 261511 | [261511-doodlebug.json](./261511-doodlebug.json) |
