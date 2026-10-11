@@ -5026,6 +5026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Game Maker Series Ninja Sneaking vs: Battle on the Couch | 264904 | [264904-pixel-game-maker-series-ninja-sneaking-vs-battle-on-the-couch.json](./264904-pixel-game-maker-series-ninja-sneaking-vs-battle-on-the-couch.json) |
 | Pixel Game Maker Series NyanxTech | 311093 | [311093-pixel-game-maker-series-nyanxtech.json](./311093-pixel-game-maker-series-nyanxtech.json) |
 | Pixel Game Maker Series Pollux: Hero in the box | 395668 | [395668-pixel-game-maker-series-pollux-hero-in-the-box.json](./395668-pixel-game-maker-series-pollux-hero-in-the-box.json) |
+| Pixel Game Maker Series Project Nosferatu | 276125 | [276125-pixel-game-maker-series-project-nosferatu.json](./276125-pixel-game-maker-series-project-nosferatu.json) |
 | Pixel Game Maker Series: Angel's Blood | 224205 | [224205-pixel-game-maker-series-angels-blood.json](./224205-pixel-game-maker-series-angels-blood.json) |
 | Pixel Game Maker Series: Cat and Castle | 288314 | [288314-pixel-game-maker-series-cat-and-castle.json](./288314-pixel-game-maker-series-cat-and-castle.json) |
 | Pixel Game Maker Series: Chrotopia | 320460 | [320460-pixel-game-maker-series-chrotopia.json](./320460-pixel-game-maker-series-chrotopia.json) |
@@ -7116,6 +7117,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Trading Card Game Pocket: Paldean Wonders | 393103 | [393103-pokemon-trading-card-game-pocket-paldean-wonders.json](./393103-pokemon-trading-card-game-pocket-paldean-wonders.json) |
 | Pokémon Trading Card Game Pocket: Secluded Springs | 363547 | [363547-pokemon-trading-card-game-pocket-secluded-springs.json](./363547-pokemon-trading-card-game-pocket-secluded-springs.json) |
 | Pokémon Trading Card Game Pocket: Triumphant Light | 333937 | [333937-pokemon-trading-card-game-pocket-triumphant-light.json](./333937-pokemon-trading-card-game-pocket-triumphant-light.json) |
+| Pokémon Trading Card Game: Generations | 276109 | [276109-pokemon-trading-card-game-generations.json](./276109-pokemon-trading-card-game-generations.json) |
+| Pokémon Trading Card Game: Kanto | 276112 | [276112-pokemon-trading-card-game-kanto.json](./276112-pokemon-trading-card-game-kanto.json) |
 | Pokémon Trading Card Game: Neo | 239604 | [239604-pokemon-trading-card-game-neo.json](./239604-pokemon-trading-card-game-neo.json) |
 | Pokémon Tretta | 131497 | [131497-pokemon-tretta.json](./131497-pokemon-tretta.json) |
 | Pokemon Twilight: Lunar | 323903 | [323903-pokemon-twilight-lunar.json](./323903-pokemon-twilight-lunar.json) |
