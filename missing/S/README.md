@@ -1922,6 +1922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | School House Shuffle | 206654 | [206654-school-house-shuffle.json](./206654-school-house-shuffle.json) |
 | School Idol QT Cool | 127933 | [127933-school-idol-qt-cool.json](./127933-school-idol-qt-cool.json) |
 | School Labyrinth | 265532 | [265532-school-labyrinth.json](./265532-school-labyrinth.json) |
+| School Life | 243596 | [243596-school-life.json](./243596-school-life.json) |
 | School Life Simulator | 97049 | [97049-school-life-simulator.json](./97049-school-life-simulator.json) |
 | School Love Life: Anime Games | 299909 | [299909-school-love-life-anime-games.json](./299909-school-love-life-anime-games.json) |
 | School Maze | 72059 | [72059-school-maze.json](./72059-school-maze.json) |
@@ -18016,6 +18017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stroke the Fish | 220342 | [220342-stroke-the-fish.json](./220342-stroke-the-fish.json) |
 | Stroke the Hamster | 218563 | [218563-stroke-the-hamster.json](./218563-stroke-the-hamster.json) |
 | Stroke the Hedgehog | 218564 | [218564-stroke-the-hedgehog.json](./218564-stroke-the-hedgehog.json) |
+| Stroke the Koala | 243607 | [243607-stroke-the-koala.json](./243607-stroke-the-koala.json) |
 | Stroke the Snake | 218943 | [218943-stroke-the-snake.json](./218943-stroke-the-snake.json) |
 | Stroke the Tortoise | 220344 | [220344-stroke-the-tortoise.json](./220344-stroke-the-tortoise.json) |
 | Stroker | 84315 | [84315-stroker.json](./84315-stroker.json) |
