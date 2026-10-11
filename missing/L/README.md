@@ -612,6 +612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lars | 266128 | [266128-lars.json](./266128-lars.json) |
 | Lars the Wanderer | 145652 | [145652-lars-the-wanderer.json](./145652-lars-the-wanderer.json) |
 | Laruaville 12 | 195716 | [195716-laruaville-12.json](./195716-laruaville-12.json) |
+| Laruaville 14 | 259506 | [259506-laruaville-14.json](./259506-laruaville-14.json) |
 | Laruaville 15 | 302355 | [302355-laruaville-15.json](./302355-laruaville-15.json) |
 | Laruaville 17 | 377062 | [377062-laruaville-17.json](./377062-laruaville-17.json) |
 | Laruaville 2 | 262486 | [262486-laruaville-2.json](./262486-laruaville-2.json) |
@@ -2269,7 +2270,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let Your Egg People Grow Into Large Trees | 248804 | [248804-let-your-egg-people-grow-into-large-trees.json](./248804-let-your-egg-people-grow-into-large-trees.json) |
 | Let Yourself Out, Eddie Kaspbrak! | 158724 | [158724-let-yourself-out-eddie-kaspbrak.json](./158724-let-yourself-out-eddie-kaspbrak.json) |
 | Let's Aim Shooting Gallery | 308520 | [308520-lets-aim-shooting-gallery.json](./308520-lets-aim-shooting-gallery.json) |
-| Let's Aim! Crane Game | 407274 | [407274-lets-aim-crane-game.json](./407274-lets-aim-crane-game.json) |
 | Let's Aim! Ring Toss | 328506 | [328506-lets-aim-ring-toss.json](./328506-lets-aim-ring-toss.json) |
 | Let's Attack Crazy Cross | 283389 | [283389-lets-attack-crazy-cross.json](./283389-lets-attack-crazy-cross.json) |
 | Let's Be a Mouse | 273470 | [273470-lets-be-a-mouse.json](./273470-lets-be-a-mouse.json) |
@@ -3225,6 +3225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lily's Epic Quest for Lost Gems | 118937 | [118937-lilys-epic-quest-for-lost-gems.json](./118937-lilys-epic-quest-for-lost-gems.json) |
 | Lily's Garden | 129160 | [129160-lilys-garden.json](./129160-lilys-garden.json) |
 | Lily's Lil Video Shop! | 366094 | [366094-lilys-lil-video-shop.json](./366094-lilys-lil-video-shop.json) |
+| Lily's Memories | 259462 | [259462-lilys-memories.json](./259462-lilys-memories.json) |
 | Lily's Town | 328394 | [328394-lilys-town.json](./328394-lilys-town.json) |
 | Lilycle Rainbow Stage!!! | 115310 | [115310-lilycle-rainbow-stage.json](./115310-lilycle-rainbow-stage.json) |
 | LilyDeux: Black Lily Warning | 129698 | [129698-lilydeux-black-lily-warning.json](./129698-lilydeux-black-lily-warning.json) |
@@ -5417,6 +5418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love in Belarus | 152465 | [152465-love-in-belarus.json](./152465-love-in-belarus.json) |
 | Love In Drawing | 112461 | [112461-love-in-drawing.json](./112461-love-in-drawing.json) |
 | Love in Lockdown: Eli Version | 215772 | [215772-love-in-lockdown-eli-version.json](./215772-love-in-lockdown-eli-version.json) |
+| Love in Lockdown: Ella version | 259479 | [259479-love-in-lockdown-ella-version.json](./259479-love-in-lockdown-ella-version.json) |
 | Love in the Crimson Void | 288898 | [288898-love-in-the-crimson-void.json](./288898-love-in-the-crimson-void.json) |
 | Love in the Glen | 33083 | [33083-love-in-the-glen.json](./33083-love-in-the-glen.json) |
 | Love in the Limelight | 119589 | [119589-love-in-the-limelight.json](./119589-love-in-the-limelight.json) |
@@ -6187,6 +6189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lunnye Devitsy | 16491 | [16491-lunnye-devitsy.json](./16491-lunnye-devitsy.json) |
 | Lunorbit | 342850 | [342850-lunorbit.json](./342850-lunorbit.json) |
 | Lunorbit Deluxe | 342852 | [342852-lunorbit-deluxe.json](./342852-lunorbit-deluxe.json) |
+| Lunr.Rdio.Taxi | 259454 | [259454-lunr-rdio-taxi.json](./259454-lunr-rdio-taxi.json) |
 | Luntik Knows the World | 268371 | [268371-luntik-knows-the-world.json](./268371-luntik-knows-the-world.json) |
 | Luntik Learns Letters | 268373 | [268373-luntik-learns-letters.json](./268373-luntik-learns-letters.json) |
 | Luntik Learns Numbers | 268369 | [268369-luntik-learns-numbers.json](./268369-luntik-learns-numbers.json) |
