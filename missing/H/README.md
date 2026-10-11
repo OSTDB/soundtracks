@@ -1713,6 +1713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunting Record: Sins of Lust | 320818 | [320818-haunting-record-sins-of-lust.json](./320818-haunting-record-sins-of-lust.json) |
 | Haunting Starring Polterguy | 8100 | [8100-haunting-starring-polterguy.json](./8100-haunting-starring-polterguy.json) |
 | Haunting: The Rosefield Manor | 318994 | [318994-haunting-the-rosefield-manor.json](./318994-haunting-the-rosefield-manor.json) |
+| Hauntred Factory Skibidi Poppy Freedy | 267310 | [267310-hauntred-factory-skibidi-poppy-freedy.json](./267310-hauntred-factory-skibidi-poppy-freedy.json) |
 | Hauntrick | 334176 | [334176-hauntrick.json](./334176-hauntrick.json) |
 | Hauntsgiving | 341129 | [341129-hauntsgiving.json](./341129-hauntsgiving.json) |
 | Hauntsville | 293335 | [293335-hauntsville.json](./293335-hauntsville.json) |
