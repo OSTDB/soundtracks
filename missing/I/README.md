@@ -638,6 +638,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ice craft : Winter crafting and building | 100788 | [100788-ice-craft-winter-crafting-and-building.json](./100788-ice-craft-winter-crafting-and-building.json) |
 | Ice Cream | 344005 | [344005-ice-cream.json](./344005-ice-cream.json) |
 | Ice Cream Break: Head to Head | 194397 | [194397-ice-cream-break-head-to-head.json](./194397-ice-cream-break-head-to-head.json) |
+| Ice Cream Drop | 274423 | [274423-ice-cream-drop.json](./274423-ice-cream-drop.json) |
+| Ice Cream Flap | 274426 | [274426-ice-cream-flap.json](./274426-ice-cream-flap.json) |
+| Ice Cream Jump | 274415 | [274415-ice-cream-jump.json](./274415-ice-cream-jump.json) |
 | Ice Cream Man | 409013 | [409013-ice-cream-man.json](./409013-ice-cream-man.json) |
 | Ice Cream Mania | 234064 | [234064-ice-cream-mania.json](./234064-ice-cream-mania.json) |
 | Ice Cream Mixer | 102605 | [102605-ice-cream-mixer.json](./102605-ice-cream-mixer.json) |
@@ -2925,6 +2928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inspektor Zebok: Das Erbe | 116139 | [116139-inspektor-zebok-das-erbe.json](./116139-inspektor-zebok-das-erbe.json) |
 | InSpheration | 53234 | [53234-inspheration.json](./53234-inspheration.json) |
 | Inspiral: Echoes of Gravity | 372462 | [372462-inspiral-echoes-of-gravity.json](./372462-inspiral-echoes-of-gravity.json) |
+| Inspiration Dave | 274414 | [274414-inspiration-dave.json](./274414-inspiration-dave.json) |
 | Inspire | 298302 | [298302-inspire.json](./298302-inspire.json) |
 | Inspire Footprints | 157101 | [157101-inspire-footprints.json](./157101-inspire-footprints.json) |
 | Inspired You | 413037 | [413037-inspired-you.json](./413037-inspired-you.json) |
@@ -4005,6 +4009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isolation | 268654 | [268654-isolation.json](./268654-isolation.json) |
 | Isolation | 293242 | [293242-isolation.json](./293242-isolation.json) |
 | Isolation | 29945 | [29945-isolation.json](./29945-isolation.json) |
+| Isolation One | 274385 | [274385-isolation-one.json](./274385-isolation-one.json) |
 | Isolation Story | 135021 | [135021-isolation-story.json](./135021-isolation-story.json) |
 | Isolationist Nightclub Simulator | 148523 | [148523-isolationist-nightclub-simulator.json](./148523-isolationist-nightclub-simulator.json) |
 | Isolomus | 141814 | [141814-isolomus.json](./141814-isolomus.json) |
