@@ -2198,6 +2198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Receiver 2 | 127489 | [127489-receiver-2.json](./127489-receiver-2.json) |
 | Receiver 2 & Receiver | 394471 | [394471-receiver-2-and-receiver.json](./394471-receiver-2-and-receiver.json) |
 | Recess | 406223 | [406223-recess.json](./406223-recess.json) |
+| Recess Riot | 242455 | [242455-recess-riot.json](./242455-recess-riot.json) |
 | Recesses | 317409 | [317409-recesses.json](./317409-recesses.json) |
 | Recettear: An Item Shop's Tale | 12524 | [12524-recettear-an-item-shops-tale.json](./12524-recettear-an-item-shops-tale.json) |
 | Recharge Complete | 75171 | [75171-recharge-complete.json](./75171-recharge-complete.json) |
@@ -5244,6 +5245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road 96: Mile 0 | 233676 | [233676-road-96-mile-0.json](./233676-road-96-mile-0.json) |
 | Road 96: Mile 0 - Full Journey Bundle | 243799 | [243799-road-96-mile-0-full-journey-bundle.json](./243799-road-96-mile-0-full-journey-bundle.json) |
 | Road 96: Mile 0 - Stronger Together Bundle | 243802 | [243802-road-96-mile-0-stronger-together-bundle.json](./243802-road-96-mile-0-stronger-together-bundle.json) |
+| Road Accident With Dangerous Goods VR Training | 242417 | [242417-road-accident-with-dangerous-goods-vr-training.json](./242417-road-accident-with-dangerous-goods-vr-training.json) |
 | Road Avenger | 93049 | [93049-road-avenger.json](./93049-road-avenger.json) |
 | Road Block | 124709 | [124709-road-block.json](./124709-road-block.json) |
 | Road Cafe Simulator | 351028 | [351028-road-cafe-simulator.json](./351028-road-cafe-simulator.json) |
