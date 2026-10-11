@@ -761,6 +761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Arise: Beyond the Dawn Edition | 267775 | [267775-tales-of-arise-beyond-the-dawn-edition.json](./267775-tales-of-arise-beyond-the-dawn-edition.json) |
 | Tales of Arise: Classic Characters Costume & Arranged BGM Pack | 275691 | [275691-tales-of-arise-classic-characters-costume-and-arranged-bgm-pack.json](./275691-tales-of-arise-classic-characters-costume-and-arranged-bgm-pack.json) |
 | Tales of Arise: Deluxe Edition | 169243 | [169243-tales-of-arise-deluxe-edition.json](./169243-tales-of-arise-deluxe-edition.json) |
+| Tales of Arise: Deluxe Sound Edition | 267321 | [267321-tales-of-arise-deluxe-sound-edition.json](./267321-tales-of-arise-deluxe-sound-edition.json) |
 | Tales of Arise: Elegant Costume Pack | 279541 | [279541-tales-of-arise-elegant-costume-pack.json](./279541-tales-of-arise-elegant-costume-pack.json) |
 | Tales of Arise: Premium Edition | 146339 | [146339-tales-of-arise-premium-edition.json](./146339-tales-of-arise-premium-edition.json) |
 | Tales of Arise: SAO Collaboration Pack | 259813 | [259813-tales-of-arise-sao-collaboration-pack.json](./259813-tales-of-arise-sao-collaboration-pack.json) |
@@ -7104,6 +7105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Journey Down: Chapter One | 9048 | [9048-the-journey-down-chapter-one.json](./9048-the-journey-down-chapter-one.json) |
 | The Journey East and West | 360686 | [360686-the-journey-east-and-west.json](./360686-the-journey-east-and-west.json) |
 | The Journey Home | 178529 | [178529-the-journey-home.json](./178529-the-journey-home.json) |
+| The Journey Home | 267299 | [267299-the-journey-home.json](./267299-the-journey-home.json) |
 | The Journey into the Virtual Void | 312167 | [312167-the-journey-into-the-virtual-void.json](./312167-the-journey-into-the-virtual-void.json) |
 | The Journey of Allen Strange: Match-Master | 273879 | [273879-the-journey-of-allen-strange-match-master.json](./273879-the-journey-of-allen-strange-match-master.json) |
 | The Journey of AutUmn | 164996 | [164996-the-journey-of-autumn.json](./164996-the-journey-of-autumn.json) |
@@ -13093,6 +13095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ticket | 30271 | [30271-ticket.json](./30271-ticket.json) |
 | Ticket to Earth | 38757 | [38757-ticket-to-earth.json](./38757-ticket-to-earth.json) |
 | Ticket to Nowhere | 412807 | [412807-ticket-to-nowhere.json](./412807-ticket-to-nowhere.json) |
+| Ticket to Ride | 267278 | [267278-ticket-to-ride.json](./267278-ticket-to-ride.json) |
 | Ticket to Ride: First Journey | 69654 | [69654-ticket-to-ride-first-journey.json](./69654-ticket-to-ride-first-journey.json) |
 | Ticket to Ride: France | 154475 | [154475-ticket-to-ride-france.json](./154475-ticket-to-ride-france.json) |
 | Ticket to Ride: Germany | 154470 | [154470-ticket-to-ride-germany.json](./154470-ticket-to-ride-germany.json) |
@@ -19411,6 +19414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Troll Quest | 145930 | [145930-troll-quest.json](./145930-troll-quest.json) |
 | Trollboarder | 85458 | [85458-trollboarder.json](./85458-trollboarder.json) |
 | Trollbound | 233131 | [233131-trollbound.json](./233131-trollbound.json) |
+| Trolley Delayma | 267294 | [267294-trolley-delayma.json](./267294-trolley-delayma.json) |
 | Trolley Folly | 248327 | [248327-trolley-folly.json](./248327-trolley-folly.json) |
 | Trolley Problem | 179589 | [179589-trolley-problem.json](./179589-trolley-problem.json) |
 | Trolley Simulator | 149494 | [149494-trolley-simulator.json](./149494-trolley-simulator.json) |
