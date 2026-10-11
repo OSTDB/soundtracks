@@ -1100,6 +1100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Einar | 50540 | [50540-einar.json](./50540-einar.json) |
 | Einar: Loki's Traps | 171357 | [171357-einar-lokis-traps.json](./171357-einar-lokis-traps.json) |
 | Einhänder | 1360 | [1360-einhander.json](./1360-einhander.json) |
+| Einheriar | 243574 | [243574-einheriar.json](./243574-einheriar.json) |
 | Einherjar | 181122 | [181122-einherjar.json](./181122-einherjar.json) |
 | Einlanzer | 30575 | [30575-einlanzer.json](./30575-einlanzer.json) |
 | Einn | 120832 | [120832-einn.json](./120832-einn.json) |
@@ -2312,6 +2313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Ocean: Luminous | 287856 | [287856-endless-ocean-luminous.json](./287856-endless-ocean-luminous.json) |
 | Endless Online | 57183 | [57183-endless-online.json](./57183-endless-online.json) |
 | Endless Onslaught | 311179 | [311179-endless-onslaught.json](./311179-endless-onslaught.json) |
+| Endless Pinball | 243573 | [243573-endless-pinball.json](./243573-endless-pinball.json) |
 | Endless Pursuit | 183532 | [183532-endless-pursuit.json](./183532-endless-pursuit.json) |
 | Endless Q | 180649 | [180649-endless-q.json](./180649-endless-q.json) |
 | Endless Rails | 406947 | [406947-endless-rails.json](./406947-endless-rails.json) |
@@ -4615,6 +4617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Execute Daddy: Papa ga Nandemo Shinu Game | 215889 | [215889-execute-daddy-papa-ga-nandemo-shinu-game.json](./215889-execute-daddy-papa-ga-nandemo-shinu-game.json) |
 | Execution | 13650 | [13650-execution.json](./13650-execution.json) |
 | Executioner | 88648 | [88648-executioner.json](./88648-executioner.json) |
+| Executioner Girls | 243572 | [243572-executioner-girls.json](./243572-executioner-girls.json) |
 | Executive Assault | 11585 | [11585-executive-assault.json](./11585-executive-assault.json) |
 | Executive Assault 2 | 110573 | [110573-executive-assault-2.json](./110573-executive-assault-2.json) |
 | Executive Command | 207842 | [207842-executive-command.json](./207842-executive-command.json) |
@@ -5018,6 +5021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extreme Offroad Racing | 270310 | [270310-extreme-offroad-racing.json](./270310-extreme-offroad-racing.json) |
 | Extreme Offroad Racing | 320540 | [320540-extreme-offroad-racing.json](./320540-extreme-offroad-racing.json) |
 | Extreme Offroad Racing VR | 345124 | [345124-extreme-offroad-racing-vr.json](./345124-extreme-offroad-racing-vr.json) |
+| Extreme Offroad Simulator | 243571 | [243571-extreme-offroad-simulator.json](./243571-extreme-offroad-simulator.json) |
 | Extreme Overtake | 323528 | [323528-extreme-overtake.json](./323528-extreme-overtake.json) |
 | Extreme Painting Puzzle | 110504 | [110504-extreme-painting-puzzle.json](./110504-extreme-painting-puzzle.json) |
 | Extreme Pamplona | 139232 | [139232-extreme-pamplona.json](./139232-extreme-pamplona.json) |
