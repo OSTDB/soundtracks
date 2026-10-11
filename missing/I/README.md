@@ -3248,6 +3248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Into a Hearth Yonder | 341682 | [341682-into-a-hearth-yonder.json](./341682-into-a-hearth-yonder.json) |
 | Into Arith | 270567 | [270567-into-arith.json](./270567-into-arith.json) |
 | Into Asteroid Belt | 178641 | [178641-into-asteroid-belt.json](./178641-into-asteroid-belt.json) |
+| Into Hell | 261179 | [261179-into-hell.json](./261179-into-hell.json) |
 | Into Magicland | 45342 | [45342-into-magicland.json](./45342-into-magicland.json) |
 | Into Oblivion | 301586 | [301586-into-oblivion.json](./301586-into-oblivion.json) |
 | Into Oblivion | 46748 | [46748-into-oblivion.json](./46748-into-oblivion.json) |
