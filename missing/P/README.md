@@ -7492,6 +7492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poligons | 358997 | [358997-poligons.json](./358997-poligons.json) |
 | PoligonVR | 258481 | [258481-poligonvr.json](./258481-poligonvr.json) |
 | Polilaser | 238493 | [238493-polilaser.json](./238493-polilaser.json) |
+| Polimines 2 | 244653 | [244653-polimines-2.json](./244653-polimines-2.json) |
 | Polinizamor | 179037 | [179037-polinizamor.json](./179037-polinizamor.json) |
 | Polis | 307097 | [307097-polis.json](./307097-polis.json) |
 | Polis 2: Någon ljuger | 307096 | [307096-polis-2-nagon-ljuger.json](./307096-polis-2-nagon-ljuger.json) |
@@ -9144,6 +9145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Princess Snow White: The Enchanted Mirror | 320455 | [320455-princess-snow-white-the-enchanted-mirror.json](./320455-princess-snow-white-the-enchanted-mirror.json) |
 | Princess Solitaire | 176897 | [176897-princess-solitaire.json](./176897-princess-solitaire.json) |
 | Princess Strike! | 63347 | [63347-princess-strike.json](./63347-princess-strike.json) |
+| Princess Survivors | 244672 | [244672-princess-survivors.json](./244672-princess-survivors.json) |
 | Princess Tomato in the Salad Kingdom | 48221 | [48221-princess-tomato-in-the-salad-kingdom.json](./48221-princess-tomato-in-the-salad-kingdom.json) |
 | Princess Ursula | 339233 | [339233-princess-ursula.json](./339233-princess-ursula.json) |
 | Princess War | 39000 | [39000-princess-war.json](./39000-princess-war.json) |
