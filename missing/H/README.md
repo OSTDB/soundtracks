@@ -5686,6 +5686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Homefront: The Rock Map Pack | 224224 | [224224-homefront-the-rock-map-pack.json](./224224-homefront-the-rock-map-pack.json) |
 | Homehead | 346023 | [346023-homehead.json](./346023-homehead.json) |
 | Homekeeping | 341675 | [341675-homekeeping.json](./341675-homekeeping.json) |
+| Homeland | 274960 | [274960-homeland.json](./274960-homeland.json) |
 | Homeland | 3948 | [3948-homeland.json](./3948-homeland.json) |
 | Homeland Defense: National Security Patrol | 209915 | [209915-homeland-defense-national-security-patrol.json](./209915-homeland-defense-national-security-patrol.json) |
 | Homeland: The Stone Of Night | 73455 | [73455-homeland-the-stone-of-night.json](./73455-homeland-the-stone-of-night.json) |
