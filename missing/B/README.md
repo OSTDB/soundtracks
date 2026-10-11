@@ -4172,6 +4172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beta Decay | 250957 | [250957-beta-decay.json](./250957-beta-decay.json) |
 | Beta Hospital | 330919 | [330919-beta-hospital.json](./330919-beta-hospital.json) |
 | Beta Massage Parlor Simulator | 390691 | [390691-beta-massage-parlor-simulator.json](./390691-beta-massage-parlor-simulator.json) |
+| Beta Max | 270027 | [270027-beta-max.json](./270027-beta-max.json) |
 | Beta Runner | 47989 | [47989-beta-runner.json](./47989-beta-runner.json) |
 | Betaman 2000: Special Edition | 330521 | [330521-betaman-2000-special-edition.json](./330521-betaman-2000-special-edition.json) |
 | Betasuppe | 68968 | [68968-betasuppe.json](./68968-betasuppe.json) |
@@ -4372,6 +4373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond the Marion | 338233 | [338233-beyond-the-marion.json](./338233-beyond-the-marion.json) |
 | Beyond The Mist: Beginnings | 327908 | [327908-beyond-the-mist-beginnings.json](./327908-beyond-the-mist-beginnings.json) |
 | Beyond the Mountains | 244201 | [244201-beyond-the-mountains.json](./244201-beyond-the-mountains.json) |
+| Beyond the Oaks | 270019 | [270019-beyond-the-oaks.json](./270019-beyond-the-oaks.json) |
 | Beyond the Phone Screen | 169886 | [169886-beyond-the-phone-screen.json](./169886-beyond-the-phone-screen.json) |
 | Beyond the Pitch | 349512 | [349512-beyond-the-pitch.json](./349512-beyond-the-pitch.json) |
 | Beyond the Plastic Wall | 249901 | [249901-beyond-the-plastic-wall.json](./249901-beyond-the-plastic-wall.json) |
@@ -6610,6 +6612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blocks | 370143 | [370143-blocks.json](./370143-blocks.json) |
 | Blocks | 371455 | [371455-blocks.json](./371455-blocks.json) |
 | Blocks Ahoy! | 387562 | [387562-blocks-ahoy.json](./387562-blocks-ahoy.json) |
+| Blocks and Bones | 270028 | [270028-blocks-and-bones.json](./270028-blocks-and-bones.json) |
 | Blocks and Ropes | 224092 | [224092-blocks-and-ropes.json](./224092-blocks-and-ropes.json) |
 | Blocks Challenge | 315771 | [315771-blocks-challenge.json](./315771-blocks-challenge.json) |
 | Blocks for Babies | 284014 | [284014-blocks-for-babies.json](./284014-blocks-for-babies.json) |
@@ -10649,6 +10652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bumper Wars | 71534 | [71534-bumper-wars.json](./71534-bumper-wars.json) |
 | Bumper.io | 106376 | [106376-bumper-io.json](./106376-bumper-io.json) |
 | Bumpers & Broadswords | 201117 | [201117-bumpers-and-broadswords.json](./201117-bumpers-and-broadswords.json) |
+| Bumpkin and Sprout | 270025 | [270025-bumpkin-and-sprout.json](./270025-bumpkin-and-sprout.json) |
 | Bumps | 21265 | [21265-bumps.json](./21265-bumps.json) |
 | BumpUpGhostBuster | 234717 | [234717-bumpupghostbuster.json](./234717-bumpupghostbuster.json) |
 | Bumpy Jumpy | 305374 | [305374-bumpy-jumpy.json](./305374-bumpy-jumpy.json) |
