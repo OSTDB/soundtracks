@@ -4269,6 +4269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goodbye Dreaming | 132666 | [132666-goodbye-dreaming.json](./132666-goodbye-dreaming.json) |
 | Goodbye Monster | 325139 | [325139-goodbye-monster.json](./325139-goodbye-monster.json) |
 | Goodbye Page | 374964 | [374964-goodbye-page.json](./374964-goodbye-page.json) |
+| Goodbye Seoul | 267853 | [267853-goodbye-seoul.json](./267853-goodbye-seoul.json) |
 | Goodbye World | 376046 | [376046-goodbye-world.json](./376046-goodbye-world.json) |
 | Goodbye, Doggy | 135905 | [135905-goodbye-doggy.json](./135905-goodbye-doggy.json) |
 | Goodbye, New World | 282642 | [282642-goodbye-new-world.json](./282642-goodbye-new-world.json) |
@@ -4415,6 +4416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gorescript Classic | 81424 | [81424-gorescript-classic.json](./81424-gorescript-classic.json) |
 | Gorf | 282064 | [282064-gorf.json](./282064-gorf.json) |
 | Gorf the Ghost Saves Halloween | 277415 | [277415-gorf-the-ghost-saves-halloween.json](./277415-gorf-the-ghost-saves-halloween.json) |
+| Gorfest | 267851 | [267851-gorfest.json](./267851-gorfest.json) |
 | Gorg The Game | 398681 | [398681-gorg-the-game.json](./398681-gorg-the-game.json) |
 | Gorgeous Elves of Ganassa | 385806 | [385806-gorgeous-elves-of-ganassa.json](./385806-gorgeous-elves-of-ganassa.json) |
 | Gorgeous Princess Dressup | 104605 | [104605-gorgeous-princess-dressup.json](./104605-gorgeous-princess-dressup.json) |
