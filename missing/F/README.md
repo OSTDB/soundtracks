@@ -2571,6 +2571,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fickle Card Legend | 384259 | [384259-fickle-card-legend.json](./384259-fickle-card-legend.json) |
 | FickleFlame | 367472 | [367472-fickleflame.json](./367472-fickleflame.json) |
 | Ficterra | 111615 | [111615-ficterra.json](./111615-ficterra.json) |
+| Fiction Fixers: Adventures in Wonderland | 277237 | [277237-fiction-fixers-adventures-in-wonderland.json](./277237-fiction-fixers-adventures-in-wonderland.json) |
+| Fiction Fixers: Curse of OZ | 277236 | [277236-fiction-fixers-curse-of-oz.json](./277236-fiction-fixers-curse-of-oz.json) |
 | Fiction Fixers: The Curse of Oz & Adventures in Wonderland | 209421 | [209421-fiction-fixers-the-curse-of-oz-and-adventures-in-wonderland.json](./209421-fiction-fixers-the-curse-of-oz-and-adventures-in-wonderland.json) |
 | Fiction.Colors | 341152 | [341152-fiction-colors.json](./341152-fiction-colors.json) |
 | Fidchell | 139338 | [139338-fidchell.json](./139338-fidchell.json) |
@@ -6551,6 +6553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forza Motorsport 7 | 36872 | [36872-forza-motorsport-7.json](./36872-forza-motorsport-7.json) |
 | Forza Motorsport 7: Deluxe Edition | 84940 | [84940-forza-motorsport-7-deluxe-edition.json](./84940-forza-motorsport-7-deluxe-edition.json) |
 | Forza Motorsport 7: Ultimate Edition | 84941 | [84941-forza-motorsport-7-ultimate-edition.json](./84941-forza-motorsport-7-ultimate-edition.json) |
+| Forza Motorsport and Forza Horizon 5 Premium Editions Bundle | 277243 | [277243-forza-motorsport-and-forza-horizon-5-premium-editions-bundle.json](./277243-forza-motorsport-and-forza-horizon-5-premium-editions-bundle.json) |
 | Forza Motorsport: 1969 Chevrolet Camaro Jordan Luka 3 | 314390 | [314390-forza-motorsport-1969-chevrolet-camaro-jordan-luka-3.json](./314390-forza-motorsport-1969-chevrolet-camaro-jordan-luka-3.json) |
 | Forza Motorsport: 1983 Nissan #23 Nissan Motorsports Silvia Super Silhouette | 295480 | [295480-forza-motorsport-1983-nissan-23-nissan-motorsports-silvia-super-silhouette.json](./295480-forza-motorsport-1983-nissan-23-nissan-motorsports-silvia-super-silhouette.json) |
 | Forza Motorsport: 1983 Porsche #11 John Fitzpatrick Racing 956 | 286134 | [286134-forza-motorsport-1983-porsche-11-john-fitzpatrick-racing-956.json](./286134-forza-motorsport-1983-porsche-11-john-fitzpatrick-racing-956.json) |
