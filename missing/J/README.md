@@ -667,6 +667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jennifer | 141256 | [141256-jennifer.json](./141256-jennifer.json) |
 | Jennifer Capriati Tennis | 46205 | [46205-jennifer-capriati-tennis.json](./46205-jennifer-capriati-tennis.json) |
 | Jennifer Janowski is Doomed | 242818 | [242818-jennifer-janowski-is-doomed.json](./242818-jennifer-janowski-is-doomed.json) |
+| Jennifer's Fragments | 270056 | [270056-jennifers-fragments.json](./270056-jennifers-fragments.json) |
 | Jennifer's Lustful Journey | 340771 | [340771-jennifers-lustful-journey.json](./340771-jennifers-lustful-journey.json) |
 | Jennifer's Nonsensical Christmas Adventure | 399253 | [399253-jennifers-nonsensical-christmas-adventure.json](./399253-jennifers-nonsensical-christmas-adventure.json) |
 | Jenny | 369182 | [369182-jenny.json](./369182-jenny.json) |
