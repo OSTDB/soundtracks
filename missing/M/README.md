@@ -424,6 +424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madeline: European Adventures | 210114 | [210114-madeline-european-adventures.json](./210114-madeline-european-adventures.json) |
 | Mademoiselle Kshatriya | 367622 | [367622-mademoiselle-kshatriya.json](./367622-mademoiselle-kshatriya.json) |
 | MadFut 25 | 327873 | [327873-madfut-25.json](./327873-madfut-25.json) |
+| Madgun | 241277 | [241277-madgun.json](./241277-madgun.json) |
 | Madhack | 140449 | [140449-madhack.json](./140449-madhack.json) |
 | Madhouse13 | 204553 | [204553-madhouse13.json](./204553-madhouse13.json) |
 | Madievals | 120378 | [120378-madievals.json](./120378-madievals.json) |
@@ -4587,6 +4588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medusa's Labyrinth VR | 28178 | [28178-medusas-labyrinth-vr.json](./28178-medusas-labyrinth-vr.json) |
 | Medusa's Mini Mystery | 177513 | [177513-medusas-mini-mystery.json](./177513-medusas-mini-mystery.json) |
 | Meduziak | 247659 | [247659-meduziak.json](./247659-meduziak.json) |
+| Medved Hellraiser | 241279 | [241279-medved-hellraiser.json](./241279-medved-hellraiser.json) |
 | Medved Hellraiser 3: Green Elephant | 311095 | [311095-medved-hellraiser-3-green-elephant.json](./311095-medved-hellraiser-3-green-elephant.json) |
 | Meeblings | 214498 | [214498-meeblings.json](./214498-meeblings.json) |
 | Meebzork | 282627 | [282627-meebzork.json](./282627-meebzork.json) |
@@ -6020,6 +6022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meta Form | 198485 | [198485-meta-form.json](./198485-meta-form.json) |
 | Meta Fox | 39689 | [39689-meta-fox.json](./39689-meta-fox.json) |
 | Meta Knightmare Ultra | 271411 | [271411-meta-knightmare-ultra.json](./271411-meta-knightmare-ultra.json) |
+| Meta Lines | 241278 | [241278-meta-lines.json](./241278-meta-lines.json) |
 | Meta Lordz | 270594 | [270594-meta-lordz.json](./270594-meta-lordz.json) |
 | Meta Match | 302199 | [302199-meta-match.json](./302199-meta-match.json) |
 | Meta Nanos: Rumble Race | 263521 | [263521-meta-nanos-rumble-race.json](./263521-meta-nanos-rumble-race.json) |
