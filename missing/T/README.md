@@ -1608,6 +1608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tapper's Fiefdom | 393491 | [393491-tappers-fiefdom.json](./393491-tappers-fiefdom.json) |
 | Tappingo | 23517 | [23517-tappingo.json](./23517-tappingo.json) |
 | TapPlus | 384211 | [384211-tapplus.json](./384211-tapplus.json) |
+| Tappump | 265085 | [265085-tappump.json](./265085-tappump.json) |
 | Tappy Cat: Rhythm Collector | 74696 | [74696-tappy-cat-rhythm-collector.json](./74696-tappy-cat-rhythm-collector.json) |
 | Tappy Chicken | 344000 | [344000-tappy-chicken.json](./344000-tappy-chicken.json) |
 | Tappy Dig: Virtual Pet Fox Game | 265423 | [265423-tappy-dig-virtual-pet-fox-game.json](./265423-tappy-dig-virtual-pet-fox-game.json) |
@@ -3580,6 +3581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventures of R.Sole: Nothing, Nowhere & Not at the Same Time | 390692 | [390692-the-adventures-of-r-sole-nothing-nowhere-and-not-at-the-same-time.json](./390692-the-adventures-of-r-sole-nothing-nowhere-and-not-at-the-same-time.json) |
 | The Adventures of Rad Gravity | 8777 | [8777-the-adventures-of-rad-gravity.json](./8777-the-adventures-of-rad-gravity.json) |
 | The Adventures of Reynaldo | 146193 | [146193-the-adventures-of-reynaldo.json](./146193-the-adventures-of-reynaldo.json) |
+| The Adventures of Robin Hood | 265054 | [265054-the-adventures-of-robin-hood.json](./265054-the-adventures-of-robin-hood.json) |
 | The Adventures of Sam Carlisle: The Hunt for the L | 76876 | [76876-the-adventures-of-sam-carlisle-the-hunt-for-the-l.json](./76876-the-adventures-of-sam-carlisle-the-hunt-for-the-l.json) |
 | The Adventures of Sam Carlisle: The Hunt for the Lost Treasure | 75011 | [75011-the-adventures-of-sam-carlisle-the-hunt-for-the-lost-treasure.json](./75011-the-adventures-of-sam-carlisle-the-hunt-for-the-lost-treasure.json) |
 | The Adventures of Sheep and Sheep | 262451 | [262451-the-adventures-of-sheep-and-sheep.json](./262451-the-adventures-of-sheep-and-sheep.json) |
@@ -6496,6 +6498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Grim Outpost | 271323 | [271323-the-grim-outpost.json](./271323-the-grim-outpost.json) |
 | The Grimsworth Reports: Woodfall | 75004 | [75004-the-grimsworth-reports-woodfall.json](./75004-the-grimsworth-reports-woodfall.json) |
 | The Grinch | 15487 | [15487-the-grinch.json](./15487-the-grinch.json) |
+| The Grinch | 265046 | [265046-the-grinch.json](./265046-the-grinch.json) |
 | The Grinch 2: Saving Christmas | 409510 | [409510-the-grinch-2-saving-christmas.json](./409510-the-grinch-2-saving-christmas.json) |
 | The Grinch: 2 in 1 Game Collection | 409511 | [409511-the-grinch-2-in-1-game-collection.json](./409511-the-grinch-2-in-1-game-collection.json) |
 | The Grinch: Christmas Adventures - Determined to Love Christmas | 370830 | [370830-the-grinch-christmas-adventures-determined-to-love-christmas.json](./370830-the-grinch-christmas-adventures-determined-to-love-christmas.json) |
@@ -6563,6 +6566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Harbinger's Head | 103466 | [103466-the-harbingers-head.json](./103466-the-harbingers-head.json) |
 | The Hard Game | 215743 | [215743-the-hard-game.json](./215743-the-hard-game.json) |
 | The Hardest BrickBreaker | 113708 | [113708-the-hardest-brickbreaker.json](./113708-the-hardest-brickbreaker.json) |
+| The Hardest Game Ever | 265045 | [265045-the-hardest-game-ever.json](./265045-the-hardest-game-ever.json) |
 | The hardest game in the universe 2 | 197201 | [197201-the-hardest-game-in-the-universe-2.json](./197201-the-hardest-game-in-the-universe-2.json) |
 | The Hardest Game in the Universe 2: Bridging to the Third Chapter | 310404 | [310404-the-hardest-game-in-the-universe-2-bridging-to-the-third-chapter.json](./310404-the-hardest-game-in-the-universe-2-bridging-to-the-third-chapter.json) |
 | The hardest game in the universe 2: Final DLC | 290010 | [290010-the-hardest-game-in-the-universe-2-final-dlc.json](./290010-the-hardest-game-in-the-universe-2-final-dlc.json) |
