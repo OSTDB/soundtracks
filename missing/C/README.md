@@ -70,6 +70,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cab Ride | 172552 | [172552-cab-ride.json](./172552-cab-ride.json) |
 | Cabal 2 | 12132 | [12132-cabal-2.json](./12132-cabal-2.json) |
 | Cabal M: Heroes of Nevareth | 174724 | [174724-cabal-m-heroes-of-nevareth.json](./174724-cabal-m-heroes-of-nevareth.json) |
+| Caball | 267282 | [267282-caball.json](./267282-caball.json) |
 | Cabals: Magic & Battle Cards | 33107 | [33107-cabals-magic-and-battle-cards.json](./33107-cabals-magic-and-battle-cards.json) |
 | Cabbage Crop | 290838 | [290838-cabbage-crop.json](./290838-cabbage-crop.json) |
 | Cabbage Patch Kids: Adventures in the Park | 11144 | [11144-cabbage-patch-kids-adventures-in-the-park.json](./11144-cabbage-patch-kids-adventures-in-the-park.json) |
@@ -11814,6 +11815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubzh | 250020 | [250020-cubzh.json](./250020-cubzh.json) |
 | Cuccchi | 159156 | [159156-cuccchi.json](./159156-cuccchi.json) |
 | Cucina Stellata: Starred Cuisine | 341891 | [341891-cucina-stellata-starred-cuisine.json](./341891-cucina-stellata-starred-cuisine.json) |
+| Cuckold Chair Simulator 2023 | 267303 | [267303-cuckold-chair-simulator-2023.json](./267303-cuckold-chair-simulator-2023.json) |
 | Cuckold Life Simulator | 375972 | [375972-cuckold-life-simulator.json](./375972-cuckold-life-simulator.json) |
 | Cuckold Sex: Episode 1 | 301643 | [301643-cuckold-sex-episode-1.json](./301643-cuckold-sex-episode-1.json) |
 | Cuckold Sex: Episode 2 | 301645 | [301645-cuckold-sex-episode-2.json](./301645-cuckold-sex-episode-2.json) |
