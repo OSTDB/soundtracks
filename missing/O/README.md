@@ -3605,6 +3605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overwatch 2: Season 20 - Vendetta | 380108 | [380108-overwatch-2-season-20-vendetta.json](./380108-overwatch-2-season-20-vendetta.json) |
 | Overwatch 2: Season 4 - Space Opera | 243933 | [243933-overwatch-2-season-4-space-opera.json](./243933-overwatch-2-season-4-space-opera.json) |
 | Overwatch 2: Season 6 - Invasion | 252842 | [252842-overwatch-2-season-6-invasion.json](./252842-overwatch-2-season-6-invasion.json) |
+| Overwatch 2: Season 7 - Rise of the Darkness | 270044 | [270044-overwatch-2-season-7-rise-of-the-darkness.json](./270044-overwatch-2-season-7-rise-of-the-darkness.json) |
 | Overwatch: Legendary Edition | 118848 | [118848-overwatch-legendary-edition.json](./118848-overwatch-legendary-edition.json) |
 | Overwatch: Reign of Talon - Season 1: Conquest | 388391 | [388391-overwatch-reign-of-talon-season-1-conquest.json](./388391-overwatch-reign-of-talon-season-1-conquest.json) |
 | Overwatch: Reign of Talon - Season 3: Into the Tigers Den | 406719 | [406719-overwatch-reign-of-talon-season-3-into-the-tigers-den.json](./406719-overwatch-reign-of-talon-season-3-into-the-tigers-den.json) |
