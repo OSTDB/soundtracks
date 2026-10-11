@@ -9654,6 +9654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snowboard Freestyle Skiing | 99190 | [99190-snowboard-freestyle-skiing.json](./99190-snowboard-freestyle-skiing.json) |
 | Snowboard Girl | 355151 | [355151-snowboard-girl.json](./355151-snowboard-girl.json) |
 | Snowboard Heaven | 70664 | [70664-snowboard-heaven.json](./70664-snowboard-heaven.json) |
+| Snowboard Hero | 256184 | [256184-snowboard-hero.json](./256184-snowboard-hero.json) |
 | Snowboard Kids | 3342 | [3342-snowboard-kids.json](./3342-snowboard-kids.json) |
 | Snowboard Kids Plus | 72103 | [72103-snowboard-kids-plus.json](./72103-snowboard-kids-plus.json) |
 | Snowboard Legends | 322988 | [322988-snowboard-legends.json](./322988-snowboard-legends.json) |
@@ -9865,6 +9866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soccer Cup Solitaire | 87064 | [87064-soccer-cup-solitaire.json](./87064-soccer-cup-solitaire.json) |
 | Soccer Cup: World League | 232135 | [232135-soccer-cup-world-league.json](./232135-soccer-cup-world-league.json) |
 | Soccer Defense | 231897 | [231897-soccer-defense.json](./231897-soccer-defense.json) |
+| Soccer Empire: The Dream Begins | 256166 | [256166-soccer-empire-the-dream-begins.json](./256166-soccer-empire-the-dream-begins.json) |
 | Soccer Feeling | 59444 | [59444-soccer-feeling.json](./59444-soccer-feeling.json) |
 | Soccer for Arcadia 2001 | 131540 | [131540-soccer-for-arcadia-2001.json](./131540-soccer-for-arcadia-2001.json) |
 | Soccer Goal Run | 329577 | [329577-soccer-goal-run.json](./329577-soccer-goal-run.json) |
@@ -14684,6 +14686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squishmallows FIFA World Cup Happy Meal | 406244 | [406244-squishmallows-fifa-world-cup-happy-meal.json](./406244-squishmallows-fifa-world-cup-happy-meal.json) |
 | Squishy Tank | 68088 | [68088-squishy-tank.json](./68088-squishy-tank.json) |
 | Squishy the Suicidal Pig | 9874 | [9874-squishy-the-suicidal-pig.json](./9874-squishy-the-suicidal-pig.json) |
+| Squishys Revenge | 256197 | [256197-squishys-revenge.json](./256197-squishys-revenge.json) |
 | sQuiz | 137967 | [137967-squiz.json](./137967-squiz.json) |
 | Squonker 3 | 260663 | [260663-squonker-3.json](./260663-squonker-3.json) |
 | Sqwark! A Nutty Adventure | 169478 | [169478-sqwark-a-nutty-adventure.json](./169478-sqwark-a-nutty-adventure.json) |
@@ -16815,6 +16818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stickman Destruction 2 | 81677 | [81677-stickman-destruction-2.json](./81677-stickman-destruction-2.json) |
 | Stickman Downhill | 117758 | [117758-stickman-downhill.json](./117758-stickman-downhill.json) |
 | Stickman Downhill Monstertruck | 233228 | [233228-stickman-downhill-monstertruck.json](./233228-stickman-downhill-monstertruck.json) |
+| Stickman Fighter Infinity | 256172 | [256172-stickman-fighter-infinity.json](./256172-stickman-fighter-infinity.json) |
 | Stickman Flip Diving | 106523 | [106523-stickman-flip-diving.json](./106523-stickman-flip-diving.json) |
 | Stickman Football | 94775 | [94775-stickman-football.json](./94775-stickman-football.json) |
 | Stickman Fury | 372793 | [372793-stickman-fury.json](./372793-stickman-fury.json) |
@@ -17745,6 +17749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street volleyball: Invitation | 220671 | [220671-street-volleyball-invitation.json](./220671-street-volleyball-invitation.json) |
 | Street Warrior | 44621 | [44621-street-warrior.json](./44621-street-warrior.json) |
 | Street-food Tycoon Chef Fever: World Cook-ing Star | 248067 | [248067-street-food-tycoon-chef-fever-world-cook-ing-star.json](./248067-street-food-tycoon-chef-fever-world-cook-ing-star.json) |
+| Streetball 2: On Fire | 256168 | [256168-streetball-2-on-fire.json](./256168-streetball-2-on-fire.json) |
 | Streetball VR | 36985 | [36985-streetball-vr.json](./36985-streetball-vr.json) |
 | Streetbike: Full Blast | 20722 | [20722-streetbike-full-blast.json](./20722-streetbike-full-blast.json) |
 | StreetCraft | 32933 | [32933-streetcraft.json](./32933-streetcraft.json) |
@@ -18357,6 +18362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Succubus With Guns: Costume "Joy of Succubus" | 291678 | [291678-succubus-with-guns-costume-joy-of-succubus.json](./291678-succubus-with-guns-costume-joy-of-succubus.json) |
 | Succubus x Saint | 327265 | [327265-succubus-x-saint.json](./327265-succubus-x-saint.json) |
 | Succubus: Elysian Fields | 337829 | [337829-succubus-elysian-fields.json](./337829-succubus-elysian-fields.json) |
+| Succubus: Hellish Orgy VR | 256180 | [256180-succubus-hellish-orgy-vr.json](./256180-succubus-hellish-orgy-vr.json) |
 | Succubus: Onoskelis | 216209 | [216209-succubus-onoskelis.json](./216209-succubus-onoskelis.json) |
 | Succubus: Sex Story | 269203 | [269203-succubus-sex-story.json](./269203-succubus-sex-story.json) |
 | Succubuses Love Creampie | 169424 | [169424-succubuses-love-creampie.json](./169424-succubuses-love-creampie.json) |
@@ -18924,6 +18930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sun Scorcher | 356781 | [356781-sun-scorcher.json](./356781-sun-scorcher.json) |
 | Sun Spear | 275523 | [275523-sun-spear.json](./275523-sun-spear.json) |
 | Sun Sport Fishing: Keiryuu-ou | 37889 | [37889-sun-sport-fishing-keiryuu-ou.json](./37889-sun-sport-fishing-keiryuu-ou.json) |
+| Sun Stones | 256193 | [256193-sun-stones.json](./256193-sun-stones.json) |
 | Sun Temple Shootout | 87697 | [87697-sun-temple-shootout.json](./87697-sun-temple-shootout.json) |
 | Sun Wukong VS Robot | 113725 | [113725-sun-wukong-vs-robot.json](./113725-sun-wukong-vs-robot.json) |
 | Sun Wukong: Journey to the West | 184925 | [184925-sun-wukong-journey-to-the-west.json](./184925-sun-wukong-journey-to-the-west.json) |
