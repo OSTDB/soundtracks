@@ -146,6 +146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 007: Quantum of Solace | 156079 | [156079-007-quantum-of-solace.json](./156079-007-quantum-of-solace.json) |
 | 007: Quantum of Solace - Collector's Edition | 47468 | [47468-007-quantum-of-solace-collectors-edition.json](./47468-007-quantum-of-solace-collectors-edition.json) |
 | 007: Sonic Secret Agent | 266705 | [266705-007-sonic-secret-agent.json](./266705-007-sonic-secret-agent.json) |
+| 01 Deadliest Zone Catch: Boat Crab & Fishing Simulator | 263940 | [263940-01-deadliest-zone-catch-boat-crab-and-fishing-simulator.json](./263940-01-deadliest-zone-catch-boat-crab-and-fishing-simulator.json) |
 | 01's Blackhole | 200635 | [200635-01s-blackhole.json](./200635-01s-blackhole.json) |
 | 0101: Classic Bonus Levels 3 | 325453 | [325453-0101-classic-bonus-levels-3.json](./325453-0101-classic-bonus-levels-3.json) |
 | 0101: Counter Bonus Levels 3 | 325454 | [325454-0101-counter-bonus-levels-3.json](./325454-0101-counter-bonus-levels-3.json) |
