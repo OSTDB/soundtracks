@@ -4744,6 +4744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Always a New Journey | 161185 | [161185-always-a-new-journey.json](./161185-always-a-new-journey.json) |
 | Always Forward | 297062 | [297062-always-forward.json](./297062-always-forward.json) |
 | Always Higher | 32196 | [32196-always-higher.json](./32196-always-higher.json) |
+| Always in Mind | 275550 | [275550-always-in-mind.json](./275550-always-in-mind.json) |
 | Always Remember Me | 36356 | [36356-always-remember-me.json](./36356-always-remember-me.json) |
 | Always Sometimes Monsters | 7289 | [7289-always-sometimes-monsters.json](./7289-always-sometimes-monsters.json) |
 | Always Sunset | 413736 | [413736-always-sunset.json](./413736-always-sunset.json) |
@@ -8051,6 +8052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arena Runner | 92817 | [92817-arena-runner.json](./92817-arena-runner.json) |
 | Arena Story: Rouge And Princess Knight | 239792 | [239792-arena-story-rouge-and-princess-knight.json](./239792-arena-story-rouge-and-princess-knight.json) |
 | Arena Survivors | 289796 | [289796-arena-survivors.json](./289796-arena-survivors.json) |
+| Arena Tails | 275530 | [275530-arena-tails.json](./275530-arena-tails.json) |
 | Arena Titans | 94789 | [94789-arena-titans.json](./94789-arena-titans.json) |
 | Arena Warrior | 325022 | [325022-arena-warrior.json](./325022-arena-warrior.json) |
 | Arena Wars Reloaded | 73493 | [73493-arena-wars-reloaded.json](./73493-arena-wars-reloaded.json) |
