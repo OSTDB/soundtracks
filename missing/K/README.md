@@ -3258,6 +3258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kongeer | 201006 | [201006-kongeer.json](./201006-kongeer.json) |
 | Kongfu | 246465 | [246465-kongfu.json](./246465-kongfu.json) |
 | Kongfu VR | 192249 | [192249-kongfu-vr.json](./192249-kongfu-vr.json) |
+| Kongming's Fiendish Maze | 249674 | [249674-kongmings-fiendish-maze.json](./249674-kongmings-fiendish-maze.json) |
 | Kongo Kong | 62983 | [62983-kongo-kong.json](./62983-kongo-kong.json) |
 | KongQuest | 216172 | [216172-kongquest.json](./216172-kongquest.json) |
 | Kongregate Racing | 338926 | [338926-kongregate-racing.json](./338926-kongregate-racing.json) |
