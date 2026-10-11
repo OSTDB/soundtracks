@@ -3103,6 +3103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lightspeed Dating: Deluxe | 227873 | [227873-lightspeed-dating-deluxe.json](./227873-lightspeed-dating-deluxe.json) |
 | Lightspeed Lina | 417659 | [417659-lightspeed-lina.json](./417659-lightspeed-lina.json) |
 | Lightspire: Fortunes Web | 69202 | [69202-lightspire-fortunes-web.json](./69202-lightspire-fortunes-web.json) |
+| LightSprites | 261186 | [261186-lightsprites.json](./261186-lightsprites.json) |
 | Lightstep Chronicles | 112851 | [112851-lightstep-chronicles.json](./112851-lightstep-chronicles.json) |
 | Lightstream Racer | 100163 | [100163-lightstream-racer.json](./100163-lightstream-racer.json) |
 | LightStrike | 29784 | [29784-lightstrike.json](./29784-lightstrike.json) |
