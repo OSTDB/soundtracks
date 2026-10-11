@@ -5624,6 +5624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robot King Part 2: Boss Battles | 116221 | [116221-robot-king-part-2-boss-battles.json](./116221-robot-king-part-2-boss-battles.json) |
 | Robot King Part I: Rebooted and Ready | 72383 | [72383-robot-king-part-i-rebooted-and-ready.json](./72383-robot-king-part-i-rebooted-and-ready.json) |
 | Robot Labs: Remake | 171568 | [171568-robot-labs-remake.json](./171568-robot-labs-remake.json) |
+| Robot Lawn Mower | 242971 | [242971-robot-lawn-mower.json](./242971-robot-lawn-mower.json) |
 | Robot Legions Reborn | 21629 | [21629-robot-legions-reborn.json](./21629-robot-legions-reborn.json) |
 | Robot Maker | 385335 | [385335-robot-maker.json](./385335-robot-maker.json) |
 | Robot Mil | 387341 | [387341-robot-mil.json](./387341-robot-mil.json) |
