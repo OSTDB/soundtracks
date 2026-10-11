@@ -176,6 +176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaisen! Ika Gundan! | 269317 | [269317-kaisen-ika-gundan.json](./269317-kaisen-ika-gundan.json) |
 | Kaiser | 76157 | [76157-kaiser.json](./76157-kaiser.json) |
 | Kaiser of Singularity | 260868 | [260868-kaiser-of-singularity.json](./260868-kaiser-of-singularity.json) |
+| Kaiserpunk | 276655 | [276655-kaiserpunk.json](./276655-kaiserpunk.json) |
 | Kaisho | 276270 | [276270-kaisho.json](./276270-kaisho.json) |
 | Kaitasume: Zero | 388406 | [388406-kaitasume-zero.json](./388406-kaitasume-zero.json) |
 | Kaite Oboeru Doragana | 66034 | [66034-kaite-oboeru-doragana.json](./66034-kaite-oboeru-doragana.json) |
@@ -932,6 +933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keep Talking and Nobody Explodes | 13226 | [13226-keep-talking-and-nobody-explodes.json](./13226-keep-talking-and-nobody-explodes.json) |
 | Keep the Balance | 50038 | [50038-keep-the-balance.json](./50038-keep-the-balance.json) |
 | Keep The Beat | 381598 | [381598-keep-the-beat.json](./381598-keep-the-beat.json) |
+| Keep the Heroes Out | 276656 | [276656-keep-the-heroes-out.json](./276656-keep-the-heroes-out.json) |
 | Keep Them Below | 59037 | [59037-keep-them-below.json](./59037-keep-them-below.json) |
 | Keep to the Blue | 416861 | [416861-keep-to-the-blue.json](./416861-keep-to-the-blue.json) |
 | Keep Trying! Zombie Apocalypse | 155015 | [155015-keep-trying-zombie-apocalypse.json](./155015-keep-trying-zombie-apocalypse.json) |
@@ -1221,6 +1223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keystone Kapers | 198792 | [198792-keystone-kapers.json](./198792-keystone-kapers.json) |
 | Keystone Library | 226428 | [226428-keystone-library.json](./226428-keystone-library.json) |
 | keyWars | 96848 | [96848-keywars.json](./96848-keywars.json) |
+| Keyword 2: Nightfall | 276657 | [276657-keyword-2-nightfall.json](./276657-keyword-2-nightfall.json) |
 | KeyWords | 72079 | [72079-keywords.json](./72079-keywords.json) |
 | Keziah's Realm | 329100 | [329100-keziahs-realm.json](./329100-keziahs-realm.json) |
 | KFC Kitchen | 334928 | [334928-kfc-kitchen.json](./334928-kfc-kitchen.json) |
