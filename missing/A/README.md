@@ -2285,6 +2285,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aerofly FS 2021 | 175172 | [175172-aerofly-fs-2021.json](./175172-aerofly-fs-2021.json) |
 | Aerofly FS 4 Flight Simulator | 204985 | [204985-aerofly-fs-4-flight-simulator.json](./204985-aerofly-fs-4-flight-simulator.json) |
 | Aerofly FS 4 Flight Simulator: Aircraft AddOn | 204990 | [204990-aerofly-fs-4-flight-simulator-aircraft-addon.json](./204990-aerofly-fs-4-flight-simulator-aircraft-addon.json) |
+| Aerofly RC 10: Expansion Pack 1 | 272742 | [272742-aerofly-rc-10-expansion-pack-1.json](./272742-aerofly-rc-10-expansion-pack-1.json) |
+| Aerofly RC 10: Expansion Pack 2 | 272741 | [272741-aerofly-rc-10-expansion-pack-2.json](./272741-aerofly-rc-10-expansion-pack-2.json) |
 | aerofly RC 7 | 17839 | [17839-aerofly-rc-7.json](./17839-aerofly-rc-7.json) |
 | Aerolicious | 416623 | [416623-aerolicious.json](./416623-aerolicious.json) |
 | Aerolitos | 40160 | [40160-aerolitos.json](./40160-aerolitos.json) |
@@ -3510,6 +3512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alaa: Mogus Must Die | 283885 | [283885-alaa-mogus-must-die.json](./283885-alaa-mogus-must-die.json) |
 | Alabama Smith: Escape from Pompeii | 176893 | [176893-alabama-smith-escape-from-pompeii.json](./176893-alabama-smith-escape-from-pompeii.json) |
 | Alabaster | 60017 | [60017-alabaster.json](./60017-alabaster.json) |
+| Alaca | 272778 | [272778-alaca.json](./272778-alaca.json) |
 | Alacrity | 368899 | [368899-alacrity.json](./368899-alacrity.json) |
 | Aladdin | 204504 | [204504-aladdin.json](./204504-aladdin.json) |
 | Aladdin | 204505 | [204505-aladdin.json](./204505-aladdin.json) |
