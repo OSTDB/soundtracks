@@ -1525,6 +1525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Eclipse: Dominium | 346155 | [346155-neon-eclipse-dominium.json](./346155-neon-eclipse-dominium.json) |
 | Neon Express | 310723 | [310723-neon-express.json](./310723-neon-express.json) |
 | Neon Fantasy: Birds | 254144 | [254144-neon-fantasy-birds.json](./254144-neon-fantasy-birds.json) |
+| Neon Fantasy: Cats | 267842 | [267842-neon-fantasy-cats.json](./267842-neon-fantasy-cats.json) |
 | Neon Fantasy: Dinosaurs | 401022 | [401022-neon-fantasy-dinosaurs.json](./401022-neon-fantasy-dinosaurs.json) |
 | Neon Fantasy: Dogs | 270970 | [270970-neon-fantasy-dogs.json](./270970-neon-fantasy-dogs.json) |
 | Neon Fantasy: Girls | 252278 | [252278-neon-fantasy-girls.json](./252278-neon-fantasy-girls.json) |
@@ -1643,6 +1644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neonoen | 120782 | [120782-neonoen.json](./120782-neonoen.json) |
 | NeoNomicon | 37005 | [37005-neonomicon.json](./37005-neonomicon.json) |
 | NeonPlat's Cosmic Adventure | 59825 | [59825-neonplats-cosmic-adventure.json](./59825-neonplats-cosmic-adventure.json) |
+| NeonPowerUp! | 267841 | [267841-neonpowerup.json](./267841-neonpowerup.json) |
 | Neonsomnia | 257087 | [257087-neonsomnia.json](./257087-neonsomnia.json) |
 | NeonTunnel | 176365 | [176365-neontunnel.json](./176365-neontunnel.json) |
 | NeonXSZ | 17314 | [17314-neonxsz.json](./17314-neonxsz.json) |
@@ -2819,6 +2821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightingale: Realms Rebuilt | 314408 | [314408-nightingale-realms-rebuilt.json](./314408-nightingale-realms-rebuilt.json) |
 | Nightlatch: Haunted House | 414411 | [414411-nightlatch-haunted-house.json](./414411-nightlatch-haunted-house.json) |
 | Nightlife | 262308 | [262308-nightlife.json](./262308-nightlife.json) |
+| Nightlife Tycoon | 267840 | [267840-nightlife-tycoon.json](./267840-nightlife-tycoon.json) |
 | Nightlife: Vista | 297359 | [297359-nightlife-vista.json](./297359-nightlife-vista.json) |
 | Nightline | 132031 | [132031-nightline.json](./132031-nightline.json) |
 | Nightlings | 338862 | [338862-nightlings.json](./338862-nightlings.json) |
@@ -3749,6 +3752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Transmission | 183070 | [183070-no-transmission.json](./183070-no-transmission.json) |
 | No Turning Back: The Pixel Art Action-Adventure Roguelike | 35547 | [35547-no-turning-back-the-pixel-art-action-adventure-roguelike.json](./35547-no-turning-back-the-pixel-art-action-adventure-roguelike.json) |
 | No Umbrellas Allowed | 137436 | [137436-no-umbrellas-allowed.json](./137436-no-umbrellas-allowed.json) |
+| No Vacancy Tonight | 267829 | [267829-no-vacancy-tonight.json](./267829-no-vacancy-tonight.json) |
 | No Vacation for an Executioner | 305539 | [305539-no-vacation-for-an-executioner.json](./305539-no-vacation-for-an-executioner.json) |
 | No Visitors Allowed | 404885 | [404885-no-visitors-allowed.json](./404885-no-visitors-allowed.json) |
 | No Walking, No Problem! | 286574 | [286574-no-walking-no-problem.json](./286574-no-walking-no-problem.json) |
