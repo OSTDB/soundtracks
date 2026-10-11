@@ -693,6 +693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galves Adventure | 230310 | [230310-galves-adventure.json](./230310-galves-adventure.json) |
 | Galxagar | 207320 | [207320-galxagar.json](./207320-galxagar.json) |
 | Gamba Gun | 346248 | [346248-gamba-gun.json](./346248-gamba-gun.json) |
+| Gambari Minoriko: Onee-chan no Shiren | 241259 | [241259-gambari-minoriko-onee-chan-no-shiren.json](./241259-gambari-minoriko-onee-chan-no-shiren.json) |
 | Gambaru Amabie-chan | 206049 | [206049-gambaru-amabie-chan.json](./206049-gambaru-amabie-chan.json) |
 | Gambit | 124622 | [124622-gambit.json](./124622-gambit.json) |
 | Gambit | 328064 | [328064-gambit.json](./328064-gambit.json) |
@@ -1786,6 +1787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genesis Alpha One: Deluxe Edition | 154543 | [154543-genesis-alpha-one-deluxe-edition.json](./154543-genesis-alpha-one-deluxe-edition.json) |
 | Genesis Noir | 27413 | [27413-genesis-noir.json](./27413-genesis-noir.json) |
 | Genesis Noir: The Cosmic Collection | 169188 | [169188-genesis-noir-the-cosmic-collection.json](./169188-genesis-noir-the-cosmic-collection.json) |
+| Genesis of a Small God | 241285 | [241285-genesis-of-a-small-god.json](./241285-genesis-of-a-small-god.json) |
 | Genesis of Descent | 256858 | [256858-genesis-of-descent.json](./256858-genesis-of-descent.json) |
 | Genesis Online | 34281 | [34281-genesis-online.json](./34281-genesis-online.json) |
 | Genesis Relic: Idle Sandbox Simulator | 374396 | [374396-genesis-relic-idle-sandbox-simulator.json](./374396-genesis-relic-idle-sandbox-simulator.json) |
@@ -1808,6 +1810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genghis Khan II: Clan of the Gray Wolf | 5389 | [5389-genghis-khan-ii-clan-of-the-gray-wolf.json](./5389-genghis-khan-ii-clan-of-the-gray-wolf.json) |
 | Genghis Khan: Aoki Ookami to Shiroki Mejika IV | 98270 | [98270-genghis-khan-aoki-ookami-to-shiroki-mejika-iv.json](./98270-genghis-khan-aoki-ookami-to-shiroki-mejika-iv.json) |
 | Gengu Survival | 319153 | [319153-gengu-survival.json](./319153-gengu-survival.json) |
+| Genie | 241284 | [241284-genie.json](./241284-genie.json) |
 | Genie Gym | 272370 | [272370-genie-gym.json](./272370-genie-gym.json) |
 | Genie in a Bottle | 120237 | [120237-genie-in-a-bottle.json](./120237-genie-in-a-bottle.json) |
 | Genie Reprise | 282145 | [282145-genie-reprise.json](./282145-genie-reprise.json) |
@@ -2843,6 +2846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girls Life: Beauty Experience | 68072 | [68072-girls-life-beauty-experience.json](./68072-girls-life-beauty-experience.json) |
 | Girls Life: Sleepover Party | 50592 | [50592-girls-life-sleepover-party.json](./50592-girls-life-sleepover-party.json) |
 | Girls Life: Strass & Diamonds | 68073 | [68073-girls-life-strass-and-diamonds.json](./68073-girls-life-strass-and-diamonds.json) |
+| Girls Love Toys | 241286 | [241286-girls-love-toys.json](./241286-girls-love-toys.json) |
 | Girls of DOA Blackjack: The Kasumi Version | 1394 | [1394-girls-of-doa-blackjack-the-kasumi-version.json](./1394-girls-of-doa-blackjack-the-kasumi-version.json) |
 | Girls of the Tower | 279532 | [279532-girls-of-the-tower.json](./279532-girls-of-the-tower.json) |
 | Girls of The Tower: Journey To Chaos | 305772 | [305772-girls-of-the-tower-journey-to-chaos.json](./305772-girls-of-the-tower-journey-to-chaos.json) |
@@ -6925,6 +6929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunstars | 209467 | [209467-gunstars.json](./209467-gunstars.json) |
 | Gunstoppable | 347106 | [347106-gunstoppable.json](./347106-gunstoppable.json) |
 | Gunstringer: Dead Man Running | 63918 | [63918-gunstringer-dead-man-running.json](./63918-gunstringer-dead-man-running.json) |
+| GunSuit Guardians | 241291 | [241291-gunsuit-guardians.json](./241291-gunsuit-guardians.json) |
 | Gunswitch | 306373 | [306373-gunswitch.json](./306373-gunswitch.json) |
 | Guntastic | 113024 | [113024-guntastic.json](./113024-guntastic.json) |
 | Gunter Abstrauer | 322771 | [322771-gunter-abstrauer.json](./322771-gunter-abstrauer.json) |
