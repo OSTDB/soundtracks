@@ -1783,6 +1783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hawked: Ruby Raider Pack | 278667 | [278667-hawked-ruby-raider-pack.json](./278667-hawked-ruby-raider-pack.json) |
 | Hawken Reborn | 249704 | [249704-hawken-reborn.json](./249704-hawken-reborn.json) |
 | Hawken Skate Boarder | 321781 | [321781-hawken-skate-boarder.json](./321781-hawken-skate-boarder.json) |
+| Hawkins Invasion | 245186 | [245186-hawkins-invasion.json](./245186-hawkins-invasion.json) |
 | Hawkquest | 77373 | [77373-hawkquest.json](./77373-hawkquest.json) |
 | Hawks of Bruyland | 329961 | [329961-hawks-of-bruyland.json](./329961-hawks-of-bruyland.json) |
 | Hawks Tactical | 30095 | [30095-hawks-tactical.json](./30095-hawks-tactical.json) |
@@ -5668,6 +5669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Home Defender | 158635 | [158635-home-defender.json](./158635-home-defender.json) |
 | Home Defender | 278538 | [278538-home-defender.json](./278538-home-defender.json) |
 | Home Design 3D | 34050 | [34050-home-design-3d.json](./34050-home-design-3d.json) |
+| Home Design Makeover | 245203 | [245203-home-design-makeover.json](./245203-home-design-makeover.json) |
 | Home Design Makeover! | 90416 | [90416-home-design-makeover.json](./90416-home-design-makeover.json) |
 | Home Designer Makeover Blast: Halloween | 271926 | [271926-home-designer-makeover-blast-halloween.json](./271926-home-designer-makeover-blast-halloween.json) |
 | Home Designer Makeover Blast: Jason's Industrial Loft | 255068 | [255068-home-designer-makeover-blast-jasons-industrial-loft.json](./255068-home-designer-makeover-blast-jasons-industrial-loft.json) |
@@ -6141,6 +6143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hopper | 144374 | [144374-hopper.json](./144374-hopper.json) |
 | Hopper (bounce bounce bounce) | 98794 | [98794-hopper-bounce-bounce-bounce.json](./98794-hopper-bounce-bounce-bounce.json) |
 | Hopper Cat | 234596 | [234596-hopper-cat.json](./234596-hopper-cat.json) |
+| Hopper Hunt | 245200 | [245200-hopper-hunt.json](./245200-hopper-hunt.json) |
 | Hoppin | 235765 | [235765-hoppin.json](./235765-hoppin.json) |
 | Hopping Bunny | 287169 | [287169-hopping-bunny.json](./287169-hopping-bunny.json) |
 | Hopping Girl Kohane EX | 234734 | [234734-hopping-girl-kohane-ex.json](./234734-hopping-girl-kohane-ex.json) |
