@@ -109,6 +109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kagerou | 181658 | [181658-kagerou.json](./181658-kagerou.json) |
 | Kagerou Labyrinth | 338819 | [338819-kagerou-labyrinth.json](./338819-kagerou-labyrinth.json) |
 | Kagi wo Kakushita Kago no Tori: Bird in Cage Hiding the Key | 260120 | [260120-kagi-wo-kakushita-kago-no-tori-bird-in-cage-hiding-the-key.json](./260120-kagi-wo-kakushita-kago-no-tori-bird-in-cage-hiding-the-key.json) |
+| Kagidoko: A Deep Learning Horror Game | 275514 | [275514-kagidoko-a-deep-learning-horror-game.json](./275514-kagidoko-a-deep-learning-horror-game.json) |
 | Kagikko Adventure | 184457 | [184457-kagikko-adventure.json](./184457-kagikko-adventure.json) |
 | Kagirinaki Tatakai | 64397 | [64397-kagirinaki-tatakai.json](./64397-kagirinaki-tatakai.json) |
 | Kagitori: Bird in Cage Hiding the Key | 260121 | [260121-kagitori-bird-in-cage-hiding-the-key.json](./260121-kagitori-bird-in-cage-hiding-the-key.json) |
@@ -2714,6 +2715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knight and Princess | 170551 | [170551-knight-and-princess.json](./170551-knight-and-princess.json) |
 | Knight Arms: The Hyblid Framer | 62594 | [62594-knight-arms-the-hyblid-framer.json](./62594-knight-arms-the-hyblid-framer.json) |
 | Knight Bewitched | 97079 | [97079-knight-bewitched.json](./97079-knight-bewitched.json) |
+| Knight Case Files | 275522 | [275522-knight-case-files.json](./275522-knight-case-files.json) |
 | Knight Cats: Leaves on the Road | 260879 | [260879-knight-cats-leaves-on-the-road.json](./260879-knight-cats-leaves-on-the-road.json) |
 | Knight Cats: Waves on the Water - Collector's Edition | 337276 | [337276-knight-cats-waves-on-the-water-collectors-edition.json](./337276-knight-cats-waves-on-the-water-collectors-edition.json) |
 | Knight Cats: Whisper of the Universe | 337275 | [337275-knight-cats-whisper-of-the-universe.json](./337275-knight-cats-whisper-of-the-universe.json) |
