@@ -1843,6 +1843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emergency Call: The Attack Squad | 278494 | [278494-emergency-call-the-attack-squad.json](./278494-emergency-call-the-attack-squad.json) |
 | Emergency Call: The Firefighting Simulation 3 | 361828 | [361828-emergency-call-the-firefighting-simulation-3.json](./361828-emergency-call-the-firefighting-simulation-3.json) |
 | Emergency Crew 2: Global Warming | 235894 | [235894-emergency-crew-2-global-warming.json](./235894-emergency-crew-2-global-warming.json) |
+| Emergency Crew 3: Perfect Getaway - Collector's Edition | 256732 | [256732-emergency-crew-3-perfect-getaway-collectors-edition.json](./256732-emergency-crew-3-perfect-getaway-collectors-edition.json) |
 | Emergency Crew 4: Call of the Ancestors | 360663 | [360663-emergency-crew-4-call-of-the-ancestors.json](./360663-emergency-crew-4-call-of-the-ancestors.json) |
 | Emergency Exit | 329160 | [329160-emergency-exit.json](./329160-emergency-exit.json) |
 | Emergency Fire Helicopter Simulator 3D | 108451 | [108451-emergency-fire-helicopter-simulator-3d.json](./108451-emergency-fire-helicopter-simulator-3d.json) |
@@ -4728,6 +4729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exoprimal: Barrage - Volcano | 332615 | [332615-exoprimal-barrage-volcano.json](./332615-exoprimal-barrage-volcano.json) |
 | Exoprimal: Barrage Splash! Set | 256550 | [256550-exoprimal-barrage-splash-set.json](./256550-exoprimal-barrage-splash-set.json) |
 | Exoprimal: Deadeye QB-W Set | 256547 | [256547-exoprimal-deadeye-qb-w-set.json](./256547-exoprimal-deadeye-qb-w-set.json) |
+| Exoprimal: Deluxe Edition | 256742 | [256742-exoprimal-deluxe-edition.json](./256742-exoprimal-deluxe-edition.json) |
 | Exoprimal: Egret (Skywave) | 409072 | [409072-exoprimal-egret-skywave.json](./409072-exoprimal-egret-skywave.json) |
 | Exoprimal: Famitsu Decal | 409073 | [409073-exoprimal-famitsu-decal.json](./409073-exoprimal-famitsu-decal.json) |
 | Exoprimal: Krieger - Patrol Car | 332616 | [332616-exoprimal-krieger-patrol-car.json](./332616-exoprimal-krieger-patrol-car.json) |
@@ -4769,6 +4771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exotic | 186847 | [186847-exotic.json](./186847-exotic.json) |
 | Exotic Kosmos | 258971 | [258971-exotic-kosmos.json](./258971-exotic-kosmos.json) |
 | Exotic Matter | 75107 | [75107-exotic-matter.json](./75107-exotic-matter.json) |
+| Exotic Traffic Racer: FastLane | 256738 | [256738-exotic-traffic-racer-fastlane.json](./256738-exotic-traffic-racer-fastlane.json) |
 | Exotica 2: Pet Shop Simulator | 285680 | [285680-exotica-2-pet-shop-simulator.json](./285680-exotica-2-pet-shop-simulator.json) |
 | Exotica: Petshop Simulator | 215795 | [215795-exotica-petshop-simulator.json](./215795-exotica-petshop-simulator.json) |
 | Exotium: Episode 8 | 148680 | [148680-exotium-episode-8.json](./148680-exotium-episode-8.json) |
