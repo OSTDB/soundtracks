@@ -1684,6 +1684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jordan vs. Bird: One on One | 361783 | [361783-jordan-vs-bird-one-on-one.json](./361783-jordan-vs-bird-one-on-one.json) |
 | Jordi & Oslo: The Lost Tail | 303593 | [303593-jordi-and-oslo-the-lost-tail.json](./303593-jordi-and-oslo-the-lost-tail.json) |
 | Jorel's Brother and the Most Important Game of the Galaxy | 207334 | [207334-jorels-brother-and-the-most-important-game-of-the-galaxy.json](./207334-jorels-brother-and-the-most-important-game-of-the-galaxy.json) |
+| Jorel's Brother and the Most Important Game of the Galaxy: Chapter 1 - Take Control | 253296 | [253296-jorels-brother-and-the-most-important-game-of-the-galaxy-chapter-1-take-control.json](./253296-jorels-brother-and-the-most-important-game-of-the-galaxy-chapter-1-take-control.json) |
 | Jorel's Brother and the Most Important Game of the Galaxy: Chapter 2 - The Lustrous of the Universe | 253311 | [253311-jorels-brother-and-the-most-important-game-of-the-galaxy-chapter-2-the-lustrous-of-the-universe.json](./253311-jorels-brother-and-the-most-important-game-of-the-galaxy-chapter-2-the-lustrous-of-the-universe.json) |
 | Jorel's Brother and the Most Important Game of the Galaxy: Chapter 3 - The Final Rave | 253316 | [253316-jorels-brother-and-the-most-important-game-of-the-galaxy-chapter-3-the-final-rave.json](./253316-jorels-brother-and-the-most-important-game-of-the-galaxy-chapter-3-the-final-rave.json) |
 | Jorji and Impossible Forest | 104817 | [104817-jorji-and-impossible-forest.json](./104817-jorji-and-impossible-forest.json) |
@@ -1922,6 +1923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Juggler | 195044 | [195044-juggler.json](./195044-juggler.json) |
 | Juggles' Butterfly | 72105 | [72105-juggles-butterfly.json](./72105-juggles-butterfly.json) |
 | Juggling | 340778 | [340778-juggling.json](./340778-juggling.json) |
+| Juggling BBQ HD | 253260 | [253260-juggling-bbq-hd.json](./253260-juggling-bbq-hd.json) |
 | Juggling Jolt | 415883 | [415883-juggling-jolt.json](./415883-juggling-jolt.json) |
 | Juggling Seal | 385711 | [385711-juggling-seal.json](./385711-juggling-seal.json) |
 | Juggly | 113608 | [113608-juggly.json](./113608-juggly.json) |
