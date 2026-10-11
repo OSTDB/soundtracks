@@ -1585,6 +1585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virche Evermore: ErroR:salvation | 147480 | [147480-virche-evermore-error-salvation.json](./147480-virche-evermore-error-salvation.json) |
 | Vircoban | 322276 | [322276-vircoban.json](./322276-vircoban.json) |
 | Virgin Atlantic Challenge | 142439 | [142439-virgin-atlantic-challenge.json](./142439-virgin-atlantic-challenge.json) |
+| Virgo and the Sparklings Game | 249662 | [249662-virgo-and-the-sparklings-game.json](./249662-virgo-and-the-sparklings-game.json) |
 | Viriax | 92481 | [92481-viriax.json](./92481-viriax.json) |
 | Viricide | 242779 | [242779-viricide.json](./242779-viricide.json) |
 | Viridi | 35099 | [35099-viridi.json](./35099-viridi.json) |
@@ -2479,6 +2480,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR New York Story | 369756 | [369756-vr-new-york-story.json](./369756-vr-new-york-story.json) |
 | VR Ninja Dojo | 316410 | [316410-vr-ninja-dojo.json](./316410-vr-ninja-dojo.json) |
 | VR Paper Airplane Hunting | 163805 | [163805-vr-paper-airplane-hunting.json](./163805-vr-paper-airplane-hunting.json) |
+| VR Party Pack | 249673 | [249673-vr-party-pack.json](./249673-vr-party-pack.json) |
+| VR Party Pack | 249675 | [249675-vr-party-pack.json](./249675-vr-party-pack.json) |
 | VR Pianist | 152878 | [152878-vr-pianist.json](./152878-vr-pianist.json) |
 | VR Ping Pong | 21602 | [21602-vr-ping-pong.json](./21602-vr-ping-pong.json) |
 | VR Ping Pong Pro | 120470 | [120470-vr-ping-pong-pro.json](./120470-vr-ping-pong-pro.json) |
