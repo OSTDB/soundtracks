@@ -34,6 +34,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | M.Duck | 197797 | [197797-m-duck.json](./197797-m-duck.json) |
 | M.E.C.H.A.: Memory Erasure Control of Hover Attractor | 348770 | [348770-m-e-c-h-a-memory-erasure-control-of-hover-attractor.json](./348770-m-e-c-h-a-memory-erasure-control-of-hover-attractor.json) |
 | M.E.R.C. | 26540 | [26540-m-e-r-c.json](./26540-m-e-r-c.json) |
+| M.E.R.C. Genesis | 260031 | [260031-m-e-r-c-genesis.json](./260031-m-e-r-c-genesis.json) |
 | M.E.S.S. | 313264 | [313264-m-e-s-s.json](./313264-m-e-s-s.json) |
 | M.exe | 32238 | [32238-m-exe.json](./32238-m-exe.json) |
 | M.I.A | 75044 | [75044-m-i-a.json](./75044-m-i-a.json) |
@@ -3657,6 +3658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mato Anomalies | 212050 | [212050-mato-anomalies.json](./212050-mato-anomalies.json) |
 | Mato Anomalies: Day One Edition | 228732 | [228732-mato-anomalies-day-one-edition.json](./228732-mato-anomalies-day-one-edition.json) |
 | Mato Anomalies: Digital Deluxe Edition | 241414 | [241414-mato-anomalies-digital-deluxe-edition.json](./241414-mato-anomalies-digital-deluxe-edition.json) |
+| Mato Anomalies: Digital Shadows | 260030 | [260030-mato-anomalies-digital-shadows.json](./260030-mato-anomalies-digital-shadows.json) |
 | Matolek the Goat the Inventor | 334659 | [334659-matolek-the-goat-the-inventor.json](./334659-matolek-the-goat-the-inventor.json) |
 | Matolek the Goat's School | 334651 | [334651-matolek-the-goats-school.json](./334651-matolek-the-goats-school.json) |
 | Matou no Houkai: The Hero of Babel | 64352 | [64352-matou-no-houkai-the-hero-of-babel.json](./64352-matou-no-houkai-the-hero-of-babel.json) |
@@ -4604,6 +4606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Carrier Simulator | 392170 | [392170-mega-carrier-simulator.json](./392170-mega-carrier-simulator.json) |
 | Mega Cat Studios Collection 1 | 130688 | [130688-mega-cat-studios-collection-1.json](./130688-mega-cat-studios-collection-1.json) |
 | Mega City Force | 238767 | [238767-mega-city-force.json](./238767-mega-city-force.json) |
+| Mega City Police: Digital Collector's Edition | 260024 | [260024-mega-city-police-digital-collectors-edition.json](./260024-mega-city-police-digital-collectors-edition.json) |
 | Mega City Void | 190105 | [190105-mega-city-void.json](./190105-mega-city-void.json) |
 | Mega Collection: 8 Amazing Games | 399785 | [399785-mega-collection-8-amazing-games.json](./399785-mega-collection-8-amazing-games.json) |
 | Mega Collection: 8 Amazing Games - Volume 2 | 409542 | [409542-mega-collection-8-amazing-games-volume-2.json](./409542-mega-collection-8-amazing-games-volume-2.json) |
@@ -5949,6 +5952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mesudoku | 400866 | [400866-mesudoku.json](./400866-mesudoku.json) |
 | Mesuinu Moon | 97510 | [97510-mesuinu-moon.json](./97510-mesuinu-moon.json) |
 | Met Rage | 122970 | [122970-met-rage.json](./122970-met-rage.json) |
+| Meta | 260065 | [260065-meta.json](./260065-meta.json) |
 | Meta Form | 198485 | [198485-meta-form.json](./198485-meta-form.json) |
 | Meta Fox | 39689 | [39689-meta-fox.json](./39689-meta-fox.json) |
 | Meta Knightmare Ultra | 271411 | [271411-meta-knightmare-ultra.json](./271411-meta-knightmare-ultra.json) |
@@ -8756,6 +8760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mixx Island: Remix Plus - GOTY Edition | 284502 | [284502-mixx-island-remix-plus-goty-edition.json](./284502-mixx-island-remix-plus-goty-edition.json) |
 | Mixx Island: Remix Plus - Happy Edition | 287124 | [287124-mixx-island-remix-plus-happy-edition.json](./287124-mixx-island-remix-plus-happy-edition.json) |
 | Mixx Island: Remix Plus - Magnificent Edition | 294830 | [294830-mixx-island-remix-plus-magnificent-edition.json](./294830-mixx-island-remix-plus-magnificent-edition.json) |
+| Mixx Island: Remix Plus - Special Edition | 260048 | [260048-mixx-island-remix-plus-special-edition.json](./260048-mixx-island-remix-plus-special-edition.json) |
 | Mixx Island: Remix Plus - Superb Edition | 298573 | [298573-mixx-island-remix-plus-superb-edition.json](./298573-mixx-island-remix-plus-superb-edition.json) |
 | Mixx Island: Remix Plus - Ultimate Edition | 254677 | [254677-mixx-island-remix-plus-ultimate-edition.json](./254677-mixx-island-remix-plus-ultimate-edition.json) |
 | Mixx Island: Remix Plus - Ultra Definitive | 316274 | [316274-mixx-island-remix-plus-ultra-definitive.json](./316274-mixx-island-remix-plus-ultra-definitive.json) |
