@@ -5320,6 +5320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | An Adventurer's Tale | 112604 | [112604-an-adventurers-tale.json](./112604-an-adventurers-tale.json) |
 | An Afternoon Rippling | 122337 | [122337-an-afternoon-rippling.json](./122337-an-afternoon-rippling.json) |
 | An Agonized Mind | 303158 | [303158-an-agonized-mind.json](./303158-an-agonized-mind.json) |
+| An Aisling | 274386 | [274386-an-aisling.json](./274386-an-aisling.json) |
 | An Alien with a Magnet | 34750 | [34750-an-alien-with-a-magnet.json](./34750-an-alien-with-a-magnet.json) |
 | An Alien with a Magnet HD | 90682 | [90682-an-alien-with-a-magnet-hd.json](./90682-an-alien-with-a-magnet-hd.json) |
 | An Alien's Work is Never Done | 316715 | [316715-an-aliens-work-is-never-done.json](./316715-an-aliens-work-is-never-done.json) |
