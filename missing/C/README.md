@@ -6165,6 +6165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clever Girl | 184639 | [184639-clever-girl.json](./184639-clever-girl.json) |
 | Clever Kids: Creepy Crawlies | 268113 | [268113-clever-kids-creepy-crawlies.json](./268113-clever-kids-creepy-crawlies.json) |
 | Clever Kids: Pirates | 122904 | [122904-clever-kids-pirates.json](./122904-clever-kids-pirates.json) |
+| CleverMonkey | 253265 | [253265-clevermonkey.json](./253265-clevermonkey.json) |
 | Cliax Codec | 404970 | [404970-cliax-codec.json](./404970-cliax-codec.json) |
 | Clic the ABC 123 Laptop | 333121 | [333121-clic-the-abc-123-laptop.json](./333121-clic-the-abc-123-laptop.json) |
 | Cliché Adventure | 159712 | [159712-cliche-adventure.json](./159712-cliche-adventure.json) |
@@ -9882,6 +9883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crank & Watch: Octopus | 267964 | [267964-crank-and-watch-octopus.json](./267964-crank-and-watch-octopus.json) |
 | Crank and Shoot!! | 274681 | [274681-crank-and-shoot.json](./274681-crank-and-shoot.json) |
 | Crank Chaos | 418588 | [418588-crank-chaos.json](./418588-crank-chaos.json) |
+| Crank Crawl | 253285 | [253285-crank-crawl.json](./253285-crank-crawl.json) |
 | Crank Defense Force | 299567 | [299567-crank-defense-force.json](./299567-crank-defense-force.json) |
 | Crank It Up! | 305911 | [305911-crank-it-up.json](./305911-crank-it-up.json) |
 | Crank Racing! | 413731 | [413731-crank-racing.json](./413731-crank-racing.json) |
@@ -11261,18 +11263,26 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crusader Kings Complete | 25415 | [25415-crusader-kings-complete.json](./25415-crusader-kings-complete.json) |
 | Crusader Kings II: Charlemagne | 22666 | [22666-crusader-kings-ii-charlemagne.json](./22666-crusader-kings-ii-charlemagne.json) |
 | Crusader Kings II: Conclave | 22669 | [22669-crusader-kings-ii-conclave.json](./22669-crusader-kings-ii-conclave.json) |
+| Crusader Kings II: Conclave Content Pack | 253292 | [253292-crusader-kings-ii-conclave-content-pack.json](./253292-crusader-kings-ii-conclave-content-pack.json) |
+| Crusader Kings II: Customization Pack | 253293 | [253293-crusader-kings-ii-customization-pack.json](./253293-crusader-kings-ii-customization-pack.json) |
+| Crusader Kings II: Dynasty Starter Pack | 253288 | [253288-crusader-kings-ii-dynasty-starter-pack.json](./253288-crusader-kings-ii-dynasty-starter-pack.json) |
+| Crusader Kings II: Europa Universalis IV Converter | 253294 | [253294-crusader-kings-ii-europa-universalis-iv-converter.json](./253294-crusader-kings-ii-europa-universalis-iv-converter.json) |
 | Crusader Kings II: Finno-Ugric Unit Pack | 168339 | [168339-crusader-kings-ii-finno-ugric-unit-pack.json](./168339-crusader-kings-ii-finno-ugric-unit-pack.json) |
 | Crusader Kings II: Holy Fury | 110889 | [110889-crusader-kings-ii-holy-fury.json](./110889-crusader-kings-ii-holy-fury.json) |
 | Crusader Kings II: Horse Lords | 22668 | [22668-crusader-kings-ii-horse-lords.json](./22668-crusader-kings-ii-horse-lords.json) |
+| Crusader Kings II: Imperial Collection | 253290 | [253290-crusader-kings-ii-imperial-collection.json](./253290-crusader-kings-ii-imperial-collection.json) |
 | Crusader Kings II: Legacy of Rome | 22661 | [22661-crusader-kings-ii-legacy-of-rome.json](./22661-crusader-kings-ii-legacy-of-rome.json) |
 | Crusader Kings II: Monks and Mystics | 26426 | [26426-crusader-kings-ii-monks-and-mystics.json](./26426-crusader-kings-ii-monks-and-mystics.json) |
 | Crusader Kings II: Rajas of India | 22665 | [22665-crusader-kings-ii-rajas-of-india.json](./22665-crusader-kings-ii-rajas-of-india.json) |
+| Crusader Kings II: Royal Collection | 253289 | [253289-crusader-kings-ii-royal-collection.json](./253289-crusader-kings-ii-royal-collection.json) |
+| Crusader Kings II: Ruler Designer | 253295 | [253295-crusader-kings-ii-ruler-designer.json](./253295-crusader-kings-ii-ruler-designer.json) |
 | Crusader Kings II: Songs of the RU | 52859 | [52859-crusader-kings-ii-songs-of-the-ru.json](./52859-crusader-kings-ii-songs-of-the-ru.json) |
 | Crusader Kings II: Sons of Abraham | 22664 | [22664-crusader-kings-ii-sons-of-abraham.json](./22664-crusader-kings-ii-sons-of-abraham.json) |
 | Crusader Kings II: Sunset Invasion | 23980 | [23980-crusader-kings-ii-sunset-invasion.json](./23980-crusader-kings-ii-sunset-invasion.json) |
 | Crusader Kings II: Sword of Islam | 22660 | [22660-crusader-kings-ii-sword-of-islam.json](./22660-crusader-kings-ii-sword-of-islam.json) |
 | Crusader Kings II: The Old Gods | 22663 | [22663-crusader-kings-ii-the-old-gods.json](./22663-crusader-kings-ii-the-old-gods.json) |
 | Crusader Kings II: The Reaper's Due Collection | 52858 | [52858-crusader-kings-ii-the-reapers-due-collection.json](./52858-crusader-kings-ii-the-reapers-due-collection.json) |
+| Crusader Kings II: The Reaper's Due Content Pack | 253291 | [253291-crusader-kings-ii-the-reapers-due-content-pack.json](./253291-crusader-kings-ii-the-reapers-due-content-pack.json) |
 | Crusader Kings II: Way of Life | 22667 | [22667-crusader-kings-ii-way-of-life.json](./22667-crusader-kings-ii-way-of-life.json) |
 | Crusader Kings II: Way of Life Collection | 52857 | [52857-crusader-kings-ii-way-of-life-collection.json](./52857-crusader-kings-ii-way-of-life-collection.json) |
 | Crusader Kings III | 124954 | [124954-crusader-kings-iii.json](./124954-crusader-kings-iii.json) |
@@ -12774,6 +12784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyclone Circus: Power Sail Racing | 72112 | [72112-cyclone-circus-power-sail-racing.json](./72112-cyclone-circus-power-sail-racing.json) |
 | Cyclones Playground | 108055 | [108055-cyclones-playground.json](./108055-cyclones-playground.json) |
 | Cyclopean II: The Dreamlands | 369652 | [369652-cyclopean-ii-the-dreamlands.json](./369652-cyclopean-ii-the-dreamlands.json) |
+| Cyclopong | 253251 | [253251-cyclopong.json](./253251-cyclopong.json) |
 | Cyclopvania | 206145 | [206145-cyclopvania.json](./206145-cyclopvania.json) |
 | Cyclothymic | 202244 | [202244-cyclothymic.json](./202244-cyclothymic.json) |
 | Cyco | 204958 | [204958-cyco.json](./204958-cyco.json) |
