@@ -3303,6 +3303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantasy Star Online 2 -Ragol Edition- | 132155 | [132155-phantasy-star-online-2-ragol-edition.json](./132155-phantasy-star-online-2-ragol-edition.json) |
 | Phantasy Star Online 2 New Genesis | 136042 | [136042-phantasy-star-online-2-new-genesis.json](./136042-phantasy-star-online-2-new-genesis.json) |
 | Phantasy Star Online 2 New Genesis: Limited Edition | 146336 | [146336-phantasy-star-online-2-new-genesis-limited-edition.json](./146336-phantasy-star-online-2-new-genesis-limited-edition.json) |
+| Phantasy Star Online 2 New Genesis: Sonic Collab - Suits/C-Space Pack | 252612 | [252612-phantasy-star-online-2-new-genesis-sonic-collab-suits-c-space-pack.json](./252612-phantasy-star-online-2-new-genesis-sonic-collab-suits-c-space-pack.json) |
 | Phantasy Star Online 2 New Genesis: Start Dash Rappy Edition | 164821 | [164821-phantasy-star-online-2-new-genesis-start-dash-rappy-edition.json](./164821-phantasy-star-online-2-new-genesis-start-dash-rappy-edition.json) |
 | Phantasy Star Online 2: Episode 6 - Deluxe Package | 136922 | [136922-phantasy-star-online-2-episode-6-deluxe-package.json](./136922-phantasy-star-online-2-episode-6-deluxe-package.json) |
 | Phantasy Star Online 2: Episode 6 - Deluxe Package Limited Edition | 136795 | [136795-phantasy-star-online-2-episode-6-deluxe-package-limited-edition.json](./136795-phantasy-star-online-2-episode-6-deluxe-package-limited-edition.json) |
@@ -4359,6 +4360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball Breakout | 57322 | [57322-pinball-breakout.json](./57322-pinball-breakout.json) |
 | Pinball Breakout 2 | 112114 | [112114-pinball-breakout-2.json](./112114-pinball-breakout-2.json) |
 | Pinball Breeze | 354432 | [354432-pinball-breeze.json](./354432-pinball-breeze.json) |
+| Pinball by Kotai | 252651 | [252651-pinball-by-kotai.json](./252651-pinball-by-kotai.json) |
 | Pinball Challenge Deluxe | 49361 | [49361-pinball-challenge-deluxe.json](./49361-pinball-challenge-deluxe.json) |
 | Pinball Champ '95 | 266680 | [266680-pinball-champ-95.json](./266680-pinball-champ-95.json) |
 | Pinball Crush | 353810 | [353810-pinball-crush.json](./353810-pinball-crush.json) |
@@ -11248,6 +11250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle by Nikoli S Hashiwokakero | 237357 | [237357-puzzle-by-nikoli-s-hashiwokakero.json](./237357-puzzle-by-nikoli-s-hashiwokakero.json) |
 | Puzzle by Nikoli S Slitherlink | 225545 | [225545-puzzle-by-nikoli-s-slitherlink.json](./225545-puzzle-by-nikoli-s-slitherlink.json) |
 | Puzzle by Nikoli S Sudoku | 219293 | [219293-puzzle-by-nikoli-s-sudoku.json](./219293-puzzle-by-nikoli-s-sudoku.json) |
+| Puzzle by Nikoli S Yajilin | 252622 | [252622-puzzle-by-nikoli-s-yajilin.json](./252622-puzzle-by-nikoli-s-yajilin.json) |
 | Puzzle by Nikoli S: Numberlink | 250392 | [250392-puzzle-by-nikoli-s-numberlink.json](./250392-puzzle-by-nikoli-s-numberlink.json) |
 | Puzzle by Nikoli S: Nurikabe | 231075 | [231075-puzzle-by-nikoli-s-nurikabe.json](./231075-puzzle-by-nikoli-s-nurikabe.json) |
 | Puzzle by Nikoli S: Shikaku | 245913 | [245913-puzzle-by-nikoli-s-shikaku.json](./245913-puzzle-by-nikoli-s-shikaku.json) |
