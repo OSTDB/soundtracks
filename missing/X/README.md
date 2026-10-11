@@ -574,6 +574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xolt | 18085 | [18085-xolt.json](./18085-xolt.json) |
 | Xombee | 150634 | [150634-xombee.json](./150634-xombee.json) |
 | Xombycapyse | 280907 | [280907-xombycapyse.json](./280907-xombycapyse.json) |
+| Xon | 247946 | [247946-xon.json](./247946-xon.json) |
 | Xonix | 261315 | [261315-xonix.json](./261315-xonix.json) |
 | Xonix | 304330 | [304330-xonix.json](./304330-xonix.json) |
 | Xonox Double-Ender: Tomarc the Barbarian & Motocross Racer | 40743 | [40743-xonox-double-ender-tomarc-the-barbarian-and-motocross-racer.json](./40743-xonox-double-ender-tomarc-the-barbarian-and-motocross-racer.json) |
