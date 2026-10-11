@@ -2033,6 +2033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scooby-Doo! & Looney Tunes Cartoon Universe: Adventure | 36326 | [36326-scooby-doo-and-looney-tunes-cartoon-universe-adventure.json](./36326-scooby-doo-and-looney-tunes-cartoon-universe-adventure.json) |
 | Scooby-Doo! & Looney Tunes Cartoon Universe: Arcade | 247599 | [247599-scooby-doo-and-looney-tunes-cartoon-universe-arcade.json](./247599-scooby-doo-and-looney-tunes-cartoon-universe-arcade.json) |
 | Scooby-Doo! 2: Dark Dungeons | 378383 | [378383-scooby-doo-2-dark-dungeons.json](./378383-scooby-doo-2-dark-dungeons.json) |
+| Scooby-Doo! Classic Creep Capers | 249116 | [249116-scooby-doo-classic-creep-capers.json](./249116-scooby-doo-classic-creep-capers.json) |
 | Scooby-Doo! First Frights | 2862 | [2862-scooby-doo-first-frights.json](./2862-scooby-doo-first-frights.json) |
 | Scooby-Doo! Mystery of the Fun Park Phantom | 2857 | [2857-scooby-doo-mystery-of-the-fun-park-phantom.json](./2857-scooby-doo-mystery-of-the-fun-park-phantom.json) |
 | Scooby-Doo! Night of 100 Frights | 2860 | [2860-scooby-doo-night-of-100-frights.json](./2860-scooby-doo-night-of-100-frights.json) |
@@ -4313,6 +4314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow the Hedgehog 2 | 326833 | [326833-shadow-the-hedgehog-2.json](./326833-shadow-the-hedgehog-2.json) |
 | Shadow the Hedgehog in Sonic the Hedgehog | 148165 | [148165-shadow-the-hedgehog-in-sonic-the-hedgehog.json](./148165-shadow-the-hedgehog-in-sonic-the-hedgehog.json) |
 | Shadow the Plumber | 357447 | [357447-shadow-the-plumber.json](./357447-shadow-the-plumber.json) |
+| Shadow Thief | 249115 | [249115-shadow-thief.json](./249115-shadow-thief.json) |
 | Shadow Touched | 294136 | [294136-shadow-touched.json](./294136-shadow-touched.json) |
 | Shadow Tower | 9502 | [9502-shadow-tower.json](./9502-shadow-tower.json) |
 | Shadow Tower: Abyss | 9503 | [9503-shadow-tower-abyss.json](./9503-shadow-tower-abyss.json) |
@@ -17558,6 +17560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Streamer Content: A Simple Mechanic, a Simple Game | 358361 | [358361-streamer-content-a-simple-mechanic-a-simple-game.json](./358361-streamer-content-a-simple-mechanic-a-simple-game.json) |
 | Streamer Daily | 130275 | [130275-streamer-daily.json](./130275-streamer-daily.json) |
 | Streamer Future Wars | 204697 | [204697-streamer-future-wars.json](./204697-streamer-future-wars.json) |
+| Streamer Girl Simulator | 249080 | [249080-streamer-girl-simulator.json](./249080-streamer-girl-simulator.json) |
 | Streamer Life Simulator 2 | 293118 | [293118-streamer-life-simulator-2.json](./293118-streamer-life-simulator-2.json) |
 | Streamer Mini Games Collection | 324508 | [324508-streamer-mini-games-collection.json](./324508-streamer-mini-games-collection.json) |
 | Streamer Party | 384105 | [384105-streamer-party.json](./384105-streamer-party.json) |
