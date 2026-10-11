@@ -1887,6 +1887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adore Picture Difference: Long Distance Love Lite | 88560 | [88560-adore-picture-difference-long-distance-love-lite.json](./88560-adore-picture-difference-long-distance-love-lite.json) |
 | Adore Puzzle | 99711 | [99711-adore-puzzle.json](./99711-adore-puzzle.json) |
 | Adore Puzzle 2 | 99712 | [99712-adore-puzzle-2.json](./99712-adore-puzzle-2.json) |
+| Adorimon: Adventure of Monster | 245341 | [245341-adorimon-adventure-of-monster.json](./245341-adorimon-adventure-of-monster.json) |
 | Adorimon: Arena of Ancients | 283891 | [283891-adorimon-arena-of-ancients.json](./283891-adorimon-arena-of-ancients.json) |
 | Adoventoro Tcheco | 321779 | [321779-adoventoro-tcheco.json](./321779-adoventoro-tcheco.json) |
 | Adr1ft | 8654 | [8654-adr1ft.json](./8654-adr1ft.json) |
@@ -6537,6 +6538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Another Day? | 409695 | [409695-another-day.json](./409695-another-day.json) |
 | Another Dimension | 231427 | [231427-another-dimension.json](./231427-another-dimension.json) |
 | Another Door | 284403 | [284403-another-door.json](./284403-another-door.json) |
+| Another Dungeon | 245210 | [245210-another-dungeon.json](./245210-another-dungeon.json) |
 | Another Dungeon Game | 217274 | [217274-another-dungeon-game.json](./217274-another-dungeon-game.json) |
 | Another Earth | 276852 | [276852-another-earth.json](./276852-another-earth.json) |
 | Another Eye | 151613 | [151613-another-eye.json](./151613-another-eye.json) |
@@ -10894,6 +10896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avoid | 177406 | [177406-avoid.json](./177406-avoid.json) |
 | Avoid Ahoge | 179606 | [179606-avoid-ahoge.json](./179606-avoid-ahoge.json) |
 | Avoid It! | 241420 | [241420-avoid-it.json](./241420-avoid-it.json) |
+| Avoid Korean Memes | 245207 | [245207-avoid-korean-memes.json](./245207-avoid-korean-memes.json) |
 | Avoid the Awful Thing that Vaguely Resembles a Banana!! | 69312 | [69312-avoid-the-awful-thing-that-vaguely-resembles-a-banana.json](./69312-avoid-the-awful-thing-that-vaguely-resembles-a-banana.json) |
 | Avoid the Monsters | 54450 | [54450-avoid-the-monsters.json](./54450-avoid-the-monsters.json) |
 | Avoid the Noid | 14445 | [14445-avoid-the-noid.json](./14445-avoid-the-noid.json) |
