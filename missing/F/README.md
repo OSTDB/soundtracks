@@ -3937,6 +3937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | First Love / Late Spring | 204493 | [204493-first-love-late-spring.json](./204493-first-love-late-spring.json) |
 | First Made Break Rock | 395542 | [395542-first-made-break-rock.json](./395542-first-made-break-rock.json) |
 | First Odium | 236010 | [236010-first-odium.json](./236010-first-odium.json) |
+| First Page of Love | 254955 | [254955-first-page-of-love.json](./254955-first-page-of-love.json) |
 | First Person Hooper | 237329 | [237329-first-person-hooper.json](./237329-first-person-hooper.json) |
 | First Person Lover | 238606 | [238606-first-person-lover.json](./238606-first-person-lover.json) |
 | First Person Shooter | 368688 | [368688-first-person-shooter.json](./368688-first-person-shooter.json) |
@@ -4566,6 +4567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flappy Bird: The Bird Game | 108615 | [108615-flappy-bird-the-bird-game.json](./108615-flappy-bird-the-bird-game.json) |
 | Flappy Birds 2 | 268501 | [268501-flappy-birds-2.json](./268501-flappy-birds-2.json) |
 | Flappy Box | 285478 | [285478-flappy-box.json](./285478-flappy-box.json) |
+| Flappy Brolly | 255008 | [255008-flappy-brolly.json](./255008-flappy-brolly.json) |
 | Flappy Camel | 283767 | [283767-flappy-camel.json](./283767-flappy-camel.json) |
 | Flappy Cato | 413158 | [413158-flappy-cato.json](./413158-flappy-cato.json) |
 | Flappy Coq | 376044 | [376044-flappy-coq.json](./376044-flappy-coq.json) |
@@ -6497,6 +6499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortnite: The Last Laugh Bundle | 139889 | [139889-fortnite-the-last-laugh-bundle.json](./139889-fortnite-the-last-laugh-bundle.json) |
 | Fortnite: The Wavebreaker Pack | 322257 | [322257-fortnite-the-wavebreaker-pack.json](./322257-fortnite-the-wavebreaker-pack.json) |
 | Fortnite: Transformers Pack | 255268 | [255268-fortnite-transformers-pack.json](./255268-fortnite-transformers-pack.json) |
+| Fortnite: Triarch Nox Crew Pack | 254985 | [254985-fortnite-triarch-nox-crew-pack.json](./254985-fortnite-triarch-nox-crew-pack.json) |
 | Fortnite: Voidlander Pack | 254665 | [254665-fortnite-voidlander-pack.json](./254665-fortnite-voidlander-pack.json) |
 | Fortnite: Yellowjacket Pack | 360189 | [360189-fortnite-yellowjacket-pack.json](./360189-fortnite-yellowjacket-pack.json) |
 | FortOfTheNight | 105341 | [105341-fortofthenight.json](./105341-fortofthenight.json) |
@@ -7457,6 +7460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Friendship Club | 36147 | [36147-friendship-club.json](./36147-friendship-club.json) |
 | Friendship Simulator | 359358 | [359358-friendship-simulator.json](./359358-friendship-simulator.json) |
 | Friendship vs The World | 402942 | [402942-friendship-vs-the-world.json](./402942-friendship-vs-the-world.json) |
+| Friendship21s | 254961 | [254961-friendship21s.json](./254961-friendship21s.json) |
 | Friendsim 2 | 190164 | [190164-friendsim-2.json](./190164-friendsim-2.json) |
 | Friendsmob | 391590 | [391590-friendsmob.json](./391590-friendsmob.json) |
 | Friendzone | 284427 | [284427-friendzone.json](./284427-friendzone.json) |
