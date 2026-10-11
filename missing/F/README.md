@@ -1787,6 +1787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fashion Police Squad | 140801 | [140801-fashion-police-squad.json](./140801-fashion-police-squad.json) |
 | Fashion Princess | 215118 | [215118-fashion-princess.json](./215118-fashion-princess.json) |
 | Fashion Princess: Silver Edition | 317256 | [317256-fashion-princess-silver-edition.json](./317256-fashion-princess-silver-edition.json) |
+| Fashion Princess: Super Edition | 273324 | [273324-fashion-princess-super-edition.json](./273324-fashion-princess-super-edition.json) |
 | Fashion Princess: Super Version | 328819 | [328819-fashion-princess-super-version.json](./328819-fashion-princess-super-version.json) |
 | Fashion Princess: Ultimate Edition | 268555 | [268555-fashion-princess-ultimate-edition.json](./268555-fashion-princess-ultimate-edition.json) |
 | Fashion Season | 176895 | [176895-fashion-season.json](./176895-fashion-season.json) |
@@ -5599,6 +5600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foosball Runner | 318195 | [318195-foosball-runner.json](./318195-foosball-runner.json) |
 | Foot Blobbers | 176346 | [176346-foot-blobbers.json](./176346-foot-blobbers.json) |
 | Foot Clinic | 268470 | [268470-foot-clinic.json](./268470-foot-clinic.json) |
+| Foot Clinic: Complete Edition | 273323 | [273323-foot-clinic-complete-edition.json](./273323-foot-clinic-complete-edition.json) |
 | Foot Clinic: Smelly Edition | 304785 | [304785-foot-clinic-smelly-edition.json](./304785-foot-clinic-smelly-edition.json) |
 | Foot Fashion Simulator | 258983 | [258983-foot-fashion-simulator.json](./258983-foot-fashion-simulator.json) |
 | Foot Massage | 288909 | [288909-foot-massage.json](./288909-foot-massage.json) |
@@ -5757,6 +5759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | For a Vast Future: Legendary Edition | 288287 | [288287-for-a-vast-future-legendary-edition.json](./288287-for-a-vast-future-legendary-edition.json) |
 | For a Vast Future: Premium Edition | 283149 | [283149-for-a-vast-future-premium-edition.json](./283149-for-a-vast-future-premium-edition.json) |
 | For a Vast Future: Special Edition | 278643 | [278643-for-a-vast-future-special-edition.json](./278643-for-a-vast-future-special-edition.json) |
+| For a Vast Future: Ultimate Edition | 273322 | [273322-for-a-vast-future-ultimate-edition.json](./273322-for-a-vast-future-ultimate-edition.json) |
 | For All the People I Love | 336894 | [336894-for-all-the-people-i-love.json](./336894-for-all-the-people-i-love.json) |
 | For Amerta | 220572 | [220572-for-amerta.json](./220572-for-amerta.json) |
 | For Double | 255155 | [255155-for-double.json](./255155-for-double.json) |
