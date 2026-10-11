@@ -12045,6 +12045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Worst-Case Scenario Survival Trivia Challenge | 69914 | [69914-the-worst-case-scenario-survival-trivia-challenge.json](./69914-the-worst-case-scenario-survival-trivia-challenge.json) |
 | The Wraith of the Galaxy | 207350 | [207350-the-wraith-of-the-galaxy.json](./207350-the-wraith-of-the-galaxy.json) |
 | The Wranglers | 90186 | [90186-the-wranglers.json](./90186-the-wranglers.json) |
+| The Wrath of Sona | 275622 | [275622-the-wrath-of-sona.json](./275622-the-wrath-of-sona.json) |
 | The Wrath of the Goose King | 286051 | [286051-the-wrath-of-the-goose-king.json](./286051-the-wrath-of-the-goose-king.json) |
 | The Wreck That Should Not Be | 403016 | [403016-the-wreck-that-should-not-be.json](./403016-the-wreck-that-should-not-be.json) |
 | The Wrestling Code | 159104 | [159104-the-wrestling-code.json](./159104-the-wrestling-code.json) |
