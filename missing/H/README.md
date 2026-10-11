@@ -5410,6 +5410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holiday Racer | 144386 | [144386-holiday-racer.json](./144386-holiday-racer.json) |
 | Holiday Simulator : Wacky Sleigh Ride | 30070 | [30070-holiday-simulator-wacky-sleigh-ride.json](./30070-holiday-simulator-wacky-sleigh-ride.json) |
 | Holiday Solitaire Easter | 173070 | [173070-holiday-solitaire-easter.json](./173070-holiday-solitaire-easter.json) |
+| Holiday Tapp Gingerbread Chase | 266141 | [266141-holiday-tapp-gingerbread-chase.json](./266141-holiday-tapp-gingerbread-chase.json) |
 | Holiday Time | 191086 | [191086-holiday-time.json](./191086-holiday-time.json) |
 | Holiday with Gwen | 213485 | [213485-holiday-with-gwen.json](./213485-holiday-with-gwen.json) |
 | Holiday World | 93126 | [93126-holiday-world.json](./93126-holiday-world.json) |
@@ -5999,6 +6000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hop 'N' Stack | 311665 | [311665-hop-n-stack.json](./311665-hop-n-stack.json) |
 | Hop & Seek | 377223 | [377223-hop-and-seek.json](./377223-hop-and-seek.json) |
 | Hop for the Best | 206945 | [206945-hop-for-the-best.json](./206945-hop-for-the-best.json) |
+| Hop Hero: A Leap of Faith | 266146 | [266146-hop-hero-a-leap-of-faith.json](./266146-hop-hero-a-leap-of-faith.json) |
 | Hop Hop Hop | 348950 | [348950-hop-hop-hop.json](./348950-hop-hop-hop.json) |
 | Hop Hop Miner | 181707 | [181707-hop-hop-miner.json](./181707-hop-hop-miner.json) |
 | Hop Hop! Donut | 404370 | [404370-hop-hop-donut.json](./404370-hop-hop-donut.json) |
@@ -6340,6 +6342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoshi de Hakken!! Tamagotchi | 77630 | [77630-hoshi-de-hakken-tamagotchi.json](./77630-hoshi-de-hakken-tamagotchi.json) |
 | Hoshi no Furu Oka | 316951 | [316951-hoshi-no-furu-oka.json](./316951-hoshi-no-furu-oka.json) |
 | Hoshi no Kakera no Monogatari. Shikake-ban | 220328 | [220328-hoshi-no-kakera-no-monogatari-shikake-ban.json](./220328-hoshi-no-kakera-no-monogatari-shikake-ban.json) |
+| Hoshi no Kakera Satsuji-jiken | 266163 | [266163-hoshi-no-kakera-satsuji-jiken.json](./266163-hoshi-no-kakera-satsuji-jiken.json) |
 | Hoshi no Mahoroba | 204481 | [204481-hoshi-no-mahoroba.json](./204481-hoshi-no-mahoroba.json) |
 | Hoshi no Natchan | 285452 | [285452-hoshi-no-natchan.json](./285452-hoshi-no-natchan.json) |
 | Hoshi no Ouji-sama | 368555 | [368555-hoshi-no-ouji-sama.json](./368555-hoshi-no-ouji-sama.json) |
