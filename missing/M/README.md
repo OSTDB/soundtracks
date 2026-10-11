@@ -5111,6 +5111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Megaplex Manager | 102116 | [102116-megaplex-manager.json](./102116-megaplex-manager.json) |
 | Megapolis | 196320 | [196320-megapolis.json](./196320-megapolis.json) |
 | Megaquarium | 28072 | [28072-megaquarium.json](./28072-megaquarium.json) |
+| Megaquarium: Deep Freeze | 267834 | [267834-megaquarium-deep-freeze.json](./267834-megaquarium-deep-freeze.json) |
 | Megaquarium: Invertebrilliant Collection | 392780 | [392780-megaquarium-invertebrilliant-collection.json](./392780-megaquarium-invertebrilliant-collection.json) |
 | MegaRace | 4283 | [4283-megarace.json](./4283-megarace.json) |
 | MegaRace 3 | 46634 | [46634-megarace-3.json](./46634-megarace-3.json) |
@@ -5939,7 +5940,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meta Star | 55514 | [55514-meta-star.json](./55514-meta-star.json) |
 | Meta World: My City | 193861 | [193861-meta-world-my-city.json](./193861-meta-world-my-city.json) |
 | Meta: Assembled | 392795 | [392795-meta-assembled.json](./392795-meta-assembled.json) |
+| Metaball: Diamond Bundle | 267835 | [267835-metaball-diamond-bundle.json](./267835-metaball-diamond-bundle.json) |
 | Metaball: Face Bundle | 310047 | [310047-metaball-face-bundle.json](./310047-metaball-face-bundle.json) |
+| Metaball: Gold Bundle | 267836 | [267836-metaball-gold-bundle.json](./267836-metaball-gold-bundle.json) |
 | Metaball: Guitar Man Pack | 293416 | [293416-metaball-guitar-man-pack.json](./293416-metaball-guitar-man-pack.json) |
 | Metaball: Kung Fu Pack | 293417 | [293417-metaball-kung-fu-pack.json](./293417-metaball-kung-fu-pack.json) |
 | Metaball: Red Astro Pack | 293418 | [293418-metaball-red-astro-pack.json](./293418-metaball-red-astro-pack.json) |
@@ -11582,6 +11585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Runner 2: The Masks | 90204 | [90204-mr-runner-2-the-masks.json](./90204-mr-runner-2-the-masks.json) |
 | Mr. Saitou | 228357 | [228357-mr-saitou.json](./228357-mr-saitou.json) |
 | Mr. Scientist | 295159 | [295159-mr-scientist.json](./295159-mr-scientist.json) |
+| Mr. Semmel | 267838 | [267838-mr-semmel.json](./267838-mr-semmel.json) |
 | Mr. Setam: Lady Killer | 61118 | [61118-mr-setam-lady-killer.json](./61118-mr-setam-lady-killer.json) |
 | Mr. Shifty | 19729 | [19729-mr-shifty.json](./19729-mr-shifty.json) |
 | Mr. Shifty: Collector's Edition | 53388 | [53388-mr-shifty-collectors-edition.json](./53388-mr-shifty-collectors-edition.json) |
@@ -11822,6 +11826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Multimirror | 31090 | [31090-multimirror.json](./31090-multimirror.json) |
 | Multiplayer Bots | 275848 | [275848-multiplayer-bots.json](./275848-multiplayer-bots.json) |
 | Multiplayer Citizens | 384206 | [384206-multiplayer-citizens.json](./384206-multiplayer-citizens.json) |
+| Multiplayer Drone Simulator | 267839 | [267839-multiplayer-drone-simulator.json](./267839-multiplayer-drone-simulator.json) |
 | Multiplayer Game Maker | 335445 | [335445-multiplayer-game-maker.json](./335445-multiplayer-game-maker.json) |
 | Multiplayer Knights | 235193 | [235193-multiplayer-knights.json](./235193-multiplayer-knights.json) |
 | Multiplayer Mercs | 255275 | [255275-multiplayer-mercs.json](./255275-multiplayer-mercs.json) |
