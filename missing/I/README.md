@@ -2985,10 +2985,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Insurgency: Sandstorm - Digital Splatter Weapon Skin Set | 274588 | [274588-insurgency-sandstorm-digital-splatter-weapon-skin-set.json](./274588-insurgency-sandstorm-digital-splatter-weapon-skin-set.json) |
 | Insurgency: Sandstorm - Dusty Weapon Skin Set | 321160 | [321160-insurgency-sandstorm-dusty-weapon-skin-set.json](./321160-insurgency-sandstorm-dusty-weapon-skin-set.json) |
 | Insurgency: Sandstorm - Gold Edition | 169172 | [169172-insurgency-sandstorm-gold-edition.json](./169172-insurgency-sandstorm-gold-edition.json) |
+| Insurgency: Sandstorm - Mountain Nomad Gear Set | 273830 | [273830-insurgency-sandstorm-mountain-nomad-gear-set.json](./273830-insurgency-sandstorm-mountain-nomad-gear-set.json) |
 | Insurgency: Sandstorm - Mountain Tactical Gear Set | 273935 | [273935-insurgency-sandstorm-mountain-tactical-gear-set.json](./273935-insurgency-sandstorm-mountain-tactical-gear-set.json) |
 | Insurgency: Sandstorm - Onslaught Set Bundle | 273934 | [273934-insurgency-sandstorm-onslaught-set-bundle.json](./273934-insurgency-sandstorm-onslaught-set-bundle.json) |
 | Insurgency: Sandstorm - Protective Gear Set | 321158 | [321158-insurgency-sandstorm-protective-gear-set.json](./321158-insurgency-sandstorm-protective-gear-set.json) |
 | Insurgency: Sandstorm - Wheat Weapon Skin Set | 374763 | [374763-insurgency-sandstorm-wheat-weapon-skin-set.json](./374763-insurgency-sandstorm-wheat-weapon-skin-set.json) |
+| Insurgency: Sandstorm - Woodburn Weapon Skin Set | 273831 | [273831-insurgency-sandstorm-woodburn-weapon-skin-set.json](./273831-insurgency-sandstorm-woodburn-weapon-skin-set.json) |
 | Insurgency: Sandstorm - Year 1 Pass | 293920 | [293920-insurgency-sandstorm-year-1-pass.json](./293920-insurgency-sandstorm-year-1-pass.json) |
 | Insurgency: Sandstorm - Year 1 Pass + Year 2 Pass | 293922 | [293922-insurgency-sandstorm-year-1-pass-year-2-pass.json](./293922-insurgency-sandstorm-year-1-pass-year-2-pass.json) |
 | Insurgency: Sandstorm - Year 1+2+3 Bundle | 273938 | [273938-insurgency-sandstorm-year-1-2-3-bundle.json](./273938-insurgency-sandstorm-year-1-2-3-bundle.json) |
