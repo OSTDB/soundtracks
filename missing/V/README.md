@@ -409,6 +409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vampire Love | 268661 | [268661-vampire-love.json](./268661-vampire-love.json) |
 | Vampire Martina-Bloody Day 228 | 124222 | [124222-vampire-martina-bloody-day-228.json](./124222-vampire-martina-bloody-day-228.json) |
 | Vampire Master | 341047 | [341047-vampire-master.json](./341047-vampire-master.json) |
+| Vampire Memories | 247954 | [247954-vampire-memories.json](./247954-vampire-memories.json) |
 | Vampire Night Shift | 138187 | [138187-vampire-night-shift.json](./138187-vampire-night-shift.json) |
 | Vampire Nights: Horny Secret | 385269 | [385269-vampire-nights-horny-secret.json](./385269-vampire-nights-horny-secret.json) |
 | Vampire on Trial | 394169 | [394169-vampire-on-trial.json](./394169-vampire-on-trial.json) |
