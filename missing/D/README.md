@@ -4961,6 +4961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil's Dungeon | 190051 | [190051-devils-dungeon.json](./190051-devils-dungeon.json) |
 | Devil's Food | 301952 | [301952-devils-food.json](./301952-devils-food.json) |
 | Devil's Gold | 166056 | [166056-devils-gold.json](./166056-devils-gold.json) |
+| Devil's Grip | 257300 | [257300-devils-grip.json](./257300-devils-grip.json) |
 | Devil's Heaven | 277377 | [277377-devils-heaven.json](./277377-devils-heaven.json) |
 | Devil's Hideout | 285016 | [285016-devils-hideout.json](./285016-devils-hideout.json) |
 | Devil's Island | 313102 | [313102-devils-island.json](./313102-devils-island.json) |
@@ -6048,6 +6049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dirt Showdown | 7966 | [7966-dirt-showdown.json](./7966-dirt-showdown.json) |
 | Dirt Track Racing | 73269 | [73269-dirt-track-racing.json](./73269-dirt-track-racing.json) |
 | Dirt Track Racing 2 | 73758 | [73758-dirt-track-racing-2.json](./73758-dirt-track-racing-2.json) |
+| Dirt Track Racing Pinball | 257310 | [257310-dirt-track-racing-pinball.json](./257310-dirt-track-racing-pinball.json) |
 | Dirt Track Racing: Australia | 73507 | [73507-dirt-track-racing-australia.json](./73507-dirt-track-racing-australia.json) |
 | Dirt Trackin Sprint Cars | 88095 | [88095-dirt-trackin-sprint-cars.json](./88095-dirt-trackin-sprint-cars.json) |
 | Dirt Trackin' 3 | 347314 | [347314-dirt-trackin-3.json](./347314-dirt-trackin-3.json) |
@@ -7289,6 +7291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doki Doki No Happiness | 336060 | [336060-doki-doki-no-happiness.json](./336060-doki-doki-no-happiness.json) |
 | Doki Doki Our Final Heartbeat | 333609 | [333609-doki-doki-our-final-heartbeat.json](./333609-doki-doki-our-final-heartbeat.json) |
 | Doki Doki Palace | 210590 | [210590-doki-doki-palace.json](./210590-doki-doki-palace.json) |
+| Doki Doki Pink Eyes | 257283 | [257283-doki-doki-pink-eyes.json](./257283-doki-doki-pink-eyes.json) |
 | Doki Doki Pokémon Club! | 360183 | [360183-doki-doki-pokemon-club.json](./360183-doki-doki-pokemon-club.json) |
 | Doki Doki Ragnarok | 143512 | [143512-doki-doki-ragnarok.json](./143512-doki-doki-ragnarok.json) |
 | Doki Doki Salvation Remake! | 342072 | [342072-doki-doki-salvation-remake.json](./342072-doki-doki-salvation-remake.json) |
@@ -10651,6 +10654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duat: Beyond Light & Shadow | 415919 | [415919-duat-beyond-light-and-shadow.json](./415919-duat-beyond-light-and-shadow.json) |
 | Dub Dash | 19977 | [19977-dub-dash.json](./19977-dub-dash.json) |
 | Dub Together | 413849 | [413849-dub-together.json](./413849-dub-together.json) |
+| Dubai | 257296 | [257296-dubai.json](./257296-dubai.json) |
 | Dubai Builder | 272247 | [272247-dubai-builder.json](./272247-dubai-builder.json) |
 | Dubai Drift 2 | 120236 | [120236-dubai-drift-2.json](./120236-dubai-drift-2.json) |
 | Dubbed | 416687 | [416687-dubbed.json](./416687-dubbed.json) |
