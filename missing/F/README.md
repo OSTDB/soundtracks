@@ -3500,6 +3500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Finding Light | 110390 | [110390-finding-light.json](./110390-finding-light.json) |
 | Finding Mosey | 214158 | [214158-finding-mosey.json](./214158-finding-mosey.json) |
 | Finding Nemo | 210734 | [210734-finding-nemo.json](./210734-finding-nemo.json) |
+| Finding Nemo | 273854 | [273854-finding-nemo.json](./273854-finding-nemo.json) |
 | Finding Nemo: Learning with Nemo | 23777 | [23777-finding-nemo-learning-with-nemo.json](./23777-finding-nemo-learning-with-nemo.json) |
 | Finding Nemo: Nemo's Ocean Discoveries | 85838 | [85838-finding-nemo-nemos-ocean-discoveries.json](./85838-finding-nemo-nemos-ocean-discoveries.json) |
 | Finding Nemo: Nemo's Underwater World of Fun | 18258 | [18258-finding-nemo-nemos-underwater-world-of-fun.json](./18258-finding-nemo-nemos-underwater-world-of-fun.json) |
