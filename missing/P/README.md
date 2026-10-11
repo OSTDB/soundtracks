@@ -1833,6 +1833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Patchmania Kids: A Puzzle About Bunny Revenge! | 104138 | [104138-patchmania-kids-a-puzzle-about-bunny-revenge.json](./104138-patchmania-kids-a-puzzle-about-bunny-revenge.json) |
 | Patchouli: A Little War in Bland-Old Library | 250511 | [250511-patchouli-a-little-war-in-bland-old-library.json](./250511-patchouli-a-little-war-in-bland-old-library.json) |
 | Patchouli's Adventure In Doll's House | 293707 | [293707-patchoulis-adventure-in-dolls-house.json](./293707-patchoulis-adventure-in-dolls-house.json) |
+| Patchwork Beast | 247932 | [247932-patchwork-beast.json](./247932-patchwork-beast.json) |
 | Patchwork Girl | 180242 | [180242-patchwork-girl.json](./180242-patchwork-girl.json) |
 | Patchwork Heroes | 42851 | [42851-patchwork-heroes.json](./42851-patchwork-heroes.json) |
 | Patchworkz!: X-maz! | 185696 | [185696-patchworkz-x-maz.json](./185696-patchworkz-x-maz.json) |
@@ -2785,6 +2786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perfect Dark Zero | 292158 | [292158-perfect-dark-zero.json](./292158-perfect-dark-zero.json) |
 | Perfect Dark Zero: Collector's Edition | 41596 | [41596-perfect-dark-zero-collectors-edition.json](./41596-perfect-dark-zero-collectors-edition.json) |
 | Perfect Decision | 168704 | [168704-perfect-decision.json](./168704-perfect-decision.json) |
+| Perfect Dice | 247933 | [247933-perfect-dice.json](./247933-perfect-dice.json) |
 | Perfect Fit | 243698 | [243698-perfect-fit.json](./243698-perfect-fit.json) |
 | Perfect Fit - Totemland | 31114 | [31114-perfect-fit-totemland.json](./31114-perfect-fit-totemland.json) |
 | Perfect Grind | 200746 | [200746-perfect-grind.json](./200746-perfect-grind.json) |
@@ -9618,6 +9620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Professor Watts Word Search: Yummy Foods | 103468 | [103468-professor-watts-word-search-yummy-foods.json](./103468-professor-watts-word-search-yummy-foods.json) |
 | Professor Watts: Memory Match | 50760 | [50760-professor-watts-memory-match.json](./50760-professor-watts-memory-match.json) |
 | Professora Abelha Aprendendo Figuras Geométricas | 294437 | [294437-professora-abelha-aprendendo-figuras-geometricas.json](./294437-professora-abelha-aprendendo-figuras-geometricas.json) |
+| Profi Girls | 247959 | [247959-profi-girls.json](./247959-profi-girls.json) |
 | Profiler: The Hopscotch Killer - Extended Edition | 262360 | [262360-profiler-the-hopscotch-killer-extended-edition.json](./262360-profiler-the-hopscotch-killer-extended-edition.json) |
 | Profiles of the Forgotten | 123419 | [123419-profiles-of-the-forgotten.json](./123419-profiles-of-the-forgotten.json) |
 | Profitania | 85755 | [85755-profitania.json](./85755-profitania.json) |
@@ -10850,6 +10853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Punchy | 74023 | [74023-punchy.json](./74023-punchy.json) |
 | Pune | 295991 | [295991-pune.json](./295991-pune.json) |
 | Pungo | 355522 | [355522-pungo.json](./355522-pungo.json) |
+| Pungolo: A Prickly Adventure | 247964 | [247964-pungolo-a-prickly-adventure.json](./247964-pungolo-a-prickly-adventure.json) |
 | Puni the Florist | 347831 | [347831-puni-the-florist.json](./347831-puni-the-florist.json) |
 | Puniru ha Kawaii Slime no Game wo "Ano Game" de Tsukuttemita Keredo, Hatashite Anata ha Clear Dekirunoka? | 326577 | [326577-puniru-ha-kawaii-slime-no-game-wo-ano-game-de-tsukuttemita-keredo-hatashite-anata-ha-clear-dekirunoka.json](./326577-puniru-ha-kawaii-slime-no-game-wo-ano-game-de-tsukuttemita-keredo-hatashite-anata-ha-clear-dekirunoka.json) |
 | Punirunes | 370299 | [370299-punirunes.json](./370299-punirunes.json) |
