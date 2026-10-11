@@ -14662,6 +14662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squares | 347300 | [347300-squares.json](./347300-squares.json) |
 | Squares | 59961 | [59961-squares.json](./59961-squares.json) |
 | Squares | 86246 | [86246-squares.json](./86246-squares.json) |
+| Squares & Fruit | 240116 | [240116-squares-and-fruit.json](./240116-squares-and-fruit.json) |
 | Squares and Numbers | 242585 | [242585-squares-and-numbers.json](./242585-squares-and-numbers.json) |
 | Squares and Stuff | 260314 | [260314-squares-and-stuff.json](./260314-squares-and-stuff.json) |
 | Squares of Hell | 304612 | [304612-squares-of-hell.json](./304612-squares-of-hell.json) |
@@ -21817,6 +21818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sushi Claw Machine | 412900 | [412900-sushi-claw-machine.json](./412900-sushi-claw-machine.json) |
 | Sushi Clickers | 343971 | [343971-sushi-clickers.json](./343971-sushi-clickers.json) |
 | Sushi Dojo | 359915 | [359915-sushi-dojo.json](./359915-sushi-dojo.json) |
+| Sushi Drop | 240115 | [240115-sushi-drop.json](./240115-sushi-drop.json) |
 | Sushi for Robots | 177320 | [177320-sushi-for-robots.json](./177320-sushi-for-robots.json) |
 | Sushi Frenzy | 53694 | [53694-sushi-frenzy.json](./53694-sushi-frenzy.json) |
 | Sushi Fun | 219111 | [219111-sushi-fun.json](./219111-sushi-fun.json) |
