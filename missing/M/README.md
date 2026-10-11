@@ -8701,6 +8701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mixx Island: Remix Plus | 244820 | [244820-mixx-island-remix-plus.json](./244820-mixx-island-remix-plus.json) |
 | Mixx Island: Remix Plus - Amazing Edition | 290431 | [290431-mixx-island-remix-plus-amazing-edition.json](./290431-mixx-island-remix-plus-amazing-edition.json) |
 | Mixx Island: Remix Plus - Complete + | 324448 | [324448-mixx-island-remix-plus-complete.json](./324448-mixx-island-remix-plus-complete.json) |
+| Mixx Island: Remix Plus - Complete Edition | 273306 | [273306-mixx-island-remix-plus-complete-edition.json](./273306-mixx-island-remix-plus-complete-edition.json) |
 | Mixx Island: Remix Plus - Definitive Edition | 268550 | [268550-mixx-island-remix-plus-definitive-edition.json](./268550-mixx-island-remix-plus-definitive-edition.json) |
 | Mixx Island: Remix Plus - Deluxe Edition | 248725 | [248725-mixx-island-remix-plus-deluxe-edition.json](./248725-mixx-island-remix-plus-deluxe-edition.json) |
 | Mixx Island: Remix Plus - Director's Cut | 283255 | [283255-mixx-island-remix-plus-directors-cut.json](./283255-mixx-island-remix-plus-directors-cut.json) |
@@ -13543,6 +13544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystical Map | 204939 | [204939-mystical-map.json](./204939-mystical-map.json) |
 | Mystical Mayhem | 156038 | [156038-mystical-mayhem.json](./156038-mystical-mayhem.json) |
 | Mystical Mixing | 224011 | [224011-mystical-mixing.json](./224011-mystical-mixing.json) |
+| Mystical Mixing: Wand and Frog Edition | 273305 | [273305-mystical-mixing-wand-and-frog-edition.json](./273305-mystical-mixing-wand-and-frog-edition.json) |
 | Mystical Mushrooms | 341353 | [341353-mystical-mushrooms.json](./341353-mystical-mushrooms.json) |
 | Mystical Realms Collection | 201854 | [201854-mystical-realms-collection.json](./201854-mystical-realms-collection.json) |
 | Mystical Riddles: Behind Doll's Eyes - Collector's Edition | 215638 | [215638-mystical-riddles-behind-dolls-eyes-collectors-edition.json](./215638-mystical-riddles-behind-dolls-eyes-collectors-edition.json) |
