@@ -4653,6 +4653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flash Flash Revolution | 62802 | [62802-flash-flash-revolution.json](./62802-flash-flash-revolution.json) |
 | Flash Flood | 94405 | [94405-flash-flood.json](./94405-flash-flood.json) |
 | Flash Focus: Vision Training in Minutes a Day | 21912 | [21912-flash-focus-vision-training-in-minutes-a-day.json](./21912-flash-focus-vision-training-in-minutes-a-day.json) |
+| Flash Fright | 245195 | [245195-flash-fright.json](./245195-flash-fright.json) |
 | Flash Gordon | 218420 | [218420-flash-gordon.json](./218420-flash-gordon.json) |
 | Flash Gordon | 22735 | [22735-flash-gordon.json](./22735-flash-gordon.json) |
 | Flash of the Blade X | 282527 | [282527-flash-of-the-blade-x.json](./282527-flash-of-the-blade-x.json) |
@@ -7320,6 +7321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freeze! 2: Brothers | 59476 | [59476-freeze-2-brothers.json](./59476-freeze-2-brothers.json) |
 | Freeze64 Christmas Game | 281530 | [281530-freeze64-christmas-game.json](./281530-freeze64-christmas-game.json) |
 | Freezeer | 103630 | [103630-freezeer.json](./103630-freezeer.json) |
+| Freezer Jams | 245196 | [245196-freezer-jams.json](./245196-freezer-jams.json) |
 | Freezer Pops 2: Little Blo's Party | 346540 | [346540-freezer-pops-2-little-blos-party.json](./346540-freezer-pops-2-little-blos-party.json) |
 | Freezing Knights | 293750 | [293750-freezing-knights.json](./293750-freezing-knights.json) |
 | Freezy Match | 393121 | [393121-freezy-match.json](./393121-freezy-match.json) |
