@@ -2239,6 +2239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Furry Clicker | 170817 | [170817-endless-furry-clicker.json](./170817-endless-furry-clicker.json) |
 | Endless Furry Killer 2020 | 351648 | [351648-endless-furry-killer-2020.json](./351648-endless-furry-killer-2020.json) |
 | Endless Furry Pinball 2D | 351662 | [351662-endless-furry-pinball-2d.json](./351662-endless-furry-pinball-2d.json) |
+| Endless Furry Tower Defense | 275553 | [275553-endless-furry-tower-defense.json](./275553-endless-furry-tower-defense.json) |
 | Endless Glory | 277921 | [277921-endless-glory.json](./277921-endless-glory.json) |
 | Endless Greed | 413670 | [413670-endless-greed.json](./413670-endless-greed.json) |
 | Endless Heck | 149604 | [149604-endless-heck.json](./149604-endless-heck.json) |
@@ -2476,6 +2477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enigmo 2 | 66614 | [66614-enigmo-2.json](./66614-enigmo-2.json) |
 | EnigmOn | 174328 | [174328-enigmon.json](./174328-enigmon.json) |
 | Enigmoon | 261257 | [261257-enigmoon.json](./261257-enigmoon.json) |
+| Enishia and the Binding Brand | 275520 | [275520-enishia-and-the-binding-brand.json](./275520-enishia-and-the-binding-brand.json) |
 | Enjaulados | 361285 | [361285-enjaulados.json](./361285-enjaulados.json) |
 | Enjoy Amoy & Sisters | 404874 | [404874-enjoy-amoy-and-sisters.json](./404874-enjoy-amoy-and-sisters.json) |
 | Enjoy Summer Maximum | 418860 | [418860-enjoy-summer-maximum.json](./418860-enjoy-summer-maximum.json) |
