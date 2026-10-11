@@ -5780,6 +5780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BlackShield: Upora Story | 81066 | [81066-blackshield-upora-story.json](./81066-blackshield-upora-story.json) |
 | Blackshift | 118147 | [118147-blackshift.json](./118147-blackshift.json) |
 | BlackShot | 33760 | [33760-blackshot.json](./33760-blackshot.json) |
+| Blacksite Theta | 272784 | [272784-blacksite-theta.json](./272784-blacksite-theta.json) |
 | BlackSky | 199446 | [199446-blacksky.json](./199446-blacksky.json) |
 | Blacksmith Bay | 150604 | [150604-blacksmith-bay.json](./150604-blacksmith-bay.json) |
 | Blacksmith Forger | 231063 | [231063-blacksmith-forger.json](./231063-blacksmith-forger.json) |
@@ -6519,6 +6520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Sprawl | 406673 | [406673-block-sprawl.json](./406673-block-sprawl.json) |
 | Block Story | 9175 | [9175-block-story.json](./9175-block-story.json) |
 | Block Strike | 28898 | [28898-block-strike.json](./28898-block-strike.json) |
+| Block The Monster | 272783 | [272783-block-the-monster.json](./272783-block-the-monster.json) |
 | Block Tower TD 2 | 309432 | [309432-block-tower-td-2.json](./309432-block-tower-td-2.json) |
 | Block Tricks | 107364 | [107364-block-tricks.json](./107364-block-tricks.json) |
 | Block Trucks Multiplayer Racing | 337655 | [337655-block-trucks-multiplayer-racing.json](./337655-block-trucks-multiplayer-racing.json) |
@@ -9024,6 +9026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brave | 230341 | [230341-brave.json](./230341-brave.json) |
 | Brave | 36312 | [36312-brave.json](./36312-brave.json) |
 | Brave 22 | 263507 | [263507-brave-22.json](./263507-brave-22.json) |
+| Brave and Desire | 272782 | [272782-brave-and-desire.json](./272782-brave-and-desire.json) |
 | Brave and Glory | 309022 | [309022-brave-and-glory.json](./309022-brave-and-glory.json) |
 | Brave Arms | 65527 | [65527-brave-arms.json](./65527-brave-arms.json) |
 | Brave Battle Saga the Space Fighter | 45542 | [45542-brave-battle-saga-the-space-fighter.json](./45542-brave-battle-saga-the-space-fighter.json) |
@@ -9705,6 +9708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broadside | 34450 | [34450-broadside.json](./34450-broadside.json) |
 | Broadside Bets | 401617 | [401617-broadside-bets.json](./401617-broadside-bets.json) |
 | Broadsides | 23988 | [23988-broadsides.json](./23988-broadsides.json) |
+| Broadsword: Warlord Edition | 272779 | [272779-broadsword-warlord-edition.json](./272779-broadsword-warlord-edition.json) |
 | Broadtrip | 316709 | [316709-broadtrip.json](./316709-broadtrip.json) |
 | Broadway Legend Ellena | 252127 | [252127-broadway-legend-ellena.json](./252127-broadway-legend-ellena.json) |
 | Brobot | 159866 | [159866-brobot.json](./159866-brobot.json) |
@@ -10920,6 +10924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burning Skies Arcade: Supporter Pack | 380210 | [380210-burning-skies-arcade-supporter-pack.json](./380210-burning-skies-arcade-supporter-pack.json) |
 | Burning Sky | 336709 | [336709-burning-sky.json](./336709-burning-sky.json) |
 | Burning Steel: Superschiffe im Atlantik | 92067 | [92067-burning-steel-superschiffe-im-atlantik.json](./92067-burning-steel-superschiffe-im-atlantik.json) |
+| Burning Sword: Death Sun | 272780 | [272780-burning-sword-death-sun.json](./272780-burning-sword-death-sun.json) |
 | Burning Tail Banquet | 403789 | [403789-burning-tail-banquet.json](./403789-burning-tail-banquet.json) |
 | Burning Tenshi | 184970 | [184970-burning-tenshi.json](./184970-burning-tenshi.json) |
 | Burning Vengeance | 241520 | [241520-burning-vengeance.json](./241520-burning-vengeance.json) |
