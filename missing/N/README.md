@@ -4524,6 +4524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Novark | 290510 | [290510-novark.json](./290510-novark.json) |
 | Novas Las Aventurietas del Robercleiton o Renascimento do Turbo | 89425 | [89425-novas-las-aventurietas-del-robercleiton-o-renascimento-do-turbo.json](./89425-novas-las-aventurietas-del-robercleiton-o-renascimento-do-turbo.json) |
 | Novastella Island | 221189 | [221189-novastella-island.json](./221189-novastella-island.json) |
+| Novastride | 244688 | [244688-novastride.json](./244688-novastride.json) |
 | Novastrike | 52614 | [52614-novastrike.json](./52614-novastrike.json) |
 | Novath | 347766 | [347766-novath.json](./347766-novath.json) |
 | Novaxandria Volume 01 | 358447 | [358447-novaxandria-volume-01.json](./358447-novaxandria-volume-01.json) |
@@ -4647,6 +4648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nuclear Empire | 203296 | [203296-nuclear-empire.json](./203296-nuclear-empire.json) |
 | Nuclear Engineer Tycoon | 414331 | [414331-nuclear-engineer-tycoon.json](./414331-nuclear-engineer-tycoon.json) |
 | Nuclear Epoch | 370864 | [370864-nuclear-epoch.json](./370864-nuclear-epoch.json) |
+| Nuclear Frost | 244692 | [244692-nuclear-frost.json](./244692-nuclear-frost.json) |
 | Nuclear Gladiators 3000 | 273447 | [273447-nuclear-gladiators-3000.json](./273447-nuclear-gladiators-3000.json) |
 | Nuclear Heist | 30213 | [30213-nuclear-heist.json](./30213-nuclear-heist.json) |
 | Nuclear Inc 2 | 100862 | [100862-nuclear-inc-2.json](./100862-nuclear-inc-2.json) |
