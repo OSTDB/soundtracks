@@ -1550,6 +1550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One more time... From the Top! | 178661 | [178661-one-more-time-from-the-top.json](./178661-one-more-time-from-the-top.json) |
 | One More Trail | 400855 | [400855-one-more-trail.json](./400855-one-more-trail.json) |
 | One More Treasure | 369133 | [369133-one-more-treasure.json](./369133-one-more-treasure.json) |
+| One More Try | 244135 | [244135-one-more-try.json](./244135-one-more-try.json) |
 | One More Wipe! | 389594 | [389594-one-more-wipe.json](./389594-one-more-wipe.json) |
 | One More Wish | 284276 | [284276-one-more-wish.json](./284276-one-more-wish.json) |
 | One more! | 304849 | [304849-one-more.json](./304849-one-more.json) |
