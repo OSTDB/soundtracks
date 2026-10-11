@@ -2558,6 +2558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea of Thieves: 2024 Edition | 335072 | [335072-sea-of-thieves-2024-edition.json](./335072-sea-of-thieves-2024-edition.json) |
 | Sea of Thieves: 2024 Premium Bundle | 297734 | [297734-sea-of-thieves-2024-premium-bundle.json](./297734-sea-of-thieves-2024-premium-bundle.json) |
 | Sea of Thieves: Custom Seas - Season 20 | 405065 | [405065-sea-of-thieves-custom-seas-season-20.json](./405065-sea-of-thieves-custom-seas-season-20.json) |
+| Sea of Thieves: Deluxe Edition | 241859 | [241859-sea-of-thieves-deluxe-edition.json](./241859-sea-of-thieves-deluxe-edition.json) |
 | Sea of Thieves: Reaper's Rule - Season 16 | 354373 | [354373-sea-of-thieves-reapers-rule-season-16.json](./354373-sea-of-thieves-reapers-rule-season-16.json) |
 | Sea of Thieves: Season 1 | 144847 | [144847-sea-of-thieves-season-1.json](./144847-sea-of-thieves-season-1.json) |
 | Sea of Thieves: Season 13 | 305154 | [305154-sea-of-thieves-season-13.json](./305154-sea-of-thieves-season-13.json) |
@@ -11270,6 +11271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic the Hedgehog: The Blue Blur! Super Sonic - Quiz Game | 325095 | [325095-sonic-the-hedgehog-the-blue-blur-super-sonic-quiz-game.json](./325095-sonic-the-hedgehog-the-blue-blur-super-sonic-quiz-game.json) |
 | Sonic the Hedgehog: The Freedom Fighters | 330700 | [330700-sonic-the-hedgehog-the-freedom-fighters.json](./330700-sonic-the-hedgehog-the-freedom-fighters.json) |
 | Sonic the Hedgehog: Time Attacked | 228594 | [228594-sonic-the-hedgehog-time-attacked.json](./228594-sonic-the-hedgehog-time-attacked.json) |
+| Sonic the Hedgehog: Very Hard Mode | 241881 | [241881-sonic-the-hedgehog-very-hard-mode.json](./241881-sonic-the-hedgehog-very-hard-mode.json) |
 | Sonic the Hedgehog's Gameworld | 52188 | [52188-sonic-the-hedgehogs-gameworld.json](./52188-sonic-the-hedgehogs-gameworld.json) |
 | Sonic The New Adventure | 321078 | [321078-sonic-the-new-adventure.json](./321078-sonic-the-new-adventure.json) |
 | Sonic the Sketchhog: Episode 2 | 316933 | [316933-sonic-the-sketchhog-episode-2.json](./316933-sonic-the-sketchhog-episode-2.json) |
@@ -17302,6 +17304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Story of the Blanks | 281346 | [281346-story-of-the-blanks.json](./281346-story-of-the-blanks.json) |
 | Story of the Green Dragon | 109869 | [109869-story-of-the-green-dragon.json](./109869-story-of-the-green-dragon.json) |
 | Story of the Mirror | 290346 | [290346-story-of-the-mirror.json](./290346-story-of-the-mirror.json) |
+| Story of the Olivia | 241851 | [241851-story-of-the-olivia.json](./241851-story-of-the-olivia.json) |
 | Story of the Survivor | 33582 | [33582-story-of-the-survivor.json](./33582-story-of-the-survivor.json) |
 | Story of the Survivor: The Escape | 156154 | [156154-story-of-the-survivor-the-escape.json](./156154-story-of-the-survivor-the-escape.json) |
 | Story of You: The Allied Kingdoms | 193477 | [193477-story-of-you-the-allied-kingdoms.json](./193477-story-of-you-the-allied-kingdoms.json) |
@@ -17849,6 +17852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Streets of Rage 2: Syndicate Wars | 256300 | [256300-streets-of-rage-2-syndicate-wars.json](./256300-streets-of-rage-2-syndicate-wars.json) |
 | Streets of Rage 2X | 257340 | [257340-streets-of-rage-2x.json](./257340-streets-of-rage-2x.json) |
 | Streets of Rage 4 | 107262 | [107262-streets-of-rage-4.json](./107262-streets-of-rage-4.json) |
+| Streets of Rage 4 | 241863 | [241863-streets-of-rage-4.json](./241863-streets-of-rage-4.json) |
 | Streets of Rage 4: Anniversary Edition | 155168 | [155168-streets-of-rage-4-anniversary-edition.json](./155168-streets-of-rage-4-anniversary-edition.json) |
 | Streets of Rage 4: Special Edition | 167055 | [167055-streets-of-rage-4-special-edition.json](./167055-streets-of-rage-4-special-edition.json) |
 | Streets of Rage Remake | 72327 | [72327-streets-of-rage-remake.json](./72327-streets-of-rage-remake.json) |
