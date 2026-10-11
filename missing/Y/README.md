@@ -1161,6 +1161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yuki Koi Melt | 335976 | [335976-yuki-koi-melt.json](./335976-yuki-koi-melt.json) |
 | Yuki Nime | 229730 | [229730-yuki-nime.json](./229730-yuki-nime.json) |
 | Yuki Onna | 126993 | [126993-yuki-onna.json](./126993-yuki-onna.json) |
+| Yuki-iro Sign | 240708 | [240708-yuki-iro-sign.json](./240708-yuki-iro-sign.json) |
 | Yuki: Space Ranger | 159032 | [159032-yuki-space-ranger.json](./159032-yuki-space-ranger.json) |
 | Yuki's Symphony | 362751 | [362751-yukis-symphony.json](./362751-yukis-symphony.json) |
 | Yukigatari | 268662 | [268662-yukigatari.json](./268662-yukigatari.json) |
