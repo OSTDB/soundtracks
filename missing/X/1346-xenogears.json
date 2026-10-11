@@ -1,10 +1,9 @@
 {
-  "_readme": "Fill in the fields below, then delete this _readme line. See ../SUBMITTING.md for full instructions.",
   "igdb_id": "1346",
   "game_name": "Xenogears",
-  "album_name": "",
-  "spotify_url": "",
-  "apple_music_url": "",
-  "album_link_url": "",
-  "album_cover_url": ""
+  "album_name": "Xenogears Original Soundtrack",
+  "spotify_url": "https://open.spotify.com/album/10dZi7nBd49IImREMdZGdC",
+  "apple_music_url": "https://music.apple.com/us/album/xenogears-original-soundtrack/296408171",
+  "album_link_url": "https://album.link/i/296408171",
+  "album_cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/82/9d/0a/mzi.qyqgwwoa.tif/600x600bb.jpg"
 }
