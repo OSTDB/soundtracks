@@ -1606,6 +1606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unknown Kadath | 271456 | [271456-unknown-kadath.json](./271456-unknown-kadath.json) |
 | Unknown Knights | 175205 | [175205-unknown-knights.json](./175205-unknown-knights.json) |
 | Unknown Memoirs: The Rental | 249840 | [249840-unknown-memoirs-the-rental.json](./249840-unknown-memoirs-the-rental.json) |
+| Unknown Memories: Lost Reality | 264534 | [264534-unknown-memories-lost-reality.json](./264534-unknown-memories-lost-reality.json) |
 | Unknown Nightmare | 93779 | [93779-unknown-nightmare.json](./93779-unknown-nightmare.json) |
 | Unknown Pain: Hardcore | 96694 | [96694-unknown-pain-hardcore.json](./96694-unknown-pain-hardcore.json) |
 | Unknown Place | 287226 | [287226-unknown-place.json](./287226-unknown-place.json) |
@@ -1776,6 +1777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unreal II: The Awakening - Special Edition | 46625 | [46625-unreal-ii-the-awakening-special-edition.json](./46625-unreal-ii-the-awakening-special-edition.json) |
 | Unreal Island | 294971 | [294971-unreal-island.json](./294971-unreal-island.json) |
 | Unreal Land | 62220 | [62220-unreal-land.json](./62220-unreal-land.json) |
+| Unreal Lust Theory | 264533 | [264533-unreal-lust-theory.json](./264533-unreal-lust-theory.json) |
 | Unreal Match 3 | 308364 | [308364-unreal-match-3.json](./308364-unreal-match-3.json) |
 | Unreal Maze Survival | 116107 | [116107-unreal-maze-survival.json](./116107-unreal-maze-survival.json) |
 | Unreal PT | 113626 | [113626-unreal-pt.json](./113626-unreal-pt.json) |
@@ -1963,6 +1965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Untravelled Planet | 325270 | [325270-untravelled-planet.json](./325270-untravelled-planet.json) |
 | Untrue New World | 164858 | [164858-untrue-new-world.json](./164858-untrue-new-world.json) |
 | Untrusted | 133237 | [133237-untrusted.json](./133237-untrusted.json) |
+| Untrusted: Hackers at Large | 264532 | [264532-untrusted-hackers-at-large.json](./264532-untrusted-hackers-at-large.json) |
 | Unturned | 7878 | [7878-unturned.json](./7878-unturned.json) |
 | Unusual and Not Safe Experiments | 368488 | [368488-unusual-and-not-safe-experiments.json](./368488-unusual-and-not-safe-experiments.json) |
 | Unusual End | 348981 | [348981-unusual-end.json](./348981-unusual-end.json) |
