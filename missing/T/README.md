@@ -2668,6 +2668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tennis Arena | 227955 | [227955-tennis-arena.json](./227955-tennis-arena.json) |
 | Tennis Bits | 58305 | [58305-tennis-bits.json](./58305-tennis-bits.json) |
 | Tennis Challenge | 230845 | [230845-tennis-challenge.json](./230845-tennis-challenge.json) |
+| Tennis Challenge | 239563 | [239563-tennis-challenge.json](./239563-tennis-challenge.json) |
 | Tennis Champs Returns | 58823 | [58823-tennis-champs-returns.json](./58823-tennis-champs-returns.json) |
 | Tennis Clash | 125197 | [125197-tennis-clash.json](./125197-tennis-clash.json) |
 | Tennis Club Story | 134020 | [134020-tennis-club-story.json](./134020-tennis-club-story.json) |
@@ -8567,6 +8568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Man in the Cape: Special Edition | 65816 | [65816-the-man-in-the-cape-special-edition.json](./65816-the-man-in-the-cape-special-edition.json) |
 | The Man in the Fields | 307850 | [307850-the-man-in-the-fields.json](./307850-the-man-in-the-fields.json) |
 | The Man in the Hat.- | 321080 | [321080-the-man-in-the-hat.json](./321080-the-man-in-the-hat.json) |
+| The Man in the Park | 239533 | [239533-the-man-in-the-park.json](./239533-the-man-in-the-park.json) |
 | The Man of My Dreams | 377954 | [377954-the-man-of-my-dreams.json](./377954-the-man-of-my-dreams.json) |
 | The Man Outside | 323396 | [323396-the-man-outside.json](./323396-the-man-outside.json) |
 | The Man Who Killed Time | 59681 | [59681-the-man-who-killed-time.json](./59681-the-man-who-killed-time.json) |
@@ -11909,6 +11911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wanderings Dragon | 108025 | [108025-the-wanderings-dragon.json](./108025-the-wanderings-dragon.json) |
 | The Wanted Man's House | 313485 | [313485-the-wanted-mans-house.json](./313485-the-wanted-mans-house.json) |
 | The Wapple Hous | 375363 | [375363-the-wapple-hous.json](./375363-the-wapple-hous.json) |
+| The War Between Chu & Han | 239549 | [239549-the-war-between-chu-and-han.json](./239549-the-war-between-chu-and-han.json) |
 | The War Enders: First Strike | 219657 | [219657-the-war-enders-first-strike.json](./219657-the-war-enders-first-strike.json) |
 | The War Engine | 79886 | [79886-the-war-engine.json](./79886-the-war-engine.json) |
 | The war god : The artifact | 50516 | [50516-the-war-god-the-artifact.json](./50516-the-war-god-the-artifact.json) |
