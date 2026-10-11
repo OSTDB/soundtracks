@@ -3698,6 +3698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chariot Land | 165644 | [165644-chariot-land.json](./165644-chariot-land.json) |
 | Chariot of Girl | 301993 | [301993-chariot-of-girl.json](./301993-chariot-of-girl.json) |
 | Chariot Race | 47244 | [47244-chariot-race.json](./47244-chariot-race.json) |
+| Chariot Racer | 241998 | [241998-chariot-racer.json](./241998-chariot-racer.json) |
 | Chariot: Adventure Through the Sky | 361331 | [361331-chariot-adventure-through-the-sky.json](./361331-chariot-adventure-through-the-sky.json) |
 | Chariot: Royal Gadget Pack | 252764 | [252764-chariot-royal-gadget-pack.json](./252764-chariot-royal-gadget-pack.json) |
 | Charisma | 313445 | [313445-charisma.json](./313445-charisma.json) |
@@ -10945,6 +10946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crop Crusaders | 332987 | [332987-crop-crusaders.json](./332987-crop-crusaders.json) |
 | Crop Empire | 413040 | [413040-crop-empire.json](./413040-crop-empire.json) |
 | Crop Haven | 287626 | [287626-crop-haven.json](./287626-crop-haven.json) |
+| Crop Rotation | 241883 | [241883-crop-rotation.json](./241883-crop-rotation.json) |
 | Cropacalypse | 379058 | [379058-cropacalypse.json](./379058-cropacalypse.json) |
 | Cropbuster | 235216 | [235216-cropbuster.json](./235216-cropbuster.json) |
 | CropBytes | 235307 | [235307-cropbytes.json](./235307-cropbytes.json) |
