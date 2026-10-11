@@ -2937,6 +2937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secrets of the Mansion | 184442 | [184442-secrets-of-the-mansion.json](./184442-secrets-of-the-mansion.json) |
 | Secrets of the Middle Ages | 165660 | [165660-secrets-of-the-middle-ages.json](./165660-secrets-of-the-middle-ages.json) |
 | Secrets of the Past: Dion | 110895 | [110895-secrets-of-the-past-dion.json](./110895-secrets-of-the-past-dion.json) |
+| Secrets of the Shiratori Twins | 247413 | [247413-secrets-of-the-shiratori-twins.json](./247413-secrets-of-the-shiratori-twins.json) |
 | Secrets of the Shore | 293839 | [293839-secrets-of-the-shore.json](./293839-secrets-of-the-shore.json) |
 | Secrets of the Temple | 193416 | [193416-secrets-of-the-temple.json](./193416-secrets-of-the-temple.json) |
 | Secrets of the Titanic 1912-2012 | 54345 | [54345-secrets-of-the-titanic-1912-2012.json](./54345-secrets-of-the-titanic-1912-2012.json) |
@@ -19495,6 +19496,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Don Quix-Ote | 25969 | [25969-super-don-quix-ote.json](./25969-super-don-quix-ote.json) |
 | Super Donkey | 142130 | [142130-super-donkey.json](./142130-super-donkey.json) |
 | Super Donkey Kong 2 | 160305 | [160305-super-donkey-kong-2.json](./160305-super-donkey-kong-2.json) |
+| Super Donkey Kong 3 | 247405 | [247405-super-donkey-kong-3.json](./247405-super-donkey-kong-3.json) |
+| Super Donkey Kong 5 | 247406 | [247406-super-donkey-kong-5.json](./247406-super-donkey-kong-5.json) |
 | Super Donkey Kong 64 | 134017 | [134017-super-donkey-kong-64.json](./134017-super-donkey-kong-64.json) |
 | Super Donuts! | 175412 | [175412-super-donuts.json](./175412-super-donuts.json) |
 | Super Doom TV | 299449 | [299449-super-doom-tv.json](./299449-super-doom-tv.json) |
