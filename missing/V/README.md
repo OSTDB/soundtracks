@@ -2073,6 +2073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Void Encounter | 172185 | [172185-void-encounter.json](./172185-void-encounter.json) |
 | Void Fighters | 403667 | [403667-void-fighters.json](./403667-void-fighters.json) |
 | Void Flesh | 362168 | [362168-void-flesh.json](./362168-void-flesh.json) |
+| Void Funk | 250846 | [250846-void-funk.json](./250846-void-funk.json) |
 | Void Game | 394338 | [394338-void-game.json](./394338-void-game.json) |
 | Void Guard | 277276 | [277276-void-guard.json](./277276-void-guard.json) |
 | Void Hazard | 372628 | [372628-void-hazard.json](./372628-void-hazard.json) |
