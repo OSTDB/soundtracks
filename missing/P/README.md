@@ -2008,6 +2008,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PAW Patrol Collection | 137559 | [137559-paw-patrol-collection.json](./137559-paw-patrol-collection.json) |
 | Paw Patrol the Movie: Adventure City Calls | 152302 | [152302-paw-patrol-the-movie-adventure-city-calls.json](./152302-paw-patrol-the-movie-adventure-city-calls.json) |
 | Paw Patrol To The Rescue! Learning Video Game | 274682 | [274682-paw-patrol-to-the-rescue-learning-video-game.json](./274682-paw-patrol-to-the-rescue-learning-video-game.json) |
+| Paw Patrol World: Aqua Pups - Costume Pack | 272231 | [272231-paw-patrol-world-aqua-pups-costume-pack.json](./272231-paw-patrol-world-aqua-pups-costume-pack.json) |
+| Paw Patrol World: Halloween - Costume Pack | 272224 | [272224-paw-patrol-world-halloween-costume-pack.json](./272224-paw-patrol-world-halloween-costume-pack.json) |
+| Paw Patrol World: Rescue Knights - Costume Pack | 272225 | [272225-paw-patrol-world-rescue-knights-costume-pack.json](./272225-paw-patrol-world-rescue-knights-costume-pack.json) |
+| Paw Patrol World: The Mighty Movie - Costume Pack | 272230 | [272230-paw-patrol-world-the-mighty-movie-costume-pack.json](./272230-paw-patrol-world-the-mighty-movie-costume-pack.json) |
+| Paw Patrol World: Ultimate Rescue - Costume Pack | 272229 | [272229-paw-patrol-world-ultimate-rescue-costume-pack.json](./272229-paw-patrol-world-ultimate-rescue-costume-pack.json) |
 | Paw Patrol: Laptop Infantil | 294467 | [294467-paw-patrol-laptop-infantil.json](./294467-paw-patrol-laptop-infantil.json) |
 | PAW Patrol: Storm Rescuers | 230328 | [230328-paw-patrol-storm-rescuers.json](./230328-paw-patrol-storm-rescuers.json) |
 | Paw Patrol: The Movie Learning Phone | 274652 | [274652-paw-patrol-the-movie-learning-phone.json](./274652-paw-patrol-the-movie-learning-phone.json) |
@@ -8047,6 +8052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Portals of P'Thaal | 142459 | [142459-portals-of-pthaal.json](./142459-portals-of-pthaal.json) |
 | Portals of Phereon | 268548 | [268548-portals-of-phereon.json](./268548-portals-of-phereon.json) |
 | Portals: Escape the Infinity | 264151 | [264151-portals-escape-the-infinity.json](./264151-portals-escape-the-infinity.json) |
+| PortalSnake | 272204 | [272204-portalsnake.json](./272204-portalsnake.json) |
 | Portarius | 74850 | [74850-portarius.json](./74850-portarius.json) |
 | Portentum | 412401 | [412401-portentum.json](./412401-portentum.json) |
 | Porter | 196807 | [196807-porter.json](./196807-porter.json) |
@@ -8999,6 +9005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Princess Piano | 174230 | [174230-princess-piano.json](./174230-princess-piano.json) |
 | Princess Poffin and the Spider Invasion | 252078 | [252078-princess-poffin-and-the-spider-invasion.json](./252078-princess-poffin-and-the-spider-invasion.json) |
 | Princess Polly | 290499 | [290499-princess-polly.json](./290499-princess-polly.json) |
+| Princess Pomu and the 5 Moons | 272216 | [272216-princess-pomu-and-the-5-moons.json](./272216-princess-pomu-and-the-5-moons.json) |
 | Princess Pony's Magic Seesaw | 337985 | [337985-princess-ponys-magic-seesaw.json](./337985-princess-ponys-magic-seesaw.json) |
 | Princess Princess: Himetachi no Abunai Houkago | 72671 | [72671-princess-princess-himetachi-no-abunai-houkago.json](./72671-princess-princess-himetachi-no-abunai-houkago.json) |
 | Princess Principal: Game of Mission | 70907 | [70907-princess-principal-game-of-mission.json](./70907-princess-principal-game-of-mission.json) |
