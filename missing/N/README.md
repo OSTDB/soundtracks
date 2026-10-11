@@ -4229,6 +4229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nordlicht | 119776 | [119776-nordlicht.json](./119776-nordlicht.json) |
 | Nords and Fjords | 181123 | [181123-nords-and-fjords.json](./181123-nords-and-fjords.json) |
 | Nords: Heroes of the North | 23655 | [23655-nords-heroes-of-the-north.json](./23655-nords-heroes-of-the-north.json) |
+| Nordstrums Treasure | 240682 | [240682-nordstrums-treasure.json](./240682-nordstrums-treasure.json) |
 | NoReason's Speedmaps 2 | 221850 | [221850-noreasons-speedmaps-2.json](./221850-noreasons-speedmaps-2.json) |
 | Noren | 158583 | [158583-noren.json](./158583-noren.json) |
 | Noreya: The Gold Project | 211738 | [211738-noreya-the-gold-project.json](./211738-noreya-the-gold-project.json) |
@@ -4394,8 +4395,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Not Evil Sudoku | 297219 | [297219-not-evil-sudoku.json](./297219-not-evil-sudoku.json) |
 | Not Fine | 398354 | [398354-not-fine.json](./398354-not-fine.json) |
 | Not for Broadcast | 122133 | [122133-not-for-broadcast.json](./122133-not-for-broadcast.json) |
+| Not For Broadcast: Bits of Your Life | 240678 | [240678-not-for-broadcast-bits-of-your-life.json](./240678-not-for-broadcast-bits-of-your-life.json) |
 | Not For Broadcast: Complete Edition | 331858 | [331858-not-for-broadcast-complete-edition.json](./331858-not-for-broadcast-complete-edition.json) |
 | Not for Broadcast: Deluxe Edition | 242607 | [242607-not-for-broadcast-deluxe-edition.json](./242607-not-for-broadcast-deluxe-edition.json) |
+| Not For Broadcast: The Timeloop | 240693 | [240693-not-for-broadcast-the-timeloop.json](./240693-not-for-broadcast-the-timeloop.json) |
 | Not For You | 381698 | [381698-not-for-you.json](./381698-not-for-you.json) |
 | Not Guilty! | 353903 | [353903-not-guilty.json](./353903-not-guilty.json) |
 | Not Heaven | 110938 | [110938-not-heaven.json](./110938-not-heaven.json) |
