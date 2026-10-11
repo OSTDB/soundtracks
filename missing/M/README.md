@@ -1103,6 +1103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magnet Mania 3D | 262580 | [262580-magnet-mania-3d.json](./262580-magnet-mania-3d.json) |
 | Magnet Miner | 354398 | [354398-magnet-miner.json](./354398-magnet-miner.json) |
 | Magneta Box | 190007 | [190007-magneta-box.json](./190007-magneta-box.json) |
+| Magnetball Lite | 253272 | [253272-magnetball-lite.json](./253272-magnetball-lite.json) |
 | Magnetic | 136214 | [136214-magnetic.json](./136214-magnetic.json) |
 | Magnetic Action | 364974 | [364974-magnetic-action.json](./364974-magnetic-action.json) |
 | Magnetic Billiards | 47276 | [47276-magnetic-billiards.json](./47276-magnetic-billiards.json) |
@@ -3739,6 +3740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Max and the Magic Marker: Gold Edition | 52571 | [52571-max-and-the-magic-marker-gold-edition.json](./52571-max-and-the-magic-marker-gold-edition.json) |
 | Max and the Pirates | 209540 | [209540-max-and-the-pirates.json](./209540-max-and-the-pirates.json) |
 | Max and the Secret Formula | 209538 | [209538-max-and-the-secret-formula.json](./209538-max-and-the-secret-formula.json) |
+| Max Awesome | 253255 | [253255-max-awesome.json](./253255-max-awesome.json) |
 | Max Axe | 343970 | [343970-max-axe.json](./343970-max-axe.json) |
 | Max Beyond | 259519 | [259519-max-beyond.json](./259519-max-beyond.json) |
 | Max Bradshaw and the Zombie Invasion | 197250 | [197250-max-bradshaw-and-the-zombie-invasion.json](./197250-max-bradshaw-and-the-zombie-invasion.json) |
@@ -10120,6 +10122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monsters of Mican | 270307 | [270307-monsters-of-mican.json](./270307-monsters-of-mican.json) |
 | Monsters of Seabrook | 224653 | [224653-monsters-of-seabrook.json](./224653-monsters-of-seabrook.json) |
 | Monsters sandbox | 127085 | [127085-monsters-sandbox.json](./127085-monsters-sandbox.json) |
+| Monsters Tap Tap Music Battle University | 253273 | [253273-monsters-tap-tap-music-battle-university.json](./253273-monsters-tap-tap-music-battle-university.json) |
 | Monsters University | 137564 | [137564-monsters-university.json](./137564-monsters-university.json) |
 | Monsters University: Hide and Sneak | 205615 | [205615-monsters-university-hide-and-sneak.json](./205615-monsters-university-hide-and-sneak.json) |
 | Monsters vs. Aliens | 5021 | [5021-monsters-vs-aliens.json](./5021-monsters-vs-aliens.json) |
@@ -12370,6 +12373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mutiny | 256879 | [256879-mutiny.json](./256879-mutiny.json) |
 | Mutrix | 253449 | [253449-mutrix.json](./253449-mutrix.json) |
 | Mutsu Tonohohon | 4023 | [4023-mutsu-tonohohon.json](./4023-mutsu-tonohohon.json) |
+| Mutton for Punishment 3 | 253269 | [253269-mutton-for-punishment-3.json](./253269-mutton-for-punishment-3.json) |
 | Mutual Assured Destruction Simulator | 326389 | [326389-mutual-assured-destruction-simulator.json](./326389-mutual-assured-destruction-simulator.json) |
 | Mutual Place | 252920 | [252920-mutual-place.json](./252920-mutual-place.json) |
 | Mutual Secret | 107386 | [107386-mutual-secret.json](./107386-mutual-secret.json) |
