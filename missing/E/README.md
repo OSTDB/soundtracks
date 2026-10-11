@@ -702,6 +702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ed, Edd n Eddy: Scam of the Century | 2817 | [2817-ed-edd-n-eddy-scam-of-the-century.json](./2817-ed-edd-n-eddy-scam-of-the-century.json) |
 | Ed, Edd n Eddy: The Mis-Edventures | 2722 | [2722-ed-edd-n-eddy-the-mis-edventures.json](./2722-ed-edd-n-eddy-the-mis-edventures.json) |
 | Ed, Edd n Eddy's Candy Machine Deluxe | 196798 | [196798-ed-edd-n-eddys-candy-machine-deluxe.json](./196798-ed-edd-n-eddys-candy-machine-deluxe.json) |
+| Ed's world story | 246850 | [246850-eds-world-story.json](./246850-eds-world-story.json) |
 | Edain Mod | 356216 | [356216-edain-mod.json](./356216-edain-mod.json) |
 | Edd the Duck | 265043 | [265043-edd-the-duck.json](./265043-edd-the-duck.json) |
 | Edd the Duck 2: Back with a Quack! | 265044 | [265044-edd-the-duck-2-back-with-a-quack.json](./265044-edd-the-duck-2-back-with-a-quack.json) |
@@ -1493,6 +1494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elevated | 155027 | [155027-elevated.json](./155027-elevated.json) |
 | Elevation | 384134 | [384134-elevation.json](./384134-elevation.json) |
 | Elevatium: Puzzle of Atlantis | 185436 | [185436-elevatium-puzzle-of-atlantis.json](./185436-elevatium-puzzle-of-atlantis.json) |
+| Elevator | 246848 | [246848-elevator.json](./246848-elevator.json) |
 | Elevator | 381324 | [381324-elevator.json](./381324-elevator.json) |
 | Elevator | 390275 | [390275-elevator.json](./390275-elevator.json) |
 | Elevator | 58300 | [58300-elevator.json](./58300-elevator.json) |
@@ -2114,6 +2116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enchanted Stories: Mystic Woods - Collector's Edition | 356763 | [356763-enchanted-stories-mystic-woods-collectors-edition.json](./356763-enchanted-stories-mystic-woods-collectors-edition.json) |
 | Enchanted Trees Escape | 315669 | [315669-enchanted-trees-escape.json](./315669-enchanted-trees-escape.json) |
 | Enchanted Valley: Fantasy Slide Puzzle | 365900 | [365900-enchanted-valley-fantasy-slide-puzzle.json](./365900-enchanted-valley-fantasy-slide-puzzle.json) |
+| Enchanted Voyage | 246851 | [246851-enchanted-voyage.json](./246851-enchanted-voyage.json) |
 | Enchanted Words | 146766 | [146766-enchanted-words.json](./146766-enchanted-words.json) |
 | Enchanted: Once Upon Andalasia | 49278 | [49278-enchanted-once-upon-andalasia.json](./49278-enchanted-once-upon-andalasia.json) |
 | EnchantedGirl | 368676 | [368676-enchantedgirl.json](./368676-enchantedgirl.json) |
@@ -4134,6 +4137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everest VR | 18971 | [18971-everest-vr.json](./18971-everest-vr.json) |
 | Everest: Real Climbing Simulator | 373352 | [373352-everest-real-climbing-simulator.json](./373352-everest-real-climbing-simulator.json) |
 | Everest: The Ultimate Strategy Game | 85763 | [85763-everest-the-ultimate-strategy-game.json](./85763-everest-the-ultimate-strategy-game.json) |
+| Everfall | 246852 | [246852-everfall.json](./246852-everfall.json) |
 | Everfall: Idle Dungeon RPG | 377083 | [377083-everfall-idle-dungeon-rpg.json](./377083-everfall-idle-dungeon-rpg.json) |
 | Everfront | 400550 | [400550-everfront.json](./400550-everfront.json) |
 | Evergarden | 107191 | [107191-evergarden.json](./107191-evergarden.json) |
@@ -4830,6 +4834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Expeditions: Conquistador | 16523 | [16523-expeditions-conquistador.json](./16523-expeditions-conquistador.json) |
 | Expeditions: Rome | 146650 | [146650-expeditions-rome.json](./146650-expeditions-rome.json) |
 | Expeditions: Samurai | 404904 | [404904-expeditions-samurai.json](./404904-expeditions-samurai.json) |
+| Expel | 246827 | [246827-expel.json](./246827-expel.json) |
 | Expelled! | 331180 | [331180-expelled.json](./331180-expelled.json) |
 | Expendable | 317640 | [317640-expendable.json](./317640-expendable.json) |
 | Expendabots | 404929 | [404929-expendabots.json](./404929-expendabots.json) |
