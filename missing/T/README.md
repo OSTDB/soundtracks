@@ -2490,6 +2490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Temple Run: Oz | 63613 | [63613-temple-run-oz.json](./63613-temple-run-oz.json) |
 | Temple Run: Treasure Hunters | 233503 | [233503-temple-run-treasure-hunters.json](./233503-temple-run-treasure-hunters.json) |
 | Temple with Traps | 167166 | [167166-temple-with-traps.json](./167166-temple-with-traps.json) |
+| Temple2 | 268921 | [268921-temple2.json](./268921-temple2.json) |
 | TempleFight | 148113 | [148113-templefight.json](./148113-templefight.json) |
 | Temples vs. Buildings | 296353 | [296353-temples-vs-buildings.json](./296353-temples-vs-buildings.json) |
 | Templum de Malum | 118399 | [118399-templum-de-malum.json](./118399-templum-de-malum.json) |
@@ -8317,6 +8318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lost Legends of Redwall: The Scout Anthology | 287035 | [287035-the-lost-legends-of-redwall-the-scout-anthology.json](./287035-the-lost-legends-of-redwall-the-scout-anthology.json) |
 | The Lost Levels | 271772 | [271772-the-lost-levels.json](./271772-the-lost-levels.json) |
 | The Lost Levels Enhanced | 38254 | [38254-the-lost-levels-enhanced.json](./38254-the-lost-levels-enhanced.json) |
+| The Lost Magic | 268971 | [268971-the-lost-magic.json](./268971-the-lost-magic.json) |
 | The Lost Marble | 161390 | [161390-the-lost-marble.json](./161390-the-lost-marble.json) |
 | The Lost Medallion | 64356 | [64356-the-lost-medallion.json](./64356-the-lost-medallion.json) |
 | The Lost Meowgician | 361035 | [361035-the-lost-meowgician.json](./361035-the-lost-meowgician.json) |
@@ -8676,6 +8678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Money Game | 48770 | [48770-the-money-game.json](./48770-the-money-game.json) |
 | The Money Man | 411544 | [411544-the-money-man.json](./411544-the-money-man.json) |
 | The Monitor Puzzle Kineko: Kinetic Connection | 41298 | [41298-the-monitor-puzzle-kineko-kinetic-connection.json](./41298-the-monitor-puzzle-kineko-kinetic-connection.json) |
+| The Monk | 268945 | [268945-the-monk.json](./268945-the-monk.json) |
 | The Monkey King: Flying Dojo | 341030 | [341030-the-monkey-king-flying-dojo.json](./341030-the-monkey-king-flying-dojo.json) |
 | The Monkey King: The Legend Begins | 50608 | [50608-the-monkey-king-the-legend-begins.json](./50608-the-monkey-king-the-legend-begins.json) |
 | The Monkey P | 223148 | [223148-the-monkey-p.json](./223148-the-monkey-p.json) |
@@ -10486,6 +10489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Smash Cars Tournament | 195145 | [195145-the-smash-cars-tournament.json](./195145-the-smash-cars-tournament.json) |
 | The Smelly Mystery | 71809 | [71809-the-smelly-mystery.json](./71809-the-smelly-mystery.json) |
 | The Smile Alchemist | 238282 | [238282-the-smile-alchemist.json](./238282-the-smile-alchemist.json) |
+| The Smile Friends | 268944 | [268944-the-smile-friends.json](./268944-the-smile-friends.json) |
 | The Smiler | 305365 | [305365-the-smiler.json](./305365-the-smiler.json) |
 | The Smiling Man | 194452 | [194452-the-smiling-man.json](./194452-the-smiling-man.json) |
 | The Smiling Man: Remake | 275143 | [275143-the-smiling-man-remake.json](./275143-the-smiling-man-remake.json) |
@@ -14238,6 +14242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tim Burton's The Nightmare Before Christmas | 198942 | [198942-tim-burtons-the-nightmare-before-christmas.json](./198942-tim-burtons-the-nightmare-before-christmas.json) |
 | Tim Stockdale's Riding Star | 339889 | [339889-tim-stockdales-riding-star.json](./339889-tim-stockdales-riding-star.json) |
 | Tim's Birthday | 150126 | [150126-tims-birthday.json](./150126-tims-birthday.json) |
+| Timagi | 268941 | [268941-timagi.json](./268941-timagi.json) |
 | Timber | 25881 | [25881-timber.json](./25881-timber.json) |
 | Timber Jump VR | 149589 | [149589-timber-jump-vr.json](./149589-timber-jump-vr.json) |
 | Timber Rush | 389705 | [389705-timber-rush.json](./389705-timber-rush.json) |
@@ -15822,6 +15827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tonight It Follows | 120201 | [120201-tonight-it-follows.json](./120201-tonight-it-follows.json) |
 | Tonight We Hunt | 183975 | [183975-tonight-we-hunt.json](./183975-tonight-we-hunt.json) |
 | Tonight We Riot | 36352 | [36352-tonight-we-riot.json](./36352-tonight-we-riot.json) |
+| Tonight, I Die in My Sleep | 268942 | [268942-tonight-i-die-in-my-sleep.json](./268942-tonight-i-die-in-my-sleep.json) |
 | Tonight's Special | 394814 | [394814-tonights-special.json](./394814-tonights-special.json) |
 | Tonka Construction | 7954 | [7954-tonka-construction.json](./7954-tonka-construction.json) |
 | Tonka Construction 2 | 7958 | [7958-tonka-construction-2.json](./7958-tonka-construction-2.json) |
@@ -16445,6 +16451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tottenham Hotspur Club Football 2005 | 267897 | [267897-tottenham-hotspur-club-football-2005.json](./267897-tottenham-hotspur-club-football-2005.json) |
 | Totto's Magic Soup | 353293 | [353293-tottos-magic-soup.json](./353293-tottos-magic-soup.json) |
 | Tottoko Hamtaro Card-e | 220854 | [220854-tottoko-hamtaro-card-e.json](./220854-tottoko-hamtaro-card-e.json) |
+| Totum | 268943 | [268943-totum.json](./268943-totum.json) |
 | Tou Ikkyoku Gojyuusan Honba | 360085 | [360085-tou-ikkyoku-gojyuusan-honba.json](./360085-tou-ikkyoku-gojyuusan-honba.json) |
 | Toubatsu | 385825 | [385825-toubatsu.json](./385825-toubatsu.json) |
 | Toucan Rampage: Sandstorm Shooter | 278358 | [278358-toucan-rampage-sandstorm-shooter.json](./278358-toucan-rampage-sandstorm-shooter.json) |
@@ -19490,6 +19497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tropico 6: Caribbean Skies | 155068 | [155068-tropico-6-caribbean-skies.json](./155068-tropico-6-caribbean-skies.json) |
 | Tropico 6: El Prez Edition | 116131 | [116131-tropico-6-el-prez-edition.json](./116131-tropico-6-el-prez-edition.json) |
 | Tropico 6: Festival | 165412 | [165412-tropico-6-festival.json](./165412-tropico-6-festival.json) |
+| Tropico 6: Going Viral | 268934 | [268934-tropico-6-going-viral.json](./268934-tropico-6-going-viral.json) |
 | Tropico 6: Lobbyistico | 155171 | [155171-tropico-6-lobbyistico.json](./155171-tropico-6-lobbyistico.json) |
 | Tropico 6: Return to Nature | 334642 | [334642-tropico-6-return-to-nature.json](./334642-tropico-6-return-to-nature.json) |
 | Tropico 6: Spitter | 155172 | [155172-tropico-6-spitter.json](./155172-tropico-6-spitter.json) |
