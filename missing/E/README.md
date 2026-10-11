@@ -2102,6 +2102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Encode Encore! | 393641 | [393641-encode-encore.json](./393641-encode-encore.json) |
 | Encoded War | 231331 | [231331-encoded-war.json](./231331-encoded-war.json) |
 | Encodya: Save the World Edition | 154533 | [154533-encodya-save-the-world-edition.json](./154533-encodya-save-the-world-edition.json) |
+| Encore | 274949 | [274949-encore.json](./274949-encore.json) |
 | Encore | 403601 | [403601-encore.json](./403601-encore.json) |
 | EnCore | 94678 | [94678-encore.json](./94678-encore.json) |
 | Encore Card Games | 130706 | [130706-encore-card-games.json](./130706-encore-card-games.json) |
