@@ -239,6 +239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sad But Ded | 185527 | [185527-sad-but-ded.json](./185527-sad-but-ded.json) |
 | Sad Ghouls | 194655 | [194655-sad-ghouls.json](./194655-sad-ghouls.json) |
 | Sad Rabbit's Alien Night Out | 336171 | [336171-sad-rabbits-alien-night-out.json](./336171-sad-rabbits-alien-night-out.json) |
+| Sad Robot | 254976 | [254976-sad-robot.json](./254976-sad-robot.json) |
 | Sad RPG | 124135 | [124135-sad-rpg.json](./124135-sad-rpg.json) |
 | Sad Satan | 136346 | [136346-sad-satan.json](./136346-sad-satan.json) |
 | Sad Satan | 283109 | [283109-sad-satan.json](./283109-sad-satan.json) |
@@ -543,6 +544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sakura Agent | 29850 | [29850-sakura-agent.json](./29850-sakura-agent.json) |
 | Sakura Alien | 186848 | [186848-sakura-alien.json](./186848-sakura-alien.json) |
 | Sakura And The Airyvixen | 289539 | [289539-sakura-and-the-airyvixen.json](./289539-sakura-and-the-airyvixen.json) |
+| Sakura Apprentice | 254981 | [254981-sakura-apprentice.json](./254981-sakura-apprentice.json) |
 | Sakura Arms: Radiant Duels | 388956 | [388956-sakura-arms-radiant-duels.json](./388956-sakura-arms-radiant-duels.json) |
 | Sakura Branch: Blossom Puzzle | 418323 | [418323-sakura-branch-blossom-puzzle.json](./418323-sakura-branch-blossom-puzzle.json) |
 | Sakura Bunny Girls 2 | 355079 | [355079-sakura-bunny-girls-2.json](./355079-sakura-bunny-girls-2.json) |
@@ -6358,6 +6360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Siege and Destroy | 29802 | [29802-siege-and-destroy.json](./29802-siege-and-destroy.json) |
 | Siege Demolishers | 411500 | [411500-siege-demolishers.json](./411500-siege-demolishers.json) |
 | Siege Hammer | 31105 | [31105-siege-hammer.json](./31105-siege-hammer.json) |
+| Siege Hero | 254977 | [254977-siege-hero.json](./254977-siege-hero.json) |
 | Siege Machines Builder | 117596 | [117596-siege-machines-builder.json](./117596-siege-machines-builder.json) |
 | Siege of Avalon | 9382 | [9382-siege-of-avalon.json](./9382-siege-of-avalon.json) |
 | Siege of Centauri | 116002 | [116002-siege-of-centauri.json](./116002-siege-of-centauri.json) |
@@ -7482,6 +7485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skedaddling In Egypt | 244244 | [244244-skedaddling-in-egypt.json](./244244-skedaddling-in-egypt.json) |
 | Skee-Ball | 94020 | [94020-skee-ball.json](./94020-skee-ball.json) |
 | Skeet: VR Target Shooting | 33453 | [33453-skeet-vr-target-shooting.json](./33453-skeet-vr-target-shooting.json) |
+| Skeeter | 254978 | [254978-skeeter.json](./254978-skeeter.json) |
 | Skeeter's Grid | 190082 | [190082-skeeters-grid.json](./190082-skeeters-grid.json) |
 | Skeetshoot | 81284 | [81284-skeetshoot.json](./81284-skeetshoot.json) |
 | Skein | 74764 | [74764-skein.json](./74764-skein.json) |
@@ -8693,6 +8697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sludge Department | 406197 | [406197-sludge-department.json](./406197-sludge-department.json) |
 | Sludge Factory | 271782 | [271782-sludge-factory.json](./271782-sludge-factory.json) |
 | Sludge Life 2 | 242597 | [242597-sludge-life-2.json](./242597-sludge-life-2.json) |
+| Sludge Life: The Big Mud Sessions | 254974 | [254974-sludge-life-the-big-mud-sessions.json](./254974-sludge-life-the-big-mud-sessions.json) |
 | Sludgineers | 389622 | [389622-sludgineers.json](./389622-sludgineers.json) |
 | Slug Blast | 28893 | [28893-slug-blast.json](./28893-slug-blast.json) |
 | Slug Gear | 257996 | [257996-slug-gear.json](./257996-slug-gear.json) |
@@ -14193,6 +14198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sporting Triangles | 72062 | [72062-sporting-triangles.json](./72062-sporting-triangles.json) |
 | Sportitions ’24 | 308497 | [308497-sportitions-24.json](./308497-sportitions-24.json) |
 | Sports & Adventure Pinball | 173132 | [173132-sports-and-adventure-pinball.json](./173132-sports-and-adventure-pinball.json) |
+| Sports 5 | 254951 | [254951-sports-5.json](./254951-sports-5.json) |
 | Sports Action Pak | 56456 | [56456-sports-action-pak.json](./56456-sports-action-pak.json) |
 | Sports Babes | 382284 | [382284-sports-babes.json](./382284-sports-babes.json) |
 | Sports Betting Simulator | 192767 | [192767-sports-betting-simulator.json](./192767-sports-betting-simulator.json) |
@@ -16126,6 +16132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starwind | 392363 | [392363-starwind.json](./392363-starwind.json) |
 | Starwinder: The Ultimate Space Race | 72069 | [72069-starwinder-the-ultimate-space-race.json](./72069-starwinder-the-ultimate-space-race.json) |
 | Starwisp Hyperdrive | 217023 | [217023-starwisp-hyperdrive.json](./217023-starwisp-hyperdrive.json) |
+| Starwulf: Seeker of Secret Space | 254969 | [254969-starwulf-seeker-of-secret-space.json](./254969-starwulf-seeker-of-secret-space.json) |
 | Starxia | 297353 | [297353-starxia.json](./297353-starxia.json) |
 | Stary | 113644 | [113644-stary.json](./113644-stary.json) |
 | Starzzle | 382218 | [382218-starzzle.json](./382218-starzzle.json) |
