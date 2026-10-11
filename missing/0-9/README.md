@@ -704,6 +704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 15 Minutes At The World's End | 265616 | [265616-15-minutes-at-the-worlds-end.json](./265616-15-minutes-at-the-worlds-end.json) |
 | 15 Minutes Dungeon | 255026 | [255026-15-minutes-dungeon.json](./255026-15-minutes-dungeon.json) |
 | 15 Years a Doomer | 262260 | [262260-15-years-a-doomer.json](./262260-15-years-a-doomer.json) |
+| 15 ﾠ | 240102 | [240102-15.json](./240102-15.json) |
 | 15-in-1 Mega Bundle | 396436 | [396436-15-in-1-mega-bundle.json](./396436-15-in-1-mega-bundle.json) |
 | 15-in-1 Mega Collection: Backtracking Ten Years | 37643 | [37643-15-in-1-mega-collection-backtracking-ten-years.json](./37643-15-in-1-mega-collection-backtracking-ten-years.json) |
 | 150 Floors | 228439 | [228439-150-floors.json](./228439-150-floors.json) |
