@@ -7807,6 +7807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rush | 88768 | [88768-rush.json](./88768-rush.json) |
 | Rush and Blush | 333782 | [333782-rush-and-blush.json](./333782-rush-and-blush.json) |
 | Rush Back | 270680 | [270680-rush-back.json](./270680-rush-back.json) |
+| Rush City | 270573 | [270573-rush-city.json](./270573-rush-city.json) |
 | Rush Delivery | 304850 | [304850-rush-delivery.json](./304850-rush-delivery.json) |
 | Rush For Glory | 10803 | [10803-rush-for-glory.json](./10803-rush-for-glory.json) |
 | Rush for Gold: California | 33345 | [33345-rush-for-gold-california.json](./33345-rush-for-gold-california.json) |
