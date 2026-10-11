@@ -1969,6 +1969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DCS World: Su-33 | 162866 | [162866-dcs-world-su-33.json](./162866-dcs-world-su-33.json) |
 | DCS World: The Museum Relic Campaign | 162856 | [162856-dcs-world-the-museum-relic-campaign.json](./162856-dcs-world-the-museum-relic-campaign.json) |
 | DCS World: UH-1H Peacekeeper Lebanon Campaign by Flying Cyking | 324908 | [324908-dcs-world-uh-1h-peacekeeper-lebanon-campaign-by-flying-cyking.json](./324908-dcs-world-uh-1h-peacekeeper-lebanon-campaign-by-flying-cyking.json) |
+| DCS World: UH-1H The Huey Last Show Campaign by SorelRo | 257864 | [257864-dcs-world-uh-1h-the-huey-last-show-campaign-by-sorelro.json](./257864-dcs-world-uh-1h-the-huey-last-show-campaign-by-sorelro.json) |
 | DCS World: UH-1H Worlds Apart Stormfront Campaign by Low-Level-Heaven Mission Development | 325096 | [325096-dcs-world-uh-1h-worlds-apart-stormfront-campaign-by-low-level-heaven-mission-development.json](./325096-dcs-world-uh-1h-worlds-apart-stormfront-campaign-by-low-level-heaven-mission-development.json) |
 | DCS: F-15C Aggressors Air Combat Maneuvering Campaign by Maple Flag | 296518 | [296518-dcs-f-15c-aggressors-air-combat-maneuvering-campaign-by-maple-flag.json](./296518-dcs-f-15c-aggressors-air-combat-maneuvering-campaign-by-maple-flag.json) |
 | DCS: Normandy 1944 | 27782 | [27782-dcs-normandy-1944.json](./27782-dcs-normandy-1944.json) |
@@ -2845,6 +2846,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Train!!! Samara – Voronezh. | 362357 | [362357-death-train-samara-voronezh.json](./362357-death-train-samara-voronezh.json) |
 | Death Travelers | 315124 | [315124-death-travelers.json](./315124-death-travelers.json) |
 | Death Trips | 124611 | [124611-death-trips.json](./124611-death-trips.json) |
+| Death Under Tuscan Skies: A Dana Knightstone Novel | 257829 | [257829-death-under-tuscan-skies-a-dana-knightstone-novel.json](./257829-death-under-tuscan-skies-a-dana-knightstone-novel.json) |
+| Death Under Tuscan Skies: A Dana Knightstone Novel - Collector's Edition | 257830 | [257830-death-under-tuscan-skies-a-dana-knightstone-novel-collectors-edition.json](./257830-death-under-tuscan-skies-a-dana-knightstone-novel-collectors-edition.json) |
 | Death Upon An Austrian Sonata: A Dana Knightstone Novel | 132803 | [132803-death-upon-an-austrian-sonata-a-dana-knightstone-novel.json](./132803-death-upon-an-austrian-sonata-a-dana-knightstone-novel.json) |
 | Death Upon Us | 150615 | [150615-death-upon-us.json](./150615-death-upon-us.json) |
 | Death Valley | 291744 | [291744-death-valley.json](./291744-death-valley.json) |
@@ -8024,6 +8027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doom 64 Reloaded | 346668 | [346668-doom-64-reloaded.json](./346668-doom-64-reloaded.json) |
 | Doom 64: Complete Edition | 408132 | [408132-doom-64-complete-edition.json](./408132-doom-64-complete-edition.json) |
 | Doom 64: Retribution | 201107 | [201107-doom-64-retribution.json](./201107-doom-64-retribution.json) |
+| DOOM 87: The Lost World | 257833 | [257833-doom-87-the-lost-world.json](./257833-doom-87-the-lost-world.json) |
 | DOOM Abort | 202841 | [202841-doom-abort.json](./202841-doom-abort.json) |
 | Doom Anthology | 332005 | [332005-doom-anthology.json](./332005-doom-anthology.json) |
 | Doom ChessMaster | 398500 | [398500-doom-chessmaster.json](./398500-doom-chessmaster.json) |
@@ -11422,6 +11426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons of Avalon | 356864 | [356864-dungeons-of-avalon.json](./356864-dungeons-of-avalon.json) |
 | Dungeons of Avalon II - The Island of Darkness | 19476 | [19476-dungeons-of-avalon-ii-the-island-of-darkness.json](./19476-dungeons-of-avalon-ii-the-island-of-darkness.json) |
 | Dungeons of Betrayal | 53929 | [53929-dungeons-of-betrayal.json](./53929-dungeons-of-betrayal.json) |
+| Dungeons of Blood and Dream | 257836 | [257836-dungeons-of-blood-and-dream.json](./257836-dungeons-of-blood-and-dream.json) |
 | Dungeons of Chaos | 68203 | [68203-dungeons-of-chaos.json](./68203-dungeons-of-chaos.json) |
 | Dungeons of Daggorath | 42156 | [42156-dungeons-of-daggorath.json](./42156-dungeons-of-daggorath.json) |
 | Dungeons of Death | 356659 | [356659-dungeons-of-death.json](./356659-dungeons-of-death.json) |
