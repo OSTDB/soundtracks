@@ -342,6 +342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eastshade | 17480 | [17480-eastshade.json](./17480-eastshade.json) |
 | Eastside Hockey Manager | 17396 | [17396-eastside-hockey-manager.json](./17396-eastside-hockey-manager.json) |
 | Eastward: Between Two Worlds Bundle | 284949 | [284949-eastward-between-two-worlds-bundle.json](./284949-eastward-between-two-worlds-bundle.json) |
+| Eastward: Octopia! | 266688 | [266688-eastward-octopia.json](./266688-eastward-octopia.json) |
 | Eastwind Adventures: Chapter 1 | 311792 | [311792-eastwind-adventures-chapter-1.json](./311792-eastwind-adventures-chapter-1.json) |
 | EastwoodVR | 28868 | [28868-eastwoodvr.json](./28868-eastwoodvr.json) |
 | Eastwynne | 370219 | [370219-eastwynne.json](./370219-eastwynne.json) |
@@ -646,6 +647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eclipsic | 341111 | [341111-eclipsic.json](./341111-eclipsic.json) |
 | Ecliptic | 337151 | [337151-ecliptic.json](./337151-ecliptic.json) |
 | Ecliptica | 398001 | [398001-ecliptica.json](./398001-ecliptica.json) |
+| Eclosion | 266695 | [266695-eclosion.json](./266695-eclosion.json) |
 | Eco | 34939 | [34939-eco.json](./34939-eco.json) |
 | Eco Breaker | 213896 | [213896-eco-breaker.json](./213896-eco-breaker.json) |
 | Eco City | 397760 | [397760-eco-city.json](./397760-eco-city.json) |
