@@ -3752,6 +3752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro Garbage | 62675 | [62675-retro-garbage.json](./62675-retro-garbage.json) |
 | Retro Geek Shop Simulator | 348968 | [348968-retro-geek-shop-simulator.json](./348968-retro-geek-shop-simulator.json) |
 | Retro Glitch | 364636 | [364636-retro-glitch.json](./364636-retro-glitch.json) |
+| Retro Golden Age: Goody | 241856 | [241856-retro-golden-age-goody.json](./241856-retro-golden-age-goody.json) |
 | Retro Golden Age: Livingstone I Presume | 196052 | [196052-retro-golden-age-livingstone-i-presume.json](./196052-retro-golden-age-livingstone-i-presume.json) |
 | Retro Golf Mania | 408247 | [408247-retro-golf-mania.json](./408247-retro-golf-mania.json) |
 | Retro Granny's Garden | 70921 | [70921-retro-grannys-garden.json](./70921-retro-grannys-garden.json) |
@@ -5144,6 +5145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rival Regions | 91082 | [91082-rival-regions.json](./91082-rival-regions.json) |
 | Rival Rides | 201608 | [201608-rival-rides.json](./201608-rival-rides.json) |
 | Rival Species | 350392 | [350392-rival-species.json](./350392-rival-species.json) |
+| Rival Stars College Football | 241865 | [241865-rival-stars-college-football.json](./241865-rival-stars-college-football.json) |
 | Rival Stars Horse Racing | 318221 | [318221-rival-stars-horse-racing.json](./318221-rival-stars-horse-racing.json) |
 | Rival Stars Horse Racing: VR Edition | 314638 | [314638-rival-stars-horse-racing-vr-edition.json](./314638-rival-stars-horse-racing-vr-edition.json) |
 | Rival Turf! | 42467 | [42467-rival-turf.json](./42467-rival-turf.json) |
