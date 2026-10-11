@@ -2125,6 +2125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rebirth | 329796 | [329796-rebirth.json](./329796-rebirth.json) |
 | Rebirth | 345525 | [345525-rebirth.json](./345525-rebirth.json) |
 | Rebirth | 78571 | [78571-rebirth.json](./78571-rebirth.json) |
+| Rebirth Evolution | 250821 | [250821-rebirth-evolution.json](./250821-rebirth-evolution.json) |
 | Rebirth Evolution: Casino Attendant Pack | 277511 | [277511-rebirth-evolution-casino-attendant-pack.json](./277511-rebirth-evolution-casino-attendant-pack.json) |
 | Rebirth Evolution: Fierce Bear Pack | 277517 | [277517-rebirth-evolution-fierce-bear-pack.json](./277517-rebirth-evolution-fierce-bear-pack.json) |
 | Rebirth Evolution: Haunted Carnival Pack | 277516 | [277516-rebirth-evolution-haunted-carnival-pack.json](./277516-rebirth-evolution-haunted-carnival-pack.json) |
@@ -5533,6 +5534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RoboHunt | 253320 | [253320-robohunt.json](./253320-robohunt.json) |
 | RoboHunters | 262244 | [262244-robohunters.json](./262244-robohunters.json) |
 | RoboJep | 165691 | [165691-robojep.json](./165691-robojep.json) |
+| RoboJesus | 250837 | [250837-robojesus.json](./250837-robojesus.json) |
 | Robokill | 361334 | [361334-robokill.json](./361334-robokill.json) |
 | RoboKong | 137571 | [137571-robokong.json](./137571-robokong.json) |
 | Robolifter | 227850 | [227850-robolifter.json](./227850-robolifter.json) |
@@ -7726,6 +7728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runefall | 27184 | [27184-runefall.json](./27184-runefall.json) |
 | Runefall 2: Collector's Edition | 221696 | [221696-runefall-2-collectors-edition.json](./221696-runefall-2-collectors-edition.json) |
 | Runeflame: Legacy of the Druids | 340558 | [340558-runeflame-legacy-of-the-druids.json](./340558-runeflame-legacy-of-the-druids.json) |
+| RuneLight | 250858 | [250858-runelight.json](./250858-runelight.json) |
 | RuneLite | 142955 | [142955-runelite.json](./142955-runelite.json) |
 | Runemancer | 272245 | [272245-runemancer.json](./272245-runemancer.json) |
 | Runemaster Idle | 220201 | [220201-runemaster-idle.json](./220201-runemaster-idle.json) |
