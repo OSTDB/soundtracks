@@ -5149,6 +5149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | American Eristics | 255697 | [255697-american-eristics.json](./255697-american-eristics.json) |
 | American FKN Election | 329103 | [329103-american-fkn-election.json](./329103-american-fkn-election.json) |
 | American Football | 58278 | [58278-american-football.json](./58278-american-football.json) |
+| American Football: Guns & Balls | 242461 | [242461-american-football-guns-and-balls.json](./242461-american-football-guns-and-balls.json) |
 | American Girl: Dress Designer | 18244 | [18244-american-girl-dress-designer.json](./18244-american-girl-dress-designer.json) |
 | American Girl: Julie Finds a Way | 18241 | [18241-american-girl-julie-finds-a-way.json](./18241-american-girl-julie-finds-a-way.json) |
 | American Girl: Julie Saves the Eagles | 18242 | [18242-american-girl-julie-saves-the-eagles.json](./18242-american-girl-julie-saves-the-eagles.json) |
@@ -9227,6 +9228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aspen Lane VR | 182827 | [182827-aspen-lane-vr.json](./182827-aspen-lane-vr.json) |
 | Asphalt | 36920 | [36920-asphalt.json](./36920-asphalt.json) |
 | Asphalt 3D | 6746 | [6746-asphalt-3d.json](./6746-asphalt-3d.json) |
+| Asphalt 9 Legends Arcade | 242473 | [242473-asphalt-9-legends-arcade.json](./242473-asphalt-9-legends-arcade.json) |
 | Asphalt 9: Legends - High-Gear Pack | 237899 | [237899-asphalt-9-legends-high-gear-pack.json](./237899-asphalt-9-legends-high-gear-pack.json) |
 | Asphalt 9: Legends - Italian Pack | 237901 | [237901-asphalt-9-legends-italian-pack.json](./237901-asphalt-9-legends-italian-pack.json) |
 | Asphalt 9: Legends - Multiplayer Champion Pack | 237896 | [237896-asphalt-9-legends-multiplayer-champion-pack.json](./237896-asphalt-9-legends-multiplayer-champion-pack.json) |
@@ -10251,6 +10253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atomic | 324958 | [324958-atomic.json](./324958-atomic.json) |
 | Atomic 79 | 30119 | [30119-atomic-79.json](./30119-atomic-79.json) |
 | Atomic Betty 2 | 202191 | [202191-atomic-betty-2.json](./202191-atomic-betty-2.json) |
+| Atomic Blast | 242418 | [242418-atomic-blast.json](./242418-atomic-blast.json) |
 | Atomic Bomber | 96671 | [96671-atomic-bomber.json](./96671-atomic-bomber.json) |
 | Atomic Bomberman | 18153 | [18153-atomic-bomberman.json](./18153-atomic-bomberman.json) |
 | Atomic Bot: Survivor of Planets | 297361 | [297361-atomic-bot-survivor-of-planets.json](./297361-atomic-bot-survivor-of-planets.json) |
