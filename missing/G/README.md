@@ -2165,6 +2165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Get Rid Of Those Corners | 401523 | [401523-get-rid-of-those-corners.json](./401523-get-rid-of-those-corners.json) |
 | Get Ride! AMDriver: Senkou no Hero Tanjou | 49605 | [49605-get-ride-amdriver-senkou-no-hero-tanjou.json](./49605-get-ride-amdriver-senkou-no-hero-tanjou.json) |
 | Get Ride! AMDriver: Shutsugeki! Battle Party | 49604 | [49604-get-ride-amdriver-shutsugeki-battle-party.json](./49604-get-ride-amdriver-shutsugeki-battle-party.json) |
+| Get Slapped! | 258405 | [258405-get-slapped.json](./258405-get-slapped.json) |
 | Get Some | 53083 | [53083-get-some.json](./53083-get-some.json) |
 | Get Tanked! | 169863 | [169863-get-tanked.json](./169863-get-tanked.json) |
 | Get the Ball Rolling | 211929 | [211929-get-the-ball-rolling.json](./211929-get-the-ball-rolling.json) |
@@ -6183,6 +6184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guardian War | 4314 | [4314-guardian-war.json](./4314-guardian-war.json) |
 | Guardian's Guide | 291181 | [291181-guardians-guide.json](./291181-guardians-guide.json) |
 | Guardian's Oath | 31202 | [31202-guardians-oath.json](./31202-guardians-oath.json) |
+| Guardians | 258382 | [258382-guardians.json](./258382-guardians.json) |
 | Guardians Frontline | 144110 | [144110-guardians-frontline.json](./144110-guardians-frontline.json) |
 | Guardians of Altarris: The Sinless Blade | 322213 | [322213-guardians-of-altarris-the-sinless-blade.json](./322213-guardians-of-altarris-the-sinless-blade.json) |
 | Guardians of Atlas | 46726 | [46726-guardians-of-atlas.json](./46726-guardians-of-atlas.json) |
