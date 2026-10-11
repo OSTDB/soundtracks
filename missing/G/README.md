@@ -1391,6 +1391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gaula Survival | 272766 | [272766-gaula-survival.json](./272766-gaula-survival.json) |
 | Gauley | 341327 | [341327-gauley.json](./341327-gauley.json) |
 | Gaung | 362998 | [362998-gaung.json](./362998-gaung.json) |
+| Gauntler | 261166 | [261166-gauntler.json](./261166-gauntler.json) |
 | Gauntlet | 330890 | [330890-gauntlet.json](./330890-gauntlet.json) |
 | Gauntlet | 381045 | [381045-gauntlet.json](./381045-gauntlet.json) |
 | Gauntlet | 7293 | [7293-gauntlet.json](./7293-gauntlet.json) |
@@ -3106,6 +3107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gloom Gate | 417428 | [417428-gloom-gate.json](./417428-gloom-gate.json) |
 | Gloom: Digital Edition | 197770 | [197770-gloom-digital-edition.json](./197770-gloom-digital-edition.json) |
 | Gloom: Unhappy Homes | 168770 | [168770-gloom-unhappy-homes.json](./168770-gloom-unhappy-homes.json) |
+| Gloombase | 261171 | [261171-gloombase.json](./261171-gloombase.json) |
 | Gloombo | 422091 | [422091-gloombo.json](./422091-gloombo.json) |
 | Gloomfall | 336671 | [336671-gloomfall.json](./336671-gloomfall.json) |
 | Gloomhaven | 106803 | [106803-gloomhaven.json](./106803-gloomhaven.json) |
