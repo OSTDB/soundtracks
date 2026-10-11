@@ -2046,6 +2046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oops, I said Yes?! | 239870 | [239870-oops-i-said-yes.json](./239870-oops-i-said-yes.json) |
 | Oops! All Greyboxes! | 262548 | [262548-oops-all-greyboxes.json](./262548-oops-all-greyboxes.json) |
 | Oops! All Gyarus! | 294991 | [294991-oops-all-gyarus.json](./294991-oops-all-gyarus.json) |
+| Oops! All Techbase | 259493 | [259493-oops-all-techbase.json](./259493-oops-all-techbase.json) |
 | Oops! Inc. Emergency Center | 395044 | [395044-oops-inc-emergency-center.json](./395044-oops-inc-emergency-center.json) |
 | Oops! Simulator | 390757 | [390757-oops-simulator.json](./390757-oops-simulator.json) |
 | Oops! You're the Hero! | 412427 | [412427-oops-youre-the-hero.json](./412427-oops-youre-the-hero.json) |
