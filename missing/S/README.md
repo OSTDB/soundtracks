@@ -5877,6 +5877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shots Fired | 55221 | [55221-shots-fired.json](./55221-shots-fired.json) |
 | Shotz.io | 125848 | [125848-shotz-io.json](./125848-shotz-io.json) |
 | Shòu'ěr Gōnglüè TFK Faculty | 119641 | [119641-shouer-gonglue-tfk-faculty.json](./119641-shouer-gonglue-tfk-faculty.json) |
+| Shougakusei Atarimae Test | 266161 | [266161-shougakusei-atarimae-test.json](./266161-shougakusei-atarimae-test.json) |
 | Shougakusei no Uchi ni Oboetai Eitango | 260693 | [260693-shougakusei-no-uchi-ni-oboetai-eitango.json](./260693-shougakusei-no-uchi-ni-oboetai-eitango.json) |
 | Shougi ga Tsuyokunaru: Gekisashi - Jouseki Doujou | 269528 | [269528-shougi-ga-tsuyokunaru-gekisashi-jouseki-doujou.json](./269528-shougi-ga-tsuyokunaru-gekisashi-jouseki-doujou.json) |
 | Shoujo Activity | 194606 | [194606-shoujo-activity.json](./194606-shoujo-activity.json) |
@@ -19086,6 +19087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Astro Space Blast | 387542 | [387542-super-astro-space-blast.json](./387542-super-astro-space-blast.json) |
 | Super Astrovade | 164950 | [164950-super-astrovade.json](./164950-super-astrovade.json) |
 | Super Ate in Wonderland | 195192 | [195192-super-ate-in-wonderland.json](./195192-super-ate-in-wonderland.json) |
+| Super Atomic | 266131 | [266131-super-atomic.json](./266131-super-atomic.json) |
 | Super Auto Pets | 146641 | [146641-super-auto-pets.json](./146641-super-auto-pets.json) |
 | Super Auto Racing | 245581 | [245581-super-auto-racing.json](./245581-super-auto-racing.json) |
 | Super Auto Salon: Custom Car Contest | 133782 | [133782-super-auto-salon-custom-car-contest.json](./133782-super-auto-salon-custom-car-contest.json) |
@@ -19444,6 +19446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Fire Pro Wrestling X | 38287 | [38287-super-fire-pro-wrestling-x.json](./38287-super-fire-pro-wrestling-x.json) |
 | Super Fire Pro Wrestling: Queen's Special | 38282 | [38282-super-fire-pro-wrestling-queens-special.json](./38282-super-fire-pro-wrestling-queens-special.json) |
 | Super Fish Bets | 399178 | [399178-super-fish-bets.json](./399178-super-fish-bets.json) |
+| Super Fishermind | 266139 | [266139-super-fishermind.json](./266139-super-fishermind.json) |
 | Super Flail | 105387 | [105387-super-flail.json](./105387-super-flail.json) |
 | Super Flappy Golf | 346724 | [346724-super-flappy-golf.json](./346724-super-flappy-golf.json) |
 | Super Flash Mario Bros. | 302759 | [302759-super-flash-mario-bros.json](./302759-super-flash-mario-bros.json) |
