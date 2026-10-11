@@ -1143,6 +1143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tamara In The Forsaken Dungeon | 276284 | [276284-tamara-in-the-forsaken-dungeon.json](./276284-tamara-in-the-forsaken-dungeon.json) |
 | Tamarak Trail | 240982 | [240982-tamarak-trail.json](./240982-tamarak-trail.json) |
 | Tamarin | 117735 | [117735-tamarin.json](./117735-tamarin.json) |
+| Tamas Awakening | 247945 | [247945-tamas-awakening.json](./247945-tamas-awakening.json) |
 | Tamas: Shadowveil | 410963 | [410963-tamas-shadowveil.json](./410963-tamas-shadowveil.json) |
 | Tamashi Party | 196673 | [196673-tamashi-party.json](./196673-tamashi-party.json) |
 | Tamashi: Rise of Yokai | 196586 | [196586-tamashi-rise-of-yokai.json](./196586-tamashi-rise-of-yokai.json) |
@@ -3369,6 +3370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | That Night | 218733 | [218733-that-night.json](./218733-that-night.json) |
 | That One Celestial Night | 176495 | [176495-that-one-celestial-night.json](./176495-that-one-celestial-night.json) |
 | That One Otter Game | 355527 | [355527-that-one-otter-game.json](./355527-that-one-otter-game.json) |
+| That Potato Game | 247951 | [247951-that-potato-game.json](./247951-that-potato-game.json) |
 | That Puzzle Game Everyone Knows | 135023 | [135023-that-puzzle-game-everyone-knows.json](./135023-that-puzzle-game-everyone-knows.json) |
 | That Racecar Game | 241651 | [241651-that-racecar-game.json](./241651-that-racecar-game.json) |
 | That Rocket Game | 244356 | [244356-that-rocket-game.json](./244356-that-rocket-game.json) |
@@ -7575,6 +7577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Gas Station | 354933 | [354933-the-last-gas-station.json](./354933-the-last-gas-station.json) |
 | The Last Gift | 381102 | [381102-the-last-gift.json](./381102-the-last-gift.json) |
 | The Last Girl ~ Janna's diary of survive | 103658 | [103658-the-last-girl-jannas-diary-of-survive.json](./103658-the-last-girl-jannas-diary-of-survive.json) |
+| The Last Golden Fox | 247930 | [247930-the-last-golden-fox.json](./247930-the-last-golden-fox.json) |
 | The Last Good Boy | 407333 | [407333-the-last-good-boy.json](./407333-the-last-good-boy.json) |
 | The Last Guardian: Collector's Edition | 38490 | [38490-the-last-guardian-collectors-edition.json](./38490-the-last-guardian-collectors-edition.json) |
 | The Last Guardian: Limited Edition | 405004 | [405004-the-last-guardian-limited-edition.json](./405004-the-last-guardian-limited-edition.json) |
@@ -9230,6 +9233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Outpost Nine | 105325 | [105325-the-outpost-nine.json](./105325-the-outpost-nine.json) |
 | The Outreach | 294360 | [294360-the-outreach.json](./294360-the-outreach.json) |
 | The Outsider | 180560 | [180560-the-outsider.json](./180560-the-outsider.json) |
+| The Outsiders | 247952 | [247952-the-outsiders.json](./247952-the-outsiders.json) |
 | The Outskirts | 412394 | [412394-the-outskirts.json](./412394-the-outskirts.json) |
 | The Overlook Rehaunted | 276762 | [276762-the-overlook-rehaunted.json](./276762-the-overlook-rehaunted.json) |
 | The Overnight Watch | 321438 | [321438-the-overnight-watch.json](./321438-the-overnight-watch.json) |
@@ -20465,6 +20469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tutien Path | 361596 | [361596-tutien-path.json](./361596-tutien-path.json) |
 | Tutorial | 231092 | [231092-tutorial.json](./231092-tutorial.json) |
 | Tutti Frutti | 54932 | [54932-tutti-frutti.json](./54932-tutti-frutti.json) |
+| Tuttle: Star Flower Harvest | 247934 | [247934-tuttle-star-flower-harvest.json](./247934-tuttle-star-flower-harvest.json) |
 | Tutututu: Tea party | 120318 | [120318-tutututu-tea-party.json](./120318-tutututu-tea-party.json) |
 | Tux and Fanny | 166675 | [166675-tux-and-fanny.json](./166675-tux-and-fanny.json) |
 | Tux Typing | 210605 | [210605-tux-typing.json](./210605-tux-typing.json) |
