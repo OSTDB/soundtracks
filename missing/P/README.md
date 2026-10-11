@@ -2439,6 +2439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peganomics | 371999 | [371999-peganomics.json](./371999-peganomics.json) |
 | Pegasis | 298866 | [298866-pegasis.json](./298866-pegasis.json) |
 | Pegasis Odyssey | 373350 | [373350-pegasis-odyssey.json](./373350-pegasis-odyssey.json) |
+| Pegasus II | 254970 | [254970-pegasus-ii.json](./254970-pegasus-ii.json) |
 | Pegasus-5: Gone Astray | 104797 | [104797-pegasus-5-gone-astray.json](./104797-pegasus-5-gone-astray.json) |
 | Pegaxy | 188410 | [188410-pegaxy.json](./188410-pegaxy.json) |
 | Pegged | 312228 | [312228-pegged.json](./312228-pegged.json) |
@@ -3598,6 +3599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Photo Kano | 77420 | [77420-photo-kano.json](./77420-photo-kano.json) |
 | Photo Phantasy | 47959 | [47959-photo-phantasy.json](./47959-photo-phantasy.json) |
 | Photo Quiz: 4 pics, 1 thing in common - what’s the word? | 232568 | [232568-photo-quiz-4-pics-1-thing-in-common-what-s-the-word.json](./232568-photo-quiz-4-pics-1-thing-in-common-what-s-the-word.json) |
+| Photo Spot | 255005 | [255005-photo-spot.json](./255005-photo-spot.json) |
 | Photo Y2K | 142858 | [142858-photo-y2k.json](./142858-photo-y2k.json) |
 | Photobia: Tales from the Dark | 298660 | [298660-photobia-tales-from-the-dark.json](./298660-photobia-tales-from-the-dark.json) |
 | Photobound | 181164 | [181164-photobound.json](./181164-photobound.json) |
@@ -9016,6 +9018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prince of Persia: Warrior Within HD | 99586 | [99586-prince-of-persia-warrior-within-hd.json](./99586-prince-of-persia-warrior-within-hd.json) |
 | Prince of Prussia | 336715 | [336715-prince-of-prussia.json](./336715-prince-of-prussia.json) |
 | Prince of Qin | 51402 | [51402-prince-of-qin.json](./51402-prince-of-qin.json) |
+| Prince of the Resort | 254950 | [254950-prince-of-the-resort.json](./254950-prince-of-the-resort.json) |
 | Prince Rystiya's Starfleet | 341557 | [341557-prince-rystiyas-starfleet.json](./341557-prince-rystiyas-starfleet.json) |
 | Prince Rystiya's Starship | 341556 | [341556-prince-rystiyas-starship.json](./341556-prince-rystiyas-starship.json) |
 | Princes of Darkness | 356034 | [356034-princes-of-darkness.json](./356034-princes-of-darkness.json) |
