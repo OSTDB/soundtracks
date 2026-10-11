@@ -51,6 +51,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | M.U.D. Rally | 233244 | [233244-m-u-d-rally.json](./233244-m-u-d-rally.json) |
 | M.U.S.E. | 61136 | [61136-m-u-s-e.json](./61136-m-u-s-e.json) |
 | M.V.P. | 197957 | [197957-m-v-p.json](./197957-m-v-p.json) |
+| M(ae)rry-go-round | 255565 | [255565-m-ae-rry-go-round.json](./255565-m-ae-rry-go-round.json) |
 | M*A*S*H | 22734 | [22734-m-a-s-h.json](./22734-m-a-s-h.json) |
 | M*A*S*H: The Adventure Game | 327234 | [327234-m-a-s-h-the-adventure-game.json](./327234-m-a-s-h-the-adventure-game.json) |
 | M&M's Beach Party | 50703 | [50703-m-and-ms-beach-party.json](./50703-m-and-ms-beach-party.json) |
@@ -10536,6 +10537,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | More Panda: Slot Creator | 329165 | [329165-more-panda-slot-creator.json](./329165-more-panda-slot-creator.json) |
 | More Popcorn! | 256791 | [256791-more-popcorn.json](./256791-more-popcorn.json) |
 | More Sundaes! | 256790 | [256790-more-sundaes.json](./256790-more-sundaes.json) |
+| More Super Mario "Bras." 2: Choose a Path! | 255599 | [255599-more-super-mario-bras-2-choose-a-path.json](./255599-more-super-mario-bras-2-choose-a-path.json) |
+| More Super Mario "Bras." Beginner's Edition DS | 255597 | [255597-more-super-mario-bras-beginners-edition-ds.json](./255597-more-super-mario-bras-beginners-edition-ds.json) |
 | More Sushi! | 366433 | [366433-more-sushi.json](./366433-more-sushi.json) |
 | More Than Human | 278531 | [278531-more-than-human.json](./278531-more-than-human.json) |
 | More Than Just Chess | 75008 | [75008-more-than-just-chess.json](./75008-more-than-just-chess.json) |
