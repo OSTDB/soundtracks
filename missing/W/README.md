@@ -38,6 +38,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wacky Chariots | 196887 | [196887-wacky-chariots.json](./196887-wacky-chariots.json) |
 | Wacky Coursers | 389748 | [389748-wacky-coursers.json](./389748-wacky-coursers.json) |
 | Wacky Darts | 93352 | [93352-wacky-darts.json](./93352-wacky-darts.json) |
+| Wacky Escape | 276151 | [276151-wacky-escape.json](./276151-wacky-escape.json) |
 | Wacky Jumpers | 288473 | [288473-wacky-jumpers.json](./288473-wacky-jumpers.json) |
 | Wacky Races | 12817 | [12817-wacky-races.json](./12817-wacky-races.json) |
 | Wacky Races | 81547 | [81547-wacky-races.json](./81547-wacky-races.json) |
@@ -1587,6 +1588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waterworld | 133281 | [133281-waterworld.json](./133281-waterworld.json) |
 | Waterworld | 338817 | [338817-waterworld.json](./338817-waterworld.json) |
 | Watris | 306037 | [306037-watris.json](./306037-watris.json) |
+| Watson | 276150 | [276150-watson.json](./276150-watson.json) |
 | Watson's Watch | 33477 | [33477-watsons-watch.json](./33477-watsons-watch.json) |
 | Watsonville | 401076 | [401076-watsonville.json](./401076-watsonville.json) |
 | WattGames | 298138 | [298138-wattgames.json](./298138-wattgames.json) |
@@ -1597,6 +1599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wave Break | 113602 | [113602-wave-break.json](./113602-wave-break.json) |
 | Wave Buxters | 329574 | [329574-wave-buxters.json](./329574-wave-buxters.json) |
 | Wave Circles | 117840 | [117840-wave-circles.json](./117840-wave-circles.json) |
+| Wave Dungeon | 276138 | [276138-wave-dungeon.json](./276138-wave-dungeon.json) |
 | Wave Gods: Ammo Night | 395781 | [395781-wave-gods-ammo-night.json](./395781-wave-gods-ammo-night.json) |
 | Wave Machine | 179602 | [179602-wave-machine.json](./179602-wave-machine.json) |
 | Wave Magic VR | 31723 | [31723-wave-magic-vr.json](./31723-wave-magic-vr.json) |
@@ -3803,6 +3806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winter Mosaics | 415908 | [415908-winter-mosaics.json](./415908-winter-mosaics.json) |
 | Winter Night | 287700 | [287700-winter-night.json](./287700-winter-night.json) |
 | Winter Night: Terrorist Strike | 224086 | [224086-winter-night-terrorist-strike.json](./224086-winter-night-terrorist-strike.json) |
+| Winter of the Arbyen | 276139 | [276139-winter-of-the-arbyen.json](./276139-winter-of-the-arbyen.json) |
 | Winter Olympic Games | 365673 | [365673-winter-olympic-games.json](./365673-winter-olympic-games.json) |
 | Winter Olympic Games | 365674 | [365674-winter-olympic-games.json](./365674-winter-olympic-games.json) |
 | Winter Olympic Games | 365676 | [365676-winter-olympic-games.json](./365676-winter-olympic-games.json) |
