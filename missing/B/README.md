@@ -2780,6 +2780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battleplan | 375578 | [375578-battleplan.json](./375578-battleplan.json) |
 | Battleplan: American Civil War | 10041 | [10041-battleplan-american-civil-war.json](./10041-battleplan-american-civil-war.json) |
 | BattlePlatform | 283985 | [283985-battleplatform.json](./283985-battleplatform.json) |
+| Battlepopes | 256728 | [256728-battlepopes.json](./256728-battlepopes.json) |
 | Battler | 290926 | [290926-battler.json](./290926-battler.json) |
 | Battler Brawlers | 95622 | [95622-battler-brawlers.json](./95622-battler-brawlers.json) |
 | Battlerace | 201591 | [201591-battlerace.json](./201591-battlerace.json) |
@@ -5347,6 +5348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bit Heroes Runner | 263569 | [263569-bit-heroes-runner.json](./263569-bit-heroes-runner.json) |
 | Bit Lost | 363963 | [363963-bit-lost.json](./363963-bit-lost.json) |
 | Bit Maze | 406319 | [406319-bit-maze.json](./406319-bit-maze.json) |
+| Bit Orchard: Animal Valley - Amazing Edition | 256762 | [256762-bit-orchard-animal-valley-amazing-edition.json](./256762-bit-orchard-animal-valley-amazing-edition.json) |
 | Bit Orchard: Animal Valley - Complete Edition | 232997 | [232997-bit-orchard-animal-valley-complete-edition.json](./232997-bit-orchard-animal-valley-complete-edition.json) |
 | Bit Orchard: Animal Valley - Director's Cut | 246876 | [246876-bit-orchard-animal-valley-directors-cut.json](./246876-bit-orchard-animal-valley-directors-cut.json) |
 | Bit Orchard: Animal Valley - Extended Edition | 212355 | [212355-bit-orchard-animal-valley-extended-edition.json](./212355-bit-orchard-animal-valley-extended-edition.json) |
@@ -8939,6 +8941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brain Memory: Complete Edition | 246877 | [246877-brain-memory-complete-edition.json](./246877-brain-memory-complete-edition.json) |
 | Brain Memory: Director's Cut | 261365 | [261365-brain-memory-directors-cut.json](./261365-brain-memory-directors-cut.json) |
 | Brain Memory: Game of the Year Edition | 266167 | [266167-brain-memory-game-of-the-year-edition.json](./266167-brain-memory-game-of-the-year-edition.json) |
+| Brain Memory: Platinum Edition | 256763 | [256763-brain-memory-platinum-edition.json](./256763-brain-memory-platinum-edition.json) |
 | Brain Memory: Premium Edition | 241394 | [241394-brain-memory-premium-edition.json](./241394-brain-memory-premium-edition.json) |
 | Brain Off | 172101 | [172101-brain-off.json](./172101-brain-off.json) |
 | Brain on Physics Boxs Puzzles | 86990 | [86990-brain-on-physics-boxs-puzzles.json](./86990-brain-on-physics-boxs-puzzles.json) |
