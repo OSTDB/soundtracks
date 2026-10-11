@@ -3649,6 +3649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chariot: Adventure Through the Sky | 361331 | [361331-chariot-adventure-through-the-sky.json](./361331-chariot-adventure-through-the-sky.json) |
 | Chariot: Royal Gadget Pack | 252764 | [252764-chariot-royal-gadget-pack.json](./252764-chariot-royal-gadget-pack.json) |
 | Charisma | 313445 | [313445-charisma.json](./313445-charisma.json) |
+| Charles Haunted Mansion | 265519 | [265519-charles-haunted-mansion.json](./265519-charles-haunted-mansion.json) |
 | Charles the Bee | 258641 | [258641-charles-the-bee.json](./258641-charles-the-bee.json) |
 | Charles: The Full Story | 281991 | [281991-charles-the-full-story.json](./281991-charles-the-full-story.json) |
 | Charley's Day | 218979 | [218979-charleys-day.json](./218979-charleys-day.json) |
@@ -7003,6 +7004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cold Engines | 199474 | [199474-cold-engines.json](./199474-cold-engines.json) |
 | Cold Fear | 5780 | [5780-cold-fear.json](./5780-cold-fear.json) |
 | Cold Front | 261455 | [261455-cold-front.json](./261455-cold-front.json) |
+| Cold Ground | 265523 | [265523-cold-ground.json](./265523-cold-ground.json) |
 | Cold Harvest | 191195 | [191195-cold-harvest.json](./191195-cold-harvest.json) |
 | Cold Heart | 138683 | [138683-cold-heart.json](./138683-cold-heart.json) |
 | Cold Hill | 153897 | [153897-cold-hill.json](./153897-cold-hill.json) |
@@ -7594,6 +7596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Combat Instinct | 387086 | [387086-combat-instinct.json](./387086-combat-instinct.json) |
 | Combat Instinct II | 387087 | [387087-combat-instinct-ii.json](./387087-combat-instinct-ii.json) |
 | Combat Jam 1 | 300418 | [300418-combat-jam-1.json](./300418-combat-jam-1.json) |
+| Combat Kart | 265522 | [265522-combat-kart.json](./265522-combat-kart.json) |
 | Combat Leader | 24914 | [24914-combat-leader.json](./24914-combat-leader.json) |
 | Combat Lynx | 12946 | [12946-combat-lynx.json](./12946-combat-lynx.json) |
 | Combat Martial Boss Edition | 104573 | [104573-combat-martial-boss-edition.json](./104573-combat-martial-boss-edition.json) |
