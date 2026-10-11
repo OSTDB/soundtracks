@@ -4680,6 +4680,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | High Strategy: Urukon | 132585 | [132585-high-strategy-urukon.json](./132585-high-strategy-urukon.json) |
 | High Up | 309440 | [309440-high-up.json](./309440-high-up.json) |
 | High Velocity: Mountain Racing Challenge | 45519 | [45519-high-velocity-mountain-racing-challenge.json](./45519-high-velocity-mountain-racing-challenge.json) |
+| High/Low 2 | 263417 | [263417-high-low-2.json](./263417-high-low-2.json) |
+| High/Low 5 | 263414 | [263414-high-low-5.json](./263414-high-low-5.json) |
 | Highball | 119731 | [119731-highball.json](./119731-highball.json) |
 | Highblast | 189066 | [189066-highblast.json](./189066-highblast.json) |
 | Highborn: Chapter 2 | 168838 | [168838-highborn-chapter-2.json](./168838-highborn-chapter-2.json) |
@@ -4807,11 +4809,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Higurashi no Naku Koro ni: Watanagashi-hen | 263687 | [263687-higurashi-no-naku-koro-ni-watanagashi-hen.json](./263687-higurashi-no-naku-koro-ni-watanagashi-hen.json) |
 | Higurashi When They Cry | 9700 | [9700-higurashi-when-they-cry.json](./9700-higurashi-when-they-cry.json) |
 | Higurashi When They Cry Hou - Console Arcs | 347709 | [347709-higurashi-when-they-cry-hou-console-arcs.json](./347709-higurashi-when-they-cry-hou-console-arcs.json) |
+| Higurashi When They Cry Hou: Answer Arcs | 263403 | [263403-higurashi-when-they-cry-hou-answer-arcs.json](./263403-higurashi-when-they-cry-hou-answer-arcs.json) |
 | Higurashi When They Cry Hou: Ch.2 Watanagashi | 34268 | [34268-higurashi-when-they-cry-hou-ch-2-watanagashi.json](./34268-higurashi-when-they-cry-hou-ch-2-watanagashi.json) |
 | Higurashi When They Cry Hou: Ch.4 Himatsubushi | 31363 | [31363-higurashi-when-they-cry-hou-ch-4-himatsubushi.json](./31363-higurashi-when-they-cry-hou-ch-4-himatsubushi.json) |
 | Higurashi When They Cry Hou: Ch.5 Meakashi | 29837 | [29837-higurashi-when-they-cry-hou-ch-5-meakashi.json](./29837-higurashi-when-they-cry-hou-ch-5-meakashi.json) |
 | Higurashi When They Cry Hou: Ch.6 Tsumihoroboshi | 102266 | [102266-higurashi-when-they-cry-hou-ch-6-tsumihoroboshi.json](./102266-higurashi-when-they-cry-hou-ch-6-tsumihoroboshi.json) |
 | Higurashi When They Cry Hou: Ch.7 Minagoroshi | 120148 | [120148-higurashi-when-they-cry-hou-ch-7-minagoroshi.json](./120148-higurashi-when-they-cry-hou-ch-7-minagoroshi.json) |
+| Higurashi When They Cry Hou: Question Arcs | 263402 | [263402-higurashi-when-they-cry-hou-question-arcs.json](./263402-higurashi-when-they-cry-hou-question-arcs.json) |
 | Higurashi When They Cry Hou+ | 273086 | [273086-higurashi-when-they-cry-hou.json](./273086-higurashi-when-they-cry-hou.json) |
 | Higurashi When They Cry Hou+: Mehagashi Chapter | 273084 | [273084-higurashi-when-they-cry-hou-mehagashi-chapter.json](./273084-higurashi-when-they-cry-hou-mehagashi-chapter.json) |
 | Higurashiki | 229647 | [229647-higurashiki.json](./229647-higurashiki.json) |
