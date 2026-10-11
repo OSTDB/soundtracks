@@ -4681,6 +4681,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flawless | 219790 | [219790-flawless.json](./219790-flawless.json) |
 | Flawless Darkness | 260238 | [260238-flawless-darkness.json](./260238-flawless-darkness.json) |
 | Flaws in the People We Love | 117571 | [117571-flaws-in-the-people-we-love.json](./117571-flaws-in-the-people-we-love.json) |
+| Flay the Obscene: Compilation | 263410 | [263410-flay-the-obscene-compilation.json](./263410-flay-the-obscene-compilation.json) |
+| Flay the Obscene: Reversed | 263412 | [263412-flay-the-obscene-reversed.json](./263412-flay-the-obscene-reversed.json) |
 | FLChess | 334812 | [334812-flchess.json](./334812-flchess.json) |
 | Flea the Cat | 242058 | [242058-flea-the-cat.json](./242058-flea-the-cat.json) |
 | Flea War | 334679 | [334679-flea-war.json](./334679-flea-war.json) |
@@ -6431,6 +6433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortnite: Chapter 3 - Season 2: Resistance | 194664 | [194664-fortnite-chapter-3-season-2-resistance.json](./194664-fortnite-chapter-3-season-2-resistance.json) |
 | Fortnite: Chapter 4 | 228328 | [228328-fortnite-chapter-4.json](./228328-fortnite-chapter-4.json) |
 | Fortnite: Chapter 4 - Season 2: Mega | 241495 | [241495-fortnite-chapter-4-season-2-mega.json](./241495-fortnite-chapter-4-season-2-mega.json) |
+| Fortnite: Chapter 4 - Season 4: Last Resort | 263398 | [263398-fortnite-chapter-4-season-4-last-resort.json](./263398-fortnite-chapter-4-season-4-last-resort.json) |
 | Fortnite: Chapter 4 - Season OG | 275141 | [275141-fortnite-chapter-4-season-og.json](./275141-fortnite-chapter-4-season-og.json) |
 | Fortnite: Chapter 5 - Season 2: Myths & Mortals | 290301 | [290301-fortnite-chapter-5-season-2-myths-and-mortals.json](./290301-fortnite-chapter-5-season-2-myths-and-mortals.json) |
 | Fortnite: Chapter 5 - Season 3: Wrecked | 302611 | [302611-fortnite-chapter-5-season-3-wrecked.json](./302611-fortnite-chapter-5-season-3-wrecked.json) |
@@ -8343,6 +8346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Funny Racer | 305350 | [305350-funny-racer.json](./305350-funny-racer.json) |
 | Funny Rain | 314924 | [314924-funny-rain.json](./314924-funny-rain.json) |
 | Funny Rat Game 2 | 404907 | [404907-funny-rat-game-2.json](./404907-funny-rat-game-2.json) |
+| Funny Soccer | 263411 | [263411-funny-soccer.json](./263411-funny-soccer.json) |
 | Funny Volleyball | 384274 | [384274-funny-volleyball.json](./384274-funny-volleyball.json) |
 | Funny words | 103911 | [103911-funny-words.json](./103911-funny-words.json) |
 | Funny Yo | 96901 | [96901-funny-yo.json](./96901-funny-yo.json) |
