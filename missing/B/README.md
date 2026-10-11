@@ -975,6 +975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ball und Panzer Golf | 272478 | [272478-ball-und-panzer-golf.json](./272478-ball-und-panzer-golf.json) |
 | Ball Vader MAX | 115432 | [115432-ball-vader-max.json](./115432-ball-vader-max.json) |
 | Ball vs Block | 186185 | [186185-ball-vs-block.json](./186185-ball-vs-block.json) |
+| Ball Wall | 246864 | [246864-ball-wall.json](./246864-ball-wall.json) |
 | Ball-e | 229823 | [229823-ball-e.json](./229823-ball-e.json) |
 | Ball-istic | 258436 | [258436-ball-istic.json](./258436-ball-istic.json) |
 | Ball-it Hell | 302492 | [302492-ball-it-hell.json](./302492-ball-it-hell.json) |
@@ -4803,6 +4804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Biker Mice From Mars | 15915 | [15915-biker-mice-from-mars.json](./15915-biker-mice-from-mars.json) |
 | Bikerz | 119018 | [119018-bikerz.json](./119018-bikerz.json) |
 | biketerra | 316177 | [316177-biketerra.json](./316177-biketerra.json) |
+| Biki Biki Flip | 246863 | [246863-biki-biki-flip.json](./246863-biki-biki-flip.json) |
 | Bikini Balls 2: Christmas Edition | 216455 | [216455-bikini-balls-2-christmas-edition.json](./216455-bikini-balls-2-christmas-edition.json) |
 | Bikini Beach: Anime Girls Assault | 301510 | [301510-bikini-beach-anime-girls-assault.json](./301510-bikini-beach-anime-girls-assault.json) |
 | Bikini Beach: Stunt Racer | 73750 | [73750-bikini-beach-stunt-racer.json](./73750-bikini-beach-stunt-racer.json) |
@@ -6740,6 +6742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloo Kid | 58463 | [58463-bloo-kid.json](./58463-bloo-kid.json) |
 | Bloob.io | 377974 | [377974-bloob-io.json](./377974-bloob-io.json) |
 | Bloobs Adventure Idle | 303165 | [303165-bloobs-adventure-idle.json](./303165-bloobs-adventure-idle.json) |
+| Blooby Block | 246862 | [246862-blooby-block.json](./246862-blooby-block.json) |
 | Blood 'n Bikinis | 54815 | [54815-blood-n-bikinis.json](./54815-blood-n-bikinis.json) |
 | Blood 'N Bullets | 239778 | [239778-blood-n-bullets.json](./239778-blood-n-bullets.json) |
 | Blood 'n Guts | 37070 | [37070-blood-n-guts.json](./37070-blood-n-guts.json) |
@@ -10922,6 +10925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burger For Me | 180607 | [180607-burger-for-me.json](./180607-burger-for-me.json) |
 | Burger Fun | 205254 | [205254-burger-fun.json](./205254-burger-fun.json) |
 | Burger Girl Clicker | 337814 | [337814-burger-girl-clicker.json](./337814-burger-girl-clicker.json) |
+| Burger Impact: Solar Strike | 246868 | [246868-burger-impact-solar-strike.json](./246868-burger-impact-solar-strike.json) |
 | Burger Island 2: The Missing Ingredient | 206694 | [206694-burger-island-2-the-missing-ingredient.json](./206694-burger-island-2-the-missing-ingredient.json) |
 | Burger Jack | 65447 | [65447-burger-jack.json](./65447-burger-jack.json) |
 | Burger Joint Simulator | 401614 | [401614-burger-joint-simulator.json](./401614-burger-joint-simulator.json) |
@@ -11236,6 +11240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Busty Maid: Creampie Heaven | 127964 | [127964-busty-maid-creampie-heaven.json](./127964-busty-maid-creampie-heaven.json) |
 | BustyBiz: Anna Pack | 265252 | [265252-bustybiz-anna-pack.json](./265252-bustybiz-anna-pack.json) |
 | Busy Bea's Halftime Hustle | 349295 | [349295-busy-beas-halftime-hustle.json](./349295-busy-beas-halftime-hustle.json) |
+| Busy Bee | 246866 | [246866-busy-bee.json](./246866-busy-bee.json) |
 | Busy Busy Beaver | 134399 | [134399-busy-busy-beaver.json](./134399-busy-busy-beaver.json) |
 | Busy Scissors | 50594 | [50594-busy-scissors.json](./50594-busy-scissors.json) |
 | Busy Sweets Factory | 44499 | [44499-busy-sweets-factory.json](./44499-busy-sweets-factory.json) |
