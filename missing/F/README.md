@@ -1121,6 +1121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fangs and Friends | 176436 | [176436-fangs-and-friends.json](./176436-fangs-and-friends.json) |
 | Fangs: The Saga of Wolf Blood | 221965 | [221965-fangs-the-saga-of-wolf-blood.json](./221965-fangs-the-saga-of-wolf-blood.json) |
 | Fangtopia | 349380 | [349380-fangtopia.json](./349380-fangtopia.json) |
+| Fangun | 243570 | [243570-fangun.json](./243570-fangun.json) |
 | Fania | 258471 | [258471-fania.json](./258471-fania.json) |
 | Fanite | 195108 | [195108-fanite.json](./195108-fanite.json) |
 | Fans Rush | 104700 | [104700-fans-rush.json](./104700-fans-rush.json) |
@@ -1791,6 +1792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farwake | 403666 | [403666-farwake.json](./403666-farwake.json) |
 | FarWest Colony | 269019 | [269019-farwest-colony.json](./269019-farwest-colony.json) |
 | Farwoods | 203248 | [203248-farwoods.json](./203248-farwoods.json) |
+| FAS: Fight Action Sandbox | 243569 | [243569-fas-fight-action-sandbox.json](./243569-fas-fight-action-sandbox.json) |
 | Fasaria World Online | 34530 | [34530-fasaria-world-online.json](./34530-fasaria-world-online.json) |
 | Fasaria World: Ancients of Moons | 53051 | [53051-fasaria-world-ancients-of-moons.json](./53051-fasaria-world-ancients-of-moons.json) |
 | Fascination | 10793 | [10793-fascination.json](./10793-fascination.json) |
@@ -5336,6 +5338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flux Heroes | 410314 | [410314-flux-heroes.json](./410314-flux-heroes.json) |
 | Flux8 | 50513 | [50513-flux8.json](./50513-flux8.json) |
 | Fluxgates | 417364 | [417364-fluxgates.json](./417364-fluxgates.json) |
+| Fluxion | 243568 | [243568-fluxion.json](./243568-fluxion.json) |
 | Fluxly | 106484 | [106484-fluxly.json](./106484-fluxly.json) |
 | FLW Professional Bass Tournament 2000 | 74028 | [74028-flw-professional-bass-tournament-2000.json](./74028-flw-professional-bass-tournament-2000.json) |
 | Fly & Poop | 200182 | [200182-fly-and-poop.json](./200182-fly-and-poop.json) |
@@ -6286,6 +6289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forlorn Outcast | 260226 | [260226-forlorn-outcast.json](./260226-forlorn-outcast.json) |
 | Forlorn Screams of Agony Echoing Forevermore | 374233 | [374233-forlorn-screams-of-agony-echoing-forevermore.json](./374233-forlorn-screams-of-agony-echoing-forevermore.json) |
 | Form | 28446 | [28446-form.json](./28446-form.json) |
+| Form Fitting | 243567 | [243567-form-fitting.json](./243567-form-fitting.json) |
 | Form of a Legend | 132800 | [132800-form-of-a-legend.json](./132800-form-of-a-legend.json) |
 | Formaggio 2 | 327365 | [327365-formaggio-2.json](./327365-formaggio-2.json) |
 | Format | 312580 | [312580-format.json](./312580-format.json) |
@@ -8472,6 +8476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furi: One More Fight | 53090 | [53090-furi-one-more-fight.json](./53090-furi-one-more-fight.json) |
 | Furi: Onnamusha | 200436 | [200436-furi-onnamusha.json](./200436-furi-onnamusha.json) |
 | Furidashi: Drift Cyber Sport | 74669 | [74669-furidashi-drift-cyber-sport.json](./74669-furidashi-drift-cyber-sport.json) |
+| Furies & Magazines: Episode 1 | 243563 | [243563-furies-and-magazines-episode-1.json](./243563-furies-and-magazines-episode-1.json) |
 | Furikake Spacey | 216461 | [216461-furikake-spacey.json](./216461-furikake-spacey.json) |
 | Furiosity | 225286 | [225286-furiosity.json](./225286-furiosity.json) |
 | Furious Angels | 27743 | [27743-furious-angels.json](./27743-furious-angels.json) |
