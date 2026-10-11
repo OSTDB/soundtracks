@@ -1194,12 +1194,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Absolute BrickBuster | 76150 | [76150-absolute-brickbuster.json](./76150-absolute-brickbuster.json) |
 | Absolute Chess | 74418 | [74418-absolute-chess.json](./74418-absolute-chess.json) |
 | Absolute Doppelkopf | 79215 | [79215-absolute-doppelkopf.json](./79215-absolute-doppelkopf.json) |
+| Absolute Doppelkopf for Windows 11 | 264542 | [264542-absolute-doppelkopf-for-windows-11.json](./264542-absolute-doppelkopf-for-windows-11.json) |
 | Absolute Duo | 92286 | [92286-absolute-duo.json](./92286-absolute-duo.json) |
 | Absolute Fall | 119004 | [119004-absolute-fall.json](./119004-absolute-fall.json) |
 | Absolute Fear: Aooni | 296243 | [296243-absolute-fear-aooni.json](./296243-absolute-fear-aooni.json) |
 | Absolute Matter | 219697 | [219697-absolute-matter.json](./219697-absolute-matter.json) |
 | Absolute Pinball | 12376 | [12376-absolute-pinball.json](./12376-absolute-pinball.json) |
 | Absolute RC Simulator | 104560 | [104560-absolute-rc-simulator.json](./104560-absolute-rc-simulator.json) |
+| Absolute Schafkopf for Windows 11 | 264545 | [264545-absolute-schafkopf-for-windows-11.json](./264545-absolute-schafkopf-for-windows-11.json) |
 | Absolute Signalling | 414176 | [414176-absolute-signalling.json](./414176-absolute-signalling.json) |
 | Absolute Solitaire & Patience | 91558 | [91558-absolute-solitaire-and-patience.json](./91558-absolute-solitaire-and-patience.json) |
 | Absolute Talent | 227209 | [227209-absolute-talent.json](./227209-absolute-talent.json) |
@@ -7818,6 +7820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arch Drift | 114543 | [114543-arch-drift.json](./114543-arch-drift.json) |
 | Arch Rivals | 215083 | [215083-arch-rivals.json](./215083-arch-rivals.json) |
 | Arch Rivals | 242784 | [242784-arch-rivals.json](./242784-arch-rivals.json) |
+| Arch Rivals | 264540 | [264540-arch-rivals.json](./264540-arch-rivals.json) |
 | Arch Rivals | 4515 | [4515-arch-rivals.json](./4515-arch-rivals.json) |
 | Arch Virtual HQ | 105888 | [105888-arch-virtual-hq.json](./105888-arch-virtual-hq.json) |
 | Archa | 342117 | [342117-archa.json](./342117-archa.json) |
