@@ -1188,6 +1188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy 6 Pack | 86035 | [86035-fantasy-6-pack.json](./86035-fantasy-6-pack.json) |
 | Fantasy Adventure | 156145 | [156145-fantasy-adventure.json](./156145-fantasy-adventure.json) |
 | Fantasy Aquarium | 319878 | [319878-fantasy-aquarium.json](./319878-fantasy-aquarium.json) |
+| Fantasy Baseball | 246277 | [246277-fantasy-baseball.json](./246277-fantasy-baseball.json) |
 | Fantasy Battles | 109762 | [109762-fantasy-battles.json](./109762-fantasy-battles.json) |
 | Fantasy Beauties | 301512 | [301512-fantasy-beauties.json](./301512-fantasy-beauties.json) |
 | Fantasy Beauties - All Girls Photo Pack | 310636 | [310636-fantasy-beauties-all-girls-photo-pack.json](./310636-fantasy-beauties-all-girls-photo-pack.json) |
@@ -2562,6 +2563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fever | 256971 | [256971-fever.json](./256971-fever.json) |
 | Fever Cabin | 128439 | [128439-fever-cabin.json](./128439-fever-cabin.json) |
 | Fever Frenzy | 209420 | [209420-fever-frenzy.json](./209420-fever-frenzy.json) |
+| Fever Move | 246279 | [246279-fever-move.json](./246279-fever-move.json) |
 | Fevered Fantasy | 392308 | [392308-fevered-fantasy.json](./392308-fevered-fantasy.json) |
 | Few Nights More | 147351 | [147351-few-nights-more.json](./147351-few-nights-more.json) |
 | Few Nights More: Genesis | 278940 | [278940-few-nights-more-genesis.json](./278940-few-nights-more-genesis.json) |
@@ -3091,6 +3093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Duel 2: Deathmatch arena | 73775 | [73775-final-duel-2-deathmatch-arena.json](./73775-final-duel-2-deathmatch-arena.json) |
 | Final Dusk | 36046 | [36046-final-dusk.json](./36046-final-dusk.json) |
 | Final Echo | 348802 | [348802-final-echo.json](./348802-final-echo.json) |
+| Final Escape | 246327 | [246327-final-escape.json](./246327-final-escape.json) |
 | Final Exam | 7306 | [7306-final-exam.json](./7306-final-exam.json) |
 | Final Exam | 80480 | [80480-final-exam.json](./80480-final-exam.json) |
 | Final Exerion | 266984 | [266984-final-exerion.json](./266984-final-exerion.json) |
@@ -3365,6 +3368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Response | 323987 | [323987-final-response.json](./323987-final-response.json) |
 | Final Rites | 405685 | [405685-final-rites.json](./405685-final-rites.json) |
 | Final Round | 398954 | [398954-final-round.json](./398954-final-round.json) |
+| Final Round Tennis | 246328 | [246328-final-round-tennis.json](./246328-final-round-tennis.json) |
 | Final Saga | 66763 | [66763-final-saga.json](./66763-final-saga.json) |
 | Final Sanctuary | 326993 | [326993-final-sanctuary.json](./326993-final-sanctuary.json) |
 | Final Shot | 175704 | [175704-final-shot.json](./175704-final-shot.json) |
@@ -3432,6 +3436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find Differences | 380628 | [380628-find-differences.json](./380628-find-differences.json) |
 | Find El Chupacabra | 359393 | [359393-find-el-chupacabra.json](./359393-find-el-chupacabra.json) |
 | Find Exit | 190024 | [190024-find-exit.json](./190024-find-exit.json) |
+| Find Food | 246329 | [246329-find-food.json](./246329-find-food.json) |
 | Find Him | 292771 | [292771-find-him.json](./292771-find-him.json) |
 | Find HQ: Police Station | 331123 | [331123-find-hq-police-station.json](./331123-find-hq-police-station.json) |
 | Find It - Tap the Different | 55102 | [55102-find-it-tap-the-different.json](./55102-find-it-tap-the-different.json) |
@@ -3492,6 +3497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find the Stalker | 310219 | [310219-find-the-stalker.json](./310219-find-the-stalker.json) |
 | Find the Sunbed | 189959 | [189959-find-the-sunbed.json](./189959-find-the-sunbed.json) |
 | Find The Thing | 309635 | [309635-find-the-thing.json](./309635-find-the-thing.json) |
+| Find the Way | 246330 | [246330-find-the-way.json](./246330-find-the-way.json) |
 | Find the Way Out Samurai! | 245878 | [245878-find-the-way-out-samurai.json](./245878-find-the-way-out-samurai.json) |
 | Find This Pixel Anomaly | 320982 | [320982-find-this-pixel-anomaly.json](./320982-find-this-pixel-anomaly.json) |
 | Find this! | 54859 | [54859-find-this.json](./54859-find-this.json) |
@@ -3573,6 +3579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Finger Champion | 245326 | [245326-finger-champion.json](./245326-finger-champion.json) |
 | Finger Connection | 66619 | [66619-finger-connection.json](./66619-finger-connection.json) |
 | Finger Cuts | 315830 | [315830-finger-cuts.json](./315830-finger-cuts.json) |
+| Finger Dancing | 246331 | [246331-finger-dancing.json](./246331-finger-dancing.json) |
 | Finger Dash | 253264 | [253264-finger-dash.json](./253264-finger-dash.json) |
 | Finger Driver | 87049 | [87049-finger-driver.json](./87049-finger-driver.json) |
 | Finger Fitness | 187217 | [187217-finger-fitness.json](./187217-finger-fitness.json) |
@@ -4528,6 +4535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flambo's Inferno | 196164 | [196164-flambos-inferno.json](./196164-flambos-inferno.json) |
 | Flame | 312847 | [312847-flame.json](./312847-flame.json) |
 | Flame and Blame | 419180 | [419180-flame-and-blame.json](./419180-flame-and-blame.json) |
+| Flame Beetles | 246318 | [246318-flame-beetles.json](./246318-flame-beetles.json) |
 | Flame Glow | 104805 | [104805-flame-glow.json](./104805-flame-glow.json) |
 | Flame Gunner | 267397 | [267397-flame-gunner.json](./267397-flame-gunner.json) |
 | Flame in Glass | 392238 | [392238-flame-in-glass.json](./392238-flame-in-glass.json) |
