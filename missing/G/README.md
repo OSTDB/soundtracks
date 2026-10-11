@@ -6748,6 +6748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunfire Reborn: Visitors of Spirit Realm | 213979 | [213979-gunfire-reborn-visitors-of-spirit-realm.json](./213979-gunfire-reborn-visitors-of-spirit-realm.json) |
 | GunFleet | 30023 | [30023-gunfleet.json](./30023-gunfleet.json) |
 | Gunfright | 14102 | [14102-gunfright.json](./14102-gunfright.json) |
+| GunFu Deadlands | 242441 | [242441-gunfu-deadlands.json](./242441-gunfu-deadlands.json) |
 | Gungage | 44863 | [44863-gungage.json](./44863-gungage.json) |
 | Gungame.io | 56923 | [56923-gungame-io.json](./56923-gungame-io.json) |
 | GunGirl 2 | 23720 | [23720-gungirl-2.json](./23720-gungirl-2.json) |
