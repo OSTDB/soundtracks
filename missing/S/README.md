@@ -3543,6 +3543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Separium: 12th Elevator | 336541 | [336541-separium-12th-elevator.json](./336541-separium-12th-elevator.json) |
 | Sepas Channel | 100270 | [100270-sepas-channel.json](./100270-sepas-channel.json) |
 | Sephiria | 278379 | [278379-sephiria.json](./278379-sephiria.json) |
+| Sepia | 257287 | [257287-sepia.json](./257287-sepia.json) |
 | Sepium | 390240 | [390240-sepium.json](./390240-sepium.json) |
 | Sept Jours, Sept Lieux, Sept Vies | 151284 | [151284-sept-jours-sept-lieux-sept-vies.json](./151284-sept-jours-sept-lieux-sept-vies.json) |
 | Septar | 408236 | [408236-septar.json](./408236-septar.json) |
@@ -18365,6 +18366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sucker for Love: Date to Die For | 236347 | [236347-sucker-for-love-date-to-die-for.json](./236347-sucker-for-love-date-to-die-for.json) |
 | Sucker for Love: Prelude | 194399 | [194399-sucker-for-love-prelude.json](./194399-sucker-for-love-prelude.json) |
 | Sucker head: Bodycam | 338215 | [338215-sucker-head-bodycam.json](./338215-sucker-head-bodycam.json) |
+| Sucker Punch | 257302 | [257302-sucker-punch.json](./257302-sucker-punch.json) |
 | Sucker Punch 2 | 261460 | [261460-sucker-punch-2.json](./261460-sucker-punch-2.json) |
 | Sucker Punch Mech Gunner | 59357 | [59357-sucker-punch-mech-gunner.json](./59357-sucker-punch-mech-gunner.json) |
 | Sucre: Sweet and Charming Time for You | 396945 | [396945-sucre-sweet-and-charming-time-for-you.json](./396945-sucre-sweet-and-charming-time-for-you.json) |
@@ -21406,6 +21408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surreal Farm | 316418 | [316418-surreal-farm.json](./316418-surreal-farm.json) |
 | Surreal House | 260186 | [260186-surreal-house.json](./260186-surreal-house.json) |
 | SurReal Subway | 113762 | [113762-surreal-subway.json](./113762-surreal-subway.json) |
+| Surrealidade: Dadaist Remix | 257279 | [257279-surrealidade-dadaist-remix.json](./257279-surrealidade-dadaist-remix.json) |
 | Surrealidade: Definitive Edition | 235770 | [235770-surrealidade-definitive-edition.json](./235770-surrealidade-definitive-edition.json) |
 | Surrealista | 182855 | [182855-surrealista.json](./182855-surrealista.json) |
 | Surreality | 71008 | [71008-surreality.json](./71008-surreality.json) |
