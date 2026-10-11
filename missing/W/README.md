@@ -1488,6 +1488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Watch Your Back | 203838 | [203838-watch-your-back.json](./203838-watch-your-back.json) |
 | Watch Your Eggs! | 311726 | [311726-watch-your-eggs.json](./311726-watch-your-eggs.json) |
 | Watch Your Eggs! VR | 282245 | [282245-watch-your-eggs-vr.json](./282245-watch-your-eggs-vr.json) |
+| Watch Your Nightmares | 271156 | [271156-watch-your-nightmares.json](./271156-watch-your-nightmares.json) |
 | Watch_Dogs 1985 | 179119 | [179119-watch-dogs-1985.json](./179119-watch-dogs-1985.json) |
 | Watched | 383512 | [383512-watched.json](./383512-watched.json) |
 | Watcher | 280155 | [280155-watcher.json](./280155-watcher.json) |
