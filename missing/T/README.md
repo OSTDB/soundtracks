@@ -713,6 +713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales Beyond the Tomb: The Last Vigil | 329762 | [329762-tales-beyond-the-tomb-the-last-vigil.json](./329762-tales-beyond-the-tomb-the-last-vigil.json) |
 | Tales for the Long Nights | 358461 | [358461-tales-for-the-long-nights.json](./358461-tales-for-the-long-nights.json) |
 | Tales from Ahrum | 175981 | [175981-tales-from-ahrum.json](./175981-tales-from-ahrum.json) |
+| Tales From Aturian: Battle of Cleaved Fields | 278367 | [278367-tales-from-aturian-battle-of-cleaved-fields.json](./278367-tales-from-aturian-battle-of-cleaved-fields.json) |
 | Tales from Candleforth | 226609 | [226609-tales-from-candleforth.json](./226609-tales-from-candleforth.json) |
 | Tales from Candlekeep: Tomb of Annihilation | 55805 | [55805-tales-from-candlekeep-tomb-of-annihilation.json](./55805-tales-from-candlekeep-tomb-of-annihilation.json) |
 | Tales from Centropolis | 244239 | [244239-tales-from-centropolis.json](./244239-tales-from-centropolis.json) |
@@ -1304,6 +1305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank survival Game | 110985 | [110985-tank-survival-game.json](./110985-tank-survival-game.json) |
 | Tank Tactics | 59785 | [59785-tank-tactics.json](./59785-tank-tactics.json) |
 | Tank Team | 112254 | [112254-tank-team.json](./112254-tank-team.json) |
+| Tank Team | 278353 | [278353-tank-team.json](./278353-tank-team.json) |
 | Tank Time | 177424 | [177424-tank-time.json](./177424-tank-time.json) |
 | Tank Top Tactics | 212842 | [212842-tank-top-tactics.json](./212842-tank-top-tactics.json) |
 | Tank Trouble 3D | 338701 | [338701-tank-trouble-3d.json](./338701-tank-trouble-3d.json) |
@@ -2392,6 +2394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tell Me Why: Chapter One - Homecoming | 141012 | [141012-tell-me-why-chapter-one-homecoming.json](./141012-tell-me-why-chapter-one-homecoming.json) |
 | Tell Me Why: Chapter Three - Inheritance | 141014 | [141014-tell-me-why-chapter-three-inheritance.json](./141014-tell-me-why-chapter-three-inheritance.json) |
 | Tell Me Why: Chapter Two - Family Secrets | 141013 | [141013-tell-me-why-chapter-two-family-secrets.json](./141013-tell-me-why-chapter-two-family-secrets.json) |
+| Tell Me Your Story | 278363 | [278363-tell-me-your-story.json](./278363-tell-me-your-story.json) |
 | Tell Me Your Story: Ancient Puzzle | 324444 | [324444-tell-me-your-story-ancient-puzzle.json](./324444-tell-me-your-story-ancient-puzzle.json) |
 | Tell Me Your Story: Complete + | 328825 | [328825-tell-me-your-story-complete.json](./328825-tell-me-your-story-complete.json) |
 | Tell Me Your Story: Porcelain Puzzle 1 | 324485 | [324485-tell-me-your-story-porcelain-puzzle-1.json](./324485-tell-me-your-story-porcelain-puzzle-1.json) |
@@ -3415,6 +3418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The 4th Unit 3 - Dual Targets | 78726 | [78726-the-4th-unit-3-dual-targets.json](./78726-the-4th-unit-3-dual-targets.json) |
 | The 4th Wall | 64126 | [64126-the-4th-wall.json](./64126-the-4th-wall.json) |
 | The 50 States Quiz | 103441 | [103441-the-50-states-quiz.json](./103441-the-50-states-quiz.json) |
+| The 52 Fragments | 278362 | [278362-the-52-fragments.json](./278362-the-52-fragments.json) |
 | The 64 kb challenge: Limitless | 260140 | [260140-the-64-kb-challenge-limitless.json](./260140-the-64-kb-challenge-limitless.json) |
 | The 64 kb challenge: Vanilla | 260139 | [260139-the-64-kb-challenge-vanilla.json](./260139-the-64-kb-challenge-vanilla.json) |
 | The 7 Cents Deal | 183558 | [183558-the-7-cents-deal.json](./183558-the-7-cents-deal.json) |
@@ -9986,6 +9990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Secret of Rooms | 207518 | [207518-the-secret-of-rooms.json](./207518-the-secret-of-rooms.json) |
 | The Secret of St. Brides | 12965 | [12965-the-secret-of-st-brides.json](./12965-the-secret-of-st-brides.json) |
 | The Secret of the Four Winds | 388965 | [388965-the-secret-of-the-four-winds.json](./388965-the-secret-of-the-four-winds.json) |
+| The Secret of Timberland | 278361 | [278361-the-secret-of-timberland.json](./278361-the-secret-of-timberland.json) |
 | The Secret of Varonis | 244780 | [244780-the-secret-of-varonis.json](./244780-the-secret-of-varonis.json) |
 | The Secret Ops | 232933 | [232933-the-secret-ops.json](./232933-the-secret-ops.json) |
 | The Secret Order 4: Beyond Time | 31586 | [31586-the-secret-order-4-beyond-time.json](./31586-the-secret-order-4-beyond-time.json) |
@@ -10935,11 +10940,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Texas Chain Saw Massacre: Bones | 351017 | [351017-the-texas-chain-saw-massacre-bones.json](./351017-the-texas-chain-saw-massacre-bones.json) |
 | The Texas Chain Saw Massacre: Connie Outfit Pack 3 | 351014 | [351014-the-texas-chain-saw-massacre-connie-outfit-pack-3.json](./351014-the-texas-chain-saw-massacre-connie-outfit-pack-3.json) |
 | The Texas Chain Saw Massacre: Content Pass | 351024 | [351024-the-texas-chain-saw-massacre-content-pass.json](./351024-the-texas-chain-saw-massacre-content-pass.json) |
+| The Texas Chain Saw Massacre: Danny | 278360 | [278360-the-texas-chain-saw-massacre-danny.json](./278360-the-texas-chain-saw-massacre-danny.json) |
 | The Texas Chain Saw Massacre: Danny Outfit Pack | 308572 | [308572-the-texas-chain-saw-massacre-danny-outfit-pack.json](./308572-the-texas-chain-saw-massacre-danny-outfit-pack.json) |
 | The Texas Chain Saw Massacre: Denim Outfit Pack | 351011 | [351011-the-texas-chain-saw-massacre-denim-outfit-pack.json](./351011-the-texas-chain-saw-massacre-denim-outfit-pack.json) |
 | The Texas Chain Saw Massacre: Hands Suspenders Outfit | 351020 | [351020-the-texas-chain-saw-massacre-hands-suspenders-outfit.json](./351020-the-texas-chain-saw-massacre-hands-suspenders-outfit.json) |
 | The Texas Chain Saw Massacre: Johnny Razor-sharp Outfit | 308574 | [308574-the-texas-chain-saw-massacre-johnny-razor-sharp-outfit.json](./308574-the-texas-chain-saw-massacre-johnny-razor-sharp-outfit.json) |
 | The Texas Chain Saw Massacre: Julie Outfit Pack 2 | 351025 | [351025-the-texas-chain-saw-massacre-julie-outfit-pack-2.json](./351025-the-texas-chain-saw-massacre-julie-outfit-pack-2.json) |
+| The Texas Chain Saw Massacre: Nancy | 278359 | [278359-the-texas-chain-saw-massacre-nancy.json](./278359-the-texas-chain-saw-massacre-nancy.json) |
 | The Texas Chain Saw Massacre: Nancy Prim 'N Proper Outfit | 308573 | [308573-the-texas-chain-saw-massacre-nancy-prim-n-proper-outfit.json](./308573-the-texas-chain-saw-massacre-nancy-prim-n-proper-outfit.json) |
 | The Texas Chain Saw Massacre: Nicotero Leatherface | 274587 | [274587-the-texas-chain-saw-massacre-nicotero-leatherface.json](./274587-the-texas-chain-saw-massacre-nicotero-leatherface.json) |
 | The Texas Chain Saw Massacre: Rush Week - Halloween Outfit Pack | 351023 | [351023-the-texas-chain-saw-massacre-rush-week-halloween-outfit-pack.json](./351023-the-texas-chain-saw-massacre-rush-week-halloween-outfit-pack.json) |
@@ -11030,6 +11037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tiger T | 210668 | [210668-the-tiger-t.json](./210668-the-tiger-t.json) |
 | The Time Game | 310054 | [310054-the-time-game.json](./310054-the-time-game.json) |
 | The Time Has Come | 177873 | [177873-the-time-has-come.json](./177873-the-time-has-come.json) |
+| The Time Machine | 278354 | [278354-the-time-machine.json](./278354-the-time-machine.json) |
 | The Time Machine: Trapped in Time | 93704 | [93704-the-time-machine-trapped-in-time.json](./93704-the-time-machine-trapped-in-time.json) |
 | The Time of Awakening | 115138 | [115138-the-time-of-awakening.json](./115138-the-time-of-awakening.json) |
 | The Time Warp of Dr. Brain | 72309 | [72309-the-time-warp-of-dr-brain.json](./72309-the-time-warp-of-dr-brain.json) |
@@ -12011,6 +12019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The World of Xian | 156556 | [156556-the-world-of-xian.json](./156556-the-world-of-xian.json) |
 | The World to Reverse. | 125983 | [125983-the-world-to-reverse.json](./125983-the-world-to-reverse.json) |
 | The World We Saved | 161646 | [161646-the-world-we-saved.json](./161646-the-world-we-saved.json) |
+| The World's Egg: For Those Who Dream | 278355 | [278355-the-worlds-egg-for-those-who-dream.json](./278355-the-worlds-egg-for-those-who-dream.json) |
 | The World's Greatest Baseball Game | 25790 | [25790-the-worlds-greatest-baseball-game.json](./25790-the-worlds-greatest-baseball-game.json) |
 | The World's Hardest Game | 141086 | [141086-the-worlds-hardest-game.json](./141086-the-worlds-hardest-game.json) |
 | The World's Hardest Game 2 | 224510 | [224510-the-worlds-hardest-game-2.json](./224510-the-worlds-hardest-game-2.json) |
@@ -14821,6 +14830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Titan Quest Gold | 177057 | [177057-titan-quest-gold.json](./177057-titan-quest-gold.json) |
 | Titan Quest II | 261146 | [261146-titan-quest-ii.json](./261146-titan-quest-ii.json) |
 | Titan Quest: Gold Edition | 51386 | [51386-titan-quest-gold-edition.json](./51386-titan-quest-gold-edition.json) |
+| Titan Revenge | 278356 | [278356-titan-revenge.json](./278356-titan-revenge.json) |
 | Titan Shell | 216499 | [216499-titan-shell.json](./216499-titan-shell.json) |
 | Titan Slayer | 193956 | [193956-titan-slayer.json](./193956-titan-slayer.json) |
 | Titan Slayer | 28324 | [28324-titan-slayer.json](./28324-titan-slayer.json) |
@@ -15264,6 +15274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokei | 342004 | [342004-tokei.json](./342004-tokei.json) |
 | Tokeijikake no Apocalypse | 222204 | [222204-tokeijikake-no-apocalypse.json](./222204-tokeijikake-no-apocalypse.json) |
 | Token Game | 169753 | [169753-token-game.json](./169753-token-game.json) |
+| Token Town | 278357 | [278357-token-town.json](./278357-token-town.json) |
 | Tokens | 394444 | [394444-tokens.json](./394444-tokens.json) |
 | Tokeru Fuuka to Shirousagi | 411105 | [411105-tokeru-fuuka-to-shirousagi.json](./411105-tokeru-fuuka-to-shirousagi.json) |
 | Toki | 12228 | [12228-toki.json](./12228-toki.json) |
@@ -16383,6 +16394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tottoko Hamtaro Card-e | 220854 | [220854-tottoko-hamtaro-card-e.json](./220854-tottoko-hamtaro-card-e.json) |
 | Tou Ikkyoku Gojyuusan Honba | 360085 | [360085-tou-ikkyoku-gojyuusan-honba.json](./360085-tou-ikkyoku-gojyuusan-honba.json) |
 | Toubatsu | 385825 | [385825-toubatsu.json](./385825-toubatsu.json) |
+| Toucan Rampage: Sandstorm Shooter | 278358 | [278358-toucan-rampage-sandstorm-shooter.json](./278358-toucan-rampage-sandstorm-shooter.json) |
 | Touch | 256328 | [256328-touch.json](./256328-touch.json) |
 | Touch 'N' Play Collection | 206746 | [206746-touch-n-play-collection.json](./206746-touch-n-play-collection.json) |
 | Touch Battle Ninja | 58828 | [58828-touch-battle-ninja.json](./58828-touch-battle-ninja.json) |
@@ -19256,6 +19268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trivia Beta64 Party | 288704 | [288704-trivia-beta64-party.json](./288704-trivia-beta64-party.json) |
 | Trivia Crack Adventure | 208370 | [208370-trivia-crack-adventure.json](./208370-trivia-crack-adventure.json) |
 | Trivia Crack Explorer | 208369 | [208369-trivia-crack-explorer.json](./208369-trivia-crack-explorer.json) |
+| Trivia Crack World | 278352 | [278352-trivia-crack-world.json](./278352-trivia-crack-world.json) |
 | Trivia Fantasy | 370767 | [370767-trivia-fantasy.json](./370767-trivia-fantasy.json) |
 | Trivia for Dummies | 187456 | [187456-trivia-for-dummies.json](./187456-trivia-for-dummies.json) |
 | Trivia Machine Reloaded | 416179 | [416179-trivia-machine-reloaded.json](./416179-trivia-machine-reloaded.json) |
@@ -19365,6 +19378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tron: Identity | 216277 | [216277-tron-identity.json](./216277-tron-identity.json) |
 | Tron: Solar Sailer | 5698 | [5698-tron-solar-sailer.json](./5698-tron-solar-sailer.json) |
 | Trooper 1 | 74292 | [74292-trooper-1.json](./74292-trooper-1.json) |
+| Troopstuck | 278344 | [278344-troopstuck.json](./278344-troopstuck.json) |
 | Trophies | 286064 | [286064-trophies.json](./286064-trophies.json) |
 | Trophy | 143070 | [143070-trophy.json](./143070-trophy.json) |
 | Trophy Bass | 22625 | [22625-trophy-bass.json](./22625-trophy-bass.json) |
@@ -20349,6 +20363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twin Soul | 356067 | [356067-twin-soul.json](./356067-twin-soul.json) |
 | Twin Soul | 96113 | [96113-twin-soul.json](./96113-twin-soul.json) |
 | Twin Souls: The Path of Shadows | 110233 | [110233-twin-souls-the-path-of-shadows.json](./110233-twin-souls-the-path-of-shadows.json) |
+| Twin Stick | 278345 | [278345-twin-stick.json](./278345-twin-stick.json) |
 | Twin Stick Heroes | 141875 | [141875-twin-stick-heroes.json](./141875-twin-stick-heroes.json) |
 | Twin Stick Tanks | 157075 | [157075-twin-stick-tanks.json](./157075-twin-stick-tanks.json) |
 | Twin Tornado | 363889 | [363889-twin-tornado.json](./363889-twin-tornado.json) |
