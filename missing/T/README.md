@@ -7829,6 +7829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Nayuta: Boundless Trails - Limited Edition | 284595 | [284595-the-legend-of-nayuta-boundless-trails-limited-edition.json](./284595-the-legend-of-nayuta-boundless-trails-limited-edition.json) |
 | The Legend of Neverland | 159100 | [159100-the-legend-of-neverland.json](./159100-the-legend-of-neverland.json) |
 | The Legend of Ninja | 147947 | [147947-the-legend-of-ninja.json](./147947-the-legend-of-ninja.json) |
+| The Legend of Ogorets 3: Kikimora | 270064 | [270064-the-legend-of-ogorets-3-kikimora.json](./270064-the-legend-of-ogorets-3-kikimora.json) |
 | The Legend of Ogorets 4: Warren | 278921 | [278921-the-legend-of-ogorets-4-warren.json](./278921-the-legend-of-ogorets-4-warren.json) |
 | The Legend of Paco the Jungle Duck | 120845 | [120845-the-legend-of-paco-the-jungle-duck.json](./120845-the-legend-of-paco-the-jungle-duck.json) |
 | The Legend of Peach | 198374 | [198374-the-legend-of-peach.json](./198374-the-legend-of-peach.json) |
@@ -10584,6 +10585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Soul Labyrinth | 250883 | [250883-the-soul-labyrinth.json](./250883-the-soul-labyrinth.json) |
 | The Soul of Cosmos | 348769 | [348769-the-soul-of-cosmos.json](./348769-the-soul-of-cosmos.json) |
 | The Soul of Dracula | 242797 | [242797-the-soul-of-dracula.json](./242797-the-soul-of-dracula.json) |
+| The Soul of Too Birds Game | 270033 | [270033-the-soul-of-too-birds-game.json](./270033-the-soul-of-too-birds-game.json) |
 | The Soul Ring of Soro: Divine Realm | 301603 | [301603-the-soul-ring-of-soro-divine-realm.json](./301603-the-soul-ring-of-soro-divine-realm.json) |
 | The Soul Stone Escape | 315793 | [315793-the-soul-stone-escape.json](./315793-the-soul-stone-escape.json) |
 | The SoulKeeper VR | 27193 | [27193-the-soulkeeper-vr.json](./27193-the-soulkeeper-vr.json) |
@@ -11888,6 +11890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Whittled Horse | 309461 | [309461-the-whittled-horse.json](./309461-the-whittled-horse.json) |
 | The Whole World is in Check | 185017 | [185017-the-whole-world-is-in-check.json](./185017-the-whole-world-is-in-check.json) |
 | The Wicked Days | 148907 | [148907-the-wicked-days.json](./148907-the-wicked-days.json) |
+| The Wicked Souls | 270038 | [270038-the-wicked-souls.json](./270038-the-wicked-souls.json) |
 | The Wicked West | 296465 | [296465-the-wicked-west.json](./296465-the-wicked-west.json) |
 | The Wickie | 157131 | [157131-the-wickie.json](./157131-the-wickie.json) |
 | The Widow's Shadow | 271212 | [271212-the-widows-shadow.json](./271212-the-widows-shadow.json) |
@@ -15316,6 +15319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokatonton: One-Armed Blacksmith | 368606 | [368606-tokatonton-one-armed-blacksmith.json](./368606-tokatonton-one-armed-blacksmith.json) |
 | Tokei | 342004 | [342004-tokei.json](./342004-tokei.json) |
 | Tokeijikake no Apocalypse | 222204 | [222204-tokeijikake-no-apocalypse.json](./222204-tokeijikake-no-apocalypse.json) |
+| Tokeis | 270016 | [270016-tokeis.json](./270016-tokeis.json) |
 | Token Game | 169753 | [169753-token-game.json](./169753-token-game.json) |
 | Token Town | 278357 | [278357-token-town.json](./278357-token-town.json) |
 | Tokens | 394444 | [394444-tokens.json](./394444-tokens.json) |
