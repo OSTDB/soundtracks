@@ -590,6 +590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mage's Initiation | 63533 | [63533-mages-initiation.json](./63533-mages-initiation.json) |
 | Mage's Legacy | 312162 | [312162-mages-legacy.json](./312162-mages-legacy.json) |
 | Mageanoid | 312190 | [312190-mageanoid.json](./312190-mageanoid.json) |
+| MageCraft | 244147 | [244147-magecraft.json](./244147-magecraft.json) |
 | Magefall | 210719 | [210719-magefall.json](./210719-magefall.json) |
 | Magehunter: Phoenix Flame | 250834 | [250834-magehunter-phoenix-flame.json](./250834-magehunter-phoenix-flame.json) |
 | Magekeepers | 302359 | [302359-magekeepers.json](./302359-magekeepers.json) |
@@ -1794,6 +1795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mana | 280309 | [280309-mana.json](./280309-mana.json) |
 | Mana Chess | 195148 | [195148-mana-chess.json](./195148-mana-chess.json) |
 | Mana Cycle | 296970 | [296970-mana-cycle.json](./296970-mana-cycle.json) |
+| Mana Fortress | 244157 | [244157-mana-fortress.json](./244157-mana-fortress.json) |
 | Mana Go Round | 167814 | [167814-mana-go-round.json](./167814-mana-go-round.json) |
 | Mana Khemia: Alchemists of Al-Revis | 20996 | [20996-mana-khemia-alchemists-of-al-revis.json](./20996-mana-khemia-alchemists-of-al-revis.json) |
 | Mana Khemia: Alchemists of Al-Revis - Premium Edition | 43308 | [43308-mana-khemia-alchemists-of-al-revis-premium-edition.json](./43308-mana-khemia-alchemists-of-al-revis-premium-edition.json) |
@@ -2766,6 +2768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mars Future | 347656 | [347656-mars-future.json](./347656-mars-future.json) |
 | Mars Hopper | 341652 | [341652-mars-hopper.json](./341652-mars-hopper.json) |
 | Mars Horizon | 101183 | [101183-mars-horizon.json](./101183-mars-horizon.json) |
+| Mars Horizon 2: The Search for Life | 244142 | [244142-mars-horizon-2-the-search-for-life.json](./244142-mars-horizon-2-the-search-for-life.json) |
 | Mars Man | 287348 | [287348-mars-man.json](./287348-mars-man.json) |
 | Mars Miner | 69537 | [69537-mars-miner.json](./69537-mars-miner.json) |
 | Mars Mission II | 59475 | [59475-mars-mission-ii.json](./59475-mars-mission-ii.json) |
@@ -4287,6 +4290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mechanical Growth | 260189 | [260189-mechanical-growth.json](./260189-mechanical-growth.json) |
 | Mechanical Relations | 381794 | [381794-mechanical-relations.json](./381794-mechanical-relations.json) |
 | Mechanical Relations Ep 2 | 398691 | [398691-mechanical-relations-ep-2.json](./398691-mechanical-relations-ep-2.json) |
+| Mechanical Siege | 244146 | [244146-mechanical-siege.json](./244146-mechanical-siege.json) |
 | Mechanical Siege | 283845 | [283845-mechanical-siege.json](./283845-mechanical-siege.json) |
 | Mechanical Tralp | 278665 | [278665-mechanical-tralp.json](./278665-mechanical-tralp.json) |
 | Mechanical Violator Hakaider: Last Judgement | 66147 | [66147-mechanical-violator-hakaider-last-judgement.json](./66147-mechanical-violator-hakaider-last-judgement.json) |
@@ -8778,6 +8782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mitt Babyzoo | 288106 | [288106-mitt-babyzoo.json](./288106-mitt-babyzoo.json) |
 | Mittin | 222286 | [222286-mittin.json](./222286-mittin.json) |
 | Mítú | 156684 | [156684-mitu.json](./156684-mitu.json) |
+| Miuratale | 244130 | [244130-miuratale.json](./244130-miuratale.json) |
 | MiuSa | 308863 | [308863-miusa.json](./308863-miusa.json) |
 | Mix AI Animal Ultimate | 320369 | [320369-mix-ai-animal-ultimate.json](./320369-mix-ai-animal-ultimate.json) |
 | Mix Superstar | 262371 | [262371-mix-superstar.json](./262371-mix-superstar.json) |
