@@ -2523,6 +2523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghosts of the Tozai Line | 416661 | [416661-ghosts-of-the-tozai-line.json](./416661-ghosts-of-the-tozai-line.json) |
 | Ghosts of Trastevere | 372652 | [372652-ghosts-of-trastevere.json](./372652-ghosts-of-trastevere.json) |
 | Ghosts of War | 174822 | [174822-ghosts-of-war.json](./174822-ghosts-of-war.json) |
+| Ghosts over the Water: Changing the Tides of Japan's Future | 242995 | [242995-ghosts-over-the-water-changing-the-tides-of-japans-future.json](./242995-ghosts-over-the-water-changing-the-tides-of-japans-future.json) |
 | Ghosts'n DJs | 129198 | [129198-ghostsn-djs.json](./129198-ghostsn-djs.json) |
 | Ghostscape | 80158 | [80158-ghostscape.json](./80158-ghostscape.json) |
 | Ghoststory | 89954 | [89954-ghoststory.json](./89954-ghoststory.json) |
@@ -2824,6 +2825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girls Battlegrounds | 284340 | [284340-girls-battlegrounds.json](./284340-girls-battlegrounds.json) |
 | Girls Book Maker: Shiawase no Libretto | 194573 | [194573-girls-book-maker-shiawase-no-libretto.json](./194573-girls-book-maker-shiawase-no-libretto.json) |
 | Girls Bravo Romance15's | 60879 | [60879-girls-bravo-romance15s.json](./60879-girls-bravo-romance15s.json) |
+| Girls Bus Adventure | 242980 | [242980-girls-bus-adventure.json](./242980-girls-bus-adventure.json) |
 | Girls Craft: Crafting and Building | 100959 | [100959-girls-craft-crafting-and-building.json](./100959-girls-craft-crafting-and-building.json) |
 | Girls Dance | 105691 | [105691-girls-dance.json](./105691-girls-dance.json) |
 | Girls Dance VR | 384632 | [384632-girls-dance-vr.json](./384632-girls-dance-vr.json) |
@@ -6062,6 +6064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grover's Travels | 333206 | [333206-grovers-travels.json](./333206-grovers-travels.json) |
 | Grow & Go: Cozy Deliveries | 414406 | [414406-grow-and-go-cozy-deliveries.json](./414406-grow-and-go-cozy-deliveries.json) |
 | Grow a Girlfriend | 353394 | [353394-grow-a-girlfriend.json](./353394-grow-a-girlfriend.json) |
+| Grow and Smile: For Balling | 242981 | [242981-grow-and-smile-for-balling.json](./242981-grow-and-smile-for-balling.json) |
 | Grow Battle: Fish and Feed | 103865 | [103865-grow-battle-fish-and-feed.json](./103865-grow-battle-fish-and-feed.json) |
 | Grow Beets Clicker | 259556 | [259556-grow-beets-clicker.json](./259556-grow-beets-clicker.json) |
 | Grow Big (or Go Home) | 141221 | [141221-grow-big-or-go-home.json](./141221-grow-big-or-go-home.json) |
