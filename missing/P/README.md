@@ -2877,6 +2877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perry the Pumpkin | 224763 | [224763-perry-the-pumpkin.json](./224763-perry-the-pumpkin.json) |
 | Persecution: The Elevator | 311154 | [311154-persecution-the-elevator.json](./311154-persecution-the-elevator.json) |
 | Persephone | 122151 | [122151-persephone.json](./122151-persephone.json) |
+| Persephone Volumes 1 to 3 | 262274 | [262274-persephone-volumes-1-to-3.json](./262274-persephone-volumes-1-to-3.json) |
 | Perseus | 274767 | [274767-perseus.json](./274767-perseus.json) |
 | Persevera | 264685 | [264685-persevera.json](./264685-persevera.json) |
 | Perseverance | 149218 | [149218-perseverance.json](./149218-perseverance.json) |
@@ -4731,6 +4732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirate Adventures: hidden object game | 104630 | [104630-pirate-adventures-hidden-object-game.json](./104630-pirate-adventures-hidden-object-game.json) |
 | Pirate and Parrots | 421370 | [421370-pirate-and-parrots.json](./421370-pirate-and-parrots.json) |
 | Pirate Blast | 175715 | [175715-pirate-blast.json](./175715-pirate-blast.json) |
+| Pirate Bloopers | 262234 | [262234-pirate-bloopers.json](./262234-pirate-bloopers.json) |
 | Pirate Boom | 176298 | [176298-pirate-boom.json](./176298-pirate-boom.json) |
 | Pirate Cannons Ahoy! | 115675 | [115675-pirate-cannons-ahoy.json](./115675-pirate-cannons-ahoy.json) |
 | Pirate Chest Chess | 365875 | [365875-pirate-chest-chess.json](./365875-pirate-chest-chess.json) |
@@ -5169,6 +5171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Puzzles Junior | 33190 | [33190-pixel-puzzles-junior.json](./33190-pixel-puzzles-junior.json) |
 | Pixel Puzzles Traditional Jigsaws | 130274 | [130274-pixel-puzzles-traditional-jigsaws.json](./130274-pixel-puzzles-traditional-jigsaws.json) |
 | Pixel Puzzles Traditional Jigsaws Pack: Korea | 247775 | [247775-pixel-puzzles-traditional-jigsaws-pack-korea.json](./247775-pixel-puzzles-traditional-jigsaws-pack-korea.json) |
+| Pixel Puzzles Traditional Jigsaws Pack: Variety Pack 10 | 262250 | [262250-pixel-puzzles-traditional-jigsaws-pack-variety-pack-10.json](./262250-pixel-puzzles-traditional-jigsaws-pack-variety-pack-10.json) |
 | Pixel Puzzles Traditional Jigsaws Pack: Variety Pack 9 | 260419 | [260419-pixel-puzzles-traditional-jigsaws-pack-variety-pack-9.json](./260419-pixel-puzzles-traditional-jigsaws-pack-variety-pack-9.json) |
 | Pixel Puzzles Traditional Jigsaws: Cats 2 | 357951 | [357951-pixel-puzzles-traditional-jigsaws-cats-2.json](./357951-pixel-puzzles-traditional-jigsaws-cats-2.json) |
 | Pixel Puzzles Traditional Jigsaws: Chihuahuas | 296248 | [296248-pixel-puzzles-traditional-jigsaws-chihuahuas.json](./296248-pixel-puzzles-traditional-jigsaws-chihuahuas.json) |
@@ -6168,6 +6171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plaything | 342120 | [342120-plaything.json](./342120-plaything.json) |
 | Playthings: VR Music Vacation | 32881 | [32881-playthings-vr-music-vacation.json](./32881-playthings-vr-music-vacation.json) |
 | Playtime | 170847 | [170847-playtime.json](./170847-playtime.json) |
+| Playtime with Percy | 262278 | [262278-playtime-with-percy.json](./262278-playtime-with-percy.json) |
 | Playtoons Featuring Uncle Archibald | 209360 | [209360-playtoons-featuring-uncle-archibald.json](./209360-playtoons-featuring-uncle-archibald.json) |
 | Playtoons: The Mandarin Prince | 209358 | [209358-playtoons-the-mandarin-prince.json](./209358-playtoons-the-mandarin-prince.json) |
 | Playtoons: The Secret of the Castle | 209357 | [209357-playtoons-the-secret-of-the-castle.json](./209357-playtoons-the-secret-of-the-castle.json) |
