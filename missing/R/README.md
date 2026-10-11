@@ -929,6 +929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RainyDay | 265243 | [265243-rainyday.json](./265243-rainyday.json) |
 | Raiohgar: Asuka and the King of Steel | 126816 | [126816-raiohgar-asuka-and-the-king-of-steel.json](./126816-raiohgar-asuka-and-the-king-of-steel.json) |
 | Raios Funde | 245012 | [245012-raios-funde.json](./245012-raios-funde.json) |
+| Raise | 239556 | [239556-raise.json](./239556-raise.json) |
 | Raise the Colours | 393816 | [393816-raise-the-colours.json](./393816-raise-the-colours.json) |
 | Raise the Dead | 37021 | [37021-raise-the-dead.json](./37021-raise-the-dead.json) |
 | Raise the Flag | 274677 | [274677-raise-the-flag.json](./274677-raise-the-flag.json) |
@@ -2809,6 +2810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reflex Unit AR | 197758 | [197758-reflex-unit-ar.json](./197758-reflex-unit-ar.json) |
 | Reflex Unit: Strike Ops | 304653 | [304653-reflex-unit-strike-ops.json](./304653-reflex-unit-strike-ops.json) |
 | Reflexia Prototype ver. | 224749 | [224749-reflexia-prototype-ver.json](./224749-reflexia-prototype-ver.json) |
+| Reflexia: The Archetype's Room of Three Walls | 239686 | [239686-reflexia-the-archetypes-room-of-three-walls.json](./239686-reflexia-the-archetypes-room-of-three-walls.json) |
 | Reflow | 256755 | [256755-reflow.json](./256755-reflow.json) |
 | Reforged TD | 150586 | [150586-reforged-td.json](./150586-reforged-td.json) |
 | Reformers Intl Ver | 102250 | [102250-reformers-intl-ver.json](./102250-reformers-intl-ver.json) |
@@ -4398,6 +4400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ricochet | 7589 | [7589-ricochet.json](./7589-ricochet.json) |
 | Ricochet Blur | 226453 | [226453-ricochet-blur.json](./226453-ricochet-blur.json) |
 | Ricochet Bounce | 152816 | [152816-ricochet-bounce.json](./152816-ricochet-bounce.json) |
+| Ricochet Gun | 239536 | [239536-ricochet-gun.json](./239536-ricochet-gun.json) |
 | Ricochet Infinity | 23820 | [23820-ricochet-infinity.json](./23820-ricochet-infinity.json) |
 | Ricochet Kills 2 | 235241 | [235241-ricochet-kills-2.json](./235241-ricochet-kills-2.json) |
 | Ricochet Raven | 370668 | [370668-ricochet-raven.json](./370668-ricochet-raven.json) |
