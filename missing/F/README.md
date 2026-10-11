@@ -3651,6 +3651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire and Darkness | 159103 | [159103-fire-and-darkness.json](./159103-fire-and-darkness.json) |
 | Fire and Dungeon | 154398 | [154398-fire-and-dungeon.json](./154398-fire-and-dungeon.json) |
 | Fire and Forget | 46735 | [46735-fire-and-forget.json](./46735-fire-and-forget.json) |
+| Fire and Maneuver: Expansion - Boshin War | 246828 | [246828-fire-and-maneuver-expansion-boshin-war.json](./246828-fire-and-maneuver-expansion-boshin-war.json) |
 | Fire and Rescue | 287760 | [287760-fire-and-rescue.json](./287760-fire-and-rescue.json) |
 | Fire Ant | 93077 | [93077-fire-ant.json](./93077-fire-ant.json) |
 | Fire Ball | 161775 | [161775-fire-ball.json](./161775-fire-ball.json) |
@@ -4001,6 +4002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fish | 314298 | [314298-fish.json](./314298-fish.json) |
 | Fish | 382202 | [382202-fish.json](./382202-fish.json) |
 | Fish 'n Ships | 349472 | [349472-fish-n-ships.json](./349472-fish-n-ships.json) |
+| Fish 'N' Chips | 246832 | [246832-fish-n-chips.json](./246832-fish-n-chips.json) |
 | Fish & Trip | 97492 | [97492-fish-and-trip.json](./97492-fish-and-trip.json) |
 | Fish and Fight | 163867 | [163867-fish-and-fight.json](./163867-fish-and-fight.json) |
 | Fish and Groove | 151101 | [151101-fish-and-groove.json](./151101-fish-and-groove.json) |
@@ -5946,6 +5948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forbidden Siren 2 | 14411 | [14411-forbidden-siren-2.json](./14411-forbidden-siren-2.json) |
 | Forbidden Solitaire | 330176 | [330176-forbidden-solitaire.json](./330176-forbidden-solitaire.json) |
 | Forbidden Solitarie | 399264 | [399264-forbidden-solitarie.json](./399264-forbidden-solitarie.json) |
+| Forbidden Sparks of Passion | 246834 | [246834-forbidden-sparks-of-passion.json](./246834-forbidden-sparks-of-passion.json) |
 | Forbidden Tapes | 260623 | [260623-forbidden-tapes.json](./260623-forbidden-tapes.json) |
 | Forbidden Terror: Board Game | 375448 | [375448-forbidden-terror-board-game.json](./375448-forbidden-terror-board-game.json) |
 | Forbidden Trip | 238443 | [238443-forbidden-trip.json](./238443-forbidden-trip.json) |
@@ -6080,6 +6083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forever Fox | 106487 | [106487-forever-fox.json](./106487-forever-fox.json) |
 | Forever Growing Garden | 62158 | [62158-forever-growing-garden.json](./62158-forever-growing-garden.json) |
 | Forever Home | 74608 | [74608-forever-home.json](./74608-forever-home.json) |
+| Forever In The Backrooms | 246831 | [246831-forever-in-the-backrooms.json](./246831-forever-in-the-backrooms.json) |
 | Forever Indy | 256924 | [256924-forever-indy.json](./256924-forever-indy.json) |
 | Forever Kingdom | 10907 | [10907-forever-kingdom.json](./10907-forever-kingdom.json) |
 | Forever Lost | 207739 | [207739-forever-lost.json](./207739-forever-lost.json) |
@@ -7476,6 +7480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Friends Racing Duo | 212456 | [212456-friends-racing-duo.json](./212456-friends-racing-duo.json) |
 | Friends vs. Friends: Baba's Laundromat | 257100 | [257100-friends-vs-friends-babas-laundromat.json](./257100-friends-vs-friends-babas-laundromat.json) |
 | Friends vs. Friends: El Pelicano | 376700 | [376700-friends-vs-friends-el-pelicano.json](./376700-friends-vs-friends-el-pelicano.json) |
+| Friends World | 246833 | [246833-friends-world.json](./246833-friends-world.json) |
 | FriendShapes | 330246 | [330246-friendshapes.json](./330246-friendshapes.json) |
 | FriendShip | 30936 | [30936-friendship.json](./30936-friendship.json) |
 | Friendship Bracelets Simulator | 303229 | [303229-friendship-bracelets-simulator.json](./303229-friendship-bracelets-simulator.json) |
