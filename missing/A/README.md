@@ -2106,6 +2106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Springs Bakery | 414173 | [414173-adventure-springs-bakery.json](./414173-adventure-springs-bakery.json) |
 | Adventure Story | 265404 | [265404-adventure-story.json](./265404-adventure-story.json) |
 | Adventure Submarine Uss 101 | 204965 | [204965-adventure-submarine-uss-101.json](./204965-adventure-submarine-uss-101.json) |
+| Adventure Tanks | 262873 | [262873-adventure-tanks.json](./262873-adventure-tanks.json) |
 | Adventure the Four Swords | 179576 | [179576-adventure-the-four-swords.json](./179576-adventure-the-four-swords.json) |
 | Adventure Time Game Wizard: Draw Your Own Adventure Time Games | 88096 | [88096-adventure-time-game-wizard-draw-your-own-adventure-time-games.json](./88096-adventure-time-game-wizard-draw-your-own-adventure-time-games.json) |
 | Adventure Time Puzzle Quest | 19952 | [19952-adventure-time-puzzle-quest.json](./19952-adventure-time-puzzle-quest.json) |
@@ -5577,6 +5578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ancient Totems | 303163 | [303163-ancient-totems.json](./303163-ancient-totems.json) |
 | Ancient Tribe | 84886 | [84886-ancient-tribe.json](./84886-ancient-tribe.json) |
 | Ancient TriPeaks | 202099 | [202099-ancient-tripeaks.json](./202099-ancient-tripeaks.json) |
+| Ancient Viking | 262855 | [262855-ancient-viking.json](./262855-ancient-viking.json) |
 | Ancient War: Three Kingdoms | 113695 | [113695-ancient-war-three-kingdoms.json](./113695-ancient-war-three-kingdoms.json) |
 | Ancient Warfare 3 | 76670 | [76670-ancient-warfare-3.json](./76670-ancient-warfare-3.json) |
 | Ancient Warlords: Aequilibrium | 102219 | [102219-ancient-warlords-aequilibrium.json](./102219-ancient-warlords-aequilibrium.json) |
