@@ -3912,6 +3912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Piece Out | 54720 | [54720-piece-out.json](./54720-piece-out.json) |
 | Piece Shogi | 312772 | [312772-piece-shogi.json](./312772-piece-shogi.json) |
 | Piece Yourself Up | 341577 | [341577-piece-yourself-up.json](./341577-piece-yourself-up.json) |
+| PieceFall VR | 270606 | [270606-piecefall-vr.json](./270606-piecefall-vr.json) |
 | Pieceful | 138237 | [138237-pieceful.json](./138237-pieceful.json) |
 | Pieces | 46587 | [46587-pieces.json](./46587-pieces.json) |
 | Pieces I: A Maskros Nebula Game | 296503 | [296503-pieces-i-a-maskros-nebula-game.json](./296503-pieces-i-a-maskros-nebula-game.json) |
@@ -6055,6 +6056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Play With Kizami | 105579 | [105579-play-with-kizami.json](./105579-play-with-kizami.json) |
 | Play With Me | 182885 | [182885-play-with-me.json](./182885-play-with-me.json) |
 | Play With My Balls | 309674 | [309674-play-with-my-balls.json](./309674-play-with-my-balls.json) |
+| Play-Doh Creations | 270611 | [270611-play-doh-creations.json](./270611-play-doh-creations.json) |
 | Play'te Spinna | 290991 | [290991-playte-spinna.json](./290991-playte-spinna.json) |
 | Playable Alpha | 304603 | [304603-playable-alpha.json](./304603-playable-alpha.json) |
 | Playable Mockup | 245387 | [245387-playable-mockup.json](./245387-playable-mockup.json) |
