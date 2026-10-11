@@ -1690,6 +1690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Impossamole | 12611 | [12611-impossamole.json](./12611-impossamole.json) |
 | Impossiball | 26641 | [26641-impossiball.json](./26641-impossiball.json) |
 | Impossible Bottles | 105407 | [105407-impossible-bottles.json](./105407-impossible-bottles.json) |
+| Impossible Bunny Challenge | 272763 | [272763-impossible-bunny-challenge.json](./272763-impossible-bunny-challenge.json) |
 | Impossible Caves | 105927 | [105927-impossible-caves.json](./105927-impossible-caves.json) |
 | Impossible Commando Shooting FPS Fury | 101983 | [101983-impossible-commando-shooting-fps-fury.json](./101983-impossible-commando-shooting-fps-fury.json) |
 | Impossible Date: Tricky Riddle | 208924 | [208924-impossible-date-tricky-riddle.json](./208924-impossible-date-tricky-riddle.json) |
@@ -3421,6 +3422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invaxion | 109323 | [109323-invaxion.json](./109323-invaxion.json) |
 | Invector: Rhythm Galaxy | 252857 | [252857-invector-rhythm-galaxy.json](./252857-invector-rhythm-galaxy.json) |
 | Invector: Rhythm Galaxy - Latin Power Song Pack | 265249 | [265249-invector-rhythm-galaxy-latin-power-song-pack.json](./265249-invector-rhythm-galaxy-latin-power-song-pack.json) |
+| Invector: Rhythm Galaxy - Spinnin' Song Pack | 272743 | [272743-invector-rhythm-galaxy-spinnin-song-pack.json](./272743-invector-rhythm-galaxy-spinnin-song-pack.json) |
 | InVein | 402487 | [402487-invein.json](./402487-invein.json) |
 | Invention 2 | 31667 | [31667-invention-2.json](./31667-invention-2.json) |
 | Invention 4 | 261778 | [261778-invention-4.json](./261778-invention-4.json) |
@@ -3740,6 +3742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Irreverence | 412428 | [412428-irreverence.json](./412428-irreverence.json) |
 | Irreversible | 375839 | [375839-irreversible.json](./375839-irreversible.json) |
 | Irritability & Mood Swings | 195182 | [195182-irritability-and-mood-swings.json](./195182-irritability-and-mood-swings.json) |
+| Irritated Mind: Fear of Warehouse | 272754 | [272754-irritated-mind-fear-of-warehouse.json](./272754-irritated-mind-fear-of-warehouse.json) |
 | Irritating Ship | 256776 | [256776-irritating-ship.json](./256776-irritating-ship.json) |
 | Irritating Stick | 92863 | [92863-irritating-stick.json](./92863-irritating-stick.json) |
 | Iruka Iru Ka | 187491 | [187491-iruka-iru-ka.json](./187491-iruka-iru-ka.json) |
