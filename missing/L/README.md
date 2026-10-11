@@ -517,6 +517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Landscaper Simulator | 406691 | [406691-landscaper-simulator.json](./406691-landscaper-simulator.json) |
 | Landscapes | 90390 | [90390-landscapes.json](./90390-landscapes.json) |
 | Landshay: Event Night | 186348 | [186348-landshay-event-night.json](./186348-landshay-event-night.json) |
+| Landslide | 256756 | [256756-landslide.json](./256756-landslide.json) |
 | Landstalker | 15072 | [15072-landstalker.json](./15072-landstalker.json) |
 | Landwars | 90175 | [90175-landwars.json](./90175-landwars.json) |
 | Landy Land | 283129 | [283129-landy-land.json](./283129-landy-land.json) |
@@ -6002,6 +6003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lumen | 164330 | [164330-lumen.json](./164330-lumen.json) |
 | Lumen | 292608 | [292608-lumen.json](./292608-lumen.json) |
 | Lumen Race | 370776 | [370776-lumen-race.json](./370776-lumen-race.json) |
+| Lumen Rider | 256749 | [256749-lumen-rider.json](./256749-lumen-rider.json) |
 | Lumen. | 124596 | [124596-lumen.json](./124596-lumen.json) |
 | Lumencraft | 186294 | [186294-lumencraft.json](./186294-lumencraft.json) |
 | LumenTale: Memories of Trey | 231484 | [231484-lumentale-memories-of-trey.json](./231484-lumentale-memories-of-trey.json) |
