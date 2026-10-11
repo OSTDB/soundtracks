@@ -2276,6 +2276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teisoukannen Zero: Yariman Kazoku to Hame Kurui Natsuyasumi | 82956 | [82956-teisoukannen-zero-yariman-kazoku-to-hame-kurui-natsuyasumi.json](./82956-teisoukannen-zero-yariman-kazoku-to-hame-kurui-natsuyasumi.json) |
 | Tek-Kids Flash-Ops: Mission - Data Island | 70023 | [70023-tek-kids-flash-ops-mission-data-island.json](./70023-tek-kids-flash-ops-mission-data-island.json) |
 | Tek-Kids Flash-Ops: Mission - Sky Fortress | 69940 | [69940-tek-kids-flash-ops-mission-sky-fortress.json](./69940-tek-kids-flash-ops-mission-sky-fortress.json) |
+| Teke Teke: Moonlit Dread | 274395 | [274395-teke-teke-moonlit-dread.json](./274395-teke-teke-moonlit-dread.json) |
 | Teki Paki | 175805 | [175805-teki-paki.json](./175805-teki-paki.json) |
 | Tekichuu Keiba Juku | 37791 | [37791-tekichuu-keiba-juku.json](./37791-tekichuu-keiba-juku.json) |
 | TekiKare: Boyfriend or Foe? | 284610 | [284610-tekikare-boyfriend-or-foe.json](./284610-tekikare-boyfriend-or-foe.json) |
@@ -4302,6 +4303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Brave Mouse | 51513 | [51513-the-brave-mouse.json](./51513-the-brave-mouse.json) |
 | The Brave Never Alone | 351109 | [351109-the-brave-never-alone.json](./351109-the-brave-never-alone.json) |
 | The Braves & Bows | 32292 | [32292-the-braves-and-bows.json](./32292-the-braves-and-bows.json) |
+| The Braves: Beginning | 274381 | [274381-the-braves-beginning.json](./274381-the-braves-beginning.json) |
 | The Brazil | 294851 | [294851-the-brazil.json](./294851-the-brazil.json) |
 | The Breach | 361308 | [361308-the-breach.json](./361308-the-breach.json) |
 | The Breach: A VR Escape Game | 120119 | [120119-the-breach-a-vr-escape-game.json](./120119-the-breach-a-vr-escape-game.json) |
@@ -8020,6 +8022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Liar's Tavern | 322981 | [322981-the-liars-tavern.json](./322981-the-liars-tavern.json) |
 | The Liberation of Kuwait | 73740 | [73740-the-liberation-of-kuwait.json](./73740-the-liberation-of-kuwait.json) |
 | The Librarian: Special Edition | 241360 | [241360-the-librarian-special-edition.json](./241360-the-librarian-special-edition.json) |
+| The Library | 274430 | [274430-the-library.json](./274430-the-library.json) |
 | The Library of Babble | 121620 | [121620-the-library-of-babble.json](./121620-the-library-of-babble.json) |
 | The Library on the Lake | 416029 | [416029-the-library-on-the-lake.json](./416029-the-library-on-the-lake.json) |
 | The Lies We Tell Ourselves | 221135 | [221135-the-lies-we-tell-ourselves.json](./221135-the-lies-we-tell-ourselves.json) |
@@ -13008,6 +13011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TibiaMe | 115761 | [115761-tibiame.json](./115761-tibiame.json) |
 | TibiaScape | 320884 | [320884-tibiascape.json](./320884-tibiascape.json) |
 | Tibili et L'île de la Panthère | 261896 | [261896-tibili-et-lile-de-la-panthere.json](./261896-tibili-et-lile-de-la-panthere.json) |
+| Tibor: Tale Of A Kind Vampire | 274396 | [274396-tibor-tale-of-a-kind-vampire.json](./274396-tibor-tale-of-a-kind-vampire.json) |
 | Tic | 100258 | [100258-tic.json](./100258-tic.json) |
 | Tic Cat Dog | 366294 | [366294-tic-cat-dog.json](./366294-tic-cat-dog.json) |
 | Tic Tac | 362822 | [362822-tic-tac.json](./362822-tic-tac.json) |
@@ -16714,6 +16718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toukiden: Kiwami - Mission Collection 8-11 | 171918 | [171918-toukiden-kiwami-mission-collection-8-11.json](./171918-toukiden-kiwami-mission-collection-8-11.json) |
 | Toukiden: The Age of Demons | 8658 | [8658-toukiden-the-age-of-demons.json](./8658-toukiden-the-age-of-demons.json) |
 | Touko in Underland | 312764 | [312764-touko-in-underland.json](./312764-touko-in-underland.json) |
+| Toukon Heat | 274405 | [274405-toukon-heat.json](./274405-toukon-heat.json) |
 | Toumayhem | 202857 | [202857-toumayhem.json](./202857-toumayhem.json) |
 | Toumei na Yasashisa | 368604 | [368604-toumei-na-yasashisa.json](./368604-toumei-na-yasashisa.json) |
 | Tour de Akiba | 179505 | [179505-tour-de-akiba.json](./179505-tour-de-akiba.json) |
@@ -17220,6 +17225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toz | 124200 | [124200-toz.json](./124200-toz.json) |
 | Tozerath in Ruins | 261968 | [261968-tozerath-in-ruins.json](./261968-tozerath-in-ruins.json) |
 | TP Bullet | 289930 | [289930-tp-bullet.json](./289930-tp-bullet.json) |
+| TP: Dungeon Raiders | 274393 | [274393-tp-dungeon-raiders.json](./274393-tp-dungeon-raiders.json) |
 | TPK | 372077 | [372077-tpk.json](./372077-tpk.json) |
 | Tplosjons | 138128 | [138128-tplosjons.json](./138128-tplosjons.json) |
 | TPM Football | 151536 | [151536-tpm-football.json](./151536-tpm-football.json) |
@@ -17523,6 +17529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Sim World 4: Bahnstrecke Salzburg - Rosenheim Route Add-On | 293695 | [293695-train-sim-world-4-bahnstrecke-salzburg-rosenheim-route-add-on.json](./293695-train-sim-world-4-bahnstrecke-salzburg-rosenheim-route-add-on.json) |
 | Train Sim World 4: Berninalinie - Tirano: Ospizio Bernina Route | 286525 | [286525-train-sim-world-4-berninalinie-tirano-ospizio-bernina-route.json](./286525-train-sim-world-4-berninalinie-tirano-ospizio-bernina-route.json) |
 | Train Sim World 4: Edinburgh - Glasgow: Engineering Express Pack | 288920 | [288920-train-sim-world-4-edinburgh-glasgow-engineering-express-pack.json](./288920-train-sim-world-4-edinburgh-glasgow-engineering-express-pack.json) |
+| Train Sim World 4: Flying Scotsman Centenary Edition | 274417 | [274417-train-sim-world-4-flying-scotsman-centenary-edition.json](./274417-train-sim-world-4-flying-scotsman-centenary-edition.json) |
 | Train Sim World 4: LIRR Commuter - New York: Long Beach, Hempstead & Hicksville | 308438 | [308438-train-sim-world-4-lirr-commuter-new-york-long-beach-hempstead-and-hicksville.json](./308438-train-sim-world-4-lirr-commuter-new-york-long-beach-hempstead-and-hicksville.json) |
 | Train Sim World 4: London Overground Suffragette line: Gospel Oak - Barking Riverside Route Add-On | 293692 | [293692-train-sim-world-4-london-overground-suffragette-line-gospel-oak-barking-riverside-route-add-on.json](./293692-train-sim-world-4-london-overground-suffragette-line-gospel-oak-barking-riverside-route-add-on.json) |
 | Train Sim World 4: Nahverkehr Dresden - Riesa Route Add-On | 307970 | [307970-train-sim-world-4-nahverkehr-dresden-riesa-route-add-on.json](./307970-train-sim-world-4-nahverkehr-dresden-riesa-route-add-on.json) |
@@ -18978,6 +18985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trianga's Project: Battle Splash 2.0 - Earth's Legacy M.A.I.A | 289466 | [289466-triangas-project-battle-splash-2-0-earths-legacy-m-a-i-a.json](./289466-triangas-project-battle-splash-2-0-earths-legacy-m-a-i-a.json) |
 | Triangle Again | 63017 | [63017-triangle-again.json](./63017-triangle-again.json) |
 | Triangle Again 2 | 63018 | [63018-triangle-again-2.json](./63018-triangle-again-2.json) |
+| Triangle Cross | 274406 | [274406-triangle-cross.json](./274406-triangle-cross.json) |
 | Triangle Dash! | 252710 | [252710-triangle-dash.json](./252710-triangle-dash.json) |
 | Triangle Defense | 371970 | [371970-triangle-defense.json](./371970-triangle-defense.json) |
 | Triangle Heart | 77678 | [77678-triangle-heart.json](./77678-triangle-heart.json) |
