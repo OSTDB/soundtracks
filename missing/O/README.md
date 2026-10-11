@@ -1422,6 +1422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Deck Dungeon: Phoenix's Den | 163254 | [163254-one-deck-dungeon-phoenixs-den.json](./163254-one-deck-dungeon-phoenixs-den.json) |
 | One Deck Dungeon: Witch | 163259 | [163259-one-deck-dungeon-witch.json](./163259-one-deck-dungeon-witch.json) |
 | One Deck Galaxy | 257458 | [257458-one-deck-galaxy.json](./257458-one-deck-galaxy.json) |
+| One Die All Dies: No Zuo No Die | 256190 | [256190-one-die-all-dies-no-zuo-no-die.json](./256190-one-die-all-dies-no-zuo-no-die.json) |
 | One Dimension | 89984 | [89984-one-dimension.json](./89984-one-dimension.json) |
 | One Direction | 263602 | [263602-one-direction.json](./263602-one-direction.json) |
 | One Dog Story | 28327 | [28327-one-dog-story.json](./28327-one-dog-story.json) |
