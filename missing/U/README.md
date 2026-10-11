@@ -650,6 +650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultraman Club 3: Mata Mata Shiyutsugeki!! Ultra Kyoudai | 48556 | [48556-ultraman-club-3-mata-mata-shiyutsugeki-ultra-kyoudai.json](./48556-ultraman-club-3-mata-mata-shiyutsugeki-ultra-kyoudai.json) |
 | Ultraman Club: Chikyuu Dakkan Sakusen | 41297 | [41297-ultraman-club-chikyuu-dakkan-sakusen.json](./41297-ultraman-club-chikyuu-dakkan-sakusen.json) |
 | Ultraman Club: Kaijuu Daikessen!! | 48558 | [48558-ultraman-club-kaijuu-daikessen.json](./48558-ultraman-club-kaijuu-daikessen.json) |
+| Ultraman Club: Teki Kaijuu wo Hakken se yo! | 260082 | [260082-ultraman-club-teki-kaijuu-wo-hakken-se-yo.json](./260082-ultraman-club-teki-kaijuu-wo-hakken-se-yo.json) |
 | Ultraman Club: Ultra Schwatch | 385840 | [385840-ultraman-club-ultra-schwatch.json](./385840-ultraman-club-ultra-schwatch.json) |
 | Ultraman Fighting Evolution | 78940 | [78940-ultraman-fighting-evolution.json](./78940-ultraman-fighting-evolution.json) |
 | Ultraman Fighting Evolution 0 | 64212 | [64212-ultraman-fighting-evolution-0.json](./64212-ultraman-fighting-evolution-0.json) |
@@ -1084,6 +1085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Under the Farm | 184648 | [184648-under-the-farm.json](./184648-under-the-farm.json) |
 | Under the Ghost Mountain | 156975 | [156975-under-the-ghost-mountain.json](./156975-under-the-ghost-mountain.json) |
 | Under the Heavens | 398011 | [398011-under-the-heavens.json](./398011-under-the-heavens.json) |
+| Under the Hood | 260026 | [260026-under-the-hood.json](./260026-under-the-hood.json) |
 | Under the Island | 151501 | [151501-under-the-island.json](./151501-under-the-island.json) |
 | Under the Jolly Roger + Crossroads Inn: Bring Me That Horizon Bundle | 305487 | [305487-under-the-jolly-roger-crossroads-inn-bring-me-that-horizon-bundle.json](./305487-under-the-jolly-roger-crossroads-inn-bring-me-that-horizon-bundle.json) |
 | Under the Moon | 204327 | [204327-under-the-moon.json](./204327-under-the-moon.json) |
