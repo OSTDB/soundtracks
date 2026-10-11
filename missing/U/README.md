@@ -712,6 +712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Umamusume: Pretty Derby - Party Dash: DLC Vol. 1 - Team Iris | 316227 | [316227-umamusume-pretty-derby-party-dash-dlc-vol-1-team-iris.json](./316227-umamusume-pretty-derby-party-dash-dlc-vol-1-team-iris.json) |
 | UmaNetto. Full Preved! | 252372 | [252372-umanetto-full-preved.json](./252372-umanetto-full-preved.json) |
 | Umatarou Gennarin Daibouken | 151631 | [151631-umatarou-gennarin-daibouken.json](./151631-umatarou-gennarin-daibouken.json) |
+| UMBA | 253823 | [253823-umba.json](./253823-umba.json) |
 | Umbilical | 214437 | [214437-umbilical.json](./214437-umbilical.json) |
 | Umblight | 313487 | [313487-umblight.json](./313487-umblight.json) |
 | Umbra | 202338 | [202338-umbra.json](./202338-umbra.json) |
@@ -1147,6 +1148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Underdog Detective | 198551 | [198551-underdog-detective.json](./198551-underdog-detective.json) |
 | Underdog Futsal | 390205 | [390205-underdog-futsal.json](./390205-underdog-futsal.json) |
 | Underdone | 47999 | [47999-underdone.json](./47999-underdone.json) |
+| Underdose | 253822 | [253822-underdose.json](./253822-underdose.json) |
 | UnderDungeon | 219525 | [219525-underdungeon.json](./219525-underdungeon.json) |
 | UnderDungeon: Deluxe Edition | 250367 | [250367-underdungeon-deluxe-edition.json](./250367-underdungeon-deluxe-edition.json) |
 | Underfang | 399713 | [399713-underfang.json](./399713-underfang.json) |
@@ -2348,6 +2350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UWAR | 338579 | [338579-uwar.json](./338579-uwar.json) |
 | Uwasa no Midori-kun!! Futari no Midori!? | 124113 | [124113-uwasa-no-midori-kun-futari-no-midori.json](./124113-uwasa-no-midori-kun-futari-no-midori.json) |
 | Uwasa no Midori-kun!! Natsu Iro Striker | 124112 | [124112-uwasa-no-midori-kun-natsu-iro-striker.json](./124112-uwasa-no-midori-kun-natsu-iro-striker.json) |
+| UWD: You Will Die! | 253821 | [253821-uwd-you-will-die.json](./253821-uwd-you-will-die.json) |
 | Uwis Shooting Gallery | 94196 | [94196-uwis-shooting-gallery.json](./94196-uwis-shooting-gallery.json) |
 | Uwol 2 | 299168 | [299168-uwol-2.json](./299168-uwol-2.json) |
 | Uwol: Quest for Money | 46675 | [46675-uwol-quest-for-money.json](./46675-uwol-quest-for-money.json) |
