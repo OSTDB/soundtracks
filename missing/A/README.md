@@ -11053,6 +11053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ayakashi: Ghost Guild | 39179 | [39179-ayakashi-ghost-guild.json](./39179-ayakashi-ghost-guild.json) |
 | Ayakashi: Romance Reborn Dawn Chapter & Twilight Chapter | 147817 | [147817-ayakashi-romance-reborn-dawn-chapter-and-twilight-chapter.json](./147817-ayakashi-romance-reborn-dawn-chapter-and-twilight-chapter.json) |
 | Ayakashibito: Genyou Ibunroku | 56521 | [56521-ayakashibito-genyou-ibunroku.json](./56521-ayakashibito-genyou-ibunroku.json) |
+| Ayakashibito: Genyou Ibunroku Portable | 257853 | [257853-ayakashibito-genyou-ibunroku-portable.json](./257853-ayakashibito-genyou-ibunroku-portable.json) |
 | Ayako's Mission | 254017 | [254017-ayakos-mission.json](./254017-ayakos-mission.json) |
 | Ayame no Machi to Ohime-sama | 194546 | [194546-ayame-no-machi-to-ohime-sama.json](./194546-ayame-no-machi-to-ohime-sama.json) |
 | Ayasa: Shadows of Silence | 319650 | [319650-ayasa-shadows-of-silence.json](./319650-ayasa-shadows-of-silence.json) |
