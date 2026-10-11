@@ -3854,6 +3854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Return of the Slimepires | 288848 | [288848-return-of-the-slimepires.json](./288848-return-of-the-slimepires.json) |
 | Return of the Space Warrior | 37293 | [37293-return-of-the-space-warrior.json](./37293-return-of-the-space-warrior.json) |
 | Return of the Things | 66627 | [66627-return-of-the-things.json](./66627-return-of-the-things.json) |
+| Return of Warrior | 259491 | [259491-return-of-warrior.json](./259491-return-of-warrior.json) |
 | Return or No Return | 267447 | [267447-return-or-no-return.json](./267447-return-or-no-return.json) |
 | Return Survival | 321517 | [321517-return-survival.json](./321517-return-survival.json) |
 | Return Tape | 142250 | [142250-return-tape.json](./142250-return-tape.json) |
