@@ -497,6 +497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wanted Raccoon | 144087 | [144087-wanted-raccoon.json](./144087-wanted-raccoon.json) |
 | Wanted Shadows | 267679 | [267679-wanted-shadows.json](./267679-wanted-shadows.json) |
 | Wanted Shadows: Unchained | 373076 | [373076-wanted-shadows-unchained.json](./373076-wanted-shadows-unchained.json) |
+| Wanted Wizard 2 | 268933 | [268933-wanted-wizard-2.json](./268933-wanted-wizard-2.json) |
 | Wanted: Dead | 173091 | [173091-wanted-dead.json](./173091-wanted-dead.json) |
 | Wanted: Dead - Collector's Edition | 228736 | [228736-wanted-dead-collectors-edition.json](./228736-wanted-dead-collectors-edition.json) |
 | Wanted: Dead or Alive | 333770 | [333770-wanted-dead-or-alive.json](./333770-wanted-dead-or-alive.json) |
@@ -2850,6 +2851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whispered Secrets: Ripple of the Heart | 187972 | [187972-whispered-secrets-ripple-of-the-heart.json](./187972-whispered-secrets-ripple-of-the-heart.json) |
 | Whispered Secrets: Song of Sorrow - Collector's Edition | 361251 | [361251-whispered-secrets-song-of-sorrow-collectors-edition.json](./361251-whispered-secrets-song-of-sorrow-collectors-edition.json) |
 | Whispered Secrets: The Story of Tideville | 139782 | [139782-whispered-secrets-the-story-of-tideville.json](./139782-whispered-secrets-the-story-of-tideville.json) |
+| Whispered Secrets: Tying the Knot | 268927 | [268927-whispered-secrets-tying-the-knot.json](./268927-whispered-secrets-tying-the-knot.json) |
 | Whispered Stories: Sandman | 175803 | [175803-whispered-stories-sandman.json](./175803-whispered-stories-sandman.json) |
 | Whispering Abyss | 216829 | [216829-whispering-abyss.json](./216829-whispering-abyss.json) |
 | Whispering Death | 312551 | [312551-whispering-death.json](./312551-whispering-death.json) |
