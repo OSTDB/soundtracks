@@ -1954,6 +1954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DDRMax: Dance Dance Revolution 6thMix | 3677 | [3677-ddrmax-dance-dance-revolution-6thmix.json](./3677-ddrmax-dance-dance-revolution-6thmix.json) |
 | DDRMax2: Dance Dance Revolution | 44711 | [44711-ddrmax2-dance-dance-revolution.json](./44711-ddrmax2-dance-dance-revolution.json) |
 | DDS Defenders Dark Side | 214726 | [214726-dds-defenders-dark-side.json](./214726-dds-defenders-dark-side.json) |
+| DDS x Narcos | 277260 | [277260-dds-x-narcos.json](./277260-dds-x-narcos.json) |
 | de Blob | 2637 | [2637-de-blob.json](./2637-de-blob.json) |
 | De Blob | 233776 | [233776-de-blob.json](./233776-de-blob.json) |
 | De Blob 2 | 4796 | [4796-de-blob-2.json](./4796-de-blob-2.json) |
