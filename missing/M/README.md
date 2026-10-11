@@ -196,6 +196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MacShot | 192447 | [192447-macshot.json](./192447-macshot.json) |
 | Mad Adventures | 202747 | [202747-mad-adventures.json](./202747-mad-adventures.json) |
 | Mad Age and This Guy | 56613 | [56613-mad-age-and-this-guy.json](./56613-mad-age-and-this-guy.json) |
+| Mad Aliens: Seeking the Soul | 247936 | [247936-mad-aliens-seeking-the-soul.json](./247936-mad-aliens-seeking-the-soul.json) |
 | Mad Arkanoid | 50536 | [50536-mad-arkanoid.json](./50536-mad-arkanoid.json) |
 | Mad Ball | 128449 | [128449-mad-ball.json](./128449-mad-ball.json) |
 | Mad BalloonRider | 243172 | [243172-mad-balloonrider.json](./243172-mad-balloonrider.json) |
