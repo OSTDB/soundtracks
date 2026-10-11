@@ -1212,6 +1212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Tales: Edgar Allan Poe's The Oval Portrait - Collector's Edition | 370681 | [370681-dark-tales-edgar-allan-poes-the-oval-portrait-collectors-edition.json](./370681-dark-tales-edgar-allan-poes-the-oval-portrait-collectors-edition.json) |
 | Dark Tales: Edgar Allan Poe's The Pit and the Pendulum - Collector's Edition | 370679 | [370679-dark-tales-edgar-allan-poes-the-pit-and-the-pendulum-collectors-edition.json](./370679-dark-tales-edgar-allan-poes-the-pit-and-the-pendulum-collectors-edition.json) |
 | Dark Tales: Edgar Allan Poe's The Raven - Collector's Edition | 222282 | [222282-dark-tales-edgar-allan-poes-the-raven-collectors-edition.json](./222282-dark-tales-edgar-allan-poes-the-raven-collectors-edition.json) |
+| Dark Tales: Mirror and Mad Princess | 252034 | [252034-dark-tales-mirror-and-mad-princess.json](./252034-dark-tales-mirror-and-mad-princess.json) |
 | Dark Tank | 320836 | [320836-dark-tank.json](./320836-dark-tank.json) |
 | Dark Tartarus | 260950 | [260950-dark-tartarus.json](./260950-dark-tartarus.json) |
 | Dark Theme Bundle | 265191 | [265191-dark-theme-bundle.json](./265191-dark-theme-bundle.json) |
@@ -6831,6 +6832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DJMax Respect V: Trilogy Pack | 225045 | [225045-djmax-respect-v-trilogy-pack.json](./225045-djmax-respect-v-trilogy-pack.json) |
 | DJMax Respect V: V Extension II Pack | 225055 | [225055-djmax-respect-v-v-extension-ii-pack.json](./225055-djmax-respect-v-v-extension-ii-pack.json) |
 | DJMax Respect V: V Extension III Pack | 226691 | [226691-djmax-respect-v-v-extension-iii-pack.json](./226691-djmax-respect-v-v-extension-iii-pack.json) |
+| DJMax Respect V: V Extension IV Pack | 252048 | [252048-djmax-respect-v-v-extension-iv-pack.json](./252048-djmax-respect-v-v-extension-iv-pack.json) |
 | DJMax Respect V: V Extension Pack | 225057 | [225057-djmax-respect-v-v-extension-pack.json](./225057-djmax-respect-v-v-extension-pack.json) |
 | DJMax Respect V: V Extension V Pack | 279537 | [279537-djmax-respect-v-v-extension-v-pack.json](./279537-djmax-respect-v-v-extension-v-pack.json) |
 | DJMax Respect V: V Liberty Pack | 307059 | [307059-djmax-respect-v-v-liberty-pack.json](./307059-djmax-respect-v-v-liberty-pack.json) |
@@ -7917,6 +7919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donut Break: Head to Head | 214566 | [214566-donut-break-head-to-head.json](./214566-donut-break-head-to-head.json) |
 | Donut County | 55080 | [55080-donut-county.json](./55080-donut-county.json) |
 | Donut Crabs | 206715 | [206715-donut-crabs.json](./206715-donut-crabs.json) |
+| Donut Dodo Do! | 252062 | [252062-donut-dodo-do.json](./252062-donut-dodo-do.json) |
 | Donut Drop by ABCya | 96075 | [96075-donut-drop-by-abcya.json](./96075-donut-drop-by-abcya.json) |
 | Donut Get! | 51173 | [51173-donut-get.json](./51173-donut-get.json) |
 | Donut Hockey | 373558 | [373558-donut-hockey.json](./373558-donut-hockey.json) |
@@ -8027,6 +8030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doom 2 In City Only | 299447 | [299447-doom-2-in-city-only.json](./299447-doom-2-in-city-only.json) |
 | Doom 2 In Spain Only | 258890 | [258890-doom-2-in-spain-only.json](./258890-doom-2-in-spain-only.json) |
 | Doom 2 Reloaded | 160288 | [160288-doom-2-reloaded.json](./160288-doom-2-reloaded.json) |
+| Doom 2: The Way We Remember It | 252032 | [252032-doom-2-the-way-we-remember-it.json](./252032-doom-2-the-way-we-remember-it.json) |
 | Doom 2D | 89509 | [89509-doom-2d.json](./89509-doom-2d.json) |
 | Doom 3: BFG Edition | 6968 | [6968-doom-3-bfg-edition.json](./6968-doom-3-bfg-edition.json) |
 | Doom 3: Hard Corps | 196016 | [196016-doom-3-hard-corps.json](./196016-doom-3-hard-corps.json) |
@@ -8048,6 +8052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doom City | 144214 | [144214-doom-city.json](./144214-doom-city.json) |
 | Doom Core | 275569 | [275569-doom-core.json](./275569-doom-core.json) |
 | Doom Days: Fire Shooter | 226761 | [226761-doom-days-fire-shooter.json](./226761-doom-days-fire-shooter.json) |
+| Doom Delta | 252029 | [252029-doom-delta.json](./252029-doom-delta.json) |
 | Doom Eternal KaiserCampaign | 344310 | [344310-doom-eternal-kaisercampaign.json](./344310-doom-eternal-kaisercampaign.json) |
 | Doom Eternal: The Ancient Gods - Expansion Pass | 281566 | [281566-doom-eternal-the-ancient-gods-expansion-pass.json](./281566-doom-eternal-the-ancient-gods-expansion-pass.json) |
 | Doom Eternal: The Ancient Gods - Part Two | 144731 | [144731-doom-eternal-the-ancient-gods-part-two.json](./144731-doom-eternal-the-ancient-gods-part-two.json) |
@@ -8075,6 +8080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doom Rails | 16116 | [16116-doom-rails.json](./16116-doom-rails.json) |
 | Doom Reborn | 365242 | [365242-doom-reborn.json](./365242-doom-reborn.json) |
 | DOOM Remake 4 | 201181 | [201181-doom-remake-4.json](./201181-doom-remake-4.json) |
+| Doom Repainted | 252030 | [252030-doom-repainted.json](./252030-doom-repainted.json) |
 | Doom Roller | 303486 | [303486-doom-roller.json](./303486-doom-roller.json) |
 | Doom Spiral | 347089 | [347089-doom-spiral.json](./347089-doom-spiral.json) |
 | Doom Survivor: Horde Rush | 396187 | [396187-doom-survivor-horde-rush.json](./396187-doom-survivor-horde-rush.json) |
@@ -8095,6 +8101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doom: The Golden Souls 2 | 140497 | [140497-doom-the-golden-souls-2.json](./140497-doom-the-golden-souls-2.json) |
 | Doom: The Golden Souls 3 | 314436 | [314436-doom-the-golden-souls-3.json](./314436-doom-the-golden-souls-3.json) |
 | Doom: The Golden Souls Remastered | 198349 | [198349-doom-the-golden-souls-remastered.json](./198349-doom-the-golden-souls-remastered.json) |
+| Doom: The Way We Remember It | 252031 | [252031-doom-the-way-we-remember-it.json](./252031-doom-the-way-we-remember-it.json) |
 | Doom: Unto the Evil | 22431 | [22431-doom-unto-the-evil.json](./22431-doom-unto-the-evil.json) |
 | Doom3D | 196011 | [196011-doom3d.json](./196011-doom3d.json) |
 | Doomblade | 114004 | [114004-doomblade.json](./114004-doomblade.json) |
@@ -9259,6 +9266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Quest X: Mezameshi Itsutsu no Shuzoku Offline | 149989 | [149989-dragon-quest-x-mezameshi-itsutsu-no-shuzoku-offline.json](./149989-dragon-quest-x-mezameshi-itsutsu-no-shuzoku-offline.json) |
 | Dragon Quest X: Mezameshi Itsutsu no Shuzoku Online | 80597 | [80597-dragon-quest-x-mezameshi-itsutsu-no-shuzoku-online.json](./80597-dragon-quest-x-mezameshi-itsutsu-no-shuzoku-online.json) |
 | Dragon Quest X: Mirai he no Tobira to Madoromi no Shoujo Online | 260191 | [260191-dragon-quest-x-mirai-he-no-tobira-to-madoromi-no-shoujo-online.json](./260191-dragon-quest-x-mirai-he-no-tobira-to-madoromi-no-shoujo-online.json) |
+| Dragon Quest X: Nemureru Yuusha to Michibiki no Meiyuu Offline | 252044 | [252044-dragon-quest-x-nemureru-yuusha-to-michibiki-no-meiyuu-offline.json](./252044-dragon-quest-x-nemureru-yuusha-to-michibiki-no-meiyuu-offline.json) |
 | Dragon Quest X: Tensei no Eiyuu-tachi Online | 159205 | [159205-dragon-quest-x-tensei-no-eiyuu-tachi-online.json](./159205-dragon-quest-x-tensei-no-eiyuu-tachi-online.json) |
 | Dragon Quest XI S: Echoes of an Elusive Age - Definitive Edition | 110069 | [110069-dragon-quest-xi-s-echoes-of-an-elusive-age-definitive-edition.json](./110069-dragon-quest-xi-s-echoes-of-an-elusive-age-definitive-edition.json) |
 | Dragon Quest XI: Echoes of an Elusive Age S - Ultimate Edition | 313423 | [313423-dragon-quest-xi-echoes-of-an-elusive-age-s-ultimate-edition.json](./313423-dragon-quest-xi-echoes-of-an-elusive-age-s-ultimate-edition.json) |
@@ -10893,12 +10901,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duke Nukem 3D: High Resolution Pack | 371392 | [371392-duke-nukem-3d-high-resolution-pack.json](./371392-duke-nukem-3d-high-resolution-pack.json) |
 | Duke Nukem 3D: Kill-A-Ton Collection | 19730 | [19730-duke-nukem-3d-kill-a-ton-collection.json](./19730-duke-nukem-3d-kill-a-ton-collection.json) |
 | Duke Nukem 64 | 10680 | [10680-duke-nukem-64.json](./10680-duke-nukem-64.json) |
+| Duke Nukem Collection 1 | 252052 | [252052-duke-nukem-collection-1.json](./252052-duke-nukem-collection-1.json) |
+| Duke Nukem Collection 2 | 252053 | [252053-duke-nukem-collection-2.json](./252053-duke-nukem-collection-2.json) |
 | Duke Nukem Forever | 490 | [490-duke-nukem-forever.json](./490-duke-nukem-forever.json) |
 | Duke Nukem Forever 2013 | 153446 | [153446-duke-nukem-forever-2013.json](./153446-duke-nukem-forever-2013.json) |
 | Duke Nukem Forever Collection | 335681 | [335681-duke-nukem-forever-collection.json](./335681-duke-nukem-forever-collection.json) |
 | Duke Nukem Forever: Enhanced | 297232 | [297232-duke-nukem-forever-enhanced.json](./297232-duke-nukem-forever-enhanced.json) |
 | Duke Nukem Forever: Reimposition | 371400 | [371400-duke-nukem-forever-reimposition.json](./371400-duke-nukem-forever-reimposition.json) |
+| Duke Nukem II Remastered | 252067 | [252067-duke-nukem-ii-remastered.json](./252067-duke-nukem-ii-remastered.json) |
 | Duke Nukem Mobile | 23557 | [23557-duke-nukem-mobile.json](./23557-duke-nukem-mobile.json) |
+| Duke Nukem Remastered | 252066 | [252066-duke-nukem-remastered.json](./252066-duke-nukem-remastered.json) |
 | Duke Nukem Trilogy: Chain Reaction | 69326 | [69326-duke-nukem-trilogy-chain-reaction.json](./69326-duke-nukem-trilogy-chain-reaction.json) |
 | Duke Nukem Trilogy: Proving Grounds | 69263 | [69263-duke-nukem-trilogy-proving-grounds.json](./69263-duke-nukem-trilogy-proving-grounds.json) |
 | Duke Nukem Xmas 2014 | 291979 | [291979-duke-nukem-xmas-2014.json](./291979-duke-nukem-xmas-2014.json) |
