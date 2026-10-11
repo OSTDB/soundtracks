@@ -501,6 +501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zero Divide | 20709 | [20709-zero-divide.json](./20709-zero-divide.json) |
 | Zero Divide 2 | 43808 | [43808-zero-divide-2.json](./43808-zero-divide-2.json) |
 | Zero Division | 223277 | [223277-zero-division.json](./223277-zero-division.json) |
+| Zero End: Chapter One | 264510 | [264510-zero-end-chapter-one.json](./264510-zero-end-chapter-one.json) |
 | Zero Escape Trilogy | 52108 | [52108-zero-escape-trilogy.json](./52108-zero-escape-trilogy.json) |
 | Zero Escape: Nine Hours, Nine Persons, Nine Doors | 319754 | [319754-zero-escape-nine-hours-nine-persons-nine-doors.json](./319754-zero-escape-nine-hours-nine-persons-nine-doors.json) |
 | Zero Escape: The Nonary Games | 25343 | [25343-zero-escape-the-nonary-games.json](./25343-zero-escape-the-nonary-games.json) |
