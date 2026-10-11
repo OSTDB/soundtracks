@@ -4705,6 +4705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exit: Echoes of Insanity | 395145 | [395145-exit-echoes-of-insanity.json](./395145-exit-echoes-of-insanity.json) |
 | Exit: Left or Right | 290653 | [290653-exit-left-or-right.json](./290653-exit-left-or-right.json) |
 | Exit: The Curse of Ophir | 174278 | [174278-exit-the-curse-of-ophir.json](./174278-exit-the-curse-of-ophir.json) |
+| Exit: The Game - Trial of the Griffin | 242416 | [242416-exit-the-game-trial-of-the-griffin.json](./242416-exit-the-game-trial-of-the-griffin.json) |
 | Exit/Corners | 101734 | [101734-exit-corners.json](./101734-exit-corners.json) |
 | Exit16: Byilhan Hotel | 305523 | [305523-exit16-byilhan-hotel.json](./305523-exit16-byilhan-hotel.json) |
 | Exiting the White Room | 310598 | [310598-exiting-the-white-room.json](./310598-exiting-the-white-room.json) |
