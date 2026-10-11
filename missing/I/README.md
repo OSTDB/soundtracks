@@ -602,6 +602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Icarus: Homestead Content Pack | 392438 | [392438-icarus-homestead-content-pack.json](./392438-icarus-homestead-content-pack.json) |
 | Icarus: Iceholm Outpost | 262457 | [262457-icarus-iceholm-outpost.json](./262457-icarus-iceholm-outpost.json) |
 | Icarus: Industrial Furniture Pack | 276206 | [276206-icarus-industrial-furniture-pack.json](./276206-icarus-industrial-furniture-pack.json) |
+| Icarus: Interior Decorations Pack | 262877 | [262877-icarus-interior-decorations-pack.json](./262877-icarus-interior-decorations-pack.json) |
 | Icarus: Styx Map Pack | 204686 | [204686-icarus-styx-map-pack.json](./204686-icarus-styx-map-pack.json) |
 | Icarus: Tecton Outpost | 262458 | [262458-icarus-tecton-outpost.json](./262458-icarus-tecton-outpost.json) |
 | Icarus: The Day 4 | 65736 | [65736-icarus-the-day-4.json](./65736-icarus-the-day-4.json) |
