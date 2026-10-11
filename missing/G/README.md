@@ -3736,6 +3736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Godsend | 112757 | [112757-godsend.json](./112757-godsend.json) |
 | Godsend Arena | 235853 | [235853-godsend-arena.json](./235853-godsend-arena.json) |
 | Godslayer Arena | 295851 | [295851-godslayer-arena.json](./295851-godslayer-arena.json) |
+| Godspeed | 271131 | [271131-godspeed.json](./271131-godspeed.json) |
 | Godspeed: A Flame for Winter | 321741 | [321741-godspeed-a-flame-for-winter.json](./321741-godspeed-a-flame-for-winter.json) |
 | Godspell Defender | 201667 | [201667-godspell-defender.json](./201667-godspell-defender.json) |
 | Godstone | 187822 | [187822-godstone.json](./187822-godstone.json) |
@@ -4281,6 +4282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goodnight Little Sandman | 110227 | [110227-goodnight-little-sandman.json](./110227-goodnight-little-sandman.json) |
 | Goodnight Rudy | 234589 | [234589-goodnight-rudy.json](./234589-goodnight-rudy.json) |
 | Goodnight Tea | 249321 | [249321-goodnight-tea.json](./249321-goodnight-tea.json) |
+| Goodnight Universe | 271129 | [271129-goodnight-universe.json](./271129-goodnight-universe.json) |
 | Goodnight, B | 411801 | [411801-goodnight-b.json](./411801-goodnight-b.json) |
 | Goodnight, Sun | 419900 | [419900-goodnight-sun.json](./419900-goodnight-sun.json) |
 | Goods Puzzle | 406165 | [406165-goods-puzzle.json](./406165-goods-puzzle.json) |
