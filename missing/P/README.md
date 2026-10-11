@@ -812,6 +812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panic Invaders | 70957 | [70957-panic-invaders.json](./70957-panic-invaders.json) |
 | Panic Lane | 247767 | [247767-panic-lane.json](./247767-panic-lane.json) |
 | Panic Mansion | 26726 | [26726-panic-mansion.json](./26726-panic-mansion.json) |
+| Panic on Ice | 239559 | [239559-panic-on-ice.json](./239559-panic-on-ice.json) |
 | Panic Palette Portable | 204391 | [204391-panic-palette-portable.json](./204391-panic-palette-portable.json) |
 | Panic Park | 62238 | [62238-panic-park.json](./62238-panic-park.json) |
 | Panic Party | 134631 | [134631-panic-party.json](./134631-panic-party.json) |
@@ -7607,6 +7608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polyamorous Relationships | 179048 | [179048-polyamorous-relationships.json](./179048-polyamorous-relationships.json) |
 | Polyaris | 307263 | [307263-polyaris.json](./307263-polyaris.json) |
 | Polyball | 20348 | [20348-polyball.json](./20348-polyball.json) |
+| Polybius | 239548 | [239548-polybius.json](./239548-polybius.json) |
 | Polybius | 24868 | [24868-polybius.json](./24868-polybius.json) |
 | Polybius | 275668 | [275668-polybius.json](./275668-polybius.json) |
 | Polybius Invaders | 173786 | [173786-polybius-invaders.json](./173786-polybius-invaders.json) |
@@ -8324,6 +8326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Potentia | 142098 | [142098-potentia.json](./142098-potentia.json) |
 | Potential Man | 411102 | [411102-potential-man.json](./411102-potential-man.json) |
 | Pothead | 392362 | [392362-pothead.json](./392362-pothead.json) |
+| Potio Mellow | 239695 | [239695-potio-mellow.json](./239695-potio-mellow.json) |
 | Potion Commotion | 130128 | [130128-potion-commotion.json](./130128-potion-commotion.json) |
 | Potion Commotion | 246494 | [246494-potion-commotion.json](./246494-potion-commotion.json) |
 | Potion Commotion: Heart Edition | 135697 | [135697-potion-commotion-heart-edition.json](./135697-potion-commotion-heart-edition.json) |
