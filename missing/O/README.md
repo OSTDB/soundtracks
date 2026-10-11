@@ -844,6 +844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Okami HD: Limited Edition | 136788 | [136788-okami-hd-limited-edition.json](./136788-okami-hd-limited-edition.json) |
 | Okami Sequel | 325610 | [325610-okami-sequel.json](./325610-okami-sequel.json) |
 | Okashi na Shima no Peter Pan: Sweet Never Land | 218955 | [218955-okashi-na-shima-no-peter-pan-sweet-never-land.json](./218955-okashi-na-shima-no-peter-pan-sweet-never-land.json) |
+| Okashi Towers | 254991 | [254991-okashi-towers.json](./254991-okashi-towers.json) |
 | Okay, Panic! | 120051 | [120051-okay-panic.json](./120051-okay-panic.json) |
 | Okayu Nyumu! | 320166 | [320166-okayu-nyumu.json](./320166-okayu-nyumu.json) |
 | Okayu Nyumu! R | 395849 | [395849-okayu-nyumu-r.json](./395849-okayu-nyumu-r.json) |
@@ -2893,6 +2894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Otome ga Musubu Tsukiyo no Kirameki | 194593 | [194593-otome-ga-musubu-tsukiyo-no-kirameki.json](./194593-otome-ga-musubu-tsukiyo-no-kirameki.json) |
 | Otome ga Tsumugu Koi no Canvas | 60371 | [60371-otome-ga-tsumugu-koi-no-canvas.json](./60371-otome-ga-tsumugu-koi-no-canvas.json) |
 | Otome ga Tsumugu Koi no Canvas: Futari no Gallery | 60372 | [60372-otome-ga-tsumugu-koi-no-canvas-futari-no-gallery.json](./60372-otome-ga-tsumugu-koi-no-canvas-futari-no-gallery.json) |
+| Otome Games Romance Box | 254956 | [254956-otome-games-romance-box.json](./254956-otome-games-romance-box.json) |
 | Otome Games: Is It Love? Ryan | 105778 | [105778-otome-games-is-it-love-ryan.json](./105778-otome-games-is-it-love-ryan.json) |
 | Otome Kishi: Ima Sugu Watashi wo Dakishimete | 415321 | [415321-otome-kishi-ima-sugu-watashi-wo-dakishimete.json](./415321-otome-kishi-ima-sugu-watashi-wo-dakishimete.json) |
 | Otome no Himitsu | 188526 | [188526-otome-no-himitsu.json](./188526-otome-no-himitsu.json) |
