@@ -569,6 +569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Calm Horizon | 380050 | [380050-calm-horizon.json](./380050-calm-horizon.json) |
 | Calm Time | 122999 | [122999-calm-time.json](./122999-calm-time.json) |
 | Calmed by the Dark: Leviathan | 153967 | [153967-calmed-by-the-dark-leviathan.json](./153967-calmed-by-the-dark-leviathan.json) |
+| Calming Lia | 261161 | [261161-calming-lia.json](./261161-calming-lia.json) |
 | CalmLine | 238448 | [238448-calmline.json](./238448-calmline.json) |
 | Calon Arang Nightmare of Revenge | 387557 | [387557-calon-arang-nightmare-of-revenge.json](./387557-calon-arang-nightmare-of-revenge.json) |
 | Calorie-kun vs. Moguranian | 301953 | [301953-calorie-kun-vs-moguranian.json](./301953-calorie-kun-vs-moguranian.json) |
@@ -6874,6 +6875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coffee Addict | 62808 | [62808-coffee-addict.json](./62808-coffee-addict.json) |
 | Coffee At Night | 339351 | [339351-coffee-at-night.json](./339351-coffee-at-night.json) |
 | Coffee Brakes | 276207 | [276207-coffee-brakes.json](./276207-coffee-brakes.json) |
+| Coffee Break | 261180 | [261180-coffee-break.json](./261180-coffee-break.json) |
 | Coffee Break | 326214 | [326214-coffee-break.json](./326214-coffee-break.json) |
 | Coffee Break | 71743 | [71743-coffee-break.json](./71743-coffee-break.json) |
 | Coffee Break: Head to Head | 207277 | [207277-coffee-break-head-to-head.json](./207277-coffee-break-head-to-head.json) |
@@ -9007,6 +9009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corpse Party | 11600 | [11600-corpse-party.json](./11600-corpse-party.json) |
 | Corpse Party | 178111 | [178111-corpse-party.json](./178111-corpse-party.json) |
 | Corpse Party D2: Depths of Despair | 170023 | [170023-corpse-party-d2-depths-of-despair.json](./170023-corpse-party-d2-depths-of-despair.json) |
+| Corpse Party II: Darkness Distortion | 261147 | [261147-corpse-party-ii-darkness-distortion.json](./261147-corpse-party-ii-darkness-distortion.json) |
 | Corpse Party II: Darkness Distortion – Ayame's Mercy Limited Edition | 294812 | [294812-corpse-party-ii-darkness-distortion-ayames-mercy-limited-edition.json](./294812-corpse-party-ii-darkness-distortion-ayames-mercy-limited-edition.json) |
 | Corpse Party Tetralogy Pack | 352377 | [352377-corpse-party-tetralogy-pack.json](./352377-corpse-party-tetralogy-pack.json) |
 | Corpse Party Zero | 81474 | [81474-corpse-party-zero.json](./81474-corpse-party-zero.json) |
