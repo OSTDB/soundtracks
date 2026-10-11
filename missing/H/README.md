@@ -237,6 +237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hajwala Drift X | 374677 | [374677-hajwala-drift-x.json](./374677-hajwala-drift-x.json) |
 | Hajwala Of Riyadh | 366215 | [366215-hajwala-of-riyadh.json](./366215-hajwala-of-riyadh.json) |
 | Hakai | 286482 | [286482-hakai.json](./286482-hakai.json) |
+| Hakan's War Manager | 258919 | [258919-hakans-war-manager.json](./258919-hakans-war-manager.json) |
 | Hakarena Heart: Dare ga Tame ni Kimi ha Aru | 69292 | [69292-hakarena-heart-dare-ga-tame-ni-kimi-ha-aru.json](./69292-hakarena-heart-dare-ga-tame-ni-kimi-ha-aru.json) |
 | Hakkaku Doku | 323707 | [323707-hakkaku-doku.json](./323707-hakkaku-doku.json) |
 | Hakkemii no Uranai SP | 354390 | [354390-hakkemii-no-uranai-sp.json](./354390-hakkemii-no-uranai-sp.json) |
@@ -2202,6 +2203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heaven's Dawn | 50418 | [50418-heavens-dawn.json](./50418-heavens-dawn.json) |
 | Heaven's Door | 231057 | [231057-heavens-door.json](./231057-heavens-door.json) |
 | Heaven's Door | 393565 | [393565-heavens-door.json](./393565-heavens-door.json) |
+| Heaven's Dream | 258929 | [258929-heavens-dream.json](./258929-heavens-dream.json) |
 | Heaven's Gambler | 348738 | [348738-heavens-gambler.json](./348738-heavens-gambler.json) |
 | Heaven's Glaive | 387362 | [387362-heavens-glaive.json](./387362-heavens-glaive.json) |
 | Heaven's Grave | 121473 | [121473-heavens-grave.json](./121473-heavens-grave.json) |
