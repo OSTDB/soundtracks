@@ -190,6 +190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Divine Wager | 176912 | [176912-a-divine-wager.json](./176912-a-divine-wager.json) |
 | A Doctor's Term | 297762 | [297762-a-doctors-term.json](./297762-a-doctors-term.json) |
 | A Dog Called Buddy | 341469 | [341469-a-dog-called-buddy.json](./341469-a-dog-called-buddy.json) |
+| A Dog of Flanders | 258387 | [258387-a-dog-of-flanders.json](./258387-a-dog-of-flanders.json) |
 | A Dog Tale | 295872 | [295872-a-dog-tale.json](./295872-a-dog-tale.json) |
 | A Dogs Dream | 378434 | [378434-a-dogs-dream.json](./378434-a-dogs-dream.json) |
 | A dragon girl looks up at the endless sky | 33166 | [33166-a-dragon-girl-looks-up-at-the-endless-sky.json](./33166-a-dragon-girl-looks-up-at-the-endless-sky.json) |
@@ -10978,6 +10979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Axe of Janissary | 233619 | [233619-axe-of-janissary.json](./233619-axe-of-janissary.json) |
 | Axe of Kolt | 15610 | [15610-axe-of-kolt.json](./15610-axe-of-kolt.json) |
 | Axe Over It | 144296 | [144296-axe-over-it.json](./144296-axe-over-it.json) |
+| Axe Party VR | 258394 | [258394-axe-party-vr.json](./258394-axe-party-vr.json) |
 | Axe Prime | 115046 | [115046-axe-prime.json](./115046-axe-prime.json) |
 | Axe Slasher | 333065 | [333065-axe-slasher.json](./333065-axe-slasher.json) |
 | Axe Throw VR | 107850 | [107850-axe-throw-vr.json](./107850-axe-throw-vr.json) |
