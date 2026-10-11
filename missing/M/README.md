@@ -1059,6 +1059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magin: The Rat Project Stories - Supporter Pack | 396912 | [396912-magin-the-rat-project-stories-supporter-pack.json](./396912-magin-the-rat-project-stories-supporter-pack.json) |
 | Maginary | 129163 | [129163-maginary.json](./129163-maginary.json) |
 | Magincross | 195048 | [195048-magincross.json](./195048-magincross.json) |
+| Maginet | 258932 | [258932-maginet.json](./258932-maginet.json) |
 | Magink | 125877 | [125877-magink.json](./125877-magink.json) |
 | Magiopolis | 277048 | [277048-magiopolis.json](./277048-magiopolis.json) |
 | Magirune 2 | 197178 | [197178-magirune-2.json](./197178-magirune-2.json) |
@@ -3486,6 +3487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Match War | 258710 | [258710-match-war.json](./258710-match-war.json) |
 | Match-o-3000 | 336722 | [336722-match-o-3000.json](./336722-match-o-3000.json) |
 | Match-Off | 182854 | [182854-match-off.json](./182854-match-off.json) |
+| Match, Talk, Date!: A Modern Dating Sim! | 258937 | [258937-match-talk-date-a-modern-dating-sim.json](./258937-match-talk-date-a-modern-dating-sim.json) |
 | Match: Isekai Journey | 417613 | [417613-match-isekai-journey.json](./417613-match-isekai-journey.json) |
 | Match! The 12 CZ Wars | 372064 | [372064-match-the-12-cz-wars.json](./372064-match-the-12-cz-wars.json) |
 | Matcha | 211159 | [211159-matcha.json](./211159-matcha.json) |
@@ -12531,6 +12533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Cool Diner | 200150 | [200150-my-cool-diner.json](./200150-my-cool-diner.json) |
 | My Coworkers Are Made Of Static | 401490 | [401490-my-coworkers-are-made-of-static.json](./401490-my-coworkers-are-made-of-static.json) |
 | My Cozy Aquarium | 373615 | [373615-my-cozy-aquarium.json](./373615-my-cozy-aquarium.json) |
+| My Cozy Home | 258936 | [258936-my-cozy-home.json](./258936-my-cozy-home.json) |
 | My Cozy Room | 328507 | [328507-my-cozy-room.json](./328507-my-cozy-room.json) |
 | My Cozy Workspace | 403746 | [403746-my-cozy-workspace.json](./403746-my-cozy-workspace.json) |
 | My Craft: Block Edition | 102849 | [102849-my-craft-block-edition.json](./102849-my-craft-block-edition.json) |
