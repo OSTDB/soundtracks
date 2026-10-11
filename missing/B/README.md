@@ -1817,6 +1817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barton Lynch Pro Surfing | 272292 | [272292-barton-lynch-pro-surfing.json](./272292-barton-lynch-pro-surfing.json) |
 | Barton Lynch Pro Surfing 2022 | 196295 | [196295-barton-lynch-pro-surfing-2022.json](./196295-barton-lynch-pro-surfing-2022.json) |
 | Bartox | 213439 | [213439-bartox.json](./213439-bartox.json) |
+| Baryoland | 269483 | [269483-baryoland.json](./269483-baryoland.json) |
 | Basalt Breaker | 254784 | [254784-basalt-breaker.json](./254784-basalt-breaker.json) |
 | Basandere | 294457 | [294457-basandere.json](./294457-basandere.json) |
 | Basault VR | 190062 | [190062-basault-vr.json](./190062-basault-vr.json) |
@@ -4666,6 +4667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Scale Racing | 69842 | [69842-big-scale-racing.json](./69842-big-scale-racing.json) |
 | Big Scary | 372271 | [372271-big-scary.json](./372271-big-scary.json) |
 | Big Screen Games: Pack 1 | 197383 | [197383-big-screen-games-pack-1.json](./197383-big-screen-games-pack-1.json) |
+| Big Screen Sudoku | 269476 | [269476-big-screen-sudoku.json](./269476-big-screen-sudoku.json) |
 | Big Sea | 14301 | [14301-big-sea.json](./14301-big-sea.json) |
 | Big Sea Fishing | 342263 | [342263-big-sea-fishing.json](./342263-big-sea-fishing.json) |
 | Big Sea: The Better One Will Win | 69215 | [69215-big-sea-the-better-one-will-win.json](./69215-big-sea-the-better-one-will-win.json) |
@@ -7584,6 +7586,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boku Boku | 236974 | [236974-boku-boku.json](./236974-boku-boku.json) |
 | Boku dake ga Shitteiru | 375356 | [375356-boku-dake-ga-shitteiru.json](./375356-boku-dake-ga-shitteiru.json) |
 | Boku ha Kimi dake wo Mitsumeru: I Gaze at Only You | 335996 | [335996-boku-ha-kimi-dake-wo-mitsumeru-i-gaze-at-only-you.json](./335996-boku-ha-kimi-dake-wo-mitsumeru-i-gaze-at-only-you.json) |
+| Boku ha Koukuu Kanseikan: Airport Hero Narita | 269486 | [269486-boku-ha-koukuu-kanseikan-airport-hero-narita.json](./269486-boku-ha-koukuu-kanseikan-airport-hero-narita.json) |
+| Boku ha Koukuu Kanseikan: Airport Hero Shinchitose | 269487 | [269487-boku-ha-koukuu-kanseikan-airport-hero-shinchitose.json](./269487-boku-ha-koukuu-kanseikan-airport-hero-shinchitose.json) |
 | Boku ha Plarail Untenshi: Shinkansen & Joukikikansha-hen | 344320 | [344320-boku-ha-plarail-untenshi-shinkansen-and-joukikikansha-hen.json](./344320-boku-ha-plarail-untenshi-shinkansen-and-joukikikansha-hen.json) |
 | Boku ha Tomodachi Fan Disk: Kanwa, Sorekara | 403772 | [403772-boku-ha-tomodachi-fan-disk-kanwa-sorekara.json](./403772-boku-ha-tomodachi-fan-disk-kanwa-sorekara.json) |
 | Boku ha Tomodachi ga Sukunai Portable | 56491 | [56491-boku-ha-tomodachi-ga-sukunai-portable.json](./56491-boku-ha-tomodachi-ga-sukunai-portable.json) |
