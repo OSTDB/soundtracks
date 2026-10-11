@@ -3167,6 +3167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Despair 3 | 320554 | [320554-deep-despair-3.json](./320554-deep-despair-3.json) |
 | Deep Dish Dungeon | 298680 | [298680-deep-dish-dungeon.json](./298680-deep-dish-dungeon.json) |
 | Deep Dive | 120892 | [120892-deep-dive.json](./120892-deep-dive.json) |
+| Deep Dive | 255609 | [255609-deep-dive.json](./255609-deep-dive.json) |
 | Deep Dive | 403577 | [403577-deep-dive.json](./403577-deep-dive.json) |
 | Deep Diving Adventures | 131978 | [131978-deep-diving-adventures.json](./131978-deep-diving-adventures.json) |
 | Deep Diving Simulator: Adventure Pack | 154506 | [154506-deep-diving-simulator-adventure-pack.json](./154506-deep-diving-simulator-adventure-pack.json) |
@@ -3621,6 +3622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delicious Dungeon | 211241 | [211241-delicious-dungeon.json](./211241-delicious-dungeon.json) |
 | Delicious Fruitworld | 173309 | [173309-delicious-fruitworld.json](./173309-delicious-fruitworld.json) |
 | Delicious Letters | 176982 | [176982-delicious-letters.json](./176982-delicious-letters.json) |
+| Delicious Quest | 255580 | [255580-delicious-quest.json](./255580-delicious-quest.json) |
 | Delicious Vinyl DJ | 21778 | [21778-delicious-vinyl-dj.json](./21778-delicious-vinyl-dj.json) |
 | Delicious World | 227476 | [227476-delicious-world.json](./227476-delicious-world.json) |
 | Delicious: Cooking and Romance | 270063 | [270063-delicious-cooking-and-romance.json](./270063-delicious-cooking-and-romance.json) |
@@ -6272,6 +6274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DishDash | 389968 | [389968-dishdash.json](./389968-dishdash.json) |
 | Dishonest | 120934 | [120934-dishonest.json](./120934-dishonest.json) |
 | Dishonored 2: Collector's Edition | 136269 | [136269-dishonored-2-collectors-edition.json](./136269-dishonored-2-collectors-edition.json) |
+| Dishonored 2: Limited Edition | 255606 | [255606-dishonored-2-limited-edition.json](./255606-dishonored-2-limited-edition.json) |
 | Dishonored 2: Steelbook Edition | 308562 | [308562-dishonored-2-steelbook-edition.json](./308562-dishonored-2-steelbook-edition.json) |
 | Dishonored 3 | 267308 | [267308-dishonored-3.json](./267308-dishonored-3.json) |
 | Dishonored: Death of the Outsider | 37030 | [37030-dishonored-death-of-the-outsider.json](./37030-dishonored-death-of-the-outsider.json) |
@@ -7740,6 +7743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donald Dowell and the Ghost of Barker Manor | 168386 | [168386-donald-dowell-and-the-ghost-of-barker-manor.json](./168386-donald-dowell-and-the-ghost-of-barker-manor.json) |
 | Donald Duck | 215079 | [215079-donald-duck.json](./215079-donald-duck.json) |
 | Donald Duck's Playground | 12052 | [12052-donald-ducks-playground.json](./12052-donald-ducks-playground.json) |
+| Donald Fuck RPG | 255616 | [255616-donald-fuck-rpg.json](./255616-donald-fuck-rpg.json) |
 | Donald Jump | 412966 | [412966-donald-jump.json](./412966-donald-jump.json) |
 | Donald no Magical World | 46544 | [46544-donald-no-magical-world.json](./46544-donald-no-magical-world.json) |
 | Donald no Magical World GG2SMS | 369596 | [369596-donald-no-magical-world-gg2sms.json](./369596-donald-no-magical-world-gg2sms.json) |
@@ -10323,6 +10327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Droid404 | 159741 | [159741-droid404.json](./159741-droid404.json) |
 | Droids | 84276 | [84276-droids.json](./84276-droids.json) |
 | Droids & Wizards | 124769 | [124769-droids-and-wizards.json](./124769-droids-and-wizards.json) |
+| Droids: The White Witch | 255557 | [255557-droids-the-white-witch.json](./255557-droids-the-white-witch.json) |
 | Droiyan | 146529 | [146529-droiyan.json](./146529-droiyan.json) |
 | Droiyan 2: Absolute Monarch | 146531 | [146531-droiyan-2-absolute-monarch.json](./146531-droiyan-2-absolute-monarch.json) |
 | Droiyan Next | 146530 | [146530-droiyan-next.json](./146530-droiyan-next.json) |
