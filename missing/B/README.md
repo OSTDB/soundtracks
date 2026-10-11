@@ -417,6 +417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backrooms: The Next Level | 353784 | [353784-backrooms-the-next-level.json](./353784-backrooms-the-next-level.json) |
 | Backrooms: The Old Watcher | 407412 | [407412-backrooms-the-old-watcher.json](./407412-backrooms-the-old-watcher.json) |
 | Backrooms: The Others | 366337 | [366337-backrooms-the-others.json](./366337-backrooms-the-others.json) |
+| Backrooms: The Phobolore | 265538 | [265538-backrooms-the-phobolore.json](./265538-backrooms-the-phobolore.json) |
 | Backrooms: The Project | 239762 | [239762-backrooms-the-project.json](./239762-backrooms-the-project.json) |
 | Backrooms: The Silence | 339449 | [339449-backrooms-the-silence.json](./339449-backrooms-the-silence.json) |
 | Backrooms: The Twisted One | 399294 | [399294-backrooms-the-twisted-one.json](./399294-backrooms-the-twisted-one.json) |
@@ -1033,6 +1034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balloon Bros | 381095 | [381095-balloon-bros.json](./381095-balloon-bros.json) |
 | Balloon Buster | 360121 | [360121-balloon-buster.json](./360121-balloon-buster.json) |
 | Balloon Challenge | 57632 | [57632-balloon-challenge.json](./57632-balloon-challenge.json) |
+| Balloon Chase Journey | 265561 | [265561-balloon-chase-journey.json](./265561-balloon-chase-journey.json) |
 | Balloon Chess | 339097 | [339097-balloon-chess.json](./339097-balloon-chess.json) |
 | Balloon De Fight'99 | 173077 | [173077-balloon-de-fight99.json](./173077-balloon-de-fight99.json) |
 | Balloon Fast Run | 330185 | [330185-balloon-fast-run.json](./330185-balloon-fast-run.json) |
@@ -3150,6 +3152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bearly Baking | 355040 | [355040-bearly-baking.json](./355040-bearly-baking.json) |
 | Bearly Chillin' | 363976 | [363976-bearly-chillin.json](./363976-bearly-chillin.json) |
 | Bearly Delivered | 283986 | [283986-bearly-delivered.json](./283986-bearly-delivered.json) |
+| Bearnard | 265533 | [265533-bearnard.json](./265533-bearnard.json) |
 | Bearnard + What Lies in the Multiverse | 375405 | [375405-bearnard-what-lies-in-the-multiverse.json](./375405-bearnard-what-lies-in-the-multiverse.json) |
 | BearPit | 338719 | [338719-bearpit.json](./338719-bearpit.json) |
 | Bearricade | 327199 | [327199-bearricade.json](./327199-bearricade.json) |
@@ -8819,6 +8822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boy x Boy: Shiritsu Kouryou Gakuin Seishinryou | 417548 | [417548-boy-x-boy-shiritsu-kouryou-gakuin-seishinryou.json](./417548-boy-x-boy-shiritsu-kouryou-gakuin-seishinryou.json) |
 | Boy's Love | 101358 | [101358-boys-love.json](./101358-boys-love.json) |
 | Boyfriend Dungeon: Secret Weapons | 228681 | [228681-boyfriend-dungeon-secret-weapons.json](./228681-boyfriend-dungeon-secret-weapons.json) |
+| Boyfriend Exorcist | 265535 | [265535-boyfriend-exorcist.json](./265535-boyfriend-exorcist.json) |
 | Boyfriend or Cake?? | 364508 | [364508-boyfriend-or-cake.json](./364508-boyfriend-or-cake.json) |
 | Boyfriend's Rescue | 225639 | [225639-boyfriends-rescue.json](./225639-boyfriends-rescue.json) |
 | Boyhood's End | 250286 | [250286-boyhoods-end.json](./250286-boyhoods-end.json) |
@@ -9966,6 +9970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brute | 33279 | [33279-brute.json](./33279-brute.json) |
 | Brute Force | 80634 | [80634-brute-force.json](./80634-brute-force.json) |
 | Brute Horse | 314627 | [314627-brute-horse.json](./314627-brute-horse.json) |
+| Bruteforce: Survivors | 265553 | [265553-bruteforce-survivors.json](./265553-bruteforce-survivors.json) |
 | Brutes.io | 56266 | [56266-brutes-io.json](./56266-brutes-io.json) |
 | Brutic | 280228 | [280228-brutic.json](./280228-brutic.json) |
 | Brutish Mine | 22372 | [22372-brutish-mine.json](./22372-brutish-mine.json) |
