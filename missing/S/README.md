@@ -3350,6 +3350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sengoku 3 | 46784 | [46784-sengoku-3.json](./46784-sengoku-3.json) |
 | Sengoku A Live | 385253 | [385253-sengoku-a-live.json](./385253-sengoku-a-live.json) |
 | Sengoku Anthology | 43460 | [43460-sengoku-anthology.json](./43460-sengoku-anthology.json) |
+| Sengoku Basara 2: Heroes - Double Pack | 268378 | [268378-sengoku-basara-2-heroes-double-pack.json](./268378-sengoku-basara-2-heroes-double-pack.json) |
 | Sengoku Basara X | 68950 | [68950-sengoku-basara-x.json](./68950-sengoku-basara-x.json) |
 | Sengoku Basara: Samurai Heroes | 7455 | [7455-sengoku-basara-samurai-heroes.json](./7455-sengoku-basara-samurai-heroes.json) |
 | Sengoku Bishoujo Emaki: Cut Sky | 147927 | [147927-sengoku-bishoujo-emaki-cut-sky.json](./147927-sengoku-bishoujo-emaki-cut-sky.json) |
@@ -12789,6 +12790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spadyssey | 93736 | [93736-spadyssey.json](./93736-spadyssey.json) |
 | Spaghet | 96652 | [96652-spaghet.json](./96652-spaghet.json) |
 | Spaghet 2: Al Dente Chapter | 168862 | [168862-spaghet-2-al-dente-chapter.json](./168862-spaghet-2-al-dente-chapter.json) |
+| Spaghetti Western Shooter | 268381 | [268381-spaghetti-western-shooter.json](./268381-spaghetti-western-shooter.json) |
 | SpaghettiKart | 350955 | [350955-spaghettikart.json](./350955-spaghettikart.json) |
 | Spakoyno: Back to USSR 2.0 | 34796 | [34796-spakoyno-back-to-ussr-2-0.json](./34796-spakoyno-back-to-ussr-2-0.json) |
 | Spam | 315689 | [315689-spam.json](./315689-spam.json) |
@@ -13058,6 +13060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speed | 261245 | [261245-speed.json](./261245-speed.json) |
 | Speed | 91537 | [91537-speed.json](./91537-speed.json) |
 | Speed & Precision Collection | 328484 | [328484-speed-and-precision-collection.json](./328484-speed-and-precision-collection.json) |
+| Speed 2 | 268379 | [268379-speed-2.json](./268379-speed-2.json) |
 | Speed 3: Grand Prix | 139877 | [139877-speed-3-grand-prix.json](./139877-speed-3-grand-prix.json) |
 | Speed Ball | 40121 | [40121-speed-ball.json](./40121-speed-ball.json) |
 | Speed Bike Racing | 250657 | [250657-speed-bike-racing.json](./250657-speed-bike-racing.json) |
@@ -13255,6 +13258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spellbound Dizzy | 12362 | [12362-spellbound-dizzy.json](./12362-spellbound-dizzy.json) |
 | Spellbound FPS | 289809 | [289809-spellbound-fps.json](./289809-spellbound-fps.json) |
 | Spellbound Hearts | 286013 | [286013-spellbound-hearts.json](./286013-spellbound-hearts.json) |
+| Spellbound Party | 268382 | [268382-spellbound-party.json](./268382-spellbound-party.json) |
 | Spellbound Schoolgirls! | 206950 | [206950-spellbound-schoolgirls.json](./206950-spellbound-schoolgirls.json) |
 | Spellbound Spire | 142428 | [142428-spellbound-spire.json](./142428-spellbound-spire.json) |
 | Spellbound: A Detective's Tale | 309486 | [309486-spellbound-a-detectives-tale.json](./309486-spellbound-a-detectives-tale.json) |
@@ -19874,6 +19878,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Bros: Mythical Mushrooms | 320224 | [320224-super-mario-bros-mythical-mushrooms.json](./320224-super-mario-bros-mythical-mushrooms.json) |
 | Super Mario Bros: Restless Reality | 320223 | [320223-super-mario-bros-restless-reality.json](./320223-super-mario-bros-restless-reality.json) |
 | Super Mario Bros: Revenge of Bowser | 250056 | [250056-super-mario-bros-revenge-of-bowser.json](./250056-super-mario-bros-revenge-of-bowser.json) |
+| Super Mario Bros: The Early Years | 268364 | [268364-super-mario-bros-the-early-years.json](./268364-super-mario-bros-the-early-years.json) |
+| Super Mario Bros: The Hunt for the Magical Key | 268365 | [268365-super-mario-bros-the-hunt-for-the-magical-key.json](./268365-super-mario-bros-the-hunt-for-the-magical-key.json) |
 | Super Mario Bros: Unofficial PC Port | 340337 | [340337-super-mario-bros-unofficial-pc-port.json](./340337-super-mario-bros-unofficial-pc-port.json) |
 | Super Mario Bros: Ztar Turmoil | 320226 | [320226-super-mario-bros-ztar-turmoil.json](./320226-super-mario-bros-ztar-turmoil.json) |
 | Super Mario Bros. | 206934 | [206934-super-mario-bros.json](./206934-super-mario-bros.json) |
@@ -19913,6 +19919,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Bros. Next: The Lost Levels - Part 1 | 315790 | [315790-super-mario-bros-next-the-lost-levels-part-1.json](./315790-super-mario-bros-next-the-lost-levels-part-1.json) |
 | Super Mario Bros. Next: The Lost Levels - Part 2 | 315791 | [315791-super-mario-bros-next-the-lost-levels-part-2.json](./315791-super-mario-bros-next-the-lost-levels-part-2.json) |
 | Super Mario Bros. Peach's Adventure | 142383 | [142383-super-mario-bros-peachs-adventure.json](./142383-super-mario-bros-peachs-adventure.json) |
+| Super Mario Bros. Plus | 268362 | [268362-super-mario-bros-plus.json](./268362-super-mario-bros-plus.json) |
+| Super Mario Bros. R | 268363 | [268363-super-mario-bros-r.json](./268363-super-mario-bros-r.json) |
 | Super Mario Bros. Remastered | 358244 | [358244-super-mario-bros-remastered.json](./358244-super-mario-bros-remastered.json) |
 | Super Mario Bros. S | 313430 | [313430-super-mario-bros-s.json](./313430-super-mario-bros-s.json) |
 | Super Mario Bros. SNES | 377742 | [377742-super-mario-bros-snes.json](./377742-super-mario-bros-snes.json) |
@@ -20078,6 +20086,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario World 2021 | 267933 | [267933-super-mario-world-2021.json](./267933-super-mario-world-2021.json) |
 | Super Mario World 2025 | 378564 | [378564-super-mario-world-2025.json](./378564-super-mario-world-2025.json) |
 | Super Mario World 64 | 230538 | [230538-super-mario-world-64.json](./230538-super-mario-world-64.json) |
+| Super Mario World and the Bois! | 268366 | [268366-super-mario-world-and-the-bois.json](./268366-super-mario-world-and-the-bois.json) |
+| Super Mario World Bros. | 268367 | [268367-super-mario-world-bros.json](./268367-super-mario-world-bros.json) |
 | Super Mario World Odyssey | 247185 | [247185-super-mario-world-odyssey.json](./247185-super-mario-world-odyssey.json) |
 | Super Mario World Remastered | 339866 | [339866-super-mario-world-remastered.json](./339866-super-mario-world-remastered.json) |
 | Super Mario World Rumbled | 377736 | [377736-super-mario-world-rumbled.json](./377736-super-mario-world-rumbled.json) |
@@ -20089,8 +20099,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario World: A Super Mario Adventure | 268102 | [268102-super-mario-world-a-super-mario-adventure.json](./268102-super-mario-world-a-super-mario-adventure.json) |
 | Super Mario World: Bowser's Return | 222278 | [222278-super-mario-world-bowsers-return.json](./222278-super-mario-world-bowsers-return.json) |
 | Super Mario World: Mario to Yoshi no Bouken Land | 230281 | [230281-super-mario-world-mario-to-yoshi-no-bouken-land.json](./230281-super-mario-world-mario-to-yoshi-no-bouken-land.json) |
+| Super Mario World: Neeberz's Hack | 268374 | [268374-super-mario-world-neeberzs-hack.json](./268374-super-mario-world-neeberzs-hack.json) |
 | Super Mario World: Return to Dinosaur Land | 42525 | [42525-super-mario-world-return-to-dinosaur-land.json](./42525-super-mario-world-return-to-dinosaur-land.json) |
 | Super Mario World: Super Mario Advance 2 | 16617 | [16617-super-mario-world-super-mario-advance-2.json](./16617-super-mario-world-super-mario-advance-2.json) |
+| Super Mario World: The Great Sixth | 268389 | [268389-super-mario-world-the-great-sixth.json](./268389-super-mario-world-the-great-sixth.json) |
 | Super Mario World: The Huge Adventure | 267968 | [267968-super-mario-world-the-huge-adventure.json](./267968-super-mario-world-the-huge-adventure.json) |
 | Super Mario World: The Lost Adventure - Episode I Remastered | 259290 | [259290-super-mario-world-the-lost-adventure-episode-i-remastered.json](./259290-super-mario-world-the-lost-adventure-episode-i-remastered.json) |
 | Super Mario World: The Magical Golden Mushroom | 409611 | [409611-super-mario-world-the-magical-golden-mushroom.json](./409611-super-mario-world-the-magical-golden-mushroom.json) |
@@ -20105,10 +20117,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario: Adventure Awaits | 336102 | [336102-super-mario-adventure-awaits.json](./336102-super-mario-adventure-awaits.json) |
 | Super Mario: Blue Twilight | 330332 | [330332-super-mario-blue-twilight.json](./330332-super-mario-blue-twilight.json) |
 | Super Mario: Bob-omb Blast | 313419 | [313419-super-mario-bob-omb-blast.json](./313419-super-mario-bob-omb-blast.json) |
+| Super Mario: Christmas Season | 268396 | [268396-super-mario-christmas-season.json](./268396-super-mario-christmas-season.json) |
 | Super Mario: Endless Earth | 135177 | [135177-super-mario-endless-earth.json](./135177-super-mario-endless-earth.json) |
 | Super Mario: Fushigi no Koro-koro Party | 132033 | [132033-super-mario-fushigi-no-koro-koro-party.json](./132033-super-mario-fushigi-no-koro-koro-party.json) |
 | Super Mario: Fushigi no Koro-koro Party 2 | 132034 | [132034-super-mario-fushigi-no-koro-koro-party-2.json](./132034-super-mario-fushigi-no-koro-koro-party-2.json) |
 | Super Mario: Magnum Opus | 250041 | [250041-super-mario-magnum-opus.json](./250041-super-mario-magnum-opus.json) |
+| Super Mario: Oiram's Invasion | 268403 | [268403-super-mario-oirams-invasion.json](./268403-super-mario-oirams-invasion.json) |
 | Super Mario: Red Scare | 321468 | [321468-super-mario-red-scare.json](./321468-super-mario-red-scare.json) |
 | Super Mario: Red Scare 2 | 318038 | [318038-super-mario-red-scare-2.json](./318038-super-mario-red-scare-2.json) |
 | Super Mario: Shatters of A Soul | 323871 | [323871-super-mario-shatters-of-a-soul.json](./323871-super-mario-shatters-of-a-soul.json) |
@@ -20185,6 +20199,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Metroid: Eris | 42209 | [42209-super-metroid-eris.json](./42209-super-metroid-eris.json) |
 | Super Metroid: Fear | 255370 | [255370-super-metroid-fear.json](./255370-super-metroid-fear.json) |
 | Super Metroid: GBA Edition | 222919 | [222919-super-metroid-gba-edition.json](./222919-super-metroid-gba-edition.json) |
+| Super Metroid: Green Peace | 268411 | [268411-super-metroid-green-peace.json](./268411-super-metroid-green-peace.json) |
+| Super Metroid: Harvest | 268412 | [268412-super-metroid-harvest.json](./268412-super-metroid-harvest.json) |
 | Super Metroid: Ice Metal Uninstall | 198335 | [198335-super-metroid-ice-metal-uninstall.json](./198335-super-metroid-ice-metal-uninstall.json) |
 | Super Metroid: Less Linear Edition | 219087 | [219087-super-metroid-less-linear-edition.json](./219087-super-metroid-less-linear-edition.json) |
 | Super Metroid: Map Rando | 237534 | [237534-super-metroid-map-rando.json](./237534-super-metroid-map-rando.json) |
