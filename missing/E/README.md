@@ -1804,6 +1804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ememe | 280291 | [280291-ememe.json](./280291-ememe.json) |
 | Emerald | 375415 | [375415-emerald.json](./375415-emerald.json) |
 | Emerald & Mrs. Ghost: The Ship that Never Returns | 113591 | [113591-emerald-and-mrs-ghost-the-ship-that-never-returns.json](./113591-emerald-and-mrs-ghost-the-ship-that-never-returns.json) |
+| Emerald Ambush | 257295 | [257295-emerald-ambush.json](./257295-emerald-ambush.json) |
 | Emerald Bathhouse | 268776 | [268776-emerald-bathhouse.json](./268776-emerald-bathhouse.json) |
 | Emerald Caravan | 279139 | [279139-emerald-caravan.json](./279139-emerald-caravan.json) |
 | Emerald City Confidential | 16072 | [16072-emerald-city-confidential.json](./16072-emerald-city-confidential.json) |
@@ -2000,6 +2001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Empire: Total War - Special Forces Units & Bonus Content | 82087 | [82087-empire-total-war-special-forces-units-and-bonus-content.json](./82087-empire-total-war-special-forces-units-and-bonus-content.json) |
 | Empire! | 13640 | [13640-empire.json](./13640-empire.json) |
 | Empires | 36445 | [36445-empires.json](./36445-empires.json) |
+| Empires & Allies | 257272 | [257272-empires-and-allies.json](./257272-empires-and-allies.json) |
 | Empires & Allies | 60553 | [60553-empires-and-allies.json](./60553-empires-and-allies.json) |
 | Empires Apart: Aztec Civilization Pack | 226809 | [226809-empires-apart-aztec-civilization-pack.json](./226809-empires-apart-aztec-civilization-pack.json) |
 | Empires Apart: Chinese Civilization Pack | 169311 | [169311-empires-apart-chinese-civilization-pack.json](./169311-empires-apart-chinese-civilization-pack.json) |
