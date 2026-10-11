@@ -1018,6 +1018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Talisman: Digital Edition - Vampire | 149070 | [149070-talisman-digital-edition-vampire.json](./149070-talisman-digital-edition-vampire.json) |
 | Talisman: Digital Edition - Witch Hunter | 149077 | [149077-talisman-digital-edition-witch-hunter.json](./149077-talisman-digital-edition-witch-hunter.json) |
 | Talisman: Digital Edition - Woodsman | 149068 | [149068-talisman-digital-edition-woodsman.json](./149068-talisman-digital-edition-woodsman.json) |
+| Talisman: Expansion Pack #3 | 252617 | [252617-talisman-expansion-pack-3.json](./252617-talisman-expansion-pack-3.json) |
 | Talisman: Origins | 117644 | [117644-talisman-origins.json](./117644-talisman-origins.json) |
 | Talisman: Origins - Beyond the Veil | 149003 | [149003-talisman-origins-beyond-the-veil.json](./149003-talisman-origins-beyond-the-veil.json) |
 | Talisman: Origins - The Eternal Conflict | 149005 | [149005-talisman-origins-the-eternal-conflict.json](./149005-talisman-origins-the-eternal-conflict.json) |
@@ -8295,6 +8296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lord of the Rings: Adventure Card Game - Definitive Edition | 147962 | [147962-the-lord-of-the-rings-adventure-card-game-definitive-edition.json](./147962-the-lord-of-the-rings-adventure-card-game-definitive-edition.json) |
 | The Lord of the Rings: Aragorn's Quest | 4978 | [4978-the-lord-of-the-rings-aragorns-quest.json](./4978-the-lord-of-the-rings-aragorns-quest.json) |
 | The Lord of the Rings: Gollum | 116584 | [116584-the-lord-of-the-rings-gollum.json](./116584-the-lord-of-the-rings-gollum.json) |
+| The Lord of the Rings: Gollum - Emotes Pack | 252603 | [252603-the-lord-of-the-rings-gollum-emotes-pack.json](./252603-the-lord-of-the-rings-gollum-emotes-pack.json) |
 | The Lord of the Rings: Gollum - Precious Edition | 248677 | [248677-the-lord-of-the-rings-gollum-precious-edition.json](./248677-the-lord-of-the-rings-gollum-precious-edition.json) |
 | The Lord of the Rings: Heroes of Middle Earth | 209924 | [209924-the-lord-of-the-rings-heroes-of-middle-earth.json](./209924-the-lord-of-the-rings-heroes-of-middle-earth.json) |
 | The Lord of the Rings: Journey to Rivendell | 46888 | [46888-the-lord-of-the-rings-journey-to-rivendell.json](./46888-the-lord-of-the-rings-journey-to-rivendell.json) |
@@ -10306,6 +10308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Silent Age | 11444 | [11444-the-silent-age.json](./11444-the-silent-age.json) |
 | The Silent Bells | 292407 | [292407-the-silent-bells.json](./292407-the-silent-bells.json) |
 | The Silent Cartographer: Evolved | 375319 | [375319-the-silent-cartographer-evolved.json](./375319-the-silent-cartographer-evolved.json) |
+| The Silent City Chapter 1 | 252605 | [252605-the-silent-city-chapter-1.json](./252605-the-silent-city-chapter-1.json) |
 | The Silent Expedition Echo Protocol | 407468 | [407468-the-silent-expedition-echo-protocol.json](./407468-the-silent-expedition-echo-protocol.json) |
 | The Silent Forests | 289964 | [289964-the-silent-forests.json](./289964-the-silent-forests.json) |
 | The Silent Hill Collection | 43551 | [43551-the-silent-hill-collection.json](./43551-the-silent-hill-collection.json) |
@@ -10394,6 +10397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims 4: Bathroom Clutter Kit | 232428 | [232428-the-sims-4-bathroom-clutter-kit.json](./232428-the-sims-4-bathroom-clutter-kit.json) |
 | The Sims 4: Bikini Bottom Bundle - Conch Street Aquarium and The Flying Dutchman's Jungle Gym | 404227 | [404227-the-sims-4-bikini-bottom-bundle-conch-street-aquarium-and-the-flying-dutchmans-jungle-gym.json](./404227-the-sims-4-bikini-bottom-bundle-conch-street-aquarium-and-the-flying-dutchmans-jungle-gym.json) |
 | The Sims 4: Bikini Bottom Bundle - Goofy Goober Guitar | 404226 | [404226-the-sims-4-bikini-bottom-bundle-goofy-goober-guitar.json](./404226-the-sims-4-bikini-bottom-bundle-goofy-goober-guitar.json) |
+| The Sims 4: Book Nook Kit | 252608 | [252608-the-sims-4-book-nook-kit.json](./252608-the-sims-4-book-nook-kit.json) |
 | The Sims 4: Bowling Night Stuff | 121026 | [121026-the-sims-4-bowling-night-stuff.json](./121026-the-sims-4-bowling-night-stuff.json) |
 | The Sims 4: Bundle - Cats & Dogs, Parenthood, Toddler Stuff | 159333 | [159333-the-sims-4-bundle-cats-and-dogs-parenthood-toddler-stuff.json](./159333-the-sims-4-bundle-cats-and-dogs-parenthood-toddler-stuff.json) |
 | The Sims 4: Bundle - City Living, Vampires, Vintage Glamour Stuff | 159336 | [159336-the-sims-4-bundle-city-living-vampires-vintage-glamour-stuff.json](./159336-the-sims-4-bundle-city-living-vampires-vintage-glamour-stuff.json) |
@@ -10437,6 +10441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims 4: Goth Galore Kit | 285668 | [285668-the-sims-4-goth-galore-kit.json](./285668-the-sims-4-goth-galore-kit.json) |
 | The Sims 4: Grange Mudroom Kit | 362301 | [362301-the-sims-4-grange-mudroom-kit.json](./362301-the-sims-4-grange-mudroom-kit.json) |
 | The Sims 4: Growing Together | 234545 | [234545-the-sims-4-growing-together.json](./234545-the-sims-4-growing-together.json) |
+| The Sims 4: Grunge Revival Kit | 252609 | [252609-the-sims-4-grunge-revival-kit.json](./252609-the-sims-4-grunge-revival-kit.json) |
 | The Sims 4: High School Years | 207387 | [207387-the-sims-4-high-school-years.json](./207387-the-sims-4-high-school-years.json) |
 | The Sims 4: Horse Ranch | 253116 | [253116-the-sims-4-horse-ranch.json](./253116-the-sims-4-horse-ranch.json) |
 | The Sims 4: Industrial Loft Kit | 165538 | [165538-the-sims-4-industrial-loft-kit.json](./165538-the-sims-4-industrial-loft-kit.json) |
@@ -13256,6 +13261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tied to the Beat | 391039 | [391039-tied-to-the-beat.json](./391039-tied-to-the-beat.json) |
 | Tien Len: Killer 13 | 175422 | [175422-tien-len-killer-13.json](./175422-tien-len-killer-13.json) |
 | Tier 1 | 30204 | [30204-tier-1.json](./30204-tier-1.json) |
+| Tierbabys Puzzle: Echter Puzzlespass für Unterwegs | 252658 | [252658-tierbabys-puzzle-echter-puzzlespass-fur-unterwegs.json](./252658-tierbabys-puzzle-echter-puzzlespass-fur-unterwegs.json) |
 | Tierra | 170906 | [170906-tierra.json](./170906-tierra.json) |
 | Tierra: Adventure Mystery | 174306 | [174306-tierra-adventure-mystery.json](./174306-tierra-adventure-mystery.json) |
 | Tiestru | 36255 | [36255-tiestru.json](./36255-tiestru.json) |
@@ -18016,6 +18022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Tycoon | 152866 | [152866-train-tycoon.json](./152866-train-tycoon.json) |
 | Train Valley 2: Editor's Bulletin | 243140 | [243140-train-valley-2-editors-bulletin.json](./243140-train-valley-2-editors-bulletin.json) |
 | Train Valley 2: Japanese Trails | 367283 | [367283-train-valley-2-japanese-trails.json](./367283-train-valley-2-japanese-trails.json) |
+| Train Valley 2: The Pandeia Project | 252620 | [252620-train-valley-2-the-pandeia-project.json](./252620-train-valley-2-the-pandeia-project.json) |
 | Train Valley 2: Workshop Gems - Ruby | 219540 | [219540-train-valley-2-workshop-gems-ruby.json](./219540-train-valley-2-workshop-gems-ruby.json) |
 | Train Valley Collection | 270317 | [270317-train-valley-collection.json](./270317-train-valley-collection.json) |
 | Train Valley Collection: Deluxe Edition | 270318 | [270318-train-valley-collection-deluxe-edition.json](./270318-train-valley-collection-deluxe-edition.json) |
