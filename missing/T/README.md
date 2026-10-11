@@ -1294,6 +1294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank Hero: Awesome Tank War g | 231885 | [231885-tank-hero-awesome-tank-war-g.json](./231885-tank-hero-awesome-tank-war-g.json) |
 | Tank Hero: Laser Wars | 101491 | [101491-tank-hero-laser-wars.json](./101491-tank-hero-laser-wars.json) |
 | Tank Hunter | 311167 | [311167-tank-hunter.json](./311167-tank-hunter.json) |
+| Tank Hunter Tow Operator | 240679 | [240679-tank-hunter-tow-operator.json](./240679-tank-hunter-tow-operator.json) |
 | Tank Hurricane | 131326 | [131326-tank-hurricane.json](./131326-tank-hurricane.json) |
 | Tank It | 233483 | [233483-tank-it.json](./233483-tank-it.json) |
 | Tank it! | 30834 | [30834-tank-it.json](./30834-tank-it.json) |
@@ -5393,6 +5394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Door-Secret Neighbor | 96912 | [96912-the-door-secret-neighbor.json](./96912-the-door-secret-neighbor.json) |
 | The Doorbreaker | 74136 | [74136-the-doorbreaker.json](./74136-the-doorbreaker.json) |
 | The Doors That Led to Nowhere | 336604 | [336604-the-doors-that-led-to-nowhere.json](./336604-the-doors-that-led-to-nowhere.json) |
+| The Doorway Effect | 240685 | [240685-the-doorway-effect.json](./240685-the-doorway-effect.json) |
 | The Dope Game: Android Edition | 109202 | [109202-the-dope-game-android-edition.json](./109202-the-dope-game-android-edition.json) |
 | The Dot | 226205 | [226205-the-dot.json](./226205-the-dot.json) |
 | The Douchebag Workout | 393546 | [393546-the-douchebag-workout.json](./393546-the-douchebag-workout.json) |
@@ -5840,6 +5842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fall | 335280 | [335280-the-fall.json](./335280-the-fall.json) |
 | The Fall | 9547 | [9547-the-fall.json](./9547-the-fall.json) |
 | The Fall Bundle | 331491 | [331491-the-fall-bundle.json](./331491-the-fall-bundle.json) |
+| The Fall of Aether Station | 240700 | [240700-the-fall-of-aether-station.json](./240700-the-fall-of-aether-station.json) |
 | The Fall of Balance | 192385 | [192385-the-fall-of-balance.json](./192385-the-fall-of-balance.json) |
 | The Fall of Catzahstan. | 183565 | [183565-the-fall-of-catzahstan.json](./183565-the-fall-of-catzahstan.json) |
 | The Fall of Elements | 264607 | [264607-the-fall-of-elements.json](./264607-the-fall-of-elements.json) |
@@ -8525,6 +8528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Magic World | 367609 | [367609-the-magic-world.json](./367609-the-magic-world.json) |
 | The Magic World 2: Curse of the Ancients | 289985 | [289985-the-magic-world-2-curse-of-the-ancients.json](./289985-the-magic-world-2-curse-of-the-ancients.json) |
 | The Magical Girl Childhood Friend Lives Next Door | 411779 | [411779-the-magical-girl-childhood-friend-lives-next-door.json](./411779-the-magical-girl-childhood-friend-lives-next-door.json) |
+| The Magical Land of Canada | 240711 | [240711-the-magical-land-of-canada.json](./240711-the-magical-land-of-canada.json) |
 | The Magical Quest of Molly the Marble | 403802 | [403802-the-magical-quest-of-molly-the-marble.json](./403802-the-magical-quest-of-molly-the-marble.json) |
 | The Magical Unicorn | 145611 | [145611-the-magical-unicorn.json](./145611-the-magical-unicorn.json) |
 | The Magician Of Justice | 289986 | [289986-the-magician-of-justice.json](./289986-the-magician-of-justice.json) |
@@ -14333,6 +14337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tilecan | 333223 | [333223-tilecan.json](./333223-tilecan.json) |
 | Tilecraft | 221153 | [221153-tilecraft.json](./221153-tilecraft.json) |
 | Tiled Together | 326794 | [326794-tiled-together.json](./326794-tiled-together.json) |
+| TileDeck TD | 240827 | [240827-tiledeck-td.json](./240827-tiledeck-td.json) |
 | TileDynasty FPS Arena | 90572 | [90572-tiledynasty-fps-arena.json](./90572-tiledynasty-fps-arena.json) |
 | Tilefinder | 196857 | [196857-tilefinder.json](./196857-tilefinder.json) |
 | TileGuesser | 363060 | [363060-tileguesser.json](./363060-tileguesser.json) |
