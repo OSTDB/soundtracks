@@ -589,6 +589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paleo: Rising Town | 139820 | [139820-paleo-rising-town.json](./139820-paleo-rising-town.json) |
 | Paleocalypse | 90217 | [90217-paleocalypse.json](./90217-paleocalypse.json) |
 | Paleon | 148991 | [148991-paleon.json](./148991-paleon.json) |
+| Palesuckers | 268968 | [268968-palesuckers.json](./268968-palesuckers.json) |
 | Paletta | 133822 | [133822-paletta.json](./133822-paletta.json) |
 | Palette | 62668 | [62668-palette.json](./62668-palette.json) |
 | Palette Swap | 163993 | [163993-palette-swap.json](./163993-palette-swap.json) |
@@ -657,6 +658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pancake Bar Tycoon: Expansion Pack 2 | 237916 | [237916-pancake-bar-tycoon-expansion-pack-2.json](./237916-pancake-bar-tycoon-expansion-pack-2.json) |
 | Pancake Bar Tycoon: Extended Edition | 207902 | [207902-pancake-bar-tycoon-extended-edition.json](./207902-pancake-bar-tycoon-extended-edition.json) |
 | Pancake House | 156698 | [156698-pancake-house.json](./156698-pancake-house.json) |
+| Pancake Patrol | 268967 | [268967-pancake-patrol.json](./268967-pancake-patrol.json) |
 | Panchito Chepas | 325639 | [325639-panchito-chepas.json](./325639-panchito-chepas.json) |
 | Panchito Delivery: Project Elevator | 416084 | [416084-panchito-delivery-project-elevator.json](./416084-panchito-delivery-project-elevator.json) |
 | Pancho's Mission | 278140 | [278140-panchos-mission.json](./278140-panchos-mission.json) |
@@ -7607,6 +7609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pond | 373662 | [373662-pond.json](./373662-pond.json) |
 | Pond Party | 364687 | [364687-pond-party.json](./364687-pond-party.json) |
 | Pond Scum | 157091 | [157091-pond-scum.json](./157091-pond-scum.json) |
+| Pond Scum | 268928 | [268928-pond-scum.json](./268928-pond-scum.json) |
 | Pondemonium | 372057 | [372057-pondemonium.json](./372057-pondemonium.json) |
 | Ponder | 301096 | [301096-ponder.json](./301096-ponder.json) |
 | Ponder Club | 394542 | [394542-ponder-club.json](./394542-ponder-club.json) |
