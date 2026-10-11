@@ -2431,6 +2431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Helidroid 2: Helicopter R/C | 197642 | [197642-helidroid-2-helicopter-r-c.json](./197642-helidroid-2-helicopter-r-c.json) |
 | Helidroid 3B PRO : 3D RC Copter | 82113 | [82113-helidroid-3b-pro-3d-rc-copter.json](./82113-helidroid-3b-pro-3d-rc-copter.json) |
 | HeliInvasion 2 | 200043 | [200043-heliinvasion-2.json](./200043-heliinvasion-2.json) |
+| Helion | 268368 | [268368-helion.json](./268368-helion.json) |
 | Helion: Void Wars | 18591 | [18591-helion-void-wars.json](./18591-helion-void-wars.json) |
 | Heliopedia | 175891 | [175891-heliopedia.json](./175891-heliopedia.json) |
 | Helios | 185086 | [185086-helios.json](./185086-helios.json) |
