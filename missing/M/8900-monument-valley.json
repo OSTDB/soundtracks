@@ -1,10 +1,9 @@
 {
-  "_readme": "Fill in the fields below, then delete this _readme line. See ../SUBMITTING.md for full instructions.",
   "igdb_id": "8900",
   "game_name": "Monument Valley",
-  "album_name": "",
-  "spotify_url": "",
-  "apple_music_url": "",
-  "album_link_url": "",
-  "album_cover_url": ""
+  "album_name": "Monument Valley (Original Soundtrack)",
+  "spotify_url": "https://open.spotify.com/album/1DVCNAcMAd2eCgOmC84m2P",
+  "apple_music_url": "https://music.apple.com/us/album/monument-valley-original-soundtrack/887804425",
+  "album_link_url": "https://album.link/i/887804425",
+  "album_cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/1b/58/43/1b5843c3-0df3-e3f9-58a3-51158d264fbb/5054227028885_1.jpg/600x600bb.jpg"
 }
