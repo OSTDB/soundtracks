@@ -2957,6 +2957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | White lady | 201689 | [201689-white-lady.json](./201689-white-lady.json) |
 | White Light Escape | 315591 | [315591-white-light-escape.json](./315591-white-light-escape.json) |
 | White Lilies Code | 279549 | [279549-white-lilies-code.json](./279549-white-lilies-code.json) |
+| White Magic | 261710 | [261710-white-magic.json](./261710-white-magic.json) |
 | White Mask | 136487 | [136487-white-mask.json](./136487-white-mask.json) |
 | White Men Can't Jump | 40821 | [40821-white-men-cant-jump.json](./40821-white-men-cant-jump.json) |
 | White Middle Class Guy Simulator | 261976 | [261976-white-middle-class-guy-simulator.json](./261976-white-middle-class-guy-simulator.json) |
