@@ -1538,6 +1538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farm Builder | 147255 | [147255-farm-builder.json](./147255-farm-builder.json) |
 | Farm Chicken | 349475 | [349475-farm-chicken.json](./349475-farm-chicken.json) |
 | Farm Chores | 304901 | [304901-farm-chores.json](./304901-farm-chores.json) |
+| Farm Colony | 259451 | [259451-farm-colony.json](./259451-farm-colony.json) |
 | Farm Day 2023 | 241393 | [241393-farm-day-2023.json](./241393-farm-day-2023.json) |
 | Farm Day Simulator 2024 | 283728 | [283728-farm-day-simulator-2024.json](./283728-farm-day-simulator-2024.json) |
 | Farm Defence | 373862 | [373862-farm-defence.json](./373862-farm-defence.json) |
@@ -5530,6 +5531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Folk Tales: Alageyik | 360768 | [360768-folk-tales-alageyik.json](./360768-folk-tales-alageyik.json) |
 | Folklore | 7307 | [7307-folklore.json](./7307-folklore.json) |
 | Folklore Hunter | 128474 | [128474-folklore-hunter.json](./128474-folklore-hunter.json) |
+| Folklore: Shadows of the Shackled | 259460 | [259460-folklore-shadows-of-the-shackled.json](./259460-folklore-shadows-of-the-shackled.json) |
 | Folkloric Excursion | 159790 | [159790-folkloric-excursion.json](./159790-folkloric-excursion.json) |
 | Follia: Dear Father | 118671 | [118671-follia-dear-father.json](./118671-follia-dear-father.json) |
 | Follow Dalian | 377070 | [377070-follow-dalian.json](./377070-follow-dalian.json) |
