@@ -5769,7 +5769,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merge Fellas | 281409 | [281409-merge-fellas.json](./281409-merge-fellas.json) |
 | Merge Friends | 299405 | [299405-merge-friends.json](./299405-merge-friends.json) |
 | Merge Games Adventure Bundle | 275044 | [275044-merge-games-adventure-bundle.json](./275044-merge-games-adventure-bundle.json) |
+| Merge Games Cleaning Bundle | 274422 | [274422-merge-games-cleaning-bundle.json](./274422-merge-games-cleaning-bundle.json) |
+| Merge Games Cyberpunk Bundle | 274419 | [274419-merge-games-cyberpunk-bundle.json](./274419-merge-games-cyberpunk-bundle.json) |
+| Merge Games Horror Bundle | 274434 | [274434-merge-games-horror-bundle.json](./274434-merge-games-horror-bundle.json) |
 | Merge Games Japan Best | 276454 | [276454-merge-games-japan-best.json](./276454-merge-games-japan-best.json) |
+| Merge Games Pixel Bundle | 274421 | [274421-merge-games-pixel-bundle.json](./274421-merge-games-pixel-bundle.json) |
 | Merge Gangster Heist vs. Police | 245348 | [245348-merge-gangster-heist-vs-police.json](./245348-merge-gangster-heist-vs-police.json) |
 | Merge Gardens | 227368 | [227368-merge-gardens.json](./227368-merge-gardens.json) |
 | Merge Gems! | 97154 | [97154-merge-gems.json](./97154-merge-gems.json) |
@@ -12531,6 +12535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Exotic Farm Australia | 65751 | [65751-my-exotic-farm-australia.json](./65751-my-exotic-farm-australia.json) |
 | My Extraordinary Girlfriend | 238097 | [238097-my-extraordinary-girlfriend.json](./238097-my-extraordinary-girlfriend.json) |
 | My Eyes | 155683 | [155683-my-eyes.json](./155683-my-eyes.json) |
+| My Eyes Deceive | 274399 | [274399-my-eyes-deceive.json](./274399-my-eyes-deceive.json) |
 | My Eyes on You | 57694 | [57694-my-eyes-on-you.json](./57694-my-eyes-on-you.json) |
 | My Fair Cat: Snow | 298649 | [298649-my-fair-cat-snow.json](./298649-my-fair-cat-snow.json) |
 | My Fairy Girlfriend | 231424 | [231424-my-fairy-girlfriend.json](./231424-my-fairy-girlfriend.json) |
@@ -13643,6 +13648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mythos: Book One | 344543 | [344543-mythos-book-one.json](./344543-mythos-book-one.json) |
 | Mythos: Slavic Builder | 150784 | [150784-mythos-slavic-builder.json](./150784-mythos-slavic-builder.json) |
 | Mythos: The Beginning | 36206 | [36206-mythos-the-beginning.json](./36206-mythos-the-beginning.json) |
+| Myths & Fairy Tales Bundle | 274418 | [274418-myths-and-fairy-tales-bundle.json](./274418-myths-and-fairy-tales-bundle.json) |
 | Myths and Legends Bundle: Tunche & Black Book | 188026 | [188026-myths-and-legends-bundle-tunche-and-black-book.json](./188026-myths-and-legends-bundle-tunche-and-black-book.json) |
 | Myths and Legends Online | 130686 | [130686-myths-and-legends-online.json](./130686-myths-and-legends-online.json) |
 | Myths are 100% True | 307806 | [307806-myths-are-100-true.json](./307806-myths-are-100-true.json) |
