@@ -2525,6 +2525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kiteretsu Daihyakka: Koujiki Daihatsumei Nari | 349429 | [349429-kiteretsu-daihyakka-koujiki-daihatsumei-nari.json](./349429-kiteretsu-daihyakka-koujiki-daihatsumei-nari.json) |
 | Kiteretsu Soudan Dial: Heard Mikaishuu Kaii nomi Shutsugen | 301623 | [301623-kiteretsu-soudan-dial-heard-mikaishuu-kaii-nomi-shutsugen.json](./301623-kiteretsu-soudan-dial-heard-mikaishuu-kaii-nomi-shutsugen.json) |
 | Kitesurf Runner | 304379 | [304379-kitesurf-runner.json](./304379-kitesurf-runner.json) |
+| Kithack Model Club | 244685 | [244685-kithack-model-club.json](./244685-kithack-model-club.json) |
 | Kiting Mechanics | 239739 | [239739-kiting-mechanics.json](./239739-kiting-mechanics.json) |
 | Kitiplant | 291721 | [291721-kitiplant.json](./291721-kitiplant.json) |
 | Kito Pizzas | 397691 | [397691-kito-pizzas.json](./397691-kito-pizzas.json) |
