@@ -6879,6 +6879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Kebab | 384504 | [384504-midnight-kebab.json](./384504-midnight-kebab.json) |
 | Midnight Lane | 296976 | [296976-midnight-lane.json](./296976-midnight-lane.json) |
 | Midnight Launch: A GameShop Sim | 362938 | [362938-midnight-launch-a-gameshop-sim.json](./362938-midnight-launch-a-gameshop-sim.json) |
+| Midnight Lights | 276751 | [276751-midnight-lights.json](./276751-midnight-lights.json) |
 | Midnight Looters | 392121 | [392121-midnight-looters.json](./392121-midnight-looters.json) |
 | Midnight Mahjong | 182360 | [182360-midnight-mahjong.json](./182360-midnight-mahjong.json) |
 | Midnight Maintenance | 180780 | [180780-midnight-maintenance.json](./180780-midnight-maintenance.json) |
