@@ -2178,6 +2178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New! SMW2 Yoshi's Island | 186135 | [186135-new-smw2-yoshis-island.json](./186135-new-smw2-yoshis-island.json) |
 | Newbie Life | 262384 | [262384-newbie-life.json](./262384-newbie-life.json) |
 | Newcastle United Club Football 2005 | 267896 | [267896-newcastle-united-club-football-2005.json](./267896-newcastle-united-club-football-2005.json) |
+| NewCity | 274427 | [274427-newcity.json](./274427-newcity.json) |
 | Newcomer | 84280 | [84280-newcomer.json](./84280-newcomer.json) |
 | Newcomer: A Language Learning RPG | 250899 | [250899-newcomer-a-language-learning-rpg.json](./250899-newcomer-a-language-learning-rpg.json) |
 | Newer Super Luigi Wii: Dark Moon - Reverse | 294789 | [294789-newer-super-luigi-wii-dark-moon-reverse.json](./294789-newer-super-luigi-wii-dark-moon-reverse.json) |
