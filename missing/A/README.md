@@ -3344,6 +3344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ajisai Shiyou ka! | 394134 | [394134-ajisai-shiyou-ka.json](./394134-ajisai-shiyou-ka.json) |
 | Ajnabee: The Unknown | 389975 | [389975-ajnabee-the-unknown.json](./389975-ajnabee-the-unknown.json) |
 | AK-xolotl | 143004 | [143004-ak-xolotl.json](./143004-ak-xolotl.json) |
+| AK-xolotl: Collector's Edition | 270581 | [270581-ak-xolotl-collectors-edition.json](./270581-ak-xolotl-collectors-edition.json) |
 | AK-xolotl: Wars | 336705 | [336705-ak-xolotl-wars.json](./336705-ak-xolotl-wars.json) |
 | Aka | 159823 | [159823-aka.json](./159823-aka.json) |
 | Aka Manto | 121558 | [121558-aka-manto.json](./121558-aka-manto.json) |
@@ -4028,6 +4029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Planet | 308337 | [308337-alien-planet.json](./308337-alien-planet.json) |
 | Alien Planet Bell | 302130 | [302130-alien-planet-bell.json](./302130-alien-planet-bell.json) |
 | Alien Planet X64-2 | 270703 | [270703-alien-planet-x64-2.json](./270703-alien-planet-x64-2.json) |
+| Alien Poker | 270621 | [270621-alien-poker.json](./270621-alien-poker.json) |
 | Alien Prop Hunt | 190221 | [190221-alien-prop-hunt.json](./190221-alien-prop-hunt.json) |
 | Alien Rain | 12251 | [12251-alien-rain.json](./12251-alien-rain.json) |
 | Alien Rampage | 46630 | [46630-alien-rampage.json](./46630-alien-rampage.json) |
@@ -4497,6 +4499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alone in the Dark | 300074 | [300074-alone-in-the-dark.json](./300074-alone-in-the-dark.json) |
 | Alone in the Dark 2 | 1957 | [1957-alone-in-the-dark-2.json](./1957-alone-in-the-dark-2.json) |
 | Alone in the Dark 2 | 340383 | [340383-alone-in-the-dark-2.json](./340383-alone-in-the-dark-2.json) |
+| Alone in the Dark: Collector's Edition | 270574 | [270574-alone-in-the-dark-collectors-edition.json](./270574-alone-in-the-dark-collectors-edition.json) |
 | Alone in the Dark: Digital Deluxe Edition | 293759 | [293759-alone-in-the-dark-digital-deluxe-edition.json](./293759-alone-in-the-dark-digital-deluxe-edition.json) |
 | Alone in the Dark: Illumination | 7716 | [7716-alone-in-the-dark-illumination.json](./7716-alone-in-the-dark-illumination.json) |
 | Alone in the Dark: The Gates of Hell | 375455 | [375455-alone-in-the-dark-the-gates-of-hell.json](./375455-alone-in-the-dark-the-gates-of-hell.json) |
@@ -9896,6 +9899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atari Flashback Classics | 113382 | [113382-atari-flashback-classics.json](./113382-atari-flashback-classics.json) |
 | Atari Flashback Classics Vol. 2 | 24962 | [24962-atari-flashback-classics-vol-2.json](./24962-atari-flashback-classics-vol-2.json) |
 | Atari Flashback Portable | 245573 | [245573-atari-flashback-portable.json](./245573-atari-flashback-portable.json) |
+| Atari Gamestation Pro | 270591 | [270591-atari-gamestation-pro.json](./270591-atari-gamestation-pro.json) |
 | Atari Greatest Hits Volume 1 | 18437 | [18437-atari-greatest-hits-volume-1.json](./18437-atari-greatest-hits-volume-1.json) |
 | Atari Greatest Hits: Volume 2 | 61729 | [61729-atari-greatest-hits-volume-2.json](./61729-atari-greatest-hits-volume-2.json) |
 | Atari Hits 2006 | 70971 | [70971-atari-hits-2006.json](./70971-atari-hits-2006.json) |
@@ -10377,6 +10381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aura of Worlds | 55866 | [55866-aura-of-worlds.json](./55866-aura-of-worlds.json) |
 | Aura: Fate of the Ages | 9776 | [9776-aura-fate-of-the-ages.json](./9776-aura-fate-of-the-ages.json) |
 | Aura: Hentai Cards - Horny Madness | 301641 | [301641-aura-hentai-cards-horny-madness.json](./301641-aura-hentai-cards-horny-madness.json) |
+| Aura's Room | 270600 | [270600-auras-room.json](./270600-auras-room.json) |
 | Auraboros | 181358 | [181358-auraboros.json](./181358-auraboros.json) |
 | Aurail | 39618 | [39618-aurail.json](./39618-aurail.json) |
 | Aural to Hikari no Ryuu: Gathering Light | 327602 | [327602-aural-to-hikari-no-ryuu-gathering-light.json](./327602-aural-to-hikari-no-ryuu-gathering-light.json) |
