@@ -4995,6 +4995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixapple Adventure | 388011 | [388011-pixapple-adventure.json](./388011-pixapple-adventure.json) |
 | Pixar Pals | 230398 | [230398-pixar-pals.json](./230398-pixar-pals.json) |
 | Pixar Pals Plus! | 230329 | [230329-pixar-pals-plus.json](./230329-pixar-pals-plus.json) |
+| PixArk: A Sweet Pack for the Sweetest | 247366 | [247366-pixark-a-sweet-pack-for-the-sweetest.json](./247366-pixark-a-sweet-pack-for-the-sweetest.json) |
 | PixArk: Jade Elegance - A Theatrical Odyssey in the East | 291059 | [291059-pixark-jade-elegance-a-theatrical-odyssey-in-the-east.json](./291059-pixark-jade-elegance-a-theatrical-odyssey-in-the-east.json) |
 | Pixasso | 164868 | [164868-pixasso.json](./164868-pixasso.json) |
 | Pixasso 2 | 165703 | [165703-pixasso-2.json](./165703-pixasso-2.json) |
@@ -5684,6 +5685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plague Squad | 113873 | [113873-plague-squad.json](./113873-plague-squad.json) |
 | Plague Universe | 246884 | [246884-plague-universe.json](./246884-plague-universe.json) |
 | Plague: London 1665 | 244733 | [244733-plague-london-1665.json](./244733-plague-london-1665.json) |
+| Plaguemon: Kado | 247371 | [247371-plaguemon-kado.json](./247371-plaguemon-kado.json) |
 | Plaguepunk Justice | 114516 | [114516-plaguepunk-justice.json](./114516-plaguepunk-justice.json) |
 | Plagueworld: Expansion Pack | 167316 | [167316-plagueworld-expansion-pack.json](./167316-plagueworld-expansion-pack.json) |
 | Plain Sight | 8585 | [8585-plain-sight.json](./8585-plain-sight.json) |
