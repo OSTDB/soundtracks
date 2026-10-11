@@ -6129,6 +6129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horizon Forbidden West: Major Update 1.14 | 227890 | [227890-horizon-forbidden-west-major-update-1-14.json](./227890-horizon-forbidden-west-major-update-1-14.json) |
 | Horizon Forbidden West: Regalla Edition | 173110 | [173110-horizon-forbidden-west-regalla-edition.json](./173110-horizon-forbidden-west-regalla-edition.json) |
 | Horizon Journey | 320472 | [320472-horizon-journey.json](./320472-horizon-journey.json) |
+| Horizon Midnight: Aircraft | 276118 | [276118-horizon-midnight-aircraft.json](./276118-horizon-midnight-aircraft.json) |
 | Horizon Odyssey | 158558 | [158558-horizon-odyssey.json](./158558-horizon-odyssey.json) |
 | Horizon of History | 30763 | [30763-horizon-of-history.json](./30763-horizon-of-history.json) |
 | Horizon Riders | 84516 | [84516-horizon-riders.json](./84516-horizon-riders.json) |
