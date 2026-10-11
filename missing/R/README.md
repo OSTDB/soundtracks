@@ -7485,6 +7485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run and Fire | 274566 | [274566-run-and-fire.json](./274566-run-and-fire.json) |
 | Run and Fire | 35499 | [35499-run-and-fire.json](./35499-run-and-fire.json) |
 | Run and Gun | 283765 | [283765-run-and-gun.json](./283765-run-and-gun.json) |
+| Run and Hide | 274922 | [274922-run-and-hide.json](./274922-run-and-hide.json) |
 | Run and Hunt: Skeleton Rebellion | 298642 | [298642-run-and-hunt-skeleton-rebellion.json](./298642-run-and-hunt-skeleton-rebellion.json) |
 | Run and Jump Little Vico | 152727 | [152727-run-and-jump-little-vico.json](./152727-run-and-jump-little-vico.json) |
 | Run and Retry | 279902 | [279902-run-and-retry.json](./279902-run-and-retry.json) |
