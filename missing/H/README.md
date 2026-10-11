@@ -2054,6 +2054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heartbeat Scramble | 209621 | [209621-heartbeat-scramble.json](./209621-heartbeat-scramble.json) |
 | Heartbeats | 211814 | [211814-heartbeats.json](./211814-heartbeats.json) |
 | Heartbeats | 338206 | [338206-heartbeats.json](./338206-heartbeats.json) |
+| Heartbite: Dating by Daylight | 241852 | [241852-heartbite-dating-by-daylight.json](./241852-heartbite-dating-by-daylight.json) |
 | HeartBound | 377566 | [377566-heartbound.json](./377566-heartbound.json) |
 | Heartbreaker: The Visual Novel | 306454 | [306454-heartbreaker-the-visual-novel.json](./306454-heartbreaker-the-visual-novel.json) |
 | Heartburn | 301968 | [301968-heartburn.json](./301968-heartburn.json) |
@@ -3255,6 +3256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Puzzle Classic | 111481 | [111481-hentai-puzzle-classic.json](./111481-hentai-puzzle-classic.json) |
 | Hentai Puzzle Lamunation | 134620 | [134620-hentai-puzzle-lamunation.json](./134620-hentai-puzzle-lamunation.json) |
 | Hentai Puzzle Logic Game | 110379 | [110379-hentai-puzzle-logic-game.json](./110379-hentai-puzzle-logic-game.json) |
+| Hentai Puzzle Quest | 241870 | [241870-hentai-puzzle-quest.json](./241870-hentai-puzzle-quest.json) |
 | Hentai Puzzle Simulator 2 | 403716 | [403716-hentai-puzzle-simulator-2.json](./403716-hentai-puzzle-simulator-2.json) |
 | Hentai Puzzle Simulator 3 | 409530 | [409530-hentai-puzzle-simulator-3.json](./409530-hentai-puzzle-simulator-3.json) |
 | Hentai Puzzle Universe | 235268 | [235268-hentai-puzzle-universe.json](./235268-hentai-puzzle-universe.json) |
@@ -5199,6 +5201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hitokata | 337114 | [337114-hitokata.json](./337114-hitokata.json) |
 | Hitori | 334771 | [334771-hitori.json](./334771-hitori.json) |
 | Hitori by Nikoli | 85184 | [85184-hitori-by-nikoli.json](./85184-hitori-by-nikoli.json) |
+| Hitori de Dekirumon! Cooking Densetsu | 241885 | [241885-hitori-de-dekirumon-cooking-densetsu.json](./241885-hitori-de-dekirumon-cooking-densetsu.json) |
 | Hitori H Aco tan | 98035 | [98035-hitori-h-aco-tan.json](./98035-hitori-h-aco-tan.json) |
 | Hitori Kakurenbo | 150131 | [150131-hitori-kakurenbo.json](./150131-hitori-kakurenbo.json) |
 | Hitori Kakurenbo Online | 187450 | [187450-hitori-kakurenbo-online.json](./187450-hitori-kakurenbo-online.json) |
@@ -7408,6 +7411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hungry Knight! | 128651 | [128651-hungry-knight.json](./128651-hungry-knight.json) |
 | Hungry Lamu | 219023 | [219023-hungry-lamu.json](./219023-hungry-lamu.json) |
 | Hungry Meem | 328179 | [328179-hungry-meem.json](./328179-hungry-meem.json) |
+| Hungry Monster | 241857 | [241857-hungry-monster.json](./241857-hungry-monster.json) |
 | Hungry Piggy Vs. Chicken | 99657 | [99657-hungry-piggy-vs-chicken.json](./99657-hungry-piggy-vs-chicken.json) |
 | Hungry Pigs | 206180 | [206180-hungry-pigs.json](./206180-hungry-pigs.json) |
 | Hungry Planet | 107755 | [107755-hungry-planet.json](./107755-hungry-planet.json) |
