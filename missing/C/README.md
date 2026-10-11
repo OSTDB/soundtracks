@@ -9089,6 +9089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Cruiser | 210871 | [210871-cosmic-cruiser.json](./210871-cosmic-cruiser.json) |
 | Cosmic Cruncher | 59448 | [59448-cosmic-cruncher.json](./59448-cosmic-cruncher.json) |
 | Cosmic Crusader | 14494 | [14494-cosmic-crusader.json](./14494-cosmic-crusader.json) |
+| Cosmic Cursor | 272781 | [272781-cosmic-cursor.json](./272781-cosmic-cursor.json) |
 | Cosmic Dawn | 141183 | [141183-cosmic-dawn.json](./141183-cosmic-dawn.json) |
 | Cosmic Decode | 338889 | [338889-cosmic-decode.json](./338889-cosmic-decode.json) |
 | Cosmic Destroyer | 373304 | [373304-cosmic-destroyer.json](./373304-cosmic-destroyer.json) |
@@ -9584,6 +9585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cozy Hunt | 338004 | [338004-cozy-hunt.json](./338004-cozy-hunt.json) |
 | Cozy Interiors | 407204 | [407204-cozy-interiors.json](./407204-cozy-interiors.json) |
 | Cozy Island | 334286 | [334286-cozy-island.json](./334286-cozy-island.json) |
+| Cozy Island Idle | 272775 | [272775-cozy-island-idle.json](./272775-cozy-island-idle.json) |
 | Cozy Keep: Farm, Craft, Manage | 271208 | [271208-cozy-keep-farm-craft-manage.json](./271208-cozy-keep-farm-craft-manage.json) |
 | Cozy Kingdom | 362198 | [362198-cozy-kingdom.json](./362198-cozy-kingdom.json) |
 | Cozy Life Collection | 393632 | [393632-cozy-life-collection.json](./393632-cozy-life-collection.json) |
@@ -11376,6 +11378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystal Chip Collector e | 277248 | [277248-crystal-chip-collector-e.json](./277248-crystal-chip-collector-e.json) |
 | Crystal Clear | 129587 | [129587-crystal-clear.json](./129587-crystal-clear.json) |
 | Crystal Clear, Mail's Here | 390156 | [390156-crystal-clear-mails-here.json](./390156-crystal-clear-mails-here.json) |
+| Crystal Comet | 272774 | [272774-crystal-comet.json](./272774-crystal-comet.json) |
 | Crystal Compulsion | 208834 | [208834-crystal-compulsion.json](./208834-crystal-compulsion.json) |
 | Crystal Confines | 69319 | [69319-crystal-confines.json](./69319-crystal-confines.json) |
 | Crystal Conflict | 350463 | [350463-crystal-conflict.json](./350463-crystal-conflict.json) |
@@ -12278,6 +12281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cuthbert in the Mines | 74022 | [74022-cuthbert-in-the-mines.json](./74022-cuthbert-in-the-mines.json) |
 | Cutics | 184564 | [184564-cutics.json](./184564-cutics.json) |
 | Cutie Clash | 85071 | [85071-cutie-clash.json](./85071-cutie-clash.json) |
+| Cutie Crowd Control | 272776 | [272776-cutie-crowd-control.json](./272776-cutie-crowd-control.json) |
 | Cutie Monsters Battle Arena | 90399 | [90399-cutie-monsters-battle-arena.json](./90399-cutie-monsters-battle-arena.json) |
 | Cutie Smile: Kimi to Issho ni | 398994 | [398994-cutie-smile-kimi-to-issho-ni.json](./398994-cutie-smile-kimi-to-issho-ni.json) |
 | Cutie Squad: Crime War | 404263 | [404263-cutie-squad-crime-war.json](./404263-cutie-squad-crime-war.json) |
