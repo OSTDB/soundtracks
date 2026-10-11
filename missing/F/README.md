@@ -6739,6 +6739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foxy Go Go Go! | 397232 | [397232-foxy-go-go-go.json](./397232-foxy-go-go-go.json) |
 | Foxy Jumper 2 | 255647 | [255647-foxy-jumper-2.json](./255647-foxy-jumper-2.json) |
 | Foxy Jumper 2: Winter Adventures | 255648 | [255648-foxy-jumper-2-winter-adventures.json](./255648-foxy-jumper-2-winter-adventures.json) |
+| Foxy Tales | 276674 | [276674-foxy-tales.json](./276674-foxy-tales.json) |
 | Foxy the First Steps | 409412 | [409412-foxy-the-first-steps.json](./409412-foxy-the-first-steps.json) |
 | Foxy Trouble | 374444 | [374444-foxy-trouble.json](./374444-foxy-trouble.json) |
 | Foxy's Adventure | 159893 | [159893-foxys-adventure.json](./159893-foxys-adventure.json) |
