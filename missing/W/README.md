@@ -4506,6 +4506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wonder Wheel | 233046 | [233046-wonder-wheel.json](./233046-wonder-wheel.json) |
 | Wonder Wheel | 262979 | [262979-wonder-wheel.json](./262979-wonder-wheel.json) |
 | Wonder Wickets | 27042 | [27042-wonder-wickets.json](./27042-wonder-wickets.json) |
+| Wonder Witches | 266149 | [266149-wonder-witches.json](./266149-wonder-witches.json) |
 | Wonder Wonder Punch | 273386 | [273386-wonder-wonder-punch.json](./273386-wonder-wonder-punch.json) |
 | Wonder World | 312547 | [312547-wonder-world.json](./312547-wonder-world.json) |
 | Wonder World Amusement Park | 5286 | [5286-wonder-world-amusement-park.json](./5286-wonder-world-amusement-park.json) |
