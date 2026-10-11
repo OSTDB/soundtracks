@@ -4435,6 +4435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nothing | 282550 | [282550-nothing.json](./282550-nothing.json) |
 | Nothing & Nowhere | 133413 | [133413-nothing-and-nowhere.json](./133413-nothing-and-nowhere.json) |
 | Nothing at Stake | 400507 | [400507-nothing-at-stake.json](./400507-nothing-at-stake.json) |
+| Nothing Bad Ever Happens to Me | 249697 | [249697-nothing-bad-ever-happens-to-me.json](./249697-nothing-bad-ever-happens-to-me.json) |
 | Nothing But Me and You | 380631 | [380631-nothing-but-me-and-you.json](./380631-nothing-but-me-and-you.json) |
 | Nothing Good Can Come Of This | 297161 | [297161-nothing-good-can-come-of-this.json](./297161-nothing-good-can-come-of-this.json) |
 | Nothing is Known: The Innocents | 364575 | [364575-nothing-is-known-the-innocents.json](./364575-nothing-is-known-the-innocents.json) |
