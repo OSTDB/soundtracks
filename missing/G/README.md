@@ -881,6 +881,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GameBreak | 214554 | [214554-gamebreak.json](./214554-gamebreak.json) |
 | GameBuddies.io | 396597 | [396597-gamebuddies-io.json](./396597-gamebuddies-io.json) |
 | GameCenter CX: 3-Choume no Arino | 79922 | [79922-gamecenter-cx-3-choume-no-arino.json](./79922-gamecenter-cx-3-choume-no-arino.json) |
+| GameCenter CX: Arino no Chousenjou | 274424 | [274424-gamecenter-cx-arino-no-chousenjou.json](./274424-gamecenter-cx-arino-no-chousenjou.json) |
+| GameCenter CX: Arino no Chousenjou 2 | 274425 | [274425-gamecenter-cx-arino-no-chousenjou-2.json](./274425-gamecenter-cx-arino-no-chousenjou-2.json) |
 | GameCenter CX: Arino no Chousenjou 2 | 79923 | [79923-gamecenter-cx-arino-no-chousenjou-2.json](./79923-gamecenter-cx-arino-no-chousenjou-2.json) |
 | Gamecraft | 118424 | [118424-gamecraft.json](./118424-gamecraft.json) |
 | Gameday Live | 82066 | [82066-gameday-live.json](./82066-gameday-live.json) |
@@ -3460,6 +3462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GoBlaster | 161898 | [161898-goblaster.json](./161898-goblaster.json) |
 | Goblet Grotto | 64354 | [64354-goblet-grotto.json](./64354-goblet-grotto.json) |
 | Goblet Tower | 287654 | [287654-goblet-tower.json](./287654-goblet-tower.json) |
+| Gobli's Adventure | 274413 | [274413-goblis-adventure.json](./274413-goblis-adventure.json) |
 | Gobliiins Collection | 403213 | [403213-gobliiins-collection.json](./403213-gobliiins-collection.json) |
 | Gobliiins Pack | 154937 | [154937-gobliiins-pack.json](./154937-gobliiins-pack.json) |
 | Gobliiins5 | 249288 | [249288-gobliiins5.json](./249288-gobliiins5.json) |
@@ -4936,6 +4939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grant, Lee, Sherman: Civil War Generals 2 | 80789 | [80789-grant-lee-sherman-civil-war-generals-2.json](./80789-grant-lee-sherman-civil-war-generals-2.json) |
 | Granular Moon | 383661 | [383661-granular-moon.json](./383661-granular-moon.json) |
 | Granvil's Fairytale | 203309 | [203309-granvils-fairytale.json](./203309-granvils-fairytale.json) |
+| Granyuu-shima! Daibouken | 274400 | [274400-granyuu-shima-daibouken.json](./274400-granyuu-shima-daibouken.json) |
 | Grape Juice City | 247676 | [247676-grape-juice-city.json](./247676-grape-juice-city.json) |
 | Grapefruit | 304203 | [304203-grapefruit.json](./304203-grapefruit.json) |
 | Graph TD: Cosmic | 395104 | [395104-graph-td-cosmic.json](./395104-graph-td-cosmic.json) |
