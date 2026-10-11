@@ -1866,6 +1866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In the Drift | 404847 | [404847-in-the-drift.json](./404847-in-the-drift.json) |
 | In the Drink | 288876 | [288876-in-the-drink.json](./288876-in-the-drink.json) |
 | In the End | 191044 | [191044-in-the-end.json](./191044-in-the-end.json) |
+| In the Footage | 250851 | [250851-in-the-footage.json](./250851-in-the-footage.json) |
 | In the Grace of Our Malice | 292063 | [292063-in-the-grace-of-our-malice.json](./292063-in-the-grace-of-our-malice.json) |
 | In the Grass | 212289 | [212289-in-the-grass.json](./212289-in-the-grass.json) |
 | In the Grave Wood | 183599 | [183599-in-the-grave-wood.json](./183599-in-the-grave-wood.json) |
@@ -4055,6 +4056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isonzo: Expedition Units | 303277 | [303277-isonzo-expedition-units.json](./303277-isonzo-expedition-units.json) |
 | Isonzo: First Wave | 265715 | [265715-isonzo-first-wave.json](./265715-isonzo-first-wave.json) |
 | Isonzo: Third Wave | 296938 | [296938-isonzo-third-wave.json](./296938-isonzo-third-wave.json) |
+| Isop0dyssey | 250830 | [250830-isop0dyssey.json](./250830-isop0dyssey.json) |
 | Isophoria | 375316 | [375316-isophoria.json](./375316-isophoria.json) |
 | Isopix Art Club | 213919 | [213919-isopix-art-club.json](./213919-isopix-art-club.json) |
 | Isorropia | 133451 | [133451-isorropia.json](./133451-isorropia.json) |
