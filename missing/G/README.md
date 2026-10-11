@@ -1822,6 +1822,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gênio Box | 241898 | [241898-genio-box.json](./241898-genio-box.json) |
 | Gênio Fly | 241945 | [241945-genio-fly.json](./241945-genio-fly.json) |
 | Gênio Quiz | 240244 | [240244-genio-quiz.json](./240244-genio-quiz.json) |
+| Gênio Quiz 2 | 240250 | [240250-genio-quiz-2.json](./240250-genio-quiz-2.json) |
+| Gênio Quiz 3 | 240251 | [240251-genio-quiz-3.json](./240251-genio-quiz-3.json) |
+| Gênio Quiz 4 | 240252 | [240252-genio-quiz-4.json](./240252-genio-quiz-4.json) |
+| Gênio Quiz 5 | 240254 | [240254-genio-quiz-5.json](./240254-genio-quiz-5.json) |
 | Gênio Quiz Anitta | 241942 | [241942-genio-quiz-anitta.json](./241942-genio-quiz-anitta.json) |
 | Gênio Quiz BBB 21 | 241943 | [241943-genio-quiz-bbb-21.json](./241943-genio-quiz-bbb-21.json) |
 | Gênio Quiz Eleições | 241941 | [241941-genio-quiz-eleicoes.json](./241941-genio-quiz-eleicoes.json) |
@@ -1847,6 +1851,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genius Quiz 3 | 241625 | [241625-genius-quiz-3.json](./241625-genius-quiz-3.json) |
 | Genius Quiz 4 | 241627 | [241627-genius-quiz-4.json](./241627-genius-quiz-4.json) |
 | Genius Quiz 5 | 241640 | [241640-genius-quiz-5.json](./241640-genius-quiz-5.json) |
+| Genius Quiz 6 | 240260 | [240260-genius-quiz-6.json](./240260-genius-quiz-6.json) |
+| Genius Quiz 7 | 240262 | [240262-genius-quiz-7.json](./240262-genius-quiz-7.json) |
 | Genius Quiz 8 | 240299 | [240299-genius-quiz-8.json](./240299-genius-quiz-8.json) |
 | Genius Quiz 9 | 241641 | [241641-genius-quiz-9.json](./241641-genius-quiz-9.json) |
 | Genius Quiz Animals | 241912 | [241912-genius-quiz-animals.json](./241912-genius-quiz-animals.json) |
@@ -2220,6 +2226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Get_the_Key | 180124 | [180124-get-the-key.json](./180124-get-the-key.json) |
 | Get-'em-All Bundle | 136351 | [136351-get-em-all-bundle.json](./136351-get-em-all-bundle.json) |
 | GET! Boku no Mushi Tsukamaete | 49603 | [49603-get-boku-no-mushi-tsukamaete.json](./49603-get-boku-no-mushi-tsukamaete.json) |
+| Get! Monster | 240110 | [240110-get-monster.json](./240110-get-monster.json) |
 | Getamped 2 | 57925 | [57925-getamped-2.json](./57925-getamped-2.json) |
 | GetAmped Mobile | 114178 | [114178-getamped-mobile.json](./114178-getamped-mobile.json) |
 | Getaway Entertainment 6 Pack | 201851 | [201851-getaway-entertainment-6-pack.json](./201851-getaway-entertainment-6-pack.json) |
@@ -3514,6 +3521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GoBangTetris | 192437 | [192437-gobangtetris.json](./192437-gobangtetris.json) |
 | Gobble | 394530 | [394530-gobble.json](./394530-gobble.json) |
 | Gobble Fantasy 2003 | 376039 | [376039-gobble-fantasy-2003.json](./376039-gobble-fantasy-2003.json) |
+| Gobble It | 240109 | [240109-gobble-it.json](./240109-gobble-it.json) |
 | Gobblemen | 152346 | [152346-gobblemen.json](./152346-gobblemen.json) |
 | Gobbo Goes | 74737 | [74737-gobbo-goes.json](./74737-gobbo-goes.json) |
 | Gobbo Goes Adventures | 251834 | [251834-gobbo-goes-adventures.json](./251834-gobbo-goes-adventures.json) |
