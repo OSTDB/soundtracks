@@ -870,6 +870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jewel bits | 34151 | [34151-jewel-bits.json](./34151-jewel-bits.json) |
 | Jewel Coloring | 401156 | [401156-jewel-coloring.json](./401156-jewel-coloring.json) |
 | Jewel Craft | 209996 | [209996-jewel-craft.json](./209996-jewel-craft.json) |
+| Jewel Craft Fusion | 277323 | [277323-jewel-craft-fusion.json](./277323-jewel-craft-fusion.json) |
 | Jewel Crush | 233434 | [233434-jewel-crush.json](./233434-jewel-crush.json) |
 | Jewel Diamonds | 215396 | [215396-jewel-diamonds.json](./215396-jewel-diamonds.json) |
 | Jewel Dragon | 63149 | [63149-jewel-dragon.json](./63149-jewel-dragon.json) |
@@ -1891,6 +1892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Judies | 125363 | [125363-judies.json](./125363-judies.json) |
 | Judofuri | 311170 | [311170-judofuri.json](./311170-judofuri.json) |
 | Judy's Adventure DX | 404264 | [404264-judys-adventure-dx.json](./404264-judys-adventure-dx.json) |
+| Juegue Con Su Amstrad 02: West | 277240 | [277240-juegue-con-su-amstrad-02-west.json](./277240-juegue-con-su-amstrad-02-west.json) |
 | Juémèng: Cyber | 154587 | [154587-juemeng-cyber.json](./154587-juemeng-cyber.json) |
 | Jug | 67670 | [67670-jug.json](./67670-jug.json) |
 | Juggernaut | 341138 | [341138-juggernaut.json](./341138-juggernaut.json) |
