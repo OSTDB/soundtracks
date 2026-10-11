@@ -568,6 +568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yon-nin Mahjong | 55857 | [55857-yon-nin-mahjong.json](./55857-yon-nin-mahjong.json) |
 | Yondel | 380777 | [380777-yondel.json](./380777-yondel.json) |
 | Yonder World: Interview with the Void | 190067 | [190067-yonder-world-interview-with-the-void.json](./190067-yonder-world-interview-with-the-void.json) |
+| Yondu's Journey | 241260 | [241260-yondus-journey.json](./241260-yondus-journey.json) |
 | Yonenaga Kunio no Shogi Seminar | 54942 | [54942-yonenaga-kunio-no-shogi-seminar.json](./54942-yonenaga-kunio-no-shogi-seminar.json) |
 | Yonesawara Hospital | 203887 | [203887-yonesawara-hospital.json](./203887-yonesawara-hospital.json) |
 | Yongbi M | 208061 | [208061-yongbi-m.json](./208061-yongbi-m.json) |
