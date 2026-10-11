@@ -379,6 +379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Want an Identity | 327229 | [327229-i-want-an-identity.json](./327229-i-want-an-identity.json) |
 | I Want My Mommy | 40789 | [40789-i-want-my-mommy.json](./40789-i-want-my-mommy.json) |
 | I Want To Be A Circle When I Grow Up. | 396545 | [396545-i-want-to-be-a-circle-when-i-grow-up.json](./396545-i-want-to-be-a-circle-when-i-grow-up.json) |
+| I Want to Be a Girl and I Don't Know Why That's so Hard | 240121 | [240121-i-want-to-be-a-girl-and-i-dont-know-why-thats-so-hard.json](./240121-i-want-to-be-a-girl-and-i-dont-know-why-thats-so-hard.json) |
 | I Want to be Alive | 252610 | [252610-i-want-to-be-alive.json](./252610-i-want-to-be-alive.json) |
 | I Want to Be Human | 36433 | [36433-i-want-to-be-human.json](./36433-i-want-to-be-human.json) |
 | I Want to be Popular! | 183902 | [183902-i-want-to-be-popular.json](./183902-i-want-to-be-popular.json) |
@@ -402,6 +403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Was in the War | 242822 | [242822-i-was-in-the-war.json](./242822-i-was-in-the-war.json) |
 | I Was Late Because A Dry-Eyed Alien Stole My Pen! | 416738 | [416738-i-was-late-because-a-dry-eyed-alien-stole-my-pen.json](./416738-i-was-late-because-a-dry-eyed-alien-stole-my-pen.json) |
 | I Was Lost | 203245 | [203245-i-was-lost.json](./203245-i-was-lost.json) |
+| I Was the Cat | 240138 | [240138-i-was-the-cat.json](./240138-i-was-the-cat.json) |
 | I Was Wrong | 207499 | [207499-i-was-wrong.json](./207499-i-was-wrong.json) |
 | I Will Be There | 180634 | [180634-i-will-be-there.json](./180634-i-will-be-there.json) |
 | I Will Be Your Eyes | 126649 | [126649-i-will-be-your-eyes.json](./126649-i-will-be-your-eyes.json) |
