@@ -529,6 +529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Night With Gigsjaw VR | 374226 | [374226-a-night-with-gigsjaw-vr.json](./374226-a-night-with-gigsjaw-vr.json) |
 | A Night With Natalie | 371045 | [371045-a-night-with-natalie.json](./371045-a-night-with-natalie.json) |
 | A night with Natalie VR | 111376 | [111376-a-night-with-natalie-vr.json](./111376-a-night-with-natalie-vr.json) |
+| A Night With Neil | 243602 | [243602-a-night-with-neil.json](./243602-a-night-with-neil.json) |
 | A Night With: Brazilian Waifu | 342818 | [342818-a-night-with-brazilian-waifu.json](./342818-a-night-with-brazilian-waifu.json) |
 | A Night With: Emily | 331294 | [331294-a-night-with-emily.json](./331294-a-night-with-emily.json) |
 | A Night With: Succubus | 331291 | [331291-a-night-with-succubus.json](./331291-a-night-with-succubus.json) |
@@ -1060,6 +1061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abandoned Passage | 377425 | [377425-abandoned-passage.json](./377425-abandoned-passage.json) |
 | Abandoned Realms | 229108 | [229108-abandoned-realms.json](./229108-abandoned-realms.json) |
 | Abandoned Well | 73550 | [73550-abandoned-well.json](./73550-abandoned-well.json) |
+| Abandoned World | 243598 | [243598-abandoned-world.json](./243598-abandoned-world.json) |
 | Abandoned: A Tale of Forgotten Lives | 391231 | [391231-abandoned-a-tale-of-forgotten-lives.json](./391231-abandoned-a-tale-of-forgotten-lives.json) |
 | Abandoned: Chestnut Lodge Asylum | 34552 | [34552-abandoned-chestnut-lodge-asylum.json](./34552-abandoned-chestnut-lodge-asylum.json) |
 | Abandoned: Discovery Island | 272811 | [272811-abandoned-discovery-island.json](./272811-abandoned-discovery-island.json) |
@@ -4587,6 +4589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Along Came Treble | 313879 | [313879-along-came-treble.json](./313879-along-came-treble.json) |
 | Along the Edge of the Sky | 337818 | [337818-along-the-edge-of-the-sky.json](./337818-along-the-edge-of-the-sky.json) |
 | Along the River During the Qingming Festival | 295384 | [295384-along-the-river-during-the-qingming-festival.json](./295384-along-the-river-during-the-qingming-festival.json) |
+| Alongside | 243599 | [243599-alongside.json](./243599-alongside.json) |
 | Alpaca Ball: Allstars - Collector's Edition | 146114 | [146114-alpaca-ball-allstars-collectors-edition.json](./146114-alpaca-ball-allstars-collectors-edition.json) |
 | Alpaca Evolution | 218527 | [218527-alpaca-evolution.json](./218527-alpaca-evolution.json) |
 | Alpaca Party | 326086 | [326086-alpaca-party.json](./326086-alpaca-party.json) |
@@ -7868,6 +7871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcania: Fall of Setarrif | 8331 | [8331-arcania-fall-of-setarrif.json](./8331-arcania-fall-of-setarrif.json) |
 | Arcania: Gothic 4 | 3234 | [3234-arcania-gothic-4.json](./3234-arcania-gothic-4.json) |
 | Arcanight | 25760 | [25760-arcanight.json](./25760-arcanight.json) |
+| Arcanika | 243603 | [243603-arcanika.json](./243603-arcanika.json) |
 | Arcanion: Tale of Magi | 149026 | [149026-arcanion-tale-of-magi.json](./149026-arcanion-tale-of-magi.json) |
 | Arcanion: The Mekanos Invasion | 409722 | [409722-arcanion-the-mekanos-invasion.json](./409722-arcanion-the-mekanos-invasion.json) |
 | Arcanist Revival | 110181 | [110181-arcanist-revival.json](./110181-arcanist-revival.json) |
@@ -7945,6 +7949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Archers: Bowman's Battle | 63249 | [63249-archers-bowmans-battle.json](./63249-archers-bowmans-battle.json) |
 | Archery | 247023 | [247023-archery.json](./247023-archery.json) |
 | Archery Art | 105774 | [105774-archery-art.json](./105774-archery-art.json) |
+| Archery Battle VR | 243601 | [243601-archery-battle-vr.json](./243601-archery-battle-vr.json) |
 | Archery Black | 356646 | [356646-archery-black.json](./356646-archery-black.json) |
 | Archery Champion Bowman | 87928 | [87928-archery-champion-bowman.json](./87928-archery-champion-bowman.json) |
 | Archery Escape | 207880 | [207880-archery-escape.json](./207880-archery-escape.json) |
@@ -9667,6 +9672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astral Frontier Online | 403629 | [403629-astral-frontier-online.json](./403629-astral-frontier-online.json) |
 | Astral Gate | 294043 | [294043-astral-gate.json](./294043-astral-gate.json) |
 | Astral Green | 184079 | [184079-astral-green.json](./184079-astral-green.json) |
+| Astral Guardian | 243600 | [243600-astral-guardian.json](./243600-astral-guardian.json) |
 | Astral Guardians | 303188 | [303188-astral-guardians.json](./303188-astral-guardians.json) |
 | Astral Heroes | 32858 | [32858-astral-heroes.json](./32858-astral-heroes.json) |
 | Astral Hound VR | 338168 | [338168-astral-hound-vr.json](./338168-astral-hound-vr.json) |
@@ -10579,6 +10585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Auto Assault | 20625 | [20625-auto-assault.json](./20625-auto-assault.json) |
 | Auto Auto: Maximum Autodrive In The Alien Apocalypse | 277602 | [277602-auto-auto-maximum-autodrive-in-the-alien-apocalypse.json](./277602-auto-auto-maximum-autodrive-in-the-alien-apocalypse.json) |
 | Auto Battle | 19338 | [19338-auto-battle.json](./19338-auto-battle.json) |
+| Auto Brawl Chess | 243604 | [243604-auto-brawl-chess.json](./243604-auto-brawl-chess.json) |
 | Auto Chess | 119188 | [119188-auto-chess.json](./119188-auto-chess.json) |
 | Auto Chess Souls | 392249 | [392249-auto-chess-souls.json](./392249-auto-chess-souls.json) |
 | Auto Club Revolution | 80491 | [80491-auto-club-revolution.json](./80491-auto-club-revolution.json) |
