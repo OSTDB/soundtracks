@@ -5938,6 +5938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Final Hours of Mass Effect 3 | 202354 | [202354-the-final-hours-of-mass-effect-3.json](./202354-the-final-hours-of-mass-effect-3.json) |
 | The Final Hours of Titanfall | 36336 | [36336-the-final-hours-of-titanfall.json](./36336-the-final-hours-of-titanfall.json) |
 | The Final Payphone | 351235 | [351235-the-final-payphone.json](./351235-the-final-payphone.json) |
+| The Final Pin | 262277 | [262277-the-final-pin.json](./262277-the-final-pin.json) |
 | The Final Print | 347777 | [347777-the-final-print.json](./347777-the-final-print.json) |
 | The Final Round | 139245 | [139245-the-final-round.json](./139245-the-final-round.json) |
 | The Final Round | 19709 | [19709-the-final-round.json](./19709-the-final-round.json) |
@@ -8012,6 +8013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Zelda: Threads of Despair | 323274 | [323274-the-legend-of-zelda-threads-of-despair.json](./323274-the-legend-of-zelda-threads-of-despair.json) |
 | The Legend of Zelda: Time Walker | 323277 | [323277-the-legend-of-zelda-time-walker.json](./323277-the-legend-of-zelda-time-walker.json) |
 | The Legend of Zelda: Tri Force Heroes | 11194 | [11194-the-legend-of-zelda-tri-force-heroes.json](./11194-the-legend-of-zelda-tri-force-heroes.json) |
+| The Legend of Zelda: Trident of Power | 262254 | [262254-the-legend-of-zelda-trident-of-power.json](./262254-the-legend-of-zelda-trident-of-power.json) |
 | The Legend of Zelda: Triforce Power | 359011 | [359011-the-legend-of-zelda-triforce-power.json](./359011-the-legend-of-zelda-triforce-power.json) |
 | The Legend of Zelda: Twilight Princess HD | 18017 | [18017-the-legend-of-zelda-twilight-princess-hd.json](./18017-the-legend-of-zelda-twilight-princess-hd.json) |
 | The Legend of Zelda: Twilight Princess Randomizer | 241894 | [241894-the-legend-of-zelda-twilight-princess-randomizer.json](./241894-the-legend-of-zelda-twilight-princess-randomizer.json) |
@@ -8312,6 +8314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lost Garden | 345981 | [345981-the-lost-garden.json](./345981-the-lost-garden.json) |
 | The Lost Gardens | 74646 | [74646-the-lost-gardens.json](./74646-the-lost-gardens.json) |
 | The Lost Girl | 225769 | [225769-the-lost-girl.json](./225769-the-lost-girl.json) |
+| The Lost Glitches | 262226 | [262226-the-lost-glitches.json](./262226-the-lost-glitches.json) |
 | The Lost Goblin Tower | 111589 | [111589-the-lost-goblin-tower.json](./111589-the-lost-goblin-tower.json) |
 | The Lost Heir 2: Forging a Kingdom | 33593 | [33593-the-lost-heir-2-forging-a-kingdom.json](./33593-the-lost-heir-2-forging-a-kingdom.json) |
 | The Lost Heir 3: Demon War | 27875 | [27875-the-lost-heir-3-demon-war.json](./27875-the-lost-heir-3-demon-war.json) |
@@ -9534,6 +9537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Queen's Footsteps | 304181 | [304181-the-queens-footsteps.json](./304181-the-queens-footsteps.json) |
 | The Queen's Gambit Chess | 204451 | [204451-the-queens-gambit-chess.json](./204451-the-queens-gambit-chess.json) |
 | The Queen's Menagerie | 57480 | [57480-the-queens-menagerie.json](./57480-the-queens-menagerie.json) |
+| The Queen's Quest | 262246 | [262246-the-queens-quest.json](./262246-the-queens-quest.json) |
 | The Queens Gondola | 404841 | [404841-the-queens-gondola.json](./404841-the-queens-gondola.json) |
 | The Queens Number | 133750 | [133750-the-queens-number.json](./133750-the-queens-number.json) |
 | The Quest | 23962 | [23962-the-quest.json](./23962-the-quest.json) |
@@ -11015,6 +11019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Texas Chain Saw Massacre: Rush Week - Winter Holiday Pack | 351016 | [351016-the-texas-chain-saw-massacre-rush-week-winter-holiday-pack.json](./351016-the-texas-chain-saw-massacre-rush-week-winter-holiday-pack.json) |
 | The Texas Chain Saw Massacre: Sissy Wildflower Outfit | 308569 | [308569-the-texas-chain-saw-massacre-sissy-wildflower-outfit.json](./308569-the-texas-chain-saw-massacre-sissy-wildflower-outfit.json) |
 | The Texas Chain Saw Massacre: Slaughter Family Bloody Skins Pack | 273840 | [273840-the-texas-chain-saw-massacre-slaughter-family-bloody-skins-pack.json](./273840-the-texas-chain-saw-massacre-slaughter-family-bloody-skins-pack.json) |
+| The Texas Chain Saw Massacre: Slaughter Family Execution Pack 1 | 262251 | [262251-the-texas-chain-saw-massacre-slaughter-family-execution-pack-1.json](./262251-the-texas-chain-saw-massacre-slaughter-family-execution-pack-1.json) |
 | The Texas Chain Saw Massacre: Slaughter Family Execution Pack 2 | 289955 | [289955-the-texas-chain-saw-massacre-slaughter-family-execution-pack-2.json](./289955-the-texas-chain-saw-massacre-slaughter-family-execution-pack-2.json) |
 | The Texas Chain Saw Massacre: Sonny Outfit Pack | 273835 | [273835-the-texas-chain-saw-massacre-sonny-outfit-pack.json](./273835-the-texas-chain-saw-massacre-sonny-outfit-pack.json) |
 | The Texas Chain Saw Massacre: Sonny Outfit Pack 3 | 351012 | [351012-the-texas-chain-saw-massacre-sonny-outfit-pack-3.json](./351012-the-texas-chain-saw-massacre-sonny-outfit-pack-3.json) |
@@ -14895,6 +14900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tit-E-Bar | 308444 | [308444-tit-e-bar.json](./308444-tit-e-bar.json) |
 | Titan | 159107 | [159107-titan.json](./159107-titan.json) |
 | Titan (working title) | 131476 | [131476-titan-working-title.json](./131476-titan-working-title.json) |
+| Titan 2 | 262259 | [262259-titan-2.json](./262259-titan-2.json) |
 | Titan A.E. | 198944 | [198944-titan-a-e.json](./198944-titan-a-e.json) |
 | Titan Attack: Wall Defense FPS | 175716 | [175716-titan-attack-wall-defense-fps.json](./175716-titan-attack-wall-defense-fps.json) |
 | Titan Attacks! | 11460 | [11460-titan-attacks.json](./11460-titan-attacks.json) |
