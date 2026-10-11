@@ -2832,6 +2832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girls und Panzer: Dream Tank Match - Premium Edition | 166182 | [166182-girls-und-panzer-dream-tank-match-premium-edition.json](./166182-girls-und-panzer-dream-tank-match-premium-edition.json) |
 | Girls und Panzer: Senshadou Daisakusen! | 208236 | [208236-girls-und-panzer-senshadou-daisakusen.json](./208236-girls-und-panzer-senshadou-daisakusen.json) |
 | Girls VR | 109708 | [109708-girls-vr.json](./109708-girls-vr.json) |
+| Girls Will Bite | 260068 | [260068-girls-will-bite.json](./260068-girls-will-bite.json) |
 | Girls With Secrets | 294397 | [294397-girls-with-secrets.json](./294397-girls-with-secrets.json) |
 | Girls x Battle 2 | 137467 | [137467-girls-x-battle-2.json](./137467-girls-x-battle-2.json) |
 | Girls X Battle: GXB Global | 104098 | [104098-girls-x-battle-gxb-global.json](./104098-girls-x-battle-gxb-global.json) |
