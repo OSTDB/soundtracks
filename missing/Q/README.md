@@ -185,6 +185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quadrilateral Cowboy | 9014 | [9014-quadrilateral-cowboy.json](./9014-quadrilateral-cowboy.json) |
 | Quadrilateral Cowboy: Deluxe Edition | 53486 | [53486-quadrilateral-cowboy-deluxe-edition.json](./53486-quadrilateral-cowboy-deluxe-edition.json) |
 | Quadrillion Carrots | 415288 | [415288-quadrillion-carrots.json](./415288-quadrillion-carrots.json) |
+| Quadris | 273861 | [273861-quadris.json](./273861-quadris.json) |
 | Quadrium | 244865 | [244865-quadrium.json](./244865-quadrium.json) |
 | Quadrium 2 | 250882 | [250882-quadrium-2.json](./250882-quadrium-2.json) |
 | Quadrium 3 | 287228 | [287228-quadrium-3.json](./287228-quadrium-3.json) |
