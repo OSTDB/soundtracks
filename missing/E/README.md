@@ -1850,6 +1850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emergency Exit | 329160 | [329160-emergency-exit.json](./329160-emergency-exit.json) |
 | Emergency Fire Helicopter Simulator 3D | 108451 | [108451-emergency-fire-helicopter-simulator-3d.json](./108451-emergency-fire-helicopter-simulator-3d.json) |
 | Emergency Fire Response | 22633 | [22633-emergency-fire-response.json](./22633-emergency-fire-response.json) |
+| Emergency HD | 254388 | [254388-emergency-hd.json](./254388-emergency-hd.json) |
 | Emergency in Space | 310744 | [310744-emergency-in-space.json](./310744-emergency-in-space.json) |
 | Emergency Lüdenscheid | 346128 | [346128-emergency-ludenscheid.json](./346128-emergency-ludenscheid.json) |
 | Emergency Riot Response | 402562 | [402562-emergency-riot-response.json](./402562-emergency-riot-response.json) |
@@ -2639,6 +2640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Entwined Time | 312855 | [312855-entwined-time.json](./312855-entwined-time.json) |
 | Entwined: Strings of Deception | 41915 | [41915-entwined-strings-of-deception.json](./41915-entwined-strings-of-deception.json) |
 | Entwined: The Perfect Murder | 112489 | [112489-entwined-the-perfect-murder.json](./112489-entwined-the-perfect-murder.json) |
+| Envasion | 254394 | [254394-envasion.json](./254394-envasion.json) |
 | Envguard | 339756 | [339756-envguard.json](./339756-envguard.json) |
 | Envido | 418535 | [418535-envido.json](./418535-envido.json) |
 | EnviroGolf | 126377 | [126377-envirogolf.json](./126377-envirogolf.json) |
@@ -3475,6 +3477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape: VR | 29157 | [29157-escape-vr.json](./29157-escape-vr.json) |
 | Escape! | 270026 | [270026-escape.json](./270026-escape.json) |
 | Escape! | 89659 | [89659-escape.json](./89659-escape.json) |
+| Escape! Skeleton.J | 254409 | [254409-escape-skeleton-j.json](./254409-escape-skeleton-j.json) |
 | Escape! Sloths and Palm Trees Island | 174625 | [174625-escape-sloths-and-palm-trees-island.json](./174625-escape-sloths-and-palm-trees-island.json) |
 | Escape30DayCircle | 360650 | [360650-escape30daycircle.json](./360650-escape30daycircle.json) |
 | Escaped Chasm | 116988 | [116988-escaped-chasm.json](./116988-escaped-chasm.json) |
