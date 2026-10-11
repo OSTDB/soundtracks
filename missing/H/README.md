@@ -751,6 +751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hand Cooking Simulator: Multi-Chef | 326403 | [326403-hand-cooking-simulator-multi-chef.json](./326403-hand-cooking-simulator-multi-chef.json) |
 | Hand Held Boggle | 239337 | [239337-hand-held-boggle.json](./239337-hand-held-boggle.json) |
 | Hand Maid Mahjong 2 | 97823 | [97823-hand-maid-mahjong-2.json](./97823-hand-maid-mahjong-2.json) |
+| Hand Me A Lighter | 273816 | [273816-hand-me-a-lighter.json](./273816-hand-me-a-lighter.json) |
 | Hand Meat Walker | 372683 | [372683-hand-meat-walker.json](./372683-hand-meat-walker.json) |
 | Hand of Anima | 294364 | [294364-hand-of-anima.json](./294364-hand-of-anima.json) |
 | Hand of Daggers | 398393 | [398393-hand-of-daggers.json](./398393-hand-of-daggers.json) |
@@ -6743,6 +6744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House of Cards: A Modern Fantasy Story Game | 134555 | [134555-house-of-cards-a-modern-fantasy-story-game.json](./134555-house-of-cards-a-modern-fantasy-story-game.json) |
 | House of Cards: TD | 298128 | [298128-house-of-cards-td.json](./298128-house-of-cards-td.json) |
 | House of Cathalon | 142442 | [142442-house-of-cathalon.json](./142442-house-of-cathalon.json) |
+| House of Chavez | 273821 | [273821-house-of-chavez.json](./273821-house-of-chavez.json) |
 | House of Dead Skin | 316078 | [316078-house-of-dead-skin.json](./316078-house-of-dead-skin.json) |
 | House of Detention | 137405 | [137405-house-of-detention.json](./137405-house-of-detention.json) |
 | House of Everlast | 269004 | [269004-house-of-everlast.json](./269004-house-of-everlast.json) |
@@ -7175,6 +7177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Human or Not? | 251534 | [251534-human-or-not.json](./251534-human-or-not.json) |
 | Human or Virus | 142263 | [142263-human-or-virus.json](./142263-human-or-virus.json) |
 | Human Parking Simulator | 363063 | [363063-human-parking-simulator.json](./363063-human-parking-simulator.json) |
+| Human Phobia | 273812 | [273812-human-phobia.json](./273812-human-phobia.json) |
 | Human Planet | 374395 | [374395-human-planet.json](./374395-human-planet.json) |
 | Human Resource | 295319 | [295319-human-resource.json](./295319-human-resource.json) |
 | Human Resource Machine Deluxe | 136844 | [136844-human-resource-machine-deluxe.json](./136844-human-resource-machine-deluxe.json) |
