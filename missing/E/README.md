@@ -829,6 +829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eel Game | 361295 | [361295-eel-game.json](./361295-eel-game.json) |
 | Een Wonderlijk Avontuur met Pardoes de Tovernar | 242643 | [242643-een-wonderlijk-avontuur-met-pardoes-de-tovernar.json](./242643-een-wonderlijk-avontuur-met-pardoes-de-tovernar.json) |
 | EEP Train Simulator Mission | 33266 | [33266-eep-train-simulator-mission.json](./33266-eep-train-simulator-mission.json) |
+| Eerie Desolation | 272772 | [272772-eerie-desolation.json](./272772-eerie-desolation.json) |
 | Eerie Dossier: The Haunted Apartment | 391339 | [391339-eerie-dossier-the-haunted-apartment.json](./391339-eerie-dossier-the-haunted-apartment.json) |
 | Eerie Excavation | 301847 | [301847-eerie-excavation.json](./301847-eerie-excavation.json) |
 | Eerie Night: Escape from the Funfair - Collector's Edition | 416775 | [416775-eerie-night-escape-from-the-funfair-collectors-edition.json](./416775-eerie-night-escape-from-the-funfair-collectors-edition.json) |
