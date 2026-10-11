@@ -19121,6 +19121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tri-bo | 381124 | [381124-tri-bo.json](./381124-tri-bo.json) |
 | Tri-Element | 65573 | [65573-tri-element.json](./65573-tri-element.json) |
 | Tri-Ger | 377580 | [377580-tri-ger.json](./377580-tri-ger.json) |
+| Tri-Heli 2 | 246310 | [246310-tri-heli-2.json](./246310-tri-heli-2.json) |
 | Tri-Peaks 2: Quest for the Ruby Ring | 206076 | [206076-tri-peaks-2-quest-for-the-ruby-ring.json](./206076-tri-peaks-2-quest-for-the-ruby-ring.json) |
 | Tri-Peaks Solitaire HD | 355005 | [355005-tri-peaks-solitaire-hd.json](./355005-tri-peaks-solitaire-hd.json) |
 | Tri-Strip | 85456 | [85456-tri-strip.json](./85456-tri-strip.json) |
