@@ -2746,6 +2746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girl Terminal | 410241 | [410241-girl-terminal.json](./410241-girl-terminal.json) |
 | Girl things | 183929 | [183929-girl-things.json](./183929-girl-things.json) |
 | Girl Travels Forest of Dream | 265078 | [265078-girl-travels-forest-of-dream.json](./265078-girl-travels-forest-of-dream.json) |
+| Girl Up | 264548 | [264548-girl-up.json](./264548-girl-up.json) |
 | Girl Wars: Fantasy World Unification Battle | 270643 | [270643-girl-wars-fantasy-world-unification-battle.json](./270643-girl-wars-fantasy-world-unification-battle.json) |
 | Girl Werewolf Hamlet Saves Christmas | 376102 | [376102-girl-werewolf-hamlet-saves-christmas.json](./376102-girl-werewolf-hamlet-saves-christmas.json) |
 | Girl Who Cried Wolf | 298891 | [298891-girl-who-cried-wolf.json](./298891-girl-who-cried-wolf.json) |
@@ -3031,6 +3032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glitter Justice | 251757 | [251757-glitter-justice.json](./251757-glitter-justice.json) |
 | Glitter Slime Maker | 106370 | [106370-glitter-slime-maker.json](./106370-glitter-slime-maker.json) |
 | Glittering Sword | 143112 | [143112-glittering-sword.json](./143112-glittering-sword.json) |
+| Glix | 264547 | [264547-glix.json](./264547-glix.json) |
 | Glo | 165591 | [165591-glo.json](./165591-glo.json) |
 | Glö Phlox | 110548 | [110548-glo-phlox.json](./110548-glo-phlox.json) |
 | Gloaming Comedian Simulator | 259860 | [259860-gloaming-comedian-simulator.json](./259860-gloaming-comedian-simulator.json) |
