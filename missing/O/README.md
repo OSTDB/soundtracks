@@ -1271,6 +1271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | On Key Up: A Game for Keyboards | 164949 | [164949-on-key-up-a-game-for-keyboards.json](./164949-on-key-up-a-game-for-keyboards.json) |
 | On learning that the night will soon be over | 135860 | [135860-on-learning-that-the-night-will-soon-be-over.json](./135860-on-learning-that-the-night-will-soon-be-over.json) |
 | On Leaving the Building | 229784 | [229784-on-leaving-the-building.json](./229784-on-leaving-the-building.json) |
+| On Life and Living | 263968 | [263968-on-life-and-living.json](./263968-on-life-and-living.json) |
 | On Love, On Monsters | 413779 | [413779-on-love-on-monsters.json](./413779-on-love-on-monsters.json) |
 | On Mount Ségou | 296098 | [296098-on-mount-segou.json](./296098-on-mount-segou.json) |
 | On My Own So-Called Cleverness... | 143629 | [143629-on-my-own-so-called-cleverness.json](./143629-on-my-own-so-called-cleverness.json) |
@@ -1597,6 +1598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Piece King Battle | 175763 | [175763-one-piece-king-battle.json](./175763-one-piece-king-battle.json) |
 | One Piece Mansion | 37288 | [37288-one-piece-mansion.json](./37288-one-piece-mansion.json) |
 | One Piece Odyssey | 194837 | [194837-one-piece-odyssey.json](./194837-one-piece-odyssey.json) |
+| One Piece Odyssey: Adventure Expansion Pack | 263946 | [263946-one-piece-odyssey-adventure-expansion-pack.json](./263946-one-piece-odyssey-adventure-expansion-pack.json) |
 | One Piece Odyssey: Deluxe Edition | 231363 | [231363-one-piece-odyssey-deluxe-edition.json](./231363-one-piece-odyssey-deluxe-edition.json) |
 | One Piece Odyssey: Jewelry Pack | 312109 | [312109-one-piece-odyssey-jewelry-pack.json](./312109-one-piece-odyssey-jewelry-pack.json) |
 | One Piece Odyssey: Reunion of Memories | 252387 | [252387-one-piece-odyssey-reunion-of-memories.json](./252387-one-piece-odyssey-reunion-of-memories.json) |
