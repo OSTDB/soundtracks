@@ -6782,6 +6782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cocoto Alien Brick Breaker | 63857 | [63857-cocoto-alien-brick-breaker.json](./63857-cocoto-alien-brick-breaker.json) |
 | Cocoto Fishing Master | 19677 | [19677-cocoto-fishing-master.json](./19677-cocoto-fishing-master.json) |
 | Cocoto Magic Circus 2 | 61861 | [61861-cocoto-magic-circus-2.json](./61861-cocoto-magic-circus-2.json) |
+| Cocoto Platform Jumper | 248499 | [248499-cocoto-platform-jumper.json](./248499-cocoto-platform-jumper.json) |
 | Cocoto Tennis Master | 80476 | [80476-cocoto-tennis-master.json](./80476-cocoto-tennis-master.json) |
 | Coda | 252211 | [252211-coda.json](./252211-coda.json) |
 | Coda | 338681 | [338681-coda.json](./338681-coda.json) |
@@ -10028,6 +10029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crash Presents September 1990 | 73356 | [73356-crash-presents-september-1990.json](./73356-crash-presents-september-1990.json) |
 | Crash Puzzle Hammer-San | 319851 | [319851-crash-puzzle-hammer-san.json](./319851-crash-puzzle-hammer-san.json) |
 | Crash Tag Team Racing | 1194 | [1194-crash-tag-team-racing.json](./1194-crash-tag-team-racing.json) |
+| Crash Tag Team Racing | 248550 | [248550-crash-tag-team-racing.json](./248550-crash-tag-team-racing.json) |
 | Crash Team Racing Nitro-Fueled | 113113 | [113113-crash-team-racing-nitro-fueled.json](./113113-crash-team-racing-nitro-fueled.json) |
 | Crash Team Racing Nitro-Fueled: Back N. Time Grand Prix | 324837 | [324837-crash-team-racing-nitro-fueled-back-n-time-grand-prix.json](./324837-crash-team-racing-nitro-fueled-back-n-time-grand-prix.json) |
 | Crash Team Racing Nitro-Fueled: Cove Cruiser Kart Body + Tropic Swirl Decal | 325137 | [325137-crash-team-racing-nitro-fueled-cove-cruiser-kart-body-tropic-swirl-decal.json](./325137-crash-team-racing-nitro-fueled-cove-cruiser-kart-body-tropic-swirl-decal.json) |
