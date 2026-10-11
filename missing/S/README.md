@@ -2146,6 +2146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SCP: Blackout | 111246 | [111246-scp-blackout.json](./111246-scp-blackout.json) |
 | SCP: Bloodwater | 272936 | [272936-scp-bloodwater.json](./272936-scp-bloodwater.json) |
 | Scp: Breakout | 173187 | [173187-scp-breakout.json](./173187-scp-breakout.json) |
+| SCP: Chamberz | 270580 | [270580-scp-chamberz.json](./270580-scp-chamberz.json) |
 | SCP: Containment Breach | 20193 | [20193-scp-containment-breach.json](./20193-scp-containment-breach.json) |
 | SCP: Containment Breach Mobile | 174756 | [174756-scp-containment-breach-mobile.json](./174756-scp-containment-breach-mobile.json) |
 | SCP: Containment Breach Remastered | 210866 | [210866-scp-containment-breach-remastered.json](./210866-scp-containment-breach-remastered.json) |
@@ -5739,6 +5740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shooty Space | 86251 | [86251-shooty-space.json](./86251-shooty-space.json) |
 | Shooty Space Adventure | 58768 | [58768-shooty-space-adventure.json](./58768-shooty-space-adventure.json) |
 | Shop Crush | 310059 | [310059-shop-crush.json](./310059-shop-crush.json) |
+| Shop Empire | 270596 | [270596-shop-empire.json](./270596-shop-empire.json) |
 | Shop Farm Tycoon | 395216 | [395216-shop-farm-tycoon.json](./395216-shop-farm-tycoon.json) |
 | Shop Heroes Legends: Idle RPG | 233118 | [233118-shop-heroes-legends-idle-rpg.json](./233118-shop-heroes-legends-idle-rpg.json) |
 | Shop Is Done | 260388 | [260388-shop-is-done.json](./260388-shop-is-done.json) |
@@ -7880,6 +7882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skybound Colonies | 394529 | [394529-skybound-colonies.json](./394529-skybound-colonies.json) |
 | Skybound Saga | 352236 | [352236-skybound-saga.json](./352236-skybound-saga.json) |
 | Skybox | 236858 | [236858-skybox.json](./236858-skybox.json) |
+| Skybreakers | 270619 | [270619-skybreakers.json](./270619-skybreakers.json) |
 | Skybride | 134634 | [134634-skybride.json](./134634-skybride.json) |
 | Skycards | 322122 | [322122-skycards.json](./322122-skycards.json) |
 | Skycat | 132751 | [132751-skycat.json](./132751-skycat.json) |
@@ -8362,6 +8365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slidetracked | 188952 | [188952-slidetracked.json](./188952-slidetracked.json) |
 | SlideWords | 88207 | [88207-slidewords.json](./88207-slidewords.json) |
 | Slidey Feet | 243635 | [243635-slidey-feet.json](./243635-slidey-feet.json) |
+| Sliding | 270564 | [270564-sliding.json](./270564-sliding.json) |
 | Sliding Bears | 337049 | [337049-sliding-bears.json](./337049-sliding-bears.json) |
 | Sliding ground | 184373 | [184373-sliding-ground.json](./184373-sliding-ground.json) |
 | Sliding Hero | 309545 | [309545-sliding-hero.json](./309545-sliding-hero.json) |
@@ -14547,6 +14551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squeezone | 31709 | [31709-squeezone.json](./31709-squeezone.json) |
 | Squewe Run | 312884 | [312884-squewe-run.json](./312884-squewe-run.json) |
 | Squid and Let Die | 57342 | [57342-squid-and-let-die.json](./57342-squid-and-let-die.json) |
+| Squid Commando | 270562 | [270562-squid-commando.json](./270562-squid-commando.json) |
 | Squid Game: The Game | 184603 | [184603-squid-game-the-game.json](./184603-squid-game-the-game.json) |
 | Squid Game: Unleashed | 314273 | [314273-squid-game-unleashed.json](./314273-squid-game-unleashed.json) |
 | Squid Girl World Ep.0 | 257564 | [257564-squid-girl-world-ep-0.json](./257564-squid-girl-world-ep-0.json) |
@@ -17115,6 +17120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Story of Seasons (Tentative Title) | 85534 | [85534-story-of-seasons-tentative-title.json](./85534-story-of-seasons-tentative-title.json) |
 | Story of Seasons: A Wonderful Life | 217553 | [217553-story-of-seasons-a-wonderful-life.json](./217553-story-of-seasons-a-wonderful-life.json) |
 | Story of Seasons: A Wonderful Life - Mukumuku Outfit | 275526 | [275526-story-of-seasons-a-wonderful-life-mukumuku-outfit.json](./275526-story-of-seasons-a-wonderful-life-mukumuku-outfit.json) |
+| Story of Seasons: A Wonderful Life - Premium Edition | 270588 | [270588-story-of-seasons-a-wonderful-life-premium-edition.json](./270588-story-of-seasons-a-wonderful-life-premium-edition.json) |
 | Story of Seasons: Friends of Mineral Town | 120300 | [120300-story-of-seasons-friends-of-mineral-town.json](./120300-story-of-seasons-friends-of-mineral-town.json) |
 | Story of Seasons: Grand Bazaar | 337026 | [337026-story-of-seasons-grand-bazaar.json](./337026-story-of-seasons-grand-bazaar.json) |
 | Story of Seasons: Grand Bazaar - Digital Deluxe Edition | 342241 | [342241-story-of-seasons-grand-bazaar-digital-deluxe-edition.json](./342241-story-of-seasons-grand-bazaar-digital-deluxe-edition.json) |
