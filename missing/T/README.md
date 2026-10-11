@@ -4922,6 +4922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Curio Society: Eclipse Over Mesina | 19344 | [19344-the-curio-society-eclipse-over-mesina.json](./19344-the-curio-society-eclipse-over-mesina.json) |
 | The Curio Society: New Order HD | 91336 | [91336-the-curio-society-new-order-hd.json](./91336-the-curio-society-new-order-hd.json) |
 | The Curiosity | 311801 | [311801-the-curiosity.json](./311801-the-curiosity.json) |
+| The Curious Study of Dr. Blackwood | 273846 | [273846-the-curious-study-of-dr-blackwood.json](./273846-the-curious-study-of-dr-blackwood.json) |
 | The Curry Simulator | 364106 | [364106-the-curry-simulator.json](./364106-the-curry-simulator.json) |
 | The Curse | 356144 | [356144-the-curse.json](./356144-the-curse.json) |
 | The Curse of Aristotle | 251241 | [251241-the-curse-of-aristotle.json](./251241-the-curse-of-aristotle.json) |
@@ -10950,8 +10951,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The TET Offensive | 323804 | [323804-the-tet-offensive.json](./323804-the-tet-offensive.json) |
 | The Texas Chain Saw Massacre | 185238 | [185238-the-texas-chain-saw-massacre.json](./185238-the-texas-chain-saw-massacre.json) |
 | The Texas Chain Saw Massacre: 2003 Leatherface | 351015 | [351015-the-texas-chain-saw-massacre-2003-leatherface.json](./351015-the-texas-chain-saw-massacre-2003-leatherface.json) |
+| The Texas Chain Saw Massacre: Ana Outfit Pack | 273839 | [273839-the-texas-chain-saw-massacre-ana-outfit-pack.json](./273839-the-texas-chain-saw-massacre-ana-outfit-pack.json) |
 | The Texas Chain Saw Massacre: Ana Outfit Pack 2 | 298252 | [298252-the-texas-chain-saw-massacre-ana-outfit-pack-2.json](./298252-the-texas-chain-saw-massacre-ana-outfit-pack-2.json) |
 | The Texas Chain Saw Massacre: Bones | 351017 | [351017-the-texas-chain-saw-massacre-bones.json](./351017-the-texas-chain-saw-massacre-bones.json) |
+| The Texas Chain Saw Massacre: Connie Outfit Pack | 273838 | [273838-the-texas-chain-saw-massacre-connie-outfit-pack.json](./273838-the-texas-chain-saw-massacre-connie-outfit-pack.json) |
 | The Texas Chain Saw Massacre: Connie Outfit Pack 3 | 351014 | [351014-the-texas-chain-saw-massacre-connie-outfit-pack-3.json](./351014-the-texas-chain-saw-massacre-connie-outfit-pack-3.json) |
 | The Texas Chain Saw Massacre: Content Pass | 351024 | [351024-the-texas-chain-saw-massacre-content-pass.json](./351024-the-texas-chain-saw-massacre-content-pass.json) |
 | The Texas Chain Saw Massacre: Danny | 278360 | [278360-the-texas-chain-saw-massacre-danny.json](./278360-the-texas-chain-saw-massacre-danny.json) |
@@ -10959,7 +10962,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Texas Chain Saw Massacre: Denim Outfit Pack | 351011 | [351011-the-texas-chain-saw-massacre-denim-outfit-pack.json](./351011-the-texas-chain-saw-massacre-denim-outfit-pack.json) |
 | The Texas Chain Saw Massacre: Hands Suspenders Outfit | 351020 | [351020-the-texas-chain-saw-massacre-hands-suspenders-outfit.json](./351020-the-texas-chain-saw-massacre-hands-suspenders-outfit.json) |
 | The Texas Chain Saw Massacre: Johnny Razor-sharp Outfit | 308574 | [308574-the-texas-chain-saw-massacre-johnny-razor-sharp-outfit.json](./308574-the-texas-chain-saw-massacre-johnny-razor-sharp-outfit.json) |
+| The Texas Chain Saw Massacre: Julie Outfit Pack | 273837 | [273837-the-texas-chain-saw-massacre-julie-outfit-pack.json](./273837-the-texas-chain-saw-massacre-julie-outfit-pack.json) |
 | The Texas Chain Saw Massacre: Julie Outfit Pack 2 | 351025 | [351025-the-texas-chain-saw-massacre-julie-outfit-pack-2.json](./351025-the-texas-chain-saw-massacre-julie-outfit-pack-2.json) |
+| The Texas Chain Saw Massacre: Leland Outfit Pack | 273836 | [273836-the-texas-chain-saw-massacre-leland-outfit-pack.json](./273836-the-texas-chain-saw-massacre-leland-outfit-pack.json) |
 | The Texas Chain Saw Massacre: Nancy | 278359 | [278359-the-texas-chain-saw-massacre-nancy.json](./278359-the-texas-chain-saw-massacre-nancy.json) |
 | The Texas Chain Saw Massacre: Nancy Prim 'N Proper Outfit | 308573 | [308573-the-texas-chain-saw-massacre-nancy-prim-n-proper-outfit.json](./308573-the-texas-chain-saw-massacre-nancy-prim-n-proper-outfit.json) |
 | The Texas Chain Saw Massacre: Nicotero Leatherface | 274587 | [274587-the-texas-chain-saw-massacre-nicotero-leatherface.json](./274587-the-texas-chain-saw-massacre-nicotero-leatherface.json) |
@@ -10969,7 +10974,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Texas Chain Saw Massacre: Rush Week - Towel Pack | 351021 | [351021-the-texas-chain-saw-massacre-rush-week-towel-pack.json](./351021-the-texas-chain-saw-massacre-rush-week-towel-pack.json) |
 | The Texas Chain Saw Massacre: Rush Week - Winter Holiday Pack | 351016 | [351016-the-texas-chain-saw-massacre-rush-week-winter-holiday-pack.json](./351016-the-texas-chain-saw-massacre-rush-week-winter-holiday-pack.json) |
 | The Texas Chain Saw Massacre: Sissy Wildflower Outfit | 308569 | [308569-the-texas-chain-saw-massacre-sissy-wildflower-outfit.json](./308569-the-texas-chain-saw-massacre-sissy-wildflower-outfit.json) |
+| The Texas Chain Saw Massacre: Slaughter Family Bloody Skins Pack | 273840 | [273840-the-texas-chain-saw-massacre-slaughter-family-bloody-skins-pack.json](./273840-the-texas-chain-saw-massacre-slaughter-family-bloody-skins-pack.json) |
 | The Texas Chain Saw Massacre: Slaughter Family Execution Pack 2 | 289955 | [289955-the-texas-chain-saw-massacre-slaughter-family-execution-pack-2.json](./289955-the-texas-chain-saw-massacre-slaughter-family-execution-pack-2.json) |
+| The Texas Chain Saw Massacre: Sonny Outfit Pack | 273835 | [273835-the-texas-chain-saw-massacre-sonny-outfit-pack.json](./273835-the-texas-chain-saw-massacre-sonny-outfit-pack.json) |
 | The Texas Chain Saw Massacre: Sonny Outfit Pack 3 | 351012 | [351012-the-texas-chain-saw-massacre-sonny-outfit-pack-3.json](./351012-the-texas-chain-saw-massacre-sonny-outfit-pack-3.json) |
 | The Texas Chain Saw Massacre: Sunday Best Outfit Pack | 351013 | [351013-the-texas-chain-saw-massacre-sunday-best-outfit-pack.json](./351013-the-texas-chain-saw-massacre-sunday-best-outfit-pack.json) |
 | The Texas Chain Saw Massacre: Virginia | 298023 | [298023-the-texas-chain-saw-massacre-virginia.json](./298023-the-texas-chain-saw-massacre-virginia.json) |
@@ -11480,6 +11487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Underground Man 2 | 215732 | [215732-the-underground-man-2.json](./215732-the-underground-man-2.json) |
 | The Undergrounders | 339847 | [339847-the-undergrounders.json](./339847-the-undergrounders.json) |
 | The Undermall | 394454 | [394454-the-undermall.json](./394454-the-undermall.json) |
+| The Undersea | 273819 | [273819-the-undersea.json](./273819-the-undersea.json) |
 | The Underworld | 271804 | [271804-the-underworld.json](./271804-the-underworld.json) |
 | The Underworld | 71175 | [71175-the-underworld.json](./71175-the-underworld.json) |
 | The Undying Beast | 177310 | [177310-the-undying-beast.json](./177310-the-undying-beast.json) |
