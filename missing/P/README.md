@@ -1627,6 +1627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Party Arena: Board Game Battler | 133801 | [133801-party-arena-board-game-battler.json](./133801-party-arena-board-game-battler.json) |
 | Party Ball | 60069 | [60069-party-ball.json](./60069-party-ball.json) |
 | Party Bingo | 117614 | [117614-party-bingo.json](./117614-party-bingo.json) |
+| Party Bros. | 263936 | [263936-party-bros.json](./263936-party-bros.json) |
 | Party Business | 128594 | [128594-party-business.json](./128594-party-business.json) |
 | Party Cemetery | 178594 | [178594-party-cemetery.json](./178594-party-cemetery.json) |
 | Party Champ | 388958 | [388958-party-champ.json](./388958-party-champ.json) |
@@ -5260,7 +5261,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Puzzles World War II Jigsaws: Battle of Hürtgen Forest | 267064 | [267064-pixel-puzzles-world-war-ii-jigsaws-battle-of-hurtgen-forest.json](./267064-pixel-puzzles-world-war-ii-jigsaws-battle-of-hurtgen-forest.json) |
 | Pixel Puzzles World War II Jigsaws: Pack - Battle Off Samar | 274657 | [274657-pixel-puzzles-world-war-ii-jigsaws-pack-battle-off-samar.json](./274657-pixel-puzzles-world-war-ii-jigsaws-pack-battle-off-samar.json) |
 | Pixel Puzzles WW2 Jigsaw: Battle of the Bulge | 289463 | [289463-pixel-puzzles-ww2-jigsaw-battle-of-the-bulge.json](./289463-pixel-puzzles-ww2-jigsaw-battle-of-the-bulge.json) |
+| Pixel Puzzles WW2 Jigsaw: French Tanks | 263965 | [263965-pixel-puzzles-ww2-jigsaw-french-tanks.json](./263965-pixel-puzzles-ww2-jigsaw-french-tanks.json) |
 | Pixel Puzzles WW2 Jigsaw: Italian Tanks | 264005 | [264005-pixel-puzzles-ww2-jigsaw-italian-tanks.json](./264005-pixel-puzzles-ww2-jigsaw-italian-tanks.json) |
+| Pixel Puzzles WW2 Jigsaw: Kriegsmarine | 263962 | [263962-pixel-puzzles-ww2-jigsaw-kriegsmarine.json](./263962-pixel-puzzles-ww2-jigsaw-kriegsmarine.json) |
 | Pixel Puzzles WW2 Jigsaw: Pack - Soviet Invasion of Poland | 268141 | [268141-pixel-puzzles-ww2-jigsaw-pack-soviet-invasion-of-poland.json](./268141-pixel-puzzles-ww2-jigsaw-pack-soviet-invasion-of-poland.json) |
 | Pixel Puzzles: Illustrations & Anime | 162933 | [162933-pixel-puzzles-illustrations-and-anime.json](./162933-pixel-puzzles-illustrations-and-anime.json) |
 | Pixel Puzzles: Illustrations & Anime - Jigsaw Pack: Chibi | 241507 | [241507-pixel-puzzles-illustrations-and-anime-jigsaw-pack-chibi.json](./241507-pixel-puzzles-illustrations-and-anime-jigsaw-pack-chibi.json) |
@@ -6328,6 +6331,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plus City | 281416 | [281416-plus-city.json](./281416-plus-city.json) |
 | Plus One | 313894 | [313894-plus-one.json](./313894-plus-one.json) |
 | Plus Plum 2 | 62227 | [62227-plus-plum-2.json](./62227-plus-plum-2.json) |
+| Plus Plum 2 Again | 263958 | [263958-plus-plum-2-again.json](./263958-plus-plum-2-again.json) |
+| Plus Plumb | 263957 | [263957-plus-plumb.json](./263957-plus-plumb.json) |
 | Plus Ultra: Legado | 276828 | [276828-plus-ultra-legado.json](./276828-plus-ultra-legado.json) |
 | Plush | 24629 | [24629-plush.json](./24629-plush.json) |
 | Plush Dog | 287544 | [287544-plush-dog.json](./287544-plush-dog.json) |
