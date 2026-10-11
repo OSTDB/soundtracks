@@ -595,6 +595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War of Aero | 39849 | [39849-war-of-aero.json](./39849-war-of-aero.json) |
 | War of Angels | 66400 | [66400-war-of-angels.json](./66400-war-of-angels.json) |
 | War of Ashird | 122974 | [122974-war-of-ashird.json](./122974-war-of-ashird.json) |
+| War of Being | 260574 | [260574-war-of-being.json](./260574-war-of-being.json) |
 | War of Bellrook | 211123 | [211123-war-of-bellrook.json](./211123-war-of-bellrook.json) |
 | War Of Castles | 282249 | [282249-war-of-castles.json](./282249-war-of-castles.json) |
 | War Of Celestials | 253389 | [253389-war-of-celestials.json](./253389-war-of-celestials.json) |
@@ -3945,6 +3946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wired Witch | 413788 | [413788-wired-witch.json](./413788-wired-witch.json) |
 | Wireframe Warfare | 340989 | [340989-wireframe-warfare.json](./340989-wireframe-warfare.json) |
 | Wirehead | 5462 | [5462-wirehead.json](./5462-wirehead.json) |
+| Wirewalker | 260610 | [260610-wirewalker.json](./260610-wirewalker.json) |
 | WireWalking | 284836 | [284836-wirewalking.json](./284836-wirewalking.json) |
 | Wirtschaftsgiganten | 98968 | [98968-wirtschaftsgiganten.json](./98968-wirtschaftsgiganten.json) |
 | Wisdom | 149196 | [149196-wisdom.json](./149196-wisdom.json) |
