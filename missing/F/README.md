@@ -3005,6 +3005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Filler | 308441 | [308441-filler.json](./308441-filler.json) |
 | Fillet Fury | 337288 | [337288-fillet-fury.json](./337288-fillet-fury.json) |
 | FillGood | 415266 | [415266-fillgood.json](./415266-fillgood.json) |
+| Filling Up | 260067 | [260067-filling-up.json](./260067-filling-up.json) |
 | Fillit | 151077 | [151077-fillit.json](./151077-fillit.json) |
 | Fillit the Abstract Strategy | 349902 | [349902-fillit-the-abstract-strategy.json](./349902-fillit-the-abstract-strategy.json) |
 | Filluminate | 401768 | [401768-filluminate.json](./401768-filluminate.json) |
@@ -5464,6 +5465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FNaF 4 Retro Edition | 275647 | [275647-fnaf-4-retro-edition.json](./275647-fnaf-4-retro-edition.json) |
 | FNaF Free Edition | 299571 | [299571-fnaf-free-edition.json](./299571-fnaf-free-edition.json) |
 | FNAF in Psych Engine | 242611 | [242611-fnaf-in-psych-engine.json](./242611-fnaf-in-psych-engine.json) |
+| FNaF Multiplayer: Forgotten Pizzeria | 260060 | [260060-fnaf-multiplayer-forgotten-pizzeria.json](./260060-fnaf-multiplayer-forgotten-pizzeria.json) |
 | FNaF Ultimate Edition | 281319 | [281319-fnaf-ultimate-edition.json](./281319-fnaf-ultimate-edition.json) |
 | FNaF World Randomizer | 237325 | [237325-fnaf-world-randomizer.json](./237325-fnaf-world-randomizer.json) |
 | FNaF World Redacted | 362810 | [362810-fnaf-world-redacted.json](./362810-fnaf-world-redacted.json) |
@@ -5706,7 +5708,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football League Cup: Arcade Soccer Simulator | 319316 | [319316-football-league-cup-arcade-soccer-simulator.json](./319316-football-league-cup-arcade-soccer-simulator.json) |
 | Football Legacy | 394539 | [394539-football-legacy.json](./394539-football-legacy.json) |
 | Football Legend | 59080 | [59080-football-legend.json](./59080-football-legend.json) |
-| Football Legends 2025: Complete Edition | 404277 | [404277-football-legends-2025-complete-edition.json](./404277-football-legends-2025-complete-edition.json) |
 | Football Legends 2025: Diamond Edition | 399818 | [399818-football-legends-2025-diamond-edition.json](./399818-football-legends-2025-diamond-edition.json) |
 | Football Legends 2025: Gold Edition | 396917 | [396917-football-legends-2025-gold-edition.json](./396917-football-legends-2025-gold-edition.json) |
 | Football Life 2023 | 225767 | [225767-football-life-2023.json](./225767-football-life-2023.json) |
@@ -8178,6 +8179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Full Throttle: Payback | 92659 | [92659-full-throttle-payback.json](./92659-full-throttle-payback.json) |
 | Full Tilt! Pinball 2 | 74316 | [74316-full-tilt-pinball-2.json](./74316-full-tilt-pinball-2.json) |
 | Full Voice Throttle | 181352 | [181352-full-voice-throttle.json](./181352-full-voice-throttle.json) |
+| Full Void: Special Edition | 260078 | [260078-full-void-special-edition.json](./260078-full-void-special-edition.json) |
 | Full-Scale Invasion | 287727 | [287727-full-scale-invasion.json](./287727-full-scale-invasion.json) |
 | FullBlast | 33864 | [33864-fullblast.json](./33864-fullblast.json) |
 | Fullbright Presents: Toilet Spiders | 320286 | [320286-fullbright-presents-toilet-spiders.json](./320286-fullbright-presents-toilet-spiders.json) |
@@ -8203,12 +8205,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fun | 360738 | [360738-fun.json](./360738-fun.json) |
 | Fun 'N Games | 4241 | [4241-fun-n-games.json](./4241-fun-n-games.json) |
 | Fun & Skills Pack: Toddler | 84430 | [84430-fun-and-skills-pack-toddler.json](./84430-fun-and-skills-pack-toddler.json) |
+| Fun Chess | 260053 | [260053-fun-chess.json](./260053-fun-chess.json) |
 | Fun Chess: Complete Edition | 277912 | [277912-fun-chess-complete-edition.json](./277912-fun-chess-complete-edition.json) |
 | Fun Chess: Definitive Edition | 275032 | [275032-fun-chess-definitive-edition.json](./275032-fun-chess-definitive-edition.json) |
 | Fun Chess: Extended Edition | 263551 | [263551-fun-chess-extended-edition.json](./263551-fun-chess-extended-edition.json) |
 | Fun Chess: Platinum Edition | 283146 | [283146-fun-chess-platinum-edition.json](./283146-fun-chess-platinum-edition.json) |
 | Fun Chess: Premium Edition | 270792 | [270792-fun-chess-premium-edition.json](./270792-fun-chess-premium-edition.json) |
 | Fun Chess: Special Edition | 268559 | [268559-fun-chess-special-edition.json](./268559-fun-chess-special-edition.json) |
+| Fun Chess: Ultimate Edition | 260047 | [260047-fun-chess-ultimate-edition.json](./260047-fun-chess-ultimate-edition.json) |
 | Fun Christmas Santa VR | 160152 | [160152-fun-christmas-santa-vr.json](./160152-fun-christmas-santa-vr.json) |
 | Fun Claw | 246449 | [246449-fun-claw.json](./246449-fun-claw.json) |
 | Fun Cube | 255894 | [255894-fun-cube.json](./255894-fun-cube.json) |
