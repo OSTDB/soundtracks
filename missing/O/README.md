@@ -2400,6 +2400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orbit Puzzle | 312691 | [312691-orbit-puzzle.json](./312691-orbit-puzzle.json) |
 | Orbit Quest | 107201 | [107201-orbit-quest.json](./107201-orbit-quest.json) |
 | Orbit Salvager | 267556 | [267556-orbit-salvager.json](./267556-orbit-salvager.json) |
+| Orbit Zero | 260593 | [260593-orbit-zero.json](./260593-orbit-zero.json) |
 | Orbit: Satellite Defense | 83942 | [83942-orbit-satellite-defense.json](./83942-orbit-satellite-defense.json) |
 | Orbit.Industries | 194457 | [194457-orbit-industries.json](./194457-orbit-industries.json) |
 | Orbital | 208895 | [208895-orbital.json](./208895-orbital.json) |
