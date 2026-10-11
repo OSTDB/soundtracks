@@ -1710,6 +1710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paso Comic PuruPuru Paradise: Santa Claus Tokushuu | 62213 | [62213-paso-comic-purupuru-paradise-santa-claus-tokushuu.json](./62213-paso-comic-purupuru-paradise-santa-claus-tokushuu.json) |
 | PASS | 360680 | [360680-pass.json](./360680-pass.json) |
 | Pass On | 183076 | [183076-pass-on.json](./183076-pass-on.json) |
+| Pass Problems | 264555 | [264555-pass-problems.json](./264555-pass-problems.json) |
 | Pass the Bomb | 67946 | [67946-pass-the-bomb.json](./67946-pass-the-bomb.json) |
 | Pass the Mask! | 401051 | [401051-pass-the-mask.json](./401051-pass-the-mask.json) |
 | Pass the Pigs | 18271 | [18271-pass-the-pigs.json](./18271-pass-the-pigs.json) |
