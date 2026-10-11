@@ -2051,6 +2051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scoop'n Birds | 86076 | [86076-scoopn-birds.json](./86076-scoopn-birds.json) |
 | Scoops | 232584 | [232584-scoops.json](./232584-scoops.json) |
 | Scoops & Social Ice-Olation | 258521 | [258521-scoops-and-social-ice-olation.json](./258521-scoops-and-social-ice-olation.json) |
+| Scoops Ahoy | 245198 | [245198-scoops-ahoy.json](./245198-scoops-ahoy.json) |
 | Scoot Hard DX: Daytime Drama Zero | 230508 | [230508-scoot-hard-dx-daytime-drama-zero.json](./230508-scoot-hard-dx-daytime-drama-zero.json) |
 | Scoot Kaboom and the Tomb of Doom | 132695 | [132695-scoot-kaboom-and-the-tomb-of-doom.json](./132695-scoot-kaboom-and-the-tomb-of-doom.json) |
 | Scooter Shooter | 40199 | [40199-scooter-shooter.json](./40199-scooter-shooter.json) |
@@ -16763,6 +16764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steve Magal: Fists of Brutal Truth | 341888 | [341888-steve-magal-fists-of-brutal-truth.json](./341888-steve-magal-fists-of-brutal-truth.json) |
 | Steve Reich’s Clapping Music | 312322 | [312322-steve-reich-s-clapping-music.json](./312322-steve-reich-s-clapping-music.json) |
 | Steve RPG | 209380 | [209380-steve-rpg.json](./209380-steve-rpg.json) |
+| Steve Stomp | 245188 | [245188-steve-stomp.json](./245188-steve-stomp.json) |
 | Steve: Operation Nuts | 295010 | [295010-steve-operation-nuts.json](./295010-steve-operation-nuts.json) |
 | Steve's HardCore WorldTour | 153973 | [153973-steves-hardcore-worldtour.json](./153973-steves-hardcore-worldtour.json) |
 | Steve's Pub - Soda on tap | 76215 | [76215-steves-pub-soda-on-tap.json](./76215-steves-pub-soda-on-tap.json) |
@@ -17405,6 +17407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stranger of Paradise: Final Fantasy Origin - Wanderer of the Rift | 217790 | [217790-stranger-of-paradise-final-fantasy-origin-wanderer-of-the-rift.json](./217790-stranger-of-paradise-final-fantasy-origin-wanderer-of-the-rift.json) |
 | Stranger of Sword City 2 | 19801 | [19801-stranger-of-sword-city-2.json](./19801-stranger-of-sword-city-2.json) |
 | Stranger of Sword City: Limited Edition | 42681 | [42681-stranger-of-sword-city-limited-edition.json](./42681-stranger-of-sword-city-limited-edition.json) |
+| Stranger Skies | 245193 | [245193-stranger-skies.json](./245193-stranger-skies.json) |
 | Stranger Than Heaven | 325599 | [325599-stranger-than-heaven.json](./325599-stranger-than-heaven.json) |
 | Stranger Things | 327225 | [327225-stranger-things.json](./327225-stranger-things.json) |
 | Stranger Things VR | 225668 | [225668-stranger-things-vr.json](./225668-stranger-things-vr.json) |
@@ -22813,6 +22816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Syrian Warfare: Return to Palmyra | 167798 | [167798-syrian-warfare-return-to-palmyra.json](./167798-syrian-warfare-return-to-palmyra.json) |
 | Syrnia | 130718 | [130718-syrnia.json](./130718-syrnia.json) |
 | Syrup 2: Candy Alchemy RPG | 362733 | [362733-syrup-2-candy-alchemy-rpg.json](./362733-syrup-2-candy-alchemy-rpg.json) |
+| Syrup Drip | 245187 | [245187-syrup-drip.json](./245187-syrup-drip.json) |
 | SyS KillMirror | 316616 | [316616-sys-killmirror.json](./316616-sys-killmirror.json) |
 | SYS: Save Your Soul | 386330 | [386330-sys-save-your-soul.json](./386330-sys-save-your-soul.json) |
 | Sys//Purge | 395041 | [395041-sys-purge.json](./395041-sys-purge.json) |
