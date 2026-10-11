@@ -1602,6 +1602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gem Worlds | 190026 | [190026-gem-worlds.json](./190026-gem-worlds.json) |
 | Gem's Hentai: Ultimate Puzzle | 296674 | [296674-gems-hentai-ultimate-puzzle.json](./296674-gems-hentai-ultimate-puzzle.json) |
 | Gem'X | 93210 | [93210-gemx.json](./93210-gemx.json) |
+| Gemaboy Zero X | 274964 | [274964-gemaboy-zero-x.json](./274964-gemaboy-zero-x.json) |
 | GemaBoy: Zero Origins | 208041 | [208041-gemaboy-zero-origins.json](./208041-gemaboy-zero-origins.json) |
 | Gemalomania | 313304 | [313304-gemalomania.json](./313304-gemalomania.json) |
 | Gemaze TD | 411665 | [411665-gemaze-td.json](./411665-gemaze-td.json) |
@@ -4889,6 +4890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grandma With A Gun | 335276 | [335276-grandma-with-a-gun.json](./335276-grandma-with-a-gun.json) |
 | Grandma's Ghosts | 176307 | [176307-grandmas-ghosts.json](./176307-grandmas-ghosts.json) |
 | Grandma's Guide to the Grand Outside | 415110 | [415110-grandmas-guide-to-the-grand-outside.json](./415110-grandmas-guide-to-the-grand-outside.json) |
+| Grandma's House: College Days | 274923 | [274923-grandmas-house-college-days.json](./274923-grandmas-house-college-days.json) |
 | Grandma's Kitchen | 264007 | [264007-grandmas-kitchen.json](./264007-grandmas-kitchen.json) |
 | Grandma's Little Store | 379046 | [379046-grandmas-little-store.json](./379046-grandmas-little-store.json) |
 | Grandma(88) | 260251 | [260251-grandma-88.json](./260251-grandma-88.json) |
