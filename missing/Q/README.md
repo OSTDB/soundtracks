@@ -722,6 +722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quiz Econosaurus | 97677 | [97677-quiz-econosaurus.json](./97677-quiz-econosaurus.json) |
 | Quiz Express | 241339 | [241339-quiz-express.json](./241339-quiz-express.json) |
 | Quiz Game Museum | 418534 | [418534-quiz-game-museum.json](./418534-quiz-game-museum.json) |
+| Quiz Game Night | 270068 | [270068-quiz-game-night.json](./270068-quiz-game-night.json) |
 | Quiz It | 102758 | [102758-quiz-it.json](./102758-quiz-it.json) |
 | Quiz Kidou Senshi Gundam: Toi Senshi DX | 62758 | [62758-quiz-kidou-senshi-gundam-toi-senshi-dx.json](./62758-quiz-kidou-senshi-gundam-toi-senshi-dx.json) |
 | Quiz King of Fighters 2001 | 98055 | [98055-quiz-king-of-fighters-2001.json](./98055-quiz-king-of-fighters-2001.json) |
