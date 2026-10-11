@@ -1298,6 +1298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 360 No Scope Arena | 104905 | [104905-360-no-scope-arena.json](./104905-360-no-scope-arena.json) |
 | 360 No Scope! | 107867 | [107867-360-no-scope.json](./107867-360-no-scope.json) |
 | 360: Three Sixty | 45318 | [45318-360-three-sixty.json](./45318-360-three-sixty.json) |
+| 36200 | 241994 | [241994-36200.json](./241994-36200.json) |
 | 365 Days | 29917 | [29917-365-days.json](./29917-365-days.json) |
 | 369 | 203800 | [203800-369.json](./203800-369.json) |
 | 372756 | 397771 | [397771-372756.json](./397771-372756.json) |
