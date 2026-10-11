@@ -1241,6 +1241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Visit | 103446 | [103446-dark-visit.json](./103446-dark-visit.json) |
 | Dark Void | 4220 | [4220-dark-void.json](./4220-dark-void.json) |
 | Dark Void Zero | 10166 | [10166-dark-void-zero.json](./10166-dark-void-zero.json) |
+| Dark Walk | 241873 | [241873-dark-walk.json](./241873-dark-walk.json) |
 | Dark War | 30813 | [30813-dark-war.json](./30813-dark-war.json) |
 | Dark War: Survival | 329651 | [329651-dark-war-survival.json](./329651-dark-war-survival.json) |
 | Dark Watching: Chapter 1 | 383633 | [383633-dark-watching-chapter-1.json](./383633-dark-watching-chapter-1.json) |
@@ -1706,6 +1707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dawn of Heroes | 19721 | [19721-dawn-of-heroes.json](./19721-dawn-of-heroes.json) |
 | Dawn of Hope: Thunder Daughter | 103870 | [103870-dawn-of-hope-thunder-daughter.json](./103870-dawn-of-hope-thunder-daughter.json) |
 | Dawn of Insolence | 271110 | [271110-dawn-of-insolence.json](./271110-dawn-of-insolence.json) |
+| Dawn of Mages | 241855 | [241855-dawn-of-mages.json](./241855-dawn-of-mages.json) |
 | Dawn of Magic | 11024 | [11024-dawn-of-magic.json](./11024-dawn-of-magic.json) |
 | Dawn of Magic 2 | 11025 | [11025-dawn-of-magic-2.json](./11025-dawn-of-magic-2.json) |
 | Dawn of Man | 102163 | [102163-dawn-of-man.json](./102163-dawn-of-man.json) |
@@ -6124,6 +6126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dirty Phrase Frenzy | 104718 | [104718-dirty-phrase-frenzy.json](./104718-dirty-phrase-frenzy.json) |
 | Dirty Piano Lessons | 371387 | [371387-dirty-piano-lessons.json](./371387-dirty-piano-lessons.json) |
 | Dirty Piggy | 364995 | [364995-dirty-piggy.json](./364995-dirty-piggy.json) |
+| Dirty Room | 241854 | [241854-dirty-room.json](./241854-dirty-room.json) |
 | Dirty Room: Chapter 4 | 246843 | [246843-dirty-room-chapter-4.json](./246843-dirty-room-chapter-4.json) |
 | Dirty Rotten Bounders | 285023 | [285023-dirty-rotten-bounders.json](./285023-dirty-rotten-bounders.json) |
 | Dirty Streamer Puzzle | 244832 | [244832-dirty-streamer-puzzle.json](./244832-dirty-streamer-puzzle.json) |
@@ -6713,6 +6716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Divekick: Addition Edition + | 20226 | [20226-divekick-addition-edition.json](./20226-divekick-addition-edition.json) |
 | Diver | 267291 | [267291-diver.json](./267291-diver.json) |
 | Diver Boy | 39871 | [39871-diver-boy.json](./39871-diver-boy.json) |
+| Diver Dash | 241872 | [241872-diver-dash.json](./241872-diver-dash.json) |
 | Diver, Catch & Cook Simulator | 386212 | [386212-diver-catch-and-cook-simulator.json](./386212-diver-catch-and-cook-simulator.json) |
 | Diver: Deep Water Adventures | 63282 | [63282-diver-deep-water-adventures.json](./63282-diver-deep-water-adventures.json) |
 | Diver's | 373028 | [373028-divers.json](./373028-divers.json) |
@@ -11156,6 +11160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Crawl Tower Run | 260633 | [260633-dungeon-crawl-tower-run.json](./260633-dungeon-crawl-tower-run.json) |
 | Dungeon Crawler | 191823 | [191823-dungeon-crawler.json](./191823-dungeon-crawler.json) |
 | Dungeon Create | 265139 | [265139-dungeon-create.json](./265139-dungeon-create.json) |
+| Dungeon Creator | 241999 | [241999-dungeon-creator.json](./241999-dungeon-creator.json) |
 | Dungeon Cross | 221251 | [221251-dungeon-cross.json](./221251-dungeon-cross.json) |
 | Dungeon Crusher: Soul Hunters | 142999 | [142999-dungeon-crusher-soul-hunters.json](./142999-dungeon-crusher-soul-hunters.json) |
 | Dungeon Crystal | 322851 | [322851-dungeon-crystal.json](./322851-dungeon-crystal.json) |
