@@ -1869,6 +1869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fastar: Fantasy Fairy Story | 233468 | [233468-fastar-fantasy-fairy-story.json](./233468-fastar-fantasy-fairy-story.json) |
 | FastBall 2 | 257370 | [257370-fastball-2.json](./257370-fastball-2.json) |
 | FastBall 2 F. | 259077 | [259077-fastball-2-f.json](./259077-fastball-2-f.json) |
+| Faster | 260575 | [260575-faster.json](./260575-faster.json) |
 | Faster Harder More Challenging Q*bert | 39671 | [39671-faster-harder-more-challenging-q-bert.json](./39671-faster-harder-more-challenging-q-bert.json) |
 | Faster Racer Boom Boom | 255259 | [255259-faster-racer-boom-boom.json](./255259-faster-racer-boom-boom.json) |
 | Faster Than Bolt | 308997 | [308997-faster-than-bolt.json](./308997-faster-than-bolt.json) |
@@ -5404,6 +5405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flying Stunt Simulator | 278156 | [278156-flying-stunt-simulator.json](./278156-flying-stunt-simulator.json) |
 | Flying Superhero Captain Robot Crime City Battle | 101982 | [101982-flying-superhero-captain-robot-crime-city-battle.json](./101982-flying-superhero-captain-robot-crime-city-battle.json) |
 | Flying Sushi | 337991 | [337991-flying-sushi.json](./337991-flying-sushi.json) |
+| Flying Tank | 260602 | [260602-flying-tank.json](./260602-flying-tank.json) |
 | Flying Tickets | 130873 | [130873-flying-tickets.json](./130873-flying-tickets.json) |
 | Flying Tigers | 269764 | [269764-flying-tigers.json](./269764-flying-tigers.json) |
 | Flying Tigers II | 269763 | [269763-flying-tigers-ii.json](./269763-flying-tigers-ii.json) |
