@@ -864,6 +864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Young Dilbert Hi-Tech Hijinks | 70332 | [70332-young-dilbert-hi-tech-hijinks.json](./70332-young-dilbert-hi-tech-hijinks.json) |
 | Young Justice Shadow Mission | 80565 | [80565-young-justice-shadow-mission.json](./80565-young-justice-shadow-mission.json) |
 | Young Justice: Legacy | 194949 | [194949-young-justice-legacy.json](./194949-young-justice-legacy.json) |
+| Young Mage | 244665 | [244665-young-mage.json](./244665-young-mage.json) |
 | Young Merlin | 11665 | [11665-young-merlin.json](./11665-young-merlin.json) |
 | Young Souls | 106857 | [106857-young-souls.json](./106857-young-souls.json) |
 | Young Street | 251240 | [251240-young-street.json](./251240-young-street.json) |
