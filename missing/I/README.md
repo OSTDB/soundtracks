@@ -147,6 +147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Commissioned Some Bunnies 5 | 306438 | [306438-i-commissioned-some-bunnies-5.json](./306438-i-commissioned-some-bunnies-5.json) |
 | I Commissioned Some Butterflies | 270127 | [270127-i-commissioned-some-butterflies.json](./270127-i-commissioned-some-butterflies.json) |
 | I Commissioned Some Cats | 237295 | [237295-i-commissioned-some-cats.json](./237295-i-commissioned-some-cats.json) |
+| I Commissioned Some Cats 2 | 264551 | [264551-i-commissioned-some-cats-2.json](./264551-i-commissioned-some-cats-2.json) |
 | I Commissioned Some Cats 5 | 270126 | [270126-i-commissioned-some-cats-5.json](./270126-i-commissioned-some-cats-5.json) |
 | I Commissioned Some Frogs 2 | 270131 | [270131-i-commissioned-some-frogs-2.json](./270131-i-commissioned-some-frogs-2.json) |
 | I Commissioned Some Invisible People 0 | 292546 | [292546-i-commissioned-some-invisible-people-0.json](./292546-i-commissioned-some-invisible-people-0.json) |
