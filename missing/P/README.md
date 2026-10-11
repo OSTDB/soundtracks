@@ -1416,6 +1416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parawhy | 325677 | [325677-parawhy.json](./325677-parawhy.json) |
 | Parcel Dash | 350444 | [350444-parcel-dash.json](./350444-parcel-dash.json) |
 | Parcel Delivery Simulator | 377066 | [377066-parcel-delivery-simulator.json](./377066-parcel-delivery-simulator.json) |
+| Parcel Mania | 275533 | [275533-parcel-mania.json](./275533-parcel-mania.json) |
 | Parcel Packing Simulator | 263994 | [263994-parcel-packing-simulator.json](./263994-parcel-packing-simulator.json) |
 | Parcel Problems | 239061 | [239061-parcel-problems.json](./239061-parcel-problems.json) |
 | Parcels and Pollen | 177503 | [177503-parcels-and-pollen.json](./177503-parcels-and-pollen.json) |
@@ -9503,6 +9504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Progress Bar Deluxe | 371861 | [371861-progress-bar-deluxe.json](./371861-progress-bar-deluxe.json) |
 | Progress Bar Simulator | 130747 | [130747-progress-bar-simulator.json](./130747-progress-bar-simulator.json) |
 | Progress Bar Simulator DLC - H.O.R.S.E. 1st | 141662 | [141662-progress-bar-simulator-dlc-h-o-r-s-e-1st.json](./141662-progress-bar-simulator-dlc-h-o-r-s-e-1st.json) |
+| Progress Chess | 275547 | [275547-progress-chess.json](./275547-progress-chess.json) |
 | Progress Knight | 177814 | [177814-progress-knight.json](./177814-progress-knight.json) |
 | Progress Orders | 328491 | [328491-progress-orders.json](./328491-progress-orders.json) |
 | Progress Quest | 94363 | [94363-progress-quest.json](./94363-progress-quest.json) |
@@ -10667,6 +10669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Punch Club: The Dark Fist | 18097 | [18097-punch-club-the-dark-fist.json](./18097-punch-club-the-dark-fist.json) |
 | Punch Hero | 38999 | [38999-punch-hero.json](./38999-punch-hero.json) |
 | Punch It Deluxe | 192158 | [192158-punch-it-deluxe.json](./192158-punch-it-deluxe.json) |
+| Punch Jump | 275555 | [275555-punch-jump.json](./275555-punch-jump.json) |
 | Punch Kick Club | 338283 | [338283-punch-kick-club.json](./338283-punch-kick-club.json) |
 | Punch Kick Duck | 231911 | [231911-punch-kick-duck.json](./231911-punch-kick-duck.json) |
 | Punch Line | 11775 | [11775-punch-line.json](./11775-punch-line.json) |
