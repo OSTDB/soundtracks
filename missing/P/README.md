@@ -449,6 +449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paint It: Christmas Pack | 278654 | [278654-paint-it-christmas-pack.json](./278654-paint-it-christmas-pack.json) |
 | Paint My Cat - Color and Play | 96045 | [96045-paint-my-cat-color-and-play.json](./96045-paint-my-cat-color-and-play.json) |
 | Paint on Paint TD | 373193 | [373193-paint-on-paint-td.json](./373193-paint-on-paint-td.json) |
+| Paint Over | 244150 | [244150-paint-over.json](./244150-paint-over.json) |
 | Paint Park | 65249 | [65249-paint-park.json](./65249-paint-park.json) |
 | Paint Park Plus | 119585 | [119585-paint-park-plus.json](./119585-paint-park-plus.json) |
 | Paint Puzzle Quest | 341600 | [341600-paint-puzzle-quest.json](./341600-paint-puzzle-quest.json) |
@@ -3646,6 +3647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PhotoWorld | 209966 | [209966-photoworld.json](./209966-photoworld.json) |
 | Phrase Craze Plus | 229804 | [229804-phrase-craze-plus.json](./229804-phrase-craze-plus.json) |
 | Phrase Frenzy - Catch It! | 108598 | [108598-phrase-frenzy-catch-it.json](./108598-phrase-frenzy-catch-it.json) |
+| Phrase Passport Japan A Travel Japanese Quiz | 407270 | [407270-phrase-passport-japan-a-travel-japanese-quiz.json](./407270-phrase-passport-japan-a-travel-japanese-quiz.json) |
 | Phrasefight | 106115 | [106115-phrasefight.json](./106115-phrasefight.json) |
 | Phraze Craze | 307911 | [307911-phraze-craze.json](./307911-phraze-craze.json) |
 | Phraze Daze: Famous Quotes Word Game | 68742 | [68742-phraze-daze-famous-quotes-word-game.json](./68742-phraze-daze-famous-quotes-word-game.json) |
@@ -4059,6 +4061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pigment | 377050 | [377050-pigment.json](./377050-pigment.json) |
 | Pigmentone | 32240 | [32240-pigmentone.json](./32240-pigmentone.json) |
 | Pigmentum | 29695 | [29695-pigmentum.json](./29695-pigmentum.json) |
+| Pignator | 244137 | [244137-pignator.json](./244137-pignator.json) |
 | Pigromance | 141202 | [141202-pigromance.json](./141202-pigromance.json) |
 | Pigs Can Fly | 265736 | [265736-pigs-can-fly.json](./265736-pigs-can-fly.json) |
 | Pigsaw: Human Abattoir | 272381 | [272381-pigsaw-human-abattoir.json](./272381-pigsaw-human-abattoir.json) |
@@ -4911,6 +4914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Piron Virus | 275091 | [275091-piron-virus.json](./275091-piron-virus.json) |
 | PiroPito | 276754 | [276754-piropito.json](./276754-piropito.json) |
 | Pisces | 109444 | [109444-pisces.json](./109444-pisces.json) |
+| Piscirazzi | 244144 | [244144-piscirazzi.json](./244144-piscirazzi.json) |
 | Piscis x Machina 4.44 You are Fish | 358446 | [358446-piscis-x-machina-4-44-you-are-fish.json](./358446-piscis-x-machina-4-44-you-are-fish.json) |
 | Piske & Usagi's Short Trip | 263570 | [263570-piske-and-usagis-short-trip.json](./263570-piske-and-usagis-short-trip.json) |
 | Piso 6 | 366364 | [366364-piso-6.json](./366364-piso-6.json) |
@@ -5860,6 +5864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet's Core | 112302 | [112302-planets-core.json](./112302-planets-core.json) |
 | Planet's Edge | 14422 | [14422-planets-edge.json](./14422-planets-edge.json) |
 | Planeta | 158054 | [158054-planeta.json](./158054-planeta.json) |
+| Planeta 55 | 244169 | [244169-planeta-55.json](./244169-planeta-55.json) |
 | Planetarian | 44468 | [44468-planetarian.json](./44468-planetarian.json) |
 | Planetarian HD | 28685 | [28685-planetarian-hd.json](./28685-planetarian-hd.json) |
 | Planetarian: Ultimate Edition | 156191 | [156191-planetarian-ultimate-edition.json](./156191-planetarian-ultimate-edition.json) |
@@ -5884,6 +5889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planetary Taxi | 279558 | [279558-planetary-taxi.json](./279558-planetary-taxi.json) |
 | Planetation | 148978 | [148978-planetation.json](./148978-planetation.json) |
 | Planetbase | 13200 | [13200-planetbase.json](./13200-planetbase.json) |
+| PlanetBlight | 244132 | [244132-planetblight.json](./244132-planetblight.json) |
 | Planetbound | 41926 | [41926-planetbound.json](./41926-planetbound.json) |
 | PlanetCon | 114780 | [114780-planetcon.json](./114780-planetcon.json) |
 | PlanetDrop: A Tiny Space Adventure | 180011 | [180011-planetdrop-a-tiny-space-adventure.json](./180011-planetdrop-a-tiny-space-adventure.json) |
@@ -11538,6 +11544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PuzzleLand | 261997 | [261997-puzzleland.json](./261997-puzzleland.json) |
 | Puzzlelicious | 88260 | [88260-puzzlelicious.json](./88260-puzzlelicious.json) |
 | Puzzlemazed | 303663 | [303663-puzzlemazed.json](./303663-puzzlemazed.json) |
+| Puzzlepops! Plus | 244171 | [244171-puzzlepops-plus.json](./244171-puzzlepops-plus.json) |
 | Puzzler | 104252 | [104252-puzzler.json](./104252-puzzler.json) |
 | Puzzler Clover | 69300 | [69300-puzzler-clover.json](./69300-puzzler-clover.json) |
 | Puzzler World | 308990 | [308990-puzzler-world.json](./308990-puzzler-world.json) |
