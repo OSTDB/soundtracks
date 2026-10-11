@@ -2332,6 +2332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Clinic Simulator: Vet Hospital | 364075 | [364075-cat-clinic-simulator-vet-hospital.json](./364075-cat-clinic-simulator-vet-hospital.json) |
 | Cat Cosmic Puzzle | 347317 | [347317-cat-cosmic-puzzle.json](./347317-cat-cosmic-puzzle.json) |
 | Cat Couple | 334804 | [334804-cat-couple.json](./334804-cat-couple.json) |
+| Cat Craft | 404190 | [404190-cat-craft.json](./404190-cat-craft.json) |
 | Cat Crisis | 412438 | [412438-cat-crisis.json](./412438-cat-crisis.json) |
 | Cat Dance | 178007 | [178007-cat-dance.json](./178007-cat-dance.json) |
 | Cat Dash Go | 236232 | [236232-cat-dash-go.json](./236232-cat-dash-go.json) |
@@ -3283,6 +3284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cessna Over Moscow | 39116 | [39116-cessna-over-moscow.json](./39116-cessna-over-moscow.json) |
 | Cesspool | 186096 | [186096-cesspool.json](./186096-cesspool.json) |
 | Cesta bojovníka | 391800 | [391800-cesta-bojovnika.json](./391800-cesta-bojovnika.json) |
+| Ceteris Paribus | 244136 | [244136-ceteris-paribus.json](./244136-ceteris-paribus.json) |
 | Ceuswark Defenders | 419201 | [419201-ceuswark-defenders.json](./419201-ceuswark-defenders.json) |
 | CFG: Combat for General | 235478 | [235478-cfg-combat-for-general.json](./235478-cfg-combat-for-general.json) |
 | CFL Football '99 | 78671 | [78671-cfl-football-99.json](./78671-cfl-football-99.json) |
@@ -7354,6 +7356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Math | 89573 | [89573-color-math.json](./89573-color-math.json) |
 | Color Maze | 184114 | [184114-color-maze.json](./184114-color-maze.json) |
 | Color Me !!! for Mac | 99375 | [99375-color-me-for-mac.json](./99375-color-me-for-mac.json) |
+| Color Move 2 | 407246 | [407246-color-move-2.json](./407246-color-move-2.json) |
 | Color Muse | 368618 | [368618-color-muse.json](./368618-color-muse.json) |
 | Color Ninjas | 181782 | [181782-color-ninjas.json](./181782-color-ninjas.json) |
 | Color Objects For Kids | 89645 | [89645-color-objects-for-kids.json](./89645-color-objects-for-kids.json) |
@@ -9517,6 +9520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Countries of the World | 137489 | [137489-countries-of-the-world.json](./137489-countries-of-the-world.json) |
 | Countrified | 126423 | [126423-countrified.json](./126423-countrified.json) |
 | Country Architect | 376445 | [376445-country-architect.json](./376445-country-architect.json) |
+| Country Bumpkin Yutaka | 244159 | [244159-country-bumpkin-yutaka.json](./244159-country-bumpkin-yutaka.json) |
 | Country Clubbing | 126968 | [126968-country-clubbing.json](./126968-country-clubbing.json) |
 | Country Dance All Stars | 20214 | [20214-country-dance-all-stars.json](./20214-country-dance-all-stars.json) |
 | Country Dance: 30 Chart-topping Hits!!! | 268115 | [268115-country-dance-30-chart-topping-hits.json](./268115-country-dance-30-chart-topping-hits.json) |
