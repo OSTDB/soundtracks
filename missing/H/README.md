@@ -5935,6 +5935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hook | 214611 | [214611-hook.json](./214611-hook.json) |
 | Hook | 78145 | [78145-hook.json](./78145-hook.json) |
 | Hook | 8704 | [8704-hook.json](./8704-hook.json) |
+| Hook & Kaiju | 266729 | [266729-hook-and-kaiju.json](./266729-hook-and-kaiju.json) |
 | Hook & Roll | 401738 | [401738-hook-and-roll.json](./401738-hook-and-roll.json) |
 | Hook Champ | 67249 | [67249-hook-champ.json](./67249-hook-champ.json) |
 | Hook Line and Sniper | 319365 | [319365-hook-line-and-sniper.json](./319365-hook-line-and-sniper.json) |
@@ -6020,6 +6021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hop Up | 323308 | [323308-hop-up.json](./323308-hop-up.json) |
 | Hop-Co-Op | 410944 | [410944-hop-co-op.json](./410944-hop-co-op.json) |
 | Hop: The Movie | 254792 | [254792-hop-the-movie.json](./254792-hop-the-movie.json) |
+| Hop! Step! Dance! | 266726 | [266726-hop-step-dance.json](./266726-hop-step-dance.json) |
 | Hop'n & Bop'n | 290831 | [290831-hopn-and-bopn.json](./290831-hopn-and-bopn.json) |
 | Hop'N'Hoard | 394846 | [394846-hopnhoard.json](./394846-hopnhoard.json) |
 | Hopa: Mini test Quest | 183999 | [183999-hopa-mini-test-quest.json](./183999-hopa-mini-test-quest.json) |
