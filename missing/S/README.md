@@ -1487,6 +1487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Save Daddy Trump 4: Maga 2024 | 301832 | [301832-save-daddy-trump-4-maga-2024.json](./301832-save-daddy-trump-4-maga-2024.json) |
 | Save Dash | 54905 | [54905-save-dash.json](./54905-save-dash.json) |
 | Save Data | 153366 | [153366-save-data.json](./153366-save-data.json) |
+| Save District 3 | 242982 | [242982-save-district-3.json](./242982-save-district-3.json) |
 | Save Farty: The Trivia Game | 142838 | [142838-save-farty-the-trivia-game.json](./142838-save-farty-the-trivia-game.json) |
 | Save from Bobr Curve | 291679 | [291679-save-from-bobr-curve.json](./291679-save-from-bobr-curve.json) |
 | Save Giant Girl From Monsters 4 | 291890 | [291890-save-giant-girl-from-monsters-4.json](./291890-save-giant-girl-from-monsters-4.json) |
@@ -3021,6 +3022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | See How the Cat Jumps | 379668 | [379668-see-how-the-cat-jumps.json](./379668-see-how-the-cat-jumps.json) |
 | See Light | 29088 | [29088-see-light.json](./29088-see-light.json) |
 | See Me | 97903 | [97903-see-me.json](./97903-see-me.json) |
+| See No Fear | 243046 | [243046-see-no-fear.json](./243046-see-no-fear.json) |
 | See Thru: Need a Friend? | 305333 | [305333-see-thru-need-a-friend.json](./305333-see-thru-need-a-friend.json) |
 | See You Later | 235451 | [235451-see-you-later.json](./235451-see-you-later.json) |
 | See You on the Other Side | 180188 | [180188-see-you-on-the-other-side.json](./180188-see-you-on-the-other-side.json) |
@@ -12854,6 +12856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spaceship For Newbies | 152745 | [152745-spaceship-for-newbies.json](./152745-spaceship-for-newbies.json) |
 | Spaceship Hunters | 184512 | [184512-spaceship-hunters.json](./184512-spaceship-hunters.json) |
 | Spaceship Man 2 | 351258 | [351258-spaceship-man-2.json](./351258-spaceship-man-2.json) |
+| Spaceship Racer: Portal | 243041 | [243041-spaceship-racer-portal.json](./243041-spaceship-racer-portal.json) |
 | Spaceship Racer: Portal | 244744 | [244744-spaceship-racer-portal.json](./244744-spaceship-racer-portal.json) |
 | Spaceship Survivors | 244732 | [244732-spaceship-survivors.json](./244732-spaceship-survivors.json) |
 | Spaceship Tactics | 338269 | [338269-spaceship-tactics.json](./338269-spaceship-tactics.json) |
@@ -13530,6 +13533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spherythm | 118456 | [118456-spherythm.json](./118456-spherythm.json) |
 | Sphinx Adventure | 13760 | [13760-sphinx-adventure.json](./13760-sphinx-adventure.json) |
 | Sphinx and the Cursed Mummy | 210438 | [210438-sphinx-and-the-cursed-mummy.json](./210438-sphinx-and-the-cursed-mummy.json) |
+| Sphinx and the Cursed Mummy | 242998 | [242998-sphinx-and-the-cursed-mummy.json](./242998-sphinx-and-the-cursed-mummy.json) |
 | Sphinx Lowering | 229819 | [229819-sphinx-lowering.json](./229819-sphinx-lowering.json) |
 | Sphinx: Riddles of the Nile | 289377 | [289377-sphinx-riddles-of-the-nile.json](./289377-sphinx-riddles-of-the-nile.json) |
 | Sphirit | 351266 | [351266-sphirit.json](./351266-sphirit.json) |
@@ -14806,6 +14810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stack It | 216749 | [216749-stack-it.json](./216749-stack-it.json) |
 | Stack Jump | 87657 | [87657-stack-jump.json](./87657-stack-jump.json) |
 | Stack Machines | 232434 | [232434-stack-machines.json](./232434-stack-machines.json) |
+| Stack Masters | 242983 | [242983-stack-masters.json](./242983-stack-masters.json) |
 | Stack Order | 388009 | [388009-stack-order.json](./388009-stack-order.json) |
 | Stack Pro | 96068 | [96068-stack-pro.json](./96068-stack-pro.json) |
 | Stack Slayer | 287745 | [287745-stack-slayer.json](./287745-stack-slayer.json) |
