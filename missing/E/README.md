@@ -3662,6 +3662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Estranged | 313832 | [313832-estranged.json](./313832-estranged.json) |
 | Estranged Family | 381954 | [381954-estranged-family.json](./381954-estranged-family.json) |
 | Estranged: The Departure | 147260 | [147260-estranged-the-departure.json](./147260-estranged-the-departure.json) |
+| Estresamente | 241257 | [241257-estresamente.json](./241257-estresamente.json) |
 | ESWAT: City Under Siege | 6670 | [6670-eswat-city-under-siege.json](./6670-eswat-city-under-siege.json) |
 | ESWAT: Cyber Police | 39869 | [39869-eswat-cyber-police.json](./39869-eswat-cyber-police.json) |
 | Esylium MMORPG | 250885 | [250885-esylium-mmorpg.json](./250885-esylium-mmorpg.json) |
