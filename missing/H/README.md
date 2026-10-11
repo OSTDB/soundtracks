@@ -784,6 +784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Handle With Care | 133864 | [133864-handle-with-care.json](./133864-handle-with-care.json) |
 | Handle With Care.. | 330816 | [330816-handle-with-care.json](./330816-handle-with-care.json) |
 | Handlime | 402439 | [402439-handlime.json](./402439-handlime.json) |
+| Handmancers | 260587 | [260587-handmancers.json](./260587-handmancers.json) |
 | HandPass VR | 30755 | [30755-handpass-vr.json](./30755-handpass-vr.json) |
 | Hands of Necromancy II | 278539 | [278539-hands-of-necromancy-ii.json](./278539-hands-of-necromancy-ii.json) |
 | Hands of the Killer | 150096 | [150096-hands-of-the-killer.json](./150096-hands-of-the-killer.json) |
@@ -1965,6 +1966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Healthy Living | 144853 | [144853-healthy-living.json](./144853-healthy-living.json) |
 | Healthy Weapon | 112332 | [112332-healthy-weapon.json](./112332-healthy-weapon.json) |
 | HeapVR | 29664 | [29664-heapvr.json](./29664-heapvr.json) |
+| Hear My Cult | 260597 | [260597-hear-my-cult.json](./260597-hear-my-cult.json) |
 | Hear My Light | 414143 | [414143-hear-my-light.json](./414143-hear-my-light.json) |
 | Hear Tell of Hauntings | 338726 | [338726-hear-tell-of-hauntings.json](./338726-hear-tell-of-hauntings.json) |
 | Heard of the Story? | 211791 | [211791-heard-of-the-story.json](./211791-heard-of-the-story.json) |
@@ -6060,6 +6062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hope Land | 158585 | [158585-hope-land.json](./158585-hope-land.json) |
 | Hope Left Me | 228417 | [228417-hope-left-me.json](./228417-hope-left-me.json) |
 | Hope Lost | 338678 | [338678-hope-lost.json](./338678-hope-lost.json) |
+| Hope of Bion | 260612 | [260612-hope-of-bion.json](./260612-hope-of-bion.json) |
 | Hope of humanity | 102963 | [102963-hope-of-humanity.json](./102963-hope-of-humanity.json) |
 | Hope Returns | 183348 | [183348-hope-returns.json](./183348-hope-returns.json) |
 | Hope Springs Eternal | 94227 | [94227-hope-springs-eternal.json](./94227-hope-springs-eternal.json) |
