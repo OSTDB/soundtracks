@@ -169,6 +169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F1 Race | 11689 | [11689-f1-race.json](./11689-f1-race.json) |
 | F1 Race Stars | 5311 | [5311-f1-race-stars.json](./5311-f1-race-stars.json) |
 | F1 Racers | 187969 | [187969-f1-racers.json](./187969-f1-racers.json) |
+| F1 Racing Championship | 249118 | [249118-f1-racing-championship.json](./249118-f1-racing-championship.json) |
 | F1 Racing Championship | 3495 | [3495-f1-racing-championship.json](./3495-f1-racing-championship.json) |
 | F1 Racing Championship 2 | 137653 | [137653-f1-racing-championship-2.json](./137653-f1-racing-championship-2.json) |
 | F1 Racing Simulation | 691 | [691-f1-racing-simulation.json](./691-f1-racing-simulation.json) |
@@ -1218,6 +1219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Clicker of Cute Cocoa | 197748 | [197748-fantasy-clicker-of-cute-cocoa.json](./197748-fantasy-clicker-of-cute-cocoa.json) |
 | Fantasy Climber: Fun Adventure | 213322 | [213322-fantasy-climber-fun-adventure.json](./213322-fantasy-climber-fun-adventure.json) |
 | Fantasy Conquest Tactics | 25559 | [25559-fantasy-conquest-tactics.json](./25559-fantasy-conquest-tactics.json) |
+| Fantasy Craft | 249067 | [249067-fantasy-craft.json](./249067-fantasy-craft.json) |
 | Fantasy Creature Jigsaws | 292257 | [292257-fantasy-creature-jigsaws.json](./292257-fantasy-creature-jigsaws.json) |
 | Fantasy Dash | 188027 | [188027-fantasy-dash.json](./188027-fantasy-dash.json) |
 | Fantasy Defenders Bundle: Defend the Rook & Legend of Keepers | 262224 | [262224-fantasy-defenders-bundle-defend-the-rook-and-legend-of-keepers.json](./262224-fantasy-defenders-bundle-defend-the-rook-and-legend-of-keepers.json) |
