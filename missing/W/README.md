@@ -3416,6 +3416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wildkeepers Rising | 324076 | [324076-wildkeepers-rising.json](./324076-wildkeepers-rising.json) |
 | Wildland | 120831 | [120831-wildland.json](./120831-wildland.json) |
 | Wildland: Initial Attack | 185627 | [185627-wildland-initial-attack.json](./185627-wildland-initial-attack.json) |
+| Wildlands | 265559 | [265559-wildlands.json](./265559-wildlands.json) |
 | Wildlands Resurgence | 267095 | [267095-wildlands-resurgence.json](./267095-wildlands-resurgence.json) |
 | Wildlife Camp | 36063 | [36063-wildlife-camp.json](./36063-wildlife-camp.json) |
 | Wildlife Hunter: Survival | 250437 | [250437-wildlife-hunter-survival.json](./250437-wildlife-hunter-survival.json) |
