@@ -1899,6 +1899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 8Bit Music Power Encore | 206584 | [206584-8bit-music-power-encore.json](./206584-8bit-music-power-encore.json) |
 | 8bit Music Power Final | 150565 | [150565-8bit-music-power-final.json](./150565-8bit-music-power-final.json) |
 | 8bit Ninja | 232005 | [232005-8bit-ninja.json](./232005-8bit-ninja.json) |
+| 8bit Wars | 277239 | [277239-8bit-wars.json](./277239-8bit-wars.json) |
 | 8bit-Collection Jaleco Vol. 01 | 97885 | [97885-8bit-collection-jaleco-vol-01.json](./97885-8bit-collection-jaleco-vol-01.json) |
 | 8BitBoy | 17331 | [17331-8bitboy.json](./17331-8bitboy.json) |
 | 8BitMMO | 30232 | [30232-8bitmmo.json](./30232-8bitmmo.json) |
