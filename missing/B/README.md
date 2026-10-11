@@ -82,6 +82,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ba Quartet X | 276296 | [276296-ba-quartet-x.json](./276296-ba-quartet-x.json) |
 | Baa-Baa Blitz: The Sheeps kebab Incident | 359024 | [359024-baa-baa-blitz-the-sheeps-kebab-incident.json](./359024-baa-baa-blitz-the-sheeps-kebab-incident.json) |
 | Baa! Never Stop Bleating | 295565 | [295565-baa-never-stop-bleating.json](./295565-baa-never-stop-bleating.json) |
+| Bååbösåångjåår | 276748 | [276748-baabosaangjaar.json](./276748-baabosaangjaar.json) |
 | Baam Squad | 90719 | [90719-baam-squad.json](./90719-baam-squad.json) |
 | Baazi | 360704 | [360704-baazi.json](./360704-baazi.json) |
 | BAB | 302208 | [302208-bab.json](./302208-bab.json) |
@@ -3167,6 +3168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beast Busters | 11951 | [11951-beast-busters.json](./11951-beast-busters.json) |
 | Beast Busters Featuring KoF | 60771 | [60771-beast-busters-featuring-kof.json](./60771-beast-busters-featuring-kof.json) |
 | Beast Busters: Second Nightmare | 28137 | [28137-beast-busters-second-nightmare.json](./28137-beast-busters-second-nightmare.json) |
+| Beast Collector | 276685 | [276685-beast-collector.json](./276685-beast-collector.json) |
 | Beast Farmer | 233205 | [233205-beast-farmer.json](./233205-beast-farmer.json) |
 | Beast Fists | 211096 | [211096-beast-fists.json](./211096-beast-fists.json) |
 | Beast Gang | 368824 | [368824-beast-gang.json](./368824-beast-gang.json) |
@@ -3537,6 +3539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Become Barista! | 349520 | [349520-become-barista.json](./349520-become-barista.json) |
 | Become Castellane in Another World | 290501 | [290501-become-castellane-in-another-world.json](./290501-become-castellane-in-another-world.json) |
 | Become Deity | 359544 | [359544-become-deity.json](./359544-become-deity.json) |
+| Become Dirt | 276746 | [276746-become-dirt.json](./276746-become-dirt.json) |
 | Become Prey 2: Of Everlasting Sin | 181298 | [181298-become-prey-2-of-everlasting-sin.json](./181298-become-prey-2-of-everlasting-sin.json) |
 | Become The Moon | 290104 | [290104-become-the-moon.json](./290104-become-the-moon.json) |
 | Becoming | 163804 | [163804-becoming.json](./163804-becoming.json) |
@@ -5179,6 +5182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Birdiy | 38592 | [38592-birdiy.json](./38592-birdiy.json) |
 | Birdland | 20339 | [20339-birdland.json](./20339-birdland.json) |
 | BirdLingo: A birdsong learning game | 311260 | [311260-birdlingo-a-birdsong-learning-game.json](./311260-birdlingo-a-birdsong-learning-game.json) |
+| Birdminton | 276686 | [276686-birdminton.json](./276686-birdminton.json) |
 | Birdo vs. Macintosh | 322104 | [322104-birdo-vs-macintosh.json](./322104-birdo-vs-macintosh.json) |
 | Birdo's Holiday Brawl | 279714 | [279714-birdos-holiday-brawl.json](./279714-birdos-holiday-brawl.json) |
 | Birdoo | 352350 | [352350-birdoo.json](./352350-birdoo.json) |
@@ -6523,6 +6527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Yard | 175823 | [175823-block-yard.json](./175823-block-yard.json) |
 | Block_Up | 265408 | [265408-block-up.json](./265408-block-up.json) |
 | Block-a-Pix Color | 102329 | [102329-block-a-pix-color.json](./102329-block-a-pix-color.json) |
+| Block-ed | 276687 | [276687-block-ed.json](./276687-block-ed.json) |
 | Block-Man 1 | 64752 | [64752-block-man-1.json](./64752-block-man-1.json) |
 | Block-O-Mania | 57090 | [57090-block-o-mania.json](./57090-block-o-mania.json) |
 | Block;Shift | 293103 | [293103-block-shift.json](./293103-block-shift.json) |
@@ -8741,6 +8746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boxing Saga | 31364 | [31364-boxing-saga.json](./31364-boxing-saga.json) |
 | Boxing School | 110119 | [110119-boxing-school.json](./110119-boxing-school.json) |
 | Boxing School II | 342182 | [342182-boxing-school-ii.json](./342182-boxing-school-ii.json) |
+| Boxing School: Solo Career Mode | 276688 | [276688-boxing-school-solo-career-mode.json](./276688-boxing-school-solo-career-mode.json) |
 | Boxing Simulator | 356026 | [356026-boxing-simulator.json](./356026-boxing-simulator.json) |
 | Boxing Star | 105868 | [105868-boxing-star.json](./105868-boxing-star.json) |
 | Boxing Star: Match 3 | 325734 | [325734-boxing-star-match-3.json](./325734-boxing-star-match-3.json) |
@@ -9212,6 +9218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bread Fish Clicker | 306637 | [306637-bread-fish-clicker.json](./306637-bread-fish-clicker.json) |
 | Bread Kittens | 159352 | [159352-bread-kittens.json](./159352-bread-kittens.json) |
 | Bread or Dead | 249934 | [249934-bread-or-dead.json](./249934-bread-or-dead.json) |
+| BreadAttack | 276689 | [276689-breadattack.json](./276689-breadattack.json) |
 | Breadbear's Bizarre Breadventure | 374411 | [374411-breadbears-bizarre-breadventure.json](./374411-breadbears-bizarre-breadventure.json) |
 | Breadbox | 321736 | [321736-breadbox.json](./321736-breadbox.json) |
 | Breadbox Game Pack | 138711 | [138711-breadbox-game-pack.json](./138711-breadbox-game-pack.json) |
