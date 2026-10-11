@@ -639,6 +639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Danger Close! | 76658 | [76658-danger-close.json](./76658-danger-close.json) |
 | Danger Course VR | 124231 | [124231-danger-course-vr.json](./124231-danger-course-vr.json) |
 | Danger Crew | 117623 | [117623-danger-crew.json](./117623-danger-crew.json) |
+| Danger Darrel: Airplane Rush | 249661 | [249661-danger-darrel-airplane-rush.json](./249661-danger-darrel-airplane-rush.json) |
 | Danger Dash | 332559 | [332559-danger-dash.json](./332559-danger-dash.json) |
 | Danger Drone | 278550 | [278550-danger-drone.json](./278550-danger-drone.json) |
 | Danger Drop | 254377 | [254377-danger-drop.json](./254377-danger-drop.json) |
@@ -2297,6 +2298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Pixels II: Straight to Video | 18362 | [18362-dead-pixels-ii-straight-to-video.json](./18362-dead-pixels-ii-straight-to-video.json) |
 | Dead Profit | 192274 | [192274-dead-profit.json](./192274-dead-profit.json) |
 | Dead Raid | 140516 | [140516-dead-raid.json](./140516-dead-raid.json) |
+| Dead Raid | 249686 | [249686-dead-raid.json](./249686-dead-raid.json) |
 | Dead Rails | 335356 | [335356-dead-rails.json](./335356-dead-rails.json) |
 | Dead Reckoner | 406220 | [406220-dead-reckoner.json](./406220-dead-reckoner.json) |
 | Dead Reckoning | 71536 | [71536-dead-reckoning.json](./71536-dead-reckoning.json) |
@@ -4716,6 +4718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detective Bureau Simulator | 150015 | [150015-detective-bureau-simulator.json](./150015-detective-bureau-simulator.json) |
 | Detective Butler and the King of Hearts | 244238 | [244238-detective-butler-and-the-king-of-hearts.json](./244238-detective-butler-and-the-king-of-hearts.json) |
 | Detective Butler: Maiden Voyage Murder | 34660 | [34660-detective-butler-maiden-voyage-murder.json](./34660-detective-butler-maiden-voyage-murder.json) |
+| Detective Chirpums: Private Investigator | 249702 | [249702-detective-chirpums-private-investigator.json](./249702-detective-chirpums-private-investigator.json) |
 | Detective Clean | 221819 | [221819-detective-clean.json](./221819-detective-clean.json) |
 | Detective Club: Carnival of Secrets - Collector's Edition | 416774 | [416774-detective-club-carnival-of-secrets-collectors-edition.json](./416774-detective-club-carnival-of-secrets-collectors-edition.json) |
 | Detective Club: Gallery of Shadows | 416699 | [416699-detective-club-gallery-of-shadows.json](./416699-detective-club-gallery-of-shadows.json) |
@@ -7996,6 +7999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doodle Tanks | 76181 | [76181-doodle-tanks.json](./76181-doodle-tanks.json) |
 | Doodle Taxi | 258605 | [258605-doodle-taxi.json](./258605-doodle-taxi.json) |
 | Doodle TD 2 | 295800 | [295800-doodle-td-2.json](./295800-doodle-td-2.json) |
+| Doodle Truck 2 | 249663 | [249663-doodle-truck-2.json](./249663-doodle-truck-2.json) |
 | Doodle UFO | 246972 | [246972-doodle-ufo.json](./246972-doodle-ufo.json) |
 | Doodle War | 88102 | [88102-doodle-war.json](./88102-doodle-war.json) |
 | Doodle Wars Heroes | 174181 | [174181-doodle-wars-heroes.json](./174181-doodle-wars-heroes.json) |
@@ -8859,6 +8863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draftula | 364615 | [364615-draftula.json](./364615-draftula.json) |
 | Draftycar | 254775 | [254775-draftycar.json](./254775-draftycar.json) |
 | Drag and Drop Medieval | 304865 | [304865-drag-and-drop-medieval.json](./304865-drag-and-drop-medieval.json) |
+| Drag Battle | 249688 | [249688-drag-battle.json](./249688-drag-battle.json) |
 | Drag Battle Top Fuel | 192870 | [192870-drag-battle-top-fuel.json](./192870-drag-battle-top-fuel.json) |
 | Drag Fight | 208981 | [208981-drag-fight.json](./208981-drag-fight.json) |
 | Drag Journey | 215113 | [215113-drag-journey.json](./215113-drag-journey.json) |
@@ -10209,6 +10214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drifty Drive | 112271 | [112271-drifty-drive.json](./112271-drifty-drive.json) |
 | Drifty Pool | 187835 | [187835-drifty-pool.json](./187835-drifty-pool.json) |
 | DriftZ | 168133 | [168133-driftz.json](./168133-driftz.json) |
+| Drill and Collect | 249681 | [249681-drill-and-collect.json](./249681-drill-and-collect.json) |
 | Drill and Delve | 382231 | [382231-drill-and-delve.json](./382231-drill-and-delve.json) |
 | Drill Arena | 86549 | [86549-drill-arena.json](./86549-drill-arena.json) |
 | Drill Core: The Machine World | 399016 | [399016-drill-core-the-machine-world.json](./399016-drill-core-the-machine-world.json) |
@@ -10710,6 +10716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ducati Challenge | 118892 | [118892-ducati-challenge.json](./118892-ducati-challenge.json) |
 | Ducati World Championship | 19353 | [19353-ducati-world-championship.json](./19353-ducati-world-championship.json) |
 | Ducati World: Racing Challenge | 45856 | [45856-ducati-world-racing-challenge.json](./45856-ducati-world-racing-challenge.json) |
+| Ducenti-Quinquaginta-Sexordle | 249707 | [249707-ducenti-quinquaginta-sexordle.json](./249707-ducenti-quinquaginta-sexordle.json) |
 | Duck 'n' Cover | 75869 | [75869-duck-n-cover.json](./75869-duck-n-cover.json) |
 | Duck Adventure | 210646 | [210646-duck-adventure.json](./210646-duck-adventure.json) |
 | Duck Adventures | 310085 | [310085-duck-adventures.json](./310085-duck-adventures.json) |
