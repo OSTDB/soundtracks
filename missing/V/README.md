@@ -585,6 +585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vaporum: Lockdown | 126812 | [126812-vaporum-lockdown.json](./126812-vaporum-lockdown.json) |
 | Vaporwave Battler | 350522 | [350522-vaporwave-battler.json](./350522-vaporwave-battler.json) |
 | Vaporwave Drift | 119453 | [119453-vaporwave-drift.json](./119453-vaporwave-drift.json) |
+| Vaporwave Pinball | 253826 | [253826-vaporwave-pinball.json](./253826-vaporwave-pinball.json) |
 | Vaporwave Simulator | 81747 | [81747-vaporwave-simulator.json](./81747-vaporwave-simulator.json) |
 | Vaporwave World | 130202 | [130202-vaporwave-world.json](./130202-vaporwave-world.json) |
 | Vapour | 35849 | [35849-vapour.json](./35849-vapour.json) |
@@ -644,6 +645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vault of Power | 260390 | [260390-vault-of-power.json](./260390-vault-of-power.json) |
 | Vault of Terror | 356661 | [356661-vault-of-terror.json](./356661-vault-of-terror.json) |
 | Vault Vandals | 390188 | [390188-vault-vandals.json](./390188-vault-vandals.json) |
+| Vaulted | 253825 | [253825-vaulted.json](./253825-vaulted.json) |
 | Vaulted Valor | 374805 | [374805-vaulted-valor.json](./374805-vaulted-valor.json) |
 | Vaulting Over It | 350538 | [350538-vaulting-over-it.json](./350538-vaulting-over-it.json) |
 | Vaunted | 396028 | [396028-vaunted.json](./396028-vaunted.json) |
@@ -1424,6 +1426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Viktor, a Steampunk Adventure | 30670 | [30670-viktor-a-steampunk-adventure.json](./30670-viktor-a-steampunk-adventure.json) |
 | Viktor: Enforcer Edition | 53871 | [53871-viktor-enforcer-edition.json](./53871-viktor-enforcer-edition.json) |
 | Vila do Nevoeiro R.E.L.I.D.O | 261300 | [261300-vila-do-nevoeiro-r-e-l-i-d-o.json](./261300-vila-do-nevoeiro-r-e-l-i-d-o.json) |
+| Vilde | 253827 | [253827-vilde.json](./253827-vilde.json) |
 | Vile | 111386 | [111386-vile.json](./111386-vile.json) |
 | Vile | 409723 | [409723-vile.json](./409723-vile.json) |
 | Vile Matter | 126997 | [126997-vile-matter.json](./126997-vile-matter.json) |
@@ -2030,6 +2033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voice over | 224746 | [224746-voice-over.json](./224746-voice-over.json) |
 | Voice Paradise | 270636 | [270636-voice-paradise.json](./270636-voice-paradise.json) |
 | Voice Party | 232510 | [232510-voice-party.json](./232510-voice-party.json) |
+| Voice: Legacy of Hale | 253815 | [253815-voice-legacy-of-hale.json](./253815-voice-legacy-of-hale.json) |
 | VoiceATC Simulator | 401763 | [401763-voiceatc-simulator.json](./401763-voiceatc-simulator.json) |
 | Voicemail: Laura | 383074 | [383074-voicemail-laura.json](./383074-voicemail-laura.json) |
 | Voices of a Hidden Star | 183530 | [183530-voices-of-a-hidden-star.json](./183530-voices-of-a-hidden-star.json) |
@@ -2160,6 +2164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voidrunner | 52755 | [52755-voidrunner.json](./52755-voidrunner.json) |
 | Voids Adrift | 144103 | [144103-voids-adrift.json](./144103-voids-adrift.json) |
 | Voids Vigil | 282024 | [282024-voids-vigil.json](./282024-voids-vigil.json) |
+| Voidseekers | 253814 | [253814-voidseekers.json](./253814-voidseekers.json) |
 | Voidship: Redux | 244312 | [244312-voidship-redux.json](./244312-voidship-redux.json) |
 | Voidspeed Outlaw | 157026 | [157026-voidspeed-outlaw.json](./157026-voidspeed-outlaw.json) |
 | Voidstalker | 381926 | [381926-voidstalker.json](./381926-voidstalker.json) |
