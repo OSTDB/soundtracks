@@ -248,6 +248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | X-Ray Ball: Winter Storm | 62159 | [62159-x-ray-ball-winter-storm.json](./62159-x-ray-ball-winter-storm.json) |
 | X-ray hospital | 97117 | [97117-x-ray-hospital.json](./97117-x-ray-hospital.json) |
 | X-Rush | 242002 | [242002-x-rush.json](./242002-x-rush.json) |
+| X-Sail | 249709 | [249709-x-sail.json](./249709-x-sail.json) |
 | X-Scape | 67155 | [67155-x-scape.json](./67155-x-scape.json) |
 | X-Squad | 19423 | [19423-x-squad.json](./19423-x-squad.json) |
 | X-Tactics | 19482 | [19482-x-tactics.json](./19482-x-tactics.json) |
@@ -379,7 +380,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xenoage Plus | 145605 | [145605-xenoage-plus.json](./145605-xenoage-plus.json) |
 | Xenoage: Knight of the Rihas | 145575 | [145575-xenoage-knight-of-the-rihas.json](./145575-xenoage-knight-of-the-rihas.json) |
 | Xenoblade Chronicles 2 | 26766 | [26766-xenoblade-chronicles-2.json](./26766-xenoblade-chronicles-2.json) |
-| Xenoblade Chronicles 2: Nintendo Switch 2 Edition | 405447 | [405447-xenoblade-chronicles-2-nintendo-switch-2-edition.json](./405447-xenoblade-chronicles-2-nintendo-switch-2-edition.json) |
 | Xenoblade Chronicles 3 | 191411 | [191411-xenoblade-chronicles-3.json](./191411-xenoblade-chronicles-3.json) |
 | Xenoblade Chronicles 3: Future Redeemed | 236669 | [236669-xenoblade-chronicles-3-future-redeemed.json](./236669-xenoblade-chronicles-3-future-redeemed.json) |
 | Xenoblade Chronicles 3: Nintendo Switch 2 Edition | 405448 | [405448-xenoblade-chronicles-3-nintendo-switch-2-edition.json](./405448-xenoblade-chronicles-3-nintendo-switch-2-edition.json) |
