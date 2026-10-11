@@ -2236,6 +2236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teenage Mutant Ninja Turtles: Tactical Takedown | 324571 | [324571-teenage-mutant-ninja-turtles-tactical-takedown.json](./324571-teenage-mutant-ninja-turtles-tactical-takedown.json) |
 | Teenage Mutant Ninja Turtles: The Cowabunga Collection | 194206 | [194206-teenage-mutant-ninja-turtles-the-cowabunga-collection.json](./194206-teenage-mutant-ninja-turtles-the-cowabunga-collection.json) |
 | Teenage Mutant Ninja Turtles: The HyperStone Heist | 4404 | [4404-teenage-mutant-ninja-turtles-the-hyperstone-heist.json](./4404-teenage-mutant-ninja-turtles-the-hyperstone-heist.json) |
+| Teenage Mutant Ninja Turtles: The Last Ronin | 261148 | [261148-teenage-mutant-ninja-turtles-the-last-ronin.json](./261148-teenage-mutant-ninja-turtles-the-last-ronin.json) |
 | Teenage Mutant Ninja Turtles: The Ninja Tribunal | 146242 | [146242-teenage-mutant-ninja-turtles-the-ninja-tribunal.json](./146242-teenage-mutant-ninja-turtles-the-ninja-tribunal.json) |
 | Teenage Mutant Ninja Turtles: The Shredder Reborn | 78280 | [78280-teenage-mutant-ninja-turtles-the-shredder-reborn.json](./78280-teenage-mutant-ninja-turtles-the-shredder-reborn.json) |
 | Teenage Mutant Ninja Turtles: Tournament Fighters | 134079 | [134079-teenage-mutant-ninja-turtles-tournament-fighters.json](./134079-teenage-mutant-ninja-turtles-tournament-fighters.json) |
@@ -9652,6 +9653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Realm | 292558 | [292558-the-realm.json](./292558-the-realm.json) |
 | The Realm of Insight Compass | 253513 | [253513-the-realm-of-insight-compass.json](./253513-the-realm-of-insight-compass.json) |
 | The Realm of Keren: Exploratio | 174691 | [174691-the-realm-of-keren-exploratio.json](./174691-the-realm-of-keren-exploratio.json) |
+| The Realm of Parthoris | 261184 | [261184-the-realm-of-parthoris.json](./261184-the-realm-of-parthoris.json) |
 | The Reaper | 327224 | [327224-the-reaper.json](./327224-the-reaper.json) |
 | The Reaper Survivors | 224760 | [224760-the-reaper-survivors.json](./224760-the-reaper-survivors.json) |
 | The Reason for Your Smile | 287911 | [287911-the-reason-for-your-smile.json](./287911-the-reason-for-your-smile.json) |
@@ -11824,6 +11826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Warlin of Heroes | 148963 | [148963-the-warlin-of-heroes.json](./148963-the-warlin-of-heroes.json) |
 | The Warlock of Firetop Mountain | 73881 | [73881-the-warlock-of-firetop-mountain.json](./73881-the-warlock-of-firetop-mountain.json) |
 | The Warlock of Firetop Mountain: Goblin Scourge Edition! | 147832 | [147832-the-warlock-of-firetop-mountain-goblin-scourge-edition.json](./147832-the-warlock-of-firetop-mountain-goblin-scourge-edition.json) |
+| The Warlock's Hearth | 261181 | [261181-the-warlocks-hearth.json](./261181-the-warlocks-hearth.json) |
 | The Warp Coin Catastrophe | 186105 | [186105-the-warp-coin-catastrophe.json](./186105-the-warp-coin-catastrophe.json) |
 | The Warp: Cephisso | 351641 | [351641-the-warp-cephisso.json](./351641-the-warp-cephisso.json) |
 | The Warrens | 373224 | [373224-the-warrens.json](./373224-the-warrens.json) |
@@ -12313,6 +12316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Theocracy | 414858 | [414858-theocracy.json](./414858-theocracy.json) |
 | Theology | 128956 | [128956-theology.json](./128956-theology.json) |
 | Theomachiae | 172159 | [172159-theomachiae.json](./172159-theomachiae.json) |
+| Theorists | 261185 | [261185-theorists.json](./261185-theorists.json) |
 | Théoros | 412185 | [412185-theoros.json](./412185-theoros.json) |
 | Theory | 288813 | [288813-theory.json](./288813-theory.json) |
 | Theory of Poltaran | 186314 | [186314-theory-of-poltaran.json](./186314-theory-of-poltaran.json) |
@@ -12700,6 +12704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thomas and Friends: Engines Working Together | 73004 | [73004-thomas-and-friends-engines-working-together.json](./73004-thomas-and-friends-engines-working-together.json) |
 | Thomas M. Disch's Amnesia | 50491 | [50491-thomas-m-dischs-amnesia.json](./50491-thomas-m-dischs-amnesia.json) |
 | Thomas Scott | 143927 | [143927-thomas-scott.json](./143927-thomas-scott.json) |
+| Thomas The Tank Engine & Friends | 261192 | [261192-thomas-the-tank-engine-and-friends.json](./261192-thomas-the-tank-engine-and-friends.json) |
 | Thomas the Tank Engine & Friends Pinball | 38842 | [38842-thomas-the-tank-engine-and-friends-pinball.json](./38842-thomas-the-tank-engine-and-friends-pinball.json) |
 | Thomas to Asonde Oboeru Kotoba to Kazu to ABC | 222516 | [222516-thomas-to-asonde-oboeru-kotoba-to-kazu-to-abc.json](./222516-thomas-to-asonde-oboeru-kotoba-to-kazu-to-abc.json) |
 | Thomas Was Alone | 2291 | [2291-thomas-was-alone.json](./2291-thomas-was-alone.json) |
