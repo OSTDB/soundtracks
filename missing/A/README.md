@@ -1177,6 +1177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abrix 2: Diamond Version | 307324 | [307324-abrix-2-diamond-version.json](./307324-abrix-2-diamond-version.json) |
 | Abrix the robot | 33018 | [33018-abrix-the-robot.json](./33018-abrix-the-robot.json) |
 | Abronium Party | 79570 | [79570-abronium-party.json](./79570-abronium-party.json) |
+| Abrupt Valley | 261745 | [261745-abrupt-valley.json](./261745-abrupt-valley.json) |
 | Absconding Zatwor | 26838 | [26838-absconding-zatwor.json](./26838-absconding-zatwor.json) |
 | Absence Makes... | 242500 | [242500-absence-makes.json](./242500-absence-makes.json) |
 | Absence Request | 76618 | [76618-absence-request.json](./76618-absence-request.json) |
@@ -1606,6 +1607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Acne Attack | 72158 | [72158-acne-attack.json](./72158-acne-attack.json) |
 | Acno's Energizer | 326749 | [326749-acnos-energizer.json](./326749-acnos-energizer.json) |
 | Acolyte Fight! | 112251 | [112251-acolyte-fight.json](./112251-acolyte-fight.json) |
+| Aconite | 261712 | [261712-aconite.json](./261712-aconite.json) |
 | Aconitum | 379468 | [379468-aconitum.json](./379468-aconitum.json) |
 | Acorn Assault: Rodent Revolution | 21991 | [21991-acorn-assault-rodent-revolution.json](./21991-acorn-assault-rodent-revolution.json) |
 | Acorn Avengers | 407281 | [407281-acorn-avengers.json](./407281-acorn-avengers.json) |
@@ -5290,6 +5292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Among the Trolls | 201754 | [201754-among-the-trolls.json](./201754-among-the-trolls.json) |
 | Among The Whispers: Provocation | 291465 | [291465-among-the-whispers-provocation.json](./291465-among-the-whispers-provocation.json) |
 | Among the Wild | 305170 | [305170-among-the-wild.json](./305170-among-the-wild.json) |
+| Among the Zombies | 261739 | [261739-among-the-zombies.json](./261739-among-the-zombies.json) |
 | Among Thorns | 25959 | [25959-among-thorns.json](./25959-among-thorns.json) |
 | Among Us | 230236 | [230236-among-us.json](./230236-among-us.json) |
 | Among Us 3D | 332784 | [332784-among-us-3d.json](./332784-among-us-3d.json) |
@@ -10129,6 +10132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atlas: Groundbreaking Adventures | 109478 | [109478-atlas-groundbreaking-adventures.json](./109478-atlas-groundbreaking-adventures.json) |
 | Atled: Everlasting Song | 194540 | [194540-atled-everlasting-song.json](./194540-atled-everlasting-song.json) |
 | Atlus Collaboration Costume Set | 333387 | [333387-atlus-collaboration-costume-set.json](./333387-atlus-collaboration-costume-set.json) |
+| AtmaSphere 2 | 261706 | [261706-atmasphere-2.json](./261706-atmasphere-2.json) |
 | Atmocity | 90077 | [90077-atmocity.json](./90077-atmocity.json) |
 | Atmoids | 92833 | [92833-atmoids.json](./92833-atmoids.json) |
 | Atmos | 398400 | [398400-atmos.json](./398400-atmos.json) |
@@ -10221,6 +10225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atria Valkyrie | 159806 | [159806-atria-valkyrie.json](./159806-atria-valkyrie.json) |
 | Atria-1 | 191222 | [191222-atria-1.json](./191222-atria-1.json) |
 | Atrio: The Dark Wild | 121637 | [121637-atrio-the-dark-wild.json](./121637-atrio-the-dark-wild.json) |
+| Atrion Project | 261732 | [261732-atrion-project.json](./261732-atrion-project.json) |
 | Atrium Malum | 212173 | [212173-atrium-malum.json](./212173-atrium-malum.json) |
 | Atrium Mortis | 372500 | [372500-atrium-mortis.json](./372500-atrium-mortis.json) |
 | Atrocity | 113011 | [113011-atrocity.json](./113011-atrocity.json) |
@@ -11087,6 +11092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Azkend 2: The World Beneath | 19893 | [19893-azkend-2-the-world-beneath.json](./19893-azkend-2-the-world-beneath.json) |
 | Azlan: Rise of the Burlpups | 164991 | [164991-azlan-rise-of-the-burlpups.json](./164991-azlan-rise-of-the-burlpups.json) |
 | Aznana | 151729 | [151729-aznana.json](./151729-aznana.json) |
+| Azorius | 261729 | [261729-azorius.json](./261729-azorius.json) |
 | Azoth | 338723 | [338723-azoth.json](./338723-azoth.json) |
 | Azrael | 192457 | [192457-azrael.json](./192457-azrael.json) |
 | Azrael | 209697 | [209697-azrael.json](./209697-azrael.json) |
