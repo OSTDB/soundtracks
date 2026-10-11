@@ -1406,6 +1406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mainichi Kotsu-kotsu Ore Tower | 395856 | [395856-mainichi-kotsu-kotsu-ore-tower.json](./395856-mainichi-kotsu-kotsu-ore-tower.json) |
 | Mainichi no Mimikaki | 227954 | [227954-mainichi-no-mimikaki.json](./227954-mainichi-no-mimikaki.json) |
 | Mainichi Suteki! Hello Kitty no Life Kit | 3690 | [3690-mainichi-suteki-hello-kitty-no-life-kit.json](./3690-mainichi-suteki-hello-kitty-no-life-kit.json) |
+| Mainland | 274947 | [274947-mainland.json](./274947-mainland.json) |
 | Mainlining | 27568 | [27568-mainlining.json](./27568-mainlining.json) |
 | Mainly at Rest | 165669 | [165669-mainly-at-rest.json](./165669-mainly-at-rest.json) |
 | Maintenance Crew | 295331 | [295331-maintenance-crew.json](./295331-maintenance-crew.json) |
@@ -3935,6 +3936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze of Infection | 93719 | [93719-maze-of-infection.json](./93719-maze-of-infection.json) |
 | Maze of Mayhem | 329726 | [329726-maze-of-mayhem.json](./329726-maze-of-mayhem.json) |
 | Maze of Memories | 367303 | [367303-maze-of-memories.json](./367303-maze-of-memories.json) |
+| Maze Of Misery | 274929 | [274929-maze-of-misery.json](./274929-maze-of-misery.json) |
 | Maze of Moros | 297510 | [297510-maze-of-moros.json](./297510-maze-of-moros.json) |
 | Maze of Pain | 83951 | [83951-maze-of-pain.json](./83951-maze-of-pain.json) |
 | Maze of Realities: Reflection of Light - Collector's Edition | 218702 | [218702-maze-of-realities-reflection-of-light-collectors-edition.json](./218702-maze-of-realities-reflection-of-light-collectors-edition.json) |
@@ -11985,6 +11987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Murder on the Spaceship Altair | 312330 | [312330-murder-on-the-spaceship-altair.json](./312330-murder-on-the-spaceship-altair.json) |
 | Murder on the Suburbia 2 | 116446 | [116446-murder-on-the-suburbia-2.json](./116446-murder-on-the-suburbia-2.json) |
 | Murder on the Zinderneuf | 23929 | [23929-murder-on-the-zinderneuf.json](./23929-murder-on-the-zinderneuf.json) |
+| Murder Party: Horror Hunt | 274967 | [274967-murder-party-horror-hunt.json](./274967-murder-party-horror-hunt.json) |
 | Murder Reservation | 129205 | [129205-murder-reservation.json](./129205-murder-reservation.json) |
 | Murder Strip | 399011 | [399011-murder-strip.json](./399011-murder-strip.json) |
 | Murder... | 51772 | [51772-murder.json](./51772-murder.json) |
@@ -13092,6 +13095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Town: ICEE Amusement Park | 99320 | [99320-my-town-icee-amusement-park.json](./99320-my-town-icee-amusement-park.json) |
 | My Town: Museum | 89126 | [89126-my-town-museum.json](./89126-my-town-museum.json) |
 | My Trailer Park Life | 275018 | [275018-my-trailer-park-life.json](./275018-my-trailer-park-life.json) |
+| My Train Arrives: Sea and Mountains | 274927 | [274927-my-train-arrives-sea-and-mountains.json](./274927-my-train-arrives-sea-and-mountains.json) |
 | My Train World | 156663 | [156663-my-train-world.json](./156663-my-train-world.json) |
 | My Trainer is a Futanari | 207328 | [207328-my-trainer-is-a-futanari.json](./207328-my-trainer-is-a-futanari.json) |
 | My Tribe 3D | 223991 | [223991-my-tribe-3d.json](./223991-my-tribe-3d.json) |
