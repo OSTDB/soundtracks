@@ -676,6 +676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panda Dynasty | 177927 | [177927-panda-dynasty.json](./177927-panda-dynasty.json) |
 | Panda Eat Bamboo | 326100 | [326100-panda-eat-bamboo.json](./326100-panda-eat-bamboo.json) |
 | Panda Go | 275118 | [275118-panda-go.json](./275118-panda-go.json) |
+| Panda Golf 2 | 261714 | [261714-panda-golf-2.json](./261714-panda-golf-2.json) |
 | Panda Hero: Remastered | 143054 | [143054-panda-hero-remastered.json](./143054-panda-hero-remastered.json) |
 | Panda in the clouds | 165645 | [165645-panda-in-the-clouds.json](./165645-panda-in-the-clouds.json) |
 | Panda Jump | 147846 | [147846-panda-jump.json](./147846-panda-jump.json) |
@@ -1700,6 +1701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Party's Over: Backyard Cleanup Simulator | 414162 | [414162-partys-over-backyard-cleanup-simulator.json](./414162-partys-over-backyard-cleanup-simulator.json) |
 | Partygoer! | 329035 | [329035-partygoer.json](./329035-partygoer.json) |
 | Partymasters | 90769 | [90769-partymasters.json](./90769-partymasters.json) |
+| PartySaur: Dino Mayhem | 261731 | [261731-partysaur-dino-mayhem.json](./261731-partysaur-dino-mayhem.json) |
 | Pas's restaurant | 346618 | [346618-pass-restaurant.json](./346618-pass-restaurant.json) |
 | Pasajeros | 192426 | [192426-pasajeros.json](./192426-pasajeros.json) |
 | Pasapalabra | 302728 | [302728-pasapalabra.json](./302728-pasapalabra.json) |
@@ -7798,6 +7800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poor Artifact Maker | 290538 | [290538-poor-artifact-maker.json](./290538-poor-artifact-maker.json) |
 | Poor Bunny! | 239132 | [239132-poor-bunny.json](./239132-poor-bunny.json) |
 | Poor Lucas and the Evil Duke | 190206 | [190206-poor-lucas-and-the-evil-duke.json](./190206-poor-lucas-and-the-evil-duke.json) |
+| Poor Man's Adventure: Narco Sub Simulator | 261722 | [261722-poor-mans-adventure-narco-sub-simulator.json](./261722-poor-mans-adventure-narco-sub-simulator.json) |
 | Poor Mouse | 273437 | [273437-poor-mouse.json](./273437-poor-mouse.json) |
 | Poor Piggy Pirate | 368146 | [368146-poor-piggy-pirate.json](./368146-poor-piggy-pirate.json) |
 | Poor Thief | 298257 | [298257-poor-thief.json](./298257-poor-thief.json) |
@@ -8034,6 +8037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Portal 2: Google Translate Edition | 313481 | [313481-portal-2-google-translate-edition.json](./313481-portal-2-google-translate-edition.json) |
 | Portal 2: In Motion | 99969 | [99969-portal-2-in-motion.json](./99969-portal-2-in-motion.json) |
 | Portal 3 64 | 135217 | [135217-portal-3-64.json](./135217-portal-3-64.json) |
+| Portal 64 | 261713 | [261713-portal-64.json](./261713-portal-64.json) |
 | Portal 64: Still Alive | 377846 | [377846-portal-64-still-alive.json](./377846-portal-64-still-alive.json) |
 | Portal Brawlers | 310746 | [310746-portal-brawlers.json](./310746-portal-brawlers.json) |
 | Portal Defense | 207516 | [207516-portal-defense.json](./207516-portal-defense.json) |
@@ -8588,6 +8592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prague Metro Simulator: Passenger Transport | 207813 | [207813-prague-metro-simulator-passenger-transport.json](./207813-prague-metro-simulator-passenger-transport.json) |
 | Prairie Dog Hunt | 319120 | [319120-prairie-dog-hunt.json](./319120-prairie-dog-hunt.json) |
 | Praise Champion | 209929 | [209929-praise-champion.json](./209929-praise-champion.json) |
+| Praise Dead | 261700 | [261700-praise-dead.json](./261700-praise-dead.json) |
 | Prana | 75113 | [75113-prana.json](./75113-prana.json) |
 | Prank Call | 165423 | [165423-prank-call.json](./165423-prank-call.json) |
 | Prank Call | 77585 | [77585-prank-call.json](./77585-prank-call.json) |
