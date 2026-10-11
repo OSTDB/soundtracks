@@ -793,6 +793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rain Ruin | 207358 | [207358-rain-ruin.json](./207358-rain-ruin.json) |
 | Rain Station Z | 410414 | [410414-rain-station-z.json](./410414-rain-station-z.json) |
 | Rain Tactics | 274384 | [274384-rain-tactics.json](./274384-rain-tactics.json) |
+| Rain Wonder Trip | 273833 | [273833-rain-wonder-trip.json](./273833-rain-wonder-trip.json) |
 | Rain World: Deluxe Edition | 290437 | [290437-rain-world-deluxe-edition.json](./290437-rain-world-deluxe-edition.json) |
 | Rain World: Slugcat's Lifecycle Edition | 370699 | [370699-rain-world-slugcats-lifecycle-edition.json](./370699-rain-world-slugcats-lifecycle-edition.json) |
 | Rain World: The Watcher | 297737 | [297737-rain-world-the-watcher.json](./297737-rain-world-the-watcher.json) |
