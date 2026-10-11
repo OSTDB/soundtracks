@@ -20890,6 +20890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Stardust Portable | 234021 | [234021-super-stardust-portable.json](./234021-super-stardust-portable.json) |
 | Super Stardust Ultra VR | 24982 | [24982-super-stardust-ultra-vr.json](./24982-super-stardust-ultra-vr.json) |
 | Super Starfish | 105423 | [105423-super-starfish.json](./105423-super-starfish.json) |
+| Super Stay Out of the House | 251478 | [251478-super-stay-out-of-the-house.json](./251478-super-stay-out-of-the-house.json) |
 | Super SteamPuff | 22382 | [22382-super-steampuff.json](./22382-super-steampuff.json) |
 | Super Steampunk Pinball 2D | 81933 | [81933-super-steampunk-pinball-2d.json](./81933-super-steampunk-pinball-2d.json) |
 | Super Sticker Studio: Creative Sticker Book Game for Kids | 389074 | [389074-super-sticker-studio-creative-sticker-book-game-for-kids.json](./389074-super-sticker-studio-creative-sticker-book-game-for-kids.json) |
