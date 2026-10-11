@@ -6303,6 +6303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anno 1800: Efficiency Masters Bundle | 317368 | [317368-anno-1800-efficiency-masters-bundle.json](./317368-anno-1800-efficiency-masters-bundle.json) |
 | Anno 1800: Eldritch Pack | 274724 | [274724-anno-1800-eldritch-pack.json](./274724-anno-1800-eldritch-pack.json) |
 | Anno 1800: Empire of the Skies | 197350 | [197350-anno-1800-empire-of-the-skies.json](./197350-anno-1800-empire-of-the-skies.json) |
+| Anno 1800: Gold Edition | 273340 | [273340-anno-1800-gold-edition.json](./273340-anno-1800-gold-edition.json) |
 | Anno 1800: Gold Edition Year 3 | 146136 | [146136-anno-1800-gold-edition-year-3.json](./146136-anno-1800-gold-edition-year-3.json) |
 | Anno 1800: Gold Edition Year 4 | 197662 | [197662-anno-1800-gold-edition-year-4.json](./197662-anno-1800-gold-edition-year-4.json) |
 | Anno 1800: Industrial Immersion Bundle | 317367 | [317367-anno-1800-industrial-immersion-bundle.json](./317367-anno-1800-industrial-immersion-bundle.json) |
@@ -7148,6 +7149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aquarium Designer: Japan | 238551 | [238551-aquarium-designer-japan.json](./238551-aquarium-designer-japan.json) |
 | Aquarium Designer: Sea Life | 199595 | [199595-aquarium-designer-sea-life.json](./199595-aquarium-designer-sea-life.json) |
 | Aquarium Land: Baby Seal Edition | 278650 | [278650-aquarium-land-baby-seal-edition.json](./278650-aquarium-land-baby-seal-edition.json) |
+| Aquarium Land: Complete Edition | 273299 | [273299-aquarium-land-complete-edition.json](./273299-aquarium-land-complete-edition.json) |
 | Aquarium Land: Platinum Edition | 385193 | [385193-aquarium-land-platinum-edition.json](./385193-aquarium-land-platinum-edition.json) |
 | Aquarium Shop | 146919 | [146919-aquarium-shop.json](./146919-aquarium-shop.json) |
 | Aquarius | 299557 | [299557-aquarius.json](./299557-aquarius.json) |
@@ -10810,6 +10812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Awankening. | 397083 | [397083-awankening.json](./397083-awankening.json) |
 | Awara | 244395 | [244395-awara.json](./244395-awara.json) |
 | Award Winners: Platinum Edition | 115782 | [115782-award-winners-platinum-edition.json](./115782-award-winners-platinum-edition.json) |
+| Awarded Platformer Bundle | 273336 | [273336-awarded-platformer-bundle.json](./273336-awarded-platformer-bundle.json) |
 | Aware | 395142 | [395142-aware.json](./395142-aware.json) |
 | Awareness | 244880 | [244880-awareness.json](./244880-awareness.json) |
 | Awareness Test: The Robot Bar | 179572 | [179572-awareness-test-the-robot-bar.json](./179572-awareness-test-the-robot-bar.json) |
