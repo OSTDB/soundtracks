@@ -766,6 +766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oh...Sir! The Hollywood Roast | 29994 | [29994-oh-sir-the-hollywood-roast.json](./29994-oh-sir-the-hollywood-roast.json) |
 | Oh...Sir!! The Insult Simulator | 25577 | [25577-oh-sir-the-insult-simulator.json](./25577-oh-sir-the-insult-simulator.json) |
 | Oh's Talk English | 269517 | [269517-ohs-talk-english.json](./269517-ohs-talk-english.json) |
+| Oha Star Produce! Gentei Collabo Game Disc!! | 268377 | [268377-oha-star-produce-gentei-collabo-game-disc.json](./268377-oha-star-produce-gentei-collabo-game-disc.json) |
 | Oha Suta Dance Dance Revolution GB | 246126 | [246126-oha-suta-dance-dance-revolution-gb.json](./246126-oha-suta-dance-dance-revolution-gb.json) |
 | Ohanabatake no Flore | 332418 | [332418-ohanabatake-no-flore.json](./332418-ohanabatake-no-flore.json) |
 | Oharion | 413071 | [413071-oharion.json](./413071-oharion.json) |
@@ -3680,6 +3681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oxygen Not Included: The Frosty Planet Pack | 310683 | [310683-oxygen-not-included-the-frosty-planet-pack.json](./310683-oxygen-not-included-the-frosty-planet-pack.json) |
 | Oyabu Clinic Deathcare Corporation | 244264 | [244264-oyabu-clinic-deathcare-corporation.json](./244264-oyabu-clinic-deathcare-corporation.json) |
 | Oyadori no Ko | 150552 | [150552-oyadori-no-ko.json](./150552-oyadori-no-ko.json) |
+| Oyako de Asobo: Miffy no Omocha-bako | 268398 | [268398-oyako-de-asobo-miffy-no-omocha-bako.json](./268398-oyako-de-asobo-miffy-no-omocha-bako.json) |
 | Oyako de Manabu SDGs | 256269 | [256269-oyako-de-manabu-sdgs.json](./256269-oyako-de-manabu-sdgs.json) |
 | Oylinder | 223393 | [223393-oylinder.json](./223393-oylinder.json) |
 | Oystron | 40734 | [40734-oystron.json](./40734-oystron.json) |
