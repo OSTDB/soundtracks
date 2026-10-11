@@ -150,6 +150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cadavers for Dinner | 174126 | [174126-cadavers-for-dinner.json](./174126-cadavers-for-dinner.json) |
 | Cadbury Creme Egg: Goo the Egg | 307347 | [307347-cadbury-creme-egg-goo-the-egg.json](./307347-cadbury-creme-egg-goo-the-egg.json) |
 | Cadde | 265401 | [265401-cadde.json](./265401-cadde.json) |
+| Caddie | 246321 | [246321-caddie.json](./246321-caddie.json) |
 | Cade Prime | 173244 | [173244-cade-prime.json](./173244-cade-prime.json) |
 | Cadeau | 326952 | [326952-cadeau.json](./326952-cadeau.json) |
 | Cadence | 18216 | [18216-cadence.json](./18216-cadence.json) |
@@ -636,6 +637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Camp Wars | 186668 | [186668-camp-wars.json](./186668-camp-wars.json) |
 | Camp Wombo | 351010 | [351010-camp-wombo.json](./351010-camp-wombo.json) |
 | Campaign | 14371 | [14371-campaign.json](./14371-campaign.json) |
+| Campaign | 246322 | [246322-campaign.json](./246322-campaign.json) |
 | Campaign Antietam | 182260 | [182260-campaign-antietam.json](./182260-campaign-antietam.json) |
 | Campaign Gettysburg | 182261 | [182261-campaign-gettysburg.json](./182261-campaign-gettysburg.json) |
 | Campaign II | 14372 | [14372-campaign-ii.json](./14372-campaign-ii.json) |
@@ -10064,6 +10066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crash Team Racing: Retro-Fueled | 262407 | [262407-crash-team-racing-retro-fueled.json](./262407-crash-team-racing-retro-fueled.json) |
 | Crash Team Racing: Unlimited | 360136 | [360136-crash-team-racing-unlimited.json](./360136-crash-team-racing-unlimited.json) |
 | Crash Team Rumble | 228540 | [228540-crash-team-rumble.json](./228540-crash-team-rumble.json) |
+| Crash Team Rumble: Deluxe Edition | 246296 | [246296-crash-team-rumble-deluxe-edition.json](./246296-crash-team-rumble-deluxe-edition.json) |
 | Crash Test Billy | 51473 | [51473-crash-test-billy.json](./51473-crash-test-billy.json) |
 | Crash Test Idiot | 193419 | [193419-crash-test-idiot.json](./193419-crash-test-idiot.json) |
 | Crash Test Idiots 2: Multiplayer | 278692 | [278692-crash-test-idiots-2-multiplayer.json](./278692-crash-test-idiots-2-multiplayer.json) |
