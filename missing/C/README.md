@@ -2635,6 +2635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catching Features | 21465 | [21465-catching-features.json](./21465-catching-features.json) |
 | Catching Spirits | 236769 | [236769-catching-spirits.json](./236769-catching-spirits.json) |
 | CatchKing | 215227 | [215227-catchking.json](./215227-catchking.json) |
+| Catchy Cheese | 240105 | [240105-catchy-cheese.json](./240105-catchy-cheese.json) |
 | Catchy Crystals | 19386 | [19386-catchy-crystals.json](./19386-catchy-crystals.json) |
 | Catchy Tunes | 96772 | [96772-catchy-tunes.json](./96772-catchy-tunes.json) |
 | CatCity: Smash | 59040 | [59040-catcity-smash.json](./59040-catcity-smash.json) |
@@ -5622,6 +5623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Ambulance Car Driving | 265731 | [265731-city-ambulance-car-driving.json](./265731-city-ambulance-car-driving.json) |
 | City Ambulance: Rescue Express | 277018 | [277018-city-ambulance-rescue-express.json](./277018-city-ambulance-rescue-express.json) |
 | City Arena: Hero Legends | 275015 | [275015-city-arena-hero-legends.json](./275015-city-arena-hero-legends.json) |
+| City Avenger | 240256 | [240256-city-avenger.json](./240256-city-avenger.json) |
 | City Balls VR | 76938 | [76938-city-balls-vr.json](./76938-city-balls-vr.json) |
 | City Bike Messenger 3D | 102847 | [102847-city-bike-messenger-3d.json](./102847-city-bike-messenger-3d.json) |
 | City Block | 369721 | [369721-city-block.json](./369721-city-block.json) |
@@ -6340,6 +6342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Climber | 100578 | [100578-climber.json](./100578-climber.json) |
 | Climber | 125338 | [125338-climber.json](./125338-climber.json) |
 | Climber | 195035 | [195035-climber.json](./195035-climber.json) |
+| Climber | 240126 | [240126-climber.json](./240126-climber.json) |
 | Climber | 269843 | [269843-climber.json](./269843-climber.json) |
 | Climber Animals: Together | 284824 | [284824-climber-animals-together.json](./284824-climber-animals-together.json) |
 | Climber Girl | 350635 | [350635-climber-girl.json](./350635-climber-girl.json) |
@@ -10678,6 +10681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crime Files Bundle | 254059 | [254059-crime-files-bundle.json](./254059-crime-files-bundle.json) |
 | Crime Investigation Escape | 240203 | [240203-crime-investigation-escape.json](./240203-crime-investigation-escape.json) |
 | Crime Kings | 233489 | [233489-crime-kings.json](./233489-crime-kings.json) |
+| Crime Life Crime Wave | 240124 | [240124-crime-life-crime-wave.json](./240124-crime-life-crime-wave.json) |
 | Crime Life: Gang Wars | 5791 | [5791-crime-life-gang-wars.json](./5791-crime-life-gang-wars.json) |
 | Crime Map: Spot the Hidden Differences | 234625 | [234625-crime-map-spot-the-hidden-differences.json](./234625-crime-map-spot-the-hidden-differences.json) |
 | Crime Moto Racer | 218695 | [218695-crime-moto-racer.json](./218695-crime-moto-racer.json) |
@@ -11130,6 +11134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crossroad of Worlds: Cursed Letters - Collector's Edition | 257434 | [257434-crossroad-of-worlds-cursed-letters-collectors-edition.json](./257434-crossroad-of-worlds-cursed-letters-collectors-edition.json) |
 | Crossroad of Worlds: Magic Stars | 417711 | [417711-crossroad-of-worlds-magic-stars.json](./417711-crossroad-of-worlds-magic-stars.json) |
 | Crossroad of Worlds: Magic Stars - Collector's Edition | 255708 | [255708-crossroad-of-worlds-magic-stars-collectors-edition.json](./255708-crossroad-of-worlds-magic-stars-collectors-edition.json) |
+| Crossroad of Worlds: Mirrors to Other Worlds - Collector's Edition | 240131 | [240131-crossroad-of-worlds-mirrors-to-other-worlds-collectors-edition.json](./240131-crossroad-of-worlds-mirrors-to-other-worlds-collectors-edition.json) |
 | Crossroad OS | 259007 | [259007-crossroad-os.json](./259007-crossroad-os.json) |
 | Crossroads | 377570 | [377570-crossroads.json](./377570-crossroads.json) |
 | Crossroads Extreme | 119620 | [119620-crossroads-extreme.json](./119620-crossroads-extreme.json) |
