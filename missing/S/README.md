@@ -994,6 +994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sandbox | 251826 | [251826-sandbox.json](./251826-sandbox.json) |
 | Sandbox | 368087 | [368087-sandbox.json](./368087-sandbox.json) |
 | Sandbox Planet | 256534 | [256534-sandbox-planet.json](./256534-sandbox-planet.json) |
+| Sandbox World | 265552 | [265552-sandbox-world.json](./265552-sandbox-world.json) |
 | Sandcastle | 268655 | [268655-sandcastle.json](./268655-sandcastle.json) |
 | Sandcastle Builder | 62457 | [62457-sandcastle-builder.json](./62457-sandcastle-builder.json) |
 | Sandcastles | 134693 | [134693-sandcastles.json](./134693-sandcastles.json) |
@@ -1398,6 +1399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saturnia | 267993 | [267993-saturnia.json](./267993-saturnia.json) |
 | Saturnine | 110127 | [110127-saturnine.json](./110127-saturnine.json) |
 | Saturnine Chapel | 141835 | [141835-saturnine-chapel.json](./141835-saturnine-chapel.json) |
+| SauceLore | 265541 | [265541-saucelore.json](./265541-saucelore.json) |
 | Saucer Arena | 348957 | [348957-saucer-arena.json](./348957-saucer-arena.json) |
 | Saucer Attack! | 59645 | [59645-saucer-attack.json](./59645-saucer-attack.json) |
 | Saucer Destruction 3: Armagedon | 337204 | [337204-saucer-destruction-3-armagedon.json](./337204-saucer-destruction-3-armagedon.json) |
@@ -1904,6 +1906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | School Hero | 279113 | [279113-school-hero.json](./279113-school-hero.json) |
 | School House Shuffle | 206654 | [206654-school-house-shuffle.json](./206654-school-house-shuffle.json) |
 | School Idol QT Cool | 127933 | [127933-school-idol-qt-cool.json](./127933-school-idol-qt-cool.json) |
+| School Labyrinth | 265532 | [265532-school-labyrinth.json](./265532-school-labyrinth.json) |
 | School Life Simulator | 97049 | [97049-school-life-simulator.json](./97049-school-life-simulator.json) |
 | School Love Life: Anime Games | 299909 | [299909-school-love-life-anime-games.json](./299909-school-love-life-anime-games.json) |
 | School Maze | 72059 | [72059-school-maze.json](./72059-school-maze.json) |
@@ -4370,6 +4373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadowrun: Hong Kong - Extended Edition | 35842 | [35842-shadowrun-hong-kong-extended-edition.json](./35842-shadowrun-hong-kong-extended-edition.json) |
 | Shadows | 318203 | [318203-shadows.json](./318203-shadows.json) |
 | Shadows 2: Perfidia | 29178 | [29178-shadows-2-perfidia.json](./29178-shadows-2-perfidia.json) |
+| Shadows Are Alive | 265526 | [265526-shadows-are-alive.json](./265526-shadows-are-alive.json) |
 | Shadows Behind the Throne 2 | 158178 | [158178-shadows-behind-the-throne-2.json](./158178-shadows-behind-the-throne-2.json) |
 | Shadows Beneath the Badge: An Undercover Affair | 337705 | [337705-shadows-beneath-the-badge-an-undercover-affair.json](./337705-shadows-beneath-the-badge-an-undercover-affair.json) |
 | Shadows Bounce Once | 332484 | [332484-shadows-bounce-once.json](./332484-shadows-bounce-once.json) |
@@ -4457,6 +4461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shahrzad: The Storyteller | 108378 | [108378-shahrzad-the-storyteller.json](./108378-shahrzad-the-storyteller.json) |
 | Shaiya | 85841 | [85841-shaiya.json](./85841-shaiya.json) |
 | Shajra Namla | 286773 | [286773-shajra-namla.json](./286773-shajra-namla.json) |
+| Shakabula | 265560 | [265560-shakabula.json](./265560-shakabula.json) |
 | Shakadou-san no Jun'ai Road | 182226 | [182226-shakadou-san-no-junai-road.json](./182226-shakadou-san-no-junai-road.json) |
 | Shakatto Tambourine! | 328951 | [328951-shakatto-tambourine.json](./328951-shakatto-tambourine.json) |
 | Shake | 343962 | [343962-shake.json](./343962-shake.json) |
@@ -16290,6 +16295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steampunk Jigsaw Puzzles: Ancient Empires | 267433 | [267433-steampunk-jigsaw-puzzles-ancient-empires.json](./267433-steampunk-jigsaw-puzzles-ancient-empires.json) |
 | Steampunk Jigsaw Puzzles: Boomtown USA | 268951 | [268951-steampunk-jigsaw-puzzles-boomtown-usa.json](./268951-steampunk-jigsaw-puzzles-boomtown-usa.json) |
 | Steampunk Jigsaw Puzzles: Mediterranean City-States | 270894 | [270894-steampunk-jigsaw-puzzles-mediterranean-city-states.json](./270894-steampunk-jigsaw-puzzles-mediterranean-city-states.json) |
+| Steampunk Jigsaw Puzzles: The Wild West | 265516 | [265516-steampunk-jigsaw-puzzles-the-wild-west.json](./265516-steampunk-jigsaw-puzzles-the-wild-west.json) |
 | Steampunk Racing 3D | 252141 | [252141-steampunk-racing-3d.json](./252141-steampunk-racing-3d.json) |
 | Steampunk Shinobi | 324946 | [324946-steampunk-shinobi.json](./324946-steampunk-shinobi.json) |
 | SteamPunk Sky | 88169 | [88169-steampunk-sky.json](./88169-steampunk-sky.json) |
@@ -18202,6 +18208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Subroutine | 344992 | [344992-subroutine.json](./344992-subroutine.json) |
 | Subrov | 152859 | [152859-subrov.json](./152859-subrov.json) |
 | Subs | 119600 | [119600-subs.json](./119600-subs.json) |
+| Subside | 265550 | [265550-subside.json](./265550-subside.json) |
 | Subsiege | 26677 | [26677-subsiege.json](./26677-subsiege.json) |
 | Subsist: Apocalypse Survival | 296453 | [296453-subsist-apocalypse-survival.json](./296453-subsist-apocalypse-survival.json) |
 | Subspace Reticulum | 367537 | [367537-subspace-reticulum.json](./367537-subspace-reticulum.json) |
