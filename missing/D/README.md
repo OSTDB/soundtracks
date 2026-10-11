@@ -706,6 +706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DangoVerse | 284998 | [284998-dangoverse.json](./284998-dangoverse.json) |
 | Dangun Feveron | 40979 | [40979-dangun-feveron.json](./40979-dangun-feveron.json) |
 | Daniel Pintado's Land of Silence | 284999 | [284999-daniel-pintados-land-of-silence.json](./284999-daniel-pintados-land-of-silence.json) |
+| Danjigoku | 276122 | [276122-danjigoku.json](./276122-danjigoku.json) |
 | Danjon ni Deai o Motomeru no wa Machigatteiru Darou ka? Orario Rhapsodia | 77627 | [77627-danjon-ni-deai-o-motomeru-no-wa-machigatteiru-darou-ka-orario-rhapsodia.json](./77627-danjon-ni-deai-o-motomeru-no-wa-machigatteiru-darou-ka-orario-rhapsodia.json) |
 | Danju | 410238 | [410238-danju.json](./410238-danju.json) |
 | Dank Prank: Dopeville | 117163 | [117163-dank-prank-dopeville.json](./117163-dank-prank-dopeville.json) |
@@ -5483,6 +5484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digi-Doll | 345964 | [345964-digi-doll.json](./345964-digi-doll.json) |
 | Digiclimb | 402281 | [402281-digiclimb.json](./402281-digiclimb.json) |
 | Digimon 20th Anniversary Digivice | 270626 | [270626-digimon-20th-anniversary-digivice.json](./270626-digimon-20th-anniversary-digivice.json) |
+| Digimon Adventure Trading Card Game | 276115 | [276115-digimon-adventure-trading-card-game.json](./276115-digimon-adventure-trading-card-game.json) |
 | Digimon All-Star Rumble | 9286 | [9286-digimon-all-star-rumble.json](./9286-digimon-all-star-rumble.json) |
 | Digimon Alysion | 336087 | [336087-digimon-alysion.json](./336087-digimon-alysion.json) |
 | Digimon Collectors | 108999 | [108999-digimon-collectors.json](./108999-digimon-collectors.json) |
@@ -5800,6 +5802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino Storm | 92597 | [92597-dino-storm.json](./92597-dino-storm.json) |
 | Dino Strike | 85563 | [85563-dino-strike.json](./85563-dino-strike.json) |
 | Dino Surf | 239895 | [239895-dino-surf.json](./239895-dino-surf.json) |
+| Dino Survivors | 276211 | [276211-dino-survivors.json](./276211-dino-survivors.json) |
 | Dino Tamers | 146333 | [146333-dino-tamers.json](./146333-dino-tamers.json) |
 | Dino Time Raiders | 388161 | [388161-dino-time-raiders.json](./388161-dino-time-raiders.json) |
 | Dino Tour VR | 286787 | [286787-dino-tour-vr.json](./286787-dino-tour-vr.json) |
@@ -6846,6 +6849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Do the Cat | 326267 | [326267-do-the-cat.json](./326267-do-the-cat.json) |
 | Do They Know | 399256 | [399256-do-they-know.json](./399256-do-they-know.json) |
 | Do Up | 365832 | [365832-do-up.json](./365832-do-up.json) |
+| Do Us Part | 276106 | [276106-do-us-part.json](./276106-do-us-part.json) |
 | Do You Even Brick?! | 401548 | [401548-do-you-even-brick.json](./401548-do-you-even-brick.json) |
 | Do You Have a Moment to Talk About Our Lord and Savior? | 336668 | [336668-do-you-have-a-moment-to-talk-about-our-lord-and-savior.json](./336668-do-you-have-a-moment-to-talk-about-our-lord-and-savior.json) |
 | Do you know de way | 89966 | [89966-do-you-know-de-way.json](./89966-do-you-know-de-way.json) |
@@ -9440,11 +9444,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draw 2 Save: Stickman Puzzle | 208980 | [208980-draw-2-save-stickman-puzzle.json](./208980-draw-2-save-stickman-puzzle.json) |
 | Draw a Stickman: Epic | 5032 | [5032-draw-a-stickman-epic.json](./5032-draw-a-stickman-epic.json) |
 | Draw A Stickman: Episode 2 | 99999 | [99999-draw-a-stickman-episode-2.json](./99999-draw-a-stickman-episode-2.json) |
+| Draw and Color | 276130 | [276130-draw-and-color.json](./276130-draw-and-color.json) |
 | Draw and Color: Kawaii - Complete Edition | 242047 | [242047-draw-and-color-kawaii-complete-edition.json](./242047-draw-and-color-kawaii-complete-edition.json) |
 | Draw and Color: Kawaii - Director's Cut | 250361 | [250361-draw-and-color-kawaii-directors-cut.json](./250361-draw-and-color-kawaii-directors-cut.json) |
 | Draw and Color: Kawaii - Magnificent Edition | 268554 | [268554-draw-and-color-kawaii-magnificent-edition.json](./268554-draw-and-color-kawaii-magnificent-edition.json) |
 | Draw and Color: Kawaii - Platinum Edition | 247589 | [247589-draw-and-color-kawaii-platinum-edition.json](./247589-draw-and-color-kawaii-platinum-edition.json) |
 | Draw and Color: Kawaii - Superb Edition | 270293 | [270293-draw-and-color-kawaii-superb-edition.json](./270293-draw-and-color-kawaii-superb-edition.json) |
+| Draw and Go! | 276129 | [276129-draw-and-go.json](./276129-draw-and-go.json) |
 | Draw and Lie | 147973 | [147973-draw-and-lie.json](./147973-draw-and-lie.json) |
 | Draw Around | 142402 | [142402-draw-around.json](./142402-draw-around.json) |
 | Draw Breaker | 341058 | [341058-draw-breaker.json](./341058-draw-breaker.json) |
