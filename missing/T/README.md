@@ -1034,6 +1034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Talk To Me | 134586 | [134586-talk-to-me.json](./134586-talk-to-me.json) |
 | Talk to Strangers | 252403 | [252403-talk-to-strangers.json](./252403-talk-to-strangers.json) |
 | Talk to Yuno | 111005 | [111005-talk-to-yuno.json](./111005-talk-to-yuno.json) |
+| Talker Tales | 258923 | [258923-talker-tales.json](./258923-talker-tales.json) |
 | Talking ABC's: A Day at the Beach | 292118 | [292118-talking-abcs-a-day-at-the-beach.json](./292118-talking-abcs-a-day-at-the-beach.json) |
 | Talking Ben the Dog | 191877 | [191877-talking-ben-the-dog.json](./191877-talking-ben-the-dog.json) |
 | Talking Bruce the Panda | 266251 | [266251-talking-bruce-the-panda.json](./266251-talking-bruce-the-panda.json) |
@@ -1530,6 +1531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tap My Katamari | 26991 | [26991-tap-my-katamari.json](./26991-tap-my-katamari.json) |
 | Tap Pet Hotel | 269072 | [269072-tap-pet-hotel.json](./269072-tap-pet-hotel.json) |
 | Tap Rising | 242200 | [242200-tap-rising.json](./242200-tap-rising.json) |
+| Tap Romantics | 258930 | [258930-tap-romantics.json](./258930-tap-romantics.json) |
 | Tap Smiths | 58233 | [58233-tap-smiths.json](./58233-tap-smiths.json) |
 | Tap Soccer: Champions | 239891 | [239891-tap-soccer-champions.json](./239891-tap-soccer-champions.json) |
 | Tap Sonic | 92492 | [92492-tap-sonic.json](./92492-tap-sonic.json) |
@@ -8646,6 +8648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mind of Marlo | 74238 | [74238-the-mind-of-marlo.json](./74238-the-mind-of-marlo.json) |
 | The Mind of Moai | 185482 | [185482-the-mind-of-moai.json](./185482-the-mind-of-moai.json) |
 | The Mind Snare | 363881 | [363881-the-mind-snare.json](./363881-the-mind-snare.json) |
+| The Mind's Decay | 258915 | [258915-the-minds-decay.json](./258915-the-minds-decay.json) |
 | The Mind's Eclipse | 76579 | [76579-the-minds-eclipse.json](./76579-the-minds-eclipse.json) |
 | The Mindwarp | 206169 | [206169-the-mindwarp.json](./206169-the-mindwarp.json) |
 | The Mine | 13739 | [13739-the-mine.json](./13739-the-mine.json) |
@@ -11368,6 +11371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tower of Turmoil | 195519 | [195519-the-tower-of-turmoil.json](./195519-the-tower-of-turmoil.json) |
 | The Tower of Worth | 116935 | [116935-the-tower-of-worth.json](./116935-the-tower-of-worth.json) |
 | The Tower of Wowers | 150068 | [150068-the-tower-of-wowers.json](./150068-the-tower-of-wowers.json) |
+| The Tower on the Borderland | 258897 | [258897-the-tower-on-the-borderland.json](./258897-the-tower-on-the-borderland.json) |
 | The Tower SP | 6639 | [6639-the-tower-sp.json](./6639-the-tower-sp.json) |
 | The Tower Stories Green 1 | 295378 | [295378-the-tower-stories-green-1.json](./295378-the-tower-stories-green-1.json) |
 | The Tower: A Bomb's Climb | 64676 | [64676-the-tower-a-bombs-climb.json](./64676-the-tower-a-bombs-climb.json) |
@@ -19372,6 +19376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tripp | 144866 | [144866-tripp.json](./144866-tripp.json) |
 | Trippy Jump | 101329 | [101329-trippy-jump.json](./101329-trippy-jump.json) |
 | Trippy Trader: Schedule & Sell | 362214 | [362214-trippy-trader-schedule-and-sell.json](./362214-trippy-trader-schedule-and-sell.json) |
+| Trippy's Disc Golf | 258931 | [258931-trippys-disc-golf.json](./258931-trippys-disc-golf.json) |
 | TripSync | 189179 | [189179-tripsync.json](./189179-tripsync.json) |
 | TripTrip | 102352 | [102352-triptrip.json](./102352-triptrip.json) |
 | Triptych | 93001 | [93001-triptych.json](./93001-triptych.json) |
@@ -20653,6 +20658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Two Clusters Cold Haven | 189978 | [189978-two-clusters-cold-haven.json](./189978-two-clusters-cold-haven.json) |
 | Two Coins | 151008 | [151008-two-coins.json](./151008-two-coins.json) |
 | Two Colours | 201712 | [201712-two-colours.json](./201712-two-colours.json) |
+| Two Cubes | 258912 | [258912-two-cubes.json](./258912-two-cubes.json) |
 | Two Days | 356898 | [356898-two-days.json](./356898-two-days.json) |
 | Two Days to the Race | 304179 | [304179-two-days-to-the-race.json](./304179-two-days-to-the-race.json) |
 | Two Die | 142501 | [142501-two-die.json](./142501-two-die.json) |
