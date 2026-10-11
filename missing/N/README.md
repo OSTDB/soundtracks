@@ -1809,6 +1809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Network | 147404 | [147404-network.json](./147404-network.json) |
 | Network | 95442 | [95442-network.json](./95442-network.json) |
 | Network Adventure Bugsite: Alpha | 57076 | [57076-network-adventure-bugsite-alpha.json](./57076-network-adventure-bugsite-alpha.json) |
+| Network Adventure Bugsite: Beta | 270059 | [270059-network-adventure-bugsite-beta.json](./270059-network-adventure-bugsite-beta.json) |
 | Network E.L.E.: PC Edition | 166210 | [166210-network-e-l-e-pc-edition.json](./166210-network-e-l-e-pc-edition.json) |
 | Network Nodes | 344949 | [344949-network-nodes.json](./344949-network-nodes.json) |
 | Network Notation | 391341 | [391341-network-notation.json](./391341-network-notation.json) |
