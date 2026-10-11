@@ -4843,6 +4843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hijack! | 342598 | [342598-hijack.json](./342598-hijack.json) |
 | Hijinks High | 415088 | [415088-hijinks-high.json](./415088-hijinks-high.json) |
 | Hijong Park's Defender Patrol | 374952 | [374952-hijong-parks-defender-patrol.json](./374952-hijong-parks-defender-patrol.json) |
+| Hikari no Shima: Seven Lithographs in Shining Island | 259488 | [259488-hikari-no-shima-seven-lithographs-in-shining-island.json](./259488-hikari-no-shima-seven-lithographs-in-shining-island.json) |
 | Hikari no Valusia | 378203 | [378203-hikari-no-valusia.json](./378203-hikari-no-valusia.json) |
 | Hikari! Clover Rescue | 113063 | [113063-hikari-clover-rescue.json](./113063-hikari-clover-rescue.json) |
 | Hikari! Love Potion | 128006 | [128006-hikari-love-potion.json](./128006-hikari-love-potion.json) |
