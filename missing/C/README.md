@@ -12072,6 +12072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cultus | 156690 | [156690-cultus.json](./156690-cultus.json) |
 | Cum & Climb | 267080 | [267080-cum-and-climb.json](./267080-cum-and-climb.json) |
 | Cum Clicker | 262098 | [262098-cum-clicker.json](./262098-cum-clicker.json) |
+| Cum on Bus | 241293 | [241293-cum-on-bus.json](./241293-cum-on-bus.json) |
 | Cum On! Bukkake Ranch! | 322950 | [322950-cum-on-bukkake-ranch.json](./322950-cum-on-bukkake-ranch.json) |
 | Cum Queens | 285131 | [285131-cum-queens.json](./285131-cum-queens.json) |
 | Cumboy in Space | 370467 | [370467-cumboy-in-space.json](./370467-cumboy-in-space.json) |
@@ -12575,6 +12576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Lust | 241988 | [241988-cyber-lust.json](./241988-cyber-lust.json) |
 | Cyber Manhunt 2: New World | 276679 | [276679-cyber-manhunt-2-new-world.json](./276679-cyber-manhunt-2-new-world.json) |
 | Cyber Manhunt: Hello World | 188493 | [188493-cyber-manhunt-hello-world.json](./188493-cyber-manhunt-hello-world.json) |
+| Cyber Mission | 241294 | [241294-cyber-mission.json](./241294-cyber-mission.json) |
 | Cyber Neon Bundle | 246880 | [246880-cyber-neon-bundle.json](./246880-cyber-neon-bundle.json) |
 | Cyber Noah | 156015 | [156015-cyber-noah.json](./156015-cyber-noah.json) |
 | Cyber Org | 72900 | [72900-cyber-org.json](./72900-cyber-org.json) |
