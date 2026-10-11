@@ -2759,6 +2759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cattch | 146549 | [146549-cattch.json](./146549-cattch.json) |
 | Cattenburg | 187234 | [187234-cattenburg.json](./187234-cattenburg.json) |
 | CatTerror: The Abandoned House | 347316 | [347316-catterror-the-abandoned-house.json](./347316-catterror-the-abandoned-house.json) |
+| Catting Over It | 277262 | [277262-catting-over-it.json](./277262-catting-over-it.json) |
 | Cattle Call: Hollywood Talent Manager | 110525 | [110525-cattle-call-hollywood-talent-manager.json](./110525-cattle-call-hollywood-talent-manager.json) |
 | Cattle Country | 306909 | [306909-cattle-country.json](./306909-cattle-country.json) |
 | Cattle Hyperdrive | 247745 | [247745-cattle-hyperdrive.json](./247745-cattle-hyperdrive.json) |
@@ -4880,6 +4881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Christmas Night | 236804 | [236804-christmas-night.json](./236804-christmas-night.json) |
 | Christmas Night Archery | 77667 | [77667-christmas-night-archery.json](./77667-christmas-night-archery.json) |
 | Christmas Night Shift | 88666 | [88666-christmas-night-shift.json](./88666-christmas-night-shift.json) |
+| Christmas Nightmare | 277266 | [277266-christmas-nightmare.json](./277266-christmas-nightmare.json) |
 | Christmas Otome | 125412 | [125412-christmas-otome.json](./125412-christmas-otome.json) |
 | Christmas Panic | 187307 | [187307-christmas-panic.json](./187307-christmas-panic.json) |
 | Christmas Patchwork Frozen | 286522 | [286522-christmas-patchwork-frozen.json](./286522-christmas-patchwork-frozen.json) |
@@ -10671,6 +10673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Critter Cove | 136987 | [136987-critter-cove.json](./136987-critter-cove.json) |
 | Critter Crops | 193308 | [193308-critter-crops.json](./193308-critter-crops.json) |
 | Critter Crosser | 286620 | [286620-critter-crosser.json](./286620-critter-crosser.json) |
+| Critter Crossfire | 277326 | [277326-critter-crossfire.json](./277326-critter-crossfire.json) |
 | Critter Crunch | 13188 | [13188-critter-crunch.json](./13188-critter-crunch.json) |
 | Critter Crush - Hunting Game | 89282 | [89282-critter-crush-hunting-game.json](./89282-critter-crush-hunting-game.json) |
 | Critter Isle | 334301 | [334301-critter-isle.json](./334301-critter-isle.json) |
@@ -11347,6 +11350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystal Caves Volume 3: Milo Versus the Supernova | 51392 | [51392-crystal-caves-volume-3-milo-versus-the-supernova.json](./51392-crystal-caves-volume-3-milo-versus-the-supernova.json) |
 | Crystal Chaser: Tenkuu no Masuishou | 402986 | [402986-crystal-chaser-tenkuu-no-masuishou.json](./402986-crystal-chaser-tenkuu-no-masuishou.json) |
 | Crystal Chaser: Tenkuu no Masuishou - R | 402994 | [402994-crystal-chaser-tenkuu-no-masuishou-r.json](./402994-crystal-chaser-tenkuu-no-masuishou-r.json) |
+| Crystal Chip Collector e | 277248 | [277248-crystal-chip-collector-e.json](./277248-crystal-chip-collector-e.json) |
 | Crystal Clear | 129587 | [129587-crystal-clear.json](./129587-crystal-clear.json) |
 | Crystal Clear, Mail's Here | 390156 | [390156-crystal-clear-mails-here.json](./390156-crystal-clear-mails-here.json) |
 | Crystal Compulsion | 208834 | [208834-crystal-compulsion.json](./208834-crystal-compulsion.json) |
@@ -11722,6 +11726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubit | 204473 | [204473-cubit.json](./204473-cubit.json) |
 | Cubit: The Hardcore Platformer Robot | 47644 | [47644-cubit-the-hardcore-platformer-robot.json](./47644-cubit-the-hardcore-platformer-robot.json) |
 | Cubiti Parti | 202749 | [202749-cubiti-parti.json](./202749-cubiti-parti.json) |
+| Cubitrix | 277257 | [277257-cubitrix.json](./277257-cubitrix.json) |
 | Cubium Dreams | 33381 | [33381-cubium-dreams.json](./33381-cubium-dreams.json) |
 | Cubix Classic | 67981 | [67981-cubix-classic.json](./67981-cubix-classic.json) |
 | Cubix Robots for Everyone: Showdown | 242806 | [242806-cubix-robots-for-everyone-showdown.json](./242806-cubix-robots-for-everyone-showdown.json) |
