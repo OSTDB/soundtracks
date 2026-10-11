@@ -7508,6 +7508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frog Boaster | 305454 | [305454-frog-boaster.json](./305454-frog-boaster.json) |
 | Frog Bog | 18553 | [18553-frog-bog.json](./18553-frog-bog.json) |
 | Frog Box | 319237 | [319237-frog-box.json](./319237-frog-box.json) |
+| Frog Bridge Scape | 262884 | [262884-frog-bridge-scape.json](./262884-frog-bridge-scape.json) |
 | Frog Clan Official Server 24/7 ZK Map | 395868 | [395868-frog-clan-official-server-24-7-zk-map.json](./395868-frog-clan-official-server-24-7-zk-map.json) |
 | Frog Corner | 293683 | [293683-frog-corner.json](./293683-frog-corner.json) |
 | Frog Detective -1 | 325675 | [325675-frog-detective-1.json](./325675-frog-detective-1.json) |
