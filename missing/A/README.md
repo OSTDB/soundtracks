@@ -10104,6 +10104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atelier: Alchemists of the Dusk Trilogy DX - Premium Box | 136924 | [136924-atelier-alchemists-of-the-dusk-trilogy-dx-premium-box.json](./136924-atelier-alchemists-of-the-dusk-trilogy-dx-premium-box.json) |
 | Atelier: The Alchemist of Arland 1-2-3 DX - Premium Box | 167138 | [167138-atelier-the-alchemist-of-arland-1-2-3-dx-premium-box.json](./167138-atelier-the-alchemist-of-arland-1-2-3-dx-premium-box.json) |
 | Aternia: Deep | 157001 | [157001-aternia-deep.json](./157001-aternia-deep.json) |
+| Atganga: Spectacle for the Gods | 249071 | [249071-atganga-spectacle-for-the-gods.json](./249071-atganga-spectacle-for-the-gods.json) |
 | Atgtha in Absurdia | 133913 | [133913-atgtha-in-absurdia.json](./133913-atgtha-in-absurdia.json) |
 | Atha: In Search of the Well | 319677 | [319677-atha-in-search-of-the-well.json](./319677-atha-in-search-of-the-well.json) |
 | Athamuff | 370303 | [370303-athamuff.json](./370303-athamuff.json) |
