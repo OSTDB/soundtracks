@@ -17,6 +17,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | R-Beta | 225617 | [225617-r-beta.json](./225617-r-beta.json) |
 | R-Coil | 68792 | [68792-r-coil.json](./68792-r-coil.json) |
 | R-Draw | 108857 | [108857-r-draw.json](./108857-r-draw.json) |
+| R-Gear | 241250 | [241250-r-gear.json](./241250-r-gear.json) |
 | R-Lyke: Reverse | 238568 | [238568-r-lyke-reverse.json](./238568-r-lyke-reverse.json) |
 | R-Naught | 151016 | [151016-r-naught.json](./151016-r-naught.json) |
 | R-Shark | 40254 | [40254-r-shark.json](./40254-r-shark.json) |
@@ -1959,6 +1960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Really Bad Chess | 56131 | [56131-really-bad-chess.json](./56131-really-bad-chess.json) |
 | Really Boring Website | 142974 | [142974-really-boring-website.json](./142974-really-boring-website.json) |
 | Really Dog | 276182 | [276182-really-dog.json](./276182-really-dog.json) |
+| Really Happy Mouse | 241409 | [241409-really-happy-mouse.json](./241409-really-happy-mouse.json) |
 | Really really auto chess | 183971 | [183971-really-really-auto-chess.json](./183971-really-really-auto-chess.json) |
 | Really Simple Golf | 303712 | [303712-really-simple-golf.json](./303712-really-simple-golf.json) |
 | Really Unique Space Shooter | 136237 | [136237-really-unique-space-shooter.json](./136237-really-unique-space-shooter.json) |
@@ -3790,6 +3792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro Santa Run | 327434 | [327434-retro-santa-run.json](./327434-retro-santa-run.json) |
 | Retro Shooter Rampage Bundle | 154489 | [154489-retro-shooter-rampage-bundle.json](./154489-retro-shooter-rampage-bundle.json) |
 | Retro Shooting | 57329 | [57329-retro-shooting.json](./57329-retro-shooting.json) |
+| Retro Short Game | 241269 | [241269-retro-short-game.json](./241269-retro-short-game.json) |
 | Retro Slam Tennis | 410360 | [410360-retro-slam-tennis.json](./410360-retro-slam-tennis.json) |
 | Retro Snake | 104012 | [104012-retro-snake.json](./104012-retro-snake.json) |
 | Retro Snake Adventures | 107915 | [107915-retro-snake-adventures.json](./107915-retro-snake-adventures.json) |
@@ -4951,6 +4954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise of The Fallen | 102574 | [102574-rise-of-the-fallen.json](./102574-rise-of-the-fallen.json) |
 | Rise of The Fey | 82120 | [82120-rise-of-the-fey.json](./82120-rise-of-the-fey.json) |
 | Rise of the Foederati | 133339 | [133339-rise-of-the-foederati.json](./133339-rise-of-the-foederati.json) |
+| Rise of the Funkys | 241268 | [241268-rise-of-the-funkys.json](./241268-rise-of-the-funkys.json) |
 | Rise of the Ghostdom | 210895 | [210895-rise-of-the-ghostdom.json](./210895-rise-of-the-ghostdom.json) |
 | Rise of the Gorecats | 390800 | [390800-rise-of-the-gorecats.json](./390800-rise-of-the-gorecats.json) |
 | Rise of The Kasai | 21557 | [21557-rise-of-the-kasai.json](./21557-rise-of-the-kasai.json) |
