@@ -2898,6 +2898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terraformers & Moonshine Inc.: Mars and Moon Bundle | 273006 | [273006-terraformers-and-moonshine-inc-mars-and-moon-bundle.json](./273006-terraformers-and-moonshine-inc-mars-and-moon-bundle.json) |
 | Terraformers + Starward Rogue: Mechs and Colonizers Bundle | 292614 | [292614-terraformers-starward-rogue-mechs-and-colonizers-bundle.json](./292614-terraformers-starward-rogue-mechs-and-colonizers-bundle.json) |
 | Terraformers + Starward Rogue: Mechs and Colonizers Deluxe Bundle | 292616 | [292616-terraformers-starward-rogue-mechs-and-colonizers-deluxe-bundle.json](./292616-terraformers-starward-rogue-mechs-and-colonizers-deluxe-bundle.json) |
+| Terraformers + Tin Can: To Infinity, and Beyond Bundle! | 271124 | [271124-terraformers-tin-can-to-infinity-and-beyond-bundle.json](./271124-terraformers-tin-can-to-infinity-and-beyond-bundle.json) |
 | Terraformers: Deluxe Bundle | 331493 | [331493-terraformers-deluxe-bundle.json](./331493-terraformers-deluxe-bundle.json) |
 | Terraformers: Megastructures | 318782 | [318782-terraformers-megastructures.json](./318782-terraformers-megastructures.json) |
 | Terraformers: Megastructures Bundle | 331492 | [331492-terraformers-megastructures-bundle.json](./331492-terraformers-megastructures-bundle.json) |
@@ -7248,6 +7249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The King of Fighters 2002: Unlimited Match | 22952 | [22952-the-king-of-fighters-2002-unlimited-match.json](./22952-the-king-of-fighters-2002-unlimited-match.json) |
 | The King of Fighters 2003 | 15433 | [15433-the-king-of-fighters-2003.json](./15433-the-king-of-fighters-2003.json) |
 | The King of Fighters Arena | 225887 | [225887-the-king-of-fighters-arena.json](./225887-the-king-of-fighters-arena.json) |
+| The King of Fighters Bundle | 271119 | [271119-the-king-of-fighters-bundle.json](./271119-the-king-of-fighters-bundle.json) |
 | The King of Fighters EX: Neo Blood | 49170 | [49170-the-king-of-fighters-ex-neo-blood.json](./49170-the-king-of-fighters-ex-neo-blood.json) |
 | The King of Fighters EX2: Howling Blood | 49169 | [49169-the-king-of-fighters-ex2-howling-blood.json](./49169-the-king-of-fighters-ex2-howling-blood.json) |
 | The King of Fighters Extreme | 47572 | [47572-the-king-of-fighters-extreme.json](./47572-the-king-of-fighters-extreme.json) |
@@ -12203,11 +12205,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TheHunter: Call of the Wild - Hirschfelden Veteran Cosmetic Pack | 266392 | [266392-thehunter-call-of-the-wild-hirschfelden-veteran-cosmetic-pack.json](./266392-thehunter-call-of-the-wild-hirschfelden-veteran-cosmetic-pack.json) |
 | TheHunter: Call of the Wild - Hunter Power Pack | 266390 | [266390-thehunter-call-of-the-wild-hunter-power-pack.json](./266390-thehunter-call-of-the-wild-hunter-power-pack.json) |
 | TheHunter: Call of the Wild - Medved-Taiga | 154341 | [154341-thehunter-call-of-the-wild-medved-taiga.json](./154341-thehunter-call-of-the-wild-medved-taiga.json) |
+| TheHunter: Call of the Wild - Medved-Taiga Cosmetic Pack | 271134 | [271134-thehunter-call-of-the-wild-medved-taiga-cosmetic-pack.json](./271134-thehunter-call-of-the-wild-medved-taiga-cosmetic-pack.json) |
 | TheHunter: Call of the Wild - Mississippi Acres Preserve Cosmetic Pack | 331917 | [331917-thehunter-call-of-the-wild-mississippi-acres-preserve-cosmetic-pack.json](./331917-thehunter-call-of-the-wild-mississippi-acres-preserve-cosmetic-pack.json) |
 | TheHunter: Call of the Wild - Modern Rifle Pack | 206793 | [206793-thehunter-call-of-the-wild-modern-rifle-pack.json](./206793-thehunter-call-of-the-wild-modern-rifle-pack.json) |
 | TheHunter: Call of the Wild - New England Mountains | 227336 | [227336-thehunter-call-of-the-wild-new-england-mountains.json](./227336-thehunter-call-of-the-wild-new-england-mountains.json) |
 | TheHunter: Call of the Wild - New Species 2018 | 206824 | [206824-thehunter-call-of-the-wild-new-species-2018.json](./206824-thehunter-call-of-the-wild-new-species-2018.json) |
 | TheHunter: Call of the Wild - New Species 2019 | 206825 | [206825-thehunter-call-of-the-wild-new-species-2019.json](./206825-thehunter-call-of-the-wild-new-species-2019.json) |
+| TheHunter: Call of the Wild - Parque Fernando Cosmetic Pack | 271133 | [271133-thehunter-call-of-the-wild-parque-fernando-cosmetic-pack.json](./271133-thehunter-call-of-the-wild-parque-fernando-cosmetic-pack.json) |
 | TheHunter: Call of the Wild - Remi Warren | 154342 | [154342-thehunter-call-of-the-wild-remi-warren.json](./154342-thehunter-call-of-the-wild-remi-warren.json) |
 | TheHunter: Call of the Wild - Reserve Cosmetics Bundle 1 | 271466 | [271466-thehunter-call-of-the-wild-reserve-cosmetics-bundle-1.json](./271466-thehunter-call-of-the-wild-reserve-cosmetics-bundle-1.json) |
 | TheHunter: Call of the Wild - Saseka Safari Trophy Lodge | 206798 | [206798-thehunter-call-of-the-wild-saseka-safari-trophy-lodge.json](./206798-thehunter-call-of-the-wild-saseka-safari-trophy-lodge.json) |
@@ -12224,6 +12228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TheHunter: Call of the Wild - Trophy Lodge Spring Creek Manor | 206803 | [206803-thehunter-call-of-the-wild-trophy-lodge-spring-creek-manor.json](./206803-thehunter-call-of-the-wild-trophy-lodge-spring-creek-manor.json) |
 | TheHunter: Call of the Wild - TruRACS | 206802 | [206802-thehunter-call-of-the-wild-truracs.json](./206802-thehunter-call-of-the-wild-truracs.json) |
 | TheHunter: Call of the Wild - Ultimate Hunting Bundle | 331490 | [331490-thehunter-call-of-the-wild-ultimate-hunting-bundle.json](./331490-thehunter-call-of-the-wild-ultimate-hunting-bundle.json) |
+| TheHunter: Call of the Wild - Vurhonga Savanna Cosmetic Pack | 271135 | [271135-thehunter-call-of-the-wild-vurhonga-savanna-cosmetic-pack.json](./271135-thehunter-call-of-the-wild-vurhonga-savanna-cosmetic-pack.json) |
 | TheHunter: Call of the Wild - Weapon Pack 1 | 206819 | [206819-thehunter-call-of-the-wild-weapon-pack-1.json](./206819-thehunter-call-of-the-wild-weapon-pack-1.json) |
 | TheHunter: Call of the Wild - Weapon Pack 2 | 206804 | [206804-thehunter-call-of-the-wild-weapon-pack-2.json](./206804-thehunter-call-of-the-wild-weapon-pack-2.json) |
 | TheHunter: Call of the Wild - Weapon Pack 3 | 206800 | [206800-thehunter-call-of-the-wild-weapon-pack-3.json](./206800-thehunter-call-of-the-wild-weapon-pack-3.json) |
@@ -16855,6 +16860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower of Babel | 74349 | [74349-tower-of-babel.json](./74349-tower-of-babel.json) |
 | Tower of Babel: No Mercy | 129190 | [129190-tower-of-babel-no-mercy.json](./129190-tower-of-babel-no-mercy.json) |
 | Tower of Babel: Survivors of Chaos | 329785 | [329785-tower-of-babel-survivors-of-chaos.json](./329785-tower-of-babel-survivors-of-chaos.json) |
+| Tower of Boin | 271118 | [271118-tower-of-boin.json](./271118-tower-of-boin.json) |
 | Tower of Boom | 179144 | [179144-tower-of-boom.json](./179144-tower-of-boom.json) |
 | Tower of Cards | 199455 | [199455-tower-of-cards.json](./199455-tower-of-cards.json) |
 | Tower of Dal Gurak | 271953 | [271953-tower-of-dal-gurak.json](./271953-tower-of-dal-gurak.json) |
