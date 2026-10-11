@@ -2620,6 +2620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DearMyFriend | 285005 | [285005-dearmyfriend.json](./285005-dearmyfriend.json) |
 | DearS | 60880 | [60880-dears.json](./60880-dears.json) |
 | Death | 123553 | [123553-death.json](./123553-death.json) |
+| Death & Tactics | 274931 | [274931-death-and-tactics.json](./274931-death-and-tactics.json) |
 | Death & Taxes | 370868 | [370868-death-and-taxes.json](./370868-death-and-taxes.json) |
 | Death Again | 185123 | [185123-death-again.json](./185123-death-again.json) |
 | Death Alley | 179681 | [179681-death-alley.json](./179681-death-alley.json) |
@@ -3670,6 +3671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delta Horizon | 106560 | [106560-delta-horizon.json](./106560-delta-horizon.json) |
 | Delta Man | 39777 | [39777-delta-man.json](./39777-delta-man.json) |
 | Delta Manager | 398464 | [398464-delta-manager.json](./398464-delta-manager.json) |
+| Delta MMORPG | 274944 | [274944-delta-mmorpg.json](./274944-delta-mmorpg.json) |
 | Delta Online | 390011 | [390011-delta-online.json](./390011-delta-online.json) |
 | Delta Particles | 196729 | [196729-delta-particles.json](./196729-delta-particles.json) |
 | Delta Riddle | 96039 | [96039-delta-riddle.json](./96039-delta-riddle.json) |
