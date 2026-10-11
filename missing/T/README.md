@@ -11848,6 +11848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The White Flower | 392801 | [392801-the-white-flower.json](./392801-the-white-flower.json) |
 | The White Hell | 390545 | [390545-the-white-hell.json](./390545-the-white-hell.json) |
 | The White Lamb: No Shelter | 390074 | [390074-the-white-lamb-no-shelter.json](./390074-the-white-lamb-no-shelter.json) |
+| The White Owl | 276747 | [276747-the-white-owl.json](./276747-the-white-owl.json) |
 | The White Prison | 262912 | [262912-the-white-prison.json](./262912-the-white-prison.json) |
 | The White Room | 309856 | [309856-the-white-room.json](./309856-the-white-room.json) |
 | The White Wolf of Lokken Mountain | 388321 | [388321-the-white-wolf-of-lokken-mountain.json](./388321-the-white-wolf-of-lokken-mountain.json) |
