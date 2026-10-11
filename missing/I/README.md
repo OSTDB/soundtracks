@@ -3699,6 +3699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iron Helix | 5394 | [5394-iron-helix.json](./5394-iron-helix.json) |
 | Iron Hunters | 296943 | [296943-iron-hunters.json](./296943-iron-hunters.json) |
 | Iron John Hawk: The Shards Of Power | 210025 | [210025-iron-john-hawk-the-shards-of-power.json](./210025-iron-john-hawk-the-shards-of-power.json) |
+| Iron Kill | 241871 | [241871-iron-kill.json](./241871-iron-kill.json) |
 | Iron Knight 3D | 91146 | [91146-iron-knight-3d.json](./91146-iron-knight-3d.json) |
 | Iron League | 83198 | [83198-iron-league.json](./83198-iron-league.json) |
 | Iron Legacy | 400865 | [400865-iron-legacy.json](./400865-iron-legacy.json) |
