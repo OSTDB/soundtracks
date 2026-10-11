@@ -3939,6 +3939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ben 10: Omniverse 2 | 287019 | [287019-ben-10-omniverse-2.json](./287019-ben-10-omniverse-2.json) |
 | Ben 10: Omniverse 2 | 287020 | [287020-ben-10-omniverse-2.json](./287020-ben-10-omniverse-2.json) |
 | Ben 10: Omniverse 2 | 5310 | [5310-ben-10-omniverse-2.json](./5310-ben-10-omniverse-2.json) |
+| Ben 10: Power of the Omnitrix | 257852 | [257852-ben-10-power-of-the-omnitrix.json](./257852-ben-10-power-of-the-omnitrix.json) |
 | Ben 10: Power Trip | 136659 | [136659-ben-10-power-trip.json](./136659-ben-10-power-trip.json) |
 | Ben 10: Protector of Earth | 210263 | [210263-ben-10-protector-of-earth.json](./210263-ben-10-protector-of-earth.json) |
 | Ben 10: Protector of Earth | 2799 | [2799-ben-10-protector-of-earth.json](./2799-ben-10-protector-of-earth.json) |
@@ -6259,6 +6260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blightfall | 414415 | [414415-blightfall.json](./414415-blightfall.json) |
 | Blightfell | 375311 | [375311-blightfell.json](./375311-blightfell.json) |
 | Blightlands Blacksmith | 238640 | [238640-blightlands-blacksmith.json](./238640-blightlands-blacksmith.json) |
+| Blights Wrath | 257834 | [257834-blights-wrath.json](./257834-blights-wrath.json) |
 | Blightseed | 369452 | [369452-blightseed.json](./369452-blightseed.json) |
 | Blightseeker | 236510 | [236510-blightseeker.json](./236510-blightseeker.json) |
 | Blightstone | 322863 | [322863-blightstone.json](./322863-blightstone.json) |
