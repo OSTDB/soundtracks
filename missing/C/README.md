@@ -489,6 +489,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty: World at War | 343822 | [343822-call-of-duty-world-at-war.json](./343822-call-of-duty-world-at-war.json) |
 | Call of Duty: World at War - Spain at War | 341656 | [341656-call-of-duty-world-at-war-spain-at-war.json](./341656-call-of-duty-world-at-war-spain-at-war.json) |
 | Call of Duty: World at War - Zombies | 89115 | [89115-call-of-duty-world-at-war-zombies.json](./89115-call-of-duty-world-at-war-zombies.json) |
+| Call of Duty: World at War Map Pack 2 | 273857 | [273857-call-of-duty-world-at-war-map-pack-2.json](./273857-call-of-duty-world-at-war-map-pack-2.json) |
+| Call of Duty: World at War Map Pack 3 | 273858 | [273858-call-of-duty-world-at-war-map-pack-3.json](./273858-call-of-duty-world-at-war-map-pack-3.json) |
 | Call of Duty: WWII - Gold Edition | 118729 | [118729-call-of-duty-wwii-gold-edition.json](./118729-call-of-duty-wwii-gold-edition.json) |
 | Call of Duty: Zombie Warfare | 304323 | [304323-call-of-duty-zombie-warfare.json](./304323-call-of-duty-zombie-warfare.json) |
 | Call of Elyndra | 321573 | [321573-call-of-elyndra.json](./321573-call-of-elyndra.json) |
@@ -3396,6 +3398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Champions and Challengers | 174739 | [174739-champions-and-challengers.json](./174739-champions-and-challengers.json) |
 | Champions Arena | 296218 | [296218-champions-arena.json](./296218-champions-arena.json) |
 | Champions of Aerial | 75429 | [75429-champions-of-aerial.json](./75429-champions-of-aerial.json) |
+| Champions of Avan | 273843 | [273843-champions-of-avan.json](./273843-champions-of-avan.json) |
 | Champions of Breakfast | 33423 | [33423-champions-of-breakfast.json](./33423-champions-of-breakfast.json) |
 | Champions of Chaxia | 399202 | [399202-champions-of-chaxia.json](./399202-champions-of-chaxia.json) |
 | Champions of Dawn | 74035 | [74035-champions-of-dawn.json](./74035-champions-of-dawn.json) |
@@ -6168,6 +6171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clickenzee | 84270 | [84270-clickenzee.json](./84270-clickenzee.json) |
 | Clicker Achievements: The Impossible Challenge | 103808 | [103808-clicker-achievements-the-impossible-challenge.json](./103808-clicker-achievements-the-impossible-challenge.json) |
 | Clicker Age | 129655 | [129655-clicker-age.json](./129655-clicker-age.json) |
+| Clicker Arena | 273808 | [273808-clicker-arena.json](./273808-clicker-arena.json) |
 | Clicker Astro Planet | 386870 | [386870-clicker-astro-planet.json](./386870-clicker-astro-planet.json) |
 | Clicker Climber: Pachinko | 373755 | [373755-clicker-climber-pachinko.json](./373755-clicker-climber-pachinko.json) |
 | Clicker Conquest | 331989 | [331989-clicker-conquest.json](./331989-clicker-conquest.json) |
@@ -11706,6 +11710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubic Tetris | 302342 | [302342-cubic-tetris.json](./302342-cubic-tetris.json) |
 | Cubic Worlds | 262287 | [262287-cubic-worlds.json](./262287-cubic-worlds.json) |
 | Cubical | 408745 | [408745-cubical.json](./408745-cubical.json) |
+| Cubicatch | 273809 | [273809-cubicatch.json](./273809-cubicatch.json) |
 | CubicBan | 218565 | [218565-cubicban.json](./218565-cubicban.json) |
 | Cubicle Quest | 35762 | [35762-cubicle-quest.json](./35762-cubicle-quest.json) |
 | Cubico | 120787 | [120787-cubico.json](./120787-cubico.json) |
