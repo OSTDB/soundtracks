@@ -292,6 +292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quanoid | 95682 | [95682-quanoid.json](./95682-quanoid.json) |
 | Quant | 172553 | [172553-quant.json](./172553-quant.json) |
 | Quantaar | 159884 | [159884-quantaar.json](./159884-quantaar.json) |
+| QuantAttack | 271140 | [271140-quantattack.json](./271140-quantattack.json) |
 | Quantic Dream Collection | 136184 | [136184-quantic-dream-collection.json](./136184-quantic-dream-collection.json) |
 | Quantized | 37311 | [37311-quantized.json](./37311-quantized.json) |
 | Quantum | 19374 | [19374-quantum.json](./19374-quantum.json) |
