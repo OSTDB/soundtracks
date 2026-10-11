@@ -10218,6 +10218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drinking in the Hot Spring! | 330180 | [330180-drinking-in-the-hot-spring.json](./330180-drinking-in-the-hot-spring.json) |
 | Drinks Company Tycoon | 173053 | [173053-drinks-company-tycoon.json](./173053-drinks-company-tycoon.json) |
 | Drinks Down Under | 291384 | [291384-drinks-down-under.json](./291384-drinks-down-under.json) |
+| Drinlan Yellow | 254979 | [254979-drinlan-yellow.json](./254979-drinlan-yellow.json) |
 | Drip Drip | 10247 | [10247-drip-drip.json](./10247-drip-drip.json) |
 | Drip Drip | 86203 | [86203-drip-drip.json](./86203-drip-drip.json) |
 | Driv3r | 194978 | [194978-driv3r.json](./194978-driv3r.json) |
@@ -10409,6 +10410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drop the Number | 216214 | [216214-drop-the-number.json](./216214-drop-the-number.json) |
 | Drop Up | 106497 | [106497-drop-up.json](./106497-drop-up.json) |
 | Drop Up | 178935 | [178935-drop-up.json](./178935-drop-up.json) |
+| Drop Wizard Tower | 254959 | [254959-drop-wizard-tower.json](./254959-drop-wizard-tower.json) |
 | Drop Zone | 46600 | [46600-drop-zone.json](./46600-drop-zone.json) |
 | Drop Zone 4 | 109590 | [109590-drop-zone-4.json](./109590-drop-zone-4.json) |
 | Drop Zone: Under Fire | 59206 | [59206-drop-zone-under-fire.json](./59206-drop-zone-under-fire.json) |
