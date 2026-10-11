@@ -2231,6 +2231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Western Press: TF2 Heavy | 228462 | [228462-western-press-tf2-heavy.json](./228462-western-press-tf2-heavy.json) |
 | Western Province | 114810 | [114810-western-province.json](./114810-western-province.json) |
 | Western Quest | 244181 | [244181-western-quest.json](./244181-western-quest.json) |
+| Western Redemption | 274383 | [274383-western-redemption.json](./274383-western-redemption.json) |
 | Western Riding Academy | 80469 | [80469-western-riding-academy.json](./80469-western-riding-academy.json) |
 | Western Slot Machine | 279254 | [279254-western-slot-machine.json](./279254-western-slot-machine.json) |
 | Western War | 249754 | [249754-western-war.json](./249754-western-war.json) |
