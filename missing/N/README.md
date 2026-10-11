@@ -441,6 +441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naruto x Boruto: Ultimate Ninja Storm Connection - DLC Pack 1 | 284509 | [284509-naruto-x-boruto-ultimate-ninja-storm-connection-dlc-pack-1.json](./284509-naruto-x-boruto-ultimate-ninja-storm-connection-dlc-pack-1.json) |
 | Naruto x Boruto: Ultimate Ninja Storm Connection - DLC Pack 2 | 294250 | [294250-naruto-x-boruto-ultimate-ninja-storm-connection-dlc-pack-2.json](./294250-naruto-x-boruto-ultimate-ninja-storm-connection-dlc-pack-2.json) |
 | Naruto x Boruto: Ultimate Ninja Storm Connections | 239385 | [239385-naruto-x-boruto-ultimate-ninja-storm-connections.json](./239385-naruto-x-boruto-ultimate-ninja-storm-connections.json) |
+| Naruto x Boruto: Ultimate Ninja Storm Connections - Collector's Edition | 270578 | [270578-naruto-x-boruto-ultimate-ninja-storm-connections-collectors-edition.json](./270578-naruto-x-boruto-ultimate-ninja-storm-connections-collectors-edition.json) |
 | Naruto x Boruto: Ultimate NInja Storm Connections - DLC Pack 5 | 317957 | [317957-naruto-x-boruto-ultimate-ninja-storm-connections-dlc-pack-5.json](./317957-naruto-x-boruto-ultimate-ninja-storm-connections-dlc-pack-5.json) |
 | Naruto x Boruto: Ultimate Ninja Storm Connections - Ultimate Edition | 268549 | [268549-naruto-x-boruto-ultimate-ninja-storm-connections-ultimate-edition.json](./268549-naruto-x-boruto-ultimate-ninja-storm-connections-ultimate-edition.json) |
 | Naruto: Clash of Ninja 2 | 24289 | [24289-naruto-clash-of-ninja-2.json](./24289-naruto-clash-of-ninja-2.json) |
@@ -3143,6 +3144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Chicken 2 | 233763 | [233763-ninja-chicken-2.json](./233763-ninja-chicken-2.json) |
 | Ninja Chicken 3: The World's Hardest Game | 247433 | [247433-ninja-chicken-3-the-worlds-hardest-game.json](./247433-ninja-chicken-3-the-worlds-hardest-game.json) |
 | Ninja Chicken for Mac | 104561 | [104561-ninja-chicken-for-mac.json](./104561-ninja-chicken-for-mac.json) |
+| Ninja Chop!! | 270607 | [270607-ninja-chop.json](./270607-ninja-chop.json) |
 | Ninja Chowdown: Glaze of Glory | 290513 | [290513-ninja-chowdown-glaze-of-glory.json](./290513-ninja-chowdown-glaze-of-glory.json) |
 | Ninja Clan | 311498 | [311498-ninja-clan.json](./311498-ninja-clan.json) |
 | Ninja Climb | 381229 | [381229-ninja-climb.json](./381229-ninja-climb.json) |
@@ -4529,6 +4531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noxia Somnia | 235888 | [235888-noxia-somnia.json](./235888-noxia-somnia.json) |
 | Noxiam: Miserable Sinners | 126407 | [126407-noxiam-miserable-sinners.json](./126407-noxiam-miserable-sinners.json) |
 | Noyah: Corrupted Memories | 164962 | [164962-noyah-corrupted-memories.json](./164962-noyah-corrupted-memories.json) |
+| Noyd | 270608 | [270608-noyd.json](./270608-noyd.json) |
 | Nozoku | 238984 | [238984-nozoku.json](./238984-nozoku.json) |
 | Nozomi-chan no Spiritual Card | 405493 | [405493-nozomi-chan-no-spiritual-card.json](./405493-nozomi-chan-no-spiritual-card.json) |
 | Nozomu School Daze | 411649 | [411649-nozomu-school-daze.json](./411649-nozomu-school-daze.json) |
