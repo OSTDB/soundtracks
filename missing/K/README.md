@@ -1403,6 +1403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kidou Senshi Gundam: Fushigi no Dungeon | 311283 | [311283-kidou-senshi-gundam-fushigi-no-dungeon.json](./311283-kidou-senshi-gundam-fushigi-no-dungeon.json) |
 | Kidou Senshi Gundam: Gihren no Yabou | 76598 | [76598-kidou-senshi-gundam-gihren-no-yabou.json](./76598-kidou-senshi-gundam-gihren-no-yabou.json) |
 | Kidou Senshi Gundam: Giren no Yabou - Tokubetsu-hen Aokisei no Hasha | 37367 | [37367-kidou-senshi-gundam-giren-no-yabou-tokubetsu-hen-aokisei-no-hasha.json](./37367-kidou-senshi-gundam-giren-no-yabou-tokubetsu-hen-aokisei-no-hasha.json) |
+| Kidou Senshi Gundam: Gundam vs. Gundam | 269497 | [269497-kidou-senshi-gundam-gundam-vs-gundam.json](./269497-kidou-senshi-gundam-gundam-vs-gundam.json) |
 | Kidou Senshi Gundam: Senjou No Kizuna Portable | 56744 | [56744-kidou-senshi-gundam-senjou-no-kizuna-portable.json](./56744-kidou-senshi-gundam-senjou-no-kizuna-portable.json) |
 | Kidou Senshi Gundam: Senshi-tachi no Kiseki | 3965 | [3965-kidou-senshi-gundam-senshi-tachi-no-kiseki.json](./3965-kidou-senshi-gundam-senshi-tachi-no-kiseki.json) |
 | Kidou Senshi V-Gundam | 42518 | [42518-kidou-senshi-v-gundam.json](./42518-kidou-senshi-v-gundam.json) |
