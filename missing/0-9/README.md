@@ -768,6 +768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 18th Hole | 38855 | [38855-18th-hole.json](./38855-18th-hole.json) |
 | 19 Part One: Boot Camp | 41010 | [41010-19-part-one-boot-camp.json](./41010-19-part-one-boot-camp.json) |
 | 19: Neunzehn | 41342 | [41342-19-neunzehn.json](./41342-19-neunzehn.json) |
+| 1900 | 253249 | [253249-1900.json](./253249-1900.json) |
 | 1912 Titanic Mystery | 120395 | [120395-1912-titanic-mystery.json](./120395-1912-titanic-mystery.json) |
 | 1912 Titanic w/ Neptunia | 205802 | [205802-1912-titanic-w-neptunia.json](./205802-1912-titanic-w-neptunia.json) |
 | 1917: The Alien Invasion | 19749 | [19749-1917-the-alien-invasion.json](./19749-1917-the-alien-invasion.json) |
