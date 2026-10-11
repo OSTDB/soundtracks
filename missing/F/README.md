@@ -529,6 +529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Faith & Shield: Tower Defense - Space Wars Game 2022 | 209694 | [209694-faith-and-shield-tower-defense-space-wars-game-2022.json](./209694-faith-and-shield-tower-defense-space-wars-game-2022.json) |
 | Faith Fighter 2 | 64375 | [64375-faith-fighter-2.json](./64375-faith-fighter-2.json) |
 | Faith in Despair | 287907 | [287907-faith-in-despair.json](./287907-faith-in-despair.json) |
+| Faith of Danschant: Hereafter | 247377 | [247377-faith-of-danschant-hereafter.json](./247377-faith-of-danschant-hereafter.json) |
 | Faith of Fate | 119668 | [119668-faith-of-fate.json](./119668-faith-of-fate.json) |
 | Faith of Life: Survive Edition | 340052 | [340052-faith-of-life-survive-edition.json](./340052-faith-of-life-survive-edition.json) |
 | Faith of the Guardians | 65743 | [65743-faith-of-the-guardians.json](./65743-faith-of-the-guardians.json) |
@@ -5124,6 +5125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flora and Sauna | 201035 | [201035-flora-and-sauna.json](./201035-flora-and-sauna.json) |
 | Flora and the Darkness | 175906 | [175906-flora-and-the-darkness.json](./175906-flora-and-the-darkness.json) |
 | Flora Corner | 336654 | [336654-flora-corner.json](./336654-flora-corner.json) |
+| Flora Domina | 247426 | [247426-flora-domina.json](./247426-flora-domina.json) |
 | Flora Learns to Sing! | 321332 | [321332-flora-learns-to-sing.json](./321332-flora-learns-to-sing.json) |
 | Flora Parasocial | 406765 | [406765-flora-parasocial.json](./406765-flora-parasocial.json) |
 | Floracide | 386977 | [386977-floracide.json](./386977-floracide.json) |
@@ -7067,6 +7069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frantic Freddy | 40894 | [40894-frantic-freddy.json](./40894-frantic-freddy.json) |
 | Frantic Freighter | 32022 | [32022-frantic-freighter.json](./32022-frantic-freighter.json) |
 | Frantic Frigates | 388194 | [388194-frantic-frigates.json](./388194-frantic-frigates.json) |
+| Frantic Mouse | 247394 | [247394-frantic-mouse.json](./247394-frantic-mouse.json) |
 | Frantic Oceans | 343780 | [343780-frantic-oceans.json](./343780-frantic-oceans.json) |
 | Franz | 250301 | [250301-franz.json](./250301-franz.json) |
 | Franzen | 263443 | [263443-franzen.json](./263443-franzen.json) |
