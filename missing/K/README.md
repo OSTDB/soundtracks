@@ -401,6 +401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kamui | 10983 | [10983-kamui.json](./10983-kamui.json) |
 | Kamura: Kamigami to Chigiri Shisha | 292095 | [292095-kamura-kamigami-to-chigiri-shisha.json](./292095-kamura-kamigami-to-chigiri-shisha.json) |
 | Kana | 303607 | [303607-kana.json](./303607-kana.json) |
+| Kana Ka-Boom | 272756 | [272756-kana-ka-boom.json](./272756-kana-ka-boom.json) |
 | Kana Mind | 387571 | [387571-kana-mind.json](./387571-kana-mind.json) |
 | Kana No Mado | 364728 | [364728-kana-no-mado.json](./364728-kana-no-mado.json) |
 | Kana Quest | 126495 | [126495-kana-quest.json](./126495-kana-quest.json) |
@@ -768,6 +769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Katou Hifumi Kudan no Shogi Kyoushitsu | 97858 | [97858-katou-hifumi-kudan-no-shogi-kyoushitsu.json](./97858-katou-hifumi-kudan-no-shogi-kyoushitsu.json) |
 | Katou Hifumi Kudan Shogi Club | 37742 | [37742-katou-hifumi-kudan-shogi-club.json](./37742-katou-hifumi-kudan-shogi-club.json) |
 | Kats Trigger | 372633 | [372633-kats-trigger.json](./372633-kats-trigger.json) |
+| Katsl | 272757 | [272757-katsl.json](./272757-katsl.json) |
 | KatsuobushiClicker | 401732 | [401732-katsuobushiclicker.json](./401732-katsuobushiclicker.json) |
 | Katsuragi Misato Houdou Keikaku | 68229 | [68229-katsuragi-misato-houdou-keikaku.json](./68229-katsuragi-misato-houdou-keikaku.json) |
 | Katsute Watashitachi ha Jigoku no Mattadanaka Deshita | 331896 | [331896-katsute-watashitachi-ha-jigoku-no-mattadanaka-deshita.json](./331896-katsute-watashitachi-ha-jigoku-no-mattadanaka-deshita.json) |
@@ -2977,6 +2979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knotmania | 97152 | [97152-knotmania.json](./97152-knotmania.json) |
 | Knots | 92681 | [92681-knots.json](./92681-knots.json) |
 | Knots 3D | 68912 | [68912-knots-3d.json](./68912-knots-3d.json) |
+| Know | 272745 | [272745-know.json](./272745-know.json) |
 | Know How | 343320 | [343320-know-how.json](./343320-know-how.json) |
 | Know more Thai | 214754 | [214754-know-more-thai.json](./214754-know-more-thai.json) |
 | Know That Flag! | 351006 | [351006-know-that-flag.json](./351006-know-that-flag.json) |
