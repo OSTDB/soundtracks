@@ -2822,6 +2822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aggres | 406171 | [406171-aggres.json](./406171-aggres.json) |
 | Aggression | 174670 | [174670-aggression.json](./174670-aggression.json) |
 | Aggressive Alpine Skiing | 216767 | [216767-aggressive-alpine-skiing.json](./216767-aggressive-alpine-skiing.json) |
+| Aggressive Inline | 242989 | [242989-aggressive-inline.json](./242989-aggressive-inline.json) |
 | Aggressive Inline | 3783 | [3783-aggressive-inline.json](./3783-aggressive-inline.json) |
 | Aggressive Robot Vacuum | 155687 | [155687-aggressive-robot-vacuum.json](./155687-aggressive-robot-vacuum.json) |
 | Aggressor | 13241 | [13241-aggressor.json](./13241-aggressor.json) |
@@ -9244,6 +9245,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asphalt: Nitro | 23310 | [23310-asphalt-nitro.json](./23310-asphalt-nitro.json) |
 | Asphalt: Urban GT | 243184 | [243184-asphalt-urban-gt.json](./243184-asphalt-urban-gt.json) |
 | Asphalt: Urban GT | 6260 | [6260-asphalt-urban-gt.json](./6260-asphalt-urban-gt.json) |
+| Asphalt: Urban GT 2 | 243028 | [243028-asphalt-urban-gt-2.json](./243028-asphalt-urban-gt-2.json) |
+| Asphalt: Urban GT 2 | 243029 | [243029-asphalt-urban-gt-2.json](./243029-asphalt-urban-gt-2.json) |
 | Asphalt: Urban GT 2 | 243030 | [243030-asphalt-urban-gt-2.json](./243030-asphalt-urban-gt-2.json) |
 | Asphodelium | 314015 | [314015-asphodelium.json](./314015-asphodelium.json) |
 | Asphyx | 418304 | [418304-asphyx.json](./418304-asphyx.json) |
