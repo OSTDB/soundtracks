@@ -5435,6 +5435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bitter Sweet Memories | 177906 | [177906-bitter-sweet-memories.json](./177906-bitter-sweet-memories.json) |
 | Bitter Tides | 106404 | [106404-bitter-tides.json](./106404-bitter-tides.json) |
 | Bitter-Sweet Cohabitation | 241372 | [241372-bitter-sweet-cohabitation.json](./241372-bitter-sweet-cohabitation.json) |
+| Bitter/Sweet Blythe | 259475 | [259475-bitter-sweet-blythe.json](./259475-bitter-sweet-blythe.json) |
 | Bitterroot | 181857 | [181857-bitterroot.json](./181857-bitterroot.json) |
 | Bittersweet | 133953 | [133953-bittersweet.json](./133953-bittersweet.json) |
 | Bittersweet Blossoms | 346214 | [346214-bittersweet-blossoms.json](./346214-bittersweet-blossoms.json) |
@@ -6534,6 +6535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Quest V | 61556 | [61556-block-quest-v.json](./61556-block-quest-v.json) |
 | Block Robot Mini Survival Game | 41918 | [41918-block-robot-mini-survival-game.json](./41918-block-robot-mini-survival-game.json) |
 | Block Rocking Beats | 37380 | [37380-block-rocking-beats.json](./37380-block-rocking-beats.json) |
+| Block Room | 259452 | [259452-block-room.json](./259452-block-room.json) |
 | Block Rush 3 | 369015 | [369015-block-rush-3.json](./369015-block-rush-3.json) |
 | Block Shock: The Last Chance | 14321 | [14321-block-shock-the-last-chance.json](./14321-block-shock-the-last-chance.json) |
 | Block Shop | 283387 | [283387-block-shop.json](./283387-block-shop.json) |
@@ -10551,6 +10553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bullet Box | 410199 | [410199-bullet-box.json](./410199-bullet-box.json) |
 | Bullet Break | 346017 | [346017-bullet-break.json](./346017-bullet-break.json) |
 | Bullet Butlers | 58052 | [58052-bullet-butlers.json](./58052-bullet-butlers.json) |
+| Bullet Butlers: Juudan no Kanata | 259483 | [259483-bullet-butlers-juudan-no-kanata.json](./259483-bullet-butlers-juudan-no-kanata.json) |
 | Bullet Cell | 136239 | [136239-bullet-cell.json](./136239-bullet-cell.json) |
 | Bullet Chain: Vessels | 390075 | [390075-bullet-chain-vessels.json](./390075-bullet-chain-vessels.json) |
 | Bullet Chase | 205032 | [205032-bullet-chase.json](./205032-bullet-chase.json) |
