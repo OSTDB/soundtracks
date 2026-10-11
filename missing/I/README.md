@@ -495,6 +495,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I'm Not Spider | 347801 | [347801-im-not-spider.json](./347801-im-not-spider.json) |
 | I'm O.K: A Murder Simulator | 50118 | [50118-im-o-k-a-murder-simulator.json](./50118-im-o-k-a-murder-simulator.json) |
 | I'm Oh, So Busy...:A Week with Yoshimi | 143527 | [143527-im-oh-so-busy-a-week-with-yoshimi.json](./143527-im-oh-so-busy-a-week-with-yoshimi.json) |
+| I'm On a Watcher Duty 2: Paranormal in Gensokyo | 246284 | [246284-im-on-a-watcher-duty-2-paranormal-in-gensokyo.json](./246284-im-on-a-watcher-duty-2-paranormal-in-gensokyo.json) |
+| I'm On a Watcher Duty 3: The Invasion | 246285 | [246285-im-on-a-watcher-duty-3-the-invasion.json](./246285-im-on-a-watcher-duty-3-the-invasion.json) |
+| I'm On a Watcher Duty 4: The Community Place | 246286 | [246286-im-on-a-watcher-duty-4-the-community-place.json](./246286-im-on-a-watcher-duty-4-the-community-place.json) |
+| I'm On a Watcher Duty 5: Returning to Gensokyo | 246287 | [246287-im-on-a-watcher-duty-5-returning-to-gensokyo.json](./246287-im-on-a-watcher-duty-5-returning-to-gensokyo.json) |
+| I'm On a Watcher Duty 6: Home of Anomalies | 246288 | [246288-im-on-a-watcher-duty-6-home-of-anomalies.json](./246288-im-on-a-watcher-duty-6-home-of-anomalies.json) |
+| I'm On a Watcher Duty 7: The Familiar Places | 246291 | [246291-im-on-a-watcher-duty-7-the-familiar-places.json](./246291-im-on-a-watcher-duty-7-the-familiar-places.json) |
 | I'm on a Watcher Duty: Anniversary Special | 259725 | [259725-im-on-a-watcher-duty-anniversary-special.json](./259725-im-on-a-watcher-duty-anniversary-special.json) |
 | I'm on Cirno Duty | 206931 | [206931-im-on-cirno-duty.json](./206931-im-on-cirno-duty.json) |
 | I'm on Merrymaking Watch | 237948 | [237948-im-on-merrymaking-watch.json](./237948-im-on-merrymaking-watch.json) |
