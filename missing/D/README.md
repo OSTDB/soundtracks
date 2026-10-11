@@ -6511,6 +6511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney's DuckTales | 6487 | [6487-disneys-ducktales.json](./6487-disneys-ducktales.json) |
 | Disney's DuckTales 2 | 145272 | [145272-disneys-ducktales-2.json](./145272-disneys-ducktales-2.json) |
 | Disney's DuckTales 2 | 6488 | [6488-disneys-ducktales-2.json](./6488-disneys-ducktales-2.json) |
+| Disney's Extreme Skate Adventure | 242994 | [242994-disneys-extreme-skate-adventure.json](./242994-disneys-extreme-skate-adventure.json) |
 | Disney's Extremely Goofy Skateboarding | 78286 | [78286-disneys-extremely-goofy-skateboarding.json](./78286-disneys-extremely-goofy-skateboarding.json) |
 | Disney's Goofy's Fun House | 43895 | [43895-disneys-goofys-fun-house.json](./43895-disneys-goofys-fun-house.json) |
 | Disney's Herbie: Rescue Rally | 73552 | [73552-disneys-herbie-rescue-rally.json](./73552-disneys-herbie-rescue-rally.json) |
@@ -8929,6 +8930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragalia Lost | 99118 | [99118-dragalia-lost.json](./99118-dragalia-lost.json) |
 | Dragenas | 297804 | [297804-dragenas.json](./297804-dragenas.json) |
 | Dragged Deep | 358364 | [358364-dragged-deep.json](./358364-dragged-deep.json) |
+| Draggexath's Dominion | 243031 | [243031-draggexaths-dominion.json](./243031-draggexaths-dominion.json) |
 | Draggin' | 345663 | [345663-draggin.json](./345663-draggin.json) |
 | Dragimon Dungeons | 342128 | [342128-dragimon-dungeons.json](./342128-dragimon-dungeons.json) |
 | Draginsanity | 157036 | [157036-draginsanity.json](./157036-draginsanity.json) |
