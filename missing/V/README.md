@@ -446,6 +446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vampire: Darkstalkers Collection | 20012 | [20012-vampire-darkstalkers-collection.json](./20012-vampire-darkstalkers-collection.json) |
 | Vampire: Master of Darkness | 8039 | [8039-vampire-master-of-darkness.json](./8039-vampire-master-of-darkness.json) |
 | Vampire: No Survivors | 364597 | [364597-vampire-no-survivors.json](./364597-vampire-no-survivors.json) |
+| Vampire: The Masquerade - Blood Frontier | 263387 | [263387-vampire-the-masquerade-blood-frontier.json](./263387-vampire-the-masquerade-blood-frontier.json) |
 | Vampire: The Masquerade - Bloodhunt | 152087 | [152087-vampire-the-masquerade-bloodhunt.json](./152087-vampire-the-masquerade-bloodhunt.json) |
 | Vampire: The Masquerade - Bloodlines 2 - Loose Cannon | 370209 | [370209-vampire-the-masquerade-bloodlines-2-loose-cannon.json](./370209-vampire-the-masquerade-bloodlines-2-loose-cannon.json) |
 | Vampire: The Masquerade - Bloodlines 2 - Santa Monica Memories | 361901 | [361901-vampire-the-masquerade-bloodlines-2-santa-monica-memories.json](./361901-vampire-the-masquerade-bloodlines-2-santa-monica-memories.json) |
