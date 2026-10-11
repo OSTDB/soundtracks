@@ -2056,6 +2056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jump Puzzle | 244369 | [244369-jump-puzzle.json](./244369-jump-puzzle.json) |
 | Jump Queen | 266119 | [266119-jump-queen.json](./266119-jump-queen.json) |
 | Jump Race | 324998 | [324998-jump-race.json](./324998-jump-race.json) |
+| Jump Room | 261164 | [261164-jump-room.json](./261164-jump-room.json) |
 | Jump Runner | 200543 | [200543-jump-runner.json](./200543-jump-runner.json) |
 | Jump Shot | 46858 | [46858-jump-shot.json](./46858-jump-shot.json) |
 | Jump Sky-High Collection | 334097 | [334097-jump-sky-high-collection.json](./334097-jump-sky-high-collection.json) |
