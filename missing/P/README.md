@@ -3776,6 +3776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pico Sonic | 181240 | [181240-pico-sonic.json](./181240-pico-sonic.json) |
 | Pico Tanks | 113584 | [113584-pico-tanks.json](./113584-pico-tanks.json) |
 | Pico Tanks: Multiplayer Mayhem | 130379 | [130379-pico-tanks-multiplayer-mayhem.json](./130379-pico-tanks-multiplayer-mayhem.json) |
+| Pico Topia | 272737 | [272737-pico-topia.json](./272737-pico-topia.json) |
 | Pico Tower | 284301 | [284301-pico-tower.json](./284301-pico-tower.json) |
 | Pico vs. Bear | 331683 | [331683-pico-vs-bear.json](./331683-pico-vs-bear.json) |
 | Pico-8 Multicart | 202717 | [202717-pico-8-multicart.json](./202717-pico-8-multicart.json) |
@@ -10646,6 +10647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pumpkin Delivery | 242234 | [242234-pumpkin-delivery.json](./242234-pumpkin-delivery.json) |
 | Pumpkin Dog Islands | 119664 | [119664-pumpkin-dog-islands.json](./119664-pumpkin-dog-islands.json) |
 | Pumpkin Farmer | 158177 | [158177-pumpkin-farmer.json](./158177-pumpkin-farmer.json) |
+| Pumpkin Game | 272744 | [272744-pumpkin-game.json](./272744-pumpkin-game.json) |
 | Pumpkin Ghost | 272269 | [272269-pumpkin-ghost.json](./272269-pumpkin-ghost.json) |
 | Pumpkin Invasion | 180025 | [180025-pumpkin-invasion.json](./180025-pumpkin-invasion.json) |
 | Pumpkin Jam | 269562 | [269562-pumpkin-jam.json](./269562-pumpkin-jam.json) |
