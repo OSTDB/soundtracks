@@ -1157,6 +1157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3 Foot Ninja | 241472 | [241472-3-foot-ninja.json](./241472-3-foot-ninja.json) |
 | 3 Games in 1: Tak and the Power of Juju / SpongeBob SquarePants: SuperSponge / Rugrats: I Gotta Go Party | 82098 | [82098-3-games-in-1-tak-and-the-power-of-juju-spongebob-squarepants-supersponge-rugrats-i-gotta-go-party.json](./82098-3-games-in-1-tak-and-the-power-of-juju-spongebob-squarepants-supersponge-rugrats-i-gotta-go-party.json) |
 | 3 Hell | 348916 | [348916-3-hell.json](./348916-3-hell.json) |
+| 3 Heures D'Agonie | 257264 | [257264-3-heures-dagonie.json](./257264-3-heures-dagonie.json) |
 | 3 Hit Blunders Bundle | 254418 | [254418-3-hit-blunders-bundle.json](./254418-3-hit-blunders-bundle.json) |
 | 3 in 1 College & Pro Football | 418709 | [418709-3-in-1-college-and-pro-football.json](./418709-3-in-1-college-and-pro-football.json) |
 | 3 in 1: Multiplayer Bundle | 223566 | [223566-3-in-1-multiplayer-bundle.json](./223566-3-in-1-multiplayer-bundle.json) |
@@ -1871,6 +1872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 8-Bit Panda | 136343 | [136343-8-bit-panda.json](./136343-8-bit-panda.json) |
 | 8-Bit Rebellion! | 255180 | [255180-8-bit-rebellion.json](./255180-8-bit-rebellion.json) |
 | 8-Bit Rhythm Land | 195498 | [195498-8-bit-rhythm-land.json](./195498-8-bit-rhythm-land.json) |
+| 8-Bit RPG Creator | 257266 | [257266-8-bit-rpg-creator.json](./257266-8-bit-rpg-creator.json) |
 | 8-Bit RPG Creator: Cuddly Creatures | 288683 | [288683-8-bit-rpg-creator-cuddly-creatures.json](./288683-8-bit-rpg-creator-cuddly-creatures.json) |
 | 8-Bit RPG Creator: Zombies Attack! | 288682 | [288682-8-bit-rpg-creator-zombies-attack.json](./288682-8-bit-rpg-creator-zombies-attack.json) |
 | 8-Bit Slasher 4-in-1 Horror Demakes | 237312 | [237312-8-bit-slasher-4-in-1-horror-demakes.json](./237312-8-bit-slasher-4-in-1-horror-demakes.json) |
@@ -1964,6 +1966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 9 Men's Morris | 351067 | [351067-9-mens-morris.json](./351067-9-mens-morris.json) |
 | 9 Monkeys of Shaolin | 94078 | [94078-9-monkeys-of-shaolin.json](./94078-9-monkeys-of-shaolin.json) |
 | 9 R.I.P. | 241526 | [241526-9-r-i-p.json](./241526-9-r-i-p.json) |
+| 9 R.I.P.: Special Edition | 257269 | [257269-9-r-i-p-special-edition.json](./257269-9-r-i-p-special-edition.json) |
 | 9 Realms | 258564 | [258564-9-realms.json](./258564-9-realms.json) |
 | 9 Souls | 357763 | [357763-9-souls.json](./357763-9-souls.json) |
 | 9 Till Void | 133230 | [133230-9-till-void.json](./133230-9-till-void.json) |
