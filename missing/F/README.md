@@ -450,6 +450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairy Kingdom: Castle of Magic | 235284 | [235284-fairy-kingdom-castle-of-magic.json](./235284-fairy-kingdom-castle-of-magic.json) |
 | Fairy Kitty no Kaiun Jiten: Yousei no Kuni no Uranai Shugyou | 65521 | [65521-fairy-kitty-no-kaiun-jiten-yousei-no-kuni-no-uranai-shugyou.json](./65521-fairy-kitty-no-kaiun-jiten-yousei-no-kuni-no-uranai-shugyou.json) |
 | Fairy Knights | 105943 | [105943-fairy-knights.json](./105943-fairy-knights.json) |
+| Fairy Land | 265555 | [265555-fairy-land.json](./265555-fairy-land.json) |
 | Fairy Lands: Rinka and the Fairy Gems | 52096 | [52096-fairy-lands-rinka-and-the-fairy-gems.json](./52096-fairy-lands-rinka-and-the-fairy-gems.json) |
 | Fairy Magic Skillz Tournaments | 232487 | [232487-fairy-magic-skillz-tournaments.json](./232487-fairy-magic-skillz-tournaments.json) |
 | Fairy Massage | 347664 | [347664-fairy-massage.json](./347664-fairy-massage.json) |
@@ -493,6 +494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairy Tower | 213964 | [213964-fairy-tower.json](./213964-fairy-tower.json) |
 | Fairy Tower | 218159 | [218159-fairy-tower.json](./218159-fairy-tower.json) |
 | Fairy Tower Defense | 107812 | [107812-fairy-tower-defense.json](./107812-fairy-tower-defense.json) |
+| Fairy Trails: Battle for Ever After | 265565 | [265565-fairy-trails-battle-for-ever-after.json](./265565-fairy-trails-battle-for-ever-after.json) |
 | Fairy Treasure - Brick Breaker | 108859 | [108859-fairy-treasure-brick-breaker.json](./108859-fairy-treasure-brick-breaker.json) |
 | Fairy Village | 233625 | [233625-fairy-village.json](./233625-fairy-village.json) |
 | Fairy Whale | 345991 | [345991-fairy-whale.json](./345991-fairy-whale.json) |
@@ -4672,6 +4674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flavor Favor | 248905 | [248905-flavor-favor.json](./248905-flavor-favor.json) |
 | Flavors of Spain | 407542 | [407542-flavors-of-spain.json](./407542-flavors-of-spain.json) |
 | Flavortown:VR | 118142 | [118142-flavortown-vr.json](./118142-flavortown-vr.json) |
+| Flaw | 265539 | [265539-flaw.json](./265539-flaw.json) |
 | Flawed Tactics | 291905 | [291905-flawed-tactics.json](./291905-flawed-tactics.json) |
 | Flawless | 219790 | [219790-flawless.json](./219790-flawless.json) |
 | Flawless Darkness | 260238 | [260238-flawless-darkness.json](./260238-flawless-darkness.json) |
@@ -6626,6 +6629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forza Street: Tap to Race | 237369 | [237369-forza-street-tap-to-race.json](./237369-forza-street-tap-to-race.json) |
 | FOS | 129637 | [129637-fos.json](./129637-fos.json) |
 | Fossil Corner | 150075 | [150075-fossil-corner.json](./150075-fossil-corner.json) |
+| Fossil Diggers VR | 265525 | [265525-fossil-diggers-vr.json](./265525-fossil-diggers-vr.json) |
 | Fossil Echo | 18231 | [18231-fossil-echo.json](./18231-fossil-echo.json) |
 | Fossil Echo: Special Edition | 53061 | [53061-fossil-echo-special-edition.json](./53061-fossil-echo-special-edition.json) |
 | Fossil Fighters | 20978 | [20978-fossil-fighters.json](./20978-fossil-fighters.json) |
