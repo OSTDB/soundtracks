@@ -1228,6 +1228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bananner Nababber | 211089 | [211089-bananner-nababber.json](./211089-bananner-nababber.json) |
 | Bananounce | 320974 | [320974-bananounce.json](./320974-bananounce.json) |
 | Banban Isle Rangers | 405584 | [405584-banban-isle-rangers.json](./405584-banban-isle-rangers.json) |
+| Banbard | 250842 | [250842-banbard.json](./250842-banbard.json) |
 | Banchou Tactics | 202786 | [202786-banchou-tactics.json](./202786-banchou-tactics.json) |
 | Banchou Tactics: Lion Heart | 418327 | [418327-banchou-tactics-lion-heart.json](./418327-banchou-tactics-lion-heart.json) |
 | Banco Imobiliário 2000 | 187876 | [187876-banco-imobiliario-2000.json](./187876-banco-imobiliario-2000.json) |
@@ -10882,6 +10883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burden of Truth | 306714 | [306714-burden-of-truth.json](./306714-burden-of-truth.json) |
 | Burden RPG | 388403 | [388403-burden-rpg.json](./388403-burden-rpg.json) |
 | Burden Street Station | 347812 | [347812-burden-street-station.json](./347812-burden-street-station.json) |
+| Burder | 250853 | [250853-burder.json](./250853-burder.json) |
 | Burdock 2 | 353766 | [353766-burdock-2.json](./353766-burdock-2.json) |
 | Bureau of Contacts | 288669 | [288669-bureau-of-contacts.json](./288669-bureau-of-contacts.json) |
 | Bureaucromancer | 408233 | [408233-bureaucromancer.json](./408233-bureaucromancer.json) |
@@ -10902,6 +10904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burger Chef Tycoon: Elite Edition | 332515 | [332515-burger-chef-tycoon-elite-edition.json](./332515-burger-chef-tycoon-elite-edition.json) |
 | Burger Chef Tycoon: Expansion Pack 1 | 238016 | [238016-burger-chef-tycoon-expansion-pack-1.json](./238016-burger-chef-tycoon-expansion-pack-1.json) |
 | Burger Chef Tycoon: GOTY Edition | 273629 | [273629-burger-chef-tycoon-goty-edition.json](./273629-burger-chef-tycoon-goty-edition.json) |
+| Burger Cooking Simulator | 250855 | [250855-burger-cooking-simulator.json](./250855-burger-cooking-simulator.json) |
 | Burger For Me | 180607 | [180607-burger-for-me.json](./180607-burger-for-me.json) |
 | Burger Fun | 205254 | [205254-burger-fun.json](./205254-burger-fun.json) |
 | Burger Girl Clicker | 337814 | [337814-burger-girl-clicker.json](./337814-burger-girl-clicker.json) |
