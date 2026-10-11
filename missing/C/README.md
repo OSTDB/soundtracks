@@ -108,6 +108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cabin Corpse | 303718 | [303718-cabin-corpse.json](./303718-cabin-corpse.json) |
 | Cabin Crew Life Simulator | 302423 | [302423-cabin-crew-life-simulator.json](./302423-cabin-crew-life-simulator.json) |
 | Cabin Escape | 362984 | [362984-cabin-escape.json](./362984-cabin-escape.json) |
+| Cabin of Shadows: Dueling Impostors | 258391 | [258391-cabin-of-shadows-dueling-impostors.json](./258391-cabin-of-shadows-dueling-impostors.json) |
 | Cabin of Souls | 254002 | [254002-cabin-of-souls.json](./254002-cabin-of-souls.json) |
 | Cabin Rush | 248004 | [248004-cabin-rush.json](./248004-cabin-rush.json) |
 | Cabinet of Curiosities VR | 201691 | [201691-cabinet-of-curiosities-vr.json](./201691-cabinet-of-curiosities-vr.json) |
@@ -10814,6 +10815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crocodile Transformator | 217388 | [217388-crocodile-transformator.json](./217388-crocodile-transformator.json) |
 | Crocodingus in Cube Island | 213862 | [213862-crocodingus-in-cube-island.json](./213862-crocodingus-in-cube-island.json) |
 | Crocodracula: The Beginning | 216331 | [216331-crocodracula-the-beginning.json](./216331-crocodracula-the-beginning.json) |
+| Crocogame | 258380 | [258380-crocogame.json](./258380-crocogame.json) |
 | Crocolike | 180608 | [180608-crocolike.json](./180608-crocolike.json) |
 | CrocoMars | 86565 | [86565-crocomars.json](./86565-crocomars.json) |
 | CrocPond | 91741 | [91741-crocpond.json](./91741-crocpond.json) |
@@ -12058,6 +12060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curse Errant | 278928 | [278928-curse-errant.json](./278928-curse-errant.json) |
 | Curse in our heads | 103452 | [103452-curse-in-our-heads.json](./103452-curse-in-our-heads.json) |
 | Curse of Anabelle | 122826 | [122826-curse-of-anabelle.json](./122826-curse-of-anabelle.json) |
+| Curse of Blood | 258377 | [258377-curse-of-blood.json](./258377-curse-of-blood.json) |
 | Curse of Blood | 312893 | [312893-curse-of-blood.json](./312893-curse-of-blood.json) |
 | Curse of Dares | 303673 | [303673-curse-of-dares.json](./303673-curse-of-dares.json) |
 | Curse of Deflection | 404204 | [404204-curse-of-deflection.json](./404204-curse-of-deflection.json) |
@@ -12673,6 +12676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CyberTD: Cartridge Card Style | 382439 | [382439-cybertd-cartridge-card-style.json](./382439-cybertd-cartridge-card-style.json) |
 | CyberThreat | 253326 | [253326-cyberthreat.json](./253326-cyberthreat.json) |
 | CyberThreat | 31603 | [31603-cyberthreat.json](./31603-cyberthreat.json) |
+| Cybertrash Statyx | 258390 | [258390-cybertrash-statyx.json](./258390-cybertrash-statyx.json) |
 | Cyberush | 154352 | [154352-cyberush.json](./154352-cyberush.json) |
 | CyberVerse | 280898 | [280898-cyberverse.json](./280898-cyberverse.json) |
 | CyberVerse | 345103 | [345103-cyberverse.json](./345103-cyberverse.json) |
