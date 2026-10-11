@@ -71,6 +71,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nagayami Nights | 286128 | [286128-nagayami-nights.json](./286128-nagayami-nights.json) |
 | Nage Libre: Seijaku no Suishin | 37915 | [37915-nage-libre-seijaku-no-suishin.json](./37915-nage-libre-seijaku-no-suishin.json) |
 | Nagi no Koi | 304834 | [304834-nagi-no-koi.json](./304834-nagi-no-koi.json) |
+| NagiQ 2: Treasure Hunt | 239555 | [239555-nagiq-2-treasure-hunt.json](./239555-nagiq-2-treasure-hunt.json) |
 | Naheulbeuk's Dungeon Master | 252851 | [252851-naheulbeuks-dungeon-master.json](./252851-naheulbeuks-dungeon-master.json) |
 | Naheulbeuk's Dungeon Master: Steward Edition | 277029 | [277029-naheulbeuks-dungeon-master-steward-edition.json](./277029-naheulbeuks-dungeon-master-steward-edition.json) |
 | Nahi's Winter Holidate | 386736 | [386736-nahis-winter-holidate.json](./386736-nahis-winter-holidate.json) |
