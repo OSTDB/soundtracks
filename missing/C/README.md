@@ -468,6 +468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty: Modern Warfare III - Season 5 | 308961 | [308961-call-of-duty-modern-warfare-iii-season-5.json](./308961-call-of-duty-modern-warfare-iii-season-5.json) |
 | Call of Duty: Modern Warfare III - Season 6 | 318510 | [318510-call-of-duty-modern-warfare-iii-season-6.json](./318510-call-of-duty-modern-warfare-iii-season-6.json) |
 | Call of Duty: Modern Warfare III - Tech Luxe Pro Pack | 291077 | [291077-call-of-duty-modern-warfare-iii-tech-luxe-pro-pack.json](./291077-call-of-duty-modern-warfare-iii-tech-luxe-pro-pack.json) |
+| Call of Duty: Modern Warfare III - Vault Edition | 276133 | [276133-call-of-duty-modern-warfare-iii-vault-edition.json](./276133-call-of-duty-modern-warfare-iii-vault-edition.json) |
 | Call of Duty: Modern Warfare Remastered - Variety Map Pack | 168155 | [168155-call-of-duty-modern-warfare-remastered-variety-map-pack.json](./168155-call-of-duty-modern-warfare-remastered-variety-map-pack.json) |
 | Call of Duty: Modern Warfare Trilogy | 42975 | [42975-call-of-duty-modern-warfare-trilogy.json](./42975-call-of-duty-modern-warfare-trilogy.json) |
 | Call of Duty: Roads to Victory | 3120 | [3120-call-of-duty-roads-to-victory.json](./3120-call-of-duty-roads-to-victory.json) |
@@ -2814,6 +2815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cave Bowling | 87262 | [87262-cave-bowling.json](./87262-cave-bowling.json) |
 | Cave Brawlers | 82034 | [82034-cave-brawlers.json](./82034-cave-brawlers.json) |
 | Cave Chaos | 250612 | [250612-cave-chaos.json](./250612-cave-chaos.json) |
+| Cave Chaos 2 | 276105 | [276105-cave-chaos-2.json](./276105-cave-chaos-2.json) |
 | Cave Command | 292609 | [292609-cave-command.json](./292609-cave-command.json) |
 | Cave Confectioner | 126987 | [126987-cave-confectioner.json](./126987-cave-confectioner.json) |
 | Cave Crave: Tham Luang Cave VR | 406192 | [406192-cave-crave-tham-luang-cave-vr.json](./406192-cave-crave-tham-luang-cave-vr.json) |
@@ -6828,6 +6830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coffee & Boobs | 347219 | [347219-coffee-and-boobs.json](./347219-coffee-and-boobs.json) |
 | Coffee Addict | 62808 | [62808-coffee-addict.json](./62808-coffee-addict.json) |
 | Coffee At Night | 339351 | [339351-coffee-at-night.json](./339351-coffee-at-night.json) |
+| Coffee Brakes | 276207 | [276207-coffee-brakes.json](./276207-coffee-brakes.json) |
 | Coffee Break | 326214 | [326214-coffee-break.json](./326214-coffee-break.json) |
 | Coffee Break | 71743 | [71743-coffee-break.json](./71743-coffee-break.json) |
 | Coffee Break: Head to Head | 207277 | [207277-coffee-break-head-to-head.json](./207277-coffee-break-head-to-head.json) |
@@ -6949,6 +6952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cold Abyss | 275906 | [275906-cold-abyss.json](./275906-cold-abyss.json) |
 | Cold Abyss | 325709 | [325709-cold-abyss.json](./325709-cold-abyss.json) |
 | Cold Alley | 74335 | [74335-cold-alley.json](./74335-cold-alley.json) |
+| Cold and Unforgiving | 276108 | [276108-cold-and-unforgiving.json](./276108-cold-and-unforgiving.json) |
 | Cold Bite | 115008 | [115008-cold-bite.json](./115008-cold-bite.json) |
 | Cold Blooded | 338875 | [338875-cold-blooded.json](./338875-cold-blooded.json) |
 | Cold Boot | 348876 | [348876-cold-boot.json](./348876-cold-boot.json) |
