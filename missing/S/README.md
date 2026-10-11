@@ -9860,6 +9860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Social Club VR : Casino Nights | 130746 | [130746-social-club-vr-casino-nights.json](./130746-social-club-vr-casino-nights.json) |
 | Social Democracy: An Alternate History | 301376 | [301376-social-democracy-an-alternate-history.json](./301376-social-democracy-an-alternate-history.json) |
 | Social Democracy: Petrograd 1917 - An Alternate History | 345454 | [345454-social-democracy-petrograd-1917-an-alternate-history.json](./345454-social-democracy-petrograd-1917-an-alternate-history.json) |
+| Social Dev Story | 276131 | [276131-social-dev-story.json](./276131-social-dev-story.json) |
 | Social Distancing Simulator | 166204 | [166204-social-distancing-simulator.json](./166204-social-distancing-simulator.json) |
 | Social Hook | 333000 | [333000-social-hook.json](./333000-social-hook.json) |
 | Social Interaction Trainer | 31531 | [31531-social-interaction-trainer.json](./31531-social-interaction-trainer.json) |
@@ -21738,6 +21739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweeper Zero | 107870 | [107870-sweeper-zero.json](./107870-sweeper-zero.json) |
 | Sweepers Mine | 252914 | [252914-sweepers-mine.json](./252914-sweepers-mine.json) |
 | Sweepminer | 377044 | [377044-sweepminer.json](./377044-sweepminer.json) |
+| Sweet | 276107 | [276107-sweet.json](./276107-sweet.json) |
 | Sweet Adventure | 392916 | [392916-sweet-adventure.json](./392916-sweet-adventure.json) |
 | Sweet and Cute | 169381 | [169381-sweet-and-cute.json](./169381-sweet-and-cute.json) |
 | Sweet Ange | 282666 | [282666-sweet-ange.json](./282666-sweet-ange.json) |
