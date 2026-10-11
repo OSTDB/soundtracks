@@ -1381,6 +1381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gauge | 9837 | [9837-gauge.json](./9837-gauge.json) |
 | Gauge Guessr | 409727 | [409727-gauge-guessr.json](./409727-gauge-guessr.json) |
 | Gauge of Rage | 107779 | [107779-gauge-of-rage.json](./107779-gauge-of-rage.json) |
+| Gaula Survival | 272766 | [272766-gaula-survival.json](./272766-gaula-survival.json) |
 | Gauley | 341327 | [341327-gauley.json](./341327-gauley.json) |
 | Gaung | 362998 | [362998-gaung.json](./362998-gaung.json) |
 | Gauntlet | 330890 | [330890-gauntlet.json](./330890-gauntlet.json) |
@@ -3518,6 +3519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goblin: Mutation | 366331 | [366331-goblin-mutation.json](./366331-goblin-mutation.json) |
 | Goblin.Life | 172190 | [172190-goblin-life.json](./172190-goblin-life.json) |
 | Goblin's Bizarre Adventure | 273644 | [273644-goblins-bizarre-adventure.json](./273644-goblins-bizarre-adventure.json) |
+| Goblin's Die | 272767 | [272767-goblins-die.json](./272767-goblins-die.json) |
 | Goblin's Expedition | 217014 | [217014-goblins-expedition.json](./217014-goblins-expedition.json) |
 | Goblin's Gamble 24 | 395045 | [395045-goblins-gamble-24.json](./395045-goblins-gamble-24.json) |
 | Goblin's Workshop | 248168 | [248168-goblins-workshop.json](./248168-goblins-workshop.json) |
@@ -4239,7 +4241,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Good Night, Peregrine | 222936 | [222936-good-night-peregrine.json](./222936-good-night-peregrine.json) |
 | Good Night, Rowan | 178564 | [178564-good-night-rowan.json](./178564-good-night-rowan.json) |
 | Good Pizza, Great Pizza | 87367 | [87367-good-pizza-great-pizza.json](./87367-good-pizza-great-pizza.json) |
+| Good Pizza, Great Pizza: Bewitched Garden Set - Halloween 2022 | 272751 | [272751-good-pizza-great-pizza-bewitched-garden-set-halloween-2022.json](./272751-good-pizza-great-pizza-bewitched-garden-set-halloween-2022.json) |
 | Good Pizza, Great Pizza: Floral Nostalgia Set | 249302 | [249302-good-pizza-great-pizza-floral-nostalgia-set.json](./249302-good-pizza-great-pizza-floral-nostalgia-set.json) |
+| Good Pizza, Great Pizza: Mysterious Antiques Set - Halloween 2022 | 272752 | [272752-good-pizza-great-pizza-mysterious-antiques-set-halloween-2022.json](./272752-good-pizza-great-pizza-mysterious-antiques-set-halloween-2022.json) |
 | Good Pizza, Great Pizza: Orchid Dreams Set | 249303 | [249303-good-pizza-great-pizza-orchid-dreams-set.json](./249303-good-pizza-great-pizza-orchid-dreams-set.json) |
 | Good Pizza, Great Pizza: Summer Slices Set - Summer 2023 | 255980 | [255980-good-pizza-great-pizza-summer-slices-set-summer-2023.json](./255980-good-pizza-great-pizza-summer-slices-set-summer-2023.json) |
 | Good Pizza, Great Pizza: Taste of Rome Set - Chapter 5 | 266521 | [266521-good-pizza-great-pizza-taste-of-rome-set-chapter-5.json](./266521-good-pizza-great-pizza-taste-of-rome-set-chapter-5.json) |
@@ -5665,6 +5669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grim Nights | 110185 | [110185-grim-nights.json](./110185-grim-nights.json) |
 | Grim Omens | 319199 | [319199-grim-omens.json](./319199-grim-omens.json) |
 | Grim Path | 393600 | [393600-grim-path.json](./393600-grim-path.json) |
+| Grim Potions | 272759 | [272759-grim-potions.json](./272759-grim-potions.json) |
 | Grim Prix | 266756 | [266756-grim-prix.json](./266756-grim-prix.json) |
 | Grim Quest | 195269 | [195269-grim-quest.json](./195269-grim-quest.json) |
 | Grim Reaper RPG | 134617 | [134617-grim-reaper-rpg.json](./134617-grim-reaper-rpg.json) |
