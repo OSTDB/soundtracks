@@ -3621,6 +3621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Finite State Automaton Challenges 2 | 278926 | [278926-finite-state-automaton-challenges-2.json](./278926-finite-state-automaton-challenges-2.json) |
 | Finity | 322936 | [322936-finity.json](./322936-finity.json) |
 | Finkles World | 66947 | [66947-finkles-world.json](./66947-finkles-world.json) |
+| Finland Corruption Simulator | 245771 | [245771-finland-corruption-simulator.json](./245771-finland-corruption-simulator.json) |
 | Finland Corruption Simulator: World Corruption | 294073 | [294073-finland-corruption-simulator-world-corruption.json](./294073-finland-corruption-simulator-world-corruption.json) |
 | Finn and Jake's Epic Quest | 356231 | [356231-finn-and-jakes-epic-quest.json](./356231-finn-and-jakes-epic-quest.json) |
 | Finn Dorset's Institute For Livestock Replication | 321144 | [321144-finn-dorsets-institute-for-livestock-replication.json](./321144-finn-dorsets-institute-for-livestock-replication.json) |
@@ -4637,6 +4638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flappy Zegeta | 56542 | [56542-flappy-zegeta.json](./56542-flappy-zegeta.json) |
 | Flappy: The Angry Bird | 144272 | [144272-flappy-the-angry-bird.json](./144272-flappy-the-angry-bird.json) |
 | FlappyParrot | 369655 | [369655-flappyparrot.json](./369655-flappyparrot.json) |
+| FlapTap Jo | 245756 | [245756-flaptap-jo.json](./245756-flaptap-jo.json) |
 | Flare Nuinui Quest | 210244 | [210244-flare-nuinui-quest.json](./210244-flare-nuinui-quest.json) |
 | Flare Nuinui Quest | 320719 | [320719-flare-nuinui-quest.json](./320719-flare-nuinui-quest.json) |
 | Flarebound | 373621 | [373621-flarebound.json](./373621-flarebound.json) |
@@ -5037,6 +5039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flo Boarding | 47563 | [47563-flo-boarding.json](./47563-flo-boarding.json) |
 | Floain | 290472 | [290472-floain.json](./290472-floain.json) |
 | Floain Plus | 375978 | [375978-floain-plus.json](./375978-floain-plus.json) |
+| Float | 245770 | [245770-float.json](./245770-float.json) |
 | Float Gallery | 51560 | [51560-float-gallery.json](./51560-float-gallery.json) |
 | Float Night | 111521 | [111521-float-night.json](./111521-float-night.json) |
 | Float: Champions | 257948 | [257948-float-champions.json](./257948-float-champions.json) |
@@ -7938,6 +7941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frozen Drift Race | 30185 | [30185-frozen-drift-race.json](./30185-frozen-drift-race.json) |
 | Frozen Feathers | 362266 | [362266-frozen-feathers.json](./362266-frozen-feathers.json) |
 | Frozen Forward | 383967 | [383967-frozen-forward.json](./383967-frozen-forward.json) |
+| Frozen Free Fall: Icy Shot | 245757 | [245757-frozen-free-fall-icy-shot.json](./245757-frozen-free-fall-icy-shot.json) |
 | Frozen Friends | 146683 | [146683-frozen-friends.json](./146683-frozen-friends.json) |
 | Frozen Fruits | 307334 | [307334-frozen-fruits.json](./307334-frozen-fruits.json) |
 | Frozen Heart | 311460 | [311460-frozen-heart.json](./311460-frozen-heart.json) |
