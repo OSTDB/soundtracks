@@ -157,6 +157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F1 Grand Prix | 38472 | [38472-f1-grand-prix.json](./38472-f1-grand-prix.json) |
 | F1 Manager | 213266 | [213266-f1-manager.json](./213266-f1-manager.json) |
 | F1 Manager 2023 | 247383 | [247383-f1-manager-2023.json](./247383-f1-manager-2023.json) |
+| F1 Manager 2023: Deluxe Edition | 252613 | [252613-f1-manager-2023-deluxe-edition.json](./252613-f1-manager-2023-deluxe-edition.json) |
 | F1 Manager 2024 | 290808 | [290808-f1-manager-2024.json](./290808-f1-manager-2024.json) |
 | F1 Manager 2024: Abstract Livery Pack | 339292 | [339292-f1-manager-2024-abstract-livery-pack.json](./339292-f1-manager-2024-abstract-livery-pack.json) |
 | F1 Manager 2024: Deluxe Edition | 309629 | [309629-f1-manager-2024-deluxe-edition.json](./309629-f1-manager-2024-deluxe-edition.json) |
@@ -7856,6 +7857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frontline: Afrika Korps | 391276 | [391276-frontline-afrika-korps.json](./391276-frontline-afrika-korps.json) |
 | Frontline: Road to Moscow | 17526 | [17526-frontline-road-to-moscow.json](./17526-frontline-road-to-moscow.json) |
 | Frontline: The Longest Day | 175270 | [175270-frontline-the-longest-day.json](./175270-frontline-the-longest-day.json) |
+| FrontlineGrunt | 252614 | [252614-frontlinegrunt.json](./252614-frontlinegrunt.json) |
 | Froojarspootz! The Cleaning Monster | 387513 | [387513-froojarspootz-the-cleaning-monster.json](./387513-froojarspootz-the-cleaning-monster.json) |
 | Froot Basket Valentine | 179720 | [179720-froot-basket-valentine.json](./179720-froot-basket-valentine.json) |
 | Frooty Loops | 364695 | [364695-frooty-loops.json](./364695-frooty-loops.json) |
