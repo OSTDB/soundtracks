@@ -1160,6 +1160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vic Panic | 130371 | [130371-vic-panic.json](./130371-vic-panic.json) |
 | VIC Scramble | 92825 | [92825-vic-scramble.json](./92825-vic-scramble.json) |
 | ViCam | 142857 | [142857-vicam.json](./142857-vicam.json) |
+| Vicarious | 274435 | [274435-vicarious.json](./274435-vicarious.json) |
 | VICCP 2 Core | 244840 | [244840-viccp-2-core.json](./244840-viccp-2-core.json) |
 | Vice City Big Mission Pack | 403800 | [403800-vice-city-big-mission-pack.json](./403800-vice-city-big-mission-pack.json) |
 | Vice City Race | 272392 | [272392-vice-city-race.json](./272392-vice-city-race.json) |
