@@ -1575,6 +1575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tap To 1000 | 359573 | [359573-tap-to-1000.json](./359573-tap-to-1000.json) |
 | Tap to Build | 245337 | [245337-tap-to-build.json](./245337-tap-to-build.json) |
 | Tap to Dive | 233090 | [233090-tap-to-dive.json](./233090-tap-to-dive.json) |
+| Tap To Jump On Time 3D | 254389 | [254389-tap-to-jump-on-time-3d.json](./254389-tap-to-jump-on-time-3d.json) |
 | Tap Tricks | 176962 | [176962-tap-tricks.json](./176962-tap-tricks.json) |
 | Tap Tycoon | 58195 | [58195-tap-tycoon.json](./58195-tap-tycoon.json) |
 | Tap Wars: Earth Defense Force 4.1 - The Shadow of New Despair | 220219 | [220219-tap-wars-earth-defense-force-4-1-the-shadow-of-new-despair.json](./220219-tap-wars-earth-defense-force-4-1-the-shadow-of-new-despair.json) |
@@ -7950,7 +7951,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Zelda: Breath of the Wild - Special Edition | 136337 | [136337-the-legend-of-zelda-breath-of-the-wild-special-edition.json](./136337-the-legend-of-zelda-breath-of-the-wild-special-edition.json) |
 | The Legend of Zelda: Breath of the Wild - Starter Edition | 216236 | [216236-the-legend-of-zelda-breath-of-the-wild-starter-edition.json](./216236-the-legend-of-zelda-breath-of-the-wild-starter-edition.json) |
 | The Legend of Zelda: Breath of the Wild - The Champions' Ballad | 41826 | [41826-the-legend-of-zelda-breath-of-the-wild-the-champions-ballad.json](./41826-the-legend-of-zelda-breath-of-the-wild-the-champions-ballad.json) |
+| The Legend of Zelda: Breath of the Wild - The Lost Records | 254406 | [254406-the-legend-of-zelda-breath-of-the-wild-the-lost-records.json](./254406-the-legend-of-zelda-breath-of-the-wild-the-lost-records.json) |
 | The Legend of Zelda: Breath of the Wild - The Master Trials | 41825 | [41825-the-legend-of-zelda-breath-of-the-wild-the-master-trials.json](./41825-the-legend-of-zelda-breath-of-the-wild-the-master-trials.json) |
+| The Legend of Zelda: Breath of the Wild - Throwback Expansion | 254404 | [254404-the-legend-of-zelda-breath-of-the-wild-throwback-expansion.json](./254404-the-legend-of-zelda-breath-of-the-wild-throwback-expansion.json) |
 | The Legend of Zelda: Breath of the Wild and The Legend of Zelda: Breath of the Wild Expansion Pass Bundle | 237895 | [237895-the-legend-of-zelda-breath-of-the-wild-and-the-legend-of-zelda-breath-of-the-wild-expansion-pass-bundle.json](./237895-the-legend-of-zelda-breath-of-the-wild-and-the-legend-of-zelda-breath-of-the-wild-expansion-pass-bundle.json) |
 | The Legend of Zelda: Breath of the Wild Multiplayer | 210652 | [210652-the-legend-of-zelda-breath-of-the-wild-multiplayer.json](./210652-the-legend-of-zelda-breath-of-the-wild-multiplayer.json) |
 | The Legend of Zelda: Breath of the Wild Randomizer | 240878 | [240878-the-legend-of-zelda-breath-of-the-wild-randomizer.json](./240878-the-legend-of-zelda-breath-of-the-wild-randomizer.json) |
@@ -9282,6 +9285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Peanuts Movie: Snoopy's Grand Adventure | 18993 | [18993-the-peanuts-movie-snoopys-grand-adventure.json](./18993-the-peanuts-movie-snoopys-grand-adventure.json) |
 | The Pedestrian | 25837 | [25837-the-pedestrian.json](./25837-the-pedestrian.json) |
 | The Peephole's Chronicles: Weird John | 150030 | [150030-the-peepholes-chronicles-weird-john.json](./150030-the-peepholes-chronicles-weird-john.json) |
+| The Pegasus Expedition: Grand Admiral Edition | 254413 | [254413-the-pegasus-expedition-grand-admiral-edition.json](./254413-the-pegasus-expedition-grand-admiral-edition.json) |
 | The Pellar | 247603 | [247603-the-pellar.json](./247603-the-pellar.json) |
 | The Penguin Factory | 118790 | [118790-the-penguin-factory.json](./118790-the-penguin-factory.json) |
 | The Penguin Game: Antarctic Savior | 242482 | [242482-the-penguin-game-antarctic-savior.json](./242482-the-penguin-game-antarctic-savior.json) |
@@ -10305,6 +10309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Silicon Shadow | 252260 | [252260-the-silicon-shadow.json](./252260-the-silicon-shadow.json) |
 | The Silk Road of the Eastern Dynasty | 211665 | [211665-the-silk-road-of-the-eastern-dynasty.json](./211665-the-silk-road-of-the-eastern-dynasty.json) |
 | The Silver Age | 209556 | [209556-the-silver-age.json](./209556-the-silver-age.json) |
+| The Silver Bullet | 254391 | [254391-the-silver-bullet.json](./254391-the-silver-bullet.json) |
 | The Silver Case | 21560 | [21560-the-silver-case.json](./21560-the-silver-case.json) |
 | The Silver Case 2425 | 144216 | [144216-the-silver-case-2425.json](./144216-the-silver-case-2425.json) |
 | The Silver Case 2425: Deluxe Edition | 146185 | [146185-the-silver-case-2425-deluxe-edition.json](./146185-the-silver-case-2425-deluxe-edition.json) |
@@ -19028,6 +19033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trenga Unlimited | 147257 | [147257-trenga-unlimited.json](./147257-trenga-unlimited.json) |
 | Trepa | 180027 | [180027-trepa.json](./180027-trepa.json) |
 | Trepang2 | 126212 | [126212-trepang2.json](./126212-trepang2.json) |
+| Trepang2: Banger Edition | 254414 | [254414-trepang2-banger-edition.json](./254414-trepang2-banger-edition.json) |
 | Trepang2: Digital Deluxe Edition | 287625 | [287625-trepang2-digital-deluxe-edition.json](./287625-trepang2-digital-deluxe-edition.json) |
 | Tres | 319800 | [319800-tres.json](./319800-tres.json) |
 | Tres Acordes | 230757 | [230757-tres-acordes.json](./230757-tres-acordes.json) |
@@ -20377,6 +20383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turtle Riders: Adventure Begins | 333796 | [333796-turtle-riders-adventure-begins.json](./333796-turtle-riders-adventure-begins.json) |
 | Turtle River RPG | 304564 | [304564-turtle-river-rpg.json](./304564-turtle-river-rpg.json) |
 | Turtle Rush | 122368 | [122368-turtle-rush.json](./122368-turtle-rush.json) |
+| Turtle Rush | 254386 | [254386-turtle-rush.json](./254386-turtle-rush.json) |
 | Turtle Ship | 38554 | [38554-turtle-ship.json](./38554-turtle-ship.json) |
 | Turtle Tale | 79280 | [79280-turtle-tale.json](./79280-turtle-tale.json) |
 | Turtle VR | 128448 | [128448-turtle-vr.json](./128448-turtle-vr.json) |
