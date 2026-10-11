@@ -2637,6 +2637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Initium | 112219 | [112219-initium.json](./112219-initium.json) |
 | Initium | 342793 | [342793-initium.json](./342793-initium.json) |
 | Initium Legenda | 192972 | [192972-initium-legenda.json](./192972-initium-legenda.json) |
+| Inize Warrior | 242440 | [242440-inize-warrior.json](./242440-inize-warrior.json) |
 | Injection | 60044 | [60044-injection.json](./60044-injection.json) |
 | Injection π 23: No Name, No Number | 121486 | [121486-injection-23-no-name-no-number.json](./121486-injection-23-no-name-no-number.json) |
 | Injection π23: No Name, No Number - Expansion Events | 274653 | [274653-injection-23-no-name-no-number-expansion-events.json](./274653-injection-23-no-name-no-number-expansion-events.json) |
@@ -4114,6 +4115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It Came From Within | 197203 | [197203-it-came-from-within.json](./197203-it-came-from-within.json) |
 | IT Clicker: Dinosaur in the Code World | 251002 | [251002-it-clicker-dinosaur-in-the-code-world.json](./251002-it-clicker-dinosaur-in-the-code-world.json) |
 | It Comes at Night | 412190 | [412190-it-comes-at-night.json](./412190-it-comes-at-night.json) |
+| It Comes in Waves | 242433 | [242433-it-comes-in-waves.json](./242433-it-comes-in-waves.json) |
 | It Consumes | 245778 | [245778-it-consumes.json](./245778-it-consumes.json) |
 | It Devours Our Souls | 184956 | [184956-it-devours-our-souls.json](./184956-it-devours-our-souls.json) |
 | It Doesn't Have to Be Like This | 299125 | [299125-it-doesnt-have-to-be-like-this.json](./299125-it-doesnt-have-to-be-like-this.json) |
