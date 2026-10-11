@@ -96,6 +96,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mace Griffin: Bounty Hunter | 5904 | [5904-mace-griffin-bounty-hunter.json](./5904-mace-griffin-bounty-hunter.json) |
 | Mace Knight | 391572 | [391572-mace-knight.json](./391572-mace-knight.json) |
 | Mace: The Dark Age | 3535 | [3535-mace-the-dark-age.json](./3535-mace-the-dark-age.json) |
+| Maces and Dices | 252028 | [252028-maces-and-dices.json](./252028-maces-and-dices.json) |
 | MacGolf | 288706 | [288706-macgolf.json](./288706-macgolf.json) |
 | MacGuffin | 34526 | [34526-macguffin.json](./34526-macguffin.json) |
 | Mach K9 | 300348 | [300348-mach-k9.json](./300348-mach-k9.json) |
@@ -3817,6 +3818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Sports Gold Collection | 406799 | [406799-maximum-sports-gold-collection.json](./406799-maximum-sports-gold-collection.json) |
 | Maximum Sports Silver Collection | 406071 | [406071-maximum-sports-silver-collection.json](./406071-maximum-sports-silver-collection.json) |
 | Maximum Surge | 94175 | [94175-maximum-surge.json](./94175-maximum-surge.json) |
+| Maximum Tough Guy | 252023 | [252023-maximum-tough-guy.json](./252023-maximum-tough-guy.json) |
 | Maximus | 333766 | [333766-maximus.json](./333766-maximus.json) |
 | Maximus 2: Fantasy Beat-Em-Up | 196574 | [196574-maximus-2-fantasy-beat-em-up.json](./196574-maximus-2-fantasy-beat-em-up.json) |
 | Maxit | 78372 | [78372-maxit.json](./78372-maxit.json) |
@@ -6214,6 +6216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metamorphosis Collection | 346801 | [346801-metamorphosis-collection.json](./346801-metamorphosis-collection.json) |
 | Metanet Hunter G4 | 382955 | [382955-metanet-hunter-g4.json](./382955-metanet-hunter-g4.json) |
 | Metaneurosis | 337286 | [337286-metaneurosis.json](./337286-metaneurosis.json) |
+| Metania | 252015 | [252015-metania.json](./252015-metania.json) |
 | Metanoia | 101326 | [101326-metanoia.json](./101326-metanoia.json) |
 | Metanoia | 179015 | [179015-metanoia.json](./179015-metanoia.json) |
 | Metanoia | 322564 | [322564-metanoia.json](./322564-metanoia.json) |
@@ -7913,6 +7916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Doom 2 | 95994 | [95994-mini-doom-2.json](./95994-mini-doom-2.json) |
 | Mini Drift Car | 337460 | [337460-mini-drift-car.json](./337460-mini-drift-car.json) |
 | Mini Drift Car: All Cars Key | 337461 | [337461-mini-drift-car-all-cars-key.json](./337461-mini-drift-car-all-cars-key.json) |
+| Mini Drifters: World Racing '89 | 252009 | [252009-mini-drifters-world-racing-89.json](./252009-mini-drifters-world-racing-89.json) |
 | Mini Dungeon | 326041 | [326041-mini-dungeon.json](./326041-mini-dungeon.json) |
 | Mini Dungeon | 357746 | [357746-mini-dungeon.json](./357746-mini-dungeon.json) |
 | Mini Fighters: Quest & Battle | 378404 | [378404-mini-fighters-quest-and-battle.json](./378404-mini-fighters-quest-and-battle.json) |
@@ -10155,6 +10159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monstromania | 19343 | [19343-monstromania.json](./19343-monstromania.json) |
 | Monstronomy | 264653 | [264653-monstronomy.json](./264653-monstronomy.json) |
 | Monstropoly | 215012 | [215012-monstropoly.json](./215012-monstropoly.json) |
+| Monstrosity | 252047 | [252047-monstrosity.json](./252047-monstrosity.json) |
 | Monstrous Love | 221200 | [221200-monstrous-love.json](./221200-monstrous-love.json) |
 | Monstrous Lovers | 148562 | [148562-monstrous-lovers.json](./148562-monstrous-lovers.json) |
 | Monstrous Realms | 236202 | [236202-monstrous-realms.json](./236202-monstrous-realms.json) |
@@ -10326,6 +10331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonbringer | 413478 | [413478-moonbringer.json](./413478-moonbringer.json) |
 | Mooncake Shop | 100989 | [100989-mooncake-shop.json](./100989-mooncake-shop.json) |
 | Mooncat's Trio | 308976 | [308976-mooncats-trio.json](./308976-mooncats-trio.json) |
+| Moonchild | 252022 | [252022-moonchild.json](./252022-moonchild.json) |
 | Moonchild | 36180 | [36180-moonchild.json](./36180-moonchild.json) |
 | Moonchrome. | 382931 | [382931-moonchrome.json](./382931-moonchrome.json) |
 | MoonDigger | 83830 | [83830-moondigger.json](./83830-moondigger.json) |
