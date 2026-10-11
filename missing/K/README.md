@@ -674,6 +674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Karting Grand Prix Minigame | 389121 | [389121-karting-grand-prix-minigame.json](./389121-karting-grand-prix-minigame.json) |
 | Karting with Animals | 303604 | [303604-karting-with-animals.json](./303604-karting-with-animals.json) |
 | KartKraft | 34354 | [34354-kartkraft.json](./34354-kartkraft.json) |
+| KartMania | 247365 | [247365-kartmania.json](./247365-kartmania.json) |
 | Kartofank VR | 72358 | [72358-kartofank-vr.json](./72358-kartofank-vr.json) |
 | Kartong - Death by Cardboard! | 77571 | [77571-kartong-death-by-cardboard.json](./77571-kartong-death-by-cardboard.json) |
 | Kartrider Rush | 186711 | [186711-kartrider-rush.json](./186711-kartrider-rush.json) |
