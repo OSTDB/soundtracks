@@ -4279,6 +4279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizards of Chaos | 216823 | [216823-wizards-of-chaos.json](./216823-wizards-of-chaos.json) |
 | Wizards of Nature | 329674 | [329674-wizards-of-nature.json](./329674-wizards-of-nature.json) |
 | Wizards of Waverly Place | 44065 | [44065-wizards-of-waverly-place.json](./44065-wizards-of-waverly-place.json) |
+| Wizards Quest: Adventure in the Kingdom | 274940 | [274940-wizards-quest-adventure-in-the-kingdom.json](./274940-wizards-quest-adventure-in-the-kingdom.json) |
 | Wizards Spell | 73834 | [73834-wizards-spell.json](./73834-wizards-spell.json) |
 | Wizards Tourney | 109438 | [109438-wizards-tourney.json](./109438-wizards-tourney.json) |
 | Wizards, Knights & Archers | 220719 | [220719-wizards-knights-and-archers.json](./220719-wizards-knights-and-archers.json) |
@@ -4363,6 +4364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wolf Riot | 193491 | [193491-wolf-riot.json](./193491-wolf-riot.json) |
 | Wolf Souls: Arena | 324331 | [324331-wolf-souls-arena.json](./324331-wolf-souls-arena.json) |
 | Wolf Tales: Online RPG Sim | 145950 | [145950-wolf-tales-online-rpg-sim.json](./145950-wolf-tales-online-rpg-sim.json) |
+| Wolf The Lone Hunt | 274968 | [274968-wolf-the-lone-hunt.json](./274968-wolf-the-lone-hunt.json) |
 | Wolf West | 261826 | [261826-wolf-west.json](./261826-wolf-west.json) |
 | Wolf: The Evolution Story | 108350 | [108350-wolf-the-evolution-story.json](./108350-wolf-the-evolution-story.json) |
 | Wolf's Gang | 142430 | [142430-wolfs-gang.json](./142430-wolfs-gang.json) |
@@ -5711,6 +5713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wretch | 366985 | [366985-wretch.json](./366985-wretch.json) |
 | Wretch: Divine Ascent | 352750 | [352750-wretch-divine-ascent.json](./352750-wretch-divine-ascent.json) |
 | Wretched Depths | 242595 | [242595-wretched-depths.json](./242595-wretched-depths.json) |
+| Wretched Flesh | 274941 | [274941-wretched-flesh.json](./274941-wretched-flesh.json) |
 | Wretched Star | 333083 | [333083-wretched-star.json](./333083-wretched-star.json) |
 | Wriggler | 46742 | [46742-wriggler.json](./46742-wriggler.json) |
 | Wrigglui | 280867 | [280867-wrigglui.json](./280867-wrigglui.json) |
