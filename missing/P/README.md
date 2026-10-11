@@ -5889,6 +5889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plants vs. Zombies 3: Welcome to Zomburbia | 120900 | [120900-plants-vs-zombies-3-welcome-to-zomburbia.json](./120900-plants-vs-zombies-3-welcome-to-zomburbia.json) |
 | Plants vs. Zombies Adventures | 77968 | [77968-plants-vs-zombies-adventures.json](./77968-plants-vs-zombies-adventures.json) |
 | Plants vs. Zombies Delturbia | 343926 | [343926-plants-vs-zombies-delturbia.json](./343926-plants-vs-zombies-delturbia.json) |
+| Plants vs. Zombies DS | 274397 | [274397-plants-vs-zombies-ds.json](./274397-plants-vs-zombies-ds.json) |
 | Plants vs. Zombies Garden Warfare 2: Deluxe Upgrade | 318695 | [318695-plants-vs-zombies-garden-warfare-2-deluxe-upgrade.json](./318695-plants-vs-zombies-garden-warfare-2-deluxe-upgrade.json) |
 | Plants vs. Zombies Plus | 271938 | [271938-plants-vs-zombies-plus.json](./271938-plants-vs-zombies-plus.json) |
 | Plants vs. Zombies: Battle for Neighborville | 121618 | [121618-plants-vs-zombies-battle-for-neighborville.json](./121618-plants-vs-zombies-battle-for-neighborville.json) |
@@ -8982,6 +8983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Princess of Tavern | 140320 | [140320-princess-of-tavern.json](./140320-princess-of-tavern.json) |
 | Princess of Tavern: Collector's Edition | 74543 | [74543-princess-of-tavern-collectors-edition.json](./74543-princess-of-tavern-collectors-edition.json) |
 | Princess of the Moon Ultimate | 200547 | [200547-princess-of-the-moon-ultimate.json](./200547-princess-of-the-moon-ultimate.json) |
+| Princess of the Moon: Allure of the Midnight Kiss | 274402 | [274402-princess-of-the-moon-allure-of-the-midnight-kiss.json](./274402-princess-of-the-moon-allure-of-the-midnight-kiss.json) |
 | Princess of the Tomb | 353862 | [353862-princess-of-the-tomb.json](./353862-princess-of-the-tomb.json) |
 | Princess of Zeven | 116165 | [116165-princess-of-zeven.json](./116165-princess-of-zeven.json) |
 | Princess Pairs - Games for Girls | 88108 | [88108-princess-pairs-games-for-girls.json](./88108-princess-pairs-games-for-girls.json) |
