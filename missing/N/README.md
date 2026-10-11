@@ -2644,6 +2644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Flight | 297492 | [297492-night-flight.json](./297492-night-flight.json) |
 | Night Flight | 42137 | [42137-night-flight.json](./42137-night-flight.json) |
 | Night Forest | 31285 | [31285-night-forest.json](./31285-night-forest.json) |
+| Night Freak | 263430 | [263430-night-freak.json](./263430-night-freak.json) |
 | Night Fright | 318402 | [318402-night-fright.json](./318402-night-fright.json) |
 | Night Furries | 367512 | [367512-night-furries.json](./367512-night-furries.json) |
 | Night Gal Summer | 229340 | [229340-night-gal-summer.json](./229340-night-gal-summer.json) |
