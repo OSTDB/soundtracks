@@ -266,6 +266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cairo's Tale: The Big Egg | 156114 | [156114-cairos-tale-the-big-egg.json](./156114-cairos-tale-the-big-egg.json) |
 | Caïssa Board | 152893 | [152893-caissa-board.json](./152893-caissa-board.json) |
 | Cajun Cop: The French Quarter Caper | 417496 | [417496-cajun-cop-the-french-quarter-caper.json](./417496-cajun-cop-the-french-quarter-caper.json) |
+| Cake Bakery | 245204 | [245204-cake-bakery.json](./245204-cake-bakery.json) |
 | Cake Bash | 113826 | [113826-cake-bash.json](./113826-cake-bash.json) |
 | Cake Bites Make & Bake: Cooking Dessert Kids Game | 109012 | [109012-cake-bites-make-and-bake-cooking-dessert-kids-game.json](./109012-cake-bites-make-and-bake-cooking-dessert-kids-game.json) |
 | Cake Duel | 134401 | [134401-cake-duel.json](./134401-cake-duel.json) |
@@ -1268,6 +1269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Parking Game 3D - Real City Driving School | 83585 | [83585-car-parking-game-3d-real-city-driving-school.json](./83585-car-parking-game-3d-real-city-driving-school.json) |
 | Car Parking Legends: Drive & Park Adventure | 322661 | [322661-car-parking-legends-drive-and-park-adventure.json](./322661-car-parking-legends-drive-and-park-adventure.json) |
 | Car Parking Multiplayer | 232563 | [232563-car-parking-multiplayer.json](./232563-car-parking-multiplayer.json) |
+| Car Parking Multiplayer 2 | 245213 | [245213-car-parking-multiplayer-2.json](./245213-car-parking-multiplayer-2.json) |
 | Car Parking Real Driving Sim | 274976 | [274976-car-parking-real-driving-sim.json](./274976-car-parking-real-driving-sim.json) |
 | Car Parking Simulator 3D Game | 105929 | [105929-car-parking-simulator-3d-game.json](./105929-car-parking-simulator-3d-game.json) |
 | Car Parking: New Cars | 226296 | [226296-car-parking-new-cars.json](./226296-car-parking-new-cars.json) |
@@ -3430,6 +3432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Champion Baseball | 6084 | [6084-champion-baseball.json](./6084-champion-baseball.json) |
 | Champion Billiards | 6085 | [6085-champion-billiards.json](./6085-champion-billiards.json) |
 | Champion Boxing | 6086 | [6086-champion-boxing.json](./6086-champion-boxing.json) |
+| Champion Cup Goal | 245185 | [245185-champion-cup-goal.json](./245185-champion-cup-goal.json) |
 | Champion Cup Goal 2 | 242220 | [242220-champion-cup-goal-2.json](./242220-champion-cup-goal-2.json) |
 | Champion Eleven | 102861 | [102861-champion-eleven.json](./102861-champion-eleven.json) |
 | Champion Golf | 6087 | [6087-champion-golf.json](./6087-champion-golf.json) |
