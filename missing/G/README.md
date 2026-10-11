@@ -143,6 +143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gacha Pets | 296531 | [296531-gacha-pets.json](./296531-gacha-pets.json) |
 | Gacha World | 281450 | [281450-gacha-world.json](./281450-gacha-world.json) |
 | Gacha&Gacha | 413465 | [413465-gacha-and-gacha.json](./413465-gacha-and-gacha.json) |
+| Gachaga Champ | 257308 | [257308-gachaga-champ.json](./257308-gachaga-champ.json) |
 | Gachaminer | 180227 | [180227-gachaminer.json](./180227-gachaminer.json) |
 | Gachamon | 358267 | [358267-gachamon.json](./358267-gachamon.json) |
 | Gachapin Challenge DS | 124013 | [124013-gachapin-challenge-ds.json](./124013-gachapin-challenge-ds.json) |
@@ -3794,6 +3795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goemon: New Age Shutsudou! | 49598 | [49598-goemon-new-age-shutsudou.json](./49598-goemon-new-age-shutsudou.json) |
 | Goemon's Great Adventure | 3508 | [3508-goemons-great-adventure.json](./3508-goemons-great-adventure.json) |
 | Goethe's Last Laugh | 376569 | [376569-goethes-last-laugh.json](./376569-goethes-last-laugh.json) |
+| Goetia 1 | 257293 | [257293-goetia-1.json](./257293-goetia-1.json) |
 | Goetia: The Infinite Tower | 222511 | [222511-goetia-the-infinite-tower.json](./222511-goetia-the-infinite-tower.json) |
 | GoetiaX | 145665 | [145665-goetiax.json](./145665-goetiax.json) |
 | Goetita: Turn-based City | 215582 | [215582-goetita-turn-based-city.json](./215582-goetita-turn-based-city.json) |
@@ -4255,6 +4257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Good Morning Cruel City | 278518 | [278518-good-morning-cruel-city.json](./278518-good-morning-cruel-city.json) |
 | Good Morning Is A Social Construct | 231393 | [231393-good-morning-is-a-social-construct.json](./231393-good-morning-is-a-social-construct.json) |
 | Good Morning Is Good Night | 342027 | [342027-good-morning-is-good-night.json](./342027-good-morning-is-good-night.json) |
+| Good Morning Phobos | 257306 | [257306-good-morning-phobos.json](./257306-good-morning-phobos.json) |
 | Good Morning, A.I. | 193259 | [193259-good-morning-a-i.json](./193259-good-morning-a-i.json) |
 | Good Morning, Radio | 203365 | [203365-good-morning-radio.json](./203365-good-morning-radio.json) |
 | Good Morningstar | 185488 | [185488-good-morningstar.json](./185488-good-morningstar.json) |
@@ -5202,6 +5205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravity | 12125 | [12125-gravity.json](./12125-gravity.json) |
 | Gravity | 177540 | [177540-gravity.json](./177540-gravity.json) |
 | Gravity | 234147 | [234147-gravity.json](./234147-gravity.json) |
+| Gravity | 257292 | [257292-gravity.json](./257292-gravity.json) |
 | Gravity | 291912 | [291912-gravity.json](./291912-gravity.json) |
 | Gravity | 361682 | [361682-gravity.json](./361682-gravity.json) |
 | Gravity Ace | 114912 | [114912-gravity-ace.json](./114912-gravity-ace.json) |
@@ -6843,6 +6847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunslinger Collection | 37120 | [37120-gunslinger-collection.json](./37120-gunslinger-collection.json) |
 | Gunslinger Duel | 270050 | [270050-gunslinger-duel.json](./270050-gunslinger-duel.json) |
 | Gunslinger Girl Volume I | 43268 | [43268-gunslinger-girl-volume-i.json](./43268-gunslinger-girl-volume-i.json) |
+| Gunslinger Girl Volume II | 257270 | [257270-gunslinger-girl-volume-ii.json](./257270-gunslinger-girl-volume-ii.json) |
 | Gunslinger Girl Volume III | 252375 | [252375-gunslinger-girl-volume-iii.json](./252375-gunslinger-girl-volume-iii.json) |
 | Gunslinger Stratos | 19317 | [19317-gunslinger-stratos.json](./19317-gunslinger-stratos.json) |
 | Gunslinger Stratos Reloaded | 60591 | [60591-gunslinger-stratos-reloaded.json](./60591-gunslinger-stratos-reloaded.json) |
