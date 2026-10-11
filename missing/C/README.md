@@ -4141,6 +4141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chester Cheetah: Wild Wild Quest | 46283 | [46283-chester-cheetah-wild-wild-quest.json](./46283-chester-cheetah-wild-wild-quest.json) |
 | Chester Field: Ankoku Shin he no Chousen | 48538 | [48538-chester-field-ankoku-shin-he-no-chousen.json](./48538-chester-field-ankoku-shin-he-no-chousen.json) |
 | Chester One | 35790 | [35790-chester-one.json](./35790-chester-one.json) |
+| Chester The Chest | 272212 | [272212-chester-the-chest.json](./272212-chester-the-chest.json) |
 | Chester's Revenge | 197858 | [197858-chesters-revenge.json](./197858-chesters-revenge.json) |
 | Chestnut Grove | 231368 | [231368-chestnut-grove.json](./231368-chestnut-grove.json) |
 | Chesto: At the Checkout | 134686 | [134686-chesto-at-the-checkout.json](./134686-chesto-at-the-checkout.json) |
@@ -5706,6 +5707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Worker Simulator | 405735 | [405735-city-worker-simulator.json](./405735-city-worker-simulator.json) |
 | City Worlds | 216700 | [216700-city-worlds.json](./216700-city-worlds.json) |
 | City Z | 34682 | [34682-city-z.json](./34682-city-z.json) |
+| City Zombie Madness | 272190 | [272190-city-zombie-madness.json](./272190-city-zombie-madness.json) |
 | City-Racing | 358887 | [358887-city-racing.json](./358887-city-racing.json) |
 | City: Battle Ground | 345012 | [345012-city-battle-ground.json](./345012-city-battle-ground.json) |
 | City::Ephemera | 322040 | [322040-city-ephemera.json](./322040-city-ephemera.json) |
@@ -5717,6 +5719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cityconomy: Service for your City | 17494 | [17494-cityconomy-service-for-your-city.json](./17494-cityconomy-service-for-your-city.json) |
 | CityDriver | 217210 | [217210-citydriver.json](./217210-citydriver.json) |
 | CityDriver: Alvarez-Lentz Marathon 420 CTI | 252236 | [252236-citydriver-alvarez-lentz-marathon-420-cti.json](./252236-citydriver-alvarez-lentz-marathon-420-cti.json) |
+| CityDriver: Autobahn Nord | 272188 | [272188-citydriver-autobahn-nord.json](./272188-citydriver-autobahn-nord.json) |
 | CityDriver: Ferdinand Habanero Turbo | 252237 | [252237-citydriver-ferdinand-habanero-turbo.json](./252237-citydriver-ferdinand-habanero-turbo.json) |
 | CityDriver: Moruga Turbo | 315619 | [315619-citydriver-moruga-turbo.json](./315619-citydriver-moruga-turbo.json) |
 | CityInc | 307902 | [307902-cityinc.json](./307902-cityinc.json) |
@@ -5802,6 +5805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clan Wars | 356284 | [356284-clan-wars.json](./356284-clan-wars.json) |
 | Clan Wars 2: Red Reign | 403070 | [403070-clan-wars-2-red-reign.json](./403070-clan-wars-2-red-reign.json) |
 | Clan Wars: The Green Goblins Forest | 403021 | [403021-clan-wars-the-green-goblins-forest.json](./403021-clan-wars-the-green-goblins-forest.json) |
+| Clan's Revenge | 272184 | [272184-clans-revenge.json](./272184-clans-revenge.json) |
 | Clandestine | 14465 | [14465-clandestine.json](./14465-clandestine.json) |
 | Clandestine Castle Crashing | 262566 | [262566-clandestine-castle-crashing.json](./262566-clandestine-castle-crashing.json) |
 | Clandestine: Anomaly | 232502 | [232502-clandestine-anomaly.json](./232502-clandestine-anomaly.json) |
@@ -8260,6 +8264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conquest of Chesterwoode | 73222 | [73222-conquest-of-chesterwoode.json](./73222-conquest-of-chesterwoode.json) |
 | Conquest of Elysium 2 | 326798 | [326798-conquest-of-elysium-2.json](./326798-conquest-of-elysium-2.json) |
 | Conquest of Elysium 4 | 24605 | [24605-conquest-of-elysium-4.json](./24605-conquest-of-elysium-4.json) |
+| Conquest of Empires 2 | 272191 | [272191-conquest-of-empires-2.json](./272191-conquest-of-empires-2.json) |
 | Conquest of Japan | 73770 | [73770-conquest-of-japan.json](./73770-conquest-of-japan.json) |
 | Conquest of Kings | 295566 | [295566-conquest-of-kings.json](./295566-conquest-of-kings.json) |
 | Conquest of Mars | 40728 | [40728-conquest-of-mars.json](./40728-conquest-of-mars.json) |
@@ -12327,6 +12332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Avenger | 267467 | [267467-cyber-avenger.json](./267467-cyber-avenger.json) |
 | Cyber Battle 69 | 131608 | [131608-cyber-battle-69.json](./131608-cyber-battle-69.json) |
 | Cyber Bay | 200496 | [200496-cyber-bay.json](./200496-cyber-bay.json) |
+| Cyber Blade: Action Platformer | 272193 | [272193-cyber-blade-action-platformer.json](./272193-cyber-blade-action-platformer.json) |
 | Cyber Blades | 205108 | [205108-cyber-blades.json](./205108-cyber-blades.json) |
 | Cyber Cafe Simulator | 358264 | [358264-cyber-cafe-simulator.json](./358264-cyber-cafe-simulator.json) |
 | Cyber Cell | 260230 | [260230-cyber-cell.json](./260230-cyber-cell.json) |
