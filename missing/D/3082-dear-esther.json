@@ -1,10 +1,9 @@
 {
-  "_readme": "Fill in the fields below, then delete this _readme line. See ../SUBMITTING.md for full instructions.",
   "igdb_id": "3082",
   "game_name": "Dear Esther",
-  "album_name": "",
-  "spotify_url": "",
-  "apple_music_url": "",
-  "album_link_url": "",
-  "album_cover_url": ""
+  "album_name": "Dear Esther (Original Game Soundtrack)",
+  "spotify_url": "https://open.spotify.com/album/5Gmj7l432XQY1Nxq80cYZb",
+  "apple_music_url": "https://music.apple.com/us/album/dear-esther-original-game-soundtrack/1062367900",
+  "album_link_url": "https://album.link/i/1062367900",
+  "album_cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e7/99/29/e7992968-7fac-7b80-6aae-930969d88aa7/3610150456151_cover.jpg/600x600bb.jpg"
 }
