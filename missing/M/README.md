@@ -5100,6 +5100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Megami no Etsubo | 122926 | [122926-megami-no-etsubo.json](./122926-megami-no-etsubo.json) |
 | Megami Tensei Gaiden: Last Bible | 225584 | [225584-megami-tensei-gaiden-last-bible.json](./225584-megami-tensei-gaiden-last-bible.json) |
 | Megami Tensei Gaiden: Last Bible | 49830 | [49830-megami-tensei-gaiden-last-bible.json](./49830-megami-tensei-gaiden-last-bible.json) |
+| Megami Tensei Gaiden: Last Bible II | 265053 | [265053-megami-tensei-gaiden-last-bible-ii.json](./265053-megami-tensei-gaiden-last-bible-ii.json) |
 | Megami Tensei Gaiden: Last Bible II | 50051 | [50051-megami-tensei-gaiden-last-bible-ii.json](./50051-megami-tensei-gaiden-last-bible-ii.json) |
 | Megami Tensei Gaiden: Last Bible Special | 45263 | [45263-megami-tensei-gaiden-last-bible-special.json](./45263-megami-tensei-gaiden-last-bible-special.json) |
 | Megami Tensei Gaiden: Shinyaku Last Bible | 202957 | [202957-megami-tensei-gaiden-shinyaku-last-bible.json](./202957-megami-tensei-gaiden-shinyaku-last-bible.json) |
@@ -10407,6 +10408,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moorhen Playsuit | 364584 | [364584-moorhen-playsuit.json](./364584-moorhen-playsuit.json) |
 | Moorhen Seasons | 282544 | [282544-moorhen-seasons.json](./282544-moorhen-seasons.json) |
 | Moorhuhn 2: Die Jagd Geht Weiter | 83238 | [83238-moorhuhn-2-die-jagd-geht-weiter.json](./83238-moorhuhn-2-die-jagd-geht-weiter.json) |
+| Moorhuhn 3: ...Es gibt Huhn! | 265048 | [265048-moorhuhn-3-es-gibt-huhn.json](./265048-moorhuhn-3-es-gibt-huhn.json) |
+| Moorhuhn 3: ...Es Gibt Huhn! | 265049 | [265049-moorhuhn-3-es-gibt-huhn.json](./265049-moorhuhn-3-es-gibt-huhn.json) |
 | Moorhuhn Adventure: Der Fluch des Goldes | 69856 | [69856-moorhuhn-adventure-der-fluch-des-goldes.json](./69856-moorhuhn-adventure-der-fluch-des-goldes.json) |
 | Moorhuhn Adventure: Der Schatz des Pharao | 190208 | [190208-moorhuhn-adventure-der-schatz-des-pharao.json](./190208-moorhuhn-adventure-der-schatz-des-pharao.json) |
 | Moorhuhn Combat | 144596 | [144596-moorhuhn-combat.json](./144596-moorhuhn-combat.json) |
