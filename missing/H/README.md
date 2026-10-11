@@ -6555,6 +6555,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Wheels Unleashed 2: Turbocharged - Pure Fire Edition | 252165 | [252165-hot-wheels-unleashed-2-turbocharged-pure-fire-edition.json](./252165-hot-wheels-unleashed-2-turbocharged-pure-fire-edition.json) |
 | Hot Wheels Unleashed 2: Turbocharged - Speed and Style Pack | 274107 | [274107-hot-wheels-unleashed-2-turbocharged-speed-and-style-pack.json](./274107-hot-wheels-unleashed-2-turbocharged-speed-and-style-pack.json) |
 | Hot Wheels Unleashed 2: Twin Mill (Unleashed Edition) | 271777 | [271777-hot-wheels-unleashed-2-twin-mill-unleashed-edition.json](./271777-hot-wheels-unleashed-2-twin-mill-unleashed-edition.json) |
+| Hot Wheels Unleashed: AcceleRacers Bassline | 265075 | [265075-hot-wheels-unleashed-acceleracers-bassline.json](./265075-hot-wheels-unleashed-acceleracers-bassline.json) |
+| Hot Wheels Unleashed: AcceleRacers Hollowback | 265087 | [265087-hot-wheels-unleashed-acceleracers-hollowback.json](./265087-hot-wheels-unleashed-acceleracers-hollowback.json) |
 | Hot Wheels Unleashed: Challenge Accepted Edition | 146181 | [146181-hot-wheels-unleashed-challenge-accepted-edition.json](./146181-hot-wheels-unleashed-challenge-accepted-edition.json) |
 | Hot Wheels Unleashed: Collector's Edition | 169204 | [169204-hot-wheels-unleashed-collectors-edition.json](./169204-hot-wheels-unleashed-collectors-edition.json) |
 | Hot Wheels Unleashed: Corvette Stingray Convertible 2014 | 195769 | [195769-hot-wheels-unleashed-corvette-stingray-convertible-2014.json](./195769-hot-wheels-unleashed-corvette-stingray-convertible-2014.json) |
@@ -7826,6 +7828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyperdrive | 309051 | [309051-hyperdrive.json](./309051-hyperdrive.json) |
 | Hyperdrive Horizon | 340495 | [340495-hyperdrive-horizon.json](./340495-hyperdrive-horizon.json) |
 | Hyperdrive Hunter | 104713 | [104713-hyperdrive-hunter.json](./104713-hyperdrive-hunter.json) |
+| Hyperdrive Inn | 265092 | [265092-hyperdrive-inn.json](./265092-hyperdrive-inn.json) |
 | Hyperdrome | 125330 | [125330-hyperdrome.json](./125330-hyperdrome.json) |
 | HyperFatal | 303553 | [303553-hyperfatal.json](./303553-hyperfatal.json) |
 | HyperFeat | 152761 | [152761-hyperfeat.json](./152761-hyperfeat.json) |
