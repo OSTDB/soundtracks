@@ -734,6 +734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quiz Minister | 208029 | [208029-quiz-minister.json](./208029-quiz-minister.json) |
 | Quiz Nana-iro Dreams | 70655 | [70655-quiz-nana-iro-dreams.json](./70655-quiz-nana-iro-dreams.json) |
 | Quiz Night Tonight! | 30719 | [30719-quiz-night-tonight.json](./30719-quiz-night-tonight.json) |
+| Quiz Parampaa | 275528 | [275528-quiz-parampaa.json](./275528-quiz-parampaa.json) |
 | Quiz Party | 84835 | [84835-quiz-party.json](./84835-quiz-party.json) |
 | Quiz Planet | 317007 | [317007-quiz-planet.json](./317007-quiz-planet.json) |
 | Quiz Present Variety Q-Sama!! DS Pressure Study x Atama ga Yoku naru Drill SP | 133798 | [133798-quiz-present-variety-q-sama-ds-pressure-study-x-atama-ga-yoku-naru-drill-sp.json](./133798-quiz-present-variety-q-sama-ds-pressure-study-x-atama-ga-yoku-naru-drill-sp.json) |
