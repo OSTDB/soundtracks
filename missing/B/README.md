@@ -3291,6 +3291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat Rush | 105409 | [105409-beat-rush.json](./105409-beat-rush.json) |
 | Beat Rush | 166213 | [166213-beat-rush.json](./166213-beat-rush.json) |
 | Beat Rush | 265414 | [265414-beat-rush.json](./265414-beat-rush.json) |
+| Beat Saber | 257309 | [257309-beat-saber.json](./257309-beat-saber.json) |
 | Beat Saber | 83731 | [83731-beat-saber.json](./83731-beat-saber.json) |
 | Beat Saber: Britney Spears - "…Baby One More Time" | 357222 | [357222-beat-saber-britney-spears-baby-one-more-time.json](./357222-beat-saber-britney-spears-baby-one-more-time.json) |
 | Beat Saber: Britney Spears - "Oops!...I Did It Again" | 357224 | [357224-beat-saber-britney-spears-oops-i-did-it-again.json](./357224-beat-saber-britney-spears-oops-i-did-it-again.json) |
@@ -6984,9 +6985,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloodshore | 177056 | [177056-bloodshore.json](./177056-bloodshore.json) |
 | Bloodshot | 398969 | [398969-bloodshot.json](./398969-bloodshot.json) |
 | Bloodshots | 277436 | [277436-bloodshots.json](./277436-bloodshots.json) |
+| Bloodspeed | 257299 | [257299-bloodspeed.json](./257299-bloodspeed.json) |
 | BloodSpiller | 392805 | [392805-bloodspiller.json](./392805-bloodspiller.json) |
 | BloodSpire | 411005 | [411005-bloodspire.json](./411005-bloodspire.json) |
 | Bloodsports.TV | 10057 | [10057-bloodsports-tv.json](./10057-bloodsports-tv.json) |
+| Bloodstain | 257298 | [257298-bloodstain.json](./257298-bloodstain.json) |
 | Bloodstained: Ritual of the Night | 10760 | [10760-bloodstained-ritual-of-the-night.json](./10760-bloodstained-ritual-of-the-night.json) |
 | Bloodstained: Ritual of the Night - Classic II: Dominique's Curse | 306560 | [306560-bloodstained-ritual-of-the-night-classic-ii-dominiques-curse.json](./306560-bloodstained-ritual-of-the-night-classic-ii-dominiques-curse.json) |
 | Bloodstained: Ritual of the Night - IGA's Back Pack | 155036 | [155036-bloodstained-ritual-of-the-night-igas-back-pack.json](./155036-bloodstained-ritual-of-the-night-igas-back-pack.json) |
