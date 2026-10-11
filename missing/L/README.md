@@ -5520,6 +5520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Take Back | 330814 | [330814-love-take-back.json](./330814-love-take-back.json) |
 | Love Talks | 209477 | [209477-love-talks.json](./209477-love-talks.json) |
 | Love Tavern | 165028 | [165028-love-tavern.json](./165028-love-tavern.json) |
+| Love Tavern 2: Beastmen Kingdoms | 258888 | [258888-love-tavern-2-beastmen-kingdoms.json](./258888-love-tavern-2-beastmen-kingdoms.json) |
 | Love the Guard, Be the King | 179686 | [179686-love-the-guard-be-the-king.json](./179686-love-the-guard-be-the-king.json) |
 | Love Thyself: A Horatio Story | 116948 | [116948-love-thyself-a-horatio-story.json](./116948-love-thyself-a-horatio-story.json) |
 | Love Too Easily Bundle | 400199 | [400199-love-too-easily-bundle.json](./400199-love-too-easily-bundle.json) |
