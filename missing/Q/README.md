@@ -426,6 +426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Qubie: Invader of Worlds | 169865 | [169865-qubie-invader-of-worlds.json](./169865-qubie-invader-of-worlds.json) |
 | Qubit's Quest | 283762 | [283762-qubits-quest.json](./283762-qubits-quest.json) |
 | Qublyne Dungeons | 226435 | [226435-qublyne-dungeons.json](./226435-qublyne-dungeons.json) |
+| QUByte Classics: Beat 'Em Up Archives | 252629 | [252629-qubyte-classics-beat-em-up-archives.json](./252629-qubyte-classics-beat-em-up-archives.json) |
 | QUByte Classics: Beat 'Em Up Collection | 353981 | [353981-qubyte-classics-beat-em-up-collection.json](./353981-qubyte-classics-beat-em-up-collection.json) |
 | QUByte Classics: Gourmet Warriors | 263495 | [263495-qubyte-classics-gourmet-warriors.json](./263495-qubyte-classics-gourmet-warriors.json) |
 | QUByte Classics: Jim Power - The Lost Dimension by Piko | 203269 | [203269-qubyte-classics-jim-power-the-lost-dimension-by-piko.json](./203269-qubyte-classics-jim-power-the-lost-dimension-by-piko.json) |
