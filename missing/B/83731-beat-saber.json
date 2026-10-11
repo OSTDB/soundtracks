@@ -1,10 +1,9 @@
 {
-  "_readme": "Fill in the fields below, then delete this _readme line. See ../SUBMITTING.md for full instructions.",
   "igdb_id": "83731",
   "game_name": "Beat Saber",
-  "album_name": "",
-  "spotify_url": "",
-  "apple_music_url": "",
-  "album_link_url": "",
-  "album_cover_url": ""
+  "album_name": "Beat Saber (Original Game Soundtrack)",
+  "spotify_url": "https://open.spotify.com/album/1htHMnxonxmyHdKE2uDFMR",
+  "apple_music_url": "https://music.apple.com/us/album/beat-saber-original-game-soundtrack/1371680509",
+  "album_link_url": "https://album.link/i/1371680509",
+  "album_cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/14/e0/ab/14e0abf7-8cb5-419b-796c-bde930618f54/dj.nkieyhiv.jpg/600x600bb.jpg"
 }
