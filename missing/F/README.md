@@ -1021,6 +1021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Family Go-Kart Racing | 50695 | [50695-family-go-kart-racing.json](./50695-family-go-kart-racing.json) |
 | Family Guy Bowling | 286624 | [286624-family-guy-bowling.json](./286624-family-guy-bowling.json) |
 | Family Guy Pinball | 81362 | [81362-family-guy-pinball.json](./81362-family-guy-pinball.json) |
+| Family Guy: Air Griffin | 255575 | [255575-family-guy-air-griffin.json](./255575-family-guy-air-griffin.json) |
 | Family Guy: Back to the Multiverse | 264870 | [264870-family-guy-back-to-the-multiverse.json](./264870-family-guy-back-to-the-multiverse.json) |
 | Family Guy: Back to the Multiverse | 264871 | [264871-family-guy-back-to-the-multiverse.json](./264871-family-guy-back-to-the-multiverse.json) |
 | Family Guy: Stewie 2.0 | 257843 | [257843-family-guy-stewie-2-0.json](./257843-family-guy-stewie-2-0.json) |
@@ -2259,6 +2260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Featherfall | 125367 | [125367-featherfall.json](./125367-featherfall.json) |
 | Featherfall | 129442 | [129442-featherfall.json](./129442-featherfall.json) |
 | Featherpunk Prime | 18404 | [18404-featherpunk-prime.json](./18404-featherpunk-prime.json) |
+| Febilis | 255578 | [255578-febilis.json](./255578-febilis.json) |
 | February 2003 | 252076 | [252076-february-2003.json](./252076-february-2003.json) |
 | February of Cards | 258370 | [258370-february-of-cards.json](./258370-february-of-cards.json) |
 | Februus Depth | 271185 | [271185-februus-depth.json](./271185-februus-depth.json) |
@@ -6735,6 +6737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Four Lights: The 4th World - Märchen Route | 411774 | [411774-four-lights-the-4th-world-marchen-route.json](./411774-four-lights-the-4th-world-marchen-route.json) |
 | Four Million B.C. | 94719 | [94719-four-million-b-c.json](./94719-four-million-b-c.json) |
 | Four Mini Kingdoms War | 340240 | [340240-four-mini-kingdoms-war.json](./340240-four-mini-kingdoms-war.json) |
+| Four Nights at Omori | 255560 | [255560-four-nights-at-omori.json](./255560-four-nights-at-omori.json) |
 | Four of a Kind: A Short Horror Anthology | 395831 | [395831-four-of-a-kind-a-short-horror-anthology.json](./395831-four-of-a-kind-a-short-horror-anthology.json) |
 | Four Realms | 19568 | [19568-four-realms.json](./19568-four-realms.json) |
 | Four Seasons - A fan-created Avatar Game | 143730 | [143730-four-seasons-a-fan-created-avatar-game.json](./143730-four-seasons-a-fan-created-avatar-game.json) |
@@ -8584,6 +8587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fushigi no Gensoukyou Chronicle | 206942 | [206942-fushigi-no-gensoukyou-chronicle.json](./206942-fushigi-no-gensoukyou-chronicle.json) |
 | Fushigi no Gensoukyou Origin: Hajimari no Kamikakushi-hen | 206941 | [206941-fushigi-no-gensoukyou-origin-hajimari-no-kamikakushi-hen.json](./206941-fushigi-no-gensoukyou-origin-hajimari-no-kamikakushi-hen.json) |
 | Fushigi no Gensoukyou: Another Face | 206943 | [206943-fushigi-no-gensoukyou-another-face.json](./206943-fushigi-no-gensoukyou-another-face.json) |
+| Fushigi no Kuni no Alice | 255621 | [255621-fushigi-no-kuni-no-alice.json](./255621-fushigi-no-kuni-no-alice.json) |
 | Fushigi no Kuni no Alice | 255622 | [255622-fushigi-no-kuni-no-alice.json](./255622-fushigi-no-kuni-no-alice.json) |
 | Fushigi no Kuni no Alice | 49571 | [49571-fushigi-no-kuni-no-alice.json](./49571-fushigi-no-kuni-no-alice.json) |
 | Fushigi no Kuni no Angelique | 49570 | [49570-fushigi-no-kuni-no-angelique.json](./49570-fushigi-no-kuni-no-angelique.json) |
