@@ -944,6 +944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A.D.D. (Anomaly Detection Department) | 412470 | [412470-a-d-d-anomaly-detection-department.json](./412470-a-d-d-anomaly-detection-department.json) |
 | A.E. | 20175 | [20175-a-e.json](./20175-a-e.json) |
 | A.E. | 282086 | [282086-a-e.json](./282086-a-e.json) |
+| A.G.E. | 240255 | [240255-a-g-e.json](./240255-a-g-e.json) |
 | A.I am Monster | 26569 | [26569-a-i-am-monster.json](./26569-a-i-am-monster.json) |
 | A.I: Mnemosyne | 374224 | [374224-a-i-mnemosyne.json](./374224-a-i-mnemosyne.json) |
 | A.I. A New Kind of Love | 254953 | [254953-a-i-a-new-kind-of-love.json](./254953-a-i-a-new-kind-of-love.json) |
@@ -4383,6 +4384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All Star Cricket 2 | 193855 | [193855-all-star-cricket-2.json](./193855-all-star-cricket-2.json) |
 | All Star Darts | 79309 | [79309-all-star-darts.json](./79309-all-star-darts.json) |
 | All Star Karate | 20322 | [20322-all-star-karate.json](./20322-all-star-karate.json) |
+| All Star Kart Race: Crazy Gear Championship | 240103 | [240103-all-star-kart-race-crazy-gear-championship.json](./240103-all-star-kart-race-crazy-gear-championship.json) |
 | All Star Quarterback | 58210 | [58210-all-star-quarterback.json](./58210-all-star-quarterback.json) |
 | All Star Racing | 43931 | [43931-all-star-racing.json](./43931-all-star-racing.json) |
 | All Star Racing 2 | 43930 | [43930-all-star-racing-2.json](./43930-all-star-racing-2.json) |
@@ -9634,6 +9636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astor: Blade of the Monolith | 256291 | [256291-astor-blade-of-the-monolith.json](./256291-astor-blade-of-the-monolith.json) |
 | Astoria Legends: Red Moon | 159145 | [159145-astoria-legends-red-moon.json](./159145-astoria-legends-red-moon.json) |
 | Astoria VR | 201250 | [201250-astoria-vr.json](./201250-astoria-vr.json) |
+| Astra and The New Constellation | 240119 | [240119-astra-and-the-new-constellation.json](./240119-astra-and-the-new-constellation.json) |
 | Astra Etherium | 61027 | [61027-astra-etherium.json](./61027-astra-etherium.json) |
 | Astra Exodus | 111693 | [111693-astra-exodus.json](./111693-astra-exodus.json) |
 | Astra GalaxyX | 399615 | [399615-astra-galaxyx.json](./399615-astra-galaxyx.json) |
