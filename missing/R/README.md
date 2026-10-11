@@ -2583,6 +2583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Redemption Cemetery: The Island of the Lost - Collector's Edition | 36493 | [36493-redemption-cemetery-the-island-of-the-lost-collectors-edition.json](./36493-redemption-cemetery-the-island-of-the-lost-collectors-edition.json) |
 | Redemption Cemetery: The Stolen Time - Collector's Edition | 201144 | [201144-redemption-cemetery-the-stolen-time-collectors-edition.json](./201144-redemption-cemetery-the-stolen-time-collectors-edition.json) |
 | Redemption of Liuyin | 333635 | [333635-redemption-of-liuyin.json](./333635-redemption-of-liuyin.json) |
+| Redemption of the Cat Demon Girl | 275545 | [275545-redemption-of-the-cat-demon-girl.json](./275545-redemption-of-the-cat-demon-girl.json) |
 | Redemption of the Damned | 147345 | [147345-redemption-of-the-damned.json](./147345-redemption-of-the-damned.json) |
 | Redemption: Eternal Quest | 34754 | [34754-redemption-eternal-quest.json](./34754-redemption-eternal-quest.json) |
 | Redemption: Liar | 65221 | [65221-redemption-liar.json](./65221-redemption-liar.json) |
@@ -7576,6 +7577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run to Nowhere | 206705 | [206705-run-to-nowhere.json](./206705-run-to-nowhere.json) |
 | Run Tom Hanks Run | 307294 | [307294-run-tom-hanks-run.json](./307294-run-tom-hanks-run.json) |
 | Run Witch | 281327 | [281327-run-witch.json](./281327-run-witch.json) |
+| Run x Gun | 275543 | [275543-run-x-gun.json](./275543-run-x-gun.json) |
 | Run, chicken, run! | 113885 | [113885-run-chicken-run.json](./113885-run-chicken-run.json) |
 | Run, Doodleguy! | 211293 | [211293-run-doodleguy.json](./211293-run-doodleguy.json) |
 | Run, Kitty! | 192771 | [192771-run-kitty.json](./192771-run-kitty.json) |
