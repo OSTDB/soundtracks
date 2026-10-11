@@ -9767,6 +9767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Golf VR: Infinity Towers | 170886 | [170886-dream-golf-vr-infinity-towers.json](./170886-dream-golf-vr-infinity-towers.json) |
 | Dream Golf VR: Jungle Temple | 171006 | [171006-dream-golf-vr-jungle-temple.json](./171006-dream-golf-vr-jungle-temple.json) |
 | Dream Golf VR: Lighthouse Island | 171007 | [171007-dream-golf-vr-lighthouse-island.json](./171007-dream-golf-vr-lighthouse-island.json) |
+| Dream Gym | 253252 | [253252-dream-gym.json](./253252-dream-gym.json) |
 | Dream Hacker | 191084 | [191084-dream-hacker.json](./191084-dream-hacker.json) |
 | Dream Hard | 184912 | [184912-dream-hard.json](./184912-dream-hard.json) |
 | Dream Hearts Dream | 212765 | [212765-dream-hearts-dream.json](./212765-dream-hearts-dream.json) |
@@ -9806,6 +9807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Match Tennis VR | 105507 | [105507-dream-match-tennis-vr.json](./105507-dream-match-tennis-vr.json) |
 | Dream Medicine | 286126 | [286126-dream-medicine.json](./286126-dream-medicine.json) |
 | Dream Meister and the Recollected Black Fairy | 193805 | [193805-dream-meister-and-the-recollected-black-fairy.json](./193805-dream-meister-and-the-recollected-black-fairy.json) |
+| Dream Mini Golf: Putt Star | 253277 | [253277-dream-mini-golf-putt-star.json](./253277-dream-mini-golf-putt-star.json) |
 | Dream Mirror | 164966 | [164966-dream-mirror.json](./164966-dream-mirror.json) |
 | Dream Mists | 293544 | [293544-dream-mists.json](./293544-dream-mists.json) |
 | Dream Mysteries: Case of the Red Fox | 294201 | [294201-dream-mysteries-case-of-the-red-fox.json](./294201-dream-mysteries-case-of-the-red-fox.json) |
@@ -11012,6 +11014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon & Heros | 168125 | [168125-dungeon-and-heros.json](./168125-dungeon-and-heros.json) |
 | Dungeon 100 | 192663 | [192663-dungeon-100.json](./192663-dungeon-100.json) |
 | Dungeon 3D: Eastern | 277583 | [277583-dungeon-3d-eastern.json](./277583-dungeon-3d-eastern.json) |
+| Dungeon Abyss | 253275 | [253275-dungeon-abyss.json](./253275-dungeon-abyss.json) |
 | Dungeon Adventure | 344358 | [344358-dungeon-adventure.json](./344358-dungeon-adventure.json) |
 | Dungeon Adventure Gang | 272371 | [272371-dungeon-adventure-gang.json](./272371-dungeon-adventure-gang.json) |
 | Dungeon Amanojaku | 204675 | [204675-dungeon-amanojaku.json](./204675-dungeon-amanojaku.json) |
@@ -11258,6 +11261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Reels | 187833 | [187833-dungeon-reels.json](./187833-dungeon-reels.json) |
 | Dungeon Reels Tactics | 191714 | [191714-dungeon-reels-tactics.json](./191714-dungeon-reels-tactics.json) |
 | Dungeon Renovators | 224654 | [224654-dungeon-renovators.json](./224654-dungeon-renovators.json) |
+| Dungeon Restaurant | 253281 | [253281-dungeon-restaurant.json](./253281-dungeon-restaurant.json) |
 | Dungeon Robber | 62269 | [62269-dungeon-robber.json](./62269-dungeon-robber.json) |
 | Dungeon Rollers | 184623 | [184623-dungeon-rollers.json](./184623-dungeon-rollers.json) |
 | Dungeon Route | 350066 | [350066-dungeon-route.json](./350066-dungeon-route.json) |
