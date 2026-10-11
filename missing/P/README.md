@@ -2592,6 +2592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Penguin: Sokoban Adventure | 313459 | [313459-penguin-sokoban-adventure.json](./313459-penguin-sokoban-adventure.json) |
 | Penguin's Love | 361639 | [361639-penguins-love.json](./361639-penguins-love.json) |
 | Penguin's Road | 304822 | [304822-penguins-road.json](./304822-penguins-road.json) |
+| PenguinLinks v2 | 253268 | [253268-penguinlinks-v2.json](./253268-penguinlinks-v2.json) |
 | PenguInn | 223951 | [223951-penguinn.json](./223951-penguinn.json) |
 | Penguino | 365853 | [365853-penguino.json](./365853-penguino.json) |
 | Penguins Arena: Sedna's World | 15779 | [15779-penguins-arena-sednas-world.json](./15779-penguins-arena-sednas-world.json) |
@@ -2807,6 +2808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perfect Plan | 29226 | [29226-perfect-plan.json](./29226-perfect-plan.json) |
 | Perfect Porcelain | 391135 | [391135-perfect-porcelain.json](./391135-perfect-porcelain.json) |
 | Perfect Shot | 370722 | [370722-perfect-shot.json](./370722-perfect-shot.json) |
+| Perfect Slices | 253282 | [253282-perfect-slices.json](./253282-perfect-slices.json) |
 | Perfect Split | 173804 | [173804-perfect-split.json](./173804-perfect-split.json) |
 | Perfect Stride | 9612 | [9612-perfect-stride.json](./9612-perfect-stride.json) |
 | Perfect Tense: Maggot Therapy | 331958 | [331958-perfect-tense-maggot-therapy.json](./331958-perfect-tense-maggot-therapy.json) |
@@ -4492,6 +4494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball Madness 2 | 71225 | [71225-pinball-madness-2.json](./71225-pinball-madness-2.json) |
 | Pinball Mania | 49073 | [49073-pinball-mania.json](./49073-pinball-mania.json) |
 | Pinball Mania Plus | 314912 | [314912-pinball-mania-plus.json](./314912-pinball-mania-plus.json) |
+| Pinball Maniacs | 253262 | [253262-pinball-maniacs.json](./253262-pinball-maniacs.json) |
 | Pinball Master | 209959 | [209959-pinball-master.json](./209959-pinball-master.json) |
 | Pinball Masters | 295324 | [295324-pinball-masters.json](./295324-pinball-masters.json) |
 | Pinball Paladins | 364703 | [364703-pinball-paladins.json](./364703-pinball-paladins.json) |
