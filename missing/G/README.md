@@ -36,6 +36,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | G-Mode Archives 19: Magical Drop DX | 166078 | [166078-g-mode-archives-19-magical-drop-dx.json](./166078-g-mode-archives-19-magical-drop-dx.json) |
 | G-Mode Archives 43: Izumi Jiken File Vol. 3 - Yujuku-hen | 221732 | [221732-g-mode-archives-43-izumi-jiken-file-vol-3-yujuku-hen.json](./221732-g-mode-archives-43-izumi-jiken-file-vol-3-yujuku-hen.json) |
 | G-Mode Archives 44: Dragon x Dragon | 241041 | [241041-g-mode-archives-44-dragon-x-dragon.json](./241041-g-mode-archives-44-dragon-x-dragon.json) |
+| G-Mode Archives 45: Chura-umi Monogatari | 251464 | [251464-g-mode-archives-45-chura-umi-monogatari.json](./251464-g-mode-archives-45-chura-umi-monogatari.json) |
+| G-Mode Archives 46: Keitai Shoujo: Koi+Hime - Koi ni Ochita Cinderella-hime | 251463 | [251463-g-mode-archives-46-keitai-shoujo-koi-hime-koi-ni-ochita-cinderella-hime.json](./251463-g-mode-archives-46-keitai-shoujo-koi-hime-koi-ni-ochita-cinderella-hime.json) |
+| G-Mode Archives 47: 12Gems | 251462 | [251462-g-mode-archives-47-12gems.json](./251462-g-mode-archives-47-12gems.json) |
 | G-Mode Archives 56: Mystia3 | 381724 | [381724-g-mode-archives-56-mystia3.json](./381724-g-mode-archives-56-mystia3.json) |
 | G-Mode Archives 58: Gekidan Musume Akane & Aoi | 381255 | [381255-g-mode-archives-58-gekidan-musume-akane-and-aoi.json](./381255-g-mode-archives-58-gekidan-musume-akane-and-aoi.json) |
 | G-Mode Archives+: Armored Core Mobile 2 | 350578 | [350578-g-mode-archives-armored-core-mobile-2.json](./350578-g-mode-archives-armored-core-mobile-2.json) |
@@ -50,13 +53,17 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | G-Mode Archives+: Momoko no Kasei Bowling - La Mars Cup | 266172 | [266172-g-mode-archives-momoko-no-kasei-bowling-la-mars-cup.json](./266172-g-mode-archives-momoko-no-kasei-bowling-la-mars-cup.json) |
 | G-Mode Archives+: Monstre Waltz | 388382 | [388382-g-mode-archives-monstre-waltz.json](./388382-g-mode-archives-monstre-waltz.json) |
 | G-Mode Archives+: Ridge Racer | 416050 | [416050-g-mode-archives-ridge-racer.json](./416050-g-mode-archives-ridge-racer.json) |
+| G-Mode Archives+: Saiko Mystery Series vol. 1 - Three, Mittsu no Kioki | 251472 | [251472-g-mode-archives-saiko-mystery-series-vol-1-three-mittsu-no-kioki.json](./251472-g-mode-archives-saiko-mystery-series-vol-1-three-mittsu-no-kioki.json) |
 | G-Mode Archives+: Saiko Mystery Series Vol.3 - Sin | 260681 | [260681-g-mode-archives-saiko-mystery-series-vol-3-sin.json](./260681-g-mode-archives-saiko-mystery-series-vol-3-sin.json) |
 | G-Mode Archives+: Saiko Mystery Series Vol.5 - Cold Rain | 276453 | [276453-g-mode-archives-saiko-mystery-series-vol-5-cold-rain.json](./276453-g-mode-archives-saiko-mystery-series-vol-5-cold-rain.json) |
 | G-Mode Archives+: Stella Deus - The Age of Alchemy | 378337 | [378337-g-mode-archives-stella-deus-the-age-of-alchemy.json](./378337-g-mode-archives-stella-deus-the-age-of-alchemy.json) |
 | G-Mode Archives+: Stella Deus - The Spirit of Darkness | 374605 | [374605-g-mode-archives-stella-deus-the-spirit-of-darkness.json](./374605-g-mode-archives-stella-deus-the-spirit-of-darkness.json) |
+| G-Mode Archives+: Tantei Kibugawa Ryousuke Jiken-bo vol.11 - Ane no Kabe | 251473 | [251473-g-mode-archives-tantei-kibugawa-ryousuke-jiken-bo-vol-11-ane-no-kabe.json](./251473-g-mode-archives-tantei-kibugawa-ryousuke-jiken-bo-vol-11-ane-no-kabe.json) |
 | G-Mode Archives+: Tantei Kibugawa Ryousuke Jiken-tan Vol. 14 - Rasen no Kan Satsujin Jiken | 295849 | [295849-g-mode-archives-tantei-kibugawa-ryousuke-jiken-tan-vol-14-rasen-no-kan-satsujin-jiken.json](./295849-g-mode-archives-tantei-kibugawa-ryousuke-jiken-tan-vol-14-rasen-no-kan-satsujin-jiken.json) |
+| G-Mode Archives+: Tantei Kibukawa Ryousuke Jiken-bo vol.12 - Nakanai Irainjin | 251474 | [251474-g-mode-archives-tantei-kibukawa-ryousuke-jiken-bo-vol-12-nakanai-irainjin.json](./251474-g-mode-archives-tantei-kibukawa-ryousuke-jiken-bo-vol-12-nakanai-irainjin.json) |
 | G-Mode Archives+: Tantei Kibukawa Ryousuke Jikenbo Vol. 13 - Tasogare ha Ruri no Tsuioki | 279118 | [279118-g-mode-archives-tantei-kibukawa-ryousuke-jikenbo-vol-13-tasogare-ha-ruri-no-tsuioki.json](./279118-g-mode-archives-tantei-kibukawa-ryousuke-jikenbo-vol-13-tasogare-ha-ruri-no-tsuioki.json) |
 | G-Mode Archives+: Tantei Kibukawa Ryousuke Jikentan Vol. 17 - Midoumaru-tei Jiken | 413150 | [413150-g-mode-archives-tantei-kibukawa-ryousuke-jikentan-vol-17-midoumaru-tei-jiken.json](./413150-g-mode-archives-tantei-kibukawa-ryousuke-jikentan-vol-17-midoumaru-tei-jiken.json) |
+| G-Mode Archives+: Todo Ryuunosuke Tantei Nikki vol.1 - Kohakuiro no Igon: Seiyou Karuta Renzoku Satsujin Jiken | 251475 | [251475-g-mode-archives-todo-ryuunosuke-tantei-nikki-vol-1-kohakuiro-no-igon-seiyou-karuta-renzoku-satsujin-jiken.json](./251475-g-mode-archives-todo-ryuunosuke-tantei-nikki-vol-1-kohakuiro-no-igon-seiyou-karuta-renzoku-satsujin-jiken.json) |
 | G-Netix | 92830 | [92830-g-netix.json](./92830-g-netix.json) |
 | G-Nome | 78909 | [78909-g-nome.json](./78909-g-nome.json) |
 | G-Scramble | 260753 | [260753-g-scramble.json](./260753-g-scramble.json) |
@@ -3195,6 +3202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glow Rings Puzzle | 106975 | [106975-glow-rings-puzzle.json](./106975-glow-rings-puzzle.json) |
 | Glow Stairs | 174358 | [174358-glow-stairs.json](./174358-glow-stairs.json) |
 | Glow Storm | 322085 | [322085-glow-storm.json](./322085-glow-storm.json) |
+| GlowBoard: WinterFest | 251449 | [251449-glowboard-winterfest.json](./251449-glowboard-winterfest.json) |
 | Glowfall Vale | 389057 | [389057-glowfall-vale.json](./389057-glowfall-vale.json) |
 | Glowfish | 10366 | [10366-glowfish.json](./10366-glowfish.json) |
 | Glowfish HD | 86697 | [86697-glowfish-hd.json](./86697-glowfish-hd.json) |
