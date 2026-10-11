@@ -854,6 +854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candybox: Mobile | 402348 | [402348-candybox-mobile.json](./402348-candybox-mobile.json) |
 | Candyboy | 236351 | [236351-candyboy.json](./236351-candyboy.json) |
 | CandyCraft | 241500 | [241500-candycraft.json](./241500-candycraft.json) |
+| Candyhouse | 250268 | [250268-candyhouse.json](./250268-candyhouse.json) |
 | Candylight | 194423 | [194423-candylight.json](./194423-candylight.json) |
 | CandyMouse | 241349 | [241349-candymouse.json](./241349-candymouse.json) |
 | Candypink | 176496 | [176496-candypink.json](./176496-candypink.json) |
@@ -2036,6 +2037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Combat | 47551 | [47551-castle-combat.json](./47551-castle-combat.json) |
 | Castle Come | 307043 | [307043-castle-come.json](./307043-castle-come.json) |
 | Castle Corp | 280332 | [280332-castle-corp.json](./280332-castle-corp.json) |
+| Castle Craft | 250250 | [250250-castle-craft.json](./250250-castle-craft.json) |
 | Castle Crashers: Blacksmith Pack | 170863 | [170863-castle-crashers-blacksmith-pack.json](./170863-castle-crashers-blacksmith-pack.json) |
 | Castle Crashers: Painter Boss Paradise | 310640 | [310640-castle-crashers-painter-boss-paradise.json](./310640-castle-crashers-painter-boss-paradise.json) |
 | Castle Crashers: Pink Knight Pack | 170864 | [170864-castle-crashers-pink-knight-pack.json](./170864-castle-crashers-pink-knight-pack.json) |
