@@ -3616,7 +3616,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PhotoWorld | 209966 | [209966-photoworld.json](./209966-photoworld.json) |
 | Phrase Craze Plus | 229804 | [229804-phrase-craze-plus.json](./229804-phrase-craze-plus.json) |
 | Phrase Frenzy - Catch It! | 108598 | [108598-phrase-frenzy-catch-it.json](./108598-phrase-frenzy-catch-it.json) |
-| Phrase Passport Japan A Travel Japanese Quiz | 407270 | [407270-phrase-passport-japan-a-travel-japanese-quiz.json](./407270-phrase-passport-japan-a-travel-japanese-quiz.json) |
 | Phrasefight | 106115 | [106115-phrasefight.json](./106115-phrasefight.json) |
 | Phraze Craze | 307911 | [307911-phraze-craze.json](./307911-phraze-craze.json) |
 | Phraze Daze: Famous Quotes Word Game | 68742 | [68742-phraze-daze-famous-quotes-word-game.json](./68742-phraze-daze-famous-quotes-word-game.json) |
@@ -5884,6 +5883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | planktOs | 36200 | [36200-planktos.json](./36200-planktos.json) |
 | Plannes | 26168 | [26168-plannes.json](./26168-plannes.json) |
 | Plans for NY? | 75815 | [75815-plans-for-ny.json](./75815-plans-for-ny.json) |
+| Plant Chess | 260058 | [260058-plant-chess.json](./260058-plant-chess.json) |
 | Plant Down | 198509 | [198509-plant-down.json](./198509-plant-down.json) |
 | Plant Firefighter Simulator 2014 | 88286 | [88286-plant-firefighter-simulator-2014.json](./88286-plant-firefighter-simulator-2014.json) |
 | Plant Gallery: A Short Botanic Experience | 267437 | [267437-plant-gallery-a-short-botanic-experience.json](./267437-plant-gallery-a-short-botanic-experience.json) |
@@ -10659,6 +10659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pulse | 372810 | [372810-pulse.json](./372810-pulse.json) |
 | Pulse | 392257 | [392257-pulse.json](./392257-pulse.json) |
 | Pulse Cage Episode 1 | 25629 | [25629-pulse-cage-episode-1.json](./25629-pulse-cage-episode-1.json) |
+| Pulse Codex EP | 260061 | [260061-pulse-codex-ep.json](./260061-pulse-codex-ep.json) |
 | Pulse Drive | 415322 | [415322-pulse-drive.json](./415322-pulse-drive.json) |
 | Pulse Jumper | 149442 | [149442-pulse-jumper.json](./149442-pulse-jumper.json) |
 | Pulse of Love | 258719 | [258719-pulse-of-love.json](./258719-pulse-of-love.json) |
