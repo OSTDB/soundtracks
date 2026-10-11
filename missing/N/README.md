@@ -2200,6 +2200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NewCity | 274427 | [274427-newcity.json](./274427-newcity.json) |
 | Newcomer | 84280 | [84280-newcomer.json](./84280-newcomer.json) |
 | Newcomer: A Language Learning RPG | 250899 | [250899-newcomer-a-language-learning-rpg.json](./250899-newcomer-a-language-learning-rpg.json) |
+| Newer Mario Kart Wii | 257275 | [257275-newer-mario-kart-wii.json](./257275-newer-mario-kart-wii.json) |
 | Newer Super Luigi Wii: Dark Moon - Reverse | 294789 | [294789-newer-super-luigi-wii-dark-moon-reverse.json](./294789-newer-super-luigi-wii-dark-moon-reverse.json) |
 | Newer Super Mario Bros. Wii Deluxe | 132846 | [132846-newer-super-mario-bros-wii-deluxe.json](./132846-newer-super-mario-bros-wii-deluxe.json) |
 | Newer: Falling Leaf | 132848 | [132848-newer-falling-leaf.json](./132848-newer-falling-leaf.json) |
