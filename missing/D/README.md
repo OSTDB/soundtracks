@@ -2204,6 +2204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead in Vinland: True Viking Edition | 122905 | [122905-dead-in-vinland-true-viking-edition.json](./122905-dead-in-vinland-true-viking-edition.json) |
 | Dead in Your TrackZ | 358913 | [358913-dead-in-your-trackz.json](./358913-dead-in-your-trackz.json) |
 | Dead Ink | 164259 | [164259-dead-ink.json](./164259-dead-ink.json) |
+| Dead Inside | 240136 | [240136-dead-inside.json](./240136-dead-inside.json) |
 | Dead Inside | 377576 | [377576-dead-inside.json](./377576-dead-inside.json) |
 | Dead Invaders: Modern War 3D | 216164 | [216164-dead-invaders-modern-war-3d.json](./216164-dead-invaders-modern-war-3d.json) |
 | Dead Island 2: Deluxe Edition | 214473 | [214473-dead-island-2-deluxe-edition.json](./214473-dead-island-2-deluxe-edition.json) |
@@ -10358,6 +10359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Driver / Driver 2 Twin Pack | 382533 | [382533-driver-driver-2-twin-pack.json](./382533-driver-driver-2-twin-pack.json) |
 | Driver 2: Back on the Streets | 6391 | [6391-driver-2-back-on-the-streets.json](./6391-driver-2-back-on-the-streets.json) |
 | Driver Dan's Story Train | 269827 | [269827-driver-dans-story-train.json](./269827-driver-dans-story-train.json) |
+| Driver Mini | 240107 | [240107-driver-mini.json](./240107-driver-mini.json) |
 | Driver Platinum | 24140 | [24140-driver-platinum.json](./24140-driver-platinum.json) |
 | Driver Pro: 2017 | 68602 | [68602-driver-pro-2017.json](./68602-driver-pro-2017.json) |
 | Driver Simulator Life | 245211 | [245211-driver-simulator-life.json](./245211-driver-simulator-life.json) |
@@ -10885,6 +10887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dude in the Dark | 392863 | [392863-dude-in-the-dark.json](./392863-dude-in-the-dark.json) |
 | Dude My House Is Haunted | 362354 | [362354-dude-my-house-is-haunted.json](./362354-dude-my-house-is-haunted.json) |
 | Dude Perfect HD | 86892 | [86892-dude-perfect-hd.json](./86892-dude-perfect-hd.json) |
+| Dude Quest | 240139 | [240139-dude-quest.json](./240139-dude-quest.json) |
 | Dude Simulator | 37419 | [37419-dude-simulator.json](./37419-dude-simulator.json) |
 | Dude Simulator 3 | 144297 | [144297-dude-simulator-3.json](./144297-dude-simulator-3.json) |
 | Dude Simulator 4 | 164929 | [164929-dude-simulator-4.json](./164929-dude-simulator-4.json) |
