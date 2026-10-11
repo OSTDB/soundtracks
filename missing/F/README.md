@@ -1023,6 +1023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Family Guy: The Quest for Stuff | 38908 | [38908-family-guy-the-quest-for-stuff.json](./38908-family-guy-the-quest-for-stuff.json) |
 | Family Guy: Time Warped | 66114 | [66114-family-guy-time-warped.json](./66114-family-guy-time-warped.json) |
 | Family Igo: Super Strong | 83472 | [83472-family-igo-super-strong.json](./83472-family-igo-super-strong.json) |
+| Family in Puzzle House | 261163 | [261163-family-in-puzzle-house.json](./261163-family-in-puzzle-house.json) |
 | Family Jockey | 268128 | [268128-family-jockey.json](./268128-family-jockey.json) |
 | Family Jockey | 63542 | [63542-family-jockey.json](./63542-family-jockey.json) |
 | Family Land: Farmer Simulator | 244331 | [244331-family-land-farmer-simulator.json](./244331-family-land-farmer-simulator.json) |
@@ -4618,6 +4619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flash Racer | 359375 | [359375-flash-racer.json](./359375-flash-racer.json) |
 | Flash Traffic: City of Angels | 70063 | [70063-flash-traffic-city-of-angels.json](./70063-flash-traffic-city-of-angels.json) |
 | Flashback Legend | 49378 | [49378-flashback-legend.json](./49378-flashback-legend.json) |
+| Flashback to Hell | 261172 | [261172-flashback-to-hell.json](./261172-flashback-to-hell.json) |
 | Flashback: The Quest for Identity | 4275 | [4275-flashback-the-quest-for-identity.json](./4275-flashback-the-quest-for-identity.json) |
 | Flashbound | 381023 | [381023-flashbound.json](./381023-flashbound.json) |
 | Flashcard Clash | 25734 | [25734-flashcard-clash.json](./25734-flashcard-clash.json) |
