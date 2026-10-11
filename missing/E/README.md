@@ -2031,6 +2031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Empires of the Undergrowth: Exploding Ants | 403591 | [403591-empires-of-the-undergrowth-exploding-ants.json](./403591-empires-of-the-undergrowth-exploding-ants.json) |
 | Empires of the Undergrowth: Supporter Pack | 403593 | [403593-empires-of-the-undergrowth-supporter-pack.json](./403593-empires-of-the-undergrowth-supporter-pack.json) |
 | Empires of the Void II | 189167 | [189167-empires-of-the-void-ii.json](./189167-empires-of-the-void-ii.json) |
+| Empires Through the Aeons | 240690 | [240690-empires-through-the-aeons.json](./240690-empires-through-the-aeons.json) |
 | Empires: Dawn of the Modern World | 678 | [678-empires-dawn-of-the-modern-world.json](./678-empires-dawn-of-the-modern-world.json) |
 | Employee A | 188994 | [188994-employee-a.json](./188994-employee-a.json) |
 | Employee Recycling Center | 36463 | [36463-employee-recycling-center.json](./36463-employee-recycling-center.json) |
