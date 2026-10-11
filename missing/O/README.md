@@ -2350,6 +2350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orake | 19434 | [19434-orake.json](./19434-orake.json) |
 | Orakyubu | 165076 | [165076-orakyubu.json](./165076-orakyubu.json) |
 | Oral Lessons With Chii-chan | 254753 | [254753-oral-lessons-with-chii-chan.json](./254753-oral-lessons-with-chii-chan.json) |
+| Oran's Table | 242456 | [242456-orans-table.json](./242456-orans-table.json) |
 | Orange Adventure | 31860 | [31860-orange-adventure.json](./31860-orange-adventure.json) |
 | Orange Blossoms | 311755 | [311755-orange-blossoms.json](./311755-orange-blossoms.json) |
 | Orange Cast: Prologue | 151198 | [151198-orange-cast-prologue.json](./151198-orange-cast-prologue.json) |
