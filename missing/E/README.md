@@ -2137,6 +2137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Encrypted_Nightmares | 340946 | [340946-encrypted-nightmares.json](./340946-encrypted-nightmares.json) |
 | Encycle | 149937 | [149937-encycle.json](./149937-encycle.json) |
 | Encyclopedia Explosica | 185617 | [185617-encyclopedia-explosica.json](./185617-encyclopedia-explosica.json) |
+| End Game | 263407 | [263407-end-game.json](./263407-end-game.json) |
 | End Gate: The Last Passenger | 311612 | [311612-end-gate-the-last-passenger.json](./311612-end-gate-the-last-passenger.json) |
 | End Matter | 175265 | [175265-end-matter.json](./175265-end-matter.json) |
 | End of Abyss | 347637 | [347637-end-of-abyss.json](./347637-end-of-abyss.json) |
