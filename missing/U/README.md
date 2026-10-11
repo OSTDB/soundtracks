@@ -2340,6 +2340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uznali? SoglasnbI? | 390164 | [390164-uznali-soglasnbi.json](./390164-uznali-soglasnbi.json) |
 | Uzo | 195761 | [195761-uzo.json](./195761-uzo.json) |
 | Uzzuzzu My Pet | 242056 | [242056-uzzuzzu-my-pet.json](./242056-uzzuzzu-my-pet.json) |
+| Uzzuzzu My Pet: Golf Dash | 277247 | [277247-uzzuzzu-my-pet-golf-dash.json](./277247-uzzuzzu-my-pet-golf-dash.json) |
 | Uzzuzzu My Pet: Golf Dash - Amazing Edition | 328811 | [328811-uzzuzzu-my-pet-golf-dash-amazing-edition.json](./328811-uzzuzzu-my-pet-golf-dash-amazing-edition.json) |
 | Uzzuzzu My Pet: Golf Dash - Boo's Challenge | 283297 | [283297-uzzuzzu-my-pet-golf-dash-boos-challenge.json](./283297-uzzuzzu-my-pet-golf-dash-boos-challenge.json) |
 | Uzzuzzu My Pet: Golf Dash - Complete Edition | 304772 | [304772-uzzuzzu-my-pet-golf-dash-complete-edition.json](./304772-uzzuzzu-my-pet-golf-dash-complete-edition.json) |
