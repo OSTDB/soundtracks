@@ -1946,6 +1946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King of Silence | 254049 | [254049-king-of-silence.json](./254049-king-of-silence.json) |
 | King of Snatchers | 306338 | [306338-king-of-snatchers.json](./306338-king-of-snatchers.json) |
 | King of Solitaire | 39196 | [39196-king-of-solitaire.json](./39196-king-of-solitaire.json) |
+| King of Sopio | 242459 | [242459-king-of-sopio.json](./242459-king-of-sopio.json) |
 | King of Space | 345515 | [345515-king-of-space.json](./345515-king-of-space.json) |
 | King of Spin VR | 31980 | [31980-king-of-spin-vr.json](./31980-king-of-spin-vr.json) |
 | King of Sports: New Japan Pro-Wrestling | 109574 | [109574-king-of-sports-new-japan-pro-wrestling.json](./109574-king-of-sports-new-japan-pro-wrestling.json) |
@@ -2328,6 +2329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kira Kira Magical Stars | 298966 | [298966-kira-kira-magical-stars.json](./298966-kira-kira-magical-stars.json) |
 | Kira Kira Pop Princess | 26560 | [26560-kira-kira-pop-princess.json](./26560-kira-kira-pop-princess.json) |
 | Kira Kira Rainbow Pack | 26562 | [26562-kira-kira-rainbow-pack.json](./26562-kira-kira-rainbow-pack.json) |
+| Kira Kira: Rock’n’Roll Show | 242421 | [242421-kira-kira-rock-n-roll-show.json](./242421-kira-kira-rock-n-roll-show.json) |
 | Kira Legends | 285548 | [285548-kira-legends.json](./285548-kira-legends.json) |
 | Kira-Kira Catgirl Rampage | 369193 | [369193-kira-kira-catgirl-rampage.json](./369193-kira-kira-catgirl-rampage.json) |
 | Kira-kira Star Night | 134518 | [134518-kira-kira-star-night.json](./134518-kira-kira-star-night.json) |
@@ -3093,6 +3095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kohan: Immortal Sovereigns | 767 | [767-kohan-immortal-sovereigns.json](./767-kohan-immortal-sovereigns.json) |
 | Kohinata Yuzuki to Shoya Shitai!: Kemomimi Kamisama to Yukemuri Koimoyou | 396942 | [396942-kohinata-yuzuki-to-shoya-shitai-kemomimi-kamisama-to-yukemuri-koimoyou.json](./396942-kohinata-yuzuki-to-shoya-shitai-kemomimi-kamisama-to-yukemuri-koimoyou.json) |
 | Kohshien 4 | 37951 | [37951-kohshien-4.json](./37951-kohshien-4.json) |
+| Koi de wa Naku: It's Not Love, but So where Near | 242420 | [242420-koi-de-wa-naku-its-not-love-but-so-where-near.json](./242420-koi-de-wa-naku-its-not-love-but-so-where-near.json) |
 | Koi Farm | 143633 | [143633-koi-farm.json](./143633-koi-farm.json) |
 | Koi Garden | 290851 | [290851-koi-garden.json](./290851-koi-garden.json) |
 | Koi ha Balance: Tatoeba K-kun no Tabou na Ichinichi-hen | 134463 | [134463-koi-ha-balance-tatoeba-k-kun-no-tabou-na-ichinichi-hen.json](./134463-koi-ha-balance-tatoeba-k-kun-no-tabou-na-ichinichi-hen.json) |
