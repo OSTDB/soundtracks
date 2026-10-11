@@ -347,6 +347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Octopath Traveler + Octopath Traveler II Bundle | 304800 | [304800-octopath-traveler-octopath-traveler-ii-bundle.json](./304800-octopath-traveler-octopath-traveler-ii-bundle.json) |
 | Octopath Traveler: Wayfarer's Edition | 136350 | [136350-octopath-traveler-wayfarers-edition.json](./136350-octopath-traveler-wayfarers-edition.json) |
 | Octopede | 94202 | [94202-octopede.json](./94202-octopede.json) |
+| Octopi: Snow Globe | 240112 | [240112-octopi-snow-globe.json](./240112-octopi-snow-globe.json) |
 | Octopie | 204723 | [204723-octopie.json](./204723-octopie.json) |
 | Octopinbs | 394319 | [394319-octopinbs.json](./394319-octopinbs.json) |
 | Octopo | 306050 | [306050-octopo.json](./306050-octopo.json) |
@@ -3706,6 +3707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Owyn's Adventure | 116482 | [116482-owyns-adventure.json](./116482-owyns-adventure.json) |
 | Owys | 34642 | [34642-owys.json](./34642-owys.json) |
 | Oxenfree: Collector's Edition | 51536 | [51536-oxenfree-collectors-edition.json](./51536-oxenfree-collectors-edition.json) |
+| Oxide Room 208 | 240258 | [240258-oxide-room-208.json](./240258-oxide-room-208.json) |
 | Oxide Room 208: File Josh | 392344 | [392344-oxide-room-208-file-josh.json](./392344-oxide-room-208-file-josh.json) |
 | Oxide: Room 104 | 186663 | [186663-oxide-room-104.json](./186663-oxide-room-104.json) |
 | Oxidus Tales | 350602 | [350602-oxidus-tales.json](./350602-oxidus-tales.json) |
