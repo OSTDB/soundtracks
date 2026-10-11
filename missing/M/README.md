@@ -7354,6 +7354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Million Lords | 124637 | [124637-million-lords.json](./124637-million-lords.json) |
 | Million on Mars: Land Rush | 182494 | [182494-million-on-mars-land-rush.json](./182494-million-on-mars-land-rush.json) |
 | Million Onion Hotel | 62068 | [62068-million-onion-hotel.json](./62068-million-onion-hotel.json) |
+| Million Shells | 251452 | [251452-million-shells.json](./251452-million-shells.json) |
 | Million to One | 366711 | [366711-million-to-one.json](./366711-million-to-one.json) |
 | Million to One Hero | 109609 | [109609-million-to-one-hero.json](./109609-million-to-one-hero.json) |
 | Millionaire City | 115543 | [115543-millionaire-city.json](./115543-millionaire-city.json) |
@@ -11387,6 +11388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MovieStarPlanet | 94981 | [94981-moviestarplanet.json](./94981-moviestarplanet.json) |
 | Moving | 262271 | [262271-moving.json](./262271-moving.json) |
 | Moving Blocks Puzzle | 251550 | [251550-moving-blocks-puzzle.json](./251550-moving-blocks-puzzle.json) |
+| Moving Blocks the Identicons Challenge | 251489 | [251489-moving-blocks-the-identicons-challenge.json](./251489-moving-blocks-the-identicons-challenge.json) |
 | Moving Corpse | 258030 | [258030-moving-corpse.json](./258030-moving-corpse.json) |
 | Moving Day | 75793 | [75793-moving-day.json](./75793-moving-day.json) |
 | Moving Day: Make It Home | 389417 | [389417-moving-day-make-it-home.json](./389417-moving-day-make-it-home.json) |
