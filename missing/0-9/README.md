@@ -1877,6 +1877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 80's Overdrive | 58717 | [58717-80s-overdrive.json](./58717-80s-overdrive.json) |
 | 808 | 357760 | [357760-808.json](./357760-808.json) |
 | 8088 Othello | 94424 | [94424-8088-othello.json](./94424-8088-othello.json) |
+| 808s&Genetics | 264544 | [264544-808s-and-genetics.json](./264544-808s-and-genetics.json) |
 | 80s Volleyball | 151616 | [151616-80s-volleyball.json](./151616-80s-volleyball.json) |
 | 81-tris | 289576 | [289576-81-tris.json](./289576-81-tris.json) |
 | 814 | 262347 | [262347-814.json](./262347-814.json) |
