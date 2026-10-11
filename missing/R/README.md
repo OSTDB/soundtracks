@@ -363,6 +363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Racket Fury: Table Tennis VR | 28303 | [28303-racket-fury-table-tennis-vr.json](./28303-racket-fury-table-tennis-vr.json) |
 | Racket Pinball | 326831 | [326831-racket-pinball.json](./326831-racket-pinball.json) |
 | Racket: Nx | 33913 | [33913-racket-nx.json](./33913-racket-nx.json) |
+| Racketeers | 258911 | [258911-racketeers.json](./258911-racketeers.json) |
 | Rackets & Rivals | 48213 | [48213-rackets-and-rivals.json](./48213-rackets-and-rivals.json) |
 | RackJacker | 163981 | [163981-rackjacker.json](./163981-rackjacker.json) |
 | Racoonfeast | 326971 | [326971-racoonfeast.json](./326971-racoonfeast.json) |
@@ -1368,6 +1369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rattus Velocitas | 351195 | [351195-rattus-velocitas.json](./351195-rattus-velocitas.json) |
 | Rattyivty Lab | 234559 | [234559-rattyivty-lab.json](./234559-rattyivty-lab.json) |
 | Ratyboy Adventures | 242657 | [242657-ratyboy-adventures.json](./242657-ratyboy-adventures.json) |
+| Ratyrinth | 258922 | [258922-ratyrinth.json](./258922-ratyrinth.json) |
 | Ratz Instagib | 9193 | [9193-ratz-instagib.json](./9193-ratz-instagib.json) |
 | Räv Kafé | 395158 | [395158-rav-kafe.json](./395158-rav-kafe.json) |
 | Ravage | 306435 | [306435-ravage.json](./306435-ravage.json) |
@@ -5416,6 +5418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robin's Quest: A Legend Born | 17223 | [17223-robins-quest-a-legend-born.json](./17223-robins-quest-a-legend-born.json) |
 | Robina Hood's Monster Hunt | 360567 | [360567-robina-hoods-monster-hunt.json](./360567-robina-hoods-monster-hunt.json) |
 | RobinBobin | 138220 | [138220-robinbobin.json](./138220-robinbobin.json) |
+| Robinson Alchemy | 258901 | [258901-robinson-alchemy.json](./258901-robinson-alchemy.json) |
 | Robinson Crusoe and the Cursed Pirates | 36129 | [36129-robinson-crusoe-and-the-cursed-pirates.json](./36129-robinson-crusoe-and-the-cursed-pirates.json) |
 | RobinWords | 303237 | [303237-robinwords.json](./303237-robinwords.json) |
 | Robits | 183968 | [183968-robits.json](./183968-robits.json) |
@@ -5620,6 +5623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robot Squad Simulator 2017 | 34389 | [34389-robot-squad-simulator-2017.json](./34389-robot-squad-simulator-2017.json) |
 | Robot Squad Simulator X | 134013 | [134013-robot-squad-simulator-x.json](./134013-robot-squad-simulator-x.json) |
 | Robot Start: Puzzle Game | 149605 | [149605-robot-start-puzzle-game.json](./149605-robot-start-puzzle-game.json) |
+| Robot TD | 258917 | [258917-robot-td.json](./258917-robot-td.json) |
 | Robot terminator | 120704 | [120704-robot-terminator.json](./120704-robot-terminator.json) |
 | Robot Trivia Funtime | 301588 | [301588-robot-trivia-funtime.json](./301588-robot-trivia-funtime.json) |
 | Robot Unicorn Attack 2 | 76895 | [76895-robot-unicorn-attack-2.json](./76895-robot-unicorn-attack-2.json) |
@@ -6329,6 +6333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roguematch: The Extraplanar Invasion | 217273 | [217273-roguematch-the-extraplanar-invasion.json](./217273-roguematch-the-extraplanar-invasion.json) |
 | Roguemon | 374728 | [374728-roguemon.json](./374728-roguemon.json) |
 | RogueMusk | 272942 | [272942-roguemusk.json](./272942-roguemusk.json) |
+| RogueOut | 258910 | [258910-rogueout.json](./258910-rogueout.json) |
 | Rogueria: Roguelikes X Tactics | 143585 | [143585-rogueria-roguelikes-x-tactics.json](./143585-rogueria-roguelikes-x-tactics.json) |
 | Rogues Like Beer | 183014 | [183014-rogues-like-beer.json](./183014-rogues-like-beer.json) |
 | Rogues of Europa | 274495 | [274495-rogues-of-europa.json](./274495-rogues-of-europa.json) |
