@@ -5259,6 +5259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost: Find | 196118 | [196118-lost-find.json](./196118-lost-find.json) |
 | Lost:Smile Memories | 120778 | [120778-lost-smile-memories.json](./120778-lost-smile-memories.json) |
 | Lostade | 377694 | [377694-lostade.json](./377694-lostade.json) |
+| Lostboy.exe | 255566 | [255566-lostboy-exe.json](./255566-lostboy-exe.json) |
 | Losted | 190962 | [190962-losted.json](./190962-losted.json) |
 | Losted Mind | 348256 | [348256-losted-mind.json](./348256-losted-mind.json) |
 | Lostgamer | 231504 | [231504-lostgamer.json](./231504-lostgamer.json) |
