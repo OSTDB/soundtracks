@@ -976,6 +976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 202 Game Collection | 206119 | [206119-202-game-collection.json](./206119-202-game-collection.json) |
 | 2020 The God of Highschool with Naver Webtoon | 137555 | [137555-2020-the-god-of-highschool-with-naver-webtoon.json](./137555-2020-the-god-of-highschool-with-naver-webtoon.json) |
 | 2020! | 261523 | [261523-2020.json](./261523-2020.json) |
+| 2021: Moon Escape | 246869 | [246869-2021-moon-escape.json](./246869-2021-moon-escape.json) |
 | 2022 A Doom Odyssey | 258889 | [258889-2022-a-doom-odyssey.json](./258889-2022-a-doom-odyssey.json) |
 | 2024: Mosaic Retrospective | 327347 | [327347-2024-mosaic-retrospective.json](./327347-2024-mosaic-retrospective.json) |
 | 2025 Advent Calendar | 383072 | [383072-2025-advent-calendar.json](./383072-2025-advent-calendar.json) |
@@ -1405,6 +1406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Puzzle: Steampunk City | 357754 | [357754-3d-puzzle-steampunk-city.json](./357754-3d-puzzle-steampunk-city.json) |
 | 3D Puzzle: Sun Temple | 308951 | [308951-3d-puzzle-sun-temple.json](./308951-3d-puzzle-sun-temple.json) |
 | 3D Puzzle: Underground | 308944 | [308944-3d-puzzle-underground.json](./308944-3d-puzzle-underground.json) |
+| 3D Puzzle: Vintage House | 246858 | [246858-3d-puzzle-vintage-house.json](./246858-3d-puzzle-vintage-house.json) |
 | 3D Puzzle: Winter Outpost | 357753 | [357753-3d-puzzle-winter-outpost.json](./357753-3d-puzzle-winter-outpost.json) |
 | 3D Puzzle: Wood House | 192241 | [192241-3d-puzzle-wood-house.json](./192241-3d-puzzle-wood-house.json) |
 | 3D Quasars | 12356 | [12356-3d-quasars.json](./12356-3d-quasars.json) |
