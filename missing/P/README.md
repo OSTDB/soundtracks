@@ -979,6 +979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper Depths | 367489 | [367489-paper-depths.json](./367489-paper-depths.json) |
 | Paper Dolls 2: Escape | 170424 | [170424-paper-dolls-2-escape.json](./170424-paper-dolls-2-escape.json) |
 | Paper Dolls Original | 116732 | [116732-paper-dolls-original.json](./116732-paper-dolls-original.json) |
+| Paper Dominoes | 251486 | [251486-paper-dominoes.json](./251486-paper-dominoes.json) |
 | Paper Drifter | 236826 | [236826-paper-drifter.json](./236826-paper-drifter.json) |
 | Paper Dungeons Crawler | 95573 | [95573-paper-dungeons-crawler.json](./95573-paper-dungeons-crawler.json) |
 | Paper Fire! Rookie | 74138 | [74138-paper-fire-rookie.json](./74138-paper-fire-rookie.json) |
@@ -1676,6 +1677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Party Park | 226155 | [226155-party-park.json](./226155-party-park.json) |
 | Party Party Anxiety! | 383018 | [383018-party-party-anxiety.json](./383018-party-party-anxiety.json) |
 | Party Party Time | 231043 | [231043-party-party-time.json](./231043-party-party-time.json) |
+| Party Party Time + Character Skin Pack | 251487 | [251487-party-party-time-character-skin-pack.json](./251487-party-party-time-character-skin-pack.json) |
 | Party Party Time + Master Pack Set | 276462 | [276462-party-party-time-master-pack-set.json](./276462-party-party-time-master-pack-set.json) |
 | Party Party Time + Party Harder Pack | 232993 | [232993-party-party-time-party-harder-pack.json](./232993-party-party-time-party-harder-pack.json) |
 | Party Party Time + Ultra Pack Set | 260684 | [260684-party-party-time-ultra-pack-set.json](./260684-party-party-time-ultra-pack-set.json) |
@@ -3701,6 +3703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Piano: Learn and Play - Ultra Director's Cut | 328828 | [328828-piano-learn-and-play-ultra-directors-cut.json](./328828-piano-learn-and-play-ultra-directors-cut.json) |
 | Piano: Learn and Play - Ultra Premium | 304792 | [304792-piano-learn-and-play-ultra-premium.json](./304792-piano-learn-and-play-ultra-premium.json) |
 | Piano: Learn and Play - Ultra Special | 304791 | [304791-piano-learn-and-play-ultra-special.json](./304791-piano-learn-and-play-ultra-special.json) |
+| Pianoforte | 251476 | [251476-pianoforte.json](./251476-pianoforte.json) |
 | Piāomiǎo Xī Yóu | 407318 | [407318-piaomiao-xi-you.json](./407318-piaomiao-xi-you.json) |
 | Piàozhě! Xiǎohuì de Dǎgōng Dàzuòzhàn | 156626 | [156626-piaozhe-xiaohui-de-dagong-dazuozhan.json](./156626-piaozhe-xiaohui-de-dagong-dazuozhan.json) |
 | Pibby: Apocalypse | 266182 | [266182-pibby-apocalypse.json](./266182-pibby-apocalypse.json) |
@@ -7796,6 +7799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pool Shark | 169226 | [169226-pool-shark.json](./169226-pool-shark.json) |
 | Pool Shark 2 | 5984 | [5984-pool-shark-2.json](./5984-pool-shark-2.json) |
 | Pool Sharks | 92437 | [92437-pool-sharks.json](./92437-pool-sharks.json) |
+| Pool Together | 251477 | [251477-pool-together.json](./251477-pool-together.json) |
 | Pool Together 2 | 287039 | [287039-pool-together-2.json](./287039-pool-together-2.json) |
 | Pool Together Bundle | 315842 | [315842-pool-together-bundle.json](./315842-pool-together-bundle.json) |
 | Pool Tour Master | 22379 | [22379-pool-tour-master.json](./22379-pool-tour-master.json) |
@@ -9043,6 +9047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Princess and Frog | 42181 | [42181-princess-and-frog.json](./42181-princess-and-frog.json) |
 | Princess and Knight | 84433 | [84433-princess-and-knight.json](./84433-princess-and-knight.json) |
 | Princess and the Ice Dragon | 237660 | [237660-princess-and-the-ice-dragon.json](./237660-princess-and-the-ice-dragon.json) |
+| Princess Arthur for Nintendo Switch | 251488 | [251488-princess-arthur-for-nintendo-switch.json](./251488-princess-arthur-for-nintendo-switch.json) |
 | Princess Battles | 35686 | [35686-princess-battles.json](./35686-princess-battles.json) |
 | Princess Burst | 382279 | [382279-princess-burst.json](./382279-princess-burst.json) |
 | Princess Castle Quest | 122802 | [122802-princess-castle-quest.json](./122802-princess-castle-quest.json) |
@@ -11152,23 +11157,31 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puyo Ponyo Lines | 260895 | [260895-puyo-ponyo-lines.json](./260895-puyo-ponyo-lines.json) |
 | Puyo Pop | 23455 | [23455-puyo-pop.json](./23455-puyo-pop.json) |
 | Puyo Pop | 81459 | [81459-puyo-pop.json](./81459-puyo-pop.json) |
+| Puyo Pop Fever DX | 251499 | [251499-puyo-pop-fever-dx.json](./251499-puyo-pop-fever-dx.json) |
 | Puyo Puyo | 146876 | [146876-puyo-puyo.json](./146876-puyo-puyo.json) |
 | Puyo Puyo | 249773 | [249773-puyo-puyo.json](./249773-puyo-puyo.json) |
 | Puyo Puyo 2 | 84798 | [84798-puyo-puyo-2.json](./84798-puyo-puyo-2.json) |
 | Puyo Puyo 7 | 50727 | [50727-puyo-puyo-7.json](./50727-puyo-puyo-7.json) |
 | Puyo Puyo CD | 250339 | [250339-puyo-puyo-cd.json](./250339-puyo-puyo-cd.json) |
 | Puyo Puyo CD Tsuu | 250297 | [250297-puyo-puyo-cd-tsuu.json](./250297-puyo-puyo-cd-tsuu.json) |
+| Puyo Puyo DX | 251498 | [251498-puyo-puyo-dx.json](./251498-puyo-puyo-dx.json) |
 | Puyo Puyo Fever Habanero | 252125 | [252125-puyo-puyo-fever-habanero.json](./252125-puyo-puyo-fever-habanero.json) |
 | Puyo Puyo Fever Rhythm | 252126 | [252126-puyo-puyo-fever-rhythm.json](./252126-puyo-puyo-fever-rhythm.json) |
 | Puyo Puyo Fever RPG | 369995 | [369995-puyo-puyo-fever-rpg.json](./369995-puyo-puyo-fever-rpg.json) |
+| Puyo Puyo Fever Touch | 251501 | [251501-puyo-puyo-fever-touch.json](./251501-puyo-puyo-fever-touch.json) |
+| Puyo Puyo Fever Touch Lite | 251505 | [251505-puyo-puyo-fever-touch-lite.json](./251505-puyo-puyo-fever-touch-lite.json) |
 | Puyo Puyo Fever: Minna de Nazo Puyo | 251090 | [251090-puyo-puyo-fever-minna-de-nazo-puyo.json](./251090-puyo-puyo-fever-minna-de-nazo-puyo.json) |
 | Puyo Puyo Puzzle Pop | 291210 | [291210-puyo-puyo-puzzle-pop.json](./291210-puyo-puyo-puzzle-pop.json) |
+| Puyo Puyo Solitare | 251503 | [251503-puyo-puyo-solitare.json](./251503-puyo-puyo-solitare.json) |
 | Puyo Puyo Sun | 250340 | [250340-puyo-puyo-sun.json](./250340-puyo-puyo-sun.json) |
 | Puyo Puyo Tetris | 6866 | [6866-puyo-puyo-tetris.json](./6866-puyo-puyo-tetris.json) |
 | Puyo Puyo Tetris 2 | 137132 | [137132-puyo-puyo-tetris-2.json](./137132-puyo-puyo-tetris-2.json) |
 | Puyo Puyo Tetris 2: Launch Edition | 139944 | [139944-puyo-puyo-tetris-2-launch-edition.json](./139944-puyo-puyo-tetris-2-launch-edition.json) |
 | Puyo Puyo Tetris 2S | 338091 | [338091-puyo-puyo-tetris-2s.json](./338091-puyo-puyo-tetris-2s.json) |
+| Puyo Puyo Touch | 251500 | [251500-puyo-puyo-touch.json](./251500-puyo-puyo-touch.json) |
 | Puyo Puyo Tsuu | 45976 | [45976-puyo-puyo-tsuu.json](./45976-puyo-puyo-tsuu.json) |
+| Puyo Puyo Zurashi | 251502 | [251502-puyo-puyo-zurashi.json](./251502-puyo-puyo-zurashi.json) |
+| Puyo Puyo! The Medal Edition | 251496 | [251496-puyo-puyo-the-medal-edition.json](./251496-puyo-puyo-the-medal-edition.json) |
 | Puyo Puyo!! Quest | 80188 | [80188-puyo-puyo-quest.json](./80188-puyo-puyo-quest.json) |
 | Puyo Puyo!! Quest Arcade | 251092 | [251092-puyo-puyo-quest-arcade.json](./251092-puyo-puyo-quest-arcade.json) |
 | Puyo! Sokoban | 367944 | [367944-puyo-sokoban.json](./367944-puyo-sokoban.json) |
@@ -11257,6 +11270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle by Nikoli S: Numberlink | 250392 | [250392-puzzle-by-nikoli-s-numberlink.json](./250392-puzzle-by-nikoli-s-numberlink.json) |
 | Puzzle by Nikoli S: Nurikabe | 231075 | [231075-puzzle-by-nikoli-s-nurikabe.json](./231075-puzzle-by-nikoli-s-nurikabe.json) |
 | Puzzle by Nikoli S: Shikaku | 245913 | [245913-puzzle-by-nikoli-s-shikaku.json](./245913-puzzle-by-nikoli-s-shikaku.json) |
+| Puzzle by Nikoli S: Yajirin | 251479 | [251479-puzzle-by-nikoli-s-yajirin.json](./251479-puzzle-by-nikoli-s-yajirin.json) |
 | Puzzle by Nikoli V: Sudoku | 64936 | [64936-puzzle-by-nikoli-v-sudoku.json](./64936-puzzle-by-nikoli-v-sudoku.json) |
 | Puzzle by Nikoli W Hashiwokakero | 236816 | [236816-puzzle-by-nikoli-w-hashiwokakero.json](./236816-puzzle-by-nikoli-w-hashiwokakero.json) |
 | Puzzle by Nikoli W Heyawake | 230827 | [230827-puzzle-by-nikoli-w-heyawake.json](./230827-puzzle-by-nikoli-w-heyawake.json) |
