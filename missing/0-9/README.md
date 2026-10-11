@@ -624,6 +624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 12 Labours of Hercules XIII: Wonder-ful Builder - Collector's Edition | 338908 | [338908-12-labours-of-hercules-xiii-wonder-ful-builder-collectors-edition.json](./338908-12-labours-of-hercules-xiii-wonder-ful-builder-collectors-edition.json) |
 | 12 Labours of Hercules XIV: Message in a Bottle | 221170 | [221170-12-labours-of-hercules-xiv-message-in-a-bottle.json](./221170-12-labours-of-hercules-xiv-message-in-a-bottle.json) |
 | 12 Labours of Hercules XIV: Message in a Bottle - Collector's Edition | 338911 | [338911-12-labours-of-hercules-xiv-message-in-a-bottle-collectors-edition.json](./338911-12-labours-of-hercules-xiv-message-in-a-bottle-collectors-edition.json) |
+| 12 Labours of Hercules XV | 258934 | [258934-12-labours-of-hercules-xv.json](./258934-12-labours-of-hercules-xv.json) |
 | 12 Labours of Hercules XVI: Olympic Bugs | 283082 | [283082-12-labours-of-hercules-xvi-olympic-bugs.json](./283082-12-labours-of-hercules-xvi-olympic-bugs.json) |
 | 12 Labours of Hercules XVII: Feathered Fury | 318605 | [318605-12-labours-of-hercules-xvii-feathered-fury.json](./318605-12-labours-of-hercules-xvii-feathered-fury.json) |
 | 12 Labours of Hercules XVIII: Ghost Sheep | 355039 | [355039-12-labours-of-hercules-xviii-ghost-sheep.json](./355039-12-labours-of-hercules-xviii-ghost-sheep.json) |
@@ -969,6 +970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 202 Game Collection | 206119 | [206119-202-game-collection.json](./206119-202-game-collection.json) |
 | 2020 The God of Highschool with Naver Webtoon | 137555 | [137555-2020-the-god-of-highschool-with-naver-webtoon.json](./137555-2020-the-god-of-highschool-with-naver-webtoon.json) |
 | 2020! | 261523 | [261523-2020.json](./261523-2020.json) |
+| 2022 A Doom Odyssey | 258889 | [258889-2022-a-doom-odyssey.json](./258889-2022-a-doom-odyssey.json) |
 | 2024: Mosaic Retrospective | 327347 | [327347-2024-mosaic-retrospective.json](./327347-2024-mosaic-retrospective.json) |
 | 2025 Advent Calendar | 383072 | [383072-2025-advent-calendar.json](./383072-2025-advent-calendar.json) |
 | 2025: Battle for Fatherland | 72917 | [72917-2025-battle-for-fatherland.json](./72917-2025-battle-for-fatherland.json) |
