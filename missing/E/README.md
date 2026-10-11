@@ -2949,6 +2949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Erion | 228699 | [228699-erion.json](./228699-erion.json) |
 | Eris and the Fading Kingdom | 208589 | [208589-eris-and-the-fading-kingdom.json](./208589-eris-and-the-fading-kingdom.json) |
 | Eris Dysnomia | 253379 | [253379-eris-dysnomia.json](./253379-eris-dysnomia.json) |
+| ErIS: Z. θ-pRogram | 263950 | [263950-eris-z-program.json](./263950-eris-z-program.json) |
 | Erit | 152233 | [152233-erit.json](./152233-erit.json) |
 | Erix | 274743 | [274743-erix.json](./274743-erix.json) |
 | Erk: Adventures in Stone Age Real Estate | 322347 | [322347-erk-adventures-in-stone-age-real-estate.json](./322347-erk-adventures-in-stone-age-real-estate.json) |
@@ -3738,6 +3739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal Twilight | 384287 | [384287-eternal-twilight.json](./384287-eternal-twilight.json) |
 | Eternal Vampire | 336640 | [336640-eternal-vampire.json](./336640-eternal-vampire.json) |
 | Eternal Vault | 286083 | [286083-eternal-vault.json](./286083-eternal-vault.json) |
+| Eternal Vigil | 263972 | [263972-eternal-vigil.json](./263972-eternal-vigil.json) |
 | Eternal Warfare | 166617 | [166617-eternal-warfare.json](./166617-eternal-warfare.json) |
 | Eternal Wheel | 64961 | [64961-eternal-wheel.json](./64961-eternal-wheel.json) |
 | Eternal Winter | 246538 | [246538-eternal-winter.json](./246538-eternal-winter.json) |
