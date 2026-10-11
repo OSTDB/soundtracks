@@ -1149,6 +1149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Above | 91138 | [91138-above.json](./91138-above.json) |
 | Above Eden | 400942 | [400942-above-eden.json](./400942-above-eden.json) |
 | Above the Fold | 112605 | [112605-above-the-fold.json](./112605-above-the-fold.json) |
+| Above the Hill | 267280 | [267280-above-the-hill.json](./267280-above-the-hill.json) |
 | Above the Law | 195529 | [195529-above-the-law.json](./195529-above-the-law.json) |
 | Above the Skies | 166623 | [166623-above-the-skies.json](./166623-above-the-skies.json) |
 | Above the Snow | 349373 | [349373-above-the-snow.json](./349373-above-the-snow.json) |
@@ -2396,6 +2397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Afghan Hero Girl | 225701 | [225701-afghan-hero-girl.json](./225701-afghan-hero-girl.json) |
 | AFK Champions | 193866 | [193866-afk-champions.json](./193866-afk-champions.json) |
 | AFK Dungeon | 266256 | [266256-afk-dungeon.json](./266256-afk-dungeon.json) |
+| AFK Football | 267314 | [267314-afk-football.json](./267314-afk-football.json) |
 | AFK Industarry | 405469 | [405469-afk-industarry.json](./405469-afk-industarry.json) |
 | AFK Journey | 286114 | [286114-afk-journey.json](./286114-afk-journey.json) |
 | AFK Shift | 347169 | [347169-afk-shift.json](./347169-afk-shift.json) |
@@ -3271,6 +3273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airport Master | 29649 | [29649-airport-master.json](./29649-airport-master.json) |
 | Airport Police Contraband Simulator: Border Patrol | 324982 | [324982-airport-police-contraband-simulator-border-patrol.json](./324982-airport-police-contraband-simulator-border-patrol.json) |
 | Airport Police Simulator | 374416 | [374416-airport-police-simulator.json](./374416-airport-police-simulator.json) |
+| Airport Renovator Simulator | 267295 | [267295-airport-renovator-simulator.json](./267295-airport-renovator-simulator.json) |
 | Airport Run | 268016 | [268016-airport-run.json](./268016-airport-run.json) |
 | Airport Scanner | 91172 | [91172-airport-scanner.json](./91172-airport-scanner.json) |
 | Airport Security Sucks! | 397694 | [397694-airport-security-sucks.json](./397694-airport-security-sucks.json) |
@@ -6059,6 +6062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Wine Factory | 212497 | [212497-animal-wine-factory.json](./212497-animal-wine-factory.json) |
 | Animal Workforce: Idle Tycoon Clicker | 369583 | [369583-animal-workforce-idle-tycoon-clicker.json](./369583-animal-workforce-idle-tycoon-clicker.json) |
 | Animal World: Big Cats | 269555 | [269555-animal-world-big-cats.json](./269555-animal-world-big-cats.json) |
+| Animal Wrestler | 267325 | [267325-animal-wrestler.json](./267325-animal-wrestler.json) |
 | Animal Yokochou: Doki-doki Kyuushutsu Daisakusen! no Maki | 49493 | [49493-animal-yokochou-doki-doki-kyuushutsu-daisakusen-no-maki.json](./49493-animal-yokochou-doki-doki-kyuushutsu-daisakusen-no-maki.json) |
 | Animal Zodiac | 298880 | [298880-animal-zodiac.json](./298880-animal-zodiac.json) |
 | Animal Zoo: The Forgotten Land | 314879 | [314879-animal-zoo-the-forgotten-land.json](./314879-animal-zoo-the-forgotten-land.json) |
@@ -6071,6 +6075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animalia Survival | 167832 | [167832-animalia-survival.json](./167832-animalia-survival.json) |
 | Animalia Survival: Haloween Pack | 263051 | [263051-animalia-survival-haloween-pack.json](./263051-animalia-survival-haloween-pack.json) |
 | Animalia: The Quiz Game | 68752 | [68752-animalia-the-quiz-game.json](./68752-animalia-the-quiz-game.json) |
+| Animalism | 267290 | [267290-animalism.json](./267290-animalism.json) |
 | Animalistic: Last Man on Earth | 279253 | [279253-animalistic-last-man-on-earth.json](./279253-animalistic-last-man-on-earth.json) |
 | Animality | 29914 | [29914-animality.json](./29914-animality.json) |
 | Animallica | 43361 | [43361-animallica.json](./43361-animallica.json) |
