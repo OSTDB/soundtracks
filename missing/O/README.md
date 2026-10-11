@@ -376,6 +376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Odd Bot Out | 58292 | [58292-odd-bot-out.json](./58292-odd-bot-out.json) |
 | Odd Dorable | 341674 | [341674-odd-dorable.json](./341674-odd-dorable.json) |
 | Odd Guy Meets Odd Farmers | 211933 | [211933-odd-guy-meets-odd-farmers.json](./211933-odd-guy-meets-odd-farmers.json) |
+| Odd Infinitum: First Contact | 267274 | [267274-odd-infinitum-first-contact.json](./267274-odd-infinitum-first-contact.json) |
 | Odd Mobs Zero: Arrange | 375587 | [375587-odd-mobs-zero-arrange.json](./375587-odd-mobs-zero-arrange.json) |
 | Odd One | 177481 | [177481-odd-one.json](./177481-odd-one.json) |
 | Odd One Out | 380129 | [380129-odd-one-out.json](./380129-odd-one-out.json) |
@@ -3679,8 +3680,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oxyd Extra | 93036 | [93036-oxyd-extra.json](./93036-oxyd-extra.json) |
 | Oxygen Cocktail | 249275 | [249275-oxygen-cocktail.json](./249275-oxygen-cocktail.json) |
 | Oxygen Not Included: The Frosty Planet Pack | 310683 | [310683-oxygen-not-included-the-frosty-planet-pack.json](./310683-oxygen-not-included-the-frosty-planet-pack.json) |
+| Oxytone | 267287 | [267287-oxytone.json](./267287-oxytone.json) |
 | Oyabu Clinic Deathcare Corporation | 244264 | [244264-oyabu-clinic-deathcare-corporation.json](./244264-oyabu-clinic-deathcare-corporation.json) |
 | Oyadori no Ko | 150552 | [150552-oyadori-no-ko.json](./150552-oyadori-no-ko.json) |
+| Oyaji | 267276 | [267276-oyaji.json](./267276-oyaji.json) |
 | Oyako de Asobo: Miffy no Omocha-bako | 268398 | [268398-oyako-de-asobo-miffy-no-omocha-bako.json](./268398-oyako-de-asobo-miffy-no-omocha-bako.json) |
 | Oyako de Manabu SDGs | 256269 | [256269-oyako-de-manabu-sdgs.json](./256269-oyako-de-manabu-sdgs.json) |
 | Oylinder | 223393 | [223393-oylinder.json](./223393-oylinder.json) |
