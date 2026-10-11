@@ -5551,6 +5551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pizzapocalypse 2 | 379971 | [379971-pizzapocalypse-2.json](./379971-pizzapocalypse-2.json) |
 | Pizzarian | 36010 | [36010-pizzarian.json](./36010-pizzarian.json) |
 | Pizzaro Project Deep Dish | 133319 | [133319-pizzaro-project-deep-dish.json](./133319-pizzaro-project-deep-dish.json) |
+| Pizzdile | 277319 | [277319-pizzdile.json](./277319-pizzdile.json) |
 | Pizzeria | 314402 | [314402-pizzeria.json](./314402-pizzeria.json) |
 | Pizzeria of Peril | 260790 | [260790-pizzeria-of-peril.json](./260790-pizzeria-of-peril.json) |
 | Pizzicato Polka: Ensa Genya | 108833 | [108833-pizzicato-polka-ensa-genya.json](./108833-pizzicato-polka-ensa-genya.json) |
@@ -10394,6 +10395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psycholytic | 348235 | [348235-psycholytic.json](./348235-psycholytic.json) |
 | Psychomachia | 291218 | [291218-psychomachia.json](./291218-psychomachia.json) |
 | Psychomachia | 361048 | [361048-psychomachia.json](./361048-psychomachia.json) |
+| Psychometrer Eiji | 277231 | [277231-psychometrer-eiji.json](./277231-psychometrer-eiji.json) |
 | Psychonauts 2: Motherlobe Edition | 207394 | [207394-psychonauts-2-motherlobe-edition.json](./207394-psychonauts-2-motherlobe-edition.json) |
 | Psychopath Hunt | 356201 | [356201-psychopath-hunt.json](./356201-psychopath-hunt.json) |
 | Psychopath Mind Quiz: Unmask Their Dark Nature | 420663 | [420663-psychopath-mind-quiz-unmask-their-dark-nature.json](./420663-psychopath-mind-quiz-unmask-their-dark-nature.json) |
@@ -10533,6 +10535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pug's Quest | 82954 | [82954-pugs-quest.json](./82954-pugs-quest.json) |
 | Pugovki | 177051 | [177051-pugovki.json](./177051-pugovki.json) |
 | PUIQ: Demons | 298053 | [298053-puiq-demons.json](./298053-puiq-demons.json) |
+| Puke | 277256 | [277256-puke.json](./277256-puke.json) |
 | Puke the Pirate | 268123 | [268123-puke-the-pirate.json](./268123-puke-the-pirate.json) |
 | PukePuke Demon | 103636 | [103636-pukepuke-demon.json](./103636-pukepuke-demon.json) |
 | Pukunpa: Joshikousei No Houkago | 71023 | [71023-pukunpa-joshikousei-no-houkago.json](./71023-pukunpa-joshikousei-no-houkago.json) |
