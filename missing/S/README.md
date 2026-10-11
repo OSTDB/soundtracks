@@ -1497,6 +1497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Save me Mr Tako: Tasukete Tako-San | 55175 | [55175-save-me-mr-tako-tasukete-tako-san.json](./55175-save-me-mr-tako-tasukete-tako-san.json) |
 | Save Me, Dad! | 181169 | [181169-save-me-dad.json](./181169-save-me-dad.json) |
 | Save Mom | 366369 | [366369-save-mom.json](./366369-save-mom.json) |
+| Save My Human | 258900 | [258900-save-my-human.json](./258900-save-my-human.json) |
 | Save My Pet | 89278 | [89278-save-my-pet.json](./89278-save-my-pet.json) |
 | Save My Scrap | 380047 | [380047-save-my-scrap.json](./380047-save-my-scrap.json) |
 | Save My Sister | 257679 | [257679-save-my-sister.json](./257679-save-my-sister.json) |
@@ -12403,6 +12404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Mouse 2 | 149507 | [149507-space-mouse-2.json](./149507-space-mouse-2.json) |
 | Space Mouse: 35th Anniversary Edition | 98525 | [98525-space-mouse-35th-anniversary-edition.json](./98525-space-mouse-35th-anniversary-edition.json) |
 | Space Mutants | 283803 | [283803-space-mutants.json](./283803-space-mutants.json) |
+| Space Nation Online | 258920 | [258920-space-nation-online.json](./258920-space-nation-online.json) |
 | Space Nature Attack Tower Defense | 287222 | [287222-space-nature-attack-tower-defense.json](./287222-space-nature-attack-tower-defense.json) |
 | Space Needle VR | 34139 | [34139-space-needle-vr.json](./34139-space-needle-vr.json) |
 | Space Odyssey | 24829 | [24829-space-odyssey.json](./24829-space-odyssey.json) |
@@ -22095,6 +22097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swibble Dibble | 69913 | [69913-swibble-dibble.json](./69913-swibble-dibble.json) |
 | Swift Attack | 195481 | [195481-swift-attack.json](./195481-swift-attack.json) |
 | Swift Blocks | 26892 | [26892-swift-blocks.json](./26892-swift-blocks.json) |
+| Swift by Knight | 258918 | [258918-swift-by-knight.json](./258918-swift-by-knight.json) |
 | Swift Death | 138229 | [138229-swift-death.json](./138229-swift-death.json) |
 | Swift*Stitch | 65439 | [65439-swift-stitch.json](./65439-swift-stitch.json) |
 | Swifter | 346770 | [346770-swifter.json](./346770-swifter.json) |
