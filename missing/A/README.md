@@ -2382,6 +2382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aetolia | 122895 | [122895-aetolia.json](./122895-aetolia.json) |
 | Aevalore | 401087 | [401087-aevalore.json](./401087-aevalore.json) |
 | Aeve:Zero Gravity | 83540 | [83540-aeve-zero-gravity.json](./83540-aeve-zero-gravity.json) |
+| Aevitas | 262227 | [262227-aevitas.json](./262227-aevitas.json) |
 | Aevumblade Chronicles | 219686 | [219686-aevumblade-chronicles.json](./219686-aevumblade-chronicles.json) |
 | AEW Elite General Manager | 150024 | [150024-aew-elite-general-manager.json](./150024-aew-elite-general-manager.json) |
 | AEW: Fight Forever | 145216 | [145216-aew-fight-forever.json](./145216-aew-fight-forever.json) |
@@ -7973,6 +7974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arctic Fleet | 112967 | [112967-arctic-fleet.json](./112967-arctic-fleet.json) |
 | Arctic Isolation | 371330 | [371330-arctic-isolation.json](./371330-arctic-isolation.json) |
 | Arctic Motel Simulator | 311829 | [311829-arctic-motel-simulator.json](./311829-arctic-motel-simulator.json) |
+| Arctic Outpost | 262264 | [262264-arctic-outpost.json](./262264-arctic-outpost.json) |
 | Arctic Quest | 175787 | [175787-arctic-quest.json](./175787-arctic-quest.json) |
 | Arctic Quest 2 | 175788 | [175788-arctic-quest-2.json](./175788-arctic-quest-2.json) |
 | Arctic Stud Poker Run | 21432 | [21432-arctic-stud-poker-run.json](./21432-arctic-stud-poker-run.json) |
@@ -8619,6 +8621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arrog | 127144 | [127144-arrog.json](./127144-arrog.json) |
 | Arrogation: Unlight of Day | 220743 | [220743-arrogation-unlight-of-day.json](./220743-arrogation-unlight-of-day.json) |
 | Arrow | 131325 | [131325-arrow.json](./131325-arrow.json) |
+| Arrow a Row | 262248 | [262248-arrow-a-row.json](./262248-arrow-a-row.json) |
 | Arrow Bingo | 382773 | [382773-arrow-bingo.json](./382773-arrow-bingo.json) |
 | Arrow Busters | 97349 | [97349-arrow-busters.json](./97349-arrow-busters.json) |
 | Arrow Dungeon | 351720 | [351720-arrow-dungeon.json](./351720-arrow-dungeon.json) |
@@ -10312,6 +10315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Attacker-chan! | 211082 | [211082-attacker-chan.json](./211082-attacker-chan.json) |
 | Attacking Zegeta 2 | 56543 | [56543-attacking-zegeta-2.json](./56543-attacking-zegeta-2.json) |
 | Attank! | 90902 | [90902-attank.json](./90902-attank.json) |
+| Attenborough's Antarctic: An Exploration of Life in the Freezer | 262253 | [262253-attenboroughs-antarctic-an-exploration-of-life-in-the-freezer.json](./262253-attenboroughs-antarctic-an-exploration-of-life-in-the-freezer.json) |
 | Attention Deficit: A story about ADHD | 364007 | [364007-attention-deficit-a-story-about-adhd.json](./364007-attention-deficit-a-story-about-adhd.json) |
 | Attic | 157148 | [157148-attic.json](./157148-attic.json) |
 | Attic | 229743 | [229743-attic.json](./229743-attic.json) |
@@ -10334,6 +10338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ATV Drift & Tricks | 83879 | [83879-atv-drift-and-tricks.json](./83879-atv-drift-and-tricks.json) |
 | ATV Fever | 10006 | [10006-atv-fever.json](./10006-atv-fever.json) |
 | ATV Madness | 88324 | [88324-atv-madness.json](./88324-atv-madness.json) |
+| ATV Monster Racing Simulator Rally Cross | 262239 | [262239-atv-monster-racing-simulator-rally-cross.json](./262239-atv-monster-racing-simulator-rally-cross.json) |
 | ATV Mudracer | 52428 | [52428-atv-mudracer.json](./52428-atv-mudracer.json) |
 | ATV Offroad Fury | 8269 | [8269-atv-offroad-fury.json](./8269-atv-offroad-fury.json) |
 | ATV Offroad Fury 2 | 8270 | [8270-atv-offroad-fury-2.json](./8270-atv-offroad-fury-2.json) |
