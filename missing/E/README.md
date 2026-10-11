@@ -3750,6 +3750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal Return | 31290 | [31290-eternal-return.json](./31290-eternal-return.json) |
 | Eternal Return: Beachside Splash Character Bundle | 226790 | [226790-eternal-return-beachside-splash-character-bundle.json](./226790-eternal-return-beachside-splash-character-bundle.json) |
 | Eternal Ring | 10905 | [10905-eternal-ring.json](./10905-eternal-ring.json) |
+| Eternal Rising | 244175 | [244175-eternal-rising.json](./244175-eternal-rising.json) |
 | Eternal Rome | 244241 | [244241-eternal-rome.json](./244241-eternal-rome.json) |
 | Eternal Sacrifice | 273964 | [273964-eternal-sacrifice.json](./273964-eternal-sacrifice.json) |
 | Eternal Saga | 62762 | [62762-eternal-saga.json](./62762-eternal-saga.json) |
@@ -4127,6 +4128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everchained | 304643 | [304643-everchained.json](./304643-everchained.json) |
 | Everchanging | 157153 | [157153-everchanging.json](./157153-everchanging.json) |
 | Everdark Tower | 121744 | [121744-everdark-tower.json](./121744-everdark-tower.json) |
+| Everdate: The Let's Play Dating Game | 244143 | [244143-everdate-the-lets-play-dating-game.json](./244143-everdate-the-lets-play-dating-game.json) |
 | Everdawn | 185494 | [185494-everdawn.json](./185494-everdawn.json) |
 | EverDead: Zombie Apocalypse | 63681 | [63681-everdead-zombie-apocalypse.json](./63681-everdead-zombie-apocalypse.json) |
 | Everdell | 210527 | [210527-everdell.json](./210527-everdell.json) |
