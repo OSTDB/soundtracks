@@ -1374,6 +1374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paranormalized | 213837 | [213837-paranormalized.json](./213837-paranormalized.json) |
 | Paranormasight: The Mermaid's Curse | 388426 | [388426-paranormasight-the-mermaids-curse.json](./388426-paranormasight-the-mermaids-curse.json) |
 | Paranormasight: The Seven Mysteries of Honjo | 236694 | [236694-paranormasight-the-seven-mysteries-of-honjo.json](./236694-paranormasight-the-seven-mysteries-of-honjo.json) |
+| Paranox | 273828 | [273828-paranox.json](./273828-paranox.json) |
 | ParaParaParadise 2nd mix | 78946 | [78946-paraparaparadise-2nd-mix.json](./78946-paraparaparadise-2nd-mix.json) |
 | Paraplasm: Beyond the Veil | 295160 | [295160-paraplasm-beyond-the-veil.json](./295160-paraplasm-beyond-the-veil.json) |
 | PaRappa the Rapper | 269666 | [269666-parappa-the-rapper.json](./269666-parappa-the-rapper.json) |
@@ -1895,6 +1896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PathoBlasta VS | 276188 | [276188-pathoblasta-vs.json](./276188-pathoblasta-vs.json) |
 | Pathogen | 201641 | [201641-pathogen.json](./201641-pathogen.json) |
 | Pathogen | 213588 | [213588-pathogen.json](./213588-pathogen.json) |
+| Pathogen Purge: Tower Defense | 273825 | [273825-pathogen-purge-tower-defense.json](./273825-pathogen-purge-tower-defense.json) |
 | Pathogen-X | 143064 | [143064-pathogen-x.json](./143064-pathogen-x.json) |
 | Pathogen: Code Omega | 400467 | [400467-pathogen-code-omega.json](./400467-pathogen-code-omega.json) |
 | Pathogenesis: Overcome | 122387 | [122387-pathogenesis-overcome.json](./122387-pathogenesis-overcome.json) |
@@ -9933,6 +9935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Starship | 33222 | [33222-project-starship.json](./33222-project-starship.json) |
 | Project Starship X | 126587 | [126587-project-starship-x.json](./126587-project-starship-x.json) |
 | Project Starship X: Limited Edition | 167083 | [167083-project-starship-x-limited-edition.json](./167083-project-starship-x-limited-edition.json) |
+| Project Stocks | 273823 | [273823-project-stocks.json](./273823-project-stocks.json) |
 | Project Stormos | 62025 | [62025-project-stormos.json](./62025-project-stormos.json) |
 | Project Stratarch | 259260 | [259260-project-stratarch.json](./259260-project-stratarch.json) |
 | Project Subtrahend | 274948 | [274948-project-subtrahend.json](./274948-project-subtrahend.json) |
