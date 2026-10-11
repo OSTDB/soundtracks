@@ -2990,6 +2990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Light Source | 416108 | [416108-light-source.json](./416108-light-source.json) |
 | Light Speed Adventures | 330518 | [330518-light-speed-adventures.json](./330518-light-speed-adventures.json) |
 | Light Speed Bike: Motor Cycle Rider Game Pro | 174201 | [174201-light-speed-bike-motor-cycle-rider-game-pro.json](./174201-light-speed-bike-motor-cycle-rider-game-pro.json) |
+| Light Speed Ride Out | 254400 | [254400-light-speed-ride-out.json](./254400-light-speed-ride-out.json) |
 | Light Strike Array | 76583 | [76583-light-strike-array.json](./76583-light-strike-array.json) |
 | Light Switch Simulator | 317591 | [317591-light-switch-simulator.json](./317591-light-switch-simulator.json) |
 | Light the Backrooms | 232441 | [232441-light-the-backrooms.json](./232441-light-the-backrooms.json) |
@@ -3065,6 +3066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lightness | 214035 | [214035-lightness.json](./214035-lightness.json) |
 | Lightning | 221223 | [221223-lightning.json](./221223-lightning.json) |
 | Lightning Angel Litona Liliche | 110133 | [110133-lightning-angel-litona-liliche.json](./110133-lightning-angel-litona-liliche.json) |
+| Lightning Duru | 254390 | [254390-lightning-duru.json](./254390-lightning-duru.json) |
 | Lightning Fast | 157141 | [157141-lightning-fast.json](./157141-lightning-fast.json) |
 | Lightning Fighter | 335329 | [335329-lightning-fighter.json](./335329-lightning-fighter.json) |
 | Lightning Legend: Daigo no Daibouken | 44772 | [44772-lightning-legend-daigo-no-daibouken.json](./44772-lightning-legend-daigo-no-daibouken.json) |
@@ -4970,6 +4972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Color | 258110 | [258110-lost-color.json](./258110-lost-color.json) |
 | Lost Colors | 112520 | [112520-lost-colors.json](./112520-lost-colors.json) |
 | Lost Connection | 378392 | [378392-lost-connection.json](./378392-lost-connection.json) |
+| Lost Connections | 254371 | [254371-lost-connections.json](./254371-lost-connections.json) |
 | Lost Continent | 191553 | [191553-lost-continent.json](./191553-lost-continent.json) |
 | Lost Cosmonaut | 33402 | [33402-lost-cosmonaut.json](./33402-lost-cosmonaut.json) |
 | Lost Crab​ | 417663 | [417663-lost-crab.json](./417663-lost-crab.json) |
@@ -5648,6 +5651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LoveR Kiss: Costume Deluxe Pack | 136945 | [136945-lover-kiss-costume-deluxe-pack.json](./136945-lover-kiss-costume-deluxe-pack.json) |
 | LoveR Kiss: Endless Memories | 355544 | [355544-lover-kiss-endless-memories.json](./355544-lover-kiss-endless-memories.json) |
 | Lover Pretend | 193536 | [193536-lover-pretend.json](./193536-lover-pretend.json) |
+| Lover Pretend: Limited Edition | 254366 | [254366-lover-pretend-limited-edition.json](./254366-lover-pretend-limited-edition.json) |
 | Lover Survivors | 303638 | [303638-lover-survivors.json](./303638-lover-survivors.json) |
 | Loverboy | 24906 | [24906-loverboy.json](./24906-loverboy.json) |
 | Loveressive | 194598 | [194598-loveressive.json](./194598-loveressive.json) |
