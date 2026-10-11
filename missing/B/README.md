@@ -892,6 +892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ball Blast: Space DLC | 356815 | [356815-ball-blast-space-dlc.json](./356815-ball-blast-space-dlc.json) |
 | Ball Blast: Space Edition | 364097 | [364097-ball-blast-space-edition.json](./364097-ball-blast-space-edition.json) |
 | Ball Blast: Wilds DLC | 356816 | [356816-ball-blast-wilds-dlc.json](./356816-ball-blast-wilds-dlc.json) |
+| Ball Blaster | 246312 | [246312-ball-blaster.json](./246312-ball-blaster.json) |
 | Ball Blaster | 359386 | [359386-ball-blaster.json](./359386-ball-blaster.json) |
 | Ball Blitz! | 296615 | [296615-ball-blitz.json](./296615-ball-blitz.json) |
 | Ball Bounce Maze | 166611 | [166611-ball-bounce-maze.json](./166611-ball-bounce-maze.json) |
@@ -7197,6 +7198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bludgeon | 119488 | [119488-bludgeon.json](./119488-bludgeon.json) |
 | Blue | 133854 | [133854-blue.json](./133854-blue.json) |
 | Blue | 176777 | [176777-blue.json](./176777-blue.json) |
+| Blue | 246314 | [246314-blue.json](./246314-blue.json) |
 | Blue | 380034 | [380034-blue.json](./380034-blue.json) |
 | Blue | 408640 | [408640-blue.json](./408640-blue.json) |
 | Blue Angelo | 18253 | [18253-blue-angelo.json](./18253-blue-angelo.json) |
@@ -7737,6 +7739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomb Farm | 413917 | [413917-bomb-farm.json](./413917-bomb-farm.json) |
 | Bomb Fight | 305297 | [305297-bomb-fight.json](./305297-bomb-fight.json) |
 | Bomb Fight | 305460 | [305460-bomb-fight.json](./305460-bomb-fight.json) |
+| Bomb Hero | 246315 | [246315-bomb-hero.json](./246315-bomb-hero.json) |
 | Bomb Hero | 286778 | [286778-bomb-hero.json](./286778-bomb-hero.json) |
 | Bomb Hero 3D | 175735 | [175735-bomb-hero-3d.json](./175735-bomb-hero-3d.json) |
 | Bomb Heroes | 97499 | [97499-bomb-heroes.json](./97499-bomb-heroes.json) |
@@ -8696,6 +8699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bowled | 403557 | [403557-bowled.json](./403557-bowled.json) |
 | Bowlers | 384080 | [384080-bowlers.json](./384080-bowlers.json) |
 | Bowling | 131535 | [131535-bowling.json](./131535-bowling.json) |
+| Bowling | 246283 | [246283-bowling.json](./246283-bowling.json) |
 | Bowling | 247004 | [247004-bowling.json](./247004-bowling.json) |
 | Bowling | 291999 | [291999-bowling.json](./291999-bowling.json) |
 | Bowling | 300414 | [300414-bowling.json](./300414-bowling.json) |
@@ -8782,6 +8786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Box Office Game | 319225 | [319225-box-office-game.json](./319225-box-office-game.json) |
 | Box Office Mayhem: Theatre Tycoon | 399184 | [399184-box-office-mayhem-theatre-tycoon.json](./399184-box-office-mayhem-theatre-tycoon.json) |
 | Box Out! | 35622 | [35622-box-out.json](./35622-box-out.json) |
+| Box Puzzle | 246316 | [246316-box-puzzle.json](./246316-box-puzzle.json) |
 | Box Roulette Simulator | 234629 | [234629-box-roulette-simulator.json](./234629-box-roulette-simulator.json) |
 | Box Runner! | 209671 | [209671-box-runner.json](./209671-box-runner.json) |
 | Box Runners: Deluxe! | 398676 | [398676-box-runners-deluxe.json](./398676-box-runners-deluxe.json) |
@@ -9153,6 +9158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brave Furries | 35603 | [35603-brave-furries.json](./35603-brave-furries.json) |
 | Brave Girl Ravens xR | 98528 | [98528-brave-girl-ravens-xr.json](./98528-brave-girl-ravens-xr.json) |
 | Brave Hand | 81690 | [81690-brave-hand.json](./81690-brave-hand.json) |
+| Brave Heart | 246317 | [246317-brave-heart.json](./246317-brave-heart.json) |
 | Brave Hero | 295271 | [295271-brave-hero.json](./295271-brave-hero.json) |
 | Brave Hero Yuusha EX | 111639 | [111639-brave-hero-yuusha-ex.json](./111639-brave-hero-yuusha-ex.json) |
 | Brave Heroes | 208604 | [208604-brave-heroes.json](./208604-brave-heroes.json) |
@@ -10161,6 +10167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Bobble Classic | 332248 | [332248-bubble-bobble-classic.json](./332248-bubble-bobble-classic.json) |
 | Bubble Bobble Double Shot | 20672 | [20672-bubble-bobble-double-shot.json](./20672-bubble-bobble-double-shot.json) |
 | Bubble Bobble Evolution | 38483 | [38483-bubble-bobble-evolution.json](./38483-bubble-bobble-evolution.json) |
+| Bubble Bobble Micro Player | 246300 | [246300-bubble-bobble-micro-player.json](./246300-bubble-bobble-micro-player.json) |
 | Bubble Bobble Nostalgie | 251020 | [251020-bubble-bobble-nostalgie.json](./251020-bubble-bobble-nostalgie.json) |
 | Bubble Bobble Part 2 | 7801 | [7801-bubble-bobble-part-2.json](./7801-bubble-bobble-part-2.json) |
 | Bubble Bobble The Revival | 335465 | [335465-bubble-bobble-the-revival.json](./335465-bubble-bobble-the-revival.json) |
@@ -10351,6 +10358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buddy, No! | 234191 | [234191-buddy-no.json](./234191-buddy-no.json) |
 | Buddy's Creative Quest! | 157983 | [157983-buddys-creative-quest.json](./157983-buddys-creative-quest.json) |
 | Buddyman Run | 266129 | [266129-buddyman-run.json](./266129-buddyman-run.json) |
+| Buddytale | 246305 | [246305-buddytale.json](./246305-buddytale.json) |
 | Budget Backrooms | 266290 | [266290-budget-backrooms.json](./266290-budget-backrooms.json) |
 | Budget Cuts | 18970 | [18970-budget-cuts.json](./18970-budget-cuts.json) |
 | Budget Cuts 2: Mission Insolvency | 119340 | [119340-budget-cuts-2-mission-insolvency.json](./119340-budget-cuts-2-mission-insolvency.json) |
@@ -10741,6 +10749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bump in the Night | 289555 | [289555-bump-in-the-night.json](./289555-bump-in-the-night.json) |
 | Bump in the Night | 304843 | [304843-bump-in-the-night.json](./304843-bump-in-the-night.json) |
 | Bump Jump | 210670 | [210670-bump-jump.json](./210670-bump-jump.json) |
+| Bump Jump | 246319 | [246319-bump-jump.json](./246319-bump-jump.json) |
 | Bump.io: Arena of Bumper | 106960 | [106960-bump-io-arena-of-bumper.json](./106960-bump-io-arena-of-bumper.json) |
 | Bumparound | 181673 | [181673-bumparound.json](./181673-bumparound.json) |
 | Bumper | 31845 | [31845-bumper.json](./31845-bumper.json) |
@@ -11241,6 +11250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BustyBiz: Anna Pack | 265252 | [265252-bustybiz-anna-pack.json](./265252-bustybiz-anna-pack.json) |
 | Busy Bea's Halftime Hustle | 349295 | [349295-busy-beas-halftime-hustle.json](./349295-busy-beas-halftime-hustle.json) |
 | Busy Bee | 246866 | [246866-busy-bee.json](./246866-busy-bee.json) |
+| Busy Bong | 246320 | [246320-busy-bong.json](./246320-busy-bong.json) |
 | Busy Busy Beaver | 134399 | [134399-busy-busy-beaver.json](./134399-busy-busy-beaver.json) |
 | Busy Scissors | 50594 | [50594-busy-scissors.json](./50594-busy-scissors.json) |
 | Busy Sweets Factory | 44499 | [44499-busy-sweets-factory.json](./44499-busy-sweets-factory.json) |
