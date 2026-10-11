@@ -3238,6 +3238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Intlovert Game Club | 342756 | [342756-intlovert-game-club.json](./342756-intlovert-game-club.json) |
 | Into a Dream | 129629 | [129629-into-a-dream.json](./129629-into-a-dream.json) |
 | Into a Hearth Yonder | 341682 | [341682-into-a-hearth-yonder.json](./341682-into-a-hearth-yonder.json) |
+| Into Arith | 270567 | [270567-into-arith.json](./270567-into-arith.json) |
 | Into Asteroid Belt | 178641 | [178641-into-asteroid-belt.json](./178641-into-asteroid-belt.json) |
 | Into Magicland | 45342 | [45342-into-magicland.json](./45342-into-magicland.json) |
 | Into Oblivion | 301586 | [301586-into-oblivion.json](./301586-into-oblivion.json) |
@@ -3263,6 +3264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Into The Depths | 329522 | [329522-into-the-depths.json](./329522-into-the-depths.json) |
 | Into The Depths | 372049 | [372049-into-the-depths.json](./372049-into-the-depths.json) |
 | Into the Depths Below | 279127 | [279127-into-the-depths-below.json](./279127-into-the-depths-below.json) |
+| Into the Depths of Despair | 270563 | [270563-into-the-depths-of-despair.json](./270563-into-the-depths-of-despair.json) |
 | Into the Dungeon | 238983 | [238983-into-the-dungeon.json](./238983-into-the-dungeon.json) |
 | Into the Dungeon | 258171 | [258171-into-the-dungeon.json](./258171-into-the-dungeon.json) |
 | Into the Dust | 399145 | [399145-into-the-dust.json](./399145-into-the-dust.json) |
