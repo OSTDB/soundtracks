@@ -4185,6 +4185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beth the Exhibitionist | 154582 | [154582-beth-the-exhibitionist.json](./154582-beth-the-exhibitionist.json) |
 | Bethesda Pinball | 297501 | [297501-bethesda-pinball.json](./297501-bethesda-pinball.json) |
 | Betia Pera-pera English Adventure | 194976 | [194976-betia-pera-pera-english-adventure.json](./194976-betia-pera-pera-english-adventure.json) |
+| Betomis | 263943 | [263943-betomis.json](./263943-betomis.json) |
 | BeTrapped! | 71522 | [71522-betrapped.json](./71522-betrapped.json) |
 | Betray Me Not | 239679 | [239679-betray-me-not.json](./239679-betray-me-not.json) |
 | Betrayal At Club Low | 194803 | [194803-betrayal-at-club-low.json](./194803-betrayal-at-club-low.json) |
@@ -6429,6 +6430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloc | 94860 | [94860-bloc.json](./94860-bloc.json) |
 | Blochead | 78963 | [78963-blochead.json](./78963-blochead.json) |
 | Block ‘Em Sock ‘Em | 381135 | [381135-block-em-sock-em.json](./381135-block-em-sock-em.json) |
+| Block & Shot | 263976 | [263976-block-and-shot.json](./263976-block-and-shot.json) |
 | Block 1010: Colorful | 107073 | [107073-block-1010-colorful.json](./107073-block-1010-colorful.json) |
 | Block 2D: The Retro Block | 88739 | [88739-block-2d-the-retro-block.json](./88739-block-2d-the-retro-block.json) |
 | Block Amok | 62271 | [62271-block-amok.json](./62271-block-amok.json) |
@@ -7711,6 +7713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomb Them All | 188032 | [188032-bomb-them-all.json](./188032-bomb-them-all.json) |
 | Bomb Threat | 77323 | [77323-bomb-threat.json](./77323-bomb-threat.json) |
 | Bomb Threat | 77324 | [77324-bomb-threat.json](./77324-bomb-threat.json) |
+| Bomb Up | 263944 | [263944-bomb-up.json](./263944-bomb-up.json) |
 | Bomb-Bomb | 101628 | [101628-bomb-bomb.json](./101628-bomb-bomb.json) |
 | Bomb: A Modern Missile Command | 134395 | [134395-bomb-a-modern-missile-command.json](./134395-bomb-a-modern-missile-command.json) |
 | Bomb: Who let the dogfight? | 17403 | [17403-bomb-who-let-the-dogfight.json](./17403-bomb-who-let-the-dogfight.json) |
