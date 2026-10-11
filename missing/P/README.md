@@ -4847,6 +4847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirates: Legend of the Black Buccaneer | 11286 | [11286-pirates-legend-of-the-black-buccaneer.json](./11286-pirates-legend-of-the-black-buccaneer.json) |
 | Pirates: Mystery of the Skeletons Island | 133425 | [133425-pirates-mystery-of-the-skeletons-island.json](./133425-pirates-mystery-of-the-skeletons-island.json) |
 | Pirates: Tides of Fortune | 23592 | [23592-pirates-tides-of-fortune.json](./23592-pirates-tides-of-fortune.json) |
+| Pirates! | 267320 | [267320-pirates.json](./267320-pirates.json) |
 | Pirates! Gold | 9232 | [9232-pirates-gold.json](./9232-pirates-gold.json) |
 | Pirates! Gold Plus | 36216 | [36216-pirates-gold-plus.json](./36216-pirates-gold-plus.json) |
 | Pirates! Showdown: Enhanced Edition | 289318 | [289318-pirates-showdown-enhanced-edition.json](./289318-pirates-showdown-enhanced-edition.json) |
@@ -10437,6 +10438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psychobouldering | 328974 | [328974-psychobouldering.json](./328974-psychobouldering.json) |
 | Psychocat: The Answer | 33811 | [33811-psychocat-the-answer.json](./33811-psychocat-the-answer.json) |
 | PsychoCudgel | 316641 | [316641-psychocudgel.json](./316641-psychocudgel.json) |
+| PsychoDive | 267288 | [267288-psychodive.json](./267288-psychodive.json) |
 | Psychofinger | 273436 | [273436-psychofinger.json](./273436-psychofinger.json) |
 | Psychoflesh | 144575 | [144575-psychoflesh.json](./144575-psychoflesh.json) |
 | Psychofunk | 161776 | [161776-psychofunk.json](./161776-psychofunk.json) |
