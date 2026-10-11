@@ -273,6 +273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zelda II: Boss Endurance | 280757 | [280757-zelda-ii-boss-endurance.json](./280757-zelda-ii-boss-endurance.json) |
 | Zelda II: Paracosm | 305342 | [305342-zelda-ii-paracosm.json](./305342-zelda-ii-paracosm.json) |
 | Zelda II: Resurrection of Ganon | 339257 | [339257-zelda-ii-resurrection-of-ganon.json](./339257-zelda-ii-resurrection-of-ganon.json) |
+| Zelda II: The Adventure of Link Randomizer | 241862 | [241862-zelda-ii-the-adventure-of-link-randomizer.json](./241862-zelda-ii-the-adventure-of-link-randomizer.json) |
 | Zelda II: The Adventure of Link SNES | 377747 | [377747-zelda-ii-the-adventure-of-link-snes.json](./377747-zelda-ii-the-adventure-of-link-snes.json) |
 | Zelda II: The Adventure of Mario | 408731 | [408731-zelda-ii-the-adventure-of-mario.json](./408731-zelda-ii-the-adventure-of-mario.json) |
 | Zelda II: The Nightmare of Ganon | 215167 | [215167-zelda-ii-the-nightmare-of-ganon.json](./215167-zelda-ii-the-nightmare-of-ganon.json) |
@@ -674,6 +675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ziegel: An Arcade Platformer | 96206 | [96206-ziegel-an-arcade-platformer.json](./96206-ziegel-an-arcade-platformer.json) |
 | Zig | 96695 | [96695-zig.json](./96695-zig.json) |
 | Zig Zag Ball | 74720 | [74720-zig-zag-ball.json](./74720-zig-zag-ball.json) |
+| Zig Zag Boom | 241997 | [241997-zig-zag-boom.json](./241997-zig-zag-boom.json) |
 | Zig Zag Flag Shag | 84470 | [84470-zig-zag-flag-shag.json](./84470-zig-zag-flag-shag.json) |
 | Zig Zag Game | 88216 | [88216-zig-zag-game.json](./88216-zig-zag-game.json) |
 | Zig Zag Go | 84933 | [84933-zig-zag-go.json](./84933-zig-zag-go.json) |
