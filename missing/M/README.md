@@ -2007,6 +2007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MaoMaoMao | 392300 | [392300-maomaomao.json](./392300-maomaomao.json) |
 | Maoten | 194576 | [194576-maoten.json](./194576-maoten.json) |
 | Maou Company | 292050 | [292050-maou-company.json](./292050-maou-company.json) |
+| Maou Shoujo Eri | 262262 | [262262-maou-shoujo-eri.json](./262262-maou-shoujo-eri.json) |
 | Maou's Crucible | 381740 | [381740-maous-crucible.json](./381740-maous-crucible.json) |
 | Màoxiǎn Xiǎofēnduì | 370228 | [370228-maoxian-xiaofendui.json](./370228-maoxian-xiaofendui.json) |
 | Map Hopper | 180682 | [180682-map-hopper.json](./180682-map-hopper.json) |
@@ -11330,6 +11331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Movies Tycoon: Dawn of Cinema | 365820 | [365820-movies-tycoon-dawn-of-cinema.json](./365820-movies-tycoon-dawn-of-cinema.json) |
 | Movies Tycoon: Thrills & Spectacles | 377853 | [377853-movies-tycoon-thrills-and-spectacles.json](./377853-movies-tycoon-thrills-and-spectacles.json) |
 | MovieStarPlanet | 94981 | [94981-moviestarplanet.json](./94981-moviestarplanet.json) |
+| Moving | 262271 | [262271-moving.json](./262271-moving.json) |
 | Moving Blocks Puzzle | 251550 | [251550-moving-blocks-puzzle.json](./251550-moving-blocks-puzzle.json) |
 | Moving Corpse | 258030 | [258030-moving-corpse.json](./258030-moving-corpse.json) |
 | Moving Day | 75793 | [75793-moving-day.json](./75793-moving-day.json) |
@@ -11535,6 +11537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Gold: Tooyama no Kinsan Space Chou | 41317 | [41317-mr-gold-tooyama-no-kinsan-space-chou.json](./41317-mr-gold-tooyama-no-kinsan-space-chou.json) |
 | Mr. Golf | 57050 | [57050-mr-golf.json](./57050-mr-golf.json) |
 | Mr. Hibbl | 156661 | [156661-mr-hibbl.json](./156661-mr-hibbl.json) |
+| Mr. Hibbl: The Lost Levels | 262237 | [262237-mr-hibbl-the-lost-levels.json](./262237-mr-hibbl-the-lost-levels.json) |
 | Mr. Hoob! | 372695 | [372695-mr-hoob.json](./372695-mr-hoob.json) |
 | Mr. Hopp's Manor Escape | 196119 | [196119-mr-hopps-manor-escape.json](./196119-mr-hopps-manor-escape.json) |
 | Mr. Hopp's Playhouse 2 | 152818 | [152818-mr-hopps-playhouse-2.json](./152818-mr-hopps-playhouse-2.json) |
