@@ -4403,6 +4403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chief Bubble Officer | 413163 | [413163-chief-bubble-officer.json](./413163-chief-bubble-officer.json) |
 | Chief Cenab: Şahmaran | 391347 | [391347-chief-cenab-sahmaran.json](./391347-chief-cenab-sahmaran.json) |
 | Chief Challenge | 335473 | [335473-chief-challenge.json](./335473-chief-challenge.json) |
+| Chief Emoji Officer | 240702 | [240702-chief-emoji-officer.json](./240702-chief-emoji-officer.json) |
 | Chief Miner | 373357 | [373357-chief-miner.json](./373357-chief-miner.json) |
 | Chief's Quest | 111703 | [111703-chiefs-quest.json](./111703-chiefs-quest.json) |
 | Chieftain's Daughter | 244313 | [244313-chieftains-daughter.json](./244313-chieftains-daughter.json) |
@@ -5519,6 +5520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Citadel | 404944 | [404944-citadel.json](./404944-citadel.json) |
 | Citadel | 75523 | [75523-citadel.json](./75523-citadel.json) |
 | Citadel | 78595 | [78595-citadel.json](./78595-citadel.json) |
+| Citadel Anew | 240713 | [240713-citadel-anew.json](./240713-citadel-anew.json) |
 | Citadel Combat Cards | 131343 | [131343-citadel-combat-cards.json](./131343-citadel-combat-cards.json) |
 | Citadel of Fire | 271812 | [271812-citadel-of-fire.json](./271812-citadel-of-fire.json) |
 | Citadel of the Dead | 169981 | [169981-citadel-of-the-dead.json](./169981-citadel-of-the-dead.json) |
@@ -10121,6 +10123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crashnauts | 34131 | [34131-crashnauts.json](./34131-crashnauts.json) |
 | Crashocalypse | 201656 | [201656-crashocalypse.json](./201656-crashocalypse.json) |
 | Crashout Crew | 372144 | [372144-crashout-crew.json](./372144-crashout-crew.json) |
+| CrashOut Xtreme | 240715 | [240715-crashout-xtreme.json](./240715-crashout-xtreme.json) |
 | Crashtest | 151273 | [151273-crashtest.json](./151273-crashtest.json) |
 | CrashTV | 201616 | [201616-crashtv.json](./201616-crashtv.json) |
 | Crashy Cars! | 247178 | [247178-crashy-cars.json](./247178-crashy-cars.json) |
@@ -10228,6 +10231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Captain Cannon: Mission - Billionaire Buster | 382437 | [382437-crazy-captain-cannon-mission-billionaire-buster.json](./382437-crazy-captain-cannon-mission-billionaire-buster.json) |
 | Crazy Car | 94263 | [94263-crazy-car.json](./94263-crazy-car.json) |
 | Crazy Cars | 12550 | [12550-crazy-cars.json](./12550-crazy-cars.json) |
+| Crazy Cars | 240823 | [240823-crazy-cars.json](./240823-crazy-cars.json) |
 | Crazy Cars: Hit the Road | 62976 | [62976-crazy-cars-hit-the-road.json](./62976-crazy-cars-hit-the-road.json) |
 | Crazy Cart: Ultimate Drift | 120289 | [120289-crazy-cart-ultimate-drift.json](./120289-crazy-cart-ultimate-drift.json) |
 | Crazy Castle | 23564 | [23564-crazy-castle.json](./23564-crazy-castle.json) |
