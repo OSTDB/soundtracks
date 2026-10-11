@@ -1610,6 +1610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 5 Minutes: DLC 2 | 377394 | [377394-5-minutes-dlc-2.json](./377394-5-minutes-dlc-2.json) |
 | 5 Minutes: DLC Final | 377393 | [377393-5-minutes-dlc-final.json](./377393-5-minutes-dlc-final.json) |
 | 5 Nights At Grek's Hotel | 229199 | [229199-5-nights-at-greks-hotel.json](./229199-5-nights-at-greks-hotel.json) |
+| 5 Nights at Hoax Freddy's | 277810 | [277810-5-nights-at-hoax-freddys.json](./277810-5-nights-at-hoax-freddys.json) |
 | 5 Nights at Pizzeria: Animatronics Block Shooter | 102609 | [102609-5-nights-at-pizzeria-animatronics-block-shooter.json](./102609-5-nights-at-pizzeria-animatronics-block-shooter.json) |
 | 5 Nights at Timokha's 4 School | 326230 | [326230-5-nights-at-timokhas-4-school.json](./326230-5-nights-at-timokhas-4-school.json) |
 | 5 O'clock Lock | 308333 | [308333-5-oclock-lock.json](./308333-5-oclock-lock.json) |
@@ -1654,6 +1655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 5125m | 370206 | [370206-5125m.json](./370206-5125m.json) |
 | 5200 Menu | 93539 | [93539-5200-menu.json](./93539-5200-menu.json) |
 | 52Beatup | 261834 | [261834-52beatup.json](./261834-52beatup.json) |
+| 52Hertz | 277791 | [277791-52hertz.json](./277791-52hertz.json) |
 | 52Hertz | 367764 | [367764-52hertz.json](./367764-52hertz.json) |
 | 555! | 241328 | [241328-555.json](./241328-555.json) |
 | 57° North for Merge Cube | 90141 | [90141-57-north-for-merge-cube.json](./90141-57-north-for-merge-cube.json) |
