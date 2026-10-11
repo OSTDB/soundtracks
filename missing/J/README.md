@@ -305,6 +305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jamal Jones: In Judgment of Evil | 262999 | [262999-jamal-jones-in-judgment-of-evil.json](./262999-jamal-jones-in-judgment-of-evil.json) |
 | Jamal Jones: One Man Jury! | 263000 | [263000-jamal-jones-one-man-jury.json](./263000-jamal-jones-one-man-jury.json) |
 | Jamango! | 312618 | [312618-jamango.json](./312618-jamango.json) |
+| Jamboy: A Jelly-cious Hero | 260596 | [260596-jamboy-a-jelly-cious-hero.json](./260596-jamboy-a-jelly-cious-hero.json) |
 | Jambredrek: Two Guns | 386992 | [386992-jambredrek-two-guns.json](./386992-jambredrek-two-guns.json) |
 | Jamco Matefest 3013 | 128614 | [128614-jamco-matefest-3013.json](./128614-jamco-matefest-3013.json) |
 | Jamdat Word Craft | 71486 | [71486-jamdat-word-craft.json](./71486-jamdat-word-craft.json) |
@@ -404,6 +405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Janitor Simulator | 178577 | [178577-janitor-simulator.json](./178577-janitor-simulator.json) |
 | Janitorial Escapism | 402428 | [402428-janitorial-escapism.json](./402428-janitorial-escapism.json) |
 | Janitron | 376596 | [376596-janitron.json](./376596-janitron.json) |
+| Jank Cube VR | 260568 | [260568-jank-cube-vr.json](./260568-jank-cube-vr.json) |
 | JanKen Battle Arena | 245051 | [245051-janken-battle-arena.json](./245051-janken-battle-arena.json) |
 | Janken Disk Shiro | 41368 | [41368-janken-disk-shiro.json](./41368-janken-disk-shiro.json) |
 | Janken Horn | 326175 | [326175-janken-horn.json](./326175-janken-horn.json) |
@@ -973,6 +975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jewels Palace | 114757 | [114757-jewels-palace.json](./114757-jewels-palace.json) |
 | Jewels Time : Endless match | 108510 | [108510-jewels-time-endless-match.json](./108510-jewels-time-endless-match.json) |
 | Jezebel and the Flame | 186254 | [186254-jezebel-and-the-flame.json](./186254-jezebel-and-the-flame.json) |
+| Jezebel: Givin' Love a Shot | 260611 | [260611-jezebel-givin-love-a-shot.json](./260611-jezebel-givin-love-a-shot.json) |
 | Jezzak | 263591 | [263591-jezzak.json](./263591-jezzak.json) |
 | Jezzball Classic Deluxe Edition | 371891 | [371891-jezzball-classic-deluxe-edition.json](./371891-jezzball-classic-deluxe-edition.json) |
 | JFCBP1 | 273114 | [273114-jfcbp1.json](./273114-jfcbp1.json) |
