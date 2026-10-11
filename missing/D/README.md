@@ -1407,6 +1407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darrell 3D | 416678 | [416678-darrell-3d.json](./416678-darrell-3d.json) |
 | Darso Roads | 325815 | [325815-darso-roads.json](./325815-darso-roads.json) |
 | Dart Monkey 1.5143 | 341709 | [341709-dart-monkey-1-5143.json](./341709-dart-monkey-1-5143.json) |
+| Dart Racer | 258909 | [258909-dart-racer.json](./258909-dart-racer.json) |
 | Dart Rage | 50735 | [50735-dart-rage.json](./50735-dart-rage.json) |
 | Dart The Dog | 304701 | [304701-dart-the-dog.json](./304701-dart-the-dog.json) |
 | Dartford Street | 183593 | [183593-dartford-street.json](./183593-dartford-street.json) |
@@ -1487,6 +1488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dasher | 158205 | [158205-dasher.json](./158205-dasher.json) |
 | Dashes & Squares | 272377 | [272377-dashes-and-squares.json](./272377-dashes-and-squares.json) |
 | DashFire | 339367 | [339367-dashfire.json](./339367-dashfire.json) |
+| Dashgunner 0 | 258906 | [258906-dashgunner-0.json](./258906-dashgunner-0.json) |
 | Dashin' Desperadoes | 46247 | [46247-dashin-desperadoes.json](./46247-dashin-desperadoes.json) |
 | Dashing Dinosaurs & Sexy Centaurs: Winter's Tale | 126404 | [126404-dashing-dinosaurs-and-sexy-centaurs-winters-tale.json](./126404-dashing-dinosaurs-and-sexy-centaurs-winters-tale.json) |
 | Dashing Dinosaurs & Sexy Centaurs: Winter's Tale 2 | 227868 | [227868-dashing-dinosaurs-and-sexy-centaurs-winters-tale-2.json](./227868-dashing-dinosaurs-and-sexy-centaurs-winters-tale-2.json) |
@@ -8005,6 +8007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doom & Destiny Worlds: Ultimate Supporter Edition | 255260 | [255260-doom-and-destiny-worlds-ultimate-supporter-edition.json](./255260-doom-and-destiny-worlds-ultimate-supporter-edition.json) |
 | Doom + Doom II | 313126 | [313126-doom-doom-ii.json](./313126-doom-doom-ii.json) |
 | Doom 2 In City Only | 299447 | [299447-doom-2-in-city-only.json](./299447-doom-2-in-city-only.json) |
+| Doom 2 In Spain Only | 258890 | [258890-doom-2-in-spain-only.json](./258890-doom-2-in-spain-only.json) |
 | Doom 2 Reloaded | 160288 | [160288-doom-2-reloaded.json](./160288-doom-2-reloaded.json) |
 | Doom 2D | 89509 | [89509-doom-2d.json](./89509-doom-2d.json) |
 | Doom 3: BFG Edition | 6968 | [6968-doom-3-bfg-edition.json](./6968-doom-3-bfg-edition.json) |
@@ -11361,19 +11364,24 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons & Dragons Online: Attack on Stormreach | 342065 | [342065-dungeons-and-dragons-online-attack-on-stormreach.json](./342065-dungeons-and-dragons-online-attack-on-stormreach.json) |
 | Dungeons & Dragons Online: Delera's Tomb | 338771 | [338771-dungeons-and-dragons-online-deleras-tomb.json](./338771-dungeons-and-dragons-online-deleras-tomb.json) |
 | Dungeons & Dragons Online: Devil Assault | 338893 | [338893-dungeons-and-dragons-online-devil-assault.json](./338893-dungeons-and-dragons-online-devil-assault.json) |
+| Dungeons & Dragons Online: Fables of the Feywild | 258927 | [258927-dungeons-and-dragons-online-fables-of-the-feywild.json](./258927-dungeons-and-dragons-online-fables-of-the-feywild.json) |
 | Dungeons & Dragons Online: Forsaken Lands | 209174 | [209174-dungeons-and-dragons-online-forsaken-lands.json](./209174-dungeons-and-dragons-online-forsaken-lands.json) |
 | Dungeons & Dragons Online: Keep on the Borderlands | 338764 | [338764-dungeons-and-dragons-online-keep-on-the-borderlands.json](./338764-dungeons-and-dragons-online-keep-on-the-borderlands.json) |
+| Dungeons & Dragons Online: Masterminds of Sharn | 258926 | [258926-dungeons-and-dragons-online-masterminds-of-sharn.json](./258926-dungeons-and-dragons-online-masterminds-of-sharn.json) |
+| Dungeons & Dragons Online: Mists of Ravenloft | 258925 | [258925-dungeons-and-dragons-online-mists-of-ravenloft.json](./258925-dungeons-and-dragons-online-mists-of-ravenloft.json) |
 | Dungeons & Dragons Online: Premium Archetype - Wild Mage | 338767 | [338767-dungeons-and-dragons-online-premium-archetype-wild-mage.json](./338767-dungeons-and-dragons-online-premium-archetype-wild-mage.json) |
 | Dungeons & Dragons Online: Premium Race - Tabaxi | 338769 | [338769-dungeons-and-dragons-online-premium-race-tabaxi.json](./338769-dungeons-and-dragons-online-premium-race-tabaxi.json) |
 | Dungeons & Dragons Online: Premium Race - Warforged | 338768 | [338768-dungeons-and-dragons-online-premium-race-warforged.json](./338768-dungeons-and-dragons-online-premium-race-warforged.json) |
 | Dungeons & Dragons Online: Terror of Demogorgon | 407578 | [407578-dungeons-and-dragons-online-terror-of-demogorgon.json](./407578-dungeons-and-dragons-online-terror-of-demogorgon.json) |
 | Dungeons & Dragons Online: The Chill of Ravenloft | 352251 | [352251-dungeons-and-dragons-online-the-chill-of-ravenloft.json](./352251-dungeons-and-dragons-online-the-chill-of-ravenloft.json) |
 | Dungeons & Dragons Online: The Dreaming Dark | 349339 | [349339-dungeons-and-dragons-online-the-dreaming-dark.json](./349339-dungeons-and-dragons-online-the-dreaming-dark.json) |
+| Dungeons & Dragons Online: The Isle of Dread | 258935 | [258935-dungeons-and-dragons-online-the-isle-of-dread.json](./258935-dungeons-and-dragons-online-the-isle-of-dread.json) |
 | Dungeons & Dragons Online: The Lost Gatekeepers | 338891 | [338891-dungeons-and-dragons-online-the-lost-gatekeepers.json](./338891-dungeons-and-dragons-online-the-lost-gatekeepers.json) |
 | Dungeons & Dragons Online: The Necropolis, Part 4 | 349338 | [349338-dungeons-and-dragons-online-the-necropolis-part-4.json](./349338-dungeons-and-dragons-online-the-necropolis-part-4.json) |
 | Dungeons & Dragons Online: The Red Fens | 349334 | [349334-dungeons-and-dragons-online-the-red-fens.json](./349334-dungeons-and-dragons-online-the-red-fens.json) |
 | Dungeons & Dragons Online: The Seal of Shan-to-Kor | 338765 | [338765-dungeons-and-dragons-online-the-seal-of-shan-to-kor.json](./338765-dungeons-and-dragons-online-the-seal-of-shan-to-kor.json) |
 | Dungeons & Dragons Online: The Sharn Syndicate | 338766 | [338766-dungeons-and-dragons-online-the-sharn-syndicate.json](./338766-dungeons-and-dragons-online-the-sharn-syndicate.json) |
+| Dungeons & Dragons Online: The Sinister Secret of Saltmarsh | 258928 | [258928-dungeons-and-dragons-online-the-sinister-secret-of-saltmarsh.json](./258928-dungeons-and-dragons-online-the-sinister-secret-of-saltmarsh.json) |
 | Dungeons & Dragons Online: Vecna Unleashed | 258958 | [258958-dungeons-and-dragons-online-vecna-unleashed.json](./258958-dungeons-and-dragons-online-vecna-unleashed.json) |
 | Dungeons & Dragons: Dark Alliance | 127348 | [127348-dungeons-and-dragons-dark-alliance.json](./127348-dungeons-and-dragons-dark-alliance.json) |
 | Dungeons & Dragons: Dragonshard | 674 | [674-dungeons-and-dragons-dragonshard.json](./674-dungeons-and-dragons-dragonshard.json) |
