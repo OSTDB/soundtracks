@@ -67,3 +67,7 @@ You always create a **new** JSON file in `submissions/` for this — never edit 
 3. Fill in the corrected fields. This gets treated as an edit request, not a duplicate — the admin will see it as an update to the existing entry, not a new one.
 
 In both cases the game's own cover art is **not** part of this file — it's fetched automatically from IGDB using `igdb_id`. `album_cover_url` here is only the cover of the soundtrack/album itself.
+
+## License of your contribution
+
+By opening a pull request or submitting on ostdb.net, you agree that your contribution becomes part of the OSTDB database and is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/), like the rest of the data (see [`NOTICE.md`](NOTICE.md)), and that OSTDB may use, edit, combine and publish it as part of the database, including under future versions of that license. Only submit links to official, publicly available releases.
