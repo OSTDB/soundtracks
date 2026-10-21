@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-21T23:03:47.951Z",
-  "total_missing": 243985,
+  "generated_at": "2026-10-21T23:19:22.304Z",
+  "total_missing": 244035,
   "games": [
     {
       "igdb_id": 191680,
@@ -13982,6 +13982,11 @@
       "file": "missing/A/249637-a-conscious-decision.json"
     },
     {
+      "igdb_id": 156961,
+      "game_name": "A Conversation With Mister Rabbit",
+      "file": "missing/A/156961-a-conversation-with-mister-rabbit.json"
+    },
+    {
       "igdb_id": 240873,
       "game_name": "A Cop Chase",
       "file": "missing/A/240873-a-cop-chase.json"
@@ -19050,6 +19055,11 @@
       "igdb_id": 70077,
       "game_name": "A-Sock-Ellipse Now!",
       "file": "missing/A/70077-a-sock-ellipse-now.json"
+    },
+    {
+      "igdb_id": 156956,
+      "game_name": "A-Star Theft",
+      "file": "missing/A/156956-a-star-theft.json"
     },
     {
       "igdb_id": 29806,
@@ -24460,6 +24470,11 @@
       "igdb_id": 83493,
       "game_name": "Ada Towers",
       "file": "missing/A/83493-ada-towers.json"
+    },
+    {
+      "igdb_id": 156950,
+      "game_name": "ADA: Além d' Aventura",
+      "file": "missing/A/156950-ada-alem-d-aventura.json"
     },
     {
       "igdb_id": 76623,
@@ -98502,6 +98517,11 @@
       "file": "missing/B/100800-battle-royale-survival-io-zombie.json"
     },
     {
+      "igdb_id": 156954,
+      "game_name": "Battle Royale Craft",
+      "file": "missing/B/156954-battle-royale-craft.json"
+    },
+    {
       "igdb_id": 365253,
       "game_name": "Battle Royale Manager",
       "file": "missing/B/365253-battle-royale-manager.json"
@@ -148215,6 +148235,11 @@
       "igdb_id": 99706,
       "game_name": "Build Craft 2: Survival & Exploration",
       "file": "missing/B/99706-build-craft-2-survival-and-exploration.json"
+    },
+    {
+      "igdb_id": 156928,
+      "game_name": "Build Em' Faster",
+      "file": "missing/B/156928-build-em-faster.json"
     },
     {
       "igdb_id": 273377,
@@ -234902,6 +234927,11 @@
       "file": "missing/D/46185-dahna-megami-tanjou.json"
     },
     {
+      "igdb_id": 156949,
+      "game_name": "Dàhuà Jiānghú",
+      "file": "missing/D/156949-dahua-jianghu.json"
+    },
+    {
       "igdb_id": 92606,
       "game_name": "Dàhuà Xīyóu",
       "file": "missing/D/92606-dahua-xiyou.json"
@@ -238805,6 +238835,11 @@
       "igdb_id": 89799,
       "game_name": "Dark Chinese Chess Online",
       "file": "missing/D/89799-dark-chinese-chess-online.json"
+    },
+    {
+      "igdb_id": 156934,
+      "game_name": "Dark Chronicles: The Soul Reaver",
+      "file": "missing/D/156934-dark-chronicles-the-soul-reaver.json"
     },
     {
       "igdb_id": 266817,
@@ -248865,6 +248900,11 @@
       "igdb_id": 274514,
       "game_name": "Deadlocked",
       "file": "missing/D/274514-deadlocked.json"
+    },
+    {
+      "igdb_id": 156948,
+      "game_name": "Deadlokk",
+      "file": "missing/D/156948-deadlokk.json"
     },
     {
       "igdb_id": 8486,
@@ -279307,6 +279347,11 @@
       "file": "missing/D/269739-dolphin-trainer.json"
     },
     {
+      "igdb_id": 156946,
+      "game_name": "Dolphin Trainer VR",
+      "file": "missing/D/156946-dolphin-trainer-vr.json"
+    },
+    {
       "igdb_id": 212640,
       "game_name": "Dolphin Wave",
       "file": "missing/D/212640-dolphin-wave.json"
@@ -303345,6 +303390,11 @@
       "igdb_id": 194008,
       "game_name": "Dungeon Slayer",
       "file": "missing/D/194008-dungeon-slayer.json"
+    },
+    {
+      "igdb_id": 156941,
+      "game_name": "Dungeon Slime 2: Puzzle in the Dark Forest",
+      "file": "missing/D/156941-dungeon-slime-2-puzzle-in-the-dark-forest.json"
     },
     {
       "igdb_id": 208837,
@@ -337150,6 +337200,11 @@
       "igdb_id": 404904,
       "game_name": "Expeditions: Samurai",
       "file": "missing/E/404904-expeditions-samurai.json"
+    },
+    {
+      "igdb_id": 156947,
+      "game_name": "Expel",
+      "file": "missing/E/156947-expel.json"
     },
     {
       "igdb_id": 246827,
@@ -377595,6 +377650,11 @@
       "igdb_id": 133906,
       "game_name": "Forking Hell",
       "file": "missing/F/133906-forking-hell.json"
+    },
+    {
+      "igdb_id": 156951,
+      "game_name": "ForkJump",
+      "file": "missing/F/156951-forkjump.json"
     },
     {
       "igdb_id": 164262,
@@ -452612,6 +452672,11 @@
       "file": "missing/H/418727-hell-fire-seed-of-calamity.json"
     },
     {
+      "igdb_id": 156932,
+      "game_name": "Hell Firefighter",
+      "file": "missing/H/156932-hell-firefighter.json"
+    },
+    {
       "igdb_id": 411794,
       "game_name": "Hell Forest",
       "file": "missing/H/411794-hell-forest.json"
@@ -459625,6 +459690,11 @@
       "igdb_id": 173232,
       "game_name": "Hero or Foe",
       "file": "missing/H/173232-hero-or-foe.json"
+    },
+    {
+      "igdb_id": 156927,
+      "game_name": "Hero or Villain: Battle Royale",
+      "file": "missing/H/156927-hero-or-villain-battle-royale.json"
     },
     {
       "igdb_id": 265354,
@@ -559982,6 +560052,11 @@
       "file": "missing/L/113490-last-stand-reborn.json"
     },
     {
+      "igdb_id": 156923,
+      "game_name": "Last Standing",
+      "file": "missing/L/156923-last-standing.json"
+    },
+    {
       "igdb_id": 292431,
       "game_name": "Last Standing",
       "file": "missing/L/292431-last-standing.json"
@@ -567450,6 +567525,11 @@
       "igdb_id": 34116,
       "game_name": "Lemurzin",
       "file": "missing/L/34116-lemurzin.json"
+    },
+    {
+      "igdb_id": 156964,
+      "game_name": "LemWars",
+      "file": "missing/L/156964-lemwars.json"
     },
     {
       "igdb_id": 335405,
@@ -584647,6 +584727,11 @@
       "file": "missing/L/157574-lost-assassin.json"
     },
     {
+      "igdb_id": 156959,
+      "game_name": "Lost Astronaut",
+      "file": "missing/L/156959-lost-astronaut.json"
+    },
+    {
       "igdb_id": 58906,
       "game_name": "Lost Astronaut's Fringes of the Empire",
       "file": "missing/L/58906-lost-astronauts-fringes-of-the-empire.json"
@@ -593085,6 +593170,11 @@
       "igdb_id": 56595,
       "game_name": "Lux umbra",
       "file": "missing/L/56595-lux-umbra.json"
+    },
+    {
+      "igdb_id": 156926,
+      "game_name": "Lux, City of Secrets",
+      "file": "missing/L/156926-lux-city-of-secrets.json"
     },
     {
       "igdb_id": 280928,
@@ -604440,6 +604530,11 @@
       "igdb_id": 369063,
       "game_name": "Mana Land",
       "file": "missing/M/369063-mana-land.json"
+    },
+    {
+      "igdb_id": 156940,
+      "game_name": "Mana Maker",
+      "file": "missing/M/156940-mana-maker.json"
     },
     {
       "igdb_id": 321504,
@@ -638667,6 +638762,11 @@
       "file": "missing/M/289782-milky-way-td-survivors-autobattler-rts.json"
     },
     {
+      "igdb_id": 156953,
+      "game_name": "Milkyway Funland",
+      "file": "missing/M/156953-milkyway-funland.json"
+    },
+    {
       "igdb_id": 92299,
       "game_name": "Mill",
       "file": "missing/M/92299-mill.json"
@@ -653272,6 +653372,11 @@
       "file": "missing/M/302368-monster-battle.json"
     },
     {
+      "igdb_id": 156930,
+      "game_name": "Monster Battle Quest",
+      "file": "missing/M/156930-monster-battle-quest.json"
+    },
+    {
       "igdb_id": 343864,
       "game_name": "Monster Battles",
       "file": "missing/M/343864-monster-battles.json"
@@ -663770,6 +663875,11 @@
       "igdb_id": 92466,
       "game_name": "Moxie Girlz",
       "file": "missing/M/92466-moxie-girlz.json"
+    },
+    {
+      "igdb_id": 156922,
+      "game_name": "Mòxīn: Bōyún Guǐchuán",
+      "file": "missing/M/156922-moxin-boyun-guichuan.json"
     },
     {
       "igdb_id": 228897,
@@ -698272,6 +698382,11 @@
       "file": "missing/N/85604-ninja-captains.json"
     },
     {
+      "igdb_id": 156939,
+      "game_name": "Ninja Castle Escape",
+      "file": "missing/N/156939-ninja-castle-escape.json"
+    },
+    {
       "igdb_id": 406931,
       "game_name": "Ninja Cat Remewstered",
       "file": "missing/N/406931-ninja-cat-remewstered.json"
@@ -710680,6 +710795,11 @@
       "igdb_id": 102255,
       "game_name": "Oceanborn : Survival on Raft",
       "file": "missing/O/102255-oceanborn-survival-on-raft.json"
+    },
+    {
+      "igdb_id": 156955,
+      "game_name": "OceanCraft",
+      "file": "missing/O/156955-oceancraft.json"
     },
     {
       "igdb_id": 94369,
@@ -726227,6 +726347,11 @@
       "file": "missing/O/392312-otaku-and-bubbly-girl.json"
     },
     {
+      "igdb_id": 156924,
+      "game_name": "Otaku Club",
+      "file": "missing/O/156924-otaku-club.json"
+    },
+    {
       "igdb_id": 333067,
       "game_name": "Otaku Miracles",
       "file": "missing/O/333067-otaku-miracles.json"
@@ -737855,6 +737980,11 @@
       "igdb_id": 99053,
       "game_name": "Paper Dolls",
       "file": "missing/P/99053-paper-dolls.json"
+    },
+    {
+      "igdb_id": 156935,
+      "game_name": "Paper Dolls 2",
+      "file": "missing/P/156935-paper-dolls-2.json"
     },
     {
       "igdb_id": 170424,
@@ -769557,6 +769687,11 @@
       "file": "missing/P/404852-player-of-the-year.json"
     },
     {
+      "igdb_id": 156938,
+      "game_name": "Player Power",
+      "file": "missing/P/156938-player-power.json"
+    },
+    {
       "igdb_id": 129230,
       "game_name": "Player's Eleven",
       "file": "missing/P/129230-players-eleven.json"
@@ -778670,6 +778805,11 @@
       "igdb_id": 331730,
       "game_name": "Polygon Wars",
       "file": "missing/P/331730-polygon-wars.json"
+    },
+    {
+      "igdb_id": 156957,
+      "game_name": "Polygon World VR",
+      "file": "missing/P/156957-polygon-world-vr.json"
     },
     {
       "igdb_id": 298103,
@@ -811437,6 +811577,11 @@
       "file": "missing/R/367394-racexxl-space.json"
     },
     {
+      "igdb_id": 156921,
+      "game_name": "Rachael Savage",
+      "file": "missing/R/156921-rachael-savage.json"
+    },
+    {
       "igdb_id": 255101,
       "game_name": "Rachel and Ariane",
       "file": "missing/R/255101-rachel-and-ariane.json"
@@ -843927,6 +844072,11 @@
       "file": "missing/R/306994-robogal-gaga-delta-lady.json"
     },
     {
+      "igdb_id": 156933,
+      "game_name": "Roboggled",
+      "file": "missing/R/156933-roboggled.json"
+    },
+    {
       "igdb_id": 290624,
       "game_name": "Roboglitch",
       "file": "missing/R/290624-roboglitch.json"
@@ -873925,6 +874075,11 @@
       "igdb_id": 111091,
       "game_name": "Scraper: First Strike",
       "file": "missing/S/111091-scraper-first-strike.json"
+    },
+    {
+      "igdb_id": 156963,
+      "game_name": "Scraplers",
+      "file": "missing/S/156963-scraplers.json"
     },
     {
       "igdb_id": 183007,
@@ -937372,6 +937527,11 @@
       "file": "missing/S/148480-space-travel-idle.json"
     },
     {
+      "igdb_id": 156943,
+      "game_name": "Space Travel Jigsaw Puzzles",
+      "file": "missing/S/156943-space-travel-jigsaw-puzzles.json"
+    },
+    {
       "igdb_id": 285504,
       "game_name": "Space Traveler's Brain Creator",
       "file": "missing/S/285504-space-travelers-brain-creator.json"
@@ -940975,6 +941135,11 @@
       "igdb_id": 23868,
       "game_name": "Speedway Blast",
       "file": "missing/S/23868-speedway-blast.json"
+    },
+    {
+      "igdb_id": 156931,
+      "game_name": "Speedway Challenge 20",
+      "file": "missing/S/156931-speedway-challenge-20.json"
     },
     {
       "igdb_id": 203562,
@@ -955690,6 +955855,11 @@
       "igdb_id": 15197,
       "game_name": "StarCrawlers",
       "file": "missing/S/15197-starcrawlers.json"
+    },
+    {
+      "igdb_id": 156937,
+      "game_name": "StarCrawlers Chimera",
+      "file": "missing/S/156937-starcrawlers-chimera.json"
     },
     {
       "igdb_id": 394368,
@@ -993142,6 +993312,11 @@
       "file": "missing/S/49804-sutakomi-star-communicator.json"
     },
     {
+      "igdb_id": 156919,
+      "game_name": "Suteki na Kanojo no Tsukurikata",
+      "file": "missing/S/156919-suteki-na-kanojo-no-tsukurikata.json"
+    },
+    {
       "igdb_id": 42426,
       "game_name": "Sutobasu Yarou Shou",
       "file": "missing/S/42426-sutobasu-yarou-shou.json"
@@ -999760,6 +999935,11 @@
       "igdb_id": 191239,
       "game_name": "Tabboz Simulator",
       "file": "missing/T/191239-tabboz-simulator.json"
+    },
+    {
+      "igdb_id": 156936,
+      "game_name": "Tabbris Yor",
+      "file": "missing/T/156936-tabbris-yor.json"
     },
     {
       "igdb_id": 177423,
@@ -1030910,6 +1031090,11 @@
       "igdb_id": 181697,
       "game_name": "The Deadly Dungeons of Baron Backslash",
       "file": "missing/T/181697-the-deadly-dungeons-of-baron-backslash.json"
+    },
+    {
+      "igdb_id": 156942,
+      "game_name": "The Deadly Facade",
+      "file": "missing/T/156942-the-deadly-facade.json"
     },
     {
       "igdb_id": 253835,
@@ -1088032,6 +1088217,11 @@
       "file": "missing/T/21545-time-ace.json"
     },
     {
+      "igdb_id": 156945,
+      "game_name": "Time Agent",
+      "file": "missing/T/156945-time-agent.json"
+    },
+    {
       "igdb_id": 186099,
       "game_name": "Time Alive",
       "file": "missing/T/186099-time-alive.json"
@@ -1108352,9 +1108542,34 @@
       "file": "missing/T/156868-train-sim-world-2020-hauptstrecke-rhein-ruhr-duisburg-bochum-route.json"
     },
     {
+      "igdb_id": 156867,
+      "game_name": "Train Sim World 2020: Main Spessart Bahn - Aschaffenburg: Gemünden Route",
+      "file": "missing/T/156867-train-sim-world-2020-main-spessart-bahn-aschaffenburg-gemunden-route.json"
+    },
+    {
+      "igdb_id": 156866,
+      "game_name": "Train Sim World 2020: Northeast Corridor New York",
+      "file": "missing/T/156866-train-sim-world-2020-northeast-corridor-new-york.json"
+    },
+    {
+      "igdb_id": 156865,
+      "game_name": "Train Sim World 2020: Northern Trans-Pennine - Manchester: Leeds Route",
+      "file": "missing/T/156865-train-sim-world-2020-northern-trans-pennine-manchester-leeds-route.json"
+    },
+    {
       "igdb_id": 156870,
       "game_name": "Train Sim World 2020: Peninsula Corridor - San Francisco: San Jose Route",
       "file": "missing/T/156870-train-sim-world-2020-peninsula-corridor-san-francisco-san-jose-route.json"
+    },
+    {
+      "igdb_id": 156864,
+      "game_name": "Train Sim World 2020: Rapid Transit",
+      "file": "missing/T/156864-train-sim-world-2020-rapid-transit.json"
+    },
+    {
+      "igdb_id": 156863,
+      "game_name": "Train Sim World 2020: Rhein-Ruhr Osten - Wuppertal: Hagen Route",
+      "file": "missing/T/156863-train-sim-world-2020-rhein-ruhr-osten-wuppertal-hagen-route.json"
     },
     {
       "igdb_id": 156869,
@@ -1115282,6 +1115497,11 @@
       "file": "missing/T/74606-trap-labs.json"
     },
     {
+      "igdb_id": 156962,
+      "game_name": "Trap Legend",
+      "file": "missing/T/156962-trap-legend.json"
+    },
+    {
       "igdb_id": 65000,
       "game_name": "Trap Master",
       "file": "missing/T/65000-trap-master.json"
@@ -1115610,6 +1115830,11 @@
       "igdb_id": 334318,
       "game_name": "Trapventure",
       "file": "missing/T/334318-trapventure.json"
+    },
+    {
+      "igdb_id": 156925,
+      "game_name": "Trash",
+      "file": "missing/T/156925-trash.json"
     },
     {
       "igdb_id": 94319,
@@ -1142152,6 +1142377,11 @@
       "file": "missing/U/56495-upventure.json"
     },
     {
+      "igdb_id": 156944,
+      "game_name": "Upward",
+      "file": "missing/U/156944-upward.json"
+    },
+    {
       "igdb_id": 234353,
       "game_name": "Upward",
       "file": "missing/U/234353-upward.json"
@@ -1149745,6 +1149975,11 @@
       "igdb_id": 69316,
       "game_name": "Vermilion Desert",
       "file": "missing/V/69316-vermilion-desert.json"
+    },
+    {
+      "igdb_id": 156960,
+      "game_name": "Vermillion",
+      "file": "missing/V/156960-vermillion.json"
     },
     {
       "igdb_id": 209137,
@@ -1159425,6 +1159660,11 @@
       "igdb_id": 150648,
       "game_name": "VR Time Machine Travelling in History: Visit ancient Egypt, Babylon and Greece in B.C. 400",
       "file": "missing/V/150648-vr-time-machine-travelling-in-history-visit-ancient-egypt-babylon-and-greece-in-b-c-400.json"
+    },
+    {
+      "igdb_id": 156958,
+      "game_name": "VR Titanic: Find the Rose",
+      "file": "missing/V/156958-vr-titanic-find-the-rose.json"
     },
     {
       "igdb_id": 278946,
@@ -1169667,6 +1169907,11 @@
       "file": "missing/W/282245-watch-your-eggs-vr.json"
     },
     {
+      "igdb_id": 156952,
+      "game_name": "Watch Your Helmet",
+      "file": "missing/W/156952-watch-your-helmet.json"
+    },
+    {
       "igdb_id": 271156,
       "game_name": "Watch Your Nightmares",
       "file": "missing/W/271156-watch-your-nightmares.json"
@@ -1178955,6 +1179200,11 @@
       "igdb_id": 304356,
       "game_name": "Who Is The Killer: Episode IV",
       "file": "missing/W/304356-who-is-the-killer-episode-iv.json"
+    },
+    {
+      "igdb_id": 156929,
+      "game_name": "Who is the Liar?",
+      "file": "missing/W/156929-who-is-the-liar.json"
     },
     {
       "igdb_id": 246076,
