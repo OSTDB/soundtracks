@@ -10969,7 +10969,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boy x Boy: Shiritsu Kouryou Gakuin Seishinryou | 417548 | [417548-boy-x-boy-shiritsu-kouryou-gakuin-seishinryou.json](./417548-boy-x-boy-shiritsu-kouryou-gakuin-seishinryou.json) |
 | Boy's Love | 101358 | [101358-boys-love.json](./101358-boys-love.json) |
 | Boyce the Voice | 285369 | [285369-boyce-the-voice.json](./285369-boyce-the-voice.json) |
-| Boyfriend Dungeon | 74692 | [74692-boyfriend-dungeon.json](./74692-boyfriend-dungeon.json) |
 | Boyfriend Dungeon: Secret Weapons | 228681 | [228681-boyfriend-dungeon-secret-weapons.json](./228681-boyfriend-dungeon-secret-weapons.json) |
 | Boyfriend Exorcist | 265535 | [265535-boyfriend-exorcist.json](./265535-boyfriend-exorcist.json) |
 | Boyfriend Kari Kirameki Note | 100066 | [100066-boyfriend-kari-kirameki-note.json](./100066-boyfriend-kari-kirameki-note.json) |
