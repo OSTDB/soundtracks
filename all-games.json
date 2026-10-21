@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-21T19:52:09.499Z",
-  "total_soundtracks": 2384,
+  "generated_at": "2026-10-21T19:57:17.105Z",
+  "total_soundtracks": 2395,
   "games": [
     {
       "igdb_id": 7522,
@@ -4665,6 +4665,20 @@
       ]
     },
     {
+      "igdb_id": 26821,
+      "game_name": "Colin McRae Rally",
+      "game_url": "https://ostdb.net/games/colin-mcrae-rally",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273237bc740ffdfa525b61b6b6d",
+      "albums": [
+        {
+          "album_name": "Colin McRae Rally (Original Video Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1tac6R1AKnW8HFkLGRYvDd",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 647,
       "game_name": "Command & Conquer",
       "game_url": "https://ostdb.net/games/command-and-conquer",
@@ -5435,6 +5449,20 @@
           "spotify_url": "",
           "apple_music_url": "https://music.apple.com/us/album/daemon-x-machina-original-soundtrack/1479691576?uo=4",
           "album_link_url": "https://album.link/i/1479691576"
+        }
+      ]
+    },
+    {
+      "igdb_id": 38946,
+      "game_name": "Dan the Man",
+      "game_url": "https://ostdb.net/games/dan-the-man",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2737f13efad899a858d68a9ffe7",
+      "albums": [
+        {
+          "album_name": "Dan the Man (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2BnrCrwOFuJmQ2pC0R5lDd",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
@@ -7837,6 +7865,20 @@
       ]
     },
     {
+      "igdb_id": 116403,
+      "game_name": "Eldest Souls",
+      "game_url": "https://ostdb.net/games/eldest-souls",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27320e5d27f975ef0e4f2474b08",
+      "albums": [
+        {
+          "album_name": "Eldest Souls (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/22BGzcyLNuyFoxUMN1eMPk",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 2955,
       "game_name": "Elite: Dangerous",
       "game_url": "https://ostdb.net/games/elite-dangerous",
@@ -8883,6 +8925,20 @@
         {
           "album_name": "FINAL FANTASY IX Original Soundtrack",
           "spotify_url": "https://open.spotify.com/album/61z0CTrR8zhxdyOoieyMJi",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 403,
+      "game_name": "Final Fantasy Legend II",
+      "game_url": "https://ostdb.net/games/final-fantasy-legend-ii",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2737f726e2062cb188050a584a2",
+      "albums": [
+        {
+          "album_name": "Final Fantasy Legend II Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/659s6l4oaCxe3XvrsWtOQV",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -14403,6 +14459,20 @@
       ]
     },
     {
+      "igdb_id": 36468,
+      "game_name": "Lydia",
+      "game_url": "https://ostdb.net/games/lydia",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273baf5e21d912540244fe51b4c",
+      "albums": [
+        {
+          "album_name": "Lydia (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/48KK0gZU1mWYfrUMlwblxB",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 2990,
       "game_name": "Machinarium",
       "game_url": "https://ostdb.net/games/machinarium",
@@ -15597,6 +15667,20 @@
           "spotify_url": "",
           "apple_music_url": "https://music.apple.com/us/album/the-gravewalker-from-middle-earth-shadow-of-mordor/946042331?uo=4",
           "album_link_url": "https://album.link/i/946042331"
+        }
+      ]
+    },
+    {
+      "igdb_id": 305016,
+      "game_name": "Mighty Morphin Power Rangers: Rita's Rewind",
+      "game_url": "https://ostdb.net/games/mighty-morphin-power-rangers-ritas-rewind",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273338783e458f810d0f59e0d93",
+      "albums": [
+        {
+          "album_name": "Mighty Morphin Power Rangers: Rita's Rewind (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/4zW1KCQXehJQPOSU8TNbHB",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
@@ -16952,6 +17036,20 @@
           "album_name": "Night in the Woods (Original Soundtrack, Vol. 2) [Hold onto Anything]",
           "spotify_url": "https://open.spotify.com/album/5M5lsqSuJQ4TbvzOBMyOee",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 295664,
+      "game_name": "Nightmare Kart",
+      "game_url": "https://ostdb.net/games/nightmare-kart",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273eb590f230c47cd0ba5c329b7",
+      "albums": [
+        {
+          "album_name": "Nightmare Kart (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/64SlIK2EN8gY1LzALgU8mj",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
@@ -18471,6 +18569,20 @@
       ]
     },
     {
+      "igdb_id": 51948,
+      "game_name": "Pop'n TwinBee",
+      "game_url": "https://ostdb.net/games/popn-twinbee",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2736adff99799884d1f08e1abe1",
+      "albums": [
+        {
+          "album_name": "Pop'n TwinBee (Original Game Soundtrack SNES)",
+          "spotify_url": "https://open.spotify.com/album/42y2HEYCtyKf1yTkcW5LQ1",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 176057,
       "game_name": "Poppy Playtime",
       "game_url": "https://ostdb.net/games/poppy-playtime",
@@ -18775,6 +18887,20 @@
       ]
     },
     {
+      "igdb_id": 23214,
+      "game_name": "Prominence Poker",
+      "game_url": "https://ostdb.net/games/prominence-poker",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2737bb5bfc36a472f8e24e75819",
+      "albums": [
+        {
+          "album_name": "Prominence Poker (Original Video Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0AA2zmf4NyEVPzrnXdEUHP",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 570,
       "game_name": "Prototype",
       "game_url": "https://ostdb.net/games/prototype",
@@ -18852,6 +18978,20 @@
           "album_name": "Thank you, 5urvivors (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/6LWwIqfOPOJLxwhgwm8ECq",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 8409,
+      "game_name": "Pure Pool",
+      "game_url": "https://ostdb.net/games/pure-pool",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27356b03d54555fd45bd57da153",
+      "albums": [
+        {
+          "album_name": "Pure Pool OST",
+          "spotify_url": "https://open.spotify.com/album/5pvclwUoUwygHZq4lO8KEH",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
@@ -27773,6 +27913,20 @@
         {
           "album_name": "Vintage Story (Original Video Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/22ZrsjdeHrS2VFrK7CEIMB",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 35099,
+      "game_name": "Viridi",
+      "game_url": "https://ostdb.net/games/viridi",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2732ebfb5beaac4c1a96edc0e39",
+      "albums": [
+        {
+          "album_name": "Viridi (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/21Yj7UcVS8e5OySBDRnKrb",
           "apple_music_url": "",
           "album_link_url": ""
         }
