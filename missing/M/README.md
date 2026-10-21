@@ -4966,7 +4966,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MDT: Make It or Die Trying | 405000 | [405000-mdt-make-it-or-die-trying.json](./405000-mdt-make-it-or-die-trying.json) |
 | Me | 145034 | [145034-me.json](./145034-me.json) |
 | Me & My Friend Pippa! | 311714 | [311714-me-and-my-friend-pippa.json](./311714-me-and-my-friend-pippa.json) |
-| Me & My Katamari | 6455 | [6455-me-and-my-katamari.json](./6455-me-and-my-katamari.json) |
 | Me & My Pets 3D | 85277 | [85277-me-and-my-pets-3d.json](./85277-me-and-my-pets-3d.json) |
 | Me & My Robot Friend | 128595 | [128595-me-and-my-robot-friend.json](./128595-me-and-my-robot-friend.json) |
 | Me && Mory | 341287 | [341287-me-and-and-mory.json](./341287-me-and-and-mory.json) |
