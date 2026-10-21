@@ -10380,7 +10380,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mage | 368590 | [368590-the-mage.json](./368590-the-mage.json) |
 | The Mage's Tale | 36893 | [36893-the-mages-tale.json](./36893-the-mages-tale.json) |
 | The Magenta Spire | 261505 | [261505-the-magenta-spire.json](./261505-the-magenta-spire.json) |
-| The Mageseeker: A League of Legends Story | 239302 | [239302-the-mageseeker-a-league-of-legends-story.json](./239302-the-mageseeker-a-league-of-legends-story.json) |
 | The Mageseeker: A League of Legends Story - Deluxe Edition | 241042 | [241042-the-mageseeker-a-league-of-legends-story-deluxe-edition.json](./241042-the-mageseeker-a-league-of-legends-story-deluxe-edition.json) |
 | The Magic Candle | 235346 | [235346-the-magic-candle.json](./235346-the-magic-candle.json) |
 | The Magic Candle III | 70948 | [70948-the-magic-candle-iii.json](./70948-the-magic-candle-iii.json) |
