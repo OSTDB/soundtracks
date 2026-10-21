@@ -9735,7 +9735,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pop'n Taisen Puzzle Dama Online | 281402 | [281402-popn-taisen-puzzle-dama-online.json](./281402-popn-taisen-puzzle-dama-online.json) |
 | Pop'n Tanks | 43801 | [43801-popn-tanks.json](./43801-popn-tanks.json) |
 | Pop'n Tanks | 43802 | [43802-popn-tanks.json](./43802-popn-tanks.json) |
-| Pop'n TwinBee | 51948 | [51948-popn-twinbee.json](./51948-popn-twinbee.json) |
 | Pop'n Twinbee: Rainbow Bell Adventures | 42473 | [42473-popn-twinbee-rainbow-bell-adventures.json](./42473-popn-twinbee-rainbow-bell-adventures.json) |
 | Pop's | 190425 | [190425-pops.json](./190425-pops.json) |
 | Pop's Pipes / Slurp | 206462 | [206462-pops-pipes-slurp.json](./206462-pops-pipes-slurp.json) |
@@ -10221,7 +10220,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Potion Wilds | 216713 | [216713-potion-wilds.json](./216713-potion-wilds.json) |
 | Potion-Maker's Apprentice | 216680 | [216680-potion-makers-apprentice.json](./216680-potion-makers-apprentice.json) |
 | Potioneer: The VR Gardening Simulator | 27341 | [27341-potioneer-the-vr-gardening-simulator.json](./27341-potioneer-the-vr-gardening-simulator.json) |
-| Potionomics | 75994 | [75994-potionomics.json](./75994-potionomics.json) |
 | Potionomics: Boss Finn Content Pack | 360595 | [360595-potionomics-boss-finn-content-pack.json](./360595-potionomics-boss-finn-content-pack.json) |
 | Potionomics: Masterwork Edition | 300482 | [300482-potionomics-masterwork-edition.json](./300482-potionomics-masterwork-edition.json) |
 | Potions & Emotions | 264683 | [264683-potions-and-emotions.json](./264683-potions-and-emotions.json) |
@@ -12635,7 +12633,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prometheus Unbound | 290019 | [290019-prometheus-unbound.json](./290019-prometheus-unbound.json) |
 | Prometheus Wept | 133459 | [133459-prometheus-wept.json](./133459-prometheus-wept.json) |
 | Prometheus: The Fire Thief | 35433 | [35433-prometheus-the-fire-thief.json](./35433-prometheus-the-fire-thief.json) |
-| Prominence Poker | 23214 | [23214-prominence-poker.json](./23214-prominence-poker.json) |
 | Promise | 277498 | [277498-promise.json](./277498-promise.json) |
 | Promise Me, You'll Live | 280803 | [280803-promise-me-youll-live.json](./280803-promise-me-youll-live.json) |
 | Promise of Lingyun | 255120 | [255120-promise-of-lingyun.json](./255120-promise-of-lingyun.json) |
@@ -13580,7 +13577,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pure Nastalgia | 277034 | [277034-pure-nastalgia.json](./277034-pure-nastalgia.json) |
 | Pure Pinball 2.0 Redux | 51881 | [51881-pure-pinball-2-0-redux.json](./51881-pure-pinball-2-0-redux.json) |
 | Pure Pinball: American Pinball Reborn | 209750 | [209750-pure-pinball-american-pinball-reborn.json](./209750-pure-pinball-american-pinball-reborn.json) |
-| Pure Pool | 8409 | [8409-pure-pool.json](./8409-pure-pool.json) |
 | Pure Pool Pro | 347286 | [347286-pure-pool-pro.json](./347286-pure-pool-pro.json) |
 | Pure Pool Snooker Bundle | 193761 | [193761-pure-pool-snooker-bundle.json](./193761-pure-pool-snooker-bundle.json) |
 | Pure Shooter | 360687 | [360687-pure-shooter.json](./360687-pure-shooter.json) |
