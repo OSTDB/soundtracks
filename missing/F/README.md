@@ -1513,6 +1513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Dash | 188027 | [188027-fantasy-dash.json](./188027-fantasy-dash.json) |
 | Fantasy Defenders Bundle: Defend the Rook & Legend of Keepers | 262224 | [262224-fantasy-defenders-bundle-defend-the-rook-and-legend-of-keepers.json](./262224-fantasy-defenders-bundle-defend-the-rook-and-legend-of-keepers.json) |
 | Fantasy Dungeon | 285946 | [285946-fantasy-dungeon.json](./285946-fantasy-dungeon.json) |
+| Fantasy Dungeon VR | 157367 | [157367-fantasy-dungeon-vr.json](./157367-fantasy-dungeon-vr.json) |
 | Fantasy Dynasty: Le Château Deretic | 99639 | [99639-fantasy-dynasty-le-chateau-deretic.json](./99639-fantasy-dynasty-le-chateau-deretic.json) |
 | Fantasy Earth: Zero | 51192 | [51192-fantasy-earth-zero.json](./51192-fantasy-earth-zero.json) |
 | Fantasy Empires | 70451 | [70451-fantasy-empires.json](./70451-fantasy-empires.json) |
