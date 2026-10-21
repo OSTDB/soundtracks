@@ -1547,7 +1547,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eldermyth | 419968 | [419968-eldermyth.json](./419968-eldermyth.json) |
 | Eldervale | 118089 | [118089-eldervale.json](./118089-eldervale.json) |
 | Elderwood Online | 291879 | [291879-elderwood-online.json](./291879-elderwood-online.json) |
-| Eldest Souls | 116403 | [116403-eldest-souls.json](./116403-eldest-souls.json) |
 | Eldevin | 17350 | [17350-eldevin.json](./17350-eldevin.json) |
 | Eldorado Gate Volume 1 | 5553 | [5553-eldorado-gate-volume-1.json](./5553-eldorado-gate-volume-1.json) |
 | Eldorado Gate Volume 2 | 5554 | [5554-eldorado-gate-volume-2.json](./5554-eldorado-gate-volume-2.json) |
@@ -2795,7 +2794,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Doves | 380641 | [380641-endless-doves.json](./380641-endless-doves.json) |
 | Endless Dream | 253341 | [253341-endless-dream.json](./253341-endless-dream.json) |
 | Endless Drive | 234610 | [234610-endless-drive.json](./234610-endless-drive.json) |
-| Endless Dungeon | 109970 | [109970-endless-dungeon.json](./109970-endless-dungeon.json) |
 | Endless Dungeon: Day One Edition | 234210 | [234210-endless-dungeon-day-one-edition.json](./234210-endless-dungeon-day-one-edition.json) |
 | Endless Dungeon: Ichiban And Kiryu Skin Pack | 289422 | [289422-endless-dungeon-ichiban-and-kiryu-skin-pack.json](./289422-endless-dungeon-ichiban-and-kiryu-skin-pack.json) |
 | Endless Dungeon: Last Wish Edition | 263319 | [263319-endless-dungeon-last-wish-edition.json](./263319-endless-dungeon-last-wish-edition.json) |
