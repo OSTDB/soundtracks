@@ -2774,6 +2774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ScrapDown | 336659 | [336659-scrapdown.json](./336659-scrapdown.json) |
 | Scraper | 105731 | [105731-scraper.json](./105731-scraper.json) |
 | Scraper: First Strike | 111091 | [111091-scraper-first-strike.json](./111091-scraper-first-strike.json) |
+| Scraplers | 156963 | [156963-scraplers.json](./156963-scraplers.json) |
 | Scrapmetalship | 183007 | [183007-scrapmetalship.json](./183007-scrapmetalship.json) |
 | Scrappage | 236248 | [236248-scrappage.json](./236248-scrappage.json) |
 | Scrapped | 243402 | [243402-scrapped.json](./243402-scrapped.json) |
@@ -15462,6 +15463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Trash Scavenger | 211215 | [211215-space-trash-scavenger.json](./211215-space-trash-scavenger.json) |
 | Space Travel | 11303 | [11303-space-travel.json](./11303-space-travel.json) |
 | Space Travel Idle | 148480 | [148480-space-travel-idle.json](./148480-space-travel-idle.json) |
+| Space Travel Jigsaw Puzzles | 156943 | [156943-space-travel-jigsaw-puzzles.json](./156943-space-travel-jigsaw-puzzles.json) |
 | Space Traveler's Brain Creator | 285504 | [285504-space-travelers-brain-creator.json](./285504-space-travelers-brain-creator.json) |
 | Space Travelling | 120715 | [120715-space-travelling.json](./120715-space-travelling.json) |
 | Space Treasure Hunters | 372489 | [372489-space-treasure-hunters.json](./372489-space-treasure-hunters.json) |
@@ -16183,6 +16185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speedtickers | 365898 | [365898-speedtickers.json](./365898-speedtickers.json) |
 | Speedway | 94328 | [94328-speedway.json](./94328-speedway.json) |
 | Speedway Blast | 23868 | [23868-speedway-blast.json](./23868-speedway-blast.json) |
+| Speedway Challenge 20 | 156931 | [156931-speedway-challenge-20.json](./156931-speedway-challenge-20.json) |
 | Speedway Challenge 2022 | 203562 | [203562-speedway-challenge-2022.json](./203562-speedway-challenge-2022.json) |
 | Speedway Challenge 2024 | 292550 | [292550-speedway-challenge-2024.json](./292550-speedway-challenge-2024.json) |
 | Speedway Challenge 2025 | 346262 | [346262-speedway-challenge-2025.json](./346262-speedway-challenge-2025.json) |
@@ -19125,6 +19128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starcraft: Stellar Forces | 135274 | [135274-starcraft-stellar-forces.json](./135274-starcraft-stellar-forces.json) |
 | StarCraft: Stratospace | 135273 | [135273-starcraft-stratospace.json](./135273-starcraft-stratospace.json) |
 | StarCrawlers | 15197 | [15197-starcrawlers.json](./15197-starcrawlers.json) |
+| StarCrawlers Chimera | 156937 | [156937-starcrawlers-chimera.json](./156937-starcrawlers-chimera.json) |
 | Starcrest Saga | 394368 | [394368-starcrest-saga.json](./394368-starcrest-saga.json) |
 | Starcross Arena | 111901 | [111901-starcross-arena.json](./111901-starcross-arena.json) |
 | StarCrossed | 28770 | [28770-starcrossed.json](./28770-starcrossed.json) |
@@ -26615,6 +26619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Susume!! Mamotte Knight: Hime no Totsugeki Serenade | 112887 | [112887-susume-mamotte-knight-hime-no-totsugeki-serenade.json](./112887-susume-mamotte-knight-hime-no-totsugeki-serenade.json) |
 | Sut | 271903 | [271903-sut.json](./271903-sut.json) |
 | Sutakomi: Star Communicator | 49804 | [49804-sutakomi-star-communicator.json](./49804-sutakomi-star-communicator.json) |
+| Suteki na Kanojo no Tsukurikata | 156919 | [156919-suteki-na-kanojo-no-tsukurikata.json](./156919-suteki-na-kanojo-no-tsukurikata.json) |
 | Sutobasu Yarou Shou | 42426 | [42426-sutobasu-yarou-shou.json](./42426-sutobasu-yarou-shou.json) |
 | Sutopuri Nurie | 193783 | [193783-sutopuri-nurie.json](./193783-sutopuri-nurie.json) |
 | Sutte Hakkun | 356234 | [356234-sutte-hakkun.json](./356234-sutte-hakkun.json) |
