@@ -3021,6 +3021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Meoir: Feline Detective | 298416 | [298416-cat-meoir-feline-detective.json](./298416-cat-meoir-feline-detective.json) |
 | Cat MeowMart: Supermarket Simulator | 328567 | [328567-cat-meowmart-supermarket-simulator.json](./328567-cat-meowmart-supermarket-simulator.json) |
 | Cat Merge | 374927 | [374927-cat-merge.json](./374927-cat-merge.json) |
+| Cat Milk | 163171 | [163171-cat-milk.json](./163171-cat-milk.json) |
 | Cat Minesweeper | 396599 | [396599-cat-minesweeper.json](./396599-cat-minesweeper.json) |
 | Cat Museum | 193857 | [193857-cat-museum.json](./193857-cat-museum.json) |
 | Cat Music Chaos | 419335 | [419335-cat-music-chaos.json](./419335-cat-music-chaos.json) |
@@ -6497,6 +6498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chubby Gristle | 12002 | [12002-chubby-gristle.json](./12002-chubby-gristle.json) |
 | Chubby Hurdles | 243968 | [243968-chubby-hurdles.json](./243968-chubby-hurdles.json) |
 | Chubby Pixel Mega Bundle | 218457 | [218457-chubby-pixel-mega-bundle.json](./218457-chubby-pixel-mega-bundle.json) |
+| Chubmen's Strange Case File: Chapter of Corridor | 163242 | [163242-chubmens-strange-case-file-chapter-of-corridor.json](./163242-chubmens-strange-case-file-chapter-of-corridor.json) |
 | Chuchel | 57263 | [57263-chuchel.json](./57263-chuchel.json) |
 | ChuChu Rocket! | 6347 | [6347-chuchu-rocket.json](./6347-chuchu-rocket.json) |
 | ChuChu Rocket! Universe | 122316 | [122316-chuchu-rocket-universe.json](./122316-chuchu-rocket-universe.json) |
@@ -12364,8 +12366,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crash Bandicoot World | 309165 | [309165-crash-bandicoot-world.json](./309165-crash-bandicoot-world.json) |
 | Crash Bandicoot: Atlasphere Bowling | 314656 | [314656-crash-bandicoot-atlasphere-bowling.json](./314656-crash-bandicoot-atlasphere-bowling.json) |
 | Crash Bandicoot: Back In Time | 245695 | [245695-crash-bandicoot-back-in-time.json](./245695-crash-bandicoot-back-in-time.json) |
+| Crash Bandicoot: Crashiversary Bundle | 163177 | [163177-crash-bandicoot-crashiversary-bundle.json](./163177-crash-bandicoot-crashiversary-bundle.json) |
 | Crash Bandicoot: Kart Racing | 314655 | [314655-crash-bandicoot-kart-racing.json](./314655-crash-bandicoot-kart-racing.json) |
 | Crash Bandicoot: On the Run! | 132793 | [132793-crash-bandicoot-on-the-run.json](./132793-crash-bandicoot-on-the-run.json) |
+| Crash Bandicoot: Quadrilogy Bundle | 163176 | [163176-crash-bandicoot-quadrilogy-bundle.json](./163176-crash-bandicoot-quadrilogy-bundle.json) |
 | Crash Bandicoot: The Secret Place | 339944 | [339944-crash-bandicoot-the-secret-place.json](./339944-crash-bandicoot-the-secret-place.json) |
 | Crash Bandicoot: Time to Rumble Bundle | 385410 | [385410-crash-bandicoot-time-to-rumble-bundle.json](./385410-crash-bandicoot-time-to-rumble-bundle.json) |
 | Crash Bandicoot: UFO Shooter | 314657 | [314657-crash-bandicoot-ufo-shooter.json](./314657-crash-bandicoot-ufo-shooter.json) |
@@ -15211,6 +15215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Custom Drive | 64873 | [64873-custom-drive.json](./64873-custom-drive.json) |
 | Custom Fortress | 362061 | [362061-custom-fortress.json](./362061-custom-fortress.json) |
 | Custom Goban | 236181 | [236181-custom-goban.json](./236181-custom-goban.json) |
+| Custom Machinery | 163178 | [163178-custom-machinery.json](./163178-custom-machinery.json) |
 | Custom Maid 3D | 191694 | [191694-custom-maid-3d.json](./191694-custom-maid-3d.json) |
 | Custom Maid 3D 2 | 26563 | [26563-custom-maid-3d-2.json](./26563-custom-maid-3d-2.json) |
 | Custom Mario Maker | 294782 | [294782-custom-mario-maker.json](./294782-custom-mario-maker.json) |
