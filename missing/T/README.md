@@ -14651,7 +14651,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wiki Game | 130699 | [130699-the-wiki-game.json](./130699-the-wiki-game.json) |
 | The Wild | 49282 | [49282-the-wild.json](./49282-the-wild.json) |
 | The Wild | 64971 | [64971-the-wild.json](./64971-the-wild.json) |
-| The Wild at Heart | 116522 | [116522-the-wild-at-heart.json](./116522-the-wild-at-heart.json) |
 | The Wild Case | 126639 | [126639-the-wild-case.json](./126639-the-wild-case.json) |
 | The Wild Darkness | 212474 | [212474-the-wild-darkness.json](./212474-the-wild-darkness.json) |
 | The Wild Eternal | 20991 | [20991-the-wild-eternal.json](./20991-the-wild-eternal.json) |
