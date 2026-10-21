@@ -2569,6 +2569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Urânio 235 | 256281 | [256281-uranio-235.json](./256281-uranio-235.json) |
 | Uranium Gays | 376054 | [376054-uranium-gays.json](./376054-uranium-gays.json) |
 | Uranium Mario 64 | 338828 | [338828-uranium-mario-64.json](./338828-uranium-mario-64.json) |
+| Uranus | 161632 | [161632-uranus.json](./161632-uranus.json) |
 | Uranus | 313454 | [313454-uranus.json](./313454-uranus.json) |
 | Urawaza Mahjong: Korette Tenwatte Yatsukai | 363966 | [363966-urawaza-mahjong-korette-tenwatte-yatsukai.json](./363966-urawaza-mahjong-korette-tenwatte-yatsukai.json) |
 | URB: Last Pixels Battle | 100845 | [100845-urb-last-pixels-battle.json](./100845-urb-last-pixels-battle.json) |
