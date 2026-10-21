@@ -2054,6 +2054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Re:Fresh | 239086 | [239086-re-fresh.json](./239086-re-fresh.json) |
 | Re:in | 166467 | [166467-re-in.json](./166467-re-in.json) |
 | Re:Infinite | 196587 | [196587-re-infinite.json](./196587-re-infinite.json) |
+| RE:Jump Boy | 159529 | [159529-re-jump-boy.json](./159529-re-jump-boy.json) |
 | Re:Kuroi | 151725 | [151725-re-kuroi.json](./151725-re-kuroi.json) |
 | Re:leap-future City and Futureless | 346572 | [346572-re-leap-future-city-and-futureless.json](./346572-re-leap-future-city-and-futureless.json) |
 | Re:Legend | 51535 | [51535-re-legend.json](./51535-re-legend.json) |
