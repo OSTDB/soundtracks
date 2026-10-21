@@ -3090,7 +3090,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AFK Dungeon | 266256 | [266256-afk-dungeon.json](./266256-afk-dungeon.json) |
 | AFK Football | 267314 | [267314-afk-football.json](./267314-afk-football.json) |
 | AFK Industarry | 405469 | [405469-afk-industarry.json](./405469-afk-industarry.json) |
-| AFK Journey | 286114 | [286114-afk-journey.json](./286114-afk-journey.json) |
 | AFK Shift | 347169 | [347169-afk-shift.json](./347169-afk-shift.json) |
 | AFL 23 | 240298 | [240298-afl-23.json](./240298-afl-23.json) |
 | AFL 26 | 340723 | [340723-afl-26.json](./340723-afl-26.json) |
@@ -6364,7 +6363,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | America's Test Kitchen: Let's Get Cooking | 24343 | [24343-americas-test-kitchen-lets-get-cooking.json](./24343-americas-test-kitchen-lets-get-cooking.json) |
 | American Airport Simulator | 247910 | [247910-american-airport-simulator.json](./247910-american-airport-simulator.json) |
 | American Angst | 139723 | [139723-american-angst.json](./139723-american-angst.json) |
-| American Arcadia | 198439 | [198439-american-arcadia.json](./198439-american-arcadia.json) |
 | American Assault | 273130 | [273130-american-assault.json](./273130-american-assault.json) |
 | American Basketball: Guns & Balls | 234316 | [234316-american-basketball-guns-and-balls.json](./234316-american-basketball-guns-and-balls.json) |
 | American Battle Dome | 44451 | [44451-american-battle-dome.json](./44451-american-battle-dome.json) |
