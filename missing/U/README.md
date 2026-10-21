@@ -2548,6 +2548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UpUp: Frozen Adventure | 257786 | [257786-upup-frozen-adventure.json](./257786-upup-frozen-adventure.json) |
 | UpUpUp | 310810 | [310810-upupup.json](./310810-upupup.json) |
 | Upventure | 56495 | [56495-upventure.json](./56495-upventure.json) |
+| Upward | 156944 | [156944-upward.json](./156944-upward.json) |
 | Upward | 234353 | [234353-upward.json](./234353-upward.json) |
 | Upward | 281907 | [281907-upward.json](./281907-upward.json) |
 | Upwards, Lonely Robot | 34066 | [34066-upwards-lonely-robot.json](./34066-upwards-lonely-robot.json) |
