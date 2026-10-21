@@ -4819,7 +4819,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noctuary | 221395 | [221395-noctuary.json](./221395-noctuary.json) |
 | Noctuary: New Journey | 370210 | [370210-noctuary-new-journey.json](./370210-noctuary-new-journey.json) |
 | Nocturia The Game | 247912 | [247912-nocturia-the-game.json](./247912-nocturia-the-game.json) |
-| Nocturnal | 234740 | [234740-nocturnal.json](./234740-nocturnal.json) |
 | Nocturnal | 350295 | [350295-nocturnal.json](./350295-nocturnal.json) |
 | Nocturnal Echoes | 414419 | [414419-nocturnal-echoes.json](./414419-nocturnal-echoes.json) |
 | Nocturnal Hunt | 75762 | [75762-nocturnal-hunt.json](./75762-nocturnal-hunt.json) |
