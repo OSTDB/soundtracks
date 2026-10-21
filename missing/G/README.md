@@ -1026,6 +1026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game of Life | 76506 | [76506-game-of-life.json](./76506-game-of-life.json) |
 | Game of Life Kuzushi | 366434 | [366434-game-of-life-kuzushi.json](./366434-game-of-life-kuzushi.json) |
 | Game of Life: Time | 292263 | [292263-game-of-life-time.json](./292263-game-of-life-time.json) |
+| Game of Love | 163249 | [163249-game-of-love.json](./163249-game-of-love.json) |
 | Game of Mafia | 169415 | [169415-game-of-mafia.json](./169415-game-of-mafia.json) |
 | Game of Planets | 391569 | [391569-game-of-planets.json](./391569-game-of-planets.json) |
 | Game of Puzzles: Animals | 163428 | [163428-game-of-puzzles-animals.json](./163428-game-of-puzzles-animals.json) |
@@ -1926,6 +1927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gefangen in der Drachenfestung | 255553 | [255553-gefangen-in-der-drachenfestung.json](./255553-gefangen-in-der-drachenfestung.json) |
 | Gefeuert! Dein letzter Tag | 200337 | [200337-gefeuert-dein-letzter-tag.json](./200337-gefeuert-dein-letzter-tag.json) |
 | Geflect | 181908 | [181908-geflect.json](./181908-geflect.json) |
+| Gefragt Gejagt | 163144 | [163144-gefragt-gejagt.json](./163144-gefragt-gejagt.json) |
 | Geg 2: Nazad v Budushchee | 303242 | [303242-geg-2-nazad-v-budushchee.json](./303242-geg-2-nazad-v-budushchee.json) |
 | GeGeGe no Kitaro | 166545 | [166545-gegege-no-kitaro.json](./166545-gegege-no-kitaro.json) |
 | GeGeGe no Kitaro 2: Yokai Gundan no Chousen | 48485 | [48485-gegege-no-kitaro-2-yokai-gundan-no-chousen.json](./48485-gegege-no-kitaro-2-yokai-gundan-no-chousen.json) |
