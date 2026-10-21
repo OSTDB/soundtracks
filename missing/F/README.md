@@ -2420,7 +2420,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fatal Fury One | 400426 | [400426-fatal-fury-one.json](./400426-fatal-fury-one.json) |
 | Fatal Fury Special | 5385 | [5385-fatal-fury-special.json](./5385-fatal-fury-special.json) |
 | Fatal Fury: Battle Archives Volume 1 | 21232 | [21232-fatal-fury-battle-archives-volume-1.json](./21232-fatal-fury-battle-archives-volume-1.json) |
-| Fatal Fury: City of the Wolves | 260321 | [260321-fatal-fury-city-of-the-wolves.json](./260321-fatal-fury-city-of-the-wolves.json) |
 | Fatal Fury: City of the Wolves - Andy Bogard | 349908 | [349908-fatal-fury-city-of-the-wolves-andy-bogard.json](./349908-fatal-fury-city-of-the-wolves-andy-bogard.json) |
 | Fatal Fury: City of the Wolves - Chun-Li | 317832 | [317832-fatal-fury-city-of-the-wolves-chun-li.json](./317832-fatal-fury-city-of-the-wolves-chun-li.json) |
 | Fatal Fury: City of the Wolves - Deluxe Edition | 329713 | [329713-fatal-fury-city-of-the-wolves-deluxe-edition.json](./329713-fatal-fury-city-of-the-wolves-deluxe-edition.json) |
@@ -3637,7 +3636,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fighting Zombie | 196558 | [196558-fighting-zombie.json](./196558-fighting-zombie.json) |
 | FightingChicken | 309675 | [309675-fightingchicken.json](./309675-fightingchicken.json) |
 | Fightmons | 120224 | [120224-fightmons.json](./120224-fightmons.json) |
-| Fights in Tight Spaces | 132422 | [132422-fights-in-tight-spaces.json](./132422-fights-in-tight-spaces.json) |
 | Fights in Tight Spaces: Complete Edition | 270309 | [270309-fights-in-tight-spaces-complete-edition.json](./270309-fights-in-tight-spaces-complete-edition.json) |
 | Fights in Tight Spaces: Frights in Tight Spaces | 375531 | [375531-fights-in-tight-spaces-frights-in-tight-spaces.json](./375531-fights-in-tight-spaces-frights-in-tight-spaces.json) |
 | Fights in Tight Spaces: K9 Division | 370251 | [370251-fights-in-tight-spaces-k9-division.json](./370251-fights-in-tight-spaces-k9-division.json) |
@@ -3849,7 +3847,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy IX | 400428 | [400428-final-fantasy-ix.json](./400428-final-fantasy-ix.json) |
 | Final Fantasy IX Remake | 309656 | [309656-final-fantasy-ix-remake.json](./309656-final-fantasy-ix-remake.json) |
 | Final Fantasy IX: Alternate Fantasy | 360108 | [360108-final-fantasy-ix-alternate-fantasy.json](./360108-final-fantasy-ix-alternate-fantasy.json) |
-| Final Fantasy Legend II | 403 | [403-final-fantasy-legend-ii.json](./403-final-fantasy-legend-ii.json) |
 | Final Fantasy Legend II DX | 364843 | [364843-final-fantasy-legend-ii-dx.json](./364843-final-fantasy-legend-ii-dx.json) |
 | Final Fantasy Legend III DX | 366027 | [366027-final-fantasy-legend-iii-dx.json](./366027-final-fantasy-legend-iii-dx.json) |
 | Final Fantasy Legends: Toki no Suisho | 60600 | [60600-final-fantasy-legends-toki-no-suisho.json](./60600-final-fantasy-legends-toki-no-suisho.json) |
