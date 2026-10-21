@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-21T20:33:53.417Z",
-  "total_missing": 243570,
+  "generated_at": "2026-10-21T20:42:27.230Z",
+  "total_missing": 243560,
   "games": [
     {
       "igdb_id": 191680,
@@ -28662,11 +28662,6 @@
       "file": "missing/A/405469-afk-industarry.json"
     },
     {
-      "igdb_id": 286114,
-      "game_name": "AFK Journey",
-      "file": "missing/A/286114-afk-journey.json"
-    },
-    {
       "igdb_id": 347169,
       "game_name": "AFK Shift",
       "file": "missing/A/347169-afk-shift.json"
@@ -45050,11 +45045,6 @@
       "igdb_id": 139723,
       "game_name": "American Angst",
       "file": "missing/A/139723-american-angst.json"
-    },
-    {
-      "igdb_id": 198439,
-      "game_name": "American Arcadia",
-      "file": "missing/A/198439-american-arcadia.json"
     },
     {
       "igdb_id": 273130,
@@ -321677,11 +321667,6 @@
       "file": "missing/E/13643-endzone.json"
     },
     {
-      "igdb_id": 126362,
-      "game_name": "Endzone: A World Apart",
-      "file": "missing/E/126362-endzone-a-world-apart.json"
-    },
-    {
       "igdb_id": 218504,
       "game_name": "Endzone: A World Apart - Complete Edition",
       "file": "missing/E/218504-endzone-a-world-apart-complete-edition.json"
@@ -356960,11 +356945,6 @@
       "igdb_id": 120224,
       "game_name": "Fightmons",
       "file": "missing/F/120224-fightmons.json"
-    },
-    {
-      "igdb_id": 132422,
-      "game_name": "Fights in Tight Spaces",
-      "file": "missing/F/132422-fights-in-tight-spaces.json"
     },
     {
       "igdb_id": 270309,
@@ -428187,11 +428167,6 @@
       "file": "missing/G/123830-grim-clicker.json"
     },
     {
-      "igdb_id": 75682,
-      "game_name": "Grim Dawn: Ashes of Malmouth",
-      "file": "missing/G/75682-grim-dawn-ashes-of-malmouth.json"
-    },
-    {
       "igdb_id": 75683,
       "game_name": "Grim Dawn: Crucible Mode DLC",
       "file": "missing/G/75683-grim-dawn-crucible-mode-dlc.json"
@@ -469450,11 +469425,6 @@
       "igdb_id": 400216,
       "game_name": "Ho'omana'o Mau: A Somber Daydream",
       "file": "missing/H/400216-hoomanao-mau-a-somber-daydream.json"
-    },
-    {
-      "igdb_id": 136981,
-      "game_name": "Hoa",
-      "file": "missing/H/136981-hoa.json"
     },
     {
       "igdb_id": 7402,
@@ -638742,11 +638712,6 @@
       "file": "missing/M/295391-minako-beloved-wife-in-the-countryside.json"
     },
     {
-      "igdb_id": 276203,
-      "game_name": "Minami Lane",
-      "file": "missing/M/276203-minami-lane.json"
-    },
-    {
       "igdb_id": 267647,
       "game_name": "Minami no Shima ni Buta Ga Ita",
       "file": "missing/M/267647-minami-no-shima-ni-buta-ga-ita.json"
@@ -666765,11 +666730,6 @@
       "igdb_id": 164967,
       "game_name": "Murder Hornets",
       "file": "missing/M/164967-murder-hornets.json"
-    },
-    {
-      "igdb_id": 135763,
-      "game_name": "Murder House",
-      "file": "missing/M/135763-murder-house.json"
     },
     {
       "igdb_id": 62153,
@@ -718462,11 +718422,6 @@
       "file": "missing/O/207588-one-step-away.json"
     },
     {
-      "igdb_id": 111717,
-      "game_name": "One Step From Eden",
-      "file": "missing/O/111717-one-step-from-eden.json"
-    },
-    {
       "igdb_id": 348820,
       "game_name": "One Step Further",
       "file": "missing/O/348820-one-step-further.json"
@@ -729455,11 +729410,6 @@
       "igdb_id": 122430,
       "game_name": "Overboard",
       "file": "missing/O/122430-overboard.json"
-    },
-    {
-      "igdb_id": 151067,
-      "game_name": "Overboard!",
-      "file": "missing/O/151067-overboard.json"
     },
     {
       "igdb_id": 318728,
