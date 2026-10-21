@@ -667,6 +667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Karamuu-chou ha Oosawagi! | 228576 | [228576-karamuu-chou-ha-oosawagi.json](./228576-karamuu-chou-ha-oosawagi.json) |
 | Karamuu-chou ha Oosawagi!: Porinkiis to Okashi na Nakama-tachi | 228577 | [228577-karamuu-chou-ha-oosawagi-porinkiis-to-okashi-na-nakama-tachi.json](./228577-karamuu-chou-ha-oosawagi-porinkiis-to-okashi-na-nakama-tachi.json) |
 | Karamuu-chou no Daijiken | 228575 | [228575-karamuu-chou-no-daijiken.json](./228575-karamuu-chou-no-daijiken.json) |
+| Karanos Solitaire | 158392 | [158392-karanos-solitaire.json](./158392-karanos-solitaire.json) |
 | Karao | 392176 | [392176-karao.json](./392176-karao.json) |
 | Karaoke | 80255 | [80255-karaoke.json](./80255-karaoke.json) |
 | Karaoke Animal Party: Sing & Dance | 330607 | [330607-karaoke-animal-party-sing-and-dance.json](./330607-karaoke-animal-party-sing-and-dance.json) |
@@ -947,6 +948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Katou Hifumi Kudan Kanshuu Hifumin No Shogi Dojo | 136881 | [136881-katou-hifumi-kudan-kanshuu-hifumin-no-shogi-dojo.json](./136881-katou-hifumi-kudan-kanshuu-hifumin-no-shogi-dojo.json) |
 | Katou Hifumi Kudan no Shogi Kyoushitsu | 97858 | [97858-katou-hifumi-kudan-no-shogi-kyoushitsu.json](./97858-katou-hifumi-kudan-no-shogi-kyoushitsu.json) |
 | Katou Hifumi Kudan Shogi Club | 37742 | [37742-katou-hifumi-kudan-shogi-club.json](./37742-katou-hifumi-kudan-shogi-club.json) |
+| Katrina's Kurse | 160056 | [160056-katrinas-kurse.json](./160056-katrinas-kurse.json) |
 | Kats Trigger | 372633 | [372633-kats-trigger.json](./372633-kats-trigger.json) |
 | Katsl | 272757 | [272757-katsl.json](./272757-katsl.json) |
 | KatsuobushiClicker | 401732 | [401732-katsuobushiclicker.json](./401732-katsuobushiclicker.json) |
@@ -3538,6 +3540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knights & Slimes | 115649 | [115649-knights-and-slimes.json](./115649-knights-and-slimes.json) |
 | Knights and Castles | 182732 | [182732-knights-and-castles.json](./182732-knights-and-castles.json) |
 | Knights and Craftsmen | 223689 | [223689-knights-and-craftsmen.json](./223689-knights-and-craftsmen.json) |
+| Knights and Dungeons | 160055 | [160055-knights-and-dungeons.json](./160055-knights-and-dungeons.json) |
 | Knights and Goblins | 243536 | [243536-knights-and-goblins.json](./243536-knights-and-goblins.json) |
 | Knights and Merchants: The Shattered Kingdom | 3067 | [3067-knights-and-merchants-the-shattered-kingdom.json](./3067-knights-and-merchants-the-shattered-kingdom.json) |
 | Knights and Ogres | 96926 | [96926-knights-and-ogres.json](./96926-knights-and-ogres.json) |
