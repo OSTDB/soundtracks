@@ -1454,7 +1454,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garden Snap | 320017 | [320017-garden-snap.json](./320017-garden-snap.json) |
 | Garden Song | 133252 | [133252-garden-song.json](./133252-garden-song.json) |
 | Garden Souls | 409750 | [409750-garden-souls.json](./409750-garden-souls.json) |
-| Garden Story | 119856 | [119856-garden-story.json](./119856-garden-story.json) |
 | Garden Tails | 215156 | [215156-garden-tails.json](./215156-garden-tails.json) |
 | Garden Trills | 276659 | [276659-garden-trills.json](./276659-garden-trills.json) |
 | Garden Variety Body Horror | 110153 | [110153-garden-variety-body-horror.json](./110153-garden-variety-body-horror.json) |
