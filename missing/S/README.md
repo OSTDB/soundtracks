@@ -816,7 +816,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Salt | 334887 | [334887-salt.json](./334887-salt.json) |
 | Salt & Soul: Pocket Chef's Adventure | 406865 | [406865-salt-and-soul-pocket-chefs-adventure.json](./406865-salt-and-soul-pocket-chefs-adventure.json) |
 | Salt 2: Shores of Gold | 151169 | [151169-salt-2-shores-of-gold.json](./151169-salt-2-shores-of-gold.json) |
-| Salt and Sacrifice | 152065 | [152065-salt-and-sacrifice.json](./152065-salt-and-sacrifice.json) |
 | Salt and Sails | 153921 | [153921-salt-and-sails.json](./153921-salt-and-sails.json) |
 | Salt and Sanctuary: Drowned Tome Edition | 136349 | [136349-salt-and-sanctuary-drowned-tome-edition.json](./136349-salt-and-sanctuary-drowned-tome-edition.json) |
 | Salt and Spice | 411504 | [411504-salt-and-spice.json](./411504-salt-and-spice.json) |
@@ -24132,6 +24131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Jigsaw Puzzle: Generations - Summer 2020 | 155606 | [155606-super-jigsaw-puzzle-generations-summer-2020.json](./155606-super-jigsaw-puzzle-generations-summer-2020.json) |
 | Super Jigsaw Puzzle: Generations - Sunsets Puzzles | 155630 | [155630-super-jigsaw-puzzle-generations-sunsets-puzzles.json](./155630-super-jigsaw-puzzle-generations-sunsets-puzzles.json) |
 | Super Jigsaw Puzzle: Generations - Sweets Puzzles | 155608 | [155608-super-jigsaw-puzzle-generations-sweets-puzzles.json](./155608-super-jigsaw-puzzle-generations-sweets-puzzles.json) |
+| Super Jigsaw Puzzle: Generations - Switzerland | 162228 | [162228-super-jigsaw-puzzle-generations-switzerland.json](./162228-super-jigsaw-puzzle-generations-switzerland.json) |
 | Super Jigsaw Puzzle: Generations - Technology | 196677 | [196677-super-jigsaw-puzzle-generations-technology.json](./196677-super-jigsaw-puzzle-generations-technology.json) |
 | Super Jigsaw Puzzle: Generations - Tools | 261736 | [261736-super-jigsaw-puzzle-generations-tools.json](./261736-super-jigsaw-puzzle-generations-tools.json) |
 | Super Jigsaw Puzzle: Generations - Trains 2 | 201452 | [201452-super-jigsaw-puzzle-generations-trains-2.json](./201452-super-jigsaw-puzzle-generations-trains-2.json) |
