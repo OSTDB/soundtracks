@@ -12885,7 +12885,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Some Sword, Some Play | 215774 | [215774-some-sword-some-play.json](./215774-some-sword-some-play.json) |
 | Some Synergy | 210883 | [210883-some-synergy.json](./210883-some-synergy.json) |
 | Someday | 120923 | [120923-someday.json](./120923-someday.json) |
-| Someday You'll Return | 102890 | [102890-someday-youll-return.json](./102890-someday-youll-return.json) |
 | Someday You'll Return: Director's Cut | 241044 | [241044-someday-youll-return-directors-cut.json](./241044-someday-youll-return-directors-cut.json) |
 | Someone Creepy | 357196 | [357196-someone-creepy.json](./357196-someone-creepy.json) |
 | Someone Knocks The Door | 350032 | [350032-someone-knocks-the-door.json](./350032-someone-knocks-the-door.json) |
