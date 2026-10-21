@@ -3865,6 +3865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetris for Two | 187733 | [187733-tetris-for-two.json](./187733-tetris-for-two.json) |
 | Tetris for Windows CE | 203113 | [203113-tetris-for-windows-ce.json](./203113-tetris-for-windows-ce.json) |
 | Tetris Forever | 314934 | [314934-tetris-forever.json](./314934-tetris-forever.json) |
+| Tetris Gems | 158991 | [158991-tetris-gems.json](./158991-tetris-gems.json) |
 | Tetris Giant | 92457 | [92457-tetris-giant.json](./92457-tetris-giant.json) |
 | Tetris HD | 94129 | [94129-tetris-hd.json](./94129-tetris-hd.json) |
 | Tetris Illuminated Mega Screen | 233647 | [233647-tetris-illuminated-mega-screen.json](./233647-tetris-illuminated-mega-screen.json) |
@@ -8178,6 +8179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hero Project: Redemption Season | 33089 | [33089-the-hero-project-redemption-season.json](./33089-the-hero-project-redemption-season.json) |
 | The Hero Project: Redemption Season - MeChip Warning System | 170822 | [170822-the-hero-project-redemption-season-mechip-warning-system.json](./170822-the-hero-project-redemption-season-mechip-warning-system.json) |
 | The Hero Unmasked! | 52274 | [52274-the-hero-unmasked.json](./52274-the-hero-unmasked.json) |
+| The Hero We Need | 159023 | [159023-the-hero-we-need.json](./159023-the-hero-we-need.json) |
 | The Hero with a Thousand Arms | 242399 | [242399-the-hero-with-a-thousand-arms.json](./242399-the-hero-with-a-thousand-arms.json) |
 | The Herobrine Mod | 232684 | [232684-the-herobrine-mod.json](./232684-the-herobrine-mod.json) |
 | The Heroic Knight | 388303 | [388303-the-heroic-knight.json](./388303-the-heroic-knight.json) |
@@ -11923,6 +11925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Reason Why Raeliana Ended up at the Duke's Mansion: Heika's Colorful Day Out | 170832 | [170832-the-reason-why-raeliana-ended-up-at-the-dukes-mansion-heikas-colorful-day-out.json](./170832-the-reason-why-raeliana-ended-up-at-the-dukes-mansion-heikas-colorful-day-out.json) |
 | The Reasons for It. | 397080 | [397080-the-reasons-for-it.json](./397080-the-reasons-for-it.json) |
 | The Rebel | 33275 | [33275-the-rebel.json](./33275-the-rebel.json) |
+| The Rebellion | 159009 | [159009-the-rebellion.json](./159009-the-rebellion.json) |
 | The Rebellion | 385370 | [385370-the-rebellion.json](./385370-the-rebellion.json) |
 | The Rebirth | 257304 | [257304-the-rebirth.json](./257304-the-rebirth.json) |
 | The Rebirth | 327223 | [327223-the-rebirth.json](./327223-the-rebirth.json) |
@@ -14075,6 +14078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The True Slime King | 97974 | [97974-the-true-slime-king.json](./97974-the-true-slime-king.json) |
 | The True Tales of Bloodstreet 13 | 112848 | [112848-the-true-tales-of-bloodstreet-13.json](./112848-the-true-tales-of-bloodstreet-13.json) |
 | The Trump | 124087 | [124087-the-trump.json](./124087-the-trump.json) |
+| The Truth About 9th Company | 158978 | [158978-the-truth-about-9th-company.json](./158978-the-truth-about-9th-company.json) |
 | The Truth Is Up There | 397424 | [397424-the-truth-is-up-there.json](./397424-the-truth-is-up-there.json) |
 | The Truth of a Snowy Night | 340955 | [340955-the-truth-of-a-snowy-night.json](./340955-the-truth-of-a-snowy-night.json) |
 | The Tsar's Secret | 209475 | [209475-the-tsars-secret.json](./209475-the-tsars-secret.json) |
@@ -15359,6 +15363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thief's Adventure | 372490 | [372490-thiefs-adventure.json](./372490-thiefs-adventure.json) |
 | Thief's Market | 384798 | [384798-thiefs-market.json](./384798-thiefs-market.json) |
 | Thief's Roulette | 129137 | [129137-thiefs-roulette.json](./129137-thiefs-roulette.json) |
+| Thief's Shelter | 158907 | [158907-thiefs-shelter.json](./158907-thiefs-shelter.json) |
 | Thief's Treasure | 178843 | [178843-thiefs-treasure.json](./178843-thiefs-treasure.json) |
 | Thiefbot | 183990 | [183990-thiefbot.json](./183990-thiefbot.json) |
 | ThiefRl2 | 184578 | [184578-thiefrl2.json](./184578-thiefrl2.json) |
@@ -20493,6 +20498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Chronicle of Youkai Prayers | 356567 | [356567-touhou-chronicle-of-youkai-prayers.json](./356567-touhou-chronicle-of-youkai-prayers.json) |
 | Touhou Chronicles: Tales of the Two Immortals | 372059 | [372059-touhou-chronicles-tales-of-the-two-immortals.json](./372059-touhou-chronicles-tales-of-the-two-immortals.json) |
 | Touhou Crawl | 356561 | [356561-touhou-crawl.json](./356561-touhou-crawl.json) |
+| Touhou Danmaku Kagura | 159010 | [159010-touhou-danmaku-kagura.json](./159010-touhou-danmaku-kagura.json) |
 | Touhou Danmaku Kagura: Phantasia Lost | 222995 | [222995-touhou-danmaku-kagura-phantasia-lost.json](./222995-touhou-danmaku-kagura-phantasia-lost.json) |
 | Touhou Danmaku Kagura: Phantasia Lost - Extra Song Pack 1 | 289028 | [289028-touhou-danmaku-kagura-phantasia-lost-extra-song-pack-1.json](./289028-touhou-danmaku-kagura-phantasia-lost-extra-song-pack-1.json) |
 | Touhou Danmaku Kagura: Phantasia Lost - Extra Song Pack 10 | 351245 | [351245-touhou-danmaku-kagura-phantasia-lost-extra-song-pack-10.json](./351245-touhou-danmaku-kagura-phantasia-lost-extra-song-pack-10.json) |
@@ -20934,6 +20940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower of Babel: No Mercy | 129190 | [129190-tower-of-babel-no-mercy.json](./129190-tower-of-babel-no-mercy.json) |
 | Tower of Babel: Survivors of Chaos | 329785 | [329785-tower-of-babel-survivors-of-chaos.json](./329785-tower-of-babel-survivors-of-chaos.json) |
 | Tower of Baby | 401931 | [401931-tower-of-baby.json](./401931-tower-of-baby.json) |
+| Tower of Balloons: Otterrific Arcade | 159020 | [159020-tower-of-balloons-otterrific-arcade.json](./159020-tower-of-balloons-otterrific-arcade.json) |
 | Tower of Boin | 271118 | [271118-tower-of-boin.json](./271118-tower-of-boin.json) |
 | Tower of Boom | 179144 | [179144-tower-of-boom.json](./179144-tower-of-boom.json) |
 | Tower of Cards | 199455 | [199455-tower-of-cards.json](./199455-tower-of-cards.json) |
@@ -24447,6 +24454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Truck Sim 2024 | 287159 | [287159-truck-sim-2024.json](./287159-truck-sim-2024.json) |
 | Truck Simulation 19 | 111747 | [111747-truck-simulation-19.json](./111747-truck-simulation-19.json) |
 | Truck Simulator & World of Machines: Game Bundle Collection | 263562 | [263562-truck-simulator-and-world-of-machines-game-bundle-collection.json](./263562-truck-simulator-and-world-of-machines-game-bundle-collection.json) |
+| Truck Simulator 2 | 159016 | [159016-truck-simulator-2.json](./159016-truck-simulator-2.json) |
 | Truck Simulator 2014 | 90774 | [90774-truck-simulator-2014.json](./90774-truck-simulator-2014.json) |
 | Truck Simulator 2023: Driver Europe - Premium Edition | 328806 | [328806-truck-simulator-2023-driver-europe-premium-edition.json](./328806-truck-simulator-2023-driver-europe-premium-edition.json) |
 | Truck Simulator 2024: USA Driver Zone | 283220 | [283220-truck-simulator-2024-usa-driver-zone.json](./283220-truck-simulator-2024-usa-driver-zone.json) |
