@@ -6563,7 +6563,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ho-Ho-Maze! | 340476 | [340476-ho-ho-maze.json](./340476-ho-ho-maze.json) |
 | Ho-K | 180470 | [180470-ho-k.json](./180470-ho-k.json) |
 | Ho'omana'o Mau: A Somber Daydream | 400216 | [400216-hoomanao-mau-a-somber-daydream.json](./400216-hoomanao-mau-a-somber-daydream.json) |
-| Hoa | 136981 | [136981-hoa.json](./136981-hoa.json) |
 | Hoard | 7402 | [7402-hoard.json](./7402-hoard.json) |
 | Hoard Defender VR | 346371 | [346371-hoard-defender-vr.json](./346371-hoard-defender-vr.json) |
 | Hoard: Dynamite Roll! | 171075 | [171075-hoard-dynamite-roll.json](./171075-hoard-dynamite-roll.json) |
