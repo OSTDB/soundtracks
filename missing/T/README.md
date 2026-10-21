@@ -16909,6 +16909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiger Tank 59 I: Battleship MP047 | 160590 | [160590-tiger-tank-59-i-battleship-mp047.json](./160590-tiger-tank-59-i-battleship-mp047.json) |
 | Tiger Tank 59 I: Battleship MP048 | 160595 | [160595-tiger-tank-59-i-battleship-mp048.json](./160595-tiger-tank-59-i-battleship-mp048.json) |
 | Tiger Tank 59 I: Battleship MP049 | 160612 | [160612-tiger-tank-59-i-battleship-mp049.json](./160612-tiger-tank-59-i-battleship-mp049.json) |
+| Tiger Tank 59 I: Battleship MP050 | 161129 | [161129-tiger-tank-59-i-battleship-mp050.json](./161129-tiger-tank-59-i-battleship-mp050.json) |
 | Tiger Tank 59 I: Battleship MP053 | 160585 | [160585-tiger-tank-59-i-battleship-mp053.json](./160585-tiger-tank-59-i-battleship-mp053.json) |
 | Tiger Tank 59 I: Battleship MP054 | 160575 | [160575-tiger-tank-59-i-battleship-mp054.json](./160575-tiger-tank-59-i-battleship-mp054.json) |
 | Tiger Tank 59 I: Battleship MP055 | 160592 | [160592-tiger-tank-59-i-battleship-mp055.json](./160592-tiger-tank-59-i-battleship-mp055.json) |
@@ -16939,17 +16940,22 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiger Tank 59 I: Black Hill Fortress MP001 | 160345 | [160345-tiger-tank-59-i-black-hill-fortress-mp001.json](./160345-tiger-tank-59-i-black-hill-fortress-mp001.json) |
 | Tiger Tank 59 I: Black Hill Fortress MP017 | 160304 | [160304-tiger-tank-59-i-black-hill-fortress-mp017.json](./160304-tiger-tank-59-i-black-hill-fortress-mp017.json) |
 | Tiger Tank 59 I: Black Hill Fortress MP022 | 160353 | [160353-tiger-tank-59-i-black-hill-fortress-mp022.json](./160353-tiger-tank-59-i-black-hill-fortress-mp022.json) |
+| Tiger Tank 59 I: Black Hill Fortress MP027 | 161068 | [161068-tiger-tank-59-i-black-hill-fortress-mp027.json](./161068-tiger-tank-59-i-black-hill-fortress-mp027.json) |
 | Tiger Tank 59 I: Black Hill Fortress MP033 | 160341 | [160341-tiger-tank-59-i-black-hill-fortress-mp033.json](./160341-tiger-tank-59-i-black-hill-fortress-mp033.json) |
 | Tiger Tank 59 I: Black Hill Fortress MP035 | 160330 | [160330-tiger-tank-59-i-black-hill-fortress-mp035.json](./160330-tiger-tank-59-i-black-hill-fortress-mp035.json) |
 | Tiger Tank 59 I: Black Hill Fortress MP036 | 160393 | [160393-tiger-tank-59-i-black-hill-fortress-mp036.json](./160393-tiger-tank-59-i-black-hill-fortress-mp036.json) |
 | Tiger Tank 59 I: Black Hill Fortress MP041 | 160389 | [160389-tiger-tank-59-i-black-hill-fortress-mp041.json](./160389-tiger-tank-59-i-black-hill-fortress-mp041.json) |
 | Tiger Tank 59 I: Black Hill Fortress MP043 | 160361 | [160361-tiger-tank-59-i-black-hill-fortress-mp043.json](./160361-tiger-tank-59-i-black-hill-fortress-mp043.json) |
 | Tiger Tank 59 I: Black Hill Fortress MP045 | 160358 | [160358-tiger-tank-59-i-black-hill-fortress-mp045.json](./160358-tiger-tank-59-i-black-hill-fortress-mp045.json) |
+| Tiger Tank 59 I: Black Hill Fortress MP047 | 161066 | [161066-tiger-tank-59-i-black-hill-fortress-mp047.json](./161066-tiger-tank-59-i-black-hill-fortress-mp047.json) |
+| Tiger Tank 59 I: Black Hill Fortress MP052 | 161065 | [161065-tiger-tank-59-i-black-hill-fortress-mp052.json](./161065-tiger-tank-59-i-black-hill-fortress-mp052.json) |
 | Tiger Tank 59 I: Black Hill Fortress MP056 | 161069 | [161069-tiger-tank-59-i-black-hill-fortress-mp056.json](./161069-tiger-tank-59-i-black-hill-fortress-mp056.json) |
 | Tiger Tank 59 I: Black Hill Fortress MP057 | 160394 | [160394-tiger-tank-59-i-black-hill-fortress-mp057.json](./160394-tiger-tank-59-i-black-hill-fortress-mp057.json) |
+| Tiger Tank 59 I: Black Hill Fortress MP062 | 161067 | [161067-tiger-tank-59-i-black-hill-fortress-mp062.json](./161067-tiger-tank-59-i-black-hill-fortress-mp062.json) |
 | Tiger Tank 59 I: Black Hill Fortress MP067 | 160391 | [160391-tiger-tank-59-i-black-hill-fortress-mp067.json](./160391-tiger-tank-59-i-black-hill-fortress-mp067.json) |
 | Tiger Tank 59 I: Black Hill Fortress MP074 | 160366 | [160366-tiger-tank-59-i-black-hill-fortress-mp074.json](./160366-tiger-tank-59-i-black-hill-fortress-mp074.json) |
 | Tiger Tank 59 I: Black Hill Fortress MP089 | 160335 | [160335-tiger-tank-59-i-black-hill-fortress-mp089.json](./160335-tiger-tank-59-i-black-hill-fortress-mp089.json) |
+| Tiger Tank 59 I: Black Hill Fortress MP091 | 161064 | [161064-tiger-tank-59-i-black-hill-fortress-mp091.json](./161064-tiger-tank-59-i-black-hill-fortress-mp091.json) |
 | Tiger Tank 59 I: Break the Fog MP001 | 160808 | [160808-tiger-tank-59-i-break-the-fog-mp001.json](./160808-tiger-tank-59-i-break-the-fog-mp001.json) |
 | Tiger Tank 59 I: Break the Fog MP002 | 160326 | [160326-tiger-tank-59-i-break-the-fog-mp002.json](./160326-tiger-tank-59-i-break-the-fog-mp002.json) |
 | Tiger Tank 59 I: Break the Fog MP003 | 160798 | [160798-tiger-tank-59-i-break-the-fog-mp003.json](./160798-tiger-tank-59-i-break-the-fog-mp003.json) |
@@ -17064,21 +17070,32 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiger Tank 59 I: Mission Pack 030 | 161143 | [161143-tiger-tank-59-i-mission-pack-030.json](./161143-tiger-tank-59-i-mission-pack-030.json) |
 | Tiger Tank 59 I: Mission Pack 032 | 161103 | [161103-tiger-tank-59-i-mission-pack-032.json](./161103-tiger-tank-59-i-mission-pack-032.json) |
 | Tiger Tank 59 I: Mission Pack 033 | 160309 | [160309-tiger-tank-59-i-mission-pack-033.json](./160309-tiger-tank-59-i-mission-pack-033.json) |
+| Tiger Tank 59 I: Mission Pack 034 | 161134 | [161134-tiger-tank-59-i-mission-pack-034.json](./161134-tiger-tank-59-i-mission-pack-034.json) |
+| Tiger Tank 59 I: Mission Pack 035 | 161135 | [161135-tiger-tank-59-i-mission-pack-035.json](./161135-tiger-tank-59-i-mission-pack-035.json) |
 | Tiger Tank 59 I: Mission Pack 037 | 161115 | [161115-tiger-tank-59-i-mission-pack-037.json](./161115-tiger-tank-59-i-mission-pack-037.json) |
 | Tiger Tank 59 I: Mission Pack 038 | 161117 | [161117-tiger-tank-59-i-mission-pack-038.json](./161117-tiger-tank-59-i-mission-pack-038.json) |
+| Tiger Tank 59 I: Mission Pack 040 | 161119 | [161119-tiger-tank-59-i-mission-pack-040.json](./161119-tiger-tank-59-i-mission-pack-040.json) |
+| Tiger Tank 59 I: Mission Pack 041 | 161122 | [161122-tiger-tank-59-i-mission-pack-041.json](./161122-tiger-tank-59-i-mission-pack-041.json) |
 | Tiger Tank 59 I: Mission Pack 042 | 161111 | [161111-tiger-tank-59-i-mission-pack-042.json](./161111-tiger-tank-59-i-mission-pack-042.json) |
 | Tiger Tank 59 I: Mission Pack 043 | 161146 | [161146-tiger-tank-59-i-mission-pack-043.json](./161146-tiger-tank-59-i-mission-pack-043.json) |
+| Tiger Tank 59 I: Mission Pack 044 | 161136 | [161136-tiger-tank-59-i-mission-pack-044.json](./161136-tiger-tank-59-i-mission-pack-044.json) |
 | Tiger Tank 59 I: Mission Pack 045 | 161113 | [161113-tiger-tank-59-i-mission-pack-045.json](./161113-tiger-tank-59-i-mission-pack-045.json) |
+| Tiger Tank 59 I: Mission Pack 046 | 161121 | [161121-tiger-tank-59-i-mission-pack-046.json](./161121-tiger-tank-59-i-mission-pack-046.json) |
 | Tiger Tank 59 I: Mission Pack 047 | 161110 | [161110-tiger-tank-59-i-mission-pack-047.json](./161110-tiger-tank-59-i-mission-pack-047.json) |
 | Tiger Tank 59 I: Mission Pack 048 | 160311 | [160311-tiger-tank-59-i-mission-pack-048.json](./160311-tiger-tank-59-i-mission-pack-048.json) |
 | Tiger Tank 59 I: Mission Pack 049 | 161101 | [161101-tiger-tank-59-i-mission-pack-049.json](./161101-tiger-tank-59-i-mission-pack-049.json) |
 | Tiger Tank 59 I: Mission Pack 050 | 161105 | [161105-tiger-tank-59-i-mission-pack-050.json](./161105-tiger-tank-59-i-mission-pack-050.json) |
+| Tiger Tank 59 I: Mission Pack 051 | 161127 | [161127-tiger-tank-59-i-mission-pack-051.json](./161127-tiger-tank-59-i-mission-pack-051.json) |
+| Tiger Tank 59 I: Mission Pack 053 | 161126 | [161126-tiger-tank-59-i-mission-pack-053.json](./161126-tiger-tank-59-i-mission-pack-053.json) |
+| Tiger Tank 59 I: Mission Pack 054 | 161123 | [161123-tiger-tank-59-i-mission-pack-054.json](./161123-tiger-tank-59-i-mission-pack-054.json) |
 | Tiger Tank 59 I: Mission Pack 055 | 161142 | [161142-tiger-tank-59-i-mission-pack-055.json](./161142-tiger-tank-59-i-mission-pack-055.json) |
 | Tiger Tank 59 I: Mission Pack 056 | 161139 | [161139-tiger-tank-59-i-mission-pack-056.json](./161139-tiger-tank-59-i-mission-pack-056.json) |
 | Tiger Tank 59 I: Mission Pack 057 | 161109 | [161109-tiger-tank-59-i-mission-pack-057.json](./161109-tiger-tank-59-i-mission-pack-057.json) |
+| Tiger Tank 59 I: Mission Pack 058 | 161120 | [161120-tiger-tank-59-i-mission-pack-058.json](./161120-tiger-tank-59-i-mission-pack-058.json) |
 | Tiger Tank 59 I: Mission Pack 059 | 161145 | [161145-tiger-tank-59-i-mission-pack-059.json](./161145-tiger-tank-59-i-mission-pack-059.json) |
 | Tiger Tank 59 I: Mission Pack 062 | 160320 | [160320-tiger-tank-59-i-mission-pack-062.json](./160320-tiger-tank-59-i-mission-pack-062.json) |
 | Tiger Tank 59 I: Mission Pack 063 | 160308 | [160308-tiger-tank-59-i-mission-pack-063.json](./160308-tiger-tank-59-i-mission-pack-063.json) |
+| Tiger Tank 59 I: Mission Pack 064 | 161133 | [161133-tiger-tank-59-i-mission-pack-064.json](./161133-tiger-tank-59-i-mission-pack-064.json) |
 | Tiger Tank 59 I: Mission Pack 065 | 161108 | [161108-tiger-tank-59-i-mission-pack-065.json](./161108-tiger-tank-59-i-mission-pack-065.json) |
 | Tiger Tank 59 I: Mission Pack 066 | 161144 | [161144-tiger-tank-59-i-mission-pack-066.json](./161144-tiger-tank-59-i-mission-pack-066.json) |
 | Tiger Tank 59 I: Mission Pack 068 | 161116 | [161116-tiger-tank-59-i-mission-pack-068.json](./161116-tiger-tank-59-i-mission-pack-068.json) |
@@ -17086,19 +17103,25 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiger Tank 59 I: Mission Pack 071 | 161102 | [161102-tiger-tank-59-i-mission-pack-071.json](./161102-tiger-tank-59-i-mission-pack-071.json) |
 | Tiger Tank 59 I: Mission Pack 073 | 161138 | [161138-tiger-tank-59-i-mission-pack-073.json](./161138-tiger-tank-59-i-mission-pack-073.json) |
 | Tiger Tank 59 I: Mission Pack 074 | 161137 | [161137-tiger-tank-59-i-mission-pack-074.json](./161137-tiger-tank-59-i-mission-pack-074.json) |
+| Tiger Tank 59 I: Mission Pack 075 | 161130 | [161130-tiger-tank-59-i-mission-pack-075.json](./161130-tiger-tank-59-i-mission-pack-075.json) |
 | Tiger Tank 59 I: Mission Pack 076 | 161097 | [161097-tiger-tank-59-i-mission-pack-076.json](./161097-tiger-tank-59-i-mission-pack-076.json) |
 | Tiger Tank 59 I: Mission Pack 077 | 161107 | [161107-tiger-tank-59-i-mission-pack-077.json](./161107-tiger-tank-59-i-mission-pack-077.json) |
+| Tiger Tank 59 I: Mission Pack 078 | 161124 | [161124-tiger-tank-59-i-mission-pack-078.json](./161124-tiger-tank-59-i-mission-pack-078.json) |
 | Tiger Tank 59 I: Mission Pack 079 | 160373 | [160373-tiger-tank-59-i-mission-pack-079.json](./160373-tiger-tank-59-i-mission-pack-079.json) |
 | Tiger Tank 59 I: Mission Pack 080 | 161147 | [161147-tiger-tank-59-i-mission-pack-080.json](./161147-tiger-tank-59-i-mission-pack-080.json) |
 | Tiger Tank 59 I: Mission Pack 081 | 160348 | [160348-tiger-tank-59-i-mission-pack-081.json](./160348-tiger-tank-59-i-mission-pack-081.json) |
 | Tiger Tank 59 I: Mission Pack 082 | 160383 | [160383-tiger-tank-59-i-mission-pack-082.json](./160383-tiger-tank-59-i-mission-pack-082.json) |
+| Tiger Tank 59 I: Mission Pack 083 | 161132 | [161132-tiger-tank-59-i-mission-pack-083.json](./161132-tiger-tank-59-i-mission-pack-083.json) |
 | Tiger Tank 59 I: Mission Pack 084 | 161118 | [161118-tiger-tank-59-i-mission-pack-084.json](./161118-tiger-tank-59-i-mission-pack-084.json) |
 | Tiger Tank 59 I: Mission Pack 086 | 160327 | [160327-tiger-tank-59-i-mission-pack-086.json](./160327-tiger-tank-59-i-mission-pack-086.json) |
 | Tiger Tank 59 I: Mission Pack 087 | 161141 | [161141-tiger-tank-59-i-mission-pack-087.json](./161141-tiger-tank-59-i-mission-pack-087.json) |
+| Tiger Tank 59 I: Mission Pack 088 | 161131 | [161131-tiger-tank-59-i-mission-pack-088.json](./161131-tiger-tank-59-i-mission-pack-088.json) |
+| Tiger Tank 59 I: Mission Pack 090 | 161125 | [161125-tiger-tank-59-i-mission-pack-090.json](./161125-tiger-tank-59-i-mission-pack-090.json) |
 | Tiger Tank 59 I: Mission Pack 091 | 161099 | [161099-tiger-tank-59-i-mission-pack-091.json](./161099-tiger-tank-59-i-mission-pack-091.json) |
 | Tiger Tank 59 I: Mission Pack 092 | 160399 | [160399-tiger-tank-59-i-mission-pack-092.json](./160399-tiger-tank-59-i-mission-pack-092.json) |
 | Tiger Tank 59 I: Mission Pack 093 | 161104 | [161104-tiger-tank-59-i-mission-pack-093.json](./161104-tiger-tank-59-i-mission-pack-093.json) |
 | Tiger Tank 59 I: Mission Pack 094 | 161100 | [161100-tiger-tank-59-i-mission-pack-094.json](./161100-tiger-tank-59-i-mission-pack-094.json) |
+| Tiger Tank 59 I: Mission Pack 095 | 161128 | [161128-tiger-tank-59-i-mission-pack-095.json](./161128-tiger-tank-59-i-mission-pack-095.json) |
 | Tiger Tank 59 I: Mission Pack 096 | 160400 | [160400-tiger-tank-59-i-mission-pack-096.json](./160400-tiger-tank-59-i-mission-pack-096.json) |
 | Tiger Tank 59 I: Mission Pack 098 | 160376 | [160376-tiger-tank-59-i-mission-pack-098.json](./160376-tiger-tank-59-i-mission-pack-098.json) |
 | Tiger Tank 59 I: Mission Pack 099 | 161098 | [161098-tiger-tank-59-i-mission-pack-099.json](./161098-tiger-tank-59-i-mission-pack-099.json) |
