@@ -7664,6 +7664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Discounty: People or Profit? | 404848 | [404848-discounty-people-or-profit.json](./404848-discounty-people-or-profit.json) |
 | Discouraged Workers | 35209 | [35209-discouraged-workers.json](./35209-discouraged-workers.json) |
 | Discouraged Workers: Teen Version | 33792 | [33792-discouraged-workers-teen-version.json](./33792-discouraged-workers-teen-version.json) |
+| Discover girl | 158395 | [158395-discover-girl.json](./158395-discover-girl.json) |
 | Discover My Body | 153577 | [153577-discover-my-body.json](./153577-discover-my-body.json) |
 | Discover the Ocean | 229220 | [229220-discover-the-ocean.json](./229220-discover-the-ocean.json) |
 | Discover The World | 375321 | [375321-discover-the-world.json](./375321-discover-the-world.json) |
