@@ -3682,6 +3682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Security Guard Sex: Episode 2 | 301649 | [301649-security-guard-sex-episode-2.json](./301649-security-guard-sex-episode-2.json) |
 | Security Guard Sex: Episode 3 | 312000 | [312000-security-guard-sex-episode-3.json](./312000-security-guard-sex-episode-3.json) |
 | Security Guard Sex: Episode 6 | 371064 | [371064-security-guard-sex-episode-6.json](./371064-security-guard-sex-episode-6.json) |
+| Security Guy vs. AI: The Dawn of AI | 157374 | [157374-security-guy-vs-ai-the-dawn-of-ai.json](./157374-security-guy-vs-ai-the-dawn-of-ai.json) |
 | Security Simulator: Nightshift | 312434 | [312434-security-simulator-nightshift.json](./312434-security-simulator-nightshift.json) |
 | Security: The Horrible Nights | 298319 | [298319-security-the-horrible-nights.json](./298319-security-the-horrible-nights.json) |
 | Sedap! A Culinary Adventure | 273429 | [273429-sedap-a-culinary-adventure.json](./273429-sedap-a-culinary-adventure.json) |
@@ -8193,6 +8194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silly Billy | 295397 | [295397-silly-billy.json](./295397-silly-billy.json) |
 | Silly Frog | 261664 | [261664-silly-frog.json](./261664-silly-frog.json) |
 | Silly Little Guys | 300270 | [300270-silly-little-guys.json](./300270-silly-little-guys.json) |
+| Silly Polly Beast | 157379 | [157379-silly-polly-beast.json](./157379-silly-polly-beast.json) |
 | Silly Royale: Devil Amongst Us | 242233 | [242233-silly-royale-devil-amongst-us.json](./242233-silly-royale-devil-amongst-us.json) |
 | Silly Sausage Buffet | 411842 | [411842-silly-sausage-buffet.json](./411842-silly-sausage-buffet.json) |
 | Silly Sausage in Meat Land | 74297 | [74297-silly-sausage-in-meat-land.json](./74297-silly-sausage-in-meat-land.json) |
@@ -9876,6 +9878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skynet Simulator | 177429 | [177429-skynet-simulator.json](./177429-skynet-simulator.json) |
 | SkyOfSteel | 177017 | [177017-skyofsteel.json](./177017-skyofsteel.json) |
 | Skypop Scramble | 323750 | [323750-skypop-scramble.json](./323750-skypop-scramble.json) |
+| Skyratz | 157366 | [157366-skyratz.json](./157366-skyratz.json) |
 | Skyreach | 33023 | [33023-skyreach.json](./33023-skyreach.json) |
 | SkyRider | 191582 | [191582-skyrider.json](./191582-skyrider.json) |
 | SkyRider ADV | 90696 | [90696-skyrider-adv.json](./90696-skyrider-adv.json) |
@@ -27014,6 +27017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Time | 156611 | [156611-sweet-time.json](./156611-sweet-time.json) |
 | Sweet Time | 280236 | [280236-sweet-time.json](./280236-sweet-time.json) |
 | Sweet Tooth | 155575 | [155575-sweet-tooth.json](./155575-sweet-tooth.json) |
+| Sweet Tooth 2 | 157449 | [157449-sweet-tooth-2.json](./157449-sweet-tooth-2.json) |
 | Sweet Tooth to Go | 208349 | [208349-sweet-tooth-to-go.json](./208349-sweet-tooth-to-go.json) |
 | Sweet Tooth Town | 355003 | [355003-sweet-tooth-town.json](./355003-sweet-tooth-town.json) |
 | Sweet Town | 273815 | [273815-sweet-town.json](./273815-sweet-town.json) |
