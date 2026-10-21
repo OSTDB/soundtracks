@@ -3866,7 +3866,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Celeste Fusion Collab | 358282 | [358282-celeste-fusion-collab.json](./358282-celeste-fusion-collab.json) |
 | Celeste Strawberry Jam | 235102 | [235102-celeste-strawberry-jam.json](./235102-celeste-strawberry-jam.json) |
 | Celeste Witch | 76427 | [76427-celeste-witch.json](./76427-celeste-witch.json) |
-| Celeste: Farewell | 122556 | [122556-celeste-farewell.json](./122556-celeste-farewell.json) |
 | Celeste: Into The Jungle | 353715 | [353715-celeste-into-the-jungle.json](./353715-celeste-into-the-jungle.json) |
 | Celeste: The D-Sides Pack | 281897 | [281897-celeste-the-d-sides-pack.json](./281897-celeste-the-d-sides-pack.json) |
 | Celestia | 183432 | [183432-celestia.json](./183432-celestia.json) |
@@ -7463,6 +7462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Classic Jigsaw Puzzles: Animals | 162202 | [162202-classic-jigsaw-puzzles-animals.json](./162202-classic-jigsaw-puzzles-animals.json) |
 | Classic Jigsaw Puzzles: Beautifully Illustrated | 162198 | [162198-classic-jigsaw-puzzles-beautifully-illustrated.json](./162198-classic-jigsaw-puzzles-beautifully-illustrated.json) |
 | Classic Jigsaw Puzzles: Forest Jigsaw Puzzles | 162203 | [162203-classic-jigsaw-puzzles-forest-jigsaw-puzzles.json](./162203-classic-jigsaw-puzzles-forest-jigsaw-puzzles.json) |
+| Classic Jigsaw Puzzles: Gardens | 162227 | [162227-classic-jigsaw-puzzles-gardens.json](./162227-classic-jigsaw-puzzles-gardens.json) |
 | Classic Jigsaw Puzzles: House | 162200 | [162200-classic-jigsaw-puzzles-house.json](./162200-classic-jigsaw-puzzles-house.json) |
 | Classic Jigsaw Puzzles: Puppy | 162201 | [162201-classic-jigsaw-puzzles-puppy.json](./162201-classic-jigsaw-puzzles-puppy.json) |
 | Classic Journey | 219109 | [219109-classic-journey.json](./219109-classic-journey.json) |
@@ -10749,7 +10749,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Convergence | 225517 | [225517-convergence.json](./225517-convergence.json) |
 | Convergence | 380086 | [380086-convergence.json](./380086-convergence.json) |
 | Convergence Compulsion | 137345 | [137345-convergence-compulsion.json](./137345-convergence-compulsion.json) |
-| Convergence: A League of Legends Story | 127354 | [127354-convergence-a-league-of-legends-story.json](./127354-convergence-a-league-of-legends-story.json) |
 | Convergence: A League of Legends Story - Deluxe Edition | 249360 | [249360-convergence-a-league-of-legends-story-deluxe-edition.json](./249360-convergence-a-league-of-legends-story-deluxe-edition.json) |
 | Converger | 184248 | [184248-converger.json](./184248-converger.json) |
 | Conversation With a Rock | 297099 | [297099-conversation-with-a-rock.json](./297099-conversation-with-a-rock.json) |
