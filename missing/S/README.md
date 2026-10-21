@@ -11937,6 +11937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snowpack Park | 85383 | [85383-snowpack-park.json](./85383-snowpack-park.json) |
 | Snowpult | 286231 | [286231-snowpult.json](./286231-snowpult.json) |
 | SnowRacer: Ramps | 246963 | [246963-snowracer-ramps.json](./246963-snowracer-ramps.json) |
+| Snowrifters | 163244 | [163244-snowrifters.json](./163244-snowrifters.json) |
 | SnowRocket | 189943 | [189943-snowrocket.json](./189943-snowrocket.json) |
 | SnowRunner | 107215 | [107215-snowrunner.json](./107215-snowrunner.json) |
 | SnowRunner + Expeditions: A MudRunner Game Bundle | 398397 | [398397-snowrunner-expeditions-a-mudrunner-game-bundle.json](./398397-snowrunner-expeditions-a-mudrunner-game-bundle.json) |
@@ -13390,6 +13391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Islands | 368089 | [368089-sonic-islands.json](./368089-sonic-islands.json) |
 | Sonic Jam | 133930 | [133930-sonic-jam.json](./133930-sonic-jam.json) |
 | Sonic Jam | 72129 | [72129-sonic-jam.json](./72129-sonic-jam.json) |
+| Sonic Jam 6 | 163154 | [163154-sonic-jam-6.json](./163154-sonic-jam-6.json) |
 | Sonic Jam Game.com Remake | 316486 | [316486-sonic-jam-game-com-remake.json](./316486-sonic-jam-game-com-remake.json) |
 | Sonic Journey | 317609 | [317609-sonic-journey.json](./317609-sonic-journey.json) |
 | Sonic Jump | 133940 | [133940-sonic-jump.json](./133940-sonic-jump.json) |
@@ -14656,6 +14658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Alien Hangar | 360731 | [360731-space-alien-hangar.json](./360731-space-alien-hangar.json) |
 | Space Aliens Invaders | 147641 | [147641-space-aliens-invaders.json](./147641-space-aliens-invaders.json) |
 | Space Alpha | 161617 | [161617-space-alpha.json](./161617-space-alpha.json) |
+| Space Amoeba: StarShip Constructor | 163184 | [163184-space-amoeba-starship-constructor.json](./163184-space-amoeba-starship-constructor.json) |
 | Space and Lazers | 324320 | [324320-space-and-lazers.json](./324320-space-and-lazers.json) |
 | Space Angel Boin Boin! | 97832 | [97832-space-angel-boin-boin.json](./97832-space-angel-boin-boin.json) |
 | Space Arcade | 237374 | [237374-space-arcade.json](./237374-space-arcade.json) |
@@ -22574,6 +22577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudoku Casual Puzzle | 219280 | [219280-sudoku-casual-puzzle.json](./219280-sudoku-casual-puzzle.json) |
 | Sudoku Cats | 405615 | [405615-sudoku-cats.json](./405615-sudoku-cats.json) |
 | Sudoku Challenge! | 50698 | [50698-sudoku-challenge.json](./50698-sudoku-challenge.json) |
+| Sudoku Classic | 163175 | [163175-sudoku-classic.json](./163175-sudoku-classic.json) |
 | Sudoku Classic | 277713 | [277713-sudoku-classic.json](./277713-sudoku-classic.json) |
 | Sudoku Classic 2 | 328479 | [328479-sudoku-classic-2.json](./328479-sudoku-classic-2.json) |
 | Sudoku Companion | 103543 | [103543-sudoku-companion.json](./103543-sudoku-companion.json) |
@@ -24406,6 +24410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Bros. + | 307664 | [307664-super-mario-bros.json](./307664-super-mario-bros.json) |
 | Super Mario Bros. + | 316417 | [316417-super-mario-bros.json](./316417-super-mario-bros.json) |
 | Super Mario Bros. 0 | 345639 | [345639-super-mario-bros-0.json](./345639-super-mario-bros-0.json) |
+| Super Mario Bros. 2 | 163155 | [163155-super-mario-bros-2.json](./163155-super-mario-bros-2.json) |
 | Super Mario Bros. 2 | 222098 | [222098-super-mario-bros-2.json](./222098-super-mario-bros-2.json) |
 | Super Mario Bros. 2 Christmas Edition | 210839 | [210839-super-mario-bros-2-christmas-edition.json](./210839-super-mario-bros-2-christmas-edition.json) |
 | Super Mario Bros. 2 Deluxe | 321172 | [321172-super-mario-bros-2-deluxe.json](./321172-super-mario-bros-2-deluxe.json) |
