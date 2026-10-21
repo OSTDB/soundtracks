@@ -5120,7 +5120,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Fight | 61158 | [61158-shadow-fight.json](./61158-shadow-fight.json) |
 | Shadow Fight 2 | 39244 | [39244-shadow-fight-2.json](./39244-shadow-fight-2.json) |
 | Shadow Fight 2: Special Edition | 68463 | [68463-shadow-fight-2-special-edition.json](./68463-shadow-fight-2-special-edition.json) |
-| Shadow Fight 3 | 68391 | [68391-shadow-fight-3.json](./68391-shadow-fight-3.json) |
 | Shadow Fight: Arena | 219604 | [219604-shadow-fight-arena.json](./219604-shadow-fight-arena.json) |
 | Shadow Fighter | 5524 | [5524-shadow-fighter.json](./5524-shadow-fighter.json) |
 | Shadow Fighter Legend | 105859 | [105859-shadow-fighter-legend.json](./105859-shadow-fighter-legend.json) |
