@@ -25772,10 +25772,20 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Superfetch Dog | 263656 | [263656-superfetch-dog.json](./263656-superfetch-dog.json) |
 | Superfidos | 242448 | [242448-superfidos.json](./242448-superfidos.json) |
 | Superfight | 34372 | [34372-superfight.json](./34372-superfight.json) |
+| Superfight: The '90s Deck | 161214 | [161214-superfight-the-90s-deck.json](./161214-superfight-the-90s-deck.json) |
+| Superfight: The Anime Deck | 161207 | [161207-superfight-the-anime-deck.json](./161207-superfight-the-anime-deck.json) |
+| Superfight: The Anime Deck 2 | 161206 | [161206-superfight-the-anime-deck-2.json](./161206-superfight-the-anime-deck-2.json) |
 | Superfight: The Digital Deck | 161215 | [161215-superfight-the-digital-deck.json](./161215-superfight-the-digital-deck.json) |
+| Superfight: The Dystopia Deck | 161209 | [161209-superfight-the-dystopia-deck.json](./161209-superfight-the-dystopia-deck.json) |
+| Superfight: The Election Deck | 161213 | [161213-superfight-the-election-deck.json](./161213-superfight-the-election-deck.json) |
+| Superfight: The Expansion One Deck | 161208 | [161208-superfight-the-expansion-one-deck.json](./161208-superfight-the-expansion-one-deck.json) |
 | Superfight: The History Deck | 161216 | [161216-superfight-the-history-deck.json](./161216-superfight-the-history-deck.json) |
 | Superfight: The Horror Deck | 161217 | [161217-superfight-the-horror-deck.json](./161217-superfight-the-horror-deck.json) |
 | Superfight: The Mindcrack Deck | 161218 | [161218-superfight-the-mindcrack-deck.json](./161218-superfight-the-mindcrack-deck.json) |
+| Superfight: The Orange Deck | 161210 | [161210-superfight-the-orange-deck.json](./161210-superfight-the-orange-deck.json) |
+| Superfight: The Orange Deck 2 | 161212 | [161212-superfight-the-orange-deck-2.json](./161212-superfight-the-orange-deck-2.json) |
+| Superfight: The Red Deck | 161205 | [161205-superfight-the-red-deck.json](./161205-superfight-the-red-deck.json) |
+| Superfight: The Sword & Sorcery Deck | 161211 | [161211-superfight-the-sword-and-sorcery-deck.json](./161211-superfight-the-sword-and-sorcery-deck.json) |
 | Superfighter | 325272 | [325272-superfighter.json](./325272-superfighter.json) |
 | Superfighters Deluxe | 10039 | [10039-superfighters-deluxe.json](./10039-superfighters-deluxe.json) |
 | Superfighters of Survival | 338292 | [338292-superfighters-of-survival.json](./338292-superfighters-of-survival.json) |
