@@ -22770,30 +22770,49 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trainz Simulator: Murchison 2 | 11022 | [11022-trainz-simulator-murchison-2.json](./11022-trainz-simulator-murchison-2.json) |
 | Trainz: A New Era - Aerotrain | 156169 | [156169-trainz-a-new-era-aerotrain.json](./156169-trainz-a-new-era-aerotrain.json) |
 | Trainz: A New Era - Amtrak F40PH 2 Pack | 162676 | [162676-trainz-a-new-era-amtrak-f40ph-2-pack.json](./162676-trainz-a-new-era-amtrak-f40ph-2-pack.json) |
+| Trainz: A New Era - Amtrak P42DC: Phase III | 162642 | [162642-trainz-a-new-era-amtrak-p42dc-phase-iii.json](./162642-trainz-a-new-era-amtrak-p42dc-phase-iii.json) |
 | Trainz: A New Era - Amtrak P42DC: Phase V | 162669 | [162669-trainz-a-new-era-amtrak-p42dc-phase-v.json](./162669-trainz-a-new-era-amtrak-p42dc-phase-v.json) |
 | Trainz: A New Era - Andrushivka: Vinnitsa UZ | 162630 | [162630-trainz-a-new-era-andrushivka-vinnitsa-uz.json](./162630-trainz-a-new-era-andrushivka-vinnitsa-uz.json) |
 | Trainz: A New Era - ATSF GP38-2 Santa FE 2 Pack | 162677 | [162677-trainz-a-new-era-atsf-gp38-2-santa-fe-2-pack.json](./162677-trainz-a-new-era-atsf-gp38-2-santa-fe-2-pack.json) |
 | Trainz: A New Era - Avmz Intercity 71 | 162632 | [162632-trainz-a-new-era-avmz-intercity-71.json](./162632-trainz-a-new-era-avmz-intercity-71.json) |
+| Trainz: A New Era - Blue Comet | 162659 | [162659-trainz-a-new-era-blue-comet.json](./162659-trainz-a-new-era-blue-comet.json) |
 | Trainz: A New Era - BNSF GE Dash-9 44CW Warbonnet | 162686 | [162686-trainz-a-new-era-bnsf-ge-dash-9-44cw-warbonnet.json](./162686-trainz-a-new-era-bnsf-ge-dash-9-44cw-warbonnet.json) |
 | Trainz: A New Era - C&O 2-6-6-6 H8: New River Mining Coal Run | 162626 | [162626-trainz-a-new-era-c-and-o-2-6-6-6-h8-new-river-mining-coal-run.json](./162626-trainz-a-new-era-c-and-o-2-6-6-6-h8-new-river-mining-coal-run.json) |
 | Trainz: A New Era - Canadian Rocky Mountains: Rogers Pass | 162672 | [162672-trainz-a-new-era-canadian-rocky-mountains-rogers-pass.json](./162672-trainz-a-new-era-canadian-rocky-mountains-rogers-pass.json) |
+| Trainz: A New Era - Chicago & North Western GE C40-8 | 162662 | [162662-trainz-a-new-era-chicago-and-north-western-ge-c40-8.json](./162662-trainz-a-new-era-chicago-and-north-western-ge-c40-8.json) |
 | Trainz: A New Era - Chicago North Western GE Dash 9 44CW | 162680 | [162680-trainz-a-new-era-chicago-north-western-ge-dash-9-44cw.json](./162680-trainz-a-new-era-chicago-north-western-ge-dash-9-44cw.json) |
 | Trainz: A New Era - Chinese Electric SS4 Locomotive Pack | 162683 | [162683-trainz-a-new-era-chinese-electric-ss4-locomotive-pack.json](./162683-trainz-a-new-era-chinese-electric-ss4-locomotive-pack.json) |
+| Trainz: A New Era - CO17-1171 Russian Loco and Tender | 162663 | [162663-trainz-a-new-era-co17-1171-russian-loco-and-tender.json](./162663-trainz-a-new-era-co17-1171-russian-loco-and-tender.json) |
 | Trainz: A New Era - CO17-3173 Russian Loco and Tender | 162682 | [162682-trainz-a-new-era-co17-3173-russian-loco-and-tender.json](./162682-trainz-a-new-era-co17-3173-russian-loco-and-tender.json) |
 | Trainz: A New Era - CO17-3373 Russian Loco and Tender | 162689 | [162689-trainz-a-new-era-co17-3373-russian-loco-and-tender.json](./162689-trainz-a-new-era-co17-3373-russian-loco-and-tender.json) |
+| Trainz: A New Era - CO17-4171 Russian Loco and Tender | 162646 | [162646-trainz-a-new-era-co17-4171-russian-loco-and-tender.json](./162646-trainz-a-new-era-co17-4171-russian-loco-and-tender.json) |
 | Trainz: A New Era - CO17-4173 Russian Loco and Tender | 162670 | [162670-trainz-a-new-era-co17-4173-russian-loco-and-tender.json](./162670-trainz-a-new-era-co17-4173-russian-loco-and-tender.json) |
 | Trainz: A New Era - CO17-4174 Russian Loco and Tender | 162675 | [162675-trainz-a-new-era-co17-4174-russian-loco-and-tender.json](./162675-trainz-a-new-era-co17-4174-russian-loco-and-tender.json) |
 | Trainz: A New Era - CO17-4373 Russian Loco and Tender | 162690 | [162690-trainz-a-new-era-co17-4373-russian-loco-and-tender.json](./162690-trainz-a-new-era-co17-4373-russian-loco-and-tender.json) |
+| Trainz: A New Era - CSX EMD SD60 | 162664 | [162664-trainz-a-new-era-csx-emd-sd60.json](./162664-trainz-a-new-era-csx-emd-sd60.json) |
+| Trainz: A New Era - DIC-Reefer (Mechanical Refrigerator) | 162641 | [162641-trainz-a-new-era-dic-reefer-mechanical-refrigerator.json](./162641-trainz-a-new-era-dic-reefer-mechanical-refrigerator.json) |
+| Trainz: A New Era - Duchess | 162639 | [162639-trainz-a-new-era-duchess.json](./162639-trainz-a-new-era-duchess.json) |
+| Trainz: A New Era - EMD GP50: Burlington Northern Phase I | 162657 | [162657-trainz-a-new-era-emd-gp50-burlington-northern-phase-i.json](./162657-trainz-a-new-era-emd-gp50-burlington-northern-phase-i.json) |
 | Trainz: A New Era - EMD GP50: FRISCO | 162671 | [162671-trainz-a-new-era-emd-gp50-frisco.json](./162671-trainz-a-new-era-emd-gp50-frisco.json) |
+| Trainz: A New Era - EMD SD40-2: Maersk | 162643 | [162643-trainz-a-new-era-emd-sd40-2-maersk.json](./162643-trainz-a-new-era-emd-sd40-2-maersk.json) |
 | Trainz: A New Era - EMD SD40-2: NS | 162685 | [162685-trainz-a-new-era-emd-sd40-2-ns.json](./162685-trainz-a-new-era-emd-sd40-2-ns.json) |
+| Trainz: A New Era - GT GP9 2 Pack | 162656 | [162656-trainz-a-new-era-gt-gp9-2-pack.json](./162656-trainz-a-new-era-gt-gp9-2-pack.json) |
 | Trainz: A New Era - Hccrrs Car Transporter | 162684 | [162684-trainz-a-new-era-hccrrs-car-transporter.json](./162684-trainz-a-new-era-hccrrs-car-transporter.json) |
 | Trainz: A New Era - Indiana Railroad EMD SD9043MAC | 162629 | [162629-trainz-a-new-era-indiana-railroad-emd-sd9043mac.json](./162629-trainz-a-new-era-indiana-railroad-emd-sd9043mac.json) |
 | Trainz: A New Era - ITC GP7 Phase I & II (2 Pack) | 162667 | [162667-trainz-a-new-era-itc-gp7-phase-i-and-ii-2-pack.json](./162667-trainz-a-new-era-itc-gp7-phase-i-and-ii-2-pack.json) |
 | Trainz: A New Era - Laadgs Transporter | 162678 | [162678-trainz-a-new-era-laadgs-transporter.json](./162678-trainz-a-new-era-laadgs-transporter.json) |
 | Trainz: A New Era - Laaers Car Transporter | 162668 | [162668-trainz-a-new-era-laaers-car-transporter.json](./162668-trainz-a-new-era-laaers-car-transporter.json) |
 | Trainz: A New Era - Newcastle Shunter | 162631 | [162631-trainz-a-new-era-newcastle-shunter.json](./162631-trainz-a-new-era-newcastle-shunter.json) |
+| Trainz: A New Era - Nickel Plate High Speed Freight Set | 162665 | [162665-trainz-a-new-era-nickel-plate-high-speed-freight-set.json](./162665-trainz-a-new-era-nickel-plate-high-speed-freight-set.json) |
+| Trainz: A New Era - NS SD60E First Responders | 162651 | [162651-trainz-a-new-era-ns-sd60e-first-responders.json](./162651-trainz-a-new-era-ns-sd60e-first-responders.json) |
 | Trainz: A New Era - NS SD60E: 6920 Veterans Unit | 162673 | [162673-trainz-a-new-era-ns-sd60e-6920-veterans-unit.json](./162673-trainz-a-new-era-ns-sd60e-6920-veterans-unit.json) |
 | Trainz: A New Era - NS SD60E: 6963 GoRail | 162688 | [162688-trainz-a-new-era-ns-sd60e-6963-gorail.json](./162688-trainz-a-new-era-ns-sd60e-6963-gorail.json) |
+| Trainz: A New Era - NS SD60E: Horsehead | 162640 | [162640-trainz-a-new-era-ns-sd60e-horsehead.json](./162640-trainz-a-new-era-ns-sd60e-horsehead.json) |
+| Trainz: A New Era - Orient Express Trainset | 162660 | [162660-trainz-a-new-era-orient-express-trainset.json](./162660-trainz-a-new-era-orient-express-trainset.json) |
+| Trainz: A New Era - PRR GP9 (2 Pack) | 162644 | [162644-trainz-a-new-era-prr-gp9-2-pack.json](./162644-trainz-a-new-era-prr-gp9-2-pack.json) |
+| Trainz: A New Era - PRR X23 Boxcar | 162652 | [162652-trainz-a-new-era-prr-x23-boxcar.json](./162652-trainz-a-new-era-prr-x23-boxcar.json) |
+| Trainz: A New Era - QJ Steam Locomotive | 162666 | [162666-trainz-a-new-era-qj-steam-locomotive.json](./162666-trainz-a-new-era-qj-steam-locomotive.json) |
+| Trainz: A New Era - Rheingold 1962 | 162655 | [162655-trainz-a-new-era-rheingold-1962.json](./162655-trainz-a-new-era-rheingold-1962.json) |
 | Trainz: A New Era - Route: Appen | 153307 | [153307-trainz-a-new-era-route-appen.json](./153307-trainz-a-new-era-route-appen.json) |
 | Trainz: A New Era - Route: Balezino Mosti | 153303 | [153303-trainz-a-new-era-route-balezino-mosti.json](./153303-trainz-a-new-era-route-balezino-mosti.json) |
 | Trainz: A New Era - Route: Bea-Dawe Model Railway | 153302 | [153302-trainz-a-new-era-route-bea-dawe-model-railway.json](./153302-trainz-a-new-era-route-bea-dawe-model-railway.json) |
@@ -22818,11 +22837,18 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trainz: A New Era - RZD-UZ-RIC Wagons | 162692 | [162692-trainz-a-new-era-rzd-uz-ric-wagons.json](./162692-trainz-a-new-era-rzd-uz-ric-wagons.json) |
 | Trainz: A New Era - Shmmns Coil Transporter | 162674 | [162674-trainz-a-new-era-shmmns-coil-transporter.json](./162674-trainz-a-new-era-shmmns-coil-transporter.json) |
 | Trainz: A New Era - Shortline Railroad | 162627 | [162627-trainz-a-new-era-shortline-railroad.json](./162627-trainz-a-new-era-shortline-railroad.json) |
+| Trainz: A New Era - SNCF BB 75000 | 162645 | [162645-trainz-a-new-era-sncf-bb-75000.json](./162645-trainz-a-new-era-sncf-bb-75000.json) |
 | Trainz: A New Era - SNCF: AGC Languedoc | 162691 | [162691-trainz-a-new-era-sncf-agc-languedoc.json](./162691-trainz-a-new-era-sncf-agc-languedoc.json) |
+| Trainz: A New Era - TE3-1072 | 162661 | [162661-trainz-a-new-era-te3-1072.json](./162661-trainz-a-new-era-te3-1072.json) |
+| Trainz: A New Era - TE3-2068 | 162658 | [162658-trainz-a-new-era-te3-2068.json](./162658-trainz-a-new-era-te3-2068.json) |
+| Trainz: A New Era - The Flying Scotsman 1920s | 162653 | [162653-trainz-a-new-era-the-flying-scotsman-1920s.json](./162653-trainz-a-new-era-the-flying-scotsman-1920s.json) |
+| Trainz: A New Era - Union Pacific GE C40-8 | 162649 | [162649-trainz-a-new-era-union-pacific-ge-c40-8.json](./162649-trainz-a-new-era-union-pacific-ge-c40-8.json) |
 | Trainz: A New Era - US ATC Class S 160 Steam | 162679 | [162679-trainz-a-new-era-us-atc-class-s-160-steam.json](./162679-trainz-a-new-era-us-atc-class-s-160-steam.json) |
 | Trainz: A New Era - Victorian Railways D1 Class (Type 4: Newport) Black | 162681 | [162681-trainz-a-new-era-victorian-railways-d1-class-type-4-newport-black.json](./162681-trainz-a-new-era-victorian-railways-d1-class-type-4-newport-black.json) |
 | Trainz: A New Era - Victorian Railways Type 2 DD Class Pack | 162687 | [162687-trainz-a-new-era-victorian-railways-type-2-dd-class-pack.json](./162687-trainz-a-new-era-victorian-railways-type-2-dd-class-pack.json) |
+| Trainz: A New Era - Victorian Railways Type 4 DD Class Pack: Canadian Red | 162647 | [162647-trainz-a-new-era-victorian-railways-type-4-dd-class-pack-canadian-red.json](./162647-trainz-a-new-era-victorian-railways-type-4-dd-class-pack-canadian-red.json) |
 | Trainz: A New Era - Willamette & Pacific SD7 #1501 | 162628 | [162628-trainz-a-new-era-willamette-and-pacific-sd7-1501.json](./162628-trainz-a-new-era-willamette-and-pacific-sd7-1501.json) |
+| Trainz: A New Era - ZecRail 2017 Christmas Train | 162648 | [162648-trainz-a-new-era-zecrail-2017-christmas-train.json](./162648-trainz-a-new-era-zecrail-2017-christmas-train.json) |
 | Trainz: Classic Cabon City | 27895 | [27895-trainz-classic-cabon-city.json](./27895-trainz-classic-cabon-city.json) |
 | Trainz: Driver Edition | 206748 | [206748-trainz-driver-edition.json](./206748-trainz-driver-edition.json) |
 | Trainz: Settle & Carlisle | 62419 | [62419-trainz-settle-and-carlisle.json](./62419-trainz-settle-and-carlisle.json) |
