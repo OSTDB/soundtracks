@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-21T19:42:24.412Z",
-  "total_soundtracks": 2377,
+  "generated_at": "2026-10-21T19:52:09.499Z",
+  "total_soundtracks": 2384,
   "games": [
     {
       "igdb_id": 7522,
@@ -4555,6 +4555,20 @@
         {
           "album_name": "Clustertruck Original Soundtrack",
           "spotify_url": "https://open.spotify.com/album/5tOGAXSoOLE8Ya0Yirhpba",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 232416,
+      "game_name": "Cobalt Core",
+      "game_url": "https://ostdb.net/games/cobalt-core",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273e25a887d3aaef151650fff8a",
+      "albums": [
+        {
+          "album_name": "Cobalt Core (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1yfulgi574uQUTXKdJgt0f",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -12667,6 +12681,20 @@
       ]
     },
     {
+      "igdb_id": 270053,
+      "game_name": "Intravenous 2",
+      "game_url": "https://ostdb.net/games/intravenous-2",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273f07cfe79a6c121f8e59d0ee2",
+      "albums": [
+        {
+          "album_name": "Intravenous 2 Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/7anpduQQHgPhjenmr3VPok",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 348216,
       "game_name": "Invincible Vs.",
       "game_url": "https://ostdb.net/games/invincible-vs",
@@ -20075,6 +20103,20 @@
       ]
     },
     {
+      "igdb_id": 152321,
+      "game_name": "River City Girls 2",
+      "game_url": "https://ostdb.net/games/river-city-girls-2",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273e54995cc1ca8934185ddac11",
+      "albums": [
+        {
+          "album_name": "River City Girls 2 (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1rSAfQokSv8To8XozEC3Zn",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 233676,
       "game_name": "Road 96: Mile 0",
       "game_url": "https://ostdb.net/games/road-96-mile-0",
@@ -20307,6 +20349,20 @@
         {
           "album_name": "Runaway 3 - A Twist of Fate (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/0zh21RwHVQrnlMdgR4djQ2",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 25658,
+      "game_name": "Runner3",
+      "game_url": "https://ostdb.net/games/runner3",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2738071d23dd6c90f472aa0d569",
+      "albums": [
+        {
+          "album_name": "Runner3 (Official Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0gVplqNRAywBQcO50EECrk",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -21810,6 +21866,20 @@
           "album_name": "SOMA (Original Video Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/19nBFW5TDocB8rQTBHO9Qc",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 102890,
+      "game_name": "Someday You'll Return",
+      "game_url": "https://ostdb.net/games/someday-youll-return",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2739dd6395d0bddce644d2e3688",
+      "albums": [
+        {
+          "album_name": "Someday You'll Return (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1ogg5GjUBQwKpbHGEi2vfR",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
@@ -26641,6 +26711,20 @@
       ]
     },
     {
+      "igdb_id": 6462,
+      "game_name": "Touch My Katamari",
+      "game_url": "https://ostdb.net/games/touch-my-katamari",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273ae35af16fd3806ce3c65ed1b",
+      "albums": [
+        {
+          "album_name": "Touch my Katamari (Original Soundtrack) -Katamori Damacy & Kamatari Damacy & Katamari Aventure Damacy",
+          "spotify_url": "https://open.spotify.com/album/5FfSztqzUPXwa3X6YytUDA",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 347657,
       "game_name": "Towa and the Guardians of the Sacred Tree",
       "game_url": "https://ostdb.net/games/towa-and-the-guardians-of-the-sacred-tree",
@@ -28205,6 +28289,20 @@
         {
           "album_name": "WaveTale (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/6dXPJXdeFVqWyAmgrqTTGv",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 228532,
+      "game_name": "Wayfinder",
+      "game_url": "https://ostdb.net/games/wayfinder",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273b3f00abf30b2cadbe9b8f803",
+      "albums": [
+        {
+          "album_name": "Wayfinder: Volume 1 (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0wtW5VDD9bVRvzzQs21K4g",
           "apple_music_url": "",
           "album_link_url": ""
         }
