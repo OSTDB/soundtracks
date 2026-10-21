@@ -1745,6 +1745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Village Defenders | 348906 | [348906-village-defenders.json](./348906-village-defenders.json) |
 | Village Defense | 181034 | [181034-village-defense.json](./181034-village-defense.json) |
 | Village Escape | 342481 | [342481-village-escape.json](./342481-village-escape.json) |
+| Village Fest: Digging | 161699 | [161699-village-fest-digging.json](./161699-village-fest-digging.json) |
 | Village Feud | 118795 | [118795-village-feud.json](./118795-village-feud.json) |
 | Village Heros | 235992 | [235992-village-heros.json](./235992-village-heros.json) |
 | Village Life: Love & Babies | 38885 | [38885-village-life-love-and-babies.json](./38885-village-life-love-and-babies.json) |
@@ -1942,7 +1943,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virgo Versus the Zodiac: Collector's Edition | 323575 | [323575-virgo-versus-the-zodiac-collectors-edition.json](./323575-virgo-versus-the-zodiac-collectors-edition.json) |
 | Viriax | 92481 | [92481-viriax.json](./92481-viriax.json) |
 | Viricide | 242779 | [242779-viricide.json](./242779-viricide.json) |
-| Viridi | 35099 | [35099-viridi.json](./35099-viridi.json) |
 | Viridian Room | 247597 | [247597-viridian-room.json](./247597-viridian-room.json) |
 | Viridian Sage | 256990 | [256990-viridian-sage.json](./256990-viridian-sage.json) |
 | Virion | 338568 | [338568-virion.json](./338568-virion.json) |
@@ -2338,6 +2338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vitas Castle of Horror | 186018 | [186018-vitas-castle-of-horror.json](./186018-vitas-castle-of-horror.json) |
 | Vitatio | 44088 | [44088-vitatio.json](./44088-vitatio.json) |
 | Vitatio 2 | 29603 | [29603-vitatio-2.json](./29603-vitatio-2.json) |
+| Vitatio 3 | 161630 | [161630-vitatio-3.json](./161630-vitatio-3.json) |
 | Vitavania | 390673 | [390673-vitavania.json](./390673-vitavania.json) |
 | Viticulture | 200132 | [200132-viticulture.json](./200132-viticulture.json) |
 | Viticulture: Essential Edition - Tuscany Expansion | 236970 | [236970-viticulture-essential-edition-tuscany-expansion.json](./236970-viticulture-essential-edition-tuscany-expansion.json) |
@@ -2536,6 +2537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Void Guard | 277276 | [277276-void-guard.json](./277276-void-guard.json) |
 | Void Hazard | 372628 | [372628-void-hazard.json](./372628-void-hazard.json) |
 | Void Heart | 189985 | [189985-void-heart.json](./189985-void-heart.json) |
+| Void Hearts | 161698 | [161698-void-hearts.json](./161698-void-hearts.json) |
 | Void Inc. | 183895 | [183895-void-inc.json](./183895-void-inc.json) |
 | Void Inside | 282023 | [282023-void-inside.json](./282023-void-inside.json) |
 | Void Inspector | 415891 | [415891-void-inspector.json](./415891-void-inspector.json) |
