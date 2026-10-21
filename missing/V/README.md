@@ -740,6 +740,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vartra Abyss | 323226 | [323226-vartra-abyss.json](./323226-vartra-abyss.json) |
 | Varvarion | 151812 | [151812-varvarion.json](./151812-varvarion.json) |
 | Varyznex | 329154 | [329154-varyznex.json](./329154-varyznex.json) |
+| Vascolet: La Fórmula Secreta | 159006 | [159006-vascolet-la-formula-secreta.json](./159006-vascolet-la-formula-secreta.json) |
+| Vascolet: La Máquina del Tiempo | 159005 | [159005-vascolet-la-maquina-del-tiempo.json](./159005-vascolet-la-maquina-del-tiempo.json) |
 | Vasilis | 113489 | [113489-vasilis.json](./113489-vasilis.json) |
 | Vasilisa | 378525 | [378525-vasilisa.json](./378525-vasilisa.json) |
 | Vasilisa the Beautiful | 360566 | [360566-vasilisa-the-beautiful.json](./360566-vasilisa-the-beautiful.json) |
@@ -1010,6 +1012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Velocity Vector | 158085 | [158085-velocity-vector.json](./158085-velocity-vector.json) |
 | Velocity Ventures | 269198 | [269198-velocity-ventures.json](./269198-velocity-ventures.json) |
 | Velocity Vortex | 251693 | [251693-velocity-vortex.json](./251693-velocity-vortex.json) |
+| Velocity VR Battle Royal | 160189 | [160189-velocity-vr-battle-royal.json](./160189-velocity-vr-battle-royal.json) |
 | Velocity Wings | 362722 | [362722-velocity-wings.json](./362722-velocity-wings.json) |
 | Velocity: The Race Begins | 408903 | [408903-velocity-the-race-begins.json](./408903-velocity-the-race-begins.json) |
 | Velocity.io | 256350 | [256350-velocity-io.json](./256350-velocity-io.json) |
