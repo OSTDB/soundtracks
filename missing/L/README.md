@@ -4667,7 +4667,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Odyssey | 253473 | [253473-little-odyssey.json](./253473-little-odyssey.json) |
 | Little Old One and the Witch | 376548 | [376548-little-old-one-and-the-witch.json](./376548-little-old-one-and-the-witch.json) |
 | Little One | 399702 | [399702-little-one.json](./399702-little-one.json) |
-| Little Orpheus | 55068 | [55068-little-orpheus.json](./55068-little-orpheus.json) |
 | Little Otter's Fishing Life | 386944 | [386944-little-otters-fishing-life.json](./386944-little-otters-fishing-life.json) |
 | Little Panda: Dinosaur Care | 234441 | [234441-little-panda-dinosaur-care.json](./234441-little-panda-dinosaur-care.json) |
 | Little Panda's Camping Trip | 105963 | [105963-little-pandas-camping-trip.json](./105963-little-pandas-camping-trip.json) |
@@ -7807,7 +7806,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lychnis | 125923 | [125923-lychnis.json](./125923-lychnis.json) |
 | Lycoris;Lastwords | 319732 | [319732-lycoris-lastwords.json](./319732-lycoris-lastwords.json) |
 | Lycoris: Underworld | 413834 | [413834-lycoris-underworld.json](./413834-lycoris-underworld.json) |
-| Lydia | 36468 | [36468-lydia.json](./36468-lydia.json) |
 | Lydia: Sweet Dreams | 33409 | [33409-lydia-sweet-dreams.json](./33409-lydia-sweet-dreams.json) |
 | Lydia's Labyrinth | 318537 | [318537-lydias-labyrinth.json](./318537-lydias-labyrinth.json) |
 | Lyle in Cube Sector MD | 312307 | [312307-lyle-in-cube-sector-md.json](./312307-lyle-in-cube-sector-md.json) |
