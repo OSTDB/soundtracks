@@ -642,6 +642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1001 Jigsaw: Earth Chronicles 7 | 195443 | [195443-1001-jigsaw-earth-chronicles-7.json](./195443-1001-jigsaw-earth-chronicles-7.json) |
 | 1001 Jigsaw: Earth Chronicles 8 | 199582 | [199582-1001-jigsaw-earth-chronicles-8.json](./199582-1001-jigsaw-earth-chronicles-8.json) |
 | 1001 Jigsaw: Home Sweet Home - Back from Vacation | 188933 | [188933-1001-jigsaw-home-sweet-home-back-from-vacation.json](./188933-1001-jigsaw-home-sweet-home-back-from-vacation.json) |
+| 1001 Jigsaw: Home Sweet Home - Wedding Ceremony | 157963 | [157963-1001-jigsaw-home-sweet-home-wedding-ceremony.json](./157963-1001-jigsaw-home-sweet-home-wedding-ceremony.json) |
 | 1001 Jigsaw: Home Sweet Home 2 | 202729 | [202729-1001-jigsaw-home-sweet-home-2.json](./202729-1001-jigsaw-home-sweet-home-2.json) |
 | 1001 Jigsaw: Home Sweet Home 3 | 211386 | [211386-1001-jigsaw-home-sweet-home-3.json](./211386-1001-jigsaw-home-sweet-home-3.json) |
 | 1001 Jigsaw: Ice Age | 268041 | [268041-1001-jigsaw-ice-age.json](./268041-1001-jigsaw-ice-age.json) |
@@ -821,6 +822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 12 Labours of Hercules XVII: Feathered Fury | 318605 | [318605-12-labours-of-hercules-xvii-feathered-fury.json](./318605-12-labours-of-hercules-xvii-feathered-fury.json) |
 | 12 Labours of Hercules XVIII: Ghost Sheep | 355039 | [355039-12-labours-of-hercules-xviii-ghost-sheep.json](./355039-12-labours-of-hercules-xviii-ghost-sheep.json) |
 | 12 Labours of Hercules XVIII: Ghost Sheep - Collector's Edition | 356770 | [356770-12-labours-of-hercules-xviii-ghost-sheep-collectors-edition.json](./356770-12-labours-of-hercules-xviii-ghost-sheep-collectors-edition.json) |
+| 12 Locks and Keys | 160118 | [160118-12-locks-and-keys.json](./160118-12-locks-and-keys.json) |
 | 12 Locks: Plasticine Room | 308527 | [308527-12-locks-plasticine-room.json](./308527-12-locks-plasticine-room.json) |
 | 12 MiniBattles | 139356 | [139356-12-minibattles.json](./139356-12-minibattles.json) |
 | 12 Orbits | 90578 | [90578-12-orbits.json](./90578-12-orbits.json) |
