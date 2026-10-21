@@ -2011,6 +2011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunt | 228950 | [228950-haunt.json](./228950-haunt.json) |
 | Haunt | 383487 | [383487-haunt.json](./383487-haunt.json) |
 | Haunt | 384773 | [384773-haunt.json](./384773-haunt.json) |
+| Haunt Chaser | 158995 | [158995-haunt-chaser.json](./158995-haunt-chaser.json) |
 | Haunt Monster | 237040 | [237040-haunt-monster.json](./237040-haunt-monster.json) |
 | Haunt N Seek: Silent Siren | 296457 | [296457-haunt-n-seek-silent-siren.json](./296457-haunt-n-seek-silent-siren.json) |
 | Haunt or Heist | 291514 | [291514-haunt-or-heist.json](./291514-haunt-or-heist.json) |
@@ -2524,6 +2525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heart Of Nadia | 288236 | [288236-heart-of-nadia.json](./288236-heart-of-nadia.json) |
 | Heart of Saphilamun | 230220 | [230220-heart-of-saphilamun.json](./230220-heart-of-saphilamun.json) |
 | Heart of Sengoku | 250237 | [250237-heart-of-sengoku.json](./250237-heart-of-sengoku.json) |
+| Heart of Siam | 158916 | [158916-heart-of-siam.json](./158916-heart-of-siam.json) |
 | Heart of Stone | 361003 | [361003-heart-of-stone.json](./361003-heart-of-stone.json) |
 | Heart of Summer | 158569 | [158569-heart-of-summer.json](./158569-heart-of-summer.json) |
 | Heart Of The Abyss | 337055 | [337055-heart-of-the-abyss.json](./337055-heart-of-the-abyss.json) |
@@ -4431,6 +4433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero Bootcamp | 380573 | [380573-hero-bootcamp.json](./380573-hero-bootcamp.json) |
 | Hero Boy | 31721 | [31721-hero-boy.json](./31721-hero-boy.json) |
 | Hero Bump | 184101 | [184101-hero-bump.json](./184101-hero-bump.json) |
+| Hero by Chance | 160110 | [160110-hero-by-chance.json](./160110-hero-by-chance.json) |
 | Hero Cantare | 130642 | [130642-hero-cantare.json](./130642-hero-cantare.json) |
 | Hero Chest | 197161 | [197161-hero-chest.json](./197161-hero-chest.json) |
 | Hero Conquest | 83215 | [83215-hero-conquest.json](./83215-hero-conquest.json) |
@@ -5705,6 +5708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hide and Seek Scramble! | 203738 | [203738-hide-and-seek-scramble.json](./203738-hide-and-seek-scramble.json) |
 | Hide and Seek: Story of Dorothy | 151578 | [151578-hide-and-seek-story-of-dorothy.json](./151578-hide-and-seek-story-of-dorothy.json) |
 | Hide and Seek: Toilet Monster | 273949 | [273949-hide-and-seek-toilet-monster.json](./273949-hide-and-seek-toilet-monster.json) |
+| Hide and Shoot | 160202 | [160202-hide-and-shoot.json](./160202-hide-and-shoot.json) |
 | Hide and Sink | 410928 | [410928-hide-and-sink.json](./410928-hide-and-sink.json) |
 | Hide for Cat: All for the Best | 269993 | [269993-hide-for-cat-all-for-the-best.json](./269993-hide-for-cat-all-for-the-best.json) |
 | Hide In Dummy | 335233 | [335233-hide-in-dummy.json](./335233-hide-in-dummy.json) |
@@ -7095,6 +7099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Home Run King | 3947 | [3947-home-run-king.json](./3947-home-run-king.json) |
 | Home Run Stars | 20236 | [20236-home-run-stars.json](./20236-home-run-stars.json) |
 | Home Runtaro | 257009 | [257009-home-runtaro.json](./257009-home-runtaro.json) |
+| Home Safe and Silent | 160122 | [160122-home-safe-and-silent.json](./160122-home-safe-and-silent.json) |
 | Home Safety Hotline | 244303 | [244303-home-safety-hotline.json](./244303-home-safety-hotline.json) |
 | Home Safety Hotline: Seasonal Worker | 317001 | [317001-home-safety-hotline-seasonal-worker.json](./317001-home-safety-hotline-seasonal-worker.json) |
 | Home Sheep Home: Farmageddon Party Edition | 123322 | [123322-home-sheep-home-farmageddon-party-edition.json](./123322-home-sheep-home-farmageddon-party-edition.json) |
@@ -9032,6 +9037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Humans Are Pattern Finders | 179023 | [179023-humans-are-pattern-finders.json](./179023-humans-are-pattern-finders.json) |
 | Humans Are Useless | 211626 | [211626-humans-are-useless.json](./211626-humans-are-useless.json) |
 | Humans Took My Neighbors! | 149697 | [149697-humans-took-my-neighbors.json](./149697-humans-took-my-neighbors.json) |
+| Humans V Zombies | 160192 | [160192-humans-v-zombies.json](./160192-humans-v-zombies.json) |
 | Humans Vs Ghouls | 153372 | [153372-humans-vs-ghouls.json](./153372-humans-vs-ghouls.json) |
 | Humans vs. Monsters | 303561 | [303561-humans-vs-monsters.json](./303561-humans-vs-monsters.json) |
 | Humans vs. Tigers | 195413 | [195413-humans-vs-tigers.json](./195413-humans-vs-tigers.json) |
