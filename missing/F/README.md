@@ -6782,7 +6782,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FNF: V.S. Tabi Ex Boyfriend | 314513 | [314513-fnf-v-s-tabi-ex-boyfriend.json](./314513-fnf-v-s-tabi-ex-boyfriend.json) |
 | Foam | 138267 | [138267-foam.json](./138267-foam.json) |
 | Fobia ...Worse Than Fear. | 242593 | [242593-fobia-worse-than-fear.json](./242593-fobia-worse-than-fear.json) |
-| Fobia: St. Dinfna Hotel | 133059 | [133059-fobia-st-dinfna-hotel.json](./133059-fobia-st-dinfna-hotel.json) |
 | Fobos | 79830 | [79830-fobos.json](./79830-fobos.json) |
 | Foc/us | 223677 | [223677-foc-us.json](./223677-foc-us.json) |
 | Focalpoint | 221653 | [221653-focalpoint.json](./221653-focalpoint.json) |
