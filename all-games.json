@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-21T20:21:35.208Z",
-  "total_soundtracks": 2414,
+  "generated_at": "2026-10-21T20:25:58.883Z",
+  "total_soundtracks": 2416,
   "games": [
     {
       "igdb_id": 7522,
@@ -3108,6 +3108,20 @@
           "album_name": "《黑神话：悟空》游戏音乐精选集（Black Myth: Wukong Soundtrack Selection）",
           "spotify_url": "https://open.spotify.com/album/0tdZ4l3vrAbRFcCT7B4kmY",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 8335,
+      "game_name": "Blackguards 2",
+      "game_url": "https://ostdb.net/games/blackguards-2",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273eee66a117dd4fe3c9e76e0f3",
+      "albums": [
+        {
+          "album_name": "Blackguards 2 (Official Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/65us8rURKeXxYeRqxUDeRV",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
@@ -26916,6 +26930,20 @@
           "album_name": "Tom Clancy's the Division 2 (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/3R5k4e56SgjFyi2H9XrAJk",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 129847,
+      "game_name": "Tom Clancy's The Division 2: Warlords of New York",
+      "game_url": "https://ostdb.net/games/tom-clancys-the-division-2-warlords-of-new-york",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27314cf6f438416214a5ba0ed85",
+      "albums": [
+        {
+          "album_name": "Tom Clancy's The Division 2: Warlords of New York (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6KhTgo7GNOXumlWO3BklH9",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
