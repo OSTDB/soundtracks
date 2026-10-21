@@ -1456,6 +1456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parable Academy | 346708 | [346708-parable-academy.json](./346708-parable-academy.json) |
 | Parables of the Set Apart: The Pursuit of Wisdom | 387530 | [387530-parables-of-the-set-apart-the-pursuit-of-wisdom.json](./387530-parables-of-the-set-apart-the-pursuit-of-wisdom.json) |
 | Parabolus | 82317 | [82317-parabolus.json](./82317-parabolus.json) |
+| Parabolus Two | 157442 | [157442-parabolus-two.json](./157442-parabolus-two.json) |
 | Parabox | 240113 | [240113-parabox.json](./240113-parabox.json) |
 | Paracelsus no Maken | 112517 | [112517-paracelsus-no-maken.json](./112517-paracelsus-no-maken.json) |
 | Parachute | 231725 | [231725-parachute.json](./231725-parachute.json) |
@@ -9497,6 +9498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pongspin | 253390 | [253390-pongspin.json](./253390-pongspin.json) |
 | Pongu | 24565 | [24565-pongu.json](./24565-pongu.json) |
 | Ponjan Wii | 142692 | [142692-ponjan-wii.json](./142692-ponjan-wii.json) |
+| Ponk's Jam | 157437 | [157437-ponks-jam.json](./157437-ponks-jam.json) |
 | Ponk's Jam: The Tulip Thief | 258902 | [258902-ponks-jam-the-tulip-thief.json](./258902-ponks-jam-the-tulip-thief.json) |
 | Ponkle | 111218 | [111218-ponkle.json](./111218-ponkle.json) |
 | Ponolf | 302792 | [302792-ponolf.json](./302792-ponolf.json) |
