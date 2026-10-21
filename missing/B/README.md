@@ -3804,6 +3804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bean Dreams | 60630 | [60630-bean-dreams.json](./60630-bean-dreams.json) |
 | Bean Meets Paw | 402225 | [402225-bean-meets-paw.json](./402225-bean-meets-paw.json) |
 | Bean Sidhe | 391287 | [391287-bean-sidhe.json](./391287-bean-sidhe.json) |
+| Bean Stalker | 163153 | [163153-bean-stalker.json](./163153-bean-stalker.json) |
 | Bean Story | 203904 | [203904-bean-story.json](./203904-bean-story.json) |
 | Bean There Won That | 311497 | [311497-bean-there-won-that.json](./311497-bean-there-won-that.json) |
 | Bean Wizard Eviscerates the Gonklins | 406252 | [406252-bean-wizard-eviscerates-the-gonklins.json](./406252-bean-wizard-eviscerates-the-gonklins.json) |
@@ -8645,6 +8646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloodrust | 274151 | [274151-bloodrust.json](./274151-bloodrust.json) |
 | Bloodsaint 2 | 386918 | [386918-bloodsaint-2.json](./386918-bloodsaint-2.json) |
 | Bloodsaw | 214401 | [214401-bloodsaw.json](./214401-bloodsaw.json) |
+| Bloodscent | 163247 | [163247-bloodscent.json](./163247-bloodscent.json) |
 | Bloodscript//End | 409653 | [409653-bloodscript-end.json](./409653-bloodscript-end.json) |
 | Bloodseed: The Last Helsing | 361286 | [361286-bloodseed-the-last-helsing.json](./361286-bloodseed-the-last-helsing.json) |
 | Bloodseeker | 184777 | [184777-bloodseeker.json](./184777-bloodseeker.json) |
