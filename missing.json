@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-21T19:54:27.131Z",
-  "total_missing": 243546,
+  "generated_at": "2026-10-21T20:01:25.844Z",
+  "total_missing": 243536,
   "games": [
     {
       "igdb_id": 191680,
@@ -27030,6 +27030,11 @@
       "igdb_id": 8130,
       "game_name": "Adventures in the Magic Kingdom",
       "file": "missing/A/8130-adventures-in-the-magic-kingdom.json"
+    },
+    {
+      "igdb_id": 342233,
+      "game_name": "Adventures In Time & Space",
+      "file": "missing/A/342233-adventures-in-time-and-space.json"
     },
     {
       "igdb_id": 134695,
@@ -86630,11 +86635,6 @@
       "igdb_id": 243757,
       "game_name": "Bad Piggies Build",
       "file": "missing/B/243757-bad-piggies-build.json"
-    },
-    {
-      "igdb_id": 221410,
-      "game_name": "Bad Piggies HD",
-      "file": "missing/B/221410-bad-piggies-hd.json"
     },
     {
       "igdb_id": 243756,
@@ -197882,11 +197882,6 @@
       "file": "missing/C/107139-colibrium-zen-colour-matching.json"
     },
     {
-      "igdb_id": 26821,
-      "game_name": "Colin McRae Rally",
-      "file": "missing/C/26821-colin-mcrae-rally.json"
-    },
-    {
       "igdb_id": 235185,
       "game_name": "Colin McRae Rally 2.0",
       "file": "missing/C/235185-colin-mcrae-rally-2-0.json"
@@ -235880,11 +235875,6 @@
       "igdb_id": 211043,
       "game_name": "Dan the Inmortal",
       "file": "missing/D/211043-dan-the-inmortal.json"
-    },
-    {
-      "igdb_id": 38946,
-      "game_name": "Dan the Man",
-      "file": "missing/D/38946-dan-the-man.json"
     },
     {
       "igdb_id": 63879,
@@ -314537,11 +314527,6 @@
       "file": "missing/E/291879-elderwood-online.json"
     },
     {
-      "igdb_id": 116403,
-      "game_name": "Eldest Souls",
-      "file": "missing/E/116403-eldest-souls.json"
-    },
-    {
       "igdb_id": 17350,
       "game_name": "Eldevin",
       "file": "missing/E/17350-eldevin.json"
@@ -358000,11 +357985,6 @@
       "igdb_id": 360108,
       "game_name": "Final Fantasy IX: Alternate Fantasy",
       "file": "missing/F/360108-final-fantasy-ix-alternate-fantasy.json"
-    },
-    {
-      "igdb_id": 403,
-      "game_name": "Final Fantasy Legend II",
-      "file": "missing/F/403-final-fantasy-legend-ii.json"
     },
     {
       "igdb_id": 364843,
@@ -539892,11 +539872,6 @@
       "file": "missing/K/325666-kimi-ga-nozomu-muv-luv.json"
     },
     {
-      "igdb_id": 219820,
-      "game_name": "Kimi mo vtuber ni Naranai?",
-      "file": "missing/K/219820-kimi-mo-vtuber-ni-naranai.json"
-    },
-    {
       "igdb_id": 413833,
       "game_name": "Kimi ni Furenai Natsu",
       "file": "missing/K/413833-kimi-ni-furenai-natsu.json"
@@ -576947,11 +576922,6 @@
       "file": "missing/L/399702-little-one.json"
     },
     {
-      "igdb_id": 55068,
-      "game_name": "Little Orpheus",
-      "file": "missing/L/55068-little-orpheus.json"
-    },
-    {
       "igdb_id": 386944,
       "game_name": "Little Otter's Fishing Life",
       "file": "missing/L/386944-little-otters-fishing-life.json"
@@ -592655,11 +592625,6 @@
       "igdb_id": 413834,
       "game_name": "Lycoris: Underworld",
       "file": "missing/L/413834-lycoris-underworld.json"
-    },
-    {
-      "igdb_id": 36468,
-      "game_name": "Lydia",
-      "file": "missing/L/36468-lydia.json"
     },
     {
       "igdb_id": 33409,
@@ -636875,11 +636840,6 @@
       "igdb_id": 198819,
       "game_name": "Mighty Morphin Power Rangers: Alpha 5 Where Are You?",
       "file": "missing/M/198819-mighty-morphin-power-rangers-alpha-5-where-are-you.json"
-    },
-    {
-      "igdb_id": 305016,
-      "game_name": "Mighty Morphin Power Rangers: Rita's Rewind",
-      "file": "missing/M/305016-mighty-morphin-power-rangers-ritas-rewind.json"
     },
     {
       "igdb_id": 350800,
@@ -779697,11 +779657,6 @@
       "file": "missing/P/43802-popn-tanks.json"
     },
     {
-      "igdb_id": 51948,
-      "game_name": "Pop'n TwinBee",
-      "file": "missing/P/51948-popn-twinbee.json"
-    },
-    {
       "igdb_id": 42473,
       "game_name": "Pop'n Twinbee: Rainbow Bell Adventures",
       "file": "missing/P/42473-popn-twinbee-rainbow-bell-adventures.json"
@@ -794197,11 +794152,6 @@
       "file": "missing/P/35433-prometheus-the-fire-thief.json"
     },
     {
-      "igdb_id": 23214,
-      "game_name": "Prominence Poker",
-      "file": "missing/P/23214-prominence-poker.json"
-    },
-    {
       "igdb_id": 277498,
       "game_name": "Promise",
       "file": "missing/P/277498-promise.json"
@@ -798920,11 +798870,6 @@
       "igdb_id": 209750,
       "game_name": "Pure Pinball: American Pinball Reborn",
       "file": "missing/P/209750-pure-pinball-american-pinball-reborn.json"
-    },
-    {
-      "igdb_id": 8409,
-      "game_name": "Pure Pool",
-      "file": "missing/P/8409-pure-pool.json"
     },
     {
       "igdb_id": 347286,
@@ -1052892,6 +1052837,11 @@
       "file": "missing/T/47955-the-naked-brothers-band-the-video-game.json"
     },
     {
+      "igdb_id": 408022,
+      "game_name": "The Name I Wear",
+      "file": "missing/T/408022-the-name-i-wear.json"
+    },
+    {
       "igdb_id": 178458,
       "game_name": "The Nameless",
       "file": "missing/T/178458-the-nameless.json"
@@ -1151847,11 +1151797,6 @@
       "file": "missing/V/242779-viricide.json"
     },
     {
-      "igdb_id": 35099,
-      "game_name": "Viridi",
-      "file": "missing/V/35099-viridi.json"
-    },
-    {
       "igdb_id": 247597,
       "game_name": "Viridian Room",
       "file": "missing/V/247597-viridian-room.json"
@@ -1173925,6 +1173870,11 @@
       "igdb_id": 282222,
       "game_name": "Wheelborn",
       "file": "missing/W/282222-wheelborn.json"
+    },
+    {
+      "igdb_id": 406738,
+      "game_name": "Wheelchair for Two",
+      "file": "missing/W/406738-wheelchair-for-two.json"
     },
     {
       "igdb_id": 103157,
