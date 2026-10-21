@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-21T21:04:39.517Z",
-  "total_missing": 243585,
+  "generated_at": "2026-10-21T21:18:02.903Z",
+  "total_missing": 243635,
   "games": [
     {
       "igdb_id": 191680,
@@ -237432,6 +237432,11 @@
       "file": "missing/D/303096-dangerous-land.json"
     },
     {
+      "igdb_id": 161204,
+      "game_name": "Dangerous Lands 2",
+      "file": "missing/D/161204-dangerous-lands-2.json"
+    },
+    {
       "igdb_id": 82348,
       "game_name": "Dangerous Level",
       "file": "missing/D/82348-dangerous-level.json"
@@ -245047,9 +245052,74 @@
       "file": "missing/D/271169-dc-universe-online-episode-23-the-will-of-darkseid-and-brainiacs-bottle-ship.json"
     },
     {
+      "igdb_id": 161203,
+      "game_name": "DC Universe Online: Episode 27 - Amazon Fury Part III",
+      "file": "missing/D/161203-dc-universe-online-episode-27-amazon-fury-part-iii.json"
+    },
+    {
+      "igdb_id": 161193,
+      "game_name": "DC Universe Online: Episode 28 - Age of Justice",
+      "file": "missing/D/161193-dc-universe-online-episode-28-age-of-justice.json"
+    },
+    {
+      "igdb_id": 161194,
+      "game_name": "DC Universe Online: Episode 29 - Riddled With Crime",
+      "file": "missing/D/161194-dc-universe-online-episode-29-riddled-with-crime.json"
+    },
+    {
       "igdb_id": 271146,
       "game_name": "DC Universe Online: Episode 3 - The Battle for Earth",
       "file": "missing/D/271146-dc-universe-online-episode-3-the-battle-for-earth.json"
+    },
+    {
+      "igdb_id": 161192,
+      "game_name": "DC Universe Online: Episode 30 - Earth 3",
+      "file": "missing/D/161192-dc-universe-online-episode-30-earth-3.json"
+    },
+    {
+      "igdb_id": 161188,
+      "game_name": "DC Universe Online: Episode 31 - Deluge",
+      "file": "missing/D/161188-dc-universe-online-episode-31-deluge.json"
+    },
+    {
+      "igdb_id": 161191,
+      "game_name": "DC Universe Online: Episode 32 - Teen Titans: The Judas Contract",
+      "file": "missing/D/161191-dc-universe-online-episode-32-teen-titans-the-judas-contract.json"
+    },
+    {
+      "igdb_id": 161198,
+      "game_name": "DC Universe Online: Episode 33 - Atlantis",
+      "file": "missing/D/161198-dc-universe-online-episode-33-atlantis.json"
+    },
+    {
+      "igdb_id": 161199,
+      "game_name": "DC Universe Online: Episode 34 - Justice League Dark",
+      "file": "missing/D/161199-dc-universe-online-episode-34-justice-league-dark.json"
+    },
+    {
+      "igdb_id": 161202,
+      "game_name": "DC Universe Online: Episode 35 - Metal Part I",
+      "file": "missing/D/161202-dc-universe-online-episode-35-metal-part-i.json"
+    },
+    {
+      "igdb_id": 161195,
+      "game_name": "DC Universe Online: Episode 36 - Metal Part II",
+      "file": "missing/D/161195-dc-universe-online-episode-36-metal-part-ii.json"
+    },
+    {
+      "igdb_id": 161200,
+      "game_name": "DC Universe Online: Episode 37 - Birds of Prey",
+      "file": "missing/D/161200-dc-universe-online-episode-37-birds-of-prey.json"
+    },
+    {
+      "igdb_id": 161190,
+      "game_name": "DC Universe Online: Episode 38 - Wonderverse",
+      "file": "missing/D/161190-dc-universe-online-episode-38-wonderverse.json"
+    },
+    {
+      "igdb_id": 161201,
+      "game_name": "DC Universe Online: Episode 39 - Long Live the Legion",
+      "file": "missing/D/161201-dc-universe-online-episode-39-long-live-the-legion.json"
     },
     {
       "igdb_id": 271147,
@@ -245095,6 +245165,21 @@
       "igdb_id": 161187,
       "game_name": "DC Universe Online: Episode Pack I",
       "file": "missing/D/161187-dc-universe-online-episode-pack-i.json"
+    },
+    {
+      "igdb_id": 161196,
+      "game_name": "DC Universe Online: Episode Pack II",
+      "file": "missing/D/161196-dc-universe-online-episode-pack-ii.json"
+    },
+    {
+      "igdb_id": 161197,
+      "game_name": "DC Universe Online: Episode Pack III",
+      "file": "missing/D/161197-dc-universe-online-episode-pack-iii.json"
+    },
+    {
+      "igdb_id": 161189,
+      "game_name": "DC Universe Online: Episode Pack IV",
+      "file": "missing/D/161189-dc-universe-online-episode-pack-iv.json"
     },
     {
       "igdb_id": 43496,
@@ -988047,9 +988132,39 @@
       "file": "missing/S/34372-superfight.json"
     },
     {
+      "igdb_id": 161214,
+      "game_name": "Superfight: The '90s Deck",
+      "file": "missing/S/161214-superfight-the-90s-deck.json"
+    },
+    {
+      "igdb_id": 161207,
+      "game_name": "Superfight: The Anime Deck",
+      "file": "missing/S/161207-superfight-the-anime-deck.json"
+    },
+    {
+      "igdb_id": 161206,
+      "game_name": "Superfight: The Anime Deck 2",
+      "file": "missing/S/161206-superfight-the-anime-deck-2.json"
+    },
+    {
       "igdb_id": 161215,
       "game_name": "Superfight: The Digital Deck",
       "file": "missing/S/161215-superfight-the-digital-deck.json"
+    },
+    {
+      "igdb_id": 161209,
+      "game_name": "Superfight: The Dystopia Deck",
+      "file": "missing/S/161209-superfight-the-dystopia-deck.json"
+    },
+    {
+      "igdb_id": 161213,
+      "game_name": "Superfight: The Election Deck",
+      "file": "missing/S/161213-superfight-the-election-deck.json"
+    },
+    {
+      "igdb_id": 161208,
+      "game_name": "Superfight: The Expansion One Deck",
+      "file": "missing/S/161208-superfight-the-expansion-one-deck.json"
     },
     {
       "igdb_id": 161216,
@@ -988065,6 +988180,26 @@
       "igdb_id": 161218,
       "game_name": "Superfight: The Mindcrack Deck",
       "file": "missing/S/161218-superfight-the-mindcrack-deck.json"
+    },
+    {
+      "igdb_id": 161210,
+      "game_name": "Superfight: The Orange Deck",
+      "file": "missing/S/161210-superfight-the-orange-deck.json"
+    },
+    {
+      "igdb_id": 161212,
+      "game_name": "Superfight: The Orange Deck 2",
+      "file": "missing/S/161212-superfight-the-orange-deck-2.json"
+    },
+    {
+      "igdb_id": 161205,
+      "game_name": "Superfight: The Red Deck",
+      "file": "missing/S/161205-superfight-the-red-deck.json"
+    },
+    {
+      "igdb_id": 161211,
+      "game_name": "Superfight: The Sword & Sorcery Deck",
+      "file": "missing/S/161211-superfight-the-sword-and-sorcery-deck.json"
     },
     {
       "igdb_id": 325272,
@@ -1082972,6 +1083107,11 @@
       "file": "missing/T/160612-tiger-tank-59-i-battleship-mp049.json"
     },
     {
+      "igdb_id": 161129,
+      "game_name": "Tiger Tank 59 I: Battleship MP050",
+      "file": "missing/T/161129-tiger-tank-59-i-battleship-mp050.json"
+    },
+    {
       "igdb_id": 160585,
       "game_name": "Tiger Tank 59 I: Battleship MP053",
       "file": "missing/T/160585-tiger-tank-59-i-battleship-mp053.json"
@@ -1083122,6 +1083262,11 @@
       "file": "missing/T/160353-tiger-tank-59-i-black-hill-fortress-mp022.json"
     },
     {
+      "igdb_id": 161068,
+      "game_name": "Tiger Tank 59 I: Black Hill Fortress MP027",
+      "file": "missing/T/161068-tiger-tank-59-i-black-hill-fortress-mp027.json"
+    },
+    {
       "igdb_id": 160341,
       "game_name": "Tiger Tank 59 I: Black Hill Fortress MP033",
       "file": "missing/T/160341-tiger-tank-59-i-black-hill-fortress-mp033.json"
@@ -1083152,6 +1083297,16 @@
       "file": "missing/T/160358-tiger-tank-59-i-black-hill-fortress-mp045.json"
     },
     {
+      "igdb_id": 161066,
+      "game_name": "Tiger Tank 59 I: Black Hill Fortress MP047",
+      "file": "missing/T/161066-tiger-tank-59-i-black-hill-fortress-mp047.json"
+    },
+    {
+      "igdb_id": 161065,
+      "game_name": "Tiger Tank 59 I: Black Hill Fortress MP052",
+      "file": "missing/T/161065-tiger-tank-59-i-black-hill-fortress-mp052.json"
+    },
+    {
       "igdb_id": 161069,
       "game_name": "Tiger Tank 59 I: Black Hill Fortress MP056",
       "file": "missing/T/161069-tiger-tank-59-i-black-hill-fortress-mp056.json"
@@ -1083160,6 +1083315,11 @@
       "igdb_id": 160394,
       "game_name": "Tiger Tank 59 I: Black Hill Fortress MP057",
       "file": "missing/T/160394-tiger-tank-59-i-black-hill-fortress-mp057.json"
+    },
+    {
+      "igdb_id": 161067,
+      "game_name": "Tiger Tank 59 I: Black Hill Fortress MP062",
+      "file": "missing/T/161067-tiger-tank-59-i-black-hill-fortress-mp062.json"
     },
     {
       "igdb_id": 160391,
@@ -1083175,6 +1083335,11 @@
       "igdb_id": 160335,
       "game_name": "Tiger Tank 59 I: Black Hill Fortress MP089",
       "file": "missing/T/160335-tiger-tank-59-i-black-hill-fortress-mp089.json"
+    },
+    {
+      "igdb_id": 161064,
+      "game_name": "Tiger Tank 59 I: Black Hill Fortress MP091",
+      "file": "missing/T/161064-tiger-tank-59-i-black-hill-fortress-mp091.json"
     },
     {
       "igdb_id": 160808,
@@ -1083747,6 +1083912,16 @@
       "file": "missing/T/160309-tiger-tank-59-i-mission-pack-033.json"
     },
     {
+      "igdb_id": 161134,
+      "game_name": "Tiger Tank 59 I: Mission Pack 034",
+      "file": "missing/T/161134-tiger-tank-59-i-mission-pack-034.json"
+    },
+    {
+      "igdb_id": 161135,
+      "game_name": "Tiger Tank 59 I: Mission Pack 035",
+      "file": "missing/T/161135-tiger-tank-59-i-mission-pack-035.json"
+    },
+    {
       "igdb_id": 161115,
       "game_name": "Tiger Tank 59 I: Mission Pack 037",
       "file": "missing/T/161115-tiger-tank-59-i-mission-pack-037.json"
@@ -1083755,6 +1083930,16 @@
       "igdb_id": 161117,
       "game_name": "Tiger Tank 59 I: Mission Pack 038",
       "file": "missing/T/161117-tiger-tank-59-i-mission-pack-038.json"
+    },
+    {
+      "igdb_id": 161119,
+      "game_name": "Tiger Tank 59 I: Mission Pack 040",
+      "file": "missing/T/161119-tiger-tank-59-i-mission-pack-040.json"
+    },
+    {
+      "igdb_id": 161122,
+      "game_name": "Tiger Tank 59 I: Mission Pack 041",
+      "file": "missing/T/161122-tiger-tank-59-i-mission-pack-041.json"
     },
     {
       "igdb_id": 161111,
@@ -1083767,9 +1083952,19 @@
       "file": "missing/T/161146-tiger-tank-59-i-mission-pack-043.json"
     },
     {
+      "igdb_id": 161136,
+      "game_name": "Tiger Tank 59 I: Mission Pack 044",
+      "file": "missing/T/161136-tiger-tank-59-i-mission-pack-044.json"
+    },
+    {
       "igdb_id": 161113,
       "game_name": "Tiger Tank 59 I: Mission Pack 045",
       "file": "missing/T/161113-tiger-tank-59-i-mission-pack-045.json"
+    },
+    {
+      "igdb_id": 161121,
+      "game_name": "Tiger Tank 59 I: Mission Pack 046",
+      "file": "missing/T/161121-tiger-tank-59-i-mission-pack-046.json"
     },
     {
       "igdb_id": 161110,
@@ -1083792,6 +1083987,21 @@
       "file": "missing/T/161105-tiger-tank-59-i-mission-pack-050.json"
     },
     {
+      "igdb_id": 161127,
+      "game_name": "Tiger Tank 59 I: Mission Pack 051",
+      "file": "missing/T/161127-tiger-tank-59-i-mission-pack-051.json"
+    },
+    {
+      "igdb_id": 161126,
+      "game_name": "Tiger Tank 59 I: Mission Pack 053",
+      "file": "missing/T/161126-tiger-tank-59-i-mission-pack-053.json"
+    },
+    {
+      "igdb_id": 161123,
+      "game_name": "Tiger Tank 59 I: Mission Pack 054",
+      "file": "missing/T/161123-tiger-tank-59-i-mission-pack-054.json"
+    },
+    {
       "igdb_id": 161142,
       "game_name": "Tiger Tank 59 I: Mission Pack 055",
       "file": "missing/T/161142-tiger-tank-59-i-mission-pack-055.json"
@@ -1083807,6 +1084017,11 @@
       "file": "missing/T/161109-tiger-tank-59-i-mission-pack-057.json"
     },
     {
+      "igdb_id": 161120,
+      "game_name": "Tiger Tank 59 I: Mission Pack 058",
+      "file": "missing/T/161120-tiger-tank-59-i-mission-pack-058.json"
+    },
+    {
       "igdb_id": 161145,
       "game_name": "Tiger Tank 59 I: Mission Pack 059",
       "file": "missing/T/161145-tiger-tank-59-i-mission-pack-059.json"
@@ -1083820,6 +1084035,11 @@
       "igdb_id": 160308,
       "game_name": "Tiger Tank 59 I: Mission Pack 063",
       "file": "missing/T/160308-tiger-tank-59-i-mission-pack-063.json"
+    },
+    {
+      "igdb_id": 161133,
+      "game_name": "Tiger Tank 59 I: Mission Pack 064",
+      "file": "missing/T/161133-tiger-tank-59-i-mission-pack-064.json"
     },
     {
       "igdb_id": 161108,
@@ -1083857,6 +1084077,11 @@
       "file": "missing/T/161137-tiger-tank-59-i-mission-pack-074.json"
     },
     {
+      "igdb_id": 161130,
+      "game_name": "Tiger Tank 59 I: Mission Pack 075",
+      "file": "missing/T/161130-tiger-tank-59-i-mission-pack-075.json"
+    },
+    {
       "igdb_id": 161097,
       "game_name": "Tiger Tank 59 I: Mission Pack 076",
       "file": "missing/T/161097-tiger-tank-59-i-mission-pack-076.json"
@@ -1083865,6 +1084090,11 @@
       "igdb_id": 161107,
       "game_name": "Tiger Tank 59 I: Mission Pack 077",
       "file": "missing/T/161107-tiger-tank-59-i-mission-pack-077.json"
+    },
+    {
+      "igdb_id": 161124,
+      "game_name": "Tiger Tank 59 I: Mission Pack 078",
+      "file": "missing/T/161124-tiger-tank-59-i-mission-pack-078.json"
     },
     {
       "igdb_id": 160373,
@@ -1083887,6 +1084117,11 @@
       "file": "missing/T/160383-tiger-tank-59-i-mission-pack-082.json"
     },
     {
+      "igdb_id": 161132,
+      "game_name": "Tiger Tank 59 I: Mission Pack 083",
+      "file": "missing/T/161132-tiger-tank-59-i-mission-pack-083.json"
+    },
+    {
       "igdb_id": 161118,
       "game_name": "Tiger Tank 59 I: Mission Pack 084",
       "file": "missing/T/161118-tiger-tank-59-i-mission-pack-084.json"
@@ -1083900,6 +1084135,16 @@
       "igdb_id": 161141,
       "game_name": "Tiger Tank 59 I: Mission Pack 087",
       "file": "missing/T/161141-tiger-tank-59-i-mission-pack-087.json"
+    },
+    {
+      "igdb_id": 161131,
+      "game_name": "Tiger Tank 59 I: Mission Pack 088",
+      "file": "missing/T/161131-tiger-tank-59-i-mission-pack-088.json"
+    },
+    {
+      "igdb_id": 161125,
+      "game_name": "Tiger Tank 59 I: Mission Pack 090",
+      "file": "missing/T/161125-tiger-tank-59-i-mission-pack-090.json"
     },
     {
       "igdb_id": 161099,
@@ -1083920,6 +1084165,11 @@
       "igdb_id": 161100,
       "game_name": "Tiger Tank 59 I: Mission Pack 094",
       "file": "missing/T/161100-tiger-tank-59-i-mission-pack-094.json"
+    },
+    {
+      "igdb_id": 161128,
+      "game_name": "Tiger Tank 59 I: Mission Pack 095",
+      "file": "missing/T/161128-tiger-tank-59-i-mission-pack-095.json"
     },
     {
       "igdb_id": 160400,
