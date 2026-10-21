@@ -3884,6 +3884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Internet Club & Cafe Simulator | 342410 | [342410-internet-club-and-cafe-simulator.json](./342410-internet-club-and-cafe-simulator.json) |
 | Internet Entrepreneurship Simulator | 348781 | [348781-internet-entrepreneurship-simulator.json](./348781-internet-entrepreneurship-simulator.json) |
 | Internet Exploring | 404368 | [404368-internet-exploring.json](./404368-internet-exploring.json) |
+| Internet Generation | 157951 | [157951-internet-generation.json](./157951-internet-generation.json) |
 | Internet Reversi | 230732 | [230732-internet-reversi.json](./230732-internet-reversi.json) |
 | Internet Scrabble Club | 157528 | [157528-internet-scrabble-club.json](./157528-internet-scrabble-club.json) |
 | Internet Simulator | 98241 | [98241-internet-simulator.json](./98241-internet-simulator.json) |
@@ -4046,6 +4047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Into the Hive | 276749 | [276749-into-the-hive.json](./276749-into-the-hive.json) |
 | Into the Ice: Nazis of Neuschwabenland | 38802 | [38802-into-the-ice-nazis-of-neuschwabenland.json](./38802-into-the-ice-nazis-of-neuschwabenland.json) |
 | Into the Inferno | 258629 | [258629-into-the-inferno.json](./258629-into-the-inferno.json) |
+| Into the Knight | 157959 | [157959-into-the-knight.json](./157959-into-the-knight.json) |
 | Into the Light | 157424 | [157424-into-the-light.json](./157424-into-the-light.json) |
 | Into the Loop | 153843 | [153843-into-the-loop.json](./153843-into-the-loop.json) |
 | Into the M.A.W. | 309857 | [309857-into-the-m-a-w.json](./309857-into-the-m-a-w.json) |
