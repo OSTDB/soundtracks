@@ -8341,6 +8341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Divinus Vanitas | 215921 | [215921-divinus-vanitas.json](./215921-divinus-vanitas.json) |
 | Division | 217209 | [217209-division.json](./217209-division.json) |
 | Division 1 | 42174 | [42174-division-1.json](./42174-division-1.json) |
+| División Especial de Detectives! | 159011 | [159011-division-especial-de-detectives.json](./159011-division-especial-de-detectives.json) |
 | Division of Labour | 216651 | [216651-division-of-labour.json](./216651-division-of-labour.json) |
 | Divnozemye | 290858 | [290858-divnozemye.json](./290858-divnozemye.json) |
 | Dìwáng Chāiqiān Bàn | 367485 | [367485-diwang-chaiqian-ban.json](./367485-diwang-chaiqian-ban.json) |
@@ -13656,6 +13657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Breakers | 188281 | [188281-dungeon-breakers.json](./188281-dungeon-breakers.json) |
 | Dungeon Breakout: Chapter 1 | 252616 | [252616-dungeon-breakout-chapter-1.json](./252616-dungeon-breakout-chapter-1.json) |
 | Dungeon Brewmaster | 98734 | [98734-dungeon-brewmaster.json](./98734-dungeon-brewmaster.json) |
+| Dungeon Bricker | 159015 | [159015-dungeon-bricker.json](./159015-dungeon-bricker.json) |
 | Dungeon Builder S | 44199 | [44199-dungeon-builder-s.json](./44199-dungeon-builder-s.json) |
 | Dungeon Buster Ex-Plores | 66169 | [66169-dungeon-buster-ex-plores.json](./66169-dungeon-buster-ex-plores.json) |
 | Dungeon Campaign | 24803 | [24803-dungeon-campaign.json](./24803-dungeon-campaign.json) |
