@@ -3739,6 +3739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Erotic Jigsaw Challenge Vol 2 | 106541 | [106541-erotic-jigsaw-challenge-vol-2.json](./106541-erotic-jigsaw-challenge-vol-2.json) |
 | Erotic Jigsaw Puzzle | 156644 | [156644-erotic-jigsaw-puzzle.json](./156644-erotic-jigsaw-puzzle.json) |
 | Erotic Jigsaw Puzzle 2 | 150652 | [150652-erotic-jigsaw-puzzle-2.json](./150652-erotic-jigsaw-puzzle-2.json) |
+| Erotic Jigsaw Puzzle 5 | 162212 | [162212-erotic-jigsaw-puzzle-5.json](./162212-erotic-jigsaw-puzzle-5.json) |
 | Erotic Photoshoot | 297092 | [297092-erotic-photoshoot.json](./297092-erotic-photoshoot.json) |
 | Erotic Rhythm | 339764 | [339764-erotic-rhythm.json](./339764-erotic-rhythm.json) |
 | Erotic Shop Simulator | 326433 | [326433-erotic-shop-simulator.json](./326433-erotic-shop-simulator.json) |
