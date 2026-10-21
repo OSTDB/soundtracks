@@ -7138,7 +7138,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blackgate | 138226 | [138226-blackgate.json](./138226-blackgate.json) |
 | BlackGate | 325837 | [325837-blackgate.json](./325837-blackgate.json) |
 | Blackguards | 5522 | [5522-blackguards.json](./5522-blackguards.json) |
-| Blackguards 2 | 8335 | [8335-blackguards-2.json](./8335-blackguards-2.json) |
 | Blackguards: Deluxe Edition | 52468 | [52468-blackguards-deluxe-edition.json](./52468-blackguards-deluxe-edition.json) |
 | Blackguards: Untold Legends | 11105 | [11105-blackguards-untold-legends.json](./11105-blackguards-untold-legends.json) |
 | Blackhaven | 160683 | [160683-blackhaven.json](./160683-blackhaven.json) |
