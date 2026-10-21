@@ -820,6 +820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dangerous Hobby | 187732 | [187732-dangerous-hobby.json](./187732-dangerous-hobby.json) |
 | Dangerous Ivan | 262462 | [262462-dangerous-ivan.json](./262462-dangerous-ivan.json) |
 | Dangerous Land | 303096 | [303096-dangerous-land.json](./303096-dangerous-land.json) |
+| Dangerous Lands 2 | 161204 | [161204-dangerous-lands-2.json](./161204-dangerous-lands-2.json) |
 | Dangerous Level | 82348 | [82348-dangerous-level.json](./82348-dangerous-level.json) |
 | Dangerous Line | 327827 | [327827-dangerous-line.json](./327827-dangerous-line.json) |
 | Dangerous Orbit | 114844 | [114844-dangerous-orbit.json](./114844-dangerous-orbit.json) |
@@ -2343,7 +2344,20 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DC Universe Online: Episode 21 - Prison Break and The First Piece | 271167 | [271167-dc-universe-online-episode-21-prison-break-and-the-first-piece.json](./271167-dc-universe-online-episode-21-prison-break-and-the-first-piece.json) |
 | DC Universe Online: Episode 22 - Science Spire and The Phantom Zone | 271168 | [271168-dc-universe-online-episode-22-science-spire-and-the-phantom-zone.json](./271168-dc-universe-online-episode-22-science-spire-and-the-phantom-zone.json) |
 | DC Universe Online: Episode 23 - The Will of Darkseid and Brainiac's Bottle Ship | 271169 | [271169-dc-universe-online-episode-23-the-will-of-darkseid-and-brainiacs-bottle-ship.json](./271169-dc-universe-online-episode-23-the-will-of-darkseid-and-brainiacs-bottle-ship.json) |
+| DC Universe Online: Episode 27 - Amazon Fury Part III | 161203 | [161203-dc-universe-online-episode-27-amazon-fury-part-iii.json](./161203-dc-universe-online-episode-27-amazon-fury-part-iii.json) |
+| DC Universe Online: Episode 28 - Age of Justice | 161193 | [161193-dc-universe-online-episode-28-age-of-justice.json](./161193-dc-universe-online-episode-28-age-of-justice.json) |
+| DC Universe Online: Episode 29 - Riddled With Crime | 161194 | [161194-dc-universe-online-episode-29-riddled-with-crime.json](./161194-dc-universe-online-episode-29-riddled-with-crime.json) |
 | DC Universe Online: Episode 3 - The Battle for Earth | 271146 | [271146-dc-universe-online-episode-3-the-battle-for-earth.json](./271146-dc-universe-online-episode-3-the-battle-for-earth.json) |
+| DC Universe Online: Episode 30 - Earth 3 | 161192 | [161192-dc-universe-online-episode-30-earth-3.json](./161192-dc-universe-online-episode-30-earth-3.json) |
+| DC Universe Online: Episode 31 - Deluge | 161188 | [161188-dc-universe-online-episode-31-deluge.json](./161188-dc-universe-online-episode-31-deluge.json) |
+| DC Universe Online: Episode 32 - Teen Titans: The Judas Contract | 161191 | [161191-dc-universe-online-episode-32-teen-titans-the-judas-contract.json](./161191-dc-universe-online-episode-32-teen-titans-the-judas-contract.json) |
+| DC Universe Online: Episode 33 - Atlantis | 161198 | [161198-dc-universe-online-episode-33-atlantis.json](./161198-dc-universe-online-episode-33-atlantis.json) |
+| DC Universe Online: Episode 34 - Justice League Dark | 161199 | [161199-dc-universe-online-episode-34-justice-league-dark.json](./161199-dc-universe-online-episode-34-justice-league-dark.json) |
+| DC Universe Online: Episode 35 - Metal Part I | 161202 | [161202-dc-universe-online-episode-35-metal-part-i.json](./161202-dc-universe-online-episode-35-metal-part-i.json) |
+| DC Universe Online: Episode 36 - Metal Part II | 161195 | [161195-dc-universe-online-episode-36-metal-part-ii.json](./161195-dc-universe-online-episode-36-metal-part-ii.json) |
+| DC Universe Online: Episode 37 - Birds of Prey | 161200 | [161200-dc-universe-online-episode-37-birds-of-prey.json](./161200-dc-universe-online-episode-37-birds-of-prey.json) |
+| DC Universe Online: Episode 38 - Wonderverse | 161190 | [161190-dc-universe-online-episode-38-wonderverse.json](./161190-dc-universe-online-episode-38-wonderverse.json) |
+| DC Universe Online: Episode 39 - Long Live the Legion | 161201 | [161201-dc-universe-online-episode-39-long-live-the-legion.json](./161201-dc-universe-online-episode-39-long-live-the-legion.json) |
 | DC Universe Online: Episode 4 - The Last Laugh | 271147 | [271147-dc-universe-online-episode-4-the-last-laugh.json](./271147-dc-universe-online-episode-4-the-last-laugh.json) |
 | DC Universe Online: Episode 45 - Shock to the System | 248600 | [248600-dc-universe-online-episode-45-shock-to-the-system.json](./248600-dc-universe-online-episode-45-shock-to-the-system.json) |
 | DC Universe Online: Episode 46 - Justice League Dark | 271141 | [271141-dc-universe-online-episode-46-justice-league-dark.json](./271141-dc-universe-online-episode-46-justice-league-dark.json) |
@@ -2353,6 +2367,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DC Universe Online: Episode 8 - Sons of Trigon | 271152 | [271152-dc-universe-online-episode-8-sons-of-trigon.json](./271152-dc-universe-online-episode-8-sons-of-trigon.json) |
 | DC Universe Online: Episode 9 - War of the Light Part I | 271154 | [271154-dc-universe-online-episode-9-war-of-the-light-part-i.json](./271154-dc-universe-online-episode-9-war-of-the-light-part-i.json) |
 | DC Universe Online: Episode Pack I | 161187 | [161187-dc-universe-online-episode-pack-i.json](./161187-dc-universe-online-episode-pack-i.json) |
+| DC Universe Online: Episode Pack II | 161196 | [161196-dc-universe-online-episode-pack-ii.json](./161196-dc-universe-online-episode-pack-ii.json) |
+| DC Universe Online: Episode Pack III | 161197 | [161197-dc-universe-online-episode-pack-iii.json](./161197-dc-universe-online-episode-pack-iii.json) |
+| DC Universe Online: Episode Pack IV | 161189 | [161189-dc-universe-online-episode-pack-iv.json](./161189-dc-universe-online-episode-pack-iv.json) |
 | DC Wonder: Unlimited | 43496 | [43496-dc-wonder-unlimited.json](./43496-dc-wonder-unlimited.json) |
 | DC Worlds Collide | 193782 | [193782-dc-worlds-collide.json](./193782-dc-worlds-collide.json) |
 | DC: Batman Bat-Tech Edition | 309605 | [309605-dc-batman-bat-tech-edition.json](./309605-dc-batman-bat-tech-edition.json) |
