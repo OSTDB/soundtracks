@@ -3063,6 +3063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wheel Stars | 236313 | [236313-wheel-stars.json](./236313-wheel-stars.json) |
 | Wheelbarrow Warrior | 107365 | [107365-wheelbarrow-warrior.json](./107365-wheelbarrow-warrior.json) |
 | Wheelborn | 282222 | [282222-wheelborn.json](./282222-wheelborn.json) |
+| Wheelchair for Two | 406738 | [406738-wheelchair-for-two.json](./406738-wheelchair-for-two.json) |
 | Wheelchair Simulator | 103157 | [103157-wheelchair-simulator.json](./103157-wheelchair-simulator.json) |
 | Wheelchair Simulator VR | 100463 | [100463-wheelchair-simulator-vr.json](./100463-wheelchair-simulator-vr.json) |
 | Wheeled Warriors: Ultimate Destruction | 216832 | [216832-wheeled-warriors-ultimate-destruction.json](./216832-wheeled-warriors-ultimate-destruction.json) |
@@ -6231,6 +6232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Neverland: Waaneba Island | 419853 | [419853-world-neverland-waaneba-island.json](./419853-world-neverland-waaneba-island.json) |
 | World of Aircraft: Glider Simulator | 148872 | [148872-world-of-aircraft-glider-simulator.json](./148872-world-of-aircraft-glider-simulator.json) |
 | World of Anikids | 52123 | [52123-world-of-anikids.json](./52123-world-of-anikids.json) |
+| World of Art: Learn with Jigsaw Puzzles | 162216 | [162216-world-of-art-learn-with-jigsaw-puzzles.json](./162216-world-of-art-learn-with-jigsaw-puzzles.json) |
 | World of Art: Learn with Jigsaw Puzzles - Pixel Art by Numbers | 254652 | [254652-world-of-art-learn-with-jigsaw-puzzles-pixel-art-by-numbers.json](./254652-world-of-art-learn-with-jigsaw-puzzles-pixel-art-by-numbers.json) |
 | World of Battles: Morningstar | 23540 | [23540-world-of-battles-morningstar.json](./23540-world-of-battles-morningstar.json) |
 | World of Bingo | 97427 | [97427-world-of-bingo.json](./97427-world-of-bingo.json) |
