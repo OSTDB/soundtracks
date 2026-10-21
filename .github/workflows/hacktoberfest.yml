@@ -1,0 +1,33 @@
+name: Hacktoberfest
+
+# During October, every merged pull request from a person (not a bot) gets the
+# hacktoberfest-accepted label, so it counts for Hacktoberfest even when it is
+# merged by auto-merge. pull_request_target never checks out PR code here.
+
+on:
+  pull_request_target:
+    types: [closed]
+
+permissions:
+  pull-requests: write
+  issues: write
+
+jobs:
+  accept:
+    if: >-
+      github.event.pull_request.merged == true &&
+      github.event.pull_request.user.type != 'Bot' &&
+      github.event.pull_request.user.login != 'ostdbbot'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Label during October
+        env:
+          GH_TOKEN: ${{ github.token }}
+          PR: ${{ github.event.pull_request.number }}
+        run: |
+          if [ "$(date -u +%m)" != "10" ]; then
+            echo "Not October; nothing to do."
+            exit 0
+          fi
+          gh pr edit "$PR" --repo "$GITHUB_REPOSITORY" --add-label hacktoberfest-accepted
+          gh pr comment "$PR" --repo "$GITHUB_REPOSITORY" --body "🎃 Thanks for the soundtrack! This pull request is labelled \`hacktoberfest-accepted\`, so it counts towards Hacktoberfest."

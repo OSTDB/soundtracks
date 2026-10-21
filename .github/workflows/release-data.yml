@@ -1,0 +1,74 @@
+name: Release dataset
+
+# Every Monday: build ostdb.json / ostdb.csv / ostdb.sqlite from all-games.json
+# and publish them as a GitHub release, so the README's
+# releases/latest/download/... links always point at a fresh snapshot.
+# Optionally mirrors the files to a Hugging Face dataset (see below).
+
+on:
+  schedule:
+    - cron: "0 6 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: release-data
+  cancel-in-progress: false
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Build dataset
+        run: python .github/scripts/build_dataset.py
+
+      - name: Publish release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          DATE=$(date -u +%Y-%m-%d)
+          TAG="data-$DATE"
+          GAMES=$(python -c "import json;print(json.load(open('dist/ostdb.json'))['total_games'])")
+          ALBUMS=$(python -c "import json;print(json.load(open('dist/ostdb.json'))['total_albums'])")
+          NOTES=$(printf '%s\n' \
+            "Weekly snapshot of OSTDB: **$GAMES games** and **$ALBUMS soundtrack albums** with Spotify, Apple Music and album.link URLs." \
+            "" \
+            "| File | Contents |" \
+            "|---|---|" \
+            "| \`ostdb.csv\` | One row per album |" \
+            "| \`ostdb.json\` | Every game with its albums |" \
+            "| \`ostdb.sqlite\` | Tables \`games\`, \`albums\`, \`meta\` |" \
+            "" \
+            "Data licensed CC BY-NC-SA 4.0. Credit: *Data from [OSTDB (ostdb.net)](https://ostdb.net)*.")
+          # Re-running on the same day replaces that day's release.
+          gh release delete "$TAG" --cleanup-tag --yes 2>/dev/null || true
+          gh release create "$TAG" dist/ostdb.csv dist/ostdb.json dist/ostdb.sqlite \
+            --title "Dataset $DATE" --notes "$NOTES" --latest
+
+      # Hugging Face mirror: create the dataset repo, add an HF_TOKEN secret
+      # (write access) and an HF_DATASET variable such as "your-name/ostdb".
+      - name: Mirror to Hugging Face
+        if: ${{ vars.HF_DATASET != '' }}
+        env:
+          HF_TOKEN: ${{ secrets.HF_TOKEN }}
+          HF_DATASET: ${{ vars.HF_DATASET }}
+        run: |
+          pip install --quiet "huggingface_hub>=0.25"
+          python - <<'PY'
+          import os
+          from huggingface_hub import HfApi
+          HfApi(token=os.environ["HF_TOKEN"]).upload_folder(
+              repo_id=os.environ["HF_DATASET"],
+              repo_type="dataset",
+              folder_path="dist",
+              commit_message="Weekly OSTDB snapshot",
+          )
+          PY
