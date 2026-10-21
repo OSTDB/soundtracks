@@ -3902,6 +3902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Bullets | 25755 | [25755-ninja-bullets.json](./25755-ninja-bullets.json) |
 | Ninja Camel | 395810 | [395810-ninja-camel.json](./395810-ninja-camel.json) |
 | Ninja Captains | 85604 | [85604-ninja-captains.json](./85604-ninja-captains.json) |
+| Ninja Castle Escape | 156939 | [156939-ninja-castle-escape.json](./156939-ninja-castle-escape.json) |
 | Ninja Cat Remewstered | 406931 | [406931-ninja-cat-remewstered.json](./406931-ninja-cat-remewstered.json) |
 | Ninja Cats vs Samurai Dogs | 16795 | [16795-ninja-cats-vs-samurai-dogs.json](./16795-ninja-cats-vs-samurai-dogs.json) |
 | Ninja Cats: Tactics | 361799 | [361799-ninja-cats-tactics.json](./361799-ninja-cats-tactics.json) |
