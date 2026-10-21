@@ -235,6 +235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Obsession | 184056 | [184056-obsession.json](./184056-obsession.json) |
 | Obsession | 268658 | [268658-obsession.json](./268658-obsession.json) |
 | Obsessive Love Adventure Utsuro's Diary | 151680 | [151680-obsessive-love-adventure-utsuros-diary.json](./151680-obsessive-love-adventure-utsuros-diary.json) |
+| Obsideo | 163148 | [163148-obsideo.json](./163148-obsideo.json) |
 | Obsidian Conflict | 142407 | [142407-obsidian-conflict.json](./142407-obsidian-conflict.json) |
 | Obsidian Crown | 124164 | [124164-obsidian-crown.json](./124164-obsidian-crown.json) |
 | Obsidian Moon | 357005 | [357005-obsidian-moon.json](./357005-obsidian-moon.json) |
@@ -1561,6 +1562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | On Tario | 185520 | [185520-on-tario.json](./185520-on-tario.json) |
 | On the Alert | 117588 | [117588-on-the-alert.json](./117588-on-the-alert.json) |
 | On the Brink | 249796 | [249796-on-the-brink.json](./249796-on-the-brink.json) |
+| On the Earth Shift | 163241 | [163241-on-the-earth-shift.json](./163241-on-the-earth-shift.json) |
 | On the Fly | 100560 | [100560-on-the-fly.json](./100560-on-the-fly.json) |
 | On The Hook | 415951 | [415951-on-the-hook.json](./415951-on-the-hook.json) |
 | On the Hunt | 160065 | [160065-on-the-hunt.json](./160065-on-the-hunt.json) |
@@ -4306,6 +4308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overhead | 402256 | [402256-overhead.json](./402256-overhead.json) |
 | Overhead | 86745 | [86745-overhead.json](./86745-overhead.json) |
 | Overhead Kick | 248319 | [248319-overhead-kick.json](./248319-overhead-kick.json) |
+| Overheat | 163156 | [163156-overheat.json](./163156-overheat.json) |
 | Overheat: Kitchen Chaos | 324134 | [324134-overheat-kitchen-chaos.json](./324134-overheat-kitchen-chaos.json) |
 | Overhills | 279108 | [279108-overhills.json](./279108-overhills.json) |
 | Overhours | 253599 | [253599-overhours.json](./253599-overhours.json) |
