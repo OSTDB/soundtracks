@@ -7297,6 +7297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fire Tower | 217757 | [217757-the-fire-tower.json](./217757-the-fire-tower.json) |
 | The Fireblue Conundrum | 318261 | [318261-the-fireblue-conundrum.json](./318261-the-fireblue-conundrum.json) |
 | The Firebrand | 295246 | [295246-the-firebrand.json](./295246-the-firebrand.json) |
+| The Firelord | 157945 | [157945-the-firelord.json](./157945-the-firelord.json) |
 | The Firemen | 42621 | [42621-the-firemen.json](./42621-the-firemen.json) |
 | The Fireseed Treaty | 320825 | [320825-the-fireseed-treaty.json](./320825-the-fireseed-treaty.json) |
 | The Firm | 23407 | [23407-the-firm.json](./23407-the-firm.json) |
@@ -11202,6 +11203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Only Droid | 403632 | [403632-the-only-droid.json](./403632-the-only-droid.json) |
 | The Only One Girl 1stQ | 184049 | [184049-the-only-one-girl-1stq.json](./184049-the-only-one-girl-1stq.json) |
 | The Only Survivor: Open world | 231887 | [231887-the-only-survivor-open-world.json](./231887-the-only-survivor-open-world.json) |
+| The Only Wise | 157977 | [157977-the-only-wise.json](./157977-the-only-wise.json) |
 | The Ooze | 46251 | [46251-the-ooze.json](./46251-the-ooze.json) |
 | The Open League | 367999 | [367999-the-open-league.json](./367999-the-open-league.json) |
 | The Open Sky | 181135 | [181135-the-open-sky.json](./181135-the-open-sky.json) |
@@ -19752,6 +19754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Too Many Snakes | 233082 | [233082-too-many-snakes.json](./233082-too-many-snakes.json) |
 | Too Many Weapons | 37023 | [37023-too-many-weapons.json](./37023-too-many-weapons.json) |
 | Too Much Baggage | 420480 | [420480-too-much-baggage.json](./420480-too-much-baggage.json) |
+| Too Much Water | 157879 | [157879-too-much-water.json](./157879-too-much-water.json) |
 | Too Slime and Snake | 218410 | [218410-too-slime-and-snake.json](./218410-too-slime-and-snake.json) |
 | Too Small To Matter | 297363 | [297363-too-small-to-matter.json](./297363-too-small-to-matter.json) |
 | Too Tired To Die | 317301 | [317301-too-tired-to-die.json](./317301-too-tired-to-die.json) |
