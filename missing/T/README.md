@@ -5190,6 +5190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Book of Blood | 392172 | [392172-the-book-of-blood.json](./392172-the-book-of-blood.json) |
 | The Book of Commands: Lost Symbol | 32894 | [32894-the-book-of-commands-lost-symbol.json](./32894-the-book-of-commands-lost-symbol.json) |
 | The Book of Death for Dummies | 273643 | [273643-the-book-of-death-for-dummies.json](./273643-the-book-of-death-for-dummies.json) |
+| The Book of Distance | 161568 | [161568-the-book-of-distance.json](./161568-the-book-of-distance.json) |
 | The Book of Lulu | 281295 | [281295-the-book-of-lulu.json](./281295-the-book-of-lulu.json) |
 | The Book of Outcasts | 397697 | [397697-the-book-of-outcasts.json](./397697-the-book-of-outcasts.json) |
 | The Book of Plagues | 346180 | [346180-the-book-of-plagues.json](./346180-the-book-of-plagues.json) |
@@ -5356,6 +5357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The C64 Collection 2 | 239138 | [239138-the-c64-collection-2.json](./239138-the-c64-collection-2.json) |
 | The C64 Collection 3 | 283597 | [283597-the-c64-collection-3.json](./283597-the-c64-collection-3.json) |
 | The Cabbage Effect | 134953 | [134953-the-cabbage-effect.json](./134953-the-cabbage-effect.json) |
+| The Cabin | 161627 | [161627-the-cabin.json](./161627-the-cabin.json) |
 | The Cabin | 171837 | [171837-the-cabin.json](./171837-the-cabin.json) |
 | The Cabin Factory | 325273 | [325273-the-cabin-factory.json](./325273-the-cabin-factory.json) |
 | The Cabin Game | 398960 | [398960-the-cabin-game.json](./398960-the-cabin-game.json) |
@@ -10910,6 +10912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mystery of Woolley Mountain | 52011 | [52011-the-mystery-of-woolley-mountain.json](./52011-the-mystery-of-woolley-mountain.json) |
 | The Mystery Team | 42775 | [42775-the-mystery-team.json](./42775-the-mystery-team.json) |
 | The Mystery Workshop | 104457 | [104457-the-mystery-workshop.json](./104457-the-mystery-workshop.json) |
+| The Mystic | 161564 | [161564-the-mystic.json](./161564-the-mystic.json) |
 | The Mystic Fortune | 329063 | [329063-the-mystic-fortune.json](./329063-the-mystic-fortune.json) |
 | The Mystic Well | 232518 | [232518-the-mystic-well.json](./232518-the-mystic-well.json) |
 | The Mystical Traveler | 342735 | [342735-the-mystical-traveler.json](./342735-the-mystical-traveler.json) |
@@ -14618,6 +14621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Whisperer | 240127 | [240127-the-whisperer.json](./240127-the-whisperer.json) |
 | The Whisperer in Darkness | 33700 | [33700-the-whisperer-in-darkness.json](./33700-the-whisperer-in-darkness.json) |
 | The Whispering Bones | 389400 | [389400-the-whispering-bones.json](./389400-the-whispering-bones.json) |
+| The Whispering Valley | 161643 | [161643-the-whispering-valley.json](./161643-the-whispering-valley.json) |
 | The Whispering Woods | 335361 | [335361-the-whispering-woods.json](./335361-the-whispering-woods.json) |
 | The Whistle | 270168 | [270168-the-whistle.json](./270168-the-whistle.json) |
 | The Whistle | 342837 | [342837-the-whistle.json](./342837-the-whistle.json) |
@@ -14874,6 +14878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Worm in Paradise | 36845 | [36845-the-worm-in-paradise.json](./36845-the-worm-in-paradise.json) |
 | The Worm Room | 139263 | [139263-the-worm-room.json](./139263-the-worm-room.json) |
 | The Worst Game | 390555 | [390555-the-worst-game.json](./390555-the-worst-game.json) |
+| The Worst Game Ever | 161640 | [161640-the-worst-game-ever.json](./161640-the-worst-game-ever.json) |
 | The Worst Sonic the Hedgehog Romhack (Featuring Mario) | 385366 | [385366-the-worst-sonic-the-hedgehog-romhack-featuring-mario.json](./385366-the-worst-sonic-the-hedgehog-romhack-featuring-mario.json) |
 | The Worst Sonic the Hedgehog Romhack (Featuring Mario) 2 | 385367 | [385367-the-worst-sonic-the-hedgehog-romhack-featuring-mario-2.json](./385367-the-worst-sonic-the-hedgehog-romhack-featuring-mario-2.json) |
 | The Worst-Case Scenario Survival Trivia Challenge | 69914 | [69914-the-worst-case-scenario-survival-trivia-challenge.json](./69914-the-worst-case-scenario-survival-trivia-challenge.json) |
@@ -19401,6 +19406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomb Raider: The Last Revelation - The Times | 68115 | [68115-tomb-raider-the-last-revelation-the-times.json](./68115-tomb-raider-the-last-revelation-the-times.json) |
 | Tomb Raider: The Osiris Codex | 165176 | [165176-tomb-raider-the-osiris-codex.json](./165176-tomb-raider-the-osiris-codex.json) |
 | Tomb Raider: The Prophecy | 18809 | [18809-tomb-raider-the-prophecy.json](./18809-tomb-raider-the-prophecy.json) |
+| Tomb Raider: The Trilogy | 161713 | [161713-tomb-raider-the-trilogy.json](./161713-tomb-raider-the-trilogy.json) |
 | Tomb Raider: Tomb of the Lost Adventurer | 144991 | [144991-tomb-raider-tomb-of-the-lost-adventurer.json](./144991-tomb-raider-tomb-of-the-lost-adventurer.json) |
 | Tomb Raider: Underworld | 146720 | [146720-tomb-raider-underworld.json](./146720-tomb-raider-underworld.json) |
 | Tomb Raider: Underworld | 371964 | [371964-tomb-raider-underworld.json](./371964-tomb-raider-underworld.json) |
@@ -20735,6 +20741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tourist Bus Simulator: W906 | 168893 | [168893-tourist-bus-simulator-w906.json](./168893-tourist-bus-simulator-w906.json) |
 | Tourist in Trouble: Escape The PickPockets! | 364858 | [364858-tourist-in-trouble-escape-the-pickpockets.json](./364858-tourist-in-trouble-escape-the-pickpockets.json) |
 | Tourist Trophy | 8213 | [8213-tourist-trophy.json](./8213-tourist-trophy.json) |
+| Tournament Ark | 161703 | [161703-tournament-ark.json](./161703-tournament-ark.json) |
 | Tournament Blackjack | 70101 | [70101-tournament-blackjack.json](./70101-tournament-blackjack.json) |
 | Tournament Chess | 206080 | [206080-tournament-chess.json](./206080-tournament-chess.json) |
 | Tournament Chess II | 206081 | [206081-tournament-chess-ii.json](./206081-tournament-chess-ii.json) |
@@ -23210,6 +23217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Travel Cuisine: Collector's Edition | 250655 | [250655-travel-cuisine-collectors-edition.json](./250655-travel-cuisine-collectors-edition.json) |
 | Travel Eple | 37621 | [37621-travel-eple.json](./37621-travel-eple.json) |
 | Travel Epuru | 309012 | [309012-travel-epuru.json](./309012-travel-epuru.json) |
+| Travel Fanz | 161629 | [161629-travel-fanz.json](./161629-travel-fanz.json) |
 | Travel Games for Dummies | 84458 | [84458-travel-games-for-dummies.json](./84458-travel-games-for-dummies.json) |
 | Travel Junction | 335859 | [335859-travel-junction.json](./335859-travel-junction.json) |
 | Travel Knight Adventure | 272904 | [272904-travel-knight-adventure.json](./272904-travel-knight-adventure.json) |
