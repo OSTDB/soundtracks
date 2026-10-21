@@ -5988,6 +5988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Expeditions: Conquistador | 16523 | [16523-expeditions-conquistador.json](./16523-expeditions-conquistador.json) |
 | Expeditions: Rome | 146650 | [146650-expeditions-rome.json](./146650-expeditions-rome.json) |
 | Expeditions: Samurai | 404904 | [404904-expeditions-samurai.json](./404904-expeditions-samurai.json) |
+| Expel | 156947 | [156947-expel.json](./156947-expel.json) |
 | Expel | 246827 | [246827-expel.json](./246827-expel.json) |
 | Expelled! | 331180 | [331180-expelled.json](./331180-expelled.json) |
 | Expendable | 317640 | [317640-expendable.json](./317640-expendable.json) |
