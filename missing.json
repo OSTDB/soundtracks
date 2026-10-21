@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-21T20:52:39.891Z",
-  "total_missing": 243543,
+  "generated_at": "2026-10-21T20:58:26.143Z",
+  "total_missing": 243535,
   "games": [
     {
       "igdb_id": 191680,
@@ -134092,11 +134092,6 @@
       "file": "missing/B/271818-borderlands-3-directors-cut.json"
     },
     {
-      "igdb_id": 126138,
-      "game_name": "Borderlands 3: Moxxi's Heist of the Handsome Jackpot",
-      "file": "missing/B/126138-borderlands-3-moxxis-heist-of-the-handsome-jackpot.json"
-    },
-    {
       "igdb_id": 140897,
       "game_name": "Borderlands 3: Next-Level Edition",
       "file": "missing/B/140897-borderlands-3-next-level-edition.json"
@@ -138065,11 +138060,6 @@
       "igdb_id": 236327,
       "game_name": "Brahman: The Gate of Salvation",
       "file": "missing/B/236327-brahman-the-gate-of-salvation.json"
-    },
-    {
-      "igdb_id": 136511,
-      "game_name": "Braid: Anniversary Edition",
-      "file": "missing/B/136511-braid-anniversary-edition.json"
     },
     {
       "igdb_id": 179894,
@@ -272060,11 +272050,6 @@
       "igdb_id": 9825,
       "game_name": "Disillusions Manga Horror",
       "file": "missing/D/9825-disillusions-manga-horror.json"
-    },
-    {
-      "igdb_id": 120625,
-      "game_name": "Disintegration",
-      "file": "missing/D/120625-disintegration.json"
     },
     {
       "igdb_id": 243254,
@@ -492335,11 +492320,6 @@
       "igdb_id": 144767,
       "game_name": "Idle Skilling",
       "file": "missing/I/144767-idle-skilling.json"
-    },
-    {
-      "igdb_id": 139040,
-      "game_name": "Idle Slayer",
-      "file": "missing/I/139040-idle-slayer.json"
     },
     {
       "igdb_id": 208923,
@@ -732027,11 +732007,6 @@
       "file": "missing/P/131311-pac-mangames.json"
     },
     {
-      "igdb_id": 12192,
-      "game_name": "Pac-Mania",
-      "file": "missing/P/12192-pac-mania.json"
-    },
-    {
       "igdb_id": 174623,
       "game_name": "Pac-Mania",
       "file": "missing/P/174623-pac-mania.json"
@@ -893560,11 +893535,6 @@
       "igdb_id": 289779,
       "game_name": "Shogun Curse",
       "file": "missing/S/289779-shogun-curse.json"
-    },
-    {
-      "igdb_id": 208533,
-      "game_name": "Shogun Showdown",
-      "file": "missing/S/208533-shogun-showdown.json"
     },
     {
       "igdb_id": 39584,
@@ -1061867,11 +1061837,6 @@
       "file": "missing/T/210460-the-sims-2.json"
     },
     {
-      "igdb_id": 225246,
-      "game_name": "The Sims 2",
-      "file": "missing/T/225246-the-sims-2.json"
-    },
-    {
       "igdb_id": 5538,
       "game_name": "The Sims 2: Apartment Life",
       "file": "missing/T/5538-the-sims-2-apartment-life.json"
@@ -1138780,11 +1138745,6 @@
       "igdb_id": 185647,
       "game_name": "Unsolicited",
       "file": "missing/U/185647-unsolicited.json"
-    },
-    {
-      "igdb_id": 216491,
-      "game_name": "Unsolved Case",
-      "file": "missing/U/216491-unsolved-case.json"
     },
     {
       "igdb_id": 267264,
