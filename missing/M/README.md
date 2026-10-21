@@ -7330,6 +7330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mesopotamia | 42042 | [42042-mesopotamia.json](./42042-mesopotamia.json) |
 | Mesopotamia: The Game | 359928 | [359928-mesopotamia-the-game.json](./359928-mesopotamia-the-game.json) |
 | Mesorift Survival | 350403 | [350403-mesorift-survival.json](./350403-mesorift-survival.json) |
+| Mesozoikum | 161622 | [161622-mesozoikum.json](./161622-mesozoikum.json) |
 | Mess Adventures | 153329 | [153329-mess-adventures.json](./153329-mess-adventures.json) |
 | Mess Adventures 2 | 187819 | [187819-mess-adventures-2.json](./187819-mess-adventures-2.json) |
 | Mess Cleanup | 166765 | [166765-mess-cleanup.json](./166765-mess-cleanup.json) |
@@ -10273,6 +10274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mirai no Uta to, Tsunagaru Hitomi | 228352 | [228352-mirai-no-uta-to-tsunagaru-hitomi.json](./228352-mirai-no-uta-to-tsunagaru-hitomi.json) |
 | Mirai Shounen Conan | 42021 | [42021-mirai-shounen-conan.json](./42021-mirai-shounen-conan.json) |
 | Mirai Shounen Conan Digital Library | 268513 | [268513-mirai-shounen-conan-digital-library.json](./268513-mirai-shounen-conan-digital-library.json) |
+| Mirai: Future | 161708 | [161708-mirai-future.json](./161708-mirai-future.json) |
 | Mirai's Midnight Stream | 351085 | [351085-mirais-midnight-stream.json](./351085-mirais-midnight-stream.json) |
 | Mirai's Midnight Training | 399715 | [399715-mirais-midnight-training.json](./399715-mirais-midnight-training.json) |
 | Miraibo Go | 316770 | [316770-miraibo-go.json](./316770-miraibo-go.json) |
