@@ -1233,6 +1233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Family Farm: Goodfolks | 245177 | [245177-family-farm-goodfolks.json](./245177-family-farm-goodfolks.json) |
 | Family Fest Presents Movie Games | 70671 | [70671-family-fest-presents-movie-games.json](./70671-family-fest-presents-movie-games.json) |
 | Family Feud | 159244 | [159244-family-feud.json](./159244-family-feud.json) |
+| Family Feud | 163161 | [163161-family-feud.json](./163161-family-feud.json) |
 | Family Feud | 175630 | [175630-family-feud.json](./175630-family-feud.json) |
 | Family Feud | 198736 | [198736-family-feud.json](./198736-family-feud.json) |
 | Family Feud | 198737 | [198737-family-feud.json](./198737-family-feud.json) |
@@ -1437,6 +1438,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantastic Findings Hidden Seasons | 342827 | [342827-fantastic-findings-hidden-seasons.json](./342827-fantastic-findings-hidden-seasons.json) |
 | Fantastic Fist | 258100 | [258100-fantastic-fist.json](./258100-fantastic-fist.json) |
 | Fantastic Football Fan Party | 268130 | [268130-fantastic-football-fan-party.json](./268130-fantastic-football-fan-party.json) |
+| Fantastic Fortune | 163157 | [163157-fantastic-fortune.json](./163157-fantastic-fortune.json) |
+| Fantastic Fortune 2 | 163158 | [163158-fantastic-fortune-2.json](./163158-fantastic-fortune-2.json) |
 | Fantastic Fortune 2: Triple Star | 220580 | [220580-fantastic-fortune-2-triple-star.json](./220580-fantastic-fortune-2-triple-star.json) |
 | Fantastic Fossils | 62148 | [62148-fantastic-fossils.json](./62148-fantastic-fossils.json) |
 | Fantastic Fossils II | 73161 | [73161-fantastic-fossils-ii.json](./73161-fantastic-fossils-ii.json) |
@@ -6135,6 +6138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flipper Volcano | 138134 | [138134-flipper-volcano.json](./138134-flipper-volcano.json) |
 | Flippets | 321657 | [321657-flippets.json](./321657-flippets.json) |
 | Flippin Misfits | 212809 | [212809-flippin-misfits.json](./212809-flippin-misfits.json) |
+| Flippin Ninjas | 163149 | [163149-flippin-ninjas.json](./163149-flippin-ninjas.json) |
 | Flippin' Phones | 58884 | [58884-flippin-phones.json](./58884-flippin-phones.json) |
 | Flipping Beat | 185976 | [185976-flipping-beat.json](./185976-flipping-beat.json) |
 | Flipping Filip | 104820 | [104820-flipping-filip.json](./104820-flipping-filip.json) |
@@ -10363,6 +10367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Funny Wings VR | 86676 | [86676-funny-wings-vr.json](./86676-funny-wings-vr.json) |
 | Funny words | 103911 | [103911-funny-words.json](./103911-funny-words.json) |
 | Funny Yo | 96901 | [96901-funny-yo.json](./96901-funny-yo.json) |
+| Funny Yo 2 | 163248 | [163248-funny-yo-2.json](./163248-funny-yo-2.json) |
 | FunnyJoy: Brain on Line | 95999 | [95999-funnyjoy-brain-on-line.json](./95999-funnyjoy-brain-on-line.json) |
 | Funocracy | 340725 | [340725-funocracy.json](./340725-funocracy.json) |
 | Funorbit | 415857 | [415857-funorbit.json](./415857-funorbit.json) |
