@@ -804,6 +804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tale of Legends: Densouki | 109404 | [109404-tale-of-legends-densouki.json](./109404-tale-of-legends-densouki.json) |
 | Tale of Memories | 225815 | [225815-tale-of-memories.json](./225815-tale-of-memories.json) |
 | Tale of MoWu | 158111 | [158111-tale-of-mowu.json](./158111-tale-of-mowu.json) |
+| Tale of Ninja: Fall of the Miyoshi | 157456 | [157456-tale-of-ninja-fall-of-the-miyoshi.json](./157456-tale-of-ninja-fall-of-the-miyoshi.json) |
 | Tale of Rainbow 7 | 132607 | [132607-tale-of-rainbow-7.json](./132607-tale-of-rainbow-7.json) |
 | Tale of Ren: Searching for Heart Droplets | 270892 | [270892-tale-of-ren-searching-for-heart-droplets.json](./270892-tale-of-ren-searching-for-heart-droplets.json) |
 | Tale of Ronin | 27750 | [27750-tale-of-ronin.json](./27750-tale-of-ronin.json) |
@@ -886,6 +887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales From Toppletown | 180453 | [180453-tales-from-toppletown.json](./180453-tales-from-toppletown.json) |
 | Tales From Toyotoki: Arrival of the Witch | 206553 | [206553-tales-from-toyotoki-arrival-of-the-witch.json](./206553-tales-from-toyotoki-arrival-of-the-witch.json) |
 | Tales From Windy Meadow | 55114 | [55114-tales-from-windy-meadow.json](./55114-tales-from-windy-meadow.json) |
+| Tales from Zilmurik | 157450 | [157450-tales-from-zilmurik.json](./157450-tales-from-zilmurik.json) |
 | Tales In Text: Multiplayer Immersive Adventures | 388281 | [388281-tales-in-text-multiplayer-immersive-adventures.json](./388281-tales-in-text-multiplayer-immersive-adventures.json) |
 | Tales Noir | 196591 | [196591-tales-noir.json](./196591-tales-noir.json) |
 | Tales of (Working Title) | 131550 | [131550-tales-of-working-title.json](./131550-tales-of-working-title.json) |
@@ -6117,6 +6119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dam Busters | 13566 | [13566-the-dam-busters.json](./13566-the-dam-busters.json) |
 | The Dam Nation | 211135 | [211135-the-dam-nation.json](./211135-the-dam-nation.json) |
 | The Dama | 101503 | [101503-the-dama.json](./101503-the-dama.json) |
+| The Damathos Clan | 157453 | [157453-the-damathos-clan.json](./157453-the-damathos-clan.json) |
 | The Damned Forest | 69200 | [69200-the-damned-forest.json](./69200-the-damned-forest.json) |
 | The Dance of Maple Leaves | 346670 | [346670-the-dance-of-maple-leaves.json](./346670-the-dance-of-maple-leaves.json) |
 | The Dance of the Little Water Drops | 104669 | [104669-the-dance-of-the-little-water-drops.json](./104669-the-dance-of-the-little-water-drops.json) |
@@ -9005,6 +9008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The King of Figthers 99 | 43912 | [43912-the-king-of-figthers-99.json](./43912-the-king-of-figthers-99.json) |
 | The King of Go | 417352 | [417352-the-king-of-go.json](./417352-the-king-of-go.json) |
 | The King of Golf | 228553 | [228553-the-king-of-golf.json](./228553-the-king-of-golf.json) |
+| The King of the Oceans | 157464 | [157464-the-king-of-the-oceans.json](./157464-the-king-of-the-oceans.json) |
 | The King of the Wood | 22368 | [22368-the-king-of-the-wood.json](./22368-the-king-of-the-wood.json) |
 | The King of Tower Defense | 360206 | [360206-the-king-of-tower-defense.json](./360206-the-king-of-tower-defense.json) |
 | The King of Triads | 175211 | [175211-the-king-of-triads.json](./175211-the-king-of-triads.json) |
@@ -14280,6 +14284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Useless App | 322815 | [322815-the-useless-app.json](./322815-the-useless-app.json) |
 | The Usurper: The Mines Of Qyntarr | 15516 | [15516-the-usurper-the-mines-of-qyntarr.json](./15516-the-usurper-the-mines-of-qyntarr.json) |
 | The V Anomaly | 390539 | [390539-the-v-anomaly.json](./390539-the-v-anomaly.json) |
+| The Vagabond Emperor | 157459 | [157459-the-vagabond-emperor.json](./157459-the-vagabond-emperor.json) |
 | The Valiant: Coat of Arms collection | 257533 | [257533-the-valiant-coat-of-arms-collection.json](./257533-the-valiant-coat-of-arms-collection.json) |
 | The Valley | 197584 | [197584-the-valley.json](./197584-the-valley.json) |
 | The Valley | 292068 | [292068-the-valley.json](./292068-the-valley.json) |
@@ -14987,6 +14992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thea Realm Fighters | 270273 | [270273-thea-realm-fighters.json](./270273-thea-realm-fighters.json) |
 | Thea: The Awakening - Return of the Giants | 171334 | [171334-thea-the-awakening-return-of-the-giants.json](./171334-thea-the-awakening-return-of-the-giants.json) |
 | Thearchy | 158929 | [158929-thearchy.json](./158929-thearchy.json) |
+| Theater of Carnage | 157452 | [157452-theater-of-carnage.json](./157452-theater-of-carnage.json) |
 | Theater of Death | 206191 | [206191-theater-of-death.json](./206191-theater-of-death.json) |
 | Theater of the Mind | 366286 | [366286-theater-of-the-mind.json](./366286-theater-of-the-mind.json) |
 | Theatre Europe | 26302 | [26302-theatre-europe.json](./26302-theatre-europe.json) |
@@ -20111,6 +20117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Torture Jam 1 | 308525 | [308525-torture-jam-1.json](./308525-torture-jam-1.json) |
 | Torture the Stickman 2 | 188324 | [188324-torture-the-stickman-2.json](./188324-torture-the-stickman-2.json) |
 | Tortured Souls | 293224 | [293224-tortured-souls.json](./293224-tortured-souls.json) |
+| Toru | 157362 | [157362-toru.json](./157362-toru.json) |
 | Torus | 214725 | [214725-torus.json](./214725-torus.json) |
 | Torus Trooper | 28718 | [28718-torus-trooper.json](./28718-torus-trooper.json) |
 | Torus Zero: Dare ga Neko wo Koroshita ka | 340384 | [340384-torus-zero-dare-ga-neko-wo-koroshita-ka.json](./340384-torus-zero-dare-ga-neko-wo-koroshita-ka.json) |
@@ -23518,6 +23525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasure Star | 247746 | [247746-treasure-star.json](./247746-treasure-star.json) |
 | Treasure Strike | 62110 | [62110-treasure-strike.json](./62110-treasure-strike.json) |
 | Treasure Tech | 140468 | [140468-treasure-tech.json](./140468-treasure-tech.json) |
+| Treasure Tile | 157441 | [157441-treasure-tile.json](./157441-treasure-tile.json) |
 | Treasure Tomb VR | 153375 | [153375-treasure-tomb-vr.json](./153375-treasure-tomb-vr.json) |
 | Treasure Tombs: Ra Deal | 250487 | [250487-treasure-tombs-ra-deal.json](./250487-treasure-tombs-ra-deal.json) |
 | Treasure Train | 239095 | [239095-treasure-train.json](./239095-treasure-train.json) |
