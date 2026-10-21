@@ -24224,6 +24224,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tropico 5: Epic Meltdown | 75687 | [75687-tropico-5-epic-meltdown.json](./75687-tropico-5-epic-meltdown.json) |
 | Tropico 5: Espionage | 53842 | [53842-tropico-5-espionage.json](./53842-tropico-5-espionage.json) |
 | Tropico 5: Gone Green | 155379 | [155379-tropico-5-gone-green.json](./155379-tropico-5-gone-green.json) |
+| Tropico 5: Inquisition | 162074 | [162074-tropico-5-inquisition.json](./162074-tropico-5-inquisition.json) |
+| Tropico 5: Map Pack | 162075 | [162075-tropico-5-map-pack.json](./162075-tropico-5-map-pack.json) |
 | Tropico 5: Paradise Lost | 75686 | [75686-tropico-5-paradise-lost.json](./75686-tropico-5-paradise-lost.json) |
 | Tropico 5: The Big Cheese | 53841 | [53841-tropico-5-the-big-cheese.json](./53841-tropico-5-the-big-cheese.json) |
 | Tropico 5: Waterborne | 53840 | [53840-tropico-5-waterborne.json](./53840-tropico-5-waterborne.json) |
