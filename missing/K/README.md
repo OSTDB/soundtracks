@@ -2078,6 +2078,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Killrun | 145940 | [145940-killrun.json](./145940-killrun.json) |
 | Killsquad | 118600 | [118600-killsquad.json](./118600-killsquad.json) |
 | Killzone 3 | 1867 | [1867-killzone-3.json](./1867-killzone-3.json) |
+| Killzone 3: Collector's Edition | 163151 | [163151-killzone-3-collectors-edition.json](./163151-killzone-3-collectors-edition.json) |
+| Killzone 3: Helghast Edition | 163147 | [163147-killzone-3-helghast-edition.json](./163147-killzone-3-helghast-edition.json) |
 | Killzone HD | 20003 | [20003-killzone-hd.json](./20003-killzone-hd.json) |
 | Killzone Trilogy | 23729 | [23729-killzone-trilogy.json](./23729-killzone-trilogy.json) |
 | Killzone: Collector's Edition | 43422 | [43422-killzone-collectors-edition.json](./43422-killzone-collectors-edition.json) |
@@ -2615,6 +2617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom of Kroz | 73796 | [73796-kingdom-of-kroz.json](./73796-kingdom-of-kroz.json) |
 | Kingdom of Lies | 120102 | [120102-kingdom-of-lies.json](./120102-kingdom-of-lies.json) |
 | Kingdom of Lies | 183804 | [183804-kingdom-of-lies.json](./183804-kingdom-of-lies.json) |
+| Kingdom of Loathing: The Home Game | 163162 | [163162-kingdom-of-loathing-the-home-game.json](./163162-kingdom-of-loathing-the-home-game.json) |
 | Kingdom of Marionettes | 399754 | [399754-kingdom-of-marionettes.json](./399754-kingdom-of-marionettes.json) |
 | Kingdom of Maverta | 181074 | [181074-kingdom-of-maverta.json](./181074-kingdom-of-maverta.json) |
 | Kingdom of Night | 117531 | [117531-kingdom-of-night.json](./117531-kingdom-of-night.json) |
