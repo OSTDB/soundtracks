@@ -1371,6 +1371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Rift | 3468 | [3468-dark-rift.json](./3468-dark-rift.json) |
 | Dark Roast Cafe | 300508 | [300508-dark-roast-cafe.json](./300508-dark-roast-cafe.json) |
 | Dark Roll | 112861 | [112861-dark-roll.json](./112861-dark-roll.json) |
+| Dark Roll: Free Kick Challenge | 157943 | [157943-dark-roll-free-kick-challenge.json](./157943-dark-roll-free-kick-challenge.json) |
 | Dark Romance: Ashville | 139798 | [139798-dark-romance-ashville.json](./139798-dark-romance-ashville.json) |
 | Dark Romance: Curse of Bluebeard - Collector's Edition | 146516 | [146516-dark-romance-curse-of-bluebeard-collectors-edition.json](./146516-dark-romance-curse-of-bluebeard-collectors-edition.json) |
 | Dark Romance: Heart of the Beast HD | 88814 | [88814-dark-romance-heart-of-the-beast-hd.json](./88814-dark-romance-heart-of-the-beast-hd.json) |
@@ -6684,6 +6685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Die Pizzeria | 91542 | [91542-die-pizzeria.json](./91542-die-pizzeria.json) |
 | Die Quelle von Naroth | 356840 | [356840-die-quelle-von-naroth.json](./356840-die-quelle-von-naroth.json) |
 | Die Rache der Sumpfhühner | 402835 | [402835-die-rache-der-sumpfhuhner.json](./402835-die-rache-der-sumpfhuhner.json) |
+| Die Rangliste | 157882 | [157882-die-rangliste.json](./157882-die-rangliste.json) |
 | Die Rave | 245904 | [245904-die-rave.json](./245904-die-rave.json) |
 | Die Reise ins All | 127916 | [127916-die-reise-ins-all.json](./127916-die-reise-ins-all.json) |
 | Die Rowdy | 299766 | [299766-die-rowdy.json](./299766-die-rowdy.json) |
