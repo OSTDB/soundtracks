@@ -8903,6 +8903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poker Academy: Texas Hold 'Em Version | 209349 | [209349-poker-academy-texas-hold-em-version.json](./209349-poker-academy-texas-hold-em-version.json) |
 | Poker Academy: Texas Hold'em 2 | 209350 | [209350-poker-academy-texas-holdem-2.json](./209350-poker-academy-texas-holdem-2.json) |
 | Poker Ball | 68542 | [68542-poker-ball.json](./68542-poker-ball.json) |
+| Poker Champion: Texas Hold'em | 163169 | [163169-poker-champion-texas-holdem.json](./163169-poker-champion-texas-holdem.json) |
 | Poker Chase | 166141 | [166141-poker-chase.json](./166141-poker-chase.json) |
 | Poker Clicker | 341566 | [341566-poker-clicker.json](./341566-poker-clicker.json) |
 | Poker Club | 138204 | [138204-poker-club.json](./138204-poker-club.json) |
@@ -9645,6 +9646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pop Ball | 246360 | [246360-pop-ball.json](./246360-pop-ball.json) |
 | Pop Balloons | 247069 | [247069-pop-balloons.json](./247069-pop-balloons.json) |
 | Pop Battle | 208069 | [208069-pop-battle.json](./208069-pop-battle.json) |
+| Pop Blocks | 163165 | [163165-pop-blocks.json](./163165-pop-blocks.json) |
 | Pop Bowling VR | 207697 | [207697-pop-bowling-vr.json](./207697-pop-bowling-vr.json) |
 | Pop Breaker | 45251 | [45251-pop-breaker.json](./45251-pop-breaker.json) |
 | Pop Corny | 256186 | [256186-pop-corny.json](./256186-pop-corny.json) |
