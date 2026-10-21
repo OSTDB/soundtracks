@@ -2192,6 +2192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legends of Fate | 50857 | [50857-legends-of-fate.json](./50857-legends-of-fate.json) |
 | Legends of Future Past | 65515 | [65515-legends-of-future-past.json](./65515-legends-of-future-past.json) |
 | Legends of Gems | 348010 | [348010-legends-of-gems.json](./348010-legends-of-gems.json) |
+| Legends of Gondwana | 157467 | [157467-legends-of-gondwana.json](./157467-legends-of-gondwana.json) |
 | Legends of Hapax | 199442 | [199442-legends-of-hapax.json](./199442-legends-of-hapax.json) |
 | Legends of Heropolis | 202851 | [202851-legends-of-heropolis.json](./202851-legends-of-heropolis.json) |
 | Legends Of Heropolis DX | 317840 | [317840-legends-of-heropolis-dx.json](./317840-legends-of-heropolis-dx.json) |
@@ -2647,6 +2648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Len'en Ten'eisenki: Brilliant Pagoda or Haze Castle | 125794 | [125794-lenen-teneisenki-brilliant-pagoda-or-haze-castle.json](./125794-lenen-teneisenki-brilliant-pagoda-or-haze-castle.json) |
 | Len's Island | 136594 | [136594-lens-island.json](./136594-lens-island.json) |
 | Lendele | 182744 | [182744-lendele.json](./182744-lendele.json) |
+| Lěngxiě Zhèng Shǎizǐ | 157365 | [157365-lengxie-zheng-shaizi.json](./157365-lengxie-zheng-shaizi.json) |
 | Lenin - The Lion | 99626 | [99626-lenin-the-lion.json](./99626-lenin-the-lion.json) |
 | Lenin Simulator | 195180 | [195180-lenin-simulator.json](./195180-lenin-simulator.json) |
 | Lenin Street Geek Shop | 338685 | [338685-lenin-street-geek-shop.json](./338685-lenin-street-geek-shop.json) |
@@ -3485,6 +3487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life of D. Duck II | 70643 | [70643-life-of-d-duck-ii.json](./70643-life-of-d-duck-ii.json) |
 | Life of Delivery | 392246 | [392246-life-of-delivery.json](./392246-life-of-delivery.json) |
 | Life of Fly 2 | 148321 | [148321-life-of-fly-2.json](./148321-life-of-fly-2.json) |
+| Life of Food | 157368 | [157368-life-of-food.json](./157368-life-of-food.json) |
 | Life of Kanji Island | 303628 | [303628-life-of-kanji-island.json](./303628-life-of-kanji-island.json) |
 | Life of Lon | 36995 | [36995-life-of-lon.json](./36995-life-of-lon.json) |
 | Life of Mellow | 174702 | [174702-life-of-mellow.json](./174702-life-of-mellow.json) |
@@ -6084,6 +6087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Awakening | 212122 | [212122-lost-awakening.json](./212122-lost-awakening.json) |
 | Lost Away | 191571 | [191571-lost-away.json](./191571-lost-away.json) |
 | Lost Balloons: Airy mates | 260878 | [260878-lost-balloons-airy-mates.json](./260878-lost-balloons-airy-mates.json) |
+| Lost Bazaar | 157465 | [157465-lost-bazaar.json](./157465-lost-bazaar.json) |
 | Lost Between | 232914 | [232914-lost-between.json](./232914-lost-between.json) |
 | Lost Beyond | 213542 | [213542-lost-beyond.json](./213542-lost-beyond.json) |
 | Lost Bits | 256702 | [256702-lost-bits.json](./256702-lost-bits.json) |
