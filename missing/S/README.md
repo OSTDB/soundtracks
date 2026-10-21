@@ -7953,6 +7953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Signum Perfectum | 190213 | [190213-signum-perfectum.json](./190213-signum-perfectum.json) |
 | Signus: The Artifact Wars | 70464 | [70464-signus-the-artifact-wars.json](./70464-signus-the-artifact-wars.json) |
 | Signy & Mino: Against All Gods | 301340 | [301340-signy-and-mino-against-all-gods.json](./301340-signy-and-mino-against-all-gods.json) |
+| Sigurat | 161625 | [161625-sigurat.json](./161625-sigurat.json) |
 | Sigurður | 164608 | [164608-sigur-ur.json](./164608-sigur-ur.json) |
 | Siheyuan | 244325 | [244325-siheyuan.json](./244325-siheyuan.json) |
 | Siienaa | 195575 | [195575-siienaa.json](./195575-siienaa.json) |
@@ -14666,6 +14667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Attack | 38573 | [38573-space-attack.json](./38573-space-attack.json) |
 | Space Attack | 66909 | [66909-space-attack.json](./66909-space-attack.json) |
 | Space Avenger: Empire of Nexx | 133185 | [133185-space-avenger-empire-of-nexx.json](./133185-space-avenger-empire-of-nexx.json) |
+| Space Avengers | 161569 | [161569-space-avengers.json](./161569-space-avengers.json) |
 | Space Badminton VR | 29853 | [29853-space-badminton-vr.json](./29853-space-badminton-vr.json) |
 | Space Ball | 86751 | [86751-space-ball.json](./86751-space-ball.json) |
 | Space Ball VR | 258602 | [258602-space-ball-vr.json](./258602-space-ball-vr.json) |
@@ -18548,6 +18550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Prince Dress up game | 184061 | [184061-star-prince-dress-up-game.json](./184061-star-prince-dress-up-game.json) |
 | Star Project | 32068 | [32068-star-project.json](./32068-star-project.json) |
 | Star Prospector | 125178 | [125178-star-prospector.json](./125178-star-prospector.json) |
+| Star Puzzle | 161642 | [161642-star-puzzle.json](./161642-star-puzzle.json) |
 | Star Quest | 249861 | [249861-star-quest.json](./249861-star-quest.json) |
 | Star Quest 1 in the 27th Century | 14511 | [14511-star-quest-1-in-the-27th-century.json](./14511-star-quest-1-in-the-27th-century.json) |
 | Star Quest: TCG | 101702 | [101702-star-quest-tcg.json](./101702-star-quest-tcg.json) |
@@ -23741,6 +23744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Dig Man Deluxe | 339478 | [339478-super-dig-man-deluxe.json](./339478-super-dig-man-deluxe.json) |
 | Super Dino | 220880 | [220880-super-dino.json](./220880-super-dino.json) |
 | Super Dino: Extended Edition | 233907 | [233907-super-dino-extended-edition.json](./233907-super-dino-extended-edition.json) |
+| Super Dirt Racers | 161697 | [161697-super-dirt-racers.json](./161697-super-dirt-racers.json) |
 | Super Disc Soccer | 147462 | [147462-super-disc-soccer.json](./147462-super-disc-soccer.json) |
 | Super Discus | 209446 | [209446-super-discus.json](./209446-super-discus.json) |
 | Super DJ | 233241 | [233241-super-dj.json](./233241-super-dj.json) |
