@@ -622,6 +622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ragdoll Funhouse | 202532 | [202532-ragdoll-funhouse.json](./202532-ragdoll-funhouse.json) |
 | Ragdoll Game | 212170 | [212170-ragdoll-game.json](./212170-ragdoll-game.json) |
 | Ragdoll Kanojo | 174117 | [174117-ragdoll-kanojo.json](./174117-ragdoll-kanojo.json) |
+| Ragdoll Knight | 158911 | [158911-ragdoll-knight.json](./158911-ragdoll-knight.json) |
 | Ragdoll LABS | 204069 | [204069-ragdoll-labs.json](./204069-ragdoll-labs.json) |
 | Ragdoll Laser Battle | 163979 | [163979-ragdoll-laser-battle.json](./163979-ragdoll-laser-battle.json) |
 | Ragdoll Masters | 78684 | [78684-ragdoll-masters.json](./78684-ragdoll-masters.json) |
@@ -1771,6 +1772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ravva and the Phantom Library | 236780 | [236780-ravva-and-the-phantom-library.json](./236780-ravva-and-the-phantom-library.json) |
 | Ravy Davy: Attack on Ambiguity | 373128 | [373128-ravy-davy-attack-on-ambiguity.json](./373128-ravy-davy-attack-on-ambiguity.json) |
 | Raw | 119581 | [119581-raw.json](./119581-raw.json) |
+| Raw April Day | 158912 | [158912-raw-april-day.json](./158912-raw-april-day.json) |
 | Raw Concrete | 369223 | [369223-raw-concrete.json](./369223-raw-concrete.json) |
 | Raw Data/Sprint Vector | 139965 | [139965-raw-data-sprint-vector.json](./139965-raw-data-sprint-vector.json) |
 | Raw Element | 341307 | [341307-raw-element.json](./341307-raw-element.json) |
@@ -3291,6 +3293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Redstream Dispatch | 397059 | [397059-redstream-dispatch.json](./397059-redstream-dispatch.json) |
 | Redsun 2020 | 218948 | [218948-redsun-2020.json](./218948-redsun-2020.json) |
 | Redswood VR | 32103 | [32103-redswood-vr.json](./32103-redswood-vr.json) |
+| Redtape | 158999 | [158999-redtape.json](./158999-redtape.json) |
 | Redtape | 388152 | [388152-redtape.json](./388152-redtape.json) |
 | Redumption | 236419 | [236419-redumption.json](./236419-redumption.json) |
 | Redundancy | 262311 | [262311-redundancy.json](./262311-redundancy.json) |
@@ -3624,6 +3627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reksio i Kretes: Odkop | 227680 | [227680-reksio-i-kretes-odkop.json](./227680-reksio-i-kretes-odkop.json) |
 | Reksio i Kretes: Sermageddon | 327397 | [327397-reksio-i-kretes-sermageddon.json](./327397-reksio-i-kretes-sermageddon.json) |
 | Reksio i Kretes: Tajemnica Trzeciego Wymiaru | 218499 | [218499-reksio-i-kretes-tajemnica-trzeciego-wymiaru.json](./218499-reksio-i-kretes-tajemnica-trzeciego-wymiaru.json) |
+| Reksio i Ortografia | 159004 | [159004-reksio-i-ortografia.json](./159004-reksio-i-ortografia.json) |
 | Reksio i Skarb Piratów | 82039 | [82039-reksio-i-skarb-piratow.json](./82039-reksio-i-skarb-piratow.json) |
 | Reksio: Miasto Sekretów | 146300 | [146300-reksio-miasto-sekretow.json](./146300-reksio-miasto-sekretow.json) |
 | Reksio: Miasto Sekretów - Limited Edition | 146707 | [146707-reksio-miasto-sekretow-limited-edition.json](./146707-reksio-miasto-sekretow-limited-edition.json) |
@@ -3996,6 +4000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Replacement | 182763 | [182763-replacement.json](./182763-replacement.json) |
 | ReplaceR | 251372 | [251372-replacer.json](./251372-replacer.json) |
 | Replanet | 177736 | [177736-replanet.json](./177736-replanet.json) |
+| Replanted | 158992 | [158992-replanted.json](./158992-replanted.json) |
 | Replay | 288037 | [288037-replay.json](./288037-replay.json) |
 | Replay Boys | 259188 | [259188-replay-boys.json](./259188-replay-boys.json) |
 | Replay Value: Second Hand Games | 347748 | [347748-replay-value-second-hand-games.json](./347748-replay-value-second-hand-games.json) |
@@ -6855,6 +6860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robokill | 361334 | [361334-robokill.json](./361334-robokill.json) |
 | Robokill 2: Leviathan Five | 143455 | [143455-robokill-2-leviathan-five.json](./143455-robokill-2-leviathan-five.json) |
 | RoboKong | 137571 | [137571-robokong.json](./137571-robokong.json) |
+| Robolife: Days with Aino | 158976 | [158976-robolife-days-with-aino.json](./158976-robolife-days-with-aino.json) |
 | Robolife2: Nova Duty | 211585 | [211585-robolife2-nova-duty.json](./211585-robolife2-nova-duty.json) |
 | Robolifter | 227850 | [227850-robolifter.json](./227850-robolifter.json) |
 | Roboloop | 295776 | [295776-roboloop.json](./295776-roboloop.json) |
@@ -7749,6 +7755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue of the Seven Seas | 180761 | [180761-rogue-of-the-seven-seas.json](./180761-rogue-of-the-seven-seas.json) |
 | Rogue Operatives | 34712 | [34712-rogue-operatives.json](./34712-rogue-operatives.json) |
 | Rogue Ottoman | 271604 | [271604-rogue-ottoman.json](./271604-rogue-ottoman.json) |
+| Rogue Party 2 | 158909 | [158909-rogue-party-2.json](./158909-rogue-party-2.json) |
 | Rogue Patterns | 382767 | [382767-rogue-patterns.json](./382767-rogue-patterns.json) |
 | Rogue Piñatas: VRmageddon | 319683 | [319683-rogue-pinatas-vrmageddon.json](./319683-rogue-pinatas-vrmageddon.json) |
 | Rogue Pirates | 372646 | [372646-rogue-pirates.json](./372646-rogue-pirates.json) |
