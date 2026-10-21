@@ -4082,6 +4082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gnome Tetravex | 122770 | [122770-gnome-tetravex.json](./122770-gnome-tetravex.json) |
 | Gnome Tournament | 149680 | [149680-gnome-tournament.json](./149680-gnome-tournament.json) |
 | Gnome Valley | 69485 | [69485-gnome-valley.json](./69485-gnome-valley.json) |
+| Gnome: Jigsaw Puzzles | 162211 | [162211-gnome-jigsaw-puzzles.json](./162211-gnome-jigsaw-puzzles.json) |
 | Gnomecart Havoc | 319006 | [319006-gnomecart-havoc.json](./319006-gnomecart-havoc.json) |
 | Gnomedrome | 202575 | [202575-gnomedrome.json](./202575-gnomedrome.json) |
 | Gnomemade | 291895 | [291895-gnomemade.json](./291895-gnomemade.json) |
