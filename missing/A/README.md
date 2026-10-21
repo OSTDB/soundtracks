@@ -2764,7 +2764,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures in the Galaxy of Fantabulous Wonderment | 23739 | [23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json](./23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json) |
 | Adventures in the Light & Dark | 102316 | [102316-adventures-in-the-light-and-dark.json](./102316-adventures-in-the-light-and-dark.json) |
 | Adventures in the Magic Kingdom | 8130 | [8130-adventures-in-the-magic-kingdom.json](./8130-adventures-in-the-magic-kingdom.json) |
-| Adventures In Time & Space | 342233 | [342233-adventures-in-time-and-space.json](./342233-adventures-in-time-and-space.json) |
 | Adventures of a Radish | 134695 | [134695-adventures-of-a-radish.json](./134695-adventures-of-a-radish.json) |
 | Adventures of a Snowboarder | 367720 | [367720-adventures-of-a-snowboarder.json](./367720-adventures-of-a-snowboarder.json) |
 | Adventures of Abrix | 29918 | [29918-adventures-of-abrix.json](./29918-adventures-of-abrix.json) |
@@ -2929,6 +2928,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aerofly FS 2 Flight Simulator | 33736 | [33736-aerofly-fs-2-flight-simulator.json](./33736-aerofly-fs-2-flight-simulator.json) |
 | Aerofly FS 2 Flight Simulator: Just Flight - Cessna 152 | 162744 | [162744-aerofly-fs-2-flight-simulator-just-flight-cessna-152.json](./162744-aerofly-fs-2-flight-simulator-just-flight-cessna-152.json) |
 | Aerofly FS 2 Flight Simulator: Just Flight - Duchess | 162742 | [162742-aerofly-fs-2-flight-simulator-just-flight-duchess.json](./162742-aerofly-fs-2-flight-simulator-just-flight-duchess.json) |
+| Aerofly FS 2 Flight Simulator: Just Flight - Falke SF25 | 162740 | [162740-aerofly-fs-2-flight-simulator-just-flight-falke-sf25.json](./162740-aerofly-fs-2-flight-simulator-just-flight-falke-sf25.json) |
+| Aerofly FS 2 Flight Simulator: Just Flight - Hawk T1/A | 162739 | [162739-aerofly-fs-2-flight-simulator-just-flight-hawk-t1-a.json](./162739-aerofly-fs-2-flight-simulator-just-flight-hawk-t1-a.json) |
+| Aerofly FS 2 Flight Simulator: Just Flight - Tomahawk | 162741 | [162741-aerofly-fs-2-flight-simulator-just-flight-tomahawk.json](./162741-aerofly-fs-2-flight-simulator-just-flight-tomahawk.json) |
 | Aerofly FS 2 Flight Simulator: Just Flight - Turbo Arrow III / IV | 162743 | [162743-aerofly-fs-2-flight-simulator-just-flight-turbo-arrow-iii-iv.json](./162743-aerofly-fs-2-flight-simulator-just-flight-turbo-arrow-iii-iv.json) |
 | Aerofly FS 2 Flight Simulator: Orbx - Chicago Meigs Field | 161723 | [161723-aerofly-fs-2-flight-simulator-orbx-chicago-meigs-field.json](./161723-aerofly-fs-2-flight-simulator-orbx-chicago-meigs-field.json) |
 | Aerofly FS 2 Flight Simulator: Orbx - Eagle County Colorado | 167724 | [167724-aerofly-fs-2-flight-simulator-orbx-eagle-county-colorado.json](./167724-aerofly-fs-2-flight-simulator-orbx-eagle-county-colorado.json) |
