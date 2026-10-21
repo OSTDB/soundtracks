@@ -2754,6 +2754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Newton's Axiom | 178975 | [178975-newtons-axiom.json](./178975-newtons-axiom.json) |
 | Newton's Fourth Law | 328859 | [328859-newtons-fourth-law.json](./328859-newtons-fourth-law.json) |
 | Newton's House of Forces | 163948 | [163948-newtons-house-of-forces.json](./163948-newtons-house-of-forces.json) |
+| Newton's Life at Home: Pixel Art Jigsaw Puzzle | 162219 | [162219-newtons-life-at-home-pixel-art-jigsaw-puzzle.json](./162219-newtons-life-at-home-pixel-art-jigsaw-puzzle.json) |
 | Newton's Promise | 388246 | [388246-newtons-promise.json](./388246-newtons-promise.json) |
 | Newtonian Horror | 184486 | [184486-newtonian-horror.json](./184486-newtonian-horror.json) |
 | Newtonian Inversion | 145260 | [145260-newtonian-inversion.json](./145260-newtonian-inversion.json) |
