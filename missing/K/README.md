@@ -2774,6 +2774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingslayers | 174052 | [174052-kingslayers.json](./174052-kingslayers.json) |
 | Kingslayers | 334935 | [334935-kingslayers.json](./334935-kingslayers.json) |
 | Kingsman: The Golden Circle | 54712 | [54712-kingsman-the-golden-circle.json](./54712-kingsman-the-golden-circle.json) |
+| Kingso | 161634 | [161634-kingso.json](./161634-kingso.json) |
 | Kingspath | 397999 | [397999-kingspath.json](./397999-kingspath.json) |
 | Kingsport Festival | 193685 | [193685-kingsport-festival.json](./193685-kingsport-festival.json) |
 | Kingspray Graffiti | 26358 | [26358-kingspray-graffiti.json](./26358-kingspray-graffiti.json) |
