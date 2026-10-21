@@ -1443,6 +1443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Santa World | 273431 | [273431-santa-world.json](./273431-santa-world.json) |
 | Santa-kun | 231762 | [231762-santa-kun.json](./231762-santa-kun.json) |
 | Santa's Adventure: Christmas Gifts Rush | 329430 | [329430-santas-adventure-christmas-gifts-rush.json](./329430-santas-adventure-christmas-gifts-rush.json) |
+| Santa's Bad Elf | 161716 | [161716-santas-bad-elf.json](./161716-santas-bad-elf.json) |
 | Santa's Big Adventures | 30075 | [30075-santas-big-adventures.json](./30075-santas-big-adventures.json) |
 | Santa's Big Sack | 380442 | [380442-santas-big-sack.json](./380442-santas-big-sack.json) |
 | Santa's Burnout | 390223 | [390223-santas-burnout.json](./390223-santas-burnout.json) |
@@ -13499,7 +13500,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Quickshot | 370268 | [370268-sonic-quickshot.json](./370268-sonic-quickshot.json) |
 | Sonic QWERTY | 266511 | [266511-sonic-qwerty.json](./266511-sonic-qwerty.json) |
 | Sonic QZV | 331761 | [331761-sonic-qzv.json](./331761-sonic-qzv.json) |
-| Sonic R | 202757 | [202757-sonic-r.json](./202757-sonic-r.json) |
 | Sonic R Characters: Metal Knuckles & Tails Doll | 242033 | [242033-sonic-r-characters-metal-knuckles-and-tails-doll.json](./242033-sonic-r-characters-metal-knuckles-and-tails-doll.json) |
 | Sonic R Mania | 401296 | [401296-sonic-r-mania.json](./401296-sonic-r-mania.json) |
 | Sonic R/Sonic 3D | 210307 | [210307-sonic-r-sonic-3d.json](./210307-sonic-r-sonic-3d.json) |
@@ -14324,7 +14324,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soulbound Roguelike | 348115 | [348115-soulbound-roguelike.json](./348115-soulbound-roguelike.json) |
 | Soulbound Steel | 159791 | [159791-soulbound-steel.json](./159791-soulbound-steel.json) |
 | Soulbringer | 9281 | [9281-soulbringer.json](./9281-soulbringer.json) |
-| SoulCalibur II | 227986 | [227986-soulcalibur-ii.json](./227986-soulcalibur-ii.json) |
 | Soulcalibur II Plus | 384776 | [384776-soulcalibur-ii-plus.json](./384776-soulcalibur-ii-plus.json) |
 | SoulCalibur II: Recompiled | 415181 | [415181-soulcalibur-ii-recompiled.json](./415181-soulcalibur-ii-recompiled.json) |
 | SoulCalibur III | 370000 | [370000-soulcalibur-iii.json](./370000-soulcalibur-iii.json) |
@@ -20029,7 +20028,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steamworld Essentials Collection | 380702 | [380702-steamworld-essentials-collection.json](./380702-steamworld-essentials-collection.json) |
 | SteamWorld Heist | 15167 | [15167-steamworld-heist.json](./15167-steamworld-heist.json) |
 | SteamWorld Heist Complete Bundle | 308627 | [308627-steamworld-heist-complete-bundle.json](./308627-steamworld-heist-complete-bundle.json) |
-| SteamWorld Heist II | 298315 | [298315-steamworld-heist-ii.json](./298315-steamworld-heist-ii.json) |
 | SteamWorld Heist II & SteamWorld Build Bundle | 328483 | [328483-steamworld-heist-ii-and-steamworld-build-bundle.json](./328483-steamworld-heist-ii-and-steamworld-build-bundle.json) |
 | SteamWorld Heist: Ultimate Edition | 77648 | [77648-steamworld-heist-ultimate-edition.json](./77648-steamworld-heist-ultimate-edition.json) |
 | Steamwrecked | 387023 | [387023-steamwrecked.json](./387023-steamwrecked.json) |
@@ -23976,6 +23974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super High School Sports Day Crankathlon | 230724 | [230724-super-high-school-sports-day-crankathlon.json](./230724-super-high-school-sports-day-crankathlon.json) |
 | Super High-Way | 172649 | [172649-super-high-way.json](./172649-super-high-way.json) |
 | Super Hiking Simulator 2020: After | 172117 | [172117-super-hiking-simulator-2020-after.json](./172117-super-hiking-simulator-2020-after.json) |
+| Super Hiking Simulator 2020: Escort Rin | 161715 | [161715-super-hiking-simulator-2020-escort-rin.json](./161715-super-hiking-simulator-2020-escort-rin.json) |
 | Super Hiking Simulator 2020: Puzzles | 163422 | [163422-super-hiking-simulator-2020-puzzles.json](./163422-super-hiking-simulator-2020-puzzles.json) |
 | Super Hind | 44475 | [44475-super-hind.json](./44475-super-hind.json) |
 | Super Hipster Lumberjack | 34800 | [34800-super-hipster-lumberjack.json](./34800-super-hipster-lumberjack.json) |
