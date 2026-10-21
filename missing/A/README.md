@@ -153,6 +153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Completely Normal Dating Simulation That Is Definitely Completely Sweet, Innnocent and Normal: Somethingeth Aniversary Edition | 368246 | [368246-a-completely-normal-dating-simulation-that-is-definitely-completely-sweet-innnocent-and-normal-somethingeth-aniversary-edition.json](./368246-a-completely-normal-dating-simulation-that-is-definitely-completely-sweet-innnocent-and-normal-somethingeth-aniversary-edition.json) |
 | A Completely Normal Dating Simulation That is Definitely Completely Sweet, Innocent and Normal | 135015 | [135015-a-completely-normal-dating-simulation-that-is-definitely-completely-sweet-innocent-and-normal.json](./135015-a-completely-normal-dating-simulation-that-is-definitely-completely-sweet-innocent-and-normal.json) |
 | A Conscious Decision | 249637 | [249637-a-conscious-decision.json](./249637-a-conscious-decision.json) |
+| A Conversation With Mister Rabbit | 156961 | [156961-a-conversation-with-mister-rabbit.json](./156961-a-conversation-with-mister-rabbit.json) |
 | A Cop Chase | 240873 | [240873-a-cop-chase.json](./240873-a-cop-chase.json) |
 | A Cosmic Forest | 145672 | [145672-a-cosmic-forest.json](./145672-a-cosmic-forest.json) |
 | A Courtesan of Rome | 313819 | [313819-a-courtesan-of-rome.json](./313819-a-courtesan-of-rome.json) |
@@ -1166,6 +1167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A-Ressha de Ikou: The 21st Century | 9999 | [9999-a-ressha-de-ikou-the-21st-century.json](./9999-a-ressha-de-ikou-the-21st-century.json) |
 | A-Ressha de Ikou: The 21st Century - Perfect Set | 272679 | [272679-a-ressha-de-ikou-the-21st-century-perfect-set.json](./272679-a-ressha-de-ikou-the-21st-century-perfect-set.json) |
 | A-Sock-Ellipse Now! | 70077 | [70077-a-sock-ellipse-now.json](./70077-a-sock-ellipse-now.json) |
+| A-Star Theft | 156956 | [156956-a-star-theft.json](./156956-a-star-theft.json) |
 | A-Tech Cybernetic | 29806 | [29806-a-tech-cybernetic.json](./29806-a-tech-cybernetic.json) |
 | A-Train | 285142 | [285142-a-train.json](./285142-a-train.json) |
 | A-Train | 285143 | [285143-a-train.json](./285143-a-train.json) |
@@ -2248,6 +2250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ad Wars | 96242 | [96242-ad-wars.json](./96242-ad-wars.json) |
 | AD&D Dark Sun Online: Crimson Sands | 71724 | [71724-ad-and-d-dark-sun-online-crimson-sands.json](./71724-ad-and-d-dark-sun-online-crimson-sands.json) |
 | Ada Towers | 83493 | [83493-ada-towers.json](./83493-ada-towers.json) |
+| ADA: Além d' Aventura | 156950 | [156950-ada-alem-d-aventura.json](./156950-ada-alem-d-aventura.json) |
 | ADAC: The Simulation | 76623 | [76623-adac-the-simulation.json](./76623-adac-the-simulation.json) |
 | Adaca | 197542 | [197542-adaca.json](./197542-adaca.json) |
 | Adachi Ballin' | 412453 | [412453-adachi-ballin.json](./412453-adachi-ballin.json) |
