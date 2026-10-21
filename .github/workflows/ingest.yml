@@ -20,15 +20,27 @@ jobs:
     if: github.actor != 'ostdbbot' || startsWith(github.event.head_commit.message, 'Merge pull request')
     runs-on: ubuntu-latest
     steps:
+      # The repository has 200k+ commits and 250k+ placeholder files, so a full
+      # clone took ~50 minutes per merge. Fetch only this push (HEAD and its
+      # parents), no file contents up front, and no working tree beyond
+      # .github; the changed submission files are added below.
       - uses: actions/checkout@v4
         with:
-          fetch-depth: 0
+          fetch-depth: 2
+          filter: blob:none
+          sparse-checkout: .github
+          sparse-checkout-cone-mode: false
 
       - name: Find changed submission files
         id: files
         env:
           BEFORE_SHA: ${{ github.event.before }}
         run: |
+          # A merge's "before" is its first parent, already fetched. A push of
+          # several commits needs the old tip fetched on its own.
+          if ! git cat-file -e "$BEFORE_SHA" 2>/dev/null; then
+            git fetch --quiet --no-tags --depth=1 --filter=blob:none origin "$BEFORE_SHA" 2>/dev/null || true
+          fi
           if git cat-file -e "$BEFORE_SHA" 2>/dev/null; then
             BASE="$BEFORE_SHA"
           else
@@ -44,6 +56,11 @@ jobs:
           if [ "$COUNT" -gt "$MAX_FILES" ]; then
             echo "::error::$COUNT submission files changed in one push (max $MAX_FILES). Split this into smaller pushes/PRs."
             exit 1
+          fi
+
+          # Put just these files into the sparse working tree.
+          if [ -n "$FILES" ]; then
+            printf '%s\n' "$FILES" | sed 's#^#/#' | git sparse-checkout add --stdin
           fi
 
           echo "files<<EOF" >> "$GITHUB_OUTPUT"
@@ -124,7 +141,8 @@ jobs:
             for attempt in 1 2 3 4 5; do
               if git push; then exit 0; fi
               sleep $((attempt * 5))
-              git pull --rebase --quiet origin main
+              git fetch --quiet --no-tags --deepen=50 --filter=blob:none origin main
+              git rebase --quiet origin/main
             done
             echo "::warning::Could not remove processed files (main kept moving). They were ingested; the worker cleans up missing/ placeholders on its next sync."
           fi
