@@ -6110,6 +6110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil World | 55212 | [55212-devil-world.json](./55212-devil-world.json) |
 | Devil Zone | 300401 | [300401-devil-zone.json](./300401-devil-zone.json) |
 | Devil_catching_bees | 119012 | [119012-devil-catching-bees.json](./119012-devil-catching-bees.json) |
+| Devil, It's Me | 161714 | [161714-devil-its-me.json](./161714-devil-its-me.json) |
 | Devil's 5 Days: Mischief Game | 232558 | [232558-devils-5-days-mischief-game.json](./232558-devils-5-days-mischief-game.json) |
 | Devil's Academy DxD | 386251 | [386251-devils-academy-dxd.json](./386251-devils-academy-dxd.json) |
 | Devil's Advocate: Alexander Twist | 224581 | [224581-devils-advocate-alexander-twist.json](./224581-devils-advocate-alexander-twist.json) |
@@ -7752,7 +7753,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disillusioned | 401040 | [401040-disillusioned.json](./401040-disillusioned.json) |
 | Disillusioned Reunion | 393607 | [393607-disillusioned-reunion.json](./393607-disillusioned-reunion.json) |
 | Disillusions Manga Horror | 9825 | [9825-disillusions-manga-horror.json](./9825-disillusions-manga-horror.json) |
-| Disintegration | 120625 | [120625-disintegration.json](./120625-disintegration.json) |
 | Disintegration | 243254 | [243254-disintegration.json](./243254-disintegration.json) |
 | Disintegration | 259396 | [259396-disintegration.json](./259396-disintegration.json) |
 | Disjoined | 410204 | [410204-disjoined.json](./410204-disjoined.json) |
