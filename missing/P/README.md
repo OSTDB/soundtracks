@@ -602,6 +602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Painted In Blood | 303709 | [303709-painted-in-blood.json](./303709-painted-in-blood.json) |
 | Painted Kingdoms | 392796 | [392796-painted-kingdoms.json](./392796-painted-kingdoms.json) |
 | Painted Legend | 31896 | [31896-painted-legend.json](./31896-painted-legend.json) |
+| Painted Legend 2 | 160053 | [160053-painted-legend-2.json](./160053-painted-legend-2.json) |
 | Painted Memories | 30752 | [30752-painted-memories.json](./30752-painted-memories.json) |
 | Painted Red | 56883 | [56883-painted-red.json](./56883-painted-red.json) |
 | Painted Tomb | 125925 | [125925-painted-tomb.json](./125925-painted-tomb.json) |
@@ -620,6 +621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Painting Werther | 156725 | [156725-painting-werther.json](./156725-painting-werther.json) |
 | Painting With Tito | 89803 | [89803-painting-with-tito.json](./89803-painting-with-tito.json) |
 | Painting Workshop | 85327 | [85327-painting-workshop.json](./85327-painting-workshop.json) |
+| Paintings Jigsaw Puzzles | 160112 | [160112-paintings-jigsaw-puzzles.json](./160112-paintings-jigsaw-puzzles.json) |
 | Paintings Restoration | 329576 | [329576-paintings-restoration.json](./329576-paintings-restoration.json) |
 | PaintPool | 334754 | [334754-paintpool.json](./334754-paintpool.json) |
 | Painturio | 188609 | [188609-painturio.json](./188609-painturio.json) |
@@ -682,6 +684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pakoombo | 201792 | [201792-pakoombo.json](./201792-pakoombo.json) |
 | Pakpok | 181214 | [181214-pakpok.json](./181214-pakpok.json) |
 | Paku Paku | 282047 | [282047-paku-paku.json](./282047-paku-paku.json) |
+| Pakucchauzo! | 160188 | [160188-pakucchauzo.json](./160188-pakucchauzo.json) |
 | Pal Go | 343831 | [343831-pal-go.json](./343831-pal-go.json) |
 | Pal Pachinko | 390593 | [390593-pal-pachinko.json](./390593-pal-pachinko.json) |
 | Pal-Mon | 393801 | [393801-pal-mon.json](./393801-pal-mon.json) |
@@ -701,6 +704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paladin Dream | 154995 | [154995-paladin-dream.json](./154995-paladin-dream.json) |
 | Paladin Duty: Knights and Blades | 89393 | [89393-paladin-duty-knights-and-blades.json](./89393-paladin-duty-knights-and-blades.json) |
 | Paladin II | 70354 | [70354-paladin-ii.json](./70354-paladin-ii.json) |
+| Paladin Lias | 160113 | [160113-paladin-lias.json](./160113-paladin-lias.json) |
 | Paladin Quest Disk: The Scrolls of Talmouth | 70284 | [70284-paladin-quest-disk-the-scrolls-of-talmouth.json](./70284-paladin-quest-disk-the-scrolls-of-talmouth.json) |
 | Paladin's Lance | 164925 | [164925-paladins-lance.json](./164925-paladins-lance.json) |
 | Paladin's Legacy | 356866 | [356866-paladins-legacy.json](./356866-paladins-legacy.json) |
@@ -8189,6 +8193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poison Heart | 308242 | [308242-poison-heart.json](./308242-poison-heart.json) |
 | Poison Selection | 394551 | [394551-poison-selection.json](./394551-poison-selection.json) |
 | Poisoner | 110532 | [110532-poisoner.json](./110532-poisoner.json) |
+| Pòjìng Kǒngjù | 160187 | [160187-pojing-kongju.json](./160187-pojing-kongju.json) |
 | Pok The Little Artiste | 279557 | [279557-pok-the-little-artiste.json](./279557-pok-the-little-artiste.json) |
 | Poka-poka Mama Koi Onsen: Mommy's Warm Hot Sprint | 288432 | [288432-poka-poka-mama-koi-onsen-mommys-warm-hot-sprint.json](./288432-poka-poka-mama-koi-onsen-mommys-warm-hot-sprint.json) |
 | Pokaboo | 197851 | [197851-pokaboo.json](./197851-pokaboo.json) |
@@ -10645,6 +10650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pranksterz: From Russia With Love | 23195 | [23195-pranksterz-from-russia-with-love.json](./23195-pranksterz-from-russia-with-love.json) |
 | Pratfall | 382522 | [382522-pratfall.json](./382522-pratfall.json) |
 | Prawngeon | 266234 | [266234-prawngeon.json](./266234-prawngeon.json) |
+| Pray and Spray | 160120 | [160120-pray-and-spray.json](./160120-pray-and-spray.json) |
 | Pray for Death | 47104 | [47104-pray-for-death.json](./47104-pray-for-death.json) |
 | Pray Game | 167306 | [167306-pray-game.json](./167306-pray-game.json) |
 | Pray or Die: Tactical Defense | 373114 | [373114-pray-or-die-tactical-defense.json](./373114-pray-or-die-tactical-defense.json) |
@@ -12176,6 +12182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Green Beat | 36017 | [36017-project-green-beat.json](./36017-project-green-beat.json) |
 | Project Guard | 84805 | [84805-project-guard.json](./84805-project-guard.json) |
 | Project Gunship | 202549 | [202549-project-gunship.json](./202549-project-gunship.json) |
+| Project H | 158393 | [158393-project-h.json](./158393-project-h.json) |
 | Project H.A.Z.A.R.D | 216218 | [216218-project-h-a-z-a-r-d.json](./216218-project-h-a-z-a-r-d.json) |
 | Project Hacker | 72954 | [72954-project-hacker.json](./72954-project-hacker.json) |
 | Project Hacker: Kakusei | 139127 | [139127-project-hacker-kakusei.json](./139127-project-hacker-kakusei.json) |
@@ -13334,6 +13341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pumpkin Death Garden | 110936 | [110936-pumpkin-death-garden.json](./110936-pumpkin-death-garden.json) |
 | Pumpkin Delivery | 242234 | [242234-pumpkin-delivery.json](./242234-pumpkin-delivery.json) |
 | Pumpkin Dog Islands | 119664 | [119664-pumpkin-dog-islands.json](./119664-pumpkin-dog-islands.json) |
+| Pumpkin Dog Xtreme | 160119 | [160119-pumpkin-dog-xtreme.json](./160119-pumpkin-dog-xtreme.json) |
 | Pumpkin Farmer | 158177 | [158177-pumpkin-farmer.json](./158177-pumpkin-farmer.json) |
 | Pumpkin Game | 272744 | [272744-pumpkin-game.json](./272744-pumpkin-game.json) |
 | Pumpkin Ghost | 272269 | [272269-pumpkin-ghost.json](./272269-pumpkin-ghost.json) |
