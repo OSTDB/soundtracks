@@ -1206,6 +1206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper Department | 374156 | [374156-paper-department.json](./374156-paper-department.json) |
 | Paper Depths | 367489 | [367489-paper-depths.json](./367489-paper-depths.json) |
 | Paper Dolls | 99053 | [99053-paper-dolls.json](./99053-paper-dolls.json) |
+| Paper Dolls 2 | 156935 | [156935-paper-dolls-2.json](./156935-paper-dolls-2.json) |
 | Paper Dolls 2: Escape | 170424 | [170424-paper-dolls-2-escape.json](./170424-paper-dolls-2-escape.json) |
 | Paper Dolls Original | 116732 | [116732-paper-dolls-original.json](./116732-paper-dolls-original.json) |
 | Paper Dominoes | 251486 | [251486-paper-dominoes.json](./251486-paper-dominoes.json) |
@@ -7546,6 +7547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Player Manager 98/99 | 43765 | [43765-player-manager-98-99.json](./43765-player-manager-98-99.json) |
 | Player Non Player | 223367 | [223367-player-non-player.json](./223367-player-non-player.json) |
 | Player of the Year | 404852 | [404852-player-of-the-year.json](./404852-player-of-the-year.json) |
+| Player Power | 156938 | [156938-player-power.json](./156938-player-power.json) |
 | Player's Eleven | 129230 | [129230-players-eleven.json](./129230-players-eleven.json) |
 | PlayerONeGame | 90357 | [90357-playeronegame.json](./90357-playeronegame.json) |
 | Playerunkn1wn: Friendly Fire | 80912 | [80912-playerunkn1wn-friendly-fire.json](./80912-playerunkn1wn-friendly-fire.json) |
@@ -9369,6 +9371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polygon Survival | 269111 | [269111-polygon-survival.json](./269111-polygon-survival.json) |
 | Polygon War | 406163 | [406163-polygon-war.json](./406163-polygon-war.json) |
 | Polygon Wars | 331730 | [331730-polygon-wars.json](./331730-polygon-wars.json) |
+| Polygon World VR | 156957 | [156957-polygon-world-vr.json](./156957-polygon-world-vr.json) |
 | Polygonal Passage | 298103 | [298103-polygonal-passage.json](./298103-polygonal-passage.json) |
 | Polygonauts | 25785 | [25785-polygonauts.json](./25785-polygonauts.json) |
 | Polygone | 108044 | [108044-polygone.json](./108044-polygone.json) |
