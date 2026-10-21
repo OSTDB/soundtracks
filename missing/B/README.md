@@ -3083,6 +3083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Royal: Battlegrounds Call | 328569 | [328569-battle-royal-battlegrounds-call.json](./328569-battle-royal-battlegrounds-call.json) |
 | Battle Royale | 8938 | [8938-battle-royale.json](./8938-battle-royale.json) |
 | Battle Royale : Survival.io Zombie | 100800 | [100800-battle-royale-survival-io-zombie.json](./100800-battle-royale-survival-io-zombie.json) |
+| Battle Royale Craft | 156954 | [156954-battle-royale-craft.json](./156954-battle-royale-craft.json) |
 | Battle Royale Manager | 365253 | [365253-battle-royale-manager.json](./365253-battle-royale-manager.json) |
 | Battle Royale Run | 234478 | [234478-battle-royale-run.json](./234478-battle-royale-run.json) |
 | Battle Royale Survival | 107811 | [107811-battle-royale-survival.json](./107811-battle-royale-survival.json) |
@@ -13026,6 +13027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Build Cars with Edward and Arthur | 197186 | [197186-build-cars-with-edward-and-arthur.json](./197186-build-cars-with-edward-and-arthur.json) |
 | Build City | 91553 | [91553-build-city.json](./91553-build-city.json) |
 | Build Craft 2: Survival & Exploration | 99706 | [99706-build-craft-2-survival-and-exploration.json](./99706-build-craft-2-survival-and-exploration.json) |
+| Build Em' Faster | 156928 | [156928-build-em-faster.json](./156928-build-em-faster.json) |
 | Build For Sale Simulator | 273377 | [273377-build-for-sale-simulator.json](./273377-build-for-sale-simulator.json) |
 | Build If You Can | 23978 | [23978-build-if-you-can.json](./23978-build-if-you-can.json) |
 | Build It | 108620 | [108620-build-it.json](./108620-build-it.json) |
