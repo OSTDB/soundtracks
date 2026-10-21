@@ -2504,6 +2504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Upload Labs | 366875 | [366875-upload-labs.json](./366875-upload-labs.json) |
 | Upload Simulator | 215676 | [215676-upload-simulator.json](./215676-upload-simulator.json) |
 | Upload Simulator Silicon | 315282 | [315282-upload-simulator-silicon.json](./315282-upload-simulator-silicon.json) |
+| Uploaded | 157960 | [157960-uploaded.json](./157960-uploaded.json) |
 | Upon A Darkening Flood | 367593 | [367593-upon-a-darkening-flood.json](./367593-upon-a-darkening-flood.json) |
 | Upon the Dream's End | 370006 | [370006-upon-the-dreams-end.json](./370006-upon-the-dreams-end.json) |
 | Upon the Eldritch Planet | 261750 | [261750-upon-the-eldritch-planet.json](./261750-upon-the-eldritch-planet.json) |
