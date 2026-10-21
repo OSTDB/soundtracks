@@ -184,6 +184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baby Coyote | 157912 | [157912-baby-coyote.json](./157912-baby-coyote.json) |
 | Baby Dino | 283970 | [283970-baby-dino.json](./283970-baby-dino.json) |
 | Baby Dino Adventures | 137893 | [137893-baby-dino-adventures.json](./137893-baby-dino-adventures.json) |
+| Baby Dragon Rancher | 160111 | [160111-baby-dragon-rancher.json](./160111-baby-dragon-rancher.json) |
 | Baby Eater | 26127 | [26127-baby-eater.json](./26127-baby-eater.json) |
 | Baby Einstein: Baby Newton Fun With Shapes | 165372 | [165372-baby-einstein-baby-newton-fun-with-shapes.json](./165372-baby-einstein-baby-newton-fun-with-shapes.json) |
 | Baby Escape | 400220 | [400220-baby-escape.json](./400220-baby-escape.json) |
@@ -4352,6 +4353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beautiful Warrior Hibiki's Captive Violation Days | 82828 | [82828-beautiful-warrior-hibikis-captive-violation-days.json](./82828-beautiful-warrior-hibikis-captive-violation-days.json) |
 | Beautify Day | 117606 | [117606-beautify-day.json](./117606-beautify-day.json) |
 | Beauty Academy | 84781 | [84781-beauty-academy.json](./84781-beauty-academy.json) |
+| Beauty Agent | 160123 | [160123-beauty-agent.json](./160123-beauty-agent.json) |
 | Beauty and the Beast | 105383 | [105383-beauty-and-the-beast.json](./105383-beauty-and-the-beast.json) |
 | Beauty and the Beast | 211430 | [211430-beauty-and-the-beast.json](./211430-beauty-and-the-beast.json) |
 | Beauty and the Beast | 292649 | [292649-beauty-and-the-beast.json](./292649-beauty-and-the-beast.json) |
@@ -5464,6 +5466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond the Sky | 110748 | [110748-beyond-the-sky.json](./110748-beyond-the-sky.json) |
 | Beyond the Space Wall | 348662 | [348662-beyond-the-space-wall.json](./348662-beyond-the-space-wall.json) |
 | Beyond the Stars VR | 119721 | [119721-beyond-the-stars-vr.json](./119721-beyond-the-stars-vr.json) |
+| Beyond the Storm | 159001 | [159001-beyond-the-storm.json](./159001-beyond-the-storm.json) |
 | Beyond the Sunset | 68671 | [68671-beyond-the-sunset.json](./68671-beyond-the-sunset.json) |
 | Beyond The Tales | 336653 | [336653-beyond-the-tales.json](./336653-beyond-the-tales.json) |
 | Beyond the Thaw | 170433 | [170433-beyond-the-thaw.json](./170433-beyond-the-thaw.json) |
@@ -8536,6 +8539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood Under the Bridge | 202263 | [202263-blood-under-the-bridge.json](./202263-blood-under-the-bridge.json) |
 | Blood Vessel | 284017 | [284017-blood-vessel.json](./284017-blood-vessel.json) |
 | Blood Void Mass | 146237 | [146237-blood-void-mass.json](./146237-blood-void-mass.json) |
+| Blood War | 160109 | [160109-blood-war.json](./160109-blood-war.json) |
 | Blood Warrior | 39559 | [39559-blood-warrior.json](./39559-blood-warrior.json) |
 | Blood Waves | 75720 | [75720-blood-waves.json](./75720-blood-waves.json) |
 | Blood Welkin | 406298 | [406298-blood-welkin.json](./406298-blood-welkin.json) |
@@ -9376,6 +9380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boeboeks: De Tocht Naar Opa Kakadoris | 334233 | [334233-boeboeks-de-tocht-naar-opa-kakadoris.json](./334233-boeboeks-de-tocht-naar-opa-kakadoris.json) |
 | Boeckham's Football Manager | 337456 | [337456-boeckhams-football-manager.json](./337456-boeckhams-football-manager.json) |
 | Boet Fighter | 120999 | [120999-boet-fighter.json](./120999-boet-fighter.json) |
+| BoF1LL: A Withering World | 159007 | [159007-bof1ll-a-withering-world.json](./159007-bof1ll-a-withering-world.json) |
 | Boffin | 15682 | [15682-boffin.json](./15682-boffin.json) |
 | Boffin 2 | 261891 | [261891-boffin-2.json](./261891-boffin-2.json) |
 | Boffo's Breakfast | 367619 | [367619-boffos-breakfast.json](./367619-boffos-breakfast.json) |
@@ -11296,6 +11301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brave Glin in Fairyaria | 291830 | [291830-brave-glin-in-fairyaria.json](./291830-brave-glin-in-fairyaria.json) |
 | Brave Hand | 81690 | [81690-brave-hand.json](./81690-brave-hand.json) |
 | Brave Heart | 246317 | [246317-brave-heart.json](./246317-brave-heart.json) |
+| Brave Hero | 160190 | [160190-brave-hero.json](./160190-brave-hero.json) |
 | Brave Hero | 295271 | [295271-brave-hero.json](./295271-brave-hero.json) |
 | Brave Hero Yuusha EX | 111639 | [111639-brave-hero-yuusha-ex.json](./111639-brave-hero-yuusha-ex.json) |
 | Brave Hero: Puzzle Dungeon Card | 285370 | [285370-brave-hero-puzzle-dungeon-card.json](./285370-brave-hero-puzzle-dungeon-card.json) |
@@ -11349,6 +11355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bravely Default: Flying Fairy - HD Remaster | 338083 | [338083-bravely-default-flying-fairy-hd-remaster.json](./338083-bravely-default-flying-fairy-hd-remaster.json) |
 | Bravely Default: Flying Fairy Collector's Pack | 89878 | [89878-bravely-default-flying-fairy-collectors-pack.json](./89878-bravely-default-flying-fairy-collectors-pack.json) |
 | BraverBots | 233032 | [233032-braverbots.json](./233032-braverbots.json) |
+| Bravers | 158915 | [158915-bravers.json](./158915-bravers.json) |
 | Bravery | 211141 | [211141-bravery.json](./211141-bravery.json) |
 | Bravery | 391078 | [391078-bravery.json](./391078-bravery.json) |
 | Bravery and Greed | 143577 | [143577-bravery-and-greed.json](./143577-bravery-and-greed.json) |
