@@ -3395,7 +3395,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello Kitty Food Town | 249481 | [249481-hello-kitty-food-town.json](./249481-hello-kitty-food-town.json) |
 | Hello Kitty Friends | 186743 | [186743-hello-kitty-friends.json](./186743-hello-kitty-friends.json) |
 | Hello Kitty Happy Town | 96208 | [96208-hello-kitty-happy-town.json](./96208-hello-kitty-happy-town.json) |
-| Hello Kitty Island Adventure | 254871 | [254871-hello-kitty-island-adventure.json](./254871-hello-kitty-island-adventure.json) |
 | Hello Kitty Island Adventure: Deluxe Edition | 330200 | [330200-hello-kitty-island-adventure-deluxe-edition.json](./330200-hello-kitty-island-adventure-deluxe-edition.json) |
 | Hello Kitty Jewel Town | 279607 | [279607-hello-kitty-jewel-town.json](./279607-hello-kitty-jewel-town.json) |
 | Hello Kitty Kruisers with Sanrio Friends | 62781 | [62781-hello-kitty-kruisers-with-sanrio-friends.json](./62781-hello-kitty-kruisers-with-sanrio-friends.json) |
