@@ -1857,6 +1857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Watch Your Back | 203838 | [203838-watch-your-back.json](./203838-watch-your-back.json) |
 | Watch Your Eggs! | 311726 | [311726-watch-your-eggs.json](./311726-watch-your-eggs.json) |
 | Watch Your Eggs! VR | 282245 | [282245-watch-your-eggs-vr.json](./282245-watch-your-eggs-vr.json) |
+| Watch Your Helmet | 156952 | [156952-watch-your-helmet.json](./156952-watch-your-helmet.json) |
 | Watch Your Nightmares | 271156 | [271156-watch-your-nightmares.json](./271156-watch-your-nightmares.json) |
 | Watch Your Plastic Duck | 218659 | [218659-watch-your-plastic-duck.json](./218659-watch-your-plastic-duck.json) |
 | Watch_Dogs 1985 | 179119 | [179119-watch-dogs-1985.json](./179119-watch-dogs-1985.json) |
@@ -3715,6 +3716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Who is the Killer: Episode II | 89086 | [89086-who-is-the-killer-episode-ii.json](./89086-who-is-the-killer-episode-ii.json) |
 | Who is the Killer: Episode III | 104444 | [104444-who-is-the-killer-episode-iii.json](./104444-who-is-the-killer-episode-iii.json) |
 | Who Is The Killer: Episode IV | 304356 | [304356-who-is-the-killer-episode-iv.json](./304356-who-is-the-killer-episode-iv.json) |
+| Who is the Liar? | 156929 | [156929-who-is-the-liar.json](./156929-who-is-the-liar.json) |
 | Who is the New Maid? | 246076 | [246076-who-is-the-new-maid.json](./246076-who-is-the-new-maid.json) |
 | Who is There? | 221761 | [221761-who-is-there.json](./221761-who-is-there.json) |
 | Who Is This Man | 113570 | [113570-who-is-this-man.json](./113570-who-is-this-man.json) |
