@@ -3874,6 +3874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aimbeast | 124750 | [124750-aimbeast.json](./124750-aimbeast.json) |
 | Aimcademy | 273364 | [273364-aimcademy.json](./273364-aimcademy.json) |
 | Aimee's Cafe | 266520 | [266520-aimees-cafe.json](./266520-aimees-cafe.json) |
+| Aimi | 157948 | [157948-aimi.json](./157948-aimi.json) |
 | AimJJang | 379517 | [379517-aimjjang.json](./379517-aimjjang.json) |
 | Aimlabs | 67902 | [67902-aimlabs.json](./67902-aimlabs.json) |
 | Aimlabs: Elite Edition | 308587 | [308587-aimlabs-elite-edition.json](./308587-aimlabs-elite-edition.json) |
@@ -12807,6 +12808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Attack Four Volleyball | 41796 | [41796-attack-four-volleyball.json](./41796-attack-four-volleyball.json) |
 | Attack from Mars | 217825 | [217825-attack-from-mars.json](./217825-attack-from-mars.json) |
 | Attack From Mars | 91434 | [91434-attack-from-mars.json](./91434-attack-from-mars.json) |
+| Attack from Planet Smiley | 157968 | [157968-attack-from-planet-smiley.json](./157968-attack-from-planet-smiley.json) |
 | Attack Heroes | 28305 | [28305-attack-heroes.json](./28305-attack-heroes.json) |
 | Attack of the Alien Robot Monsters | 114745 | [114745-attack-of-the-alien-robot-monsters.json](./114745-attack-of-the-alien-robot-monsters.json) |
 | Attack of the alien thingies from lava! | 129617 | [129617-attack-of-the-alien-thingies-from-lava.json](./129617-attack-of-the-alien-thingies-from-lava.json) |
