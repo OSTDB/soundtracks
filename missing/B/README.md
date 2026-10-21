@@ -9328,6 +9328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bocce Revolution | 22019 | [22019-bocce-revolution.json](./22019-bocce-revolution.json) |
 | Bocce Time! | 201570 | [201570-bocce-time.json](./201570-bocce-time.json) |
 | Bocce VR | 119786 | [119786-bocce-vr.json](./119786-bocce-vr.json) |
+| Bocce VR Simulator | 157949 | [157949-bocce-vr-simulator.json](./157949-bocce-vr-simulator.json) |
 | Bocchi Kaihi | 227260 | [227260-bocchi-kaihi.json](./227260-bocchi-kaihi.json) |
 | Bocchi the Escape | 246879 | [246879-bocchi-the-escape.json](./246879-bocchi-the-escape.json) |
 | Bocchi the Smash! | 263594 | [263594-bocchi-the-smash.json](./263594-bocchi-the-smash.json) |
@@ -10161,6 +10162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bootlegger's Racing Story | 258717 | [258717-bootleggers-racing-story.json](./258717-bootleggers-racing-story.json) |
 | Bootloop | 362055 | [362055-bootloop.json](./362055-bootloop.json) |
 | Bootombaa | 29185 | [29185-bootombaa.json](./29185-bootombaa.json) |
+| Boots Versus Plants | 157961 | [157961-boots-versus-plants.json](./157961-boots-versus-plants.json) |
 | Bootsies | 335397 | [335397-bootsies.json](./335397-bootsies.json) |
 | Bootstrap Island | 196895 | [196895-bootstrap-island.json](./196895-bootstrap-island.json) |
 | Booty | 13424 | [13424-booty.json](./13424-booty.json) |
@@ -12698,6 +12700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Trouble | 83918 | [83918-bubble-trouble.json](./83918-bubble-trouble.json) |
 | Bubble Trubble | 42829 | [42829-bubble-trubble.json](./42829-bubble-trubble.json) |
 | Bubble Truck | 235228 | [235228-bubble-truck.json](./235228-bubble-truck.json) |
+| Bubble With Djealy | 157966 | [157966-bubble-with-djealy.json](./157966-bubble-with-djealy.json) |
 | Bubble Wizard III Saga | 347318 | [347318-bubble-wizard-iii-saga.json](./347318-bubble-wizard-iii-saga.json) |
 | Bubble Wizard IV Saga | 357027 | [357027-bubble-wizard-iv-saga.json](./357027-bubble-wizard-iv-saga.json) |
 | Bubble Wizard Saga | 336413 | [336413-bubble-wizard-saga.json](./336413-bubble-wizard-saga.json) |
