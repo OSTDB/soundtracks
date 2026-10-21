@@ -1614,6 +1614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zoo Block | 334260 | [334260-zoo-block.json](./334260-zoo-block.json) |
 | Zoo Chess | 213403 | [213403-zoo-chess.json](./213403-zoo-chess.json) |
 | Zoo Clues | 397781 | [397781-zoo-clues.json](./397781-zoo-clues.json) |
+| Zoo Dentist | 159017 | [159017-zoo-dentist.json](./159017-zoo-dentist.json) |
 | Zoo Dentist: Extended Edition | 199932 | [199932-zoo-dentist-extended-edition.json](./199932-zoo-dentist-extended-edition.json) |
 | Zoo Disc Golf | 59039 | [59039-zoo-disc-golf.json](./59039-zoo-disc-golf.json) |
 | Zoo Explorers | 170026 | [170026-zoo-explorers.json](./170026-zoo-explorers.json) |
