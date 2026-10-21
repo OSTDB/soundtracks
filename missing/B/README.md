@@ -979,7 +979,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balam and the Spirit Within | 201325 | [201325-balam-and-the-spirit-within.json](./201325-balam-and-the-spirit-within.json) |
 | Balam: Bounce Hell | 211086 | [211086-balam-bounce-hell.json](./211086-balam-bounce-hell.json) |
 | Balamory: Join the Fun! | 313240 | [313240-balamory-join-the-fun.json](./313240-balamory-join-the-fun.json) |
-| Balan Wonderworld | 135992 | [135992-balan-wonderworld.json](./135992-balan-wonderworld.json) |
 | Balance | 260772 | [260772-balance.json](./260772-balance.json) |
 | Balance | 297775 | [297775-balance.json](./297775-balance.json) |
 | Balance | 345348 | [345348-balance.json](./345348-balance.json) |
