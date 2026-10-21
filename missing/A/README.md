@@ -9256,6 +9256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Bells & Whistles | 129192 | [129192-arcade-archives-bells-and-whistles.json](./129192-arcade-archives-bells-and-whistles.json) |
 | Arcade Archives: Ben Bero Beh | 144801 | [144801-arcade-archives-ben-bero-beh.json](./144801-arcade-archives-ben-bero-beh.json) |
 | Arcade Archives: Bermuda Triangle | 380694 | [380694-arcade-archives-bermuda-triangle.json](./380694-arcade-archives-bermuda-triangle.json) |
+| Arcade Archives: Bio-Ship Paladin | 163173 | [163173-arcade-archives-bio-ship-paladin.json](./163173-arcade-archives-bio-ship-paladin.json) |
 | Arcade Archives: Blandia | 272855 | [272855-arcade-archives-blandia.json](./272855-arcade-archives-blandia.json) |
 | Arcade Archives: Blast Off | 317898 | [317898-arcade-archives-blast-off.json](./317898-arcade-archives-blast-off.json) |
 | Arcade Archives: Block Hole | 142854 | [142854-arcade-archives-block-hole.json](./142854-arcade-archives-block-hole.json) |
@@ -11157,6 +11158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asaki, Yumemishi | 56524 | [56524-asaki-yumemishi.json](./56524-asaki-yumemishi.json) |
 | Asakura! P | 63096 | [63096-asakura-p.json](./63096-asakura-p.json) |
 | Asameshimae Nyanko | 44450 | [44450-asameshimae-nyanko.json](./44450-asameshimae-nyanko.json) |
+| Asatsugutori | 163145 | [163145-asatsugutori.json](./163145-asatsugutori.json) |
 | Asbak | 303896 | [303896-asbak.json](./303896-asbak.json) |
 | Asbury Pines | 258480 | [258480-asbury-pines.json](./258480-asbury-pines.json) |
 | Ascape | 229046 | [229046-ascape.json](./229046-ascape.json) |
