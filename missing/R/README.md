@@ -348,6 +348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raceway: Drag & Stock Racing | 168316 | [168316-raceway-drag-and-stock-racing.json](./168316-raceway-drag-and-stock-racing.json) |
 | RaceWorms | 373179 | [373179-raceworms.json](./373179-raceworms.json) |
 | RaceXXL Space | 367394 | [367394-racexxl-space.json](./367394-racexxl-space.json) |
+| Rachael Savage | 156921 | [156921-rachael-savage.json](./156921-rachael-savage.json) |
 | Rachel and Ariane | 255101 | [255101-rachel-and-ariane.json](./255101-rachel-and-ariane.json) |
 | Rachel's Game Pack | 208431 | [208431-rachels-game-pack.json](./208431-rachels-game-pack.json) |
 | Rachel's Retreat | 54313 | [54313-rachels-retreat.json](./54313-rachels-retreat.json) |
@@ -6846,6 +6847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robodunk | 152176 | [152176-robodunk.json](./152176-robodunk.json) |
 | RoboFight.io | 122888 | [122888-robofight-io.json](./122888-robofight-io.json) |
 | RoboGal: Gaga Delta Lady | 306994 | [306994-robogal-gaga-delta-lady.json](./306994-robogal-gaga-delta-lady.json) |
+| Roboggled | 156933 | [156933-roboggled.json](./156933-roboggled.json) |
 | Roboglitch | 290624 | [290624-roboglitch.json](./290624-roboglitch.json) |
 | Robohazard 2077 | 115156 | [115156-robohazard-2077.json](./115156-robohazard-2077.json) |
 | RoboHeist VR | 86561 | [86561-roboheist-vr.json](./86561-roboheist-vr.json) |
