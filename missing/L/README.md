@@ -7506,7 +7506,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luna's Twilight | 319211 | [319211-lunas-twilight.json](./319211-lunas-twilight.json) |
 | Luna's Wandering Stars | 17983 | [17983-lunas-wandering-stars.json](./17983-lunas-wandering-stars.json) |
 | Luna's World Packages | 343382 | [343382-lunas-world-packages.json](./343382-lunas-world-packages.json) |
-| Lunacid | 192291 | [192291-lunacid.json](./192291-lunacid.json) |
 | Lunacy | 262993 | [262993-lunacy.json](./262993-lunacy.json) |
 | Lunacy | 71493 | [71493-lunacy.json](./71493-lunacy.json) |
 | Lunacy: Saint Rhodes | 26710 | [26710-lunacy-saint-rhodes.json](./26710-lunacy-saint-rhodes.json) |
