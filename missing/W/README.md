@@ -1586,34 +1586,66 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warroid | 41784 | [41784-warroid.json](./41784-warroid.json) |
 | Wars Across the World | 35987 | [35987-wars-across-the-world.json](./35987-wars-across-the-world.json) |
 | Wars Across the World: Agathocles 312 | 193190 | [193190-wars-across-the-world-agathocles-312.json](./193190-wars-across-the-world-agathocles-312.json) |
+| Wars Across the World: Armada 1588 | 159620 | [159620-wars-across-the-world-armada-1588.json](./159620-wars-across-the-world-armada-1588.json) |
+| Wars Across the World: Austerlitz 1805 | 159603 | [159603-wars-across-the-world-austerlitz-1805.json](./159603-wars-across-the-world-austerlitz-1805.json) |
 | Wars Across the World: Berlin 1945 | 159634 | [159634-wars-across-the-world-berlin-1945.json](./159634-wars-across-the-world-berlin-1945.json) |
 | Wars Across the World: Bulgaria 1913 | 350611 | [350611-wars-across-the-world-bulgaria-1913.json](./350611-wars-across-the-world-bulgaria-1913.json) |
 | Wars across the World: Bulge 1944 | 150510 | [150510-wars-across-the-world-bulge-1944.json](./150510-wars-across-the-world-bulge-1944.json) |
+| Wars Across the World: Bull Run 1861 | 159629 | [159629-wars-across-the-world-bull-run-1861.json](./159629-wars-across-the-world-bull-run-1861.json) |
+| Wars Across the World: Byzantium 1116 | 159627 | [159627-wars-across-the-world-byzantium-1116.json](./159627-wars-across-the-world-byzantium-1116.json) |
+| Wars Across the World: Caesar 54 | 159609 | [159609-wars-across-the-world-caesar-54.json](./159609-wars-across-the-world-caesar-54.json) |
+| Wars Across the World: Caesar 56 | 159616 | [159616-wars-across-the-world-caesar-56.json](./159616-wars-across-the-world-caesar-56.json) |
+| Wars Across the World: Caesar 57 | 159632 | [159632-wars-across-the-world-caesar-57.json](./159632-wars-across-the-world-caesar-57.json) |
+| Wars Across the World: Caesar 58 | 159611 | [159611-wars-across-the-world-caesar-58.json](./159611-wars-across-the-world-caesar-58.json) |
 | Wars Across the World: Carrhae 53 | 156096 | [156096-wars-across-the-world-carrhae-53.json](./156096-wars-across-the-world-carrhae-53.json) |
 | Wars Across the World: Classic Collection | 53138 | [53138-wars-across-the-world-classic-collection.json](./53138-wars-across-the-world-classic-collection.json) |
 | Wars Across the World: Columbus 1492 | 155185 | [155185-wars-across-the-world-columbus-1492.json](./155185-wars-across-the-world-columbus-1492.json) |
+| Wars Across the World: Congo 1964 | 159614 | [159614-wars-across-the-world-congo-1964.json](./159614-wars-across-the-world-congo-1964.json) |
 | Wars Across the World: Cortenuova 1237 | 193188 | [193188-wars-across-the-world-cortenuova-1237.json](./193188-wars-across-the-world-cortenuova-1237.json) |
 | Wars Across the World: Curupayti 1866 | 203922 | [203922-wars-across-the-world-curupayti-1866.json](./203922-wars-across-the-world-curupayti-1866.json) |
 | Wars Across The World: Dacia 101 | 276416 | [276416-wars-across-the-world-dacia-101.json](./276416-wars-across-the-world-dacia-101.json) |
 | Wars Across the World: Dublin 1916 | 193189 | [193189-wars-across-the-world-dublin-1916.json](./193189-wars-across-the-world-dublin-1916.json) |
+| Wars Across the World: Estonia 1918 | 159624 | [159624-wars-across-the-world-estonia-1918.json](./159624-wars-across-the-world-estonia-1918.json) |
 | Wars Across the World: Expanded Collection | 53922 | [53922-wars-across-the-world-expanded-collection.json](./53922-wars-across-the-world-expanded-collection.json) |
+| Wars Across the World: Finland 1918 | 159600 | [159600-wars-across-the-world-finland-1918.json](./159600-wars-across-the-world-finland-1918.json) |
 | Wars Across the World: Franche-Comté 1636 | 155180 | [155180-wars-across-the-world-franche-comte-1636.json](./155180-wars-across-the-world-franche-comte-1636.json) |
 | Wars Across the World: Galicia 1914 | 155184 | [155184-wars-across-the-world-galicia-1914.json](./155184-wars-across-the-world-galicia-1914.json) |
+| Wars Across the World: Gandamak1842 | 159630 | [159630-wars-across-the-world-gandamak1842.json](./159630-wars-across-the-world-gandamak1842.json) |
 | Wars Across the World: Gulf 1990 | 159633 | [159633-wars-across-the-world-gulf-1990.json](./159633-wars-across-the-world-gulf-1990.json) |
+| Wars Across the World: Hamilkar 264 | 159607 | [159607-wars-across-the-world-hamilkar-264.json](./159607-wars-across-the-world-hamilkar-264.json) |
+| Wars Across the World: Hastings 1066 | 159626 | [159626-wars-across-the-world-hastings-1066.json](./159626-wars-across-the-world-hastings-1066.json) |
 | Wars Across the World: Illyria 229 | 155181 | [155181-wars-across-the-world-illyria-229.json](./155181-wars-across-the-world-illyria-229.json) |
+| Wars Across the World: Kavkaz 1804 | 159608 | [159608-wars-across-the-world-kavkaz-1804.json](./159608-wars-across-the-world-kavkaz-1804.json) |
+| Wars Across the World: Kentucky 1861 | 159617 | [159617-wars-across-the-world-kentucky-1861.json](./159617-wars-across-the-world-kentucky-1861.json) |
 | Wars Across the World: Kippur 1973 | 155190 | [155190-wars-across-the-world-kippur-1973.json](./155190-wars-across-the-world-kippur-1973.json) |
+| Wars Across the World: Koenigsberg 1945 | 159610 | [159610-wars-across-the-world-koenigsberg-1945.json](./159610-wars-across-the-world-koenigsberg-1945.json) |
 | Wars Across the World: Korea 1592 | 155186 | [155186-wars-across-the-world-korea-1592.json](./155186-wars-across-the-world-korea-1592.json) |
+| Wars Across the World: Korea 1950 | 159621 | [159621-wars-across-the-world-korea-1950.json](./159621-wars-across-the-world-korea-1950.json) |
 | Wars Across The World: Levant 1941 | 155174 | [155174-wars-across-the-world-levant-1941.json](./155174-wars-across-the-world-levant-1941.json) |
+| Wars Across the World: Malaya 1941 | 159623 | [159623-wars-across-the-world-malaya-1941.json](./159623-wars-across-the-world-malaya-1941.json) |
+| Wars Across the World: Mali 2012 | 159612 | [159612-wars-across-the-world-mali-2012.json](./159612-wars-across-the-world-mali-2012.json) |
 | Wars Across the World: Manchuria 1945 | 193191 | [193191-wars-across-the-world-manchuria-1945.json](./193191-wars-across-the-world-manchuria-1945.json) |
 | Wars Across the World: Mexico 1519 | 155179 | [155179-wars-across-the-world-mexico-1519.json](./155179-wars-across-the-world-mexico-1519.json) |
+| Wars Across the World: Missouri 1861 | 159602 | [159602-wars-across-the-world-missouri-1861.json](./159602-wars-across-the-world-missouri-1861.json) |
+| Wars Across the World: Morat 1476 | 159622 | [159622-wars-across-the-world-morat-1476.json](./159622-wars-across-the-world-morat-1476.json) |
 | Wars Across The World: Namibia 1915 | 292644 | [292644-wars-across-the-world-namibia-1915.json](./292644-wars-across-the-world-namibia-1915.json) |
 | Wars Across the World: Nordwind 1945 | 155183 | [155183-wars-across-the-world-nordwind-1945.json](./155183-wars-across-the-world-nordwind-1945.json) |
+| Wars Across the World: Normandy 1944 | 159625 | [159625-wars-across-the-world-normandy-1944.json](./159625-wars-across-the-world-normandy-1944.json) |
+| Wars Across the World: Persia 1856 | 159628 | [159628-wars-across-the-world-persia-1856.json](./159628-wars-across-the-world-persia-1856.json) |
+| Wars Across the World: Rhodesia 1972 | 159615 | [159615-wars-across-the-world-rhodesia-1972.json](./159615-wars-across-the-world-rhodesia-1972.json) |
+| Wars Across the World: Saratoga 1777 | 159604 | [159604-wars-across-the-world-saratoga-1777.json](./159604-wars-across-the-world-saratoga-1777.json) |
 | Wars Across the World: Sepoy 1857 | 212228 | [212228-wars-across-the-world-sepoy-1857.json](./212228-wars-across-the-world-sepoy-1857.json) |
 | Wars Across the World: Serbia 1914 | 155178 | [155178-wars-across-the-world-serbia-1914.json](./155178-wars-across-the-world-serbia-1914.json) |
+| Wars Across the World: Sicily 1943 | 159631 | [159631-wars-across-the-world-sicily-1943.json](./159631-wars-across-the-world-sicily-1943.json) |
+| Wars Across the World: Six Days 1967 | 159613 | [159613-wars-across-the-world-six-days-1967.json](./159613-wars-across-the-world-six-days-1967.json) |
 | Wars Across the World: Soccer 1969 | 155189 | [155189-wars-across-the-world-soccer-1969.json](./155189-wars-across-the-world-soccer-1969.json) |
+| Wars Across the World: Spain 1936 | 159606 | [159606-wars-across-the-world-spain-1936.json](./159606-wars-across-the-world-spain-1936.json) |
 | Wars Across the World: Switzerland 1937 | 155182 | [155182-wars-across-the-world-switzerland-1937.json](./155182-wars-across-the-world-switzerland-1937.json) |
+| Wars Across the World: Tannenberg 1914 | 159619 | [159619-wars-across-the-world-tannenberg-1914.json](./159619-wars-across-the-world-tannenberg-1914.json) |
 | Wars Across The World: Tryphon 104 | 350610 | [350610-wars-across-the-world-tryphon-104.json](./350610-wars-across-the-world-tryphon-104.json) |
 | Wars Across the World: Uganda 1979 | 155187 | [155187-wars-across-the-world-uganda-1979.json](./155187-wars-across-the-world-uganda-1979.json) |
+| Wars Across the World: Waterloo 1815 | 159605 | [159605-wars-across-the-world-waterloo-1815.json](./159605-wars-across-the-world-waterloo-1815.json) |
+| Wars Across the World: West Virginia 1861 | 159618 | [159618-wars-across-the-world-west-virginia-1861.json](./159618-wars-across-the-world-west-virginia-1861.json) |
 | Wars Across the World: Zulu 1879 | 242623 | [242623-wars-across-the-world-zulu-1879.json](./242623-wars-across-the-world-zulu-1879.json) |
 | Wars and Battles: Normandy | 76439 | [76439-wars-and-battles-normandy.json](./76439-wars-and-battles-normandy.json) |
 | Wars of Napoleon | 33092 | [33092-wars-of-napoleon.json](./33092-wars-of-napoleon.json) |
@@ -2037,6 +2069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Way of an Idea 2 | 416138 | [416138-way-of-an-idea-2.json](./416138-way-of-an-idea-2.json) |
 | Way of Boy | 125099 | [125099-way-of-boy.json](./125099-way-of-boy.json) |
 | Way of Boy: Another Way | 132672 | [132672-way-of-boy-another-way.json](./132672-way-of-boy-another-way.json) |
+| Way of Defector: Kim Eun-sim | 159599 | [159599-way-of-defector-kim-eun-sim.json](./159599-way-of-defector-kim-eun-sim.json) |
 | Way of Gold and Steel | 35179 | [35179-way-of-gold-and-steel.json](./35179-way-of-gold-and-steel.json) |
 | Way of Hero | 29722 | [29722-way-of-hero.json](./29722-way-of-hero.json) |
 | Way of Heroes | 159839 | [159839-way-of-heroes.json](./159839-way-of-heroes.json) |
@@ -7031,6 +7064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wrispell | 401920 | [401920-wrispell.json](./401920-wrispell.json) |
 | Wrist Nebula | 208020 | [208020-wrist-nebula.json](./208020-wrist-nebula.json) |
 | Wrist Sprinter | 181364 | [181364-wrist-sprinter.json](./181364-wrist-sprinter.json) |
+| Write 'n' Fight | 160204 | [160204-write-n-fight.json](./160204-write-n-fight.json) |
 | Write Emails At Work | 394102 | [394102-write-emails-at-work.json](./394102-write-emails-at-work.json) |
 | Write Warz | 297755 | [297755-write-warz.json](./297755-write-warz.json) |
 | WriteNor | 381389 | [381389-writenor.json](./381389-writenor.json) |
