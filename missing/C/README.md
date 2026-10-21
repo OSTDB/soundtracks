@@ -8844,7 +8844,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colecionador Show do Milhão | 222352 | [222352-colecionador-show-do-milhao.json](./222352-colecionador-show-do-milhao.json) |
 | Colette's Sugar Madness | 109765 | [109765-colettes-sugar-madness.json](./109765-colettes-sugar-madness.json) |
 | Colibrium: Zen Colour Matching | 107139 | [107139-colibrium-zen-colour-matching.json](./107139-colibrium-zen-colour-matching.json) |
-| Colin McRae Rally | 26821 | [26821-colin-mcrae-rally.json](./26821-colin-mcrae-rally.json) |
 | Colin McRae Rally 2.0 | 235185 | [235185-colin-mcrae-rally-2-0.json](./235185-colin-mcrae-rally-2-0.json) |
 | Colin McRae Rally 2.0 | 642 | [642-colin-mcrae-rally-2-0.json](./642-colin-mcrae-rally-2-0.json) |
 | Colin McRae Rally 2005 | 175916 | [175916-colin-mcrae-rally-2005.json](./175916-colin-mcrae-rally-2005.json) |
