@@ -1804,6 +1804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dash Dash Dead | 361455 | [361455-dash-dash-dead.json](./361455-dash-dash-dead.json) |
 | Dash Dash Delivery | 160264 | [160264-dash-dash-delivery.json](./160264-dash-dash-delivery.json) |
 | Dash Dash Run! | 54505 | [54505-dash-dash-run.json](./54505-dash-dash-run.json) |
+| Dash DE Lei-Lei | 161711 | [161711-dash-de-lei-lei.json](./161711-dash-de-lei-lei.json) |
 | Dash Dot Die | 391634 | [391634-dash-dot-die.json](./391634-dash-dot-die.json) |
 | Dash Fleet | 29626 | [29626-dash-fleet.json](./29626-dash-fleet.json) |
 | Dash For Your Life | 257911 | [257911-dash-for-your-life.json](./257911-dash-for-your-life.json) |
@@ -7724,6 +7725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disgaea PC | 34392 | [34392-disgaea-pc.json](./34392-disgaea-pc.json) |
 | Disgaea: Afternoon of Darkness | 22528 | [22528-disgaea-afternoon-of-darkness.json](./22528-disgaea-afternoon-of-darkness.json) |
 | Disgaea: Hour of Darkness | 11610 | [11610-disgaea-hour-of-darkness.json](./11610-disgaea-hour-of-darkness.json) |
+| Disgrace | 161563 | [161563-disgrace.json](./161563-disgrace.json) |
 | Disgrace: When Our Beautiful World Disappears | 377707 | [377707-disgrace-when-our-beautiful-world-disappears.json](./377707-disgrace-when-our-beautiful-world-disappears.json) |
 | Disgraced Swordswoman Battle | 134605 | [134605-disgraced-swordswoman-battle.json](./134605-disgraced-swordswoman-battle.json) |
 | Disgraced: Hands of Fate | 170796 | [170796-disgraced-hands-of-fate.json](./170796-disgraced-hands-of-fate.json) |
