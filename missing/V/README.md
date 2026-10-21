@@ -2976,6 +2976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Escape the space station | 31782 | [31782-vr-escape-the-space-station.json](./31782-vr-escape-the-space-station.json) |
 | VR Fantasy | 395540 | [395540-vr-fantasy.json](./395540-vr-fantasy.json) |
 | VR Fight Covid-19 | 147352 | [147352-vr-fight-covid-19.json](./147352-vr-fight-covid-19.json) |
+| VR Fighter Jets War | 157380 | [157380-vr-fighter-jets-war.json](./157380-vr-fighter-jets-war.json) |
 | VR Fire Emergency Simulation System | 76699 | [76699-vr-fire-emergency-simulation-system.json](./76699-vr-fire-emergency-simulation-system.json) |
 | VR Fishtank | 244772 | [244772-vr-fishtank.json](./244772-vr-fishtank.json) |
 | VR Fitness | 245713 | [245713-vr-fitness.json](./245713-vr-fitness.json) |
