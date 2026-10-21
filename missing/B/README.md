@@ -3820,7 +3820,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BeanShooter | 256359 | [256359-beanshooter.json](./256359-beanshooter.json) |
 | Beanstalker | 94648 | [94648-beanstalker.json](./94648-beanstalker.json) |
 | Beany Bopper | 11138 | [11138-beany-bopper.json](./11138-beany-bopper.json) |
-| Bear & Breakfast | 136772 | [136772-bear-and-breakfast.json](./136772-bear-and-breakfast.json) |
 | Bear Adventure | 370762 | [370762-bear-adventure.json](./370762-bear-adventure.json) |
 | Bear Adventures | 192591 | [192591-bear-adventures.json](./192591-bear-adventures.json) |
 | Bear Adventures 2 | 190388 | [190388-bear-adventures-2.json](./190388-bear-adventures-2.json) |
@@ -8638,7 +8637,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloodreaper | 308959 | [308959-bloodreaper.json](./308959-bloodreaper.json) |
 | Bloodright | 365822 | [365822-bloodright.json](./365822-bloodright.json) |
 | Bloodroot | 296107 | [296107-bloodroot.json](./296107-bloodroot.json) |
-| Bloodroots | 106822 | [106822-bloodroots.json](./106822-bloodroots.json) |
 | Bloodrun | 304196 | [304196-bloodrun.json](./304196-bloodrun.json) |
 | BloodRush: Undying Wish | 255389 | [255389-bloodrush-undying-wish.json](./255389-bloodrush-undying-wish.json) |
 | Bloodrust | 274151 | [274151-bloodrust.json](./274151-bloodrust.json) |
