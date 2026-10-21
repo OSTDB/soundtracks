@@ -1100,6 +1100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hangoverse: Season 1 | 370755 | [370755-hangoverse-season-1.json](./370755-hangoverse-season-1.json) |
 | Hangry Bunnies From Mars | 54698 | [54698-hangry-bunnies-from-mars.json](./54698-hangry-bunnies-from-mars.json) |
 | Hangtime! | 373342 | [373342-hangtime.json](./373342-hangtime.json) |
+| HangTogether | 161633 | [161633-hangtogether.json](./161633-hangtogether.json) |
 | Hangul Attack | 141664 | [141664-hangul-attack.json](./141664-hangul-attack.json) |
 | Hangul Shooter | 291332 | [291332-hangul-shooter.json](./291332-hangul-shooter.json) |
 | Hangul Typing Tale | 362989 | [362989-hangul-typing-tale.json](./362989-hangul-typing-tale.json) |
@@ -6876,6 +6877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hollywood Escape | 70912 | [70912-hollywood-escape.json](./70912-hollywood-escape.json) |
 | Hollywood Fame: Hidden Object Adventure | 84517 | [84517-hollywood-fame-hidden-object-adventure.json](./84517-hollywood-fame-hidden-object-adventure.json) |
 | Hollywood Files: Deadly Intrigues | 269631 | [269631-hollywood-files-deadly-intrigues.json](./269631-hollywood-files-deadly-intrigues.json) |
+| Hollywood Hero | 161701 | [161701-hollywood-hero.json](./161701-hollywood-hero.json) |
 | Hollywood Hijinx | 12144 | [12144-hollywood-hijinx.json](./12144-hollywood-hijinx.json) |
 | Hollywood Hustle: A Prop Collector Simulator | 416134 | [416134-hollywood-hustle-a-prop-collector-simulator.json](./416134-hollywood-hustle-a-prop-collector-simulator.json) |
 | Hollywood Mogul | 94389 | [94389-hollywood-mogul.json](./94389-hollywood-mogul.json) |
