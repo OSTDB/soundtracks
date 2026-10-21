@@ -609,6 +609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Meeting of Dreams | 223486 | [223486-a-meeting-of-dreams.json](./223486-a-meeting-of-dreams.json) |
 | A Megawad in Two Weeks | 274142 | [274142-a-megawad-in-two-weeks.json](./274142-a-megawad-in-two-weeks.json) |
 | A Melon's Tale | 180671 | [180671-a-melons-tale.json](./180671-a-melons-tale.json) |
+| A Message and an Advice | 159003 | [159003-a-message-and-an-advice.json](./159003-a-message-and-an-advice.json) |
 | A Message For The Stone King | 260077 | [260077-a-message-for-the-stone-king.json](./260077-a-message-for-the-stone-king.json) |
 | A Messenger | 282711 | [282711-a-messenger.json](./282711-a-messenger.json) |
 | A Messenger Adventure | 56441 | [56441-a-messenger-adventure.json](./56441-a-messenger-adventure.json) |
@@ -5970,6 +5971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alto Trek | 232414 | [232414-alto-trek.json](./232414-alto-trek.json) |
 | Alto: Ingyaku Meikyu no Himemiko | 98030 | [98030-alto-ingyaku-meikyu-no-himemiko.json](./98030-alto-ingyaku-meikyu-no-himemiko.json) |
 | Alto's Adventure: The Spirit of the Mountain | 194329 | [194329-altos-adventure-the-spirit-of-the-mountain.json](./194329-altos-adventure-the-spirit-of-the-mountain.json) |
+| Alto's Odyssey: The Lost City | 158997 | [158997-altos-odyssey-the-lost-city.json](./158997-altos-odyssey-the-lost-city.json) |
 | Altruism | 147451 | [147451-altruism.json](./147451-altruism.json) |
 | Altruistic | 349453 | [349453-altruistic.json](./349453-altruistic.json) |
 | AltspaceVR | 34369 | [34369-altspacevr.json](./34369-altspacevr.json) |
@@ -7315,6 +7317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angry Birds Opera | 237496 | [237496-angry-birds-opera.json](./237496-angry-birds-opera.json) |
 | Angry Birds Racing | 226776 | [226776-angry-birds-racing.json](./226776-angry-birds-racing.json) |
 | Angry Birds Refresh | 357348 | [357348-angry-birds-refresh.json](./357348-angry-birds-refresh.json) |
+| Angry Birds Reloaded | 159024 | [159024-angry-birds-reloaded.json](./159024-angry-birds-reloaded.json) |
 | Angry Birds Rio HD | 88589 | [88589-angry-birds-rio-hd.json](./88589-angry-birds-rio-hd.json) |
 | Angry Birds Rush | 368638 | [368638-angry-birds-rush.json](./368638-angry-birds-rush.json) |
 | Angry Birds Seasons HD | 102139 | [102139-angry-birds-seasons-hd.json](./102139-angry-birds-seasons-hd.json) |
@@ -9595,6 +9598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Jumper | 339699 | [339699-arcade-jumper.json](./339699-arcade-jumper.json) |
 | Arcade LA Deadzone | 106545 | [106545-arcade-la-deadzone.json](./106545-arcade-la-deadzone.json) |
 | Arcade Land | 99543 | [99543-arcade-land.json](./99543-arcade-land.json) |
+| Arcade Legend | 158913 | [158913-arcade-legend.json](./158913-arcade-legend.json) |
 | Arcade Legends 3D | 206138 | [206138-arcade-legends-3d.json](./206138-arcade-legends-3d.json) |
 | Arcade Legends Sensible Soccer Plus | 202803 | [202803-arcade-legends-sensible-soccer-plus.json](./202803-arcade-legends-sensible-soccer-plus.json) |
 | Arcade Legends Street Fighter II': Special Champion Edition | 202804 | [202804-arcade-legends-street-fighter-ii-special-champion-edition.json](./202804-arcade-legends-street-fighter-ii-special-champion-edition.json) |
@@ -11904,6 +11908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asteroids Star Fields | 266112 | [266112-asteroids-star-fields.json](./266112-asteroids-star-fields.json) |
 | Asteroids, Inc. | 175839 | [175839-asteroids-inc.json](./175839-asteroids-inc.json) |
 | Asteroids: Evolved | 329634 | [329634-asteroids-evolved.json](./329634-asteroids-evolved.json) |
+| Asteroids: Far Away From Home | 158993 | [158993-asteroids-far-away-from-home.json](./158993-asteroids-far-away-from-home.json) |
 | Asteroids: Gunner | 64402 | [64402-asteroids-gunner.json](./64402-asteroids-gunner.json) |
 | Asteroids... But Roguelite | 168640 | [168640-asteroids-but-roguelite.json](./168640-asteroids-but-roguelite.json) |
 | Asteroids++ | 178978 | [178978-asteroids.json](./178978-asteroids.json) |
