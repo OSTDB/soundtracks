@@ -2798,6 +2798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario & Sonic | 324089 | [324089-mario-and-sonic.json](./324089-mario-and-sonic.json) |
 | Mario & Sonic at the London 2012 Olympic Games | 2708 | [2708-mario-and-sonic-at-the-london-2012-olympic-games.json](./2708-mario-and-sonic-at-the-london-2012-olympic-games.json) |
 | Mario & Sonic at the Olympic Games | 132108 | [132108-mario-and-sonic-at-the-olympic-games.json](./132108-mario-and-sonic-at-the-olympic-games.json) |
+| Mario & Sonic at the Olympic Games Tokyo 2020: Arcade Edition | 158975 | [158975-mario-and-sonic-at-the-olympic-games-tokyo-2020-arcade-edition.json](./158975-mario-and-sonic-at-the-olympic-games-tokyo-2020-arcade-edition.json) |
 | Mario & Sonic at the Olympic Winter Games | 2707 | [2707-mario-and-sonic-at-the-olympic-winter-games.json](./2707-mario-and-sonic-at-the-olympic-winter-games.json) |
 | Mario & Sonic at The Olympic Winter Games Pyeongchang 2018 | 313303 | [313303-mario-and-sonic-at-the-olympic-winter-games-pyeongchang-2018.json](./313303-mario-and-sonic-at-the-olympic-winter-games-pyeongchang-2018.json) |
 | Mario & Sonic at the Rio 2016 Olympic Games | 11258 | [11258-mario-and-sonic-at-the-rio-2016-olympic-games.json](./11258-mario-and-sonic-at-the-rio-2016-olympic-games.json) |
@@ -16489,6 +16490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystereet: Yasogami Kaoru no Chousen! | 326951 | [326951-mystereet-yasogami-kaoru-no-chousen.json](./326951-mystereet-yasogami-kaoru-no-chousen.json) |
 | Mysteria ~Occult Shadows~ | 108626 | [108626-mysteria-occult-shadows.json](./108626-mysteria-occult-shadows.json) |
 | Mysteria of the World: The Forest of Death | 188950 | [188950-mysteria-of-the-world-the-forest-of-death.json](./188950-mysteria-of-the-world-the-forest-of-death.json) |
+| Mysterica | 158908 | [158908-mysterica.json](./158908-mysterica.json) |
 | Mysteries & Nightmares: Morgiana | 35445 | [35445-mysteries-and-nightmares-morgiana.json](./35445-mysteries-and-nightmares-morgiana.json) |
 | Mysteries of Darkness | 187120 | [187120-mysteries-of-darkness.json](./187120-mysteries-of-darkness.json) |
 | Mysteries of Fence | 52086 | [52086-mysteries-of-fence.json](./52086-mysteries-of-fence.json) |
