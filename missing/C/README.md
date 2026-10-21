@@ -1110,6 +1110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cannibal | 104785 | [104785-cannibal.json](./104785-cannibal.json) |
 | Cannibal | 299444 | [299444-cannibal.json](./299444-cannibal.json) |
 | Cannibal Abduction | 224983 | [224983-cannibal-abduction.json](./224983-cannibal-abduction.json) |
+| Cannibal Coast | 158914 | [158914-cannibal-coast.json](./158914-cannibal-coast.json) |
 | Cannibal Cookout: Lines | 238982 | [238982-cannibal-cookout-lines.json](./238982-cannibal-cookout-lines.json) |
 | Cannibal Court | 395205 | [395205-cannibal-court.json](./395205-cannibal-court.json) |
 | Cannibal Crossing | 140364 | [140364-cannibal-crossing.json](./140364-cannibal-crossing.json) |
@@ -1384,6 +1385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain Forever | 29046 | [29046-captain-forever.json](./29046-captain-forever.json) |
 | Captain Forever Remix | 17360 | [17360-captain-forever-remix.json](./17360-captain-forever-remix.json) |
 | Captain Forever Trilogy | 100603 | [100603-captain-forever-trilogy.json](./100603-captain-forever-trilogy.json) |
+| Captain Frogger | 160199 | [160199-captain-frogger.json](./160199-captain-frogger.json) |
 | Captain Gazman: Day of the Rage | 207715 | [207715-captain-gazman-day-of-the-rage.json](./207715-captain-gazman-day-of-the-rage.json) |
 | Captain Goose | 260161 | [260161-captain-goose.json](./260161-captain-goose.json) |
 | Captain Hannon: The Belanzano | 129759 | [129759-captain-hannon-the-belanzano.json](./129759-captain-hannon-the-belanzano.json) |
@@ -5045,6 +5047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chesnakisnak | 158127 | [158127-chesnakisnak.json](./158127-chesnakisnak.json) |
 | Chess | 128646 | [128646-chess.json](./128646-chess.json) |
 | Chess | 131469 | [131469-chess.json](./131469-chess.json) |
+| Chess | 158998 | [158998-chess.json](./158998-chess.json) |
 | Chess | 237288 | [237288-chess.json](./237288-chess.json) |
 | Chess | 247071 | [247071-chess.json](./247071-chess.json) |
 | Chess | 25126 | [25126-chess.json](./25126-chess.json) |
@@ -8445,6 +8448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coda | 252211 | [252211-coda.json](./252211-coda.json) |
 | Coda | 338681 | [338681-coda.json](./338681-coda.json) |
 | Coda | 358349 | [358349-coda.json](./358349-coda.json) |
+| Coddle Pets: Dragon Garden | 159022 | [159022-coddle-pets-dragon-garden.json](./159022-coddle-pets-dragon-garden.json) |
 | Code 3: Police Response | 149713 | [149713-code-3-police-response.json](./149713-code-3-police-response.json) |
 | Code 51: Mecha Arena | 99297 | [99297-code-51-mecha-arena.json](./99297-code-51-mecha-arena.json) |
 | Code 608 | 405968 | [405968-code-608.json](./405968-code-608.json) |
@@ -11170,6 +11174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corgi's Travel | 300537 | [300537-corgis-travel.json](./300537-corgis-travel.json) |
 | Corgix | 138698 | [138698-corgix.json](./138698-corgix.json) |
 | Coria and the Sunken City | 141621 | [141621-coria-and-the-sunken-city.json](./141621-coria-and-the-sunken-city.json) |
+| Coridden | 158972 | [158972-coridden.json](./158972-coridden.json) |
 | Coridden: Deluxe Edition | 380150 | [380150-coridden-deluxe-edition.json](./380150-coridden-deluxe-edition.json) |
 | Corinne | 377986 | [377986-corinne.json](./377986-corinne.json) |
 | Cork the Volcano | 132776 | [132776-cork-the-volcano.json](./132776-cork-the-volcano.json) |
