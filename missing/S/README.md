@@ -6377,7 +6377,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shin Megami Tensei | 250198 | [250198-shin-megami-tensei.json](./250198-shin-megami-tensei.json) |
 | Shin Megami Tensei Devil Summoner: Raidou Kuzunoha vs. The Soulless Army | 20640 | [20640-shin-megami-tensei-devil-summoner-raidou-kuzunoha-vs-the-soulless-army.json](./20640-shin-megami-tensei-devil-summoner-raidou-kuzunoha-vs-the-soulless-army.json) |
 | Shin Megami Tensei if... | 270672 | [270672-shin-megami-tensei-if.json](./270672-shin-megami-tensei-if.json) |
-| Shin Megami Tensei if... | 79726 | [79726-shin-megami-tensei-if.json](./79726-shin-megami-tensei-if.json) |
 | Shin Megami Tensei II | 252800 | [252800-shin-megami-tensei-ii.json](./252800-shin-megami-tensei-ii.json) |
 | Shin Megami Tensei II Gaiden: Mato Houkai | 138168 | [138168-shin-megami-tensei-ii-gaiden-mato-houkai.json](./138168-shin-megami-tensei-ii-gaiden-mato-houkai.json) |
 | Shin Megami Tensei III: Nocturne | 336392 | [336392-shin-megami-tensei-iii-nocturne.json](./336392-shin-megami-tensei-iii-nocturne.json) |
@@ -13259,7 +13258,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Colors DX | 280937 | [280937-sonic-colors-dx.json](./280937-sonic-colors-dx.json) |
 | Sonic Colors VN | 265223 | [265223-sonic-colors-vn.json](./265223-sonic-colors-vn.json) |
 | Sonic Colors: Project Tropical Resort | 361632 | [361632-sonic-colors-project-tropical-resort.json](./361632-sonic-colors-project-tropical-resort.json) |
-| Sonic Colors: Ultimate | 150005 | [150005-sonic-colors-ultimate.json](./150005-sonic-colors-ultimate.json) |
 | Sonic Colors: Ultimate - 30th Anniversary Pack | 150157 | [150157-sonic-colors-ultimate-30th-anniversary-pack.json](./150157-sonic-colors-ultimate-30th-anniversary-pack.json) |
 | Sonic Colors: Ultimate - Day One Edition | 227941 | [227941-sonic-colors-ultimate-day-one-edition.json](./227941-sonic-colors-ultimate-day-one-edition.json) |
 | Sonic Colors: Ultimate - Digital Deluxe | 169201 | [169201-sonic-colors-ultimate-digital-deluxe.json](./169201-sonic-colors-ultimate-digital-deluxe.json) |
