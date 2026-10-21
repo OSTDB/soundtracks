@@ -6216,6 +6216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GrappleBurger | 374383 | [374383-grappleburger.json](./374383-grappleburger.json) |
 | Grappledrome | 36453 | [36453-grappledrome.json](./36453-grappledrome.json) |
 | Grapplers: Relic Rivals | 297860 | [297860-grapplers-relic-rivals.json](./297860-grapplers-relic-rivals.json) |
+| GrappleShot | 159585 | [159585-grappleshot.json](./159585-grappleshot.json) |
 | Grappling Bagel | 348870 | [348870-grappling-bagel.json](./348870-grappling-bagel.json) |
 | Grappling Dash | 215584 | [215584-grappling-dash.json](./215584-grappling-dash.json) |
 | Grappling Gunners: Arena FPS | 273772 | [273772-grappling-gunners-arena-fps.json](./273772-grappling-gunners-arena-fps.json) |
@@ -7882,6 +7883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guile | 13249 | [13249-guile.json](./13249-guile.json) |
 | Guiling's Adventure | 355200 | [355200-guilings-adventure.json](./355200-guilings-adventure.json) |
 | Guillermo Tell | 146307 | [146307-guillermo-tell.json](./146307-guillermo-tell.json) |
+| Guillotine | 160117 | [160117-guillotine.json](./160117-guillotine.json) |
 | Guilt | 341099 | [341099-guilt.json](./341099-guilt.json) |
 | Guilt | 345521 | [345521-guilt.json](./345521-guilt.json) |
 | Guilt Free | 150445 | [150445-guilt-free.json](./150445-guilt-free.json) |
