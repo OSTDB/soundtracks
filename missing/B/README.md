@@ -13000,6 +13000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Build & Feast Collection | 328561 | [328561-build-and-feast-collection.json](./328561-build-and-feast-collection.json) |
 | Build & Survive | 351722 | [351722-build-and-survive.json](./351722-build-and-survive.json) |
 | Build A Bank Tycoon | 394381 | [394381-build-a-bank-tycoon.json](./394381-build-a-bank-tycoon.json) |
+| Build a Boss | 158391 | [158391-build-a-boss.json](./158391-build-a-boss.json) |
 | Build a Bridge! | 114190 | [114190-build-a-bridge.json](./114190-build-a-bridge.json) |
 | Build a Cat Tower to reach the Fish | 413102 | [413102-build-a-cat-tower-to-reach-the-fish.json](./413102-build-a-cat-tower-to-reach-the-fish.json) |
 | Build a City Block | 261735 | [261735-build-a-city-block.json](./261735-build-a-city-block.json) |
