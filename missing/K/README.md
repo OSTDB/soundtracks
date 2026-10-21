@@ -1532,6 +1532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keystone Titans VR | 249074 | [249074-keystone-titans-vr.json](./249074-keystone-titans-vr.json) |
 | keyWars | 96848 | [96848-keywars.json](./96848-keywars.json) |
 | Keyword 2: Nightfall | 276657 | [276657-keyword-2-nightfall.json](./276657-keyword-2-nightfall.json) |
+| Keyword: A Spider's Thread | 162077 | [162077-keyword-a-spiders-thread.json](./162077-keyword-a-spiders-thread.json) |
 | KeyWords | 72079 | [72079-keywords.json](./72079-keywords.json) |
 | Keziah's Realm | 329100 | [329100-keziahs-realm.json](./329100-keziahs-realm.json) |
 | KFC Kitchen | 334928 | [334928-kfc-kitchen.json](./334928-kfc-kitchen.json) |
@@ -2136,7 +2137,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
-| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
 | Kimi ni Steady | 263693 | [263693-kimi-ni-steady.json](./263693-kimi-ni-steady.json) |
