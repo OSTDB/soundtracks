@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-21T20:00:54.756Z",
-  "total_soundtracks": 2396,
+  "generated_at": "2026-10-21T20:11:00.929Z",
+  "total_soundtracks": 2398,
   "games": [
     {
       "igdb_id": 7522,
@@ -3746,6 +3746,20 @@
           "album_name": "Cairn (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/3goW8YLesdd64Jh2DBiWhw",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 122345,
+      "game_name": "Calico",
+      "game_url": "https://ostdb.net/games/calico",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2738c18d836f1353b11b50b26aa",
+      "albums": [
+        {
+          "album_name": "Calico (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6BruBYjMbZgMEWc9Lx6OOO",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
@@ -26449,6 +26463,20 @@
           "spotify_url": "https://open.spotify.com/album/3dB7GJBPHfEPtaQ38yLBpX",
           "apple_music_url": "https://music.apple.com/us/album/thronebreaker-the-witcher-tales-original-game-soundtrack/1445188244",
           "album_link_url": "https://album.link/i/1445188244"
+        }
+      ]
+    },
+    {
+      "igdb_id": 126381,
+      "game_name": "Timberborn",
+      "game_url": "https://ostdb.net/games/timberborn",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273fabfd317c72f5efb95a8afb0",
+      "albums": [
+        {
+          "album_name": "Timberborn (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/7M3xeiusemSzxrkRVs0CY4",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
