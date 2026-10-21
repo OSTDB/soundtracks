@@ -82,67 +82,107 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zaccaria Pinball | 33463 | [33463-zaccaria-pinball.json](./33463-zaccaria-pinball.json) |
 | Zaccaria Pinball: 40 Retro Tables | 158496 | [158496-zaccaria-pinball-40-retro-tables.json](./158496-zaccaria-pinball-40-retro-tables.json) |
 | Zaccaria Pinball: Aerobatics Table | 158490 | [158490-zaccaria-pinball-aerobatics-table.json](./158490-zaccaria-pinball-aerobatics-table.json) |
+| Zaccaria Pinball: Blackbelt 2018 Table | 158475 | [158475-zaccaria-pinball-blackbelt-2018-table.json](./158475-zaccaria-pinball-blackbelt-2018-table.json) |
 | Zaccaria Pinball: Blackbelt Deluxe Pinball Table | 349924 | [349924-zaccaria-pinball-blackbelt-deluxe-pinball-table.json](./349924-zaccaria-pinball-blackbelt-deluxe-pinball-table.json) |
 | Zaccaria Pinball: Blackbelt Table | 158494 | [158494-zaccaria-pinball-blackbelt-table.json](./158494-zaccaria-pinball-blackbelt-table.json) |
 | Zaccaria Pinball: Blood West Table Pack | 395458 | [395458-zaccaria-pinball-blood-west-table-pack.json](./395458-zaccaria-pinball-blood-west-table-pack.json) |
 | Zaccaria Pinball: Chernobylite Table Pack | 395457 | [395457-zaccaria-pinball-chernobylite-table-pack.json](./395457-zaccaria-pinball-chernobylite-table-pack.json) |
+| Zaccaria Pinball: Cine Star Deluxe Pinball Table | 158478 | [158478-zaccaria-pinball-cine-star-deluxe-pinball-table.json](./158478-zaccaria-pinball-cine-star-deluxe-pinball-table.json) |
+| Zaccaria Pinball: Cine Star Table | 158486 | [158486-zaccaria-pinball-cine-star-table.json](./158486-zaccaria-pinball-cine-star-table.json) |
 | Zaccaria Pinball: Circus 2017 Table | 158436 | [158436-zaccaria-pinball-circus-2017-table.json](./158436-zaccaria-pinball-circus-2017-table.json) |
 | Zaccaria Pinball: Circus Table | 158429 | [158429-zaccaria-pinball-circus-table.json](./158429-zaccaria-pinball-circus-table.json) |
 | Zaccaria Pinball: Clown 2019 Table | 158430 | [158430-zaccaria-pinball-clown-2019-table.json](./158430-zaccaria-pinball-clown-2019-table.json) |
 | Zaccaria Pinball: Clown Deluxe Pinball Table | 349914 | [349914-zaccaria-pinball-clown-deluxe-pinball-table.json](./349914-zaccaria-pinball-clown-deluxe-pinball-table.json) |
 | Zaccaria Pinball: Clown Table | 158492 | [158492-zaccaria-pinball-clown-table.json](./158492-zaccaria-pinball-clown-table.json) |
+| Zaccaria Pinball: Combat 2017 Table | 158469 | [158469-zaccaria-pinball-combat-2017-table.json](./158469-zaccaria-pinball-combat-2017-table.json) |
+| Zaccaria Pinball: Combat Deluxe Pinball Table | 158449 | [158449-zaccaria-pinball-combat-deluxe-pinball-table.json](./158449-zaccaria-pinball-combat-deluxe-pinball-table.json) |
 | Zaccaria Pinball: Combat Table | 158447 | [158447-zaccaria-pinball-combat-table.json](./158447-zaccaria-pinball-combat-table.json) |
 | Zaccaria Pinball: Deluxe Table Pack 2 | 411006 | [411006-zaccaria-pinball-deluxe-table-pack-2.json](./411006-zaccaria-pinball-deluxe-table-pack-2.json) |
 | Zaccaria Pinball: Deluxe Table Pack 3 | 411007 | [411007-zaccaria-pinball-deluxe-table-pack-3.json](./411007-zaccaria-pinball-deluxe-table-pack-3.json) |
 | Zaccaria Pinball: Deluxe Tables Pack 1 | 208453 | [208453-zaccaria-pinball-deluxe-tables-pack-1.json](./208453-zaccaria-pinball-deluxe-tables-pack-1.json) |
+| Zaccaria Pinball: Devil Riders 2019 Table | 158470 | [158470-zaccaria-pinball-devil-riders-2019-table.json](./158470-zaccaria-pinball-devil-riders-2019-table.json) |
 | Zaccaria Pinball: Devil Riders Table | 158431 | [158431-zaccaria-pinball-devil-riders-table.json](./158431-zaccaria-pinball-devil-riders-table.json) |
+| Zaccaria Pinball: Earth Wind Fire 2017 Table | 158463 | [158463-zaccaria-pinball-earth-wind-fire-2017-table.json](./158463-zaccaria-pinball-earth-wind-fire-2017-table.json) |
 | Zaccaria Pinball: Earth Wind Fire Deluxe Pinball Table | 349922 | [349922-zaccaria-pinball-earth-wind-fire-deluxe-pinball-table.json](./349922-zaccaria-pinball-earth-wind-fire-deluxe-pinball-table.json) |
 | Zaccaria Pinball: Earth Wind Fire Table | 158441 | [158441-zaccaria-pinball-earth-wind-fire-table.json](./158441-zaccaria-pinball-earth-wind-fire-table.json) |
 | Zaccaria Pinball: Electro-Mechanical Table Pack 2 | 411008 | [411008-zaccaria-pinball-electro-mechanical-table-pack-2.json](./411008-zaccaria-pinball-electro-mechanical-table-pack-2.json) |
 | Zaccaria Pinball: Electro-Mechanical Tables Pack 1 | 224154 | [224154-zaccaria-pinball-electro-mechanical-tables-pack-1.json](./224154-zaccaria-pinball-electro-mechanical-tables-pack-1.json) |
 | Zaccaria Pinball: Fallen Aces Table Pack | 395459 | [395459-zaccaria-pinball-fallen-aces-table-pack.json](./395459-zaccaria-pinball-fallen-aces-table-pack.json) |
+| Zaccaria Pinball: Farfalla 2017 Table | 158450 | [158450-zaccaria-pinball-farfalla-2017-table.json](./158450-zaccaria-pinball-farfalla-2017-table.json) |
 | Zaccaria Pinball: Farfalla Deluxe Pinball Table | 158426 | [158426-zaccaria-pinball-farfalla-deluxe-pinball-table.json](./158426-zaccaria-pinball-farfalla-deluxe-pinball-table.json) |
+| Zaccaria Pinball: Farfalla Table | 158481 | [158481-zaccaria-pinball-farfalla-table.json](./158481-zaccaria-pinball-farfalla-table.json) |
+| Zaccaria Pinball: Fire Mountain 2019 Table | 158458 | [158458-zaccaria-pinball-fire-mountain-2019-table.json](./158458-zaccaria-pinball-fire-mountain-2019-table.json) |
+| Zaccaria Pinball: Fire Mountain Table | 158484 | [158484-zaccaria-pinball-fire-mountain-table.json](./158484-zaccaria-pinball-fire-mountain-table.json) |
 | Zaccaria Pinball: Future World 2018 Table | 158425 | [158425-zaccaria-pinball-future-world-2018-table.json](./158425-zaccaria-pinball-future-world-2018-table.json) |
 | Zaccaria Pinball: Future World Deluxe Pinball Table | 349923 | [349923-zaccaria-pinball-future-world-deluxe-pinball-table.json](./349923-zaccaria-pinball-future-world-deluxe-pinball-table.json) |
+| Zaccaria Pinball: Future World Table | 158476 | [158476-zaccaria-pinball-future-world-table.json](./158476-zaccaria-pinball-future-world-table.json) |
+| Zaccaria Pinball: Granada Table | 158468 | [158468-zaccaria-pinball-granada-table.json](./158468-zaccaria-pinball-granada-table.json) |
+| Zaccaria Pinball: Hot Wheels 2017 Table | 158462 | [158462-zaccaria-pinball-hot-wheels-2017-table.json](./158462-zaccaria-pinball-hot-wheels-2017-table.json) |
+| Zaccaria Pinball: Hot Wheels Table | 158454 | [158454-zaccaria-pinball-hot-wheels-table.json](./158454-zaccaria-pinball-hot-wheels-table.json) |
+| Zaccaria Pinball: House of Diamonds 2017 Table | 158466 | [158466-zaccaria-pinball-house-of-diamonds-2017-table.json](./158466-zaccaria-pinball-house-of-diamonds-2017-table.json) |
+| Zaccaria Pinball: House of Diamonds Deluxe Pinball Table | 158460 | [158460-zaccaria-pinball-house-of-diamonds-deluxe-pinball-table.json](./158460-zaccaria-pinball-house-of-diamonds-deluxe-pinball-table.json) |
+| Zaccaria Pinball: House of Diamonds Table | 158467 | [158467-zaccaria-pinball-house-of-diamonds-table.json](./158467-zaccaria-pinball-house-of-diamonds-table.json) |
 | Zaccaria Pinball: Locomotion 2018 Table | 158489 | [158489-zaccaria-pinball-locomotion-2018-table.json](./158489-zaccaria-pinball-locomotion-2018-table.json) |
+| Zaccaria Pinball: Locomotion Table | 158453 | [158453-zaccaria-pinball-locomotion-table.json](./158453-zaccaria-pinball-locomotion-table.json) |
+| Zaccaria Pinball: Lucky Fruit Table | 158452 | [158452-zaccaria-pinball-lucky-fruit-table.json](./158452-zaccaria-pinball-lucky-fruit-table.json) |
 | Zaccaria Pinball: Magic Castle 2017 Table | 158434 | [158434-zaccaria-pinball-magic-castle-2017-table.json](./158434-zaccaria-pinball-magic-castle-2017-table.json) |
 | Zaccaria Pinball: Magic Castle Deluxe Pinball Table | 349915 | [349915-zaccaria-pinball-magic-castle-deluxe-pinball-table.json](./349915-zaccaria-pinball-magic-castle-deluxe-pinball-table.json) |
 | Zaccaria Pinball: Magic Castle Table | 158423 | [158423-zaccaria-pinball-magic-castle-table.json](./158423-zaccaria-pinball-magic-castle-table.json) |
 | Zaccaria Pinball: Master Edition | 107669 | [107669-zaccaria-pinball-master-edition.json](./107669-zaccaria-pinball-master-edition.json) |
 | Zaccaria Pinball: Mexico '86 Table | 158428 | [158428-zaccaria-pinball-mexico-86-table.json](./158428-zaccaria-pinball-mexico-86-table.json) |
 | Zaccaria Pinball: Moon Flight Deluxe Pinball Table | 349918 | [349918-zaccaria-pinball-moon-flight-deluxe-pinball-table.json](./349918-zaccaria-pinball-moon-flight-deluxe-pinball-table.json) |
+| Zaccaria Pinball: Moon Flight Table | 158464 | [158464-zaccaria-pinball-moon-flight-table.json](./158464-zaccaria-pinball-moon-flight-table.json) |
+| Zaccaria Pinball: Mystic Star Table | 158465 | [158465-zaccaria-pinball-mystic-star-table.json](./158465-zaccaria-pinball-mystic-star-table.json) |
+| Zaccaria Pinball: Nautilus 2018 Table | 158451 | [158451-zaccaria-pinball-nautilus-2018-table.json](./158451-zaccaria-pinball-nautilus-2018-table.json) |
 | Zaccaria Pinball: Nautilus Table | 158493 | [158493-zaccaria-pinball-nautilus-table.json](./158493-zaccaria-pinball-nautilus-table.json) |
 | Zaccaria Pinball: Pinball Champ 2018 Table | 238018 | [238018-zaccaria-pinball-pinball-champ-2018-table.json](./238018-zaccaria-pinball-pinball-champ-2018-table.json) |
 | Zaccaria Pinball: Pinball Champ Deluxe Pinball Table | 349919 | [349919-zaccaria-pinball-pinball-champ-deluxe-pinball-table.json](./349919-zaccaria-pinball-pinball-champ-deluxe-pinball-table.json) |
+| Zaccaria Pinball: Pinball Champ Table Pack | 158461 | [158461-zaccaria-pinball-pinball-champ-table-pack.json](./158461-zaccaria-pinball-pinball-champ-table-pack.json) |
 | Zaccaria Pinball: Pool Champion 2018 Table | 156105 | [156105-zaccaria-pinball-pool-champion-2018-table.json](./156105-zaccaria-pinball-pool-champion-2018-table.json) |
+| Zaccaria Pinball: Pool Champion Deluxe Pinball Table | 158473 | [158473-zaccaria-pinball-pool-champion-deluxe-pinball-table.json](./158473-zaccaria-pinball-pool-champion-deluxe-pinball-table.json) |
 | Zaccaria Pinball: Pool Champion Table | 158445 | [158445-zaccaria-pinball-pool-champion-table.json](./158445-zaccaria-pinball-pool-champion-table.json) |
 | Zaccaria Pinball: Postal 2 Table Pack | 215390 | [215390-zaccaria-pinball-postal-2-table-pack.json](./215390-zaccaria-pinball-postal-2-table-pack.json) |
 | Zaccaria Pinball: Postal Redux Pinball Pack | 193104 | [193104-zaccaria-pinball-postal-redux-pinball-pack.json](./193104-zaccaria-pinball-postal-redux-pinball-pack.json) |
+| Zaccaria Pinball: Red Show Deluxe Pinball Table | 158479 | [158479-zaccaria-pinball-red-show-deluxe-pinball-table.json](./158479-zaccaria-pinball-red-show-deluxe-pinball-table.json) |
 | Zaccaria Pinball: Red Show Table | 158446 | [158446-zaccaria-pinball-red-show-table.json](./158446-zaccaria-pinball-red-show-table.json) |
 | Zaccaria Pinball: Remake Table Pack 1 | 238011 | [238011-zaccaria-pinball-remake-table-pack-1.json](./238011-zaccaria-pinball-remake-table-pack-1.json) |
 | Zaccaria Pinball: Remake Table Pack 2 | 238012 | [238012-zaccaria-pinball-remake-table-pack-2.json](./238012-zaccaria-pinball-remake-table-pack-2.json) |
 | Zaccaria Pinball: Remake Table Pack 3 | 237905 | [237905-zaccaria-pinball-remake-table-pack-3.json](./237905-zaccaria-pinball-remake-table-pack-3.json) |
 | Zaccaria Pinball: Robot 2018 Table | 158435 | [158435-zaccaria-pinball-robot-2018-table.json](./158435-zaccaria-pinball-robot-2018-table.json) |
+| Zaccaria Pinball: Robot Deluxe Pinball Table | 158457 | [158457-zaccaria-pinball-robot-deluxe-pinball-table.json](./158457-zaccaria-pinball-robot-deluxe-pinball-table.json) |
+| Zaccaria Pinball: Robot Table | 158455 | [158455-zaccaria-pinball-robot-table.json](./158455-zaccaria-pinball-robot-table.json) |
 | Zaccaria Pinball: Shooting the Rapids | 156099 | [156099-zaccaria-pinball-shooting-the-rapids.json](./156099-zaccaria-pinball-shooting-the-rapids.json) |
 | Zaccaria Pinball: Shooting the Rapids - 2016 Table | 344575 | [344575-zaccaria-pinball-shooting-the-rapids-2016-table.json](./344575-zaccaria-pinball-shooting-the-rapids-2016-table.json) |
 | Zaccaria Pinball: Shooting the Rapids Deluxe Pinball Table | 349920 | [349920-zaccaria-pinball-shooting-the-rapids-deluxe-pinball-table.json](./349920-zaccaria-pinball-shooting-the-rapids-deluxe-pinball-table.json) |
 | Zaccaria Pinball: Soccer Kings Deluxe Pinball Table | 349917 | [349917-zaccaria-pinball-soccer-kings-deluxe-pinball-table.json](./349917-zaccaria-pinball-soccer-kings-deluxe-pinball-table.json) |
+| Zaccaria Pinball: Soccer Kings Table | 158471 | [158471-zaccaria-pinball-soccer-kings-table.json](./158471-zaccaria-pinball-soccer-kings-table.json) |
 | Zaccaria Pinball: Solid-State Table Pack 2 | 237985 | [237985-zaccaria-pinball-solid-state-table-pack-2.json](./237985-zaccaria-pinball-solid-state-table-pack-2.json) |
 | Zaccaria Pinball: Solid-State Table Pack 3 | 411009 | [411009-zaccaria-pinball-solid-state-table-pack-3.json](./411009-zaccaria-pinball-solid-state-table-pack-3.json) |
 | Zaccaria Pinball: Space Shuttle 2016 Table | 158432 | [158432-zaccaria-pinball-space-shuttle-2016-table.json](./158432-zaccaria-pinball-space-shuttle-2016-table.json) |
 | Zaccaria Pinball: Space Shuttle Table | 158433 | [158433-zaccaria-pinball-space-shuttle-table.json](./158433-zaccaria-pinball-space-shuttle-table.json) |
 | Zaccaria Pinball: Spooky 2017 Table | 158444 | [158444-zaccaria-pinball-spooky-2017-table.json](./158444-zaccaria-pinball-spooky-2017-table.json) |
+| Zaccaria Pinball: Spooky Deluxe Pinball Table | 158474 | [158474-zaccaria-pinball-spooky-deluxe-pinball-table.json](./158474-zaccaria-pinball-spooky-deluxe-pinball-table.json) |
 | Zaccaria Pinball: Spooky Table | 158427 | [158427-zaccaria-pinball-spooky-table.json](./158427-zaccaria-pinball-spooky-table.json) |
 | Zaccaria Pinball: Star God 2019 Table | 158443 | [158443-zaccaria-pinball-star-god-2019-table.json](./158443-zaccaria-pinball-star-god-2019-table.json) |
+| Zaccaria Pinball: Star God Table | 158472 | [158472-zaccaria-pinball-star-god-table.json](./158472-zaccaria-pinball-star-god-table.json) |
 | Zaccaria Pinball: Star's Phoenix 2018 Table | 158438 | [158438-zaccaria-pinball-stars-phoenix-2018-table.json](./158438-zaccaria-pinball-stars-phoenix-2018-table.json) |
 | Zaccaria Pinball: Star's Phoenix Table | 158437 | [158437-zaccaria-pinball-stars-phoenix-table.json](./158437-zaccaria-pinball-stars-phoenix-table.json) |
 | Zaccaria Pinball: Strike Deluxe Pinball Table | 158442 | [158442-zaccaria-pinball-strike-deluxe-pinball-table.json](./158442-zaccaria-pinball-strike-deluxe-pinball-table.json) |
+| Zaccaria Pinball: Strike Table | 158480 | [158480-zaccaria-pinball-strike-table.json](./158480-zaccaria-pinball-strike-table.json) |
 | Zaccaria Pinball: Supersonic Deluxe Pinball Table | 349916 | [349916-zaccaria-pinball-supersonic-deluxe-pinball-table.json](./349916-zaccaria-pinball-supersonic-deluxe-pinball-table.json) |
 | Zaccaria Pinball: Supersonic Table | 158448 | [158448-zaccaria-pinball-supersonic-table.json](./158448-zaccaria-pinball-supersonic-table.json) |
 | Zaccaria Pinball: Time Machine 2019 Table | 158440 | [158440-zaccaria-pinball-time-machine-2019-table.json](./158440-zaccaria-pinball-time-machine-2019-table.json) |
+| Zaccaria Pinball: Top Hand Table | 158456 | [158456-zaccaria-pinball-top-hand-table.json](./158456-zaccaria-pinball-top-hand-table.json) |
+| Zaccaria Pinball: Tropical 2019 Table | 158477 | [158477-zaccaria-pinball-tropical-2019-table.json](./158477-zaccaria-pinball-tropical-2019-table.json) |
 | Zaccaria Pinball: Tropical Deluxe Pinball Table | 349921 | [349921-zaccaria-pinball-tropical-deluxe-pinball-table.json](./349921-zaccaria-pinball-tropical-deluxe-pinball-table.json) |
+| Zaccaria Pinball: Tropical Table | 158487 | [158487-zaccaria-pinball-tropical-table.json](./158487-zaccaria-pinball-tropical-table.json) |
+| Zaccaria Pinball: Universe Deluxe Pinball Table | 158459 | [158459-zaccaria-pinball-universe-deluxe-pinball-table.json](./158459-zaccaria-pinball-universe-deluxe-pinball-table.json) |
+| Zaccaria Pinball: Universe Table | 158488 | [158488-zaccaria-pinball-universe-table.json](./158488-zaccaria-pinball-universe-table.json) |
+| Zaccaria Pinball: Winter Sports 2018 Table | 158482 | [158482-zaccaria-pinball-winter-sports-2018-table.json](./158482-zaccaria-pinball-winter-sports-2018-table.json) |
 | Zaccaria Pinball: Winter Sports Table | 158439 | [158439-zaccaria-pinball-winter-sports-table.json](./158439-zaccaria-pinball-winter-sports-table.json) |
 | Zaccaria Pinball: Wood's Queen 2019 Table | 158495 | [158495-zaccaria-pinball-woods-queen-2019-table.json](./158495-zaccaria-pinball-woods-queen-2019-table.json) |
+| Zaccaria Pinball: Wood's Queen Table | 158485 | [158485-zaccaria-pinball-woods-queen-table.json](./158485-zaccaria-pinball-woods-queen-table.json) |
+| Zaccaria Pinball: Zankor 2017 Table | 158483 | [158483-zaccaria-pinball-zankor-2017-table.json](./158483-zaccaria-pinball-zankor-2017-table.json) |
 | Zaccaria Pinball: Zankor Table | 158491 | [158491-zaccaria-pinball-zankor-table.json](./158491-zaccaria-pinball-zankor-table.json) |
 | Zaccaria Pinball: Zombie Invasion | 208455 | [208455-zaccaria-pinball-zombie-invasion.json](./208455-zaccaria-pinball-zombie-invasion.json) |
 | Zach-Like | 119788 | [119788-zach-like.json](./119788-zach-like.json) |
