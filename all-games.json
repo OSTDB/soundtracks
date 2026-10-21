@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-21T20:51:39.495Z",
-  "total_soundtracks": 2448,
+  "generated_at": "2026-10-21T20:56:35.366Z",
+  "total_soundtracks": 2457,
   "games": [
     {
       "igdb_id": 7522,
@@ -3599,6 +3599,20 @@
       ]
     },
     {
+      "igdb_id": 126138,
+      "game_name": "Borderlands 3: Moxxi's Heist of the Handsome Jackpot",
+      "game_url": "https://ostdb.net/games/borderlands-3-moxxis-heist-of-the-handsome-jackpot",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27308946008d566f1ddf371e9a9",
+      "albums": [
+        {
+          "album_name": "Borderlands 3: Moxxi's Heist of the Handsome Jackpot (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/70zQAAROrV1HgW4VpL2Voa",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 314246,
       "game_name": "Borderlands 4",
       "game_url": "https://ostdb.net/games/borderlands-4",
@@ -3689,6 +3703,20 @@
         {
           "album_name": "Boyfriend Dungeon (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/3RFz8CC8bnSs61QbkRrmUT",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 136511,
+      "game_name": "Braid: Anniversary Edition",
+      "game_url": "https://ostdb.net/games/braid-anniversary-edition",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273674fea54cfcad29740a80dfb",
+      "albums": [
+        {
+          "album_name": "Braid, Anniversary Edition (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/774SNeJzn7r8Navz08cSD4",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -3858,6 +3886,20 @@
           "album_name": "Bully (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/6FRWV9d4hXU15UkH6rGpcS",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 24839,
+      "game_name": "Butcher",
+      "game_url": "https://ostdb.net/games/butcher",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273df526c49662254360a98da7b",
+      "albums": [
+        {
+          "album_name": "Butcher (Original Soundtrack) [Extended]",
+          "spotify_url": "https://open.spotify.com/album/22dhdS4SyP9a55yjGkLWcD",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
@@ -7041,6 +7083,20 @@
           "spotify_url": "https://open.spotify.com/album/6uvJvKD5z98wDl4haYoIMm",
           "apple_music_url": "https://music.apple.com/us/album/dishonored-death-of-the-outsider-original-game-soundtrack/1526283908",
           "album_link_url": "https://album.link/i/1526283908"
+        }
+      ]
+    },
+    {
+      "igdb_id": 120625,
+      "game_name": "Disintegration",
+      "game_url": "https://ostdb.net/games/disintegration",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273963e04b22c383a44d48ede77",
+      "albums": [
+        {
+          "album_name": "Disintegration (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1QXjWIIyZXTlyfA9dbHQHX",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
@@ -12673,6 +12729,20 @@
         {
           "album_name": "Identity V Soundtrack",
           "spotify_url": "https://open.spotify.com/album/1U9qM2E45jEOETpwd7gRY5",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 139040,
+      "game_name": "Idle Slayer",
+      "game_url": "https://ostdb.net/games/idle-slayer",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273dc7031446a77b06f412f5c31",
+      "albums": [
+        {
+          "album_name": "Idle Slayer (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/01ia88MikTgjkFMXOmq7g9",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -18317,6 +18387,20 @@
       ]
     },
     {
+      "igdb_id": 12192,
+      "game_name": "Pac-Mania",
+      "game_url": "https://ostdb.net/games/pac-mania",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273bec02afac509e0d8479ecda5",
+      "albums": [
+        {
+          "album_name": "PAC-MANIA (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0R2YB9CwwuggFJn2DMr47N",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 217592,
       "game_name": "Pacific Drive",
       "game_url": "https://ostdb.net/games/pacific-drive",
@@ -21895,6 +21979,20 @@
         {
           "album_name": "Ship of Fools (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/3AlAfHHR6XjWCvgS8dsrJS",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 208533,
+      "game_name": "Shogun Showdown",
+      "game_url": "https://ostdb.net/games/shogun-showdown",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273730b38a1418452fbeee63954",
+      "albums": [
+        {
+          "album_name": "Shogun Showdown (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/4odshxdbEbyOpi9PS86YXx",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -26583,6 +26681,20 @@
       ]
     },
     {
+      "igdb_id": 225246,
+      "game_name": "The Sims 2",
+      "game_url": "https://ostdb.net/games/the-sims-2",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273e360fbb82e572bb9c59e1b46",
+      "albums": [
+        {
+          "album_name": "The Sims 2 (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5y3IHg8hVlbfbFgIUWtCeL",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 260,
       "game_name": "The Sims 3",
       "game_url": "https://ostdb.net/games/the-sims-3",
@@ -28309,6 +28421,20 @@
         {
           "album_name": "UNSIGHTED (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/3IJhh2ZJ03OZtIowxkFalV",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 216491,
+      "game_name": "Unsolved Case",
+      "game_url": "https://ostdb.net/games/unsolved-case",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27338b2742e92ea3f58178dcc19",
+      "albums": [
+        {
+          "album_name": "Unsolved Case (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5GMZsRUacKBTu5bhTNV0kn",
           "apple_music_url": "",
           "album_link_url": ""
         }
