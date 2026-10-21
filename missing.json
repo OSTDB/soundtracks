@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-21T20:11:36.274Z",
-  "total_missing": 243534,
+  "generated_at": "2026-10-21T20:17:23.432Z",
+  "total_missing": 243529,
   "games": [
     {
       "igdb_id": 191680,
@@ -87887,11 +87887,6 @@
       "file": "missing/B/313240-balamory-join-the-fun.json"
     },
     {
-      "igdb_id": 135992,
-      "game_name": "Balan Wonderworld",
-      "file": "missing/B/135992-balan-wonderworld.json"
-    },
-    {
       "igdb_id": 260772,
       "game_name": "Balance",
       "file": "missing/B/260772-balance.json"
@@ -172987,11 +172982,6 @@
       "file": "missing/C/76427-celeste-witch.json"
     },
     {
-      "igdb_id": 122556,
-      "game_name": "Celeste: Farewell",
-      "file": "missing/C/122556-celeste-farewell.json"
-    },
-    {
       "igdb_id": 353715,
       "game_name": "Celeste: Into The Jungle",
       "file": "missing/C/353715-celeste-into-the-jungle.json"
@@ -190977,6 +190967,11 @@
       "file": "missing/C/162203-classic-jigsaw-puzzles-forest-jigsaw-puzzles.json"
     },
     {
+      "igdb_id": 162227,
+      "game_name": "Classic Jigsaw Puzzles: Gardens",
+      "file": "missing/C/162227-classic-jigsaw-puzzles-gardens.json"
+    },
+    {
       "igdb_id": 162200,
       "game_name": "Classic Jigsaw Puzzles: House",
       "file": "missing/C/162200-classic-jigsaw-puzzles-house.json"
@@ -207405,11 +207400,6 @@
       "igdb_id": 137345,
       "game_name": "Convergence Compulsion",
       "file": "missing/C/137345-convergence-compulsion.json"
-    },
-    {
-      "igdb_id": 127354,
-      "game_name": "Convergence: A League of Legends Story",
-      "file": "missing/C/127354-convergence-a-league-of-legends-story.json"
     },
     {
       "igdb_id": 249360,
@@ -559927,11 +559917,6 @@
       "file": "missing/L/348328-later.json"
     },
     {
-      "igdb_id": 112939,
-      "game_name": "Later Alligator",
-      "file": "missing/L/112939-later-alligator.json"
-    },
-    {
       "igdb_id": 238183,
       "game_name": "Later Daters: Part One and Two",
       "file": "missing/L/238183-later-daters-part-one-and-two.json"
@@ -657455,11 +657440,6 @@
       "igdb_id": 237772,
       "game_name": "Morbid: The Lords of Ire",
       "file": "missing/M/237772-morbid-the-lords-of-ire.json"
-    },
-    {
-      "igdb_id": 134817,
-      "game_name": "Morbid: The Seven Acolytes",
-      "file": "missing/M/134817-morbid-the-seven-acolytes.json"
     },
     {
       "igdb_id": 271757,
@@ -863052,11 +863032,6 @@
       "file": "missing/S/151169-salt-2-shores-of-gold.json"
     },
     {
-      "igdb_id": 152065,
-      "game_name": "Salt and Sacrifice",
-      "file": "missing/S/152065-salt-and-sacrifice.json"
-    },
-    {
       "igdb_id": 153921,
       "game_name": "Salt and Sails",
       "file": "missing/S/153921-salt-and-sails.json"
@@ -979642,6 +979617,11 @@
       "file": "missing/S/155608-super-jigsaw-puzzle-generations-sweets-puzzles.json"
     },
     {
+      "igdb_id": 162228,
+      "game_name": "Super Jigsaw Puzzle: Generations - Switzerland",
+      "file": "missing/S/162228-super-jigsaw-puzzle-generations-switzerland.json"
+    },
+    {
       "igdb_id": 196677,
       "game_name": "Super Jigsaw Puzzle: Generations - Technology",
       "file": "missing/S/196677-super-jigsaw-puzzle-generations-technology.json"
@@ -1071465,11 +1071445,6 @@
       "igdb_id": 64971,
       "game_name": "The Wild",
       "file": "missing/T/64971-the-wild.json"
-    },
-    {
-      "igdb_id": 116522,
-      "game_name": "The Wild at Heart",
-      "file": "missing/T/116522-the-wild-at-heart.json"
     },
     {
       "igdb_id": 126639,
