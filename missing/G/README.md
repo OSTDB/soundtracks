@@ -2916,6 +2916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Member | 264689 | [264689-ghost-member.json](./264689-ghost-member.json) |
 | Ghost Mission | 256425 | [256425-ghost-mission.json](./256425-ghost-mission.json) |
 | Ghost Mountain | 114992 | [114992-ghost-mountain.json](./114992-ghost-mountain.json) |
+| Ghost Mountain Roller Coaster | 157360 | [157360-ghost-mountain-roller-coaster.json](./157360-ghost-mountain-roller-coaster.json) |
 | Ghost Ninja | 289447 | [289447-ghost-ninja.json](./289447-ghost-ninja.json) |
 | Ghost Ninja: Zombie Beatdown | 401311 | [401311-ghost-ninja-zombie-beatdown.json](./401311-ghost-ninja-zombie-beatdown.json) |
 | Ghost Observation | 395047 | [395047-ghost-observation.json](./395047-ghost-observation.json) |
@@ -8432,6 +8433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guns and Waifus | 157209 | [157209-guns-and-waifus.json](./157209-guns-and-waifus.json) |
 | Guns Arcade: City Crisis VR | 307424 | [307424-guns-arcade-city-crisis-vr.json](./307424-guns-arcade-city-crisis-vr.json) |
 | Guns at Dawn: Arena | 214451 | [214451-guns-at-dawn-arena.json](./214451-guns-at-dawn-arena.json) |
+| Guns Blazing | 157370 | [157370-guns-blazing.json](./157370-guns-blazing.json) |
 | Guns Boy | 158170 | [158170-guns-boy.json](./158170-guns-boy.json) |
 | Guns Craft Mod | 90708 | [90708-guns-craft-mod.json](./90708-guns-craft-mod.json) |
 | Guns GirlZ | 79282 | [79282-guns-girlz.json](./79282-guns-girlz.json) |
