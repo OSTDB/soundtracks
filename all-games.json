@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-21T20:36:02.232Z",
-  "total_soundtracks": 2419,
+  "generated_at": "2026-10-21T20:41:21.236Z",
+  "total_soundtracks": 2426,
   "games": [
     {
       "igdb_id": 7522,
@@ -547,6 +547,20 @@
       ]
     },
     {
+      "igdb_id": 286114,
+      "game_name": "AFK Journey",
+      "game_url": "https://ostdb.net/games/afk-journey",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273dfa64268216150416318ef0b",
+      "albums": [
+        {
+          "album_name": "AFK Journey: Original Game Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/4Xy4DzUdKo7VbaqK4j84hr",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 185642,
       "game_name": "Afterimage",
       "game_url": "https://ostdb.net/games/afterimage",
@@ -941,6 +955,20 @@
         {
           "album_name": "Amanda the Adventurer (Official Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/4J19gCElJlAkLRFCquUSfK",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 198439,
+      "game_name": "American Arcadia",
+      "game_url": "https://ostdb.net/games/american-arcadia",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27312ad96058f29f15077f4f3c1",
+      "albums": [
+        {
+          "album_name": "American Arcadia (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2R31Nas74RUR9Z8tKPyVEb",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -12149,6 +12177,20 @@
       ]
     },
     {
+      "igdb_id": 136981,
+      "game_name": "Hoa",
+      "game_url": "https://ostdb.net/games/hoa",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273b6f58659bdbc4e3264ec2be5",
+      "albums": [
+        {
+          "album_name": "Hoa (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/7gd72w6wdutX9soiomGFat",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 136625,
       "game_name": "Hogwarts Legacy",
       "game_url": "https://ostdb.net/games/hogwarts-legacy",
@@ -15895,6 +15937,20 @@
       ]
     },
     {
+      "igdb_id": 276203,
+      "game_name": "Minami Lane",
+      "game_url": "https://ostdb.net/games/minami-lane",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2734eacbab6ef416aa453b62028",
+      "albums": [
+        {
+          "album_name": "Minami Lane Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/6SRAcMScFwXVOMNAh3LqYU",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 275169,
       "game_name": "Mindwave",
       "game_url": "https://ostdb.net/games/mindwave",
@@ -16599,6 +16655,20 @@
         {
           "album_name": "Murder by Numbers (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/3TexCZRxFJK1rrGkkZITcp",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 135763,
+      "game_name": "Murder House",
+      "game_url": "https://ostdb.net/games/murder-house",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27351b42750744bc2aa248a31d2",
+      "albums": [
+        {
+          "album_name": "Murder House (Original Puppet Combo Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1b55866LzLJRuBT5hqrdYR",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -17713,6 +17783,20 @@
       ]
     },
     {
+      "igdb_id": 111717,
+      "game_name": "One Step From Eden",
+      "game_url": "https://ostdb.net/games/one-step-from-eden",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27318d67aaffad36c55aab87856",
+      "albums": [
+        {
+          "album_name": "One Step from Eden (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/7aBztkzauDNcBONykdXM6d",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 225565,
       "game_name": "OneShot",
       "game_url": "https://ostdb.net/games/oneshot",
@@ -17950,6 +18034,20 @@
           "album_name": "Outriders (Original Video Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/0UQJWW8he5n68KPhE9NTEC",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 151067,
+      "game_name": "Overboard!",
+      "game_url": "https://ostdb.net/games/overboard",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2737f79bbc76e109d4a1c8ed710",
+      "albums": [
+        {
+          "album_name": "Overboard (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/69qzO11ENNaCAz91Im9Xo2",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
