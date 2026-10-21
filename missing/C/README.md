@@ -1146,6 +1146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cannon Foundry Simulator | 219218 | [219218-cannon-foundry-simulator.json](./219218-cannon-foundry-simulator.json) |
 | Cannon Guys | 334859 | [334859-cannon-guys.json](./334859-cannon-guys.json) |
 | Cannon Keep | 381198 | [381198-cannon-keep.json](./381198-cannon-keep.json) |
+| Cannon Lab 13 | 157443 | [157443-cannon-lab-13.json](./157443-cannon-lab-13.json) |
 | Cannon Master: Military Sport | 280154 | [280154-cannon-master-military-sport.json](./280154-cannon-master-military-sport.json) |
 | Cannon Momento | 179577 | [179577-cannon-momento.json](./179577-cannon-momento.json) |
 | Cannon Rats | 239470 | [239470-cannon-rats.json](./239470-cannon-rats.json) |
@@ -5821,6 +5822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ChocChocPop | 66191 | [66191-chocchocpop.json](./66191-chocchocpop.json) |
 | Choco Clicker World | 344547 | [344547-choco-clicker-world.json](./344547-choco-clicker-world.json) |
 | Choco Kiosk Simulator | 363019 | [363019-choco-kiosk-simulator.json](./363019-choco-kiosk-simulator.json) |
+| Choco Pixel 4 | 157448 | [157448-choco-pixel-4.json](./157448-choco-pixel-4.json) |
 | Choco Pixel 5 | 158104 | [158104-choco-pixel-5.json](./158104-choco-pixel-5.json) |
 | Choco Pixel 6 | 158060 | [158060-choco-pixel-6.json](./158060-choco-pixel-6.json) |
 | Choco Pixel 7 | 158591 | [158591-choco-pixel-7.json](./158591-choco-pixel-7.json) |
