@@ -3414,7 +3414,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life Eater | 289431 | [289431-life-eater.json](./289431-life-eater.json) |
 | Life Effect | 236763 | [236763-life-effect.json](./236763-life-effect.json) |
 | Life Eternal | 225235 | [225235-life-eternal.json](./225235-life-eternal.json) |
-| Life Force | 174945 | [174945-life-force.json](./174945-life-force.json) |
 | Life Force | 261899 | [261899-life-force.json](./261899-life-force.json) |
 | Life Force | 261900 | [261900-life-force.json](./261900-life-force.json) |
 | Life Force SNES Port | 377226 | [377226-life-force-snes-port.json](./377226-life-force-snes-port.json) |
