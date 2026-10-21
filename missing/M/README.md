@@ -9181,7 +9181,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minable & Create | 155123 | [155123-minable-and-create.json](./155123-minable-and-create.json) |
 | Minakata Hakudou Toujou | 210835 | [210835-minakata-hakudou-toujou.json](./210835-minakata-hakudou-toujou.json) |
 | Minako: Beloved Wife in the Countryside | 295391 | [295391-minako-beloved-wife-in-the-countryside.json](./295391-minako-beloved-wife-in-the-countryside.json) |
-| Minami Lane | 276203 | [276203-minami-lane.json](./276203-minami-lane.json) |
 | Minami no Shima ni Buta Ga Ita | 267647 | [267647-minami-no-shima-ni-buta-ga-ita.json](./267647-minami-no-shima-ni-buta-ga-ita.json) |
 | Minami Taiheiyou Adventure | 400335 | [400335-minami-taiheiyou-adventure.json](./400335-minami-taiheiyou-adventure.json) |
 | Minamochi Factory | 253912 | [253912-minamochi-factory.json](./253912-minamochi-factory.json) |
@@ -14786,7 +14785,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Murder Generation: Cream City Chaos | 255276 | [255276-murder-generation-cream-city-chaos.json](./255276-murder-generation-cream-city-chaos.json) |
 | Murder Gods Play Pachinko | 325293 | [325293-murder-gods-play-pachinko.json](./325293-murder-gods-play-pachinko.json) |
 | Murder Hornets | 164967 | [164967-murder-hornets.json](./164967-murder-hornets.json) |
-| Murder House | 135763 | [135763-murder-house.json](./135763-murder-house.json) |
 | Murder in a Wheel | 62153 | [62153-murder-in-a-wheel.json](./62153-murder-in-a-wheel.json) |
 | Murder in the Maze | 308418 | [308418-murder-in-the-maze.json](./308418-murder-in-the-maze.json) |
 | Murder Inc | 333442 | [333442-murder-inc.json](./333442-murder-inc.json) |
