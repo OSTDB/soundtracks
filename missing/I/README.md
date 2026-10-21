@@ -2858,6 +2858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infestus | 235456 | [235456-infestus.json](./235456-infestus.json) |
 | Infferno | 127724 | [127724-infferno.json](./127724-infferno.json) |
 | Infidel | 12157 | [12157-infidel.json](./12157-infidel.json) |
+| Infidhells | 158970 | [158970-infidhells.json](./158970-infidhells.json) |
 | Infierno Rubí | 294232 | [294232-infierno-rubi.json](./294232-infierno-rubi.json) |
 | Infiltrate | 22413 | [22413-infiltrate.json](./22413-infiltrate.json) |
 | Infiltrating Roudille | 403065 | [403065-infiltrating-roudille.json](./403065-infiltrating-roudille.json) |
