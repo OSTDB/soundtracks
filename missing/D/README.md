@@ -514,7 +514,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dan McFox: Head Hunter | 58667 | [58667-dan-mcfox-head-hunter.json](./58667-dan-mcfox-head-hunter.json) |
 | Dan Sisal's 501 Darts Trainer | 168305 | [168305-dan-sisals-501-darts-trainer.json](./168305-dan-sisals-501-darts-trainer.json) |
 | Dan the Inmortal | 211043 | [211043-dan-the-inmortal.json](./211043-dan-the-inmortal.json) |
-| Dan the Man | 38946 | [38946-dan-the-man.json](./38946-dan-the-man.json) |
 | Dan Vs. This Game | 63879 | [63879-dan-vs-this-game.json](./63879-dan-vs-this-game.json) |
 | Dan's Odyssey | 223329 | [223329-dans-odyssey.json](./223329-dans-odyssey.json) |
 | Dana The Cyber Relic | 417952 | [417952-dana-the-cyber-relic.json](./417952-dana-the-cyber-relic.json) |
@@ -8972,7 +8971,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doki Doki Happy Thoughts | 334821 | [334821-doki-doki-happy-thoughts.json](./334821-doki-doki-happy-thoughts.json) |
 | Doki Doki House | 207712 | [207712-doki-doki-house.json](./207712-doki-doki-house.json) |
 | Doki Doki Indian Man Time | 333919 | [333919-doki-doki-indian-man-time.json](./333919-doki-doki-indian-man-time.json) |
-| Doki Doki Literature Club | 309582 | [309582-doki-doki-literature-club.json](./309582-doki-doki-literature-club.json) |
 | Doki Doki Literature Club Plus!: Premium Edition | 166194 | [166194-doki-doki-literature-club-plus-premium-edition.json](./166194-doki-doki-literature-club-plus-premium-edition.json) |
 | Doki Doki Literature Club The Mod In Which Natsuki Has A Nice Day And Nothing Horrible Happens To Her, Thank You Very Much | 334279 | [334279-doki-doki-literature-club-the-mod-in-which-natsuki-has-a-nice-day-and-nothing-horrible-happens-to-her-thank-you-very-much.json](./334279-doki-doki-literature-club-the-mod-in-which-natsuki-has-a-nice-day-and-nothing-horrible-happens-to-her-thank-you-very-much.json) |
 | Doki Doki Literature Club: Purist Mod | 172644 | [172644-doki-doki-literature-club-purist-mod.json](./172644-doki-doki-literature-club-purist-mod.json) |
@@ -13243,7 +13241,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duck Race | 142875 | [142875-duck-race.json](./142875-duck-race.json) |
 | Duck Run | 309375 | [309375-duck-run.json](./309375-duck-run.json) |
 | Duck Run | 87570 | [87570-duck-run.json](./87570-duck-run.json) |
-| Duck Season | 56873 | [56873-duck-season.json](./56873-duck-season.json) |
 | Duck Season PC | 119449 | [119449-duck-season-pc.json](./119449-duck-season-pc.json) |
 | Duck Shoot | 330928 | [330928-duck-shoot.json](./330928-duck-shoot.json) |
 | Duck Shoot | 385597 | [385597-duck-shoot.json](./385597-duck-shoot.json) |
