@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-21T20:41:21.236Z",
-  "total_soundtracks": 2426,
+  "generated_at": "2026-10-21T20:47:04.348Z",
+  "total_soundtracks": 2439,
   "games": [
     {
       "igdb_id": 7522,
@@ -444,6 +444,20 @@
           "album_name": "ACE COMBAT ASSAULT HORIZON Original Soundtrack",
           "spotify_url": "https://open.spotify.com/album/5VQHio0GwQxH4Zs7U7jJwm",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 6745,
+      "game_name": "Ace Combat: Assault Horizon Legacy",
+      "game_url": "https://ostdb.net/games/ace-combat-assault-horizon-legacy",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2730828b4a924335f3a00d19894",
+      "albums": [
+        {
+          "album_name": "ACE COMBAT ASSAULT HORIZON LEGACY Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/2XPhZxHXhGc8H2OOmcgwoM",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
@@ -1040,6 +1054,20 @@
           "album_name": "Among Us Theme",
           "spotify_url": "https://open.spotify.com/album/2pQnYXMxVjYJWp5msRmAh0",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 298835,
+      "game_name": "An Alt Girl for Skoof",
+      "game_url": "https://ostdb.net/games/an-alt-girl-for-skoof",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27301bc68a617b6c68b677d9dfe",
+      "albums": [
+        {
+          "album_name": "An Alt Girl for Skoof: Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/58OjIbKo126HR2jpFFfvgb",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
@@ -1919,6 +1947,20 @@
         {
           "album_name": "Assassin's Creed Valhalla: Dawn of Ragnarök (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/3BjlyxJMtsTQJnZREHRNwz",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 140175,
+      "game_name": "Assassin's Creed Valhalla: The Siege of Paris",
+      "game_url": "https://ostdb.net/games/assassins-creed-valhalla-the-siege-of-paris",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273e95f4dec214d02d3060234d0",
+      "albums": [
+        {
+          "album_name": "Assassin's Creed Valhalla: The Siege of Paris (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2clk3QfapfzKkrSOnUishJ",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -2833,6 +2875,20 @@
       ]
     },
     {
+      "igdb_id": 136772,
+      "game_name": "Bear & Breakfast",
+      "game_url": "https://ostdb.net/games/bear-and-breakfast",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273f7738dd401833a7d72d5a26e",
+      "albums": [
+        {
+          "album_name": "Bear and Breakfast (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0nSslwvwaUOqEpJQKCxGWk",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 18860,
       "game_name": "Beat Cop",
       "game_url": "https://ostdb.net/games/beat-cop",
@@ -3311,6 +3367,20 @@
           "spotify_url": "https://open.spotify.com/album/6XSHziwWFxrUiO7oEmBya1",
           "apple_music_url": "https://music.apple.com/us/album/bloodborne-the-old-hunters-original-soundtrack-ep/1087350318",
           "album_link_url": "https://album.link/i/1087350318"
+        }
+      ]
+    },
+    {
+      "igdb_id": 106822,
+      "game_name": "Bloodroots",
+      "game_url": "https://ostdb.net/games/bloodroots",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273bf159e1d55ae606665ab69f8",
+      "albums": [
+        {
+          "album_name": "Bloodroots (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5EVBcjyf3XsbbqwEJTilLe",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
@@ -9559,6 +9629,20 @@
       ]
     },
     {
+      "igdb_id": 133059,
+      "game_name": "Fobia: St. Dinfna Hotel",
+      "game_url": "https://ostdb.net/games/fobia-st-dinfna-hotel",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273a4aacf608407de2973f1827b",
+      "albums": [
+        {
+          "album_name": "Fobia: St. Dinfna Hotel (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/7unn9tQF5ONLCgVc1GvGx3",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 11162,
       "game_name": "For Honor",
       "game_url": "https://ostdb.net/games/for-honor",
@@ -11924,6 +12008,20 @@
           "album_name": "Hellgate: London Original Video Game Soundtrack",
           "spotify_url": "https://open.spotify.com/album/0z8WtBB9fInccrwLHMCjkx",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 254871,
+      "game_name": "Hello Kitty Island Adventure",
+      "game_url": "https://ostdb.net/games/hello-kitty-island-adventure",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2734bd03dc1c89bb0c1f75e2b82",
+      "albums": [
+        {
+          "album_name": "Hello Kitty Island Adventure (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6LABwP6r6fVlAehtUKJFxJ",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
@@ -14669,6 +14767,20 @@
       ]
     },
     {
+      "igdb_id": 192291,
+      "game_name": "Lunacid",
+      "game_url": "https://ostdb.net/games/lunacid",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273322687b97a9a1ecea45325fa",
+      "albums": [
+        {
+          "album_name": "Lunacid (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1xB4jG5LrAmXZVR4Bc2FLI",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 150241,
       "game_name": "Luto",
       "game_url": "https://ostdb.net/games/luto",
@@ -16389,6 +16501,20 @@
         {
           "album_name": "Monster Sanctuary (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/110828DW5V5gtPGTwqPb3F",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 332273,
+      "game_name": "Monster Train 2",
+      "game_url": "https://ostdb.net/games/monster-train-2",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273cbc4313bd8ebf59d1a04ca9d",
+      "albums": [
+        {
+          "album_name": "Monster Train 2 (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/3o46HdyWc8xUHE0dBDARCs",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -22541,6 +22667,20 @@
       ]
     },
     {
+      "igdb_id": 202757,
+      "game_name": "Sonic R",
+      "game_url": "https://ostdb.net/games/sonic-r",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273a505531c5594201aba56ef58",
+      "albums": [
+        {
+          "album_name": "Sonic R Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/6Rc7rkokin2O1ewp2vBZjt",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 325608,
       "game_name": "Sonic Racing: CrossWorlds",
       "game_url": "https://ostdb.net/games/sonic-racing-crossworlds",
@@ -22652,6 +22792,20 @@
     },
     {
       "igdb_id": 227987,
+      "game_name": "SoulCalibur II",
+      "game_url": "https://ostdb.net/games/soulcalibur-ii",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273fc1175829acccddc0b126b41",
+      "albums": [
+        {
+          "album_name": "SOULCALIBUR Ⅱ ORIGINAL SOUNDTRACK",
+          "spotify_url": "https://open.spotify.com/album/6XFfTROCzwWWVhkDvAK84N",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 227986,
       "game_name": "SoulCalibur II",
       "game_url": "https://ostdb.net/games/soulcalibur-ii",
       "cover_url": "https://i.scdn.co/image/ab67616d0000b273fc1175829acccddc0b126b41",
@@ -23421,6 +23575,20 @@
         {
           "album_name": "SteamWorld Build (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/6mZZ5b6nWMPQUptQQLfWOp",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 298315,
+      "game_name": "SteamWorld Heist II",
+      "game_url": "https://ostdb.net/games/steamworld-heist-ii",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273ae0d3e427a5c7df2fa829ada",
+      "albums": [
+        {
+          "album_name": "SteamWorld Heist II (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/3Khk6YwpeTSYhDK0N6VSDr",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -25885,6 +26053,20 @@
         {
           "album_name": "The Lost World: Jurassic Park (Original score from the Saturn Videogame)",
           "spotify_url": "https://open.spotify.com/album/1oME1M537dHLKXYkEP0f2k",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 239302,
+      "game_name": "The Mageseeker: A League of Legends Story",
+      "game_url": "https://ostdb.net/games/the-mageseeker-a-league-of-legends-story",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2738710d93a841512cd1b5941fb",
+      "albums": [
+        {
+          "album_name": "The Mageseeker: A League of Legends Story (Official Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1CRYIMT6xiJDAHbKIWtUTH",
           "apple_music_url": "",
           "album_link_url": ""
         }
