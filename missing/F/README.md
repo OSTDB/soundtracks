@@ -5740,6 +5740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flash Point: Fire Rescue | 52087 | [52087-flash-point-fire-rescue.json](./52087-flash-point-fire-rescue.json) |
 | Flash Poker - Texas Holdem | 142695 | [142695-flash-poker-texas-holdem.json](./142695-flash-poker-texas-holdem.json) |
 | Flash Racer | 359375 | [359375-flash-racer.json](./359375-flash-racer.json) |
+| Flash Snooker Game | 161562 | [161562-flash-snooker-game.json](./161562-flash-snooker-game.json) |
 | Flash Traffic: City of Angels | 70063 | [70063-flash-traffic-city-of-angels.json](./70063-flash-traffic-city-of-angels.json) |
 | Flashback | 236148 | [236148-flashback.json](./236148-flashback.json) |
 | Flashback 2: Collector's Edition | 283623 | [283623-flashback-2-collectors-edition.json](./283623-flashback-2-collectors-edition.json) |
@@ -7446,6 +7447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forest Offroad Driving Simulator | 270568 | [270568-forest-offroad-driving-simulator.json](./270568-forest-offroad-driving-simulator.json) |
 | Forest Plague | 109712 | [109712-forest-plague.json](./109712-forest-plague.json) |
 | Forest Pop | 218724 | [218724-forest-pop.json](./218724-forest-pop.json) |
+| Forest Problems | 161705 | [161705-forest-problems.json](./161705-forest-problems.json) |
 | Forest Puzzle | 209561 | [209561-forest-puzzle.json](./209561-forest-puzzle.json) |
 | Forest Ranger Services: Episode 1 | 340232 | [340232-forest-ranger-services-episode-1.json](./340232-forest-ranger-services-episode-1.json) |
 | Forest Ranger Services: The Pilot | 288117 | [288117-forest-ranger-services-the-pilot.json](./288117-forest-ranger-services-the-pilot.json) |
