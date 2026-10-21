@@ -7292,6 +7292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dinosaur Cousin Squad | 338286 | [338286-dinosaur-cousin-squad.json](./338286-dinosaur-cousin-squad.json) |
 | Dinosaur Dig | 181552 | [181552-dinosaur-dig.json](./181552-dinosaur-dig.json) |
 | Dinosaur Discovery | 109172 | [109172-dinosaur-discovery.json](./109172-dinosaur-discovery.json) |
+| Dinosaur Fossil Puzzles | 163168 | [163168-dinosaur-fossil-puzzles.json](./163168-dinosaur-fossil-puzzles.json) |
 | Dinosaur Games Simulator 2018 | 105967 | [105967-dinosaur-games-simulator-2018.json](./105967-dinosaur-games-simulator-2018.json) |
 | Dinosaur Hunt | 34491 | [34491-dinosaur-hunt.json](./34491-dinosaur-hunt.json) |
 | Dinosaur Hunt First Blood | 51975 | [51975-dinosaur-hunt-first-blood.json](./51975-dinosaur-hunt-first-blood.json) |
