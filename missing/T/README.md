@@ -347,6 +347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tadpole Treble Encore | 142698 | [142698-tadpole-treble-encore.json](./142698-tadpole-treble-encore.json) |
 | Tae Bo Girl Dress Up | 62596 | [62596-tae-bo-girl-dress-up.json](./62596-tae-bo-girl-dress-up.json) |
 | Taekwondo | 93478 | [93478-taekwondo.json](./93478-taekwondo.json) |
+| Taekwondo Demonstration Team Simulator | 160108 | [160108-taekwondo-demonstration-team-simulator.json](./160108-taekwondo-demonstration-team-simulator.json) |
 | TaekwonGirl | 329087 | [329087-taekwongirl.json](./329087-taekwongirl.json) |
 | Taern | 55929 | [55929-taern.json](./55929-taern.json) |
 | Taffy Tales | 191607 | [191607-taffy-tales.json](./191607-taffy-tales.json) |
@@ -3015,6 +3016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Temporal Titans | 309865 | [309865-temporal-titans.json](./309865-temporal-titans.json) |
 | Temporal War | 257793 | [257793-temporal-war.json](./257793-temporal-war.json) |
 | Temporarily | 280255 | [280255-temporarily.json](./280255-temporarily.json) |
+| Temporary Girl | 160206 | [160206-temporary-girl.json](./160206-temporary-girl.json) |
 | Temporian | 228969 | [228969-temporian.json](./228969-temporian.json) |
 | Temporus | 120797 | [120797-temporus.json](./120797-temporus.json) |
 | Tempres | 142881 | [142881-tempres.json](./142881-tempres.json) |
@@ -5433,6 +5435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Carnival Killer | 320578 | [320578-the-carnival-killer.json](./320578-the-carnival-killer.json) |
 | The Carnival Of Company | 293632 | [293632-the-carnival-of-company.json](./293632-the-carnival-of-company.json) |
 | The Carrier and Crows | 270880 | [270880-the-carrier-and-crows.json](./270880-the-carrier-and-crows.json) |
+| The Cartesian Project | 160114 | [160114-the-cartesian-project.json](./160114-the-cartesian-project.json) |
 | The Cartographer's Tale | 103509 | [103509-the-cartographers-tale.json](./103509-the-cartographers-tale.json) |
 | The Cartoon Cat: Jigsaw Puzzle | 213818 | [213818-the-cartoon-cat-jigsaw-puzzle.json](./213818-the-cartoon-cat-jigsaw-puzzle.json) |
 | The Cascadier | 366573 | [366573-the-cascadier.json](./366573-the-cascadier.json) |
@@ -6657,6 +6660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The EdCo Incident | 240372 | [240372-the-edco-incident.json](./240372-the-edco-incident.json) |
 | The Eden of Grisaia | 11458 | [11458-the-eden-of-grisaia.json](./11458-the-eden-of-grisaia.json) |
 | The Edge | 340937 | [340937-the-edge.json](./340937-the-edge.json) |
+| The Edge Of | 160124 | [160124-the-edge-of.json](./160124-the-edge-of.json) |
 | The Edge of Allegoria | 219553 | [219553-the-edge-of-allegoria.json](./219553-the-edge-of-allegoria.json) |
 | The Edge of The World Z Will Shock You | 212827 | [212827-the-edge-of-the-world-z-will-shock-you.json](./212827-the-edge-of-the-world-z-will-shock-you.json) |
 | The Edge of Water | 399144 | [399144-the-edge-of-water.json](./399144-the-edge-of-water.json) |
@@ -8170,6 +8174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hero of Destiny Was Killed by the Final Boss | 386940 | [386940-the-hero-of-destiny-was-killed-by-the-final-boss.json](./386940-the-hero-of-destiny-was-killed-by-the-final-boss.json) |
 | The Hero Of Pixel Spire | 370912 | [370912-the-hero-of-pixel-spire.json](./370912-the-hero-of-pixel-spire.json) |
 | The Hero Project: Open Season | 96193 | [96193-the-hero-project-open-season.json](./96193-the-hero-project-open-season.json) |
+| The Hero Project: Open Season - Prodigal's Database for Powereds | 159595 | [159595-the-hero-project-open-season-prodigals-database-for-powereds.json](./159595-the-hero-project-open-season-prodigals-database-for-powereds.json) |
 | The Hero Project: Redemption Season | 33089 | [33089-the-hero-project-redemption-season.json](./33089-the-hero-project-redemption-season.json) |
 | The Hero Project: Redemption Season - MeChip Warning System | 170822 | [170822-the-hero-project-redemption-season-mechip-warning-system.json](./170822-the-hero-project-redemption-season-mechip-warning-system.json) |
 | The Hero Unmasked! | 52274 | [52274-the-hero-unmasked.json](./52274-the-hero-unmasked.json) |
@@ -11969,6 +11974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Relief of Impact | 179751 | [179751-the-relief-of-impact.json](./179751-the-relief-of-impact.json) |
 | The Remainder: Act 1 | 170855 | [170855-the-remainder-act-1.json](./170855-the-remainder-act-1.json) |
 | The Remainder: Act 2 | 171387 | [171387-the-remainder-act-2.json](./171387-the-remainder-act-2.json) |
+| The Remainder: The Complete Edition | 159596 | [159596-the-remainder-the-complete-edition.json](./159596-the-remainder-the-complete-edition.json) |
 | The Remainer | 366998 | [366998-the-remainer.json](./366998-the-remainer.json) |
 | The Remains and The Residue | 387618 | [387618-the-remains-and-the-residue.json](./387618-the-remains-and-the-residue.json) |
 | The Remains of El Dorado | 184570 | [184570-the-remains-of-el-dorado.json](./184570-the-remains-of-el-dorado.json) |
@@ -17205,6 +17211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiger Tank 59 I: Rainstorm MP062 | 160654 | [160654-tiger-tank-59-i-rainstorm-mp062.json](./160654-tiger-tank-59-i-rainstorm-mp062.json) |
 | Tiger Tank 59 I: Rainstorm MP063 | 160690 | [160690-tiger-tank-59-i-rainstorm-mp063.json](./160690-tiger-tank-59-i-rainstorm-mp063.json) |
 | Tiger Tank 59 I: Rainstorm MP065 | 160655 | [160655-tiger-tank-59-i-rainstorm-mp065.json](./160655-tiger-tank-59-i-rainstorm-mp065.json) |
+| Tiger Tank 59 I: Rainstorm MP066 | 159598 | [159598-tiger-tank-59-i-rainstorm-mp066.json](./159598-tiger-tank-59-i-rainstorm-mp066.json) |
 | Tiger Tank 59 I: Rainstorm MP067 | 160645 | [160645-tiger-tank-59-i-rainstorm-mp067.json](./160645-tiger-tank-59-i-rainstorm-mp067.json) |
 | Tiger Tank 59 I: Rainstorm MP069 | 160708 | [160708-tiger-tank-59-i-rainstorm-mp069.json](./160708-tiger-tank-59-i-rainstorm-mp069.json) |
 | Tiger Tank 59 I: Rainstorm MP070 | 160686 | [160686-tiger-tank-59-i-rainstorm-mp070.json](./160686-tiger-tank-59-i-rainstorm-mp070.json) |
@@ -22140,6 +22147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Simulator: Konstanz-Villingen Route Add-On | 156388 | [156388-train-simulator-konstanz-villingen-route-add-on.json](./156388-train-simulator-konstanz-villingen-route-add-on.json) |
 | Train Simulator: LGV: Marseille - Avignon Route Add-On | 156356 | [156356-train-simulator-lgv-marseille-avignon-route-add-on.json](./156356-train-simulator-lgv-marseille-avignon-route-add-on.json) |
 | Train Simulator: Livonia Division: Monroe - Subdivision Route Add-On | 156370 | [156370-train-simulator-livonia-division-monroe-subdivision-route-add-on.json](./156370-train-simulator-livonia-division-monroe-subdivision-route-add-on.json) |
+| Train Simulator: LMS Stanier Mogul Steam Loco Add-On | 159597 | [159597-train-simulator-lms-stanier-mogul-steam-loco-add-on.json](./159597-train-simulator-lms-stanier-mogul-steam-loco-add-on.json) |
 | Train Simulator: London Marylebone - Aylesbury Route Add-On | 156382 | [156382-train-simulator-london-marylebone-aylesbury-route-add-on.json](./156382-train-simulator-london-marylebone-aylesbury-route-add-on.json) |
 | Train Simulator: London Subway | 103448 | [103448-train-simulator-london-subway.json](./103448-train-simulator-london-subway.json) |
 | Train Simulator: London Subway | 103488 | [103488-train-simulator-london-subway.json](./103488-train-simulator-london-subway.json) |
@@ -25311,6 +25319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TurtleSkate | 398572 | [398572-turtleskate.json](./398572-turtleskate.json) |
 | Turtoa: Global Rhythm | 163884 | [163884-turtoa-global-rhythm.json](./163884-turtoa-global-rhythm.json) |
 | Turtwig's Target Smash! | 234096 | [234096-turtwigs-target-smash.json](./234096-turtwigs-target-smash.json) |
+| TUS | 160201 | [160201-tus.json](./160201-tus.json) |
 | Tuscany Hotel | 106759 | [106759-tuscany-hotel.json](./106759-tuscany-hotel.json) |
 | Tusmox | 381412 | [381412-tusmox.json](./381412-tusmox.json) |
 | Tut's Tomb | 282107 | [282107-tuts-tomb.json](./282107-tuts-tomb.json) |
