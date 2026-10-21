@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-21T20:11:00.929Z",
-  "total_soundtracks": 2398,
+  "generated_at": "2026-10-21T20:16:33.244Z",
+  "total_soundtracks": 2406,
   "games": [
     {
       "igdb_id": 7522,
@@ -2261,6 +2261,20 @@
       ]
     },
     {
+      "igdb_id": 135992,
+      "game_name": "Balan Wonderworld",
+      "game_url": "https://ostdb.net/games/balan-wonderworld",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273c121488e71846dfcf58b499f",
+      "albums": [
+        {
+          "album_name": "BALAN WONDERWORLD Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/6woUsWM9rPGb5JnyOFrqHY",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 251833,
       "game_name": "Balatro",
       "game_url": "https://ostdb.net/games/balatro",
@@ -4223,6 +4237,20 @@
       ]
     },
     {
+      "igdb_id": 122556,
+      "game_name": "Celeste: Farewell",
+      "game_url": "https://ostdb.net/games/celeste-farewell",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27357f038f360666e9405a5677c",
+      "albums": [
+        {
+          "album_name": "Celeste: Farewell (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6bVmGJJBkWfmSZKK4eeLBh",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 141536,
       "game_name": "Century: Age of Ashes",
       "game_url": "https://ostdb.net/games/century-age-of-ashes",
@@ -4903,6 +4931,20 @@
         {
           "album_name": "CONTROL Resonant (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/5LxLCAfp8l1USzUOSIbgHP",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 127354,
+      "game_name": "Convergence: A League of Legends Story",
+      "game_url": "https://ostdb.net/games/convergence-a-league-of-legends-story",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2736d5f2194d9b66e1b825c32c4",
+      "albums": [
+        {
+          "album_name": "CONVERGENCE: A League of Legends Story (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/7obyvUX83DtpktgZbq325j",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -13549,6 +13591,20 @@
       ]
     },
     {
+      "igdb_id": 112939,
+      "game_name": "Later Alligator",
+      "game_url": "https://ostdb.net/games/later-alligator",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27384c536e432dfcdd719246803",
+      "albums": [
+        {
+          "album_name": "Later Alligator (Original Video Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5suc1mLHi5GxQeQoceAuub",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 11797,
       "game_name": "LawBreakers",
       "game_url": "https://ostdb.net/games/lawbreakers",
@@ -16237,6 +16293,20 @@
           "spotify_url": "",
           "apple_music_url": "https://music.apple.com/us/album/saru-from-morbid-metal-single/1840670106?uo=4",
           "album_link_url": "https://album.link/i/1840670106"
+        }
+      ]
+    },
+    {
+      "igdb_id": 134817,
+      "game_name": "Morbid: The Seven Acolytes",
+      "game_url": "https://ostdb.net/games/morbid-the-seven-acolytes",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273ee38b966b44db626a8d92e64",
+      "albums": [
+        {
+          "album_name": "Morbid: The Seven Acolytes (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1nnphVPdduyXpFblKSGRHw",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
@@ -20677,6 +20747,20 @@
       ]
     },
     {
+      "igdb_id": 152065,
+      "game_name": "Salt and Sacrifice",
+      "game_url": "https://ostdb.net/games/salt-and-sacrifice",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273bca7b8d037f487e96876292a",
+      "albums": [
+        {
+          "album_name": "Salt and Sacrifice (Original Video Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2whU6NZO2wWgzhwNZtawp2",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 7709,
       "game_name": "Salt and Sanctuary",
       "game_url": "https://ostdb.net/games/salt-and-sanctuary",
@@ -22641,6 +22725,20 @@
         {
           "album_name": "Squad 44 Original Soundtrack",
           "spotify_url": "https://open.spotify.com/album/46oi520Rlv8lWBi7vDPfqY",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 234344,
+      "game_name": "Squad Busters",
+      "game_url": "https://ostdb.net/games/squad-busters",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27311b8039caf578ce0cbe1e85b",
+      "albums": [
+        {
+          "album_name": "Squad Busters (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/46ytL3WyfZIR1QG3VlnECO",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -26206,6 +26304,20 @@
           "album_name": "The Walking Dead: The Telltale Series Soundtrack (Season 1, Pt. 1)",
           "spotify_url": "https://open.spotify.com/album/1y7gG7YkBPThMQnchbWQaU",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 116522,
+      "game_name": "The Wild at Heart",
+      "game_url": "https://ostdb.net/games/the-wild-at-heart",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27335dd6e1e00ae0239daae185f",
+      "albums": [
+        {
+          "album_name": "The Wild at Heart (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1RxWF1Zvhrk63pqvqIIcFK",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
