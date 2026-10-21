@@ -5570,6 +5570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pingbert's Snow Ride | 379963 | [379963-pingberts-snow-ride.json](./379963-pingberts-snow-ride.json) |
 | Pingcheng Chronicles | 316650 | [316650-pingcheng-chronicles.json](./316650-pingcheng-chronicles.json) |
 | Pingdom | 289241 | [289241-pingdom.json](./289241-pingdom.json) |
+| Pingers | 157971 | [157971-pingers.json](./157971-pingers.json) |
 | Pinging | 255976 | [255976-pinging.json](./255976-pinging.json) |
 | Pingo Puzzle Poker | 51167 | [51167-pingo-puzzle-poker.json](./51167-pingo-puzzle-poker.json) |
 | Pingo's Revenge | 197076 | [197076-pingos-revenge.json](./197076-pingos-revenge.json) |
