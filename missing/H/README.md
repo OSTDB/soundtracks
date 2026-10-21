@@ -5608,7 +5608,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Series 1 | 258194 | [258194-hidden-series-1.json](./258194-hidden-series-1.json) |
 | Hidden Series 2 | 274371 | [274371-hidden-series-2.json](./274371-hidden-series-2.json) |
 | Hidden Shapes Animals: VR | 209322 | [209322-hidden-shapes-animals-vr.json](./209322-hidden-shapes-animals-vr.json) |
+| Hidden Shapes: Animals | 162214 | [162214-hidden-shapes-animals.json](./162214-hidden-shapes-animals.json) |
 | Hidden Shapes: Animals + Lovely Cats | 194437 | [194437-hidden-shapes-animals-lovely-cats.json](./194437-hidden-shapes-animals-lovely-cats.json) |
+| Hidden Shapes: Black Skull | 162217 | [162217-hidden-shapes-black-skull.json](./162217-hidden-shapes-black-skull.json) |
 | Hidden Shapes: Black Skull + Old West | 213794 | [213794-hidden-shapes-black-skull-old-west.json](./213794-hidden-shapes-black-skull-old-west.json) |
 | Hidden Shapes: Cat Realm | 220037 | [220037-hidden-shapes-cat-realm.json](./220037-hidden-shapes-cat-realm.json) |
 | Hidden Shapes: Lovely Cats | 148466 | [148466-hidden-shapes-lovely-cats.json](./148466-hidden-shapes-lovely-cats.json) |
