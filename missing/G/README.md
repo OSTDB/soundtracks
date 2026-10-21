@@ -798,6 +798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galf Streem | 386936 | [386936-galf-streem.json](./386936-galf-streem.json) |
 | Galga | 227882 | [227882-galga.json](./227882-galga.json) |
 | Galge Masque:Rade | 416881 | [416881-galge-masque-rade.json](./416881-galge-masque-rade.json) |
+| Galia Senki: Yuuhen Annales | 157979 | [157979-galia-senki-yuuhen-annales.json](./157979-galia-senki-yuuhen-annales.json) |
 | Galidor Quest | 214944 | [214944-galidor-quest.json](./214944-galidor-quest.json) |
 | Galidor: Defenders of the Outer Dimension | 316808 | [316808-galidor-defenders-of-the-outer-dimension.json](./316808-galidor-defenders-of-the-outer-dimension.json) |
 | Galileo Mystery: The Crown of Midas | 268118 | [268118-galileo-mystery-the-crown-of-midas.json](./268118-galileo-mystery-the-crown-of-midas.json) |
@@ -2507,6 +2508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geometric Sniper | 133424 | [133424-geometric-sniper.json](./133424-geometric-sniper.json) |
 | Geometric Sniper Bundle | 297314 | [297314-geometric-sniper-bundle.json](./297314-geometric-sniper-bundle.json) |
 | Geometric Sniper Z | 163944 | [163944-geometric-sniper-z.json](./163944-geometric-sniper-z.json) |
+| Geometric Sniper: Blood in Paris | 157970 | [157970-geometric-sniper-blood-in-paris.json](./157970-geometric-sniper-blood-in-paris.json) |
 | GeometricMadness | 184897 | [184897-geometricmadness.json](./184897-geometricmadness.json) |
 | Geometrix | 159728 | [159728-geometrix.json](./159728-geometrix.json) |
 | Geometry Arena | 152133 | [152133-geometry-arena.json](./152133-geometry-arena.json) |
