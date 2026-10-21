@@ -342,6 +342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oceanarium Fishing | 390067 | [390067-oceanarium-fishing.json](./390067-oceanarium-fishing.json) |
 | Oceanarium World | 291549 | [291549-oceanarium-world.json](./291549-oceanarium-world.json) |
 | Oceanborn : Survival on Raft | 102255 | [102255-oceanborn-survival-on-raft.json](./102255-oceanborn-survival-on-raft.json) |
+| OceanCraft | 156955 | [156955-oceancraft.json](./156955-oceancraft.json) |
 | OceanDive | 94369 | [94369-oceandive.json](./94369-oceandive.json) |
 | Oceanhorn | 22117 | [22117-oceanhorn.json](./22117-oceanhorn.json) |
 | Oceanhorn 3: Legend of the Shadow Sea | 391260 | [391260-oceanhorn-3-legend-of-the-shadow-sea.json](./391260-oceanhorn-3-legend-of-the-shadow-sea.json) |
@@ -3361,6 +3362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oscillation | 262313 | [262313-oscillation.json](./262313-oscillation.json) |
 | Oscillatron: Alien Frequency | 96118 | [96118-oscillatron-alien-frequency.json](./96118-oscillatron-alien-frequency.json) |
 | Oscura: Lost Light | 17784 | [17784-oscura-lost-light.json](./17784-oscura-lost-light.json) |
+| Oscuria: The World of Nightmares | 160185 | [160185-oscuria-the-world-of-nightmares.json](./160185-oscuria-the-world-of-nightmares.json) |
 | Oscuro Blossom's Glow | 342264 | [342264-oscuro-blossoms-glow.json](./342264-oscuro-blossoms-glow.json) |
 | OSD vs RON | 70377 | [70377-osd-vs-ron.json](./70377-osd-vs-ron.json) |
 | Osekkai na Imouto | 97719 | [97719-osekkai-na-imouto.json](./97719-osekkai-na-imouto.json) |
@@ -3448,6 +3450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Osyaberi! Horijyo! Gekihori: Anna Holinski Saves the Universe, Alright?! | 222425 | [222425-osyaberi-horijyo-gekihori-anna-holinski-saves-the-universe-alright.json](./222425-osyaberi-horijyo-gekihori-anna-holinski-saves-the-universe-alright.json) |
 | Osyaberi! Puzzle Chigatan: Spot the Differences with Everyone | 147824 | [147824-osyaberi-puzzle-chigatan-spot-the-differences-with-everyone.json](./147824-osyaberi-puzzle-chigatan-spot-the-differences-with-everyone.json) |
 | Otaku and Bubbly Girl | 392312 | [392312-otaku-and-bubbly-girl.json](./392312-otaku-and-bubbly-girl.json) |
+| Otaku Club | 156924 | [156924-otaku-club.json](./156924-otaku-club.json) |
 | Otaku Miracles | 333067 | [333067-otaku-miracles.json](./333067-otaku-miracles.json) |
 | Otaku no Omocha in Acolyte | 97489 | [97489-otaku-no-omocha-in-acolyte.json](./97489-otaku-no-omocha-in-acolyte.json) |
 | Otaku no Omocha in High Priest | 108944 | [108944-otaku-no-omocha-in-high-priest.json](./108944-otaku-no-omocha-in-high-priest.json) |
