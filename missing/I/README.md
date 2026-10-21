@@ -3632,6 +3632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Instant Chess | 107029 | [107029-instant-chess.json](./107029-instant-chess.json) |
 | Instant Death | 81999 | [81999-instant-death.json](./81999-instant-death.json) |
 | Instant Family Fun Bundle | 406801 | [406801-instant-family-fun-bundle.json](./406801-instant-family-fun-bundle.json) |
+| Instant Farmer | 163167 | [163167-instant-farmer.json](./163167-instant-farmer.json) |
 | Instant Indie Collection: Vol. 1 | 82543 | [82543-instant-indie-collection-vol-1.json](./82543-instant-indie-collection-vol-1.json) |
 | Instant Indie Collection: Vol. 2 | 99766 | [99766-instant-indie-collection-vol-2.json](./99766-instant-indie-collection-vol-2.json) |
 | Instant Indie Collection: Vol. 3 | 82542 | [82542-instant-indie-collection-vol-3.json](./82542-instant-indie-collection-vol-3.json) |
