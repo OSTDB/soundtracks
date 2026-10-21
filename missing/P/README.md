@@ -11806,6 +11806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Professional Offroad Transport Simulator | 67919 | [67919-professional-offroad-transport-simulator.json](./67919-professional-offroad-transport-simulator.json) |
 | Professional Ski Simulator | 80530 | [80530-professional-ski-simulator.json](./80530-professional-ski-simulator.json) |
 | Professional Soldier | 153928 | [153928-professional-soldier.json](./153928-professional-soldier.json) |
+| Professional Team | 161565 | [161565-professional-team.json](./161565-professional-team.json) |
 | Professor Bubbles | 280790 | [280790-professor-bubbles.json](./280790-professor-bubbles.json) |
 | Professor Chuckenhope | 109682 | [109682-professor-chuckenhope.json](./109682-professor-chuckenhope.json) |
 | Professor Crackbrain: And the Awakening of the Weredog | 170308 | [170308-professor-crackbrain-and-the-awakening-of-the-weredog.json](./170308-professor-crackbrain-and-the-awakening-of-the-weredog.json) |
@@ -14010,6 +14011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Castle | 209373 | [209373-puzzle-castle.json](./209373-puzzle-castle.json) |
 | Puzzle Cats | 240351 | [240351-puzzle-cats.json](./240351-puzzle-cats.json) |
 | Puzzle Challenge: Crosswords and More | 5112 | [5112-puzzle-challenge-crosswords-and-more.json](./5112-puzzle-challenge-crosswords-and-more.json) |
+| Puzzle Challengers | 161702 | [161702-puzzle-challengers.json](./161702-puzzle-challengers.json) |
 | Puzzle Champions | 213271 | [213271-puzzle-champions.json](./213271-puzzle-champions.json) |
 | Puzzle Chasers | 292140 | [292140-puzzle-chasers.json](./292140-puzzle-chasers.json) |
 | Puzzle Chronicles | 10732 | [10732-puzzle-chronicles.json](./10732-puzzle-chronicles.json) |
