@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-21T23:19:22.304Z",
-  "total_missing": 244035,
+  "generated_at": "2026-10-21T23:47:46.214Z",
+  "total_missing": 244085,
   "games": [
     {
       "igdb_id": 191680,
@@ -1109507,6 +1109507,11 @@
       "file": "missing/T/162343-train-simulator-2021-br-sectors-class-56-loco.json"
     },
     {
+      "igdb_id": 156425,
+      "game_name": "Train Simulator 2021: Chengkun Railway - Hanyuan: Puxiong Route",
+      "file": "missing/T/156425-train-simulator-2021-chengkun-railway-hanyuan-puxiong-route.json"
+    },
+    {
       "igdb_id": 161773,
       "game_name": "Train Simulator 2021: Chicago Racetrack Scenario Pack 01",
       "file": "missing/T/161773-train-simulator-2021-chicago-racetrack-scenario-pack-01.json"
@@ -1109982,6 +1109987,11 @@
       "file": "missing/T/162312-train-simulator-2021-sw1500-switcher-loco.json"
     },
     {
+      "igdb_id": 156430,
+      "game_name": "Train Simulator 2021: The Riviera Line - Exeter-Paignton Route",
+      "file": "missing/T/156430-train-simulator-2021-the-riviera-line-exeter-paignton-route.json"
+    },
+    {
       "igdb_id": 162417,
       "game_name": "Train Simulator 2021: Union Pacific Big Boy Steam Loco",
       "file": "missing/T/162417-train-simulator-2021-union-pacific-big-boy-steam-loco.json"
@@ -1110022,6 +1110032,11 @@
       "file": "missing/T/155342-train-simulator-2021-western-sichuan-pass-dujiangyan-maoxian-and-mashancun-route-add-on.json"
     },
     {
+      "igdb_id": 156427,
+      "game_name": "Train Simulator 2021: Wutachtalbahn - Lauchringen: Immendingen Route",
+      "file": "missing/T/156427-train-simulator-2021-wutachtalbahn-lauchringen-immendingen-route.json"
+    },
+    {
       "igdb_id": 174142,
       "game_name": "Train Simulator 2022: Salzburg - Wels Route Add-On",
       "file": "missing/T/174142-train-simulator-2022-salzburg-wels-route-add-on.json"
@@ -1110050,6 +1110065,11 @@
       "igdb_id": 357392,
       "game_name": "Train Simulator Classic: C-424",
       "file": "missing/T/357392-train-simulator-classic-c-424.json"
+    },
+    {
+      "igdb_id": 156463,
+      "game_name": "Train Simulator Classic: Chatham Main Line - London-Gillingham Route Add-On",
+      "file": "missing/T/156463-train-simulator-classic-chatham-main-line-london-gillingham-route-add-on.json"
     },
     {
       "igdb_id": 339157,
@@ -1110257,6 +1110277,11 @@
       "file": "missing/T/74679-train-simulator-vr.json"
     },
     {
+      "igdb_id": 156444,
+      "game_name": "Train Simulator: Albula Line: St Moritz - Thusis Route Add-On",
+      "file": "missing/T/156444-train-simulator-albula-line-st-moritz-thusis-route-add-on.json"
+    },
+    {
       "igdb_id": 156403,
       "game_name": "Train Simulator: Allgäubahn: Kempten - Lindau & Immenstadt: Oberstdorf Route",
       "file": "missing/T/156403-train-simulator-allgaubahn-kempten-lindau-and-immenstadt-oberstdorf-route.json"
@@ -1110265,6 +1110290,16 @@
       "igdb_id": 191020,
       "game_name": "Train Simulator: Amtrak P42DC 50th Anniversary - Collector’s Edition",
       "file": "missing/T/191020-train-simulator-amtrak-p42dc-50th-anniversary-collector-s-edition.json"
+    },
+    {
+      "igdb_id": 156471,
+      "game_name": "Train Simulator: Arlbergbahn: Innsbruck - Bludenz Route Add-On",
+      "file": "missing/T/156471-train-simulator-arlbergbahn-innsbruck-bludenz-route-add-on.json"
+    },
+    {
+      "igdb_id": 156467,
+      "game_name": "Train Simulator: Arosa Line Route Add-On",
+      "file": "missing/T/156467-train-simulator-arosa-line-route-add-on.json"
     },
     {
       "igdb_id": 156384,
@@ -1110282,9 +1110317,19 @@
       "file": "missing/T/191015-train-simulator-bahnstrecke-strasbourg-karlsruhe-route.json"
     },
     {
+      "igdb_id": 156459,
+      "game_name": "Train Simulator: Berlin - Leipzig Route Add-On",
+      "file": "missing/T/156459-train-simulator-berlin-leipzig-route-add-on.json"
+    },
+    {
       "igdb_id": 156340,
       "game_name": "Train Simulator: Berlin-Wittenberg Route Add-On",
       "file": "missing/T/156340-train-simulator-berlin-wittenberg-route-add-on.json"
+    },
+    {
+      "igdb_id": 156439,
+      "game_name": "Train Simulator: Bernina Line: Poschiavo - Tirano Route Add-On",
+      "file": "missing/T/156439-train-simulator-bernina-line-poschiavo-tirano-route-add-on.json"
     },
     {
       "igdb_id": 156405,
@@ -1110295,6 +1110340,11 @@
       "igdb_id": 156337,
       "game_name": "Train Simulator: BR Class 105 DMU Add-On",
       "file": "missing/T/156337-train-simulator-br-class-105-dmu-add-on.json"
+    },
+    {
+      "igdb_id": 156460,
+      "game_name": "Train Simulator: Bristol-Exeter Route Add-On",
+      "file": "missing/T/156460-train-simulator-bristol-exeter-route-add-on.json"
     },
     {
       "igdb_id": 156475,
@@ -1110317,9 +1110367,19 @@
       "file": "missing/T/191021-train-simulator-canadian-pacific-sd60-loco.json"
     },
     {
+      "igdb_id": 156462,
+      "game_name": "Train Simulator: Chatham Main & Medway Valley Lines Route Add-On",
+      "file": "missing/T/156462-train-simulator-chatham-main-and-medway-valley-lines-route-add-on.json"
+    },
+    {
       "igdb_id": 191016,
       "game_name": "Train Simulator: Chatham Main Line: London Victoria & Blackfriars - Dover & Ramsgate Route",
       "file": "missing/T/191016-train-simulator-chatham-main-line-london-victoria-and-blackfriars-dover-and-ramsgate-route.json"
+    },
+    {
+      "igdb_id": 156441,
+      "game_name": "Train Simulator: Chengdu - Suining High Speed Route Add-On",
+      "file": "missing/T/156441-train-simulator-chengdu-suining-high-speed-route-add-on.json"
     },
     {
       "igdb_id": 156489,
@@ -1110347,6 +1110407,11 @@
       "file": "missing/T/156410-train-simulator-clear-creek-narrow-gauge-route-add-on.json"
     },
     {
+      "igdb_id": 156457,
+      "game_name": "Train Simulator: Clinchfield Railroad: Elkhorn City - St. Paul Route Add-On",
+      "file": "missing/T/156457-train-simulator-clinchfield-railroad-elkhorn-city-st-paul-route-add-on.json"
+    },
+    {
       "igdb_id": 156476,
       "game_name": "Train Simulator: Cologne-Dusseldorf Route Add-On",
       "file": "missing/T/156476-train-simulator-cologne-dusseldorf-route-add-on.json"
@@ -1110355,6 +1110420,16 @@
       "igdb_id": 156378,
       "game_name": "Train Simulator: Colton & Northern Route Add-On",
       "file": "missing/T/156378-train-simulator-colton-and-northern-route-add-on.json"
+    },
+    {
+      "igdb_id": 156445,
+      "game_name": "Train Simulator: Corris Railway Route Add-On",
+      "file": "missing/T/156445-train-simulator-corris-railway-route-add-on.json"
+    },
+    {
+      "igdb_id": 156449,
+      "game_name": "Train Simulator: CSX Hanover Subdivision: Hanover - Hagerstown Route Add-On",
+      "file": "missing/T/156449-train-simulator-csx-hanover-subdivision-hanover-hagerstown-route-add-on.json"
     },
     {
       "igdb_id": 191017,
@@ -1110407,6 +1110482,11 @@
       "file": "missing/T/156486-train-simulator-edinburgh-glasgow-route-add-on.json"
     },
     {
+      "igdb_id": 156426,
+      "game_name": "Train Simulator: Engadin Linie: Pontresina - Scuol-Tarasp Route Add-On",
+      "file": "missing/T/156426-train-simulator-engadin-linie-pontresina-scuol-tarasp-route-add-on.json"
+    },
+    {
       "igdb_id": 156351,
       "game_name": "Train Simulator: Ennstalbahn: Bishofshofen - Selzthal Route Add-On",
       "file": "missing/T/156351-train-simulator-ennstalbahn-bishofshofen-selzthal-route-add-on.json"
@@ -1110437,9 +1110517,19 @@
       "file": "missing/T/227134-train-simulator-flying-scotsman-centenary-steam-loco.json"
     },
     {
+      "igdb_id": 156440,
+      "game_name": "Train Simulator: Fort Kent to Eagle Lake Route Add-On",
+      "file": "missing/T/156440-train-simulator-fort-kent-to-eagle-lake-route-add-on.json"
+    },
+    {
       "igdb_id": 156355,
       "game_name": "Train Simulator: Frankfurt - Koblenz Route Add-On",
       "file": "missing/T/156355-train-simulator-frankfurt-koblenz-route-add-on.json"
+    },
+    {
+      "igdb_id": 156436,
+      "game_name": "Train Simulator: Frankfurt S-Bahn Rhein Main Route Add-On",
+      "file": "missing/T/156436-train-simulator-frankfurt-s-bahn-rhein-main-route-add-on.json"
     },
     {
       "igdb_id": 156361,
@@ -1110450,6 +1110540,11 @@
       "igdb_id": 156478,
       "game_name": "Train Simulator: Giselabahn: Saalfelden - Wörgl Route Add-On",
       "file": "missing/T/156478-train-simulator-giselabahn-saalfelden-worgl-route-add-on.json"
+    },
+    {
+      "igdb_id": 156437,
+      "game_name": "Train Simulator: Glasgow Airport Rail Link Route Add-On",
+      "file": "missing/T/156437-train-simulator-glasgow-airport-rail-link-route-add-on.json"
     },
     {
       "igdb_id": 264546,
@@ -1110467,9 +1110562,24 @@
       "file": "missing/T/156366-train-simulator-great-western-main-line-route-add-on.json"
     },
     {
+      "igdb_id": 156446,
+      "game_name": "Train Simulator: Guiguang High Speed Railway: Guilin - Hezhou Route Add-On",
+      "file": "missing/T/156446-train-simulator-guiguang-high-speed-railway-guilin-hezhou-route-add-on.json"
+    },
+    {
       "igdb_id": 156391,
       "game_name": "Train Simulator: Hamburg S1 S-Bahn Route Add-On",
       "file": "missing/T/156391-train-simulator-hamburg-s1-s-bahn-route-add-on.json"
+    },
+    {
+      "igdb_id": 156465,
+      "game_name": "Train Simulator: Hamburg-Hanover Route Add-On",
+      "file": "missing/T/156465-train-simulator-hamburg-hanover-route-add-on.json"
+    },
+    {
+      "igdb_id": 156454,
+      "game_name": "Train Simulator: Hamburg-Lübeck Railway Route Add-On",
+      "file": "missing/T/156454-train-simulator-hamburg-lubeck-railway-route-add-on.json"
     },
     {
       "igdb_id": 156368,
@@ -1110507,6 +1110617,11 @@
       "file": "missing/T/156356-train-simulator-lgv-marseille-avignon-route-add-on.json"
     },
     {
+      "igdb_id": 156442,
+      "game_name": "Train Simulator: Liverpool-Manchester Route Add-On",
+      "file": "missing/T/156442-train-simulator-liverpool-manchester-route-add-on.json"
+    },
+    {
       "igdb_id": 156370,
       "game_name": "Train Simulator: Livonia Division: Monroe - Subdivision Route Add-On",
       "file": "missing/T/156370-train-simulator-livonia-division-monroe-subdivision-route-add-on.json"
@@ -1110537,6 +1110652,11 @@
       "file": "missing/T/156369-train-simulator-london-to-brighton-route-add-on.json"
     },
     {
+      "igdb_id": 156431,
+      "game_name": "Train Simulator: London-Faversham High Speed Route Add-On",
+      "file": "missing/T/156431-train-simulator-london-faversham-high-speed-route-add-on.json"
+    },
+    {
       "igdb_id": 208337,
       "game_name": "Train Simulator: Long Island Rail Road - New York: Hicksville Route",
       "file": "missing/T/208337-train-simulator-long-island-rail-road-new-york-hicksville-route.json"
@@ -1110545,6 +1110665,11 @@
       "igdb_id": 156383,
       "game_name": "Train Simulator: Longhai Railway: Lingbao - Mianchi Route Add-On",
       "file": "missing/T/156383-train-simulator-longhai-railway-lingbao-mianchi-route-add-on.json"
+    },
+    {
+      "igdb_id": 156464,
+      "game_name": "Train Simulator: Malmesbury Branch Route Add-On",
+      "file": "missing/T/156464-train-simulator-malmesbury-branch-route-add-on.json"
     },
     {
       "igdb_id": 156367,
@@ -1110562,9 +1110687,29 @@
       "file": "missing/T/156484-train-simulator-miami-west-palm-beach-route-add-on.json"
     },
     {
+      "igdb_id": 156438,
+      "game_name": "Train Simulator: Midland Line: Aickens - Springfield Route Add-On",
+      "file": "missing/T/156438-train-simulator-midland-line-aickens-springfield-route-add-on.json"
+    },
+    {
+      "igdb_id": 156456,
+      "game_name": "Train Simulator: Midland Main Line London-Bedford Route Add-On",
+      "file": "missing/T/156456-train-simulator-midland-main-line-london-bedford-route-add-on.json"
+    },
+    {
+      "igdb_id": 156466,
+      "game_name": "Train Simulator: Midland Main Line: Leicester - Derby & Nottingham Route Add-On",
+      "file": "missing/T/156466-train-simulator-midland-main-line-leicester-derby-and-nottingham-route-add-on.json"
+    },
+    {
       "igdb_id": 207742,
       "game_name": "Train Simulator: Midland Main Line: Nottingham - Lincoln Route",
       "file": "missing/T/207742-train-simulator-midland-main-line-nottingham-lincoln-route.json"
+    },
+    {
+      "igdb_id": 156452,
+      "game_name": "Train Simulator: Mighty Seddin Freight Route Add-On",
+      "file": "missing/T/156452-train-simulator-mighty-seddin-freight-route-add-on.json"
     },
     {
       "igdb_id": 156387,
@@ -1110575,6 +1110720,11 @@
       "igdb_id": 156477,
       "game_name": "Train Simulator: Montana Hi-Line: Shelby - Havre Route Add-On",
       "file": "missing/T/156477-train-simulator-montana-hi-line-shelby-havre-route-add-on.json"
+    },
+    {
+      "igdb_id": 156429,
+      "game_name": "Train Simulator: Mosel Valley: Koblenz - Trier Route Add-On",
+      "file": "missing/T/156429-train-simulator-mosel-valley-koblenz-trier-route-add-on.json"
     },
     {
       "igdb_id": 191013,
@@ -1110627,9 +1110777,19 @@
       "file": "missing/T/191022-train-simulator-norfolk-southern-sd70m-loco.json"
     },
     {
+      "igdb_id": 156468,
+      "game_name": "Train Simulator: North Jersey Coast & Morristown Lines Route Add-On",
+      "file": "missing/T/156468-train-simulator-north-jersey-coast-and-morristown-lines-route-add-on.json"
+    },
+    {
       "igdb_id": 156394,
       "game_name": "Train Simulator: North Jersey Coast Line Route Add-On",
       "file": "missing/T/156394-train-simulator-north-jersey-coast-line-route-add-on.json"
+    },
+    {
+      "igdb_id": 156455,
+      "game_name": "Train Simulator: North London Line Route Add-On",
+      "file": "missing/T/156455-train-simulator-north-london-line-route-add-on.json"
     },
     {
       "igdb_id": 156397,
@@ -1110652,6 +1110812,16 @@
       "file": "missing/T/306074-train-simulator-obb-4748.json"
     },
     {
+      "igdb_id": 156458,
+      "game_name": "Train Simulator: Ohio Steel 2 Route Add-On",
+      "file": "missing/T/156458-train-simulator-ohio-steel-2-route-add-on.json"
+    },
+    {
+      "igdb_id": 156451,
+      "game_name": "Train Simulator: Outeniqua Choo Tjoe Route Add-On",
+      "file": "missing/T/156451-train-simulator-outeniqua-choo-tjoe-route-add-on.json"
+    },
+    {
       "igdb_id": 306073,
       "game_name": "Train Simulator: Payerbach - Wien Hbf Route Add-On",
       "file": "missing/T/306073-train-simulator-payerbach-wien-hbf-route-add-on.json"
@@ -1110667,6 +1110837,11 @@
       "file": "missing/T/156401-train-simulator-portsmouth-direct-line-route-add-on.json"
     },
     {
+      "igdb_id": 156448,
+      "game_name": "Train Simulator: Portsmouth Direct Line: London Waterloo - Portsmouth Route Add-On",
+      "file": "missing/T/156448-train-simulator-portsmouth-direct-line-london-waterloo-portsmouth-route-add-on.json"
+    },
+    {
       "igdb_id": 156473,
       "game_name": "Train Simulator: Promontory Summit Route Add-On",
       "file": "missing/T/156473-train-simulator-promontory-summit-route-add-on.json"
@@ -1110675,6 +1110850,11 @@
       "igdb_id": 156482,
       "game_name": "Train Simulator: Rascal & Cottonwood Route Add-On",
       "file": "missing/T/156482-train-simulator-rascal-and-cottonwood-route-add-on.json"
+    },
+    {
+      "igdb_id": 156447,
+      "game_name": "Train Simulator: Raton Pass: Trinidad - Raton Route Add-On",
+      "file": "missing/T/156447-train-simulator-raton-pass-trinidad-raton-route-add-on.json"
     },
     {
       "igdb_id": 156491,
@@ -1110697,9 +1110877,29 @@
       "file": "missing/T/293693-train-simulator-rudolfsbahn-bruck-an-der-mur-selzthal-and-knittelfeld.json"
     },
     {
+      "igdb_id": 156450,
+      "game_name": "Train Simulator: Ruhr-Sieg Route Add-On",
+      "file": "missing/T/156450-train-simulator-ruhr-sieg-route-add-on.json"
+    },
+    {
       "igdb_id": 191023,
       "game_name": "Train Simulator: Salzburg - Mühldorf Route",
       "file": "missing/T/191023-train-simulator-salzburg-muhldorf-route.json"
+    },
+    {
+      "igdb_id": 156461,
+      "game_name": "Train Simulator: Semmeringbahn - Mürzzuschlag to Gloggnitz Route Add-On",
+      "file": "missing/T/156461-train-simulator-semmeringbahn-murzzuschlag-to-gloggnitz-route-add-on.json"
+    },
+    {
+      "igdb_id": 156422,
+      "game_name": "Train Simulator: Shanghai Maglev Route Add-On",
+      "file": "missing/T/156422-train-simulator-shanghai-maglev-route-add-on.json"
+    },
+    {
+      "igdb_id": 156434,
+      "game_name": "Train Simulator: Sheerness Branch Extension Route Add-On",
+      "file": "missing/T/156434-train-simulator-sheerness-branch-extension-route-add-on.json"
     },
     {
       "igdb_id": 156480,
@@ -1110720,6 +1110920,11 @@
       "igdb_id": 156364,
       "game_name": "Train Simulator: South West China High Speed Route Add-On",
       "file": "missing/T/156364-train-simulator-south-west-china-high-speed-route-add-on.json"
+    },
+    {
+      "igdb_id": 156443,
+      "game_name": "Train Simulator: South Western Main Line: Southampton - Bournemouth Route Add-On",
+      "file": "missing/T/156443-train-simulator-south-western-main-line-southampton-bournemouth-route-add-on.json"
     },
     {
       "igdb_id": 154254,
@@ -1110750,6 +1110955,11 @@
       "igdb_id": 156349,
       "game_name": "Train Simulator: Surselva Line: Reichenau-Tamins - Disentis/Mustér Route Add-On",
       "file": "missing/T/156349-train-simulator-surselva-line-reichenau-tamins-disentis-muster-route-add-on.json"
+    },
+    {
+      "igdb_id": 156470,
+      "game_name": "Train Simulator: Tadami Line: Aizu-Wakamatsu - Tadami Route Add-On",
+      "file": "missing/T/156470-train-simulator-tadami-line-aizu-wakamatsu-tadami-route-add-on.json"
     },
     {
       "igdb_id": 154255,
@@ -1110827,6 +1111037,11 @@
       "file": "missing/T/156343-train-simulator-union-pacific-heritage-sd70aces-loco-add-on.json"
     },
     {
+      "igdb_id": 156453,
+      "game_name": "Train Simulator: Union Pacific Wasatch Grade: Ogden - Evanston Route Add-On",
+      "file": "missing/T/156453-train-simulator-union-pacific-wasatch-grade-ogden-evanston-route-add-on.json"
+    },
+    {
       "igdb_id": 156358,
       "game_name": "Train Simulator: Valley Corridor Route Add-On",
       "file": "missing/T/156358-train-simulator-valley-corridor-route-add-on.json"
@@ -1110835,6 +1111050,11 @@
       "igdb_id": 156474,
       "game_name": "Train Simulator: WCML South: London Euston - Birmingham Route Add-On",
       "file": "missing/T/156474-train-simulator-wcml-south-london-euston-birmingham-route-add-on.json"
+    },
+    {
+      "igdb_id": 156428,
+      "game_name": "Train Simulator: WCML Trent Valley Route Add-On",
+      "file": "missing/T/156428-train-simulator-wcml-trent-valley-route-add-on.json"
     },
     {
       "igdb_id": 156336,
@@ -1110847,9 +1111067,19 @@
       "file": "missing/T/156389-train-simulator-west-coast-main-line-north-route-add-on.json"
     },
     {
+      "igdb_id": 156424,
+      "game_name": "Train Simulator: West Coast Main Line Over Shap Route Add-On",
+      "file": "missing/T/156424-train-simulator-west-coast-main-line-over-shap-route-add-on.json"
+    },
+    {
       "igdb_id": 156359,
       "game_name": "Train Simulator: West Highland Line Extension Route Add-On",
       "file": "missing/T/156359-train-simulator-west-highland-line-extension-route-add-on.json"
+    },
+    {
+      "igdb_id": 156469,
+      "game_name": "Train Simulator: West Rhine: Köln - Koblenz Route Add-On",
+      "file": "missing/T/156469-train-simulator-west-rhine-koln-koblenz-route-add-on.json"
     },
     {
       "igdb_id": 90493,
@@ -1110870,6 +1111100,26 @@
       "igdb_id": 211898,
       "game_name": "Train Simulator: Western Pacific GP20 High Nose Loco",
       "file": "missing/T/211898-train-simulator-western-pacific-gp20-high-nose-loco.json"
+    },
+    {
+      "igdb_id": 156435,
+      "game_name": "Train Simulator: Wherry Lines: Norwich - Great Yarmouth & Lowestoft Route Add-On",
+      "file": "missing/T/156435-train-simulator-wherry-lines-norwich-great-yarmouth-and-lowestoft-route-add-on.json"
+    },
+    {
+      "igdb_id": 156433,
+      "game_name": "Train Simulator: Woodhead Route Add-On",
+      "file": "missing/T/156433-train-simulator-woodhead-route-add-on.json"
+    },
+    {
+      "igdb_id": 156432,
+      "game_name": "Train Simulator: Worcester - Mossel Bay Railway Route Add-On",
+      "file": "missing/T/156432-train-simulator-worcester-mossel-bay-railway-route-add-on.json"
+    },
+    {
+      "igdb_id": 156423,
+      "game_name": "Train Simulator: Yellowhead Pass: Jasper - Valemount Route Add-On",
+      "file": "missing/T/156423-train-simulator-yellowhead-pass-jasper-valemount-route-add-on.json"
     },
     {
       "igdb_id": 233385,
