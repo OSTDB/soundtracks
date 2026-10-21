@@ -894,6 +894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Navigator | 377348 | [377348-navigator.json](./377348-navigator.json) |
 | Navigatris | 94666 | [94666-navigatris.json](./94666-navigatris.json) |
 | Navigavia: Kirka's Island | 267107 | [267107-navigavia-kirkas-island.json](./267107-navigavia-kirkas-island.json) |
+| Navin: In Search of the Light | 157462 | [157462-navin-in-search-of-the-light.json](./157462-navin-in-search-of-the-light.json) |
 | Navinosuke: The Yo-kai Buster | 349430 | [349430-navinosuke-the-yo-kai-buster.json](./349430-navinosuke-the-yo-kai-buster.json) |
 | Navit | 380446 | [380446-navit.json](./380446-navit.json) |
 | Navitune: Dragon Koukaigi | 400944 | [400944-navitune-dragon-koukaigi.json](./400944-navitune-dragon-koukaigi.json) |
@@ -4009,6 +4010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Kunoichi | 169763 | [169763-ninja-kunoichi.json](./169763-ninja-kunoichi.json) |
 | Ninja Leagues: Masters of The Mystic Arts | 158048 | [158048-ninja-leagues-masters-of-the-mystic-arts.json](./158048-ninja-leagues-masters-of-the-mystic-arts.json) |
 | Ninja Legends | 116922 | [116922-ninja-legends.json](./116922-ninja-legends.json) |
+| Ninja Lexx | 157436 | [157436-ninja-lexx.json](./157436-ninja-lexx.json) |
 | Ninja Maker | 286058 | [286058-ninja-maker.json](./286058-ninja-maker.json) |
 | Ninja Massacre | 75503 | [75503-ninja-massacre.json](./75503-ninja-massacre.json) |
 | Ninja Master | 13021 | [13021-ninja-master.json](./13021-ninja-master.json) |
