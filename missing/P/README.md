@@ -220,7 +220,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-Man: Ticket Mania | 146284 | [146284-pac-man-ticket-mania.json](./146284-pac-man-ticket-mania.json) |
 | Pac-Man's Arcade Party | 220255 | [220255-pac-mans-arcade-party.json](./220255-pac-mans-arcade-party.json) |
 | PAC-MANGAMES | 131311 | [131311-pac-mangames.json](./131311-pac-mangames.json) |
-| Pac-Mania | 12192 | [12192-pac-mania.json](./12192-pac-mania.json) |
 | Pac-Mania | 174623 | [174623-pac-mania.json](./174623-pac-mania.json) |
 | Pac-Mania | 284365 | [284365-pac-mania.json](./284365-pac-mania.json) |
 | Pac-Mania | 284465 | [284465-pac-mania.json](./284465-pac-mania.json) |
