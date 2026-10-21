@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-21T12:00:58.431Z",
-  "total_soundtracks": 2357,
+  "generated_at": "2026-10-21T19:42:24.412Z",
+  "total_soundtracks": 2377,
   "games": [
     {
       "igdb_id": 7522,
@@ -1995,6 +1995,20 @@
         {
           "album_name": "Atelier Ryza 2: Lost Legends & the Secret Fairy Original Soundtrack",
           "spotify_url": "https://open.spotify.com/album/13a1zAsQdUvBu2ADU9V8HK",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 217558,
+      "game_name": "Atelier Ryza 3: Alchemist of the End & the Secret Key",
+      "game_url": "https://ostdb.net/games/atelier-ryza-3-alchemist-of-the-end-and-the-secret-key",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273c4fbeed3e7e5c8bb54935954",
+      "albums": [
+        {
+          "album_name": "Atelier Ryza 3: Alchemist of the End & the Secret Key Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/1dfIw7vPvmLUOFB6iJML7G",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -4217,6 +4231,20 @@
         {
           "album_name": "Chained Echoes (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/1ZfNvXO4HsYcklqiRWpD1p",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 89955,
+      "game_name": "Changed",
+      "game_url": "https://ostdb.net/games/changed",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273310d0252d2a980228a124894",
+      "albums": [
+        {
+          "album_name": "Changed Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/1FoC5vc9DKuuz3kfUOQq8R",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -6923,6 +6951,20 @@
       ]
     },
     {
+      "igdb_id": 309582,
+      "game_name": "Doki Doki Literature Club",
+      "game_url": "https://ostdb.net/games/doki-doki-literature-club",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2733925fdf9a87edf2350632d60",
+      "albums": [
+        {
+          "album_name": "Doki Doki Literature Club! (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/3sQqya1Z1oFg1ueZ18QB7k",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 152122,
       "game_name": "Doki Doki Literature Club Plus!",
       "game_url": "https://ostdb.net/games/doki-doki-literature-club-plus",
@@ -7357,6 +7399,20 @@
         {
           "album_name": "Duck Detective (The Secret Salami Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/0s73kUkRzWLExSX7wQMIz9",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 56873,
+      "game_name": "Duck Season",
+      "game_url": "https://ostdb.net/games/duck-season",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273de413b0496e5f223e570e17d",
+      "albums": [
+        {
+          "album_name": "Duck Season (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/10yYFeR6qHi1F80ajpAEFk",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -7873,6 +7929,20 @@
         {
           "album_name": "ENDER MAGNOLIA: Bloom in the Mist Original Soundtrack",
           "spotify_url": "https://open.spotify.com/album/5dMcPBH12QBgJ6TLmZiTCD",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 109970,
+      "game_name": "Endless Dungeon",
+      "game_url": "https://ostdb.net/games/endless-dungeon",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273b7f1f86952e9ced1bbf3aeb5",
+      "albums": [
+        {
+          "album_name": "Endless Dungeon (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/76c6oS9gr3bUkEXZR8KmJw",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -8561,6 +8631,20 @@
         {
           "album_name": "Fatal Frame Soundtrack",
           "spotify_url": "https://open.spotify.com/album/1h7LZfDNbsdnkwk0OqNXC6",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 260321,
+      "game_name": "Fatal Fury: City of the Wolves",
+      "game_url": "https://ostdb.net/games/fatal-fury-city-of-the-wolves",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273b8173f05d722fa0c6705cc10",
+      "albums": [
+        {
+          "album_name": "FATAL FURY: City of the Wolves ORIGINAL SOUNDTRACK",
+          "spotify_url": "https://open.spotify.com/album/5SlPQem2RkgN9wgCdrPg90",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -10709,6 +10793,20 @@
       ]
     },
     {
+      "igdb_id": 122126,
+      "game_name": "Greak: Memories of Azur",
+      "game_url": "https://ostdb.net/games/greak-memories-of-azur",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273a0278896a7a7a9f274c8b1c5",
+      "albums": [
+        {
+          "album_name": "Greak: Memories of Azur (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/3HvN6df06GbAUcWEyn6VZz",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 27092,
       "game_name": "GreedFall",
       "game_url": "https://ostdb.net/games/greedfall",
@@ -11661,6 +11759,20 @@
       ]
     },
     {
+      "igdb_id": 56581,
+      "game_name": "High Hell",
+      "game_url": "https://ostdb.net/games/high-hell",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273d550b42e32fb7be68a8c599c",
+      "albums": [
+        {
+          "album_name": "High Hell Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/6lbjCIfLLNDXWuc38aJcaE",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 204618,
       "game_name": "High on Life",
       "game_url": "https://ostdb.net/games/high-on-life",
@@ -11723,6 +11835,20 @@
         {
           "album_name": "Hill Climb Racing 2 (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/49RmnLfJJVkFxMnVj470fU",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 116305,
+      "game_name": "Himno",
+      "game_url": "https://ostdb.net/games/himno",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2739a90fb059ba3455b07be684c",
+      "albums": [
+        {
+          "album_name": "Himno (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6W7gXNXM3BfLmXwyxlPp5K",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -12045,6 +12171,20 @@
         {
           "album_name": "Huntdown (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/6JKUWcHBIwztCFBbYL2Zqi",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 98469,
+      "game_name": "Hylics 2",
+      "game_url": "https://ostdb.net/games/hylics-2",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273e63b9a388aedad341663bdaa",
+      "albums": [
+        {
+          "album_name": "Hylics 2 Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/5P8ELqnm5ok0gH3rjHh3Yf",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -13619,6 +13759,20 @@
           "spotify_url": "",
           "apple_music_url": "https://music.apple.com/us/album/lies-of-p-original-game-soundtrack/1716825829?uo=4",
           "album_link_url": "https://album.link/i/1716825829"
+        }
+      ]
+    },
+    {
+      "igdb_id": 174945,
+      "game_name": "Life Force",
+      "game_url": "https://ostdb.net/games/life-force",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273011338dcbaaa15fbed75ca84",
+      "albums": [
+        {
+          "album_name": "Life Force (NES) Soundtrack: Phoenix Ascends",
+          "spotify_url": "https://open.spotify.com/album/31cytBMyN9UCiGOGmBsT9e",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
@@ -17621,6 +17775,20 @@
       ]
     },
     {
+      "igdb_id": 113350,
+      "game_name": "Panzer Dragoon: Remake",
+      "game_url": "https://ostdb.net/games/panzer-dragoon-remake",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2733daf1552134d49d6bcd39bda",
+      "albums": [
+        {
+          "album_name": "Panzer Dragoon: Remake (The Definitive Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2rGRBpZEQvOtWJtDJiNIJQ",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 2935,
       "game_name": "Papers, Please",
       "game_url": "https://ostdb.net/games/papers-please",
@@ -18656,6 +18824,20 @@
           "album_name": "Thank you, 5urvivors (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/6LWwIqfOPOJLxwhgwm8ECq",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 47250,
+      "game_name": "Puyo Puyo",
+      "game_url": "https://ostdb.net/games/puyo-puyo",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27383ad3e579b4817e6696126a4",
+      "albums": [
+        {
+          "album_name": "Puyo Puyo!! Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/2R58v4jQTXSXtCR9AFwwbj",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
@@ -20893,6 +21075,20 @@
       ]
     },
     {
+      "igdb_id": 79726,
+      "game_name": "Shin Megami Tensei if...",
+      "game_url": "https://ostdb.net/games/shin-megami-tensei-if",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2737275a4dde4fb00617df499df",
+      "albums": [
+        {
+          "album_name": "Shin Megami Tensei if... Original Soundtrack (Super Famicom version)",
+          "spotify_url": "https://open.spotify.com/album/1vpSs32jLUIgOTp9EF2Z2j",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 6886,
       "game_name": "Shin Megami Tensei IV",
       "game_url": "https://ostdb.net/games/shin-megami-tensei-iv",
@@ -21671,6 +21867,20 @@
           "spotify_url": "https://open.spotify.com/album/2mnhCObpHcTNkT9PEeYrkn",
           "apple_music_url": "https://music.apple.com/us/album/sonic-adventure-2-original-soundtrack-vol-1/929920745",
           "album_link_url": "https://album.link/i/929920745"
+        }
+      ]
+    },
+    {
+      "igdb_id": 150005,
+      "game_name": "Sonic Colors: Ultimate",
+      "game_url": "https://ostdb.net/games/sonic-colors-ultimate",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273b8d1d9ff78c3058e064e53ab",
+      "albums": [
+        {
+          "album_name": "Sonic Colors: Ultimate (Original Soundtrack Re-Colors)",
+          "spotify_url": "https://open.spotify.com/album/0th1kZ39QNs0E6EP5Pv8Gz",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
@@ -23405,6 +23615,20 @@
           "spotify_url": "",
           "apple_music_url": "https://music.apple.com/us/album/tactical-breach-wizards-original-game-soundtrack/1769289561?uo=4",
           "album_link_url": "https://album.link/i/1769289561"
+        }
+      ]
+    },
+    {
+      "igdb_id": 146424,
+      "game_name": "Tainted Grail: Conquest",
+      "game_url": "https://ostdb.net/games/tainted-grail-conquest",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273e77098dcd4f9adcae81462b1",
+      "albums": [
+        {
+          "album_name": "Tainted Grail: Conquest — Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/2AtZwBG5vQsDLgnEOfKX2w",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
@@ -25373,6 +25597,20 @@
       ]
     },
     {
+      "igdb_id": 335833,
+      "game_name": "The Séance of Blake Manor",
+      "game_url": "https://ostdb.net/games/the-seance-of-blake-manor",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27375868c7fc580f63598dce304",
+      "albums": [
+        {
+          "album_name": "The Séance of Blake Manor (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1OFgJL85QgSBFUfhgMBJZz",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 60,
       "game_name": "The Secret of Monkey Island",
       "game_url": "https://ostdb.net/games/the-secret-of-monkey-island",
@@ -25963,6 +26201,20 @@
       ]
     },
     {
+      "igdb_id": 83848,
+      "game_name": "Those Who Remain",
+      "game_url": "https://ostdb.net/games/those-who-remain",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27362de32bae6472e22439e6a10",
+      "albums": [
+        {
+          "album_name": "Those Who Remain (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1ShSvluRFok6IYZdTOiJVE",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 107300,
       "game_name": "Thronebreaker: The Witcher Tales",
       "game_url": "https://ostdb.net/games/thronebreaker-the-witcher-tales",
@@ -26427,6 +26679,20 @@
           "spotify_url": "",
           "apple_music_url": "https://music.apple.com/us/album/trails-in-the-sky-1st-chapter-original-soundtrack/1853770441?uo=4",
           "album_link_url": "https://album.link/i/1853770441"
+        }
+      ]
+    },
+    {
+      "igdb_id": 5243,
+      "game_name": "Transformers: Dark of the Moon",
+      "game_url": "https://ostdb.net/games/transformers-dark-of-the-moon",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273c4536321b761605240772fc7",
+      "albums": [
+        {
+          "album_name": "Transformers: Dark of the Moon (Original Video Game Score)",
+          "spotify_url": "https://open.spotify.com/album/3Alk2DbdfkNfZm3cH5xqsL",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
@@ -26960,6 +27226,20 @@
           "album_name": "UNDERTALE Soundtrack",
           "spotify_url": "https://open.spotify.com/album/2M2Ae2SvZe3fmzUtlVOV5Z",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 75496,
+      "game_name": "Unforgiving - A Northern Hymn",
+      "game_url": "https://ostdb.net/games/unforgiving-a-northern-hymn",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27353c68bda52f43fc336aca374",
+      "albums": [
+        {
+          "album_name": "Unforgiving: A Northern Hymn (Original Video Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0kH7GGXF85117cxPeuuxSI",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
