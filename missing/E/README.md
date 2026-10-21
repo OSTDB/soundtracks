@@ -2971,7 +2971,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endzeit | 115145 | [115145-endzeit.json](./115145-endzeit.json) |
 | Endzeit | 243785 | [243785-endzeit.json](./243785-endzeit.json) |
 | Endzone | 13643 | [13643-endzone.json](./13643-endzone.json) |
-| Endzone: A World Apart | 126362 | [126362-endzone-a-world-apart.json](./126362-endzone-a-world-apart.json) |
 | Endzone: A World Apart - Complete Edition | 218504 | [218504-endzone-a-world-apart-complete-edition.json](./218504-endzone-a-world-apart-complete-edition.json) |
 | Endzone: A World Apart - Distant Places | 193755 | [193755-endzone-a-world-apart-distant-places.json](./193755-endzone-a-world-apart-distant-places.json) |
 | Endzone: A World Apart - Prosperity | 159687 | [159687-endzone-a-world-apart-prosperity.json](./159687-endzone-a-world-apart-prosperity.json) |
