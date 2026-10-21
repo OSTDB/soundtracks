@@ -7102,6 +7102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shop Simulator: Waifu Pillows | 333226 | [333226-shop-simulator-waifu-pillows.json](./333226-shop-simulator-waifu-pillows.json) |
 | Shop Titans | 119969 | [119969-shop-titans.json](./119969-shop-titans.json) |
 | Shop Town Dooter | 310182 | [310182-shop-town-dooter.json](./310182-shop-town-dooter.json) |
+| Shop Tycoon | 162079 | [162079-shop-tycoon.json](./162079-shop-tycoon.json) |
 | Shop Tycoon | 284891 | [284891-shop-tycoon.json](./284891-shop-tycoon.json) |
 | Shop Tycoon the Boss | 103537 | [103537-shop-tycoon-the-boss.json](./103537-shop-tycoon-the-boss.json) |
 | Shop-Like: The Rogue-Like Item Shop Experience | 250649 | [250649-shop-like-the-rogue-like-item-shop-experience.json](./250649-shop-like-the-rogue-like-item-shop-experience.json) |
@@ -8245,6 +8246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silver Pines | 313597 | [313597-silver-pines.json](./313597-silver-pines.json) |
 | Silver Sonic: Rise of the Death Egg | 231467 | [231467-silver-sonic-rise-of-the-death-egg.json](./231467-silver-sonic-rise-of-the-death-egg.json) |
 | Silver Sonic: The Crystal Islands | 302142 | [302142-silver-sonic-the-crystal-islands.json](./302142-silver-sonic-the-crystal-islands.json) |
+| Silver Soul | 162076 | [162076-silver-soul.json](./162076-silver-soul.json) |
 | Silver Squad: Age of the Vortex | 160060 | [160060-silver-squad-age-of-the-vortex.json](./160060-silver-squad-age-of-the-vortex.json) |
 | Silver Star Chess | 85371 | [85371-silver-star-chess.json](./85371-silver-star-chess.json) |
 | Silver Star Japan Table Games | 144997 | [144997-silver-star-japan-table-games.json](./144997-silver-star-japan-table-games.json) |
