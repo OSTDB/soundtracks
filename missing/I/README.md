@@ -4313,6 +4313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invisible Love | 286774 | [286774-invisible-love.json](./286774-invisible-love.json) |
 | Invisible Mind | 32029 | [32029-invisible-mind.json](./32029-invisible-mind.json) |
 | Invisible Parties | 7869 | [7869-invisible-parties.json](./7869-invisible-parties.json) |
+| Invisible Services: Pixel Art Jigsaw Puzzle | 162208 | [162208-invisible-services-pixel-art-jigsaw-puzzle.json](./162208-invisible-services-pixel-art-jigsaw-puzzle.json) |
 | Invisible Sign: Isu | 221028 | [221028-invisible-sign-isu.json](./221028-invisible-sign-isu.json) |
 | Invisible Sign: Isu - Nemureru Mori | 221030 | [221030-invisible-sign-isu-nemureru-mori.json](./221030-invisible-sign-isu-nemureru-mori.json) |
 | Invisible Wall | 348884 | [348884-invisible-wall.json](./348884-invisible-wall.json) |
