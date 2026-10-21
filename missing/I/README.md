@@ -2995,6 +2995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Survivor | 303582 | [303582-infinite-survivor.json](./303582-infinite-survivor.json) |
 | Infinite Tanks | 30759 | [30759-infinite-tanks.json](./30759-infinite-tanks.json) |
 | Infinite Tanks WWII | 150266 | [150266-infinite-tanks-wwii.json](./150266-infinite-tanks-wwii.json) |
+| Infinite Tournament Paintball | 161626 | [161626-infinite-tournament-paintball.json](./161626-infinite-tournament-paintball.json) |
 | Infinite Turtles | 198362 | [198362-infinite-turtles.json](./198362-infinite-turtles.json) |
 | Infinite Undiscovery | 7019 | [7019-infinite-undiscovery.json](./7019-infinite-undiscovery.json) |
 | Infinite Veil | 379874 | [379874-infinite-veil.json](./379874-infinite-veil.json) |
