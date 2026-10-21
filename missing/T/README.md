@@ -12235,6 +12235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sacrificial Girl of the Fantasy 3 Kingdoms: Shu | 130206 | [130206-the-sacrificial-girl-of-the-fantasy-3-kingdoms-shu.json](./130206-the-sacrificial-girl-of-the-fantasy-3-kingdoms-shu.json) |
 | The Sacrificial Girl of the Fantasy 3: Kingdoms 2 | 261669 | [261669-the-sacrificial-girl-of-the-fantasy-3-kingdoms-2.json](./261669-the-sacrificial-girl-of-the-fantasy-3-kingdoms-2.json) |
 | The Saddle Club | 268211 | [268211-the-saddle-club.json](./268211-the-saddle-club.json) |
+| The Saddle Club: Willowbrook Stables | 163160 | [163160-the-saddle-club-willowbrook-stables.json](./163160-the-saddle-club-willowbrook-stables.json) |
 | The Safeguard Garrison | 29672 | [29672-the-safeguard-garrison.json](./29672-the-safeguard-garrison.json) |
 | The Safeguard Garrison 2 | 28899 | [28899-the-safeguard-garrison-2.json](./28899-the-safeguard-garrison-2.json) |
 | The Safeguard Garrison: Space Colonies | 43159 | [43159-the-safeguard-garrison-space-colonies.json](./43159-the-safeguard-garrison-space-colonies.json) |
