@@ -35,6 +35,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | L.I.F.E. Simulator | 329983 | [329983-l-i-f-e-simulator.json](./329983-l-i-f-e-simulator.json) |
 | L.O.C.K. | 144364 | [144364-l-o-c-k.json](./144364-l-o-c-k.json) |
 | L.O.L. Surprise! B.B.s Born to Travel | 203810 | [203810-l-o-l-surprise-b-b-s-born-to-travel.json](./203810-l-o-l-surprise-b-b-s-born-to-travel.json) |
+| L.O.L. Surprise! Movie Night | 163146 | [163146-l-o-l-surprise-movie-night.json](./163146-l-o-l-surprise-movie-night.json) |
 | L.O.L. Surprise! Roller Dreams Racing | 271399 | [271399-l-o-l-surprise-roller-dreams-racing.json](./271399-l-o-l-surprise-roller-dreams-racing.json) |
 | L.O.L. Surprise!: Laptop Divertido | 297739 | [297739-l-o-l-surprise-laptop-divertido.json](./297739-l-o-l-surprise-laptop-divertido.json) |
 | L.O.L. Surprise!: Laptop Tech | 297742 | [297742-l-o-l-surprise-laptop-tech.json](./297742-l-o-l-surprise-laptop-tech.json) |
@@ -735,6 +736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Larry Lotter and the Test of Time | 57096 | [57096-larry-lotter-and-the-test-of-time.json](./57096-larry-lotter-and-the-test-of-time.json) |
 | Larry Ragland's 4x4 Challenge | 93468 | [93468-larry-raglands-4x4-challenge.json](./93468-larry-raglands-4x4-challenge.json) |
 | Larry the Dinosaur 2: Something in the Cola | 217509 | [217509-larry-the-dinosaur-2-something-in-the-cola.json](./217509-larry-the-dinosaur-2-something-in-the-cola.json) |
+| Larry the Unlucky: Part 1 | 163182 | [163182-larry-the-unlucky-part-1.json](./163182-larry-the-unlucky-part-1.json) |
 | Larry the Unlucky: Part 2 | 164602 | [164602-larry-the-unlucky-part-2.json](./164602-larry-the-unlucky-part-2.json) |
 | Larry the Unlucky: Part 3 | 188847 | [188847-larry-the-unlucky-part-3.json](./188847-larry-the-unlucky-part-3.json) |
 | Larry Vales II: Dead Girls are Easy | 76463 | [76463-larry-vales-ii-dead-girls-are-easy.json](./76463-larry-vales-ii-dead-girls-are-easy.json) |
@@ -3403,6 +3405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life Bubble: Light Speed | 300936 | [300936-life-bubble-light-speed.json](./300936-life-bubble-light-speed.json) |
 | Life Bug | 359549 | [359549-life-bug.json](./359549-life-bug.json) |
 | Life by You | 240899 | [240899-life-by-you.json](./240899-life-by-you.json) |
+| Life Can Be Amazing | 163183 | [163183-life-can-be-amazing.json](./163183-life-can-be-amazing.json) |
 | Life Code | 287774 | [287774-life-code.json](./287774-life-code.json) |
 | Life Combinations | 117479 | [117479-life-combinations.json](./117479-life-combinations.json) |
 | Life Dash | 336572 | [336572-life-dash.json](./336572-life-dash.json) |
@@ -5404,6 +5407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Logos Quiz | 254425 | [254425-logos-quiz.json](./254425-logos-quiz.json) |
 | Logout | 96856 | [96856-logout.json](./96856-logout.json) |
 | Logres: Japanese RPG | 75222 | [75222-logres-japanese-rpg.json](./75222-logres-japanese-rpg.json) |
+| LogScape: Puzzle Game | 163166 | [163166-logscape-puzzle-game.json](./163166-logscape-puzzle-game.json) |
 | Lohotronshchik: Crazy Loto | 280887 | [280887-lohotronshchik-crazy-loto.json](./280887-lohotronshchik-crazy-loto.json) |
 | Loihtija | 176518 | [176518-loihtija.json](./176518-loihtija.json) |
 | Loinkham TD | 266067 | [266067-loinkham-td.json](./266067-loinkham-td.json) |
