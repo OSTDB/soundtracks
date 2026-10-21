@@ -3896,6 +3896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Celestial Orbiter Auranova: Those Who Denounce God | 325643 | [325643-celestial-orbiter-auranova-those-who-denounce-god.json](./325643-celestial-orbiter-auranova-those-who-denounce-god.json) |
 | Celestial Project | 189149 | [189149-celestial-project.json](./189149-celestial-project.json) |
 | Celestial Raider | 243588 | [243588-celestial-raider.json](./243588-celestial-raider.json) |
+| Celestial Reactors | 161570 | [161570-celestial-reactors.json](./161570-celestial-reactors.json) |
 | Celestial Return | 277763 | [277763-celestial-return.json](./277763-celestial-return.json) |
 | Celestial Reverie | 406574 | [406574-celestial-reverie.json](./406574-celestial-reverie.json) |
 | Celestial Rune Consortium: Shadows of Ascension | 293627 | [293627-celestial-rune-consortium-shadows-of-ascension.json](./293627-celestial-rune-consortium-shadows-of-ascension.json) |
@@ -10999,6 +11000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coolbit | 181004 | [181004-coolbit.json](./181004-coolbit.json) |
 | Cooler Super Mario Bros. Land | 394347 | [394347-cooler-super-mario-bros-land.json](./394347-cooler-super-mario-bros-land.json) |
 | Coolmath Games: The Game | 234707 | [234707-coolmath-games-the-game.json](./234707-coolmath-games-the-game.json) |
+| Coolors | 161696 | [161696-coolors.json](./161696-coolors.json) |
 | CoolPaintr VR | 104022 | [104022-coolpaintr-vr.json](./104022-coolpaintr-vr.json) |
 | CoolPaintr VR: Voxel | 270143 | [270143-coolpaintr-vr-voxel.json](./270143-coolpaintr-vr-voxel.json) |
 | CoolPaintrVR | 99771 | [99771-coolpaintrvr.json](./99771-coolpaintrvr.json) |
