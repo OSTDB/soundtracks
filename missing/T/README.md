@@ -7243,7 +7243,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Final Earth 2 | 126651 | [126651-the-final-earth-2.json](./126651-the-final-earth-2.json) |
 | The Final Exam | 318637 | [318637-the-final-exam.json](./318637-the-final-exam.json) |
 | The Final Exhibition | 245862 | [245862-the-final-exhibition.json](./245862-the-final-exhibition.json) |
-| The Final Fantasy Legend | 396 | [396-the-final-fantasy-legend.json](./396-the-final-fantasy-legend.json) |
 | The Final Fantasy Legend DX | 364394 | [364394-the-final-fantasy-legend-dx.json](./364394-the-final-fantasy-legend-dx.json) |
 | The Final Flame | 365808 | [365808-the-final-flame.json](./365808-the-final-flame.json) |
 | The Final Front | 382440 | [382440-the-final-front.json](./382440-the-final-front.json) |
