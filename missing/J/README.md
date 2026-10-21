@@ -1460,6 +1460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsaw puzzle: Evolution | 100720 | [100720-jigsaw-puzzle-evolution.json](./100720-jigsaw-puzzle-evolution.json) |
 | Jigsaw Puzzle: Futanari Threesome | 220834 | [220834-jigsaw-puzzle-futanari-threesome.json](./220834-jigsaw-puzzle-futanari-threesome.json) |
 | Jigsaw Puzzle: New Year Collection | 351599 | [351599-jigsaw-puzzle-new-year-collection.json](./351599-jigsaw-puzzle-new-year-collection.json) |
+| Jigsaw Puzzle: Pixel Art Master | 162209 | [162209-jigsaw-puzzle-pixel-art-master.json](./162209-jigsaw-puzzle-pixel-art-master.json) |
 | Jigsaw Puzzle: Pro Edition | 162230 | [162230-jigsaw-puzzle-pro-edition.json](./162230-jigsaw-puzzle-pro-edition.json) |
 | Jigsaw Puzzle: Pro Edition - Expansion Pack 1 | 162233 | [162233-jigsaw-puzzle-pro-edition-expansion-pack-1.json](./162233-jigsaw-puzzle-pro-edition-expansion-pack-1.json) |
 | Jigsaw Puzzle: Pro Edition - Expansion Pack 10 | 162242 | [162242-jigsaw-puzzle-pro-edition-expansion-pack-10.json](./162242-jigsaw-puzzle-pro-edition-expansion-pack-10.json) |
@@ -1482,6 +1483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsaw Puzzles Free by WallpaperFusion | 90937 | [90937-jigsaw-puzzles-free-by-wallpaperfusion.json](./90937-jigsaw-puzzles-free-by-wallpaperfusion.json) |
 | Jigsaw Puzzles Infinite: Cats & Dogs Puzzle Pack | 286238 | [286238-jigsaw-puzzles-infinite-cats-and-dogs-puzzle-pack.json](./286238-jigsaw-puzzles-infinite-cats-and-dogs-puzzle-pack.json) |
 | Jigsaw Puzzles: Fantasy Landscapes | 240098 | [240098-jigsaw-puzzles-fantasy-landscapes.json](./240098-jigsaw-puzzles-fantasy-landscapes.json) |
+| Jigsaw Puzzles: Master Artists of Old | 162207 | [162207-jigsaw-puzzles-master-artists-of-old.json](./162207-jigsaw-puzzles-master-artists-of-old.json) |
 | Jigsaw Puzzles: Photo Puzzles | 232304 | [232304-jigsaw-puzzles-photo-puzzles.json](./232304-jigsaw-puzzles-photo-puzzles.json) |
 | Jigsaw Puzzles: Puzzle Game | 223946 | [223946-jigsaw-puzzles-puzzle-game.json](./223946-jigsaw-puzzles-puzzle-game.json) |
 | Jigsaw Realms: Nature | 386369 | [386369-jigsaw-realms-nature.json](./386369-jigsaw-realms-nature.json) |
