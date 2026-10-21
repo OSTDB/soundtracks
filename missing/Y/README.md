@@ -1135,6 +1135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Your Party Died Again | 404990 | [404990-your-party-died-again.json](./404990-your-party-died-again.json) |
 | Your Personal Chill Apartment | 199365 | [199365-your-personal-chill-apartment.json](./199365-your-personal-chill-apartment.json) |
 | Your Personality Test | 371549 | [371549-your-personality-test.json](./371549-your-personality-test.json) |
+| Your planet in 60 seconds | 157965 | [157965-your-planet-in-60-seconds.json](./157965-your-planet-in-60-seconds.json) |
 | Your Principal | 126596 | [126596-your-principal.json](./126596-your-principal.json) |
 | Your Quest 2 | 128287 | [128287-your-quest-2.json](./128287-your-quest-2.json) |
 | Your Riding School | 149004 | [149004-your-riding-school.json](./149004-your-riding-school.json) |
