@@ -579,7 +579,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tainá | 283614 | [283614-taina.json](./283614-taina.json) |
 | Taina's Cursed Legacy | 361686 | [361686-tainas-cursed-legacy.json](./361686-tainas-cursed-legacy.json) |
 | Tainted | 271846 | [271846-tainted.json](./271846-tainted.json) |
-| Tainted Grail: Conquest | 146424 | [146424-tainted-grail-conquest.json](./146424-tainted-grail-conquest.json) |
 | Tainted Grail: The Fall of Avalon | 127697 | [127697-tainted-grail-the-fall-of-avalon.json](./127697-tainted-grail-the-fall-of-avalon.json) |
 | Tainted Grail: The Fall of Avalon - Sanctuary of Sarras | 380816 | [380816-tainted-grail-the-fall-of-avalon-sanctuary-of-sarras.json](./380816-tainted-grail-the-fall-of-avalon-sanctuary-of-sarras.json) |
 | Tainted Ground | 373031 | [373031-tainted-ground.json](./373031-tainted-ground.json) |
@@ -10925,7 +10924,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mythical City 4 | 327828 | [327828-the-mythical-city-4.json](./327828-the-mythical-city-4.json) |
 | The Naked Brothers Band | 5046 | [5046-the-naked-brothers-band.json](./5046-the-naked-brothers-band.json) |
 | The Naked Brothers Band: The Video Game | 47955 | [47955-the-naked-brothers-band-the-video-game.json](./47955-the-naked-brothers-band-the-video-game.json) |
-| The Name I Wear | 408022 | [408022-the-name-i-wear.json](./408022-the-name-i-wear.json) |
 | The Nameless | 178458 | [178458-the-nameless.json](./178458-the-nameless.json) |
 | The Nameless | 214126 | [214126-the-nameless.json](./214126-the-nameless.json) |
 | The Nameless Braves: Heaven | 207749 | [207749-the-nameless-braves-heaven.json](./207749-the-nameless-braves-heaven.json) |
@@ -12336,7 +12334,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Seal Hunter | 345555 | [345555-the-seal-hunter.json](./345555-the-seal-hunter.json) |
 | The Seal of Hades | 47536 | [47536-the-seal-of-hades.json](./47536-the-seal-of-hades.json) |
 | The Sealed Ampoule | 139138 | [139138-the-sealed-ampoule.json](./139138-the-sealed-ampoule.json) |
-| The Séance of Blake Manor | 335833 | [335833-the-seance-of-blake-manor.json](./335833-the-seance-of-blake-manor.json) |
 | The Search | 30193 | [30193-the-search.json](./30193-the-search.json) |
 | The Search for a Colour Palette | 226592 | [226592-the-search-for-a-colour-palette.json](./226592-the-search-for-a-colour-palette.json) |
 | The Search For Above Average Life | 361752 | [361752-the-search-for-above-average-life.json](./361752-the-search-for-above-average-life.json) |
@@ -15628,7 +15625,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Those Spacecrafts | 134970 | [134970-those-spacecrafts.json](./134970-those-spacecrafts.json) |
 | Those Who Came: Healing Solarus | 175647 | [175647-those-who-came-healing-solarus.json](./175647-those-who-came-healing-solarus.json) |
 | Those Who Crawl | 230803 | [230803-those-who-crawl.json](./230803-those-who-crawl.json) |
-| Those Who Remain | 83848 | [83848-those-who-remain.json](./83848-those-who-remain.json) |
 | Those Who Rule | 211226 | [211226-those-who-rule.json](./211226-those-who-rule.json) |
 | Those Who Rule II | 394374 | [394374-those-who-rule-ii.json](./394374-those-who-rule-ii.json) |
 | Thot on Trial | 384879 | [384879-thot-on-trial.json](./384879-thot-on-trial.json) |
@@ -22922,7 +22918,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Transformers: Cybertron Adventures | 5242 | [5242-transformers-cybertron-adventures.json](./5242-transformers-cybertron-adventures.json) |
 | Transformers: Dark of the Moon | 259155 | [259155-transformers-dark-of-the-moon.json](./259155-transformers-dark-of-the-moon.json) |
 | Transformers: Dark of the Moon | 259166 | [259166-transformers-dark-of-the-moon.json](./259166-transformers-dark-of-the-moon.json) |
-| Transformers: Dark of the Moon | 5243 | [5243-transformers-dark-of-the-moon.json](./5243-transformers-dark-of-the-moon.json) |
 | Transformers: Dark of the Moon - Autobots | 141825 | [141825-transformers-dark-of-the-moon-autobots.json](./141825-transformers-dark-of-the-moon-autobots.json) |
 | Transformers: Dark of the Moon - Decepticons | 141826 | [141826-transformers-dark-of-the-moon-decepticons.json](./141826-transformers-dark-of-the-moon-decepticons.json) |
 | Transformers: Dark of the Moon - Stealth Force Edition | 51021 | [51021-transformers-dark-of-the-moon-stealth-force-edition.json](./51021-transformers-dark-of-the-moon-stealth-force-edition.json) |
