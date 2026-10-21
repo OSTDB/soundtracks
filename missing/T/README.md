@@ -15849,7 +15849,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Through the Trap Door | 54718 | [54718-through-the-trap-door.json](./54718-through-the-trap-door.json) |
 | Through the Veil | 319291 | [319291-through-the-veil.json](./319291-through-the-veil.json) |
 | Through the Wall | 339294 | [339294-through-the-wall.json](./339294-through-the-wall.json) |
-| Through the Woods | 9525 | [9525-through-the-woods.json](./9525-through-the-woods.json) |
 | Through the Woods: Collector's Edition | 51920 | [51920-through-the-woods-collectors-edition.json](./51920-through-the-woods-collectors-edition.json) |
 | Through the Woods: Digital Collector's Edition | 53798 | [53798-through-the-woods-digital-collectors-edition.json](./53798-through-the-woods-digital-collectors-edition.json) |
 | Through the World | 189118 | [189118-through-the-world.json](./189118-through-the-world.json) |
