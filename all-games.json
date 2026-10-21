@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-21T20:16:33.244Z",
-  "total_soundtracks": 2406,
+  "generated_at": "2026-10-21T20:21:35.208Z",
+  "total_soundtracks": 2414,
   "games": [
     {
       "igdb_id": 7522,
@@ -3549,6 +3549,20 @@
         {
           "album_name": "Bound By Flame (Original Video Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/7iseRLOjgTXOnKxq2fCm9X",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 74692,
+      "game_name": "Boyfriend Dungeon",
+      "game_url": "https://ostdb.net/games/boyfriend-dungeon",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273cb59738b6fbe9f42df947348",
+      "albums": [
+        {
+          "album_name": "Boyfriend Dungeon (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/3RFz8CC8bnSs61QbkRrmUT",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -9893,6 +9907,20 @@
       ]
     },
     {
+      "igdb_id": 119856,
+      "game_name": "Garden Story",
+      "game_url": "https://ostdb.net/games/garden-story",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2739232cf8145e459c784aab47b",
+      "albums": [
+        {
+          "album_name": "Garden Story (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0Vh9O9k0TMvRwBoyJl7pTv",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 230468,
       "game_name": "Garten of Banban",
       "game_url": "https://ostdb.net/games/garten-of-banban",
@@ -12407,6 +12435,20 @@
         {
           "album_name": "If Found (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/03Z1llAQxqTVmhCfq2lFzz",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 7086,
+      "game_name": "Ilomilo",
+      "game_url": "https://ostdb.net/games/ilomilo",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273714c9ffe2d2f816fd91d16ee",
+      "albums": [
+        {
+          "album_name": "Ilomilo (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1AHzLwhhj08r4pvtdfVycY",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -15208,6 +15250,20 @@
           "album_name": "MDK Soundtrack",
           "spotify_url": "https://open.spotify.com/album/6Zl969WcE6v6Szn1pQ3NzI",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 6455,
+      "game_name": "Me & My Katamari",
+      "game_url": "https://ostdb.net/games/me-and-my-katamari",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273111027124bb40e9e8f1fc7ba",
+      "albums": [
+        {
+          "album_name": "Me & My Katamari (Original Soundtrack) -Katamari Original Soundtrack Damacy",
+          "spotify_url": "https://open.spotify.com/album/5CbcRmoVKK3vRvTNLEr4Q2",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
@@ -18859,6 +18915,20 @@
       ]
     },
     {
+      "igdb_id": 75994,
+      "game_name": "Potionomics",
+      "game_url": "https://ostdb.net/games/potionomics",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27339b9c90b6bf97c548862c9ff",
+      "albums": [
+        {
+          "album_name": "Potionomics (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/4B54FeDVxWELwOYWHGAUhU",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 134612,
       "game_name": "Pragmata",
       "game_url": "https://ostdb.net/games/pragmata",
@@ -21187,6 +21257,20 @@
       ]
     },
     {
+      "igdb_id": 68391,
+      "game_name": "Shadow Fight 3",
+      "game_url": "https://ostdb.net/games/shadow-fight-3",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273c83cdb3ec61d9037a5da279f",
+      "albums": [
+        {
+          "album_name": "Shadow Fight 3 (Original Games Soundtrack, Vol. 2)",
+          "spotify_url": "https://open.spotify.com/album/6HsrSUQgP7jueC0FKQGRjN",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 233307,
       "game_name": "Shadow Gambit: The Cursed Crew",
       "game_url": "https://ostdb.net/games/shadow-gambit-the-cursed-crew",
@@ -23114,6 +23198,20 @@
           "album_name": "Starfield: Original Game Soundtrack",
           "spotify_url": "https://open.spotify.com/album/1XXC0nK0M6T3UCGCdm7UQG",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 2886,
+      "game_name": "Starflight",
+      "game_url": "https://ostdb.net/games/starflight",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27319d243e820bce4363b3b4356",
+      "albums": [
+        {
+          "album_name": "StarFlight (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/4ltTycRoPbIhv3Jq5b3kPg",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
@@ -26575,6 +26673,20 @@
           "spotify_url": "https://open.spotify.com/album/3dB7GJBPHfEPtaQ38yLBpX",
           "apple_music_url": "https://music.apple.com/us/album/thronebreaker-the-witcher-tales-original-game-soundtrack/1445188244",
           "album_link_url": "https://album.link/i/1445188244"
+        }
+      ]
+    },
+    {
+      "igdb_id": 9525,
+      "game_name": "Through the Woods",
+      "game_url": "https://ostdb.net/games/through-the-woods",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273da66047216d2eefa9f92f181",
+      "albums": [
+        {
+          "album_name": "Through the Woods (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/4gzmWmXnvsYuY6J1YxkfmD",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
