@@ -1003,6 +1003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candy Bandit | 154579 | [154579-candy-bandit.json](./154579-candy-bandit.json) |
 | Candy Bandit | 19697 | [19697-candy-bandit.json](./19697-candy-bandit.json) |
 | Candy Bandits | 392221 | [392221-candy-bandits.json](./392221-candy-bandits.json) |
+| Candy Bear 2 | 157957 | [157957-candy-bear-2.json](./157957-candy-bear-2.json) |
 | Candy Blitz Deluxe | 59469 | [59469-candy-blitz-deluxe.json](./59469-candy-blitz-deluxe.json) |
 | Candy Boo: Esports Edition | 175619 | [175619-candy-boo-esports-edition.json](./175619-candy-boo-esports-edition.json) |
 | Candy Box | 3269 | [3269-candy-box.json](./3269-candy-box.json) |
@@ -2924,6 +2925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Clicker | 190014 | [190014-cat-clicker.json](./190014-cat-clicker.json) |
 | Cat Clicker | 337840 | [337840-cat-clicker.json](./337840-cat-clicker.json) |
 | Cat Clinic Simulator: Vet Hospital | 364075 | [364075-cat-clinic-simulator-vet-hospital.json](./364075-cat-clinic-simulator-vet-hospital.json) |
+| Cat Colony Crisis | 157962 | [157962-cat-colony-crisis.json](./157962-cat-colony-crisis.json) |
 | Cat Cosmic Puzzle | 347317 | [347317-cat-cosmic-puzzle.json](./347317-cat-cosmic-puzzle.json) |
 | Cat Couple | 334804 | [334804-cat-couple.json](./334804-cat-couple.json) |
 | Cat Craft | 404190 | [404190-cat-craft.json](./404190-cat-craft.json) |
@@ -3511,6 +3513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cats vs. Ghosts | 281981 | [281981-cats-vs-ghosts.json](./281981-cats-vs-ghosts.json) |
 | Cats vs. Rats | 372029 | [372029-cats-vs-rats.json](./372029-cats-vs-rats.json) |
 | Cats War | 303723 | [303723-cats-war.json](./303723-cats-war.json) |
+| Cats Warriors | 157941 | [157941-cats-warriors.json](./157941-cats-warriors.json) |
 | Cats With Guns | 328962 | [328962-cats-with-guns.json](./328962-cats-with-guns.json) |
 | Cats With Standards | 374409 | [374409-cats-with-standards.json](./374409-cats-with-standards.json) |
 | Cats Yakuza | 211961 | [211961-cats-yakuza.json](./211961-cats-yakuza.json) |
@@ -9879,6 +9882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Comme Tu Veux | 327181 | [327181-comme-tu-veux.json](./327181-comme-tu-veux.json) |
 | Commie Block | 390246 | [390246-commie-block.json](./390246-commie-block.json) |
 | Commie Killer 2069 | 150745 | [150745-commie-killer-2069.json](./150745-commie-killer-2069.json) |
+| Commissar Catlov | 157958 | [157958-commissar-catlov.json](./157958-commissar-catlov.json) |
 | Commissar's Contrapasso | 126018 | [126018-commissars-contrapasso.json](./126018-commissars-contrapasso.json) |
 | Commissions Open | 413497 | [413497-commissions-open.json](./413497-commissions-open.json) |
 | Commit Arson Now | 191506 | [191506-commit-arson-now.json](./191506-commit-arson-now.json) |
@@ -10360,6 +10364,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conqueror's Blade: Colosseum | 217526 | [217526-conquerors-blade-colosseum.json](./217526-conquerors-blade-colosseum.json) |
 | Conqueror's Blade: Helheim | 217525 | [217525-conquerors-blade-helheim.json](./217525-conquerors-blade-helheim.json) |
 | Conqueror's Blade: Hounds of War | 168184 | [168184-conquerors-blade-hounds-of-war.json](./168184-conquerors-blade-hounds-of-war.json) |
+| Conqueror's Blade: Season II - Wrath of the Nomads | 157942 | [157942-conquerors-blade-season-ii-wrath-of-the-nomads.json](./157942-conquerors-blade-season-ii-wrath-of-the-nomads.json) |
+| Conqueror's Blade: Season III - Soldiers of Fortune | 157967 | [157967-conquerors-blade-season-iii-soldiers-of-fortune.json](./157967-conquerors-blade-season-iii-soldiers-of-fortune.json) |
 | Conqueror's Blade: Season IV - Blood of the Empire | 158061 | [158061-conquerors-blade-season-iv-blood-of-the-empire.json](./158061-conquerors-blade-season-iv-blood-of-the-empire.json) |
 | Conqueror's Blade: Season V - Legacy of Fire | 158080 | [158080-conquerors-blade-season-v-legacy-of-fire.json](./158080-conquerors-blade-season-v-legacy-of-fire.json) |
 | Conqueror's Blade: Season VI - Scourge of Winter | 158101 | [158101-conquerors-blade-season-vi-scourge-of-winter.json](./158101-conquerors-blade-season-vi-scourge-of-winter.json) |
