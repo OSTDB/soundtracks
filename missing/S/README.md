@@ -2868,6 +2868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scribble Wolf | 368812 | [368812-scribble-wolf.json](./368812-scribble-wolf.json) |
 | Scribble Worm | 259076 | [259076-scribble-worm.json](./259076-scribble-worm.json) |
 | Scribble+ | 113498 | [113498-scribble.json](./113498-scribble.json) |
+| Scribbled | 159014 | [159014-scribbled.json](./159014-scribbled.json) |
 | Scribbled Arena | 34630 | [34630-scribbled-arena.json](./34630-scribbled-arena.json) |
 | ScribbleDude | 127091 | [127091-scribbledude.json](./127091-scribbledude.json) |
 | Scribbleman Army | 217026 | [217026-scribbleman-army.json](./217026-scribbleman-army.json) |
@@ -20069,6 +20070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steel Commanders | 323191 | [323191-steel-commanders.json](./323191-steel-commanders.json) |
 | Steel Core | 414134 | [414134-steel-core.json](./414134-steel-core.json) |
 | Steel Covenant | 339665 | [339665-steel-covenant.json](./339665-steel-covenant.json) |
+| Steel Crew | 158974 | [158974-steel-crew.json](./158974-steel-crew.json) |
 | Steel Defence | 374431 | [374431-steel-defence.json](./374431-steel-defence.json) |
 | Steel Defier | 211680 | [211680-steel-defier.json](./211680-steel-defier.json) |
 | Steel Diver | 6891 | [6891-steel-diver.json](./6891-steel-diver.json) |
@@ -23280,6 +23282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunny Side Up | 410498 | [410498-sunny-side-up.json](./410498-sunny-side-up.json) |
 | Sunny Smiles | 99422 | [99422-sunny-smiles.json](./99422-sunny-smiles.json) |
 | Sunny-Place-3: Microgods | 241275 | [241275-sunny-place-3-microgods.json](./241275-sunny-place-3-microgods.json) |
+| SunnySide | 158994 | [158994-sunnyside.json](./158994-sunnyside.json) |
 | Sunnyside vs. the Eggies | 222797 | [222797-sunnyside-vs-the-eggies.json](./222797-sunnyside-vs-the-eggies.json) |
 | Sunpolis | 267330 | [267330-sunpolis.json](./267330-sunpolis.json) |
 | Sunray OS | 285582 | [285582-sunray-os.json](./285582-sunray-os.json) |
@@ -25666,6 +25669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Vadimka VII: The Nightmares of The Current Continue | 228302 | [228302-super-vadimka-vii-the-nightmares-of-the-current-continue.json](./228302-super-vadimka-vii-the-nightmares-of-the-current-continue.json) |
 | Super Vadimka X | 241221 | [241221-super-vadimka-x.json](./241221-super-vadimka-x.json) |
 | Super Valis IV | 38411 | [38411-super-valis-iv.json](./38411-super-valis-iv.json) |
+| Super Vampire Ninja Zero | 159013 | [159013-super-vampire-ninja-zero.json](./159013-super-vampire-ninja-zero.json) |
 | Super Vanilla World | 223029 | [223029-super-vanilla-world.json](./223029-super-vanilla-world.json) |
 | Super Versus | 114291 | [114291-super-versus.json](./114291-super-versus.json) |
 | Super VHS | 244683 | [244683-super-vhs.json](./244683-super-vhs.json) |
@@ -26574,6 +26578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sushido vs. Zombies | 76523 | [76523-sushido-vs-zombies.json](./76523-sushido-vs-zombies.json) |
 | Sushininjarobot TD | 345038 | [345038-sushininjarobot-td.json](./345038-sushininjarobot-td.json) |
 | SushiParty2 | 124238 | [124238-sushiparty2.json](./124238-sushiparty2.json) |
+| SushiVR | 158910 | [158910-sushivr.json](./158910-sushivr.json) |
 | Susie's Buttons and Baubles | 246536 | [246536-susies-buttons-and-baubles.json](./246536-susies-buttons-and-baubles.json) |
 | Suske en Wiske: De Texas Rakkers | 305432 | [305432-suske-en-wiske-de-texas-rakkers.json](./305432-suske-en-wiske-de-texas-rakkers.json) |
 | Suspect: The Run! | 235143 | [235143-suspect-the-run.json](./235143-suspect-the-run.json) |
