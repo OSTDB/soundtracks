@@ -2860,6 +2860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Go! Skiing | 123935 | [123935-lets-go-skiing.json](./123935-lets-go-skiing.json) |
 | Let's Golf! | 67693 | [67693-lets-golf.json](./67693-lets-golf.json) |
 | Let's Hitchhike! | 84451 | [84451-lets-hitchhike.json](./84451-lets-hitchhike.json) |
+| Let's Hobbee | 160194 | [160194-lets-hobbee.json](./160194-lets-hobbee.json) |
 | Let's Journey | 158102 | [158102-lets-journey.json](./158102-lets-journey.json) |
 | Let's Jump | 265759 | [265759-lets-jump.json](./265759-lets-jump.json) |
 | Let's Just Farm | 374846 | [374846-lets-just-farm.json](./374846-lets-just-farm.json) |
@@ -4664,6 +4665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Noah: Scion of Paradise | 206809 | [206809-little-noah-scion-of-paradise.json](./206809-little-noah-scion-of-paradise.json) |
 | Little Noah: Scion of Paradise - Avatar, Lilliput, and Accessory Pack | 223577 | [223577-little-noah-scion-of-paradise-avatar-lilliput-and-accessory-pack.json](./223577-little-noah-scion-of-paradise-avatar-lilliput-and-accessory-pack.json) |
 | Little Number Daycare: Learn, Count, Say, Play for Toddlers | 409538 | [409538-little-number-daycare-learn-count-say-play-for-toddlers.json](./409538-little-number-daycare-learn-count-say-play-for-toddlers.json) |
+| Little Octopus | 157956 | [157956-little-octopus.json](./157956-little-octopus.json) |
 | Little Odyssey | 253473 | [253473-little-odyssey.json](./253473-little-odyssey.json) |
 | Little Old One and the Witch | 376548 | [376548-little-old-one-and-the-witch.json](./376548-little-old-one-and-the-witch.json) |
 | Little One | 399702 | [399702-little-one.json](./399702-little-one.json) |
@@ -5956,6 +5958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lords of Strife | 99648 | [99648-lords-of-strife.json](./99648-lords-of-strife.json) |
 | Lords of the Black Sun | 10522 | [10522-lords-of-the-black-sun.json](./10522-lords-of-the-black-sun.json) |
 | Lords of the Chaos | 263478 | [263478-lords-of-the-chaos.json](./263478-lords-of-the-chaos.json) |
+| Lords of the Darkreign | 160116 | [160116-lords-of-the-darkreign.json](./160116-lords-of-the-darkreign.json) |
 | Lords of the Fallen | 194987 | [194987-lords-of-the-fallen.json](./194987-lords-of-the-fallen.json) |
 | Lords of the Fallen | 4847 | [4847-lords-of-the-fallen.json](./4847-lords-of-the-fallen.json) |
 | Lords of the Fallen II | 318503 | [318503-lords-of-the-fallen-ii.json](./318503-lords-of-the-fallen-ii.json) |
@@ -7103,6 +7106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucie's Potager | 199261 | [199261-lucies-potager.json](./199261-lucies-potager.json) |
 | Luciel Angel Mission | 314060 | [314060-luciel-angel-mission.json](./314060-luciel-angel-mission.json) |
 | Lucifer Ring | 43873 | [43873-lucifer-ring.json](./43873-lucifer-ring.json) |
+| Lucifer: Paradise Lost | 157981 | [157981-lucifer-paradise-lost.json](./157981-lucifer-paradise-lost.json) |
 | Lucifer's Ballroom Bonanza | 246531 | [246531-lucifers-ballroom-bonanza.json](./246531-lucifers-ballroom-bonanza.json) |
 | Lucifer's Bountiful Beads | 246532 | [246532-lucifers-bountiful-beads.json](./246532-lucifers-bountiful-beads.json) |
 | Lucifer's Kingdom | 72097 | [72097-lucifers-kingdom.json](./72097-lucifers-kingdom.json) |
