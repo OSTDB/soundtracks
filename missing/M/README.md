@@ -2099,6 +2099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Malzbie's Pinball Collection: Playground | 166021 | [166021-malzbies-pinball-collection-playground.json](./166021-malzbies-pinball-collection-playground.json) |
 | Malzbie's Pinball Collection: Sheriff Table | 166017 | [166017-malzbies-pinball-collection-sheriff-table.json](./166017-malzbies-pinball-collection-sheriff-table.json) |
 | Malzbie's Pinball Collection: The Garden Table | 166016 | [166016-malzbies-pinball-collection-the-garden-table.json](./166016-malzbies-pinball-collection-the-garden-table.json) |
+| Malzbie's Pinball Collection: Time Flight | 162736 | [162736-malzbies-pinball-collection-time-flight.json](./162736-malzbies-pinball-collection-time-flight.json) |
 | Mama | 403441 | [403441-mama.json](./403441-mama.json) |
 | Mama Cabra | 341167 | [341167-mama-cabra.json](./341167-mama-cabra.json) |
 | Mama Die and Retry | 232953 | [232953-mama-die-and-retry.json](./232953-mama-die-and-retry.json) |
@@ -3196,6 +3197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario's Holiday | 270378 | [270378-marios-holiday.json](./270378-marios-holiday.json) |
 | Mario's House of STHU | 323747 | [323747-marios-house-of-sthu.json](./323747-marios-house-of-sthu.json) |
 | Mario's Journey | 318862 | [318862-marios-journey.json](./318862-marios-journey.json) |
+| Mario's Keep | 162717 | [162717-marios-keep.json](./162717-marios-keep.json) |
 | Mario's Keep Co-op | 198473 | [198473-marios-keep-co-op.json](./198473-marios-keep-co-op.json) |
 | Mario's Keytastrophe: Rebirth Edition | 268445 | [268445-marios-keytastrophe-rebirth-edition.json](./268445-marios-keytastrophe-rebirth-edition.json) |
 | Mario's Little Odyssey | 135218 | [135218-marios-little-odyssey.json](./135218-marios-little-odyssey.json) |
@@ -9818,6 +9820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Leap | 209707 | [209707-mini-leap.json](./209707-mini-leap.json) |
 | Mini Lucy | 403705 | [403705-mini-lucy.json](./403705-mini-lucy.json) |
 | Mini Lunar Ball | 304236 | [304236-mini-lunar-ball.json](./304236-mini-lunar-ball.json) |
+| Mini Madness | 162733 | [162733-mini-madness.json](./162733-mini-madness.json) |
 | Mini Magic Match | 393810 | [393810-mini-magic-match.json](./393810-mini-magic-match.json) |
 | Mini Map | 178016 | [178016-mini-map.json](./178016-mini-map.json) |
 | Mini Mario & Friends: Amiibo Challenge | 18195 | [18195-mini-mario-and-friends-amiibo-challenge.json](./18195-mini-mario-and-friends-amiibo-challenge.json) |
