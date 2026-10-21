@@ -265,6 +265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dah-Varsity | 304205 | [304205-dah-varsity.json](./304205-dah-varsity.json) |
 | Dahalo | 127252 | [127252-dahalo.json](./127252-dahalo.json) |
 | Dahlia | 58839 | [58839-dahlia.json](./58839-dahlia.json) |
+| Dahlia no Wakudeki: Danchi-zuma Akiko ga Ochiru Jijou | 160198 | [160198-dahlia-no-wakudeki-danchi-zuma-akiko-ga-ochiru-jijou.json](./160198-dahlia-no-wakudeki-danchi-zuma-akiko-ga-ochiru-jijou.json) |
 | Dahlia: Lasciatemi morire | 275476 | [275476-dahlia-lasciatemi-morire.json](./275476-dahlia-lasciatemi-morire.json) |
 | Dahliphoria | 224768 | [224768-dahliphoria.json](./224768-dahliphoria.json) |
 | Dahna: Megami Tanjou | 46185 | [46185-dahna-megami-tanjou.json](./46185-dahna-megami-tanjou.json) |
@@ -614,6 +615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dance To Heck | 338863 | [338863-dance-to-heck.json](./338863-dance-to-heck.json) |
 | Dance to the Finish | 178595 | [178595-dance-to-the-finish.json](./178595-dance-to-the-finish.json) |
 | Dance Trips | 263697 | [263697-dance-trips.json](./263697-dance-trips.json) |
+| Dance Waifu | 160191 | [160191-dance-waifu.json](./160191-dance-waifu.json) |
 | Dance with Devils | 132088 | [132088-dance-with-devils.json](./132088-dance-with-devils.json) |
 | Dance with Devils My Carol | 132089 | [132089-dance-with-devils-my-carol.json](./132089-dance-with-devils-my-carol.json) |
 | Dance With Memes | 102952 | [102952-dance-with-memes.json](./102952-dance-with-memes.json) |
@@ -8548,6 +8550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Do You Even Brick?! | 401548 | [401548-do-you-even-brick.json](./401548-do-you-even-brick.json) |
 | Do You Even Forklift? | 347479 | [347479-do-you-even-forklift.json](./347479-do-you-even-forklift.json) |
 | Do You Have a Moment to Talk About Our Lord and Savior? | 336668 | [336668-do-you-have-a-moment-to-talk-about-our-lord-and-savior.json](./336668-do-you-have-a-moment-to-talk-about-our-lord-and-savior.json) |
+| Do you have Akira points? | 159590 | [159590-do-you-have-akira-points.json](./159590-do-you-have-akira-points.json) |
 | Do you know de way | 89966 | [89966-do-you-know-de-way.json](./89966-do-you-know-de-way.json) |
 | Do You Know Kimchi? | 311852 | [311852-do-you-know-kimchi.json](./311852-do-you-know-kimchi.json) |
 | Do You Like Horny Bunnies? Complete Collection | 201172 | [201172-do-you-like-horny-bunnies-complete-collection.json](./201172-do-you-like-horny-bunnies-complete-collection.json) |
@@ -10446,6 +10449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Double Hits | 130302 | [130302-double-hits.json](./130302-double-hits.json) |
 | Double Hooked | 317431 | [317431-double-hooked.json](./317431-double-hooked.json) |
 | Double Impact | 135886 | [135886-double-impact.json](./135886-double-impact.json) |
+| Double Jump | 160115 | [160115-double-jump.json](./160115-double-jump.json) |
 | Double Jump 2 | 151714 | [151714-double-jump-2.json](./151714-double-jump-2.json) |
 | Double Jump NFT | 200450 | [200450-double-jump-nft.json](./200450-double-jump-nft.json) |
 | Double K Games Store | 411667 | [411667-double-k-games-store.json](./411667-double-k-games-store.json) |
