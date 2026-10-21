@@ -1923,6 +1923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raze's Hell | 5999 | [5999-razes-hell.json](./5999-razes-hell.json) |
 | Razed are the Powerful | 390709 | [390709-razed-are-the-powerful.json](./390709-razed-are-the-powerful.json) |
 | Razed Earth | 192423 | [192423-razed-earth.json](./192423-razed-earth.json) |
+| Razenroth 2 | 163185 | [163185-razenroth-2.json](./163185-razenroth-2.json) |
 | RazePact | 356644 | [356644-razepact.json](./356644-razepact.json) |
 | Razgovor Online | 253878 | [253878-razgovor-online.json](./253878-razgovor-online.json) |
 | Raziel | 174742 | [174742-raziel.json](./174742-raziel.json) |
@@ -3400,6 +3401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reflections of Life: Hearts Taken - Collector's Edition | 362830 | [362830-reflections-of-life-hearts-taken-collectors-edition.json](./362830-reflections-of-life-hearts-taken-collectors-edition.json) |
 | Reflections of Life: In Screams and Sorrow - Collector's Edition | 358853 | [358853-reflections-of-life-in-screams-and-sorrow-collectors-edition.json](./358853-reflections-of-life-in-screams-and-sorrow-collectors-edition.json) |
 | Reflections of Life: Meridiem | 187946 | [187946-reflections-of-life-meridiem.json](./187946-reflections-of-life-meridiem.json) |
+| Reflections of Life: Meridiem - Collector's Edition | 163240 | [163240-reflections-of-life-meridiem-collectors-edition.json](./163240-reflections-of-life-meridiem-collectors-edition.json) |
 | Reflections of Life: Sleep's Embrace - Collector's Edition | 362842 | [362842-reflections-of-life-sleeps-embrace-collectors-edition.json](./362842-reflections-of-life-sleeps-embrace-collectors-edition.json) |
 | Reflections of Life: Spindle of Fate | 244479 | [244479-reflections-of-life-spindle-of-fate.json](./244479-reflections-of-life-spindle-of-fate.json) |
 | Reflections of Life: The Shattered Timeline - Collector's Edition | 307752 | [307752-reflections-of-life-the-shattered-timeline-collectors-edition.json](./307752-reflections-of-life-the-shattered-timeline-collectors-edition.json) |
@@ -4188,6 +4190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rescue: Heroes in Action | 76718 | [76718-rescue-heroes-in-action.json](./76718-rescue-heroes-in-action.json) |
 | Rescue! Dropkick on my Devil | 283239 | [283239-rescue-dropkick-on-my-devil.json](./283239-rescue-dropkick-on-my-devil.json) |
 | RescueBlade | 388121 | [388121-rescueblade.json](./388121-rescueblade.json) |
+| Rescuer | 163181 | [163181-rescuer.json](./163181-rescuer.json) |
 | Rescues | 202027 | [202027-rescues.json](./202027-rescues.json) |
 | Research and Destroy | 154274 | [154274-research-and-destroy.json](./154274-research-and-destroy.json) |
 | Research Station | 273140 | [273140-research-station.json](./273140-research-station.json) |
@@ -8051,6 +8054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rollin' Rascal | 169232 | [169232-rollin-rascal.json](./169232-rollin-rascal.json) |
 | Rollin' Rascals | 68935 | [68935-rollin-rascals.json](./68935-rollin-rascals.json) |
 | Rolling | 6017 | [6017-rolling.json](./6017-rolling.json) |
+| Rolling Adventure | 163152 | [163152-rolling-adventure.json](./163152-rolling-adventure.json) |
 | Rolling Ball | 345116 | [345116-rolling-ball.json](./345116-rolling-ball.json) |
 | Rolling Ball on Sky | 86734 | [86734-rolling-ball-on-sky.json](./86734-rolling-ball-on-sky.json) |
 | Rolling Balls | 193428 | [193428-rolling-balls.json](./193428-rolling-balls.json) |
@@ -9776,6 +9780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rush Rally | 242212 | [242212-rush-rally.json](./242212-rush-rally.json) |
 | Rush Rally 2 | 38717 | [38717-rush-rally-2.json](./38717-rush-rally-2.json) |
 | Rush Rally 3 | 110866 | [110866-rush-rally-3.json](./110866-rush-rally-3.json) |
+| Rush Rally Origins | 163170 | [163170-rush-rally-origins.json](./163170-rush-rally-origins.json) |
 | Rush Red & Blue | 220491 | [220491-rush-red-and-blue.json](./220491-rush-red-and-blue.json) |
 | Rush Roulette | 373674 | [373674-rush-roulette.json](./373674-rush-roulette.json) |
 | Rush Royale | 141464 | [141464-rush-royale.json](./141464-rush-royale.json) |
