@@ -4825,6 +4825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | First Date: Late to Date | 210233 | [210233-first-date-late-to-date.json](./210233-first-date-late-to-date.json) |
 | First date/Can't relate | 179616 | [179616-first-date-cant-relate.json](./179616-first-date-cant-relate.json) |
 | First Day: Home Defender | 129025 | [129025-first-day-home-defender.json](./129025-first-day-home-defender.json) |
+| First Days of Atlantis | 158387 | [158387-first-days-of-atlantis.json](./158387-first-days-of-atlantis.json) |
 | First Dwarf | 215296 | [215296-first-dwarf.json](./215296-first-dwarf.json) |
 | First Expedition | 2892 | [2892-first-expedition.json](./2892-first-expedition.json) |
 | First Feudal | 75813 | [75813-first-feudal.json](./75813-first-feudal.json) |
