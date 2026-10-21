@@ -2222,7 +2222,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unslaad | 373834 | [373834-unslaad.json](./373834-unslaad.json) |
 | Unsleepable | 197211 | [197211-unsleepable.json](./197211-unsleepable.json) |
 | Unsolicited | 185647 | [185647-unsolicited.json](./185647-unsolicited.json) |
-| Unsolved Case | 216491 | [216491-unsolved-case.json](./216491-unsolved-case.json) |
 | Unsolved Case: Above the Law - Collector's Edition | 267264 | [267264-unsolved-case-above-the-law-collectors-edition.json](./267264-unsolved-case-above-the-law-collectors-edition.json) |
 | Unsolved Case: Ash and Secrets | 340997 | [340997-unsolved-case-ash-and-secrets.json](./340997-unsolved-case-ash-and-secrets.json) |
 | Unsolved Case: Ash and Secrets - Collector's Edition | 338584 | [338584-unsolved-case-ash-and-secrets-collectors-edition.json](./338584-unsolved-case-ash-and-secrets-collectors-edition.json) |
