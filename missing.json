@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-21T21:18:02.903Z",
-  "total_missing": 243635,
+  "generated_at": "2026-10-21T21:33:20.183Z",
+  "total_missing": 243685,
   "games": [
     {
       "igdb_id": 191680,
@@ -432735,6 +432735,11 @@
       "igdb_id": 254562,
       "game_name": "Guilty Gear: Strive - Additional Battle Stage: White House Reborn",
       "file": "missing/G/254562-guilty-gear-strive-additional-battle-stage-white-house-reborn.json"
+    },
+    {
+      "igdb_id": 160697,
+      "game_name": "Guilty Gear: Strive - Additional Character 1: Goldlewis Dickinson",
+      "file": "missing/G/160697-guilty-gear-strive-additional-character-1-goldlewis-dickinson.json"
     },
     {
       "igdb_id": 263028,
@@ -1082967,9 +1082972,19 @@
       "file": "missing/T/160368-tiger-tank-59-i-battleship-mp003.json"
     },
     {
+      "igdb_id": 160627,
+      "game_name": "Tiger Tank 59 I: Battleship MP004",
+      "file": "missing/T/160627-tiger-tank-59-i-battleship-mp004.json"
+    },
+    {
       "igdb_id": 160610,
       "game_name": "Tiger Tank 59 I: Battleship MP005",
       "file": "missing/T/160610-tiger-tank-59-i-battleship-mp005.json"
+    },
+    {
+      "igdb_id": 160628,
+      "game_name": "Tiger Tank 59 I: Battleship MP006",
+      "file": "missing/T/160628-tiger-tank-59-i-battleship-mp006.json"
     },
     {
       "igdb_id": 160616,
@@ -1083007,6 +1083022,11 @@
       "file": "missing/T/160600-tiger-tank-59-i-battleship-mp013.json"
     },
     {
+      "igdb_id": 160568,
+      "game_name": "Tiger Tank 59 I: Battleship MP014",
+      "file": "missing/T/160568-tiger-tank-59-i-battleship-mp014.json"
+    },
+    {
       "igdb_id": 160607,
       "game_name": "Tiger Tank 59 I: Battleship MP015",
       "file": "missing/T/160607-tiger-tank-59-i-battleship-mp015.json"
@@ -1083015,6 +1083035,11 @@
       "igdb_id": 160637,
       "game_name": "Tiger Tank 59 I: Battleship MP016",
       "file": "missing/T/160637-tiger-tank-59-i-battleship-mp016.json"
+    },
+    {
+      "igdb_id": 160565,
+      "game_name": "Tiger Tank 59 I: Battleship MP017",
+      "file": "missing/T/160565-tiger-tank-59-i-battleship-mp017.json"
     },
     {
       "igdb_id": 160614,
@@ -1083057,9 +1083082,19 @@
       "file": "missing/T/160346-tiger-tank-59-i-battleship-mp030.json"
     },
     {
+      "igdb_id": 160566,
+      "game_name": "Tiger Tank 59 I: Battleship MP031",
+      "file": "missing/T/160566-tiger-tank-59-i-battleship-mp031.json"
+    },
+    {
       "igdb_id": 160588,
       "game_name": "Tiger Tank 59 I: Battleship MP032",
       "file": "missing/T/160588-tiger-tank-59-i-battleship-mp032.json"
+    },
+    {
+      "igdb_id": 160564,
+      "game_name": "Tiger Tank 59 I: Battleship MP034",
+      "file": "missing/T/160564-tiger-tank-59-i-battleship-mp034.json"
     },
     {
       "igdb_id": 160597,
@@ -1083082,6 +1083117,21 @@
       "file": "missing/T/160587-tiger-tank-59-i-battleship-mp038.json"
     },
     {
+      "igdb_id": 160567,
+      "game_name": "Tiger Tank 59 I: Battleship MP039",
+      "file": "missing/T/160567-tiger-tank-59-i-battleship-mp039.json"
+    },
+    {
+      "igdb_id": 160626,
+      "game_name": "Tiger Tank 59 I: Battleship MP040",
+      "file": "missing/T/160626-tiger-tank-59-i-battleship-mp040.json"
+    },
+    {
+      "igdb_id": 160621,
+      "game_name": "Tiger Tank 59 I: Battleship MP041",
+      "file": "missing/T/160621-tiger-tank-59-i-battleship-mp041.json"
+    },
+    {
       "igdb_id": 160573,
       "game_name": "Tiger Tank 59 I: Battleship MP042",
       "file": "missing/T/160573-tiger-tank-59-i-battleship-mp042.json"
@@ -1083090,6 +1083140,11 @@
       "igdb_id": 160606,
       "game_name": "Tiger Tank 59 I: Battleship MP043",
       "file": "missing/T/160606-tiger-tank-59-i-battleship-mp043.json"
+    },
+    {
+      "igdb_id": 160636,
+      "game_name": "Tiger Tank 59 I: Battleship MP046",
+      "file": "missing/T/160636-tiger-tank-59-i-battleship-mp046.json"
     },
     {
       "igdb_id": 160590,
@@ -1083110,6 +1083165,16 @@
       "igdb_id": 161129,
       "game_name": "Tiger Tank 59 I: Battleship MP050",
       "file": "missing/T/161129-tiger-tank-59-i-battleship-mp050.json"
+    },
+    {
+      "igdb_id": 160629,
+      "game_name": "Tiger Tank 59 I: Battleship MP051",
+      "file": "missing/T/160629-tiger-tank-59-i-battleship-mp051.json"
+    },
+    {
+      "igdb_id": 160624,
+      "game_name": "Tiger Tank 59 I: Battleship MP052",
+      "file": "missing/T/160624-tiger-tank-59-i-battleship-mp052.json"
     },
     {
       "igdb_id": 160585,
@@ -1083142,6 +1083207,11 @@
       "file": "missing/T/160323-tiger-tank-59-i-battleship-mp058.json"
     },
     {
+      "igdb_id": 160635,
+      "game_name": "Tiger Tank 59 I: Battleship MP059",
+      "file": "missing/T/160635-tiger-tank-59-i-battleship-mp059.json"
+    },
+    {
       "igdb_id": 160582,
       "game_name": "Tiger Tank 59 I: Battleship MP060",
       "file": "missing/T/160582-tiger-tank-59-i-battleship-mp060.json"
@@ -1083155,6 +1083225,36 @@
       "igdb_id": 160602,
       "game_name": "Tiger Tank 59 I: Battleship MP062",
       "file": "missing/T/160602-tiger-tank-59-i-battleship-mp062.json"
+    },
+    {
+      "igdb_id": 160632,
+      "game_name": "Tiger Tank 59 I: Battleship MP063",
+      "file": "missing/T/160632-tiger-tank-59-i-battleship-mp063.json"
+    },
+    {
+      "igdb_id": 160619,
+      "game_name": "Tiger Tank 59 I: Battleship MP064",
+      "file": "missing/T/160619-tiger-tank-59-i-battleship-mp064.json"
+    },
+    {
+      "igdb_id": 160563,
+      "game_name": "Tiger Tank 59 I: Battleship MP065",
+      "file": "missing/T/160563-tiger-tank-59-i-battleship-mp065.json"
+    },
+    {
+      "igdb_id": 160631,
+      "game_name": "Tiger Tank 59 I: Battleship MP067",
+      "file": "missing/T/160631-tiger-tank-59-i-battleship-mp067.json"
+    },
+    {
+      "igdb_id": 160622,
+      "game_name": "Tiger Tank 59 I: Battleship MP068",
+      "file": "missing/T/160622-tiger-tank-59-i-battleship-mp068.json"
+    },
+    {
+      "igdb_id": 160634,
+      "game_name": "Tiger Tank 59 I: Battleship MP069",
+      "file": "missing/T/160634-tiger-tank-59-i-battleship-mp069.json"
     },
     {
       "igdb_id": 160609,
@@ -1083172,9 +1083272,19 @@
       "file": "missing/T/160576-tiger-tank-59-i-battleship-mp072.json"
     },
     {
+      "igdb_id": 160633,
+      "game_name": "Tiger Tank 59 I: Battleship MP075",
+      "file": "missing/T/160633-tiger-tank-59-i-battleship-mp075.json"
+    },
+    {
       "igdb_id": 160589,
       "game_name": "Tiger Tank 59 I: Battleship MP078",
       "file": "missing/T/160589-tiger-tank-59-i-battleship-mp078.json"
+    },
+    {
+      "igdb_id": 160625,
+      "game_name": "Tiger Tank 59 I: Battleship MP079",
+      "file": "missing/T/160625-tiger-tank-59-i-battleship-mp079.json"
     },
     {
       "igdb_id": 160579,
@@ -1083197,6 +1083307,16 @@
       "file": "missing/T/160604-tiger-tank-59-i-battleship-mp084.json"
     },
     {
+      "igdb_id": 160630,
+      "game_name": "Tiger Tank 59 I: Battleship MP087",
+      "file": "missing/T/160630-tiger-tank-59-i-battleship-mp087.json"
+    },
+    {
+      "igdb_id": 160620,
+      "game_name": "Tiger Tank 59 I: Battleship MP088",
+      "file": "missing/T/160620-tiger-tank-59-i-battleship-mp088.json"
+    },
+    {
       "igdb_id": 160591,
       "game_name": "Tiger Tank 59 I: Battleship MP089",
       "file": "missing/T/160591-tiger-tank-59-i-battleship-mp089.json"
@@ -1083205,6 +1083325,11 @@
       "igdb_id": 160571,
       "game_name": "Tiger Tank 59 I: Battleship MP091",
       "file": "missing/T/160571-tiger-tank-59-i-battleship-mp091.json"
+    },
+    {
+      "igdb_id": 160623,
+      "game_name": "Tiger Tank 59 I: Battleship MP092",
+      "file": "missing/T/160623-tiger-tank-59-i-battleship-mp092.json"
     },
     {
       "igdb_id": 160581,
@@ -1084197,9 +1084322,29 @@
       "file": "missing/T/160670-tiger-tank-59-i-rainstorm-mp001.json"
     },
     {
+      "igdb_id": 160702,
+      "game_name": "Tiger Tank 59 I: Rainstorm MP002",
+      "file": "missing/T/160702-tiger-tank-59-i-rainstorm-mp002.json"
+    },
+    {
       "igdb_id": 160679,
       "game_name": "Tiger Tank 59 I: Rainstorm MP003",
       "file": "missing/T/160679-tiger-tank-59-i-rainstorm-mp003.json"
+    },
+    {
+      "igdb_id": 160704,
+      "game_name": "Tiger Tank 59 I: Rainstorm MP004",
+      "file": "missing/T/160704-tiger-tank-59-i-rainstorm-mp004.json"
+    },
+    {
+      "igdb_id": 160689,
+      "game_name": "Tiger Tank 59 I: Rainstorm MP005",
+      "file": "missing/T/160689-tiger-tank-59-i-rainstorm-mp005.json"
+    },
+    {
+      "igdb_id": 160703,
+      "game_name": "Tiger Tank 59 I: Rainstorm MP006",
+      "file": "missing/T/160703-tiger-tank-59-i-rainstorm-mp006.json"
     },
     {
       "igdb_id": 160343,
@@ -1084232,6 +1084377,11 @@
       "file": "missing/T/160650-tiger-tank-59-i-rainstorm-mp012.json"
     },
     {
+      "igdb_id": 160694,
+      "game_name": "Tiger Tank 59 I: Rainstorm MP013",
+      "file": "missing/T/160694-tiger-tank-59-i-rainstorm-mp013.json"
+    },
+    {
       "igdb_id": 160352,
       "game_name": "Tiger Tank 59 I: Rainstorm MP014",
       "file": "missing/T/160352-tiger-tank-59-i-rainstorm-mp014.json"
@@ -1084262,6 +1084412,16 @@
       "file": "missing/T/160649-tiger-tank-59-i-rainstorm-mp020.json"
     },
     {
+      "igdb_id": 160706,
+      "game_name": "Tiger Tank 59 I: Rainstorm MP021",
+      "file": "missing/T/160706-tiger-tank-59-i-rainstorm-mp021.json"
+    },
+    {
+      "igdb_id": 160699,
+      "game_name": "Tiger Tank 59 I: Rainstorm MP022",
+      "file": "missing/T/160699-tiger-tank-59-i-rainstorm-mp022.json"
+    },
+    {
       "igdb_id": 160644,
       "game_name": "Tiger Tank 59 I: Rainstorm MP023",
       "file": "missing/T/160644-tiger-tank-59-i-rainstorm-mp023.json"
@@ -1084270,6 +1084430,11 @@
       "igdb_id": 160660,
       "game_name": "Tiger Tank 59 I: Rainstorm MP024",
       "file": "missing/T/160660-tiger-tank-59-i-rainstorm-mp024.json"
+    },
+    {
+      "igdb_id": 160700,
+      "game_name": "Tiger Tank 59 I: Rainstorm MP025",
+      "file": "missing/T/160700-tiger-tank-59-i-rainstorm-mp025.json"
     },
     {
       "igdb_id": 160656,
@@ -1084285,6 +1084450,11 @@
       "igdb_id": 160668,
       "game_name": "Tiger Tank 59 I: Rainstorm MP029",
       "file": "missing/T/160668-tiger-tank-59-i-rainstorm-mp029.json"
+    },
+    {
+      "igdb_id": 160687,
+      "game_name": "Tiger Tank 59 I: Rainstorm MP030",
+      "file": "missing/T/160687-tiger-tank-59-i-rainstorm-mp030.json"
     },
     {
       "igdb_id": 160658,
@@ -1084322,9 +1084492,24 @@
       "file": "missing/T/160316-tiger-tank-59-i-rainstorm-mp039.json"
     },
     {
+      "igdb_id": 160710,
+      "game_name": "Tiger Tank 59 I: Rainstorm MP040",
+      "file": "missing/T/160710-tiger-tank-59-i-rainstorm-mp040.json"
+    },
+    {
       "igdb_id": 160677,
       "game_name": "Tiger Tank 59 I: Rainstorm MP042",
       "file": "missing/T/160677-tiger-tank-59-i-rainstorm-mp042.json"
+    },
+    {
+      "igdb_id": 160709,
+      "game_name": "Tiger Tank 59 I: Rainstorm MP043",
+      "file": "missing/T/160709-tiger-tank-59-i-rainstorm-mp043.json"
+    },
+    {
+      "igdb_id": 160696,
+      "game_name": "Tiger Tank 59 I: Rainstorm MP044",
+      "file": "missing/T/160696-tiger-tank-59-i-rainstorm-mp044.json"
     },
     {
       "igdb_id": 160681,
@@ -1084335,6 +1084520,11 @@
       "igdb_id": 160347,
       "game_name": "Tiger Tank 59 I: Rainstorm MP047",
       "file": "missing/T/160347-tiger-tank-59-i-rainstorm-mp047.json"
+    },
+    {
+      "igdb_id": 160695,
+      "game_name": "Tiger Tank 59 I: Rainstorm MP049",
+      "file": "missing/T/160695-tiger-tank-59-i-rainstorm-mp049.json"
     },
     {
       "igdb_id": 160685,
@@ -1084382,9 +1084572,19 @@
       "file": "missing/T/160646-tiger-tank-59-i-rainstorm-mp059.json"
     },
     {
+      "igdb_id": 160698,
+      "game_name": "Tiger Tank 59 I: Rainstorm MP061",
+      "file": "missing/T/160698-tiger-tank-59-i-rainstorm-mp061.json"
+    },
+    {
       "igdb_id": 160654,
       "game_name": "Tiger Tank 59 I: Rainstorm MP062",
       "file": "missing/T/160654-tiger-tank-59-i-rainstorm-mp062.json"
+    },
+    {
+      "igdb_id": 160690,
+      "game_name": "Tiger Tank 59 I: Rainstorm MP063",
+      "file": "missing/T/160690-tiger-tank-59-i-rainstorm-mp063.json"
     },
     {
       "igdb_id": 160655,
@@ -1084397,9 +1084597,19 @@
       "file": "missing/T/160645-tiger-tank-59-i-rainstorm-mp067.json"
     },
     {
+      "igdb_id": 160708,
+      "game_name": "Tiger Tank 59 I: Rainstorm MP069",
+      "file": "missing/T/160708-tiger-tank-59-i-rainstorm-mp069.json"
+    },
+    {
       "igdb_id": 160686,
       "game_name": "Tiger Tank 59 I: Rainstorm MP070",
       "file": "missing/T/160686-tiger-tank-59-i-rainstorm-mp070.json"
+    },
+    {
+      "igdb_id": 160688,
+      "game_name": "Tiger Tank 59 I: Rainstorm MP071",
+      "file": "missing/T/160688-tiger-tank-59-i-rainstorm-mp071.json"
     },
     {
       "igdb_id": 160662,
@@ -1084432,9 +1084642,19 @@
       "file": "missing/T/160653-tiger-tank-59-i-rainstorm-mp077.json"
     },
     {
+      "igdb_id": 160693,
+      "game_name": "Tiger Tank 59 I: Rainstorm MP078",
+      "file": "missing/T/160693-tiger-tank-59-i-rainstorm-mp078.json"
+    },
+    {
       "igdb_id": 160344,
       "game_name": "Tiger Tank 59 I: Rainstorm MP079",
       "file": "missing/T/160344-tiger-tank-59-i-rainstorm-mp079.json"
+    },
+    {
+      "igdb_id": 160705,
+      "game_name": "Tiger Tank 59 I: Rainstorm MP080",
+      "file": "missing/T/160705-tiger-tank-59-i-rainstorm-mp080.json"
     },
     {
       "igdb_id": 160659,
@@ -1084450,6 +1084670,11 @@
       "igdb_id": 160666,
       "game_name": "Tiger Tank 59 I: Rainstorm MP083",
       "file": "missing/T/160666-tiger-tank-59-i-rainstorm-mp083.json"
+    },
+    {
+      "igdb_id": 160691,
+      "game_name": "Tiger Tank 59 I: Rainstorm MP084",
+      "file": "missing/T/160691-tiger-tank-59-i-rainstorm-mp084.json"
     },
     {
       "igdb_id": 160642,
@@ -1084482,6 +1084707,11 @@
       "file": "missing/T/160664-tiger-tank-59-i-rainstorm-mp091.json"
     },
     {
+      "igdb_id": 160692,
+      "game_name": "Tiger Tank 59 I: Rainstorm MP092",
+      "file": "missing/T/160692-tiger-tank-59-i-rainstorm-mp092.json"
+    },
+    {
       "igdb_id": 160312,
       "game_name": "Tiger Tank 59 I: Rainstorm MP093",
       "file": "missing/T/160312-tiger-tank-59-i-rainstorm-mp093.json"
@@ -1084490,6 +1084720,11 @@
       "igdb_id": 160647,
       "game_name": "Tiger Tank 59 I: Rainstorm MP094",
       "file": "missing/T/160647-tiger-tank-59-i-rainstorm-mp094.json"
+    },
+    {
+      "igdb_id": 160701,
+      "game_name": "Tiger Tank 59 I: Rainstorm MP096",
+      "file": "missing/T/160701-tiger-tank-59-i-rainstorm-mp096.json"
     },
     {
       "igdb_id": 160675,
@@ -1084505,6 +1084740,11 @@
       "igdb_id": 160325,
       "game_name": "Tiger Tank 59 I: Rainstorm MP099",
       "file": "missing/T/160325-tiger-tank-59-i-rainstorm-mp099.json"
+    },
+    {
+      "igdb_id": 160707,
+      "game_name": "Tiger Tank 59 I: Rainstorm MP100",
+      "file": "missing/T/160707-tiger-tank-59-i-rainstorm-mp100.json"
     },
     {
       "igdb_id": 160713,
@@ -1084747,6 +1084987,11 @@
       "file": "missing/T/160401-tiger-tank-59-i-super-tank-mp062.json"
     },
     {
+      "igdb_id": 160712,
+      "game_name": "Tiger Tank 59 I: Super Tank MP063",
+      "file": "missing/T/160712-tiger-tank-59-i-super-tank-mp063.json"
+    },
+    {
       "igdb_id": 160771,
       "game_name": "Tiger Tank 59 I: Super Tank MP065",
       "file": "missing/T/160771-tiger-tank-59-i-super-tank-mp065.json"
@@ -1084755,6 +1085000,11 @@
       "igdb_id": 160761,
       "game_name": "Tiger Tank 59 I: Super Tank MP066",
       "file": "missing/T/160761-tiger-tank-59-i-super-tank-mp066.json"
+    },
+    {
+      "igdb_id": 160711,
+      "game_name": "Tiger Tank 59 I: Super Tank MP067",
+      "file": "missing/T/160711-tiger-tank-59-i-super-tank-mp067.json"
     },
     {
       "igdb_id": 160726,
