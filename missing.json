@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-21T20:26:38.669Z",
-  "total_missing": 243520,
+  "generated_at": "2026-10-21T20:33:53.417Z",
+  "total_missing": 243570,
   "games": [
     {
       "igdb_id": 191680,
@@ -52332,6 +52332,11 @@
       "file": "missing/A/293364-anime-japanese-goblins.json"
     },
     {
+      "igdb_id": 162218,
+      "game_name": "Anime: Jigsaw Puzzles",
+      "file": "missing/A/162218-anime-jigsaw-puzzles.json"
+    },
+    {
       "igdb_id": 148702,
       "game_name": "Anime: World War II",
       "file": "missing/A/148702-anime-world-war-ii.json"
@@ -70372,6 +70377,11 @@
       "file": "missing/A/225753-asmodeuss-hell-devil-in-the-sunshine-state.json"
     },
     {
+      "igdb_id": 162215,
+      "game_name": "ASMR Journey: Animated Jigsaw Puzzle",
+      "file": "missing/A/162215-asmr-journey-animated-jigsaw-puzzle.json"
+    },
+    {
       "igdb_id": 148417,
       "game_name": "ASMR Lightness: Light painting",
       "file": "missing/A/148417-asmr-lightness-light-painting.json"
@@ -76140,6 +76150,11 @@
       "igdb_id": 285988,
       "game_name": "Athena no Kateiban: Family Games",
       "file": "missing/A/285988-athena-no-kateiban-family-games.json"
+    },
+    {
+      "igdb_id": 162206,
+      "game_name": "Athena, the rabbit: Jigsaw Puzzle",
+      "file": "missing/A/162206-athena-the-rabbit-jigsaw-puzzle.json"
     },
     {
       "igdb_id": 43832,
@@ -181462,9 +181477,29 @@
       "file": "missing/C/323505-childrens-garden.json"
     },
     {
+      "igdb_id": 162213,
+      "game_name": "Children's Jigsaw Puzzles",
+      "file": "missing/C/162213-childrens-jigsaw-puzzles.json"
+    },
+    {
+      "igdb_id": 162221,
+      "game_name": "Children's Jigsaw Puzzles: A Warm Story",
+      "file": "missing/C/162221-childrens-jigsaw-puzzles-a-warm-story.json"
+    },
+    {
       "igdb_id": 225859,
       "game_name": "Children's Jigsaw Puzzles: Beautifully Illustrated - Expansion Pack",
       "file": "missing/C/225859-childrens-jigsaw-puzzles-beautifully-illustrated-expansion-pack.json"
+    },
+    {
+      "igdb_id": 162220,
+      "game_name": "Children's Jigsaw Puzzles: Fairy Tale",
+      "file": "missing/C/162220-childrens-jigsaw-puzzles-fairy-tale.json"
+    },
+    {
+      "igdb_id": 162222,
+      "game_name": "Children's Jigsaw Puzzles: Magic Kindergarten",
+      "file": "missing/C/162222-childrens-jigsaw-puzzles-magic-kindergarten.json"
     },
     {
       "igdb_id": 45894,
@@ -190957,6 +190992,11 @@
       "file": "missing/C/162203-classic-jigsaw-puzzles-forest-jigsaw-puzzles.json"
     },
     {
+      "igdb_id": 162226,
+      "game_name": "Classic Jigsaw Puzzles: Galaxy",
+      "file": "missing/C/162226-classic-jigsaw-puzzles-galaxy.json"
+    },
+    {
       "igdb_id": 162227,
       "game_name": "Classic Jigsaw Puzzles: Gardens",
       "file": "missing/C/162227-classic-jigsaw-puzzles-gardens.json"
@@ -190967,9 +191007,24 @@
       "file": "missing/C/162200-classic-jigsaw-puzzles-house.json"
     },
     {
+      "igdb_id": 162223,
+      "game_name": "Classic Jigsaw Puzzles: Pastry Shop",
+      "file": "missing/C/162223-classic-jigsaw-puzzles-pastry-shop.json"
+    },
+    {
       "igdb_id": 162201,
       "game_name": "Classic Jigsaw Puzzles: Puppy",
       "file": "missing/C/162201-classic-jigsaw-puzzles-puppy.json"
+    },
+    {
+      "igdb_id": 162225,
+      "game_name": "Classic Jigsaw Puzzles: Under the Sea",
+      "file": "missing/C/162225-classic-jigsaw-puzzles-under-the-sea.json"
+    },
+    {
+      "igdb_id": 162224,
+      "game_name": "Classic Jigsaw Puzzles: Waterfalls",
+      "file": "missing/C/162224-classic-jigsaw-puzzles-waterfalls.json"
     },
     {
       "igdb_id": 219109,
@@ -325462,6 +325517,11 @@
       "file": "missing/E/150652-erotic-jigsaw-puzzle-2.json"
     },
     {
+      "igdb_id": 162212,
+      "game_name": "Erotic Jigsaw Puzzle 5",
+      "file": "missing/E/162212-erotic-jigsaw-puzzle-5.json"
+    },
+    {
       "igdb_id": 297092,
       "game_name": "Erotic Photoshoot",
       "file": "missing/E/297092-erotic-photoshoot.json"
@@ -413307,6 +413367,11 @@
       "file": "missing/G/69485-gnome-valley.json"
     },
     {
+      "igdb_id": 162211,
+      "game_name": "Gnome: Jigsaw Puzzles",
+      "file": "missing/G/162211-gnome-jigsaw-puzzles.json"
+    },
+    {
       "igdb_id": 319006,
       "game_name": "Gnomecart Havoc",
       "file": "missing/G/319006-gnomecart-havoc.json"
@@ -464612,9 +464677,19 @@
       "file": "missing/H/209322-hidden-shapes-animals-vr.json"
     },
     {
+      "igdb_id": 162214,
+      "game_name": "Hidden Shapes: Animals",
+      "file": "missing/H/162214-hidden-shapes-animals.json"
+    },
+    {
       "igdb_id": 194437,
       "game_name": "Hidden Shapes: Animals + Lovely Cats",
       "file": "missing/H/194437-hidden-shapes-animals-lovely-cats.json"
+    },
+    {
+      "igdb_id": 162217,
+      "game_name": "Hidden Shapes: Black Skull",
+      "file": "missing/H/162217-hidden-shapes-black-skull.json"
     },
     {
       "igdb_id": 213794,
@@ -507537,6 +507612,11 @@
       "file": "missing/I/7869-invisible-parties.json"
     },
     {
+      "igdb_id": 162208,
+      "game_name": "Invisible Services: Pixel Art Jigsaw Puzzle",
+      "file": "missing/I/162208-invisible-services-pixel-art-jigsaw-puzzle.json"
+    },
+    {
       "igdb_id": 221028,
       "game_name": "Invisible Sign: Isu",
       "file": "missing/I/221028-invisible-sign-isu.json"
@@ -519977,6 +520057,11 @@
       "file": "missing/J/351599-jigsaw-puzzle-new-year-collection.json"
     },
     {
+      "igdb_id": 162209,
+      "game_name": "Jigsaw Puzzle: Pixel Art Master",
+      "file": "missing/J/162209-jigsaw-puzzle-pixel-art-master.json"
+    },
+    {
       "igdb_id": 162230,
       "game_name": "Jigsaw Puzzle: Pro Edition",
       "file": "missing/J/162230-jigsaw-puzzle-pro-edition.json"
@@ -520085,6 +520170,11 @@
       "igdb_id": 240098,
       "game_name": "Jigsaw Puzzles: Fantasy Landscapes",
       "file": "missing/J/240098-jigsaw-puzzles-fantasy-landscapes.json"
+    },
+    {
+      "igdb_id": 162207,
+      "game_name": "Jigsaw Puzzles: Master Artists of Old",
+      "file": "missing/J/162207-jigsaw-puzzles-master-artists-of-old.json"
     },
     {
       "igdb_id": 232304,
@@ -536815,6 +536905,11 @@
       "igdb_id": 276657,
       "game_name": "Keyword 2: Nightfall",
       "file": "missing/K/276657-keyword-2-nightfall.json"
+    },
+    {
+      "igdb_id": 162077,
+      "game_name": "Keyword: A Spider's Thread",
+      "file": "missing/K/162077-keyword-a-spiders-thread.json"
     },
     {
       "igdb_id": 72079,
@@ -659867,6 +659962,11 @@
       "file": "missing/M/154839-moss-book-ii.json"
     },
     {
+      "igdb_id": 162204,
+      "game_name": "Moss: The Twilight Garden",
+      "file": "missing/M/162204-moss-the-twilight-garden.json"
+    },
+    {
       "igdb_id": 385219,
       "game_name": "Mossbound",
       "file": "missing/M/385219-mossbound.json"
@@ -691670,6 +691770,11 @@
       "igdb_id": 163948,
       "game_name": "Newton's House of Forces",
       "file": "missing/N/163948-newtons-house-of-forces.json"
+    },
+    {
+      "igdb_id": 162219,
+      "game_name": "Newton's Life at Home: Pixel Art Jigsaw Puzzle",
+      "file": "missing/N/162219-newtons-life-at-home-pixel-art-jigsaw-puzzle.json"
     },
     {
       "igdb_id": 388246,
@@ -762767,9 +762872,19 @@
       "file": "missing/P/192143-pixel-puzzles-ultimate-cheregi-2.json"
     },
     {
+      "igdb_id": 162152,
+      "game_name": "Pixel Puzzles Ultimate: Chernobyl",
+      "file": "missing/P/162152-pixel-puzzles-ultimate-chernobyl.json"
+    },
+    {
       "igdb_id": 162184,
       "game_name": "Pixel Puzzles Ultimate: China",
       "file": "missing/P/162184-pixel-puzzles-ultimate-china.json"
+    },
+    {
+      "igdb_id": 162149,
+      "game_name": "Pixel Puzzles Ultimate: Christmas",
+      "file": "missing/P/162149-pixel-puzzles-ultimate-christmas.json"
     },
     {
       "igdb_id": 162188,
@@ -762792,6 +762907,11 @@
       "file": "missing/P/162196-pixel-puzzles-ultimate-coral-reef.json"
     },
     {
+      "igdb_id": 162139,
+      "game_name": "Pixel Puzzles Ultimate: Cyberpunk",
+      "file": "missing/P/162139-pixel-puzzles-ultimate-cyberpunk.json"
+    },
+    {
       "igdb_id": 162164,
       "game_name": "Pixel Puzzles Ultimate: Da Vinci",
       "file": "missing/P/162164-pixel-puzzles-ultimate-da-vinci.json"
@@ -762812,6 +762932,11 @@
       "file": "missing/P/357886-pixel-puzzles-ultimate-dino-park.json"
     },
     {
+      "igdb_id": 162135,
+      "game_name": "Pixel Puzzles Ultimate: Dinosaurs",
+      "file": "missing/P/162135-pixel-puzzles-ultimate-dinosaurs.json"
+    },
+    {
       "igdb_id": 162095,
       "game_name": "Pixel Puzzles Ultimate: Dogs",
       "file": "missing/P/162095-pixel-puzzles-ultimate-dogs.json"
@@ -762820,6 +762945,11 @@
       "igdb_id": 162125,
       "game_name": "Pixel Puzzles Ultimate: Dolphins",
       "file": "missing/P/162125-pixel-puzzles-ultimate-dolphins.json"
+    },
+    {
+      "igdb_id": 162138,
+      "game_name": "Pixel Puzzles Ultimate: Elephants",
+      "file": "missing/P/162138-pixel-puzzles-ultimate-elephants.json"
     },
     {
       "igdb_id": 162094,
@@ -762842,6 +762972,11 @@
       "file": "missing/P/162194-pixel-puzzles-ultimate-extreme-sports.json"
     },
     {
+      "igdb_id": 162147,
+      "game_name": "Pixel Puzzles Ultimate: Fantasy",
+      "file": "missing/P/162147-pixel-puzzles-ultimate-fantasy.json"
+    },
+    {
       "igdb_id": 162098,
       "game_name": "Pixel Puzzles Ultimate: Fantasy 2",
       "file": "missing/P/162098-pixel-puzzles-ultimate-fantasy-2.json"
@@ -762850,6 +762985,11 @@
       "igdb_id": 162082,
       "game_name": "Pixel Puzzles Ultimate: Flowers",
       "file": "missing/P/162082-pixel-puzzles-ultimate-flowers.json"
+    },
+    {
+      "igdb_id": 162142,
+      "game_name": "Pixel Puzzles Ultimate: Fractals",
+      "file": "missing/P/162142-pixel-puzzles-ultimate-fractals.json"
     },
     {
       "igdb_id": 162110,
@@ -762937,6 +763077,11 @@
       "file": "missing/P/303698-pixel-puzzles-ultimate-jigsaw-variety-pack-4xs.json"
     },
     {
+      "igdb_id": 162140,
+      "game_name": "Pixel Puzzles Ultimate: Korea",
+      "file": "missing/P/162140-pixel-puzzles-ultimate-korea.json"
+    },
+    {
       "igdb_id": 162106,
       "game_name": "Pixel Puzzles Ultimate: Landscapes XL",
       "file": "missing/P/162106-pixel-puzzles-ultimate-landscapes-xl.json"
@@ -762957,6 +763102,11 @@
       "file": "missing/P/162129-pixel-puzzles-ultimate-macro.json"
     },
     {
+      "igdb_id": 162137,
+      "game_name": "Pixel Puzzles Ultimate: Medieval",
+      "file": "missing/P/162137-pixel-puzzles-ultimate-medieval.json"
+    },
+    {
       "igdb_id": 162127,
       "game_name": "Pixel Puzzles Ultimate: Montana",
       "file": "missing/P/162127-pixel-puzzles-ultimate-montana.json"
@@ -762975,6 +763125,11 @@
       "igdb_id": 162181,
       "game_name": "Pixel Puzzles Ultimate: Noel",
       "file": "missing/P/162181-pixel-puzzles-ultimate-noel.json"
+    },
+    {
+      "igdb_id": 162141,
+      "game_name": "Pixel Puzzles Ultimate: Owls",
+      "file": "missing/P/162141-pixel-puzzles-ultimate-owls.json"
     },
     {
       "igdb_id": 162183,
@@ -763000,6 +763155,11 @@
       "igdb_id": 162123,
       "game_name": "Pixel Puzzles Ultimate: PP2 Birds",
       "file": "missing/P/162123-pixel-puzzles-ultimate-pp2-birds.json"
+    },
+    {
+      "igdb_id": 162134,
+      "game_name": "Pixel Puzzles Ultimate: PP2 Radical Roach",
+      "file": "missing/P/162134-pixel-puzzles-ultimate-pp2-radical-roach.json"
     },
     {
       "igdb_id": 162128,
@@ -763057,6 +763217,11 @@
       "file": "missing/P/162193-pixel-puzzles-ultimate-shipwrecks.json"
     },
     {
+      "igdb_id": 162133,
+      "game_name": "Pixel Puzzles Ultimate: Snow & Ice",
+      "file": "missing/P/162133-pixel-puzzles-ultimate-snow-and-ice.json"
+    },
+    {
       "igdb_id": 162190,
       "game_name": "Pixel Puzzles Ultimate: Space 2",
       "file": "missing/P/162190-pixel-puzzles-ultimate-space-2.json"
@@ -763065,6 +763230,16 @@
       "igdb_id": 162130,
       "game_name": "Pixel Puzzles Ultimate: Spain",
       "file": "missing/P/162130-pixel-puzzles-ultimate-spain.json"
+    },
+    {
+      "igdb_id": 162153,
+      "game_name": "Pixel Puzzles Ultimate: Spooky",
+      "file": "missing/P/162153-pixel-puzzles-ultimate-spooky.json"
+    },
+    {
+      "igdb_id": 162151,
+      "game_name": "Pixel Puzzles Ultimate: Spring",
+      "file": "missing/P/162151-pixel-puzzles-ultimate-spring.json"
     },
     {
       "igdb_id": 162083,
@@ -763092,6 +763267,11 @@
       "file": "missing/P/162124-pixel-puzzles-ultimate-surreal.json"
     },
     {
+      "igdb_id": 162148,
+      "game_name": "Pixel Puzzles Ultimate: Surreal 2",
+      "file": "missing/P/162148-pixel-puzzles-ultimate-surreal-2.json"
+    },
+    {
       "igdb_id": 162192,
       "game_name": "Pixel Puzzles Ultimate: T.C.O.T.C",
       "file": "missing/P/162192-pixel-puzzles-ultimate-t-c-o-t-c.json"
@@ -763110,6 +763290,11 @@
       "igdb_id": 162105,
       "game_name": "Pixel Puzzles Ultimate: Trains",
       "file": "missing/P/162105-pixel-puzzles-ultimate-trains.json"
+    },
+    {
+      "igdb_id": 162136,
+      "game_name": "Pixel Puzzles Ultimate: U.S. Landscapes",
+      "file": "missing/P/162136-pixel-puzzles-ultimate-u-s-landscapes.json"
     },
     {
       "igdb_id": 162167,
@@ -763147,6 +763332,11 @@
       "file": "missing/P/148493-pixel-puzzles-ultimate-variety-pack-10.json"
     },
     {
+      "igdb_id": 162146,
+      "game_name": "Pixel Puzzles Ultimate: Variety Pack 11",
+      "file": "missing/P/162146-pixel-puzzles-ultimate-variety-pack-11.json"
+    },
+    {
       "igdb_id": 162191,
       "game_name": "Pixel Puzzles Ultimate: Variety Pack 12",
       "file": "missing/P/162191-pixel-puzzles-ultimate-variety-pack-12.json"
@@ -763165,6 +763355,11 @@
       "igdb_id": 162187,
       "game_name": "Pixel Puzzles Ultimate: Variety Pack 15",
       "file": "missing/P/162187-pixel-puzzles-ultimate-variety-pack-15.json"
+    },
+    {
+      "igdb_id": 162143,
+      "game_name": "Pixel Puzzles Ultimate: Variety Pack 16",
+      "file": "missing/P/162143-pixel-puzzles-ultimate-variety-pack-16.json"
     },
     {
       "igdb_id": 162111,
@@ -763207,6 +763402,11 @@
       "file": "missing/P/357892-pixel-puzzles-ultimate-variety-pack-27.json"
     },
     {
+      "igdb_id": 162150,
+      "game_name": "Pixel Puzzles Ultimate: Variety Pack 3",
+      "file": "missing/P/162150-pixel-puzzles-ultimate-variety-pack-3.json"
+    },
+    {
       "igdb_id": 192147,
       "game_name": "Pixel Puzzles Ultimate: Variety Pack 3XL",
       "file": "missing/P/192147-pixel-puzzles-ultimate-variety-pack-3xl.json"
@@ -763235,6 +763435,11 @@
       "igdb_id": 192144,
       "game_name": "Pixel Puzzles Ultimate: Variety Pack 5XS",
       "file": "missing/P/192144-pixel-puzzles-ultimate-variety-pack-5xs.json"
+    },
+    {
+      "igdb_id": 162145,
+      "game_name": "Pixel Puzzles Ultimate: Variety Pack 6",
+      "file": "missing/P/162145-pixel-puzzles-ultimate-variety-pack-6.json"
     },
     {
       "igdb_id": 226864,
@@ -763300,6 +763505,16 @@
       "igdb_id": 162132,
       "game_name": "Pixel Puzzles Ultimate: Wild West",
       "file": "missing/P/162132-pixel-puzzles-ultimate-wild-west.json"
+    },
+    {
+      "igdb_id": 162144,
+      "game_name": "Pixel Puzzles Ultimate: Winter",
+      "file": "missing/P/162144-pixel-puzzles-ultimate-winter.json"
+    },
+    {
+      "igdb_id": 162081,
+      "game_name": "Pixel Puzzles Ultimate: Wolves",
+      "file": "missing/P/162081-pixel-puzzles-ultimate-wolves.json"
     },
     {
       "igdb_id": 389415,
@@ -800285,6 +800500,11 @@
       "igdb_id": 68930,
       "game_name": "Puzkend",
       "file": "missing/P/68930-puzkend.json"
+    },
+    {
+      "igdb_id": 162205,
+      "game_name": "Puzlkind: Jigsaw Puzzles",
+      "file": "missing/P/162205-puzlkind-jigsaw-puzzles.json"
     },
     {
       "igdb_id": 315769,
@@ -851332,6 +851552,11 @@
       "file": "missing/R/280777-rosas-are-red.json"
     },
     {
+      "igdb_id": 162080,
+      "game_name": "Roscosmas Landing",
+      "file": "missing/R/162080-roscosmas-landing.json"
+    },
+    {
       "igdb_id": 236374,
       "game_name": "Rose",
       "file": "missing/R/236374-rose.json"
@@ -894432,6 +894657,11 @@
       "file": "missing/S/310182-shop-town-dooter.json"
     },
     {
+      "igdb_id": 162079,
+      "game_name": "Shop Tycoon",
+      "file": "missing/S/162079-shop-tycoon.json"
+    },
+    {
       "igdb_id": 284891,
       "game_name": "Shop Tycoon",
       "file": "missing/S/284891-shop-tycoon.json"
@@ -900145,6 +900375,11 @@
       "igdb_id": 302142,
       "game_name": "Silver Sonic: The Crystal Islands",
       "file": "missing/S/302142-silver-sonic-the-crystal-islands.json"
+    },
+    {
+      "igdb_id": 162076,
+      "game_name": "Silver Soul",
+      "file": "missing/S/162076-silver-soul.json"
     },
     {
       "igdb_id": 160060,
@@ -1119277,6 +1119512,16 @@
       "file": "missing/T/155379-tropico-5-gone-green.json"
     },
     {
+      "igdb_id": 162074,
+      "game_name": "Tropico 5: Inquisition",
+      "file": "missing/T/162074-tropico-5-inquisition.json"
+    },
+    {
+      "igdb_id": 162075,
+      "game_name": "Tropico 5: Map Pack",
+      "file": "missing/T/162075-tropico-5-map-pack.json"
+    },
+    {
       "igdb_id": 75686,
       "game_name": "Tropico 5: Paradise Lost",
       "file": "missing/T/75686-tropico-5-paradise-lost.json"
@@ -1189635,6 +1189880,11 @@
       "igdb_id": 52123,
       "game_name": "World of Anikids",
       "file": "missing/W/52123-world-of-anikids.json"
+    },
+    {
+      "igdb_id": 162216,
+      "game_name": "World of Art: Learn with Jigsaw Puzzles",
+      "file": "missing/W/162216-world-of-art-learn-with-jigsaw-puzzles.json"
     },
     {
       "igdb_id": 254652,
