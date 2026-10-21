@@ -1895,7 +1895,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ace Combat Infinity | 6628 | [6628-ace-combat-infinity.json](./6628-ace-combat-infinity.json) |
 | Ace Combat X: Recompiled | 413916 | [413916-ace-combat-x-recompiled.json](./413916-ace-combat-x-recompiled.json) |
 | Ace Combat: Assault Horizon - Enhanced Edition | 20850 | [20850-ace-combat-assault-horizon-enhanced-edition.json](./20850-ace-combat-assault-horizon-enhanced-edition.json) |
-| Ace Combat: Assault Horizon Legacy | 6745 | [6745-ace-combat-assault-horizon-legacy.json](./6745-ace-combat-assault-horizon-legacy.json) |
 | Ace Combat: Northern Wings | 175783 | [175783-ace-combat-northern-wings.json](./175783-ace-combat-northern-wings.json) |
 | Ace Duswell: Where's the Ace? | 58067 | [58067-ace-duswell-wheres-the-ace.json](./58067-ace-duswell-wheres-the-ace.json) |
 | Ace Fishing: Crew | 257790 | [257790-ace-fishing-crew.json](./257790-ace-fishing-crew.json) |
@@ -6712,7 +6711,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | An Alien with a Magnet | 34750 | [34750-an-alien-with-a-magnet.json](./34750-an-alien-with-a-magnet.json) |
 | An Alien with a Magnet HD | 90682 | [90682-an-alien-with-a-magnet-hd.json](./90682-an-alien-with-a-magnet-hd.json) |
 | An Alien's Work is Never Done | 316715 | [316715-an-aliens-work-is-never-done.json](./316715-an-aliens-work-is-never-done.json) |
-| An Alt Girl for Skoof | 298835 | [298835-an-alt-girl-for-skoof.json](./298835-an-alt-girl-for-skoof.json) |
 | An Altered State | 400881 | [400881-an-altered-state.json](./400881-an-altered-state.json) |
 | An Amazing Wizard | 169313 | [169313-an-amazing-wizard.json](./169313-an-amazing-wizard.json) |
 | An American Tail | 68257 | [68257-an-american-tail.json](./68257-an-american-tail.json) |
@@ -11589,7 +11587,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Creed Valhalla: Season Pass | 293717 | [293717-assassins-creed-valhalla-season-pass.json](./293717-assassins-creed-valhalla-season-pass.json) |
 | Assassin's Creed Valhalla: Shared History | 325329 | [325329-assassins-creed-valhalla-shared-history.json](./325329-assassins-creed-valhalla-shared-history.json) |
 | Assassin's Creed Valhalla: The Legend of Beowulf | 323775 | [323775-assassins-creed-valhalla-the-legend-of-beowulf.json](./323775-assassins-creed-valhalla-the-legend-of-beowulf.json) |
-| Assassin's Creed Valhalla: The Siege of Paris | 140175 | [140175-assassins-creed-valhalla-the-siege-of-paris.json](./140175-assassins-creed-valhalla-the-siege-of-paris.json) |
 | Assassin's Creed Valhalla: Title Update 1.5.1 | 222819 | [222819-assassins-creed-valhalla-title-update-1-5-1.json](./222819-assassins-creed-valhalla-title-update-1-5-1.json) |
 | Assassin's Creed Valhalla: Tombs of the Fallen | 222834 | [222834-assassins-creed-valhalla-tombs-of-the-fallen.json](./222834-assassins-creed-valhalla-tombs-of-the-fallen.json) |
 | Assassin's Creed Valhalla: Tombs of the Fallen Pack 2 | 222835 | [222835-assassins-creed-valhalla-tombs-of-the-fallen-pack-2.json](./222835-assassins-creed-valhalla-tombs-of-the-fallen-pack-2.json) |
