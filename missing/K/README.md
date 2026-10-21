@@ -2767,6 +2767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kings of the Beach | 198795 | [198795-kings-of-the-beach.json](./198795-kings-of-the-beach.json) |
 | Kings of the Realm | 344914 | [344914-kings-of-the-realm.json](./344914-kings-of-the-realm.json) |
 | Kings Shire | 237073 | [237073-kings-shire.json](./237073-kings-shire.json) |
+| Kings Town | 157361 | [157361-kings-town.json](./157361-kings-town.json) |
 | Kings under the hill | 31390 | [31390-kings-under-the-hill.json](./31390-kings-under-the-hill.json) |
 | Kings' Cross | 112354 | [112354-kings-cross.json](./112354-kings-cross.json) |
 | Kingsblood | 216706 | [216706-kingsblood.json](./216706-kingsblood.json) |
