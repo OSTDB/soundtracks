@@ -10089,7 +10089,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boomer Zombie | 211250 | [211250-boomer-zombie.json](./211250-boomer-zombie.json) |
 | Boomerang | 279059 | [279059-boomerang.json](./279059-boomerang.json) |
 | Boomerang Battles | 243593 | [243593-boomerang-battles.json](./243593-boomerang-battles.json) |
-| Boomerang Fu | 111529 | [111529-boomerang-fu.json](./111529-boomerang-fu.json) |
 | Boomerang Fu: Deluxe Edition | 324381 | [324381-boomerang-fu-deluxe-edition.json](./324381-boomerang-fu-deluxe-edition.json) |
 | Boomerang Fu: Fresh Flavors Pack | 226265 | [226265-boomerang-fu-fresh-flavors-pack.json](./226265-boomerang-fu-fresh-flavors-pack.json) |
 | Boomerang Fu: Just Desserts DLC | 305614 | [305614-boomerang-fu-just-desserts-dlc.json](./305614-boomerang-fu-just-desserts-dlc.json) |
