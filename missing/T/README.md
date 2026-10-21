@@ -57,6 +57,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tab + Notch | 401091 | [401091-tab-notch.json](./401091-tab-notch.json) |
 | Tab-Bot | 202005 | [202005-tab-bot.json](./202005-tab-bot.json) |
 | Tabboz Simulator | 191239 | [191239-tabboz-simulator.json](./191239-tabboz-simulator.json) |
+| Tabbris Yor | 156936 | [156936-tabbris-yor.json](./156936-tabbris-yor.json) |
 | Tabby Cat's Great Catventure | 177423 | [177423-tabby-cats-great-catventure.json](./177423-tabby-cats-great-catventure.json) |
 | Tabé-O-Ja | 150071 | [150071-tabe-o-ja.json](./150071-tabe-o-ja.json) |
 | Tabi no Yubisashi Kaiwachou DS: DS Series 1 - Thai | 383646 | [383646-tabi-no-yubisashi-kaiwachou-ds-ds-series-1-thai.json](./383646-tabi-no-yubisashi-kaiwachou-ds-ds-series-1-thai.json) |
@@ -6287,6 +6288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The DeadLine | 377590 | [377590-the-deadline.json](./377590-the-deadline.json) |
 | The Deadly Cursed Enjmin Steamroller in: The Bloody Killing on Wheel in the Atrium | 227468 | [227468-the-deadly-cursed-enjmin-steamroller-in-the-bloody-killing-on-wheel-in-the-atrium.json](./227468-the-deadly-cursed-enjmin-steamroller-in-the-bloody-killing-on-wheel-in-the-atrium.json) |
 | The Deadly Dungeons of Baron Backslash | 181697 | [181697-the-deadly-dungeons-of-baron-backslash.json](./181697-the-deadly-dungeons-of-baron-backslash.json) |
+| The Deadly Facade | 156942 | [156942-the-deadly-facade.json](./156942-the-deadly-facade.json) |
 | The Deadly Path | 253835 | [253835-the-deadly-path.json](./253835-the-deadly-path.json) |
 | The Deadseat | 343226 | [343226-the-deadseat.json](./343226-the-deadseat.json) |
 | The Deal | 30118 | [30118-the-deal.json](./30118-the-deal.json) |
@@ -17711,6 +17713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Timbre Star | 83147 | [83147-timbre-star.json](./83147-timbre-star.json) |
 | Time | 130947 | [130947-time.json](./130947-time.json) |
 | Time Ace | 21545 | [21545-time-ace.json](./21545-time-ace.json) |
+| Time Agent | 156945 | [156945-time-agent.json](./156945-time-agent.json) |
 | Time Alive | 186099 | [186099-time-alive.json](./186099-time-alive.json) |
 | Time and Eternity | 19922 | [19922-time-and-eternity.json](./19922-time-and-eternity.json) |
 | Time and Magik: The Trilogy | 15497 | [15497-time-and-magik-the-trilogy.json](./15497-time-and-magik-the-trilogy.json) |
@@ -21775,7 +21778,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Sim World 2020: Canadian National Oakville Subdivision - Hamilton: Oakville Route | 156871 | [156871-train-sim-world-2020-canadian-national-oakville-subdivision-hamilton-oakville-route.json](./156871-train-sim-world-2020-canadian-national-oakville-subdivision-hamilton-oakville-route.json) |
 | Train Sim World 2020: East Coastway - Brighton: Eastbourne & Seaford Route | 156873 | [156873-train-sim-world-2020-east-coastway-brighton-eastbourne-and-seaford-route.json](./156873-train-sim-world-2020-east-coastway-brighton-eastbourne-and-seaford-route.json) |
 | Train Sim World 2020: Hauptstrecke Rhein-Ruhr - Duisburg: Bochum Route | 156868 | [156868-train-sim-world-2020-hauptstrecke-rhein-ruhr-duisburg-bochum-route.json](./156868-train-sim-world-2020-hauptstrecke-rhein-ruhr-duisburg-bochum-route.json) |
+| Train Sim World 2020: Main Spessart Bahn - Aschaffenburg: Gemünden Route | 156867 | [156867-train-sim-world-2020-main-spessart-bahn-aschaffenburg-gemunden-route.json](./156867-train-sim-world-2020-main-spessart-bahn-aschaffenburg-gemunden-route.json) |
+| Train Sim World 2020: Northeast Corridor New York | 156866 | [156866-train-sim-world-2020-northeast-corridor-new-york.json](./156866-train-sim-world-2020-northeast-corridor-new-york.json) |
+| Train Sim World 2020: Northern Trans-Pennine - Manchester: Leeds Route | 156865 | [156865-train-sim-world-2020-northern-trans-pennine-manchester-leeds-route.json](./156865-train-sim-world-2020-northern-trans-pennine-manchester-leeds-route.json) |
 | Train Sim World 2020: Peninsula Corridor - San Francisco: San Jose Route | 156870 | [156870-train-sim-world-2020-peninsula-corridor-san-francisco-san-jose-route.json](./156870-train-sim-world-2020-peninsula-corridor-san-francisco-san-jose-route.json) |
+| Train Sim World 2020: Rapid Transit | 156864 | [156864-train-sim-world-2020-rapid-transit.json](./156864-train-sim-world-2020-rapid-transit.json) |
+| Train Sim World 2020: Rhein-Ruhr Osten - Wuppertal: Hagen Route | 156863 | [156863-train-sim-world-2020-rhein-ruhr-osten-wuppertal-hagen-route.json](./156863-train-sim-world-2020-rhein-ruhr-osten-wuppertal-hagen-route.json) |
 | Train Sim World 2020: Tees Valley Line - Darlington: Saltburn-by-the-Sea Route | 156869 | [156869-train-sim-world-2020-tees-valley-line-darlington-saltburn-by-the-sea-route.json](./156869-train-sim-world-2020-tees-valley-line-darlington-saltburn-by-the-sea-route.json) |
 | Train Sim World 2020: West Somerset Railway Route | 156872 | [156872-train-sim-world-2020-west-somerset-railway-route.json](./156872-train-sim-world-2020-west-somerset-railway-route.json) |
 | Train Sim World 3 | 213113 | [213113-train-sim-world-3.json](./213113-train-sim-world-3.json) |
@@ -23161,6 +23169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trap Golf | 379594 | [379594-trap-golf.json](./379594-trap-golf.json) |
 | Trap House | 32713 | [32713-trap-house.json](./32713-trap-house.json) |
 | Trap Labs | 74606 | [74606-trap-labs.json](./74606-trap-labs.json) |
+| Trap Legend | 156962 | [156962-trap-legend.json](./156962-trap-legend.json) |
 | Trap Master | 65000 | [65000-trap-master.json](./65000-trap-master.json) |
 | Trap of Musk: Asia Night | 235481 | [235481-trap-of-musk-asia-night.json](./235481-trap-of-musk-asia-night.json) |
 | Trap of Musk: Europe Night | 237046 | [237046-trap-of-musk-europe-night.json](./237046-trap-of-musk-europe-night.json) |
@@ -23227,6 +23236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TrapThem | 62004 | [62004-trapthem.json](./62004-trapthem.json) |
 | Traption Bakery | 142436 | [142436-traption-bakery.json](./142436-traption-bakery.json) |
 | Trapventure | 334318 | [334318-trapventure.json](./334318-trapventure.json) |
+| Trash | 156925 | [156925-trash.json](./156925-trash.json) |
 | Trash | 94319 | [94319-trash.json](./94319-trash.json) |
 | Trash & Fists | 244093 | [244093-trash-and-fists.json](./244093-trash-and-fists.json) |
 | Trash Bandits | 125430 | [125430-trash-bandits.json](./125430-trash-bandits.json) |
