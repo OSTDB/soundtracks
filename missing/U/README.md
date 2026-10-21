@@ -78,6 +78,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ubik | 44852 | [44852-ubik.json](./44852-ubik.json) |
 | Ubinota | 17852 | [17852-ubinota.json](./17852-ubinota.json) |
 | Ubiquatopia | 187286 | [187286-ubiquatopia.json](./187286-ubiquatopia.json) |
+| Ubirajara | 163179 | [163179-ubirajara.json](./163179-ubirajara.json) |
 | UBoat | 32283 | [32283-uboat.json](./32283-uboat.json) |
 | Uboat Attack | 220203 | [220203-uboat-attack.json](./220203-uboat-attack.json) |
 | Uboat Attack | 314607 | [314607-uboat-attack.json](./314607-uboat-attack.json) |
@@ -2351,6 +2352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Untitled Space Game | 153441 | [153441-untitled-space-game.json](./153441-untitled-space-game.json) |
 | Untitled Survival Game | 193193 | [193193-untitled-survival-game.json](./193193-untitled-survival-game.json) |
 | Untitled Tomb Runner | 361743 | [361743-untitled-tomb-runner.json](./361743-untitled-tomb-runner.json) |
+| Untitled Video Game | 163243 | [163243-untitled-video-game.json](./163243-untitled-video-game.json) |
 | Untitled Vlambeer Game | 131396 | [131396-untitled-vlambeer-game.json](./131396-untitled-vlambeer-game.json) |
 | Untitled Zombie Game | 291039 | [291039-untitled-zombie-game.json](./291039-untitled-zombie-game.json) |
 | Untitled: The flower game | 181899 | [181899-untitled-the-flower-game.json](./181899-untitled-the-flower-game.json) |
