@@ -1675,7 +1675,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unforgiven: Carry The Pain | 242498 | [242498-unforgiven-carry-the-pain.json](./242498-unforgiven-carry-the-pain.json) |
 | Unforgiven: Shattered Souls | 139357 | [139357-unforgiven-shattered-souls.json](./139357-unforgiven-shattered-souls.json) |
 | Unforgiven: Shattered Souls Portable | 139358 | [139358-unforgiven-shattered-souls-portable.json](./139358-unforgiven-shattered-souls-portable.json) |
-| Unforgiving - A Northern Hymn | 75496 | [75496-unforgiving-a-northern-hymn.json](./75496-unforgiving-a-northern-hymn.json) |
 | Unforgiving Trials: The Darkest Crusade | 32868 | [32868-unforgiving-trials-the-darkest-crusade.json](./32868-unforgiving-trials-the-darkest-crusade.json) |
 | Unforgiving Trials: The Space Crusade | 31141 | [31141-unforgiving-trials-the-space-crusade.json](./31141-unforgiving-trials-the-space-crusade.json) |
 | Unforgotten: Ordinance | 276816 | [276816-unforgotten-ordinance.json](./276816-unforgotten-ordinance.json) |
