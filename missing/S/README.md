@@ -10522,6 +10522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slimper | 403079 | [403079-slimper.json](./403079-slimper.json) |
 | Slimy | 181321 | [181321-slimy.json](./181321-slimy.json) |
 | Slimy Pete's Singles Bar | 73336 | [73336-slimy-petes-singles-bar.json](./73336-slimy-petes-singles-bar.json) |
+| Slimy Sextet | 158396 | [158396-slimy-sextet.json](./158396-slimy-sextet.json) |
 | Slimy Snail Ride | 106571 | [106571-slimy-snail-ride.json](./106571-slimy-snail-ride.json) |
 | Slimy Timey | 384673 | [384673-slimy-timey.json](./384673-slimy-timey.json) |
 | Sling | 261801 | [261801-sling.json](./261801-sling.json) |
@@ -16778,6 +16779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spingun | 30803 | [30803-spingun.json](./30803-spingun.json) |
 | Spinheads | 112844 | [112844-spinheads.json](./112844-spinheads.json) |
 | Spinmaster | 15469 | [15469-spinmaster.json](./15469-spinmaster.json) |
+| Spinner Breaker | 158388 | [158388-spinner-breaker.json](./158388-spinner-breaker.json) |
 | Spinner Galactic | 56375 | [56375-spinner-galactic.json](./56375-spinner-galactic.json) |
 | Spinner Invaders | 172967 | [172967-spinner-invaders.json](./172967-spinner-invaders.json) |
 | Spinner Invaders 2: A Mad Revenge | 220669 | [220669-spinner-invaders-2-a-mad-revenge.json](./220669-spinner-invaders-2-a-mad-revenge.json) |
@@ -26878,6 +26880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Delights: The Girl’s Cafe Quest | 339466 | [339466-sweet-delights-the-girl-s-cafe-quest.json](./339466-sweet-delights-the-girl-s-cafe-quest.json) |
 | Sweet Delivery | 367298 | [367298-sweet-delivery.json](./367298-sweet-delivery.json) |
 | Sweet Desire | 147380 | [147380-sweet-desire.json](./147380-sweet-desire.json) |
+| Sweet Desire 2 | 158394 | [158394-sweet-desire-2.json](./158394-sweet-desire-2.json) |
 | Sweet Desire: Hentai Puzzle | 189983 | [189983-sweet-desire-hentai-puzzle.json](./189983-sweet-desire-hentai-puzzle.json) |
 | Sweet Dream | 172106 | [172106-sweet-dream.json](./172106-sweet-dream.json) |
 | Sweet Dream | 229597 | [229597-sweet-dream.json](./229597-sweet-dream.json) |
