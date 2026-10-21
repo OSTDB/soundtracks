@@ -2005,6 +2005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Shooter | 158651 | [158651-neon-shooter.json](./158651-neon-shooter.json) |
 | Neon Slashers | 119487 | [119487-neon-slashers.json](./119487-neon-slashers.json) |
 | Neon Sling | 242457 | [242457-neon-sling.json](./242457-neon-sling.json) |
+| Neon Snake | 161694 | [161694-neon-snake.json](./161694-neon-snake.json) |
 | Neon Snap | 140597 | [140597-neon-snap.json](./140597-neon-snap.json) |
 | Neon Space | 19325 | [19325-neon-space.json](./19325-neon-space.json) |
 | Neon Space Ultra | 32934 | [32934-neon-space-ultra.json](./32934-neon-space-ultra.json) |
