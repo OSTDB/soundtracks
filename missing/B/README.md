@@ -4593,6 +4593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Befizzled! | 176164 | [176164-befizzled.json](./176164-befizzled.json) |
 | Before | 380013 | [380013-before.json](./380013-before.json) |
 | Before Arriving at the Terminal | 123942 | [123942-before-arriving-at-the-terminal.json](./123942-before-arriving-at-the-terminal.json) |
+| Before Began | 157363 | [157363-before-began.json](./157363-before-began.json) |
 | Before Closure | 369925 | [369925-before-closure.json](./369925-before-closure.json) |
 | Before Dark | 149858 | [149858-before-dark.json](./149858-before-dark.json) |
 | Before Dawn | 229101 | [229101-before-dawn.json](./229101-before-dawn.json) |
@@ -5483,6 +5484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond the Wizard | 119666 | [119666-beyond-the-wizard.json](./119666-beyond-the-wizard.json) |
 | Beyond These Stars | 239002 | [239002-beyond-these-stars.json](./239002-beyond-these-stars.json) |
 | Beyond Time | 73207 | [73207-beyond-time.json](./73207-beyond-time.json) |
+| Beyond Tokyo | 157447 | [157447-beyond-tokyo.json](./157447-beyond-tokyo.json) |
 | Beyond Truth | 184372 | [184372-beyond-truth.json](./184372-beyond-truth.json) |
 | Beyond Up | 386297 | [386297-beyond-up.json](./386297-beyond-up.json) |
 | Beyond Yardwork Simulator | 397238 | [397238-beyond-yardwork-simulator.json](./397238-beyond-yardwork-simulator.json) |
@@ -12306,6 +12308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brotherhood of Ruin: The Lost Temple | 263426 | [263426-brotherhood-of-ruin-the-lost-temple.json](./263426-brotherhood-of-ruin-the-lost-temple.json) |
 | Brotherhood of Violence II | 89517 | [89517-brotherhood-of-violence-ii.json](./89517-brotherhood-of-violence-ii.json) |
 | Brothers | 193446 | [193446-brothers.json](./193446-brothers.json) |
+| Brothers Apart | 157460 | [157460-brothers-apart.json](./157460-brothers-apart.json) |
 | Brothers Conflict: Brilliant Blue | 45991 | [45991-brothers-conflict-brilliant-blue.json](./45991-brothers-conflict-brilliant-blue.json) |
 | Brothers Conflict: Passion Pink | 45990 | [45990-brothers-conflict-passion-pink.json](./45990-brothers-conflict-passion-pink.json) |
 | Brothers in Arms 2: Global Front | 64301 | [64301-brothers-in-arms-2-global-front.json](./64301-brothers-in-arms-2-global-front.json) |
