@@ -1671,6 +1671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Sliding Puzzle 5 | 286462 | [286462-fantasy-sliding-puzzle-5.json](./286462-fantasy-sliding-puzzle-5.json) |
 | Fantasy Smith VR | 115558 | [115558-fantasy-smith-vr.json](./115558-fantasy-smith-vr.json) |
 | Fantasy Soul Revenge | 384288 | [384288-fantasy-soul-revenge.json](./384288-fantasy-soul-revenge.json) |
+| Fantasy Sprite Island | 157946 | [157946-fantasy-sprite-island.json](./157946-fantasy-sprite-island.json) |
 | Fantasy Squad W | 109575 | [109575-fantasy-squad-w.json](./109575-fantasy-squad-w.json) |
 | Fantasy Stars: Battle Arena | 117489 | [117489-fantasy-stars-battle-arena.json](./117489-fantasy-stars-battle-arena.json) |
 | Fantasy Story: Lord of Darkness | 200117 | [200117-fantasy-story-lord-of-darkness.json](./200117-fantasy-story-lord-of-darkness.json) |
@@ -8713,6 +8714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Franzen | 263443 | [263443-franzen.json](./263443-franzen.json) |
 | Fraud Camp: Survival Escape | 372455 | [372455-fraud-camp-survival-escape.json](./372455-fraud-camp-survival-escape.json) |
 | Fraudster | 340245 | [340245-fraudster.json](./340245-fraudster.json) |
+| Fraulein Lolita First Date With You | 157955 | [157955-fraulein-lolita-first-date-with-you.json](./157955-fraulein-lolita-first-date-with-you.json) |
 | Fraxinus Decay | 188373 | [188373-fraxinus-decay.json](./188373-fraxinus-decay.json) |
 | Fraxy | 124574 | [124574-fraxy.json](./124574-fraxy.json) |
 | Fray | 305518 | [305518-fray.json](./305518-fray.json) |
