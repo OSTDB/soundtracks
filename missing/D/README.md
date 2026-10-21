@@ -269,6 +269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dahlia: Lasciatemi morire | 275476 | [275476-dahlia-lasciatemi-morire.json](./275476-dahlia-lasciatemi-morire.json) |
 | Dahliphoria | 224768 | [224768-dahliphoria.json](./224768-dahliphoria.json) |
 | Dahna: Megami Tanjou | 46185 | [46185-dahna-megami-tanjou.json](./46185-dahna-megami-tanjou.json) |
+| Dàhuà Jiānghú | 156949 | [156949-dahua-jianghu.json](./156949-dahua-jianghu.json) |
 | Dàhuà Xīyóu | 92606 | [92606-dahua-xiyou.json](./92606-dahua-xiyou.json) |
 | Dāi Dāi Dàmàoxiǎn | 368138 | [368138-dai-dai-damaoxian.json](./368138-dai-dai-damaoxian.json) |
 | Dai Datsugoku! Hell chama Prison no Yabou | 353376 | [353376-dai-datsugoku-hell-chama-prison-no-yabou.json](./353376-dai-datsugoku-hell-chama-prison-no-yabou.json) |
@@ -1050,6 +1051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Chaser | 109034 | [109034-dark-chaser.json](./109034-dark-chaser.json) |
 | Dark Chess+ | 175242 | [175242-dark-chess.json](./175242-dark-chess.json) |
 | Dark Chinese Chess Online | 89799 | [89799-dark-chinese-chess-online.json](./89799-dark-chinese-chess-online.json) |
+| Dark Chronicles: The Soul Reaver | 156934 | [156934-dark-chronicles-the-soul-reaver.json](./156934-dark-chronicles-the-soul-reaver.json) |
 | Dark City Trouble Nights | 266817 | [266817-dark-city-trouble-nights.json](./266817-dark-city-trouble-nights.json) |
 | Dark City: Amsterdam Collector's Edition | 337180 | [337180-dark-city-amsterdam-collectors-edition.json](./337180-dark-city-amsterdam-collectors-edition.json) |
 | Dark City: Barcelona Collector's Edition | 362832 | [362832-dark-city-barcelona-collectors-edition.json](./362832-dark-city-barcelona-collectors-edition.json) |
@@ -3062,6 +3064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadlocked | 177277 | [177277-deadlocked.json](./177277-deadlocked.json) |
 | Deadlocked | 197796 | [197796-deadlocked.json](./197796-deadlocked.json) |
 | Deadlocked | 274514 | [274514-deadlocked.json](./274514-deadlocked.json) |
+| Deadlokk | 156948 | [156948-deadlokk.json](./156948-deadlokk.json) |
 | Deadly 30 | 8486 | [8486-deadly-30.json](./8486-deadly-30.json) |
 | Deadly Animal Duel | 61893 | [61893-deadly-animal-duel.json](./61893-deadly-animal-duel.json) |
 | Deadly Arts | 10612 | [10612-deadly-arts.json](./10612-deadly-arts.json) |
@@ -9150,6 +9153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dolphin Simulator | 107007 | [107007-dolphin-simulator.json](./107007-dolphin-simulator.json) |
 | Dolphin Splash! | 272475 | [272475-dolphin-splash.json](./272475-dolphin-splash.json) |
 | Dolphin Trainer | 269739 | [269739-dolphin-trainer.json](./269739-dolphin-trainer.json) |
+| Dolphin Trainer VR | 156946 | [156946-dolphin-trainer-vr.json](./156946-dolphin-trainer-vr.json) |
 | Dolphin Wave | 212640 | [212640-dolphin-wave.json](./212640-dolphin-wave.json) |
 | Dolphin's Dream | 74704 | [74704-dolphins-dream.json](./74704-dolphins-dream.json) |
 | Dolphins-Cyborgs and open space | 81756 | [81756-dolphins-cyborgs-and-open-space.json](./81756-dolphins-cyborgs-and-open-space.json) |
@@ -13958,6 +13962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Siege: Legends of Aranna | 9271 | [9271-dungeon-siege-legends-of-aranna.json](./9271-dungeon-siege-legends-of-aranna.json) |
 | Dungeon Slave | 240814 | [240814-dungeon-slave.json](./240814-dungeon-slave.json) |
 | Dungeon Slayer | 194008 | [194008-dungeon-slayer.json](./194008-dungeon-slayer.json) |
+| Dungeon Slime 2: Puzzle in the Dark Forest | 156941 | [156941-dungeon-slime-2-puzzle-in-the-dark-forest.json](./156941-dungeon-slime-2-puzzle-in-the-dark-forest.json) |
 | Dungeon Slime Collection | 208837 | [208837-dungeon-slime-collection.json](./208837-dungeon-slime-collection.json) |
 | Dungeon Slime Hero | 295808 | [295808-dungeon-slime-hero.json](./295808-dungeon-slime-hero.json) |
 | Dungeon Solitaire | 178000 | [178000-dungeon-solitaire.json](./178000-dungeon-solitaire.json) |
