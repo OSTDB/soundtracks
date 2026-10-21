@@ -11871,6 +11871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snowballs | 221083 | [221083-snowballs.json](./221083-snowballs.json) |
 | Snowbird Solitaire | 354998 | [354998-snowbird-solitaire.json](./354998-snowbird-solitaire.json) |
 | Snowblind Aces | 216239 | [216239-snowblind-aces.json](./216239-snowblind-aces.json) |
+| Snowboard | 157972 | [157972-snowboard.json](./157972-snowboard.json) |
 | Snowboard Champion | 280844 | [280844-snowboard-champion.json](./280844-snowboard-champion.json) |
 | Snowboard Freestyle Skiing | 99190 | [99190-snowboard-freestyle-skiing.json](./99190-snowboard-freestyle-skiing.json) |
 | Snowboard Girl | 355151 | [355151-snowboard-girl.json](./355151-snowboard-girl.json) |
@@ -17136,6 +17137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Splosion Man | 8354 | [8354-splosion-man.json](./8354-splosion-man.json) |
 | Splotches | 60436 | [60436-splotches.json](./60436-splotches.json) |
 | Splurge | 287194 | [287194-splurge.json](./287194-splurge.json) |
+| Spock in the Dama Kingdom | 157978 | [157978-spock-in-the-dama-kingdom.json](./157978-spock-in-the-dama-kingdom.json) |
 | Spocon! Sports Wear-Complex | 77844 | [77844-spocon-sports-wear-complex.json](./77844-spocon-sports-wear-complex.json) |
 | Spod Blaster | 85979 | [85979-spod-blaster.json](./85979-spod-blaster.json) |
 | Spogs Racing | 21048 | [21048-spogs-racing.json](./21048-spogs-racing.json) |
