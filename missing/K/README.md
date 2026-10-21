@@ -2704,6 +2704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KingdomDefense | 172102 | [172102-kingdomdefense.json](./172102-kingdomdefense.json) |
 | Kingdomfall | 169401 | [169401-kingdomfall.json](./169401-kingdomfall.json) |
 | Kingdomino | 338728 | [338728-kingdomino.json](./338728-kingdomino.json) |
+| Kingdomonium | 157975 | [157975-kingdomonium.json](./157975-kingdomonium.json) |
 | Kingdoms | 259165 | [259165-kingdoms.json](./259165-kingdoms.json) |
 | Kingdoms and Slaves | 201713 | [201713-kingdoms-and-slaves.json](./201713-kingdoms-and-slaves.json) |
 | Kingdoms at War | 61455 | [61455-kingdoms-at-war.json](./61455-kingdoms-at-war.json) |
