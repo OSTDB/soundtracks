@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-21T20:48:13.449Z",
-  "total_missing": 243551,
+  "generated_at": "2026-10-21T20:52:39.891Z",
+  "total_missing": 243543,
   "games": [
     {
       "igdb_id": 191680,
@@ -133425,11 +133425,6 @@
       "igdb_id": 243593,
       "game_name": "Boomerang Battles",
       "file": "missing/B/243593-boomerang-battles.json"
-    },
-    {
-      "igdb_id": 111529,
-      "game_name": "Boomerang Fu",
-      "file": "missing/B/111529-boomerang-fu.json"
     },
     {
       "igdb_id": 324381,
@@ -329397,11 +329392,6 @@
       "file": "missing/E/381954-estranged-family.json"
     },
     {
-      "igdb_id": 26795,
-      "game_name": "Estranged: Act I",
-      "file": "missing/E/26795-estranged-act-i.json"
-    },
-    {
       "igdb_id": 147260,
       "game_name": "Estranged: The Departure",
       "file": "missing/E/147260-estranged-the-departure.json"
@@ -417237,11 +417227,6 @@
       "file": "missing/G/279631-golden-axe.json"
     },
     {
-      "igdb_id": 305873,
-      "game_name": "Golden Axe",
-      "file": "missing/G/305873-golden-axe.json"
-    },
-    {
       "igdb_id": 305875,
       "game_name": "Golden Axe",
       "file": "missing/G/305875-golden-axe.json"
@@ -490960,11 +490945,6 @@
       "igdb_id": 119694,
       "game_name": "Identity Sector",
       "file": "missing/I/119694-identity-sector.json"
-    },
-    {
-      "igdb_id": 105512,
-      "game_name": "Identity V",
-      "file": "missing/I/105512-identity-v.json"
     },
     {
       "igdb_id": 111884,
@@ -702020,11 +702000,6 @@
       "igdb_id": 247912,
       "game_name": "Nocturia The Game",
       "file": "missing/N/247912-nocturia-the-game.json"
-    },
-    {
-      "igdb_id": 234740,
-      "game_name": "Nocturnal",
-      "file": "missing/N/234740-nocturnal.json"
     },
     {
       "igdb_id": 350295,
@@ -953342,11 +953317,6 @@
       "file": "missing/S/6609-star-wars-trilogy-apprentice-of-the-force.json"
     },
     {
-      "igdb_id": 340113,
-      "game_name": "Star Wars Zero Company",
-      "file": "missing/S/340113-star-wars-zero-company.json"
-    },
-    {
       "igdb_id": 1386,
       "game_name": "Star Wars: 1313",
       "file": "missing/S/1386-star-wars-1313.json"
@@ -1034515,11 +1034485,6 @@
       "igdb_id": 245862,
       "game_name": "The Final Exhibition",
       "file": "missing/T/245862-the-final-exhibition.json"
-    },
-    {
-      "igdb_id": 396,
-      "game_name": "The Final Fantasy Legend",
-      "file": "missing/T/396-the-final-fantasy-legend.json"
     },
     {
       "igdb_id": 364394,
@@ -1134170,11 +1134135,6 @@
       "igdb_id": 121369,
       "game_name": "Under Night In-Birth Exe:Late[cl-r]",
       "file": "missing/U/121369-under-night-in-birth-exe-late-cl-r.json"
-    },
-    {
-      "igdb_id": 41819,
-      "game_name": "Under Night In-Birth Exe:Late[st]",
-      "file": "missing/U/41819-under-night-in-birth-exe-late-st.json"
     },
     {
       "igdb_id": 260087,
