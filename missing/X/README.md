@@ -277,6 +277,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | X-Plane 11: FSDG - Kapstadt XP | 168424 | [168424-x-plane-11-fsdg-kapstadt-xp.json](./168424-x-plane-11-fsdg-kapstadt-xp.json) |
 | X-Plane 11: FSDG - Mauritius | 168402 | [168402-x-plane-11-fsdg-mauritius.json](./168402-x-plane-11-fsdg-mauritius.json) |
 | X-Plane 11: FSDG - Sharm El-Sheikh XP | 168399 | [168399-x-plane-11-fsdg-sharm-el-sheikh-xp.json](./168399-x-plane-11-fsdg-sharm-el-sheikh-xp.json) |
+| X-Plane 11: FunnerFlight - Airport Los Angeles International V2 | 162737 | [162737-x-plane-11-funnerflight-airport-los-angeles-international-v2.json](./162737-x-plane-11-funnerflight-airport-los-angeles-international-v2.json) |
+| X-Plane 11: FunnerFlight PHNL - Honolulu International Airport + Pearl Harbor | 162738 | [162738-x-plane-11-funnerflight-phnl-honolulu-international-airport-pearl-harbor.json](./162738-x-plane-11-funnerflight-phnl-honolulu-international-airport-pearl-harbor.json) |
 | X-Plane 11: Global Scenery - Africa | 168403 | [168403-x-plane-11-global-scenery-africa.json](./168403-x-plane-11-global-scenery-africa.json) |
 | X-Plane 11: Global Scenery - Asia | 168421 | [168421-x-plane-11-global-scenery-asia.json](./168421-x-plane-11-global-scenery-asia.json) |
 | X-Plane 11: Global Scenery - Europe | 168414 | [168414-x-plane-11-global-scenery-europe.json](./168414-x-plane-11-global-scenery-europe.json) |
