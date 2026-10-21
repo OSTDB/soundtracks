@@ -4817,6 +4817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gold Express | 118598 | [118598-gold-express.json](./118598-gold-express.json) |
 | Gold Fever | 22731 | [22731-gold-fever.json](./22731-gold-fever.json) |
 | Gold For All | 248338 | [248338-gold-for-all.json](./248338-gold-for-all.json) |
+| Gold Games 3 | 161710 | [161710-gold-games-3.json](./161710-gold-games-3.json) |
 | Gold Girls | 284272 | [284272-gold-girls.json](./284272-gold-girls.json) |
 | Gold Grabbing Goblin | 271627 | [271627-gold-grabbing-goblin.json](./271627-gold-grabbing-goblin.json) |
 | Gold Is Mine | 148842 | [148842-gold-is-mine.json](./148842-gold-is-mine.json) |
