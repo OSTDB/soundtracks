@@ -4715,6 +4715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nobody's Home | 133744 | [133744-nobodys-home.json](./133744-nobodys-home.json) |
 | Nobody's Home | 179732 | [179732-nobodys-home.json](./179732-nobodys-home.json) |
 | Nobody's Left | 250949 | [250949-nobodys-left.json](./250949-nobodys-left.json) |
+| Nobody's Quest | 157953 | [157953-nobodys-quest.json](./157953-nobodys-quest.json) |
 | Noboranka | 37330 | [37330-noboranka.json](./37330-noboranka.json) |
 | Nobu Jump | 383934 | [383934-nobu-jump.json](./383934-nobu-jump.json) |
 | Nobunaga Ibun | 49746 | [49746-nobunaga-ibun.json](./49746-nobunaga-ibun.json) |
