@@ -3969,6 +3969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape from Peruácru Island | 388911 | [388911-escape-from-peruacru-island.json](./388911-escape-from-peruacru-island.json) |
 | Escape from Playtime | 415180 | [415180-escape-from-playtime.json](./415180-escape-from-playtime.json) |
 | Escape from Pleasure Planet | 32138 | [32138-escape-from-pleasure-planet.json](./32138-escape-from-pleasure-planet.json) |
+| Escape from Poalet | 157376 | [157376-escape-from-poalet.json](./157376-escape-from-poalet.json) |
 | Escape from police | 114294 | [114294-escape-from-police.json](./114294-escape-from-police.json) |
 | Escape From Prison Multiplayer | 337823 | [337823-escape-from-prison-multiplayer.json](./337823-escape-from-prison-multiplayer.json) |
 | Escape from Puzzlegate | 34373 | [34373-escape-from-puzzlegate.json](./34373-escape-from-puzzlegate.json) |
@@ -4707,6 +4708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternity Guards | 148488 | [148488-eternity-guards.json](./148488-eternity-guards.json) |
 | Eternity Inn | 170343 | [170343-eternity-inn.json](./170343-eternity-inn.json) |
 | Eternity Lost: Mystery of Aurum - Collector's Edition | 416770 | [416770-eternity-lost-mystery-of-aurum-collectors-edition.json](./416770-eternity-lost-mystery-of-aurum-collectors-edition.json) |
+| Eternity Protectors | 157373 | [157373-eternity-protectors.json](./157373-eternity-protectors.json) |
 | Eternity Warriors | 38502 | [38502-eternity-warriors.json](./38502-eternity-warriors.json) |
 | ﻿Eternity Warriors 4 | 348747 | [348747-eternity-warriors-4.json](./348747-eternity-warriors-4.json) |
 | Eternity Warriors VR | 54652 | [54652-eternity-warriors-vr.json](./54652-eternity-warriors-vr.json) |
