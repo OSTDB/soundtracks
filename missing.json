@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-21T20:17:23.432Z",
-  "total_missing": 243529,
+  "generated_at": "2026-10-21T20:22:32.745Z",
+  "total_missing": 243522,
   "games": [
     {
       "igdb_id": 191680,
@@ -137835,11 +137835,6 @@
       "igdb_id": 285369,
       "game_name": "Boyce the Voice",
       "file": "missing/B/285369-boyce-the-voice.json"
-    },
-    {
-      "igdb_id": 74692,
-      "game_name": "Boyfriend Dungeon",
-      "file": "missing/B/74692-boyfriend-dungeon.json"
     },
     {
       "igdb_id": 228681,
@@ -400177,11 +400172,6 @@
       "file": "missing/G/409750-garden-souls.json"
     },
     {
-      "igdb_id": 119856,
-      "game_name": "Garden Story",
-      "file": "missing/G/119856-garden-story.json"
-    },
-    {
       "igdb_id": 215156,
       "game_name": "Garden Tails",
       "file": "missing/G/215156-garden-tails.json"
@@ -494675,11 +494665,6 @@
       "igdb_id": 30437,
       "game_name": "Illyriad - 4X Grand Strategy MMO",
       "file": "missing/I/30437-illyriad-4x-grand-strategy-mmo.json"
-    },
-    {
-      "igdb_id": 7086,
-      "game_name": "Ilomilo",
-      "file": "missing/I/7086-ilomilo.json"
     },
     {
       "igdb_id": 50443,
@@ -617590,11 +617575,6 @@
       "igdb_id": 311714,
       "game_name": "Me & My Friend Pippa!",
       "file": "missing/M/311714-me-and-my-friend-pippa.json"
-    },
-    {
-      "igdb_id": 6455,
-      "game_name": "Me & My Katamari",
-      "file": "missing/M/6455-me-and-my-katamari.json"
     },
     {
       "igdb_id": 85277,
@@ -782057,11 +782037,6 @@
       "file": "missing/P/27341-potioneer-the-vr-gardening-simulator.json"
     },
     {
-      "igdb_id": 75994,
-      "game_name": "Potionomics",
-      "file": "missing/P/75994-potionomics.json"
-    },
-    {
       "igdb_id": 360595,
       "game_name": "Potionomics: Boss Finn Content Pack",
       "file": "missing/P/360595-potionomics-boss-finn-content-pack.json"
@@ -884550,11 +884525,6 @@
       "igdb_id": 68463,
       "game_name": "Shadow Fight 2: Special Edition",
       "file": "missing/S/68463-shadow-fight-2-special-edition.json"
-    },
-    {
-      "igdb_id": 68391,
-      "game_name": "Shadow Fight 3",
-      "file": "missing/S/68391-shadow-fight-3.json"
     },
     {
       "igdb_id": 219604,
@@ -1077435,11 +1077405,6 @@
       "igdb_id": 339294,
       "game_name": "Through the Wall",
       "file": "missing/T/339294-through-the-wall.json"
-    },
-    {
-      "igdb_id": 9525,
-      "game_name": "Through the Woods",
-      "file": "missing/T/9525-through-the-woods.json"
     },
     {
       "igdb_id": 51920,
