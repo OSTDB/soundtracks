@@ -1490,6 +1490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neglected: Trust test | 170904 | [170904-neglected-trust-test.json](./170904-neglected-trust-test.json) |
 | Negligee | 283135 | [283135-negligee.json](./283135-negligee.json) |
 | Negligee: Love Stories | 111743 | [111743-negligee-love-stories.json](./111743-negligee-love-stories.json) |
+| Negligee: Opposites Attract | 160126 | [160126-negligee-opposites-attract.json](./160126-negligee-opposites-attract.json) |
 | Negligee: Spring Clean | 159218 | [159218-negligee-spring-clean.json](./159218-negligee-spring-clean.json) |
 | Negotiation Love | 369108 | [369108-negotiation-love.json](./369108-negotiation-love.json) |
 | Negotiations Have Failed! | 374179 | [374179-negotiations-have-failed.json](./374179-negotiations-have-failed.json) |
@@ -5735,6 +5736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nui | 138693 | [138693-nui.json](./138693-nui.json) |
 | Nui Goes to Town! | 354410 | [354410-nui-goes-to-town.json](./354410-nui-goes-to-town.json) |
 | Nuign Specter | 251242 | [251242-nuign-specter.json](./251242-nuign-specter.json) |
+| Nuigurumi no Cakeya-san: Mahou no Patissiere | 158971 | [158971-nuigurumi-no-cakeya-san-mahou-no-patissiere.json](./158971-nuigurumi-no-cakeya-san-mahou-no-patissiere.json) |
 | Nuke Babysitter Simulator \| Kim Edition | 81685 | [81685-nuke-babysitter-simulator-kim-edition.json](./81685-nuke-babysitter-simulator-kim-edition.json) |
 | Nuke Bomberman | 336681 | [336681-nuke-bomberman.json](./336681-nuke-bomberman.json) |
 | Nuke City | 208085 | [208085-nuke-city.json](./208085-nuke-city.json) |
