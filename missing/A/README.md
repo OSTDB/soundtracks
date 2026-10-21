@@ -1948,6 +1948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aces Gin Rummy | 70896 | [70896-aces-gin-rummy.json](./70896-aces-gin-rummy.json) |
 | Aces High | 91371 | [91371-aces-high.json](./91371-aces-high.json) |
 | Aces High! | 328246 | [328246-aces-high.json](./328246-aces-high.json) |
+| Aces in the Dust | 160054 | [160054-aces-in-the-dust.json](./160054-aces-in-the-dust.json) |
 | Aces of the Air | 43938 | [43938-aces-of-the-air.json](./43938-aces-of-the-air.json) |
 | Aces of the Deep | 12384 | [12384-aces-of-the-deep.json](./12384-aces-of-the-deep.json) |
 | Aces of the Galaxy | 15766 | [15766-aces-of-the-galaxy.json](./15766-aces-of-the-galaxy.json) |
@@ -3579,6 +3580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agent USA | 12247 | [12247-agent-usa.json](./12247-agent-usa.json) |
 | Agent Versus | 379515 | [379515-agent-versus.json](./379515-agent-versus.json) |
 | Agent Walker: Secret Journey | 32184 | [32184-agent-walker-secret-journey.json](./32184-agent-walker-secret-journey.json) |
+| Agent X | 159525 | [159525-agent-x.json](./159525-agent-x.json) |
 | Agent X: Equation Rider | 81754 | [81754-agent-x-equation-rider.json](./81754-agent-x-equation-rider.json) |
 | Agent XXL und das Geheimnis der Quadrate | 113470 | [113470-agent-xxl-und-das-geheimnis-der-quadrate.json](./113470-agent-xxl-und-das-geheimnis-der-quadrate.json) |
 | Agent-00 | 140355 | [140355-agent-00.json](./140355-agent-00.json) |
@@ -11001,6 +11003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Artifact Adventure | 26468 | [26468-artifact-adventure.json](./26468-artifact-adventure.json) |
 | Artifact Adventure Gaiden DX | 119527 | [119527-artifact-adventure-gaiden-dx.json](./119527-artifact-adventure-gaiden-dx.json) |
 | Artifact Conquest | 238538 | [238538-artifact-conquest.json](./238538-artifact-conquest.json) |
+| Artifact Foundry | 159594 | [159594-artifact-foundry.json](./159594-artifact-foundry.json) |
 | Artifact Hunter | 156036 | [156036-artifact-hunter.json](./156036-artifact-hunter.json) |
 | Artifact Hunter: The Lost Prophecy | 195014 | [195014-artifact-hunter-the-lost-prophecy.json](./195014-artifact-hunter-the-lost-prophecy.json) |
 | Artifact Quest 2 | 75035 | [75035-artifact-quest-2.json](./75035-artifact-quest-2.json) |
@@ -11831,6 +11834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asteroid Belt | 15602 | [15602-asteroid-belt.json](./15602-asteroid-belt.json) |
 | Asteroid Blaster | 178960 | [178960-asteroid-blaster.json](./178960-asteroid-blaster.json) |
 | Asteroid Blaster | 217824 | [217824-asteroid-blaster.json](./217824-asteroid-blaster.json) |
+| Asteroid Blasters | 160125 | [160125-asteroid-blasters.json](./160125-asteroid-blasters.json) |
 | Asteroid Blockade | 359444 | [359444-asteroid-blockade.json](./359444-asteroid-blockade.json) |
 | Asteroid Bounty Hunter | 20367 | [20367-asteroid-bounty-hunter.json](./20367-asteroid-bounty-hunter.json) |
 | Asteroid Breaker: Avoid the DizAsteroid | 105955 | [105955-asteroid-breaker-avoid-the-dizasteroid.json](./105955-asteroid-breaker-avoid-the-dizasteroid.json) |
