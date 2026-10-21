@@ -5786,7 +5786,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | High Heat Major League Baseball 2003 | 6435 | [6435-high-heat-major-league-baseball-2003.json](./6435-high-heat-major-league-baseball-2003.json) |
 | High Heat Major League Baseball 2004 | 24089 | [24089-high-heat-major-league-baseball-2004.json](./24089-high-heat-major-league-baseball-2004.json) |
 | High Heels! | 241807 | [241807-high-heels.json](./241807-high-heels.json) |
-| High Hell | 56581 | [56581-high-hell.json](./56581-high-hell.json) |
 | High Impact Football | 40061 | [40061-high-impact-football.json](./40061-high-impact-football.json) |
 | High Jinx! | 217977 | [217977-high-jinx.json](./217977-high-jinx.json) |
 | High Jump | 247048 | [247048-high-jump.json](./247048-high-jump.json) |
@@ -6171,7 +6170,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Himitsu no AiPri | 284918 | [284918-himitsu-no-aipri.json](./284918-himitsu-no-aipri.json) |
 | Himitsu Sentai Metamor V | 107629 | [107629-himitsu-sentai-metamor-v.json](./107629-himitsu-sentai-metamor-v.json) |
 | Himmapan Marshmello Saga | 367516 | [367516-himmapan-marshmello-saga.json](./367516-himmapan-marshmello-saga.json) |
-| Himno | 116305 | [116305-himno.json](./116305-himno.json) |
 | Himno 2 | 118169 | [118169-himno-2.json](./118169-himno-2.json) |
 | Himno: The Silent Melody | 120166 | [120166-himno-the-silent-melody.json](./120166-himno-the-silent-melody.json) |
 | Himouto! Umaru-chan: Umaru Training Plan | 12379 | [12379-himouto-umaru-chan-umaru-training-plan.json](./12379-himouto-umaru-chan-umaru-training-plan.json) |
@@ -9518,7 +9516,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyke: Northern Light(s) - A Witch’s Chill Time | 399417 | [399417-hyke-northern-light-s-a-witch-s-chill-time.json](./399417-hyke-northern-light-s-a-witch-s-chill-time.json) |
 | Hykee: Episode 1 - Underwater | 93787 | [93787-hykee-episode-1-underwater.json](./93787-hykee-episode-1-underwater.json) |
 | Hylics | 11599 | [11599-hylics.json](./11599-hylics.json) |
-| Hylics 2 | 98469 | [98469-hylics-2.json](./98469-hylics-2.json) |
 | Hymeno Striker: Akashicverse Minigame | 171597 | [171597-hymeno-striker-akashicverse-minigame.json](./171597-hymeno-striker-akashicverse-minigame.json) |
 | Hymn | 183937 | [183937-hymn.json](./183937-hymn.json) |
 | Hymn to the Earless God | 263959 | [263959-hymn-to-the-earless-god.json](./263959-hymn-to-the-earless-god.json) |
