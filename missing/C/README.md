@@ -5564,7 +5564,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Children of the Spring | 363155 | [363155-children-of-the-spring.json](./363155-children-of-the-spring.json) |
 | Children of the World | 256901 | [256901-children-of-the-world.json](./256901-children-of-the-world.json) |
 | Children's Garden | 323505 | [323505-childrens-garden.json](./323505-childrens-garden.json) |
+| Children's Jigsaw Puzzles | 162213 | [162213-childrens-jigsaw-puzzles.json](./162213-childrens-jigsaw-puzzles.json) |
+| Children's Jigsaw Puzzles: A Warm Story | 162221 | [162221-childrens-jigsaw-puzzles-a-warm-story.json](./162221-childrens-jigsaw-puzzles-a-warm-story.json) |
 | Children's Jigsaw Puzzles: Beautifully Illustrated - Expansion Pack | 225859 | [225859-childrens-jigsaw-puzzles-beautifully-illustrated-expansion-pack.json](./225859-childrens-jigsaw-puzzles-beautifully-illustrated-expansion-pack.json) |
+| Children's Jigsaw Puzzles: Fairy Tale | 162220 | [162220-childrens-jigsaw-puzzles-fairy-tale.json](./162220-childrens-jigsaw-puzzles-fairy-tale.json) |
+| Children's Jigsaw Puzzles: Magic Kindergarten | 162222 | [162222-childrens-jigsaw-puzzles-magic-kindergarten.json](./162222-childrens-jigsaw-puzzles-magic-kindergarten.json) |
 | Children's Musical Theatre | 45894 | [45894-childrens-musical-theatre.json](./45894-childrens-musical-theatre.json) |
 | ChildrenBreak | 97239 | [97239-childrenbreak.json](./97239-childrenbreak.json) |
 | Chili Con Carnage | 23111 | [23111-chili-con-carnage.json](./23111-chili-con-carnage.json) |
@@ -7462,9 +7466,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Classic Jigsaw Puzzles: Animals | 162202 | [162202-classic-jigsaw-puzzles-animals.json](./162202-classic-jigsaw-puzzles-animals.json) |
 | Classic Jigsaw Puzzles: Beautifully Illustrated | 162198 | [162198-classic-jigsaw-puzzles-beautifully-illustrated.json](./162198-classic-jigsaw-puzzles-beautifully-illustrated.json) |
 | Classic Jigsaw Puzzles: Forest Jigsaw Puzzles | 162203 | [162203-classic-jigsaw-puzzles-forest-jigsaw-puzzles.json](./162203-classic-jigsaw-puzzles-forest-jigsaw-puzzles.json) |
+| Classic Jigsaw Puzzles: Galaxy | 162226 | [162226-classic-jigsaw-puzzles-galaxy.json](./162226-classic-jigsaw-puzzles-galaxy.json) |
 | Classic Jigsaw Puzzles: Gardens | 162227 | [162227-classic-jigsaw-puzzles-gardens.json](./162227-classic-jigsaw-puzzles-gardens.json) |
 | Classic Jigsaw Puzzles: House | 162200 | [162200-classic-jigsaw-puzzles-house.json](./162200-classic-jigsaw-puzzles-house.json) |
+| Classic Jigsaw Puzzles: Pastry Shop | 162223 | [162223-classic-jigsaw-puzzles-pastry-shop.json](./162223-classic-jigsaw-puzzles-pastry-shop.json) |
 | Classic Jigsaw Puzzles: Puppy | 162201 | [162201-classic-jigsaw-puzzles-puppy.json](./162201-classic-jigsaw-puzzles-puppy.json) |
+| Classic Jigsaw Puzzles: Under the Sea | 162225 | [162225-classic-jigsaw-puzzles-under-the-sea.json](./162225-classic-jigsaw-puzzles-under-the-sea.json) |
+| Classic Jigsaw Puzzles: Waterfalls | 162224 | [162224-classic-jigsaw-puzzles-waterfalls.json](./162224-classic-jigsaw-puzzles-waterfalls.json) |
 | Classic Journey | 219109 | [219109-classic-journey.json](./219109-classic-journey.json) |
 | Classic Journey: Nitro | 219175 | [219175-classic-journey-nitro.json](./219175-classic-journey-nitro.json) |
 | Classic Kakuro | 206972 | [206972-classic-kakuro.json](./206972-classic-kakuro.json) |
