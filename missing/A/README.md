@@ -2764,6 +2764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures in the Galaxy of Fantabulous Wonderment | 23739 | [23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json](./23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json) |
 | Adventures in the Light & Dark | 102316 | [102316-adventures-in-the-light-and-dark.json](./102316-adventures-in-the-light-and-dark.json) |
 | Adventures in the Magic Kingdom | 8130 | [8130-adventures-in-the-magic-kingdom.json](./8130-adventures-in-the-magic-kingdom.json) |
+| Adventures In Time & Space | 342233 | [342233-adventures-in-time-and-space.json](./342233-adventures-in-time-and-space.json) |
 | Adventures of a Radish | 134695 | [134695-adventures-of-a-radish.json](./134695-adventures-of-a-radish.json) |
 | Adventures of a Snowboarder | 367720 | [367720-adventures-of-a-snowboarder.json](./367720-adventures-of-a-snowboarder.json) |
 | Adventures of Abrix | 29918 | [29918-adventures-of-abrix.json](./29918-adventures-of-abrix.json) |
@@ -7818,6 +7819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime: Fantasy Uni | 393625 | [393625-anime-fantasy-uni.json](./393625-anime-fantasy-uni.json) |
 | Anime: Fantasy Uni 3 | 392866 | [392866-anime-fantasy-uni-3.json](./392866-anime-fantasy-uni-3.json) |
 | Anime: Japanese Goblins | 293364 | [293364-anime-japanese-goblins.json](./293364-anime-japanese-goblins.json) |
+| Anime: Jigsaw Puzzles | 162218 | [162218-anime-jigsaw-puzzles.json](./162218-anime-jigsaw-puzzles.json) |
 | Anime: World War II | 148702 | [148702-anime-world-war-ii.json](./148702-anime-world-war-ii.json) |
 | Anime: World War II - Nazi Zombies | 172372 | [172372-anime-world-war-ii-nazi-zombies.json](./172372-anime-world-war-ii-nazi-zombies.json) |
 | Animeahikoaprinceaverse A4: Prince Akihiko & Princess A | 303154 | [303154-animeahikoaprinceaverse-a4-prince-akihiko-and-princess-a.json](./303154-animeahikoaprinceaverse-a4-prince-akihiko-and-princess-a.json) |
@@ -11418,6 +11420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asmik-kun World 2 | 7798 | [7798-asmik-kun-world-2.json](./7798-asmik-kun-world-2.json) |
 | Asmodeus | 261748 | [261748-asmodeus.json](./261748-asmodeus.json) |
 | Asmodeus's Hell: Devil in the Sunshine State | 225753 | [225753-asmodeuss-hell-devil-in-the-sunshine-state.json](./225753-asmodeuss-hell-devil-in-the-sunshine-state.json) |
+| ASMR Journey: Animated Jigsaw Puzzle | 162215 | [162215-asmr-journey-animated-jigsaw-puzzle.json](./162215-asmr-journey-animated-jigsaw-puzzle.json) |
 | ASMR Lightness: Light painting | 148417 | [148417-asmr-lightness-light-painting.json](./148417-asmr-lightness-light-painting.json) |
 | ASMR Pressure Wash VR | 372540 | [372540-asmr-pressure-wash-vr.json](./372540-asmr-pressure-wash-vr.json) |
 | ASMR Slicing | 254179 | [254179-asmr-slicing.json](./254179-asmr-slicing.json) |
@@ -12572,6 +12575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Athena Cykes: Ace Attorney - Locks on the Heart | 306604 | [306604-athena-cykes-ace-attorney-locks-on-the-heart.json](./306604-athena-cykes-ace-attorney-locks-on-the-heart.json) |
 | Athena Cykes: Ace Attorney - Trials of time. | 305191 | [305191-athena-cykes-ace-attorney-trials-of-time.json](./305191-athena-cykes-ace-attorney-trials-of-time.json) |
 | Athena no Kateiban: Family Games | 285988 | [285988-athena-no-kateiban-family-games.json](./285988-athena-no-kateiban-family-games.json) |
+| Athena, the rabbit: Jigsaw Puzzle | 162206 | [162206-athena-the-rabbit-jigsaw-puzzle.json](./162206-athena-the-rabbit-jigsaw-puzzle.json) |
 | Athena: Awakening from the Ordinary Life | 43832 | [43832-athena-awakening-from-the-ordinary-life.json](./43832-athena-awakening-from-the-ordinary-life.json) |
 | Athena: Full Throttle | 55894 | [55894-athena-full-throttle.json](./55894-athena-full-throttle.json) |
 | Athena's Circus | 334505 | [334505-athenas-circus.json](./334505-athenas-circus.json) |
