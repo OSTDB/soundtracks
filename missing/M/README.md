@@ -1486,6 +1486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong Magic Islands | 74386 | [74386-mahjong-magic-islands.json](./74386-mahjong-magic-islands.json) |
 | Mahjong Magic Journey | 90763 | [90763-mahjong-magic-journey.json](./90763-mahjong-magic-journey.json) |
 | Mahjong Master | 85994 | [85994-mahjong-master.json](./85994-mahjong-master.json) |
+| Mahjong Masters | 163164 | [163164-mahjong-masters.json](./163164-mahjong-masters.json) |
 | Mahjong Masters Club | 385090 | [385090-mahjong-masters-club.json](./385090-mahjong-masters-club.json) |
 | Mahjong Masters: Temple of the Ten Gods | 43539 | [43539-mahjong-masters-temple-of-the-ten-gods.json](./43539-mahjong-masters-temple-of-the-ten-gods.json) |
 | Mahjong Match | 83156 | [83156-mahjong-match.json](./83156-mahjong-match.json) |
@@ -7233,6 +7234,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merica Tale | 367500 | [367500-merica-tale.json](./367500-merica-tale.json) |
 | Meridian | 312177 | [312177-meridian.json](./312177-meridian.json) |
 | Meridian 157: Chapter 1 | 148844 | [148844-meridian-157-chapter-1.json](./148844-meridian-157-chapter-1.json) |
+| Meridian 157: Chapter 2 | 163245 | [163245-meridian-157-chapter-2.json](./163245-meridian-157-chapter-2.json) |
+| Meridian 157: Chapter 3 | 163246 | [163246-meridian-157-chapter-3.json](./163246-meridian-157-chapter-3.json) |
 | Meridian 157: Prologue | 219133 | [219133-meridian-157-prologue.json](./219133-meridian-157-prologue.json) |
 | Meridian 59 | 18342 | [18342-meridian-59.json](./18342-meridian-59.json) |
 | Meridian: Age of Invention | 34578 | [34578-meridian-age-of-invention.json](./34578-meridian-age-of-invention.json) |
