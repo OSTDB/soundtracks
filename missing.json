@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-21T22:18:48.330Z",
-  "total_missing": 243835,
+  "generated_at": "2026-10-21T22:33:55.395Z",
+  "total_missing": 243885,
   "games": [
     {
       "igdb_id": 191680,
@@ -148047,6 +148047,11 @@
       "file": "missing/B/394381-build-a-bank-tycoon.json"
     },
     {
+      "igdb_id": 158391,
+      "game_name": "Build a Boss",
+      "file": "missing/B/158391-build-a-boss.json"
+    },
+    {
       "igdb_id": 114190,
       "game_name": "Build a Bridge!",
       "file": "missing/B/114190-build-a-bridge.json"
@@ -271762,6 +271767,11 @@
       "file": "missing/D/33792-discouraged-workers-teen-version.json"
     },
     {
+      "igdb_id": 158395,
+      "game_name": "Discover girl",
+      "file": "missing/D/158395-discover-girl.json"
+    },
+    {
       "igdb_id": 153577,
       "game_name": "Discover My Body",
       "file": "missing/D/153577-discover-my-body.json"
@@ -363160,6 +363170,11 @@
       "igdb_id": 129025,
       "game_name": "First Day: Home Defender",
       "file": "missing/F/129025-first-day-home-defender.json"
+    },
+    {
+      "igdb_id": 158387,
+      "game_name": "First Days of Atlantis",
+      "file": "missing/F/158387-first-days-of-atlantis.json"
     },
     {
       "igdb_id": 215296,
@@ -505842,6 +505857,11 @@
       "file": "missing/I/179526-internship-adventure.json"
     },
     {
+      "igdb_id": 158389,
+      "game_name": "Internship Detective",
+      "file": "missing/I/158389-internship-detective.json"
+    },
+    {
       "igdb_id": 247942,
       "game_name": "Internull",
       "file": "missing/I/247942-internull.json"
@@ -532915,6 +532935,11 @@
       "igdb_id": 228575,
       "game_name": "Karamuu-chou no Daijiken",
       "file": "missing/K/228575-karamuu-chou-no-daijiken.json"
+    },
+    {
+      "igdb_id": 158392,
+      "game_name": "Karanos Solitaire",
+      "file": "missing/K/158392-karanos-solitaire.json"
     },
     {
       "igdb_id": 392176,
@@ -673512,6 +673537,11 @@
       "file": "missing/M/388229-my-personal-hater.json"
     },
     {
+      "igdb_id": 158390,
+      "game_name": "My Personal Hilopet",
+      "file": "missing/M/158390-my-personal-hilopet.json"
+    },
+    {
       "igdb_id": 245431,
       "game_name": "My Pet",
       "file": "missing/M/245431-my-pet.json"
@@ -792350,6 +792380,11 @@
       "igdb_id": 202549,
       "game_name": "Project Gunship",
       "file": "missing/P/202549-project-gunship.json"
+    },
+    {
+      "igdb_id": 158393,
+      "game_name": "Project H",
+      "file": "missing/P/158393-project-h.json"
     },
     {
       "igdb_id": 216218,
@@ -912257,6 +912292,11 @@
       "file": "missing/S/73336-slimy-petes-singles-bar.json"
     },
     {
+      "igdb_id": 158396,
+      "game_name": "Slimy Sextet",
+      "file": "missing/S/158396-slimy-sextet.json"
+    },
+    {
       "igdb_id": 106571,
       "game_name": "Slimy Snail Ride",
       "file": "missing/S/106571-slimy-snail-ride.json"
@@ -943540,6 +943580,11 @@
       "igdb_id": 15469,
       "game_name": "Spinmaster",
       "file": "missing/S/15469-spinmaster.json"
+    },
+    {
+      "igdb_id": 158388,
+      "game_name": "Spinner Breaker",
+      "file": "missing/S/158388-spinner-breaker.json"
     },
     {
       "igdb_id": 56375,
@@ -994045,6 +994090,11 @@
       "igdb_id": 147380,
       "game_name": "Sweet Desire",
       "file": "missing/S/147380-sweet-desire.json"
+    },
+    {
+      "igdb_id": 158394,
+      "game_name": "Sweet Desire 2",
+      "file": "missing/S/158394-sweet-desire-2.json"
     },
     {
       "igdb_id": 189983,
@@ -1209962,6 +1210012,11 @@
       "file": "missing/Z/158490-zaccaria-pinball-aerobatics-table.json"
     },
     {
+      "igdb_id": 158475,
+      "game_name": "Zaccaria Pinball: Blackbelt 2018 Table",
+      "file": "missing/Z/158475-zaccaria-pinball-blackbelt-2018-table.json"
+    },
+    {
       "igdb_id": 349924,
       "game_name": "Zaccaria Pinball: Blackbelt Deluxe Pinball Table",
       "file": "missing/Z/349924-zaccaria-pinball-blackbelt-deluxe-pinball-table.json"
@@ -1209980,6 +1210035,16 @@
       "igdb_id": 395457,
       "game_name": "Zaccaria Pinball: Chernobylite Table Pack",
       "file": "missing/Z/395457-zaccaria-pinball-chernobylite-table-pack.json"
+    },
+    {
+      "igdb_id": 158478,
+      "game_name": "Zaccaria Pinball: Cine Star Deluxe Pinball Table",
+      "file": "missing/Z/158478-zaccaria-pinball-cine-star-deluxe-pinball-table.json"
+    },
+    {
+      "igdb_id": 158486,
+      "game_name": "Zaccaria Pinball: Cine Star Table",
+      "file": "missing/Z/158486-zaccaria-pinball-cine-star-table.json"
     },
     {
       "igdb_id": 158436,
@@ -1210007,6 +1210072,16 @@
       "file": "missing/Z/158492-zaccaria-pinball-clown-table.json"
     },
     {
+      "igdb_id": 158469,
+      "game_name": "Zaccaria Pinball: Combat 2017 Table",
+      "file": "missing/Z/158469-zaccaria-pinball-combat-2017-table.json"
+    },
+    {
+      "igdb_id": 158449,
+      "game_name": "Zaccaria Pinball: Combat Deluxe Pinball Table",
+      "file": "missing/Z/158449-zaccaria-pinball-combat-deluxe-pinball-table.json"
+    },
+    {
       "igdb_id": 158447,
       "game_name": "Zaccaria Pinball: Combat Table",
       "file": "missing/Z/158447-zaccaria-pinball-combat-table.json"
@@ -1210027,9 +1210102,19 @@
       "file": "missing/Z/208453-zaccaria-pinball-deluxe-tables-pack-1.json"
     },
     {
+      "igdb_id": 158470,
+      "game_name": "Zaccaria Pinball: Devil Riders 2019 Table",
+      "file": "missing/Z/158470-zaccaria-pinball-devil-riders-2019-table.json"
+    },
+    {
       "igdb_id": 158431,
       "game_name": "Zaccaria Pinball: Devil Riders Table",
       "file": "missing/Z/158431-zaccaria-pinball-devil-riders-table.json"
+    },
+    {
+      "igdb_id": 158463,
+      "game_name": "Zaccaria Pinball: Earth Wind Fire 2017 Table",
+      "file": "missing/Z/158463-zaccaria-pinball-earth-wind-fire-2017-table.json"
     },
     {
       "igdb_id": 349922,
@@ -1210057,9 +1210142,29 @@
       "file": "missing/Z/395459-zaccaria-pinball-fallen-aces-table-pack.json"
     },
     {
+      "igdb_id": 158450,
+      "game_name": "Zaccaria Pinball: Farfalla 2017 Table",
+      "file": "missing/Z/158450-zaccaria-pinball-farfalla-2017-table.json"
+    },
+    {
       "igdb_id": 158426,
       "game_name": "Zaccaria Pinball: Farfalla Deluxe Pinball Table",
       "file": "missing/Z/158426-zaccaria-pinball-farfalla-deluxe-pinball-table.json"
+    },
+    {
+      "igdb_id": 158481,
+      "game_name": "Zaccaria Pinball: Farfalla Table",
+      "file": "missing/Z/158481-zaccaria-pinball-farfalla-table.json"
+    },
+    {
+      "igdb_id": 158458,
+      "game_name": "Zaccaria Pinball: Fire Mountain 2019 Table",
+      "file": "missing/Z/158458-zaccaria-pinball-fire-mountain-2019-table.json"
+    },
+    {
+      "igdb_id": 158484,
+      "game_name": "Zaccaria Pinball: Fire Mountain Table",
+      "file": "missing/Z/158484-zaccaria-pinball-fire-mountain-table.json"
     },
     {
       "igdb_id": 158425,
@@ -1210072,9 +1210177,54 @@
       "file": "missing/Z/349923-zaccaria-pinball-future-world-deluxe-pinball-table.json"
     },
     {
+      "igdb_id": 158476,
+      "game_name": "Zaccaria Pinball: Future World Table",
+      "file": "missing/Z/158476-zaccaria-pinball-future-world-table.json"
+    },
+    {
+      "igdb_id": 158468,
+      "game_name": "Zaccaria Pinball: Granada Table",
+      "file": "missing/Z/158468-zaccaria-pinball-granada-table.json"
+    },
+    {
+      "igdb_id": 158462,
+      "game_name": "Zaccaria Pinball: Hot Wheels 2017 Table",
+      "file": "missing/Z/158462-zaccaria-pinball-hot-wheels-2017-table.json"
+    },
+    {
+      "igdb_id": 158454,
+      "game_name": "Zaccaria Pinball: Hot Wheels Table",
+      "file": "missing/Z/158454-zaccaria-pinball-hot-wheels-table.json"
+    },
+    {
+      "igdb_id": 158466,
+      "game_name": "Zaccaria Pinball: House of Diamonds 2017 Table",
+      "file": "missing/Z/158466-zaccaria-pinball-house-of-diamonds-2017-table.json"
+    },
+    {
+      "igdb_id": 158460,
+      "game_name": "Zaccaria Pinball: House of Diamonds Deluxe Pinball Table",
+      "file": "missing/Z/158460-zaccaria-pinball-house-of-diamonds-deluxe-pinball-table.json"
+    },
+    {
+      "igdb_id": 158467,
+      "game_name": "Zaccaria Pinball: House of Diamonds Table",
+      "file": "missing/Z/158467-zaccaria-pinball-house-of-diamonds-table.json"
+    },
+    {
       "igdb_id": 158489,
       "game_name": "Zaccaria Pinball: Locomotion 2018 Table",
       "file": "missing/Z/158489-zaccaria-pinball-locomotion-2018-table.json"
+    },
+    {
+      "igdb_id": 158453,
+      "game_name": "Zaccaria Pinball: Locomotion Table",
+      "file": "missing/Z/158453-zaccaria-pinball-locomotion-table.json"
+    },
+    {
+      "igdb_id": 158452,
+      "game_name": "Zaccaria Pinball: Lucky Fruit Table",
+      "file": "missing/Z/158452-zaccaria-pinball-lucky-fruit-table.json"
     },
     {
       "igdb_id": 158434,
@@ -1210107,6 +1210257,21 @@
       "file": "missing/Z/349918-zaccaria-pinball-moon-flight-deluxe-pinball-table.json"
     },
     {
+      "igdb_id": 158464,
+      "game_name": "Zaccaria Pinball: Moon Flight Table",
+      "file": "missing/Z/158464-zaccaria-pinball-moon-flight-table.json"
+    },
+    {
+      "igdb_id": 158465,
+      "game_name": "Zaccaria Pinball: Mystic Star Table",
+      "file": "missing/Z/158465-zaccaria-pinball-mystic-star-table.json"
+    },
+    {
+      "igdb_id": 158451,
+      "game_name": "Zaccaria Pinball: Nautilus 2018 Table",
+      "file": "missing/Z/158451-zaccaria-pinball-nautilus-2018-table.json"
+    },
+    {
       "igdb_id": 158493,
       "game_name": "Zaccaria Pinball: Nautilus Table",
       "file": "missing/Z/158493-zaccaria-pinball-nautilus-table.json"
@@ -1210122,9 +1210287,19 @@
       "file": "missing/Z/349919-zaccaria-pinball-pinball-champ-deluxe-pinball-table.json"
     },
     {
+      "igdb_id": 158461,
+      "game_name": "Zaccaria Pinball: Pinball Champ Table Pack",
+      "file": "missing/Z/158461-zaccaria-pinball-pinball-champ-table-pack.json"
+    },
+    {
       "igdb_id": 156105,
       "game_name": "Zaccaria Pinball: Pool Champion 2018 Table",
       "file": "missing/Z/156105-zaccaria-pinball-pool-champion-2018-table.json"
+    },
+    {
+      "igdb_id": 158473,
+      "game_name": "Zaccaria Pinball: Pool Champion Deluxe Pinball Table",
+      "file": "missing/Z/158473-zaccaria-pinball-pool-champion-deluxe-pinball-table.json"
     },
     {
       "igdb_id": 158445,
@@ -1210140,6 +1210315,11 @@
       "igdb_id": 193104,
       "game_name": "Zaccaria Pinball: Postal Redux Pinball Pack",
       "file": "missing/Z/193104-zaccaria-pinball-postal-redux-pinball-pack.json"
+    },
+    {
+      "igdb_id": 158479,
+      "game_name": "Zaccaria Pinball: Red Show Deluxe Pinball Table",
+      "file": "missing/Z/158479-zaccaria-pinball-red-show-deluxe-pinball-table.json"
     },
     {
       "igdb_id": 158446,
@@ -1210167,6 +1210347,16 @@
       "file": "missing/Z/158435-zaccaria-pinball-robot-2018-table.json"
     },
     {
+      "igdb_id": 158457,
+      "game_name": "Zaccaria Pinball: Robot Deluxe Pinball Table",
+      "file": "missing/Z/158457-zaccaria-pinball-robot-deluxe-pinball-table.json"
+    },
+    {
+      "igdb_id": 158455,
+      "game_name": "Zaccaria Pinball: Robot Table",
+      "file": "missing/Z/158455-zaccaria-pinball-robot-table.json"
+    },
+    {
       "igdb_id": 156099,
       "game_name": "Zaccaria Pinball: Shooting the Rapids",
       "file": "missing/Z/156099-zaccaria-pinball-shooting-the-rapids.json"
@@ -1210185,6 +1210375,11 @@
       "igdb_id": 349917,
       "game_name": "Zaccaria Pinball: Soccer Kings Deluxe Pinball Table",
       "file": "missing/Z/349917-zaccaria-pinball-soccer-kings-deluxe-pinball-table.json"
+    },
+    {
+      "igdb_id": 158471,
+      "game_name": "Zaccaria Pinball: Soccer Kings Table",
+      "file": "missing/Z/158471-zaccaria-pinball-soccer-kings-table.json"
     },
     {
       "igdb_id": 237985,
@@ -1210212,6 +1210407,11 @@
       "file": "missing/Z/158444-zaccaria-pinball-spooky-2017-table.json"
     },
     {
+      "igdb_id": 158474,
+      "game_name": "Zaccaria Pinball: Spooky Deluxe Pinball Table",
+      "file": "missing/Z/158474-zaccaria-pinball-spooky-deluxe-pinball-table.json"
+    },
+    {
       "igdb_id": 158427,
       "game_name": "Zaccaria Pinball: Spooky Table",
       "file": "missing/Z/158427-zaccaria-pinball-spooky-table.json"
@@ -1210220,6 +1210420,11 @@
       "igdb_id": 158443,
       "game_name": "Zaccaria Pinball: Star God 2019 Table",
       "file": "missing/Z/158443-zaccaria-pinball-star-god-2019-table.json"
+    },
+    {
+      "igdb_id": 158472,
+      "game_name": "Zaccaria Pinball: Star God Table",
+      "file": "missing/Z/158472-zaccaria-pinball-star-god-table.json"
     },
     {
       "igdb_id": 158438,
@@ -1210237,6 +1210442,11 @@
       "file": "missing/Z/158442-zaccaria-pinball-strike-deluxe-pinball-table.json"
     },
     {
+      "igdb_id": 158480,
+      "game_name": "Zaccaria Pinball: Strike Table",
+      "file": "missing/Z/158480-zaccaria-pinball-strike-table.json"
+    },
+    {
       "igdb_id": 349916,
       "game_name": "Zaccaria Pinball: Supersonic Deluxe Pinball Table",
       "file": "missing/Z/349916-zaccaria-pinball-supersonic-deluxe-pinball-table.json"
@@ -1210252,9 +1210462,39 @@
       "file": "missing/Z/158440-zaccaria-pinball-time-machine-2019-table.json"
     },
     {
+      "igdb_id": 158456,
+      "game_name": "Zaccaria Pinball: Top Hand Table",
+      "file": "missing/Z/158456-zaccaria-pinball-top-hand-table.json"
+    },
+    {
+      "igdb_id": 158477,
+      "game_name": "Zaccaria Pinball: Tropical 2019 Table",
+      "file": "missing/Z/158477-zaccaria-pinball-tropical-2019-table.json"
+    },
+    {
       "igdb_id": 349921,
       "game_name": "Zaccaria Pinball: Tropical Deluxe Pinball Table",
       "file": "missing/Z/349921-zaccaria-pinball-tropical-deluxe-pinball-table.json"
+    },
+    {
+      "igdb_id": 158487,
+      "game_name": "Zaccaria Pinball: Tropical Table",
+      "file": "missing/Z/158487-zaccaria-pinball-tropical-table.json"
+    },
+    {
+      "igdb_id": 158459,
+      "game_name": "Zaccaria Pinball: Universe Deluxe Pinball Table",
+      "file": "missing/Z/158459-zaccaria-pinball-universe-deluxe-pinball-table.json"
+    },
+    {
+      "igdb_id": 158488,
+      "game_name": "Zaccaria Pinball: Universe Table",
+      "file": "missing/Z/158488-zaccaria-pinball-universe-table.json"
+    },
+    {
+      "igdb_id": 158482,
+      "game_name": "Zaccaria Pinball: Winter Sports 2018 Table",
+      "file": "missing/Z/158482-zaccaria-pinball-winter-sports-2018-table.json"
     },
     {
       "igdb_id": 158439,
@@ -1210265,6 +1210505,16 @@
       "igdb_id": 158495,
       "game_name": "Zaccaria Pinball: Wood's Queen 2019 Table",
       "file": "missing/Z/158495-zaccaria-pinball-woods-queen-2019-table.json"
+    },
+    {
+      "igdb_id": 158485,
+      "game_name": "Zaccaria Pinball: Wood's Queen Table",
+      "file": "missing/Z/158485-zaccaria-pinball-woods-queen-table.json"
+    },
+    {
+      "igdb_id": 158483,
+      "game_name": "Zaccaria Pinball: Zankor 2017 Table",
+      "file": "missing/Z/158483-zaccaria-pinball-zankor-2017-table.json"
     },
     {
       "igdb_id": 158491,
