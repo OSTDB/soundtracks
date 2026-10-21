@@ -7045,7 +7045,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grim Borough | 297238 | [297238-grim-borough.json](./297238-grim-borough.json) |
 | Grim Chronicles: Superior Sorcery | 416700 | [416700-grim-chronicles-superior-sorcery.json](./416700-grim-chronicles-superior-sorcery.json) |
 | Grim Clicker | 123830 | [123830-grim-clicker.json](./123830-grim-clicker.json) |
-| Grim Dawn: Ashes of Malmouth | 75682 | [75682-grim-dawn-ashes-of-malmouth.json](./75682-grim-dawn-ashes-of-malmouth.json) |
 | Grim Dawn: Crucible Mode DLC | 75683 | [75683-grim-dawn-crucible-mode-dlc.json](./75683-grim-dawn-crucible-mode-dlc.json) |
 | Grim Dawn: Fangs of Asterkarn | 298931 | [298931-grim-dawn-fangs-of-asterkarn.json](./298931-grim-dawn-fangs-of-asterkarn.json) |
 | Grim Dice | 401023 | [401023-grim-dice.json](./401023-grim-dice.json) |
