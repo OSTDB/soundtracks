@@ -3092,6 +3092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell Express | 340274 | [340274-hell-express.json](./340274-hell-express.json) |
 | Hell Fighter | 242108 | [242108-hell-fighter.json](./242108-hell-fighter.json) |
 | Hell Fire: Seed of Calamity | 418727 | [418727-hell-fire-seed-of-calamity.json](./418727-hell-fire-seed-of-calamity.json) |
+| Hell Firefighter | 156932 | [156932-hell-firefighter.json](./156932-hell-firefighter.json) |
 | Hell Forest | 411794 | [411794-hell-forest.json](./411794-hell-forest.json) |
 | Hell Forged | 141139 | [141139-hell-forged.json](./141139-hell-forged.json) |
 | Hell Frontier | 319652 | [319652-hell-frontier.json](./319652-hell-frontier.json) |
@@ -4495,6 +4496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero of the Obelisk | 23551 | [23551-hero-of-the-obelisk.json](./23551-hero-of-the-obelisk.json) |
 | Hero Online | 253782 | [253782-hero-online.json](./253782-hero-online.json) |
 | Hero or Foe | 173232 | [173232-hero-or-foe.json](./173232-hero-or-foe.json) |
+| Hero or Villain: Battle Royale | 156927 | [156927-hero-or-villain-battle-royale.json](./156927-hero-or-villain-battle-royale.json) |
 | Hero or Villain: Genesis - Supercharged! | 265354 | [265354-hero-or-villain-genesis-supercharged.json](./265354-hero-or-villain-genesis-supercharged.json) |
 | Hero Pack | 340466 | [340466-hero-pack.json](./340466-hero-pack.json) |
 | Hero Panda Bomber | 60794 | [60794-hero-panda-bomber.json](./60794-hero-panda-bomber.json) |
