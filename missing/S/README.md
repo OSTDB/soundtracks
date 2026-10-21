@@ -1669,6 +1669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Satsuki-iro no Sora ni | 412795 | [412795-satsuki-iro-no-sora-ni.json](./412795-satsuki-iro-no-sora-ni.json) |
 | Saturated Outer Space | 116836 | [116836-saturated-outer-space.json](./116836-saturated-outer-space.json) |
 | Saturday AM: Battle Manga | 382452 | [382452-saturday-am-battle-manga.json](./382452-saturday-am-battle-manga.json) |
+| Saturday Morning Rogue | 159528 | [159528-saturday-morning-rogue.json](./159528-saturday-morning-rogue.json) |
 | Saturday Morning Sandbox | 163032 | [163032-saturday-morning-sandbox.json](./163032-saturday-morning-sandbox.json) |
 | Saturday Night at Freddy's | 406253 | [406253-saturday-night-at-freddys.json](./406253-saturday-night-at-freddys.json) |
 | Saturday Night is the Loneliest Night of the Week | 230855 | [230855-saturday-night-is-the-loneliest-night-of-the-week.json](./230855-saturday-night-is-the-loneliest-night-of-the-week.json) |
@@ -5788,6 +5789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shark | 110852 | [110852-shark.json](./110852-shark.json) |
 | Shark Assault Simulator | 202542 | [202542-shark-assault-simulator.json](./202542-shark-assault-simulator.json) |
 | Shark Attack | 134536 | [134536-shark-attack.json](./134536-shark-attack.json) |
+| Shark Attack | 160183 | [160183-shark-attack.json](./160183-shark-attack.json) |
 | Shark Attack | 281026 | [281026-shark-attack.json](./281026-shark-attack.json) |
 | Shark Bridge Card Game | 87120 | [87120-shark-bridge-card-game.json](./87120-shark-bridge-card-game.json) |
 | Shark Castle | 123556 | [123556-shark-castle.json](./123556-shark-castle.json) |
@@ -5992,6 +5994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sheep happens | 19500 | [19500-sheep-happens.json](./19500-sheep-happens.json) |
 | Sheep in Love | 245017 | [245017-sheep-in-love.json](./245017-sheep-in-love.json) |
 | Sheep In Space | 18561 | [18561-sheep-in-space.json](./18561-sheep-in-space.json) |
+| Sheep Island | 160195 | [160195-sheep-island.json](./160195-sheep-island.json) |
 | Sheep Island | 373072 | [373072-sheep-island.json](./373072-sheep-island.json) |
 | Sheep It Up! | 195590 | [195590-sheep-it-up.json](./195590-sheep-it-up.json) |
 | Sheep Lad | 236759 | [236759-sheep-lad.json](./236759-sheep-lad.json) |
@@ -7633,6 +7636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sick Samurai | 317516 | [317516-sick-samurai.json](./317516-sick-samurai.json) |
 | Sick Way | 127087 | [127087-sick-way.json](./127087-sick-way.json) |
 | Sickly Days and Summer Traces | 343869 | [343869-sickly-days-and-summer-traces.json](./343869-sickly-days-and-summer-traces.json) |
+| Sicko Island | 160200 | [160200-sicko-island.json](./160200-sicko-island.json) |
 | Sicko Sanctum 2 | 273904 | [273904-sicko-sanctum-2.json](./273904-sicko-sanctum-2.json) |
 | Sico: Special Insurgency Counter Operations | 174813 | [174813-sico-special-insurgency-counter-operations.json](./174813-sico-special-insurgency-counter-operations.json) |
 | Sid & Al's Incredible Toons | 80152 | [80152-sid-and-als-incredible-toons.json](./80152-sid-and-als-incredible-toons.json) |
@@ -11885,6 +11889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snowboarder XS | 325285 | [325285-snowboarder-xs.json](./325285-snowboarder-xs.json) |
 | Snowboarders: Kiri Adventures | 297562 | [297562-snowboarders-kiri-adventures.json](./297562-snowboarders-kiri-adventures.json) |
 | Snowboarding | 152929 | [152929-snowboarding.json](./152929-snowboarding.json) |
+| Snowboarding | 159601 | [159601-snowboarding.json](./159601-snowboarding.json) |
 | Snowboarding | 19688 | [19688-snowboarding.json](./19688-snowboarding.json) |
 | Snowboarding | 230837 | [230837-snowboarding.json](./230837-snowboarding.json) |
 | Snowboarding | 358843 | [358843-snowboarding.json](./358843-snowboarding.json) |
@@ -18225,6 +18230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stand O'Food | 66976 | [66976-stand-ofood.json](./66976-stand-ofood.json) |
 | Stand O'Food 3 | 87189 | [87189-stand-ofood-3.json](./87189-stand-ofood-3.json) |
 | Stand O'Food City: Virtual Frenzy | 88628 | [88628-stand-ofood-city-virtual-frenzy.json](./88628-stand-ofood-city-virtual-frenzy.json) |
+| Stand of Arms | 159527 | [159527-stand-of-arms.json](./159527-stand-of-arms.json) |
 | Stand Out: VR Battle Royale | 115729 | [115729-stand-out-vr-battle-royale.json](./115729-stand-out-vr-battle-royale.json) |
 | Stand Your Ground | 259098 | [259098-stand-your-ground.json](./259098-stand-your-ground.json) |
 | Stand Your Ground | 266971 | [266971-stand-your-ground.json](./266971-stand-your-ground.json) |
@@ -19043,6 +19049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starazius | 122423 | [122423-starazius.json](./122423-starazius.json) |
 | Starback: Planetdestroyer Redux | 101724 | [101724-starback-planetdestroyer-redux.json](./101724-starback-planetdestroyer-redux.json) |
 | Starball | 85988 | [85988-starball.json](./85988-starball.json) |
+| StarBall | 159592 | [159592-starball.json](./159592-starball.json) |
 | Starbase Gunship | 192772 | [192772-starbase-gunship.json](./192772-starbase-gunship.json) |
 | Starbase Hyperion | 282149 | [282149-starbase-hyperion.json](./282149-starbase-hyperion.json) |
 | StarbaseSim | 315319 | [315319-starbasesim.json](./315319-starbasesim.json) |
@@ -20419,6 +20426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stereoronpa | 389664 | [389664-stereoronpa.json](./389664-stereoronpa.json) |
 | Sterile | 354590 | [354590-sterile.json](./354590-sterile.json) |
 | Sterling Shroud | 327635 | [327635-sterling-shroud.json](./327635-sterling-shroud.json) |
+| Stern | 159526 | [159526-stern.json](./159526-stern.json) |
 | Stern Pinball Arcade | 30288 | [30288-stern-pinball-arcade.json](./30288-stern-pinball-arcade.json) |
 | Stern Pinball Arcade: AC/DC | 161229 | [161229-stern-pinball-arcade-ac-dc.json](./161229-stern-pinball-arcade-ac-dc.json) |
 | Stern Pinball Arcade: AC/DC Premium | 317290 | [317290-stern-pinball-arcade-ac-dc-premium.json](./317290-stern-pinball-arcade-ac-dc-premium.json) |
@@ -21406,6 +21414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stream Runners: Heroes | 232972 | [232972-stream-runners-heroes.json](./232972-stream-runners-heroes.json) |
 | Stream Service | 286751 | [286751-stream-service.json](./286751-stream-service.json) |
 | Stream Siege | 410790 | [410790-stream-siege.json](./410790-stream-siege.json) |
+| Stream Smash | 160052 | [160052-stream-smash.json](./160052-stream-smash.json) |
 | Stream Star: Sensations | 334531 | [334531-stream-star-sensations.json](./334531-stream-star-sensations.json) |
 | Stream Stratos | 348323 | [348323-stream-stratos.json](./348323-stream-stratos.json) |
 | Stream Town | 143703 | [143703-stream-town.json](./143703-stream-town.json) |
@@ -21441,6 +21450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Streamline | 20178 | [20178-streamline.json](./20178-streamline.json) |
 | Streamline | 81180 | [81180-streamline.json](./81180-streamline.json) |
 | Streamonaire | 215310 | [215310-streamonaire.json](./215310-streamonaire.json) |
+| StreamSavers | 160196 | [160196-streamsavers.json](./160196-streamsavers.json) |
 | Streamtubers | 370565 | [370565-streamtubers.json](./370565-streamtubers.json) |
 | StreamWalker Tribes | 180252 | [180252-streamwalker-tribes.json](./180252-streamwalker-tribes.json) |
 | StreamWare | 278631 | [278631-streamware.json](./278631-streamware.json) |
