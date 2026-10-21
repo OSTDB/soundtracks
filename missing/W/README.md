@@ -3773,6 +3773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wholesome Slaughter | 143014 | [143014-wholesome-slaughter.json](./143014-wholesome-slaughter.json) |
 | Whomp 'Em | 48257 | [48257-whomp-em.json](./48257-whomp-em.json) |
 | Whomper Stomper | 54934 | [54934-whomper-stomper.json](./54934-whomper-stomper.json) |
+| Whone | 161571 | [161571-whone.json](./161571-whone.json) |
 | Whoopi | 338368 | [338368-whoopi.json](./338368-whoopi.json) |
 | Whooshy Dragon | 349932 | [349932-whooshy-dragon.json](./349932-whooshy-dragon.json) |
 | Whoowasit? | 381712 | [381712-whoowasit.json](./381712-whoowasit.json) |
