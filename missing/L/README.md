@@ -1147,6 +1147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Stand | 220603 | [220603-last-stand.json](./220603-last-stand.json) |
 | Last Stand Delivery | 274456 | [274456-last-stand-delivery.json](./274456-last-stand-delivery.json) |
 | Last Stand: Reborn | 113490 | [113490-last-stand-reborn.json](./113490-last-stand-reborn.json) |
+| Last Standing | 156923 | [156923-last-standing.json](./156923-last-standing.json) |
 | Last Standing | 292431 | [292431-last-standing.json](./292431-last-standing.json) |
 | Last Stanza | 105279 | [105279-last-stanza.json](./105279-last-stanza.json) |
 | Last Star | 316097 | [316097-last-star.json](./316097-last-star.json) |
@@ -2641,6 +2642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lemuria | 344427 | [344427-lemuria.json](./344427-lemuria.json) |
 | Lemuria: Lost in Space | 26355 | [26355-lemuria-lost-in-space.json](./26355-lemuria-lost-in-space.json) |
 | Lemurzin | 34116 | [34116-lemurzin.json](./34116-lemurzin.json) |
+| LemWars | 156964 | [156964-lemwars.json](./156964-lemwars.json) |
 | Len'en Monochrome World | 335405 | [335405-lenen-monochrome-world.json](./335405-lenen-monochrome-world.json) |
 | Len'en Mugenri: Evanescent Existence | 125797 | [125797-lenen-mugenri-evanescent-existence.json](./125797-lenen-mugenri-evanescent-existence.json) |
 | Len'en Reiretsuden: Reactivate Majestical Imperial | 125795 | [125795-lenen-reiretsuden-reactivate-majestical-imperial.json](./125795-lenen-reiretsuden-reactivate-majestical-imperial.json) |
@@ -6080,6 +6082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Artifacts: Time Machine | 111226 | [111226-lost-artifacts-time-machine.json](./111226-lost-artifacts-time-machine.json) |
 | Lost Ascension | 260099 | [260099-lost-ascension.json](./260099-lost-ascension.json) |
 | Lost Assassin | 157574 | [157574-lost-assassin.json](./157574-lost-assassin.json) |
+| Lost Astronaut | 156959 | [156959-lost-astronaut.json](./156959-lost-astronaut.json) |
 | Lost Astronaut's Fringes of the Empire | 58906 | [58906-lost-astronauts-fringes-of-the-empire.json](./58906-lost-astronauts-fringes-of-the-empire.json) |
 | Lost at Sea | 209139 | [209139-lost-at-sea.json](./209139-lost-at-sea.json) |
 | Lost At Sea | 134951 | [134951-lost-at-sea.json](./134951-lost-at-sea.json) |
@@ -7766,6 +7769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lux Sine | 149030 | [149030-lux-sine.json](./149030-lux-sine.json) |
 | Lux Ski Jump | 151472 | [151472-lux-ski-jump.json](./151472-lux-ski-jump.json) |
 | Lux umbra | 56595 | [56595-lux-umbra.json](./56595-lux-umbra.json) |
+| Lux, City of Secrets | 156926 | [156926-lux-city-of-secrets.json](./156926-lux-city-of-secrets.json) |
 | Lux: Dream.Girl | 280928 | [280928-lux-dream-girl.json](./280928-lux-dream-girl.json) |
 | Luxaren Allure | 124653 | [124653-luxaren-allure.json](./124653-luxaren-allure.json) |
 | Luxavia | 392356 | [392356-luxavia.json](./392356-luxavia.json) |
