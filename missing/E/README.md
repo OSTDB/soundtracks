@@ -148,6 +148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Early Bird | 368229 | [368229-early-bird.json](./368229-early-bird.json) |
 | Early Kingdom | 363411 | [363411-early-kingdom.json](./363411-early-kingdom.json) |
 | Early Mellow | 296394 | [296394-early-mellow.json](./296394-early-mellow.json) |
+| Early Quest | 160127 | [160127-early-quest.json](./160127-early-quest.json) |
 | Early Quest 2 | 174042 | [174042-early-quest-2.json](./174042-early-quest-2.json) |
 | Early-blooming Black Lily: Hana to Itsuki no Naisho no Hanashi 1 | 276135 | [276135-early-blooming-black-lily-hana-to-itsuki-no-naisho-no-hanashi-1.json](./276135-early-blooming-black-lily-hana-to-itsuki-no-naisho-no-hanashi-1.json) |
 | Early-blooming Black Lily: Itsuki-chan no Obentou | 273344 | [273344-early-blooming-black-lily-itsuki-chan-no-obentou.json](./273344-early-blooming-black-lily-itsuki-chan-no-obentou.json) |
@@ -3707,6 +3708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ero Date | 107822 | [107822-ero-date.json](./107822-ero-date.json) |
 | Ero Manager | 286478 | [286478-ero-manager.json](./286478-ero-manager.json) |
 | Ero Mission | 324014 | [324014-ero-mission.json](./324014-ero-mission.json) |
+| Ero Shooter | 160181 | [160181-ero-shooter.json](./160181-ero-shooter.json) |
 | Ero Snooker | 167585 | [167585-ero-snooker.json](./167585-ero-snooker.json) |
 | Ero Tennis | 169488 | [169488-ero-tennis.json](./169488-ero-tennis.json) |
 | Ero Zemi: Ecchi ni Yaru-ki ni ABC | 194579 | [194579-ero-zemi-ecchi-ni-yaru-ki-ni-abc.json](./194579-ero-zemi-ecchi-ni-yaru-ki-ni-abc.json) |
@@ -4116,6 +4118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape It! | 283621 | [283621-escape-it.json](./283621-escape-it.json) |
 | Escape IV - Prison Break | 90665 | [90665-escape-iv-prison-break.json](./90665-escape-iv-prison-break.json) |
 | Escape Kids | 39867 | [39867-escape-kids.json](./39867-escape-kids.json) |
+| Escape Knox Manor | 157980 | [157980-escape-knox-manor.json](./157980-escape-knox-manor.json) |
 | Escape Lala 2 | 118370 | [118370-escape-lala-2.json](./118370-escape-lala-2.json) |
 | Escape Legacy VR | 113192 | [113192-escape-legacy-vr.json](./113192-escape-legacy-vr.json) |
 | Escape Legacy: Ancient Scrolls | 110733 | [110733-escape-legacy-ancient-scrolls.json](./110733-escape-legacy-ancient-scrolls.json) |
@@ -6055,6 +6058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exploria | 188419 | [188419-exploria.json](./188419-exploria.json) |
 | Exploring Friscott | 345409 | [345409-exploring-friscott.json](./345409-exploring-friscott.json) |
 | Exploring Phonics 1 for Beginners | 334109 | [334109-exploring-phonics-1-for-beginners.json](./334109-exploring-phonics-1-for-beginners.json) |
+| Explory Story | 160203 | [160203-explory-story.json](./160203-explory-story.json) |
 | Explosion | 200466 | [200466-explosion.json](./200466-explosion.json) |
 | Explosionade | 35176 | [35176-explosionade.json](./35176-explosionade.json) |
 | Explosionade DX | 146797 | [146797-explosionade-dx.json](./146797-explosionade-dx.json) |
