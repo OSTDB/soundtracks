@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-21T19:22:05.815Z",
-  "total_missing": 243519,
+  "generated_at": "2026-10-21T19:44:35.820Z",
+  "total_missing": 243500,
   "games": [
     {
       "igdb_id": 191680,
@@ -27030,11 +27030,6 @@
       "igdb_id": 8130,
       "game_name": "Adventures in the Magic Kingdom",
       "file": "missing/A/8130-adventures-in-the-magic-kingdom.json"
-    },
-    {
-      "igdb_id": 342233,
-      "game_name": "Adventures In Time & Space",
-      "file": "missing/A/342233-adventures-in-time-and-space.json"
     },
     {
       "igdb_id": 134695,
@@ -86620,6 +86615,11 @@
       "igdb_id": 243757,
       "game_name": "Bad Piggies Build",
       "file": "missing/B/243757-bad-piggies-build.json"
+    },
+    {
+      "igdb_id": 221410,
+      "game_name": "Bad Piggies HD",
+      "file": "missing/B/221410-bad-piggies-hd.json"
     },
     {
       "igdb_id": 243756,
@@ -175655,11 +175655,6 @@
       "igdb_id": 283375,
       "game_name": "Changeable Guardian Estique",
       "file": "missing/C/283375-changeable-guardian-estique.json"
-    },
-    {
-      "igdb_id": 89955,
-      "game_name": "Changed",
-      "file": "missing/C/89955-changed.json"
     },
     {
       "igdb_id": 113896,
@@ -278162,11 +278157,6 @@
       "file": "missing/D/333919-doki-doki-indian-man-time.json"
     },
     {
-      "igdb_id": 309582,
-      "game_name": "Doki Doki Literature Club",
-      "file": "missing/D/309582-doki-doki-literature-club.json"
-    },
-    {
       "igdb_id": 166194,
       "game_name": "Doki Doki Literature Club Plus!: Premium Edition",
       "file": "missing/D/166194-doki-doki-literature-club-plus-premium-edition.json"
@@ -299517,11 +299507,6 @@
       "file": "missing/D/87570-duck-run.json"
     },
     {
-      "igdb_id": 56873,
-      "game_name": "Duck Season",
-      "file": "missing/D/56873-duck-season.json"
-    },
-    {
       "igdb_id": 119449,
       "game_name": "Duck Season PC",
       "file": "missing/D/119449-duck-season-pc.json"
@@ -320775,11 +320760,6 @@
       "igdb_id": 234610,
       "game_name": "Endless Drive",
       "file": "missing/E/234610-endless-drive.json"
-    },
-    {
-      "igdb_id": 109970,
-      "game_name": "Endless Dungeon",
-      "file": "missing/E/109970-endless-dungeon.json"
     },
     {
       "igdb_id": 234210,
@@ -350865,11 +350845,6 @@
       "igdb_id": 21232,
       "game_name": "Fatal Fury: Battle Archives Volume 1",
       "file": "missing/F/21232-fatal-fury-battle-archives-volume-1.json"
-    },
-    {
-      "igdb_id": 260321,
-      "game_name": "Fatal Fury: City of the Wolves",
-      "file": "missing/F/260321-fatal-fury-city-of-the-wolves.json"
     },
     {
       "igdb_id": 349908,
@@ -465562,11 +465537,6 @@
       "file": "missing/H/241807-high-heels.json"
     },
     {
-      "igdb_id": 56581,
-      "game_name": "High Hell",
-      "file": "missing/H/56581-high-hell.json"
-    },
-    {
       "igdb_id": 40061,
       "game_name": "High Impact Football",
       "file": "missing/H/40061-high-impact-football.json"
@@ -467485,11 +467455,6 @@
       "igdb_id": 367516,
       "game_name": "Himmapan Marshmello Saga",
       "file": "missing/H/367516-himmapan-marshmello-saga.json"
-    },
-    {
-      "igdb_id": 116305,
-      "game_name": "Himno",
-      "file": "missing/H/116305-himno.json"
     },
     {
       "igdb_id": 118169,
@@ -484220,11 +484185,6 @@
       "igdb_id": 11599,
       "game_name": "Hylics",
       "file": "missing/H/11599-hylics.json"
-    },
-    {
-      "igdb_id": 98469,
-      "game_name": "Hylics 2",
-      "file": "missing/H/98469-hylics-2.json"
     },
     {
       "igdb_id": 171597,
@@ -539842,6 +539802,11 @@
       "file": "missing/K/325666-kimi-ga-nozomu-muv-luv.json"
     },
     {
+      "igdb_id": 219820,
+      "game_name": "Kimi mo vtuber ni Naranai?",
+      "file": "missing/K/219820-kimi-mo-vtuber-ni-naranai.json"
+    },
+    {
       "igdb_id": 413833,
       "game_name": "Kimi ni Furenai Natsu",
       "file": "missing/K/413833-kimi-ni-furenai-natsu.json"
@@ -570625,11 +570590,6 @@
       "igdb_id": 225235,
       "game_name": "Life Eternal",
       "file": "missing/L/225235-life-eternal.json"
-    },
-    {
-      "igdb_id": 174945,
-      "game_name": "Life Force",
-      "file": "missing/L/174945-life-force.json"
     },
     {
       "igdb_id": 261899,
@@ -736522,11 +736482,6 @@
       "file": "missing/P/330321-panzer-dragoon-voyage-record.json"
     },
     {
-      "igdb_id": 113350,
-      "game_name": "Panzer Dragoon: Remake",
-      "file": "missing/P/113350-panzer-dragoon-remake.json"
-    },
-    {
       "igdb_id": 5978,
       "game_name": "Panzer Elite Action: Fields of Glory",
       "file": "missing/P/5978-panzer-elite-action-fields-of-glory.json"
@@ -800175,11 +800130,6 @@
       "igdb_id": 249773,
       "game_name": "Puyo Puyo",
       "file": "missing/P/249773-puyo-puyo.json"
-    },
-    {
-      "igdb_id": 47250,
-      "game_name": "Puyo Puyo",
-      "file": "missing/P/47250-puyo-puyo.json"
     },
     {
       "igdb_id": 84798,
@@ -890867,11 +890817,6 @@
       "file": "missing/S/270672-shin-megami-tensei-if.json"
     },
     {
-      "igdb_id": 79726,
-      "game_name": "Shin Megami Tensei if...",
-      "file": "missing/S/79726-shin-megami-tensei-if.json"
-    },
-    {
       "igdb_id": 252800,
       "game_name": "Shin Megami Tensei II",
       "file": "missing/S/252800-shin-megami-tensei-ii.json"
@@ -925275,11 +925220,6 @@
       "igdb_id": 361632,
       "game_name": "Sonic Colors: Project Tropical Resort",
       "file": "missing/S/361632-sonic-colors-project-tropical-resort.json"
-    },
-    {
-      "igdb_id": 150005,
-      "game_name": "Sonic Colors: Ultimate",
-      "file": "missing/S/150005-sonic-colors-ultimate.json"
     },
     {
       "igdb_id": 150157,
@@ -1001132,11 +1001072,6 @@
       "file": "missing/T/271846-tainted.json"
     },
     {
-      "igdb_id": 146424,
-      "game_name": "Tainted Grail: Conquest",
-      "file": "missing/T/146424-tainted-grail-conquest.json"
-    },
-    {
       "igdb_id": 127697,
       "game_name": "Tainted Grail: The Fall of Avalon",
       "file": "missing/T/127697-tainted-grail-the-fall-of-avalon.json"
@@ -1052862,11 +1052797,6 @@
       "file": "missing/T/47955-the-naked-brothers-band-the-video-game.json"
     },
     {
-      "igdb_id": 408022,
-      "game_name": "The Name I Wear",
-      "file": "missing/T/408022-the-name-i-wear.json"
-    },
-    {
       "igdb_id": 178458,
       "game_name": "The Nameless",
       "file": "missing/T/178458-the-nameless.json"
@@ -1059915,11 +1059845,6 @@
       "igdb_id": 139138,
       "game_name": "The Sealed Ampoule",
       "file": "missing/T/139138-the-sealed-ampoule.json"
-    },
-    {
-      "igdb_id": 335833,
-      "game_name": "The Séance of Blake Manor",
-      "file": "missing/T/335833-the-seance-of-blake-manor.json"
     },
     {
       "igdb_id": 30193,
@@ -1076375,11 +1076300,6 @@
       "igdb_id": 230803,
       "game_name": "Those Who Crawl",
       "file": "missing/T/230803-those-who-crawl.json"
-    },
-    {
-      "igdb_id": 83848,
-      "game_name": "Those Who Remain",
-      "file": "missing/T/83848-those-who-remain.json"
     },
     {
       "igdb_id": 211226,
@@ -1112847,11 +1112767,6 @@
       "file": "missing/T/259166-transformers-dark-of-the-moon.json"
     },
     {
-      "igdb_id": 5243,
-      "game_name": "Transformers: Dark of the Moon",
-      "file": "missing/T/5243-transformers-dark-of-the-moon.json"
-    },
-    {
       "igdb_id": 141825,
       "game_name": "Transformers: Dark of the Moon - Autobots",
       "file": "missing/T/141825-transformers-dark-of-the-moon-autobots.json"
@@ -1135925,11 +1135840,6 @@
       "igdb_id": 139358,
       "game_name": "Unforgiven: Shattered Souls Portable",
       "file": "missing/U/139358-unforgiven-shattered-souls-portable.json"
-    },
-    {
-      "igdb_id": 75496,
-      "game_name": "Unforgiving - A Northern Hymn",
-      "file": "missing/U/75496-unforgiving-a-northern-hymn.json"
     },
     {
       "igdb_id": 32868,
@@ -1173795,11 +1173705,6 @@
       "igdb_id": 282222,
       "game_name": "Wheelborn",
       "file": "missing/W/282222-wheelborn.json"
-    },
-    {
-      "igdb_id": 406738,
-      "game_name": "Wheelchair for Two",
-      "file": "missing/W/406738-wheelchair-for-two.json"
     },
     {
       "igdb_id": 103157,
