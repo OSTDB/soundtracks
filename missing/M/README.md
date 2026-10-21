@@ -2193,6 +2193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mana Khemia: Alchemists of Al-Revis | 20996 | [20996-mana-khemia-alchemists-of-al-revis.json](./20996-mana-khemia-alchemists-of-al-revis.json) |
 | Mana Khemia: Alchemists of Al-Revis - Premium Edition | 43308 | [43308-mana-khemia-alchemists-of-al-revis-premium-edition.json](./43308-mana-khemia-alchemists-of-al-revis-premium-edition.json) |
 | Mana Land | 369063 | [369063-mana-land.json](./369063-mana-land.json) |
+| Mana Maker | 156940 | [156940-mana-maker.json](./156940-mana-maker.json) |
 | Mana Monsters | 321504 | [321504-mana-monsters.json](./321504-mana-monsters.json) |
 | Mana Quest | 272201 | [272201-mana-quest.json](./272201-mana-quest.json) |
 | Mana Rush | 414093 | [414093-mana-rush.json](./414093-mana-rush.json) |
@@ -9038,6 +9039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Milky Way Wishes | 271264 | [271264-milky-way-wishes.json](./271264-milky-way-wishes.json) |
 | Milky Way Wishes | 271407 | [271407-milky-way-wishes.json](./271407-milky-way-wishes.json) |
 | Milky Way: TD Survivors Autobattler RTS | 289782 | [289782-milky-way-td-survivors-autobattler-rts.json](./289782-milky-way-td-survivors-autobattler-rts.json) |
+| Milkyway Funland | 156953 | [156953-milkyway-funland.json](./156953-milkyway-funland.json) |
 | Mill | 92299 | [92299-mill.json](./92299-mill.json) |
 | Mille Bornes | 94925 | [94925-mille-bornes.json](./94925-mille-bornes.json) |
 | Millefiori | 150155 | [150155-millefiori.json](./150155-millefiori.json) |
@@ -11959,6 +11961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Bash | 18059 | [18059-monster-bash.json](./18059-monster-bash.json) |
 | Monster Battle | 240661 | [240661-monster-battle.json](./240661-monster-battle.json) |
 | Monster Battle | 302368 | [302368-monster-battle.json](./302368-monster-battle.json) |
+| Monster Battle Quest | 156930 | [156930-monster-battle-quest.json](./156930-monster-battle-quest.json) |
 | Monster Battles | 343864 | [343864-monster-battles.json](./343864-monster-battles.json) |
 | Monster Blast | 146780 | [146780-monster-blast.json](./146780-monster-blast.json) |
 | Monster Blast Infinity | 330940 | [330940-monster-blast-infinity.json](./330940-monster-blast-infinity.json) |
@@ -14059,6 +14062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moxie 2 | 174325 | [174325-moxie-2.json](./174325-moxie-2.json) |
 | Moxie 2 // Overdrive | 422460 | [422460-moxie-2-overdrive.json](./422460-moxie-2-overdrive.json) |
 | Moxie Girlz | 92466 | [92466-moxie-girlz.json](./92466-moxie-girlz.json) |
+| Mòxīn: Bōyún Guǐchuán | 156922 | [156922-moxin-boyun-guichuan.json](./156922-moxin-boyun-guichuan.json) |
 | Moy 6 | 228897 | [228897-moy-6.json](./228897-moy-6.json) |
 | Moyashibito DX | 233211 | [233211-moyashibito-dx.json](./233211-moyashibito-dx.json) |
 | Moyashimon DS | 69164 | [69164-moyashimon-ds.json](./69164-moyashimon-ds.json) |
