@@ -6353,7 +6353,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | River Bones | 204342 | [204342-river-bones.json](./204342-river-bones.json) |
 | River City Girls 1, 2, and Zero + Double Dragon DLC Bundle | 346009 | [346009-river-city-girls-1-2-and-zero-double-dragon-dlc-bundle.json](./346009-river-city-girls-1-2-and-zero-double-dragon-dlc-bundle.json) |
 | River City Girls 1, 2, and Zero Bundle | 263897 | [263897-river-city-girls-1-2-and-zero-bundle.json](./263897-river-city-girls-1-2-and-zero-bundle.json) |
-| River City Girls 2 | 152321 | [152321-river-city-girls-2.json](./152321-river-city-girls-2.json) |
 | River City Girls 2: Double Dragon DLC | 309037 | [309037-river-city-girls-2-double-dragon-dlc.json](./309037-river-city-girls-2-double-dragon-dlc.json) |
 | River City Girls Zero | 137195 | [137195-river-city-girls-zero.json](./137195-river-city-girls-zero.json) |
 | River City Melee Mach!! | 115481 | [115481-river-city-melee-mach.json](./115481-river-city-melee-mach.json) |
@@ -9667,7 +9666,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runner Roy | 250396 | [250396-runner-roy.json](./250396-runner-roy.json) |
 | Runner's High | 266281 | [266281-runners-high.json](./266281-runners-high.json) |
 | Runner2: Good Friends Character Pack | 226929 | [226929-runner2-good-friends-character-pack.json](./226929-runner2-good-friends-character-pack.json) |
-| Runner3 | 25658 | [25658-runner3.json](./25658-runner3.json) |
 | RunnerDot | 153986 | [153986-runnerdot.json](./153986-runnerdot.json) |
 | Runners | 176817 | [176817-runners.json](./176817-runners.json) |
 | RunnerSky | 181395 | [181395-runnersky.json](./181395-runnersky.json) |
