@@ -1738,6 +1738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elemental | 95377 | [95377-elemental.json](./95377-elemental.json) |
 | Elemental Abyss | 128943 | [128943-elemental-abyss.json](./128943-elemental-abyss.json) |
 | Elemental Adventure | 226451 | [226451-elemental-adventure.json](./226451-elemental-adventure.json) |
+| Elemental Angel | 161641 | [161641-elemental-angel.json](./161641-elemental-angel.json) |
 | Elemental Angel II | 192420 | [192420-elemental-angel-ii.json](./192420-elemental-angel-ii.json) |
 | Elemental Angel III | 198492 | [198492-elemental-angel-iii.json](./198492-elemental-angel-iii.json) |
 | Elemental Ascent | 276676 | [276676-elemental-ascent.json](./276676-elemental-ascent.json) |
@@ -2958,6 +2959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endura | 301272 | [301272-endura.json](./301272-endura.json) |
 | Endurance | 13642 | [13642-endurance.json](./13642-endurance.json) |
 | Endurance | 204680 | [204680-endurance.json](./204680-endurance.json) |
+| Endurance Labyrinth | 161707 | [161707-endurance-labyrinth.json](./161707-endurance-labyrinth.json) |
 | Endurance Motorsport Series | 288854 | [288854-endurance-motorsport-series.json](./288854-endurance-motorsport-series.json) |
 | Endurance: Space Action | 143111 | [143111-endurance-space-action.json](./143111-endurance-space-action.json) |
 | Endure | 171884 | [171884-endure.json](./171884-endure.json) |
@@ -3343,6 +3345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epejsodion Dodgeball Training | 369724 | [369724-epejsodion-dodgeball-training.json](./369724-epejsodion-dodgeball-training.json) |
 | Epejsodion Lodge | 150455 | [150455-epejsodion-lodge.json](./150455-epejsodion-lodge.json) |
 | Eperon Defend | 251447 | [251447-eperon-defend.json](./251447-eperon-defend.json) |
+| Ephemera | 161567 | [161567-ephemera.json](./161567-ephemera.json) |
 | Ephemeral | 184354 | [184354-ephemeral.json](./184354-ephemeral.json) |
 | Ephemeral Dreams, Eternal Love | 260116 | [260116-ephemeral-dreams-eternal-love.json](./260116-ephemeral-dreams-eternal-love.json) |
 | Ephemeral Fantasia | 44722 | [44722-ephemeral-fantasia.json](./44722-ephemeral-fantasia.json) |
@@ -5868,6 +5871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exodus: The Last War | 69930 | [69930-exodus-the-last-war.json](./69930-exodus-the-last-war.json) |
 | Exofinity Clicker | 383579 | [383579-exofinity-clicker.json](./383579-exofinity-clicker.json) |
 | ExoFrontier: Venus | 319724 | [319724-exofrontier-venus.json](./319724-exofrontier-venus.json) |
+| Exogate Initiative | 161695 | [161695-exogate-initiative.json](./161695-exogate-initiative.json) |
 | Exogear | 415210 | [415210-exogear.json](./415210-exogear.json) |
 | Exogen VR Experience | 117049 | [117049-exogen-vr-experience.json](./117049-exogen-vr-experience.json) |
 | Exogenesis: The Erebus Cycle | 390518 | [390518-exogenesis-the-erebus-cycle.json](./390518-exogenesis-the-erebus-cycle.json) |
