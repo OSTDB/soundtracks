@@ -407,7 +407,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Calibre 10 Racing | 30249 | [30249-calibre-10-racing.json](./30249-calibre-10-racing.json) |
 | Calice | 188316 | [188316-calice.json](./188316-calice.json) |
 | Calice | 357737 | [357737-calice.json](./357737-calice.json) |
-| Calico | 122345 | [122345-calico.json](./122345-calico.json) |
 | Calico | 366427 | [366427-calico.json](./366427-calico.json) |
 | Calico & Co | 28793 | [28793-calico-and-co.json](./28793-calico-and-co.json) |
 | Calico Wilder and the Crystal Blade | 416553 | [416553-calico-wilder-and-the-crystal-blade.json](./416553-calico-wilder-and-the-crystal-blade.json) |
