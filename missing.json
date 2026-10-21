@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-21T20:22:32.745Z",
-  "total_missing": 243522,
+  "generated_at": "2026-10-21T20:26:38.669Z",
+  "total_missing": 243520,
   "games": [
     {
       "igdb_id": 191680,
@@ -118680,11 +118680,6 @@
       "igdb_id": 5522,
       "game_name": "Blackguards",
       "file": "missing/B/5522-blackguards.json"
-    },
-    {
-      "igdb_id": 8335,
-      "game_name": "Blackguards 2",
-      "file": "missing/B/8335-blackguards-2.json"
     },
     {
       "igdb_id": 52468,
@@ -1094460,11 +1094455,6 @@
       "igdb_id": 217527,
       "game_name": "Tom Clancy's The Division 2: Warlord of New York - Season 1: Shadow Tide",
       "file": "missing/T/217527-tom-clancys-the-division-2-warlord-of-new-york-season-1-shadow-tide.json"
-    },
-    {
-      "igdb_id": 129847,
-      "game_name": "Tom Clancy's The Division 2: Warlords of New York",
-      "file": "missing/T/129847-tom-clancys-the-division-2-warlords-of-new-york.json"
     },
     {
       "igdb_id": 217537,
