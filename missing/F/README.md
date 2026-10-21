@@ -266,6 +266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fabulous Field Trip | 240052 | [240052-fabulous-field-trip.json](./240052-fabulous-field-trip.json) |
 | Fabulous Finds | 67652 | [67652-fabulous-finds.json](./67652-fabulous-finds.json) |
 | Fabulous Food Truck | 32222 | [32222-fabulous-food-truck.json](./32222-fabulous-food-truck.json) |
+| Fabulous Place | 160184 | [160184-fabulous-place.json](./160184-fabulous-place.json) |
 | Fabulous Samurai Star | 256325 | [256325-fabulous-samurai-star.json](./256325-fabulous-samurai-star.json) |
 | Fabulous Shop | 246550 | [246550-fabulous-shop.json](./246550-fabulous-shop.json) |
 | Fabulous: Angela's Sweet Revenge | 88336 | [88336-fabulous-angelas-sweet-revenge.json](./88336-fabulous-angelas-sweet-revenge.json) |
@@ -2458,6 +2459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fatale | 15989 | [15989-fatale.json](./15989-fatale.json) |
 | FatalZone | 258907 | [258907-fatalzone.json](./258907-fatalzone.json) |
 | Fatberg | 382298 | [382298-fatberg.json](./382298-fatberg.json) |
+| Fate | 159588 | [159588-fate.json](./159588-fate.json) |
 | Fate | 364622 | [364622-fate.json](./364622-fate.json) |
 | Fate (Carnivale Card Game) | 132012 | [132012-fate-carnivale-card-game.json](./132012-fate-carnivale-card-game.json) |
 | Fate / Hollow Ataraxia: Limited Edition | 89862 | [89862-fate-hollow-ataraxia-limited-edition.json](./89862-fate-hollow-ataraxia-limited-edition.json) |
@@ -4248,6 +4250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find the Gnome | 96682 | [96682-find-the-gnome.json](./96682-find-the-gnome.json) |
 | Find the Gnome 2 | 197270 | [197270-find-the-gnome-2.json](./197270-find-the-gnome-2.json) |
 | Find the heart | 188955 | [188955-find-the-heart.json](./188955-find-the-heart.json) |
+| Find the Invisible Cow | 159587 | [159587-find-the-invisible-cow.json](./159587-find-the-invisible-cow.json) |
 | Find the Key | 224532 | [224532-find-the-key.json](./224532-find-the-key.json) |
 | Find the light | 216473 | [216473-find-the-light.json](./216473-find-the-light.json) |
 | Find the Lost Lights | 310155 | [310155-find-the-lost-lights.json](./310155-find-the-lost-lights.json) |
@@ -7170,6 +7173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football: Breakthrough Gaming Arcade | 145489 | [145489-football-breakthrough-gaming-arcade.json](./145489-football-breakthrough-gaming-arcade.json) |
 | Football: The Beautiful Game | 257008 | [257008-football-the-beautiful-game.json](./257008-football-the-beautiful-game.json) |
 | Football: The Hardest Job | 123574 | [123574-football-the-hardest-job.json](./123574-football-the-hardest-job.json) |
+| Footballer | 160193 | [160193-footballer.json](./160193-footballer.json) |
 | Footballer of the Year | 41005 | [41005-footballer-of-the-year.json](./41005-footballer-of-the-year.json) |
 | Footballer of the Year 2 | 41004 | [41004-footballer-of-the-year-2.json](./41004-footballer-of-the-year-2.json) |
 | FootGoal! Tiki Taka | 147921 | [147921-footgoal-tiki-taka.json](./147921-footgoal-tiki-taka.json) |
@@ -10227,6 +10231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Funanigans: Party Games | 168579 | [168579-funanigans-party-games.json](./168579-funanigans-party-games.json) |
 | Funbag Fantasy | 114807 | [114807-funbag-fantasy.json](./114807-funbag-fantasy.json) |
 | Funbag Fantasy 2 | 127948 | [127948-funbag-fantasy-2.json](./127948-funbag-fantasy-2.json) |
+| Funbag Fantasy 3if | 160197 | [160197-funbag-fantasy-3if.json](./160197-funbag-fantasy-3if.json) |
 | Funbag Fantasy 4: Brother Astor | 210718 | [210718-funbag-fantasy-4-brother-astor.json](./210718-funbag-fantasy-4-brother-astor.json) |
 | Funbag Fantasy: Sideboob Story | 127949 | [127949-funbag-fantasy-sideboob-story.json](./127949-funbag-fantasy-sideboob-story.json) |
 | Funball | 94946 | [94946-funball.json](./94946-funball.json) |
