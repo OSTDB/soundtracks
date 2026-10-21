@@ -661,6 +661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quest & Quest 3D: Short Short - Female Adventurer Sina II | 82735 | [82735-quest-and-quest-3d-short-short-female-adventurer-sina-ii.json](./82735-quest-and-quest-3d-short-short-female-adventurer-sina-ii.json) |
 | Quest & Rest: Inn Simulator | 364968 | [364968-quest-and-rest-inn-simulator.json](./364968-quest-and-rest-inn-simulator.json) |
 | Quest 2: The Ancient Temples | 266229 | [266229-quest-2-the-ancient-temples.json](./266229-quest-2-the-ancient-temples.json) |
+| Quest 4 Papa: Reloaded | 157952 | [157952-quest-4-papa-reloaded.json](./157952-quest-4-papa-reloaded.json) |
 | Quest 64 | 3580 | [3580-quest-64.json](./3580-quest-64.json) |
 | Quest 64 "French Vanilla" | 248305 | [248305-quest-64-french-vanilla.json](./248305-quest-64-french-vanilla.json) |
 | Quest 64: Hard Mode | 214948 | [214948-quest-64-hard-mode.json](./214948-quest-64-hard-mode.json) |
