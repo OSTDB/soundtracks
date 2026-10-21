@@ -2953,6 +2953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Crazy Racing | 169263 | [169263-vr-crazy-racing.json](./169263-vr-crazy-racing.json) |
 | VR Cricket | 114187 | [114187-vr-cricket.json](./114187-vr-cricket.json) |
 | VR Cute Tanks: Girls and Dinosaurs | 148474 | [148474-vr-cute-tanks-girls-and-dinosaurs.json](./148474-vr-cute-tanks-girls-and-dinosaurs.json) |
+| VR Dance Star | 163239 | [163239-vr-dance-star.json](./163239-vr-dance-star.json) |
 | VR Dart Zone | 54459 | [54459-vr-dart-zone.json](./54459-vr-dart-zone.json) |
 | VR Darts | 29153 | [29153-vr-darts.json](./29153-vr-darts.json) |
 | VR Dinosaur Fight | 208644 | [208644-vr-dinosaur-fight.json](./208644-vr-dinosaur-fight.json) |
@@ -3036,6 +3037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Party Pack | 249673 | [249673-vr-party-pack.json](./249673-vr-party-pack.json) |
 | VR Party Pack | 249675 | [249675-vr-party-pack.json](./249675-vr-party-pack.json) |
 | VR Pianist | 152878 | [152878-vr-pianist.json](./152878-vr-pianist.json) |
+| VR Pigeons | 163150 | [163150-vr-pigeons.json](./163150-vr-pigeons.json) |
 | VR Ping Pong | 21602 | [21602-vr-ping-pong.json](./21602-vr-ping-pong.json) |
 | VR Ping Pong Pro | 120470 | [120470-vr-ping-pong-pro.json](./120470-vr-ping-pong-pro.json) |
 | VR PingPong Sweetie | 384518 | [384518-vr-pingpong-sweetie.json](./384518-vr-pingpong-sweetie.json) |
@@ -3057,6 +3059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Retreat | 31085 | [31085-vr-retreat.json](./31085-vr-retreat.json) |
 | VR Retro Combat Deluxe | 154259 | [154259-vr-retro-combat-deluxe.json](./154259-vr-retro-combat-deluxe.json) |
 | VR Retro Snake on Girls | 163292 | [163292-vr-retro-snake-on-girls.json](./163292-vr-retro-snake-on-girls.json) |
+| VR Return to the Middle Ages: Fully Interactive | 163180 | [163180-vr-return-to-the-middle-ages-fully-interactive.json](./163180-vr-return-to-the-middle-ages-fully-interactive.json) |
 | VR Rhythm Action Seiya | 76522 | [76522-vr-rhythm-action-seiya.json](./76522-vr-rhythm-action-seiya.json) |
 | VR Robinhood Archery | 209390 | [209390-vr-robinhood-archery.json](./209390-vr-robinhood-archery.json) |
 | VR Rock Climbing | 220524 | [220524-vr-rock-climbing.json](./220524-vr-rock-climbing.json) |
