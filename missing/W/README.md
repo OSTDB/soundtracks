@@ -2480,6 +2480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weeping Cherries | 358645 | [358645-weeping-cherries.json](./358645-weeping-cherries.json) |
 | Weeping Falls Massacre | 204467 | [204467-weeping-falls-massacre.json](./204467-weeping-falls-massacre.json) |
 | Weeping Willow | 122366 | [122366-weeping-willow.json](./122366-weeping-willow.json) |
+| WeeRPG | 157458 | [157458-weerpg.json](./157458-weerpg.json) |
 | WeeWaa | 91380 | [91380-weewaa.json](./91380-weewaa.json) |
 | Weezer: End of the Game Game | 295365 | [295365-weezer-end-of-the-game-game.json](./295365-weezer-end-of-the-game-game.json) |
 | Weezle | 237495 | [237495-weezle.json](./237495-weezle.json) |
@@ -3274,6 +3275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where is My Home? | 410996 | [410996-where-is-my-home.json](./410996-where-is-my-home.json) |
 | Where Is My Human? | 183792 | [183792-where-is-my-human.json](./183792-where-is-my-human.json) |
 | Where is my mind | 25764 | [25764-where-is-my-mind.json](./25764-where-is-my-mind.json) |
+| Where Is My Mom | 157457 | [157457-where-is-my-mom.json](./157457-where-is-my-mom.json) |
 | Where Is My Parking Spot | 141016 | [141016-where-is-my-parking-spot.json](./141016-where-is-my-parking-spot.json) |
 | Where Is My Pet? | 417359 | [417359-where-is-my-pet.json](./417359-where-is-my-pet.json) |
 | Where is My Son? | 390143 | [390143-where-is-my-son.json](./390143-where-is-my-son.json) |
