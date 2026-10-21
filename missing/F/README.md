@@ -1750,6 +1750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Far Away | 130105 | [130105-far-away.json](./130105-far-away.json) |
 | Far Away From Home | 190432 | [190432-far-away-from-home.json](./190432-far-away-from-home.json) |
 | Far Away Train | 150527 | [150527-far-away-train.json](./150527-far-away-train.json) |
+| Far Beyond the World | 158979 | [158979-far-beyond-the-world.json](./158979-far-beyond-the-world.json) |
 | Far Cnight | 99729 | [99729-far-cnight.json](./99729-far-cnight.json) |
 | Far Cry 2 | 317303 | [317303-far-cry-2.json](./317303-far-cry-2.json) |
 | Far Cry 2 + Ghost Recon Advanced Warfighter | 147227 | [147227-far-cry-2-ghost-recon-advanced-warfighter.json](./147227-far-cry-2-ghost-recon-advanced-warfighter.json) |
@@ -10366,6 +10367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Funny Rain | 314924 | [314924-funny-rain.json](./314924-funny-rain.json) |
 | Funny Rat Game 2 | 404907 | [404907-funny-rat-game-2.json](./404907-funny-rat-game-2.json) |
 | Funny Soccer | 263411 | [263411-funny-soccer.json](./263411-funny-soccer.json) |
+| Funny Truck | 159019 | [159019-funny-truck.json](./159019-funny-truck.json) |
 | Funny Volleyball | 384274 | [384274-funny-volleyball.json](./384274-funny-volleyball.json) |
 | Funny Wings VR | 86676 | [86676-funny-wings-vr.json](./86676-funny-wings-vr.json) |
 | Funny words | 103911 | [103911-funny-words.json](./103911-funny-words.json) |
