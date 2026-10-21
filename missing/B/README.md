@@ -10222,7 +10222,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Borderlands 3: Designer's Cut | 259759 | [259759-borderlands-3-designers-cut.json](./259759-borderlands-3-designers-cut.json) |
 | Borderlands 3: Diamond Loot Chest - Collector's Edition | 136268 | [136268-borderlands-3-diamond-loot-chest-collectors-edition.json](./136268-borderlands-3-diamond-loot-chest-collectors-edition.json) |
 | Borderlands 3: Director's Cut | 271818 | [271818-borderlands-3-directors-cut.json](./271818-borderlands-3-directors-cut.json) |
-| Borderlands 3: Moxxi's Heist of the Handsome Jackpot | 126138 | [126138-borderlands-3-moxxis-heist-of-the-handsome-jackpot.json](./126138-borderlands-3-moxxis-heist-of-the-handsome-jackpot.json) |
 | Borderlands 3: Next-Level Edition | 140897 | [140897-borderlands-3-next-level-edition.json](./140897-borderlands-3-next-level-edition.json) |
 | Borderlands 3: Season Pass 2 | 293719 | [293719-borderlands-3-season-pass-2.json](./293719-borderlands-3-season-pass-2.json) |
 | Borderlands 3: Super Deluxe Edition | 116996 | [116996-borderlands-3-super-deluxe-edition.json](./116996-borderlands-3-super-deluxe-edition.json) |
@@ -11017,7 +11016,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bragnarok | 275123 | [275123-bragnarok.json](./275123-bragnarok.json) |
 | Brahma Force: The Assault on Beltlogger 9 | 20816 | [20816-brahma-force-the-assault-on-beltlogger-9.json](./20816-brahma-force-the-assault-on-beltlogger-9.json) |
 | Brahman: The Gate of Salvation | 236327 | [236327-brahman-the-gate-of-salvation.json](./236327-brahman-the-gate-of-salvation.json) |
-| Braid: Anniversary Edition | 136511 | [136511-braid-anniversary-edition.json](./136511-braid-anniversary-edition.json) |
 | Braiiinz | 179894 | [179894-braiiinz.json](./179894-braiiinz.json) |
 | Brain | 130707 | [130707-brain.json](./130707-brain.json) |
 | Brain | 367197 | [367197-brain.json](./367197-brain.json) |
