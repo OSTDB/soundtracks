@@ -9826,6 +9826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Island: Autumn | 166601 | [166601-mini-island-autumn.json](./166601-mini-island-autumn.json) |
 | Mini Island: Night | 127692 | [127692-mini-island-night.json](./127692-mini-island-night.json) |
 | Mini Island: Spring | 157947 | [157947-mini-island-spring.json](./157947-mini-island-spring.json) |
+| Mini Island: Summer | 157440 | [157440-mini-island-summer.json](./157440-mini-island-summer.json) |
 | Mini Jumper | 163990 | [163990-mini-jumper.json](./163990-mini-jumper.json) |
 | Mini Jumps | 412304 | [412304-mini-jumps.json](./412304-mini-jumps.json) |
 | Mini Kaizo Bros. 3 | 220782 | [220782-mini-kaizo-bros-3.json](./220782-mini-kaizo-bros-3.json) |
@@ -9968,6 +9969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miniconomy | 108966 | [108966-miniconomy.json](./108966-miniconomy.json) |
 | MiniCopter: Adventure Flight | 51064 | [51064-minicopter-adventure-flight.json](./51064-minicopter-adventure-flight.json) |
 | MiniCraft Adventure | 96777 | [96777-minicraft-adventure.json](./96777-minicraft-adventure.json) |
+| Minicraft Shooter | 157444 | [157444-minicraft-shooter.json](./157444-minicraft-shooter.json) |
 | Minidinos | 369729 | [369729-minidinos.json](./369729-minidinos.json) |
 | MiniDrift | 262857 | [262857-minidrift.json](./262857-minidrift.json) |
 | MiniDrivers | 34867 | [34867-minidrivers.json](./34867-minidrivers.json) |
@@ -13973,6 +13975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Move Forward | 172067 | [172067-move-forward.json](./172067-move-forward.json) |
 | Move Fun | 246396 | [246396-move-fun.json](./246396-move-fun.json) |
 | Move It | 59800 | [59800-move-it.json](./59800-move-it.json) |
+| Move It Up | 157369 | [157369-move-it-up.json](./157369-move-it-up.json) |
 | Move Mind Benders | 20818 | [20818-move-mind-benders.json](./20818-move-mind-benders.json) |
 | Move Nature | 234735 | [234735-move-nature.json](./234735-move-nature.json) |
 | Move On | 237261 | [237261-move-on.json](./237261-move-on.json) |
