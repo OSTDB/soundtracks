@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-21T20:47:04.348Z",
-  "total_soundtracks": 2439,
+  "generated_at": "2026-10-21T20:51:39.495Z",
+  "total_soundtracks": 2448,
   "games": [
     {
       "igdb_id": 7522,
@@ -3523,6 +3523,20 @@
         {
           "album_name": "Boom Blox (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/2KJUYvoABt7cYxXxQ9sE7Q",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 111529,
+      "game_name": "Boomerang Fu",
+      "game_url": "https://ostdb.net/games/boomerang-fu",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27353664354daece9eff44fda40",
+      "albums": [
+        {
+          "album_name": "Boomerang Fu (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0cTvYRL5AR3yxAtPIplk9P",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -8361,6 +8375,20 @@
       ]
     },
     {
+      "igdb_id": 26795,
+      "game_name": "Estranged: Act I",
+      "game_url": "https://ostdb.net/games/estranged-act-i",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2735d3bf00fbc76d2bb1e1a5c00",
+      "albums": [
+        {
+          "album_name": "Estranged: Act I Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/6R0aGiDqL3qLUbC2be47Ik",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 135842,
       "game_name": "Eternal Return",
       "game_url": "https://ostdb.net/games/eternal-return",
@@ -10753,6 +10781,20 @@
       ]
     },
     {
+      "igdb_id": 305873,
+      "game_name": "Golden Axe",
+      "game_url": "https://ostdb.net/games/golden-axe",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2738a17f791067642bd4eee0f4c",
+      "albums": [
+        {
+          "album_name": "Golden Axe Original Soundtrack (Darksynth)",
+          "spotify_url": "https://open.spotify.com/album/66R4cTORA2jD6QDGoQ7hzz",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 5565,
       "game_name": "Golden Axe",
       "game_url": "https://ostdb.net/games/golden-axe",
@@ -12618,6 +12660,20 @@
           "album_name": "ICO～霧の中の旋律～",
           "spotify_url": "https://open.spotify.com/album/0aF1ChvyWiOIDwWhg4Qljh",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 105512,
+      "game_name": "Identity V",
+      "game_url": "https://ostdb.net/games/identity-v",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27300d7e084b617e4744eb8b4c0",
+      "albums": [
+        {
+          "album_name": "Identity V Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/1U9qM2E45jEOETpwd7gRY5",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
@@ -17678,6 +17734,20 @@
           "album_name": "Nobody Wants To Die (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/2TYkemIHChDJOPIqEdIJX9",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 234740,
+      "game_name": "Nocturnal",
+      "game_url": "https://ostdb.net/games/nocturnal",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273a8b5fb2356e52c2bdfe25138",
+      "albums": [
+        {
+          "album_name": "Nocturnal (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/3aVhoYLmOSWtSmi5Ghh3Om",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
@@ -23319,6 +23389,20 @@
       ]
     },
     {
+      "igdb_id": 340113,
+      "game_name": "Star Wars Zero Company",
+      "game_url": "https://ostdb.net/games/star-wars-zero-company",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273510a1fae56d5e3465f6a2252",
+      "albums": [
+        {
+          "album_name": "Star Wars: Zero Company (Original Video Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/3LrCCpV1frzloOAGuw0nL6",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 141,
       "game_name": "Star Wars: Battlefront",
       "game_url": "https://ostdb.net/games/star-wars-battlefront",
@@ -25505,6 +25589,20 @@
       ]
     },
     {
+      "igdb_id": 396,
+      "game_name": "The Final Fantasy Legend",
+      "game_url": "https://ostdb.net/games/the-final-fantasy-legend",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2733a478e19648c9d76e58cb154",
+      "albums": [
+        {
+          "album_name": "The Final Fantasy Legend Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/7LDjAD01e982z9DianPcTK",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 214417,
       "game_name": "The Finals",
       "game_url": "https://ostdb.net/games/the-finals",
@@ -27585,6 +27683,20 @@
       ]
     },
     {
+      "igdb_id": 1523,
+      "game_name": "Trauma Center: Under the Knife",
+      "game_url": "https://ostdb.net/games/trauma-center-under-the-knife",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27327eaa497d72d3acd3936e58e",
+      "albums": [
+        {
+          "album_name": "Trauma Center: Under the Knife Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/5tDKmbzACUxvKVcDawcxnM",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 152203,
       "game_name": "Trek to Yomi",
       "game_url": "https://ostdb.net/games/trek-to-yomi",
@@ -28024,6 +28136,20 @@
           "album_name": "Uncharted 2: Among Thieves (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/5ZHFLShyZ4XtrQNbPU5F5c",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 41819,
+      "game_name": "Under Night In-Birth Exe:Late[st]",
+      "game_url": "https://ostdb.net/games/under-night-in-birth-exe-late-st",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273f58a18c274f18b60b2413539",
+      "albums": [
+        {
+          "album_name": "UNDER NIGHT IN-BIRTH Exe:Late [st] (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1cnaj4CfoXCiJetSlOZ0VG",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
