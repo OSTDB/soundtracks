@@ -514,6 +514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Legionary's Life | 117101 | [117101-a-legionarys-life.json](./117101-a-legionarys-life.json) |
 | A lenda da Gávea | 81154 | [81154-a-lenda-da-gavea.json](./81154-a-lenda-da-gavea.json) |
 | A Letter For You! | 184082 | [184082-a-letter-for-you.json](./184082-a-letter-for-you.json) |
+| A Letter to You! | 157438 | [157438-a-letter-to-you.json](./157438-a-letter-to-you.json) |
 | A Life in Music | 314381 | [314381-a-life-in-music.json](./314381-a-life-in-music.json) |
 | A Life of Logic | 256243 | [256243-a-life-of-logic.json](./256243-a-life-of-logic.json) |
 | A Light Inside | 109173 | [109173-a-light-inside.json](./109173-a-light-inside.json) |
@@ -589,6 +590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Man with a Monocle | 25005 | [25005-a-man-with-a-monocle.json](./25005-a-man-with-a-monocle.json) |
 | A Mansão | 342221 | [342221-a-mansao.json](./342221-a-mansao.json) |
 | A Mansion on the Hill | 397618 | [397618-a-mansion-on-the-hill.json](./397618-a-mansion-on-the-hill.json) |
+| A Marble's Muse | 157466 | [157466-a-marbles-muse.json](./157466-a-marbles-muse.json) |
 | A Mars Journey: Redturtle | 109394 | [109394-a-mars-journey-redturtle.json](./109394-a-mars-journey-redturtle.json) |
 | A Mask's Tale | 306997 | [306997-a-masks-tale.json](./306997-a-masks-tale.json) |
 | A Mass of Dead | 16924 | [16924-a-mass-of-dead.json](./16924-a-mass-of-dead.json) |
@@ -1405,6 +1407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abduction! | 241448 | [241448-abduction.json](./241448-abduction.json) |
 | Abductor | 41192 | [41192-abductor.json](./41192-abductor.json) |
 | Abe VR | 33117 | [33117-abe-vr.json](./33117-abe-vr.json) |
+| Abelana's Atom Maker | 157381 | [157381-abelanas-atom-maker.json](./157381-abelanas-atom-maker.json) |
 | Abelardo: Steakhouse Musician | 232001 | [232001-abelardo-steakhouse-musician.json](./232001-abelardo-steakhouse-musician.json) |
 | Abelina | 377433 | [377433-abelina.json](./377433-abelina.json) |
 | Abeline Rush | 377432 | [377432-abeline-rush.json](./377432-abeline-rush.json) |
@@ -2259,6 +2262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adam and Eve: The Game - Chapter 1 | 33513 | [33513-adam-and-eve-the-game-chapter-1.json](./33513-adam-and-eve-the-game-chapter-1.json) |
 | Adam Blaster: Atomic Enforcer | 73362 | [73362-adam-blaster-atomic-enforcer.json](./73362-adam-blaster-atomic-enforcer.json) |
 | Adam Savage's Tested VR | 174554 | [174554-adam-savages-tested-vr.json](./174554-adam-savages-tested-vr.json) |
+| Adam the Storyteller | 157454 | [157454-adam-the-storyteller.json](./157454-adam-the-storyteller.json) |
 | Adam Wolfe | 26860 | [26860-adam-wolfe.json](./26860-adam-wolfe.json) |
 | Adam: Lost Memories | 121336 | [121336-adam-lost-memories.json](./121336-adam-lost-memories.json) |
 | Adam: Robot World | 126385 | [126385-adam-robot-world.json](./126385-adam-robot-world.json) |
@@ -11416,6 +11420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aska | 230569 | [230569-aska.json](./230569-aska.json) |
 | Aske | 165008 | [165008-aske.json](./165008-aske.json) |
 | Askisi Gamma | 271718 | [271718-askisi-gamma.json](./271718-askisi-gamma.json) |
+| Askold: Path of the Shadow | 157463 | [157463-askold-path-of-the-shadow.json](./157463-askold-path-of-the-shadow.json) |
 | Askutron Quiz Show | 74498 | [74498-askutron-quiz-show.json](./74498-askutron-quiz-show.json) |
 | Asleep | 201310 | [201310-asleep.json](./201310-asleep.json) |
 | Asleep in the Deep | 337102 | [337102-asleep-in-the-deep.json](./337102-asleep-in-the-deep.json) |
