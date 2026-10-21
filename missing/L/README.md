@@ -1269,7 +1269,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Latent Experience | 340899 | [340899-latent-experience.json](./340899-latent-experience.json) |
 | Latent Leftovers | 340900 | [340900-latent-leftovers.json](./340900-latent-leftovers.json) |
 | Later | 348328 | [348328-later.json](./348328-later.json) |
-| Later Alligator | 112939 | [112939-later-alligator.json](./112939-later-alligator.json) |
 | Later Daters: Part One and Two | 238183 | [238183-later-daters-part-one-and-two.json](./238183-later-daters-part-one-and-two.json) |
 | Later Daters: Premium | 204282 | [204282-later-daters-premium.json](./204282-later-daters-premium.json) |
 | Later Elevator | 344721 | [344721-later-elevator.json](./344721-later-elevator.json) |
