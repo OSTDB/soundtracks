@@ -997,7 +997,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Identity Escape | 315670 | [315670-identity-escape.json](./315670-identity-escape.json) |
 | Identity Forwarded | 220213 | [220213-identity-forwarded.json](./220213-identity-forwarded.json) |
 | Identity Sector | 119694 | [119694-identity-sector.json](./119694-identity-sector.json) |
-| Identity V | 105512 | [105512-identity-v.json](./105512-identity-v.json) |
 | Identity: Town Square | 111884 | [111884-identity-town-square.json](./111884-identity-town-square.json) |
 | Ideology in Friction: Append | 170990 | [170990-ideology-in-friction-append.json](./170990-ideology-in-friction-append.json) |
 | Ideology in Friction: Deluxe Edition | 186899 | [186899-ideology-in-friction-deluxe-edition.json](./186899-ideology-in-friction-deluxe-edition.json) |
