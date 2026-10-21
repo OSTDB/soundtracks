@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-21T20:25:58.883Z",
-  "total_soundtracks": 2416,
+  "generated_at": "2026-10-21T20:36:02.232Z",
+  "total_soundtracks": 2419,
   "games": [
     {
       "igdb_id": 7522,
@@ -8089,6 +8089,20 @@
       ]
     },
     {
+      "igdb_id": 126362,
+      "game_name": "Endzone: A World Apart",
+      "game_url": "https://ostdb.net/games/endzone-a-world-apart",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273a928076e98e84c2dcf10e441",
+      "albums": [
+        {
+          "album_name": "Endzone: A World Apart (Original Game Soundtrack) Composer Selection",
+          "spotify_url": "https://open.spotify.com/album/4Ilhdnnuu4ajbN4xFe7sqo",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 140133,
       "game_name": "Enigma of Fear",
       "game_url": "https://ostdb.net/games/enigma-of-fear",
@@ -8855,6 +8869,20 @@
         {
           "album_name": "Fight’N Rage Original Soundtrack",
           "spotify_url": "https://open.spotify.com/album/52W0Scze6OLKpiFTrVrqZI",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 132422,
+      "game_name": "Fights in Tight Spaces",
+      "game_url": "https://ostdb.net/games/fights-in-tight-spaces",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273775ef736498aa868da7c612c",
+      "albums": [
+        {
+          "album_name": "Fights in Tight Spaces (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2lbLJ5XZcwGyFczi9CCuNF",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -11027,6 +11055,20 @@
           "spotify_url": "",
           "apple_music_url": "https://music.apple.com/us/album/grim-dawn-original-soundtrack/839003914?uo=4",
           "album_link_url": "https://album.link/i/839003914"
+        }
+      ]
+    },
+    {
+      "igdb_id": 75682,
+      "game_name": "Grim Dawn: Ashes of Malmouth",
+      "game_url": "https://ostdb.net/games/grim-dawn-ashes-of-malmouth",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2736cb1b3299a95bcc48a5de944",
+      "albums": [
+        {
+          "album_name": "Grim Dawn (Ashes of Malmouth Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/16OX47Xzj8FCml5IXbD1Of",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
