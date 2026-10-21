@@ -2900,6 +2900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle High School | 91922 | [91922-battle-high-school.json](./91922-battle-high-school.json) |
 | Battle Hunters Zero | 194167 | [194167-battle-hunters-zero.json](./194167-battle-hunters-zero.json) |
 | Battle In Space | 212470 | [212470-battle-in-space.json](./212470-battle-in-space.json) |
+| Battle in the City | 161623 | [161623-battle-in-the-city.json](./161623-battle-in-the-city.json) |
 | Battle Insects | 52644 | [52644-battle-insects.json](./52644-battle-insects.json) |
 | Battle Island | 69491 | [69491-battle-island.json](./69491-battle-island.json) |
 | Battle Islands | 17502 | [17502-battle-islands.json](./17502-battle-islands.json) |
@@ -5426,6 +5427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond the Future: Fix the Time Arrows | 44588 | [44588-beyond-the-future-fix-the-time-arrows.json](./44588-beyond-the-future-fix-the-time-arrows.json) |
 | Beyond the Gate | 177428 | [177428-beyond-the-gate.json](./177428-beyond-the-gate.json) |
 | Beyond the Gate | 226248 | [226248-beyond-the-gate.json](./226248-beyond-the-gate.json) |
+| Beyond the Gates | 161638 | [161638-beyond-the-gates.json](./161638-beyond-the-gates.json) |
 | Beyond the Grove | 341905 | [341905-beyond-the-grove.json](./341905-beyond-the-grove.json) |
 | Beyond the Harbor | 140403 | [140403-beyond-the-harbor.json](./140403-beyond-the-harbor.json) |
 | Beyond the Harbor: R | 212251 | [212251-beyond-the-harbor-r.json](./212251-beyond-the-harbor-r.json) |
@@ -9104,6 +9106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blupimania | 137920 | [137920-blupimania.json](./137920-blupimania.json) |
 | Blur | 3235 | [3235-blur.json](./3235-blur.json) |
 | Blur time | 60790 | [60790-blur-time.json](./60790-blur-time.json) |
+| Blured Angel | 161566 | [161566-blured-angel.json](./161566-blured-angel.json) |
 | Blurple Food Wars | 143412 | [143412-blurple-food-wars.json](./143412-blurple-food-wars.json) |
 | Blurred Weird Night | 150647 | [150647-blurred-weird-night.json](./150647-blurred-weird-night.json) |
 | Blurry Shopping | 381098 | [381098-blurry-shopping.json](./381098-blurry-shopping.json) |
@@ -13381,6 +13384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bunker Buster | 110203 | [110203-bunker-buster.json](./110203-bunker-buster.json) |
 | Bunker Constructor | 35379 | [35379-bunker-constructor.json](./35379-bunker-constructor.json) |
 | Bunker Constructor Simulator | 326479 | [326479-bunker-constructor-simulator.json](./326479-bunker-constructor-simulator.json) |
+| Bunker Defense | 161631 | [161631-bunker-defense.json](./161631-bunker-defense.json) |
 | Bunker Down | 344437 | [344437-bunker-down.json](./344437-bunker-down.json) |
 | Bunker Farmer | 296590 | [296590-bunker-farmer.json](./296590-bunker-farmer.json) |
 | Bunker Life | 220870 | [220870-bunker-life.json](./220870-bunker-life.json) |
