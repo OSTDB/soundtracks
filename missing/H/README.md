@@ -5067,6 +5067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HexiHashi | 150467 | [150467-hexihashi.json](./150467-hexihashi.json) |
 | Hexile | 105544 | [105544-hexile.json](./105544-hexile.json) |
 | Hexin : Space Chess Game | 102211 | [102211-hexin-space-chess-game.json](./102211-hexin-space-chess-game.json) |
+| Hexio | 157451 | [157451-hexio.json](./157451-hexio.json) |
 | Hexiom Connect | 416748 | [416748-hexiom-connect.json](./416748-hexiom-connect.json) |
 | Hexion | 40197 | [40197-hexion.json](./40197-hexion.json) |
 | Hexion | 96216 | [96216-hexion.json](./96216-hexion.json) |
