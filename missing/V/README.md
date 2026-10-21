@@ -1174,6 +1174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vermeer | 46659 | [46659-vermeer.json](./46659-vermeer.json) |
 | Vermilion Arcade: Horror Collection | 285694 | [285694-vermilion-arcade-horror-collection.json](./285694-vermilion-arcade-horror-collection.json) |
 | Vermilion Desert | 69316 | [69316-vermilion-desert.json](./69316-vermilion-desert.json) |
+| Vermillion | 156960 | [156960-vermillion.json](./156960-vermillion.json) |
 | Vermillion Descent | 209137 | [209137-vermillion-descent.json](./209137-vermillion-descent.json) |
 | Vermillion Watch: Fleshbound | 187949 | [187949-vermillion-watch-fleshbound.json](./187949-vermillion-watch-fleshbound.json) |
 | Vermillion Watch: Fleshbound - Collector's Edition | 416147 | [416147-vermillion-watch-fleshbound-collectors-edition.json](./416147-vermillion-watch-fleshbound-collectors-edition.json) |
@@ -3110,6 +3111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR The Diner Duo | 25118 | [25118-vr-the-diner-duo.json](./25118-vr-the-diner-duo.json) |
 | VR Thrills | 257804 | [257804-vr-thrills.json](./257804-vr-thrills.json) |
 | VR Time Machine Travelling in History: Visit ancient Egypt, Babylon and Greece in B.C. 400 | 150648 | [150648-vr-time-machine-travelling-in-history-visit-ancient-egypt-babylon-and-greece-in-b-c-400.json](./150648-vr-time-machine-travelling-in-history-visit-ancient-egypt-babylon-and-greece-in-b-c-400.json) |
+| VR Titanic: Find the Rose | 156958 | [156958-vr-titanic-find-the-rose.json](./156958-vr-titanic-find-the-rose.json) |
 | VR TKA Surgery Simulator | 278946 | [278946-vr-tka-surgery-simulator.json](./278946-vr-tka-surgery-simulator.json) |
 | VR Tomb's Secrets2 | 102248 | [102248-vr-tombs-secrets2.json](./102248-vr-tombs-secrets2.json) |
 | VR Tractor Farming | 248032 | [248032-vr-tractor-farming.json](./248032-vr-tractor-farming.json) |
