@@ -1444,6 +1444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Souls: Prepare to Die Edition | 21040 | [21040-dark-souls-prepare-to-die-edition.json](./21040-dark-souls-prepare-to-die-edition.json) |
 | Dark Space | 283396 | [283396-dark-space.json](./283396-dark-space.json) |
 | Dark Spirit | 294948 | [294948-dark-spirit.json](./294948-dark-spirit.json) |
+| Dark Spot | 157377 | [157377-dark-spot.json](./157377-dark-spot.json) |
 | Dark Star | 134598 | [134598-dark-star.json](./134598-dark-star.json) |
 | Dark Star | 13571 | [13571-dark-star.json](./13571-dark-star.json) |
 | Dark Star | 411651 | [411651-dark-star.json](./411651-dark-star.json) |
@@ -3215,6 +3216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadzone: Rogue - Apophis | 373616 | [373616-deadzone-rogue-apophis.json](./373616-deadzone-rogue-apophis.json) |
 | DeadZone: Survival Ops Zombie Shooter | 376225 | [376225-deadzone-survival-ops-zombie-shooter.json](./376225-deadzone-survival-ops-zombie-shooter.json) |
 | DeadZone: Survival Ops Zombie Shooter & WW2 Soldiers of Honor - Warzone Assault | 393065 | [393065-deadzone-survival-ops-zombie-shooter-and-ww2-soldiers-of-honor-warzone-assault.json](./393065-deadzone-survival-ops-zombie-shooter-and-ww2-soldiers-of-honor-warzone-assault.json) |
+| Deadzoned | 157461 | [157461-deadzoned.json](./157461-deadzoned.json) |
 | Deaf Wish | 297883 | [297883-deaf-wish.json](./297883-deaf-wish.json) |
 | DeafBlind | 302434 | [302434-deafblind.json](./302434-deafblind.json) |
 | Deal & Wheeler | 241457 | [241457-deal-and-wheeler.json](./241457-deal-and-wheeler.json) |
@@ -5055,6 +5057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Den-ou Suikoden | 91947 | [91947-den-ou-suikoden.json](./91947-den-ou-suikoden.json) |
 | Den' Rozhdeniya 2 | 336609 | [336609-den-rozhdeniya-2.json](./336609-den-rozhdeniya-2.json) |
 | DeNapsed | 400661 | [400661-denapsed.json](./400661-denapsed.json) |
+| Denari | 157372 | [157372-denari.json](./157372-denari.json) |
 | Denaris | 12047 | [12047-denaris.json](./12047-denaris.json) |
 | Denarius | 52752 | [52752-denarius.json](./52752-denarius.json) |
 | Denarius Avaricius Sextus | 85730 | [85730-denarius-avaricius-sextus.json](./85730-denarius-avaricius-sextus.json) |
@@ -13115,6 +13118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DS Yukemuri Suspense Series: Free Writer Tachibana Maki - "Touyako, Nanatsu no Yu, Okuyu no Sato" Shuzai Techou | 124517 | [124517-ds-yukemuri-suspense-series-free-writer-tachibana-maki-touyako-nanatsu-no-yu-okuyu-no-sato-shuzai-techou.json](./124517-ds-yukemuri-suspense-series-free-writer-tachibana-maki-touyako-nanatsu-no-yu-okuyu-no-sato-shuzai-techou.json) |
 | DsDooM3 | 314899 | [314899-dsdoom3.json](./314899-dsdoom3.json) |
 | DSS war party | 286071 | [286071-dss-war-party.json](./286071-dss-war-party.json) |
+| Dstnce. | 157435 | [157435-dstnce.json](./157435-dstnce.json) |
 | Dstroy | 19223 | [19223-dstroy.json](./19223-dstroy.json) |
 | Dsync | 103361 | [103361-dsync.json](./103361-dsync.json) |
 | DT Bloodmasters | 299563 | [299563-dt-bloodmasters.json](./299563-dt-bloodmasters.json) |
@@ -14468,6 +14472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dwarven Skykeep | 119769 | [119769-dwarven-skykeep.json](./119769-dwarven-skykeep.json) |
 | Dwarven Village: Dark Siege Td | 348847 | [348847-dwarven-village-dark-siege-td.json](./348847-dwarven-village-dark-siege-td.json) |
 | Dwarven: Mining Dungeons | 193435 | [193435-dwarven-mining-dungeons.json](./193435-dwarven-mining-dungeons.json) |
+| Dwarves & Dungeons | 157371 | [157371-dwarves-and-dungeons.json](./157371-dwarves-and-dungeons.json) |
 | Dwarves Craft: Father's Home | 147372 | [147372-dwarves-craft-fathers-home.json](./147372-dwarves-craft-fathers-home.json) |
 | Dwarves Craft: Mountain Brothers | 154286 | [154286-dwarves-craft-mountain-brothers.json](./154286-dwarves-craft-mountain-brothers.json) |
 | Dwarves Mining Idle | 245824 | [245824-dwarves-mining-idle.json](./245824-dwarves-mining-idle.json) |
