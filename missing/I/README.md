@@ -1310,6 +1310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Tap Zoo: Tap, Build & Upg | 245345 | [245345-idle-tap-zoo-tap-build-and-upg.json](./245345-idle-tap-zoo-tap-build-and-upg.json) |
 | Idle TD: Heroes vs Zombies | 160074 | [160074-idle-td-heroes-vs-zombies.json](./160074-idle-td-heroes-vs-zombies.json) |
 | Idle Team | 208174 | [208174-idle-team.json](./208174-idle-team.json) |
+| Idle Tentacles | 154884 | [154884-idle-tentacles.json](./154884-idle-tentacles.json) |
 | Idle Three Kingdoms | 224039 | [224039-idle-three-kingdoms.json](./224039-idle-three-kingdoms.json) |
 | Idle Tick | 274043 | [274043-idle-tick.json](./274043-idle-tick.json) |
 | Idle Tides | 409814 | [409814-idle-tides.json](./409814-idle-tides.json) |
