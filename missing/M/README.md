@@ -8704,6 +8704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Pool | 239485 | [239485-midnight-pool.json](./239485-midnight-pool.json) |
 | Midnight Pool 3 | 273841 | [273841-midnight-pool-3.json](./273841-midnight-pool-3.json) |
 | Midnight Postman | 342907 | [342907-midnight-postman.json](./342907-midnight-postman.json) |
+| Midnight Protocol | 123862 | [123862-midnight-protocol.json](./123862-midnight-protocol.json) |
 | Midnight Pufferfish Show | 250860 | [250860-midnight-pufferfish-show.json](./250860-midnight-pufferfish-show.json) |
 | Midnight Pulse | 106157 | [106157-midnight-pulse.json](./106157-midnight-pulse.json) |
 | Midnight Puppeteer | 108881 | [108881-midnight-puppeteer.json](./108881-midnight-puppeteer.json) |
@@ -11097,6 +11098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MMX Hill Dash | 86927 | [86927-mmx-hill-dash.json](./86927-mmx-hill-dash.json) |
 | MMX Hill Dash 2 - Race Offroad | 97262 | [97262-mmx-hill-dash-2-race-offroad.json](./97262-mmx-hill-dash-2-race-offroad.json) |
 | MMX Racing | 224004 | [224004-mmx-racing.json](./224004-mmx-racing.json) |
+| MMX: Otherworld Mystery - Expanded Edition | 123854 | [123854-mmx-otherworld-mystery-expanded-edition.json](./123854-mmx-otherworld-mystery-expanded-edition.json) |
 | Mnemocyne Complex | 365813 | [365813-mnemocyne-complex.json](./365813-mnemocyne-complex.json) |
 | Mnemonic | 336488 | [336488-mnemonic.json](./336488-mnemonic.json) |
 | Mnemonic | 60438 | [60438-mnemonic.json](./60438-mnemonic.json) |
