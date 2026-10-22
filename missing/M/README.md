@@ -16079,6 +16079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Kingdom for the Princess II | 259831 | [259831-my-kingdom-for-the-princess-ii.json](./259831-my-kingdom-for-the-princess-ii.json) |
 | My Kingdom for the Princess II HD | 102140 | [102140-my-kingdom-for-the-princess-ii-hd.json](./102140-my-kingdom-for-the-princess-ii-hd.json) |
 | My Kingdom for the Princess III | 90781 | [90781-my-kingdom-for-the-princess-iii.json](./90781-my-kingdom-for-the-princess-iii.json) |
+| My Kingdom for the Princess IV HD | 106348 | [106348-my-kingdom-for-the-princess-iv-hd.json](./106348-my-kingdom-for-the-princess-iv-hd.json) |
 | My Klutzy Cupid | 248894 | [248894-my-klutzy-cupid.json](./248894-my-klutzy-cupid.json) |
 | My Koi | 88110 | [88110-my-koi.json](./88110-my-koi.json) |
 | My Lady | 33134 | [33134-my-lady.json](./33134-my-lady.json) |
