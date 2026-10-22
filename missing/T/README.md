@@ -88,6 +88,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Table Tennis | 150560 | [150560-table-tennis.json](./150560-table-tennis.json) |
 | Table Tennis | 277711 | [277711-table-tennis.json](./277711-table-tennis.json) |
 | Table Tennis Infinity | 85420 | [85420-table-tennis-infinity.json](./85420-table-tennis-infinity.json) |
+| Table Tennis Pro | 155421 | [155421-table-tennis-pro.json](./155421-table-tennis-pro.json) |
 | Table Tennis Simulation | 72076 | [72076-table-tennis-simulation.json](./72076-table-tennis-simulation.json) |
 | Table Tennis Star | 58654 | [58654-table-tennis-star.json](./58654-table-tennis-star.json) |
 | Table Tennis Toon! | 278943 | [278943-table-tennis-toon.json](./278943-table-tennis-toon.json) |
@@ -7017,6 +7018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Extravagant Bill | 185322 | [185322-the-extravagant-bill.json](./185322-the-extravagant-bill.json) |
 | The Eye | 141836 | [141836-the-eye.json](./141836-the-eye.json) |
 | The Eye of Borrack | 122823 | [122823-the-eye-of-borrack.json](./122823-the-eye-of-borrack.json) |
+| The Eye of Borrack: Tangled Tales | 155414 | [155414-the-eye-of-borrack-tangled-tales.json](./155414-the-eye-of-borrack-tangled-tales.json) |
 | The Eye of Judgment | 7302 | [7302-the-eye-of-judgment.json](./7302-the-eye-of-judgment.json) |
 | The Eye of Judgment: Legends | 46020 | [46020-the-eye-of-judgment-legends.json](./46020-the-eye-of-judgment-legends.json) |
 | The Eye of Modern Mali | 103185 | [103185-the-eye-of-modern-mali.json](./103185-the-eye-of-modern-mali.json) |
@@ -9640,6 +9642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Heroes: Trails of Cold Steel | 13557 | [13557-the-legend-of-heroes-trails-of-cold-steel.json](./13557-the-legend-of-heroes-trails-of-cold-steel.json) |
 | The Legend of Heroes: Trails of Cold Steel - Decisive Edition | 136298 | [136298-the-legend-of-heroes-trails-of-cold-steel-decisive-edition.json](./136298-the-legend-of-heroes-trails-of-cold-steel-decisive-edition.json) |
 | The Legend of Heroes: Trails of Cold Steel - Lionheart Edition | 89911 | [89911-the-legend-of-heroes-trails-of-cold-steel-lionheart-edition.json](./89911-the-legend-of-heroes-trails-of-cold-steel-lionheart-edition.json) |
+| The Legend of Heroes: Trails of Cold Steel - Shining Pom Bait Pack 2 | 155420 | [155420-the-legend-of-heroes-trails-of-cold-steel-shining-pom-bait-pack-2.json](./155420-the-legend-of-heroes-trails-of-cold-steel-shining-pom-bait-pack-2.json) |
 | The Legend of Heroes: Trails of Cold Steel II | 13558 | [13558-the-legend-of-heroes-trails-of-cold-steel-ii.json](./13558-the-legend-of-heroes-trails-of-cold-steel-ii.json) |
 | The Legend of Heroes: Trails of Cold Steel II - All Ride-Alongs | 124812 | [124812-the-legend-of-heroes-trails-of-cold-steel-ii-all-ride-alongs.json](./124812-the-legend-of-heroes-trails-of-cold-steel-ii-all-ride-alongs.json) |
 | The Legend of Heroes: Trails of Cold Steel II - Relentless Edition | 167087 | [167087-the-legend-of-heroes-trails-of-cold-steel-ii-relentless-edition.json](./167087-the-legend-of-heroes-trails-of-cold-steel-ii-relentless-edition.json) |
@@ -25433,6 +25436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TV Farm | 355530 | [355530-tv-farm.json](./355530-tv-farm.json) |
 | TV Guide | 135699 | [135699-tv-guide.json](./135699-tv-guide.json) |
 | TV Kamishibai Vol. 1 | 273256 | [273256-tv-kamishibai-vol-1.json](./273256-tv-kamishibai-vol-1.json) |
+| TV Kid | 155416 | [155416-tv-kid.json](./155416-tv-kid.json) |
 | TV Manager 2: Premium version | 24733 | [24733-tv-manager-2-premium-version.json](./24733-tv-manager-2-premium-version.json) |
 | TV Night | 177800 | [177800-tv-night.json](./177800-tv-night.json) |
 | TV no Himitsu: Gyoukai Aruaru wo Sagase! | 251627 | [251627-tv-no-himitsu-gyoukai-aruaru-wo-sagase.json](./251627-tv-no-himitsu-gyoukai-aruaru-wo-sagase.json) |
