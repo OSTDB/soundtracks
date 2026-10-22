@@ -3218,6 +3218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enter the Cyberjungle | 241853 | [241853-enter-the-cyberjungle.json](./241853-enter-the-cyberjungle.json) |
 | Enter the Depths | 406137 | [406137-enter-the-depths.json](./406137-enter-the-depths.json) |
 | Enter the Dojo | 367732 | [367732-enter-the-dojo.json](./367732-enter-the-dojo.json) |
+| Enter the Drunkgeon | 149971 | [149971-enter-the-drunkgeon.json](./149971-enter-the-drunkgeon.json) |
 | Enter the Flesh Again | 105110 | [105110-enter-the-flesh-again.json](./105110-enter-the-flesh-again.json) |
 | Enter the Gungeon: A Farewell to Arms | 118942 | [118942-enter-the-gungeon-a-farewell-to-arms.json](./118942-enter-the-gungeon-a-farewell-to-arms.json) |
 | Enter The Lost Chamber | 294005 | [294005-enter-the-lost-chamber.json](./294005-enter-the-lost-chamber.json) |
@@ -5055,6 +5056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eve: The Fatal Attraction | 44730 | [44730-eve-the-fatal-attraction.json](./44730-eve-the-fatal-attraction.json) |
 | EVE: Valkyrie - Warzone | 68444 | [68444-eve-valkyrie-warzone.json](./68444-eve-valkyrie-warzone.json) |
 | EVE: War of Ascension | 74277 | [74277-eve-war-of-ascension.json](./74277-eve-war-of-ascension.json) |
+| Evector: Acid Thirst | 149846 | [149846-evector-acid-thirst.json](./149846-evector-acid-thirst.json) |
 | Evel Knievel | 200330 | [200330-evel-knievel.json](./200330-evel-knievel.json) |
 | Evel Knievel | 348405 | [348405-evel-knievel.json](./348405-evel-knievel.json) |
 | Evel Knievel Evel-ution | 23533 | [23533-evel-knievel-evel-ution.json](./23533-evel-knievel-evel-ution.json) |
