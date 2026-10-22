@@ -1255,6 +1255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Necessary Bimbos | 185699 | [185699-necessary-bimbos.json](./185699-necessary-bimbos.json) |
 | Necessary Force | 68014 | [68014-necessary-force.json](./68014-necessary-force.json) |
 | Neck-N-Neck | 40381 | [40381-neck-n-neck.json](./40381-neck-n-neck.json) |
+| Neckbeardia | 121288 | [121288-neckbeardia.json](./121288-neckbeardia.json) |
 | Neckbeards: Cuck Invaders | 81737 | [81737-neckbeards-cuck-invaders.json](./81737-neckbeards-cuck-invaders.json) |
 | Neckbreak | 308504 | [308504-neckbreak.json](./308504-neckbreak.json) |
 | Necks Please... | 294212 | [294212-necks-please.json](./294212-necks-please.json) |
@@ -3090,6 +3091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nice Day for Fishing | 324939 | [324939-nice-day-for-fishing.json](./324939-nice-day-for-fishing.json) |
 | Nice de Shot: World Course Selections | 37907 | [37907-nice-de-shot-world-course-selections.json](./37907-nice-de-shot-world-course-selections.json) |
 | Nice Dice - 3D dice roller | 102724 | [102724-nice-dice-3d-dice-roller.json](./102724-nice-dice-3d-dice-roller.json) |
+| Nice Jumper | 121280 | [121280-nice-jumper.json](./121280-nice-jumper.json) |
 | Nice Mario 75 | 294791 | [294791-nice-mario-75.json](./294791-nice-mario-75.json) |
 | Nice Pro? | 336749 | [336749-nice-pro.json](./336749-nice-pro.json) |
 | Nice Shot Golf | 123629 | [123629-nice-shot-golf.json](./123629-nice-shot-golf.json) |
