@@ -93,6 +93,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | B's-LOG Party | 45989 | [45989-bs-log-party.json](./45989-bs-log-party.json) |
 | B&F 1: The Dark Corridor | 393478 | [393478-b-and-f-1-the-dark-corridor.json](./393478-b-and-f-1-the-dark-corridor.json) |
 | B1 | 289342 | [289342-b1.json](./289342-b1.json) |
+| B100X: Auto Dungeon RPG | 142667 | [142667-b100x-auto-dungeon-rpg.json](./142667-b100x-auto-dungeon-rpg.json) |
 | B1g Br0th3r | 136243 | [136243-b1g-br0th3r.json](./136243-b1g-br0th3r.json) |
 | B3 | 289382 | [289382-b3.json](./289382-b3.json) |
 | B3313 Unabandoned | 281260 | [281260-b3313-unabandoned.json](./281260-b3313-unabandoned.json) |
@@ -5682,6 +5683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Beautiful Van Derby Racing | 366095 | [366095-big-beautiful-van-derby-racing.json](./366095-big-beautiful-van-derby-racing.json) |
 | Big Beautiful Women: Giantess Dating Action | 373174 | [373174-big-beautiful-women-giantess-dating-action.json](./373174-big-beautiful-women-giantess-dating-action.json) |
 | Big Ben | 13814 | [13814-big-ben.json](./13814-big-ben.json) |
+| Big Bia | 142674 | [142674-big-bia.json](./142674-big-bia.json) |
 | Big Bible Town | 326992 | [326992-big-bible-town.json](./326992-big-bible-town.json) |
 | Big Bird's Egg Catch | 40633 | [40633-big-birds-egg-catch.json](./40633-big-birds-egg-catch.json) |
 | Big Bird's Funhouse | 362421 | [362421-big-birds-funhouse.json](./362421-big-birds-funhouse.json) |
@@ -7956,6 +7958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blizz! | 354945 | [354945-blizz.json](./354945-blizz.json) |
 | Blizzard | 92141 | [92141-blizzard.json](./92141-blizzard.json) |
 | Blizzard Blowout 64 | 177563 | [177563-blizzard-blowout-64.json](./177563-blizzard-blowout-64.json) |
+| Blizzard of Faith & Revenge | 142928 | [142928-blizzard-of-faith-and-revenge.json](./142928-blizzard-of-faith-and-revenge.json) |
 | Blizzard World | 175276 | [175276-blizzard-world.json](./175276-blizzard-world.json) |
 | Bloat | 138620 | [138620-bloat.json](./138620-bloat.json) |
 | Blob | 14319 | [14319-blob.json](./14319-blob.json) |
@@ -8717,6 +8720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloodwash | 170938 | [170938-bloodwash.json](./170938-bloodwash.json) |
 | Bloodwatch | 211121 | [211121-bloodwatch.json](./211121-bloodwatch.json) |
 | Bloodwings: Pumpkinhead's Revenge | 67291 | [67291-bloodwings-pumpkinheads-revenge.json](./67291-bloodwings-pumpkinheads-revenge.json) |
+| Bloodwolf | 142899 | [142899-bloodwolf.json](./142899-bloodwolf.json) |
 | Bloodwood Dungeon | 297847 | [297847-bloodwood-dungeon.json](./297847-bloodwood-dungeon.json) |
 | Bloodwood Reload | 35742 | [35742-bloodwood-reload.json](./35742-bloodwood-reload.json) |
 | Bloodworks | 76533 | [76533-bloodworks.json](./76533-bloodworks.json) |
@@ -8982,6 +8986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Fire: Void of Sorrows | 223954 | [223954-blue-fire-void-of-sorrows.json](./223954-blue-fire-void-of-sorrows.json) |
 | Blue Fish and Underwater Worlds | 146275 | [146275-blue-fish-and-underwater-worlds.json](./146275-blue-fish-and-underwater-worlds.json) |
 | Blue Fish Yokohama | 212824 | [212824-blue-fish-yokohama.json](./212824-blue-fish-yokohama.json) |
+| Blue Flame | 142669 | [142669-blue-flame.json](./142669-blue-flame.json) |
 | Blue Flow | 245680 | [245680-blue-flow.json](./245680-blue-flow.json) |
 | Blue Flow | 380033 | [380033-blue-flow.json](./380033-blue-flow.json) |
 | Blue Flow Fandisc | 408309 | [408309-blue-flow-fandisc.json](./408309-blue-flow-fandisc.json) |
@@ -13240,6 +13245,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bullet Hell Collection: Volume 1 | 283596 | [283596-bullet-hell-collection-volume-1.json](./283596-bullet-hell-collection-volume-1.json) |
 | Bullet Hell Heroes | 194158 | [194158-bullet-hell-heroes.json](./194158-bullet-hell-heroes.json) |
 | Bullet Hell Monday | 57089 | [57089-bullet-hell-monday.json](./57089-bullet-hell-monday.json) |
+| Bullet Hell Monday Black | 142912 | [142912-bullet-hell-monday-black.json](./142912-bullet-hell-monday-black.json) |
+| Bullet Hell Monday Finale | 142915 | [142915-bullet-hell-monday-finale.json](./142915-bullet-hell-monday-finale.json) |
 | Bullet Inferno | 368494 | [368494-bullet-inferno.json](./368494-bullet-inferno.json) |
 | Bullet Life 2010 | 32641 | [32641-bullet-life-2010.json](./32641-bullet-life-2010.json) |
 | Bullet Looper | 180051 | [180051-bullet-looper.json](./180051-bullet-looper.json) |
