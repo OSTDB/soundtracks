@@ -1208,6 +1208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ollie & Bollie: Outdoor Estate | 129660 | [129660-ollie-and-bollie-outdoor-estate.json](./129660-ollie-and-bollie-outdoor-estate.json) |
 | Ollie and the Merchant of Dreams | 391564 | [391564-ollie-and-the-merchant-of-dreams.json](./391564-ollie-and-the-merchant-of-dreams.json) |
 | Ollie Ollie Oxen Free | 60010 | [60010-ollie-ollie-oxen-free.json](./60010-ollie-ollie-oxen-free.json) |
+| Ollie-Oop | 121995 | [121995-ollie-oop.json](./121995-ollie-oop.json) |
 | Ollie's Follies | 25896 | [25896-ollies-follies.json](./25896-ollies-follies.json) |
 | Ollie's Manor | 196536 | [196536-ollies-manor.json](./196536-ollies-manor.json) |
 | Olliefrog Toad Skater | 204522 | [204522-olliefrog-toad-skater.json](./204522-olliefrog-toad-skater.json) |
