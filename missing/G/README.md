@@ -7117,6 +7117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grim Tales: The Wishes - Collector's Edition | 76483 | [76483-grim-tales-the-wishes-collectors-edition.json](./76483-grim-tales-the-wishes-collectors-edition.json) |
 | Grim Tales: The Wishes & Grim Tales: The Stone Queen | 200956 | [200956-grim-tales-the-wishes-and-grim-tales-the-stone-queen.json](./200956-grim-tales-the-wishes-and-grim-tales-the-stone-queen.json) |
 | Grim Tales: Threads of Destiny | 153388 | [153388-grim-tales-threads-of-destiny.json](./153388-grim-tales-threads-of-destiny.json) |
+| Grim Tales: Threads of Destiny - Collector's Edition | 153228 | [153228-grim-tales-threads-of-destiny-collectors-edition.json](./153228-grim-tales-threads-of-destiny-collectors-edition.json) |
 | Grim Tales: Trace in Time | 187964 | [187964-grim-tales-trace-in-time.json](./187964-grim-tales-trace-in-time.json) |
 | Grim Tales: Trace in Time - Collector's Edition | 168166 | [168166-grim-tales-trace-in-time-collectors-edition.json](./168166-grim-tales-trace-in-time-collectors-edition.json) |
 | Grim Tranquility | 166477 | [166477-grim-tranquility.json](./166477-grim-tranquility.json) |
