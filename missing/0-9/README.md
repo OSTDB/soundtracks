@@ -630,6 +630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1001 BC: A Mediterranean Odyssey | 12353 | [12353-1001-bc-a-mediterranean-odyssey.json](./12353-1001-bc-a-mediterranean-odyssey.json) |
 | 1001 Black Raven Jigsaw | 199356 | [199356-1001-black-raven-jigsaw.json](./199356-1001-black-raven-jigsaw.json) |
 | 1001 Crystal Mazes Collection | 66625 | [66625-1001-crystal-mazes-collection.json](./66625-1001-crystal-mazes-collection.json) |
+| 1001 Hugs | 126261 | [126261-1001-hugs.json](./126261-1001-hugs.json) |
 | 1001 Jigsaw American Puzzles | 195421 | [195421-1001-jigsaw-american-puzzles.json](./195421-1001-jigsaw-american-puzzles.json) |
 | 1001 Jigsaw Detective | 166639 | [166639-1001-jigsaw-detective.json](./166639-1001-jigsaw-detective.json) |
 | 1001 Jigsaw Detective 3 | 268027 | [268027-1001-jigsaw-detective-3.json](./268027-1001-jigsaw-detective-3.json) |
@@ -739,6 +740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1010: Block | 58253 | [58253-1010-block.json](./58253-1010-block.json) |
 | 1010! | 239119 | [239119-1010.json](./239119-1010.json) |
 | 10101: "Will" the Starship | 127739 | [127739-10101-will-the-starship.json](./127739-10101-will-the-starship.json) |
+| 101010 | 126254 | [126254-101010.json](./126254-101010.json) |
 | 1010Tro | 380685 | [380685-1010tro.json](./380685-1010tro.json) |
 | 101st Airborne in Normandy | 359213 | [359213-101st-airborne-in-normandy.json](./359213-101st-airborne-in-normandy.json) |
 | 102 Dalmatians: Activity Centre | 127640 | [127640-102-dalmatians-activity-centre.json](./127640-102-dalmatians-activity-centre.json) |
@@ -1610,6 +1612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 30 Days in Red Army | 204425 | [204425-30-days-in-red-army.json](./204425-30-days-in-red-army.json) |
 | 30 Days of Tower | 290955 | [290955-30-days-of-tower.json](./290955-30-days-of-tower.json) |
 | 30 Days to be the Best | 211389 | [211389-30-days-to-be-the-best.json](./211389-30-days-to-be-the-best.json) |
+| 30 days to Defence | 126267 | [126267-30-days-to-defence.json](./126267-30-days-to-defence.json) |
 | 30 Floors of Madness | 308952 | [308952-30-floors-of-madness.json](./308952-30-floors-of-madness.json) |
 | 30 in 1 Family Games Mega Collection | 391259 | [391259-30-in-1-family-games-mega-collection.json](./391259-30-in-1-family-games-mega-collection.json) |
 | 30 Minutes to Die | 214691 | [214691-30-minutes-to-die.json](./214691-30-minutes-to-die.json) |
