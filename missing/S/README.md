@@ -22838,6 +22838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suicide Guy Bundle | 376242 | [376242-suicide-guy-bundle.json](./376242-suicide-guy-bundle.json) |
 | Suicide Guy Collection | 118151 | [118151-suicide-guy-collection.json](./118151-suicide-guy-collection.json) |
 | Suicide Guy VR: Deluxe | 276408 | [276408-suicide-guy-vr-deluxe.json](./276408-suicide-guy-vr-deluxe.json) |
+| Suicide Guy: Deluxe Edition | 153229 | [153229-suicide-guy-deluxe-edition.json](./153229-suicide-guy-deluxe-edition.json) |
 | Suicide Guy: Deluxe Plus | 200978 | [200978-suicide-guy-deluxe-plus.json](./200978-suicide-guy-deluxe-plus.json) |
 | Suicide Guy: Sleepin' Deeply | 102917 | [102917-suicide-guy-sleepin-deeply.json](./102917-suicide-guy-sleepin-deeply.json) |
 | Suicide Hero | 244279 | [244279-suicide-hero.json](./244279-suicide-hero.json) |
