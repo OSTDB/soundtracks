@@ -11836,6 +11836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mongrel Games Minigames | 211636 | [211636-mongrel-games-minigames.json](./211636-mongrel-games-minigames.json) |
 | Mónǐ Jiā Zhuāngxiū | 117471 | [117471-moni-jia-zhuangxiu.json](./117471-moni-jia-zhuangxiu.json) |
 | Mônica Dentuça | 216273 | [216273-monica-dentuca.json](./216273-monica-dentuca.json) |
+| Mônica e a Guarda dos Coelhos | 112669 | [112669-monica-e-a-guarda-dos-coelhos.json](./112669-monica-e-a-guarda-dos-coelhos.json) |
 | Mônica no Castelo do Dragão | 9557 | [9557-monica-no-castelo-do-dragao.json](./9557-monica-no-castelo-do-dragao.json) |
 | Monica's Paradox | 276222 | [276222-monicas-paradox.json](./276222-monicas-paradox.json) |
 | Monica's Revenge Tragedy | 171299 | [171299-monicas-revenge-tragedy.json](./171299-monicas-revenge-tragedy.json) |
@@ -12630,6 +12631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monsters | 151819 | [151819-monsters.json](./151819-monsters.json) |
 | Monsters | 314359 | [314359-monsters.json](./314359-monsters.json) |
 | Monsters 'til Midnight | 236220 | [236220-monsters-til-midnight.json](./236220-monsters-til-midnight.json) |
+| Monsters & Anomaly | 112692 | [112692-monsters-and-anomaly.json](./112692-monsters-and-anomaly.json) |
 | Monsters & Memories | 233978 | [233978-monsters-and-memories.json](./233978-monsters-and-memories.json) |
 | Monsters & Munitions | 16720 | [16720-monsters-and-munitions.json](./16720-monsters-and-munitions.json) |
 | Monsters and Magic | 356671 | [356671-monsters-and-magic.json](./356671-monsters-and-magic.json) |
