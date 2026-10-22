@@ -2791,6 +2791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nexomon | 88130 | [88130-nexomon.json](./88130-nexomon.json) |
 | Nexomon + Nexomon Extinction: Complete Collection | 203097 | [203097-nexomon-nexomon-extinction-complete-collection.json](./203097-nexomon-nexomon-extinction-complete-collection.json) |
 | Nexonauts | 336563 | [336563-nexonauts.json](./336563-nexonauts.json) |
+| Nexoria: Dungeon Rogue Heroes | 128859 | [128859-nexoria-dungeon-rogue-heroes.json](./128859-nexoria-dungeon-rogue-heroes.json) |
 | Next 2 | 81627 | [81627-next-2.json](./81627-next-2.json) |
 | Next 4 | 102440 | [102440-next-4.json](./102440-next-4.json) |
 | Next Backgammon | 88796 | [88796-next-backgammon.json](./88796-next-backgammon.json) |
