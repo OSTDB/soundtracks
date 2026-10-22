@@ -87,9 +87,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | La Divina Commedia | 361884 | [361884-la-divina-commedia.json](./361884-la-divina-commedia.json) |
 | La Escalera | 290332 | [290332-la-escalera.json](./290332-la-escalera.json) |
 | La Espada Sagrada | 141821 | [141821-la-espada-sagrada.json](./141821-la-espada-sagrada.json) |
+| La Fabbrica Spaziale | 145977 | [145977-la-fabbrica-spaziale.json](./145977-la-fabbrica-spaziale.json) |
 | La Foret | 176779 | [176779-la-foret.json](./176779-la-foret.json) |
 | La Foret De Pago 2: Souvenir de Glace | 163800 | [163800-la-foret-de-pago-2-souvenir-de-glace.json](./163800-la-foret-de-pago-2-souvenir-de-glace.json) |
 | La Fuga | 115603 | [115603-la-fuga.json](./115603-la-fuga.json) |
+| La Giungla Tenebrosa | 145976 | [145976-la-giungla-tenebrosa.json](./145976-la-giungla-tenebrosa.json) |
 | La Guerra de las Vajillas | 85724 | [85724-la-guerra-de-las-vajillas.json](./85724-la-guerra-de-las-vajillas.json) |
 | La Historia De | 129078 | [129078-la-historia-de.json](./129078-la-historia-de.json) |
 | LA Hollywood Zombies | 273633 | [273633-la-hollywood-zombies.json](./273633-la-hollywood-zombies.json) |
@@ -115,6 +117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | La Mémoire | 126928 | [126928-la-memoire.json](./126928-la-memoire.json) |
 | La Mina | 252994 | [252994-la-mina.json](./252994-la-mina.json) |
 | LA Monsters | 154970 | [154970-la-monsters.json](./154970-la-monsters.json) |
+| La Montagna Misteriosa | 145980 | [145980-la-montagna-misteriosa.json](./145980-la-montagna-misteriosa.json) |
 | La Neige | 97786 | [97786-la-neige.json](./97786-la-neige.json) |
 | La Nuit | 261807 | [261807-la-nuit.json](./261807-la-nuit.json) |
 | La Odisea del Fracaso | 323331 | [323331-la-odisea-del-fracaso.json](./323331-la-odisea-del-fracaso.json) |
@@ -142,6 +145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | La Tailor Girl | 198353 | [198353-la-tailor-girl.json](./198353-la-tailor-girl.json) |
 | La torre de Mario | 374170 | [374170-la-torre-de-mario.json](./374170-la-torre-de-mario.json) |
 | La Ultima Comida | 153427 | [153427-la-ultima-comida.json](./153427-la-ultima-comida.json) |
+| La Valle Magica | 145975 | [145975-la-valle-magica.json](./145975-la-valle-magica.json) |
 | La Vie d'Emma: Infirmière de Choc | 406653 | [406653-la-vie-demma-infirmiere-de-choc.json](./406653-la-vie-demma-infirmiere-de-choc.json) |
 | La Vie en Rose | 183071 | [183071-la-vie-en-rose.json](./183071-la-vie-en-rose.json) |
 | La Vie La Rue | 199617 | [199617-la-vie-la-rue.json](./199617-la-vie-la-rue.json) |
@@ -2976,6 +2980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Sing 2021: Asia | 321520 | [321520-lets-sing-2021-asia.json](./321520-lets-sing-2021-asia.json) |
 | Let's Sing 2021: Double Mic Bundle | 141652 | [141652-lets-sing-2021-double-mic-bundle.json](./141652-lets-sing-2021-double-mic-bundle.json) |
 | Let's Sing 2021: Hits Français et Internationaux Solo | 137084 | [137084-lets-sing-2021-hits-francais-et-internationaux-solo.json](./137084-lets-sing-2021-hits-francais-et-internationaux-solo.json) |
+| Let's Sing 2021: Mit Deutschen Hits | 146150 | [146150-lets-sing-2021-mit-deutschen-hits.json](./146150-lets-sing-2021-mit-deutschen-hits.json) |
 | Let's Sing 2022: Chinese Version | 215361 | [215361-lets-sing-2022-chinese-version.json](./215361-lets-sing-2022-chinese-version.json) |
 | Let's Sing 2022: French Version | 175978 | [175978-lets-sing-2022-french-version.json](./175978-lets-sing-2022-french-version.json) |
 | Let's Sing 2022: Platinum Edition | 185980 | [185980-lets-sing-2022-platinum-edition.json](./185980-lets-sing-2022-platinum-edition.json) |
@@ -7744,6 +7749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lust for Speed | 152807 | [152807-lust-for-speed.json](./152807-lust-for-speed.json) |
 | Lust from Beyond | 115903 | [115903-lust-from-beyond.json](./115903-lust-from-beyond.json) |
 | Lust From Beyond: M Edition | 152313 | [152313-lust-from-beyond-m-edition.json](./152313-lust-from-beyond-m-edition.json) |
+| Lust from Beyond: Prologue | 145974 | [145974-lust-from-beyond-prologue.json](./145974-lust-from-beyond-prologue.json) |
 | Lust from Beyond: Scarlet | 141129 | [141129-lust-from-beyond-scarlet.json](./141129-lust-from-beyond-scarlet.json) |
 | Lust From Beyond: The Full Set | 336049 | [336049-lust-from-beyond-the-full-set.json](./336049-lust-from-beyond-the-full-set.json) |
 | Lust Galaxy | 309478 | [309478-lust-galaxy.json](./309478-lust-galaxy.json) |
