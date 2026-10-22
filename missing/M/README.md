@@ -5567,6 +5567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medieval StartUp | 347082 | [347082-medieval-startup.json](./347082-medieval-startup.json) |
 | Medieval Steve | 108253 | [108253-medieval-steve.json](./108253-medieval-steve.json) |
 | Medieval Story | 47162 | [47162-medieval-story.json](./47162-medieval-story.json) |
+| Medieval Survival | 110688 | [110688-medieval-survival.json](./110688-medieval-survival.json) |
 | Medieval Tales Solitaire | 236254 | [236254-medieval-tales-solitaire.json](./236254-medieval-tales-solitaire.json) |
 | Medieval Tavern Simulator | 407369 | [407369-medieval-tavern-simulator.json](./407369-medieval-tavern-simulator.json) |
 | Medieval Times | 119345 | [119345-medieval-times.json](./119345-medieval-times.json) |
@@ -7988,6 +7989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metropolis Odyssey | 165377 | [165377-metropolis-odyssey.json](./165377-metropolis-odyssey.json) |
 | Metropolis Origins | 183871 | [183871-metropolis-origins.json](./183871-metropolis-origins.json) |
 | Metropolis: Lux Obscura | 68442 | [68442-metropolis-lux-obscura.json](./68442-metropolis-lux-obscura.json) |
+| Metropolisim | 110699 | [110699-metropolisim.json](./110699-metropolisim.json) |
 | Metropolismania | 26661 | [26661-metropolismania.json](./26661-metropolismania.json) |
 | Metropolismania 2 | 68118 | [68118-metropolismania-2.json](./68118-metropolismania-2.json) |
 | Metropolismania 4 | 178560 | [178560-metropolismania-4.json](./178560-metropolismania-4.json) |
