@@ -3553,6 +3553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret Mode's Cozy Collection | 328500 | [328500-secret-modes-cozy-collection.json](./328500-secret-modes-cozy-collection.json) |
 | Secret Mysteries in London | 84900 | [84900-secret-mysteries-in-london.json](./84900-secret-mysteries-in-london.json) |
 | Secret Mysteries in New York | 84899 | [84899-secret-mysteries-in-new-york.json](./84899-secret-mysteries-in-new-york.json) |
+| Secret Mysteries: Mythical Lands | 106925 | [106925-secret-mysteries-mythical-lands.json](./106925-secret-mysteries-mythical-lands.json) |
 | Secret Mystery: Door of Stealth | 103910 | [103910-secret-mystery-door-of-stealth.json](./103910-secret-mystery-door-of-stealth.json) |
 | Secret Neighbor | 103295 | [103295-secret-neighbor.json](./103295-secret-neighbor.json) |
 | Secret Neighbor + Hello Engineer The Neighborhood Bundle | 350796 | [350796-secret-neighbor-hello-engineer-the-neighborhood-bundle.json](./350796-secret-neighbor-hello-engineer-the-neighborhood-bundle.json) |
@@ -7155,6 +7156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shooting Love. 10-shuunen | 268857 | [268857-shooting-love-10-shuunen.json](./268857-shooting-love-10-shuunen.json) |
 | Shooting Love. 2007 | 83422 | [83422-shooting-love-2007.json](./83422-shooting-love-2007.json) |
 | Shooting Master | 366914 | [366914-shooting-master.json](./366914-shooting-master.json) |
+| Shooting Master 3D | 106912 | [106912-shooting-master-3d.json](./106912-shooting-master-3d.json) |
 | Shooting Range | 325570 | [325570-shooting-range.json](./325570-shooting-range.json) |
 | Shooting Range by Thornbury Software | 84871 | [84871-shooting-range-by-thornbury-software.json](./84871-shooting-range-by-thornbury-software.json) |
 | Shooting Range Simulator | 309532 | [309532-shooting-range-simulator.json](./309532-shooting-range-simulator.json) |
@@ -9529,6 +9531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skiddy | 281528 | [281528-skiddy.json](./281528-skiddy.json) |
 | Skidlocked | 129519 | [129519-skidlocked.json](./129519-skidlocked.json) |
 | Skidmarks | 65506 | [65506-skidmarks.json](./65506-skidmarks.json) |
+| Skido Spite & Malice | 106928 | [106928-skido-spite-and-malice.json](./106928-skido-spite-and-malice.json) |
 | Skidrush | 309544 | [309544-skidrush.json](./309544-skidrush.json) |
 | SkidStorm | 54977 | [54977-skidstorm.json](./54977-skidstorm.json) |
 | Skidz | 15369 | [15369-skidz.json](./15369-skidz.json) |
@@ -26305,6 +26308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supermarket Life Simulator | 407487 | [407487-supermarket-life-simulator.json](./407487-supermarket-life-simulator.json) |
 | Supermarket Management | 88156 | [88156-supermarket-management.json](./88156-supermarket-management.json) |
 | Supermarket Management 2 | 87115 | [87115-supermarket-management-2.json](./87115-supermarket-management-2.json) |
+| Supermarket Management 2 HD | 106921 | [106921-supermarket-management-2-hd.json](./106921-supermarket-management-2-hd.json) |
 | Supermarket Manager | 218686 | [218686-supermarket-manager.json](./218686-supermarket-manager.json) |
 | Supermarket Manager Empire 2024 | 316240 | [316240-supermarket-manager-empire-2024.json](./316240-supermarket-manager-empire-2024.json) |
 | Supermarket Manager Simulator | 314863 | [314863-supermarket-manager-simulator.json](./314863-supermarket-manager-simulator.json) |
@@ -27339,6 +27343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Idol | 371243 | [371243-sweet-idol.json](./371243-sweet-idol.json) |
 | Sweet In the Mountains | 213785 | [213785-sweet-in-the-mountains.json](./213785-sweet-in-the-mountains.json) |
 | Sweet Island | 392924 | [392924-sweet-island.json](./392924-sweet-island.json) |
+| Sweet Jelly Crush Mania | 106935 | [106935-sweet-jelly-crush-mania.json](./106935-sweet-jelly-crush-mania.json) |
 | Sweet Jewels | 359404 | [359404-sweet-jewels.json](./359404-sweet-jewels.json) |
 | Sweet Kimono | 367311 | [367311-sweet-kimono.json](./367311-sweet-kimono.json) |
 | Sweet Love | 165027 | [165027-sweet-love.json](./165027-sweet-love.json) |
