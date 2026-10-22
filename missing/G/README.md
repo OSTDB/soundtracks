@@ -2846,6 +2846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghetto Zombies: Graffiti Squad | 255711 | [255711-ghetto-zombies-graffiti-squad.json](./255711-ghetto-zombies-graffiti-squad.json) |
 | GHGuessr | 294541 | [294541-ghguessr.json](./294541-ghguessr.json) |
 | Ghlobot Shift | 366113 | [366113-ghlobot-shift.json](./366113-ghlobot-shift.json) |
+| Ghone is gone | 128219 | [128219-ghone-is-gone.json](./128219-ghone-is-gone.json) |
 | Ghost | 188440 | [188440-ghost.json](./188440-ghost.json) |
 | Ghost 1.0: Limited Edition | 166995 | [166995-ghost-1-0-limited-edition.json](./166995-ghost-1-0-limited-edition.json) |
 | Ghost Algorithm | 391665 | [391665-ghost-algorithm.json](./391665-ghost-algorithm.json) |
