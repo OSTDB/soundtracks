@@ -992,6 +992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rain's Love Memory | 117087 | [117087-rains-love-memory.json](./117087-rains-love-memory.json) |
 | Rain98 | 339805 | [339805-rain98.json](./339805-rain98.json) |
 | Rainblocks | 212297 | [212297-rainblocks.json](./212297-rainblocks.json) |
+| Rainbocorns | 147722 | [147722-rainbocorns.json](./147722-rainbocorns.json) |
 | Rainbow | 196629 | [196629-rainbow.json](./196629-rainbow.json) |
 | Rainbow | 264558 | [264558-rainbow.json](./264558-rainbow.json) |
 | Rainbow | 359417 | [359417-rainbow.json](./359417-rainbow.json) |
@@ -2236,6 +2237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Drift Racing | 119444 | [119444-real-drift-racing.json](./119444-real-drift-racing.json) |
 | Real Driver Legend of the City | 216133 | [216133-real-driver-legend-of-the-city.json](./216133-real-driver-legend-of-the-city.json) |
 | Real Driving 2: Ultimate Car Simulator | 208962 | [208962-real-driving-2-ultimate-car-simulator.json](./208962-real-driving-2-ultimate-car-simulator.json) |
+| Real Driving Sim | 147721 | [147721-real-driving-sim.json](./147721-real-driving-sim.json) |
 | Real Driving Simulator 23 | 252555 | [252555-real-driving-simulator-23.json](./252555-real-driving-simulator-23.json) |
 | Real Drone Simulator | 298936 | [298936-real-drone-simulator.json](./298936-real-drone-simulator.json) |
 | Real Erogame Situation! Triple H | 194627 | [194627-real-erogame-situation-triple-h.json](./194627-real-erogame-situation-triple-h.json) |
@@ -3440,6 +3442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reflex Point | 19707 | [19707-reflex-point.json](./19707-reflex-point.json) |
 | Reflex Run | 390190 | [390190-reflex-run.json](./390190-reflex-run.json) |
 | Reflex Strike - Reaction Time Counter | 101050 | [101050-reflex-strike-reaction-time-counter.json](./101050-reflex-strike-reaction-time-counter.json) |
+| Reflex Unit 2 | 147697 | [147697-reflex-unit-2.json](./147697-reflex-unit-2.json) |
 | Reflex Unit AR | 197758 | [197758-reflex-unit-ar.json](./197758-reflex-unit-ar.json) |
 | Reflex Unit: Strike Ops | 304653 | [304653-reflex-unit-strike-ops.json](./304653-reflex-unit-strike-ops.json) |
 | Reflexia Prototype ver. | 224749 | [224749-reflexia-prototype-ver.json](./224749-reflexia-prototype-ver.json) |
@@ -3462,6 +3465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RefRain: Prism Memories | 33659 | [33659-refrain-prism-memories.json](./33659-refrain-prism-memories.json) |
 | RefRain: Prism Memories - Collector's Edition | 53499 | [53499-refrain-prism-memories-collectors-edition.json](./53499-refrain-prism-memories-collectors-edition.json) |
 | Reframed | 93794 | [93794-reframed.json](./93794-reframed.json) |
+| Refreshing Sideways Puzzle Ghost Hammer | 147716 | [147716-refreshing-sideways-puzzle-ghost-hammer.json](./147716-refreshing-sideways-puzzle-ghost-hammer.json) |
 | Refuge | 110251 | [110251-refuge.json](./110251-refuge.json) |
 | Refuge | 226969 | [226969-refuge.json](./226969-refuge.json) |
 | Refuge For Troubles: Episode 1 - Dear Stranger | 171566 | [171566-refuge-for-troubles-episode-1-dear-stranger.json](./171566-refuge-for-troubles-episode-1-dear-stranger.json) |
@@ -3852,6 +3856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Remorse: The List | 115393 | [115393-remorse-the-list.json](./115393-remorse-the-list.json) |
 | Remote Aphrodite | 404996 | [404996-remote-aphrodite.json](./404996-remote-aphrodite.json) |
 | Remote Assault | 74008 | [74008-remote-assault.json](./74008-remote-assault.json) |
+| Remote Bomber | 147839 | [147839-remote-bomber.json](./147839-remote-bomber.json) |
 | Remote Control | 388921 | [388921-remote-control.json](./388921-remote-control.json) |
 | Remote Control Dandy | 77880 | [77880-remote-control-dandy.json](./77880-remote-control-dandy.json) |
 | Remote Control Dandy SF | 72951 | [72951-remote-control-dandy-sf.json](./72951-remote-control-dandy-sf.json) |
@@ -4894,6 +4899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rev Grav | 322065 | [322065-rev-grav.json](./322065-rev-grav.json) |
 | Rev Limit | 231509 | [231509-rev-limit.json](./231509-rev-limit.json) |
 | Rev to Vertex | 211604 | [211604-rev-to-vertex.json](./211604-rev-to-vertex.json) |
+| Rev Up! RC Grand Prix | 147711 | [147711-rev-up-rc-grand-prix.json](./147711-rev-up-rc-grand-prix.json) |
 | Rev. Noir | 389436 | [389436-rev-noir.json](./389436-rev-noir.json) |
 | Rev'd Up Racing | 312195 | [312195-revd-up-racing.json](./312195-revd-up-racing.json) |
 | Revamped | 260216 | [260216-revamped.json](./260216-revamped.json) |
