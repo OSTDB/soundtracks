@@ -1412,6 +1412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Măgurele Mystery 2 | 293487 | [293487-magurele-mystery-2.json](./293487-magurele-mystery-2.json) |
 | Magus | 170346 | [170346-magus.json](./170346-magus.json) |
 | Magus in Mystic Geometries. | 123591 | [123591-magus-in-mystic-geometries.json](./123591-magus-in-mystic-geometries.json) |
+| Magus Over Fool | 115364 | [115364-magus-over-fool.json](./115364-magus-over-fool.json) |
 | Magus Pocus | 212981 | [212981-magus-pocus.json](./212981-magus-pocus.json) |
 | Magus Tower | 304721 | [304721-magus-tower.json](./304721-magus-tower.json) |
 | Magusian | 392390 | [392390-magusian.json](./392390-magusian.json) |
@@ -12068,6 +12069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monospaced Lovers | 130844 | [130844-monospaced-lovers.json](./130844-monospaced-lovers.json) |
 | Monotonia: EXP_01 | 228514 | [228514-monotonia-exp-01.json](./228514-monotonia-exp-01.json) |
 | Monotose | 202316 | [202316-monotose.json](./202316-monotose.json) |
+| Monovert DX | 115350 | [115350-monovert-dx.json](./115350-monovert-dx.json) |
 | Monowars: Red Zone | 106423 | [106423-monowars-red-zone.json](./106423-monowars-red-zone.json) |
 | Monoyellow Madness | 321443 | [321443-monoyellow-madness.json](./321443-monoyellow-madness.json) |
 | Monpals | 228383 | [228383-monpals.json](./228383-monpals.json) |
@@ -12380,6 +12382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Legends | 59437 | [59437-monster-legends.json](./59437-monster-legends.json) |
 | Monster Lily | 390568 | [390568-monster-lily.json](./390568-monster-lily.json) |
 | Monster Line of Defense | 258887 | [258887-monster-line-of-defense.json](./258887-monster-line-of-defense.json) |
+| Monster Logic | 115362 | [115362-monster-logic.json](./115362-monster-logic.json) |
 | Monster Looter | 101756 | [101756-monster-looter.json](./101756-monster-looter.json) |
 | Monster Looter | 373075 | [373075-monster-looter.json](./373075-monster-looter.json) |
 | Monster Lover 2: Ambrosilas | 319897 | [319897-monster-lover-2-ambrosilas.json](./319897-monster-lover-2-ambrosilas.json) |
@@ -14995,6 +14998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Murder Is Game Over: Final Fright | 413217 | [413217-murder-is-game-over-final-fright.json](./413217-murder-is-game-over-final-fright.json) |
 | Murder Is Game Over: Murder Otaku | 338721 | [338721-murder-is-game-over-murder-otaku.json](./338721-murder-is-game-over-murder-otaku.json) |
 | Murder Is Game Over: The Blackinton Curse | 318208 | [318208-murder-is-game-over-the-blackinton-curse.json](./318208-murder-is-game-over-the-blackinton-curse.json) |
+| Murder Machine Mini | 115345 | [115345-murder-machine-mini.json](./115345-murder-machine-mini.json) |
 | Murder Makes Strange Deadfellows | 73320 | [73320-murder-makes-strange-deadfellows.json](./73320-murder-makes-strange-deadfellows.json) |
 | Murder Malady | 327366 | [327366-murder-malady.json](./327366-murder-malady.json) |
 | Murder Mall Escape | 311652 | [311652-murder-mall-escape.json](./311652-murder-mall-escape.json) |
