@@ -1685,6 +1685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | League of Mermaids | 34920 | [34920-league-of-mermaids.json](./34920-league-of-mermaids.json) |
 | League of Pantheons | 208173 | [208173-league-of-pantheons.json](./208173-league-of-pantheons.json) |
 | League of Piss | 383041 | [383041-league-of-piss.json](./383041-league-of-piss.json) |
+| League of Pixels | 127602 | [127602-league-of-pixels.json](./127602-league-of-pixels.json) |
 | League of Speedrunners | 277265 | [277265-league-of-speedrunners.json](./277265-league-of-speedrunners.json) |
 | League of Stickman | 99720 | [99720-league-of-stickman.json](./99720-league-of-stickman.json) |
 | League of Stickman 2 | 174638 | [174638-league-of-stickman-2.json](./174638-league-of-stickman-2.json) |
@@ -2073,6 +2074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of Star Arthur II: Dark Nebula | 62767 | [62767-legend-of-star-arthur-ii-dark-nebula.json](./62767-legend-of-star-arthur-ii-dark-nebula.json) |
 | Legend of Star Arthur III: Terra 4001 | 62769 | [62769-legend-of-star-arthur-iii-terra-4001.json](./62769-legend-of-star-arthur-iii-terra-4001.json) |
 | Legend of Stars | 295013 | [295013-legend-of-stars.json](./295013-legend-of-stars.json) |
+| Legend of Streets | 127630 | [127630-legend-of-streets.json](./127630-legend-of-streets.json) |
 | Legend of Success Joe | 47580 | [47580-legend-of-success-joe.json](./47580-legend-of-success-joe.json) |
 | Legend of Sunflower | 180669 | [180669-legend-of-sunflower.json](./180669-legend-of-sunflower.json) |
 | Legend of Taigong | 254647 | [254647-legend-of-taigong.json](./254647-legend-of-taigong.json) |
@@ -3941,6 +3943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lil' Pirates | 92160 | [92160-lil-pirates.json](./92160-lil-pirates.json) |
 | Lil' Robo | 331305 | [331305-lil-robo.json](./331305-lil-robo.json) |
 | Lil' Satan's Cake Quest | 334456 | [334456-lil-satans-cake-quest.json](./334456-lil-satans-cake-quest.json) |
+| lil' Sherman | 127628 | [127628-lil-sherman.json](./127628-lil-sherman.json) |
 | Lila's Sky Ark | 144552 | [144552-lilas-sky-ark.json](./144552-lilas-sky-ark.json) |
 | Lilac & Her Light | 178919 | [178919-lilac-and-her-light.json](./178919-lilac-and-her-light.json) |
 | Lilac: Side Witch | 397190 | [397190-lilac-side-witch.json](./397190-lilac-side-witch.json) |
