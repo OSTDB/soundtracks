@@ -679,6 +679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nasty Goats | 204725 | [204725-nasty-goats.json](./204725-nasty-goats.json) |
 | Nasty Little Man | 152100 | [152100-nasty-little-man.json](./152100-nasty-little-man.json) |
 | Nasty Neighbors: No Country for Curmudgeon | 250519 | [250519-nasty-neighbors-no-country-for-curmudgeon.json](./250519-nasty-neighbors-no-country-for-curmudgeon.json) |
+| Nasty Nines | 103843 | [103843-nasty-nines.json](./103843-nasty-nines.json) |
 | Nasty Rogue 2 | 264695 | [264695-nasty-rogue-2.json](./264695-nasty-rogue-2.json) |
 | Nasway | 37434 | [37434-nasway.json](./37434-nasway.json) |
 | Nat Geo Challenge! Wild Life | 21573 | [21573-nat-geo-challenge-wild-life.json](./21573-nat-geo-challenge-wild-life.json) |
