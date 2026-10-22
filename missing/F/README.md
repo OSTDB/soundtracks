@@ -1779,6 +1779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Far Cry 3: Monkey Business | 229538 | [229538-far-cry-3-monkey-business.json](./229538-far-cry-3-monkey-business.json) |
 | Far Cry 3: The Lost Expeditions Edition | 142159 | [142159-far-cry-3-the-lost-expeditions-edition.json](./142159-far-cry-3-the-lost-expeditions-edition.json) |
 | Far Cry 3: Wish You Were Here Edition | 51544 | [51544-far-cry-3-wish-you-were-here-edition.json](./51544-far-cry-3-wish-you-were-here-edition.json) |
+| Far Cry 4 + Far Cry Primal Double Pack | 136307 | [136307-far-cry-4-far-cry-primal-double-pack.json](./136307-far-cry-4-far-cry-primal-double-pack.json) |
 | Far Cry 4 + Far Cry: Primal Bundle | 164801 | [164801-far-cry-4-far-cry-primal-bundle.json](./164801-far-cry-4-far-cry-primal-bundle.json) |
 | Far Cry 4: Arcade Poker | 60379 | [60379-far-cry-4-arcade-poker.json](./60379-far-cry-4-arcade-poker.json) |
 | Far Cry 4: Gold Edition | 53019 | [53019-far-cry-4-gold-edition.json](./53019-far-cry-4-gold-edition.json) |
@@ -2542,6 +2543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fate/Extella: Celebration Box | 140007 | [140007-fate-extella-celebration-box.json](./140007-fate-extella-celebration-box.json) |
 | Fate/Extella: Regalia Box | 212318 | [212318-fate-extella-regalia-box.json](./212318-fate-extella-regalia-box.json) |
 | Fate/Extella: The Umbral Star | 19799 | [19799-fate-extella-the-umbral-star.json](./19799-fate-extella-the-umbral-star.json) |
+| Fate/Extella: The Umbral Star - Noble Phantasm Edition | 136318 | [136318-fate-extella-the-umbral-star-noble-phantasm-edition.json](./136318-fate-extella-the-umbral-star-noble-phantasm-edition.json) |
 | Fate/Extra | 12382 | [12382-fate-extra.json](./12382-fate-extra.json) |
 | Fate/Extra Record | 142911 | [142911-fate-extra-record.json](./142911-fate-extra-record.json) |
 | Fate/Extra Record: Limited Edition | 416864 | [416864-fate-extra-record-limited-edition.json](./416864-fate-extra-record-limited-edition.json) |
@@ -7906,6 +7908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fort Boyard, le jeu | 268131 | [268131-fort-boyard-le-jeu.json](./268131-fort-boyard-le-jeu.json) |
 | Fort Boyard: La Légende | 400680 | [400680-fort-boyard-la-legende.json](./400680-fort-boyard-la-legende.json) |
 | Fort Boyard: Millennium | 310666 | [310666-fort-boyard-millennium.json](./310666-fort-boyard-millennium.json) |
+| Fort Boyard: Nouvelle Edition | 136117 | [136117-fort-boyard-nouvelle-edition.json](./136117-fort-boyard-nouvelle-edition.json) |
 | Fort Boyard: The Challenge | 388268 | [388268-fort-boyard-the-challenge.json](./388268-fort-boyard-the-challenge.json) |
 | Fort Commander II: Counterattack | 118932 | [118932-fort-commander-ii-counterattack.json](./118932-fort-commander-ii-counterattack.json) |
 | Fort Commander: King's Gambit | 209563 | [209563-fort-commander-kings-gambit.json](./209563-fort-commander-kings-gambit.json) |
@@ -9243,6 +9246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Friday the 13th: Return to Camp Blood Demake | 214609 | [214609-friday-the-13th-return-to-camp-blood-demake.json](./214609-friday-the-13th-return-to-camp-blood-demake.json) |
 | Friday the 13th: The Computer Game | 26287 | [26287-friday-the-13th-the-computer-game.json](./26287-friday-the-13th-the-computer-game.json) |
 | Friday the 13th: The Game - Spring Break 1984 Clothing Pack | 224244 | [224244-friday-the-13th-the-game-spring-break-1984-clothing-pack.json](./224244-friday-the-13th-the-game-spring-break-1984-clothing-pack.json) |
+| Friday The 13th: The Game - Ultimate Slasher Collector's Edition | 136315 | [136315-friday-the-13th-the-game-ultimate-slasher-collectors-edition.json](./136315-friday-the-13th-the-game-ultimate-slasher-collectors-edition.json) |
 | Friday the 13th: The Game - Ultimate Slasher Edition | 115835 | [115835-friday-the-13th-the-game-ultimate-slasher-edition.json](./115835-friday-the-13th-the-game-ultimate-slasher-edition.json) |
 | Friday: Death to Arthur Yahtzee | 62155 | [62155-friday-death-to-arthur-yahtzee.json](./62155-friday-death-to-arthur-yahtzee.json) |
 | Fridge | 384166 | [384166-fridge.json](./384166-fridge.json) |
