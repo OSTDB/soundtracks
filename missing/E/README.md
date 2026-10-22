@@ -3405,6 +3405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epic | 342746 | [342746-epic.json](./342746-epic.json) |
 | Epic + Inferno: The Odyssey Continues Bundle | 227382 | [227382-epic-inferno-the-odyssey-continues-bundle.json](./227382-epic-inferno-the-odyssey-continues-bundle.json) |
 | Epic 90's Journey: The Legend of Elesha | 94869 | [94869-epic-90s-journey-the-legend-of-elesha.json](./94869-epic-90s-journey-the-legend-of-elesha.json) |
+| Epic Adventures: Cursed Onboard | 116724 | [116724-epic-adventures-cursed-onboard.json](./116724-epic-adventures-cursed-onboard.json) |
 | Epic Adventures: La Jangada | 114353 | [114353-epic-adventures-la-jangada.json](./114353-epic-adventures-la-jangada.json) |
 | Epic Ape Madness | 255758 | [255758-epic-ape-madness.json](./255758-epic-ape-madness.json) |
 | Epic Arena | 36121 | [36121-epic-arena.json](./36121-epic-arena.json) |
@@ -6434,6 +6435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eyes in the Dark | 198298 | [198298-eyes-in-the-dark.json](./198298-eyes-in-the-dark.json) |
 | Eyes Never Wake | 336500 | [336500-eyes-never-wake.json](./336500-eyes-never-wake.json) |
 | Eyes of Darkness | 201583 | [201583-eyes-of-darkness.json](./201583-eyes-of-darkness.json) |
+| Eyes of Fear | 116758 | [116758-eyes-of-fear.json](./116758-eyes-of-fear.json) |
 | Eyes of Hellfire | 333788 | [333788-eyes-of-hellfire.json](./333788-eyes-of-hellfire.json) |
 | Eyes of Souls | 177948 | [177948-eyes-of-souls.json](./177948-eyes-of-souls.json) |
 | Eyes of the Factory | 408185 | [408185-eyes-of-the-factory.json](./408185-eyes-of-the-factory.json) |
