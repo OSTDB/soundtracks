@@ -7912,6 +7912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guess Battle | 407902 | [407902-guess-battle.json](./407902-guess-battle.json) |
 | Guess Colors | 164606 | [164606-guess-colors.json](./164606-guess-colors.json) |
 | Guess Da Meme | 104067 | [104067-guess-da-meme.json](./104067-guess-da-meme.json) |
+| Guess Face | 108160 | [108160-guess-face.json](./108160-guess-face.json) |
 | Guess Game | 115068 | [115068-guess-game.json](./115068-guess-game.json) |
 | Guess it not | 79346 | [79346-guess-it-not.json](./79346-guess-it-not.json) |
 | Guess Logo Game | 104697 | [104697-guess-logo-game.json](./104697-guess-logo-game.json) |
@@ -8159,6 +8160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GuitarFreaks 10thMix & DrumMania 9thMix | 314344 | [314344-guitarfreaks-10thmix-and-drummania-9thmix.json](./314344-guitarfreaks-10thmix-and-drummania-9thmix.json) |
 | GuitarFreaks 11thMix & DrumMania 10thMix | 314352 | [314352-guitarfreaks-11thmix-and-drummania-10thmix.json](./314352-guitarfreaks-11thmix-and-drummania-10thmix.json) |
 | GuitarFreaks 2ndMix | 314346 | [314346-guitarfreaks-2ndmix.json](./314346-guitarfreaks-2ndmix.json) |
+| GuitarFreaks 2ndMix Append | 108183 | [108183-guitarfreaks-2ndmix-append.json](./108183-guitarfreaks-2ndmix-append.json) |
 | GuitarFreaks 3rdMix | 314347 | [314347-guitarfreaks-3rdmix.json](./314347-guitarfreaks-3rdmix.json) |
 | GuitarFreaks 3rdMix | 97122 | [97122-guitarfreaks-3rdmix.json](./97122-guitarfreaks-3rdmix.json) |
 | GuitarFreaks 3rdMix & DrumMania 2ndMix | 104591 | [104591-guitarfreaks-3rdmix-and-drummania-2ndmix.json](./104591-guitarfreaks-3rdmix-and-drummania-2ndmix.json) |
