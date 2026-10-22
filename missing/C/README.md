@@ -2258,6 +2258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cars 2 Racing Beena: Mezase! World Champion! | 125323 | [125323-cars-2-racing-beena-mezase-world-champion.json](./125323-cars-2-racing-beena-mezase-world-champion.json) |
 | Cars 3: Driven to Win | 28075 | [28075-cars-3-driven-to-win.json](./28075-cars-3-driven-to-win.json) |
 | Cars and Trucks: preschool toddler learning games, learn shapes & colors | 90140 | [90140-cars-and-trucks-preschool-toddler-learning-games-learn-shapes-and-colors.json](./90140-cars-and-trucks-preschool-toddler-learning-games-learn-shapes-and-colors.json) |
+| Cars Arena | 111374 | [111374-cars-arena.json](./111374-cars-arena.json) |
 | Cars Mater-National Championship | 281854 | [281854-cars-mater-national-championship.json](./281854-cars-mater-national-championship.json) |
 | Cars Mater-National Championship | 4748 | [4748-cars-mater-national-championship.json](./4748-cars-mater-national-championship.json) |
 | Cars Supercharged | 76453 | [76453-cars-supercharged.json](./76453-cars-supercharged.json) |
@@ -3325,6 +3326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catch the Dustling | 329077 | [329077-catch-the-dustling.json](./329077-catch-the-dustling.json) |
 | Catch The Fox | 247499 | [247499-catch-the-fox.json](./247499-catch-the-fox.json) |
 | Catch the Head | 119601 | [119601-catch-the-head.json](./119601-catch-the-head.json) |
+| Catch the Kids | 111388 | [111388-catch-the-kids.json](./111388-catch-the-kids.json) |
 | Catch the Moths | 359429 | [359429-catch-the-moths.json](./359429-catch-the-moths.json) |
 | Catch The Rabbit | 348244 | [348244-catch-the-rabbit.json](./348244-catch-the-rabbit.json) |
 | Catch the Rhythm | 339790 | [339790-catch-the-rhythm.json](./339790-catch-the-rhythm.json) |
@@ -15371,6 +15373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursed Letters | 156673 | [156673-cursed-letters.json](./156673-cursed-letters.json) |
 | Cursed Loop | 367157 | [367157-cursed-loop.json](./367157-cursed-loop.json) |
 | Cursed Loot | 324114 | [324114-cursed-loot.json](./324114-cursed-loot.json) |
+| Cursed Mansion | 111368 | [111368-cursed-mansion.json](./111368-cursed-mansion.json) |
 | Cursed Mansion: Rose Christmas Costume | 285122 | [285122-cursed-mansion-rose-christmas-costume.json](./285122-cursed-mansion-rose-christmas-costume.json) |
 | Cursed Meal | 388808 | [388808-cursed-meal.json](./388808-cursed-meal.json) |
 | Cursed Memory | 370549 | [370549-cursed-memory.json](./370549-cursed-memory.json) |
