@@ -2149,6 +2149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nerf: Battle Arena | 197329 | [197329-nerf-battle-arena.json](./197329-nerf-battle-arena.json) |
 | Nerf: Superblast | 288644 | [288644-nerf-superblast.json](./288644-nerf-superblast.json) |
 | Nerl's Crazy C"rough"t! | 311598 | [311598-nerls-crazy-c-rough-t.json](./311598-nerls-crazy-c-rough-t.json) |
+| Nerm the Worm | 149331 | [149331-nerm-the-worm.json](./149331-nerm-the-worm.json) |
 | Nero | 156570 | [156570-nero.json](./156570-nero.json) |
 | Nero E Rosso ~Kane no Tame ni Kane wa Naru 2 | 82686 | [82686-nero-e-rosso-kane-no-tame-ni-kane-wa-naru-2.json](./82686-nero-e-rosso-kane-no-tame-ni-kane-wa-naru-2.json) |
 | NERO: Neuro-Evolving Robotic Operatives | 7616 | [7616-nero-neuro-evolving-robotic-operatives.json](./7616-nero-neuro-evolving-robotic-operatives.json) |
@@ -4535,6 +4536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No More Light | 151479 | [151479-no-more-light.json](./151479-no-more-light.json) |
 | No More Pop Music - Annihilation | 113145 | [113145-no-more-pop-music-annihilation.json](./113145-no-more-pop-music-annihilation.json) |
 | No More Rainbows | 168672 | [168672-no-more-rainbows.json](./168672-no-more-rainbows.json) |
+| No More Room in Hell 2 | 149340 | [149340-no-more-room-in-hell-2.json](./149340-no-more-room-in-hell-2.json) |
 | No More Shopping | 334867 | [334867-no-more-shopping.json](./334867-no-more-shopping.json) |
 | No More Slimes!! | 414600 | [414600-no-more-slimes.json](./414600-no-more-slimes.json) |
 | No More Surffer | 150768 | [150768-no-more-surffer.json](./150768-no-more-surffer.json) |
@@ -4559,6 +4561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Paint No Gain | 312754 | [312754-no-paint-no-gain.json](./312754-no-paint-no-gain.json) |
 | No Pantsu!! | 97378 | [97378-no-pantsu.json](./97378-no-pantsu.json) |
 | No Paper! | 240224 | [240224-no-paper.json](./240224-no-paper.json) |
+| No Parachute | 149296 | [149296-no-parachute.json](./149296-no-parachute.json) |
 | No Party In Paradise | 395808 | [395808-no-party-in-paradise.json](./395808-no-party-in-paradise.json) |
 | No Place For Bravery | 23690 | [23690-no-place-for-bravery.json](./23690-no-place-for-bravery.json) |
 | No Place for the Dissident | 141136 | [141136-no-place-for-the-dissident.json](./141136-no-place-for-the-dissident.json) |
