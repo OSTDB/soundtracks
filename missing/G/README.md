@@ -3750,6 +3750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glitch Daddy | 277009 | [277009-glitch-daddy.json](./277009-glitch-daddy.json) |
 | Glitch Dream | 182755 | [182755-glitch-dream.json](./182755-glitch-dream.json) |
 | Glitch Dungeon | 177250 | [177250-glitch-dungeon.json](./177250-glitch-dungeon.json) |
+| Glitch Escape | 155925 | [155925-glitch-escape.json](./155925-glitch-escape.json) |
 | Glitch Fixers: Powerpuff Girls | 56734 | [56734-glitch-fixers-powerpuff-girls.json](./56734-glitch-fixers-powerpuff-girls.json) |
 | Glitch Gears | 293549 | [293549-glitch-gears.json](./293549-glitch-gears.json) |
 | Glitch Hearts | 385790 | [385790-glitch-hearts.json](./385790-glitch-hearts.json) |
@@ -6495,6 +6496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravity Escape | 128255 | [128255-gravity-escape.json](./128255-gravity-escape.json) |
 | Gravity Falls | 382577 | [382577-gravity-falls.json](./382577-gravity-falls.json) |
 | Gravity Falls: Legend of the Gnome Gemulets | 44014 | [44014-gravity-falls-legend-of-the-gnome-gemulets.json](./44014-gravity-falls-legend-of-the-gnome-gemulets.json) |
+| Gravity Field | 155951 | [155951-gravity-field.json](./155951-gravity-field.json) |
 | Gravity Fight | 73476 | [73476-gravity-fight.json](./73476-gravity-fight.json) |
 | Gravity Flip | 190204 | [190204-gravity-flip.json](./190204-gravity-flip.json) |
 | Gravity Flip X | 334912 | [334912-gravity-flip-x.json](./334912-gravity-flip-x.json) |
