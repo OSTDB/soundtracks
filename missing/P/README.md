@@ -3775,6 +3775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Petal by Petal | 390196 | [390196-petal-by-petal.json](./390196-petal-by-petal.json) |
 | Petal Crash | 139293 | [139293-petal-crash.json](./139293-petal-crash.json) |
 | Petal Crash 2 | 329600 | [329600-petal-crash-2.json](./329600-petal-crash-2.json) |
+| Petal Crash Online | 149973 | [149973-petal-crash-online.json](./149973-petal-crash-online.json) |
 | Petals of the Star Curtain | 153331 | [153331-petals-of-the-star-curtain.json](./153331-petals-of-the-star-curtain.json) |
 | Petals to Petals | 364384 | [364384-petals-to-petals.json](./364384-petals-to-petals.json) |
 | Pétanque 2026 | 401828 | [401828-petanque-2026.json](./401828-petanque-2026.json) |
@@ -12487,6 +12488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Tachyon | 297793 | [297793-project-tachyon.json](./297793-project-tachyon.json) |
 | Project Tarvotan | 34809 | [34809-project-tarvotan.json](./34809-project-tarvotan.json) |
 | Project Temporality | 10725 | [10725-project-temporality.json](./10725-project-temporality.json) |
+| Project Terminus VR | 149838 | [149838-project-terminus-vr.json](./149838-project-terminus-vr.json) |
 | Project Terra | 272733 | [272733-project-terra.json](./272733-project-terra.json) |
 | Project Thea | 330350 | [330350-project-thea.json](./330350-project-thea.json) |
 | Project Third Eye | 258603 | [258603-project-third-eye.json](./258603-project-third-eye.json) |
@@ -14125,6 +14127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Go! | 251729 | [251729-puzzle-go.json](./251729-puzzle-go.json) |
 | Puzzle Grid | 263571 | [263571-puzzle-grid.json](./263571-puzzle-grid.json) |
 | Puzzle Guardians | 29155 | [29155-puzzle-guardians.json](./29155-puzzle-guardians.json) |
+| Puzzle Guys | 149835 | [149835-puzzle-guys.json](./149835-puzzle-guys.json) |
 | Puzzle Heart Match-3 Adventure | 99501 | [99501-puzzle-heart-match-3-adventure.json](./99501-puzzle-heart-match-3-adventure.json) |
 | Puzzle Hero | 206044 | [206044-puzzle-hero.json](./206044-puzzle-hero.json) |
 | Puzzle Hero | 53484 | [53484-puzzle-hero.json](./53484-puzzle-hero.json) |
