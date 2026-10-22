@@ -11056,6 +11056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pretty Bird 8 | 227114 | [227114-pretty-bird-8.json](./227114-pretty-bird-8.json) |
 | Pretty Bubble: Flappy Adventures | 253247 | [253247-pretty-bubble-flappy-adventures.json](./253247-pretty-bubble-flappy-adventures.json) |
 | Pretty Chaser | 269601 | [269601-pretty-chaser.json](./269601-pretty-chaser.json) |
+| Pretty Cure Connection Puzzlun | 112063 | [112063-pretty-cure-connection-puzzlun.json](./112063-pretty-cure-connection-puzzlun.json) |
 | Pretty Dinosaur Adventures of Ancient Earth VR | 234514 | [234514-pretty-dinosaur-adventures-of-ancient-earth-vr.json](./234514-pretty-dinosaur-adventures-of-ancient-earth-vr.json) |
 | Pretty Girl Ukiyo-e Artist Hoku | 406942 | [406942-pretty-girl-ukiyo-e-artist-hoku.json](./406942-pretty-girl-ukiyo-e-artist-hoku.json) |
 | Pretty Girls 2048 Strike | 227923 | [227923-pretty-girls-2048-strike.json](./227923-pretty-girls-2048-strike.json) |
