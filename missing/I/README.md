@@ -293,6 +293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Have No Mouth, and I Must Scream | 7578 | [7578-i-have-no-mouth-and-i-must-scream.json](./7578-i-have-no-mouth-and-i-must-scream.json) |
 | I Have No Nose and I Must Climb | 244345 | [244345-i-have-no-nose-and-i-must-climb.json](./244345-i-have-no-nose-and-i-must-climb.json) |
 | I Have One Day | 320247 | [320247-i-have-one-day.json](./320247-i-have-one-day.json) |
+| I Have Powers! | 149325 | [149325-i-have-powers.json](./149325-i-have-powers.json) |
 | I Hear the Forest | 414146 | [414146-i-hear-the-forest.json](./414146-i-hear-the-forest.json) |
 | I Hear Them | 398454 | [398454-i-hear-them.json](./398454-i-hear-them.json) |
 | I heard a dog barking | 177522 | [177522-i-heard-a-dog-barking.json](./177522-i-heard-a-dog-barking.json) |
@@ -3143,6 +3144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Influenza A | 135775 | [135775-influenza-a.json](./135775-influenza-a.json) |
 | InFlux | 2938 | [2938-influx.json](./2938-influx.json) |
 | InFlux Redux | 127650 | [127650-influx-redux.json](./127650-influx-redux.json) |
+| Influxis | 149294 | [149294-influxis.json](./149294-influxis.json) |
 | Info Fighter | 360510 | [360510-info-fighter.json](./360510-info-fighter.json) |
 | Info Genius Frommer's Travel Guide | 335490 | [335490-info-genius-frommers-travel-guide.json](./335490-info-genius-frommers-travel-guide.json) |
 | Info Player Start: A Dope (Challenge) Map | 282616 | [282616-info-player-start-a-dope-challenge-map.json](./282616-info-player-start-a-dope-challenge-map.json) |
