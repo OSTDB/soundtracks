@@ -826,6 +826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pancake Bar Tycoon: Premium Edition | 231253 | [231253-pancake-bar-tycoon-premium-edition.json](./231253-pancake-bar-tycoon-premium-edition.json) |
 | Pancake House | 156698 | [156698-pancake-house.json](./156698-pancake-house.json) |
 | Pancake Patrol | 268967 | [268967-pancake-patrol.json](./268967-pancake-patrol.json) |
+| Pancake Sailor | 149333 | [149333-pancake-sailor.json](./149333-pancake-sailor.json) |
 | Panchin is Frustrated | 258875 | [258875-panchin-is-frustrated.json](./258875-panchin-is-frustrated.json) |
 | Panchito Chepas | 325639 | [325639-panchito-chepas.json](./325639-panchito-chepas.json) |
 | Panchito Delivery: Project Elevator | 416084 | [416084-panchito-delivery-project-elevator.json](./416084-panchito-delivery-project-elevator.json) |
@@ -894,6 +895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pandemic Pandemonium | 167191 | [167191-pandemic-pandemonium.json](./167191-pandemic-pandemonium.json) |
 | Pandemic Shooter | 186702 | [186702-pandemic-shooter.json](./186702-pandemic-shooter.json) |
 | Pandemic Train | 149918 | [149918-pandemic-train.json](./149918-pandemic-train.json) |
+| Pandemic Violence | 149276 | [149276-pandemic-violence.json](./149276-pandemic-violence.json) |
 | Pandemic: Ground Zero | 335384 | [335384-pandemic-ground-zero.json](./335384-pandemic-ground-zero.json) |
 | Pandemic: The Board Game | 69425 | [69425-pandemic-the-board-game.json](./69425-pandemic-the-board-game.json) |
 | Pandemic: The Board Game - On the Brink: Mutation | 171931 | [171931-pandemic-the-board-game-on-the-brink-mutation.json](./171931-pandemic-the-board-game-on-the-brink-mutation.json) |
@@ -7130,6 +7132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Quiz: Learn & Discover - Trivia | 227782 | [227782-planet-quiz-learn-and-discover-trivia.json](./227782-planet-quiz-learn-and-discover-trivia.json) |
 | Planet R-12 | 26522 | [26522-planet-r-12.json](./26522-planet-r-12.json) |
 | Planet Rescue: Animal Emergency | 139116 | [139116-planet-rescue-animal-emergency.json](./139116-planet-rescue-animal-emergency.json) |
+| Planet Rescue: Wildlife Vet | 149267 | [149267-planet-rescue-wildlife-vet.json](./149267-planet-rescue-wildlife-vet.json) |
 | Planet Reserve | 104140 | [104140-planet-reserve.json](./104140-planet-reserve.json) |
 | Planet Ring | 45805 | [45805-planet-ring.json](./45805-planet-ring.json) |
 | Planet Romance Boys: Conquer the Zodiac Horoscope | 376761 | [376761-planet-romance-boys-conquer-the-zodiac-horoscope.json](./376761-planet-romance-boys-conquer-the-zodiac-horoscope.json) |
@@ -9111,6 +9114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polda 7 | 205730 | [205730-polda-7.json](./205730-polda-7.json) |
 | Polders | 388320 | [388320-polders.json](./388320-polders.json) |
 | Pole Dancers XXX | 249041 | [249041-pole-dancers-xxx.json](./249041-pole-dancers-xxx.json) |
+| Pole of Cold | 149339 | [149339-pole-of-cold.json](./149339-pole-of-cold.json) |
 | Pole Position | 310533 | [310533-pole-position.json](./310533-pole-position.json) |
 | Pole Position | 5691 | [5691-pole-position.json](./5691-pole-position.json) |
 | Pole Position 2010 | 158942 | [158942-pole-position-2010.json](./158942-pole-position-2010.json) |
