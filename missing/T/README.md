@@ -9475,6 +9475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Saviour | 151073 | [151073-the-last-saviour.json](./151073-the-last-saviour.json) |
 | The Last Saviour: Search of Truth | 236367 | [236367-the-last-saviour-search-of-truth.json](./236367-the-last-saviour-search-of-truth.json) |
 | The Last Scaler | 314466 | [314466-the-last-scaler.json](./314466-the-last-scaler.json) |
+| The Last Scape | 137857 | [137857-the-last-scape.json](./137857-the-last-scape.json) |
 | The Last Screening | 367061 | [367061-the-last-screening.json](./367061-the-last-screening.json) |
 | The Last Secret | 199656 | [199656-the-last-secret.json](./199656-the-last-secret.json) |
 | The Last Shape | 199798 | [199798-the-last-shape.json](./199798-the-last-shape.json) |
@@ -11425,6 +11426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Pale Beyond: Deluxe Edition | 238308 | [238308-the-pale-beyond-deluxe-edition.json](./238308-the-pale-beyond-deluxe-edition.json) |
 | The Pale Man | 232547 | [232547-the-pale-man.json](./232547-the-pale-man.json) |
 | The Pale Piper | 335503 | [335503-the-pale-piper.json](./335503-the-pale-piper.json) |
+| The Palms | 137850 | [137850-the-palms.json](./137850-the-palms.json) |
 | The Pancakes Official Game Show | 176247 | [176247-the-pancakes-official-game-show.json](./176247-the-pancakes-official-game-show.json) |
 | The Pandemonium | 276377 | [276377-the-pandemonium.json](./276377-the-pandemonium.json) |
 | The Panel DC | 119720 | [119720-the-panel-dc.json](./119720-the-panel-dc.json) |
@@ -11502,6 +11504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Penguins of Madagascar: Dr. Blowhole Returns Again! | 51108 | [51108-the-penguins-of-madagascar-dr-blowhole-returns-again.json](./51108-the-penguins-of-madagascar-dr-blowhole-returns-again.json) |
 | The Penguins of Madagascar: Mission Madness | 231385 | [231385-the-penguins-of-madagascar-mission-madness.json](./231385-the-penguins-of-madagascar-mission-madness.json) |
 | The Penguins of Madagascar: Operation Plushy Rescue | 230396 | [230396-the-penguins-of-madagascar-operation-plushy-rescue.json](./230396-the-penguins-of-madagascar-operation-plushy-rescue.json) |
+| The Penguins of Madagascar: Race for 1st Place! | 138067 | [138067-the-penguins-of-madagascar-race-for-1st-place.json](./138067-the-penguins-of-madagascar-race-for-1st-place.json) |
 | The Penjikent Creature | 288036 | [288036-the-penjikent-creature.json](./288036-the-penjikent-creature.json) |
 | The Pentest | 220509 | [220509-the-pentest.json](./220509-the-pentest.json) |
 | The Penumbra Collection | 51891 | [51891-the-penumbra-collection.json](./51891-the-penumbra-collection.json) |
@@ -11762,6 +11765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Problems Compound | 59677 | [59677-the-problems-compound.json](./59677-the-problems-compound.json) |
 | The Procession to Calvary | 106985 | [106985-the-procession-to-calvary.json](./106985-the-procession-to-calvary.json) |
 | The Profaned | 406314 | [406314-the-profaned.json](./406314-the-profaned.json) |
+| The Professional (Farming & Forestry) | 138082 | [138082-the-professional-farming-and-forestry.json](./138082-the-professional-farming-and-forestry.json) |
 | The Professor | 351483 | [351483-the-professor.json](./351483-the-professor.json) |
 | The Professor Presents: Got Handles? | 28937 | [28937-the-professor-presents-got-handles.json](./28937-the-professor-presents-got-handles.json) |
 | The Project Mars 2+3 | 125927 | [125927-the-project-mars-2-3.json](./125927-the-project-mars-2-3.json) |
@@ -24778,6 +24782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | True Love | 320026 | [320026-true-love.json](./320026-true-love.json) |
 | True Love | 76455 | [76455-true-love.json](./76455-true-love.json) |
 | True Love For Her | 297042 | [297042-true-love-for-her.json](./297042-true-love-for-her.json) |
+| True Love Story | 137873 | [137873-true-love-story.json](./137873-true-love-story.json) |
 | True Love Story 3 | 138012 | [138012-true-love-story-3.json](./138012-true-love-story-3.json) |
 | True Love Story: Summer Days, and yet... | 137979 | [137979-true-love-story-summer-days-and-yet.json](./137979-true-love-story-summer-days-and-yet.json) |
 | True Love Sweet Lies | 238887 | [238887-true-love-sweet-lies.json](./238887-true-love-sweet-lies.json) |
