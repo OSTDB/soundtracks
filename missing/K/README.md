@@ -4246,6 +4246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Korza Motor | 335982 | [335982-korza-motor.json](./335982-korza-motor.json) |
 | Kosaka-san: Remaster | 283066 | [283066-kosaka-san-remaster.json](./283066-kosaka-san-remaster.json) |
 | Kosaka-san. | 152014 | [152014-kosaka-san.json](./152014-kosaka-san.json) |
+| Koseisen Ga Tonda Hi: The Project Mars 3 | 123293 | [123293-koseisen-ga-tonda-hi-the-project-mars-3.json](./123293-koseisen-ga-tonda-hi-the-project-mars-3.json) |
 | Koshachʼya Lyubovʼ | 301404 | [301404-koshach-ya-lyubov.json](./301404-koshach-ya-lyubov.json) |
 | Koshari Defense | 361824 | [361824-koshari-defense.json](./361824-koshari-defense.json) |
 | Koshchei the Immortal | 372460 | [372460-koshchei-the-immortal.json](./372460-koshchei-the-immortal.json) |
