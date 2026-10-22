@@ -2824,6 +2824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Utawarerumono: Prelude to the Fallen | 77493 | [77493-utawarerumono-prelude-to-the-fallen.json](./77493-utawarerumono-prelude-to-the-fallen.json) |
 | Utawarerumono: Prelude to the Fallen - Origins Edition | 173117 | [173117-utawarerumono-prelude-to-the-fallen-origins-edition.json](./173117-utawarerumono-prelude-to-the-fallen-origins-edition.json) |
 | Utawarerumono: Prelude to the Fallen - Premium Edition | 167071 | [167071-utawarerumono-prelude-to-the-fallen-premium-edition.json](./167071-utawarerumono-prelude-to-the-fallen-premium-edition.json) |
+| Utawarerumono: Zan 2 - Premium Edition | 146015 | [146015-utawarerumono-zan-2-premium-edition.json](./146015-utawarerumono-zan-2-premium-edition.json) |
 | Ute | 334044 | [334044-ute.json](./334044-ute.json) |
 | Uterine Supremacy | 126910 | [126910-uterine-supremacy.json](./126910-uterine-supremacy.json) |
 | Utherous | 60488 | [60488-utherous.json](./60488-utherous.json) |
