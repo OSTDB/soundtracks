@@ -1641,6 +1641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tankman | 121635 | [121635-tankman.json](./121635-tankman.json) |
 | Tankomatron War Robots: Transform Tanks into Bots | 104634 | [104634-tankomatron-war-robots-transform-tanks-into-bots.json](./104634-tankomatron-war-robots-transform-tanks-into-bots.json) |
 | TankOre Mining | 333030 | [333030-tankore-mining.json](./333030-tankore-mining.json) |
+| Tankr.io Realtime Battle | 107548 | [107548-tankr-io-realtime-battle.json](./107548-tankr-io-realtime-battle.json) |
 | TankRat | 381208 | [381208-tankrat.json](./381208-tankrat.json) |
 | Tankron | 215883 | [215883-tankron.json](./215883-tankron.json) |
 | Tankroyale.io | 162620 | [162620-tankroyale-io.json](./162620-tankroyale-io.json) |
@@ -1815,6 +1816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tap City Tycoon | 256434 | [256434-tap-city-tycoon.json](./256434-tap-city-tycoon.json) |
 | Tap Craft | 239048 | [239048-tap-craft.json](./239048-tap-craft.json) |
 | Tap Crush Jewels | 90679 | [90679-tap-crush-jewels.json](./90679-tap-crush-jewels.json) |
+| Tap Cube Crush | 107578 | [107578-tap-cube-crush.json](./107578-tap-cube-crush.json) |
 | Tap Dash | 252140 | [252140-tap-dash.json](./252140-tap-dash.json) |
 | Tap Defenders | 194162 | [194162-tap-defenders.json](./194162-tap-defenders.json) |
 | Tap Derby | 327876 | [327876-tap-derby.json](./327876-tap-derby.json) |
@@ -15550,6 +15552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | They Speak From The Abyss: Zenith | 252033 | [252033-they-speak-from-the-abyss-zenith.json](./252033-they-speak-from-the-abyss-zenith.json) |
 | They Started It | 181224 | [181224-they-started-it.json](./181224-they-started-it.json) |
 | They Stop for Gas at Night | 404445 | [404445-they-stop-for-gas-at-night.json](./404445-they-stop-for-gas-at-night.json) |
+| They Suspect Nothing | 107600 | [107600-they-suspect-nothing.json](./107600-they-suspect-nothing.json) |
 | They Suspect Nothing: Overclocked | 143321 | [143321-they-suspect-nothing-overclocked.json](./143321-they-suspect-nothing-overclocked.json) |
 | They That Feast | 113036 | [113036-they-that-feast.json](./113036-they-that-feast.json) |
 | They Took the Sun | 358467 | [358467-they-took-the-sun.json](./358467-they-took-the-sun.json) |
@@ -23542,6 +23545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Transporter | 272896 | [272896-transporter.json](./272896-transporter.json) |
 | Transporter | 338951 | [338951-transporter.json](./338951-transporter.json) |
 | Transporter | 97978 | [97978-transporter.json](./97978-transporter.json) |
+| Transporter Euro Truck Car 18 | 107568 | [107568-transporter-euro-truck-car-18.json](./107568-transporter-euro-truck-car-18.json) |
 | Transporter the Rescue | 92434 | [92434-transporter-the-rescue.json](./92434-transporter-the-rescue.json) |
 | Transporter Truck Simulator | 119043 | [119043-transporter-truck-simulator.json](./119043-transporter-truck-simulator.json) |
 | Transpose | 109417 | [109417-transpose.json](./109417-transpose.json) |
@@ -23980,6 +23984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treat Fighter | 109507 | [109507-treat-fighter.json](./109507-treat-fighter.json) |
 | Treat-Seeking Tricksters | 320432 | [320432-treat-seeking-tricksters.json](./320432-treat-seeking-tricksters.json) |
 | Treble Cat | 89690 | [89690-treble-cat.json](./89690-treble-cat.json) |
+| Treble Cat HD | 107558 | [107558-treble-cat-hd.json](./107558-treble-cat-hd.json) |
 | Treble-Basie | 390756 | [390756-treble-basie.json](./390756-treble-basie.json) |
 | Trebuchet | 36086 | [36086-trebuchet.json](./36086-trebuchet.json) |
 | Trebuchet Town | 175993 | [175993-trebuchet-town.json](./175993-trebuchet-town.json) |
