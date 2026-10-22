@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-21T20:56:35.366Z",
-  "total_soundtracks": 2457,
+  "generated_at": "2026-10-22T05:50:50.630Z",
+  "total_soundtracks": 2458,
   "games": [
     {
       "igdb_id": 7522,
@@ -14359,6 +14359,20 @@
         {
           "album_name": "Lifeless Planet (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/4AUAWvX8XmiLUehe96QosF",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 113150,
+      "game_name": "Lightmatter",
+      "game_url": "https://ostdb.net/games/lightmatter",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273529cb0ef52cad35a0b183765",
+      "albums": [
+        {
+          "album_name": "Lightmatter (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/30esbQniSVuAkMPVvsu2LP",
           "apple_music_url": "",
           "album_link_url": ""
         }
