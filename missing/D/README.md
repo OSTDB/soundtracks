@@ -65,6 +65,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | D.Gray-man: Sousha no Shikaku | 68236 | [68236-d-gray-man-sousha-no-shikaku.json](./68236-d-gray-man-sousha-no-shikaku.json) |
 | D.H.M. | 224649 | [224649-d-h-m.json](./224649-d-h-m.json) |
 | D.H.Trouble Guy | 117067 | [117067-d-h-trouble-guy.json](./117067-d-h-trouble-guy.json) |
+| D.H.Witсh | 116723 | [116723-d-h-wit-h.json](./116723-d-h-wit-h.json) |
 | D.H.Zombie Zone | 117693 | [117693-d-h-zombie-zone.json](./117693-d-h-zombie-zone.json) |
 | D.I.M. | 372105 | [372105-d-i-m.json](./372105-d-i-m.json) |
 | D.I.P.R.I.P. Warm Up | 29120 | [29120-d-i-p-r-i-p-warm-up.json](./29120-d-i-p-r-i-p-warm-up.json) |
@@ -1211,6 +1212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Flow | 220586 | [220586-dark-flow.json](./220586-dark-flow.json) |
 | Dark Flowers | 157135 | [157135-dark-flowers.json](./157135-dark-flowers.json) |
 | Dark Flowers: Tiny Starlight | 380211 | [380211-dark-flowers-tiny-starlight.json](./380211-dark-flowers-tiny-starlight.json) |
+| Dark Forest | 116745 | [116745-dark-forest.json](./116745-dark-forest.json) |
 | Dark Forest | 279514 | [279514-dark-forest.json](./279514-dark-forest.json) |
 | Dark Forest Project | 169784 | [169784-dark-forest-project.json](./169784-dark-forest-project.json) |
 | Dark Forest Virtual Chatroom | 116253 | [116253-dark-forest-virtual-chatroom.json](./116253-dark-forest-virtual-chatroom.json) |
@@ -1888,6 +1890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dashin' Desperadoes | 46247 | [46247-dashin-desperadoes.json](./46247-dashin-desperadoes.json) |
 | Dashing Adventurer | 201997 | [201997-dashing-adventurer.json](./201997-dashing-adventurer.json) |
 | Dashing Dasher | 332276 | [332276-dashing-dasher.json](./332276-dashing-dasher.json) |
+| Dashing Dinosaurs & Sexy Centaurs | 116734 | [116734-dashing-dinosaurs-and-sexy-centaurs.json](./116734-dashing-dinosaurs-and-sexy-centaurs.json) |
 | Dashing Dinosaurs & Sexy Centaurs: Winter's Tale | 126404 | [126404-dashing-dinosaurs-and-sexy-centaurs-winters-tale.json](./126404-dashing-dinosaurs-and-sexy-centaurs-winters-tale.json) |
 | Dashing Dinosaurs & Sexy Centaurs: Winter's Tale 2 | 227868 | [227868-dashing-dinosaurs-and-sexy-centaurs-winters-tale-2.json](./227868-dashing-dinosaurs-and-sexy-centaurs-winters-tale-2.json) |
 | Dashing Dodgems | 122932 | [122932-dashing-dodgems.json](./122932-dashing-dodgems.json) |
@@ -9329,6 +9332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dolphin Paradise: Wild Friends | 251739 | [251739-dolphin-paradise-wild-friends.json](./251739-dolphin-paradise-wild-friends.json) |
 | Dolphin Simulator | 107007 | [107007-dolphin-simulator.json](./107007-dolphin-simulator.json) |
 | Dolphin Splash! | 272475 | [272475-dolphin-splash.json](./272475-dolphin-splash.json) |
+| Dolphin Swim | 116737 | [116737-dolphin-swim.json](./116737-dolphin-swim.json) |
 | Dolphin Trainer | 269739 | [269739-dolphin-trainer.json](./269739-dolphin-trainer.json) |
 | Dolphin Trainer VR | 156946 | [156946-dolphin-trainer-vr.json](./156946-dolphin-trainer-vr.json) |
 | Dolphin Wave | 212640 | [212640-dolphin-wave.json](./212640-dolphin-wave.json) |
