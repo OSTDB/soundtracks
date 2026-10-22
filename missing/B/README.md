@@ -265,6 +265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Babysitting Fun | 310540 | [310540-babysitting-fun.json](./310540-babysitting-fun.json) |
 | Babysitting Mania | 47979 | [47979-babysitting-mania.json](./47979-babysitting-mania.json) |
 | Babysitting Party | 92669 | [92669-babysitting-party.json](./92669-babysitting-party.json) |
+| BabyUp: Dinos | 102638 | [102638-babyup-dinos.json](./102638-babyup-dinos.json) |
 | Babyz | 205899 | [205899-babyz.json](./205899-babyz.json) |
 | Babyz: Your Virtual Bundle of Joy | 70343 | [70343-babyz-your-virtual-bundle-of-joy.json](./70343-babyz-your-virtual-bundle-of-joy.json) |
 | Baccarat | 348397 | [348397-baccarat.json](./348397-baccarat.json) |
@@ -2066,6 +2067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barda | 345592 | [345592-barda.json](./345592-barda.json) |
 | Bardarts | 141222 | [141222-bardarts.json](./141222-bardarts.json) |
 | Bardbarian | 8379 | [8379-bardbarian.json](./8379-bardbarian.json) |
+| Bardbarian: Premium Edition | 102655 | [102655-bardbarian-premium-edition.json](./102655-bardbarian-premium-edition.json) |
 | Bardcard | 214479 | [214479-bardcard.json](./214479-bardcard.json) |
 | Bardella and the Curse of Silence | 399167 | [399167-bardella-and-the-curse-of-silence.json](./399167-bardella-and-the-curse-of-silence.json) |
 | Bardi: Real Viking | 344875 | [344875-bardi-real-viking.json](./344875-bardi-real-viking.json) |
@@ -6297,6 +6299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bingo Pinball Gameroom: United Starlet | 265081 | [265081-bingo-pinball-gameroom-united-starlet.json](./265081-bingo-pinball-gameroom-united-starlet.json) |
 | Bingo Pop | 101516 | [101516-bingo-pop.json](./101516-bingo-pop.json) |
 | Bingo Roulette | 404213 | [404213-bingo-roulette.json](./404213-bingo-roulette.json) |
+| Bingo Titan Adventure: Kingdom Crush | 102660 | [102660-bingo-titan-adventure-kingdom-crush.json](./102660-bingo-titan-adventure-kingdom-crush.json) |
 | Bingo Tropical Haven: Island Beach Fever | 101423 | [101423-bingo-tropical-haven-island-beach-fever.json](./101423-bingo-tropical-haven-island-beach-fever.json) |
 | Bingo TV | 276406 | [276406-bingo-tv.json](./276406-bingo-tv.json) |
 | Bingo Tycoon! | 344901 | [344901-bingo-tycoon.json](./344901-bingo-tycoon.json) |
@@ -13123,6 +13126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bug darake no Mura | 283051 | [283051-bug-darake-no-mura.json](./283051-bug-darake-no-mura.json) |
 | Bug darake no Shiro | 329230 | [329230-bug-darake-no-shiro.json](./329230-bug-darake-no-shiro.json) |
 | Bug Dates | 206974 | [206974-bug-dates.json](./206974-bug-dates.json) |
+| Bug Defender | 102561 | [102561-bug-defender.json](./102561-bug-defender.json) |
 | Bug Dolls: Soviet Project | 203900 | [203900-bug-dolls-soviet-project.json](./203900-bug-dolls-soviet-project.json) |
 | Bug Drop | 399215 | [399215-bug-drop.json](./399215-bug-drop.json) |
 | Bug Drop! | 200055 | [200055-bug-drop.json](./200055-bug-drop.json) |
