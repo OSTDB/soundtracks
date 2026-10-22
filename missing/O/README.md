@@ -1880,6 +1880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Minute To Close | 310005 | [310005-one-minute-to-close.json](./310005-one-minute-to-close.json) |
 | One More Bounce | 260107 | [260107-one-more-bounce.json](./260107-one-more-bounce.json) |
 | One More Brick | 87170 | [87170-one-more-brick.json](./87170-one-more-brick.json) |
+| One More Button | 106299 | [106299-one-more-button.json](./106299-one-more-button.json) |
 | One More Core | 399868 | [399868-one-more-core.json](./399868-one-more-core.json) |
 | One More Cup | 421810 | [421810-one-more-cup.json](./421810-one-more-cup.json) |
 | One More Dash | 260105 | [260105-one-more-dash.json](./260105-one-more-dash.json) |
@@ -4039,6 +4040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outcast II: The Lost Paradise | 66687 | [66687-outcast-ii-the-lost-paradise.json](./66687-outcast-ii-the-lost-paradise.json) |
 | Outcast Odyssey | 59877 | [59877-outcast-odyssey.json](./59877-outcast-odyssey.json) |
 | Outcast on Mars | 157132 | [157132-outcast-on-mars.json](./157132-outcast-on-mars.json) |
+| Outcast Tales | 106319 | [106319-outcast-tales.json](./106319-outcast-tales.json) |
 | Outcast: A New Beginning | 171215 | [171215-outcast-a-new-beginning.json](./171215-outcast-a-new-beginning.json) |
 | Outcast: A New Beginning - Adelpha Edition | 282049 | [282049-outcast-a-new-beginning-adelpha-edition.json](./282049-outcast-a-new-beginning-adelpha-edition.json) |
 | Outcast: Second Contact | 23175 | [23175-outcast-second-contact.json](./23175-outcast-second-contact.json) |
