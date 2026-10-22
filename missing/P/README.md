@@ -3520,6 +3520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perish: Exodus | 261143 | [261143-perish-exodus.json](./261143-perish-exodus.json) |
 | Perished Truth | 348026 | [348026-perished-truth.json](./348026-perished-truth.json) |
 | Perished: The Zurkez Project | 65975 | [65975-perished-the-zurkez-project.json](./65975-perished-the-zurkez-project.json) |
+| Perisher | 135492 | [135492-perisher.json](./135492-perisher.json) |
 | Perisno | 356202 | [356202-perisno.json](./356202-perisno.json) |
 | Periwinkle Blues | 184743 | [184743-periwinkle-blues.json](./184743-periwinkle-blues.json) |
 | Perk Up | 372990 | [372990-perk-up.json](./372990-perk-up.json) |
@@ -9109,6 +9110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poko Memorial: 18th Hole Miniature Golf | 73537 | [73537-poko-memorial-18th-hole-miniature-golf.json](./73537-poko-memorial-18th-hole-miniature-golf.json) |
 | Pokon Factory Survival | 150936 | [150936-pokon-factory-survival.json](./150936-pokon-factory-survival.json) |
 | Pokonyan! Balloon | 140850 | [140850-pokonyan-balloon.json](./140850-pokonyan-balloon.json) |
+| Pokonyan! Henpokorin Adventure | 135497 | [135497-pokonyan-henpokorin-adventure.json](./135497-pokonyan-henpokorin-adventure.json) |
 | Pokor | 397770 | [397770-pokor.json](./397770-pokor.json) |
 | Pokosuka Racing | 408945 | [408945-pokosuka-racing.json](./408945-pokosuka-racing.json) |
 | Pokris | 116099 | [116099-pokris.json](./116099-pokris.json) |
