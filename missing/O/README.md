@@ -1136,6 +1136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Old School FOTD | 74453 | [74453-old-school-fotd.json](./74453-old-school-fotd.json) |
 | Old School Horror Game : Bright Day | 125679 | [125679-old-school-horror-game-bright-day.json](./125679-old-school-horror-game-bright-day.json) |
 | Old School Racer | 91887 | [91887-old-school-racer.json](./91887-old-school-racer.json) |
+| Old School Racer 2 | 114053 | [114053-old-school-racer-2.json](./114053-old-school-racer-2.json) |
 | Old School Rally | 293490 | [293490-old-school-rally.json](./293490-old-school-rally.json) |
 | Old School RPG | 253456 | [253456-old-school-rpg.json](./253456-old-school-rpg.json) |
 | Old School RPG Bundle | 124003 | [124003-old-school-rpg-bundle.json](./124003-old-school-rpg-bundle.json) |
@@ -2095,6 +2096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Strike: Complete Edition | 238181 | [238181-one-strike-complete-edition.json](./238181-one-strike-complete-edition.json) |
 | One Strike: Rise of Dragons | 238180 | [238180-one-strike-rise-of-dragons.json](./238180-one-strike-rise-of-dragons.json) |
 | One Stroke - one tap connect | 86941 | [86941-one-stroke-one-tap-connect.json](./86941-one-stroke-one-tap-connect.json) |
+| One Synth | 114059 | [114059-one-synth.json](./114059-one-synth.json) |
 | One Tank to Rule Them All | 86333 | [86333-one-tank-to-rule-them-all.json](./86333-one-tank-to-rule-them-all.json) |
 | One Tap | 265239 | [265239-one-tap.json](./265239-one-tap.json) |
 | One Thousand and One Days | 182969 | [182969-one-thousand-and-one-days.json](./182969-one-thousand-and-one-days.json) |
