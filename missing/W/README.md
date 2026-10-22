@@ -282,6 +282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Walk It! | 364614 | [364614-walk-it.json](./364614-walk-it.json) |
 | Walk of Life | 346648 | [346648-walk-of-life.json](./346648-walk-of-life.json) |
 | Walk on Arrow | 104956 | [104956-walk-on-arrow.json](./104956-walk-on-arrow.json) |
+| Walk on Mars | 147068 | [147068-walk-on-mars.json](./147068-walk-on-mars.json) |
 | Walk on the Ground Simulator | 120945 | [120945-walk-on-the-ground-simulator.json](./120945-walk-on-the-ground-simulator.json) |
 | Walk the dog | 183319 | [183319-walk-the-dog.json](./183319-walk-the-dog.json) |
 | Walk the Fort | 115605 | [115605-walk-the-fort.json](./115605-walk-the-fort.json) |
