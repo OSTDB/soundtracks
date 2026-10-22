@@ -2188,6 +2188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 50 Doors | 377392 | [377392-50-doors.json](./377392-50-doors.json) |
 | 50 flags and seals of the United States HD | 109013 | [109013-50-flags-and-seals-of-the-united-states-hd.json](./109013-50-flags-and-seals-of-the-united-states-hd.json) |
 | 50 Floors: The Paranormal Investigators Prologue | 306699 | [306699-50-floors-the-paranormal-investigators-prologue.json](./306699-50-floors-the-paranormal-investigators-prologue.json) |
+| 50 Level Survival | 150988 | [150988-50-level-survival.json](./150988-50-level-survival.json) |
 | 50 Minutes 'Til Impact | 369730 | [369730-50-minutes-til-impact.json](./369730-50-minutes-til-impact.json) |
 | 50 More Classic Games | 137413 | [137413-50-more-classic-games.json](./137413-50-more-classic-games.json) |
 | 50 Pinch Barrage!! | 21670 | [21670-50-pinch-barrage.json](./21670-50-pinch-barrage.json) |
