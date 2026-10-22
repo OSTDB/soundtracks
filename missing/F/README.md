@@ -1475,6 +1475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantastic Pets | 20165 | [20165-fantastic-pets.json](./20165-fantastic-pets.json) |
 | Fantastic Petty | 341153 | [341153-fantastic-petty.json](./341153-fantastic-petty.json) |
 | Fantastic Voyage | 18558 | [18558-fantastic-voyage.json](./18558-fantastic-voyage.json) |
+| Fantastical | 131841 | [131841-fantastical.json](./131841-fantastical.json) |
 | Fantastical Mystery ADV: Ultimate Jumbo Jet Murder Case | 289789 | [289789-fantastical-mystery-adv-ultimate-jumbo-jet-murder-case.json](./289789-fantastical-mystery-adv-ultimate-jumbo-jet-murder-case.json) |
 | Fantastyc Murder Mystery | 289797 | [289797-fantastyc-murder-mystery.json](./289797-fantastyc-murder-mystery.json) |
 | Fantasy '95 | 40111 | [40111-fantasy-95.json](./40111-fantasy-95.json) |
@@ -6578,6 +6579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fluid-Kha | 138681 | [138681-fluid-kha.json](./138681-fluid-kha.json) |
 | Fluidity | 21169 | [21169-fluidity.json](./21169-fluidity.json) |
 | Fluidity: Spin Cycle | 20088 | [20088-fluidity-spin-cycle.json](./20088-fluidity-spin-cycle.json) |
+| Flunkerne: Kaos og Kalypso | 131864 | [131864-flunkerne-kaos-og-kalypso.json](./131864-flunkerne-kaos-og-kalypso.json) |
 | Flunkerne: På Månen | 285337 | [285337-flunkerne-pa-manen.json](./285337-flunkerne-pa-manen.json) |
 | Flunkerne: Pirater | 285338 | [285338-flunkerne-pirater.json](./285338-flunkerne-pirater.json) |
 | Flunkerne: Robotter | 285339 | [285339-flunkerne-robotter.json](./285339-flunkerne-robotter.json) |
@@ -6995,6 +6997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Food From the Sky | 96966 | [96966-food-from-the-sky.json](./96966-food-from-the-sky.json) |
 | Food Gang | 144361 | [144361-food-gang.json](./144361-food-gang.json) |
 | Food Girls | 112956 | [112956-food-girls.json](./112956-food-girls.json) |
+| Food Girls - Bubbles' Drink Stand VR | 131823 | [131823-food-girls-bubbles-drink-stand-vr.json](./131823-food-girls-bubbles-drink-stand-vr.json) |
 | Food Girls: Civil War | 127701 | [127701-food-girls-civil-war.json](./127701-food-girls-civil-war.json) |
 | Food Guess: Pixel Art Trivia | 405477 | [405477-food-guess-pixel-art-trivia.json](./405477-food-guess-pixel-art-trivia.json) |
 | Food Hunter | 74438 | [74438-food-hunter.json](./74438-food-hunter.json) |
@@ -10322,6 +10325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Funbag Fantasy 3if | 160197 | [160197-funbag-fantasy-3if.json](./160197-funbag-fantasy-3if.json) |
 | Funbag Fantasy 4: Brother Astor | 210718 | [210718-funbag-fantasy-4-brother-astor.json](./210718-funbag-fantasy-4-brother-astor.json) |
 | Funbag Fantasy: Sideboob Story | 127949 | [127949-funbag-fantasy-sideboob-story.json](./127949-funbag-fantasy-sideboob-story.json) |
+| Funbag Fantasy: Sideboob Story 2 | 131858 | [131858-funbag-fantasy-sideboob-story-2.json](./131858-funbag-fantasy-sideboob-story-2.json) |
 | Funball | 94946 | [94946-funball.json](./94946-funball.json) |
 | Funbox Ultimate Slots Bundle | 317549 | [317549-funbox-ultimate-slots-bundle.json](./317549-funbox-ultimate-slots-bundle.json) |
 | Func Key | 383673 | [383673-func-key.json](./383673-func-key.json) |
