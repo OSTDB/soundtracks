@@ -7822,6 +7822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Click Build Repeat | 404419 | [404419-click-build-repeat.json](./404419-click-build-repeat.json) |
 | Click Click Click | 369641 | [369641-click-click-click.json](./369641-click-click-click.json) |
 | Click Cluck | 381145 | [381145-click-cluck.json](./381145-click-cluck.json) |
+| Click Commander | 120000 | [120000-click-commander.json](./120000-click-commander.json) |
 | Click Defense | 119722 | [119722-click-defense.json](./119722-click-defense.json) |
 | Click Deity | 246660 | [246660-click-deity.json](./246660-click-deity.json) |
 | Click Dungeon | 259503 | [259503-click-dungeon.json](./259503-click-dungeon.json) |
@@ -11693,6 +11694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmo Angel | 92148 | [92148-cosmo-angel.json](./92148-cosmo-angel.json) |
 | Cosmo Cargo | 394499 | [394499-cosmo-cargo.json](./394499-cosmo-cargo.json) |
 | Cosmo Cats | 291360 | [291360-cosmo-cats.json](./291360-cosmo-cats.json) |
+| Cosmo Chaser | 120015 | [120015-cosmo-chaser.json](./120015-cosmo-chaser.json) |
 | Cosmo Duel | 95576 | [95576-cosmo-duel.json](./95576-cosmo-duel.json) |
 | Cosmo Fighter 2 | 122628 | [122628-cosmo-fighter-2.json](./122628-cosmo-fighter-2.json) |
 | Cosmo Fighter II | 112162 | [112162-cosmo-fighter-ii.json](./112162-cosmo-fighter-ii.json) |
@@ -12338,6 +12340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cradle of Nightmares: Chapter 1 | 323502 | [323502-cradle-of-nightmares-chapter-1.json](./323502-cradle-of-nightmares-chapter-1.json) |
 | Cradle of Persia | 88794 | [88794-cradle-of-persia.json](./88794-cradle-of-persia.json) |
 | Cradle of Rome 2 HD | 102101 | [102101-cradle-of-rome-2-hd.json](./102101-cradle-of-rome-2-hd.json) |
+| Cradle of Sins | 120036 | [120036-cradle-of-sins.json](./120036-cradle-of-sins.json) |
 | Cradle of Sins VR | 130651 | [130651-cradle-of-sins-vr.json](./130651-cradle-of-sins-vr.json) |
 | Cradle of Souls | 188886 | [188886-cradle-of-souls.json](./188886-cradle-of-souls.json) |
 | Cradle of the Dark Brood | 408203 | [408203-cradle-of-the-dark-brood.json](./408203-cradle-of-the-dark-brood.json) |
@@ -14383,6 +14386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cryptogram | 355105 | [355105-cryptogram.json](./355105-cryptogram.json) |
 | Cryptogram | 413000 | [413000-cryptogram.json](./413000-cryptogram.json) |
 | Cryptograms | 116955 | [116955-cryptograms.json](./116955-cryptograms.json) |
+| Cryptographer | 120052 | [120052-cryptographer.json](./120052-cryptographer.json) |
 | CryptoGrid | 411789 | [411789-cryptogrid.json](./411789-cryptogrid.json) |
 | CryptoMania: Movie Quotes | 271693 | [271693-cryptomania-movie-quotes.json](./271693-cryptomania-movie-quotes.json) |
 | CryptoMines | 176139 | [176139-cryptomines.json](./176139-cryptomines.json) |
@@ -14615,6 +14619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cthulhu: An Unspeakable Mod | 221668 | [221668-cthulhu-an-unspeakable-mod.json](./221668-cthulhu-an-unspeakable-mod.json) |
 | Cthulhu: Frozen Nightmare | 135269 | [135269-cthulhu-frozen-nightmare.json](./135269-cthulhu-frozen-nightmare.json) |
 | Cthulhu: The Cosmic Abyss - Sanity Skin Pack | 402540 | [402540-cthulhu-the-cosmic-abyss-sanity-skin-pack.json](./402540-cthulhu-the-cosmic-abyss-sanity-skin-pack.json) |
+| Cthulhu's Catharsis | 120008 | [120008-cthulhus-catharsis.json](./120008-cthulhus-catharsis.json) |
 | Cthulhu's Reach: Devil Reef | 258013 | [258013-cthulhus-reach-devil-reef.json](./258013-cthulhus-reach-devil-reef.json) |
 | Cthulhu's Spelling Bee | 183813 | [183813-cthulhus-spelling-bee.json](./183813-cthulhus-spelling-bee.json) |
 | Cthuloop | 381119 | [381119-cthuloop.json](./381119-cthuloop.json) |
