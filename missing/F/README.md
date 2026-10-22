@@ -6761,6 +6761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flying Bacon: Ukrainian Air Force | 81964 | [81964-flying-bacon-ukrainian-air-force.json](./81964-flying-bacon-ukrainian-air-force.json) |
 | Flying Baron 1916 | 31607 | [31607-flying-baron-1916.json](./31607-flying-baron-1916.json) |
 | Flying Body Parts | 64328 | [64328-flying-body-parts.json](./64328-flying-body-parts.json) |
+| Flying Bug Smasher | 108206 | [108206-flying-bug-smasher.json](./108206-flying-bug-smasher.json) |
 | Flying Bunny | 99519 | [99519-flying-bunny.json](./99519-flying-bunny.json) |
 | Flying Candy | 379123 | [379123-flying-candy.json](./379123-flying-candy.json) |
 | Flying Car Robot Flight Drive Simulator Game 2017 | 86854 | [86854-flying-car-robot-flight-drive-simulator-game-2017.json](./86854-flying-car-robot-flight-drive-simulator-game-2017.json) |
