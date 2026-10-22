@@ -11286,7 +11286,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The One Spell | 182706 | [182706-the-one-spell.json](./182706-the-one-spell.json) |
 | The One Way Challenge | 259413 | [259413-the-one-way-challenge.json](./259413-the-one-way-challenge.json) |
 | The One Who Knows | 416695 | [416695-the-one-who-knows.json](./416695-the-one-who-knows.json) |
-| The One Who Pulls Out the Sword Will Be Crowned King | 191888 | [191888-the-one-who-pulls-out-the-sword-will-be-crowned-king.json](./191888-the-one-who-pulls-out-the-sword-will-be-crowned-king.json) |
 | The One Who Runs Away Is Chased | 410250 | [410250-the-one-who-runs-away-is-chased.json](./410250-the-one-who-runs-away-is-chased.json) |
 | The One Who Stands Behind | 258191 | [258191-the-one-who-stands-behind.json](./258191-the-one-who-stands-behind.json) |
 | The One: Chapter 2 | 244230 | [244230-the-one-chapter-2.json](./244230-the-one-chapter-2.json) |
@@ -12839,7 +12838,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Simpsons: Tapped Out | 2845 | [2845-the-simpsons-tapped-out.json](./2845-the-simpsons-tapped-out.json) |
 | The Simpsons: Virtual Springfield | 2839 | [2839-the-simpsons-virtual-springfield.json](./2839-the-simpsons-virtual-springfield.json) |
 | The Simpsons.exe | 388397 | [388397-the-simpsons-exe.json](./388397-the-simpsons-exe.json) |
-| The Sims 2 | 192905 | [192905-the-sims-2.json](./192905-the-sims-2.json) |
 | The Sims 2 | 192906 | [192906-the-sims-2.json](./192906-the-sims-2.json) |
 | The Sims 2 | 210459 | [210459-the-sims-2.json](./210459-the-sims-2.json) |
 | The Sims 2 | 210460 | [210460-the-sims-2.json](./210460-the-sims-2.json) |
@@ -13177,7 +13175,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Social Distance Game | 228387 | [228387-the-social-distance-game.json](./228387-the-social-distance-game.json) |
 | The Social Engineer | 286221 | [286221-the-social-engineer.json](./286221-the-social-engineer.json) |
 | The Social Grip: Llama Drama | 406766 | [406766-the-social-grip-llama-drama.json](./406766-the-social-grip-llama-drama.json) |
-| The Sojourn | 106120 | [106120-the-sojourn.json](./106120-the-sojourn.json) |
 | The Sokoban | 175811 | [175811-the-sokoban.json](./175811-the-sokoban.json) |
 | The Sokpop Collection | 131559 | [131559-the-sokpop-collection.json](./131559-the-sokpop-collection.json) |
 | The SOL Device | 104524 | [104524-the-sol-device.json](./104524-the-sol-device.json) |
@@ -15592,7 +15589,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thirsty Bird | 403784 | [403784-thirsty-bird.json](./403784-thirsty-bird.json) |
 | Thirsty Heroes | 156885 | [156885-thirsty-heroes.json](./156885-thirsty-heroes.json) |
 | Thirsty Nellan | 70111 | [70111-thirsty-nellan.json](./70111-thirsty-nellan.json) |
-| Thirsty Suitors | 185240 | [185240-thirsty-suitors.json](./185240-thirsty-suitors.json) |
 | Thirteen & Half Cats | 120888 | [120888-thirteen-and-half-cats.json](./120888-thirteen-and-half-cats.json) |
 | Thirteen Souls | 129770 | [129770-thirteen-souls.json](./129770-thirteen-souls.json) |
 | Thirty Cycles | 200710 | [200710-thirty-cycles.json](./200710-thirty-cycles.json) |
