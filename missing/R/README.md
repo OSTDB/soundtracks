@@ -7688,6 +7688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Bricks | 370898 | [370898-rogue-bricks.json](./370898-rogue-bricks.json) |
 | Rogue Buddies - Aztek Gold | 96227 | [96227-rogue-buddies-aztek-gold.json](./96227-rogue-buddies-aztek-gold.json) |
 | Rogue Candy | 335120 | [335120-rogue-candy.json](./335120-rogue-candy.json) |
+| Rogue Card | 149855 | [149855-rogue-card.json](./149855-rogue-card.json) |
 | Rogue Cards | 267871 | [267871-rogue-cards.json](./267871-rogue-cards.json) |
 | Rogue Carrier | 409641 | [409641-rogue-carrier.json](./409641-rogue-carrier.json) |
 | Rogue Cell | 373824 | [373824-rogue-cell.json](./373824-rogue-cell.json) |
