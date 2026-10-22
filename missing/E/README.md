@@ -6145,6 +6145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extra Bases | 100300 | [100300-extra-bases.json](./100300-extra-bases.json) |
 | Extra Bright | 43795 | [43795-extra-bright.json](./43795-extra-bright.json) |
 | Extra Case: My Girlfriend's Secrets | 234108 | [234108-extra-case-my-girlfriends-secrets.json](./234108-extra-case-my-girlfriends-secrets.json) |
+| Extra Coin | 153230 | [153230-extra-coin.json](./153230-extra-coin.json) |
 | Extra Cream | 310134 | [310134-extra-cream.json](./310134-extra-cream.json) |
 | Extra Evolution: L’Era del Primordiale | 342778 | [342778-extra-evolution-l-era-del-primordiale.json](./342778-extra-evolution-l-era-del-primordiale.json) |
 | Extra Extra Poison | 369578 | [369578-extra-extra-poison.json](./369578-extra-extra-poison.json) |
