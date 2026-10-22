@@ -7634,6 +7634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Player of the Year | 404852 | [404852-player-of-the-year.json](./404852-player-of-the-year.json) |
 | Player Power | 156938 | [156938-player-power.json](./156938-player-power.json) |
 | Player's Eleven | 129230 | [129230-players-eleven.json](./129230-players-eleven.json) |
+| PlayerOne | 125678 | [125678-playerone.json](./125678-playerone.json) |
 | PlayerONeGame | 90357 | [90357-playeronegame.json](./90357-playeronegame.json) |
 | Playerunkn1wn: Friendly Fire | 80912 | [80912-playerunkn1wn-friendly-fire.json](./80912-playerunkn1wn-friendly-fire.json) |
 | Playerunkn4wn: Zombie | 80913 | [80913-playerunkn4wn-zombie.json](./80913-playerunkn4wn-zombie.json) |
@@ -10813,6 +10814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Predator | 74422 | [74422-predator.json](./74422-predator.json) |
 | Predator 2 | 15346 | [15346-predator-2.json](./15346-predator-2.json) |
 | Predator and Wreck | 151805 | [151805-predator-and-wreck.json](./151805-predator-and-wreck.json) |
+| Predator VR | 125674 | [125674-predator-vr.json](./125674-predator-vr.json) |
 | Predator: Hunting Grounds | 118272 | [118272-predator-hunting-grounds.json](./118272-predator-hunting-grounds.json) |
 | Predator: Hunting Grounds - City Hunter Predator | 168758 | [168758-predator-hunting-grounds-city-hunter-predator.json](./168758-predator-hunting-grounds-city-hunter-predator.json) |
 | Predator: Hunting Grounds - Dante "Beast Mode" Jefferson | 168764 | [168764-predator-hunting-grounds-dante-beast-mode-jefferson.json](./168764-predator-hunting-grounds-dante-beast-mode-jefferson.json) |
@@ -14419,6 +14421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle: Cats & Dogs | 105251 | [105251-puzzle-cats-and-dogs.json](./105251-puzzle-cats-and-dogs.json) |
 | Puzzle: Cats & Dogs - Puzzle Pack: Summer Cats | 163464 | [163464-puzzle-cats-and-dogs-puzzle-pack-summer-cats.json](./163464-puzzle-cats-and-dogs-puzzle-pack-summer-cats.json) |
 | Puzzle: Cats & Dogs - Puzzle Pack: Summer Dogs | 163463 | [163463-puzzle-cats-and-dogs-puzzle-pack-summer-dogs.json](./163463-puzzle-cats-and-dogs-puzzle-pack-summer-dogs.json) |
+| Puzzle: Fire Sticks | 125702 | [125702-puzzle-fire-sticks.json](./125702-puzzle-fire-sticks.json) |
 | Puzzle: Landscapes | 106589 | [106589-puzzle-landscapes.json](./106589-puzzle-landscapes.json) |
 | Puzzle: Lines and Knots - Free Levels Pack | 293425 | [293425-puzzle-lines-and-knots-free-levels-pack.json](./293425-puzzle-lines-and-knots-free-levels-pack.json) |
 | Puzzle: Lines and Knots - Levels Pack 1 | 163436 | [163436-puzzle-lines-and-knots-levels-pack-1.json](./163436-puzzle-lines-and-knots-levels-pack-1.json) |
