@@ -2231,6 +2231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Day Zero - Build, Craft, Survive | 119485 | [119485-day-zero-build-craft-survive.json](./119485-day-zero-build-craft-survive.json) |
 | Day_000 | 261981 | [261981-day-000.json](./261981-day-000.json) |
 | Day: 40 | 116915 | [116915-day-40.json](./116915-day-40.json) |
+| Day/Night Town | 139267 | [139267-day-night-town.json](./139267-day-night-town.json) |
 | Daybreak | 217245 | [217245-daybreak.json](./217245-daybreak.json) |
 | Daybreak | 380239 | [380239-daybreak.json](./380239-daybreak.json) |
 | Daybreak Legends: Origin | 101069 | [101069-daybreak-legends-origin.json](./101069-daybreak-legends-origin.json) |
@@ -5189,6 +5190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Densha de Go! Shinkansen EX: Sanyou Shinkansen-hen | 146542 | [146542-densha-de-go-shinkansen-ex-sanyou-shinkansen-hen.json](./146542-densha-de-go-shinkansen-ex-sanyou-shinkansen-hen.json) |
 | Densha de GO! Tokubetsu-hen: Fukkatsu Shouwa no Yamanotesen | 66660 | [66660-densha-de-go-tokubetsu-hen-fukkatsu-shouwa-no-yamanotesen.json](./66660-densha-de-go-tokubetsu-hen-fukkatsu-shouwa-no-yamanotesen.json) |
 | Densha de Go!! | 146597 | [146597-densha-de-go.json](./146597-densha-de-go.json) |
+| Densha de Go!! Hashirou Yamanote-sen | 139066 | [139066-densha-de-go-hashirou-yamanote-sen.json](./139066-densha-de-go-hashirou-yamanote-sen.json) |
 | Densha de Go!! Kids | 146600 | [146600-densha-de-go-kids.json](./146600-densha-de-go-kids.json) |
 | Densha Unten Shirei! Tokaido-hen | 221739 | [221739-densha-unten-shirei-tokaido-hen.json](./221739-densha-unten-shirei-tokaido-hen.json) |
 | Densha Unten Shirei! Tokyo-wan-hen | 221738 | [221738-densha-unten-shirei-tokyo-wan-hen.json](./221738-densha-unten-shirei-tokyo-wan-hen.json) |
@@ -6194,6 +6196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil Station | 130676 | [130676-devil-station.json](./130676-devil-station.json) |
 | Devil Stone | 110329 | [110329-devil-stone.json](./110329-devil-stone.json) |
 | Devil Summoner: Soul Hackers | 6883 | [6883-devil-summoner-soul-hackers.json](./6883-devil-summoner-soul-hackers.json) |
+| Devil Summoner: Soul Hackers Intruder | 139069 | [139069-devil-summoner-soul-hackers-intruder.json](./139069-devil-summoner-soul-hackers-intruder.json) |
 | Devil Summoner: Soul Hackers New Generation | 139091 | [139091-devil-summoner-soul-hackers-new-generation.json](./139091-devil-summoner-soul-hackers-new-generation.json) |
 | Devil Survivor 2: The Extra World | 139136 | [139136-devil-survivor-2-the-extra-world.json](./139136-devil-survivor-2-the-extra-world.json) |
 | Devil Tears | 175789 | [175789-devil-tears.json](./175789-devil-tears.json) |
@@ -7736,6 +7739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Discolored 2 | 216659 | [216659-discolored-2.json](./216659-discolored-2.json) |
 | Discolored Bundle | 332504 | [332504-discolored-bundle.json](./332504-discolored-bundle.json) |
 | Discomfort | 177956 | [177956-discomfort.json](./177956-discomfort.json) |
+| Discomfort Zone | 139053 | [139053-discomfort-zone.json](./139053-discomfort-zone.json) |
 | Disconcerting Unease 1 | 275313 | [275313-disconcerting-unease-1.json](./275313-disconcerting-unease-1.json) |
 | Disconcerting Unease 2 | 275320 | [275320-disconcerting-unease-2.json](./275320-disconcerting-unease-2.json) |
 | Disconcordia | 402940 | [402940-disconcordia.json](./402940-disconcordia.json) |
