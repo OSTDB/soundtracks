@@ -2924,6 +2924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aerial Nature Jigsaw Puzzles: Expansion Pack 4 | 270199 | [270199-aerial-nature-jigsaw-puzzles-expansion-pack-4.json](./270199-aerial-nature-jigsaw-puzzles-expansion-pack-4.json) |
 | Aerial Racers | 76195 | [76195-aerial-racers.json](./76195-aerial-racers.json) |
 | Aerial Rave | 286483 | [286483-aerial-rave.json](./286483-aerial-rave.json) |
+| Aerial Raver | 131829 | [131829-aerial-raver.json](./131829-aerial-raver.json) |
 | Aerial Strike: The Yager Missions | 72587 | [72587-aerial-strike-the-yager-missions.json](./72587-aerial-strike-the-yager-missions.json) |
 | Aerial_Knight's DropShot | 342901 | [342901-aerial-knights-dropshot.json](./342901-aerial-knights-dropshot.json) |
 | Aerial_Knight's MrFreezy | 410070 | [410070-aerial-knights-mrfreezy.json](./410070-aerial-knights-mrfreezy.json) |
@@ -9493,6 +9494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Nova 2001 | 75701 | [75701-arcade-archives-nova-2001.json](./75701-arcade-archives-nova-2001.json) |
 | Arcade Archives: Ordyne | 223153 | [223153-arcade-archives-ordyne.json](./223153-arcade-archives-ordyne.json) |
 | Arcade Archives: P-47 | 135583 | [135583-arcade-archives-p-47.json](./135583-arcade-archives-p-47.json) |
+| Arcade Archives: P.O.W. - Prisoners of War | 131846 | [131846-arcade-archives-p-o-w-prisoners-of-war.json](./131846-arcade-archives-p-o-w-prisoners-of-war.json) |
 | Arcade Archives: Pac & Pal | 215109 | [215109-arcade-archives-pac-and-pal.json](./215109-arcade-archives-pac-and-pal.json) |
 | Arcade Archives: Pac-Man | 172431 | [172431-arcade-archives-pac-man.json](./172431-arcade-archives-pac-man.json) |
 | Arcade Archives: Penguin-Kun Wars | 129497 | [129497-arcade-archives-penguin-kun-wars.json](./129497-arcade-archives-penguin-kun-wars.json) |
@@ -14048,6 +14050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Azumanga: The Fighting T-Style | 222493 | [222493-azumanga-the-fighting-t-style.json](./222493-azumanga-the-fighting-t-style.json) |
 | Azumi | 90930 | [90930-azumi.json](./90930-azumi.json) |
 | Azumi and the Vertical Slice | 257075 | [257075-azumi-and-the-vertical-slice.json](./257075-azumi-and-the-vertical-slice.json) |
+| Azur & Asmar | 131863 | [131863-azur-and-asmar.json](./131863-azur-and-asmar.json) |
 | Azur Lane | 70708 | [70708-azur-lane.json](./70708-azur-lane.json) |
 | Azur Lane: Complete Deluxe Edition | 238327 | [238327-azur-lane-complete-deluxe-edition.json](./238327-azur-lane-complete-deluxe-edition.json) |
 | Azur Lane: Crosswave | 109475 | [109475-azur-lane-crosswave.json](./109475-azur-lane-crosswave.json) |
