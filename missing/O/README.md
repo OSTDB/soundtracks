@@ -990,6 +990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oil Panic | 231724 | [231724-oil-panic.json](./231724-oil-panic.json) |
 | Oil Patch Simulations | 110366 | [110366-oil-patch-simulations.json](./110366-oil-patch-simulations.json) |
 | Oil Platform Simulator | 65265 | [65265-oil-platform-simulator.json](./65265-oil-platform-simulator.json) |
+| Oil Platform Simulator 2013 | 144680 | [144680-oil-platform-simulator-2013.json](./144680-oil-platform-simulator-2013.json) |
 | Oil Refinery: The Simulation | 344242 | [344242-oil-refinery-the-simulation.json](./344242-oil-refinery-the-simulation.json) |
 | Oil Rush: Tower Defense Map Pack | 226120 | [226120-oil-rush-tower-defense-map-pack.json](./226120-oil-rush-tower-defense-map-pack.json) |
 | Oil Strike '75 | 310172 | [310172-oil-strike-75.json](./310172-oil-strike-75.json) |
@@ -3312,6 +3313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orpheus | 237084 | [237084-orpheus.json](./237084-orpheus.json) |
 | Orpheus | 262090 | [262090-orpheus.json](./262090-orpheus.json) |
 | Orpheus: Echo of Hades | 401774 | [401774-orpheus-echo-of-hades.json](./401774-orpheus-echo-of-hades.json) |
+| Orpheus: Fall For Eurydice | 144654 | [144654-orpheus-fall-for-eurydice.json](./144654-orpheus-fall-for-eurydice.json) |
 | Orpheus: Tale of a Lover | 258095 | [258095-orpheus-tale-of-a-lover.json](./258095-orpheus-tale-of-a-lover.json) |
 | Orpheus's Dream | 119766 | [119766-orpheuss-dream.json](./119766-orpheuss-dream.json) |
 | Orqa FPV SkyDive | 196854 | [196854-orqa-fpv-skydive.json](./196854-orqa-fpv-skydive.json) |
@@ -4065,6 +4067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outlaw Golf: 9 More Holes of X-Mas | 47311 | [47311-outlaw-golf-9-more-holes-of-x-mas.json](./47311-outlaw-golf-9-more-holes-of-x-mas.json) |
 | Outlaw Golf: Holiday Golf | 78687 | [78687-outlaw-golf-holiday-golf.json](./78687-outlaw-golf-holiday-golf.json) |
 | Outlaw Kingdom | 245906 | [245906-outlaw-kingdom.json](./245906-outlaw-kingdom.json) |
+| Outlaw Mayor Panic | 144675 | [144675-outlaw-mayor-panic.json](./144675-outlaw-mayor-panic.json) |
 | Outlaw Racers | 47085 | [47085-outlaw-racers.json](./47085-outlaw-racers.json) |
 | Outlaw Racing | 210603 | [210603-outlaw-racing.json](./210603-outlaw-racing.json) |
 | Outlaw Tales: Western Adventure Survival | 118199 | [118199-outlaw-tales-western-adventure-survival.json](./118199-outlaw-tales-western-adventure-survival.json) |
