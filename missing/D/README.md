@@ -2353,6 +2353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daytona USA Deluxe | 73482 | [73482-daytona-usa-deluxe.json](./73482-daytona-usa-deluxe.json) |
 | DayZ | 2117 | [2117-dayz.json](./2117-dayz.json) |
 | DayZ: Frostline | 311724 | [311724-dayz-frostline.json](./311724-dayz-frostline.json) |
+| DayZ: Livonia | 122663 | [122663-dayz-livonia.json](./122663-dayz-livonia.json) |
 | DayZ: Livonia Edition | 164803 | [164803-dayz-livonia-edition.json](./164803-dayz-livonia-edition.json) |
 | Daze | 229555 | [229555-daze.json](./229555-daze.json) |
 | Daze Before Christmas | 7662 | [7662-daze-before-christmas.json](./7662-daze-before-christmas.json) |
@@ -5786,6 +5787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destiny 2: Revenant | 319116 | [319116-destiny-2-revenant.json](./319116-destiny-2-revenant.json) |
 | Destiny 2: Revenant Silver Bundle | 326684 | [326684-destiny-2-revenant-silver-bundle.json](./326684-destiny-2-revenant-silver-bundle.json) |
 | Destiny 2: Season of the Splicer Silver Bundle | 147893 | [147893-destiny-2-season-of-the-splicer-silver-bundle.json](./147893-destiny-2-season-of-the-splicer-silver-bundle.json) |
+| Destiny 2: Shadowkeep - Digital Deluxe Edition | 122719 | [122719-destiny-2-shadowkeep-digital-deluxe-edition.json](./122719-destiny-2-shadowkeep-digital-deluxe-edition.json) |
 | Destiny 2: Shadowkeep - Season of Arrivals | 135150 | [135150-destiny-2-shadowkeep-season-of-arrivals.json](./135150-destiny-2-shadowkeep-season-of-arrivals.json) |
 | Destiny 2: Shadowkeep - Season of the Worthy | 135147 | [135147-destiny-2-shadowkeep-season-of-the-worthy.json](./135147-destiny-2-shadowkeep-season-of-the-worthy.json) |
 | Destiny 2: The Edge of Fate | 342776 | [342776-destiny-2-the-edge-of-fate.json](./342776-destiny-2-the-edge-of-fate.json) |
@@ -6482,6 +6484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diamond | 35826 | [35826-diamond.json](./35826-diamond.json) |
 | Diamond Battle | 90385 | [90385-diamond-battle.json](./90385-diamond-battle.json) |
 | Diamond Caves | 111571 | [111571-diamond-caves.json](./111571-diamond-caves.json) |
+| Diamond Caves II | 122631 | [122631-diamond-caves-ii.json](./122631-diamond-caves-ii.json) |
 | Diamond Craze | 248817 | [248817-diamond-craze.json](./248817-diamond-craze.json) |
 | Diamond Crush 2 | 343975 | [343975-diamond-crush-2.json](./343975-diamond-crush-2.json) |
 | Diamond Dash | 72688 | [72688-diamond-dash.json](./72688-diamond-dash.json) |
@@ -7610,6 +7613,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dirt Racing Bundle Rally & Truck | 370434 | [370434-dirt-racing-bundle-rally-and-truck.json](./370434-dirt-racing-bundle-rally-and-truck.json) |
 | Dirt Racing Mobile 3D | 101493 | [101493-dirt-racing-mobile-3d.json](./101493-dirt-racing-mobile-3d.json) |
 | Dirt Rally | 9928 | [9928-dirt-rally.json](./9928-dirt-rally.json) |
+| DiRT Rally 2.0: Digital Deluxe Edition | 122656 | [122656-dirt-rally-2-0-digital-deluxe-edition.json](./122656-dirt-rally-2-0-digital-deluxe-edition.json) |
+| DiRT Rally 2.0: Super Deluxe Edition | 122657 | [122657-dirt-rally-2-0-super-deluxe-edition.json](./122657-dirt-rally-2-0-super-deluxe-edition.json) |
 | Dirt Rally Driver HD | 116383 | [116383-dirt-rally-driver-hd.json](./116383-dirt-rally-driver-hd.json) |
 | DiRT Rally: VR Edition | 136176 | [136176-dirt-rally-vr-edition.json](./136176-dirt-rally-vr-edition.json) |
 | Dirt Reborn | 200054 | [200054-dirt-reborn.json](./200054-dirt-reborn.json) |
