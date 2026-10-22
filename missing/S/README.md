@@ -2265,6 +2265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Schachkampf | 237238 | [237238-schachkampf.json](./237238-schachkampf.json) |
 | Schacht | 31775 | [31775-schacht.json](./31775-schacht.json) |
 | Schäferstündchen Adventures | 78920 | [78920-schaferstundchen-adventures.json](./78920-schaferstundchen-adventures.json) |
+| SchafkopfSpiel | 141048 | [141048-schafkopfspiel.json](./141048-schafkopfspiel.json) |
 | Schar: Blue Shield Alliance | 35941 | [35941-schar-blue-shield-alliance.json](./35941-schar-blue-shield-alliance.json) |
 | Schastye | 158408 | [158408-schastye.json](./158408-schastye.json) |
 | Schatte: The Witch and the Fake Shadow | 74917 | [74917-schatte-the-witch-and-the-fake-shadow.json](./74917-schatte-the-witch-and-the-fake-shadow.json) |
@@ -11665,6 +11666,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sniper Elite 4: Cold Warfare Winter Expansion Pack | 410733 | [410733-sniper-elite-4-cold-warfare-winter-expansion-pack.json](./410733-sniper-elite-4-cold-warfare-winter-expansion-pack.json) |
 | Sniper Elite 4: Covert Heroes Character Pack | 410730 | [410730-sniper-elite-4-covert-heroes-character-pack.json](./410730-sniper-elite-4-covert-heroes-character-pack.json) |
 | Sniper Elite 4: Deathstorm Part 1 - Inception | 27868 | [27868-sniper-elite-4-deathstorm-part-1-inception.json](./27868-sniper-elite-4-deathstorm-part-1-inception.json) |
+| Sniper Elite 4: Deathstorm Part 2 - Infiltration | 141038 | [141038-sniper-elite-4-deathstorm-part-2-infiltration.json](./141038-sniper-elite-4-deathstorm-part-2-infiltration.json) |
+| Sniper Elite 4: Deathstorm Part 3 - Obliteration | 141039 | [141039-sniper-elite-4-deathstorm-part-3-obliteration.json](./141039-sniper-elite-4-deathstorm-part-3-obliteration.json) |
 | Sniper Elite 4: Digital Deluxe Edition | 54380 | [54380-sniper-elite-4-digital-deluxe-edition.json](./54380-sniper-elite-4-digital-deluxe-edition.json) |
 | Sniper Elite 4: Lock and Load Weapons Pack | 410734 | [410734-sniper-elite-4-lock-and-load-weapons-pack.json](./410734-sniper-elite-4-lock-and-load-weapons-pack.json) |
 | Sniper Elite 4: Night Fighter Expansion Pack | 410727 | [410727-sniper-elite-4-night-fighter-expansion-pack.json](./410727-sniper-elite-4-night-fighter-expansion-pack.json) |
@@ -14536,6 +14539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sound of Drop: Fall into Poison | 19279 | [19279-sound-of-drop-fall-into-poison.json](./19279-sound-of-drop-fall-into-poison.json) |
 | Sound of Horses | 357859 | [357859-sound-of-horses.json](./357859-sound-of-horses.json) |
 | Sound of Summer Thunder | 360669 | [360669-sound-of-summer-thunder.json](./360669-sound-of-summer-thunder.json) |
+| Sound of the Sky: Maiden Quintet | 140854 | [140854-sound-of-the-sky-maiden-quintet.json](./140854-sound-of-the-sky-maiden-quintet.json) |
 | Sound Science | 133158 | [133158-sound-science.json](./133158-sound-science.json) |
 | Sound Shapes | 7729 | [7729-sound-shapes.json](./7729-sound-shapes.json) |
 | Sound Shapes: Car Mini-Album & Creator Pack | 21728 | [21728-sound-shapes-car-mini-album-and-creator-pack.json](./21728-sound-shapes-car-mini-album-and-creator-pack.json) |
@@ -21287,6 +21291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strange Brigade: Deluxe Edition | 118899 | [118899-strange-brigade-deluxe-edition.json](./118899-strange-brigade-deluxe-edition.json) |
 | Strange Brigade: The Thrice Damned 1 - Isle of the Dead | 110842 | [110842-strange-brigade-the-thrice-damned-1-isle-of-the-dead.json](./110842-strange-brigade-the-thrice-damned-1-isle-of-the-dead.json) |
 | Strange Brigade: The Thrice Damned 2 - The Sunken Kingdom | 111557 | [111557-strange-brigade-the-thrice-damned-2-the-sunken-kingdom.json](./111557-strange-brigade-the-thrice-damned-2-the-sunken-kingdom.json) |
+| Strange Brigade: The Thrice Damned 3 - Great Pyramid of Bes | 141059 | [141059-strange-brigade-the-thrice-damned-3-great-pyramid-of-bes.json](./141059-strange-brigade-the-thrice-damned-3-great-pyramid-of-bes.json) |
 | Strange Case: The Alchemist | 188293 | [188293-strange-case-the-alchemist.json](./188293-strange-case-the-alchemist.json) |
 | Strange Day | 365881 | [365881-strange-day.json](./365881-strange-day.json) |
 | Strange Hill | 263750 | [263750-strange-hill.json](./263750-strange-hill.json) |
