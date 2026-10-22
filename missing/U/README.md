@@ -2043,6 +2043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unloved | 228345 | [228345-unloved.json](./228345-unloved.json) |
 | Unluck Quest | 232016 | [232016-unluck-quest.json](./232016-unluck-quest.json) |
 | Unluckily in Love | 224573 | [224573-unluckily-in-love.json](./224573-unluckily-in-love.json) |
+| Unlucky Charlie | 114685 | [114685-unlucky-charlie.json](./114685-unlucky-charlie.json) |
 | Unlucky Chicken | 330586 | [330586-unlucky-chicken.json](./330586-unlucky-chicken.json) |
 | Unlucky Mage | 85467 | [85467-unlucky-mage.json](./85467-unlucky-mage.json) |
 | Unlucky Mummy | 401627 | [401627-unlucky-mummy.json](./401627-unlucky-mummy.json) |
@@ -2272,6 +2273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unsouled | 124772 | [124772-unsouled.json](./124772-unsouled.json) |
 | Unspoken | 364004 | [364004-unspoken.json](./364004-unspoken.json) |
 | Unspottable | 129693 | [129693-unspottable.json](./129693-unspottable.json) |
+| UnStabbed - Knife Circus | 114699 | [114699-unstabbed-knife-circus.json](./114699-unstabbed-knife-circus.json) |
 | Unstable | 191248 | [191248-unstable.json](./191248-unstable.json) |
 | Unstable | 28858 | [28858-unstable.json](./28858-unstable.json) |
 | Unstable Blocks | 303224 | [303224-unstable-blocks.json](./303224-unstable-blocks.json) |
