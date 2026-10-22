@@ -895,6 +895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War: Final Assault | 80794 | [80794-war-final-assault.json](./80794-war-final-assault.json) |
 | War: The Savior's Order | 221796 | [221796-war-the-saviors-order.json](./221796-war-the-saviors-order.json) |
 | War! Age of Imperialism | 73520 | [73520-war-age-of-imperialism.json](./73520-war-age-of-imperialism.json) |
+| WAR! Showdown | 108186 | [108186-war-showdown.json](./108186-war-showdown.json) |
 | War7 | 31137 | [31137-war7.json](./31137-war7.json) |
 | Warag | 348741 | [348741-warag.json](./348741-warag.json) |
 | Warage | 155500 | [155500-warage.json](./155500-warage.json) |
@@ -3157,6 +3158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wheel Stars | 236313 | [236313-wheel-stars.json](./236313-wheel-stars.json) |
 | Wheelbarrow Warrior | 107365 | [107365-wheelbarrow-warrior.json](./107365-wheelbarrow-warrior.json) |
 | Wheelborn | 282222 | [282222-wheelborn.json](./282222-wheelborn.json) |
+| Wheelchair for Two | 406738 | [406738-wheelchair-for-two.json](./406738-wheelchair-for-two.json) |
 | Wheelchair Simulator | 103157 | [103157-wheelchair-simulator.json](./103157-wheelchair-simulator.json) |
 | Wheelchair Simulator VR | 100463 | [100463-wheelchair-simulator-vr.json](./100463-wheelchair-simulator-vr.json) |
 | Wheeled Warriors: Ultimate Destruction | 216832 | [216832-wheeled-warriors-ultimate-destruction.json](./216832-wheeled-warriors-ultimate-destruction.json) |
@@ -5312,6 +5314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizard's Fortress: Tower Defense | 345706 | [345706-wizards-fortress-tower-defense.json](./345706-wizards-fortress-tower-defense.json) |
 | Wizard's Harmony | 55900 | [55900-wizards-harmony.json](./55900-wizards-harmony.json) |
 | Wizard's Harmony 2 | 55901 | [55901-wizards-harmony-2.json](./55901-wizards-harmony-2.json) |
+| Wizard's Harmony R | 108169 | [108169-wizards-harmony-r.json](./108169-wizards-harmony-r.json) |
 | Wizard's Lair | 26471 | [26471-wizards-lair.json](./26471-wizards-lair.json) |
 | Wizard's Quest | 148818 | [148818-wizards-quest.json](./148818-wizards-quest.json) |
 | Wizard's Symphony | 96111 | [96111-wizards-symphony.json](./96111-wizards-symphony.json) |
@@ -5741,6 +5744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wood Block Puzzle Game | 98830 | [98830-wood-block-puzzle-game.json](./98830-wood-block-puzzle-game.json) |
 | Wood Blocks 3D | 294547 | [294547-wood-blocks-3d.json](./294547-wood-blocks-3d.json) |
 | Wood Brothers Flying Colours | 188901 | [188901-wood-brothers-flying-colours.json](./188901-wood-brothers-flying-colours.json) |
+| Wood Chipper Truck | 108164 | [108164-wood-chipper-truck.json](./108164-wood-chipper-truck.json) |
 | Wood Cuter | 201800 | [201800-wood-cuter.json](./201800-wood-cuter.json) |
 | Wood for Nobody Else | 357212 | [357212-wood-for-nobody-else.json](./357212-wood-for-nobody-else.json) |
 | Wood for the Trees | 176958 | [176958-wood-for-the-trees.json](./176958-wood-for-the-trees.json) |
