@@ -794,6 +794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallen | 26796 | [26796-fallen.json](./26796-fallen.json) |
 | Fallen | 271114 | [271114-fallen.json](./271114-fallen.json) |
 | Fallen | 374204 | [374204-fallen.json](./374204-fallen.json) |
+| Fallen Angel | 121988 | [121988-fallen-angel.json](./121988-fallen-angel.json) |
 | Fallen Angel | 322457 | [322457-fallen-angel.json](./322457-fallen-angel.json) |
 | Fallen Angel: Hell Survival | 258185 | [258185-fallen-angel-hell-survival.json](./258185-fallen-angel-hell-survival.json) |
 | Fallen Angel: The War in Heaven | 120883 | [120883-fallen-angel-the-war-in-heaven.json](./120883-fallen-angel-the-war-in-heaven.json) |
@@ -3781,6 +3782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Film Fatale: Lights, Camera, Madness! | 125383 | [125383-film-fatale-lights-camera-madness.json](./125383-film-fatale-lights-camera-madness.json) |
 | Film Morbid | 310115 | [310115-film-morbid.json](./310115-film-morbid.json) |
 | Film Studio Manager | 241298 | [241298-film-studio-manager.json](./241298-film-studio-manager.json) |
+| Filmmaker Tycoon | 122003 | [122003-filmmaker-tycoon.json](./122003-filmmaker-tycoon.json) |
 | Filo: Something Filamentous | 420574 | [420574-filo-something-filamentous.json](./420574-filo-something-filamentous.json) |
 | Filsnown: Hikari to Toki | 247506 | [247506-filsnown-hikari-to-toki.json](./247506-filsnown-hikari-to-toki.json) |
 | Filter World | 277512 | [277512-filter-world.json](./277512-filter-world.json) |
@@ -7269,6 +7271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Footprints Combination | 309565 | [309565-footprints-combination.json](./309565-footprints-combination.json) |
 | FootRock | 74735 | [74735-footrock.json](./74735-footrock.json) |
 | FootRock 2 | 29902 | [29902-footrock-2.json](./29902-footrock-2.json) |
+| Footsies | 122007 | [122007-footsies.json](./122007-footsies.json) |
 | Footsies Rollback Edition | 139359 | [139359-footsies-rollback-edition.json](./139359-footsies-rollback-edition.json) |
 | FootSkull | 182174 | [182174-footskull.json](./182174-footskull.json) |
 | Footsy | 311139 | [311139-footsy.json](./311139-footsy.json) |
@@ -10487,6 +10490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Funny Racer | 305350 | [305350-funny-racer.json](./305350-funny-racer.json) |
 | Funny Rain | 314924 | [314924-funny-rain.json](./314924-funny-rain.json) |
 | Funny Rat Game 2 | 404907 | [404907-funny-rat-game-2.json](./404907-funny-rat-game-2.json) |
+| Funny Road Chase Simulator | 122029 | [122029-funny-road-chase-simulator.json](./122029-funny-road-chase-simulator.json) |
 | Funny Soccer | 263411 | [263411-funny-soccer.json](./263411-funny-soccer.json) |
 | Funny Truck | 159019 | [159019-funny-truck.json](./159019-funny-truck.json) |
 | Funny Volleyball | 384274 | [384274-funny-volleyball.json](./384274-funny-volleyball.json) |
