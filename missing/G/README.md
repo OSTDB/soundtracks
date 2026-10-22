@@ -51,6 +51,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | G-Mode Archives 26: Ore no Sentai Oranger | 222167 | [222167-g-mode-archives-26-ore-no-sentai-oranger.json](./222167-g-mode-archives-26-ore-no-sentai-oranger.json) |
 | G-Mode Archives 27: Ninja no Gakko | 222166 | [222166-g-mode-archives-27-ninja-no-gakko.json](./222166-g-mode-archives-27-ninja-no-gakko.json) |
 | G-Mode Archives 28: Sepas Channel | 222165 | [222165-g-mode-archives-28-sepas-channel.json](./222165-g-mode-archives-28-sepas-channel.json) |
+| G-Mode Archives 29: Zanac | 147145 | [147145-g-mode-archives-29-zanac.json](./147145-g-mode-archives-29-zanac.json) |
 | G-Mode Archives 30: Sorcerian | 222164 | [222164-g-mode-archives-30-sorcerian.json](./222164-g-mode-archives-30-sorcerian.json) |
 | G-Mode Archives 31: Irekae IQ Crossword DX | 222163 | [222163-g-mode-archives-31-irekae-iq-crossword-dx.json](./222163-g-mode-archives-31-irekae-iq-crossword-dx.json) |
 | G-Mode Archives 32: Maou Company | 222162 | [222162-g-mode-archives-32-maou-company.json](./222162-g-mode-archives-32-maou-company.json) |
@@ -5107,6 +5108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golf Pro 2000 Downunder | 93072 | [93072-golf-pro-2000-downunder.json](./93072-golf-pro-2000-downunder.json) |
 | Golf Resort Tycoon | 73296 | [73296-golf-resort-tycoon.json](./73296-golf-resort-tycoon.json) |
 | Golf Resort Tycoon II | 23465 | [23465-golf-resort-tycoon-ii.json](./23465-golf-resort-tycoon-ii.json) |
+| Golf Royale | 147140 | [147140-golf-royale.json](./147140-golf-royale.json) |
 | Golf Shiyou yo 2: Aratanaru Chousen | 317349 | [317349-golf-shiyou-yo-2-aratanaru-chousen.json](./317349-golf-shiyou-yo-2-aratanaru-chousen.json) |
 | Golf Shiyouyo | 113530 | [113530-golf-shiyouyo.json](./113530-golf-shiyouyo.json) |
 | Golf Solitaire | 366432 | [366432-golf-solitaire.json](./366432-golf-solitaire.json) |
@@ -6551,6 +6553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravity Pull | 202172 | [202172-gravity-pull.json](./202172-gravity-pull.json) |
 | Gravity Racers | 379054 | [379054-gravity-racers.json](./379054-gravity-racers.json) |
 | Gravity Range | 175333 | [175333-gravity-range.json](./175333-gravity-range.json) |
+| Gravity Rider Zero | 147134 | [147134-gravity-rider-zero.json](./147134-gravity-rider-zero.json) |
 | Gravity Rider: Space Bike Racing Game Online | 108239 | [108239-gravity-rider-space-bike-racing-game-online.json](./108239-gravity-rider-space-bike-racing-game-online.json) |
 | Gravity Rubik's Cube | 151268 | [151268-gravity-rubiks-cube.json](./151268-gravity-rubiks-cube.json) |
 | Gravity run | 153432 | [153432-gravity-run.json](./153432-gravity-run.json) |
@@ -6640,6 +6643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Great Basketball | 46672 | [46672-great-basketball.json](./46672-great-basketball.json) |
 | Great Battle Full Blast | 65516 | [65516-great-battle-full-blast.json](./65516-great-battle-full-blast.json) |
 | Great Battles Collector's Edition | 51830 | [51830-great-battles-collectors-edition.json](./51830-great-battles-collectors-edition.json) |
+| Great Battles of Carolus XII | 147067 | [147067-great-battles-of-carolus-xii.json](./147067-great-battles-of-carolus-xii.json) |
 | Great Battles of the American Civil War | 125773 | [125773-great-battles-of-the-american-civil-war.json](./125773-great-battles-of-the-american-civil-war.json) |
 | Great Battles of the American Civil War | 209776 | [209776-great-battles-of-the-american-civil-war.json](./209776-great-battles-of-the-american-civil-war.json) |
 | Great Battles: Battle of Tobruk | 11109 | [11109-great-battles-battle-of-tobruk.json](./11109-great-battles-battle-of-tobruk.json) |
