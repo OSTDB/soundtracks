@@ -602,6 +602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty: Modern Warfare 3 - Collection 4: Final Assault | 194417 | [194417-call-of-duty-modern-warfare-3-collection-4-final-assault.json](./194417-call-of-duty-modern-warfare-3-collection-4-final-assault.json) |
 | Call of Duty: Modern Warfare 3 - Defiance | 134652 | [134652-call-of-duty-modern-warfare-3-defiance.json](./134652-call-of-duty-modern-warfare-3-defiance.json) |
 | Call of Duty: Modern Warfare 3 - Hardened Edition | 47425 | [47425-call-of-duty-modern-warfare-3-hardened-edition.json](./47425-call-of-duty-modern-warfare-3-hardened-edition.json) |
+| Call of Duty: Modern Warfare 3 - Ultimate Edition | 99951 | [99951-call-of-duty-modern-warfare-3-ultimate-edition.json](./99951-call-of-duty-modern-warfare-3-ultimate-edition.json) |
 | Call of Duty: Modern Warfare 4 - Vault Edition | 415399 | [415399-call-of-duty-modern-warfare-4-vault-edition.json](./415399-call-of-duty-modern-warfare-4-vault-edition.json) |
 | Call of Duty: Modern Warfare Collection | 136209 | [136209-call-of-duty-modern-warfare-collection.json](./136209-call-of-duty-modern-warfare-collection.json) |
 | Call of Duty: Modern Warfare II - Graffiti Tactical: Pro Pack | 257325 | [257325-call-of-duty-modern-warfare-ii-graffiti-tactical-pro-pack.json](./257325-call-of-duty-modern-warfare-ii-graffiti-tactical-pro-pack.json) |
@@ -4089,6 +4090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Centauri Dominion | 164986 | [164986-centauri-dominion.json](./164986-centauri-dominion.json) |
 | Centauri's Favourite Archer | 235858 | [235858-centauris-favourite-archer.json](./235858-centauris-favourite-archer.json) |
 | Center Court | 40073 | [40073-center-court.json](./40073-center-court.json) |
+| Center Court Tennis | 100041 | [100041-center-court-tennis.json](./100041-center-court-tennis.json) |
 | Center Mass: Streets of Ramadi | 344796 | [344796-center-mass-streets-of-ramadi.json](./344796-center-mass-streets-of-ramadi.json) |
 | Center of Gravity | 29158 | [29158-center-of-gravity.json](./29158-center-of-gravity.json) |
 | Center Shiken Trial: Eigo no Tetsujin | 386523 | [386523-center-shiken-trial-eigo-no-tetsujin.json](./386523-center-shiken-trial-eigo-no-tetsujin.json) |
@@ -11167,6 +11169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cookulo | 325017 | [325017-cookulo.json](./325017-cookulo.json) |
 | Cool 104 Joker & Setline | 269623 | [269623-cool-104-joker-and-setline.json](./269623-cool-104-joker-and-setline.json) |
 | Cool Animals | 201611 | [201611-cool-animals.json](./201611-cool-animals.json) |
+| Cool army games for kids 6 year old and under boys | 100049 | [100049-cool-army-games-for-kids-6-year-old-and-under-boys.json](./100049-cool-army-games-for-kids-6-year-old-and-under-boys.json) |
 | Cool Boarders 3 | 26130 | [26130-cool-boarders-3.json](./26130-cool-boarders-3.json) |
 | Cool Boarders Arcade Jam | 39831 | [39831-cool-boarders-arcade-jam.json](./39831-cool-boarders-arcade-jam.json) |
 | Cool Brick Breaker | 235239 | [235239-cool-brick-breaker.json](./235239-cool-brick-breaker.json) |
@@ -14663,6 +14666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CSI VR Crime Scene Investigation | 107733 | [107733-csi-vr-crime-scene-investigation.json](./107733-csi-vr-crime-scene-investigation.json) |
 | CSI: Crime Scene Investigation - 3 Dimensions of Murder | 72003 | [72003-csi-crime-scene-investigation-3-dimensions-of-murder.json](./72003-csi-crime-scene-investigation-3-dimensions-of-murder.json) |
 | CSI: Crime Scene Investigation - Deadly Intent: The Hidden Cases | 197873 | [197873-csi-crime-scene-investigation-deadly-intent-the-hidden-cases.json](./197873-csi-crime-scene-investigation-deadly-intent-the-hidden-cases.json) |
+| CSI: Crime Scene Investigation - Fatal Conspiracy | 99966 | [99966-csi-crime-scene-investigation-fatal-conspiracy.json](./99966-csi-crime-scene-investigation-fatal-conspiracy.json) |
 | CSI: Dark Motives | 7632 | [7632-csi-dark-motives.json](./7632-csi-dark-motives.json) |
 | CSI: Deadly Intent | 4780 | [4780-csi-deadly-intent.json](./4780-csi-deadly-intent.json) |
 | CSI: Fatal Conspiracy | 4781 | [4781-csi-fatal-conspiracy.json](./4781-csi-fatal-conspiracy.json) |
