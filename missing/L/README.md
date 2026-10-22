@@ -525,6 +525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lán Shízhàn Duì | 158649 | [158649-lan-shizhan-dui.json](./158649-lan-shizhan-dui.json) |
 | Lana and the Milking Table | 238534 | [238534-lana-and-the-milking-table.json](./238534-lana-and-the-milking-table.json) |
 | Lana: Queen of Ancient Egypt | 348827 | [348827-lana-queen-of-ancient-egypt.json](./348827-lana-queen-of-ancient-egypt.json) |
+| Lanadgel | 112664 | [112664-lanadgel.json](./112664-lanadgel.json) |
 | Lancaster | 292836 | [292836-lancaster.json](./292836-lancaster.json) |
 | Lancelot | 12169 | [12169-lancelot.json](./12169-lancelot.json) |
 | Lancelot's Hangover : The Quest for the Holy Booze | 107775 | [107775-lancelots-hangover-the-quest-for-the-holy-booze.json](./107775-lancelots-hangover-the-quest-for-the-holy-booze.json) |
@@ -2686,6 +2687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lempo | 214175 | [214175-lempo.json](./214175-lempo.json) |
 | Lems | 102975 | [102975-lems.json](./102975-lems.json) |
 | Lemures Blue's 2 A.M. | 137068 | [137068-lemures-blues-2-a-m.json](./137068-lemures-blues-2-a-m.json) |
+| Lemuria | 112689 | [112689-lemuria.json](./112689-lemuria.json) |
 | Lemuria | 207042 | [207042-lemuria.json](./207042-lemuria.json) |
 | Lemuria | 344427 | [344427-lemuria.json](./344427-lemuria.json) |
 | Lemuria: Lost in Space | 26355 | [26355-lemuria-lost-in-space.json](./26355-lemuria-lost-in-space.json) |
