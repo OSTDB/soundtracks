@@ -2539,6 +2539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reaper | 151821 | [151821-reaper.json](./151821-reaper.json) |
 | Reaper | 292115 | [292115-reaper.json](./292115-reaper.json) |
 | Reaper Actual | 352748 | [352748-reaper-actual.json](./352748-reaper-actual.json) |
+| Reaper Boy | 135484 | [135484-reaper-boy.json](./135484-reaper-boy.json) |
 | Reaper Hunt: Survivor | 345495 | [345495-reaper-hunt-survivor.json](./345495-reaper-hunt-survivor.json) |
 | Reaper of Immortals | 200520 | [200520-reaper-of-immortals.json](./200520-reaper-of-immortals.json) |
 | Reaper Recon | 360639 | [360639-reaper-recon.json](./360639-reaper-recon.json) |
@@ -7729,6 +7730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Blight | 212912 | [212912-rogue-blight.json](./212912-rogue-blight.json) |
 | Rogue Bones | 184451 | [184451-rogue-bones.json](./184451-rogue-bones.json) |
 | Rogue Bot Adventure | 302215 | [302215-rogue-bot-adventure.json](./302215-rogue-bot-adventure.json) |
+| Rogue Bots | 135507 | [135507-rogue-bots.json](./135507-rogue-bots.json) |
 | Rogue Bricks | 370898 | [370898-rogue-bricks.json](./370898-rogue-bricks.json) |
 | Rogue Buddies - Aztek Gold | 96227 | [96227-rogue-buddies-aztek-gold.json](./96227-rogue-buddies-aztek-gold.json) |
 | Rogue Candy | 335120 | [335120-rogue-candy.json](./335120-rogue-candy.json) |
