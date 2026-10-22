@@ -1905,6 +1905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Data Download | 309193 | [309193-data-download.json](./309193-data-download.json) |
 | Data Drift | 344519 | [344519-data-drift.json](./344519-data-drift.json) |
 | Data East All-Star Collection | 77428 | [77428-data-east-all-star-collection.json](./77428-data-east-all-star-collection.json) |
+| Data East Arcade 1 | 149290 | [149290-data-east-arcade-1.json](./149290-data-east-arcade-1.json) |
 | Data East Arcade 2 | 325238 | [325238-data-east-arcade-2.json](./325238-data-east-arcade-2.json) |
 | Data East Collection 1 | 130815 | [130815-data-east-collection-1.json](./130815-data-east-collection-1.json) |
 | Data East's Arcade Alley | 84185 | [84185-data-easts-arcade-alley.json](./84185-data-easts-arcade-alley.json) |
@@ -3902,6 +3903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dedektif Firtina | 19153 | [19153-dedektif-firtina.json](./19153-dedektif-firtina.json) |
 | DeDrive | 102267 | [102267-dedrive.json](./102267-dedrive.json) |
 | Deduce Together | 308884 | [308884-deduce-together.json](./308884-deduce-together.json) |
+| Deducto | 149353 | [149353-deducto.json](./149353-deducto.json) |
 | Deducto 2 | 227140 | [227140-deducto-2.json](./227140-deducto-2.json) |
 | Deductum | 355531 | [355531-deductum.json](./355531-deductum.json) |
 | Dedz0ne | 256970 | [256970-dedz0ne.json](./256970-dedz0ne.json) |
@@ -4619,6 +4621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delivering Letters | 227137 | [227137-delivering-letters.json](./227137-delivering-letters.json) |
 | DeliverwarTH | 372229 | [372229-deliverwarth.json](./372229-deliverwarth.json) |
 | Delivery Boy | 190214 | [190214-delivery-boy.json](./190214-delivery-boy.json) |
+| Delivery Company Clicker | 149303 | [149303-delivery-company-clicker.json](./149303-delivery-company-clicker.json) |
 | Delivery Driver Massacre: Definitive Edition | 400554 | [400554-delivery-driver-massacre-definitive-edition.json](./400554-delivery-driver-massacre-definitive-edition.json) |
 | Delivery Driver Service | 302378 | [302378-delivery-driver-service.json](./302378-delivery-driver-service.json) |
 | Delivery Driver: The Simulation | 217248 | [217248-delivery-driver-the-simulation.json](./217248-delivery-driver-the-simulation.json) |
@@ -7093,6 +7096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dimension Painter | 256183 | [256183-dimension-painter.json](./256183-dimension-painter.json) |
 | Dimension Ranger | 349330 | [349330-dimension-ranger.json](./349330-dimension-ranger.json) |
 | Dimension Reign | 129484 | [129484-dimension-reign.json](./129484-dimension-reign.json) |
+| Dimension Rift Zero | 149271 | [149271-dimension-rift-zero.json](./149271-dimension-rift-zero.json) |
 | Dimension Shift | 323884 | [323884-dimension-shift.json](./323884-dimension-shift.json) |
 | Dimension Summoner: Hero Arena 3D Fantasy RPG | 95873 | [95873-dimension-summoner-hero-arena-3d-fantasy-rpg.json](./95873-dimension-summoner-hero-arena-3d-fantasy-rpg.json) |
 | Dimension Tripper Neptune: TOP NEP | 187445 | [187445-dimension-tripper-neptune-top-nep.json](./187445-dimension-tripper-neptune-top-nep.json) |
@@ -8562,6 +8566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dnieper River Line | 24809 | [24809-dnieper-river-line.json](./24809-dnieper-river-line.json) |
 | Do 335 Pfeil Tour of Duty | 179 | [179-do-335-pfeil-tour-of-duty.json](./179-do-335-pfeil-tour-of-duty.json) |
 | Do a Crime | 390110 | [390110-do-a-crime.json](./390110-do-a-crime.json) |
+| Do Animals Dream? | 149404 | [149404-do-animals-dream.json](./149404-do-animals-dream.json) |
 | Do Crimes! | 380413 | [380413-do-crimes.json](./380413-do-crimes.json) |
 | Do Disciplinary Committee Members Dream of Succubi? | 405981 | [405981-do-disciplinary-committee-members-dream-of-succubi.json](./405981-do-disciplinary-committee-members-dream-of-succubi.json) |
 | Do Dishes As Spencer | 327284 | [327284-do-dishes-as-spencer.json](./327284-do-dishes-as-spencer.json) |
@@ -9391,6 +9396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Die, Mr. Robot! | 52178 | [52178-dont-die-mr-robot.json](./52178-dont-die-mr-robot.json) |
 | Don't Die! | 343340 | [343340-dont-die.json](./343340-dont-die.json) |
 | Don't Die! | 41924 | [41924-dont-die.json](./41924-dont-die.json) |
+| Don't Die! Douche! | 149336 | [149336-dont-die-douche.json](./149336-dont-die-douche.json) |
 | Don't Dig Down | 269768 | [269768-dont-dig-down.json](./269768-dont-dig-down.json) |
 | Don't Dig Up the Dead | 298781 | [298781-dont-dig-up-the-dead.json](./298781-dont-dig-up-the-dead.json) |
 | Don't Disturb | 32065 | [32065-dont-disturb.json](./32065-dont-disturb.json) |
@@ -9922,6 +9928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doofas | 133438 | [133438-doofas.json](./133438-doofas.json) |
 | Doofus | 39025 | [39025-doofus.json](./39025-doofus.json) |
 | Doofus Drop | 379136 | [379136-doofus-drop.json](./379136-doofus-drop.json) |
+| Doog | 149287 | [149287-doog.json](./149287-doog.json) |
 | Dookie Nukem 3D | 218115 | [218115-dookie-nukem-3d.json](./218115-dookie-nukem-3d.json) |
 | Dooly Bravo Land | 63649 | [63649-dooly-bravo-land.json](./63649-dooly-bravo-land.json) |
 | Dooly Daemoheom | 63645 | [63645-dooly-daemoheom.json](./63645-dooly-daemoheom.json) |
@@ -11525,6 +11532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Raja: ReRise | 402964 | [402964-dragon-raja-rerise.json](./402964-dragon-raja-rerise.json) |
 | Dragon Riddler | 348661 | [348661-dragon-riddler.json](./348661-dragon-riddler.json) |
 | Dragon Riders | 411136 | [411136-dragon-riders.json](./411136-dragon-riders.json) |
+| Dragon Rising | 149307 | [149307-dragon-rising.json](./149307-dragon-rising.json) |
 | Dragon Roll | 184124 | [184124-dragon-roll.json](./184124-dragon-roll.json) |
 | Dragon Roller Coaster VR | 114331 | [114331-dragon-roller-coaster-vr.json](./114331-dragon-roller-coaster-vr.json) |
 | Dragon Roomates | 342193 | [342193-dragon-roomates.json](./342193-dragon-roomates.json) |
