@@ -7891,6 +7891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pluto's Tears | 176974 | [176974-plutos-tears.json](./176974-plutos-tears.json) |
 | Plutobi: The Dwarf Planet Tales | 99514 | [99514-plutobi-the-dwarf-planet-tales.json](./99514-plutobi-the-dwarf-planet-tales.json) |
 | Plutonia 1024: The Plutinya Exeriment | 269468 | [269468-plutonia-1024-the-plutinya-exeriment.json](./269468-plutonia-1024-the-plutinya-exeriment.json) |
+| Plutonia 2 | 136705 | [136705-plutonia-2.json](./136705-plutonia-2.json) |
 | Plutonia 3: Going to Surface | 260951 | [260951-plutonia-3-going-to-surface.json](./260951-plutonia-3-going-to-surface.json) |
 | Plutonia 4: Back to Your Hole | 260952 | [260952-plutonia-4-back-to-your-hole.json](./260952-plutonia-4-back-to-your-hole.json) |
 | Plutonia 7: Going to the Hell | 260953 | [260953-plutonia-7-going-to-the-hell.json](./260953-plutonia-7-going-to-the-hell.json) |
@@ -8866,6 +8867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Starwish | 394849 | [394849-pokemon-starwish.json](./394849-pokemon-starwish.json) |
 | Pokémon Stranded | 252122 | [252122-pokemon-stranded.json](./252122-pokemon-stranded.json) |
 | Pokémon Sun and Moon Special Demo Version | 313321 | [313321-pokemon-sun-and-moon-special-demo-version.json](./313321-pokemon-sun-and-moon-special-demo-version.json) |
+| Pokémon Sun Moon Double Pack | 136900 | [136900-pokemon-sun-moon-double-pack.json](./136900-pokemon-sun-moon-double-pack.json) |
 | Pokémon Super Gold 97 | 142232 | [142232-pokemon-super-gold-97.json](./142232-pokemon-super-gold-97.json) |
 | Pokémon Supernova Sun | 257197 | [257197-pokemon-supernova-sun.json](./257197-pokemon-supernova-sun.json) |
 | Pokemon Supreme Fire | 327263 | [327263-pokemon-supreme-fire.json](./327263-pokemon-supreme-fire.json) |
@@ -8912,6 +8914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokemon Twilight: Solar | 323904 | [323904-pokemon-twilight-solar.json](./323904-pokemon-twilight-solar.json) |
 | Pokémon Ultra Moon | 36793 | [36793-pokemon-ultra-moon.json](./36793-pokemon-ultra-moon.json) |
 | Pokémon Ultra Sun & Pokémon Ultra Moon: Veteran Trainer's Dual Pack | 136275 | [136275-pokemon-ultra-sun-and-pokemon-ultra-moon-veteran-trainers-dual-pack.json](./136275-pokemon-ultra-sun-and-pokemon-ultra-moon-veteran-trainers-dual-pack.json) |
+| Pokémon Ultra Sun Ultra Moon Double Pack | 136892 | [136892-pokemon-ultra-sun-ultra-moon-double-pack.json](./136892-pokemon-ultra-sun-ultra-moon-double-pack.json) |
 | Pokémon Umbra | 360195 | [360195-pokemon-umbra.json](./360195-pokemon-umbra.json) |
 | Pokemon Umbra Moon | 288202 | [288202-pokemon-umbra-moon.json](./288202-pokemon-umbra-moon.json) |
 | Pokémon Unbound | 141663 | [141663-pokemon-unbound.json](./141663-pokemon-unbound.json) |
@@ -11804,6 +11807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Yakyuu Spirits A | 59344 | [59344-pro-yakyuu-spirits-a.json](./59344-pro-yakyuu-spirits-a.json) |
 | Pro Yakyuu Star | 37872 | [37872-pro-yakyuu-star.json](./37872-pro-yakyuu-star.json) |
 | Pro Yakyuu Team de Asobou Net! | 125932 | [125932-pro-yakyuu-team-de-asobou-net.json](./125932-pro-yakyuu-team-de-asobou-net.json) |
+| Pro Yakyuu Team de Asobou! | 136708 | [136708-pro-yakyuu-team-de-asobou.json](./136708-pro-yakyuu-team-de-asobou.json) |
 | Pro Yakyuu Team wo Tsukurou! | 69269 | [69269-pro-yakyuu-team-wo-tsukurou.json](./69269-pro-yakyuu-team-wo-tsukurou.json) |
 | Pro Yakyuu Team wo Tsukurou! 2 | 69271 | [69271-pro-yakyuu-team-wo-tsukurou-2.json](./69271-pro-yakyuu-team-wo-tsukurou-2.json) |
 | Pro Yakyuu Team wo Tsukurou! Advance | 49762 | [49762-pro-yakyuu-team-wo-tsukurou-advance.json](./49762-pro-yakyuu-team-wo-tsukurou-advance.json) |
