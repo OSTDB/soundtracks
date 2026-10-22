@@ -32,6 +32,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | N.O.V.A. 3 | 38883 | [38883-n-o-v-a-3.json](./38883-n-o-v-a-3.json) |
 | N.O.V.A. 3: Freedom Edition | 38930 | [38930-n-o-v-a-3-freedom-edition.json](./38930-n-o-v-a-3-freedom-edition.json) |
 | N.O.V.A. Legacy | 39004 | [39004-n-o-v-a-legacy.json](./39004-n-o-v-a-legacy.json) |
+| N.O.V.A. Near Orbit Vanguard Alliance | 141713 | [141713-n-o-v-a-near-orbit-vanguard-alliance.json](./141713-n-o-v-a-near-orbit-vanguard-alliance.json) |
 | N.O.V.A.: Near Orbit Vanguard Alliance | 19316 | [19316-n-o-v-a-near-orbit-vanguard-alliance.json](./19316-n-o-v-a-near-orbit-vanguard-alliance.json) |
 | N.O.X. | 369872 | [369872-n-o-x.json](./369872-n-o-x.json) |
 | N.U.T.Z. | 99490 | [99490-n-u-t-z.json](./99490-n-u-t-z.json) |
@@ -5621,6 +5622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nowotnik Puzzle | 138660 | [138660-nowotnik-puzzle.json](./138660-nowotnik-puzzle.json) |
 | Nowv | 320541 | [320541-nowv.json](./320541-nowv.json) |
 | Nox | 5620 | [5620-nox.json](./5620-nox.json) |
+| Nox Archaist | 141465 | [141465-nox-archaist.json](./141465-nox-archaist.json) |
 | Nox Archaist: Lord of Storms | 247430 | [247430-nox-archaist-lord-of-storms.json](./247430-nox-archaist-lord-of-storms.json) |
 | Nox Dash | 331480 | [331480-nox-dash.json](./331480-nox-dash.json) |
 | Nox Mortalis | 323006 | [323006-nox-mortalis.json](./323006-nox-mortalis.json) |
