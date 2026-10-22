@@ -2253,6 +2253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Patchmania Kids: A Puzzle About Bunny Revenge! | 104138 | [104138-patchmania-kids-a-puzzle-about-bunny-revenge.json](./104138-patchmania-kids-a-puzzle-about-bunny-revenge.json) |
 | Patchouli: A Little War in Bland-Old Library | 250511 | [250511-patchouli-a-little-war-in-bland-old-library.json](./250511-patchouli-a-little-war-in-bland-old-library.json) |
 | Patchouli's Adventure In Doll's House | 293707 | [293707-patchoulis-adventure-in-dolls-house.json](./293707-patchoulis-adventure-in-dolls-house.json) |
+| Patchwork | 138056 | [138056-patchwork.json](./138056-patchwork.json) |
 | Patchwork Beast | 247932 | [247932-patchwork-beast.json](./247932-patchwork-beast.json) |
 | Patchwork Girl | 180242 | [180242-patchwork-girl.json](./180242-patchwork-girl.json) |
 | Patchwork Heroes | 42851 | [42851-patchwork-heroes.json](./42851-patchwork-heroes.json) |
@@ -10833,6 +10834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Premier Action Soccer | 49356 | [49356-premier-action-soccer.json](./49356-premier-action-soccer.json) |
 | Premier Battle | 70038 | [70038-premier-battle.json](./70038-premier-battle.json) |
 | Premier Buggy Racing Tour | 68617 | [68617-premier-buggy-racing-tour.json](./68617-premier-buggy-racing-tour.json) |
+| Premier Collection II | 137863 | [137863-premier-collection-ii.json](./137863-premier-collection-ii.json) |
 | Premier Eleven | 83433 | [83433-premier-eleven.json](./83433-premier-eleven.json) |
 | Premier Manager | 321435 | [321435-premier-manager.json](./321435-premier-manager.json) |
 | Premier Manager 02/03 | 172369 | [172369-premier-manager-02-03.json](./172369-premier-manager-02-03.json) |
