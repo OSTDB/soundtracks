@@ -1183,6 +1183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gamer Girls: Cyberpunk 2069 | 286461 | [286461-gamer-girls-cyberpunk-2069.json](./286461-gamer-girls-cyberpunk-2069.json) |
 | Gamer Girls: Futanari | 210858 | [210858-gamer-girls-futanari.json](./210858-gamer-girls-futanari.json) |
 | Gamer Life | 127636 | [127636-gamer-life.json](./127636-gamer-life.json) |
+| Gamer Pack | 131182 | [131182-gamer-pack.json](./131182-gamer-pack.json) |
 | Gamer Quest | 319951 | [319951-gamer-quest.json](./319951-gamer-quest.json) |
 | Gamer Shop Simulator | 129309 | [129309-gamer-shop-simulator.json](./129309-gamer-shop-simulator.json) |
 | Gamera 2000 | 44865 | [44865-gamera-2000.json](./44865-gamera-2000.json) |
@@ -8566,6 +8567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunship | 261208 | [261208-gunship.json](./261208-gunship.json) |
 | Gunship + Gunship 2000 | 296604 | [296604-gunship-gunship-2000.json](./296604-gunship-gunship-2000.json) |
 | Gunship 2000 | 12129 | [12129-gunship-2000.json](./12129-gunship-2000.json) |
+| Gunship 2000: Philippine Islands & Antarctica Scenario Disk With Mission Builder | 131187 | [131187-gunship-2000-philippine-islands-and-antarctica-scenario-disk-with-mission-builder.json](./131187-gunship-2000-philippine-islands-and-antarctica-scenario-disk-with-mission-builder.json) |
 | Gunship Assault | 188006 | [188006-gunship-assault.json](./188006-gunship-assault.json) |
 | Gunship Battle | 174901 | [174901-gunship-battle.json](./174901-gunship-battle.json) |
 | Gunship Battle | 245967 | [245967-gunship-battle.json](./245967-gunship-battle.json) |
