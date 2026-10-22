@@ -9526,6 +9526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skies Scrapper | 371030 | [371030-skies-scrapper.json](./371030-skies-scrapper.json) |
 | SkifY | 75075 | [75075-skify.json](./75075-skify.json) |
 | Skiing | 55104 | [55104-skiing.json](./55104-skiing.json) |
+| Skiing Fred | 112050 | [112050-skiing-fred.json](./112050-skiing-fred.json) |
 | Skiing Frenzy | 246787 | [246787-skiing-frenzy.json](./246787-skiing-frenzy.json) |
 | Skiing Race | 175245 | [175245-skiing-race.json](./175245-skiing-race.json) |
 | Skiing Yeti Mountain | 59463 | [59463-skiing-yeti-mountain.json](./59463-skiing-yeti-mountain.json) |
@@ -9747,6 +9748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Gamblers: Afterburner | 115109 | [115109-sky-gamblers-afterburner.json](./115109-sky-gamblers-afterburner.json) |
 | Sky Gamblers: Rise of Glory | 214341 | [214341-sky-gamblers-rise-of-glory.json](./214341-sky-gamblers-rise-of-glory.json) |
 | Sky Gamblers: Storm Raiders | 17497 | [17497-sky-gamblers-storm-raiders.json](./17497-sky-gamblers-storm-raiders.json) |
+| Sky Gamblers: Storm Raiders 2 | 112078 | [112078-sky-gamblers-storm-raiders-2.json](./112078-sky-gamblers-storm-raiders-2.json) |
 | Sky Games | 186571 | [186571-sky-games.json](./186571-sky-games.json) |
 | Sky Garden | 208948 | [208948-sky-garden.json](./208948-sky-garden.json) |
 | Sky Girls: Flight Attendants | 87871 | [87871-sky-girls-flight-attendants.json](./87871-sky-girls-flight-attendants.json) |
@@ -12435,6 +12437,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sofiya and the Ancient Clan | 209648 | [209648-sofiya-and-the-ancient-clan.json](./209648-sofiya-and-the-ancient-clan.json) |
 | Soft Body | 18514 | [18514-soft-body.json](./18514-soft-body.json) |
 | Soft cookie | 114438 | [114438-soft-cookie.json](./114438-soft-cookie.json) |
+| Soft de Hard na Monogatari | 112039 | [112039-soft-de-hard-na-monogatari.json](./112039-soft-de-hard-na-monogatari.json) |
+| Soft de Hard na Monogatari 2 | 112034 | [112034-soft-de-hard-na-monogatari-2.json](./112034-soft-de-hard-na-monogatari-2.json) |
 | Soft Drizzle | 177527 | [177527-soft-drizzle.json](./177527-soft-drizzle.json) |
 | Soft Earth | 143457 | [143457-soft-earth.json](./143457-soft-earth.json) |
 | Soft Ruin | 415324 | [415324-soft-ruin.json](./415324-soft-ruin.json) |
@@ -20501,6 +20505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stellar 7 | 14514 | [14514-stellar-7.json](./14514-stellar-7.json) |
 | Stellar 7: Draxon's Revenge | 4313 | [4313-stellar-7-draxons-revenge.json](./4313-stellar-7-draxons-revenge.json) |
 | Stellar Archipelago | 372612 | [372612-stellar-archipelago.json](./372612-stellar-archipelago.json) |
+| Stellar Assault SS | 112045 | [112045-stellar-assault-ss.json](./112045-stellar-assault-ss.json) |
 | Stellar Attack | 52870 | [52870-stellar-attack.json](./52870-stellar-attack.json) |
 | Stellar Bewitching | 314057 | [314057-stellar-bewitching.json](./314057-stellar-bewitching.json) |
 | Stellar Bewitching Remastered | 265601 | [265601-stellar-bewitching-remastered.json](./265601-stellar-bewitching-remastered.json) |
