@@ -1841,6 +1841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elephant Rave | 276834 | [276834-elephant-rave.json](./276834-elephant-rave.json) |
 | Elephant Rave 2 | 265084 | [265084-elephant-rave-2.json](./265084-elephant-rave-2.json) |
 | Elephant's Graveyard | 195463 | [195463-elephants-graveyard.json](./195463-elephants-graveyard.json) |
+| Elephantasy | 143407 | [143407-elephantasy.json](./143407-elephantasy.json) |
 | Elephantasy: Flipside | 235706 | [235706-elephantasy-flipside.json](./235706-elephantasy-flipside.json) |
 | Elepong | 69367 | [69367-elepong.json](./69367-elepong.json) |
 | Elerena | 153855 | [153855-elerena.json](./153855-elerena.json) |
@@ -5300,6 +5301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everybody Loves Mothman | 419998 | [419998-everybody-loves-mothman.json](./419998-everybody-loves-mothman.json) |
 | Everybody Loves Skeletons | 121453 | [121453-everybody-loves-skeletons.json](./121453-everybody-loves-skeletons.json) |
 | Everybody Shogi | 355852 | [355852-everybody-shogi.json](./355852-everybody-shogi.json) |
+| Everybody Wham Wham | 142923 | [142923-everybody-wham-wham.json](./142923-everybody-wham-wham.json) |
 | Everybody's Golf | 28187 | [28187-everybodys-golf.json](./28187-everybodys-golf.json) |
 | Everybody's Golf Mobile | 44075 | [44075-everybodys-golf-mobile.json](./44075-everybodys-golf-mobile.json) |
 | Everybody's Golf Portable: Coca Cola Special Edition | 73361 | [73361-everybodys-golf-portable-coca-cola-special-edition.json](./73361-everybodys-golf-portable-coca-cola-special-edition.json) |
