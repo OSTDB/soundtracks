@@ -3794,6 +3794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Test Your Mind | 85432 | [85432-test-your-mind.json](./85432-test-your-mind.json) |
 | Test_project | 390815 | [390815-test-project.json](./390815-test-project.json) |
 | Test: The Game | 298847 | [298847-test-the-game.json](./298847-test-the-game.json) |
+| Testament | 100039 | [100039-testament.json](./100039-testament.json) |
 | Testament | 237303 | [237303-testament.json](./237303-testament.json) |
 | Testbed Terror | 50541 | [50541-testbed-terror.json](./50541-testbed-terror.json) |
 | Tested With Robots! | 85433 | [85433-tested-with-robots.json](./85433-tested-with-robots.json) |
@@ -16202,6 +16203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thumb-Thump | 187165 | [187165-thumb-thump.json](./187165-thumb-thump.json) |
 | ThumBeat | 124623 | [124623-thumbeat.json](./124623-thumbeat.json) |
 | ThumBeat: Button Basher Edition | 196136 | [196136-thumbeat-button-basher-edition.json](./196136-thumbeat-button-basher-edition.json) |
+| Thumbelina | 100030 | [100030-thumbelina.json](./100030-thumbelina.json) |
 | Thumblemania | 348346 | [348346-thumblemania.json](./348346-thumblemania.json) |
 | Thumbling | 289947 | [289947-thumbling.json](./289947-thumbling.json) |
 | Thumpies | 66730 | [66730-thumpies.json](./66730-thumpies.json) |
@@ -23492,6 +23494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Transformers: Decepticons | 206749 | [206749-transformers-decepticons.json](./206749-transformers-decepticons.json) |
 | Transformers: Earth Wars | 58345 | [58345-transformers-earth-wars.json](./58345-transformers-earth-wars.json) |
 | Transformers: Fall of Cybertron | 8361 | [8361-transformers-fall-of-cybertron.json](./8361-transformers-fall-of-cybertron.json) |
+| Transformers: Fall of Cybertron - Ultimate Edition | 99964 | [99964-transformers-fall-of-cybertron-ultimate-edition.json](./99964-transformers-fall-of-cybertron-ultimate-edition.json) |
 | Transformers: Forged to Fight | 27995 | [27995-transformers-forged-to-fight.json](./27995-transformers-forged-to-fight.json) |
 | Transformers: Galactic Trials | 307442 | [307442-transformers-galactic-trials.json](./307442-transformers-galactic-trials.json) |
 | Transformers: Heavy Metal | 193815 | [193815-transformers-heavy-metal.json](./193815-transformers-heavy-metal.json) |
