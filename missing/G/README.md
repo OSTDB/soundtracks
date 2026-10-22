@@ -7103,6 +7103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grim Tales: Prisoners of the Past - Collector's Edition | 360335 | [360335-grim-tales-prisoners-of-the-past-collectors-edition.json](./360335-grim-tales-prisoners-of-the-past-collectors-edition.json) |
 | Grim Tales: The Bride | 79616 | [79616-grim-tales-the-bride.json](./79616-grim-tales-the-bride.json) |
 | Grim Tales: The Final Suspect | 83183 | [83183-grim-tales-the-final-suspect.json](./83183-grim-tales-the-final-suspect.json) |
+| Grim Tales: The Final Suspect - Collector's Edition | 151438 | [151438-grim-tales-the-final-suspect-collectors-edition.json](./151438-grim-tales-the-final-suspect-collectors-edition.json) |
 | Grim Tales: The Heir | 99996 | [99996-grim-tales-the-heir.json](./99996-grim-tales-the-heir.json) |
 | Grim Tales: The Hunger | 250595 | [250595-grim-tales-the-hunger.json](./250595-grim-tales-the-hunger.json) |
 | Grim Tales: The Hunger - Collector's Edition | 250596 | [250596-grim-tales-the-hunger-collectors-edition.json](./250596-grim-tales-the-hunger-collectors-edition.json) |
