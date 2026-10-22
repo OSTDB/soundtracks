@@ -4954,6 +4954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fish Kingdoms | 231938 | [231938-fish-kingdoms.json](./231938-fish-kingdoms.json) |
 | Fish Kiss | 184088 | [184088-fish-kiss.json](./184088-fish-kiss.json) |
 | Fish Kisser | 410893 | [410893-fish-kisser.json](./410893-fish-kisser.json) |
+| Fish Love Danger | 151435 | [151435-fish-love-danger.json](./151435-fish-love-danger.json) |
 | Fish Machine | 139254 | [139254-fish-machine.json](./139254-fish-machine.json) |
 | Fish man avoiding fishing | 119671 | [119671-fish-man-avoiding-fishing.json](./119671-fish-man-avoiding-fishing.json) |
 | Fish Market | 391052 | [391052-fish-market.json](./391052-fish-market.json) |
@@ -6427,6 +6428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flower Memories | 233892 | [233892-flower-memories.json](./233892-flower-memories.json) |
 | Flower of Anarchy | 380218 | [380218-flower-of-anarchy.json](./380218-flower-of-anarchy.json) |
 | Flower of Ice Blossoming Under the Moon | 82918 | [82918-flower-of-ice-blossoming-under-the-moon.json](./82918-flower-of-ice-blossoming-under-the-moon.json) |
+| Flower Paradise | 151519 | [151519-flower-paradise.json](./151519-flower-paradise.json) |
 | Flower Power | 354058 | [354058-flower-power.json](./354058-flower-power.json) |
 | Flower Power: The Adventures of Magical Plants | 324188 | [324188-flower-power-the-adventures-of-magical-plants.json](./324188-flower-power-the-adventures-of-magical-plants.json) |
 | Flower Quest | 182104 | [182104-flower-quest.json](./182104-flower-quest.json) |
