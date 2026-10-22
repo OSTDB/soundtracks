@@ -6485,6 +6485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Devil's Gospel | 184448 | [184448-the-devils-gospel.json](./184448-the-devils-gospel.json) |
 | The Devil's Men | 7613 | [7613-the-devils-men.json](./7613-the-devils-men.json) |
 | The Devil's Route | 288698 | [288698-the-devils-route.json](./288698-the-devils-route.json) |
+| The Devil's Womb | 122006 | [122006-the-devils-womb.json](./122006-the-devils-womb.json) |
 | The Devilry Reservation | 239673 | [239673-the-devilry-reservation.json](./239673-the-devilry-reservation.json) |
 | The Devilry Reservation 2 | 356599 | [356599-the-devilry-reservation-2.json](./356599-the-devilry-reservation-2.json) |
 | The Devilry Reservation: Сhapter II | 263036 | [263036-the-devilry-reservation-hapter-ii.json](./263036-the-devilry-reservation-hapter-ii.json) |
@@ -8258,6 +8259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Heritage | 54303 | [54303-the-heritage.json](./54303-the-heritage.json) |
 | The Hermit | 111221 | [111221-the-hermit.json](./111221-the-hermit.json) |
 | The Hermit's Secret | 25131 | [25131-the-hermits-secret.json](./25131-the-hermits-secret.json) |
+| The Hero | 122011 | [122011-the-hero.json](./122011-the-hero.json) |
 | The Hero | 19181 | [19181-the-hero.json](./19181-the-hero.json) |
 | The Hero Business | 180656 | [180656-the-hero-business.json](./180656-the-hero-business.json) |
 | The Hero gives up!... Wait, What!? | 265582 | [265582-the-hero-gives-up-wait-what.json](./265582-the-hero-gives-up-wait-what.json) |
@@ -10365,6 +10367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lost Dino: Survival Expedition | 335965 | [335965-the-lost-dino-survival-expedition.json](./335965-the-lost-dino-survival-expedition.json) |
 | The Lost Dog | 165631 | [165631-the-lost-dog.json](./165631-the-lost-dog.json) |
 | The Lost Dollar | 71009 | [71009-the-lost-dollar.json](./71009-the-lost-dollar.json) |
+| The Lost Dungeon of Knight | 122030 | [122030-the-lost-dungeon-of-knight.json](./122030-the-lost-dungeon-of-knight.json) |
 | The Lost Episode | 276386 | [276386-the-lost-episode.json](./276386-the-lost-episode.json) |
 | The Lost Episodes | 276387 | [276387-the-lost-episodes.json](./276387-the-lost-episodes.json) |
 | The Lost Episodes of Doom | 310595 | [310595-the-lost-episodes-of-doom.json](./310595-the-lost-episodes-of-doom.json) |
@@ -24817,6 +24820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trucker 2 | 25506 | [25506-trucker-2.json](./25506-trucker-2.json) |
 | Trucker Horror | 336499 | [336499-trucker-horror.json](./336499-trucker-horror.json) |
 | Trucker Transporter 2 - Parking Simulator | 89516 | [89516-trucker-transporter-2-parking-simulator.json](./89516-trucker-transporter-2-parking-simulator.json) |
+| Trucker's Dynasty - Cuba Libre | 122002 | [122002-truckers-dynasty-cuba-libre.json](./122002-truckers-dynasty-cuba-libre.json) |
 | Truckers Double Pack | 142764 | [142764-truckers-double-pack.json](./142764-truckers-double-pack.json) |
 | Truckin' It! | 382338 | [382338-truckin-it.json](./382338-truckin-it.json) |
 | Trucking | 114961 | [114961-trucking.json](./114961-trucking.json) |
