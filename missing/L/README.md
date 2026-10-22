@@ -2951,6 +2951,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Play Journalists | 377615 | [377615-lets-play-journalists.json](./377615-lets-play-journalists.json) |
 | Let's Play Mums | 92654 | [92654-lets-play-mums.json](./92654-lets-play-mums.json) |
 | Let's Play Pet Hospital | 24744 | [24744-lets-play-pet-hospital.json](./24744-lets-play-pet-hospital.json) |
+| Let's Play Pet Hospitals | 124472 | [124472-lets-play-pet-hospitals.json](./124472-lets-play-pet-hospitals.json) |
+| Let's Play Schools | 124471 | [124471-lets-play-schools.json](./124471-lets-play-schools.json) |
 | Let's Play with Nanai! | 111069 | [111069-lets-play-with-nanai.json](./111069-lets-play-with-nanai.json) |
 | Let's Play: Ancient Greek Punishment - Teaches Typing | 146668 | [146668-lets-play-ancient-greek-punishment-teaches-typing.json](./146668-lets-play-ancient-greek-punishment-teaches-typing.json) |
 | Let's Play: The Shining | 205991 | [205991-lets-play-the-shining.json](./205991-lets-play-the-shining.json) |
@@ -7038,6 +7040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lovely x Cation 1 & 2 | 79306 | [79306-lovely-x-cation-1-and-2.json](./79306-lovely-x-cation-1-and-2.json) |
 | Lovelydoll/Wildmachine | 188559 | [188559-lovelydoll-wildmachine.json](./188559-lovelydoll-wildmachine.json) |
 | LovePlus Every | 70861 | [70861-loveplus-every.json](./70861-loveplus-every.json) |
+| LovePlus+ | 124475 | [124475-loveplus.json](./124475-loveplus.json) |
 | Lover | 299149 | [299149-lover.json](./299149-lover.json) |
 | Lover Boy | 40367 | [40367-lover-boy.json](./40367-lover-boy.json) |
 | Lover Interface | 341104 | [341104-lover-interface.json](./341104-lover-interface.json) |
@@ -7120,6 +7123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lowtide | 265981 | [265981-lowtide.json](./265981-lowtide.json) |
 | Lowtris | 362337 | [362337-lowtris.json](./362337-lowtris.json) |
 | Loya | 239661 | [239661-loya.json](./239661-loya.json) |
+| Loya Online | 124450 | [124450-loya-online.json](./124450-loya-online.json) |
 | Loyalty and Blood: Viktor Origins | 89774 | [89774-loyalty-and-blood-viktor-origins.json](./89774-loyalty-and-blood-viktor-origins.json) |
 | Lozenge | 88010 | [88010-lozenge.json](./88010-lozenge.json) |
 | LOZT: Legion of Zombie Terrors | 393048 | [393048-lozt-legion-of-zombie-terrors.json](./393048-lozt-legion-of-zombie-terrors.json) |
@@ -7512,6 +7516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luminary | 152498 | [152498-luminary.json](./152498-luminary.json) |
 | Luminas: Parasite Reign | 377204 | [377204-luminas-parasite-reign.json](./377204-luminas-parasite-reign.json) |
 | Luminastadt | 295258 | [295258-luminastadt.json](./295258-luminastadt.json) |
+| Luminator DS | 124476 | [124476-luminator-ds.json](./124476-luminator-ds.json) |
 | Luminaya | 372640 | [372640-luminaya.json](./372640-luminaya.json) |
 | LumineNight | 263034 | [263034-luminenight.json](./263034-luminenight.json) |
 | Luminera: The Radiant Journey | 197530 | [197530-luminera-the-radiant-journey.json](./197530-luminera-the-radiant-journey.json) |
