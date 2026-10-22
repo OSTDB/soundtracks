@@ -2896,6 +2896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heckpoint | 74539 | [74539-heckpoint.json](./74539-heckpoint.json) |
 | Hectic Highways | 114104 | [114104-hectic-highways.json](./114104-hectic-highways.json) |
 | Hectic Space 2 | 194176 | [194176-hectic-space-2.json](./194176-hectic-space-2.json) |
+| Hectic Void | 106325 | [106325-hectic-void.json](./106325-hectic-void.json) |
 | Hector The Cat: Treasure Hunter | 257437 | [257437-hector-the-cat-treasure-hunter.json](./257437-hector-the-cat-treasure-hunter.json) |
 | Hector: Badge of Carnage! - Episode 1 | 119182 | [119182-hector-badge-of-carnage-episode-1.json](./119182-hector-badge-of-carnage-episode-1.json) |
 | Hector'39 | 328247 | [328247-hector39.json](./328247-hector39.json) |
@@ -5409,6 +5410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Garden Fairy Tale | 95580 | [95580-hidden-garden-fairy-tale.json](./95580-hidden-garden-fairy-tale.json) |
 | Hidden Garden Forest | 102085 | [102085-hidden-garden-forest.json](./102085-hidden-garden-forest.json) |
 | Hidden Garden Heart Breaker | 235138 | [235138-hidden-garden-heart-breaker.json](./235138-hidden-garden-heart-breaker.json) |
+| Hidden Garden Paradise | 106349 | [106349-hidden-garden-paradise.json](./106349-hidden-garden-paradise.json) |
 | Hidden Garden Wonderland | 103860 | [103860-hidden-garden-wonderland.json](./103860-hidden-garden-wonderland.json) |
 | Hidden Garden Word Jumble | 89685 | [89685-hidden-garden-word-jumble.json](./89685-hidden-garden-word-jumble.json) |
 | Hidden Garden Word Pop | 96721 | [96721-hidden-garden-word-pop.json](./96721-hidden-garden-word-pop.json) |
