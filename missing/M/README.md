@@ -7975,6 +7975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MetroRunner | 312634 | [312634-metrorunner.json](./312634-metrorunner.json) |
 | MetroSim: The Subway Simulator | 277598 | [277598-metrosim-the-subway-simulator.json](./277598-metrosim-the-subway-simulator.json) |
 | Metu Caligine | 169765 | [169765-metu-caligine.json](./169765-metu-caligine.json) |
+| Meu | 121259 | [121259-meu.json](./121259-meu.json) |
 | Meu mundo | 120919 | [120919-meu-mundo.json](./120919-meu-mundo.json) |
 | Meu Primeiro Laptop da Xuxa | 255339 | [255339-meu-primeiro-laptop-da-xuxa.json](./255339-meu-primeiro-laptop-da-xuxa.json) |
 | Mevo and the Grooveriders | 7963 | [7963-mevo-and-the-grooveriders.json](./7963-mevo-and-the-grooveriders.json) |
@@ -8872,6 +8873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mighty Cuphead Adventure | 404676 | [404676-mighty-cuphead-adventure.json](./404676-mighty-cuphead-adventure.json) |
 | Mighty Doom | 148394 | [148394-mighty-doom.json](./148394-mighty-doom.json) |
 | Mighty Ducks | 198818 | [198818-mighty-ducks.json](./198818-mighty-ducks.json) |
+| Mighty Fight Federation | 121256 | [121256-mighty-fight-federation.json](./121256-mighty-fight-federation.json) |
 | Mighty Final Fight | 1658 | [1658-mighty-final-fight.json](./1658-mighty-final-fight.json) |
 | Mighty Fling | 135758 | [135758-mighty-fling.json](./135758-mighty-fling.json) |
 | Mighty Flip Champs! | 29079 | [29079-mighty-flip-champs.json](./29079-mighty-flip-champs.json) |
@@ -8942,6 +8944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MightyIronBall | 81759 | [81759-mightyironball.json](./81759-mightyironball.json) |
 | Miglorn | 304590 | [304590-miglorn.json](./304590-miglorn.json) |
 | Migrant Bird | 240375 | [240375-migrant-bird.json](./240375-migrant-bird.json) |
+| Migrate | 121300 | [121300-migrate.json](./121300-migrate.json) |
 | Miguelshroom: First Day at School | 149593 | [149593-miguelshroom-first-day-at-school.json](./149593-miguelshroom-first-day-at-school.json) |
 | Migux | 138040 | [138040-migux.json](./138040-migux.json) |
 | Miharu: Alto Another Story | 403814 | [403814-miharu-alto-another-story.json](./403814-miharu-alto-another-story.json) |
@@ -10274,6 +10277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mino Monsters | 176697 | [176697-mino-monsters.json](./176697-mino-monsters.json) |
 | Minoes | 133250 | [133250-minoes.json](./133250-minoes.json) |
 | Minor Deity | 371478 | [371478-minor-deity.json](./371478-minor-deity.json) |
+| Minor Leader | 121285 | [121285-minor-leader.json](./121285-minor-leader.json) |
 | Minor Miner: Mining Action | 232035 | [232035-minor-miner-mining-action.json](./232035-minor-miner-mining-action.json) |
 | Minor Minion | 324163 | [324163-minor-minion.json](./324163-minor-minion.json) |
 | Minor Planet Miner | 184396 | [184396-minor-planet-miner.json](./184396-minor-planet-miner.json) |
@@ -11940,6 +11944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mono Grav | 185110 | [185110-mono-grav.json](./185110-mono-grav.json) |
 | Mono Trail | 127317 | [127317-mono-trail.json](./127317-mono-trail.json) |
 | Mono-Space | 278923 | [278923-mono-space.json](./278923-mono-space.json) |
+| Monoa City Parking | 121316 | [121316-monoa-city-parking.json](./121316-monoa-city-parking.json) |
 | Monobehevo | 196678 | [196678-monobehevo.json](./196678-monobehevo.json) |
 | Monobeno: Happy End | 396370 | [396370-monobeno-happy-end.json](./396370-monobeno-happy-end.json) |
 | Monobot | 127817 | [127817-monobot.json](./127817-monobot.json) |
