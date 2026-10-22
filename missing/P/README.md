@@ -957,6 +957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panema | 399413 | [399413-panema.json](./399413-panema.json) |
 | Panfu | 89508 | [89508-panfu.json](./89508-panfu.json) |
 | Pang & Bang | 110963 | [110963-pang-and-bang.json](./110963-pang-and-bang.json) |
+| Pang Adventures: Buster Edition | 139846 | [139846-pang-adventures-buster-edition.json](./139846-pang-adventures-buster-edition.json) |
 | Pang Pang Terrible | 287571 | [287571-pang-pang-terrible.json](./287571-pang-pang-terrible.json) |
 | Pang Pom's | 40373 | [40373-pang-poms.json](./40373-pang-poms.json) |
 | Pang: Magical Michael | 66524 | [66524-pang-magical-michael.json](./66524-pang-magical-michael.json) |
@@ -1452,6 +1453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Par 1 Golf 8 | 197790 | [197790-par-1-golf-8.json](./197790-par-1-golf-8.json) |
 | Par 72 Golf IV | 95696 | [95696-par-72-golf-iv.json](./95696-par-72-golf-iv.json) |
 | Par Golf | 92101 | [92101-par-golf.json](./92101-par-golf.json) |
+| Para Bellum | 139658 | [139658-para-bellum.json](./139658-para-bellum.json) |
 | Para Bellum | 297877 | [297877-para-bellum.json](./297877-para-bellum.json) |
 | Para Bellum: Hold the Line | 195914 | [195914-para-bellum-hold-the-line.json](./195914-para-bellum-hold-the-line.json) |
 | Para Eyes | 201525 | [201525-para-eyes.json](./201525-para-eyes.json) |
@@ -13108,6 +13110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psychoballs | 89401 | [89401-psychoballs.json](./89401-psychoballs.json) |
 | Psychobouldering | 328974 | [328974-psychobouldering.json](./328974-psychobouldering.json) |
 | Psychocat: The Answer | 33811 | [33811-psychocat-the-answer.json](./33811-psychocat-the-answer.json) |
+| Psychocat: The Door | 139670 | [139670-psychocat-the-door.json](./139670-psychocat-the-door.json) |
 | PsychoCudgel | 316641 | [316641-psychocudgel.json](./316641-psychocudgel.json) |
 | PsychoDive | 267288 | [267288-psychodive.json](./267288-psychodive.json) |
 | Psychoduck | 138506 | [138506-psychoduck.json](./138506-psychoduck.json) |
@@ -13846,6 +13849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Push The Squares | 262076 | [262076-push-the-squares.json](./262076-push-the-squares.json) |
 | Push Through Hell | 373141 | [373141-push-through-hell.json](./373141-push-through-hell.json) |
 | Push to Win | 352394 | [352394-push-to-win.json](./352394-push-to-win.json) |
+| Push Your Family | 139674 | [139674-push-your-family.json](./139674-push-your-family.json) |
 | Push-Cars | 175752 | [175752-push-cars.json](./175752-push-cars.json) |
 | Push-Cars 2: On Europe Streets | 350462 | [350462-push-cars-2-on-europe-streets.json](./350462-push-cars-2-on-europe-streets.json) |
 | Push-Up T-Rex | 243709 | [243709-push-up-t-rex.json](./243709-push-up-t-rex.json) |
