@@ -1223,6 +1223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caos Trigger: Golem | 97800 | [97800-caos-trigger-golem.json](./97800-caos-trigger-golem.json) |
 | Cap'n Bubblegum Dodges the Universe | 416049 | [416049-capn-bubblegum-dodges-the-universe.json](./416049-capn-bubblegum-dodges-the-universe.json) |
 | Cap'n Carnage | 14374 | [14374-capn-carnage.json](./14374-capn-carnage.json) |
+| Cap'n Crunch's Crunchling Adventure | 135737 | [135737-capn-crunchs-crunchling-adventure.json](./135737-capn-crunchs-crunchling-adventure.json) |
 | Cap'n Magneto | 344336 | [344336-capn-magneto.json](./344336-capn-magneto.json) |
 | Cap'n Marcela's Winter Wonderland | 310543 | [310543-capn-marcelas-winter-wonderland.json](./310543-capn-marcelas-winter-wonderland.json) |
 | Capacity | 380051 | [380051-capacity.json](./380051-capacity.json) |
@@ -7767,6 +7768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clever & Smart: A Movie Adventure | 98237 | [98237-clever-and-smart-a-movie-adventure.json](./98237-clever-and-smart-a-movie-adventure.json) |
 | Clever cubed | 175082 | [175082-clever-cubed.json](./175082-clever-cubed.json) |
 | Clever Dog | 346051 | [346051-clever-dog.json](./346051-clever-dog.json) |
+| Clever Fox Moxie | 135486 | [135486-clever-fox-moxie.json](./135486-clever-fox-moxie.json) |
 | Clever Frog | 340209 | [340209-clever-frog.json](./340209-clever-frog.json) |
 | Clever Girl | 184639 | [184639-clever-girl.json](./184639-clever-girl.json) |
 | Clever Kids: Creepy Crawlies | 268113 | [268113-clever-kids-creepy-crawlies.json](./268113-clever-kids-creepy-crawlies.json) |
@@ -11583,6 +11585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Pioneer | 38986 | [38986-cosmic-pioneer.json](./38986-cosmic-pioneer.json) |
 | Cosmic Pool | 238404 | [238404-cosmic-pool.json](./238404-cosmic-pool.json) |
 | Cosmic Purge | 201224 | [201224-cosmic-purge.json](./201224-cosmic-purge.json) |
+| Cosmic Puzzler | 135505 | [135505-cosmic-puzzler.json](./135505-cosmic-puzzler.json) |
 | Cosmic Quandary | 234067 | [234067-cosmic-quandary.json](./234067-cosmic-quandary.json) |
 | Cosmic Raiders | 170533 | [170533-cosmic-raiders.json](./170533-cosmic-raiders.json) |
 | Cosmic Rain | 301694 | [301694-cosmic-rain.json](./301694-cosmic-rain.json) |
