@@ -3069,6 +3069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peko Pop | 227244 | [227244-peko-pop.json](./227244-peko-pop.json) |
 | Pekoe | 136988 | [136988-pekoe.json](./136988-pekoe.json) |
 | Pekoratchi | 256977 | [256977-pekoratchi.json](./256977-pekoratchi.json) |
+| Peku | 117383 | [117383-peku.json](./117383-peku.json) |
 | Pelagicland | 320177 | [320177-pelagicland.json](./320177-pelagicland.json) |
 | Pelé: Soccer Legend | 234613 | [234613-pele-soccer-legend.json](./234613-pele-soccer-legend.json) |
 | Pelé! | 78098 | [78098-pele.json](./78098-pele.json) |
@@ -3974,6 +3975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Petz: Nursery | 44062 | [44062-petz-nursery.json](./44062-petz-nursery.json) |
 | Petz: Saddle Club | 66407 | [66407-petz-saddle-club.json](./66407-petz-saddle-club.json) |
 | Peur Sur Amityville | 174635 | [174635-peur-sur-amityville.json](./174635-peur-sur-amityville.json) |
+| Pew Dew Redemption | 117387 | [117387-pew-dew-redemption.json](./117387-pew-dew-redemption.json) |
 | Pew Pew Crew! | 265309 | [265309-pew-pew-crew.json](./265309-pew-pew-crew.json) |
 | Pew Pew Gaem 3 | 326260 | [326260-pew-pew-gaem-3.json](./326260-pew-pew-gaem-3.json) |
 | Pew Pew Planet | 129479 | [129479-pew-pew-planet.json](./129479-pew-pew-planet.json) |
@@ -11152,6 +11154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Primal Dungeon | 158008 | [158008-primal-dungeon.json](./158008-primal-dungeon.json) |
 | Primal Echo | 374822 | [374822-primal-echo.json](./374822-primal-echo.json) |
 | Primal Force Arena | 317842 | [317842-primal-force-arena.json](./317842-primal-force-arena.json) |
+| Primal Forge | 117402 | [117402-primal-forge.json](./117402-primal-forge.json) |
 | Primal Fray | 244469 | [244469-primal-fray.json](./244469-primal-fray.json) |
 | Primal Frost | 384059 | [384059-primal-frost.json](./384059-primal-frost.json) |
 | Primal Hearts | 159312 | [159312-primal-hearts.json](./159312-primal-hearts.json) |
