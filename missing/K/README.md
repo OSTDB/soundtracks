@@ -373,6 +373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KaM Remake | 190698 | [190698-kam-remake.json](./190698-kam-remake.json) |
 | Kama Bullet Heritage | 51963 | [51963-kama-bullet-heritage.json](./51963-kama-bullet-heritage.json) |
 | Kama Bullet Heritage 2 | 96891 | [96891-kama-bullet-heritage-2.json](./96891-kama-bullet-heritage-2.json) |
+| Kama Sutra | 139025 | [139025-kama-sutra.json](./139025-kama-sutra.json) |
 | Kamaeru: A Frog Refuge | 252773 | [252773-kamaeru-a-frog-refuge.json](./252773-kamaeru-a-frog-refuge.json) |
 | Kamaitachi no Yoru 2: Kangokujima no Warabe Uta | 64840 | [64840-kamaitachi-no-yoru-2-kangokujima-no-warabe-uta.json](./64840-kamaitachi-no-yoru-2-kangokujima-no-warabe-uta.json) |
 | Kamaitachi no Yoru Advance | 49652 | [49652-kamaitachi-no-yoru-advance.json](./49652-kamaitachi-no-yoru-advance.json) |
