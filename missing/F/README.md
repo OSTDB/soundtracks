@@ -7490,6 +7490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ford Racing | 4867 | [4867-ford-racing.json](./4867-ford-racing.json) |
 | Ford Racing 2 | 4869 | [4869-ford-racing-2.json](./4869-ford-racing-2.json) |
 | Ford Racing 3 | 4870 | [4870-ford-racing-3.json](./4870-ford-racing-3.json) |
+| Ford Simulator 7 | 105681 | [105681-ford-simulator-7.json](./105681-ford-simulator-7.json) |
 | Ford Simulator III | 80646 | [80646-ford-simulator-iii.json](./80646-ford-simulator-iii.json) |
 | Ford vs. Chevy | 5838 | [5838-ford-vs-chevy.json](./5838-ford-vs-chevy.json) |
 | Forebearers | 112704 | [112704-forebearers.json](./112704-forebearers.json) |
@@ -10948,6 +10949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Futurejam | 89661 | [89661-futurejam.json](./89661-futurejam.json) |
 | FutureKreate | 170435 | [170435-futurekreate.json](./170435-futurekreate.json) |
 | FutureMage: Spellmaker | 102582 | [102582-futuremage-spellmaker.json](./102582-futuremage-spellmaker.json) |
+| Futuretech: Space Combat Academy | 105677 | [105677-futuretech-space-combat-academy.json](./105677-futuretech-space-combat-academy.json) |
 | futureU: The Prep Game for SAT | 59771 | [59771-futureu-the-prep-game-for-sat.json](./59771-futureu-the-prep-game-for-sat.json) |
 | Futurewar | 234634 | [234634-futurewar.json](./234634-futurewar.json) |
 | Futuridium EP | 88752 | [88752-futuridium-ep.json](./88752-futuridium-ep.json) |
