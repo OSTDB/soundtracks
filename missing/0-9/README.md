@@ -1025,6 +1025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1931: Scheherazade at the Library of Pergamum | 36136 | [36136-1931-scheherazade-at-the-library-of-pergamum.json](./36136-1931-scheherazade-at-the-library-of-pergamum.json) |
 | 1938 | 357750 | [357750-1938.json](./357750-1938.json) |
 | 1939 | 265966 | [265966-1939.json](./265966-1939.json) |
+| 1941 Frozen Front | 112064 | [112064-1941-frozen-front.json](./112064-1941-frozen-front.json) |
 | 1941: Operation Barbarossa | 235717 | [235717-1941-operation-barbarossa.json](./235717-1941-operation-barbarossa.json) |
 | 1942 | 272544 | [272544-1942.json](./272544-1942.json) |
 | 1942 Mobile | 220562 | [220562-1942-mobile.json](./220562-1942-mobile.json) |
@@ -2678,6 +2679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 999Seconds!Survivors | 400259 | [400259-999seconds-survivors.json](./400259-999seconds-survivors.json) |
 | 99Seconds | 84726 | [84726-99seconds.json](./84726-99seconds.json) |
 | 99Vidas | 26678 | [26678-99vidas.json](./26678-99vidas.json) |
+| 99Vidas: Definitive Edition | 112088 | [112088-99vidas-definitive-edition.json](./112088-99vidas-definitive-edition.json) |
 | 9mm Roulette | 377408 | [377408-9mm-roulette.json](./377408-9mm-roulette.json) |
 | 9pm | 177510 | [177510-9pm.json](./177510-9pm.json) |
 | 9PM Football Managers | 243078 | [243078-9pm-football-managers.json](./243078-9pm-football-managers.json) |
