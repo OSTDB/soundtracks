@@ -2334,6 +2334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fast Food 2025 Simulator | 336417 | [336417-fast-food-2025-simulator.json](./336417-fast-food-2025-simulator.json) |
 | Fast Food Chef | 234745 | [234745-fast-food-chef.json](./234745-fast-food-chef.json) |
 | Fast Food Crisis | 266523 | [266523-fast-food-crisis.json](./266523-fast-food-crisis.json) |
+| Fast Food Fighters | 114099 | [114099-fast-food-fighters.json](./114099-fast-food-fighters.json) |
 | Fast Food Frog | 358881 | [358881-fast-food-frog.json](./358881-fast-food-frog.json) |
 | Fast Food Funkin' | 408121 | [408121-fast-food-funkin.json](./408121-fast-food-funkin.json) |
 | Fast Food King | 384714 | [384714-fast-food-king.json](./384714-fast-food-king.json) |
@@ -9867,6 +9868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frost Vale | 389056 | [389056-frost-vale.json](./389056-frost-vale.json) |
 | Frost Wars: The Rise of Fatty Sparkles | 64440 | [64440-frost-wars-the-rise-of-fatty-sparkles.json](./64440-frost-wars-the-rise-of-fatty-sparkles.json) |
 | Frost World | 355574 | [355574-frost-world.json](./355574-frost-world.json) |
+| Frostage | 114117 | [114117-frostage.json](./114117-frostage.json) |
 | Frostbite | 364042 | [364042-frostbite.json](./364042-frostbite.json) |
 | FrostBite | 381039 | [381039-frostbite.json](./381039-frostbite.json) |
 | Frostbite Frenzy: Flower Hat | 380228 | [380228-frostbite-frenzy-flower-hat.json](./380228-frostbite-frenzy-flower-hat.json) |
@@ -10872,6 +10874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Futurama: Game of Drones | 78620 | [78620-futurama-game-of-drones.json](./78620-futurama-game-of-drones.json) |
 | FuturCity Taxi | 246989 | [246989-futurcity-taxi.json](./246989-futurcity-taxi.json) |
 | Future & Girls | 368121 | [368121-future-and-girls.json](./368121-future-and-girls.json) |
+| Future Aero Racing S Ultra | 114077 | [114077-future-aero-racing-s-ultra.json](./114077-future-aero-racing-s-ultra.json) |
 | Future Avoid | 307583 | [307583-future-avoid.json](./307583-future-avoid.json) |
 | Future Bike Simulator | 13061 | [13061-future-bike-simulator.json](./13061-future-bike-simulator.json) |
 | Future Breach 64 | 244682 | [244682-future-breach-64.json](./244682-future-breach-64.json) |
