@@ -2865,6 +2865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let’s Go Mightycat! | 355854 | [355854-let-s-go-mightycat.json](./355854-let-s-go-mightycat.json) |
 | Let's Go Nuts! | 99700 | [99700-lets-go-nuts.json](./99700-lets-go-nuts.json) |
 | Let's Go Nuts! 2 | 195471 | [195471-lets-go-nuts-2.json](./195471-lets-go-nuts-2.json) |
+| Let's Go Paint! | 146594 | [146594-lets-go-paint.json](./146594-lets-go-paint.json) |
 | Let's Go Read: An Island Adventure | 122277 | [122277-lets-go-read-an-island-adventure.json](./122277-lets-go-read-an-island-adventure.json) |
 | Let's Go Rocket | 345266 | [345266-lets-go-rocket.json](./345266-lets-go-rocket.json) |
 | Let's Go Run | 242452 | [242452-lets-go-run.json](./242452-lets-go-run.json) |
@@ -6489,6 +6490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Tomb | 183793 | [183793-lost-tomb.json](./183793-lost-tomb.json) |
 | Lost Tomb | 23503 | [23503-lost-tomb.json](./23503-lost-tomb.json) |
 | Lost Totem Trajipon! | 402222 | [402222-lost-totem-trajipon.json](./402222-lost-totem-trajipon.json) |
+| Lost Town | 146601 | [146601-lost-town.json](./146601-lost-town.json) |
 | Lost Toys | 62996 | [62996-lost-toys.json](./62996-lost-toys.json) |
 | Lost Traces: Unsolved Cases - False Awakening | 280842 | [280842-lost-traces-unsolved-cases-false-awakening.json](./280842-lost-traces-unsolved-cases-false-awakening.json) |
 | Lost Traces: Unsolved Cases - Genesis | 329387 | [329387-lost-traces-unsolved-cases-genesis.json](./329387-lost-traces-unsolved-cases-genesis.json) |
@@ -6954,6 +6956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lovely Hentai | 126391 | [126391-lovely-hentai.json](./126391-lovely-hentai.json) |
 | Lovely Horror: Ochame na Yuurei | 269414 | [269414-lovely-horror-ochame-na-yuurei.json](./269414-lovely-horror-ochame-na-yuurei.json) |
 | Lovely Island | 109620 | [109620-lovely-island.json](./109620-lovely-island.json) |
+| Lovely Kitchen | 146585 | [146585-lovely-kitchen.json](./146585-lovely-kitchen.json) |
 | Lovely Kitchen | 153134 | [153134-lovely-kitchen.json](./153134-lovely-kitchen.json) |
 | Lovely Koala | 325612 | [325612-lovely-koala.json](./325612-lovely-koala.json) |
 | Lovely Lady RPG | 316163 | [316163-lovely-lady-rpg.json](./316163-lovely-lady-rpg.json) |
