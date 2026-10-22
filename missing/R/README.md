@@ -515,6 +515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Radiation Age | 49516 | [49516-radiation-age.json](./49516-radiation-age.json) |
 | Radiation Caterpillar | 410229 | [410229-radiation-caterpillar.json](./410229-radiation-caterpillar.json) |
 | Radiation Island | 36287 | [36287-radiation-island.json](./36287-radiation-island.json) |
+| Radiation Pigeon | 120614 | [120614-radiation-pigeon.json](./120614-radiation-pigeon.json) |
 | Radiator | 141723 | [141723-radiator.json](./141723-radiator.json) |
 | Radiator Forever | 20269 | [20269-radiator-forever.json](./20269-radiator-forever.json) |
 | Radica Junior Bass Fishin' | 403834 | [403834-radica-junior-bass-fishin.json](./403834-radica-junior-bass-fishin.json) |
@@ -925,6 +926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Railroads Online: Extended Edition | 331852 | [331852-railroads-online-extended-edition.json](./331852-railroads-online-extended-edition.json) |
 | Railroads Online: Pioneer DLC | 332799 | [332799-railroads-online-pioneer-dlc.json](./332799-railroads-online-pioneer-dlc.json) |
 | Railroads Online: Pioneer Edition | 324772 | [324772-railroads-online-pioneer-edition.json](./324772-railroads-online-pioneer-edition.json) |
+| RailRoadVR | 120582 | [120582-railroadvr.json](./120582-railroadvr.json) |
 | Rails | 101017 | [101017-rails.json](./101017-rails.json) |
 | Rails Across America | 68741 | [68741-rails-across-america.json](./68741-rails-across-america.json) |
 | Rails Lite | 91277 | [91277-rails-lite.json](./91277-rails-lite.json) |
@@ -7327,6 +7329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket Bits | 196311 | [196311-rocket-bits.json](./196311-rocket-bits.json) |
 | Rocket Boots Mania | 112218 | [112218-rocket-boots-mania.json](./112218-rocket-boots-mania.json) |
 | Rocket Bots | 155941 | [155941-rocket-bots.json](./155941-rocket-bots.json) |
+| Rocket Boy | 120594 | [120594-rocket-boy.json](./120594-rocket-boy.json) |
 | Rocket Brown 2 | 317342 | [317342-rocket-brown-2.json](./317342-rocket-brown-2.json) |
 | Rocket Buddies | 410356 | [410356-rocket-buddies.json](./410356-rocket-buddies.json) |
 | Rocket Bunnies | 208387 | [208387-rocket-bunnies.json](./208387-rocket-bunnies.json) |
