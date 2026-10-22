@@ -1744,6 +1744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warzoom | 263999 | [263999-warzoom.json](./263999-warzoom.json) |
 | Was it a Cat I Saw? | 207203 | [207203-was-it-a-cat-i-saw.json](./207203-was-it-a-cat-i-saw.json) |
 | Was It Worth It? | 152811 | [152811-was-it-worth-it.json](./152811-was-it-worth-it.json) |
+| WAS: The Hourglass of Lepidoptera | 139044 | [139044-was-the-hourglass-of-lepidoptera.json](./139044-was-the-hourglass-of-lepidoptera.json) |
 | Wasabi | 407993 | [407993-wasabi.json](./407993-wasabi.json) |
 | Wasabi Game | 245044 | [245044-wasabi-game.json](./245044-wasabi-game.json) |
 | Wasard | 264512 | [264512-wasard.json](./264512-wasard.json) |
