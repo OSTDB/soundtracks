@@ -2873,6 +2873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead or Alive 5 Last Round | 8211 | [8211-dead-or-alive-5-last-round.json](./8211-dead-or-alive-5-last-round.json) |
 | Dead or Alive 5 Last Round: Core Fighters - Samurai Warriors Mashup Set | 225905 | [225905-dead-or-alive-5-last-round-core-fighters-samurai-warriors-mashup-set.json](./225905-dead-or-alive-5-last-round-core-fighters-samurai-warriors-mashup-set.json) |
 | Dead or Alive 5 Plus | 11725 | [11725-dead-or-alive-5-plus.json](./11725-dead-or-alive-5-plus.json) |
+| Dead or Alive 5 Ultimate: Core Fighters | 99957 | [99957-dead-or-alive-5-ultimate-core-fighters.json](./99957-dead-or-alive-5-ultimate-core-fighters.json) |
 | Dead or Alive 5: Catalogue Set | 304738 | [304738-dead-or-alive-5-catalogue-set.json](./304738-dead-or-alive-5-catalogue-set.json) |
 | Dead or Alive 5: Collector's Edition | 210707 | [210707-dead-or-alive-5-collectors-edition.json](./210707-dead-or-alive-5-collectors-edition.json) |
 | Dead Or Alive 5: Costume Catalog 47 | 316752 | [316752-dead-or-alive-5-costume-catalog-47.json](./316752-dead-or-alive-5-costume-catalog-47.json) |
@@ -2950,6 +2951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Reckoning: Silvermoon Isle - Collector's Edition | 29616 | [29616-dead-reckoning-silvermoon-isle-collectors-edition.json](./29616-dead-reckoning-silvermoon-isle-collectors-edition.json) |
 | Dead Reckoning: Sleight | 87872 | [87872-dead-reckoning-sleight.json](./87872-dead-reckoning-sleight.json) |
 | Dead Reckoning: The Brassfield Manor - Collector's Edition | 22077 | [22077-dead-reckoning-the-brassfield-manor-collectors-edition.json](./22077-dead-reckoning-the-brassfield-manor-collectors-edition.json) |
+| Dead Reckoning: The Crescent Case | 100050 | [100050-dead-reckoning-the-crescent-case.json](./100050-dead-reckoning-the-crescent-case.json) |
 | Dead Reckoning: The Crescent Case - Collector's Edition | 89944 | [89944-dead-reckoning-the-crescent-case-collectors-edition.json](./89944-dead-reckoning-the-crescent-case-collectors-edition.json) |
 | Dead Reset | 346233 | [346233-dead-reset.json](./346233-dead-reset.json) |
 | Dead Rising | 4797 | [4797-dead-rising.json](./4797-dead-rising.json) |
