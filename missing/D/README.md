@@ -5227,6 +5227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Denpa Ningen no RPG 2 | 221987 | [221987-denpa-ningen-no-rpg-2.json](./221987-denpa-ningen-no-rpg-2.json) |
 | Denpa Ningen no RPG 3 | 221988 | [221988-denpa-ningen-no-rpg-3.json](./221988-denpa-ningen-no-rpg-3.json) |
 | Denpa Ningen no RPG Free! | 61348 | [61348-denpa-ningen-no-rpg-free.json](./61348-denpa-ningen-no-rpg-free.json) |
+| Denpa Shounenteki Game | 108784 | [108784-denpa-shounenteki-game.json](./108784-denpa-shounenteki-game.json) |
 | Denpa Virus | 418820 | [418820-denpa-virus.json](./418820-denpa-virus.json) |
 | Denpa-tou | 281944 | [281944-denpa-tou.json](./281944-denpa-tou.json) |
 | Dense forest | 282009 | [282009-dense-forest.json](./282009-dense-forest.json) |
