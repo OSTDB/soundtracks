@@ -26,6 +26,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | W3DR | 50448 | [50448-w3dr.json](./50448-w3dr.json) |
 | W3llidk’s Bean Game | 406260 | [406260-w3llidk-s-bean-game.json](./406260-w3llidk-s-bean-game.json) |
 | W4RR-i/o-RS | 75910 | [75910-w4rr-i-o-rs.json](./75910-w4rr-i-o-rs.json) |
+| W4RR-i/o-RS: Descent | 114091 | [114091-w4rr-i-o-rs-descent.json](./114091-w4rr-i-o-rs-descent.json) |
 | Wa ga Ryuu wo Miyo: Pride of the Dragon Peace | 227795 | [227795-wa-ga-ryuu-wo-miyo-pride-of-the-dragon-peace.json](./227795-wa-ga-ryuu-wo-miyo-pride-of-the-dragon-peace.json) |
 | Wa-shoi! Kamiokoshi | 356424 | [356424-wa-shoi-kamiokoshi.json](./356424-wa-shoi-kamiokoshi.json) |
 | Waaaaaa: A Prehistoric Adventure With Aliens | 392230 | [392230-waaaaaa-a-prehistoric-adventure-with-aliens.json](./392230-waaaaaa-a-prehistoric-adventure-with-aliens.json) |
@@ -2390,6 +2391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weapons of War | 324727 | [324727-weapons-of-war.json](./324727-weapons-of-war.json) |
 | Weapons Simulator | 390165 | [390165-weapons-simulator.json](./390165-weapons-simulator.json) |
 | Weapons Simulator: OutDoor Edition | 180131 | [180131-weapons-simulator-outdoor-edition.json](./180131-weapons-simulator-outdoor-edition.json) |
+| WeAre Showtime | 114121 | [114121-weare-showtime.json](./114121-weare-showtime.json) |
 | WeAreDreaming | 243648 | [243648-wearedreaming.json](./243648-wearedreaming.json) |
 | Weasel Willy | 315277 | [315277-weasel-willy.json](./315277-weasel-willy.json) |
 | Weasel Words | 180823 | [180823-weasel-words.json](./180823-weasel-words.json) |
@@ -3150,6 +3152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wheel Stars | 236313 | [236313-wheel-stars.json](./236313-wheel-stars.json) |
 | Wheelbarrow Warrior | 107365 | [107365-wheelbarrow-warrior.json](./107365-wheelbarrow-warrior.json) |
 | Wheelborn | 282222 | [282222-wheelborn.json](./282222-wheelborn.json) |
+| Wheelchair for Two | 406738 | [406738-wheelchair-for-two.json](./406738-wheelchair-for-two.json) |
 | Wheelchair Simulator | 103157 | [103157-wheelchair-simulator.json](./103157-wheelchair-simulator.json) |
 | Wheelchair Simulator VR | 100463 | [100463-wheelchair-simulator-vr.json](./100463-wheelchair-simulator-vr.json) |
 | Wheeled Warriors: Ultimate Destruction | 216832 | [216832-wheeled-warriors-ultimate-destruction.json](./216832-wheeled-warriors-ultimate-destruction.json) |
