@@ -1329,6 +1329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper Valley | 102920 | [102920-paper-valley.json](./102920-paper-valley.json) |
 | Paper Wars | 374421 | [374421-paper-wars.json](./374421-paper-wars.json) |
 | Paper Wars: Cannon Fodder Devastated | 88328 | [88328-paper-wars-cannon-fodder-devastated.json](./88328-paper-wars-cannon-fodder-devastated.json) |
+| Paper World - Spot the Differences | 106887 | [106887-paper-world-spot-the-differences.json](./106887-paper-world-spot-the-differences.json) |
 | Paper World Escape | 315685 | [315685-paper-world-escape.json](./315685-paper-world-escape.json) |
 | Paper World Escape 2 | 315686 | [315686-paper-world-escape-2.json](./315686-paper-world-escape-2.json) |
 | Paper World Escape 3 | 315688 | [315688-paper-world-escape-3.json](./315688-paper-world-escape-3.json) |
@@ -1578,6 +1579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paradroid | 22518 | [22518-paradroid.json](./22518-paradroid.json) |
 | Paradroid 90 | 13253 | [13253-paradroid-90.json](./13253-paradroid-90.json) |
 | Paradroid: Competition Edition | 140260 | [140260-paradroid-competition-edition.json](./140260-paradroid-competition-edition.json) |
+| Paradudes | 106888 | [106888-paradudes.json](./106888-paradudes.json) |
 | Paraedolon | 320011 | [320011-paraedolon.json](./320011-paraedolon.json) |
 | Parafron | 260607 | [260607-parafron.json](./260607-parafron.json) |
 | Paragliding Sim | 362588 | [362588-paragliding-sim.json](./362588-paragliding-sim.json) |
@@ -7120,6 +7122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Boom | 192732 | [192732-planet-boom.json](./192732-planet-boom.json) |
 | Planet Bounce | 127616 | [127616-planet-bounce.json](./127616-planet-bounce.json) |
 | Planet Breakout 2 | 224701 | [224701-planet-breakout-2.json](./224701-planet-breakout-2.json) |
+| Planet Builder - Create Your Own Solar System | 106924 | [106924-planet-builder-create-your-own-solar-system.json](./106924-planet-builder-create-your-own-solar-system.json) |
 | Planet Centauri | 34841 | [34841-planet-centauri.json](./34841-planet-centauri.json) |
 | Planet Chyton | 391760 | [391760-planet-chyton.json](./391760-planet-chyton.json) |
 | Planet Coaster 2 | 308099 | [308099-planet-coaster-2.json](./308099-planet-coaster-2.json) |
