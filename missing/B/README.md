@@ -5406,6 +5406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bewitching Boba | 388701 | [388701-bewitching-boba.json](./388701-bewitching-boba.json) |
 | Bewitching Sinners Royal Blood | 375292 | [375292-bewitching-sinners-royal-blood.json](./375292-bewitching-sinners-royal-blood.json) |
 | Beyblade Burst | 290317 | [290317-beyblade-burst.json](./290317-beyblade-burst.json) |
+| Beyblade Burst: Battle Zero | 101309 | [101309-beyblade-burst-battle-zero.json](./101309-beyblade-burst-battle-zero.json) |
 | Beyblade Super Stars | 84429 | [84429-beyblade-super-stars.json](./84429-beyblade-super-stars.json) |
 | Beyblade V-Force: Super Tournament Battle | 3807 | [3807-beyblade-v-force-super-tournament-battle.json](./3807-beyblade-v-force-super-tournament-battle.json) |
 | Beyblade X Evobattle | 369115 | [369115-beyblade-x-evobattle.json](./369115-beyblade-x-evobattle.json) |
@@ -13516,6 +13517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bully Ball Soccer | 296653 | [296653-bully-ball-soccer.json](./296653-bully-ball-soccer.json) |
 | Bully Breaker | 377738 | [377738-bully-breaker.json](./377738-bully-breaker.json) |
 | Bully Online | 381884 | [381884-bully-online.json](./381884-bully-online.json) |
+| Bully Store | 101393 | [101393-bully-store.json](./101393-bully-store.json) |
 | Bully: Anniversary Edition | 88952 | [88952-bully-anniversary-edition.json](./88952-bully-anniversary-edition.json) |
 | Bully: Scholarship Edition | 6574 | [6574-bully-scholarship-edition.json](./6574-bully-scholarship-edition.json) |
 | BullyBall | 161894 | [161894-bullyball.json](./161894-bullyball.json) |
