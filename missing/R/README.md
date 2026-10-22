@@ -512,6 +512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Radiation Age | 49516 | [49516-radiation-age.json](./49516-radiation-age.json) |
 | Radiation Caterpillar | 410229 | [410229-radiation-caterpillar.json](./410229-radiation-caterpillar.json) |
 | Radiation Island | 36287 | [36287-radiation-island.json](./36287-radiation-island.json) |
+| Radiator | 141723 | [141723-radiator.json](./141723-radiator.json) |
 | Radiator Forever | 20269 | [20269-radiator-forever.json](./20269-radiator-forever.json) |
 | Radica Junior Bass Fishin' | 403834 | [403834-radica-junior-bass-fishin.json](./403834-radica-junior-bass-fishin.json) |
 | Radical Aces | 320919 | [320919-radical-aces.json](./320919-radical-aces.json) |
@@ -8866,6 +8867,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rowan Needs Shinies! | 420586 | [420586-rowan-needs-shinies.json](./420586-rowan-needs-shinies.json) |
 | Rowan's Battle of Britain | 73818 | [73818-rowans-battle-of-britain.json](./73818-rowans-battle-of-britain.json) |
 | RowBot Rally | 256258 | [256258-rowbot-rally.json](./256258-rowbot-rally.json) |
+| Rowdy Rudy II: PowerTrip | 141700 | [141700-rowdy-rudy-ii-powertrip.json](./141700-rowdy-rudy-ii-powertrip.json) |
+| Rowdy Rudy's Revenge | 141699 | [141699-rowdy-rudys-revenge.json](./141699-rowdy-rudys-revenge.json) |
 | Rowdy Wrestling | 104211 | [104211-rowdy-wrestling.json](./104211-rowdy-wrestling.json) |
 | Rowen Goes to Work | 326118 | [326118-rowen-goes-to-work.json](./326118-rowen-goes-to-work.json) |
 | Rowen's Grand Adventure | 366391 | [366391-rowens-grand-adventure.json](./366391-rowens-grand-adventure.json) |
