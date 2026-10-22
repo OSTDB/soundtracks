@@ -5453,6 +5453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadowrun: Hong Kong - Extended Edition | 35842 | [35842-shadowrun-hong-kong-extended-edition.json](./35842-shadowrun-hong-kong-extended-edition.json) |
 | Shadows | 318203 | [318203-shadows.json](./318203-shadows.json) |
 | Shadows 2: Perfidia | 29178 | [29178-shadows-2-perfidia.json](./29178-shadows-2-perfidia.json) |
+| Shadows and Lies | 116033 | [116033-shadows-and-lies.json](./116033-shadows-and-lies.json) |
 | Shadows Are Alive | 265526 | [265526-shadows-are-alive.json](./265526-shadows-are-alive.json) |
 | Shadows Behind the Throne | 176172 | [176172-shadows-behind-the-throne.json](./176172-shadows-behind-the-throne.json) |
 | Shadows Behind the Throne 2 | 158178 | [158178-shadows-behind-the-throne-2.json](./158178-shadows-behind-the-throne-2.json) |
@@ -11409,6 +11410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snail Bob 5: Love Story | 248187 | [248187-snail-bob-5-love-story.json](./248187-snail-bob-5-love-story.json) |
 | Snail Bob 6: Winter Story | 248188 | [248188-snail-bob-6-winter-story.json](./248188-snail-bob-6-winter-story.json) |
 | Snail Bob 7: Fantasy Story | 248189 | [248189-snail-bob-7-fantasy-story.json](./248189-snail-bob-7-fantasy-story.json) |
+| Snail Detective | 116008 | [116008-snail-detective.json](./116008-snail-detective.json) |
 | Snail Mail | 84877 | [84877-snail-mail.json](./84877-snail-mail.json) |
 | Snail Maze | 46118 | [46118-snail-maze.json](./46118-snail-maze.json) |
 | Snail Simulator | 272721 | [272721-snail-simulator.json](./272721-snail-simulator.json) |
@@ -14462,6 +14464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Sword: Grow Sword Master | 193827 | [193827-soul-sword-grow-sword-master.json](./193827-soul-sword-grow-sword-master.json) |
 | Soul Symphony | 196878 | [196878-soul-symphony.json](./196878-soul-symphony.json) |
 | Soul Taker | 235618 | [235618-soul-taker.json](./235618-soul-taker.json) |
+| Soul Tech: Millennium | 116052 | [116052-soul-tech-millennium.json](./116052-soul-tech-millennium.json) |
 | Soul Thief: A Wizard's Lizard 2 | 58771 | [58771-soul-thief-a-wizards-lizard-2.json](./58771-soul-thief-a-wizards-lizard-2.json) |
 | Soul Tolerance | 211757 | [211757-soul-tolerance.json](./211757-soul-tolerance.json) |
 | Soul Unleashed | 213335 | [213335-soul-unleashed.json](./213335-soul-unleashed.json) |
@@ -15954,6 +15957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spark in Sonic After the Sequel | 337170 | [337170-spark-in-sonic-after-the-sequel.json](./337170-spark-in-sonic-after-the-sequel.json) |
 | Spark in the Dark | 140616 | [140616-spark-in-the-dark.json](./140616-spark-in-the-dark.json) |
 | Spark Man | 40169 | [40169-spark-man.json](./40169-spark-man.json) |
+| Spark of Light | 116049 | [116049-spark-of-light.json](./116049-spark-of-light.json) |
 | Spark Of Nature | 291471 | [291471-spark-of-nature.json](./291471-spark-of-nature.json) |
 | Spark of Survival | 280251 | [280251-spark-of-survival.json](./280251-spark-of-survival.json) |
 | Spark Protocol | 413036 | [413036-spark-protocol.json](./413036-spark-protocol.json) |
@@ -21650,6 +21654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StrayShot | 277808 | [277808-strayshot.json](./277808-strayshot.json) |
 | Strazeal | 121483 | [121483-strazeal.json](./121483-strazeal.json) |
 | Stream - Circuit Puzzle | 102128 | [102128-stream-circuit-puzzle.json](./102128-stream-circuit-puzzle.json) |
+| Stream Animals: Free for All | 116031 | [116031-stream-animals-free-for-all.json](./116031-stream-animals-free-for-all.json) |
 | Stream Avatars | 52432 | [52432-stream-avatars.json](./52432-stream-avatars.json) |
 | Stream Bakery | 409789 | [409789-stream-bakery.json](./409789-stream-bakery.json) |
 | Stream Battlecards | 130703 | [130703-stream-battlecards.json](./130703-stream-battlecards.json) |
@@ -23668,6 +23673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super 2048 | 99983 | [99983-super-2048.json](./99983-super-2048.json) |
 | Super 3D Table Tennis | 147072 | [147072-super-3d-table-tennis.json](./147072-super-3d-table-tennis.json) |
 | Super 8 Football | 267552 | [267552-super-8-football.json](./267552-super-8-football.json) |
+| Super 80s World | 116013 | [116013-super-80s-world.json](./116013-super-80s-world.json) |
 | Super ACiD Block Attack | 82459 | [82459-super-acid-block-attack.json](./82459-super-acid-block-attack.json) |
 | Super Action Baseball | 40909 | [40909-super-action-baseball.json](./40909-super-action-baseball.json) |
 | Super Action Football | 40908 | [40908-super-action-football.json](./40908-super-action-football.json) |
@@ -25329,6 +25335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Power League 4 | 44431 | [44431-super-power-league-4.json](./44431-super-power-league-4.json) |
 | Super Power League FX | 65284 | [65284-super-power-league-fx.json](./65284-super-power-league-fx.json) |
 | Super Power: Rising of A.I. | 157016 | [157016-super-power-rising-of-a-i.json](./157016-super-power-rising-of-a-i.json) |
+| Super Powered Battle Friends | 116023 | [116023-super-powered-battle-friends.json](./116023-super-powered-battle-friends.json) |
 | Super Prehistoric World Adventure | 278656 | [278656-super-prehistoric-world-adventure.json](./278656-super-prehistoric-world-adventure.json) |
 | Super Press Space To Win Adventure RPG 2009 | 294222 | [294222-super-press-space-to-win-adventure-rpg-2009.json](./294222-super-press-space-to-win-adventure-rpg-2009.json) |
 | Super Price Series: Block & Switch | 267225 | [267225-super-price-series-block-and-switch.json](./267225-super-price-series-block-and-switch.json) |
