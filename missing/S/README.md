@@ -6832,6 +6832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ships N' Battles | 13097 | [13097-ships-n-battles.json](./13097-ships-n-battles.json) |
 | Ships of Battle Age of Pirates | 235296 | [235296-ships-of-battle-age-of-pirates.json](./235296-ships-of-battle-age-of-pirates.json) |
 | Ships of Chaos | 288642 | [288642-ships-of-chaos.json](./288642-ships-of-chaos.json) |
+| Ships Puzzles - Learning Toddler kids games 2 + | 102656 | [102656-ships-puzzles-learning-toddler-kids-games-2.json](./102656-ships-puzzles-learning-toddler-kids-games-2.json) |
 | Ships Simulator | 229181 | [229181-ships-simulator.json](./229181-ships-simulator.json) |
 | Ships Simulator 2024 | 219609 | [219609-ships-simulator-2024.json](./219609-ships-simulator-2024.json) |
 | Ships Simulator Bundle | 273007 | [273007-ships-simulator-bundle.json](./273007-ships-simulator-bundle.json) |
@@ -9325,6 +9326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skatelander | 345149 | [345149-skatelander.json](./345149-skatelander.json) |
 | Skatemasta Tcheco | 118401 | [118401-skatemasta-tcheco.json](./118401-skatemasta-tcheco.json) |
 | SkateNationXL | 272579 | [272579-skatenationxl.json](./272579-skatenationxl.json) |
+| Skater | 102558 | [102558-skater.json](./102558-skater.json) |
 | Skater | 245172 | [245172-skater.json](./245172-skater.json) |
 | Skater - Let's Skate | 107566 | [107566-skater-lets-skate.json](./107566-skater-lets-skate.json) |
 | Skater Bunny Simulator | 320459 | [320459-skater-bunny-simulator.json](./320459-skater-bunny-simulator.json) |
@@ -20563,6 +20565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stellar 7 | 14513 | [14513-stellar-7.json](./14513-stellar-7.json) |
 | Stellar 7 | 14514 | [14514-stellar-7.json](./14514-stellar-7.json) |
 | Stellar 7: Draxon's Revenge | 4313 | [4313-stellar-7-draxons-revenge.json](./4313-stellar-7-draxons-revenge.json) |
+| Stellar Age | 102563 | [102563-stellar-age.json](./102563-stellar-age.json) |
 | Stellar Archipelago | 372612 | [372612-stellar-archipelago.json](./372612-stellar-archipelago.json) |
 | Stellar Assault SS | 112045 | [112045-stellar-assault-ss.json](./112045-stellar-assault-ss.json) |
 | Stellar Attack | 52870 | [52870-stellar-attack.json](./52870-stellar-attack.json) |
@@ -26226,6 +26229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Superguy and Megaboy | 316615 | [316615-superguy-and-megaboy.json](./316615-superguy-and-megaboy.json) |
 | SuperHero | 161259 | [161259-superhero.json](./161259-superhero.json) |
 | Superhero Bike Stunt Games 3D | 296778 | [296778-superhero-bike-stunt-games-3d.json](./296778-superhero-bike-stunt-games-3d.json) |
+| Superhero Captain Robot Flying Newyork City War | 102649 | [102649-superhero-captain-robot-flying-newyork-city-war.json](./102649-superhero-captain-robot-flying-newyork-city-war.json) |
 | Superhero Car Race: Mega Ramp | 296777 | [296777-superhero-car-race-mega-ramp.json](./296777-superhero-car-race-mega-ramp.json) |
 | Superhero Cars Racing | 296775 | [296775-superhero-cars-racing.json](./296775-superhero-cars-racing.json) |
 | Superhero Cats | 295493 | [295493-superhero-cats.json](./295493-superhero-cats.json) |
