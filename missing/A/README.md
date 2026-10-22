@@ -2170,6 +2170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Action Game Maker | 344533 | [344533-action-game-maker.json](./344533-action-game-maker.json) |
 | Action Games Bundle | 305564 | [305564-action-games-bundle.json](./305564-action-games-bundle.json) |
 | Action Half-Life | 221840 | [221840-action-half-life.json](./221840-action-half-life.json) |
+| Action Hall of Fame | 137511 | [137511-action-hall-of-fame.json](./137511-action-hall-of-fame.json) |
 | Action Hero | 313769 | [313769-action-hero.json](./313769-action-hero.json) |
 | Action Hollywood | 46767 | [46767-action-hollywood.json](./46767-action-hollywood.json) |
 | Action in the North Atlantic | 70452 | [70452-action-in-the-north-atlantic.json](./70452-action-in-the-north-atlantic.json) |
@@ -2223,6 +2224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Activision Anthology: Remix Edition | 45979 | [45979-activision-anthology-remix-edition.json](./45979-activision-anthology-remix-edition.json) |
 | Activision Collection 1 | 379134 | [379134-activision-collection-1.json](./379134-activision-collection-1.json) |
 | Activision Collection 2 | 420008 | [420008-activision-collection-2.json](./420008-activision-collection-2.json) |
+| Activision Game Vault: Volume 1 | 137499 | [137499-activision-game-vault-volume-1.json](./137499-activision-game-vault-volume-1.json) |
 | Activision Prototype #1 | 344692 | [344692-activision-prototype-1.json](./344692-activision-prototype-1.json) |
 | Activision's Atari 2600 Action Pack | 79146 | [79146-activisions-atari-2600-action-pack.json](./79146-activisions-atari-2600-action-pack.json) |
 | Activision's Atari 2600 Action Pack 2 | 100084 | [100084-activisions-atari-2600-action-pack-2.json](./100084-activisions-atari-2600-action-pack-2.json) |
@@ -5558,6 +5560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All will Rise | 347823 | [347823-all-will-rise.json](./347823-all-will-rise.json) |
 | All World Pro Wrestling: Bonus Stories | 196054 | [196054-all-world-pro-wrestling-bonus-stories.json](./196054-all-world-pro-wrestling-bonus-stories.json) |
 | All World Pro Wrestling: Bonus Stories 2 | 210906 | [210906-all-world-pro-wrestling-bonus-stories-2.json](./210906-all-world-pro-wrestling-bonus-stories-2.json) |
+| All You Can Play: 10 Action-Games | 137502 | [137502-all-you-can-play-10-action-games.json](./137502-all-you-can-play-10-action-games.json) |
 | All You Have to Do Is Click the Button | 352323 | [352323-all-you-have-to-do-is-click-the-button.json](./352323-all-you-have-to-do-is-click-the-button.json) |
 | All You Need is Help | 299592 | [299592-all-you-need-is-help.json](./299592-all-you-need-is-help.json) |
 | All You Want Bundle | 231294 | [231294-all-you-want-bundle.json](./231294-all-you-want-bundle.json) |
@@ -6400,6 +6403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | America's Army | 597 | [597-americas-army.json](./597-americas-army.json) |
 | America's Army 2 | 15820 | [15820-americas-army-2.json](./15820-americas-army-2.json) |
 | America's Army 3 | 15798 | [15798-americas-army-3.json](./15798-americas-army-3.json) |
+| America's Army: Operations | 137508 | [137508-americas-army-operations.json](./137508-americas-army-operations.json) |
 | America's Army: Proving Grounds | 7843 | [7843-americas-army-proving-grounds.json](./7843-americas-army-proving-grounds.json) |
 | America's Greatest Arcade Hits 3D | 146195 | [146195-americas-greatest-arcade-hits-3d.json](./146195-americas-greatest-arcade-hits-3d.json) |
 | America's Greatest Game Shows: Wheel of Fortune & Jeopardy! | 112182 | [112182-americas-greatest-game-shows-wheel-of-fortune-and-jeopardy.json](./112182-americas-greatest-game-shows-wheel-of-fortune-and-jeopardy.json) |
@@ -10314,6 +10318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Argo Adventure | 120885 | [120885-argo-adventure.json](./120885-argo-adventure.json) |
 | Argol: Kronoss' Castle | 229807 | [229807-argol-kronoss-castle.json](./229807-argol-kronoss-castle.json) |
 | Argolis | 140940 | [140940-argolis.json](./140940-argolis.json) |
+| Argon Swamp | 137308 | [137308-argon-swamp.json](./137308-argon-swamp.json) |
 | Argonauts Agency: Ares Games | 360665 | [360665-argonauts-agency-ares-games.json](./360665-argonauts-agency-ares-games.json) |
 | Argonauts Agency: Ares Games - Collector's Edition | 338664 | [338664-argonauts-agency-ares-games-collectors-edition.json](./338664-argonauts-agency-ares-games-collectors-edition.json) |
 | Argonauts Agency: Captive of Circe - Collectors Edition | 357334 | [357334-argonauts-agency-captive-of-circe-collectors-edition.json](./357334-argonauts-agency-captive-of-circe-collectors-edition.json) |
@@ -11242,6 +11247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | As Sweetberry Falls | 379882 | [379882-as-sweetberry-falls.json](./379882-as-sweetberry-falls.json) |
 | As Talk as Walk Wayfarer Team: Land of Music | 241303 | [241303-as-talk-as-walk-wayfarer-team-land-of-music.json](./241303-as-talk-as-walk-wayfarer-team-land-of-music.json) |
 | As Talk As Walk Wayfarer Team: One Percent Sleepy | 261417 | [261417-as-talk-as-walk-wayfarer-team-one-percent-sleepy.json](./261417-as-talk-as-walk-wayfarer-team-one-percent-sleepy.json) |
+| As the Fog Burns | 137303 | [137303-as-the-fog-burns.json](./137303-as-the-fog-burns.json) |
 | As the Light Goes Out | 217717 | [217717-as-the-light-goes-out.json](./217717-as-the-light-goes-out.json) |
 | As We Know It | 99094 | [99094-as-we-know-it.json](./99094-as-we-know-it.json) |
 | As We Unite | 365081 | [365081-as-we-unite.json](./365081-as-we-unite.json) |
