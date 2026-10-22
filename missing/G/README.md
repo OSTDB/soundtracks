@@ -894,6 +894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gamble Fight Plus | 116783 | [116783-gamble-fight-plus.json](./116783-gamble-fight-plus.json) |
 | Gamble Lair | 348755 | [348755-gamble-lair.json](./348755-gamble-lair.json) |
 | Gamble Life | 416631 | [416631-gamble-life.json](./416631-gamble-life.json) |
+| Gamble Scramble | 107555 | [107555-gamble-scramble.json](./107555-gamble-scramble.json) |
 | Gamble Tower | 172398 | [172398-gamble-tower.json](./172398-gamble-tower.json) |
 | Gamble With Your Friends | 361027 | [361027-gamble-with-your-friends.json](./361027-gamble-with-your-friends.json) |
 | Gamble: Hard Exit | 389481 | [389481-gamble-hard-exit.json](./389481-gamble-hard-exit.json) |
@@ -903,6 +904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gambler Jiko Chuushinha | 64340 | [64340-gambler-jiko-chuushinha.json](./64340-gambler-jiko-chuushinha.json) |
 | Gambler Jiko Chuushinha 2 | 267650 | [267650-gambler-jiko-chuushinha-2.json](./267650-gambler-jiko-chuushinha-2.json) |
 | Gambler Jiko Chuushinha: Ippatsu Shoubu! | 420493 | [420493-gambler-jiko-chuushinha-ippatsu-shoubu.json](./420493-gambler-jiko-chuushinha-ippatsu-shoubu.json) |
+| Gambler Jiko Chuushinha: Katayama Masayuki no Mahjong Dojo | 107590 | [107590-gambler-jiko-chuushinha-katayama-masayuki-no-mahjong-dojo.json](./107590-gambler-jiko-chuushinha-katayama-masayuki-no-mahjong-dojo.json) |
 | Gambler: Queen's Cup | 360589 | [360589-gambler-queens-cup.json](./360589-gambler-queens-cup.json) |
 | Gambler’s Loop | 348862 | [348862-gambler-s-loop.json](./348862-gambler-s-loop.json) |
 | Gamblers Table | 342853 | [342853-gamblers-table.json](./342853-gamblers-table.json) |
@@ -2697,6 +2699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Get Goating | 386502 | [386502-get-goating.json](./386502-get-goating.json) |
 | Get Good by Vypur | 132536 | [132536-get-good-by-vypur.json](./132536-get-good-by-vypur.json) |
 | Get Home Safe | 229327 | [229327-get-home-safe.json](./229327-get-home-safe.json) |
+| Get in the Car, Loser! | 107601 | [107601-get-in-the-car-loser.json](./107601-get-in-the-car-loser.json) |
 | Get in the Car, Loser!: The Fate of Another World | 226411 | [226411-get-in-the-car-loser-the-fate-of-another-world.json](./226411-get-in-the-car-loser-the-fate-of-another-world.json) |
 | Get in Timelessness | 358241 | [358241-get-in-timelessness.json](./358241-get-in-timelessness.json) |
 | Get into Backrooms | 213209 | [213209-get-into-backrooms.json](./213209-get-into-backrooms.json) |
@@ -3253,6 +3256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gibba Gibba! | 361055 | [361055-gibba-gibba.json](./361055-gibba-gibba.json) |
 | Gibberish | 317378 | [317378-gibberish.json](./317378-gibberish.json) |
 | Gibbets 2 | 343809 | [343809-gibbets-2.json](./343809-gibbets-2.json) |
+| Gibbets: Bow Master | 107581 | [107581-gibbets-bow-master.json](./107581-gibbets-bow-master.json) |
 | Gibbonacci | 410992 | [410992-gibbonacci.json](./410992-gibbonacci.json) |
 | Gibbous: A Cthulhu Adventure | 18841 | [18841-gibbous-a-cthulhu-adventure.json](./18841-gibbous-a-cthulhu-adventure.json) |
 | Gibo: Sayaka | 128363 | [128363-gibo-sayaka.json](./128363-gibo-sayaka.json) |
@@ -5170,6 +5174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golf Pro 2000 Downunder | 93072 | [93072-golf-pro-2000-downunder.json](./93072-golf-pro-2000-downunder.json) |
 | Golf Resort Tycoon | 73296 | [73296-golf-resort-tycoon.json](./73296-golf-resort-tycoon.json) |
 | Golf Resort Tycoon II | 23465 | [23465-golf-resort-tycoon-ii.json](./23465-golf-resort-tycoon-ii.json) |
+| Golf Rival | 107547 | [107547-golf-rival.json](./107547-golf-rival.json) |
 | Golf Royale | 147140 | [147140-golf-royale.json](./147140-golf-royale.json) |
 | Golf Shiyou yo 2: Aratanaru Chousen | 317349 | [317349-golf-shiyou-yo-2-aratanaru-chousen.json](./317349-golf-shiyou-yo-2-aratanaru-chousen.json) |
 | Golf Shiyouyo | 113530 | [113530-golf-shiyouyo.json](./113530-golf-shiyouyo.json) |
