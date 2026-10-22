@@ -2805,6 +2805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marine Tour | 243393 | [243393-marine-tour.json](./243393-marine-tour.json) |
 | Mariner | 39690 | [39690-mariner.json](./39690-mariner.json) |
 | Marines Modern Urban Combat | 50690 | [50690-marines-modern-urban-combat.json](./50690-marines-modern-urban-combat.json) |
+| MarineVerse Sailing Club | 120575 | [120575-marineverse-sailing-club.json](./120575-marineverse-sailing-club.json) |
 | Marins Dream Garden | 243727 | [243727-marins-dream-garden.json](./243727-marins-dream-garden.json) |
 | Mario | 268344 | [268344-mario.json](./268344-mario.json) |
 | Mario & Friends in: Volcanic Panic | 336098 | [336098-mario-and-friends-in-volcanic-panic.json](./336098-mario-and-friends-in-volcanic-panic.json) |
