@@ -3539,6 +3539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epidemyc | 190944 | [190944-epidemyc.json](./190944-epidemyc.json) |
 | Epido | 127947 | [127947-epido.json](./127947-epido.json) |
 | Epido: Second Move | 127946 | [127946-epido-second-move.json](./127946-epido-second-move.json) |
+| Epifrog | 128248 | [128248-epifrog.json](./128248-epifrog.json) |
 | Epigenesis | 16576 | [16576-epigenesis.json](./16576-epigenesis.json) |
 | Epigraph | 287857 | [287857-epigraph.json](./287857-epigraph.json) |
 | Epikos | 124585 | [124585-epikos.json](./124585-epikos.json) |
