@@ -2119,7 +2119,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Across the Galaxy: Stellar Dominator | 171500 | [171500-across-the-galaxy-stellar-dominator.json](./171500-across-the-galaxy-stellar-dominator.json) |
 | Across the Grooves | 121711 | [121711-across-the-grooves.json](./121711-across-the-grooves.json) |
 | Across the Moment | 29077 | [29077-across-the-moment.json](./29077-across-the-moment.json) |
-| Across the Obelisk | 143000 | [143000-across-the-obelisk.json](./143000-across-the-obelisk.json) |
 | Across the Obelisk: Bernard, the Alchemist | 357777 | [357777-across-the-obelisk-bernard-the-alchemist.json](./357777-across-the-obelisk-bernard-the-alchemist.json) |
 | Across the Obelisk: Necropolis Of The Damned | 378904 | [378904-across-the-obelisk-necropolis-of-the-damned.json](./378904-across-the-obelisk-necropolis-of-the-damned.json) |
 | Across the Obelisk: Shores of Sahti | 357778 | [357778-across-the-obelisk-shores-of-sahti.json](./357778-across-the-obelisk-shores-of-sahti.json) |
