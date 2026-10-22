@@ -1065,6 +1065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Cellar Death Trial | 294015 | [294015-dark-cellar-death-trial.json](./294015-dark-cellar-death-trial.json) |
 | Dark Century | 12035 | [12035-dark-century.json](./12035-dark-century.json) |
 | Dark Chaser | 109034 | [109034-dark-chaser.json](./109034-dark-chaser.json) |
+| Dark Chess | 125697 | [125697-dark-chess.json](./125697-dark-chess.json) |
 | Dark Chess+ | 175242 | [175242-dark-chess.json](./175242-dark-chess.json) |
 | Dark Chinese Chess Online | 89799 | [89799-dark-chinese-chess-online.json](./89799-dark-chinese-chess-online.json) |
 | Dark Chronicles: The Soul Reaver | 156934 | [156934-dark-chronicles-the-soul-reaver.json](./156934-dark-chronicles-the-soul-reaver.json) |
@@ -4170,6 +4171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Space Tavern | 270012 | [270012-deep-space-tavern.json](./270012-deep-space-tavern.json) |
 | Deep Space Waifu: DLC | 281478 | [281478-deep-space-waifu-dlc.json](./281478-deep-space-waifu-dlc.json) |
 | Deep Space Waifu: Flat Justice | 77086 | [77086-deep-space-waifu-flat-justice.json](./77086-deep-space-waifu-flat-justice.json) |
+| Deep Space Waifu: Legends | 125694 | [125694-deep-space-waifu-legends.json](./125694-deep-space-waifu-legends.json) |
 | Deep Space: Lost Battleship | 200142 | [200142-deep-space-lost-battleship.json](./200142-deep-space-lost-battleship.json) |
 | Deep Space: Operation Copernicus | 15513 | [15513-deep-space-operation-copernicus.json](./15513-deep-space-operation-copernicus.json) |
 | Deep State | 281560 | [281560-deep-state.json](./281560-deep-state.json) |
@@ -9063,6 +9065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dogs Cyberpuzzle | 203949 | [203949-dogs-cyberpuzzle.json](./203949-dogs-cyberpuzzle.json) |
 | Dogs Day | 238555 | [238555-dogs-day.json](./238555-dogs-day.json) |
 | Dogs of the Dark | 265678 | [265678-dogs-of-the-dark.json](./265678-dogs-of-the-dark.json) |
+| Dogs of Wall Street | 125672 | [125672-dogs-of-wall-street.json](./125672-dogs-of-wall-street.json) |
 | Dogs of Wallstreet | 197925 | [197925-dogs-of-wallstreet.json](./197925-dogs-of-wallstreet.json) |
 | Dogs of War | 74307 | [74307-dogs-of-war.json](./74307-dogs-of-war.json) |
 | Dogs of War Online | 15391 | [15391-dogs-of-war-online.json](./15391-dogs-of-war-online.json) |
@@ -14931,6 +14934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dystopia RPG | 376132 | [376132-dystopia-rpg.json](./376132-dystopia-rpg.json) |
 | Dystopia: Contest of Heroes | 165361 | [165361-dystopia-contest-of-heroes.json](./165361-dystopia-contest-of-heroes.json) |
 | Dystopian Debugger | 239689 | [239689-dystopian-debugger.json](./239689-dystopian-debugger.json) |
+| Dystopian Drift | 125664 | [125664-dystopian-drift.json](./125664-dystopian-drift.json) |
 | Dystopian Nights | 119610 | [119610-dystopian-nights.json](./119610-dystopian-nights.json) |
 | Dystopy | 30748 | [30748-dystopy.json](./30748-dystopy.json) |
 | Dystoria | 27387 | [27387-dystoria.json](./27387-dystoria.json) |
