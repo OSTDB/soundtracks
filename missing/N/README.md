@@ -4954,6 +4954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nojong | 184380 | [184380-nojong.json](./184380-nojong.json) |
 | Nok | 258362 | [258362-nok.json](./258362-nok.json) |
 | Nokbak | 55222 | [55222-nokbak.json](./55222-nokbak.json) |
+| Nokia World | 153768 | [153768-nokia-world.json](./153768-nokia-world.json) |
 | NokNok | 341484 | [341484-noknok.json](./341484-noknok.json) |
 | NokNok Invasion! | 183505 | [183505-noknok-invasion.json](./183505-noknok-invasion.json) |
 | Nokosu | 148293 | [148293-nokosu.json](./148293-nokosu.json) |
