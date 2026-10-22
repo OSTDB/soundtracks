@@ -4145,6 +4145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airborne Troops: Countdown to D-Day | 27451 | [27451-airborne-troops-countdown-to-d-day.json](./27451-airborne-troops-countdown-to-d-day.json) |
 | Airborne! | 95457 | [95457-airborne.json](./95457-airborne.json) |
 | AirBurst | 77643 | [77643-airburst.json](./77643-airburst.json) |
+| Aircar | 121309 | [121309-aircar.json](./121309-aircar.json) |
 | Aircoaster | 66731 | [66731-aircoaster.json](./66731-aircoaster.json) |
 | Aircraft Carrier Survival | 139380 | [139380-aircraft-carrier-survival.json](./139380-aircraft-carrier-survival.json) |
 | Aircraft Evolution | 82077 | [82077-aircraft-evolution.json](./82077-aircraft-evolution.json) |
@@ -8819,6 +8820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apocalipsis | 28319 | [28319-apocalipsis.json](./28319-apocalipsis.json) |
 | Apocalipsis: The Tree of the Knowledge of Good and Evil | 90073 | [90073-apocalipsis-the-tree-of-the-knowledge-of-good-and-evil.json](./90073-apocalipsis-the-tree-of-the-knowledge-of-good-and-evil.json) |
 | Apocalipsis: Wormwood Edition | 114206 | [114206-apocalipsis-wormwood-edition.json](./114206-apocalipsis-wormwood-edition.json) |
+| Apocalypse | 121273 | [121273-apocalypse.json](./121273-apocalypse.json) |
 | Apocalypse | 14260 | [14260-apocalypse.json](./14260-apocalypse.json) |
 | Apocalypse | 15547 | [15547-apocalypse.json](./15547-apocalypse.json) |
 | Apocalypse | 15598 | [15598-apocalypse.json](./15598-apocalypse.json) |
@@ -12406,6 +12408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astropark | 353380 | [353380-astropark.json](./353380-astropark.json) |
 | Astrophidia | 409682 | [409682-astrophidia.json](./409682-astrophidia.json) |
 | Astrophobia | 421183 | [421183-astrophobia.json](./421183-astrophobia.json) |
+| Astroplatformer | 121260 | [121260-astroplatformer.json](./121260-astroplatformer.json) |
 | Astropocalypse | 289033 | [289033-astropocalypse.json](./289033-astropocalypse.json) |
 | Astropods: Starside Glaze | 316076 | [316076-astropods-starside-glaze.json](./316076-astropods-starside-glaze.json) |
 | AstroPuffs | 253505 | [253505-astropuffs.json](./253505-astropuffs.json) |
