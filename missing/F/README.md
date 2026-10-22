@@ -2064,6 +2064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farmer Life Simulator | 152707 | [152707-farmer-life-simulator.json](./152707-farmer-life-simulator.json) |
 | Farmer Phil and the Zombie Alien Robot Apocalypse | 179892 | [179892-farmer-phil-and-the-zombie-alien-robot-apocalypse.json](./179892-farmer-phil-and-the-zombie-alien-robot-apocalypse.json) |
 | Farmer Pug Dash | 129019 | [129019-farmer-pug-dash.json](./129019-farmer-pug-dash.json) |
+| Farmer Sim 2020 | 147694 | [147694-farmer-sim-2020.json](./147694-farmer-sim-2020.json) |
 | Farmer Simulator | 253956 | [253956-farmer-simulator.json](./253956-farmer-simulator.json) |
 | Farmer Survivors | 270516 | [270516-farmer-survivors.json](./270516-farmer-survivors.json) |
 | Farmer Time: A Magical Farming Adventure | 164939 | [164939-farmer-time-a-magical-farming-adventure.json](./164939-farmer-time-a-magical-farming-adventure.json) |
@@ -6012,6 +6013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flight Pilot Simulator: 3D Flying Games | 86792 | [86792-flight-pilot-simulator-3d-flying-games.json](./86792-flight-pilot-simulator-3d-flying-games.json) |
 | Flight Rising | 123023 | [123023-flight-rising.json](./123023-flight-rising.json) |
 | Flight Risk | 304624 | [304624-flight-risk.json](./304624-flight-risk.json) |
+| Flight Sim 2019 | 147704 | [147704-flight-sim-2019.json](./147704-flight-sim-2019.json) |
 | Flight Sim World | 28453 | [28453-flight-sim-world.json](./28453-flight-sim-world.json) |
 | Flight Sims Air Cavalry Pilots | 175336 | [175336-flight-sims-air-cavalry-pilots.json](./175336-flight-sims-air-cavalry-pilots.json) |
 | Flight Simulation | 23062 | [23062-flight-simulation.json](./23062-flight-simulation.json) |
