@@ -7220,6 +7220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Home Safe and Silent | 160122 | [160122-home-safe-and-silent.json](./160122-home-safe-and-silent.json) |
 | Home Safety Hotline | 244303 | [244303-home-safety-hotline.json](./244303-home-safety-hotline.json) |
 | Home Safety Hotline: Seasonal Worker | 317001 | [317001-home-safety-hotline-seasonal-worker.json](./317001-home-safety-hotline-seasonal-worker.json) |
+| Home Security | 109338 | [109338-home-security.json](./109338-home-security.json) |
 | Home Sheep Home: Farmageddon Party Edition | 123322 | [123322-home-sheep-home-farmageddon-party-edition.json](./123322-home-sheep-home-farmageddon-party-edition.json) |
 | Home Simulator | 292169 | [292169-home-simulator.json](./292169-home-simulator.json) |
 | Home Snatch | 311791 | [311791-home-snatch.json](./311791-home-snatch.json) |
@@ -7658,6 +7659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hop Step Sing! Happy People | 165713 | [165713-hop-step-sing-happy-people.json](./165713-hop-step-sing-happy-people.json) |
 | Hop Step Sing! Kimamani Summer Vacation | 55335 | [55335-hop-step-sing-kimamani-summer-vacation.json](./55335-hop-step-sing-kimamani-summer-vacation.json) |
 | Hop Step Sing! Kiss x Kiss x Kiss | 43182 | [43182-hop-step-sing-kiss-x-kiss-x-kiss.json](./43182-hop-step-sing-kiss-x-kiss-x-kiss.json) |
+| Hop Step Sing! Nozokanaide Naked Heart | 109344 | [109344-hop-step-sing-nozokanaide-naked-heart.json](./109344-hop-step-sing-nozokanaide-naked-heart.json) |
 | Hop Step Sing! Summer Live 2023 | 340483 | [340483-hop-step-sing-summer-live-2023.json](./340483-hop-step-sing-summer-live-2023.json) |
 | Hop Swap | 233595 | [233595-hop-swap.json](./233595-hop-swap.json) |
 | Hop Top | 289472 | [289472-hop-top.json](./289472-hop-top.json) |
@@ -9088,6 +9090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hulu Has Live Sports '20: The Video Game | 125457 | [125457-hulu-has-live-sports-20-the-video-game.json](./125457-hulu-has-live-sports-20-the-video-game.json) |
 | Hululuup | 239907 | [239907-hululuup.json](./239907-hululuup.json) |
 | Hum | 192683 | [192683-hum.json](./192683-hum.json) |
+| Hum Drum Experiences | 109300 | [109300-hum-drum-experiences.json](./109300-hum-drum-experiences.json) |
 | Human | 133865 | [133865-human.json](./133865-human.json) |
 | Human Baseball | 38342 | [38342-human-baseball.json](./38342-human-baseball.json) |
 | Human Bowling | 283270 | [283270-human-bowling.json](./283270-human-bowling.json) |
