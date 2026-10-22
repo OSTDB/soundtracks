@@ -8469,6 +8469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Microsoft Jewel 2 | 317539 | [317539-microsoft-jewel-2.json](./317539-microsoft-jewel-2.json) |
 | Microsoft Mahjong | 8977 | [8977-microsoft-mahjong.json](./8977-microsoft-mahjong.json) |
 | Microsoft Minesweeper | 127494 | [127494-microsoft-minesweeper.json](./127494-microsoft-minesweeper.json) |
+| Microsoft Oceans | 146588 | [146588-microsoft-oceans.json](./146588-microsoft-oceans.json) |
 | Microsoft Pinball Arcade | 249159 | [249159-microsoft-pinball-arcade.json](./249159-microsoft-pinball-arcade.json) |
 | Microsoft Rebound | 209515 | [209515-microsoft-rebound.json](./209515-microsoft-rebound.json) |
 | Microsoft Return of Arcade | 22620 | [22620-microsoft-return-of-arcade.json](./22620-microsoft-return-of-arcade.json) |
@@ -11167,6 +11168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mobile Suit Gundam: The One Year War | 43240 | [43240-mobile-suit-gundam-the-one-year-war.json](./43240-mobile-suit-gundam-the-one-year-war.json) |
 | Mobile Tomodachi | 143671 | [143671-mobile-tomodachi.json](./143671-mobile-tomodachi.json) |
 | Mobile Train Simulator | 72899 | [72899-mobile-train-simulator.json](./72899-mobile-train-simulator.json) |
+| Mobile Train Simulator + Densha de Go!: Tokyo Kyuukou-hen | 146602 | [146602-mobile-train-simulator-densha-de-go-tokyo-kyuukou-hen.json](./146602-mobile-train-simulator-densha-de-go-tokyo-kyuukou-hen.json) |
 | Mobile Wars X | 113875 | [113875-mobile-wars-x.json](./113875-mobile-wars-x.json) |
 | Mobile Wars X: Ultimate Simulation Battle | 252197 | [252197-mobile-wars-x-ultimate-simulation-battle.json](./252197-mobile-wars-x-ultimate-simulation-battle.json) |
 | Mobiles Tycoon | 304584 | [304584-mobiles-tycoon.json](./304584-mobiles-tycoon.json) |
@@ -15959,6 +15961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Little Guessy | 270618 | [270618-my-little-guessy.json](./270618-my-little-guessy.json) |
 | My Little Haven | 381800 | [381800-my-little-haven.json](./381800-my-little-haven.json) |
 | My Little Helper: Spring Cleaning | 146117 | [146117-my-little-helper-spring-cleaning.json](./146117-my-little-helper-spring-cleaning.json) |
+| My Little Icecream Booth | 146747 | [146747-my-little-icecream-booth.json](./146747-my-little-icecream-booth.json) |
 | My Little Kitties | 20759 | [20759-my-little-kitties.json](./20759-my-little-kitties.json) |
 | My Little Kitty Cat | 99001 | [99001-my-little-kitty-cat.json](./99001-my-little-kitty-cat.json) |
 | My Little MILF | 341351 | [341351-my-little-milf.json](./341351-my-little-milf.json) |
@@ -16832,6 +16835,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery World Dizzy | 48890 | [48890-mystery-world-dizzy.json](./48890-mystery-world-dizzy.json) |
 | Mystery: London | 146926 | [146926-mystery-london.json](./146926-mystery-london.json) |
 | Mystery: Moscow | 146690 | [146690-mystery-moscow.json](./146690-mystery-moscow.json) |
+| Mystery: New York | 146584 | [146584-mystery-new-york.json](./146584-mystery-new-york.json) |
+| Mystery: Paris | 146614 | [146614-mystery-paris.json](./146614-mystery-paris.json) |
 | MysteryHouse-fivestones- | 107778 | [107778-mysteryhouse-fivestones.json](./107778-mysteryhouse-fivestones.json) |
 | MysteryOS | 397398 | [397398-mysteryos.json](./397398-mysteryos.json) |
 | MysteryScrolls | 319193 | [319193-mysteryscrolls.json](./319193-mysteryscrolls.json) |
