@@ -322,6 +322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hakuoki Kaikoroku | 163340 | [163340-hakuoki-kaikoroku.json](./163340-hakuoki-kaikoroku.json) |
 | Hakuoki Shinkai: Ginsei no Shou | 136838 | [136838-hakuoki-shinkai-ginsei-no-shou.json](./136838-hakuoki-shinkai-ginsei-no-shou.json) |
 | Hakuoki Shinkai: Ten'un no Shou | 221222 | [221222-hakuoki-shinkai-tenun-no-shou.json](./221222-hakuoki-shinkai-tenun-no-shou.json) |
+| Hakuoki Shinkai: Tsukikage no Shou | 148247 | [148247-hakuoki-shinkai-tsukikage-no-shou.json](./148247-hakuoki-shinkai-tsukikage-no-shou.json) |
 | Hakuoki SSL: Sweet School Life for Nintendo Switch | 243921 | [243921-hakuoki-ssl-sweet-school-life-for-nintendo-switch.json](./243921-hakuoki-ssl-sweet-school-life-for-nintendo-switch.json) |
 | Hakuoki Yuugiroku | 163342 | [163342-hakuoki-yuugiroku.json](./163342-hakuoki-yuugiroku.json) |
 | Hakuoki Yuugiroku 2: Matsuribayashi to Taishi-tachi | 221221 | [221221-hakuoki-yuugiroku-2-matsuribayashi-to-taishi-tachi.json](./221221-hakuoki-yuugiroku-2-matsuribayashi-to-taishi-tachi.json) |
@@ -1246,6 +1247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Fox | 89280 | [89280-happy-fox.json](./89280-happy-fox.json) |
 | Happy Fret | 92695 | [92695-happy-fret.json](./92695-happy-fret.json) |
 | Happy fruit | 191057 | [191057-happy-fruit.json](./191057-happy-fruit.json) |
+| Happy Funtime Labs | 148273 | [148273-happy-funtime-labs.json](./148273-happy-funtime-labs.json) |
 | Happy Furry Restaurant | 340411 | [340411-happy-furry-restaurant.json](./340411-happy-furry-restaurant.json) |
 | Happy Game: Collector's Edition | 186518 | [186518-happy-game-collectors-edition.json](./186518-happy-game-collectors-edition.json) |
 | Happy Game/Pilgrims | 267959 | [267959-happy-game-pilgrims.json](./267959-happy-game-pilgrims.json) |
@@ -2199,6 +2201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Have a Blast | 151490 | [151490-have-a-blast.json](./151490-have-a-blast.json) |
 | Have a Good Day | 302778 | [302778-have-a-good-day.json](./302778-have-a-good-day.json) |
 | Have a N.I.C.E. day! | 71710 | [71710-have-a-n-i-c-e-day.json](./71710-have-a-n-i-c-e-day.json) |
+| Have a Nice Dream | 148259 | [148259-have-a-nice-dream.json](./148259-have-a-nice-dream.json) |
 | Have an Ice Day | 364962 | [364962-have-an-ice-day.json](./364962-have-an-ice-day.json) |
 | Have Fun Together | 259605 | [259605-have-fun-together.json](./259605-have-fun-together.json) |
 | Have Fun Together | 259671 | [259671-have-fun-together.json](./259671-have-fun-together.json) |
