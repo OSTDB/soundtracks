@@ -2949,6 +2949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orbit Drop | 120339 | [120339-orbit-drop.json](./120339-orbit-drop.json) |
 | Orbit Express | 258401 | [258401-orbit-express.json](./258401-orbit-express.json) |
 | Orbit Maze | 347189 | [347189-orbit-maze.json](./347189-orbit-maze.json) |
+| Orbit of Death | 129423 | [129423-orbit-of-death.json](./129423-orbit-of-death.json) |
 | Orbit of Eternity | 364279 | [364279-orbit-of-eternity.json](./364279-orbit-of-eternity.json) |
 | Orbit One | 405604 | [405604-orbit-one.json](./405604-orbit-one.json) |
 | Orbit Outlaws | 155845 | [155845-orbit-outlaws.json](./155845-orbit-outlaws.json) |
@@ -4437,6 +4438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overrider | 236375 | [236375-overrider.json](./236375-overrider.json) |
 | OverRider | 295146 | [295146-overrider.json](./295146-overrider.json) |
 | Overruled | 10648 | [10648-overruled.json](./10648-overruled.json) |
+| Overrun | 129455 | [129455-overrun.json](./129455-overrun.json) |
 | Overrun | 184083 | [184083-overrun.json](./184083-overrun.json) |
 | Overrun Survivors | 231617 | [231617-overrun-survivors.json](./231617-overrun-survivors.json) |
 | Overrun: Zombie Base Defense | 208024 | [208024-overrun-zombie-base-defense.json](./208024-overrun-zombie-base-defense.json) |
