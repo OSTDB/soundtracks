@@ -96,6 +96,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wagamama Fairy: Mirumo de Pon! Nazo no Kagi to Shinjitsu no Tobira | 284606 | [284606-wagamama-fairy-mirumo-de-pon-nazo-no-kagi-to-shinjitsu-no-tobira.json](./284606-wagamama-fairy-mirumo-de-pon-nazo-no-kagi-to-shinjitsu-no-tobira.json) |
 | Wagamama Fairy: Mirumo de Pon! Ougon Maracas no Densetsu | 284598 | [284598-wagamama-fairy-mirumo-de-pon-ougon-maracas-no-densetsu.json](./284598-wagamama-fairy-mirumo-de-pon-ougon-maracas-no-densetsu.json) |
 | Wagamama Fairy: Mirumo de Pon! Taisen Mahoudama | 283397 | [283397-wagamama-fairy-mirumo-de-pon-taisen-mahoudama.json](./283397-wagamama-fairy-mirumo-de-pon-taisen-mahoudama.json) |
+| Wagamama Fashion: Girls Mode Yokubari Sengen! Tokimeki Up! | 136906 | [136906-wagamama-fashion-girls-mode-yokubari-sengen-tokimeki-up.json](./136906-wagamama-fashion-girls-mode-yokubari-sengen-tokimeki-up.json) |
 | Wagee | 402519 | [402519-wagee.json](./402519-wagee.json) |
 | Wager | 171303 | [171303-wager.json](./171303-wager.json) |
 | Wagers of War | 54968 | [54968-wagers-of-war.json](./54968-wagers-of-war.json) |
@@ -649,6 +650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War Builder League | 55993 | [55993-war-builder-league.json](./55993-war-builder-league.json) |
 | War by Grow Games | 125982 | [125982-war-by-grow-games.json](./125982-war-by-grow-games.json) |
 | War Card Game_uvr | 365279 | [365279-war-card-game-uvr.json](./365279-war-card-game-uvr.json) |
+| War Cars Construction Set | 136917 | [136917-war-cars-construction-set.json](./136917-war-cars-construction-set.json) |
 | War Chariots: Royal Legion | 43503 | [43503-war-chariots-royal-legion.json](./43503-war-chariots-royal-legion.json) |
 | War Church | 271805 | [271805-war-church.json](./271805-war-church.json) |
 | War crime | 82815 | [82815-war-crime.json](./82815-war-crime.json) |
@@ -1841,6 +1843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Watch | 117604 | [117604-watch.json](./117604-watch.json) |
 | Watch | 271912 | [271912-watch.json](./271912-watch.json) |
 | Watch | 310212 | [310212-watch.json](./310212-watch.json) |
+| Watch Dogs + Watch Dogs 2 Double Pack | 136697 | [136697-watch-dogs-watch-dogs-2-double-pack.json](./136697-watch-dogs-watch-dogs-2-double-pack.json) |
 | Watch Dogs 1 + Watch Dogs 2 Gold Editions Bundle | 164573 | [164573-watch-dogs-1-watch-dogs-2-gold-editions-bundle.json](./164573-watch-dogs-1-watch-dogs-2-gold-editions-bundle.json) |
 | Watch Dogs 2: Mega Pack | 226879 | [226879-watch-dogs-2-mega-pack.json](./226879-watch-dogs-2-mega-pack.json) |
 | Watch Dogs 2: No Compromise | 28377 | [28377-watch-dogs-2-no-compromise.json](./28377-watch-dogs-2-no-compromise.json) |
