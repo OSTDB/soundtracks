@@ -2041,6 +2041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual AI: Aki & Mika | 216860 | [216860-virtual-ai-aki-and-mika.json](./216860-virtual-ai-aki-and-mika.json) |
 | Virtual Anime Girl | 90366 | [90366-virtual-anime-girl.json](./90366-virtual-anime-girl.json) |
 | Virtual Aquarium | 407280 | [407280-virtual-aquarium.json](./407280-virtual-aquarium.json) |
+| Virtual Army: Revolution | 111383 | [111383-virtual-army-revolution.json](./111383-virtual-army-revolution.json) |
 | Virtual Baby Mother Simulator | 296748 | [296748-virtual-baby-mother-simulator.json](./296748-virtual-baby-mother-simulator.json) |
 | Virtual Babysitter Life: Happy Family Simulator | 95838 | [95838-virtual-babysitter-life-happy-family-simulator.json](./95838-virtual-babysitter-life-happy-family-simulator.json) |
 | Virtual Bart | 2835 | [2835-virtual-bart.json](./2835-virtual-bart.json) |
