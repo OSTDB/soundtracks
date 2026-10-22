@@ -1341,6 +1341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abaddon's Veil | 255600 | [255600-abaddons-veil.json](./255600-abaddons-veil.json) |
 | Abadox: The Deadly Inner War | 7903 | [7903-abadox-the-deadly-inner-war.json](./7903-abadox-the-deadly-inner-war.json) |
 | AbalaBurn | 43819 | [43819-abalaburn.json](./43819-abalaburn.json) |
+| Abalon | 107591 | [107591-abalon.json](./107591-abalon.json) |
 | Abalone | 328242 | [328242-abalone.json](./328242-abalone.json) |
 | Abalone | 9939 | [9939-abalone.json](./9939-abalone.json) |
 | Abalyte | 110692 | [110692-abalyte.json](./110692-abalyte.json) |
@@ -9421,6 +9422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Alpha Mission | 111459 | [111459-arcade-archives-alpha-mission.json](./111459-arcade-archives-alpha-mission.json) |
 | Arcade Archives: Aqua Jet | 361237 | [361237-arcade-archives-aqua-jet.json](./361237-arcade-archives-aqua-jet.json) |
 | Arcade Archives: Arabian | 144673 | [144673-arcade-archives-arabian.json](./144673-arcade-archives-arabian.json) |
+| Arcade Archives: Argus | 107556 | [107556-arcade-archives-argus.json](./107556-arcade-archives-argus.json) |
 | Arcade Archives: Ark Area | 121425 | [121425-arcade-archives-ark-area.json](./121425-arcade-archives-ark-area.json) |
 | Arcade Archives: Armadillo Racing | 411152 | [411152-arcade-archives-armadillo-racing.json](./411152-arcade-archives-armadillo-racing.json) |
 | Arcade Archives: Armed F | 99546 | [99546-arcade-archives-armed-f.json](./99546-arcade-archives-armed-f.json) |
