@@ -13971,6 +13971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cruel Jewels | 261327 | [261327-cruel-jewels.json](./261327-cruel-jewels.json) |
 | Cruel Reality: A Horrible Dream | 249868 | [249868-cruel-reality-a-horrible-dream.json](./249868-cruel-reality-a-horrible-dream.json) |
 | Cruel TD | 161721 | [161721-cruel-td.json](./161721-cruel-td.json) |
+| Cruel World | 145352 | [145352-cruel-world.json](./145352-cruel-world.json) |
 | Cruel World | 73545 | [73545-cruel-world.json](./73545-cruel-world.json) |
 | Cruellete | 335676 | [335676-cruellete.json](./335676-cruellete.json) |
 | Cruelty | 304249 | [304249-cruelty.json](./304249-cruelty.json) |
