@@ -802,6 +802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galer: Plague of Heroes | 31924 | [31924-galer-plague-of-heroes.json](./31924-galer-plague-of-heroes.json) |
 | Galerians: Ash | 19629 | [19629-galerians-ash.json](./19629-galerians-ash.json) |
 | Galerians: Limited Edition | 146856 | [146856-galerians-limited-edition.json](./146856-galerians-limited-edition.json) |
+| Galerider | 110047 | [110047-galerider.json](./110047-galerider.json) |
 | Galexia Educational Games | 106483 | [106483-galexia-educational-games.json](./106483-galexia-educational-games.json) |
 | Galf | 131401 | [131401-galf.json](./131401-galf.json) |
 | Galf Streem | 386936 | [386936-galf-streem.json](./386936-galf-streem.json) |
@@ -1388,6 +1389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garbage Incident | 420487 | [420487-garbage-incident.json](./420487-garbage-incident.json) |
 | Garbage Packer | 404406 | [404406-garbage-packer.json](./404406-garbage-packer.json) |
 | Garbage Pail Kids: Mad Mike and the Quest for Stale Gum | 221146 | [221146-garbage-pail-kids-mad-mike-and-the-quest-for-stale-gum.json](./221146-garbage-pail-kids-mad-mike-and-the-quest-for-stale-gum.json) |
+| Garbage Pail Kids: The Game | 110049 | [110049-garbage-pail-kids-the-game.json](./110049-garbage-pail-kids-the-game.json) |
 | Garbage Scow Captain | 317813 | [317813-garbage-scow-captain.json](./317813-garbage-scow-captain.json) |
 | Garbage Truck Driving Simulator | 256561 | [256561-garbage-truck-driving-simulator.json](./256561-garbage-truck-driving-simulator.json) |
 | Garbage Truck Sim Driver Simulator 26 | 394477 | [394477-garbage-truck-sim-driver-simulator-26.json](./394477-garbage-truck-sim-driver-simulator-26.json) |
@@ -8114,6 +8116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guitar Fretter | 134902 | [134902-guitar-fretter.json](./134902-guitar-fretter.json) |
 | Guitar Girl | 138548 | [138548-guitar-girl.json](./138548-guitar-girl.json) |
 | Guitar Girl Match 3 | 193930 | [193930-guitar-girl-match-3.json](./193930-guitar-girl-match-3.json) |
+| Guitar Godz VR | 110021 | [110021-guitar-godz-vr.json](./110021-guitar-godz-vr.json) |
 | Guitar Hardness | 55784 | [55784-guitar-hardness.json](./55784-guitar-hardness.json) |
 | Guitar Hero | 1285 | [1285-guitar-hero.json](./1285-guitar-hero.json) |
 | Guitar Hero | 210101 | [210101-guitar-hero.json](./210101-guitar-hero.json) |
