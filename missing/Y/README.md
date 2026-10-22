@@ -549,6 +549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yo-Kai Watch Wibble Wobble: The Great Detective Nekomata | 397922 | [397922-yo-kai-watch-wibble-wobble-the-great-detective-nekomata.json](./397922-yo-kai-watch-wibble-wobble-the-great-detective-nekomata.json) |
 | Yo-kai Watch World | 104254 | [104254-yo-kai-watch-world.json](./104254-yo-kai-watch-world.json) |
 | Yo-Kai Watch: Puni-Puni | 199971 | [199971-yo-kai-watch-puni-puni.json](./199971-yo-kai-watch-puni-puni.json) |
+| Yo-Yo Shuriken | 134280 | [134280-yo-yo-shuriken.json](./134280-yo-yo-shuriken.json) |
 | Yo, Matias 2: Fantasmas y Calabazas | 343312 | [343312-yo-matias-2-fantasmas-y-calabazas.json](./343312-yo-matias-2-fantasmas-y-calabazas.json) |
 | Yo, Matias 3: Cazador de Golosinas | 343947 | [343947-yo-matias-3-cazador-de-golosinas.json](./343947-yo-matias-3-cazador-de-golosinas.json) |
 | Yo, Matias 4: Viajero del Tiempo | 343949 | [343949-yo-matias-4-viajero-del-tiempo.json](./343949-yo-matias-4-viajero-del-tiempo.json) |
@@ -803,6 +804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You and I, at the End of That Summer | 375293 | [375293-you-and-i-at-the-end-of-that-summer.json](./375293-you-and-i-at-the-end-of-that-summer.json) |
 | You and Me | 200348 | [200348-you-and-me.json](./200348-you-and-me.json) |
 | You and Me and Her: A Love Story | 133256 | [133256-you-and-me-and-her-a-love-story.json](./133256-you-and-me-and-her-a-love-story.json) |
+| You and Not You | 134281 | [134281-you-and-not-you.json](./134281-you-and-not-you.json) |
 | You Are 100k Light Years Away | 252933 | [252933-you-are-100k-light-years-away.json](./252933-you-are-100k-light-years-away.json) |
 | You Are A Bird | 130147 | [130147-you-are-a-bird.json](./130147-you-are-a-bird.json) |
 | You Are a Failed Murderer | 338337 | [338337-you-are-a-failed-murderer.json](./338337-you-are-a-failed-murderer.json) |
