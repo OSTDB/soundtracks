@@ -1545,6 +1545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hardcore Soldier | 406214 | [406214-hardcore-soldier.json](./406214-hardcore-soldier.json) |
 | Hardcore Survival | 65811 | [65811-hardcore-survival.json](./65811-hardcore-survival.json) |
 | Hardcore Trivia | 169848 | [169848-hardcore-trivia.json](./169848-hardcore-trivia.json) |
+| Hardcore Weapon Challenge - FPS Action | 103834 | [103834-hardcore-weapon-challenge-fps-action.json](./103834-hardcore-weapon-challenge-fps-action.json) |
 | Hardcore: The Game | 181053 | [181053-hardcore-the-game.json](./181053-hardcore-the-game.json) |
 | HardCube | 32302 | [32302-hardcube.json](./32302-hardcube.json) |
 | HardCube 2 | 220033 | [220033-hardcube-2.json](./220033-hardcube-2.json) |
@@ -3401,6 +3402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hellmart | 351155 | [351155-hellmart.json](./351155-hellmart.json) |
 | Hellmaster: The Legend of Dante | 349182 | [349182-hellmaster-the-legend-of-dante.json](./349182-hellmaster-the-legend-of-dante.json) |
 | Hellmate | 338725 | [338725-hellmate.json](./338725-hellmate.json) |
+| HellMaze | 103827 | [103827-hellmaze.json](./103827-hellmaze.json) |
 | Hellmet: Seven Circles Down | 278432 | [278432-hellmet-seven-circles-down.json](./278432-hellmet-seven-circles-down.json) |
 | HellMoo | 92054 | [92054-hellmoo.json](./92054-hellmoo.json) |
 | Hellmouth | 314693 | [314693-hellmouth.json](./314693-hellmouth.json) |
@@ -8691,6 +8693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House Quest 2 | 322834 | [322834-house-quest-2.json](./322834-house-quest-2.json) |
 | House Renovator Simulator | 350052 | [350052-house-renovator-simulator.json](./350052-house-renovator-simulator.json) |
 | House Sitter Escape Game | 241290 | [241290-house-sitter-escape-game.json](./241290-house-sitter-escape-game.json) |
+| House Spider Survival Simulator 3D | 103917 | [103917-house-spider-survival-simulator-3d.json](./103917-house-spider-survival-simulator-3d.json) |
 | House spirit cat | 279768 | [279768-house-spirit-cat.json](./279768-house-spirit-cat.json) |
 | House Tidy | 384178 | [384178-house-tidy.json](./384178-house-tidy.json) |
 | House Tycoon: Spin slot machine | 221347 | [221347-house-tycoon-spin-slot-machine.json](./221347-house-tycoon-spin-slot-machine.json) |
