@@ -548,6 +548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zen Studios VR Collection | 107642 | [107642-zen-studios-vr-collection.json](./107642-zen-studios-vr-collection.json) |
 | Zen Trails | 173074 | [173074-zen-trails.json](./173074-zen-trails.json) |
 | Zen Training | 316067 | [316067-zen-training.json](./316067-zen-training.json) |
+| Zen Twins | 102629 | [102629-zen-twins.json](./102629-zen-twins.json) |
 | Zen Universe | 133094 | [133094-zen-universe.json](./133094-zen-universe.json) |
 | Zen Vs Gravity | 110893 | [110893-zen-vs-gravity.json](./110893-zen-vs-gravity.json) |
 | Zen Wars | 200187 | [200187-zen-wars.json](./200187-zen-wars.json) |
@@ -1551,6 +1552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombies Don't Drive | 150014 | [150014-zombies-dont-drive.json](./150014-zombies-dont-drive.json) |
 | Zombies Everywhere 2 | 174068 | [174068-zombies-everywhere-2.json](./174068-zombies-everywhere-2.json) |
 | Zombies Everywhere 3 | 405736 | [405736-zombies-everywhere-3.json](./405736-zombies-everywhere-3.json) |
+| Zombies Everywhere! Augmented Reality Apocalypse (Halloween Edition) | 102652 | [102652-zombies-everywhere-augmented-reality-apocalypse-halloween-edition.json](./102652-zombies-everywhere-augmented-reality-apocalypse-halloween-edition.json) |
 | Zombies in City: Apocalypse Survival | 215115 | [215115-zombies-in-city-apocalypse-survival.json](./215115-zombies-in-city-apocalypse-survival.json) |
 | Zombies in Metropolis | 230898 | [230898-zombies-in-metropolis.json](./230898-zombies-in-metropolis.json) |
 | Zombies in Space | 143602 | [143602-zombies-in-space.json](./143602-zombies-in-space.json) |
