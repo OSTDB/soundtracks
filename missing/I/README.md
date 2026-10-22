@@ -4258,6 +4258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inverse Ninjas vs. The Public Domain | 277593 | [277593-inverse-ninjas-vs-the-public-domain.json](./277593-inverse-ninjas-vs-the-public-domain.json) |
 | Inversed | 310575 | [310575-inversed.json](./310575-inversed.json) |
 | Inversed World | 237531 | [237531-inversed-world.json](./237531-inversed-world.json) |
+| Inversion | 150997 | [150997-inversion.json](./150997-inversion.json) |
 | Inversion | 7020 | [7020-inversion.json](./7020-inversion.json) |
 | Inversion Day | 404345 | [404345-inversion-day.json](./404345-inversion-day.json) |
 | Inversion Institute | 220038 | [220038-inversion-institute.json](./220038-inversion-institute.json) |
@@ -4971,6 +4972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isometric Factories | 391647 | [391647-isometric-factories.json](./391647-isometric-factories.json) |
 | Isometric Squares | 175356 | [175356-isometric-squares.json](./175356-isometric-squares.json) |
 | Isometric World | 204279 | [204279-isometric-world.json](./204279-isometric-world.json) |
+| Isometric World: Frame of Mind | 150922 | [150922-isometric-world-frame-of-mind.json](./150922-isometric-world-frame-of-mind.json) |
 | Isomorph | 31614 | [31614-isomorph.json](./31614-isomorph.json) |
 | Isonzo: Collector's Edition | 218548 | [218548-isonzo-collectors-edition.json](./218548-isonzo-collectors-edition.json) |
 | Isonzo: Expedition Units | 303277 | [303277-isonzo-expedition-units.json](./303277-isonzo-expedition-units.json) |
@@ -5003,6 +5005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Istanbul | 274194 | [274194-istanbul.json](./274194-istanbul.json) |
 | Istanbul, Texas | 159071 | [159071-istanbul-texas.json](./159071-istanbul-texas.json) |
 | Istaria: Chronicles of the Gifted | 9578 | [9578-istaria-chronicles-of-the-gifted.json](./9578-istaria-chronicles-of-the-gifted.json) |
+| Istoria | 150907 | [150907-istoria.json](./150907-istoria.json) |
 | Istorii Uzhasov: Voskreshenie | 368244 | [368244-istorii-uzhasov-voskreshenie.json](./368244-istorii-uzhasov-voskreshenie.json) |
 | Istoriya Bomzha | 368251 | [368251-istoriya-bomzha.json](./368251-istoriya-bomzha.json) |
 | iStorm | 29111 | [29111-istorm.json](./29111-istorm.json) |
