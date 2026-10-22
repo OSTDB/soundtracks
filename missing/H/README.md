@@ -4331,6 +4331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Her Love Just Washed Away | 261957 | [261957-her-love-just-washed-away.json](./261957-her-love-just-washed-away.json) |
 | Her Love, Like Poison | 332442 | [332442-her-love-like-poison.json](./332442-her-love-like-poison.json) |
 | Her Majesty's Apathy Bomb | 180709 | [180709-her-majestys-apathy-bomb.json](./180709-her-majestys-apathy-bomb.json) |
+| Her Majesty's Ship | 124478 | [124478-her-majestys-ship.json](./124478-her-majestys-ship.json) |
 | Her Name | 222756 | [222756-her-name.json](./222756-her-name.json) |
 | Her Name Was Fire | 209779 | [209779-her-name-was-fire.json](./209779-her-name-was-fire.json) |
 | Her New Memory | 152295 | [152295-her-new-memory.json](./152295-her-new-memory.json) |
@@ -8251,6 +8252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Steam | 231300 | [231300-hot-steam.json](./231300-hot-steam.json) |
 | Hot Tentacles Shooter | 197528 | [197528-hot-tentacles-shooter.json](./197528-hot-tentacles-shooter.json) |
 | Hot Therapy | 243557 | [243557-hot-therapy.json](./243557-hot-therapy.json) |
+| Hot Throttle | 124467 | [124467-hot-throttle.json](./124467-hot-throttle.json) |
 | Hot Tin Roof: The Cat That Wore a Fedora | 26875 | [26875-hot-tin-roof-the-cat-that-wore-a-fedora.json](./26875-hot-tin-roof-the-cat-that-wore-a-fedora.json) |
 | Hot Tub Simulator | 165373 | [165373-hot-tub-simulator.json](./165373-hot-tub-simulator.json) |
 | Hot Vacation | 173835 | [173835-hot-vacation.json](./173835-hot-vacation.json) |
@@ -9173,6 +9175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hundred Fires: The Rising of Red Star Episode 2 | 400067 | [400067-hundred-fires-the-rising-of-red-star-episode-2.json](./400067-hundred-fires-the-rising-of-red-star-episode-2.json) |
 | Hundred Furious Fist Momoko: Wonderful Pink 2 | 228710 | [228710-hundred-furious-fist-momoko-wonderful-pink-2.json](./228710-hundred-furious-fist-momoko-wonderful-pink-2.json) |
 | Hundred Nights: DIFU | 395236 | [395236-hundred-nights-difu.json](./395236-hundred-nights-difu.json) |
+| Hundred Soul | 124463 | [124463-hundred-soul.json](./124463-hundred-soul.json) |
 | Hundred Soul: The Last Savior | 174678 | [174678-hundred-soul-the-last-savior.json](./174678-hundred-soul-the-last-savior.json) |
 | Hundred Swords | 12435 | [12435-hundred-swords.json](./12435-hundred-swords.json) |
 | Hundreds | 21905 | [21905-hundreds.json](./21905-hundreds.json) |
