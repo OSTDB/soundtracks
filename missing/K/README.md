@@ -939,6 +939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Katekyou Hitman Reborn! DS: Mafia Daishuugou Vongola Festival | 70568 | [70568-katekyou-hitman-reborn-ds-mafia-daishuugou-vongola-festival.json](./70568-katekyou-hitman-reborn-ds-mafia-daishuugou-vongola-festival.json) |
 | Katekyou Hitman Reborn! DS: Shinuki Max! Vongola Carnival!! | 123339 | [123339-katekyou-hitman-reborn-ds-shinuki-max-vongola-carnival.json](./123339-katekyou-hitman-reborn-ds-shinuki-max-vongola-carnival.json) |
 | Katekyou Hitman Reborn! DS: Vongola Shiki Taisen Battle Sugoroku | 331653 | [331653-katekyou-hitman-reborn-ds-vongola-shiki-taisen-battle-sugoroku.json](./331653-katekyou-hitman-reborn-ds-vongola-shiki-taisen-battle-sugoroku.json) |
+| Katekyou Hitman Reborn! Kindan no Yami no Delta | 126291 | [126291-katekyou-hitman-reborn-kindan-no-yami-no-delta.json](./126291-katekyou-hitman-reborn-kindan-no-yami-no-delta.json) |
 | Katekyou Hitman Reborn!: Dream Hyper Battle! | 4949 | [4949-katekyou-hitman-reborn-dream-hyper-battle.json](./4949-katekyou-hitman-reborn-dream-hyper-battle.json) |
 | Katekyou Hitman Reborn!: Kizuna no Tag Battle | 137395 | [137395-katekyou-hitman-reborn-kizuna-no-tag-battle.json](./137395-katekyou-hitman-reborn-kizuna-no-tag-battle.json) |
 | Katekyou Hitman Reborn!: Nerae!? Ring x Vongola Trainers | 305271 | [305271-katekyou-hitman-reborn-nerae-ring-x-vongola-trainers.json](./305271-katekyou-hitman-reborn-nerae-ring-x-vongola-trainers.json) |
@@ -2162,7 +2163,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
-| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
 | Kimi ni Steady | 263693 | [263693-kimi-ni-steady.json](./263693-kimi-ni-steady.json) |
@@ -2800,6 +2800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kings under the hill | 31390 | [31390-kings-under-the-hill.json](./31390-kings-under-the-hill.json) |
 | Kings' Cross | 112354 | [112354-kings-cross.json](./112354-kings-cross.json) |
 | Kingsblood | 216706 | [216706-kingsblood.json](./216706-kingsblood.json) |
+| Kingsborn | 126279 | [126279-kingsborn.json](./126279-kingsborn.json) |
 | Kingsburg Serving the Crown | 205090 | [205090-kingsburg-serving-the-crown.json](./205090-kingsburg-serving-the-crown.json) |
 | Kingshunt | 114738 | [114738-kingshunt.json](./114738-kingshunt.json) |
 | Kingsland Online | 137551 | [137551-kingsland-online.json](./137551-kingsland-online.json) |
