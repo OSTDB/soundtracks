@@ -11163,6 +11163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brain Tester: Mind trick quiz | 233650 | [233650-brain-tester-mind-trick-quiz.json](./233650-brain-tester-mind-trick-quiz.json) |
 | Brain Tester: Mind Trick Quiz 2 | 301839 | [301839-brain-tester-mind-trick-quiz-2.json](./301839-brain-tester-mind-trick-quiz-2.json) |
 | Brain Trainer: Spot the Difference | 99384 | [99384-brain-trainer-spot-the-difference.json](./99384-brain-trainer-spot-the-difference.json) |
+| Brain Training 3D | 145312 | [145312-brain-training-3d.json](./145312-brain-training-3d.json) |
 | Brain Training! Order Quiz | 403739 | [403739-brain-training-order-quiz.json](./403739-brain-training-order-quiz.json) |
 | Brain Training! Perfect Memory | 365559 | [365559-brain-training-perfect-memory.json](./365559-brain-training-perfect-memory.json) |
 | Brain Training!! Hiragana ＆ Katakana Search | 316199 | [316199-brain-training-hiragana-and-katakana-search.json](./316199-brain-training-hiragana-and-katakana-search.json) |
