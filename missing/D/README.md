@@ -1010,6 +1010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Alley | 420537 | [420537-dark-alley.json](./420537-dark-alley.json) |
 | Dark Alley Escape | 315671 | [315671-dark-alley-escape.json](./315671-dark-alley-escape.json) |
 | Dark Alleys: Penumbra Motel | 139755 | [139755-dark-alleys-penumbra-motel.json](./139755-dark-alleys-penumbra-motel.json) |
+| Dark Alleys: Penumbra Motel - Collector's Edition | 126281 | [126281-dark-alleys-penumbra-motel-collectors-edition.json](./126281-dark-alleys-penumbra-motel-collectors-edition.json) |
 | Dark Alliances | 381339 | [381339-dark-alliances.json](./381339-dark-alliances.json) |
 | Dark and Bright | 51552 | [51552-dark-and-bright.json](./51552-dark-and-bright.json) |
 | Dark and Evil | 277773 | [277773-dark-and-evil.json](./277773-dark-and-evil.json) |
@@ -1269,6 +1270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Legion | 27574 | [27574-dark-legion.json](./27574-dark-legion.json) |
 | Dark Lessons | 285002 | [285002-dark-lessons.json](./285002-dark-lessons.json) |
 | Dark Life Excalibur | 258115 | [258115-dark-life-excalibur.json](./258115-dark-life-excalibur.json) |
+| Dark Light | 126237 | [126237-dark-light.json](./126237-dark-light.json) |
 | Dark Light | 318711 | [318711-dark-light.json](./318711-dark-light.json) |
 | Dark Light Swap | 180639 | [180639-dark-light-swap.json](./180639-dark-light-swap.json) |
 | Dark Light: Survivor | 317334 | [317334-dark-light-survivor.json](./317334-dark-light-survivor.json) |
