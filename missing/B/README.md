@@ -1493,6 +1493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Banana Ranch | 303267 | [303267-banana-ranch.json](./303267-banana-ranch.json) |
 | Banana Republic | 416053 | [416053-banana-republic.json](./416053-banana-republic.json) |
 | Banana Sbang | 271179 | [271179-banana-sbang.json](./271179-banana-sbang.json) |
+| Banana Shop | 143534 | [143534-banana-shop.json](./143534-banana-shop.json) |
 | Banana Simulator | 312450 | [312450-banana-simulator.json](./312450-banana-simulator.json) |
 | Banana Tap | 314875 | [314875-banana-tap.json](./314875-banana-tap.json) |
 | Banana Yetti | 249054 | [249054-banana-yetti.json](./249054-banana-yetti.json) |
@@ -3656,6 +3657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Be Her Hero | 210518 | [210518-be-her-hero.json](./210518-be-her-hero.json) |
 | Be Hero | 137917 | [137917-be-hero.json](./137917-be-hero.json) |
 | Be Honest | 305536 | [305536-be-honest.json](./305536-be-honest.json) |
+| Be Hunted | 143531 | [143531-be-hunted.json](./143531-be-hunted.json) |
 | Be Kind Rewind | 411148 | [411148-be-kind-rewind.json](./411148-be-kind-rewind.json) |
 | Be Kind To Yourself | 328241 | [328241-be-kind-to-yourself.json](./328241-be-kind-to-yourself.json) |
 | Be King | 254142 | [254142-be-king.json](./254142-be-king.json) |
@@ -3666,6 +3668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Be My Princess | 238419 | [238419-be-my-princess.json](./238419-be-my-princess.json) |
 | Be My Princess 2 | 238421 | [238421-be-my-princess-2.json](./238421-be-my-princess-2.json) |
 | Be My Princess: Party | 238420 | [238420-be-my-princess-party.json](./238420-be-my-princess-party.json) |
+| Be Not Afraid A.K.A. Seraphim Horror Show!? | 143552 | [143552-be-not-afraid-a-k-a-seraphim-horror-show.json](./143552-be-not-afraid-a-k-a-seraphim-horror-show.json) |
 | Be Not Afraid, But Run | 283990 | [283990-be-not-afraid-but-run.json](./283990-be-not-afraid-but-run.json) |
 | Be Not Afraid: Threads of Light | 383098 | [383098-be-not-afraid-threads-of-light.json](./383098-be-not-afraid-threads-of-light.json) |
 | Be Nunner | 391051 | [391051-be-nunner.json](./391051-be-nunner.json) |
@@ -6975,6 +6978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Jack | 366927 | [366927-black-jack.json](./366927-black-jack.json) |
 | Black Jack | 391650 | [391650-black-jack.json](./391650-black-jack.json) |
 | Black Jack Story | 99029 | [99029-black-jack-story.json](./99029-black-jack-story.json) |
+| Black Jack World Tour | 143541 | [143541-black-jack-world-tour.json](./143541-black-jack-world-tour.json) |
 | Black Jackal | 265480 | [265480-black-jackal.json](./265480-black-jackal.json) |
 | Black Jacket | 372112 | [372112-black-jacket.json](./372112-black-jacket.json) |
 | Black Jewel | 76509 | [76509-black-jewel.json](./76509-black-jewel.json) |
@@ -8785,6 +8789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BloodyXmas 2010 | 257789 | [257789-bloodyxmas-2010.json](./257789-bloodyxmas-2010.json) |
 | Bloodz | 217211 | [217211-bloodz.json](./217211-bloodz.json) |
 | Bloom | 110476 | [110476-bloom.json](./110476-bloom.json) |
+| Bloom | 143535 | [143535-bloom.json](./143535-bloom.json) |
 | Bloom | 185362 | [185362-bloom.json](./185362-bloom.json) |
 | Bloom | 198149 | [198149-bloom.json](./198149-bloom.json) |
 | Bloom | 263568 | [263568-bloom.json](./263568-bloom.json) |
@@ -9986,6 +9991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boobsle | 284269 | [284269-boobsle.json](./284269-boobsle.json) |
 | Booby Kids | 7796 | [7796-booby-kids.json](./7796-booby-kids.json) |
 | BoobyRogue: Tumor Takedown | 373295 | [373295-boobyrogue-tumor-takedown.json](./373295-boobyrogue-tumor-takedown.json) |
+| Boodunnit | 143556 | [143556-boodunnit.json](./143556-boodunnit.json) |
 | Booeys: Rip in the Rift | 292246 | [292246-booeys-rip-in-the-rift.json](./292246-booeys-rip-in-the-rift.json) |
 | Boofie's Birthday Adventure | 340246 | [340246-boofies-birthday-adventure.json](./340246-boofies-birthday-adventure.json) |
 | Boofle's Home | 29068 | [29068-boofles-home.json](./29068-boofles-home.json) |
@@ -12305,6 +12311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BROMS: Battle Royale Management Simulator | 410877 | [410877-broms-battle-royale-management-simulator.json](./410877-broms-battle-royale-management-simulator.json) |
 | Bronana | 320441 | [320441-bronana.json](./320441-bronana.json) |
 | Bronk's Jungle Adventure | 143679 | [143679-bronks-jungle-adventure.json](./143679-bronks-jungle-adventure.json) |
+| Bronk's Skyglide Challenge | 143553 | [143553-bronks-skyglide-challenge.json](./143553-bronks-skyglide-challenge.json) |
 | Bronkie the Bronchiasaurus | 42624 | [42624-bronkie-the-bronchiasaurus.json](./42624-bronkie-the-bronchiasaurus.json) |
 | Bronx | 122240 | [122240-bronx.json](./122240-bronx.json) |
 | Brony Cards | 312214 | [312214-brony-cards.json](./312214-brony-cards.json) |
