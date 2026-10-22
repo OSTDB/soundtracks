@@ -11421,6 +11421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ask Her Out | 181881 | [181881-ask-her-out.json](./181881-ask-her-out.json) |
 | Ask Madame Clairvoya | 231628 | [231628-ask-madame-clairvoya.json](./231628-ask-madame-clairvoya.json) |
 | Aska | 230569 | [230569-aska.json](./230569-aska.json) |
+| Askara | 155929 | [155929-askara.json](./155929-askara.json) |
 | Aske | 165008 | [165008-aske.json](./165008-aske.json) |
 | Askisi Gamma | 271718 | [271718-askisi-gamma.json](./271718-askisi-gamma.json) |
 | Askold: Path of the Shadow | 157463 | [157463-askold-path-of-the-shadow.json](./157463-askold-path-of-the-shadow.json) |
