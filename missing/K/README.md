@@ -1294,6 +1294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kemco RPG Omnibus | 130304 | [130304-kemco-rpg-omnibus.json](./130304-kemco-rpg-omnibus.json) |
 | Kemco RPG Selection Vol. 3 | 130312 | [130312-kemco-rpg-selection-vol-3.json](./130312-kemco-rpg-selection-vol-3.json) |
 | Kemco RPG Selection Vol. 6 | 140887 | [140887-kemco-rpg-selection-vol-6.json](./140887-kemco-rpg-selection-vol-6.json) |
+| Kemco RPG Selection Vol. 7 | 146017 | [146017-kemco-rpg-selection-vol-7.json](./146017-kemco-rpg-selection-vol-7.json) |
 | Kemco RPG Selection Vol. 9 | 186664 | [186664-kemco-rpg-selection-vol-9.json](./186664-kemco-rpg-selection-vol-9.json) |
 | Kemco: 50 RPGs Celebratory Bundle | 259865 | [259865-kemco-50-rpgs-celebratory-bundle.json](./259865-kemco-50-rpgs-celebratory-bundle.json) |
 | Kemeko Deluxe! DS: Yome to Meka to Otoko to Onna | 123343 | [123343-kemeko-deluxe-ds-yome-to-meka-to-otoko-to-onna.json](./123343-kemeko-deluxe-ds-yome-to-meka-to-otoko-to-onna.json) |
