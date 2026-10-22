@@ -734,7 +734,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -3278,10 +3277,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlefield | 290355 | [290355-battlefield.json](./290355-battlefield.json) |
 | Battlefield : Run | 96215 | [96215-battlefield-run.json](./96215-battlefield-run.json) |
 | Battlefield 1: Apocalypse | 82528 | [82528-battlefield-1-apocalypse.json](./82528-battlefield-1-apocalypse.json) |
+| Battlefield 1: Deluxe Collector's Edition | 112636 | [112636-battlefield-1-deluxe-collectors-edition.json](./112636-battlefield-1-deluxe-collectors-edition.json) |
+| Battlefield 1: Early Enlister Deluxe Edition | 112635 | [112635-battlefield-1-early-enlister-deluxe-edition.json](./112635-battlefield-1-early-enlister-deluxe-edition.json) |
 | Battlefield 1: In the Name of the Tsar | 28966 | [28966-battlefield-1-in-the-name-of-the-tsar.json](./28966-battlefield-1-in-the-name-of-the-tsar.json) |
 | Battlefield 1: Premium Edition | 166991 | [166991-battlefield-1-premium-edition.json](./166991-battlefield-1-premium-edition.json) |
 | Battlefield 1: Revolution | 94085 | [94085-battlefield-1-revolution.json](./94085-battlefield-1-revolution.json) |
 | Battlefield 1: Revolution and Titanfall 2: Ultimate Edition Bundle | 136365 | [136365-battlefield-1-revolution-and-titanfall-2-ultimate-edition-bundle.json](./136365-battlefield-1-revolution-and-titanfall-2-ultimate-edition-bundle.json) |
+| Battlefield 1: Standard Collector's Edition | 112637 | [112637-battlefield-1-standard-collectors-edition.json](./112637-battlefield-1-standard-collectors-edition.json) |
 | Battlefield 1: They Shall Not Pass | 26941 | [26941-battlefield-1-they-shall-not-pass.json](./26941-battlefield-1-they-shall-not-pass.json) |
 | Battlefield 1: Turning Tides | 76190 | [76190-battlefield-1-turning-tides.json](./76190-battlefield-1-turning-tides.json) |
 | Battlefield 1: Ultimate Edition | 52640 | [52640-battlefield-1-ultimate-edition.json](./52640-battlefield-1-ultimate-edition.json) |
@@ -3314,6 +3316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlefield Armor | 105359 | [105359-battlefield-armor.json](./105359-battlefield-armor.json) |
 | BattleField BattleFront | 297373 | [297373-battlefield-battlefront.json](./297373-battlefield-battlefront.json) |
 | Battlefield Bundle | 83506 | [83506-battlefield-bundle.json](./83506-battlefield-bundle.json) |
+| Battlefield Hardline: Betrayal | 112639 | [112639-battlefield-hardline-betrayal.json](./112639-battlefield-hardline-betrayal.json) |
 | Battlefield Hardline: Criminal Activity | 18023 | [18023-battlefield-hardline-criminal-activity.json](./18023-battlefield-hardline-criminal-activity.json) |
 | Battlefield Hardline: Deluxe Edition | 99791 | [99791-battlefield-hardline-deluxe-edition.json](./99791-battlefield-hardline-deluxe-edition.json) |
 | Battlefield Hardline: Getaway | 18025 | [18025-battlefield-hardline-getaway.json](./18025-battlefield-hardline-getaway.json) |
@@ -12268,6 +12271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BRIO World | 352512 | [352512-brio-world.json](./352512-brio-world.json) |
 | Brio World: Railway | 374257 | [374257-brio-world-railway.json](./374257-brio-world-railway.json) |
 | Briquette Sprite | 87105 | [87105-briquette-sprite.json](./87105-briquette-sprite.json) |
+| Briquid | 112688 | [112688-briquid.json](./112688-briquid.json) |
 | Bris de Glace | 171987 | [171987-bris-de-glace.json](./171987-bris-de-glace.json) |
 | Brisca | 359211 | [359211-brisca.json](./359211-brisca.json) |
 | Briscola | 100011 | [100011-briscola.json](./100011-briscola.json) |
