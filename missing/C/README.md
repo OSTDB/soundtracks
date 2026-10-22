@@ -5909,6 +5909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Choices Matter: Mega City | 319457 | [319457-choices-matter-mega-city.json](./319457-choices-matter-mega-city.json) |
 | Choices That Matter: And the Sun Went Out | 147698 | [147698-choices-that-matter-and-the-sun-went-out.json](./147698-choices-that-matter-and-the-sun-went-out.json) |
 | Choices That Matter: And Their Heroes Were Lost | 147696 | [147696-choices-that-matter-and-their-heroes-were-lost.json](./147696-choices-that-matter-and-their-heroes-were-lost.json) |
+| Choices That Matter: And Their Souls Were Eaten | 147153 | [147153-choices-that-matter-and-their-souls-were-eaten.json](./147153-choices-that-matter-and-their-souls-were-eaten.json) |
 | Choices, the Game | 83531 | [83531-choices-the-game.json](./83531-choices-the-game.json) |
 | Choirsaintess | 367060 | [367060-choirsaintess.json](./367060-choirsaintess.json) |
 | Choju Yokai Giga | 151684 | [151684-choju-yokai-giga.json](./151684-choju-yokai-giga.json) |
@@ -10146,6 +10147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Concave Shooter | 186166 | [186166-concave-shooter.json](./186166-concave-shooter.json) |
 | Concealed | 139783 | [139783-concealed.json](./139783-concealed.json) |
 | Concealed Intent | 35142 | [35142-concealed-intent.json](./35142-concealed-intent.json) |
+| Concealment | 147066 | [147066-concealment.json](./147066-concealment.json) |
 | Concentration | 207016 | [207016-concentration.json](./207016-concentration.json) |
 | Concentration | 217829 | [217829-concentration.json](./217829-concentration.json) |
 | Concentration | 319797 | [319797-concentration.json](./319797-concentration.json) |
