@@ -8314,6 +8314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Club Pinball | 243691 | [243691-club-pinball.json](./243691-club-pinball.json) |
 | Club Soccer Director 2018 | 55160 | [55160-club-soccer-director-2018.json](./55160-club-soccer-director-2018.json) |
 | Club Soccer Director 2021 | 148859 | [148859-club-soccer-director-2021.json](./148859-club-soccer-director-2021.json) |
+| Club Soccer Director PRO 2020 | 120578 | [120578-club-soccer-director-pro-2020.json](./120578-club-soccer-director-pro-2020.json) |
 | Club Sports Collection Upgrade Edition | 397887 | [397887-club-sports-collection-upgrade-edition.json](./397887-club-sports-collection-upgrade-edition.json) |
 | Club Sports Collection: Definitive Edition | 400198 | [400198-club-sports-collection-definitive-edition.json](./400198-club-sports-collection-definitive-edition.json) |
 | Club Sports Collection: Premium Edition | 395676 | [395676-club-sports-collection-premium-edition.json](./395676-club-sports-collection-premium-edition.json) |
@@ -16140,6 +16141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cytron Masters | 22489 | [22489-cytron-masters.json](./22489-cytron-masters.json) |
 | Cytus | 27026 | [27026-cytus.json](./27026-cytus.json) |
 | Cytus Alpha | 106290 | [106290-cytus-alpha.json](./106290-cytus-alpha.json) |
+| Cytus Alpha: Collector's Edition | 120622 | [120622-cytus-alpha-collectors-edition.json](./120622-cytus-alpha-collectors-edition.json) |
 | Cytus II | 89095 | [89095-cytus-ii.json](./89095-cytus-ii.json) |
 | Cytus II: Miku | 358866 | [358866-cytus-ii-miku.json](./358866-cytus-ii-miku.json) |
 | Cytus Lambda | 80227 | [80227-cytus-lambda.json](./80227-cytus-lambda.json) |
