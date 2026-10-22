@@ -2729,6 +2729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heated | 211220 | [211220-heated.json](./211220-heated.json) |
 | Heated Battles Shooter | 143005 | [143005-heated-battles-shooter.json](./143005-heated-battles-shooter.json) |
 | Heath Robinson Solutions | 239152 | [239152-heath-robinson-solutions.json](./239152-heath-robinson-solutions.json) |
+| Heath: The Unchosen Path | 120615 | [120615-heath-the-unchosen-path.json](./120615-heath-the-unchosen-path.json) |
 | Heathcliff: Fun with Spelling | 325097 | [325097-heathcliff-fun-with-spelling.json](./325097-heathcliff-fun-with-spelling.json) |
 | Heathcliff: Spot On | 84526 | [84526-heathcliff-spot-on.json](./84526-heathcliff-spot-on.json) |
 | Heathen | 401473 | [401473-heathen.json](./401473-heathen.json) |
@@ -5958,6 +5959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Highlander: The Gathering | 67240 | [67240-highlander-the-gathering.json](./67240-highlander-the-gathering.json) |
 | Highlands, Deep Waters | 72513 | [72513-highlands-deep-waters.json](./72513-highlands-deep-waters.json) |
 | Highlaundry | 156208 | [156208-highlaundry.json](./156208-highlaundry.json) |
+| Highlight | 120591 | [120591-highlight.json](./120591-highlight.json) |
 | Highlighters: Cosmic Puzzle Action | 291851 | [291851-highlighters-cosmic-puzzle-action.json](./291851-highlighters-cosmic-puzzle-action.json) |
 | Highlights Puzzlemania | 209909 | [209909-highlights-puzzlemania.json](./209909-highlights-puzzlemania.json) |
 | Highline Volleyball VR | 315316 | [315316-highline-volleyball-vr.json](./315316-highline-volleyball-vr.json) |
