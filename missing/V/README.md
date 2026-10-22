@@ -1245,6 +1245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Versus Net Soccer | 361490 | [361490-versus-net-soccer.json](./361490-versus-net-soccer.json) |
 | Versus One | 387056 | [387056-versus-one.json](./387056-versus-one.json) |
 | Versus One | 391755 | [391755-versus-one.json](./391755-versus-one.json) |
+| Versus Pixels Battle 3D | 103109 | [103109-versus-pixels-battle-3d.json](./103109-versus-pixels-battle-3d.json) |
 | Versus Umbra | 165493 | [165493-versus-umbra.json](./165493-versus-umbra.json) |
 | Versus Vampire | 257923 | [257923-versus-vampire.json](./257923-versus-vampire.json) |
 | Versus World | 82466 | [82466-versus-world.json](./82466-versus-world.json) |
