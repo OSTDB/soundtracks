@@ -1499,6 +1499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Brothel Manager | 359037 | [359037-fantasy-brothel-manager.json](./359037-fantasy-brothel-manager.json) |
 | Fantasy Bump | 32696 | [32696-fantasy-bump.json](./32696-fantasy-bump.json) |
 | Fantasy Burger | 354537 | [354537-fantasy-burger.json](./354537-fantasy-burger.json) |
+| Fantasy Cards | 154319 | [154319-fantasy-cards.json](./154319-fantasy-cards.json) |
 | Fantasy Cascade: Episode 1 - Overspill | 218166 | [218166-fantasy-cascade-episode-1-overspill.json](./218166-fantasy-cascade-episode-1-overspill.json) |
 | Fantasy Checkers | 147207 | [147207-fantasy-checkers.json](./147207-fantasy-checkers.json) |
 | Fantasy Chronicle | 63213 | [63213-fantasy-chronicle.json](./63213-fantasy-chronicle.json) |
