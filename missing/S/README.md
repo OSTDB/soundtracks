@@ -5536,6 +5536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadowverse: Champion's Battle | 134301 | [134301-shadowverse-champions-battle.json](./134301-shadowverse-champions-battle.json) |
 | Shadowverse: Wonderland Dreams | 37072 | [37072-shadowverse-wonderland-dreams.json](./37072-shadowverse-wonderland-dreams.json) |
 | Shadowverse: Worlds Beyond | 339985 | [339985-shadowverse-worlds-beyond.json](./339985-shadowverse-worlds-beyond.json) |
+| Shadowy Contracts | 116741 | [116741-shadowy-contracts.json](./116741-shadowy-contracts.json) |
 | Shadwen | 14747 | [14747-shadwen.json](./14747-shadwen.json) |
 | Shady Brook | 27603 | [27603-shady-brook.json](./27603-shady-brook.json) |
 | Shady Brook - A Dark Mystery Text Adventure | 30903 | [30903-shady-brook-a-dark-mystery-text-adventure.json](./30903-shady-brook-a-dark-mystery-text-adventure.json) |
@@ -13054,6 +13055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Someone's Outside | 303174 | [303174-someones-outside.json](./303174-someones-outside.json) |
 | Someplace Else | 136387 | [136387-someplace-else.json](./136387-someplace-else.json) |
 | Something a Little Super | 352844 | [352844-something-a-little-super.json](./352844-something-a-little-super.json) |
+| Something Ate My Alien | 116749 | [116749-something-ate-my-alien.json](./116749-something-ate-my-alien.json) |
 | Something Bad is on the Moon | 309207 | [309207-something-bad-is-on-the-moon.json](./309207-something-bad-is-on-the-moon.json) |
 | Something Dark Beyond The Light | 353871 | [353871-something-dark-beyond-the-light.json](./353871-something-dark-beyond-the-light.json) |
 | Something Else | 283310 | [283310-something-else.json](./283310-something-else.json) |
@@ -14377,6 +14379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Huntress | 406657 | [406657-soul-huntress.json](./406657-soul-huntress.json) |
 | Soul Injector Commando | 322603 | [322603-soul-injector-commando.json](./322603-soul-injector-commando.json) |
 | Soul Interface | 302382 | [302382-soul-interface.json](./302382-soul-interface.json) |
+| Soul Island | 116743 | [116743-soul-island.json](./116743-soul-island.json) |
 | Soul Journey | 202115 | [202115-soul-journey.json](./202115-soul-journey.json) |
 | Soul King | 213453 | [213453-soul-king.json](./213453-soul-king.json) |
 | Soul King: Out of the Box | 298109 | [298109-soul-king-out-of-the-box.json](./298109-soul-king-out-of-the-box.json) |
@@ -21136,6 +21139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stop and Smell the Flowers | 399164 | [399164-stop-and-smell-the-flowers.json](./399164-stop-and-smell-the-flowers.json) |
 | Stop Ball | 273013 | [273013-stop-ball.json](./273013-stop-ball.json) |
 | Stop Burying Me Alive, Beautiful! | 270154 | [270154-stop-burying-me-alive-beautiful.json](./270154-stop-burying-me-alive-beautiful.json) |
+| Stop Cats | 116739 | [116739-stop-cats.json](./116739-stop-cats.json) |
 | Stop Dead | 254037 | [254037-stop-dead.json](./254037-stop-dead.json) |
 | Stop Online: Battle of Words | 34353 | [34353-stop-online-battle-of-words.json](./34353-stop-online-battle-of-words.json) |
 | Stop Sign Sprint | 263371 | [263371-stop-sign-sprint.json](./263371-stop-sign-sprint.json) |
@@ -26598,6 +26602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survival Fish.io: Hunger Game | 223898 | [223898-survival-fish-io-hunger-game.json](./223898-survival-fish-io-hunger-game.json) |
 | Survival Float Simulator: Crocodile Waters Craft, Raft, Build | 317453 | [317453-survival-float-simulator-crocodile-waters-craft-raft-build.json](./317453-survival-float-simulator-crocodile-waters-craft-raft-build.json) |
 | Survival Fort | 233416 | [233416-survival-fort.json](./233416-survival-fort.json) |
+| Survival Frenzy | 116733 | [116733-survival-frenzy.json](./116733-survival-frenzy.json) |
 | Survival Game Master | 212477 | [212477-survival-game-master.json](./212477-survival-game-master.json) |
 | Survival Games | 402335 | [402335-survival-games.json](./402335-survival-games.json) |
 | Survival Gladiator: Blades of the Coliseum | 322978 | [322978-survival-gladiator-blades-of-the-coliseum.json](./322978-survival-gladiator-blades-of-the-coliseum.json) |
