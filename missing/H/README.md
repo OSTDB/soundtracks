@@ -3183,6 +3183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell Runner | 229202 | [229202-hell-runner.json](./229202-hell-runner.json) |
 | Hell Scream | 271624 | [271624-hell-scream.json](./271624-hell-scream.json) |
 | Hell Shooter | 368654 | [368654-hell-shooter.json](./368654-hell-shooter.json) |
+| Hell Shuffle | 149820 | [149820-hell-shuffle.json](./149820-hell-shuffle.json) |
 | Hell Slayer | 232446 | [232446-hell-slayer.json](./232446-hell-slayer.json) |
 | Hell Spheres | 285455 | [285455-hell-spheres.json](./285455-hell-spheres.json) |
 | Hell Sports | 147743 | [147743-hell-sports.json](./147743-hell-sports.json) |
@@ -9398,6 +9399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Huntsman: The Orphanage | 10422 | [10422-huntsman-the-orphanage.json](./10422-huntsman-the-orphanage.json) |
 | Huntsman: The Orphanage - Halloween Edition | 30246 | [30246-huntsman-the-orphanage-halloween-edition.json](./30246-huntsman-the-orphanage-halloween-edition.json) |
 | Hunyadi Strategy | 197200 | [197200-hunyadi-strategy.json](./197200-hunyadi-strategy.json) |
+| HuoChaiRenRPG | 149827 | [149827-huochairenrpg.json](./149827-huochairenrpg.json) |
 | Huǒshùyínhuā | 350981 | [350981-huoshuyinhua.json](./350981-huoshuyinhua.json) |
 | Hup Hup The Cupcake | 303558 | [303558-hup-hup-the-cupcake.json](./303558-hup-hup-the-cupcake.json) |
 | Hupsi | 177436 | [177436-hupsi.json](./177436-hupsi.json) |
