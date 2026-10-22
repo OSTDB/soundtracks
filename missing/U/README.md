@@ -1329,6 +1329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Under Siege 2 | 204897 | [204897-under-siege-2.json](./204897-under-siege-2.json) |
 | Under Southern Skies | 25035 | [25035-under-southern-skies.json](./25035-under-southern-skies.json) |
 | Under Spire | 117686 | [117686-under-spire.json](./117686-under-spire.json) |
+| Under Stranger Stars | 116018 | [116018-under-stranger-stars.json](./116018-under-stranger-stars.json) |
 | Under the bed | 179728 | [179728-under-the-bed.json](./179728-under-the-bed.json) |
 | Under the Black Moon | 221651 | [221651-under-the-black-moon.json](./221651-under-the-black-moon.json) |
 | Under the Blue Horizon | 312722 | [312722-under-the-blue-horizon.json](./312722-under-the-blue-horizon.json) |
