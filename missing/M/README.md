@@ -962,6 +962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic New Year Escape 2 | 315701 | [315701-magic-new-year-escape-2.json](./315701-magic-new-year-escape-2.json) |
 | Magic Numbers 2 | 58764 | [58764-magic-numbers-2.json](./58764-magic-numbers-2.json) |
 | Magic Ocean: Multiplayer Roguelike | 141245 | [141245-magic-ocean-multiplayer-roguelike.json](./141245-magic-ocean-multiplayer-roguelike.json) |
+| Magic of Endoria | 119396 | [119396-magic-of-endoria.json](./119396-magic-of-endoria.json) |
 | Magic of Spring | 195561 | [195561-magic-of-spring.json](./195561-magic-of-spring.json) |
 | Magic Orbs | 125332 | [125332-magic-orbs.json](./125332-magic-orbs.json) |
 | Magic Paint | 88224 | [88224-magic-paint.json](./88224-magic-paint.json) |
@@ -1310,6 +1311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magink | 125877 | [125877-magink.json](./125877-magink.json) |
 | Magiopolis | 277048 | [277048-magiopolis.json](./277048-magiopolis.json) |
 | Magipanels | 218923 | [218923-magipanels.json](./218923-magipanels.json) |
+| Magirune | 119399 | [119399-magirune.json](./119399-magirune.json) |
 | Magirune 2 | 197178 | [197178-magirune-2.json](./197178-magirune-2.json) |
 | Magiscapes | 319287 | [319287-magiscapes.json](./319287-magiscapes.json) |
 | Magissy | 169843 | [169843-magissy.json](./169843-magissy.json) |
@@ -5556,6 +5558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medieval Story | 47162 | [47162-medieval-story.json](./47162-medieval-story.json) |
 | Medieval Tales Solitaire | 236254 | [236254-medieval-tales-solitaire.json](./236254-medieval-tales-solitaire.json) |
 | Medieval Tavern Simulator | 407369 | [407369-medieval-tavern-simulator.json](./407369-medieval-tavern-simulator.json) |
+| Medieval Times | 119345 | [119345-medieval-times.json](./119345-medieval-times.json) |
 | Medieval Towns | 112835 | [112835-medieval-towns.json](./112835-medieval-towns.json) |
 | Medieval Trader Simulator | 186119 | [186119-medieval-trader-simulator.json](./186119-medieval-trader-simulator.json) |
 | Medieval Warlord | 420505 | [420505-medieval-warlord.json](./420505-medieval-warlord.json) |
@@ -6376,6 +6379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MegaMan NT Warrior Advanced PET: Battle Chip - Wind | 352947 | [352947-megaman-nt-warrior-advanced-pet-battle-chip-wind.json](./352947-megaman-nt-warrior-advanced-pet-battle-chip-wind.json) |
 | Megaman RPG | 263421 | [263421-megaman-rpg.json](./263421-megaman-rpg.json) |
 | Megaman Sprite Christmas | 172595 | [172595-megaman-sprite-christmas.json](./172595-megaman-sprite-christmas.json) |
+| Megaman Sprite Game | 119383 | [119383-megaman-sprite-game.json](./119383-megaman-sprite-game.json) |
 | MegaMan Super Charged | 320359 | [320359-megaman-super-charged.json](./320359-megaman-super-charged.json) |
 | Megaman Triple Threat | 326813 | [326813-megaman-triple-threat.json](./326813-megaman-triple-threat.json) |
 | Megaman X in Sonic Blasting Adventure | 265221 | [265221-megaman-x-in-sonic-blasting-adventure.json](./265221-megaman-x-in-sonic-blasting-adventure.json) |
@@ -10001,6 +10005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Sudoku Keychain | 264240 | [264240-mini-sudoku-keychain.json](./264240-mini-sudoku-keychain.json) |
 | Mini Swim | 412157 | [412157-mini-swim.json](./412157-mini-swim.json) |
 | Mini Switcher | 412213 | [412213-mini-switcher.json](./412213-mini-switcher.json) |
+| Mini Switcher: Extended | 119409 | [119409-mini-switcher-extended.json](./119409-mini-switcher-extended.json) |
 | Mini Tank | 123897 | [123897-mini-tank.json](./123897-mini-tank.json) |
 | Mini Tank Mayhem | 327166 | [327166-mini-tank-mayhem.json](./327166-mini-tank-mayhem.json) |
 | Mini Taoism | 247318 | [247318-mini-taoism.json](./247318-mini-taoism.json) |
