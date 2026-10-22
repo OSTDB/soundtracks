@@ -1810,6 +1810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Humanity | 261964 | [261964-one-humanity.json](./261964-one-humanity.json) |
 | One Hundred Times Me | 114818 | [114818-one-hundred-times-me.json](./114818-one-hundred-times-me.json) |
 | One Hundred Ways | 13218 | [13218-one-hundred-ways.json](./13218-one-hundred-ways.json) |
+| One Hunt | 105149 | [105149-one-hunt.json](./105149-one-hunt.json) |
 | One Iced Latte With Your Breast Milk, Please! | 296688 | [296688-one-iced-latte-with-your-breast-milk-please.json](./296688-one-iced-latte-with-your-breast-milk-please.json) |
 | One Iced Latte: Milk Song | 387052 | [387052-one-iced-latte-milk-song.json](./387052-one-iced-latte-milk-song.json) |
 | One in 20,000 Raindrops | 405674 | [405674-one-in-20-000-raindrops.json](./405674-one-in-20-000-raindrops.json) |
