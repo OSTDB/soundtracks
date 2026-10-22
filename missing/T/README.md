@@ -3280,6 +3280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tennis World Tour: Roland-Garros pack | 237986 | [237986-tennis-world-tour-roland-garros-pack.json](./237986-tennis-world-tour-roland-garros-pack.json) |
 | Tennis World Tour: Stadium Pack | 169940 | [169940-tennis-world-tour-stadium-pack.json](./169940-tennis-world-tour-stadium-pack.json) |
 | Tennis-e | 170010 | [170010-tennis-e.json](./170010-tennis-e.json) |
+| Tennis. Amazing tournament | 120587 | [120587-tennis-amazing-tournament.json](./120587-tennis-amazing-tournament.json) |
 | Tennis/Squash | 92528 | [92528-tennis-squash.json](./92528-tennis-squash.json) |
 | Tennistronic | 311630 | [311630-tennistronic.json](./311630-tennistronic.json) |
 | TennisVR | 28664 | [28664-tennisvr.json](./28664-tennisvr.json) |
@@ -6599,6 +6600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dope Game: Dope Fiend Edition | 53726 | [53726-the-dope-game-dope-fiend-edition.json](./53726-the-dope-game-dope-fiend-edition.json) |
 | The Dot | 226205 | [226205-the-dot.json](./226205-the-dot.json) |
 | The Douchebag Workout | 393546 | [393546-the-douchebag-workout.json](./393546-the-douchebag-workout.json) |
+| The Doulos Study | 120581 | [120581-the-doulos-study.json](./120581-the-doulos-study.json) |
 | The Downgeon | 137640 | [137640-the-downgeon.json](./137640-the-downgeon.json) |
 | The Dowsing | 369085 | [369085-the-dowsing.json](./369085-the-dowsing.json) |
 | The Dracula Files | 206187 | [206187-the-dracula-files.json](./206187-the-dracula-files.json) |
@@ -7922,6 +7924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Gorge | 322392 | [322392-the-gorge.json](./322392-the-gorge.json) |
 | The Goto Family's: The Island Murder Case | 150112 | [150112-the-goto-familys-the-island-murder-case.json](./150112-the-goto-familys-the-island-murder-case.json) |
 | The Gourmet Factor | 308897 | [308897-the-gourmet-factor.json](./308897-the-gourmet-factor.json) |
+| The Governor | 120589 | [120589-the-governor.json](./120589-the-governor.json) |
 | The Grade 5B Case Files | 389007 | [389007-the-grade-5b-case-files.json](./389007-the-grade-5b-case-files.json) |
 | The Grading Game | 104541 | [104541-the-grading-game.json](./104541-the-grading-game.json) |
 | The Grafted Gear | 348665 | [348665-the-grafted-gear.json](./348665-the-grafted-gear.json) |
@@ -11225,6 +11228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Northern Passage | 301414 | [301414-the-northern-passage.json](./301414-the-northern-passage.json) |
 | The Northsong Rift | 401840 | [401840-the-northsong-rift.json](./401840-the-northsong-rift.json) |
 | The Norwood Suite | 68369 | [68369-the-norwood-suite.json](./68369-the-norwood-suite.json) |
+| The Not Very Golden Age of Piracy | 120628 | [120628-the-not-very-golden-age-of-piracy.json](./120628-the-not-very-golden-age-of-piracy.json) |
 | The Not-Deer Stew | 382797 | [382797-the-not-deer-stew.json](./382797-the-not-deer-stew.json) |
 | The Note | 26518 | [26518-the-note.json](./26518-the-note.json) |
 | The Note of Red Evil | 367834 | [367834-the-note-of-red-evil.json](./367834-the-note-of-red-evil.json) |
@@ -12512,6 +12516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Search Master: Metal Gear Solid Edition | 270390 | [270390-the-search-master-metal-gear-solid-edition.json](./270390-the-search-master-metal-gear-solid-edition.json) |
 | The Search: Lost Dreams | 251991 | [251991-the-search-lost-dreams.json](./251991-the-search-lost-dreams.json) |
 | The Searcher Wild West Adventure | 105373 | [105373-the-searcher-wild-west-adventure.json](./105373-the-searcher-wild-west-adventure.json) |
+| The Searchers of Legends : Origin | 120598 | [120598-the-searchers-of-legends-origin.json](./120598-the-searchers-of-legends-origin.json) |
 | The Seaside Inn | 225493 | [225493-the-seaside-inn.json](./225493-the-seaside-inn.json) |
 | The Season of the Warlock | 180132 | [180132-the-season-of-the-warlock.json](./180132-the-season-of-the-warlock.json) |
 | The Seasons | 43129 | [43129-the-seasons.json](./43129-the-seasons.json) |
@@ -24851,6 +24856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trucy's Magical Catastrophe | 309992 | [309992-trucys-magical-catastrophe.json](./309992-trucys-magical-catastrophe.json) |
 | Trudge | 409399 | [409399-trudge.json](./409399-trudge.json) |
 | Trudograd: Supporter Pack | 289191 | [289191-trudograd-supporter-pack.json](./289191-trudograd-supporter-pack.json) |
+| Trudy's Mechanicals | 120620 | [120620-trudys-mechanicals.json](./120620-trudys-mechanicals.json) |
 | Trudy's Time and Place House | 265978 | [265978-trudys-time-and-place-house.json](./265978-trudys-time-and-place-house.json) |
 | True Abstraction: Plus | 265598 | [265598-true-abstraction-plus.json](./265598-true-abstraction-plus.json) |
 | True Abstraction: Rewind | 264538 | [264538-true-abstraction-rewind.json](./264538-true-abstraction-rewind.json) |
