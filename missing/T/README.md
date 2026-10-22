@@ -1929,6 +1929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TapGame - Knife Up | 101088 | [101088-tapgame-knife-up.json](./101088-tapgame-knife-up.json) |
 | Tapgym | 261515 | [261515-tapgym.json](./261515-tapgym.json) |
 | Taphouse VR | 59865 | [59865-taphouse-vr.json](./59865-taphouse-vr.json) |
+| Tapioca Rider | 108193 | [108193-tapioca-rider.json](./108193-tapioca-rider.json) |
 | Tapioka Panic | 259829 | [259829-tapioka-panic.json](./259829-tapioka-panic.json) |
 | TapKO | 336323 | [336323-tapko.json](./336323-tapko.json) |
 | TapLab | 233088 | [233088-taplab.json](./233088-taplab.json) |
@@ -7019,6 +7020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Escapists 2: Dungeons and Duct Tape | 155176 | [155176-the-escapists-2-dungeons-and-duct-tape.json](./155176-the-escapists-2-dungeons-and-duct-tape.json) |
 | The Escapists 2: Game of the Year Edition | 121534 | [121534-the-escapists-2-game-of-the-year-edition.json](./121534-the-escapists-2-game-of-the-year-edition.json) |
 | The Escapists: Alcatraz | 53732 | [53732-the-escapists-alcatraz.json](./53732-the-escapists-alcatraz.json) |
+| The Escapists: Complete Edition | 108196 | [108196-the-escapists-complete-edition.json](./108196-the-escapists-complete-edition.json) |
 | The Escapists: Duct Tapes Are Forever | 51927 | [51927-the-escapists-duct-tapes-are-forever.json](./51927-the-escapists-duct-tapes-are-forever.json) |
 | The Escapists: Escape Team | 51926 | [51926-the-escapists-escape-team.json](./51926-the-escapists-escape-team.json) |
 | The Escapists: Fhurst Peak Correctional Facility | 51925 | [51925-the-escapists-fhurst-peak-correctional-facility.json](./51925-the-escapists-fhurst-peak-correctional-facility.json) |
@@ -7569,6 +7571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Forever Moon | 165023 | [165023-the-forever-moon.json](./165023-the-forever-moon.json) |
 | The Forever Winter: Holiday Hangover | 383130 | [383130-the-forever-winter-holiday-hangover.json](./383130-the-forever-winter-holiday-hangover.json) |
 | The Foreverlands | 181234 | [181234-the-foreverlands.json](./181234-the-foreverlands.json) |
+| The Forge | 108201 | [108201-the-forge.json](./108201-the-forge.json) |
 | The Forge Arena | 90078 | [90078-the-forge-arena.json](./90078-the-forge-arena.json) |
 | The Forge: Steel Frontier | 414869 | [414869-the-forge-steel-frontier.json](./414869-the-forge-steel-frontier.json) |
 | The Forger | 166060 | [166060-the-forger.json](./166060-the-forger.json) |
@@ -15956,6 +15959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Three Heroes | 34990 | [34990-three-heroes.json](./34990-three-heroes.json) |
 | Three Hoops | 233076 | [233076-three-hoops.json](./233076-three-hoops.json) |
 | Three in One | 333684 | [333684-three-in-one.json](./333684-three-in-one.json) |
+| Three Jewels | 108161 | [108161-three-jewels.json](./108161-three-jewels.json) |
 | Three Kingdom: The Journey | 166618 | [166618-three-kingdom-the-journey.json](./166618-three-kingdom-the-journey.json) |
 | Three Kingdom: Zhang Jiao Revival | 374060 | [374060-three-kingdom-zhang-jiao-revival.json](./374060-three-kingdom-zhang-jiao-revival.json) |
 | Three Kingdoms | 355205 | [355205-three-kingdoms.json](./355205-three-kingdoms.json) |
@@ -19354,6 +19358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokimeki Memorial: Forever with You - Emotional | 314954 | [314954-tokimeki-memorial-forever-with-you-emotional.json](./314954-tokimeki-memorial-forever-with-you-emotional.json) |
 | Tokimeki Memorial: Taisen Puzzle-Dama | 108750 | [108750-tokimeki-memorial-taisen-puzzle-dama.json](./108750-tokimeki-memorial-taisen-puzzle-dama.json) |
 | Tokimeki Memorial: Taisen Tokkaedama | 71021 | [71021-tokimeki-memorial-taisen-tokkaedama.json](./71021-tokimeki-memorial-taisen-tokkaedama.json) |
+| Tokimeki no Houkago | 108180 | [108180-tokimeki-no-houkago.json](./108180-tokimeki-no-houkago.json) |
 | Tokimeki Restaurant | 140385 | [140385-tokimeki-restaurant.json](./140385-tokimeki-restaurant.json) |
 | Tokimeki Restaurant: Project TriStars | 221599 | [221599-tokimeki-restaurant-project-tristars.json](./221599-tokimeki-restaurant-project-tristars.json) |
 | Tokimeki RunRuns | 208257 | [208257-tokimeki-runruns.json](./208257-tokimeki-runruns.json) |
