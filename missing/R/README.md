@@ -650,6 +650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ragdore | 364027 | [364027-ragdore.json](./364027-ragdore.json) |
 | Rage 2 | 101211 | [101211-rage-2.json](./101211-rage-2.json) |
 | Rage 2: Collector's Edition | 103297 | [103297-rage-2-collectors-edition.json](./103297-rage-2-collectors-edition.json) |
+| Rage Boy | 110076 | [110076-rage-boy.json](./110076-rage-boy.json) |
 | Rage Chicken 2 | 180998 | [180998-rage-chicken-2.json](./180998-rage-chicken-2.json) |
 | Rage Disco | 75218 | [75218-rage-disco.json](./75218-rage-disco.json) |
 | Rage District: Humanity Armageddon | 406800 | [406800-rage-district-humanity-armageddon.json](./406800-rage-district-humanity-armageddon.json) |
@@ -2406,6 +2407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reality Check | 70374 | [70374-reality-check.json](./70374-reality-check.json) |
 | Reality Check 2 | 70373 | [70373-reality-check-2.json](./70373-reality-check-2.json) |
 | Reality Check 3 | 70372 | [70372-reality-check-3.json](./70372-reality-check-3.json) |
+| Reality Clash: AR Combat Game | 110035 | [110035-reality-clash-ar-combat-game.json](./110035-reality-clash-ar-combat-game.json) |
 | Reality Core | 309677 | [309677-reality-core.json](./309677-reality-core.json) |
 | Reality Drift | 322753 | [322753-reality-drift.json](./322753-reality-drift.json) |
 | Reality End | 164286 | [164286-reality-end.json](./164286-reality-end.json) |
