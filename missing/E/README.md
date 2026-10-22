@@ -623,6 +623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echo Night: Beyond | 9515 | [9515-echo-night-beyond.json](./9515-echo-night-beyond.json) |
 | Echo Night: The First Voyage | 213604 | [213604-echo-night-the-first-voyage.json](./213604-echo-night-the-first-voyage.json) |
 | Echo Nine | 43186 | [43186-echo-nine.json](./43186-echo-nine.json) |
+| Echo of Combats | 114076 | [114076-echo-of-combats.json](./114076-echo-of-combats.json) |
 | Echo of Extinction | 274039 | [274039-echo-of-extinction.json](./274039-echo-of-extinction.json) |
 | Echo of Humanity | 390723 | [390723-echo-of-humanity.json](./390723-echo-of-humanity.json) |
 | Echo of Migration | 258617 | [258617-echo-of-migration.json](./258617-echo-of-migration.json) |
@@ -1290,6 +1291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Egnima | 349320 | [349320-egnima.json](./349320-egnima.json) |
 | Ego :: Exit Protocol | 368285 | [368285-ego-exit-protocol.json](./368285-ego-exit-protocol.json) |
 | Ego Effect | 174842 | [174842-ego-effect.json](./174842-ego-effect.json) |
+| Ego Hearts | 114105 | [114105-ego-hearts.json](./114105-ego-hearts.json) |
 | Ego Holic | 225297 | [225297-ego-holic.json](./225297-ego-holic.json) |
 | Ego in a Coma | 141616 | [141616-ego-in-a-coma.json](./141616-ego-in-a-coma.json) |
 | Ego Joe the Idiot Mall Cop | 181199 | [181199-ego-joe-the-idiot-mall-cop.json](./181199-ego-joe-the-idiot-mall-cop.json) |
@@ -3125,6 +3127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | English Tracing Book | 290463 | [290463-english-tracing-book.json](./290463-english-tracing-book.json) |
 | English with Rayman | 193344 | [193344-english-with-rayman.json](./193344-english-with-rayman.json) |
 | Engolasters January 2021 | 142111 | [142111-engolasters-january-2021.json](./142111-engolasters-january-2021.json) |
+| Engram | 114122 | [114122-engram.json](./114122-engram.json) |
 | Engraven | 309460 | [309460-engraven.json](./309460-engraven.json) |
 | Engraving | 269025 | [269025-engraving.json](./269025-engraving.json) |
 | EnHanced | 110901 | [110901-enhanced.json](./110901-enhanced.json) |
