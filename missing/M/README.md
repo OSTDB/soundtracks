@@ -6685,6 +6685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memesteine Files | 405035 | [405035-memesteine-files.json](./405035-memesteine-files.json) |
 | Memetomo | 314751 | [314751-memetomo.json](./314751-memetomo.json) |
 | Memetric: Classic | 239562 | [239562-memetric-classic.json](./239562-memetric-classic.json) |
+| Memetric: Final Lifeforms | 153213 | [153213-memetric-final-lifeforms.json](./153213-memetric-final-lifeforms.json) |
 | Memetyper | 67926 | [67926-memetyper.json](./67926-memetyper.json) |
 | MemGame | 128641 | [128641-memgame.json](./128641-memgame.json) |
 | MemGrid | 408104 | [408104-memgrid.json](./408104-memgrid.json) |
@@ -17029,6 +17030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mythopolis | 419971 | [419971-mythopolis.json](./419971-mythopolis.json) |
 | Mythos | 199265 | [199265-mythos.json](./199265-mythos.json) |
 | Mythos Ever After: A Cthulhu Dating Sim | 171431 | [171431-mythos-ever-after-a-cthulhu-dating-sim.json](./171431-mythos-ever-after-a-cthulhu-dating-sim.json) |
+| Mythos Ever After: A Cthulhu Dating Sim RX | 153221 | [153221-mythos-ever-after-a-cthulhu-dating-sim-rx.json](./153221-mythos-ever-after-a-cthulhu-dating-sim-rx.json) |
 | Mythos Interactive Game Collection | 341355 | [341355-mythos-interactive-game-collection.json](./341355-mythos-interactive-game-collection.json) |
 | Mythos Party | 153961 | [153961-mythos-party.json](./153961-mythos-party.json) |
 | Mythos Quest | 256159 | [256159-mythos-quest.json](./256159-mythos-quest.json) |
