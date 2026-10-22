@@ -206,6 +206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valakas Story | 122824 | [122824-valakas-story.json](./122824-valakas-story.json) |
 | Valakas: Immortal | 154393 | [154393-valakas-immortal.json](./154393-valakas-immortal.json) |
 | Valand | 208814 | [208814-valand.json](./208814-valand.json) |
+| Valar | 124451 | [124451-valar.json](./124451-valar.json) |
 | Valbrace | 318603 | [318603-valbrace.json](./318603-valbrace.json) |
 | Valcarta: Rise of the Demon | 32887 | [32887-valcarta-rise-of-the-demon.json](./32887-valcarta-rise-of-the-demon.json) |
 | Valdamour | 264531 | [264531-valdamour.json](./264531-valdamour.json) |
@@ -2329,6 +2330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vital | 232013 | [232013-vital.json](./232013-vital.json) |
 | Vital Bracelet Arena | 270627 | [270627-vital-bracelet-arena.json](./270627-vital-bracelet-arena.json) |
 | Vital Charge | 400312 | [400312-vital-charge.json](./400312-vital-charge.json) |
+| Vital Device: Entrapped by the Queen | 124497 | [124497-vital-device-entrapped-by-the-queen.json](./124497-vital-device-entrapped-by-the-queen.json) |
 | Vital Force | 62188 | [62188-vital-force.json](./62188-vital-force.json) |
 | Vital Light | 38838 | [38838-vital-light.json](./38838-vital-light.json) |
 | Vital Shell | 354957 | [354957-vital-shell.json](./354957-vital-shell.json) |
@@ -2896,6 +2898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voxel Sword | 113513 | [113513-voxel-sword.json](./113513-voxel-sword.json) |
 | Voxel Tank VR | 74291 | [74291-voxel-tank-vr.json](./74291-voxel-tank-vr.json) |
 | Voxel Turf | 54798 | [54798-voxel-turf.json](./54798-voxel-turf.json) |
+| Voxel Warfare Online | 124508 | [124508-voxel-warfare-online.json](./124508-voxel-warfare-online.json) |
 | Voxel Works Quest | 182836 | [182836-voxel-works-quest.json](./182836-voxel-works-quest.json) |
 | Voxel World | 312559 | [312559-voxel-world.json](./312559-voxel-world.json) |
 | Voxel World | 88247 | [88247-voxel-world.json](./88247-voxel-world.json) |
