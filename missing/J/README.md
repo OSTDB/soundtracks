@@ -2111,6 +2111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Josef the Hedgehog | 330289 | [330289-josef-the-hedgehog.json](./330289-josef-the-hedgehog.json) |
 | Josephine and Friends | 204726 | [204726-josephine-and-friends.json](./204726-josephine-and-friends.json) |
 | Josephine: Portrait of an Assassin | 73512 | [73512-josephine-portrait-of-an-assassin.json](./73512-josephine-portrait-of-an-assassin.json) |
+| Josh Journey: Darkness Totems | 139665 | [139665-josh-journey-darkness-totems.json](./139665-josh-journey-darkness-totems.json) |
 | Josh Powlison's Button: Mildly Remastered Edition | 303596 | [303596-josh-powlisons-button-mildly-remastered-edition.json](./303596-josh-powlisons-button-mildly-remastered-edition.json) |
 | JoshGeoff Weiner Simulator | 327837 | [327837-joshgeoff-weiner-simulator.json](./327837-joshgeoff-weiner-simulator.json) |
 | Joshi Daisei Private | 112341 | [112341-joshi-daisei-private.json](./112341-joshi-daisei-private.json) |
