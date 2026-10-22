@@ -525,6 +525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Line in the Sand | 12440 | [12440-a-line-in-the-sand.json](./12440-a-line-in-the-sand.json) |
 | A Link to the Past: ReLink | 219086 | [219086-a-link-to-the-past-relink.json](./219086-a-link-to-the-past-relink.json) |
 | A Little Age | 404181 | [404181-a-little-age.json](./404181-a-little-age.json) |
+| A Little Bird | 148797 | [148797-a-little-bird.json](./148797-a-little-bird.json) |
 | A Little Bus Stop | 176254 | [176254-a-little-bus-stop.json](./176254-a-little-bus-stop.json) |
 | A Little Golf Journey | 132300 | [132300-a-little-golf-journey.json](./132300-a-little-golf-journey.json) |
 | A Little Less Desperation | 392213 | [392213-a-little-less-desperation.json](./392213-a-little-less-desperation.json) |
@@ -1828,6 +1829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Accounting | 25251 | [25251-accounting.json](./25251-accounting.json) |
 | Accounting+ | 76881 | [76881-accounting.json](./76881-accounting.json) |
 | Accretion | 342680 | [342680-accretion.json](./342680-accretion.json) |
+| AccrO | 148800 | [148800-accro.json](./148800-accro.json) |
 | AccuBow VR | 337792 | [337792-accubow-vr.json](./337792-accubow-vr.json) |
 | Accurate Coastlines | 182702 | [182702-accurate-coastlines.json](./182702-accurate-coastlines.json) |
 | Accurate Segmentation | 334796 | [334796-accurate-segmentation.json](./334796-accurate-segmentation.json) |
@@ -9702,6 +9704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade's Greatest Hits: The Midway Collection 2 | 43924 | [43924-arcades-greatest-hits-the-midway-collection-2.json](./43924-arcades-greatest-hits-the-midway-collection-2.json) |
 | Arcadebnb | 187220 | [187220-arcadebnb.json](./187220-arcadebnb.json) |
 | Arcadecraft | 17338 | [17338-arcadecraft.json](./17338-arcadecraft.json) |
+| Arcadeon VR | 148826 | [148826-arcadeon-vr.json](./148826-arcadeon-vr.json) |
 | Arcadia | 202654 | [202654-arcadia.json](./202654-arcadia.json) |
 | Arcadia | 236852 | [236852-arcadia.json](./236852-arcadia.json) |
 | Arcadia 64 | 13793 | [13793-arcadia-64.json](./13793-arcadia-64.json) |
@@ -11983,6 +11986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astoria: Fate's Kiss | 308058 | [308058-astoria-fates-kiss.json](./308058-astoria-fates-kiss.json) |
 | Astoria: The Holders of Power Saga | 51427 | [51427-astoria-the-holders-of-power-saga.json](./51427-astoria-the-holders-of-power-saga.json) |
 | Astortion | 201520 | [201520-astortion.json](./201520-astortion.json) |
+| Astra | 148829 | [148829-astra.json](./148829-astra.json) |
 | Astra and The New Constellation | 240119 | [240119-astra-and-the-new-constellation.json](./240119-astra-and-the-new-constellation.json) |
 | Astra Defender | 223311 | [223311-astra-defender.json](./223311-astra-defender.json) |
 | Astra Etherium | 61027 | [61027-astra-etherium.json](./61027-astra-etherium.json) |
@@ -12306,6 +12310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astrosweeper Mini | 205105 | [205105-astrosweeper-mini.json](./205105-astrosweeper-mini.json) |
 | Astrotester | 258016 | [258016-astrotester.json](./258016-astrotester.json) |
 | Astrotit | 93074 | [93074-astrotit.json](./93074-astrotit.json) |
+| Astrotour VR | 148822 | [148822-astrotour-vr.json](./148822-astrotour-vr.json) |
 | AstroTrucks | 207183 | [207183-astrotrucks.json](./207183-astrotrucks.json) |
 | Astround | 342049 | [342049-astround.json](./342049-astround.json) |
 | AstroViking | 106653 | [106653-astroviking.json](./106653-astroviking.json) |
