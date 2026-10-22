@@ -5611,6 +5611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bibbidiba Fan Game | 338234 | [338234-bibbidiba-fan-game.json](./338234-bibbidiba-fan-game.json) |
 | Bibdu | 395855 | [395855-bibdu.json](./395855-bibdu.json) |
 | Bibi & Tina at the Horse Farm | 122789 | [122789-bibi-and-tina-at-the-horse-farm.json](./122789-bibi-and-tina-at-the-horse-farm.json) |
+| Bibi & Tina: Adventures with Horses | 110686 | [110686-bibi-and-tina-adventures-with-horses.json](./110686-bibi-and-tina-adventures-with-horses.json) |
 | Bibi & Tina: Das grosse Reiterfest | 268112 | [268112-bibi-and-tina-das-grosse-reiterfest.json](./268112-bibi-and-tina-das-grosse-reiterfest.json) |
 | Bibi & Tina: Das große Unwetter | 216453 | [216453-bibi-and-tina-das-gro-e-unwetter.json](./216453-bibi-and-tina-das-gro-e-unwetter.json) |
 | Bibi & Tina: Das Spiel zum Kinofilm | 84783 | [84783-bibi-and-tina-das-spiel-zum-kinofilm.json](./84783-bibi-and-tina-das-spiel-zum-kinofilm.json) |
@@ -5619,6 +5620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bibi & Tina: Mikoschs großer Auftritt | 151206 | [151206-bibi-and-tina-mikoschs-gro-er-auftritt.json](./151206-bibi-and-tina-mikoschs-gro-er-auftritt.json) |
 | Bibi & Tina: New Adventures with Horses | 194979 | [194979-bibi-and-tina-new-adventures-with-horses.json](./194979-bibi-and-tina-new-adventures-with-horses.json) |
 | Bibi & Tina: Ready, Set, Ride! | 417439 | [417439-bibi-and-tina-ready-set-ride.json](./417439-bibi-and-tina-ready-set-ride.json) |
+| Bibi Blocksberg: Big Broom Race 3 | 110685 | [110685-bibi-blocksberg-big-broom-race-3.json](./110685-bibi-blocksberg-big-broom-race-3.json) |
 | Bibi Blocksberg: Big Broom Race 4 | 375406 | [375406-bibi-blocksberg-big-broom-race-4.json](./375406-bibi-blocksberg-big-broom-race-4.json) |
 | Bibi Blocksberg: Das gestohlene Hexbuch | 215850 | [215850-bibi-blocksberg-das-gestohlene-hexbuch.json](./215850-bibi-blocksberg-das-gestohlene-hexbuch.json) |
 | Bibi Blocksberg: Das große Hexenbesen-Rennen! | 145936 | [145936-bibi-blocksberg-das-gro-e-hexenbesen-rennen.json](./145936-bibi-blocksberg-das-gro-e-hexenbesen-rennen.json) |
@@ -8847,6 +8849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloody Legless | 177778 | [177778-bloody-legless.json](./177778-bloody-legless.json) |
 | Bloody Lonely Cold | 233901 | [233901-bloody-lonely-cold.json](./233901-bloody-lonely-cold.json) |
 | Bloody Mary | 112820 | [112820-bloody-mary.json](./112820-bloody-mary.json) |
+| Bloody Mary: Forgotten Curse | 110704 | [110704-bloody-mary-forgotten-curse.json](./110704-bloody-mary-forgotten-curse.json) |
 | Bloody Mary's Mansion | 90225 | [90225-bloody-marys-mansion.json](./90225-bloody-marys-mansion.json) |
 | Bloody Merc | 152814 | [152814-bloody-merc.json](./152814-bloody-merc.json) |
 | Bloody Mice | 55457 | [55457-bloody-mice.json](./55457-bloody-mice.json) |
@@ -9888,6 +9891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomberrage | 374433 | [374433-bomberrage.json](./374433-bomberrage.json) |
 | BomberZone | 32628 | [32628-bomberzone.json](./32628-bomberzone.json) |
 | Bombfest | 74464 | [74464-bombfest.json](./74464-bombfest.json) |
+| BombGears | 110713 | [110713-bombgears.json](./110713-bombgears.json) |
 | Bombinator | 29050 | [29050-bombinator.json](./29050-bombinator.json) |
 | Bombing Quest | 129796 | [129796-bombing-quest.json](./129796-bombing-quest.json) |
 | Bombing Wonderful | 228712 | [228712-bombing-wonderful.json](./228712-bombing-wonderful.json) |
