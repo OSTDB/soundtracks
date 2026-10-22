@@ -3110,6 +3110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kiteretsu Soudan Dial: Heard Mikaishuu Kaii nomi Shutsugen | 301623 | [301623-kiteretsu-soudan-dial-heard-mikaishuu-kaii-nomi-shutsugen.json](./301623-kiteretsu-soudan-dial-heard-mikaishuu-kaii-nomi-shutsugen.json) |
 | Kitesurf Runner | 304379 | [304379-kitesurf-runner.json](./304379-kitesurf-runner.json) |
 | Kithack Model Club | 244685 | [244685-kithack-model-club.json](./244685-kithack-model-club.json) |
+| Kithe #14 | 137506 | [137506-kithe-14.json](./137506-kithe-14.json) |
 | Kiting Mechanics | 239739 | [239739-kiting-mechanics.json](./239739-kiting-mechanics.json) |
 | Kitiplant | 291721 | [291721-kitiplant.json](./291721-kitiplant.json) |
 | Kito Pizzas | 397691 | [397691-kito-pizzas.json](./397691-kito-pizzas.json) |
@@ -3822,6 +3823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kogepan: Pan mo Game wo Yaru-rashii | 267588 | [267588-kogepan-pan-mo-game-wo-yaru-rashii.json](./267588-kogepan-pan-mo-game-wo-yaru-rashii.json) |
 | Koguma-Chan no Daibouken | 286586 | [286586-koguma-chan-no-daibouken.json](./286586-koguma-chan-no-daibouken.json) |
 | Koh Lanta: Les Aventuriers | 171285 | [171285-koh-lanta-les-aventuriers.json](./171285-koh-lanta-les-aventuriers.json) |
+| Koh-Lanta | 138080 | [138080-koh-lanta.json](./138080-koh-lanta.json) |
 | Koh-Lanta: Survie Dans La Jungle! | 340586 | [340586-koh-lanta-survie-dans-la-jungle.json](./340586-koh-lanta-survie-dans-la-jungle.json) |
 | Kohan II: Kings of War | 766 | [766-kohan-ii-kings-of-war.json](./766-kohan-ii-kings-of-war.json) |
 | Kohan: Immortal Sovereigns | 767 | [767-kohan-immortal-sovereigns.json](./767-kohan-immortal-sovereigns.json) |
@@ -4010,6 +4012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Konami GB Collection Vol. 2 | 50045 | [50045-konami-gb-collection-vol-2.json](./50045-konami-gb-collection-vol-2.json) |
 | Konami GB Collection Vol. 3 | 50044 | [50044-konami-gb-collection-vol-3.json](./50044-konami-gb-collection-vol-3.json) |
 | Konami GB Collection Vol. 4 | 50043 | [50043-konami-gb-collection-vol-4.json](./50043-konami-gb-collection-vol-4.json) |
+| Konami GT | 138086 | [138086-konami-gt.json](./138086-konami-gt.json) |
 | Konami Hyper Soccer | 48284 | [48284-konami-hyper-soccer.json](./48284-konami-hyper-soccer.json) |
 | Konami Krazy Racers | 6495 | [6495-konami-krazy-racers.json](./6495-konami-krazy-racers.json) |
 | Konami's Open Golf Championship | 137407 | [137407-konamis-open-golf-championship.json](./137407-konamis-open-golf-championship.json) |
@@ -4492,6 +4495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Krypt | 204948 | [204948-krypt.json](./204948-krypt.json) |
 | KryptCrawler | 51521 | [51521-kryptcrawler.json](./51521-kryptcrawler.json) |
 | Kryptic | 178845 | [178845-kryptic.json](./178845-kryptic.json) |
+| Krypton Comet | 137312 | [137312-krypton-comet.json](./137312-krypton-comet.json) |
 | Kryptonite: Flamez Hedgehog | 266700 | [266700-kryptonite-flamez-hedgehog.json](./266700-kryptonite-flamez-hedgehog.json) |
 | Kryptoria | 229633 | [229633-kryptoria.json](./229633-kryptoria.json) |
 | Krysolov | 343848 | [343848-krysolov.json](./343848-krysolov.json) |
