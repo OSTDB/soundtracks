@@ -20940,9 +20940,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Towel Required! | 223667 | [223667-towel-required.json](./223667-towel-required.json) |
 | Towelfight 2: The Monocle of Destiny | 23402 | [23402-towelfight-2-the-monocle-of-destiny.json](./23402-towelfight-2-the-monocle-of-destiny.json) |
 | Towelket 0: Maiden Bomb Invaders | 282444 | [282444-towelket-0-maiden-bomb-invaders.json](./282444-towelket-0-maiden-bomb-invaders.json) |
+| Towelket: One More Time | 147065 | [147065-towelket-one-more-time.json](./147065-towelket-one-more-time.json) |
 | Towelket: One More Time 2 (Karaage Tanpopo) | 146883 | [146883-towelket-one-more-time-2-karaage-tanpopo.json](./146883-towelket-one-more-time-2-karaage-tanpopo.json) |
 | Towelket: One More Time 3 Karaage Tanpopo | 146554 | [146554-towelket-one-more-time-3-karaage-tanpopo.json](./146554-towelket-one-more-time-3-karaage-tanpopo.json) |
+| Towelket: One More Time 4 | 147155 | [147155-towelket-one-more-time-4.json](./147155-towelket-one-more-time-4.json) |
 | Towelket: One More Time 5 - Gaugau's Bride | 147250 | [147250-towelket-one-more-time-5-gaugaus-bride.json](./147250-towelket-one-more-time-5-gaugaus-bride.json) |
+| Towelket: One More Time 5 ~Fury~ | 147156 | [147156-towelket-one-more-time-5-fury.json](./147156-towelket-one-more-time-5-fury.json) |
+| Towelket: One More Time 6 - Devils&Devils&Nightmares&Devils | 147157 | [147157-towelket-one-more-time-6-devils-and-devils-and-nightmares-and-devils.json](./147157-towelket-one-more-time-6-devils-and-devils-and-nightmares-and-devils.json) |
 | Tower | 162583 | [162583-tower.json](./162583-tower.json) |
 | Tower | 241242 | [241242-tower.json](./241242-tower.json) |
 | Tower | 287566 | [287566-tower.json](./287566-tower.json) |
