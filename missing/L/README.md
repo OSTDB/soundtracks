@@ -934,6 +934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Day on Stroggos | 402832 | [402832-last-day-on-stroggos.json](./402832-last-day-on-stroggos.json) |
 | Last Day Rules: Survival | 174717 | [174717-last-day-rules-survival.json](./174717-last-day-rules-survival.json) |
 | Last Day: Zombie Survival VR | 199484 | [199484-last-day-zombie-survival-vr.json](./199484-last-day-zombie-survival-vr.json) |
+| Last Days | 154316 | [154316-last-days.json](./154316-last-days.json) |
 | Last Days | 217205 | [217205-last-days.json](./217205-last-days.json) |
 | Last Days | 30773 | [30773-last-days.json](./30773-last-days.json) |
 | Last Days of Future | 226446 | [226446-last-days-of-future.json](./226446-last-days-of-future.json) |
@@ -1757,6 +1758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Learning a Foreign Language Is No Easy Task, for Sure | 179039 | [179039-learning-a-foreign-language-is-no-easy-task-for-sure.json](./179039-learning-a-foreign-language-is-no-easy-task-for-sure.json) |
 | Learning Factory | 137918 | [137918-learning-factory.json](./137918-learning-factory.json) |
 | Learning Geography: Countries of the World | 217468 | [217468-learning-geography-countries-of-the-world.json](./217468-learning-geography-countries-of-the-world.json) |
+| Learning jigsaw: Animals | 154307 | [154307-learning-jigsaw-animals.json](./154307-learning-jigsaw-animals.json) |
 | Learning Ladder: Year 3 | 327264 | [327264-learning-ladder-year-3.json](./327264-learning-ladder-year-3.json) |
 | Learning Ladder: Years 1 & 2 | 326983 | [326983-learning-ladder-years-1-and-2.json](./326983-learning-ladder-years-1-and-2.json) |
 | Learning Land | 231859 | [231859-learning-land.json](./231859-learning-land.json) |
@@ -3423,6 +3425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life Force | 261899 | [261899-life-force.json](./261899-life-force.json) |
 | Life Force | 261900 | [261900-life-force.json](./261900-life-force.json) |
 | Life Force SNES Port | 377226 | [377226-life-force-snes-port.json](./377226-life-force-snes-port.json) |
+| Life Gallery | 154326 | [154326-life-gallery.json](./154326-life-gallery.json) |
 | Life Goals | 102144 | [102144-life-goals.json](./102144-life-goals.json) |
 | Life Hutch VR | 121610 | [121610-life-hutch-vr.json](./121610-life-hutch-vr.json) |
 | Life in Adventure | 208079 | [208079-life-in-adventure.json](./208079-life-in-adventure.json) |
