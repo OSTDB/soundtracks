@@ -1330,6 +1330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yu-Gi-Oh! BAM Pocket | 79576 | [79576-yu-gi-oh-bam-pocket.json](./79576-yu-gi-oh-bam-pocket.json) |
 | Yu-Gi-Oh! Capsule Monster Coliseum | 43617 | [43617-yu-gi-oh-capsule-monster-coliseum.json](./43617-yu-gi-oh-capsule-monster-coliseum.json) |
 | Yu-Gi-Oh! Cross Duel | 174874 | [174874-yu-gi-oh-cross-duel.json](./174874-yu-gi-oh-cross-duel.json) |
+| Yu-Gi-Oh! Dawn of a New Era | 136097 | [136097-yu-gi-oh-dawn-of-a-new-era.json](./136097-yu-gi-oh-dawn-of-a-new-era.json) |
 | Yu-Gi-Oh! Destiny Board Traveler | 49204 | [49204-yu-gi-oh-destiny-board-traveler.json](./49204-yu-gi-oh-destiny-board-traveler.json) |
 | Yu-Gi-Oh! Double Pack | 79360 | [79360-yu-gi-oh-double-pack.json](./79360-yu-gi-oh-double-pack.json) |
 | Yu-Gi-Oh! Double Pack 2 | 80801 | [80801-yu-gi-oh-double-pack-2.json](./80801-yu-gi-oh-double-pack-2.json) |
