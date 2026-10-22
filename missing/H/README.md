@@ -1107,6 +1107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hangman Hijinks | 366435 | [366435-hangman-hijinks.json](./366435-hangman-hijinks.json) |
 | Hangman II | 248920 | [248920-hangman-ii.json](./248920-hangman-ii.json) |
 | Hangman Lux 3D | 105667 | [105667-hangman-lux-3d.json](./105667-hangman-lux-3d.json) |
+| Hangman Pro HD | 102653 | [102653-hangman-pro-hd.json](./102653-hangman-pro-hd.json) |
 | Hangman: Fun Word Game | 89236 | [89236-hangman-fun-word-game.json](./89236-hangman-fun-word-game.json) |
 | Hangman: Mathematics and More | 407249 | [407249-hangman-mathematics-and-more.json](./407249-hangman-mathematics-and-more.json) |
 | Hangman's Revenge | 67973 | [67973-hangmans-revenge.json](./67973-hangmans-revenge.json) |
@@ -5497,6 +5498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Object Classic: Treasures II | 209037 | [209037-hidden-object-classic-treasures-ii.json](./209037-hidden-object-classic-treasures-ii.json) |
 | Hidden Object Crosswords | 107056 | [107056-hidden-object-crosswords.json](./107056-hidden-object-crosswords.json) |
 | Hidden Object Fairy Tales | 101345 | [101345-hidden-object-fairy-tales.json](./101345-hidden-object-fairy-tales.json) |
+| Hidden Object Game | 102562 | [102562-hidden-object-game.json](./102562-hidden-object-game.json) |
 | Hidden Object Mysteries 3 | 198089 | [198089-hidden-object-mysteries-3.json](./198089-hidden-object-mysteries-3.json) |
 | Hidden Object Mystery: Ghostly Manor | 105961 | [105961-hidden-object-mystery-ghostly-manor.json](./105961-hidden-object-mystery-ghostly-manor.json) |
 | Hidden Object Secrets: Family Revenge - Collector's Edition | 276663 | [276663-hidden-object-secrets-family-revenge-collectors-edition.json](./276663-hidden-object-secrets-family-revenge-collectors-edition.json) |
