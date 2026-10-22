@@ -2944,6 +2944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Temple Crawler | 276810 | [276810-temple-crawler.json](./276810-temple-crawler.json) |
 | Temple Dash: Jungle Adventure | 218497 | [218497-temple-dash-jungle-adventure.json](./218497-temple-dash-jungle-adventure.json) |
 | Temple Guy: Quest for Chest | 274532 | [274532-temple-guy-quest-for-chest.json](./274532-temple-guy-quest-for-chest.json) |
+| Temple Hunters | 150915 | [150915-temple-hunters.json](./150915-temple-hunters.json) |
 | Temple Knight Saga: Oath of the Knight's Sword | 267682 | [267682-temple-knight-saga-oath-of-the-knights-sword.json](./267682-temple-knight-saga-oath-of-the-knights-sword.json) |
 | Temple Maker 64 | 400852 | [400852-temple-maker-64.json](./400852-temple-maker-64.json) |
 | Temple of Aeryn | 267435 | [267435-temple-of-aeryn.json](./267435-temple-of-aeryn.json) |
@@ -16064,6 +16065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thymesia | 145028 | [145028-thymesia.json](./145028-thymesia.json) |
 | Thymesia: Cloud Version | 213562 | [213562-thymesia-cloud-version.json](./213562-thymesia-cloud-version.json) |
 | Thymesia: Digital Deluxe Edition | 213994 | [213994-thymesia-digital-deluxe-edition.json](./213994-thymesia-digital-deluxe-edition.json) |
+| Thyra Adventure | 150909 | [150909-thyra-adventure.json](./150909-thyra-adventure.json) |
 | Thyranya | 329134 | [329134-thyranya.json](./329134-thyranya.json) |
 | Thyria | 217174 | [217174-thyria.json](./217174-thyria.json) |
 | Thysiastery | 334695 | [334695-thysiastery.json](./334695-thysiastery.json) |
@@ -24336,6 +24338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Troll Face Quest Horror | 351627 | [351627-troll-face-quest-horror.json](./351627-troll-face-quest-horror.json) |
 | Troll Face Quest Video Memes | 90890 | [90890-troll-face-quest-video-memes.json](./90890-troll-face-quest-video-memes.json) |
 | Troll Face Quest: Game of Trolls | 306703 | [306703-troll-face-quest-game-of-trolls.json](./306703-troll-face-quest-game-of-trolls.json) |
+| Troll Hunter VR | 150916 | [150916-troll-hunter-vr.json](./150916-troll-hunter-vr.json) |
 | Troll Quest | 145930 | [145930-troll-quest.json](./145930-troll-quest.json) |
 | Trollboarder | 85458 | [85458-trollboarder.json](./85458-trollboarder.json) |
 | Trollbound | 233131 | [233131-trollbound.json](./233131-trollbound.json) |
