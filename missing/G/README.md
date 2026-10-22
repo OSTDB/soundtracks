@@ -4314,6 +4314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go!Go! Usa-chan Ressha | 242081 | [242081-go-go-usa-chan-ressha.json](./242081-go-go-usa-chan-ressha.json) |
 | Go!Go!Pizzaboy! | 327459 | [327459-go-go-pizzaboy.json](./327459-go-go-pizzaboy.json) |
 | Goaaal | 200131 | [200131-goaaal.json](./200131-goaaal.json) |
+| Goake | 133652 | [133652-goake.json](./133652-goake.json) |
 | Goal 94 | 78065 | [78065-goal-94.json](./78065-goal-94.json) |
 | Goal and Crossbones | 178649 | [178649-goal-and-crossbones.json](./178649-goal-and-crossbones.json) |
 | Goal FH | 217879 | [217879-goal-fh.json](./217879-goal-fh.json) |
