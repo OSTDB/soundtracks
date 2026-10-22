@@ -3809,6 +3809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Erotic Rhythm | 339764 | [339764-erotic-rhythm.json](./339764-erotic-rhythm.json) |
 | Erotic Shop Simulator | 326433 | [326433-erotic-shop-simulator.json](./326433-erotic-shop-simulator.json) |
 | Erotic Tentacle Arts Assortment | 98494 | [98494-erotic-tentacle-arts-assortment.json](./98494-erotic-tentacle-arts-assortment.json) |
+| Erotic Winter Sports | 111411 | [111411-erotic-winter-sports.json](./111411-erotic-winter-sports.json) |
 | Erovoice! Sexy Voices Lead to a Successful Love Life | 204498 | [204498-erovoice-sexy-voices-lead-to-a-successful-love-life.json](./204498-erovoice-sexy-voices-lead-to-a-successful-love-life.json) |
 | Erozld | 236216 | [236216-erozld.json](./236216-erozld.json) |
 | Err: The 1990 Incident | 308613 | [308613-err-the-1990-incident.json](./308613-err-the-1990-incident.json) |
@@ -5434,6 +5435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eviction | 267800 | [267800-eviction.json](./267800-eviction.json) |
 | Evidence 111 | 232401 | [232401-evidence-111.json](./232401-evidence-111.json) |
 | Evidence of 96' | 398358 | [398358-evidence-of-96.json](./398358-evidence-of-96.json) |
+| Evidence of Life | 111424 | [111424-evidence-of-life.json](./111424-evidence-of-life.json) |
 | Evidence: The Last Report | 71461 | [71461-evidence-the-last-report.json](./71461-evidence-the-last-report.json) |
 | Evidence: The Last Ritual | 20599 | [20599-evidence-the-last-ritual.json](./20599-evidence-the-last-ritual.json) |
 | Evidence01 | 389551 | [389551-evidence01.json](./389551-evidence01.json) |
@@ -6068,6 +6070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Expedition Agartha: Supporter Pack | 241987 | [241987-expedition-agartha-supporter-pack.json](./241987-expedition-agartha-supporter-pack.json) |
 | Expedition Amazon | 23898 | [23898-expedition-amazon.json](./23898-expedition-amazon.json) |
 | Expedition Astra | 288777 | [288777-expedition-astra.json](./288777-expedition-astra.json) |
+| Expedition Oregon | 111423 | [111423-expedition-oregon.json](./111423-expedition-oregon.json) |
 | Expedition to the Backrooms | 324305 | [324305-expedition-to-the-backrooms.json](./324305-expedition-to-the-backrooms.json) |
 | Expedition Wildlife | 260618 | [260618-expedition-wildlife.json](./260618-expedition-wildlife.json) |
 | Expedition Zero | 142883 | [142883-expedition-zero.json](./142883-expedition-zero.json) |
