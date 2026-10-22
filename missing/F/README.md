@@ -3289,6 +3289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Field Day | 40332 | [40332-field-day.json](./40332-field-day.json) |
 | Field Day | 408217 | [408217-field-day.json](./408217-field-day.json) |
 | Field Goal | 172656 | [172656-field-goal.json](./172656-field-goal.json) |
+| Field Hospital: Dr. Taylor's Story | 135728 | [135728-field-hospital-dr-taylors-story.json](./135728-field-hospital-dr-taylors-story.json) |
 | Field of Enemies | 374058 | [374058-field-of-enemies.json](./374058-field-of-enemies.json) |
 | Field of Fate | 184622 | [184622-field-of-fate.json](./184622-field-of-fate.json) |
 | Field of Fire | 25616 | [25616-field-of-fire.json](./25616-field-of-fire.json) |
@@ -4584,6 +4585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Emblem: Monshou no Nazo | 1435 | [1435-fire-emblem-monshou-no-nazo.json](./1435-fire-emblem-monshou-no-nazo.json) |
 | Fire Emblem: New Theory of Thracia 776 | 309610 | [309610-fire-emblem-new-theory-of-thracia-776.json](./309610-fire-emblem-new-theory-of-thracia-776.json) |
 | Fire Emblem: On the Edge | 279240 | [279240-fire-emblem-on-the-edge.json](./279240-fire-emblem-on-the-edge.json) |
+| Fire Emblem: Order of the Crimson Arm | 135504 | [135504-fire-emblem-order-of-the-crimson-arm.json](./135504-fire-emblem-order-of-the-crimson-arm.json) |
 | Fire Emblem: Path of a New World | 323033 | [323033-fire-emblem-path-of-a-new-world.json](./323033-fire-emblem-path-of-a-new-world.json) |
 | Fire Emblem: Path of Radiance | 1441 | [1441-fire-emblem-path-of-radiance.json](./1441-fire-emblem-path-of-radiance.json) |
 | Fire Emblem: Radiant Dawn | 1442 | [1442-fire-emblem-radiant-dawn.json](./1442-fire-emblem-radiant-dawn.json) |
