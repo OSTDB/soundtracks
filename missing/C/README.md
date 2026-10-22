@@ -3837,6 +3837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CCTV | 264863 | [264863-cctv.json](./264863-cctv.json) |
 | CD 2: Trap Master | 244668 | [244668-cd-2-trap-master.json](./244668-cd-2-trap-master.json) |
 | CD Battle: Hikari no Yuushi-tachi | 267948 | [267948-cd-battle-hikari-no-yuushi-tachi.json](./267948-cd-battle-hikari-no-yuushi-tachi.json) |
+| CD Exchange Volume 1 | 131873 | [131873-cd-exchange-volume-1.json](./131873-cd-exchange-volume-1.json) |
 | CD-i Donkey Kong Game | 231479 | [231479-cd-i-donkey-kong-game.json](./231479-cd-i-donkey-kong-game.json) |
 | CD-i Golgo 13 | 218002 | [218002-cd-i-golgo-13.json](./218002-cd-i-golgo-13.json) |
 | CD-Man | 215186 | [215186-cd-man.json](./215186-cd-man.json) |
@@ -6899,6 +6900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Citadale: Gate of Souls | 56152 | [56152-citadale-gate-of-souls.json](./56152-citadale-gate-of-souls.json) |
 | Citadale: The Accursed Seal | 318212 | [318212-citadale-the-accursed-seal.json](./318212-citadale-the-accursed-seal.json) |
 | Citadale: The Legends Trilogy | 56151 | [56151-citadale-the-legends-trilogy.json](./56151-citadale-the-legends-trilogy.json) |
+| Citadel | 131861 | [131861-citadel.json](./131861-citadel.json) |
 | Citadel | 13704 | [13704-citadel.json](./13704-citadel.json) |
 | Citadel | 276477 | [276477-citadel.json](./276477-citadel.json) |
 | Citadel | 403071 | [403071-citadel.json](./403071-citadel.json) |
@@ -12399,6 +12401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crank Chaos | 418588 | [418588-crank-chaos.json](./418588-crank-chaos.json) |
 | Crank Crawl | 253285 | [253285-crank-crawl.json](./253285-crank-crawl.json) |
 | Crank Defense Force | 299567 | [299567-crank-defense-force.json](./299567-crank-defense-force.json) |
+| Crank In | 131853 | [131853-crank-in.json](./131853-crank-in.json) |
 | Crank It Up! | 305911 | [305911-crank-it-up.json](./305911-crank-it-up.json) |
 | Crank Racing! | 413731 | [413731-crank-racing.json](./413731-crank-racing.json) |
 | Crank Snake Saga | 346916 | [346916-crank-snake-saga.json](./346916-crank-snake-saga.json) |
