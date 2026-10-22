@@ -7942,6 +7942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Annabel Gray | 15596 | [15596-annabel-gray.json](./15596-annabel-gray.json) |
 | Annalynn | 142687 | [142687-annalynn.json](./142687-annalynn.json) |
 | Annapurna Interactive Deluxe Limited Edition | 138780 | [138780-annapurna-interactive-deluxe-limited-edition.json](./138780-annapurna-interactive-deluxe-limited-edition.json) |
+| Annapurna Interactive: Ultimate Collection | 139065 | [139065-annapurna-interactive-ultimate-collection.json](./139065-annapurna-interactive-ultimate-collection.json) |
 | AnnaTommy | 218102 | [218102-annatommy.json](./218102-annatommy.json) |
 | Anne Frank House VR | 143341 | [143341-anne-frank-house-vr.json](./143341-anne-frank-house-vr.json) |
 | Anne in the Sky | 183329 | [183329-anne-in-the-sky.json](./183329-anne-in-the-sky.json) |
@@ -10706,6 +10707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armored Fighter | 111573 | [111573-armored-fighter.json](./111573-armored-fighter.json) |
 | Armored Firestorm | 194995 | [194995-armored-firestorm.json](./194995-armored-firestorm.json) |
 | Armored Freedom | 29625 | [29625-armored-freedom.json](./29625-armored-freedom.json) |
+| Armored Head | 139033 | [139033-armored-head.json](./139033-armored-head.json) |
 | Armored Heroes | 242204 | [242204-armored-heroes.json](./242204-armored-heroes.json) |
 | Armored Hunter Gunhound EX | 36391 | [36391-armored-hunter-gunhound-ex.json](./36391-armored-hunter-gunhound-ex.json) |
 | Armored Kitten | 67904 | [67904-armored-kitten.json](./67904-armored-kitten.json) |
