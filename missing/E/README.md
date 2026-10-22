@@ -516,6 +516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eat: The Revolution | 76637 | [76637-eat-the-revolution.json](./76637-eat-the-revolution.json) |
 | Eat! Fat! Fight! | 51115 | [51115-eat-fat-fight.json](./51115-eat-fat-fight.json) |
 | Eat'em All : Bite the Fruit! | 102290 | [102290-eatem-all-bite-the-fruit.json](./102290-eatem-all-bite-the-fruit.json) |
+| Eat'n Eaten | 155954 | [155954-eatn-eaten.json](./155954-eatn-eaten.json) |
 | Eaten Alive | 34441 | [34441-eaten-alive.json](./34441-eaten-alive.json) |
 | Eaten by Darkness | 235747 | [235747-eaten-by-darkness.json](./235747-eaten-by-darkness.json) |
 | EatFish | 303501 | [303501-eatfish.json](./303501-eatfish.json) |
