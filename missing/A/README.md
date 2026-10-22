@@ -7994,6 +7994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anno 117: Pax Romana – The Hippodrome | 414760 | [414760-anno-117-pax-romana-the-hippodrome.json](./414760-anno-117-pax-romana-the-hippodrome.json) |
 | Anno 1404: Gold Edition | 27913 | [27913-anno-1404-gold-edition.json](./27913-anno-1404-gold-edition.json) |
 | Anno 1404: History Edition | 135738 | [135738-anno-1404-history-edition.json](./135738-anno-1404-history-edition.json) |
+| Anno 1503: History Edition | 136092 | [136092-anno-1503-history-edition.json](./136092-anno-1503-history-edition.json) |
 | Anno 1503: Royal Edition | 77223 | [77223-anno-1503-royal-edition.json](./77223-anno-1503-royal-edition.json) |
 | Anno 1602 A.D. | 180271 | [180271-anno-1602-a-d.json](./180271-anno-1602-a-d.json) |
 | Anno 1602: Creation of a New World - New Islands, New Adventure | 138084 | [138084-anno-1602-creation-of-a-new-world-new-islands-new-adventure.json](./138084-anno-1602-creation-of-a-new-world-new-islands-new-adventure.json) |
@@ -11693,6 +11694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Creed Valhalla: Collector's Edition | 141160 | [141160-assassins-creed-valhalla-collectors-edition.json](./141160-assassins-creed-valhalla-collectors-edition.json) |
 | Assassin's Creed Valhalla: Deluxe Edition | 164835 | [164835-assassins-creed-valhalla-deluxe-edition.json](./164835-assassins-creed-valhalla-deluxe-edition.json) |
 | Assassin's Creed Valhalla: Forgotten Saga | 211296 | [211296-assassins-creed-valhalla-forgotten-saga.json](./211296-assassins-creed-valhalla-forgotten-saga.json) |
+| Assassin's Creed Valhalla: Limited Edition | 136108 | [136108-assassins-creed-valhalla-limited-edition.json](./136108-assassins-creed-valhalla-limited-edition.json) |
 | Assassin's Creed Valhalla: Mastery Challenge | 222815 | [222815-assassins-creed-valhalla-mastery-challenge.json](./222815-assassins-creed-valhalla-mastery-challenge.json) |
 | Assassin's Creed Valhalla: River Raids | 228704 | [228704-assassins-creed-valhalla-river-raids.json](./228704-assassins-creed-valhalla-river-raids.json) |
 | Assassin's Creed Valhalla: Season Pass | 293717 | [293717-assassins-creed-valhalla-season-pass.json](./293717-assassins-creed-valhalla-season-pass.json) |
