@@ -5864,6 +5864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Attack | 220720 | [220720-word-attack.json](./220720-word-attack.json) |
 | Word Avalanche | 108644 | [108644-word-avalanche.json](./108644-word-avalanche.json) |
 | Word Beach: Word Games for Fun | 87733 | [87733-word-beach-word-games-for-fun.json](./87733-word-beach-word-games-for-fun.json) |
+| Word Bird | 107571 | [107571-word-bird.json](./107571-word-bird.json) |
 | Word Bird Supreme | 415954 | [415954-word-bird-supreme.json](./415954-word-bird-supreme.json) |
 | Word Blitz | 371332 | [371332-word-blitz.json](./371332-word-blitz.json) |
 | Word Block | 63746 | [63746-word-block.json](./63746-word-block.json) |
@@ -5893,6 +5894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Crack | 137408 | [137408-word-crack.json](./137408-word-crack.json) |
 | Word Crack | 402312 | [402312-word-crack.json](./402312-word-crack.json) |
 | Word Craft | 205889 | [205889-word-craft.json](./205889-word-craft.json) |
+| Word Cross - Word Cheese | 107582 | [107582-word-cross-word-cheese.json](./107582-word-cross-word-cheese.json) |
 | Word Crossy: A crossword game | 88767 | [88767-word-crossy-a-crossword-game.json](./88767-word-crossy-a-crossword-game.json) |
 | Word Crush | 78150 | [78150-word-crush.json](./78150-word-crush.json) |
 | Word Crush Hidden | 154911 | [154911-word-crush-hidden.json](./154911-word-crush-hidden.json) |
@@ -7006,6 +7008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worth Waiting | 177364 | [177364-worth-waiting.json](./177364-worth-waiting.json) |
 | Worthy Opponent | 70275 | [70275-worthy-opponent.json](./70275-worthy-opponent.json) |
 | WortWechsel | 58232 | [58232-wortwechsel.json](./58232-wortwechsel.json) |
+| Woten | 107584 | [107584-woten.json](./107584-woten.json) |
 | Woten DX: Traveller's Dream | 220723 | [220723-woten-dx-travellers-dream.json](./220723-woten-dx-travellers-dream.json) |
 | Wotheguel | 155680 | [155680-wotheguel.json](./155680-wotheguel.json) |
 | Would You Lie with Me and Just Forget the World | 382582 | [382582-would-you-lie-with-me-and-just-forget-the-world.json](./382582-would-you-lie-with-me-and-just-forget-the-world.json) |
