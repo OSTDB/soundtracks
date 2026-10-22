@@ -192,6 +192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zack & Wiki: Quest for Barbaros' Treasure | 2264 | [2264-zack-and-wiki-quest-for-barbaros-treasure.json](./2264-zack-and-wiki-quest-for-barbaros-treasure.json) |
 | Zack 2: Celestine's Map | 139640 | [139640-zack-2-celestines-map.json](./139640-zack-2-celestines-map.json) |
 | Zack Y | 109724 | [109724-zack-y.json](./109724-zack-y.json) |
+| Zack! | 106300 | [106300-zack.json](./106300-zack.json) |
 | Zackman | 385842 | [385842-zackman.json](./385842-zackman.json) |
 | Zad Maldan My Bloody Sacrifice | 219679 | [219679-zad-maldan-my-bloody-sacrifice.json](./219679-zad-maldan-my-bloody-sacrifice.json) |
 | Zadel Princess | 191827 | [191827-zadel-princess.json](./191827-zadel-princess.json) |
@@ -288,8 +289,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zapper: One Wicked Cricket! | 4583 | [4583-zapper-one-wicked-cricket.json](./4583-zapper-one-wicked-cricket.json) |
 | ZAR | 161374 | [161374-zar.json](./161374-zar.json) |
 | Zarathustra: Cybergeddon | 276096 | [276096-zarathustra-cybergeddon.json](./276096-zarathustra-cybergeddon.json) |
+| Zardoz | 106301 | [106301-zardoz.json](./106301-zardoz.json) |
 | Zardy's Maze | 139234 | [139234-zardys-maze.json](./139234-zardys-maze.json) |
 | Zargog | 356638 | [356638-zargog.json](./356638-zargog.json) |
+| Zargon | 106302 | [106302-zargon.json](./106302-zargon.json) |
 | Zarktor's Realm | 189172 | [189172-zarktors-realm.json](./189172-zarktors-realm.json) |
 | Zarlor Mercenary | 12371 | [12371-zarlor-mercenary.json](./12371-zarlor-mercenary.json) |
 | Zarth | 45977 | [45977-zarth.json](./45977-zarth.json) |
@@ -693,6 +696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zero Friction | 126897 | [126897-zero-friction.json](./126897-zero-friction.json) |
 | Zero G Golf | 181661 | [181661-zero-g-golf.json](./181661-zero-g-golf.json) |
 | Zero Glide VR | 334854 | [334854-zero-glide-vr.json](./334854-zero-glide-vr.json) |
+| Zero Gravity | 106303 | [106303-zero-gravity.json](./106303-zero-gravity.json) |
 | Zero Gravity | 229795 | [229795-zero-gravity.json](./229795-zero-gravity.json) |
 | Zero Gravity Pool | 81990 | [81990-zero-gravity-pool.json](./81990-zero-gravity-pool.json) |
 | Zero Grounds | 249073 | [249073-zero-grounds.json](./249073-zero-grounds.json) |
@@ -769,6 +773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zeroentity | 193942 | [193942-zeroentity.json](./193942-zeroentity.json) |
 | ZeroKing | 278497 | [278497-zeroking.json](./278497-zeroking.json) |
 | Zeromiss | 327210 | [327210-zeromiss.json](./327210-zeromiss.json) |
+| Zeron | 106304 | [106304-zeron.json](./106304-zeron.json) |
 | Zerone 2D | 161899 | [161899-zerone-2d.json](./161899-zerone-2d.json) |
 | Zerone Episode 1 Gunner | 114870 | [114870-zerone-episode-1-gunner.json](./114870-zerone-episode-1-gunner.json) |
 | ZeroPrompt | 399860 | [399860-zeroprompt.json](./399860-zeroprompt.json) |
@@ -966,6 +971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zirkus-Simulator 2013 | 52781 | [52781-zirkus-simulator-2013.json](./52781-zirkus-simulator-2013.json) |
 | Zissi's Island | 31644 | [31644-zissis-island.json](./31644-zissis-island.json) |
 | Zitifono | 362715 | [362715-zitifono.json](./362715-zitifono.json) |
+| Zitrax | 106305 | [106305-zitrax.json](./106305-zitrax.json) |
 | Ziva and the Wolves | 225239 | [225239-ziva-and-the-wolves.json](./225239-ziva-and-the-wolves.json) |
 | Zix | 211573 | [211573-zix.json](./211573-zix.json) |
 | ZJ the Ball Calculator | 218937 | [218937-zj-the-ball-calculator.json](./218937-zj-the-ball-calculator.json) |
@@ -1105,6 +1111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Anarchy | 57088 | [57088-zombie-anarchy.json](./57088-zombie-anarchy.json) |
 | Zombie Ants VR | 250003 | [250003-zombie-ants-vr.json](./250003-zombie-ants-vr.json) |
 | Zombie Ants VR: Definitive Edition | 359219 | [359219-zombie-ants-vr-definitive-edition.json](./359219-zombie-ants-vr-definitive-edition.json) |
+| Zombie Apocalypse | 106306 | [106306-zombie-apocalypse.json](./106306-zombie-apocalypse.json) |
 | Zombie Apocalypse | 147819 | [147819-zombie-apocalypse.json](./147819-zombie-apocalypse.json) |
 | Zombie Apocalypse 2021 | 154381 | [154381-zombie-apocalypse-2021.json](./154381-zombie-apocalypse-2021.json) |
 | Zombie Apocalypse Mini Golf | 118606 | [118606-zombie-apocalypse-mini-golf.json](./118606-zombie-apocalypse-mini-golf.json) |
