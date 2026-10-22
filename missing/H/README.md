@@ -64,6 +64,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Habitat Shapes: The Tropical Journey | 401127 | [401127-habitat-shapes-the-tropical-journey.json](./401127-habitat-shapes-the-tropical-journey.json) |
 | Habitatrix | 292242 | [292242-habitatrix.json](./292242-habitatrix.json) |
 | Habitica | 395187 | [395187-habitica.json](./395187-habitica.json) |
+| Habitking RPG | 127585 | [127585-habitking-rpg.json](./127585-habitking-rpg.json) |
 | Habitrail Hamster Ball | 9606 | [9606-habitrail-hamster-ball.json](./9606-habitrail-hamster-ball.json) |
 | Habitus | 34647 | [34647-habitus.json](./34647-habitus.json) |
 | Habla Kadabla | 310639 | [310639-habla-kadabla.json](./310639-habla-kadabla.json) |
@@ -3573,6 +3574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hells Bend on Wounded Knee | 248679 | [248679-hells-bend-on-wounded-knee.json](./248679-hells-bend-on-wounded-knee.json) |
 | Hells Divide | 121359 | [121359-hells-divide.json](./121359-hells-divide.json) |
 | Hellscaper | 394647 | [394647-hellscaper.json](./394647-hellscaper.json) |
+| Hellseed | 127607 | [127607-hellseed.json](./127607-hellseed.json) |
 | Hellshots Golf | 113593 | [113593-hellshots-golf.json](./113593-hellshots-golf.json) |
 | HellSinker | 50441 | [50441-hellsinker.json](./50441-hellsinker.json) |
 | Hellsino | 405554 | [405554-hellsino.json](./405554-hellsino.json) |
@@ -8739,6 +8741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | How to Become a Ninja: Part 1 | 126353 | [126353-how-to-become-a-ninja-part-1.json](./126353-how-to-become-a-ninja-part-1.json) |
 | How to Blorrble-Blobble | 179007 | [179007-how-to-blorrble-blobble.json](./179007-how-to-blorrble-blobble.json) |
 | How to Build a Flying City | 321746 | [321746-how-to-build-a-flying-city.json](./321746-how-to-build-a-flying-city.json) |
+| How to Build a Magnificent Kingdom | 127603 | [127603-how-to-build-a-magnificent-kingdom.json](./127603-how-to-build-a-magnificent-kingdom.json) |
 | How To Build A Snowman | 383492 | [383492-how-to-build-a-snowman.json](./383492-how-to-build-a-snowman.json) |
 | How To Build Your Igloo | 253931 | [253931-how-to-build-your-igloo.json](./253931-how-to-build-your-igloo.json) |
 | How to Chicken 101 | 181399 | [181399-how-to-chicken-101.json](./181399-how-to-chicken-101.json) |
