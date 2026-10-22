@@ -734,6 +734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -4713,6 +4714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Behind Enemy Lines | 39428 | [39428-behind-enemy-lines.json](./39428-behind-enemy-lines.json) |
 | Behind Nowhere | 105403 | [105403-behind-nowhere.json](./105403-behind-nowhere.json) |
 | Behind The Backrooms | 310245 | [310245-behind-the-backrooms.json](./310245-behind-the-backrooms.json) |
+| Behind the Beyond | 113361 | [113361-behind-the-beyond.json](./113361-behind-the-beyond.json) |
 | Behind the Beyond | 176908 | [176908-behind-the-beyond.json](./176908-behind-the-beyond.json) |
 | Behind The Beyond | 344424 | [344424-behind-the-beyond.json](./344424-behind-the-beyond.json) |
 | Behind the Beyond: Ulti | 277979 | [277979-behind-the-beyond-ulti.json](./277979-behind-the-beyond-ulti.json) |
@@ -7132,6 +7134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Relic | 227909 | [227909-black-relic.json](./227909-black-relic.json) |
 | Black Reliquary | 241882 | [241882-black-reliquary.json](./241882-black-reliquary.json) |
 | Black Resin | 142278 | [142278-black-resin.json](./142278-black-resin.json) |
+| Black Rims Wanted | 113370 | [113370-black-rims-wanted.json](./113370-black-rims-wanted.json) |
 | Black River | 29661 | [29661-black-river.json](./29661-black-river.json) |
 | Black Robinia | 59420 | [59420-black-robinia.json](./59420-black-robinia.json) |
 | Black Rock City | 57517 | [57517-black-rock-city.json](./57517-black-rock-city.json) |
@@ -7960,6 +7963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blinky | 192832 | [192832-blinky.json](./192832-blinky.json) |
 | Blinky 3 | 282796 | [282796-blinky-3.json](./282796-blinky-3.json) |
 | Blinky Bill's Ghost Cave | 306723 | [306723-blinky-bills-ghost-cave.json](./306723-blinky-bills-ghost-cave.json) |
+| Blinky: Rise to the Top | 113409 | [113409-blinky-rise-to-the-top.json](./113409-blinky-rise-to-the-top.json) |
 | Blinky's Adventure | 367949 | [367949-blinkys-adventure.json](./367949-blinkys-adventure.json) |
 | Blinky's Revenge | 338832 | [338832-blinkys-revenge.json](./338832-blinkys-revenge.json) |
 | Blinx 2: Masters of Time and Space | 5752 | [5752-blinx-2-masters-of-time-and-space.json](./5752-blinx-2-masters-of-time-and-space.json) |
