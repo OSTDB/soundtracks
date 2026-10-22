@@ -341,6 +341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mad Valley | 294135 | [294135-mad-valley.json](./294135-mad-valley.json) |
 | Mad Void | 321051 | [321051-mad-void.json](./321051-mad-void.json) |
 | Mad Way | 256285 | [256285-mad-way.json](./256285-mad-way.json) |
+| Mad Wild Fairy Tale | 152696 | [152696-mad-wild-fairy-tale.json](./152696-mad-wild-fairy-tale.json) |
 | Mad World: Age of Darkness | 197594 | [197594-mad-world-age-of-darkness.json](./197594-mad-world-age-of-darkness.json) |
 | Mad Yu: Rural Idle | 412391 | [412391-mad-yu-rural-idle.json](./412391-mad-yu-rural-idle.json) |
 | Mad Zombie | 86562 | [86562-mad-zombie.json](./86562-mad-zombie.json) |
@@ -491,6 +492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Made in Wired | 271697 | [271697-made-in-wired.json](./271697-made-in-wired.json) |
 | Made Marion | 148518 | [148518-made-marion.json](./148518-made-marion.json) |
 | Made of DIrt | 185691 | [185691-made-of-dirt.json](./185691-made-of-dirt.json) |
+| Made to be Crushed | 152625 | [152625-made-to-be-crushed.json](./152625-made-to-be-crushed.json) |
 | Made to Order | 103230 | [103230-made-to-order.json](./103230-made-to-order.json) |
 | Madela | 127859 | [127859-madela.json](./127859-madela.json) |
 | Madeline: European Adventures | 210114 | [210114-madeline-european-adventures.json](./210114-madeline-european-adventures.json) |
@@ -731,6 +733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MageRun | 192361 | [192361-magerun.json](./192361-magerun.json) |
 | Mages | 115780 | [115780-mages.json](./115780-mages.json) |
 | Mages | 170844 | [170844-mages.json](./170844-mages.json) |
+| Mages Defense | 152633 | [152633-mages-defense.json](./152633-mages-defense.json) |
 | Mages of Osmea | 312199 | [312199-mages-of-osmea.json](./312199-mages-of-osmea.json) |
 | MageSlayer | 8695 | [8695-mageslayer.json](./8695-mageslayer.json) |
 | MageTrain | 338350 | [338350-magetrain.json](./338350-magetrain.json) |
@@ -4897,6 +4900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mazed and Bemused | 143963 | [143963-mazed-and-bemused.json](./143963-mazed-and-bemused.json) |
 | MazeFinger | 79863 | [79863-mazefinger.json](./79863-mazefinger.json) |
 | Mazeglaser | 65833 | [65833-mazeglaser.json](./65833-mazeglaser.json) |
+| Mazeing | 152624 | [152624-mazeing.json](./152624-mazeing.json) |
 | Mazeing | 306384 | [306384-mazeing.json](./306384-mazeing.json) |
 | Mazekko Tower | 83814 | [83814-mazekko-tower.json](./83814-mazekko-tower.json) |
 | Mazelit: Rolling With Style | 295346 | [295346-mazelit-rolling-with-style.json](./295346-mazelit-rolling-with-style.json) |
