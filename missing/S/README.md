@@ -6888,6 +6888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shirokuro: Shikijoushou no Osananajimi wo Sewa suru koto ni natta, Kanojo ni naisho de | 323855 | [323855-shirokuro-shikijoushou-no-osananajimi-wo-sewa-suru-koto-ni-natta-kanojo-ni-naisho-de.json](./323855-shirokuro-shikijoushou-no-osananajimi-wo-sewa-suru-koto-ni-natta-kanojo-ni-naisho-de.json) |
 | ShiroKuro: Shiroi Kokoro to Kuroi Tsurugi | 300444 | [300444-shirokuro-shiroi-kokoro-to-kuroi-tsurugi.json](./300444-shirokuro-shiroi-kokoro-to-kuroi-tsurugi.json) |
 | Shirone: the Dragon Girl | 192782 | [192782-shirone-the-dragon-girl.json](./192782-shirone-the-dragon-girl.json) |
+| Shironeko Project Infinity | 105054 | [105054-shironeko-project-infinity.json](./105054-shironeko-project-infinity.json) |
 | Shirotsume Souwa Bangai-hen: Tsunakawa-sanchi no Christmas | 376706 | [376706-shirotsume-souwa-bangai-hen-tsunakawa-sanchi-no-christmas.json](./376706-shirotsume-souwa-bangai-hen-tsunakawa-sanchi-no-christmas.json) |
 | Shirotsume Souwa: Episode of the Clovers | 354005 | [354005-shirotsume-souwa-episode-of-the-clovers.json](./354005-shirotsume-souwa-episode-of-the-clovers.json) |
 | Shirushi | 202364 | [202364-shirushi.json](./202364-shirushi.json) |
@@ -8130,6 +8131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Earth | 151495 | [151495-silent-earth.json](./151495-silent-earth.json) |
 | Silent Escape: Induction | 127945 | [127945-silent-escape-induction.json](./127945-silent-escape-induction.json) |
 | Silent Fangs: Stealthy Vampire's Tale | 371264 | [371264-silent-fangs-stealthy-vampires-tale.json](./371264-silent-fangs-stealthy-vampires-tale.json) |
+| Silent Footsteps | 105072 | [105072-silent-footsteps.json](./105072-silent-footsteps.json) |
 | Silent Forest: Deadly Night Horror | 330404 | [330404-silent-forest-deadly-night-horror.json](./330404-silent-forest-deadly-night-horror.json) |
 | Silent Frontiers | 304606 | [304606-silent-frontiers.json](./304606-silent-frontiers.json) |
 | Silent Harbor | 236748 | [236748-silent-harbor.json](./236748-silent-harbor.json) |
@@ -9623,6 +9625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skools Out | 338809 | [338809-skools-out.json](./338809-skools-out.json) |
 | Skoory Rush | 250463 | [250463-skoory-rush.json](./250463-skoory-rush.json) |
 | Skorecery | 113577 | [113577-skorecery.json](./113577-skorecery.json) |
+| Skorpulac | 105062 | [105062-skorpulac.json](./105062-skorpulac.json) |
 | Skotos | 171297 | [171297-skotos.json](./171297-skotos.json) |
 | Skotos: Levels Pack | 201534 | [201534-skotos-levels-pack.json](./201534-skotos-levels-pack.json) |
 | Skout | 9358 | [9358-skout.json](./9358-skout.json) |
@@ -16445,6 +16448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speedy Bally | 25873 | [25873-speedy-bally.json](./25873-speedy-bally.json) |
 | Speedy Biker Xtreme | 257366 | [257366-speedy-biker-xtreme.json](./257366-speedy-biker-xtreme.json) |
 | Speedy Eggbert | 18729 | [18729-speedy-eggbert.json](./18729-speedy-eggbert.json) |
+| Speedy Girls - Dream Team | 105151 | [105151-speedy-girls-dream-team.json](./105151-speedy-girls-dream-team.json) |
 | Speedy Golf | 174340 | [174340-speedy-golf.json](./174340-speedy-golf.json) |
 | Speedy Golf | 90843 | [90843-speedy-golf.json](./90843-speedy-golf.json) |
 | Speedy Gonzales | 8077 | [8077-speedy-gonzales.json](./8077-speedy-gonzales.json) |
@@ -18060,6 +18064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squad Conflicts | 174906 | [174906-squad-conflicts.json](./174906-squad-conflicts.json) |
 | Squad Game | 242956 | [242956-squad-game.json](./242956-squad-game.json) |
 | Squad Legends: Battle Royale | 417281 | [417281-squad-legends-battle-royale.json](./417281-squad-legends-battle-royale.json) |
+| Squad Z | 105071 | [105071-squad-z.json](./105071-squad-z.json) |
 | Squad: Canadian Armed Forces | 170368 | [170368-squad-canadian-armed-forces.json](./170368-squad-canadian-armed-forces.json) |
 | SquadBlast | 202686 | [202686-squadblast.json](./202686-squadblast.json) |
 | Squadika | 401693 | [401693-squadika.json](./401693-squadika.json) |
@@ -18499,6 +18504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stan James Original Free Kick Challenge | 324738 | [324738-stan-james-original-free-kick-challenge.json](./324738-stan-james-original-free-kick-challenge.json) |
 | Stan Lee's Verticus | 148860 | [148860-stan-lees-verticus.json](./148860-stan-lees-verticus.json) |
 | StanÇact: Sexy Tenacious Girls | 264621 | [264621-stancact-sexy-tenacious-girls.json](./264621-stancact-sexy-tenacious-girls.json) |
+| Stancie | 105061 | [105061-stancie.json](./105061-stancie.json) |
 | Stand 'em Up | 152153 | [152153-stand-em-up.json](./152153-stand-em-up.json) |
 | Stand and Fight | 259448 | [259448-stand-and-fight.json](./259448-stand-and-fight.json) |
 | Stand By Me | 145432 | [145432-stand-by-me.json](./145432-stand-by-me.json) |
@@ -19898,6 +19904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starship | 326758 | [326758-starship.json](./326758-starship.json) |
 | Starship Annihilator: Complete Edition | 53659 | [53659-starship-annihilator-complete-edition.json](./53659-starship-annihilator-complete-edition.json) |
 | Starship Assassin | 57061 | [57061-starship-assassin.json](./57061-starship-assassin.json) |
+| Starship Avenger: Operation Take Back Earth | 105042 | [105042-starship-avenger-operation-take-back-earth.json](./105042-starship-avenger-operation-take-back-earth.json) |
 | Starship Bloopers | 405606 | [405606-starship-bloopers.json](./405606-starship-bloopers.json) |
 | Starship Caramba | 326776 | [326776-starship-caramba.json](./326776-starship-caramba.json) |
 | Starship Catan | 72949 | [72949-starship-catan.json](./72949-starship-catan.json) |
@@ -19995,6 +20002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Startling Odyssey 1: Blue Evolution | 63928 | [63928-startling-odyssey-1-blue-evolution.json](./63928-startling-odyssey-1-blue-evolution.json) |
 | Startling Odyssey II: Maryuu Sensou | 63929 | [63929-startling-odyssey-ii-maryuu-sensou.json](./63929-startling-odyssey-ii-maryuu-sensou.json) |
 | StartPlay | 339669 | [339669-startplay.json](./339669-startplay.json) |
+| Startrail Destiny | 105039 | [105039-startrail-destiny.json](./105039-startrail-destiny.json) |
 | StarTrash | 68347 | [68347-startrash.json](./68347-startrash.json) |
 | Startron | 333022 | [333022-startron.json](./333022-startron.json) |
 | StarTropics | 15901 | [15901-startropics.json](./15901-startropics.json) |
@@ -22224,6 +22232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Striker's Instinct | 406155 | [406155-strikers-instinct.json](./406155-strikers-instinct.json) |
 | Strikers | 219577 | [219577-strikers.json](./219577-strikers.json) |
 | Strikers 1945 | 39300 | [39300-strikers-1945.json](./39300-strikers-1945.json) |
+| Strikers 1945 for Nintendo Switch | 105051 | [105051-strikers-1945-for-nintendo-switch.json](./105051-strikers-1945-for-nintendo-switch.json) |
 | Strikers 1945 II for Nintendo Switch | 234133 | [234133-strikers-1945-ii-for-nintendo-switch.json](./234133-strikers-1945-ii-for-nintendo-switch.json) |
 | Strikers 1945 III for Nintendo Switch | 212270 | [212270-strikers-1945-iii-for-nintendo-switch.json](./212270-strikers-1945-iii-for-nintendo-switch.json) |
 | Strikers 1945 Plus | 72911 | [72911-strikers-1945-plus.json](./72911-strikers-1945-plus.json) |
