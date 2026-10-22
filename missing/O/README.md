@@ -3075,6 +3075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Order of Battle: Panzerkrieg | 118969 | [118969-order-of-battle-panzerkrieg.json](./118969-order-of-battle-panzerkrieg.json) |
 | Order of Battle: Red Star | 121528 | [121528-order-of-battle-red-star.json](./121528-order-of-battle-red-star.json) |
 | Order of Battle: Red Steel | 154512 | [154512-order-of-battle-red-steel.json](./154512-order-of-battle-red-steel.json) |
+| Order of Battle: Red Storm | 154230 | [154230-order-of-battle-red-storm.json](./154230-order-of-battle-red-storm.json) |
 | Order of Battle: Rising Sun | 118964 | [118964-order-of-battle-rising-sun.json](./118964-order-of-battle-rising-sun.json) |
 | Order of Battle: Sandstorm | 118970 | [118970-order-of-battle-sandstorm.json](./118970-order-of-battle-sandstorm.json) |
 | Order of Battle: U.S. Marines | 118962 | [118962-order-of-battle-u-s-marines.json](./118962-order-of-battle-u-s-marines.json) |
