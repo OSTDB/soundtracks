@@ -3068,6 +3068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadliest Warrior: Battlegrounds | 294543 | [294543-deadliest-warrior-battlegrounds.json](./294543-deadliest-warrior-battlegrounds.json) |
 | Deadlight: Director's Cut | 19454 | [19454-deadlight-directors-cut.json](./19454-deadlight-directors-cut.json) |
 | Deadlike | 345618 | [345618-deadlike.json](./345618-deadlike.json) |
+| Deadline | 154318 | [154318-deadline.json](./154318-deadline.json) |
 | Deadline | 185412 | [185412-deadline.json](./185412-deadline.json) |
 | Deadline | 357729 | [357729-deadline.json](./357729-deadline.json) |
 | Deadline | 376825 | [376825-deadline.json](./376825-deadline.json) |
@@ -4286,6 +4287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defend Your Nuts 2 | 399466 | [399466-defend-your-nuts-2.json](./399466-defend-your-nuts-2.json) |
 | Defenda | 45350 | [45350-defenda.json](./45350-defenda.json) |
 | Defender | 150104 | [150104-defender.json](./150104-defender.json) |
+| Defender | 154321 | [154321-defender.json](./154321-defender.json) |
 | Defender | 198721 | [198721-defender.json](./198721-defender.json) |
 | Defender | 228072 | [228072-defender.json](./228072-defender.json) |
 | Defender | 239136 | [239136-defender.json](./239136-defender.json) |
@@ -4454,6 +4456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Degraman: Act I - Vincent, Cassel & Loner | 196088 | [196088-degraman-act-i-vincent-cassel-and-loner.json](./196088-degraman-act-i-vincent-cassel-and-loner.json) |
 | Degraman: Act II - Victor | 265571 | [265571-degraman-act-ii-victor.json](./265571-degraman-act-ii-victor.json) |
 | Degu Squad | 282007 | [282007-degu-squad.json](./282007-degu-squad.json) |
+| DeHexTD | 154314 | [154314-dehextd.json](./154314-dehextd.json) |
 | Dehoarder 2 | 214509 | [214509-dehoarder-2.json](./214509-dehoarder-2.json) |
 | Dehumanized | 104054 | [104054-dehumanized.json](./104054-dehumanized.json) |
 | Dehydration | 374723 | [374723-dehydration.json](./374723-dehydration.json) |
@@ -10903,6 +10906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draconis Volatus | 211777 | [211777-draconis-volatus.json](./211777-draconis-volatus.json) |
 | Dracs After Dusk | 347735 | [347735-dracs-after-dusk.json](./347735-dracs-after-dusk.json) |
 | Dracu-Riot! | 137087 | [137087-dracu-riot.json](./137087-dracu-riot.json) |
+| Dracula | 154323 | [154323-dracula.json](./154323-dracula.json) |
 | Dracula | 174104 | [174104-dracula.json](./174104-dracula.json) |
 | Dracula | 18588 | [18588-dracula.json](./18588-dracula.json) |
 | Dracula | 31184 | [31184-dracula.json](./31184-dracula.json) |
