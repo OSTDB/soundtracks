@@ -8,7 +8,7 @@
 <p align="center">
 <a href="https://ostdb.net"><img alt="soundtracks: 2,457" src="https://img.shields.io/badge/soundtracks-2%2C457-E2B714?style=for-the-badge&labelColor=161718" /></a>
 <a href="games/README.md"><img alt="games: 1,975" src="https://img.shields.io/badge/games-1%2C975-ECECEE?style=for-the-badge&labelColor=161718" /></a>
-<a href="missing/README.md"><img alt="missing: 243,368" src="https://img.shields.io/badge/missing-243%2C368-F0827A?style=for-the-badge&labelColor=161718" /></a>
+<a href="missing/README.md"><img alt="missing: 244,234" src="https://img.shields.io/badge/missing-244%2C234-F0827A?style=for-the-badge&labelColor=161718" /></a>
 <a href="SUBMITTING.md"><img alt="PRs: welcome" src="https://img.shields.io/badge/PRs-welcome-1DB954?style=for-the-badge&labelColor=161718&logo=github&logoColor=white" /></a>
 <a href="LICENSE"><img alt="data: CC BY-NC-SA 4.0" src="https://img.shields.io/badge/data-CC%20BY--NC--SA%204.0-6366F1?style=for-the-badge&labelColor=161718" /></a>
 </p>
@@ -30,20 +30,20 @@
 
 <table>
 <tr>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/escape-goat"><img src="https://i.scdn.co/image/ab67616d0000b273aabac0254697cfd03d94d8ed" width="120" height="120" alt="" /></a><br /><sub><b>Escape Goat</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/life-goes-on-done-to-death"><img src="https://i.scdn.co/image/ab67616d0000b273f2d50c27b055582415f79f0b" width="120" height="120" alt="" /></a><br /><sub><b>Life Goes On: Done to Death</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/skatebird"><img src="https://i.scdn.co/image/ab67616d0000b273c52a9ab65a82c973cbc313e7" width="120" height="120" alt="" /></a><br /><sub><b>Skatebird</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/redeemer"><img src="https://i.scdn.co/image/ab67616d0000b27312ab39509ecae30edfd14c30" width="120" height="120" alt="" /></a><br /><sub><b>Redeemer</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/monochroma"><img src="https://i.scdn.co/image/ab67616d0000b273b6c1618db9ee9901dd567209" width="120" height="120" alt="" /></a><br /><sub><b>Monochroma</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/blossom-tales-the-sleeping-king"><img src="https://i.scdn.co/image/ab67616d0000b273eb6f48127c0aa5fc34b5993f" width="120" height="120" alt="" /></a><br /><sub><b>Blossom Tales: The Sleeping King</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/shogun-showdown"><img src="https://i.scdn.co/image/ab67616d0000b273730b38a1418452fbeee63954" width="120" height="120" alt="" /></a><br /><sub><b>Shogun Showdown</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/pac-mania"><img src="https://i.scdn.co/image/ab67616d0000b273bec02afac509e0d8479ecda5" width="120" height="120" alt="" /></a><br /><sub><b>Pac-Mania</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/braid-anniversary-edition"><img src="https://i.scdn.co/image/ab67616d0000b273674fea54cfcad29740a80dfb" width="120" height="120" alt="" /></a><br /><sub><b>Braid: Anniversary Edition</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/disintegration"><img src="https://i.scdn.co/image/ab67616d0000b273963e04b22c383a44d48ede77" width="120" height="120" alt="" /></a><br /><sub><b>Disintegration</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/idle-slayer"><img src="https://i.scdn.co/image/ab67616d0000b273dc7031446a77b06f412f5c31" width="120" height="120" alt="" /></a><br /><sub><b>Idle Slayer</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/unsolved-case"><img src="https://i.scdn.co/image/ab67616d0000b27338b2742e92ea3f58178dcc19" width="120" height="120" alt="" /></a><br /><sub><b>Unsolved Case</b></sub></td>
 </tr>
 <tr>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/the-coma-recut"><img src="https://i.scdn.co/image/ab67616d0000b273bff3592adc3695c898394d2e" width="120" height="120" alt="" /></a><br /><sub><b>The Coma: Recut</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/resistance-burning-skies"><img src="https://i.scdn.co/image/ab67616d0000b27380e7987435a35534c195990a" width="120" height="120" alt="" /></a><br /><sub><b>Resistance: Burning Skies</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/castlestorm"><img src="https://i.scdn.co/image/ab67616d0000b2732f9b6a4838508ef24336cdb6" width="120" height="120" alt="" /></a><br /><sub><b>CastleStorm</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/our-life-beginnings-and-always"><img src="https://i.scdn.co/image/ab67616d0000b273c560f3146a9d1dff79d76a7d" width="120" height="120" alt="" /></a><br /><sub><b>Our Life: Beginnings &amp; Always</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/ravenswatch"><img src="https://i.scdn.co/image/ab67616d0000b273a9cea9f2621602ee76a645fb" width="120" height="120" alt="" /></a><br /><sub><b>Ravenswatch</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/submerged-hidden-depths"><img src="https://i.scdn.co/image/ab67616d0000b273c5c3ff22f301905f052ed7c1" width="120" height="120" alt="" /></a><br /><sub><b>Submerged: Hidden Depths</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/borderlands-3-moxxis-heist-of-the-handsome-jackpot"><img src="https://i.scdn.co/image/ab67616d0000b27308946008d566f1ddf371e9a9" width="120" height="120" alt="" /></a><br /><sub><b>Borderlands 3: Moxxi's Heist of the Handsome Jackpot</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/the-sims-2"><img src="https://i.scdn.co/image/ab67616d0000b273e360fbb82e572bb9c59e1b46" width="120" height="120" alt="" /></a><br /><sub><b>The Sims 2</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/butcher"><img src="https://i.scdn.co/image/ab67616d0000b273df526c49662254360a98da7b" width="120" height="120" alt="" /></a><br /><sub><b>Butcher</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/identity-v"><img src="https://i.scdn.co/image/ab67616d0000b27300d7e084b617e4744eb8b4c0" width="120" height="120" alt="" /></a><br /><sub><b>Identity V</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/golden-axe"><img src="https://i.scdn.co/image/ab67616d0000b2738a17f791067642bd4eee0f4c" width="120" height="120" alt="" /></a><br /><sub><b>Golden Axe</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/under-night-in-birth-exe-late-st"><img src="https://i.scdn.co/image/ab67616d0000b273f58a18c274f18b60b2413539" width="120" height="120" alt="" /></a><br /><sub><b>Under Night In-Birth Exe:Late[st]</b></sub></td>
 </tr>
 </table>
 
@@ -69,7 +69,7 @@ The most popular games that still have no soundtrack on OSTDB. Find the official
 | 14 | **Divinity: Original Sin** | [🔎 Find on Spotify](https://open.spotify.com/search/Divinity%3A%20Original%20Sin%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/D/5082-divinity-original-sin.json) |
 | 15 | **LEGO Star Wars: The Video Game** | [🔎 Find on Spotify](https://open.spotify.com/search/LEGO%20Star%20Wars%3A%20The%20Video%20Game%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/L/2681-lego-star-wars-the-video-game.json) |
 
-More in **[missing/](missing/README.md)** (243,368 games).
+More in **[missing/](missing/README.md)** (244,234 games).
 
 ## 🎵 Add a soundtrack in 2 minutes
 
@@ -97,7 +97,7 @@ Weekly snapshots are on the **[Releases](https://github.com/OSTDB/soundtracks/re
 Everyone who added or fixed a soundtrack. Thank you!
 
 <p>
-<a href="https://github.com/metjum" title="metjum: 20 contributions"><img src="https://github.com/metjum.png?size=96" width="48" height="48" alt="metjum" /></a>
+<a href="https://github.com/metjum" title="metjum: 7 contributions"><img src="https://github.com/metjum.png?size=96" width="48" height="48" alt="metjum" /></a>
 </p>
 
 ## 📚 Browse
@@ -114,4 +114,4 @@ Commercial use needs permission ([support@ostdb.net](mailto:support@ostdb.net)).
 
 ---
 
-<sub>Generated by <a href="https://github.com/OSTDB/soundtracks-sync">ostdbbot</a> &middot; 2,457 soundtracks &middot; last updated 2026-10-21T20:56:28.609Z</sub>
+<sub>Generated by <a href="https://github.com/OSTDB/soundtracks-sync">ostdbbot</a> &middot; 2,457 soundtracks &middot; last updated 2026-10-22T00:41:01.908Z</sub>
