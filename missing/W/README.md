@@ -457,6 +457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wampee Helicopters | 117714 | [117714-wampee-helicopters.json](./117714-wampee-helicopters.json) |
 | Wampir Dungeon | 215317 | [215317-wampir-dungeon.json](./215317-wampir-dungeon.json) |
 | Wamu Wamu | 132020 | [132020-wamu-wamu.json](./132020-wamu-wamu.json) |
+| Wamu Wamu 2 | 129430 | [129430-wamu-wamu-2.json](./129430-wamu-wamu-2.json) |
 | Wan Chai Connection | 62134 | [62134-wan-chai-connection.json](./62134-wan-chai-connection.json) |
 | Wan Nyan Dobutsu Byouin: Suteki na Juui-San ni Narou! | 222539 | [222539-wan-nyan-dobutsu-byouin-suteki-na-juui-san-ni-narou.json](./222539-wan-nyan-dobutsu-byouin-suteki-na-juui-san-ni-narou.json) |
 | Wan Nyan Doubutsu Byouin | 275626 | [275626-wan-nyan-doubutsu-byouin.json](./275626-wan-nyan-doubutsu-byouin.json) |
@@ -778,6 +779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War of the Twins | 156716 | [156716-war-of-the-twins.json](./156716-war-of-the-twins.json) |
 | War of the Vikings | 5678 | [5678-war-of-the-vikings.json](./5678-war-of-the-vikings.json) |
 | War of the Visions: Final Fantasy Brave Exvius | 112885 | [112885-war-of-the-visions-final-fantasy-brave-exvius.json](./112885-war-of-the-visions-final-fantasy-brave-exvius.json) |
+| War of the Wasteland | 129456 | [129456-war-of-the-wasteland.json](./129456-war-of-the-wasteland.json) |
 | War of the Western Deep | 310069 | [310069-war-of-the-western-deep.json](./310069-war-of-the-western-deep.json) |
 | War of the Worlds | 175633 | [175633-war-of-the-worlds.json](./175633-war-of-the-worlds.json) |
 | War of the Worlds | 232866 | [232866-war-of-the-worlds.json](./232866-war-of-the-worlds.json) |
