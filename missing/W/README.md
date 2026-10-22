@@ -47,6 +47,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wacky Darts | 93352 | [93352-wacky-darts.json](./93352-wacky-darts.json) |
 | Wacky Escape | 276151 | [276151-wacky-escape.json](./276151-wacky-escape.json) |
 | Wacky Farm | 205957 | [205957-wacky-farm.json](./205957-wacky-farm.json) |
+| Wacky Golf Land | 131835 | [131835-wacky-golf-land.json](./131835-wacky-golf-land.json) |
 | Wacky Jumpers | 288473 | [288473-wacky-jumpers.json](./288473-wacky-jumpers.json) |
 | Wacky Races | 12817 | [12817-wacky-races.json](./12817-wacky-races.json) |
 | Wacky Races | 205917 | [205917-wacky-races.json](./205917-wacky-races.json) |
@@ -1469,6 +1470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warp Defender | 290984 | [290984-warp-defender.json](./290984-warp-defender.json) |
 | Warp Destroyer | 234775 | [234775-warp-destroyer.json](./234775-warp-destroyer.json) |
 | Warp Drive | 143530 | [143530-warp-drive.json](./143530-warp-drive.json) |
+| Warp Factor | 131830 | [131830-warp-factor.json](./131830-warp-factor.json) |
 | Warp Gate World Kingdom Tales | 254653 | [254653-warp-gate-world-kingdom-tales.json](./254653-warp-gate-world-kingdom-tales.json) |
 | Warp Glider | 112073 | [112073-warp-glider.json](./112073-warp-glider.json) |
 | Warp Knights | 391891 | [391891-warp-knights.json](./391891-warp-knights.json) |
@@ -3374,6 +3376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where's an Egg? | 135870 | [135870-wheres-an-egg.json](./135870-wheres-an-egg.json) |
 | Where's Baby | 107932 | [107932-wheres-baby.json](./107932-wheres-baby.json) |
 | Where's Fido? | 278995 | [278995-wheres-fido.json](./278995-wheres-fido.json) |
+| Where's Home? | 131828 | [131828-wheres-home.json](./131828-wheres-home.json) |
 | Where's My Avocado? | 112240 | [112240-wheres-my-avocado.json](./112240-wheres-my-avocado.json) |
 | Where's my Bara Deck? | 342006 | [342006-wheres-my-bara-deck.json](./342006-wheres-my-bara-deck.json) |
 | Where's My Bara Deck? Hardcastle | 393834 | [393834-wheres-my-bara-deck-hardcastle.json](./393834-wheres-my-bara-deck-hardcastle.json) |
@@ -5156,6 +5159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Without a Dawn | 333551 | [333551-without-a-dawn.json](./333551-without-a-dawn.json) |
 | Without A Hitch | 381168 | [381168-without-a-hitch.json](./381168-without-a-hitch.json) |
 | Without A Roof (W.A.R.) | 108637 | [108637-without-a-roof-w-a-r.json](./108637-without-a-roof-w-a-r.json) |
+| Without A Voice | 131833 | [131833-without-a-voice.json](./131833-without-a-voice.json) |
 | Without a Voice: Blooming Edition | 300541 | [300541-without-a-voice-blooming-edition.json](./300541-without-a-voice-blooming-edition.json) |
 | Without End | 213842 | [213842-without-end.json](./213842-without-end.json) |
 | Without Escape | 229134 | [229134-without-escape.json](./229134-without-escape.json) |
