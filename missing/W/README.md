@@ -3105,7 +3105,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wheel Stars | 236313 | [236313-wheel-stars.json](./236313-wheel-stars.json) |
 | Wheelbarrow Warrior | 107365 | [107365-wheelbarrow-warrior.json](./107365-wheelbarrow-warrior.json) |
 | Wheelborn | 282222 | [282222-wheelborn.json](./282222-wheelborn.json) |
-| Wheelchair for Two | 406738 | [406738-wheelchair-for-two.json](./406738-wheelchair-for-two.json) |
 | Wheelchair Simulator | 103157 | [103157-wheelchair-simulator.json](./103157-wheelchair-simulator.json) |
 | Wheelchair Simulator VR | 100463 | [100463-wheelchair-simulator-vr.json](./100463-wheelchair-simulator-vr.json) |
 | Wheeled Warriors: Ultimate Destruction | 216832 | [216832-wheeled-warriors-ultimate-destruction.json](./216832-wheeled-warriors-ultimate-destruction.json) |
@@ -3606,6 +3605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | White Day 2: Swan Song | 55020 | [55020-white-day-2-swan-song.json](./55020-white-day-2-swan-song.json) |
 | White Day 2: The Flower That Tells Lies - Complete Edition | 287049 | [287049-white-day-2-the-flower-that-tells-lies-complete-edition.json](./287049-white-day-2-the-flower-that-tells-lies-complete-edition.json) |
 | White Day 2: The Flower That Tells Lies - Ep.2 | 248335 | [248335-white-day-2-the-flower-that-tells-lies-ep-2.json](./248335-white-day-2-the-flower-that-tells-lies-ep-2.json) |
+| White Day VR: The Courage Test | 150390 | [150390-white-day-vr-the-courage-test.json](./150390-white-day-vr-the-courage-test.json) |
 | White Desert | 256973 | [256973-white-desert.json](./256973-white-desert.json) |
 | White Eternal | 314870 | [314870-white-eternal.json](./314870-white-eternal.json) |
 | White Eyes | 166719 | [166719-white-eyes.json](./166719-white-eyes.json) |
@@ -3870,6 +3870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wibarm | 84248 | [84248-wibarm.json](./84248-wibarm.json) |
 | Wibble | 199262 | [199262-wibble.json](./199262-wibble.json) |
 | Wibble Wobble | 177251 | [177251-wibble-wobble.json](./177251-wibble-wobble.json) |
+| Wibbly Witches | 150403 | [150403-wibbly-witches.json](./150403-wibbly-witches.json) |
 | Wibbly-wobbly Tower | 178421 | [178421-wibbly-wobbly-tower.json](./178421-wibbly-wobbly-tower.json) |
 | Wibby Buddy | 366865 | [366865-wibby-buddy.json](./366865-wibby-buddy.json) |
 | Wibi!Data | 323558 | [323558-wibi-data.json](./323558-wibi-data.json) |
@@ -5988,6 +5989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WordJong Arcade | 65492 | [65492-wordjong-arcade.json](./65492-wordjong-arcade.json) |
 | WordKiller: Revolution | 180122 | [180122-wordkiller-revolution.json](./180122-wordkiller-revolution.json) |
 | Wordkour | 307730 | [307730-wordkour.json](./307730-wordkour.json) |
+| Wordland | 150404 | [150404-wordland.json](./150404-wordland.json) |
 | Wordland 2 | 151265 | [151265-wordland-2.json](./151265-wordland-2.json) |
 | Wordland: Let's Travel | 204928 | [204928-wordland-lets-travel.json](./204928-wordland-lets-travel.json) |
 | Wordlase | 28429 | [28429-wordlase.json](./28429-wordlase.json) |
