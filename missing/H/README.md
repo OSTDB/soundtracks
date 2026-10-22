@@ -2504,6 +2504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HeapVR | 29664 | [29664-heapvr.json](./29664-heapvr.json) |
 | Hear My Cult | 260597 | [260597-hear-my-cult.json](./260597-hear-my-cult.json) |
 | Hear My Light | 414143 | [414143-hear-my-light.json](./414143-hear-my-light.json) |
+| Hear No Evil | 114727 | [114727-hear-no-evil.json](./114727-hear-no-evil.json) |
 | Hear Tell of Hauntings | 338726 | [338726-hear-tell-of-hauntings.json](./338726-hear-tell-of-hauntings.json) |
 | Heard of the Story? | 211791 | [211791-heard-of-the-story.json](./211791-heard-of-the-story.json) |
 | Hearse Hero | 406119 | [406119-hearse-hero.json](./406119-hearse-hero.json) |
@@ -6205,6 +6206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hills & Hollows | 141876 | [141876-hills-and-hollows.json](./141876-hills-and-hollows.json) |
 | Hills in the Moonlight | 307587 | [307587-hills-in-the-moonlight.json](./307587-hills-in-the-moonlight.json) |
 | Hills of Glory 3D | 17735 | [17735-hills-of-glory-3d.json](./17735-hills-of-glory-3d.json) |
+| Hills of Steel 2 | 114731 | [114731-hills-of-steel-2.json](./114731-hills-of-steel-2.json) |
 | Hillsea Lido | 70326 | [70326-hillsea-lido.json](./70326-hillsea-lido.json) |
 | Hillshade Farm | 345426 | [345426-hillshade-farm.json](./345426-hillshade-farm.json) |
 | Hillside | 156565 | [156565-hillside.json](./156565-hillside.json) |
@@ -8958,6 +8960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hube: Seeker of Achievements | 100435 | [100435-hube-seeker-of-achievements.json](./100435-hube-seeker-of-achievements.json) |
 | Hubert Catching | 411109 | [411109-hubert-catching.json](./411109-hubert-catching.json) |
 | Hubert the Teddy Bear: Holiday Island | 68089 | [68089-hubert-the-teddy-bear-holiday-island.json](./68089-hubert-the-teddy-bear-holiday-island.json) |
+| Hubris | 114705 | [114705-hubris.json](./114705-hubris.json) |
 | HubWorld | 135608 | [135608-hubworld.json](./135608-hubworld.json) |
 | Huckleberry Falls | 99125 | [99125-huckleberry-falls.json](./99125-huckleberry-falls.json) |
 | Huckleberry Hound in Hollywood Capers | 73530 | [73530-huckleberry-hound-in-hollywood-capers.json](./73530-huckleberry-hound-in-hollywood-capers.json) |
