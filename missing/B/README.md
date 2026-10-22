@@ -1297,6 +1297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balloon Fight GB | 50061 | [50061-balloon-fight-gb.json](./50061-balloon-fight-gb.json) |
 | Balloon Fight-e | 170004 | [170004-balloon-fight-e.json](./170004-balloon-fight-e.json) |
 | Balloon Fighter | 122196 | [122196-balloon-fighter.json](./122196-balloon-fighter.json) |
+| Balloon Flight | 149974 | [149974-balloon-flight.json](./149974-balloon-flight.json) |
 | Balloon Friends | 333515 | [333515-balloon-friends.json](./333515-balloon-friends.json) |
 | Balloon Girl | 120700 | [120700-balloon-girl.json](./120700-balloon-girl.json) |
 | Balloon Gun | 63847 | [63847-balloon-gun.json](./63847-balloon-gun.json) |
@@ -6853,6 +6854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Bird | 100439 | [100439-black-bird.json](./100439-black-bird.json) |
 | Black Bird | 312581 | [312581-black-bird.json](./312581-black-bird.json) |
 | Black Bird: Tori-tachi no Tooboe | 392745 | [392745-black-bird-tori-tachi-no-tooboe.json](./392745-black-bird-tori-tachi-no-tooboe.json) |
+| Black Blade | 149845 | [149845-black-blade.json](./149845-black-blade.json) |
 | Black Blade | 293097 | [293097-black-blade.json](./293097-black-blade.json) |
 | Black blood | 132781 | [132781-black-blood.json](./132781-black-blood.json) |
 | Black Blood | 379357 | [379357-black-blood.json](./379357-black-blood.json) |
@@ -8177,6 +8179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block! Hexa Puzzle | 88914 | [88914-block-hexa-puzzle.json](./88914-block-hexa-puzzle.json) |
 | Block! Triangle Puzzle: Tangram | 106633 | [106633-block-triangle-puzzle-tangram.json](./106633-block-triangle-puzzle-tangram.json) |
 | Block'D | 273978 | [273978-blockd.json](./273978-blockd.json) |
+| Block'Em! | 149849 | [149849-blockem.json](./149849-blockem.json) |
 | Block'hood | 18339 | [18339-blockhood.json](./18339-blockhood.json) |
 | Block'hood VR | 98989 | [98989-blockhood-vr.json](./98989-blockhood-vr.json) |
 | Block+Hole | 366424 | [366424-block-hole.json](./366424-block-hole.json) |
@@ -11573,6 +11576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Break Games | 304844 | [304844-break-games.json](./304844-break-games.json) |
 | Break In | 70097 | [70097-break-in.json](./70097-break-in.json) |
 | Break Into Zatwor | 27775 | [27775-break-into-zatwor.json](./27775-break-into-zatwor.json) |
+| Break It Down | 149912 | [149912-break-it-down.json](./149912-break-it-down.json) |
 | Break It Out | 99194 | [99194-break-it-out.json](./99194-break-it-out.json) |
 | Break It Out 2 | 196622 | [196622-break-it-out-2.json](./196622-break-it-out-2.json) |
 | Break It: Cube Smash | 103336 | [103336-break-it-cube-smash.json](./103336-break-it-cube-smash.json) |
