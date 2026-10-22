@@ -2916,6 +2916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Go Read: An Island Adventure | 122277 | [122277-lets-go-read-an-island-adventure.json](./122277-lets-go-read-an-island-adventure.json) |
 | Let's Go Rocket | 345266 | [345266-lets-go-rocket.json](./345266-lets-go-rocket.json) |
 | Let's Go Run | 242452 | [242452-lets-go-run.json](./242452-lets-go-run.json) |
+| Let's Go There and Wander Nowhere | 103802 | [103802-lets-go-there-and-wander-nowhere.json](./103802-lets-go-there-and-wander-nowhere.json) |
 | Let's Go Thingio!: Re:Thingio Side A | 323753 | [323753-lets-go-thingio-re-thingio-side-a.json](./323753-lets-go-thingio-re-thingio-side-a.json) |
 | Let's Go To The Circus | 299150 | [299150-lets-go-to-the-circus.json](./299150-lets-go-to-the-circus.json) |
 | Let's Go! Baby! Friends World | 191536 | [191536-lets-go-baby-friends-world.json](./191536-lets-go-baby-friends-world.json) |
