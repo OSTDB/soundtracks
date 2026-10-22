@@ -10032,6 +10032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doodle Date | 96632 | [96632-doodle-date.json](./96632-doodle-date.json) |
 | Doodle Defense | 366295 | [366295-doodle-defense.json](./366295-doodle-defense.json) |
 | Doodle Destroy | 343619 | [343619-doodle-destroy.json](./343619-doodle-destroy.json) |
+| Doodle Devil HD | 103125 | [103125-doodle-devil-hd.json](./103125-doodle-devil-hd.json) |
 | Doodle Devil: 3volution | 147737 | [147737-doodle-devil-3volution.json](./147737-doodle-devil-3volution.json) |
 | Doodle Devil: 3volution - Puzzles & Quests | 204290 | [204290-doodle-devil-3volution-puzzles-and-quests.json](./204290-doodle-devil-3volution-puzzles-and-quests.json) |
 | Doodle Devil: Dark Side | 386861 | [386861-doodle-devil-dark-side.json](./386861-doodle-devil-dark-side.json) |
