@@ -1110,6 +1110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last of the Noticers | 291856 | [291856-last-of-the-noticers.json](./291856-last-of-the-noticers.json) |
 | Last One Standing | 176332 | [176332-last-one-standing.json](./176332-last-one-standing.json) |
 | Last Order | 235994 | [235994-last-order.json](./235994-last-order.json) |
+| Last Origin | 123283 | [123283-last-origin.json](./123283-last-origin.json) |
 | Last Origin R+ | 401129 | [401129-last-origin-r.json](./401129-last-origin-r.json) |
 | Last Outlander | 224028 | [224028-last-outlander.json](./224028-last-outlander.json) |
 | Last Outpost | 302110 | [302110-last-outpost.json](./302110-last-outpost.json) |
