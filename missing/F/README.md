@@ -7914,6 +7914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fort Driant | 271753 | [271753-fort-driant.json](./271753-fort-driant.json) |
 | Fort Fire | 63675 | [63675-fort-fire.json](./63675-fort-fire.json) |
 | Fort Flow | 207408 | [207408-fort-flow.json](./207408-fort-flow.json) |
+| Fort Golf | 138624 | [138624-fort-golf.json](./138624-fort-golf.json) |
 | Fort Loop | 183015 | [183015-fort-loop.json](./183015-fort-loop.json) |
 | Fort Meow | 11246 | [11246-fort-meow.json](./11246-fort-meow.json) |
 | Fort Ratsack | 271784 | [271784-fort-ratsack.json](./271784-fort-ratsack.json) |
