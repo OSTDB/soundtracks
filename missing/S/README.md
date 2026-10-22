@@ -3068,6 +3068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea Devil | 172395 | [172395-sea-devil.json](./172395-sea-devil.json) |
 | Sea Dogs: Caribbean Tales | 51868 | [51868-sea-dogs-caribbean-tales.json](./51868-sea-dogs-caribbean-tales.json) |
 | Sea Dogs: To Each His Own - Flying the Jolly Roger | 172374 | [172374-sea-dogs-to-each-his-own-flying-the-jolly-roger.json](./172374-sea-dogs-to-each-his-own-flying-the-jolly-roger.json) |
+| Sea Dogs: To Each His Own - Happily Ever After | 155408 | [155408-sea-dogs-to-each-his-own-happily-ever-after.json](./155408-sea-dogs-to-each-his-own-happily-ever-after.json) |
 | Sea Dogs: To Each His Own - Hero of the Nation | 171618 | [171618-sea-dogs-to-each-his-own-hero-of-the-nation.json](./171618-sea-dogs-to-each-his-own-hero-of-the-nation.json) |
 | Sea Dove | 246792 | [246792-sea-dove.json](./246792-sea-dove.json) |
 | Sea Dragon | 22767 | [22767-sea-dragon.json](./22767-sea-dragon.json) |
@@ -11010,6 +11011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smash Therapy | 220598 | [220598-smash-therapy.json](./220598-smash-therapy.json) |
 | Smash Track Drifters | 143634 | [143634-smash-track-drifters.json](./143634-smash-track-drifters.json) |
 | Smash Up - The Card Game | 87216 | [87216-smash-up-the-card-game.json](./87216-smash-up-the-card-game.json) |
+| Smash Up: Awesome Level 9000 | 155444 | [155444-smash-up-awesome-level-9000.json](./155444-smash-up-awesome-level-9000.json) |
 | Smash Up: Pretty Pretty | 172147 | [172147-smash-up-pretty-pretty.json](./172147-smash-up-pretty-pretty.json) |
 | Smash Your PC | 318267 | [318267-smash-your-pc.json](./318267-smash-your-pc.json) |
 | Smash'em | 158703 | [158703-smashem.json](./158703-smashem.json) |
