@@ -2002,6 +2002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of Keepers Collection | 222226 | [222226-legend-of-keepers-collection.json](./222226-legend-of-keepers-collection.json) |
 | Legend of Keepers: Complete Edition | 225547 | [225547-legend-of-keepers-complete-edition.json](./225547-legend-of-keepers-complete-edition.json) |
 | Legend of Keepers: Feed the Troll | 188528 | [188528-legend-of-keepers-feed-the-troll.json](./188528-legend-of-keepers-feed-the-troll.json) |
+| Legend of Keepers: Return of the Goddess | 152106 | [152106-legend-of-keepers-return-of-the-goddess.json](./152106-legend-of-keepers-return-of-the-goddess.json) |
 | Legend of Kingdoms | 224020 | [224020-legend-of-kingdoms.json](./224020-legend-of-kingdoms.json) |
 | Legend of Krannia: Cursed Fate | 144626 | [144626-legend-of-krannia-cursed-fate.json](./144626-legend-of-krannia-cursed-fate.json) |
 | Legend of Krilona | 180021 | [180021-legend-of-krilona.json](./180021-legend-of-krilona.json) |
