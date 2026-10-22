@@ -1546,6 +1546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bandai Namco Games Presents: J Legend Retsuden | 136907 | [136907-bandai-namco-games-presents-j-legend-retsuden.json](./136907-bandai-namco-games-presents-j-legend-retsuden.json) |
 | Bandai Namco Games Presents: J Legend Retsuden | 63114 | [63114-bandai-namco-games-presents-j-legend-retsuden.json](./63114-bandai-namco-games-presents-j-legend-retsuden.json) |
 | Bandana City | 93067 | [93067-bandana-city.json](./93067-bandana-city.json) |
+| Bandapes | 129443 | [129443-bandapes.json](./129443-bandapes.json) |
 | Bandeirantes: The Game. | 347348 | [347348-bandeirantes-the-game.json](./347348-bandeirantes-the-game.json) |
 | Bandido | 264322 | [264322-bandido.json](./264322-bandido.json) |
 | Bandido Rush | 348584 | [348584-bandido-rush.json](./348584-bandido-rush.json) |
@@ -3891,6 +3892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bearded Dragons | 133475 | [133475-bearded-dragons.json](./133475-bearded-dragons.json) |
 | Beards Go Underground | 399258 | [399258-beards-go-underground.json](./399258-beards-go-underground.json) |
 | Beards vs. Claws | 399695 | [399695-beards-vs-claws.json](./399695-beards-vs-claws.json) |
+| Beardy McStrongarm | 129457 | [129457-beardy-mcstrongarm.json](./129457-beardy-mcstrongarm.json) |
 | Beardy the Digger | 122143 | [122143-beardy-the-digger.json](./122143-beardy-the-digger.json) |
 | BearHammer | 105100 | [105100-bearhammer.json](./105100-bearhammer.json) |
 | Bearly Awesome | 382368 | [382368-bearly-awesome.json](./382368-bearly-awesome.json) |
@@ -5092,6 +5094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bermuda Triangle: Saving the Coral | 67391 | [67391-bermuda-triangle-saving-the-coral.json](./67391-bermuda-triangle-saving-the-coral.json) |
 | Bermuda: Lost Survival | 43365 | [43365-bermuda-lost-survival.json](./43365-bermuda-lost-survival.json) |
 | Bermudes | 185089 | [185089-bermudes.json](./185089-bermudes.json) |
+| Bernadette and the Demon Circus | 129449 | [129449-bernadette-and-the-demon-circus.json](./129449-bernadette-and-the-demon-circus.json) |
 | Bernard Arnault Sauve La France | 144238 | [144238-bernard-arnault-sauve-la-france.json](./144238-bernard-arnault-sauve-la-france.json) |
 | Bernband | 348252 | [348252-bernband.json](./348252-bernband.json) |
 | Bernie's Nightmare | 105586 | [105586-bernies-nightmare.json](./105586-bernies-nightmare.json) |
@@ -6209,6 +6212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bingo de NouTore: BinTore | 222526 | [222526-bingo-de-noutore-bintore.json](./222526-bingo-de-noutore-bintore.json) |
 | Bingo For Kids | 102597 | [102597-bingo-for-kids.json](./102597-bingo-for-kids.json) |
 | Bingo for Nintendo Switch | 90236 | [90236-bingo-for-nintendo-switch.json](./90236-bingo-for-nintendo-switch.json) |
+| Bingo Hall | 129436 | [129436-bingo-hall.json](./129436-bingo-hall.json) |
 | Bingo Infinity | 96082 | [96082-bingo-infinity.json](./96082-bingo-infinity.json) |
 | Bingo Luau | 366407 | [366407-bingo-luau.json](./366407-bingo-luau.json) |
 | Bingo Master | 201998 | [201998-bingo-master.json](./201998-bingo-master.json) |
@@ -10355,6 +10359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Borderus: Angels & Demons | 150547 | [150547-borderus-angels-and-demons.json](./150547-borderus-angels-and-demons.json) |
 | Borderwatch: Dark Armada | 244686 | [244686-borderwatch-dark-armada.json](./244686-borderwatch-dark-armada.json) |
 | Bore Blasters | 250809 | [250809-bore-blasters.json](./250809-bore-blasters.json) |
+| Bore Dome | 129431 | [129431-bore-dome.json](./129431-bore-dome.json) |
 | Boreal Blade | 122099 | [122099-boreal-blade.json](./122099-boreal-blade.json) |
 | Boreal Tenebrae | 195729 | [195729-boreal-tenebrae.json](./195729-boreal-tenebrae.json) |
 | Boreal Tenebrae Act 0 | 404353 | [404353-boreal-tenebrae-act-0.json](./404353-boreal-tenebrae-act-0.json) |
