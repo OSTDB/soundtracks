@@ -7524,6 +7524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forest of Death Masks | 385583 | [385583-forest-of-death-masks.json](./385583-forest-of-death-masks.json) |
 | Forest of Deceit | 248904 | [248904-forest-of-deceit.json](./248904-forest-of-deceit.json) |
 | Forest of Destiny | 298974 | [298974-forest-of-destiny.json](./298974-forest-of-destiny.json) |
+| Forest of Drizzling Rain | 124466 | [124466-forest-of-drizzling-rain.json](./124466-forest-of-drizzling-rain.json) |
 | Forest of Elf | 122057 | [122057-forest-of-elf.json](./122057-forest-of-elf.json) |
 | Forest of Liars | 96494 | [96494-forest-of-liars.json](./96494-forest-of-liars.json) |
 | Forest of Long Shadows | 356676 | [356676-forest-of-long-shadows.json](./356676-forest-of-long-shadows.json) |
