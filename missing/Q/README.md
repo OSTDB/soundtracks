@@ -77,6 +77,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | QBeez 2 | 304318 | [304318-qbeez-2.json](./304318-qbeez-2.json) |
 | Qbike | 28869 | [28869-qbike.json](./28869-qbike.json) |
 | Qbike: Crypto Motorcycles | 68760 | [68760-qbike-crypto-motorcycles.json](./68760-qbike-crypto-motorcycles.json) |
+| Qbike: Cyberpunk Motorcycles | 112043 | [112043-qbike-cyberpunk-motorcycles.json](./112043-qbike-cyberpunk-motorcycles.json) |
 | Qbio | 168653 | [168653-qbio.json](./168653-qbio.json) |
 | QBob | 342685 | [342685-qbob.json](./342685-qbob.json) |
 | QBob: Remastered | 358309 | [358309-qbob-remastered.json](./358309-qbob-remastered.json) |
