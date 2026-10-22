@@ -6356,6 +6356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Madness | 175111 | [175111-pixel-madness.json](./175111-pixel-madness.json) |
 | Pixel Mage Quest RPG | 145050 | [145050-pixel-mage-quest-rpg.json](./145050-pixel-mage-quest-rpg.json) |
 | Pixel Manager: Football 2021 | 256230 | [256230-pixel-manager-football-2021.json](./256230-pixel-manager-football-2021.json) |
+| Pixel Maze | 109353 | [109353-pixel-maze.json](./109353-pixel-maze.json) |
 | Pixel Miner | 333639 | [333639-pixel-miner.json](./333639-pixel-miner.json) |
 | Pixel Miner | 423237 | [423237-pixel-miner.json](./423237-pixel-miner.json) |
 | Pixel Miners | 105720 | [105720-pixel-miners.json](./105720-pixel-miners.json) |
@@ -6681,6 +6682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Room | 393804 | [393804-pixel-room.json](./393804-pixel-room.json) |
 | Pixel Room: Escape Game | 277163 | [277163-pixel-room-escape-game.json](./277163-pixel-room-escape-game.json) |
 | Pixel Rooms | 233554 | [233554-pixel-rooms.json](./233554-pixel-rooms.json) |
+| Pixel Royale | 109357 | [109357-pixel-royale.json](./109357-pixel-royale.json) |
 | Pixel Run and Gun | 402342 | [402342-pixel-run-and-gun.json](./402342-pixel-run-and-gun.json) |
 | Pixel Run! | 252203 | [252203-pixel-run.json](./252203-pixel-run.json) |
 | Pixel Samurai | 204812 | [204812-pixel-samurai.json](./204812-pixel-samurai.json) |
@@ -13055,6 +13057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prototype Mansion - Used No Cover | 77443 | [77443-prototype-mansion-used-no-cover.json](./77443-prototype-mansion-used-no-cover.json) |
 | Prototype Mint B | 332403 | [332403-prototype-mint-b.json](./332403-prototype-mint-b.json) |
 | Prototype N | 215210 | [215210-prototype-n.json](./215210-prototype-n.json) |
+| Prototype TD | 109336 | [109336-prototype-td.json](./109336-prototype-td.json) |
 | Prototype TD 2 | 195796 | [195796-prototype-td-2.json](./195796-prototype-td-2.json) |
 | Prototype Textures II | 300703 | [300703-prototype-textures-ii.json](./300703-prototype-textures-ii.json) |
 | Prototype X1 | 25707 | [25707-prototype-x1.json](./25707-prototype-x1.json) |
@@ -14362,6 +14365,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Me | 208819 | [208819-puzzle-me.json](./208819-puzzle-me.json) |
 | Puzzle Mino | 199328 | [199328-puzzle-mino.json](./199328-puzzle-mino.json) |
 | Puzzle Mix | 195430 | [195430-puzzle-mix.json](./195430-puzzle-mix.json) |
+| Puzzle Monarch: Egypt | 109335 | [109335-puzzle-monarch-egypt.json](./109335-puzzle-monarch-egypt.json) |
+| Puzzle Monarch: Nile River | 109334 | [109334-puzzle-monarch-nile-river.json](./109334-puzzle-monarch-nile-river.json) |
 | Puzzle Monarch: Vampires | 106446 | [106446-puzzle-monarch-vampires.json](./106446-puzzle-monarch-vampires.json) |
 | Puzzle Monkeys | 85583 | [85583-puzzle-monkeys.json](./85583-puzzle-monkeys.json) |
 | Puzzle Myth | 93374 | [93374-puzzle-myth.json](./93374-puzzle-myth.json) |
