@@ -1429,6 +1429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eizoku | 134519 | [134519-eizoku.json](./134519-eizoku.json) |
 | EJ Puzzles: Hooked | 85106 | [85106-ej-puzzles-hooked.json](./85106-ej-puzzles-hooked.json) |
 | Eject Bombin' | 182923 | [182923-eject-bombin.json](./182923-eject-bombin.json) |
+| Ejihon Tantei Jimusho | 107588 | [107588-ejihon-tantei-jimusho.json](./107588-ejihon-tantei-jimusho.json) |
 | Ekans | 260588 | [260588-ekans.json](./260588-ekans.json) |
 | Ekholux | 374399 | [374399-ekholux.json](./374399-ekholux.json) |
 | Ekika Queen's Iand | 206444 | [206444-ekika-queens-iand.json](./206444-ekika-queens-iand.json) |
