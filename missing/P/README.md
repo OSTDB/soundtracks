@@ -9846,6 +9846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pop'n Music Iroha | 79935 | [79935-popn-music-iroha.json](./79935-popn-music-iroha.json) |
 | Pop'n Music Kaimei Riddles | 155387 | [155387-popn-music-kaimei-riddles.json](./155387-popn-music-kaimei-riddles.json) |
 | Pop'n Music Lapistoria | 79936 | [79936-popn-music-lapistoria.json](./79936-popn-music-lapistoria.json) |
+| Pop'n music peace | 130015 | [130015-popn-music-peace.json](./130015-popn-music-peace.json) |
 | Pop'n Music Portable | 67314 | [67314-popn-music-portable.json](./67314-popn-music-portable.json) |
 | Pop'n Music Portable 2 | 64472 | [64472-popn-music-portable-2.json](./64472-popn-music-portable-2.json) |
 | Pop'n Music Sengoku Retsuden | 67315 | [67315-popn-music-sengoku-retsuden.json](./67315-popn-music-sengoku-retsuden.json) |
@@ -10766,6 +10767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pray or Die: Tactical Defense | 373114 | [373114-pray-or-die-tactical-defense.json](./373114-pray-or-die-tactical-defense.json) |
 | Prayer of the Faithless | 197012 | [197012-prayer-of-the-faithless.json](./197012-prayer-of-the-faithless.json) |
 | Prayers a Thousand-fold | 309976 | [309976-prayers-a-thousand-fold.json](./309976-prayers-a-thousand-fold.json) |
+| Prayr | 130044 | [130044-prayr.json](./130044-prayr.json) |
 | Pre Dusk | 172987 | [172987-pre-dusk.json](./172987-pre-dusk.json) |
 | Pre Post-Modernistic Post-Ironic Dadaism: Dating Simulator | 306969 | [306969-pre-post-modernistic-post-ironic-dadaism-dating-simulator.json](./306969-pre-post-modernistic-post-ironic-dadaism-dating-simulator.json) |
 | Pre-Fortress 2 | 164312 | [164312-pre-fortress-2.json](./164312-pre-fortress-2.json) |
