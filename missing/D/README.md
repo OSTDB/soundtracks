@@ -3522,6 +3522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Race | 110376 | [110376-death-race.json](./110376-death-race.json) |
 | Death Race | 296182 | [296182-death-race.json](./296182-death-race.json) |
 | Death Race | 8561 | [8561-death-race.json](./8561-death-race.json) |
+| Death Race 2020 | 147717 | [147717-death-race-2020.json](./147717-death-race-2020.json) |
 | Death Race 2600 | 414099 | [414099-death-race-2600.json](./414099-death-race-2600.json) |
 | Death Race Outer Space | 239676 | [239676-death-race-outer-space.json](./239676-death-race-outer-space.json) |
 | Death Rally | 18121 | [18121-death-rally.json](./18121-death-rally.json) |
@@ -5768,6 +5769,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destiny Summoner | 249917 | [249917-destiny-summoner.json](./249917-destiny-summoner.json) |
 | Destiny Warfare: Sci-Fi FPS | 100366 | [100366-destiny-warfare-sci-fi-fps.json](./100366-destiny-warfare-sci-fi-fps.json) |
 | Destiny Worlds | 388909 | [388909-destiny-worlds.json](./388909-destiny-worlds.json) |
+| Destiny: Digital Guardian Edition | 147720 | [147720-destiny-digital-guardian-edition.json](./147720-destiny-digital-guardian-edition.json) |
+| Destiny: Limited Edition | 147699 | [147699-destiny-limited-edition.json](./147699-destiny-limited-edition.json) |
 | Destiny: Rising | 319758 | [319758-destiny-rising.json](./319758-destiny-rising.json) |
 | Destiny: The Dark Below | 19920 | [19920-destiny-the-dark-below.json](./19920-destiny-the-dark-below.json) |
 | Destiny: The Taken King | 11174 | [11174-destiny-the-taken-king.json](./11174-destiny-the-taken-king.json) |
@@ -11435,6 +11438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon of Saiyu | 271383 | [271383-dragon-of-saiyu.json](./271383-dragon-of-saiyu.json) |
 | Dragon of Steelthorne | 287753 | [287753-dragon-of-steelthorne.json](./287753-dragon-of-steelthorne.json) |
 | Dragon Pals | 23591 | [23591-dragon-pals.json](./23591-dragon-pals.json) |
+| Dragon Peak | 147837 | [147837-dragon-peak.json](./147837-dragon-peak.json) |
 | Dragon Perception | 74474 | [74474-dragon-perception.json](./74474-dragon-perception.json) |
 | Dragon Pet | 322163 | [322163-dragon-pet.json](./322163-dragon-pet.json) |
 | Dragon Pink: The Hero Castle | 66168 | [66168-dragon-pink-the-hero-castle.json](./66168-dragon-pink-the-hero-castle.json) |
@@ -13942,6 +13946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon of Memories | 295807 | [295807-dungeon-of-memories.json](./295807-dungeon-of-memories.json) |
 | Dungeon of Minos | 175346 | [175346-dungeon-of-minos.json](./175346-dungeon-of-minos.json) |
 | Dungeon of Minos - movable maze | 97142 | [97142-dungeon-of-minos-movable-maze.json](./97142-dungeon-of-minos-movable-maze.json) |
+| Dungeon of Nazarick | 147842 | [147842-dungeon-of-nazarick.json](./147842-dungeon-of-nazarick.json) |
 | Dungeon of Souls | 103900 | [103900-dungeon-of-souls.json](./103900-dungeon-of-souls.json) |
 | Dungeon of Stone | 290628 | [290628-dungeon-of-stone.json](./290628-dungeon-of-stone.json) |
 | Dungeon of the Damned | 200585 | [200585-dungeon-of-the-damned.json](./200585-dungeon-of-the-damned.json) |
