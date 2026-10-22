@@ -4319,6 +4319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find the Sunbed | 189959 | [189959-find-the-sunbed.json](./189959-find-the-sunbed.json) |
 | Find the Thermal Core Trainer | 105809 | [105809-find-the-thermal-core-trainer.json](./105809-find-the-thermal-core-trainer.json) |
 | Find The Thing | 309635 | [309635-find-the-thing.json](./309635-find-the-thing.json) |
+| Find the Treasure | 126244 | [126244-find-the-treasure.json](./126244-find-the-treasure.json) |
 | Find the Way | 246330 | [246330-find-the-way.json](./246330-find-the-way.json) |
 | Find the Way Out Samurai! | 245878 | [245878-find-the-way-out-samurai.json](./245878-find-the-way-out-samurai.json) |
 | Find This Pixel Anomaly | 320982 | [320982-find-this-pixel-anomaly.json](./320982-find-this-pixel-anomaly.json) |
@@ -7334,6 +7335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | For Honor: Yasuke the Brave – Shugoki Hero Skin | 408963 | [408963-for-honor-yasuke-the-brave-shugoki-hero-skin.json](./408963-for-honor-yasuke-the-brave-shugoki-hero-skin.json) |
 | For Honor: Year 1 - Heroes Bundle | 256746 | [256746-for-honor-year-1-heroes-bundle.json](./256746-for-honor-year-1-heroes-bundle.json) |
 | For I, the Moon | 216276 | [216276-for-i-the-moon.json](./216276-for-i-the-moon.json) |
+| For Inco | 126266 | [126266-for-inco.json](./126266-for-inco.json) |
 | For Love of Evil | 271779 | [271779-for-love-of-evil.json](./271779-for-love-of-evil.json) |
 | For Madman Only | 183379 | [183379-for-madman-only.json](./183379-for-madman-only.json) |
 | For Me | 396500 | [396500-for-me.json](./396500-for-me.json) |
