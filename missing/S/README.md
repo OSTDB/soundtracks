@@ -2514,6 +2514,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scooby-Doo Mystery Cases | 87730 | [87730-scooby-doo-mystery-cases.json](./87730-scooby-doo-mystery-cases.json) |
 | Scooby-Doo: Case File 1 - The Glowing Bug Man | 78685 | [78685-scooby-doo-case-file-1-the-glowing-bug-man.json](./78685-scooby-doo-case-file-1-the-glowing-bug-man.json) |
 | Scooby-Doo: Funland Frenzy | 73002 | [73002-scooby-doo-funland-frenzy.json](./73002-scooby-doo-funland-frenzy.json) |
+| Scooby-Doo: Math Times Two | 108790 | [108790-scooby-doo-math-times-two.json](./108790-scooby-doo-math-times-two.json) |
+| Scooby-Doo: Spooky Snacks | 108780 | [108780-scooby-doo-spooky-snacks.json](./108780-scooby-doo-spooky-snacks.json) |
 | Scooby-Doo! & Looney Tunes Cartoon Universe: Adventure | 36326 | [36326-scooby-doo-and-looney-tunes-cartoon-universe-adventure.json](./36326-scooby-doo-and-looney-tunes-cartoon-universe-adventure.json) |
 | Scooby-Doo! & Looney Tunes Cartoon Universe: Arcade | 247599 | [247599-scooby-doo-and-looney-tunes-cartoon-universe-arcade.json](./247599-scooby-doo-and-looney-tunes-cartoon-universe-arcade.json) |
 | Scooby-Doo! 2: Dark Dungeons | 378383 | [378383-scooby-doo-2-dark-dungeons.json](./378383-scooby-doo-2-dark-dungeons.json) |
@@ -3977,6 +3979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sega Rally Online Arcade | 20592 | [20592-sega-rally-online-arcade.json](./20592-sega-rally-online-arcade.json) |
 | Sega Rally Revo | 1574 | [1574-sega-rally-revo.json](./1574-sega-rally-revo.json) |
 | Sega Rally Revo | 209018 | [209018-sega-rally-revo.json](./209018-sega-rally-revo.json) |
+| Sega Saturn de Hakken!! Tamagotchi Park | 108761 | [108761-sega-saturn-de-hakken-tamagotchi-park.json](./108761-sega-saturn-de-hakken-tamagotchi-park.json) |
 | Sega Ski Super G | 39796 | [39796-sega-ski-super-g.json](./39796-sega-ski-super-g.json) |
 | Sega Smash Pack | 136875 | [136875-sega-smash-pack.json](./136875-sega-smash-pack.json) |
 | Sega Smash Pack 2 | 74302 | [74302-sega-smash-pack-2.json](./74302-sega-smash-pack-2.json) |
@@ -7113,6 +7116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shooter95 | 375307 | [375307-shooter95.json](./375307-shooter95.json) |
 | ShooterBall | 143625 | [143625-shooterball.json](./143625-shooterball.json) |
 | Shootero: Galaxy Space Shooter | 248152 | [248152-shootero-galaxy-space-shooter.json](./248152-shootero-galaxy-space-shooter.json) |
+| Shooters Solitude System4 | 108767 | [108767-shooters-solitude-system4.json](./108767-shooters-solitude-system4.json) |
 | Shooters, Ready! | 335670 | [335670-shooters-ready.json](./335670-shooters-ready.json) |
 | ShootersPool | 123540 | [123540-shooterspool.json](./123540-shooterspool.json) |
 | Shooterspool: Billiards Simulation | 127333 | [127333-shooterspool-billiards-simulation.json](./127333-shooterspool-billiards-simulation.json) |
@@ -9725,6 +9729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky City Rush | 364502 | [364502-sky-city-rush.json](./364502-sky-city-rush.json) |
 | Sky Clash: Lords of Clans 3D | 51563 | [51563-sky-clash-lords-of-clans-3d.json](./51563-sky-clash-lords-of-clans-3d.json) |
 | Sky Climb | 306794 | [306794-sky-climb.json](./306794-sky-climb.json) |
+| Sky Climbers: Rise of the Hero | 108776 | [108776-sky-climbers-rise-of-the-hero.json](./108776-sky-climbers-rise-of-the-hero.json) |
 | Sky Combat | 221358 | [221358-sky-combat.json](./221358-sky-combat.json) |
 | Sky Conqueror | 98897 | [98897-sky-conqueror.json](./98897-sky-conqueror.json) |
 | Sky Crashers | 313571 | [313571-sky-crashers.json](./313571-sky-crashers.json) |
@@ -10080,6 +10085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slam Dunk Basketball | 245410 | [245410-slam-dunk-basketball.json](./245410-slam-dunk-basketball.json) |
 | Slam Dunk Basketball | 276609 | [276609-slam-dunk-basketball.json](./276609-slam-dunk-basketball.json) |
 | Slam Dunk Basketball 2 | 259142 | [259142-slam-dunk-basketball-2.json](./259142-slam-dunk-basketball-2.json) |
+| Slam Dunk Typing | 108768 | [108768-slam-dunk-typing.json](./108768-slam-dunk-typing.json) |
 | Slam Dunk: Dream Team - Shueisha Limited | 236652 | [236652-slam-dunk-dream-team-shueisha-limited.json](./236652-slam-dunk-dream-team-shueisha-limited.json) |
 | Slam Dunk: Gakeppuchi no Kesshou League | 78516 | [78516-slam-dunk-gakeppuchi-no-kesshou-league.json](./78516-slam-dunk-gakeppuchi-no-kesshou-league.json) |
 | Slam Dunk: Kyougou Makkou Taiketsu! | 78307 | [78307-slam-dunk-kyougou-makkou-taiketsu.json](./78307-slam-dunk-kyougou-makkou-taiketsu.json) |
@@ -12312,6 +12318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soccer League: Winner's Cup | 48531 | [48531-soccer-league-winners-cup.json](./48531-soccer-league-winners-cup.json) |
 | Soccer Legends | 36018 | [36018-soccer-legends.json](./36018-soccer-legends.json) |
 | Soccer Lines | 241334 | [241334-soccer-lines.json](./241334-soccer-lines.json) |
+| Soccer Love | 108786 | [108786-soccer-love.json](./108786-soccer-love.json) |
 | Soccer Manager | 134421 | [134421-soccer-manager.json](./134421-soccer-manager.json) |
 | Soccer Manager | 282639 | [282639-soccer-manager.json](./282639-soccer-manager.json) |
 | Soccer Manager | 393490 | [393490-soccer-manager.json](./393490-soccer-manager.json) |
@@ -18341,6 +18348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stack Bounce | 302747 | [302747-stack-bounce.json](./302747-stack-bounce.json) |
 | Stack Buddies | 259970 | [259970-stack-buddies.json](./259970-stack-buddies.json) |
 | Stack Columns | 63129 | [63129-stack-columns.json](./63129-stack-columns.json) |
+| Stack Dango | 108734 | [108734-stack-dango.json](./108734-stack-dango.json) |
 | Stack Defense | 156906 | [156906-stack-defense.json](./156906-stack-defense.json) |
 | Stack It | 216749 | [216749-stack-it.json](./216749-stack-it.json) |
 | Stack Jump | 87657 | [87657-stack-jump.json](./87657-stack-jump.json) |
@@ -19525,6 +19533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StarHawk | 79624 | [79624-starhawk.json](./79624-starhawk.json) |
 | Starheim | 270093 | [270093-starheim.json](./270093-starheim.json) |
 | StarHeroes | 221262 | [221262-starheroes.json](./221262-starheroes.json) |
+| StarHorse Pocket | 108764 | [108764-starhorse-pocket.json](./108764-starhorse-pocket.json) |
 | Staring Time | 272832 | [272832-staring-time.json](./272832-staring-time.json) |
 | Starion | 23056 | [23056-starion.json](./23056-starion.json) |
 | Starion Tactics | 10891 | [10891-starion-tactics.json](./10891-starion-tactics.json) |
