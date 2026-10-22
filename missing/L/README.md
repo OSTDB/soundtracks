@@ -92,6 +92,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | La Fabbrica Spaziale | 145977 | [145977-la-fabbrica-spaziale.json](./145977-la-fabbrica-spaziale.json) |
 | La Foret | 176779 | [176779-la-foret.json](./176779-la-foret.json) |
 | La Foret De Pago 2: Souvenir de Glace | 163800 | [163800-la-foret-de-pago-2-souvenir-de-glace.json](./163800-la-foret-de-pago-2-souvenir-de-glace.json) |
+| La Forêt de Pago: La vengeance du Dragon | 120593 | [120593-la-foret-de-pago-la-vengeance-du-dragon.json](./120593-la-foret-de-pago-la-vengeance-du-dragon.json) |
 | La Fuga | 115603 | [115603-la-fuga.json](./115603-la-fuga.json) |
 | La Giungla Tenebrosa | 145976 | [145976-la-giungla-tenebrosa.json](./145976-la-giungla-tenebrosa.json) |
 | La Guerra de las Vajillas | 85724 | [85724-la-guerra-de-las-vajillas.json](./85724-la-guerra-de-las-vajillas.json) |
@@ -1210,6 +1211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Walpurgis | 255051 | [255051-last-walpurgis.json](./255051-last-walpurgis.json) |
 | Last War | 285070 | [285070-last-war.json](./285070-last-war.json) |
 | Last War 2044 | 89406 | [89406-last-war-2044.json](./89406-last-war-2044.json) |
+| Last warrior | 120584 | [120584-last-warrior.json](./120584-last-warrior.json) |
 | Last Warrior | 266713 | [266713-last-warrior.json](./266713-last-warrior.json) |
 | Last Watchtower | 376669 | [376669-last-watchtower.json](./376669-last-watchtower.json) |
 | Last Week | 123003 | [123003-last-week.json](./123003-last-week.json) |
@@ -4000,6 +4002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lily | 332883 | [332883-lily.json](./332883-lily.json) |
 | Lily & Sury: Adventures On Cristya | 333230 | [333230-lily-and-sury-adventures-on-cristya.json](./333230-lily-and-sury-adventures-on-cristya.json) |
 | Lily Adventuresses! Episode 4: The Ancienaut beneath the Mask | 419954 | [419954-lily-adventuresses-episode-4-the-ancienaut-beneath-the-mask.json](./419954-lily-adventuresses-episode-4-the-ancienaut-beneath-the-mask.json) |
+| Lily Bard Mysteries: The Body in Shakespeare Park | 120617 | [120617-lily-bard-mysteries-the-body-in-shakespeare-park.json](./120617-lily-bard-mysteries-the-body-in-shakespeare-park.json) |
 | Lily Bergamo | 52542 | [52542-lily-bergamo.json](./52542-lily-bergamo.json) |
 | Lily Diary | 301132 | [301132-lily-diary.json](./301132-lily-diary.json) |
 | Lily Fantasia | 278975 | [278975-lily-fantasia.json](./278975-lily-fantasia.json) |
