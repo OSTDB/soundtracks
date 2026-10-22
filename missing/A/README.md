@@ -2809,7 +2809,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures in the Galaxy of Fantabulous Wonderment | 23739 | [23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json](./23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json) |
 | Adventures in the Light & Dark | 102316 | [102316-adventures-in-the-light-and-dark.json](./102316-adventures-in-the-light-and-dark.json) |
 | Adventures in the Magic Kingdom | 8130 | [8130-adventures-in-the-magic-kingdom.json](./8130-adventures-in-the-magic-kingdom.json) |
-| Adventures In Time & Space | 342233 | [342233-adventures-in-time-and-space.json](./342233-adventures-in-time-and-space.json) |
 | Adventures of a Radish | 134695 | [134695-adventures-of-a-radish.json](./134695-adventures-of-a-radish.json) |
 | Adventures of a Snowboarder | 367720 | [367720-adventures-of-a-snowboarder.json](./367720-adventures-of-a-snowboarder.json) |
 | Adventures of Abrix | 29918 | [29918-adventures-of-abrix.json](./29918-adventures-of-abrix.json) |
@@ -5688,6 +5687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Allied Ambush | 160229 | [160229-allied-ambush.json](./160229-allied-ambush.json) |
 | Allied General | 14427 | [14427-allied-general.json](./14427-allied-general.json) |
 | Allied Star Police | 22336 | [22336-allied-star-police.json](./22336-allied-star-police.json) |
+| Allies in War | 114702 | [114702-allies-in-war.json](./114702-allies-in-war.json) |
 | Alligator Hunt | 38519 | [38519-alligator-hunt.json](./38519-alligator-hunt.json) |
 | Alligator Mix | 42194 | [42194-alligator-mix.json](./42194-alligator-mix.json) |
 | Alligator People | 11115 | [11115-alligator-people.json](./11115-alligator-people.json) |
@@ -8475,6 +8475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Antichrist | 393525 | [393525-antichrist.json](./393525-antichrist.json) |
 | Antichromatic | 112323 | [112323-antichromatic.json](./112323-antichromatic.json) |
 | Anticipating Murder | 316768 | [316768-anticipating-murder.json](./316768-anticipating-murder.json) |
+| Antidote | 114720 | [114720-antidote.json](./114720-antidote.json) |
 | Antidote | 170819 | [170819-antidote.json](./170819-antidote.json) |
 | Antidote | 422526 | [422526-antidote.json](./422526-antidote.json) |
 | Antiem | 183856 | [183856-antiem.json](./183856-antiem.json) |
@@ -10298,6 +10299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arena an Age of Barbarians story | 30077 | [30077-arena-an-age-of-barbarians-story.json](./30077-arena-an-age-of-barbarians-story.json) |
 | Arena Battle | 230960 | [230960-arena-battle.json](./230960-arena-battle.json) |
 | Arena Blues: Requiem for 35 | 416113 | [416113-arena-blues-requiem-for-35.json](./416113-arena-blues-requiem-for-35.json) |
+| Arena Brawls | 114721 | [114721-arena-brawls.json](./114721-arena-brawls.json) |
 | Arena Breakout | 174684 | [174684-arena-breakout.json](./174684-arena-breakout.json) |
 | Arena Breakout: Infinite - Season 0 | 314406 | [314406-arena-breakout-infinite-season-0.json](./314406-arena-breakout-infinite-season-0.json) |
 | Arena Breakout: Infinite – Season 1 | 324717 | [324717-arena-breakout-infinite-season-1.json](./324717-arena-breakout-infinite-season-1.json) |
@@ -12925,6 +12927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atomic Society | 31679 | [31679-atomic-society.json](./31679-atomic-society.json) |
 | Atomic Space Command | 33475 | [33475-atomic-space-command.json](./33475-atomic-space-command.json) |
 | Atomic Spider | 232315 | [232315-atomic-spider.json](./232315-atomic-spider.json) |
+| Atomic Super Lander | 114690 | [114690-atomic-super-lander.json](./114690-atomic-super-lander.json) |
 | Atomic Super Lander Re-Nuked Edition | 392826 | [392826-atomic-super-lander-re-nuked-edition.json](./392826-atomic-super-lander-re-nuked-edition.json) |
 | Atomic Surf | 238641 | [238641-atomic-surf.json](./238641-atomic-surf.json) |
 | Atomic Survivors | 249748 | [249748-atomic-survivors.json](./249748-atomic-survivors.json) |
