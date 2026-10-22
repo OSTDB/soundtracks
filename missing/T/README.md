@@ -949,6 +949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Escape | 29560 | [29560-tales-of-escape.json](./29560-tales-of-escape.json) |
 | Tales of Escape: Cold As Ice | 172119 | [172119-tales-of-escape-cold-as-ice.json](./172119-tales-of-escape-cold-as-ice.json) |
 | Tales of Escape: Sleepy Hollow VR | 148500 | [148500-tales-of-escape-sleepy-hollow-vr.json](./148500-tales-of-escape-sleepy-hollow-vr.json) |
+| Tales of Esferia: Araxis | 151521 | [151521-tales-of-esferia-araxis.json](./151521-tales-of-esferia-araxis.json) |
 | Tales of Eternia Online | 79163 | [79163-tales-of-eternia-online.json](./79163-tales-of-eternia-online.json) |
 | Tales of Eternia: Remastered | 405458 | [405458-tales-of-eternia-remastered.json](./405458-tales-of-eternia-remastered.json) |
 | Tales of Fablecraft: Brawler Collection | 365207 | [365207-tales-of-fablecraft-brawler-collection.json](./365207-tales-of-fablecraft-brawler-collection.json) |
@@ -4451,6 +4452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Alpine Encounter | 12252 | [12252-the-alpine-encounter.json](./12252-the-alpine-encounter.json) |
 | The Alpine Express | 253837 | [253837-the-alpine-express.json](./253837-the-alpine-express.json) |
 | The Alpinist | 201610 | [201610-the-alpinist.json](./201610-the-alpinist.json) |
+| The Altered Lands | 151443 | [151443-the-altered-lands.json](./151443-the-altered-lands.json) |
 | The Alternate Universe | 405648 | [405648-the-alternate-universe.json](./405648-the-alternate-universe.json) |
 | The Alters: Deluxe Edition | 380147 | [380147-the-alters-deluxe-edition.json](./380147-the-alters-deluxe-edition.json) |
 | The Alters: Last Variable | 404914 | [404914-the-alters-last-variable.json](./404914-the-alters-last-variable.json) |
@@ -5402,6 +5404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Call of Karen | 139812 | [139812-the-call-of-karen.json](./139812-the-call-of-karen.json) |
 | The Call of Krul'ar | 200639 | [200639-the-call-of-krular.json](./200639-the-call-of-krular.json) |
 | The Call of Ktulu | 274153 | [274153-the-call-of-ktulu.json](./274153-the-call-of-ktulu.json) |
+| The Call of Paper Plane | 151441 | [151441-the-call-of-paper-plane.json](./151441-the-call-of-paper-plane.json) |
 | The Call of the Rats | 300702 | [300702-the-call-of-the-rats.json](./300702-the-call-of-the-rats.json) |
 | The Calling | 339386 | [339386-the-calling.json](./339386-the-calling.json) |
 | The Callisto Protocol: Contagion Bundle | 241958 | [241958-the-callisto-protocol-contagion-bundle.json](./241958-the-callisto-protocol-contagion-bundle.json) |
@@ -15551,6 +15554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | This Is Not a Ball Game. | 243636 | [243636-this-is-not-a-ball-game.json](./243636-this-is-not-a-ball-game.json) |
 | This Is Not a Game About Catching Monsters | 181735 | [181735-this-is-not-a-game-about-catching-monsters.json](./181735-this-is-not-a-game-about-catching-monsters.json) |
 | This Is Not A Love Letter | 339951 | [339951-this-is-not-a-love-letter.json](./339951-this-is-not-a-love-letter.json) |
+| This Is Not Chess | 151514 | [151514-this-is-not-chess.json](./151514-this-is-not-chess.json) |
 | This Is Not For You | 417522 | [417522-this-is-not-for-you.json](./417522-this-is-not-for-you.json) |
 | This is not RPG | 43156 | [43156-this-is-not-rpg.json](./43156-this-is-not-rpg.json) |
 | This is Not the End | 129466 | [129466-this-is-not-the-end.json](./129466-this-is-not-the-end.json) |
