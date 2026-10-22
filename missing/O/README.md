@@ -2723,6 +2723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operation Steel | 151732 | [151732-operation-steel.json](./151732-operation-steel.json) |
 | Operation Stutter | 406888 | [406888-operation-stutter.json](./406888-operation-stutter.json) |
 | Operation Swat | 29656 | [29656-operation-swat.json](./29656-operation-swat.json) |
+| Operation Teddy Bear | 137505 | [137505-operation-teddy-bear.json](./137505-operation-teddy-bear.json) |
 | Operation Temple | 293874 | [293874-operation-temple.json](./293874-operation-temple.json) |
 | Operation Thunderbolt | 12191 | [12191-operation-thunderbolt.json](./12191-operation-thunderbolt.json) |
 | Operation TP | 169482 | [169482-operation-tp.json](./169482-operation-tp.json) |
@@ -4264,6 +4265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Over the Hill | 329124 | [329124-over-the-hill.json](./329124-over-the-hill.json) |
 | Over the Hills and Far Away | 34615 | [34615-over-the-hills-and-far-away.json](./34615-over-the-hills-and-far-away.json) |
 | Over The Horizon | 310818 | [310818-over-the-horizon.json](./310818-over-the-horizon.json) |
+| Over the Monochrome Rainbow featuring Shogo Hamada | 137319 | [137319-over-the-monochrome-rainbow-featuring-shogo-hamada.json](./137319-over-the-monochrome-rainbow-featuring-shogo-hamada.json) |
 | Over the Moon | 184353 | [184353-over-the-moon.json](./184353-over-the-moon.json) |
 | Over the Moon | 352252 | [352252-over-the-moon.json](./352252-over-the-moon.json) |
 | Over the Net | 295907 | [295907-over-the-net.json](./295907-over-the-net.json) |
