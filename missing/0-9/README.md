@@ -139,6 +139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | #Blud | 117500 | [117500-blud.json](./117500-blud.json) |
 | #COMPASS | 107623 | [107623-compass.json](./107623-compass.json) |
 | #Drive | 147262 | [147262-drive.json](./147262-drive.json) |
+| #Funtime | 119369 | [119369-funtime.json](./119369-funtime.json) |
 | #Halloween, Super Puzzles Dream | 147438 | [147438-halloween-super-puzzles-dream.json](./147438-halloween-super-puzzles-dream.json) |
 | #HardCrash | 176217 | [176217-hardcrash.json](./176217-hardcrash.json) |
 | #IDARB | 9888 | [9888-idarb.json](./9888-idarb.json) |
