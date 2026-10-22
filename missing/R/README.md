@@ -6035,6 +6035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise 2.0 | 166841 | [166841-rise-2-0.json](./166841-rise-2-0.json) |
 | Rise Achlys | 337835 | [337835-rise-achlys.json](./337835-rise-achlys.json) |
 | Rise Again | 248885 | [248885-rise-again.json](./248885-rise-again.json) |
+| Rise Against the Invaders | 139656 | [139656-rise-against-the-invaders.json](./139656-rise-against-the-invaders.json) |
 | Rise and Fall | 138692 | [138692-rise-and-fall.json](./138692-rise-and-fall.json) |
 | Rise and Fall: Bronze Age | 235884 | [235884-rise-and-fall-bronze-age.json](./235884-rise-and-fall-bronze-age.json) |
 | Rise and Grind! | 253490 | [253490-rise-and-grind.json](./253490-rise-and-grind.json) |
