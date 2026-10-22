@@ -3661,6 +3661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvel Ultimate Alliance 3: The Black Order - Curse of the Vampire | 122700 | [122700-marvel-ultimate-alliance-3-the-black-order-curse-of-the-vampire.json](./122700-marvel-ultimate-alliance-3-the-black-order-curse-of-the-vampire.json) |
 | Marvel Ultimate Alliance 3: The Black Order - Rise of the Phoenix | 122701 | [122701-marvel-ultimate-alliance-3-the-black-order-rise-of-the-phoenix.json](./122701-marvel-ultimate-alliance-3-the-black-order-rise-of-the-phoenix.json) |
 | Marvel Ultimate Alliance 3: The Black Order - Shadow of Doom | 122702 | [122702-marvel-ultimate-alliance-3-the-black-order-shadow-of-doom.json](./122702-marvel-ultimate-alliance-3-the-black-order-shadow-of-doom.json) |
+| Marvel Ultimate Alliance 3: The Black Order Expansion Pass | 122703 | [122703-marvel-ultimate-alliance-3-the-black-order-expansion-pass.json](./122703-marvel-ultimate-alliance-3-the-black-order-expansion-pass.json) |
 | Marvel vs. Capcom 2: New Age of Heroes | 305168 | [305168-marvel-vs-capcom-2-new-age-of-heroes.json](./305168-marvel-vs-capcom-2-new-age-of-heroes.json) |
 | Marvel vs. Capcom 2: New Age of Heroes | 305169 | [305169-marvel-vs-capcom-2-new-age-of-heroes.json](./305169-marvel-vs-capcom-2-new-age-of-heroes.json) |
 | Marvel vs. Capcom 3: Fate of Two Worlds | 8248 | [8248-marvel-vs-capcom-3-fate-of-two-worlds.json](./8248-marvel-vs-capcom-3-fate-of-two-worlds.json) |
@@ -10155,6 +10156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mining Merchant | 364518 | [364518-mining-merchant.json](./364518-mining-merchant.json) |
 | Mining Odyssey | 215597 | [215597-mining-odyssey.json](./215597-mining-odyssey.json) |
 | Mining Platform | 361033 | [361033-mining-platform.json](./361033-mining-platform.json) |
+| Mining Rail 2 | 122720 | [122720-mining-rail-2.json](./122720-mining-rail-2.json) |
 | Mining Rail Adventure | 417438 | [417438-mining-rail-adventure.json](./417438-mining-rail-adventure.json) |
 | Mining Simulator | 241512 | [241512-mining-simulator.json](./241512-mining-simulator.json) |
 | Mining Wizards | 379861 | [379861-mining-wizards.json](./379861-mining-wizards.json) |
