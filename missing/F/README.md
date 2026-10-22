@@ -6525,8 +6525,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FlowerField | 291824 | [291824-flowerfield.json](./291824-flowerfield.json) |
 | Flowerhorn Aquarium | 255748 | [255748-flowerhorn-aquarium.json](./255748-flowerhorn-aquarium.json) |
 | Flowering Across | 153419 | [153419-flowering-across.json](./153419-flowering-across.json) |
+| Flowering Across the Hakugyokurou | 118631 | [118631-flowering-across-the-hakugyokurou.json](./118631-flowering-across-the-hakugyokurou.json) |
 | Flowering Nightshade | 158400 | [158400-flowering-nightshade.json](./158400-flowering-nightshade.json) |
 | Flowering Void | 380217 | [380217-flowering-void.json](./380217-flowering-void.json) |
+| Flowerless Gardenia | 118629 | [118629-flowerless-gardenia.json](./118629-flowerless-gardenia.json) |
 | Flowers 2 by Powgi | 140419 | [140419-flowers-2-by-powgi.json](./140419-flowers-2-by-powgi.json) |
 | Flowers and Deities | 350787 | [350787-flowers-and-deities.json](./350787-flowers-and-deities.json) |
 | Flowers Blooming at the End of Summer | 129727 | [129727-flowers-blooming-at-the-end-of-summer.json](./129727-flowers-blooming-at-the-end-of-summer.json) |
