@@ -3100,6 +3100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Engine Room | 305449 | [305449-engine-room.json](./305449-engine-room.json) |
 | Engine Room | 47266 | [47266-engine-room.json](./47266-engine-room.json) |
 | Engine Sentai Go-Onger: Mach de Oboeru! Aiueo!! | 123618 | [123618-engine-sentai-go-onger-mach-de-oboeru-aiueo.json](./123618-engine-sentai-go-onger-mach-de-oboeru-aiueo.json) |
+| Engineer Arena | 121269 | [121269-engineer-arena.json](./121269-engineer-arena.json) |
 | Engineer's Last Stand | 257335 | [257335-engineers-last-stand.json](./257335-engineers-last-stand.json) |
 | Engineered to Purpose | 224521 | [224521-engineered-to-purpose.json](./224521-engineered-to-purpose.json) |
 | Engineerium | 302487 | [302487-engineerium.json](./302487-engineerium.json) |
@@ -3826,6 +3827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ersatz | 59238 | [59238-ersatz.json](./59238-ersatz.json) |
 | Erst Kerf | 130906 | [130906-erst-kerf.json](./130906-erst-kerf.json) |
 | Erstwhile | 216431 | [216431-erstwhile.json](./216431-erstwhile.json) |
+| Erstwhile Tower | 121254 | [121254-erstwhile-tower.json](./121254-erstwhile-tower.json) |
 | Erth | 134673 | [134673-erth.json](./134673-erth.json) |
 | Ertugrul | 274772 | [274772-ertugrul.json](./274772-ertugrul.json) |
 | Erulean Angel: Fantasy Commander | 351136 | [351136-erulean-angel-fantasy-commander.json](./351136-erulean-angel-fantasy-commander.json) |
