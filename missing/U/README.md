@@ -49,6 +49,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | U.S.Z.I.O.K. | 376061 | [376061-u-s-z-i-o-k.json](./376061-u-s-z-i-o-k.json) |
 | U.V.S. Nirmana | 400475 | [400475-u-v-s-nirmana.json](./400475-u-v-s-nirmana.json) |
 | U1f439 | 371132 | [371132-u1f439.json](./371132-u1f439.json) |
+| U235 | 122637 | [122637-u235.json](./122637-u235.json) |
 | U27RA R3Z0NANC3 | 143334 | [143334-u27ra-r3z0nanc3.json](./143334-u27ra-r3z0nanc3.json) |
 | U96 | 207513 | [207513-u96.json](./207513-u96.json) |
 | UAC Invasion: The Supply Depot | 256868 | [256868-uac-invasion-the-supply-depot.json](./256868-uac-invasion-the-supply-depot.json) |
@@ -1381,6 +1382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Under Your Moon | 318857 | [318857-under-your-moon.json](./318857-under-your-moon.json) |
 | Under Your Spell | 327779 | [327779-under-your-spell.json](./327779-under-your-spell.json) |
 | Under Zero | 33223 | [33223-under-zero.json](./33223-under-zero.json) |
+| Under: Depths of Fear | 122715 | [122715-under-depths-of-fear.json](./122715-under-depths-of-fear.json) |
 | UnderBackrooms | 235054 | [235054-underbackrooms.json](./235054-underbackrooms.json) |
 | Underboard | 245819 | [245819-underboard.json](./245819-underboard.json) |
 | Undercards | 57109 | [57109-undercards.json](./57109-undercards.json) |
