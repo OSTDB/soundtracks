@@ -8397,6 +8397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rong Yu Zhi Hui Guan | 283406 | [283406-rong-yu-zhi-hui-guan.json](./283406-rong-yu-zhi-hui-guan.json) |
 | Róngshēn zhī Dìtiě | 117649 | [117649-rongshen-zhi-ditie.json](./117649-rongshen-zhi-ditie.json) |
 | Rongu | 403719 | [403719-rongu.json](./403719-rongu.json) |
+| Ronin 2072 | 133062 | [133062-ronin-2072.json](./133062-ronin-2072.json) |
 | Ronin Awakening | 374933 | [374933-ronin-awakening.json](./374933-ronin-awakening.json) |
 | Ronin Heart | 366393 | [366393-ronin-heart.json](./366393-ronin-heart.json) |
 | Ronin Rush | 304713 | [304713-ronin-rush.json](./304713-ronin-rush.json) |
@@ -8588,7 +8589,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roots of Fury | 290529 | [290529-roots-of-fury.json](./290529-roots-of-fury.json) |
 | Roots of Harmony | 320561 | [320561-roots-of-harmony.json](./320561-roots-of-harmony.json) |
 | Roots of Insanity | 19570 | [19570-roots-of-insanity.json](./19570-roots-of-insanity.json) |
-| Roots of Pacha | 133208 | [133208-roots-of-pacha.json](./133208-roots-of-pacha.json) |
 | Roots of Rebirth | 239644 | [239644-roots-of-rebirth.json](./239644-roots-of-rebirth.json) |
 | Roots of Tomorrow: Additional Characters | 201097 | [201097-roots-of-tomorrow-additional-characters.json](./201097-roots-of-tomorrow-additional-characters.json) |
 | Roots of Tomorrow: Beekeeping | 201098 | [201098-roots-of-tomorrow-beekeeping.json](./201098-roots-of-tomorrow-beekeeping.json) |
