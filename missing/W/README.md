@@ -444,6 +444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Walter | 94159 | [94159-walter.json](./94159-walter.json) |
 | Walter Walnut | 199275 | [199275-walter-walnut.json](./199275-walter-walnut.json) |
 | Walthros | 353366 | [353366-walthros.json](./353366-walthros.json) |
+| Walthros: Renewal | 155962 | [155962-walthros-renewal.json](./155962-walthros-renewal.json) |
 | Walto | 391237 | [391237-walto.json](./391237-walto.json) |
 | Waltz and Jam | 288479 | [288479-waltz-and-jam.json](./288479-waltz-and-jam.json) |
 | Waluigi's Taco Stand | 135227 | [135227-waluigis-taco-stand.json](./135227-waluigis-taco-stand.json) |
@@ -2036,6 +2037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waves | 13547 | [13547-waves.json](./13547-waves.json) |
 | Waves ! | 104097 | [104097-waves.json](./104097-waves.json) |
 | Waves of Chess | 383496 | [383496-waves-of-chess.json](./383496-waves-of-chess.json) |
+| Waves of Death | 155963 | [155963-waves-of-death.json](./155963-waves-of-death.json) |
 | Waves of Death VR | 132229 | [132229-waves-of-death-vr.json](./132229-waves-of-death-vr.json) |
 | Waves of Rotting Flesh | 159785 | [159785-waves-of-rotting-flesh.json](./159785-waves-of-rotting-flesh.json) |
 | Waves of Steel | 146091 | [146091-waves-of-steel.json](./146091-waves-of-steel.json) |
@@ -4545,6 +4547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wings of Honour: Battles of the Red Baron | 21341 | [21341-wings-of-honour-battles-of-the-red-baron.json](./21341-wings-of-honour-battles-of-the-red-baron.json) |
 | Wings of Horus | 415980 | [415980-wings-of-horus.json](./415980-wings-of-horus.json) |
 | Wings of Justice | 237449 | [237449-wings-of-justice.json](./237449-wings-of-justice.json) |
+| Wings of Legends | 155960 | [155960-wings-of-legends.json](./155960-wings-of-legends.json) |
 | Wings of Magloryx | 85492 | [85492-wings-of-magloryx.json](./85492-wings-of-magloryx.json) |
 | Wings of Njord | 320438 | [320438-wings-of-njord.json](./320438-wings-of-njord.json) |
 | Wings of Power: WWII Heavy Bombers and Jets | 61709 | [61709-wings-of-power-wwii-heavy-bombers-and-jets.json](./61709-wings-of-power-wwii-heavy-bombers-and-jets.json) |
@@ -5515,6 +5518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wonder Boy: Monster Land | 212884 | [212884-wonder-boy-monster-land.json](./212884-wonder-boy-monster-land.json) |
 | Wonder Boy: Monster Land | 39335 | [39335-wonder-boy-monster-land.json](./39335-wonder-boy-monster-land.json) |
 | Wonder Boy: The Dragon's Trap | 212882 | [212882-wonder-boy-the-dragons-trap.json](./212882-wonder-boy-the-dragons-trap.json) |
+| Wonder Cave | 155953 | [155953-wonder-cave.json](./155953-wonder-cave.json) |
 | Wonder Defense: Chapter Earth | 166730 | [166730-wonder-defense-chapter-earth.json](./166730-wonder-defense-chapter-earth.json) |
 | Wonder Dog | 5463 | [5463-wonder-dog.json](./5463-wonder-dog.json) |
 | Wonder Flick | 53042 | [53042-wonder-flick.json](./53042-wonder-flick.json) |
@@ -7143,6 +7147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WuKong Up | 288452 | [288452-wukong-up.json](./288452-wukong-up.json) |
 | Wulfram | 64092 | [64092-wulfram.json](./64092-wulfram.json) |
 | Wulfram II | 71227 | [71227-wulfram-ii.json](./71227-wulfram-ii.json) |
+| Wulin Chess | 155938 | [155938-wulin-chess.json](./155938-wulin-chess.json) |
 | Wǔlín Hàndāo Xíng | 155004 | [155004-wulin-handao-xing.json](./155004-wulin-handao-xing.json) |
 | Wulin Qunxia Zhuan | 69757 | [69757-wulin-qunxia-zhuan.json](./69757-wulin-qunxia-zhuan.json) |
 | Wǔlín Zhēngbà zhī Yīngxióng Tiē | 93585 | [93585-wulin-zhengba-zhi-yingxiong-tie.json](./93585-wulin-zhengba-zhi-yingxiong-tie.json) |
