@@ -696,6 +696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yomi: Expansion Characters | 169329 | [169329-yomi-expansion-characters.json](./169329-yomi-expansion-characters.json) |
 | Yomifuda: Kanji Survivors | 383146 | [383146-yomifuda-kanji-survivors.json](./383146-yomifuda-kanji-survivors.json) |
 | Yomo | 308011 | [308011-yomo.json](./308011-yomo.json) |
+| Yomotsu | 110719 | [110719-yomotsu.json](./110719-yomotsu.json) |
 | Yon-nin Mahjong | 55857 | [55857-yon-nin-mahjong.json](./55857-yon-nin-mahjong.json) |
 | Yondel | 380777 | [380777-yondel.json](./380777-yondel.json) |
 | YonDelver | 201484 | [201484-yondelver.json](./201484-yondelver.json) |
