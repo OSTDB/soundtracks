@@ -423,6 +423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kamen Rider: Break Joker | 61501 | [61501-kamen-rider-break-joker.json](./61501-kamen-rider-break-joker.json) |
 | Kamen Rider: Climax Fighters - Premium R Sound Edition | 136724 | [136724-kamen-rider-climax-fighters-premium-r-sound-edition.json](./136724-kamen-rider-climax-fighters-premium-r-sound-edition.json) |
 | Kamen Rider: Climax Heroes W | 50731 | [50731-kamen-rider-climax-heroes-w.json](./50731-kamen-rider-climax-heroes-w.json) |
+| Kamen Rider: Climax Scramble | 106307 | [106307-kamen-rider-climax-scramble.json](./106307-kamen-rider-climax-scramble.json) |
 | Kamen Rider: Dragon Knight | 50730 | [50730-kamen-rider-dragon-knight.json](./50730-kamen-rider-dragon-knight.json) |
 | Kamen Rider: Memory of Heroez | 137453 | [137453-kamen-rider-memory-of-heroez.json](./137453-kamen-rider-memory-of-heroez.json) |
 | Kamen Rider: Seigi no Keifu | 61914 | [61914-kamen-rider-seigi-no-keifu.json](./61914-kamen-rider-seigi-no-keifu.json) |
@@ -4502,6 +4503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kritika Global | 211930 | [211930-kritika-global.json](./211930-kritika-global.json) |
 | Kritika: The White Knights | 39231 | [39231-kritika-the-white-knights.json](./39231-kritika-the-white-knights.json) |
 | Kritzel Krieg | 414873 | [414873-kritzel-krieg.json](./414873-kritzel-krieg.json) |
+| Krizl | 106297 | [106297-krizl.json](./106297-krizl.json) |
 | Krolewna Sniezka | 318484 | [318484-krolewna-sniezka.json](./318484-krolewna-sniezka.json) |
 | Kromaia | 8815 | [8815-kromaia.json](./8815-kromaia.json) |
 | Kromaia Ω | 14296 | [14296-kromaia.json](./14296-kromaia.json) |
