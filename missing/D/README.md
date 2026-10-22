@@ -694,6 +694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DancingReaper | 140580 | [140580-dancingreaper.json](./140580-dancingreaper.json) |
 | DanCop - Daniela on Duty | 118112 | [118112-dancop-daniela-on-duty.json](./118112-dancop-daniela-on-duty.json) |
 | DanDan | 258038 | [258038-dandan.json](./258038-dandan.json) |
+| Dàndàn Zhǎngmén Rìzhì | 148260 | [148260-dandan-zhangmen-rizhi.json](./148260-dandan-zhangmen-rizhi.json) |
 | Dandara | 296666 | [296666-dandara.json](./296666-dandara.json) |
 | Dandara: Trials of Fear - Enhanced Edition | 155057 | [155057-dandara-trials-of-fear-enhanced-edition.json](./155057-dandara-trials-of-fear-enhanced-edition.json) |
 | Dandelion | 181343 | [181343-dandelion.json](./181343-dandelion.json) |
@@ -5264,6 +5265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Depths Debris | 339074 | [339074-depths-debris.json](./339074-depths-debris.json) |
 | Depths Of Apollyon | 351123 | [351123-depths-of-apollyon.json](./351123-depths-of-apollyon.json) |
 | Depths of Betrayal | 175800 | [175800-depths-of-betrayal.json](./175800-depths-of-betrayal.json) |
+| Depths of Dagon | 148276 | [148276-depths-of-dagon.json](./148276-depths-of-dagon.json) |
 | Depths of Despair | 300443 | [300443-depths-of-despair.json](./300443-depths-of-despair.json) |
 | Depths of Dread | 32174 | [32174-depths-of-dread.json](./32174-depths-of-dread.json) |
 | Depths of Faveg | 318060 | [318060-depths-of-faveg.json](./318060-depths-of-faveg.json) |
@@ -14192,6 +14194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons & Dragons Online: Vecna Unleashed | 258958 | [258958-dungeons-and-dragons-online-vecna-unleashed.json](./258958-dungeons-and-dragons-online-vecna-unleashed.json) |
 | Dungeons & Dragons: Dark Alliance | 127348 | [127348-dungeons-and-dragons-dark-alliance.json](./127348-dungeons-and-dragons-dark-alliance.json) |
 | Dungeons & Dragons: Dark Alliance - Day One Edition | 242924 | [242924-dungeons-and-dragons-dark-alliance-day-one-edition.json](./242924-dungeons-and-dragons-dark-alliance-day-one-edition.json) |
+| Dungeons & Dragons: Dark Alliance - Deluxe Edition | 148269 | [148269-dungeons-and-dragons-dark-alliance-deluxe-edition.json](./148269-dungeons-and-dragons-dark-alliance-deluxe-edition.json) |
 | Dungeons & Dragons: Dragonshard | 674 | [674-dungeons-and-dragons-dragonshard.json](./674-dungeons-and-dragons-dragonshard.json) |
 | Dungeons & Dragons: Eye of the Beholder | 49197 | [49197-dungeons-and-dragons-eye-of-the-beholder.json](./49197-dungeons-and-dragons-eye-of-the-beholder.json) |
 | Dungeons & Dragons: Shadow over Mystara | 10253 | [10253-dungeons-and-dragons-shadow-over-mystara.json](./10253-dungeons-and-dragons-shadow-over-mystara.json) |
@@ -14399,6 +14402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duskworld | 198144 | [198144-duskworld.json](./198144-duskworld.json) |
 | Dusky Cap | 343862 | [343862-dusky-cap.json](./343862-dusky-cap.json) |
 | Dusky Depths | 273628 | [273628-dusky-depths.json](./273628-dusky-depths.json) |
+| Dust | 148407 | [148407-dust.json](./148407-dust.json) |
 | Dust | 315355 | [315355-dust.json](./315355-dust.json) |
 | Dust & Courage: Jake Bolton’s Journey | 298233 | [298233-dust-and-courage-jake-bolton-s-journey.json](./298233-dust-and-courage-jake-bolton-s-journey.json) |
 | Dust & Diamonds | 419901 | [419901-dust-and-diamonds.json](./419901-dust-and-diamonds.json) |
