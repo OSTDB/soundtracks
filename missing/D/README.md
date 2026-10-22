@@ -10348,6 +10348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doors of Silence: The Prologue | 123881 | [123881-doors-of-silence-the-prologue.json](./123881-doors-of-silence-the-prologue.json) |
 | Doors Push or Pull | 101349 | [101349-doors-push-or-pull.json](./101349-doors-push-or-pull.json) |
 | Doors Quest Demo | 101593 | [101593-doors-quest-demo.json](./101593-doors-quest-demo.json) |
+| Doors to the City | 103801 | [103801-doors-to-the-city.json](./103801-doors-to-the-city.json) |
 | Doors: Awakening | 132014 | [132014-doors-awakening.json](./132014-doors-awakening.json) |
 | Doors: Haunted Tales of Lantern House | 337769 | [337769-doors-haunted-tales-of-lantern-house.json](./337769-doors-haunted-tales-of-lantern-house.json) |
 | Doors: Origins | 202396 | [202396-doors-origins.json](./202396-doors-origins.json) |
@@ -10540,6 +10541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dot & Dot Dungeons | 295766 | [295766-dot-and-dot-dungeons.json](./295766-dot-and-dot-dungeons.json) |
 | Dot Art Logic | 386990 | [386990-dot-art-logic.json](./386990-dot-art-logic.json) |
 | Dot Big Bang | 74797 | [74797-dot-big-bang.json](./74797-dot-big-bang.json) |
+| Dot Blocks! | 103853 | [103853-dot-blocks.json](./103853-dot-blocks.json) |
 | Dot Brain | 238985 | [238985-dot-brain.json](./238985-dot-brain.json) |
 | Dot by Dot+ | 19383 | [19383-dot-by-dot.json](./19383-dot-by-dot.json) |
 | Dot Clicker | 411575 | [411575-dot-clicker.json](./411575-dot-clicker.json) |
@@ -12975,6 +12977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drive or Die | 156706 | [156706-drive-or-die.json](./156706-drive-or-die.json) |
 | Drive Real Truck SImulator | 409625 | [409625-drive-real-truck-simulator.json](./409625-drive-real-truck-simulator.json) |
 | Drive Simulator 2016 | 90673 | [90673-drive-simulator-2016.json](./90673-drive-simulator-2016.json) |
+| Drive Switch Evade | 103826 | [103826-drive-switch-evade.json](./103826-drive-switch-evade.json) |
 | Drive Thru | 365860 | [365860-drive-thru.json](./365860-drive-thru.json) |
 | Drive Thru Simulator | 326441 | [326441-drive-thru-simulator.json](./326441-drive-thru-simulator.json) |
 | Drive Time Radio | 232910 | [232910-drive-time-radio.json](./232910-drive-time-radio.json) |
