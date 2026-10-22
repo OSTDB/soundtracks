@@ -2711,6 +2711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heat Incremental | 366965 | [366965-heat-incremental.json](./366965-heat-incremental.json) |
 | Heat Index | 338278 | [338278-heat-index.json](./338278-heat-index.json) |
 | Heat Me Up! | 378385 | [378385-heat-me-up.json](./378385-heat-me-up.json) |
+| Heat Project 2 | 140225 | [140225-heat-project-2.json](./140225-heat-project-2.json) |
 | Heat Racing | 227256 | [227256-heat-racing.json](./227256-heat-racing.json) |
 | Heat Reborn | 140590 | [140590-heat-reborn.json](./140590-heat-reborn.json) |
 | Heat Signature | 10160 | [10160-heat-signature.json](./10160-heat-signature.json) |
@@ -6455,6 +6456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hitman 3: Chongqing | 187725 | [187725-hitman-3-chongqing.json](./187725-hitman-3-chongqing.json) |
 | Hitman 3: Cloud Version | 140502 | [140502-hitman-3-cloud-version.json](./140502-hitman-3-cloud-version.json) |
 | Hitman 3: Dartmoor | 187723 | [187723-hitman-3-dartmoor.json](./187723-hitman-3-dartmoor.json) |
+| Hitman 3: Deluxe Edition | 140438 | [140438-hitman-3-deluxe-edition.json](./140438-hitman-3-deluxe-edition.json) |
 | Hitman 3: Deluxe Pack | 215557 | [215557-hitman-3-deluxe-pack.json](./215557-hitman-3-deluxe-pack.json) |
 | Hitman 3: Dubai | 187722 | [187722-hitman-3-dubai.json](./187722-hitman-3-dubai.json) |
 | Hitman 3: Mendoza | 187726 | [187726-hitman-3-mendoza.json](./187726-hitman-3-mendoza.json) |
@@ -9656,6 +9658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyper Knights | 29410 | [29410-hyper-knights.json](./29410-hyper-knights.json) |
 | Hyper Light Breaker | 194965 | [194965-hyper-light-breaker.json](./194965-hyper-light-breaker.json) |
 | Hyper Light Drifter: Special Edition | 107295 | [107295-hyper-light-drifter-special-edition.json](./107295-hyper-light-drifter-special-edition.json) |
+| Hyper Light Knight | 140222 | [140222-hyper-light-knight.json](./140222-hyper-light-knight.json) |
 | Hyper Lode Runner | 48980 | [48980-hyper-lode-runner.json](./48980-hyper-lode-runner.json) |
 | Hyper Mari World 6 | 200711 | [200711-hyper-mari-world-6.json](./200711-hyper-mari-world-6.json) |
 | Hyper Mega 256-in-1 | 332211 | [332211-hyper-mega-256-in-1.json](./332211-hyper-mega-256-in-1.json) |
