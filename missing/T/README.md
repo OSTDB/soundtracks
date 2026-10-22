@@ -7503,6 +7503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Forest Adventurer | 221704 | [221704-the-forest-adventurer.json](./221704-the-forest-adventurer.json) |
 | The Forest Below | 100588 | [100588-the-forest-below.json](./100588-the-forest-below.json) |
 | The Forest Below | 133827 | [133827-the-forest-below.json](./133827-the-forest-below.json) |
+| The Forest Cathedral | 132496 | [132496-the-forest-cathedral.json](./132496-the-forest-cathedral.json) |
 | The Forest Cries | 185101 | [185101-the-forest-cries.json](./185101-the-forest-cries.json) |
 | The Forest Keeper | 370190 | [370190-the-forest-keeper.json](./370190-the-forest-keeper.json) |
 | The Forest of Doom | 231461 | [231461-the-forest-of-doom.json](./231461-the-forest-of-doom.json) |
@@ -15270,6 +15271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Therapist: Mind Manager | 246116 | [246116-therapist-mind-manager.json](./246116-therapist-mind-manager.json) |
 | Therapy | 366580 | [366580-therapy.json](./366580-therapy.json) |
 | Therapy for Orchestra Movement III | 248803 | [248803-therapy-for-orchestra-movement-iii.json](./248803-therapy-for-orchestra-movement-iii.json) |
+| Therapy Sheep | 132499 | [132499-therapy-sheep.json](./132499-therapy-sheep.json) |
 | Therapy Simulator | 344444 | [344444-therapy-simulator.json](./344444-therapy-simulator.json) |
 | Therapy Simulator 2023 | 248078 | [248078-therapy-simulator-2023.json](./248078-therapy-simulator-2023.json) |
 | Therapy with Dr. Albert Krueger | 148411 | [148411-therapy-with-dr-albert-krueger.json](./148411-therapy-with-dr-albert-krueger.json) |
@@ -15695,6 +15697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | This was Once a Place of Honour | 239199 | [239199-this-was-once-a-place-of-honour.json](./239199-this-was-once-a-place-of-honour.json) |
 | This Way Madness Lies | 221775 | [221775-this-way-madness-lies.json](./221775-this-way-madness-lies.json) |
 | This Way!! | 199943 | [199943-this-way.json](./199943-this-way.json) |
+| This will not go well | 132452 | [132452-this-will-not-go-well.json](./132452-this-will-not-go-well.json) |
 | This Winter of Ours | 380726 | [380726-this-winter-of-ours.json](./380726-this-winter-of-ours.json) |
 | This World Is Over | 348386 | [348386-this-world-is-over.json](./348386-this-world-is-over.json) |
 | This, My Soul | 179692 | [179692-this-my-soul.json](./179692-this-my-soul.json) |
