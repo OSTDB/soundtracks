@@ -992,6 +992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Edge of the Blade | 420005 | [420005-edge-of-the-blade.json](./420005-edge-of-the-blade.json) |
 | Edge of the End | 367498 | [367498-edge-of-the-end.json](./367498-edge-of-the-end.json) |
 | Edge of Time: Rise of the Aeus | 120091 | [120091-edge-of-time-rise-of-the-aeus.json](./120091-edge-of-time-rise-of-the-aeus.json) |
+| Edge of Tomorrow | 152002 | [152002-edge-of-tomorrow.json](./152002-edge-of-tomorrow.json) |
 | Edge of Twilight: Return to Glory | 6986 | [6986-edge-of-twilight-return-to-glory.json](./6986-edge-of-twilight-return-to-glory.json) |
 | Edge of War | 262885 | [262885-edge-of-war.json](./262885-edge-of-war.json) |
 | Edge on Truth | 397008 | [397008-edge-on-truth.json](./397008-edge-on-truth.json) |
