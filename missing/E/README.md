@@ -328,6 +328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earth's Greatest Defender | 244619 | [244619-earths-greatest-defender.json](./244619-earths-greatest-defender.json) |
 | Earth's Last Defense | 182535 | [182535-earths-last-defense.json](./182535-earths-last-defense.json) |
 | Earth's Shadow | 164078 | [164078-earths-shadow.json](./164078-earths-shadow.json) |
+| Earthblade | 145983 | [145983-earthblade.json](./145983-earthblade.json) |
 | Earthborne | 303054 | [303054-earthborne.json](./303054-earthborne.json) |
 | EarthBound 3 | 323282 | [323282-earthbound-3.json](./323282-earthbound-3.json) |
 | EarthBound 64 | 133324 | [133324-earthbound-64.json](./133324-earthbound-64.json) |
@@ -4707,6 +4708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternam | 18544 | [18544-eternam.json](./18544-eternam.json) |
 | EternaMine | 224721 | [224721-eternamine.json](./224721-eternamine.json) |
 | Eternia: Chronicles of Meranthe | 215366 | [215366-eternia-chronicles-of-meranthe.json](./215366-eternia-chronicles-of-meranthe.json) |
+| Eternia: Pet Whisperer | 145970 | [145970-eternia-pet-whisperer.json](./145970-eternia-pet-whisperer.json) |
 | Eternights | 203367 | [203367-eternights.json](./203367-eternights.json) |
 | Eternis: Death Match | 298433 | [298433-eternis-death-match.json](./298433-eternis-death-match.json) |
 | Eternity | 276757 | [276757-eternity.json](./276757-eternity.json) |
