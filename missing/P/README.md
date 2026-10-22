@@ -1131,6 +1131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panzer Dragoon | 199012 | [199012-panzer-dragoon.json](./199012-panzer-dragoon.json) |
 | Panzer Dragoon Mini | 1670 | [1670-panzer-dragoon-mini.json](./1670-panzer-dragoon-mini.json) |
 | Panzer Dragoon Voyage Record | 330321 | [330321-panzer-dragoon-voyage-record.json](./330321-panzer-dragoon-voyage-record.json) |
+| Panzer Dragoon Zwei: Remake | 113351 | [113351-panzer-dragoon-zwei-remake.json](./113351-panzer-dragoon-zwei-remake.json) |
 | Panzer Elite Action: Fields of Glory | 5978 | [5978-panzer-elite-action-fields-of-glory.json](./5978-panzer-elite-action-fields-of-glory.json) |
 | Panzer Elite: Special Edition | 51857 | [51857-panzer-elite-special-edition.json](./51857-panzer-elite-special-edition.json) |
 | Panzer Front | 22008 | [22008-panzer-front.json](./22008-panzer-front.json) |
@@ -10025,6 +10026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Population Control | 387497 | [387497-population-control.json](./387497-population-control.json) |
 | Population Goals! | 291374 | [291374-population-goals.json](./291374-population-goals.json) |
 | Population Quiz | 312841 | [312841-population-quiz.json](./312841-population-quiz.json) |
+| Population Zero | 113352 | [113352-population-zero.json](./113352-population-zero.json) |
 | Population: One | 139377 | [139377-population-one.json](./139377-population-one.json) |
 | Population: Tire | 135850 | [135850-population-tire.json](./135850-population-tire.json) |
 | Populous | 248 | [248-populous.json](./248-populous.json) |
@@ -11772,6 +11774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Evolution Soccer 2019 | 100359 | [100359-pro-evolution-soccer-2019.json](./100359-pro-evolution-soccer-2019.json) |
 | Pro Evolution Soccer 2019 | 240471 | [240471-pro-evolution-soccer-2019.json](./240471-pro-evolution-soccer-2019.json) |
 | Pro Evolution Soccer 2019 | 240473 | [240473-pro-evolution-soccer-2019.json](./240473-pro-evolution-soccer-2019.json) |
+| Pro Evolution Soccer 2019 Lite | 113420 | [113420-pro-evolution-soccer-2019-lite.json](./113420-pro-evolution-soccer-2019-lite.json) |
 | Pro Evolution Soccer 2019: Legend Edition | 118879 | [118879-pro-evolution-soccer-2019-legend-edition.json](./118879-pro-evolution-soccer-2019-legend-edition.json) |
 | Pro Evolution Soccer 6: Apertura 2008 | 237546 | [237546-pro-evolution-soccer-6-apertura-2008.json](./237546-pro-evolution-soccer-6-apertura-2008.json) |
 | Pro Evolution Soccer 6: Legends 2 | 237547 | [237547-pro-evolution-soccer-6-legends-2.json](./237547-pro-evolution-soccer-6-legends-2.json) |
@@ -12186,6 +12189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Awakening | 22790 | [22790-project-awakening.json](./22790-project-awakening.json) |
 | Project B | 240081 | [240081-project-b.json](./240081-project-b.json) |
 | Project B-Fer | 257651 | [257651-project-b-fer.json](./257651-project-b-fer.json) |
+| Project Babel | 113381 | [113381-project-babel.json](./113381-project-babel.json) |
 | Project Backrooms | 236529 | [236529-project-backrooms.json](./236529-project-backrooms.json) |
 | Project Bad Apple's AP400 | 411112 | [411112-project-bad-apples-ap400.json](./411112-project-bad-apples-ap400.json) |
 | Project Baiten | 183816 | [183816-project-baiten.json](./183816-project-baiten.json) |
