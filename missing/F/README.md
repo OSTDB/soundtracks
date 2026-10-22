@@ -1124,6 +1124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallow | 56437 | [56437-fallow.json](./56437-fallow.json) |
 | Falls and Jumps | 262904 | [262904-falls-and-jumps.json](./262904-falls-and-jumps.json) |
 | Fallsaga | 355127 | [355127-fallsaga.json](./355127-fallsaga.json) |
+| Fallstreak | 110731 | [110731-fallstreak.json](./110731-fallstreak.json) |
 | Fallstreak 2: Traum | 364604 | [364604-fallstreak-2-traum.json](./364604-fallstreak-2-traum.json) |
 | Fallstreak: Requiem For My Homeland | 141631 | [141631-fallstreak-requiem-for-my-homeland.json](./141631-fallstreak-requiem-for-my-homeland.json) |
 | Fallstruktur | 348018 | [348018-fallstruktur.json](./348018-fallstruktur.json) |
