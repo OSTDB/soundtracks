@@ -3092,6 +3092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Rage | 51051 | [51051-battle-rage.json](./51051-battle-rage.json) |
 | Battle Rage: Mech Conflict | 78683 | [78683-battle-rage-mech-conflict.json](./78683-battle-rage-mech-conflict.json) |
 | Battle Ram | 132780 | [132780-battle-ram.json](./132780-battle-ram.json) |
+| Battle Ranch: Pigs Vs Plants | 112065 | [112065-battle-ranch-pigs-vs-plants.json](./112065-battle-ranch-pigs-vs-plants.json) |
 | Battle Rangers | 39484 | [39484-battle-rangers.json](./39484-battle-rangers.json) |
 | Battle Rap Simulator | 74948 | [74948-battle-rap-simulator.json](./74948-battle-rap-simulator.json) |
 | Battle Raper | 22407 | [22407-battle-raper.json](./22407-battle-raper.json) |
