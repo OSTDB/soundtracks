@@ -1933,6 +1933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tappy Cat: Rhythm Collector | 74696 | [74696-tappy-cat-rhythm-collector.json](./74696-tappy-cat-rhythm-collector.json) |
 | Tappy Chicken | 344000 | [344000-tappy-chicken.json](./344000-tappy-chicken.json) |
 | Tappy Dig: Virtual Pet Fox Game | 265423 | [265423-tappy-dig-virtual-pet-fox-game.json](./265423-tappy-dig-virtual-pet-fox-game.json) |
+| Tappy Donut | 135088 | [135088-tappy-donut.json](./135088-tappy-donut.json) |
 | Tappy Golf | 264905 | [264905-tappy-golf.json](./264905-tappy-golf.json) |
 | Tappy Lap | 243640 | [243640-tappy-lap.json](./243640-tappy-lap.json) |
 | Tappy Shots | 87362 | [87362-tappy-shots.json](./87362-tappy-shots.json) |
@@ -4441,6 +4442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Airship Designer | 126606 | [126606-the-airship-designer.json](./126606-the-airship-designer.json) |
 | The Airtight City 2 | 161171 | [161171-the-airtight-city-2.json](./161171-the-airtight-city-2.json) |
 | The Akuma Hunters: Exorsister | 45993 | [45993-the-akuma-hunters-exorsister.json](./45993-the-akuma-hunters-exorsister.json) |
+| The Alabaster Donut Farm | 134887 | [134887-the-alabaster-donut-farm.json](./134887-the-alabaster-donut-farm.json) |
 | The Albatross | 29728 | [29728-the-albatross.json](./29728-the-albatross.json) |
 | The Albino Hunter: Revamp | 392411 | [392411-the-albino-hunter-revamp.json](./392411-the-albino-hunter-revamp.json) |
 | The Alchemist | 178474 | [178474-the-alchemist.json](./178474-the-alchemist.json) |
@@ -6342,6 +6344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Death of Erin Myers | 111289 | [111289-the-death-of-erin-myers.json](./111289-the-death-of-erin-myers.json) |
 | The Death of Fo-gu | 321127 | [321127-the-death-of-fo-gu.json](./321127-the-death-of-fo-gu.json) |
 | The Death of Harsh Noise | 410064 | [410064-the-death-of-harsh-noise.json](./410064-the-death-of-harsh-noise.json) |
+| The Death of the Corpse Wizard | 134893 | [134893-the-death-of-the-corpse-wizard.json](./134893-the-death-of-the-corpse-wizard.json) |
 | The Death of the Video Star | 365182 | [365182-the-death-of-the-video-star.json](./365182-the-death-of-the-video-star.json) |
 | The Death of Zoe | 159841 | [159841-the-death-of-zoe.json](./159841-the-death-of-zoe.json) |
 | The Death Trap | 63756 | [63756-the-death-trap.json](./63756-the-death-trap.json) |
@@ -8396,6 +8399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The House of the Dead: Scarlet Dawn | 82081 | [82081-the-house-of-the-dead-scarlet-dawn.json](./82081-the-house-of-the-dead-scarlet-dawn.json) |
 | The House of the Living | 129602 | [129602-the-house-of-the-living.json](./129602-the-house-of-the-living.json) |
 | The house of the missing hands | 287763 | [287763-the-house-of-the-missing-hands.json](./287763-the-house-of-the-missing-hands.json) |
+| The House on Holland Hill | 134886 | [134886-the-house-on-holland-hill.json](./134886-the-house-on-holland-hill.json) |
 | The House on Ninth Avenue | 260625 | [260625-the-house-on-ninth-avenue.json](./260625-the-house-on-ninth-avenue.json) |
 | The House on the Hill | 387555 | [387555-the-house-on-the-hill.json](./387555-the-house-on-the-hill.json) |
 | The House Remembers | 372752 | [372752-the-house-remembers.json](./372752-the-house-remembers.json) |
@@ -12020,6 +12024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Rebirth | 257304 | [257304-the-rebirth.json](./257304-the-rebirth.json) |
 | The Rebirth | 327223 | [327223-the-rebirth.json](./327223-the-rebirth.json) |
 | The Rebirth of Kingdom Lo | 244868 | [244868-the-rebirth-of-kingdom-lo.json](./244868-the-rebirth-of-kingdom-lo.json) |
+| The Recipe of Madness | 134879 | [134879-the-recipe-of-madness.json](./134879-the-recipe-of-madness.json) |
 | The Reconnection Clinic | 183775 | [183775-the-reconnection-clinic.json](./183775-the-reconnection-clinic.json) |
 | The Reconstruction | 130894 | [130894-the-reconstruction.json](./130894-the-reconstruction.json) |
 | The Recurrence | 289968 | [289968-the-recurrence.json](./289968-the-recurrence.json) |
@@ -12032,6 +12037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Red Cathedral | 359042 | [359042-the-red-cathedral.json](./359042-the-red-cathedral.json) |
 | The Red Crystal: The Seven Secrets of Life | 198262 | [198262-the-red-crystal-the-seven-secrets-of-life.json](./198262-the-red-crystal-the-seven-secrets-of-life.json) |
 | The Red Devil | 184759 | [184759-the-red-devil.json](./184759-the-red-devil.json) |
+| The Red Door | 134903 | [134903-the-red-door.json](./134903-the-red-door.json) |
 | The Red Forest | 267674 | [267674-the-red-forest.json](./267674-the-red-forest.json) |
 | The Red Hat | 327275 | [327275-the-red-hat.json](./327275-the-red-hat.json) |
 | The Red Hood | 193482 | [193482-the-red-hood.json](./193482-the-red-hood.json) |
@@ -18052,6 +18058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time's Up | 75409 | [75409-times-up.json](./75409-times-up.json) |
 | Time's Up in Tiny Town | 190471 | [190471-times-up-in-tiny-town.json](./190471-times-up-in-tiny-town.json) |
 | Timeball | 7791 | [7791-timeball.json](./7791-timeball.json) |
+| Timebomb | 135085 | [135085-timebomb.json](./135085-timebomb.json) |
 | TimeBomb90second | 289179 | [289179-timebomb90second.json](./289179-timebomb90second.json) |
 | Timebot | 219499 | [219499-timebot.json](./219499-timebot.json) |
 | Timebound | 288601 | [288601-timebound.json](./288601-timebound.json) |
