@@ -1991,6 +1991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Partition Sector | 144383 | [144383-partition-sector.json](./144383-partition-sector.json) |
 | Partivity! | 115655 | [115655-partivity.json](./115655-partivity.json) |
 | Partizan | 270055 | [270055-partizan.json](./270055-partizan.json) |
+| Partless Ron | 155928 | [155928-partless-ron.json](./155928-partless-ron.json) |
 | Partner In TV!!! O-Uchi ni Wan-chan ga Yattekita | 327623 | [327623-partner-in-tv-o-uchi-ni-wan-chan-ga-yattekita.json](./327623-partner-in-tv-o-uchi-ni-wan-chan-ga-yattekita.json) |
 | Partum Artifex | 186115 | [186115-partum-artifex.json](./186115-partum-artifex.json) |
 | Partway | 422092 | [422092-partway.json](./422092-partway.json) |
@@ -5134,6 +5135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pillow Fort | 56171 | [56171-pillow-fort.json](./56171-pillow-fort.json) |
 | Pillow Legends and The Last Nugget | 316703 | [316703-pillow-legends-and-the-last-nugget.json](./316703-pillow-legends-and-the-last-nugget.json) |
 | Pillow Pets | 47941 | [47941-pillow-pets.json](./47941-pillow-pets.json) |
+| Pillow Simulator | 155956 | [155956-pillow-simulator.json](./155956-pillow-simulator.json) |
 | Pillowfight Girls | 350196 | [350196-pillowfight-girls.json](./350196-pillowfight-girls.json) |
 | Pillowheads: It's Party Time | 137644 | [137644-pillowheads-its-party-time.json](./137644-pillowheads-its-party-time.json) |
 | Pills4Skills | 33903 | [33903-pills4skills.json](./33903-pills4skills.json) |
@@ -5586,6 +5588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinguino | 422483 | [422483-pinguino.json](./422483-pinguino.json) |
 | Pingus | 146207 | [146207-pingus.json](./146207-pingus.json) |
 | Pingwinek Kelvin | 142495 | [142495-pingwinek-kelvin.json](./142495-pingwinek-kelvin.json) |
+| Pìnjìng de Kāiduān | 155969 | [155969-pinjing-de-kaiduan.json](./155969-pinjing-de-kaiduan.json) |
 | Pink 2048 | 211737 | [211737-pink-2048.json](./211737-pink-2048.json) |
 | Pink Birdie | 175743 | [175743-pink-birdie.json](./175743-pink-birdie.json) |
 | Pink Carnations | 398811 | [398811-pink-carnations.json](./398811-pink-carnations.json) |
@@ -6630,6 +6633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Xiuzhen | 106508 | [106508-pixel-xiuzhen.json](./106508-pixel-xiuzhen.json) |
 | Pixel Z - Gun Day | 33690 | [33690-pixel-z-gun-day.json](./33690-pixel-z-gun-day.json) |
 | Pixel Z Hunter 3D | 282685 | [282685-pixel-z-hunter-3d.json](./282685-pixel-z-hunter-3d.json) |
+| Pixel Zombie Survival | 155942 | [155942-pixel-zombie-survival.json](./155942-pixel-zombie-survival.json) |
 | Pixel: Are You Squared? | 35701 | [35701-pixel-are-you-squared.json](./35701-pixel-are-you-squared.json) |
 | Pixel's Hallows Eve | 139209 | [139209-pixels-hallows-eve.json](./139209-pixels-hallows-eve.json) |
 | Pixel's Unknown Battle Ground | 90958 | [90958-pixels-unknown-battle-ground.json](./90958-pixels-unknown-battle-ground.json) |
@@ -10836,6 +10840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | President Simulator | 400440 | [400440-president-simulator.json](./400440-president-simulator.json) |
 | President Yukino | 106614 | [106614-president-yukino.json](./106614-president-yukino.json) |
 | President's Choice | 307866 | [307866-presidents-choice.json](./307866-presidents-choice.json) |
+| President's Sniper Shooting | 155945 | [155945-presidents-sniper-shooting.json](./155945-presidents-sniper-shooting.json) |
 | Presidential Beatdown | 361049 | [361049-presidential-beatdown.json](./361049-presidential-beatdown.json) |
 | Presidential Psychologist | 366744 | [366744-presidential-psychologist.json](./366744-presidential-psychologist.json) |
 | Presidential Rise | 348293 | [348293-presidential-rise.json](./348293-presidential-rise.json) |
@@ -13536,6 +13541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puppis & Choler | 97522 | [97522-puppis-and-choler.json](./97522-puppis-and-choler.json) |
 | Pupple Pop | 390192 | [390192-pupple-pop.json](./390192-pupple-pop.json) |
 | Puppo! | 166290 | [166290-puppo.json](./166290-puppo.json) |
+| Puppy Adventure | 155957 | [155957-puppy-adventure.json](./155957-puppy-adventure.json) |
 | Puppy Balloon Ride | 213392 | [213392-puppy-balloon-ride.json](./213392-puppy-balloon-ride.json) |
 | Puppy Cars: Games for Kids Edition, Animal adventure | 309039 | [309039-puppy-cars-games-for-kids-edition-animal-adventure.json](./309039-puppy-cars-games-for-kids-edition-animal-adventure.json) |
 | Puppy Chef Academy | 107790 | [107790-puppy-chef-academy.json](./107790-puppy-chef-academy.json) |
