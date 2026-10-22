@@ -2463,6 +2463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Realms of Darkness | 130730 | [130730-realms-of-darkness.json](./130730-realms-of-darkness.json) |
 | Realms of Despair | 127951 | [127951-realms-of-despair.json](./127951-realms-of-despair.json) |
 | Realms of Dr. Chaos | 268758 | [268758-realms-of-dr-chaos.json](./268758-realms-of-dr-chaos.json) |
+| Realms of Eternity | 148793 | [148793-realms-of-eternity.json](./148793-realms-of-eternity.json) |
 | Realms of Exether | 356269 | [356269-realms-of-exether.json](./356269-realms-of-exether.json) |
 | Realms of Flow | 253591 | [253591-realms-of-flow.json](./253591-realms-of-flow.json) |
 | Realms of Illusion: Sentinel | 25485 | [25485-realms-of-illusion-sentinel.json](./25485-realms-of-illusion-sentinel.json) |
@@ -5083,6 +5084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revhead: Turbo | 170958 | [170958-revhead-turbo.json](./170958-revhead-turbo.json) |
 | Review: Jashin Fukkatsu | 97233 | [97233-review-jashin-fukkatsu.json](./97233-review-jashin-fukkatsu.json) |
 | Reviser | 125103 | [125103-reviser.json](./125103-reviser.json) |
+| Revisitor | 148832 | [148832-revisitor.json](./148832-revisitor.json) |
 | Revita | 139672 | [139672-revita.json](./139672-revita.json) |
 | Revival | 399205 | [399205-revival.json](./399205-revival.json) |
 | Revival and Exploration | 252130 | [252130-revival-and-exploration.json](./252130-revival-and-exploration.json) |
@@ -7629,6 +7631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocky Towers: Puzzle Defense | 237378 | [237378-rocky-towers-puzzle-defense.json](./237378-rocky-towers-puzzle-defense.json) |
 | Rocky Wings | 265184 | [265184-rocky-wings.json](./265184-rocky-wings.json) |
 | Rocky's Boots | 72978 | [72978-rockys-boots.json](./72978-rockys-boots.json) |
+| Rockytown | 148786 | [148786-rockytown.json](./148786-rockytown.json) |
 | Rocman X | 247412 | [247412-rocman-x.json](./247412-rocman-x.json) |
 | Roco Kingdom | 395852 | [395852-roco-kingdom.json](./395852-roco-kingdom.json) |
 | Rocococo: Audiogame Fantastique | 258700 | [258700-rocococo-audiogame-fantastique.json](./258700-rocococo-audiogame-fantastique.json) |
