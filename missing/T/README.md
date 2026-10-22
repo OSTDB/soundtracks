@@ -1359,6 +1359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tamara In The Forsaken Dungeon | 276284 | [276284-tamara-in-the-forsaken-dungeon.json](./276284-tamara-in-the-forsaken-dungeon.json) |
 | Tamarak Trail | 240982 | [240982-tamarak-trail.json](./240982-tamarak-trail.json) |
 | Tamarin | 117735 | [117735-tamarin.json](./117735-tamarin.json) |
+| Tamarindos Freaking Dinner | 152108 | [152108-tamarindos-freaking-dinner.json](./152108-tamarindos-freaking-dinner.json) |
 | Tamas Awakening | 247945 | [247945-tamas-awakening.json](./247945-tamas-awakening.json) |
 | Tamas: Shadowveil | 410963 | [410963-tamas-shadowveil.json](./410963-tamas-shadowveil.json) |
 | Tamashi Party | 196673 | [196673-tamashi-party.json](./196673-tamashi-party.json) |
@@ -3306,6 +3307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tentacle Prawn: (Actually) A Cthulhu Dating Sim | 226607 | [226607-tentacle-prawn-actually-a-cthulhu-dating-sim.json](./226607-tentacle-prawn-actually-a-cthulhu-dating-sim.json) |
 | Tentacle Prawn: (Actually) A Cthulhu Dating Sim - The Myth & Legend of Marauder Shields | 267065 | [267065-tentacle-prawn-actually-a-cthulhu-dating-sim-the-myth-and-legend-of-marauder-shields.json](./267065-tentacle-prawn-actually-a-cthulhu-dating-sim-the-myth-and-legend-of-marauder-shields.json) |
 | Tentacle Slave: Saori | 97790 | [97790-tentacle-slave-saori.json](./97790-tentacle-slave-saori.json) |
+| Tentacle Typer | 152090 | [152090-tentacle-typer.json](./152090-tentacle-typer.json) |
 | Tentacle Wars | 365194 | [365194-tentacle-wars.json](./365194-tentacle-wars.json) |
 | Tentacles | 179543 | [179543-tentacles.json](./179543-tentacles.json) |
 | Tentacles Growing Everywhere | 128411 | [128411-tentacles-growing-everywhere.json](./128411-tentacles-growing-everywhere.json) |
@@ -6175,6 +6177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dark Matter | 23920 | [23920-the-dark-matter.json](./23920-the-dark-matter.json) |
 | The Dark Meadow | 38957 | [38957-the-dark-meadow.json](./38957-the-dark-meadow.json) |
 | The Dark Mind | 320529 | [320529-the-dark-mind.json](./320529-the-dark-mind.json) |
+| The Dark Pictures Anthology: House of Ashes - Pazuzu Edition | 152103 | [152103-the-dark-pictures-anthology-house-of-ashes-pazuzu-edition.json](./152103-the-dark-pictures-anthology-house-of-ashes-pazuzu-edition.json) |
 | The Dark Pictures Anthology: Intercession | 257076 | [257076-the-dark-pictures-anthology-intercession.json](./257076-the-dark-pictures-anthology-intercession.json) |
 | The Dark Pictures Anthology: Little Hope & Man of Medan Bundle | 169246 | [169246-the-dark-pictures-anthology-little-hope-and-man-of-medan-bundle.json](./169246-the-dark-pictures-anthology-little-hope-and-man-of-medan-bundle.json) |
 | The Dark Pictures Anthology: Season One | 225775 | [225775-the-dark-pictures-anthology-season-one.json](./225775-the-dark-pictures-anthology-season-one.json) |
@@ -18316,6 +18319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Pixels Vol. 1: Ninpo Blast | 308625 | [308625-tiny-pixels-vol-1-ninpo-blast.json](./308625-tiny-pixels-vol-1-ninpo-blast.json) |
 | Tiny Pixels Vol. 2: Stormy Knights | 338928 | [338928-tiny-pixels-vol-2-stormy-knights.json](./338928-tiny-pixels-vol-2-stormy-knights.json) |
 | Tiny Plane | 62613 | [62613-tiny-plane.json](./62613-tiny-plane.json) |
+| Tiny Planet Protectors | 152000 | [152000-tiny-planet-protectors.json](./152000-tiny-planet-protectors.json) |
 | Tiny Plushie Story | 356597 | [356597-tiny-plushie-story.json](./356597-tiny-plushie-story.json) |
 | Tiny Pods Rescue: 2D Board Game Edition | 319274 | [319274-tiny-pods-rescue-2d-board-game-edition.json](./319274-tiny-pods-rescue-2d-board-game-edition.json) |
 | Tiny Poker | 150603 | [150603-tiny-poker.json](./150603-tiny-poker.json) |
