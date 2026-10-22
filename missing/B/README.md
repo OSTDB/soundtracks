@@ -734,7 +734,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -6467,6 +6466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Birb Game | 343803 | [343803-birb-game.json](./343803-birb-game.json) |
 | Birbout! | 148910 | [148910-birbout.json](./148910-birbout.json) |
 | Birch Simulator | 271136 | [271136-birch-simulator.json](./271136-birch-simulator.json) |
+| Birchian Flight Simulator | 119997 | [119997-birchian-flight-simulator.json](./119997-birchian-flight-simulator.json) |
 | Birchwood | 325714 | [325714-birchwood.json](./325714-birchwood.json) |
 | Bird | 159829 | [159829-bird.json](./159829-bird.json) |
 | Bird | 170496 | [170496-bird.json](./170496-bird.json) |
@@ -7857,6 +7857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blightfell | 375311 | [375311-blightfell.json](./375311-blightfell.json) |
 | BlightFog | 318290 | [318290-blightfog.json](./318290-blightfog.json) |
 | Blightlands Blacksmith | 238640 | [238640-blightlands-blacksmith.json](./238640-blightlands-blacksmith.json) |
+| Blightmare | 120039 | [120039-blightmare.json](./120039-blightmare.json) |
 | Blights Wrath | 257834 | [257834-blights-wrath.json](./257834-blights-wrath.json) |
 | Blightseed | 369452 | [369452-blightseed.json](./369452-blightseed.json) |
 | Blightseeker | 236510 | [236510-blightseeker.json](./236510-blightseeker.json) |
@@ -10082,6 +10083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boogie | 210265 | [210265-boogie.json](./210265-boogie.json) |
 | Boogie | 4725 | [4725-boogie.json](./4725-boogie.json) |
 | Boogie | 85828 | [85828-boogie.json](./85828-boogie.json) |
+| Boogie Bot | 120007 | [120007-boogie-bot.json](./120007-boogie-bot.json) |
 | Boogie Bum | 70849 | [70849-boogie-bum.json](./70849-boogie-bum.json) |
 | Boogie Bunnies | 21812 | [21812-boogie-bunnies.json](./21812-boogie-bunnies.json) |
 | Boogie Cruise | 352517 | [352517-boogie-cruise.json](./352517-boogie-cruise.json) |
@@ -12071,6 +12073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bridge 5.0 | 362441 | [362441-bridge-5-0.json](./362441-bridge-5-0.json) |
 | Bridge Between Two Islands | 308475 | [308475-bridge-between-two-islands.json](./308475-bridge-between-two-islands.json) |
 | Bridge Builder | 50121 | [50121-bridge-builder.json](./50121-bridge-builder.json) |
+| Bridge Builder Racer | 120042 | [120042-bridge-builder-racer.json](./120042-bridge-builder-racer.json) |
 | Bridge Challenge | 15687 | [15687-bridge-challenge.json](./15687-bridge-challenge.json) |
 | Bridge Champion with Omar Sharif | 148390 | [148390-bridge-champion-with-omar-sharif.json](./148390-bridge-champion-with-omar-sharif.json) |
 | Bridge Construction Set | 25006 | [25006-bridge-construction-set.json](./25006-bridge-construction-set.json) |
