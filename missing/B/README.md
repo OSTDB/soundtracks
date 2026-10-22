@@ -731,6 +731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -8752,6 +8753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloody Roar 4 | 24104 | [24104-bloody-roar-4.json](./24104-bloody-roar-4.json) |
 | Bloody Roar Extreme | 225826 | [225826-bloody-roar-extreme.json](./225826-bloody-roar-extreme.json) |
 | Bloody Rune | 320433 | [320433-bloody-rune.json](./320433-bloody-rune.json) |
+| Bloody Sand: The Gods Of Assyria | 150476 | [150476-bloody-sand-the-gods-of-assyria.json](./150476-bloody-sand-the-gods-of-assyria.json) |
 | Bloody Service | 155948 | [155948-bloody-service.json](./155948-bloody-service.json) |
 | Bloody Shrine | 284019 | [284019-bloody-shrine.json](./284019-bloody-shrine.json) |
 | Bloody Sky | 312153 | [312153-bloody-sky.json](./312153-bloody-sky.json) |
@@ -9167,6 +9169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BMX: The Game | 138610 | [138610-bmx-the-game.json](./138610-bmx-the-game.json) |
 | BND Legenden: Operation Blackbox | 385985 | [385985-bnd-legenden-operation-blackbox.json](./385985-bnd-legenden-operation-blackbox.json) |
 | Bnuuy Deliverance | 339891 | [339891-bnuuy-deliverance.json](./339891-bnuuy-deliverance.json) |
+| BO 020880 | 150407 | [150407-bo-020880.json](./150407-bo-020880.json) |
 | Bo Bear | 347014 | [347014-bo-bear.json](./347014-bo-bear.json) |
 | Bó Cócó Zinha | 255545 | [255545-bo-coco-zinha.json](./255545-bo-coco-zinha.json) |
 | Bo Jackson Baseball | 8673 | [8673-bo-jackson-baseball.json](./8673-bo-jackson-baseball.json) |
