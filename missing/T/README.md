@@ -3365,6 +3365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TeraBlaster | 34925 | [34925-terablaster.json](./34925-terablaster.json) |
 | Teraburst | 394174 | [394174-teraburst.json](./394174-teraburst.json) |
 | Terafall | 161170 | [161170-terafall.json](./161170-terafall.json) |
+| Terapets Wars | 135489 | [135489-terapets-wars.json](./135489-terapets-wars.json) |
 | Teraphobia | 159250 | [159250-teraphobia.json](./159250-teraphobia.json) |
 | Terasene The Light of Her Life | 273102 | [273102-terasene-the-light-of-her-life.json](./273102-terasene-the-light-of-her-life.json) |
 | Teratale: Tide of Wishes | 257908 | [257908-teratale-tide-of-wishes.json](./257908-teratale-tide-of-wishes.json) |
