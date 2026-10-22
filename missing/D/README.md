@@ -1544,6 +1544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Universe | 69798 | [69798-dark-universe.json](./69798-dark-universe.json) |
 | Dark Valiance | 135499 | [135499-dark-valiance.json](./135499-dark-valiance.json) |
 | Dark Vampires: The Shadows of Dust | 346472 | [346472-dark-vampires-the-shadows-of-dust.json](./346472-dark-vampires-the-shadows-of-dust.json) |
+| Dark Veer | 123816 | [123816-dark-veer.json](./123816-dark-veer.json) |
 | Dark Vengeance | 51368 | [51368-dark-vengeance.json](./51368-dark-vengeance.json) |
 | Dark Visit | 103446 | [103446-dark-visit.json](./103446-dark-visit.json) |
 | Dark Void | 4220 | [4220-dark-void.json](./4220-dark-void.json) |
@@ -7812,6 +7813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Discover the Ocean | 229220 | [229220-discover-the-ocean.json](./229220-discover-the-ocean.json) |
 | Discover The World | 375321 | [375321-discover-the-world.json](./375321-discover-the-world.json) |
 | Discovered | 137519 | [137519-discovered.json](./137519-discovered.json) |
+| Discoverer | 123841 | [123841-discoverer.json](./123841-discoverer.json) |
 | Discovering Colors - Animals (Coloring Book) | 106572 | [106572-discovering-colors-animals-coloring-book.json](./106572-discovering-colors-animals-coloring-book.json) |
 | Discovering Endangered Wildlife | 262258 | [262258-discovering-endangered-wildlife.json](./262258-discovering-endangered-wildlife.json) |
 | Discovering Galimore | 294154 | [294154-discovering-galimore.json](./294154-discovering-galimore.json) |
@@ -10241,6 +10243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dooors 3 | 383640 | [383640-dooors-3.json](./383640-dooors-3.json) |
 | Dooors VR | 29947 | [29947-dooors-vr.json](./29947-dooors-vr.json) |
 | Door | 103457 | [103457-door.json](./103457-door.json) |
+| Door 2: Key | 123850 | [123850-door-2-key.json](./123850-door-2-key.json) |
 | Door 2: Key - Path to Heaven | 171586 | [171586-door-2-key-path-to-heaven.json](./171586-door-2-key-path-to-heaven.json) |
 | Door Game Deluxe | 331085 | [331085-door-game-deluxe.json](./331085-door-game-deluxe.json) |
 | Door Knocker | 122336 | [122336-door-knocker.json](./122336-door-knocker.json) |
@@ -10271,6 +10274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doors of Doom | 13605 | [13605-doors-of-doom.json](./13605-doors-of-doom.json) |
 | Doors of Doom | 305317 | [305317-doors-of-doom.json](./305317-doors-of-doom.json) |
 | Doors of Insanity: ReOpened | 322699 | [322699-doors-of-insanity-reopened.json](./322699-doors-of-insanity-reopened.json) |
+| Doors of Silence: The Prologue | 123881 | [123881-doors-of-silence-the-prologue.json](./123881-doors-of-silence-the-prologue.json) |
 | Doors Push or Pull | 101349 | [101349-doors-push-or-pull.json](./101349-doors-push-or-pull.json) |
 | Doors Quest Demo | 101593 | [101593-doors-quest-demo.json](./101593-doors-quest-demo.json) |
 | Doors: Awakening | 132014 | [132014-doors-awakening.json](./132014-doors-awakening.json) |
@@ -12502,6 +12506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamland Farm: House Furnitures | 324460 | [324460-dreamland-farm-house-furnitures.json](./324460-dreamland-farm-house-furnitures.json) |
 | Dreamland Farm: Kitchen Furnitures | 324461 | [324461-dreamland-farm-kitchen-furnitures.json](./324461-dreamland-farm-kitchen-furnitures.json) |
 | Dreamland Farm: Stone Fence and Tiles | 324477 | [324477-dreamland-farm-stone-fence-and-tiles.json](./324477-dreamland-farm-stone-fence-and-tiles.json) |
+| Dreamland Solitaire | 123824 | [123824-dreamland-solitaire.json](./123824-dreamland-solitaire.json) |
 | Dreamland Solitaire Bundle | 309631 | [309631-dreamland-solitaire-bundle.json](./309631-dreamland-solitaire-bundle.json) |
 | Dreamland Solitaire: Dark Prophecy | 138478 | [138478-dreamland-solitaire-dark-prophecy.json](./138478-dreamland-solitaire-dark-prophecy.json) |
 | Dreamland Solitaire: Dragon's Fury | 122819 | [122819-dreamland-solitaire-dragons-fury.json](./122819-dreamland-solitaire-dragons-fury.json) |
@@ -13245,6 +13250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drunk or Baby | 403622 | [403622-drunk-or-baby.json](./403622-drunk-or-baby.json) |
 | Drunk or Dead | 29830 | [29830-drunk-or-dead.json](./29830-drunk-or-dead.json) |
 | Drunk Puppet | 110354 | [110354-drunk-puppet.json](./110354-drunk-puppet.json) |
+| Drunk ride | 123874 | [123874-drunk-ride.json](./123874-drunk-ride.json) |
 | Drunk Santa Simulator | 127074 | [127074-drunk-santa-simulator.json](./127074-drunk-santa-simulator.json) |
 | Drunk Sonic | 330864 | [330864-drunk-sonic.json](./330864-drunk-sonic.json) |
 | Drunk Trucker Joe 3D Truck Driving Race | 256189 | [256189-drunk-trucker-joe-3d-truck-driving-race.json](./256189-drunk-trucker-joe-3d-truck-driving-race.json) |
@@ -13326,6 +13332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duael Invaders | 42827 | [42827-duael-invaders.json](./42827-duael-invaders.json) |
 | Duake | 320260 | [320260-duake.json](./320260-duake.json) |
 | Dual | 255889 | [255889-dual.json](./255889-dual.json) |
+| Dual Blade: Battle of the Female Ninja | 123882 | [123882-dual-blade-battle-of-the-female-ninja.json](./123882-dual-blade-battle-of-the-female-ninja.json) |
 | Dual Brain Vol.1: Calculation | 127170 | [127170-dual-brain-vol-1-calculation.json](./127170-dual-brain-vol-1-calculation.json) |
 | Dual Brain Vol.2: Reflex | 147144 | [147144-dual-brain-vol-2-reflex.json](./147144-dual-brain-vol-2-reflex.json) |
 | Dual Brain Vol.3: Shapes | 147143 | [147143-dual-brain-vol-3-shapes.json](./147143-dual-brain-vol-3-shapes.json) |
@@ -13863,6 +13870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Buster Ex-Plores | 66169 | [66169-dungeon-buster-ex-plores.json](./66169-dungeon-buster-ex-plores.json) |
 | Dungeon Campaign | 24803 | [24803-dungeon-campaign.json](./24803-dungeon-campaign.json) |
 | Dungeon Chess | 28546 | [28546-dungeon-chess.json](./28546-dungeon-chess.json) |
+| Dungeon Chest | 123847 | [123847-dungeon-chest.json](./123847-dungeon-chest.json) |
 | Dungeon Chop Chop | 82020 | [82020-dungeon-chop-chop.json](./82020-dungeon-chop-chop.json) |
 | Dungeon Clawler | 290897 | [290897-dungeon-clawler.json](./290897-dungeon-clawler.json) |
 | Dungeon Cleaner | 236339 | [236339-dungeon-cleaner.json](./236339-dungeon-cleaner.json) |
