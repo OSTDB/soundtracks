@@ -1112,6 +1112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Falrika the Alchemist | 299292 | [299292-falrika-the-alchemist.json](./299292-falrika-the-alchemist.json) |
 | False Alarm | 406656 | [406656-false-alarm.json](./406656-false-alarm.json) |
 | False Calamity | 211826 | [211826-false-calamity.json](./211826-false-calamity.json) |
+| False Dichotomy | 149824 | [149824-false-dichotomy.json](./149824-false-dichotomy.json) |
 | False Echo | 398306 | [398306-false-echo.json](./398306-false-echo.json) |
 | False Flag | 401805 | [401805-false-flag.json](./401805-false-flag.json) |
 | False Front | 97920 | [97920-false-front.json](./97920-false-front.json) |
@@ -2487,6 +2488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fate Is Not A Line | 335255 | [335255-fate-is-not-a-line.json](./335255-fate-is-not-a-line.json) |
 | Fate Machine | 377959 | [377959-fate-machine.json](./377959-fate-machine.json) |
 | Fate of Antara | 370457 | [370457-fate-of-antara.json](./370457-fate-of-antara.json) |
+| Fate of Dynasty | 149834 | [149834-fate-of-dynasty.json](./149834-fate-of-dynasty.json) |
 | Fate of Hellas | 21302 | [21302-fate-of-hellas.json](./21302-fate-of-hellas.json) |
 | Fate of India | 104324 | [104324-fate-of-india.json](./104324-fate-of-india.json) |
 | Fate of Kai | 139314 | [139314-fate-of-kai.json](./139314-fate-of-kai.json) |
@@ -4945,6 +4947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fish For Reel | 87185 | [87185-fish-for-reel.json](./87185-fish-for-reel.json) |
 | Fish Game | 269021 | [269021-fish-game.json](./269021-fish-game.json) |
 | Fish Game | 381020 | [381020-fish-game.json](./381020-fish-game.json) |
+| Fish Glutton | 149857 | [149857-fish-glutton.json](./149857-fish-glutton.json) |
 | Fish Go.io | 235058 | [235058-fish-go-io.json](./235058-fish-go-io.json) |
 | Fish Heads | 163902 | [163902-fish-heads.json](./163902-fish-heads.json) |
 | Fish Heroes | 237367 | [237367-fish-heroes.json](./237367-fish-heroes.json) |
@@ -8927,6 +8930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FreeCell X | 100993 | [100993-freecell-x.json](./100993-freecell-x.json) |
 | Freeciv | 73190 | [73190-freeciv.json](./73190-freeciv.json) |
 | FreeCraft Survival Pocket Edition | 338777 | [338777-freecraft-survival-pocket-edition.json](./338777-freecraft-survival-pocket-edition.json) |
+| Freed Soft | 149847 | [149847-freed-soft.json](./149847-freed-soft.json) |
 | Freed Software | 220024 | [220024-freed-software.json](./220024-freed-software.json) |
 | FreeDiver: Triton Down | 117797 | [117797-freediver-triton-down.json](./117797-freediver-triton-down.json) |
 | Freediving Hunter | 102691 | [102691-freediving-hunter.json](./102691-freediving-hunter.json) |
