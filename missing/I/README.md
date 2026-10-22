@@ -1885,6 +1885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Imitators | 418754 | [418754-imitators.json](./418754-imitators.json) |
 | Imitosis | 292454 | [292454-imitosis.json](./292454-imitosis.json) |
 | IMM Defense | 86769 | [86769-imm-defense.json](./86769-imm-defense.json) |
+| Immanence | 128213 | [128213-immanence.json](./128213-immanence.json) |
 | Immay | 253922 | [253922-immay.json](./253922-immay.json) |
 | Immediate | 322356 | [322356-immediate.json](./322356-immediate.json) |
 | Immeowtal Festival! | 234300 | [234300-immeowtal-festival.json](./234300-immeowtal-festival.json) |
@@ -3204,6 +3205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inget Knussel, Sa Emil I Lönneberga | 288115 | [288115-inget-knussel-sa-emil-i-lonneberga.json](./288115-inget-knussel-sa-emil-i-lonneberga.json) |
 | Inglorious | 275247 | [275247-inglorious.json](./275247-inglorious.json) |
 | Inglorious Aztecs | 151039 | [151039-inglorious-aztecs.json](./151039-inglorious-aztecs.json) |
+| Inglorious Pirate | 128212 | [128212-inglorious-pirate.json](./128212-inglorious-pirate.json) |
 | Inglorious Waifu VS Nazi Zombies | 156163 | [156163-inglorious-waifu-vs-nazi-zombies.json](./156163-inglorious-waifu-vs-nazi-zombies.json) |
 | Ingot Rush | 174220 | [174220-ingot-rush.json](./174220-ingot-rush.json) |
 | Ingredienta | 169809 | [169809-ingredienta.json](./169809-ingredienta.json) |
@@ -4083,6 +4085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Into the Evernight | 356798 | [356798-into-the-evernight.json](./356798-into-the-evernight.json) |
 | Into the Farlands | 226437 | [226437-into-the-farlands.json](./226437-into-the-farlands.json) |
 | Into the Fire | 322703 | [322703-into-the-fire.json](./322703-into-the-fire.json) |
+| Into the Flames | 128201 | [128201-into-the-flames.json](./128201-into-the-flames.json) |
 | Into the Flames: Retro Fire Gear 1 | 256560 | [256560-into-the-flames-retro-fire-gear-1.json](./256560-into-the-flames-retro-fire-gear-1.json) |
 | Into The Flames: Retro Truck Pack 1 | 255162 | [255162-into-the-flames-retro-truck-pack-1.json](./255162-into-the-flames-retro-truck-pack-1.json) |
 | Into The Flames: Spooky Pack | 285606 | [285606-into-the-flames-spooky-pack.json](./285606-into-the-flames-spooky-pack.json) |
