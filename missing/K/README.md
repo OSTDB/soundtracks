@@ -1777,6 +1777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kids Activity Centre Pro | 86708 | [86708-kids-activity-centre-pro.json](./86708-kids-activity-centre-pro.json) |
 | Kids Alphabet Games | 93819 | [93819-kids-alphabet-games.json](./93819-kids-alphabet-games.json) |
 | Kids Animal Slide Puzzle 15 Mystic squares game | 100315 | [100315-kids-animal-slide-puzzle-15-mystic-squares-game.json](./100315-kids-animal-slide-puzzle-15-mystic-squares-game.json) |
+| Kids Baseball Practice League | 103139 | [103139-kids-baseball-practice-league.json](./103139-kids-baseball-practice-league.json) |
 | Kids Box | 226783 | [226783-kids-box.json](./226783-kids-box.json) |
 | Kids Box | 280467 | [280467-kids-box.json](./280467-kids-box.json) |
 | Kids Cars | 213647 | [213647-kids-cars.json](./213647-kids-cars.json) |
@@ -4629,6 +4630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kula | 164992 | [164992-kula.json](./164992-kula.json) |
 | Kulebra and the Souls of Limbo | 204533 | [204533-kulebra-and-the-souls-of-limbo.json](./204533-kulebra-and-the-souls-of-limbo.json) |
 | Kulipari: United | 383198 | [383198-kulipari-united.json](./383198-kulipari-united.json) |
+| Kulla-Di-Bulla | 103111 | [103111-kulla-di-bulla.json](./103111-kulla-di-bulla.json) |
 | KuloNiku: Bowl Up! | 346735 | [346735-kuloniku-bowl-up.json](./346735-kuloniku-bowl-up.json) |
 | Kult of Ktulu: Olympic | 29629 | [29629-kult-of-ktulu-olympic.json](./29629-kult-of-ktulu-olympic.json) |
 | Kuma no Pooh-San: 100 Acre no Mori no Cooking Book | 130752 | [130752-kuma-no-pooh-san-100-acre-no-mori-no-cooking-book.json](./130752-kuma-no-pooh-san-100-acre-no-mori-no-cooking-book.json) |
