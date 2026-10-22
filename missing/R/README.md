@@ -928,6 +928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Railway | 210643 | [210643-railway.json](./210643-railway.json) |
 | Railway Chai Wala | 341313 | [341313-railway-chai-wala.json](./341313-railway-chai-wala.json) |
 | Railway Company Owner | 239658 | [239658-railway-company-owner.json](./239658-railway-company-owner.json) |
+| Railway Construction Simulator | 130024 | [130024-railway-construction-simulator.json](./130024-railway-construction-simulator.json) |
 | Railway Empire 2 | 215138 | [215138-railway-empire-2.json](./215138-railway-empire-2.json) |
 | Railway Empire 2: Bella Italia | 345429 | [345429-railway-empire-2-bella-italia.json](./345429-railway-empire-2-bella-italia.json) |
 | Railway Empire 2: Digital Deluxe Edition | 251012 | [251012-railway-empire-2-digital-deluxe-edition.json](./251012-railway-empire-2-digital-deluxe-edition.json) |
@@ -4059,6 +4060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Replicon | 312315 | [312315-replicon.json](./312315-replicon.json) |
 | Replicore | 298401 | [298401-replicore.json](./298401-replicore.json) |
 | Replics | 129765 | [129765-replics.json](./129765-replics.json) |
+| Replics 2: Forget the Moon | 130023 | [130023-replics-2-forget-the-moon.json](./130023-replics-2-forget-the-moon.json) |
 | Replics 3 - Behind the Light | 132075 | [132075-replics-3-behind-the-light.json](./132075-replics-3-behind-the-light.json) |
 | Replik Survivors | 266296 | [266296-replik-survivors.json](./266296-replik-survivors.json) |
 | Replika | 92274 | [92274-replika.json](./92274-replika.json) |
@@ -8370,6 +8372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Romeo & Juliet | 145667 | [145667-romeo-and-juliet.json](./145667-romeo-and-juliet.json) |
 | Romeo & Juliet | 52726 | [52726-romeo-and-juliet.json](./52726-romeo-and-juliet.json) |
 | Romeo Must Live | 144020 | [144020-romeo-must-live.json](./144020-romeo-must-live.json) |
+| Romeo VS Juliet | 129998 | [129998-romeo-vs-juliet.json](./129998-romeo-vs-juliet.json) |
 | Romeo vs. Juliet: All Series Pack | 59447 | [59447-romeo-vs-juliet-all-series-pack.json](./59447-romeo-vs-juliet-all-series-pack.json) |
 | Romeow & Julicat | 141109 | [141109-romeow-and-julicat.json](./141109-romeow-and-julicat.json) |
 | Romeow: Home Sweet Home | 390060 | [390060-romeow-home-sweet-home.json](./390060-romeow-home-sweet-home.json) |
