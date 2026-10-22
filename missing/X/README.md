@@ -386,6 +386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | XA: Contra Los Cuatreros Galácticos | 159012 | [159012-xa-contra-los-cuatreros-galacticos.json](./159012-xa-contra-los-cuatreros-galacticos.json) |
 | Xadom | 294729 | [294729-xadom.json](./294729-xadom.json) |
 | Xagia Wars | 75933 | [75933-xagia-wars.json](./75933-xagia-wars.json) |
+| Xagonia Colony | 149326 | [149326-xagonia-colony.json](./149326-xagonia-colony.json) |
 | Xain'd Sleena: Soldier of Light | 12854 | [12854-xaind-sleena-soldier-of-light.json](./12854-xaind-sleena-soldier-of-light.json) |
 | XAirports | 103931 | [103931-xairports.json](./103931-xairports.json) |
 | Xak I + II | 42006 | [42006-xak-i-ii.json](./42006-xak-i-ii.json) |
@@ -582,6 +583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | XenoTrigger | 183336 | [183336-xenotrigger.json](./183336-xenotrigger.json) |
 | Xenotype | 156966 | [156966-xenotype.json](./156966-xenotype.json) |
 | XenovaderS | 133355 | [133355-xenovaders.json](./133355-xenovaders.json) |
+| Xenoverse: Per Aspera Ad Astra | 141703 | [141703-xenoverse-per-aspera-ad-astra.json](./141703-xenoverse-per-aspera-ad-astra.json) |
 | Xenowar | 70390 | [70390-xenowar.json](./70390-xenowar.json) |
 | XenoWorld: The Rondeau of Astra | 236951 | [236951-xenoworld-the-rondeau-of-astra.json](./236951-xenoworld-the-rondeau-of-astra.json) |
 | Xenrai | 122960 | [122960-xenrai.json](./122960-xenrai.json) |
