@@ -554,6 +554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dance Dance Revolution 2ndMix | 77640 | [77640-dance-dance-revolution-2ndmix.json](./77640-dance-dance-revolution-2ndmix.json) |
 | Dance Dance Revolution 2ndReMix: Append Club Version Vol. 1 | 132807 | [132807-dance-dance-revolution-2ndremix-append-club-version-vol-1.json](./132807-dance-dance-revolution-2ndremix-append-club-version-vol-1.json) |
 | Dance Dance Revolution A | 58120 | [58120-dance-dance-revolution-a.json](./58120-dance-dance-revolution-a.json) |
+| Dance Dance Revolution A20 | 124446 | [124446-dance-dance-revolution-a20.json](./124446-dance-dance-revolution-a20.json) |
 | Dance Dance Revolution A20 Plus | 135550 | [135550-dance-dance-revolution-a20-plus.json](./135550-dance-dance-revolution-a20-plus.json) |
 | Dance Dance Revolution Best Hits | 132809 | [132809-dance-dance-revolution-best-hits.json](./132809-dance-dance-revolution-best-hits.json) |
 | Dance Dance Revolution Dance Wars | 3681 | [3681-dance-dance-revolution-dance-wars.json](./3681-dance-dance-revolution-dance-wars.json) |
