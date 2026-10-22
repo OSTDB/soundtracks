@@ -6100,6 +6100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sheeplings | 203522 | [203522-sheeplings.json](./203522-sheeplings.json) |
 | Sheeplings | 25508 | [25508-sheeplings.json](./25508-sheeplings.json) |
 | Sheeps | 391303 | [391303-sheeps.json](./391303-sheeps.json) |
+| Sheepwith | 114726 | [114726-sheepwith.json](./114726-sheepwith.json) |
 | Sheer Poison | 142884 | [142884-sheer-poison.json](./142884-sheer-poison.json) |
 | Sheesh Adventures | 58492 | [58492-sheesh-adventures.json](./58492-sheesh-adventures.json) |
 | Shei Toule Wo de Nu Pengyou | 322344 | [322344-shei-toule-wo-de-nu-pengyou.json](./322344-shei-toule-wo-de-nu-pengyou.json) |
@@ -9213,6 +9214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SJS1: Streets Of Fear | 310645 | [310645-sjs1-streets-of-fear.json](./310645-sjs1-streets-of-fear.json) |
 | SJS2: Outpost | 310646 | [310646-sjs2-outpost.json](./310646-sjs2-outpost.json) |
 | Sk8 | 75918 | [75918-sk8.json](./75918-sk8.json) |
+| Skábma: Snowfall | 114724 | [114724-skabma-snowfall.json](./114724-skabma-snowfall.json) |
 | Skade | 258975 | [258975-skade.json](./258975-skade.json) |
 | Skader | 224626 | [224626-skader.json](./224626-skader.json) |
 | Skadonk Showdown | 74718 | [74718-skadonk-showdown.json](./74718-skadonk-showdown.json) |
@@ -11034,6 +11036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smart Girl's: Playhouse II | 208864 | [208864-smart-girls-playhouse-ii.json](./208864-smart-girls-playhouse-ii.json) |
 | Smart Girl's: Winter Wonderland | 124049 | [124049-smart-girls-winter-wonderland.json](./124049-smart-girls-winter-wonderland.json) |
 | Smart Junior Academy - Spring | 76936 | [76936-smart-junior-academy-spring.json](./76936-smart-junior-academy-spring.json) |
+| Smart Kat | 114701 | [114701-smart-kat.json](./114701-smart-kat.json) |
 | Smart Kid's: Gameclub | 124050 | [124050-smart-kids-gameclub.json](./124050-smart-kids-gameclub.json) |
 | Smart Kid's: Party Fun Pack | 124059 | [124059-smart-kids-party-fun-pack.json](./124059-smart-kids-party-fun-pack.json) |
 | Smart Moves 2 | 149913 | [149913-smart-moves-2.json](./149913-smart-moves-2.json) |
@@ -11705,6 +11708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snepzhen Solitaire | 339682 | [339682-snepzhen-solitaire.json](./339682-snepzhen-solitaire.json) |
 | Snezhinka: Sentinel Girls 2 | 284892 | [284892-snezhinka-sentinel-girls-2.json](./284892-snezhinka-sentinel-girls-2.json) |
 | Snezhnaja Koroleva | 197956 | [197956-snezhnaja-koroleva.json](./197956-snezhnaja-koroleva.json) |
+| Sniffers | 114709 | [114709-sniffers.json](./114709-sniffers.json) |
 | Snik | 34795 | [34795-snik.json](./34795-snik.json) |
 | Sniks | 121518 | [121518-sniks.json](./121518-sniks.json) |
 | Snip It! | 292247 | [292247-snip-it.json](./292247-snip-it.json) |
@@ -18913,6 +18917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Tank | 169457 | [169457-star-tank.json](./169457-star-tank.json) |
 | Star Tap | 54540 | [54540-star-tap.json](./54540-star-tap.json) |
 | Star Thief | 110928 | [110928-star-thief.json](./110928-star-thief.json) |
+| Star Thunder | 114703 | [114703-star-thunder.json](./114703-star-thunder.json) |
 | Star Tower | 373537 | [373537-star-tower.json](./373537-star-tower.json) |
 | Star Tracer | 357305 | [357305-star-tracer.json](./357305-star-tracer.json) |
 | Star Trader | 212135 | [212135-star-trader.json](./212135-star-trader.json) |
