@@ -1248,6 +1248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Girl | 417984 | [417984-zombie-girl.json](./417984-zombie-girl.json) |
 | Zombie Go | 117031 | [117031-zombie-go.json](./117031-zombie-go.json) |
 | Zombie God | 386994 | [386994-zombie-god.json](./386994-zombie-god.json) |
+| Zombie Golf | 121983 | [121983-zombie-golf.json](./121983-zombie-golf.json) |
 | Zombie Gorge: Survival Defense | 385064 | [385064-zombie-gorge-survival-defense.json](./385064-zombie-gorge-survival-defense.json) |
 | Zombie Graveyard Simulator | 333007 | [333007-zombie-graveyard-simulator.json](./333007-zombie-graveyard-simulator.json) |
 | Zombie Groove | 148861 | [148861-zombie-groove.json](./148861-zombie-groove.json) |
