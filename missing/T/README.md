@@ -7097,6 +7097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Falconeer: Day One Edition | 139938 | [139938-the-falconeer-day-one-edition.json](./139938-the-falconeer-day-one-edition.json) |
 | The Falconeer: Edge of the World | 162852 | [162852-the-falconeer-edge-of-the-world.json](./162852-the-falconeer-edge-of-the-world.json) |
 | The Falconeer: Revolution Remaster | 121709 | [121709-the-falconeer-revolution-remaster.json](./121709-the-falconeer-revolution-remaster.json) |
+| The Falconeer: The Hunter | 148243 | [148243-the-falconeer-the-hunter.json](./148243-the-falconeer-the-hunter.json) |
 | The Falconeer: Warrior Edition | 148040 | [148040-the-falconeer-warrior-edition.json](./148040-the-falconeer-warrior-edition.json) |
 | The Falconers: Moonlight | 29528 | [29528-the-falconers-moonlight.json](./29528-the-falconers-moonlight.json) |
 | The Fall | 335280 | [335280-the-fall.json](./335280-the-fall.json) |
@@ -8925,6 +8926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Key to Home | 75948 | [75948-the-key-to-home.json](./75948-the-key-to-home.json) |
 | The Keyboard | 264029 | [264029-the-keyboard.json](./264029-the-keyboard.json) |
 | The Kharzov Effect | 322134 | [322134-the-kharzov-effect.json](./322134-the-kharzov-effect.json) |
+| The Kids We Were | 148238 | [148238-the-kids-we-were.json](./148238-the-kids-we-were.json) |
 | The Kill Zone | 235827 | [235827-the-kill-zone.json](./235827-the-kill-zone.json) |
 | The Killbox: Arena Combat | 74293 | [74293-the-killbox-arena-combat.json](./74293-the-killbox-arena-combat.json) |
 | The Killbox: Arena Combat US | 86976 | [86976-the-killbox-arena-combat-us.json](./86976-the-killbox-arena-combat-us.json) |
@@ -21545,6 +21547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tracky Train | 58241 | [58241-tracky-train.json](./58241-tracky-train.json) |
 | Tracon!2012:SE | 86735 | [86735-tracon-2012-se.json](./86735-tracon-2012-se.json) |
 | Tractage aux Portes 2: Mob a la Cafeteria | 120979 | [120979-tractage-aux-portes-2-mob-a-la-cafeteria.json](./120979-tractage-aux-portes-2-mob-a-la-cafeteria.json) |
+| Traction Control | 148236 | [148236-traction-control.json](./148236-traction-control.json) |
 | Tractor Cargo Driving Simulator | 393955 | [393955-tractor-cargo-driving-simulator.json](./393955-tractor-cargo-driving-simulator.json) |
 | Tractor Farmer | 86710 | [86710-tractor-farmer.json](./86710-tractor-farmer.json) |
 | Tractor Farming Simulator 3D | 300844 | [300844-tractor-farming-simulator-3d.json](./300844-tractor-farming-simulator-3d.json) |
@@ -23313,6 +23316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trap Roller | 397188 | [397188-trap-roller.json](./397188-trap-roller.json) |
 | Trap Shooting | 245299 | [245299-trap-shooting.json](./245299-trap-shooting.json) |
 | Trap Shrine | 115520 | [115520-trap-shrine.json](./115520-trap-shrine.json) |
+| Trap Tag | 148264 | [148264-trap-tag.json](./148264-trap-tag.json) |
 | Trap Them | 35098 | [35098-trap-them.json](./35098-trap-them.json) |
 | Trap Them: Sniper Edition | 34336 | [34336-trap-them-sniper-edition.json](./34336-trap-them-sniper-edition.json) |
 | Trap Tower Trials | 298137 | [298137-trap-tower-trials.json](./298137-trap-tower-trials.json) |
@@ -24001,6 +24005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trickster | 57935 | [57935-trickster.json](./57935-trickster.json) |
 | Trickster Cards: Euchre | 334065 | [334065-trickster-cards-euchre.json](./334065-trickster-cards-euchre.json) |
 | Trickster Chaos | 280247 | [280247-trickster-chaos.json](./280247-trickster-chaos.json) |
+| Trickster M | 148237 | [148237-trickster-m.json](./148237-trickster-m.json) |
 | Trickster Online | 79551 | [79551-trickster-online.json](./79551-trickster-online.json) |
 | Trickster Trove | 314642 | [314642-trickster-trove.json](./314642-trickster-trove.json) |
 | Trickster VR | 31766 | [31766-trickster-vr.json](./31766-trickster-vr.json) |
