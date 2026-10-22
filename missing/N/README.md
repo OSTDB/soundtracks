@@ -107,6 +107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nailed It! Baking Bash | 204457 | [204457-nailed-it-baking-bash.json](./204457-nailed-it-baking-bash.json) |
 | Naima's Melody | 122407 | [122407-naimas-melody.json](./122407-naimas-melody.json) |
 | Nainai no Meitantei | 387117 | [387117-nainai-no-meitantei.json](./387117-nainai-no-meitantei.json) |
+| Nainai's Recipe | 152085 | [152085-nainais-recipe.json](./152085-nainais-recipe.json) |
 | Naious | 213623 | [213623-naious.json](./213623-naious.json) |
 | Nair Pico | 364265 | [364265-nair-pico.json](./364265-nair-pico.json) |
 | Nairo High School: Seishun Hakusho | 52609 | [52609-nairo-high-school-seishun-hakusho.json](./52609-nairo-high-school-seishun-hakusho.json) |
@@ -667,6 +668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nasty | 94149 | [94149-nasty.json](./94149-nasty.json) |
 | Nasty Bottle | 232283 | [232283-nasty-bottle.json](./232283-nasty-bottle.json) |
 | Nasty Goats | 204725 | [204725-nasty-goats.json](./204725-nasty-goats.json) |
+| Nasty Little Man | 152100 | [152100-nasty-little-man.json](./152100-nasty-little-man.json) |
 | Nasty Neighbors: No Country for Curmudgeon | 250519 | [250519-nasty-neighbors-no-country-for-curmudgeon.json](./250519-nasty-neighbors-no-country-for-curmudgeon.json) |
 | Nasty Rogue 2 | 264695 | [264695-nasty-rogue-2.json](./264695-nasty-rogue-2.json) |
 | Nasway | 37434 | [37434-nasway.json](./37434-nasway.json) |
@@ -3816,6 +3818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nimby Rails | 132749 | [132749-nimby-rails.json](./132749-nimby-rails.json) |
 | Nimian Legends: BrightRidge | 89183 | [89183-nimian-legends-brightridge.json](./89183-nimian-legends-brightridge.json) |
 | Nimillion: The Last Expedition | 296478 | [296478-nimillion-the-last-expedition.json](./296478-nimillion-the-last-expedition.json) |
+| Nimoyd | 152104 | [152104-nimoyd.json](./152104-nimoyd.json) |
 | Nimpize Adventure | 135170 | [135170-nimpize-adventure.json](./135170-nimpize-adventure.json) |
 | Nimrods | 249914 | [249914-nimrods.json](./249914-nimrods.json) |
 | Nin Online | 96688 | [96688-nin-online.json](./96688-nin-online.json) |
