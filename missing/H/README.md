@@ -2551,6 +2551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heart of China | 12139 | [12139-heart-of-china.json](./12139-heart-of-china.json) |
 | Heart of Crown Online | 217292 | [217292-heart-of-crown-online.json](./217292-heart-of-crown-online.json) |
 | Heart of Darkness | 6433 | [6433-heart-of-darkness.json](./6433-heart-of-darkness.json) |
+| Heart of Dixie | 101302 | [101302-heart-of-dixie.json](./101302-heart-of-dixie.json) |
 | Heart of Enya | 149479 | [149479-heart-of-enya.json](./149479-heart-of-enya.json) |
 | Heart of Evil | 165441 | [165441-heart-of-evil.json](./165441-heart-of-evil.json) |
 | Heart of Evil: Napalm Edition | 221654 | [221654-heart-of-evil-napalm-edition.json](./221654-heart-of-evil-napalm-edition.json) |
