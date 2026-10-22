@@ -8489,6 +8489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Any World | 192794 | [192794-any-world.json](./192794-any-world.json) |
 | Any.One Online | 209772 | [209772-any-one-online.json](./209772-any-one-online.json) |
 | AnyCircuit | 385289 | [385289-anycircuit.json](./385289-anycircuit.json) |
+| Anyek | 154313 | [154313-anyek.json](./154313-anyek.json) |
 | Anykey | 89671 | [89671-anykey.json](./89671-anykey.json) |
 | Anykey Simulator | 31787 | [31787-anykey-simulator.json](./31787-anykey-simulator.json) |
 | Anyland | 31966 | [31966-anyland.json](./31966-anyland.json) |
