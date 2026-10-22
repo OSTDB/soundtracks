@@ -4062,9 +4062,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantasy Star Online 2: Cloud | 67201 | [67201-phantasy-star-online-2-cloud.json](./67201-phantasy-star-online-2-cloud.json) |
 | Phantasy Star Online 2: Episode 6 - Deluxe Package | 136922 | [136922-phantasy-star-online-2-episode-6-deluxe-package.json](./136922-phantasy-star-online-2-episode-6-deluxe-package.json) |
 | Phantasy Star Online 2: Episode 6 - Deluxe Package Limited Edition | 136795 | [136795-phantasy-star-online-2-episode-6-deluxe-package-limited-edition.json](./136795-phantasy-star-online-2-episode-6-deluxe-package-limited-edition.json) |
+| Phantasy Star Online 2: Episode2 Code | 136103 | [136103-phantasy-star-online-2-episode2-code.json](./136103-phantasy-star-online-2-episode2-code.json) |
+| Phantasy Star Online 2: Episode3 Mission | 136104 | [136104-phantasy-star-online-2-episode3-mission.json](./136104-phantasy-star-online-2-episode3-mission.json) |
+| Phantasy Star Online 2: Episode4 Reborn | 136105 | [136105-phantasy-star-online-2-episode4-reborn.json](./136105-phantasy-star-online-2-episode4-reborn.json) |
+| Phantasy Star Online 2: Episode5 Heroes | 136106 | [136106-phantasy-star-online-2-episode5-heroes.json](./136106-phantasy-star-online-2-episode5-heroes.json) |
+| Phantasy Star Online 2: Episode6 Stars | 136107 | [136107-phantasy-star-online-2-episode6-stars.json](./136107-phantasy-star-online-2-episode6-stars.json) |
 | Phantasy Star Online 2: Helga Pack | 225867 | [225867-phantasy-star-online-2-helga-pack.json](./225867-phantasy-star-online-2-helga-pack.json) |
 | Phantasy Star Online 2: Howzer Pack | 225863 | [225863-phantasy-star-online-2-howzer-pack.json](./225863-phantasy-star-online-2-howzer-pack.json) |
+| Phantasy Star Online 2: Ragol Fashion Pack 3rd | 136101 | [136101-phantasy-star-online-2-ragol-fashion-pack-3rd.json](./136101-phantasy-star-online-2-ragol-fashion-pack-3rd.json) |
 | Phantasy Star Online 2: Sonic Collaboration Edition | 132156 | [132156-phantasy-star-online-2-sonic-collaboration-edition.json](./132156-phantasy-star-online-2-sonic-collaboration-edition.json) |
+| Phantasy Star Online 2: Sonic Collaboration Pack | 136099 | [136099-phantasy-star-online-2-sonic-collaboration-pack.json](./136099-phantasy-star-online-2-sonic-collaboration-pack.json) |
 | Phantasy Star Online 2: Tails Collaboration Pack | 143580 | [143580-phantasy-star-online-2-tails-collaboration-pack.json](./143580-phantasy-star-online-2-tails-collaboration-pack.json) |
 | Phantasy Star Online 2: Vivienne Pack | 225862 | [225862-phantasy-star-online-2-vivienne-pack.json](./225862-phantasy-star-online-2-vivienne-pack.json) |
 | Phantasy Star Online Episode I & II | 9890 | [9890-phantasy-star-online-episode-i-and-ii.json](./9890-phantasy-star-online-episode-i-and-ii.json) |
@@ -10847,6 +10854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Premier Manager 2004-2005 | 248630 | [248630-premier-manager-2004-2005.json](./248630-premier-manager-2004-2005.json) |
 | Premier Manager 2004-2005 | 49355 | [49355-premier-manager-2004-2005.json](./49355-premier-manager-2004-2005.json) |
 | Premier Manager 2005-2006 | 49354 | [49354-premier-manager-2005-2006.json](./49354-premier-manager-2005-2006.json) |
+| Premier Manager 2006-07 | 136304 | [136304-premier-manager-2006-07.json](./136304-premier-manager-2006-07.json) |
 | Premier Manager 2010 | 91301 | [91301-premier-manager-2010.json](./91301-premier-manager-2010.json) |
 | Premier Manager 2012 | 65430 | [65430-premier-manager-2012.json](./65430-premier-manager-2012.json) |
 | Premier Manager 3 | 14426 | [14426-premier-manager-3.json](./14426-premier-manager-3.json) |
