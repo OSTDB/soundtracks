@@ -3162,6 +3162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea of Lies: Mutiny of the Heart - Collector's Edition | 30678 | [30678-sea-of-lies-mutiny-of-the-heart-collectors-edition.json](./30678-sea-of-lies-mutiny-of-the-heart-collectors-edition.json) |
 | Sea of Lies: Nemesis | 139730 | [139730-sea-of-lies-nemesis.json](./139730-sea-of-lies-nemesis.json) |
 | Sea of Lies: Nemesis - Collector's Edition | 22081 | [22081-sea-of-lies-nemesis-collectors-edition.json](./22081-sea-of-lies-nemesis-collectors-edition.json) |
+| Sea of Lies: Tide of Treachery | 103130 | [103130-sea-of-lies-tide-of-treachery.json](./103130-sea-of-lies-tide-of-treachery.json) |
 | Sea of Lies: Tide of Treachery - Collector's Edition | 102942 | [102942-sea-of-lies-tide-of-treachery-collectors-edition.json](./102942-sea-of-lies-tide-of-treachery-collectors-edition.json) |
 | Sea of Memories | 102381 | [102381-sea-of-memories.json](./102381-sea-of-memories.json) |
 | Sea of Mirrors | 384308 | [384308-sea-of-mirrors.json](./384308-sea-of-mirrors.json) |
@@ -7076,6 +7077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shoot Star | 302221 | [302221-shoot-star.json](./302221-shoot-star.json) |
 | Shoot the Aliens | 330846 | [330846-shoot-the-aliens.json](./330846-shoot-the-aliens.json) |
 | Shoot the Apple 2018 | 95842 | [95842-shoot-the-apple-2018.json](./95842-shoot-the-apple-2018.json) |
+| Shoot the Apple Clown | 103102 | [103102-shoot-the-apple-clown.json](./103102-shoot-the-apple-clown.json) |
 | Shoot the Ball | 84872 | [84872-shoot-the-ball.json](./84872-shoot-the-ball.json) |
 | Shoot The Barrel | 290928 | [290928-shoot-the-barrel.json](./290928-shoot-the-barrel.json) |
 | Shoot The Barrels | 393661 | [393661-shoot-the-barrels.json](./393661-shoot-the-barrels.json) |
@@ -14935,6 +14937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Beam | 277882 | [277882-space-beam.json](./277882-space-beam.json) |
 | Space Bear | 128946 | [128946-space-bear.json](./128946-space-bear.json) |
 | Space Beastz | 195078 | [195078-space-beastz.json](./195078-space-beastz.json) |
+| Space Bejewel | 103114 | [103114-space-bejewel.json](./103114-space-bejewel.json) |
 | Space Beret | 30794 | [30794-space-beret.json](./30794-space-beret.json) |
 | Space Berserker | 82929 | [82929-space-berserker.json](./82929-space-berserker.json) |
 | Space Betrayers | 188068 | [188068-space-betrayers.json](./188068-space-betrayers.json) |
@@ -22009,6 +22012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Heroes | 107814 | [107814-street-heroes.json](./107814-street-heroes.json) |
 | Street Heroes | 48567 | [48567-street-heroes.json](./48567-street-heroes.json) |
 | Street Hoop | 46820 | [46820-street-hoop.json](./46820-street-hoop.json) |
+| Street Hoop: Basketball Playoffs 2018 | 103108 | [103108-street-hoop-basketball-playoffs-2018.json](./103108-street-hoop-basketball-playoffs-2018.json) |
 | Street Hoops | 242807 | [242807-street-hoops.json](./242807-street-hoops.json) |
 | Street Jam Basketball | 49219 | [49219-street-jam-basketball.json](./49219-street-jam-basketball.json) |
 | Street Karate | 104026 | [104026-street-karate.json](./104026-street-karate.json) |
