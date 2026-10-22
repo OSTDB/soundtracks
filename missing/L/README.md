@@ -1153,6 +1153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Signal | 395151 | [395151-last-signal.json](./395151-last-signal.json) |
 | Last Sinner | 187164 | [187164-last-sinner.json](./187164-last-sinner.json) |
 | Last Soldier | 52270 | [52270-last-soldier.json](./52270-last-soldier.json) |
+| Last Soul | 142925 | [142925-last-soul.json](./142925-last-soul.json) |
 | Last Soul | 343776 | [343776-last-soul.json](./343776-last-soul.json) |
 | Last Souls | 195971 | [195971-last-souls.json](./195971-last-souls.json) |
 | Last Spirit PBT | 326250 | [326250-last-spirit-pbt.json](./326250-last-spirit-pbt.json) |
@@ -5473,6 +5474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lola's Lutong Bahay | 327154 | [327154-lolas-lutong-bahay.json](./327154-lolas-lutong-bahay.json) |
 | Lola's World of Wonders | 137525 | [137525-lolas-world-of-wonders.json](./137525-lolas-world-of-wonders.json) |
 | Lolagame | 320294 | [320294-lolagame.json](./320294-lolagame.json) |
+| LOLBeans.io | 142931 | [142931-lolbeans-io.json](./142931-lolbeans-io.json) |
 | LOLCat Escape | 338932 | [338932-lolcat-escape.json](./338932-lolcat-escape.json) |
 | LoLdle | 327637 | [327637-loldle.json](./327637-loldle.json) |
 | Loli Racing | 292291 | [292291-loli-racing.json](./292291-loli-racing.json) |
