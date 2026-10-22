@@ -5910,6 +5910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | High Stakes on the Vegas Strip: Poker Edition | 52236 | [52236-high-stakes-on-the-vegas-strip-poker-edition.json](./52236-high-stakes-on-the-vegas-strip-poker-edition.json) |
 | High Stakes: Texas Hold'Em | 67219 | [67219-high-stakes-texas-holdem.json](./67219-high-stakes-texas-holdem.json) |
 | High Strategy: Urukon | 132585 | [132585-high-strategy-urukon.json](./132585-high-strategy-urukon.json) |
+| High Tail Hall | 130045 | [130045-high-tail-hall.json](./130045-high-tail-hall.json) |
 | High Up | 309440 | [309440-high-up.json](./309440-high-up.json) |
 | High Velocity Arena | 251988 | [251988-high-velocity-arena.json](./251988-high-velocity-arena.json) |
 | High Velocity: Mountain Racing Challenge | 45519 | [45519-high-velocity-mountain-racing-challenge.json](./45519-high-velocity-mountain-racing-challenge.json) |
