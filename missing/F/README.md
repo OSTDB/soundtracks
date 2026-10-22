@@ -6002,6 +6002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fleshinsane | 336863 | [336863-fleshinsane.json](./336863-fleshinsane.json) |
 | Fleshport | 173261 | [173261-fleshport.json](./173261-fleshport.json) |
 | FleurBirdShoot | 192931 | [192931-fleurbirdshoot.json](./192931-fleurbirdshoot.json) |
+| Flewberry | 108747 | [108747-flewberry.json](./108747-flewberry.json) |
 | Flewfies Adventure | 148814 | [148814-flewfies-adventure.json](./148814-flewfies-adventure.json) |
 | Flewn | 18087 | [18087-flewn.json](./18087-flewn.json) |
 | Flex | 61727 | [61727-flex.json](./61727-flex.json) |
