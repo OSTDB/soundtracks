@@ -11203,6 +11203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Primal Man Simulator | 149560 | [149560-primal-man-simulator.json](./149560-primal-man-simulator.json) |
 | Primal Omen | 216950 | [216950-primal-omen.json](./216950-primal-omen.json) |
 | Primal Planet | 243924 | [243924-primal-planet.json](./243924-primal-planet.json) |
+| Primal Pursuit | 105018 | [105018-primal-pursuit.json](./105018-primal-pursuit.json) |
 | Primal Rage | 199013 | [199013-primal-rage.json](./199013-primal-rage.json) |
 | Primal Rage | 217721 | [217721-primal-rage.json](./217721-primal-rage.json) |
 | Primal Rage | 259731 | [259731-primal-rage.json](./259731-primal-rage.json) |
@@ -12528,6 +12529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Null | 239798 | [239798-project-null.json](./239798-project-null.json) |
 | Project Nyx | 163816 | [163816-project-nyx.json](./163816-project-nyx.json) |
 | Project Oasis | 123875 | [123875-project-oasis.json](./123875-project-oasis.json) |
+| Project Oasis World | 105063 | [105063-project-oasis-world.json](./105063-project-oasis-world.json) |
 | Project Obscure | 374370 | [374370-project-obscure.json](./374370-project-obscure.json) |
 | Project Octavia | 361271 | [361271-project-octavia.json](./361271-project-octavia.json) |
 | Project of the Gods | 156118 | [156118-project-of-the-gods.json](./156118-project-of-the-gods.json) |
@@ -13156,6 +13158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psicosis | 328938 | [328938-psicosis.json](./328938-psicosis.json) |
 | Psikodelya | 116241 | [116241-psikodelya.json](./116241-psikodelya.json) |
 | Psikodelya: The Mansion of Madness | 170895 | [170895-psikodelya-the-mansion-of-madness.json](./170895-psikodelya-the-mansion-of-madness.json) |
+| Psikyo Collection Vol. 1 | 105048 | [105048-psikyo-collection-vol-1.json](./105048-psikyo-collection-vol-1.json) |
 | Psikyo Collection Vol. 2 | 112290 | [112290-psikyo-collection-vol-2.json](./112290-psikyo-collection-vol-2.json) |
 | Psikyo Shooting Collection Vol. 2: Sengoku Ace + Sengoku Blade | 61496 | [61496-psikyo-shooting-collection-vol-2-sengoku-ace-sengoku-blade.json](./61496-psikyo-shooting-collection-vol-2-sengoku-ace-sengoku-blade.json) |
 | Psikyo Shooting Collection Vol. 3: Sol Divide & Dragon Blaze | 70314 | [70314-psikyo-shooting-collection-vol-3-sol-divide-and-dragon-blaze.json](./70314-psikyo-shooting-collection-vol-3-sol-divide-and-dragon-blaze.json) |
