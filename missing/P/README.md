@@ -2297,6 +2297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Path of the Warrior | 127351 | [127351-path-of-the-warrior.json](./127351-path-of-the-warrior.json) |
 | Path of the Zenith Master | 372016 | [372016-path-of-the-zenith-master.json](./372016-path-of-the-zenith-master.json) |
 | Path of Titans | 122927 | [122927-path-of-titans.json](./122927-path-of-titans.json) |
+| Path of Vidya | 154915 | [154915-path-of-vidya.json](./154915-path-of-vidya.json) |
 | Path of War | 31783 | [31783-path-of-war.json](./31783-path-of-war.json) |
 | Path of Wuxia | 138747 | [138747-path-of-wuxia.json](./138747-path-of-wuxia.json) |
 | Path Out | 74116 | [74116-path-out.json](./74116-path-out.json) |
@@ -5551,6 +5552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ping Pong Clásico en 2DD | 316341 | [316341-ping-pong-clasico-en-2dd.json](./316341-ping-pong-clasico-en-2dd.json) |
 | Ping Pong Cup | 247065 | [247065-ping-pong-cup.json](./247065-ping-pong-cup.json) |
 | Ping Pong Deluxe | 261132 | [261132-ping-pong-deluxe.json](./261132-ping-pong-deluxe.json) |
+| Ping Pong Fury | 154864 | [154864-ping-pong-fury.json](./154864-ping-pong-fury.json) |
 | Ping Pong League | 32252 | [32252-ping-pong-league.json](./32252-ping-pong-league.json) |
 | Ping Pong Master | 108225 | [108225-ping-pong-master.json](./108225-ping-pong-master.json) |
 | Ping Pong Masters '93 | 65412 | [65412-ping-pong-masters-93.json](./65412-ping-pong-masters-93.json) |
@@ -12096,6 +12098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project CPW | 216083 | [216083-project-cpw.json](./216083-project-cpw.json) |
 | Project Cradle | 286081 | [286081-project-cradle.json](./286081-project-cradle.json) |
 | Project Crimson | 166735 | [166735-project-crimson.json](./166735-project-crimson.json) |
+| Project Crucible | 154865 | [154865-project-crucible.json](./154865-project-crucible.json) |
 | Project Crypt | 201131 | [201131-project-crypt.json](./201131-project-crypt.json) |
 | Project Cube | 305920 | [305920-project-cube.json](./305920-project-cube.json) |
 | Project Cybertronic | 120676 | [120676-project-cybertronic.json](./120676-project-cybertronic.json) |
