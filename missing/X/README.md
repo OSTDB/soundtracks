@@ -797,6 +797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | XSpelunker | 360106 | [360106-xspelunker.json](./360106-xspelunker.json) |
 | Xsyon: Prelude | 17342 | [17342-xsyon-prelude.json](./17342-xsyon-prelude.json) |
 | Xterium: War of Alliances | 195922 | [195922-xterium-war-of-alliances.json](./195922-xterium-war-of-alliances.json) |
+| XThrust | 130046 | [130046-xthrust.json](./130046-xthrust.json) |
 | Xtodie | 62991 | [62991-xtodie.json](./62991-xtodie.json) |
 | Xtom 3D | 45978 | [45978-xtom-3d.json](./45978-xtom-3d.json) |
 | Xtract | 277966 | [277966-xtract.json](./277966-xtract.json) |
