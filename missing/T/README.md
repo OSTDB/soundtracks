@@ -13170,6 +13170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sixth Prison | 184077 | [184077-the-sixth-prison.json](./184077-the-sixth-prison.json) |
 | The Sixth Station | 179445 | [179445-the-sixth-station.json](./179445-the-sixth-station.json) |
 | The Skeld | 182824 | [182824-the-skeld.json](./182824-the-skeld.json) |
+| The Skeleton | 103839 | [103839-the-skeleton.json](./103839-the-skeleton.json) |
 | The Skies | 26859 | [26859-the-skies.json](./26859-the-skies.json) |
 | The Skies: Reborn | 149710 | [149710-the-skies-reborn.json](./149710-the-skies-reborn.json) |
 | The Skin Game at Bighorn | 85981 | [85981-the-skin-game-at-bighorn.json](./85981-the-skin-game-at-bighorn.json) |
@@ -16250,6 +16251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thunderbolt II | 71562 | [71562-thunderbolt-ii.json](./71562-thunderbolt-ii.json) |
 | Thunderbolt Poker | 227875 | [227875-thunderbolt-poker.json](./227875-thunderbolt-poker.json) |
 | Thunderbolts and Lightning! | 277954 | [277954-thunderbolts-and-lightning.json](./277954-thunderbolts-and-lightning.json) |
+| Thunderbowl | 103804 | [103804-thunderbowl.json](./103804-thunderbowl.json) |
 | Thundercade | 323042 | [323042-thundercade.json](./323042-thundercade.json) |
 | ThunderCats | 23680 | [23680-thundercats.json](./23680-thundercats.json) |
 | ThunderCats | 37274 | [37274-thundercats.json](./37274-thundercats.json) |
@@ -25810,6 +25812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turtle: Voidrunner | 74355 | [74355-turtle-voidrunner.json](./74355-turtle-voidrunner.json) |
 | Turtles | 23686 | [23686-turtles.json](./23686-turtles.json) |
 | Turtles | 346135 | [346135-turtles.json](./346135-turtles.json) |
+| Turtles vs Zombies | 103841 | [103841-turtles-vs-zombies.json](./103841-turtles-vs-zombies.json) |
 | Turtles, Huh?: Learn to Fly | 253270 | [253270-turtles-huh-learn-to-fly.json](./253270-turtles-huh-learn-to-fly.json) |
 | Turtles! | 194455 | [194455-turtles.json](./194455-turtles.json) |
 | TurtleSkate | 398572 | [398572-turtleskate.json](./398572-turtleskate.json) |
