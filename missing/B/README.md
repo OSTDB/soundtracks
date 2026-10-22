@@ -7726,6 +7726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bleach DS 4th: Flame Bringer | 47832 | [47832-bleach-ds-4th-flame-bringer.json](./47832-bleach-ds-4th-flame-bringer.json) |
 | Bleach GC: Tasogare ni Mamieru Shinigami | 3820 | [3820-bleach-gc-tasogare-ni-mamieru-shinigami.json](./3820-bleach-gc-tasogare-ni-mamieru-shinigami.json) |
 | Bleach Heat the Soul | 44488 | [44488-bleach-heat-the-soul.json](./44488-bleach-heat-the-soul.json) |
+| Bleach Mobile 3D | 130051 | [130051-bleach-mobile-3d.json](./130051-bleach-mobile-3d.json) |
 | Bleach Online | 23623 | [23623-bleach-online.json](./23623-bleach-online.json) |
 | Bleach Party | 157487 | [157487-bleach-party.json](./157487-bleach-party.json) |
 | Bleach Soul Rising | 216091 | [216091-bleach-soul-rising.json](./216091-bleach-soul-rising.json) |
@@ -7743,6 +7744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bleach: Immortal Soul | 133746 | [133746-bleach-immortal-soul.json](./133746-bleach-immortal-soul.json) |
 | Bleach: Paradise Lost | 52199 | [52199-bleach-paradise-lost.json](./52199-bleach-paradise-lost.json) |
 | Bleach: Shattered Blade | 3821 | [3821-bleach-shattered-blade.json](./3821-bleach-shattered-blade.json) |
+| Bleach: Soul Bankai | 130043 | [130043-bleach-soul-bankai.json](./130043-bleach-soul-bankai.json) |
 | Bleach: Soul Carnival | 25930 | [25930-bleach-soul-carnival.json](./25930-bleach-soul-carnival.json) |
 | Bleach: Soul Carnival 2 | 25934 | [25934-bleach-soul-carnival-2.json](./25934-bleach-soul-carnival-2.json) |
 | Bleach: Soul Puzzle | 317846 | [317846-bleach-soul-puzzle.json](./317846-bleach-soul-puzzle.json) |
@@ -10054,6 +10056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boogie Cruise | 352517 | [352517-boogie-cruise.json](./352517-boogie-cruise.json) |
 | Boogie Wings | 39873 | [39873-boogie-wings.json](./39873-boogie-wings.json) |
 | Boogie Woogi Jungle | 202347 | [202347-boogie-woogi-jungle.json](./202347-boogie-woogi-jungle.json) |
+| BoogieBall Game | 130022 | [130022-boogieball-game.json](./130022-boogieball-game.json) |
 | Boogy | 193890 | [193890-boogy.json](./193890-boogy.json) |
 | BoohaBlox: Arcade | 276770 | [276770-boohablox-arcade.json](./276770-boohablox-arcade.json) |
 | Book 5 Untold | 254549 | [254549-book-5-untold.json](./254549-book-5-untold.json) |
