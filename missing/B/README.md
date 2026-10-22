@@ -4719,6 +4719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beginning Grammer | 42195 | [42195-beginning-grammer.json](./42195-beginning-grammer.json) |
 | Beglov Style | 129060 | [129060-beglov-style.json](./129060-beglov-style.json) |
 | BeGone | 109038 | [109038-begone.json](./109038-begone.json) |
+| BeGone: WarLand 2 | 101925 | [101925-begone-warland-2.json](./101925-begone-warland-2.json) |
 | Beguile | 373876 | [373876-beguile.json](./373876-beguile.json) |
 | Behemoth | 274122 | [274122-behemoth.json](./274122-behemoth.json) |
 | Behemoth | 320724 | [320724-behemoth.json](./320724-behemoth.json) |
@@ -12470,6 +12471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broken Universe + Clumsy Rush | 228938 | [228938-broken-universe-clumsy-rush.json](./228938-broken-universe-clumsy-rush.json) |
 | Broken Voyage | 405471 | [405471-broken-voyage.json](./405471-broken-voyage.json) |
 | Broken War | 309136 | [309136-broken-war.json](./309136-broken-war.json) |
+| Broken Wizard | 101920 | [101920-broken-wizard.json](./101920-broken-wizard.json) |
 | Broken World | 170244 | [170244-broken-world.json](./170244-broken-world.json) |
 | BrokenEarth | 62973 | [62973-brokenearth.json](./62973-brokenearth.json) |
 | BrokenLore: Ascend | 377235 | [377235-brokenlore-ascend.json](./377235-brokenlore-ascend.json) |
