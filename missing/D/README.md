@@ -3606,6 +3606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Skid Marks | 17897 | [17897-death-skid-marks.json](./17897-death-skid-marks.json) |
 | Death Slave | 209698 | [209698-death-slave.json](./209698-death-slave.json) |
 | Death Slayer V | 180013 | [180013-death-slayer-v.json](./180013-death-slayer-v.json) |
+| Death Space | 111406 | [111406-death-space.json](./111406-death-space.json) |
 | Death Spiral | 408297 | [408297-death-spiral.json](./408297-death-spiral.json) |
 | Death Stalker | 13579 | [13579-death-stalker.json](./13579-death-stalker.json) |
 | Death Star | 12949 | [12949-death-star.json](./12949-death-star.json) |
@@ -6308,6 +6309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil's Terminal | 374406 | [374406-devils-terminal.json](./374406-devils-terminal.json) |
 | Devil's Third | 7395 | [7395-devils-third.json](./7395-devils-third.json) |
 | Devil's Third Online | 59988 | [59988-devils-third-online.json](./59988-devils-third-online.json) |
+| Devil's Toy | 111398 | [111398-devils-toy.json](./111398-devils-toy.json) |
 | Devil's Tuning Fork | 67304 | [67304-devils-tuning-fork.json](./67304-devils-tuning-fork.json) |
 | Devil's Way | 306358 | [306358-devils-way.json](./306358-devils-way.json) |
 | Devil's Wheel | 130619 | [130619-devils-wheel.json](./130619-devils-wheel.json) |
@@ -8781,6 +8783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doc McStuffins | 243280 | [243280-doc-mcstuffins.json](./243280-doc-mcstuffins.json) |
 | Doc McStuffins: School of Madicine | 243281 | [243281-doc-mcstuffins-school-of-madicine.json](./243281-doc-mcstuffins-school-of-madicine.json) |
 | DoC: God Mode Edition | 107162 | [107162-doc-god-mode-edition.json](./107162-doc-god-mode-edition.json) |
+| Doca 2 | 111375 | [111375-doca-2.json](./111375-doca-2.json) |
 | Doce Fim: Sweetend Placebo | 391576 | [391576-doce-fim-sweetend-placebo.json](./391576-doce-fim-sweetend-placebo.json) |
 | Doces & Calabouços: Caos no Reino do Doce | 335244 | [335244-doces-and-calaboucos-caos-no-reino-do-doce.json](./335244-doces-and-calaboucos-caos-no-reino-do-doce.json) |
 | Docile Fright | 237212 | [237212-docile-fright.json](./237212-docile-fright.json) |
@@ -14474,6 +14477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons of Legend: Cast Within | 115073 | [115073-dungeons-of-legend-cast-within.json](./115073-dungeons-of-legend-cast-within.json) |
 | Dungeons of Loot | 133989 | [133989-dungeons-of-loot.json](./133989-dungeons-of-loot.json) |
 | Dungeons of Mysteria | 184857 | [184857-dungeons-of-mysteria.json](./184857-dungeons-of-mysteria.json) |
+| Dungeons of Necromancers | 111412 | [111412-dungeons-of-necromancers.json](./111412-dungeons-of-necromancers.json) |
 | Dungeons of Paint | 351002 | [351002-dungeons-of-paint.json](./351002-dungeons-of-paint.json) |
 | Dungeons of Shalnor | 187480 | [187480-dungeons-of-shalnor.json](./187480-dungeons-of-shalnor.json) |
 | Dungeons of Sundaria | 208473 | [208473-dungeons-of-sundaria.json](./208473-dungeons-of-sundaria.json) |
