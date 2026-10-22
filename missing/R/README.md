@@ -2758,6 +2758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reconditus | 309206 | [309206-reconditus.json](./309206-reconditus.json) |
 | Recondo | 215888 | [215888-recondo.json](./215888-recondo.json) |
 | Reconnect | 161395 | [161395-reconnect.json](./161395-reconnect.json) |
+| Reconnect: The Heart of Darkness | 148272 | [148272-reconnect-the-heart-of-darkness.json](./148272-reconnect-the-heart-of-darkness.json) |
 | Reconnoitre | 270128 | [270128-reconnoitre.json](./270128-reconnoitre.json) |
 | Reconquer Online | 319734 | [319734-reconquer-online.json](./319734-reconquer-online.json) |
 | Reconquista | 319242 | [319242-reconquista.json](./319242-reconquista.json) |
@@ -9730,6 +9731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Running Circles | 251504 | [251504-running-circles.json](./251504-running-circles.json) |
 | Running Crazy | 271910 | [271910-running-crazy.json](./271910-running-crazy.json) |
 | Running Education | 148459 | [148459-running-education.json](./148459-running-education.json) |
+| Running Fable | 148254 | [148254-running-fable.json](./148254-running-fable.json) |
 | Running Fox | 267061 | [267061-running-fox.json](./267061-running-fox.json) |
 | Running Fred | 294531 | [294531-running-fred.json](./294531-running-fred.json) |
 | Running Gods | 32231 | [32231-running-gods.json](./32231-running-gods.json) |
