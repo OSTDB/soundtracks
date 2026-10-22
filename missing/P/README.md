@@ -6037,6 +6037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Piropa | 382587 | [382587-piropa.json](./382587-piropa.json) |
 | PiroPito | 276754 | [276754-piropito.json](./276754-piropito.json) |
 | Pirouette | 120666 | [120666-pirouette.json](./120666-pirouette.json) |
+| Pirouette | 128828 | [128828-pirouette.json](./128828-pirouette.json) |
 | Pisces | 109444 | [109444-pisces.json](./109444-pisces.json) |
 | Piscirazzi | 244144 | [244144-piscirazzi.json](./244144-piscirazzi.json) |
 | Piscis x Machina 4.44 You are Fish | 358446 | [358446-piscis-x-machina-4-44-you-are-fish.json](./358446-piscis-x-machina-4-44-you-are-fish.json) |
@@ -7351,6 +7352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plantasia | 53463 | [53463-plantasia.json](./53463-plantasia.json) |
 | Planted | 183411 | [183411-planted.json](./183411-planted.json) |
 | Planted! | 398336 | [398336-planted.json](./398336-planted.json) |
+| Plantera 2: Golden Acorn | 128835 | [128835-plantera-2-golden-acorn.json](./128835-plantera-2-golden-acorn.json) |
 | Planternauts | 341571 | [341571-planternauts.json](./341571-planternauts.json) |
 | Plantgotchi | 122321 | [122321-plantgotchi.json](./122321-plantgotchi.json) |
 | Planth Care | 181356 | [181356-planth-care.json](./181356-planth-care.json) |
