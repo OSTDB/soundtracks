@@ -2467,6 +2467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OnSlaught | 163293 | [163293-onslaught.json](./163293-onslaught.json) |
 | Onslaught on the Solar Frontier | 306369 | [306369-onslaught-on-the-solar-frontier.json](./306369-onslaught-on-the-solar-frontier.json) |
 | Onslaught VR | 90813 | [90813-onslaught-vr.json](./90813-onslaught-vr.json) |
+| Onslaught: Armoured Assault | 116740 | [116740-onslaught-armoured-assault.json](./116740-onslaught-armoured-assault.json) |
 | Onslaught! Arena | 65778 | [65778-onslaught-arena.json](./65778-onslaught-arena.json) |
 | OnSpace | 111076 | [111076-onspace.json](./111076-onspace.json) |
 | Ontamarama | 21509 | [21509-ontamarama.json](./21509-ontamarama.json) |
@@ -3745,6 +3746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Our Fantasy Quest + More Quests Pack | 227708 | [227708-our-fantasy-quest-more-quests-pack.json](./227708-our-fantasy-quest-more-quests-pack.json) |
 | Our Fate Forsaken | 197411 | [197411-our-fate-forsaken.json](./197411-our-fate-forsaken.json) |
 | Our Favorite Mortal Potter | 414083 | [414083-our-favorite-mortal-potter.json](./414083-our-favorite-mortal-potter.json) |
+| Our Feelings | 116757 | [116757-our-feelings.json](./116757-our-feelings.json) |
 | Our Field Trip Adventure | 298582 | [298582-our-field-trip-adventure.json](./298582-our-field-trip-adventure.json) |
 | Our Field Trip Adventure + More Missions Pack Set | 304812 | [304812-our-field-trip-adventure-more-missions-pack-set.json](./304812-our-field-trip-adventure-more-missions-pack-set.json) |
 | Our Final Choice | 384905 | [384905-our-final-choice.json](./384905-our-final-choice.json) |
