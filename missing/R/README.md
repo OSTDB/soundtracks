@@ -443,6 +443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Racketeers | 258911 | [258911-racketeers.json](./258911-racketeers.json) |
 | Rackets & Rivals | 48213 | [48213-rackets-and-rivals.json](./48213-rackets-and-rivals.json) |
 | RackJacker | 163981 | [163981-rackjacker.json](./163981-rackjacker.json) |
+| Racoon Lagoon | 128847 | [128847-racoon-lagoon.json](./128847-racoon-lagoon.json) |
 | Racoon the Thief | 256187 | [256187-racoon-the-thief.json](./256187-racoon-the-thief.json) |
 | Racoonfeast | 326971 | [326971-racoonfeast.json](./326971-racoonfeast.json) |
 | Racoonie: Legend of the Spirits | 216667 | [216667-racoonie-legend-of-the-spirits.json](./216667-racoonie-legend-of-the-spirits.json) |
@@ -7107,6 +7108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robotics;Notes | 7162 | [7162-robotics-notes.json](./7162-robotics-notes.json) |
 | Robotics;Notes Double Pack | 132650 | [132650-robotics-notes-double-pack.json](./132650-robotics-notes-double-pack.json) |
 | Robotics! | 362170 | [362170-robotics.json](./362170-robotics.json) |
+| Robotix: The Escape | 128841 | [128841-robotix-the-escape.json](./128841-robotix-the-escape.json) |
 | Robotization: A Last Human | 225223 | [225223-robotization-a-last-human.json](./225223-robotization-a-last-human.json) |
 | Robotnik's Revenge | 136918 | [136918-robotniks-revenge.json](./136918-robotniks-revenge.json) |
 | Roboto | 232573 | [232573-roboto.json](./232573-roboto.json) |
@@ -8788,6 +8790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rotten Sun | 183948 | [183948-rotten-sun.json](./183948-rotten-sun.json) |
 | Rotten Survivor | 364831 | [364831-rotten-survivor.json](./364831-rotten-survivor.json) |
 | Rotten Tide | 157055 | [157055-rotten-tide.json](./157055-rotten-tide.json) |
+| Rotten Utopia | 128839 | [128839-rotten-utopia.json](./128839-rotten-utopia.json) |
 | Rotten Woods | 369710 | [369710-rotten-woods.json](./369710-rotten-woods.json) |
 | Rottenroots | 322766 | [322766-rottenroots.json](./322766-rottenroots.json) |
 | Rotting Crescendo | 136441 | [136441-rotting-crescendo.json](./136441-rotting-crescendo.json) |
