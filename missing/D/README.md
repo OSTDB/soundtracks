@@ -797,6 +797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Danger Zone Friends | 135044 | [135044-danger-zone-friends.json](./135044-danger-zone-friends.json) |
 | Danger, Bob-omb! Danger!: Handle with Care | 322377 | [322377-danger-bob-omb-danger-handle-with-care.json](./322377-danger-bob-omb-danger-handle-with-care.json) |
 | Danger: Electric Shock | 166620 | [166620-danger-electric-shock.json](./166620-danger-electric-shock.json) |
+| Danger: Escape Lab! | 150406 | [150406-danger-escape-lab.json](./150406-danger-escape-lab.json) |
 | Dangerbots | 58499 | [58499-dangerbots.json](./58499-dangerbots.json) |
 | Dangeresque Roomisode 1: Behind the Dangerdesque | 135845 | [135845-dangeresque-roomisode-1-behind-the-dangerdesque.json](./135845-dangeresque-roomisode-1-behind-the-dangerdesque.json) |
 | Dangeresque: The Roomisode Triungulate | 250906 | [250906-dangeresque-the-roomisode-triungulate.json](./250906-dangeresque-the-roomisode-triungulate.json) |
@@ -3300,6 +3301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dear Future | 144791 | [144791-dear-future.json](./144791-dear-future.json) |
 | Dear Genny | 177532 | [177532-dear-genny.json](./177532-dear-genny.json) |
 | Dear Girl: Stories Hibiki - Hibiki Tokkun Daisakusen! | 204480 | [204480-dear-girl-stories-hibiki-hibiki-tokkun-daisakusen.json](./204480-dear-girl-stories-hibiki-hibiki-tokkun-daisakusen.json) |
+| Dear Home | 150542 | [150542-dear-home.json](./150542-dear-home.json) |
 | Dear Leader | 354239 | [354239-dear-leader.json](./354239-dear-leader.json) |
 | Dear Leader | 60442 | [60442-dear-leader.json](./60442-dear-leader.json) |
 | Dear Lighthouse | 384230 | [384230-dear-lighthouse.json](./384230-dear-lighthouse.json) |
@@ -8519,6 +8521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DMCA's Sky | 127260 | [127260-dmcas-sky.json](./127260-dmcas-sky.json) |
 | DMD Mars Mission | 86516 | [86516-dmd-mars-mission.json](./86516-dmd-mars-mission.json) |
 | DMG Deals Damage | 163219 | [163219-dmg-deals-damage.json](./163219-dmg-deals-damage.json) |
+| DMN7 | 150472 | [150472-dmn7.json](./150472-dmn7.json) |
 | Dmod | 275917 | [275917-dmod.json](./275917-dmod.json) |
 | DMT Simulator | 326436 | [326436-dmt-simulator.json](./326436-dmt-simulator.json) |
 | dMuse | 98978 | [98978-dmuse.json](./98978-dmuse.json) |
@@ -8605,6 +8608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Do You Really Know? | 390777 | [390777-do-you-really-know.json](./390777-do-you-really-know.json) |
 | Do You Remember? | 303484 | [303484-do-you-remember.json](./303484-do-you-remember.json) |
 | Do You See Sparky? | 242484 | [242484-do-you-see-sparky.json](./242484-do-you-see-sparky.json) |
+| Do You See the Waving Cape | 150391 | [150391-do-you-see-the-waving-cape.json](./150391-do-you-see-the-waving-cape.json) |
 | Do You Want More!? | 203938 | [203938-do-you-want-more.json](./203938-do-you-want-more.json) |
 | Do-Konjou Shougakusei: Bon Bita - Hadaka no Choujou Ketsusen!! Bita vs. Dokuro Dei! | 269574 | [269574-do-konjou-shougakusei-bon-bita-hadaka-no-choujou-ketsusen-bita-vs-dokuro-dei.json](./269574-do-konjou-shougakusei-bon-bita-hadaka-no-choujou-ketsusen-bita-vs-dokuro-dei.json) |
 | Do-M Imouto O-nedari Kojin Lesson: Watashi no Sex Katei-kyoushi Oniichan | 108917 | [108917-do-m-imouto-o-nedari-kojin-lesson-watashi-no-sex-katei-kyoushi-oniichan.json](./108917-do-m-imouto-o-nedari-kojin-lesson-watashi-no-sex-katei-kyoushi-oniichan.json) |
@@ -13720,6 +13724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Cleaner | 260667 | [260667-dungeon-cleaner.json](./260667-dungeon-cleaner.json) |
 | Dungeon Cleaners | 357041 | [357041-dungeon-cleaners.json](./357041-dungeon-cleaners.json) |
 | Dungeon Cleaning Express | 114974 | [114974-dungeon-cleaning-express.json](./114974-dungeon-cleaning-express.json) |
+| Dungeon Clicker | 150405 | [150405-dungeon-clicker.json](./150405-dungeon-clicker.json) |
 | Dungeon Color | 190226 | [190226-dungeon-color.json](./190226-dungeon-color.json) |
 | Dungeon Concierge | 377812 | [377812-dungeon-concierge.json](./377812-dungeon-concierge.json) |
 | Dungeon Conqueror | 166172 | [166172-dungeon-conqueror.json](./166172-dungeon-conqueror.json) |
@@ -14675,6 +14680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dynamo Kid 3 | 399921 | [399921-dynamo-kid-3.json](./399921-dynamo-kid-3.json) |
 | Dynamo Kid Touch | 399424 | [399424-dynamo-kid-touch.json](./399424-dynamo-kid-touch.json) |
 | Dynapuff Jump! | 102030 | [102030-dynapuff-jump.json](./102030-dynapuff-jump.json) |
+| Dynarog | 150388 | [150388-dynarog.json](./150388-dynarog.json) |
 | Dynarog 2 | 165732 | [165732-dynarog-2.json](./165732-dynarog-2.json) |
 | Dynast.io | 115762 | [115762-dynast-io.json](./115762-dynast-io.json) |
 | Dynasty | 278441 | [278441-dynasty.json](./278441-dynasty.json) |
