@@ -5336,7 +5336,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aliens: Alien 2 | 36811 | [36811-aliens-alien-2.json](./36811-aliens-alien-2.json) |
 | Aliens: Colonial Marines | 1021 | [1021-aliens-colonial-marines.json](./1021-aliens-colonial-marines.json) |
 | Aliens: Colonial Marines - Bug Hunt | 118179 | [118179-aliens-colonial-marines-bug-hunt.json](./118179-aliens-colonial-marines-bug-hunt.json) |
+| Aliens: Colonial Marines - Collector's Edition | 118042 | [118042-aliens-colonial-marines-collectors-edition.json](./118042-aliens-colonial-marines-collectors-edition.json) |
 | Aliens: Colonial Marines - Collector's Edition Pack | 118184 | [118184-aliens-colonial-marines-collectors-edition-pack.json](./118184-aliens-colonial-marines-collectors-edition-pack.json) |
+| Aliens: Colonial Marines - Extermination Edition | 118049 | [118049-aliens-colonial-marines-extermination-edition.json](./118049-aliens-colonial-marines-extermination-edition.json) |
 | Aliens: Colonial Marines - Limited Edition Pack | 118185 | [118185-aliens-colonial-marines-limited-edition-pack.json](./118185-aliens-colonial-marines-limited-edition-pack.json) |
 | Aliens: Colonial Marines - Movie Map Pack | 118182 | [118182-aliens-colonial-marines-movie-map-pack.json](./118182-aliens-colonial-marines-movie-map-pack.json) |
 | Aliens: Colonial Marines - Reconnaissance Pack | 118183 | [118183-aliens-colonial-marines-reconnaissance-pack.json](./118183-aliens-colonial-marines-reconnaissance-pack.json) |
@@ -12331,6 +12333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astro-Dodge | 25156 | [25156-astro-dodge.json](./25156-astro-dodge.json) |
 | Astro-g | 133366 | [133366-astro-g.json](./133366-astro-g.json) |
 | Astro: The Beginning | 118431 | [118431-astro-the-beginning.json](./118431-astro-the-beginning.json) |
+| Astro4x | 118009 | [118009-astro4x.json](./118009-astro4x.json) |
 | Astroball | 109211 | [109211-astroball.json](./109211-astroball.json) |
 | Astroball | 338170 | [338170-astroball.json](./338170-astroball.json) |
 | Astrobarian | 366849 | [366849-astrobarian.json](./366849-astrobarian.json) |
@@ -13019,6 +13022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Attack of the Mutant Camels '89 | 318633 | [318633-attack-of-the-mutant-camels-89.json](./318633-attack-of-the-mutant-camels-89.json) |
 | Attack of the Mutant Penguins | 40819 | [40819-attack-of-the-mutant-penguins.json](./40819-attack-of-the-mutant-penguins.json) |
 | Attack of the Petscii Robots | 159163 | [159163-attack-of-the-petscii-robots.json](./159163-attack-of-the-petscii-robots.json) |
+| Attack of the Retro Bots | 118043 | [118043-attack-of-the-retro-bots.json](./118043-attack-of-the-retro-bots.json) |
 | Attack of the Saucerman | 4143 | [4143-attack-of-the-saucerman.json](./4143-attack-of-the-saucerman.json) |
 | Attack of the Silver Ball | 248598 | [248598-attack-of-the-silver-ball.json](./248598-attack-of-the-silver-ball.json) |
 | Attack of the Toy Tanks | 120178 | [120178-attack-of-the-toy-tanks.json](./120178-attack-of-the-toy-tanks.json) |
@@ -13504,6 +13508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Autumn's Bounty | 270528 | [270528-autumns-bounty.json](./270528-autumns-bounty.json) |
 | Autumn's Chorus | 114952 | [114952-autumns-chorus.json](./114952-autumns-chorus.json) |
 | Autumn's Dungeoneering | 373176 | [373176-autumns-dungeoneering.json](./373176-autumns-dungeoneering.json) |
+| Autumn's End | 118054 | [118054-autumns-end.json](./118054-autumns-end.json) |
 | Autumn's Journey | 114775 | [114775-autumns-journey.json](./114775-autumns-journey.json) |
 | Autumn's Treasures: The Jade Coin | 22119 | [22119-autumns-treasures-the-jade-coin.json](./22119-autumns-treasures-the-jade-coin.json) |
 | Auxin | 267478 | [267478-auxin.json](./267478-auxin.json) |
