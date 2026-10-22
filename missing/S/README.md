@@ -823,6 +823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saloon Simulator | 211782 | [211782-saloon-simulator.json](./211782-saloon-simulator.json) |
 | Saloon VR | 118356 | [118356-saloon-vr.json](./118356-saloon-vr.json) |
 | Saloonery | 348402 | [348402-saloonery.json](./348402-saloonery.json) |
+| Salsa Virtual | 110080 | [110080-salsa-virtual.json](./110080-salsa-virtual.json) |
 | Salt | 171556 | [171556-salt.json](./171556-salt.json) |
 | Salt | 17929 | [17929-salt.json](./17929-salt.json) |
 | Salt | 334887 | [334887-salt.json](./334887-salt.json) |
@@ -3911,6 +3912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sega Ages 2500 Vol. 7: Columns | 99692 | [99692-sega-ages-2500-vol-7-columns.json](./99692-sega-ages-2500-vol-7-columns.json) |
 | Sega Ages 2500 Vol. 8: Virtua Racing FlatOut | 96528 | [96528-sega-ages-2500-vol-8-virtua-racing-flatout.json](./96528-sega-ages-2500-vol-8-virtua-racing-flatout.json) |
 | Sega Ages 2500 Vol. 9: Gain Ground | 77881 | [77881-sega-ages-2500-vol-9-gain-ground.json](./77881-sega-ages-2500-vol-9-gain-ground.json) |
+| Sega Ages Columns II: The Voyage Through Time | 110059 | [110059-sega-ages-columns-ii-the-voyage-through-time.json](./110059-sega-ages-columns-ii-the-voyage-through-time.json) |
 | Sega Ages Fantasy Zone | 117158 | [117158-sega-ages-fantasy-zone.json](./117158-sega-ages-fantasy-zone.json) |
 | Sega Ages G-LOC: Air Battle | 117157 | [117157-sega-ages-g-loc-air-battle.json](./117157-sega-ages-g-loc-air-battle.json) |
 | Sega Ages Herzog Zwei | 117159 | [117159-sega-ages-herzog-zwei.json](./117159-sega-ages-herzog-zwei.json) |
@@ -3922,12 +3924,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sega Ages Virtua Racing | 110062 | [110062-sega-ages-virtua-racing.json](./110062-sega-ages-virtua-racing.json) |
 | Sega Ages Wonder Boy: Monster Land | 117160 | [117160-sega-ages-wonder-boy-monster-land.json](./117160-sega-ages-wonder-boy-monster-land.json) |
 | Sega Ages: Columns Arcade Collection | 63125 | [63125-sega-ages-columns-arcade-collection.json](./63125-sega-ages-columns-arcade-collection.json) |
+| Sega Ages: Gain Ground | 110058 | [110058-sega-ages-gain-ground.json](./110058-sega-ages-gain-ground.json) |
 | Sega Ages: I Love Mickey Mouse - Fushigi no Oshiro Daibouken/I Love Donald Duck: Guruzia Ou no Hihou | 79786 | [79786-sega-ages-i-love-mickey-mouse-fushigi-no-oshiro-daibouken-i-love-donald-duck-guruzia-ou-no-hihou.json](./79786-sega-ages-i-love-mickey-mouse-fushigi-no-oshiro-daibouken-i-love-donald-duck-guruzia-ou-no-hihou.json) |
 | Sega Ages: Ichidant-R | 110804 | [110804-sega-ages-ichidant-r.json](./110804-sega-ages-ichidant-r.json) |
 | Sega Ages: Puyo Puyo 2 | 113380 | [113380-sega-ages-puyo-puyo-2.json](./113380-sega-ages-puyo-puyo-2.json) |
 | Sega Ages: Puzzle & Action - Shukudai ga Tant-R | 64315 | [64315-sega-ages-puzzle-and-action-shukudai-ga-tant-r.json](./64315-sega-ages-puzzle-and-action-shukudai-ga-tant-r.json) |
 | Sega Ages: Shinobi | 110805 | [110805-sega-ages-shinobi.json](./110805-sega-ages-shinobi.json) |
 | Sega Ages: Sonic the Hedgehog | 96393 | [96393-sega-ages-sonic-the-hedgehog.json](./96393-sega-ages-sonic-the-hedgehog.json) |
+| Sega Ages: Sonic the Hedgehog 2 | 110061 | [110061-sega-ages-sonic-the-hedgehog-2.json](./110061-sega-ages-sonic-the-hedgehog-2.json) |
 | Sega Astro City Mini V | 245664 | [245664-sega-astro-city-mini-v.json](./245664-sega-astro-city-mini-v.json) |
 | Sega Bass Fishing 2 | 45837 | [45837-sega-bass-fishing-2.json](./45837-sega-bass-fishing-2.json) |
 | Sega Bass Fishing Challenge | 39433 | [39433-sega-bass-fishing-challenge.json](./39433-sega-bass-fishing-challenge.json) |
@@ -6288,6 +6292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shi Sen | 105522 | [105522-shi-sen.json](./105522-shi-sen.json) |
 | Shi Shi Te Na O: Even in Death | 335823 | [335823-shi-shi-te-na-o-even-in-death.json](./335823-shi-shi-te-na-o-even-in-death.json) |
 | Shí zhī Fēi | 119565 | [119565-shi-zhi-fei.json](./119565-shi-zhi-fei.json) |
+| Shi-Ro | 110064 | [110064-shi-ro.json](./110064-shi-ro.json) |
 | Shi's Summer Battle | 360683 | [360683-shis-summer-battle.json](./360683-shis-summer-battle.json) |
 | Shia LaBeouf: Meme Master Dating Simulator | 12076 | [12076-shia-labeouf-meme-master-dating-simulator.json](./12076-shia-labeouf-meme-master-dating-simulator.json) |
 | Shiawase Shou no Kanrinin-san | 136792 | [136792-shiawase-shou-no-kanrinin-san.json](./136792-shiawase-shou-no-kanrinin-san.json) |
@@ -11158,6 +11163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smasher | 112976 | [112976-smasher.json](./112976-smasher.json) |
 | Smasher | 349462 | [349462-smasher.json](./349462-smasher.json) |
 | Smasher and the Will o' the Thiccs | 165633 | [165633-smasher-and-the-will-o-the-thiccs.json](./165633-smasher-and-the-will-o-the-thiccs.json) |
+| smashET | 110034 | [110034-smashet.json](./110034-smashet.json) |
 | Smashfruit | 285898 | [285898-smashfruit.json](./285898-smashfruit.json) |
 | Smashie | 23952 | [23952-smashie.json](./23952-smashie.json) |
 | Smashing | 259765 | [259765-smashing.json](./259765-smashing.json) |
@@ -17108,6 +17114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirit Lords | 59784 | [59784-spirit-lords.json](./59784-spirit-lords.json) |
 | Spirit Magician | 376663 | [376663-spirit-magician.json](./376663-spirit-magician.json) |
 | Spirit Mancer | 224556 | [224556-spirit-mancer.json](./224556-spirit-mancer.json) |
+| Spirit Master | 110025 | [110025-spirit-master.json](./110025-spirit-master.json) |
 | Spirit Night | 225563 | [225563-spirit-night.json](./225563-spirit-night.json) |
 | Spirit Oath | 118383 | [118383-spirit-oath.json](./118383-spirit-oath.json) |
 | Spirit of Adventure | 188433 | [188433-spirit-of-adventure.json](./188433-spirit-of-adventure.json) |
@@ -17870,6 +17877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sprunki Hell Towers | 395210 | [395210-sprunki-hell-towers.json](./395210-sprunki-hell-towers.json) |
 | Sprunki Horror From the Loop | 361923 | [361923-sprunki-horror-from-the-loop.json](./361923-sprunki-horror-from-the-loop.json) |
 | Sprydite | 244638 | [244638-sprydite.json](./244638-sprydite.json) |
+| Spryke | 110024 | [110024-spryke.json](./110024-spryke.json) |
 | Spryward | 202744 | [202744-spryward.json](./202744-spryward.json) |
 | Spud Cricket VR | 29698 | [29698-spud-cricket-vr.json](./29698-spud-cricket-vr.json) |
 | Spud Customs | 324090 | [324090-spud-customs.json](./324090-spud-customs.json) |
