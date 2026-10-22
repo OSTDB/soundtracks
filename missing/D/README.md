@@ -822,6 +822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dangerous Fellows | 133817 | [133817-dangerous-fellows.json](./133817-dangerous-fellows.json) |
 | Dangerous Fight | 284997 | [284997-dangerous-fight.json](./284997-dangerous-fight.json) |
 | Dangerous Fists | 219673 | [219673-dangerous-fists.json](./219673-dangerous-fists.json) |
+| Dangerous Games: Illusionist | 140212 | [140212-dangerous-games-illusionist.json](./140212-dangerous-games-illusionist.json) |
 | Dangerous Games: Illusionist - Collector's Edition | 81078 | [81078-dangerous-games-illusionist-collectors-edition.json](./81078-dangerous-games-illusionist-collectors-edition.json) |
 | Dangerous Games: Prisoners of Destiny | 139751 | [139751-dangerous-games-prisoners-of-destiny.json](./139751-dangerous-games-prisoners-of-destiny.json) |
 | Dangerous Golf | 18985 | [18985-dangerous-golf.json](./18985-dangerous-golf.json) |
@@ -895,6 +896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Danny Phantom: Urban Jungle | 6366 | [6366-danny-phantom-urban-jungle.json](./6366-danny-phantom-urban-jungle.json) |
 | Danny Phantom: Urban Jungle Rumble | 144582 | [144582-danny-phantom-urban-jungle-rumble.json](./144582-danny-phantom-urban-jungle-rumble.json) |
 | Danny's Mirror Magic | 159272 | [159272-dannys-mirror-magic.json](./159272-dannys-mirror-magic.json) |
+| Danse Macabre: Crimson Cabaret | 140213 | [140213-danse-macabre-crimson-cabaret.json](./140213-danse-macabre-crimson-cabaret.json) |
 | Danse Macabre: Crimson Cabaret HD | 101580 | [101580-danse-macabre-crimson-cabaret-hd.json](./101580-danse-macabre-crimson-cabaret-hd.json) |
 | Danse Macabre: Deadly Deception | 108461 | [108461-danse-macabre-deadly-deception.json](./108461-danse-macabre-deadly-deception.json) |
 | Danse Macabre: Deadly Deception - Collector's Edition | 86436 | [86436-danse-macabre-deadly-deception-collectors-edition.json](./86436-danse-macabre-deadly-deception-collectors-edition.json) |
