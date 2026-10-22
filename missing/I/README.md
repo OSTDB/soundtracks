@@ -3060,6 +3060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Tournament Paintball | 161626 | [161626-infinite-tournament-paintball.json](./161626-infinite-tournament-paintball.json) |
 | Infinite Turtles | 198362 | [198362-infinite-turtles.json](./198362-infinite-turtles.json) |
 | Infinite Undiscovery | 7019 | [7019-infinite-undiscovery.json](./7019-infinite-undiscovery.json) |
+| Infinite Vector | 99454 | [99454-infinite-vector.json](./99454-infinite-vector.json) |
 | Infinite Veil | 379874 | [379874-infinite-veil.json](./379874-infinite-veil.json) |
 | Infinite Versus | 143697 | [143697-infinite-versus.json](./143697-infinite-versus.json) |
 | Infinite Void | 294868 | [294868-infinite-void.json](./294868-infinite-void.json) |
