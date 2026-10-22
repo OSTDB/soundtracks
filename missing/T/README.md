@@ -21607,7 +21607,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trackless | 28322 | [28322-trackless.json](./28322-trackless.json) |
 | Trackline Express | 244341 | [244341-trackline-express.json](./244341-trackline-express.json) |
 | Trackmania | 133807 | [133807-trackmania.json](./133807-trackmania.json) |
-| TrackMania | 18728 | [18728-trackmania.json](./18728-trackmania.json) |
 | TrackMania 2: Canyon | 508 | [508-trackmania-2-canyon.json](./508-trackmania-2-canyon.json) |
 | TrackMania 2: Stadium | 9448 | [9448-trackmania-2-stadium.json](./9448-trackmania-2-stadium.json) |
 | TrackMania Nations | 9909 | [9909-trackmania-nations.json](./9909-trackmania-nations.json) |
@@ -23977,7 +23976,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trials of Imorah | 258531 | [258531-trials-of-imorah.json](./258531-trials-of-imorah.json) |
 | Trials of Kokoro | 204373 | [204373-trials-of-kokoro.json](./204373-trials-of-kokoro.json) |
 | Trials of Luna | 383795 | [383795-trials-of-luna.json](./383795-trials-of-luna.json) |
-| Trials of Mana | 11227 | [11227-trials-of-mana.json](./11227-trials-of-mana.json) |
 | Trials of Midnight | 187268 | [187268-trials-of-midnight.json](./187268-trials-of-midnight.json) |
 | Trials of Proelium | 192661 | [192661-trials-of-proelium.json](./192661-trials-of-proelium.json) |
 | Trials of Proelium Remastered | 348891 | [348891-trials-of-proelium-remastered.json](./348891-trials-of-proelium-remastered.json) |
