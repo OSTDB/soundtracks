@@ -1072,6 +1072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Your “Hidden Side” Test | 399796 | [399796-your-hidden-side-test.json](./399796-your-hidden-side-test.json) |
 | Your Adventure | 174036 | [174036-your-adventure.json](./174036-your-adventure.json) |
 | Your AI Slop Bores Me | 394609 | [394609-your-ai-slop-bores-me.json](./394609-your-ai-slop-bores-me.json) |
+| Your Amazing T-Gotchi! | 140429 | [140429-your-amazing-t-gotchi.json](./140429-your-amazing-t-gotchi.json) |
 | Your Android | 329644 | [329644-your-android.json](./329644-your-android.json) |
 | Your Anime Waifu | 368080 | [368080-your-anime-waifu.json](./368080-your-anime-waifu.json) |
 | Your Answers or Your Breakfast! | 181752 | [181752-your-answers-or-your-breakfast.json](./181752-your-answers-or-your-breakfast.json) |
