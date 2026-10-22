@@ -1530,6 +1530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark War | 30813 | [30813-dark-war.json](./30813-dark-war.json) |
 | Dark War: Survival | 329651 | [329651-dark-war-survival.json](./329651-dark-war-survival.json) |
 | Dark Watching: Chapter 1 | 383633 | [383633-dark-watching-chapter-1.json](./383633-dark-watching-chapter-1.json) |
+| Dark Water: Slime Invader | 147076 | [147076-dark-water-slime-invader.json](./147076-dark-water-slime-invader.json) |
 | Dark Wave | 104480 | [104480-dark-wave.json](./104480-dark-wave.json) |
 | Dark Wind: War on Wheels | 78069 | [78069-dark-wind-war-on-wheels.json](./78069-dark-wind-war-on-wheels.json) |
 | Dark Wish | 99011 | [99011-dark-wish.json](./99011-dark-wish.json) |
@@ -5705,6 +5706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destiny 2: Beyond Light - Deluxe Edition | 139825 | [139825-destiny-2-beyond-light-deluxe-edition.json](./139825-destiny-2-beyond-light-deluxe-edition.json) |
 | Destiny 2: Beyond Light - Season of the Chosen | 144047 | [144047-destiny-2-beyond-light-season-of-the-chosen.json](./144047-destiny-2-beyond-light-season-of-the-chosen.json) |
 | Destiny 2: Beyond Light - Season of the Hunt | 140978 | [140978-destiny-2-beyond-light-season-of-the-hunt.json](./140978-destiny-2-beyond-light-season-of-the-hunt.json) |
+| Destiny 2: Beyond Light - Season of the Splicer | 147058 | [147058-destiny-2-beyond-light-season-of-the-splicer.json](./147058-destiny-2-beyond-light-season-of-the-splicer.json) |
 | Destiny 2: Black Armory | 112408 | [112408-destiny-2-black-armory.json](./112408-destiny-2-black-armory.json) |
 | Destiny 2: Digital Deluxe Edition | 52887 | [52887-destiny-2-digital-deluxe-edition.json](./52887-destiny-2-digital-deluxe-edition.json) |
 | Destiny 2: Echoes | 305328 | [305328-destiny-2-echoes.json](./305328-destiny-2-echoes.json) |
@@ -7300,6 +7302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino Slug | 395462 | [395462-dino-slug.json](./395462-dino-slug.json) |
 | Dino Space Station | 345100 | [345100-dino-space-station.json](./345100-dino-space-station.json) |
 | Dino SpeedBoat | 341024 | [341024-dino-speedboat.json](./341024-dino-speedboat.json) |
+| Dino Squad | 147054 | [147054-dino-squad.json](./147054-dino-squad.json) |
 | Dino Stalker | 22065 | [22065-dino-stalker.json](./22065-dino-stalker.json) |
 | Dino Storm | 92597 | [92597-dino-storm.json](./92597-dino-storm.json) |
 | Dino Strike | 85563 | [85563-dino-strike.json](./85563-dino-strike.json) |
@@ -12470,6 +12473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamstory | 379026 | [379026-dreamstory.json](./379026-dreamstory.json) |
 | Dreamstudio | 61860 | [61860-dreamstudio.json](./61860-dreamstudio.json) |
 | Dreamsweeper | 265772 | [265772-dreamsweeper.json](./265772-dreamsweeper.json) |
+| Dreamt | 147064 | [147064-dreamt.json](./147064-dreamt.json) |
 | Dreamtale | 178656 | [178656-dreamtale.json](./178656-dreamtale.json) |
 | DreamTank | 72356 | [72356-dreamtank.json](./72356-dreamtank.json) |
 | Dreamtone | 310960 | [310960-dreamtone.json](./310960-dreamtone.json) |
@@ -13204,6 +13208,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duake | 320260 | [320260-duake.json](./320260-duake.json) |
 | Dual | 255889 | [255889-dual.json](./255889-dual.json) |
 | Dual Brain Vol.1: Calculation | 127170 | [127170-dual-brain-vol-1-calculation.json](./127170-dual-brain-vol-1-calculation.json) |
+| Dual Brain Vol.2: Reflex | 147144 | [147144-dual-brain-vol-2-reflex.json](./147144-dual-brain-vol-2-reflex.json) |
+| Dual Brain Vol.3: Shapes | 147143 | [147143-dual-brain-vol-3-shapes.json](./147143-dual-brain-vol-3-shapes.json) |
 | Dual Brain: Complete Edition | 196178 | [196178-dual-brain-complete-edition.json](./196178-dual-brain-complete-edition.json) |
 | Dual Bus Simulator | 269028 | [269028-dual-bus-simulator.json](./269028-dual-bus-simulator.json) |
 | Dual Cars | 156598 | [156598-dual-cars.json](./156598-dual-cars.json) |
@@ -13924,6 +13930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Mutt | 386236 | [386236-dungeon-mutt.json](./386236-dungeon-mutt.json) |
 | Dungeon ni Seisoku Da! | 381695 | [381695-dungeon-ni-seisoku-da.json](./381695-dungeon-ni-seisoku-da.json) |
 | Dungeon Nightmares | 57070 | [57070-dungeon-nightmares.json](./57070-dungeon-nightmares.json) |
+| Dungeon Nightmares 1+2 Collection | 147142 | [147142-dungeon-nightmares-1-2-collection.json](./147142-dungeon-nightmares-1-2-collection.json) |
 | Dungeon No Dungeon | 144019 | [144019-dungeon-no-dungeon.json](./144019-dungeon-no-dungeon.json) |
 | Dungeon No Dungeon: Blood Knight | 171023 | [171023-dungeon-no-dungeon-blood-knight.json](./171023-dungeon-no-dungeon-blood-knight.json) |
 | Dungeon No Dungeon: Reaper | 171022 | [171022-dungeon-no-dungeon-reaper.json](./171022-dungeon-no-dungeon-reaper.json) |
