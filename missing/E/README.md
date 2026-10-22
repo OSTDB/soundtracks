@@ -4428,6 +4428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eschaton: Battle for Eternity | 385298 | [385298-eschaton-battle-for-eternity.json](./385298-eschaton-battle-for-eternity.json) |
 | Escherion | 155502 | [155502-escherion.json](./155502-escherion.json) |
 | Escoba Broom Cards Game | 331690 | [331690-escoba-broom-cards-game.json](./331690-escoba-broom-cards-game.json) |
+| Escom CD ROM Edition | 112656 | [112656-escom-cd-rom-edition.json](./112656-escom-cd-rom-edition.json) |
 | Escort Alia | 241363 | [241363-escort-alia.json](./241363-escort-alia.json) |
 | Escort Alia: Escort Rena | 241320 | [241320-escort-alia-escort-rena.json](./241320-escort-alia-escort-rena.json) |
 | Escort Commander | 80998 | [80998-escort-commander.json](./80998-escort-commander.json) |
