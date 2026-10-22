@@ -4866,6 +4866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HeroQuest: Digital Edition | 424032 | [424032-heroquest-digital-edition.json](./424032-heroquest-digital-edition.json) |
 | HeroQuest: Return of the Witch Lord | 47226 | [47226-heroquest-return-of-the-witch-lord.json](./47226-heroquest-return-of-the-witch-lord.json) |
 | Herores Rescue | 39162 | [39162-herores-rescue.json](./39162-herores-rescue.json) |
+| HeroRun | 134891 | [134891-herorun.json](./134891-herorun.json) |
 | Heros and Monsters | 256717 | [256717-heros-and-monsters.json](./256717-heros-and-monsters.json) |
 | Heros Fight Battle royal | 272273 | [272273-heros-fight-battle-royal.json](./272273-heros-fight-battle-royal.json) |
 | Heros Survival | 304898 | [304898-heros-survival.json](./304898-heros-survival.json) |
@@ -5229,6 +5230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hi-Octane | 12434 | [12434-hi-octane.json](./12434-hi-octane.json) |
 | Hi-Res Brazil | 406093 | [406093-hi-res-brazil.json](./406093-hi-res-brazil.json) |
 | Hi-Res Cribbage | 66708 | [66708-hi-res-cribbage.json](./66708-hi-res-cribbage.json) |
+| Hi-Score Boi | 134904 | [134904-hi-score-boi.json](./134904-hi-score-boi.json) |
 | Hi-Tech Hell 2 | 269115 | [269115-hi-tech-hell-2.json](./269115-hi-tech-hell-2.json) |
 | Hi-Ten Bomberman | 77942 | [77942-hi-ten-bomberman.json](./77942-hi-ten-bomberman.json) |
 | Hi-Ten Chara Bom | 64335 | [64335-hi-ten-chara-bom.json](./64335-hi-ten-chara-bom.json) |
