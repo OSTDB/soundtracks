@@ -82,6 +82,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ma première visite à la tour du sens | 345578 | [345578-ma-premiere-visite-a-la-tour-du-sens.json](./345578-ma-premiere-visite-a-la-tour-du-sens.json) |
 | Ma Puzzle | 181209 | [181209-ma-puzzle.json](./181209-ma-puzzle.json) |
 | Ma vie en rogue | 328978 | [328978-ma-vie-en-rogue.json](./328978-ma-vie-en-rogue.json) |
+| MA-RI-A: Ningyoukan no Noroi | 112053 | [112053-ma-ri-a-ningyoukan-no-noroi.json](./112053-ma-ri-a-ningyoukan-no-noroi.json) |
 | Ma3 | 252667 | [252667-ma3.json](./252667-ma3.json) |
 | MAAA | 112978 | [112978-maaa.json](./112978-maaa.json) |
 | Maanu: Academic Version | 254908 | [254908-maanu-academic-version.json](./254908-maanu-academic-version.json) |
@@ -14123,6 +14124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mouse Trophy | 59057 | [59057-mouse-trophy.json](./59057-mouse-trophy.json) |
 | Mouse Wants Cheese | 261308 | [261308-mouse-wants-cheese.json](./261308-mouse-wants-cheese.json) |
 | Mouse Work | 339137 | [339137-mouse-work.json](./339137-mouse-work.json) |
+| MouseBot | 112062 | [112062-mousebot.json](./112062-mousebot.json) |
 | MouseBot: Escape from CatLab | 157532 | [157532-mousebot-escape-from-catlab.json](./157532-mousebot-escape-from-catlab.json) |
 | Mousebound | 139290 | [139290-mousebound.json](./139290-mousebound.json) |
 | Mouseburg: Pursuit of Power | 362586 | [362586-mouseburg-pursuit-of-power.json](./362586-mouseburg-pursuit-of-power.json) |
@@ -16814,6 +16816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Case Files: The Black Veil | 56172 | [56172-mystery-case-files-the-black-veil.json](./56172-mystery-case-files-the-black-veil.json) |
 | Mystery Case Files: The Black Veil - Collector's Edition | 29794 | [29794-mystery-case-files-the-black-veil-collectors-edition.json](./29794-mystery-case-files-the-black-veil-collectors-edition.json) |
 | Mystery Case Files: The Countess | 140233 | [140233-mystery-case-files-the-countess.json](./140233-mystery-case-files-the-countess.json) |
+| Mystery Case Files: The Countess - Collector's Edition | 112057 | [112057-mystery-case-files-the-countess-collectors-edition.json](./112057-mystery-case-files-the-countess-collectors-edition.json) |
 | Mystery Case Files: The Dalimar Legacy - Collector's Edition | 243787 | [243787-mystery-case-files-the-dalimar-legacy-collectors-edition.json](./243787-mystery-case-files-the-dalimar-legacy-collectors-edition.json) |
 | Mystery Case Files: The Harbinger - Collector's Edition | 170214 | [170214-mystery-case-files-the-harbinger-collectors-edition.json](./170214-mystery-case-files-the-harbinger-collectors-edition.json) |
 | Mystery Case Files: The Last Resort | 247894 | [247894-mystery-case-files-the-last-resort.json](./247894-mystery-case-files-the-last-resort.json) |
