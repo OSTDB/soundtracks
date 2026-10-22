@@ -4762,6 +4762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Secret | 395129 | [395129-little-secret.json](./395129-little-secret.json) |
 | Little Shadow | 381602 | [381602-little-shadow.json](./381602-little-shadow.json) |
 | Little Shaker: Summer Adventures | 237623 | [237623-little-shaker-summer-adventures.json](./237623-little-shaker-summer-adventures.json) |
+| Little Sheep | 147709 | [147709-little-sheep.json](./147709-little-sheep.json) |
 | Little Sheep Valley | 403179 | [403179-little-sheep-valley.json](./403179-little-sheep-valley.json) |
 | Little Shell's Adventure | 156584 | [156584-little-shells-adventure.json](./156584-little-shells-adventure.json) |
 | Little Shop - World Traveler | 53277 | [53277-little-shop-world-traveler.json](./53277-little-shop-world-traveler.json) |
