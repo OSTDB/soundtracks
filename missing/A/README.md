@@ -410,6 +410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Gypsy's Tale: The Tower of Secrets | 109193 | [109193-a-gypsys-tale-the-tower-of-secrets.json](./109193-a-gypsys-tale-the-tower-of-secrets.json) |
 | A Halloween Valentine | 219975 | [219975-a-halloween-valentine.json](./219975-a-halloween-valentine.json) |
 | A Hand in the Darkness | 28800 | [28800-a-hand-in-the-darkness.json](./28800-a-hand-in-the-darkness.json) |
+| A Hand With Many Fingers | 129453 | [129453-a-hand-with-many-fingers.json](./129453-a-hand-with-many-fingers.json) |
 | A Handful of Keflings | 83948 | [83948-a-handful-of-keflings.json](./83948-a-handful-of-keflings.json) |
 | A Handful of Lewd Games | 337801 | [337801-a-handful-of-lewd-games.json](./337801-a-handful-of-lewd-games.json) |
 | A Happy New Year | 324964 | [324964-a-happy-new-year.json](./324964-a-happy-new-year.json) |
@@ -11328,6 +11329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ascent | 185340 | [185340-ascent.json](./185340-ascent.json) |
 | Ascent | 330540 | [330540-ascent.json](./330540-ascent.json) |
 | Ascent DX | 336896 | [336896-ascent-dx.json](./336896-ascent-dx.json) |
+| Ascent Free-Roaming VR Experience | 129415 | [129415-ascent-free-roaming-vr-experience.json](./129415-ascent-free-roaming-vr-experience.json) |
 | Ascent of Ashes | 226229 | [226229-ascent-of-ashes.json](./226229-ascent-of-ashes.json) |
 | Ascent of Eternity | 343427 | [343427-ascent-of-eternity.json](./343427-ascent-of-eternity.json) |
 | Ascent of Kings | 85506 | [85506-ascent-of-kings.json](./85506-ascent-of-kings.json) |
