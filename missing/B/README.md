@@ -1541,6 +1541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Band-kun | 170248 | [170248-band-kun.json](./170248-band-kun.json) |
 | Bandage on my right cheek | 28087 | [28087-bandage-on-my-right-cheek.json](./28087-bandage-on-my-right-cheek.json) |
 | Bandai Golf: Challenge Pebble Beach | 9285 | [9285-bandai-golf-challenge-pebble-beach.json](./9285-bandai-golf-challenge-pebble-beach.json) |
+| Bandai Namco Games Presents: J Legend Retsuden | 136907 | [136907-bandai-namco-games-presents-j-legend-retsuden.json](./136907-bandai-namco-games-presents-j-legend-retsuden.json) |
 | Bandai Namco Games Presents: J Legend Retsuden | 63114 | [63114-bandai-namco-games-presents-j-legend-retsuden.json](./63114-bandai-namco-games-presents-j-legend-retsuden.json) |
 | Bandana City | 93067 | [93067-bandana-city.json](./93067-bandana-city.json) |
 | Bandeirantes: The Game. | 347348 | [347348-bandeirantes-the-game.json](./347348-bandeirantes-the-game.json) |
@@ -3583,6 +3584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bayonetta 2 | 279336 | [279336-bayonetta-2.json](./279336-bayonetta-2.json) |
 | Bayonetta 2: Bonus Edition | 51154 | [51154-bayonetta-2-bonus-edition.json](./51154-bayonetta-2-bonus-edition.json) |
 | Bayonetta 2: First Print Edition | 51187 | [51187-bayonetta-2-first-print-edition.json](./51187-bayonetta-2-first-print-edition.json) |
+| Bayonetta: Nonstop Climax Edition | 136898 | [136898-bayonetta-nonstop-climax-edition.json](./136898-bayonetta-nonstop-climax-edition.json) |
 | Bayou Boats | 387711 | [387711-bayou-boats.json](./387711-bayou-boats.json) |
 | Bazaar | 19033 | [19033-bazaar.json](./19033-bazaar.json) |
 | Bazaar Simulator | 312155 | [312155-bazaar-simulator.json](./312155-bazaar-simulator.json) |
@@ -4635,6 +4637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Before the Echo | 9780 | [9780-before-the-echo.json](./9780-before-the-echo.json) |
 | Before the explosion | 204810 | [204810-before-the-explosion.json](./204810-before-the-explosion.json) |
 | Before the Fall | 411540 | [411540-before-the-fall.json](./411540-before-the-fall.json) |
+| Before the Great | 136706 | [136706-before-the-great.json](./136706-before-the-great.json) |
 | Before the Last Hour | 200428 | [200428-before-the-last-hour.json](./200428-before-the-last-hour.json) |
 | Before the Legacy | 71165 | [71165-before-the-legacy.json](./71165-before-the-legacy.json) |
 | Before The Mine | 281958 | [281958-before-the-mine.json](./281958-before-the-mine.json) |
@@ -9558,6 +9561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bokuaso | 98005 | [98005-bokuaso.json](./98005-bokuaso.json) |
 | Bokuaso2 | 97826 | [97826-bokuaso2.json](./97826-bokuaso2.json) |
 | Bokube | 37000 | [37000-bokube.json](./37000-bokube.json) |
+| Bokujou Monogatari: Futago no Mura+ | 136904 | [136904-bokujou-monogatari-futago-no-mura.json](./136904-bokujou-monogatari-futago-no-mura.json) |
 | Bokura ga Koko ni Iru Fushigi. | 131381 | [131381-bokura-ga-koko-ni-iru-fushigi.json](./131381-bokura-ga-koko-ni-iru-fushigi.json) |
 | Bokura no Daiundoukai | 165436 | [165436-bokura-no-daiundoukai.json](./165436-bokura-no-daiundoukai.json) |
 | Bokura no Gakkou Sensou: Tsuukai Adventure | 222534 | [222534-bokura-no-gakkou-sensou-tsuukai-adventure.json](./222534-bokura-no-gakkou-sensou-tsuukai-adventure.json) |
