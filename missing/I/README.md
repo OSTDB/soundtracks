@@ -2653,6 +2653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Indoor Soccer | 39839 | [39839-indoor-soccer.json](./39839-indoor-soccer.json) |
 | Indoor Soccer for the TI 99/4A | 93990 | [93990-indoor-soccer-for-the-ti-99-4a.json](./93990-indoor-soccer-for-the-ti-99-4a.json) |
 | Indoor Sports World | 52246 | [52246-indoor-sports-world.json](./52246-indoor-sports-world.json) |
+| Indoorlands | 151517 | [151517-indoorlands.json](./151517-indoorlands.json) |
 | Indoors: The Alston Manor | 269005 | [269005-indoors-the-alston-manor.json](./269005-indoors-the-alston-manor.json) |
 | Indoors: Trespasser | 418544 | [418544-indoors-trespasser.json](./418544-indoors-trespasser.json) |
 | Indoras: The Whispering Shard | 333134 | [333134-indoras-the-whispering-shard.json](./333134-indoras-the-whispering-shard.json) |
@@ -5072,6 +5073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It Takes Many | 370188 | [370188-it-takes-many.json](./370188-it-takes-many.json) |
 | It Takes One Year To Beat This Game | 339307 | [339307-it-takes-one-year-to-beat-this-game.json](./339307-it-takes-one-year-to-beat-this-game.json) |
 | It Takes Paws | 416564 | [416564-it-takes-paws.json](./416564-it-takes-paws.json) |
+| It Takes the Ball | 151586 | [151586-it-takes-the-ball.json](./151586-it-takes-the-ball.json) |
 | It Takes Two Girls | 190073 | [190073-it-takes-two-girls.json](./190073-it-takes-two-girls.json) |
 | It Takes Two to Tangle | 321129 | [321129-it-takes-two-to-tangle.json](./321129-it-takes-two-to-tangle.json) |
 | It Was a Human | 218522 | [218522-it-was-a-human.json](./218522-it-was-a-human.json) |
