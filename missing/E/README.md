@@ -514,6 +514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eat the Rich | 285024 | [285024-eat-the-rich.json](./285024-eat-the-rich.json) |
 | Eat the Wounded | 161590 | [161590-eat-the-wounded.json](./161590-eat-the-wounded.json) |
 | Eat This | 299468 | [299468-eat-this.json](./299468-eat-this.json) |
+| Eat this! | 120004 | [120004-eat-this.json](./120004-eat-this.json) |
 | Eat Your Fucking Soup | 239774 | [239774-eat-your-fucking-soup.json](./239774-eat-your-fucking-soup.json) |
 | Eat Your Vegetables! | 265754 | [265754-eat-your-vegetables.json](./265754-eat-your-vegetables.json) |
 | Eat Your Words | 104798 | [104798-eat-your-words.json](./104798-eat-your-words.json) |
@@ -3945,6 +3946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape from Castle Chezcrea | 256851 | [256851-escape-from-castle-chezcrea.json](./256851-escape-from-castle-chezcrea.json) |
 | Escape From Castle Frankenstein | 305982 | [305982-escape-from-castle-frankenstein.json](./305982-escape-from-castle-frankenstein.json) |
 | Escape From Castle Orochi | 319839 | [319839-escape-from-castle-orochi.json](./319839-escape-from-castle-orochi.json) |
+| Escape from Classroom | 120018 | [120018-escape-from-classroom.json](./120018-escape-from-classroom.json) |
 | Escape From Clive | 339767 | [339767-escape-from-clive.json](./339767-escape-from-clive.json) |
 | Escape From Cluckov | 378314 | [378314-escape-from-cluckov.json](./378314-escape-from-cluckov.json) |
 | Escape From Complex 32 | 204213 | [204213-escape-from-complex-32.json](./204213-escape-from-complex-32.json) |
@@ -5147,6 +5149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evening Starter | 163765 | [163765-evening-starter.json](./163765-evening-starter.json) |
 | Evening Vibes | 217020 | [217020-evening-vibes.json](./217020-evening-vibes.json) |
 | Evens Only | 175116 | [175116-evens-only.json](./175116-evens-only.json) |
+| Event Horizon | 120027 | [120027-event-horizon.json](./120027-event-horizon.json) |
 | Event Horizon | 271755 | [271755-event-horizon.json](./271755-event-horizon.json) |
 | Event Horizon | 295086 | [295086-event-horizon.json](./295086-event-horizon.json) |
 | Event Horizon | 32923 | [32923-event-horizon.json](./32923-event-horizon.json) |
