@@ -4394,6 +4394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liong: the Lost Amulets | 144209 | [144209-liong-the-lost-amulets.json](./144209-liong-the-lost-amulets.json) |
 | Lionheart | 25687 | [25687-lionheart.json](./25687-lionheart.json) |
 | Lionheart | 82018 | [82018-lionheart.json](./82018-lionheart.json) |
+| Lionheart Tactics | 102007 | [102007-lionheart-tactics.json](./102007-lionheart-tactics.json) |
 | Lionheart: Dark Moon | 75209 | [75209-lionheart-dark-moon.json](./75209-lionheart-dark-moon.json) |
 | Lionheart: Legacy of the Crusader | 7505 | [7505-lionheart-legacy-of-the-crusader.json](./7505-lionheart-legacy-of-the-crusader.json) |
 | Lionhearts | 398560 | [398560-lionhearts.json](./398560-lionhearts.json) |
