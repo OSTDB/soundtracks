@@ -6249,6 +6249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Hearts | 379724 | [379724-lost-hearts.json](./379724-lost-hearts.json) |
 | Lost Heroes | 184333 | [184333-lost-heroes.json](./184333-lost-heroes.json) |
 | Lost Heroes | 64953 | [64953-lost-heroes.json](./64953-lost-heroes.json) |
+| Lost Heroes 2 | 136916 | [136916-lost-heroes-2.json](./136916-lost-heroes-2.json) |
 | Lost Hope | 285919 | [285919-lost-hope.json](./285919-lost-hope.json) |
 | Lost Hope: Backrooms | 266786 | [266786-lost-hope-backrooms.json](./266786-lost-hope-backrooms.json) |
 | Lost Hopes: Day of Betrayal | 415468 | [415468-lost-hopes-day-of-betrayal.json](./415468-lost-hopes-day-of-betrayal.json) |
