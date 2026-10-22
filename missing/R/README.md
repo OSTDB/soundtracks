@@ -3484,6 +3484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reflexia Prototype ver. | 224749 | [224749-reflexia-prototype-ver.json](./224749-reflexia-prototype-ver.json) |
 | Reflexia: The Archetype's Room of Three Walls | 239686 | [239686-reflexia-the-archetypes-room-of-three-walls.json](./239686-reflexia-the-archetypes-room-of-three-walls.json) |
 | Reflow | 256755 | [256755-reflow.json](./256755-reflow.json) |
+| Refoil | 115351 | [115351-refoil.json](./115351-refoil.json) |
 | Reforged TD | 150586 | [150586-reforged-td.json](./150586-reforged-td.json) |
 | Reforj | 317076 | [317076-reforj.json](./317076-reforj.json) |
 | Reformers Intl Ver | 102250 | [102250-reformers-intl-ver.json](./102250-reformers-intl-ver.json) |
@@ -8251,6 +8252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rollo Pollo | 348352 | [348352-rollo-pollo.json](./348352-rollo-pollo.json) |
 | RollocoBall | 26598 | [26598-rollocoball.json](./26598-rollocoball.json) |
 | RollOn | 194388 | [194388-rollon.json](./194388-rollon.json) |
+| Rollossus | 115372 | [115372-rollossus.json](./115372-rollossus.json) |
 | Rollout | 31870 | [31870-rollout.json](./31870-rollout.json) |
 | Rollout Inline | 418263 | [418263-rollout-inline.json](./418263-rollout-inline.json) |
 | RollOver | 72302 | [72302-rollover.json](./72302-rollover.json) |
