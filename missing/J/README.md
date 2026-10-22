@@ -2870,6 +2870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JunkStar | 183265 | [183265-junkstar.json](./183265-junkstar.json) |
 | Junkworld | 174745 | [174745-junkworld.json](./174745-junkworld.json) |
 | Junkyard Apocalypse | 243943 | [243943-junkyard-apocalypse.json](./243943-junkyard-apocalypse.json) |
+| Junkyard Builder | 154905 | [154905-junkyard-builder.json](./154905-junkyard-builder.json) |
 | Junkyard Builder Simulator | 174883 | [174883-junkyard-builder-simulator.json](./174883-junkyard-builder-simulator.json) |
 | Junkyard Builder Simulator | 390537 | [390537-junkyard-builder-simulator.json](./390537-junkyard-builder-simulator.json) |
 | Junkyard Builder: King Of Scrap | 414445 | [414445-junkyard-builder-king-of-scrap.json](./414445-junkyard-builder-king-of-scrap.json) |
