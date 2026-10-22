@@ -1790,6 +1790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neo-Programs | 186067 | [186067-neo-programs.json](./186067-neo-programs.json) |
 | Neo-Sonic: Godspeed | 330286 | [330286-neo-sonic-godspeed.json](./330286-neo-sonic-godspeed.json) |
 | Neo-Zero | 160271 | [160271-neo-zero.json](./160271-neo-zero.json) |
+| Neo: Commanders | 154882 | [154882-neo-commanders.json](./154882-neo-commanders.json) |
 | Neo: The Rainbow Sorcerer | 357308 | [357308-neo-the-rainbow-sorcerer.json](./357308-neo-the-rainbow-sorcerer.json) |
 | Neo: The World Ends with You x Field Walk RPG | 362436 | [362436-neo-the-world-ends-with-you-x-field-walk-rpg.json](./362436-neo-the-world-ends-with-you-x-field-walk-rpg.json) |
 | Neo's Land | 61632 | [61632-neos-land.json](./61632-neos-land.json) |
@@ -3445,6 +3446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night World | 178057 | [178057-night-world.json](./178057-night-world.json) |
 | Night-Runners Prologue | 281485 | [281485-night-runners-prologue.json](./281485-night-runners-prologue.json) |
 | Night, Hood and the Mysterious Traveller | 276780 | [276780-night-hood-and-the-mysterious-traveller.json](./276780-night-hood-and-the-mysterious-traveller.json) |
+| Night: Silent Killer | 154894 | [154894-night-silent-killer.json](./154894-night-silent-killer.json) |
 | Night/Shade: You're the Drug | 142961 | [142961-night-shade-youre-the-drug.json](./142961-night-shade-youre-the-drug.json) |
 | Night&Scape | 237052 | [237052-night-and-scape.json](./237052-night-and-scape.json) |
 | Nightbanes | 9518 | [9518-nightbanes.json](./9518-nightbanes.json) |
