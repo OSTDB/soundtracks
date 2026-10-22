@@ -678,6 +678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Dream: Memories | 133929 | [133929-bad-dream-memories.json](./133929-bad-dream-memories.json) |
 | Bad Dream: Purgatory | 244724 | [244724-bad-dream-purgatory.json](./244724-bad-dream-purgatory.json) |
 | Bad Dream: Series | 179624 | [179624-bad-dream-series.json](./179624-bad-dream-series.json) |
+| Bad Dreams | 154299 | [154299-bad-dreams.json](./154299-bad-dreams.json) |
 | Bad Dreams | 69571 | [69571-bad-dreams.json](./69571-bad-dreams.json) |
 | Bad Dreams: Free Dive | 266974 | [266974-bad-dreams-free-dive.json](./266974-bad-dreams-free-dive.json) |
 | Bad Drummer Simulator | 178598 | [178598-bad-drummer-simulator.json](./178598-bad-drummer-simulator.json) |
@@ -840,6 +841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bahnfrei | 398409 | [398409-bahnfrei.json](./398409-bahnfrei.json) |
 | Bahnsen Knights | 210566 | [210566-bahnsen-knights.json](./210566-bahnsen-knights.json) |
 | Bahnsim Pro | 145284 | [145284-bahnsim-pro.json](./145284-bahnsim-pro.json) |
+| Bai Qu: Hundreds of Melodies | 154325 | [154325-bai-qu-hundreds-of-melodies.json](./154325-bai-qu-hundreds-of-melodies.json) |
 | Bái Xiǎo | 195266 | [195266-bai-xiao.json](./195266-bai-xiao.json) |
 | Baia | 334498 | [334498-baia.json](./334498-baia.json) |
 | Baikinman wo Yattsukero! | 300006 | [300006-baikinman-wo-yattsukero.json](./300006-baikinman-wo-yattsukero.json) |
@@ -2665,6 +2667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Batoni | 216123 | [216123-batoni.json](./216123-batoni.json) |
 | Bats | 118285 | [118285-bats.json](./118285-bats.json) |
 | Bats & Terry | 48609 | [48609-bats-and-terry.json](./48609-bats-and-terry.json) |
+| BATS: Bloodsucker Anti-Terror Squad | 154312 | [154312-bats-bloodsucker-anti-terror-squad.json](./154312-bats-bloodsucker-anti-terror-squad.json) |
 | Batsu Maru | 189894 | [189894-batsu-maru.json](./189894-batsu-maru.json) |
 | Batsu! | 160215 | [160215-batsu.json](./160215-batsu.json) |
 | Batsugun | 292117 | [292117-batsugun.json](./292117-batsugun.json) |
@@ -11831,6 +11834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brick Breaker Bunch | 87968 | [87968-brick-breaker-bunch.json](./87968-brick-breaker-bunch.json) |
 | Brick Breaker DEMOLITION | 312645 | [312645-brick-breaker-demolition.json](./312645-brick-breaker-demolition.json) |
 | Brick Breaker Dungeon | 256458 | [256458-brick-breaker-dungeon.json](./256458-brick-breaker-dungeon.json) |
+| Brick Breaker Heart Collector | 154295 | [154295-brick-breaker-heart-collector.json](./154295-brick-breaker-heart-collector.json) |
 | Brick Breaker Hero | 235267 | [235267-brick-breaker-hero.json](./235267-brick-breaker-hero.json) |
 | Brick Breaker II Turbo | 69761 | [69761-brick-breaker-ii-turbo.json](./69761-brick-breaker-ii-turbo.json) |
 | Brick Breaker Infinity | 305932 | [305932-brick-breaker-infinity.json](./305932-brick-breaker-infinity.json) |
@@ -11882,6 +11886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BrickArena | 100345 | [100345-brickarena.json](./100345-brickarena.json) |
 | BrickAttack | 76151 | [76151-brickattack.json](./76151-brickattack.json) |
 | BrickBounce | 273381 | [273381-brickbounce.json](./273381-brickbounce.json) |
+| Brickbuilder VR | 154302 | [154302-brickbuilder-vr.json](./154302-brickbuilder-vr.json) |
 | Brickbuster | 77190 | [77190-brickbuster.json](./77190-brickbuster.json) |
 | Brickdown | 184741 | [184741-brickdown.json](./184741-brickdown.json) |
 | Brickerang | 413591 | [413591-brickerang.json](./413591-brickerang.json) |
