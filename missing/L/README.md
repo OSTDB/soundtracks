@@ -18,6 +18,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | L-Racers | 207180 | [207180-l-racers.json](./207180-l-racers.json) |
 | L-Room | 262936 | [262936-l-room.json](./262936-l-room.json) |
 | L-RPG | 98036 | [98036-l-rpg.json](./98036-l-rpg.json) |
+| L-Way | 105150 | [105150-l-way.json](./105150-l-way.json) |
 | L: An Interactive Mystery | 178883 | [178883-l-an-interactive-mystery.json](./178883-l-an-interactive-mystery.json) |
 | L. Frank Baum's: The Wonderful Wizard of Oz | 64852 | [64852-l-frank-baums-the-wonderful-wizard-of-oz.json](./64852-l-frank-baums-the-wonderful-wizard-of-oz.json) |
 | L.A. 2 | 92125 | [92125-l-a-2.json](./92125-l-a-2.json) |
@@ -3458,6 +3459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life After Death | 215340 | [215340-life-after-death.json](./215340-life-after-death.json) |
 | Life After End | 233957 | [233957-life-after-end.json](./233957-life-after-end.json) |
 | Life After Magic | 215863 | [215863-life-after-magic.json](./215863-life-after-magic.json) |
+| Life After the Living | 105144 | [105144-life-after-the-living.json](./105144-life-after-the-living.json) |
 | Life and Death 2 | 187804 | [187804-life-and-death-2.json](./187804-life-and-death-2.json) |
 | Life And Death Are Predetermined by Heaven | 330555 | [330555-life-and-death-are-predetermined-by-heaven.json](./330555-life-and-death-are-predetermined-by-heaven.json) |
 | Life and Death: A Journey of Star-Crossed Lovers | 314296 | [314296-life-and-death-a-journey-of-star-crossed-lovers.json](./314296-life-and-death-a-journey-of-star-crossed-lovers.json) |
@@ -6686,6 +6688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Louny Balloony | 217378 | [217378-louny-balloony.json](./217378-louny-balloony.json) |
 | LouveSystems' TrackMasters | 167607 | [167607-louvesystems-trackmasters.json](./167607-louvesystems-trackmasters.json) |
 | Lovanium: The Rising Suns | 265633 | [265633-lovanium-the-rising-suns.json](./265633-lovanium-the-rising-suns.json) |
+| Love | 105034 | [105034-love.json](./105034-love.json) |
 | Love | 16912 | [16912-love.json](./16912-love.json) |
 | Love & Destroy | 63368 | [63368-love-and-destroy.json](./63368-love-and-destroy.json) |
 | Love & Diaries: Duncan | 299421 | [299421-love-and-diaries-duncan.json](./299421-love-and-diaries-duncan.json) |
