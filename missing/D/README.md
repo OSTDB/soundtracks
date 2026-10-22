@@ -7537,6 +7537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dirty Bomb | 1902 | [1902-dirty-bomb.json](./1902-dirty-bomb.json) |
 | Dirty Business | 398532 | [398532-dirty-business.json](./398532-dirty-business.json) |
 | Dirty Cop | 323807 | [323807-dirty-cop.json](./323807-dirty-cop.json) |
+| Dirty Cop Simulator | 149910 | [149910-dirty-cop-simulator.json](./149910-dirty-cop-simulator.json) |
 | Dirty Crown Scandal | 303302 | [303302-dirty-crown-scandal.json](./303302-dirty-crown-scandal.json) |
 | Dirty Dancing | 21491 | [21491-dirty-dancing.json](./21491-dirty-dancing.json) |
 | Dirty Dirty Pirates | 236790 | [236790-dirty-dirty-pirates.json](./236790-dirty-dirty-pirates.json) |
