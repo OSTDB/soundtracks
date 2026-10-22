@@ -7745,6 +7745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horizon Valley | 360690 | [360690-horizon-valley.json](./360690-horizon-valley.json) |
 | Horizon Vanguard | 55249 | [55249-horizon-vanguard.json](./55249-horizon-vanguard.json) |
 | Horizon Walker | 330256 | [330256-horizon-walker.json](./330256-horizon-walker.json) |
+| Horizon Worlds | 144650 | [144650-horizon-worlds.json](./144650-horizon-worlds.json) |
 | Horizon X | 57645 | [57645-horizon-x.json](./57645-horizon-x.json) |
 | Horizon Zero Dawn: Complete Edition | 72870 | [72870-horizon-zero-dawn-complete-edition.json](./72870-horizon-zero-dawn-complete-edition.json) |
 | Horizon Zero Dawn: Limited Edition | 136150 | [136150-horizon-zero-dawn-limited-edition.json](./136150-horizon-zero-dawn-limited-edition.json) |
