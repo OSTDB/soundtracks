@@ -34,6 +34,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | M.C Kids | 2718 | [2718-m-c-kids.json](./2718-m-c-kids.json) |
 | M.C Kids | 285032 | [285032-m-c-kids.json](./285032-m-c-kids.json) |
 | M.Duck | 197797 | [197797-m-duck.json](./197797-m-duck.json) |
+| M.E.A.T. | 143408 | [143408-m-e-a-t.json](./143408-m-e-a-t.json) |
 | M.E.A.T. II: Absolute Zero | 225190 | [225190-m-e-a-t-ii-absolute-zero.json](./225190-m-e-a-t-ii-absolute-zero.json) |
 | M.E.C.H.A.: Memory Erasure Control of Hover Attractor | 348770 | [348770-m-e-c-h-a-memory-erasure-control-of-hover-attractor.json](./348770-m-e-c-h-a-memory-erasure-control-of-hover-attractor.json) |
 | M.E.R.C. | 26540 | [26540-m-e-r-c.json](./26540-m-e-r-c.json) |
@@ -2236,6 +2237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Manahex | 291598 | [291598-manahex.json](./291598-manahex.json) |
 | Manairons | 369857 | [369857-manairons.json](./369857-manairons.json) |
 | Manakoto Hitomi no Bawai | 268135 | [268135-manakoto-hitomi-no-bawai.json](./268135-manakoto-hitomi-no-bawai.json) |
+| Manalith | 142902 | [142902-manalith.json](./142902-manalith.json) |
 | Manall's FF1 | 309580 | [309580-manalls-ff1.json](./309580-manalls-ff1.json) |
 | ManaRocks | 77163 | [77163-manarocks.json](./77163-manarocks.json) |
 | Manas | 249359 | [249359-manas.json](./249359-manas.json) |
@@ -3693,6 +3695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvel's Avengers: Exclusive Digital Edition | 133844 | [133844-marvels-avengers-exclusive-digital-edition.json](./133844-marvels-avengers-exclusive-digital-edition.json) |
 | Marvel's Avengers: Hawkeye - Future Imperfect | 138181 | [138181-marvels-avengers-hawkeye-future-imperfect.json](./138181-marvels-avengers-hawkeye-future-imperfect.json) |
 | Marvel's Avengers: Kate Bishop - Taking AIM | 138179 | [138179-marvels-avengers-kate-bishop-taking-aim.json](./138179-marvels-avengers-kate-bishop-taking-aim.json) |
+| Marvel's Avengers: Spider-Man - With Great Power | 143538 | [143538-marvels-avengers-spider-man-with-great-power.json](./143538-marvels-avengers-spider-man-with-great-power.json) |
 | Marvel's Blade | 279646 | [279646-marvels-blade.json](./279646-marvels-blade.json) |
 | Marvel's Guardians of the Galaxy & Marvel's Avenger's: Deluxe Bundle | 218480 | [218480-marvels-guardians-of-the-galaxy-and-marvels-avengers-deluxe-bundle.json](./218480-marvels-guardians-of-the-galaxy-and-marvels-avengers-deluxe-bundle.json) |
 | Marvel's Guardians of the Galaxy: Cloud Version | 152370 | [152370-marvels-guardians-of-the-galaxy-cloud-version.json](./152370-marvels-guardians-of-the-galaxy-cloud-version.json) |
@@ -9049,6 +9052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Milk the Cow | 397419 | [397419-milk-the-cow.json](./397419-milk-the-cow.json) |
 | Milkblood | 241031 | [241031-milkblood.json](./241031-milkblood.json) |
 | MilkChoco | 104019 | [104019-milkchoco.json](./104019-milkchoco.json) |
+| Milkcraft | 142671 | [142671-milkcraft.json](./142671-milkcraft.json) |
 | Milker Clicker | 367062 | [367062-milker-clicker.json](./367062-milker-clicker.json) |
 | Milki Delivery | 385308 | [385308-milki-delivery.json](./385308-milki-delivery.json) |
 | Milkman Karlson | 135213 | [135213-milkman-karlson.json](./135213-milkman-karlson.json) |
@@ -9368,6 +9372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MindLoop | 365195 | [365195-mindloop.json](./365195-mindloop.json) |
 | Mindmazer | 180646 | [180646-mindmazer.json](./180646-mindmazer.json) |
 | MindMessenger | 342156 | [342156-mindmessenger.json](./342156-mindmessenger.json) |
+| Mindmist | 142653 | [142653-mindmist.json](./142653-mindmist.json) |
 | Mindnight | 52260 | [52260-mindnight.json](./52260-mindnight.json) |
 | Mindread | 293992 | [293992-mindread.json](./293992-mindread.json) |
 | Minds Beneath Us | 152379 | [152379-minds-beneath-us.json](./152379-minds-beneath-us.json) |
@@ -12678,6 +12683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mooh | 307214 | [307214-mooh.json](./307214-mooh.json) |
 | MookerzZ | 252377 | [252377-mookerzz.json](./252377-mookerzz.json) |
 | Mooky Takes Manhattan! | 261306 | [261306-mooky-takes-manhattan.json](./261306-mooky-takes-manhattan.json) |
+| Moolii's Dreamland | 142664 | [142664-mooliis-dreamland.json](./142664-mooliis-dreamland.json) |
 | Moomi & Spike | 316359 | [316359-moomi-and-spike.json](./316359-moomi-and-spike.json) |
 | Moomin Midsummer Madness | 404859 | [404859-moomin-midsummer-madness.json](./404859-moomin-midsummer-madness.json) |
 | Moomin no Suteki na Present | 230276 | [230276-moomin-no-suteki-na-present.json](./230276-moomin-no-suteki-na-present.json) |
