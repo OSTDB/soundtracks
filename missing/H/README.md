@@ -4370,6 +4370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heresy | 34240 | [34240-heresy.json](./34240-heresy.json) |
 | Heresy Simulator | 174125 | [174125-heresy-simulator.json](./174125-heresy-simulator.json) |
 | Heretic + Hexen | 360141 | [360141-heretic-hexen.json](./360141-heretic-hexen.json) |
+| Heretic + Hexen Collection | 154327 | [154327-heretic-hexen-collection.json](./154327-heretic-hexen-collection.json) |
 | Heretic Amplified | 268775 | [268775-heretic-amplified.json](./268775-heretic-amplified.json) |
 | Heretic II | 20752 | [20752-heretic-ii.json](./20752-heretic-ii.json) |
 | Heretic Invades Doom | 316984 | [316984-heretic-invades-doom.json](./316984-heretic-invades-doom.json) |
@@ -6336,6 +6337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Historia Battles WW2 CFEL | 134007 | [134007-historia-battles-ww2-cfel.json](./134007-historia-battles-ww2-cfel.json) |
 | Historic Fighters | 161370 | [161370-historic-fighters.json](./161370-historic-fighters.json) |
 | Historical Invaders | 291880 | [291880-historical-invaders.json](./291880-historical-invaders.json) |
+| Historical Jigsaw Puzzle: World War I | 154287 | [154287-historical-jigsaw-puzzle-world-war-i.json](./154287-historical-jigsaw-puzzle-world-war-i.json) |
 | Historical Trilogy | 218494 | [218494-historical-trilogy.json](./218494-historical-trilogy.json) |
 | HistoriCity: Florence | 262859 | [262859-historicity-florence.json](./262859-historicity-florence.json) |
 | Historium VR - Relive the history of Bruges | 30290 | [30290-historium-vr-relive-the-history-of-bruges.json](./30290-historium-vr-relive-the-history-of-bruges.json) |
@@ -7135,6 +7137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Home: Postmortem Edition | 146776 | [146776-home-postmortem-edition.json](./146776-home-postmortem-edition.json) |
 | Home's Embrace | 177403 | [177403-homes-embrace.json](./177403-homes-embrace.json) |
 | Homebody | 202698 | [202698-homebody.json](./202698-homebody.json) |
+| Homebound | 154317 | [154317-homebound.json](./154317-homebound.json) |
 | Homebound | 176709 | [176709-homebound.json](./176709-homebound.json) |
 | Homebound | 178519 | [178519-homebound.json](./178519-homebound.json) |
 | Homebound | 264550 | [264550-homebound.json](./264550-homebound.json) |
