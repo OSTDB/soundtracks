@@ -12436,6 +12436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atari Anniversary Advance | 80442 | [80442-atari-anniversary-advance.json](./80442-atari-anniversary-advance.json) |
 | Atari Anniversary Edition Redux | 43923 | [43923-atari-anniversary-edition-redux.json](./43923-atari-anniversary-edition-redux.json) |
 | Atari Anthology | 338673 | [338673-atari-anthology.json](./338673-atari-anthology.json) |
+| Atari Arcade 1 | 149293 | [149293-atari-arcade-1.json](./149293-atari-arcade-1.json) |
 | Atari Arcade Hits: Volume 1 | 80627 | [80627-atari-arcade-hits-volume-1.json](./80627-atari-arcade-hits-volume-1.json) |
 | Atari Basketball | 131421 | [131421-atari-basketball.json](./131421-atari-basketball.json) |
 | Atari Classics Games | 301495 | [301495-atari-classics-games.json](./301495-atari-classics-games.json) |
@@ -13071,6 +13072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | August 31 | 202240 | [202240-august-31.json](./202240-august-31.json) |
 | August Ends | 318140 | [318140-august-ends.json](./318140-august-ends.json) |
 | August Night | 217858 | [217858-august-night.json](./217858-august-night.json) |
+| August of August | 149350 | [149350-august-of-august.json](./149350-august-of-august.json) |
 | Auld Lang Syne: Cat and Mouse | 305361 | [305361-auld-lang-syne-cat-and-mouse.json](./305361-auld-lang-syne-cat-and-mouse.json) |
 | Auldhame | 177747 | [177747-auldhame.json](./177747-auldhame.json) |
 | Aum the Game | 369118 | [369118-aum-the-game.json](./369118-aum-the-game.json) |
