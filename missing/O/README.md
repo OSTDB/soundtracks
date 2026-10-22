@@ -3357,6 +3357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ortus Arena | 24766 | [24766-ortus-arena.json](./24766-ortus-arena.json) |
 | Ortus Regni | 32621 | [32621-ortus-regni.json](./32621-ortus-regni.json) |
 | Orudo Taima | 184884 | [184884-orudo-taima.json](./184884-orudo-taima.json) |
+| Orufure-ru: Koufuku no Hanataba | 130026 | [130026-orufure-ru-koufuku-no-hanataba.json](./130026-orufure-ru-koufuku-no-hanataba.json) |
 | Orun | 411713 | [411713-orun.json](./411713-orun.json) |
 | Oruna | 139420 | [139420-oruna.json](./139420-oruna.json) |
 | Orwell: Deluxe Edition | 51859 | [51859-orwell-deluxe-edition.json](./51859-orwell-deluxe-edition.json) |
