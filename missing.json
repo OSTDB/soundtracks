@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-22T19:52:17.555Z",
-  "total_missing": 247957,
+  "generated_at": "2026-10-22T20:06:57.115Z",
+  "total_missing": 248008,
   "games": [
     {
       "igdb_id": 191680,
@@ -27487,6 +27487,11 @@
       "file": "missing/A/8130-adventures-in-the-magic-kingdom.json"
     },
     {
+      "igdb_id": 342233,
+      "game_name": "Adventures In Time & Space",
+      "file": "missing/A/342233-adventures-in-time-and-space.json"
+    },
+    {
       "igdb_id": 134695,
       "game_name": "Adventures of a Radish",
       "file": "missing/A/134695-adventures-of-a-radish.json"
@@ -51385,6 +51390,11 @@
       "igdb_id": 108854,
       "game_name": "Animal Cove: Match 3 Adventure",
       "file": "missing/A/108854-animal-cove-match-3-adventure.json"
+    },
+    {
+      "igdb_id": 108736,
+      "game_name": "Animal Cove: Solve Puzzles & Customize Your Island",
+      "file": "missing/A/108736-animal-cove-solve-puzzles-and-customize-your-island.json"
     },
     {
       "igdb_id": 177567,
@@ -88170,11 +88180,6 @@
       "igdb_id": 243757,
       "game_name": "Bad Piggies Build",
       "file": "missing/B/243757-bad-piggies-build.json"
-    },
-    {
-      "igdb_id": 221410,
-      "game_name": "Bad Piggies HD",
-      "file": "missing/B/221410-bad-piggies-hd.json"
     },
     {
       "igdb_id": 243756,
@@ -135572,6 +135577,11 @@
       "file": "missing/B/100891-boom-blaster.json"
     },
     {
+      "igdb_id": 108733,
+      "game_name": "Boom Block",
+      "file": "missing/B/108733-boom-block.json"
+    },
+    {
       "igdb_id": 120118,
       "game_name": "Boom Boom Bovine",
       "file": "missing/B/120118-boom-boom-bovine.json"
@@ -167160,6 +167170,11 @@
       "igdb_id": 404216,
       "game_name": "Carpark Hero",
       "file": "missing/C/404216-carpark-hero.json"
+    },
+    {
+      "igdb_id": 108757,
+      "game_name": "Carpathian Night",
+      "file": "missing/C/108757-carpathian-night.json"
     },
     {
       "igdb_id": 330234,
@@ -231212,6 +231227,11 @@
       "file": "missing/C/33381-cubium-dreams.json"
     },
     {
+      "igdb_id": 108774,
+      "game_name": "Cubiverse",
+      "file": "missing/C/108774-cubiverse.json"
+    },
+    {
       "igdb_id": 3865,
       "game_name": "Cubivore: Survival of the Fittest",
       "file": "missing/C/3865-cubivore-survival-of-the-fittest.json"
@@ -263505,6 +263525,11 @@
       "igdb_id": 61348,
       "game_name": "Denpa Ningen no RPG Free!",
       "file": "missing/D/61348-denpa-ningen-no-rpg-free.json"
+    },
+    {
+      "igdb_id": 108784,
+      "game_name": "Denpa Shounenteki Game",
+      "file": "missing/D/108784-denpa-shounenteki-game.json"
     },
     {
       "igdb_id": 418820,
@@ -331652,6 +331677,11 @@
       "file": "missing/E/122842-errant-kingdom.json"
     },
     {
+      "igdb_id": 108745,
+      "game_name": "Errant: Hunter's Soul",
+      "file": "missing/E/108745-errant-hunters-soul.json"
+    },
+    {
       "igdb_id": 200748,
       "game_name": "Errant: Hunter's Soul",
       "file": "missing/E/200748-errant-hunters-soul.json"
@@ -375107,6 +375137,11 @@
       "file": "missing/F/192931-fleurbirdshoot.json"
     },
     {
+      "igdb_id": 108747,
+      "game_name": "Flewberry",
+      "file": "missing/F/108747-flewberry.json"
+    },
+    {
       "igdb_id": 148814,
       "game_name": "Flewfies Adventure",
       "file": "missing/F/148814-flewfies-adventure.json"
@@ -403465,6 +403500,11 @@
       "igdb_id": 89823,
       "game_name": "Galaxy Control: Arena Station",
       "file": "missing/G/89823-galaxy-control-arena-station.json"
+    },
+    {
+      "igdb_id": 108782,
+      "game_name": "Galaxy Crash",
+      "file": "missing/G/108782-galaxy-crash.json"
     },
     {
       "igdb_id": 150450,
@@ -442257,6 +442297,11 @@
       "file": "missing/G/136696-gundam-versus-premium-g-sound-edition.json"
     },
     {
+      "igdb_id": 108785,
+      "game_name": "Gundam Virtual Modeler Light",
+      "file": "missing/G/108785-gundam-virtual-modeler-light.json"
+    },
+    {
       "igdb_id": 52001,
       "game_name": "Gundam VR: Daiba Assault",
       "file": "missing/G/52001-gundam-vr-daiba-assault.json"
@@ -473902,6 +473947,11 @@
       "file": "missing/H/421218-high-gravity.json"
     },
     {
+      "igdb_id": 108766,
+      "game_name": "High Grenadier",
+      "file": "missing/H/108766-high-grenadier.json"
+    },
+    {
       "igdb_id": 68250,
       "game_name": "High Heat Baseball 1999",
       "file": "missing/H/68250-high-heat-baseball-1999.json"
@@ -487032,6 +487082,11 @@
       "file": "missing/H/64355-hototogisu.json"
     },
     {
+      "igdb_id": 108779,
+      "game_name": "Hototogisu Tairan 1553: Ryuko Aiutsu",
+      "file": "missing/H/108779-hototogisu-tairan-1553-ryuko-aiutsu.json"
+    },
+    {
       "igdb_id": 85835,
       "game_name": "Hototogisu Tairan 1553: Ryuuko Aiutsu",
       "file": "missing/H/85835-hototogisu-tairan-1553-ryuuko-aiutsu.json"
@@ -491925,6 +491980,11 @@
       "igdb_id": 110327,
       "game_name": "Hunters Gate",
       "file": "missing/H/110327-hunters-gate.json"
+    },
+    {
+      "igdb_id": 108758,
+      "game_name": "Hunters League",
+      "file": "missing/H/108758-hunters-league.json"
     },
     {
       "igdb_id": 389059,
@@ -520062,6 +520122,11 @@
       "file": "missing/I/134478-isometric-and-karate-exercise-wii-de-kotsuban-fitness.json"
     },
     {
+      "igdb_id": 108775,
+      "game_name": "Isometric Epilepsy",
+      "file": "missing/I/108775-isometric-epilepsy.json"
+    },
+    {
       "igdb_id": 391647,
       "game_name": "Isometric Factories",
       "file": "missing/I/391647-isometric-factories.json"
@@ -525960,6 +526025,11 @@
       "igdb_id": 105882,
       "game_name": "Jelly Jam Blast",
       "file": "missing/J/105882-jelly-jam-blast.json"
+    },
+    {
+      "igdb_id": 108788,
+      "game_name": "Jelly Jellies",
+      "file": "missing/J/108788-jelly-jellies.json"
     },
     {
       "igdb_id": 88438,
@@ -549587,11 +549657,6 @@
       "file": "missing/K/325666-kimi-ga-nozomu-muv-luv.json"
     },
     {
-      "igdb_id": 219820,
-      "game_name": "Kimi mo vtuber ni Naranai?",
-      "file": "missing/K/219820-kimi-mo-vtuber-ni-naranai.json"
-    },
-    {
       "igdb_id": 413833,
       "game_name": "Kimi ni Furenai Natsu",
       "file": "missing/K/413833-kimi-ni-furenai-natsu.json"
@@ -572785,6 +572850,11 @@
       "igdb_id": 319720,
       "game_name": "Leenie's Tale",
       "file": "missing/L/319720-leenies-tale.json"
+    },
+    {
+      "igdb_id": 108791,
+      "game_name": "Leet Hacker Simulator 2018",
+      "file": "missing/L/108791-leet-hacker-simulator-2018.json"
     },
     {
       "igdb_id": 178622,
@@ -636042,6 +636112,11 @@
       "file": "missing/M/298549-megdan.json"
     },
     {
+      "igdb_id": 108777,
+      "game_name": "Megido 72",
+      "file": "missing/M/108777-megido-72.json"
+    },
+    {
       "igdb_id": 312670,
       "game_name": "Megis Adventure",
       "file": "missing/M/312670-megis-adventure.json"
@@ -661692,6 +661767,11 @@
       "file": "missing/M/244105-mom-and-cake.json"
     },
     {
+      "igdb_id": 108773,
+      "game_name": "Mom and Me",
+      "file": "missing/M/108773-mom-and-me.json"
+    },
+    {
       "igdb_id": 387673,
       "game_name": "Mom Crush: Hidden Hotel Love Story",
       "file": "missing/M/387673-mom-crush-hidden-hotel-love-story.json"
@@ -680702,6 +680782,11 @@
       "file": "missing/M/178047-muumit-ja-taikalamppu.json"
     },
     {
+      "igdb_id": 108737,
+      "game_name": "Muumit ja Taikurin hattu",
+      "file": "missing/M/108737-muumit-ja-taikurin-hattu.json"
+    },
+    {
       "igdb_id": 26376,
       "game_name": "Muumit meren aalloilla",
       "file": "missing/M/26376-muumit-meren-aalloilla.json"
@@ -691305,6 +691390,11 @@
       "igdb_id": 137031,
       "game_name": "Nanatsu no Hikan",
       "file": "missing/N/137031-nanatsu-no-hikan.json"
+    },
+    {
+      "igdb_id": 108772,
+      "game_name": "Nanatsu no Hikan: Senritsu no Bishou",
+      "file": "missing/N/108772-nanatsu-no-hikan-senritsu-no-bishou.json"
     },
     {
       "igdb_id": 70642,
@@ -703910,6 +704000,11 @@
       "igdb_id": 364884,
       "game_name": "Nex-Ara",
       "file": "missing/N/364884-nex-ara.json"
+    },
+    {
+      "igdb_id": 108760,
+      "game_name": "Nex:Os Colosseum",
+      "file": "missing/N/108760-nex-os-colosseum.json"
     },
     {
       "igdb_id": 273636,
@@ -779722,6 +779817,11 @@
       "file": "missing/P/107092-planet-genesis-2.json"
     },
     {
+      "igdb_id": 108789,
+      "game_name": "Planet Gold Rush",
+      "file": "missing/P/108789-planet-gold-rush.json"
+    },
+    {
       "igdb_id": 323416,
       "game_name": "Planet Graveyard",
       "file": "missing/P/323416-planet-graveyard.json"
@@ -782440,6 +782540,11 @@
       "igdb_id": 395741,
       "game_name": "Playmobil Happy Meal Digital Experience",
       "file": "missing/P/395741-playmobil-happy-meal-digital-experience.json"
+    },
+    {
+      "igdb_id": 108735,
+      "game_name": "Playmobil Horse Farm",
+      "file": "missing/P/108735-playmobil-horse-farm.json"
     },
     {
       "igdb_id": 20319,
@@ -886822,6 +886927,16 @@
       "file": "missing/S/73002-scooby-doo-funland-frenzy.json"
     },
     {
+      "igdb_id": 108790,
+      "game_name": "Scooby-Doo: Math Times Two",
+      "file": "missing/S/108790-scooby-doo-math-times-two.json"
+    },
+    {
+      "igdb_id": 108780,
+      "game_name": "Scooby-Doo: Spooky Snacks",
+      "file": "missing/S/108780-scooby-doo-spooky-snacks.json"
+    },
+    {
       "igdb_id": 36326,
       "game_name": "Scooby-Doo! & Looney Tunes Cartoon Universe: Adventure",
       "file": "missing/S/36326-scooby-doo-and-looney-tunes-cartoon-universe-adventure.json"
@@ -894135,6 +894250,11 @@
       "igdb_id": 209018,
       "game_name": "Sega Rally Revo",
       "file": "missing/S/209018-sega-rally-revo.json"
+    },
+    {
+      "igdb_id": 108761,
+      "game_name": "Sega Saturn de Hakken!! Tamagotchi Park",
+      "file": "missing/S/108761-sega-saturn-de-hakken-tamagotchi-park.json"
     },
     {
       "igdb_id": 39796,
@@ -909817,6 +909937,11 @@
       "file": "missing/S/248152-shootero-galaxy-space-shooter.json"
     },
     {
+      "igdb_id": 108767,
+      "game_name": "Shooters Solitude System4",
+      "file": "missing/S/108767-shooters-solitude-system4.json"
+    },
+    {
       "igdb_id": 335670,
       "game_name": "Shooters, Ready!",
       "file": "missing/S/335670-shooters-ready.json"
@@ -922877,6 +923002,11 @@
       "file": "missing/S/306794-sky-climb.json"
     },
     {
+      "igdb_id": 108776,
+      "game_name": "Sky Climbers: Rise of the Hero",
+      "file": "missing/S/108776-sky-climbers-rise-of-the-hero.json"
+    },
+    {
       "igdb_id": 221358,
       "game_name": "Sky Combat",
       "file": "missing/S/221358-sky-combat.json"
@@ -924650,6 +924780,11 @@
       "igdb_id": 259142,
       "game_name": "Slam Dunk Basketball 2",
       "file": "missing/S/259142-slam-dunk-basketball-2.json"
+    },
+    {
+      "igdb_id": 108768,
+      "game_name": "Slam Dunk Typing",
+      "file": "missing/S/108768-slam-dunk-typing.json"
     },
     {
       "igdb_id": 236652,
@@ -935810,6 +935945,11 @@
       "igdb_id": 241334,
       "game_name": "Soccer Lines",
       "file": "missing/S/241334-soccer-lines.json"
+    },
+    {
+      "igdb_id": 108786,
+      "game_name": "Soccer Love",
+      "file": "missing/S/108786-soccer-love.json"
     },
     {
       "igdb_id": 134421,
@@ -965962,6 +966102,11 @@
       "file": "missing/S/63129-stack-columns.json"
     },
     {
+      "igdb_id": 108734,
+      "game_name": "Stack Dango",
+      "file": "missing/S/108734-stack-dango.json"
+    },
+    {
       "igdb_id": 156906,
       "game_name": "Stack Defense",
       "file": "missing/S/156906-stack-defense.json"
@@ -971885,6 +972030,11 @@
       "igdb_id": 221262,
       "game_name": "StarHeroes",
       "file": "missing/S/221262-starheroes.json"
+    },
+    {
+      "igdb_id": 108764,
+      "game_name": "StarHorse Pocket",
+      "file": "missing/S/108764-starhorse-pocket.json"
     },
     {
       "igdb_id": 272832,
@@ -1071132,6 +1071282,11 @@
       "file": "missing/T/47955-the-naked-brothers-band-the-video-game.json"
     },
     {
+      "igdb_id": 408022,
+      "game_name": "The Name I Wear",
+      "file": "missing/T/408022-the-name-i-wear.json"
+    },
+    {
       "igdb_id": 178458,
       "game_name": "The Nameless",
       "file": "missing/T/178458-the-nameless.json"
@@ -1089270,6 +1089425,11 @@
       "igdb_id": 58763,
       "game_name": "The War of Genesis IV: Spiral Genesis",
       "file": "missing/T/58763-the-war-of-genesis-iv-spiral-genesis.json"
+    },
+    {
+      "igdb_id": 108756,
+      "game_name": "The War of Genesis Side Story 2: Tempest",
+      "file": "missing/T/108756-the-war-of-genesis-side-story-2-tempest.json"
     },
     {
       "igdb_id": 110293,
@@ -1112197,9 +1112357,34 @@
       "file": "missing/T/72984-tokimeki-memorial.json"
     },
     {
+      "igdb_id": 108746,
+      "game_name": "Tokimeki Memorial 2 Substories: Dancing Summer Vacation",
+      "file": "missing/T/108746-tokimeki-memorial-2-substories-dancing-summer-vacation.json"
+    },
+    {
+      "igdb_id": 108742,
+      "game_name": "Tokimeki Memorial 2 Substories: Leaping School Festival",
+      "file": "missing/T/108742-tokimeki-memorial-2-substories-leaping-school-festival.json"
+    },
+    {
+      "igdb_id": 108743,
+      "game_name": "Tokimeki Memorial 2 Substories: Memories Ringing On",
+      "file": "missing/T/108743-tokimeki-memorial-2-substories-memories-ringing-on.json"
+    },
+    {
       "igdb_id": 369848,
       "game_name": "Tokimeki Memorial 2: EVS Append Disc",
       "file": "missing/T/369848-tokimeki-memorial-2-evs-append-disc.json"
+    },
+    {
+      "igdb_id": 108741,
+      "game_name": "Tokimeki Memorial 2: Music Video Clips - Circus de Ai Imashou",
+      "file": "missing/T/108741-tokimeki-memorial-2-music-video-clips-circus-de-ai-imashou.json"
+    },
+    {
+      "igdb_id": 108744,
+      "game_name": "Tokimeki Memorial 2: Taisen Puzzle-Dama",
+      "file": "missing/T/108744-tokimeki-memorial-2-taisen-puzzle-dama.json"
     },
     {
       "igdb_id": 67379,
@@ -1112207,14 +1112392,44 @@
       "file": "missing/T/67379-tokimeki-memorial-4.json"
     },
     {
+      "igdb_id": 108754,
+      "game_name": "Tokimeki Memorial Drama Series Vol. 1: Niji-iro no Seishun",
+      "file": "missing/T/108754-tokimeki-memorial-drama-series-vol-1-niji-iro-no-seishun.json"
+    },
+    {
+      "igdb_id": 108751,
+      "game_name": "Tokimeki Memorial Drama Series Vol. 2: Irodori no Love Song",
+      "file": "missing/T/108751-tokimeki-memorial-drama-series-vol-2-irodori-no-love-song.json"
+    },
+    {
+      "igdb_id": 108752,
+      "game_name": "Tokimeki Memorial Drama Series Vol. 3: Tabidachi no Uta",
+      "file": "missing/T/108752-tokimeki-memorial-drama-series-vol-3-tabidachi-no-uta.json"
+    },
+    {
       "igdb_id": 72670,
       "game_name": "Tokimeki Memorial Girl's Side",
       "file": "missing/T/72670-tokimeki-memorial-girls-side.json"
     },
     {
+      "igdb_id": 108739,
+      "game_name": "Tokimeki Memorial Girl's Side 1st Love Typing",
+      "file": "missing/T/108739-tokimeki-memorial-girls-side-1st-love-typing.json"
+    },
+    {
+      "igdb_id": 108740,
+      "game_name": "Tokimeki Memorial Girl's Side 2nd Kiss Typing",
+      "file": "missing/T/108740-tokimeki-memorial-girls-side-2nd-kiss-typing.json"
+    },
+    {
       "igdb_id": 117406,
       "game_name": "Tokimeki Memorial Girl's Side 4th Heart",
       "file": "missing/T/117406-tokimeki-memorial-girls-side-4th-heart.json"
+    },
+    {
+      "igdb_id": 108738,
+      "game_name": "Tokimeki Memorial Girl's Side Double Pack",
+      "file": "missing/T/108738-tokimeki-memorial-girls-side-double-pack.json"
     },
     {
       "igdb_id": 109045,
@@ -1112242,6 +1112457,26 @@
       "file": "missing/T/47863-tokimeki-memorial-girls-side-3rd-story.json"
     },
     {
+      "igdb_id": 108753,
+      "game_name": "Tokimeki Memorial Pocket Culture Version: Komorebi no Melody",
+      "file": "missing/T/108753-tokimeki-memorial-pocket-culture-version-komorebi-no-melody.json"
+    },
+    {
+      "igdb_id": 108755,
+      "game_name": "Tokimeki Memorial Pocket Sports Version: Koutei no Photograph",
+      "file": "missing/T/108755-tokimeki-memorial-pocket-sports-version-koutei-no-photograph.json"
+    },
+    {
+      "igdb_id": 108748,
+      "game_name": "Tokimeki Memorial Private Collection",
+      "file": "missing/T/108748-tokimeki-memorial-private-collection.json"
+    },
+    {
+      "igdb_id": 108749,
+      "game_name": "Tokimeki Memorial Selection: Fujisaki Shiori",
+      "file": "missing/T/108749-tokimeki-memorial-selection-fujisaki-shiori.json"
+    },
+    {
       "igdb_id": 50129,
       "game_name": "Tokimeki Memorial: Forever With You",
       "file": "missing/T/50129-tokimeki-memorial-forever-with-you.json"
@@ -1112250,6 +1112485,11 @@
       "igdb_id": 314954,
       "game_name": "Tokimeki Memorial: Forever with You - Emotional",
       "file": "missing/T/314954-tokimeki-memorial-forever-with-you-emotional.json"
+    },
+    {
+      "igdb_id": 108750,
+      "game_name": "Tokimeki Memorial: Taisen Puzzle-Dama",
+      "file": "missing/T/108750-tokimeki-memorial-taisen-puzzle-dama.json"
     },
     {
       "igdb_id": 71021,
@@ -1136455,6 +1136695,11 @@
       "igdb_id": 120768,
       "game_name": "Triangulum",
       "file": "missing/T/120768-triangulum.json"
+    },
+    {
+      "igdb_id": 108771,
+      "game_name": "Trianthology: Sanmenkyou no Kuni no Alice",
+      "file": "missing/T/108771-trianthology-sanmenkyou-no-kuni-no-alice.json"
     },
     {
       "igdb_id": 377667,
@@ -1194972,6 +1195217,11 @@
       "file": "missing/W/282222-wheelborn.json"
     },
     {
+      "igdb_id": 406738,
+      "game_name": "Wheelchair for Two",
+      "file": "missing/W/406738-wheelchair-for-two.json"
+    },
+    {
       "igdb_id": 103157,
       "game_name": "Wheelchair Simulator",
       "file": "missing/W/103157-wheelchair-simulator.json"
@@ -1229660,6 +1229910,11 @@
       "igdb_id": 195074,
       "game_name": "Yuuto Ichika Gets DMCA'd",
       "file": "missing/Y/195074-yuuto-ichika-gets-dmcad.json"
+    },
+    {
+      "igdb_id": 108783,
+      "game_name": "Yuuto Ichika's One Time Wonder",
+      "file": "missing/Y/108783-yuuto-ichikas-one-time-wonder.json"
     },
     {
       "igdb_id": 232828,
