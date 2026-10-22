@@ -5985,6 +5985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nutty Nemesis: Nile's Downfall | 371751 | [371751-nutty-nemesis-niles-downfall.json](./371751-nutty-nemesis-niles-downfall.json) |
 | Nutty Noon | 240329 | [240329-nutty-noon.json](./240329-nutty-noon.json) |
 | Nutz Revenge | 302942 | [302942-nutz-revenge.json](./302942-nutz-revenge.json) |
+| Nuumonsters: Classic | 142668 | [142668-nuumonsters-classic.json](./142668-nuumonsters-classic.json) |
 | Nuvavult | 126360 | [126360-nuvavult.json](./126360-nuvavult.json) |
 | Nuvoid | 25906 | [25906-nuvoid.json](./25906-nuvoid.json) |
 | Nǚwáng | 407321 | [407321-nuwang.json](./407321-nuwang.json) |
