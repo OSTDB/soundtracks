@@ -3950,6 +3950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glorious Mission | 74323 | [74323-glorious-mission.json](./74323-glorious-mission.json) |
 | Glorious Savior | 38972 | [38972-glorious-savior.json](./38972-glorious-savior.json) |
 | Glorious Storm | 258201 | [258201-glorious-storm.json](./258201-glorious-storm.json) |
+| Glorious Tournius | 139675 | [139675-glorious-tournius.json](./139675-glorious-tournius.json) |
 | Glorp | 213290 | [213290-glorp.json](./213290-glorp.json) |
 | Glory | 171382 | [171382-glory.json](./171382-glory.json) |
 | Glory & Honor | 105263 | [105263-glory-and-honor.json](./105263-glory-and-honor.json) |
@@ -4640,6 +4641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Godessess' Whim | 336944 | [336944-godessess-whim.json](./336944-godessess-whim.json) |
 | Godfall: Ascended Edition | 139946 | [139946-godfall-ascended-edition.json](./139946-godfall-ascended-edition.json) |
 | Godfall: Challenger Edition | 185638 | [185638-godfall-challenger-edition.json](./185638-godfall-challenger-edition.json) |
+| Godfall: Deluxe Edition | 139853 | [139853-godfall-deluxe-edition.json](./139853-godfall-deluxe-edition.json) |
 | Godfall: Primal Update | 312371 | [312371-godfall-primal-update.json](./312371-godfall-primal-update.json) |
 | Godfall: Ultimate Edition | 195237 | [195237-godfall-ultimate-edition.json](./195237-godfall-ultimate-edition.json) |
 | GodFinger | 66697 | [66697-godfinger.json](./66697-godfinger.json) |
@@ -8243,6 +8245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gun Shop Manager | 349095 | [349095-gun-shop-manager.json](./349095-gun-shop-manager.json) |
 | Gun Shop Simulator | 345969 | [345969-gun-shop-simulator.json](./345969-gun-shop-simulator.json) |
 | Gun Shop: Tidy Up | 413780 | [413780-gun-shop-tidy-up.json](./413780-gun-shop-tidy-up.json) |
+| Gun Skaters | 139664 | [139664-gun-skaters.json](./139664-gun-skaters.json) |
 | Gun Smoke | 77862 | [77862-gun-smoke.json](./77862-gun-smoke.json) |
 | Gun Soul Girl 2 | 169455 | [169455-gun-soul-girl-2.json](./169455-gun-soul-girl-2.json) |
 | Gun Soul:Zombie Wars | 105776 | [105776-gun-soul-zombie-wars.json](./105776-gun-soul-zombie-wars.json) |
