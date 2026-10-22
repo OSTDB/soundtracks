@@ -9947,6 +9947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Commander Cherry's Puzzled Journey | 19950 | [19950-commander-cherrys-puzzled-journey.json](./19950-commander-cherrys-puzzled-journey.json) |
 | Commander Cool 2 | 35620 | [35620-commander-cool-2.json](./35620-commander-cool-2.json) |
 | Commander in Chief: Geo-Political Simulator 2009 | 135166 | [135166-commander-in-chief-geo-political-simulator-2009.json](./135166-commander-in-chief-geo-political-simulator-2009.json) |
+| Commander Keen | 119309 | [119309-commander-keen.json](./119309-commander-keen.json) |
 | Commander Keen | 2447 | [2447-commander-keen.json](./2447-commander-keen.json) |
 | Commander Keen Enters RON | 71177 | [71177-commander-keen-enters-ron.json](./71177-commander-keen-enters-ron.json) |
 | Commander Keen in Goodbye, Galaxy!: The Armageddon Machine | 2445 | [2445-commander-keen-in-goodbye-galaxy-the-armageddon-machine.json](./2445-commander-keen-in-goodbye-galaxy-the-armageddon-machine.json) |
@@ -10202,6 +10203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conan | 3862 | [3862-conan.json](./3862-conan.json) |
 | Conan | 73158 | [73158-conan.json](./73158-conan.json) |
 | Conan | 9006 | [9006-conan.json](./9006-conan.json) |
+| Conan Chop Chop | 119344 | [119344-conan-chop-chop.json](./119344-conan-chop-chop.json) |
 | Conan Chronicles 1 | 356210 | [356210-conan-chronicles-1.json](./356210-conan-chronicles-1.json) |
 | Conan Chronicles 2 | 356211 | [356211-conan-chronicles-2.json](./356211-conan-chronicles-2.json) |
 | Conan Exiles Enhanced | 402464 | [402464-conan-exiles-enhanced.json](./402464-conan-exiles-enhanced.json) |
@@ -15914,6 +15916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyberpunk | 236691 | [236691-cyberpunk.json](./236691-cyberpunk.json) |
 | Cyberpunk 2 | 262905 | [262905-cyberpunk-2.json](./262905-cyberpunk-2.json) |
 | Cyberpunk 2077: 2.0 Update | 263463 | [263463-cyberpunk-2077-2-0-update.json](./263463-cyberpunk-2077-2-0-update.json) |
+| Cyberpunk 2077: Collector's Edition | 119328 | [119328-cyberpunk-2077-collectors-edition.json](./119328-cyberpunk-2077-collectors-edition.json) |
 | Cyberpunk 2077: Day One Edition | 284480 | [284480-cyberpunk-2077-day-one-edition.json](./284480-cyberpunk-2077-day-one-edition.json) |
 | Cyberpunk 2077: Edgerunners Update | 222969 | [222969-cyberpunk-2077-edgerunners-update.json](./222969-cyberpunk-2077-edgerunners-update.json) |
 | Cyberpunk 2077: Turf Wars | 397607 | [397607-cyberpunk-2077-turf-wars.json](./397607-cyberpunk-2077-turf-wars.json) |
