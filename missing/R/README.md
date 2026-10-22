@@ -2477,6 +2477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Realmguard | 404341 | [404341-realmguard.json](./404341-realmguard.json) |
 | Realms | 12741 | [12741-realms.json](./12741-realms.json) |
 | Realms at War | 387046 | [387046-realms-at-war.json](./387046-realms-at-war.json) |
+| Realms Beyond: Ashes of the Fallen | 112086 | [112086-realms-beyond-ashes-of-the-fallen.json](./112086-realms-beyond-ashes-of-the-fallen.json) |
 | Realms Edge | 368568 | [368568-realms-edge.json](./368568-realms-edge.json) |
 | Realms Forgotten | 356161 | [356161-realms-forgotten.json](./356161-realms-forgotten.json) |
 | Realms of Alterra | 301275 | [301275-realms-of-alterra.json](./301275-realms-of-alterra.json) |
