@@ -560,6 +560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naruto to Boruto: Shinobi Striker - Season 8 | 307754 | [307754-naruto-to-boruto-shinobi-striker-season-8.json](./307754-naruto-to-boruto-shinobi-striker-season-8.json) |
 | Naruto to Boruto: Shinobi Striker - Special Ninjutsu: Wood Style - Wood Golem Jutsu | 294999 | [294999-naruto-to-boruto-shinobi-striker-special-ninjutsu-wood-style-wood-golem-jutsu.json](./294999-naruto-to-boruto-shinobi-striker-special-ninjutsu-wood-style-wood-golem-jutsu.json) |
 | Naruto to Boruto: Shinobi Striker - Ultimate Edition | 255258 | [255258-naruto-to-boruto-shinobi-striker-ultimate-edition.json](./255258-naruto-to-boruto-shinobi-striker-ultimate-edition.json) |
+| Naruto x Boruto: Ninja Tribes | 106295 | [106295-naruto-x-boruto-ninja-tribes.json](./106295-naruto-x-boruto-ninja-tribes.json) |
 | Naruto x Boruto: Ultimate Ninja Storm Connection - DLC Pack 1 | 284509 | [284509-naruto-x-boruto-ultimate-ninja-storm-connection-dlc-pack-1.json](./284509-naruto-x-boruto-ultimate-ninja-storm-connection-dlc-pack-1.json) |
 | Naruto x Boruto: Ultimate Ninja Storm Connection - DLC Pack 2 | 294250 | [294250-naruto-x-boruto-ultimate-ninja-storm-connection-dlc-pack-2.json](./294250-naruto-x-boruto-ultimate-ninja-storm-connection-dlc-pack-2.json) |
 | Naruto x Boruto: Ultimate Ninja Storm Connection - DLC Pack 3 | 303876 | [303876-naruto-x-boruto-ultimate-ninja-storm-connection-dlc-pack-3.json](./303876-naruto-x-boruto-ultimate-ninja-storm-connection-dlc-pack-3.json) |
@@ -3558,6 +3559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightingale: Birth of the Alliance | 194990 | [194990-nightingale-birth-of-the-alliance.json](./194990-nightingale-birth-of-the-alliance.json) |
 | Nightingale: Expanse | 237195 | [237195-nightingale-expanse.json](./237195-nightingale-expanse.json) |
 | Nightingale: Realms Rebuilt | 314408 | [314408-nightingale-realms-rebuilt.json](./314408-nightingale-realms-rebuilt.json) |
+| NightKnight | 106329 | [106329-nightknight.json](./106329-nightknight.json) |
 | Nightlanders | 351411 | [351411-nightlanders.json](./351411-nightlanders.json) |
 | Nightlatch: Haunted House | 414411 | [414411-nightlatch-haunted-house.json](./414411-nightlatch-haunted-house.json) |
 | Nightlife | 262308 | [262308-nightlife.json](./262308-nightlife.json) |
