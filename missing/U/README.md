@@ -1247,6 +1247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undead Residence | 411662 | [411662-undead-residence.json](./411662-undead-residence.json) |
 | Undead Rider | 387566 | [387566-undead-rider.json](./387566-undead-rider.json) |
 | Undead Run | 163741 | [163741-undead-run.json](./163741-undead-run.json) |
+| Undead Shadow Army | 116769 | [116769-undead-shadow-army.json](./116769-undead-shadow-army.json) |
 | Undead Slayer | 46755 | [46755-undead-slayer.json](./46755-undead-slayer.json) |
 | Undead Souls | 55496 | [55496-undead-souls.json](./55496-undead-souls.json) |
 | Undead Syndrome Episode 1 | 152019 | [152019-undead-syndrome-episode-1.json](./152019-undead-syndrome-episode-1.json) |
@@ -1761,6 +1762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uni | 115402 | [115402-uni.json](./115402-uni.json) |
 | Uni | 145684 | [145684-uni.json](./145684-uni.json) |
 | UNI 2 | 368769 | [368769-uni-2.json](./368769-uni-2.json) |
+| Uni Turret | 116738 | [116738-uni-turret.json](./116738-uni-turret.json) |
 | Uni Ver Se | 185635 | [185635-uni-ver-se.json](./185635-uni-ver-se.json) |
 | Uni-Code | 347197 | [347197-uni-code.json](./347197-uni-code.json) |
 | Uni's On Air | 246227 | [246227-unis-on-air.json](./246227-unis-on-air.json) |
