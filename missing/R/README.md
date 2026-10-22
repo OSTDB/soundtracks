@@ -8782,6 +8782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ROTN Quiz game 2 | 71168 | [71168-rotn-quiz-game-2.json](./71168-rotn-quiz-game-2.json) |
 | Roto Force | 191870 | [191870-roto-force.json](./191870-roto-force.json) |
 | Roto16 | 234055 | [234055-roto16.json](./234055-roto16.json) |
+| RotoBrix | 125079 | [125079-rotobrix.json](./125079-rotobrix.json) |
 | RotoCore | 414291 | [414291-rotocore.json](./414291-rotocore.json) |
 | RotoDefendo | 137055 | [137055-rotodefendo.json](./137055-rotodefendo.json) |
 | Rotolla | 21021 | [21021-rotolla.json](./21021-rotolla.json) |
@@ -9536,6 +9537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run from Blablublas horror | 386543 | [386543-run-from-blablublas-horror.json](./386543-run-from-blablublas-horror.json) |
 | Run from Bubol Horror | 359990 | [359990-run-from-bubol-horror.json](./359990-run-from-bubol-horror.json) |
 | Run from the Light | 296017 | [296017-run-from-the-light.json](./296017-run-from-the-light.json) |
+| Run Ghost Run | 125057 | [125057-run-ghost-run.json](./125057-run-ghost-run.json) |
 | Run Gor | 270932 | [270932-run-gor.json](./270932-run-gor.json) |
 | Run Gor I | 392183 | [392183-run-gor-i.json](./392183-run-gor-i.json) |
 | Run Gun Die Ultimate | 118083 | [118083-run-gun-die-ultimate.json](./118083-run-gun-die-ultimate.json) |
