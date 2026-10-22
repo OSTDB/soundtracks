@@ -936,6 +936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oh, You Touch My Balls | 377910 | [377910-oh-you-touch-my-balls.json](./377910-oh-you-touch-my-balls.json) |
 | Oh! Edo Towns | 65526 | [65526-oh-edo-towns.json](./65526-oh-edo-towns.json) |
 | Oh! Fuse Box | 243528 | [243528-oh-fuse-box.json](./243528-oh-fuse-box.json) |
+| Oh! Mochi! | 148815 | [148815-oh-mochi.json](./148815-oh-mochi.json) |
 | OH! My Office | 223992 | [223992-oh-my-office.json](./223992-oh-my-office.json) |
 | Oh! My Sister's Slit Is... | 97839 | [97839-oh-my-sisters-slit-is.json](./97839-oh-my-sisters-slit-is.json) |
 | Oh! Robot: Legendary Mechanic | 356300 | [356300-oh-robot-legendary-mechanic.json](./356300-oh-robot-legendary-mechanic.json) |
