@@ -2659,6 +2659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geronimo | 208670 | [208670-geronimo.json](./208670-geronimo.json) |
 | Geronimo Stilton in the Kingdom of Fantasy | 42807 | [42807-geronimo-stilton-in-the-kingdom-of-fantasy.json](./42807-geronimo-stilton-in-the-kingdom-of-fantasy.json) |
 | Geronimo Stilton: Return to the Kingdom of Fantasy | 42757 | [42757-geronimo-stilton-return-to-the-kingdom-of-fantasy.json](./42757-geronimo-stilton-return-to-the-kingdom-of-fantasy.json) |
+| Geronimo Stilton: Return to the Kingdom of Fantasy - The Videogame | 99956 | [99956-geronimo-stilton-return-to-the-kingdom-of-fantasy-the-videogame.json](./99956-geronimo-stilton-return-to-the-kingdom-of-fantasy-the-videogame.json) |
 | Geronimo Stilton: The Return to the Kingdom of Fantasy | 52225 | [52225-geronimo-stilton-the-return-to-the-kingdom-of-fantasy.json](./52225-geronimo-stilton-the-return-to-the-kingdom-of-fantasy.json) |
 | Gerry Anderson's Thunderbirds: Shutsudou Thunderbird 2-gou | 385726 | [385726-gerry-andersons-thunderbirds-shutsudou-thunderbird-2-gou.json](./385726-gerry-andersons-thunderbirds-shutsudou-thunderbird-2-gou.json) |
 | Gerry the Germ Goes Body Poppin' | 26464 | [26464-gerry-the-germ-goes-body-poppin.json](./26464-gerry-the-germ-goes-body-poppin.json) |
@@ -3671,6 +3672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gladiabots | 53079 | [53079-gladiabots.json](./53079-gladiabots.json) |
 | Gladiate! | 301947 | [301947-gladiate.json](./301947-gladiate.json) |
 | Gladiato Potato | 349387 | [349387-gladiato-potato.json](./349387-gladiato-potato.json) |
+| Gladiator | 100047 | [100047-gladiator.json](./100047-gladiator.json) |
 | Gladiator | 194615 | [194615-gladiator.json](./194615-gladiator.json) |
 | Gladiator | 28566 | [28566-gladiator.json](./28566-gladiator.json) |
 | Gladiator | 320853 | [320853-gladiator.json](./320853-gladiator.json) |
