@@ -3916,6 +3916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mass Effect 2: Digital Deluxe Edition | 202309 | [202309-mass-effect-2-digital-deluxe-edition.json](./202309-mass-effect-2-digital-deluxe-edition.json) |
 | Mass Effect 2: Firewalker Pack | 13790 | [13790-mass-effect-2-firewalker-pack.json](./13790-mass-effect-2-firewalker-pack.json) |
 | Mass Effect 2: Overlord | 783 | [783-mass-effect-2-overlord.json](./783-mass-effect-2-overlord.json) |
+| Mass Effect 2: Ultimate Edition | 99959 | [99959-mass-effect-2-ultimate-edition.json](./99959-mass-effect-2-ultimate-edition.json) |
 | Mass Effect 3: From Ashes | 13910 | [13910-mass-effect-3-from-ashes.json](./13910-mass-effect-3-from-ashes.json) |
 | Mass Effect 3: N7 Collector's Edition | 45180 | [45180-mass-effect-3-n7-collectors-edition.json](./45180-mass-effect-3-n7-collectors-edition.json) |
 | Mass Effect 3: N7 Digital Deluxe Edition | 202174 | [202174-mass-effect-3-n7-digital-deluxe-edition.json](./202174-mass-effect-3-n7-digital-deluxe-edition.json) |
@@ -4440,6 +4441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Math Workshop | 94384 | [94384-math-workshop.json](./94384-math-workshop.json) |
 | Math World | 114686 | [114686-math-world.json](./114686-math-world.json) |
 | Math World VR | 254919 | [254919-math-world-vr.json](./254919-math-world-vr.json) |
+| Math-A-Magic! / Echo! | 100043 | [100043-math-a-magic-echo.json](./100043-math-a-magic-echo.json) |
 | Math-A-Thon 2: The Mystery of the Missing Laboratory | 209547 | [209547-math-a-thon-2-the-mystery-of-the-missing-laboratory.json](./209547-math-a-thon-2-the-mystery-of-the-missing-laboratory.json) |
 | Math, BFF, and Notes | 276962 | [276962-math-bff-and-notes.json](./276962-math-bff-and-notes.json) |
 | Math+Sticks: Coffee Break Club | 238874 | [238874-math-sticks-coffee-break-club.json](./238874-math-sticks-coffee-break-club.json) |
@@ -7593,6 +7595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Gear Online | 269417 | [269417-metal-gear-online.json](./269417-metal-gear-online.json) |
 | Metal Gear Rising: Revengeance - Limited Edition | 44557 | [44557-metal-gear-rising-revengeance-limited-edition.json](./44557-metal-gear-rising-revengeance-limited-edition.json) |
 | Metal Gear Rising: Revengeance - Special Edition | 136809 | [136809-metal-gear-rising-revengeance-special-edition.json](./136809-metal-gear-rising-revengeance-special-edition.json) |
+| Metal Gear Rising: Revengeance - Ultimate Edition | 99949 | [99949-metal-gear-rising-revengeance-ultimate-edition.json](./99949-metal-gear-rising-revengeance-ultimate-edition.json) |
 | Metal Gear Rising: Revengeance VR Missions | 116154 | [116154-metal-gear-rising-revengeance-vr-missions.json](./116154-metal-gear-rising-revengeance-vr-missions.json) |
 | Metal Gear Solid | 233127 | [233127-metal-gear-solid.json](./233127-metal-gear-solid.json) |
 | Metal Gear Solid | 393642 | [393642-metal-gear-solid.json](./393642-metal-gear-solid.json) |
@@ -11082,6 +11085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MLB 07: The Show | 7369 | [7369-mlb-07-the-show.json](./7369-mlb-07-the-show.json) |
 | MLB 10: The Show | 7372 | [7372-mlb-10-the-show.json](./7372-mlb-10-the-show.json) |
 | MLB 12: The Show | 7374 | [7374-mlb-12-the-show.json](./7374-mlb-12-the-show.json) |
+| MLB 13: The Show - Home Run Derby Edition | 99955 | [99955-mlb-13-the-show-home-run-derby-edition.json](./99955-mlb-13-the-show-home-run-derby-edition.json) |
 | MLB 14: The Show | 9642 | [9642-mlb-14-the-show.json](./9642-mlb-14-the-show.json) |
 | MLB 15: The Show | 8655 | [8655-mlb-15-the-show.json](./8655-mlb-15-the-show.json) |
 | MLB 2001 | 28193 | [28193-mlb-2001.json](./28193-mlb-2001.json) |
@@ -17327,6 +17331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Myths of the World: Stolen Spring - Collector's Edition | 28742 | [28742-myths-of-the-world-stolen-spring-collectors-edition.json](./28742-myths-of-the-world-stolen-spring-collectors-edition.json) |
 | Myths of the World: The Black Sun | 74308 | [74308-myths-of-the-world-the-black-sun.json](./74308-myths-of-the-world-the-black-sun.json) |
 | Myths of the World: The Heart of Desolation | 104506 | [104506-myths-of-the-world-the-heart-of-desolation.json](./104506-myths-of-the-world-the-heart-of-desolation.json) |
+| Myths of the World: The Whispering Marsh | 100052 | [100052-myths-of-the-world-the-whispering-marsh.json](./100052-myths-of-the-world-the-whispering-marsh.json) |
 | Myths of the World: Under the Surface - Collector's Edition | 345418 | [345418-myths-of-the-world-under-the-surface-collectors-edition.json](./345418-myths-of-the-world-under-the-surface-collectors-edition.json) |
 | Mythscroll | 342041 | [342041-mythscroll.json](./342041-mythscroll.json) |
 | Mythsfall | 419973 | [419973-mythsfall.json](./419973-mythsfall.json) |
