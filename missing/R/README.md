@@ -5249,6 +5249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rex: Another Island | 55295 | [55295-rex-another-island.json](./55295-rex-another-island.json) |
 | Rex! Your Interactive Pet Dinosaur | 313491 | [313491-rex-your-interactive-pet-dinosaur.json](./313491-rex-your-interactive-pet-dinosaur.json) |
 | Rexodus: A VR Story Experience | 32665 | [32665-rexodus-a-vr-story-experience.json](./32665-rexodus-a-vr-story-experience.json) |
+| reYal | 118640 | [118640-reyal.json](./118640-reyal.json) |
 | Reyher Austerich’s Garden Worlds Adventure | 357810 | [357810-reyher-austerich-s-garden-worlds-adventure.json](./357810-reyher-austerich-s-garden-worlds-adventure.json) |
 | Reynard | 111920 | [111920-reynard.json](./111920-reynard.json) |
 | Reynard | 359202 | [359202-reynard.json](./359202-reynard.json) |
@@ -6652,6 +6653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road to Newtopia | 213250 | [213250-road-to-newtopia.json](./213250-road-to-newtopia.json) |
 | Road to Nowhere | 126836 | [126836-road-to-nowhere.json](./126836-road-to-nowhere.json) |
 | Road to Olympus | 345974 | [345974-road-to-olympus.json](./345974-road-to-olympus.json) |
+| Road to Rage | 118658 | [118658-road-to-rage.json](./118658-road-to-rage.json) |
 | Road to Salvation | 245742 | [245742-road-to-salvation.json](./245742-road-to-salvation.json) |
 | Road to Scrubville: A Bijuu Mike Fangame | 230254 | [230254-road-to-scrubville-a-bijuu-mike-fangame.json](./230254-road-to-scrubville-a-bijuu-mike-fangame.json) |
 | Road To Siren Hills: Dark Journey | 304112 | [304112-road-to-siren-hills-dark-journey.json](./304112-road-to-siren-hills-dark-journey.json) |
