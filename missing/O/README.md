@@ -1187,6 +1187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OldWar 2 | 120583 | [120583-oldwar-2.json](./120583-oldwar-2.json) |
 | Olé, Toro | 93445 | [93445-ole-toro.json](./93445-ole-toro.json) |
 | Ole! | 93045 | [93045-ole.json](./93045-ole.json) |
+| Olea's Descent | 112678 | [112678-oleas-descent.json](./112678-oleas-descent.json) |
 | Olea's Messenger | 110501 | [110501-oleas-messenger.json](./110501-oleas-messenger.json) |
 | Oleg Mongol | 161331 | [161331-oleg-mongol.json](./161331-oleg-mongol.json) |
 | Oleg Sobolev's ASCII Doom | 217783 | [217783-oleg-sobolevs-ascii-doom.json](./217783-oleg-sobolevs-ascii-doom.json) |
