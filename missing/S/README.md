@@ -1358,6 +1358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sānhé Dàshén | 114279 | [114279-sanhe-dashen.json](./114279-sanhe-dashen.json) |
 | Sani Yang's Laboratory | 330229 | [330229-sani-yangs-laboratory.json](./330229-sani-yangs-laboratory.json) |
 | Sanic Ball | 136820 | [136820-sanic-ball.json](./136820-sanic-ball.json) |
+| Sanic the Hawtdawg: Da Movie - Da Game 2.1: Electric Boogaloo 2.2 Version 4 - The Squeakquel: VHS Edition - Directors Cut: Special Edition - The Musical & Knackles | 137494 | [137494-sanic-the-hawtdawg-da-movie-da-game-2-1-electric-boogaloo-2-2-version-4-the-squeakquel-vhs-edition-directors-cut-special-edition-the-musical-and-knackles.json](./137494-sanic-the-hawtdawg-da-movie-da-game-2-1-electric-boogaloo-2-2-version-4-the-squeakquel-vhs-edition-directors-cut-special-edition-the-musical-and-knackles.json) |
 | Sanitarium Enhanced | 414849 | [414849-sanitarium-enhanced.json](./414849-sanitarium-enhanced.json) |
 | Sanitarium Massacre | 62684 | [62684-sanitarium-massacre.json](./62684-sanitarium-massacre.json) |
 | Sanity Break | 369013 | [369013-sanity-break.json](./369013-sanity-break.json) |
@@ -4004,6 +4005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seifuku Kanojo 3 | 375360 | [375360-seifuku-kanojo-3.json](./375360-seifuku-kanojo-3.json) |
 | Seifuku Kanojo: Mayoigo Engage | 318255 | [318255-seifuku-kanojo-mayoigo-engage.json](./318255-seifuku-kanojo-mayoigo-engage.json) |
 | Seifuku: High School Countdown | 234180 | [234180-seifuku-high-school-countdown.json](./234180-seifuku-high-school-countdown.json) |
+| Seigi no Mikata | 137320 | [137320-seigi-no-mikata.json](./137320-seigi-no-mikata.json) |
 | Seigi no Mikata Giga Trust | 331192 | [331192-seigi-no-mikata-giga-trust.json](./331192-seigi-no-mikata-giga-trust.json) |
 | Seigi no Torishirabe | 240230 | [240230-seigi-no-torishirabe.json](./240230-seigi-no-torishirabe.json) |
 | Seigimatsu II: Special Attack Devil | 47535 | [47535-seigimatsu-ii-special-attack-devil.json](./47535-seigimatsu-ii-special-attack-devil.json) |
@@ -6449,6 +6451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shin Megami Tensei V: Vengeance - Safety Difficulty | 306554 | [306554-shin-megami-tensei-v-vengeance-safety-difficulty.json](./306554-shin-megami-tensei-v-vengeance-safety-difficulty.json) |
 | Shin Megami Tensei V: Vengeance Randomizer | 364400 | [364400-shin-megami-tensei-v-vengeance-randomizer.json](./364400-shin-megami-tensei-v-vengeance-randomizer.json) |
 | Shin Megami Tensei Vertex | 142491 | [142491-shin-megami-tensei-vertex.json](./142491-shin-megami-tensei-vertex.json) |
+| Shin Megami Tensei: 20XX | 137298 | [137298-shin-megami-tensei-20xx.json](./137298-shin-megami-tensei-20xx.json) |
 | Shin Megami Tensei: 20XX Devil's Colosseum | 137685 | [137685-shin-megami-tensei-20xx-devils-colosseum.json](./137685-shin-megami-tensei-20xx-devils-colosseum.json) |
 | Shin Megami Tensei: Devil Children - Black/Red Book | 77958 | [77958-shin-megami-tensei-devil-children-black-red-book.json](./77958-shin-megami-tensei-devil-children-black-red-book.json) |
 | Shin Megami Tensei: Devil Children - Koori no Sho | 92475 | [92475-shin-megami-tensei-devil-children-koori-no-sho.json](./92475-shin-megami-tensei-devil-children-koori-no-sho.json) |
@@ -8691,10 +8694,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simulassword | 226440 | [226440-simulassword.json](./226440-simulassword.json) |
 | Simulation 101 | 209368 | [209368-simulation-101.json](./209368-simulation-101.json) |
 | Simulation 9 | 408733 | [408733-simulation-9.json](./408733-simulation-9.json) |
+| Simulation Failure | 137315 | [137315-simulation-failure.json](./137315-simulation-failure.json) |
 | Simulation Gold Bundle: Flight Fishing Construction | 295694 | [295694-simulation-gold-bundle-flight-fishing-construction.json](./295694-simulation-gold-bundle-flight-fishing-construction.json) |
 | Simulation Platinum Bundle: Bus Construction Firefighting Lawn Mowing | 303879 | [303879-simulation-platinum-bundle-bus-construction-firefighting-lawn-mowing.json](./303879-simulation-platinum-bundle-bus-construction-firefighting-lawn-mowing.json) |
 | Simulation Pro Yakyuu | 38301 | [38301-simulation-pro-yakyuu.json](./38301-simulation-pro-yakyuu.json) |
 | Simulation RPG Tsukuuru | 209973 | [209973-simulation-rpg-tsukuuru.json](./209973-simulation-rpg-tsukuuru.json) |
+| Simulation Sphere | 137316 | [137316-simulation-sphere.json](./137316-simulation-sphere.json) |
 | Simulation Training Room: Massacre | 295545 | [295545-simulation-training-room-massacre.json](./295545-simulation-training-room-massacre.json) |
 | Simulation World | 157573 | [157573-simulation-world.json](./157573-simulation-world.json) |
 | Simulation Zoo | 97987 | [97987-simulation-zoo.json](./97987-simulation-zoo.json) |
@@ -20307,6 +20312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steelrising: Bastille Edition | 205569 | [205569-steelrising-bastille-edition.json](./205569-steelrising-bastille-edition.json) |
 | Steelrising: Cagliostro's Secrets | 225748 | [225748-steelrising-cagliostros-secrets.json](./225748-steelrising-cagliostros-secrets.json) |
 | Steelrising: Marie-Antoinette Cosmetic Pack | 242402 | [242402-steelrising-marie-antoinette-cosmetic-pack.json](./242402-steelrising-marie-antoinette-cosmetic-pack.json) |
+| SteelSpill | 137313 | [137313-steelspill.json](./137313-steelspill.json) |
 | Steelwood Private Eye | 245239 | [245239-steelwood-private-eye.json](./245239-steelwood-private-eye.json) |
 | Steep | 19554 | [19554-steep.json](./19554-steep.json) |
 | Steep and the Crew | 82414 | [82414-steep-and-the-crew.json](./82414-steep-and-the-crew.json) |
@@ -20541,6 +20547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stephen King's F13 | 92828 | [92828-stephen-kings-f13.json](./92828-stephen-kings-f13.json) |
 | Stephen Sharer’s Rocket Slide | 244109 | [244109-stephen-sharer-s-rocket-slide.json](./244109-stephen-sharer-s-rocket-slide.json) |
 | StepMania | 51311 | [51311-stepmania.json](./51311-stepmania.json) |
+| Stepped Reckoner | 137304 | [137304-stepped-reckoner.json](./137304-stepped-reckoner.json) |
 | Steppenwolf: The X-Creatures Project | 284584 | [284584-steppenwolf-the-x-creatures-project.json](./284584-steppenwolf-the-x-creatures-project.json) |
 | Stepping Selection | 66741 | [66741-stepping-selection.json](./66741-stepping-selection.json) |
 | Steppy Dungeon | 181726 | [181726-steppy-dungeon.json](./181726-steppy-dungeon.json) |
@@ -23388,6 +23395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sungka | 369459 | [369459-sungka.json](./369459-sungka.json) |
 | Sunken Brawl | 75147 | [75147-sunken-brawl.json](./75147-sunken-brawl.json) |
 | Sunken Century | 188318 | [188318-sunken-century.json](./188318-sunken-century.json) |
+| Sunken Citadel | 137306 | [137306-sunken-citadel.json](./137306-sunken-citadel.json) |
 | Sunken Engine | 336738 | [336738-sunken-engine.json](./336738-sunken-engine.json) |
 | Sunken Heads | 138821 | [138821-sunken-heads.json](./138821-sunken-heads.json) |
 | Sunken Realms | 197140 | [197140-sunken-realms.json](./197140-sunken-realms.json) |
@@ -28043,6 +28051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Syvnta: Sovereignty | 343952 | [343952-syvnta-sovereignty.json](./343952-syvnta-sovereignty.json) |
 | Syzgy | 178018 | [178018-syzgy.json](./178018-syzgy.json) |
 | Syzygy | 123068 | [123068-syzygy.json](./123068-syzygy.json) |
+| Syzygy | 137299 | [137299-syzygy.json](./137299-syzygy.json) |
 | Syzygy | 150422 | [150422-syzygy.json](./150422-syzygy.json) |
 | Syzygy: The Power of the Eclipse | 257535 | [257535-syzygy-the-power-of-the-eclipse.json](./257535-syzygy-the-power-of-the-eclipse.json) |
 | Szen | 114364 | [114364-szen.json](./114364-szen.json) |
