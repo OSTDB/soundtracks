@@ -396,6 +396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Half-Life | 228891 | [228891-half-life.json](./228891-half-life.json) |
 | Half-Life | 401474 | [401474-half-life.json](./401474-half-life.json) |
 | Half-Life 1 Anthology | 400309 | [400309-half-life-1-anthology.json](./400309-half-life-1-anthology.json) |
+| Half-Life 2 Beta Minimalist Mod | 140851 | [140851-half-life-2-beta-minimalist-mod.json](./140851-half-life-2-beta-minimalist-mod.json) |
 | Half-Life 2 Classic | 128657 | [128657-half-life-2-classic.json](./128657-half-life-2-classic.json) |
 | Half-Life 2 Substance | 366609 | [366609-half-life-2-substance.json](./366609-half-life-2-substance.json) |
 | Half-Life 2: Aftermath | 314127 | [314127-half-life-2-aftermath.json](./314127-half-life-2-aftermath.json) |
