@@ -3566,6 +3566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battojutsu | 147766 | [147766-battojutsu.json](./147766-battojutsu.json) |
 | Battow: Mages And Monsters | 327027 | [327027-battow-mages-and-monsters.json](./327027-battow-mages-and-monsters.json) |
 | Batty Builders | 293716 | [293716-batty-builders.json](./293716-batty-builders.json) |
+| Batty Jumpers | 123257 | [123257-batty-jumpers.json](./123257-batty-jumpers.json) |
 | Batty Shadowless Adventures | 374065 | [374065-batty-shadowless-adventures.json](./374065-batty-shadowless-adventures.json) |
 | Batty Zabella | 229244 | [229244-batty-zabella.json](./229244-batty-zabella.json) |
 | Batty Zabella 2 XOXO XMAS | 347084 | [347084-batty-zabella-2-xoxo-xmas.json](./347084-batty-zabella-2-xoxo-xmas.json) |
@@ -10438,6 +10439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Borrowed Light | 402503 | [402503-borrowed-light.json](./402503-borrowed-light.json) |
 | Borrowed Sight | 414866 | [414866-borrowed-sight.json](./414866-borrowed-sight.json) |
 | Borrowed Time | 12259 | [12259-borrowed-time.json](./12259-borrowed-time.json) |
+| Börsenfieber | 123247 | [123247-borsenfieber.json](./123247-borsenfieber.json) |
 | Borstal | 33241 | [33241-borstal.json](./33241-borstal.json) |
 | Borussia Dortmund Club Football | 267884 | [267884-borussia-dortmund-club-football.json](./267884-borussia-dortmund-club-football.json) |
 | Borussia Dortmund Club Football 2005 | 267893 | [267893-borussia-dortmund-club-football-2005.json](./267893-borussia-dortmund-club-football-2005.json) |
