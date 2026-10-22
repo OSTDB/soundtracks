@@ -2352,6 +2352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Steel World Robot Boxing | 111751 | [111751-real-steel-world-robot-boxing.json](./111751-real-steel-world-robot-boxing.json) |
 | Real Stories from the Grave: Maleficium | 214698 | [214698-real-stories-from-the-grave-maleficium.json](./214698-real-stories-from-the-grave-maleficium.json) |
 | Real Stories: Veterinaire | 268390 | [268390-real-stories-veterinaire.json](./268390-real-stories-veterinaire.json) |
+| Real Stunt Master 3D | 100646 | [100646-real-stunt-master-3d.json](./100646-real-stunt-master-3d.json) |
 | Real Sudoku3D | 91308 | [91308-real-sudoku3d.json](./91308-real-sudoku3d.json) |
 | Real Talk | 185342 | [185342-real-talk.json](./185342-real-talk.json) |
 | Real Tennis | 100200 | [100200-real-tennis.json](./100200-real-tennis.json) |
