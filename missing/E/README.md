@@ -416,6 +416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Easter Bunny | 278154 | [278154-easter-bunny.json](./278154-easter-bunny.json) |
 | Easter Bunny EggVenture | 400656 | [400656-easter-bunny-eggventure.json](./400656-easter-bunny-eggventure.json) |
 | Easter Bunny on Speed | 186270 | [186270-easter-bunny-on-speed.json](./186270-easter-bunny-on-speed.json) |
+| Easter Candy Break | 145310 | [145310-easter-candy-break.json](./145310-easter-candy-break.json) |
 | Easter Candy Break: Head to Head | 210696 | [210696-easter-candy-break-head-to-head.json](./210696-easter-candy-break-head-to-head.json) |
 | Easter Clicker: Idle Manager | 118339 | [118339-easter-clicker-idle-manager.json](./118339-easter-clicker-idle-manager.json) |
 | Easter Day Solitaire | 339789 | [339789-easter-day-solitaire.json](./339789-easter-day-solitaire.json) |
