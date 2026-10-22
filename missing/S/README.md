@@ -9317,6 +9317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skatemasta Tcheco | 118401 | [118401-skatemasta-tcheco.json](./118401-skatemasta-tcheco.json) |
 | SkateNationXL | 272579 | [272579-skatenationxl.json](./272579-skatenationxl.json) |
 | Skater | 245172 | [245172-skater.json](./245172-skater.json) |
+| Skater - Let's Skate | 107566 | [107566-skater-lets-skate.json](./107566-skater-lets-skate.json) |
 | Skater Bunny Simulator | 320459 | [320459-skater-bunny-simulator.json](./320459-skater-bunny-simulator.json) |
 | Skater Cally | 109320 | [109320-skater-cally.json](./109320-skater-cally.json) |
 | Skater Cat | 85377 | [85377-skater-cat.json](./85377-skater-cat.json) |
@@ -9879,6 +9880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Valley | 31947 | [31947-sky-valley.json](./31947-sky-valley.json) |
 | Sky War | 272802 | [272802-sky-war.json](./272802-sky-war.json) |
 | Sky Warrior | 69506 | [69506-sky-warrior.json](./69506-sky-warrior.json) |
+| Sky Wars | 107577 | [107577-sky-wars.json](./107577-sky-wars.json) |
 | Sky Whale | 100852 | [100852-sky-whale.json](./100852-sky-whale.json) |
 | Sky Wings | 371037 | [371037-sky-wings.json](./371037-sky-wings.json) |
 | Sky: Children of the Light | 65503 | [65503-sky-children-of-the-light.json](./65503-sky-children-of-the-light.json) |
@@ -10424,6 +10426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slice | 98705 | [98705-slice.json](./98705-slice.json) |
 | Slice 'Em Up! | 185130 | [185130-slice-em-up.json](./185130-slice-em-up.json) |
 | Slice & Dice | 176099 | [176099-slice-and-dice.json](./176099-slice-and-dice.json) |
+| Slice Go | 107572 | [107572-slice-go.json](./107572-slice-go.json) |
 | Slice It All! | 305417 | [305417-slice-it-all.json](./305417-slice-it-all.json) |
 | Slice It Down | 274374 | [274374-slice-it-down.json](./274374-slice-it-down.json) |
 | Slice It! | 147957 | [147957-slice-it.json](./147957-slice-it.json) |
@@ -12621,6 +12624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solace | 91840 | [91840-solace.json](./91840-solace.json) |
 | Solace Creek | 314920 | [314920-solace-creek.json](./314920-solace-creek.json) |
 | Solace Dreams | 142721 | [142721-solace-dreams.json](./142721-solace-dreams.json) |
+| Solace State | 107594 | [107594-solace-state.json](./107594-solace-state.json) |
 | Solana and Sunny's Atelier | 216783 | [216783-solana-and-sunnys-atelier.json](./216783-solana-and-sunnys-atelier.json) |
 | Solanis | 343136 | [343136-solanis.json](./343136-solanis.json) |
 | Solar 2 | 6342 | [6342-solar-2.json](./6342-solar-2.json) |
@@ -16990,6 +16994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spin Path 2 | 394554 | [394554-spin-path-2.json](./394554-spin-path-2.json) |
 | Spin Poker | 95325 | [95325-spin-poker.json](./95325-spin-poker.json) |
 | Spin Quest: A Slot Adventure | 220670 | [220670-spin-quest-a-slot-adventure.json](./220670-spin-quest-a-slot-adventure.json) |
+| Spin Rhythm | 107592 | [107592-spin-rhythm.json](./107592-spin-rhythm.json) |
 | Spin Rhythm XD: Chillhop | 332606 | [332606-spin-rhythm-xd-chillhop.json](./332606-spin-rhythm-xd-chillhop.json) |
 | Spin Rhythm XD: Supporter Pack DLC | 273312 | [273312-spin-rhythm-xd-supporter-pack-dlc.json](./273312-spin-rhythm-xd-supporter-pack-dlc.json) |
 | Spin Royale | 344459 | [344459-spin-royale.json](./344459-spin-royale.json) |
@@ -21524,6 +21529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strangeloop | 39138 | [39138-strangeloop.json](./39138-strangeloop.json) |
 | Stranger | 21543 | [21543-stranger.json](./21543-stranger.json) |
 | Stranger by Night | 73558 | [73558-stranger-by-night.json](./73558-stranger-by-night.json) |
+| Stranger Cases | 107567 | [107567-stranger-cases.json](./107567-stranger-cases.json) |
 | Stranger Danger or Horror, Quest and Magic | 197390 | [197390-stranger-danger-or-horror-quest-and-magic.json](./197390-stranger-danger-or-horror-quest-and-magic.json) |
 | Stranger in Utopia | 273871 | [273871-stranger-in-utopia.json](./273871-stranger-in-utopia.json) |
 | Stranger of Paradise: Final Fantasy Origin - Collector's Edition | 201028 | [201028-stranger-of-paradise-final-fantasy-origin-collectors-edition.json](./201028-stranger-of-paradise-final-fantasy-origin-collectors-edition.json) |
@@ -22511,6 +22517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stylish Sprint | 79748 | [79748-stylish-sprint.json](./79748-stylish-sprint.json) |
 | Stylish Sprint 2 | 56481 | [56481-stylish-sprint-2.json](./56481-stylish-sprint-2.json) |
 | Stylist | 255632 | [255632-stylist.json](./255632-stylist.json) |
+| Stylist Girl - Make Me Gorgeous! | 107550 | [107550-stylist-girl-make-me-gorgeous.json](./107550-stylist-girl-make-me-gorgeous.json) |
 | Stylist Girl: Complete Edition | 313214 | [313214-stylist-girl-complete-edition.json](./313214-stylist-girl-complete-edition.json) |
 | Stylist Girl: Summer Time | 309065 | [309065-stylist-girl-summer-time.json](./309065-stylist-girl-summer-time.json) |
 | Stylist Girl: Sunny Edition | 317242 | [317242-stylist-girl-sunny-edition.json](./317242-stylist-girl-sunny-edition.json) |
@@ -24610,6 +24617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mahjong 3 | 37812 | [37812-super-mahjong-3.json](./37812-super-mahjong-3.json) |
 | Super Mahjong 3: Karakuchi | 59955 | [59955-super-mahjong-3-karakuchi.json](./59955-super-mahjong-3-karakuchi.json) |
 | Super Mahjong Taikai | 37811 | [37811-super-mahjong-taikai.json](./37811-super-mahjong-taikai.json) |
+| Super Major League | 107589 | [107589-super-major-league.json](./107589-super-major-league.json) |
 | Super Mallow World | 278624 | [278624-super-mallow-world.json](./278624-super-mallow-world.json) |
 | Super Man or Monster | 54799 | [54799-super-man-or-monster.json](./54799-super-man-or-monster.json) |
 | Super Mando | 223437 | [223437-super-mando.json](./223437-super-mando.json) |
@@ -26900,6 +26908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survivors SymphonYs | 345007 | [345007-survivors-symphonys.json](./345007-survivors-symphonys.json) |
 | Survivors Will | 250347 | [250347-survivors-will.json](./250347-survivors-will.json) |
 | Survivors: Three Kingdoms | 224695 | [224695-survivors-three-kingdoms.json](./224695-survivors-three-kingdoms.json) |
+| Survivors: Viy | 107583 | [107583-survivors-viy.json](./107583-survivors-viy.json) |
 | SurviVR - Castle Defender | 120068 | [120068-survivr-castle-defender.json](./120068-survivr-castle-defender.json) |
 | SUS | 290548 | [290548-sus.json](./290548-sus.json) |
 | Sus Virus Amogus | 304864 | [304864-sus-virus-amogus.json](./304864-sus-virus-amogus.json) |
