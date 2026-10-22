@@ -1869,6 +1869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Faraway Fairway | 151989 | [151989-faraway-fairway.json](./151989-faraway-fairway.json) |
 | Faraway Feathers | 388759 | [388759-faraway-feathers.json](./388759-faraway-feathers.json) |
 | Faraway Islands | 29885 | [29885-faraway-islands.json](./29885-faraway-islands.json) |
+| Faraway Lands: Rise of Yokai | 139668 | [139668-faraway-lands-rise-of-yokai.json](./139668-faraway-lands-rise-of-yokai.json) |
 | Faraway Proximity | 215566 | [215566-faraway-proximity.json](./215566-faraway-proximity.json) |
 | Faraway Story | 125409 | [125409-faraway-story.json](./125409-faraway-story.json) |
 | Faraway: Jungle Escape | 192883 | [192883-faraway-jungle-escape.json](./192883-faraway-jungle-escape.json) |
@@ -5288,6 +5289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fister.Fun | 386434 | [386434-fister-fun.json](./386434-fister-fun.json) |
 | Fistful of Frags | 8584 | [8584-fistful-of-frags.json](./8584-fistful-of-frags.json) |
 | Fistful of Nothing | 150591 | [150591-fistful-of-nothing.json](./150591-fistful-of-nothing.json) |
+| Fisti-Fluffs | 139673 | [139673-fisti-fluffs.json](./139673-fisti-fluffs.json) |
 | Fisticuffs: An Arcade Boxing Game | 240193 | [240193-fisticuffs-an-arcade-boxing-game.json](./240193-fisticuffs-an-arcade-boxing-game.json) |
 | Fists For Fighting Fx3 | 212305 | [212305-fists-for-fighting-fx3.json](./212305-fists-for-fighting-fx3.json) |
 | Fists of Invokers | 199500 | [199500-fists-of-invokers.json](./199500-fists-of-invokers.json) |
@@ -9138,6 +9140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Friagem | 177379 | [177379-friagem.json](./177379-friagem.json) |
 | Fricassee | 267995 | [267995-fricassee.json](./267995-fricassee.json) |
 | Frick Frack | 144625 | [144625-frick-frack.json](./144625-frick-frack.json) |
+| Frick, Inc. | 139849 | [139849-frick-inc.json](./139849-frick-inc.json) |
 | Friction | 320250 | [320250-friction.json](./320250-friction.json) |
 | Friction 90's Arcade Race | 223085 | [223085-friction-90s-arcade-race.json](./223085-friction-90s-arcade-race.json) |
 | Friday | 130926 | [130926-friday.json](./130926-friday.json) |
@@ -9723,6 +9726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frontier Mayhem | 301288 | [301288-frontier-mayhem.json](./301288-frontier-mayhem.json) |
 | Frontier Mech: Ash Walkers | 356075 | [356075-frontier-mech-ash-walkers.json](./356075-frontier-mech-ash-walkers.json) |
 | Frontier Paladin | 292542 | [292542-frontier-paladin.json](./292542-frontier-paladin.json) |
+| Frontier Quest | 139637 | [139637-frontier-quest.json](./139637-frontier-quest.json) |
 | Frontier Roots | 349515 | [349515-frontier-roots.json](./349515-frontier-roots.json) |
 | Frontier Tale | 416073 | [416073-frontier-tale.json](./416073-frontier-tale.json) |
 | Frontier VR | 29150 | [29150-frontier-vr.json](./29150-frontier-vr.json) |
