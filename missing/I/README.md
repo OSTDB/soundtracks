@@ -1616,6 +1616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ikemen Oukoku Joou to Shinjitsu no Kiss | 229030 | [229030-ikemen-oukoku-joou-to-shinjitsu-no-kiss.json](./229030-ikemen-oukoku-joou-to-shinjitsu-no-kiss.json) |
 | Ikemen Prince: Beauty and Her Beast | 229032 | [229032-ikemen-prince-beauty-and-her-beast.json](./229032-ikemen-prince-beauty-and-her-beast.json) |
 | Ikemen Rensen: Taira no Kiyomori | 227422 | [227422-ikemen-rensen-taira-no-kiyomori.json](./227422-ikemen-rensen-taira-no-kiyomori.json) |
+| Ikemen Revolution: Love & Magic in Wonderland | 103124 | [103124-ikemen-revolution-love-and-magic-in-wonderland.json](./103124-ikemen-revolution-love-and-magic-in-wonderland.json) |
 | Ikemen Sengoku: Romances Across Time | 145953 | [145953-ikemen-sengoku-romances-across-time.json](./145953-ikemen-sengoku-romances-across-time.json) |
 | Ikemen Sengoku: Toki wo Kakeru Koi Aratanaru Deai | 131850 | [131850-ikemen-sengoku-toki-wo-kakeru-koi-aratanaru-deai.json](./131850-ikemen-sengoku-toki-wo-kakeru-koi-aratanaru-deai.json) |
 | Ikemen Vampire: Temptation in the Dark | 225536 | [225536-ikemen-vampire-temptation-in-the-dark.json](./225536-ikemen-vampire-temptation-in-the-dark.json) |
@@ -4730,6 +4731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Is it Love ? Nicolae Vampire | 109023 | [109023-is-it-love-nicolae-vampire.json](./109023-is-it-love-nicolae-vampire.json) |
 | Is it Love? Blue Swan Hospital | 116392 | [116392-is-it-love-blue-swan-hospital.json](./116392-is-it-love-blue-swan-hospital.json) |
 | Is It Love? Stories | 133702 | [133702-is-it-love-stories.json](./133702-is-it-love-stories.json) |
+| Is it Love?: Adam | 103110 | [103110-is-it-love-adam.json](./103110-is-it-love-adam.json) |
 | Is it OK to pick up Anomalies at a University? | 301946 | [301946-is-it-ok-to-pick-up-anomalies-at-a-university.json](./301946-is-it-ok-to-pick-up-anomalies-at-a-university.json) |
 | Is It Wrong to Repay the Debt in a Dungeon? | 220040 | [220040-is-it-wrong-to-repay-the-debt-in-a-dungeon.json](./220040-is-it-wrong-to-repay-the-debt-in-a-dungeon.json) |
 | Is It Wrong to Try to Pick Up Girls in a Dungeon? Infinite Combate | 47160 | [47160-is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-infinite-combate.json](./47160-is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-infinite-combate.json) |
