@@ -2104,6 +2104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One way to exit | 33284 | [33284-one-way-to-exit.json](./33284-one-way-to-exit.json) |
 | One Way to Exit 2 | 172986 | [172986-one-way-to-exit-2.json](./172986-one-way-to-exit-2.json) |
 | One Way Trip | 23280 | [23280-one-way-trip.json](./23280-one-way-trip.json) |
+| One Way: The Elevator | 149458 | [149458-one-way-the-elevator.json](./149458-one-way-the-elevator.json) |
 | One Wee Robot | 392277 | [392277-one-wee-robot.json](./392277-one-wee-robot.json) |
 | One Week at Flumpty's | 259404 | [259404-one-week-at-flumptys.json](./259404-one-week-at-flumptys.json) |
 | One Week at Flumpty's Fan-Made | 416762 | [416762-one-week-at-flumptys-fan-made.json](./416762-one-week-at-flumptys-fan-made.json) |
@@ -2912,6 +2913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orbfall | 403097 | [403097-orbfall.json](./403097-orbfall.json) |
 | Orbi Universo | 120847 | [120847-orbi-universo.json](./120847-orbi-universo.json) |
 | Orbi Universo II | 334043 | [334043-orbi-universo-ii.json](./334043-orbi-universo-ii.json) |
+| Orbi's Chronicles | 149342 | [149342-orbis-chronicles.json](./149342-orbis-chronicles.json) |
 | Orbia | 88028 | [88028-orbia.json](./88028-orbia.json) |
 | Orbifall | 379875 | [379875-orbifall.json](./379875-orbifall.json) |
 | Orbion | 370331 | [370331-orbion.json](./370331-orbion.json) |
@@ -3060,6 +3062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orcs Must Die!: Lost Adventures | 14541 | [14541-orcs-must-die-lost-adventures.json](./14541-orcs-must-die-lost-adventures.json) |
 | Orcz Evolve VR | 83172 | [83172-orcz-evolve-vr.json](./83172-orcz-evolve-vr.json) |
 | Ord. | 118314 | [118314-ord.json](./118314-ord.json) |
+| Ordeal | 149269 | [149269-ordeal.json](./149269-ordeal.json) |
 | Ordeeer! | 181347 | [181347-ordeeer.json](./181347-ordeeer.json) |
 | Orden des Drachen | 314294 | [314294-orden-des-drachen.json](./314294-orden-des-drachen.json) |
 | Order 13 | 329109 | [329109-order-13.json](./329109-order-13.json) |
@@ -3313,6 +3316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orrery | 68918 | [68918-orrery.json](./68918-orrery.json) |
 | Orrin's Chessboard | 377758 | [377758-orrins-chessboard.json](./377758-orrins-chessboard.json) |
 | Orrstead | 191513 | [191513-orrstead.json](./191513-orrstead.json) |
+| Ors Killing | 149346 | [149346-ors-killing.json](./149346-ors-killing.json) |
 | Orso | 390200 | [390200-orso.json](./390200-orso.json) |
 | Orten Was the Case | 211596 | [211596-orten-was-the-case.json](./211596-orten-was-the-case.json) |
 | Orthanc | 146634 | [146634-orthanc.json](./146634-orthanc.json) |
@@ -3663,6 +3667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oumagatoki: Kaidan Romance | 219135 | [219135-oumagatoki-kaidan-romance.json](./219135-oumagatoki-kaidan-romance.json) |
 | OuO | 174781 | [174781-ouo.json](./174781-ouo.json) |
 | Our Adventure Time | 178549 | [178549-our-adventure-time.json](./178549-our-adventure-time.json) |
+| Our America | 149337 | [149337-our-america.json](./149337-our-america.json) |
 | Our Apartment | 168617 | [168617-our-apartment.json](./168617-our-apartment.json) |
 | Our Ascent | 341520 | [341520-our-ascent.json](./341520-our-ascent.json) |
 | Our Bad Ending | 354487 | [354487-our-bad-ending.json](./354487-our-bad-ending.json) |
