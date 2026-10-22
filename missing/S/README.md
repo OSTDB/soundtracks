@@ -5749,6 +5749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shape Defenders | 283385 | [283385-shape-defenders.json](./283385-shape-defenders.json) |
 | Shape Escape | 89752 | [89752-shape-escape.json](./89752-shape-escape.json) |
 | Shape Escape | 90362 | [90362-shape-escape.json](./90362-shape-escape.json) |
+| Shape Fold Animals | 101926 | [101926-shape-fold-animals.json](./101926-shape-fold-animals.json) |
 | Shape Garden | 240834 | [240834-shape-garden.json](./240834-shape-garden.json) |
 | Shape Invasion | 317445 | [317445-shape-invasion.json](./317445-shape-invasion.json) |
 | Shape of Clouds | 279115 | [279115-shape-of-clouds.json](./279115-shape-of-clouds.json) |
@@ -7208,6 +7209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shop Battle | 115399 | [115399-shop-battle.json](./115399-shop-battle.json) |
 | Shop Crush | 310059 | [310059-shop-crush.json](./310059-shop-crush.json) |
 | Shop Empire | 270596 | [270596-shop-empire.json](./270596-shop-empire.json) |
+| Shop Empire 3 | 102005 | [102005-shop-empire-3.json](./102005-shop-empire-3.json) |
 | Shop Empire Galaxy | 95959 | [95959-shop-empire-galaxy.json](./95959-shop-empire-galaxy.json) |
 | Shop Farm Tycoon | 395216 | [395216-shop-farm-tycoon.json](./395216-shop-farm-tycoon.json) |
 | Shop Heroes Legends: Idle RPG | 233118 | [233118-shop-heroes-legends-idle-rpg.json](./233118-shop-heroes-legends-idle-rpg.json) |
@@ -11317,6 +11319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smoker the Car Game | 107706 | [107706-smoker-the-car-game.json](./107706-smoker-the-car-game.json) |
 | Smokestack Saints: The Parkour Game Part I | 355350 | [355350-smokestack-saints-the-parkour-game-part-i.json](./355350-smokestack-saints-the-parkour-game-part-i.json) |
 | Smokey Bear | 286947 | [286947-smokey-bear.json](./286947-smokey-bear.json) |
+| Smokin Barrels 2 | 102016 | [102016-smokin-barrels-2.json](./102016-smokin-barrels-2.json) |
 | Smokin Potions | 360455 | [360455-smokin-potions.json](./360455-smokin-potions.json) |
 | Smokin' Guns | 27607 | [27607-smokin-guns.json](./27607-smokin-guns.json) |
 | Smokin' Guns - Shooting Gallery | 135854 | [135854-smokin-guns-shooting-gallery.json](./135854-smokin-guns-shooting-gallery.json) |
@@ -11458,6 +11461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snail Bob 5: Love Story | 248187 | [248187-snail-bob-5-love-story.json](./248187-snail-bob-5-love-story.json) |
 | Snail Bob 6: Winter Story | 248188 | [248188-snail-bob-6-winter-story.json](./248188-snail-bob-6-winter-story.json) |
 | Snail Bob 7: Fantasy Story | 248189 | [248189-snail-bob-7-fantasy-story.json](./248189-snail-bob-7-fantasy-story.json) |
+| Snail Bob 8: Island Story | 102024 | [102024-snail-bob-8-island-story.json](./102024-snail-bob-8-island-story.json) |
 | Snail Detective | 116008 | [116008-snail-detective.json](./116008-snail-detective.json) |
 | Snail Mail | 84877 | [84877-snail-mail.json](./84877-snail-mail.json) |
 | Snail Maze | 46118 | [46118-snail-maze.json](./46118-snail-maze.json) |
@@ -11771,6 +11775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sniper Assassin 3D Shooter 2 | 104101 | [104101-sniper-assassin-3d-shooter-2.json](./104101-sniper-assassin-3d-shooter-2.json) |
 | Sniper Assassin 4 | 316088 | [316088-sniper-assassin-4.json](./316088-sniper-assassin-4.json) |
 | Sniper Assassin 5: Final Mission | 316090 | [316090-sniper-assassin-5-final-mission.json](./316090-sniper-assassin-5-final-mission.json) |
+| Sniper Assassin: Zombies | 102025 | [102025-sniper-assassin-zombies.json](./102025-sniper-assassin-zombies.json) |
 | Sniper Assault | 66932 | [66932-sniper-assault.json](./66932-sniper-assault.json) |
 | Sniper at Work | 329764 | [329764-sniper-at-work.json](./329764-sniper-at-work.json) |
 | Sniper Blacklist | 34465 | [34465-sniper-blacklist.json](./34465-sniper-blacklist.json) |
@@ -20866,6 +20871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stick Slasher | 264615 | [264615-stick-slasher.json](./264615-stick-slasher.json) |
 | Stick Soldiers | 68700 | [68700-stick-soldiers.json](./68700-stick-soldiers.json) |
 | Stick Spartans | 102956 | [102956-stick-spartans.json](./102956-stick-spartans.json) |
+| Stick Squad 3 | 101924 | [101924-stick-squad-3.json](./101924-stick-squad-3.json) |
 | Stick Stunt Biker | 289564 | [289564-stick-stunt-biker.json](./289564-stick-stunt-biker.json) |
 | Stick Tennis | 277566 | [277566-stick-tennis.json](./277566-stick-tennis.json) |
 | Stick Tennis Tour | 261513 | [261513-stick-tennis-tour.json](./261513-stick-tennis-tour.json) |
@@ -22233,6 +22239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strike.is: The Game | 32046 | [32046-strike-is-the-game.json](./32046-strike-is-the-game.json) |
 | Strikefleet Omega | 63147 | [63147-strikefleet-omega.json](./63147-strikefleet-omega.json) |
 | Strikeforce | 361229 | [361229-strikeforce.json](./361229-strikeforce.json) |
+| Strikeforce Kitty 2 | 102018 | [102018-strikeforce-kitty-2.json](./102018-strikeforce-kitty-2.json) |
 | StrikeNet | 339655 | [339655-strikenet.json](./339655-strikenet.json) |
 | Striker | 12783 | [12783-striker.json](./12783-striker.json) |
 | Striker | 237503 | [237503-striker.json](./237503-striker.json) |
@@ -27329,6 +27336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Dreams Dahlia | 240694 | [240694-sweet-dreams-dahlia.json](./240694-sweet-dreams-dahlia.json) |
 | Sweet Dreams on Christmas Eve | 334697 | [334697-sweet-dreams-on-christmas-eve.json](./334697-sweet-dreams-on-christmas-eve.json) |
 | Sweet Driver | 372484 | [372484-sweet-driver.json](./372484-sweet-driver.json) |
+| Sweet Drmzzz | 102013 | [102013-sweet-drmzzz.json](./102013-sweet-drmzzz.json) |
 | Sweet Dungeon | 159750 | [159750-sweet-dungeon.json](./159750-sweet-dungeon.json) |
 | Sweet Elite | 298429 | [298429-sweet-elite.json](./298429-sweet-elite.json) |
 | Sweet Ex | 392906 | [392906-sweet-ex.json](./392906-sweet-ex.json) |
