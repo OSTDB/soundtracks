@@ -1959,6 +1959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Piece: Dai Kaizoku Colosseum | 75835 | [75835-one-piece-dai-kaizoku-colosseum.json](./75835-one-piece-dai-kaizoku-colosseum.json) |
 | One Piece: Dance Battle | 62120 | [62120-one-piece-dance-battle.json](./62120-one-piece-dance-battle.json) |
 | One Piece: Dream Pointer | 294778 | [294778-one-piece-dream-pointer.json](./294778-one-piece-dream-pointer.json) |
+| One Piece: Fighting Path | 153095 | [153095-one-piece-fighting-path.json](./153095-one-piece-fighting-path.json) |
 | One Piece: Gear Spirit | 47819 | [47819-one-piece-gear-spirit.json](./47819-one-piece-gear-spirit.json) |
 | One Piece: Gigant Battle! | 47818 | [47818-one-piece-gigant-battle.json](./47818-one-piece-gigant-battle.json) |
 | One Piece: Grand Adventure | 4053 | [4053-one-piece-grand-adventure.json](./4053-one-piece-grand-adventure.json) |
