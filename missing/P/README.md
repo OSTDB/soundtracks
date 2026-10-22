@@ -4466,6 +4466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phonetic | 193647 | [193647-phonetic.json](./193647-phonetic.json) |
 | Phonics Fun with Biff, Chip & Kipper Vol. 1 | 61657 | [61657-phonics-fun-with-biff-chip-and-kipper-vol-1.json](./61657-phonics-fun-with-biff-chip-and-kipper-vol-1.json) |
 | Phonics-Diagraphsgame | 96535 | [96535-phonics-diagraphsgame.json](./96535-phonics-diagraphsgame.json) |
+| Phonics-Letter Sound flashcards | 102646 | [102646-phonics-letter-sound-flashcards.json](./102646-phonics-letter-sound-flashcards.json) |
 | Phoning Home | 27116 | [27116-phoning-home.json](./27116-phoning-home.json) |
 | Phonkside Killers | 389000 | [389000-phonkside-killers.json](./389000-phonkside-killers.json) |
 | Phonopolis | 204549 | [204549-phonopolis.json](./204549-phonopolis.json) |
@@ -8043,6 +8044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Card Jockey: Ride On! | 230543 | [230543-pocket-card-jockey-ride-on.json](./230543-pocket-card-jockey-ride-on.json) |
 | Pocket Chibi - Anime Dress Up | 104454 | [104454-pocket-chibi-anime-dress-up.json](./104454-pocket-chibi-anime-dress-up.json) |
 | Pocket City | 79996 | [79996-pocket-city.json](./79996-pocket-city.json) |
+| Pocket Clothier | 102632 | [102632-pocket-clothier.json](./102632-pocket-clothier.json) |
 | Pocket Color Billiard | 137631 | [137631-pocket-color-billiard.json](./137631-pocket-color-billiard.json) |
 | Pocket Color Trump | 137983 | [137983-pocket-color-trump.json](./137983-pocket-color-trump.json) |
 | Pocket Cowboy | 175437 | [175437-pocket-cowboy.json](./175437-pocket-cowboy.json) |
