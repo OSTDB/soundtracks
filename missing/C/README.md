@@ -8729,6 +8729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Codex Combat | 392180 | [392180-codex-combat.json](./392180-codex-combat.json) |
 | Codex Lost | 235597 | [235597-codex-lost.json](./235597-codex-lost.json) |
 | Codex of Victory | 27802 | [27802-codex-of-victory.json](./27802-codex-of-victory.json) |
+| Codex Temondera: Lost Vision | 115340 | [115340-codex-temondera-lost-vision.json](./115340-codex-temondera-lost-vision.json) |
 | Codex: Recall | 419171 | [419171-codex-recall.json](./419171-codex-recall.json) |
 | Coding Day | 302094 | [302094-coding-day.json](./302094-coding-day.json) |
 | Coding With Doc | 372594 | [372594-coding-with-doc.json](./372594-coding-with-doc.json) |
@@ -14134,6 +14135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crumbled World | 30751 | [30751-crumbled-world.json](./30751-crumbled-world.json) |
 | Crumbling | 192499 | [192499-crumbling.json](./192499-crumbling.json) |
 | Crumbling Construction, Inc. | 184375 | [184375-crumbling-construction-inc.json](./184375-crumbling-construction-inc.json) |
+| Crumbling World | 115386 | [115386-crumbling-world.json](./115386-crumbling-world.json) |
 | Crumpets | 141484 | [141484-crumpets.json](./141484-crumpets.json) |
 | Crumpets 2 | 287308 | [287308-crumpets-2.json](./287308-crumpets-2.json) |
 | Crumps | 334270 | [334270-crumps.json](./334270-crumps.json) |
@@ -14756,6 +14758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube Life: Island Survival | 60151 | [60151-cube-life-island-survival.json](./60151-cube-life-island-survival.json) |
 | Cube Life: Island Survival 2018 | 96067 | [96067-cube-life-island-survival-2018.json](./96067-cube-life-island-survival-2018.json) |
 | Cube Link | 51966 | [51966-cube-link.json](./51966-cube-link.json) |
+| Cube Man | 115367 | [115367-cube-man.json](./115367-cube-man.json) |
 | Cube Master | 116966 | [116966-cube-master.json](./116966-cube-master.json) |
 | Cube Master | 13708 | [13708-cube-master.json](./13708-cube-master.json) |
 | Cube Master: Light Adventure | 408975 | [408975-cube-master-light-adventure.json](./408975-cube-master-light-adventure.json) |
