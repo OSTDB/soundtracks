@@ -835,6 +835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naughty & Nice | 283732 | [283732-naughty-and-nice.json](./283732-naughty-and-nice.json) |
 | Naughty Baby | 420666 | [420666-naughty-baby.json](./420666-naughty-baby.json) |
 | Naughty Bear | 2633 | [2633-naughty-bear.json](./2633-naughty-bear.json) |
+| Naughty Bear Double Trouble | 99967 | [99967-naughty-bear-double-trouble.json](./99967-naughty-bear-double-trouble.json) |
 | Naughty Bear: Panic in Paradise | 6037 | [6037-naughty-bear-panic-in-paradise.json](./6037-naughty-bear-panic-in-paradise.json) |
 | Naughty Boy | 40990 | [40990-naughty-boy.json](./40990-naughty-boy.json) |
 | Naughty College 18+ | 258984 | [258984-naughty-college-18.json](./258984-naughty-college-18.json) |
