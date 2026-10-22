@@ -2069,6 +2069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farm Wars: The Farmer's Wrath | 215567 | [215567-farm-wars-the-farmers-wrath.json](./215567-farm-wars-the-farmers-wrath.json) |
 | Farm World | 36062 | [36062-farm-world.json](./36062-farm-world.json) |
 | Farm Your Friends | 132276 | [132276-farm-your-friends.json](./132276-farm-your-friends.json) |
+| Farm&Fix 2020 | 115383 | [115383-farm-and-fix-2020.json](./115383-farm-and-fix-2020.json) |
 | Farm2 + | 406082 | [406082-farm2.json](./406082-farm2.json) |
 | Farma Force | 236319 | [236319-farma-force.json](./236319-farma-force.json) |
 | Farmageddon | 362279 | [362279-farmageddon.json](./362279-farmageddon.json) |
@@ -4818,6 +4819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Firemakaf | 178606 | [178606-firemakaf.json](./178606-firemakaf.json) |
 | Fireman Titan Fights Games | 105934 | [105934-fireman-titan-fights-games.json](./105934-fireman-titan-fights-games.json) |
 | Fireman! Fire Fighter Truck Driving Games for Kids | 104504 | [104504-fireman-fire-fighter-truck-driving-games-for-kids.json](./104504-fireman-fire-fighter-truck-driving-games-for-kids.json) |
+| Fireman's Quest | 115358 | [115358-firemans-quest.json](./115358-firemans-quest.json) |
 | FireMatch Empire | 382319 | [382319-firematch-empire.json](./382319-firematch-empire.json) |
 | Fireplace | 68630 | [68630-fireplace.json](./68630-fireplace.json) |
 | Fireplace Simulator | 337615 | [337615-fireplace-simulator.json](./337615-fireplace-simulator.json) |
