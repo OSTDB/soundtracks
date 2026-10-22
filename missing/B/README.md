@@ -8500,6 +8500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood of the Elves | 290560 | [290560-blood-of-the-elves.json](./290560-blood-of-the-elves.json) |
 | Blood of the Killer | 178572 | [178572-blood-of-the-killer.json](./178572-blood-of-the-killer.json) |
 | Blood of the Tyrant | 362050 | [362050-blood-of-the-tyrant.json](./362050-blood-of-the-tyrant.json) |
+| Blood of Titans | 151427 | [151427-blood-of-titans.json](./151427-blood-of-titans.json) |
 | Blood of Utpia | 189930 | [189930-blood-of-utpia.json](./189930-blood-of-utpia.json) |
 | Blood of Vladula Jr. | 307237 | [307237-blood-of-vladula-jr.json](./307237-blood-of-vladula-jr.json) |
 | Blood Omen 2: Legacy of Kain | 323372 | [323372-blood-omen-2-legacy-of-kain.json](./323372-blood-omen-2-legacy-of-kain.json) |
@@ -9240,6 +9241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bob et Bobette: Les Dompteurs du Temps | 93967 | [93967-bob-et-bobette-les-dompteurs-du-temps.json](./93967-bob-et-bobette-les-dompteurs-du-temps.json) |
 | Bob Fight | 303347 | [303347-bob-fight.json](./303347-bob-fight.json) |
 | Bob Invasion | 294693 | [294693-bob-invasion.json](./294693-bob-invasion.json) |
+| Bob Mazzolini Racing | 151428 | [151428-bob-mazzolini-racing.json](./151428-bob-mazzolini-racing.json) |
 | Bob Morane: Chevalerie 1 | 55094 | [55094-bob-morane-chevalerie-1.json](./55094-bob-morane-chevalerie-1.json) |
 | Bob Morane: Jungle 1 | 55095 | [55095-bob-morane-jungle-1.json](./55095-bob-morane-jungle-1.json) |
 | Bob Morane: Science Fiction 1 | 55096 | [55096-bob-morane-science-fiction-1.json](./55096-bob-morane-science-fiction-1.json) |
@@ -12143,6 +12145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brix II Deluxe | 148451 | [148451-brix-ii-deluxe.json](./148451-brix-ii-deluxe.json) |
 | Brix VR | 116324 | [116324-brix-vr.json](./116324-brix-vr.json) |
 | Brixity | 188331 | [188331-brixity.json](./188331-brixity.json) |
+| Bro, Where's My Head? | 151445 | [151445-bro-wheres-my-head.json](./151445-bro-wheres-my-head.json) |
 | Broad Daylight | 319289 | [319289-broad-daylight.json](./319289-broad-daylight.json) |
 | Broad Sword | 270000 | [270000-broad-sword.json](./270000-broad-sword.json) |
 | Broadband Architect | 421849 | [421849-broadband-architect.json](./421849-broadband-architect.json) |
@@ -13754,6 +13757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burnstar | 17747 | [17747-burnstar.json](./17747-burnstar.json) |
 | Burnstation | 405338 | [405338-burnstation.json](./405338-burnstation.json) |
 | Burnt | 273137 | [273137-burnt.json](./273137-burnt.json) |
+| Burnt Ashes | 151454 | [151454-burnt-ashes.json](./151454-burnt-ashes.json) |
 | Burnt Legacy | 302482 | [302482-burnt-legacy.json](./302482-burnt-legacy.json) |
 | Burnt Rubber | 112850 | [112850-burnt-rubber.json](./112850-burnt-rubber.json) |
 | Burntcrust | 389089 | [389089-burntcrust.json](./389089-burntcrust.json) |
