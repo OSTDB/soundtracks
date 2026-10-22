@@ -1042,6 +1042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Youda Legend: The Curse of the Amsterdam Diamond | 52103 | [52103-youda-legend-the-curse-of-the-amsterdam-diamond.json](./52103-youda-legend-the-curse-of-the-amsterdam-diamond.json) |
 | Youda Legend: The Golden Bird of Paradise | 108627 | [108627-youda-legend-the-golden-bird-of-paradise.json](./108627-youda-legend-the-golden-bird-of-paradise.json) |
 | Youda Marina | 9305 | [9305-youda-marina.json](./9305-youda-marina.json) |
+| Youda Mystery: The Stanwick Legacy | 104403 | [104403-youda-mystery-the-stanwick-legacy.json](./104403-youda-mystery-the-stanwick-legacy.json) |
 | Youda Safari | 9304 | [9304-youda-safari.json](./9304-youda-safari.json) |
 | Youda Survivor | 9303 | [9303-youda-survivor.json](./9303-youda-survivor.json) |
 | Youda Survivor 2 | 9302 | [9302-youda-survivor-2.json](./9302-youda-survivor-2.json) |
