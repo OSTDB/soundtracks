@@ -54,6 +54,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | E'tude Prologue: Yureugoku Kokoro no Katachi | 204482 | [204482-etude-prologue-yureugoku-kokoro-no-katachi.json](./204482-etude-prologue-yureugoku-kokoro-no-katachi.json) |
 | E'tude Prologue: Yureugoku Kokoro no Katachi Portable | 127143 | [127143-etude-prologue-yureugoku-kokoro-no-katachi-portable.json](./127143-etude-prologue-yureugoku-kokoro-no-katachi-portable.json) |
 | E008 | 153129 | [153129-e008.json](./153129-e008.json) |
+| E06-Anomaly | 118616 | [118616-e06-anomaly.json](./118616-e06-anomaly.json) |
 | E13ven Minute Train Ride | 340546 | [340546-e13ven-minute-train-ride.json](./340546-e13ven-minute-train-ride.json) |
 | E30 Drift Car Simulator | 234532 | [234532-e30-drift-car-simulator.json](./234532-e30-drift-car-simulator.json) |
 | E3pdr | 249017 | [249017-e3pdr.json](./249017-e3pdr.json) |
