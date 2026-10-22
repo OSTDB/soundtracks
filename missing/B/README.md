@@ -734,6 +734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -1567,6 +1568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bandit Kings of Ancient China | 273085 | [273085-bandit-kings-of-ancient-china.json](./273085-bandit-kings-of-ancient-china.json) |
 | Bandit Kings of Ancient China | 9496 | [9496-bandit-kings-of-ancient-china.json](./9496-bandit-kings-of-ancient-china.json) |
 | Bandit Knight | 258991 | [258991-bandit-knight.json](./258991-bandit-knight.json) |
+| Bandit Point | 114717 | [114717-bandit-point.json](./114717-bandit-point.json) |
 | Bandit Simulator | 121474 | [121474-bandit-simulator.json](./121474-bandit-simulator.json) |
 | Bandit Skies | 96720 | [96720-bandit-skies.json](./96720-bandit-skies.json) |
 | Bandit Trap | 306417 | [306417-bandit-trap.json](./306417-bandit-trap.json) |
@@ -2798,6 +2800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Brothers: Of Flesh and Faith | 193130 | [193130-battle-brothers-of-flesh-and-faith.json](./193130-battle-brothers-of-flesh-and-faith.json) |
 | Battle Bruise | 28320 | [28320-battle-bruise.json](./28320-battle-bruise.json) |
 | Battle Bugs | 12402 | [12402-battle-bugs.json](./12402-battle-bugs.json) |
+| Battle Buzz: The Great Honey War | 114718 | [114718-battle-buzz-the-great-honey-war.json](./114718-battle-buzz-the-great-honey-war.json) |
 | Battle Calculator | 165562 | [165562-battle-calculator.json](./165562-battle-calculator.json) |
 | Battle Camp | 38887 | [38887-battle-camp.json](./38887-battle-camp.json) |
 | Battle Capacity | 332815 | [332815-battle-capacity.json](./332815-battle-capacity.json) |
@@ -8072,6 +8075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blobkin Blaster | 158699 | [158699-blobkin-blaster.json](./158699-blobkin-blaster.json) |
 | Blobl.io | 316086 | [316086-blobl-io.json](./316086-blobl-io.json) |
 | Bloble.io | 126022 | [126022-bloble-io.json](./126022-bloble-io.json) |
+| Blobout | 114710 | [114710-blobout.json](./114710-blobout.json) |
 | Blobs: A puzzle game | 101048 | [101048-blobs-a-puzzle-game.json](./101048-blobs-a-puzzle-game.json) |
 | Blobster | 93580 | [93580-blobster.json](./93580-blobster.json) |
 | Blobtown | 346759 | [346759-blobtown.json](./346759-blobtown.json) |
@@ -9445,6 +9449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bobrkur | 368551 | [368551-bobrkur.json](./368551-bobrkur.json) |
 | BobsleighX | 265718 | [265718-bobsleighx.json](./265718-bobsleighx.json) |
 | BobSP Series | 272000 | [272000-bobsp-series.json](./272000-bobsp-series.json) |
+| Bobsu! | 114694 | [114694-bobsu.json](./114694-bobsu.json) |
 | Boby and the Witch | 406327 | [406327-boby-and-the-witch.json](./406327-boby-and-the-witch.json) |
 | BOC | 127030 | [127030-boc.json](./127030-boc.json) |
 | Bocce | 77184 | [77184-bocce.json](./77184-bocce.json) |
@@ -11332,6 +11337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Braise | 332996 | [332996-braise.json](./332996-braise.json) |
 | Braiser | 323593 | [323593-braiser.json](./323593-braiser.json) |
 | Brake Away | 178561 | [178561-brake-away.json](./178561-brake-away.json) |
+| Brake or Break | 114716 | [114716-brake-or-break.json](./114716-brake-or-break.json) |
 | Brake to Die | 100844 | [100844-brake-to-die.json](./100844-brake-to-die.json) |
 | Bram Stoker's Dracula | 14339 | [14339-bram-stokers-dracula.json](./14339-bram-stokers-dracula.json) |
 | Bram Stoker's Dracula | 14341 | [14341-bram-stokers-dracula.json](./14341-bram-stokers-dracula.json) |
@@ -12317,6 +12323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broke in Isekai | 310925 | [310925-broke-in-isekai.json](./310925-broke-in-isekai.json) |
 | Broke Signal Badlands: A World of Desert Adventure | 280292 | [280292-broke-signal-badlands-a-world-of-desert-adventure.json](./280292-broke-signal-badlands-a-world-of-desert-adventure.json) |
 | Broke Street | 421847 | [421847-broke-street.json](./421847-broke-street.json) |
+| Broken | 114723 | [114723-broken.json](./114723-broken.json) |
 | Broken | 188446 | [188446-broken.json](./188446-broken.json) |
 | Broken Age: The Complete Adventure | 20865 | [20865-broken-age-the-complete-adventure.json](./20865-broken-age-the-complete-adventure.json) |
 | Broken Alliance | 199278 | [199278-broken-alliance.json](./199278-broken-alliance.json) |
