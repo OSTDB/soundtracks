@@ -148,6 +148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Babel of Ystilia | 236132 | [236132-babel-of-ystilia.json](./236132-babel-of-ystilia.json) |
 | Babel Rising: Sky's the Limit | 10018 | [10018-babel-rising-skys-the-limit.json](./10018-babel-rising-skys-the-limit.json) |
 | Babel Running | 10019 | [10019-babel-running.json](./10019-babel-running.json) |
+| Babel Sword | 105064 | [105064-babel-sword.json](./105064-babel-sword.json) |
 | Babel: The King of the Blocks | 42831 | [42831-babel-the-king-of-the-blocks.json](./42831-babel-the-king-of-the-blocks.json) |
 | Babel: Tower to the Gods | 33535 | [33535-babel-tower-to-the-gods.json](./33535-babel-tower-to-the-gods.json) |
 | Babelomania | 318390 | [318390-babelomania.json](./318390-babelomania.json) |
@@ -5509,6 +5510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond the Forbidden Lands | 310657 | [310657-beyond-the-forbidden-lands.json](./310657-beyond-the-forbidden-lands.json) |
 | Beyond The Frame | 411756 | [411756-beyond-the-frame.json](./411756-beyond-the-frame.json) |
 | Beyond the Fringe | 296498 | [296498-beyond-the-fringe.json](./296498-beyond-the-fringe.json) |
+| Beyond the Frontier | 105065 | [105065-beyond-the-frontier.json](./105065-beyond-the-frontier.json) |
 | Beyond the Future: Fix the Time Arrows | 44588 | [44588-beyond-the-future-fix-the-time-arrows.json](./44588-beyond-the-future-fix-the-time-arrows.json) |
 | Beyond the Gate | 177428 | [177428-beyond-the-gate.json](./177428-beyond-the-gate.json) |
 | Beyond the Gate | 226248 | [226248-beyond-the-gate.json](./226248-beyond-the-gate.json) |
