@@ -2755,6 +2755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Volt Patrol | 126341 | [126341-volt-patrol.json](./126341-volt-patrol.json) |
 | Volt Recharge | 301069 | [301069-volt-recharge.json](./301069-volt-recharge.json) |
 | Volt Snake | 413058 | [413058-volt-snake.json](./413058-volt-snake.json) |
+| Voltage | 131193 | [131193-voltage.json](./131193-voltage.json) |
 | Voltage Fighter Gowcaizer | 39590 | [39590-voltage-fighter-gowcaizer.json](./39590-voltage-fighter-gowcaizer.json) |
 | Voltage High Society | 208420 | [208420-voltage-high-society.json](./208420-voltage-high-society.json) |
 | Voltage Vamp | 401927 | [401927-voltage-vamp.json](./401927-voltage-vamp.json) |
