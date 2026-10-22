@@ -5866,6 +5866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | High Fructose | 277011 | [277011-high-fructose.json](./277011-high-fructose.json) |
 | High Für 3 Score | 243019 | [243019-high-fur-3-score.json](./243019-high-fur-3-score.json) |
 | High Gravity | 421218 | [421218-high-gravity.json](./421218-high-gravity.json) |
+| High Grenadier | 108766 | [108766-high-grenadier.json](./108766-high-grenadier.json) |
 | High Heat Baseball 1999 | 68250 | [68250-high-heat-baseball-1999.json](./68250-high-heat-baseball-1999.json) |
 | High Heat Baseball 2000 | 746 | [746-high-heat-baseball-2000.json](./746-high-heat-baseball-2000.json) |
 | High Heat Major League Baseball 2002 | 248754 | [248754-high-heat-major-league-baseball-2002.json](./248754-high-heat-major-league-baseball-2002.json) |
@@ -8492,6 +8493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hotline Omsk | 255156 | [255156-hotline-omsk.json](./255156-hotline-omsk.json) |
 | Hotloop | 235845 | [235845-hotloop.json](./235845-hotloop.json) |
 | Hototogisu | 64355 | [64355-hototogisu.json](./64355-hototogisu.json) |
+| Hototogisu Tairan 1553: Ryuko Aiutsu | 108779 | [108779-hototogisu-tairan-1553-ryuko-aiutsu.json](./108779-hototogisu-tairan-1553-ryuko-aiutsu.json) |
 | Hototogisu Tairan 1553: Ryuuko Aiutsu | 85835 | [85835-hototogisu-tairan-1553-ryuuko-aiutsu.json](./85835-hototogisu-tairan-1553-ryuuko-aiutsu.json) |
 | Hotpot Defense | 348245 | [348245-hotpot-defense.json](./348245-hotpot-defense.json) |
 | HotPuzzle: Video | 368518 | [368518-hotpuzzle-video.json](./368518-hotpuzzle-video.json) |
@@ -9471,6 +9473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunters All Star Battle | 137657 | [137657-hunters-all-star-battle.json](./137657-hunters-all-star-battle.json) |
 | Hunters For Your Brain | 118804 | [118804-hunters-for-your-brain.json](./118804-hunters-for-your-brain.json) |
 | Hunters Gate | 110327 | [110327-hunters-gate.json](./110327-hunters-gate.json) |
+| Hunters League | 108758 | [108758-hunters-league.json](./108758-hunters-league.json) |
 | Hunters Music World | 389059 | [389059-hunters-music-world.json](./389059-hunters-music-world.json) |
 | Hunters of Idlearth | 348371 | [348371-hunters-of-idlearth.json](./348371-hunters-of-idlearth.json) |
 | Hunters of Ralk | 291016 | [291016-hunters-of-ralk.json](./291016-hunters-of-ralk.json) |
