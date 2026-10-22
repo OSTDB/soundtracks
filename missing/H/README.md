@@ -2337,6 +2337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hazel | 227930 | [227930-hazel.json](./227930-hazel.json) |
 | Hazel & The Deep | 321024 | [321024-hazel-and-the-deep.json](./321024-hazel-and-the-deep.json) |
 | Hazel Rush | 413010 | [413010-hazel-rush.json](./413010-hazel-rush.json) |
+| Hazel Sky | 131883 | [131883-hazel-sky.json](./131883-hazel-sky.json) |
 | Hazel Sky: Deluxe Edition | 227180 | [227180-hazel-sky-deluxe-edition.json](./227180-hazel-sky-deluxe-edition.json) |
 | Hazelnut Bastille | 36927 | [36927-hazelnut-bastille.json](./36927-hazelnut-bastille.json) |
 | Hazelnut Hex | 218725 | [218725-hazelnut-hex.json](./218725-hazelnut-hex.json) |
@@ -2602,6 +2603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hearthguard | 356677 | [356677-hearthguard.json](./356677-hearthguard.json) |
 | Hearthkeeper | 253489 | [253489-hearthkeeper.json](./253489-hearthkeeper.json) |
 | Hearthstone: Across the Timeways | 322150 | [322150-hearthstone-across-the-timeways.json](./322150-hearthstone-across-the-timeways.json) |
+| Hearthstone: Ashes of Outland | 131879 | [131879-hearthstone-ashes-of-outland.json](./131879-hearthstone-ashes-of-outland.json) |
 | Hearthstone: Ashes of Outland - Trial by Felfire | 135707 | [135707-hearthstone-ashes-of-outland-trial-by-felfire.json](./135707-hearthstone-ashes-of-outland-trial-by-felfire.json) |
 | Hearthstone: Descent of Dragons | 125176 | [125176-hearthstone-descent-of-dragons.json](./125176-hearthstone-descent-of-dragons.json) |
 | Hearthstone: Descent of Dragons - Galakrond's Awakening | 135706 | [135706-hearthstone-descent-of-dragons-galakronds-awakening.json](./135706-hearthstone-descent-of-dragons-galakronds-awakening.json) |
