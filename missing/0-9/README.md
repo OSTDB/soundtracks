@@ -2027,6 +2027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 4-nin Shogi | 38240 | [38240-4-nin-shogi.json](./38240-4-nin-shogi.json) |
 | 4-nin Uchi Mahjong | 93369 | [93369-4-nin-uchi-mahjong.json](./93369-4-nin-uchi-mahjong.json) |
 | 4-Play Action Pack (Volume 1) | 86046 | [86046-4-play-action-pack-volume-1.json](./86046-4-play-action-pack-volume-1.json) |
+| 4-Wheel City Drifting | 107576 | [107576-4-wheel-city-drifting.json](./107576-4-wheel-city-drifting.json) |
 | 4:32 | 208894 | [208894-4-32.json](./208894-4-32.json) |
 | 4:AM | 272220 | [272220-4-am.json](./272220-4-am.json) |
 | 4:Loop | 381217 | [381217-4-loop.json](./381217-4-loop.json) |
