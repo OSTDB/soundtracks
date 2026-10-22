@@ -2967,6 +2967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jurassic Hopper: Crossy Dinos | 259734 | [259734-jurassic-hopper-crossy-dinos.json](./259734-jurassic-hopper-crossy-dinos.json) |
 | Jurassic Hunter | 151648 | [151648-jurassic-hunter.json](./151648-jurassic-hunter.json) |
 | Jurassic Island Rescue and Escape | 294433 | [294433-jurassic-island-rescue-and-escape.json](./294433-jurassic-island-rescue-and-escape.json) |
+| Jurassic Island VR | 105702 | [105702-jurassic-island-vr.json](./105702-jurassic-island-vr.json) |
 | Jurassic Island: The Dinosaur Zoo | 14745 | [14745-jurassic-island-the-dinosaur-zoo.json](./14745-jurassic-island-the-dinosaur-zoo.json) |
 | Jurassic Knights: Tactics | 311898 | [311898-jurassic-knights-tactics.json](./311898-jurassic-knights-tactics.json) |
 | Jurassic Lab: Dinosarium DNA | 211780 | [211780-jurassic-lab-dinosarium-dna.json](./211780-jurassic-lab-dinosarium-dna.json) |
