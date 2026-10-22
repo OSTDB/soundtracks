@@ -9689,6 +9689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Come with Me | 147401 | [147401-come-with-me.json](./147401-come-with-me.json) |
 | Comeback Golf | 181716 | [181716-comeback-golf.json](./181716-comeback-golf.json) |
 | Comer | 94225 | [94225-comer.json](./94225-comer.json) |
+| Comet | 153222 | [153222-comet.json](./153222-comet.json) |
 | Comet | 28105 | [28105-comet.json](./28105-comet.json) |
 | Comet | 288689 | [288689-comet.json](./288689-comet.json) |
 | Comet | 91155 | [91155-comet.json](./91155-comet.json) |
