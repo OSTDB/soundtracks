@@ -1032,6 +1032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candy Box U | 402983 | [402983-candy-box-u.json](./402983-candy-box-u.json) |
 | Candy Boy | 217021 | [217021-candy-boy.json](./217021-candy-boy.json) |
 | Candy Brain | 393796 | [393796-candy-brain.json](./393796-candy-brain.json) |
+| Candy Break Bomb | 102659 | [102659-candy-break-bomb.json](./102659-candy-break-bomb.json) |
 | Candy Chefs | 104775 | [104775-candy-chefs.json](./104775-candy-chefs.json) |
 | Candy choppers | 268636 | [268636-candy-choppers.json](./268636-candy-choppers.json) |
 | Candy Country: Sweet Wonder | 338003 | [338003-candy-country-sweet-wonder.json](./338003-candy-country-sweet-wonder.json) |
@@ -7842,6 +7843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cleopatra Fortune: S-Tribute | 225886 | [225886-cleopatra-fortune-s-tribute.json](./225886-cleopatra-fortune-s-tribute.json) |
 | Cleopatra no Mahou | 41328 | [41328-cleopatra-no-mahou.json](./41328-cleopatra-no-mahou.json) |
 | Cleopatra: Riddle of the Tomb | 21479 | [21479-cleopatra-riddle-of-the-tomb.json](./21479-cleopatra-riddle-of-the-tomb.json) |
+| Cleopatra's Pyramid HD | 102635 | [102635-cleopatras-pyramid-hd.json](./102635-cleopatras-pyramid-hd.json) |
 | Clériga | 300674 | [300674-cleriga.json](./300674-cleriga.json) |
 | Clerk Hot Tale | 157397 | [157397-clerk-hot-tale.json](./157397-clerk-hot-tale.json) |
 | Cleromancy | 199305 | [199305-cleromancy.json](./199305-cleromancy.json) |
@@ -10092,6 +10094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Community Build Project 9: Halloween-2020 | 308480 | [308480-community-build-project-9-halloween-2020.json](./308480-community-build-project-9-halloween-2020.json) |
 | Community Button | 402383 | [402383-community-button.json](./402383-community-button.json) |
 | Community College Hero: Fun and Games | 190049 | [190049-community-college-hero-fun-and-games.json](./190049-community-college-hero-fun-and-games.json) |
+| Community College Hero: Knowledge is Power | 102552 | [102552-community-college-hero-knowledge-is-power.json](./102552-community-college-hero-knowledge-is-power.json) |
 | Community College Hero: Knowledge is Power | 99058 | [99058-community-college-hero-knowledge-is-power.json](./99058-community-college-hero-knowledge-is-power.json) |
 | Community College Hero: Trial by Fire | 34205 | [34205-community-college-hero-trial-by-fire.json](./34205-community-college-hero-trial-by-fire.json) |
 | Community Garden | 68589 | [68589-community-garden.json](./68589-community-garden.json) |
