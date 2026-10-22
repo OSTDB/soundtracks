@@ -2125,6 +2125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 5 Card Slingo | 321768 | [321768-5-card-slingo.json](./321768-5-card-slingo.json) |
 | 5 Days | 226096 | [226096-5-days.json](./226096-5-days.json) |
 | 5 Days, Minimum Wage. | 308953 | [308953-5-days-minimum-wage.json](./308953-5-days-minimum-wage.json) |
+| 5 Force Fighters | 153691 | [153691-5-force-fighters.json](./153691-5-force-fighters.json) |
 | 5 ft. 10 Pak: Award Winning Collection | 401082 | [401082-5-ft-10-pak-award-winning-collection.json](./401082-5-ft-10-pak-award-winning-collection.json) |
 | 5 ft. 10 Pak: Vol. I | 401081 | [401081-5-ft-10-pak-vol-i.json](./401081-5-ft-10-pak-vol-i.json) |
 | 5 Ft. 10 Pak: Volume Two | 401080 | [401080-5-ft-10-pak-volume-two.json](./401080-5-ft-10-pak-volume-two.json) |
