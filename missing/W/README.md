@@ -1459,6 +1459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warp Commander | 360673 | [360673-warp-commander.json](./360673-warp-commander.json) |
 | Warp Defender | 290984 | [290984-warp-defender.json](./290984-warp-defender.json) |
 | Warp Destroyer | 234775 | [234775-warp-destroyer.json](./234775-warp-destroyer.json) |
+| Warp Drive | 143530 | [143530-warp-drive.json](./143530-warp-drive.json) |
 | Warp Gate World Kingdom Tales | 254653 | [254653-warp-gate-world-kingdom-tales.json](./254653-warp-gate-world-kingdom-tales.json) |
 | Warp Glider | 112073 | [112073-warp-glider.json](./112073-warp-glider.json) |
 | Warp Knights | 391891 | [391891-warp-knights.json](./391891-warp-knights.json) |
@@ -5661,6 +5662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wonky Wizard | 181006 | [181006-wonky-wizard.json](./181006-wonky-wizard.json) |
 | Wonky Works! | 189051 | [189051-wonky-works.json](./189051-wonky-works.json) |
 | Wonscotonach | 364365 | [364365-wonscotonach.json](./364365-wonscotonach.json) |
+| WonShot | 142932 | [142932-wonshot.json](./142932-wonshot.json) |
 | Woo Woo | 388919 | [388919-woo-woo.json](./388919-woo-woo.json) |
 | Woo Wop Da Bam | 160173 | [160173-woo-wop-da-bam.json](./160173-woo-wop-da-bam.json) |
 | Woobies | 294205 | [294205-woobies.json](./294205-woobies.json) |
