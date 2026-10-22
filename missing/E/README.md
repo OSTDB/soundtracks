@@ -844,6 +844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Economia: Millennium | 284834 | [284834-economia-millennium.json](./284834-economia-millennium.json) |
 | Economic Miracle | 361486 | [361486-economic-miracle.json](./361486-economic-miracle.json) |
 | Economic War | 202701 | [202701-economic-war.json](./202701-economic-war.json) |
+| Economica | 131218 | [131218-economica.json](./131218-economica.json) |
 | Economy Bundle | 193740 | [193740-economy-bundle.json](./193740-economy-bundle.json) |
 | Ecoplanet | 217224 | [217224-ecoplanet.json](./217224-ecoplanet.json) |
 | Ecopoiesis | 75927 | [75927-ecopoiesis.json](./75927-ecopoiesis.json) |
@@ -1445,6 +1446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | El Conquista | 362410 | [362410-el-conquista.json](./362410-el-conquista.json) |
 | El crítico | 115413 | [115413-el-critico.json](./115413-el-critico.json) |
 | El cuerpo humano con Pipo | 294587 | [294587-el-cuerpo-humano-con-pipo.json](./294587-el-cuerpo-humano-con-pipo.json) |
+| El Culto: Edición Completa | 131224 | [131224-el-culto-edicion-completa.json](./131224-el-culto-edicion-completa.json) |
 | El Dios de Nauru | 321014 | [321014-el-dios-de-nauru.json](./321014-el-dios-de-nauru.json) |
 | El Dorado | 214994 | [214994-el-dorado.json](./214994-el-dorado.json) |
 | El Dorado | 312880 | [312880-el-dorado.json](./312880-el-dorado.json) |
@@ -3826,6 +3828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Es Un Día Normal y Eso Es Casi Milagroso | 346642 | [346642-es-un-dia-normal-y-eso-es-casi-milagroso.json](./346642-es-un-dia-normal-y-eso-es-casi-milagroso.json) |
 | ESA Shield | 348660 | [348660-esa-shield.json](./348660-esa-shield.json) |
 | eSail | 89648 | [89648-esail.json](./89648-esail.json) |
+| eSail Yacht Sailing Simulator | 131236 | [131236-esail-yacht-sailing-simulator.json](./131236-esail-yacht-sailing-simulator.json) |
 | Esau's World | 294150 | [294150-esaus-world.json](./294150-esaus-world.json) |
 | Esc | 177419 | [177419-esc.json](./177419-esc.json) |
 | ESC | 127884 | [127884-esc.json](./127884-esc.json) |
