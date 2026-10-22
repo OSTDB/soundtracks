@@ -2218,6 +2218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scary Wife Chapter 2 | 303092 | [303092-scary-wife-chapter-2.json](./303092-scary-wife-chapter-2.json) |
 | Scaryfish III | 71786 | [71786-scaryfish-iii.json](./71786-scaryfish-iii.json) |
 | Scarygirl Illustration Kit | 85364 | [85364-scarygirl-illustration-kit.json](./85364-scarygirl-illustration-kit.json) |
+| Scarytales: All Hail King Mongo | 118642 | [118642-scarytales-all-hail-king-mongo.json](./118642-scarytales-all-hail-king-mongo.json) |
 | Scatch 2: The Painter Cat | 278983 | [278983-scatch-2-the-painter-cat.json](./278983-scatch-2-the-painter-cat.json) |
 | Scatch: The Painter Cat | 195960 | [195960-scatch-the-painter-cat.json](./195960-scatch-the-painter-cat.json) |
 | Scatter | 114247 | [114247-scatter.json](./114247-scatter.json) |
@@ -10563,6 +10564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slime Quest | 248145 | [248145-slime-quest.json](./248145-slime-quest.json) |
 | Slime Rancher 2 | 152243 | [152243-slime-rancher-2.json](./152243-slime-rancher-2.json) |
 | Slime Rancher Rainbow Bundle | 293761 | [293761-slime-rancher-rainbow-bundle.json](./293761-slime-rancher-rainbow-bundle.json) |
+| Slime Rancher: Secret Style Pack | 118666 | [118666-slime-rancher-secret-style-pack.json](./118666-slime-rancher-secret-style-pack.json) |
 | Slime Ranger | 221159 | [221159-slime-ranger.json](./221159-slime-ranger.json) |
 | Slime Research | 113451 | [113451-slime-research.json](./113451-slime-research.json) |
 | Slime Road | 108509 | [108509-slime-road.json](./108509-slime-road.json) |
@@ -17033,6 +17035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spires of Morosith: Gossamer Sundered | 345458 | [345458-spires-of-morosith-gossamer-sundered.json](./345458-spires-of-morosith-gossamer-sundered.json) |
 | Spiriat | 197118 | [197118-spiriat.json](./197118-spiriat.json) |
 | Spiriki: Tiny Island | 404860 | [404860-spiriki-tiny-island.json](./404860-spiriki-tiny-island.json) |
+| Spirinse | 118661 | [118661-spirinse.json](./118661-spirinse.json) |
 | Spirit | 170177 | [170177-spirit.json](./170177-spirit.json) |
 | Spirit & Steel | 380601 | [380601-spirit-and-steel.json](./380601-spirit-and-steel.json) |
 | Spirit & Stone | 216875 | [216875-spirit-and-stone.json](./216875-spirit-and-stone.json) |
