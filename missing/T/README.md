@@ -443,6 +443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taiko no Tatsujin: Doka! to Oomori Nanadaime | 123418 | [123418-taiko-no-tatsujin-doka-to-oomori-nanadaime.json](./123418-taiko-no-tatsujin-doka-to-oomori-nanadaime.json) |
 | Taiko no Tatsujin: Doki! Shinkyoku Darake no Haru Matsuri | 123431 | [123431-taiko-no-tatsujin-doki-shinkyoku-darake-no-haru-matsuri.json](./123431-taiko-no-tatsujin-doki-shinkyoku-darake-no-haru-matsuri.json) |
 | Taiko no Tatsujin: Drum 'n' Fun! | 104992 | [104992-taiko-no-tatsujin-drum-n-fun.json](./104992-taiko-no-tatsujin-drum-n-fun.json) |
+| Taiko no Tatsujin: Drum 'n' Fun! Bundle | 136119 | [136119-taiko-no-tatsujin-drum-n-fun-bundle.json](./136119-taiko-no-tatsujin-drum-n-fun-bundle.json) |
 | Taiko No Tatsujin: Drum Session! - Deluxe Edition | 118719 | [118719-taiko-no-tatsujin-drum-session-deluxe-edition.json](./118719-taiko-no-tatsujin-drum-session-deluxe-edition.json) |
 | Taiko no Tatsujin: Go! Go! Godaime | 123416 | [123416-taiko-no-tatsujin-go-go-godaime.json](./123416-taiko-no-tatsujin-go-go-godaime.json) |
 | Taiko no Tatsujin: Ongaku Lesson | 123620 | [123620-taiko-no-tatsujin-ongaku-lesson.json](./123620-taiko-no-tatsujin-ongaku-lesson.json) |
@@ -1154,6 +1155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Zestiria | 6452 | [6452-tales-of-zestiria.json](./6452-tales-of-zestiria.json) |
 | Tales of Zizada | 379440 | [379440-tales-of-zizada.json](./379440-tales-of-zizada.json) |
 | Tales of: Sena | 238649 | [238649-tales-of-sena.json](./238649-tales-of-sena.json) |
+| Tales of: Vesperia + Berseria + Zestiria Bundle | 136127 | [136127-tales-of-vesperia-berseria-zestiria-bundle.json](./136127-tales-of-vesperia-berseria-zestiria-bundle.json) |
 | Tales Runner | 17932 | [17932-tales-runner.json](./17932-tales-runner.json) |
 | Tales to Enjoy! Little Red Riding Hood | 85428 | [85428-tales-to-enjoy-little-red-riding-hood.json](./85428-tales-to-enjoy-little-red-riding-hood.json) |
 | Tales to Enjoy! Puss In Boots | 85427 | [85427-tales-to-enjoy-puss-in-boots.json](./85427-tales-to-enjoy-puss-in-boots.json) |
@@ -2754,6 +2756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tekken 5: Dark Resurrection Online | 1234 | [1234-tekken-5-dark-resurrection-online.json](./1234-tekken-5-dark-resurrection-online.json) |
 | Tekken 6 | 272551 | [272551-tekken-6.json](./272551-tekken-6.json) |
 | Tekken 6: Bloodline Rebellion | 393420 | [393420-tekken-6-bloodline-rebellion.json](./393420-tekken-6-bloodline-rebellion.json) |
+| Tekken 7 + SoulCalibur VI Double Pack | 136121 | [136121-tekken-7-soulcalibur-vi-double-pack.json](./136121-tekken-7-soulcalibur-vi-double-pack.json) |
 | Tekken 7: Cave of Enlightenment | 163266 | [163266-tekken-7-cave-of-enlightenment.json](./163266-tekken-7-cave-of-enlightenment.json) |
 | Tekken 7: Collector's Edition | 166277 | [166277-tekken-7-collectors-edition.json](./166277-tekken-7-collectors-edition.json) |
 | Tekken 7: Craig Marduk | 173152 | [173152-tekken-7-craig-marduk.json](./173152-tekken-7-craig-marduk.json) |
@@ -6008,6 +6011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cruel kings | 166629 | [166629-the-cruel-kings.json](./166629-the-cruel-kings.json) |
 | The Crush House | 295636 | [295636-the-crush-house.json](./295636-the-crush-house.json) |
 | The Crust: Supporter Pack | 400874 | [400874-the-crust-supporter-pack.json](./400874-the-crust-supporter-pack.json) |
+| The Crying Game | 136114 | [136114-the-crying-game.json](./136114-the-crying-game.json) |
 | The Crypt of Treasure | 219551 | [219551-the-crypt-of-treasure.json](./219551-the-crypt-of-treasure.json) |
 | The Crypt Terror | 231516 | [231516-the-crypt-terror.json](./231516-the-crypt-terror.json) |
 | The Cryptkeepers of Hallowford | 81931 | [81931-the-cryptkeepers-of-hallowford.json](./81931-the-cryptkeepers-of-hallowford.json) |
@@ -12841,6 +12845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims 3 | 327976 | [327976-the-sims-3.json](./327976-the-sims-3.json) |
 | The Sims 3: 70s, 80s, & 90s Stuff | 13124 | [13124-the-sims-3-70s-80s-and-90s-stuff.json](./13124-the-sims-3-70s-80s-and-90s-stuff.json) |
 | The Sims 3: Aurora Skies | 14583 | [14583-the-sims-3-aurora-skies.json](./14583-the-sims-3-aurora-skies.json) |
+| The Sims 3: Expansion Bundle | 136301 | [136301-the-sims-3-expansion-bundle.json](./136301-the-sims-3-expansion-bundle.json) |
 | The Sims 3: Into the Future | 13116 | [13116-the-sims-3-into-the-future.json](./13116-the-sims-3-into-the-future.json) |
 | The Sims 3: Island Paradise | 13115 | [13115-the-sims-3-island-paradise.json](./13115-the-sims-3-island-paradise.json) |
 | The Sims 3: Late Night | 13112 | [13112-the-sims-3-late-night.json](./13112-the-sims-3-late-night.json) |
@@ -12946,9 +12951,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims 4: Parenthood | 28859 | [28859-the-sims-4-parenthood.json](./28859-the-sims-4-parenthood.json) |
 | The Sims 4: Party Essentials Kit | 296899 | [296899-the-sims-4-party-essentials-kit.json](./296899-the-sims-4-party-essentials-kit.json) |
 | The Sims 4: Pastel Pop Kit | 226791 | [226791-the-sims-4-pastel-pop-kit.json](./226791-the-sims-4-pastel-pop-kit.json) |
+| The Sims 4: Plus Cats & Dogs Bundle | 136109 | [136109-the-sims-4-plus-cats-and-dogs-bundle.json](./136109-the-sims-4-plus-cats-and-dogs-bundle.json) |
 | The Sims 4: Plus Eco Lifestyle Bundle | 166308 | [166308-the-sims-4-plus-eco-lifestyle-bundle.json](./166308-the-sims-4-plus-eco-lifestyle-bundle.json) |
 | The Sims 4: Plus Island Living Bundle | 136201 | [136201-the-sims-4-plus-island-living-bundle.json](./136201-the-sims-4-plus-island-living-bundle.json) |
 | The Sims 4: Plus Journey to Batuu Bundle | 139823 | [139823-the-sims-4-plus-journey-to-batuu-bundle.json](./139823-the-sims-4-plus-journey-to-batuu-bundle.json) |
+| The Sims 4: Plus Seasons Bundle | 136306 | [136306-the-sims-4-plus-seasons-bundle.json](./136306-the-sims-4-plus-seasons-bundle.json) |
 | The Sims 4: Poolside Splash Kit | 265704 | [265704-the-sims-4-poolside-splash-kit.json](./265704-the-sims-4-poolside-splash-kit.json) |
 | The Sims 4: Prairie Dreams | 404225 | [404225-the-sims-4-prairie-dreams.json](./404225-the-sims-4-prairie-dreams.json) |
 | The Sims 4: Premium Edition | 159073 | [159073-the-sims-4-premium-edition.json](./159073-the-sims-4-premium-edition.json) |
