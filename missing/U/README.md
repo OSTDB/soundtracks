@@ -202,6 +202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UFO Slide Racing | 265744 | [265744-ufo-slide-racing.json](./265744-ufo-slide-racing.json) |
 | Ufo snowboard | 288702 | [288702-ufo-snowboard.json](./288702-ufo-snowboard.json) |
 | UFO Stomper | 348013 | [348013-ufo-stomper.json](./348013-ufo-stomper.json) |
+| UFO Swamp Odyssey | 134308 | [134308-ufo-swamp-odyssey.json](./134308-ufo-swamp-odyssey.json) |
 | UFO vs. Bikini | 152501 | [152501-ufo-vs-bikini.json](./152501-ufo-vs-bikini.json) |
 | UFO-Man | 320962 | [320962-ufo-man.json](./320962-ufo-man.json) |
 | UFO: A Day in the Life | 44742 | [44742-ufo-a-day-in-the-life.json](./44742-ufo-a-day-in-the-life.json) |
@@ -2116,6 +2117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unou no Tatsujin: Machigai Sagashi Museum | 146795 | [146795-unou-no-tatsujin-machigai-sagashi-museum.json](./146795-unou-no-tatsujin-machigai-sagashi-museum.json) |
 | Unou Tanren UnoTan DS: Shichida Shiki Otona no Shun Kan Training | 124115 | [124115-unou-tanren-unotan-ds-shichida-shiki-otona-no-shun-kan-training.json](./124115-unou-tanren-unotan-ds-shichida-shiki-otona-no-shun-kan-training.json) |
 | Unova Nights | 410358 | [410358-unova-nights.json](./410358-unova-nights.json) |
+| Unpacking | 134276 | [134276-unpacking.json](./134276-unpacking.json) |
 | Unpan | 338808 | [338808-unpan.json](./338808-unpan.json) |
 | Unparallel | 127987 | [127987-unparallel.json](./127987-unparallel.json) |
 | Unpatterned Cut | 333516 | [333516-unpatterned-cut.json](./333516-unpatterned-cut.json) |
