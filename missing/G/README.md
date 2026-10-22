@@ -4066,6 +4066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GMOTA | 142178 | [142178-gmota.json](./142178-gmota.json) |
 | Gnah! | 61507 | [61507-gnah.json](./61507-gnah.json) |
 | Gnarbike Trials 2 | 284489 | [284489-gnarbike-trials-2.json](./284489-gnarbike-trials-2.json) |
+| Gnarled Hag | 138629 | [138629-gnarled-hag.json](./138629-gnarled-hag.json) |
 | Gnarly Hike | 274362 | [274362-gnarly-hike.json](./274362-gnarly-hike.json) |
 | Gnaughty Gnomes | 346030 | [346030-gnaughty-gnomes.json](./346030-gnaughty-gnomes.json) |
 | Gnaw | 372037 | [372037-gnaw.json](./372037-gnaw.json) |
@@ -5234,6 +5235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gone Fishin' with Archimedes | 230731 | [230731-gone-fishin-with-archimedes.json](./230731-gone-fishin-with-archimedes.json) |
 | Gone Fishing | 348447 | [348447-gone-fishing.json](./348447-gone-fishing.json) |
 | Gone Fishing | 412372 | [412372-gone-fishing.json](./412372-gone-fishing.json) |
+| Gone Golfing | 138654 | [138654-gone-golfing.json](./138654-gone-golfing.json) |
 | Gone Home: Console Edition | 82387 | [82387-gone-home-console-edition.json](./82387-gone-home-console-edition.json) |
 | Gone In November: Collector's Edition | 53074 | [53074-gone-in-november-collectors-edition.json](./53074-gone-in-november-collectors-edition.json) |
 | Gone Rogue | 182245 | [182245-gone-rogue.json](./182245-gone-rogue.json) |
