@@ -1687,6 +1687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jinki: Infinity | 249501 | [249501-jinki-infinity.json](./249501-jinki-infinity.json) |
 | Jinko | 313000 | [313000-jinko.json](./313000-jinko.json) |
 | Jinks | 12330 | [12330-jinks.json](./12330-jinks.json) |
+| Jinmakyou Kyousei-tan | 128241 | [128241-jinmakyou-kyousei-tan.json](./128241-jinmakyou-kyousei-tan.json) |
 | Jinmu Denshou Yaksa | 37683 | [37683-jinmu-denshou-yaksa.json](./37683-jinmu-denshou-yaksa.json) |
 | Jinro Burger | 402449 | [402449-jinro-burger.json](./402449-jinro-burger.json) |
 | Jinrou Game | 296100 | [296100-jinrou-game.json](./296100-jinrou-game.json) |
