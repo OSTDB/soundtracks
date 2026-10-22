@@ -3942,6 +3942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master Fighter IV | 48574 | [48574-master-fighter-iv.json](./48574-master-fighter-iv.json) |
 | Master Fighter VI' | 223027 | [223027-master-fighter-vi.json](./223027-master-fighter-vi.json) |
 | Master Golf | 247008 | [247008-master-golf.json](./247008-master-golf.json) |
+| Master Head | 138451 | [138451-master-head.json](./138451-master-head.json) |
 | Master Labyrinth | 45915 | [45915-master-labyrinth.json](./45915-master-labyrinth.json) |
 | Master Lander | 187299 | [187299-master-lander.json](./187299-master-lander.json) |
 | Master Leaf Blower | 317024 | [317024-master-leaf-blower.json](./317024-master-leaf-blower.json) |
