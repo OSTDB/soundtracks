@@ -965,6 +965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 17 Fighters | 183562 | [183562-17-fighters.json](./183562-17-fighters.json) |
 | 17 MPH | 377922 | [377922-17-mph.json](./377922-17-mph.json) |
 | 17 Seconds VR | 374234 | [374234-17-seconds-vr.json](./374234-17-seconds-vr.json) |
+| 171 | 136712 | [136712-171.json](./136712-171.json) |
 | 1775: Rebellion | 34000 | [34000-1775-rebellion.json](./34000-1775-rebellion.json) |
 | 1775: Rebellion - Southern Theatre Scenario | 168108 | [168108-1775-rebellion-southern-theatre-scenario.json](./168108-1775-rebellion-southern-theatre-scenario.json) |
 | 18 Cadence | 63378 | [63378-18-cadence.json](./63378-18-cadence.json) |
