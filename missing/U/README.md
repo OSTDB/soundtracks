@@ -1212,6 +1212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undead City | 294168 | [294168-undead-city.json](./294168-undead-city.json) |
 | Undead Darlings: No Cure for Love | 80611 | [80611-undead-darlings-no-cure-for-love.json](./80611-undead-darlings-no-cure-for-love.json) |
 | Undead Development | 55406 | [55406-undead-development.json](./55406-undead-development.json) |
+| Undead Development 2 | 150396 | [150396-undead-development-2.json](./150396-undead-development-2.json) |
 | Undead Exile | 338590 | [338590-undead-exile.json](./338590-undead-exile.json) |
 | Undead Exterminator | 369916 | [369916-undead-exterminator.json](./369916-undead-exterminator.json) |
 | Undead Factory: Zombie Pandemic | 88114 | [88114-undead-factory-zombie-pandemic.json](./88114-undead-factory-zombie-pandemic.json) |
@@ -2064,6 +2065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unnamed Space Idle | 258933 | [258933-unnamed-space-idle.json](./258933-unnamed-space-idle.json) |
 | Unnatural | 104951 | [104951-unnatural.json](./104951-unnatural.json) |
 | Unnatural Beauties | 341296 | [341296-unnatural-beauties.json](./341296-unnatural-beauties.json) |
+| Unnatural Disaster | 150470 | [150470-unnatural-disaster.json](./150470-unnatural-disaster.json) |
 | Unnatural Freaks: Episode 1 Wolf At Evergreen | 166605 | [166605-unnatural-freaks-episode-1-wolf-at-evergreen.json](./166605-unnatural-freaks-episode-1-wolf-at-evergreen.json) |
 | Unnatural Investigations | 191077 | [191077-unnatural-investigations.json](./191077-unnatural-investigations.json) |
 | Unnatural Selection | 94207 | [94207-unnatural-selection.json](./94207-unnatural-selection.json) |
