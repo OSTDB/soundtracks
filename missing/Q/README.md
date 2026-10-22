@@ -354,6 +354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quake3Quest | 328304 | [328304-quake3quest.json](./328304-quake3quest.json) |
 | Quakeguy Goes to White Castle | 271234 | [271234-quakeguy-goes-to-white-castle.json](./271234-quakeguy-goes-to-white-castle.json) |
 | QuakeWorld | 300456 | [300456-quakeworld.json](./300456-quakeworld.json) |
+| Qual | 142908 | [142908-qual.json](./142908-qual.json) |
 | Qual a Capa? | 227489 | [227489-qual-a-capa.json](./227489-qual-a-capa.json) |
 | Qualatro | 380535 | [380535-qualatro.json](./380535-qualatro.json) |
 | Qualia | 325349 | [325349-qualia.json](./325349-qualia.json) |
