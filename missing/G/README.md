@@ -4635,6 +4635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | God Vibrations | 176227 | [176227-god-vibrations.json](./176227-god-vibrations.json) |
 | God vs. Sin | 273595 | [273595-god-vs-sin.json](./273595-god-vs-sin.json) |
 | God Wars | 347325 | [347325-god-wars.json](./347325-god-wars.json) |
+| God Wars 2 | 105055 | [105055-god-wars-2.json](./105055-god-wars-2.json) |
 | God Wars: Future Past | 25312 | [25312-god-wars-future-past.json](./25312-god-wars-future-past.json) |
 | God, I Hate Wasps | 135080 | [135080-god-i-hate-wasps.json](./135080-god-i-hate-wasps.json) |
 | God, Save the Queens! | 406682 | [406682-god-save-the-queens.json](./406682-god-save-the-queens.json) |
@@ -8366,6 +8367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunbird | 299163 | [299163-gunbird.json](./299163-gunbird.json) |
 | Gunbird | 39352 | [39352-gunbird.json](./39352-gunbird.json) |
 | Gunbird 2 | 40150 | [40150-gunbird-2.json](./40150-gunbird-2.json) |
+| Gunbird for Nintendo Switch | 105053 | [105053-gunbird-for-nintendo-switch.json](./105053-gunbird-for-nintendo-switch.json) |
 | Gunbird: Special Edition | 44643 | [44643-gunbird-special-edition.json](./44643-gunbird-special-edition.json) |
 | Gunblade NY | 39799 | [39799-gunblade-ny.json](./39799-gunblade-ny.json) |
 | Gunblade Ranger | 374589 | [374589-gunblade-ranger.json](./374589-gunblade-ranger.json) |
