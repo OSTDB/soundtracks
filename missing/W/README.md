@@ -7311,6 +7311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wuthering Waves: Waves Sing, and the Cerulean Bird Calls | 330678 | [330678-wuthering-waves-waves-sing-and-the-cerulean-bird-calls.json](./330678-wuthering-waves-waves-sing-and-the-cerulean-bird-calls.json) |
 | Wuthering Waves: We Who See the Stars | 381238 | [381238-wuthering-waves-we-who-see-the-stars.json](./381238-wuthering-waves-we-who-see-the-stars.json) |
 | Wuthering Waves: When the Night Knocks | 321376 | [321376-wuthering-waves-when-the-night-knocks.json](./321376-wuthering-waves-when-the-night-knocks.json) |
+| Wuxia archive: Crisis escape | 109330 | [109330-wuxia-archive-crisis-escape.json](./109330-wuxia-archive-crisis-escape.json) |
 | Wuxia Master | 109703 | [109703-wuxia-master.json](./109703-wuxia-master.json) |
 | Wuxia TowerDefence | 196598 | [196598-wuxia-towerdefence.json](./196598-wuxia-towerdefence.json) |
 | Wuxia World | 317043 | [317043-wuxia-world.json](./317043-wuxia-world.json) |
