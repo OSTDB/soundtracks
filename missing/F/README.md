@@ -437,6 +437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Faerie Solitaire Classic | 182884 | [182884-faerie-solitaire-classic.json](./182884-faerie-solitaire-classic.json) |
 | Faerie Solitaire Dire | 118230 | [118230-faerie-solitaire-dire.json](./118230-faerie-solitaire-dire.json) |
 | Faerie Solitaire Remastered | 81259 | [81259-faerie-solitaire-remastered.json](./81259-faerie-solitaire-remastered.json) |
+| Faerie's Bargain: The Price of Business | 152717 | [152717-faeries-bargain-the-price-of-business.json](./152717-faeries-bargain-the-price-of-business.json) |
 | Faery: Legends of Avalon | 10295 | [10295-faery-legends-of-avalon.json](./10295-faery-legends-of-avalon.json) |
 | Faery: Swapped | 298022 | [298022-faery-swapped.json](./298022-faery-swapped.json) |
 | FaeTerra | 309750 | [309750-faeterra.json](./309750-faeterra.json) |
@@ -2054,6 +2055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farmer Bundle | 271840 | [271840-farmer-bundle.json](./271840-farmer-bundle.json) |
 | Farmer Drift! | 246430 | [246430-farmer-drift.json](./246430-farmer-drift.json) |
 | Farmer Fran: Running Out of Sunlight! | 185012 | [185012-farmer-fran-running-out-of-sunlight.json](./185012-farmer-fran-running-out-of-sunlight.json) |
+| Farmer Life Simulator | 152707 | [152707-farmer-life-simulator.json](./152707-farmer-life-simulator.json) |
 | Farmer Phil and the Zombie Alien Robot Apocalypse | 179892 | [179892-farmer-phil-and-the-zombie-alien-robot-apocalypse.json](./179892-farmer-phil-and-the-zombie-alien-robot-apocalypse.json) |
 | Farmer Pug Dash | 129019 | [129019-farmer-pug-dash.json](./129019-farmer-pug-dash.json) |
 | Farmer Simulator | 253956 | [253956-farmer-simulator.json](./253956-farmer-simulator.json) |
@@ -2486,6 +2488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fate of Hellas | 21302 | [21302-fate-of-hellas.json](./21302-fate-of-hellas.json) |
 | Fate of India | 104324 | [104324-fate-of-india.json](./104324-fate-of-india.json) |
 | Fate of Kai | 139314 | [139314-fate-of-kai.json](./139314-fate-of-kai.json) |
+| Fate of Persephone | 152630 | [152630-fate-of-persephone.json](./152630-fate-of-persephone.json) |
 | Fate of the Damned | 225800 | [225800-fate-of-the-damned.json](./225800-fate-of-the-damned.json) |
 | Fate of the Elder Gods | 125454 | [125454-fate-of-the-elder-gods.json](./125454-fate-of-the-elder-gods.json) |
 | Fate of the Empress | 159202 | [159202-fate-of-the-empress.json](./159202-fate-of-the-empress.json) |
@@ -8322,6 +8325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Four in One | 210647 | [210647-four-in-one.json](./210647-four-in-one.json) |
 | Four Kings One War | 110903 | [110903-four-kings-one-war.json](./110903-four-kings-one-war.json) |
 | Four Kings One War: Virtual Reality | 170899 | [170899-four-kings-one-war-virtual-reality.json](./170899-four-kings-one-war-virtual-reality.json) |
+| Four Kings: Video Poker | 152693 | [152693-four-kings-video-poker.json](./152693-four-kings-video-poker.json) |
 | Four Last Things | 27308 | [27308-four-last-things.json](./27308-four-last-things.json) |
 | Four Legerior | 118878 | [118878-four-legerior.json](./118878-four-legerior.json) |
 | Four Lights | 406727 | [406727-four-lights.json](./406727-four-lights.json) |
@@ -8819,6 +8823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freddy Fazbears: Security Replacement | 313248 | [313248-freddy-fazbears-security-replacement.json](./313248-freddy-fazbears-security-replacement.json) |
 | Freddy Fish | 94579 | [94579-freddy-fish.json](./94579-freddy-fish.json) |
 | Freddy Flintoff's Power Play Cricket | 63181 | [63181-freddy-flintoffs-power-play-cricket.json](./63181-freddy-flintoffs-power-play-cricket.json) |
+| Freddy Frog | 152716 | [152716-freddy-frog.json](./152716-freddy-frog.json) |
 | Freddy Hardest in Manhattan South | 45333 | [45333-freddy-hardest-in-manhattan-south.json](./45333-freddy-hardest-in-manhattan-south.json) |
 | Freddy in Space 2 | 159286 | [159286-freddy-in-space-2.json](./159286-freddy-in-space-2.json) |
 | Freddy in Space 3: Chica in Space | 272691 | [272691-freddy-in-space-3-chica-in-space.json](./272691-freddy-in-space-3-chica-in-space.json) |
