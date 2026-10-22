@@ -1548,6 +1548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sarah's Great Adventure | 371898 | [371898-sarahs-great-adventure.json](./371898-sarahs-great-adventure.json) |
 | Sarakon | 92961 | [92961-sarakon.json](./92961-sarakon.json) |
 | Saraman Union | 274924 | [274924-saraman-union.json](./274924-saraman-union.json) |
+| Saranity | 148792 | [148792-saranity.json](./148792-saranity.json) |
 | Sarara's Little Shop | 61564 | [61564-sararas-little-shop.json](./61564-sararas-little-shop.json) |
 | Saratoga | 297605 | [297605-saratoga.json](./297605-saratoga.json) |
 | Sarawak | 132677 | [132677-sarawak.json](./132677-sarawak.json) |
@@ -14884,6 +14885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Ducks: The Great Escape | 199658 | [199658-space-ducks-the-great-escape.json](./199658-space-ducks-the-great-escape.json) |
 | Space Dudes vs Alien Dudes | 223389 | [223389-space-dudes-vs-alien-dudes.json](./223389-space-dudes-vs-alien-dudes.json) |
 | Space Duel | 18405 | [18405-space-duel.json](./18405-space-duel.json) |
+| Space Duels | 148809 | [148809-space-duels.json](./148809-space-duels.json) |
 | Space Duet | 130720 | [130720-space-duet.json](./130720-space-duet.json) |
 | Space Dust | 240673 | [240673-space-dust.json](./240673-space-dust.json) |
 | Space Eater Force | 182919 | [182919-space-eater-force.json](./182919-space-eater-force.json) |
@@ -20411,7 +20413,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stellaris: Grand Archive | 298125 | [298125-stellaris-grand-archive.json](./298125-stellaris-grand-archive.json) |
 | Stellaris: Humanoids | 114426 | [114426-stellaris-humanoids.json](./114426-stellaris-humanoids.json) |
 | Stellaris: Infernals Species Pack | 401938 | [401938-stellaris-infernals-species-pack.json](./401938-stellaris-infernals-species-pack.json) |
+| Stellaris: Lithoids | 148795 | [148795-stellaris-lithoids.json](./148795-stellaris-lithoids.json) |
 | Stellaris: MegaCorp | 111331 | [111331-stellaris-megacorp.json](./111331-stellaris-megacorp.json) |
+| Stellaris: Necroids Species Pack | 148799 | [148799-stellaris-necroids-species-pack.json](./148799-stellaris-necroids-species-pack.json) |
+| Stellaris: Nemesis | 148794 | [148794-stellaris-nemesis.json](./148794-stellaris-nemesis.json) |
 | Stellaris: Nova Edition | 53671 | [53671-stellaris-nova-edition.json](./53671-stellaris-nova-edition.json) |
 | Stellaris: Overlord | 196297 | [196297-stellaris-overlord.json](./196297-stellaris-overlord.json) |
 | Stellaris: Plantoids | 53669 | [53669-stellaris-plantoids.json](./53669-stellaris-plantoids.json) |
