@@ -5813,6 +5813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | High Dive | 233747 | [233747-high-dive.json](./233747-high-dive.json) |
 | High Dragon Tower | 357842 | [357842-high-dragon-tower.json](./357842-high-dragon-tower.json) |
 | High Energy Heroes | 271207 | [271207-high-energy-heroes.json](./271207-high-energy-heroes.json) |
+| High Entropy: Challenges | 136112 | [136112-high-entropy-challenges.json](./136112-high-entropy-challenges.json) |
 | High Factory | 182097 | [182097-high-factory.json](./182097-high-factory.json) |
 | High Fidelity | 34749 | [34749-high-fidelity.json](./34749-high-fidelity.json) |
 | High Five! | 132819 | [132819-high-five.json](./132819-high-five.json) |
@@ -6452,6 +6453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hitmaker Tycoon | 395704 | [395704-hitmaker-tycoon.json](./395704-hitmaker-tycoon.json) |
 | Hitman | 218314 | [218314-hitman.json](./218314-hitman.json) |
 | Hitman 2 Christmas Game | 336886 | [336886-hitman-2-christmas-game.json](./336886-hitman-2-christmas-game.json) |
+| HITMAN 2: Collector's Edition | 136111 | [136111-hitman-2-collectors-edition.json](./136111-hitman-2-collectors-edition.json) |
 | Hitman 2: Miami Pack | 118173 | [118173-hitman-2-miami-pack.json](./118173-hitman-2-miami-pack.json) |
 | Hitman 3 | 134595 | [134595-hitman-3.json](./134595-hitman-3.json) |
 | Hitman 3 Access Pass: Hitman 1 GOTY Edition | 233574 | [233574-hitman-3-access-pass-hitman-1-goty-edition.json](./233574-hitman-3-access-pass-hitman-1-goty-edition.json) |
