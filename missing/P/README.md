@@ -5616,6 +5616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pingus | 146207 | [146207-pingus.json](./146207-pingus.json) |
 | Pingwinek Kelvin | 142495 | [142495-pingwinek-kelvin.json](./142495-pingwinek-kelvin.json) |
 | Pìnjìng de Kāiduān | 155969 | [155969-pinjing-de-kaiduan.json](./155969-pinjing-de-kaiduan.json) |
+| Pink | 142300 | [142300-pink.json](./142300-pink.json) |
 | Pink | 142921 | [142921-pink.json](./142921-pink.json) |
 | Pink 2048 | 211737 | [211737-pink-2048.json](./211737-pink-2048.json) |
 | Pink Birdie | 175743 | [175743-pink-birdie.json](./175743-pink-birdie.json) |
@@ -7693,6 +7694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Please close the doors | 81639 | [81639-please-close-the-doors.json](./81639-please-close-the-doors.json) |
 | Please Come to The Castle | 349906 | [349906-please-come-to-the-castle.json](./349906-please-come-to-the-castle.json) |
 | Please Do Not Climb on the Dinosaurs | 383970 | [383970-please-do-not-climb-on-the-dinosaurs.json](./383970-please-do-not-climb-on-the-dinosaurs.json) |
+| Please Don't Bring Me Back to Reality! Sinfonia Stage | 142293 | [142293-please-dont-bring-me-back-to-reality-sinfonia-stage.json](./142293-please-dont-bring-me-back-to-reality-sinfonia-stage.json) |
 | Please Don't Feed the Creatures of the Deep | 323272 | [323272-please-dont-feed-the-creatures-of-the-deep.json](./323272-please-dont-feed-the-creatures-of-the-deep.json) |
 | Please Don't Hate Christmas | 257838 | [257838-please-dont-hate-christmas.json](./257838-please-dont-hate-christmas.json) |
 | Please Don't Shoot the Humans | 390048 | [390048-please-dont-shoot-the-humans.json](./390048-please-dont-shoot-the-humans.json) |
