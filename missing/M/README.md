@@ -2937,6 +2937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Is Missing! | 210223 | [210223-mario-is-missing.json](./210223-mario-is-missing.json) |
 | Mario Is Missing! | 210224 | [210224-mario-is-missing.json](./210224-mario-is-missing.json) |
 | Mario Is Missing! | 48135 | [48135-mario-is-missing.json](./48135-mario-is-missing.json) |
+| Mario is Missing! Done Right | 130032 | [130032-mario-is-missing-done-right.json](./130032-mario-is-missing-done-right.json) |
 | Mario Kart | 221269 | [221269-mario-kart.json](./221269-mario-kart.json) |
 | Mario Kart 64 Deluxe | 254601 | [254601-mario-kart-64-deluxe.json](./254601-mario-kart-64-deluxe.json) |
 | Mario Kart 64 HD | 229075 | [229075-mario-kart-64-hd.json](./229075-mario-kart-64-hd.json) |
@@ -11319,6 +11320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Modern Command | 227510 | [227510-modern-command.json](./227510-modern-command.json) |
 | Modern Conflict 2 | 89713 | [89713-modern-conflict-2.json](./89713-modern-conflict-2.json) |
 | Modern Defense HD | 294682 | [294682-modern-defense-hd.json](./294682-modern-defense-hd.json) |
+| Modern Fairway 4: Spec Ops in the Rough | 130029 | [130029-modern-fairway-4-spec-ops-in-the-rough.json](./130029-modern-fairway-4-spec-ops-in-the-rough.json) |
 | Modern Fantasy: Urban Legends | 212157 | [212157-modern-fantasy-urban-legends.json](./212157-modern-fantasy-urban-legends.json) |
 | Modern Girl's Refined Choices | 208937 | [208937-modern-girls-refined-choices.json](./208937-modern-girls-refined-choices.json) |
 | Modern Jet-Fighter : Air War | 107116 | [107116-modern-jet-fighter-air-war.json](./107116-modern-jet-fighter-air-war.json) |
