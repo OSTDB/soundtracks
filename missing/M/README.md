@@ -10480,6 +10480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Misao | 47097 | [47097-misao.json](./47097-misao.json) |
 | Misao: 2024 HD Remaster | 313167 | [313167-misao-2024-hd-remaster.json](./313167-misao-2024-hd-remaster.json) |
 | Misao: Definitive Edition | 74567 | [74567-misao-definitive-edition.json](./74567-misao-definitive-edition.json) |
+| Misc Timelines | 126824 | [126824-misc-timelines.json](./126824-misc-timelines.json) |
 | Misc. | 159079 | [159079-misc.json](./159079-misc.json) |
 | Misc. A Tiny Tale | 138025 | [138025-misc-a-tiny-tale.json](./138025-misc-a-tiny-tale.json) |
 | Mischance | 148937 | [148937-mischance.json](./148937-mischance.json) |
@@ -14727,6 +14728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MULE Returns | 91151 | [91151-mule-returns.json](./91151-mule-returns.json) |
 | Mulheres na taverna | 381307 | [381307-mulheres-na-taverna.json](./381307-mulheres-na-taverna.json) |
 | Mulite Spellsword | 188395 | [188395-mulite-spellsword.json](./188395-mulite-spellsword.json) |
+| Mulite Sword Man | 126849 | [126849-mulite-sword-man.json](./126849-mulite-sword-man.json) |
 | Mullet Hell | 233596 | [233596-mullet-hell.json](./233596-mullet-hell.json) |
 | Mullet Madjack: Deluxe Edition | 318218 | [318218-mullet-madjack-deluxe-edition.json](./318218-mullet-madjack-deluxe-edition.json) |
 | Multi Deck Hero | 346617 | [346617-multi-deck-hero.json](./346617-multi-deck-hero.json) |
@@ -16852,6 +16854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Science Theater 3000 Presents: Detective | 310680 | [310680-mystery-science-theater-3000-presents-detective.json](./310680-mystery-science-theater-3000-presents-detective.json) |
 | Mystery Series: A Vampire Tale | 54244 | [54244-mystery-series-a-vampire-tale.json](./54244-mystery-series-a-vampire-tale.json) |
 | Mystery Society 2: Hidden Puzzles | 250954 | [250954-mystery-society-2-hidden-puzzles.json](./250954-mystery-society-2-hidden-puzzles.json) |
+| Mystery Solitaire: Arkham's Spirits | 126841 | [126841-mystery-solitaire-arkhams-spirits.json](./126841-mystery-solitaire-arkhams-spirits.json) |
 | Mystery Solitaire: Cthulhu Mythos 2 | 251852 | [251852-mystery-solitaire-cthulhu-mythos-2.json](./251852-mystery-solitaire-cthulhu-mythos-2.json) |
 | Mystery Solitaire: Cthulhu Mythos 3 | 270966 | [270966-mystery-solitaire-cthulhu-mythos-3.json](./270966-mystery-solitaire-cthulhu-mythos-3.json) |
 | Mystery Solitaire: Dreamcatcher | 153531 | [153531-mystery-solitaire-dreamcatcher.json](./153531-mystery-solitaire-dreamcatcher.json) |
