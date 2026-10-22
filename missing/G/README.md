@@ -3045,6 +3045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost's Timepeices | 235599 | [235599-ghosts-timepeices.json](./235599-ghosts-timepeices.json) |
 | Ghost's Way | 180182 | [180182-ghosts-way.json](./180182-ghosts-way.json) |
 | Ghostanoid | 142311 | [142311-ghostanoid.json](./142311-ghostanoid.json) |
+| Ghostball | 126881 | [126881-ghostball.json](./126881-ghostball.json) |
 | Ghostbane | 286621 | [286621-ghostbane.json](./286621-ghostbane.json) |
 | GhostBlood | 71195 | [71195-ghostblood.json](./71195-ghostblood.json) |
 | Ghostboy | 224600 | [224600-ghostboy.json](./224600-ghostboy.json) |
@@ -4708,6 +4709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gods of Havoc: Into the Void | 120650 | [120650-gods-of-havoc-into-the-void.json](./120650-gods-of-havoc-into-the-void.json) |
 | Gods of Havoc: Into the Void - Rise of the AI | 171412 | [171412-gods-of-havoc-into-the-void-rise-of-the-ai.json](./171412-gods-of-havoc-into-the-void-rise-of-the-ai.json) |
 | Gods of Hellas VR | 190168 | [190168-gods-of-hellas-vr.json](./190168-gods-of-hellas-vr.json) |
+| Gods of Love: An Otome Visual Novel | 126830 | [126830-gods-of-love-an-otome-visual-novel.json](./126830-gods-of-love-an-otome-visual-novel.json) |
 | Gods of Nowhere | 387040 | [387040-gods-of-nowhere.json](./387040-gods-of-nowhere.json) |
 | Gods of Sand | 140268 | [140268-gods-of-sand.json](./140268-gods-of-sand.json) |
 | Gods of Savvarah: Part 1 | 224727 | [224727-gods-of-savvarah-part-1.json](./224727-gods-of-savvarah-part-1.json) |
@@ -5985,6 +5987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Granblue Fantasy: Versus - Lobby Avatar (Gold Ship) | 332665 | [332665-granblue-fantasy-versus-lobby-avatar-gold-ship.json](./332665-granblue-fantasy-versus-lobby-avatar-gold-ship.json) |
 | Granblue Fantasy: Versus - Seox | 233643 | [233643-granblue-fantasy-versus-seox.json](./233643-granblue-fantasy-versus-seox.json) |
 | Grand Academy for Future Villains | 67914 | [67914-grand-academy-for-future-villains.json](./67914-grand-academy-for-future-villains.json) |
+| Grand Academy II: Attack of the Sequel | 126834 | [126834-grand-academy-ii-attack-of-the-sequel.json](./126834-grand-academy-ii-attack-of-the-sequel.json) |
 | Grand Action Simulator | 361600 | [361600-grand-action-simulator.json](./361600-grand-action-simulator.json) |
 | Grand Ages: Rome | 8395 | [8395-grand-ages-rome.json](./8395-grand-ages-rome.json) |
 | Grand Ages: Rome - Gold Edition | 53071 | [53071-grand-ages-rome-gold-edition.json](./53071-grand-ages-rome-gold-edition.json) |
