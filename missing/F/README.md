@@ -3541,6 +3541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fight For Your Resurrection | 242969 | [242969-fight-for-your-resurrection.json](./242969-fight-for-your-resurrection.json) |
 | Fight For Your Resurrection VR | 255147 | [255147-fight-for-your-resurrection-vr.json](./255147-fight-for-your-resurrection-vr.json) |
 | Fight Game Rivals | 79772 | [79772-fight-game-rivals.json](./79772-fight-game-rivals.json) |
+| Fight High | 127584 | [127584-fight-high.json](./127584-fight-high.json) |
 | Fight In Hole | 211248 | [211248-fight-in-hole.json](./211248-fight-in-hole.json) |
 | Fight in the Mind | 179478 | [179478-fight-in-the-mind.json](./179478-fight-in-the-mind.json) |
 | Fight Knight | 41814 | [41814-fight-knight.json](./41814-fight-knight.json) |
@@ -9806,6 +9807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frontline: Assault Corps WW2 | 340264 | [340264-frontline-assault-corps-ww2.json](./340264-frontline-assault-corps-ww2.json) |
 | Frontline: Panzers & Generals Vol. I | 378608 | [378608-frontline-panzers-and-generals-vol-i.json](./378608-frontline-panzers-and-generals-vol-i.json) |
 | Frontline: Road to Moscow | 17526 | [17526-frontline-road-to-moscow.json](./17526-frontline-road-to-moscow.json) |
+| Frontline: The Great Patriotic War | 127577 | [127577-frontline-the-great-patriotic-war.json](./127577-frontline-the-great-patriotic-war.json) |
 | Frontline: The Longest Day | 175270 | [175270-frontline-the-longest-day.json](./175270-frontline-the-longest-day.json) |
 | Frontline: The Longest Day | 17610 | [17610-frontline-the-longest-day.json](./17610-frontline-the-longest-day.json) |
 | Frontline: War of Echoes | 366560 | [366560-frontline-war-of-echoes.json](./366560-frontline-war-of-echoes.json) |
@@ -10372,6 +10374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fungal Colony Simulator | 257690 | [257690-fungal-colony-simulator.json](./257690-fungal-colony-simulator.json) |
 | FungEye | 291235 | [291235-fungeye.json](./291235-fungeye.json) |
 | Funghi Explosion | 112100 | [112100-funghi-explosion.json](./112100-funghi-explosion.json) |
+| Fungi | 127590 | [127590-fungi.json](./127590-fungi.json) |
 | Fungi Crossing | 333157 | [333157-fungi-crossing.json](./333157-fungi-crossing.json) |
 | Fungi Fantastico | 333013 | [333013-fungi-fantastico.json](./333013-fungi-fantastico.json) |
 | Fungiculture | 369906 | [369906-fungiculture.json](./369906-fungiculture.json) |
