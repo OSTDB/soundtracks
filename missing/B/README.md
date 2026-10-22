@@ -3554,6 +3554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Batty Shadowless Adventures | 374065 | [374065-batty-shadowless-adventures.json](./374065-batty-shadowless-adventures.json) |
 | Batty Zabella | 229244 | [229244-batty-zabella.json](./229244-batty-zabella.json) |
 | Batty Zabella 2 XOXO XMAS | 347084 | [347084-batty-zabella-2-xoxo-xmas.json](./347084-batty-zabella-2-xoxo-xmas.json) |
+| Batu Ta Batu | 138646 | [138646-batu-ta-batu.json](./138646-batu-ta-batu.json) |
 | Batya | 126638 | [126638-batya.json](./126638-batya.json) |
 | Bauer | 189133 | [189133-bauer.json](./189133-bauer.json) |
 | Baugarten | 274325 | [274325-baugarten.json](./274325-baugarten.json) |
@@ -8255,6 +8256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blocklords | 262888 | [262888-blocklords.json](./262888-blocklords.json) |
 | Blockman 1988 | 225722 | [225722-blockman-1988.json](./225722-blockman-1988.json) |
 | Blockman 1989 | 186646 | [186646-blockman-1989.json](./186646-blockman-1989.json) |
+| Blockman Go | 138641 | [138641-blockman-go.json](./138641-blockman-go.json) |
 | Blockman Returns | 56427 | [56427-blockman-returns.json](./56427-blockman-returns.json) |
 | BlockMill | 249266 | [249266-blockmill.json](./249266-blockmill.json) |
 | Blocknator | 194993 | [194993-blocknator.json](./194993-blocknator.json) |
@@ -9089,6 +9091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue-Sky-Blue(s): Sora o Mau Tsubasa | 271420 | [271420-blue-sky-blue-s-sora-o-mau-tsubasa.json](./271420-blue-sky-blue-s-sora-o-mau-tsubasa.json) |
 | Blue-Sky-Blue(s): Sora o Mau Tsubasa | 318594 | [318594-blue-sky-blue-s-sora-o-mau-tsubasa.json](./318594-blue-sky-blue-s-sora-o-mau-tsubasa.json) |
 | Blue: Store | 339452 | [339452-blue-store.json](./339452-blue-store.json) |
+| Blue: Will to Power | 138632 | [138632-blue-will-to-power.json](./138632-blue-will-to-power.json) |
 | Blue. | 90131 | [90131-blue.json](./90131-blue.json) |
 | Blue's Birthday | 229070 | [229070-blues-birthday.json](./229070-blues-birthday.json) |
 | Blue's Clues Kindergarten | 7973 | [7973-blues-clues-kindergarten.json](./7973-blues-clues-kindergarten.json) |
@@ -10958,6 +10961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boxes World | 247013 | [247013-boxes-world.json](./247013-boxes-world.json) |
 | Boxes: Lost Fragments | 219729 | [219729-boxes-lost-fragments.json](./219729-boxes-lost-fragments.json) |
 | BoxesWithGuns | 20198 | [20198-boxeswithguns.json](./20198-boxeswithguns.json) |
+| Boxfight | 138440 | [138440-boxfight.json](./138440-boxfight.json) |
 | BoxFight | 262894 | [262894-boxfight.json](./262894-boxfight.json) |
 | Boxgame | 242919 | [242919-boxgame.json](./242919-boxgame.json) |
 | Boxguy Adventure | 358322 | [358322-boxguy-adventure.json](./358322-boxguy-adventure.json) |
