@@ -4238,6 +4238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kosodate Quiz My Angel 3 | 129151 | [129151-kosodate-quiz-my-angel-3.json](./129151-kosodate-quiz-my-angel-3.json) |
 | Kosodate Quiz: Motto My Angel | 167092 | [167092-kosodate-quiz-motto-my-angel.json](./167092-kosodate-quiz-motto-my-angel.json) |
 | Kost | 303618 | [303618-kost.json](./303618-kost.json) |
+| Kosta Projekt | 150932 | [150932-kosta-projekt.json](./150932-kosta-projekt.json) |
 | Kot-rybolov | 367945 | [367945-kot-rybolov.json](./367945-kot-rybolov.json) |
 | Kota: The Survival | 410717 | [410717-kota-the-survival.json](./410717-kota-the-survival.json) |
 | Kota's New Journey | 327999 | [327999-kotas-new-journey.json](./327999-kotas-new-journey.json) |
