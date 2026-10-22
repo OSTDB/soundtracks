@@ -376,6 +376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Ghost Porno Page By Page | 300821 | [300821-a-ghost-porno-page-by-page.json](./300821-a-ghost-porno-page-by-page.json) |
 | A Ghost Story | 307700 | [307700-a-ghost-story.json](./307700-a-ghost-story.json) |
 | A Ghost Story for Christmas | 135779 | [135779-a-ghost-story-for-christmas.json](./135779-a-ghost-story-for-christmas.json) |
+| A Ghostly Tale | 123834 | [123834-a-ghostly-tale.json](./123834-a-ghostly-tale.json) |
 | A Gift of War | 189341 | [189341-a-gift-of-war.json](./189341-a-gift-of-war.json) |
 | A Girl in the City | 139722 | [139722-a-girl-in-the-city.json](./139722-a-girl-in-the-city.json) |
 | A Girls Fabric Face | 29266 | [29266-a-girls-fabric-face.json](./29266-a-girls-fabric-face.json) |
@@ -2219,6 +2220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Active Lancer | 401836 | [401836-active-lancer.json](./401836-active-lancer.json) |
 | Active Life: Explorer | 4659 | [4659-active-life-explorer.json](./4659-active-life-explorer.json) |
 | Active Matter | 322158 | [322158-active-matter.json](./322158-active-matter.json) |
+| Active Neurons | 123871 | [123871-active-neurons.json](./123871-active-neurons.json) |
 | Active Neurons 2 | 133167 | [133167-active-neurons-2.json](./133167-active-neurons-2.json) |
 | Active Neurons 3: Wonders of the World | 143595 | [143595-active-neurons-3-wonders-of-the-world.json](./143595-active-neurons-3-wonders-of-the-world.json) |
 | Active Soccer 2 | 197234 | [197234-active-soccer-2.json](./197234-active-soccer-2.json) |
@@ -2678,6 +2680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Math | 94016 | [94016-adventure-math.json](./94016-adventure-math.json) |
 | Adventure Mosaics: Autumn Journey | 246958 | [246958-adventure-mosaics-autumn-journey.json](./246958-adventure-mosaics-autumn-journey.json) |
 | Adventure Mosaics: Brazilian Carnival | 338700 | [338700-adventure-mosaics-brazilian-carnival.json](./338700-adventure-mosaics-brazilian-carnival.json) |
+| Adventure Mosaics: Forest Spirits | 123865 | [123865-adventure-mosaics-forest-spirits.json](./123865-adventure-mosaics-forest-spirits.json) |
 | Adventure Mosaics: Land of the Rising Sun | 378338 | [378338-adventure-mosaics-land-of-the-rising-sun.json](./378338-adventure-mosaics-land-of-the-rising-sun.json) |
 | Adventure Mosaics: Moto-Trip | 196155 | [196155-adventure-mosaics-moto-trip.json](./196155-adventure-mosaics-moto-trip.json) |
 | Adventure Mosaics: Moto-Trip Africa | 294202 | [294202-adventure-mosaics-moto-trip-africa.json](./294202-adventure-mosaics-moto-trip-africa.json) |
@@ -5205,6 +5208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Shooter: The Beginning | 105436 | [105436-alien-shooter-the-beginning.json](./105436-alien-shooter-the-beginning.json) |
 | Alien Shooter: The Experiment | 11090 | [11090-alien-shooter-the-experiment.json](./11090-alien-shooter-the-experiment.json) |
 | Alien Shooter: Vengeance | 14145 | [14145-alien-shooter-vengeance.json](./14145-alien-shooter-vengeance.json) |
+| Alien Simulator | 123831 | [123831-alien-simulator.json](./123831-alien-simulator.json) |
 | Alien Sky | 93164 | [93164-alien-sky.json](./93164-alien-sky.json) |
 | Alien Slayer | 275099 | [275099-alien-slayer.json](./275099-alien-slayer.json) |
 | Alien Slayers | 233772 | [233772-alien-slayers.json](./233772-alien-slayers.json) |
@@ -7415,6 +7419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angry Bunnies: Colossal Carrot Crusade | 84756 | [84756-angry-bunnies-colossal-carrot-crusade.json](./84756-angry-bunnies-colossal-carrot-crusade.json) |
 | Angry Bunnies: Colossal Carrot Crusade - Desert | 403417 | [403417-angry-bunnies-colossal-carrot-crusade-desert.json](./403417-angry-bunnies-colossal-carrot-crusade-desert.json) |
 | Angry Bunnies: Colossal Carrot Crusade - Heroes | 238190 | [238190-angry-bunnies-colossal-carrot-crusade-heroes.json](./238190-angry-bunnies-colossal-carrot-crusade-heroes.json) |
+| Angry Bunny | 123872 | [123872-angry-bunny.json](./123872-angry-bunny.json) |
 | Angry Business Man | 64843 | [64843-angry-business-man.json](./64843-angry-business-man.json) |
 | Angry Cat | 212815 | [212815-angry-cat.json](./212815-angry-cat.json) |
 | Angry Cat | 379906 | [379906-angry-cat.json](./379906-angry-cat.json) |
@@ -9262,6 +9267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arbe10: Base 10 | 101096 | [101096-arbe10-base-10.json](./101096-arbe10-base-10.json) |
 | Arbeit Man in another world | 151610 | [151610-arbeit-man-in-another-world.json](./151610-arbeit-man-in-another-world.json) |
 | Arbiter | 204233 | [204233-arbiter.json](./204233-arbiter.json) |
+| Arbitology: Dei Gratia Rex | 123832 | [123832-arbitology-dei-gratia-rex.json](./123832-arbitology-dei-gratia-rex.json) |
 | Arbo: Arena Tactics | 303341 | [303341-arbo-arena-tactics.json](./303341-arbo-arena-tactics.json) |
 | Arboneer | 315257 | [315257-arboneer.json](./315257-arboneer.json) |
 | Arbor | 159038 | [159038-arbor.json](./159038-arbor.json) |
@@ -13480,6 +13486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ava Airborne | 96207 | [96207-ava-airborne.json](./96207-ava-airborne.json) |
 | Ava and Avior Save the Earth | 84979 | [84979-ava-and-avior-save-the-earth.json](./84979-ava-and-avior-save-the-earth.json) |
 | Ava and the Half-World | 303268 | [303268-ava-and-the-half-world.json](./303268-ava-and-the-half-world.json) |
+| AVA: Dark History | 123856 | [123856-ava-dark-history.json](./123856-ava-dark-history.json) |
 | Ava's Adventure | 258693 | [258693-avas-adventure.json](./258693-avas-adventure.json) |
 | Ava's Hidden Adventures | 278269 | [278269-avas-hidden-adventures.json](./278269-avas-hidden-adventures.json) |
 | Ava's Manor | 406254 | [406254-avas-manor.json](./406254-avas-manor.json) |
