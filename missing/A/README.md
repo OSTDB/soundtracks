@@ -4559,6 +4559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alarm für Cobra 11: Das Spiel zur RTL-Erfolgsserie | 125961 | [125961-alarm-fur-cobra-11-das-spiel-zur-rtl-erfolgsserie.json](./125961-alarm-fur-cobra-11-das-spiel-zur-rtl-erfolgsserie.json) |
 | Alarm für Cobra 11: Vol. III | 81170 | [81170-alarm-fur-cobra-11-vol-iii.json](./81170-alarm-fur-cobra-11-vol-iii.json) |
 | Alaryia | 400691 | [400691-alaryia.json](./400691-alaryia.json) |
+| Alas Astra | 150928 | [150928-alas-astra.json](./150928-alas-astra.json) |
 | Alaska | 86767 | [86767-alaska.json](./86767-alaska.json) |
 | Alaska Gold Fever | 161343 | [161343-alaska-gold-fever.json](./161343-alaska-gold-fever.json) |
 | Alaska Solitaire Classic Card Game | 337804 | [337804-alaska-solitaire-classic-card-game.json](./337804-alaska-solitaire-classic-card-game.json) |
@@ -7990,7 +7991,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anno 1800: Season 4 Pass | 194884 | [194884-anno-1800-season-4-pass.json](./194884-anno-1800-season-4-pass.json) |
 | Anno 1800: Season Pass | 152006 | [152006-anno-1800-season-pass.json](./152006-anno-1800-season-pass.json) |
 | Anno 1800: Seasonal Decorations Pack | 227405 | [227405-anno-1800-seasonal-decorations-pack.json](./227405-anno-1800-seasonal-decorations-pack.json) |
+| Anno 1800: Seat of Power | 151056 | [151056-anno-1800-seat-of-power.json](./151056-anno-1800-seat-of-power.json) |
 | Anno 1800: Seeds of Change | 197349 | [197349-anno-1800-seeds-of-change.json](./197349-anno-1800-seeds-of-change.json) |
+| Anno 1800: Sunken Treasures | 150908 | [150908-anno-1800-sunken-treasures.json](./150908-anno-1800-sunken-treasures.json) |
 | Anno 1800: The High Life | 165588 | [165588-anno-1800-the-high-life.json](./165588-anno-1800-the-high-life.json) |
 | Anno 1800: The Passage | 121765 | [121765-anno-1800-the-passage.json](./121765-anno-1800-the-passage.json) |
 | Anno 1800: Tourist Season | 151204 | [151204-anno-1800-tourist-season.json](./151204-anno-1800-tourist-season.json) |
@@ -12168,6 +12171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astro Ranch | 66729 | [66729-astro-ranch.json](./66729-astro-ranch.json) |
 | Astro Rescue | 63108 | [63108-astro-rescue.json](./63108-astro-rescue.json) |
 | Astro Rider | 126327 | [126327-astro-rider.json](./126327-astro-rider.json) |
+| Astro Sentai Jarbonder | 150924 | [150924-astro-sentai-jarbonder.json](./150924-astro-sentai-jarbonder.json) |
 | Astro Smash 'n' Blast! | 233553 | [233553-astro-smash-n-blast.json](./233553-astro-smash-n-blast.json) |
 | Astro Spider: Between Threads and Stars | 364067 | [364067-astro-spider-between-threads-and-stars.json](./364067-astro-spider-between-threads-and-stars.json) |
 | Astro Traveler | 197534 | [197534-astro-traveler.json](./197534-astro-traveler.json) |
