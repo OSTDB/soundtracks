@@ -4542,6 +4542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Max Capacity | 267300 | [267300-max-capacity.json](./267300-max-capacity.json) |
 | Max Craft 2: New World HD | 96703 | [96703-max-craft-2-new-world-hd.json](./96703-max-craft-2-new-world-hd.json) |
 | Max Cross | 413621 | [413621-max-cross.json](./413621-max-cross.json) |
+| Max Dirt Bike | 142086 | [142086-max-dirt-bike.json](./142086-max-dirt-bike.json) |
 | Max Downforce | 182948 | [182948-max-downforce.json](./182948-max-downforce.json) |
 | Max Gentlemen Sexy Business! | 128178 | [128178-max-gentlemen-sexy-business.json](./128178-max-gentlemen-sexy-business.json) |
 | Max Gentlemen: Animal Pack | 170384 | [170384-max-gentlemen-animal-pack.json](./170384-max-gentlemen-animal-pack.json) |
@@ -15622,6 +15623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Drama | 299505 | [299505-my-drama.json](./299505-my-drama.json) |
 | My Dream | 108310 | [108310-my-dream.json](./108310-my-dream.json) |
 | My Dream Day | 290326 | [290326-my-dream-day.json](./290326-my-dream-day.json) |
+| My Dream for the Future | 142292 | [142292-my-dream-for-the-future.json](./142292-my-dream-for-the-future.json) |
 | My Dream Girl | 173841 | [173841-my-dream-girl.json](./173841-my-dream-girl.json) |
 | My Dream Girls | 173836 | [173836-my-dream-girls.json](./173836-my-dream-girls.json) |
 | My Dream is to Be a Model, Not a Maid! | 212806 | [212806-my-dream-is-to-be-a-model-not-a-maid.json](./212806-my-dream-is-to-be-a-model-not-a-maid.json) |
