@@ -6877,6 +6877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shitlings | 369626 | [369626-shitlings.json](./369626-shitlings.json) |
 | ShitMan | 285140 | [285140-shitman.json](./285140-shitman.json) |
 | Shitsuji ga Aruji wo Erabu Toki | 216245 | [216245-shitsuji-ga-aruji-wo-erabu-toki.json](./216245-shitsuji-ga-aruji-wo-erabu-toki.json) |
+| Shitty Cactus | 129450 | [129450-shitty-cactus.json](./129450-shitty-cactus.json) |
 | Shivah | 7418 | [7418-shivah.json](./7418-shivah.json) |
 | Shiver | 325717 | [325717-shiver.json](./325717-shiver.json) |
 | Shiver 3D | 152771 | [152771-shiver-3d.json](./152771-shiver-3d.json) |
@@ -12424,8 +12425,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sok Max | 82364 | [82364-sok-max.json](./82364-sok-max.json) |
 | Sok Min | 96888 | [96888-sok-min.json](./96888-sok-min.json) |
 | Sok Min: Pro | 196129 | [196129-sok-min-pro.json](./196129-sok-min-pro.json) |
+| Sok-Stories | 129425 | [129425-sok-stories.json](./129425-sok-stories.json) |
 | Sok-Worlds | 132036 | [132036-sok-worlds.json](./132036-sok-worlds.json) |
 | Sokama | 318532 | [318532-sokama.json](./318532-sokama.json) |
+| Sokbots | 129420 | [129420-sokbots.json](./129420-sokbots.json) |
 | Sokfest | 240314 | [240314-sokfest.json](./240314-sokfest.json) |
 | Sokker Mayhem | 184251 | [184251-sokker-mayhem.json](./184251-sokker-mayhem.json) |
 | Sokko Seitokai: Sonic Council | 165073 | [165073-sokko-seitokai-sonic-council.json](./165073-sokko-seitokai-sonic-council.json) |
@@ -13190,6 +13193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Songs of the Hmong | 250243 | [250243-songs-of-the-hmong.json](./250243-songs-of-the-hmong.json) |
 | Songs of the Mystics | 175218 | [175218-songs-of-the-mystics.json](./175218-songs-of-the-mystics.json) |
 | Songs of Travel | 298961 | [298961-songs-of-travel.json](./298961-songs-of-travel.json) |
+| Songs of Wuxia | 129448 | [129448-songs-of-wuxia.json](./129448-songs-of-wuxia.json) |
 | Songs2See Game | 90553 | [90553-songs2see-game.json](./90553-songs2see-game.json) |
 | Songtail: Whiskers of Destiny | 389740 | [389740-songtail-whiskers-of-destiny.json](./389740-songtail-whiskers-of-destiny.json) |
 | Sonia and the Hypnotic City | 150420 | [150420-sonia-and-the-hypnotic-city.json](./150420-sonia-and-the-hypnotic-city.json) |
@@ -18211,6 +18215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SSSnaker | 248169 | [248169-sssnaker.json](./248169-sssnaker.json) |
 | Sssnakes | 84896 | [84896-sssnakes.json](./84896-sssnakes.json) |
 | Ssspicy! | 330006 | [330006-ssspicy.json](./330006-ssspicy.json) |
+| SSTR | 129460 | [129460-sstr.json](./129460-sstr.json) |
 | SSV8 Superstar V8 Racing | 10884 | [10884-ssv8-superstar-v8-racing.json](./10884-ssv8-superstar-v8-racing.json) |
 | SSV8NC Superstar V8 Next Challenge | 10883 | [10883-ssv8nc-superstar-v8-next-challenge.json](./10883-ssv8nc-superstar-v8-next-challenge.json) |
 | SSWK: Valentine's Day Special | 184966 | [184966-sswk-valentines-day-special.json](./184966-sswk-valentines-day-special.json) |
@@ -20557,6 +20562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StellarPlans | 295334 | [295334-stellarplans.json](./295334-stellarplans.json) |
 | Stellarune | 272221 | [272221-stellarune.json](./272221-stellarune.json) |
 | StellaSpella | 151447 | [151447-stellaspella.json](./151447-stellaspella.json) |
+| Stellaxy | 129454 | [129454-stellaxy.json](./129454-stellaxy.json) |
 | Stellifier | 317018 | [317018-stellifier.json](./317018-stellifier.json) |
 | Stellights | 102102 | [102102-stellights.json](./102102-stellights.json) |
 | Stellinavra | 230155 | [230155-stellinavra.json](./230155-stellinavra.json) |
