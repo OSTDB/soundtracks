@@ -9869,6 +9869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Zelda: Just Beginning | 324079 | [324079-the-legend-of-zelda-just-beginning.json](./324079-the-legend-of-zelda-just-beginning.json) |
 | The Legend of Zelda: King of Thieves | 322646 | [322646-the-legend-of-zelda-king-of-thieves.json](./322646-the-legend-of-zelda-king-of-thieves.json) |
 | The Legend of Zelda: Link's Awakening | 1028 | [1028-the-legend-of-zelda-links-awakening.json](./1028-the-legend-of-zelda-links-awakening.json) |
+| The Legend of Zelda: Link's Awakening - Artbook Set | 136899 | [136899-the-legend-of-zelda-links-awakening-artbook-set.json](./136899-the-legend-of-zelda-links-awakening-artbook-set.json) |
 | The Legend of Zelda: Link's Awakening - Dreamer Edition | 136334 | [136334-the-legend-of-zelda-links-awakening-dreamer-edition.json](./136334-the-legend-of-zelda-links-awakening-dreamer-edition.json) |
 | The Legend of Zelda: Link's Awakening Coop | 324008 | [324008-the-legend-of-zelda-links-awakening-coop.json](./324008-the-legend-of-zelda-links-awakening-coop.json) |
 | The Legend of Zelda: Link's Awakening DX | 1027 | [1027-the-legend-of-zelda-links-awakening-dx.json](./1027-the-legend-of-zelda-links-awakening-dx.json) |
