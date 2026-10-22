@@ -8643,6 +8643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Code: Realize - Future Blessings | 41821 | [41821-code-realize-future-blessings.json](./41821-code-realize-future-blessings.json) |
 | Code: Realize - Guardian of Rebirth | 19475 | [19475-code-realize-guardian-of-rebirth.json](./19475-code-realize-guardian-of-rebirth.json) |
 | Code: Realize ~Future Blessings~ Day One Edition | 136263 | [136263-code-realize-future-blessings-day-one-edition.json](./136263-code-realize-future-blessings-day-one-edition.json) |
+| Code: Realize ~Guardian of Rebirth~ Collector's Edition | 122652 | [122652-code-realize-guardian-of-rebirth-collectors-edition.json](./122652-code-realize-guardian-of-rebirth-collectors-edition.json) |
 | Code: Realize ~Wintertide Miracles~ Limited Edition | 112919 | [112919-code-realize-wintertide-miracles-limited-edition.json](./112919-code-realize-wintertide-miracles-limited-edition.json) |
 | Code: Replicant | 298986 | [298986-code-replicant.json](./298986-code-replicant.json) |
 | Code: Star Dungeon | 155448 | [155448-code-star-dungeon.json](./155448-code-star-dungeon.json) |
@@ -11690,6 +11691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmo Cargo | 394499 | [394499-cosmo-cargo.json](./394499-cosmo-cargo.json) |
 | Cosmo Cats | 291360 | [291360-cosmo-cats.json](./291360-cosmo-cats.json) |
 | Cosmo Duel | 95576 | [95576-cosmo-duel.json](./95576-cosmo-duel.json) |
+| Cosmo Fighter 2 | 122628 | [122628-cosmo-fighter-2.json](./122628-cosmo-fighter-2.json) |
 | Cosmo Fighter II | 112162 | [112162-cosmo-fighter-ii.json](./112162-cosmo-fighter-ii.json) |
 | Cosmo Flight | 346052 | [346052-cosmo-flight.json](./346052-cosmo-flight.json) |
 | Cosmo Gang the Puzzle | 18382 | [18382-cosmo-gang-the-puzzle.json](./18382-cosmo-gang-the-puzzle.json) |
@@ -15110,6 +15112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cupcake: an Apartment Adventure | 163818 | [163818-cupcake-an-apartment-adventure.json](./163818-cupcake-an-apartment-adventure.json) |
 | Cupcakeroo! | 256792 | [256792-cupcakeroo.json](./256792-cupcakeroo.json) |
 | Cupcakes and Critters | 63560 | [63560-cupcakes-and-critters.json](./63560-cupcakes-and-critters.json) |
+| CupCakoon | 122665 | [122665-cupcakoon.json](./122665-cupcakoon.json) |
 | Cuphead & The Delicious Last Course | 210917 | [210917-cuphead-and-the-delicious-last-course.json](./210917-cuphead-and-the-delicious-last-course.json) |
 | Cuphead Wii U | 357448 | [357448-cuphead-wii-u.json](./357448-cuphead-wii-u.json) |
 | Cuphead: Collector's Edition | 224179 | [224179-cuphead-collectors-edition.json](./224179-cuphead-collectors-edition.json) |
@@ -15723,6 +15726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Photographer | 68036 | [68036-cyber-photographer.json](./68036-cyber-photographer.json) |
 | Cyber Pool | 194830 | [194830-cyber-pool.json](./194830-cyber-pool.json) |
 | Cyber Prison Management | 259505 | [259505-cyber-prison-management.json](./259505-cyber-prison-management.json) |
+| Cyber Protocol | 122655 | [122655-cyber-protocol.json](./122655-cyber-protocol.json) |
 | Cyber Protocol + Clumsy Rush + Brawl Chess | 215558 | [215558-cyber-protocol-clumsy-rush-brawl-chess.json](./215558-cyber-protocol-clumsy-rush-brawl-chess.json) |
 | Cyber Protocol Prologue | 213340 | [213340-cyber-protocol-prologue.json](./213340-cyber-protocol-prologue.json) |
 | Cyber Protocol: Retro Arcade | 219467 | [219467-cyber-protocol-retro-arcade.json](./219467-cyber-protocol-retro-arcade.json) |
