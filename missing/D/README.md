@@ -4261,6 +4261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defcon 5 | 39776 | [39776-defcon-5.json](./39776-defcon-5.json) |
 | Defcon-2: Missiles of October | 107105 | [107105-defcon-2-missiles-of-october.json](./107105-defcon-2-missiles-of-october.json) |
 | Defe the Defender | 344972 | [344972-defe-the-defender.json](./344972-defe-the-defender.json) |
+| Defeat Akali | 138079 | [138079-defeat-akali.json](./138079-defeat-akali.json) |
 | Defeat Me | 321507 | [321507-defeat-me.json](./321507-defeat-me.json) |
 | Defeat the Beat | 112485 | [112485-defeat-the-beat.json](./112485-defeat-the-beat.json) |
 | Defeat the Goblin King | 366366 | [366366-defeat-the-goblin-king.json](./366366-defeat-the-goblin-king.json) |
@@ -11047,6 +11048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draft Day Sports: Pro Basketball 2016 | 58891 | [58891-draft-day-sports-pro-basketball-2016.json](./58891-draft-day-sports-pro-basketball-2016.json) |
 | Draft Day Sports: Pro Basketball 2019 | 111623 | [111623-draft-day-sports-pro-basketball-2019.json](./111623-draft-day-sports-pro-basketball-2019.json) |
 | Draft Day Sports: Pro Basketball 2020 | 126983 | [126983-draft-day-sports-pro-basketball-2020.json](./126983-draft-day-sports-pro-basketball-2020.json) |
+| Draft Day Sports: Pro Basketball 2021 | 137868 | [137868-draft-day-sports-pro-basketball-2021.json](./137868-draft-day-sports-pro-basketball-2021.json) |
 | Draft Day Sports: Pro Basketball 2023 | 226201 | [226201-draft-day-sports-pro-basketball-2023.json](./226201-draft-day-sports-pro-basketball-2023.json) |
 | Draft Day Sports: Pro Basketball 2024 | 273791 | [273791-draft-day-sports-pro-basketball-2024.json](./273791-draft-day-sports-pro-basketball-2024.json) |
 | Draft Day Sports: Pro Basketball 26 | 375553 | [375553-draft-day-sports-pro-basketball-26.json](./375553-draft-day-sports-pro-basketball-26.json) |
@@ -13381,6 +13383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duck Life 9: The Flock | 253309 | [253309-duck-life-9-the-flock.json](./253309-duck-life-9-the-flock.json) |
 | Duck Life Adventure | 140883 | [140883-duck-life-adventure.json](./140883-duck-life-adventure.json) |
 | Duck Life: Space | 29177 | [29177-duck-life-space.json](./29177-duck-life-space.json) |
+| Duck Man | 137848 | [137848-duck-man.json](./137848-duck-man.json) |
 | Duck Maze | 378193 | [378193-duck-maze.json](./378193-duck-maze.json) |
 | Duck Mission | 204837 | [204837-duck-mission.json](./204837-duck-mission.json) |
 | Duck n' Dodge | 68359 | [68359-duck-n-dodge.json](./68359-duck-n-dodge.json) |
@@ -14278,13 +14281,17 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons 2: A Clash of Pumpkins | 138050 | [138050-dungeons-2-a-clash-of-pumpkins.json](./138050-dungeons-2-a-clash-of-pumpkins.json) |
 | Dungeons 2: A Game of Winter | 51770 | [51770-dungeons-2-a-game-of-winter.json](./51770-dungeons-2-a-game-of-winter.json) |
 | Dungeons 2: A Song of Sand and Fire | 51769 | [51769-dungeons-2-a-song-of-sand-and-fire.json](./51769-dungeons-2-a-song-of-sand-and-fire.json) |
+| Dungeons 3: A Multitude of Maps | 138060 | [138060-dungeons-3-a-multitude-of-maps.json](./138060-dungeons-3-a-multitude-of-maps.json) |
 | Dungeons 3: An Unexpected DLC | 115420 | [115420-dungeons-3-an-unexpected-dlc.json](./115420-dungeons-3-an-unexpected-dlc.json) |
 | Dungeons 3: Complete Collection | 136320 | [136320-dungeons-3-complete-collection.json](./136320-dungeons-3-complete-collection.json) |
 | Dungeons 3: DLC Bundle | 227416 | [227416-dungeons-3-dlc-bundle.json](./227416-dungeons-3-dlc-bundle.json) |
 | Dungeons 3: Evil of the Caribbean | 124825 | [124825-dungeons-3-evil-of-the-caribbean.json](./124825-dungeons-3-evil-of-the-caribbean.json) |
 | Dungeons 3: Extremely Evil Edition | 323413 | [323413-dungeons-3-extremely-evil-edition.json](./323413-dungeons-3-extremely-evil-edition.json) |
+| Dungeons 3: Famous Last Words | 138059 | [138059-dungeons-3-famous-last-words.json](./138059-dungeons-3-famous-last-words.json) |
+| Dungeons 3: Lord of the Kings | 138058 | [138058-dungeons-3-lord-of-the-kings.json](./138058-dungeons-3-lord-of-the-kings.json) |
 | Dungeons 3: Nintendo Switch Complete Collection | 283207 | [283207-dungeons-3-nintendo-switch-complete-collection.json](./283207-dungeons-3-nintendo-switch-complete-collection.json) |
 | Dungeons 3: Nintendo Switch Edition | 212632 | [212632-dungeons-3-nintendo-switch-edition.json](./212632-dungeons-3-nintendo-switch-edition.json) |
+| Dungeons 3: Once Upon A Time | 138057 | [138057-dungeons-3-once-upon-a-time.json](./138057-dungeons-3-once-upon-a-time.json) |
 | Dungeons 4 | 215915 | [215915-dungeons-4.json](./215915-dungeons-4.json) |
 | Dungeons 4: Nintendo Switch Edition | 319321 | [319321-dungeons-4-nintendo-switch-edition.json](./319321-dungeons-4-nintendo-switch-edition.json) |
 | Dungeons 4: The Good, the Bad and the Evil | 309104 | [309104-dungeons-4-the-good-the-bad-and-the-evil.json](./309104-dungeons-4-the-good-the-bad-and-the-evil.json) |
@@ -14335,6 +14342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons of the Fallen | 105025 | [105025-dungeons-of-the-fallen.json](./105025-dungeons-of-the-fallen.json) |
 | Dungeons of Voidria | 153941 | [153941-dungeons-of-voidria.json](./153941-dungeons-of-voidria.json) |
 | Dungeons, Dungeons and more... Dice? | 361724 | [361724-dungeons-dungeons-and-more-dice.json](./361724-dungeons-dungeons-and-more-dice.json) |
+| Dungeons: Collector's Edition | 138088 | [138088-dungeons-collectors-edition.json](./138088-dungeons-collectors-edition.json) |
 | Dungeons: Game of the Year Edition | 138052 | [138052-dungeons-game-of-the-year-edition.json](./138052-dungeons-game-of-the-year-edition.json) |
 | Dungeons: Map Pack | 138049 | [138049-dungeons-map-pack.json](./138049-dungeons-map-pack.json) |
 | Dungeons: Steam Special Edition | 90477 | [90477-dungeons-steam-special-edition.json](./90477-dungeons-steam-special-edition.json) |
