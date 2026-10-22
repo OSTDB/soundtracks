@@ -620,6 +620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ragdoll Cannon | 316711 | [316711-ragdoll-cannon.json](./316711-ragdoll-cannon.json) |
 | Ragdoll Destroyer | 252673 | [252673-ragdoll-destroyer.json](./252673-ragdoll-destroyer.json) |
 | Ragdoll Dismounting | 199977 | [199977-ragdoll-dismounting.json](./199977-ragdoll-dismounting.json) |
+| Ragdoll Fighter | 147141 | [147141-ragdoll-fighter.json](./147141-ragdoll-fighter.json) |
 | Ragdoll Funhouse | 202532 | [202532-ragdoll-funhouse.json](./202532-ragdoll-funhouse.json) |
 | Ragdoll Game | 212170 | [212170-ragdoll-game.json](./212170-ragdoll-game.json) |
 | Ragdoll Kanojo | 174117 | [174117-ragdoll-kanojo.json](./174117-ragdoll-kanojo.json) |
@@ -4697,6 +4698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro Snake | 104012 | [104012-retro-snake.json](./104012-retro-snake.json) |
 | Retro Snake Adventures | 107915 | [107915-retro-snake-adventures.json](./107915-retro-snake-adventures.json) |
 | Retro Sonic | 127903 | [127903-retro-sonic.json](./127903-retro-sonic.json) |
+| Retro Space Fighter | 147150 | [147150-retro-space-fighter.json](./147150-retro-space-fighter.json) |
 | Retro Space Shooter | 75186 | [75186-retro-space-shooter.json](./75186-retro-space-shooter.json) |
 | Retro Speed 2 | 244088 | [244088-retro-speed-2.json](./244088-retro-speed-2.json) |
 | Retro Sphere | 81656 | [81656-retro-sphere.json](./81656-retro-sphere.json) |
@@ -6324,6 +6326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rituals | 27264 | [27264-rituals.json](./27264-rituals.json) |
 | Rituals of Demons | 405698 | [405698-rituals-of-demons.json](./405698-rituals-of-demons.json) |
 | RitualSummon | 201253 | [201253-ritualsummon.json](./201253-ritualsummon.json) |
+| Ritum Bitum | 147160 | [147160-ritum-bitum.json](./147160-ritum-bitum.json) |
 | Ritus Exorcismus | 343933 | [343933-ritus-exorcismus.json](./343933-ritus-exorcismus.json) |
 | Rivage | 380416 | [380416-rivage.json](./380416-rivage.json) |
 | Rivais Em Batalha | 90579 | [90579-rivais-em-batalha.json](./90579-rivais-em-batalha.json) |
@@ -6459,6 +6462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RLCraft | 203457 | [203457-rlcraft.json](./203457-rlcraft.json) |
 | RLLL: Tower of Choices | 172457 | [172457-rlll-tower-of-choices.json](./172457-rlll-tower-of-choices.json) |
 | RMF's Ragdoll Physics Experiments | 344800 | [344800-rmfs-ragdoll-physics-experiments.json](./344800-rmfs-ragdoll-physics-experiments.json) |
+| RMX Real Motocross | 147133 | [147133-rmx-real-motocross.json](./147133-rmx-real-motocross.json) |
 | RNFF: Running Naked in a Field of Flowers | 69544 | [69544-rnff-running-naked-in-a-field-of-flowers.json](./69544-rnff-running-naked-in-a-field-of-flowers.json) |
 | RNG Quest | 338865 | [338865-rng-quest.json](./338865-rng-quest.json) |
 | RNG Quest | 338866 | [338866-rng-quest.json](./338866-rng-quest.json) |
