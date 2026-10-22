@@ -4402,6 +4402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Separate Blue | 388135 | [388135-separate-blue.json](./388135-separate-blue.json) |
 | Separated | 304622 | [304622-separated.json](./304622-separated.json) |
 | Separated Worlds | 279525 | [279525-separated-worlds.json](./279525-separated-worlds.json) |
+| Separation | 144160 | [144160-separation.json](./144160-separation.json) |
 | Separator | 411718 | [411718-separator.json](./411718-separator.json) |
 | Separium: 12th Elevator | 336541 | [336541-separium-12th-elevator.json](./336541-separium-12th-elevator.json) |
 | Sepas Channel | 100270 | [100270-sepas-channel.json](./100270-sepas-channel.json) |
@@ -8801,6 +8802,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SingStar: Afrikaanse Treffers | 15439 | [15439-singstar-afrikaanse-treffers.json](./15439-singstar-afrikaanse-treffers.json) |
 | SingStar: Cantautori Italiani | 15440 | [15440-singstar-cantautori-italiani.json](./15440-singstar-cantautori-italiani.json) |
 | SingStar: Chartbreaker | 136395 | [136395-singstar-chartbreaker.json](./136395-singstar-chartbreaker.json) |
+| SingStar: Deutsch Rock-Pop | 144150 | [144150-singstar-deutsch-rock-pop.json](./144150-singstar-deutsch-rock-pop.json) |
+| SingStar: Deutsch Rock-Pop vol 2 | 144151 | [144151-singstar-deutsch-rock-pop-vol-2.json](./144151-singstar-deutsch-rock-pop-vol-2.json) |
 | SingStar: Die Toten Hosen | 84215 | [84215-singstar-die-toten-hosen.json](./84215-singstar-die-toten-hosen.json) |
 | SingStar: Frozen | 86080 | [86080-singstar-frozen.json](./86080-singstar-frozen.json) |
 | Singstar: La Edad de Oro del Pop Español | 135680 | [135680-singstar-la-edad-de-oro-del-pop-espanol.json](./135680-singstar-la-edad-de-oro-del-pop-espanol.json) |
@@ -10703,6 +10706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slotbound | 411536 | [411536-slotbound.json](./411536-slotbound.json) |
 | Sloth Story | 178891 | [178891-sloth-story.json](./178891-sloth-story.json) |
 | Slotpark | 360765 | [360765-slotpark.json](./360765-slotpark.json) |
+| Slotracers VR | 144007 | [144007-slotracers-vr.json](./144007-slotracers-vr.json) |
 | Slots | 287558 | [287558-slots.json](./287558-slots.json) |
 | Slots - Pharaoh's Riches | 85386 | [85386-slots-pharaohs-riches.json](./85386-slots-pharaohs-riches.json) |
 | Slots & Slaughter | 411731 | [411731-slots-and-slaughter.json](./411731-slots-and-slaughter.json) |
@@ -14536,6 +14540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soundfall | 106821 | [106821-soundfall.json](./106821-soundfall.json) |
 | SoundKilla | 295154 | [295154-soundkilla.json](./295154-soundkilla.json) |
 | Soundless Mound | 262310 | [262310-soundless-mound.json](./262310-soundless-mound.json) |
+| Soundless: A Modern Salem in Remote Area | 144167 | [144167-soundless-a-modern-salem-in-remote-area.json](./144167-soundless-a-modern-salem-in-remote-area.json) |
 | Soundless: Final Verse | 282694 | [282694-soundless-final-verse.json](./282694-soundless-final-verse.json) |
 | SoundLites | 90594 | [90594-soundlites.json](./90594-soundlites.json) |
 | Soundodger 2 | 140864 | [140864-soundodger-2.json](./140864-soundodger-2.json) |
@@ -14829,6 +14834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Chicks | 60792 | [60792-space-chicks.json](./60792-space-chicks.json) |
 | Space Chimps | 200685 | [200685-space-chimps.json](./200685-space-chimps.json) |
 | Space Chimps | 5172 | [5172-space-chimps.json](./5172-space-chimps.json) |
+| Space Choice: Data Analyzer | 143995 | [143995-space-choice-data-analyzer.json](./143995-space-choice-data-analyzer.json) |
 | Space City: Build Your Empire | 199662 | [199662-space-city-build-your-empire.json](./199662-space-city-build-your-empire.json) |
 | Space Clash: The Last Frontier | 111446 | [111446-space-clash-the-last-frontier.json](./111446-space-clash-the-last-frontier.json) |
 | Space CleanUp: Cosmic Robot Disinfector | 315663 | [315663-space-cleanup-cosmic-robot-disinfector.json](./315663-space-cleanup-cosmic-robot-disinfector.json) |
