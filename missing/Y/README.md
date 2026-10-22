@@ -232,6 +232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yanpai Simulator | 113124 | [113124-yanpai-simulator.json](./113124-yanpai-simulator.json) |
 | Yanvania 2022 | 227977 | [227977-yanvania-2022.json](./227977-yanvania-2022.json) |
 | Yanyu | 158932 | [158932-yanyu.json](./158932-yanyu.json) |
+| Yanzhong de Shijie: Conviction | 101252 | [101252-yanzhong-de-shijie-conviction.json](./101252-yanzhong-de-shijie-conviction.json) |
 | Yáo Àn Dēng Hǎi | 373709 | [373709-yao-an-deng-hai.json](./373709-yao-an-deng-hai.json) |
 | Yāo Dāo Zhuàn | 373695 | [373695-yao-dao-zhuan.json](./373695-yao-dao-zhuan.json) |
 | Yāo Xiān Dòngfǔ | 373706 | [373706-yao-xian-dongfu.json](./373706-yao-xian-dongfu.json) |
