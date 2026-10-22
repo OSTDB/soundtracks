@@ -264,6 +264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tactera | 81169 | [81169-tactera.json](./81169-tactera.json) |
 | Tactful | 287565 | [287565-tactful.json](./287565-tactful.json) |
 | Tacti-Cat | 265926 | [265926-tacti-cat.json](./265926-tacti-cat.json) |
+| Tactic Code | 109310 | [109310-tactic-code.json](./109310-tactic-code.json) |
 | Tactic Force | 123542 | [123542-tactic-force.json](./123542-tactic-force.json) |
 | Tactic Legends | 211157 | [211157-tactic-legends.json](./211157-tactic-legends.json) |
 | Tactic Legends | 310202 | [310202-tactic-legends.json](./310202-tactic-legends.json) |
@@ -8036,6 +8037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Great Gonzo’s Ridiculously Dangerous & Downright Foolish Stunt Game | 335725 | [335725-the-great-gonzo-s-ridiculously-dangerous-and-downright-foolish-stunt-game.json](./335725-the-great-gonzo-s-ridiculously-dangerous-and-downright-foolish-stunt-game.json) |
 | The Great Green Mouse Disaster | 83417 | [83417-the-great-green-mouse-disaster.json](./83417-the-great-green-mouse-disaster.json) |
 | The Great Hatch | 348915 | [348915-the-great-hatch.json](./348915-the-great-hatch.json) |
+| The Great Hero | 109348 | [109348-the-great-hero.json](./109348-the-great-hero.json) |
 | The Great Hero's Cat | 209605 | [209605-the-great-heros-cat.json](./209605-the-great-heros-cat.json) |
 | The Great Hide n Seek Expawdition | 149727 | [149727-the-great-hide-n-seek-expawdition.json](./149727-the-great-hide-n-seek-expawdition.json) |
 | The Great House Escape | 386220 | [386220-the-great-house-escape.json](./386220-the-great-house-escape.json) |
@@ -11109,7 +11111,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mythical City 4 | 327828 | [327828-the-mythical-city-4.json](./327828-the-mythical-city-4.json) |
 | The Naked Brothers Band | 5046 | [5046-the-naked-brothers-band.json](./5046-the-naked-brothers-band.json) |
 | The Naked Brothers Band: The Video Game | 47955 | [47955-the-naked-brothers-band-the-video-game.json](./47955-the-naked-brothers-band-the-video-game.json) |
-| The Name I Wear | 408022 | [408022-the-name-i-wear.json](./408022-the-name-i-wear.json) |
 | The Nameless | 178458 | [178458-the-nameless.json](./178458-the-nameless.json) |
 | The Nameless | 214126 | [214126-the-nameless.json](./214126-the-nameless.json) |
 | The Nameless Braves: Heaven | 207749 | [207749-the-nameless-braves-heaven.json](./207749-the-nameless-braves-heaven.json) |
@@ -20779,6 +20780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou 3D Dungeon | 152988 | [152988-touhou-3d-dungeon.json](./152988-touhou-3d-dungeon.json) |
 | Touhou Adventure | 189858 | [189858-touhou-adventure.json](./189858-touhou-adventure.json) |
 | Touhou Arcadia Record | 212442 | [212442-touhou-arcadia-record.json](./212442-touhou-arcadia-record.json) |
+| Touhou Asked | 109351 | [109351-touhou-asked.json](./109351-touhou-asked.json) |
 | Touhou Baisyunyado: Soap of Royal Road | 138029 | [138029-touhou-baisyunyado-soap-of-royal-road.json](./138029-touhou-baisyunyado-soap-of-royal-road.json) |
 | Touhou Big Big Battle: The Justice | 210216 | [210216-touhou-big-big-battle-the-justice.json](./210216-touhou-big-big-battle-the-justice.json) |
 | Touhou Blooming Chaos 2 | 153523 | [153523-touhou-blooming-chaos-2.json](./153523-touhou-blooming-chaos-2.json) |
@@ -25250,6 +25252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tsumobaka Nisshi | 299440 | [299440-tsumobaka-nisshi.json](./299440-tsumobaka-nisshi.json) |
 | Tsumugi no Hanayome | 318859 | [318859-tsumugi-no-hanayome.json](./318859-tsumugi-no-hanayome.json) |
 | Tsumugu Logic | 202676 | [202676-tsumugu-logic.json](./202676-tsumugu-logic.json) |
+| Tsun-Tsun VR | 109297 | [109297-tsun-tsun-vr.json](./109297-tsun-tsun-vr.json) |
 | Tsunagare Numbers | 222420 | [222420-tsunagare-numbers.json](./222420-tsunagare-numbers.json) |
 | Tsunagari Chess School | 320379 | [320379-tsunagari-chess-school.json](./320379-tsunagari-chess-school.json) |
 | Tsunagaru Voiro Shooters vs. Space Kedamaki | 204732 | [204732-tsunagaru-voiro-shooters-vs-space-kedamaki.json](./204732-tsunagaru-voiro-shooters-vs-space-kedamaki.json) |
