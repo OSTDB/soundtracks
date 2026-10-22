@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-22T05:50:50.630Z",
-  "total_soundtracks": 2458,
+  "generated_at": "2026-10-22T10:06:15.535Z",
+  "total_soundtracks": 2461,
   "games": [
     {
       "igdb_id": 7522,
@@ -7961,6 +7961,20 @@
       ]
     },
     {
+      "igdb_id": 80895,
+      "game_name": "Earthlock",
+      "game_url": "https://ostdb.net/games/earthlock",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273844b974bfe453f84b20255e9",
+      "albums": [
+        {
+          "album_name": "Earthlock (Original Video Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/7bMX4g0P6Oet956phBRXhu",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 17480,
       "game_name": "Eastshade",
       "game_url": "https://ostdb.net/games/eastshade",
@@ -13843,6 +13857,20 @@
       ]
     },
     {
+      "igdb_id": 114094,
+      "game_name": "Kunai",
+      "game_url": "https://ostdb.net/games/kunai",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273cc49578aeeed54da07c38612",
+      "albums": [
+        {
+          "album_name": "Kunai (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0eXtbY5lb3h3tJcLzP1uQ4",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 252835,
       "game_name": "Kunitsu-Gami: Path of the Goddess",
       "game_url": "https://ostdb.net/games/kunitsu-gami-path-of-the-goddess",
@@ -16851,6 +16879,20 @@
         {
           "album_name": "Mosaic (Official Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/3QNtQNAcKrlmV7IMlfB0MU",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 154839,
+      "game_name": "Moss: Book II",
+      "game_url": "https://ostdb.net/games/moss-book-ii",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2732f8727c68c3854bcbb5a8df5",
+      "albums": [
+        {
+          "album_name": "Moss: Book II (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6OPXNBYu66X6pwmql959tb",
           "apple_music_url": "",
           "album_link_url": ""
         }
