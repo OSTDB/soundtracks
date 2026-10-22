@@ -6348,6 +6348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost In Sweets | 126525 | [126525-lost-in-sweets.json](./126525-lost-in-sweets.json) |
 | Lost in Terra Mora | 152464 | [152464-lost-in-terra-mora.json](./152464-lost-in-terra-mora.json) |
 | Lost in the Amazon | 296057 | [296057-lost-in-the-amazon.json](./296057-lost-in-the-amazon.json) |
+| Lost in the Backrooms | 121274 | [121274-lost-in-the-backrooms.json](./121274-lost-in-the-backrooms.json) |
 | Lost in the Backrooms | 221756 | [221756-lost-in-the-backrooms.json](./221756-lost-in-the-backrooms.json) |
 | Lost in the Backrooms: Day 100 | 375805 | [375805-lost-in-the-backrooms-day-100.json](./375805-lost-in-the-backrooms-day-100.json) |
 | Lost in the Dance | 182155 | [182155-lost-in-the-dance.json](./182155-lost-in-the-dance.json) |
