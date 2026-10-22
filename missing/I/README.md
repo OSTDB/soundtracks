@@ -2631,6 +2631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Indie Nights: Nightmare in Yellow Pine | 277289 | [277289-indie-nights-nightmare-in-yellow-pine.json](./277289-indie-nights-nightmare-in-yellow-pine.json) |
 | Indie Platformer Bundle: Run & Jump Guy + Pancho's Mission | 331531 | [331531-indie-platformer-bundle-run-and-jump-guy-panchos-mission.json](./331531-indie-platformer-bundle-run-and-jump-guy-panchos-mission.json) |
 | Indie Pogo | 67203 | [67203-indie-pogo.json](./67203-indie-pogo.json) |
+| Indie Puzzle Bundle Vol. 1 | 118659 | [118659-indie-puzzle-bundle-vol-1.json](./118659-indie-puzzle-bundle-vol-1.json) |
 | Indie Rumble | 182262 | [182262-indie-rumble.json](./182262-indie-rumble.json) |
 | Indie Stars Double-Pack! | 56780 | [56780-indie-stars-double-pack.json](./56780-indie-stars-double-pack.json) |
 | Indie.io Adventure Bundle | 339063 | [339063-indie-io-adventure-bundle.json](./339063-indie-io-adventure-bundle.json) |
@@ -3451,6 +3452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | InoLab Trials | 320326 | [320326-inolab-trials.json](./320326-inolab-trials.json) |
 | Inomushi Goro Goro | 138520 | [138520-inomushi-goro-goro.json](./138520-inomushi-goro-goro.json) |
 | Inops | 114177 | [114177-inops.json](./114177-inops.json) |
+| Inori's House | 118624 | [118624-inoris-house.json](./118624-inoris-house.json) |
 | Inorikaze | 113724 | [113724-inorikaze.json](./113724-inorikaze.json) |
 | InorStreet | 329445 | [329445-inorstreet.json](./329445-inorstreet.json) |
 | Inoue Mami: Kono Hoshi ni Tatta Hitori no Kimi | 222333 | [222333-inoue-mami-kono-hoshi-ni-tatta-hitori-no-kimi.json](./222333-inoue-mami-kono-hoshi-ni-tatta-hitori-no-kimi.json) |
