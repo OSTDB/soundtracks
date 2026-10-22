@@ -241,6 +241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haiku, and the Mother Virus | 336070 | [336070-haiku-and-the-mother-virus.json](./336070-haiku-and-the-mother-virus.json) |
 | Haiku, the Baby Robot | 231993 | [231993-haiku-the-baby-robot.json](./231993-haiku-the-baby-robot.json) |
 | Haikyu!! Tsunage! Itadaki no Keshiki!! | 136931 | [136931-haikyu-tsunage-itadaki-no-keshiki.json](./136931-haikyu-tsunage-itadaki-no-keshiki.json) |
+| Haikyuu!! Cross Team Match! | 136910 | [136910-haikyuu-cross-team-match.json](./136910-haikyuu-cross-team-match.json) |
 | Haikyuu!! Donpisha Match!! | 196599 | [196599-haikyuu-donpisha-match.json](./196599-haikyuu-donpisha-match.json) |
 | Hail Britannia | 340408 | [340408-hail-britannia.json](./340408-hail-britannia.json) |
 | Hail to the Chimp | 7005 | [7005-hail-to-the-chimp.json](./7005-hail-to-the-chimp.json) |
