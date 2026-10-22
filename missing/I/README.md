@@ -3323,6 +3323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inky Blinky Bob | 389665 | [389665-inky-blinky-bob.json](./389665-inky-blinky-bob.json) |
 | Inky Caps Clash | 175428 | [175428-inky-caps-clash.json](./175428-inky-caps-clash.json) |
 | Inkya Danshi de Asobou! | 314851 | [314851-inkya-danshi-de-asobou.json](./314851-inkya-danshi-de-asobou.json) |
+| Inland | 155422 | [155422-inland.json](./155422-inland.json) |
 | Inline | 81070 | [81070-inline.json](./81070-inline.json) |
 | Inline Race | 94560 | [94560-inline-race.json](./94560-inline-race.json) |
 | Inline: Out of Time | 290706 | [290706-inline-out-of-time.json](./290706-inline-out-of-time.json) |
