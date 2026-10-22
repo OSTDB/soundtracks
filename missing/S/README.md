@@ -10346,6 +10346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sleepy Sunday | 152834 | [152834-sleepy-sunday.json](./152834-sleepy-sunday.json) |
 | Sleeve Shock | 257956 | [257956-sleeve-shock.json](./257956-sleeve-shock.json) |
 | Sleigh Strikers | 279257 | [279257-sleigh-strikers.json](./279257-sleigh-strikers.json) |
+| Sleight: Nerve Wracking Espionage Party Game | 110740 | [110740-sleight-nerve-wracking-espionage-party-game.json](./110740-sleight-nerve-wracking-espionage-party-game.json) |
 | Slemmings | 184383 | [184383-slemmings.json](./184383-slemmings.json) |
 | Slender Hentai Edition | 173814 | [173814-slender-hentai-edition.json](./173814-slender-hentai-edition.json) |
 | Slender Island | 401906 | [401906-slender-island.json](./401906-slender-island.json) |
@@ -15984,6 +15985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spark the Electric Jester: Recharged | 337175 | [337175-spark-the-electric-jester-recharged.json](./337175-spark-the-electric-jester-recharged.json) |
 | Spark! Photon Blast | 369082 | [369082-spark-photon-blast.json](./369082-spark-photon-blast.json) |
 | SparkBlast | 301507 | [301507-sparkblast.json](./301507-sparkblast.json) |
+| SparkChess | 110728 | [110728-sparkchess.json](./110728-sparkchess.json) |
 | Sparked | 382199 | [382199-sparked.json](./382199-sparked.json) |
 | Sparkhunt | 270153 | [270153-sparkhunt.json](./270153-sparkhunt.json) |
 | Sparking Beam Strike 1000 | 328485 | [328485-sparking-beam-strike-1000.json](./328485-sparking-beam-strike-1000.json) |
@@ -23418,6 +23420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summons Sword: Pot Guardian | 326180 | [326180-summons-sword-pot-guardian.json](./326180-summons-sword-pot-guardian.json) |
 | Summum | 181402 | [181402-summum.json](./181402-summum.json) |
 | Summum Aeterna | 204692 | [204692-summum-aeterna.json](./204692-summum-aeterna.json) |
+| Sumo | 110716 | [110716-sumo.json](./110716-sumo.json) |
 | Sumo | 281686 | [281686-sumo.json](./281686-sumo.json) |
 | Sumo | 303084 | [303084-sumo.json](./303084-sumo.json) |
 | Sumo Rumble | 307974 | [307974-sumo-rumble.json](./307974-sumo-rumble.json) |
@@ -26412,6 +26415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supplice | 165070 | [165070-supplice.json](./165070-supplice.json) |
 | Supply Chain | 184296 | [184296-supply-chain.json](./184296-supply-chain.json) |
 | Supply Chain Expansion | 373746 | [373746-supply-chain-expansion.json](./373746-supply-chain-expansion.json) |
+| Supply Chain Idle | 110677 | [110677-supply-chain-idle.json](./110677-supply-chain-idle.json) |
 | Supply Chained | 325325 | [325325-supply-chained.json](./325325-supply-chained.json) |
 | Supposedly Wonderful Future | 72491 | [72491-supposedly-wonderful-future.json](./72491-supposedly-wonderful-future.json) |
 | Supra Binyot Lande 2: Melpert's Quest for Booti | 334637 | [334637-supra-binyot-lande-2-melperts-quest-for-booti.json](./334637-supra-binyot-lande-2-melperts-quest-for-booti.json) |
@@ -28144,6 +28148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synthetic Dreams | 51977 | [51977-synthetic-dreams.json](./51977-synthetic-dreams.json) |
 | Synthetic Fantasy; | 277581 | [277581-synthetic-fantasy.json](./277581-synthetic-fantasy.json) |
 | Synthetic Hopes | 345112 | [345112-synthetic-hopes.json](./345112-synthetic-hopes.json) |
+| Synthetic Love | 110720 | [110720-synthetic-love.json](./110720-synthetic-love.json) |
 | Synthetic Orders | 383095 | [383095-synthetic-orders.json](./383095-synthetic-orders.json) |
 | Synthetic Soul | 276159 | [276159-synthetic-soul.json](./276159-synthetic-soul.json) |
 | Synthetic Soul 2 | 292676 | [292676-synthetic-soul-2.json](./292676-synthetic-soul-2.json) |
