@@ -4269,6 +4269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airstrike II: Gulf Thunder | 593 | [593-airstrike-ii-gulf-thunder.json](./593-airstrike-ii-gulf-thunder.json) |
 | Airstrike One | 65781 | [65781-airstrike-one.json](./65781-airstrike-one.json) |
 | Airstrip DLC and Can Touch This DLC Bundle | 305497 | [305497-airstrip-dlc-and-can-touch-this-dlc-bundle.json](./305497-airstrip-dlc-and-can-touch-this-dlc-bundle.json) |
+| Airtight | 153214 | [153214-airtight.json](./153214-airtight.json) |
 | Airtight City 1.0 | 119724 | [119724-airtight-city-1-0.json](./119724-airtight-city-1-0.json) |
 | AirTycoon 3 | 101538 | [101538-airtycoon-3.json](./101538-airtycoon-3.json) |
 | AirTycoon 5 | 106756 | [106756-airtycoon-5.json](./106756-airtycoon-5.json) |
@@ -5679,6 +5680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aloisius | 183469 | [183469-aloisius.json](./183469-aloisius.json) |
 | Alon | 152986 | [152986-alon.json](./152986-alon.json) |
 | Alon | 311568 | [311568-alon.json](./311568-alon.json) |
+| Alone | 153218 | [153218-alone.json](./153218-alone.json) |
 | Alone | 195984 | [195984-alone.json](./195984-alone.json) |
 | Alone | 196110 | [196110-alone.json](./196110-alone.json) |
 | Alone | 97495 | [97495-alone.json](./97495-alone.json) |
@@ -6810,6 +6812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anagramme Duel | 96037 | [96037-anagramme-duel.json](./96037-anagramme-duel.json) |
 | Anagrams | 169360 | [169360-anagrams.json](./169360-anagrams.json) |
 | Anagrams | 354962 | [354962-anagrams.json](./354962-anagrams.json) |
+| Anagraphs: An Anagram Game With a Twist | 153087 | [153087-anagraphs-an-anagram-game-with-a-twist.json](./153087-anagraphs-an-anagram-game-with-a-twist.json) |
 | Anahita | 81133 | [81133-anahita.json](./81133-anahita.json) |
 | Anahita: The Good Girl | 83151 | [83151-anahita-the-good-girl.json](./83151-anahita-the-good-girl.json) |
 | Analemma | 68767 | [68767-analemma.json](./68767-analemma.json) |
@@ -12390,6 +12393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ata: Extracts from the American Civil War | 322053 | [322053-ata-extracts-from-the-american-civil-war.json](./322053-ata-extracts-from-the-american-civil-war.json) |
 | ATAC: Advanced Tactical Air Command | 14488 | [14488-atac-advanced-tactical-air-command.json](./14488-atac-advanced-tactical-air-command.json) |
 | ATAC: The Secret War Against Drugs | 14489 | [14489-atac-the-secret-war-against-drugs.json](./14489-atac-the-secret-war-against-drugs.json) |
+| Atahion: Tower Defense | 153223 | [153223-atahion-tower-defense.json](./153223-atahion-tower-defense.json) |
 | Atai no Gensoukyou | 207035 | [207035-atai-no-gensoukyou.json](./207035-atai-no-gensoukyou.json) |
 | Atai no Gensoukyou Shunkashuutou | 207039 | [207039-atai-no-gensoukyou-shunkashuutou.json](./207039-atai-no-gensoukyou-shunkashuutou.json) |
 | Atajrubah | 36426 | [36426-atajrubah.json](./36426-atajrubah.json) |
