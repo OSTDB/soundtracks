@@ -1528,6 +1528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Tales: Edgar Allan Poe's The Pit and the Pendulum - Collector's Edition | 370679 | [370679-dark-tales-edgar-allan-poes-the-pit-and-the-pendulum-collectors-edition.json](./370679-dark-tales-edgar-allan-poes-the-pit-and-the-pendulum-collectors-edition.json) |
 | Dark Tales: Edgar Allan Poe's The Raven - Collector's Edition | 222282 | [222282-dark-tales-edgar-allan-poes-the-raven-collectors-edition.json](./222282-dark-tales-edgar-allan-poes-the-raven-collectors-edition.json) |
 | Dark Tales: Edgar Allan Poe's The Tell-Tale Heart - Collector's Edition | 105224 | [105224-dark-tales-edgar-allan-poes-the-tell-tale-heart-collectors-edition.json](./105224-dark-tales-edgar-allan-poes-the-tell-tale-heart-collectors-edition.json) |
+| Dark Tales: Lenore | 100642 | [100642-dark-tales-lenore.json](./100642-dark-tales-lenore.json) |
 | Dark Tales: Mirror and Mad Princess | 252034 | [252034-dark-tales-mirror-and-mad-princess.json](./252034-dark-tales-mirror-and-mad-princess.json) |
 | Dark Tank | 320836 | [320836-dark-tank.json](./320836-dark-tank.json) |
 | Dark Tap RPG | 327660 | [327660-dark-tap-rpg.json](./327660-dark-tap-rpg.json) |
@@ -4925,6 +4926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demolition Derby | 110847 | [110847-demolition-derby.json](./110847-demolition-derby.json) |
 | Demolition Derby 2: Circuit | 234481 | [234481-demolition-derby-2-circuit.json](./234481-demolition-derby-2-circuit.json) |
 | Demolition Derby 3 | 184283 | [184283-demolition-derby-3.json](./184283-demolition-derby-3.json) |
+| Demolition Derby 3D | 100647 | [100647-demolition-derby-3d.json](./100647-demolition-derby-3d.json) |
 | Demolition Derby 4 | 200752 | [200752-demolition-derby-4.json](./200752-demolition-derby-4.json) |
 | Demolition Derby Multiplayer | 269087 | [269087-demolition-derby-multiplayer.json](./269087-demolition-derby-multiplayer.json) |
 | Demolition Derby Reloaded | 303219 | [303219-demolition-derby-reloaded.json](./303219-demolition-derby-reloaded.json) |
@@ -13076,6 +13078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Droid Death VR | 219762 | [219762-droid-death-vr.json](./219762-droid-death-vr.json) |
 | Droid Dreams | 133442 | [133442-droid-dreams.json](./133442-droid-dreams.json) |
 | Droid Escape | 192930 | [192930-droid-escape.json](./192930-droid-escape.json) |
+| Droid Invaders | 100546 | [100546-droid-invaders.json](./100546-droid-invaders.json) |
 | Droid Invasion | 245964 | [245964-droid-invasion.json](./245964-droid-invasion.json) |
 | Droid Warfare | 211153 | [211153-droid-warfare.json](./211153-droid-warfare.json) |
 | Droid Wars | 302100 | [302100-droid-wars.json](./302100-droid-wars.json) |
