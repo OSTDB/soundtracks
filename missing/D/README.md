@@ -6006,6 +6006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detonator | 263477 | [263477-detonator.json](./263477-detonator.json) |
 | Detour | 372079 | [372079-detour.json](./372079-detour.json) |
 | Detourist | 278744 | [278744-detourist.json](./278744-detourist.json) |
+| Detours | 153795 | [153795-detours.json](./153795-detours.json) |
 | Detox | 181882 | [181882-detox.json](./181882-detox.json) |
 | Detra | 345560 | [345560-detra.json](./345560-detra.json) |
 | Detriot | 219243 | [219243-detriot.json](./219243-detriot.json) |
@@ -9215,6 +9216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Domin'Ant | 131948 | [131948-dominant.json](./131948-dominant.json) |
 | Dominacy | 109058 | [109058-dominacy.json](./109058-dominacy.json) |
 | Dominance | 116371 | [116371-dominance.json](./116371-dominance.json) |
+| DominancE | 153783 | [153783-dominance.json](./153783-dominance.json) |
 | Dominance Chess-like | 311195 | [311195-dominance-chess-like.json](./311195-dominance-chess-like.json) |
 | Dominant Amber | 245671 | [245671-dominant-amber.json](./245671-dominant-amber.json) |
 | Dominant Color | 230689 | [230689-dominant-color.json](./230689-dominant-color.json) |
