@@ -7251,6 +7251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino Domino | 360022 | [360022-dino-domino.json](./360022-dino-domino.json) |
 | Dino Eggs | 23928 | [23928-dino-eggs.json](./23928-dino-eggs.json) |
 | Dino Eggs: Rebirth | 33336 | [33336-dino-eggs-rebirth.json](./33336-dino-eggs-rebirth.json) |
+| Dino Eruption | 142658 | [142658-dino-eruption.json](./142658-dino-eruption.json) |
 | Dino Escape | 398905 | [398905-dino-escape.json](./398905-dino-escape.json) |
 | Dino Evolution: Catch Dinosaurs and Raise Anime Primeval Boys | 401117 | [401117-dino-evolution-catch-dinosaurs-and-raise-anime-primeval-boys.json](./401117-dino-evolution-catch-dinosaurs-and-raise-anime-primeval-boys.json) |
 | Dino Evolution: Catch Dinosaurs and Raise Anime Primeval Girls | 401722 | [401722-dino-evolution-catch-dinosaurs-and-raise-anime-primeval-girls.json](./401722-dino-evolution-catch-dinosaurs-and-raise-anime-primeval-girls.json) |
@@ -7708,6 +7709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disco Elysium: The Final Cut | 141540 | [141540-disco-elysium-the-final-cut.json](./141540-disco-elysium-the-final-cut.json) |
 | Disco Elysium: The Final Cut - Collage Mode | 248092 | [248092-disco-elysium-the-final-cut-collage-mode.json](./248092-disco-elysium-the-final-cut-collage-mode.json) |
 | Disco Elysium: The Final Cut Bundle | 249486 | [249486-disco-elysium-the-final-cut-bundle.json](./249486-disco-elysium-the-final-cut-bundle.json) |
+| Disco Manager | 143396 | [143396-disco-manager.json](./143396-disco-manager.json) |
 | Disco No.1 | 40046 | [40046-disco-no-1.json](./40046-disco-no-1.json) |
 | Disco Noire | 194309 | [194309-disco-noire.json](./194309-disco-noire.json) |
 | Disco Samurai | 267475 | [267475-disco-samurai.json](./267475-disco-samurai.json) |
@@ -7938,6 +7940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney Miraness Fitness | 366901 | [366901-disney-miraness-fitness.json](./366901-disney-miraness-fitness.json) |
 | Disney Mirrorverse | 137964 | [137964-disney-mirrorverse.json](./137964-disney-mirrorverse.json) |
 | Disney Move | 43499 | [43499-disney-move.json](./43499-disney-move.json) |
+| Disney Music Parade | 142916 | [142916-disney-music-parade.json](./142916-disney-music-parade.json) |
 | Disney Music Parade Encore | 314949 | [314949-disney-music-parade-encore.json](./314949-disney-music-parade-encore.json) |
 | Disney Piglet's Special Day | 220130 | [220130-disney-piglets-special-day.json](./220130-disney-piglets-special-day.json) |
 | Disney Pop Town | 386962 | [386962-disney-pop-town.json](./386962-disney-pop-town.json) |
@@ -9006,6 +9009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dogville | 272032 | [272032-dogville.json](./272032-dogville.json) |
 | Dogwalk | 348639 | [348639-dogwalk.json](./348639-dogwalk.json) |
 | Dogwood | 385448 | [385448-dogwood.json](./385448-dogwood.json) |
+| Dogworld | 142914 | [142914-dogworld.json](./142914-dogworld.json) |
 | DogWorld Premium | 87265 | [87265-dogworld-premium.json](./87265-dogworld-premium.json) |
 | Dogyuun | 294035 | [294035-dogyuun.json](./294035-dogyuun.json) |
 | Dogz | 131393 | [131393-dogz.json](./131393-dogz.json) |
@@ -9395,6 +9399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Burst My Balloon | 373875 | [373875-dont-burst-my-balloon.json](./373875-dont-burst-my-balloon.json) |
 | Don't Call Me Mama But Yes I Am Your Mama | 181853 | [181853-dont-call-me-mama-but-yes-i-am-your-mama.json](./181853-dont-call-me-mama-but-yes-i-am-your-mama.json) |
 | Don't Chat With Strangers | 26739 | [26739-dont-chat-with-strangers.json](./26739-dont-chat-with-strangers.json) |
+| Don't Cheat on Me | 142662 | [142662-dont-cheat-on-me.json](./142662-dont-cheat-on-me.json) |
 | Don't Choke | 180754 | [180754-dont-choke.json](./180754-dont-choke.json) |
 | Don't Click The Flower | 394317 | [394317-dont-click-the-flower.json](./394317-dont-click-the-flower.json) |
 | Don't Cock It Up | 66768 | [66768-dont-cock-it-up.json](./66768-dont-cock-it-up.json) |
@@ -11334,6 +11339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Courier | 244681 | [244681-dragon-courier.json](./244681-dragon-courier.json) |
 | Dragon Court | 281384 | [281384-dragon-court.json](./281384-dragon-court.json) |
 | Dragon Court: Revived | 315101 | [315101-dragon-court-revived.json](./315101-dragon-court-revived.json) |
+| Dragon Creek | 142675 | [142675-dragon-creek.json](./142675-dragon-creek.json) |
 | Dragon Crystal | 18226 | [18226-dragon-crystal.json](./18226-dragon-crystal.json) |
 | Dragon Dance | 49940 | [49940-dragon-dance.json](./49940-dragon-dance.json) |
 | Dragon Dash Division | 167535 | [167535-dragon-dash-division.json](./167535-dragon-dash-division.json) |
@@ -13259,6 +13265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dual! | 90676 | [90676-dual.json](./90676-dual.json) |
 | DualForce Idle | 183551 | [183551-dualforce-idle.json](./183551-dualforce-idle.json) |
 | Dualikiwi | 297086 | [297086-dualikiwi.json](./297086-dualikiwi.json) |
+| Dualism | 142906 | [142906-dualism.json](./142906-dualism.json) |
 | Duality | 112786 | [112786-duality.json](./112786-duality.json) |
 | Duality | 301334 | [301334-duality.json](./301334-duality.json) |
 | Duality | 305337 | [305337-duality.json](./305337-duality.json) |
