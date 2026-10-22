@@ -958,6 +958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ward 107: Silence | 392822 | [392822-ward-107-silence.json](./392822-ward-107-silence.json) |
 | Ward 13 | 399722 | [399722-ward-13.json](./399722-ward-13.json) |
 | Ward 777 | 357460 | [357460-ward-777.json](./357460-ward-777.json) |
+| Warden | 123819 | [123819-warden.json](./123819-warden.json) |
 | Warden | 324729 | [324729-warden.json](./324729-warden.json) |
 | Warden | 377157 | [377157-warden.json](./377157-warden.json) |
 | Warden of the Coast | 243124 | [243124-warden-of-the-coast.json](./243124-warden-of-the-coast.json) |
