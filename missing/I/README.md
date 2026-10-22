@@ -227,6 +227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Didn't Cheat | 324683 | [324683-i-didnt-cheat.json](./324683-i-didnt-cheat.json) |
 | I Die a Lovely Life | 230162 | [230162-i-die-a-lovely-life.json](./230162-i-die-a-lovely-life.json) |
 | I Dig It | 77195 | [77195-i-dig-it.json](./77195-i-dig-it.json) |
+| I Dig It HD | 102654 | [102654-i-dig-it-hd.json](./102654-i-dig-it-hd.json) |
 | I Doesn't Exist | 177812 | [177812-i-doesnt-exist.json](./177812-i-doesnt-exist.json) |
 | I Doll U | 61171 | [61171-i-doll-u.json](./61171-i-doll-u.json) |
 | I Don't Belong | 186159 | [186159-i-dont-belong.json](./186159-i-dont-belong.json) |
