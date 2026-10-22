@@ -6621,6 +6621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road of Death | 290631 | [290631-road-of-death.json](./290631-road-of-death.json) |
 | Road of Destiny | 87957 | [87957-road-of-destiny.json](./87957-road-of-destiny.json) |
 | Road of Dust and Rust | 87949 | [87949-road-of-dust-and-rust.json](./87949-road-of-dust-and-rust.json) |
+| Road of Fury 2 | 102022 | [102022-road-of-fury-2.json](./102022-road-of-fury-2.json) |
 | Road Patrol Truck | 104227 | [104227-road-patrol-truck.json](./104227-road-patrol-truck.json) |
 | Road Race | 200425 | [200425-road-race.json](./200425-road-race.json) |
 | Road Racer | 297243 | [297243-road-racer.json](./297243-road-racer.json) |
@@ -9081,6 +9082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Royal Order | 182143 | [182143-royal-order.json](./182143-royal-order.json) |
 | Royal Pit | 409557 | [409557-royal-pit.json](./409557-royal-pit.json) |
 | Royal Pro Wrestling: Jikkyou Live!! | 37203 | [37203-royal-pro-wrestling-jikkyou-live.json](./37203-royal-pro-wrestling-jikkyou-live.json) |
+| Royal Protectors | 102000 | [102000-royal-protectors.json](./102000-royal-protectors.json) |
 | Royal Quest | 10786 | [10786-royal-quest.json](./10786-royal-quest.json) |
 | Royal Quest Online | 309547 | [309547-royal-quest-online.json](./309547-royal-quest-online.json) |
 | Royal Rampage | 370127 | [370127-royal-rampage.json](./370127-royal-rampage.json) |
@@ -9098,6 +9100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Royal Romances: The Power of Chosen One DLC | 256003 | [256003-royal-romances-the-power-of-chosen-one-dlc.json](./256003-royal-romances-the-power-of-chosen-one-dlc.json) |
 | Royal Settlement 1450 | 54353 | [54353-royal-settlement-1450.json](./54353-royal-settlement-1450.json) |
 | Royal Sort | 369373 | [369373-royal-sort.json](./369373-royal-sort.json) |
+| Royal Squad | 101927 | [101927-royal-squad.json](./101927-royal-squad.json) |
 | Royal Thumble | 196727 | [196727-royal-thumble.json](./196727-royal-thumble.json) |
 | Royal Tower Defense | 142833 | [142833-royal-tower-defense.json](./142833-royal-tower-defense.json) |
 | Royal Trouble: Hidden Adventures | 87899 | [87899-royal-trouble-hidden-adventures.json](./87899-royal-trouble-hidden-adventures.json) |
@@ -9151,6 +9154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RPG Merchant | 86335 | [86335-rpg-merchant.json](./86335-rpg-merchant.json) |
 | RPG Mix | 146565 | [146565-rpg-mix.json](./146565-rpg-mix.json) |
 | RPG MO | 35161 | [35161-rpg-mo.json](./35161-rpg-mo.json) |
+| RPG MO Sandbox | 102011 | [102011-rpg-mo-sandbox.json](./102011-rpg-mo-sandbox.json) |
 | RPG non RPG: Valhalla | 295107 | [295107-rpg-non-rpg-valhalla.json](./295107-rpg-non-rpg-valhalla.json) |
 | RPG Paper Maker | 117594 | [117594-rpg-paper-maker.json](./117594-rpg-paper-maker.json) |
 | RPG Plus: Virtual Tabletop | 404364 | [404364-rpg-plus-virtual-tabletop.json](./404364-rpg-plus-virtual-tabletop.json) |
@@ -10183,6 +10187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ruth's Journey | 133861 | [133861-ruths-journey.json](./133861-ruths-journey.json) |
 | Ruthless Carnage Hotline | 313225 | [313225-ruthless-carnage-hotline.json](./313225-ruthless-carnage-hotline.json) |
 | Ruthless Conquest | 126304 | [126304-ruthless-conquest.json](./126304-ruthless-conquest.json) |
+| Ruthless Pandas | 101923 | [101923-ruthless-pandas.json](./101923-ruthless-pandas.json) |
 | Ruthless Safari | 52777 | [52777-ruthless-safari.json](./52777-ruthless-safari.json) |
 | Ruthless:1 | 260608 | [260608-ruthless-1.json](./260608-ruthless-1.json) |
 | Ruthnar Online | 293325 | [293325-ruthnar-online.json](./293325-ruthnar-online.json) |
