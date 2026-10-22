@@ -3012,6 +3012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Faction | 215080 | [215080-red-faction.json](./215080-red-faction.json) |
 | Red Faction | 6273 | [6273-red-faction.json](./6273-red-faction.json) |
 | Red Faction Collection | 53495 | [53495-red-faction-collection.json](./53495-red-faction-collection.json) |
+| Red Faction: Armageddon - Ultimate Edition | 99958 | [99958-red-faction-armageddon-ultimate-edition.json](./99958-red-faction-armageddon-ultimate-edition.json) |
 | Red Faction: B.E.A.S.T. | 264880 | [264880-red-faction-b-e-a-s-t.json](./264880-red-faction-b-e-a-s-t.json) |
 | Red Faction: Guerrilla - Steam Edition | 28988 | [28988-red-faction-guerrilla-steam-edition.json](./28988-red-faction-guerrilla-steam-edition.json) |
 | Red Faction: Guerrilla Re-Mars-tered | 96027 | [96027-red-faction-guerrilla-re-mars-tered.json](./96027-red-faction-guerrilla-re-mars-tered.json) |
