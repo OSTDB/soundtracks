@@ -1267,6 +1267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eggroll | 187821 | [187821-eggroll.json](./187821-eggroll.json) |
 | Eggrolls Shoot | 379881 | [379881-eggrolls-shoot.json](./379881-eggrolls-shoot.json) |
 | Eggs | 40113 | [40113-eggs.json](./40113-eggs.json) |
+| Eggs & Kings | 109302 | [109302-eggs-and-kings.json](./109302-eggs-and-kings.json) |
 | Eggs Catcher VR | 164254 | [164254-eggs-catcher-vr.json](./164254-eggs-catcher-vr.json) |
 | Eggs Must Flow | 414592 | [414592-eggs-must-flow.json](./414592-eggs-must-flow.json) |
 | Eggs Never Hurt | 410304 | [410304-eggs-never-hurt.json](./410304-eggs-never-hurt.json) |
@@ -4312,6 +4313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape the Humans | 362409 | [362409-escape-the-humans.json](./362409-escape-the-humans.json) |
 | Escape the Island | 128852 | [128852-escape-the-island.json](./128852-escape-the-island.json) |
 | Escape the Lab | 126938 | [126938-escape-the-lab.json](./126938-escape-the-lab.json) |
+| Escape the Labyrinth | 109317 | [109317-escape-the-labyrinth.json](./109317-escape-the-labyrinth.json) |
 | Escape the Loop | 30183 | [30183-escape-the-loop.json](./30183-escape-the-loop.json) |
 | Escape The Lost Kingdom: The Forgotten Pharaoh | 17293 | [17293-escape-the-lost-kingdom-the-forgotten-pharaoh.json](./17293-escape-the-lost-kingdom-the-forgotten-pharaoh.json) |
 | Escape the Mad Empire | 217233 | [217233-escape-the-mad-empire.json](./217233-escape-the-mad-empire.json) |
