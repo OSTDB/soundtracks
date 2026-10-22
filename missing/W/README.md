@@ -5656,6 +5656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Woodbound | 140971 | [140971-woodbound.json](./140971-woodbound.json) |
 | Woodboy | 118241 | [118241-woodboy.json](./118241-woodboy.json) |
 | Woodclicker | 101929 | [101929-woodclicker.json](./101929-woodclicker.json) |
+| Woodcutter | 154910 | [154910-woodcutter.json](./154910-woodcutter.json) |
 | Woodcutter Simulator 2011 | 52132 | [52132-woodcutter-simulator-2011.json](./52132-woodcutter-simulator-2011.json) |
 | Woodcutter Simulator 2012 | 52131 | [52131-woodcutter-simulator-2012.json](./52131-woodcutter-simulator-2012.json) |
 | Woodcutter Simulator 2013 | 16900 | [16900-woodcutter-simulator-2013.json](./16900-woodcutter-simulator-2013.json) |
@@ -5790,6 +5791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Craft | 205889 | [205889-word-craft.json](./205889-word-craft.json) |
 | Word Crossy: A crossword game | 88767 | [88767-word-crossy-a-crossword-game.json](./88767-word-crossy-a-crossword-game.json) |
 | Word Crush | 78150 | [78150-word-crush.json](./78150-word-crush.json) |
+| Word Crush Hidden | 154911 | [154911-word-crush-hidden.json](./154911-word-crush-hidden.json) |
 | Word Crystal | 195197 | [195197-word-crystal.json](./195197-word-crystal.json) |
 | Word Dungeons | 262368 | [262368-word-dungeons.json](./262368-word-dungeons.json) |
 | Word Escape | 152930 | [152930-word-escape.json](./152930-word-escape.json) |
@@ -6799,6 +6801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worms | 87594 | [87594-worms.json](./87594-worms.json) |
 | Worms | 9331 | [9331-worms.json](./9331-worms.json) |
 | Worms | 9332 | [9332-worms.json](./9332-worms.json) |
+| Worms 2011: Armageddon | 154862 | [154862-worms-2011-armageddon.json](./154862-worms-2011-armageddon.json) |
 | Worms 3D | 1047 | [1047-worms-3d.json](./1047-worms-3d.json) |
 | Worms 4 | 59763 | [59763-worms-4.json](./59763-worms-4.json) |
 | Worms Anniversary Edition | 82389 | [82389-worms-anniversary-edition.json](./82389-worms-anniversary-edition.json) |
