@@ -1139,6 +1139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jewel Match Royale | 296202 | [296202-jewel-match-royale.json](./296202-jewel-match-royale.json) |
 | Jewel Match Royale 2: Rise of the King | 296203 | [296203-jewel-match-royale-2-rise-of-the-king.json](./296203-jewel-match-royale-2-rise-of-the-king.json) |
 | Jewel Match Solitaire | 105217 | [105217-jewel-match-solitaire.json](./105217-jewel-match-solitaire.json) |
+| Jewel Match Solitaire 2: Collector's Edition | 116761 | [116761-jewel-match-solitaire-2-collectors-edition.json](./116761-jewel-match-solitaire-2-collectors-edition.json) |
 | Jewel Match Solitaire Fantasy: Collector's Edition | 348894 | [348894-jewel-match-solitaire-fantasy-collectors-edition.json](./348894-jewel-match-solitaire-fantasy-collectors-edition.json) |
 | Jewel Match Solitaire Winterscapes | 113334 | [113334-jewel-match-solitaire-winterscapes.json](./113334-jewel-match-solitaire-winterscapes.json) |
 | Jewel Match Solitaire Winterscapes 3: Collector's Edition | 362851 | [362851-jewel-match-solitaire-winterscapes-3-collectors-edition.json](./362851-jewel-match-solitaire-winterscapes-3-collectors-edition.json) |
