@@ -3579,6 +3579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agent Horny: Season 1 | 384893 | [384893-agent-horny-season-1.json](./384893-agent-horny-season-1.json) |
 | Agent Hugo: Hula Holiday | 43512 | [43512-agent-hugo-hula-holiday.json](./43512-agent-hugo-hula-holiday.json) |
 | Agent Hugo: Lemoon Twist | 43252 | [43252-agent-hugo-lemoon-twist.json](./43252-agent-hugo-lemoon-twist.json) |
+| Agent Hugo: Roborumble | 141696 | [141696-agent-hugo-roborumble.json](./141696-agent-hugo-roborumble.json) |
 | Agent in Depth | 216716 | [216716-agent-in-depth.json](./216716-agent-in-depth.json) |
 | Agent Intercept | 122635 | [122635-agent-intercept.json](./122635-agent-intercept.json) |
 | Agent Jump | 376849 | [376849-agent-jump.json](./376849-agent-jump.json) |
@@ -8285,7 +8286,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anstoss 1-3 Bundle | 227125 | [227125-anstoss-1-3-bundle.json](./227125-anstoss-1-3-bundle.json) |
 | Anstoß 2 | 85725 | [85725-ansto-2.json](./85725-ansto-2.json) |
 | Anstoss 2: Gold Edition | 155090 | [155090-anstoss-2-gold-edition.json](./155090-anstoss-2-gold-edition.json) |
+| Anstoss 2005 | 141469 | [141469-anstoss-2005.json](./141469-anstoss-2005.json) |
+| Anstoss 2007 | 141470 | [141470-anstoss-2007.json](./141470-anstoss-2007.json) |
 | Anstoß 4 | 85734 | [85734-ansto-4.json](./85734-ansto-4.json) |
+| Anstoss 4: Edition 03/04 | 141468 | [141468-anstoss-4-edition-03-04.json](./141468-anstoss-4-edition-03-04.json) |
 | Anstoß Action | 98963 | [98963-ansto-action.json](./98963-ansto-action.json) |
 | Answer Back: Junior Quiz | 14257 | [14257-answer-back-junior-quiz.json](./14257-answer-back-junior-quiz.json) |
 | Answer Back: Senior Quiz | 14258 | [14258-answer-back-senior-quiz.json](./14258-answer-back-senior-quiz.json) |
@@ -11809,6 +11813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assia: Returning to Dreams | 257314 | [257314-assia-returning-to-dreams.json](./257314-assia-returning-to-dreams.json) |
 | Assignment Due: Project Blue | 257555 | [257555-assignment-due-project-blue.json](./257555-assignment-due-project-blue.json) |
 | Assimilate | 184260 | [184260-assimilate.json](./184260-assimilate.json) |
+| Assimilate! (A Party Game) | 141471 | [141471-assimilate-a-party-game.json](./141471-assimilate-a-party-game.json) |
 | Assimilation | 72125 | [72125-assimilation.json](./72125-assimilation.json) |
 | Assimilation X | 150975 | [150975-assimilation-x.json](./150975-assimilation-x.json) |
 | Assistant to the Lost Detective: Remaster | 298126 | [298126-assistant-to-the-lost-detective-remaster.json](./298126-assistant-to-the-lost-detective-remaster.json) |
