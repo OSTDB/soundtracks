@@ -237,6 +237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gadget 3 | 255524 | [255524-gadget-3.json](./255524-gadget-3.json) |
 | Gadget Racers | 250446 | [250446-gadget-racers.json](./250446-gadget-racers.json) |
 | Gadget Racers | 4088 | [4088-gadget-racers.json](./4088-gadget-racers.json) |
+| Gadget Trial | 137882 | [137882-gadget-trial.json](./137882-gadget-trial.json) |
 | Gadget Tycoon | 77189 | [77189-gadget-tycoon.json](./77189-gadget-tycoon.json) |
 | Gadget: Past as Future | 131905 | [131905-gadget-past-as-future.json](./131905-gadget-past-as-future.json) |
 | Gadgeteer | 103264 | [103264-gadgeteer.json](./103264-gadgeteer.json) |
@@ -3137,6 +3138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghosts of Trastevere | 372652 | [372652-ghosts-of-trastevere.json](./372652-ghosts-of-trastevere.json) |
 | Ghosts of War | 174822 | [174822-ghosts-of-war.json](./174822-ghosts-of-war.json) |
 | Ghosts over the Water: Changing the Tides of Japan's Future | 242995 | [242995-ghosts-over-the-water-changing-the-tides-of-japans-future.json](./242995-ghosts-over-the-water-changing-the-tides-of-japans-future.json) |
+| Ghosts'n Demons | 138077 | [138077-ghostsn-demons.json](./138077-ghostsn-demons.json) |
 | Ghosts'n DJs | 129198 | [129198-ghostsn-djs.json](./129198-ghostsn-djs.json) |
 | Ghostscape | 80158 | [80158-ghostscape.json](./80158-ghostscape.json) |
 | Ghoststory | 89954 | [89954-ghoststory.json](./89954-ghoststory.json) |
@@ -6936,6 +6938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gretel and Winslow's Mansion | 369377 | [369377-gretel-and-winslows-mansion.json](./369377-gretel-and-winslows-mansion.json) |
 | Gretel: The Lost Tale | 323501 | [323501-gretel-the-lost-tale.json](./323501-gretel-the-lost-tale.json) |
 | Gretel's Honesty | 330894 | [330894-gretels-honesty.json](./330894-gretels-honesty.json) |
+| Gretzky NHL | 138071 | [138071-gretzky-nhl.json](./138071-gretzky-nhl.json) |
 | Gretzky NHL 2005 | 24162 | [24162-gretzky-nhl-2005.json](./24162-gretzky-nhl-2005.json) |
 | Grex | 331371 | [331371-grex.json](./331371-grex.json) |
 | Grexovka Village | 386411 | [386411-grexovka-village.json](./386411-grexovka-village.json) |
