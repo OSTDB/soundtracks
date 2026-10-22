@@ -47,6 +47,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | C.O.R.E. | 20977 | [20977-c-o-r-e.json](./20977-c-o-r-e.json) |
 | C.O.Ś. | 311360 | [311360-c-o-s.json](./311360-c-o-s.json) |
 | C.P.U. Bach | 94650 | [94650-c-p-u-bach.json](./94650-c-p-u-bach.json) |
+| C.Q.C. - Close Quarters Combat | 112683 | [112683-c-q-c-close-quarters-combat.json](./112683-c-q-c-close-quarters-combat.json) |
 | C.R.E.E.P | 358863 | [358863-c-r-e-e-p.json](./358863-c-r-e-e-p.json) |
 | C.R.E.E.P.S | 34824 | [34824-c-r-e-e-p-s.json](./34824-c-r-e-e-p-s.json) |
 | C.R.O.W. Girl Trouble | 293995 | [293995-c-r-o-w-girl-trouble.json](./293995-c-r-o-w-girl-trouble.json) |
@@ -2848,7 +2849,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castlevania: Lords of Shadow - Resurrection | 10076 | [10076-castlevania-lords-of-shadow-resurrection.json](./10076-castlevania-lords-of-shadow-resurrection.json) |
 | Castlevania: Lords of Shadow - Reverie | 10075 | [10075-castlevania-lords-of-shadow-reverie.json](./10075-castlevania-lords-of-shadow-reverie.json) |
 | Castlevania: Lords of Shadow - Special Edition | 386289 | [386289-castlevania-lords-of-shadow-special-edition.json](./386289-castlevania-lords-of-shadow-special-edition.json) |
+| Castlevania: Lords of Shadow 2 - Dracula's Tomb Premium Edition | 112642 | [112642-castlevania-lords-of-shadow-2-draculas-tomb-premium-edition.json](./112642-castlevania-lords-of-shadow-2-draculas-tomb-premium-edition.json) |
 | Castlevania: Lords of Shadow 2 - Revelations | 6303 | [6303-castlevania-lords-of-shadow-2-revelations.json](./6303-castlevania-lords-of-shadow-2-revelations.json) |
+| Castlevania: Lords of Shadow 2 - Special Edition | 112640 | [112640-castlevania-lords-of-shadow-2-special-edition.json](./112640-castlevania-lords-of-shadow-2-special-edition.json) |
 | Castlevania: Lords of Shadow Collection | 21877 | [21877-castlevania-lords-of-shadow-collection.json](./21877-castlevania-lords-of-shadow-collection.json) |
 | Castlevania: Maria of Sorrow | 248309 | [248309-castlevania-maria-of-sorrow.json](./248309-castlevania-maria-of-sorrow.json) |
 | Castlevania: Moonlight Rhapsody | 421838 | [421838-castlevania-moonlight-rhapsody.json](./421838-castlevania-moonlight-rhapsody.json) |
@@ -9616,6 +9619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colour My Fate | 384053 | [384053-colour-my-fate.json](./384053-colour-my-fate.json) |
 | Colour Switch Dash | 87018 | [87018-colour-switch-dash.json](./87018-colour-switch-dash.json) |
 | Colourblind | 235830 | [235830-colourblind.json](./235830-colourblind.json) |
+| Colourful Maze | 112673 | [112673-colourful-maze.json](./112673-colourful-maze.json) |
 | Colourise | 29897 | [29897-colourise.json](./29897-colourise.json) |
 | ColourPod | 263379 | [263379-colourpod.json](./263379-colourpod.json) |
 | ColourPod 2: DimensionPod | 263381 | [263381-colourpod-2-dimensionpod.json](./263381-colourpod-2-dimensionpod.json) |
