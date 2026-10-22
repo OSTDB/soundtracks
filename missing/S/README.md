@@ -2416,6 +2416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Schoolhouse Rock! Grammar Rock | 209767 | [209767-schoolhouse-rock-grammar-rock.json](./209767-schoolhouse-rock-grammar-rock.json) |
 | Schoolhouse Rock!: America Rock | 113469 | [113469-schoolhouse-rock-america-rock.json](./113469-schoolhouse-rock-america-rock.json) |
 | Schoolhouse Rock!: Math Rock | 142707 | [142707-schoolhouse-rock-math-rock.json](./142707-schoolhouse-rock-math-rock.json) |
+| SchoolJump | 100539 | [100539-schooljump.json](./100539-schooljump.json) |
 | SchoolMate | 22464 | [22464-schoolmate.json](./22464-schoolmate.json) |
 | SchoolMate Sweets! | 22466 | [22466-schoolmate-sweets.json](./22466-schoolmate-sweets.json) |
 | Schoolmates - The Mystery of the Magic Bracelet | 54347 | [54347-schoolmates-the-mystery-of-the-magic-bracelet.json](./54347-schoolmates-the-mystery-of-the-magic-bracelet.json) |
@@ -2592,6 +2593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Score Gun | 225603 | [225603-score-gun.json](./225603-score-gun.json) |
 | Score International Baja 1000 | 7446 | [7446-score-international-baja-1000.json](./7446-score-international-baja-1000.json) |
 | Score of a Lifetime | 276744 | [276744-score-of-a-lifetime.json](./276744-score-of-a-lifetime.json) |
+| Score Real Soccer 2016 | 100622 | [100622-score-real-soccer-2016.json](./100622-score-real-soccer-2016.json) |
 | Score Rush | 76168 | [76168-score-rush.json](./76168-score-rush.json) |
 | Score Rush Extended | 19854 | [19854-score-rush-extended.json](./19854-score-rush-extended.json) |
 | Score the Fear | 353717 | [353717-score-the-fear.json](./353717-score-the-fear.json) |
@@ -3118,6 +3120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea Dove | 246792 | [246792-sea-dove.json](./246792-sea-dove.json) |
 | Sea Dragon | 22767 | [22767-sea-dragon.json](./22767-sea-dragon.json) |
 | Sea Duel | 90922 | [90922-sea-duel.json](./90922-sea-duel.json) |
+| Sea Explorer | 100659 | [100659-sea-explorer.json](./100659-sea-explorer.json) |
 | Sea Fable | 225488 | [225488-sea-fable.json](./225488-sea-fable.json) |
 | Sea Fantasy | 291825 | [291825-sea-fantasy.json](./291825-sea-fantasy.json) |
 | Sea Fever | 270759 | [270759-sea-fever.json](./270759-sea-fever.json) |
@@ -5759,6 +5762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shape Palette | 130779 | [130779-shape-palette.json](./130779-shape-palette.json) |
 | Shape Puzzle | 199456 | [199456-shape-puzzle.json](./199456-shape-puzzle.json) |
 | Shape Puzzle - Toddler Educational Learning Games | 105434 | [105434-shape-puzzle-toddler-educational-learning-games.json](./105434-shape-puzzle-toddler-educational-learning-games.json) |
+| Shape Puzzle HD - Word Learning Game for Kids | 100619 | [100619-shape-puzzle-hd-word-learning-game-for-kids.json](./100619-shape-puzzle-hd-word-learning-game-for-kids.json) |
 | Shape Quiz | 263991 | [263991-shape-quiz.json](./263991-shape-quiz.json) |
 | Shape Sender Deluxe | 345843 | [345843-shape-sender-deluxe.json](./345843-shape-sender-deluxe.json) |
 | Shape Shift Shawn: Episode 1 - Tale of the Transmogrified | 171567 | [171567-shape-shift-shawn-episode-1-tale-of-the-transmogrified.json](./171567-shape-shift-shawn-episode-1-tale-of-the-transmogrified.json) |
@@ -23264,6 +23268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suki Suki Love | 365206 | [365206-suki-suki-love.json](./365206-suki-suki-love.json) |
 | Suki Tokimeki to Kiss | 344006 | [344006-suki-tokimeki-to-kiss.json](./344006-suki-tokimeki-to-kiss.json) |
 | Suki! | 92119 | [92119-suki.json](./92119-suki.json) |
+| Suki's Spooky Romance | 100631 | [100631-sukis-spooky-romance.json](./100631-sukis-spooky-romance.json) |
 | Sukima | 361312 | [361312-sukima.json](./361312-sukima.json) |
 | Sukutte: Save Me... | 130358 | [130358-sukutte-save-me.json](./130358-sukutte-save-me.json) |
 | Sulfur | 233970 | [233970-sulfur.json](./233970-sulfur.json) |
@@ -24028,6 +24033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Chick Sisters | 140535 | [140535-super-chick-sisters.json](./140535-super-chick-sisters.json) |
 | Super Chicken Catchers | 113430 | [113430-super-chicken-catchers.json](./113430-super-chicken-catchers.json) |
 | Super Chicken Jumper | 172471 | [172471-super-chicken-jumper.json](./172471-super-chicken-jumper.json) |
+| Super Chicken Run - Chicken Farm Racing For kids | 100623 | [100623-super-chicken-run-chicken-farm-racing-for-kids.json](./100623-super-chicken-run-chicken-farm-racing-for-kids.json) |
 | Super Chili Man | 392203 | [392203-super-chili-man.json](./392203-super-chili-man.json) |
 | Super Chillers: The Chat Room | 372641 | [372641-super-chillers-the-chat-room.json](./372641-super-chillers-the-chat-room.json) |
 | Super Chinchilla Speed Typing Grand Prix 3000 | 185343 | [185343-super-chinchilla-speed-typing-grand-prix-3000.json](./185343-super-chinchilla-speed-typing-grand-prix-3000.json) |
