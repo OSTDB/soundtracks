@@ -3878,6 +3878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cecil Hollow | 253613 | [253613-cecil-hollow.json](./253613-cecil-hollow.json) |
 | Cecil Run | 129007 | [129007-cecil-run.json](./129007-cecil-run.json) |
 | Cecile | 84489 | [84489-cecile.json](./84489-cecile.json) |
+| Cedar Junction | 114120 | [114120-cedar-junction.json](./114120-cedar-junction.json) |
 | Cede | 108974 | [108974-cede.json](./108974-cede.json) |
 | CEdges | 68678 | [68678-cedges.json](./68678-cedges.json) |
 | Cedric & Odious | 328270 | [328270-cedric-and-odious.json](./328270-cedric-and-odious.json) |
@@ -10185,6 +10186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Computer Gin Rummy | 59779 | [59779-computer-gin-rummy.json](./59779-computer-gin-rummy.json) |
 | Computer Man | 415496 | [415496-computer-man.json](./415496-computer-man.json) |
 | Computer Manufacturer | 348901 | [348901-computer-manufacturer.json](./348901-computer-manufacturer.json) |
+| Computer Mechanic Simulator 2019 | 114101 | [114101-computer-mechanic-simulator-2019.json](./114101-computer-mechanic-simulator-2019.json) |
 | Computer Nouryoku Kaiseki: Ultra Baken | 38148 | [38148-computer-nouryoku-kaiseki-ultra-baken.json](./38148-computer-nouryoku-kaiseki-ultra-baken.json) |
 | Computer Othello | 242573 | [242573-computer-othello.json](./242573-computer-othello.json) |
 | Computer Physics Simulator 2020 | 132008 | [132008-computer-physics-simulator-2020.json](./132008-computer-physics-simulator-2020.json) |
@@ -11963,6 +11965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Country Clubbing | 126968 | [126968-country-clubbing.json](./126968-country-clubbing.json) |
 | Country Dance All Stars | 20214 | [20214-country-dance-all-stars.json](./20214-country-dance-all-stars.json) |
 | Country Dance: 30 Chart-topping Hits!!! | 268115 | [268115-country-dance-30-chart-topping-hits.json](./268115-country-dance-30-chart-topping-hits.json) |
+| Country Desert Simulator | 114084 | [114084-country-desert-simulator.json](./114084-country-desert-simulator.json) |
 | Country Discoverer | 144842 | [144842-country-discoverer.json](./144842-country-discoverer.json) |
 | Country Girl Keiko | 117867 | [117867-country-girl-keiko.json](./117867-country-girl-keiko.json) |
 | Country Hero | 346561 | [346561-country-hero.json](./346561-country-hero.json) |
@@ -15752,6 +15755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Neon Bundle | 246880 | [246880-cyber-neon-bundle.json](./246880-cyber-neon-bundle.json) |
 | Cyber Noah | 156015 | [156015-cyber-noah.json](./156015-cyber-noah.json) |
 | Cyber Noir Stories: The Trunk | 217207 | [217207-cyber-noir-stories-the-trunk.json](./217207-cyber-noir-stories-the-trunk.json) |
+| Cyber Ops | 114068 | [114068-cyber-ops.json](./114068-cyber-ops.json) |
 | Cyber Org | 72900 | [72900-cyber-org.json](./72900-cyber-org.json) |
 | Cyber Paranoia | 408058 | [408058-cyber-paranoia.json](./408058-cyber-paranoia.json) |
 | Cyber Parkour | 317387 | [317387-cyber-parkour.json](./317387-cyber-parkour.json) |
