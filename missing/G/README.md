@@ -8601,6 +8601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gurk III: the 8-bit RPG | 200671 | [200671-gurk-iii-the-8-bit-rpg.json](./200671-gurk-iii-the-8-bit-rpg.json) |
 | Gurmple Champs | 395712 | [395712-gurmple-champs.json](./395712-gurmple-champs.json) |
 | Guro Dere | 108971 | [108971-guro-dere.json](./108971-guro-dere.json) |
+| Gurobu | 149914 | [149914-gurobu.json](./149914-gurobu.json) |
 | Guroku Rainbow | 237373 | [237373-guroku-rainbow.json](./237373-guroku-rainbow.json) |
 | Guroopia! | 121551 | [121551-guroopia.json](./121551-guroopia.json) |
 | Guru Guru | 309884 | [309884-guru-guru.json](./309884-guru-guru.json) |
