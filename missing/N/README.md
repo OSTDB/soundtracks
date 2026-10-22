@@ -3656,6 +3656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NightmareZ | 31849 | [31849-nightmarez.json](./31849-nightmarez.json) |
 | Nightmarise | 376859 | [376859-nightmarise.json](./376859-nightmarise.json) |
 | Nightmist | 406906 | [406906-nightmist.json](./406906-nightmist.json) |
+| Nightmist Online | 140434 | [140434-nightmist-online.json](./140434-nightmist-online.json) |
 | Nightomb | 260857 | [260857-nightomb.json](./260857-nightomb.json) |
 | Nightout | 172503 | [172503-nightout.json](./172503-nightout.json) |
 | Nightowl | 182138 | [182138-nightowl.json](./182138-nightowl.json) |
@@ -4412,6 +4413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Ducks Given | 317707 | [317707-no-ducks-given.json](./317707-no-ducks-given.json) |
 | No Emotions | 180569 | [180569-no-emotions.json](./180569-no-emotions.json) |
 | No End | 350397 | [350397-no-end.json](./350397-no-end.json) |
+| No End in Sight | 140223 | [140223-no-end-in-sight.json](./140223-no-end-in-sight.json) |
 | No Entry | 378605 | [378605-no-entry.json](./378605-no-entry.json) |
 | No Escape from Madness | 332456 | [332456-no-escape-from-madness.json](./332456-no-escape-from-madness.json) |
 | No Escape Saga | 146540 | [146540-no-escape-saga.json](./146540-no-escape-saga.json) |
