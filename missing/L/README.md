@@ -503,6 +503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lamina | 184259 | [184259-lamina.json](./184259-lamina.json) |
 | Lamina Island | 224537 | [224537-lamina-island.json](./224537-lamina-island.json) |
 | Lamm | 29600 | [29600-lamm.json](./29600-lamm.json) |
+| Lammana: The Looe Island Mystery | 132466 | [132466-lammana-the-looe-island-mystery.json](./132466-lammana-the-looe-island-mystery.json) |
 | Lamo | 121465 | [121465-lamo.json](./121465-lamo.json) |
 | Lamp and Vamp | 240111 | [240111-lamp-and-vamp.json](./240111-lamp-and-vamp.json) |
 | Lamp Head | 29284 | [29284-lamp-head.json](./29284-lamp-head.json) |
@@ -1879,6 +1880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lefty | 178636 | [178636-lefty.json](./178636-lefty.json) |
 | Lefty | 309955 | [309955-lefty.json](./309955-lefty.json) |
 | Leg Day: Four Steps Through Hell | 415992 | [415992-leg-day-four-steps-through-hell.json](./415992-leg-day-four-steps-through-hell.json) |
+| Legacies | 132469 | [132469-legacies.json](./132469-legacies.json) |
 | Legacies of Dondoran | 228999 | [228999-legacies-of-dondoran.json](./228999-legacies-of-dondoran.json) |
 | Legacy | 159240 | [159240-legacy.json](./159240-legacy.json) |
 | Legacy | 213049 | [213049-legacy.json](./213049-legacy.json) |
@@ -4111,6 +4113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LinCity-NG | 145269 | [145269-lincity-ng.json](./145269-lincity-ng.json) |
 | Lincoln Green | 231086 | [231086-lincoln-green.json](./231086-lincoln-green.json) |
 | Lincolnshire Roads | 213793 | [213793-lincolnshire-roads.json](./213793-lincolnshire-roads.json) |
+| Linda & Joan | 132480 | [132480-linda-and-joan.json](./132480-linda-and-joan.json) |
 | Linda Crenshaw: The Dream Apartment | 181687 | [181687-linda-crenshaw-the-dream-apartment.json](./181687-linda-crenshaw-the-dream-apartment.json) |
 | Linda Cube | 94898 | [94898-linda-cube.json](./94898-linda-cube.json) |
 | Linda Cube Again | 65761 | [65761-linda-cube-again.json](./65761-linda-cube-again.json) |
@@ -5560,6 +5563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lone Wolf: Horizon | 33857 | [33857-lone-wolf-horizon.json](./33857-lone-wolf-horizon.json) |
 | Lone Wolf: World War 2 | 142264 | [142264-lone-wolf-world-war-2.json](./142264-lone-wolf-world-war-2.json) |
 | lone.AI | 295404 | [295404-lone-ai.json](./295404-lone-ai.json) |
+| Lonecastle | 132493 | [132493-lonecastle.json](./132493-lonecastle.json) |
 | Lonefarm | 145916 | [145916-lonefarm.json](./145916-lonefarm.json) |
 | Loneliest Depths | 300391 | [300391-loneliest-depths.json](./300391-loneliest-depths.json) |
 | Loneliness | 139344 | [139344-loneliness.json](./139344-loneliness.json) |
@@ -7752,6 +7756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lush Forest | 329428 | [329428-lush-forest.json](./329428-lush-forest.json) |
 | Lushfoil Photography Sim | 189934 | [189934-lushfoil-photography-sim.json](./189934-lushfoil-photography-sim.json) |
 | Lushfoil Photography Sim VR | 360776 | [360776-lushfoil-photography-sim-vr.json](./360776-lushfoil-photography-sim-vr.json) |
+| Lusitania | 132484 | [132484-lusitania.json](./132484-lusitania.json) |
 | Lusófona Games Collection 2023 | 260335 | [260335-lusofona-games-collection-2023.json](./260335-lusofona-games-collection-2023.json) |
 | Lusófona Games Collection 2024 | 309888 | [309888-lusofona-games-collection-2024.json](./309888-lusofona-games-collection-2024.json) |
 | Lusófona Games Collection 2025 | 406292 | [406292-lusofona-games-collection-2025.json](./406292-lusofona-games-collection-2025.json) |
