@@ -4413,6 +4413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goblet of Mercy | 271628 | [271628-goblet-of-mercy.json](./271628-goblet-of-mercy.json) |
 | Goblet Tower | 287654 | [287654-goblet-tower.json](./287654-goblet-tower.json) |
 | Gobli's Adventure | 274413 | [274413-goblis-adventure.json](./274413-goblis-adventure.json) |
+| Gobligeddon | 121304 | [121304-gobligeddon.json](./121304-gobligeddon.json) |
 | Gobliiins Collection | 403213 | [403213-gobliiins-collection.json](./403213-gobliiins-collection.json) |
 | Gobliiins Pack | 154937 | [154937-gobliiins-pack.json](./154937-gobliiins-pack.json) |
 | Gobliiins5 | 249288 | [249288-gobliiins5.json](./249288-gobliiins5.json) |
@@ -5585,6 +5586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gordon Freakman | 322671 | [322671-gordon-freakman.json](./322671-gordon-freakman.json) |
 | Gordon Freakman 2: Kleiner-Life | 322672 | [322672-gordon-freakman-2-kleiner-life.json](./322672-gordon-freakman-2-kleiner-life.json) |
 | Gordon Ramsay Dash | 58306 | [58306-gordon-ramsay-dash.json](./58306-gordon-ramsay-dash.json) |
+| Gordon Streaman | 121268 | [121268-gordon-streaman.json](./121268-gordon-streaman.json) |
 | Gordon Streaman 2 | 185963 | [185963-gordon-streaman-2.json](./185963-gordon-streaman-2.json) |
 | Gordost' Ulypa: VR-legendy Chuvashii | 368897 | [368897-gordost-ulypa-vr-legendy-chuvashii.json](./368897-gordost-ulypa-vr-legendy-chuvashii.json) |
 | Gordy | 356584 | [356584-gordy.json](./356584-gordy.json) |
@@ -5874,6 +5876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Graffiti Smash | 98559 | [98559-graffiti-smash.json](./98559-graffiti-smash.json) |
 | GraFi | 117476 | [117476-grafi.json](./117476-grafi.json) |
 | GraFi 2 | 119013 | [119013-grafi-2.json](./119013-grafi-2.json) |
+| GraFi 3 | 121298 | [121298-grafi-3.json](./121298-grafi-3.json) |
 | GraFi Christmas | 126556 | [126556-grafi-christmas.json](./126556-grafi-christmas.json) |
 | GraFi Easter | 155407 | [155407-grafi-easter.json](./155407-grafi-easter.json) |
 | GraFi Halloween | 127309 | [127309-grafi-halloween.json](./127309-grafi-halloween.json) |
