@@ -4235,6 +4235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The 95% Threshold | 131884 | [131884-the-95-threshold.json](./131884-the-95-threshold.json) |
 | The 9th Annual Vanilla Level Design Contest: Collaboration Hack | 187275 | [187275-the-9th-annual-vanilla-level-design-contest-collaboration-hack.json](./187275-the-9th-annual-vanilla-level-design-contest-collaboration-hack.json) |
 | The 9th Day | 32824 | [32824-the-9th-day.json](./32824-the-9th-day.json) |
+| The 9th Gate | 110712 | [110712-the-9th-gate.json](./110712-the-9th-gate.json) |
 | The A-Team | 198699 | [198699-the-a-team.json](./198699-the-a-team.json) |
 | The A-Team | 200146 | [200146-the-a-team.json](./200146-the-a-team.json) |
 | The A-Team | 200147 | [200147-the-a-team.json](./200147-the-a-team.json) |
@@ -11552,6 +11553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Paranoia Complex | 69494 | [69494-the-paranoia-complex.json](./69494-the-paranoia-complex.json) |
 | The Parasites | 211638 | [211638-the-parasites.json](./211638-the-parasites.json) |
 | The Parcel | 236257 | [236257-the-parcel.json](./236257-the-parcel.json) |
+| The Parchment: For the Realm | 110691 | [110691-the-parchment-for-the-realm.json](./110691-the-parchment-for-the-realm.json) |
 | The Parenting Simulator | 129684 | [129684-the-parenting-simulator.json](./129684-the-parenting-simulator.json) |
 | The Paribneur Combination | 189138 | [189138-the-paribneur-combination.json](./189138-the-paribneur-combination.json) |
 | The Parish | 320549 | [320549-the-parish.json](./320549-the-parish.json) |
@@ -11560,6 +11562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Particle of Infinite Free Will | 402531 | [402531-the-particle-of-infinite-free-will.json](./402531-the-particle-of-infinite-free-will.json) |
 | The Partners | 27621 | [27621-the-partners.json](./27621-the-partners.json) |
 | The Party | 135782 | [135782-the-party.json](./135782-the-party.json) |
+| The Party of Demons | 110727 | [110727-the-party-of-demons.json](./110727-the-party-of-demons.json) |
 | The Parvificent Seven | 223305 | [223305-the-parvificent-seven.json](./223305-the-parvificent-seven.json) |
 | The Passage of Time | 155869 | [155869-the-passage-of-time.json](./155869-the-passage-of-time.json) |
 | The Passenger | 266393 | [266393-the-passenger.json](./266393-the-passenger.json) |
@@ -11874,6 +11877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Project Mars 2+3 | 125927 | [125927-the-project-mars-2-3.json](./125927-the-project-mars-2-3.json) |
 | The Projection Room of Malka Spitzer | 262953 | [262953-the-projection-room-of-malka-spitzer.json](./262953-the-projection-room-of-malka-spitzer.json) |
 | The Projet Poulet | 287906 | [287906-the-projet-poulet.json](./287906-the-projet-poulet.json) |
+| The Prometheus Secret Noohra | 110696 | [110696-the-prometheus-secret-noohra.json](./110696-the-prometheus-secret-noohra.json) |
 | The Promise of Forever | 323991 | [323991-the-promise-of-forever.json](./323991-the-promise-of-forever.json) |
 | The Promise of Forever 2 | 323992 | [323992-the-promise-of-forever-2.json](./323992-the-promise-of-forever-2.json) |
 | The Promised Land | 17318 | [17318-the-promised-land.json](./17318-the-promised-land.json) |
@@ -24517,6 +24521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trivia Beta64 Party | 288704 | [288704-trivia-beta64-party.json](./288704-trivia-beta64-party.json) |
 | Trivia Clash: Adult Film Star Edition | 111410 | [111410-trivia-clash-adult-film-star-edition.json](./111410-trivia-clash-adult-film-star-edition.json) |
 | Trivia Crack | 39204 | [39204-trivia-crack.json](./39204-trivia-crack.json) |
+| Trivia Crack 2 | 110707 | [110707-trivia-crack-2.json](./110707-trivia-crack-2.json) |
 | Trivia Crack Adventure | 208370 | [208370-trivia-crack-adventure.json](./208370-trivia-crack-adventure.json) |
 | Trivia Crack Explorer | 208369 | [208369-trivia-crack-explorer.json](./208369-trivia-crack-explorer.json) |
 | Trivia Crack World | 278352 | [278352-trivia-crack-world.json](./278352-trivia-crack-world.json) |
