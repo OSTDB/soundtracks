@@ -2638,6 +2638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom of Heroes: Tactics War | 138552 | [138552-kingdom-of-heroes-tactics-war.json](./138552-kingdom-of-heroes-tactics-war.json) |
 | Kingdom of Hope | 373813 | [373813-kingdom-of-hope.json](./373813-kingdom-of-hope.json) |
 | Kingdom of Kroz | 73796 | [73796-kingdom-of-kroz.json](./73796-kingdom-of-kroz.json) |
+| Kingdom of Kuru: The Great Race | 149277 | [149277-kingdom-of-kuru-the-great-race.json](./149277-kingdom-of-kuru-the-great-race.json) |
 | Kingdom of Lies | 120102 | [120102-kingdom-of-lies.json](./120102-kingdom-of-lies.json) |
 | Kingdom of Lies | 183804 | [183804-kingdom-of-lies.json](./183804-kingdom-of-lies.json) |
 | Kingdom of Loathing: The Home Game | 163162 | [163162-kingdom-of-loathing-the-home-game.json](./163162-kingdom-of-loathing-the-home-game.json) |
@@ -2878,6 +2879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kira-kira Star Night exa | 206344 | [206344-kira-kira-star-night-exa.json](./206344-kira-kira-star-night-exa.json) |
 | Kira-kira Star Night Gold | 206342 | [206342-kira-kira-star-night-gold.json](./206342-kira-kira-star-night-gold.json) |
 | Kira-kira Star Night: Furusato Nouzei Fujimino-ban | 206343 | [206343-kira-kira-star-night-furusato-nouzei-fujimino-ban.json](./206343-kira-kira-star-night-furusato-nouzei-fujimino-ban.json) |
+| Kira-meki Oshare Salon!: Watashi no Shigoto wa Biyoushi-san | 149284 | [149284-kira-meki-oshare-salon-watashi-no-shigoto-wa-biyoushi-san.json](./149284-kira-meki-oshare-salon-watashi-no-shigoto-wa-biyoushi-san.json) |
 | Kirakira | 67630 | [67630-kirakira.json](./67630-kirakira.json) |
 | Kirakira Monstars | 182464 | [182464-kirakira-monstars.json](./182464-kirakira-monstars.json) |
 | Kirakira Slimes | 300408 | [300408-kirakira-slimes.json](./300408-kirakira-slimes.json) |
