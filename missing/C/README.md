@@ -4850,6 +4850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Check In, Knock Out | 59936 | [59936-check-in-knock-out.json](./59936-check-in-knock-out.json) |
 | Check it Out! | 196918 | [196918-check-it-out.json](./196918-check-it-out.json) |
 | Check Man | 39609 | [39609-check-man.json](./39609-check-man.json) |
+| Check Mii Out Channel | 139041 | [139041-check-mii-out-channel.json](./139041-check-mii-out-channel.json) |
 | Check the Room 13 | 252025 | [252025-check-the-room-13.json](./252025-check-the-room-13.json) |
 | Check vs. Mate: Dark Desert DLC | 142983 | [142983-check-vs-mate-dark-desert-dlc.json](./142983-check-vs-mate-dark-desert-dlc.json) |
 | Check vs. Mate: Floating Island DLC | 142984 | [142984-check-vs-mate-floating-island-dlc.json](./142984-check-vs-mate-floating-island-dlc.json) |
@@ -5096,6 +5097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess & Backgammon Classics | 79907 | [79907-chess-and-backgammon-classics.json](./79907-chess-and-backgammon-classics.json) |
 | Chess & Chapter | 378398 | [378398-chess-and-chapter.json](./378398-chess-and-chapter.json) |
 | Chess & Guns | 235700 | [235700-chess-and-guns.json](./235700-chess-and-guns.json) |
+| Chess 2 | 139060 | [139060-chess-2.json](./139060-chess-2.json) |
 | Chess 2 | 296807 | [296807-chess-2.json](./296807-chess-2.json) |
 | Chess 2 | 399406 | [399406-chess-2.json](./399406-chess-2.json) |
 | Chess 2048 | 373335 | [373335-chess-2048.json](./373335-chess-2048.json) |
@@ -10315,6 +10317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Confuzion | 13511 | [13511-confuzion.json](./13511-confuzion.json) |
 | Conga Master | 24445 | [24445-conga-master.json](./24445-conga-master.json) |
 | Conga Master Go! | 148265 | [148265-conga-master-go.json](./148265-conga-master-go.json) |
+| Congee | 139276 | [139276-congee.json](./139276-congee.json) |
 | Congestion 1024 | 196247 | [196247-congestion-1024.json](./196247-congestion-1024.json) |
 | Congestion Control | 274152 | [274152-congestion-control.json](./274152-congestion-control.json) |
 | Conglomerate 451 | 116593 | [116593-conglomerate-451.json](./116593-conglomerate-451.json) |
@@ -14737,6 +14740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cuber 3: Schmidt | 284357 | [284357-cuber-3-schmidt.json](./284357-cuber-3-schmidt.json) |
 | CubeRace | 114953 | [114953-cuberace.json](./114953-cuberace.json) |
 | Cuberio | 390081 | [390081-cuberio.json](./390081-cuberio.json) |
+| CuberPunk 2089 | 139031 | [139031-cuberpunk-2089.json](./139031-cuberpunk-2089.json) |
 | Cuberun | 336954 | [336954-cuberun.json](./336954-cuberun.json) |
 | CubeRun | 89268 | [89268-cuberun.json](./89268-cuberun.json) |
 | CubeRun 2 | 242444 | [242444-cuberun-2.json](./242444-cuberun-2.json) |
