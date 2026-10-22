@@ -14509,6 +14509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dusk Pub | 224771 | [224771-dusk-pub.json](./224771-dusk-pub.json) |
 | Dusk Shrouded | 295491 | [295491-dusk-shrouded.json](./295491-dusk-shrouded.json) |
 | Dusk Tactics | 130638 | [130638-dusk-tactics.json](./130638-dusk-tactics.json) |
+| Dusk Warlocks | 128200 | [128200-dusk-warlocks.json](./128200-dusk-warlocks.json) |
 | Duskborn | 265095 | [265095-duskborn.json](./265095-duskborn.json) |
 | Duskbound | 258197 | [258197-duskbound.json](./258197-duskbound.json) |
 | DuskBreakers | 194239 | [194239-duskbreakers.json](./194239-duskbreakers.json) |
