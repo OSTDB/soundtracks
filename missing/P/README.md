@@ -362,6 +362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pack and Ship: Warehouse Simulator | 389963 | [389963-pack-and-ship-warehouse-simulator.json](./389963-pack-and-ship-warehouse-simulator.json) |
 | Pack BD Heroes vol.1 | 293934 | [293934-pack-bd-heroes-vol-1.json](./293934-pack-bd-heroes-vol-1.json) |
 | Pack Everything You Can | 296245 | [296245-pack-everything-you-can.json](./296245-pack-everything-you-can.json) |
+| Pack Horreur I Resident Evil 7 + Resident Evil 4 + The Evil Within 2 | 145339 | [145339-pack-horreur-i-resident-evil-7-resident-evil-4-the-evil-within-2.json](./145339-pack-horreur-i-resident-evil-7-resident-evil-4-the-evil-within-2.json) |
 | Pack Lunch | 371273 | [371273-pack-lunch.json](./371273-pack-lunch.json) |
 | Pack Man in Rio | 241281 | [241281-pack-man-in-rio.json](./241281-pack-man-in-rio.json) |
 | Pack Master | 135651 | [135651-pack-master.json](./135651-pack-master.json) |
@@ -371,6 +372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pack not Found 404 | 313477 | [313477-pack-not-found-404.json](./313477-pack-not-found-404.json) |
 | Pack of Demons | 168588 | [168588-pack-of-demons.json](./168588-pack-of-demons.json) |
 | Pack Per Duck | 157092 | [157092-pack-per-duck.json](./157092-pack-per-duck.json) |
+| Pack Playlink That's You! + Knowledge is Power + Singstar Celebration + Hidden Agenda | 145334 | [145334-pack-playlink-thats-you-knowledge-is-power-singstar-celebration-hidden-agenda.json](./145334-pack-playlink-thats-you-knowledge-is-power-singstar-celebration-hidden-agenda.json) |
 | Pack Powersports | 112892 | [112892-pack-powersports.json](./112892-pack-powersports.json) |
 | Package chaos | 411698 | [411698-package-chaos.json](./411698-package-chaos.json) |
 | Package Handler VR | 112173 | [112173-package-handler-vr.json](./112173-package-handler-vr.json) |
@@ -1538,6 +1540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paradise Up Above: Gold Label Edition | 311462 | [311462-paradise-up-above-gold-label-edition.json](./311462-paradise-up-above-gold-label-edition.json) |
 | Paradise XRPL | 321549 | [321549-paradise-xrpl.json](./321549-paradise-xrpl.json) |
 | Paradise: Musubi | 384712 | [384712-paradise-musubi.json](./384712-paradise-musubi.json) |
+| Paradiso Guardian | 145500 | [145500-paradiso-guardian.json](./145500-paradiso-guardian.json) |
 | Paradiso Series Bundle | 289204 | [289204-paradiso-series-bundle.json](./289204-paradiso-series-bundle.json) |
 | ParaDive++ | 401812 | [401812-paradive.json](./401812-paradive.json) |
 | Paradize Project | 208418 | [208418-paradize-project.json](./208418-paradize-project.json) |
@@ -7528,6 +7531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Play to Befriend a Pokémon! | 234098 | [234098-play-to-befriend-a-pokemon.json](./234098-play-to-befriend-a-pokemon.json) |
 | Play to Cure: Genes in Space | 133711 | [133711-play-to-cure-genes-in-space.json](./133711-play-to-cure-genes-in-space.json) |
 | Play To Win | 276788 | [276788-play-to-win.json](./276788-play-to-win.json) |
+| Play Together | 145357 | [145357-play-together.json](./145357-play-together.json) |
 | Play with Balloon | 29624 | [29624-play-with-balloon.json](./29624-play-with-balloon.json) |
 | Play with Birds | 84721 | [84721-play-with-birds.json](./84721-play-with-birds.json) |
 | Play With Gilbert: A Small Tail | 157722 | [157722-play-with-gilbert-a-small-tail.json](./157722-play-with-gilbert-a-small-tail.json) |
@@ -7922,6 +7926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Bomberman | 2980 | [2980-pocket-bomberman.json](./2980-pocket-bomberman.json) |
 | Pocket Bomberman Blast Heroes | 232511 | [232511-pocket-bomberman-blast-heroes.json](./232511-pocket-bomberman-blast-heroes.json) |
 | Pocket Boss | 347684 | [347684-pocket-boss.json](./347684-pocket-boss.json) |
+| Pocket Bravery | 145354 | [145354-pocket-bravery.json](./145354-pocket-bravery.json) |
 | Pocket Bravery MD | 414847 | [414847-pocket-bravery-md.json](./414847-pocket-bravery-md.json) |
 | Pocket Bravery: Rick | 389552 | [389552-pocket-bravery-rick.json](./389552-pocket-bravery-rick.json) |
 | Pocket Breeder: Oguri Cap II-sei | 284458 | [284458-pocket-breeder-oguri-cap-ii-sei.json](./284458-pocket-breeder-oguri-cap-ii-sei.json) |
@@ -11615,6 +11620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Cycling Manager 2013 | 10722 | [10722-pro-cycling-manager-2013.json](./10722-pro-cycling-manager-2013.json) |
 | Pro Cycling Manager 2014 | 8251 | [8251-pro-cycling-manager-2014.json](./8251-pro-cycling-manager-2014.json) |
 | Pro Cycling Manager 2019 | 119029 | [119029-pro-cycling-manager-2019.json](./119029-pro-cycling-manager-2019.json) |
+| Pro Cycling Manager 2021 | 145325 | [145325-pro-cycling-manager-2021.json](./145325-pro-cycling-manager-2021.json) |
 | Pro Cycling Manager 2023 | 241245 | [241245-pro-cycling-manager-2023.json](./241245-pro-cycling-manager-2023.json) |
 | Pro Cycling Manager 2024 | 288856 | [288856-pro-cycling-manager-2024.json](./288856-pro-cycling-manager-2024.json) |
 | Pro Cycling Manager 25 | 347190 | [347190-pro-cycling-manager-25.json](./347190-pro-cycling-manager-25.json) |
@@ -13609,6 +13615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puppy Truck | 411658 | [411658-puppy-truck.json](./411658-puppy-truck.json) |
 | Pups & Purrs Animal Hospital | 165427 | [165427-pups-and-purrs-animal-hospital.json](./165427-pups-and-purrs-animal-hospital.json) |
 | Pups & Purrs Animal Hospital and Pups & Purrs Pet Shop Bundle | 308629 | [308629-pups-and-purrs-animal-hospital-and-pups-and-purrs-pet-shop-bundle.json](./308629-pups-and-purrs-animal-hospital-and-pups-and-purrs-pet-shop-bundle.json) |
+| Pups & Purrs Pet Shop | 145491 | [145491-pups-and-purrs-pet-shop.json](./145491-pups-and-purrs-pet-shop.json) |
 | Pups Treats | 359412 | [359412-pups-treats.json](./359412-pups-treats.json) |
 | Puputan Legend VR | 192633 | [192633-puputan-legend-vr.json](./192633-puputan-legend-vr.json) |
 | Purah's Lab | 279688 | [279688-purahs-lab.json](./279688-purahs-lab.json) |
