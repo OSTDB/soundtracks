@@ -1851,6 +1851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leena | 333972 | [333972-leena.json](./333972-leena.json) |
 | Leenie Boog | 157025 | [157025-leenie-boog.json](./157025-leenie-boog.json) |
 | Leenie's Tale | 319720 | [319720-leenies-tale.json](./319720-leenies-tale.json) |
+| Leet Hacker Simulator 2018 | 108791 | [108791-leet-hacker-simulator-2018.json](./108791-leet-hacker-simulator-2018.json) |
 | Left = Lose | 178622 | [178622-left-lose.json](./178622-left-lose.json) |
 | Left 2 Dating | 207809 | [207809-left-2-dating.json](./207809-left-2-dating.json) |
 | Left 4 Dead 2 Beta Pack | 358317 | [358317-left-4-dead-2-beta-pack.json](./358317-left-4-dead-2-beta-pack.json) |
