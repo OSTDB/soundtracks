@@ -1520,6 +1520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abrix the robot | 33018 | [33018-abrix-the-robot.json](./33018-abrix-the-robot.json) |
 | Abronium Party | 79570 | [79570-abronium-party.json](./79570-abronium-party.json) |
 | Abrupt Valley | 261745 | [261745-abrupt-valley.json](./261745-abrupt-valley.json) |
+| Abs vs. The Blood Queen | 138636 | [138636-abs-vs-the-blood-queen.json](./138636-abs-vs-the-blood-queen.json) |
 | Abscam | 247331 | [247331-abscam.json](./247331-abscam.json) |
 | Absconding Zatwor | 26838 | [26838-absconding-zatwor.json](./26838-absconding-zatwor.json) |
 | Absence Makes... | 242500 | [242500-absence-makes.json](./242500-absence-makes.json) |
@@ -4721,6 +4722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aldian of Ancients | 317384 | [317384-aldian-of-ancients.json](./317384-aldian-of-ancients.json) |
 | Aldo: Memory of the Kingdom | 318114 | [318114-aldo-memory-of-the-kingdom.json](./318114-aldo-memory-of-the-kingdom.json) |
 | Aldo's Adventure | 14475 | [14475-aldos-adventure.json](./14475-aldos-adventure.json) |
+| Aldo's Assault | 138627 | [138627-aldos-assault.json](./138627-aldos-assault.json) |
 | Aldora | 304614 | [304614-aldora.json](./304614-aldora.json) |
 | Aldoria | 322382 | [322382-aldoria.json](./322382-aldoria.json) |
 | Aldradah: Tome of Mist Realm | 381101 | [381101-aldradah-tome-of-mist-realm.json](./381101-aldradah-tome-of-mist-realm.json) |
@@ -8637,6 +8639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apartment Story: A Moving Simulator | 205792 | [205792-apartment-story-a-moving-simulator.json](./205792-apartment-story-a-moving-simulator.json) |
 | Apartus | 276710 | [276710-apartus.json](./276710-apartus.json) |
 | Apassionata: A Passionate Horse-Show - My Show | 269644 | [269644-apassionata-a-passionate-horse-show-my-show.json](./269644-apassionata-a-passionate-horse-show-my-show.json) |
+| Apastron | 138455 | [138455-apastron.json](./138455-apastron.json) |
 | Apathy Hayarigami | 212255 | [212255-apathy-hayarigami.json](./212255-apathy-hayarigami.json) |
 | Apathy in Our Stars | 280656 | [280656-apathy-in-our-stars.json](./280656-apathy-in-our-stars.json) |
 | Apathy Satsujin Club | 308888 | [308888-apathy-satsujin-club.json](./308888-apathy-satsujin-club.json) |
@@ -9235,6 +9238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arboretum | 122919 | [122919-arboretum.json](./122919-arboretum.json) |
 | Arboria | 126432 | [126432-arboria.json](./126432-arboria.json) |
 | Arby | 377051 | [377051-arby.json](./377051-arby.json) |
+| Arby's Greek Gyro Games | 138633 | [138633-arbys-greek-gyro-games.json](./138633-arbys-greek-gyro-games.json) |
 | Arc | 182772 | [182772-arc.json](./182772-arc.json) |
 | Arc Apellago | 158411 | [158411-arc-apellago.json](./158411-arc-apellago.json) |
 | Arc Aquarium | 387076 | [387076-arc-aquarium.json](./387076-arc-aquarium.json) |
@@ -10199,6 +10203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Areena 4 | 317423 | [317423-areena-4.json](./317423-areena-4.json) |
 | Areena 5 | 134570 | [134570-areena-5.json](./134570-areena-5.json) |
 | Arelite Core: Horse Armor | 156140 | [156140-arelite-core-horse-armor.json](./156140-arelite-core-horse-armor.json) |
+| Arelt City | 138456 | [138456-arelt-city.json](./138456-arelt-city.json) |
 | Aren't You Overcompensating for Something? | 225804 | [225804-arent-you-overcompensating-for-something.json](./225804-arent-you-overcompensating-for-something.json) |
 | Arena | 14169 | [14169-arena.json](./14169-arena.json) |
 | Arena | 14599 | [14599-arena.json](./14599-arena.json) |
@@ -13758,6 +13763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Awesome Metal Detecting | 77371 | [77371-awesome-metal-detecting.json](./77371-awesome-metal-detecting.json) |
 | Awesome Pea 2 | 126998 | [126998-awesome-pea-2.json](./126998-awesome-pea-2.json) |
 | Awesome Pea 3 | 265551 | [265551-awesome-pea-3.json](./265551-awesome-pea-3.json) |
+| Awesome Pea Collection | 138459 | [138459-awesome-pea-collection.json](./138459-awesome-pea-collection.json) |
 | Awesome Possum Kicks Dr. Machino's Butt | 46240 | [46240-awesome-possum-kicks-dr-machinos-butt.json](./46240-awesome-possum-kicks-dr-machinos-butt.json) |
 | Awesome Shapes | 62411 | [62411-awesome-shapes.json](./62411-awesome-shapes.json) |
 | Awesome Space Delivery Company | 101687 | [101687-awesome-space-delivery-company.json](./101687-awesome-space-delivery-company.json) |
