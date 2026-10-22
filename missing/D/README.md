@@ -2887,6 +2887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead or Alive 6: Tamaki & Debut Costume Set | 155423 | [155423-dead-or-alive-6-tamaki-and-debut-costume-set.json](./155423-dead-or-alive-6-tamaki-and-debut-costume-set.json) |
 | Dead or Alive 6: Tina | 155425 | [155425-dead-or-alive-6-tina.json](./155425-dead-or-alive-6-tina.json) |
 | Dead or Alive 6: Zack | 155433 | [155433-dead-or-alive-6-zack.json](./155433-dead-or-alive-6-zack.json) |
+| Dead or Alive M | 123262 | [123262-dead-or-alive-m.json](./123262-dead-or-alive-m.json) |
 | Dead or Alive New Project | 389426 | [389426-dead-or-alive-new-project.json](./389426-dead-or-alive-new-project.json) |
 | Dead or Alive Online | 66770 | [66770-dead-or-alive-online.json](./66770-dead-or-alive-online.json) |
 | Dead or Alive Ultimate | 318500 | [318500-dead-or-alive-ultimate.json](./318500-dead-or-alive-ultimate.json) |
@@ -6731,6 +6732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Didj Racing: Tiki Tropics | 94158 | [94158-didj-racing-tiki-tropics.json](./94158-didj-racing-tiki-tropics.json) |
 | Didnapper | 295249 | [295249-didnapper.json](./295249-didnapper.json) |
 | Didnapper 2 | 192733 | [192733-didnapper-2.json](./192733-didnapper-2.json) |
+| Didstress | 123273 | [123273-didstress.json](./123273-didstress.json) |
 | Die 3 | 269641 | [269641-die-3.json](./269641-die-3.json) |
 | Die After Sunset | 158966 | [158966-die-after-sunset.json](./158966-die-after-sunset.json) |
 | Die Again | 133340 | [133340-die-again.json](./133340-die-again.json) |
@@ -8970,6 +8972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dog Life Simulator | 214166 | [214166-dog-life-simulator.json](./214166-dog-life-simulator.json) |
 | Dog Man: Mission Impawsible | 316875 | [316875-dog-man-mission-impawsible.json](./316875-dog-man-mission-impawsible.json) |
 | Dog Mendonca | 175274 | [175274-dog-mendonca.json](./175274-dog-mendonca.json) |
+| Dog of Bay | 123265 | [123265-dog-of-bay.json](./123265-dog-of-bay.json) |
 | Dog of Dracula 2: Cyber Monogatari | 228436 | [228436-dog-of-dracula-2-cyber-monogatari.json](./228436-dog-of-dracula-2-cyber-monogatari.json) |
 | Dog Pairs | 98906 | [98906-dog-pairs.json](./98906-dog-pairs.json) |
 | Dog Petting Simulator | 182237 | [182237-dog-petting-simulator.json](./182237-dog-petting-simulator.json) |
@@ -9195,6 +9198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doki Doki! Pretty Cure Narikiri Life! | 216180 | [216180-doki-doki-pretty-cure-narikiri-life.json](./216180-doki-doki-pretty-cure-narikiri-life.json) |
 | Doki Doki! RainClouds | 242083 | [242083-doki-doki-rainclouds.json](./242083-doki-doki-rainclouds.json) |
 | Doki Monsters: Quest | 378792 | [378792-doki-monsters-quest.json](./378792-doki-monsters-quest.json) |
+| Doki Oki | 123274 | [123274-doki-oki.json](./123274-doki-oki.json) |
 | Doki Simp Club | 245885 | [245885-doki-simp-club.json](./245885-doki-simp-club.json) |
 | Doki x Doki Sasete!! | 202815 | [202815-doki-x-doki-sasete.json](./202815-doki-x-doki-sasete.json) |
 | Doki-doki Cooking Series 2: Gourmet Kitchen - Suteki na Obentou | 138030 | [138030-doki-doki-cooking-series-2-gourmet-kitchen-suteki-na-obentou.json](./138030-doki-doki-cooking-series-2-gourmet-kitchen-suteki-na-obentou.json) |
