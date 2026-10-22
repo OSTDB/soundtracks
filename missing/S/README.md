@@ -234,6 +234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sacrament of the Zodiac: The Confused Sheep and The Tamed Wolf | 141832 | [141832-sacrament-of-the-zodiac-the-confused-sheep-and-the-tamed-wolf.json](./141832-sacrament-of-the-zodiac-the-confused-sheep-and-the-tamed-wolf.json) |
 | Sacramento | 126448 | [126448-sacramento.json](./126448-sacramento.json) |
 | Sacrata | 339600 | [339600-sacrata.json](./339600-sacrata.json) |
+| Sacre Bleu | 120613 | [120613-sacre-bleu.json](./120613-sacre-bleu.json) |
 | Sacred | 328 | [328-sacred.json](./328-sacred.json) |
 | Sacred | 330355 | [330355-sacred.json](./330355-sacred.json) |
 | Sacred 2 Gold | 28234 | [28234-sacred-2-gold.json](./28234-sacred-2-gold.json) |
@@ -3757,6 +3758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | See You on the Other Side | 180188 | [180188-see-you-on-the-other-side.json](./180188-see-you-on-the-other-side.json) |
 | See you: A brief exile | 159745 | [159745-see-you-a-brief-exile.json](./159745-see-you-a-brief-exile.json) |
 | See-Through Jewels | 182220 | [182220-see-through-jewels.json](./182220-see-through-jewels.json) |
+| See/Saw | 120630 | [120630-see-saw.json](./120630-see-saw.json) |
 | Seeb Defender | 244777 | [244777-seeb-defender.json](./244777-seeb-defender.json) |
 | Seed | 36953 | [36953-seed.json](./36953-seed.json) |
 | Seed | 383792 | [383792-seed.json](./383792-seed.json) |
@@ -25928,6 +25930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Ubie Island Remix | 20359 | [20359-super-ubie-island-remix.json](./20359-super-ubie-island-remix.json) |
 | Super Ubie Land | 85530 | [85530-super-ubie-land.json](./85530-super-ubie-land.json) |
 | Super UDK & RU Country | 322792 | [322792-super-udk-and-ru-country.json](./322792-super-udk-and-ru-country.json) |
+| Super UFO Fighter | 120629 | [120629-super-ufo-fighter.json](./120629-super-ufo-fighter.json) |
 | Super Ultimate Fighters X | 381710 | [381710-super-ultimate-fighters-x.json](./381710-super-ultimate-fighters-x.json) |
 | Super Ultimate Party Game | 339080 | [339080-super-ultimate-party-game.json](./339080-super-ultimate-party-game.json) |
 | Super Ultra Baseball 2 | 38242 | [38242-super-ultra-baseball-2.json](./38242-super-ultra-baseball-2.json) |
@@ -26604,6 +26607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survival on a Deserted Island | 265134 | [265134-survival-on-a-deserted-island.json](./265134-survival-on-a-deserted-island.json) |
 | Survival on Amazonia | 167931 | [167931-survival-on-amazonia.json](./167931-survival-on-amazonia.json) |
 | Survival on Raft in the Ocean | 106126 | [106126-survival-on-raft-in-the-ocean.json](./106126-survival-on-raft-in-the-ocean.json) |
+| Survival or die | 120585 | [120585-survival-or-die.json](./120585-survival-or-die.json) |
 | Survival Overgrowth | 106729 | [106729-survival-overgrowth.json](./106729-survival-overgrowth.json) |
 | Survival Project | 65002 | [65002-survival-project.json](./65002-survival-project.json) |
 | Survival Prototype X | 302354 | [302354-survival-prototype-x.json](./302354-survival-prototype-x.json) |
