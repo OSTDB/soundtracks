@@ -2673,6 +2673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reborn: Examine Again | 357812 | [357812-reborn-examine-again.json](./357812-reborn-examine-again.json) |
 | Reborn: Fate of Gods | 216953 | [216953-reborn-fate-of-gods.json](./216953-reborn-fate-of-gods.json) |
 | Reborn: New Life | 396590 | [396590-reborn-new-life.json](./396590-reborn-new-life.json) |
+| Reborn: Survival | 131222 | [131222-reborn-survival.json](./131222-reborn-survival.json) |
 | Reborn: The Evil Being | 373168 | [373168-reborn-the-evil-being.json](./373168-reborn-the-evil-being.json) |
 | Reborn: The Mark Of The Blood | 143465 | [143465-reborn-the-mark-of-the-blood.json](./143465-reborn-the-mark-of-the-blood.json) |
 | Rebornia | 297842 | [297842-rebornia.json](./297842-rebornia.json) |
@@ -5725,6 +5726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rifle MarksMan | 119787 | [119787-rifle-marksman.json](./119787-rifle-marksman.json) |
 | Rifle Range | 413014 | [413014-rifle-range.json](./413014-rifle-range.json) |
 | Rifle Strike | 149539 | [149539-rifle-strike.json](./149539-rifle-strike.json) |
+| Rift | 131194 | [131194-rift.json](./131194-rift.json) |
 | Rift | 368036 | [368036-rift.json](./368036-rift.json) |
 | Rift | 489 | [489-rift.json](./489-rift.json) |
 | Rift Adventure | 153958 | [153958-rift-adventure.json](./153958-rift-adventure.json) |
@@ -6893,6 +6895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RoboCop 3 | 380168 | [380168-robocop-3.json](./380168-robocop-3.json) |
 | Robocop 3D | 98878 | [98878-robocop-3d.json](./98878-robocop-3d.json) |
 | RoboCop Doom | 196020 | [196020-robocop-doom.json](./196020-robocop-doom.json) |
+| Robocop Pinball | 131178 | [131178-robocop-pinball.json](./131178-robocop-pinball.json) |
 | RoboCop Versus the Terminator | 288341 | [288341-robocop-versus-the-terminator.json](./288341-robocop-versus-the-terminator.json) |
 | RoboCop Versus the Terminator | 44464 | [44464-robocop-versus-the-terminator.json](./44464-robocop-versus-the-terminator.json) |
 | RoboCop Versus the Terminator | 8195 | [8195-robocop-versus-the-terminator.json](./8195-robocop-versus-the-terminator.json) |
@@ -7220,6 +7223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rock Life: The Rock Simulator | 228299 | [228299-rock-life-the-rock-simulator.json](./228299-rock-life-the-rock-simulator.json) |
 | Rock Life: The Rock Simulator - Rock Pack #2 | 286527 | [286527-rock-life-the-rock-simulator-rock-pack-2.json](./286527-rock-life-the-rock-simulator-rock-pack-2.json) |
 | Rock Life: The Rock Simulator - Rock Pack #3 | 302941 | [302941-rock-life-the-rock-simulator-rock-pack-3.json](./302941-rock-life-the-rock-simulator-rock-pack-3.json) |
+| Rock Man | 131199 | [131199-rock-man.json](./131199-rock-man.json) |
 | Rock Manager | 22055 | [22055-rock-manager.json](./22055-rock-manager.json) |
 | Rock n' Bolt | 6127 | [6127-rock-n-bolt.json](./6127-rock-n-bolt.json) |
 | Rock n' Roll Racing | 6564 | [6564-rock-n-roll-racing.json](./6564-rock-n-roll-racing.json) |
