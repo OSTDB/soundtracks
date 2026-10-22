@@ -4900,6 +4900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alice and You in the planet of numbers | 144141 | [144141-alice-and-you-in-the-planet-of-numbers.json](./144141-alice-and-you-in-the-planet-of-numbers.json) |
 | Alice Clancy's Shattered Dimensions | 279076 | [279076-alice-clancys-shattered-dimensions.json](./279076-alice-clancys-shattered-dimensions.json) |
 | Alice Closet | 159283 | [159283-alice-closet.json](./159283-alice-closet.json) |
+| Alice Escaped! | 143529 | [143529-alice-escaped.json](./143529-alice-escaped.json) |
 | Alice Fiction | 188327 | [188327-alice-fiction.json](./188327-alice-fiction.json) |
 | Alice Gear Aegis CS: Concerto of Simulatrix | 198385 | [198385-alice-gear-aegis-cs-concerto-of-simulatrix.json](./198385-alice-gear-aegis-cs-concerto-of-simulatrix.json) |
 | Alice Gear Aegis CS: Concerto of Simulatrix - Limited Edition | 198386 | [198386-alice-gear-aegis-cs-concerto-of-simulatrix-limited-edition.json](./198386-alice-gear-aegis-cs-concerto-of-simulatrix-limited-edition.json) |
@@ -5020,6 +5021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Attack: Zero | 167928 | [167928-alien-attack-zero.json](./167928-alien-attack-zero.json) |
 | Alien Bash | 76198 | [76198-alien-bash.json](./76198-alien-bash.json) |
 | Alien Bash II | 38859 | [38859-alien-bash-ii.json](./38859-alien-bash-ii.json) |
+| Alien Bastards! | 143536 | [143536-alien-bastards.json](./143536-alien-bastards.json) |
 | Alien Battlefield | 232940 | [232940-alien-battlefield.json](./232940-alien-battlefield.json) |
 | Alien Blaster | 180585 | [180585-alien-blaster.json](./180585-alien-blaster.json) |
 | Alien Block | 328425 | [328425-alien-block.json](./328425-alien-block.json) |
@@ -11438,6 +11440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ashita Deatta Shoujo | 315209 | [315209-ashita-deatta-shoujo.json](./315209-ashita-deatta-shoujo.json) |
 | Ashita no Joe | 39578 | [39578-ashita-no-joe.json](./39578-ashita-no-joe.json) |
 | Ashita no Joe Touch: Typing Namida Hashi | 56996 | [56996-ashita-no-joe-touch-typing-namida-hashi.json](./56996-ashita-no-joe-touch-typing-namida-hashi.json) |
+| Ashita no Joe: Masshiro ni Moe Tsukiro! | 143555 | [143555-ashita-no-joe-masshiro-ni-moe-tsukiro.json](./143555-ashita-no-joe-masshiro-ni-moe-tsukiro.json) |
 | Ashita, Hajimete Kanojo to | 211648 | [211648-ashita-hajimete-kanojo-to.json](./211648-ashita-hajimete-kanojo-to.json) |
 | Ashkeep | 212748 | [212748-ashkeep.json](./212748-ashkeep.json) |
 | Ashland | 124216 | [124216-ashland.json](./124216-ashland.json) |
