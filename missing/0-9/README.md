@@ -914,6 +914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 14Days in Dream | 93745 | [93745-14days-in-dream.json](./93745-14days-in-dream.json) |
 | 15 Days | 26208 | [26208-15-days.json](./26208-15-days.json) |
 | 15 Defense | 90474 | [90474-15-defense.json](./90474-15-defense.json) |
+| 15 Giant Games, Vol.1 | 131179 | [131179-15-giant-games-vol-1.json](./131179-15-giant-games-vol-1.json) |
 | 15 in 1 Family Games Mega Collection | 332488 | [332488-15-in-1-family-games-mega-collection.json](./332488-15-in-1-family-games-mega-collection.json) |
 | 15 in 1 Solitaire | 187457 | [187457-15-in-1-solitaire.json](./187457-15-in-1-solitaire.json) |
 | 15 Levels | 235060 | [235060-15-levels.json](./235060-15-levels.json) |
@@ -2443,6 +2444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 7th Sector: Museum | 172115 | [172115-7th-sector-museum.json](./172115-7th-sector-museum.json) |
 | 7Worlds: The Dreaming Dale | 129012 | [129012-7worlds-the-dreaming-dale.json](./129012-7worlds-the-dreaming-dale.json) |
 | 7Years | 311157 | [311157-7years.json](./311157-7years.json) |
+| 8 | 131206 | [131206-8.json](./131206-8.json) |
 | 8 Ball | 14150 | [14150-8-ball.json](./14150-8-ball.json) |
 | 8 Ball | 90860 | [90860-8-ball.json](./90860-8-ball.json) |
 | 8 Ball 2 | 219515 | [219515-8-ball-2.json](./219515-8-ball-2.json) |
