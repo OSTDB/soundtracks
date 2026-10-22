@@ -1823,6 +1823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barbie as the Princess and the Pauper | 200590 | [200590-barbie-as-the-princess-and-the-pauper.json](./200590-barbie-as-the-princess-and-the-pauper.json) |
 | Barbie Beauty Styler | 200601 | [200601-barbie-beauty-styler.json](./200601-barbie-beauty-styler.json) |
 | Barbie Color Creations | 261705 | [261705-barbie-color-creations.json](./261705-barbie-color-creations.json) |
+| Barbie Cool Looks Fashion Designer | 130593 | [130593-barbie-cool-looks-fashion-designer.json](./130593-barbie-cool-looks-fashion-designer.json) |
 | Barbie Dance Party | 421385 | [421385-barbie-dance-party.json](./421385-barbie-dance-party.json) |
 | Barbie Dreamhouse Adventures | 255335 | [255335-barbie-dreamhouse-adventures.json](./255335-barbie-dreamhouse-adventures.json) |
 | Barbie Epic Road Trip | 228355 | [228355-barbie-epic-road-trip.json](./228355-barbie-epic-road-trip.json) |
@@ -5405,6 +5406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond Enemy Lines: Operation Arctic Hawk | 115599 | [115599-beyond-enemy-lines-operation-arctic-hawk.json](./115599-beyond-enemy-lines-operation-arctic-hawk.json) |
 | Beyond Enemy Lines: Remastered Edition | 132608 | [132608-beyond-enemy-lines-remastered-edition.json](./132608-beyond-enemy-lines-remastered-edition.json) |
 | Beyond Eyes | 11135 | [11135-beyond-eyes.json](./11135-beyond-eyes.json) |
+| Beyond Fallendom | 130600 | [130600-beyond-fallendom.json](./130600-beyond-fallendom.json) |
 | Beyond Fighting 2 | 59474 | [59474-beyond-fighting-2.json](./59474-beyond-fighting-2.json) |
 | Beyond Fighting 3 | 56150 | [56150-beyond-fighting-3.json](./56150-beyond-fighting-3.json) |
 | Beyond Flesh and Blood | 18350 | [18350-beyond-flesh-and-blood.json](./18350-beyond-flesh-and-blood.json) |
@@ -5610,6 +5612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bible Word Puzzle | 103547 | [103547-bible-word-puzzle.json](./103547-bible-word-puzzle.json) |
 | BibleGirl's Big Apple | 56448 | [56448-biblegirls-big-apple.json](./56448-biblegirls-big-apple.json) |
 | Biblically Inaccurate | 374043 | [374043-biblically-inaccurate.json](./374043-biblically-inaccurate.json) |
+| Biblinthus | 130586 | [130586-biblinthus.json](./130586-biblinthus.json) |
 | BiblioMania | 204963 | [204963-bibliomania.json](./204963-bibliomania.json) |
 | Biblios Dice | 234115 | [234115-biblios-dice.json](./234115-biblios-dice.json) |
 | Biblios: Tome of Darkness | 306343 | [306343-biblios-tome-of-darkness.json](./306343-biblios-tome-of-darkness.json) |
@@ -8744,6 +8747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloodthirsty Kingdom: Vampire War | 181308 | [181308-bloodthirsty-kingdom-vampire-war.json](./181308-bloodthirsty-kingdom-vampire-war.json) |
 | Bloodthirsty Sword | 373723 | [373723-bloodthirsty-sword.json](./373723-bloodthirsty-sword.json) |
 | BloodTrail | 113465 | [113465-bloodtrail.json](./113465-bloodtrail.json) |
+| Bloodvane | 130591 | [130591-bloodvane.json](./130591-bloodvane.json) |
 | Bloodville | 373129 | [373129-bloodville.json](./373129-bloodville.json) |
 | BloodWarrior | 47982 | [47982-bloodwarrior.json](./47982-bloodwarrior.json) |
 | Bloodwash | 170938 | [170938-bloodwash.json](./170938-bloodwash.json) |
@@ -11098,6 +11102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BR1: Infinite | 194433 | [194433-br1-infinite.json](./194433-br1-infinite.json) |
 | Braaains | 319105 | [319105-braaains.json](./319105-braaains.json) |
 | Braaains! | 207284 | [207284-braaains.json](./207284-braaains.json) |
+| Braains.io | 130597 | [130597-braains-io.json](./130597-braains-io.json) |
 | Braains.io | 193807 | [193807-braains-io.json](./193807-braains-io.json) |
 | Brabatos | 348656 | [348656-brabatos.json](./348656-brabatos.json) |
 | Bracer | 403818 | [403818-bracer.json](./403818-bracer.json) |
