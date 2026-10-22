@@ -328,6 +328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Back to Dust: Hold it Together | 236939 | [236939-back-to-dust-hold-it-together.json](./236939-back-to-dust-hold-it-together.json) |
 | Back to Ebatoria | 106504 | [106504-back-to-ebatoria.json](./106504-back-to-ebatoria.json) |
 | Back to Hearth | 273358 | [273358-back-to-hearth.json](./273358-back-to-hearth.json) |
+| Back to Hell | 120588 | [120588-back-to-hell.json](./120588-back-to-hell.json) |
 | Back to Home | 220350 | [220350-back-to-home.json](./220350-back-to-home.json) |
 | Back to Home | 258558 | [258558-back-to-home.json](./258558-back-to-home.json) |
 | Back to Life 3 | 36102 | [36102-back-to-life-3.json](./36102-back-to-life-3.json) |
@@ -13662,6 +13663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bunte Märchenträume | 201621 | [201621-bunte-marchentraume.json](./201621-bunte-marchentraume.json) |
 | Buoy Boy | 233768 | [233768-buoy-boy.json](./233768-buoy-boy.json) |
 | Buoyancy | 115347 | [115347-buoyancy.json](./115347-buoyancy.json) |
+| Buoyant | 120608 | [120608-buoyant.json](./120608-buoyant.json) |
 | Bura: The Way the Wind Blows | 217361 | [217361-bura-the-way-the-wind-blows.json](./217361-bura-the-way-the-wind-blows.json) |
 | Burai Fighter | 2382 | [2382-burai-fighter.json](./2382-burai-fighter.json) |
 | Burai Fighter Deluxe | 48960 | [48960-burai-fighter-deluxe.json](./48960-burai-fighter-deluxe.json) |
