@@ -7118,6 +7118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shooting Range Simulator | 309532 | [309532-shooting-range-simulator.json](./309532-shooting-range-simulator.json) |
 | Shooting Sports Gun Club | 99989 | [99989-shooting-sports-gun-club.json](./99989-shooting-sports-gun-club.json) |
 | Shooting Squirrel Simulator | 278513 | [278513-shooting-squirrel-simulator.json](./278513-shooting-squirrel-simulator.json) |
+| Shooting Star | 131228 | [131228-shooting-star.json](./131228-shooting-star.json) |
 | Shooting Star | 344581 | [344581-shooting-star.json](./344581-shooting-star.json) |
 | Shooting Star Island | 194982 | [194982-shooting-star-island.json](./194982-shooting-star-island.json) |
 | Shooting Star Rockman Wave Transer | 352786 | [352786-shooting-star-rockman-wave-transer.json](./352786-shooting-star-rockman-wave-transer.json) |
@@ -8773,6 +8774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sina | 185008 | [185008-sina.json](./185008-sina.json) |
 | Sina | 291308 | [291308-sina.json](./291308-sina.json) |
 | Sinag | 293317 | [293317-sinag.json](./293317-sinag.json) |
+| Sinbad | 131198 | [131198-sinbad.json](./131198-sinbad.json) |
 | Sinbad - In Search of Magic Ginger | 54359 | [54359-sinbad-in-search-of-magic-ginger.json](./54359-sinbad-in-search-of-magic-ginger.json) |
 | Sinbad & the Golden Ship | 71509 | [71509-sinbad-and-the-golden-ship.json](./71509-sinbad-and-the-golden-ship.json) |
 | Sinbad and the Throne of the Falcon | 8668 | [8668-sinbad-and-the-throne-of-the-falcon.json](./8668-sinbad-and-the-throne-of-the-falcon.json) |
@@ -11968,6 +11970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snowball Warfare | 359284 | [359284-snowball-warfare.json](./359284-snowball-warfare.json) |
 | Snowball.io | 231898 | [231898-snowball-io.json](./231898-snowball-io.json) |
 | Snowballer | 133186 | [133186-snowballer.json](./133186-snowballer.json) |
+| Snowballs | 131221 | [131221-snowballs.json](./131221-snowballs.json) |
 | Snowballs | 221083 | [221083-snowballs.json](./221083-snowballs.json) |
 | Snowbird Solitaire | 354998 | [354998-snowbird-solitaire.json](./354998-snowbird-solitaire.json) |
 | Snowblind Aces | 216239 | [216239-snowblind-aces.json](./216239-snowblind-aces.json) |
@@ -18908,6 +18911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Trek: Infinite - Deluxe Edition | 265851 | [265851-star-trek-infinite-deluxe-edition.json](./265851-star-trek-infinite-deluxe-edition.json) |
 | Star Trek: Infinite - Designing the Galaxy | 271921 | [271921-star-trek-infinite-designing-the-galaxy.json](./271921-star-trek-infinite-designing-the-galaxy.json) |
 | Star Trek: Judgment Rites | 2229 | [2229-star-trek-judgment-rites.json](./2229-star-trek-judgment-rites.json) |
+| Star Trek: Judgment Rites Movie & Sound Pack | 131180 | [131180-star-trek-judgment-rites-movie-and-sound-pack.json](./131180-star-trek-judgment-rites-movie-and-sound-pack.json) |
 | Star Trek: Klingon Academy | 19627 | [19627-star-trek-klingon-academy.json](./19627-star-trek-klingon-academy.json) |
 | Star Trek: Legacy | 7193 | [7193-star-trek-legacy.json](./7193-star-trek-legacy.json) |
 | Star Trek: Legends - Complete Edition | 331851 | [331851-star-trek-legends-complete-edition.json](./331851-star-trek-legends-complete-edition.json) |
@@ -26490,6 +26494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survival Camp | 127662 | [127662-survival-camp.json](./127662-survival-camp.json) |
 | Survival City | 239564 | [239564-survival-city.json](./239564-survival-city.json) |
 | Survival City | 346260 | [346260-survival-city.json](./346260-survival-city.json) |
+| Survival Craft | 131235 | [131235-survival-craft.json](./131235-survival-craft.json) |
 | Survival Crisis | 237673 | [237673-survival-crisis.json](./237673-survival-crisis.json) |
 | Survival Crisis Z | 94707 | [94707-survival-crisis-z.json](./94707-survival-crisis-z.json) |
 | Survival Dead Poly | 267818 | [267818-survival-dead-poly.json](./267818-survival-dead-poly.json) |
