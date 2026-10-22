@@ -1111,6 +1111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uncharted Island | 208954 | [208954-uncharted-island.json](./208954-uncharted-island.json) |
 | Uncharted Ocean 2 | 231293 | [231293-uncharted-ocean-2.json](./231293-uncharted-ocean-2.json) |
 | Uncharted Ocean: Adventures at the Poles | 262097 | [262097-uncharted-ocean-adventures-at-the-poles.json](./262097-uncharted-ocean-adventures-at-the-poles.json) |
+| Uncharted Ocean: Set Sail | 125062 | [125062-uncharted-ocean-set-sail.json](./125062-uncharted-ocean-set-sail.json) |
 | Uncharted Sectors | 375254 | [375254-uncharted-sectors.json](./375254-uncharted-sectors.json) |
 | Uncharted Space: Project 3062 | 204891 | [204891-uncharted-space-project-3062.json](./204891-uncharted-space-project-3062.json) |
 | Uncharted Tides: Port Royal | 121450 | [121450-uncharted-tides-port-royal.json](./121450-uncharted-tides-port-royal.json) |
@@ -2523,6 +2524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Upload Simulator | 215676 | [215676-upload-simulator.json](./215676-upload-simulator.json) |
 | Upload Simulator Silicon | 315282 | [315282-upload-simulator-silicon.json](./315282-upload-simulator-silicon.json) |
 | Uploaded | 157960 | [157960-uploaded.json](./157960-uploaded.json) |
+| UpMove | 125069 | [125069-upmove.json](./125069-upmove.json) |
 | Upon A Darkening Flood | 367593 | [367593-upon-a-darkening-flood.json](./367593-upon-a-darkening-flood.json) |
 | Upon the Dream's End | 370006 | [370006-upon-the-dreams-end.json](./370006-upon-the-dreams-end.json) |
 | Upon the Eldritch Planet | 261750 | [261750-upon-the-eldritch-planet.json](./261750-upon-the-eldritch-planet.json) |
