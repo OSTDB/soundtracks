@@ -2657,6 +2657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marble Saga: Kororinpa | 4962 | [4962-marble-saga-kororinpa.json](./4962-marble-saga-kororinpa.json) |
 | Marble Skies | 75639 | [75639-marble-skies.json](./75639-marble-skies.json) |
 | Marble Souls | 412504 | [412504-marble-souls.json](./412504-marble-souls.json) |
+| Marble Trap | 121977 | [121977-marble-trap.json](./121977-marble-trap.json) |
 | Marble Void | 33235 | [33235-marble-void.json](./33235-marble-void.json) |
 | Marble Watchness | 223625 | [223625-marble-watchness.json](./223625-marble-watchness.json) |
 | Marble Woka Woka | 86673 | [86673-marble-woka-woka.json](./86673-marble-woka-woka.json) |
@@ -3509,6 +3510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Martial Law: Our Spring | 293863 | [293863-martial-law-our-spring.json](./293863-martial-law-our-spring.json) |
 | Martial Tricks | 394133 | [394133-martial-tricks.json](./394133-martial-tricks.json) |
 | Martian Escape | 191117 | [191117-martian-escape.json](./191117-martian-escape.json) |
+| Martian Law | 121987 | [121987-martian-law.json](./121987-martian-law.json) |
 | Martian Panic | 4996 | [4996-martian-panic.json](./4996-martian-panic.json) |
 | Martian Potato | 157041 | [157041-martian-potato.json](./157041-martian-potato.json) |
 | Martian Secrets | 262862 | [262862-martian-secrets.json](./262862-martian-secrets.json) |
@@ -10881,6 +10883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mithra Episode 1: The Calling | 359065 | [359065-mithra-episode-1-the-calling.json](./359065-mithra-episode-1-the-calling.json) |
 | Mithraeum | 213622 | [213622-mithraeum.json](./213622-mithraeum.json) |
 | Mithral Gun | 196330 | [196330-mithral-gun.json](./196330-mithral-gun.json) |
+| Mithral Gun:Biomechanical | 122016 | [122016-mithral-gun-biomechanical.json](./122016-mithral-gun-biomechanical.json) |
 | Mithronia: Tower Wars | 265322 | [265322-mithronia-tower-wars.json](./265322-mithronia-tower-wars.json) |
 | Mitigate | 384348 | [384348-mitigate.json](./384348-mitigate.json) |
 | Miting Simulator | 150393 | [150393-miting-simulator.json](./150393-miting-simulator.json) |
@@ -12604,6 +12607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monsters Are Coming! | 346956 | [346956-monsters-are-coming.json](./346956-monsters-are-coming.json) |
 | Monsters Are Coming!: Madness Builds | 417323 | [417323-monsters-are-coming-madness-builds.json](./417323-monsters-are-coming-madness-builds.json) |
 | Monsters Ate My Birthday Cake | 17344 | [17344-monsters-ate-my-birthday-cake.json](./17344-monsters-ate-my-birthday-cake.json) |
+| Monsters Ate My Metropolis | 122010 | [122010-monsters-ate-my-metropolis.json](./122010-monsters-ate-my-metropolis.json) |
 | Monsters Come Out | 177765 | [177765-monsters-come-out.json](./177765-monsters-come-out.json) |
 | Monsters Everywhere | 256358 | [256358-monsters-everywhere.json](./256358-monsters-everywhere.json) |
 | Monsters Idle RPG | 238721 | [238721-monsters-idle-rpg.json](./238721-monsters-idle-rpg.json) |
@@ -13558,6 +13562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moses Prince of Egypt | 43783 | [43783-moses-prince-of-egypt.json](./43783-moses-prince-of-egypt.json) |
 | Moses: Old Testament Adventure #1 | 100018 | [100018-moses-old-testament-adventure-1.json](./100018-moses-old-testament-adventure-1.json) |
 | Mosh Lift | 283798 | [283798-mosh-lift.json](./283798-mosh-lift.json) |
+| Mosh Pit | 121982 | [121982-mosh-pit.json](./121982-mosh-pit.json) |
 | Mosh Pit Simulator | 109545 | [109545-mosh-pit-simulator.json](./109545-mosh-pit-simulator.json) |
 | Mosha Online | 126275 | [126275-mosha-online.json](./126275-mosha-online.json) |
 | Moshcave | 216709 | [216709-moshcave.json](./216709-moshcave.json) |
@@ -16755,6 +16760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Case Files: Key to Ravenhearst - Collector's Edition & Mystery Case Files: Ravenhearst Unlocked - Collector's Edition | 201821 | [201821-mystery-case-files-key-to-ravenhearst-collectors-edition-and-mystery-case-files-ravenhearst-unlocked-collectors-edition.json](./201821-mystery-case-files-key-to-ravenhearst-collectors-edition-and-mystery-case-files-ravenhearst-unlocked-collectors-edition.json) |
 | Mystery Case Files: MillionHeir | 20276 | [20276-mystery-case-files-millionheir.json](./20276-mystery-case-files-millionheir.json) |
 | Mystery Case Files: Moths to a Flame | 140231 | [140231-mystery-case-files-moths-to-a-flame.json](./140231-mystery-case-files-moths-to-a-flame.json) |
+| Mystery Case Files: Moths to a Flame - Collector's Edition | 122033 | [122033-mystery-case-files-moths-to-a-flame-collectors-edition.json](./122033-mystery-case-files-moths-to-a-flame-collectors-edition.json) |
 | Mystery Case Files: Prime Suspects | 5510 | [5510-mystery-case-files-prime-suspects.json](./5510-mystery-case-files-prime-suspects.json) |
 | Mystery Case Files: Ravenhearst | 5511 | [5511-mystery-case-files-ravenhearst.json](./5511-mystery-case-files-ravenhearst.json) |
 | Mystery Case Files: Ravenhearst Unlocked | 84144 | [84144-mystery-case-files-ravenhearst-unlocked.json](./84144-mystery-case-files-ravenhearst-unlocked.json) |
