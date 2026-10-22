@@ -4138,6 +4138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Legacy: Ancient Scrolls | 110733 | [110733-escape-legacy-ancient-scrolls.json](./110733-escape-legacy-ancient-scrolls.json) |
 | Escape Lite | 88579 | [88579-escape-lite.json](./88579-escape-lite.json) |
 | Escape Lizards | 31903 | [31903-escape-lizards.json](./31903-escape-lizards.json) |
+| Escape Machine City: Airborne | 144824 | [144824-escape-machine-city-airborne.json](./144824-escape-machine-city-airborne.json) |
 | Escape Machines | 26823 | [26823-escape-machines.json](./26823-escape-machines.json) |
 | Escape Master | 193240 | [193240-escape-master.json](./193240-escape-master.json) |
 | Escape MCP | 71385 | [71385-escape-mcp.json](./71385-escape-mcp.json) |
@@ -6066,6 +6067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Explore Titanic | 86853 | [86853-explore-titanic.json](./86853-explore-titanic.json) |
 | Explorer | 131269 | [131269-explorer.json](./131269-explorer.json) |
 | Explorer | 13653 | [13653-explorer.json](./13653-explorer.json) |
+| Explorer of Yggdrasil | 144648 | [144648-explorer-of-yggdrasil.json](./144648-explorer-of-yggdrasil.json) |
 | Explorer: Adventure Awaits | 297925 | [297925-explorer-adventure-awaits.json](./297925-explorer-adventure-awaits.json) |
 | Explorer: Golden Empire | 247985 | [247985-explorer-golden-empire.json](./247985-explorer-golden-empire.json) |
 | Explorers Collection: The Oregon Trail & Carmen Sandiego Bundle | 353982 | [353982-explorers-collection-the-oregon-trail-and-carmen-sandiego-bundle.json](./353982-explorers-collection-the-oregon-trail-and-carmen-sandiego-bundle.json) |
