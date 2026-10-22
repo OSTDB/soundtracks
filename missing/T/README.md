@@ -3372,6 +3372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TeraBlaster | 34925 | [34925-terablaster.json](./34925-terablaster.json) |
 | Teraburst | 394174 | [394174-teraburst.json](./394174-teraburst.json) |
 | Terafall | 161170 | [161170-terafall.json](./161170-terafall.json) |
+| Teragard | 126256 | [126256-teragard.json](./126256-teragard.json) |
 | Terapets Wars | 135489 | [135489-terapets-wars.json](./135489-terapets-wars.json) |
 | Teraphobia | 159250 | [159250-teraphobia.json](./159250-teraphobia.json) |
 | Terasene The Light of Her Life | 273102 | [273102-terasene-the-light-of-her-life.json](./273102-terasene-the-light-of-her-life.json) |
@@ -6298,6 +6299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dawn Era | 341941 | [341941-the-dawn-era.json](./341941-the-dawn-era.json) |
 | The Dawn is Inevitable | 249461 | [249461-the-dawn-is-inevitable.json](./249461-the-dawn-is-inevitable.json) |
 | The Dawn Obscura | 341494 | [341494-the-dawn-obscura.json](./341494-the-dawn-obscura.json) |
+| The Dawn of Lily | 126280 | [126280-the-dawn-of-lily.json](./126280-the-dawn-of-lily.json) |
 | The Dawn Of Slenderman | 321358 | [321358-the-dawn-of-slenderman.json](./321358-the-dawn-of-slenderman.json) |
 | The Dawn: Sniper's Way | 189207 | [189207-the-dawn-snipers-way.json](./189207-the-dawn-snipers-way.json) |
 | The Dawning | 173060 | [173060-the-dawning.json](./173060-the-dawning.json) |
@@ -11048,6 +11050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mythical City 4 | 327828 | [327828-the-mythical-city-4.json](./327828-the-mythical-city-4.json) |
 | The Naked Brothers Band | 5046 | [5046-the-naked-brothers-band.json](./5046-the-naked-brothers-band.json) |
 | The Naked Brothers Band: The Video Game | 47955 | [47955-the-naked-brothers-band-the-video-game.json](./47955-the-naked-brothers-band-the-video-game.json) |
+| The Name I Wear | 408022 | [408022-the-name-i-wear.json](./408022-the-name-i-wear.json) |
 | The Nameless | 178458 | [178458-the-nameless.json](./178458-the-nameless.json) |
 | The Nameless | 214126 | [214126-the-nameless.json](./214126-the-nameless.json) |
 | The Nameless Braves: Heaven | 207749 | [207749-the-nameless-braves-heaven.json](./207749-the-nameless-braves-heaven.json) |
@@ -24291,6 +24294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trip | 217479 | [217479-trip.json](./217479-trip.json) |
 | Trip in Hell | 107813 | [107813-trip-in-hell.json](./107813-trip-in-hell.json) |
 | Trip Movie /Mosaic: Shounen Alice Satsujin Jiken | 366243 | [366243-trip-movie-mosaic-shounen-alice-satsujin-jiken.json](./366243-trip-movie-mosaic-shounen-alice-satsujin-jiken.json) |
+| Trip the Ark Fantastic | 126284 | [126284-trip-the-ark-fantastic.json](./126284-trip-the-ark-fantastic.json) |
 | Trip The Light | 379958 | [379958-trip-the-light.json](./379958-trip-the-light.json) |
 | Trip Time Collection | 328467 | [328467-trip-time-collection.json](./328467-trip-time-collection.json) |
 | Trip to Europe 12: Romantic Tour - Collector's Edition | 398815 | [398815-trip-to-europe-12-romantic-tour-collectors-edition.json](./398815-trip-to-europe-12-romantic-tour-collectors-edition.json) |
