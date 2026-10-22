@@ -296,6 +296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kakuge Yarou: Fighting Game Creator | 43920 | [43920-kakuge-yarou-fighting-game-creator.json](./43920-kakuge-yarou-fighting-game-creator.json) |
 | Kakugo no Susume | 43830 | [43830-kakugo-no-susume.json](./43830-kakugo-no-susume.json) |
 | Kakuhina | 255610 | [255610-kakuhina.json](./255610-kakuhina.json) |
+| Kakurasu World | 147724 | [147724-kakurasu-world.json](./147724-kakurasu-world.json) |
 | Kakure-oni | 376874 | [376874-kakure-oni.json](./376874-kakure-oni.json) |
 | Kakurenbo | 191531 | [191531-kakurenbo.json](./191531-kakurenbo.json) |
 | Kakurenbo no Oto: Hidden Notes | 172741 | [172741-kakurenbo-no-oto-hidden-notes.json](./172741-kakurenbo-no-oto-hidden-notes.json) |
@@ -307,6 +308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kakuro | 120959 | [120959-kakuro.json](./120959-kakuro.json) |
 | Kakuro | 264552 | [264552-kakuro.json](./264552-kakuro.json) |
 | Kakuro Blend | 150442 | [150442-kakuro-blend.json](./150442-kakuro-blend.json) |
+| Kakuro Magic | 147730 | [147730-kakuro-magic.json](./147730-kakuro-magic.json) |
 | Kakusankibou | 80899 | [80899-kakusankibou.json](./80899-kakusankibou.json) |
 | Kakutou Haou Densetsu Algunos | 37586 | [37586-kakutou-haou-densetsu-algunos.json](./37586-kakutou-haou-densetsu-algunos.json) |
 | Kakutou Ryouri Densetsu Bistro Recipe: Gekitou Foodon Battle-hen | 228569 | [228569-kakutou-ryouri-densetsu-bistro-recipe-gekitou-foodon-battle-hen.json](./228569-kakutou-ryouri-densetsu-bistro-recipe-gekitou-foodon-battle-hen.json) |
