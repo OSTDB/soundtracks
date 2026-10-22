@@ -1615,6 +1615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Jamboree | 40232 | [40232-car-jamboree.json](./40232-car-jamboree.json) |
 | Car Jump | 164912 | [164912-car-jump.json](./164912-car-jump.json) |
 | Car Looper | 150533 | [150533-car-looper.json](./150533-car-looper.json) |
+| Car Maker Game: Fun Simulator | 105701 | [105701-car-maker-game-fun-simulator.json](./105701-car-maker-game-fun-simulator.json) |
 | Car Mayhem | 119511 | [119511-car-mayhem.json](./119511-car-mayhem.json) |
 | Car Mechanic Flipper | 113661 | [113661-car-mechanic-flipper.json](./113661-car-mechanic-flipper.json) |
 | Car Mechanic Manager | 34569 | [34569-car-mechanic-manager.json](./34569-car-mechanic-manager.json) |
@@ -1776,6 +1777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Card Fencer | 284806 | [284806-card-fencer.json](./284806-card-fencer.json) |
 | Card Fuse | 278167 | [278167-card-fuse.json](./278167-card-fuse.json) |
 | Card Game Bundle Vol.1 | 118917 | [118917-card-game-bundle-vol-1.json](./118917-card-game-bundle-vol-1.json) |
+| Card Game Classics | 105668 | [105668-card-game-classics.json](./105668-card-game-classics.json) |
 | Card Games for Windows | 80449 | [80449-card-games-for-windows.json](./80449-card-games-for-windows.json) |
 | Card Games Mega Collection | 104032 | [104032-card-games-mega-collection.json](./104032-card-games-mega-collection.json) |
 | Card Games: Solitaire and more | 232363 | [232363-card-games-solitaire-and-more.json](./232363-card-games-solitaire-and-more.json) |
@@ -3412,6 +3414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catgirl Bloodhunt | 380835 | [380835-catgirl-bloodhunt.json](./380835-catgirl-bloodhunt.json) |
 | Catgirl Chainsaw Massacre | 280736 | [280736-catgirl-chainsaw-massacre.json](./280736-catgirl-chainsaw-massacre.json) |
 | Catgirl Lover | 127927 | [127927-catgirl-lover.json](./127927-catgirl-lover.json) |
+| Catgirl Magic: Fury Duel | 105653 | [105653-catgirl-magic-fury-duel.json](./105653-catgirl-magic-fury-duel.json) |
 | Catgirls From My Sweet Dream: Neko Girls 18+ | 343613 | [343613-catgirls-from-my-sweet-dream-neko-girls-18.json](./343613-catgirls-from-my-sweet-dream-neko-girls-18.json) |
 | Catharage | 355098 | [355098-catharage.json](./355098-catharage.json) |
 | Catharsis | 130144 | [130144-catharsis.json](./130144-catharsis.json) |
@@ -5678,6 +5681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chill II | 116072 | [116072-chill-ii.json](./116072-chill-ii.json) |
 | Chill Manor | 64704 | [64704-chill-manor.json](./64704-chill-manor.json) |
 | Chill of Death's: Breath | 269280 | [269280-chill-of-deaths-breath.json](./269280-chill-of-deaths-breath.json) |
+| Chill Out | 105696 | [105696-chill-out.json](./105696-chill-out.json) |
 | Chill Out | 181625 | [181625-chill-out.json](./181625-chill-out.json) |
 | Chill Out | 335474 | [335474-chill-out.json](./335474-chill-out.json) |
 | Chill Out | 413050 | [413050-chill-out.json](./413050-chill-out.json) |
@@ -10474,6 +10478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Connect the World | 300700 | [300700-connect-the-world.json](./300700-connect-the-world.json) |
 | Connect Word | 352256 | [352256-connect-word.json](./352256-connect-word.json) |
 | Connect/Words | 87696 | [87696-connect-words.json](./87696-connect-words.json) |
+| Connect01 | 105657 | [105657-connect01.json](./105657-connect01.json) |
 | Connected Hearts | 54525 | [54525-connected-hearts.json](./54525-connected-hearts.json) |
 | Connected Hearts: Cost of Beauty DLC | 291064 | [291064-connected-hearts-cost-of-beauty-dlc.json](./291064-connected-hearts-cost-of-beauty-dlc.json) |
 | Connected Hearts: Hour of the Witch | 417688 | [417688-connected-hearts-hour-of-the-witch.json](./417688-connected-hearts-hour-of-the-witch.json) |
@@ -10806,6 +10811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Containment Zones | 279466 | [279466-containment-zones.json](./279466-containment-zones.json) |
 | Contamination | 12986 | [12986-contamination.json](./12986-contamination.json) |
 | Contasion 2 | 33891 | [33891-contasion-2.json](./33891-contasion-2.json) |
+| Contemp | 105685 | [105685-contemp.json](./105685-contemp.json) |
 | Contender | 44853 | [44853-contender.json](./44853-contender.json) |
 | Contenders: Arena | 255684 | [255684-contenders-arena.json](./255684-contenders-arena.json) |
 | Contenir | 419101 | [419101-contenir.json](./419101-contenir.json) |
@@ -12899,6 +12905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Clown | 240045 | [240045-crazy-clown.json](./240045-crazy-clown.json) |
 | Crazy Comets | 13832 | [13832-crazy-comets.json](./13832-crazy-comets.json) |
 | Crazy Cook | 204989 | [204989-crazy-cook.json](./204989-crazy-cook.json) |
+| Crazy Cooking Star Chef | 105699 | [105699-crazy-cooking-star-chef.json](./105699-crazy-cooking-star-chef.json) |
 | Crazy Cop | 39676 | [39676-crazy-cop.json](./39676-crazy-cop.json) |
 | Crazy Corn | 314362 | [314362-crazy-corn.json](./314362-crazy-corn.json) |
 | Crazy Counting | 231622 | [231622-crazy-counting.json](./231622-crazy-counting.json) |
