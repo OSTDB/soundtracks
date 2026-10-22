@@ -1489,6 +1489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paracom | 384535 | [384535-paracom.json](./384535-paracom.json) |
 | Paracreat | 199304 | [199304-paracreat.json](./199304-paracreat.json) |
 | Paradaice | 151083 | [151083-paradaice.json](./151083-paradaice.json) |
+| Parade!: The Rhythm Battle | 100640 | [100640-parade-the-rhythm-battle.json](./100640-parade-the-rhythm-battle.json) |
 | Paradiddle | 74191 | [74191-paradiddle.json](./74191-paradiddle.json) |
 | Paradiddler | 175110 | [175110-paradiddler.json](./175110-paradiddler.json) |
 | Paradigm | 27762 | [27762-paradigm.json](./27762-paradigm.json) |
@@ -3241,6 +3242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Penny Arcade Adventures: On the Rain-Slick Precipice of Darkness - Episode Two | 14917 | [14917-penny-arcade-adventures-on-the-rain-slick-precipice-of-darkness-episode-two.json](./14917-penny-arcade-adventures-on-the-rain-slick-precipice-of-darkness-episode-two.json) |
 | Penny Arcade: Spider-Man 3: Bell Tower Brawl | 230181 | [230181-penny-arcade-spider-man-3-bell-tower-brawl.json](./230181-penny-arcade-spider-man-3-bell-tower-brawl.json) |
 | Penny Arcade's On the Rain-Slick Precipice of Darkness 3 | 14980 | [14980-penny-arcades-on-the-rain-slick-precipice-of-darkness-3.json](./14980-penny-arcades-on-the-rain-slick-precipice-of-darkness-3.json) |
+| Penny Black | 100651 | [100651-penny-black.json](./100651-penny-black.json) |
 | Penny Dell Jumbo Crosswords | 89199 | [89199-penny-dell-jumbo-crosswords.json](./89199-penny-dell-jumbo-crosswords.json) |
 | Penny Dell Jumbo Crosswords 2 | 204494 | [204494-penny-dell-jumbo-crosswords-2.json](./204494-penny-dell-jumbo-crosswords-2.json) |
 | Penny Dell Sudoku | 310702 | [310702-penny-dell-sudoku.json](./310702-penny-dell-sudoku.json) |
@@ -11867,6 +11869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Mahjong Tsuwamono: Renka-ban | 236671 | [236671-pro-mahjong-tsuwamono-renka-ban.json](./236671-pro-mahjong-tsuwamono-renka-ban.json) |
 | Pro Mountain Bike Simulator | 354589 | [354589-pro-mountain-bike-simulator.json](./354589-pro-mountain-bike-simulator.json) |
 | Pro Moves Soccer | 222830 | [222830-pro-moves-soccer.json](./222830-pro-moves-soccer.json) |
+| Pro Mud Tyres Offroad | 100636 | [100636-pro-mud-tyres-offroad.json](./100636-pro-mud-tyres-offroad.json) |
 | Pro My Happy Wheel Farm Phonics Animals & Puppies | 102615 | [102615-pro-my-happy-wheel-farm-phonics-animals-and-puppies.json](./102615-pro-my-happy-wheel-farm-phonics-animals-and-puppies.json) |
 | Pro Office Calculator | 142457 | [142457-pro-office-calculator.json](./142457-pro-office-calculator.json) |
 | Pro Pain Labs | 166191 | [166191-pro-pain-labs.json](./166191-pro-pain-labs.json) |
@@ -12262,6 +12265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Capture: Legacy | 362486 | [362486-project-capture-legacy.json](./362486-project-capture-legacy.json) |
 | Project Carrot | 335324 | [335324-project-carrot.json](./335324-project-carrot.json) |
 | Project CARS 2: Deluxe Edition | 53479 | [53479-project-cars-2-deluxe-edition.json](./53479-project-cars-2-deluxe-edition.json) |
+| Project Cars 2: Limited Edition | 100548 | [100548-project-cars-2-limited-edition.json](./100548-project-cars-2-limited-edition.json) |
 | Project CARS 3 | 121173 | [121173-project-cars-3.json](./121173-project-cars-3.json) |
 | Project CARS 3: Electric Pack | 162307 | [162307-project-cars-3-electric-pack.json](./162307-project-cars-3-electric-pack.json) |
 | Project CARS 3: Ignition Pack | 162311 | [162311-project-cars-3-ignition-pack.json](./162311-project-cars-3-ignition-pack.json) |
