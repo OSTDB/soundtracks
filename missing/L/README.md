@@ -3067,6 +3067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lethal RPG: War | 101991 | [101991-lethal-rpg-war.json](./101991-lethal-rpg-war.json) |
 | Lethal Running | 101453 | [101453-lethal-running.json](./101453-lethal-running.json) |
 | Lethal Skies II | 24103 | [24103-lethal-skies-ii.json](./24103-lethal-skies-ii.json) |
+| Lethal Tempting Girls | 130569 | [130569-lethal-tempting-girls.json](./130569-lethal-tempting-girls.json) |
 | Lethal Tender | 84329 | [84329-lethal-tender.json](./84329-lethal-tender.json) |
 | Lethal Weapon | 306176 | [306176-lethal-weapon.json](./306176-lethal-weapon.json) |
 | Lethal Weapon | 306179 | [306179-lethal-weapon.json](./306179-lethal-weapon.json) |
@@ -4154,6 +4155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Line Play | 202587 | [202587-line-play.json](./202587-line-play.json) |
 | Line Points: Challenge your coordination | 232055 | [232055-line-points-challenge-your-coordination.json](./232055-line-points-challenge-your-coordination.json) |
 | Line Puzzle de Inazuma Eleven | 61499 | [61499-line-puzzle-de-inazuma-eleven.json](./61499-line-puzzle-de-inazuma-eleven.json) |
+| Line Rangers | 130565 | [130565-line-rangers.json](./130565-line-rangers.json) |
 | Line Rider | 28810 | [28810-line-rider.json](./28810-line-rider.json) |
 | Line Rider JavaScript | 58115 | [58115-line-rider-javascript.json](./58115-line-rider-javascript.json) |
 | Line Rider: Freestyle | 54163 | [54163-line-rider-freestyle.json](./54163-line-rider-freestyle.json) |
@@ -4854,6 +4856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Witch | 199811 | [199811-little-witch.json](./199811-little-witch.json) |
 | Little Witch Academia: Chamber of Time | 36506 | [36506-little-witch-academia-chamber-of-time.json](./36506-little-witch-academia-chamber-of-time.json) |
 | Little Witch Academia: VR Broom Racing | 139341 | [139341-little-witch-academia-vr-broom-racing.json](./139341-little-witch-academia-vr-broom-racing.json) |
+| Little Witch in the Woods | 130577 | [130577-little-witch-in-the-woods.json](./130577-little-witch-in-the-woods.json) |
 | Little Witch Luana | 126647 | [126647-little-witch-luana.json](./126647-little-witch-luana.json) |
 | Little Witch Nobeta | 116781 | [116781-little-witch-nobeta.json](./116781-little-witch-nobeta.json) |
 | Little Witch Nobeta: Limited Edition | 205259 | [205259-little-witch-nobeta-limited-edition.json](./205259-little-witch-nobeta-limited-edition.json) |
