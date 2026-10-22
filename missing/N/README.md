@@ -242,6 +242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Name That Tune: Pop Hits from the 60's-90's | 198834 | [198834-name-that-tune-pop-hits-from-the-60s-90s.json](./198834-name-that-tune-pop-hits-from-the-60s-90s.json) |
 | Name the Song Quiz | 84093 | [84093-name-the-song-quiz.json](./84093-name-the-song-quiz.json) |
 | Name This Game | 22838 | [22838-name-this-game.json](./22838-name-this-game.json) |
+| Nàměikè Xīngrén | 128242 | [128242-nameike-xingren.json](./128242-nameike-xingren.json) |
 | Nameko | 68311 | [68311-nameko.json](./68311-nameko.json) |
 | Nameless | 105550 | [105550-nameless.json](./105550-nameless.json) |
 | Nameless | 133640 | [133640-nameless.json](./133640-nameless.json) |
@@ -2591,6 +2592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Nightmare Cafe 5 | 339223 | [339223-new-nightmare-cafe-5.json](./339223-new-nightmare-cafe-5.json) |
 | New Nintendo 3DS Internet Browser: Breakout | 251587 | [251587-new-nintendo-3ds-internet-browser-breakout.json](./251587-new-nintendo-3ds-internet-browser-breakout.json) |
 | New Path 1: Adventure or Normality? | 124237 | [124237-new-path-1-adventure-or-normality.json](./124237-new-path-1-adventure-or-normality.json) |
+| New Planets | 128249 | [128249-new-planets.json](./128249-new-planets.json) |
 | New Quest: Don't Get Bored! | 178943 | [178943-new-quest-dont-get-bored.json](./178943-new-quest-dont-get-bored.json) |
 | New Rally-X Arrangement | 178411 | [178411-new-rally-x-arrangement.json](./178411-new-rally-x-arrangement.json) |
 | New Revolution | 188398 | [188398-new-revolution.json](./188398-new-revolution.json) |
@@ -2801,6 +2803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Next Floor | 276974 | [276974-next-floor.json](./276974-next-floor.json) |
 | Next Generation Soccer Coach | 173025 | [173025-next-generation-soccer-coach.json](./173025-next-generation-soccer-coach.json) |
 | Next Generation Tennis 2003 | 43443 | [43443-next-generation-tennis-2003.json](./43443-next-generation-tennis-2003.json) |
+| Next Hand Master | 128214 | [128214-next-hand-master.json](./128214-next-hand-master.json) |
 | Next In Line | 366958 | [366958-next-in-line.json](./366958-next-in-line.json) |
 | Next Island | 92473 | [92473-next-island.json](./92473-next-island.json) |
 | Next jump: Shmup Tactics | 28665 | [28665-next-jump-shmup-tactics.json](./28665-next-jump-shmup-tactics.json) |
@@ -3379,6 +3382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night of the Idle Horde | 422116 | [422116-night-of-the-idle-horde.json](./422116-night-of-the-idle-horde.json) |
 | Night of the Lesbian Vampires | 178913 | [178913-night-of-the-lesbian-vampires.json](./178913-night-of-the-lesbian-vampires.json) |
 | Night of the Living Bubble | 391169 | [391169-night-of-the-living-bubble.json](./391169-night-of-the-living-bubble.json) |
+| Night of The Living Dead VR | 128204 | [128204-night-of-the-living-dead-vr.json](./128204-night-of-the-living-dead-vr.json) |
 | Night of the Living Skurre | 367973 | [367973-night-of-the-living-skurre.json](./367973-night-of-the-living-skurre.json) |
 | Night of the loving dead | 161905 | [161905-night-of-the-loving-dead.json](./161905-night-of-the-loving-dead.json) |
 | Night of the Meteor | 170281 | [170281-night-of-the-meteor.json](./170281-night-of-the-meteor.json) |
