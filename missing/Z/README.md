@@ -1385,6 +1385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Sanctuary: Juliet | 277372 | [277372-zombie-sanctuary-juliet.json](./277372-zombie-sanctuary-juliet.json) |
 | Zombie School | 110348 | [110348-zombie-school.json](./110348-zombie-school.json) |
 | Zombie School Survival | 367574 | [367574-zombie-school-survival.json](./367574-zombie-school-survival.json) |
+| Zombie Scrapper | 116766 | [116766-zombie-scrapper.json](./116766-zombie-scrapper.json) |
 | Zombie Season | 123547 | [123547-zombie-season.json](./123547-zombie-season.json) |
 | Zombie Serial Killer Incident | 99594 | [99594-zombie-serial-killer-incident.json](./99594-zombie-serial-killer-incident.json) |
 | Zombie Shooter | 16017 | [16017-zombie-shooter.json](./16017-zombie-shooter.json) |
@@ -1506,6 +1507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombieland: Headshot Fever - Reloaded | 239423 | [239423-zombieland-headshot-fever-reloaded.json](./239423-zombieland-headshot-fever-reloaded.json) |
 | Zombieland: Survivors | 297758 | [297758-zombieland-survivors.json](./297758-zombieland-survivors.json) |
 | Zombien | 121383 | [121383-zombien.json](./121383-zombien.json) |
+| ZombieOrNotZombie | 116736 | [116736-zombieornotzombie.json](./116736-zombieornotzombie.json) |
 | ZombieRun | 35514 | [35514-zombierun.json](./35514-zombierun.json) |
 | ZombieRush | 32767 | [32767-zombierush.json](./32767-zombierush.json) |
 | Zombies | 196006 | [196006-zombies.json](./196006-zombies.json) |
@@ -1886,6 +1888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zuìzhōng Huànxiǎng | 340183 | [340183-zuizhong-huanxiang.json](./340183-zuizhong-huanxiang.json) |
 | Zukkoke Threesome: Drama Murder Case | 289762 | [289762-zukkoke-threesome-drama-murder-case.json](./289762-zukkoke-threesome-drama-murder-case.json) |
 | ZukuRace | 308920 | [308920-zukurace.json](./308920-zukurace.json) |
+| Zulin Time | 116718 | [116718-zulin-time.json](./116718-zulin-time.json) |
 | Zulkania | 338323 | [338323-zulkania.json](./338323-zulkania.json) |
 | Zulu | 365287 | [365287-zulu.json](./365287-zulu.json) |
 | Zulup | 129021 | [129021-zulup.json](./129021-zulup.json) |
@@ -1973,6 +1976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zybex | 47206 | [47206-zybex.json](./47206-zybex.json) |
 | Zyconix | 154422 | [154422-zyconix.json](./154422-zyconix.json) |
 | Zyconix | 84210 | [84210-zyconix.json](./84210-zyconix.json) |
+| Zykrun | 116714 | [116714-zykrun.json](./116714-zykrun.json) |
 | Zyll | 78096 | [78096-zyll.json](./78096-zyll.json) |
 | Zylo and the magic souls | 120214 | [120214-zylo-and-the-magic-souls.json](./120214-zylo-and-the-magic-souls.json) |
 | Zylogon | 363561 | [363561-zylogon.json](./363561-zylogon.json) |
