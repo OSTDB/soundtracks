@@ -1478,6 +1478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain Tsubasa: Rise of New Champions - Deluxe Month 1 Edition | 139942 | [139942-captain-tsubasa-rise-of-new-champions-deluxe-month-1-edition.json](./139942-captain-tsubasa-rise-of-new-champions-deluxe-month-1-edition.json) |
 | Captain Tsubasa: Rise of New Champions - Digital Ultimate Edition | 267226 | [267226-captain-tsubasa-rise-of-new-champions-digital-ultimate-edition.json](./267226-captain-tsubasa-rise-of-new-champions-digital-ultimate-edition.json) |
 | Captain Tsubasa: Rise of New Champions - Juan Diaz Mission | 214543 | [214543-captain-tsubasa-rise-of-new-champions-juan-diaz-mission.json](./214543-captain-tsubasa-rise-of-new-champions-juan-diaz-mission.json) |
+| Captain Tsubasa: Rise of New Champions - Special Edition | 139856 | [139856-captain-tsubasa-rise-of-new-champions-special-edition.json](./139856-captain-tsubasa-rise-of-new-champions-special-edition.json) |
 | Captain Tsubasa: Rise of New Champions - Tachibana Brothers Mission | 214542 | [214542-captain-tsubasa-rise-of-new-champions-tachibana-brothers-mission.json](./214542-captain-tsubasa-rise-of-new-champions-tachibana-brothers-mission.json) |
 | Captain Tsubasa: Rise of New Champions - Tsubasa Ozora Mission | 214544 | [214544-captain-tsubasa-rise-of-new-champions-tsubasa-ozora-mission.json](./214544-captain-tsubasa-rise-of-new-champions-tsubasa-ozora-mission.json) |
 | Captain Tsubasa: Rise of New Champions - Ultimate Edition | 268552 | [268552-captain-tsubasa-rise-of-new-champions-ultimate-edition.json](./268552-captain-tsubasa-rise-of-new-champions-ultimate-edition.json) |
@@ -3223,6 +3224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catan: Console Edition - Super Deluxe | 257426 | [257426-catan-console-edition-super-deluxe.json](./257426-catan-console-edition-super-deluxe.json) |
 | Catan: Console Edition - The Helpers | 275045 | [275045-catan-console-edition-the-helpers.json](./275045-catan-console-edition-the-helpers.json) |
 | Catan: Das Kartenspiel | 98936 | [98936-catan-das-kartenspiel.json](./98936-catan-das-kartenspiel.json) |
+| Catan: World Explorers | 139848 | [139848-catan-world-explorers.json](./139848-catan-world-explorers.json) |
 | Catana | 180993 | [180993-catana.json](./180993-catana.json) |
 | Catana: Red Flowers | 380560 | [380560-catana-red-flowers.json](./380560-catana-red-flowers.json) |
 | Catanks | 409404 | [409404-catanks.json](./409404-catanks.json) |
@@ -7956,6 +7958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clipped | 132588 | [132588-clipped.json](./132588-clipped.json) |
 | Clippyworld: An Unexpected Journey | 260787 | [260787-clippyworld-an-unexpected-journey.json](./260787-clippyworld-an-unexpected-journey.json) |
 | Clive 'N' Wrench | 59598 | [59598-clive-n-wrench.json](./59598-clive-n-wrench.json) |
+| Clive 'N' Wrench: Badge Edition | 139847 | [139847-clive-n-wrench-badge-edition.json](./139847-clive-n-wrench-badge-edition.json) |
 | Clive 'N' Wrench: Collector's Edition | 222955 | [222955-clive-n-wrench-collectors-edition.json](./222955-clive-n-wrench-collectors-edition.json) |
 | Clive Barker's Hellraiser: Revival | 356552 | [356552-clive-barkers-hellraiser-revival.json](./356552-clive-barkers-hellraiser-revival.json) |
 | Clive Barker's Jericho | 6939 | [6939-clive-barkers-jericho.json](./6939-clive-barkers-jericho.json) |
@@ -12558,6 +12561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crash Test Launcher | 132074 | [132074-crash-test-launcher.json](./132074-crash-test-launcher.json) |
 | Crash The Car Death Race | 364074 | [364074-crash-the-car-death-race.json](./364074-crash-the-car-death-race.json) |
 | Crash the Comet | 102595 | [102595-crash-the-comet.json](./102595-crash-the-comet.json) |
+| Crash the Core | 139669 | [139669-crash-the-core.json](./139669-crash-the-core.json) |
 | Crash the Game | 129703 | [129703-crash-the-game.json](./129703-crash-the-game.json) |
 | Crash Time 3D | 65544 | [65544-crash-time-3d.json](./65544-crash-time-3d.json) |
 | Crash Time 4: The Syndicate | 19973 | [19973-crash-time-4-the-syndicate.json](./19973-crash-time-4-the-syndicate.json) |
