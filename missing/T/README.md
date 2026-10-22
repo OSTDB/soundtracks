@@ -8,6 +8,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 |---|---|---|
 | T H E YV | 127979 | [127979-t-h-e-yv.json](./127979-t-h-e-yv.json) |
 | T kara Hajimaru Monogatari | 172737 | [172737-t-kara-hajimaru-monogatari.json](./172737-t-kara-hajimaru-monogatari.json) |
+| T Simulator | 118617 | [118617-t-simulator.json](./118617-t-simulator.json) |
 | T_ | 178850 | [178850-t.json](./178850-t.json) |
 | T-Bird | 122967 | [122967-t-bird.json](./122967-t-bird.json) |
 | T-Crisis 4 110% A.I. Turbo Remix Tetris | 374227 | [374227-t-crisis-4-110-a-i-turbo-remix-tetris.json](./374227-t-crisis-4-110-a-i-turbo-remix-tetris.json) |
@@ -1472,6 +1473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tanjas Sudoku | 101508 | [101508-tanjas-sudoku.json](./101508-tanjas-sudoku.json) |
 | Tanjou Debut | 41997 | [41997-tanjou-debut.json](./41997-tanjou-debut.json) |
 | Tanjoubi: Kayoizuma (Jishou) Nikki | 77939 | [77939-tanjoubi-kayoizuma-jishou-nikki.json](./77939-tanjoubi-kayoizuma-jishou-nikki.json) |
+| Tank | 118644 | [118644-tank.json](./118644-tank.json) |
 | Tank | 247025 | [247025-tank.json](./247025-tank.json) |
 | Tank 51 | 81649 | [81649-tank-51.json](./81649-tank-51.json) |
 | Tank Ace | 91852 | [91852-tank-ace.json](./91852-tank-ace.json) |
@@ -4941,6 +4943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Battle Road | 39617 | [39617-the-battle-road.json](./39617-the-battle-road.json) |
 | The Battles for Abunka | 210900 | [210900-the-battles-for-abunka.json](./210900-the-battles-for-abunka.json) |
 | The Battles of Napoleon | 54436 | [54436-the-battles-of-napoleon.json](./54436-the-battles-of-napoleon.json) |
+| The Battles of Spwak | 118625 | [118625-the-battles-of-spwak.json](./118625-the-battles-of-spwak.json) |
 | The Battles of Spwak 2 | 125705 | [125705-the-battles-of-spwak-2.json](./125705-the-battles-of-spwak-2.json) |
 | The Battles of Spwak 3 | 126601 | [126601-the-battles-of-spwak-3.json](./126601-the-battles-of-spwak-3.json) |
 | The Baumman Box | 372452 | [372452-the-baumman-box.json](./372452-the-baumman-box.json) |
@@ -7352,6 +7355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Final Hour | 190061 | [190061-the-final-hour.json](./190061-the-final-hour.json) |
 | The Final Hours of Mass Effect 3 | 202354 | [202354-the-final-hours-of-mass-effect-3.json](./202354-the-final-hours-of-mass-effect-3.json) |
 | The Final Hours of Titanfall | 36336 | [36336-the-final-hours-of-titanfall.json](./36336-the-final-hours-of-titanfall.json) |
+| The Final Image | 118650 | [118650-the-final-image.json](./118650-the-final-image.json) |
 | The Final Payphone | 351235 | [351235-the-final-payphone.json](./351235-the-final-payphone.json) |
 | The Final Pin | 262277 | [262277-the-final-pin.json](./262277-the-final-pin.json) |
 | The Final Print | 347777 | [347777-the-final-print.json](./347777-the-final-print.json) |
@@ -10039,6 +10043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legendary Starfy | 20280 | [20280-the-legendary-starfy.json](./20280-the-legendary-starfy.json) |
 | The Legendary Swords | 331369 | [331369-the-legendary-swords.json](./331369-the-legendary-swords.json) |
 | The Legends in Kylamar | 152698 | [152698-the-legends-in-kylamar.json](./152698-the-legends-in-kylamar.json) |
+| The Legends of Class One | 118628 | [118628-the-legends-of-class-one.json](./118628-the-legends-of-class-one.json) |
 | The Legends of Maui | 289990 | [289990-the-legends-of-maui.json](./289990-the-legends-of-maui.json) |
 | The Legends of Owlia | 30059 | [30059-the-legends-of-owlia.json](./30059-the-legends-of-owlia.json) |
 | The Legends of Oz: One Hundred Years of Oz | 269668 | [269668-the-legends-of-oz-one-hundred-years-of-oz.json](./269668-the-legends-of-oz-one-hundred-years-of-oz.json) |
@@ -11076,6 +11081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mythical City 4 | 327828 | [327828-the-mythical-city-4.json](./327828-the-mythical-city-4.json) |
 | The Naked Brothers Band | 5046 | [5046-the-naked-brothers-band.json](./5046-the-naked-brothers-band.json) |
 | The Naked Brothers Band: The Video Game | 47955 | [47955-the-naked-brothers-band-the-video-game.json](./47955-the-naked-brothers-band-the-video-game.json) |
+| The Name I Wear | 408022 | [408022-the-name-i-wear.json](./408022-the-name-i-wear.json) |
 | The Nameless | 178458 | [178458-the-nameless.json](./178458-the-nameless.json) |
 | The Nameless | 214126 | [214126-the-nameless.json](./214126-the-nameless.json) |
 | The Nameless Braves: Heaven | 207749 | [207749-the-nameless-braves-heaven.json](./207749-the-nameless-braves-heaven.json) |
@@ -14534,6 +14540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Violets of Amicus | 327330 | [327330-the-violets-of-amicus.json](./327330-the-violets-of-amicus.json) |
 | The Violinist | 298231 | [298231-the-violinist.json](./298231-the-violinist.json) |
 | The Viriditas Chapel of Perpetual Adoration | 241381 | [241381-the-viriditas-chapel-of-perpetual-adoration.json](./241381-the-viriditas-chapel-of-perpetual-adoration.json) |
+| The Virtual Mirror | 118665 | [118665-the-virtual-mirror.json](./118665-the-virtual-mirror.json) |
 | The Virtual Museum of Dead-Wifery | 188617 | [188617-the-virtual-museum-of-dead-wifery.json](./188617-the-virtual-museum-of-dead-wifery.json) |
 | The Virus | 156541 | [156541-the-virus.json](./156541-the-virus.json) |
 | The Virus Game | 375853 | [375853-the-virus-game.json](./375853-the-virus-game.json) |
