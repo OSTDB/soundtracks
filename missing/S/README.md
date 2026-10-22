@@ -16990,6 +16990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirit of Death | 294252 | [294252-spirit-of-death.json](./294252-spirit-of-death.json) |
 | Spirit of Excalibur | 70028 | [70028-spirit-of-excalibur.json](./70028-spirit-of-excalibur.json) |
 | Spirit of Maya | 29903 | [29903-spirit-of-maya.json](./29903-spirit-of-maya.json) |
+| Spirit of Revenge: Cursed Castle | 140226 | [140226-spirit-of-revenge-cursed-castle.json](./140226-spirit-of-revenge-cursed-castle.json) |
 | Spirit of Revenge: Cursed Castle - Collector's Edition | 30675 | [30675-spirit-of-revenge-cursed-castle-collectors-edition.json](./30675-spirit-of-revenge-cursed-castle-collectors-edition.json) |
 | Spirit of Revenge: Gem Fury | 53652 | [53652-spirit-of-revenge-gem-fury.json](./53652-spirit-of-revenge-gem-fury.json) |
 | Spirit of the Backwaters | 248076 | [248076-spirit-of-the-backwaters.json](./248076-spirit-of-the-backwaters.json) |
@@ -17064,6 +17065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirits of Mystery: Song of the Phoenix - Collector's Edition | 29620 | [29620-spirits-of-mystery-song-of-the-phoenix-collectors-edition.json](./29620-spirits-of-mystery-song-of-the-phoenix-collectors-edition.json) |
 | Spirits of Mystery: The Dark Minotaur | 62824 | [62824-spirits-of-mystery-the-dark-minotaur.json](./62824-spirits-of-mystery-the-dark-minotaur.json) |
 | Spirits of Mystery: The Moon Crystal | 187959 | [187959-spirits-of-mystery-the-moon-crystal.json](./187959-spirits-of-mystery-the-moon-crystal.json) |
+| Spirits of Mystery: The Silver Arrow | 140227 | [140227-spirits-of-mystery-the-silver-arrow.json](./140227-spirits-of-mystery-the-silver-arrow.json) |
 | Spirits of Mystery: The Silver Arrow - Collector's Edition | 93806 | [93806-spirits-of-mystery-the-silver-arrow-collectors-edition.json](./93806-spirits-of-mystery-the-silver-arrow-collectors-edition.json) |
 | Spirits of Mystery: Whisper of the Past | 302172 | [302172-spirits-of-mystery-whisper-of-the-past.json](./302172-spirits-of-mystery-whisper-of-the-past.json) |
 | Spirits of the Forest | 183839 | [183839-spirits-of-the-forest.json](./183839-spirits-of-the-forest.json) |
@@ -20920,6 +20922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stolen Memories II | 270882 | [270882-stolen-memories-ii.json](./270882-stolen-memories-ii.json) |
 | Stolen Mushrooms | 268224 | [268224-stolen-mushrooms.json](./268224-stolen-mushrooms.json) |
 | Stolen Rage | 149394 | [149394-stolen-rage.json](./149394-stolen-rage.json) |
+| Stolen Realm | 140445 | [140445-stolen-realm.json](./140445-stolen-realm.json) |
 | Stolen Realm Survivors | 325324 | [325324-stolen-realm-survivors.json](./325324-stolen-realm-survivors.json) |
 | Stolen Recovery | 133373 | [133373-stolen-recovery.json](./133373-stolen-recovery.json) |
 | Stolen Steel VR | 29568 | [29568-stolen-steel-vr.json](./29568-stolen-steel-vr.json) |
@@ -23560,6 +23563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Arcade Football | 19084 | [19084-super-arcade-football.json](./19084-super-arcade-football.json) |
 | Super Arcade Pinball | 217980 | [217980-super-arcade-pinball.json](./217980-super-arcade-pinball.json) |
 | Super Arcade Soccer | 115136 | [115136-super-arcade-soccer.json](./115136-super-arcade-soccer.json) |
+| Super Arcade Soccer 2021 | 140421 | [140421-super-arcade-soccer-2021.json](./140421-super-arcade-soccer-2021.json) |
 | Super Arcade Soccer 2026 | 405743 | [405743-super-arcade-soccer-2026.json](./405743-super-arcade-soccer-2026.json) |
 | Super Army of Tentacles 3: The Search for Army of Tentacles 2 - Isle of the Cat Girls | 225902 | [225902-super-army-of-tentacles-3-the-search-for-army-of-tentacles-2-isle-of-the-cat-girls.json](./225902-super-army-of-tentacles-3-the-search-for-army-of-tentacles-2-isle-of-the-cat-girls.json) |
 | Super Army of Tentacles 3: The Search for Army of Tentacles 2 - XPack II: Call of Koithulhu | 172367 | [172367-super-army-of-tentacles-3-the-search-for-army-of-tentacles-2-xpack-ii-call-of-koithulhu.json](./172367-super-army-of-tentacles-3-the-search-for-army-of-tentacles-2-xpack-ii-call-of-koithulhu.json) |
