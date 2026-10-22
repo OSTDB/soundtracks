@@ -3288,6 +3288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JustN | 119665 | [119665-justn.json](./119665-justn.json) |
 | JustWatchMyCat | 257380 | [257380-justwatchmycat.json](./257380-justwatchmycat.json) |
 | Justy x Nasty: Maou Hajimemashita | 60778 | [60778-justy-x-nasty-maou-hajimemashita.json](./60778-justy-x-nasty-maou-hajimemashita.json) |
+| Justy×Nasty: Maou Hajimemashita - Limited Edition | 149969 | [149969-justy-nasty-maou-hajimemashita-limited-edition.json](./149969-justy-nasty-maou-hajimemashita-limited-edition.json) |
 | Jut | 129578 | [129578-jut.json](./129578-jut.json) |
 | Juuden Youshuugi: Crimson Paraselene | 253929 | [253929-juuden-youshuugi-crimson-paraselene.json](./253929-juuden-youshuugi-crimson-paraselene.json) |
 | Juuken Sentai Gekiranger: Niki-niki! Kazu Katachi ni Challenge! | 327594 | [327594-juuken-sentai-gekiranger-niki-niki-kazu-katachi-ni-challenge.json](./327594-juuken-sentai-gekiranger-niki-niki-kazu-katachi-ni-challenge.json) |
