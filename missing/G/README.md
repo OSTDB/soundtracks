@@ -418,6 +418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Core | 278601 | [278601-galactic-core.json](./278601-galactic-core.json) |
 | Galactic Core: The Lost Fleet | 30100 | [30100-galactic-core-the-lost-fleet.json](./30100-galactic-core-the-lost-fleet.json) |
 | Galactic Counselors | 292245 | [292245-galactic-counselors.json](./292245-galactic-counselors.json) |
+| Galactic Crew II | 150994 | [150994-galactic-crew-ii.json](./150994-galactic-crew-ii.json) |
 | Galactic Crusader | 195039 | [195039-galactic-crusader.json](./195039-galactic-crusader.json) |
 | Galactic Dan | 97961 | [97961-galactic-dan.json](./97961-galactic-dan.json) |
 | Galactic Dating: Harem in Space Station | 292635 | [292635-galactic-dating-harem-in-space-station.json](./292635-galactic-dating-harem-in-space-station.json) |
@@ -1690,6 +1691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gate of Souls | 253308 | [253308-gate-of-souls.json](./253308-gate-of-souls.json) |
 | Gate Six: Cyber Persona | 122921 | [122921-gate-six-cyber-persona.json](./122921-gate-six-cyber-persona.json) |
 | Gate to Die | 412500 | [412500-gate-to-die.json](./412500-gate-to-die.json) |
+| Gate to Site 8 | 150989 | [150989-gate-to-site-8.json](./150989-gate-to-site-8.json) |
 | Gate Warfare | 367602 | [367602-gate-warfare.json](./367602-gate-warfare.json) |
 | Gate World | 46649 | [46649-gate-world.json](./46649-gate-world.json) |
 | Gate Zero | 247358 | [247358-gate-zero.json](./247358-gate-zero.json) |
@@ -1847,6 +1849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gear Senshi Dendoh | 19595 | [19595-gear-senshi-dendoh.json](./19595-gear-senshi-dendoh.json) |
 | Gear Slots | 389972 | [389972-gear-slots.json](./389972-gear-slots.json) |
 | Gear Stadium Heisei-ban | 46605 | [46605-gear-stadium-heisei-ban.json](./46605-gear-stadium-heisei-ban.json) |
+| Gear Stalker | 150996 | [150996-gear-stalker.json](./150996-gear-stalker.json) |
 | Gear Up Einstein! | 342137 | [342137-gear-up-einstein.json](./342137-gear-up-einstein.json) |
 | Gear Up: Premium | 90552 | [90552-gear-up-premium.json](./90552-gear-up-premium.json) |
 | Gear Works | 48999 | [48999-gear-works.json](./48999-gear-works.json) |
@@ -2924,6 +2927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost of a Tale | 7684 | [7684-ghost-of-a-tale.json](./7684-ghost-of-a-tale.json) |
 | Ghost of Dragon | 133143 | [133143-ghost-of-dragon.json](./133143-ghost-of-dragon.json) |
 | Ghost of the Fireflies | 68729 | [68729-ghost-of-the-fireflies.json](./68729-ghost-of-the-fireflies.json) |
+| Ghost of the Seas | 150995 | [150995-ghost-of-the-seas.json](./150995-ghost-of-the-seas.json) |
 | Ghost of Tokyo | 406790 | [406790-ghost-of-tokyo.json](./406790-ghost-of-tokyo.json) |
 | Ghost of Tomorrow: Chapter 1 | 168861 | [168861-ghost-of-tomorrow-chapter-1.json](./168861-ghost-of-tomorrow-chapter-1.json) |
 | Ghost of Tsushima: Launch Edition | 136178 | [136178-ghost-of-tsushima-launch-edition.json](./136178-ghost-of-tsushima-launch-edition.json) |
@@ -6124,6 +6128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grandia II | 9580 | [9580-grandia-ii.json](./9580-grandia-ii.json) |
 | Grandiose | 154581 | [154581-grandiose.json](./154581-grandiose.json) |
 | Grandma | 193676 | [193676-grandma.json](./193676-grandma.json) |
+| GrandMa Badass | 150914 | [150914-grandma-badass.json](./150914-grandma-badass.json) |
 | Grandma Cleaning Simulator: Family Business Tycoon | 308510 | [308510-grandma-cleaning-simulator-family-business-tycoon.json](./308510-grandma-cleaning-simulator-family-business-tycoon.json) |
 | Grandma Don't Click That! | 292938 | [292938-grandma-dont-click-that.json](./292938-grandma-dont-click-that.json) |
 | Grandma Green | 249353 | [249353-grandma-green.json](./249353-grandma-green.json) |
@@ -6495,6 +6500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravity Dash | 287225 | [287225-gravity-dash.json](./287225-gravity-dash.json) |
 | Gravity Dash 2 | 91092 | [91092-gravity-dash-2.json](./91092-gravity-dash-2.json) |
 | Gravity Dash 2 | 93499 | [93499-gravity-dash-2.json](./93499-gravity-dash-2.json) |
+| Gravity Defied: Trial Racing | 151054 | [151054-gravity-defied-trial-racing.json](./151054-gravity-defied-trial-racing.json) |
 | Gravity Den | 33177 | [33177-gravity-den.json](./33177-gravity-den.json) |
 | Gravity Duck | 121815 | [121815-gravity-duck.json](./121815-gravity-duck.json) |
 | Gravity Escape | 128255 | [128255-gravity-escape.json](./128255-gravity-escape.json) |
