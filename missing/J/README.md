@@ -2020,6 +2020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JoJo's Bizarre Adventure: Eyes of Heaven | 11565 | [11565-jojos-bizarre-adventure-eyes-of-heaven.json](./11565-jojos-bizarre-adventure-eyes-of-heaven.json) |
 | JoJo's Bizarre Adventure: Golden Spirit | 413426 | [413426-jojos-bizarre-adventure-golden-spirit.json](./413426-jojos-bizarre-adventure-golden-spirit.json) |
 | JoJo's Bizarre Adventure: Heritage for the Future | 75962 | [75962-jojos-bizarre-adventure-heritage-for-the-future.json](./75962-jojos-bizarre-adventure-heritage-for-the-future.json) |
+| JoJo's Bizarre Adventure: Last Survivor | 113433 | [113433-jojos-bizarre-adventure-last-survivor.json](./113433-jojos-bizarre-adventure-last-survivor.json) |
 | JoJo's Bizarre Adventure: Ora Ora Overdrive | 372767 | [372767-jojos-bizarre-adventure-ora-ora-overdrive.json](./372767-jojos-bizarre-adventure-ora-ora-overdrive.json) |
 | JoJo's Bizarre Adventure: Phantom Blood | 37045 | [37045-jojos-bizarre-adventure-phantom-blood.json](./37045-jojos-bizarre-adventure-phantom-blood.json) |
 | JoJo's Bizarre Adventure: Stardust Shooters | 62019 | [62019-jojos-bizarre-adventure-stardust-shooters.json](./62019-jojos-bizarre-adventure-stardust-shooters.json) |
@@ -3012,6 +3013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jurassic World Evolution 2: Park Managers' Collection Pack | 308278 | [308278-jurassic-world-evolution-2-park-managers-collection-pack.json](./308278-jurassic-world-evolution-2-park-managers-collection-pack.json) |
 | Jurassic World Evolution 3 | 347650 | [347650-jurassic-world-evolution-3.json](./347650-jurassic-world-evolution-3.json) |
 | Jurassic World Evolution 3: Deluxe Edition | 406704 | [406704-jurassic-world-evolution-3-deluxe-edition.json](./406704-jurassic-world-evolution-3-deluxe-edition.json) |
+| Jurassic World Evolution: Cretaceous Dinosaur Pack | 113368 | [113368-jurassic-world-evolution-cretaceous-dinosaur-pack.json](./113368-jurassic-world-evolution-cretaceous-dinosaur-pack.json) |
 | Jurassic World Evolution: Deluxe Dinosaur Pack | 226794 | [226794-jurassic-world-evolution-deluxe-dinosaur-pack.json](./226794-jurassic-world-evolution-deluxe-dinosaur-pack.json) |
 | Jurassic World Evolution: Dinosaur Collection | 227420 | [227420-jurassic-world-evolution-dinosaur-collection.json](./227420-jurassic-world-evolution-dinosaur-collection.json) |
 | Jurassic World Evolution: Expansion Collection | 164587 | [164587-jurassic-world-evolution-expansion-collection.json](./164587-jurassic-world-evolution-expansion-collection.json) |
