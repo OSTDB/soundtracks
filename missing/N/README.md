@@ -2260,6 +2260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Netrun 2000 | 314146 | [314146-netrun-2000.json](./314146-netrun-2000.json) |
 | Netrunner | 139112 | [139112-netrunner.json](./139112-netrunner.json) |
 | Netshell | 398015 | [398015-netshell.json](./398015-netshell.json) |
+| Netsoccer2 | 126247 | [126247-netsoccer2.json](./126247-netsoccer2.json) |
 | NetSpace Saga Ep.1 | 174076 | [174076-netspace-saga-ep-1.json](./174076-netspace-saga-ep-1.json) |
 | Netspectre | 211225 | [211225-netspectre.json](./211225-netspectre.json) |
 | NetStorm: Islands At War | 1358 | [1358-netstorm-islands-at-war.json](./1358-netstorm-islands-at-war.json) |
@@ -3771,6 +3772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nìjiàn 2 | 164947 | [164947-nijian-2.json](./164947-nijian-2.json) |
 | Nijica | 344420 | [344420-nijica.json](./344420-nijica.json) |
 | Nijiiro Twinkle: Guru-guru Daisakusen | 378171 | [378171-nijiiro-twinkle-guru-guru-daisakusen.json](./378171-nijiiro-twinkle-guru-guru-daisakusen.json) |
+| Nijowari: Where Angels Fall | 126262 | [126262-nijowari-where-angels-fall.json](./126262-nijowari-where-angels-fall.json) |
 | Nijuu Yuumu | 167127 | [167127-nijuu-yuumu.json](./167127-nijuu-yuumu.json) |
 | Nijuuei | 204499 | [204499-nijuuei.json](./204499-nijuuei.json) |
 | Nik and Kit Racing | 213351 | [213351-nik-and-kit-racing.json](./213351-nik-and-kit-racing.json) |
