@@ -3610,6 +3610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Wish | 159789 | [159789-death-wish.json](./159789-death-wish.json) |
 | Death Wish 3 | 13581 | [13581-death-wish-3.json](./13581-death-wish-3.json) |
 | Death Wore Endless Feathers | 168383 | [168383-death-wore-endless-feathers.json](./168383-death-wore-endless-feathers.json) |
+| Death World | 136118 | [136118-death-world.json](./136118-death-world.json) |
 | Death Worm | 337201 | [337201-death-worm.json](./337201-death-worm.json) |
 | Death Zone | 144854 | [144854-death-zone.json](./144854-death-zone.json) |
 | Death, Soul & Robots | 245854 | [245854-death-soul-and-robots.json](./245854-death-soul-and-robots.json) |
@@ -4465,6 +4466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deformers | 207118 | [207118-deformers.json](./207118-deformers.json) |
 | Deformity | 189854 | [189854-deformity.json](./189854-deformity.json) |
 | Deformuseum | 405485 | [405485-deformuseum.json](./405485-deformuseum.json) |
+| Defrag | 136116 | [136116-defrag.json](./136116-defrag.json) |
 | Defragmenting | 390232 | [390232-defragmenting.json](./390232-defragmenting.json) |
 | Defrain | 103390 | [103390-defrain.json](./103390-defrain.json) |
 | Deft | 182742 | [182742-deft.json](./182742-deft.json) |
@@ -5824,6 +5826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destroy All Humans! Big Willy Unleashed | 2716 | [2716-destroy-all-humans-big-willy-unleashed.json](./2716-destroy-all-humans-big-willy-unleashed.json) |
 | Destroy All Humans! Path of the Furon | 2717 | [2717-destroy-all-humans-path-of-the-furon.json](./2717-destroy-all-humans-path-of-the-furon.json) |
 | Destroy All Humans!: Clone Carnage | 203364 | [203364-destroy-all-humans-clone-carnage.json](./203364-destroy-all-humans-clone-carnage.json) |
+| Destroy All Humans!: Crypto 137 Edition | 136110 | [136110-destroy-all-humans-crypto-137-edition.json](./136110-destroy-all-humans-crypto-137-edition.json) |
 | Destroy All Letters | 312763 | [312763-destroy-all-letters.json](./312763-destroy-all-letters.json) |
 | Destroy All the Cubes | 169850 | [169850-destroy-all-the-cubes.json](./169850-destroy-all-the-cubes.json) |
 | Destroy All Zombies | 247974 | [247974-destroy-all-zombies.json](./247974-destroy-all-zombies.json) |
@@ -7024,6 +7027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digital Defender O.R.C. | 402496 | [402496-digital-defender-o-r-c.json](./402496-digital-defender-o-r-c.json) |
 | Digital Desktop Cats | 344406 | [344406-digital-desktop-cats.json](./344406-digital-desktop-cats.json) |
 | Digital Devil Saga: Avatar Tuner - A's Test Server | 136416 | [136416-digital-devil-saga-avatar-tuner-as-test-server.json](./136416-digital-devil-saga-avatar-tuner-as-test-server.json) |
+| Digital Devil Story: Megami Tensei | 136113 | [136113-digital-devil-story-megami-tensei.json](./136113-digital-devil-story-megami-tensei.json) |
 | Digital Devil Story: Megami Tensei II | 48656 | [48656-digital-devil-story-megami-tensei-ii.json](./48656-digital-devil-story-megami-tensei-ii.json) |
 | Digital Diamond Baseball | 86538 | [86538-digital-diamond-baseball.json](./86538-digital-diamond-baseball.json) |
 | Digital Diamond Baseball V11 | 243052 | [243052-digital-diamond-baseball-v11.json](./243052-digital-diamond-baseball-v11.json) |
@@ -7860,6 +7864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dishonest | 120934 | [120934-dishonest.json](./120934-dishonest.json) |
 | Dishonor Thy Neighbor | 105727 | [105727-dishonor-thy-neighbor.json](./105727-dishonor-thy-neighbor.json) |
 | Dishonored 2: Collector's Edition | 136269 | [136269-dishonored-2-collectors-edition.json](./136269-dishonored-2-collectors-edition.json) |
+| Dishonored 2: Jewel of the South Pack | 136124 | [136124-dishonored-2-jewel-of-the-south-pack.json](./136124-dishonored-2-jewel-of-the-south-pack.json) |
 | Dishonored 2: Limited Edition | 255606 | [255606-dishonored-2-limited-edition.json](./255606-dishonored-2-limited-edition.json) |
 | Dishonored 2: Steelbook Edition | 308562 | [308562-dishonored-2-steelbook-edition.json](./308562-dishonored-2-steelbook-edition.json) |
 | Dishonored 3 | 267308 | [267308-dishonored-3.json](./267308-dishonored-3.json) |
