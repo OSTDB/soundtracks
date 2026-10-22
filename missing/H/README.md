@@ -5956,6 +5956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Highschool53 | 280340 | [280340-highschool53.json](./280340-highschool53.json) |
 | Highscore | 238592 | [238592-highscore.json](./238592-highscore.json) |
 | HighScore Anomaly Shop | 292442 | [292442-highscore-anomaly-shop.json](./292442-highscore-anomaly-shop.json) |
+| Highscore Hunter Hodgepodge | 129412 | [129412-highscore-hunter-hodgepodge.json](./129412-highscore-hunter-hodgepodge.json) |
 | Highscore Processing Unit | 99645 | [99645-highscore-processing-unit.json](./99645-highscore-processing-unit.json) |
 | HighSpell | 341850 | [341850-highspell.json](./341850-highspell.json) |
 | Hightide | 215347 | [215347-hightide.json](./215347-hightide.json) |
