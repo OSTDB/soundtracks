@@ -428,6 +428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Dan | 97961 | [97961-galactic-dan.json](./97961-galactic-dan.json) |
 | Galactic Dating: Harem in Space Station | 292635 | [292635-galactic-dating-harem-in-space-station.json](./292635-galactic-dating-harem-in-space-station.json) |
 | Galactic Deck Clash | 373680 | [373680-galactic-deck-clash.json](./373680-galactic-deck-clash.json) |
+| Galactic Defence Squadron | 125680 | [125680-galactic-defence-squadron.json](./125680-galactic-defence-squadron.json) |
 | Galactic Defender | 261338 | [261338-galactic-defender.json](./261338-galactic-defender.json) |
 | Galactic Defenders | 263392 | [263392-galactic-defenders.json](./263392-galactic-defenders.json) |
 | Galactic Diner | 199257 | [199257-galactic-diner.json](./199257-galactic-diner.json) |
@@ -807,6 +808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galia Senki: Yuuhen Annales | 157979 | [157979-galia-senki-yuuhen-annales.json](./157979-galia-senki-yuuhen-annales.json) |
 | Galidor Quest | 214944 | [214944-galidor-quest.json](./214944-galidor-quest.json) |
 | Galidor: Defenders of the Outer Dimension | 316808 | [316808-galidor-defenders-of-the-outer-dimension.json](./316808-galidor-defenders-of-the-outer-dimension.json) |
+| Galileo | 125676 | [125676-galileo.json](./125676-galileo.json) |
 | Galileo Mystery: The Crown of Midas | 268118 | [268118-galileo-mystery-the-crown-of-midas.json](./268118-galileo-mystery-the-crown-of-midas.json) |
 | Galimulator | 89971 | [89971-galimulator.json](./89971-galimulator.json) |
 | Galix: NewHorizons | 304695 | [304695-galix-newhorizons.json](./304695-galix-newhorizons.json) |
@@ -1548,6 +1550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garfield's Diner | 63863 | [63863-garfields-diner.json](./63863-garfields-diner.json) |
 | Garfield's Diner Hawaii | 63860 | [63860-garfields-diner-hawaii.json](./63860-garfields-diner-hawaii.json) |
 | Garfield's Escape | 63869 | [63869-garfields-escape.json](./63869-garfields-escape.json) |
+| Garfield's Fun Fest | 125673 | [125673-garfields-fun-fest.json](./125673-garfields-fun-fest.json) |
 | Garfield's Gem | 63861 | [63861-garfields-gem.json](./63861-garfields-gem.json) |
 | Garfield's Nightmare | 67853 | [67853-garfields-nightmare.json](./67853-garfields-nightmare.json) |
 | Garfield's Scary Scavenger Hunt | 124418 | [124418-garfields-scary-scavenger-hunt.json](./124418-garfields-scary-scavenger-hunt.json) |
@@ -6548,6 +6551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravity Cab | 270132 | [270132-gravity-cab.json](./270132-gravity-cab.json) |
 | Gravity Cat | 143705 | [143705-gravity-cat.json](./143705-gravity-cat.json) |
 | Gravity Cat | 32853 | [32853-gravity-cat.json](./32853-gravity-cat.json) |
+| Gravity Chase | 125656 | [125656-gravity-chase.json](./125656-gravity-chase.json) |
 | Gravity Circuit Jukebox | 309032 | [309032-gravity-circuit-jukebox.json](./309032-gravity-circuit-jukebox.json) |
 | Gravity Circuit: Deluxe Edition | 309034 | [309034-gravity-circuit-deluxe-edition.json](./309034-gravity-circuit-deluxe-edition.json) |
 | Gravity Compass | 33585 | [33585-gravity-compass.json](./33585-gravity-compass.json) |
@@ -6575,6 +6579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravity Force | 357726 | [357726-gravity-force.json](./357726-gravity-force.json) |
 | Gravity Game | 187265 | [187265-gravity-game.json](./187265-gravity-game.json) |
 | Gravity Games Bike: Street Vert Dirt | 5851 | [5851-gravity-games-bike-street-vert-dirt.json](./5851-gravity-games-bike-street-vert-dirt.json) |
+| Gravity Garden | 125685 | [125685-gravity-garden.json](./125685-gravity-garden.json) |
 | Gravity Garden | 365759 | [365759-gravity-garden.json](./365759-gravity-garden.json) |
 | Gravity Golf | 180459 | [180459-gravity-golf.json](./180459-gravity-golf.json) |
 | Gravity Golfing | 255054 | [255054-gravity-golfing.json](./255054-gravity-golfing.json) |
