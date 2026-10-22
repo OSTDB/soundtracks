@@ -3714,6 +3714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perspective | 80820 | [80820-perspective.json](./80820-perspective.json) |
 | Perspectives: Aleppo-Helsinki | 75160 | [75160-perspectives-aleppo-helsinki.json](./75160-perspectives-aleppo-helsinki.json) |
 | Perspectives: Paradise | 115007 | [115007-perspectives-paradise.json](./115007-perspectives-paradise.json) |
+| Perspecto | 101276 | [101276-perspecto.json](./101276-perspecto.json) |
 | Perspectre | 395692 | [395692-perspectre.json](./395692-perspectre.json) |
 | Perspectrip | 75206 | [75206-perspectrip.json](./75206-perspectrip.json) |
 | Perspectrum | 106613 | [106613-perspectrum.json](./106613-perspectrum.json) |
@@ -13254,6 +13255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psycho Slasher | 176265 | [176265-psycho-slasher.json](./176265-psycho-slasher.json) |
 | Psycho Soldier | 41086 | [41086-psycho-soldier.json](./41086-psycho-soldier.json) |
 | Psycho Sphere | 389499 | [389499-psycho-sphere.json](./389499-psycho-sphere.json) |
+| Psycho Squirrels | 101260 | [101260-psycho-squirrels.json](./101260-psycho-squirrels.json) |
 | Psycho Starship Rampage | 34856 | [34856-psycho-starship-rampage.json](./34856-psycho-starship-rampage.json) |
 | Psycho Strafe | 358969 | [358969-psycho-strafe.json](./358969-psycho-strafe.json) |
 | Psycho Train | 53483 | [53483-psycho-train.json](./53483-psycho-train.json) |
