@@ -2142,6 +2142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual Reality Studio | 131498 | [131498-virtual-reality-studio.json](./131498-virtual-reality-studio.json) |
 | Virtual Reality Studio 2.0 | 100130 | [100130-virtual-reality-studio-2-0.json](./100130-virtual-reality-studio-2-0.json) |
 | Virtual Reality Vol. 2 | 100128 | [100128-virtual-reality-vol-2.json](./100128-virtual-reality-vol-2.json) |
+| Virtual Regatta Offshore | 140846 | [140846-virtual-regatta-offshore.json](./140846-virtual-regatta-offshore.json) |
 | Virtual Rehab Art 4 Health | 172181 | [172181-virtual-rehab-art-4-health.json](./172181-virtual-rehab-art-4-health.json) |
 | Virtual Resort: Spring Break | 205978 | [205978-virtual-resort-spring-break.json](./205978-virtual-resort-spring-break.json) |
 | Virtual Ricochet | 150756 | [150756-virtual-ricochet.json](./150756-virtual-ricochet.json) |
