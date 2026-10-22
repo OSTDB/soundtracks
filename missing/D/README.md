@@ -524,6 +524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dana The Cyber Relic | 417952 | [417952-dana-the-cyber-relic.json](./417952-dana-the-cyber-relic.json) |
 | Danball Senki | 321466 | [321466-danball-senki.json](./321466-danball-senki.json) |
 | Danball Senki | 72572 | [72572-danball-senki.json](./72572-danball-senki.json) |
+| Danball Senki Baku Boost | 136914 | [136914-danball-senki-baku-boost.json](./136914-danball-senki-baku-boost.json) |
 | Danball Senki Boost | 146768 | [146768-danball-senki-boost.json](./146768-danball-senki-boost.json) |
 | Danball Senki W Chou Custom | 59406 | [59406-danball-senki-w-chou-custom.json](./59406-danball-senki-w-chou-custom.json) |
 | Danball Senki Wars | 59404 | [59404-danball-senki-wars.json](./59404-danball-senki-wars.json) |
@@ -2603,11 +2604,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead by Daylight: Stranger Things - Jonathan Byers | 358410 | [358410-dead-by-daylight-stranger-things-jonathan-byers.json](./358410-dead-by-daylight-stranger-things-jonathan-byers.json) |
 | Dead by Daylight: Stranger Things Chapter | 129473 | [129473-dead-by-daylight-stranger-things-chapter.json](./129473-dead-by-daylight-stranger-things-chapter.json) |
 | Dead by Daylight: Stranger Things Edition | 164813 | [164813-dead-by-daylight-stranger-things-edition.json](./164813-dead-by-daylight-stranger-things-edition.json) |
+| Dead by Daylight: Survivor Edition | 136716 | [136716-dead-by-daylight-survivor-edition.json](./136716-dead-by-daylight-survivor-edition.json) |
 | Dead by Daylight: The 80's Suitcase | 227406 | [227406-dead-by-daylight-the-80s-suitcase.json](./227406-dead-by-daylight-the-80s-suitcase.json) |
 | Dead by Daylight: The Bloodstained Sack | 227407 | [227407-dead-by-daylight-the-bloodstained-sack.json](./227407-dead-by-daylight-the-bloodstained-sack.json) |
 | Dead by Daylight: The Halloween Chapter | 76221 | [76221-dead-by-daylight-the-halloween-chapter.json](./76221-dead-by-daylight-the-halloween-chapter.json) |
 | Dead by Daylight: The Last Breath Chapter | 76220 | [76220-dead-by-daylight-the-last-breath-chapter.json](./76220-dead-by-daylight-the-last-breath-chapter.json) |
 | Dead by Daylight: The Saw Chapter | 129471 | [129471-dead-by-daylight-the-saw-chapter.json](./129471-dead-by-daylight-the-saw-chapter.json) |
+| Dead by Daylight: The Story of Yamaoka Family | 136714 | [136714-dead-by-daylight-the-story-of-yamaoka-family.json](./136714-dead-by-daylight-the-story-of-yamaoka-family.json) |
 | Dead by Daylight: The Walking Dead | 358407 | [358407-dead-by-daylight-the-walking-dead.json](./358407-dead-by-daylight-the-walking-dead.json) |
 | Dead by Daylight: The Walking Dead - Daryl Dixon | 358409 | [358409-dead-by-daylight-the-walking-dead-daryl-dixon.json](./358409-dead-by-daylight-the-walking-dead-daryl-dixon.json) |
 | Dead by Daylight: Tools of Torment Chapter | 241319 | [241319-dead-by-daylight-tools-of-torment-chapter.json](./241319-dead-by-daylight-tools-of-torment-chapter.json) |
@@ -3480,6 +3483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Mark: Limited Edition | 200990 | [200990-death-mark-limited-edition.json](./200990-death-mark-limited-edition.json) |
 | Death Mask | 359982 | [359982-death-mask.json](./359982-death-mask.json) |
 | Death Match | 416694 | [416694-death-match.json](./416694-death-match.json) |
+| Death Match Love Comedy! | 136702 | [136702-death-match-love-comedy.json](./136702-death-match-love-comedy.json) |
 | Death Maze | 109613 | [109613-death-maze.json](./109613-death-maze.json) |
 | Death Merchant | 293228 | [293228-death-merchant.json](./293228-death-merchant.json) |
 | Death Metro | 177200 | [177200-death-metro.json](./177200-death-metro.json) |
@@ -5328,6 +5332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Der Weichensteller: Odyssey Live | 309108 | [309108-der-weichensteller-odyssey-live.json](./309108-der-weichensteller-odyssey-live.json) |
 | Der Zorn Gottes | 308241 | [308241-der-zorn-gottes.json](./308241-der-zorn-gottes.json) |
 | Derace | 393602 | [393602-derace.json](./393602-derace.json) |
+| Déraciné: Collector's Edition | 136701 | [136701-deracine-collectors-edition.json](./136701-deracine-collectors-edition.json) |
 | Derail: Sacrifice | 351057 | [351057-derail-sacrifice.json](./351057-derail-sacrifice.json) |
 | DeRailed | 169664 | [169664-derailed.json](./169664-derailed.json) |
 | DeRailed | 179438 | [179438-derailed.json](./179438-derailed.json) |
@@ -8845,6 +8850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dodgy Geezers | 13598 | [13598-dodgy-geezers.json](./13598-dodgy-geezers.json) |
 | Dodgy Rocks | 133988 | [133988-dodgy-rocks.json](./133988-dodgy-rocks.json) |
 | Dodo | 277973 | [277973-dodo.json](./277973-dodo.json) |
+| Dodo Adventures | 136894 | [136894-dodo-adventures.json](./136894-dodo-adventures.json) |
 | Dodo Fly: New World | 241824 | [241824-dodo-fly-new-world.json](./241824-dodo-fly-new-world.json) |
 | DoDodge | 231330 | [231330-dododge.json](./231330-dododge.json) |
 | DoDodge2020 | 209674 | [209674-dododge2020.json](./209674-dododge2020.json) |
@@ -14536,6 +14542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dustoria | 347570 | [347570-dustoria.json](./347570-dustoria.json) |
 | Dustpine District | 419858 | [419858-dustpine-district.json](./419858-dustpine-district.json) |
 | Dustpocalypse | 422136 | [422136-dustpocalypse.json](./422136-dustpocalypse.json) |
+| Dusttale | 136912 | [136912-dusttale.json](./136912-dusttale.json) |
 | Dusttale Reimagined | 329662 | [329662-dusttale-reimagined.json](./329662-dusttale-reimagined.json) |
 | Dusttale: The Genocide's End | 362333 | [362333-dusttale-the-genocides-end.json](./362333-dusttale-the-genocides-end.json) |
 | Dusttale: The Murderous Comedy | 320339 | [320339-dusttale-the-murderous-comedy.json](./320339-dusttale-the-murderous-comedy.json) |
