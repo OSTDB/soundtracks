@@ -2124,6 +2124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 4Thewords | 137942 | [137942-4thewords.json](./137942-4thewords.json) |
 | 4Towers Onslaught | 235155 | [235155-4towers-onslaught.json](./235155-4towers-onslaught.json) |
 | 4WD Wild Rally | 300005 | [300005-4wd-wild-rally.json](./300005-4wd-wild-rally.json) |
+| 4X-Galaxy | 109326 | [109326-4x-galaxy.json](./109326-4x-galaxy.json) |
 | 4X4 | 219513 | [219513-4x4.json](./219513-4x4.json) |
 | 4x4 Adventure Rocky Pathways | 320371 | [320371-4x4-adventure-rocky-pathways.json](./320371-4x4-adventure-rocky-pathways.json) |
 | 4x4 Buggy Race Outlaws | 106737 | [106737-4x4-buggy-race-outlaws.json](./106737-4x4-buggy-race-outlaws.json) |
