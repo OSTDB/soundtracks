@@ -2299,6 +2299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Schlag den Star: Das 2. Spiel | 144617 | [144617-schlag-den-star-das-2-spiel.json](./144617-schlag-den-star-das-2-spiel.json) |
 | Schlag den Star: Das 3. Spiel | 256216 | [256216-schlag-den-star-das-3-spiel.json](./256216-schlag-den-star-das-3-spiel.json) |
 | Schlag den Star: Das Spiel | 78045 | [78045-schlag-den-star-das-spiel.json](./78045-schlag-den-star-das-spiel.json) |
+| Schlenderman | 141466 | [141466-schlenderman.json](./141466-schlenderman.json) |
 | Schlo Complications | 298792 | [298792-schlo-complications.json](./298792-schlo-complications.json) |
 | Schlo Pink and Purple | 298791 | [298791-schlo-pink-and-purple.json](./298791-schlo-pink-and-purple.json) |
 | Schlo: Final Stand | 298789 | [298789-schlo-final-stand.json](./298789-schlo-final-stand.json) |
@@ -2485,6 +2486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scooby-Doo 2: Monsters Unleashed - Escape from the Coolsonian | 327821 | [327821-scooby-doo-2-monsters-unleashed-escape-from-the-coolsonian.json](./327821-scooby-doo-2-monsters-unleashed-escape-from-the-coolsonian.json) |
 | Scooby-Doo and a Mummy, Too! | 242031 | [242031-scooby-doo-and-a-mummy-too.json](./242031-scooby-doo-and-a-mummy-too.json) |
 | Scooby-Doo and Scrappy-Doo | 13078 | [13078-scooby-doo-and-scrappy-doo.json](./13078-scooby-doo-and-scrappy-doo.json) |
+| Scooby-Doo and the Creepy Castle | 141456 | [141456-scooby-doo-and-the-creepy-castle.json](./141456-scooby-doo-and-the-creepy-castle.json) |
 | Scooby-Doo and the Cyber Chase | 248593 | [248593-scooby-doo-and-the-cyber-chase.json](./248593-scooby-doo-and-the-cyber-chase.json) |
 | Scooby-Doo and the Cyber Chase | 2859 | [2859-scooby-doo-and-the-cyber-chase.json](./2859-scooby-doo-and-the-cyber-chase.json) |
 | Scooby-Doo and the Mystery of the Castle | 220107 | [220107-scooby-doo-and-the-mystery-of-the-castle.json](./220107-scooby-doo-and-the-mystery-of-the-castle.json) |
@@ -2500,6 +2502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scooby-Doo! Classic Creep Capers | 249116 | [249116-scooby-doo-classic-creep-capers.json](./249116-scooby-doo-classic-creep-capers.json) |
 | Scooby-Doo! Classic Creep Capers | 2858 | [2858-scooby-doo-classic-creep-capers.json](./2858-scooby-doo-classic-creep-capers.json) |
 | Scooby-Doo! First Frights | 2862 | [2862-scooby-doo-first-frights.json](./2862-scooby-doo-first-frights.json) |
+| Scooby-Doo! in the Ghosts of Pirate Beach | 141457 | [141457-scooby-doo-in-the-ghosts-of-pirate-beach.json](./141457-scooby-doo-in-the-ghosts-of-pirate-beach.json) |
 | Scooby-Doo! Mystery of the Fun Park Phantom | 2857 | [2857-scooby-doo-mystery-of-the-fun-park-phantom.json](./2857-scooby-doo-mystery-of-the-fun-park-phantom.json) |
 | Scooby-Doo! Night of 100 Frights | 2860 | [2860-scooby-doo-night-of-100-frights.json](./2860-scooby-doo-night-of-100-frights.json) |
 | Scooby-Doo! Unmasked | 210729 | [210729-scooby-doo-unmasked.json](./210729-scooby-doo-unmasked.json) |
@@ -6129,6 +6132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shelter of Exiles | 276821 | [276821-shelter-of-exiles.json](./276821-shelter-of-exiles.json) |
 | Shelter of Sursur | 350367 | [350367-shelter-of-sursur.json](./350367-shelter-of-sursur.json) |
 | Shelter of Sursur 2 | 350606 | [350606-shelter-of-sursur-2.json](./350606-shelter-of-sursur-2.json) |
+| Shelter War | 141458 | [141458-shelter-war.json](./141458-shelter-war.json) |
 | Sheltered 2 | 152285 | [152285-sheltered-2.json](./152285-sheltered-2.json) |
 | Sheltered Double Pack | 186885 | [186885-sheltered-double-pack.json](./186885-sheltered-double-pack.json) |
 | Sheltered From the Storm | 373865 | [373865-sheltered-from-the-storm.json](./373865-sheltered-from-the-storm.json) |
@@ -9008,6 +9012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SirKwitz | 306336 | [306336-sirkwitz.json](./306336-sirkwitz.json) |
 | Sirocco | 298272 | [298272-sirocco.json](./298272-sirocco.json) |
 | SirVive | 334563 | [334563-sirvive.json](./334563-sirvive.json) |
+| Sirwood | 141708 | [141708-sirwood.json](./141708-sirwood.json) |
 | Sis and Bro The Cyborg Siblings | 292962 | [292962-sis-and-bro-the-cyborg-siblings.json](./292962-sis-and-bro-the-cyborg-siblings.json) |
 | Sisão | 172558 | [172558-sisao.json](./172558-sisao.json) |
 | Sissa's Path | 211116 | [211116-sissas-path.json](./211116-sissas-path.json) |
@@ -12194,6 +12199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soccer Cup Solitaire | 87064 | [87064-soccer-cup-solitaire.json](./87064-soccer-cup-solitaire.json) |
 | Soccer Cup: World League | 232135 | [232135-soccer-cup-world-league.json](./232135-soccer-cup-world-league.json) |
 | Soccer Defense | 231897 | [231897-soccer-defense.json](./231897-soccer-defense.json) |
+| Soccer Director | 141459 | [141459-soccer-director.json](./141459-soccer-director.json) |
 | Soccer Empire: The Dream Begins | 256166 | [256166-soccer-empire-the-dream-begins.json](./256166-soccer-empire-the-dream-begins.json) |
 | Soccer Feeling | 59444 | [59444-soccer-feeling.json](./59444-soccer-feeling.json) |
 | Soccer for Arcadia 2001 | 131540 | [131540-soccer-for-arcadia-2001.json](./131540-soccer-for-arcadia-2001.json) |
@@ -12233,11 +12239,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soccer Pinball | 80790 | [80790-soccer-pinball.json](./80790-soccer-pinball.json) |
 | Soccer Player Simulator | 116473 | [116473-soccer-player-simulator.json](./116473-soccer-player-simulator.json) |
 | Soccer Puzzle | 391351 | [391351-soccer-puzzle.json](./391351-soccer-puzzle.json) |
+| Soccer Q | 141460 | [141460-soccer-q.json](./141460-soccer-q.json) |
 | Soccer Rally | 175287 | [175287-soccer-rally.json](./175287-soccer-rally.json) |
 | Soccer Rally | 210079 | [210079-soccer-rally.json](./210079-soccer-rally.json) |
 | Soccer RPG: Become the coach for the national team! | 94259 | [94259-soccer-rpg-become-the-coach-for-the-national-team.json](./94259-soccer-rpg-become-the-coach-for-the-national-team.json) |
 | Soccer Shooter | 247063 | [247063-soccer-shooter.json](./247063-soccer-shooter.json) |
 | Soccer Showdown 3 | 233735 | [233735-soccer-showdown-3.json](./233735-soccer-showdown-3.json) |
+| Soccer Skills | 141461 | [141461-soccer-skills.json](./141461-soccer-skills.json) |
 | Soccer Slam! | 233536 | [233536-soccer-slam.json](./233536-soccer-slam.json) |
 | Soccer Slammers | 85382 | [85382-soccer-slammers.json](./85382-soccer-slammers.json) |
 | Soccer Spirits | 60597 | [60597-soccer-spirits.json](./60597-soccer-spirits.json) |
@@ -13348,6 +13356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Daybreak | 370215 | [370215-sonic-daybreak.json](./370215-sonic-daybreak.json) |
 | Sonic Debut | 337169 | [337169-sonic-debut.json](./337169-sonic-debut.json) |
 | Sonic Definitive | 370216 | [370216-sonic-definitive.json](./370216-sonic-definitive.json) |
+| Sonic Delta 40Mb | 141474 | [141474-sonic-delta-40mb.json](./141474-sonic-delta-40mb.json) |
 | Sonic Destiny | 331715 | [331715-sonic-destiny.json](./331715-sonic-destiny.json) |
 | Sonic Digitalized | 326152 | [326152-sonic-digitalized.json](./326152-sonic-digitalized.json) |
 | Sonic Dimensional Funkin' | 271066 | [271066-sonic-dimensional-funkin.json](./271066-sonic-dimensional-funkin.json) |
@@ -14430,6 +14439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Souldiers: Digital Deluxe Edition | 203687 | [203687-souldiers-digital-deluxe-edition.json](./203687-souldiers-digital-deluxe-edition.json) |
 | Souldrop | 198075 | [198075-souldrop.json](./198075-souldrop.json) |
 | Soulers | 280122 | [280122-soulers.json](./280122-soulers.json) |
+| Soulestination | 141462 | [141462-soulestination.json](./141462-soulestination.json) |
 | Soulfall | 326258 | [326258-soulfall.json](./326258-soulfall.json) |
 | SoulFeast | 369559 | [369559-soulfeast.json](./369559-soulfeast.json) |
 | Soulfire: Weapon Master | 152906 | [152906-soulfire-weapon-master.json](./152906-soulfire-weapon-master.json) |
