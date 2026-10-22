@@ -2318,6 +2318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hazard | 377355 | [377355-hazard.json](./377355-hazard.json) |
 | Hazard Hill Idle | 247602 | [247602-hazard-hill-idle.json](./247602-hazard-hill-idle.json) |
 | Hazard Level | 177007 | [177007-hazard-level.json](./177007-hazard-level.json) |
+| Hazard Ops | 138066 | [138066-hazard-ops.json](./138066-hazard-ops.json) |
 | Hazard Pay | 291764 | [291764-hazard-pay.json](./291764-hazard-pay.json) |
 | Hazard Protocol | 280335 | [280335-hazard-protocol.json](./280335-hazard-protocol.json) |
 | Hazard Run | 25805 | [25805-hazard-run.json](./25805-hazard-run.json) |
@@ -2798,6 +2799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heavy Barrel | 412812 | [412812-heavy-barrel.json](./412812-heavy-barrel.json) |
 | Heavy Barrel | 46776 | [46776-heavy-barrel.json](./46776-heavy-barrel.json) |
 | Heavy Blade | 98764 | [98764-heavy-blade.json](./98764-heavy-blade.json) |
+| Heavy Boxing | 137860 | [137860-heavy-boxing.json](./137860-heavy-boxing.json) |
 | Heavy Burden | 207672 | [207672-heavy-burden.json](./207672-heavy-burden.json) |
 | Heavy Burden VR | 372459 | [372459-heavy-burden-vr.json](./372459-heavy-burden-vr.json) |
 | Heavy Car Battle: Demolition Derby | 276957 | [276957-heavy-car-battle-demolition-derby.json](./276957-heavy-car-battle-demolition-derby.json) |
@@ -7541,6 +7543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoop Route | 55713 | [55713-hoop-route.json](./55713-hoop-route.json) |
 | Hoop Smash | 116418 | [116418-hoop-smash.json](./116418-hoop-smash.json) |
 | HooperVania | 265859 | [265859-hoopervania.json](./265859-hoopervania.json) |
+| Hoopin' It Up | 137859 | [137859-hoopin-it-up.json](./137859-hoopin-it-up.json) |
 | Hooplord | 132611 | [132611-hooplord.json](./132611-hooplord.json) |
 | Hoops Madness | 140354 | [140354-hoops-madness.json](./140354-hoops-madness.json) |
 | Hoops Manager 2 | 175249 | [175249-hoops-manager-2.json](./175249-hoops-manager-2.json) |
