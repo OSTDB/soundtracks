@@ -4249,6 +4249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deer Hunter 2018 | 87034 | [87034-deer-hunter-2018.json](./87034-deer-hunter-2018.json) |
 | Deer Hunter Classic | 86940 | [86940-deer-hunter-classic.json](./86940-deer-hunter-classic.json) |
 | Deer Hunter Companion | 64371 | [64371-deer-hunter-companion.json](./64371-deer-hunter-companion.json) |
+| deer hunter II | 129421 | [129421-deer-hunter-ii.json](./129421-deer-hunter-ii.json) |
 | Deer Hunter II: Extended Season | 64366 | [64366-deer-hunter-ii-extended-season.json](./64366-deer-hunter-ii-extended-season.json) |
 | Deer Hunter Online | 64364 | [64364-deer-hunter-online.json](./64364-deer-hunter-online.json) |
 | Deer Hunter Reloaded | 136399 | [136399-deer-hunter-reloaded.json](./136399-deer-hunter-reloaded.json) |
@@ -4301,6 +4302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defend Earth: Xenos Survivors | 320738 | [320738-defend-earth-xenos-survivors.json](./320738-defend-earth-xenos-survivors.json) |
 | Defend from Candyland! | 186675 | [186675-defend-from-candyland.json](./186675-defend-from-candyland.json) |
 | Defend Him, Not Me! | 318800 | [318800-defend-him-not-me.json](./318800-defend-him-not-me.json) |
+| Defend Home | 129435 | [129435-defend-home.json](./129435-defend-home.json) |
 | Defend Homeland | 217397 | [217397-defend-homeland.json](./217397-defend-homeland.json) |
 | Defend London | 104722 | [104722-defend-london.json](./104722-defend-london.json) |
 | Defend or Die | 12991 | [12991-defend-or-die.json](./12991-defend-or-die.json) |
@@ -7243,6 +7245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dingleberries | 132509 | [132509-dingleberries.json](./132509-dingleberries.json) |
 | Dinglehoppers | 246534 | [246534-dinglehoppers.json](./246534-dinglehoppers.json) |
 | Dingletopia: Nation Under Siege (by Orcs) | 133410 | [133410-dingletopia-nation-under-siege-by-orcs.json](./133410-dingletopia-nation-under-siege-by-orcs.json) |
+| Dininho Adventures | 129463 | [129463-dininho-adventures.json](./129463-dininho-adventures.json) |
 | Dink Smallwood | 11345 | [11345-dink-smallwood.json](./11345-dink-smallwood.json) |
 | Dink Smallwood HD | 272807 | [272807-dink-smallwood-hd.json](./272807-dink-smallwood-hd.json) |
 | Dinkie Dino | 284450 | [284450-dinkie-dino.json](./284450-dinkie-dino.json) |
@@ -9222,6 +9225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dolan Reborn | 265685 | [265685-dolan-reborn.json](./265685-dolan-reborn.json) |
 | Dolce | 229972 | [229972-dolce.json](./229972-dolce.json) |
 | Dole: 5 A Day Adventures | 210113 | [210113-dole-5-a-day-adventures.json](./210113-dole-5-a-day-adventures.json) |
+| Doler | 129446 | [129446-doler.json](./129446-doler.json) |
 | Dolguth | 34721 | [34721-dolguth.json](./34721-dolguth.json) |
 | Dolgyeogyongsa Kiugi: Bangchihyeong RPG | 224402 | [224402-dolgyeogyongsa-kiugi-bangchihyeong-rpg.json](./224402-dolgyeogyongsa-kiugi-bangchihyeong-rpg.json) |
 | Doll | 97852 | [97852-doll.json](./97852-doll.json) |
