@@ -7113,6 +7113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meowth's Party | 255838 | [255838-meowths-party.json](./255838-meowths-party.json) |
 | MeowWare | 344511 | [344511-meowware.json](./344511-meowware.json) |
 | Mepekyon Racing | 416668 | [416668-mepekyon-racing.json](./416668-mepekyon-racing.json) |
+| Mephisto | 133692 | [133692-mephisto.json](./133692-mephisto.json) |
 | MER Adventure Climbing | 370687 | [370687-mer-adventure-climbing.json](./370687-mer-adventure-climbing.json) |
 | MER Innebandy | 186661 | [186661-mer-innebandy.json](./186661-mer-innebandy.json) |
 | Mer Wars | 264310 | [264310-mer-wars.json](./264310-mer-wars.json) |
@@ -8533,6 +8534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mid | 372231 | [372231-mid.json](./372231-mid.json) |
 | Mid-Death Crisis | 295495 | [295495-mid-death-crisis.json](./295495-mid-death-crisis.json) |
 | Midair | 55115 | [55115-midair.json](./55115-midair.json) |
+| Midair 2 | 133680 | [133680-midair-2.json](./133680-midair-2.json) |
 | Midas | 338837 | [338837-midas.json](./338837-midas.json) |
 | Midas Gold Plus | 30474 | [30474-midas-gold-plus.json](./30474-midas-gold-plus.json) |
 | Midautumn | 148943 | [148943-midautumn.json](./148943-midautumn.json) |
@@ -10006,6 +10008,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini-Moni. Step Pyon Pyon Pyon | 243282 | [243282-mini-moni-step-pyon-pyon-pyon.json](./243282-mini-moni-step-pyon-pyon-pyon.json) |
 | Mini-U: Mosaic | 175408 | [175408-mini-u-mosaic.json](./175408-mini-u-mosaic.json) |
 | Mini-Vaders | 266656 | [266656-mini-vaders.json](./266656-mini-vaders.json) |
+| Mini-Yonku Bakusou Kyoudai Let's & Go!! WGP Hyper Heat | 133647 | [133647-mini-yonku-bakusou-kyoudai-lets-and-go-wgp-hyper-heat.json](./133647-mini-yonku-bakusou-kyoudai-lets-and-go-wgp-hyper-heat.json) |
+| Mini-Yonku GB: Let's & Go!! All-Star Battle Max | 133646 | [133646-mini-yonku-gb-lets-and-go-all-star-battle-max.json](./133646-mini-yonku-gb-lets-and-go-all-star-battle-max.json) |
 | Mini-Yonku Let's & Go!! Power WGP 2 | 37927 | [37927-mini-yonku-lets-and-go-power-wgp-2.json](./37927-mini-yonku-lets-and-go-power-wgp-2.json) |
 | Mini-Yonku Shining Scorpion: Let's & Go!! | 38218 | [38218-mini-yonku-shining-scorpion-lets-and-go.json](./38218-mini-yonku-shining-scorpion-lets-and-go.json) |
 | Mini's Magic World | 33339 | [33339-minis-magic-world.json](./33339-minis-magic-world.json) |
@@ -15221,6 +15225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Musicverse: Electronic Keyboard | 85300 | [85300-musicverse-electronic-keyboard.json](./85300-musicverse-electronic-keyboard.json) |
 | MusicVR Episode 1: Tr3s Lunas | 70978 | [70978-musicvr-episode-1-tr3s-lunas.json](./70978-musicvr-episode-1-tr3s-lunas.json) |
 | MusicVR Episode 2: Maestro | 71447 | [71447-musicvr-episode-2-maestro.json](./71447-musicvr-episode-2-maestro.json) |
+| MusicWave | 133660 | [133660-musicwave.json](./133660-musicwave.json) |
 | Musika | 94641 | [94641-musika.json](./94641-musika.json) |
 | Musings in Nonograms | 418592 | [418592-musings-in-nonograms.json](./418592-musings-in-nonograms.json) |
 | Musiverse | 245189 | [245189-musiverse.json](./245189-musiverse.json) |
