@@ -4211,6 +4211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wildfire | 33813 | [33813-wildfire.json](./33813-wildfire.json) |
 | Wildfire | 372768 | [372768-wildfire.json](./372768-wildfire.json) |
 | Wildfire | 94915 | [94915-wildfire.json](./94915-wildfire.json) |
+| Wildfire Swap | 145350 | [145350-wildfire-swap.json](./145350-wildfire-swap.json) |
 | Wildfire: Ticket to Rock | 161719 | [161719-wildfire-ticket-to-rock.json](./161719-wildfire-ticket-to-rock.json) |
 | Wildflower: From the Embers | 178095 | [178095-wildflower-from-the-embers.json](./178095-wildflower-from-the-embers.json) |
 | WildFront | 274474 | [274474-wildfront.json](./274474-wildfront.json) |
@@ -4414,6 +4415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wind from City | 149874 | [149874-wind-from-city.json](./149874-wind-from-city.json) |
 | Wind Giants | 334353 | [334353-wind-giants.json](./334353-wind-giants.json) |
 | Wind Horizon | 57027 | [57027-wind-horizon.json](./57027-wind-horizon.json) |
+| Wind in the Willows | 145495 | [145495-wind-in-the-willows.json](./145495-wind-in-the-willows.json) |
 | Wind Love | 259589 | [259589-wind-love.json](./259589-wind-love.json) |
 | Wind of Life | 189866 | [189866-wind-of-life.json](./189866-wind-of-life.json) |
 | Wind Peaks | 135843 | [135843-wind-peaks.json](./135843-wind-peaks.json) |
