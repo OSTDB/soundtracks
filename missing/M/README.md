@@ -4970,6 +4970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | McPixel 3: McPixel Visits Grandma | 260722 | [260722-mcpixel-3-mcpixel-visits-grandma.json](./260722-mcpixel-3-mcpixel-visits-grandma.json) |
 | McPlay | 86984 | [86984-mcplay.json](./86984-mcplay.json) |
 | McRogue | 77162 | [77162-mcrogue.json](./77162-mcrogue.json) |
+| McSpace Colosseum | 150399 | [150399-mcspace-colosseum.json](./150399-mcspace-colosseum.json) |
 | MCSR Ranked | 386756 | [386756-mcsr-ranked.json](./386756-mcsr-ranked.json) |
 | McTetris | 230831 | [230831-mctetris.json](./230831-mctetris.json) |
 | McTremson Bar | 179548 | [179548-mctremson-bar.json](./179548-mctremson-bar.json) |
@@ -9050,6 +9051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Milky Quest II | 232654 | [232654-milky-quest-ii.json](./232654-milky-quest-ii.json) |
 | Milky Season | 166582 | [166582-milky-season.json](./166582-milky-season.json) |
 | Milky Shaky Lab | 282648 | [282648-milky-shaky-lab.json](./282648-milky-shaky-lab.json) |
+| Milky Strike | 150414 | [150414-milky-strike.json](./150414-milky-strike.json) |
 | Milky Way Idle | 336018 | [336018-milky-way-idle.json](./336018-milky-way-idle.json) |
 | Milky Way Jigsaw Puzzles | 265319 | [265319-milky-way-jigsaw-puzzles.json](./265319-milky-way-jigsaw-puzzles.json) |
 | Milky Way Jigsaw Puzzles: Expansion Pack 1 | 265246 | [265246-milky-way-jigsaw-puzzles-expansion-pack-1.json](./265246-milky-way-jigsaw-puzzles-expansion-pack-1.json) |
@@ -10793,6 +10795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mithral Gun | 196330 | [196330-mithral-gun.json](./196330-mithral-gun.json) |
 | Mithronia: Tower Wars | 265322 | [265322-mithronia-tower-wars.json](./265322-mithronia-tower-wars.json) |
 | Mitigate | 384348 | [384348-mitigate.json](./384348-mitigate.json) |
+| Miting Simulator | 150393 | [150393-miting-simulator.json](./150393-miting-simulator.json) |
 | Mitla | 373657 | [373657-mitla.json](./373657-mitla.json) |
 | Mitnal | 383099 | [383099-mitnal.json](./383099-mitnal.json) |
 | Mito da Criação | 131368 | [131368-mito-da-criacao.json](./131368-mito-da-criacao.json) |
