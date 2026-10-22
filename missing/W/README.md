@@ -1079,6 +1079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WarGames | 23935 | [23935-wargames.json](./23935-wargames.json) |
 | WarGames: Defcon 1 | 45028 | [45028-wargames-defcon-1.json](./45028-wargames-defcon-1.json) |
 | Wargle | 291151 | [291151-wargle.json](./291151-wargle.json) |
+| Wargods Online 2 | 134318 | [134318-wargods-online-2.json](./134318-wargods-online-2.json) |
 | Wargroove + Wargroove 2 Bundle | 273304 | [273304-wargroove-wargroove-2-bundle.json](./273304-wargroove-wargroove-2-bundle.json) |
 | Wargroove 2 | 241149 | [241149-wargroove-2.json](./241149-wargroove-2.json) |
 | Wargroove: Double Trouble Bundle | 221778 | [221778-wargroove-double-trouble-bundle.json](./221778-wargroove-double-trouble-bundle.json) |
@@ -7123,6 +7124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wretched Depths | 242595 | [242595-wretched-depths.json](./242595-wretched-depths.json) |
 | Wretched Flesh | 274941 | [274941-wretched-flesh.json](./274941-wretched-flesh.json) |
 | Wretched Star | 333083 | [333083-wretched-star.json](./333083-wretched-star.json) |
+| WretchWorks Arcade Pack | 134279 | [134279-wretchworks-arcade-pack.json](./134279-wretchworks-arcade-pack.json) |
 | Wriggler | 46742 | [46742-wriggler.json](./46742-wriggler.json) |
 | Wrigglers | 63784 | [63784-wrigglers.json](./63784-wrigglers.json) |
 | Wrigglui | 280867 | [280867-wrigglui.json](./280867-wrigglui.json) |
