@@ -2192,6 +2192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legends of Aria: Classic | 298244 | [298244-legends-of-aria-classic.json](./298244-legends-of-aria-classic.json) |
 | Legends of Aria: Master Pack | 170802 | [170802-legends-of-aria-master-pack.json](./170802-legends-of-aria-master-pack.json) |
 | Legends of Arthengard | 388174 | [388174-legends-of-arthengard.json](./388174-legends-of-arthengard.json) |
+| Legends of Astravia | 144659 | [144659-legends-of-astravia.json](./144659-legends-of-astravia.json) |
 | Legends of Atlantis: Exodus Premium | 174337 | [174337-legends-of-atlantis-exodus-premium.json](./174337-legends-of-atlantis-exodus-premium.json) |
 | Legends of Azulgar | 32013 | [32013-legends-of-azulgar.json](./32013-legends-of-azulgar.json) |
 | Legends of Boom | 319743 | [319743-legends-of-boom.json](./319743-legends-of-boom.json) |
@@ -4144,6 +4145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Line Time | 265336 | [265336-line-time.json](./265336-line-time.json) |
 | Line Up: Dots! | 243098 | [243098-line-up-dots.json](./243098-line-up-dots.json) |
 | Line Up! | 380661 | [380661-line-up.json](./380661-line-up.json) |
+| Line War | 144669 | [144669-line-war.json](./144669-line-war.json) |
 | Line Wobbler | 219119 | [219119-line-wobbler.json](./219119-line-wobbler.json) |
 | Line-3 | 175605 | [175605-line-3.json](./175605-line-3.json) |
 | Line: Disney Tsum Tsum | 38886 | [38886-line-disney-tsum-tsum.json](./38886-line-disney-tsum-tsum.json) |
@@ -6154,6 +6156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Cities Mobile | 84112 | [84112-lost-cities-mobile.json](./84112-lost-cities-mobile.json) |
 | Lost City | 403010 | [403010-lost-city.json](./403010-lost-city.json) |
 | Lost City of Vampires | 113169 | [113169-lost-city-of-vampires.json](./113169-lost-city-of-vampires.json) |
+| Lost Civilization | 144677 | [144677-lost-civilization.json](./144677-lost-civilization.json) |
 | Lost Civilization 2 | 262991 | [262991-lost-civilization-2.json](./262991-lost-civilization-2.json) |
 | Lost Coffee | 23950 | [23950-lost-coffee.json](./23950-lost-coffee.json) |
 | Lost Colony | 250422 | [250422-lost-colony.json](./250422-lost-colony.json) |
