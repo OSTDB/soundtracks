@@ -2105,6 +2105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 4rc4n01d! | 81969 | [81969-4rc4n01d.json](./81969-4rc4n01d.json) |
 | 4RC4N01D! 2: Retro Edition | 334263 | [334263-4rc4n01d-2-retro-edition.json](./334263-4rc4n01d-2-retro-edition.json) |
 | 4RC4N01D! 4: KOHBEEP edition | 334262 | [334262-4rc4n01d-4-kohbeep-edition.json](./334262-4rc4n01d-4-kohbeep-edition.json) |
+| 4Sight | 105038 | [105038-4sight.json](./105038-4sight.json) |
 | 4Spaces | 259550 | [259550-4spaces.json](./259550-4spaces.json) |
 | 4Story Online | 27734 | [27734-4story-online.json](./27734-4story-online.json) |
 | 4Story: Archer Armor Package | 377378 | [377378-4story-archer-armor-package.json](./377378-4story-archer-armor-package.json) |
