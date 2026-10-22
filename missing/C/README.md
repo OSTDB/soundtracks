@@ -2323,6 +2323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cartoon Dungeon VIP | 95865 | [95865-cartoon-dungeon-vip.json](./95865-cartoon-dungeon-vip.json) |
 | Cartoon Jukebox | 127151 | [127151-cartoon-jukebox.json](./127151-cartoon-jukebox.json) |
 | Cartoon Kingdom | 66957 | [66957-cartoon-kingdom.json](./66957-cartoon-kingdom.json) |
+| Cartoon Kreedz | 123880 | [123880-cartoon-kreedz.json](./123880-cartoon-kreedz.json) |
 | Cartoon Line: Part One | 13244 | [13244-cartoon-line-part-one.json](./13244-cartoon-line-part-one.json) |
 | Cartoon Network Collection: Limited Edition | 49362 | [49362-cartoon-network-collection-limited-edition.json](./49362-cartoon-network-collection-limited-edition.json) |
 | Cartoon Network Journeys VR | 124165 | [124165-cartoon-network-journeys-vr.json](./124165-cartoon-network-journeys-vr.json) |
