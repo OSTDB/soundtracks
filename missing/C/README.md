@@ -14779,6 +14779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubeism 2: Baroque Edition | 218149 | [218149-cubeism-2-baroque-edition.json](./218149-cubeism-2-baroque-edition.json) |
 | Cubeka | 129626 | [129626-cubeka.json](./129626-cubeka.json) |
 | Cubekiller | 96625 | [96625-cubekiller.json](./96625-cubekiller.json) |
+| Cubeland VR | 126873 | [126873-cubeland-vr.json](./126873-cubeland-vr.json) |
 | Cubelander | 190919 | [190919-cubelander.json](./190919-cubelander.json) |
 | CubeLines | 191251 | [191251-cubelines.json](./191251-cubelines.json) |
 | Cubelz | 101357 | [101357-cubelz.json](./101357-cubelz.json) |
@@ -15315,6 +15316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursed Night | 244194 | [244194-cursed-night.json](./244194-cursed-night.json) |
 | Cursed Omelette | 370114 | [370114-cursed-omelette.json](./370114-cursed-omelette.json) |
 | Cursed Order | 284993 | [284993-cursed-order.json](./284993-cursed-order.json) |
+| Cursed Pagoda | 126861 | [126861-cursed-pagoda.json](./126861-cursed-pagoda.json) |
 | Cursed Pantsu | 219234 | [219234-cursed-pantsu.json](./219234-cursed-pantsu.json) |
 | Cursed Place | 294554 | [294554-cursed-place.json](./294554-cursed-place.json) |
 | Cursed Presence | 372749 | [372749-cursed-presence.json](./372749-cursed-presence.json) |
