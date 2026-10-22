@@ -732,7 +732,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -1375,6 +1374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balls! | 99982 | [99982-balls.json](./99982-balls.json) |
 | Balls! Balls! | 163395 | [163395-balls-balls.json](./163395-balls-balls.json) |
 | Balls! Virtual Reality Cricket | 31580 | [31580-balls-virtual-reality-cricket.json](./31580-balls-virtual-reality-cricket.json) |
+| BallsBlasterVR | 128229 | [128229-ballsblastervr.json](./128229-ballsblastervr.json) |
 | Ballshit | 373219 | [373219-ballshit.json](./373219-ballshit.json) |
 | Ballspell | 215564 | [215564-ballspell.json](./215564-ballspell.json) |
 | BallStrike | 142758 | [142758-ballstrike.json](./142758-ballstrike.json) |
@@ -10305,6 +10305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Border Mountain | 292624 | [292624-border-mountain.json](./292624-border-mountain.json) |
 | Border of her Heart 2 | 156669 | [156669-border-of-her-heart-2.json](./156669-border-of-her-heart-2.json) |
 | Border of Insanity | 110152 | [110152-border-of-insanity.json](./110152-border-of-insanity.json) |
+| Border of Insanity Origins | 128206 | [128206-border-of-insanity-origins.json](./128206-border-of-insanity-origins.json) |
 | Border Officer | 117132 | [117132-border-officer.json](./117132-border-officer.json) |
 | Border Patrol Simulator | 334342 | [334342-border-patrol-simulator.json](./334342-border-patrol-simulator.json) |
 | Border Pioneer | 290777 | [290777-border-pioneer.json](./290777-border-pioneer.json) |
