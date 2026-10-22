@@ -3914,6 +3914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master Bass | 267344 | [267344-master-bass.json](./267344-master-bass.json) |
 | Master Bladesmith | 127219 | [127219-master-bladesmith.json](./127219-master-bladesmith.json) |
 | Master Blaster | 292779 | [292779-master-blaster.json](./292779-master-blaster.json) |
+| Master Blaster VR | 149851 | [149851-master-blaster-vr.json](./149851-master-blaster-vr.json) |
 | Master Break | 177553 | [177553-master-break.json](./177553-master-break.json) |
 | Master Builder | 18579 | [18579-master-builder.json](./18579-master-builder.json) |
 | Master Builder Simulator | 287720 | [287720-master-builder-simulator.json](./287720-master-builder-simulator.json) |
@@ -7735,6 +7736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meteor Tensei | 141029 | [141029-meteor-tensei.json](./141029-meteor-tensei.json) |
 | Meteor World Actor: Badge & Dagger | 194451 | [194451-meteor-world-actor-badge-and-dagger.json](./194451-meteor-world-actor-badge-and-dagger.json) |
 | Meteor World Actor: Badge & Dagger | 252088 | [252088-meteor-world-actor-badge-and-dagger.json](./252088-meteor-world-actor-badge-and-dagger.json) |
+| Meteora | 149823 | [149823-meteora.json](./149823-meteora.json) |
 | Meteora's Mystic Merge | 285146 | [285146-meteoras-mystic-merge.json](./285146-meteoras-mystic-merge.json) |
 | MeteoRain | 290244 | [290244-meteorain.json](./290244-meteorain.json) |
 | Meteorder | 317977 | [317977-meteorder.json](./317977-meteorder.json) |
@@ -12417,6 +12419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Trampoline | 113477 | [113477-monster-trampoline.json](./113477-monster-trampoline.json) |
 | Monster Traveler | 270058 | [270058-monster-traveler.json](./270058-monster-traveler.json) |
 | Monster Trek | 245194 | [245194-monster-trek.json](./245194-monster-trek.json) |
+| Monster Tribe | 149856 | [149856-monster-tribe.json](./149856-monster-tribe.json) |
 | Monster Trivia | 100119 | [100119-monster-trivia.json](./100119-monster-trivia.json) |
 | Monster Trouble Anniversary Edition | 175590 | [175590-monster-trouble-anniversary-edition.json](./175590-monster-trouble-anniversary-edition.json) |
 | Monster Truck | 332857 | [332857-monster-truck.json](./332857-monster-truck.json) |
@@ -15599,6 +15602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Dream Setup: Bathroom DLC | 297148 | [297148-my-dream-setup-bathroom-dlc.json](./297148-my-dream-setup-bathroom-dlc.json) |
 | My Dream Setup: Kitchen DLC | 297149 | [297149-my-dream-setup-kitchen-dlc.json](./297149-my-dream-setup-kitchen-dlc.json) |
 | My Dream Setup: Sim Racing | 375594 | [375594-my-dream-setup-sim-racing.json](./375594-my-dream-setup-sim-racing.json) |
+| My Dream Sport Dating Simulator | 149819 | [149819-my-dream-sport-dating-simulator.json](./149819-my-dream-sport-dating-simulator.json) |
 | My Dreams | 280470 | [280470-my-dreams.json](./280470-my-dreams.json) |
 | My Dress-Up | 84331 | [84331-my-dress-up.json](./84331-my-dress-up.json) |
 | My Drug Cartel | 289736 | [289736-my-drug-cartel.json](./289736-my-drug-cartel.json) |
