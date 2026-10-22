@@ -6816,6 +6816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bitcoin Miner | 89602 | [89602-bitcoin-miner.json](./89602-bitcoin-miner.json) |
 | Bitcoin Miner Farm: Clicker Game | 118960 | [118960-bitcoin-miner-farm-clicker-game.json](./118960-bitcoin-miner-farm-clicker-game.json) |
 | Bitcoin Miner: Remastered | 134889 | [134889-bitcoin-miner-remastered.json](./134889-bitcoin-miner-remastered.json) |
+| Bitcoin Minia | 99449 | [99449-bitcoin-minia.json](./99449-bitcoin-minia.json) |
 | Bitcoin Mining Empire Tycoon | 81658 | [81658-bitcoin-mining-empire-tycoon.json](./81658-bitcoin-mining-empire-tycoon.json) |
 | Bitcoin Mining Profit Calculator: Gaiden | 128566 | [128566-bitcoin-mining-profit-calculator-gaiden.json](./128566-bitcoin-mining-profit-calculator-gaiden.json) |
 | Bitcoin Mining Tycoon | 103469 | [103469-bitcoin-mining-tycoon.json](./103469-bitcoin-mining-tycoon.json) |
@@ -9955,6 +9956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bombyx | 123639 | [123639-bombyx.json](./123639-bombyx.json) |
 | Bomcat | 362329 | [362329-bomcat.json](./362329-bomcat.json) |
 | Bomi Omyeon Kkochi Pigo | 304247 | [304247-bomi-omyeon-kkochi-pigo.json](./304247-bomi-omyeon-kkochi-pigo.json) |
+| Bomight | 99443 | [99443-bomight.json](./99443-bomight.json) |
 | BomjMan | 120746 | [120746-bomjman.json](./120746-bomjman.json) |
 | Bomsy | 74681 | [74681-bomsy.json](./74681-bomsy.json) |
 | Bon Appecheese | 352379 | [352379-bon-appecheese.json](./352379-bon-appecheese.json) |
