@@ -734,6 +734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -7461,6 +7462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bladefall | 378429 | [378429-bladefall.json](./378429-bladefall.json) |
 | Bladeforge: Ascension Crusade | 417962 | [417962-bladeforge-ascension-crusade.json](./417962-bladeforge-ascension-crusade.json) |
 | Bladeless Sword: Tale of Qin | 419987 | [419987-bladeless-sword-tale-of-qin.json](./419987-bladeless-sword-tale-of-qin.json) |
+| Bladeline VR | 111428 | [111428-bladeline-vr.json](./111428-bladeline-vr.json) |
 | Bladelords: The fighting game | 39220 | [39220-bladelords-the-fighting-game.json](./39220-bladelords-the-fighting-game.json) |
 | Blademaker: Arms Shop | 108825 | [108825-blademaker-arms-shop.json](./108825-blademaker-arms-shop.json) |
 | Bladenet | 68166 | [68166-bladenet.json](./68166-bladenet.json) |
@@ -9195,6 +9197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BlueBoi Remastered | 134908 | [134908-blueboi-remastered.json](./134908-blueboi-remastered.json) |
 | Bluebush Chess | 74058 | [74058-bluebush-chess.json](./74058-bluebush-chess.json) |
 | BlueCloud Summit | 254005 | [254005-bluecloud-summit.json](./254005-bluecloud-summit.json) |
+| BlueFear | 111359 | [111359-bluefear.json](./111359-bluefear.json) |
 | BlueGlow | 116283 | [116283-blueglow.json](./116283-blueglow.json) |
 | BlueGlow: Operation Blue Rain | 174175 | [174175-blueglow-operation-blue-rain.json](./174175-blueglow-operation-blue-rain.json) |
 | Bluegrass | 386930 | [386930-bluegrass.json](./386930-bluegrass.json) |
@@ -13660,6 +13663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bunny Jewel Match Adventure | 173034 | [173034-bunny-jewel-match-adventure.json](./173034-bunny-jewel-match-adventure.json) |
 | Bunny Love Expert | 333216 | [333216-bunny-love-expert.json](./333216-bunny-love-expert.json) |
 | Bunny Madness Anarchy | 38995 | [38995-bunny-madness-anarchy.json](./38995-bunny-madness-anarchy.json) |
+| Bunny Mahjo | 111384 | [111384-bunny-mahjo.json](./111384-bunny-mahjo.json) |
 | Bunny Maid's Estrus Diary | 82777 | [82777-bunny-maids-estrus-diary.json](./82777-bunny-maids-estrus-diary.json) |
 | Bunny Mazes | 324986 | [324986-bunny-mazes.json](./324986-bunny-mazes.json) |
 | Bunny Minesweeper | 106579 | [106579-bunny-minesweeper.json](./106579-bunny-minesweeper.json) |
