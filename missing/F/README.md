@@ -650,6 +650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Faith of Life: Survive Edition | 340052 | [340052-faith-of-life-survive-edition.json](./340052-faith-of-life-survive-edition.json) |
 | Faith of the Guardians | 65743 | [65743-faith-of-the-guardians.json](./65743-faith-of-the-guardians.json) |
 | Faith Update v1.4: Good Christian Boy | 275258 | [275258-faith-update-v1-4-good-christian-boy.json](./275258-faith-update-v1-4-good-christian-boy.json) |
+| Faith: Chapter II | 123282 | [123282-faith-chapter-ii.json](./123282-faith-chapter-ii.json) |
 | Faith: Chapter III | 125170 | [125170-faith-chapter-iii.json](./125170-faith-chapter-iii.json) |
 | Faith: The Unholy Trinity | 125171 | [125171-faith-the-unholy-trinity.json](./125171-faith-the-unholy-trinity.json) |
 | FaithEater | 301372 | [301372-faitheater.json](./301372-faitheater.json) |
@@ -1870,6 +1871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Far: Changing Tides | 152259 | [152259-far-changing-tides.json](./152259-far-changing-tides.json) |
 | FAR: Changing Tides - Deluxe Edition | 187823 | [187823-far-changing-tides-deluxe-edition.json](./187823-far-changing-tides-deluxe-edition.json) |
 | FAR: Universe Bundle | 253791 | [253791-far-universe-bundle.json](./253791-far-universe-bundle.json) |
+| Fara | 123272 | [123272-fara.json](./123272-fara.json) |
 | Farabel | 24965 | [24965-farabel.json](./24965-farabel.json) |
 | Faraday's Flaw | 310583 | [310583-faradays-flaw.json](./310583-faradays-flaw.json) |
 | Farafalla | 225285 | [225285-farafalla.json](./225285-farafalla.json) |
@@ -8430,6 +8432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Four Ways | 129702 | [129702-four-ways.json](./129702-four-ways.json) |
 | Four Ways: Block Puzzle | 131554 | [131554-four-ways-block-puzzle.json](./131554-four-ways-block-puzzle.json) |
 | Four Weeks of Pain | 268895 | [268895-four-weeks-of-pain.json](./268895-four-weeks-of-pain.json) |
+| Four Winds Fantasy | 123281 | [123281-four-winds-fantasy.json](./123281-four-winds-fantasy.json) |
 | Four Winds Mah Jong | 92985 | [92985-four-winds-mah-jong.json](./92985-four-winds-mah-jong.json) |
 | Four Winds Mahjong for iPad | 96599 | [96599-four-winds-mahjong-for-ipad.json](./96599-four-winds-mahjong-for-ipad.json) |
 | Four-Knight | 242594 | [242594-four-knight.json](./242594-four-knight.json) |
