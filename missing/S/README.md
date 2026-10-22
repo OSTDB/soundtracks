@@ -12531,6 +12531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sol Traveler | 178993 | [178993-sol-traveler.json](./178993-sol-traveler.json) |
 | Sol Trigger | 38467 | [38467-sol-trigger.json](./38467-sol-trigger.json) |
 | Sol Wars | 105556 | [105556-sol-wars.json](./105556-sol-wars.json) |
+| Sol-Hel | 132507 | [132507-sol-hel.json](./132507-sol-hel.json) |
 | Sol-Rui: After Mini | 331104 | [331104-sol-rui-after-mini.json](./331104-sol-rui-after-mini.json) |
 | Sol: Enchant | 377703 | [377703-sol-enchant.json](./377703-sol-enchant.json) |
 | Sol: Last Light | 247448 | [247448-sol-last-light.json](./247448-sol-last-light.json) |
