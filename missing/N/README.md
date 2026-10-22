@@ -1252,6 +1252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neckbeards: Cuck Invaders | 81737 | [81737-neckbeards-cuck-invaders.json](./81737-neckbeards-cuck-invaders.json) |
 | Neckbreak | 308504 | [308504-neckbreak.json](./308504-neckbreak.json) |
 | Necks Please... | 294212 | [294212-necks-please.json](./294212-necks-please.json) |
+| Neco Drop 2 | 145351 | [145351-neco-drop-2.json](./145351-neco-drop-2.json) |
 | Necogram | 243384 | [243384-necogram.json](./243384-necogram.json) |
 | Necomen | 359550 | [359550-necomen.json](./359550-necomen.json) |
 | Necore Warriors | 197171 | [197171-necore-warriors.json](./197171-necore-warriors.json) |
@@ -1939,6 +1940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Genesis Evangelion: Shinji Ikari Raising Project | 75878 | [75878-neon-genesis-evangelion-shinji-ikari-raising-project.json](./75878-neon-genesis-evangelion-shinji-ikari-raising-project.json) |
 | Neon Genesis Evangelion: The Iron Maiden 2nd | 75879 | [75879-neon-genesis-evangelion-the-iron-maiden-2nd.json](./75879-neon-genesis-evangelion-the-iron-maiden-2nd.json) |
 | Neon Genesis Evangelion: Tsukurareshi Sekai - Another Cases | 42840 | [42840-neon-genesis-evangelion-tsukurareshi-sekai-another-cases.json](./42840-neon-genesis-evangelion-tsukurareshi-sekai-another-cases.json) |
+| Neon Genesis: EvaDoom | 145331 | [145331-neon-genesis-evadoom.json](./145331-neon-genesis-evadoom.json) |
 | Neon Geometry Dash | 279004 | [279004-neon-geometry-dash.json](./279004-neon-geometry-dash.json) |
 | Neon Girls | 140563 | [140563-neon-girls.json](./140563-neon-girls.json) |
 | Neon Goddess | 278967 | [278967-neon-goddess.json](./278967-neon-goddess.json) |
@@ -4880,6 +4882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noddy: The Magic of Toytown on a CD-ROM | 130271 | [130271-noddy-the-magic-of-toytown-on-a-cd-rom.json](./130271-noddy-the-magic-of-toytown-on-a-cd-rom.json) |
 | Noddy's Big Adventure | 321603 | [321603-noddys-big-adventure.json](./321603-noddys-big-adventure.json) |
 | Noddy's Magic Adventure | 273015 | [273015-noddys-magic-adventure.json](./273015-noddys-magic-adventure.json) |
+| Noddy's Playtime | 145496 | [145496-noddys-playtime.json](./145496-noddys-playtime.json) |
 | Node Along | 103946 | [103946-node-along.json](./103946-node-along.json) |
 | Node Farm | 287772 | [287772-node-farm.json](./287772-node-farm.json) |
 | Node Math | 370712 | [370712-node-math.json](./370712-node-math.json) |
