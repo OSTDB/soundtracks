@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-22T00:05:38.900Z",
-  "total_missing": 244135,
+  "generated_at": "2026-10-22T00:18:37.179Z",
+  "total_missing": 244185,
   "games": [
     {
       "igdb_id": 191680,
@@ -30260,6 +30260,11 @@
       "igdb_id": 323348,
       "game_name": "Age of Empires II: Definitive Edition - Chronicles: Battle for Greece",
       "file": "missing/A/323348-age-of-empires-ii-definitive-edition-chronicles-battle-for-greece.json"
+    },
+    {
+      "igdb_id": 155457,
+      "game_name": "Age of Empires II: Definitive Edition - Dawn of the Dukes",
+      "file": "missing/A/155457-age-of-empires-ii-definitive-edition-dawn-of-the-dukes.json"
     },
     {
       "igdb_id": 197890,
@@ -69365,6 +69370,11 @@
       "igdb_id": 144608,
       "game_name": "Ascension: Transition and Silver",
       "file": "missing/A/144608-ascension-transition-and-silver.json"
+    },
+    {
+      "igdb_id": 155417,
+      "game_name": "Ascent",
+      "file": "missing/A/155417-ascent.json"
     },
     {
       "igdb_id": 185340,
@@ -113112,6 +113122,11 @@
       "file": "missing/B/207048-bill-and-teds-excellent-retro-collection-collectors-edition.json"
     },
     {
+      "igdb_id": 155412,
+      "game_name": "Bill & Ted's Excellent Video Game Adventure",
+      "file": "missing/B/155412-bill-and-teds-excellent-video-game-adventure.json"
+    },
+    {
       "igdb_id": 203772,
       "game_name": "Bill and Ted's Excellent Retro Collection",
       "file": "missing/B/203772-bill-and-teds-excellent-retro-collection.json"
@@ -143760,6 +143775,11 @@
       "igdb_id": 285372,
       "game_name": "Broadside Renegades",
       "file": "missing/B/285372-broadside-renegades.json"
+    },
+    {
+      "igdb_id": 155418,
+      "game_name": "Broadside: Perilous Waters",
+      "file": "missing/B/155418-broadside-perilous-waters.json"
     },
     {
       "igdb_id": 23988,
@@ -189962,6 +189982,11 @@
       "file": "missing/C/305324-cityquiz-io.json"
     },
     {
+      "igdb_id": 155409,
+      "game_name": "CityRunner",
+      "file": "missing/C/155409-cityrunner.json"
+    },
+    {
       "igdb_id": 208676,
       "game_name": "Cityscape Sprint",
       "file": "missing/C/208676-cityscape-sprint.json"
@@ -196540,6 +196565,11 @@
       "igdb_id": 298986,
       "game_name": "Code: Replicant",
       "file": "missing/C/298986-code-replicant.json"
+    },
+    {
+      "igdb_id": 155448,
+      "game_name": "Code: Star Dungeon",
+      "file": "missing/C/155448-code-star-dungeon.json"
     },
     {
       "igdb_id": 401030,
@@ -247742,9 +247772,24 @@
       "file": "missing/D/389425-dead-or-alive-6-last-round.json"
     },
     {
+      "igdb_id": 155441,
+      "game_name": "Dead or Alive 6: Bayman",
+      "file": "missing/D/155441-dead-or-alive-6-bayman.json"
+    },
+    {
+      "igdb_id": 155437,
+      "game_name": "Dead or Alive 6: Christie",
+      "file": "missing/D/155437-dead-or-alive-6-christie.json"
+    },
+    {
       "igdb_id": 166261,
       "game_name": "Dead or Alive 6: Collector's Limited Edition",
       "file": "missing/D/166261-dead-or-alive-6-collectors-limited-edition.json"
+    },
+    {
+      "igdb_id": 155436,
+      "game_name": "Dead or Alive 6: Eliot",
+      "file": "missing/D/155436-dead-or-alive-6-eliot.json"
     },
     {
       "igdb_id": 225904,
@@ -247757,14 +247802,99 @@
       "file": "missing/D/167018-dead-or-alive-6-gamecity-limited-edition.json"
     },
     {
+      "igdb_id": 155440,
+      "game_name": "Dead or Alive 6: Hayate",
+      "file": "missing/D/155440-dead-or-alive-6-hayate.json"
+    },
+    {
+      "igdb_id": 155439,
+      "game_name": "Dead or Alive 6: Helena",
+      "file": "missing/D/155439-dead-or-alive-6-helena.json"
+    },
+    {
+      "igdb_id": 155429,
+      "game_name": "Dead or Alive 6: Jann Lee",
+      "file": "missing/D/155429-dead-or-alive-6-jann-lee.json"
+    },
+    {
+      "igdb_id": 155427,
+      "game_name": "Dead or Alive 6: Kula Diamond",
+      "file": "missing/D/155427-dead-or-alive-6-kula-diamond.json"
+    },
+    {
+      "igdb_id": 155432,
+      "game_name": "Dead or Alive 6: Leifang",
+      "file": "missing/D/155432-dead-or-alive-6-leifang.json"
+    },
+    {
+      "igdb_id": 155424,
+      "game_name": "Dead or Alive 6: Mai Shiranui",
+      "file": "missing/D/155424-dead-or-alive-6-mai-shiranui.json"
+    },
+    {
+      "igdb_id": 155434,
+      "game_name": "Dead or Alive 6: Marie Rose",
+      "file": "missing/D/155434-dead-or-alive-6-marie-rose.json"
+    },
+    {
+      "igdb_id": 155430,
+      "game_name": "Dead or Alive 6: Mila",
+      "file": "missing/D/155430-dead-or-alive-6-mila.json"
+    },
+    {
+      "igdb_id": 155438,
+      "game_name": "Dead or Alive 6: Momiji",
+      "file": "missing/D/155438-dead-or-alive-6-momiji.json"
+    },
+    {
+      "igdb_id": 155431,
+      "game_name": "Dead or Alive 6: Nico",
+      "file": "missing/D/155431-dead-or-alive-6-nico.json"
+    },
+    {
       "igdb_id": 341667,
       "game_name": "Dead or Alive 6: Nyotengu",
       "file": "missing/D/341667-dead-or-alive-6-nyotengu.json"
     },
     {
+      "igdb_id": 155435,
+      "game_name": "Dead or Alive 6: Phase 4",
+      "file": "missing/D/155435-dead-or-alive-6-phase-4.json"
+    },
+    {
+      "igdb_id": 155442,
+      "game_name": "Dead or Alive 6: Rachel",
+      "file": "missing/D/155442-dead-or-alive-6-rachel.json"
+    },
+    {
+      "igdb_id": 155426,
+      "game_name": "Dead or Alive 6: Rachel & Debut Costume Set",
+      "file": "missing/D/155426-dead-or-alive-6-rachel-and-debut-costume-set.json"
+    },
+    {
       "igdb_id": 167104,
       "game_name": "Dead or Alive 6: Strongest Package - Limited Edition",
       "file": "missing/D/167104-dead-or-alive-6-strongest-package-limited-edition.json"
+    },
+    {
+      "igdb_id": 155443,
+      "game_name": "Dead or Alive 6: Tamaki",
+      "file": "missing/D/155443-dead-or-alive-6-tamaki.json"
+    },
+    {
+      "igdb_id": 155423,
+      "game_name": "Dead or Alive 6: Tamaki & Debut Costume Set",
+      "file": "missing/D/155423-dead-or-alive-6-tamaki-and-debut-costume-set.json"
+    },
+    {
+      "igdb_id": 155425,
+      "game_name": "Dead or Alive 6: Tina",
+      "file": "missing/D/155425-dead-or-alive-6-tina.json"
+    },
+    {
+      "igdb_id": 155433,
+      "game_name": "Dead or Alive 6: Zack",
+      "file": "missing/D/155433-dead-or-alive-6-zack.json"
     },
     {
       "igdb_id": 389426,
@@ -261905,6 +262035,11 @@
       "igdb_id": 415435,
       "game_name": "Destined Notes: The Written Fate",
       "file": "missing/D/415435-destined-notes-the-written-fate.json"
+    },
+    {
+      "igdb_id": 155419,
+      "game_name": "Destined to Die",
+      "file": "missing/D/155419-destined-to-die.json"
     },
     {
       "igdb_id": 163230,
@@ -304195,6 +304330,11 @@
       "igdb_id": 47127,
       "game_name": "Dungeons & Dragons Online: Shadowfell Conspiracy",
       "file": "missing/D/47127-dungeons-and-dragons-online-shadowfell-conspiracy.json"
+    },
+    {
+      "igdb_id": 155446,
+      "game_name": "Dungeons & Dragons Online: Shadowfell Conspiracy - Collector's Edition",
+      "file": "missing/D/155446-dungeons-and-dragons-online-shadowfell-conspiracy-collectors-edition.json"
     },
     {
       "igdb_id": 353656,
@@ -411962,6 +412102,11 @@
       "file": "missing/G/403633-glass-masquerade-4-constellations-celestials.json"
     },
     {
+      "igdb_id": 155413,
+      "game_name": "Glass Masquerade: Halloween Puzzle Pack",
+      "file": "missing/G/155413-glass-masquerade-halloween-puzzle-pack.json"
+    },
+    {
       "igdb_id": 58662,
       "game_name": "Glass Road",
       "file": "missing/G/58662-glass-road.json"
@@ -422615,6 +422760,11 @@
       "igdb_id": 126556,
       "game_name": "GraFi Christmas",
       "file": "missing/G/126556-grafi-christmas.json"
+    },
+    {
+      "igdb_id": 155407,
+      "game_name": "GraFi Easter",
+      "file": "missing/G/155407-grafi-easter.json"
     },
     {
       "igdb_id": 127309,
@@ -434185,6 +434335,11 @@
       "igdb_id": 117135,
       "game_name": "Gun Chain",
       "file": "missing/G/117135-gun-chain.json"
+    },
+    {
+      "igdb_id": 155456,
+      "game_name": "Gun Club VR: SWAT DLC",
+      "file": "missing/G/155456-gun-club-vr-swat-dlc.json"
     },
     {
       "igdb_id": 52221,
@@ -503357,6 +503512,11 @@
       "file": "missing/I/314851-inkya-danshi-de-asobou.json"
     },
     {
+      "igdb_id": 155422,
+      "game_name": "Inland",
+      "file": "missing/I/155422-inland.json"
+    },
+    {
       "igdb_id": 81070,
       "game_name": "Inline",
       "file": "missing/I/81070-inline.json"
@@ -527260,6 +527420,11 @@
       "igdb_id": 205963,
       "game_name": "June Exhibit",
       "file": "missing/J/205963-june-exhibit.json"
+    },
+    {
+      "igdb_id": 155455,
+      "game_name": "Junebug vs. Evil",
+      "file": "missing/J/155455-junebug-vs-evil.json"
     },
     {
       "igdb_id": 55856,
@@ -605852,6 +606017,11 @@
       "file": "missing/M/404246-mansiondungeon.json"
     },
     {
+      "igdb_id": 155415,
+      "game_name": "Mansions of Madness: Altered Fates",
+      "file": "missing/M/155415-mansions-of-madness-altered-fates.json"
+    },
+    {
       "igdb_id": 168929,
       "game_name": "Mansions of Madness: Dark Reflections",
       "file": "missing/M/168929-mansions-of-madness-dark-reflections.json"
@@ -620585,6 +620755,11 @@
       "igdb_id": 406680,
       "game_name": "Medic Mayhem",
       "file": "missing/M/406680-medic-mayhem.json"
+    },
+    {
+      "igdb_id": 155428,
+      "game_name": "Medic: Pacific War",
+      "file": "missing/M/155428-medic-pacific-war.json"
     },
     {
       "igdb_id": 253003,
@@ -688755,6 +688930,11 @@
       "igdb_id": 279859,
       "game_name": "Neon Life",
       "file": "missing/N/279859-neon-life.json"
+    },
+    {
+      "igdb_id": 155410,
+      "game_name": "Neon Light",
+      "file": "missing/N/155410-neon-light.json"
     },
     {
       "igdb_id": 258562,
@@ -762557,6 +762737,11 @@
       "file": "missing/P/87040-pixel-art-color-by-number.json"
     },
     {
+      "igdb_id": 155445,
+      "game_name": "Pixel Art: Mash-Up",
+      "file": "missing/P/155445-pixel-art-mash-up.json"
+    },
+    {
       "igdb_id": 220876,
       "game_name": "Pixel Artist",
       "file": "missing/P/220876-pixel-artist.json"
@@ -824197,6 +824382,11 @@
       "file": "missing/R/172095-red-algorithm-fernando.json"
     },
     {
+      "igdb_id": 155447,
+      "game_name": "Red Algorithm: Osiris",
+      "file": "missing/R/155447-red-algorithm-osiris.json"
+    },
+    {
       "igdb_id": 231793,
       "game_name": "Red Amazon",
       "file": "missing/R/231793-red-amazon.json"
@@ -875732,6 +875922,11 @@
       "file": "missing/S/172374-sea-dogs-to-each-his-own-flying-the-jolly-roger.json"
     },
     {
+      "igdb_id": 155408,
+      "game_name": "Sea Dogs: To Each His Own - Happily Ever After",
+      "file": "missing/S/155408-sea-dogs-to-each-his-own-happily-ever-after.json"
+    },
+    {
       "igdb_id": 171618,
       "game_name": "Sea Dogs: To Each His Own - Hero of the Nation",
       "file": "missing/S/171618-sea-dogs-to-each-his-own-hero-of-the-nation.json"
@@ -915440,6 +915635,11 @@
       "igdb_id": 87216,
       "game_name": "Smash Up - The Card Game",
       "file": "missing/S/87216-smash-up-the-card-game.json"
+    },
+    {
+      "igdb_id": 155444,
+      "game_name": "Smash Up: Awesome Level 9000",
+      "file": "missing/S/155444-smash-up-awesome-level-9000.json"
     },
     {
       "igdb_id": 172147,
@@ -1000292,6 +1000492,11 @@
       "file": "missing/T/85420-table-tennis-infinity.json"
     },
     {
+      "igdb_id": 155421,
+      "game_name": "Table Tennis Pro",
+      "file": "missing/T/155421-table-tennis-pro.json"
+    },
+    {
       "igdb_id": 72076,
       "game_name": "Table Tennis Simulation",
       "file": "missing/T/72076-table-tennis-simulation.json"
@@ -1034937,6 +1035142,11 @@
       "file": "missing/T/122823-the-eye-of-borrack.json"
     },
     {
+      "igdb_id": 155414,
+      "game_name": "The Eye of Borrack: Tangled Tales",
+      "file": "missing/T/155414-the-eye-of-borrack-tangled-tales.json"
+    },
+    {
       "igdb_id": 7302,
       "game_name": "The Eye of Judgment",
       "file": "missing/T/7302-the-eye-of-judgment.json"
@@ -1048050,6 +1048260,11 @@
       "igdb_id": 89911,
       "game_name": "The Legend of Heroes: Trails of Cold Steel - Lionheart Edition",
       "file": "missing/T/89911-the-legend-of-heroes-trails-of-cold-steel-lionheart-edition.json"
+    },
+    {
+      "igdb_id": 155420,
+      "game_name": "The Legend of Heroes: Trails of Cold Steel - Shining Pom Bait Pack 2",
+      "file": "missing/T/155420-the-legend-of-heroes-trails-of-cold-steel-shining-pom-bait-pack-2.json"
     },
     {
       "igdb_id": 13558,
@@ -1127015,6 +1127230,11 @@
       "igdb_id": 273256,
       "game_name": "TV Kamishibai Vol. 1",
       "file": "missing/T/273256-tv-kamishibai-vol-1.json"
+    },
+    {
+      "igdb_id": 155416,
+      "game_name": "TV Kid",
+      "file": "missing/T/155416-tv-kid.json"
     },
     {
       "igdb_id": 24733,
@@ -1216337,14 +1216557,29 @@
       "file": "missing/Z/220740-zombie-arena.json"
     },
     {
+      "igdb_id": 155454,
+      "game_name": "Zombie Army 4: Dead War - American Sea Captain Character",
+      "file": "missing/Z/155454-zombie-army-4-dead-war-american-sea-captain-character.json"
+    },
+    {
       "igdb_id": 129784,
       "game_name": "Zombie Army 4: Dead War - Deluxe Edition",
       "file": "missing/Z/129784-zombie-army-4-dead-war-deluxe-edition.json"
     },
     {
+      "igdb_id": 155452,
+      "game_name": "Zombie Army 4: Dead War - French Resistance Fighter Character",
+      "file": "missing/Z/155452-zombie-army-4-dead-war-french-resistance-fighter-character.json"
+    },
+    {
       "igdb_id": 199894,
       "game_name": "Zombie Army 4: Dead War - Left 4 Dead Bundle",
       "file": "missing/Z/199894-zombie-army-4-dead-war-left-4-dead-bundle.json"
+    },
+    {
+      "igdb_id": 155449,
+      "game_name": "Zombie Army 4: Dead War - Left 4 Dead Character Pack 1",
+      "file": "missing/Z/155449-zombie-army-4-dead-war-left-4-dead-character-pack-1.json"
     },
     {
       "igdb_id": 133936,
@@ -1216372,6 +1216607,11 @@
       "file": "missing/Z/163352-zombie-army-4-dead-war-mission-9-return-to-hell.json"
     },
     {
+      "igdb_id": 155451,
+      "game_name": "Zombie Army 4: Dead War - Paratrooper Zombie Character",
+      "file": "missing/Z/155451-zombie-army-4-dead-war-paratrooper-zombie-character.json"
+    },
+    {
       "igdb_id": 200437,
       "game_name": "Zombie Army 4: Dead War - Ragnarök",
       "file": "missing/Z/200437-zombie-army-4-dead-war-ragnarok.json"
@@ -1216382,9 +1216622,19 @@
       "file": "missing/Z/201579-zombie-army-4-dead-war-ragnarok-campaign-and-character-pack.json"
     },
     {
+      "igdb_id": 155453,
+      "game_name": "Zombie Army 4: Dead War - Renegade Officer Character",
+      "file": "missing/Z/155453-zombie-army-4-dead-war-renegade-officer-character.json"
+    },
+    {
       "igdb_id": 129783,
       "game_name": "Zombie Army 4: Dead War - Super Deluxe Edition",
       "file": "missing/Z/129783-zombie-army-4-dead-war-super-deluxe-edition.json"
+    },
+    {
+      "igdb_id": 155450,
+      "game_name": "Zombie Army 4: Dead War - Undead Airman Character",
+      "file": "missing/Z/155450-zombie-army-4-dead-war-undead-airman-character.json"
     },
     {
       "igdb_id": 20871,
