@@ -7271,6 +7271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angie Magica | 391291 | [391291-angie-magica.json](./391291-angie-magica.json) |
 | Angira Online | 235715 | [235715-angira-online.json](./235715-angira-online.json) |
 | Angkor: Beginnings | 209699 | [209699-angkor-beginnings.json](./209699-angkor-beginnings.json) |
+| Angkor: Celebrations | 151437 | [151437-angkor-celebrations.json](./151437-angkor-celebrations.json) |
 | Angkor: Runefall | 149229 | [149229-angkor-runefall.json](./149229-angkor-runefall.json) |
 | Angkot d Game | 214753 | [214753-angkot-d-game.json](./214753-angkot-d-game.json) |
 | AngL | 104526 | [104526-angl.json](./104526-angl.json) |
@@ -8763,6 +8764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apocalypse Traffic | 245260 | [245260-apocalypse-traffic.json](./245260-apocalypse-traffic.json) |
 | Apocalypse Z: Survival | 129803 | [129803-apocalypse-z-survival.json](./129803-apocalypse-z-survival.json) |
 | Apocalypse Zombie Race | 98367 | [98367-apocalypse-zombie-race.json](./98367-apocalypse-zombie-race.json) |
+| Apocalypse: 2.0 Edition | 151450 | [151450-apocalypse-2-0-edition.json](./151450-apocalypse-2-0-edition.json) |
 | Apocalypse: Desire Next | 5487 | [5487-apocalypse-desire-next.json](./5487-apocalypse-desire-next.json) |
 | Apocalypse: Floodgates | 195530 | [195530-apocalypse-floodgates.json](./195530-apocalypse-floodgates.json) |
 | Apocalypse: Party's Over | 35294 | [35294-apocalypse-partys-over.json](./35294-apocalypse-partys-over.json) |
