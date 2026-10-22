@@ -1722,6 +1722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paranormal: Found Footage | 297176 | [297176-paranormal-found-footage.json](./297176-paranormal-found-footage.json) |
 | Paranormal: The Town | 61627 | [61627-paranormal-the-town.json](./61627-paranormal-the-town.json) |
 | Paranormalized | 213837 | [213837-paranormalized.json](./213837-paranormalized.json) |
+| Paranormalscape | 139268 | [139268-paranormalscape.json](./139268-paranormalscape.json) |
 | Paranormasight: The Mermaid's Curse | 388426 | [388426-paranormasight-the-mermaids-curse.json](./388426-paranormasight-the-mermaids-curse.json) |
 | Paranox | 273828 | [273828-paranox.json](./273828-paranox.json) |
 | Paranoya | 204269 | [204269-paranoya.json](./204269-paranoya.json) |
@@ -6018,6 +6019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Piss | 136133 | [136133-piss.json](./136133-piss.json) |
 | Piss Off | 331295 | [331295-piss-off.json](./331295-piss-off.json) |
 | Pissed Off: Peeing Simulator | 326262 | [326262-pissed-off-peeing-simulator.json](./326262-pissed-off-peeing-simulator.json) |
+| Pisswolf 19 | 139052 | [139052-pisswolf-19.json](./139052-pisswolf-19.json) |
 | PISTA Motorsport | 251855 | [251855-pista-motorsport.json](./251855-pista-motorsport.json) |
 | Pistol Cat | 404895 | [404895-pistol-cat.json](./404895-pistol-cat.json) |
 | Pistol Daimyo no Bouken | 40089 | [40089-pistol-daimyo-no-bouken.json](./40089-pistol-daimyo-no-bouken.json) |
@@ -11925,6 +11927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Professor Lupo and his Horrible Pets | 76032 | [76032-professor-lupo-and-his-horrible-pets.json](./76032-professor-lupo-and-his-horrible-pets.json) |
 | Professor Neely and the Death Ray of Doom | 171532 | [171532-professor-neely-and-the-death-ray-of-doom.json](./171532-professor-neely-and-the-death-ray-of-doom.json) |
 | Professor Neumann's Adult Certification Test | 409548 | [409548-professor-neumanns-adult-certification-test.json](./409548-professor-neumanns-adult-certification-test.json) |
+| Professor Rubik's Brain Fitness | 139058 | [139058-professor-rubiks-brain-fitness.json](./139058-professor-rubiks-brain-fitness.json) |
 | Professor Simulator | 373873 | [373873-professor-simulator.json](./373873-professor-simulator.json) |
 | Professor Watts Memory Match: Cats | 109400 | [109400-professor-watts-memory-match-cats.json](./109400-professor-watts-memory-match-cats.json) |
 | Professor Watts Memory Match: Cute Animals | 106603 | [106603-professor-watts-memory-match-cute-animals.json](./106603-professor-watts-memory-match-cute-animals.json) |
