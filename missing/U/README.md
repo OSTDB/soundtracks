@@ -2469,6 +2469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Up | 5254 | [5254-up.json](./5254-up.json) |
 | Up & Down | 312568 | [312568-up-and-down.json](./312568-up-and-down.json) |
 | Up 1 Way | 371344 | [371344-up-1-way.json](./371344-up-1-way.json) |
+| UP 9 - Hexa Puzzle! | 100653 | [100653-up-9-hexa-puzzle.json](./100653-up-9-hexa-puzzle.json) |
 | Up All Knight | 232371 | [232371-up-all-knight.json](./232371-up-all-knight.json) |
 | Up All Night | 165064 | [165064-up-all-night.json](./165064-up-all-night.json) |
 | Up All Night: Daybreak | 245722 | [245722-up-all-night-daybreak.json](./245722-up-all-night-daybreak.json) |
