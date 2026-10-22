@@ -10603,6 +10603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arkanoid | 326864 | [326864-arkanoid.json](./326864-arkanoid.json) |
 | Arkanoid | 4595 | [4595-arkanoid.json](./4595-arkanoid.json) |
 | Arkanoid 2000 | 80599 | [80599-arkanoid-2000.json](./80599-arkanoid-2000.json) |
+| Arkanoid For Painters | 106337 | [106337-arkanoid-for-painters.json](./106337-arkanoid-for-painters.json) |
 | Arkanoid Live! | 72559 | [72559-arkanoid-live.json](./72559-arkanoid-live.json) |
 | Arkanoid Plus! | 50996 | [50996-arkanoid-plus.json](./50996-arkanoid-plus.json) |
 | Arkanoid R 2000 | 43807 | [43807-arkanoid-r-2000.json](./43807-arkanoid-r-2000.json) |
