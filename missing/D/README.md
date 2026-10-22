@@ -932,6 +932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dànzhàrén 2222 | 81758 | [81758-danzharen-2222.json](./81758-danzharen-2222.json) |
 | Dāo Qūqū | 374621 | [374621-dao-ququ.json](./374621-dao-ququ.json) |
 | Dào zhī Zhàn | 367570 | [367570-dao-zhi-zhan.json](./367570-dao-zhi-zhan.json) |
+| Daoker: A Banished Tiger | 101311 | [101311-daoker-a-banished-tiger.json](./101311-daoker-a-banished-tiger.json) |
 | Dap | 143326 | [143326-dap.json](./143326-dap.json) |
 | Dapithapon | 341088 | [341088-dapithapon.json](./341088-dapithapon.json) |
 | Dappervolk | 130667 | [130667-dappervolk.json](./130667-dappervolk.json) |
