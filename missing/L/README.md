@@ -5474,6 +5474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Logistical: USA - Oregon | 59231 | [59231-logistical-usa-oregon.json](./59231-logistical-usa-oregon.json) |
 | Logistical: USA - Wisconsin | 74488 | [74488-logistical-usa-wisconsin.json](./74488-logistical-usa-wisconsin.json) |
 | Logistics Central | 271720 | [271720-logistics-central.json](./271720-logistics-central.json) |
+| Logistics Expert | 120040 | [120040-logistics-expert.json](./120040-logistics-expert.json) |
 | Logistics Inc | 183877 | [183877-logistics-inc.json](./183877-logistics-inc.json) |
 | Logistics Simulator | 161346 | [161346-logistics-simulator.json](./161346-logistics-simulator.json) |
 | Logistique | 157572 | [157572-logistique.json](./157572-logistique.json) |
@@ -6127,6 +6128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loskop | 200112 | [200112-loskop.json](./200112-loskop.json) |
 | Loss | 319061 | [319061-loss.json](./319061-loss.json) |
 | Loss at Sea | 384114 | [384114-loss-at-sea.json](./384114-loss-at-sea.json) |
+| Lost | 120010 | [120010-lost.json](./120010-lost.json) |
 | Lost | 139715 | [139715-lost.json](./139715-lost.json) |
 | Lost | 186258 | [186258-lost.json](./186258-lost.json) |
 | Lost | 327379 | [327379-lost.json](./327379-lost.json) |
