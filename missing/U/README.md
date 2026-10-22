@@ -1100,6 +1100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uncharted 3: Drake's Deception - Explorer Edition | 41881 | [41881-uncharted-3-drakes-deception-explorer-edition.json](./41881-uncharted-3-drakes-deception-explorer-edition.json) |
 | Uncharted 3: Drake's Deception - Special Edition | 139922 | [139922-uncharted-3-drakes-deception-special-edition.json](./139922-uncharted-3-drakes-deception-special-edition.json) |
 | Uncharted 3: Multiplayer | 252195 | [252195-uncharted-3-multiplayer.json](./252195-uncharted-3-multiplayer.json) |
+| Uncharted 4: A Thief's End - Digital Deluxe Edition | 136686 | [136686-uncharted-4-a-thiefs-end-digital-deluxe-edition.json](./136686-uncharted-4-a-thiefs-end-digital-deluxe-edition.json) |
 | Uncharted 4: A Thief's End - Patch 1.18 | 382528 | [382528-uncharted-4-a-thiefs-end-patch-1-18.json](./382528-uncharted-4-a-thiefs-end-patch-1-18.json) |
 | Uncharted 4: A Thief's End - Remastered | 168668 | [168668-uncharted-4-a-thiefs-end-remastered.json](./168668-uncharted-4-a-thiefs-end-remastered.json) |
 | Uncharted 4: A Thief's End Libertalia Collector's Edition | 41879 | [41879-uncharted-4-a-thiefs-end-libertalia-collectors-edition.json](./41879-uncharted-4-a-thiefs-end-libertalia-collectors-edition.json) |
@@ -2820,6 +2821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Utapau Chase | 245968 | [245968-utapau-chase.json](./245968-utapau-chase.json) |
 | Utauta-Uh: Seirei Songs | 167052 | [167052-utauta-uh-seirei-songs.json](./167052-utauta-uh-seirei-songs.json) |
 | Utawarerumono | 24080 | [24080-utawarerumono.json](./24080-utawarerumono.json) |
+| Utawarerumono Zan: Premium Edition | 136709 | [136709-utawarerumono-zan-premium-edition.json](./136709-utawarerumono-zan-premium-edition.json) |
 | Utawarerumono: Lost Flag | 120286 | [120286-utawarerumono-lost-flag.json](./120286-utawarerumono-lost-flag.json) |
 | Utawarerumono: Mask of Deception | 13548 | [13548-utawarerumono-mask-of-deception.json](./13548-utawarerumono-mask-of-deception.json) |
 | Utawarerumono: Past and Present Rediscovered | 387541 | [387541-utawarerumono-past-and-present-rediscovered.json](./387541-utawarerumono-past-and-present-rediscovered.json) |
