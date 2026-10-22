@@ -2626,6 +2626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teenage Lawnmower | 308559 | [308559-teenage-lawnmower.json](./308559-teenage-lawnmower.json) |
 | Teenage Mutant Ninja Puppets | 404440 | [404440-teenage-mutant-ninja-puppets.json](./404440-teenage-mutant-ninja-puppets.json) |
 | Teenage Mutant Ninja Turtles | 146004 | [146004-teenage-mutant-ninja-turtles.json](./146004-teenage-mutant-ninja-turtles.json) |
+| Teenage Mutant Ninja Turtles | 146006 | [146006-teenage-mutant-ninja-turtles.json](./146006-teenage-mutant-ninja-turtles.json) |
 | Teenage Mutant Ninja Turtles | 19747 | [19747-teenage-mutant-ninja-turtles.json](./19747-teenage-mutant-ninja-turtles.json) |
 | Teenage Mutant Ninja Turtles | 218922 | [218922-teenage-mutant-ninja-turtles.json](./218922-teenage-mutant-ninja-turtles.json) |
 | Teenage Mutant Ninja Turtles | 3815 | [3815-teenage-mutant-ninja-turtles.json](./3815-teenage-mutant-ninja-turtles.json) |
@@ -3439,6 +3440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terminator: Resistance | 122611 | [122611-terminator-resistance.json](./122611-terminator-resistance.json) |
 | Terminator: Resistance - Annihilation Line | 183127 | [183127-terminator-resistance-annihilation-line.json](./183127-terminator-resistance-annihilation-line.json) |
 | Terminator: Resistance Enhanced | 146146 | [146146-terminator-resistance-enhanced.json](./146146-terminator-resistance-enhanced.json) |
+| Terminator: Resistance Enhanced - Collector's Edition | 146147 | [146147-terminator-resistance-enhanced-collectors-edition.json](./146147-terminator-resistance-enhanced-collectors-edition.json) |
 | Terminators: The Video Game | 62965 | [62965-terminators-the-video-game.json](./62965-terminators-the-video-game.json) |
 | Terminull | 185151 | [185151-terminull.json](./185151-terminull.json) |
 | Terminus | 171327 | [171327-terminus.json](./171327-terminus.json) |
@@ -5403,6 +5405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The California Raisins: The Grape Escape | 48702 | [48702-the-california-raisins-the-grape-escape.json](./48702-the-california-raisins-the-grape-escape.json) |
 | The Caligula Effect 2 | 143623 | [143623-the-caligula-effect-2.json](./143623-the-caligula-effect-2.json) |
 | The Caligula Effect 2: Complete Edition | 227183 | [227183-the-caligula-effect-2-complete-edition.json](./227183-the-caligula-effect-2-complete-edition.json) |
+| The Caligula Effect 2: First Press Limited Edition | 146013 | [146013-the-caligula-effect-2-first-press-limited-edition.json](./146013-the-caligula-effect-2-first-press-limited-edition.json) |
 | The Caligula Effect: Deluxe Digital Bundle | 122355 | [122355-the-caligula-effect-deluxe-digital-bundle.json](./122355-the-caligula-effect-deluxe-digital-bundle.json) |
 | The Caligula Effect: Overdose | 75990 | [75990-the-caligula-effect-overdose.json](./75990-the-caligula-effect-overdose.json) |
 | The Caligula Effect: Overdose - Limited Edition | 167144 | [167144-the-caligula-effect-overdose-limited-edition.json](./167144-the-caligula-effect-overdose-limited-edition.json) |
@@ -7958,6 +7961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Great Ocean | 199519 | [199519-the-great-ocean.json](./199519-the-great-ocean.json) |
 | The Great One Hand Challenge | 98574 | [98574-the-great-one-hand-challenge.json](./98574-the-great-one-hand-challenge.json) |
 | The Great Order | 184941 | [184941-the-great-order.json](./184941-the-great-order.json) |
+| The Great Palermo | 146002 | [146002-the-great-palermo.json](./146002-the-great-palermo.json) |
 | The Great Race | 55835 | [55835-the-great-race.json](./55835-the-great-race.json) |
 | The Great Race | 99775 | [99775-the-great-race.json](./99775-the-great-race.json) |
 | The Great Reading Adventure | 207115 | [207115-the-great-reading-adventure.json](./207115-the-great-reading-adventure.json) |
@@ -8506,6 +8510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Idolmaster: SideM | 56386 | [56386-the-idolmaster-sidem.json](./56386-the-idolmaster-sidem.json) |
 | The Idolmaster: SideM - Growing Stars | 175617 | [175617-the-idolmaster-sidem-growing-stars.json](./175617-the-idolmaster-sidem-growing-stars.json) |
 | The Idolmaster: SideM - Live on Stage! | 54983 | [54983-the-idolmaster-sidem-live-on-stage.json](./54983-the-idolmaster-sidem-live-on-stage.json) |
+| The Idolmaster: Starlit Season - Starlight Box | 146012 | [146012-the-idolmaster-starlit-season-starlight-box.json](./146012-the-idolmaster-starlit-season-starlight-box.json) |
 | The Idolmaster: Stella Stage | 68288 | [68288-the-idolmaster-stella-stage.json](./68288-the-idolmaster-stella-stage.json) |
 | The Ignition Factor | 42607 | [42607-the-ignition-factor.json](./42607-the-ignition-factor.json) |
 | The IL Tempo Game | 83601 | [83601-the-il-tempo-game.json](./83601-the-il-tempo-game.json) |
@@ -10128,6 +10133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The logic inside | 160265 | [160265-the-logic-inside.json](./160265-the-logic-inside.json) |
 | The London Heist | 11255 | [11255-the-london-heist.json](./11255-the-london-heist.json) |
 | The Lone Alien | 237079 | [237079-the-lone-alien.json](./237079-the-lone-alien.json) |
+| The Lone Blade | 145972 | [145972-the-lone-blade.json](./145972-the-lone-blade.json) |
 | The Lone Chameleon | 87994 | [87994-the-lone-chameleon.json](./87994-the-lone-chameleon.json) |
 | The Lone Hero | 387522 | [387522-the-lone-hero.json](./387522-the-lone-hero.json) |
 | The Lone Island Survival | 68663 | [68663-the-lone-island-survival.json](./68663-the-lone-island-survival.json) |
@@ -11341,6 +11347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Outer Side | 329611 | [329611-the-outer-side.json](./329611-the-outer-side.json) |
 | The Outer Space Bugs | 224751 | [224751-the-outer-space-bugs.json](./224751-the-outer-space-bugs.json) |
 | The Outer Worlds 2: Premium Edition | 348309 | [348309-the-outer-worlds-2-premium-edition.json](./348309-the-outer-worlds-2-premium-edition.json) |
+| The Outer Worlds: Board-Approved Bundle | 146157 | [146157-the-outer-worlds-board-approved-bundle.json](./146157-the-outer-worlds-board-approved-bundle.json) |
 | The Outer Worlds: Expansion Pass | 293732 | [293732-the-outer-worlds-expansion-pass.json](./293732-the-outer-worlds-expansion-pass.json) |
 | The Outer Worlds: Murder on Eridanos | 136430 | [136430-the-outer-worlds-murder-on-eridanos.json](./136430-the-outer-worlds-murder-on-eridanos.json) |
 | The Outer Worlds: Peril on Gorgon | 135996 | [135996-the-outer-worlds-peril-on-gorgon.json](./135996-the-outer-worlds-peril-on-gorgon.json) |
@@ -11507,6 +11514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Perplexing Orb: Bounce Mania | 384744 | [384744-the-perplexing-orb-bounce-mania.json](./384744-the-perplexing-orb-bounce-mania.json) |
 | The Perplexing Orb: Bounce N' Roll | 276155 | [276155-the-perplexing-orb-bounce-n-roll.json](./276155-the-perplexing-orb-bounce-n-roll.json) |
 | The Persistence | 37282 | [37282-the-persistence.json](./37282-the-persistence.json) |
+| The Persistence Enhanced | 146151 | [146151-the-persistence-enhanced.json](./146151-the-persistence-enhanced.json) |
 | The Person Living Next Door | 409509 | [409509-the-person-living-next-door.json](./409509-the-person-living-next-door.json) |
 | The Personal Reasons | 217476 | [217476-the-personal-reasons.json](./217476-the-personal-reasons.json) |
 | The Pet Squad | 332810 | [332810-the-pet-squad.json](./332810-the-pet-squad.json) |
@@ -19428,6 +19436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom Clancy's The Division 2: Warlords of New York - Season Ten: Price of Power | 216426 | [216426-tom-clancys-the-division-2-warlords-of-new-york-season-ten-price-of-power.json](./216426-tom-clancys-the-division-2-warlords-of-new-york-season-ten-price-of-power.json) |
 | Tom Clancy's The Division 2: Warlords of New York - Season Three: Concealed Agenda | 209316 | [209316-tom-clancys-the-division-2-warlords-of-new-york-season-three-concealed-agenda.json](./209316-tom-clancys-the-division-2-warlords-of-new-york-season-three-concealed-agenda.json) |
 | Tom Clancy's The Division 2: Warlords of New York - Season Two: Keener’s Legacy | 209315 | [209315-tom-clancys-the-division-2-warlords-of-new-york-season-two-keener-s-legacy.json](./209315-tom-clancys-the-division-2-warlords-of-new-york-season-two-keener-s-legacy.json) |
+| Tom Clancy's The Division 2: Warlords of New York - Ultimate Edition | 146156 | [146156-tom-clancys-the-division-2-warlords-of-new-york-ultimate-edition.json](./146156-tom-clancys-the-division-2-warlords-of-new-york-ultimate-edition.json) |
 | Tom Clancy's The Division 2: Year 1 Pass | 152165 | [152165-tom-clancys-the-division-2-year-1-pass.json](./152165-tom-clancys-the-division-2-year-1-pass.json) |
 | Tom Clancy's The Division Franchise Bundle | 164857 | [164857-tom-clancys-the-division-franchise-bundle.json](./164857-tom-clancys-the-division-franchise-bundle.json) |
 | Tom Clancy's The Division: Gold Edition | 53822 | [53822-tom-clancys-the-division-gold-edition.json](./53822-tom-clancys-the-division-gold-edition.json) |
@@ -23192,6 +23201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Transformers: Battle Tactics | 60584 | [60584-transformers-battle-tactics.json](./60584-transformers-battle-tactics.json) |
 | Transformers: Battlegrounds | 137948 | [137948-transformers-battlegrounds.json](./137948-transformers-battlegrounds.json) |
 | Transformers: Battlegrounds - Complete Edition | 188638 | [188638-transformers-battlegrounds-complete-edition.json](./188638-transformers-battlegrounds-complete-edition.json) |
+| Transformers: Battlegrounds - Deluxe Edition | 146009 | [146009-transformers-battlegrounds-deluxe-edition.json](./146009-transformers-battlegrounds-deluxe-edition.json) |
 | Transformers: Beast Wars Transmetals | 273897 | [273897-transformers-beast-wars-transmetals.json](./273897-transformers-beast-wars-transmetals.json) |
 | Transformers: Bumblebee Overdrive | 234500 | [234500-transformers-bumblebee-overdrive.json](./234500-transformers-bumblebee-overdrive.json) |
 | Transformers: Cybertron Adventures | 5242 | [5242-transformers-cybertron-adventures.json](./5242-transformers-cybertron-adventures.json) |
