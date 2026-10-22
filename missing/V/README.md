@@ -1629,6 +1629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vietnam: Ho Chi Minh Trail | 94632 | [94632-vietnam-ho-chi-minh-trail.json](./94632-vietnam-ho-chi-minh-trail.json) |
 | ViewerFrenzy | 415492 | [415492-viewerfrenzy.json](./415492-viewerfrenzy.json) |
 | Viewergames Racing | 139242 | [139242-viewergames-racing.json](./139242-viewergames-racing.json) |
+| Viewpoint | 119410 | [119410-viewpoint.json](./119410-viewpoint.json) |
 | Viewpoint | 20707 | [20707-viewpoint.json](./20707-viewpoint.json) |
 | Viewpoint | 321578 | [321578-viewpoint.json](./321578-viewpoint.json) |
 | Viewpoint 2064 | 225296 | [225296-viewpoint-2064.json](./225296-viewpoint-2064.json) |
