@@ -3537,6 +3537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Episode 666 | 261684 | [261684-episode-666.json](./261684-episode-666.json) |
 | Episode in the Life of an Artist | 217762 | [217762-episode-in-the-life-of-an-artist.json](./217762-episode-in-the-life-of-an-artist.json) |
 | Episode XOXO | 291981 | [291981-episode-xoxo.json](./291981-episode-xoxo.json) |
+| Epistles & Ruins | 140410 | [140410-epistles-and-ruins.json](./140410-epistles-and-ruins.json) |
 | Epistory: Typing Chronicles | 11657 | [11657-epistory-typing-chronicles.json](./11657-epistory-typing-chronicles.json) |
 | Epitaph | 135780 | [135780-epitaph.json](./135780-epitaph.json) |
 | Epitaph | 29703 | [29703-epitaph.json](./29703-epitaph.json) |
