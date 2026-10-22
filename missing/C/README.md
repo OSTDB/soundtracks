@@ -1818,6 +1818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Card-Jitsu | 200379 | [200379-card-jitsu.json](./200379-card-jitsu.json) |
 | Card'em All! | 346201 | [346201-cardem-all.json](./346201-cardem-all.json) |
 | Card&Casino | 399617 | [399617-card-and-casino.json](./399617-card-and-casino.json) |
+| Cardaclysm | 133093 | [133093-cardaclysm.json](./133093-cardaclysm.json) |
 | Cardaire | 319691 | [319691-cardaire.json](./319691-cardaire.json) |
 | Cardaire: Eternal Aces | 378441 | [378441-cardaire-eternal-aces.json](./378441-cardaire-eternal-aces.json) |
 | Cardamom | 361262 | [361262-cardamom.json](./361262-cardamom.json) |
@@ -8541,6 +8542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Code Age Brawls: Futatsu no Kodou | 287516 | [287516-code-age-brawls-futatsu-no-kodou.json](./287516-code-age-brawls-futatsu-no-kodou.json) |
 | Code Alpha: The Final Frontier | 284828 | [284828-code-alpha-the-final-frontier.json](./284828-code-alpha-the-final-frontier.json) |
 | Code angel | 153943 | [153943-code-angel.json](./153943-code-angel.json) |
+| Code Arcturus | 133097 | [133097-code-arcturus.json](./133097-code-arcturus.json) |
 | Code Blue | 401137 | [401137-code-blue.json](./401137-code-blue.json) |
 | Code Breaker | 380076 | [380076-code-breaker.json](./380076-code-breaker.json) |
 | Code Brown | 111178 | [111178-code-brown.json](./111178-code-brown.json) |
@@ -15152,6 +15154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curse of Destiny | 82728 | [82728-curse-of-destiny.json](./82728-curse-of-destiny.json) |
 | Curse of Dominion | 366886 | [366886-curse-of-dominion.json](./366886-curse-of-dominion.json) |
 | Curse of Elmwood | 279262 | [279262-curse-of-elmwood.json](./279262-curse-of-elmwood.json) |
+| Curse of Eternity | 133075 | [133075-curse-of-eternity.json](./133075-curse-of-eternity.json) |
 | Curse of Greed: Ultimate | 176973 | [176973-curse-of-greed-ultimate.json](./176973-curse-of-greed-ultimate.json) |
 | Curse of Issyos | 137101 | [137101-curse-of-issyos.json](./137101-curse-of-issyos.json) |
 | Curse of Mermos | 35678 | [35678-curse-of-mermos.json](./35678-curse-of-mermos.json) |
