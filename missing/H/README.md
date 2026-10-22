@@ -1361,6 +1361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Time Circus II | 262577 | [262577-happy-time-circus-ii.json](./262577-happy-time-circus-ii.json) |
 | Happy toys | 112779 | [112779-happy-toys.json](./112779-happy-toys.json) |
 | Happy Trails | 23685 | [23685-happy-trails.json](./23685-happy-trails.json) |
+| Happy Train | 100644 | [100644-happy-train.json](./100644-happy-train.json) |
 | Happy Trap House | 224552 | [224552-happy-trap-house.json](./224552-happy-trap-house.json) |
 | Happy Tree Friends: Deadeye Derby | 97972 | [97972-happy-tree-friends-deadeye-derby.json](./97972-happy-tree-friends-deadeye-derby.json) |
 | Happy Uppen Sometimes Downsad | 310140 | [310140-happy-uppen-sometimes-downsad.json](./310140-happy-uppen-sometimes-downsad.json) |
@@ -1521,6 +1522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HardBall II | 12433 | [12433-hardball-ii.json](./12433-hardball-ii.json) |
 | HardBall! | 12136 | [12136-hardball.json](./12136-hardball.json) |
 | HardBall! + HardBall II | 296603 | [296603-hardball-hardball-ii.json](./296603-hardball-hardball-ii.json) |
+| Hardboiled | 100638 | [100638-hardboiled.json](./100638-hardboiled.json) |
 | Hardboiled | 193701 | [193701-hardboiled.json](./193701-hardboiled.json) |
 | Hardboiled Pinball | 131260 | [131260-hardboiled-pinball.json](./131260-hardboiled-pinball.json) |
 | HardBoiledFarm | 255967 | [255967-hardboiledfarm.json](./255967-hardboiledfarm.json) |
@@ -8064,6 +8066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horse Racing Manager | 27539 | [27539-horse-racing-manager.json](./27539-horse-racing-manager.json) |
 | Horse Racing Manager | 288809 | [288809-horse-racing-manager.json](./288809-horse-racing-manager.json) |
 | Horse Racing Manager 2 | 67994 | [67994-horse-racing-manager-2.json](./67994-horse-racing-manager-2.json) |
+| Horse Racing Manager 2018 | 100652 | [100652-horse-racing-manager-2018.json](./100652-horse-racing-manager-2018.json) |
 | Horse Racing Manager 2020 | 233117 | [233117-horse-racing-manager-2020.json](./233117-horse-racing-manager-2020.json) |
 | Horse Racing Rally | 133103 | [133103-horse-racing-rally.json](./133103-horse-racing-rally.json) |
 | Horse Riding Classic | 391814 | [391814-horse-riding-classic.json](./391814-horse-riding-classic.json) |
