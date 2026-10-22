@@ -882,6 +882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You Cannot Go Back! | 201990 | [201990-you-cannot-go-back.json](./201990-you-cannot-go-back.json) |
 | You Complete Me | 123466 | [123466-you-complete-me.json](./123466-you-complete-me.json) |
 | You Deserve | 32036 | [32036-you-deserve.json](./32036-you-deserve.json) |
+| You Died but a Necromancer Revived You | 116041 | [116041-you-died-but-a-necromancer-revived-you.json](./116041-you-died-but-a-necromancer-revived-you.json) |
 | You Do Jump | 202012 | [202012-you-do-jump.json](./202012-you-do-jump.json) |
 | You Doesn't Exist | 65826 | [65826-you-doesnt-exist.json](./65826-you-doesnt-exist.json) |
 | You Don't Belong Here | 391115 | [391115-you-dont-belong-here.json](./391115-you-dont-belong-here.json) |
@@ -965,6 +966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You Suck and I Hate You | 362413 | [362413-you-suck-and-i-hate-you.json](./362413-you-suck-and-i-hate-you.json) |
 | You Suck at Football | 363571 | [363571-you-suck-at-football.json](./363571-you-suck-at-football.json) |
 | You Sure Wanna Drink This? | 346699 | [346699-you-sure-wanna-drink-this.json](./346699-you-sure-wanna-drink-this.json) |
+| You Versus 27 Elves | 116074 | [116074-you-versus-27-elves.json](./116074-you-versus-27-elves.json) |
 | You VS Drugs: Education & Prevention | 311316 | [311316-you-vs-drugs-education-and-prevention.json](./311316-you-vs-drugs-education-and-prevention.json) |
 | You vs. Boo | 307665 | [307665-you-vs-boo.json](./307665-you-vs-boo.json) |
 | You vs. Wild | 256863 | [256863-you-vs-wild.json](./256863-you-vs-wild.json) |
