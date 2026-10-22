@@ -323,6 +323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daikoukai Jidai III: Costa del Sol | 186736 | [186736-daikoukai-jidai-iii-costa-del-sol.json](./186736-daikoukai-jidai-iii-costa-del-sol.json) |
 | Daikoukai Jidai IV: Porto Estado - Power Up Kit | 351127 | [351127-daikoukai-jidai-iv-porto-estado-power-up-kit.json](./351127-daikoukai-jidai-iv-porto-estado-power-up-kit.json) |
 | Daikoukai Jidai IV: Porto Estado - Shokai Gentei-ban | 351146 | [351146-daikoukai-jidai-iv-porto-estado-shokai-gentei-ban.json](./351146-daikoukai-jidai-iv-porto-estado-shokai-gentei-ban.json) |
+| Daikoukai Jidai IV: Rota Nova | 112090 | [112090-daikoukai-jidai-iv-rota-nova.json](./112090-daikoukai-jidai-iv-rota-nova.json) |
 | Daikoukai Jidai V | 56530 | [56530-daikoukai-jidai-v.json](./56530-daikoukai-jidai-v.json) |
 | Daiku no Gen-san 2: Akage no Dan no Gyakushuu | 48527 | [48527-daiku-no-gen-san-2-akage-no-dan-no-gyakushuu.json](./48527-daiku-no-gen-san-2-akage-no-dan-no-gyakushuu.json) |
 | Daiku no Gen-san: Kachi-kachi no Tonkachi ga Kachi | 50563 | [50563-daiku-no-gen-san-kachi-kachi-no-tonkachi-ga-kachi.json](./50563-daiku-no-gen-san-kachi-kachi-no-tonkachi-ga-kachi.json) |
@@ -1388,6 +1389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Raider | 127398 | [127398-dark-raider.json](./127398-dark-raider.json) |
 | Dark Realm: Queen of Flames | 139797 | [139797-dark-realm-queen-of-flames.json](./139797-dark-realm-queen-of-flames.json) |
 | Dark Realm: Queen of Flames - Collector's Edition HD | 88309 | [88309-dark-realm-queen-of-flames-collectors-edition-hd.json](./88309-dark-realm-queen-of-flames-collectors-edition-hd.json) |
+| Dark Reaper Shoots! | 112068 | [112068-dark-reaper-shoots.json](./112068-dark-reaper-shoots.json) |
 | Dark Reflection | 121970 | [121970-dark-reflection.json](./121970-dark-reflection.json) |
 | Dark Reflection | 380233 | [380233-dark-reflection.json](./380233-dark-reflection.json) |
 | Dark Regents | 133657 | [133657-dark-regents.json](./133657-dark-regents.json) |
@@ -7423,6 +7425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino Tour VR | 286787 | [286787-dino-tour-vr.json](./286787-dino-tour-vr.json) |
 | Dino Tower Arena | 272768 | [272768-dino-tower-arena.json](./272768-dino-tower-arena.json) |
 | Dino Tribe: New Era | 309366 | [309366-dino-tribe-new-era.json](./309366-dino-tribe-new-era.json) |
+| Dino Trumps | 112075 | [112075-dino-trumps.json](./112075-dino-trumps.json) |
 | Dino V. Xeno | 238382 | [238382-dino-v-xeno.json](./238382-dino-v-xeno.json) |
 | Dino Wars | 23918 | [23918-dino-wars.json](./23918-dino-wars.json) |
 | Dino-D | 199479 | [199479-dino-d.json](./199479-dino-d.json) |
@@ -9047,6 +9050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doge to the Moon | 149505 | [149505-doge-to-the-moon.json](./149505-doge-to-the-moon.json) |
 | DogeFight | 196508 | [196508-dogefight.json](./196508-dogefight.json) |
 | Dogeminer | 101938 | [101938-dogeminer.json](./101938-dogeminer.json) |
+| Dogeminer 2: Back 2 the Moon | 112046 | [112046-dogeminer-2-back-2-the-moon.json](./112046-dogeminer-2-back-2-the-moon.json) |
 | Dogeminer: CE | 396553 | [396553-dogeminer-ce.json](./396553-dogeminer-ce.json) |
 | Dogemon | 165480 | [165480-dogemon.json](./165480-dogemon.json) |
 | Dogenstein | 335369 | [335369-dogenstein.json](./335369-dogenstein.json) |
@@ -9359,6 +9363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Domain Owner | 312203 | [312203-domain-owner.json](./312203-domain-owner.json) |
 | Domaine | 85756 | [85756-domaine.json](./85756-domaine.json) |
 | Domains of Dusk | 217290 | [217290-domains-of-dusk.json](./217290-domains-of-dusk.json) |
+| Dome | 112041 | [112041-dome.json](./112041-dome.json) |
 | Dome Discover | 151523 | [151523-dome-discover.json](./151523-dome-discover.json) |
 | Dome Keeper: Deluxe Edition | 402958 | [402958-dome-keeper-deluxe-edition.json](./402958-dome-keeper-deluxe-edition.json) |
 | Dome Keeper: The Lost Keepers | 400396 | [400396-dome-keeper-the-lost-keepers.json](./400396-dome-keeper-the-lost-keepers.json) |
@@ -10352,6 +10357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doppleganger | 13606 | [13606-doppleganger.json](./13606-doppleganger.json) |
 | Doppleganger | 393558 | [393558-doppleganger.json](./393558-doppleganger.json) |
 | Doppyun Donpisha | 230224 | [230224-doppyun-donpisha.json](./230224-doppyun-donpisha.json) |
+| Doptrix | 112069 | [112069-doptrix.json](./112069-doptrix.json) |
 | Dopusk 31 | 222315 | [222315-dopusk-31.json](./222315-dopusk-31.json) |
 | Dor | 84278 | [84278-dor.json](./84278-dor.json) |
 | Dora & Kai-Lan's Pet Shelter | 97372 | [97372-dora-and-kai-lans-pet-shelter.json](./97372-dora-and-kai-lans-pet-shelter.json) |
@@ -10430,6 +10436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doraemon: Nobita no Daimakyou | 349416 | [349416-doraemon-nobita-no-daimakyou.json](./349416-doraemon-nobita-no-daimakyou.json) |
 | Doraemon: Nobita no Doki-doki! Obake Land | 231512 | [231512-doraemon-nobita-no-doki-doki-obake-land.json](./231512-doraemon-nobita-no-doki-doki-obake-land.json) |
 | Doraemon: Nobita no Dorayaki Ya-san | 349423 | [349423-doraemon-nobita-no-dorayaki-ya-san.json](./349423-doraemon-nobita-no-dorayaki-ya-san.json) |
+| Doraemon: Nobita no Getsumen Tansa-ki | 112091 | [112091-doraemon-nobita-no-getsumen-tansa-ki.json](./112091-doraemon-nobita-no-getsumen-tansa-ki.json) |
 | Doraemon: Nobita no Himitsu Dougu Hakubutsukan | 60544 | [60544-doraemon-nobita-no-himitsu-dougu-hakubutsukan.json](./60544-doraemon-nobita-no-himitsu-dougu-hakubutsukan.json) |
 | Doraemon: Nobita no Kyouryuu | 349417 | [349417-doraemon-nobita-no-kyouryuu.json](./349417-doraemon-nobita-no-kyouryuu.json) |
 | Doraemon: Nobita no Nankyoku Kachikochi Daibouken | 56993 | [56993-doraemon-nobita-no-nankyoku-kachikochi-daibouken.json](./56993-doraemon-nobita-no-nankyoku-kachikochi-daibouken.json) |
@@ -11811,6 +11818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon x Dragon: Complete Version | 292130 | [292130-dragon-x-dragon-complete-version.json](./292130-dragon-x-dragon-complete-version.json) |
 | Dragon Zakura DS | 123305 | [123305-dragon-zakura-ds.json](./123305-dragon-zakura-ds.json) |
 | Dragon-Slaying War God | 367746 | [367746-dragon-slaying-war-god.json](./367746-dragon-slaying-war-god.json) |
+| Dragon, Fly! | 112054 | [112054-dragon-fly.json](./112054-dragon-fly.json) |
 | Dragon: A Game About a Dragon | 35700 | [35700-dragon-a-game-about-a-dragon.json](./35700-dragon-a-game-about-a-dragon.json) |
 | Dragon: The Bruce Lee Story | 18617 | [18617-dragon-the-bruce-lee-story.json](./18617-dragon-the-bruce-lee-story.json) |
 | Dragon: The Bruce Lee Story | 218422 | [218422-dragon-the-bruce-lee-story.json](./218422-dragon-the-bruce-lee-story.json) |
