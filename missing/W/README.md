@@ -2679,6 +2679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Well-Beings: Wellness for Kids | 192083 | [192083-well-beings-wellness-for-kids.json](./192083-well-beings-wellness-for-kids.json) |
 | Well, Fuck You Too | 352755 | [352755-well-fuck-you-too.json](./352755-well-fuck-you-too.json) |
 | Well... | 240082 | [240082-well.json](./240082-well.json) |
+| Wellington's Peninsular Campaign | 144828 | [144828-wellingtons-peninsular-campaign.json](./144828-wellingtons-peninsular-campaign.json) |
 | Wellington's Victory | 106728 | [106728-wellingtons-victory.json](./106728-wellingtons-victory.json) |
 | Wells | 31298 | [31298-wells.json](./31298-wells.json) |
 | Wellspring: Altar of Roots | 76984 | [76984-wellspring-altar-of-roots.json](./76984-wellspring-altar-of-roots.json) |
