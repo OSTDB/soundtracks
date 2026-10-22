@@ -2580,6 +2580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Empty Soul: S&S Edition | 32914 | [32914-empty-soul-s-and-s-edition.json](./32914-empty-soul-s-and-s-edition.json) |
 | Empty the Ocean With a Bucket | 392927 | [392927-empty-the-ocean-with-a-bucket.json](./392927-empty-the-ocean-with-a-bucket.json) |
 | Empty Town | 102293 | [102293-empty-town.json](./102293-empty-town.json) |
+| Empty Universe | 129464 | [129464-empty-universe.json](./129464-empty-universe.json) |
 | Empty Void | 183785 | [183785-empty-void.json](./183785-empty-void.json) |
 | Empty World | 365768 | [365768-empty-world.json](./365768-empty-world.json) |
 | Empty. | 134449 | [134449-empty.json](./134449-empty.json) |
