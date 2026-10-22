@@ -3579,6 +3579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fight till the End! | 289440 | [289440-fight-till-the-end.json](./289440-fight-till-the-end.json) |
 | Fight To The Death | 288200 | [288200-fight-to-the-death.json](./288200-fight-to-the-death.json) |
 | Fight Until Death | 219783 | [219783-fight-until-death.json](./219783-fight-until-death.json) |
+| Fight Wisdom | 128237 | [128237-fight-wisdom.json](./128237-fight-wisdom.json) |
 | Fight With Keys | 239781 | [239781-fight-with-keys.json](./239781-fight-with-keys.json) |
 | Fight With Valkyries | 368565 | [368565-fight-with-valkyries.json](./368565-fight-with-valkyries.json) |
 | Fight with WWE Champion | 196583 | [196583-fight-with-wwe-champion.json](./196583-fight-with-wwe-champion.json) |
@@ -6285,6 +6286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Floating Sandbox | 167707 | [167707-floating-sandbox.json](./167707-floating-sandbox.json) |
 | Floating with Spirits | 383368 | [383368-floating-with-spirits.json](./383368-floating-with-spirits.json) |
 | Floating World | 311166 | [311166-floating-world.json](./311166-floating-world.json) |
+| Floating World Before the World This Life | 128223 | [128223-floating-world-before-the-world-this-life.json](./128223-floating-world-before-the-world-this-life.json) |
 | FloatingPoint | 195997 | [195997-floatingpoint.json](./195997-floatingpoint.json) |
 | Floatmotion | 59976 | [59976-floatmotion.json](./59976-floatmotion.json) |
 | Floatopia | 314274 | [314274-floatopia.json](./314274-floatopia.json) |
