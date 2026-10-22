@@ -4619,6 +4619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Aquatic Adventure of the Last Human | 12598 | [12598-the-aquatic-adventure-of-the-last-human.json](./12598-the-aquatic-adventure-of-the-last-human.json) |
 | The Aquatic Messenger | 212118 | [212118-the-aquatic-messenger.json](./212118-the-aquatic-messenger.json) |
 | The Arab League of Misfits | 412531 | [412531-the-arab-league-of-misfits.json](./412531-the-arab-league-of-misfits.json) |
+| The Arab Republic of Taghia | 125681 | [125681-the-arab-republic-of-taghia.json](./125681-the-arab-republic-of-taghia.json) |
 | The Arcade Tower | 194373 | [194373-the-arcade-tower.json](./194373-the-arcade-tower.json) |
 | The Arcadia of Wulin | 155346 | [155346-the-arcadia-of-wulin.json](./155346-the-arcadia-of-wulin.json) |
 | The Arcana: Dark Tarot & Kings of Madness | 389075 | [389075-the-arcana-dark-tarot-and-kings-of-madness.json](./389075-the-arcana-dark-tarot-and-kings-of-madness.json) |
@@ -4933,6 +4934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Battle Road | 39617 | [39617-the-battle-road.json](./39617-the-battle-road.json) |
 | The Battles for Abunka | 210900 | [210900-the-battles-for-abunka.json](./210900-the-battles-for-abunka.json) |
 | The Battles of Napoleon | 54436 | [54436-the-battles-of-napoleon.json](./54436-the-battles-of-napoleon.json) |
+| The Battles of Spwak 2 | 125705 | [125705-the-battles-of-spwak-2.json](./125705-the-battles-of-spwak-2.json) |
 | The Battles of Spwak 3 | 126601 | [126601-the-battles-of-spwak-3.json](./126601-the-battles-of-spwak-3.json) |
 | The Baumman Box | 372452 | [372452-the-baumman-box.json](./372452-the-baumman-box.json) |
 | The Bazaar: Karnok | 400415 | [400415-the-bazaar-karnok.json](./400415-the-bazaar-karnok.json) |
@@ -5587,6 +5589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cesspit | 367966 | [367966-the-cesspit.json](./367966-the-cesspit.json) |
 | The Chad | 269191 | [269191-the-chad.json](./269191-the-chad.json) |
 | The Chain Witches | 299519 | [299519-the-chain-witches.json](./299519-the-chain-witches.json) |
+| The Chains That Bound Me | 125693 | [125693-the-chains-that-bound-me.json](./125693-the-chains-that-bound-me.json) |
 | The Chair Across the Table Stayed Empty | 416587 | [416587-the-chair-across-the-table-stayed-empty.json](./416587-the-chair-across-the-table-stayed-empty.json) |
 | The Chalice of Illusion | 285547 | [285547-the-chalice-of-illusion.json](./285547-the-chalice-of-illusion.json) |
 | The Chalice of Mostania | 122986 | [122986-the-chalice-of-mostania.json](./122986-the-chalice-of-mostania.json) |
@@ -9220,6 +9223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Land of Alembrume | 204983 | [204983-the-land-of-alembrume.json](./204983-the-land-of-alembrume.json) |
 | The Land of Crows | 126306 | [126306-the-land-of-crows.json](./126306-the-land-of-crows.json) |
 | The Land of Dasthir | 30898 | [30898-the-land-of-dasthir.json](./30898-the-land-of-dasthir.json) |
+| The Land of Exile | 125690 | [125690-the-land-of-exile.json](./125690-the-land-of-exile.json) |
 | The Land of Eyas | 36301 | [36301-the-land-of-eyas.json](./36301-the-land-of-eyas.json) |
 | The Land of Fog | 320808 | [320808-the-land-of-fog.json](./320808-the-land-of-fog.json) |
 | The Land of Glass | 89402 | [89402-the-land-of-glass.json](./89402-the-land-of-glass.json) |
@@ -10035,6 +10039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Leisure of Grisaia | 33058 | [33058-the-leisure-of-grisaia.json](./33058-the-leisure-of-grisaia.json) |
 | The Lemonade | 258517 | [258517-the-lemonade.json](./258517-the-lemonade.json) |
 | The Lemonade Stand Game | 397104 | [397104-the-lemonade-stand-game.json](./397104-the-lemonade-stand-game.json) |
+| The Leopard Catgirl in Miaoli | 125703 | [125703-the-leopard-catgirl-in-miaoli.json](./125703-the-leopard-catgirl-in-miaoli.json) |
 | The Lesser Evil | 176507 | [176507-the-lesser-evil.json](./176507-the-lesser-evil.json) |
 | The Lesser Known Cities of Europe | 142359 | [142359-the-lesser-known-cities-of-europe.json](./142359-the-lesser-known-cities-of-europe.json) |
 | The Letter | 33062 | [33062-the-letter.json](./33062-the-letter.json) |
@@ -25336,6 +25341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tunnel Vision | 146523 | [146523-tunnel-vision.json](./146523-tunnel-vision.json) |
 | Tunnel Vision | 271425 | [271425-tunnel-vision.json](./271425-tunnel-vision.json) |
 | Tunnel Vision | 273873 | [273873-tunnel-vision.json](./273873-tunnel-vision.json) |
+| Tunnel VR | 125699 | [125699-tunnel-vr.json](./125699-tunnel-vr.json) |
 | Tunnelborn | 419149 | [419149-tunnelborn.json](./419149-tunnelborn.json) |
 | Tunneler | 14439 | [14439-tunneler.json](./14439-tunneler.json) |
 | Tunnelers | 63212 | [63212-tunnelers.json](./63212-tunnelers.json) |
