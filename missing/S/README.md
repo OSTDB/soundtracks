@@ -19066,7 +19066,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: Galaxy of Heroes | 19577 | [19577-star-wars-galaxy-of-heroes.json](./19577-star-wars-galaxy-of-heroes.json) |
 | Star Wars: Heritage Pack | 200175 | [200175-star-wars-heritage-pack.json](./200175-star-wars-heritage-pack.json) |
 | Star Wars: Heritage Pack | 247756 | [247756-star-wars-heritage-pack.json](./247756-star-wars-heritage-pack.json) |
-| Star Wars: Hunters | 143611 | [143611-star-wars-hunters.json](./143611-star-wars-hunters.json) |
 | Star Wars: Hunters - Frosty Nerf Herder Cosmetic Pack | 328991 | [328991-star-wars-hunters-frosty-nerf-herder-cosmetic-pack.json](./328991-star-wars-hunters-frosty-nerf-herder-cosmetic-pack.json) |
 | Star Wars: Hunters - Gorax Fury Cosmetic Pack | 324394 | [324394-star-wars-hunters-gorax-fury-cosmetic-pack.json](./324394-star-wars-hunters-gorax-fury-cosmetic-pack.json) |
 | Star Wars: Hunters - Season 2: Empire Resurgent | 317322 | [317322-star-wars-hunters-season-2-empire-resurgent.json](./317322-star-wars-hunters-season-2-empire-resurgent.json) |
