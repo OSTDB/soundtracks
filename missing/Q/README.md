@@ -494,6 +494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quarterback Attack with Mike Ditka | 176692 | [176692-quarterback-attack-with-mike-ditka.json](./176692-quarterback-attack-with-mike-ditka.json) |
 | Quarterback Attack with Mike Ditka | 38828 | [38828-quarterback-attack-with-mike-ditka.json](./38828-quarterback-attack-with-mike-ditka.json) |
 | Quartermain and the Cult of Cthulhu | 332389 | [332389-quartermain-and-the-cult-of-cthulhu.json](./332389-quartermain-and-the-cult-of-cthulhu.json) |
+| Quartermaster | 118639 | [118639-quartermaster.json](./118639-quartermaster.json) |
 | Quartermaster | 368478 | [368478-quartermaster.json](./368478-quartermaster.json) |
 | Quartermaster General | 110295 | [110295-quartermaster-general.json](./110295-quartermaster-general.json) |
 | Quarters, Please! | 147647 | [147647-quarters-please.json](./147647-quarters-please.json) |
@@ -750,6 +751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quest: Escape Room 2 | 149391 | [149391-quest-escape-room-2.json](./149391-quest-escape-room-2.json) |
 | Quest: Escape Room 3 | 149509 | [149509-quest-escape-room-3.json](./149509-quest-escape-room-3.json) |
 | Quest: Fantasy Challenge | 49950 | [49950-quest-fantasy-challenge.json](./49950-quest-fantasy-challenge.json) |
+| Quest? Quest! | 118643 | [118643-quest-quest.json](./118643-quest-quest.json) |
 | Quest64: Recompiled | 385279 | [385279-quest64-recompiled.json](./385279-quest64-recompiled.json) |
 | QuestBall | 245019 | [245019-questball.json](./245019-questball.json) |
 | Questboard | 333914 | [333914-questboard.json](./333914-questboard.json) |
