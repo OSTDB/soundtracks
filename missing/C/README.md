@@ -407,6 +407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caliber .50 | 39491 | [39491-caliber-50.json](./39491-caliber-50.json) |
 | Calibration Sequence | 423278 | [423278-calibration-sequence.json](./423278-calibration-sequence.json) |
 | Calibre 10 Racing | 30249 | [30249-calibre-10-racing.json](./30249-calibre-10-racing.json) |
+| Calibria: Crystal Guardians | 130027 | [130027-calibria-crystal-guardians.json](./130027-calibria-crystal-guardians.json) |
 | Calice | 188316 | [188316-calice.json](./188316-calice.json) |
 | Calice | 357737 | [357737-calice.json](./357737-calice.json) |
 | Calico | 366427 | [366427-calico.json](./366427-calico.json) |
@@ -2305,6 +2306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carton Wars | 124557 | [124557-carton-wars.json](./124557-carton-wars.json) |
 | Carton-Kun | 209449 | [209449-carton-kun.json](./209449-carton-kun.json) |
 | Cartonfall | 98995 | [98995-cartonfall.json](./98995-cartonfall.json) |
+| Cartonfall: Fortress | 130055 | [130055-cartonfall-fortress.json](./130055-cartonfall-fortress.json) |
 | Cartoon Aliens Invasion: UFO Swarm Simulator | 100193 | [100193-cartoon-aliens-invasion-ufo-swarm-simulator.json](./100193-cartoon-aliens-invasion-ufo-swarm-simulator.json) |
 | Cartoon Bash | 339096 | [339096-cartoon-bash.json](./339096-cartoon-bash.json) |
 | Cartoon Basketball | 175738 | [175738-cartoon-basketball.json](./175738-cartoon-basketball.json) |
@@ -3086,6 +3088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Purrtrol: Find All 100! | 295772 | [295772-cat-purrtrol-find-all-100.json](./295772-cat-purrtrol-find-all-100.json) |
 | Cat Puzzle | 335441 | [335441-cat-puzzle.json](./335441-cat-puzzle.json) |
 | Cat Puzzle | 380062 | [380062-cat-puzzle.json](./380062-cat-puzzle.json) |
+| Cat Quest + Cat Quest II: Pawsome Pack | 129999 | [129999-cat-quest-cat-quest-ii-pawsome-pack.json](./129999-cat-quest-cat-quest-ii-pawsome-pack.json) |
 | Cat Quest III: Tavern Tales | 347866 | [347866-cat-quest-iii-tavern-tales.json](./347866-cat-quest-iii-tavern-tales.json) |
 | Cat Quest: The Fur-tastic Trilogy | 313223 | [313223-cat-quest-the-fur-tastic-trilogy.json](./313223-cat-quest-the-fur-tastic-trilogy.json) |
 | Cat Raid | 255010 | [255010-cat-raid.json](./255010-cat-raid.json) |
@@ -6590,6 +6593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chuck Rock II: Son of Chuck | 4371 | [4371-chuck-rock-ii-son-of-chuck.json](./4371-chuck-rock-ii-son-of-chuck.json) |
 | Chuck the Metalhead in Medieval Hell | 235809 | [235809-chuck-the-metalhead-in-medieval-hell.json](./235809-chuck-the-metalhead-in-medieval-hell.json) |
 | Chuck Yeager's Air Combat | 51396 | [51396-chuck-yeagers-air-combat.json](./51396-chuck-yeagers-air-combat.json) |
+| Chuck's Challenge | 130048 | [130048-chucks-challenge.json](./130048-chucks-challenge.json) |
 | Chuck's Challenge 3D 2020 | 139021 | [139021-chucks-challenge-3d-2020.json](./139021-chucks-challenge-3d-2020.json) |
 | Chuckie Egg | 10235 | [10235-chuckie-egg.json](./10235-chuckie-egg.json) |
 | Chuckie Egg | 311365 | [311365-chuckie-egg.json](./311365-chuckie-egg.json) |
@@ -13443,6 +13447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crimson Room | 247536 | [247536-crimson-room.json](./247536-crimson-room.json) |
 | Crimson Room: Decade | 25809 | [25809-crimson-room-decade.json](./25809-crimson-room-decade.json) |
 | Crimson Room: Reverse | 67281 | [67281-crimson-room-reverse.json](./67281-crimson-room-reverse.json) |
+| Crimson Royale ~Circumstances to serve a noble~ | 130006 | [130006-crimson-royale-circumstances-to-serve-a-noble.json](./130006-crimson-royale-circumstances-to-serve-a-noble.json) |
 | Crimson Seer | 378400 | [378400-crimson-seer.json](./378400-crimson-seer.json) |
 | Crimson Skies | 15863 | [15863-crimson-skies.json](./15863-crimson-skies.json) |
 | Crimson Skies: High Road to Revenge | 5793 | [5793-crimson-skies-high-road-to-revenge.json](./5793-crimson-skies-high-road-to-revenge.json) |
@@ -13874,6 +13879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CrossTheRidge Evolution | 349657 | [349657-crosstheridge-evolution.json](./349657-crosstheridge-evolution.json) |
 | Crosstown | 389643 | [389643-crosstown.json](./389643-crosstown.json) |
 | CrossTown 1: Giften | 122315 | [122315-crosstown-1-giften.json](./122315-crosstown-1-giften.json) |
+| CrossTown 2: Ängeln | 130005 | [130005-crosstown-2-angeln.json](./130005-crosstown-2-angeln.json) |
 | Crosstown Carnage | 326653 | [326653-crosstown-carnage.json](./326653-crosstown-carnage.json) |
 | CrossTrix | 114258 | [114258-crosstrix.json](./114258-crosstrix.json) |
 | Crosswalks | 243580 | [243580-crosswalks.json](./243580-crosswalks.json) |
@@ -15623,6 +15629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Commander: Zombie Revenge | 302212 | [302212-cyber-commander-zombie-revenge.json](./302212-cyber-commander-zombie-revenge.json) |
 | Cyber Courier 2088 | 233666 | [233666-cyber-courier-2088.json](./233666-cyber-courier-2088.json) |
 | Cyber Cult City | 154083 | [154083-cyber-cult-city.json](./154083-cyber-cult-city.json) |
+| Cyber Cycle | 130047 | [130047-cyber-cycle.json](./130047-cyber-cycle.json) |
 | Cyber Cycles | 39829 | [39829-cyber-cycles.json](./39829-cyber-cycles.json) |
 | Cyber Defense 2088 | 154896 | [154896-cyber-defense-2088.json](./154896-cyber-defense-2088.json) |
 | Cyber Diver | 176721 | [176721-cyber-diver.json](./176721-cyber-diver.json) |
