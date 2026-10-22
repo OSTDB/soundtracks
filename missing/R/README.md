@@ -5378,6 +5378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rhythm of Annihilation | 358373 | [358373-rhythm-of-annihilation.json](./358373-rhythm-of-annihilation.json) |
 | Rhythm of Earth | 375289 | [375289-rhythm-of-earth.json](./375289-rhythm-of-earth.json) |
 | Rhythm of the Gods | 131832 | [131832-rhythm-of-the-gods.json](./131832-rhythm-of-the-gods.json) |
+| Rhythm of the Universe: Ionia | 105683 | [105683-rhythm-of-the-universe-ionia.json](./105683-rhythm-of-the-universe-ionia.json) |
 | Rhythm Overdrive | 114527 | [114527-rhythm-overdrive.json](./114527-rhythm-overdrive.json) |
 | Rhythm Party | 20232 | [20232-rhythm-party.json](./20232-rhythm-party.json) |
 | Rhythm Plus | 207148 | [207148-rhythm-plus.json](./207148-rhythm-plus.json) |
@@ -6352,6 +6353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Risky Rider 3D | 175598 | [175598-risky-rider-3d.json](./175598-risky-rider-3d.json) |
 | Risky Roads | 300993 | [300993-risky-roads.json](./300993-risky-roads.json) |
 | Risky Sanctuary | 261772 | [261772-risky-sanctuary.json](./261772-risky-sanctuary.json) |
+| Risky Wings | 105717 | [105717-risky-wings.json](./105717-risky-wings.json) |
 | Risky Wings: 'Colibri' Character | 170783 | [170783-risky-wings-colibri-character.json](./170783-risky-wings-colibri-character.json) |
 | Risky Wings: 'Dizzy Kitten' Character | 170782 | [170782-risky-wings-dizzy-kitten-character.json](./170782-risky-wings-dizzy-kitten-character.json) |
 | Risky Woods | 12205 | [12205-risky-woods.json](./12205-risky-woods.json) |
@@ -6695,6 +6697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road Trip to the End of the World | 350446 | [350446-road-trip-to-the-end-of-the-world.json](./350446-road-trip-to-the-end-of-the-world.json) |
 | Road Trip USA 3: Central | 338050 | [338050-road-trip-usa-3-central.json](./338050-road-trip-usa-3-central.json) |
 | Road Trip: Arcade Edition | 78292 | [78292-road-trip-arcade-edition.json](./78292-road-trip-arcade-edition.json) |
+| Road Trip: Family Fun | 105704 | [105704-road-trip-family-fun.json](./105704-road-trip-family-fun.json) |
 | Road Trip: Shifting Gears | 49251 | [49251-road-trip-shifting-gears.json](./49251-road-trip-shifting-gears.json) |
 | Road Tripper | 150776 | [150776-road-tripper.json](./150776-road-tripper.json) |
 | Road Warrior | 223974 | [223974-road-warrior.json](./223974-road-warrior.json) |
@@ -8205,6 +8208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rollers | 127223 | [127223-rollers.json](./127223-rollers.json) |
 | Rollick N' Roll | 339645 | [339645-rollick-n-roll.json](./339645-rollick-n-roll.json) |
 | Rollie | 143073 | [143073-rollie.json](./143073-rollie.json) |
+| Rollie Panda Hat Edition | 105672 | [105672-rollie-panda-hat-edition.json](./105672-rollie-panda-hat-edition.json) |
 | Rollimals | 385828 | [385828-rollimals.json](./385828-rollimals.json) |
 | Rollin | 19227 | [19227-rollin.json](./19227-rollin.json) |
 | Rollin' Gun | 317697 | [317697-rollin-gun.json](./317697-rollin-gun.json) |
