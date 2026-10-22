@@ -6306,6 +6306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shield Impact | 81859 | [81859-shield-impact.json](./81859-shield-impact.json) |
 | Shield of Breaker | 380118 | [380118-shield-of-breaker.json](./380118-shield-of-breaker.json) |
 | Shield of Shalwend | 133126 | [133126-shield-of-shalwend.json](./133126-shield-of-shalwend.json) |
+| Shield Shock | 123873 | [123873-shield-shock.json](./123873-shield-shock.json) |
 | Shield Strike | 301126 | [301126-shield-strike.json](./301126-shield-strike.json) |
 | Shieldbound | 349406 | [349406-shieldbound.json](./349406-shieldbound.json) |
 | Shieldmaiden | 129709 | [129709-shieldmaiden.json](./129709-shieldmaiden.json) |
@@ -16031,6 +16032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speakeasy: Last Call | 295668 | [295668-speakeasy-last-call.json](./295668-speakeasy-last-call.json) |
 | Speaker | 178457 | [178457-speaker.json](./178457-speaker.json) |
 | Speakerman | 120082 | [120082-speakerman.json](./120082-speakerman.json) |
+| Speakerman 2 | 123835 | [123835-speakerman-2.json](./123835-speakerman-2.json) |
 | Speaking Simulator 2018 | 111648 | [111648-speaking-simulator-2018.json](./111648-speaking-simulator-2018.json) |
 | Speakrit | 293702 | [293702-speakrit.json](./293702-speakrit.json) |
 | Spear Girl | 190035 | [190035-spear-girl.json](./190035-spear-girl.json) |
@@ -26021,6 +26023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SuperBoys: The Big Fight | 58851 | [58851-superboys-the-big-fight.json](./58851-superboys-the-big-fight.json) |
 | Superbrothers: Sword & Sworcery EP | 2991 | [2991-superbrothers-sword-and-sworcery-ep.json](./2991-superbrothers-sword-and-sworcery-ep.json) |
 | Supercar Collection Simulator | 329962 | [329962-supercar-collection-simulator.json](./329962-supercar-collection-simulator.json) |
+| Supercar Drift | 123822 | [123822-supercar-drift.json](./123822-supercar-drift.json) |
 | Supercar Street Challenge | 43220 | [43220-supercar-street-challenge.json](./43220-supercar-street-challenge.json) |
 | Supercars Racing | 87147 | [87147-supercars-racing.json](./87147-supercars-racing.json) |
 | Supercat Survivors: Meow or Die | 346124 | [346124-supercat-survivors-meow-or-die.json](./346124-supercat-survivors-meow-or-die.json) |
