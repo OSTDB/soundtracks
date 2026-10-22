@@ -5247,6 +5247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizard's Harmony | 55900 | [55900-wizards-harmony.json](./55900-wizards-harmony.json) |
 | Wizard's Harmony 2 | 55901 | [55901-wizards-harmony-2.json](./55901-wizards-harmony-2.json) |
 | Wizard's Lair | 26471 | [26471-wizards-lair.json](./26471-wizards-lair.json) |
+| Wizard's Quest | 148818 | [148818-wizards-quest.json](./148818-wizards-quest.json) |
 | Wizard's Symphony | 96111 | [96111-wizards-symphony.json](./96111-wizards-symphony.json) |
 | Wizard's Terror | 176253 | [176253-wizards-terror.json](./176253-wizards-terror.json) |
 | Wizard's Warp | 332398 | [332398-wizards-warp.json](./332398-wizards-warp.json) |
