@@ -4011,6 +4011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Kato 1 | 273452 | [273452-ninja-kato-1.json](./273452-ninja-kato-1.json) |
 | Ninja Kato 2 | 278938 | [278938-ninja-kato-2.json](./278938-ninja-kato-2.json) |
 | Ninja Kato 3 | 297800 | [297800-ninja-kato-3.json](./297800-ninja-kato-3.json) |
+| Ninja Ken | 151590 | [151590-ninja-ken.json](./151590-ninja-ken.json) |
 | Ninja Kid | 68360 | [68360-ninja-kid.json](./68360-ninja-kid.json) |
 | Ninja Kidz: Time Masters | 244141 | [244141-ninja-kidz-time-masters.json](./244141-ninja-kidz-time-masters.json) |
 | Ninja Kiwi Archive | 137601 | [137601-ninja-kiwi-archive.json](./137601-ninja-kiwi-archive.json) |
