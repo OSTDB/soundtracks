@@ -1341,6 +1341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paperball: Cherry Sky Pack | 227155 | [227155-paperball-cherry-sky-pack.json](./227155-paperball-cherry-sky-pack.json) |
 | Paperbound | 21849 | [21849-paperbound.json](./21849-paperbound.json) |
 | Paperbound Brawlers | 115753 | [115753-paperbound-brawlers.json](./115753-paperbound-brawlers.json) |
+| Paperboy | 126289 | [126289-paperboy.json](./126289-paperboy.json) |
 | Paperboy | 19370 | [19370-paperboy.json](./19370-paperboy.json) |
 | Paperboy | 198844 | [198844-paperboy.json](./198844-paperboy.json) |
 | Paperboy | 256079 | [256079-paperboy.json](./256079-paperboy.json) |
@@ -1592,6 +1593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paraiso | 299390 | [299390-paraiso.json](./299390-paraiso.json) |
 | Paralax VR Aim Trainer | 172361 | [172361-paralax-vr-aim-trainer.json](./172361-paralax-vr-aim-trainer.json) |
 | ParaLegends | 357177 | [357177-paralegends.json](./357177-paralegends.json) |
+| ParaLily | 126258 | [126258-paralily.json](./126258-paralily.json) |
 | Parallax | 211628 | [211628-parallax.json](./211628-parallax.json) |
 | Parallax | 271743 | [271743-parallax.json](./271743-parallax.json) |
 | Parallax | 28847 | [28847-parallax.json](./28847-parallax.json) |
@@ -12144,6 +12146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Battle | 37378 | [37378-project-battle.json](./37378-project-battle.json) |
 | Project Battle (working title) | 131440 | [131440-project-battle-working-title.json](./131440-project-battle-working-title.json) |
 | Project Battlefield | 342655 | [342655-project-battlefield.json](./342655-project-battlefield.json) |
+| Project BBQ | 126288 | [126288-project-bbq.json](./126288-project-bbq.json) |
 | Project Beauty | 72777 | [72777-project-beauty.json](./72777-project-beauty.json) |
 | Project Bengal | 341555 | [341555-project-bengal.json](./341555-project-bengal.json) |
 | Project Black Sun | 54280 | [54280-project-black-sun.json](./54280-project-black-sun.json) |
