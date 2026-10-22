@@ -356,6 +356,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pacifix War Iwo Jima | 231922 | [231922-pacifix-war-iwo-jima.json](./231922-pacifix-war-iwo-jima.json) |
 | Pack | 342659 | [342659-pack.json](./342659-pack.json) |
 | Pack 2 Games Pony Friends 2 + My Riding Stables: Life with Horses | 147465 | [147465-pack-2-games-pony-friends-2-my-riding-stables-life-with-horses.json](./147465-pack-2-games-pony-friends-2-my-riding-stables-life-with-horses.json) |
+| Pack 5 Action Games | 131155 | [131155-pack-5-action-games.json](./131155-pack-5-action-games.json) |
+| Pack 5 Flying Games | 131181 | [131181-pack-5-flying-games.json](./131181-pack-5-flying-games.json) |
 | Pack 5 Puzzle Games | 100021 | [100021-pack-5-puzzle-games.json](./100021-pack-5-puzzle-games.json) |
 | Pack A Plush! | 422163 | [422163-pack-a-plush.json](./422163-pack-a-plush.json) |
 | Pack A Truck | 54729 | [54729-pack-a-truck.json](./54729-pack-a-truck.json) |
@@ -2743,6 +2745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Payload | 41787 | [41787-payload.json](./41787-payload.json) |
 | PaymoneyWubby: The Game | 341588 | [341588-paymoneywubby-the-game.json](./341588-paymoneywubby-the-game.json) |
 | Payne Stewart Golf | 210012 | [210012-payne-stewart-golf.json](./210012-payne-stewart-golf.json) |
+| Payout Poker & Casino | 131154 | [131154-payout-poker-and-casino.json](./131154-payout-poker-and-casino.json) |
 | Payout: Shop Simulator | 309336 | [309336-payout-shop-simulator.json](./309336-payout-shop-simulator.json) |
 | Payrates | 405522 | [405522-payrates.json](./405522-payrates.json) |
 | Payroll | 30710 | [30710-payroll.json](./30710-payroll.json) |
@@ -6795,6 +6798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PixEvo: The Fountain | 191901 | [191901-pixevo-the-fountain.json](./191901-pixevo-the-fountain.json) |
 | PixGirls | 192673 | [192673-pixgirls.json](./192673-pixgirls.json) |
 | Pixgun | 348234 | [348234-pixgun.json](./348234-pixgun.json) |
+| PixHunter | 131227 | [131227-pixhunter.json](./131227-pixhunter.json) |
 | Pixicharm Collection 1 | 320377 | [320377-pixicharm-collection-1.json](./320377-pixicharm-collection-1.json) |
 | Pixicharm Collection 2 | 334080 | [334080-pixicharm-collection-2.json](./334080-pixicharm-collection-2.json) |
 | Pixicharm: Acornflare | 389416 | [389416-pixicharm-acornflare.json](./389416-pixicharm-acornflare.json) |
@@ -8261,6 +8265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Point Perfect | 10707 | [10707-point-perfect.json](./10707-point-perfect.json) |
 | Point Zero: Victoria | 390084 | [390084-point-zero-victoria.json](./390084-point-zero-victoria.json) |
 | Point'n'Click Lovers: Daedalic Adventure Bundle | 283723 | [283723-pointnclick-lovers-daedalic-adventure-bundle.json](./283723-pointnclick-lovers-daedalic-adventure-bundle.json) |
+| Pointblank | 131216 | [131216-pointblank.json](./131216-pointblank.json) |
 | Pointless | 33544 | [33544-pointless.json](./33544-pointless.json) |
 | Pointless Fighting | 360129 | [360129-pointless-fighting.json](./360129-pointless-fighting.json) |
 | Pointless Wars | 183790 | [183790-pointless-wars.json](./183790-pointless-wars.json) |
