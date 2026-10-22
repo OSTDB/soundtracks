@@ -786,6 +786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sales Pitch | 191507 | [191507-sales-pitch.json](./191507-sales-pitch.json) |
 | Saliens | 104692 | [104692-saliens.json](./104692-saliens.json) |
 | Saligia | 163014 | [163014-saligia.json](./163014-saligia.json) |
+| Sally | 152186 | [152186-sally.json](./152186-sally.json) |
 | Sally Acorn in Sonic the Hedgehog | 141883 | [141883-sally-acorn-in-sonic-the-hedgehog.json](./141883-sally-acorn-in-sonic-the-hedgehog.json) |
 | Sally Acorn in Sonic the Hedgehog 2 | 141884 | [141884-sally-acorn-in-sonic-the-hedgehog-2.json](./141884-sally-acorn-in-sonic-the-hedgehog-2.json) |
 | Sally Face 2 | 413934 | [413934-sally-face-2.json](./413934-sally-face-2.json) |
@@ -1669,6 +1670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Satsuki-iro no Sora ni | 412795 | [412795-satsuki-iro-no-sora-ni.json](./412795-satsuki-iro-no-sora-ni.json) |
 | Saturated Outer Space | 116836 | [116836-saturated-outer-space.json](./116836-saturated-outer-space.json) |
 | Saturday AM: Battle Manga | 382452 | [382452-saturday-am-battle-manga.json](./382452-saturday-am-battle-manga.json) |
+| Saturday Edition | 151982 | [151982-saturday-edition.json](./151982-saturday-edition.json) |
 | Saturday Morning Rogue | 159528 | [159528-saturday-morning-rogue.json](./159528-saturday-morning-rogue.json) |
 | Saturday Morning Sandbox | 163032 | [163032-saturday-morning-sandbox.json](./163032-saturday-morning-sandbox.json) |
 | Saturday Night at Freddy's | 406253 | [406253-saturday-night-at-freddys.json](./406253-saturday-night-at-freddys.json) |
