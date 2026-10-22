@@ -8702,6 +8702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rose of Meat | 392161 | [392161-rose-of-meat.json](./392161-rose-of-meat.json) |
 | Rose Puzzle | 91097 | [91097-rose-puzzle.json](./91097-rose-puzzle.json) |
 | Rose Riddle 2: Werewolf Shadow | 127619 | [127619-rose-riddle-2-werewolf-shadow.json](./127619-rose-riddle-2-werewolf-shadow.json) |
+| Rose Riddle: Fairy Tale Detective | 121975 | [121975-rose-riddle-fairy-tale-detective.json](./121975-rose-riddle-fairy-tale-detective.json) |
 | Rose Riddle: Fairy Tale Detective - Collector's Edition | 343359 | [343359-rose-riddle-fairy-tale-detective-collectors-edition.json](./343359-rose-riddle-fairy-tale-detective-collectors-edition.json) |
 | Rose Seed Replica | 167381 | [167381-rose-seed-replica.json](./167381-rose-seed-replica.json) |
 | Rosebaker's Icy Treats | 55495 | [55495-rosebakers-icy-treats.json](./55495-rosebakers-icy-treats.json) |
