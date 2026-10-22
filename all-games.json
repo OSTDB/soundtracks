@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-22T10:06:15.535Z",
-  "total_soundtracks": 2461,
+  "generated_at": "2026-10-22T10:26:44.722Z",
+  "total_soundtracks": 2478,
   "games": [
     {
       "igdb_id": 7522,
@@ -913,6 +913,20 @@
         {
           "album_name": "Aliens: Fireteam Elite (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/6mClqOcembIZ7ZhTvZ8XdW",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 132717,
+      "game_name": "Alter Ego",
+      "game_url": "https://ostdb.net/games/alter-ego",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2736a0095a5e0baf73a4e493241",
+      "albums": [
+        {
+          "album_name": "ALTER EGO ORIGINAL SOUNDTRACK",
+          "spotify_url": "https://open.spotify.com/album/6IbhdleKYtOSH3Sl6A92gJ",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -7115,6 +7129,20 @@
       ]
     },
     {
+      "igdb_id": 216278,
+      "game_name": "Disney Illusion Island",
+      "game_url": "https://ostdb.net/games/disney-illusion-island",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27332ce19728590aa02fed86835",
+      "albums": [
+        {
+          "album_name": "Disney Illusion Island (Original Video Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0KTsRE4pjZWwR1Q2nBAJ4f",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 191402,
       "game_name": "Disney Speedstorm",
       "game_url": "https://ostdb.net/games/disney-speedstorm",
@@ -9805,6 +9833,20 @@
         {
           "album_name": "For The King (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/0ekl3CLanTsxFBmM2dKp6A",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 217311,
+      "game_name": "For the King II",
+      "game_url": "https://ostdb.net/games/for-the-king-ii",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2732448802cc7e320ae2dc0a788",
+      "albums": [
+        {
+          "album_name": "For The King II (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/23Iz8HZbcRRdEIQMMWCjJC",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -12597,6 +12639,20 @@
       ]
     },
     {
+      "igdb_id": 378170,
+      "game_name": "How to Fish",
+      "game_url": "https://ostdb.net/games/how-to-fish",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273060bfb2ec328a4d3f15d58e1",
+      "albums": [
+        {
+          "album_name": "How to Fish (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5DlT9FvWRluCXPfb0cqjVG",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 121731,
       "game_name": "Humankind",
       "game_url": "https://ostdb.net/games/humankind",
@@ -14685,6 +14741,20 @@
       ]
     },
     {
+      "igdb_id": 141805,
+      "game_name": "Loco Motive",
+      "game_url": "https://ostdb.net/games/loco-motive",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273c67915ade2d600e4d7de34e4",
+      "albums": [
+        {
+          "album_name": "Loco Motive (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/4M8IRaOWcSkTDudGl3V1Di",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 1459,
       "game_name": "LocoRoco",
       "game_url": "https://ostdb.net/games/locoroco",
@@ -14915,6 +14985,20 @@
         {
           "album_name": "Lumino City (The Official Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/0GBB1OjjksPBDEOUI7N1oc",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 213620,
+      "game_name": "Luna Abyss",
+      "game_url": "https://ostdb.net/games/luna-abyss",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27327337b45bf825e639cd1ab1e",
+      "albums": [
+        {
+          "album_name": "Luna Abyss (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2ILDpPQ33yx98WcLjFRcnP",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -16585,6 +16669,20 @@
         {
           "album_name": "Momodora III ~ Original Soundtrack",
           "spotify_url": "https://open.spotify.com/album/4IayX1GCPx1CrndGxyjgLW",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 116578,
+      "game_name": "Moncage",
+      "game_url": "https://ostdb.net/games/moncage",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27359af5fe6e4f73ae250b7339a",
+      "albums": [
+        {
+          "album_name": "Moncage (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/4vvG4zRrK21lPJ5ZqWcRMd",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -18703,6 +18801,20 @@
       ]
     },
     {
+      "igdb_id": 254336,
+      "game_name": "Penny's Big Breakaway",
+      "game_url": "https://ostdb.net/games/pennys-big-breakaway",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273cf157548817059079f666793",
+      "albums": [
+        {
+          "album_name": "Penny's Big Breakaway (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6Eam7aXtPs6Wus2tkaCXf9",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 204623,
       "game_name": "Pentiment",
       "game_url": "https://ostdb.net/games/pentiment",
@@ -18739,6 +18851,34 @@
         {
           "album_name": "Perfect Vermin (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/2UWUCGl7F3aSve4eHlrPoY",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 234701,
+      "game_name": "Persona 3 Portable",
+      "game_url": "https://ostdb.net/games/persona-3-portable",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27311d0b66ba275d9a11bec7050",
+      "albums": [
+        {
+          "album_name": "Persona 3 Portable Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/6gAMJ8SCBuGbDTHu3hJVVb",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 289703,
+      "game_name": "Persona 3 Reload: Episode Aigis",
+      "game_url": "https://ostdb.net/games/persona-3-reload-episode-aigis",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273e04e00fef5b22bd50d35850e",
+      "albums": [
+        {
+          "album_name": "Persona 3 Reload: Episode Aigis Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/7Ic5fXfxRtYiRgyqNj1iyN",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -23071,6 +23211,20 @@
       ]
     },
     {
+      "igdb_id": 1568,
+      "game_name": "SoulCalibur: Broken Destiny",
+      "game_url": "https://ostdb.net/games/soulcalibur-broken-destiny",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27375d929b9bcef11d5c8596ae8",
+      "albums": [
+        {
+          "album_name": "SOULCALIBUR Broken Destiny ORIGINAL SOUNDTRACK",
+          "spotify_url": "https://open.spotify.com/album/5G6k9HPuYYIoIWw8Nxabp9",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 210585,
       "game_name": "Soulstone Survivors",
       "game_url": "https://ostdb.net/games/soulstone-survivors",
@@ -26423,6 +26577,20 @@
       ]
     },
     {
+      "igdb_id": 191888,
+      "game_name": "The One Who Pulls Out the Sword Will Be Crowned King",
+      "game_url": "https://ostdb.net/games/the-one-who-pulls-out-the-sword-will-be-crowned-king",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2736973e8a7d751d2a2be57d380",
+      "albums": [
+        {
+          "album_name": "The One Who Pulls Out The Sword Will Be Crowned King (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/53lA5VyuDFjaKC2te5XRtG",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 216958,
       "game_name": "The Operator",
       "game_url": "https://ostdb.net/games/the-operator",
@@ -26751,6 +26919,20 @@
       ]
     },
     {
+      "igdb_id": 192905,
+      "game_name": "The Sims 2",
+      "game_url": "https://ostdb.net/games/the-sims-2",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273e360fbb82e572bb9c59e1b46",
+      "albums": [
+        {
+          "album_name": "The Sims 2 (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5y3IHg8hVlbfbFgIUWtCeL",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 260,
       "game_name": "The Sims 3",
       "game_url": "https://ostdb.net/games/the-sims-3",
@@ -26821,6 +27003,20 @@
         {
           "album_name": "The Sims: Vacation (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/1B464scEXJFyzjSbVYufgL",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 106120,
+      "game_name": "The Sojourn",
+      "game_url": "https://ostdb.net/games/the-sojourn",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273c45398ec39f96d32e3ceb86e",
+      "albums": [
+        {
+          "album_name": "The Sojourn (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2dUIHTaIOIdjVje4X37Maj",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -27176,6 +27372,20 @@
           "album_name": "Thief (Original Soundtrack - Director's Cut)",
           "spotify_url": "https://open.spotify.com/album/17oWmJUNsl9GLGAGo4eUdx",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 185240,
+      "game_name": "Thirsty Suitors",
+      "game_url": "https://ostdb.net/games/thirsty-suitors",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273e6f0dcc5b25305769a6afb82",
+      "albums": [
+        {
+          "album_name": "Thirsty Suitors (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/3B39X1ypvDtCk6A8VXk8D7",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
@@ -28173,6 +28383,20 @@
           "spotify_url": "https://open.spotify.com/album/6aZJusKpK3tdiUJYaTqbv0",
           "apple_music_url": "https://music.apple.com/us/album/ultimate-chicken-horse-original-soundtrack/1175097476",
           "album_link_url": "https://album.link/i/1175097476"
+        }
+      ]
+    },
+    {
+      "igdb_id": 250626,
+      "game_name": "Ultros",
+      "game_url": "https://ostdb.net/games/ultros",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2737e37ff636db92ce6a3f5ce4b",
+      "albums": [
+        {
+          "album_name": "Ultros (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0JQy1h1Xmx4zuo3s6I2asL",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
@@ -30559,6 +30783,20 @@
           "spotify_url": "",
           "apple_music_url": "https://music.apple.com/us/album/hyper-commission-2-0-zenless-zone-zero-original-soundtrack/1873964895?uo=4",
           "album_link_url": "https://album.link/i/1873964895"
+        }
+      ]
+    },
+    {
+      "igdb_id": 361880,
+      "game_name": "Zero Parades: For Dead Spies",
+      "game_url": "https://ostdb.net/games/zero-parades-for-dead-spies",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2738d3e925aecb159fad3cf2653",
+      "albums": [
+        {
+          "album_name": "ZERO PARADES: For Dead Spies (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1NbwZ1IWNCIxylLFEB8QST",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
