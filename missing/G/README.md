@@ -7099,9 +7099,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grim Dice | 401023 | [401023-grim-dice.json](./401023-grim-dice.json) |
 | Grim Dungeon | 301103 | [301103-grim-dungeon.json](./301103-grim-dungeon.json) |
 | Grim Ember | 149524 | [149524-grim-ember.json](./149524-grim-ember.json) |
+| Grim Facade: A Wealth of Betrayal | 140214 | [140214-grim-facade-a-wealth-of-betrayal.json](./140214-grim-facade-a-wealth-of-betrayal.json) |
 | Grim Facade: Hidden Sins | 104659 | [104659-grim-facade-hidden-sins.json](./104659-grim-facade-hidden-sins.json) |
 | Grim Facade: Hidden Sins - Collector's Edition | 117552 | [117552-grim-facade-hidden-sins-collectors-edition.json](./117552-grim-facade-hidden-sins-collectors-edition.json) |
+| Grim Facade: Mystery of Venice | 140215 | [140215-grim-facade-mystery-of-venice.json](./140215-grim-facade-mystery-of-venice.json) |
+| Grim Facade: Sinister Obsession | 140216 | [140216-grim-facade-sinister-obsession.json](./140216-grim-facade-sinister-obsession.json) |
 | Grim Facade: Sinister Obsession - Collector's Edition | 28744 | [28744-grim-facade-sinister-obsession-collectors-edition.json](./28744-grim-facade-sinister-obsession-collectors-edition.json) |
+| Grim Facade: The Artist and The Pretender | 140217 | [140217-grim-facade-the-artist-and-the-pretender.json](./140217-grim-facade-the-artist-and-the-pretender.json) |
 | Grim Facade: The Artist and The Pretender - Collector's Edition | 110373 | [110373-grim-facade-the-artist-and-the-pretender-collectors-edition.json](./110373-grim-facade-the-artist-and-the-pretender-collectors-edition.json) |
 | Grim Fandango Remastered | 8682 | [8682-grim-fandango-remastered.json](./8682-grim-fandango-remastered.json) |
 | Grim Horde | 199398 | [199398-grim-horde.json](./199398-grim-horde.json) |
@@ -7127,6 +7131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grim Tales 5: Bloody Mary | 57071 | [57071-grim-tales-5-bloody-mary.json](./57071-grim-tales-5-bloody-mary.json) |
 | Grim Tales 8: The Final Suspect | 140299 | [140299-grim-tales-8-the-final-suspect.json](./140299-grim-tales-8-the-final-suspect.json) |
 | Grim Tales: All Shades of Black - Collector's Edition | 337263 | [337263-grim-tales-all-shades-of-black-collectors-edition.json](./337263-grim-tales-all-shades-of-black-collectors-edition.json) |
+| Grim Tales: Bloody Mary | 140218 | [140218-grim-tales-bloody-mary.json](./140218-grim-tales-bloody-mary.json) |
 | Grim Tales: Bloody Mary - Collector's Edition | 111510 | [111510-grim-tales-bloody-mary-collectors-edition.json](./111510-grim-tales-bloody-mary-collectors-edition.json) |
 | Grim Tales: Color of Fright | 83152 | [83152-grim-tales-color-of-fright.json](./83152-grim-tales-color-of-fright.json) |
 | Grim Tales: Crimson Hollow | 188013 | [188013-grim-tales-crimson-hollow.json](./188013-grim-tales-crimson-hollow.json) |
@@ -7135,6 +7140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grim Tales: Echo of the Past - Collector's Edition | 181113 | [181113-grim-tales-echo-of-the-past-collectors-edition.json](./181113-grim-tales-echo-of-the-past-collectors-edition.json) |
 | Grim Tales: Graywitch | 250592 | [250592-grim-tales-graywitch.json](./250592-grim-tales-graywitch.json) |
 | Grim Tales: Graywitch - Collector's Edition | 146519 | [146519-grim-tales-graywitch-collectors-edition.json](./146519-grim-tales-graywitch-collectors-edition.json) |
+| Grim Tales: Guest from the Future | 140219 | [140219-grim-tales-guest-from-the-future.json](./140219-grim-tales-guest-from-the-future.json) |
 | Grim Tales: Guest from the Future - Collector's Edition | 122390 | [122390-grim-tales-guest-from-the-future-collectors-edition.json](./122390-grim-tales-guest-from-the-future-collectors-edition.json) |
 | Grim Tales: Horizon of Wishes | 239219 | [239219-grim-tales-horizon-of-wishes.json](./239219-grim-tales-horizon-of-wishes.json) |
 | Grim Tales: Horizon of Wishes - Collector's Edition | 214724 | [214724-grim-tales-horizon-of-wishes-collectors-edition.json](./214724-grim-tales-horizon-of-wishes-collectors-edition.json) |
@@ -7143,6 +7149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grim Tales: The Bride | 79616 | [79616-grim-tales-the-bride.json](./79616-grim-tales-the-bride.json) |
 | Grim Tales: The Final Suspect | 83183 | [83183-grim-tales-the-final-suspect.json](./83183-grim-tales-the-final-suspect.json) |
 | Grim Tales: The Final Suspect - Collector's Edition | 151438 | [151438-grim-tales-the-final-suspect-collectors-edition.json](./151438-grim-tales-the-final-suspect-collectors-edition.json) |
+| Grim Tales: The Generous Gift | 140220 | [140220-grim-tales-the-generous-gift.json](./140220-grim-tales-the-generous-gift.json) |
 | Grim Tales: The Heir | 99996 | [99996-grim-tales-the-heir.json](./99996-grim-tales-the-heir.json) |
 | Grim Tales: The Hunger | 250595 | [250595-grim-tales-the-hunger.json](./250595-grim-tales-the-hunger.json) |
 | Grim Tales: The Hunger - Collector's Edition | 250596 | [250596-grim-tales-the-hunger-collectors-edition.json](./250596-grim-tales-the-hunger-collectors-edition.json) |
@@ -7156,6 +7163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grim Tales: The Vengeance | 83143 | [83143-grim-tales-the-vengeance.json](./83143-grim-tales-the-vengeance.json) |
 | Grim Tales: The Vengeance - Collector's Edition | 118337 | [118337-grim-tales-the-vengeance-collectors-edition.json](./118337-grim-tales-the-vengeance-collectors-edition.json) |
 | Grim Tales: The White Lady - Collector's Edition | 250594 | [250594-grim-tales-the-white-lady-collectors-edition.json](./250594-grim-tales-the-white-lady-collectors-edition.json) |
+| Grim Tales: The Wishes | 140221 | [140221-grim-tales-the-wishes.json](./140221-grim-tales-the-wishes.json) |
 | Grim Tales: The Wishes - Collector's Edition | 76483 | [76483-grim-tales-the-wishes-collectors-edition.json](./76483-grim-tales-the-wishes-collectors-edition.json) |
 | Grim Tales: The Wishes & Grim Tales: The Stone Queen | 200956 | [200956-grim-tales-the-wishes-and-grim-tales-the-stone-queen.json](./200956-grim-tales-the-wishes-and-grim-tales-the-stone-queen.json) |
 | Grim Tales: Threads of Destiny | 153388 | [153388-grim-tales-threads-of-destiny.json](./153388-grim-tales-threads-of-destiny.json) |
