@@ -3519,6 +3519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BattleTanx: Global Assault | 47685 | [47685-battletanx-global-assault.json](./47685-battletanx-global-assault.json) |
 | Battletech: Firestorm | 60622 | [60622-battletech-firestorm.json](./60622-battletech-firestorm.json) |
 | BattleTech: Flashpoint | 107258 | [107258-battletech-flashpoint.json](./107258-battletech-flashpoint.json) |
+| Battletech: Gray Death Legion | 128886 | [128886-battletech-gray-death-legion.json](./128886-battletech-gray-death-legion.json) |
 | BattleTech: Heavy Metal | 155087 | [155087-battletech-heavy-metal.json](./155087-battletech-heavy-metal.json) |
 | BattleTech: The Crescent Hawks' Revenge | 19185 | [19185-battletech-the-crescent-hawks-revenge.json](./19185-battletech-the-crescent-hawks-revenge.json) |
 | Battlethorne | 272207 | [272207-battlethorne.json](./272207-battlethorne.json) |
@@ -6172,6 +6173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BinaryGrab | 130724 | [130724-binarygrab.json](./130724-binarygrab.json) |
 | Binaural Odyssey | 153365 | [153365-binaural-odyssey.json](./153365-binaural-odyssey.json) |
 | Bincho-tan: Shiawase-goyomi | 194932 | [194932-bincho-tan-shiawase-goyomi.json](./194932-bincho-tan-shiawase-goyomi.json) |
+| Bind Her | 128870 | [128870-bind-her.json](./128870-bind-her.json) |
 | Bind: Brain teaser puzzle game | 88292 | [88292-bind-brain-teaser-puzzle-game.json](./88292-bind-brain-teaser-puzzle-game.json) |
 | Binding of Elements | 249227 | [249227-binding-of-elements.json](./249227-binding-of-elements.json) |
 | Binding of Isaac Bundle | 341547 | [341547-binding-of-isaac-bundle.json](./341547-binding-of-isaac-bundle.json) |
@@ -6546,6 +6548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Birds and Blocks 2 | 242013 | [242013-birds-and-blocks-2.json](./242013-birds-and-blocks-2.json) |
 | Birds and Nuts | 380734 | [380734-birds-and-nuts.json](./380734-birds-and-nuts.json) |
 | Birds Are Not Real | 416681 | [416681-birds-are-not-real.json](./416681-birds-are-not-real.json) |
+| Birds Are Real | 128843 | [128843-birds-are-real.json](./128843-birds-are-real.json) |
 | Birds Are Real | 211456 | [211456-birds-are-real.json](./211456-birds-are-real.json) |
 | Birds Aren’t Real | 249357 | [249357-birds-aren-t-real.json](./249357-birds-aren-t-real.json) |
 | Birds Birds Birds | 107209 | [107209-birds-birds-birds.json](./107209-birds-birds-birds.json) |
