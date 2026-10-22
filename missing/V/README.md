@@ -342,6 +342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valkyria Chronicles 4: A Captainless Squad | 238635 | [238635-valkyria-chronicles-4-a-captainless-squad.json](./238635-valkyria-chronicles-4-a-captainless-squad.json) |
 | Valkyria Chronicles 4: A United Front with Squad 7 | 181185 | [181185-valkyria-chronicles-4-a-united-front-with-squad-7.json](./181185-valkyria-chronicles-4-a-united-front-with-squad-7.json) |
 | Valkyria Chronicles 4: Advance Ops | 304734 | [304734-valkyria-chronicles-4-advance-ops.json](./304734-valkyria-chronicles-4-advance-ops.json) |
+| Valkyria Chronicles 4: Complete Edition | 120621 | [120621-valkyria-chronicles-4-complete-edition.json](./120621-valkyria-chronicles-4-complete-edition.json) |
 | Valkyria Chronicles 4: Expert Level Skirmishes | 304755 | [304755-valkyria-chronicles-4-expert-level-skirmishes.json](./304755-valkyria-chronicles-4-expert-level-skirmishes.json) |
 | Valkyria Chronicles 4: Launch Edition | 136324 | [136324-valkyria-chronicles-4-launch-edition.json](./136324-valkyria-chronicles-4-launch-edition.json) |
 | Valkyria Chronicles 4: Memoirs From Battle Edition | 132179 | [132179-valkyria-chronicles-4-memoirs-from-battle-edition.json](./132179-valkyria-chronicles-4-memoirs-from-battle-edition.json) |
