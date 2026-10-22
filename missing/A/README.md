@@ -4854,6 +4854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alfabet Śmierci | 14238 | [14238-alfabet-smierci.json](./14238-alfabet-smierci.json) |
 | Alfabit Gonki za Poteryannymi Bukvami (Byez Peklamy) | 104570 | [104570-alfabit-gonki-za-poteryannymi-bukvami-byez-peklamy.json](./104570-alfabit-gonki-za-poteryannymi-bukvami-byez-peklamy.json) |
 | Alfal's Grove | 132651 | [132651-alfals-grove.json](./132651-alfals-grove.json) |
+| Alfelus | 125669 | [125669-alfelus.json](./125669-alfelus.json) |
 | Alfons World | 345053 | [345053-alfons-world.json](./345053-alfons-world.json) |
 | Alfonzo's Arctic Adventure | 122808 | [122808-alfonzos-arctic-adventure.json](./122808-alfonzos-arctic-adventure.json) |
 | Alfred Chicken | 118492 | [118492-alfred-chicken.json](./118492-alfred-chicken.json) |
@@ -9455,6 +9456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Ikari III - The Rescue | 131967 | [131967-arcade-archives-ikari-iii-the-rescue.json](./131967-arcade-archives-ikari-iii-the-rescue.json) |
 | Arcade Archives: Ikki | 99567 | [99567-arcade-archives-ikki.json](./99567-arcade-archives-ikki.json) |
 | Arcade Archives: Image Fight | 119087 | [119087-arcade-archives-image-fight.json](./119087-arcade-archives-image-fight.json) |
+| Arcade Archives: In the Hunt | 125658 | [125658-arcade-archives-in-the-hunt.json](./125658-arcade-archives-in-the-hunt.json) |
 | Arcade Archives: Juno First | 335981 | [335981-arcade-archives-juno-first.json](./335981-arcade-archives-juno-first.json) |
 | Arcade Archives: Kangaroo | 147108 | [147108-arcade-archives-kangaroo.json](./147108-arcade-archives-kangaroo.json) |
 | Arcade Archives: Karate Blazers | 378998 | [378998-arcade-archives-karate-blazers.json](./378998-arcade-archives-karate-blazers.json) |
@@ -9583,6 +9585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Super Xevious | 342799 | [342799-arcade-archives-super-xevious.json](./342799-arcade-archives-super-xevious.json) |
 | Arcade Archives: Swimmer | 147116 | [147116-arcade-archives-swimmer.json](./147116-arcade-archives-swimmer.json) |
 | Arcade Archives: Syvalion | 410362 | [410362-arcade-archives-syvalion.json](./410362-arcade-archives-syvalion.json) |
+| Arcade Archives: T.N.K III | 125659 | [125659-arcade-archives-t-n-k-iii.json](./125659-arcade-archives-t-n-k-iii.json) |
 | Arcade Archives: Tag Team Wrestling | 402568 | [402568-arcade-archives-tag-team-wrestling.json](./402568-arcade-archives-tag-team-wrestling.json) |
 | Arcade Archives: Tank Battalion | 290419 | [290419-arcade-archives-tank-battalion.json](./290419-arcade-archives-tank-battalion.json) |
 | Arcade Archives: Tank Force | 232461 | [232461-arcade-archives-tank-force.json](./232461-arcade-archives-tank-force.json) |
@@ -9644,6 +9647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Wonder Boy | 141885 | [141885-arcade-archives-wonder-boy.json](./141885-arcade-archives-wonder-boy.json) |
 | Arcade Archives: Xevious | 172432 | [172432-arcade-archives-xevious.json](./172432-arcade-archives-xevious.json) |
 | Arcade Archives: XX Mission | 129194 | [129194-arcade-archives-xx-mission.json](./129194-arcade-archives-xx-mission.json) |
+| Arcade Archives: Yie Ar Kung-Fu | 125660 | [125660-arcade-archives-yie-ar-kung-fu.json](./125660-arcade-archives-yie-ar-kung-fu.json) |
 | Arcade Archives: Zero Team | 147098 | [147098-arcade-archives-zero-team.json](./147098-arcade-archives-zero-team.json) |
 | Arcade Archives: Zing Zing Zip | 265707 | [265707-arcade-archives-zing-zing-zip.json](./265707-arcade-archives-zing-zing-zip.json) |
 | Arcade Asylum | 276711 | [276711-arcade-asylum.json](./276711-arcade-asylum.json) |
