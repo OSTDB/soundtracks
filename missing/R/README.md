@@ -7274,6 +7274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket Angels Inc | 239770 | [239770-rocket-angels-inc.json](./239770-rocket-angels-inc.json) |
 | Rocket Arena | 118565 | [118565-rocket-arena.json](./118565-rocket-arena.json) |
 | Rocket Arena: Mythic Edition | 136456 | [136456-rocket-arena-mythic-edition.json](./136456-rocket-arena-mythic-edition.json) |
+| Rocket Arena: Season 1 | 139049 | [139049-rocket-arena-season-1.json](./139049-rocket-arena-season-1.json) |
 | Rocket Arena: Season 2 | 144043 | [144043-rocket-arena-season-2.json](./144043-rocket-arena-season-2.json) |
 | Rocket Arena: Season 3 | 144044 | [144044-rocket-arena-season-3.json](./144044-rocket-arena-season-3.json) |
 | Rocket Bits | 196311 | [196311-rocket-bits.json](./196311-rocket-bits.json) |
