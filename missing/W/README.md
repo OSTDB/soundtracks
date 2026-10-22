@@ -5337,6 +5337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WiZmans World ReTry | 265641 | [265641-wizmans-world-retry.json](./265641-wizmans-world-retry.json) |
 | WizMo's Workshop: Dragons of Frozzbokk | 94577 | [94577-wizmos-workshop-dragons-of-frozzbokk.json](./94577-wizmos-workshop-dragons-of-frozzbokk.json) |
 | Wiznwar Pinball Bundle | 381804 | [381804-wiznwar-pinball-bundle.json](./381804-wiznwar-pinball-bundle.json) |
+| Wizodd | 137849 | [137849-wizodd.json](./137849-wizodd.json) |
 | Wizordum | 216197 | [216197-wizordum.json](./216197-wizordum.json) |
 | Wizrogue: Labyrinth of Wizardry | 28557 | [28557-wizrogue-labyrinth-of-wizardry.json](./28557-wizrogue-labyrinth-of-wizardry.json) |
 | Wizschool: Ancient Book of Magic | 338347 | [338347-wizschool-ancient-book-of-magic.json](./338347-wizschool-ancient-book-of-magic.json) |
@@ -6631,6 +6632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World War 3 | 102868 | [102868-world-war-3.json](./102868-world-war-3.json) |
 | World War 3: Card Battler | 216480 | [216480-world-war-3-card-battler.json](./216480-world-war-3-card-battler.json) |
 | World War Academy: Commander 1 | 170317 | [170317-world-war-academy-commander-1.json](./170317-world-war-academy-commander-1.json) |
+| World War AI | 137864 | [137864-world-war-ai.json](./137864-world-war-ai.json) |
 | World War Alpha | 261288 | [261288-world-war-alpha.json](./261288-world-war-alpha.json) |
 | World War Armies | 175684 | [175684-world-war-armies.json](./175684-world-war-armies.json) |
 | World War Battle Heroes Field Armies Call of Prison Duty Simulator | 227924 | [227924-world-war-battle-heroes-field-armies-call-of-prison-duty-simulator.json](./227924-world-war-battle-heroes-field-armies-call-of-prison-duty-simulator.json) |
