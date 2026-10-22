@@ -5203,6 +5203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eventyr | 272476 | [272476-eventyr.json](./272476-eventyr.json) |
 | Ever 17: The Out of Infinity | 323127 | [323127-ever-17-the-out-of-infinity.json](./323127-ever-17-the-out-of-infinity.json) |
 | Ever After Again: A Stories Adventure | 414459 | [414459-ever-after-again-a-stories-adventure.json](./414459-ever-after-again-a-stories-adventure.json) |
+| Ever After High Boots Trend Girl Games | 103140 | [103140-ever-after-high-boots-trend-girl-games.json](./103140-ever-after-high-boots-trend-girl-games.json) |
 | Ever End | 105019 | [105019-ever-end.json](./105019-ever-end.json) |
 | Ever Fallen Empire | 189947 | [189947-ever-fallen-empire.json](./189947-ever-fallen-empire.json) |
 | Ever Forward | 132328 | [132328-ever-forward.json](./132328-ever-forward.json) |
