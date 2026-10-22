@@ -4121,6 +4121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape from the Yellow Room 3 | 220216 | [220216-escape-from-the-yellow-room-3.json](./220216-escape-from-the-yellow-room-3.json) |
 | Escape From This Planet | 224550 | [224550-escape-from-this-planet.json](./224550-escape-from-this-planet.json) |
 | Escape From Timokha 2: Army | 334199 | [334199-escape-from-timokha-2-army.json](./334199-escape-from-timokha-2-army.json) |
+| Escape from Titan | 113358 | [113358-escape-from-titan.json](./113358-escape-from-titan.json) |
 | Escape from Toilets | 265769 | [265769-escape-from-toilets.json](./265769-escape-from-toilets.json) |
 | Escape from Tokat Dungeon | 289577 | [289577-escape-from-tokat-dungeon.json](./289577-escape-from-tokat-dungeon.json) |
 | Escape from Traam | 25591 | [25591-escape-from-traam.json](./25591-escape-from-traam.json) |
@@ -4359,6 +4360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Treasure Island | 108874 | [108874-escape-treasure-island.json](./108874-escape-treasure-island.json) |
 | Escape Trick: Convenience Store | 85121 | [85121-escape-trick-convenience-store.json](./85121-escape-trick-convenience-store.json) |
 | Escape Until Friday | 117591 | [117591-escape-until-friday.json](./117591-escape-until-friday.json) |
+| Escape Velocity | 113399 | [113399-escape-velocity.json](./113399-escape-velocity.json) |
 | Escape Velocity | 334070 | [334070-escape-velocity.json](./334070-escape-velocity.json) |
 | Escape Velocity | 377579 | [377579-escape-velocity.json](./377579-escape-velocity.json) |
 | Escape Velocity Nova | 50144 | [50144-escape-velocity-nova.json](./50144-escape-velocity-nova.json) |
