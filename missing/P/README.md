@@ -4075,6 +4075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantasmat: The Endless Night | 140317 | [140317-phantasmat-the-endless-night.json](./140317-phantasmat-the-endless-night.json) |
 | Phantasmat: The Endless Night - Collector's Edition | 28594 | [28594-phantasmat-the-endless-night-collectors-edition.json](./28594-phantasmat-the-endless-night-collectors-edition.json) |
 | Phantasmat: The Endless Night HD | 108258 | [108258-phantasmat-the-endless-night-hd.json](./108258-phantasmat-the-endless-night-hd.json) |
+| Phantasmat: Town of Lost Hope | 104402 | [104402-phantasmat-town-of-lost-hope.json](./104402-phantasmat-town-of-lost-hope.json) |
 | Phantasos | 297919 | [297919-phantasos.json](./297919-phantasos.json) |
 | Phantasos Now | 363059 | [363059-phantasos-now.json](./363059-phantasos-now.json) |
 | Phantasy Series Reference Opus | 285442 | [285442-phantasy-series-reference-opus.json](./285442-phantasy-series-reference-opus.json) |
@@ -7121,6 +7122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Basket 2009 2010 | 268383 | [268383-planet-basket-2009-2010.json](./268383-planet-basket-2009-2010.json) |
 | Planet Blood | 156591 | [156591-planet-blood.json](./156591-planet-blood.json) |
 | Planet Bom Bom | 345486 | [345486-planet-bom-bom.json](./345486-planet-bom-bom.json) |
+| Planet Bomber! | 104428 | [104428-planet-bomber.json](./104428-planet-bomber.json) |
 | Planet Boom | 192732 | [192732-planet-boom.json](./192732-planet-boom.json) |
 | Planet Bounce | 127616 | [127616-planet-bounce.json](./127616-planet-bounce.json) |
 | Planet Breakout 2 | 224701 | [224701-planet-breakout-2.json](./224701-planet-breakout-2.json) |
