@@ -838,6 +838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KartRider: Drift | 125626 | [125626-kartrider-drift.json](./125626-kartrider-drift.json) |
 | Karts With Chat | 345505 | [345505-karts-with-chat.json](./345505-karts-with-chat.json) |
 | KaRu | 195552 | [195552-karu.json](./195552-karu.json) |
+| Karugamo | 130590 | [130590-karugamo.json](./130590-karugamo.json) |
 | Karuizawa Yuukai Annai | 79793 | [79793-karuizawa-yuukai-annai.json](./79793-karuizawa-yuukai-annai.json) |
 | Karumaruka Circle: Limited Edition | 167036 | [167036-karumaruka-circle-limited-edition.json](./167036-karumaruka-circle-limited-edition.json) |
 | Karumaruka Circle: Limited Edition | 339404 | [339404-karumaruka-circle-limited-edition.json](./339404-karumaruka-circle-limited-edition.json) |
@@ -4447,6 +4448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Krendel | 409830 | [409830-krendel.json](./409830-krendel.json) |
 | Kreton La Resistance | 317428 | [317428-kreton-la-resistance.json](./317428-kreton-la-resistance.json) |
 | Krew Eats | 172718 | [172718-krew-eats.json](./172718-krew-eats.json) |
+| Krew.io | 130598 | [130598-krew-io.json](./130598-krew-io.json) |
 | Krezber | 289574 | [289574-krezber.json](./289574-krezber.json) |
 | Krieg | 55807 | [55807-krieg.json](./55807-krieg.json) |
 | Kriegsfront Battlescaper | 212715 | [212715-kriegsfront-battlescaper.json](./212715-kriegsfront-battlescaper.json) |
