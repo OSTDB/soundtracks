@@ -3042,6 +3042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat of Khronos | 182356 | [182356-cat-of-khronos.json](./182356-cat-of-khronos.json) |
 | Cat of Monte Cristo | 155008 | [155008-cat-of-monte-cristo.json](./155008-cat-of-monte-cristo.json) |
 | Cat or Ice Cream? | 183543 | [183543-cat-or-ice-cream.json](./183543-cat-or-ice-cream.json) |
+| Cat Packs | 152690 | [152690-cat-packs.json](./152690-cat-packs.json) |
 | Cat Palette: Merging Colorful Kittens | 277755 | [277755-cat-palette-merging-colorful-kittens.json](./277755-cat-palette-merging-colorful-kittens.json) |
 | Cat Parents | 395178 | [395178-cat-parents.json](./395178-cat-parents.json) |
 | Cat Piano | 300778 | [300778-cat-piano.json](./300778-cat-piano.json) |
@@ -3215,6 +3216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catapulture | 408024 | [408024-catapulture.json](./408024-catapulture.json) |
 | Cataract: Autobattler Roguelite Deckbuilder | 403200 | [403200-cataract-autobattler-roguelite-deckbuilder.json](./403200-cataract-autobattler-roguelite-deckbuilder.json) |
 | Cataractnacon & Zeangala | 271801 | [271801-cataractnacon-and-zeangala.json](./271801-cataractnacon-and-zeangala.json) |
+| Catarro | 152699 | [152699-catarro.json](./152699-catarro.json) |
 | Catarsis: Catventure | 295259 | [295259-catarsis-catventure.json](./295259-catarsis-catventure.json) |
 | Catass | 254758 | [254758-catass.json](./254758-catass.json) |
 | Catast | 274548 | [274548-catast.json](./274548-catast.json) |
@@ -7698,6 +7700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cleaving Caliber EX | 362435 | [362435-cleaving-caliber-ex.json](./362435-cleaving-caliber-ex.json) |
 | Cleimos | 260945 | [260945-cleimos.json](./260945-cleimos.json) |
 | Cleimos II | 260946 | [260946-cleimos-ii.json](./260946-cleimos-ii.json) |
+| Cleithrophobia | 152706 | [152706-cleithrophobia.json](./152706-cleithrophobia.json) |
 | Clem | 203449 | [203449-clem.json](./203449-clem.json) |
 | Clem: The First Attribute | 280093 | [280093-clem-the-first-attribute.json](./280093-clem-the-first-attribute.json) |
 | Clency and Livia | 284293 | [284293-clency-and-livia.json](./284293-clency-and-livia.json) |
@@ -7709,6 +7712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clériga | 300674 | [300674-cleriga.json](./300674-cleriga.json) |
 | Clerk Hot Tale | 157397 | [157397-clerk-hot-tale.json](./157397-clerk-hot-tale.json) |
 | Cleromancy | 199305 | [199305-cleromancy.json](./199305-cleromancy.json) |
+| Clessidra | 152694 | [152694-clessidra.json](./152694-clessidra.json) |
 | Cleveland 1968 | 319933 | [319933-cleveland-1968.json](./319933-cleveland-1968.json) |
 | Clever & Smart: A Movie Adventure | 98237 | [98237-clever-and-smart-a-movie-adventure.json](./98237-clever-and-smart-a-movie-adventure.json) |
 | Clever cubed | 175082 | [175082-clever-cubed.json](./175082-clever-cubed.json) |
@@ -9730,6 +9734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Comic Coloring Book: Complete Edition - Colors Special | 275053 | [275053-comic-coloring-book-complete-edition-colors-special.json](./275053-comic-coloring-book-complete-edition-colors-special.json) |
 | Comic Coloring Book: Complete Edition - Draw Extended | 263528 | [263528-comic-coloring-book-complete-edition-draw-extended.json](./263528-comic-coloring-book-complete-edition-draw-extended.json) |
 | Comic Coloring Book: Complete Edition - DRAW Special | 277905 | [277905-comic-coloring-book-complete-edition-draw-special.json](./277905-comic-coloring-book-complete-edition-draw-special.json) |
+| Comic Company Manager | 152697 | [152697-comic-company-manager.json](./152697-comic-company-manager.json) |
 | Comic Days H | 97382 | [97382-comic-days-h.json](./97382-comic-days-h.json) |
 | Comic Kicker Euro 2000 | 92593 | [92593-comic-kicker-euro-2000.json](./92593-comic-kicker-euro-2000.json) |
 | Comic Party Portable | 59388 | [59388-comic-party-portable.json](./59388-comic-party-portable.json) |
