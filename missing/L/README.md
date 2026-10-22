@@ -3010,6 +3010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Sing 2018: Chart Hits Song Pack | 297316 | [297316-lets-sing-2018-chart-hits-song-pack.json](./297316-lets-sing-2018-chart-hits-song-pack.json) |
 | Let's Sing 2018: Hits Francais et Internationaux | 268194 | [268194-lets-sing-2018-hits-francais-et-internationaux.json](./268194-lets-sing-2018-hits-francais-et-internationaux.json) |
 | Let's Sing 2018: Platinum Edition | 118838 | [118838-lets-sing-2018-platinum-edition.json](./118838-lets-sing-2018-platinum-edition.json) |
+| Let's Sing 2019 | 110052 | [110052-lets-sing-2019.json](./110052-lets-sing-2019.json) |
 | Let's Sing 2019: Hits Français et Internationaux | 253026 | [253026-lets-sing-2019-hits-francais-et-internationaux.json](./253026-lets-sing-2019-hits-francais-et-internationaux.json) |
 | Let's Sing 2019: Mit Deutschen Hits! | 253001 | [253001-lets-sing-2019-mit-deutschen-hits.json](./253001-lets-sing-2019-mit-deutschen-hits.json) |
 | Let's Sing 2019: Platinum Edition | 237857 | [237857-lets-sing-2019-platinum-edition.json](./237857-lets-sing-2019-platinum-edition.json) |
