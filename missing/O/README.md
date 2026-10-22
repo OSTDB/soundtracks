@@ -2634,6 +2634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operation Abyss: New Tokyo Legacy - Launch Edition | 89917 | [89917-operation-abyss-new-tokyo-legacy-launch-edition.json](./89917-operation-abyss-new-tokyo-legacy-launch-edition.json) |
 | Operation Abyss: New Tokyo Legacy - Limited Edition | 89916 | [89916-operation-abyss-new-tokyo-legacy-limited-edition.json](./89916-operation-abyss-new-tokyo-legacy-limited-edition.json) |
 | Operation Air Assault 2 | 25507 | [25507-operation-air-assault-2.json](./25507-operation-air-assault-2.json) |
+| Operation Airsoft | 146587 | [146587-operation-airsoft.json](./146587-operation-airsoft.json) |
 | Operation Apex | 75498 | [75498-operation-apex.json](./75498-operation-apex.json) |
 | Operation Apocalypse | 23991 | [23991-operation-apocalypse.json](./23991-operation-apocalypse.json) |
 | Operation Babel: New Tokyo Legacy | 25593 | [25593-operation-babel-new-tokyo-legacy.json](./25593-operation-babel-new-tokyo-legacy.json) |
@@ -3687,6 +3688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Our Church and Halloween: Story Four | 147944 | [147944-our-church-and-halloween-story-four.json](./147944-our-church-and-halloween-story-four.json) |
 | Our Church and Halloween: Story One | 146311 | [146311-our-church-and-halloween-story-one.json](./146311-our-church-and-halloween-story-one.json) |
 | Our Church and Halloween: Story Three | 147942 | [147942-our-church-and-halloween-story-three.json](./147942-our-church-and-halloween-story-three.json) |
+| Our Church and Halloween: Story Two | 146610 | [146610-our-church-and-halloween-story-two.json](./146610-our-church-and-halloween-story-two.json) |
 | Our Cinderella | 292061 | [292061-our-cinderella.json](./292061-our-cinderella.json) |
 | Our Damned Machine | 146636 | [146636-our-damned-machine.json](./146636-our-damned-machine.json) |
 | Our Dark Heart | 258376 | [258376-our-dark-heart.json](./258376-our-dark-heart.json) |
