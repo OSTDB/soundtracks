@@ -5881,6 +5881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Boxing | 233048 | [233048-word-boxing.json](./233048-word-boxing.json) |
 | Word Brawl | 329680 | [329680-word-brawl.json](./329680-word-brawl.json) |
 | Word Bridges | 397915 | [397915-word-bridges.json](./397915-word-bridges.json) |
+| Word Build - Word Search Games | 104500 | [104500-word-build-word-search-games.json](./104500-word-build-word-search-games.json) |
 | Word Builder for Oliver | 92091 | [92091-word-builder-for-oliver.json](./92091-word-builder-for-oliver.json) |
 | Word Bump | 148291 | [148291-word-bump.json](./148291-word-bump.json) |
 | Word Cafe 21 | 232065 | [232065-word-cafe-21.json](./232065-word-cafe-21.json) |
@@ -6133,6 +6134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Words in Space | 63557 | [63557-words-in-space.json](./63557-words-in-space.json) |
 | Words in Word | 231223 | [231223-words-in-word.json](./231223-words-in-word.json) |
 | Words Inc - Endless Vocabulary Definition Competition | 99411 | [99411-words-inc-endless-vocabulary-definition-competition.json](./99411-words-inc-endless-vocabulary-definition-competition.json) |
+| Words N Seconds | 104432 | [104432-words-n-seconds.json](./104432-words-n-seconds.json) |
 | Words N Words | 240345 | [240345-words-n-words.json](./240345-words-n-words.json) |
 | Words of Fate | 83259 | [83259-words-of-fate.json](./83259-words-of-fate.json) |
 | Words of Wonders | 302727 | [302727-words-of-wonders.json](./302727-words-of-wonders.json) |
