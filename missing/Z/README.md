@@ -1109,7 +1109,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Army 4: Dead War - French Resistance Fighter Character | 155452 | [155452-zombie-army-4-dead-war-french-resistance-fighter-character.json](./155452-zombie-army-4-dead-war-french-resistance-fighter-character.json) |
 | Zombie Army 4: Dead War - Left 4 Dead Bundle | 199894 | [199894-zombie-army-4-dead-war-left-4-dead-bundle.json](./199894-zombie-army-4-dead-war-left-4-dead-bundle.json) |
 | Zombie Army 4: Dead War - Left 4 Dead Character Pack 1 | 155449 | [155449-zombie-army-4-dead-war-left-4-dead-character-pack-1.json](./155449-zombie-army-4-dead-war-left-4-dead-character-pack-1.json) |
+| Zombie Army 4: Dead War - Mission 1: Terror Lab | 141055 | [141055-zombie-army-4-dead-war-mission-1-terror-lab.json](./141055-zombie-army-4-dead-war-mission-1-terror-lab.json) |
 | Zombie Army 4: Dead War - Mission 2: Blood Count | 133936 | [133936-zombie-army-4-dead-war-mission-2-blood-count.json](./133936-zombie-army-4-dead-war-mission-2-blood-count.json) |
+| Zombie Army 4: Dead War - Mission 3: Deeper than Hell | 141056 | [141056-zombie-army-4-dead-war-mission-3-deeper-than-hell.json](./141056-zombie-army-4-dead-war-mission-3-deeper-than-hell.json) |
+| Zombie Army 4: Dead War - Mission 4: Damnation Valley | 141058 | [141058-zombie-army-4-dead-war-mission-4-damnation-valley.json](./141058-zombie-army-4-dead-war-mission-4-damnation-valley.json) |
 | Zombie Army 4: Dead War - Mission 5: Alpine Blitz | 143684 | [143684-zombie-army-4-dead-war-mission-5-alpine-blitz.json](./143684-zombie-army-4-dead-war-mission-5-alpine-blitz.json) |
 | Zombie Army 4: Dead War - Mission 6: Dead Zeppelin | 143685 | [143685-zombie-army-4-dead-war-mission-6-dead-zeppelin.json](./143685-zombie-army-4-dead-war-mission-6-dead-zeppelin.json) |
 | Zombie Army 4: Dead War - Mission 9: Return to Hell | 162621 | [162621-zombie-army-4-dead-war-mission-9-return-to-hell.json](./162621-zombie-army-4-dead-war-mission-9-return-to-hell.json) |
