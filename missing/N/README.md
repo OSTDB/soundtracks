@@ -2054,6 +2054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Tower Blast | 120757 | [120757-neon-tower-blast.json](./120757-neon-tower-blast.json) |
 | Neon Trap Defense | 185526 | [185526-neon-trap-defense.json](./185526-neon-trap-defense.json) |
 | Neon Ultra | 31296 | [31296-neon-ultra.json](./31296-neon-ultra.json) |
+| Neon Universe | 104433 | [104433-neon-universe.json](./104433-neon-universe.json) |
 | Neon Valley: Revenge | 84098 | [84098-neon-valley-revenge.json](./84098-neon-valley-revenge.json) |
 | Neon Vault Rush | 394634 | [394634-neon-vault-rush.json](./394634-neon-vault-rush.json) |
 | Neon Village | 302358 | [302358-neon-village.json](./302358-neon-village.json) |
@@ -5908,6 +5909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Number Builder | 41201 | [41201-number-builder.json](./41201-number-builder.json) |
 | Number Chain - Logic Puzzle | 96048 | [96048-number-chain-logic-puzzle.json](./96048-number-chain-logic-puzzle.json) |
 | Number Chaser | 41011 | [41011-number-chaser.json](./41011-number-chaser.json) |
+| Number Color | 104396 | [104396-number-color.json](./104396-number-color.json) |
 | Number Crush | 366321 | [366321-number-crush.json](./366321-number-crush.json) |
 | Number Days Sim Date | 197614 | [197614-number-days-sim-date.json](./197614-number-days-sim-date.json) |
 | Number Dungeon | 388364 | [388364-number-dungeon.json](./388364-number-dungeon.json) |
