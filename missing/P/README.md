@@ -581,6 +581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paint Tubes | 108217 | [108217-paint-tubes.json](./108217-paint-tubes.json) |
 | Paint Warfare | 131324 | [131324-paint-warfare.json](./131324-paint-warfare.json) |
 | Paint Works | 268399 | [268399-paint-works.json](./268399-paint-works.json) |
+| Paint your Pet | 147700 | [147700-paint-your-pet.json](./147700-paint-your-pet.json) |
 | Paint-a'-Way | 271825 | [271825-paint-a-way.json](./271825-paint-a-way.json) |
 | Paint-guin | 310060 | [310060-paint-guin.json](./310060-paint-guin.json) |
 | Paintball | 189855 | [189855-paintball.json](./189855-paintball.json) |
@@ -5318,6 +5319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball Arcade: Wipe Out | 349969 | [349969-pinball-arcade-wipe-out.json](./349969-pinball-arcade-wipe-out.json) |
 | Pinball Arcade: World Champion Soccer | 349344 | [349344-pinball-arcade-world-champion-soccer.json](./349344-pinball-arcade-world-champion-soccer.json) |
 | Pinball Arcade: Xenon | 353267 | [353267-pinball-arcade-xenon.json](./353267-pinball-arcade-xenon.json) |
+| Pinball Big Splash | 147692 | [147692-pinball-big-splash.json](./147692-pinball-big-splash.json) |
 | Pinball Brain Damage | 69591 | [69591-pinball-brain-damage.json](./69591-pinball-brain-damage.json) |
 | Pinball Breaker 3 | 146686 | [146686-pinball-breaker-3.json](./146686-pinball-breaker-3.json) |
 | Pinball Breaker 4 | 146685 | [146685-pinball-breaker-4.json](./146685-pinball-breaker-4.json) |
@@ -9743,6 +9745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | POP Station | 225629 | [225629-pop-station.json](./225629-pop-station.json) |
 | Pop Survivor | 234109 | [234109-pop-survivor.json](./234109-pop-survivor.json) |
 | Pop the Balloons | 88745 | [88745-pop-the-balloons.json](./88745-pop-the-balloons.json) |
+| Pop the Bubbles | 147710 | [147710-pop-the-bubbles.json](./147710-pop-the-bubbles.json) |
 | Pop the Bubblewrap | 328681 | [328681-pop-the-bubblewrap.json](./328681-pop-the-bubblewrap.json) |
 | Pop the Ice | 107080 | [107080-pop-the-ice.json](./107080-pop-the-ice.json) |
 | Pop the Jewel | 233435 | [233435-pop-the-jewel.json](./233435-pop-the-jewel.json) |
@@ -10876,6 +10879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Presidential Social Media Manager | 359345 | [359345-presidential-social-media-manager.json](./359345-presidential-social-media-manager.json) |
 | Presidents Tower Defense | 295158 | [295158-presidents-tower-defense.json](./295158-presidents-tower-defense.json) |
 | PreSim | 88242 | [88242-presim.json](./88242-presim.json) |
+| Press “A” to Party | 147712 | [147712-press-a-to-party.json](./147712-press-a-to-party.json) |
 | Press a Button Simulator | 369920 | [369920-press-a-button-simulator.json](./369920-press-a-button-simulator.json) |
 | Press Any Button | 143596 | [143596-press-any-button.json](./143596-press-any-button.json) |
 | Press Any Key | 295563 | [295563-press-any-key.json](./295563-press-any-key.json) |
@@ -14209,6 +14213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Party VR | 246948 | [246948-puzzle-party-vr.json](./246948-puzzle-party-vr.json) |
 | Puzzle Party: 10 Games | 100175 | [100175-puzzle-party-10-games.json](./100175-puzzle-party-10-games.json) |
 | Puzzle Pedestrians | 144276 | [144276-puzzle-pedestrians.json](./144276-puzzle-pedestrians.json) |
+| Puzzle Pedestrians | 147840 | [147840-puzzle-pedestrians.json](./147840-puzzle-pedestrians.json) |
 | Puzzle Pests | 174366 | [174366-puzzle-pests.json](./174366-puzzle-pests.json) |
 | Puzzle Photographer | 403041 | [403041-puzzle-photographer.json](./403041-puzzle-photographer.json) |
 | Puzzle Photographer 2: Fairy Vacation | 403044 | [403044-puzzle-photographer-2-fairy-vacation.json](./403044-puzzle-photographer-2-fairy-vacation.json) |
@@ -14372,6 +14377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzles for smart: Cats | 104017 | [104017-puzzles-for-smart-cats.json](./104017-puzzles-for-smart-cats.json) |
 | Puzzles for smart: Dogs | 107848 | [107848-puzzles-for-smart-dogs.json](./107848-puzzles-for-smart-dogs.json) |
 | Puzzles for smart: Horses | 111492 | [111492-puzzles-for-smart-horses.json](./111492-puzzles-for-smart-horses.json) |
+| Puzzles for Toddlers & Kids: Animals, Cars and more | 147707 | [147707-puzzles-for-toddlers-and-kids-animals-cars-and-more.json](./147707-puzzles-for-toddlers-and-kids-animals-cars-and-more.json) |
 | Puzzles Forest | 414496 | [414496-puzzles-forest.json](./414496-puzzles-forest.json) |
 | Puzzles of the Paladin | 289168 | [289168-puzzles-of-the-paladin.json](./289168-puzzles-of-the-paladin.json) |
 | Puzzles with Cats | 159551 | [159551-puzzles-with-cats.json](./159551-puzzles-with-cats.json) |
