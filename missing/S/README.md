@@ -10433,6 +10433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slice 'Em Up! | 185130 | [185130-slice-em-up.json](./185130-slice-em-up.json) |
 | Slice & Dice | 176099 | [176099-slice-and-dice.json](./176099-slice-and-dice.json) |
 | Slice Go | 107572 | [107572-slice-go.json](./107572-slice-go.json) |
+| Slice HD | 104491 | [104491-slice-hd.json](./104491-slice-hd.json) |
 | Slice It All! | 305417 | [305417-slice-it-all.json](./305417-slice-it-all.json) |
 | Slice It Down | 274374 | [274374-slice-it-down.json](./274374-slice-it-down.json) |
 | Slice It! | 147957 | [147957-slice-it.json](./147957-slice-it.json) |
@@ -10504,6 +10505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slidercrash | 251656 | [251656-slidercrash.json](./251656-slidercrash.json) |
 | SlideRow | 120355 | [120355-sliderow.json](./120355-sliderow.json) |
 | Sliders | 80517 | [80517-sliders.json](./80517-sliders.json) |
+| Sliders Puzzle Game | 104414 | [104414-sliders-puzzle-game.json](./104414-sliders-puzzle-game.json) |
 | Slideshot 2 | 175145 | [175145-slideshot-2.json](./175145-slideshot-2.json) |
 | Slidetracked | 188952 | [188952-slidetracked.json](./188952-slidetracked.json) |
 | SlideWords | 88207 | [88207-slidewords.json](./88207-slidewords.json) |
@@ -12321,6 +12323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soccer Hero 2019 | 223913 | [223913-soccer-hero-2019.json](./223913-soccer-hero-2019.json) |
 | Soccer Hero! | 103526 | [103526-soccer-hero.json](./103526-soccer-hero.json) |
 | Soccer in a Box | 320351 | [320351-soccer-in-a-box.json](./320351-soccer-in-a-box.json) |
+| Soccer Kick | 104501 | [104501-soccer-kick.json](./104501-soccer-kick.json) |
 | Soccer Kick-ups | 406059 | [406059-soccer-kick-ups.json](./406059-soccer-kick-ups.json) |
 | Soccer Kid | 4302 | [4302-soccer-kid.json](./4302-soccer-kid.json) |
 | Soccer Kid Collection | 403733 | [403733-soccer-kid-collection.json](./403733-soccer-kid-collection.json) |
@@ -23399,6 +23402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summer Valley Hike | 255267 | [255267-summer-valley-hike.json](./255267-summer-valley-hike.json) |
 | Summer Village | 236513 | [236513-summer-village.json](./236513-summer-village.json) |
 | Summer Weekend | 370018 | [370018-summer-weekend.json](./370018-summer-weekend.json) |
+| Summer Wheelie | 104430 | [104430-summer-wheelie.json](./104430-summer-wheelie.json) |
 | Summer With You | 195234 | [195234-summer-with-you.json](./195234-summer-with-you.json) |
 | Summer: Jigsaw Puzzles | 104841 | [104841-summer-jigsaw-puzzles.json](./104841-summer-jigsaw-puzzles.json) |
 | Summer: Life in the Countryside | 145488 | [145488-summer-life-in-the-countryside.json](./145488-summer-life-in-the-countryside.json) |
@@ -27255,6 +27259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet as Magic | 177907 | [177907-sweet-as-magic.json](./177907-sweet-as-magic.json) |
 | Sweet Baby Girl Christmas 2 | 227474 | [227474-sweet-baby-girl-christmas-2.json](./227474-sweet-baby-girl-christmas-2.json) |
 | Sweet Baby Girl Cleanup 5 | 102617 | [102617-sweet-baby-girl-cleanup-5.json](./102617-sweet-baby-girl-cleanup-5.json) |
+| Sweet Baby Girl Cleanup 6 | 104497 | [104497-sweet-baby-girl-cleanup-6.json](./104497-sweet-baby-girl-cleanup-6.json) |
 | Sweet Baby Girl Doll House | 104487 | [104487-sweet-baby-girl-doll-house.json](./104487-sweet-baby-girl-doll-house.json) |
 | Sweet Baby Girl Mermaid Life | 108852 | [108852-sweet-baby-girl-mermaid-life.json](./108852-sweet-baby-girl-mermaid-life.json) |
 | Sweet Baby Girl Summer Camp | 104489 | [104489-sweet-baby-girl-summer-camp.json](./104489-sweet-baby-girl-summer-camp.json) |
