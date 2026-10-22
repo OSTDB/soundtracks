@@ -1265,6 +1265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Harvest! | 255797 | [255797-happy-harvest.json](./255797-happy-harvest.json) |
 | Happy Hike | 336557 | [336557-happy-hike.json](./336557-happy-hike.json) |
 | Happy Hippo's World Tour | 123317 | [123317-happy-hippos-world-tour.json](./123317-happy-hippos-world-tour.json) |
+| Happy Hoarder | 147695 | [147695-happy-hoarder.json](./147695-happy-hoarder.json) |
 | Happy Holes | 340412 | [340412-happy-holes.json](./340412-happy-holes.json) |
 | Happy Holidays: Christmas Miracle | 337270 | [337270-happy-holidays-christmas-miracle.json](./337270-happy-holidays-christmas-miracle.json) |
 | Happy Homes | 178932 | [178932-happy-homes.json](./178932-happy-homes.json) |
@@ -3518,6 +3519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello, Fucking World! | 219827 | [219827-hello-fucking-world.json](./219827-hello-fucking-world.json) |
 | Hello, Good-bye | 111803 | [111803-hello-good-bye.json](./111803-hello-good-bye.json) |
 | Hello, Goodbye, Summer Girl | 151721 | [151721-hello-goodbye-summer-girl.json](./151721-hello-goodbye-summer-girl.json) |
+| Hello, Hello World! | 147705 | [147705-hello-hello-world.json](./147705-hello-hello-world.json) |
 | Hello, Kami-sama Worker | 379354 | [379354-hello-kami-sama-worker.json](./379354-hello-kami-sama-worker.json) |
 | Hello, Lucia | 235818 | [235818-hello-lucia.json](./235818-hello-lucia.json) |
 | Hello, Mario! | 363807 | [363807-hello-mario.json](./363807-hello-mario.json) |
@@ -6099,6 +6101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hikari! Clover Rescue | 113063 | [113063-hikari-clover-rescue.json](./113063-hikari-clover-rescue.json) |
 | Hikari! Love Potion | 128006 | [128006-hikari-love-potion.json](./128006-hikari-love-potion.json) |
 | Hikaru Genji: Roller Panic | 41308 | [41308-hikaru-genji-roller-panic.json](./41308-hikaru-genji-roller-panic.json) |
+| Hike | 147703 | [147703-hike.json](./147703-hike.json) |
 | Hike Adventures | 287164 | [287164-hike-adventures.json](./287164-hike-adventures.json) |
 | Hike Haven | 333735 | [333735-hike-haven.json](./333735-hike-haven.json) |
 | Hike Trip | 232444 | [232444-hike-trip.json](./232444-hike-trip.json) |
