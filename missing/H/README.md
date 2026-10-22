@@ -4361,6 +4361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heraean Games | 301083 | [301083-heraean-games.json](./301083-heraean-games.json) |
 | Herakles and The Princess of Troy | 119090 | [119090-herakles-and-the-princess-of-troy.json](./119090-herakles-and-the-princess-of-troy.json) |
 | Herald of Havoc | 211276 | [211276-herald-of-havoc.json](./211276-herald-of-havoc.json) |
+| Herald of the Depths | 117399 | [117399-herald-of-the-depths.json](./117399-herald-of-the-depths.json) |
 | Herald of the Mists | 310501 | [310501-herald-of-the-mists.json](./310501-herald-of-the-mists.json) |
 | Herald: The Interactive Period Drama - Complete Edition | 226443 | [226443-herald-the-interactive-period-drama-complete-edition.json](./226443-herald-the-interactive-period-drama-complete-edition.json) |
 | Heralds of the Avirentes: Ch. 1 - Wings of Change | 244474 | [244474-heralds-of-the-avirentes-ch-1-wings-of-change.json](./244474-heralds-of-the-avirentes-ch-1-wings-of-change.json) |
@@ -6478,6 +6479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hitalick Challenge | 257576 | [257576-hitalick-challenge.json](./257576-hitalick-challenge.json) |
 | HitBox | 21982 | [21982-hitbox.json](./21982-hitbox.json) |
 | Hitboxer | 214418 | [214418-hitboxer.json](./214418-hitboxer.json) |
+| Hitchhiker | 117408 | [117408-hitchhiker.json](./117408-hitchhiker.json) |
 | Hitchhiker | 83416 | [83416-hitchhiker.json](./83416-hitchhiker.json) |
 | Hitchhiking to Hell | 405684 | [405684-hitchhiking-to-hell.json](./405684-hitchhiking-to-hell.json) |
 | Hitherto: School of Swordcery and Shieldjuration | 414757 | [414757-hitherto-school-of-swordcery-and-shieldjuration.json](./414757-hitherto-school-of-swordcery-and-shieldjuration.json) |
@@ -7180,6 +7182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Home on Prom Night | 184968 | [184968-home-on-prom-night.json](./184968-home-on-prom-night.json) |
 | Home Path | 294940 | [294940-home-path.json](./294940-home-path.json) |
 | Home Pin 2: Family Adventure | 227362 | [227362-home-pin-2-family-adventure.json](./227362-home-pin-2-family-adventure.json) |
+| Home Plate Baseball | 117366 | [117366-home-plate-baseball.json](./117366-home-plate-baseball.json) |
 | Home Quest | 227242 | [227242-home-quest.json](./227242-home-quest.json) |
 | Home Renovate 'N Sale | 105789 | [105789-home-renovate-n-sale.json](./105789-home-renovate-n-sale.json) |
 | Home Rescue Clean And Restore Collector's Edition | 399642 | [399642-home-rescue-clean-and-restore-collectors-edition.json](./399642-home-rescue-clean-and-restore-collectors-edition.json) |
