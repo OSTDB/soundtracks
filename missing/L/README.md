@@ -5276,7 +5276,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loco Limbo | 304833 | [304833-loco-limbo.json](./304833-loco-limbo.json) |
 | Loco Loco | 58326 | [58326-loco-loco.json](./58326-loco-loco.json) |
 | Loco Mania | 61477 | [61477-loco-mania.json](./61477-loco-mania.json) |
-| Loco Motive | 141805 | [141805-loco-motive.json](./141805-loco-motive.json) |
 | LOCO Online | 361771 | [361771-loco-online.json](./361771-loco-online.json) |
 | Loco Parentis | 117810 | [117810-loco-parentis.json](./117810-loco-parentis.json) |
 | Loco Railroad | 123361 | [123361-loco-railroad.json](./123361-loco-railroad.json) |
@@ -5693,7 +5692,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Look Inside | 291523 | [291523-look-inside.json](./291523-look-inside.json) |
 | Look Inside: Chapter 2 | 199438 | [199438-look-inside-chapter-2.json](./199438-look-inside-chapter-2.json) |
 | Look Mum No Computer | 335837 | [335837-look-mum-no-computer.json](./335837-look-mum-no-computer.json) |
-| Look Outside | 328140 | [328140-look-outside.json](./328140-look-outside.json) |
 | Look Outside: Final Vision | 384618 | [384618-look-outside-final-vision.json](./384618-look-outside-final-vision.json) |
 | Look to the Birds | 414434 | [414434-look-to-the-birds.json](./414434-look-to-the-birds.json) |
 | Look Twice | 417974 | [417974-look-twice.json](./417974-look-twice.json) |
