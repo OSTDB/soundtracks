@@ -9545,6 +9545,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bokura no Keshigum Otoshi 3: Sekai-hen | 251608 | [251608-bokura-no-keshigum-otoshi-3-sekai-hen.json](./251608-bokura-no-keshigum-otoshi-3-sekai-hen.json) |
 | Bokura no Nanokakan Sensou: Yuujou Adventure | 222509 | [222509-bokura-no-nanokakan-sensou-yuujou-adventure.json](./222509-bokura-no-nanokakan-sensou-yuujou-adventure.json) |
 | Bokura no Ninja World | 206564 | [206564-bokura-no-ninja-world.json](./206564-bokura-no-ninja-world.json) |
+| Bokura no School Battle | 144664 | [144664-bokura-no-school-battle.json](./144664-bokura-no-school-battle.json) |
+| Bokura no School Battle + Sport Set | 144667 | [144667-bokura-no-school-battle-sport-set.json](./144667-bokura-no-school-battle-sport-set.json) |
 | Bokura no Terebi Game Kentei | 69296 | [69296-bokura-no-terebi-game-kentei.json](./69296-bokura-no-terebi-game-kentei.json) |
 | Bokura: Planet | 318275 | [318275-bokura-planet.json](./318275-bokura-planet.json) |
 | Bola | 92445 | [92445-bola.json](./92445-bola.json) |
@@ -9816,6 +9818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bonanit: A Menorcan Horror Story | 319753 | [319753-bonanit-a-menorcan-horror-story.json](./319753-bonanit-a-menorcan-horror-story.json) |
 | Bonanza Burger | 288779 | [288779-bonanza-burger.json](./288779-bonanza-burger.json) |
 | Bonaparte: A Mechanized Revolution | 319762 | [319762-bonaparte-a-mechanized-revolution.json](./319762-bonaparte-a-mechanized-revolution.json) |
+| Bonaparte's Peninsular War | 144831 | [144831-bonapartes-peninsular-war.json](./144831-bonapartes-peninsular-war.json) |
 | Bonbon | 74482 | [74482-bonbon.json](./74482-bonbon.json) |
 | Bonbon Cakery | 69509 | [69509-bonbon-cakery.json](./69509-bonbon-cakery.json) |
 | Bonbonribbon: Tokimeki Coord Kirakira Dance | 222419 | [222419-bonbonribbon-tokimeki-coord-kirakira-dance.json](./222419-bonbonribbon-tokimeki-coord-kirakira-dance.json) |
@@ -13291,6 +13294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bullets | 368483 | [368483-bullets.json](./368483-bullets.json) |
 | Bullets & Brains | 261552 | [261552-bullets-and-brains.json](./261552-bullets-and-brains.json) |
 | Bullets and More VR: BAM VR | 31401 | [31401-bullets-and-more-vr-bam-vr.json](./31401-bullets-and-more-vr-bam-vr.json) |
+| Bullets Are Fatal! | 144819 | [144819-bullets-are-fatal.json](./144819-bullets-are-fatal.json) |
 | Bullets in the Space | 106626 | [106626-bullets-in-the-space.json](./106626-bullets-in-the-space.json) |
 | Bullets Squared | 146527 | [146527-bullets-squared.json](./146527-bullets-squared.json) |
 | Bullets Tracks: Son Of | 363574 | [363574-bullets-tracks-son-of.json](./363574-bullets-tracks-son-of.json) |
