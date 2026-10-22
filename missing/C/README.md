@@ -4857,6 +4857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chatter Challenge | 284814 | [284814-chatter-challenge.json](./284814-chatter-challenge.json) |
 | Chatteract | 138710 | [138710-chatteract.json](./138710-chatteract.json) |
 | Chatterbox | 300341 | [300341-chatterbox.json](./300341-chatterbox.json) |
+| Chatty | 112042 | [112042-chatty.json](./112042-chatty.json) |
 | Chatty's Bratty Tryst | 314010 | [314010-chattys-bratty-tryst.json](./314010-chattys-bratty-tryst.json) |
 | Chaturanga | 383617 | [383617-chaturanga.json](./383617-chaturanga.json) |
 | Chaves | 281892 | [281892-chaves.json](./281892-chaves.json) |
@@ -11288,6 +11289,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cordial Minuet | 97298 | [97298-cordial-minuet.json](./97298-cordial-minuet.json) |
 | Cordillera | 287878 | [287878-cordillera.json](./287878-cordillera.json) |
 | Córdoba Court | 398659 | [398659-cordoba-court.json](./398659-cordoba-court.json) |
+| Cordy | 112066 | [112066-cordy.json](./112066-cordy.json) |
+| Cordy 2 | 112067 | [112067-cordy-2.json](./112067-cordy-2.json) |
 | Cordy Sky | 290259 | [290259-cordy-sky.json](./290259-cordy-sky.json) |
 | Cordyceps Island | 295169 | [295169-cordyceps-island.json](./295169-cordyceps-island.json) |
 | Core | 131411 | [131411-core.json](./131411-core.json) |
@@ -15027,6 +15030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cues: Creator Update | 380562 | [380562-cues-creator-update.json](./380562-cues-creator-update.json) |
 | Cuffbust | 305005 | [305005-cuffbust.json](./305005-cuffbust.json) |
 | Cuffed | 406659 | [406659-cuffed.json](./406659-cuffed.json) |
+| Cuisine Dimension | 112049 | [112049-cuisine-dimension.json](./112049-cuisine-dimension.json) |
 | Cuisine Master VR | 358883 | [358883-cuisine-master-vr.json](./358883-cuisine-master-vr.json) |
 | Cuisineer | 211330 | [211330-cuisineer.json](./211330-cuisineer.json) |
 | Cuit | 28331 | [28331-cuit.json](./28331-cuit.json) |
