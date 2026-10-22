@@ -807,6 +807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hammer Penguins | 340563 | [340563-hammer-penguins.json](./340563-hammer-penguins.json) |
 | Hammer time! | 178089 | [178089-hammer-time.json](./178089-hammer-time.json) |
 | Hammer vs. Evil D. in Soulfire | 201166 | [201166-hammer-vs-evil-d-in-soulfire.json](./201166-hammer-vs-evil-d-in-soulfire.json) |
+| Hammer World: Dimension Traveler | 110082 | [110082-hammer-world-dimension-traveler.json](./110082-hammer-world-dimension-traveler.json) |
 | Hammerfight | 9666 | [9666-hammerfight.json](./9666-hammerfight.json) |
 | Hammerground | 190966 | [190966-hammerground.json](./190966-hammerground.json) |
 | Hammerhead | 343954 | [343954-hammerhead.json](./343954-hammerhead.json) |
@@ -7936,6 +7937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horror Loop | 259590 | [259590-horror-loop.json](./259590-horror-loop.json) |
 | Horror Maze | 172996 | [172996-horror-maze.json](./172996-horror-maze.json) |
 | Horror Maze 2 | 246838 | [246838-horror-maze-2.json](./246838-horror-maze-2.json) |
+| Horror Maze: Dungeon Edition | 110086 | [110086-horror-maze-dungeon-edition.json](./110086-horror-maze-dungeon-edition.json) |
 | Horror Maze: Sci-Fi Edition | 110155 | [110155-horror-maze-sci-fi-edition.json](./110155-horror-maze-sci-fi-edition.json) |
 | Horror Movie Bingo | 150537 | [150537-horror-movie-bingo.json](./150537-horror-movie-bingo.json) |
 | Horror Night | 197551 | [197551-horror-night.json](./197551-horror-night.json) |
@@ -8479,6 +8481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HotFloor | 102406 | [102406-hotfloor.json](./102406-hotfloor.json) |
 | HotGirls Sliding Puzzle | 168431 | [168431-hotgirls-sliding-puzzle.json](./168431-hotgirls-sliding-puzzle.json) |
 | HotHead | 110340 | [110340-hothead.json](./110340-hothead.json) |
+| Hothead Games | 110020 | [110020-hothead-games.json](./110020-hothead-games.json) |
 | HotHead Heights | 215377 | [215377-hothead-heights.json](./215377-hothead-heights.json) |
 | HotLead | 34241 | [34241-hotlead.json](./34241-hotlead.json) |
 | Hotline Miami Collection | 99733 | [99733-hotline-miami-collection.json](./99733-hotline-miami-collection.json) |
