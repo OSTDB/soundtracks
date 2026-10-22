@@ -16530,6 +16530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spelling Go! | 240344 | [240344-spelling-go.json](./240344-spelling-go.json) |
 | Spelling Jungle | 98561 | [98561-spelling-jungle.json](./98561-spelling-jungle.json) |
 | Spelling Quest Online | 127169 | [127169-spelling-quest-online.json](./127169-spelling-quest-online.json) |
+| Spellinkers | 125074 | [125074-spellinkers.json](./125074-spellinkers.json) |
 | Spellirium | 63549 | [63549-spellirium.json](./63549-spellirium.json) |
 | Spellisimo | 400896 | [400896-spellisimo.json](./400896-spellisimo.json) |
 | SpellKeeper | 90255 | [90255-spellkeeper.json](./90255-spellkeeper.json) |
@@ -25359,6 +25360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Real Tennis | 23561 | [23561-super-real-tennis.json](./23561-super-real-tennis.json) |
 | Super Realistic Autocross | 123046 | [123046-super-realistic-autocross.json](./123046-super-realistic-autocross.json) |
 | Super Realistic Autocross VR | 123474 | [123474-super-realistic-autocross-vr.json](./123474-super-realistic-autocross-vr.json) |
+| Super Rebellion | 125072 | [125072-super-rebellion.json](./125072-super-rebellion.json) |
 | Super Recoilfight | 117814 | [117814-super-recoilfight.json](./117814-super-recoilfight.json) |
 | Super Releasio 64 | 344171 | [344171-super-releasio-64.json](./344171-super-releasio-64.json) |
 | Super Retro BoxBot | 279470 | [279470-super-retro-boxbot.json](./279470-super-retro-boxbot.json) |
