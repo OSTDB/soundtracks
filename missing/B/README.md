@@ -5021,6 +5021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Benign Land | 329137 | [329137-benign-land.json](./329137-benign-land.json) |
 | Benjamin Blümchen: Das Große Zoofest | 220789 | [220789-benjamin-blumchen-das-gro-e-zoofest.json](./220789-benjamin-blumchen-das-gro-e-zoofest.json) |
 | Benjamin Johnson | 90534 | [90534-benjamin-johnson.json](./90534-benjamin-johnson.json) |
+| Benjamin of Blackstone Edge | 134892 | [134892-benjamin-of-blackstone-edge.json](./134892-benjamin-of-blackstone-edge.json) |
 | Benjamin's Quest | 291161 | [291161-benjamins-quest.json](./291161-benjamins-quest.json) |
 | Benjamin's Revenge | 291157 | [291157-benjamins-revenge.json](./291157-benjamins-revenge.json) |
 | Benji and the Crystal of Light | 324325 | [324325-benji-and-the-crystal-of-light.json](./324325-benji-and-the-crystal-of-light.json) |
@@ -5214,6 +5215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Best Word | 234068 | [234068-best-word.json](./234068-best-word.json) |
 | Best. Game. Ever. | 210476 | [210476-best-game-ever.json](./210476-best-game-ever.json) |
 | Bestial Warrior | 47553 | [47553-bestial-warrior.json](./47553-bestial-warrior.json) |
+| Bestiary | 135083 | [135083-bestiary.json](./135083-bestiary.json) |
 | Bestiary Bundle | 199625 | [199625-bestiary-bundle.json](./199625-bestiary-bundle.json) |
 | Bestiary Exam | 114749 | [114749-bestiary-exam.json](./114749-bestiary-exam.json) |
 | Bestiary of the Mountains and Seas | 343823 | [343823-bestiary-of-the-mountains-and-seas.json](./343823-bestiary-of-the-mountains-and-seas.json) |
@@ -6731,6 +6733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bitcoin Man Clicker | 251654 | [251654-bitcoin-man-clicker.json](./251654-bitcoin-man-clicker.json) |
 | Bitcoin Miner | 89602 | [89602-bitcoin-miner.json](./89602-bitcoin-miner.json) |
 | Bitcoin Miner Farm: Clicker Game | 118960 | [118960-bitcoin-miner-farm-clicker-game.json](./118960-bitcoin-miner-farm-clicker-game.json) |
+| Bitcoin Miner: Remastered | 134889 | [134889-bitcoin-miner-remastered.json](./134889-bitcoin-miner-remastered.json) |
 | Bitcoin Mining Empire Tycoon | 81658 | [81658-bitcoin-mining-empire-tycoon.json](./81658-bitcoin-mining-empire-tycoon.json) |
 | Bitcoin Mining Profit Calculator: Gaiden | 128566 | [128566-bitcoin-mining-profit-calculator-gaiden.json](./128566-bitcoin-mining-profit-calculator-gaiden.json) |
 | Bitcoin Mining Tycoon | 103469 | [103469-bitcoin-mining-tycoon.json](./103469-bitcoin-mining-tycoon.json) |
@@ -9121,6 +9124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blueberry Weather | 353869 | [353869-blueberry-weather.json](./353869-blueberry-weather.json) |
 | BlueBete | 137556 | [137556-bluebete.json](./137556-bluebete.json) |
 | Bluebird of Happiness | 213470 | [213470-bluebird-of-happiness.json](./213470-bluebird-of-happiness.json) |
+| BlueBoi Remastered | 134908 | [134908-blueboi-remastered.json](./134908-blueboi-remastered.json) |
 | Bluebush Chess | 74058 | [74058-bluebush-chess.json](./74058-bluebush-chess.json) |
 | BlueCloud Summit | 254005 | [254005-bluecloud-summit.json](./254005-bluecloud-summit.json) |
 | BlueGlow | 116283 | [116283-blueglow.json](./116283-blueglow.json) |
