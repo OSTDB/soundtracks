@@ -1777,6 +1777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Far Cry 4: Hurk Deluxe Pack | 109553 | [109553-far-cry-4-hurk-deluxe-pack.json](./109553-far-cry-4-hurk-deluxe-pack.json) |
 | Far Cry 4: Kyrat Edition | 41616 | [41616-far-cry-4-kyrat-edition.json](./41616-far-cry-4-kyrat-edition.json) |
 | Far Cry 4: Overrun | 168585 | [168585-far-cry-4-overrun.json](./168585-far-cry-4-overrun.json) |
+| Far Cry 4: Season Pass | 142907 | [142907-far-cry-4-season-pass.json](./142907-far-cry-4-season-pass.json) |
 | Far Cry 4: Steelbook Edition | 51531 | [51531-far-cry-4-steelbook-edition.json](./51531-far-cry-4-steelbook-edition.json) |
 | Far Cry 4: Valley of The Yetis | 23383 | [23383-far-cry-4-valley-of-the-yetis.json](./23383-far-cry-4-valley-of-the-yetis.json) |
 | Far Cry 5 + Far Cry: New Dawn Double Pack | 146032 | [146032-far-cry-5-far-cry-new-dawn-double-pack.json](./146032-far-cry-5-far-cry-new-dawn-double-pack.json) |
@@ -2531,6 +2532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fate/Extella: Regalia Box | 212318 | [212318-fate-extella-regalia-box.json](./212318-fate-extella-regalia-box.json) |
 | Fate/Extella: The Umbral Star | 19799 | [19799-fate-extella-the-umbral-star.json](./19799-fate-extella-the-umbral-star.json) |
 | Fate/Extra | 12382 | [12382-fate-extra.json](./12382-fate-extra.json) |
+| Fate/Extra Record | 142911 | [142911-fate-extra-record.json](./142911-fate-extra-record.json) |
 | Fate/Extra Record: Limited Edition | 416864 | [416864-fate-extra-record-limited-edition.json](./416864-fate-extra-record-limited-edition.json) |
 | Fate/Grand Order Arcade | 54898 | [54898-fate-grand-order-arcade.json](./54898-fate-grand-order-arcade.json) |
 | Fate/Grand Order Lostbelt No. 1: Anastasia | 414302 | [414302-fate-grand-order-lostbelt-no-1-anastasia.json](./414302-fate-grand-order-lostbelt-no-1-anastasia.json) |
@@ -2681,6 +2683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Faye Freelance: Rebel Reporter | 270536 | [270536-faye-freelance-rebel-reporter.json](./270536-faye-freelance-rebel-reporter.json) |
 | Faye King: Jungle Jeopardy | 399894 | [399894-faye-king-jungle-jeopardy.json](./399894-faye-king-jungle-jeopardy.json) |
 | Faye: A Tale of Shadow | 192885 | [192885-faye-a-tale-of-shadow.json](./192885-faye-a-tale-of-shadow.json) |
+| Faye/Sleepwalker | 142665 | [142665-faye-sleepwalker.json](./142665-faye-sleepwalker.json) |
 | Faylinn's Quest | 173840 | [173840-faylinns-quest.json](./173840-faylinns-quest.json) |
 | Faz-Karts | 382962 | [382962-faz-karts.json](./382962-faz-karts.json) |
 | Fazbear Entertainment: Storage | 233963 | [233963-fazbear-entertainment-storage.json](./233963-fazbear-entertainment-storage.json) |
@@ -10251,6 +10254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fun Puzzles Bundle | 331544 | [331544-fun-puzzles-bundle.json](./331544-fun-puzzles-bundle.json) |
 | Fun Puzzles Premium Bundle | 331545 | [331545-fun-puzzles-premium-bundle.json](./331545-fun-puzzles-premium-bundle.json) |
 | Fun Quest | 195702 | [195702-fun-quest.json](./195702-fun-quest.json) |
+| Fun Racing Games Collection | 143397 | [143397-fun-racing-games-collection.json](./143397-fun-racing-games-collection.json) |
 | Fun Run | 257410 | [257410-fun-run.json](./257410-fun-run.json) |
 | Fun Run 2 | 88780 | [88780-fun-run-2.json](./88780-fun-run-2.json) |
 | Fun Run 3 | 57120 | [57120-fun-run-3.json](./57120-fun-run-3.json) |
