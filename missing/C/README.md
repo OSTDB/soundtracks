@@ -2165,6 +2165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carol Vorderman's Sudoku DVD Game | 264474 | [264474-carol-vordermans-sudoku-dvd-game.json](./264474-carol-vordermans-sudoku-dvd-game.json) |
 | Caroline's Abyss | 169621 | [169621-carolines-abyss.json](./169621-carolines-abyss.json) |
 | Carols in July | 228911 | [228911-carols-in-july.json](./228911-carols-in-july.json) |
+| Carom Billards | 103118 | [103118-carom-billards.json](./103118-carom-billards.json) |
 | Carom Billiards | 149916 | [149916-carom-billiards.json](./149916-carom-billiards.json) |
 | Carom Billiards | 393764 | [393764-carom-billiards.json](./393764-carom-billiards.json) |
 | Caromble! | 24655 | [24655-caromble.json](./24655-caromble.json) |
@@ -2458,6 +2459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cash Laundry Simulator | 365560 | [365560-cash-laundry-simulator.json](./365560-cash-laundry-simulator.json) |
 | Cash Movers | 407286 | [407286-cash-movers.json](./407286-cash-movers.json) |
 | Cash Quiz | 312300 | [312300-cash-quiz.json](./312300-cash-quiz.json) |
+| Cash Register Toy | 103141 | [103141-cash-register-toy.json](./103141-cash-register-toy.json) |
 | Cash Royale: Block Puzzle Game | 125892 | [125892-cash-royale-block-puzzle-game.json](./125892-cash-royale-block-puzzle-game.json) |
 | Cash Sprint | 384674 | [384674-cash-sprint.json](./384674-cash-sprint.json) |
 | Cash Wash Simulator | 351092 | [351092-cash-wash-simulator.json](./351092-cash-wash-simulator.json) |
@@ -7770,6 +7772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clean Up After Your Dog | 280427 | [280427-clean-up-after-your-dog.json](./280427-clean-up-after-your-dog.json) |
 | Clean Up Crew | 360057 | [360057-clean-up-crew.json](./360057-clean-up-crew.json) |
 | Clean Up Earth | 367820 | [367820-clean-up-earth.json](./367820-clean-up-earth.json) |
+| Clean Up Kids | 103115 | [103115-clean-up-kids.json](./103115-clean-up-kids.json) |
 | Clean Your Room | 353775 | [353775-clean-your-room.json](./353775-clean-your-room.json) |
 | Clean-up Squad | 258493 | [258493-clean-up-squad.json](./258493-clean-up-squad.json) |
 | Clean'Em Up | 35709 | [35709-cleanem-up.json](./35709-cleanem-up.json) |
@@ -9283,6 +9286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Lab | 192973 | [192973-color-lab.json](./192973-color-lab.json) |
 | Color Lim | 236141 | [236141-color-lim.json](./236141-color-lim.json) |
 | Color Lines | 50119 | [50119-color-lines.json](./50119-color-lines.json) |
+| Color Lines - Classic Puzzle | 103142 | [103142-color-lines-classic-puzzle.json](./103142-color-lines-classic-puzzle.json) |
 | Color Madness | 367049 | [367049-color-madness.json](./367049-color-madness.json) |
 | Color Matching | 234168 | [234168-color-matching.json](./234168-color-matching.json) |
 | Color Math | 89573 | [89573-color-math.json](./89573-color-math.json) |
@@ -12828,6 +12832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazi Lift | 190429 | [190429-crazi-lift.json](./190429-crazi-lift.json) |
 | Crazlipse | 339336 | [339336-crazlipse.json](./339336-crazlipse.json) |
 | Crazy | 261777 | [261777-crazy.json](./261777-crazy.json) |
+| Crazy 8s | 103128 | [103128-crazy-8s.json](./103128-crazy-8s.json) |
 | Crazy 8s Revamped | 26649 | [26649-crazy-8s-revamped.json](./26649-crazy-8s-revamped.json) |
 | Crazy 8s: Card Game | 295990 | [295990-crazy-8s-card-game.json](./295990-crazy-8s-card-game.json) |
 | Crazy Addition | 246498 | [246498-crazy-addition.json](./246498-crazy-addition.json) |
