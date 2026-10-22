@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-22T00:18:37.179Z",
-  "total_missing": 244185,
+  "generated_at": "2026-10-22T00:22:32.788Z",
+  "total_missing": 244184,
   "games": [
     {
       "igdb_id": 191680,
@@ -426725,11 +426725,6 @@
       "igdb_id": 415149,
       "game_name": "Greak 2: Alliance of the Storms",
       "file": "missing/G/415149-greak-2-alliance-of-the-storms.json"
-    },
-    {
-      "igdb_id": 122126,
-      "game_name": "Greak: Memories of Azur",
-      "file": "missing/G/122126-greak-memories-of-azur.json"
     },
     {
       "igdb_id": 167185,
