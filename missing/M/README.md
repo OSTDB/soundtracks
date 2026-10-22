@@ -7914,6 +7914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metrophobia | 333425 | [333425-metrophobia.json](./333425-metrophobia.json) |
 | Metroplex Zero | 188885 | [188885-metroplex-zero.json](./188885-metroplex-zero.json) |
 | Metropocre | 169975 | [169975-metropocre.json](./169975-metropocre.json) |
+| Metropolis | 141709 | [141709-metropolis.json](./141709-metropolis.json) |
 | Metropolis | 209520 | [209520-metropolis.json](./209520-metropolis.json) |
 | Metropolis | 44079 | [44079-metropolis.json](./44079-metropolis.json) |
 | Metropolis | 84537 | [84537-metropolis.json](./84537-metropolis.json) |
@@ -10182,6 +10183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minna de Tobikome! Penguin Diving: Hooper Looper | 408866 | [408866-minna-de-tobikome-penguin-diving-hooper-looper.json](./408866-minna-de-tobikome-penguin-diving-hooper-looper.json) |
 | Minna de Uchuu Tour: ChariSou DX2 | 222318 | [222318-minna-de-uchuu-tour-charisou-dx2.json](./222318-minna-de-uchuu-tour-charisou-dx2.json) |
 | Minna no Doubutsuen | 69270 | [69270-minna-no-doubutsuen.json](./69270-minna-no-doubutsuen.json) |
+| Minna no Ennichi | 141691 | [141691-minna-no-ennichi.json](./141691-minna-no-ennichi.json) |
 | Minna no Golf-jou Vol. 1 | 269433 | [269433-minna-no-golf-jou-vol-1.json](./269433-minna-no-golf-jou-vol-1.json) |
 | Minna no Golf-jou Vol. 2 | 269432 | [269432-minna-no-golf-jou-vol-2.json](./269432-minna-no-golf-jou-vol-2.json) |
 | Minna no Golf-jou Vol. 3 | 269434 | [269434-minna-no-golf-jou-vol-3.json](./269434-minna-no-golf-jou-vol-3.json) |
@@ -16088,6 +16090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Mystic Secretary | 254614 | [254614-my-mystic-secretary.json](./254614-my-mystic-secretary.json) |
 | My name is human | 153927 | [153927-my-name-is-human.json](./153927-my-name-is-human.json) |
 | My Name is Mayo | 33747 | [33747-my-name-is-mayo.json](./33747-my-name-is-mayo.json) |
+| My Name is Mayo 2 | 141693 | [141693-my-name-is-mayo-2.json](./141693-my-name-is-mayo-2.json) |
 | My Name is Mayo 3 | 200699 | [200699-my-name-is-mayo-3.json](./200699-my-name-is-mayo-3.json) |
 | My Name is Sarah | 129221 | [129221-my-name-is-sarah.json](./129221-my-name-is-sarah.json) |
 | My Name is Uncle Groucho You Win a Fat Cigar | 253895 | [253895-my-name-is-uncle-groucho-you-win-a-fat-cigar.json](./253895-my-name-is-uncle-groucho-you-win-a-fat-cigar.json) |
