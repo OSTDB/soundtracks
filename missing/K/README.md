@@ -415,6 +415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kamen Rider V3 | 43862 | [43862-kamen-rider-v3.json](./43862-kamen-rider-v3.json) |
 | Kamen Rider: Battride War | 63358 | [63358-kamen-rider-battride-war.json](./63358-kamen-rider-battride-war.json) |
 | Kamen Rider: Battride War Genesis | 13559 | [13559-kamen-rider-battride-war-genesis.json](./13559-kamen-rider-battride-war-genesis.json) |
+| Kamen Rider: Battride War Genesis - Memorial TV Sound Edition | 136694 | [136694-kamen-rider-battride-war-genesis-memorial-tv-sound-edition.json](./136694-kamen-rider-battride-war-genesis-memorial-tv-sound-edition.json) |
 | Kamen Rider: Battride War II | 62184 | [62184-kamen-rider-battride-war-ii.json](./62184-kamen-rider-battride-war-ii.json) |
 | Kamen Rider: Break Joker | 61501 | [61501-kamen-rider-break-joker.json](./61501-kamen-rider-break-joker.json) |
 | Kamen Rider: Climax Fighters - Premium R Sound Edition | 136724 | [136724-kamen-rider-climax-fighters-premium-r-sound-edition.json](./136724-kamen-rider-climax-fighters-premium-r-sound-edition.json) |
@@ -516,6 +517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kanchayudha | 57106 | [57106-kanchayudha.json](./57106-kanchayudha.json) |
 | KanColle Kai | 11461 | [11461-kancolle-kai.json](./11461-kancolle-kai.json) |
 | Kandagawa Jet Girls | 121202 | [121202-kandagawa-jet-girls.json](./121202-kandagawa-jet-girls.json) |
+| Kandagawa Jet Girls: DX Jet Pack | 136700 | [136700-kandagawa-jet-girls-dx-jet-pack.json](./136700-kandagawa-jet-girls-dx-jet-pack.json) |
 | Kandagawa Jet Girls: Ikaruga & Yomi Character Set | 225914 | [225914-kandagawa-jet-girls-ikaruga-and-yomi-character-set.json](./225914-kandagawa-jet-girls-ikaruga-and-yomi-character-set.json) |
 | Kandagawa Jet Girls: Racing Hearts Edition | 136195 | [136195-kandagawa-jet-girls-racing-hearts-edition.json](./136195-kandagawa-jet-girls-racing-hearts-edition.json) |
 | Kandidatos | 146303 | [146303-kandidatos.json](./146303-kandidatos.json) |
@@ -1030,6 +1032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kawaii Pet Megu | 315629 | [315629-kawaii-pet-megu.json](./315629-kawaii-pet-megu.json) |
 | Kawaii Pet Shop Monogatari | 228580 | [228580-kawaii-pet-shop-monogatari.json](./228580-kawaii-pet-shop-monogatari.json) |
 | Kawaii Pet Shop Monogatari 2 | 258866 | [258866-kawaii-pet-shop-monogatari-2.json](./258866-kawaii-pet-shop-monogatari-2.json) |
+| Kawaii Pet to Kurasou! Wan Nyan & Idol Animal | 136915 | [136915-kawaii-pet-to-kurasou-wan-nyan-and-idol-animal.json](./136915-kawaii-pet-to-kurasou-wan-nyan-and-idol-animal.json) |
 | Kawaii Pet to Kurasou! Wan Nyan & Mini Mini Animal | 222402 | [222402-kawaii-pet-to-kurasou-wan-nyan-and-mini-mini-animal.json](./222402-kawaii-pet-to-kurasou-wan-nyan-and-mini-mini-animal.json) |
 | Kawaii Push | 421318 | [421318-kawaii-push.json](./421318-kawaii-push.json) |
 | Kawaii Puzzle: Girl Adventure | 290823 | [290823-kawaii-puzzle-girl-adventure.json](./290823-kawaii-puzzle-girl-adventure.json) |
@@ -4077,6 +4080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kono Subarashii Sekai ni Shukufuku o! Fantasutikku Deizu | 131568 | [131568-kono-subarashii-sekai-ni-shukufuku-o-fantasutikku-deizu.json](./131568-kono-subarashii-sekai-ni-shukufuku-o-fantasutikku-deizu.json) |
 | Kono Subarashii Sekai ni Shukufuku wo! Fukkatsu no Beldia | 79124 | [79124-kono-subarashii-sekai-ni-shukufuku-wo-fukkatsu-no-beldia.json](./79124-kono-subarashii-sekai-ni-shukufuku-wo-fukkatsu-no-beldia.json) |
 | Kono Subarashii Sekai ni Shukufuku wo! In the Life! | 56133 | [56133-kono-subarashii-sekai-ni-shukufuku-wo-in-the-life.json](./56133-kono-subarashii-sekai-ni-shukufuku-wo-in-the-life.json) |
+| Kono Subarashii Sekai ni Shukufuku wo! Kibou no Meikyuu to Tsudoishi Boukensha-tachi Plus | 136713 | [136713-kono-subarashii-sekai-ni-shukufuku-wo-kibou-no-meikyuu-to-tsudoishi-boukensha-tachi-plus.json](./136713-kono-subarashii-sekai-ni-shukufuku-wo-kibou-no-meikyuu-to-tsudoishi-boukensha-tachi-plus.json) |
 | Kono Subarashii Sekai ni Shukufuku wo! Kibou no Meikyuu to Tsudoishi Boukensha-tachi Plus: Complete Edition | 136787 | [136787-kono-subarashii-sekai-ni-shukufuku-wo-kibou-no-meikyuu-to-tsudoishi-boukensha-tachi-plus-complete-edition.json](./136787-kono-subarashii-sekai-ni-shukufuku-wo-kibou-no-meikyuu-to-tsudoishi-boukensha-tachi-plus-complete-edition.json) |
 | Kono Subarashii Sekai ni Shukufuku wo! Kibou no Meikyuu to Tsudoishi Boukensha-tachi! | 133771 | [133771-kono-subarashii-sekai-ni-shukufuku-wo-kibou-no-meikyuu-to-tsudoishi-boukensha-tachi.json](./133771-kono-subarashii-sekai-ni-shukufuku-wo-kibou-no-meikyuu-to-tsudoishi-boukensha-tachi.json) |
 | Kono Subarashii Sekai ni Shukufuku wo! Kibou no Meikyuu to Tsudoishi Boukensha-tachi! Plus: Limited Edition | 167155 | [167155-kono-subarashii-sekai-ni-shukufuku-wo-kibou-no-meikyuu-to-tsudoishi-boukensha-tachi-plus-limited-edition.json](./167155-kono-subarashii-sekai-ni-shukufuku-wo-kibou-no-meikyuu-to-tsudoishi-boukensha-tachi-plus-limited-edition.json) |
