@@ -1740,6 +1740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LeapSchool Reading | 208324 | [208324-leapschool-reading.json](./208324-leapschool-reading.json) |
 | Learn & Discover Home | 326588 | [326588-learn-and-discover-home.json](./326588-learn-and-discover-home.json) |
 | Learn & Play: Dino Coloring | 400073 | [400073-learn-and-play-dino-coloring.json](./400073-learn-and-play-dino-coloring.json) |
+| Learn 2 Kaizo | 135545 | [135545-learn-2-kaizo.json](./135545-learn-2-kaizo.json) |
 | Learn Basic Mandarin!! | 396220 | [396220-learn-basic-mandarin.json](./396220-learn-basic-mandarin.json) |
 | Learn Chess | 240066 | [240066-learn-chess.json](./240066-learn-chess.json) |
 | Learn Colors Shapes Preschool Games for Kids Games | 232169 | [232169-learn-colors-shapes-preschool-games-for-kids-games.json](./232169-learn-colors-shapes-preschool-games-for-kids-games.json) |
@@ -7008,6 +7009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lovely Tesserae | 382311 | [382311-lovely-tesserae.json](./382311-lovely-tesserae.json) |
 | Lovely Trap | 213839 | [213839-lovely-trap.json](./213839-lovely-trap.json) |
 | Lovely Warriors | 286448 | [286448-lovely-warriors.json](./286448-lovely-warriors.json) |
+| Lovely x Cation | 135501 | [135501-lovely-x-cation.json](./135501-lovely-x-cation.json) |
 | Lovely x Cation 1 & 2 | 79306 | [79306-lovely-x-cation-1-and-2.json](./79306-lovely-x-cation-1-and-2.json) |
 | Lovelydoll/Wildmachine | 188559 | [188559-lovelydoll-wildmachine.json](./188559-lovelydoll-wildmachine.json) |
 | LovePlus Every | 70861 | [70861-loveplus-every.json](./70861-loveplus-every.json) |
