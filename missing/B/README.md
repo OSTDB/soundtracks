@@ -3362,6 +3362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlegrounds: At Enemy Gates | 266615 | [266615-battlegrounds-at-enemy-gates.json](./266615-battlegrounds-at-enemy-gates.json) |
 | Battlegrounds: The Pirate King | 294158 | [294158-battlegrounds-the-pirate-king.json](./294158-battlegrounds-the-pirate-king.json) |
 | BattleGrounds: War, Tanks and Nukes | 169665 | [169665-battlegrounds-war-tanks-and-nukes.json](./169665-battlegrounds-war-tanks-and-nukes.json) |
+| BattleGroupVR | 131215 | [131215-battlegroupvr.json](./131215-battlegroupvr.json) |
 | BattleGroupVR2 | 344170 | [344170-battlegroupvr2.json](./344170-battlegroupvr2.json) |
 | BattleGuild | 251816 | [251816-battleguild.json](./251816-battleguild.json) |
 | Battlegun | 52276 | [52276-battlegun.json](./52276-battlegun.json) |
@@ -8049,6 +8050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block and Save | 254166 | [254166-block-and-save.json](./254166-block-and-save.json) |
 | Block Arena | 148928 | [148928-block-arena.json](./148928-block-arena.json) |
 | Block Arena | 384098 | [384098-block-arena.json](./384098-block-arena.json) |
+| Block Assembly Simulator | 131219 | [131219-block-assembly-simulator.json](./131219-block-assembly-simulator.json) |
 | Block Attack: Rise of the Blocks | 176732 | [176732-block-attack-rise-of-the-blocks.json](./176732-block-attack-rise-of-the-blocks.json) |
 | Block Balls | 101431 | [101431-block-balls.json](./101431-block-balls.json) |
 | Block Basher 3D | 346913 | [346913-block-basher-3d.json](./346913-block-basher-3d.json) |
@@ -14203,6 +14205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BVOVB: Bruising Vengeance of the Vintage Boxer | 55125 | [55125-bvovb-bruising-vengeance-of-the-vintage-boxer.json](./55125-bvovb-bruising-vengeance-of-the-vintage-boxer.json) |
 | Bvrger Van | 105138 | [105138-bvrger-van.json](./105138-bvrger-van.json) |
 | BVS Solitaire Collection | 93360 | [93360-bvs-solitaire-collection.json](./93360-bvs-solitaire-collection.json) |
+| BVS Video Poker | 131205 | [131205-bvs-video-poker.json](./131205-bvs-video-poker.json) |
 | Bwirds | 321221 | [321221-bwirds.json](./321221-bwirds.json) |
 | By Any Means Necessary | 65818 | [65818-by-any-means-necessary.json](./65818-by-any-means-necessary.json) |
 | By Bait or By Bullet | 369238 | [369238-by-bait-or-by-bullet.json](./369238-by-bait-or-by-bullet.json) |
