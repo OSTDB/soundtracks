@@ -8014,6 +8014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MGP Manager | 260382 | [260382-mgp-manager.json](./260382-mgp-manager.json) |
 | MH-Zombie | 194866 | [194866-mh-zombie.json](./194866-mh-zombie.json) |
 | MH17 Strikes Back | 329375 | [329375-mh17-strikes-back.json](./329375-mh17-strikes-back.json) |
+| MHL | 129458 | [129458-mhl.json](./129458-mhl.json) |
 | MHRD | 29883 | [29883-mhrd.json](./29883-mhrd.json) |
 | Mhystaria | 347775 | [347775-mhystaria.json](./347775-mhystaria.json) |
 | MHZ | 369219 | [369219-mhz.json](./369219-mhz.json) |
@@ -8542,6 +8543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MicroWorks | 132893 | [132893-microworks.json](./132893-microworks.json) |
 | Mictlan: An Ancient Mythical Tale | 154807 | [154807-mictlan-an-ancient-mythical-tale.json](./154807-mictlan-an-ancient-mythical-tale.json) |
 | Mid | 372231 | [372231-mid.json](./372231-mid.json) |
+| Mid or Feed | 129414 | [129414-mid-or-feed.json](./129414-mid-or-feed.json) |
 | Mid-Death Crisis | 295495 | [295495-mid-death-crisis.json](./295495-mid-death-crisis.json) |
 | Midair | 55115 | [55115-midair.json](./55115-midair.json) |
 | Midair 2 | 133680 | [133680-midair-2.json](./133680-midair-2.json) |
