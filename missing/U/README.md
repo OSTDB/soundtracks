@@ -1028,6 +1028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unbeatable | 144859 | [144859-unbeatable.json](./144859-unbeatable.json) |
 | Unbeatable Professional me with 100 Girlfriends | 280655 | [280655-unbeatable-professional-me-with-100-girlfriends.json](./280655-unbeatable-professional-me-with-100-girlfriends.json) |
 | Unbeatable Professional Me With 100 Girlfriends! | 282257 | [282257-unbeatable-professional-me-with-100-girlfriends.json](./282257-unbeatable-professional-me-with-100-girlfriends.json) |
+| Unbeatable Wilderness | 111417 | [111417-unbeatable-wilderness.json](./111417-unbeatable-wilderness.json) |
 | Unbeatable: Breakout Edition | 402444 | [402444-unbeatable-breakout-edition.json](./402444-unbeatable-breakout-edition.json) |
 | Unbeatable: The Jamie Paige Content Companion | 408174 | [408174-unbeatable-the-jamie-paige-content-companion.json](./408174-unbeatable-the-jamie-paige-content-companion.json) |
 | Unbeknown | 59682 | [59682-unbeknown.json](./59682-unbeknown.json) |
@@ -1999,6 +2000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unknown Terminal | 393826 | [393826-unknown-terminal.json](./393826-unknown-terminal.json) |
 | Unknown Woods | 148458 | [148458-unknown-woods.json](./148458-unknown-woods.json) |
 | Unknown: Raven Field | 344904 | [344904-unknown-raven-field.json](./344904-unknown-raven-field.json) |
+| Unknown's Survival: Player Battlegrounds | 111360 | [111360-unknowns-survival-player-battlegrounds.json](./111360-unknowns-survival-player-battlegrounds.json) |
 | Unko Technica | 309509 | [309509-unko-technica.json](./309509-unko-technica.json) |
 | Unko Typing | 189128 | [189128-unko-typing.json](./189128-unko-typing.json) |
 | Unkore | 151750 | [151750-unkore.json](./151750-unkore.json) |
