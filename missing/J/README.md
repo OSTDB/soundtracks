@@ -2757,6 +2757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | June 30th | 229591 | [229591-june-30th.json](./229591-june-30th.json) |
 | June Bride Nightmare | 356620 | [356620-june-bride-nightmare.json](./356620-june-bride-nightmare.json) |
 | June Exhibit | 205963 | [205963-june-exhibit.json](./205963-june-exhibit.json) |
+| Junebug vs. Evil | 155455 | [155455-junebug-vs-evil.json](./155455-junebug-vs-evil.json) |
 | Jung Rhythm | 55856 | [55856-jung-rhythm.json](./55856-jung-rhythm.json) |
 | Jung's Labyrinth | 149562 | [149562-jungs-labyrinth.json](./149562-jungs-labyrinth.json) |
 | Jungbung's Adventure 2 | 367730 | [367730-jungbungs-adventure-2.json](./367730-jungbungs-adventure-2.json) |
