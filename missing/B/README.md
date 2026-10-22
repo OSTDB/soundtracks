@@ -12472,6 +12472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brutal Doom 64 | 25583 | [25583-brutal-doom-64.json](./25583-brutal-doom-64.json) |
 | Brutal Doom: Ali Jr's Challenge | 199067 | [199067-brutal-doom-ali-jrs-challenge.json](./199067-brutal-doom-ali-jrs-challenge.json) |
 | Brutal Doom: ZioMcCall's Vision | 198693 | [198693-brutal-doom-ziomccalls-vision.json](./198693-brutal-doom-ziomccalls-vision.json) |
+| Brutal Grounds | 137881 | [137881-brutal-grounds.json](./137881-brutal-grounds.json) |
 | Brutal Half-Life | 195991 | [195991-brutal-half-life.json](./195991-brutal-half-life.json) |
 | Brutal Inventions | 88003 | [88003-brutal-inventions.json](./88003-brutal-inventions.json) |
 | Brutal John 2 | 199287 | [199287-brutal-john-2.json](./199287-brutal-john-2.json) |
