@@ -629,6 +629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lands of Mine | 364867 | [364867-lands-of-mine.json](./364867-lands-of-mine.json) |
 | Lands of Peace: Legends - Chapter 1 | 168864 | [168864-lands-of-peace-legends-chapter-1.json](./168864-lands-of-peace-legends-chapter-1.json) |
 | Lands of Rage | 211821 | [211821-lands-of-rage.json](./211821-lands-of-rage.json) |
+| Lands of Raynar | 150904 | [150904-lands-of-raynar.json](./150904-lands-of-raynar.json) |
 | Lands of Ryuu | 211586 | [211586-lands-of-ryuu.json](./211586-lands-of-ryuu.json) |
 | Lands of the Lost | 102962 | [102962-lands-of-the-lost.json](./102962-lands-of-the-lost.json) |
 | Lands of Xon | 220594 | [220594-lands-of-xon.json](./220594-lands-of-xon.json) |
@@ -3360,6 +3361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lich's Dungeon | 295604 | [295604-lichs-dungeon.json](./295604-lichs-dungeon.json) |
 | Lichdom: Battlemage | 7443 | [7443-lichdom-battlemage.json](./7443-lichdom-battlemage.json) |
 | Lichenia | 138271 | [138271-lichenia.json](./138271-lichenia.json) |
+| Lichenvale | 150926 | [150926-lichenvale.json](./150926-lichenvale.json) |
 | Lichess | 122008 | [122008-lichess.json](./122008-lichess.json) |
 | Lichgate: Tower Survivor | 357846 | [357846-lichgate-tower-survivor.json](./357846-lichgate-tower-survivor.json) |
 | Lichkeeper | 246813 | [246813-lichkeeper.json](./246813-lichkeeper.json) |
