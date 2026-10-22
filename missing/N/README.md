@@ -2077,6 +2077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neonsomnia | 257087 | [257087-neonsomnia.json](./257087-neonsomnia.json) |
 | NeonTunnel | 176365 | [176365-neontunnel.json](./176365-neontunnel.json) |
 | Neonverse Defenders | 150933 | [150933-neonverse-defenders.json](./150933-neonverse-defenders.json) |
+| Neonwall VR | 110033 | [110033-neonwall-vr.json](./110033-neonwall-vr.json) |
 | NeonXSZ | 17314 | [17314-neonxsz.json](./17314-neonxsz.json) |
 | Neopets Browser | 131370 | [131370-neopets-browser.json](./131370-neopets-browser.json) |
 | Neopets Petpet Adventures: The Wand of Wishing | 78340 | [78340-neopets-petpet-adventures-the-wand-of-wishing.json](./78340-neopets-petpet-adventures-the-wand-of-wishing.json) |
@@ -5752,6 +5753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nubby's Number Factory | 324225 | [324225-nubbys-number-factory.json](./324225-nubbys-number-factory.json) |
 | NubiaPhobia | 345019 | [345019-nubiaphobia.json](./345019-nubiaphobia.json) |
 | Nubla | 26813 | [26813-nubla.json](./26813-nubla.json) |
+| Nuclear Apocalypse 101 | 110032 | [110032-nuclear-apocalypse-101.json](./110032-nuclear-apocalypse-101.json) |
 | Nuclear Arms Race | 127600 | [127600-nuclear-arms-race.json](./127600-nuclear-arms-race.json) |
 | Nuclear Assault | 188846 | [188846-nuclear-assault.json](./188846-nuclear-assault.json) |
 | Nuclear Blaze | 153876 | [153876-nuclear-blaze.json](./153876-nuclear-blaze.json) |
