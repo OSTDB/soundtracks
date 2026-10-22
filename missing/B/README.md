@@ -2897,6 +2897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Grounds III | 117066 | [117066-battle-grounds-iii.json](./117066-battle-grounds-iii.json) |
 | Battle Group | 26378 | [26378-battle-group.json](./26378-battle-group.json) |
 | Battle Group 2 | 10040 | [10040-battle-group-2.json](./10040-battle-group-2.json) |
+| Battle Guns Simulator | 149320 | [149320-battle-guns-simulator.json](./149320-battle-guns-simulator.json) |
 | Battle Guys | 300439 | [300439-battle-guys.json](./300439-battle-guys.json) |
 | Battle Hanafuda | 377059 | [377059-battle-hanafuda.json](./377059-battle-hanafuda.json) |
 | Battle Havoc | 92618 | [92618-battle-havoc.json](./92618-battle-havoc.json) |
@@ -4769,6 +4770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Belladonna | 9246 | [9246-belladonna.json](./9246-belladonna.json) |
 | Belladonna's Flight | 255344 | [255344-belladonnas-flight.json](./255344-belladonnas-flight.json) |
 | Bellagarth's Quest | 418569 | [418569-bellagarths-quest.json](./418569-bellagarths-quest.json) |
+| Bellatia | 149264 | [149264-bellatia.json](./149264-bellatia.json) |
 | Bellator: MMA Onslaught | 47438 | [47438-bellator-mma-onslaught.json](./47438-bellator-mma-onslaught.json) |
 | Bellatores | 352257 | [352257-bellatores.json](./352257-bellatores.json) |
 | Bellatorus Deluxe | 52444 | [52444-bellatorus-deluxe.json](./52444-bellatorus-deluxe.json) |
@@ -10898,6 +10900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Box Wrangler | 305642 | [305642-box-wrangler.json](./305642-box-wrangler.json) |
 | Box Zombies | 311783 | [311783-box-zombies.json](./311783-box-zombies.json) |
 | Box-In | 290100 | [290100-box-in.json](./290100-box-in.json) |
+| Box: Boxing | 149328 | [149328-box-boxing.json](./149328-box-boxing.json) |
 | BOX: Space Station | 147383 | [147383-box-space-station.json](./147383-box-space-station.json) |
 | Box's Dream | 186741 | [186741-boxs-dream.json](./186741-boxs-dream.json) |
 | Box2Glory | 110241 | [110241-box2glory.json](./110241-box2glory.json) |
