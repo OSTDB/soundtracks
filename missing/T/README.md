@@ -3504,6 +3504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terra Flame | 197265 | [197265-terra-flame.json](./197265-terra-flame.json) |
 | Terra Foliata | 296631 | [296631-terra-foliata.json](./296631-terra-foliata.json) |
 | Terra Incognita | 129119 | [129119-terra-incognita.json](./129119-terra-incognita.json) |
+| Terra Incognito - Antarctica 1911 | 112666 | [112666-terra-incognito-antarctica-1911.json](./112666-terra-incognito-antarctica-1911.json) |
 | Terra Lander II: Rockslide Rescue | 130136 | [130136-terra-lander-ii-rockslide-rescue.json](./130136-terra-lander-ii-rockslide-rescue.json) |
 | Terra Maega | 217265 | [217265-terra-maega.json](./217265-terra-maega.json) |
 | Terra Mango | 47141 | [47141-terra-mango.json](./47141-terra-mango.json) |
@@ -8763,6 +8764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Iron Oath | 55966 | [55966-the-iron-oath.json](./55966-the-iron-oath.json) |
 | The Iron Union | 224716 | [224716-the-iron-union.json](./224716-the-iron-union.json) |
 | The Irony | 324952 | [324952-the-irony.json](./324952-the-irony.json) |
+| The Irrational World of Damien | 112653 | [112653-the-irrational-world-of-damien.json](./112653-the-irrational-world-of-damien.json) |
 | The Irregular at Magic High School Reloaded Memory | 174649 | [174649-the-irregular-at-magic-high-school-reloaded-memory.json](./174649-the-irregular-at-magic-high-school-reloaded-memory.json) |
 | The Island | 155934 | [155934-the-island.json](./155934-the-island.json) |
 | The Island | 184796 | [184796-the-island.json](./184796-the-island.json) |
@@ -11100,6 +11102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mythical City 4 | 327828 | [327828-the-mythical-city-4.json](./327828-the-mythical-city-4.json) |
 | The Naked Brothers Band | 5046 | [5046-the-naked-brothers-band.json](./5046-the-naked-brothers-band.json) |
 | The Naked Brothers Band: The Video Game | 47955 | [47955-the-naked-brothers-band-the-video-game.json](./47955-the-naked-brothers-band-the-video-game.json) |
+| The Name I Wear | 408022 | [408022-the-name-i-wear.json](./408022-the-name-i-wear.json) |
 | The Nameless | 178458 | [178458-the-nameless.json](./178458-the-nameless.json) |
 | The Nameless | 214126 | [214126-the-nameless.json](./214126-the-nameless.json) |
 | The Nameless Braves: Heaven | 207749 | [207749-the-nameless-braves-heaven.json](./207749-the-nameless-braves-heaven.json) |
@@ -11927,6 +11930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Purple Hike | 413608 | [413608-the-purple-hike.json](./413608-the-purple-hike.json) |
 | The Purrfect Valentine | 177957 | [177957-the-purrfect-valentine.json](./177957-the-purrfect-valentine.json) |
 | The Purring Quest | 14566 | [14566-the-purring-quest.json](./14566-the-purring-quest.json) |
+| The Pusher | 112676 | [112676-the-pusher.json](./112676-the-pusher.json) |
 | The Putrid Pumps | 271203 | [271203-the-putrid-pumps.json](./271203-the-putrid-pumps.json) |
 | The Puzzle 11 | 90827 | [90827-the-puzzle-11.json](./90827-the-puzzle-11.json) |
 | The Puzzle Factory | 241783 | [241783-the-puzzle-factory.json](./241783-the-puzzle-factory.json) |
@@ -12791,6 +12795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Shed | 372205 | [372205-the-shed.json](./372205-the-shed.json) |
 | The Shedding | 114372 | [114372-the-shedding.json](./114372-the-shedding.json) |
 | The Sheep Quiz | 210602 | [210602-the-sheep-quiz.json](./210602-the-sheep-quiz.json) |
+| The Shell of Permafrost | 112681 | [112681-the-shell-of-permafrost.json](./112681-the-shell-of-permafrost.json) |
 | The Shell Part I: Inferno | 142230 | [142230-the-shell-part-i-inferno.json](./142230-the-shell-part-i-inferno.json) |
 | The Shell Part I: Inferno | 252084 | [252084-the-shell-part-i-inferno.json](./252084-the-shell-part-i-inferno.json) |
 | The Shell Part III: Paradiso | 141751 | [141751-the-shell-part-iii-paradiso.json](./141751-the-shell-part-iii-paradiso.json) |
@@ -13423,6 +13428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Static | 408196 | [408196-the-static.json](./408196-the-static.json) |
 | The Static Speaks My Name | 11765 | [11765-the-static-speaks-my-name.json](./11765-the-static-speaks-my-name.json) |
 | The Station | 337572 | [337572-the-station.json](./337572-the-station.json) |
+| The Station VR | 112687 | [112687-the-station-vr.json](./112687-the-station-vr.json) |
 | The Station: Escape Room | 151011 | [151011-the-station-escape-room.json](./151011-the-station-escape-room.json) |
 | The Statue Got Me High | 358371 | [358371-the-statue-got-me-high.json](./358371-the-statue-got-me-high.json) |
 | The Stealth House: Secret Key | 101018 | [101018-the-stealth-house-secret-key.json](./101018-the-stealth-house-secret-key.json) |
@@ -15936,6 +15942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Three Kingdom: The Journey | 166618 | [166618-three-kingdom-the-journey.json](./166618-three-kingdom-the-journey.json) |
 | Three Kingdom: Zhang Jiao Revival | 374060 | [374060-three-kingdom-zhang-jiao-revival.json](./374060-three-kingdom-zhang-jiao-revival.json) |
 | Three Kingdoms | 355205 | [355205-three-kingdoms.json](./355205-three-kingdoms.json) |
+| Three Kingdoms 2018 | 112680 | [112680-three-kingdoms-2018.json](./112680-three-kingdoms-2018.json) |
 | Three Kingdoms 2019 | 107421 | [107421-three-kingdoms-2019.json](./107421-three-kingdoms-2019.json) |
 | Three Kingdoms 2025 | 368017 | [368017-three-kingdoms-2025.json](./368017-three-kingdoms-2025.json) |
 | Three Kingdoms 21 | 149094 | [149094-three-kingdoms-21.json](./149094-three-kingdoms-21.json) |
@@ -19595,12 +19602,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom Clancy's SSN | 57686 | [57686-tom-clancys-ssn.json](./57686-tom-clancys-ssn.json) |
 | Tom Clancy’s The Division - Definitive Edition | 394852 | [394852-tom-clancy-s-the-division-definitive-edition.json](./394852-tom-clancy-s-the-division-definitive-edition.json) |
 | Tom Clancy's The Division 2 - Bedlam Pack | 408973 | [408973-tom-clancys-the-division-2-bedlam-pack.json](./408973-tom-clancys-the-division-2-bedlam-pack.json) |
+| Tom Clancy's The Division 2: Dark Zone Edition | 112646 | [112646-tom-clancys-the-division-2-dark-zone-edition.json](./112646-tom-clancys-the-division-2-dark-zone-edition.json) |
 | Tom Clancy's The Division 2: Fang Pack | 408900 | [408900-tom-clancys-the-division-2-fang-pack.json](./408900-tom-clancys-the-division-2-fang-pack.json) |
+| Tom Clancy's The Division 2: Gold Edition | 112648 | [112648-tom-clancys-the-division-2-gold-edition.json](./112648-tom-clancys-the-division-2-gold-edition.json) |
 | Tom Clancy's The Division 2: Gold Steelbook Edition | 79862 | [79862-tom-clancys-the-division-2-gold-steelbook-edition.json](./79862-tom-clancys-the-division-2-gold-steelbook-edition.json) |
 | Tom Clancy’s The Division 2: Into the Dark Bundle | 408897 | [408897-tom-clancy-s-the-division-2-into-the-dark-bundle.json](./408897-tom-clancy-s-the-division-2-into-the-dark-bundle.json) |
 | Tom Clancy's The Division 2: New York DLC Bundle | 377722 | [377722-tom-clancys-the-division-2-new-york-dlc-bundle.json](./377722-tom-clancys-the-division-2-new-york-dlc-bundle.json) |
 | Tom Clancy’s The Division 2: Red Eye Pack | 377721 | [377721-tom-clancy-s-the-division-2-red-eye-pack.json](./377721-tom-clancy-s-the-division-2-red-eye-pack.json) |
 | Tom Clancy’s The Division 2: Shady Pack | 408898 | [408898-tom-clancy-s-the-division-2-shady-pack.json](./408898-tom-clancy-s-the-division-2-shady-pack.json) |
+| Tom Clancy's The Division 2: The Phoenix Shield Edition | 112645 | [112645-tom-clancys-the-division-2-the-phoenix-shield-edition.json](./112645-tom-clancys-the-division-2-the-phoenix-shield-edition.json) |
+| Tom Clancy's The Division 2: Ultimate Edition | 112647 | [112647-tom-clancys-the-division-2-ultimate-edition.json](./112647-tom-clancys-the-division-2-ultimate-edition.json) |
 | Tom Clancy's The Division 2: Warlord of New York - Season 1: Shadow Tide | 217527 | [217527-tom-clancys-the-division-2-warlord-of-new-york-season-1-shadow-tide.json](./217527-tom-clancys-the-division-2-warlord-of-new-york-season-1-shadow-tide.json) |
 | Tom Clancy's The Division 2: Warlords of New York - Season 10: Price of Power | 217537 | [217537-tom-clancys-the-division-2-warlords-of-new-york-season-10-price-of-power.json](./217537-tom-clancys-the-division-2-warlords-of-new-york-season-10-price-of-power.json) |
 | Tom Clancy's The Division 2: Warlords of New York - Season 11 | 217529 | [217529-tom-clancys-the-division-2-warlords-of-new-york-season-11.json](./217529-tom-clancys-the-division-2-warlords-of-new-york-season-11.json) |
@@ -24118,6 +24129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trials: Gold Pack | 219004 | [219004-trials-gold-pack.json](./219004-trials-gold-pack.json) |
 | Trialspire | 397782 | [397782-trialspire.json](./397782-trialspire.json) |
 | Trialtime Reborn | 192793 | [192793-trialtime-reborn.json](./192793-trialtime-reborn.json) |
+| Triametric | 112641 | [112641-triametric.json](./112641-triametric.json) |
 | Trianga's Project: Battle Splash 2.0 - Earth's Legacy M.A.I.A | 289466 | [289466-triangas-project-battle-splash-2-0-earths-legacy-m-a-i-a.json](./289466-triangas-project-battle-splash-2-0-earths-legacy-m-a-i-a.json) |
 | Triangle Again | 63017 | [63017-triangle-again.json](./63017-triangle-again.json) |
 | Triangle Again 2 | 63018 | [63018-triangle-again-2.json](./63018-triangle-again-2.json) |
