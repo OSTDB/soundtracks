@@ -7177,6 +7177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Homeland | 274960 | [274960-homeland.json](./274960-homeland.json) |
 | Homeland | 3948 | [3948-homeland.json](./3948-homeland.json) |
 | Homeland Defense: National Security Patrol | 209915 | [209915-homeland-defense-national-security-patrol.json](./209915-homeland-defense-national-security-patrol.json) |
+| Homeland: Lay to Rest | 150541 | [150541-homeland-lay-to-rest.json](./150541-homeland-lay-to-rest.json) |
 | Homeland: The Stone Of Night | 73455 | [73455-homeland-the-stone-of-night.json](./73455-homeland-the-stone-of-night.json) |
 | Homeless | 277287 | [277287-homeless.json](./277287-homeless.json) |
 | Homeless | 312726 | [312726-homeless.json](./312726-homeless.json) |
@@ -7830,6 +7831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horror Maze | 172996 | [172996-horror-maze.json](./172996-horror-maze.json) |
 | Horror Maze 2 | 246838 | [246838-horror-maze-2.json](./246838-horror-maze-2.json) |
 | Horror Maze: Sci-Fi Edition | 110155 | [110155-horror-maze-sci-fi-edition.json](./110155-horror-maze-sci-fi-edition.json) |
+| Horror Movie Bingo | 150537 | [150537-horror-movie-bingo.json](./150537-horror-movie-bingo.json) |
 | Horror Night | 197551 | [197551-horror-night.json](./197551-horror-night.json) |
 | Horror Night with Tung Tung Tung Sahur | 351096 | [351096-horror-night-with-tung-tung-tung-sahur.json](./351096-horror-night-with-tung-tung-tung-sahur.json) |
 | Horror Night: Spooky Night Vol. 1 | 221735 | [221735-horror-night-spooky-night-vol-1.json](./221735-horror-night-spooky-night-vol-1.json) |
