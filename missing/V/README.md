@@ -1141,6 +1141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vera: The Last Hope | 215673 | [215673-vera-the-last-hope.json](./215673-vera-the-last-hope.json) |
 | Verald Defense | 53874 | [53874-verald-defense.json](./53874-verald-defense.json) |
 | Verdant Citadel | 141778 | [141778-verdant-citadel.json](./141778-verdant-citadel.json) |
+| Verdant Village | 134277 | [134277-verdant-village.json](./134277-verdant-village.json) |
 | Verdge | 377701 | [377701-verdge.json](./377701-verdge.json) |
 | Verdict | 166606 | [166606-verdict.json](./166606-verdict.json) |
 | Verdict: Descent | 258086 | [258086-verdict-descent.json](./258086-verdict-descent.json) |
@@ -1972,6 +1973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtu-Pilot | 282019 | [282019-virtu-pilot.json](./282019-virtu-pilot.json) |
 | Virtua Athlete 2000 | 24159 | [24159-virtua-athlete-2000.json](./24159-virtua-athlete-2000.json) |
 | Virtua Athletics | 412215 | [412215-virtua-athletics.json](./412215-virtua-athletics.json) |
+| Virtua Blinds | 134278 | [134278-virtua-blinds.json](./134278-virtua-blinds.json) |
 | Virtua Bowling | 354530 | [354530-virtua-bowling.json](./354530-virtua-bowling.json) |
 | Virtua Cop | 199018 | [199018-virtua-cop.json](./199018-virtua-cop.json) |
 | Virtua Cop 2 | 2470 | [2470-virtua-cop-2.json](./2470-virtua-cop-2.json) |
