@@ -1225,6 +1225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ballapalooza | 275110 | [275110-ballapalooza.json](./275110-ballapalooza.json) |
 | Ballastic | 336912 | [336912-ballastic.json](./336912-ballastic.json) |
 | Ballatory | 391308 | [391308-ballatory.json](./391308-ballatory.json) |
+| Ballavita | 131826 | [131826-ballavita.json](./131826-ballavita.json) |
 | BallBastic! | 292945 | [292945-ballbastic.json](./292945-ballbastic.json) |
 | Ballblazer | 176 | [176-ballblazer.json](./176-ballblazer.json) |
 | Ballblazer | 273081 | [273081-ballblazer.json](./273081-ballblazer.json) |
@@ -3876,6 +3877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bear With Me: The Lost Robots | 117105 | [117105-bear-with-me-the-lost-robots.json](./117105-bear-with-me-the-lost-robots.json) |
 | Bear-ly There | 134971 | [134971-bear-ly-there.json](./134971-bear-ly-there.json) |
 | Bear, Vodka, Balalaika: Cyberpunk | 168768 | [168768-bear-vodka-balalaika-cyberpunk.json](./168768-bear-vodka-balalaika-cyberpunk.json) |
+| Bear, Vodka, Fall of Berlin! | 131836 | [131836-bear-vodka-fall-of-berlin.json](./131836-bear-vodka-fall-of-berlin.json) |
 | Bear's Restaurant | 151754 | [151754-bears-restaurant.json](./151754-bears-restaurant.json) |
 | Bearable - Return to Candyland | 232391 | [232391-bearable-return-to-candyland.json](./232391-bearable-return-to-candyland.json) |
 | Bearable Nightmares | 148893 | [148893-bearable-nightmares.json](./148893-bearable-nightmares.json) |
