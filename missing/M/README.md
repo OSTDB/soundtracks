@@ -1879,6 +1879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Majoriko Inbikai Inbizone | 92071 | [92071-majoriko-inbikai-inbizone.json](./92071-majoriko-inbikai-inbizone.json) |
 | Majou Densetsu II: Daimashikyou Galious | 48866 | [48866-majou-densetsu-ii-daimashikyou-galious.json](./48866-majou-densetsu-ii-daimashikyou-galious.json) |
 | Majoukko Princess - Mefi's Great Strategy for Recapturing the Castle- | 292052 | [292052-majoukko-princess-mefis-great-strategy-for-recapturing-the-castle.json](./292052-majoukko-princess-mefis-great-strategy-for-recapturing-the-castle.json) |
+| Majula Frontier | 108184 | [108184-majula-frontier.json](./108184-majula-frontier.json) |
 | Majulah | 367965 | [367965-majulah.json](./367965-majulah.json) |
 | Majustsushi Rintiara | 174123 | [174123-majustsushi-rintiara.json](./174123-majustsushi-rintiara.json) |
 | Majuu-ou: King of Demons | 38112 | [38112-majuu-ou-king-of-demons.json](./38112-majuu-ou-king-of-demons.json) |
@@ -2567,6 +2568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mappy: Revenge of Nyamco | 243828 | [243828-mappy-revenge-of-nyamco.json](./243828-mappy-revenge-of-nyamco.json) |
 | Maps 4Matt | 312897 | [312897-maps-4matt.json](./312897-maps-4matt.json) |
 | Maps 4TMD | 312911 | [312911-maps-4tmd.json](./312911-maps-4tmd.json) |
+| Maps of our World | 108213 | [108213-maps-of-our-world.json](./108213-maps-of-our-world.json) |
 | Maps: U.S.A. | 201011 | [201011-maps-u-s-a.json](./201011-maps-u-s-a.json) |
 | Mapsnatch | 186639 | [186639-mapsnatch.json](./186639-mapsnatch.json) |
 | Mapster | 381411 | [381411-mapster.json](./381411-mapster.json) |
@@ -10351,6 +10353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minute Fighter | 288766 | [288766-minute-fighter.json](./288766-minute-fighter.json) |
 | Minute Knights | 221379 | [221379-minute-knights.json](./221379-minute-knights.json) |
 | Minute Marriage | 304760 | [304760-minute-marriage.json](./304760-minute-marriage.json) |
+| Minute of Mayhem | 108168 | [108168-minute-of-mayhem.json](./108168-minute-of-mayhem.json) |
 | Minute to Win It | 20162 | [20162-minute-to-win-it.json](./20162-minute-to-win-it.json) |
 | Minute to Win It | 418289 | [418289-minute-to-win-it.json](./418289-minute-to-win-it.json) |
 | MinuteDungeon | 144219 | [144219-minutedungeon.json](./144219-minutedungeon.json) |
@@ -15846,6 +15849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Fight: Mariana Ro | 168068 | [168068-my-fight-mariana-ro.json](./168068-my-fight-mariana-ro.json) |
 | My Final Cursed Days | 336483 | [336483-my-final-cursed-days.json](./336483-my-final-cursed-days.json) |
 | My Final Cursed Days - Cursed Transformation Version | 336621 | [336621-my-final-cursed-days-cursed-transformation-version.json](./336621-my-final-cursed-days-cursed-transformation-version.json) |
+| My Fire Station by Chocolapps | 108187 | [108187-my-fire-station-by-chocolapps.json](./108187-my-fire-station-by-chocolapps.json) |
 | My First Craft Survival | 259988 | [259988-my-first-craft-survival.json](./259988-my-first-craft-survival.json) |
 | My First Date RPG | 169431 | [169431-my-first-date-rpg.json](./169431-my-first-date-rpg.json) |
 | My First Date RPG 2 | 196813 | [196813-my-first-date-rpg-2.json](./196813-my-first-date-rpg-2.json) |
