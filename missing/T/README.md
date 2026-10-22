@@ -14774,6 +14774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Weeping Swan: Ten Days of the City's Fall | 329217 | [329217-the-weeping-swan-ten-days-of-the-citys-fall.json](./329217-the-weeping-swan-ten-days-of-the-citys-fall.json) |
 | The Weight of a Soul | 230546 | [230546-the-weight-of-a-soul.json](./230546-the-weight-of-a-soul.json) |
 | The Weird One | 179364 | [179364-the-weird-one.json](./179364-the-weird-one.json) |
+| The Welkin World: Rebels | 121278 | [121278-the-welkin-world-rebels.json](./121278-the-welkin-world-rebels.json) |
 | The Well | 169799 | [169799-the-well.json](./169799-the-well.json) |
 | The Well of Heaven-Reaching | 310713 | [310713-the-well-of-heaven-reaching.json](./310713-the-well-of-heaven-reaching.json) |
 | The Well of Life Cannot Move | 298630 | [298630-the-well-of-life-cannot-move.json](./298630-the-well-of-life-cannot-move.json) |
@@ -15744,6 +15745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | This War of Mine: Stories - Season Pass | 75872 | [75872-this-war-of-mine-stories-season-pass.json](./75872-this-war-of-mine-stories-season-pass.json) |
 | This War of Mine: Stories - The Last Broadcast | 111646 | [111646-this-war-of-mine-stories-the-last-broadcast.json](./111646-this-war-of-mine-stories-the-last-broadcast.json) |
 | This War of Mine: War Child Charity | 76239 | [76239-this-war-of-mine-war-child-charity.json](./76239-this-war-of-mine-war-child-charity.json) |
+| This was for you | 121262 | [121262-this-was-for-you.json](./121262-this-was-for-you.json) |
 | This was Once a Place of Honour | 239199 | [239199-this-was-once-a-place-of-honour.json](./239199-this-was-once-a-place-of-honour.json) |
 | This Way Madness Lies | 221775 | [221775-this-way-madness-lies.json](./221775-this-way-madness-lies.json) |
 | This Way!! | 199943 | [199943-this-way.json](./199943-this-way.json) |
@@ -18303,6 +18305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tinkle Pit | 59666 | [59666-tinkle-pit.json](./59666-tinkle-pit.json) |
 | Tinny Strays | 409507 | [409507-tinny-strays.json](./409507-tinny-strays.json) |
 | Tino's Fruit Stand | 327254 | [327254-tinos-fruit-stand.json](./327254-tinos-fruit-stand.json) |
+| Tinselfly | 121312 | [121312-tinselfly.json](./121312-tinselfly.json) |
 | Tinseltown Tycoon | 157889 | [157889-tinseltown-tycoon.json](./157889-tinseltown-tycoon.json) |
 | Tint n Ink | 171975 | [171975-tint-n-ink.json](./171975-tint-n-ink.json) |
 | Tint The Saver | 334181 | [334181-tint-the-saver.json](./334181-tint-the-saver.json) |
@@ -21257,6 +21260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower Tactics: Astral Siege | 336624 | [336624-tower-tactics-astral-siege.json](./336624-tower-tactics-astral-siege.json) |
 | Tower to Heaven | 173313 | [173313-tower-to-heaven.json](./173313-tower-to-heaven.json) |
 | Tower Up | 346547 | [346547-tower-up.json](./346547-tower-up.json) |
+| Tower VR | 121307 | [121307-tower-vr.json](./121307-tower-vr.json) |
 | Tower Walker - The Ancient Ones | 252259 | [252259-tower-walker-the-ancient-ones.json](./252259-tower-walker-the-ancient-ones.json) |
 | Tower Walker: MMO Grind Simulator | 217504 | [217504-tower-walker-mmo-grind-simulator.json](./217504-tower-walker-mmo-grind-simulator.json) |
 | Tower Walker: The Northlanders | 297323 | [297323-tower-walker-the-northlanders.json](./297323-tower-walker-the-northlanders.json) |
@@ -23869,6 +23873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trebuchet Town | 175993 | [175993-trebuchet-town.json](./175993-trebuchet-town.json) |
 | Tree Golf | 181662 | [181662-tree-golf.json](./181662-tree-golf.json) |
 | Tree Hole: Adventures In Wonderland | 248191 | [248191-tree-hole-adventures-in-wonderland.json](./248191-tree-hole-adventures-in-wonderland.json) |
+| Tree House : The Avocado Mayhem | 121255 | [121255-tree-house-the-avocado-mayhem.json](./121255-tree-house-the-avocado-mayhem.json) |
 | Tree House Survivors | 139650 | [139650-tree-house-survivors.json](./139650-tree-house-survivors.json) |
 | Tree Kingdoms | 345485 | [345485-tree-kingdoms.json](./345485-tree-kingdoms.json) |
 | Tree n Ant | 355611 | [355611-tree-n-ant.json](./355611-tree-n-ant.json) |
