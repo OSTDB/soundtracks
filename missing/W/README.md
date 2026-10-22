@@ -378,6 +378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wall to Wall | 115142 | [115142-wall-to-wall.json](./115142-wall-to-wall.json) |
 | Wall to Wall | 188997 | [188997-wall-to-wall.json](./188997-wall-to-wall.json) |
 | Wall Town Wonders | 320625 | [320625-wall-town-wonders.json](./320625-wall-town-wonders.json) |
+| Wall Walker | 106311 | [106311-wall-walker.json](./106311-wall-walker.json) |
 | Wall World | 224705 | [224705-wall-world.json](./224705-wall-world.json) |
 | Wall World 2 | 335291 | [335291-wall-world-2.json](./335291-wall-world-2.json) |
 | Wall World Complete | 369136 | [369136-wall-world-complete.json](./369136-wall-world-complete.json) |
@@ -896,6 +897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War: The Savior's Order | 221796 | [221796-war-the-saviors-order.json](./221796-war-the-saviors-order.json) |
 | War! Age of Imperialism | 73520 | [73520-war-age-of-imperialism.json](./73520-war-age-of-imperialism.json) |
 | WAR! Showdown | 108186 | [108186-war-showdown.json](./108186-war-showdown.json) |
+| War.io : Zombie Battle Royale | 106341 | [106341-war-io-zombie-battle-royale.json](./106341-war-io-zombie-battle-royale.json) |
 | War7 | 31137 | [31137-war7.json](./31137-war7.json) |
 | Warag | 348741 | [348741-warag.json](./348741-warag.json) |
 | Warage | 155500 | [155500-warage.json](./155500-warage.json) |
