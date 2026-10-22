@@ -6603,7 +6603,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GRE Math Puzzles - GRE Logical Reasoning | 104264 | [104264-gre-math-puzzles-gre-logical-reasoning.json](./104264-gre-math-puzzles-gre-logical-reasoning.json) |
 | GRE Words Puzzle | 110300 | [110300-gre-words-puzzle.json](./110300-gre-words-puzzle.json) |
 | Greak 2: Alliance of the Storms | 415149 | [415149-greak-2-alliance-of-the-storms.json](./415149-greak-2-alliance-of-the-storms.json) |
-| Greak: Memories of Azur | 122126 | [122126-greak-memories-of-azur.json](./122126-greak-memories-of-azur.json) |
 | Greak: Memories of Azur - Deluxe Edition | 167185 | [167185-greak-memories-of-azur-deluxe-edition.json](./167185-greak-memories-of-azur-deluxe-edition.json) |
 | Grease | 4895 | [4895-grease.json](./4895-grease.json) |
 | Grease Dance | 20218 | [20218-grease-dance.json](./20218-grease-dance.json) |
