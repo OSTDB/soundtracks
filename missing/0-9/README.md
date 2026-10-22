@@ -1895,6 +1895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Workers Island | 321462 | [321462-3d-workers-island.json](./321462-3d-workers-island.json) |
 | 3D-Dungeon | 409220 | [409220-3d-dungeon.json](./409220-3d-dungeon.json) |
 | 3D-Laby | 98226 | [98226-3d-laby.json](./98226-3d-laby.json) |
+| 3D-Pac Plus | 122636 | [122636-3d-pac-plus.json](./122636-3d-pac-plus.json) |
 | 3D3D | 291042 | [291042-3d3d.json](./291042-3d3d.json) |
 | 3Dash | 326188 | [326188-3dash.json](./326188-3dash.json) |
 | 3Dash Ultra | 412318 | [412318-3dash-ultra.json](./412318-3dash-ultra.json) |
