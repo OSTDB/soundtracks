@@ -380,6 +380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Factotum 90 | 21317 | [21317-factotum-90.json](./21317-factotum-90.json) |
 | Factropy | 196661 | [196661-factropy.json](./196661-factropy.json) |
 | Factum Solus | 323562 | [323562-factum-solus.json](./323562-factum-solus.json) |
+| Fade | 148828 | [148828-fade.json](./148828-fade.json) |
 | Fade Away | 68888 | [68888-fade-away.json](./68888-fade-away.json) |
 | Fade Into Darkness | 63841 | [63841-fade-into-darkness.json](./63841-fade-into-darkness.json) |
 | Fade Master 3D: Barber Shop | 224045 | [224045-fade-master-3d-barber-shop.json](./224045-fade-master-3d-barber-shop.json) |
@@ -956,6 +957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallen Survivors | 244921 | [244921-fallen-survivors.json](./244921-fallen-survivors.json) |
 | Fallen Symphony | 258903 | [258903-fallen-symphony.json](./258903-fallen-symphony.json) |
 | Fallen Threats | 110170 | [110170-fallen-threats.json](./110170-fallen-threats.json) |
+| Fallen World | 148938 | [148938-fallen-world.json](./148938-fallen-world.json) |
 | Fallen, the last light | 164267 | [164267-fallen-the-last-light.json](./164267-fallen-the-last-light.json) |
 | Fallen: Into the Darkness | 326182 | [326182-fallen-into-the-darkness.json](./326182-fallen-into-the-darkness.json) |
 | Fallen: Town of Heritage and Makina the Blazing Hair | 82831 | [82831-fallen-town-of-heritage-and-makina-the-blazing-hair.json](./82831-fallen-town-of-heritage-and-makina-the-blazing-hair.json) |
@@ -2211,6 +2213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fartcore | 374946 | [374946-fartcore.json](./374946-fartcore.json) |
 | Farting Simulator | 315285 | [315285-farting-simulator.json](./315285-farting-simulator.json) |
 | Fartonauts | 348358 | [348358-fartonauts.json](./348358-fartonauts.json) |
+| Farty Bird | 148805 | [148805-farty-bird.json](./148805-farty-bird.json) |
 | Farwake | 403666 | [403666-farwake.json](./403666-farwake.json) |
 | FarWest Colony | 269019 | [269019-farwest-colony.json](./269019-farwest-colony.json) |
 | Farwoods | 203248 | [203248-farwoods.json](./203248-farwoods.json) |
@@ -5922,6 +5925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fleshinsane | 336863 | [336863-fleshinsane.json](./336863-fleshinsane.json) |
 | Fleshport | 173261 | [173261-fleshport.json](./173261-fleshport.json) |
 | FleurBirdShoot | 192931 | [192931-fleurbirdshoot.json](./192931-fleurbirdshoot.json) |
+| Flewfies Adventure | 148814 | [148814-flewfies-adventure.json](./148814-flewfies-adventure.json) |
 | Flewn | 18087 | [18087-flewn.json](./18087-flewn.json) |
 | Flex | 61727 | [61727-flex.json](./61727-flex.json) |
 | Flex Armstrong | 354385 | [354385-flex-armstrong.json](./354385-flex-armstrong.json) |
