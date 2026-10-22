@@ -11710,6 +11710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snipers vs Thieves: FPS Clash | 87513 | [87513-snipers-vs-thieves-fps-clash.json](./87513-snipers-vs-thieves-fps-clash.json) |
 | Snipes | 25147 | [25147-snipes.json](./25147-snipes.json) |
 | SnipZ | 30729 | [30729-snipz.json](./30729-snipz.json) |
+| SNK Fighting Legends | 149285 | [149285-snk-fighting-legends.json](./149285-snk-fighting-legends.json) |
 | SNK Gals' Fighters | 43983 | [43983-snk-gals-fighters.json](./43983-snk-gals-fighters.json) |
 | SNK Heroines: Tag Team Frenzy | 81146 | [81146-snk-heroines-tag-team-frenzy.json](./81146-snk-heroines-tag-team-frenzy.json) |
 | SNK Slot Panic Kyuuji | 59399 | [59399-snk-slot-panic-kyuuji.json](./59399-snk-slot-panic-kyuuji.json) |
@@ -12814,6 +12815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitary Echoes | 322821 | [322821-solitary-echoes.json](./322821-solitary-echoes.json) |
 | Solitary Fighter | 39802 | [39802-solitary-fighter.json](./39802-solitary-fighter.json) |
 | Solitary Grace | 389493 | [389493-solitary-grace.json](./389493-solitary-grace.json) |
+| Soliterix | 149460 | [149460-soliterix.json](./149460-soliterix.json) |
 | Solitiare 95: The Classic Game | 108952 | [108952-solitiare-95-the-classic-game.json](./108952-solitiare-95-the-classic-game.json) |
 | Solitile | 353921 | [353921-solitile.json](./353921-solitile.json) |
 | Solitomb | 325859 | [325859-solitomb.json](./325859-solitomb.json) |
@@ -14206,6 +14208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Catcher: The Moon Coliseum | 366384 | [366384-soul-catcher-the-moon-coliseum.json](./366384-soul-catcher-the-moon-coliseum.json) |
 | Soul Cauldron | 348565 | [348565-soul-cauldron.json](./348565-soul-cauldron.json) |
 | Soul Chained | 348392 | [348392-soul-chained.json](./348392-soul-chained.json) |
+| Soul Challenge | 149324 | [149324-soul-challenge.json](./149324-soul-challenge.json) |
 | Soul Chomper | 230867 | [230867-soul-chomper.json](./230867-soul-chomper.json) |
 | Soul Climb | 189007 | [189007-soul-climb.json](./189007-soul-climb.json) |
 | Soul Crystal | 47194 | [47194-soul-crystal.json](./47194-soul-crystal.json) |
@@ -14842,6 +14845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Cube Tower Defense | 169096 | [169096-space-cube-tower-defense.json](./169096-space-cube-tower-defense.json) |
 | Space Cycle | 318129 | [318129-space-cycle.json](./318129-space-cycle.json) |
 | Space Dance | 90818 | [90818-space-dance.json](./90818-space-dance.json) |
+| Space Dance Harmony | 149323 | [149323-space-dance-harmony.json](./149323-space-dance-harmony.json) |
 | Space Danger: G.O.N. | 185599 | [185599-space-danger-g-o-n.json](./185599-space-danger-g-o-n.json) |
 | Space Dash | 183303 | [183303-space-dash.json](./183303-space-dash.json) |
 | Space Dash | 373135 | [373135-space-dash.json](./373135-space-dash.json) |
@@ -15484,6 +15488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Trader | 9469 | [9469-space-trader.json](./9469-space-trader.json) |
 | Space Trader: Merchant Marine | 29191 | [29191-space-trader-merchant-marine.json](./29191-space-trader-merchant-marine.json) |
 | Space Trail Fireworks | 304858 | [304858-space-trail-fireworks.json](./304858-space-trail-fireworks.json) |
+| Space Trains | 149327 | [149327-space-trains.json](./149327-space-trains.json) |
 | Space Transfer | 109887 | [109887-space-transfer.json](./109887-space-transfer.json) |
 | Space Transport Tycoon | 152737 | [152737-space-transport-tycoon.json](./152737-space-transport-tycoon.json) |
 | Space Trash Scavenger | 211215 | [211215-space-trash-scavenger.json](./211215-space-trash-scavenger.json) |
@@ -27537,6 +27542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swordsman Online | 9738 | [9738-swordsman-online.json](./9738-swordsman-online.json) |
 | Swordsman VR | 149881 | [149881-swordsman-vr.json](./149881-swordsman-vr.json) |
 | SwordSpin: Arena of Blades | 290547 | [290547-swordspin-arena-of-blades.json](./290547-swordspin-arena-of-blades.json) |
+| Swordswallower | 149288 | [149288-swordswallower.json](./149288-swordswallower.json) |
 | Swordthrust | 22495 | [22495-swordthrust.json](./22495-swordthrust.json) |
 | Swordthrust 2: The Vampyre Caves | 24789 | [24789-swordthrust-2-the-vampyre-caves.json](./24789-swordthrust-2-the-vampyre-caves.json) |
 | Swordthrust 3: The Kidnappers Cove | 24791 | [24791-swordthrust-3-the-kidnappers-cove.json](./24791-swordthrust-3-the-kidnappers-cove.json) |
