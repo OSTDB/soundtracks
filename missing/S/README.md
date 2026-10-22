@@ -1448,6 +1448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Santa With Gun | 382878 | [382878-santa-with-gun.json](./382878-santa-with-gun.json) |
 | Santa World | 273431 | [273431-santa-world.json](./273431-santa-world.json) |
 | Santa-kun | 231762 | [231762-santa-kun.json](./231762-santa-kun.json) |
+| Santa: Make Christmas Happy! | 137861 | [137861-santa-make-christmas-happy.json](./137861-santa-make-christmas-happy.json) |
 | Santa's Adventure: Christmas Gifts Rush | 329430 | [329430-santas-adventure-christmas-gifts-rush.json](./329430-santas-adventure-christmas-gifts-rush.json) |
 | Santa's Bad Elf | 161716 | [161716-santas-bad-elf.json](./161716-santas-bad-elf.json) |
 | Santa's Big Adventures | 30075 | [30075-santas-big-adventures.json](./30075-santas-big-adventures.json) |
@@ -14101,6 +14102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sorcerian Additional Scenario Vol. 2: Sengoku Sorcerian | 137432 | [137432-sorcerian-additional-scenario-vol-2-sengoku-sorcerian.json](./137432-sorcerian-additional-scenario-vol-2-sengoku-sorcerian.json) |
 | Sorcerian Additional Scenario Vol. 3: Pyramid Sorcerian | 137360 | [137360-sorcerian-additional-scenario-vol-3-pyramid-sorcerian.json](./137360-sorcerian-additional-scenario-vol-3-pyramid-sorcerian.json) |
 | Sorcerian Online | 230853 | [230853-sorcerian-online.json](./230853-sorcerian-online.json) |
+| Sorcerian Utility Vol. 1 | 137880 | [137880-sorcerian-utility-vol-1.json](./137880-sorcerian-utility-vol-1.json) |
 | SorcerLand | 212267 | [212267-sorcerland.json](./212267-sorcerland.json) |
 | Sorcero | 308035 | [308035-sorcero.json](./308035-sorcero.json) |
 | Sorceror's Apprentice | 94188 | [94188-sorcerors-apprentice.json](./94188-sorcerors-apprentice.json) |
@@ -17277,6 +17279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpongeBob SolitairePants | 294177 | [294177-spongebob-solitairepants.json](./294177-spongebob-solitairepants.json) |
 | SpongeBob SquarePants | 220120 | [220120-spongebob-squarepants.json](./220120-spongebob-squarepants.json) |
 | SpongeBob SquarePants | 318737 | [318737-spongebob-squarepants.json](./318737-spongebob-squarepants.json) |
+| SpongeBob SquarePants + 5 Atari Games | 137853 | [137853-spongebob-squarepants-5-atari-games.json](./137853-spongebob-squarepants-5-atari-games.json) |
 | SpongeBob SquarePants 3D Obstacle Odyssey | 46728 | [46728-spongebob-squarepants-3d-obstacle-odyssey.json](./46728-spongebob-squarepants-3d-obstacle-odyssey.json) |
 | SpongeBob SquarePants and the Nicktoons Gravjet Racing | 208780 | [208780-spongebob-squarepants-and-the-nicktoons-gravjet-racing.json](./208780-spongebob-squarepants-and-the-nicktoons-gravjet-racing.json) |
 | SpongeBob SquarePants Boating School | 382924 | [382924-spongebob-squarepants-boating-school.json](./382924-spongebob-squarepants-boating-school.json) |
@@ -25205,6 +25208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Puyo Puyo | 42406 | [42406-super-puyo-puyo.json](./42406-super-puyo-puyo.json) |
 | Super Puyo Puyo Tsuu Remix | 42544 | [42544-super-puyo-puyo-tsuu-remix.json](./42544-super-puyo-puyo-tsuu-remix.json) |
 | Super Puzzle Blasters | 312689 | [312689-super-puzzle-blasters.json](./312689-super-puzzle-blasters.json) |
+| Super Puzzle Bobble | 138063 | [138063-super-puzzle-bobble.json](./138063-super-puzzle-bobble.json) |
 | Super Puzzle Cross | 236253 | [236253-super-puzzle-cross.json](./236253-super-puzzle-cross.json) |
 | Super Puzzle Fighter II Turbo | 20803 | [20803-super-puzzle-fighter-ii-turbo.json](./20803-super-puzzle-fighter-ii-turbo.json) |
 | Super Puzzle Fighter II Turbo HD Remix | 23072 | [23072-super-puzzle-fighter-ii-turbo-hd-remix.json](./23072-super-puzzle-fighter-ii-turbo-hd-remix.json) |
@@ -26182,6 +26186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SuperStar Pledis | 124619 | [124619-superstar-pledis.json](./124619-superstar-pledis.json) |
 | Superstar Shootout | 231631 | [231631-superstar-shootout.json](./231631-superstar-shootout.json) |
 | Superstar Streetz | 186318 | [186318-superstar-streetz.json](./186318-superstar-streetz.json) |
+| SuperStar Woollim | 137874 | [137874-superstar-woollim.json](./137874-superstar-woollim.json) |
 | Superstar YG | 178345 | [178345-superstar-yg.json](./178345-superstar-yg.json) |
 | Superstars V8: Next Challenge | 20499 | [20499-superstars-v8-next-challenge.json](./20499-superstars-v8-next-challenge.json) |
 | Superstein | 235865 | [235865-superstein.json](./235865-superstein.json) |
