@@ -3694,6 +3694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Relentless | 46736 | [46736-relentless.json](./46736-relentless.json) |
 | Relentless Expanse | 322762 | [322762-relentless-expanse.json](./322762-relentless-expanse.json) |
 | Relentless Rex | 110277 | [110277-relentless-rex.json](./110277-relentless-rex.json) |
+| Relentless: Ranger | 150397 | [150397-relentless-ranger.json](./150397-relentless-ranger.json) |
 | Releveler | 151830 | [151830-releveler.json](./151830-releveler.json) |
 | Relevo's Snowboarding | 311986 | [311986-relevos-snowboarding.json](./311986-relevos-snowboarding.json) |
 | Relgiros | 274492 | [274492-relgiros.json](./274492-relgiros.json) |
@@ -8306,6 +8307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Romeo vs. Juliet: All Series Pack | 59447 | [59447-romeo-vs-juliet-all-series-pack.json](./59447-romeo-vs-juliet-all-series-pack.json) |
 | Romeow & Julicat | 141109 | [141109-romeow-and-julicat.json](./141109-romeow-and-julicat.json) |
 | Romeow: Home Sweet Home | 390060 | [390060-romeow-home-sweet-home.json](./390060-romeow-home-sweet-home.json) |
+| Romeow: In the Cracked World | 150394 | [150394-romeow-in-the-cracked-world.json](./150394-romeow-in-the-cracked-world.json) |
 | Romero's Aftermath | 26714 | [26714-romeros-aftermath.json](./26714-romeros-aftermath.json) |
 | Romestead | 336150 | [336150-romestead.json](./336150-romestead.json) |
 | Romgadr | 259291 | [259291-romgadr.json](./259291-romgadr.json) |
