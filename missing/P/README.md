@@ -3283,6 +3283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pente Grammai | 384138 | [384138-pente-grammai.json](./384138-pente-grammai.json) |
 | Pente Grammai | 384140 | [384140-pente-grammai.json](./384140-pente-grammai.json) |
 | Penthos | 178070 | [178070-penthos.json](./178070-penthos.json) |
+| Penthouse Electric Jigsaw | 119301 | [119301-penthouse-electric-jigsaw.json](./119301-penthouse-electric-jigsaw.json) |
 | Penthouse Interactive: Virtual Photo Shoot Vol. 1 | 254498 | [254498-penthouse-interactive-virtual-photo-shoot-vol-1.json](./254498-penthouse-interactive-virtual-photo-shoot-vol-1.json) |
 | Pentimento | 391022 | [391022-pentimento.json](./391022-pentimento.json) |
 | Pentium | 92073 | [92073-pentium.json](./92073-pentium.json) |
@@ -12692,6 +12693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Z | 126431 | [126431-project-z.json](./126431-project-z.json) |
 | Project Zero | 236252 | [236252-project-zero.json](./236252-project-zero.json) |
 | Project Zero 2: Wii Edition | 14409 | [14409-project-zero-2-wii-edition.json](./14409-project-zero-2-wii-edition.json) |
+| Project Zero Deaths | 119375 | [119375-project-zero-deaths.json](./119375-project-zero-deaths.json) |
 | Project Zeta | 333777 | [333777-project-zeta.json](./333777-project-zeta.json) |
 | Project ZipZap | 341443 | [341443-project-zipzap.json](./341443-project-zipzap.json) |
 | Project Zircon | 416136 | [416136-project-zircon.json](./416136-project-zircon.json) |
