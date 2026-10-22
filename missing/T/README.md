@@ -1404,6 +1404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taming the Heart of a Beast | 228067 | [228067-taming-the-heart-of-a-beast.json](./228067-taming-the-heart-of-a-beast.json) |
 | Taming Yore Dragon | 384319 | [384319-taming-yore-dragon.json](./384319-taming-yore-dragon.json) |
 | Tamitos: Tale of Understanding | 399155 | [399155-tamitos-tale-of-understanding.json](./399155-tamitos-tale-of-understanding.json) |
+| Tammy Jo Superstar | 101999 | [101999-tammy-jo-superstar.json](./101999-tammy-jo-superstar.json) |
 | Tamori no Picross | 65767 | [65767-tamori-no-picross.json](./65767-tamori-no-picross.json) |
 | Tamori no Picross 4/23 | 345499 | [345499-tamori-no-picross-4-23.json](./345499-tamori-no-picross-4-23.json) |
 | Tamori no Picross 5/3 | 369029 | [369029-tamori-no-picross-5-3.json](./369029-tamori-no-picross-5-3.json) |
@@ -11740,6 +11741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Pit Is Hungry | 418320 | [418320-the-pit-is-hungry.json](./418320-the-pit-is-hungry.json) |
 | The Pit: Infinity - Healer | 168187 | [168187-the-pit-infinity-healer.json](./168187-the-pit-infinity-healer.json) |
 | The Pit: Infinity - Juggernaut | 168186 | [168186-the-pit-infinity-juggernaut.json](./168186-the-pit-infinity-juggernaut.json) |
+| The Pix | 101994 | [101994-the-pix.json](./101994-the-pix.json) |
 | The Pixel has You | 327198 | [327198-the-pixel-has-you.json](./327198-the-pixel-has-you.json) |
 | The Pixotron 49 | 352392 | [352392-the-pixotron-49.json](./352392-the-pixotron-49.json) |
 | The Pizza Courier | 215733 | [215733-the-pizza-courier.json](./215733-the-pizza-courier.json) |
@@ -13405,6 +13407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Spirits Within | 116229 | [116229-the-spirits-within.json](./116229-the-spirits-within.json) |
 | The Splatters | 21145 | [21145-the-splatters.json](./21145-the-splatters.json) |
 | The Split | 229015 | [229015-the-split.json](./229015-the-split.json) |
+| The Splitting: Chapter 1 | 102017 | [102017-the-splitting-chapter-1.json](./102017-the-splitting-chapter-1.json) |
 | The SpongeBob SquarePants Movie | 210725 | [210725-the-spongebob-squarepants-movie.json](./210725-the-spongebob-squarepants-movie.json) |
 | The SpongeBob SquarePants Movie | 248491 | [248491-the-spongebob-squarepants-movie.json](./248491-the-spongebob-squarepants-movie.json) |
 | The SpongeBob SquarePants Movie | 253744 | [253744-the-spongebob-squarepants-movie.json](./253744-the-spongebob-squarepants-movie.json) |
