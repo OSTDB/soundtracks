@@ -5238,6 +5238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lockdown VR: Kidnapped | 172375 | [172375-lockdown-vr-kidnapped.json](./172375-lockdown-vr-kidnapped.json) |
 | Lockdown: Stand Alone | 31774 | [31774-lockdown-stand-alone.json](./31774-lockdown-stand-alone.json) |
 | Locke(d) | 231365 | [231365-locke-d.json](./231365-locke-d.json) |
+| Locked | 133102 | [133102-locked.json](./133102-locked.json) |
 | Locked | 276219 | [276219-locked.json](./276219-locked.json) |
 | Locked & Loaded | 121591 | [121591-locked-and-loaded.json](./121591-locked-and-loaded.json) |
 | Locked Arcadia | 261824 | [261824-locked-arcadia.json](./261824-locked-arcadia.json) |
@@ -7829,6 +7830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lux Delux: Ancient Empires Lux | 163035 | [163035-lux-delux-ancient-empires-lux.json](./163035-lux-delux-ancient-empires-lux.json) |
 | Lux DLX 3 - Map Conquest Game | 96895 | [96895-lux-dlx-3-map-conquest-game.json](./96895-lux-dlx-3-map-conquest-game.json) |
 | Lux Ex: Cyber Initiation | 214190 | [214190-lux-ex-cyber-initiation.json](./214190-lux-ex-cyber-initiation.json) |
+| Lux Ex: Legacy | 133086 | [133086-lux-ex-legacy.json](./133086-lux-ex-legacy.json) |
 | Lux Intacta | 217286 | [217286-lux-intacta.json](./217286-lux-intacta.json) |
 | Lux Licentia | 383204 | [383204-lux-licentia.json](./383204-lux-licentia.json) |
 | Lux mina | 163036 | [163036-lux-mina.json](./163036-lux-mina.json) |
