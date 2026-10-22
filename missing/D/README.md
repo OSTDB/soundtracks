@@ -12606,7 +12606,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dredge: Digital Deluxe Edition | 240219 | [240219-dredge-digital-deluxe-edition.json](./240219-dredge-digital-deluxe-edition.json) |
 | Dredge: Expansion Bundle | 314887 | [314887-dredge-expansion-bundle.json](./314887-dredge-expansion-bundle.json) |
 | Dredge: The Iron Rig | 305098 | [305098-dredge-the-iron-rig.json](./305098-dredge-the-iron-rig.json) |
-| Dredge: The Pale Reach | 270502 | [270502-dredge-the-pale-reach.json](./270502-dredge-the-pale-reach.json) |
 | Dredge+ | 395816 | [395816-dredge.json](./395816-dredge.json) |
 | Dreeg | 326943 | [326943-dreeg.json](./326943-dreeg.json) |
 | Dreeg | 357747 | [357747-dreeg.json](./357747-dreeg.json) |
