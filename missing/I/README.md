@@ -1612,6 +1612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ikemen Prince: Beauty and Her Beast | 229032 | [229032-ikemen-prince-beauty-and-her-beast.json](./229032-ikemen-prince-beauty-and-her-beast.json) |
 | Ikemen Rensen: Taira no Kiyomori | 227422 | [227422-ikemen-rensen-taira-no-kiyomori.json](./227422-ikemen-rensen-taira-no-kiyomori.json) |
 | Ikemen Sengoku: Romances Across Time | 145953 | [145953-ikemen-sengoku-romances-across-time.json](./145953-ikemen-sengoku-romances-across-time.json) |
+| Ikemen Sengoku: Toki wo Kakeru Koi Aratanaru Deai | 131850 | [131850-ikemen-sengoku-toki-wo-kakeru-koi-aratanaru-deai.json](./131850-ikemen-sengoku-toki-wo-kakeru-koi-aratanaru-deai.json) |
 | Ikemen Vampire: Temptation in the Dark | 225536 | [225536-ikemen-vampire-temptation-in-the-dark.json](./225536-ikemen-vampire-temptation-in-the-dark.json) |
 | Ikemen Villains: Wrapped in Wicked Romance | 229033 | [229033-ikemen-villains-wrapped-in-wicked-romance.json](./229033-ikemen-villains-wrapped-in-wicked-romance.json) |
 | Ikenai Kanojo no Yarisugi na Uwaki Karada ga Motomeru Abunai Otona no Giri-giri na Rennai Game | 233949 | [233949-ikenai-kanojo-no-yarisugi-na-uwaki-karada-ga-motomeru-abunai-otona-no-giri-giri-na-rennai-game.json](./233949-ikenai-kanojo-no-yarisugi-na-uwaki-karada-ga-motomeru-abunai-otona-no-giri-giri-na-rennai-game.json) |
@@ -2953,6 +2954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Crosswords | 385317 | [385317-infinite-crosswords.json](./385317-infinite-crosswords.json) |
 | Infinite Cube Defense | 171317 | [171317-infinite-cube-defense.json](./171317-infinite-cube-defense.json) |
 | Infinite Dash | 173800 | [173800-infinite-dash.json](./173800-infinite-dash.json) |
+| Infinite Dronin | 131824 | [131824-infinite-dronin.json](./131824-infinite-dronin.json) |
 | Infinite Dunamis | 39013 | [39013-infinite-dunamis.json](./39013-infinite-dunamis.json) |
 | Infinite Dungeon | 386473 | [386473-infinite-dungeon.json](./386473-infinite-dungeon.json) |
 | Infinite Dungeon Crawler | 148827 | [148827-infinite-dungeon-crawler.json](./148827-infinite-dungeon-crawler.json) |
@@ -4953,6 +4955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isle of Rein | 207397 | [207397-isle-of-rein.json](./207397-isle-of-rein.json) |
 | Isle of Reveries | 311611 | [311611-isle-of-reveries.json](./311611-isle-of-reveries.json) |
 | Isle of Skye | 105479 | [105479-isle-of-skye.json](./105479-isle-of-skye.json) |
+| Isle of Spirits | 131857 | [131857-isle-of-spirits.json](./131857-isle-of-spirits.json) |
 | Isle of Swaps | 237304 | [237304-isle-of-swaps.json](./237304-isle-of-swaps.json) |
 | Isle of the Crown | 137362 | [137362-isle-of-the-crown.json](./137362-isle-of-the-crown.json) |
 | Isle of Tune Mobile | 101665 | [101665-isle-of-tune-mobile.json](./101665-isle-of-tune-mobile.json) |
