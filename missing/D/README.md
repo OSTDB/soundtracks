@@ -3680,6 +3680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deathkeep | 4270 | [4270-deathkeep.json](./4270-deathkeep.json) |
 | Deathlands | 74513 | [74513-deathlands.json](./74513-deathlands.json) |
 | Deathless | 140360 | [140360-deathless.json](./140360-deathless.json) |
+| Deathless Dungeon | 118064 | [118064-deathless-dungeon.json](./118064-deathless-dungeon.json) |
 | Deathless Hyperion | 145411 | [145411-deathless-hyperion.json](./145411-deathless-hyperion.json) |
 | Deathless: The City's Thirst | 34270 | [34270-deathless-the-citys-thirst.json](./34270-deathless-the-citys-thirst.json) |
 | Deathlike: Awakening | 30089 | [30089-deathlike-awakening.json](./30089-deathlike-awakening.json) |
@@ -10182,6 +10183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doom: Unto the Evil | 22431 | [22431-doom-unto-the-evil.json](./22431-doom-unto-the-evil.json) |
 | Doom3D | 196011 | [196011-doom3d.json](./196011-doom3d.json) |
 | DOOM4: Death Foretold | 139120 | [139120-doom4-death-foretold.json](./139120-doom4-death-foretold.json) |
+| DoomAI | 118017 | [118017-doomai.json](./118017-doomai.json) |
 | Doomblade | 114004 | [114004-doomblade.json](./114004-doomblade.json) |
 | Doombox | 308476 | [308476-doombox.json](./308476-doombox.json) |
 | Doombox | 372826 | [372826-doombox.json](./372826-doombox.json) |
@@ -12695,6 +12697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dresden Files Cooperative Card Game: Winter Schemes | 266503 | [266503-dresden-files-cooperative-card-game-winter-schemes.json](./266503-dresden-files-cooperative-card-game-winter-schemes.json) |
 | Dress | 94748 | [94748-dress.json](./94748-dress.json) |
 | Dress Me | 101049 | [101049-dress-me.json](./101049-dress-me.json) |
+| Dress out! | 118011 | [118011-dress-out.json](./118011-dress-out.json) |
 | Dress the Duel | 368822 | [368822-dress-the-duel.json](./368822-dress-the-duel.json) |
 | Dress to Play: Cute Witches! | 85100 | [85100-dress-to-play-cute-witches.json](./85100-dress-to-play-cute-witches.json) |
 | Dress to Play: Magic Bubbles! | 85099 | [85099-dress-to-play-magic-bubbles.json](./85099-dress-to-play-magic-bubbles.json) |
@@ -14574,6 +14577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duskfade | 310665 | [310665-duskfade.json](./310665-duskfade.json) |
 | Duskfall | 316260 | [316260-duskfall.json](./316260-duskfall.json) |
 | Dusklander | 401055 | [401055-dusklander.json](./401055-dusklander.json) |
+| Duskless: The Clockwork Army | 118057 | [118057-duskless-the-clockwork-army.json](./118057-duskless-the-clockwork-army.json) |
 | Dusklight | 401002 | [401002-dusklight.json](./401002-dusklight.json) |
 | Dusklight Manor | 255096 | [255096-dusklight-manor.json](./255096-dusklight-manor.json) |
 | Duskmarch | 348042 | [348042-duskmarch.json](./348042-duskmarch.json) |
