@@ -3163,6 +3163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghosts 'N Goblins: Gold Knights II | 63647 | [63647-ghosts-n-goblins-gold-knights-ii.json](./63647-ghosts-n-goblins-gold-knights-ii.json) |
 | Ghosts and Bureaucracy | 133064 | [133064-ghosts-and-bureaucracy.json](./133064-ghosts-and-bureaucracy.json) |
 | Ghosts I-IV for Quake | 131580 | [131580-ghosts-i-iv-for-quake.json](./131580-ghosts-i-iv-for-quake.json) |
+| Ghosts in the Toybox: Chapter 1 | 99479 | [99479-ghosts-in-the-toybox-chapter-1.json](./99479-ghosts-in-the-toybox-chapter-1.json) |
 | Ghosts of Aliens | 255617 | [255617-ghosts-of-aliens.json](./255617-ghosts-of-aliens.json) |
 | Ghosts of Miami | 51422 | [51422-ghosts-of-miami.json](./51422-ghosts-of-miami.json) |
 | Ghosts of Tabor | 204034 | [204034-ghosts-of-tabor.json](./204034-ghosts-of-tabor.json) |
@@ -3838,6 +3839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glitch World | 311251 | [311251-glitch-world.json](./311251-glitch-world.json) |
 | Glitch: Dead Loop Horror | 349809 | [349809-glitch-dead-loop-horror.json](./349809-glitch-dead-loop-horror.json) |
 | Glitch's Trip | 75083 | [75083-glitchs-trip.json](./75083-glitchs-trip.json) |
+| Glitchball | 99450 | [99450-glitchball.json](./99450-glitchball.json) |
 | Glitchbuster | 44221 | [44221-glitchbuster.json](./44221-glitchbuster.json) |
 | Glitched | 57361 | [57361-glitched.json](./57361-glitched.json) |
 | Glitched Lightning | 267463 | [267463-glitched-lightning.json](./267463-glitched-lightning.json) |
