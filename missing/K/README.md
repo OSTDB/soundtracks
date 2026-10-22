@@ -4620,6 +4620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kuma Story | 170046 | [170046-kuma-story.json](./170046-kuma-story.json) |
 | Kuma Sushi Bar | 200745 | [200745-kuma-sushi-bar.json](./200745-kuma-sushi-bar.json) |
 | Kuma\War | 23563 | [23563-kuma-war.json](./23563-kuma-war.json) |
+| Kumacure | 118609 | [118609-kumacure.json](./118609-kumacure.json) |
 | Kumamaru Adventure | 297638 | [297638-kumamaru-adventure.json](./297638-kumamaru-adventure.json) |
 | Kumamon Bomber Puzzle de Kumamon Taisou | 222441 | [222441-kumamon-bomber-puzzle-de-kumamon-taisou.json](./222441-kumamon-bomber-puzzle-de-kumamon-taisou.json) |
 | Kumamon Run | 283275 | [283275-kumamon-run.json](./283275-kumamon-run.json) |
