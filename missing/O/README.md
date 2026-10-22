@@ -322,6 +322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ocean Legend | 100792 | [100792-ocean-legend.json](./100792-ocean-legend.json) |
 | Ocean Life: Aquarium Simulator | 309648 | [309648-ocean-life-aquarium-simulator.json](./309648-ocean-life-aquarium-simulator.json) |
 | Ocean Mirror | 280676 | [280676-ocean-mirror.json](./280676-ocean-mirror.json) |
+| Ocean Nomad | 106919 | [106919-ocean-nomad.json](./106919-ocean-nomad.json) |
 | Ocean Oddities | 402931 | [402931-ocean-oddities.json](./402931-ocean-oddities.json) |
 | Ocean of Battles | 124246 | [124246-ocean-of-battles.json](./124246-ocean-of-battles.json) |
 | Ocean of Eyes | 328957 | [328957-ocean-of-eyes.json](./328957-ocean-of-eyes.json) |
