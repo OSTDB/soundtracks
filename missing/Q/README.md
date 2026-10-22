@@ -599,6 +599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Queen of Phobos | 65034 | [65034-queen-of-phobos.json](./65034-queen-of-phobos.json) |
 | Queen of Seas | 29855 | [29855-queen-of-seas.json](./29855-queen-of-seas.json) |
 | Queen of Seas 2 | 102347 | [102347-queen-of-seas-2.json](./102347-queen-of-seas-2.json) |
+| Queen of Spades | 103813 | [103813-queen-of-spades.json](./103813-queen-of-spades.json) |
 | Queen of Succubus | 82751 | [82751-queen-of-succubus.json](./82751-queen-of-succubus.json) |
 | Queen of Tactics | 272259 | [272259-queen-of-tactics.json](./272259-queen-of-tactics.json) |
 | Queen of Tenshindo 95 | 94657 | [94657-queen-of-tenshindo-95.json](./94657-queen-of-tenshindo-95.json) |
