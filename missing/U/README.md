@@ -2743,6 +2743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | US Conflict: Tank Battles | 410368 | [410368-us-conflict-tank-battles.json](./410368-us-conflict-tank-battles.json) |
 | US History: Western Settlement to Modern Day | 70303 | [70303-us-history-western-settlement-to-modern-day.json](./70303-us-history-western-settlement-to-modern-day.json) |
 | US Long Trucks : Road Simulator | 46495 | [46495-us-long-trucks-road-simulator.json](./46495-us-long-trucks-road-simulator.json) |
+| Us Lovely Corpses | 123279 | [123279-us-lovely-corpses.json](./123279-us-lovely-corpses.json) |
 | US Police ATV Quad Bike Plane Transport Game | 100964 | [100964-us-police-atv-quad-bike-plane-transport-game.json](./100964-us-police-atv-quad-bike-plane-transport-game.json) |
 | US Presidents Quiz Tutor | 90841 | [90841-us-presidents-quiz-tutor.json](./90841-us-presidents-quiz-tutor.json) |
 | US School Simulator Game | 296766 | [296766-us-school-simulator-game.json](./296766-us-school-simulator-game.json) |
