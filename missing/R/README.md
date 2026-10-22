@@ -2113,6 +2113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reach | 347893 | [347893-reach.json](./347893-reach.json) |
 | Reach Charon | 269561 | [269561-reach-charon.json](./269561-reach-charon.json) |
 | Reach for the Skies | 12740 | [12740-reach-for-the-skies.json](./12740-reach-for-the-skies.json) |
+| Reach for the Sky | 133671 | [133671-reach-for-the-sky.json](./133671-reach-for-the-sky.json) |
 | Reach for the Stars | 324585 | [324585-reach-for-the-stars.json](./324585-reach-for-the-stars.json) |
 | Reach of the River | 419927 | [419927-reach-of-the-river.json](./419927-reach-of-the-river.json) |
 | Reach the Beat | 297900 | [297900-reach-the-beat.json](./297900-reach-the-beat.json) |
@@ -5627,6 +5628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ride or Die: A Bad Boy Romance - Book 1 | 313719 | [313719-ride-or-die-a-bad-boy-romance-book-1.json](./313719-ride-or-die-a-bad-boy-romance-book-1.json) |
 | Ride or Die! | 250997 | [250997-ride-or-die.json](./250997-ride-or-die.json) |
 | Ride Out Heroes | 124515 | [124515-ride-out-heroes.json](./124515-ride-out-heroes.json) |
+| Ride Sims 2 | 133649 | [133649-ride-sims-2.json](./133649-ride-sims-2.json) |
 | Ride the Bullet | 35570 | [35570-ride-the-bullet.json](./35570-ride-the-bullet.json) |
 | Ride the Comix | 137007 | [137007-ride-the-comix.json](./137007-ride-the-comix.json) |
 | Ride the Tuft | 70036 | [70036-ride-the-tuft.json](./70036-ride-the-tuft.json) |
@@ -9274,6 +9276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rugby World Cup 2015 | 20861 | [20861-rugby-world-cup-2015.json](./20861-rugby-world-cup-2015.json) |
 | Rugby World Cup 95 | 50809 | [50809-rugby-world-cup-95.json](./50809-rugby-world-cup-95.json) |
 | Rugby: The World Cup | 12926 | [12926-rugby-the-world-cup.json](./12926-rugby-the-world-cup.json) |
+| Ruger Rumble | 133643 | [133643-ruger-rumble.json](./133643-ruger-rumble.json) |
 | Rugged Rovers | 380548 | [380548-rugged-rovers.json](./380548-rugged-rovers.json) |
 | Rugida | 169384 | [169384-rugida.json](./169384-rugida.json) |
 | Rugon | 108991 | [108991-rugon.json](./108991-rugon.json) |
@@ -9832,6 +9835,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RunZ | 55296 | [55296-runz.json](./55296-runz.json) |
 | RuPaul's Drag Race Match Queen | 339640 | [339640-rupauls-drag-race-match-queen.json](./339640-rupauls-drag-race-match-queen.json) |
 | RuPaul's Drag Race Superstar | 247091 | [247091-rupauls-drag-race-superstar.json](./247091-rupauls-drag-race-superstar.json) |
+| RuPaul's Drag Race: Dragopolis | 133684 | [133684-rupauls-drag-race-dragopolis.json](./133684-rupauls-drag-race-dragopolis.json) |
+| RuPaul's Drag Race: Dragopolis 2.0 | 133685 | [133685-rupauls-drag-race-dragopolis-2-0.json](./133685-rupauls-drag-race-dragopolis-2-0.json) |
 | Rupert and Riley: Shipwrecked | 58482 | [58482-rupert-and-riley-shipwrecked.json](./58482-rupert-and-riley-shipwrecked.json) |
 | Rupert Reset | 178890 | [178890-rupert-reset.json](./178890-rupert-reset.json) |
 | Rupture | 261821 | [261821-rupture.json](./261821-rupture.json) |
