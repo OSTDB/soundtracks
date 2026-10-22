@@ -1229,6 +1229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sandbox | 368087 | [368087-sandbox.json](./368087-sandbox.json) |
 | Sandbox Planet | 256534 | [256534-sandbox-planet.json](./256534-sandbox-planet.json) |
 | Sandbox Play | 184364 | [184364-sandbox-play.json](./184364-sandbox-play.json) |
+| Sandbox Showdown | 101285 | [101285-sandbox-showdown.json](./101285-sandbox-showdown.json) |
 | Sandbox Skyline | 244129 | [244129-sandbox-skyline.json](./244129-sandbox-skyline.json) |
 | Sandbox Survivors | 415842 | [415842-sandbox-survivors.json](./415842-sandbox-survivors.json) |
 | Sandbox World | 265552 | [265552-sandbox-world.json](./265552-sandbox-world.json) |
@@ -10278,6 +10279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slayer Cat | 147362 | [147362-slayer-cat.json](./147362-slayer-cat.json) |
 | Slayer Knight | 297354 | [297354-slayer-knight.json](./297354-slayer-knight.json) |
 | Slayer Legend | 226766 | [226766-slayer-legend.json](./226766-slayer-legend.json) |
+| Slayer of Traitors | 101273 | [101273-slayer-of-traitors.json](./101273-slayer-of-traitors.json) |
 | Slayer Shock | 24646 | [24646-slayer-shock.json](./24646-slayer-shock.json) |
 | Slayer: The Demon Haunted World | 212150 | [212150-slayer-the-demon-haunted-world.json](./212150-slayer-the-demon-haunted-world.json) |
 | Slayers | 146653 | [146653-slayers.json](./146653-slayers.json) |
@@ -11264,6 +11266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smile Town | 397229 | [397229-smile-town.json](./397229-smile-town.json) |
 | Smile-X 4 | 301125 | [301125-smile-x-4.json](./301125-smile-x-4.json) |
 | Smile, you're being filmed together | 330750 | [330750-smile-youre-being-filmed-together.json](./330750-smile-youre-being-filmed-together.json) |
+| Smile'N'Slide | 101392 | [101392-smilenslide.json](./101392-smilenslide.json) |
 | SmileBasic 4 | 147701 | [147701-smilebasic-4.json](./147701-smilebasic-4.json) |
 | Smilemo | 201096 | [201096-smilemo.json](./201096-smilemo.json) |
 | Smiles Incorporated | 176285 | [176285-smiles-incorporated.json](./176285-smiles-incorporated.json) |
@@ -14906,6 +14909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Architect | 149848 | [149848-space-architect.json](./149848-space-architect.json) |
 | Space Arena | 101030 | [101030-space-arena.json](./101030-space-arena.json) |
 | Space Armor | 6137 | [6137-space-armor.json](./6137-space-armor.json) |
+| Space Armor 2 | 101300 | [101300-space-armor-2.json](./101300-space-armor-2.json) |
 | Space Ashes | 109899 | [109899-space-ashes.json](./109899-space-ashes.json) |
 | Space Assault | 42134 | [42134-space-assault.json](./42134-space-assault.json) |
 | Space Assistance | 207573 | [207573-space-assistance.json](./207573-space-assistance.json) |
@@ -15454,6 +15458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Oddity | 384924 | [384924-space-oddity.json](./384924-space-oddity.json) |
 | Space Oddity 2 | 392732 | [392732-space-oddity-2.json](./392732-space-oddity-2.json) |
 | Space Odyssey | 24829 | [24829-space-odyssey.json](./24829-space-odyssey.json) |
+| Space of One Drama | 101304 | [101304-space-of-one-drama.json](./101304-space-of-one-drama.json) |
 | Space on the Case | 310961 | [310961-space-on-the-case.json](./310961-space-on-the-case.json) |
 | Space One: Ascendant | 167226 | [167226-space-one-ascendant.json](./167226-space-one-ascendant.json) |
 | Space Operation | 273661 | [273661-space-operation.json](./273661-space-operation.json) |
@@ -18993,6 +18998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Tap | 54540 | [54540-star-tap.json](./54540-star-tap.json) |
 | Star Thief | 110928 | [110928-star-thief.json](./110928-star-thief.json) |
 | Star Thunder | 114703 | [114703-star-thunder.json](./114703-star-thunder.json) |
+| Star Tower | 101267 | [101267-star-tower.json](./101267-star-tower.json) |
 | Star Tower | 373537 | [373537-star-tower.json](./373537-star-tower.json) |
 | Star Tracer | 357305 | [357305-star-tracer.json](./357305-star-tracer.json) |
 | Star Trader | 212135 | [212135-star-trader.json](./212135-star-trader.json) |
@@ -27840,6 +27846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swordash | 259564 | [259564-swordash.json](./259564-swordash.json) |
 | Swordbird Song: The Iron Owl Tower | 254364 | [254364-swordbird-song-the-iron-owl-tower.json](./254364-swordbird-song-the-iron-owl-tower.json) |
 | SwordBorn | 356051 | [356051-swordborn.json](./356051-swordborn.json) |
+| SwordBounce | 101294 | [101294-swordbounce.json](./101294-swordbounce.json) |
 | Swordbreaker the Game | 34192 | [34192-swordbreaker-the-game.json](./34192-swordbreaker-the-game.json) |
 | Swordbreaker: Back to the Castle | 113751 | [113751-swordbreaker-back-to-the-castle.json](./113751-swordbreaker-back-to-the-castle.json) |
 | Swordbreaker: The Game - Deluxe Edition | 53698 | [53698-swordbreaker-the-game-deluxe-edition.json](./53698-swordbreaker-the-game-deluxe-edition.json) |
