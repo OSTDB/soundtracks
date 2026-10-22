@@ -7759,6 +7759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lurk | 89821 | [89821-lurk.json](./89821-lurk.json) |
 | Lurk and Rouse | 217316 | [217316-lurk-and-rouse.json](./217316-lurk-and-rouse.json) |
 | Lurk in Abyss | 390141 | [390141-lurk-in-abyss.json](./390141-lurk-in-abyss.json) |
+| Lurk in the Dark | 125086 | [125086-lurk-in-the-dark.json](./125086-lurk-in-the-dark.json) |
 | Lurker Legends | 162425 | [162425-lurker-legends.json](./162425-lurker-legends.json) |
 | Lurkers | 139706 | [139706-lurkers.json](./139706-lurkers.json) |
 | Lurking | 176866 | [176866-lurking.json](./176866-lurking.json) |
