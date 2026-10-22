@@ -4484,6 +4484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winding Worlds | 117009 | [117009-winding-worlds.json](./117009-winding-worlds.json) |
 | Windjammers | 11222 | [11222-windjammers.json](./11222-windjammers.json) |
 | Windlands | 15932 | [15932-windlands.json](./15932-windlands.json) |
+| Windmill Kings | 125028 | [125028-windmill-kings.json](./125028-windmill-kings.json) |
 | Windosill | 15002 | [15002-windosill.json](./15002-windosill.json) |
 | Windosill: Steam Deck Edition | 240095 | [240095-windosill-steam-deck-edition.json](./240095-windosill-steam-deck-edition.json) |
 | Window Aquarista | 373679 | [373679-window-aquarista.json](./373679-window-aquarista.json) |
@@ -4760,6 +4761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winter Sports 2010: The Great Tournament | 21089 | [21089-winter-sports-2010-the-great-tournament.json](./21089-winter-sports-2010-the-great-tournament.json) |
 | Winter Sports 2011: Go for Gold | 27645 | [27645-winter-sports-2011-go-for-gold.json](./27645-winter-sports-2011-go-for-gold.json) |
 | Winter Sports 2012: Feel the Spirit | 52136 | [52136-winter-sports-2012-feel-the-spirit.json](./52136-winter-sports-2012-feel-the-spirit.json) |
+| Winter Sports Games | 125029 | [125029-winter-sports-games.json](./125029-winter-sports-games.json) |
 | Winter Sports Games: 4K Edition | 192326 | [192326-winter-sports-games-4k-edition.json](./192326-winter-sports-games-4k-edition.json) |
 | Winter Sports: The Ultimate Challenge | 5284 | [5284-winter-sports-the-ultimate-challenge.json](./5284-winter-sports-the-ultimate-challenge.json) |
 | Winter Spring | 82187 | [82187-winter-spring.json](./82187-winter-spring.json) |
