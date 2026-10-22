@@ -3636,6 +3636,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eradicate | 183769 | [183769-eradicate.json](./183769-eradicate.json) |
 | Eradicator | 8340 | [8340-eradicator.json](./8340-eradicator.json) |
 | Eradicator Genesis | 384187 | [384187-eradicator-genesis.json](./384187-eradicator-genesis.json) |
+| Eramthgin | 144155 | [144155-eramthgin.json](./144155-eramthgin.json) |
+| Eramthgin 2 | 144156 | [144156-eramthgin-2.json](./144156-eramthgin-2.json) |
 | Erannorth Chronicles | 164287 | [164287-erannorth-chronicles.json](./164287-erannorth-chronicles.json) |
 | Erannorth Chronicles: Ancient Ruins | 192263 | [192263-erannorth-chronicles-ancient-ruins.json](./192263-erannorth-chronicles-ancient-ruins.json) |
 | Erannorth Chronicles: Guilds and Secret Societies | 226806 | [226806-erannorth-chronicles-guilds-and-secret-societies.json](./226806-erannorth-chronicles-guilds-and-secret-societies.json) |
