@@ -1854,6 +1854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Faraway 4: Ancient Escape | 115052 | [115052-faraway-4-ancient-escape.json](./115052-faraway-4-ancient-escape.json) |
 | Faraway 5: Tropic Escape | 132015 | [132015-faraway-5-tropic-escape.json](./132015-faraway-5-tropic-escape.json) |
 | Faraway 6: Galactic Escape | 140391 | [140391-faraway-6-galactic-escape.json](./140391-faraway-6-galactic-escape.json) |
+| Faraway Fairway | 151989 | [151989-faraway-fairway.json](./151989-faraway-fairway.json) |
 | Faraway Feathers | 388759 | [388759-faraway-feathers.json](./388759-faraway-feathers.json) |
 | Faraway Islands | 29885 | [29885-faraway-islands.json](./29885-faraway-islands.json) |
 | Faraway Proximity | 215566 | [215566-faraway-proximity.json](./215566-faraway-proximity.json) |
@@ -7970,6 +7971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortnite: Chapter 2 - Season 2 | 129912 | [129912-fortnite-chapter-2-season-2.json](./129912-fortnite-chapter-2-season-2.json) |
 | Fortnite: Chapter 2 - Season 3 | 135138 | [135138-fortnite-chapter-2-season-3.json](./135138-fortnite-chapter-2-season-3.json) |
 | Fortnite: Chapter 2 - Season 5 | 140974 | [140974-fortnite-chapter-2-season-5.json](./140974-fortnite-chapter-2-season-5.json) |
+| Fortnite: Chapter 2 - Season 7 | 151996 | [151996-fortnite-chapter-2-season-7.json](./151996-fortnite-chapter-2-season-7.json) |
 | Fortnite: Chapter 2 - Season 8 | 171971 | [171971-fortnite-chapter-2-season-8.json](./171971-fortnite-chapter-2-season-8.json) |
 | Fortnite: Chapter 2 Remix | 321386 | [321386-fortnite-chapter-2-remix.json](./321386-fortnite-chapter-2-remix.json) |
 | Fortnite: Chapter 3 - Season 2: Resistance | 194664 | [194664-fortnite-chapter-3-season-2-resistance.json](./194664-fortnite-chapter-3-season-2-resistance.json) |
@@ -8108,6 +8110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortune's Tavern: The Fantasy Tavern Simulator | 53062 | [53062-fortunes-tavern-the-fantasy-tavern-simulator.json](./53062-fortunes-tavern-the-fantasy-tavern-simulator.json) |
 | Fortune's Tavern: The Fantasy Tavern Simulator - Guns and Goblins | 170812 | [170812-fortunes-tavern-the-fantasy-tavern-simulator-guns-and-goblins.json](./170812-fortunes-tavern-the-fantasy-tavern-simulator-guns-and-goblins.json) |
 | Fortune's Tavern: The Fantasy Tavern Simulator - Miniature Gods | 170311 | [170311-fortunes-tavern-the-fantasy-tavern-simulator-miniature-gods.json](./170311-fortunes-tavern-the-fantasy-tavern-simulator-miniature-gods.json) |
+| Forty Niner | 152092 | [152092-forty-niner.json](./152092-forty-niner.json) |
 | Forty Thieves Solitaire Collection | 166679 | [166679-forty-thieves-solitaire-collection.json](./166679-forty-thieves-solitaire-collection.json) |
 | Forty-Niner | 295172 | [295172-forty-niner.json](./295172-forty-niner.json) |
 | Forum Mortuorum | 250807 | [250807-forum-mortuorum.json](./250807-forum-mortuorum.json) |
