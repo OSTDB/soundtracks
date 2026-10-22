@@ -8403,6 +8403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SimIsle: Missions in the Rainforest | 12907 | [12907-simisle-missions-in-the-rainforest.json](./12907-simisle-missions-in-the-rainforest.json) |
 | Simkea | 368231 | [368231-simkea.json](./368231-simkea.json) |
 | SimLife | 12768 | [12768-simlife.json](./12768-simlife.json) |
+| SimMayor | 138454 | [138454-simmayor.json](./138454-simmayor.json) |
 | Simnetzero | 234751 | [234751-simnetzero.json](./234751-simnetzero.json) |
 | Simogo Legacy Collection | 375500 | [375500-simogo-legacy-collection.json](./375500-simogo-legacy-collection.json) |
 | Simon | 324847 | [324847-simon.json](./324847-simon.json) |
@@ -11447,6 +11448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snake Quest | 261517 | [261517-snake-quest.json](./261517-snake-quest.json) |
 | Snake Rampage - Snake Simulator | 108619 | [108619-snake-rampage-snake-simulator.json](./108619-snake-rampage-snake-simulator.json) |
 | Snake Real World | 133874 | [133874-snake-real-world.json](./133874-snake-real-world.json) |
+| Snake Rivals | 138453 | [138453-snake-rivals.json](./138453-snake-rivals.json) |
 | Snake Roy | 210642 | [210642-snake-roy.json](./210642-snake-roy.json) |
 | Snake Snafu | 180479 | [180479-snake-snafu.json](./180479-snake-snafu.json) |
 | Snake VR | 78551 | [78551-snake-vr.json](./78551-snake-vr.json) |
@@ -16052,6 +16054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Species: Unknown | 302968 | [302968-species-unknown.json](./302968-species-unknown.json) |
 | Specimen #08 | 262963 | [262963-specimen-08.json](./262963-specimen-08.json) |
 | Specimen #14 | 263006 | [263006-specimen-14.json](./263006-specimen-14.json) |
+| Specimen 13 | 138450 | [138450-specimen-13.json](./138450-specimen-13.json) |
 | Specimen 134 | 346800 | [346800-specimen-134.json](./346800-specimen-134.json) |
 | Specimen 15 | 263009 | [263009-specimen-15.json](./263009-specimen-15.json) |
 | Specimen 42 | 133829 | [133829-specimen-42.json](./133829-specimen-42.json) |
@@ -20861,6 +20864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stillwater | 398402 | [398402-stillwater.json](./398402-stillwater.json) |
 | Stillwater Remastered | 280424 | [280424-stillwater-remastered.json](./280424-stillwater-remastered.json) |
 | Stillwell | 390600 | [390600-stillwell.json](./390600-stillwell.json) |
+| Stilstand | 138634 | [138634-stilstand.json](./138634-stilstand.json) |
 | Stilt Fella | 108781 | [108781-stilt-fella.json](./108781-stilt-fella.json) |
 | Stimmings | 264614 | [264614-stimmings.json](./264614-stimmings.json) |
 | Stimulants | 262268 | [262268-stimulants.json](./262268-stimulants.json) |
@@ -22873,6 +22877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sugar Shack | 236767 | [236767-sugar-shack.json](./236767-sugar-shack.json) |
 | Sugar Siege | 338270 | [338270-sugar-siege.json](./338270-sugar-siege.json) |
 | Sugar Sling Showdown | 341685 | [341685-sugar-sling-showdown.json](./341685-sugar-sling-showdown.json) |
+| Sugar Smash: Book of Life | 138447 | [138447-sugar-smash-book-of-life.json](./138447-sugar-smash-book-of-life.json) |
 | Sugar Story | 190091 | [190091-sugar-story.json](./190091-sugar-story.json) |
 | Sugar Style | 141795 | [141795-sugar-style.json](./141795-sugar-style.json) |
 | Sugar Style | 148419 | [148419-sugar-style.json](./148419-sugar-style.json) |
@@ -23342,6 +23347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunday League Manager: Horse & Spoon | 361731 | [361731-sunday-league-manager-horse-and-spoon.json](./361731-sunday-league-manager-horse-and-spoon.json) |
 | Sunday Morning | 312146 | [312146-sunday-morning.json](./312146-sunday-morning.json) |
 | Sunday Night Suicide | 228923 | [228923-sunday-night-suicide.json](./228923-sunday-night-suicide.json) |
+| Sunday Rivals | 138644 | [138644-sunday-rivals.json](./138644-sunday-rivals.json) |
 | Sunday School | 376052 | [376052-sunday-school.json](./376052-sunday-school.json) |
 | Sunday Sundae | 186642 | [186642-sunday-sundae.json](./186642-sunday-sundae.json) |
 | Sunday vs. Magazine: Shuuketsu! Choujou Daikessen | 42841 | [42841-sunday-vs-magazine-shuuketsu-choujou-daikessen.json](./42841-sunday-vs-magazine-shuuketsu-choujou-daikessen.json) |
