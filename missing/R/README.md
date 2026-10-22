@@ -6019,6 +6019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riptide | 291236 | [291236-riptide.json](./291236-riptide.json) |
 | Riptide GP2 | 16735 | [16735-riptide-gp2.json](./16735-riptide-gp2.json) |
 | Riptoff | 142367 | [142367-riptoff.json](./142367-riptoff.json) |
+| Ripukisu | 136692 | [136692-ripukisu.json](./136692-ripukisu.json) |
 | Riri: Origin of Surabaya | 293341 | [293341-riri-origin-of-surabaya.json](./293341-riri-origin-of-surabaya.json) |
 | Ririka von Lustveil | 398912 | [398912-ririka-von-lustveil.json](./398912-ririka-von-lustveil.json) |
 | Riruka ha Ikue ni Yoru wo Irodoru | 375368 | [375368-riruka-ha-ikue-ni-yoru-wo-irodoru.json](./375368-riruka-ha-ikue-ni-yoru-wo-irodoru.json) |
@@ -7089,6 +7090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robotics;Notes Double Pack | 132650 | [132650-robotics-notes-double-pack.json](./132650-robotics-notes-double-pack.json) |
 | Robotics! | 362170 | [362170-robotics.json](./362170-robotics.json) |
 | Robotization: A Last Human | 225223 | [225223-robotization-a-last-human.json](./225223-robotization-a-last-human.json) |
+| Robotnik's Revenge | 136918 | [136918-robotniks-revenge.json](./136918-robotniks-revenge.json) |
 | Roboto | 232573 | [232573-roboto.json](./232573-roboto.json) |
 | Roboto | 384788 | [384788-roboto.json](./384788-roboto.json) |
 | Robotory | 59304 | [59304-robotory.json](./59304-robotory.json) |
@@ -8279,6 +8281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Romance of the Three Kingdoms XIII EP: Scenario for War Chronicles Mode - 2nd Wave: Clash of the Warmongers | 164487 | [164487-romance-of-the-three-kingdoms-xiii-ep-scenario-for-war-chronicles-mode-2nd-wave-clash-of-the-warmongers.json](./164487-romance-of-the-three-kingdoms-xiii-ep-scenario-for-war-chronicles-mode-2nd-wave-clash-of-the-warmongers.json) |
 | Romance of the Three Kingdoms XIII EP: Scenario for War Chronicles Mode - 3rd Wave: The Battle for Hebei | 164488 | [164488-romance-of-the-three-kingdoms-xiii-ep-scenario-for-war-chronicles-mode-3rd-wave-the-battle-for-hebei.json](./164488-romance-of-the-three-kingdoms-xiii-ep-scenario-for-war-chronicles-mode-3rd-wave-the-battle-for-hebei.json) |
 | Romance of the Three Kingdoms XIII EP: Scenario for War Chronicles Mode - 4th Wave: The Battle for Wu | 164496 | [164496-romance-of-the-three-kingdoms-xiii-ep-scenario-for-war-chronicles-mode-4th-wave-the-battle-for-wu.json](./164496-romance-of-the-three-kingdoms-xiii-ep-scenario-for-war-chronicles-mode-4th-wave-the-battle-for-wu.json) |
+| Romance of the Three Kingdoms XIII with Power-Up Kit | 136703 | [136703-romance-of-the-three-kingdoms-xiii-with-power-up-kit.json](./136703-romance-of-the-three-kingdoms-xiii-with-power-up-kit.json) |
 | Romance of the Three Kingdoms XIII: Ancient Officers Officer Data Set | 164503 | [164503-romance-of-the-three-kingdoms-xiii-ancient-officers-officer-data-set.json](./164503-romance-of-the-three-kingdoms-xiii-ancient-officers-officer-data-set.json) |
 | Romance of the Three Kingdoms XIII: Hero Mode Additional Stage Set 3 | 225915 | [225915-romance-of-the-three-kingdoms-xiii-hero-mode-additional-stage-set-3.json](./225915-romance-of-the-three-kingdoms-xiii-hero-mode-additional-stage-set-3.json) |
 | Romance of the Three Kingdoms XIII: Scenario - A Yellow Sky | 164492 | [164492-romance-of-the-three-kingdoms-xiii-scenario-a-yellow-sky.json](./164492-romance-of-the-three-kingdoms-xiii-scenario-a-yellow-sky.json) |
