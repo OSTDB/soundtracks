@@ -3658,6 +3658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gladiator | 401715 | [401715-gladiator.json](./401715-gladiator.json) |
 | Gladiator | 401718 | [401718-gladiator.json](./401718-gladiator.json) |
 | Gladiator 3D | 403536 | [403536-gladiator-3d.json](./403536-gladiator-3d.json) |
+| Gladiator Bastards | 114698 | [114698-gladiator-bastards.json](./114698-gladiator-bastards.json) |
 | Gladiator Fights | 343401 | [343401-gladiator-fights.json](./343401-gladiator-fights.json) |
 | Gladiator Manager | 278095 | [278095-gladiator-manager.json](./278095-gladiator-manager.json) |
 | Gladiator of sparta | 173275 | [173275-gladiator-of-sparta.json](./173275-gladiator-of-sparta.json) |
@@ -6520,6 +6521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Graviter | 417310 | [417310-graviter.json](./417310-graviter.json) |
 | Gravitia | 285909 | [285909-gravitia.json](./285909-gravitia.json) |
 | Gravito | 184265 | [184265-gravito.json](./184265-gravito.json) |
+| Gravitoid | 114696 | [114696-gravitoid.json](./114696-gravitoid.json) |
 | Graviton | 122382 | [122382-graviton.json](./122382-graviton.json) |
 | Graviton | 183771 | [183771-graviton.json](./183771-graviton.json) |
 | Graviton Flux | 371957 | [371957-graviton-flux.json](./371957-graviton-flux.json) |
@@ -7075,6 +7077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | gridCrack | 89250 | [89250-gridcrack.json](./89250-gridcrack.json) |
 | Gridd: Retroenhanced | 30583 | [30583-gridd-retroenhanced.json](./30583-gridd-retroenhanced.json) |
 | Griddle | 373739 | [373739-griddle.json](./373739-griddle.json) |
+| Griddle Speed Puzzle | 114683 | [114683-griddle-speed-puzzle.json](./114683-griddle-speed-puzzle.json) |
 | Griddler | 242208 | [242208-griddler.json](./242208-griddler.json) |
 | Griddlers Plus | 227824 | [227824-griddlers-plus.json](./227824-griddlers-plus.json) |
 | Griddlers Victorian Picnic | 94878 | [94878-griddlers-victorian-picnic.json](./94878-griddlers-victorian-picnic.json) |
