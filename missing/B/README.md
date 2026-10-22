@@ -4241,6 +4241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beatless | 174641 | [174641-beatless.json](./174641-beatless.json) |
 | BeatLine | 260773 | [260773-beatline.json](./260773-beatline.json) |
 | Beatlow | 399427 | [399427-beatlow.json](./399427-beatlow.json) |
+| Beatmania | 135552 | [135552-beatmania.json](./135552-beatmania.json) |
 | Beatmania | 20498 | [20498-beatmania.json](./20498-beatmania.json) |
 | Beatmania | 218906 | [218906-beatmania.json](./218906-beatmania.json) |
 | Beatmania | 379146 | [379146-beatmania.json](./379146-beatmania.json) |
@@ -12444,6 +12445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bruise Mining Company | 272131 | [272131-bruise-mining-company.json](./272131-bruise-mining-company.json) |
 | Bruiser and Scratch | 51081 | [51081-bruiser-and-scratch.json](./51081-bruiser-and-scratch.json) |
 | Bruisers 2D Boxing | 382518 | [382518-bruisers-2d-boxing.json](./382518-bruisers-2d-boxing.json) |
+| Bruises | 135548 | [135548-bruises.json](./135548-bruises.json) |
 | Brukel | 117912 | [117912-brukel.json](./117912-brukel.json) |
 | Bruken | 116173 | [116173-bruken.json](./116173-bruken.json) |
 | Brulo's Ballble Teafense! | 255885 | [255885-brulos-ballble-teafense.json](./255885-brulos-ballble-teafense.json) |
