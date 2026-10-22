@@ -1200,6 +1200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Familiar | 196570 | [196570-familiar.json](./196570-familiar.json) |
 | Familiar Friends: What's Your Familiar? | 340056 | [340056-familiar-friends-whats-your-familiar.json](./340056-familiar-friends-whats-your-familiar.json) |
 | Familiar Stranger | 319932 | [319932-familiar-stranger.json](./319932-familiar-stranger.json) |
+| Familiar Travels: Volume Two | 137321 | [137321-familiar-travels-volume-two.json](./137321-familiar-travels-volume-two.json) |
 | Familiar: Battle of the Labyrinth | 367630 | [367630-familiar-battle-of-the-labyrinth.json](./367630-familiar-battle-of-the-labyrinth.json) |
 | Familiars.io | 151816 | [151816-familiars-io.json](./151816-familiars-io.json) |
 | Family | 138192 | [138192-family.json](./138192-family.json) |
@@ -1838,6 +1839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Far From Orbit | 123521 | [123521-far-from-orbit.json](./123521-far-from-orbit.json) |
 | Far From The Darkness | 328603 | [328603-far-from-the-darkness.json](./328603-far-from-the-darkness.json) |
 | Far from the Tree | 184312 | [184312-far-from-the-tree.json](./184312-far-from-the-tree.json) |
+| Far Future Sadness | 137317 | [137317-far-future-sadness.json](./137317-far-future-sadness.json) |
 | Far Future Tourism | 133994 | [133994-far-future-tourism.json](./133994-far-future-tourism.json) |
 | Far Horizon | 291163 | [291163-far-horizon.json](./291163-far-horizon.json) |
 | Far Lands | 189367 | [189367-far-lands.json](./189367-far-lands.json) |
