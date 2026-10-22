@@ -9070,6 +9070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freestyle Football 2 | 362044 | [362044-freestyle-football-2.json](./362044-freestyle-football-2.json) |
 | Freestyle Football R | 213008 | [213008-freestyle-football-r.json](./213008-freestyle-football-r.json) |
 | Freestyle Football Z | 270774 | [270774-freestyle-football-z.json](./270774-freestyle-football-z.json) |
+| Freestyle King | 130610 | [130610-freestyle-king.json](./130610-freestyle-king.json) |
 | Freestyle MetalX | 3920 | [3920-freestyle-metalx.json](./3920-freestyle-metalx.json) |
 | FreeStyle Street Basketball | 21423 | [21423-freestyle-street-basketball.json](./21423-freestyle-street-basketball.json) |
 | Freestyle Street Soccer | 3921 | [3921-freestyle-street-soccer.json](./3921-freestyle-street-soccer.json) |
@@ -10797,6 +10798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Futari ha Pretty Cure Splash Star | 327580 | [327580-futari-ha-pretty-cure-splash-star.json](./327580-futari-ha-pretty-cure-splash-star.json) |
 | Futari ha Pretty Cure Splash Star: Panpaka Game de Zekkou-chou! | 168329 | [168329-futari-ha-pretty-cure-splash-star-panpaka-game-de-zekkou-chou.json](./168329-futari-ha-pretty-cure-splash-star-panpaka-game-de-zekkou-chou.json) |
 | Futari no Fantavision | 222750 | [222750-futari-no-fantavision.json](./222750-futari-no-fantavision.json) |
+| Futari wa Precure Max Heart: Danzen! DS de Precure - Chikara wo Awasete Dai Battle | 130571 | [130571-futari-wa-precure-max-heart-danzen-ds-de-precure-chikara-wo-awasete-dai-battle.json](./130571-futari-wa-precure-max-heart-danzen-ds-de-precure-chikara-wo-awasete-dai-battle.json) |
 | Futari wa Precure Max Heart: Maji? Maji!? Fight de IN Janai | 49568 | [49568-futari-wa-precure-max-heart-maji-maji-fight-de-in-janai.json](./49568-futari-wa-precure-max-heart-maji-maji-fight-de-in-janai.json) |
 | Futariuum's Gate | 310210 | [310210-futariuums-gate.json](./310210-futariuums-gate.json) |
 | Fútbol | 86007 | [86007-futbol.json](./86007-futbol.json) |
