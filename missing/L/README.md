@@ -7449,6 +7449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lumberhill + It came from space and ate our brains | 287662 | [287662-lumberhill-it-came-from-space-and-ate-our-brains.json](./287662-lumberhill-it-came-from-space-and-ate-our-brains.json) |
 | Lumberhill: Powerful People Pack | 199884 | [199884-lumberhill-powerful-people-pack.json](./199884-lumberhill-powerful-people-pack.json) |
 | Lumberhill: Strong Start Bundle | 199863 | [199863-lumberhill-strong-start-bundle.json](./199863-lumberhill-strong-start-bundle.json) |
+| LumberJack | 133663 | [133663-lumberjack.json](./133663-lumberjack.json) |
 | Lumberjack Construction Simulator | 239325 | [239325-lumberjack-construction-simulator.json](./239325-lumberjack-construction-simulator.json) |
 | Lumberjack Simulator | 116774 | [116774-lumberjack-simulator.json](./116774-lumberjack-simulator.json) |
 | Lumberjack Simulator: Made in Alaska 2026 | 390501 | [390501-lumberjack-simulator-made-in-alaska-2026.json](./390501-lumberjack-simulator-made-in-alaska-2026.json) |
