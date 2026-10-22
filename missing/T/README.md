@@ -9931,6 +9931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legendary Prophecy Of Light And Darkness: The Power To Save The World | 141494 | [141494-the-legendary-prophecy-of-light-and-darkness-the-power-to-save-the-world.json](./141494-the-legendary-prophecy-of-light-and-darkness-the-power-to-save-the-world.json) |
 | The Legendary Starfy | 20280 | [20280-the-legendary-starfy.json](./20280-the-legendary-starfy.json) |
 | The Legendary Swords | 331369 | [331369-the-legendary-swords.json](./331369-the-legendary-swords.json) |
+| The Legends in Kylamar | 152698 | [152698-the-legends-in-kylamar.json](./152698-the-legends-in-kylamar.json) |
 | The Legends of Maui | 289990 | [289990-the-legends-of-maui.json](./289990-the-legends-of-maui.json) |
 | The Legends of Owlia | 30059 | [30059-the-legends-of-owlia.json](./30059-the-legends-of-owlia.json) |
 | The Legends of Oz: One Hundred Years of Oz | 269668 | [269668-the-legends-of-oz-one-hundred-years-of-oz.json](./269668-the-legends-of-oz-one-hundred-years-of-oz.json) |
@@ -10416,6 +10417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Magic Master | 412494 | [412494-the-magic-master.json](./412494-the-magic-master.json) |
 | The Magic Obelisk | 67182 | [67182-the-magic-obelisk.json](./67182-the-magic-obelisk.json) |
 | The Magic of Scheherazade | 48078 | [48078-the-magic-of-scheherazade.json](./48078-the-magic-of-scheherazade.json) |
+| The Magic of Three | 152628 | [152628-the-magic-of-three.json](./152628-the-magic-of-three.json) |
 | The Magic Roundabout | 268201 | [268201-the-magic-roundabout.json](./268201-the-magic-roundabout.json) |
 | The Magic School Bus Explores Bugs | 70312 | [70312-the-magic-school-bus-explores-bugs.json](./70312-the-magic-school-bus-explores-bugs.json) |
 | The Magic School Bus Explores in the Age of Dinosaurs | 70456 | [70456-the-magic-school-bus-explores-in-the-age-of-dinosaurs.json](./70456-the-magic-school-bus-explores-in-the-age-of-dinosaurs.json) |
@@ -13580,6 +13582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Terraces | 303018 | [303018-the-terraces.json](./303018-the-terraces.json) |
 | The Terrible Old Man | 122170 | [122170-the-terrible-old-man.json](./122170-the-terrible-old-man.json) |
 | The Terrible Old Man: Collector's Edition | 156100 | [156100-the-terrible-old-man-collectors-edition.json](./156100-the-terrible-old-man-collectors-edition.json) |
+| The Terrible Persistence of Memory | 152702 | [152702-the-terrible-persistence-of-memory.json](./152702-the-terrible-persistence-of-memory.json) |
 | The Territory of Egg | 242415 | [242415-the-territory-of-egg.json](./242415-the-territory-of-egg.json) |
 | The Territory of Egg 2 | 309559 | [309559-the-territory-of-egg-2.json](./309559-the-territory-of-egg-2.json) |
 | The Terror At Freddy's | 338912 | [338912-the-terror-at-freddys.json](./338912-the-terror-at-freddys.json) |
@@ -15683,6 +15686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thousand Island Solitaire HD | 355004 | [355004-thousand-island-solitaire-hd.json](./355004-thousand-island-solitaire-hd.json) |
 | Thousand Land | 62072 | [62072-thousand-land.json](./62072-thousand-land.json) |
 | Thousand Lantern Lane | 333508 | [333508-thousand-lantern-lane.json](./333508-thousand-lantern-lane.json) |
+| Thousand Lives | 152705 | [152705-thousand-lives.json](./152705-thousand-lives.json) |
 | Thousand N' Thousand: Mimico | 376665 | [376665-thousand-n-thousand-mimico.json](./376665-thousand-n-thousand-mimico.json) |
 | Thousand Week Reich | 256452 | [256452-thousand-week-reich.json](./256452-thousand-week-reich.json) |
 | Thousands | 103354 | [103354-thousands.json](./103354-thousands.json) |
@@ -22379,6 +22383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Training Grounds | 169489 | [169489-training-grounds.json](./169489-training-grounds.json) |
 | Training Hero | 239917 | [239917-training-hero.json](./239917-training-hero.json) |
 | Training Lab | 156004 | [156004-training-lab.json](./156004-training-lab.json) |
+| Training Leah | 152618 | [152618-training-leah.json](./152618-training-leah.json) |
 | Training Mode | 180276 | [180276-training-mode.json](./180276-training-mode.json) |
 | Training Vice Principal: Square Headed & Chaste Woman Disciplined into Slut | 82991 | [82991-training-vice-principal-square-headed-and-chaste-woman-disciplined-into-slut.json](./82991-training-vice-principal-square-headed-and-chaste-woman-disciplined-into-slut.json) |
 | TrainingPeaks Virtual | 328624 | [328624-trainingpeaks-virtual.json](./328624-trainingpeaks-virtual.json) |
