@@ -532,6 +532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | XenoBloom | 34734 | [34734-xenobloom.json](./34734-xenobloom.json) |
 | Xenobreakers: Classic Tower Defense | 337065 | [337065-xenobreakers-classic-tower-defense.json](./337065-xenobreakers-classic-tower-defense.json) |
 | Xenochamber | 110976 | [110976-xenochamber.json](./110976-xenochamber.json) |
+| Xenociders | 126240 | [126240-xenociders.json](./126240-xenociders.json) |
 | XenoFeud | 235488 | [235488-xenofeud.json](./235488-xenofeud.json) |
 | Xenogen | 381675 | [381675-xenogen.json](./381675-xenogen.json) |
 | XenoGrove | 113555 | [113555-xenogrove.json](./113555-xenogrove.json) |
