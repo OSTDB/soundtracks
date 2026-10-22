@@ -15962,6 +15962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Land! | 234739 | [234739-my-land.json](./234739-my-land.json) |
 | My Last First Kiss | 186572 | [186572-my-last-first-kiss.json](./186572-my-last-first-kiss.json) |
 | My Last Friday | 320730 | [320730-my-last-friday.json](./320730-my-last-friday.json) |
+| My Last Friend | 134911 | [134911-my-last-friend.json](./134911-my-last-friend.json) |
 | My Last Heatwave | 396556 | [396556-my-last-heatwave.json](./396556-my-last-heatwave.json) |
 | My Last Journey | 190390 | [190390-my-last-journey.json](./190390-my-last-journey.json) |
 | My Last Memories About You | 158133 | [158133-my-last-memories-about-you.json](./158133-my-last-memories-about-you.json) |
