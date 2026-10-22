@@ -2387,6 +2387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO City: My City 2 | 193832 | [193832-lego-city-my-city-2.json](./193832-lego-city-my-city-2.json) |
 | LEGO Creator: Harry Potter | 66631 | [66631-lego-creator-harry-potter.json](./66631-lego-creator-harry-potter.json) |
 | LEGO Creator: Harry Potter and the Chamber of Secrets | 78288 | [78288-lego-creator-harry-potter-and-the-chamber-of-secrets.json](./78288-lego-creator-harry-potter-and-the-chamber-of-secrets.json) |
+| LEGO DC Mighty Micros | 104493 | [104493-lego-dc-mighty-micros.json](./104493-lego-dc-mighty-micros.json) |
 | LEGO DC Super-Villains | 102321 | [102321-lego-dc-super-villains.json](./102321-lego-dc-super-villains.json) |
 | LEGO DC Super-Villains: Aquaman Bundle Pack | 214483 | [214483-lego-dc-super-villains-aquaman-bundle-pack.json](./214483-lego-dc-super-villains-aquaman-bundle-pack.json) |
 | LEGO DC Super-Villains: Aquaman Movie Level Pack 1 | 207224 | [207224-lego-dc-super-villains-aquaman-movie-level-pack-1.json](./207224-lego-dc-super-villains-aquaman-movie-level-pack-1.json) |
@@ -6844,6 +6845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Island | 306234 | [306234-love-island.json](./306234-love-island.json) |
 | Love Island: Forbidden Boys Temptation | 406063 | [406063-love-island-forbidden-boys-temptation.json](./406063-love-island-forbidden-boys-temptation.json) |
 | Love Island: Forbidden Girls Temptation | 407285 | [407285-love-island-forbidden-girls-temptation.json](./407285-love-island-forbidden-girls-temptation.json) |
+| Love Island: The Game | 104417 | [104417-love-island-the-game.json](./104417-love-island-the-game.json) |
 | Love Island: The Game - Chelsea's Murder Mystery | 263662 | [263662-love-island-the-game-chelseas-murder-mystery.json](./263662-love-island-the-game-chelseas-murder-mystery.json) |
 | Love Island: The Game - Season 1 | 262195 | [262195-love-island-the-game-season-1.json](./262195-love-island-the-game-season-1.json) |
 | Love Island: The Game - Season 10 | 413632 | [413632-love-island-the-game-season-10.json](./413632-love-island-the-game-season-10.json) |
