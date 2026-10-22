@@ -880,6 +880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ed Chess | 93042 | [93042-ed-chess.json](./93042-ed-chess.json) |
 | Ed Grimley | 198735 | [198735-ed-grimley.json](./198735-ed-grimley.json) |
 | Ed-0: Zombie Uprising | 195077 | [195077-ed-0-zombie-uprising.json](./195077-ed-0-zombie-uprising.json) |
+| Ed-It | 126251 | [126251-ed-it.json](./126251-ed-it.json) |
 | Ed, Edd n Eddy: Clash of the Idiots | 159198 | [159198-ed-edd-n-eddy-clash-of-the-idiots.json](./159198-ed-edd-n-eddy-clash-of-the-idiots.json) |
 | Ed, Edd n Eddy: Cul-de-Sac Smash | 374686 | [374686-ed-edd-n-eddy-cul-de-sac-smash.json](./374686-ed-edd-n-eddy-cul-de-sac-smash.json) |
 | Ed, Edd n Eddy: Ed Over Heels | 203093 | [203093-ed-edd-n-eddy-ed-over-heels.json](./203093-ed-edd-n-eddy-ed-over-heels.json) |
@@ -4354,6 +4355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape: Immersion | 391205 | [391205-escape-immersion.json](./391205-escape-immersion.json) |
 | Escape: Left to die | 236416 | [236416-escape-left-to-die.json](./236416-escape-left-to-die.json) |
 | Escape: Lia | 195173 | [195173-escape-lia.json](./195173-escape-lia.json) |
+| Escape: Mouse Gun | 126236 | [126236-escape-mouse-gun.json](./126236-escape-mouse-gun.json) |
 | Escape: Sierra Leone | 33570 | [33570-escape-sierra-leone.json](./33570-escape-sierra-leone.json) |
 | Escape: Site-13 | 211065 | [211065-escape-site-13.json](./211065-escape-site-13.json) |
 | Escape: Small Laboratory | 224055 | [224055-escape-small-laboratory.json](./224055-escape-small-laboratory.json) |
@@ -5413,6 +5415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evil Advisor Verdict | 359995 | [359995-evil-advisor-verdict.json](./359995-evil-advisor-verdict.json) |
 | Evil Apples: Dirty as ____. | 86996 | [86996-evil-apples-dirty-as.json](./86996-evil-apples-dirty-as.json) |
 | Evil Awaits | 224596 | [224596-evil-awaits.json](./224596-evil-awaits.json) |
+| Evil behind the shadows | 126278 | [126278-evil-behind-the-shadows.json](./126278-evil-behind-the-shadows.json) |
 | Evil Below | 151500 | [151500-evil-below.json](./151500-evil-below.json) |
 | Evil Bird Simulator | 209301 | [209301-evil-bird-simulator.json](./209301-evil-bird-simulator.json) |
 | Evil Castle & Princess | 258193 | [258193-evil-castle-and-princess.json](./258193-evil-castle-and-princess.json) |
