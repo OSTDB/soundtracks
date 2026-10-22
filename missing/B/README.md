@@ -10611,6 +10611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bottle of Ghouls | 281969 | [281969-bottle-of-ghouls.json](./281969-bottle-of-ghouls.json) |
 | Bottle of Sickness | 386216 | [386216-bottle-of-sickness.json](./386216-bottle-of-sickness.json) |
 | Bottle Rockets | 177447 | [177447-bottle-rockets.json](./177447-bottle-rockets.json) |
+| Bottle Shooting: Club Bar Gun | 108207 | [108207-bottle-shooting-club-bar-gun.json](./108207-bottle-shooting-club-bar-gun.json) |
 | Bottle Tap | 289767 | [289767-bottle-tap.json](./289767-bottle-tap.json) |
 | Bottle Taps Race | 230679 | [230679-bottle-taps-race.json](./230679-bottle-taps-race.json) |
 | Bottle Target Shoot | 102249 | [102249-bottle-target-shoot.json](./102249-bottle-target-shoot.json) |
@@ -10817,6 +10818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bound in a Nutshell in Infinite Space | 373885 | [373885-bound-in-a-nutshell-in-infinite-space.json](./373885-bound-in-a-nutshell-in-infinite-space.json) |
 | Bound in Time | 199602 | [199602-bound-in-time.json](./199602-bound-in-time.json) |
 | Bound of the Skies | 38976 | [38976-bound-of-the-skies.json](./38976-bound-of-the-skies.json) |
+| Bound Strike | 108182 | [108182-bound-strike.json](./108182-bound-strike.json) |
 | Bound Survivor | 340813 | [340813-bound-survivor.json](./340813-bound-survivor.json) |
 | Bound to Defend | 410267 | [410267-bound-to-defend.json](./410267-bound-to-defend.json) |
 | Bound To Fail | 396718 | [396718-bound-to-fail.json](./396718-bound-to-fail.json) |
