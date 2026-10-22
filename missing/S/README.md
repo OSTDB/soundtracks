@@ -1691,6 +1691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saturn Quest: Blast Effect | 142188 | [142188-saturn-quest-blast-effect.json](./142188-saturn-quest-blast-effect.json) |
 | Saturn Quest: R.U.N.E. 3000 | 221169 | [221169-saturn-quest-r-u-n-e-3000.json](./221169-saturn-quest-r-u-n-e-3000.json) |
 | Saturn Quest: Shadow of Planetus | 132792 | [132792-saturn-quest-shadow-of-planetus.json](./132792-saturn-quest-shadow-of-planetus.json) |
+| Saturn V | 148403 | [148403-saturn-v.json](./148403-saturn-v.json) |
 | Saturn Valley Online | 323764 | [323764-saturn-valley-online.json](./323764-saturn-valley-online.json) |
 | Saturn. Legacy | 403688 | [403688-saturn-legacy.json](./403688-saturn-legacy.json) |
 | Saturn's Rising Temperature | 225718 | [225718-saturns-rising-temperature.json](./225718-saturns-rising-temperature.json) |
@@ -1971,6 +1972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sayo-kun no Omajinai | 314850 | [314850-sayo-kun-no-omajinai.json](./314850-sayo-kun-no-omajinai.json) |
 | Sayonalaika | 340880 | [340880-sayonalaika.json](./340880-sayonalaika.json) |
 | Sayonara | 252989 | [252989-sayonara.json](./252989-sayonara.json) |
+| Sayonara Golden Days | 148249 | [148249-sayonara-golden-days.json](./148249-sayonara-golden-days.json) |
 | Sayonara Golden Days: Golden Souls | 148345 | [148345-sayonara-golden-days-golden-souls.json](./148345-sayonara-golden-days-golden-souls.json) |
 | Sayonara Jinsei. | 288438 | [288438-sayonara-jinsei.json](./288438-sayonara-jinsei.json) |
 | Sayonara Man | 330595 | [330595-sayonara-man.json](./330595-sayonara-man.json) |
@@ -2376,6 +2378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Schoolboy Escape 2: Village | 345251 | [345251-schoolboy-escape-2-village.json](./345251-schoolboy-escape-2-village.json) |
 | SchoolBoy Horror | 395667 | [395667-schoolboy-horror.json](./395667-schoolboy-horror.json) |
 | SchoolBoy Simulator | 335077 | [335077-schoolboy-simulator.json](./335077-schoolboy-simulator.json) |
+| Schoolbreak.io | 148266 | [148266-schoolbreak-io.json](./148266-schoolbreak-io.json) |
 | SchoolGirl AI 3D Anime Sandbox | 296761 | [296761-schoolgirl-ai-3d-anime-sandbox.json](./296761-schoolgirl-ai-3d-anime-sandbox.json) |
 | Schoolgirl Card Pull Simulator | 394559 | [394559-schoolgirl-card-pull-simulator.json](./394559-schoolgirl-card-pull-simulator.json) |
 | Schoolgirl Supervisor: Saori Sato | 322266 | [322266-schoolgirl-supervisor-saori-sato.json](./322266-schoolgirl-supervisor-saori-sato.json) |
@@ -5030,6 +5033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SGS Battle For: Madrid | 275833 | [275833-sgs-battle-for-madrid.json](./275833-sgs-battle-for-madrid.json) |
 | SGS Battle For: Stalingrad | 244900 | [244900-sgs-battle-for-stalingrad.json](./244900-sgs-battle-for-stalingrad.json) |
 | SGS Fall Weiss | 197271 | [197271-sgs-fall-weiss.json](./197271-sgs-fall-weiss.json) |
+| SGS Halls of Montezuma | 148274 | [148274-sgs-halls-of-montezuma.json](./148274-sgs-halls-of-montezuma.json) |
 | SGS Korean War | 202653 | [202653-sgs-korean-war.json](./202653-sgs-korean-war.json) |
 | SGS NATO's Nightmare | 212166 | [212166-sgs-natos-nightmare.json](./212166-sgs-natos-nightmare.json) |
 | SGS Okinawa | 226628 | [226628-sgs-okinawa.json](./226628-sgs-okinawa.json) |
@@ -6163,6 +6167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shepherds of the Abyss | 33623 | [33623-shepherds-of-the-abyss.json](./33623-shepherds-of-the-abyss.json) |
 | Shephy | 41893 | [41893-shephy.json](./41893-shephy.json) |
 | Sheppard Software Geography | 108806 | [108806-sheppard-software-geography.json](./108806-sheppard-software-geography.json) |
+| Shera and the 40 Thieves | 148393 | [148393-shera-and-the-40-thieves.json](./148393-shera-and-the-40-thieves.json) |
 | Shera and the Three Treasures | 118293 | [118293-shera-and-the-three-treasures.json](./118293-shera-and-the-three-treasures.json) |
 | Sherberia | 190452 | [190452-sherberia.json](./190452-sherberia.json) |
 | Sherbert In A Bottle | 225311 | [225311-sherbert-in-a-bottle.json](./225311-sherbert-in-a-bottle.json) |
@@ -6611,6 +6616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shinobi: The Warlord | 300722 | [300722-shinobi-the-warlord.json](./300722-shinobi-the-warlord.json) |
 | Shinobi.fr | 137624 | [137624-shinobi-fr.json](./137624-shinobi-fr.json) |
 | Shinobi.io | 194016 | [194016-shinobi-io.json](./194016-shinobi-io.json) |
+| Shinobi's Way - a jigsaw chess tale | 148262 | [148262-shinobis-way-a-jigsaw-chess-tale.json](./148262-shinobis-way-a-jigsaw-chess-tale.json) |
 | Shinobido 2: Revenge of Zen | 10900 | [10900-shinobido-2-revenge-of-zen.json](./10900-shinobido-2-revenge-of-zen.json) |
 | Shinobido: Way of the Ninja | 10899 | [10899-shinobido-way-of-the-ninja.json](./10899-shinobido-way-of-the-ninja.json) |
 | Shinobit | 181784 | [181784-shinobit.json](./181784-shinobit.json) |
@@ -11784,6 +11790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snot Pop! | 412499 | [412499-snot-pop.json](./412499-snot-pop.json) |
 | Snot Put | 270761 | [270761-snot-put.json](./270761-snot-put.json) |
 | Snotty's Sewer | 253845 | [253845-snottys-sewer.json](./253845-snottys-sewer.json) |
+| SnOut | 148275 | [148275-snout.json](./148275-snout.json) |
 | SnOut 2 | 192827 | [192827-snout-2.json](./192827-snout-2.json) |
 | Snout About | 361827 | [361827-snout-about.json](./361827-snout-about.json) |
 | Snout Clout | 184930 | [184930-snout-clout.json](./184930-snout-clout.json) |
@@ -19642,6 +19649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starsation | 150987 | [150987-starsation.json](./150987-starsation.json) |
 | StarSavior | 350191 | [350191-starsavior.json](./350191-starsavior.json) |
 | StarsAway | 291195 | [291195-starsaway.json](./291195-starsaway.json) |
+| StarScraper | 148405 | [148405-starscraper.json](./148405-starscraper.json) |
 | Starseed | 150998 | [150998-starseed.json](./150998-starseed.json) |
 | Starseed Harmonies | 385553 | [385553-starseed-harmonies.json](./385553-starseed-harmonies.json) |
 | Starseeker | 107608 | [107608-starseeker.json](./107608-starseeker.json) |
@@ -26422,6 +26430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survivalist: Invisible Strain | 117233 | [117233-survivalist-invisible-strain.json](./117233-survivalist-invisible-strain.json) |
 | Survivalizm - The Animal Simulator | 28082 | [28082-survivalizm-the-animal-simulator.json](./28082-survivalizm-the-animal-simulator.json) |
 | Survivalo | 337059 | [337059-survivalo.json](./337059-survivalo.json) |
+| Survivals Unknown | 148240 | [148240-survivals-unknown.json](./148240-survivals-unknown.json) |
 | Survivals: Battle Royale | 103974 | [103974-survivals-battle-royale.json](./103974-survivals-battle-royale.json) |
 | Survivaluck | 287758 | [287758-survivaluck.json](./287758-survivaluck.json) |
 | SurvivalZ Battlegrounds | 103009 | [103009-survivalz-battlegrounds.json](./103009-survivalz-battlegrounds.json) |
