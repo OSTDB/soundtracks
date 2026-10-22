@@ -47,6 +47,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | R-Type Final 2: DLC Set 6 | 193746 | [193746-r-type-final-2-dlc-set-6.json](./193746-r-type-final-2-dlc-set-6.json) |
 | R-Type Final 2: DLC Set 8 | 219777 | [219777-r-type-final-2-dlc-set-8.json](./219777-r-type-final-2-dlc-set-8.json) |
 | R-Type Final 2: DLC Set 9 | 223867 | [223867-r-type-final-2-dlc-set-9.json](./223867-r-type-final-2-dlc-set-9.json) |
+| R-Type Final 2: Inaugural Flight Edition | 140441 | [140441-r-type-final-2-inaugural-flight-edition.json](./140441-r-type-final-2-inaugural-flight-edition.json) |
 | R-Type Final 2: Limited Edition | 143057 | [143057-r-type-final-2-limited-edition.json](./143057-r-type-final-2-limited-edition.json) |
 | R-Type Final 2: Limited Edition + Special Chronicle Box Set | 143058 | [143058-r-type-final-2-limited-edition-special-chronicle-box-set.json](./143058-r-type-final-2-limited-edition-special-chronicle-box-set.json) |
 | R-Type Final 2: Ultimate Edition | 271121 | [271121-r-type-final-2-ultimate-edition.json](./271121-r-type-final-2-ultimate-edition.json) |
@@ -5655,6 +5656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riders Republic: Season Pass | 293718 | [293718-riders-republic-season-pass.json](./293718-riders-republic-season-pass.json) |
 | Riders Republic: Skate Edition | 263516 | [263516-riders-republic-skate-edition.json](./263516-riders-republic-skate-edition.json) |
 | Riders Republic: Skate Plus Pack | 268975 | [268975-riders-republic-skate-plus-pack.json](./268975-riders-republic-skate-plus-pack.json) |
+| Riders Republic: Ultimate Edition | 140440 | [140440-riders-republic-ultimate-edition.json](./140440-riders-republic-ultimate-edition.json) |
 | Riders Republic: Year 1 Pass | 293916 | [293916-riders-republic-year-1-pass.json](./293916-riders-republic-year-1-pass.json) |
 | Riders World: I Want to Jump | 200653 | [200653-riders-world-i-want-to-jump.json](./200653-riders-world-i-want-to-jump.json) |
 | Riders World: I Want to Race | 200654 | [200654-riders-world-i-want-to-race.json](./200654-riders-world-i-want-to-race.json) |
