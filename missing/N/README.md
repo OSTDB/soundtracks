@@ -1901,6 +1901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Depth | 168333 | [168333-neon-depth.json](./168333-neon-depth.json) |
 | Neon Dimension | 157385 | [157385-neon-dimension.json](./157385-neon-dimension.json) |
 | Neon District | 124201 | [124201-neon-district.json](./124201-neon-district.json) |
+| Neon District: Season One | 125039 | [125039-neon-district-season-one.json](./125039-neon-district-season-one.json) |
 | Neon Divide | 359521 | [359521-neon-divide.json](./359521-neon-divide.json) |
 | Neon Doctrine's Greatest Hits Vol. 1 | 304811 | [304811-neon-doctrines-greatest-hits-vol-1.json](./304811-neon-doctrines-greatest-hits-vol-1.json) |
 | Neon Dodge | 391749 | [391749-neon-dodge.json](./391749-neon-dodge.json) |
