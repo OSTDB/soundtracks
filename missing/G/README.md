@@ -2772,6 +2772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Getting out Alive | 264109 | [264109-getting-out-alive.json](./264109-getting-out-alive.json) |
 | Getting Over It with Bennett Foddy | 72373 | [72373-getting-over-it-with-bennett-foddy.json](./72373-getting-over-it-with-bennett-foddy.json) |
 | Getting Over It with Your Body | 381035 | [381035-getting-over-it-with-your-body.json](./381035-getting-over-it-with-your-body.json) |
+| Getting There | 151990 | [151990-getting-there.json](./151990-getting-there.json) |
 | Getting There | 305926 | [305926-getting-there.json](./305926-getting-there.json) |
 | Getting to the Other Side!!! | 243565 | [243565-getting-to-the-other-side.json](./243565-getting-to-the-other-side.json) |
 | Getting Touchy with Albertine | 400933 | [400933-getting-touchy-with-albertine.json](./400933-getting-touchy-with-albertine.json) |
@@ -5298,6 +5299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Good Morgan Eve | 332443 | [332443-good-morgan-eve.json](./332443-good-morgan-eve.json) |
 | Good Morning | 381133 | [381133-good-morning.json](./381133-good-morning.json) |
 | Good Morning Cruel City | 278518 | [278518-good-morning-cruel-city.json](./278518-good-morning-cruel-city.json) |
+| Good Morning Drifter | 152099 | [152099-good-morning-drifter.json](./152099-good-morning-drifter.json) |
 | Good Morning Hon | 194328 | [194328-good-morning-hon.json](./194328-good-morning-hon.json) |
 | Good Morning Is A Social Construct | 231393 | [231393-good-morning-is-a-social-construct.json](./231393-good-morning-is-a-social-construct.json) |
 | Good Morning Is Good Night | 342027 | [342027-good-morning-is-good-night.json](./342027-good-morning-is-good-night.json) |
@@ -7845,6 +7847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guild of Dungeoneering: Deluxe Edition | 54075 | [54075-guild-of-dungeoneering-deluxe-edition.json](./54075-guild-of-dungeoneering-deluxe-edition.json) |
 | Guild of Dungeoneering: Deluxe Ice Cream Edition | 51828 | [51828-guild-of-dungeoneering-deluxe-ice-cream-edition.json](./51828-guild-of-dungeoneering-deluxe-ice-cream-edition.json) |
 | Guild of Dungeoneering: Ice Cream Headaches | 51827 | [51827-guild-of-dungeoneering-ice-cream-headaches.json](./51827-guild-of-dungeoneering-ice-cream-headaches.json) |
+| Guild of Dungeoneering: Ultimate Edition | 152105 | [152105-guild-of-dungeoneering-ultimate-edition.json](./152105-guild-of-dungeoneering-ultimate-edition.json) |
 | Guild of Greats | 137024 | [137024-guild-of-greats.json](./137024-guild-of-greats.json) |
 | Guild of Heroes | 58462 | [58462-guild-of-heroes.json](./58462-guild-of-heroes.json) |
 | Guild of Hunters | 372993 | [372993-guild-of-hunters.json](./372993-guild-of-hunters.json) |
