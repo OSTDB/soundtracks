@@ -4008,6 +4008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seiryuu Densetsu Monbit | 66141 | [66141-seiryuu-densetsu-monbit.json](./66141-seiryuu-densetsu-monbit.json) |
 | Seisai | 125997 | [125997-seisai.json](./125997-seisai.json) |
 | Seishin - Virtual Rhythm | 86522 | [86522-seishin-virtual-rhythm.json](./86522-seishin-virtual-rhythm.json) |
+| Seishin Destiny | 150911 | [150911-seishin-destiny.json](./150911-seishin-destiny.json) |
 | Seishin Hakai | 260976 | [260976-seishin-hakai.json](./260976-seishin-hakai.json) |
 | Seisho 1999 | 323919 | [323919-seisho-1999.json](./323919-seisho-1999.json) |
 | Seishoku ni Watashi wo | 321620 | [321620-seishoku-ni-watashi-wo.json](./321620-seishoku-ni-watashi-wo.json) |
@@ -19620,8 +19621,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stars! | 94399 | [94399-stars.json](./94399-stars.json) |
 | Starsand | 152754 | [152754-starsand.json](./152754-starsand.json) |
 | Starsand Island | 310885 | [310885-starsand-island.json](./310885-starsand-island.json) |
+| Starsation | 150987 | [150987-starsation.json](./150987-starsation.json) |
 | StarSavior | 350191 | [350191-starsavior.json](./350191-starsavior.json) |
 | StarsAway | 291195 | [291195-starsaway.json](./291195-starsaway.json) |
+| Starseed | 150998 | [150998-starseed.json](./150998-starseed.json) |
 | Starseed Harmonies | 385553 | [385553-starseed-harmonies.json](./385553-starseed-harmonies.json) |
 | Starseeker | 107608 | [107608-starseeker.json](./107608-starseeker.json) |
 | Starshapes | 249864 | [249864-starshapes.json](./249864-starshapes.json) |
@@ -26463,6 +26466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survive: The Alien Tracing | 360203 | [360203-survive-the-alien-tracing.json](./360203-survive-the-alien-tracing.json) |
 | Survive! Mola mola! | 151640 | [151640-survive-mola-mola.json](./151640-survive-mola-mola.json) |
 | Survive.io Battle Ground | 100139 | [100139-survive-io-battle-ground.json](./100139-survive-io-battle-ground.json) |
+| Survived | 151052 | [151052-survived.json](./151052-survived.json) |
 | Survived By | 55218 | [55218-survived-by.json](./55218-survived-by.json) |
 | Survivesmith | 346628 | [346628-survivesmith.json](./346628-survivesmith.json) |
 | Survivia.io | 137536 | [137536-survivia-io.json](./137536-survivia-io.json) |
@@ -27536,6 +27540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SX Superstar | 4193 | [4193-sx-superstar.json](./4193-sx-superstar.json) |
 | SX-1: Defender Line | 78897 | [78897-sx-1-defender-line.json](./78897-sx-1-defender-line.json) |
 | SXPD: Extreme Pursuit Force | 61525 | [61525-sxpd-extreme-pursuit-force.json](./61525-sxpd-extreme-pursuit-force.json) |
+| Syberia 3: An Automaton with a Plan | 150905 | [150905-syberia-3-an-automaton-with-a-plan.json](./150905-syberia-3-an-automaton-with-a-plan.json) |
 | Syberia 3: Deluxe Edition | 53697 | [53697-syberia-3-deluxe-edition.json](./53697-syberia-3-deluxe-edition.json) |
 | Syberia 3: The Complete Journey | 124797 | [124797-syberia-3-the-complete-journey.json](./124797-syberia-3-the-complete-journey.json) |
 | Syberia Collection | 83154 | [83154-syberia-collection.json](./83154-syberia-collection.json) |
