@@ -740,6 +740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zero Visibility | 229506 | [229506-zero-visibility.json](./229506-zero-visibility.json) |
 | Zero Volt X | 176960 | [176960-zero-volt-x.json](./176960-zero-volt-x.json) |
 | Zero World | 211216 | [211216-zero-world.json](./211216-zero-world.json) |
+| Zero Wrath Vendetta | 149322 | [149322-zero-wrath-vendetta.json](./149322-zero-wrath-vendetta.json) |
 | Zero Zero | 130361 | [130361-zero-zero.json](./130361-zero-zero.json) |
 | Zero Zero: Perfect Stop | 314997 | [314997-zero-zero-perfect-stop.json](./314997-zero-zero-perfect-stop.json) |
 | Zero Zone | 94692 | [94692-zero-zone.json](./94692-zero-zone.json) |
@@ -1601,6 +1602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombusters: Enhanced Edition | 184304 | [184304-zombusters-enhanced-edition.json](./184304-zombusters-enhanced-edition.json) |
 | Zombutcher | 379585 | [379585-zombutcher.json](./379585-zombutcher.json) |
 | ZombWave | 207402 | [207402-zombwave.json](./207402-zombwave.json) |
+| Zomcade | 148825 | [148825-zomcade.json](./148825-zomcade.json) |
 | ZomDay | 54476 | [54476-zomday.json](./54476-zomday.json) |
 | Zomdied | 399432 | [399432-zomdied.json](./399432-zomdied.json) |
 | ZOMG! | 25020 | [25020-zomg.json](./25020-zomg.json) |
