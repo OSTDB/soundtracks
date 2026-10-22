@@ -8412,6 +8412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood Burger | 202563 | [202563-blood-burger.json](./202563-blood-burger.json) |
 | Blood Camp | 193140 | [193140-blood-camp.json](./193140-blood-camp.json) |
 | Blood Card | 109850 | [109850-blood-card.json](./109850-blood-card.json) |
+| Blood Card 2: Dark Mist | 151994 | [151994-blood-card-2-dark-mist.json](./151994-blood-card-2-dark-mist.json) |
 | Blood City | 108386 | [108386-blood-city.json](./108386-blood-city.json) |
 | Blood Cleaner | 322804 | [322804-blood-cleaner.json](./322804-blood-cleaner.json) |
 | Blood Code | 34853 | [34853-blood-code.json](./34853-blood-code.json) |
@@ -10118,6 +10119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boomerang Fu: Fresh Flavors Pack | 226265 | [226265-boomerang-fu-fresh-flavors-pack.json](./226265-boomerang-fu-fresh-flavors-pack.json) |
 | Boomerang Fu: Just Desserts DLC | 305614 | [305614-boomerang-fu-just-desserts-dlc.json](./305614-boomerang-fu-just-desserts-dlc.json) |
 | Boomerang Jack | 244617 | [244617-boomerang-jack.json](./244617-boomerang-jack.json) |
+| Boomerang Kid | 152003 | [152003-boomerang-kid.json](./152003-boomerang-kid.json) |
 | Boomerang Of Destruction | 325882 | [325882-boomerang-of-destruction.json](./325882-boomerang-of-destruction.json) |
 | Boomerang RPG | 297248 | [297248-boomerang-rpg.json](./297248-boomerang-rpg.json) |
 | Boomerang Survivor 3 | 386550 | [386550-boomerang-survivor-3.json](./386550-boomerang-survivor-3.json) |
