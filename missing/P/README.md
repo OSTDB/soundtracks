@@ -11752,6 +11752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Bass Fishing 2003 | 27599 | [27599-pro-bass-fishing-2003.json](./27599-pro-bass-fishing-2003.json) |
 | Pro Biker 2 | 66934 | [66934-pro-biker-2.json](./66934-pro-biker-2.json) |
 | Pro Birder | 414185 | [414185-pro-birder.json](./414185-pro-birder.json) |
+| Pro Bocce 2018 | 105666 | [105666-pro-bocce-2018.json](./105666-pro-bocce-2018.json) |
 | Pro Body Boarding | 209885 | [209885-pro-body-boarding.json](./209885-pro-body-boarding.json) |
 | Pro Bowling | 385781 | [385781-pro-bowling.json](./385781-pro-bowling.json) |
 | Pro Boxing Simulator | 12723 | [12723-pro-boxing-simulator.json](./12723-pro-boxing-simulator.json) |
