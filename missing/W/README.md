@@ -2804,6 +2804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Western Redemption | 274383 | [274383-western-redemption.json](./274383-western-redemption.json) |
 | Western Riding Academy | 80469 | [80469-western-riding-academy.json](./80469-western-riding-academy.json) |
 | Western Slot Machine | 279254 | [279254-western-slot-machine.json](./279254-western-slot-machine.json) |
+| Western U.S. Scenery Set | 131190 | [131190-western-u-s-scenery-set.json](./131190-western-u-s-scenery-set.json) |
 | Western War | 249754 | [249754-western-war.json](./249754-western-war.json) |
 | Westeros: Total War | 356236 | [356236-westeros-total-war.json](./356236-westeros-total-war.json) |
 | Westfall | 343252 | [343252-westfall.json](./343252-westfall.json) |
@@ -4552,6 +4553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wing of Darkness: Limited Edition | 140005 | [140005-wing-of-darkness-limited-edition.json](./140005-wing-of-darkness-limited-edition.json) |
 | Wing Over | 67674 | [67674-wing-over.json](./67674-wing-over.json) |
 | Wing Over 2 | 67667 | [67667-wing-over-2.json](./67667-wing-over-2.json) |
+| Wing War | 131192 | [131192-wing-war.json](./131192-wing-war.json) |
 | Wing War | 24014 | [24014-wing-war.json](./24014-wing-war.json) |
 | Wing Warriors | 218921 | [218921-wing-warriors.json](./218921-wing-warriors.json) |
 | Winged | 307689 | [307689-winged.json](./307689-winged.json) |
