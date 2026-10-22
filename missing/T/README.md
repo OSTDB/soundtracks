@@ -9150,6 +9150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The king's Guard | 165933 | [165933-the-kings-guard.json](./165933-the-kings-guard.json) |
 | The King's League | 294419 | [294419-the-kings-league.json](./294419-the-kings-league.json) |
 | The King's League: Emblems | 294421 | [294421-the-kings-league-emblems.json](./294421-the-kings-league-emblems.json) |
+| The King's New Castle | 116078 | [116078-the-kings-new-castle.json](./116078-the-kings-new-castle.json) |
 | The King's Odyssey | 185470 | [185470-the-kings-odyssey.json](./185470-the-kings-odyssey.json) |
 | The King's Request | 103193 | [103193-the-kings-request.json](./103193-the-kings-request.json) |
 | The King's Side Castle | 418590 | [418590-the-kings-side-castle.json](./418590-the-kings-side-castle.json) |
@@ -18656,6 +18657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tip Top: Don't Fall! | 217814 | [217814-tip-top-dont-fall.json](./217814-tip-top-dont-fall.json) |
 | Tip-Toeing Around an Empty House | 374173 | [374173-tip-toeing-around-an-empty-house.json](./374173-tip-toeing-around-an-empty-house.json) |
 | Tip-Up Ice Fishing | 178578 | [178578-tip-up-ice-fishing.json](./178578-tip-up-ice-fishing.json) |
+| Tipping Point | 116050 | [116050-tipping-point.json](./116050-tipping-point.json) |
 | Tippy Pads | 287883 | [287883-tippy-pads.json](./287883-tippy-pads.json) |
 | Tippy Putts | 401120 | [401120-tippy-putts.json](./401120-tippy-putts.json) |
 | Tippy Train | 245262 | [245262-tippy-train.json](./245262-tippy-train.json) |
@@ -26162,6 +26164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Two Point Hospital: Fancy Dress Pack | 223545 | [223545-two-point-hospital-fancy-dress-pack.json](./223545-two-point-hospital-fancy-dress-pack.json) |
 | Two Point Hospital: Jumbo Edition | 142815 | [142815-two-point-hospital-jumbo-edition.json](./142815-two-point-hospital-jumbo-edition.json) |
 | Two Point Hospital: Off the Grid | 131842 | [131842-two-point-hospital-off-the-grid.json](./131842-two-point-hospital-off-the-grid.json) |
+| Two Point Hospital: Pebberley Island | 116007 | [116007-two-point-hospital-pebberley-island.json](./116007-two-point-hospital-pebberley-island.json) |
 | Two Point Hospital: Retro Items Pack | 223543 | [223543-two-point-hospital-retro-items-pack.json](./223543-two-point-hospital-retro-items-pack.json) |
 | Two Point Hospital: Speedy Recovery | 193142 | [193142-two-point-hospital-speedy-recovery.json](./193142-two-point-hospital-speedy-recovery.json) |
 | Two Point Museum | 313595 | [313595-two-point-museum.json](./313595-two-point-museum.json) |
