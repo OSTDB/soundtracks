@@ -8646,6 +8646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Iron Union | 224716 | [224716-the-iron-union.json](./224716-the-iron-union.json) |
 | The Irony | 324952 | [324952-the-irony.json](./324952-the-irony.json) |
 | The Irregular at Magic High School Reloaded Memory | 174649 | [174649-the-irregular-at-magic-high-school-reloaded-memory.json](./174649-the-irregular-at-magic-high-school-reloaded-memory.json) |
+| The Island | 155934 | [155934-the-island.json](./155934-the-island.json) |
 | The Island | 184796 | [184796-the-island.json](./184796-the-island.json) |
 | The Island | 274188 | [274188-the-island.json](./274188-the-island.json) |
 | The Island | 287239 | [287239-the-island.json](./287239-the-island.json) |
@@ -15104,6 +15105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Their Finest Hour: The Battle of Britain | 208 | [208-their-finest-hour-the-battle-of-britain.json](./208-their-finest-hour-the-battle-of-britain.json) |
 | Their Majesties' Pleasure | 250993 | [250993-their-majesties-pleasure.json](./250993-their-majesties-pleasure.json) |
 | Their Navy Is Their Doom | 319138 | [319138-their-navy-is-their-doom.json](./319138-their-navy-is-their-doom.json) |
+| Their Radiance | 155939 | [155939-their-radiance.json](./155939-their-radiance.json) |
 | Their Story. | 404398 | [404398-their-story.json](./404398-their-story.json) |
 | TheLast.io | 125984 | [125984-thelast-io.json](./125984-thelast-io.json) |
 | TheLooppy | 83487 | [83487-thelooppy.json](./83487-thelooppy.json) |
@@ -24471,6 +24473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Troy: The Malware Fight | 156974 | [156974-troy-the-malware-fight.json](./156974-troy-the-malware-fight.json) |
 | TRT Bil Bakalım | 380637 | [380637-trt-bil-bakal-m.json](./380637-trt-bil-bakal-m.json) |
 | Tru Or Die: Chiraq | 280850 | [280850-tru-or-die-chiraq.json](./280850-tru-or-die-chiraq.json) |
+| Truants | 155931 | [155931-truants.json](./155931-truants.json) |
 | Truck | 298266 | [298266-truck.json](./298266-truck.json) |
 | Truck & Camping Collection | 328466 | [328466-truck-and-camping-collection.json](./328466-truck-and-camping-collection.json) |
 | Truck & Logistics Simulator | 129757 | [129757-truck-and-logistics-simulator.json](./129757-truck-and-logistics-simulator.json) |
