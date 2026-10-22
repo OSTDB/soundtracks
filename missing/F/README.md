@@ -6092,6 +6092,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flight Pilot Simulator: 3D Flying Games | 86792 | [86792-flight-pilot-simulator-3d-flying-games.json](./86792-flight-pilot-simulator-3d-flying-games.json) |
 | Flight Rising | 123023 | [123023-flight-rising.json](./123023-flight-rising.json) |
 | Flight Risk | 304624 | [304624-flight-risk.json](./304624-flight-risk.json) |
+| Flight Sim 18 | 106904 | [106904-flight-sim-18.json](./106904-flight-sim-18.json) |
+| Flight Sim 2018 | 106900 | [106900-flight-sim-2018.json](./106900-flight-sim-2018.json) |
 | Flight Sim 2019 | 147704 | [147704-flight-sim-2019.json](./147704-flight-sim-2019.json) |
 | Flight Sim World | 28453 | [28453-flight-sim-world.json](./28453-flight-sim-world.json) |
 | Flight Sims Air Cavalry Pilots | 175336 | [175336-flight-sims-air-cavalry-pilots.json](./175336-flight-sims-air-cavalry-pilots.json) |
@@ -6552,6 +6554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flowers and Deities | 350787 | [350787-flowers-and-deities.json](./350787-flowers-and-deities.json) |
 | Flowers Blooming at the End of Summer | 129727 | [129727-flowers-blooming-at-the-end-of-summer.json](./129727-flowers-blooming-at-the-end-of-summer.json) |
 | Flowers Bundle | 213328 | [213328-flowers-bundle.json](./213328-flowers-bundle.json) |
+| Flowers by Powgi | 106893 | [106893-flowers-by-powgi.json](./106893-flowers-by-powgi.json) |
 | Flowers for Time | 181191 | [181191-flowers-for-time.json](./181191-flowers-for-time.json) |
 | Flowers for You | 330895 | [330895-flowers-for-you.json](./330895-flowers-for-you.json) |
 | Flowers in Bloom | 146906 | [146906-flowers-in-bloom.json](./146906-flowers-in-bloom.json) |
@@ -9469,6 +9472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frog Bard | 338312 | [338312-frog-bard.json](./338312-frog-bard.json) |
 | Frog Bath | 132665 | [132665-frog-bath.json](./132665-frog-bath.json) |
 | Frog Bath Challenge | 413177 | [413177-frog-bath-challenge.json](./413177-frog-bath-challenge.json) |
+| Frog Blast: Tap Cube to Blast | 106915 | [106915-frog-blast-tap-cube-to-blast.json](./106915-frog-blast-tap-cube-to-blast.json) |
 | Frog Boaster | 305454 | [305454-frog-boaster.json](./305454-frog-boaster.json) |
 | Frog Boaster | 47256 | [47256-frog-boaster.json](./47256-frog-boaster.json) |
 | Frog Bog | 18553 | [18553-frog-bog.json](./18553-frog-bog.json) |
