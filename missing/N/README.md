@@ -5181,6 +5181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nordic Ashes: The Complete Saga | 366616 | [366616-nordic-ashes-the-complete-saga.json](./366616-nordic-ashes-the-complete-saga.json) |
 | Nordic Racing | 325908 | [325908-nordic-racing.json](./325908-nordic-racing.json) |
 | Nordic Storm Solitaire | 127682 | [127682-nordic-storm-solitaire.json](./127682-nordic-storm-solitaire.json) |
+| Nordic Warriors | 129419 | [129419-nordic-warriors.json](./129419-nordic-warriors.json) |
 | Nordicandia | 144947 | [144947-nordicandia.json](./144947-nordicandia.json) |
 | Nordland Mahjongg | 224419 | [224419-nordland-mahjongg.json](./224419-nordland-mahjongg.json) |
 | Nordlicht | 119776 | [119776-nordlicht.json](./119776-nordlicht.json) |
