@@ -1189,6 +1189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Papa's Wingeria | 130765 | [130765-papas-wingeria.json](./130765-papas-wingeria.json) |
 | Papair | 57148 | [57148-papair.json](./57148-papair.json) |
 | Papao: The Legend of the Bogeyman | 372544 | [372544-papao-the-legend-of-the-bogeyman.json](./372544-papao-the-legend-of-the-bogeyman.json) |
+| Paparazzi | 100038 | [100038-paparazzi.json](./100038-paparazzi.json) |
 | Paparazzi | 21550 | [21550-paparazzi.json](./21550-paparazzi.json) |
 | Paparazzi | 379586 | [379586-paparazzi.json](./379586-paparazzi.json) |
 | Papaya Plaza | 403774 | [403774-papaya-plaza.json](./403774-papaya-plaza.json) |
@@ -2798,6 +2799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PC Building Simulator: Fractal Workshop | 159688 | [159688-pc-building-simulator-fractal-workshop.json](./159688-pc-building-simulator-fractal-workshop.json) |
 | PC Building Simulator: Good Company Case | 124811 | [124811-pc-building-simulator-good-company-case.json](./124811-pc-building-simulator-good-company-case.json) |
 | PC Building Simulator: IT Expansion | 250032 | [250032-pc-building-simulator-it-expansion.json](./250032-pc-building-simulator-it-expansion.json) |
+| PC Calciatori 2005 | 100036 | [100036-pc-calciatori-2005.json](./100036-pc-calciatori-2005.json) |
 | PC Creator: PC Building Simulator | 186329 | [186329-pc-creator-pc-building-simulator.json](./186329-pc-creator-pc-building-simulator.json) |
 | PC Engine Best Collection: Tengai Makyou Collection | 62136 | [62136-pc-engine-best-collection-tengai-makyou-collection.json](./62136-pc-engine-best-collection-tengai-makyou-collection.json) |
 | PC Engine Game Box | 261908 | [261908-pc-engine-game-box.json](./261908-pc-engine-game-box.json) |
@@ -3636,6 +3638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Persona 3 Reload: Persona 5 Royal Shujin Academy Costume Set | 301572 | [301572-persona-3-reload-persona-5-royal-shujin-academy-costume-set.json](./301572-persona-3-reload-persona-5-royal-shujin-academy-costume-set.json) |
 | Persona 3: The Night Before | 71158 | [71158-persona-3-the-night-before.json](./71158-persona-3-the-night-before.json) |
 | Persona 4 Arena | 5650 | [5650-persona-4-arena.json](./5650-persona-4-arena.json) |
+| Persona 4 Arena: Ultimate Edition | 99948 | [99948-persona-4-arena-ultimate-edition.json](./99948-persona-4-arena-ultimate-edition.json) |
 | Persona 4 Colors | 242935 | [242935-persona-4-colors.json](./242935-persona-4-colors.json) |
 | Persona 4 Dancing All Night: Heaven featuring Hatsune Miku | 319167 | [319167-persona-4-dancing-all-night-heaven-featuring-hatsune-miku.json](./319167-persona-4-dancing-all-night-heaven-featuring-hatsune-miku.json) |
 | Persona 4 Golden | 234702 | [234702-persona-4-golden.json](./234702-persona-4-golden.json) |
@@ -14545,6 +14548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle: Ultimate - Puzzle Pack: Space | 163434 | [163434-puzzle-ultimate-puzzle-pack-space.json](./163434-puzzle-ultimate-puzzle-pack-space.json) |
 | Puzzle: Ultimate - Puzzle Pack: Valley | 163431 | [163431-puzzle-ultimate-puzzle-pack-valley.json](./163431-puzzle-ultimate-puzzle-pack-valley.json) |
 | Puzzle:Traditional Chinese Paintings | 108395 | [108395-puzzle-traditional-chinese-paintings.json](./108395-puzzle-traditional-chinese-paintings.json) |
+| Puzzle! Animals | 100025 | [100025-puzzle-animals.json](./100025-puzzle-animals.json) |
 | Puzzle! Mushihimetama | 66102 | [66102-puzzle-mushihimetama.json](./66102-puzzle-mushihimetama.json) |
 | Puzzlebot Challenge | 138794 | [138794-puzzlebot-challenge.json](./138794-puzzlebot-challenge.json) |
 | Puzzled | 100211 | [100211-puzzled.json](./100211-puzzled.json) |
