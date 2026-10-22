@@ -4459,6 +4459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iris: I'm Reflecting in the Silence | 413771 | [413771-iris-im-reflecting-in-the-silence.json](./413771-iris-im-reflecting-in-the-silence.json) |
 | Iris.Fall | 109129 | [109129-iris-fall.json](./109129-iris-fall.json) |
 | Iris's Adventure: Time Travel | 231941 | [231941-iriss-adventure-time-travel.json](./231941-iriss-adventure-time-travel.json) |
+| Irish Coffee | 142291 | [142291-irish-coffee.json](./142291-irish-coffee.json) |
 | IrisPlus | 110377 | [110377-irisplus.json](./110377-irisplus.json) |
 | Irisy Aqua | 342412 | [342412-irisy-aqua.json](./342412-irisy-aqua.json) |
 | Irium | 91889 | [91889-irium.json](./91889-irium.json) |
