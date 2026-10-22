@@ -8370,6 +8370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hotel: Floor 13 | 272576 | [272576-the-hotel-floor-13.json](./272576-the-hotel-floor-13.json) |
 | The Hound of Shadow | 12147 | [12147-the-hound-of-shadow.json](./12147-the-hound-of-shadow.json) |
 | The Hour Has Come | 110951 | [110951-the-hour-has-come.json](./110951-the-hour-has-come.json) |
+| The Hour of the Rat | 129444 | [129444-the-hour-of-the-rat.json](./129444-the-hour-of-the-rat.json) |
 | The House | 17440 | [17440-the-house.json](./17440-the-house.json) |
 | The House | 195921 | [195921-the-house.json](./195921-the-house.json) |
 | The House | 240315 | [240315-the-house.json](./240315-the-house.json) |
