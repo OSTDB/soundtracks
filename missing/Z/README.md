@@ -751,6 +751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zero Wrath Vendetta | 149322 | [149322-zero-wrath-vendetta.json](./149322-zero-wrath-vendetta.json) |
 | Zero Zero | 130361 | [130361-zero-zero.json](./130361-zero-zero.json) |
 | Zero Zero: Perfect Stop | 314997 | [314997-zero-zero-perfect-stop.json](./314997-zero-zero-perfect-stop.json) |
+| Zero Zion | 117357 | [117357-zero-zion.json](./117357-zero-zion.json) |
 | Zero Zone | 94692 | [94692-zero-zone.json](./94692-zero-zone.json) |
 | Zero-5 | 381933 | [381933-zero-5.json](./381933-zero-5.json) |
 | Zero-G Gunfight | 150931 | [150931-zero-g-gunfight.json](./150931-zero-g-gunfight.json) |
