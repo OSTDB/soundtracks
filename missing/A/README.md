@@ -839,6 +839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Show of Hands | 52563 | [52563-a-show-of-hands.json](./52563-a-show-of-hands.json) |
 | A Show of Kindness | 112465 | [112465-a-show-of-kindness.json](./112465-a-show-of-kindness.json) |
 | A show she never watched. | 395739 | [395739-a-show-she-never-watched.json](./395739-a-show-she-never-watched.json) |
+| A Shower Story | 153802 | [153802-a-shower-story.json](./153802-a-shower-story.json) |
 | A Silent Statue | 274939 | [274939-a-silent-statue.json](./274939-a-silent-statue.json) |
 | A Silent Wood | 61318 | [61318-a-silent-wood.json](./61318-a-silent-wood.json) |
 | A Silly Goofy Dream 2 | 253477 | [253477-a-silly-goofy-dream-2.json](./253477-a-silly-goofy-dream-2.json) |
@@ -920,6 +921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Story Told By The Stars | 294867 | [294867-a-story-told-by-the-stars.json](./294867-a-story-told-by-the-stars.json) |
 | A Stranded Spark | 304676 | [304676-a-stranded-spark.json](./304676-a-stranded-spark.json) |
 | A Strange City | 148280 | [148280-a-strange-city.json](./148280-a-strange-city.json) |
+| A Strange Hotel | 153773 | [153773-a-strange-hotel.json](./153773-a-strange-hotel.json) |
 | A Street Cat's Tale 2: Out side is Dangerous | 250774 | [250774-a-street-cats-tale-2-out-side-is-dangerous.json](./250774-a-street-cats-tale-2-out-side-is-dangerous.json) |
 | A Study in Blue | 386249 | [386249-a-study-in-blue.json](./386249-a-study-in-blue.json) |
 | A Study in Steampunk: Choice by Gaslight | 34030 | [34030-a-study-in-steampunk-choice-by-gaslight.json](./34030-a-study-in-steampunk-choice-by-gaslight.json) |
@@ -6579,6 +6581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amnea28: Two Eternities | 291461 | [291461-amnea28-two-eternities.json](./291461-amnea28-two-eternities.json) |
 | Amneron's Legacy | 152152 | [152152-amnerons-legacy.json](./152152-amnerons-legacy.json) |
 | Amnesia | 14436 | [14436-amnesia.json](./14436-amnesia.json) |
+| Amnesia | 153784 | [153784-amnesia.json](./153784-amnesia.json) |
 | Amnesia Crowd | 62754 | [62754-amnesia-crowd.json](./62754-amnesia-crowd.json) |
 | Amnesia for Nintendo Switch | 136829 | [136829-amnesia-for-nintendo-switch.json](./136829-amnesia-for-nintendo-switch.json) |
 | Amnesia Later | 62753 | [62753-amnesia-later.json](./62753-amnesia-later.json) |
@@ -9005,6 +9008,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aquametsis | 278427 | [278427-aquametsis.json](./278427-aquametsis.json) |
 | AquaMoto Racing 3D | 23521 | [23521-aquamoto-racing-3d.json](./23521-aquamoto-racing-3d.json) |
 | Aquanaut | 14168 | [14168-aquanaut.json](./14168-aquanaut.json) |
+| Aquanaut | 153788 | [153788-aquanaut.json](./153788-aquanaut.json) |
+| Aquanaut | 153790 | [153790-aquanaut.json](./153790-aquanaut.json) |
 | Aquanaut | 297657 | [297657-aquanaut.json](./297657-aquanaut.json) |
 | Aquanaut | 83910 | [83910-aquanaut.json](./83910-aquanaut.json) |
 | Aquanaut's Holiday | 20589 | [20589-aquanauts-holiday.json](./20589-aquanauts-holiday.json) |
@@ -9138,6 +9143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arachnophilia | 385926 | [385926-arachnophilia.json](./385926-arachnophilia.json) |
 | ArachnoSplat | 126406 | [126406-arachnosplat.json](./126406-arachnosplat.json) |
 | Arachnotron | 184818 | [184818-arachnotron.json](./184818-arachnotron.json) |
+| Arachnowopunk | 153787 | [153787-arachnowopunk.json](./153787-arachnowopunk.json) |
 | Aracnidium | 193462 | [193462-aracnidium.json](./193462-aracnidium.json) |
 | Aracore Astromining Ventures | 337661 | [337661-aracore-astromining-ventures.json](./337661-aracore-astromining-ventures.json) |
 | Aradena: Battlegrounds | 266121 | [266121-aradena-battlegrounds.json](./266121-aradena-battlegrounds.json) |
