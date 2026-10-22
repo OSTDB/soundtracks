@@ -160,6 +160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Objects in Space | 19088 | [19088-objects-in-space.json](./19088-objects-in-space.json) |
 | Oblako | 394373 | [394373-oblako.json](./394373-oblako.json) |
 | Oblation | 253886 | [253886-oblation.json](./253886-oblation.json) |
+| Obligation | 126248 | [126248-obligation.json](./126248-obligation.json) |
 | Oblige | 178964 | [178964-oblige.json](./178964-oblige.json) |
 | Oblige of Chaos | 212964 | [212964-oblige-of-chaos.json](./212964-oblige-of-chaos.json) |
 | Oblin Party | 280294 | [280294-oblin-party.json](./280294-oblin-party.json) |
@@ -3244,6 +3245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Origami Angel: Feeling Not Found | 319139 | [319139-origami-angel-feeling-not-found.json](./319139-origami-angel-feeling-not-found.json) |
 | Origami Flight | 112726 | [112726-origami-flight.json](./112726-origami-flight.json) |
 | Origami Lovers | 262826 | [262826-origami-lovers.json](./262826-origami-lovers.json) |
+| Origami Ninja Star | 126242 | [126242-origami-ninja-star.json](./126242-origami-ninja-star.json) |
 | Origami Paradise | 227478 | [227478-origami-paradise.json](./227478-origami-paradise.json) |
 | Origami Solutions | 281466 | [281466-origami-solutions.json](./281466-origami-solutions.json) |
 | Origami Treasure | 289435 | [289435-origami-treasure.json](./289435-origami-treasure.json) |
