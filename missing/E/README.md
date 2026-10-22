@@ -861,6 +861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ecotone | 19008 | [19008-ecotone.json](./19008-ecotone.json) |
 | Ecrazeus Castle | 389401 | [389401-ecrazeus-castle.json](./389401-ecrazeus-castle.json) |
 | eCrew Development Program | 141196 | [141196-ecrew-development-program.json](./141196-ecrew-development-program.json) |
+| eCrossminton | 116035 | [116035-ecrossminton.json](./116035-ecrossminton.json) |
 | Ecstasy / Light / Inertia | 256908 | [256908-ecstasy-light-inertia.json](./256908-ecstasy-light-inertia.json) |
 | Ecstatic | 204546 | [204546-ecstatic.json](./204546-ecstatic.json) |
 | Ecstatica | 414857 | [414857-ecstatica.json](./414857-ecstatica.json) |
@@ -1239,6 +1240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eggerland Mystery | 41807 | [41807-eggerland-mystery.json](./41807-eggerland-mystery.json) |
 | Eggerland: Meikyuu no Fukkatsu | 48510 | [48510-eggerland-meikyuu-no-fukkatsu.json](./48510-eggerland-meikyuu-no-fukkatsu.json) |
 | Eggerland: Souzou he no Tabidachi | 41338 | [41338-eggerland-souzou-he-no-tabidachi.json](./41338-eggerland-souzou-he-no-tabidachi.json) |
+| EggFight | 116073 | [116073-eggfight.json](./116073-eggfight.json) |
 | EggGarden | 349402 | [349402-egggarden.json](./349402-egggarden.json) |
 | Eggggg | 24074 | [24074-eggggg.json](./24074-eggggg.json) |
 | Egghead Gumpty | 210852 | [210852-egghead-gumpty.json](./210852-egghead-gumpty.json) |
@@ -1850,6 +1852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elemix! | 254998 | [254998-elemix.json](./254998-elemix.json) |
 | Elena's Journal: To Atlantis | 247960 | [247960-elenas-journal-to-atlantis.json](./247960-elenas-journal-to-atlantis.json) |
 | Elena's Journal: Unfinished Expedition | 207789 | [207789-elenas-journal-unfinished-expedition.json](./207789-elenas-journal-unfinished-expedition.json) |
+| Elendia Ceus | 116054 | [116054-elendia-ceus.json](./116054-elendia-ceus.json) |
 | ElePaperAction | 295623 | [295623-elepaperaction.json](./295623-elepaperaction.json) |
 | ElePass: Only Elephants Can Unlock the Passcode | 317855 | [317855-elepass-only-elephants-can-unlock-the-passcode.json](./317855-elepass-only-elephants-can-unlock-the-passcode.json) |
 | Elephant Express VR | 30191 | [30191-elephant-express-vr.json](./30191-elephant-express-vr.json) |
@@ -3459,6 +3462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epic Heroes Battle Royal | 123271 | [123271-epic-heroes-battle-royal.json](./123271-epic-heroes-battle-royal.json) |
 | Epic Ice Cream | 421791 | [421791-epic-ice-cream.json](./421791-epic-ice-cream.json) |
 | Epic Idle Quest | 96187 | [96187-epic-idle-quest.json](./96187-epic-idle-quest.json) |
+| Epic Journey: Dragon Land & Legend Thrones | 116025 | [116025-epic-journey-dragon-land-and-legend-thrones.json](./116025-epic-journey-dragon-land-and-legend-thrones.json) |
 | Epic Jump! | 204838 | [204838-epic-jump.json](./204838-epic-jump.json) |
 | Epic Knight 2 | 253420 | [253420-epic-knight-2.json](./253420-epic-knight-2.json) |
 | Epic Landscapes Jigsaw | 354404 | [354404-epic-landscapes-jigsaw.json](./354404-epic-landscapes-jigsaw.json) |
