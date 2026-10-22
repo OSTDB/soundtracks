@@ -188,6 +188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sabotage Will Set Us Free | 181376 | [181376-sabotage-will-set-us-free.json](./181376-sabotage-will-set-us-free.json) |
 | Saboten Bombers | 40417 | [40417-saboten-bombers.json](./40417-saboten-bombers.json) |
 | Saboteur | 192134 | [192134-saboteur.json](./192134-saboteur.json) |
+| Saboteur SiO | 147702 | [147702-saboteur-sio.json](./147702-saboteur-sio.json) |
 | Saboteur! | 112670 | [112670-saboteur.json](./112670-saboteur.json) |
 | Saboteur! | 26354 | [26354-saboteur.json](./26354-saboteur.json) |
 | Sabotris | 207293 | [207293-sabotris.json](./207293-sabotris.json) |
@@ -2039,6 +2040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scan Hunter | 49788 | [49788-scan-hunter.json](./49788-scan-hunter.json) |
 | Scan Hunter: Sen-nen Kaigyo wo Oe! | 56528 | [56528-scan-hunter-sen-nen-kaigyo-wo-oe.json](./56528-scan-hunter-sen-nen-kaigyo-wo-oe.json) |
 | Scandal | 65027 | [65027-scandal.json](./65027-scandal.json) |
+| Scandal in the Spotlight | 147693 | [147693-scandal-in-the-spotlight.json](./147693-scandal-in-the-spotlight.json) |
 | Scandinavian Cottage Survival Simulator | 360000 | [360000-scandinavian-cottage-survival-simulator.json](./360000-scandinavian-cottage-survival-simulator.json) |
 | Scanline | 180810 | [180810-scanline.json](./180810-scanline.json) |
 | Scanner Force | 402269 | [402269-scanner-force.json](./402269-scanner-force.json) |
@@ -3346,6 +3348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Season's Beatings | 76350 | [76350-seasons-beatings.json](./76350-seasons-beatings.json) |
 | Season's Greetings from The Smoke Room Team! | 186013 | [186013-seasons-greetings-from-the-smoke-room-team.json](./186013-seasons-greetings-from-the-smoke-room-team.json) |
 | Seasonal Affectiveness Disorder | 260789 | [260789-seasonal-affectiveness-disorder.json](./260789-seasonal-affectiveness-disorder.json) |
+| Seasonal Assistant | 147731 | [147731-seasonal-assistant.json](./147731-seasonal-assistant.json) |
 | Seasonal Bloom | 369908 | [369908-seasonal-bloom.json](./369908-seasonal-bloom.json) |
 | Seasonal Soccer | 90188 | [90188-seasonal-soccer.json](./90188-seasonal-soccer.json) |
 | Seasonaut | 384671 | [384671-seasonaut.json](./384671-seasonaut.json) |
@@ -11117,6 +11120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smile Town | 397229 | [397229-smile-town.json](./397229-smile-town.json) |
 | Smile-X 4 | 301125 | [301125-smile-x-4.json](./301125-smile-x-4.json) |
 | Smile, you're being filmed together | 330750 | [330750-smile-youre-being-filmed-together.json](./330750-smile-youre-being-filmed-together.json) |
+| SmileBasic 4 | 147701 | [147701-smilebasic-4.json](./147701-smilebasic-4.json) |
 | Smilemo | 201096 | [201096-smilemo.json](./201096-smilemo.json) |
 | Smiles Incorporated | 176285 | [176285-smiles-incorporated.json](./176285-smiles-incorporated.json) |
 | SmileTris 2 | 70967 | [70967-smiletris-2.json](./70967-smiletris-2.json) |
@@ -20453,6 +20457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stencil Art | 147621 | [147621-stencil-art.json](./147621-stencil-art.json) |
 | Stendhal | 176198 | [176198-stendhal.json](./176198-stendhal.json) |
 | Steno Arcade | 33369 | [33369-steno-arcade.json](./33369-steno-arcade.json) |
+| Steos: Sorrow Song of Bounty Hunter | 147843 | [147843-steos-sorrow-song-of-bounty-hunter.json](./147843-steos-sorrow-song-of-bounty-hunter.json) |
 | Step | 179436 | [179436-step.json](./179436-step.json) |
 | Step | 360115 | [360115-step.json](./360115-step.json) |
 | Step 'N Smush | 404791 | [404791-step-n-smush.json](./404791-step-n-smush.json) |
