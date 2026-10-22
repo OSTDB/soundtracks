@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-22T05:04:23.134Z",
-  "total_missing": 245130,
+  "generated_at": "2026-10-22T05:19:09.701Z",
+  "total_missing": 245180,
   "games": [
     {
       "igdb_id": 191680,
@@ -59787,6 +59787,11 @@
       "file": "missing/A/99168-arcade-archives-10-yard-fight.json"
     },
     {
+      "igdb_id": 144662,
+      "game_name": "Arcade Archives: 64th. Street",
+      "file": "missing/A/144662-arcade-archives-64th-street.json"
+    },
+    {
       "igdb_id": 99563,
       "game_name": "Arcade Archives: A-Jax",
       "file": "missing/A/99563-arcade-archives-a-jax.json"
@@ -59810,6 +59815,11 @@
       "igdb_id": 361237,
       "game_name": "Arcade Archives: Aqua Jet",
       "file": "missing/A/361237-arcade-archives-aqua-jet.json"
+    },
+    {
+      "igdb_id": 144673,
+      "game_name": "Arcade Archives: Arabian",
+      "file": "missing/A/144673-arcade-archives-arabian.json"
     },
     {
       "igdb_id": 121425,
@@ -68535,6 +68545,11 @@
       "igdb_id": 269991,
       "game_name": "Arthur's Birthday",
       "file": "missing/A/269991-arthurs-birthday.json"
+    },
+    {
+      "igdb_id": 144668,
+      "game_name": "Arthur's Camping Adventure",
+      "file": "missing/A/144668-arthurs-camping-adventure.json"
     },
     {
       "igdb_id": 270029,
@@ -80395,6 +80410,11 @@
       "igdb_id": 303016,
       "game_name": "Avalis Dungeon: Chapter 3",
       "file": "missing/A/303016-avalis-dungeon-chapter-3.json"
+    },
+    {
+      "igdb_id": 144671,
+      "game_name": "Avalom: Ancestral Heroes",
+      "file": "missing/A/144671-avalom-ancestral-heroes.json"
     },
     {
       "igdb_id": 229775,
@@ -131162,6 +131182,16 @@
       "file": "missing/B/206564-bokura-no-ninja-world.json"
     },
     {
+      "igdb_id": 144664,
+      "game_name": "Bokura no School Battle",
+      "file": "missing/B/144664-bokura-no-school-battle.json"
+    },
+    {
+      "igdb_id": 144667,
+      "game_name": "Bokura no School Battle + Sport Set",
+      "file": "missing/B/144667-bokura-no-school-battle-sport-set.json"
+    },
+    {
       "igdb_id": 69296,
       "game_name": "Bokura no Terebi Game Kentei",
       "file": "missing/B/69296-bokura-no-terebi-game-kentei.json"
@@ -132515,6 +132545,11 @@
       "igdb_id": 319762,
       "game_name": "Bonaparte: A Mechanized Revolution",
       "file": "missing/B/319762-bonaparte-a-mechanized-revolution.json"
+    },
+    {
+      "igdb_id": 144831,
+      "game_name": "Bonaparte's Peninsular War",
+      "file": "missing/B/144831-bonapartes-peninsular-war.json"
     },
     {
       "igdb_id": 74482,
@@ -149892,6 +149927,11 @@
       "file": "missing/B/31401-bullets-and-more-vr-bam-vr.json"
     },
     {
+      "igdb_id": 144819,
+      "game_name": "Bullets Are Fatal!",
+      "file": "missing/B/144819-bullets-are-fatal.json"
+    },
+    {
       "igdb_id": 106626,
       "game_name": "Bullets in the Space",
       "file": "missing/B/106626-bullets-in-the-space.json"
@@ -158517,9 +158557,29 @@
       "file": "missing/C/246322-campaign.json"
     },
     {
+      "igdb_id": 144833,
+      "game_name": "Campaign 1814",
+      "file": "missing/C/144833-campaign-1814.json"
+    },
+    {
       "igdb_id": 182260,
       "game_name": "Campaign Antietam",
       "file": "missing/C/182260-campaign-antietam.json"
+    },
+    {
+      "igdb_id": 144835,
+      "game_name": "Campaign Austerlitz",
+      "file": "missing/C/144835-campaign-austerlitz.json"
+    },
+    {
+      "igdb_id": 144832,
+      "game_name": "Campaign Bautzen",
+      "file": "missing/C/144832-campaign-bautzen.json"
+    },
+    {
+      "igdb_id": 144829,
+      "game_name": "Campaign Eylau-Friedland",
+      "file": "missing/C/144829-campaign-eylau-friedland.json"
     },
     {
       "igdb_id": 182261,
@@ -158537,9 +158597,24 @@
       "file": "missing/C/72048-campaign-including-25-extra-missions.json"
     },
     {
+      "igdb_id": 144836,
+      "game_name": "Campaign Jena-Auerstedt",
+      "file": "missing/C/144836-campaign-jena-auerstedt.json"
+    },
+    {
+      "igdb_id": 144834,
+      "game_name": "Campaign Leipzig",
+      "file": "missing/C/144834-campaign-leipzig.json"
+    },
+    {
       "igdb_id": 94882,
       "game_name": "Campaign Manager: An Election Simulator",
       "file": "missing/C/94882-campaign-manager-an-election-simulator.json"
+    },
+    {
+      "igdb_id": 144830,
+      "game_name": "Campaign Marengo",
+      "file": "missing/C/144830-campaign-marengo.json"
     },
     {
       "igdb_id": 135885,
@@ -158560,6 +158635,11 @@
       "igdb_id": 309186,
       "game_name": "Campaign Trail",
       "file": "missing/C/309186-campaign-trail.json"
+    },
+    {
+      "igdb_id": 144837,
+      "game_name": "Campaign Waterloo",
+      "file": "missing/C/144837-campaign-waterloo.json"
     },
     {
       "igdb_id": 73730,
@@ -183995,6 +184075,11 @@
       "igdb_id": 151684,
       "game_name": "Choju Yokai Giga",
       "file": "missing/C/151684-choju-yokai-giga.json"
+    },
+    {
+      "igdb_id": 144646,
+      "game_name": "Choker: Chess & Poker",
+      "file": "missing/C/144646-choker-chess-and-poker.json"
     },
     {
       "igdb_id": 279117,
@@ -217252,6 +217337,11 @@
       "file": "missing/C/174683-crashmetal.json"
     },
     {
+      "igdb_id": 144661,
+      "game_name": "CrashMetal: Cyberpunk",
+      "file": "missing/C/144661-crashmetal-cyberpunk.json"
+    },
+    {
       "igdb_id": 213805,
       "game_name": "CrashMetal: Drift Racing Car Driving Simulator",
       "file": "missing/C/213805-crashmetal-drift-racing-car-driving-simulator.json"
@@ -218555,6 +218645,11 @@
       "igdb_id": 57615,
       "game_name": "Crazy Kickers",
       "file": "missing/C/57615-crazy-kickers.json"
+    },
+    {
+      "igdb_id": 144678,
+      "game_name": "Crazy Killer",
+      "file": "missing/C/144678-crazy-killer.json"
     },
     {
       "igdb_id": 114734,
@@ -236620,6 +236715,11 @@
       "igdb_id": 310558,
       "game_name": "Dakota Winchester's Adventures 3",
       "file": "missing/D/310558-dakota-winchesters-adventures-3.json"
+    },
+    {
+      "igdb_id": 144655,
+      "game_name": "Dakpo",
+      "file": "missing/D/144655-dakpo.json"
     },
     {
       "igdb_id": 292768,
@@ -261687,6 +261787,11 @@
       "file": "missing/D/343843-desecration.json"
     },
     {
+      "igdb_id": 144823,
+      "game_name": "Desecrators",
+      "file": "missing/D/144823-desecrators.json"
+    },
+    {
       "igdb_id": 290092,
       "game_name": "Desenho Livre",
       "file": "missing/D/290092-desenho-livre.json"
@@ -285990,6 +286095,11 @@
       "igdb_id": 349424,
       "game_name": "Doraemon: Nobita to Tetsu-jin Heidan",
       "file": "missing/D/349424-doraemon-nobita-to-tetsu-jin-heidan.json"
+    },
+    {
+      "igdb_id": 144660,
+      "game_name": "Doraemon: Nobita's Resident Evil",
+      "file": "missing/D/144660-doraemon-nobitas-resident-evil.json"
     },
     {
       "igdb_id": 238417,
@@ -329302,6 +329412,11 @@
       "file": "missing/E/31903-escape-lizards.json"
     },
     {
+      "igdb_id": 144824,
+      "game_name": "Escape Machine City: Airborne",
+      "file": "missing/E/144824-escape-machine-city-airborne.json"
+    },
+    {
       "igdb_id": 26823,
       "game_name": "Escape Machines",
       "file": "missing/E/26823-escape-machines.json"
@@ -338945,6 +339060,11 @@
       "igdb_id": 13653,
       "game_name": "Explorer",
       "file": "missing/E/13653-explorer.json"
+    },
+    {
+      "igdb_id": 144648,
+      "game_name": "Explorer of Yggdrasil",
+      "file": "missing/E/144648-explorer-of-yggdrasil.json"
     },
     {
       "igdb_id": 297925,
@@ -363622,6 +363742,11 @@
       "file": "missing/F/273926-fire-emblem-the-lonely-mirror.json"
     },
     {
+      "igdb_id": 144674,
+      "game_name": "Fire Emblem: The Road to Ruin",
+      "file": "missing/F/144674-fire-emblem-the-road-to-ruin.json"
+    },
+    {
       "igdb_id": 140873,
       "game_name": "Fire Emblem: The Sun God's Wrath",
       "file": "missing/F/140873-fire-emblem-the-sun-gods-wrath.json"
@@ -385880,6 +386005,11 @@
       "igdb_id": 318188,
       "game_name": "Freeway Fury: Annihilation",
       "file": "missing/F/318188-freeway-fury-annihilation.json"
+    },
+    {
+      "igdb_id": 144658,
+      "game_name": "Freeway Mutant",
+      "file": "missing/F/144658-freeway-mutant.json"
     },
     {
       "igdb_id": 68281,
@@ -438262,6 +438392,11 @@
       "file": "missing/G/149914-gurobu.json"
     },
     {
+      "igdb_id": 144820,
+      "game_name": "Guroku",
+      "file": "missing/G/144820-guroku.json"
+    },
+    {
       "igdb_id": 237373,
       "game_name": "Guroku Rainbow",
       "file": "missing/G/237373-guroku-rainbow.json"
@@ -477772,6 +477907,11 @@
       "file": "missing/H/330256-horizon-walker.json"
     },
     {
+      "igdb_id": 144650,
+      "game_name": "Horizon Worlds",
+      "file": "missing/H/144650-horizon-worlds.json"
+    },
+    {
       "igdb_id": 57645,
       "game_name": "Horizon X",
       "file": "missing/H/57645-horizon-x.json"
@@ -500065,6 +500205,11 @@
       "igdb_id": 184896,
       "game_name": "In the Cards",
       "file": "missing/I/184896-in-the-cards.json"
+    },
+    {
+      "igdb_id": 144683,
+      "game_name": "In the Crags",
+      "file": "missing/I/144683-in-the-crags.json"
     },
     {
       "igdb_id": 327429,
@@ -535297,6 +535442,11 @@
       "file": "missing/K/332262-kapih.json"
     },
     {
+      "igdb_id": 144827,
+      "game_name": "Kapital: Sparks of Revolution",
+      "file": "missing/K/144827-kapital-sparks-of-revolution.json"
+    },
+    {
       "igdb_id": 199299,
       "game_name": "Kapital13",
       "file": "missing/K/199299-kapital13.json"
@@ -567592,6 +567742,11 @@
       "file": "missing/L/388174-legends-of-arthengard.json"
     },
     {
+      "igdb_id": 144659,
+      "game_name": "Legends of Astravia",
+      "file": "missing/L/144659-legends-of-astravia.json"
+    },
+    {
       "igdb_id": 174337,
       "game_name": "Legends of Atlantis: Exodus Premium",
       "file": "missing/L/174337-legends-of-atlantis-exodus-premium.json"
@@ -577350,6 +577505,11 @@
       "igdb_id": 380661,
       "game_name": "Line Up!",
       "file": "missing/L/380661-line-up.json"
+    },
+    {
+      "igdb_id": 144669,
+      "game_name": "Line War",
+      "file": "missing/L/144669-line-war.json"
     },
     {
       "igdb_id": 219119,
@@ -587402,6 +587562,11 @@
       "file": "missing/L/113169-lost-city-of-vampires.json"
     },
     {
+      "igdb_id": 144677,
+      "game_name": "Lost Civilization",
+      "file": "missing/L/144677-lost-civilization.json"
+    },
+    {
       "igdb_id": 262991,
       "game_name": "Lost Civilization 2",
       "file": "missing/L/262991-lost-civilization-2.json"
@@ -596482,6 +596647,11 @@
       "file": "missing/M/200511-m87.json"
     },
     {
+      "igdb_id": 144681,
+      "game_name": "Ma Pension d'Animaux: Bébés Câlins",
+      "file": "missing/M/144681-ma-pension-danimaux-bebes-calins.json"
+    },
+    {
       "igdb_id": 345578,
       "game_name": "Ma première visite à la tour du sens",
       "file": "missing/M/345578-ma-premiere-visite-a-la-tour-du-sens.json"
@@ -605120,6 +605290,11 @@
       "igdb_id": 413181,
       "game_name": "Majo",
       "file": "missing/M/413181-majo.json"
+    },
+    {
+      "igdb_id": 144670,
+      "game_name": "Majo Koi Nikki Dragon x Caravan",
+      "file": "missing/M/144670-majo-koi-nikki-dragon-x-caravan.json"
     },
     {
       "igdb_id": 398013,
@@ -683852,6 +684027,11 @@
       "file": "missing/N/23989-napoleons-campaigns-1813-and-1815.json"
     },
     {
+      "igdb_id": 144838,
+      "game_name": "Napoleon's Russian Campaign",
+      "file": "missing/N/144838-napoleons-russian-campaign.json"
+    },
+    {
       "igdb_id": 182272,
       "game_name": "Napoleonic Battles: The Final Struggle",
       "file": "missing/N/182272-napoleonic-battles-the-final-struggle.json"
@@ -716997,6 +717177,11 @@
       "file": "missing/O/65265-oil-platform-simulator.json"
     },
     {
+      "igdb_id": 144680,
+      "game_name": "Oil Platform Simulator 2013",
+      "file": "missing/O/144680-oil-platform-simulator-2013.json"
+    },
+    {
       "igdb_id": 344242,
       "game_name": "Oil Refinery: The Simulation",
       "file": "missing/O/344242-oil-refinery-the-simulation.json"
@@ -728612,6 +728797,11 @@
       "file": "missing/O/401774-orpheus-echo-of-hades.json"
     },
     {
+      "igdb_id": 144654,
+      "game_name": "Orpheus: Fall For Eurydice",
+      "file": "missing/O/144654-orpheus-fall-for-eurydice.json"
+    },
+    {
       "igdb_id": 258095,
       "game_name": "Orpheus: Tale of a Lover",
       "file": "missing/O/258095-orpheus-tale-of-a-lover.json"
@@ -732400,6 +732590,11 @@
       "igdb_id": 245906,
       "game_name": "Outlaw Kingdom",
       "file": "missing/O/245906-outlaw-kingdom.json"
+    },
+    {
+      "igdb_id": 144675,
+      "game_name": "Outlaw Mayor Panic",
+      "file": "missing/O/144675-outlaw-mayor-panic.json"
     },
     {
       "igdb_id": 47085,
@@ -755507,6 +755702,11 @@
       "file": "missing/P/99779-phantom-breaker-battle-grounds-over-drive.json"
     },
     {
+      "igdb_id": 144653,
+      "game_name": "Phantom Breaker: Another Code",
+      "file": "missing/P/144653-phantom-breaker-another-code.json"
+    },
+    {
       "igdb_id": 11324,
       "game_name": "Phantom Breaker: Battle Grounds",
       "file": "missing/P/11324-phantom-breaker-battle-grounds.json"
@@ -775632,6 +775832,11 @@
       "file": "missing/P/107659-pocoyo-memo-game.json"
     },
     {
+      "igdb_id": 144821,
+      "game_name": "Pocoyo Party",
+      "file": "missing/P/144821-pocoyo-party.json"
+    },
+    {
       "igdb_id": 50939,
       "game_name": "Pocoyo Racing",
       "file": "missing/P/50939-pocoyo-racing.json"
@@ -784065,6 +784270,11 @@
       "igdb_id": 43802,
       "game_name": "Pop'n Tanks",
       "file": "missing/P/43802-popn-tanks.json"
+    },
+    {
+      "igdb_id": 144657,
+      "game_name": "Pop'n TwinBee",
+      "file": "missing/P/144657-popn-twinbee.json"
     },
     {
       "igdb_id": 42473,
@@ -832392,6 +832602,11 @@
       "file": "missing/R/311815-remix-encore.json"
     },
     {
+      "igdb_id": 144676,
+      "game_name": "Remnant",
+      "file": "missing/R/144676-remnant.json"
+    },
+    {
       "igdb_id": 373001,
       "game_name": "Remnant Frontier: Survival",
       "file": "missing/R/373001-remnant-frontier-survival.json"
@@ -833670,6 +833885,11 @@
       "igdb_id": 10236,
       "game_name": "Republic: The Revolution",
       "file": "missing/R/10236-republic-the-revolution.json"
+    },
+    {
+      "igdb_id": 144826,
+      "game_name": "Republican Bayonets on the Rhine",
+      "file": "missing/R/144826-republican-bayonets-on-the-rhine.json"
     },
     {
       "igdb_id": 159154,
@@ -839415,6 +839635,11 @@
       "igdb_id": 34677,
       "game_name": "Rflex",
       "file": "missing/R/34677-rflex.json"
+    },
+    {
+      "igdb_id": 144649,
+      "game_name": "RFS: Real Flight Simulator",
+      "file": "missing/R/144649-rfs-real-flight-simulator.json"
     },
     {
       "igdb_id": 189989,
@@ -992227,6 +992452,11 @@
       "file": "missing/S/299566-super-sunburnt-siesta-snoozer.json"
     },
     {
+      "igdb_id": 144822,
+      "game_name": "Super Sunny Island",
+      "file": "missing/S/144822-super-sunny-island.json"
+    },
+    {
       "igdb_id": 324695,
       "game_name": "Super Sunny World",
       "file": "missing/S/324695-super-sunny-world.json"
@@ -1099982,6 +1100212,11 @@
       "file": "missing/T/84488-tokyo-ogre-gate.json"
     },
     {
+      "igdb_id": 144684,
+      "game_name": "Tokyo Onmyouji: Tengenjibashi Rei no Baai - V Edition",
+      "file": "missing/T/144684-tokyo-onmyouji-tengenjibashi-rei-no-baai-v-edition.json"
+    },
+    {
       "igdb_id": 48877,
       "game_name": "Tokyo Pachi-Slot Adventure",
       "file": "missing/T/48877-tokyo-pachi-slot-adventure.json"
@@ -1128755,6 +1128990,11 @@
       "igdb_id": 280469,
       "game_name": "Tsukodome",
       "file": "missing/T/280469-tsukodome.json"
+    },
+    {
+      "igdb_id": 144666,
+      "game_name": "Tsukue de Dodgeball",
+      "file": "missing/T/144666-tsukue-de-dodgeball.json"
     },
     {
       "igdb_id": 394163,
@@ -1179172,6 +1179412,11 @@
       "file": "missing/W/240082-well.json"
     },
     {
+      "igdb_id": 144828,
+      "game_name": "Wellington's Peninsular Campaign",
+      "file": "missing/W/144828-wellingtons-peninsular-campaign.json"
+    },
+    {
       "igdb_id": 106728,
       "game_name": "Wellington's Victory",
       "file": "missing/W/106728-wellingtons-victory.json"
@@ -1220110,6 +1220355,11 @@
       "igdb_id": 118208,
       "game_name": "ZIC: Zombies in City",
       "file": "missing/Z/118208-zic-zombies-in-city.json"
+    },
+    {
+      "igdb_id": 144652,
+      "game_name": "Zidane: Football Generation",
+      "file": "missing/Z/144652-zidane-football-generation.json"
     },
     {
       "igdb_id": 49351,
