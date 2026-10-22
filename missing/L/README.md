@@ -6099,6 +6099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lorn Vale | 305172 | [305172-lorn-vale.json](./305172-lorn-vale.json) |
 | Lorn's Lure: Danny's Song | 321662 | [321662-lorns-lure-dannys-song.json](./321662-lorns-lure-dannys-song.json) |
 | Lorne | 235754 | [235754-lorne.json](./235754-lorne.json) |
+| Lornsword Winter Chronicle | 117358 | [117358-lornsword-winter-chronicle.json](./117358-lornsword-winter-chronicle.json) |
 | Lort | 345444 | [345444-lort.json](./345444-lort.json) |
 | Los Angeles 1985 | 358306 | [358306-los-angeles-1985.json](./358306-los-angeles-1985.json) |
 | Los Angeles SWAT | 13012 | [13012-los-angeles-swat.json](./13012-los-angeles-swat.json) |
