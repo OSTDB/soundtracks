@@ -663,6 +663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I'm Struggling | 375936 | [375936-im-struggling.json](./375936-im-struggling.json) |
 | I'm Surrounded by Classical Beauties! | 296998 | [296998-im-surrounded-by-classical-beauties.json](./296998-im-surrounded-by-classical-beauties.json) |
 | I'm the dirt-for art | 120948 | [120948-im-the-dirt-for-art.json](./120948-im-the-dirt-for-art.json) |
+| I'm the Koala | 111399 | [111399-im-the-koala.json](./111399-im-the-koala.json) |
 | I'm the Master of 3 Cute Maids | 218632 | [218632-im-the-master-of-3-cute-maids.json](./218632-im-the-master-of-3-cute-maids.json) |
 | I'm the Policeman | 278704 | [278704-im-the-policeman.json](./278704-im-the-policeman.json) |
 | I'm Titanium | 51497 | [51497-im-titanium.json](./51497-im-titanium.json) |
@@ -5182,6 +5183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It's A Me | 202391 | [202391-its-a-me.json](./202391-its-a-me.json) |
 | It's A Promise | 225513 | [225513-its-a-promise.json](./225513-its-a-promise.json) |
 | It's A Racing Game | 109427 | [109427-its-a-racing-game.json](./109427-its-a-racing-game.json) |
+| It's a Trap | 111380 | [111380-its-a-trap.json](./111380-its-a-trap.json) |
 | It's A Wipe! | 17982 | [17982-its-a-wipe.json](./17982-its-a-wipe.json) |
 | It's a Wrap! | 167573 | [167573-its-a-wrap.json](./167573-its-a-wrap.json) |
 | It's About the Journey | 121548 | [121548-its-about-the-journey.json](./121548-its-about-the-journey.json) |
