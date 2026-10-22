@@ -1032,6 +1032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Around You | 149475 | [149475-dark-around-you.json](./149475-dark-around-you.json) |
 | Dark Assassin: Trial Chambers | 339363 | [339363-dark-assassin-trial-chambers.json](./339363-dark-assassin-trial-chambers.json) |
 | Dark Astral | 263042 | [263042-dark-astral.json](./263042-dark-astral.json) |
+| Dark Asylum: Mystery Adventure | 109331 | [109331-dark-asylum-mystery-adventure.json](./109331-dark-asylum-mystery-adventure.json) |
 | Dark Atlas: Infernum | 213434 | [213434-dark-atlas-infernum.json](./213434-dark-atlas-infernum.json) |
 | Dark Auction | 264359 | [264359-dark-auction.json](./264359-dark-auction.json) |
 | Dark Avenger | 38510 | [38510-dark-avenger.json](./38510-dark-avenger.json) |
@@ -1575,6 +1576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Woods Haunted Quest: Hidden Objects Game | 197629 | [197629-dark-woods-haunted-quest-hidden-objects-game.json](./197629-dark-woods-haunted-quest-hidden-objects-game.json) |
 | Dark World | 129517 | [129517-dark-world.json](./129517-dark-world.json) |
 | Dark Wraith | 313999 | [313999-dark-wraith.json](./313999-dark-wraith.json) |
+| Dark Xingzer | 109318 | [109318-dark-xingzer.json](./109318-dark-xingzer.json) |
 | Dark Years | 13543 | [13543-dark-years.json](./13543-dark-years.json) |
 | Dark Zodiac | 343338 | [343338-dark-zodiac.json](./343338-dark-zodiac.json) |
 | Dark Zone | 128983 | [128983-dark-zone.json](./128983-dark-zone.json) |
@@ -9310,6 +9312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doll Fashion Atelier | 58694 | [58694-doll-fashion-atelier.json](./58694-doll-fashion-atelier.json) |
 | Doll Grabber | 304907 | [304907-doll-grabber.json](./304907-doll-grabber.json) |
 | Doll INC | 346690 | [346690-doll-inc.json](./346690-doll-inc.json) |
+| Doll of Resurrection | 109337 | [109337-doll-of-resurrection.json](./109337-doll-of-resurrection.json) |
 | Doll Parts | 347793 | [347793-doll-parts.json](./347793-doll-parts.json) |
 | Doll Recollect | 299737 | [299737-doll-recollect.json](./299737-doll-recollect.json) |
 | Doll's Ingram | 131585 | [131585-dolls-ingram.json](./131585-dolls-ingram.json) |
