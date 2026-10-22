@@ -674,6 +674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War Era Lumberjack | 368283 | [368283-war-era-lumberjack.json](./368283-war-era-lumberjack.json) |
 | War Eternal | 172670 | [172670-war-eternal.json](./172670-war-eternal.json) |
 | War Factory | 153155 | [153155-war-factory.json](./153155-war-factory.json) |
+| War Field | 105682 | [105682-war-field.json](./105682-war-field.json) |
 | War For Galaxy | 250897 | [250897-war-for-galaxy.json](./250897-war-for-galaxy.json) |
 | War for Magincia | 129711 | [129711-war-for-magincia.json](./129711-war-for-magincia.json) |
 | War for the Overworld: Anniversary Collection | 51786 | [51786-war-for-the-overworld-anniversary-collection.json](./51786-war-for-the-overworld-anniversary-collection.json) |
@@ -897,6 +898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War: The Savior's Order | 221796 | [221796-war-the-saviors-order.json](./221796-war-the-saviors-order.json) |
 | War! Age of Imperialism | 73520 | [73520-war-age-of-imperialism.json](./73520-war-age-of-imperialism.json) |
 | WAR! Showdown | 108186 | [108186-war-showdown.json](./108186-war-showdown.json) |
+| War.io : Survival Battle Royale | 105655 | [105655-war-io-survival-battle-royale.json](./105655-war-io-survival-battle-royale.json) |
 | War.io : Zombie Battle Royale | 106341 | [106341-war-io-zombie-battle-royale.json](./106341-war-io-zombie-battle-royale.json) |
 | War7 | 31137 | [31137-war7.json](./31137-war7.json) |
 | Warag | 348741 | [348741-warag.json](./348741-warag.json) |
@@ -2077,6 +2079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wavecade | 197008 | [197008-wavecade.json](./197008-wavecade.json) |
 | Wavecrashers | 391751 | [391751-wavecrashers.json](./391751-wavecrashers.json) |
 | Waveform | 15273 | [15273-waveform.json](./15273-waveform.json) |
+| Waveform Wipeout | 105687 | [105687-waveform-wipeout.json](./105687-waveform-wipeout.json) |
 | Waveform: Eris | 168945 | [168945-waveform-eris.json](./168945-waveform-eris.json) |
 | Wavelength | 140902 | [140902-wavelength.json](./140902-wavelength.json) |
 | Waven: Drhell's Bells Pack | 289458 | [289458-waven-drhells-bells-pack.json](./289458-waven-drhells-bells-pack.json) |
@@ -5369,6 +5372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizards & Warriors III: Kuros - Visions of Power | 48092 | [48092-wizards-and-warriors-iii-kuros-visions-of-power.json](./48092-wizards-and-warriors-iii-kuros-visions-of-power.json) |
 | Wizards & Warriors X: Fortress of Fear | 48922 | [48922-wizards-and-warriors-x-fortress-of-fear.json](./48922-wizards-and-warriors-x-fortress-of-fear.json) |
 | Wizards 2: Better Dead Than Red | 105813 | [105813-wizards-2-better-dead-than-red.json](./105813-wizards-2-better-dead-than-red.json) |
+| Wizards and Wagons | 105705 | [105705-wizards-and-wagons.json](./105705-wizards-and-wagons.json) |
 | Wizards and Warlords | 30132 | [30132-wizards-and-warlords.json](./30132-wizards-and-warlords.json) |
 | Wizards and Warp Drives | 63538 | [63538-wizards-and-warp-drives.json](./63538-wizards-and-warp-drives.json) |
 | Wizards Home | 37381 | [37381-wizards-home.json](./37381-wizards-home.json) |
@@ -6117,6 +6121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Words | 197391 | [197391-words.json](./197391-words.json) |
 | Words & Magic | 241538 | [241538-words-and-magic.json](./241538-words-and-magic.json) |
 | Words Across America | 310565 | [310565-words-across-america.json](./310565-words-across-america.json) |
+| Words cannot convey | 105709 | [105709-words-cannot-convey.json](./105709-words-cannot-convey.json) |
 | Words Collide | 254165 | [254165-words-collide.json](./254165-words-collide.json) |
 | Words for a bird | 134692 | [134692-words-for-a-bird.json](./134692-words-for-a-bird.json) |
 | Words for Evil | 36107 | [36107-words-for-evil.json](./36107-words-for-evil.json) |
@@ -7292,6 +7297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wunderling DX | 219755 | [219755-wunderling-dx.json](./219755-wunderling-dx.json) |
 | Wünderpack | 360702 | [360702-wunderpack.json](./360702-wunderpack.json) |
 | Wunderverse | 106359 | [106359-wunderverse.json](./106359-wunderverse.json) |
+| Wunderwaffe | 105654 | [105654-wunderwaffe.json](./105654-wunderwaffe.json) |
 | Wunkfall | 413887 | [413887-wunkfall.json](./413887-wunkfall.json) |
 | Wuppo: Definitive Edition | 124120 | [124120-wuppo-definitive-edition.json](./124120-wuppo-definitive-edition.json) |
 | Wuppo: Special Edition | 52121 | [52121-wuppo-special-edition.json](./52121-wuppo-special-edition.json) |
