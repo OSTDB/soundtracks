@@ -1476,6 +1476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parabolus Two | 157442 | [157442-parabolus-two.json](./157442-parabolus-two.json) |
 | Parabox | 240113 | [240113-parabox.json](./240113-parabox.json) |
 | Paracelsus no Maken | 112517 | [112517-paracelsus-no-maken.json](./112517-paracelsus-no-maken.json) |
+| Paracentric | 124452 | [124452-paracentric.json](./124452-paracentric.json) |
 | Parachute | 231725 | [231725-parachute.json](./231725-parachute.json) |
 | Parachute | 40678 | [40678-parachute.json](./40678-parachute.json) |
 | Parachute 22 | 205098 | [205098-parachute-22.json](./205098-parachute-22.json) |
@@ -7506,6 +7507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Platforming Experience Required | 339598 | [339598-platforming-experience-required.json](./339598-platforming-experience-required.json) |
 | Platformity | 203758 | [203758-platformity.json](./203758-platformity.json) |
 | Platformory | 197553 | [197553-platformory.json](./197553-platformory.json) |
+| Platforms | 124462 | [124462-platforms.json](./124462-platforms.json) |
 | Platforms Unlimited | 101323 | [101323-platforms-unlimited.json](./101323-platforms-unlimited.json) |
 | Plati and the Tower of Time | 310739 | [310739-plati-and-the-tower-of-time.json](./310739-plati-and-the-tower-of-time.json) |
 | Plati Nalog: Favorite Russian Game | 88083 | [88083-plati-nalog-favorite-russian-game.json](./88083-plati-nalog-favorite-russian-game.json) |
@@ -14259,6 +14261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Heart Match-3 Adventure | 99501 | [99501-puzzle-heart-match-3-adventure.json](./99501-puzzle-heart-match-3-adventure.json) |
 | Puzzle Hero | 206044 | [206044-puzzle-hero.json](./206044-puzzle-hero.json) |
 | Puzzle Hero | 53484 | [53484-puzzle-hero.json](./53484-puzzle-hero.json) |
+| Puzzle Hub | 124461 | [124461-puzzle-hub.json](./124461-puzzle-hub.json) |
 | Puzzle Inlay | 184281 | [184281-puzzle-inlay.json](./184281-puzzle-inlay.json) |
 | Puzzle Iroiro: Gekkan Crossword House Vol.1 | 78894 | [78894-puzzle-iroiro-gekkan-crossword-house-vol-1.json](./78894-puzzle-iroiro-gekkan-crossword-house-vol-1.json) |
 | Puzzle Iroiro: Gekkan Crossword House Vol.2 | 78892 | [78892-puzzle-iroiro-gekkan-crossword-house-vol-2.json](./78892-puzzle-iroiro-gekkan-crossword-house-vol-2.json) |
