@@ -1067,6 +1067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rainbow Mosaics: The Forest's Guardian | 295467 | [295467-rainbow-mosaics-the-forests-guardian.json](./295467-rainbow-mosaics-the-forests-guardian.json) |
 | Rainbow Mosaics: Treasure Trip 2 | 337622 | [337622-rainbow-mosaics-treasure-trip-2.json](./337622-rainbow-mosaics-treasure-trip-2.json) |
 | Rainbow Mystery | 54310 | [54310-rainbow-mystery.json](./54310-rainbow-mystery.json) |
+| Rainbow Pixel | 126241 | [126241-rainbow-pixel.json](./126241-rainbow-pixel.json) |
 | Rainbow Rage Squad | 30690 | [30690-rainbow-rage-squad.json](./30690-rainbow-rage-squad.json) |
 | Rainbow Rapture | 54702 | [54702-rainbow-rapture.json](./54702-rainbow-rapture.json) |
 | Rainbow Rendezvous | 247990 | [247990-rainbow-rendezvous.json](./247990-rainbow-rendezvous.json) |
