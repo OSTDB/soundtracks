@@ -3408,6 +3408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Empires II Mobile | 144346 | [144346-age-of-empires-ii-mobile.json](./144346-age-of-empires-ii-mobile.json) |
 | Age of Empires II: Definitive Edition - Chronicles: Alexander the Great | 369166 | [369166-age-of-empires-ii-definitive-edition-chronicles-alexander-the-great.json](./369166-age-of-empires-ii-definitive-edition-chronicles-alexander-the-great.json) |
 | Age of Empires II: Definitive Edition - Chronicles: Battle for Greece | 323348 | [323348-age-of-empires-ii-definitive-edition-chronicles-battle-for-greece.json](./323348-age-of-empires-ii-definitive-edition-chronicles-battle-for-greece.json) |
+| Age of Empires II: Definitive Edition - Dawn of the Dukes | 155457 | [155457-age-of-empires-ii-definitive-edition-dawn-of-the-dukes.json](./155457-age-of-empires-ii-definitive-edition-dawn-of-the-dukes.json) |
 | Age of Empires II: Definitive Edition - Dynasties of India | 197890 | [197890-age-of-empires-ii-definitive-edition-dynasties-of-india.json](./197890-age-of-empires-ii-definitive-edition-dynasties-of-india.json) |
 | Age of Empires II: Definitive Edition - Lords of the West | 142200 | [142200-age-of-empires-ii-definitive-edition-lords-of-the-west.json](./142200-age-of-empires-ii-definitive-edition-lords-of-the-west.json) |
 | Age of Empires II: Definitive Edition - The Last Chieftains | 386971 | [386971-age-of-empires-ii-definitive-edition-the-last-chieftains.json](./386971-age-of-empires-ii-definitive-edition-the-last-chieftains.json) |
@@ -11217,6 +11218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ascension: Delirium | 174532 | [174532-ascension-delirium.json](./174532-ascension-delirium.json) |
 | Ascension: The Immortal Alchemist | 318973 | [318973-ascension-the-immortal-alchemist.json](./318973-ascension-the-immortal-alchemist.json) |
 | Ascension: Transition and Silver | 144608 | [144608-ascension-transition-and-silver.json](./144608-ascension-transition-and-silver.json) |
+| Ascent | 155417 | [155417-ascent.json](./155417-ascent.json) |
 | Ascent | 185340 | [185340-ascent.json](./185340-ascent.json) |
 | Ascent | 330540 | [330540-ascent.json](./330540-ascent.json) |
 | Ascent DX | 336896 | [336896-ascent-dx.json](./336896-ascent-dx.json) |
