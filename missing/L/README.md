@@ -2459,6 +2459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Dimensions: Unikitty Fun Pack | 172620 | [172620-lego-dimensions-unikitty-fun-pack.json](./172620-lego-dimensions-unikitty-fun-pack.json) |
 | LEGO Dimensions: Wonder Woman Fun Pack | 172626 | [172626-lego-dimensions-wonder-woman-fun-pack.json](./172626-lego-dimensions-wonder-woman-fun-pack.json) |
 | LEGO Dimensions: Zane Fun Pack | 172610 | [172610-lego-dimensions-zane-fun-pack.json](./172610-lego-dimensions-zane-fun-pack.json) |
+| LEGO Duplo Town | 106923 | [106923-lego-duplo-town.json](./106923-lego-duplo-town.json) |
 | LEGO Duplo World | 356220 | [356220-lego-duplo-world.json](./356220-lego-duplo-world.json) |
 | LEGO Exo-Force: Deep Jungle | 343214 | [343214-lego-exo-force-deep-jungle.json](./343214-lego-exo-force-deep-jungle.json) |
 | LEGO Exo-Force: Sentai Showdown | 343211 | [343211-lego-exo-force-sentai-showdown.json](./343211-lego-exo-force-sentai-showdown.json) |
@@ -3539,6 +3540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life is Strange: True Colors | 144765 | [144765-life-is-strange-true-colors.json](./144765-life-is-strange-true-colors.json) |
 | Life is Strange: True Colors - Alex Outfit Pack | 312108 | [312108-life-is-strange-true-colors-alex-outfit-pack.json](./312108-life-is-strange-true-colors-alex-outfit-pack.json) |
 | Life is Strange: Wavelengths | 144873 | [144873-life-is-strange-wavelengths.json](./144873-life-is-strange-wavelengths.json) |
+| Life Jigsaw Puzzles | 106913 | [106913-life-jigsaw-puzzles.json](./106913-life-jigsaw-puzzles.json) |
 | Life Makeover | 212426 | [212426-life-makeover.json](./212426-life-makeover.json) |
 | Life Museum | 265338 | [265338-life-museum.json](./265338-life-museum.json) |
 | Life Not Supported | 210704 | [210704-life-not-supported.json](./210704-life-not-supported.json) |
