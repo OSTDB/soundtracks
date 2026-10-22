@@ -290,6 +290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cage Me Not | 372631 | [372631-cage-me-not.json](./372631-cage-me-not.json) |
 | Cage of Kurikaesu | 420498 | [420498-cage-of-kurikaesu.json](./420498-cage-of-kurikaesu.json) |
 | Cage of Roses | 303720 | [303720-cage-of-roses.json](./303720-cage-of-roses.json) |
+| Cage of the Succubi | 118012 | [118012-cage-of-the-succubi.json](./118012-cage-of-the-succubi.json) |
 | Cage of Y | 398032 | [398032-cage-of-y.json](./398032-cage-of-y.json) |
 | Cage-Face: Case 1 - The Mine | 175651 | [175651-cage-face-case-1-the-mine.json](./175651-cage-face-case-1-the-mine.json) |
 | Cage-Face: Case 2 - The Sewer | 193432 | [193432-cage-face-case-2-the-sewer.json](./193432-cage-face-case-2-the-sewer.json) |
@@ -8935,6 +8936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cold Shell | 118150 | [118150-cold-shell.json](./118150-cold-shell.json) |
 | Cold Shift | 302481 | [302481-cold-shift.json](./302481-cold-shift.json) |
 | Cold Shuulathoi | 308067 | [308067-cold-shuulathoi.json](./308067-cold-shuulathoi.json) |
+| Cold Silence | 118024 | [118024-cold-silence.json](./118024-cold-silence.json) |
 | Cold Snap | 401621 | [401621-cold-snap.json](./401621-cold-snap.json) |
 | Cold Space | 54826 | [54826-cold-space.json](./54826-cold-space.json) |
 | Cold Steel | 314630 | [314630-cold-steel.json](./314630-cold-steel.json) |
