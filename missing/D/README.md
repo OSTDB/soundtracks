@@ -6947,6 +6947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dig the Ground | 164226 | [164226-dig-the-ground.json](./164226-dig-the-ground.json) |
 | Dig to Escape | 422101 | [422101-dig-to-escape.json](./422101-dig-to-escape.json) |
 | Dig to Escape: Obby | 393059 | [393059-dig-to-escape-obby.json](./393059-dig-to-escape-obby.json) |
+| Dig to the Stars | 113408 | [113408-dig-to-the-stars.json](./113408-dig-to-the-stars.json) |
 | Dig Too Deep | 402553 | [402553-dig-too-deep.json](./402553-dig-too-deep.json) |
 | Dig VR | 299295 | [299295-dig-vr.json](./299295-dig-vr.json) |
 | DIG: Deep In Galaxies | 228455 | [228455-dig-deep-in-galaxies.json](./228455-dig-deep-in-galaxies.json) |
