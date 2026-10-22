@@ -5782,6 +5782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nuclear Epoch | 370864 | [370864-nuclear-epoch.json](./370864-nuclear-epoch.json) |
 | Nuclear Frost | 244692 | [244692-nuclear-frost.json](./244692-nuclear-frost.json) |
 | Nuclear Gladiators 3000 | 273447 | [273447-nuclear-gladiators-3000.json](./273447-nuclear-gladiators-3000.json) |
+| Nuclear Hack INC. - War Simulator | 106889 | [106889-nuclear-hack-inc-war-simulator.json](./106889-nuclear-hack-inc-war-simulator.json) |
 | Nuclear Heist | 30213 | [30213-nuclear-heist.json](./30213-nuclear-heist.json) |
 | Nuclear Inc 2 | 100862 | [100862-nuclear-inc-2.json](./100862-nuclear-inc-2.json) |
 | Nuclear Lizard Island Rampage | 318434 | [318434-nuclear-lizard-island-rampage.json](./318434-nuclear-lizard-island-rampage.json) |
