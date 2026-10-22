@@ -4742,6 +4742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes of Jin Yong | 210689 | [210689-heroes-of-jin-yong.json](./210689-heroes-of-jin-yong.json) |
 | Heroes of Kalevala | 54095 | [54095-heroes-of-kalevala.json](./54095-heroes-of-kalevala.json) |
 | Heroes of Karn | 13876 | [13876-heroes-of-karn.json](./13876-heroes-of-karn.json) |
+| Heroes of Larkwood | 107602 | [107602-heroes-of-larkwood.json](./107602-heroes-of-larkwood.json) |
 | Heroes of Latera | 295863 | [295863-heroes-of-latera.json](./295863-heroes-of-latera.json) |
 | Heroes of Legionwood | 17078 | [17078-heroes-of-legionwood.json](./17078-heroes-of-legionwood.json) |
 | Heroes of Legionwood: Episode 2 | 171561 | [171561-heroes-of-legionwood-episode-2.json](./171561-heroes-of-legionwood-episode-2.json) |
@@ -6042,6 +6043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Highway Rampage | 213486 | [213486-highway-rampage.json](./213486-highway-rampage.json) |
 | Highway Rider | 86999 | [86999-highway-rider.json](./86999-highway-rider.json) |
 | Highway Roads Racer | 390499 | [390499-highway-roads-racer.json](./390499-highway-roads-racer.json) |
+| Highway Sniper Shooter | 107545 | [107545-highway-sniper-shooter.json](./107545-highway-sniper-shooter.json) |
 | Highway Terror | 322600 | [322600-highway-terror.json](./322600-highway-terror.json) |
 | Highway to Heal | 344445 | [344445-highway-to-heal.json](./344445-highway-to-heal.json) |
 | Highway to the Moon | 32890 | [32890-highway-to-the-moon.json](./32890-highway-to-the-moon.json) |
