@@ -932,6 +932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Chance VR | 123552 | [123552-last-chance-vr.json](./123552-last-chance-vr.json) |
 | Last Chance: The Survivor | 294027 | [294027-last-chance-the-survivor.json](./294027-last-chance-the-survivor.json) |
 | Last Chaos | 90316 | [90316-last-chaos.json](./90316-last-chaos.json) |
+| Last Chick | 131827 | [131827-last-chick.json](./131827-last-chick.json) |
 | Last Chickenburg | 121447 | [121447-last-chickenburg.json](./121447-last-chickenburg.json) |
 | Last Christmas | 220542 | [220542-last-christmas.json](./220542-last-christmas.json) |
 | Last Command | 148673 | [148673-last-command.json](./148673-last-command.json) |
@@ -6944,6 +6945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loved | 57559 | [57559-loved.json](./57559-loved.json) |
 | Loved by King Bs | 202707 | [202707-loved-by-king-bs.json](./202707-loved-by-king-bs.json) |
 | Lovefield General: Back to Work | 105351 | [105351-lovefield-general-back-to-work.json](./105351-lovefield-general-back-to-work.json) |
+| Lovehammer 400 000: The Buttlerian Crusade | 131831 | [131831-lovehammer-400-000-the-buttlerian-crusade.json](./131831-lovehammer-400-000-the-buttlerian-crusade.json) |
 | LoveKami -Divinity Stage- | 26541 | [26541-lovekami-divinity-stage.json](./26541-lovekami-divinity-stage.json) |
 | LoveKami -Useless Goddess- | 28375 | [28375-lovekami-useless-goddess.json](./28375-lovekami-useless-goddess.json) |
 | LoveKami Trilogy | 381756 | [381756-lovekami-trilogy.json](./381756-lovekami-trilogy.json) |
