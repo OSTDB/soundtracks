@@ -6797,6 +6797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Different Strokes | 213030 | [213030-different-strokes.json](./213030-different-strokes.json) |
 | Differently Fast | 74519 | [74519-differently-fast.json](./74519-differently-fast.json) |
 | Difficult | 399873 | [399873-difficult.json](./399873-difficult.json) |
+| Difficult Platformer Game | 148804 | [148804-difficult-platformer-game.json](./148804-difficult-platformer-game.json) |
 | Difficult times | 327826 | [327826-difficult-times.json](./327826-difficult-times.json) |
 | Difficult? Punch-Out!! | 410279 | [410279-difficult-punch-out.json](./410279-difficult-punch-out.json) |
 | Diffraction | 207247 | [207247-diffraction.json](./207247-diffraction.json) |
