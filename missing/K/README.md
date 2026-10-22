@@ -2006,6 +2006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Killer Escape III | 386938 | [386938-killer-escape-iii.json](./386938-killer-escape-iii.json) |
 | Killer Eyelashes | 372724 | [372724-killer-eyelashes.json](./372724-killer-eyelashes.json) |
 | Killer Freaks From Outer Space | 132063 | [132063-killer-freaks-from-outer-space.json](./132063-killer-freaks-from-outer-space.json) |
+| Killer Gin | 126823 | [126823-killer-gin.json](./126823-killer-gin.json) |
 | Killer Gin: Battle Arcade | 172999 | [172999-killer-gin-battle-arcade.json](./172999-killer-gin-battle-arcade.json) |
 | Killer Gorilla | 13733 | [13733-killer-gorilla.json](./13733-killer-gorilla.json) |
 | Killer in the Cabin | 181016 | [181016-killer-in-the-cabin.json](./181016-killer-in-the-cabin.json) |
