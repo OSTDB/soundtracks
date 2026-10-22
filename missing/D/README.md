@@ -2821,11 +2821,31 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead or Alive 5: Last Round - Core Fighters Character: Honoka | 275144 | [275144-dead-or-alive-5-last-round-core-fighters-character-honoka.json](./275144-dead-or-alive-5-last-round-core-fighters-character-honoka.json) |
 | Dead or Alive 6 | 103269 | [103269-dead-or-alive-6.json](./103269-dead-or-alive-6.json) |
 | Dead or Alive 6 Last Round | 389425 | [389425-dead-or-alive-6-last-round.json](./389425-dead-or-alive-6-last-round.json) |
+| Dead or Alive 6: Bayman | 155441 | [155441-dead-or-alive-6-bayman.json](./155441-dead-or-alive-6-bayman.json) |
+| Dead or Alive 6: Christie | 155437 | [155437-dead-or-alive-6-christie.json](./155437-dead-or-alive-6-christie.json) |
 | Dead or Alive 6: Collector's Limited Edition | 166261 | [166261-dead-or-alive-6-collectors-limited-edition.json](./166261-dead-or-alive-6-collectors-limited-edition.json) |
+| Dead or Alive 6: Eliot | 155436 | [155436-dead-or-alive-6-eliot.json](./155436-dead-or-alive-6-eliot.json) |
 | Dead or Alive 6: Energy Up! Training Wear Set | 225904 | [225904-dead-or-alive-6-energy-up-training-wear-set.json](./225904-dead-or-alive-6-energy-up-training-wear-set.json) |
 | Dead or Alive 6: Gamecity Limited Edition | 167018 | [167018-dead-or-alive-6-gamecity-limited-edition.json](./167018-dead-or-alive-6-gamecity-limited-edition.json) |
+| Dead or Alive 6: Hayate | 155440 | [155440-dead-or-alive-6-hayate.json](./155440-dead-or-alive-6-hayate.json) |
+| Dead or Alive 6: Helena | 155439 | [155439-dead-or-alive-6-helena.json](./155439-dead-or-alive-6-helena.json) |
+| Dead or Alive 6: Jann Lee | 155429 | [155429-dead-or-alive-6-jann-lee.json](./155429-dead-or-alive-6-jann-lee.json) |
+| Dead or Alive 6: Kula Diamond | 155427 | [155427-dead-or-alive-6-kula-diamond.json](./155427-dead-or-alive-6-kula-diamond.json) |
+| Dead or Alive 6: Leifang | 155432 | [155432-dead-or-alive-6-leifang.json](./155432-dead-or-alive-6-leifang.json) |
+| Dead or Alive 6: Mai Shiranui | 155424 | [155424-dead-or-alive-6-mai-shiranui.json](./155424-dead-or-alive-6-mai-shiranui.json) |
+| Dead or Alive 6: Marie Rose | 155434 | [155434-dead-or-alive-6-marie-rose.json](./155434-dead-or-alive-6-marie-rose.json) |
+| Dead or Alive 6: Mila | 155430 | [155430-dead-or-alive-6-mila.json](./155430-dead-or-alive-6-mila.json) |
+| Dead or Alive 6: Momiji | 155438 | [155438-dead-or-alive-6-momiji.json](./155438-dead-or-alive-6-momiji.json) |
+| Dead or Alive 6: Nico | 155431 | [155431-dead-or-alive-6-nico.json](./155431-dead-or-alive-6-nico.json) |
 | Dead or Alive 6: Nyotengu | 341667 | [341667-dead-or-alive-6-nyotengu.json](./341667-dead-or-alive-6-nyotengu.json) |
+| Dead or Alive 6: Phase 4 | 155435 | [155435-dead-or-alive-6-phase-4.json](./155435-dead-or-alive-6-phase-4.json) |
+| Dead or Alive 6: Rachel | 155442 | [155442-dead-or-alive-6-rachel.json](./155442-dead-or-alive-6-rachel.json) |
+| Dead or Alive 6: Rachel & Debut Costume Set | 155426 | [155426-dead-or-alive-6-rachel-and-debut-costume-set.json](./155426-dead-or-alive-6-rachel-and-debut-costume-set.json) |
 | Dead or Alive 6: Strongest Package - Limited Edition | 167104 | [167104-dead-or-alive-6-strongest-package-limited-edition.json](./167104-dead-or-alive-6-strongest-package-limited-edition.json) |
+| Dead or Alive 6: Tamaki | 155443 | [155443-dead-or-alive-6-tamaki.json](./155443-dead-or-alive-6-tamaki.json) |
+| Dead or Alive 6: Tamaki & Debut Costume Set | 155423 | [155423-dead-or-alive-6-tamaki-and-debut-costume-set.json](./155423-dead-or-alive-6-tamaki-and-debut-costume-set.json) |
+| Dead or Alive 6: Tina | 155425 | [155425-dead-or-alive-6-tina.json](./155425-dead-or-alive-6-tina.json) |
+| Dead or Alive 6: Zack | 155433 | [155433-dead-or-alive-6-zack.json](./155433-dead-or-alive-6-zack.json) |
 | Dead or Alive New Project | 389426 | [389426-dead-or-alive-new-project.json](./389426-dead-or-alive-new-project.json) |
 | Dead or Alive Online | 66770 | [66770-dead-or-alive-online.json](./66770-dead-or-alive-online.json) |
 | Dead or Alive Ultimate | 318500 | [318500-dead-or-alive-ultimate.json](./318500-dead-or-alive-ultimate.json) |
@@ -5654,6 +5674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destined | 100708 | [100708-destined.json](./100708-destined.json) |
 | Destined Corp: Awakening | 349974 | [349974-destined-corp-awakening.json](./349974-destined-corp-awakening.json) |
 | Destined Notes: The Written Fate | 415435 | [415435-destined-notes-the-written-fate.json](./415435-destined-notes-the-written-fate.json) |
+| Destined to Die | 155419 | [155419-destined-to-die.json](./155419-destined-to-die.json) |
 | Destined to Love: Ikemen Samurai Romances | 163230 | [163230-destined-to-love-ikemen-samurai-romances.json](./163230-destined-to-love-ikemen-samurai-romances.json) |
 | Destinia | 349093 | [349093-destinia.json](./349093-destinia.json) |
 | Destinies | 152884 | [152884-destinies.json](./152884-destinies.json) |
@@ -14112,6 +14133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons & Dragons Online: Secrets of the Artificers | 349655 | [349655-dungeons-and-dragons-online-secrets-of-the-artificers.json](./349655-dungeons-and-dragons-online-secrets-of-the-artificers.json) |
 | Dungeons & Dragons Online: Shadow Under Thunderholme | 339140 | [339140-dungeons-and-dragons-online-shadow-under-thunderholme.json](./339140-dungeons-and-dragons-online-shadow-under-thunderholme.json) |
 | Dungeons & Dragons Online: Shadowfell Conspiracy | 47127 | [47127-dungeons-and-dragons-online-shadowfell-conspiracy.json](./47127-dungeons-and-dragons-online-shadowfell-conspiracy.json) |
+| Dungeons & Dragons Online: Shadowfell Conspiracy - Collector's Edition | 155446 | [155446-dungeons-and-dragons-online-shadowfell-conspiracy-collectors-edition.json](./155446-dungeons-and-dragons-online-shadowfell-conspiracy-collectors-edition.json) |
 | Dungeons & Dragons Online: Tangleroot Gorge | 353656 | [353656-dungeons-and-dragons-online-tangleroot-gorge.json](./353656-dungeons-and-dragons-online-tangleroot-gorge.json) |
 | Dungeons & Dragons Online: Terror of Demogorgon | 407578 | [407578-dungeons-and-dragons-online-terror-of-demogorgon.json](./407578-dungeons-and-dragons-online-terror-of-demogorgon.json) |
 | Dungeons & Dragons Online: The Catacombs | 353657 | [353657-dungeons-and-dragons-online-the-catacombs.json](./353657-dungeons-and-dragons-online-the-catacombs.json) |
