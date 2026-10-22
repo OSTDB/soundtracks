@@ -190,6 +190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ZaciSa: Defense of the Crayon Dimensions! | 84971 | [84971-zacisa-defense-of-the-crayon-dimensions.json](./84971-zacisa-defense-of-the-crayon-dimensions.json) |
 | ZaciSa's Last Stand | 84957 | [84957-zacisas-last-stand.json](./84957-zacisas-last-stand.json) |
 | Zack & Wiki: Quest for Barbaros' Treasure | 2264 | [2264-zack-and-wiki-quest-for-barbaros-treasure.json](./2264-zack-and-wiki-quest-for-barbaros-treasure.json) |
+| Zack 2: Celestine's Map | 139640 | [139640-zack-2-celestines-map.json](./139640-zack-2-celestines-map.json) |
 | Zack Y | 109724 | [109724-zack-y.json](./109724-zack-y.json) |
 | Zackman | 385842 | [385842-zackman.json](./385842-zackman.json) |
 | Zad Maldan My Bloody Sacrifice | 219679 | [219679-zad-maldan-my-bloody-sacrifice.json](./219679-zad-maldan-my-bloody-sacrifice.json) |
