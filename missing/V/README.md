@@ -3049,6 +3049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Hentai Girl | 366539 | [366539-vr-hentai-girl.json](./366539-vr-hentai-girl.json) |
 | VR Hentai Hot | 384635 | [384635-vr-hentai-hot.json](./384635-vr-hentai-hot.json) |
 | VR Hentai Room | 366540 | [366540-vr-hentai-room.json](./366540-vr-hentai-room.json) |
+| VR Hero Sentry | 110715 | [110715-vr-hero-sentry.json](./110715-vr-hero-sentry.json) |
 | VR Hiroshima 1945 | 160140 | [160140-vr-hiroshima-1945.json](./160140-vr-hiroshima-1945.json) |
 | VR Home | 27352 | [27352-vr-home.json](./27352-vr-home.json) |
 | VR Horror Survival Zombie Battle | 169261 | [169261-vr-horror-survival-zombie-battle.json](./169261-vr-horror-survival-zombie-battle.json) |
