@@ -3020,6 +3020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FellaTrain | 294968 | [294968-fellatrain.json](./294968-fellatrain.json) |
 | Fellmark | 421240 | [421240-fellmark.json](./421240-fellmark.json) |
 | Fellow Moon | 320855 | [320855-fellow-moon.json](./320855-fellow-moon.json) |
+| Fellow: Eternal Clash | 110050 | [110050-fellow-eternal-clash.json](./110050-fellow-eternal-clash.json) |
 | Fellowship | 258627 | [258627-fellowship.json](./258627-fellowship.json) |
 | Fellowship | 330379 | [330379-fellowship.json](./330379-fellowship.json) |
 | Fellowship Manager | 182165 | [182165-fellowship-manager.json](./182165-fellowship-manager.json) |
@@ -5582,6 +5583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Starless Rivers | 285438 | [285438-five-starless-rivers.json](./285438-five-starless-rivers.json) |
 | Five Stars | 233492 | [233492-five-stars.json](./233492-five-stars.json) |
 | Five Stars | 365870 | [365870-five-stars.json](./365870-five-stars.json) |
+| Five Tribes | 110051 | [110051-five-tribes.json](./110051-five-tribes.json) |
 | Five Unreal Nights at Candy's | 288853 | [288853-five-unreal-nights-at-candys.json](./288853-five-unreal-nights-at-candys.json) |
 | Five Worlds Escape | 315779 | [315779-five-worlds-escape.json](./315779-five-worlds-escape.json) |
 | Five Years Old Memories | 313192 | [313192-five-years-old-memories.json](./313192-five-years-old-memories.json) |
