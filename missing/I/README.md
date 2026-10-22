@@ -3379,6 +3379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inmates | 27779 | [27779-inmates.json](./27779-inmates.json) |
 | InMind VR | 19024 | [19024-inmind-vr.json](./19024-inmind-vr.json) |
 | InMomentum | 10435 | [10435-inmomentum.json](./10435-inmomentum.json) |
+| Inmortis | 122708 | [122708-inmortis.json](./122708-inmortis.json) |
 | Inn Hand | 325865 | [325865-inn-hand.json](./325865-inn-hand.json) |
 | Inn Mage | 156608 | [156608-inn-mage.json](./156608-inn-mage.json) |
 | Inn Need | 225766 | [225766-inn-need.json](./225766-inn-need.json) |
@@ -4259,6 +4260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invasion Force | 85518 | [85518-invasion-force.json](./85518-invasion-force.json) |
 | Invasion From Space | 191063 | [191063-invasion-from-space.json](./191063-invasion-from-space.json) |
 | Invasion Machine | 110597 | [110597-invasion-machine.json](./110597-invasion-machine.json) |
+| Invasion of Alien X: Earth in Crisis | 122723 | [122723-invasion-of-alien-x-earth-in-crisis.json](./122723-invasion-of-alien-x-earth-in-crisis.json) |
 | Invasion of the Alien Blobs! | 85624 | [85624-invasion-of-the-alien-blobs.json](./85624-invasion-of-the-alien-blobs.json) |
 | Invasion of The Halloween Fiends | 318436 | [318436-invasion-of-the-halloween-fiends.json](./318436-invasion-of-the-halloween-fiends.json) |
 | Invasion of the Hooks | 245704 | [245704-invasion-of-the-hooks.json](./245704-invasion-of-the-hooks.json) |
