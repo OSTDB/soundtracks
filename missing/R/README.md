@@ -5326,6 +5326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rhem II SE: The Cave | 112131 | [112131-rhem-ii-se-the-cave.json](./112131-rhem-ii-se-the-cave.json) |
 | Rhem IV SE: The Golden Fragments | 91320 | [91320-rhem-iv-se-the-golden-fragments.json](./91320-rhem-iv-se-the-golden-fragments.json) |
 | Rhentsu | 193642 | [193642-rhentsu.json](./193642-rhentsu.json) |
+| Rheum | 101269 | [101269-rheum.json](./101269-rheum.json) |
 | RHI Roller Hockey '95 | 42468 | [42468-rhi-roller-hockey-95.json](./42468-rhi-roller-hockey-95.json) |
 | Rhiannon: Curse of the Four Branches | 17349 | [17349-rhiannon-curse-of-the-four-branches.json](./17349-rhiannon-curse-of-the-four-branches.json) |
 | Rhino Express | 357000 | [357000-rhino-express.json](./357000-rhino-express.json) |
