@@ -692,6 +692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Falcon Beertender | 198148 | [198148-falcon-beertender.json](./198148-falcon-beertender.json) |
 | Falcon Beertender 2 | 286123 | [286123-falcon-beertender-2.json](./286123-falcon-beertender-2.json) |
 | Falcon BMS | 77298 | [77298-falcon-bms.json](./77298-falcon-bms.json) |
+| Falcon City | 133088 | [133088-falcon-city.json](./133088-falcon-city.json) |
 | Falcon Operation: Counterstrike | 73738 | [73738-falcon-operation-counterstrike.json](./73738-falcon-operation-counterstrike.json) |
 | Falcon Patrol II | 40945 | [40945-falcon-patrol-ii.json](./40945-falcon-patrol-ii.json) |
 | Falcon Simulator | 86859 | [86859-falcon-simulator.json](./86859-falcon-simulator.json) |
@@ -7510,6 +7511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forest of Perdition 2: The School Trip | 315057 | [315057-forest-of-perdition-2-the-school-trip.json](./315057-forest-of-perdition-2-the-school-trip.json) |
 | Forest Of Terenu | 369875 | [369875-forest-of-terenu.json](./369875-forest-of-terenu.json) |
 | Forest of the Abyss 2 | 98458 | [98458-forest-of-the-abyss-2.json](./98458-forest-of-the-abyss-2.json) |
+| Forest of the Dead | 133060 | [133060-forest-of-the-dead.json](./133060-forest-of-the-dead.json) |
 | Forest Offroad Driving Simulator | 270568 | [270568-forest-offroad-driving-simulator.json](./270568-forest-offroad-driving-simulator.json) |
 | Forest Plague | 109712 | [109712-forest-plague.json](./109712-forest-plague.json) |
 | Forest Pop | 218724 | [218724-forest-pop.json](./218724-forest-pop.json) |
@@ -8637,6 +8639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fragment of Marine | 114179 | [114179-fragment-of-marine.json](./114179-fragment-of-marine.json) |
 | Fragment: A Story in Growing | 267279 | [267279-fragment-a-story-in-growing.json](./267279-fragment-a-story-in-growing.json) |
 | fragment:AM | 218146 | [218146-fragment-am.json](./218146-fragment-am.json) |
+| Fragment's Moonrise | 133052 | [133052-fragments-moonrise.json](./133052-fragments-moonrise.json) |
 | Fragment's Note 2 | 197251 | [197251-fragments-note-2.json](./197251-fragments-note-2.json) |
 | Fragment's Note 2+ | 267248 | [267248-fragments-note-2.json](./267248-fragments-note-2.json) |
 | Fragment's Note+ | 221086 | [221086-fragments-note.json](./221086-fragments-note.json) |
@@ -9953,7 +9956,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fruit Master | 105852 | [105852-fruit-master.json](./105852-fruit-master.json) |
 | Fruit Merge | 322806 | [322806-fruit-merge.json](./322806-fruit-merge.json) |
 | Fruit Mountain Party | 334302 | [334302-fruit-mountain-party.json](./334302-fruit-mountain-party.json) |
-| Fruit Ninja | 1684 | [1684-fruit-ninja.json](./1684-fruit-ninja.json) |
 | Fruit Ninja | 290243 | [290243-fruit-ninja.json](./290243-fruit-ninja.json) |
 | Fruit Ninja Academy: Math Master | 193723 | [193723-fruit-ninja-academy-math-master.json](./193723-fruit-ninja-academy-math-master.json) |
 | Fruit Ninja Frenzy | 64750 | [64750-fruit-ninja-frenzy.json](./64750-fruit-ninja-frenzy.json) |
