@@ -1383,6 +1383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Romance: Kingdom of Death HD | 88810 | [88810-dark-romance-kingdom-of-death-hd.json](./88810-dark-romance-kingdom-of-death-hd.json) |
 | Dark Romance: Monster Within | 101486 | [101486-dark-romance-monster-within.json](./101486-dark-romance-monster-within.json) |
 | Dark Romance: Sleepy Hollow | 181647 | [181647-dark-romance-sleepy-hollow.json](./181647-dark-romance-sleepy-hollow.json) |
+| Dark Romance: Sleepy Hollow - Collector's Edition | 151433 | [151433-dark-romance-sleepy-hollow-collectors-edition.json](./151433-dark-romance-sleepy-hollow-collectors-edition.json) |
 | Dark Romance: The Ethereal Gardens - Collector's Edition | 123522 | [123522-dark-romance-the-ethereal-gardens-collectors-edition.json](./123522-dark-romance-the-ethereal-gardens-collectors-edition.json) |
 | Dark Romance: The Swan Sonata - Collector's Edition | 110345 | [110345-dark-romance-the-swan-sonata-collectors-edition.json](./110345-dark-romance-the-swan-sonata-collectors-edition.json) |
 | Dark Romance: The Swan Sonata HD | 88812 | [88812-dark-romance-the-swan-sonata-hd.json](./88812-dark-romance-the-swan-sonata-hd.json) |
@@ -2536,6 +2537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Blood: Survival FPS | 251234 | [251234-dead-blood-survival-fps.json](./251234-dead-blood-survival-fps.json) |
 | Dead Blue Rose | 304881 | [304881-dead-blue-rose.json](./304881-dead-blue-rose.json) |
 | Dead Body Falls | 120331 | [120331-dead-body-falls.json](./120331-dead-body-falls.json) |
+| Dead Body Killer | 151444 | [151444-dead-body-killer.json](./151444-dead-body-killer.json) |
 | Dead Box | 153885 | [153885-dead-box.json](./153885-dead-box.json) |
 | Dead But Alive! Southern England | 26469 | [26469-dead-but-alive-southern-england.json](./26469-dead-but-alive-southern-england.json) |
 | Dead by Backrooms Anomaly | 348462 | [348462-dead-by-backrooms-anomaly.json](./348462-dead-by-backrooms-anomaly.json) |
@@ -2859,6 +2861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead or Alive: Code Chronos | 205644 | [205644-dead-or-alive-code-chronos.json](./205644-dead-or-alive-code-chronos.json) |
 | Dead or Alive: Dimensions | 1396 | [1396-dead-or-alive-dimensions.json](./1396-dead-or-alive-dimensions.json) |
 | Dead or Love | 260115 | [260115-dead-or-love.json](./260115-dead-or-love.json) |
+| Dead or Mad | 151440 | [151440-dead-or-mad.json](./151440-dead-or-mad.json) |
 | Dead or School | 105058 | [105058-dead-or-school.json](./105058-dead-or-school.json) |
 | Dead Outbreak | 274113 | [274113-dead-outbreak.json](./274113-dead-outbreak.json) |
 | Dead Paradise 2 | 404248 | [404248-dead-paradise-2.json](./404248-dead-paradise-2.json) |
@@ -3348,6 +3351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Bind | 207782 | [207782-death-bind.json](./207782-death-bind.json) |
 | Death Blade | 170338 | [170338-death-blade.json](./170338-death-blade.json) |
 | Death Bowl | 208598 | [208598-death-bowl.json](./208598-death-bowl.json) |
+| Death Box | 151511 | [151511-death-box.json](./151511-death-box.json) |
 | Death Box | 160302 | [160302-death-box.json](./160302-death-box.json) |
 | Death Brade | 38236 | [38236-death-brade.json](./38236-death-brade.json) |
 | Death Bringer | 45869 | [45869-death-bringer.json](./45869-death-bringer.json) |
@@ -6422,6 +6426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diamond love | 111496 | [111496-diamond-love.json](./111496-diamond-love.json) |
 | Diamond Mind Baseball 8.0 | 94249 | [94249-diamond-mind-baseball-8-0.json](./94249-diamond-mind-baseball-8-0.json) |
 | Diamond Mind Baseball 9 | 23802 | [23802-diamond-mind-baseball-9.json](./23802-diamond-mind-baseball-9.json) |
+| Diamond Mirage | 151587 | [151587-diamond-mirage.json](./151587-diamond-mirage.json) |
 | Diamond no Kuni no Alice: Wonderful Mirror World | 213845 | [213845-diamond-no-kuni-no-alice-wonderful-mirror-world.json](./213845-diamond-no-kuni-no-alice-wonderful-mirror-world.json) |
 | Diamond no Kuni no Alice: Wonderful Wonder World | 64165 | [64165-diamond-no-kuni-no-alice-wonderful-wonder-world.json](./64165-diamond-no-kuni-no-alice-wonderful-wonder-world.json) |
 | Diamond Painting | 365872 | [365872-diamond-painting.json](./365872-diamond-painting.json) |
@@ -9202,6 +9207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Domain Owner | 312203 | [312203-domain-owner.json](./312203-domain-owner.json) |
 | Domaine | 85756 | [85756-domaine.json](./85756-domaine.json) |
 | Domains of Dusk | 217290 | [217290-domains-of-dusk.json](./217290-domains-of-dusk.json) |
+| Dome Discover | 151523 | [151523-dome-discover.json](./151523-dome-discover.json) |
 | Dome Keeper: Deluxe Edition | 402958 | [402958-dome-keeper-deluxe-edition.json](./402958-dome-keeper-deluxe-edition.json) |
 | Dome Keeper: The Lost Keepers | 400396 | [400396-dome-keeper-the-lost-keepers.json](./400396-dome-keeper-the-lost-keepers.json) |
 | Dome no Yabou F1 GP Nippon no Chousen | 386522 | [386522-dome-no-yabou-f1-gp-nippon-no-chousen.json](./386522-dome-no-yabou-f1-gp-nippon-no-chousen.json) |
@@ -13966,6 +13972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Renovators | 224654 | [224654-dungeon-renovators.json](./224654-dungeon-renovators.json) |
 | Dungeon Restaurant | 253281 | [253281-dungeon-restaurant.json](./253281-dungeon-restaurant.json) |
 | Dungeon Robber | 62269 | [62269-dungeon-robber.json](./62269-dungeon-robber.json) |
+| Dungeon Rollers | 151449 | [151449-dungeon-rollers.json](./151449-dungeon-rollers.json) |
 | Dungeon Rollers | 184623 | [184623-dungeon-rollers.json](./184623-dungeon-rollers.json) |
 | Dungeon Route | 350066 | [350066-dungeon-route.json](./350066-dungeon-route.json) |
 | Dungeon RPG Pikudan 2 | 222324 | [222324-dungeon-rpg-pikudan-2.json](./222324-dungeon-rpg-pikudan-2.json) |
