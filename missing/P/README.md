@@ -4264,6 +4264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phaser Patrol | 18564 | [18564-phaser-patrol.json](./18564-phaser-patrol.json) |
 | Phases | 398280 | [398280-phases.json](./398280-phases.json) |
 | Phaseshift | 175621 | [175621-phaseshift.json](./175621-phaseshift.json) |
+| PhaseWorm | 132477 | [132477-phaseworm.json](./132477-phaseworm.json) |
 | Phasmonauts | 310730 | [310730-phasmonauts.json](./310730-phasmonauts.json) |
 | Phasmos | 419122 | [419122-phasmos.json](./419122-phasmos.json) |
 | Phat Phrog | 30892 | [30892-phat-phrog.json](./30892-phat-phrog.json) |
