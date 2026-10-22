@@ -1288,6 +1288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gang Start | 208178 | [208178-gang-start.json](./208178-gang-start.json) |
 | Gang Wars | 150778 | [150778-gang-wars.json](./150778-gang-wars.json) |
 | GangBusters | 46773 | [46773-gangbusters.json](./46773-gangbusters.json) |
+| Ganghood Survival | 111361 | [111361-ganghood-survival.json](./111361-ganghood-survival.json) |
 | Gangnam City Deluxe | 242207 | [242207-gangnam-city-deluxe.json](./242207-gangnam-city-deluxe.json) |
 | Gangnam Dance School | 218531 | [218531-gangnam-dance-school.json](./218531-gangnam-dance-school.json) |
 | Gangnam Style | 257577 | [257577-gangnam-style.json](./257577-gangnam-style.json) |
@@ -6605,6 +6606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravity Guy | 361723 | [361723-gravity-guy.json](./361723-gravity-guy.json) |
 | Gravity Hook | 182716 | [182716-gravity-hook.json](./182716-gravity-hook.json) |
 | Gravity Hook HD | 76177 | [76177-gravity-hook-hd.json](./76177-gravity-hook-hd.json) |
+| Gravity Hop: Space Adventure | 111392 | [111392-gravity-hop-space-adventure.json](./111392-gravity-hop-space-adventure.json) |
 | Gravity House Duology | 378513 | [378513-gravity-house-duology.json](./378513-gravity-house-duology.json) |
 | Gravity in Space | 168664 | [168664-gravity-in-space.json](./168664-gravity-in-space.json) |
 | Gravity Island | 34010 | [34010-gravity-island.json](./34010-gravity-island.json) |
@@ -6650,6 +6652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravity Up | 318424 | [318424-gravity-up.json](./318424-gravity-up.json) |
 | Gravity Vector | 104791 | [104791-gravity-vector.json](./104791-gravity-vector.json) |
 | Gravity Wars | 64837 | [64837-gravity-wars.json](./64837-gravity-wars.json) |
+| Gravity Wars: Black Hole | 111407 | [111407-gravity-wars-black-hole.json](./111407-gravity-wars-black-hole.json) |
 | Gravity Was A Mistake | 366830 | [366830-gravity-was-a-mistake.json](./366830-gravity-was-a-mistake.json) |
 | Gravity Waves | 253371 | [253371-gravity-waves.json](./253371-gravity-waves.json) |
 | Gravity Well | 142317 | [142317-gravity-well.json](./142317-gravity-well.json) |
