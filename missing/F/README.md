@@ -534,6 +534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairy Games | 102678 | [102678-fairy-games.json](./102678-fairy-games.json) |
 | Fairy Glade | 175980 | [175980-fairy-glade.json](./175980-fairy-glade.json) |
 | Fairy Godmother Stories: Cinderella | 139725 | [139725-fairy-godmother-stories-cinderella.json](./139725-fairy-godmother-stories-cinderella.json) |
+| Fairy Godmother Stories: Cinderella - Collector's Edition | 126866 | [126866-fairy-godmother-stories-cinderella-collectors-edition.json](./126866-fairy-godmother-stories-cinderella-collectors-edition.json) |
 | Fairy Godmother Stories: Dark Deal | 155360 | [155360-fairy-godmother-stories-dark-deal.json](./155360-fairy-godmother-stories-dark-deal.json) |
 | Fairy Godmother Stories: Dark Deal - Collector's Edition | 155359 | [155359-fairy-godmother-stories-dark-deal-collectors-edition.json](./155359-fairy-godmother-stories-dark-deal-collectors-edition.json) |
 | Fairy Godmother Stories: Miraculous Dream - Collector's Edition | 166805 | [166805-fairy-godmother-stories-miraculous-dream-collectors-edition.json](./166805-fairy-godmother-stories-miraculous-dream-collectors-edition.json) |
@@ -621,6 +622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairytale Fables | 271637 | [271637-fairytale-fables.json](./271637-fairytale-fables.json) |
 | Fairytale Fights | 6991 | [6991-fairytale-fights.json](./6991-fairytale-fights.json) |
 | Fairytale Furnishing | 295560 | [295560-fairytale-furnishing.json](./295560-fairytale-furnishing.json) |
+| Fairytale Mosaics: Beauty and Beast | 126839 | [126839-fairytale-mosaics-beauty-and-beast.json](./126839-fairytale-mosaics-beauty-and-beast.json) |
 | Fairytale Mosaics: Beauty and the Beast 2 | 99574 | [99574-fairytale-mosaics-beauty-and-the-beast-2.json](./99574-fairytale-mosaics-beauty-and-the-beast-2.json) |
 | Fairytale Mosaics: Cinderella 2 | 155649 | [155649-fairytale-mosaics-cinderella-2.json](./155649-fairytale-mosaics-cinderella-2.json) |
 | Fairytale Mosaics. Beauty and the Beast | 94788 | [94788-fairytale-mosaics-beauty-and-the-beast.json](./94788-fairytale-mosaics-beauty-and-the-beast.json) |
