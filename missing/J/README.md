@@ -691,6 +691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jazz It Up | 177994 | [177994-jazz-it-up.json](./177994-jazz-it-up.json) |
 | Jazz Jackrabbit 2 | 764 | [764-jazz-jackrabbit-2.json](./764-jazz-jackrabbit-2.json) |
 | Jazz Jackrabbit 2: Holiday Hare 98 | 71761 | [71761-jazz-jackrabbit-2-holiday-hare-98.json](./71761-jazz-jackrabbit-2-holiday-hare-98.json) |
+| Jazz Jackrabbit 2: The Christmas Chronicles | 134282 | [134282-jazz-jackrabbit-2-the-christmas-chronicles.json](./134282-jazz-jackrabbit-2-the-christmas-chronicles.json) |
 | Jazz Jackrabbit 2: The Secret Files | 51347 | [51347-jazz-jackrabbit-2-the-secret-files.json](./51347-jazz-jackrabbit-2-the-secret-files.json) |
 | Jazz Jackrabbit 3 | 72667 | [72667-jazz-jackrabbit-3.json](./72667-jazz-jackrabbit-3.json) |
 | Jazz Jackrabbit: Holiday Hare 1994 | 79517 | [79517-jazz-jackrabbit-holiday-hare-1994.json](./79517-jazz-jackrabbit-holiday-hare-1994.json) |
@@ -2329,6 +2330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jubeat Ave. | 229537 | [229537-jubeat-ave.json](./229537-jubeat-ave.json) |
 | Jubeat Clan | 125280 | [125280-jubeat-clan.json](./125280-jubeat-clan.json) |
 | Jubeat Copious | 84438 | [84438-jubeat-copious.json](./84438-jubeat-copious.json) |
+| Jubeat Festo | 134298 | [134298-jubeat-festo.json](./134298-jubeat-festo.json) |
 | Jubeat Knit | 92070 | [92070-jubeat-knit.json](./92070-jubeat-knit.json) |
 | Jubeat Mobile | 154838 | [154838-jubeat-mobile.json](./154838-jubeat-mobile.json) |
 | Jubeat Mobile 2 | 154840 | [154840-jubeat-mobile-2.json](./154840-jubeat-mobile-2.json) |
