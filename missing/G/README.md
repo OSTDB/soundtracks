@@ -2556,6 +2556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geometry Boxer | 98768 | [98768-geometry-boxer.json](./98768-geometry-boxer.json) |
 | Geometry Breakers | 369172 | [369172-geometry-breakers.json](./369172-geometry-breakers.json) |
 | Geometry Curling | 256132 | [256132-geometry-curling.json](./256132-geometry-curling.json) |
+| Geometry Darkness | 104494 | [104494-geometry-darkness.json](./104494-geometry-darkness.json) |
 | Geometry Darkness 2.2 :D | 101984 | [101984-geometry-darkness-2-2-d.json](./101984-geometry-darkness-2-2-d.json) |
 | Geometry Dash Meltdown | 38693 | [38693-geometry-dash-meltdown.json](./38693-geometry-dash-meltdown.json) |
 | Geometry Dash PSP | 280740 | [280740-geometry-dash-psp.json](./280740-geometry-dash-psp.json) |
