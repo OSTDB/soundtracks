@@ -4263,6 +4263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kosmik Pirate | 300032 | [300032-kosmik-pirate.json](./300032-kosmik-pirate.json) |
 | Kosmo & Klax: Treehouse-Party | 95693 | [95693-kosmo-and-klax-treehouse-party.json](./95693-kosmo-and-klax-treehouse-party.json) |
 | Kosmo Azs | 257922 | [257922-kosmo-azs.json](./257922-kosmo-azs.json) |
+| Kosmo Killer | 120627 | [120627-kosmo-killer.json](./120627-kosmo-killer.json) |
 | Kosmo Laika: Space and Beyond | 164247 | [164247-kosmo-laika-space-and-beyond.json](./164247-kosmo-laika-space-and-beyond.json) |
 | Kosmo Skirmish | 291771 | [291771-kosmo-skirmish.json](./291771-kosmo-skirmish.json) |
 | Kosmo Spin | 6208 | [6208-kosmo-spin.json](./6208-kosmo-spin.json) |
