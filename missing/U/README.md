@@ -2016,6 +2016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unlock the King | 126885 | [126885-unlock-the-king.json](./126885-unlock-the-king.json) |
 | Unlock the King 2 | 127418 | [127418-unlock-the-king-2.json](./127418-unlock-the-king-2.json) |
 | Unlock the King 3 | 132700 | [132700-unlock-the-king-3.json](./132700-unlock-the-king-3.json) |
+| Unlocked | 148813 | [148813-unlocked.json](./148813-unlocked.json) |
 | Unlog | 370705 | [370705-unlog.json](./370705-unlog.json) |
 | Unloop | 232015 | [232015-unloop.json](./232015-unloop.json) |
 | Unloop | 263149 | [263149-unloop.json](./263149-unloop.json) |
