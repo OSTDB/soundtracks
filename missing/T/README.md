@@ -784,6 +784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tako no Marine | 107647 | [107647-tako-no-marine.json](./107647-tako-no-marine.json) |
 | Tako to Ika 3 | 410183 | [410183-tako-to-ika-3.json](./410183-tako-to-ika-3.json) |
 | Takorita Meets Fries | 158181 | [158181-takorita-meets-fries.json](./158181-takorita-meets-fries.json) |
+| Takoway | 133691 | [133691-takoway.json](./133691-takoway.json) |
 | Takoyaki Party Survival | 213972 | [213972-takoyaki-party-survival.json](./213972-takoyaki-party-survival.json) |
 | Takt of Magic | 91755 | [91755-takt-of-magic.json](./91755-takt-of-magic.json) |
 | Takuhai Maid Shiiko & Nono | 77901 | [77901-takuhai-maid-shiiko-and-nono.json](./77901-takuhai-maid-shiiko-and-nono.json) |
@@ -4812,6 +4813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Balldragon | 335265 | [335265-the-balldragon.json](./335265-the-balldragon.json) |
 | The Balloonist: Beyond the Clouds | 75831 | [75831-the-balloonist-beyond-the-clouds.json](./75831-the-balloonist-beyond-the-clouds.json) |
 | The Balls | 280256 | [280256-the-balls.json](./280256-the-balls.json) |
+| The Bally Game Show | 133658 | [133658-the-bally-game-show.json](./133658-the-bally-game-show.json) |
 | The Ballz are Lava! | 225695 | [225695-the-ballz-are-lava.json](./225695-the-ballz-are-lava.json) |
 | The Balrog and the Cat | 58857 | [58857-the-balrog-and-the-cat.json](./58857-the-balrog-and-the-cat.json) |
 | The Banana Saved the World | 157902 | [157902-the-banana-saved-the-world.json](./157902-the-banana-saved-the-world.json) |
@@ -7525,6 +7527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Forgotten Fairy Tales: The Spectra World | 100153 | [100153-the-forgotten-fairy-tales-the-spectra-world.json](./100153-the-forgotten-fairy-tales-the-spectra-world.json) |
 | The Forgotten Forest | 34276 | [34276-the-forgotten-forest.json](./34276-the-forgotten-forest.json) |
 | The Forgotten Island | 368267 | [368267-the-forgotten-island.json](./368267-the-forgotten-island.json) |
+| The Forgotten Journey Through Time | 133641 | [133641-the-forgotten-journey-through-time.json](./133641-the-forgotten-journey-through-time.json) |
 | The Forgotten Level | 271763 | [271763-the-forgotten-level.json](./271763-the-forgotten-level.json) |
 | The Forgotten Nightmare Series | 409390 | [409390-the-forgotten-nightmare-series.json](./409390-the-forgotten-nightmare-series.json) |
 | The Forgotten Ones | 17656 | [17656-the-forgotten-ones.json](./17656-the-forgotten-ones.json) |
@@ -10716,6 +10719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Midnight Park | 183066 | [183066-the-midnight-park.json](./183066-the-midnight-park.json) |
 | The Midnight Town Stories: Adam's Diary | 260530 | [260530-the-midnight-town-stories-adams-diary.json](./260530-the-midnight-town-stories-adams-diary.json) |
 | The Midnight Town Stories: Matt's Nightmare | 336580 | [336580-the-midnight-town-stories-matts-nightmare.json](./336580-the-midnight-town-stories-matts-nightmare.json) |
+| The Midnight Train to Nowhere | 133688 | [133688-the-midnight-train-to-nowhere.json](./133688-the-midnight-train-to-nowhere.json) |
 | The Midnight Walkers | 289983 | [289983-the-midnight-walkers.json](./289983-the-midnight-walkers.json) |
 | The Midnight Wind | 189350 | [189350-the-midnight-wind.json](./189350-the-midnight-wind.json) |
 | The Midnighters | 376659 | [376659-the-midnighters.json](./376659-the-midnighters.json) |
@@ -23903,6 +23907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trevor Sorensen's Star Legions | 54398 | [54398-trevor-sorensens-star-legions.json](./54398-trevor-sorensens-star-legions.json) |
 | Trex and Muscle Sam: A New Kickstart! | 22042 | [22042-trex-and-muscle-sam-a-new-kickstart.json](./22042-trex-and-muscle-sam-a-new-kickstart.json) |
 | TRex Hero | 306381 | [306381-trex-hero.json](./306381-trex-hero.json) |
+| Treyex2D | 133690 | [133690-treyex2d.json](./133690-treyex2d.json) |
 | Tri Bogatyrya i Shamakhanskaya Tsaritsa | 337432 | [337432-tri-bogatyrya-i-shamakhanskaya-tsaritsa.json](./337432-tri-bogatyrya-i-shamakhanskaya-tsaritsa.json) |
 | Tri Breaker: A Sacred Symbols Odyssey | 322644 | [322644-tri-breaker-a-sacred-symbols-odyssey.json](./322644-tri-breaker-a-sacred-symbols-odyssey.json) |
 | Tri City Monsters | 253816 | [253816-tri-city-monsters.json](./253816-tri-city-monsters.json) |
@@ -26113,6 +26118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tycoon Idle: Business Master | 233377 | [233377-tycoon-idle-business-master.json](./233377-tycoon-idle-business-master.json) |
 | Tycoon Legends | 245855 | [245855-tycoon-legends.json](./245855-tycoon-legends.json) |
 | Tycoon of the HighSeas | 181124 | [181124-tycoon-of-the-highseas.json](./181124-tycoon-of-the-highseas.json) |
+| Tycoon Tex | 133669 | [133669-tycoon-tex.json](./133669-tycoon-tex.json) |
 | Tyd wag vir Niemand | 52012 | [52012-tyd-wag-vir-niemand.json](./52012-tyd-wag-vir-niemand.json) |
 | Tyfortress: Tactical Typing | 161154 | [161154-tyfortress-tactical-typing.json](./161154-tyfortress-tactical-typing.json) |
 | Tyga | 303079 | [303079-tyga.json](./303079-tyga.json) |
