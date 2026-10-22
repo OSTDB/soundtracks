@@ -1737,6 +1737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Electroplankton Sun-Animalcule | 85111 | [85111-electroplankton-sun-animalcule.json](./85111-electroplankton-sun-animalcule.json) |
 | Electroplankton Trapy | 85110 | [85110-electroplankton-trapy.json](./85110-electroplankton-trapy.json) |
 | Electroplankton Varvoice | 85109 | [85109-electroplankton-varvoice.json](./85109-electroplankton-varvoice.json) |
+| Electroquest: Resistance is Futile | 101310 | [101310-electroquest-resistance-is-futile.json](./101310-electroquest-resistance-is-futile.json) |
 | Elegant Sleuth: Mystic Family | 349311 | [349311-elegant-sleuth-mystic-family.json](./349311-elegant-sleuth-mystic-family.json) |
 | Elegos | 197069 | [197069-elegos.json](./197069-elegos.json) |
 | Elegy for a Dead World | 16680 | [16680-elegy-for-a-dead-world.json](./16680-elegy-for-a-dead-world.json) |
