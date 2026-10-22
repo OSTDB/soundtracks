@@ -141,6 +141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Babel | 239161 | [239161-babel.json](./239161-babel.json) |
 | Babel | 385394 | [385394-babel.json](./385394-babel.json) |
 | Babel | 78908 | [78908-babel.json](./78908-babel.json) |
+| Babel Climbers | 126837 | [126837-babel-climbers.json](./126837-babel-climbers.json) |
 | Babel Defender | 318760 | [318760-babel-defender.json](./318760-babel-defender.json) |
 | Babel Defense | 338174 | [338174-babel-defense.json](./338174-babel-defense.json) |
 | Babel Deluxe | 63897 | [63897-babel-deluxe.json](./63897-babel-deluxe.json) |
@@ -8600,6 +8601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood Safari | 165662 | [165662-blood-safari.json](./165662-blood-safari.json) |
 | Blood Samurai | 256918 | [256918-blood-samurai.json](./256918-blood-samurai.json) |
 | Blood Samurai: Night of Slaughter | 227851 | [227851-blood-samurai-night-of-slaughter.json](./227851-blood-samurai-night-of-slaughter.json) |
+| Blood Scrolls | 126863 | [126863-blood-scrolls.json](./126863-blood-scrolls.json) |
 | Blood Sea | 312572 | [312572-blood-sea.json](./312572-blood-sea.json) |
 | Blood Sins | 284016 | [284016-blood-sins.json](./284016-blood-sins.json) |
 | Blood Soaked Bastard! | 349997 | [349997-blood-soaked-bastard.json](./349997-blood-soaked-bastard.json) |
@@ -9005,6 +9007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Blood Lagoon | 69519 | [69519-blue-blood-lagoon.json](./69519-blue-blood-lagoon.json) |
 | Blue Box | 200753 | [200753-blue-box.json](./200753-blue-box.json) |
 | Blue Boy Adventure | 262193 | [262193-blue-boy-adventure.json](./262193-blue-boy-adventure.json) |
+| Blue Boy: Bleeding Out | 126879 | [126879-blue-boy-bleeding-out.json](./126879-blue-boy-bleeding-out.json) |
 | Blue Breaker Burst: Bishou o Anata to | 43816 | [43816-blue-breaker-burst-bishou-o-anata-to.json](./43816-blue-breaker-burst-bishou-o-anata-to.json) |
 | Blue Breaker Burst: Egao no Asu ni | 43817 | [43817-blue-breaker-burst-egao-no-asu-ni.json](./43817-blue-breaker-burst-egao-no-asu-ni.json) |
 | Blue Chips | 191126 | [191126-blue-chips.json](./191126-blue-chips.json) |
