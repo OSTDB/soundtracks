@@ -4362,6 +4362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akai Onna | 277961 | [277961-akai-onna.json](./277961-akai-onna.json) |
 | Akai Suishou no Hitomi | 151841 | [151841-akai-suishou-no-hitomi.json](./151841-akai-suishou-no-hitomi.json) |
 | Akai Sumo: Ai no Dosukoi Densetsu | 239611 | [239611-akai-sumo-ai-no-dosukoi-densetsu.json](./239611-akai-sumo-ai-no-dosukoi-densetsu.json) |
+| Akai Suna Ochiru Tsuki | 130011 | [130011-akai-suna-ochiru-tsuki.json](./130011-akai-suna-ochiru-tsuki.json) |
 | Akairo Kimi to, Shiawase ni | 285995 | [285995-akairo-kimi-to-shiawase-ni.json](./285995-akairo-kimi-to-shiawase-ni.json) |
 | Akairo Mansion: Horror Edition | 301979 | [301979-akairo-mansion-horror-edition.json](./301979-akairo-mansion-horror-edition.json) |
 | Akairo no Kaii | 244376 | [244376-akairo-no-kaii.json](./244376-akairo-no-kaii.json) |
@@ -4818,6 +4819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alexander | 9359 | [9359-alexander.json](./9359-alexander.json) |
 | Alexander the Great: Secrets of Power | 58039 | [58039-alexander-the-great-secrets-of-power.json](./58039-alexander-the-great-secrets-of-power.json) |
 | Alexander: Heroes of the Conquest | 202679 | [202679-alexander-heroes-of-the-conquest.json](./202679-alexander-heroes-of-the-conquest.json) |
+| Alexander: The Heroes Hour | 130040 | [130040-alexander-the-heroes-hour.json](./130040-alexander-the-heroes-hour.json) |
 | Alexandra Fortune: Mystery of the Lunar Archipelago | 177047 | [177047-alexandra-fortune-mystery-of-the-lunar-archipelago.json](./177047-alexandra-fortune-mystery-of-the-lunar-archipelago.json) |
 | Alexandra Ledermann 2: Equitation Competition | 278849 | [278849-alexandra-ledermann-2-equitation-competition.json](./278849-alexandra-ledermann-2-equitation-competition.json) |
 | Alexandra Ledermann 5 : Legacy of the Stud | 381906 | [381906-alexandra-ledermann-5-legacy-of-the-stud.json](./381906-alexandra-ledermann-5-legacy-of-the-stud.json) |
@@ -8616,6 +8618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aokaki | 304947 | [304947-aokaki.json](./304947-aokaki.json) |
 | Aokana: Four Rhythms Across the Blue | 54630 | [54630-aokana-four-rhythms-across-the-blue.json](./54630-aokana-four-rhythms-across-the-blue.json) |
 | Aokana: Four Rhythms Across the Blue Extra1 | 124028 | [124028-aokana-four-rhythms-across-the-blue-extra1.json](./124028-aokana-four-rhythms-across-the-blue-extra1.json) |
+| Aokana: Four Rhythms Across the Blue Extra2 | 130008 | [130008-aokana-four-rhythms-across-the-blue-extra2.json](./130008-aokana-four-rhythms-across-the-blue-extra2.json) |
 | Aoki Densetsu Shoot! | 228474 | [228474-aoki-densetsu-shoot.json](./228474-aoki-densetsu-shoot.json) |
 | Aoki Densetsu Shoot! | 38230 | [38230-aoki-densetsu-shoot.json](./38230-aoki-densetsu-shoot.json) |
 | Aoki Gentyouhishi | 45546 | [45546-aoki-gentyouhishi.json](./45546-aoki-gentyouhishi.json) |
@@ -11276,6 +11279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asagao Academy: Normal Boots Club | 46579 | [46579-asagao-academy-normal-boots-club.json](./46579-asagao-academy-normal-boots-club.json) |
 | Asagao ha Ai wo Shiranai | 411685 | [411685-asagao-ha-ai-wo-shiranai.json](./411685-asagao-ha-ai-wo-shiranai.json) |
 | Asaki, Yumemishi | 56524 | [56524-asaki-yumemishi.json](./56524-asaki-yumemishi.json) |
+| Asaki, Yumemishi ~Hitotose~ | 130021 | [130021-asaki-yumemishi-hitotose.json](./130021-asaki-yumemishi-hitotose.json) |
 | Asakura! P | 63096 | [63096-asakura-p.json](./63096-asakura-p.json) |
 | Asameshimae Nyanko | 44450 | [44450-asameshimae-nyanko.json](./44450-asameshimae-nyanko.json) |
 | Asatsugutori | 163145 | [163145-asatsugutori.json](./163145-asatsugutori.json) |
