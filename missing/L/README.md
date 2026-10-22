@@ -573,6 +573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Land of the Vikings | 211376 | [211376-land-of-the-vikings.json](./211376-land-of-the-vikings.json) |
 | Land of the Vikings: Dage Island | 316374 | [316374-land-of-the-vikings-dage-island.json](./316374-land-of-the-vikings-dage-island.json) |
 | Land of the Vikings: Thralls | 321832 | [321832-land-of-the-vikings-thralls.json](./321832-land-of-the-vikings-thralls.json) |
+| Land of the Void | 115363 | [115363-land-of-the-void.json](./115363-land-of-the-void.json) |
 | Land of Towers | 225585 | [225585-land-of-towers.json](./225585-land-of-towers.json) |
 | Land of Viewers | 204095 | [204095-land-of-viewers.json](./204095-land-of-viewers.json) |
 | Land of War: The Beginning | 122376 | [122376-land-of-war-the-beginning.json](./122376-land-of-war-the-beginning.json) |
@@ -4681,6 +4682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Longnose | 232864 | [232864-little-longnose.json](./232864-little-longnose.json) |
 | Little Lookouts | 300385 | [300385-little-lookouts.json](./300385-little-lookouts.json) |
 | Little Lords of Twilight | 28667 | [28667-little-lords-of-twilight.json](./28667-little-lords-of-twilight.json) |
+| Little Lost Robots | 115353 | [115353-little-lost-robots.json](./115353-little-lost-robots.json) |
 | Little Lovers | 108969 | [108969-little-lovers.json](./108969-little-lovers.json) |
 | Little Lovers 2nd. Yui | 108968 | [108968-little-lovers-2nd-yui.json](./108968-little-lovers-2nd-yui.json) |
 | Little Luna | 341172 | [341172-little-luna.json](./341172-little-luna.json) |
