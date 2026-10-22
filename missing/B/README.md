@@ -5368,6 +5368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond a Steel Sky: Beyond a Steel Book Edition | 171279 | [171279-beyond-a-steel-sky-beyond-a-steel-book-edition.json](./171279-beyond-a-steel-sky-beyond-a-steel-book-edition.json) |
 | Beyond A Steel Sky: Utopia Edition | 170029 | [170029-beyond-a-steel-sky-utopia-edition.json](./170029-beyond-a-steel-sky-utopia-edition.json) |
 | Beyond a Total Loss | 117563 | [117563-beyond-a-total-loss.json](./117563-beyond-a-total-loss.json) |
+| Beyond All Reason | 133655 | [133655-beyond-all-reason.json](./133655-beyond-all-reason.json) |
 | Beyond Arm's Reach | 65784 | [65784-beyond-arms-reach.json](./65784-beyond-arms-reach.json) |
 | Beyond Astra | 319187 | [319187-beyond-astra.json](./319187-beyond-astra.json) |
 | Beyond Babel | 337308 | [337308-beyond-babel.json](./337308-beyond-babel.json) |
@@ -11919,6 +11920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brick Breaker Revolution | 383630 | [383630-brick-breaker-revolution.json](./383630-brick-breaker-revolution.json) |
 | Brick Breaker Ultimate | 65800 | [65800-brick-breaker-ultimate.json](./65800-brick-breaker-ultimate.json) |
 | Brick Breaker Unicorn | 151199 | [151199-brick-breaker-unicorn.json](./151199-brick-breaker-unicorn.json) |
+| Brick Breaker VR | 133667 | [133667-brick-breaker-vr.json](./133667-brick-breaker-vr.json) |
 | Brick Breaker X: Deluxe | 180130 | [180130-brick-breaker-x-deluxe.json](./180130-brick-breaker-x-deluxe.json) |
 | Brick Breaker: Ball Shooter | 219479 | [219479-brick-breaker-ball-shooter.json](./219479-brick-breaker-ball-shooter.json) |
 | Brick Breaker: Infinity | 331353 | [331353-brick-breaker-infinity.json](./331353-brick-breaker-infinity.json) |
@@ -12179,6 +12181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brink of War | 310250 | [310250-brink-of-war.json](./310250-brink-of-war.json) |
 | Brink Traveler | 168681 | [168681-brink-traveler.json](./168681-brink-traveler.json) |
 | Brink: Agents of Change | 164366 | [164366-brink-agents-of-change.json](./164366-brink-agents-of-change.json) |
+| Brinkmanship | 133666 | [133666-brinkmanship.json](./133666-brinkmanship.json) |
 | Brinquemática: Aventura Pirata | 290099 | [290099-brinquematica-aventura-pirata.json](./290099-brinquematica-aventura-pirata.json) |
 | BRIO World | 352512 | [352512-brio-world.json](./352512-brio-world.json) |
 | Brio World: Railway | 374257 | [374257-brio-world-railway.json](./374257-brio-world-railway.json) |
