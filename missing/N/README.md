@@ -4440,6 +4440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Law | 381205 | [381205-no-law.json](./381205-no-law.json) |
 | No Life: Zombie Survivor | 293872 | [293872-no-life-zombie-survivor.json](./293872-no-life-zombie-survivor.json) |
 | No Light | 150684 | [150684-no-light.json](./150684-no-light.json) |
+| No Light | 155932 | [155932-no-light.json](./155932-no-light.json) |
 | No Lights | 52080 | [52080-no-lights.json](./52080-no-lights.json) |
 | No Lights 2 | 195477 | [195477-no-lights-2.json](./195477-no-lights-2.json) |
 | No Limit Drag Racing 2 | 227370 | [227370-no-limit-drag-racing-2.json](./227370-no-limit-drag-racing-2.json) |
