@@ -8139,6 +8139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roller Coaster Mania 2 | 54327 | [54327-roller-coaster-mania-2.json](./54327-roller-coaster-mania-2.json) |
 | Roller Coaster Mania 3 | 54328 | [54328-roller-coaster-mania-3.json](./54328-roller-coaster-mania-3.json) |
 | Roller Coaster Rampage | 16359 | [16359-roller-coaster-rampage.json](./16359-roller-coaster-rampage.json) |
+| Roller Crash | 114722 | [114722-roller-crash.json](./114722-roller-crash.json) |
 | Roller Drama | 143895 | [143895-roller-drama.json](./143895-roller-drama.json) |
 | Roller Jammer | 40420 | [40420-roller-jammer.json](./40420-roller-jammer.json) |
 | Roller Loop | 350198 | [350198-roller-loop.json](./350198-roller-loop.json) |
@@ -9485,6 +9486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rumble Roses XX | 7167 | [7167-rumble-roses-xx.json](./7167-rumble-roses-xx.json) |
 | Rumble Runners | 152458 | [152458-rumble-runners.json](./152458-rumble-runners.json) |
 | Rumble Solitaire | 416040 | [416040-rumble-solitaire.json](./416040-rumble-solitaire.json) |
+| Rumble Stars | 114700 | [114700-rumble-stars.json](./114700-rumble-stars.json) |
 | Rumble Sus | 238437 | [238437-rumble-sus.json](./238437-rumble-sus.json) |
 | Rumble Trucks | 44515 | [44515-rumble-trucks.json](./44515-rumble-trucks.json) |
 | Rumbo and the Quest for Scar City | 185382 | [185382-rumbo-and-the-quest-for-scar-city.json](./185382-rumbo-and-the-quest-for-scar-city.json) |
