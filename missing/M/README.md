@@ -7413,6 +7413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mermaid no Kisetsu | 371011 | [371011-mermaid-no-kisetsu.json](./371011-mermaid-no-kisetsu.json) |
 | Mermaid Prism | 203341 | [203341-mermaid-prism.json](./203341-mermaid-prism.json) |
 | Mermaid Secrets10-First Crush in high school | 95877 | [95877-mermaid-secrets10-first-crush-in-high-school.json](./95877-mermaid-secrets10-first-crush-in-high-school.json) |
+| Mermaid Secrets11- Mermaids Spa Salon Makeover | 99370 | [99370-mermaid-secrets11-mermaids-spa-salon-makeover.json](./99370-mermaid-secrets11-mermaids-spa-salon-makeover.json) |
 | Mermaid Secrets12 - Heartbreak Love Story | 100838 | [100838-mermaid-secrets12-heartbreak-love-story.json](./100838-mermaid-secrets12-heartbreak-love-story.json) |
 | Mermaid Secrets14 - Prison Escape | 104465 | [104465-mermaid-secrets14-prison-escape.json](./104465-mermaid-secrets14-prison-escape.json) |
 | Mermaid Spa & Makeover | 90733 | [90733-mermaid-spa-and-makeover.json](./90733-mermaid-spa-and-makeover.json) |
@@ -12738,6 +12739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MonsterTerritory | 167250 | [167250-monsterterritory.json](./167250-monsterterritory.json) |
 | Monsterthon | 39005 | [39005-monsterthon.json](./39005-monsterthon.json) |
 | Monsterwolf | 156009 | [156009-monsterwolf.json](./156009-monsterwolf.json) |
+| MonsterxMan: Inheritance to Lust | 99457 | [99457-monsterxman-inheritance-to-lust.json](./99457-monsterxman-inheritance-to-lust.json) |
 | Monsti: Special Edition | 53378 | [53378-monsti-special-edition.json](./53378-monsti-special-edition.json) |
 | Monstinder | 180545 | [180545-monstinder.json](./180545-monstinder.json) |
 | Monstir Iradicator | 221121 | [221121-monstir-iradicator.json](./221121-monstir-iradicator.json) |
@@ -13631,6 +13633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mosaic Quiz | 378814 | [378814-mosaic-quiz.json](./378814-mosaic-quiz.json) |
 | Mosaic Quiz Fastest Finger Battle | 403745 | [403745-mosaic-quiz-fastest-finger-battle.json](./403745-mosaic-quiz-fastest-finger-battle.json) |
 | Mosaic Your Crush! | 161394 | [161394-mosaic-your-crush.json](./161394-mosaic-your-crush.json) |
+| Mosaic: Game of Gods II | 99446 | [99446-mosaic-game-of-gods-ii.json](./99446-mosaic-game-of-gods-ii.json) |
 | Mosaic: Tomb of Mystery | 210122 | [210122-mosaic-tomb-of-mystery.json](./210122-mosaic-tomb-of-mystery.json) |
 | Mosaica: Arboreal | 386877 | [386877-mosaica-arboreal.json](./386877-mosaica-arboreal.json) |
 | Mosaico | 287861 | [287861-mosaico.json](./287861-mosaico.json) |
@@ -14610,6 +14613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Steal Yo Wifi | 107200 | [107200-mr-steal-yo-wifi.json](./107200-mr-steal-yo-wifi.json) |
 | Mr. Stretch and the Stolen Fortune | 249228 | [249228-mr-stretch-and-the-stolen-fortune.json](./249228-mr-stretch-and-the-stolen-fortune.json) |
 | Mr. Supershot | 274736 | [274736-mr-supershot.json](./274736-mr-supershot.json) |
+| Mr. Sweet | 99442 | [99442-mr-sweet.json](./99442-mr-sweet.json) |
 | Mr. Swing of the Window Cleaning Company | 235101 | [235101-mr-swing-of-the-window-cleaning-company.json](./235101-mr-swing-of-the-window-cleaning-company.json) |
 | Mr. Swop | 414572 | [414572-mr-swop.json](./414572-mr-swop.json) |
 | Mr. T | 84448 | [84448-mr-t.json](./84448-mr-t.json) |
@@ -14865,6 +14869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Multi Play Volleyball | 38363 | [38363-multi-play-volleyball.json](./38363-multi-play-volleyball.json) |
 | Multi Quiz | 147850 | [147850-multi-quiz.json](./147850-multi-quiz.json) |
 | Multi Race: Match the Car | 213806 | [213806-multi-race-match-the-car.json](./213806-multi-race-match-the-car.json) |
+| Multi Robot Transform Army Tank War 2 | 99368 | [99368-multi-robot-transform-army-tank-war-2.json](./99368-multi-robot-transform-army-tank-war-2.json) |
 | Multi Sandbox | 102751 | [102751-multi-sandbox.json](./102751-multi-sandbox.json) |
 | Multi Sports | 94688 | [94688-multi-sports.json](./94688-multi-sports.json) |
 | Multi Sports II | 301579 | [301579-multi-sports-ii.json](./301579-multi-sports-ii.json) |
@@ -16665,6 +16670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Xiuxian World | 341161 | [341161-my-xiuxian-world.json](./341161-my-xiuxian-world.json) |
 | My Young Boyfriend Part 1 | 298881 | [298881-my-young-boyfriend-part-1.json](./298881-my-young-boyfriend-part-1.json) |
 | My Young Boyfriend Part 2 | 303273 | [303273-my-young-boyfriend-part-2.json](./303273-my-young-boyfriend-part-2.json) |
+| My zero trip | 99437 | [99437-my-zero-trip.json](./99437-my-zero-trip.json) |
 | My Zombie Girlfriend | 231423 | [231423-my-zombie-girlfriend.json](./231423-my-zombie-girlfriend.json) |
 | My Zombie World | 255515 | [255515-my-zombie-world.json](./255515-my-zombie-world.json) |
 | My Zombies Are Hungry | 418792 | [418792-my-zombies-are-hungry.json](./418792-my-zombies-are-hungry.json) |
