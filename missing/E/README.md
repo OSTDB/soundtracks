@@ -3821,6 +3821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Errand Boy | 127883 | [127883-errand-boy.json](./127883-errand-boy.json) |
 | Errant Heart | 123817 | [123817-errant-heart.json](./123817-errant-heart.json) |
 | Errant Kingdom | 122842 | [122842-errant-kingdom.json](./122842-errant-kingdom.json) |
+| Errant: Hunter's Soul | 108745 | [108745-errant-hunters-soul.json](./108745-errant-hunters-soul.json) |
 | Errant: Hunter's Soul | 200748 | [200748-errant-hunters-soul.json](./200748-errant-hunters-soul.json) |
 | Errante | 185559 | [185559-errante.json](./185559-errante.json) |
 | Errasaga | 381599 | [381599-errasaga.json](./381599-errasaga.json) |
