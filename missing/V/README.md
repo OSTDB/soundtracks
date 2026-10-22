@@ -1704,6 +1704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Viking Trickshot: Full Game | 168083 | [168083-viking-trickshot-full-game.json](./168083-viking-trickshot-full-game.json) |
 | Viking Vengeance | 118779 | [118779-viking-vengeance.json](./118779-viking-vengeance.json) |
 | Viking Village | 88823 | [88823-viking-village.json](./88823-viking-village.json) |
+| Viking Warrior | 142655 | [142655-viking-warrior.json](./142655-viking-warrior.json) |
 | Viking: Battle for Asgard | 7234 | [7234-viking-battle-for-asgard.json](./7234-viking-battle-for-asgard.json) |
 | Viking: Heroes War | 89827 | [89827-viking-heroes-war.json](./89827-viking-heroes-war.json) |
 | Viking: Sagas of the Norse Lands | 216394 | [216394-viking-sagas-of-the-norse-lands.json](./216394-viking-sagas-of-the-norse-lands.json) |
@@ -2546,6 +2547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Void Funk | 250846 | [250846-void-funk.json](./250846-void-funk.json) |
 | Void Future: Hacking Protocol | 376207 | [376207-void-future-hacking-protocol.json](./376207-void-future-hacking-protocol.json) |
 | Void Game | 394338 | [394338-void-game.json](./394338-void-game.json) |
+| Void Gore | 143540 | [143540-void-gore.json](./143540-void-gore.json) |
 | Void Guard | 277276 | [277276-void-guard.json](./277276-void-guard.json) |
 | Void Hazard | 372628 | [372628-void-hazard.json](./372628-void-hazard.json) |
 | Void Heart | 189985 | [189985-void-heart.json](./189985-void-heart.json) |
