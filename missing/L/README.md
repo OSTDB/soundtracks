@@ -7088,6 +7088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LSD: The Game | 116998 | [116998-lsd-the-game.json](./116998-lsd-the-game.json) |
 | LSDriver 1+2: Remastered Collection | 174542 | [174542-lsdriver-1-2-remastered-collection.json](./174542-lsdriver-1-2-remastered-collection.json) |
 | LSI Puzzle: Last One | 385752 | [385752-lsi-puzzle-last-one.json](./385752-lsi-puzzle-last-one.json) |
+| Lt. Typhon | 144161 | [144161-lt-typhon.json](./144161-lt-typhon.json) |
 | LTA: Light-years! Thrusters! Action! | 295166 | [295166-lta-light-years-thrusters-action.json](./295166-lta-light-years-thrusters-action.json) |
 | Lu Bu Maker | 104902 | [104902-lu-bu-maker.json](./104902-lu-bu-maker.json) |
 | Lu Dajishen II | 128321 | [128321-lu-dajishen-ii.json](./128321-lu-dajishen-ii.json) |
