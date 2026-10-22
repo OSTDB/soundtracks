@@ -1106,6 +1106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Venture Forth | 32087 | [32087-venture-forth.json](./32087-venture-forth.json) |
 | Venture II | 46889 | [46889-venture-ii.json](./46889-venture-ii.json) |
 | Venture Kid | 96439 | [96439-venture-kid.json](./96439-venture-kid.json) |
+| Venture Seas | 130574 | [130574-venture-seas.json](./130574-venture-seas.json) |
 | Venture Towns | 65498 | [65498-venture-towns.json](./65498-venture-towns.json) |
 | Venture Tycoon | 205984 | [205984-venture-tycoon.json](./205984-venture-tycoon.json) |
 | Venture Valley | 148946 | [148946-venture-valley.json](./148946-venture-valley.json) |
