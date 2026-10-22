@@ -1075,6 +1075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eel on Mask | 392752 | [392752-eel-on-mask.json](./392752-eel-on-mask.json) |
 | Eelah | 190893 | [190893-eelah.json](./190893-eelah.json) |
 | Een Wonderlijk Avontuur met Pardoes de Tovernar | 242643 | [242643-een-wonderlijk-avontuur-met-pardoes-de-tovernar.json](./242643-een-wonderlijk-avontuur-met-pardoes-de-tovernar.json) |
+| EEP 14 | 100658 | [100658-eep-14.json](./100658-eep-14.json) |
 | EEP Train Simulator Mission | 33266 | [33266-eep-train-simulator-mission.json](./33266-eep-train-simulator-mission.json) |
 | Eerie Desolation | 272772 | [272772-eerie-desolation.json](./272772-eerie-desolation.json) |
 | Eerie Dossier: The Haunted Apartment | 391339 | [391339-eerie-dossier-the-haunted-apartment.json](./391339-eerie-dossier-the-haunted-apartment.json) |
