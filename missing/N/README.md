@@ -5160,6 +5160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noor | 358261 | [358261-noor.json](./358261-noor.json) |
 | Noor Quest | 91983 | [91983-noor-quest.json](./91983-noor-quest.json) |
 | Noora and the Time Studio | 137517 | [137517-noora-and-the-time-studio.json](./137517-noora-and-the-time-studio.json) |
+| Noosphere | 123845 | [123845-noosphere.json](./123845-noosphere.json) |
 | Noox | 343992 | [343992-noox.json](./343992-noox.json) |
 | Nope | 184468 | [184468-nope.json](./184468-nope.json) |
 | Nope Nope Nope Nope Nurses | 261755 | [261755-nope-nope-nope-nope-nurses.json](./261755-nope-nope-nope-nope-nurses.json) |
