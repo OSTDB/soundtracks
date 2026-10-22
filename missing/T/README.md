@@ -1524,6 +1524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank Domination | 343877 | [343877-tank-domination.json](./343877-tank-domination.json) |
 | Tank Duel 3D | 219770 | [219770-tank-duel-3d.json](./219770-tank-duel-3d.json) |
 | Tank Elite | 82130 | [82130-tank-elite.json](./82130-tank-elite.json) |
+| Tank Empire | 110022 | [110022-tank-empire.json](./110022-tank-empire.json) |
 | Tank Factory Simulator | 297878 | [297878-tank-factory-simulator.json](./297878-tank-factory-simulator.json) |
 | Tank Fantastic | 153000 | [153000-tank-fantastic.json](./153000-tank-fantastic.json) |
 | Tank Force | 39504 | [39504-tank-force.json](./39504-tank-force.json) |
@@ -1819,6 +1820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tap Dragon: Little Knight Luna | 247329 | [247329-tap-dragon-little-knight-luna.json](./247329-tap-dragon-little-knight-luna.json) |
 | Tap Drift Car | 290846 | [290846-tap-drift-car.json](./290846-tap-drift-car.json) |
 | Tap Drift: Wild Run Car Racing | 257006 | [257006-tap-drift-wild-run-car-racing.json](./257006-tap-drift-wild-run-car-racing.json) |
+| Tap Empire | 110042 | [110042-tap-empire.json](./110042-tap-empire.json) |
 | Tap Football Star! 20-21 | 174014 | [174014-tap-football-star-20-21.json](./174014-tap-football-star-20-21.json) |
 | Tap Force | 214671 | [214671-tap-force.json](./214671-tap-force.json) |
 | Tap Gun | 247436 | [247436-tap-gun.json](./247436-tap-gun.json) |
@@ -5854,6 +5856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Communist Dogifesto | 82345 | [82345-the-communist-dogifesto.json](./82345-the-communist-dogifesto.json) |
 | The Communist Manifesto | 345427 | [345427-the-communist-manifesto.json](./345427-the-communist-manifesto.json) |
 | The Companion | 143121 | [143121-the-companion.json](./143121-the-companion.json) |
+| The Company Game | 110063 | [110063-the-company-game.json](./110063-the-company-game.json) |
 | The Complete Carriers at War | 281299 | [281299-the-complete-carriers-at-war.json](./281299-the-complete-carriers-at-war.json) |
 | The Complete Emergency | 136375 | [136375-the-complete-emergency.json](./136375-the-complete-emergency.json) |
 | The Complete Movie Games Collection | 336051 | [336051-the-complete-movie-games-collection.json](./336051-the-complete-movie-games-collection.json) |
@@ -8387,6 +8390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hookmarine | 261670 | [261670-the-hookmarine.json](./261670-the-hookmarine.json) |
 | The Hopebringer | 151114 | [151114-the-hopebringer.json](./151114-the-hopebringer.json) |
 | The Hopeless Few | 389974 | [389974-the-hopeless-few.json](./389974-the-hopeless-few.json) |
+| The Horde for Android | 110068 | [110068-the-horde-for-android.json](./110068-the-horde-for-android.json) |
 | The Horde of Gorak | 419372 | [419372-the-horde-of-gorak.json](./419372-the-horde-of-gorak.json) |
 | The Horde Wants You Dead | 339881 | [339881-the-horde-wants-you-dead.json](./339881-the-horde-wants-you-dead.json) |
 | The Horizon | 138184 | [138184-the-horizon.json](./138184-the-horizon.json) |
@@ -11105,6 +11109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mythical City 4 | 327828 | [327828-the-mythical-city-4.json](./327828-the-mythical-city-4.json) |
 | The Naked Brothers Band | 5046 | [5046-the-naked-brothers-band.json](./5046-the-naked-brothers-band.json) |
 | The Naked Brothers Band: The Video Game | 47955 | [47955-the-naked-brothers-band-the-video-game.json](./47955-the-naked-brothers-band-the-video-game.json) |
+| The Name I Wear | 408022 | [408022-the-name-i-wear.json](./408022-the-name-i-wear.json) |
 | The Nameless | 178458 | [178458-the-nameless.json](./178458-the-nameless.json) |
 | The Nameless | 214126 | [214126-the-nameless.json](./214126-the-nameless.json) |
 | The Nameless Braves: Heaven | 207749 | [207749-the-nameless-braves-heaven.json](./207749-the-nameless-braves-heaven.json) |
@@ -12691,6 +12696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Settlers: Heritage of Kings | 3698 | [3698-the-settlers-heritage-of-kings.json](./3698-the-settlers-heritage-of-kings.json) |
 | The Settlers: Heritage of Kings - Expansion Disc | 124562 | [124562-the-settlers-heritage-of-kings-expansion-disc.json](./124562-the-settlers-heritage-of-kings-expansion-disc.json) |
 | The Settlers: Heritage of Kings - Legends Expansion Disc | 124561 | [124561-the-settlers-heritage-of-kings-legends-expansion-disc.json](./124561-the-settlers-heritage-of-kings-legends-expansion-disc.json) |
+| The Settlers: History Collection | 110053 | [110053-the-settlers-history-collection.json](./110053-the-settlers-history-collection.json) |
 | The Settlers: History Edition | 107232 | [107232-the-settlers-history-edition.json](./107232-the-settlers-history-edition.json) |
 | The Settlers: Kingdoms of Anteria | 7440 | [7440-the-settlers-kingdoms-of-anteria.json](./7440-the-settlers-kingdoms-of-anteria.json) |
 | The Settlers: New Allies - Deluxe Edition | 216233 | [216233-the-settlers-new-allies-deluxe-edition.json](./216233-the-settlers-new-allies-deluxe-edition.json) |
@@ -13157,6 +13163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Skirmish | 282032 | [282032-the-skirmish.json](./282032-the-skirmish.json) |
 | The Skull Embroidery | 57479 | [57479-the-skull-embroidery.json](./57479-the-skull-embroidery.json) |
 | The Skullkid | 230259 | [230259-the-skullkid.json](./230259-the-skullkid.json) |
+| The Skulls | 110054 | [110054-the-skulls.json](./110054-the-skulls.json) |
 | The Sky Climber | 111527 | [111527-the-sky-climber.json](./111527-the-sky-climber.json) |
 | The Sky Climber | 312631 | [312631-the-sky-climber.json](./312631-the-sky-climber.json) |
 | The Sky Crawlers: Innocent Aces | 5160 | [5160-the-sky-crawlers-innocent-aces.json](./5160-the-sky-crawlers-innocent-aces.json) |
@@ -16296,6 +16303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiānqì | 167820 | [167820-tianqi.json](./167820-tianqi.json) |
 | Tiānrén zhī Xuè: Ancient Relic | 394213 | [394213-tianren-zhi-xue-ancient-relic.json](./394213-tianren-zhi-xue-ancient-relic.json) |
 | Tiāntiān Tuōlājī | 96041 | [96041-tiantian-tuolaji.json](./96041-tiantian-tuolaji.json) |
+| Tianxia | 110023 | [110023-tianxia.json](./110023-tianxia.json) |
 | Tiānxiān Biàn | 156131 | [156131-tianxian-bian.json](./156131-tianxian-bian.json) |
 | Tiào Tiào Xiǎo Miánmián | 359470 | [359470-tiao-tiao-xiao-mianmian.json](./359470-tiao-tiao-xiao-mianmian.json) |
 | Tiara | 373276 | [373276-tiara.json](./373276-tiara.json) |
