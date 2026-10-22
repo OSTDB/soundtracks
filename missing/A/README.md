@@ -521,6 +521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Life of Logic | 256243 | [256243-a-life-of-logic.json](./256243-a-life-of-logic.json) |
 | A Light Inside | 109173 | [109173-a-light-inside.json](./109173-a-light-inside.json) |
 | A Light Jog | 315018 | [315018-a-light-jog.json](./315018-a-light-jog.json) |
+| A Light Long Gone | 135086 | [135086-a-light-long-gone.json](./135086-a-light-long-gone.json) |
 | A Lighthouse Tale | 410433 | [410433-a-lighthouse-tale.json](./410433-a-lighthouse-tale.json) |
 | A Line Held Tight | 404819 | [404819-a-line-held-tight.json](./404819-a-line-held-tight.json) |
 | A Line in the Sand | 12440 | [12440-a-line-in-the-sand.json](./12440-a-line-in-the-sand.json) |
@@ -6767,6 +6768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | An Adventurer's Tale | 112604 | [112604-an-adventurers-tale.json](./112604-an-adventurers-tale.json) |
 | An Afternoon Rippling | 122337 | [122337-an-afternoon-rippling.json](./122337-an-afternoon-rippling.json) |
 | An Agonized Mind | 303158 | [303158-an-agonized-mind.json](./303158-an-agonized-mind.json) |
+| An Airport Game | 134880 | [134880-an-airport-game.json](./134880-an-airport-game.json) |
 | An Aisling | 274386 | [274386-an-aisling.json](./274386-an-aisling.json) |
 | An Alien with a Magnet | 34750 | [34750-an-alien-with-a-magnet.json](./34750-an-alien-with-a-magnet.json) |
 | An Alien with a Magnet HD | 90682 | [90682-an-alien-with-a-magnet-hd.json](./90682-an-alien-with-a-magnet-hd.json) |
