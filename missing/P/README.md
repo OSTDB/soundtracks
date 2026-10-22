@@ -6883,6 +6883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixtights | 97286 | [97286-pixtights.json](./97286-pixtights.json) |
 | Pixture | 97994 | [97994-pixture.json](./97994-pixture.json) |
 | Pixurvival | 182093 | [182093-pixurvival.json](./182093-pixurvival.json) |
+| Pixvault | 116066 | [116066-pixvault.json](./116066-pixvault.json) |
 | Pixxelverse Online | 243239 | [243239-pixxelverse-online.json](./243239-pixxelverse-online.json) |
 | Pixxle: A Pixel Puzzle Game | 91147 | [91147-pixxle-a-pixel-puzzle-game.json](./91147-pixxle-a-pixel-puzzle-game.json) |
 | PixZomb | 334808 | [334808-pixzomb.json](./334808-pixzomb.json) |
