@@ -2028,6 +2028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Piece: Unlimited World Red - Straw Hat Edition | 83793 | [83793-one-piece-unlimited-world-red-straw-hat-edition.json](./83793-one-piece-unlimited-world-red-straw-hat-edition.json) |
 | One Piece: World Seeker | 76742 | [76742-one-piece-world-seeker.json](./76742-one-piece-world-seeker.json) |
 | One Piece: World Seeker - Deluxe Edition | 121417 | [121417-one-piece-world-seeker-deluxe-edition.json](./121417-one-piece-world-seeker-deluxe-edition.json) |
+| One Piece: World Seeker - Extra Episode 2: Where Justice Lies | 122664 | [122664-one-piece-world-seeker-extra-episode-2-where-justice-lies.json](./122664-one-piece-world-seeker-extra-episode-2-where-justice-lies.json) |
 | One Piece: World Seeker - The Pirate King Edition | 166282 | [166282-one-piece-world-seeker-the-pirate-king-edition.json](./166282-one-piece-world-seeker-the-pirate-king-edition.json) |
 | One Piece: World Seeker Episode Pass | 152911 | [152911-one-piece-world-seeker-episode-pass.json](./152911-one-piece-world-seeker-episode-pass.json) |
 | One Piece: Yume no Luffy Kaizoku-dan Tanjou! | 75739 | [75739-one-piece-yume-no-luffy-kaizoku-dan-tanjou.json](./75739-one-piece-yume-no-luffy-kaizoku-dan-tanjou.json) |
