@@ -1806,9 +1806,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Majid, Smash'Em! | 176842 | [176842-majid-smashem.json](./176842-majid-smashem.json) |
 | Majigire Genkai OL-chan | 308867 | [308867-majigire-genkai-ol-chan.json](./308867-majigire-genkai-ol-chan.json) |
 | Majikoi! Love Me Seriously! | 65611 | [65611-majikoi-love-me-seriously.json](./65611-majikoi-love-me-seriously.json) |
+| Majime ni Fumajime Kaiketsu Zorori - Kyoufu no Takarabako | 124487 | [124487-majime-ni-fumajime-kaiketsu-zorori-kyoufu-no-takarabako.json](./124487-majime-ni-fumajime-kaiketsu-zorori-kyoufu-no-takarabako.json) |
 | Majin and the Forsaken Kingdom | 7062 | [7062-majin-and-the-forsaken-kingdom.json](./7062-majin-and-the-forsaken-kingdom.json) |
 | Majin Island | 220293 | [220293-majin-island.json](./220293-majin-island.json) |
 | Majin Tantei Nougami Neuro: Battle da yo! Hannin Shuugou! | 216201 | [216201-majin-tantei-nougami-neuro-battle-da-yo-hannin-shuugou.json](./216201-majin-tantei-nougami-neuro-battle-da-yo-hannin-shuugou.json) |
+| Majin Tantei Nougami Neuro: Neuro to Yako no Bishoku Sanmai | 124486 | [124486-majin-tantei-nougami-neuro-neuro-to-yako-no-bishoku-sanmai.json](./124486-majin-tantei-nougami-neuro-neuro-to-yako-no-bishoku-sanmai.json) |
 | Majin Tensei | 38231 | [38231-majin-tensei.json](./38231-majin-tensei.json) |
 | Majin Tensei II: Spiral Nemesis | 38263 | [38263-majin-tensei-ii-spiral-nemesis.json](./38263-majin-tensei-ii-spiral-nemesis.json) |
 | Majin Tensei: Blind Thinker | 112319 | [112319-majin-tensei-blind-thinker.json](./112319-majin-tensei-blind-thinker.json) |
@@ -4955,6 +4957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mazes and Labyrinths | 104728 | [104728-mazes-and-labyrinths.json](./104728-mazes-and-labyrinths.json) |
 | Mazes and Mages | 102721 | [102721-mazes-and-mages.json](./102721-mazes-and-mages.json) |
 | Mazes and Mages 2 | 121778 | [121778-mazes-and-mages-2.json](./121778-mazes-and-mages-2.json) |
+| Mazes of Fate DS | 124484 | [124484-mazes-of-fate-ds.json](./124484-mazes-of-fate-ds.json) |
 | Mazes of Karradash | 290269 | [290269-mazes-of-karradash.json](./290269-mazes-of-karradash.json) |
 | Mazes of Karradash 2 | 175430 | [175430-mazes-of-karradash-2.json](./175430-mazes-of-karradash-2.json) |
 | Mazeskalation | 183767 | [183767-mazeskalation.json](./183767-mazeskalation.json) |
@@ -5411,6 +5414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medarot Classics Kuwagata Version | 136953 | [136953-medarot-classics-kuwagata-version.json](./136953-medarot-classics-kuwagata-version.json) |
 | Medarot Classics Plus Kabuto Version | 136832 | [136832-medarot-classics-plus-kabuto-version.json](./136832-medarot-classics-plus-kabuto-version.json) |
 | Medarot Classics: 20th Anniversary Edition | 136891 | [136891-medarot-classics-20th-anniversary-edition.json](./136891-medarot-classics-20th-anniversary-edition.json) |
+| Medarot DS | 124483 | [124483-medarot-ds.json](./124483-medarot-ds.json) |
 | Medarot DS Kuwagata | 229104 | [229104-medarot-ds-kuwagata.json](./229104-medarot-ds-kuwagata.json) |
 | Medarot DS: Kabuto Version | 67687 | [67687-medarot-ds-kabuto-version.json](./67687-medarot-ds-kabuto-version.json) |
 | Medarot DS: Kuwagata Version | 204249 | [204249-medarot-ds-kuwagata-version.json](./204249-medarot-ds-kuwagata-version.json) |
@@ -10230,6 +10234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minna de Tobikome! Penguin Diving: Hooper Looper | 408866 | [408866-minna-de-tobikome-penguin-diving-hooper-looper.json](./408866-minna-de-tobikome-penguin-diving-hooper-looper.json) |
 | Minna de Uchuu Tour: ChariSou DX2 | 222318 | [222318-minna-de-uchuu-tour-charisou-dx2.json](./222318-minna-de-uchuu-tour-charisou-dx2.json) |
 | Minna no Doubutsuen | 69270 | [69270-minna-no-doubutsuen.json](./69270-minna-no-doubutsuen.json) |
+| Minna no DS Curling | 124481 | [124481-minna-no-ds-curling.json](./124481-minna-no-ds-curling.json) |
 | Minna no Ennichi | 141691 | [141691-minna-no-ennichi.json](./141691-minna-no-ennichi.json) |
 | Minna no Golf-jou Vol. 1 | 269433 | [269433-minna-no-golf-jou-vol-1.json](./269433-minna-no-golf-jou-vol-1.json) |
 | Minna no Golf-jou Vol. 2 | 269432 | [269432-minna-no-golf-jou-vol-2.json](./269432-minna-no-golf-jou-vol-2.json) |
@@ -10392,6 +10397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mirai's Midnight Stream | 351085 | [351085-mirais-midnight-stream.json](./351085-mirais-midnight-stream.json) |
 | Mirai's Midnight Training | 399715 | [399715-mirais-midnight-training.json](./399715-mirais-midnight-training.json) |
 | Miraibo Go | 316770 | [316770-miraibo-go.json](./316770-miraibo-go.json) |
+| Mirakuru! Mimika DS | 124480 | [124480-mirakuru-mimika-ds.json](./124480-mirakuru-mimika-ds.json) |
 | Miramagia | 209560 | [209560-miramagia.json](./209560-miramagia.json) |
 | Mírame | 271728 | [271728-mirame.json](./271728-mirame.json) |
 | Miramixi Storyteller | 215599 | [215599-miramixi-storyteller.json](./215599-miramixi-storyteller.json) |
@@ -12148,6 +12154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster F****r One: Vampire | 110858 | [110858-monster-f-r-one-vampire.json](./110858-monster-f-r-one-vampire.json) |
 | Monster Fair | 218156 | [218156-monster-fair.json](./218156-monster-fair.json) |
 | Monster Fantasy | 407994 | [407994-monster-fantasy.json](./407994-monster-fantasy.json) |
+| Monster Farm DS 2: Yomigaeru! Master Breeder Densetsu | 124479 | [124479-monster-farm-ds-2-yomigaeru-master-breeder-densetsu.json](./124479-monster-farm-ds-2-yomigaeru-master-breeder-densetsu.json) |
 | Monster Feeder | 344917 | [344917-monster-feeder.json](./344917-monster-feeder.json) |
 | Monster Fight | 196665 | [196665-monster-fight.json](./196665-monster-fight.json) |
 | Monster Fighter | 199360 | [199360-monster-fighter.json](./199360-monster-fighter.json) |
