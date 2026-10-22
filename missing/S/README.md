@@ -26968,6 +26968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Hospital | 332624 | [332624-sweet-hospital.json](./332624-sweet-hospital.json) |
 | Sweet Hot Spring | 339456 | [339456-sweet-hot-spring.json](./339456-sweet-hot-spring.json) |
 | Sweet Hotel | 339457 | [339457-sweet-hotel.json](./339457-sweet-hotel.json) |
+| Sweet House | 152621 | [152621-sweet-house.json](./152621-sweet-house.json) |
 | Sweet House Love | 163797 | [163797-sweet-house-love.json](./163797-sweet-house-love.json) |
 | Sweet Hunt | 339455 | [339455-sweet-hunt.json](./339455-sweet-hunt.json) |
 | Sweet Ice-Cream | 339454 | [339454-sweet-ice-cream.json](./339454-sweet-ice-cream.json) |
