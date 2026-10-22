@@ -447,6 +447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naraku no Shiro Ichiyanagi Nagomu, Nidome no Junan | 124636 | [124636-naraku-no-shiro-ichiyanagi-nagomu-nidome-no-junan.json](./124636-naraku-no-shiro-ichiyanagi-nagomu-nidome-no-junan.json) |
 | Narara Superboard: Hwansang Seoyugi | 145599 | [145599-narara-superboard-hwansang-seoyugi.json](./145599-narara-superboard-hwansang-seoyugi.json) |
 | Narava RPG | 277432 | [277432-narava-rpg.json](./277432-narava-rpg.json) |
+| Narazumono | 118027 | [118027-narazumono.json](./118027-narazumono.json) |
 | Narazumono Sentou Butai | 37671 | [37671-narazumono-sentou-butai.json](./37671-narazumono-sentou-butai.json) |
 | Narb Fortunii | 350042 | [350042-narb-fortunii.json](./350042-narb-fortunii.json) |
 | Narborion 3: The Swamp of Thousand Paths | 175275 | [175275-narborion-3-the-swamp-of-thousand-paths.json](./175275-narborion-3-the-swamp-of-thousand-paths.json) |
@@ -3398,6 +3399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night of the Scarecrows | 119752 | [119752-night-of-the-scarecrows.json](./119752-night-of-the-scarecrows.json) |
 | Night of the Shrub Part 1 | 95188 | [95188-night-of-the-shrub-part-1.json](./95188-night-of-the-shrub-part-1.json) |
 | Night of the Shrub Part 2 | 104829 | [104829-night-of-the-shrub-part-2.json](./104829-night-of-the-shrub-part-2.json) |
+| Night of the Shrub Part 3 | 118026 | [118026-night-of-the-shrub-part-3.json](./118026-night-of-the-shrub-part-3.json) |
 | Night of the Slayers | 285952 | [285952-night-of-the-slayers.json](./285952-night-of-the-slayers.json) |
 | Night of the Stars | 332395 | [332395-night-of-the-stars.json](./332395-night-of-the-stars.json) |
 | Night of the Wererat | 216986 | [216986-night-of-the-wererat.json](./216986-night-of-the-wererat.json) |
