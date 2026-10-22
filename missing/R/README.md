@@ -5739,6 +5739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ridiculous Fishing | 5635 | [5635-ridiculous-fishing.json](./5635-ridiculous-fishing.json) |
 | Ridiculous Glitching | 332639 | [332639-ridiculous-glitching.json](./332639-ridiculous-glitching.json) |
 | Ridiculous RPG | 232041 | [232041-ridiculous-rpg.json](./232041-ridiculous-rpg.json) |
+| Ridiculous Rugby | 107593 | [107593-ridiculous-rugby.json](./107593-ridiculous-rugby.json) |
 | Ridiculous Shipping | 331317 | [331317-ridiculous-shipping.json](./331317-ridiculous-shipping.json) |
 | Riding Academy 2 | 54316 | [54316-riding-academy-2.json](./54316-riding-academy-2.json) |
 | Riding Champion: Legacy of Rosemond Hill | 64116 | [64116-riding-champion-legacy-of-rosemond-hill.json](./64116-riding-champion-legacy-of-rosemond-hill.json) |
