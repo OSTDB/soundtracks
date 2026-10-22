@@ -1165,6 +1165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GameKey: Star Wars - Yoda's Escape / Turret Defense | 221811 | [221811-gamekey-star-wars-yodas-escape-turret-defense.json](./221811-gamekey-star-wars-yodas-escape-turret-defense.json) |
 | GameKid | 240871 | [240871-gamekid.json](./240871-gamekid.json) |
 | GameLib | 305917 | [305917-gamelib.json](./305917-gamelib.json) |
+| Gameloft Classics: 20 Years | 141712 | [141712-gameloft-classics-20-years.json](./141712-gameloft-classics-20-years.json) |
 | GameMaker 25th Anniversary | 324949 | [324949-gamemaker-25th-anniversary.json](./324949-gamemaker-25th-anniversary.json) |
 | GameMaster | 241481 | [241481-gamemaster.json](./241481-gamemaster.json) |
 | Gamemory | 158961 | [158961-gamemory.json](./158961-gamemory.json) |
@@ -1264,6 +1265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ganbaru Watashi no Kakei Diary | 124591 | [124591-ganbaru-watashi-no-kakei-diary.json](./124591-ganbaru-watashi-no-kakei-diary.json) |
 | Ganbatte | 77402 | [77402-ganbatte.json](./77402-ganbatte.json) |
 | Gancho Bond | 372673 | [372673-gancho-bond.json](./372673-gancho-bond.json) |
+| Gandalf the Sorcerer | 141463 | [141463-gandalf-the-sorcerer.json](./141463-gandalf-the-sorcerer.json) |
 | Gander National Park | 148681 | [148681-gander-national-park.json](./148681-gander-national-park.json) |
 | Gandhi III | 323801 | [323801-gandhi-iii.json](./323801-gandhi-iii.json) |
 | Gang Blast | 283265 | [283265-gang-blast.json](./283265-gang-blast.json) |
@@ -5220,6 +5222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gon | 97118 | [97118-gon.json](./97118-gon.json) |
 | Gon: Baku-baku Baku-baku Adventure | 6785 | [6785-gon-baku-baku-baku-baku-adventure.json](./6785-gon-baku-baku-baku-baku-adventure.json) |
 | Gon' E-Choo! | 19023 | [19023-gon-e-choo.json](./19023-gon-e-choo.json) |
+| Gondola's Adventure | 141707 | [141707-gondolas-adventure.json](./141707-gondolas-adventure.json) |
 | Gondomania | 40066 | [40066-gondomania.json](./40066-gondomania.json) |
 | Gone | 199927 | [199927-gone.json](./199927-gone.json) |
 | Gone Camping! | 286223 | [286223-gone-camping.json](./286223-gone-camping.json) |
