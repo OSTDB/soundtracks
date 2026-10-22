@@ -4766,6 +4766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Red in the Woods | 364493 | [364493-little-red-in-the-woods.json](./364493-little-red-in-the-woods.json) |
 | Little Red Lie | 44280 | [44280-little-red-lie.json](./44280-little-red-lie.json) |
 | Little Red Memories | 278634 | [278634-little-red-memories.json](./278634-little-red-memories.json) |
+| Little Red Riding Hood | 128235 | [128235-little-red-riding-hood.json](./128235-little-red-riding-hood.json) |
 | Little Red Riding Hood | 372124 | [372124-little-red-riding-hood.json](./372124-little-red-riding-hood.json) |
 | Little Red Riding Hood | 409767 | [409767-little-red-riding-hood.json](./409767-little-red-riding-hood.json) |
 | Little Red Riding Hood A | 225313 | [225313-little-red-riding-hood-a.json](./225313-little-red-riding-hood-a.json) |
@@ -6824,6 +6825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Mansion | 346672 | [346672-love-mansion.json](./346672-love-mansion.json) |
 | Love Mart | 348226 | [348226-love-mart.json](./348226-love-mart.json) |
 | Love Me | 346741 | [346741-love-me.json](./346741-love-me.json) |
+| Love Me Forever | 128199 | [128199-love-me-forever.json](./128199-love-me-forever.json) |
 | Love Me Not | 252147 | [252147-love-me-not.json](./252147-love-me-not.json) |
 | Love Meeting | 165032 | [165032-love-meeting.json](./165032-love-meeting.json) |
 | Love Menu | 235591 | [235591-love-menu.json](./235591-love-menu.json) |
