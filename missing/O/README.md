@@ -2745,6 +2745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operation Trondheim | 370017 | [370017-operation-trondheim.json](./370017-operation-trondheim.json) |
 | Operation Trust | 257402 | [257402-operation-trust.json](./257402-operation-trust.json) |
 | Operation Ushkurat | 242104 | [242104-operation-ushkurat.json](./242104-operation-ushkurat.json) |
+| Operation Valor | 121310 | [121310-operation-valor.json](./121310-operation-valor.json) |
 | Operation Whirlwind | 23964 | [23964-operation-whirlwind.json](./23964-operation-whirlwind.json) |
 | Operation Wolf 3 | 40377 | [40377-operation-wolf-3.json](./40377-operation-wolf-3.json) |
 | Operation Wolf Returns: First Mission | 218213 | [218213-operation-wolf-returns-first-mission.json](./218213-operation-wolf-returns-first-mission.json) |
