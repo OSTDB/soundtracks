@@ -7083,6 +7083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Blood | 156591 | [156591-planet-blood.json](./156591-planet-blood.json) |
 | Planet Bom Bom | 345486 | [345486-planet-bom-bom.json](./345486-planet-bom-bom.json) |
 | Planet Boom | 192732 | [192732-planet-boom.json](./192732-planet-boom.json) |
+| Planet Bounce | 127616 | [127616-planet-bounce.json](./127616-planet-bounce.json) |
 | Planet Breakout 2 | 224701 | [224701-planet-breakout-2.json](./224701-planet-breakout-2.json) |
 | Planet Centauri | 34841 | [34841-planet-centauri.json](./34841-planet-centauri.json) |
 | Planet Chyton | 391760 | [391760-planet-chyton.json](./391760-planet-chyton.json) |
@@ -7645,6 +7646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Playground | 186175 | [186175-playground.json](./186175-playground.json) |
 | Playground AR: Physics Sandbox | 89172 | [89172-playground-ar-physics-sandbox.json](./89172-playground-ar-physics-sandbox.json) |
 | Playground Battle World | 83483 | [83483-playground-battle-world.json](./83483-playground-battle-world.json) |
+| Playground Heroes | 127586 | [127586-playground-heroes.json](./127586-playground-heroes.json) |
 | Playground VR | 143690 | [143690-playground-vr.json](./143690-playground-vr.json) |
 | PlayGuys | 320538 | [320538-playguys.json](./320538-playguys.json) |
 | Playhead | 195719 | [195719-playhead.json](./195719-playhead.json) |
@@ -9751,6 +9753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pooper Scooper | 74261 | [74261-pooper-scooper.json](./74261-pooper-scooper.json) |
 | PooPig | 374367 | [374367-poopig.json](./374367-poopig.json) |
 | Poople | 420545 | [420545-poople.json](./420545-poople.json) |
+| Pooplers | 127599 | [127599-pooplers.json](./127599-pooplers.json) |
 | Poopnauts | 418275 | [418275-poopnauts.json](./418275-poopnauts.json) |
 | Poopy Time | 305407 | [305407-poopy-time.json](./305407-poopy-time.json) |
 | Poor Artifact Maker | 290538 | [290538-poor-artifact-maker.json](./290538-poor-artifact-maker.json) |
@@ -10329,6 +10332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Potion Lore | 56919 | [56919-potion-lore.json](./56919-potion-lore.json) |
 | Potion Meister | 163834 | [163834-potion-meister.json](./163834-potion-meister.json) |
 | Potion Notions | 176993 | [176993-potion-notions.json](./176993-potion-notions.json) |
+| Potion Party | 127583 | [127583-potion-party.json](./127583-potion-party.json) |
 | Potion Permit: Christmas Tree | 366954 | [366954-potion-permit-christmas-tree.json](./366954-potion-permit-christmas-tree.json) |
 | Potion Permit: Complete DLC Bundle | 304803 | [304803-potion-permit-complete-dlc-bundle.json](./304803-potion-permit-complete-dlc-bundle.json) |
 | Potion Permit: Complete Edition | 285665 | [285665-potion-permit-complete-edition.json](./285665-potion-permit-complete-edition.json) |
@@ -12876,6 +12880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Protean Fox | 376751 | [376751-protean-fox.json](./376751-protean-fox.json) |
 | Protect Eggs | 161718 | [161718-protect-eggs.json](./161718-protect-eggs.json) |
 | Protect Gloobi | 373286 | [373286-protect-gloobi.json](./373286-protect-gloobi.json) |
+| Protect Grass | 127593 | [127593-protect-grass.json](./127593-protect-grass.json) |
 | Protect Harem City | 220654 | [220654-protect-harem-city.json](./220654-protect-harem-city.json) |
 | Protect Me Knight | 22479 | [22479-protect-me-knight.json](./22479-protect-me-knight.json) |
 | Protect Mother | 241631 | [241631-protect-mother.json](./241631-protect-mother.json) |
@@ -13885,6 +13890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Push Push Penguin | 209600 | [209600-push-push-penguin.json](./209600-push-push-penguin.json) |
 | Push Puzzle: Rescue Adventure | 179205 | [179205-push-puzzle-rescue-adventure.json](./179205-push-puzzle-rescue-adventure.json) |
 | Push Stack | 146348 | [146348-push-stack.json](./146348-push-stack.json) |
+| Push sticks | 127588 | [127588-push-sticks.json](./127588-push-sticks.json) |
 | Push That Cat!! | 258642 | [258642-push-that-cat.json](./258642-push-that-cat.json) |
 | Push the Box | 147899 | [147899-push-the-box.json](./147899-push-the-box.json) |
 | Push the Box | 247075 | [247075-push-the-box.json](./247075-push-the-box.json) |
