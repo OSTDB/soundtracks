@@ -5383,6 +5383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fitness Game: Romance Story | 256250 | [256250-fitness-game-romance-story.json](./256250-fitness-game-romance-story.json) |
 | Fitness Girl - Studio Coach | 86814 | [86814-fitness-girl-studio-coach.json](./86814-fitness-girl-studio-coach.json) |
 | Fitness Party | 136887 | [136887-fitness-party.json](./136887-fitness-party.json) |
+| Fitness Village | 114697 | [114697-fitness-village.json](./114697-fitness-village.json) |
 | Fitriz | 212147 | [212147-fitriz.json](./212147-fitriz.json) |
 | FitStrike | 187138 | [187138-fitstrike.json](./187138-fitstrike.json) |
 | Fittest | 100167 | [100167-fittest.json](./100167-fittest.json) |
@@ -10209,6 +10210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Full Contact Teams Racing | 241053 | [241053-full-contact-teams-racing.json](./241053-full-contact-teams-racing.json) |
 | Full Court Heroes | 235625 | [235625-full-court-heroes.json](./235625-full-court-heroes.json) |
 | Full Deck Solitaire | 91173 | [91173-full-deck-solitaire.json](./91173-full-deck-solitaire.json) |
+| Full Drift Racing - Drifting & Racing Game | 114728 | [114728-full-drift-racing-drifting-and-racing-game.json](./114728-full-drift-racing-drifting-and-racing-game.json) |
 | Full English City | 310804 | [310804-full-english-city.json](./310804-full-english-city.json) |
 | Full Fathom | 234659 | [234659-full-fathom.json](./234659-full-fathom.json) |
 | Full Frontal Assault | 91282 | [91282-full-frontal-assault.json](./91282-full-frontal-assault.json) |
