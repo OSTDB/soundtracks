@@ -95,6 +95,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | D.W.A.R.F.S. | 36414 | [36414-d-w-a-r-f-s.json](./36414-d-w-a-r-f-s.json) |
 | D' | 174654 | [174654-d.json](./174654-d.json) |
 | D'lirium: The Golden Rogue | 111433 | [111433-dlirium-the-golden-rogue.json](./111433-dlirium-the-golden-rogue.json) |
+| D'ni Legacy | 142085 | [142085-dni-legacy.json](./142085-dni-legacy.json) |
 | D's Diner: The Director's Cut | 245311 | [245311-ds-diner-the-directors-cut.json](./245311-ds-diner-the-directors-cut.json) |
 | D'Spirali Hideout | 268873 | [268873-dspirali-hideout.json](./268873-dspirali-hideout.json) |
 | D*Fuzed | 218911 | [218911-d-fuzed.json](./218911-d-fuzed.json) |
@@ -5294,6 +5295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Der Bauernhof | 268111 | [268111-der-bauernhof.json](./268111-der-bauernhof.json) |
 | Der Blaue Diamant: Additional mission | 213031 | [213031-der-blaue-diamant-additional-mission.json](./213031-der-blaue-diamant-additional-mission.json) |
 | Der blaue Kristall | 125956 | [125956-der-blaue-kristall.json](./125956-der-blaue-kristall.json) |
+| Der Clown | 142083 | [142083-der-clown.json](./142083-der-clown.json) |
 | Der Dativ ist dem Genitiv sein Tod | 269665 | [269665-der-dativ-ist-dem-genitiv-sein-tod.json](./269665-der-dativ-ist-dem-genitiv-sein-tod.json) |
 | Der einzig wahre Auserwählte | 83205 | [83205-der-einzig-wahre-auserwahlte.json](./83205-der-einzig-wahre-auserwahlte.json) |
 | Der flinke Architekt | 91870 | [91870-der-flinke-architekt.json](./91870-der-flinke-architekt.json) |
@@ -6402,6 +6404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diabolik Lovers: Haunted Dark Bridal - Limited Edition | 44509 | [44509-diabolik-lovers-haunted-dark-bridal-limited-edition.json](./44509-diabolik-lovers-haunted-dark-bridal-limited-edition.json) |
 | Diabolik: The Original Sin | 43212 | [43212-diabolik-the-original-sin.json](./43212-diabolik-the-original-sin.json) |
 | Diabolika | 93159 | [93159-diabolika.json](./93159-diabolika.json) |
+| Diabolus Ex | 142298 | [142298-diabolus-ex.json](./142298-diabolus-ex.json) |
 | Diabotical | 22384 | [22384-diabotical.json](./22384-diabotical.json) |
 | Diabotical Rogue | 304285 | [304285-diabotical-rogue.json](./304285-diabotical-rogue.json) |
 | Diadem of Manstraut | 407349 | [407349-diadem-of-manstraut.json](./407349-diadem-of-manstraut.json) |
@@ -10227,10 +10230,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dora & Kai-Lan's Pet Shelter | 97372 | [97372-dora-and-kai-lans-pet-shelter.json](./97372-dora-and-kai-lans-pet-shelter.json) |
 | Dora and Friends | 230330 | [230330-dora-and-friends.json](./230330-dora-and-friends.json) |
 | Dora and the Three Little Pigs | 231378 | [231378-dora-and-the-three-little-pigs.json](./231378-dora-and-the-three-little-pigs.json) |
+| Dora Chie: Mini-Dora Ongakutai to 7-tsu no Chie | 142283 | [142283-dora-chie-mini-dora-ongakutai-to-7-tsu-no-chie.json](./142283-dora-chie-mini-dora-ongakutai-to-7-tsu-no-chie.json) |
+| Dora Eigo: Nobita to Yousei no Fushigi Collection | 142284 | [142284-dora-eigo-nobita-to-yousei-no-fushigi-collection.json](./142284-dora-eigo-nobita-to-yousei-no-fushigi-collection.json) |
 | Dora Is Dead | 341089 | [341089-dora-is-dead.json](./341089-dora-is-dead.json) |
 | Dora Is Dead: Remastered | 184964 | [184964-dora-is-dead-remastered.json](./184964-dora-is-dead-remastered.json) |
 | Dora Kazu: Nobita no Suuji Daibouken | 142282 | [142282-dora-kazu-nobita-no-suuji-daibouken.json](./142282-dora-kazu-nobita-no-suuji-daibouken.json) |
 | Dora Laparoscopic Appendectomy | 343935 | [343935-dora-laparoscopic-appendectomy.json](./343935-dora-laparoscopic-appendectomy.json) |
+| Dora Moji: Nobita no Kanji Daisakusen | 142285 | [142285-dora-moji-nobita-no-kanji-daisakusen.json](./142285-dora-moji-nobita-no-kanji-daisakusen.json) |
 | Dora Star Explorer | 406776 | [406776-dora-star-explorer.json](./406776-dora-star-explorer.json) |
 | Dora the Explorer | 221672 | [221672-dora-the-explorer.json](./221672-dora-the-explorer.json) |
 | Dora the Explorer: 3D Driving Adventure | 251365 | [251365-dora-the-explorer-3d-driving-adventure.json](./251365-dora-the-explorer-3d-driving-adventure.json) |
